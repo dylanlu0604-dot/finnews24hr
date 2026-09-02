@@ -1,7 +1,19 @@
 {
   "date": "2026-09-03",
-  "count": 451,
+  "count": 452,
   "items": [
+    {
+      "id": "mkt:01a06420-8867-7118-846f-098d9aa0c3a5",
+      "time": "2026-09-03 05:57:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【U.S. media: Saudi civil nuclear deal could allow up to 20% uranium enrichment】The Wall Street Journal reports new details of a Trump administration civil-nuclear agreement with Saudi Arabia, submitted to U.S. Congress last week, outline a roadmap under which Saudi Arabia could, after further consultations, pursue domestic uranium enrichment up to about 20%. That enrichment level could fuel small modular reactors but would raise the risk of diversion to military use. Scott Rock, a former DOE official and vice chair of the Nuclear Threat Initiative, said the level is defensible for civilian use but that reaching it would mean most of the work toward producing weapons-grade material is already done."
+    },
     {
       "id": "mkt:01a0641f-cf61-7118-846f-0408fb25a749",
       "time": "2026-09-03 05:56:41",
