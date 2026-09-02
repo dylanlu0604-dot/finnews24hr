@@ -1,7 +1,36 @@
 {
   "date": "2026-09-03",
-  "count": 448,
+  "count": 451,
   "items": [
+    {
+      "id": "mkt:01a0641f-cf61-7118-846f-0408fb25a749",
+      "time": "2026-09-03 05:56:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing sources, reported U.S. Middle East envoy Witkoff met over the weekend with the UAE national security adviser to discuss next steps on Iran."
+    },
+    {
+      "id": "5074053",
+      "time": "2026-09-03 05:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國特使史蒂夫・維特科夫上週末會見阿聯酋官員，商討伊朗相關事宜。"
+    },
+    {
+      "id": "mkt:01a0641c-ba17-7118-846e-faa445114318",
+      "time": "2026-09-03 05:53:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company believes it will deliver about $350 billion of AI semiconductors to these customers over the next two years."
+    },
     {
       "id": "mkt:01a0641c-2289-7118-846e-f2e9b206637b",
       "time": "2026-09-03 05:52:40",
