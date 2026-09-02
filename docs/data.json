@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-03 00:30:36",
-  "count": 11990,
+  "updated": "2026-09-03 00:34:41",
+  "count": 11995,
   "items": [
+    {
+      "id": "mkt:01a062f8-4ac0-7118-8469-4daac33326db",
+      "time": "2026-09-03 00:33:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Coder launches Coder Agent Relay; SpaceXAI named inaugural partner."
+    },
+    {
+      "id": "5073810",
+      "time": "2026-09-03 00:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍與委內瑞拉政府簽署石油協議。"
+    },
+    {
+      "id": "mkt:01a062f8-17b7-7118-8469-42a807f58edf",
+      "time": "2026-09-03 00:33:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary wright and Venezuelan interim president RODRIGUEZ jointly witnessed the signing of an oil agreement between the U.S. and Venezuela."
+    },
+    {
+      "id": "5073809",
+      "time": "2026-09-03 00:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行業保險業做好西藏吉隆泥石流災害金融服務工作】記者9月2日從國家金融監督管理總局獲悉，針對西藏吉隆泥石流災害，目前保險業初步估損金額4.5億元，正抓緊推進理賠等服務工作；銀行機構加大現鈔調配投放力度，提供應急保障現金超2億元，保障災區現金支取、外幣兌換等金融需求。（新華社）"
+    },
+    {
+      "id": "mkt:01a062f6-e2d0-7118-8469-3c9a13619e11",
+      "time": "2026-09-03 00:32:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Jazeera cited Iran's Islamic Revolutionary Guard Corps deputy commander as saying the forces would 'respond resolutely to any enemy action'."
+    },
+    {
+      "id": "5073808",
+      "time": "2026-09-03 00:32:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Snowflake盤後財報公佈前，股價下跌4.1%。"
+    },
     {
       "id": "mkt:01a062f4-5156-7118-8469-34cd4c85b01a",
       "time": "2026-09-03 00:29:33",
@@ -110347,15 +110407,6 @@
         "其他"
       ],
       "text": "【IDC稱蘋果摺疊屏iPhone首年出貨量將達1000萬部】研究機構IDC預測，蘋果備受期待的摺疊屏iPhone在上市首年將實現超過1000萬部的出貨量。IDC高階研究總監納比拉·波帕爾預計，儘管售價高達2500美元，這款護照式摺疊蘋果手機仍將大獲成功。摺疊裝置品類今年將增長12.6%，明年增速將加快至18%，IDC預測蘋果到2027年最終將佔據所有摺疊裝置出貨量的40%。"
-    },
-    {
-      "id": "5060657",
-      "time": "2026-08-27 00:33:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "週三（8月26日）歐市尾盤，ICE英國天然氣期貨跌0.22%，整體低開高走，TTF基準荷蘭天然氣期貨漲3.54%，ICE歐盟碳排放交易許可（期貨價格）跌1.84%。"
     }
   ]
 }
