@@ -1,7 +1,31 @@
 {
   "date": "2026-09-03",
-  "count": 441,
+  "count": 444,
   "items": [
+    {
+      "id": "5074050",
+      "time": "2026-09-03 05:48:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：即便產品結構變化會拉低毛利率，預計仍可維持營業利潤率。"
+    },
+    {
+      "id": "5074049",
+      "time": "2026-09-03 05:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本9月食品漲價種類達近5000種 經濟學家預計通脹將持續】根據日本調查機構對日本195家主要食品企業的最新調查顯示，預計日本9月漲價的食品種類將達到4923種，約為去年同期的3倍。這也是自2025年4月以來，單月漲價種類再度突破4000種。對此，日本經濟界人士認為，油價高企疊加日元貶值令日本通脹加劇。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a06414-ffab-7118-846e-e60b7009b5e7",
+      "time": "2026-09-03 05:44:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nscale says contract backlog reaches $103 bln after $45 bln Anthropic deal】The Information reports Nscale told potential investors its contract backlog is about $103.0 bln after securing a $45.0 bln compute agreement with Anthropic. Documents show Nscale had disclosed roughly $51.0 bln of contracted revenue before the Anthropic deal; the backlog rose further with the Anthropic order and other AI customer contracts. Average contract length is about 5.7 years, implying an annualized run-rate of roughly $18.0 bln, but the filings do not specify expected revenue recognition. Nscale plans an IPO as early as this month."
+    },
     {
       "id": "mkt:01a0640d-1bd1-7118-846e-debdcab84a29",
       "time": "2026-09-03 05:36:15",

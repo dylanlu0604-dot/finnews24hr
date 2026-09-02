@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-03 05:44:59",
-  "count": 11990,
+  "updated": "2026-09-03 05:49:16",
+  "count": 11985,
   "items": [
+    {
+      "id": "5074050",
+      "time": "2026-09-03 05:48:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：即便產品結構變化會拉低毛利率，預計仍可維持營業利潤率。"
+    },
+    {
+      "id": "5074049",
+      "time": "2026-09-03 05:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本9月食品漲價種類達近5000種 經濟學家預計通脹將持續】根據日本調查機構對日本195家主要食品企業的最新調查顯示，預計日本9月漲價的食品種類將達到4923種，約為去年同期的3倍。這也是自2025年4月以來，單月漲價種類再度突破4000種。對此，日本經濟界人士認為，油價高企疊加日元貶值令日本通脹加劇。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a06414-ffab-7118-846e-e60b7009b5e7",
+      "time": "2026-09-03 05:44:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nscale says contract backlog reaches $103 bln after $45 bln Anthropic deal】The Information reports Nscale told potential investors its contract backlog is about $103.0 bln after securing a $45.0 bln compute agreement with Anthropic. Documents show Nscale had disclosed roughly $51.0 bln of contracted revenue before the Anthropic deal; the backlog rose further with the Anthropic order and other AI customer contracts. Average contract length is about 5.7 years, implying an annualized run-rate of roughly $18.0 bln, but the filings do not specify expected revenue recognition. Nscale plans an IPO as early as this month."
+    },
     {
       "id": "mkt:01a0640d-1bd1-7118-846e-debdcab84a29",
       "time": "2026-09-03 05:36:15",
@@ -110062,99 +110086,6 @@
         "其他"
       ],
       "text": "中國地震臺網自動測定：08月27日05時47分在臺灣台東縣海域附近（北緯22.78度，東經121.44度）發生4.5級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5060954",
-      "time": "2026-08-27 05:48:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：OpenAI與Anthropic很快將會上市。"
-    },
-    {
-      "id": "mkt:01a0400c-0d9e-7aab-9139-8b835c305fda",
-      "time": "2026-08-27 05:48:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Jensen Huang said that although the industry is shifting toward developing custom chips, leading-edge AI labs will remain long-term customers of NVIDIA."
-    },
-    {
-      "id": "mkt:01a0400c-0b8b-7aab-9139-819478b1f148",
-      "time": "2026-08-27 05:48:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the world will need both closed and open AI models."
-    },
-    {
-      "id": "mkt:01a0400b-f33f-7aab-9139-7a1481a7d141",
-      "time": "2026-08-27 05:48:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang hinted OpenAI and Anthropic may IPO soon."
-    },
-    {
-      "id": "5060953",
-      "time": "2026-08-27 05:48:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達預測AI驅動的銷售增長將延續至2028財年】英偉達給出2028財年樂觀銷售預期，首席財務官科萊特·克雷斯稱，公司預計2028財年營收增長約70%。公司二季度財報顯示營收962億美元，非特定專案調整後每股收益2.22美元，資料中心業務營收890億美元。英偉達警示，受記憶體成本飆升影響，未來數月利潤率將收窄，但隨著公司上調產品定價，預計2028財年利潤率將回落至72%‑73%區間。"
-    },
-    {
-      "id": "5060952",
-      "time": "2026-08-27 05:47:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：全球既需要閉源模型，也需要開源模型。"
-    },
-    {
-      "id": "mkt:01a0400b-0e60-7aab-9139-745604217629",
-      "time": "2026-08-27 05:47:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【NVIDIA beats Q2, issues rare early FY2028 revenue guidance】NVIDIA beat Q2 FY2027 estimates; after-hours shares initially fell about 3%. CFO Colette Kress said NVIDIA now expects FY2028 revenue to rise roughly 70% versus analysts’ ~44% consensus, citing accelerating demand limited by supply. CEO Jensen Huang said demand growth already exceeds 70% and could be near 100%; the 70% outlook reflects current supply constraints and would be materially higher without them. Shares swung in after-hours, dropping ~3% then rallying as much as 5%."
-    },
-    {
-      "id": "5060951",
-      "time": "2026-08-27 05:45:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普簽署公告擴大瘦牛肉進口配額】美國總統特朗普今日釋出公告，臨時上調瘦牛肉碎料進口配額，超額部分不徵收關稅。公告顯示，配額上調自9月1日起生效，為期90天。白宮補充，每月進口上限為10萬噸。公告表明，該配額僅適用於瘦牛肉碎料，用於和美國本土牛肉混合製作牛肉餡。"
     }
   ]
 }
