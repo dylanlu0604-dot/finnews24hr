@@ -1,7 +1,179 @@
 {
-  "updated": "2026-09-02 09:49:51",
-  "count": 12821,
+  "updated": "2026-09-02 09:53:57",
+  "count": 12820,
   "items": [
+    {
+      "id": "mkt:01a05fd2-0c98-7118-844d-bf20e8f3e936",
+      "time": "2026-09-02 09:53:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GBP/USD slipped below 1.35, down 0.10% on the day."
+    },
+    {
+      "id": "mkt:01a05fd1-fe7d-7118-844d-b6fc4a95729c",
+      "time": "2026-09-02 09:53:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $63.41/oz; New York silver futures slipped below $64/oz, down 1.04% on the day."
+    },
+    {
+      "id": "mkt:01a05fd1-9395-7118-844d-ad31d4c85629",
+      "time": "2026-09-02 09:52:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share banking sector extends gains for consecutive sessions; ICBC, CCB, Bank of China, Nanjing Bank, Jiangsu Bank, Chengdu Bank and Qingdao Bank hit fresh highs."
+    },
+    {
+      "id": "5072096",
+      "time": "2026-09-02 09:52:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報63.36美元/盎司。"
+    },
+    {
+      "id": "5072095",
+      "time": "2026-09-02 09:52:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4340美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5072094",
+      "time": "2026-09-02 09:52:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報64.04美元/盎司。"
+    },
+    {
+      "id": "5072093",
+      "time": "2026-09-02 09:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "熱力板塊短線拉昇，京能熱力漲停，大連熱電、杭州熱電、恆盛能源、惠天熱電、百通能源等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a05fd0-e40c-7118-844d-a519664c1c55",
+      "time": "2026-09-02 09:52:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold touched $4,300/oz, down 0.67% intraday."
+    },
+    {
+      "id": "5072092",
+      "time": "2026-09-02 09:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Dropbox表示，在8月份的駭客攻擊中，約有5000個賬戶遭到入侵。"
+    },
+    {
+      "id": "5072091",
+      "time": "2026-09-02 09:51:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4300美元/盎司，日內跌0.66%。"
+    },
+    {
+      "id": "mkt:01a05fd0-38c6-7118-844d-9d8ca519e9ed",
+      "time": "2026-09-02 09:51:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan policy board member Takata said the Middle East conflict is unlikely to cause a slowdown in the Japanese economy."
+    },
+    {
+      "id": "5072090",
+      "time": "2026-09-02 09:51:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4350美元/盎司，日內跌1.11%。"
+    },
+    {
+      "id": "5072089",
+      "time": "2026-09-02 09:51:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員高田創：中東衝突不太可能導致日本經濟下滑。"
+    },
+    {
+      "id": "mkt:01a05fcf-4378-7118-844d-967ca93d538f",
+      "time": "2026-09-02 09:50:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Wright says 17 mln barrels transited Strait of Hormuz on Monday; Kpler tracking shows no oil cargoes】Per Reuters, US Energy Secretary Wright said 17 mln barrels of crude transited the Strait of Hormuz on Monday, the highest flow since Iran-related conflict disrupted shipping. That contrasts with preliminary vessel-tracking from Kpler, which showed only five bulk carriers transited on Monday and recorded no oil cargoes. Vessels with transponders turned off would not appear in Kpler’s data. Wright has previously said Hormuz flows exceed ship-tracking firms’ records."
+    },
+    {
+      "id": "mkt:01a05fcf-3443-7118-844d-8c2c15d7ea3d",
+      "time": "2026-09-02 09:50:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Australian growth unexpectedly accelerates; RESERVE BANK OF AUSTRALIA rate-hike odds rise】Australia's economy unexpectedly accelerated in Q2, strengthening the case for further tightening by the RESERVE BANK OF AUSTRALIA. The Australian Bureau of Statistics reported Q2 GDP +0.4% QoQ (consensus 0.3%) and +2.1% YoY (consensus 1.8%). The prints suggest prior RBA measures to curb inflation have not materially slowed activity. GDP will be a key input ahead of the RBA's Sep 28–29 meeting. NAB economist Sally Auld, after stronger-than-expected inflation, now expects a September hike and said the risk of a further November increase \"leans to the upside.\" The RBA held rates unchanged for a second straight meeting last month after three hikes from Feb–May."
+    },
+    {
+      "id": "mkt:01a05fcf-21b7-7118-844d-8188c65c4de2",
+      "time": "2026-09-02 09:50:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ to announce interest rate decision and Monetary Policy Statement in 10 minutes."
+    },
+    {
+      "id": "5072088",
+      "time": "2026-09-02 09:49:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪反彈 遠東股份、太陽電纜雙雙漲停】早盤電網裝置板塊震盪反彈，遠東股份、太陽電纜漲停，揚電科技、神馬電力、漢纜股份、億能電力、燦能電力等跟漲。"
+    },
+    {
+      "id": "te:markets:580253",
+      "time": "2026-09-02 09:49:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Stock Price Hits 5-week Low — Tencent Holdings shares decreased to 435.60 HKD, the lowest since July 2026. Over the past 4 weeks, Tencent Holdings lost 10.89%, and in the last 12 months, it decreased 27.23%."
+    },
     {
       "id": "mkt:01a05fce-4f23-7118-844d-7d4017c4ba57",
       "time": "2026-09-02 09:49:11",
@@ -117428,182 +117600,6 @@
         "國際"
       ],
       "text": "日本醫療研究開發機構將在美國設立基地，吸引對醫藥初創企業的投資。"
-    },
-    {
-      "id": "te:economy:578085",
-      "time": "2026-08-26 09:53:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Australia Q2 Construction Output Unexpectedly Falls — Total construction work in Australia declined 2.1% quarter-on-quarter to AUD 82,515.9 million in Q2 2026, reversing an upwardly revised 4.3% expansion in the previous quarter and defying market expectations for a 0.5% increase. It marked the first contraction since Q3 2025, driven largely by a sharp downturn in engineering work, which fell 6.0% after surging 7.4% in Q1, to AUD 36,672.2 million. Meanwhile, building construction growth eased to 1.3% from 1.7%, reaching AUD 45,843.7 million. Non-residential building slowed sharply, rising just 0.5% after a 3.4% gain in the prior quarter, although residential construction accelerated to 1.7% from 0.6%. Regionally, activity fell sharply in Western Australia (-19.7%), followed by Tasmania (-9.5%) and the Australian Capital Territory (-8.8%). In contrast, construction output expanded in Victoria (5.8%), Northern Territory (2.7%), South Australia (1.6%), New South Wales (1.4%), and Queensland (1.1%)."
-    },
-    {
-      "id": "5058820",
-      "time": "2026-08-26 09:53:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中創新航在合肥新設技術研究院公司】企查查APP顯示，近日，中創新航技術研究院（合肥）有限公司成立，經營範圍包含：新興能源技術研發；新材料技術研發；新材料技術推廣服務；電池製造等。企查查股權穿透顯示，該公司由中創新航（03931.HK）全資持股。"
-    },
-    {
-      "id": "mkt:01a03bc5-3226-7aab-911e-665113475955",
-      "time": "2026-08-26 09:52:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Most-active propylene contract hit the daily down limit, falling 6.0% to 7,689 yuan/ton."
-    },
-    {
-      "id": "5058819",
-      "time": "2026-08-26 09:52:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量188億元。"
-    },
-    {
-      "id": "mkt:01a03bc4-296c-7aab-911e-5a952cf7dd0f",
-      "time": "2026-08-26 09:51:46",
-      "tags": [
-        "MKT News",
-        "SKIET.KS"
-      ],
-      "text": "SK Innovation will hold a shareholders' meeting next month to explain its proposed merger plan for SKIET."
-    },
-    {
-      "id": "5058818",
-      "time": "2026-08-26 09:51:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【有色板塊拉昇，金誠信、精藝股份漲停】有色板塊拉昇，金誠信、精藝股份漲停，江西銅業、電工合金、雲南銅業、北方銅業等漲幅居前。"
-    },
-    {
-      "id": "5058817",
-      "time": "2026-08-26 09:51:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南裕能：7月以來下游需求依然旺盛 公司處於滿產狀態】湖南裕能(301358)8月25日舉行業績說明會，就“公司在7月對下游客戶發了漲價函，客戶的接受情況、落地節奏大概是什麼狀態”等問題，湖南裕能表示，本輪價格調整落地情況良好。進入7月以來，下游需求依然旺盛，公司處於滿產狀態。另外，公司稱，明年市場需求預計至少還會保持30%以上的增速，特別是高階磷酸鐵鋰產品的需求增速會更高。公司的高階產品供不應求，會根據市場需求情況穩步推進新建產能。"
-    },
-    {
-      "id": "5058816",
-      "time": "2026-08-26 09:51:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【米哈遊公佈全新奇幻寫實動作遊戲《源初之結》】當地時間8月25日晚，米哈遊在2026年科隆遊戲展（Gamescom 2026）正式公佈旗下全新遊戲《源初之結》（NODUSFALL），併發布遊戲首支宣傳片。目前，《源初之結》官方社交媒體賬號源初之結已在全平臺開設。《源初之結》是一款以世界多元神話為題材，聚焦多人合作的奇幻寫實動作遊戲。"
-    },
-    {
-      "id": "5058815",
-      "time": "2026-08-26 09:51:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格力技工學校成立：註冊資本1億元 董明珠出任董事長、法定代表人】企查查APP顯示，近日，珠海市格力技工學校有限公司成立，註冊資本1億元，經營範圍包含營利性民辦技工院校、業務培訓、教學專用儀器製造、教學專用儀器銷售、教育諮詢服務等，由董明珠出任董事長、經理、法定代表人。"
-    },
-    {
-      "id": "mkt:01a03bc3-79fa-7aab-911e-5311b9c4b63d",
-      "time": "2026-08-26 09:51:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 20-year government bond yield fell 2.0bps to 4.040%."
-    },
-    {
-      "id": "5058814",
-      "time": "2026-08-26 09:50:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬小利獲任招商證券董事會秘書】招商證券於8月25日釋出公告，因工作安排，劉傑不再擔任公司董事會秘書、聯席公司秘書、香港聯交所授權代表等職務，仍擔任公司副總裁、財務負責人。同時，公司聘任馬小利為公司董事會秘書、聯席公司秘書、香港聯交所授權代表。履歷顯示，馬小利1999年10月加入招商證券，2024年11月起任公司辦公室總經理。2025年12月至2026年8月任公司職工代表董事。"
-    },
-    {
-      "id": "mkt:01a03bc3-4e25-7aab-911e-4918fe465c98",
-      "time": "2026-08-26 09:50:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY fell to 159, down 0.10% intraday."
-    },
-    {
-      "id": "5058813",
-      "time": "2026-08-26 09:50:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多隻創新藥、疫苗ETF領漲】生物製品、生物醫藥板塊漲幅居前。恒生創新藥ETF（520500）、港股通創新藥ETF（159506）、疫苗ETF（562860）等多隻ETF漲超4%。"
-    },
-    {
-      "id": "5058812",
-      "time": "2026-08-26 09:50:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌2個基點，至4.040%。"
-    },
-    {
-      "id": "5058811",
-      "time": "2026-08-26 09:50:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK創新：將於下月召開股東大會，就合併計劃作出說明。"
-    },
-    {
-      "id": "mkt:01a03bc2-ab3f-7aab-911e-45fad1b98275",
-      "time": "2026-08-26 09:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index reclaimed 3,900, up 0.43%; China's Shenzhen Composite Index rose 0.61% and the ChiNext Index gained 0.59%."
-    },
-    {
-      "id": "5058810",
-      "time": "2026-08-26 09:50:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟365：維護相關操作對微軟Teams服務造成了非預期影響，導致亞太地區使用者出現功能降級問題。"
-    },
-    {
-      "id": "mkt:01a03bc2-7c61-7aab-911e-3c94ab84b846",
-      "time": "2026-08-26 09:49:56",
-      "tags": [
-        "MKT News",
-        "MSFT.O"
-      ],
-      "text": "Microsoft 365 said a maintenance activity unexpectedly impacted Teams, degrading functionality for users in the Asia-Pacific region. The maintenance has been paused and service restored to standard availability."
-    },
-    {
-      "id": "5058809",
-      "time": "2026-08-26 09:49:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟365：維護工作已結束，服務已恢復至正常可用水平。"
     }
   ]
 }

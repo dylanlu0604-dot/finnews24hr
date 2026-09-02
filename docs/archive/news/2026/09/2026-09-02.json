@@ -1,7 +1,179 @@
 {
   "date": "2026-09-02",
-  "count": 1174,
+  "count": 1192,
   "items": [
+    {
+      "id": "mkt:01a05fd2-0c98-7118-844d-bf20e8f3e936",
+      "time": "2026-09-02 09:53:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GBP/USD slipped below 1.35, down 0.10% on the day."
+    },
+    {
+      "id": "mkt:01a05fd1-fe7d-7118-844d-b6fc4a95729c",
+      "time": "2026-09-02 09:53:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $63.41/oz; New York silver futures slipped below $64/oz, down 1.04% on the day."
+    },
+    {
+      "id": "mkt:01a05fd1-9395-7118-844d-ad31d4c85629",
+      "time": "2026-09-02 09:52:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share banking sector extends gains for consecutive sessions; ICBC, CCB, Bank of China, Nanjing Bank, Jiangsu Bank, Chengdu Bank and Qingdao Bank hit fresh highs."
+    },
+    {
+      "id": "5072096",
+      "time": "2026-09-02 09:52:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報63.36美元/盎司。"
+    },
+    {
+      "id": "5072095",
+      "time": "2026-09-02 09:52:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4340美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5072094",
+      "time": "2026-09-02 09:52:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報64.04美元/盎司。"
+    },
+    {
+      "id": "5072093",
+      "time": "2026-09-02 09:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "熱力板塊短線拉昇，京能熱力漲停，大連熱電、杭州熱電、恆盛能源、惠天熱電、百通能源等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a05fd0-e40c-7118-844d-a519664c1c55",
+      "time": "2026-09-02 09:52:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold touched $4,300/oz, down 0.67% intraday."
+    },
+    {
+      "id": "5072092",
+      "time": "2026-09-02 09:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Dropbox表示，在8月份的駭客攻擊中，約有5000個賬戶遭到入侵。"
+    },
+    {
+      "id": "5072091",
+      "time": "2026-09-02 09:51:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4300美元/盎司，日內跌0.66%。"
+    },
+    {
+      "id": "mkt:01a05fd0-38c6-7118-844d-9d8ca519e9ed",
+      "time": "2026-09-02 09:51:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan policy board member Takata said the Middle East conflict is unlikely to cause a slowdown in the Japanese economy."
+    },
+    {
+      "id": "5072090",
+      "time": "2026-09-02 09:51:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4350美元/盎司，日內跌1.11%。"
+    },
+    {
+      "id": "5072089",
+      "time": "2026-09-02 09:51:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員高田創：中東衝突不太可能導致日本經濟下滑。"
+    },
+    {
+      "id": "mkt:01a05fcf-4378-7118-844d-967ca93d538f",
+      "time": "2026-09-02 09:50:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Wright says 17 mln barrels transited Strait of Hormuz on Monday; Kpler tracking shows no oil cargoes】Per Reuters, US Energy Secretary Wright said 17 mln barrels of crude transited the Strait of Hormuz on Monday, the highest flow since Iran-related conflict disrupted shipping. That contrasts with preliminary vessel-tracking from Kpler, which showed only five bulk carriers transited on Monday and recorded no oil cargoes. Vessels with transponders turned off would not appear in Kpler’s data. Wright has previously said Hormuz flows exceed ship-tracking firms’ records."
+    },
+    {
+      "id": "mkt:01a05fcf-3443-7118-844d-8c2c15d7ea3d",
+      "time": "2026-09-02 09:50:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Australian growth unexpectedly accelerates; RESERVE BANK OF AUSTRALIA rate-hike odds rise】Australia's economy unexpectedly accelerated in Q2, strengthening the case for further tightening by the RESERVE BANK OF AUSTRALIA. The Australian Bureau of Statistics reported Q2 GDP +0.4% QoQ (consensus 0.3%) and +2.1% YoY (consensus 1.8%). The prints suggest prior RBA measures to curb inflation have not materially slowed activity. GDP will be a key input ahead of the RBA's Sep 28–29 meeting. NAB economist Sally Auld, after stronger-than-expected inflation, now expects a September hike and said the risk of a further November increase \"leans to the upside.\" The RBA held rates unchanged for a second straight meeting last month after three hikes from Feb–May."
+    },
+    {
+      "id": "mkt:01a05fcf-21b7-7118-844d-8188c65c4de2",
+      "time": "2026-09-02 09:50:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ to announce interest rate decision and Monetary Policy Statement in 10 minutes."
+    },
+    {
+      "id": "5072088",
+      "time": "2026-09-02 09:49:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪反彈 遠東股份、太陽電纜雙雙漲停】早盤電網裝置板塊震盪反彈，遠東股份、太陽電纜漲停，揚電科技、神馬電力、漢纜股份、億能電力、燦能電力等跟漲。"
+    },
+    {
+      "id": "te:markets:580253",
+      "time": "2026-09-02 09:49:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Stock Price Hits 5-week Low — Tencent Holdings shares decreased to 435.60 HKD, the lowest since July 2026. Over the past 4 weeks, Tencent Holdings lost 10.89%, and in the last 12 months, it decreased 27.23%."
+    },
     {
       "id": "mkt:01a05fce-4f23-7118-844d-7d4017c4ba57",
       "time": "2026-09-02 09:49:11",
