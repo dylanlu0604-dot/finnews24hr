@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-03 06:31:50",
+  "updated": "2026-09-03 06:36:03",
   "count": 11980,
   "items": [
+    {
+      "id": "te:markets:580597",
+      "time": "2026-09-03 06:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.19% — Top commodity losers are Lithium Carbonate (-2.19%), Iron Ore CNY (-1.72%) and Iron Ore (-1.62%). Gains are led by Silver (2.13%) and Gold (1.39%)."
+    },
+    {
+      "id": "5074065",
+      "time": "2026-09-03 06:33:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【從“對沖”走向“保險” 焦炭期權開啟精細化風控新空間】9月2日，焦炭期權上市。相較於焦炭期貨解決“有沒有工具對沖”的問題，期權帶給煤焦鋼產業鏈的核心變化在於風險管理方式進一步從“鎖價格”走向“管風險”。業內人士表示，焦炭期權上市後，企業不僅可以繼續利用期貨管理方向性價格風險，還能透過不同執行價格、期限和組合策略，對採購、庫存、銷售以及極端行情風險進行更精細的管理。不過，期權並非簡單的“升級版期貨”，其非線性收益結構也對企業的專業能力、內部風控和考核機制提出了更高要求。（中證報）"
+    },
+    {
+      "id": "5074064",
+      "time": "2026-09-03 06:32:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【聚焦進攻主線 夯實防禦底倉 百億級私募二季度末重倉股揭曉】隨著A股上市公司2026年半年報完成披露，百億級證券私募的二季度持倉圖譜完整浮出水面。據第三方機構私募排排網統計，截至二季度末，55家百億級私募現身264家上市公司前十大流通股東名單，合計持股市值達913.51億元（同一家上市公司被多傢俬募持倉時，在統計中會被重複計算；持股市值按照第二季度末的收盤價計算）。從調倉結構來看，百億級私募新進個股多達134只，增持29只，減持僅25只。一端是科技製造方向的集中加倉，另一端是存量倉位的精細再平衡。（中證報）"
+    },
     {
       "id": "te:markets:580596",
       "time": "2026-09-03 06:30:16",
@@ -110020,35 +110048,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Wheat Soars by 6.56% — Top commodity gainers are Wheat (6.56%), Corn (2.70%) and Soybeans (2.14%). Biggest losers are Coffee (-4.35%) and Rice (-3.50%)."
-    },
-    {
-      "id": "te:markets:578377",
-      "time": "2026-08-27 06:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.71% — Top commodity losers are Lithium Carbonate (-2.71%), Copper (-1.43%) and Gold (-1.04%). Gains are led by Iron Ore CNY (0.91%)."
-    },
-    {
-      "id": "5060978",
-      "time": "2026-08-27 06:32:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報68.79美元/盎司。"
-    },
-    {
-      "id": "mkt:01a04033-dcee-7aab-9139-ceaecc7f7a6f",
-      "time": "2026-08-27 06:32:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver up 1.00% intraday at $68.80/oz."
     }
   ]
 }
