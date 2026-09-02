@@ -1,7 +1,66 @@
 {
   "date": "2026-09-03",
-  "count": 45,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:01a062f4-5156-7118-8469-34cd4c85b01a",
+      "time": "2026-09-03 00:29:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Iran's first vice president Arif said leveraging emerging technologies has continuously strengthened national defense capabilities during the Ramadan war. He said AI development is a national strategic priority and one of the state's top priorities."
+    },
+    {
+      "id": "mkt:01a062f3-c657-7118-8469-2e23c6500bee",
+      "time": "2026-09-03 00:28:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Refinitiv: an exchange-rate tracking site shows the Iranian rial hit a record low, trading above 2.2 mln rials per USD."
+    },
+    {
+      "id": "5073807",
+      "time": "2026-09-03 00:28:32",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "追蹤網站資料顯示：伊朗貨幣兌美元跌至歷史新低，超220萬里亞爾兌1美元。"
+    },
+    {
+      "id": "te:markets:580568",
+      "time": "2026-09-03 00:28:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Fluctuates — US gasoline futures traded near $3.13 a gallon, after a five-session winning streak, after Tuesday’s meeting between President Trump, Energy Secretary Wright, and US refiners. Talks focused on fuel-blending quotas, with refiners arguing that it was contributing to higher fuel prices as corn and soybeans surged to nearly three-year highs. President Trump also urged refiners to build more refineries. Meanwhile, oil flows through the Strait of Hormuz have also continued despite escalating tensions. Still, EIA data showed US gasoline inventories fell 1.173 million barrels in the week ending August 28th, reflecting continued draw backs in recent weeks while US refiners are operating at 98%, its highest level since August 2018, with several facilities delaying maintenance to keep production elevated. Heavy driving over the Labor Day weekend is also providing support. At the same time, Ukrainian strikes on Russian refining infrastructure pushed refinery runs to multi-year lows."
+    },
+    {
+      "id": "te:economy:580567",
+      "time": "2026-09-03 00:27:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Unemployment Rate Edges Higher — Russia’s unemployment rate edged up to 2.3% in July 2026 from 2.2% in June, reaching its highest level since April 2025. The labor force aged 15 and over totaled 76.4 million people, including 74.7 million employed and 1.7 million unemployed. Registered unemployment remained low at around 0.3 million people, or 0.4% of the labor force. On a yearly basis, the unemployment rate rose to 2.3% from 2.2% in July 2025. The number of unemployed increased by 4.8%, while employment fell by 0.5%. Despite the slight rise in unemployment, labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors amid military mobilization following Russia’s invasion of Ukraine in February 2022 and sustained emigration. Authorities expect labor constraints to persist, projecting a shortfall of around 3.1 million workers by 2030."
+    },
     {
       "id": "mkt:01a062ef-7b3d-7118-8469-2447d1e04c5c",
       "time": "2026-09-03 00:24:16",
