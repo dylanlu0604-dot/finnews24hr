@@ -1,7 +1,46 @@
 {
   "date": "2026-09-02",
-  "count": 911,
+  "count": 915,
   "items": [
+    {
+      "id": "mkt:01a05f91-7cf0-7118-844a-fd1e1c486ad4",
+      "time": "2026-09-02 08:42:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【A-share gauge: combined turnover remains below 20-day average】Shanghai and Shenzhen combined turnover on Sept. 1 was 2.03 trn yuan, down from the prior session and for the ninth consecutive trading day below the 20-day moving average of 2.24 trn yuan; turnover has oscillated around that average since August. Turnover below the 20-day MA indicates lower aggregate trading activity and cooler market sentiment."
+    },
+    {
+      "id": "5071924",
+      "time": "2026-09-02 08:40:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉第未來宣佈，已與每位2025年3月融資投資者簽訂增量認股權證終止協議，公司在減少債務和改善資本結構方面持續取得進展。"
+    },
+    {
+      "id": "5071923",
+      "time": "2026-09-02 08:39:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通：韓國散戶投資者短期內不太可能成為股票的主要買家】摩根大通表示，受市場情緒低迷，疊加槓桿型交易所交易基金（ETF）大機率持續資金流出的影響，短期韓國散戶投資者不太可能大規模買入股票。分析師拉吉夫・巴特拉、米克索・達斯等人在研報中寫道：企業回購已經成為韓國本土股票又一類新增買方，同時純多頭基金的買入力度也開始回升。新興市場投資者與全球投資者仍有增配空間；其中新興市場投資者目前對韓國市場顯著低配，且不再受投資契約條款約束。二季度純多頭投資者最大的變化是，大幅削減韓國及中國臺灣地區科技板塊倉位，主要受個股 10% 持倉上限規則限制。市場對 AI 交易行情的擔憂有所升溫，體現為投資者普遍調降科技板塊整體配置。目前純多頭投資者重點超配領域：中國電動車板塊（寧德時代為亞洲超配比例最高的個股）、消費板塊、印度銀行業，以及韓國的控股集團與銀行。"
+    },
+    {
+      "id": "5071922",
+      "time": "2026-09-02 08:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三孚股份成立石英玻璃製品新公司】企查查APP顯示，近日，唐山三孚石英玻璃製品有限公司成立，經營範圍包含技術玻璃製品銷售；非金屬礦及製品銷售；計算機軟硬體及輔助裝置批發等。企查查股權穿透顯示，該公司由三孚股份全資持股。"
+    },
     {
       "id": "te:markets:580229",
       "time": "2026-09-02 08:39:38",
