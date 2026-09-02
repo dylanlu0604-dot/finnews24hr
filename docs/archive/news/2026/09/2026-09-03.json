@@ -1,7 +1,43 @@
 {
   "date": "2026-09-03",
-  "count": 284,
+  "count": 288,
   "items": [
+    {
+      "id": "te:markets:580579",
+      "time": "2026-09-03 03:55:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 33-month Low — Lowe's Companies shares decreased to 199.35 USD, the lowest since December 2023. Over the past 4 weeks, Lowe's Companies lost 5.89%, and in the last 12 months, it decreased 23.44%."
+    },
+    {
+      "id": "5073964",
+      "time": "2026-09-03 03:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：嘉信理財進一步限制稅務最佳化多空賬戶。"
+    },
+    {
+      "id": "5073963",
+      "time": "2026-09-03 03:53:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價2日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲79美分，收於每桶91.01美元，漲幅為0.88%；11月交貨的倫敦布倫特原油期貨價格上漲98美分，收於每桶95.63美元，漲幅為1.04%。"
+    },
+    {
+      "id": "5073962",
+      "time": "2026-09-03 03:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱對伊海上封鎖已使86艘商船改變航向】當地時間9月2日，美國中央司令部通報稱，截至當天，美軍在對伊朗的海上封鎖行動中已要求86艘商船改變航向，使3艘商船喪失行動能力，並登船檢查兩艘船隻。（央視新聞）"
+    },
     {
       "id": "mkt:01a063ad-3585-7118-846c-c7f1e098ebb5",
       "time": "2026-09-03 03:51:30",

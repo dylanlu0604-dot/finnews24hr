@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-03 03:52:24",
-  "count": 12015,
+  "updated": "2026-09-03 03:56:33",
+  "count": 12014,
   "items": [
+    {
+      "id": "te:markets:580579",
+      "time": "2026-09-03 03:55:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 33-month Low — Lowe's Companies shares decreased to 199.35 USD, the lowest since December 2023. Over the past 4 weeks, Lowe's Companies lost 5.89%, and in the last 12 months, it decreased 23.44%."
+    },
+    {
+      "id": "5073964",
+      "time": "2026-09-03 03:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：嘉信理財進一步限制稅務最佳化多空賬戶。"
+    },
+    {
+      "id": "5073963",
+      "time": "2026-09-03 03:53:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價2日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲79美分，收於每桶91.01美元，漲幅為0.88%；11月交貨的倫敦布倫特原油期貨價格上漲98美分，收於每桶95.63美元，漲幅為1.04%。"
+    },
+    {
+      "id": "5073962",
+      "time": "2026-09-03 03:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱對伊海上封鎖已使86艘商船改變航向】當地時間9月2日，美國中央司令部通報稱，截至當天，美軍在對伊朗的海上封鎖行動中已要求86艘商船改變航向，使3艘商船喪失行動能力，並登船檢查兩艘船隻。（央視新聞）"
+    },
     {
       "id": "mkt:01a063ad-3585-7118-846c-c7f1e098ebb5",
       "time": "2026-09-03 03:51:30",
@@ -110468,53 +110504,6 @@
         "XAUUSD"
       ],
       "text": "Tasnim News Agency cited local Syrian sources saying Israeli army artillery struck Syrian-held heights near Damascus."
-    },
-    {
-      "id": "mkt:01a03fa4-9aae-7aab-9137-803f8abaa2b8",
-      "time": "2026-08-27 03:55:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Google to move about 90-person AI responsibility team out of DeepMind】The Wall Street Journal reports Google plans in early September to move about a 90-person AI responsibility team from DeepMind into its Global Affairs division, which handles lobbying and public policy. The shift is part of further integrating DeepMind into Google; HR and policy units will also transfer. The AI responsibility team tests models for chemical, biological, radiological and nuclear risks and studies user‑AI interactions and chatbot psychological effects. Some employees say moving the team could increase distance from the Gemini development group and weaken independent research and detection of frontier model risks. Google says the team will retain DeepMind access, compute and personnel resources, and that other teams responsible for model behavior, privacy and security will remain at DeepMind. The move occurs amid ongoing turnover in DeepMind management and staff."
-    },
-    {
-      "id": "5060797",
-      "time": "2026-08-27 03:55:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "敘利亞大馬士革附近高地遭到以色列軍隊炮火打擊。"
-    },
-    {
-      "id": "mkt:01a03fa4-1492-7aab-9137-7848b4d3183b",
-      "time": "2026-08-27 03:55:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi broadcaster Al Arabiya reports two explosions at Yemen's Mocha port; Houthi forces again fired missiles toward Mocha."
-    },
-    {
-      "id": "5060796",
-      "time": "2026-08-27 03:53:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總檢察長表示，巴西正尋求法院下令，要求Discord就集體精神損害賠償支付5億雷亞爾。"
-    },
-    {
-      "id": "5060795",
-      "time": "2026-08-27 03:52:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "Okta股價迅速飆升至盤中高點，漲近3%。"
     }
   ]
 }
