@@ -1,7 +1,134 @@
 {
-  "updated": "2026-09-02 23:21:33",
-  "count": 11953,
+  "updated": "2026-09-02 23:25:43",
+  "count": 11961,
   "items": [
+    {
+      "id": "5073740",
+      "time": "2026-09-02 23:24:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所1月期鎳參考收盤價為每噸16784美元。"
+    },
+    {
+      "id": "mkt:01a062b8-f0c9-7118-8468-342199c4b991",
+      "time": "2026-09-02 23:24:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump proposes renaming Strait of Hormuz 'Trump Strait'】US President Trump said the US 'now controls' the Strait of Hormuz and asked whether its name should be changed to 'Trump Strait'."
+    },
+    {
+      "id": "te:markets:580540",
+      "time": "2026-09-02 23:24:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "T-Mobile Us Stock Price Hits 6-week High — T-Mobile Us shares increased to 187.51 USD, the highest since July 2026. Over the past 4 weeks, T-Mobile Us gained 5.86%, and in the last 12 months, it decreased 25.81%."
+    },
+    {
+      "id": "te:markets:580539",
+      "time": "2026-09-02 23:24:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Back to $95 — Brent swung between small gains and losses to trade near $95 a barrel on Wednesday, following a two-session rally that had lifted prices to a six-week high. Traders continued to weigh elevated supply risks stemming from ongoing hostilities in the Middle East against signs that crude supplies were still reaching the market. US Energy Secretary Chris Wright said 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest daily volume since the war began. Kpler data showed that 4 commodity vessels transited Hormuz on Tuesday, down from 10 on Monday. The US carried out further strikes on Iran and Washington threatened more devastating attacks. Iranian media reported strikes on multiple targets near the Strait of Hormuz and Iran said it had targeted US assets in Bahrain, Jordan, Kuwait and Iraq. The latest attacks, which began early this week and were the first in nearly a month, have complicated efforts to end the conflict."
+    },
+    {
+      "id": "5073738",
+      "time": "2026-09-02 23:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷控股公司：未來銷售區域數量將從五個縮減至四個。"
+    },
+    {
+      "id": "5073737",
+      "time": "2026-09-02 23:24:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "保時捷控股公司：德國本土市場將劃入歐洲區域。"
+    },
+    {
+      "id": "mkt:01a062b8-4a28-7118-8468-2aadbc59e85a",
+      "time": "2026-09-02 23:23:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【BOC governor Macklem: inflation risks rising; multiple rate hikes possible if needed】Macklem said inflation remains too high in Canada, concentrated in gasoline and energy prices. He identified developments in the Middle East — and how long and how far oil prices stay elevated — as the main upside risk and said the BOC will closely monitor inflation data and act accordingly. The central bank’s tolerance for high inflation is limited; if inflation is judged persistent, multiple rate hikes may be required, though rate increases are not the only response and the BOC is prepared to adjust policy as needed. He said the Canadian economy is holding up amid a new phase of trade tensions, but recent U.S. tariff measures will weigh on Q4 growth. Macklem also noted spillovers from higher global bond yields into Canada and said those effects will be factored into policy decisions; if policy fails to meet its objectives, markets will reprice."
+    },
+    {
+      "id": "5073736",
+      "time": "2026-09-02 23:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室收到經核實的報告，一艘油輪遭遇安全事件，造成兩人傷亡。目前暫無環境影響相關報告。"
+    },
+    {
+      "id": "5073735",
+      "time": "2026-09-02 23:23:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：伊朗當時距離擁有核武器僅剩兩週時間。倘若他們擁有核武器，以色列將會覆滅，中東地區也將陷入毀滅，他們還會襲擊美國本土城市。就因為他們行事瘋狂。"
+    },
+    {
+      "id": "5073734",
+      "time": "2026-09-02 23:22:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "加拿大作曲家、作家和出版商協會（SOCAN）起訴Suno，指控該人工智慧平臺未經授權且未支付報酬，製作並傳播複製人類創作音樂的生成內容。"
+    },
+    {
+      "id": "mkt:01a062b6-09fd-7118-8468-27a57461bfeb",
+      "time": "2026-09-02 23:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belgian foreign minister said using frozen Russian assets under a procedure equivalent to confiscation would pose very significant risks."
+    },
+    {
+      "id": "mkt:01a062b5-e4ae-7118-8468-1d9ff911ef11",
+      "time": "2026-09-02 23:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belgian foreign minister said Belgium's position on freezing Russian assets remains unchanged."
+    },
+    {
+      "id": "te:markets:580537",
+      "time": "2026-09-02 23:21:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Volatile — Crude oil swung between small gains and losses to trade near $90 a barrel on Wednesday, following a two-session rally that had lifted prices to a six-week high. Traders continued to weigh elevated supply risks stemming from ongoing hostilities in the Middle East against signs that crude supplies were still reaching the market. US Energy Secretary Chris Wright said 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest daily volume since the war began. Kpler data showed that 4 commodity vessels transited Hormuz on Tuesday, down from 10 on Monday. The US carried out further strikes on Iran and Washington threatened more devastating attacks. Iranian media reported strikes on multiple targets near the Strait of Hormuz and Iran said it had targeted US assets in Bahrain, Jordan, Kuwait and Iraq. The latest attacks, which began early this week and were the first in nearly a month, have complicated efforts to end the conflict."
+    },
     {
       "id": "mkt:01a062b5-7161-7118-8468-15d8d22a5bd5",
       "time": "2026-09-02 23:20:53",
@@ -110022,50 +110149,6 @@
         "其他"
       ],
       "text": "英國內閣辦公室：前《太陽報》編輯丁斯莫爾將卸任英國政府通訊相關職務。"
-    },
-    {
-      "id": "5060622",
-      "time": "2026-08-26 23:24:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：伊朗與俄氣公司探討天然氣行業合作】據伊朗官方的伊斯蘭共和國通訊社報道，伊朗官員與俄氣公司代表週三在俄羅斯舉行會晤，探討天然氣行業合作。報道稱，伊朗國家天然氣公司(NIGC)執行長Saeed Tavakoli、伊朗駐俄羅斯大使Kazem Jalali以及俄氣公司執行長Alexey Miller在聖彼得堡的公司總部出席了此次會議。"
-    },
-    {
-      "id": "mkt:01a03eab-68be-7aab-9133-4b952613afc3",
-      "time": "2026-08-26 23:23:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's atomic energy chief Eslami said Trump's threats to bomb alleged Iranian secret nuclear sites expose international organizations as \"pawns\" of the US and Israel."
-    },
-    {
-      "id": "mkt:01a03eaa-bb02-7aab-9133-402ff938191a",
-      "time": "2026-08-26 23:22:51",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "Iran's nuclear chief Eslami said the IAEA cannot demand inspections of Iranian nuclear facilities before a related agreement is finalized."
-    },
-    {
-      "id": "5060621",
-      "time": "2026-08-26 23:22:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗核事務負責人埃斯拉米：特朗普揚言轟炸伊朗所謂秘密核設施一事，暴露了國際組織淪為美國與以色列棋子的現實。"
-    },
-    {
-      "id": "5060620",
-      "time": "2026-08-26 23:21:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗核事務負責人埃斯拉米： 在擬定相關議定書之前，國際原子能機構不得要求核查伊朗核設施。"
     }
   ]
 }
