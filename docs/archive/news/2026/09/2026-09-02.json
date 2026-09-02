@@ -1,7 +1,59 @@
 {
   "date": "2026-09-02",
-  "count": 2864,
+  "count": 2871,
   "items": [
+    {
+      "id": "mkt:01a062bd-1613-7118-8468-3bb008a5b2bf",
+      "time": "2026-09-02 23:29:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia summons German chargé d'affaires over Berlin's anti‑Russia moves】Russia's foreign ministry said it summoned the German chargé d'affaires in Moscow over German government actions and statements it described as anti‑Russia. Moscow denied German accusations of Russian involvement in the Leipzig airport incident, said Berlin used those claims as a pretext to close the Russian consulate in Bonn and the Russian House in Berlin, and warned it will respond firmly."
+    },
+    {
+      "id": "5073745",
+      "time": "2026-09-02 23:28:34",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【荷蘭將86噸黃金儲備存放地從美加轉至倫敦 以便在危機時期快速動用】荷蘭央行已將價值約120億美元的黃金儲備從紐約和渥太華轉移至倫敦，稱此舉的理由是擔憂全球地緣政治動盪加劇。今年3月至8月間，荷蘭央行將約86噸黃金轉移至倫敦，佔其原先存放在美國和加拿大黃金儲備的四分之一以上。倫敦目前存放著荷蘭近三分之一的黃金儲備，為佔比最大的存放地。荷蘭央行行長Olaf Sleijpen週三在宣告中表示：“透過此次轉移，我們提高了黃金儲備的可交易性。我們預計永遠不會需要動用這些儲備，但確實需要增強自身韌性和準備程度。”倫敦擁有全球流動性最強的黃金市場，每週都有價值數千億美元的黃金易手。正因如此，各國央行長期以來一直將英國央行作為黃金託管機構，在那裡可迅速大規模買賣黃金，也可出借黃金以籌集美元。"
+    },
+    {
+      "id": "5073744",
+      "time": "2026-09-02 23:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭部長稱，烏方正在修建地下燃料儲存網路。"
+    },
+    {
+      "id": "5073743",
+      "time": "2026-09-02 23:27:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌高管：法院駁回美國司法部拆分相關工具的提案，我方對此深表欣慰，這些工具助力中小企業觸達新客戶並實現業務增長。"
+    },
+    {
+      "id": "5073742",
+      "time": "2026-09-02 23:25:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：既然我們已將其置於美國掌控之下，我們是否應當將霍爾木茲海峽改名為特朗普海峽？？？就像美國本身一樣，這裡將會變得前所未有的炙手可熱。"
+    },
+    {
+      "id": "5073741",
+      "time": "2026-09-02 23:25:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷控股公司：新架構將於2026年10月1日正式生效。"
+    },
     {
       "id": "5073740",
       "time": "2026-09-02 23:24:52",
@@ -21,6 +73,15 @@
         "Brent"
       ],
       "text": "【Trump proposes renaming Strait of Hormuz 'Trump Strait'】US President Trump said the US 'now controls' the Strait of Hormuz and asked whether its name should be changed to 'Trump Strait'."
+    },
+    {
+      "id": "5073739",
+      "time": "2026-09-02 23:24:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "保時捷控股公司：本次重組涉及解散現有歐洲區域以及海外與新興市場區域的中央事業部。"
     },
     {
       "id": "te:markets:580540",
