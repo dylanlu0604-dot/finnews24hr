@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 05:32:26",
-  "count": 11997,
+  "updated": "2026-09-03 05:36:33",
+  "count": 11991,
   "items": [
     {
       "id": "5074047",
@@ -110170,72 +110170,6 @@
         "MKT News"
       ],
       "text": "HKO issued a Red Rainstorm Warning Signal at 05:05 HKT."
-    },
-    {
-      "id": "mkt:01a04000-89e9-7aab-9139-5cb517e21750",
-      "time": "2026-08-27 05:36:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said current supply capacity gives the company confidence it can achieve 70% growth in fiscal 2028."
-    },
-    {
-      "id": "5060949",
-      "time": "2026-08-27 05:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首架中國救援隊包機完成起飛準備工作 即將飛往日喀則】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。應急管理部、國家消防救援局調派中國救援隊111名消防救援指戰員趕赴災害現場增援。目前，首架中國救援隊包機已完成起飛準備工作，計劃今早6點從成都雙流機場飛往日喀則定日機場。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04000-1ba5-7aab-9139-532d1448edf3",
-      "time": "2026-08-27 05:35:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the future non-hyperscale cloud computing market could exceed current total cloud capacity."
-    },
-    {
-      "id": "5060948",
-      "time": "2026-08-27 05:34:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：我們此前從未提前一年釋出業績指引。"
-    },
-    {
-      "id": "mkt:01a03ffe-78dd-7aab-9139-494aa9cc2f6b",
-      "time": "2026-08-27 05:33:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the company has never previously issued earnings guidance a year in advance."
-    },
-    {
-      "id": "5060947",
-      "time": "2026-08-27 05:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：供應鏈能力足以支撐我們信心滿滿地實現2028財年70%的增長。"
     }
   ]
 }
