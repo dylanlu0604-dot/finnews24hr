@@ -1,7 +1,51 @@
 {
   "date": "2026-09-03",
-  "count": 279,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:01a063ad-3585-7118-846c-c7f1e098ebb5",
+      "time": "2026-09-03 03:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Oil futures rise on 2nd】At the close, NYMEX October light‑sweet crude settled at $91.01 per barrel, up $0.79 (0.88%); London Brent November futures settled at $95.63 per barrel, up $0.98 (1.04%)."
+    },
+    {
+      "id": "mkt:01a063ac-89fe-7118-846c-bf96efe64f6b",
+      "time": "2026-09-03 03:50:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran updates list of \"violating vessels\" in Strait of Hormuz】On the 2nd Iran's Strait of Hormuz authority added 11 vessels to a list of ships it says breached transit rules, bringing the total to 57. The authority warned listed vessels may face fines, detention or cargo confiscation when transiting the strait, and said other ships conducting ship‑to‑ship transfers with listed vessels could also be added."
+    },
+    {
+      "id": "5073961",
+      "time": "2026-09-03 03:48:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗更新霍爾木茲海峽“違規船隻”名單】當地時間2日，伊朗波斯灣海峽管理局更新“違規船隻”名單，新增11艘船舶，被列入名單的船舶總數增至57艘。伊朗方面稱，這些船舶未遵守有關霍爾木茲海峽通行的規定。被列入名單的船舶今後透過海峽時，可能面臨罰款、扣押或貨物被沒收等措施。伊方還表示，與名單內船舶進行船對船轉運等活動的其他船舶也可能被列入名單。伊朗波斯灣海峽管理局8月23日發表宣告稱，違反伊朗關於霍爾木茲海峽航行規定的船隻將面臨罰款、扣押或沒收等限制措施。宣告說，往返波斯灣的貨主在租船前必須查閱波斯灣海峽管理局釋出的“違規船隻”名單，以避免潛在問題。（央視新聞）"
+    },
+    {
+      "id": "5073960",
+      "time": "2026-09-03 03:48:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國兩年期國債收益率跌約2.5個基點，美股盤前曾跌穿4.36%】週三（9月2日）紐約尾盤，美國10年期基準國債收益率跌1個基點，報4.7881%，日內交投於4.8162%-4.7660%區間，北京時間20:15釋出美國ADP小非農就業報告前後出現V形反轉行情。兩年期美債收益率跌2.48個基點，報4.731%，也在20:21重新整理日低至4.3586%。30年期美債收益率跌1.27個基點，報5.2603%。02/10年期美債收益率利差漲1.866個基點，報+41.080個基點。10年期通脹保值國債（TIPS）收益率大致持平，報2.4375%；兩年期TIPS收益率漲0.17個基點，至1.9244%；30年期TIPS收益率跌1.43個基點，至2.9864%。"
+    },
+    {
+      "id": "5073959",
+      "time": "2026-09-03 03:47:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國貿易代表格里爾稱巴西、巴拉圭是最佳牛肉供應國。"
+    },
     {
       "id": "5073958",
       "time": "2026-09-03 03:46:26",
