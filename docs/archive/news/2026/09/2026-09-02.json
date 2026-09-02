@@ -1,7 +1,195 @@
 {
   "date": "2026-09-02",
-  "count": 1262,
+  "count": 1282,
   "items": [
+    {
+      "id": "mkt:01a05fe0-b174-7118-844e-f777193e1ebf",
+      "time": "2026-09-02 10:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Grain and gold-miner ETFs lead market declines】Multiple grain and gold-miner ETFs fell today: Puyin grain ETF down 6.4%; Hua Xia and Guotai grain ETFs down 5.8% each; Yongying gold-miner ETF down 5.68%; Hua Xia gold-miner ETF down 5.56%."
+    },
+    {
+      "id": "mkt:01a05fe0-89ce-7118-844e-ead734633e1f",
+      "time": "2026-09-02 10:09:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Peru severs diplomatic ties with Iran, cites Strait of Hormuz trade disruptions】Peru announced it is severing diplomatic relations with Iran, saying disruptions since March to international trade through the Strait of Hormuz have raised concerns and could affect energy prices and global supply chains. Peru also accused Iran of \"inciting violence, escalating conflict in the Middle East, and obstructing the International Atomic Energy Agency's work.\" Peru said it will maintain consular relations under the Vienna Convention to protect its interests and citizens."
+    },
+    {
+      "id": "mkt:01a05fe0-51df-7118-844e-e7ed9636eea9",
+      "time": "2026-09-02 10:08:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ said its committee assesses spare capacity remains in the economy, particularly in the labour market."
+    },
+    {
+      "id": "mkt:01a05fe0-4b2f-7118-844e-de992e02888b",
+      "time": "2026-09-02 10:08:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "RBNZ expects elevated inf to persist."
+    },
+    {
+      "id": "mkt:01a05fdf-fa07-7118-844e-d09b2388e57c",
+      "time": "2026-09-02 10:08:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ: Under the central economic outlook, members said the official cash rate may need to be raised further."
+    },
+    {
+      "id": "5072145",
+      "time": "2026-09-02 10:08:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻糧食ETF、黃金股ETF領跌市場】多隻糧食ETF、黃金股ETF今日回撥，截至發稿時間，糧食ETF浦銀跌6.4%，糧食ETF華夏、糧食ETF國泰跌5.8%，黃金股ETF永贏跌5.68，黃金股ETF華夏跌5.56%。"
+    },
+    {
+      "id": "te:economy:580262",
+      "time": "2026-09-02 10:08:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "RBNZ Delivers Back-to-Back Rate Hikes — The Reserve Bank of New Zealand raised its cash rate by 25 bps to 2.75%, delivering a second straight hike after an increase in July and in line with expectations. The decision reflects the need to gradually remove monetary stimulus and bring inflation back to the 2% target midpoint while supporting growth and employment. Annual inflation rose to 4.1% in Q2 2026, largely due to higher fuel prices stemming from the Middle East conflict. However, core inflation, wage growth and inflation expectations remain consistent with inflation returning to the 1-3% target band by mid-2027. The economy has resumed its recovery after lacklustre growth in the June quarter, supported by resilient external demand, export prices and investment in export-oriented sectors. Still, weak income growth, job insecurity and flat house prices weigh on household spending and residential investment. The Committee expects the recovery to strengthen and broaden but remains alert to risks of more persistent inflation."
+    },
+    {
+      "id": "5072144",
+      "time": "2026-09-02 10:08:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率上漲4個基點，升至2.295%的歷史高位。"
+    },
+    {
+      "id": "5072143",
+      "time": "2026-09-02 10:07:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【農業種植板塊走弱，敦煌種業跌停】農業種植板塊走弱，敦煌種業跌停，華綠生物、秋樂種業、神農種業、國投豐樂、深糧控股、登海種業等跟跌。"
+    },
+    {
+      "id": "mkt:01a05fdf-3990-7118-844e-cddfe72d9684",
+      "time": "2026-09-02 10:07:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBNZ: All members agreed the median projection for the official cash rate (OCR) is appropriate."
+    },
+    {
+      "id": "5072142",
+      "time": "2026-09-02 10:07:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨下跌2.0%至4,502.20點。"
+    },
+    {
+      "id": "mkt:01a05fde-f3b2-7118-844e-c6b5858d0987",
+      "time": "2026-09-02 10:07:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says medium-term indicators are consistent with inflation returning to target."
+    },
+    {
+      "id": "5072141",
+      "time": "2026-09-02 10:06:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元匯率跌至33.355，為8月初以來最低水平。"
+    },
+    {
+      "id": "mkt:01a05fde-56c8-7118-844e-bc1f438091d1",
+      "time": "2026-09-02 10:06:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ said the future path of the official cash rate (OCR) is not predetermined."
+    },
+    {
+      "id": "5072140",
+      "time": "2026-09-02 10:06:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行：經濟復甦預計在第三季度恢復，但仍將不均衡。"
+    },
+    {
+      "id": "mkt:01a05fde-192b-7118-844e-b02bad754810",
+      "time": "2026-09-02 10:06:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: committee considers raising the Official Cash Rate to 2.75% an appropriate step to return inf sustainably to the 2% midpoint."
+    },
+    {
+      "id": "5072139",
+      "time": "2026-09-02 10:06:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【共封裝光學(CPO)板塊短線走低】共封裝光學(CPO)板塊短線走低，金字火腿跌超7%，青山紙業、新易盛、天孚通訊、中際旭創等跟跌。"
+    },
+    {
+      "id": "mkt:01a05fdd-e0b0-7118-844e-a969ec1af463",
+      "time": "2026-09-02 10:06:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【RBNZ raises OCR 25bps to 2.75%; risk of further large hikes reduced】The RBNZ raised the official cash rate (OCR) 25bps to 2.75%. It said fuel-driven inflation in the quarter to June rose to 4.1%, while core inflation, expected wage growth and inflation expectations remain consistent with inflation returning to the 1–3% target range by mid-2027 and the 2% midpoint by late next year. After weak growth in the June quarter, the economy has likely resumed an uneven recovery the bank expects to strengthen and broaden. Global risks could alter commodity prices and export demand; the recovery could be stronger or weaker than expected and price pressures could cause inflation to persist longer. The committee will remain vigilant and act if necessary to ensure inflation returns to the 2% midpoint in the medium term. It said gradual withdrawal of policy stimulus is appropriate to return inflation to target while supporting growth and employment, and that today’s decision lowers the risk that further large rate hikes will be needed; future policy will depend on the committee’s assessment of the balance of medium‑term inflation risks."
+    },
+    {
+      "id": "te:markets:580261",
+      "time": "2026-09-02 10:06:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Track Asian Peers Lower — The Shanghai Composite fell 1.0% to 3,942 on Wednesday, while the Shenzhen Component declined 1.5% to 13,669, extending the previous session's losses as a broad risk-off sentiment swept through Asian markets. Investor appetite was dampened by a renewed surge in oil prices, with escalating tensions in the Middle East stoking concerns over potential supply disruptions, adding to global inflationary pressures and reinforcing expectations that major central banks could maintain tighter monetary settings for longer. Meanwhile, Putin and Xi discussed a potential trilateral meeting with Trump during China's APEC summit in November, while Xi is also set to visit Washington later this month for talks with the US president. Notable laggards included Foxconn Industrial Internet (-1.8%), Zijin Mining Group (-2.1%), CATL (-1.8%), and Zhongji Innolight (-2.8%)."
+    },
+    {
+      "id": "mkt:01a05fdd-839d-7118-844e-a30d0e3f234f",
+      "time": "2026-09-02 10:05:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "RBNZ's Monetary Policy Committee unanimously raised the Official Cash Rate by 25bp to 2.75% today."
+    },
     {
       "id": "mkt:01a05fdd-07e0-7118-844e-9e5f6c4552a1",
       "time": "2026-09-02 10:05:15",
