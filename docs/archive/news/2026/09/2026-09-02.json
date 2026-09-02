@@ -1,7 +1,321 @@
 {
   "date": "2026-09-02",
-  "count": 2270,
+  "count": 2304,
   "items": [
+    {
+      "id": "mkt:01a061f2-9889-7118-845e-ea226f787e00",
+      "time": "2026-09-02 19:48:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Apollo: Iran war, tariffs could push US Treasury yields higher】Torsten Slok, chief economist at Apollo Global Management, said the Iran war and tariffs could lift US Treasury yields and that the pressure is largely unrelated to US fiscal fundamentals. He added markets appear less worried about US policymakers than about Japan and Germany. Global government borrowing costs are rising as investors demand greater compensation for longer-duration debt. Despite Treasury buybacks announced by BESSENT to curb long-end yields, US yields have resumed higher. Market pricing puts the probability of a Fed rate hike at the mid-September meeting at 69%. Slok said rising yields are already transmitting to housing and autos—both highly rate-sensitive—while they do not constrain AI investment."
+    },
+    {
+      "id": "5073292",
+      "time": "2026-09-02 19:47:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【伯納姆承諾財政穩定，但拒絕排除增加債務的可能性】英國首相伯納姆安迪·伯納姆承諾，其政府將確保財政穩定，但拒絕排除進一步舉債的可能性。與此同時，他試圖將英國高企的國債歸咎於此前的保守黨政府。伯納姆週三在上任以來首次接受首相質詢時表示：“這是一個以財政責任為基礎的政府。我們將遵守財政規則。”針對保守黨反對黨領袖凱米·巴德諾赫有關英國國債收益率飆升導致政府融資成本上升的質詢，他表示：“全球市場的動盪是由於他們留下的風險敞口造成的。在她任職的政府時期，債務佔GDP的比例一直在上升。”"
+    },
+    {
+      "id": "5073291",
+      "time": "2026-09-02 19:47:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：丹麥向格陵蘭島增兵】據路透社9月2日報道，丹麥近代以來首次向格陵蘭島派遣應徵入伍的新兵。此舉旨在加強丹麥在北極地區的軍事存在，以回應美國吞併該島的主張。 美國總統特朗普一再尋求獲得這個半自治的丹麥島嶼。丹麥政府與格陵蘭島當地政府均表示堅決反對。 報道稱，這批新兵是丹麥新擴大的徵兵計劃下首批義務兵，該計劃旨在培養能夠在丹麥王國戰略價值最高、最具挑戰性的地區之一執行作戰任務計程車兵。 （參考訊息）"
+    },
+    {
+      "id": "5073290",
+      "time": "2026-09-02 19:47:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷恩之家（Wren House）即將達成交易，收購新加坡政府投資公司（GIC）所持的資料中心股權。"
+    },
+    {
+      "id": "mkt:01a061f1-eb41-7118-845e-e6f543dd92cd",
+      "time": "2026-09-02 19:47:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said there is uncertainty over whether US-Canada trade will be as favorable again."
+    },
+    {
+      "id": "5073289",
+      "time": "2026-09-02 19:46:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：不確定美國與加拿大還能再度達成如此有利的協議。"
+    },
+    {
+      "id": "mkt:01a061f1-3702-7118-845e-de7e6a6f6bb8",
+      "time": "2026-09-02 19:46:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Canada's trade agreement has had almost no impact on U.S. prices."
+    },
+    {
+      "id": "5073288",
+      "time": "2026-09-02 19:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：加拿大貿易協定對美國物價幾乎沒有產生影響。"
+    },
+    {
+      "id": "mkt:01a061f0-eed6-7118-845e-d2ace52b92a5",
+      "time": "2026-09-02 19:46:14",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "US Treasury Secretary Bessent said Chevron's CEO has performed well managing assets in Venezuela."
+    },
+    {
+      "id": "5073287",
+      "time": "2026-09-02 19:46:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：仍對AI基礎設施支出和半導體週期保持積極判斷】高盛最新研報指出，隨著Communacopia + Technology Conference（高盛通訊與技術大會）召開，半導體行業五大核心議題將集中在AI算力、晶圓製造裝置（WFE）、儲存、模擬晶片和EDA軟體。整體來看，高盛仍對AI基礎設施支出和半導體週期保持積極判斷。"
+    },
+    {
+      "id": "mkt:01a061f0-c0de-7118-845e-cf4e1b1b33bd",
+      "time": "2026-09-02 19:46:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil flow through the Strait of Hormuz exceeded 17 mln barrels on Monday."
+    },
+    {
+      "id": "mkt:01a061f0-9841-7118-845e-c483227e83bf",
+      "time": "2026-09-02 19:45:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said Venezuela's oil output will exceed 2 mln bpd by the end of this decade."
+    },
+    {
+      "id": "5073286",
+      "time": "2026-09-02 19:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：週一霍爾木茲海峽石油運輸量超1700萬桶。"
+    },
+    {
+      "id": "5073285",
+      "time": "2026-09-02 19:45:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝森特：雪佛龍執行長在管理委內瑞拉資產方面工作十分出色。"
+    },
+    {
+      "id": "mkt:01a061f0-7961-7118-845e-bdaa649f3410",
+      "time": "2026-09-02 19:45:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham pledges fiscal stability but refuses to rule out further borrowing】UK Prime Minister Andy Burnham pledged his government will ensure fiscal stability but refused to rule out further borrowing, saying his administration will adhere to fiscal rules. Burnham blamed elevated gilt yields and rising government financing costs on the previous Conservative government, saying market turmoil reflected risk exposures they left and that debt-to-GDP rose during their tenure."
+    },
+    {
+      "id": "mkt:01a061f0-08fd-7118-845e-b0bfbff68a56",
+      "time": "2026-09-02 19:45:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Energy Secretary Wright said he is confident Venezuelan oil can be swapped into other grades to top up the Strategic Petroleum Reserve."
+    },
+    {
+      "id": "5073284",
+      "time": "2026-09-02 19:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，委內瑞拉的產量到本十年末將超過200萬噸。"
+    },
+    {
+      "id": "5073283",
+      "time": "2026-09-02 19:44:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：有信心將這批石油置換為可用於補充戰略石油儲備的其他型別原油。"
+    },
+    {
+      "id": "mkt:01a061ee-f132-7118-845e-aade771e3da0",
+      "time": "2026-09-02 19:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is in active communication with any parties supporting Iran."
+    },
+    {
+      "id": "5073282",
+      "time": "2026-09-02 19:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】兩國元首讚賞《中華人民共和國和阿拉伯埃及共和國全面戰略伙伴關係實施綱要（2024－2028）》落實情況，一致同意加強貿易投資中的本幣使用，鼓勵更多使用兩國本幣進行貿易投資結算。埃方讚賞中方對非零關稅舉措，兩國元首支援兩國貿易更加平衡，鼓勵更多符合中國標準的埃及產品進入中國市場，雙方一致同意繼續就早期收穫安排進行磋商。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ee-bcee-7118-845e-a62d241ca99c",
+      "time": "2026-09-02 19:43:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Bitcoin",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said airlines, maritime shipping and digital assets could be subject to sanctions."
+    },
+    {
+      "id": "mkt:01a061ee-9927-7118-845e-9d65663c30be",
+      "time": "2026-09-02 19:43:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Treasury Secretary Bessent said the US will systematically remove bad actors on Iran and sanctions."
+    },
+    {
+      "id": "5073281",
+      "time": "2026-09-02 19:43:30",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及伊朗與制裁：航空公司、海運業與數字資產都可能成為制裁目標。"
+    },
+    {
+      "id": "mkt:01a061ee-68cd-7118-845e-91919b78dc04",
+      "time": "2026-09-02 19:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent on Iran and Russia: my advice to everyone is stay away from them; no one should support the regime."
+    },
+    {
+      "id": "5073280",
+      "time": "2026-09-02 19:43:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特在福克斯新聞採訪中談及伊朗與制裁問題時表示：將系統性清除作惡主體。"
+    },
+    {
+      "id": "5073279",
+      "time": "2026-09-02 19:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特(Wright)：到2027年上半年，委內瑞拉原油日產量將遠超150萬桶。"
+    },
+    {
+      "id": "5073278",
+      "time": "2026-09-02 19:43:13",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【9月2日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平抵達開羅對埃及進行國事訪問； 2.習近平出席埃及總統舉行的歡迎儀式； 3.習近平同埃及總統會談； 4.習近平致電祝賀挪威國王哈康八世即位； 5.《平“語”近人——習近平喜歡的典故》（阿拉伯語版）在埃及主流媒體播出； 6.秋糧主產區分類施策 全力奪取豐收； 7.上半年信貸資金加速流向科創企業； 8.西藏吉隆口岸核心區域陸路救援通道實現暢通； 9.國內聯播快訊： （1）國務院安委辦聯合多部門部署加強漁業安全防範工作； （2）新版國家基本藥物目錄實施 更多好藥惠及基層； （3）《網際網路資訊內容多渠道分發服務管理規定》施行； （4）今年前7個月我國對埃及進出口同比增長18.7%； （5）我國銅金礦勘查獲重大突破； （6）2026年全國科普月啟動； （7）2026年暑期檔電影票房為124.98億元 放映場次創新高； 10.埃及各界人士表示習近平主席此次國事訪問將開創埃中關係更加美好的未來； 11.美國對伊朗發動新一輪軍事打擊 伊朗回擊美在多國基地； 12.國際聯播快訊： （1）加總理稱加美貿易協議須尊重加主權； （2）歐元區8月通脹率升至3.3%； （3）聯合國稱剛果（金）埃博拉呈指數級擴散。"
+    },
+    {
+      "id": "5073276",
+      "time": "2026-09-02 19:42:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及伊朗、俄羅斯問題：我給所有人的忠告就是離遠點。"
+    },
+    {
+      "id": "5073275",
+      "time": "2026-09-02 19:42:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】雙方同意進一步深化共建“一帶一路”倡議同埃及“2030願景”對接，助力埃及成為地區連線亞洲、非洲和歐洲的工業、物流、清潔能源和數字經濟的區域中心，加強中埃共同夥伴關係，鼓勵中國企業利用埃及競爭優勢，積極探討電動汽車、造船、太陽能、風能等可再生能源、海水淡化等領域產業本土化合作，拓展雲端計算、資料中心、數字經濟、半導體、網路安全、航天應用、遙感等高科技領域，以及關鍵礦產供應鏈、農業、汽車製造領域合作，並在上述領域加強人力資源能力建設和經驗技術交流，支援埃及數字化轉型和可持續發展。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ed-8c92-7118-845e-8cb08b4d9156",
+      "time": "2026-09-02 19:42:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The People's Republic of China and the Arab Republic of Egypt issued a joint statement on further deepening their comprehensive strategic partnership."
+    },
+    {
+      "id": "5073274",
+      "time": "2026-09-02 19:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告：兩國元首讚賞雙方現有金融合作，包括髮行熊貓債、擴大本幣互換安排。鼓勵兩國金融機構支援工業和發展投資以及基礎設施和綠色數字化轉型專案。兩國元首歡迎雙方續簽本幣互換協議並擴大互換規模。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ec-ecae-7118-845e-8244502387f9",
+      "time": "2026-09-02 19:41:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kimi API natively supports CODEX and Claude Code】Sept 2 — Moonshot AI said Kimi API now natively supports OpenAI's Responses API format and ANTHROPIC's Messages API format. CODEX and Claude Code users can connect via a custom model provider directly to models kimi-k3, kimi-k2.7-code-highspeed, kimi-k2.7-code and kimi-k2.6 without format conversion or a local proxy."
+    },
+    {
+      "id": "mkt:01a061ec-b3db-7118-845e-7b7acd179ac1",
+      "time": "2026-09-02 19:41:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US energy secretary wright said he expects Venezuela's daily oil production to exceed 1.5 mln bpd by 1H next year."
+    },
+    {
+      "id": "5073273",
+      "time": "2026-09-02 19:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】應阿拉伯埃及共和國總統阿卜杜勒法塔赫·塞西閣下邀請，中華人民共和國主席習近平閣下於2026年9月1日至2日對阿拉伯埃及共和國進行國事訪問，此訪恰逢兩國建交70週年。埃及是第一個承認中華人民共和國的阿拉伯和非洲國家，1956年同中國建立外交關係。70年來，兩國友好合作關係顯著發展，始終保持健康穩定，形成“平等互信、友好互鑑、和衷共濟、合作共贏”的中埃友好特徵。中埃關係已成為中國同阿拉伯、非洲國家友好合作精神發展的表率。兩國元首圍繞雙邊關係舉行正式會談，回顧2014年兩國全面戰略伙伴關係建立以來所取得的顯著發展和質的飛躍，並就共同關心的國際和地區問題交換意見，達成廣泛共識。（新華社）"
+    },
     {
       "id": "5073272",
       "time": "2026-09-02 19:40:53",

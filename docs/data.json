@@ -1,7 +1,321 @@
 {
-  "updated": "2026-09-02 19:42:11",
-  "count": 12042,
+  "updated": "2026-09-02 19:50:39",
+  "count": 12055,
   "items": [
+    {
+      "id": "mkt:01a061f2-9889-7118-845e-ea226f787e00",
+      "time": "2026-09-02 19:48:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Apollo: Iran war, tariffs could push US Treasury yields higher】Torsten Slok, chief economist at Apollo Global Management, said the Iran war and tariffs could lift US Treasury yields and that the pressure is largely unrelated to US fiscal fundamentals. He added markets appear less worried about US policymakers than about Japan and Germany. Global government borrowing costs are rising as investors demand greater compensation for longer-duration debt. Despite Treasury buybacks announced by BESSENT to curb long-end yields, US yields have resumed higher. Market pricing puts the probability of a Fed rate hike at the mid-September meeting at 69%. Slok said rising yields are already transmitting to housing and autos—both highly rate-sensitive—while they do not constrain AI investment."
+    },
+    {
+      "id": "5073292",
+      "time": "2026-09-02 19:47:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【伯納姆承諾財政穩定，但拒絕排除增加債務的可能性】英國首相伯納姆安迪·伯納姆承諾，其政府將確保財政穩定，但拒絕排除進一步舉債的可能性。與此同時，他試圖將英國高企的國債歸咎於此前的保守黨政府。伯納姆週三在上任以來首次接受首相質詢時表示：“這是一個以財政責任為基礎的政府。我們將遵守財政規則。”針對保守黨反對黨領袖凱米·巴德諾赫有關英國國債收益率飆升導致政府融資成本上升的質詢，他表示：“全球市場的動盪是由於他們留下的風險敞口造成的。在她任職的政府時期，債務佔GDP的比例一直在上升。”"
+    },
+    {
+      "id": "5073291",
+      "time": "2026-09-02 19:47:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：丹麥向格陵蘭島增兵】據路透社9月2日報道，丹麥近代以來首次向格陵蘭島派遣應徵入伍的新兵。此舉旨在加強丹麥在北極地區的軍事存在，以回應美國吞併該島的主張。 美國總統特朗普一再尋求獲得這個半自治的丹麥島嶼。丹麥政府與格陵蘭島當地政府均表示堅決反對。 報道稱，這批新兵是丹麥新擴大的徵兵計劃下首批義務兵，該計劃旨在培養能夠在丹麥王國戰略價值最高、最具挑戰性的地區之一執行作戰任務計程車兵。 （參考訊息）"
+    },
+    {
+      "id": "5073290",
+      "time": "2026-09-02 19:47:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷恩之家（Wren House）即將達成交易，收購新加坡政府投資公司（GIC）所持的資料中心股權。"
+    },
+    {
+      "id": "mkt:01a061f1-eb41-7118-845e-e6f543dd92cd",
+      "time": "2026-09-02 19:47:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said there is uncertainty over whether US-Canada trade will be as favorable again."
+    },
+    {
+      "id": "5073289",
+      "time": "2026-09-02 19:46:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：不確定美國與加拿大還能再度達成如此有利的協議。"
+    },
+    {
+      "id": "mkt:01a061f1-3702-7118-845e-de7e6a6f6bb8",
+      "time": "2026-09-02 19:46:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Canada's trade agreement has had almost no impact on U.S. prices."
+    },
+    {
+      "id": "5073288",
+      "time": "2026-09-02 19:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：加拿大貿易協定對美國物價幾乎沒有產生影響。"
+    },
+    {
+      "id": "mkt:01a061f0-eed6-7118-845e-d2ace52b92a5",
+      "time": "2026-09-02 19:46:14",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "US Treasury Secretary Bessent said Chevron's CEO has performed well managing assets in Venezuela."
+    },
+    {
+      "id": "5073287",
+      "time": "2026-09-02 19:46:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：仍對AI基礎設施支出和半導體週期保持積極判斷】高盛最新研報指出，隨著Communacopia + Technology Conference（高盛通訊與技術大會）召開，半導體行業五大核心議題將集中在AI算力、晶圓製造裝置（WFE）、儲存、模擬晶片和EDA軟體。整體來看，高盛仍對AI基礎設施支出和半導體週期保持積極判斷。"
+    },
+    {
+      "id": "mkt:01a061f0-c0de-7118-845e-cf4e1b1b33bd",
+      "time": "2026-09-02 19:46:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil flow through the Strait of Hormuz exceeded 17 mln barrels on Monday."
+    },
+    {
+      "id": "5073286",
+      "time": "2026-09-02 19:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：週一霍爾木茲海峽石油運輸量超1700萬桶。"
+    },
+    {
+      "id": "mkt:01a061f0-9841-7118-845e-c483227e83bf",
+      "time": "2026-09-02 19:45:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said Venezuela's oil output will exceed 2 mln bpd by the end of this decade."
+    },
+    {
+      "id": "5073285",
+      "time": "2026-09-02 19:45:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝森特：雪佛龍執行長在管理委內瑞拉資產方面工作十分出色。"
+    },
+    {
+      "id": "mkt:01a061f0-7961-7118-845e-bdaa649f3410",
+      "time": "2026-09-02 19:45:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham pledges fiscal stability but refuses to rule out further borrowing】UK Prime Minister Andy Burnham pledged his government will ensure fiscal stability but refused to rule out further borrowing, saying his administration will adhere to fiscal rules. Burnham blamed elevated gilt yields and rising government financing costs on the previous Conservative government, saying market turmoil reflected risk exposures they left and that debt-to-GDP rose during their tenure."
+    },
+    {
+      "id": "mkt:01a061f0-08fd-7118-845e-b0bfbff68a56",
+      "time": "2026-09-02 19:45:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Energy Secretary Wright said he is confident Venezuelan oil can be swapped into other grades to top up the Strategic Petroleum Reserve."
+    },
+    {
+      "id": "5073284",
+      "time": "2026-09-02 19:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，委內瑞拉的產量到本十年末將超過200萬噸。"
+    },
+    {
+      "id": "5073283",
+      "time": "2026-09-02 19:44:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：有信心將這批石油置換為可用於補充戰略石油儲備的其他型別原油。"
+    },
+    {
+      "id": "mkt:01a061ee-f132-7118-845e-aade771e3da0",
+      "time": "2026-09-02 19:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is in active communication with any parties supporting Iran."
+    },
+    {
+      "id": "5073282",
+      "time": "2026-09-02 19:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】兩國元首讚賞《中華人民共和國和阿拉伯埃及共和國全面戰略伙伴關係實施綱要（2024－2028）》落實情況，一致同意加強貿易投資中的本幣使用，鼓勵更多使用兩國本幣進行貿易投資結算。埃方讚賞中方對非零關稅舉措，兩國元首支援兩國貿易更加平衡，鼓勵更多符合中國標準的埃及產品進入中國市場，雙方一致同意繼續就早期收穫安排進行磋商。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ee-bcee-7118-845e-a62d241ca99c",
+      "time": "2026-09-02 19:43:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Bitcoin",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said airlines, maritime shipping and digital assets could be subject to sanctions."
+    },
+    {
+      "id": "mkt:01a061ee-9927-7118-845e-9d65663c30be",
+      "time": "2026-09-02 19:43:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Treasury Secretary Bessent said the US will systematically remove bad actors on Iran and sanctions."
+    },
+    {
+      "id": "5073281",
+      "time": "2026-09-02 19:43:30",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及伊朗與制裁：航空公司、海運業與數字資產都可能成為制裁目標。"
+    },
+    {
+      "id": "mkt:01a061ee-68cd-7118-845e-91919b78dc04",
+      "time": "2026-09-02 19:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent on Iran and Russia: my advice to everyone is stay away from them; no one should support the regime."
+    },
+    {
+      "id": "5073280",
+      "time": "2026-09-02 19:43:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特在福克斯新聞採訪中談及伊朗與制裁問題時表示：將系統性清除作惡主體。"
+    },
+    {
+      "id": "5073279",
+      "time": "2026-09-02 19:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特(Wright)：到2027年上半年，委內瑞拉原油日產量將遠超150萬桶。"
+    },
+    {
+      "id": "5073278",
+      "time": "2026-09-02 19:43:13",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【9月2日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平抵達開羅對埃及進行國事訪問； 2.習近平出席埃及總統舉行的歡迎儀式； 3.習近平同埃及總統會談； 4.習近平致電祝賀挪威國王哈康八世即位； 5.《平“語”近人——習近平喜歡的典故》（阿拉伯語版）在埃及主流媒體播出； 6.秋糧主產區分類施策 全力奪取豐收； 7.上半年信貸資金加速流向科創企業； 8.西藏吉隆口岸核心區域陸路救援通道實現暢通； 9.國內聯播快訊： （1）國務院安委辦聯合多部門部署加強漁業安全防範工作； （2）新版國家基本藥物目錄實施 更多好藥惠及基層； （3）《網際網路資訊內容多渠道分發服務管理規定》施行； （4）今年前7個月我國對埃及進出口同比增長18.7%； （5）我國銅金礦勘查獲重大突破； （6）2026年全國科普月啟動； （7）2026年暑期檔電影票房為124.98億元 放映場次創新高； 10.埃及各界人士表示習近平主席此次國事訪問將開創埃中關係更加美好的未來； 11.美國對伊朗發動新一輪軍事打擊 伊朗回擊美在多國基地； 12.國際聯播快訊： （1）加總理稱加美貿易協議須尊重加主權； （2）歐元區8月通脹率升至3.3%； （3）聯合國稱剛果（金）埃博拉呈指數級擴散。"
+    },
+    {
+      "id": "5073276",
+      "time": "2026-09-02 19:42:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及伊朗、俄羅斯問題：我給所有人的忠告就是離遠點。"
+    },
+    {
+      "id": "5073275",
+      "time": "2026-09-02 19:42:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】雙方同意進一步深化共建“一帶一路”倡議同埃及“2030願景”對接，助力埃及成為地區連線亞洲、非洲和歐洲的工業、物流、清潔能源和數字經濟的區域中心，加強中埃共同夥伴關係，鼓勵中國企業利用埃及競爭優勢，積極探討電動汽車、造船、太陽能、風能等可再生能源、海水淡化等領域產業本土化合作，拓展雲端計算、資料中心、數字經濟、半導體、網路安全、航天應用、遙感等高科技領域，以及關鍵礦產供應鏈、農業、汽車製造領域合作，並在上述領域加強人力資源能力建設和經驗技術交流，支援埃及數字化轉型和可持續發展。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ed-8c92-7118-845e-8cb08b4d9156",
+      "time": "2026-09-02 19:42:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The People's Republic of China and the Arab Republic of Egypt issued a joint statement on further deepening their comprehensive strategic partnership."
+    },
+    {
+      "id": "5073274",
+      "time": "2026-09-02 19:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告：兩國元首讚賞雙方現有金融合作，包括髮行熊貓債、擴大本幣互換安排。鼓勵兩國金融機構支援工業和發展投資以及基礎設施和綠色數字化轉型專案。兩國元首歡迎雙方續簽本幣互換協議並擴大互換規模。（新華社）"
+    },
+    {
+      "id": "mkt:01a061ec-ecae-7118-845e-8244502387f9",
+      "time": "2026-09-02 19:41:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kimi API natively supports CODEX and Claude Code】Sept 2 — Moonshot AI said Kimi API now natively supports OpenAI's Responses API format and ANTHROPIC's Messages API format. CODEX and Claude Code users can connect via a custom model provider directly to models kimi-k3, kimi-k2.7-code-highspeed, kimi-k2.7-code and kimi-k2.6 without format conversion or a local proxy."
+    },
+    {
+      "id": "mkt:01a061ec-b3db-7118-845e-7b7acd179ac1",
+      "time": "2026-09-02 19:41:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US energy secretary wright said he expects Venezuela's daily oil production to exceed 1.5 mln bpd by 1H next year."
+    },
+    {
+      "id": "5073273",
+      "time": "2026-09-02 19:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中華人民共和國和阿拉伯埃及共和國關於進一步深化全面戰略伙伴關係的聯合宣告】應阿拉伯埃及共和國總統阿卜杜勒法塔赫·塞西閣下邀請，中華人民共和國主席習近平閣下於2026年9月1日至2日對阿拉伯埃及共和國進行國事訪問，此訪恰逢兩國建交70週年。埃及是第一個承認中華人民共和國的阿拉伯和非洲國家，1956年同中國建立外交關係。70年來，兩國友好合作關係顯著發展，始終保持健康穩定，形成“平等互信、友好互鑑、和衷共濟、合作共贏”的中埃友好特徵。中埃關係已成為中國同阿拉伯、非洲國家友好合作精神發展的表率。兩國元首圍繞雙邊關係舉行正式會談，回顧2014年兩國全面戰略伙伴關係建立以來所取得的顯著發展和質的飛躍，並就共同關心的國際和地區問題交換意見，達成廣泛共識。（新華社）"
+    },
     {
       "id": "5073272",
       "time": "2026-09-02 19:40:53",
@@ -110835,195 +111149,6 @@
         "公司"
       ],
       "text": "【海天股份：2026年上半年淨利潤3382.68萬元，同比下降44.90%】海天股份公告，2026年上半年營業收入28.87億元，同比增長189.14%；歸屬於上市公司股東的淨利潤3382.68萬元，同比下降44.90%，2025年上半年為6139.59萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3040.42萬元，同比下降38.78%。"
-    },
-    {
-      "id": "5060208",
-      "time": "2026-08-26 19:50:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026中國（廣西）—東盟跨境產業鏈供應鏈合作大會暨僑商僑領廣西行活動舉行 韋韜出席並致辭】8月26日，以“共建跨境產供鏈 共享合作新機遇”為主題的2026中國（廣西）—東盟跨境產業鏈供應鏈合作大會暨僑商僑領廣西行活動在南寧舉行。自治區主席韋韜出席並致辭。韋韜誠摯歡迎僑商僑領、企業家出席本次大會，感謝大家長期以來給予廣西發展的關心支援。他表示，當前，全球產業鏈供應鏈加速重構，為中國—東盟深化合作帶來重大契機。廣西是中國唯一與東盟陸海相連的省區，正深入貫徹落實習近平總書記關於廣西工作論述的重要要求，全力擁抱人工智慧時代，加快平陸運河建成通航，推進中國—東盟產業合作區、沿邊臨港產業園區、欽防產業協作園區等建設，打造製造業十大現代化支柱產業，迎來歷史最好發展時期。希望以此次活動為契機，與大家深化產業合作，攜手打造優勢互補、互利共贏的跨區域跨境產業鏈供應鏈；共享AI機遇，攜手打造面向東盟的人工智慧開放高地、整合高地、應用高地、創新高地；搶抓中國—東盟自貿區3.0版建設機遇，攜手拓展東盟乃至全球市場。廣西將持續打造最優營商環境，讓來桂客商投資安心、經營舒心、發展放心。（廣西釋出）"
-    },
-    {
-      "id": "5060207",
-      "time": "2026-08-26 19:50:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技部王仲成：“十五五”將是國際科技合作關鍵承壓期，也是夯實“朋友圈”戰略機遇期】8月26日，2026核聚變能大會暨核聚變活動週期間，科技部國際合作司參贊王仲成表示，加強國際科技創新合作仍是時代發展的主流，國際力量對比深刻調整也使中國具備自主運籌國際空間、塑造外部環境的更多有利因素。王仲成指出，未來十年特別是“十五五”時期，將是中國開展國際科技合作的關鍵承壓期，也是夯實國際科技合作“朋友圈”的戰略機遇期。"
-    },
-    {
-      "id": "5060206",
-      "time": "2026-08-26 19:49:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚變生態聯盟成立，19家產業鏈企業及投資機構入盟】8月26日，2026核聚變能大會暨核聚變活動週期間，中國聚變能源有限公司牽頭，聯合上海國投、星環聚能、上海超導、鼎峰武嶽峰、閩金投、上創超導、復旦大學、合肥科創、中科創星等18家產業鏈骨幹企業及投資機構，共同發起成立聚變生態聯盟。"
-    },
-    {
-      "id": "5060205",
-      "time": "2026-08-26 19:49:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【建設機械：2026年上半年虧損5億元，2025年同期虧損4.47億元】 建設機械公告，2026年上半年營業收入10.98億元，同比下降2.12%；歸屬於上市公司股東的淨利潤虧損5億元，2025年同期虧損4.47億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5.1億元，2025年同期虧損4.52億元。公司2026年上半年度不進行利潤分配，也不進行資本公積金轉贈股本。"
-    },
-    {
-      "id": "mkt:01a03de7-2374-7aab-912c-ded0c285ecf5",
-      "time": "2026-08-26 19:49:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An IRGC spokesman said foreign warships must remain at least 400 km from the Strait of Hormuz and that, from a military and territorial standpoint, no vessel can transit the waterway without Iran’s permission and control; he said sea lanes off Oman are entirely under IRGC control."
-    },
-    {
-      "id": "5060204",
-      "time": "2026-08-26 19:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【矽片低價接近現金成本 多晶矽產量持續增加】市場18X矽片價格1.113-1.129元/片，210RN矽片價格1.113-1.149元/片，210N矽片價格1.18-1.248元/片。210R和210N矽片價格維持跌勢，若按當前可購買到的原料價格計算，目前各家報價的區間低價已經接近現金成本。8月多晶矽繼續增加，產量或突破11萬噸，後續有個別基地有復產計劃，9月產量有繼續增加預期。 (上海有色網)"
-    },
-    {
-      "id": "mkt:01a03de6-2725-7aab-912c-d14f7f0155de",
-      "time": "2026-08-26 19:48:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "An Islamic Revolutionary Guard Corps spokesman said the Strait will remain closed unless the United States accepts its conditions."
-    },
-    {
-      "id": "mkt:01a03de6-0932-7aab-912c-cbbf9d7b1742",
-      "time": "2026-08-26 19:48:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "IRGC spokesman said the US is obstructing Oman–Iran talks, causing delays to the negotiations."
-    },
-    {
-      "id": "5060203",
-      "time": "2026-08-26 19:47:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯合精密：股價異常波動 不涉及半導體裝置業務】聯合精密公告稱，公司股票於2026年8月24日、8月25日、8月26日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司及控股股東、實際控制人均不存在應披露而未披露的重大事項，異動期間控股股東、實際控制人未買賣公司股票。公司預計2026年半年度淨虧損880.00萬元至1200.00萬元，業績預告無需修正。公司主營業務為精密機械零部件業務，未發生重大變化，不涉及半導體裝置業務。"
-    },
-    {
-      "id": "5060202",
-      "time": "2026-08-26 19:47:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人表示，如果美國不接受我方條件，霍爾木茲海峽將不會對外開放。"
-    },
-    {
-      "id": "5060201",
-      "time": "2026-08-26 19:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三力士：2026年上半年營收5.29億元 同比增20.04%】三力士公告稱，2026年上半年實現營業收入5.29億元，同比增長20.04%；歸屬於上市公司股東的淨虧損1156.67萬元，同比下降160.90%；扣除非經常性損益的淨虧損2213.51萬元，同比下降208.21%。截至報告期末，公司累計回購股份1190萬股，佔總股本的1.32%，成交總金額4770.62萬元。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5060200",
-      "time": "2026-08-26 19:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人表示，美國正在阻撓阿曼與伊朗之間的談判程序，導致談判推遲。"
-    },
-    {
-      "id": "5060199",
-      "time": "2026-08-26 19:47:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華孚時尚：2026年上半年淨利潤1.77億元，同比增長607.08%】華孚時尚公告，2026年上半年營業收入37.51億元，同比下降8.50%；歸屬於上市公司股東的淨利潤1.77億元，同比增長607.08%；歸屬於上市公司股東的扣除非經常性損益的淨利潤641.93萬元，2025年同期虧損5444.25萬元，同比扭虧為盈。阿克蘇城市公共算力平臺專案已於2025年底完成土建施工，持續推進裝修及機電工程。"
-    },
-    {
-      "id": "5060198",
-      "time": "2026-08-26 19:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人表示，伊朗與阿曼兩國談判期間，已就霍爾木茲海峽水域中兩國的權益劃分達成協議，相關協議涵蓋了伊朗與阿曼對霍爾木茲海峽收入的分成。"
-    },
-    {
-      "id": "5060197",
-      "time": "2026-08-26 19:44:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：美國新一輪對伊經濟制裁將一無所獲】據伊朗學生通訊社26日報道，伊朗總統佩澤希齊揚在德黑蘭舉行的一次會議上說，美國的新一輪經濟制裁將一無所獲。佩澤希齊揚表示，鑑於伊朗政府已採取措施，美國現階段施加經濟壓力不會取得任何成果，就像其在戰事中未能取得任何成果一樣。（新華社）"
-    },
-    {
-      "id": "5060196",
-      "time": "2026-08-26 19:44:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中油工程：2026年上半年淨利潤3.65億元，同比下降22.27%】中油工程公告，2026年上半年營業收入384.27億元，同比增長5.90%；歸屬於上市公司股東的淨利潤3.65億元，同比下降22.27%，2025年同期為4.7億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.51億元，同比下降18.77%。公司2026年中期擬不派發現金紅利、不送紅股、不以資本公積轉增股本。"
-    },
-    {
-      "id": "mkt:01a03de2-711a-7aab-912c-c50179c4c5e0",
-      "time": "2026-08-26 19:44:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran president Pezeshkian says new US economic sanctions will yield no results】On the 26th, Iranian President Pezeshkian told a Tehran meeting the latest US economic sanctions will yield no results, saying measures already taken by Tehran mean current US pressure will not succeed, as it has not in the conflict."
-    },
-    {
-      "id": "mkt:01a03de2-34fb-7aab-912c-ba6054b76542",
-      "time": "2026-08-26 19:43:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03308.HK",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Stock Exchange: Zhongji Xuchuang (03308.HK) has been added to the list of Hong Kong securities eligible for Southbound trading under the Shanghai–Hong Kong Stock Connect, effective from the next Southbound trading day."
-    },
-    {
-      "id": "5060195",
-      "time": "2026-08-26 19:42:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天嶽先進：持股5%以上股東合計減持至5%】天嶽先進公告稱，公司持股5%以上股東遼寧中德產業股權投資基金合夥企業（有限合夥）及其一致行動人遼寧海通新能源低碳產業股權投資基金有限公司、國泰海通證裕投資有限公司，於2026年8月6日至8月26日透過集中競價及大宗交易方式減持公司股份，合計持股比例由5.9962%降至5.0000%，本次變動後不再為公司大股東。本次權益變動為股東履行減持計劃，不觸及要約收購，不會導致公司控股股東、實際控制人發生變化。"
-    },
-    {
-      "id": "mkt:01a03de0-cd60-7aab-912c-b4c5c54e2bdd",
-      "time": "2026-08-26 19:42:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Qatar says Israel is not a peace partner】Qatar foreign ministry spokesman Ansari said on Aug. 25 that U.S. sanctions on Iran are unilateral, not U.N. or multilateral measures, and should be questioned by those who imposed them. He urged international pressure on Israel to honour agreed plans, saying Israeli operations in Gaza, the West Bank and attacks on Syrian and Lebanese sovereignty demonstrate Israel is not a peace partner. Ansari added the ball is now in Israel’s court and said he has seen no positive progress toward diplomatic compliance."
-    },
-    {
-      "id": "5060194",
-      "time": "2026-08-26 19:42:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度投資與公共資產管理部秘書：印度斯坦銅業公司的要約出售在兩個交易日均獲超額認購。"
     }
   ]
 }
