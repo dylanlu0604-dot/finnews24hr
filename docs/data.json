@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-02 08:25:02",
-  "count": 12754,
+  "updated": "2026-09-02 08:28:49",
+  "count": 12761,
   "items": [
+    {
+      "id": "5071911",
+      "time": "2026-09-02 08:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國軍方襲擊了兩艘伊朗政府所屬油輪。"
+    },
+    {
+      "id": "mkt:01a05f83-c6be-7118-844a-dba877a5d322",
+      "time": "2026-09-02 08:27:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said Iran faces three options: a coup within the Islamic Revolutionary Guard Corps, a popular overthrow of the current government, or entering negotiations."
+    },
+    {
+      "id": "mkt:01a05f83-4d51-7118-844a-d065f3efc310",
+      "time": "2026-09-02 08:27:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【UEDA to consider inflation upside risk, reinforcing bets on BOJ September rate hike】UEDA said he will consider upside inflation risks when deciding monetary policy, a comment that reinforced market expectations of a Bank of Japan rate hike at the meeting later this month. He declined to comment on strong market bets for a September increase but said recent economic data are consistent with the BOJ's prior outlook. U.S. Treasury Secretary Bessent's call this week for the BOJ to take appropriate policy action added to tightening bets; overnight index swaps show roughly a 99% probability of a September hike."
+    },
+    {
+      "id": "mkt:01a05f83-07dd-7118-844a-c90c709bf367",
+      "time": "2026-09-02 08:26:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said 17 million barrels of oil transited the Strait of Hormuz on Monday."
+    },
+    {
+      "id": "5071910",
+      "time": "2026-09-02 08:26:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，週一共有1700萬桶石油透過霍爾木茲海峽。"
+    },
+    {
+      "id": "te:markets:580226",
+      "time": "2026-09-02 08:26:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Milk Hits 4-week Low — Milk decreased to 16.34 USD/CWT, the lowest since August 2026. Over the past 4 weeks, Milk gained 6.39%, and in the last 12 months, it decreased 3.42%."
+    },
+    {
+      "id": "5071909",
+      "time": "2026-09-02 08:26:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：泰勒·羅賓遜對涉嫌謀殺查理·柯克的全部七項指控均不認罪。"
+    },
+    {
+      "id": "5071908",
+      "time": "2026-09-02 08:25:07",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行植田和男：將在考量物價上行風險的前提下制定政策】日本央行行長植田和男表示，他將在充分考慮物價上行風險的基礎上制定貨幣政策，此番言論或將進一步加劇市場對本月下旬政策會議可能加息的猜測。在北卡羅來納州阿什維爾舉辦的G20財長與央行行長會議結束後，植田和男向記者表示，日本央行會像歷次會議一樣，在下一次會議上就貨幣政策展開充分討論。針對市場高漲的9月加息預期，植田和男拒絕作出評價，但他稱經濟資料與央行的展望保持一致，這一關鍵表述暗示日本央行有望繼續推進加息。本週美國財政部長斯科特・貝森特加大呼籲，要求日本央行採取恰當政策行動，進一步推升市場對日本央行即將行動的預期，此後植田和男發表了上述言論。隔夜指數互換資料顯示，9月加息的機率約為99%。"
+    },
+    {
+      "id": "5071907",
+      "time": "2026-09-02 08:24:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年北交所新股發行節奏顯著提速】二級市場層面，今年北交所新股發行節奏顯著提速，前8個月新股申購數量超越2024、2025兩年全年總和。依託無市值底倉、按比例配售的制度優勢，板塊打新熱度居高不下，疊加新股上市後的高賺錢效應，增量資金持續入場，但行情分化愈發明顯，年內新股首日漲幅最高超600%，部分傳統製造業新股漲幅僅20%至30%。南開大學金融發展研究院院長田利輝分析指出，市場行情正從資金炒作轉向基本面定價，業績兌現能力、技術壁壘與賽道景氣度，成為資金擇股的核心標準。"
+    },
     {
       "id": "5071906",
       "time": "2026-09-02 08:23:54",
@@ -17,6 +102,15 @@
         "其他"
       ],
       "text": "【設立五週年，北交所含“新”量不斷提升】2021年9月2日，北京證券交易所正式宣佈設立，次日完成註冊登記，並於當年11月15日揭牌開市。五年來，北交所經歷了初期改革“試驗田”的探索階段，逐步成長為聚焦創新型、專精特新中小企業的核心服務陣地，市場規模、投資者體量、交易活躍度實現跨越式增長，精準服務中小科創企業的市場定位愈發鮮明。立足新起點，在市場體量持續擴容、企業基本面穩步向好的背景下，北交所該如何補齊市場短板、暢通投融資雙向迴圈，真正打通創新型中小企業長效融資發展通道？從開市之初的81家企業，到如今擴容至339家；合格投資者跨過千萬門檻、成交規模實現量級躍升。五年時間，北交所完成了一次看得見的規模跨越。而在各項亮眼增長資料之下，南開大學金融發展研究院院長田利輝觀察，一組組增長的資料背後，更深層的變化正在發生，這塊資本市場改革“試驗田”，正加速成長為多層次資本市場的關鍵一環。 （央視新聞）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202609023862152117",
+      "time": "2026-09-02 08:21:20",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行行長植田和男：密切關注外匯波動】日本央行行長植田和男稱，不會單獨關注外匯，在制定政策時會比以往更強烈地對外匯波動作出反應。密切關注外匯波動，外匯波動是價格前景的風險因素之一。"
     },
     {
       "id": "mkt:01a05f7d-abd9-7118-844a-c32628f3e0a0",
@@ -116908,31 +117002,6 @@
         "其他"
       ],
       "text": "澳大利亞7月西太平洋領先指標環比 0.03%，前值 0.04%。"
-    },
-    {
-      "id": "mkt:01a03b75-cbcf-7aab-911c-49c5ec178fa0",
-      "time": "2026-08-26 08:26:10",
-      "tags": [
-        "MKT News",
-        "CRM.N"
-      ],
-      "text": "The Information reports OpenAI hired many salespeople from Salesforce (CRM.N) to pitch its AI to large enterprises; several have since returned to Salesforce, accelerating a reorganization of OpenAI’s enterprise sales team."
-    },
-    {
-      "id": "5058663",
-      "time": "2026-08-26 08:26:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大回應特朗普又想給湖改名】對於美國總統特朗普8月25日發帖稱“正考慮將（美加邊境的）安大略湖改名‘美國湖’”，加拿大方面當天回應稱，“我們永遠都會叫它安大略湖。這沒什麼好商量的。”加拿大工業部長梅拉妮·喬利說，“聖勞倫斯河和五大湖是加拿大立國的根基之一。我們將堅決捍衛屬於我們的東西。面對如此鬧劇，我們要保持理智、講究策略，並予以反擊。”特朗普在社交媒體上發帖稱，“正在認真考慮將安大略湖更名為‘美國湖’，因為預計未來不會再與（加拿大）安大略省有太多經貿往來。” 安大略湖地處美國與加拿大交界處，是五大湖中最東端且面積最小的湖泊。湖北岸‌接壤加拿大安大略省，南岸‌毗鄰美國紐約州。 美國與加拿大貿易談判上週破裂，關稅爭端不斷升級，雙方更是爆發了一場激烈的口水戰，加拿大安大略省省長道格·福特和特朗普之間互相攻擊。 （CCTV國際時訊 ）"
-    },
-    {
-      "id": "5058662",
-      "time": "2026-08-26 08:25:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山西對太原、大同等七市啟動地質災害四級響應】根據山西省氣象局預報，8月25日至27日山西省北中部有中到大雨，部分地區有暴雨或大暴雨，累計降雨量大。山西省重大地質災害應急指揮部辦公室決定，自8月25日19時起，對太原、大同、朔州、忻州、陽泉、呂梁、晉中市啟動地質災害四級響應。請有關各市及相關部門壓實防範責任，密切關注雨情汛情，嚴格監測預警，加密會商研判，突出巡查排查，落實預警聯動、應急值守、轉移避險、關停禁限等措施，切實做好地質災害防範應對各項工作。"
     }
   ]
 }
