@@ -1,7 +1,1603 @@
 {
   "date": "2026-09-03",
-  "count": 56,
+  "count": 231,
   "items": [
+    {
+      "id": "mkt:01a06377-fc59-7118-846c-2bd156280a37",
+      "time": "2026-09-03 02:53:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Press TV reported Iran's Strait of Hormuz Administration updated its Non-Compliant Vessel (NCV) list, adding 12 vessels."
+    },
+    {
+      "id": "te:economy:580577",
+      "time": "2026-09-03 02:52:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Falls After Election Poll — Brazil’s 10-year government bond yield fell to 14.45% from a near one-month high of 14.90% reached on August 14, following the release of the Genial/Quaest poll on the 2026 presidential election. The poll showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential October runoff, with Lula receiving 42% of voting intentions versus 41% for Bolsonaro. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that the effects of monetary tightening are increasingly visible, potentially leaving room for further Selic cuts."
+    },
+    {
+      "id": "mkt:01a06373-8bc9-7118-846c-223fcc69ea0b",
+      "time": "2026-09-03 02:48:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $95.63 per barrel, up $0.98, or 1.04%."
+    },
+    {
+      "id": "mkt:01a0636e-617f-7118-846c-1ef130736e83",
+      "time": "2026-09-03 02:42:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "The three major U.S. stock indexes were little changed."
+    },
+    {
+      "id": "mkt:01a0636d-2f78-7118-846c-129db7b4d660",
+      "time": "2026-09-03 02:41:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump finished remarks at the White House."
+    },
+    {
+      "id": "mkt:01a0636c-d693-7118-846c-0ceaf9fae4eb",
+      "time": "2026-09-03 02:41:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he was speaking off the cuff when asked how serious he was about renaming the strait."
+    },
+    {
+      "id": "mkt:01a0636b-e20e-7118-846c-05a8668d4b9c",
+      "time": "2026-09-03 02:40:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump concluded his speech at the White House."
+    },
+    {
+      "id": "mkt:01a0636b-0db9-7118-846b-f87924a52ef9",
+      "time": "2026-09-03 02:39:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said the stock market has not been affected, could have been higher, and asserted that stocks will rise."
+    },
+    {
+      "id": "mkt:01a0636a-aca3-7118-846b-f758f17c980c",
+      "time": "2026-09-03 02:38:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports documents and training videos show hundreds of Department of Homeland Security (DHS) federal agents have been scheduled for a weeks-long intensive operation to investigate whether non-citizens are among registered voters nationwide, despite no evidence of widespread election fraud."
+    },
+    {
+      "id": "5073928",
+      "time": "2026-09-03 02:38:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "記者：您將霍爾木茲海峽更名為“特朗普海峽”的想法有多認真？\n\n特朗普：我只是隨口一說。"
+    },
+    {
+      "id": "mkt:01a06369-164e-7118-846b-ef4bcb9f697b",
+      "time": "2026-09-03 02:37:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump will travel to Alaska to campaign for incumbent Senator Dan Sullivan."
+    },
+    {
+      "id": "5073927",
+      "time": "2026-09-03 02:36:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大選前三十天內將開展多場競選造勢活動。"
+    },
+    {
+      "id": "mkt:01a06367-500f-7118-846b-e02400c26413",
+      "time": "2026-09-03 02:35:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Persian Gulf Strait Management Authority said it has completed updating the \"Non-Compliant Vessel (NCV) list\" on its website."
+    },
+    {
+      "id": "5073926",
+      "time": "2026-09-03 02:34:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西稅務上訴法院推翻對巴西石油公司34億雷亞爾的罰款。"
+    },
+    {
+      "id": "mkt:01a06366-5782-7118-846b-dbb8e9ec48b0",
+      "time": "2026-09-03 02:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Mail cites sources saying Ukrainian President Zelenskiy plans to visit Canada next week, but the trip is not yet finalized."
+    },
+    {
+      "id": "te:markets:580576",
+      "time": "2026-09-03 02:34:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Hits Three-Week High — The Brazilian real strengthened to around 5.10 per USD in September, reaching a three-week high following the release of the Genial/Quaest poll on the 2026 presidential election. The poll showed President Lula and Senator Senator Flávio Bolsonaro in a technical tie in a potential October runoff, with Lula receiving 42% of voting intentions versus 41% for Bolsonaro. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. On the other hand, industrial production rose 0.2% month-on-month in July, rebounding after two consecutive monthly declines."
+    },
+    {
+      "id": "5073925",
+      "time": "2026-09-03 02:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基計劃於下週訪問加拿大，但此次行程尚未最終確定。"
+    },
+    {
+      "id": "mkt:01a06364-f31e-7118-846b-d640c2406b03",
+      "time": "2026-09-03 02:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Venezuela: I do not think they are ready to hold elections yet."
+    },
+    {
+      "id": "5073924",
+      "time": "2026-09-03 02:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及委內瑞拉局勢：我認為該國目前還未做好舉行選舉的準備。"
+    },
+    {
+      "id": "mkt:01a06363-d327-7118-846b-c8e80417bbf7",
+      "time": "2026-09-03 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $91.01/bbl, up $0.79 or 0.88%."
+    },
+    {
+      "id": "mkt:01a06363-d154-7118-846b-c35645e73f53",
+      "time": "2026-09-03 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.86% to 948 yuan/gram; SHFE silver main contract rose 1.06% to 15,886 yuan/kg; SC crude oil main contract rose 2.57% to 695 yuan/barrel."
+    },
+    {
+      "id": "5073923",
+      "time": "2026-09-03 02:31:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國將與其他國家採取同等的電影補貼措施。"
+    },
+    {
+      "id": "5073922",
+      "time": "2026-09-03 02:30:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶91.01美元，上漲79美分，漲幅0.88%。"
+    },
+    {
+      "id": "5073921",
+      "time": "2026-09-03 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.57%，報694.70元人民幣/桶。滬金夜盤收漲0.86%，滬銀收漲1.06%。"
+    },
+    {
+      "id": "5073920",
+      "time": "2026-09-03 02:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我已與奈飛就好萊塢行業現狀展開溝通。"
+    },
+    {
+      "id": "5073919",
+      "time": "2026-09-03 02:28:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗戰爭持續時間：選舉不會對我造成影響。第一，我本人不參選，但我的政黨參與競選，我會為本黨提供助力。不過我認為，本黨認同我們絕不允許伊朗擁有核武器這一立場。"
+    },
+    {
+      "id": "mkt:01a06360-dfaf-7118-846b-bd7f478c467a",
+      "time": "2026-09-03 02:28:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump says US prepared to strike Iran again; claims control of Strait of Hormuz】US President Trump told US travel industry executives at the White House on Wednesday that the Iranian regime \"is falling apart\" and said the US is prepared to strike Iran again, adding such an action \"won't last long.\" He also said \"we completely control the Strait of Hormuz,\" that \"millions of barrels of oil\" are exported daily from there, and expressed hope US retail gasoline prices would fall."
+    },
+    {
+      "id": "mkt:01a0635f-e52a-7118-846b-b3da242386b4",
+      "time": "2026-09-03 02:27:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said on the Russia-Ukraine conflict that they must stop the fighting."
+    },
+    {
+      "id": "5073918",
+      "time": "2026-09-03 02:26:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：待我們為達成和平協議做好準備後，將舉行與普京的峰會。"
+    },
+    {
+      "id": "5073917",
+      "time": "2026-09-03 02:26:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：只要我願意，普京會再次舉行峰會。"
+    },
+    {
+      "id": "mkt:01a0635e-d573-7118-846b-af37622d7995",
+      "time": "2026-09-03 02:25:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he hopes to hold a summit with Russia's President Putin once the U.S. is ready to reach a Ukraine peace agreement."
+    },
+    {
+      "id": "5073916",
+      "time": "2026-09-03 02:25:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及俄烏衝突：他們必須結束這場衝突。"
+    },
+    {
+      "id": "te:markets:580575",
+      "time": "2026-09-03 02:25:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.28% — Top commodity losers are Cocoa (-4.28%), Coffee (-3.91%) and Cotton (-3.28%). Gains are led by Sugar (1.91%)."
+    },
+    {
+      "id": "mkt:01a0635d-ac59-7118-846b-a77db04a37d3",
+      "time": "2026-09-03 02:24:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he hopes retail gasoline prices will fall."
+    },
+    {
+      "id": "mkt:01a0635d-72f8-7118-846b-9a9b4a6d7346",
+      "time": "2026-09-03 02:24:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "President Trump raised the issue of oil price gouging in a meeting with oil and gas top executives."
+    },
+    {
+      "id": "5073915",
+      "time": "2026-09-03 02:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申希望降低零售汽油價格。"
+    },
+    {
+      "id": "5073914",
+      "time": "2026-09-03 02:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨日向石油行業高管提及哄抬油價問題。"
+    },
+    {
+      "id": "mkt:01a0635b-cf6f-7118-846b-9276ba2b2cad",
+      "time": "2026-09-03 02:22:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he is controlling the Strait of Hormuz."
+    },
+    {
+      "id": "5073913",
+      "time": "2026-09-03 02:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗戰爭：別指望戰爭會持續太久。"
+    },
+    {
+      "id": "mkt:01a0635a-d54e-7118-846b-8898a73e9203",
+      "time": "2026-09-03 02:21:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says he is prepared to carry out another strike against Iran."
+    },
+    {
+      "id": "5073912",
+      "time": "2026-09-03 02:21:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：準備對伊朗發動再一次攻擊。"
+    },
+    {
+      "id": "mkt:01a0635a-9d56-7118-846b-8413c080ce30",
+      "time": "2026-09-03 02:21:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said the US fully controls the Strait of Hormuz and exports millions of barrels of oil through it each day."
+    },
+    {
+      "id": "5073911",
+      "time": "2026-09-03 02:21:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "派拉蒙股價飆升至盤中高點6.1%。"
+    },
+    {
+      "id": "5073910",
+      "time": "2026-09-03 02:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在管控霍爾木茲海峽。"
+    },
+    {
+      "id": "5073909",
+      "time": "2026-09-03 02:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基計劃下週訪問加拿大。"
+    },
+    {
+      "id": "mkt:01a0635a-1892-7118-846b-7af127ed042c",
+      "time": "2026-09-03 02:20:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says oil prices will fall."
+    },
+    {
+      "id": "5073908",
+      "time": "2026-09-03 02:20:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "華納兄弟探索股價迅速上漲0.9%。"
+    },
+    {
+      "id": "5073907",
+      "time": "2026-09-03 02:20:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊朗當時正試圖建造可佈設水雷的火箭，我們將其摧毀了。"
+    },
+    {
+      "id": "mkt:01a06359-b5b6-7118-846b-747fd2590b2a",
+      "time": "2026-09-03 02:20:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "President Trump said Iran tried to build a rocket to deploy sea mines and that the U.S. destroyed it."
+    },
+    {
+      "id": "5073906",
+      "time": "2026-09-03 02:20:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：油價將會回落。"
+    },
+    {
+      "id": "te:markets:580574",
+      "time": "2026-09-03 02:20:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.19% — Top commodity losers are Lithium Carbonate (-2.19%), Iron Ore CNY (-1.72%) and Silicon (-1.49%). Gains are led by Silver (1.60%) and Gold (1.12%)."
+    },
+    {
+      "id": "mkt:01a06359-7d23-7118-846b-6f6e2af54ce5",
+      "time": "2026-09-03 02:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said the renewed strike operations against Iran will not last long."
+    },
+    {
+      "id": "mkt:01a06359-623e-7118-846b-64373cc1b847",
+      "time": "2026-09-03 02:19:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said Iran is attempting to rebuild radar and missile systems."
+    },
+    {
+      "id": "5073905",
+      "time": "2026-09-03 02:19:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊朗當時正試圖重建雷達與導彈系統。"
+    },
+    {
+      "id": "5073904",
+      "time": "2026-09-03 02:19:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：對伊朗的新一輪打擊行動不會持續太久。"
+    },
+    {
+      "id": "mkt:01a06358-e5f8-7118-846b-5a3654813000",
+      "time": "2026-09-03 02:19:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said U.S. relations with Brazil are good."
+    },
+    {
+      "id": "mkt:01a06358-5339-7118-846b-5170e094bd01",
+      "time": "2026-09-03 02:18:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says U.S. does not need Canadian lumber."
+    },
+    {
+      "id": "te:economy:580573",
+      "time": "2026-09-03 02:18:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Annual Inflation Eases in August — Paraguay’s annual inflation eased to 1.5% in August 2026 from 1.6% in July, remaining well below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.5%), education (6.0%), furniture and household goods (1.8%), healthcare (1.7%), and housing and utilities (1.7%). These increases were partly offset by a 0.5% decline in food and non-alcoholic beverages. On a monthly basis, consumer prices were unchanged in August, following a 0.1% decline in July."
+    },
+    {
+      "id": "mkt:01a06357-9681-7118-846b-493fe71a8451",
+      "time": "2026-09-03 02:17:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump declined to say when asked whether he would arm Iranian civilians."
+    },
+    {
+      "id": "mkt:01a06357-409e-7118-846b-4230ce996c08",
+      "time": "2026-09-03 02:17:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA concludes state visit to Egypt】CHINA concluded a state visit to Egypt on Sept 2 local time; President Sisi and his wife saw him off at Cairo airport."
+    },
+    {
+      "id": "5073903",
+      "time": "2026-09-03 02:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：不需要他們的木材。"
+    },
+    {
+      "id": "mkt:01a06356-be8c-7118-846b-3aec469daf9d",
+      "time": "2026-09-03 02:17:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Canada is acting with impunity."
+    },
+    {
+      "id": "mkt:01a06356-210a-7118-846b-30811824339b",
+      "time": "2026-09-03 02:16:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury authorizes certain activities involving coal sourced from Venezuela."
+    },
+    {
+      "id": "5073902",
+      "time": "2026-09-03 02:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大比越南更難對付。"
+    },
+    {
+      "id": "5073901",
+      "time": "2026-09-03 02:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大行事愈發有恃無恐。"
+    },
+    {
+      "id": "te:markets:580572",
+      "time": "2026-09-03 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rises by 4.30% — Top commodity gainers are Methanol (4.30%), Germany Natural Gas THE (1.90%), Natural Gas UK (1.77%), Crude Oil (1.30%) and Brent Oil (1.22%). Biggest losers are Coking Coal (-2.69%) and Gasoline (-0.64%)."
+    },
+    {
+      "id": "5073900",
+      "time": "2026-09-03 02:14:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部網站顯示，美國發布修訂後的委內瑞拉通用許可證，授權涉及委內瑞拉產煤炭的特定活動。"
+    },
+    {
+      "id": "mkt:01a06353-cbbc-7118-846b-29562c37cfa3",
+      "time": "2026-09-03 02:13:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Canada has been taking advantage of the United States for decades."
+    },
+    {
+      "id": "5073899",
+      "time": "2026-09-03 02:13:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平圓滿結束對埃及的國事訪問】當地時間9月2日晚，國家主席習近平結束對埃及的國事訪問。離開開羅時，埃及總統塞西夫婦到機場送行。（央視新聞）"
+    },
+    {
+      "id": "5073898",
+      "time": "2026-09-03 02:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：幾十年來一直在佔美國便宜。"
+    },
+    {
+      "id": "5073897",
+      "time": "2026-09-03 02:13:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申對加拿大銀行政策的批評。"
+    },
+    {
+      "id": "5073896",
+      "time": "2026-09-03 02:12:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：加拿大在航空業方面佔了航空公司的便宜。"
+    },
+    {
+      "id": "mkt:01a06352-9b70-7118-846b-204a60a083db",
+      "time": "2026-09-03 02:12:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the Iranian regime is growing weaker."
+    },
+    {
+      "id": "5073895",
+      "time": "2026-09-03 02:12:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "預測市場平臺Kalshi關閉體育傷病投注市場。"
+    },
+    {
+      "id": "5073894",
+      "time": "2026-09-03 02:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與巴西關係良好。"
+    },
+    {
+      "id": "5073893",
+      "time": "2026-09-03 02:11:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊朗政權日益衰弱。"
+    },
+    {
+      "id": "5073892",
+      "time": "2026-09-03 02:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油將保留圖皮南巴區塊50%權益，保留科尼弗勘探區70%權益。"
+    },
+    {
+      "id": "5073891",
+      "time": "2026-09-03 02:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌收購巴西圖皮南巴勘探區塊50%權益。"
+    },
+    {
+      "id": "mkt:01a06350-6747-7118-846b-1e246fa4bf78",
+      "time": "2026-09-03 02:10:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury issued a general license for Venezuela."
+    },
+    {
+      "id": "5073890",
+      "time": "2026-09-03 02:08:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國允許開展部分涉及委內瑞拉煤炭、黃金及礦產的相關業務。"
+    },
+    {
+      "id": "5073889",
+      "time": "2026-09-03 02:08:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部頒發多種委內瑞拉通用許可證。"
+    },
+    {
+      "id": "5073888",
+      "time": "2026-09-03 02:07:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌海洋作業公司收購美洲灣一處勘探區塊30%權益。"
+    },
+    {
+      "id": "5073886",
+      "time": "2026-09-03 02:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國批准就委內瑞拉部分煤炭投資開展談判。"
+    },
+    {
+      "id": "5073885",
+      "time": "2026-09-03 02:06:11",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲褐皮書重要資訊一覽：美國經濟小幅溫和擴張，消費分化，關稅推升成本壓力】\n1、整體經濟：12個轄區中8個小幅至溫和增長，較前三輪明顯改善；假日消費拉動支出，高收入群體消費強勁，中低收入群體價格敏感。\n2、就業市場：整體持平，8個轄區招聘無變化；企業多為補崗而非擴招，熟練工短缺；AI對就業影響有限，薪資增速回歸\"正常\"。\n3、物價壓力：絕大多數轄區物價溫和上漲；關稅成本是共同主題，企業開始向消費者轉嫁，但零售、餐飲等行業因客戶敏感而猶豫；能源和保險成本持續擠壓利潤。\n4、行業分化：製造業5個增長、6個收縮；銀行業穩定向好，信用卡和商業貸款需求上升；住宅地產多數走弱；農業基本持平，能源需求持平或小幅回落。\n5、轄區亮點：費城從收縮轉為增長；聖路易斯因政府停擺結束和假日銷售回暖；紐約仍溫和收縮；達拉斯銀行業表現突出但前景謹慎。\n6、未來展望：多數機構預計未來數月小幅至溫和增長，對前景持溫和樂觀態度。"
+    },
+    {
+      "id": "mkt:01a0634c-611a-7118-846b-15ed1723e977",
+      "time": "2026-09-03 02:05:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed's Beige Book: Outlook broadly positive but uncertainty rising】The Fed's Beige Book said US economic activity expanded modestly since early July; 10 of 12 districts reported slight-to-moderate growth and two were flat. Consumer spending edged up but price sensitivity increased; high-end consumption remained firm while auto sales weakened amid softer confidence, higher gasoline prices and rising financing costs. Manufacturing rebounded in most districts, with several citing strong defense- and data-center-related orders. Employment growth slowed, with overall payrolls only slightly higher; labor demand was stronger in manufacturing and construction but weaker in retail and hospitality. Most districts reported moderate price increases, with cost pressure from energy, transportation, raw materials and tariffs. Firms expect a generally positive near-term outlook but flagged uncertainty from energy prices, policy and international conflicts."
+    },
+    {
+      "id": "mkt:01a0634c-337d-7118-846b-0cf1ce9b1faf",
+      "time": "2026-09-03 02:05:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FED'S BEIGE: Since early July, economic activity has expanded modestly."
+    },
+    {
+      "id": "mkt:01a0634c-332f-7118-846b-0512d9607e0f",
+      "time": "2026-09-03 02:05:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "FED'S BEIGE: Overall outlook for the next few months is positive, but sentiment is mixed across sectors; respondents report increased uncertainty about the impact of rising energy prices."
+    },
+    {
+      "id": "mkt:01a0634c-3313-7118-846a-f89370114a6f",
+      "time": "2026-09-03 02:05:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "FED'S BEIGE: Prices rose moderately in eight Fed districts, modestly in two, slightly in one and markedly in one."
+    },
+    {
+      "id": "mkt:01a0634c-2d47-7118-846a-f598b5b0f59e",
+      "time": "2026-09-03 02:05:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "FED'S BEIGE: Overall employment ticked up. Three Federal Reserve districts reported modest increases, four reported slight increases, and five reported no change."
+    },
+    {
+      "id": "mkt:01a0634b-f825-7118-846a-ef1005f5e3c5",
+      "time": "2026-09-03 02:05:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N"
+      ],
+      "text": "Shell (SHEL.N) announced it will acquire a 30% stake in the Conifer project."
+    },
+    {
+      "id": "5073884",
+      "time": "2026-09-03 02:01:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：整體就業僅小幅增長，其中3個轄區就業溫和增長，4個轄區就業小幅增長，另有5個轄區就業無變化。"
+    },
+    {
+      "id": "5073883",
+      "time": "2026-09-03 02:01:23",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：自7月初以來，經濟活動溫和擴張。"
+    },
+    {
+      "id": "5073882",
+      "time": "2026-09-03 02:01:17",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：未來數月整體展望偏樂觀，但各領域情緒分化，受訪機構報告稱，能源價格走高、政策變動及國際衝突帶來的影響已導致不確定性加劇。"
+    },
+    {
+      "id": "5073881",
+      "time": "2026-09-03 02:01:08",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲褐皮書：八個轄區物價溫和上漲，其中兩個轄區物價漲幅適中，一個轄區物價漲幅小幅，一個轄區物價大幅上漲。"
+    },
+    {
+      "id": "mkt:01a06347-8468-7118-846a-e7768d2813c6",
+      "time": "2026-09-03 02:00:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk said Grok Bot has launched an Android version."
+    },
+    {
+      "id": "mkt:01a06345-0ff1-7118-846a-d8b46770c7de",
+      "time": "2026-09-03 01:57:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US and Venezuela sign oil project agreements】Acting Venezuelan president Delcy Rodríguez met US Energy Secretary Wright on Sept. 2 and the two sides signed multiple oil cooperation agreements. Venezuela and US firms including Chevron agreed to oil expansion projects. President Trump has said the US obtained majority control of more than 65 bln barrels of Venezuela’s proved oil reserves. Rodríguez said the pacts will run 25 years, aim to lift crude output to 1.5 mln bpd and preserve Venezuela’s sovereign rights over its natural resources."
+    },
+    {
+      "id": "mkt:01a06344-bb74-7118-846a-d1587dacacb3",
+      "time": "2026-09-03 01:57:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Bessent says Treasury buybacks aim to restore price equilibrium, free bank balance-sheet space】U.S. Treasury Secretary Bessent said Treasury buybacks will target long-dated, less-liquid Treasuries to \"eliminate a bad outcome,\" push prices back toward equilibrium and free up bank balance-sheet space. She added she knows what Japan plans to do."
+    },
+    {
+      "id": "5073880",
+      "time": "2026-09-03 01:55:08",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國和委內瑞拉簽署石油專案協議】當地時間9月2日，委內瑞拉代總統羅德里格斯會見美國能源部長賴特。會見後，兩國正式簽署多項合作協議。據悉，委內瑞拉政府與美國雪佛龍石油公司等多家企業就石油擴建專案簽署協議。（央視新聞）"
+    },
+    {
+      "id": "5073879",
+      "time": "2026-09-03 01:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok機器人現已推出安卓版本。"
+    },
+    {
+      "id": "mkt:01a0633e-0a87-7118-846a-ce7a0a158ba1",
+      "time": "2026-09-03 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve to release Beige Book on economic conditions in 10 minutes."
+    },
+    {
+      "id": "5073878",
+      "time": "2026-09-03 01:49:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普會見美國旅遊業高管。"
+    },
+    {
+      "id": "mkt:01a0633c-f9db-7118-846a-c0afa70cb23b",
+      "time": "2026-09-03 01:48:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick said Canada's Liberal Party is using the trade war to gain leverage in its election campaign."
+    },
+    {
+      "id": "5073877",
+      "time": "2026-09-03 01:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：加拿大自由黨正借貿易戰謀取選舉利益。"
+    },
+    {
+      "id": "mkt:01a0633b-15d9-7118-846a-b87c1f0f7ede",
+      "time": "2026-09-03 01:46:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he knows what Japan intends to do."
+    },
+    {
+      "id": "mkt:01a0633a-3464-7118-846a-b05822d6540c",
+      "time": "2026-09-03 01:45:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Commerce Secretary Lutnick said tariffs on chips are intended to boost US semiconductor production."
+    },
+    {
+      "id": "5073876",
+      "time": "2026-09-03 01:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我清楚日方的（財政）計劃。"
+    },
+    {
+      "id": "5073875",
+      "time": "2026-09-03 01:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：回購操作讓銀行有空間在拍賣中增持債券。"
+    },
+    {
+      "id": "5073874",
+      "time": "2026-09-03 01:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：晶片關稅旨在提升美國晶片產量。"
+    },
+    {
+      "id": "mkt:01a06339-47ed-7118-846a-afdc22f7bd6e",
+      "time": "2026-09-03 01:44:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is repurchasing longer-dated, illiquid Treasuries; the buybacks are intended to eliminate \"bad outcomes\"."
+    },
+    {
+      "id": "5073873",
+      "time": "2026-09-03 01:43:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：回購操作能夠釋放銀行資產負債表空間。"
+    },
+    {
+      "id": "5073872",
+      "time": "2026-09-03 01:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我可以嘗試推動價格迴歸均衡水平。"
+    },
+    {
+      "id": "5073871",
+      "time": "2026-09-03 01:43:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：回購國債的目標是消除“不良結果”。"
+    },
+    {
+      "id": "mkt:01a06337-acbe-7118-846a-a1cba46f08b0",
+      "time": "2026-09-03 01:43:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick said Anthropic has resolved its differences with the current administration."
+    },
+    {
+      "id": "5073870",
+      "time": "2026-09-03 01:43:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：回購流動性欠佳的長期債券。"
+    },
+    {
+      "id": "mkt:01a06336-f913-7118-846a-99334dc277d9",
+      "time": "2026-09-03 01:42:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese News Agency reported an enemy airstrike struck Ali Taher Heights."
+    },
+    {
+      "id": "5073869",
+      "time": "2026-09-03 01:42:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "Waymo聯合太平洋投資管理公司、黑石完成30億美元首筆債務融資。"
+    },
+    {
+      "id": "5073868",
+      "time": "2026-09-03 01:41:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：Anthropic已與本屆政府化解分歧。"
+    },
+    {
+      "id": "5073867",
+      "time": "2026-09-03 01:40:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報704.40元。"
+    },
+    {
+      "id": "5073866",
+      "time": "2026-09-03 01:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：呼籲其他國家採用美國人工智慧技術。"
+    },
+    {
+      "id": "5073865",
+      "time": "2026-09-03 01:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：虛假資訊助長了針對人工智慧資料中心的反對聲音。"
+    },
+    {
+      "id": "5073864",
+      "time": "2026-09-03 01:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：英國本應迎來人工智慧蓬勃發展，卻在能源問題上態度消極。"
+    },
+    {
+      "id": "5073863",
+      "time": "2026-09-03 01:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特聲稱：美國即將迎來一輪生產力大幅增長。"
+    },
+    {
+      "id": "5073862",
+      "time": "2026-09-03 01:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：10月1日後，特朗普賬戶開戶數量或將達到約7000萬個。"
+    },
+    {
+      "id": "5073861",
+      "time": "2026-09-03 01:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱美方近期多場交戰“均告失敗”】伊朗伊斯蘭革命衛隊副總司令伊扎迪2日表示，在近期的軍事衝突中，敵方投入的裝備規模超過伊方10倍，但未能實現其既定目標，尤其是在霍爾木茲方向及近期多場交戰中的目標“均告失敗”。（央視新聞）"
+    },
+    {
+      "id": "5073860",
+      "time": "2026-09-03 01:29:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：人工智慧企業需要向公眾闡釋其能為民眾帶來何種益處，我會給人工智慧行業的對外溝通打D‑的分數。"
+    },
+    {
+      "id": "5073859",
+      "time": "2026-09-03 01:27:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷外長：必須掌握一切可用手段以實現對馬島主權】阿根廷外交部長巴勃羅·基爾諾2日表示，阿根廷必須掌握一切可用手段，以實現對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。（新華社）"
+    },
+    {
+      "id": "5073858",
+      "time": "2026-09-03 01:24:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：人工智慧企業對各社群的訴求置若罔聞。"
+    },
+    {
+      "id": "5073857",
+      "time": "2026-09-03 01:23:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮表示，委內瑞拉協議所產原油或將在11月注入美國戰略石油儲備。"
+    },
+    {
+      "id": "5073856",
+      "time": "2026-09-03 01:23:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：受700億美元關稅退款影響，本年度預算缺口有所擴大。"
+    },
+    {
+      "id": "5073855",
+      "time": "2026-09-03 01:23:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：防空部隊單日擊落238架烏克蘭無人機。"
+    },
+    {
+      "id": "5073854",
+      "time": "2026-09-03 01:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾告知共和黨議員，牛肉進口相關舉措屬於臨時性質。"
+    },
+    {
+      "id": "5073853",
+      "time": "2026-09-03 01:22:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們將重新恢復關稅。"
+    },
+    {
+      "id": "5073852",
+      "time": "2026-09-03 01:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：正致力於降低美國預算赤字佔國內生產總值的比重。"
+    },
+    {
+      "id": "5073851",
+      "time": "2026-09-03 01:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：感謝美國總統特朗普所做的協同努力。"
+    },
+    {
+      "id": "5073850",
+      "time": "2026-09-03 01:18:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團：這份為期25年並可延期的協議，授予埃尼集團胡寧5區塊的獨家運營商地位。"
+    },
+    {
+      "id": "5073849",
+      "time": "2026-09-03 01:17:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團：在委內瑞拉簽署戰略合同，成為巨型油田胡寧5號的作業方。"
+    },
+    {
+      "id": "5073848",
+      "time": "2026-09-03 01:16:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：雪佛龍、埃尼無論順境逆境都一直與委內瑞拉同在。"
+    },
+    {
+      "id": "5073847",
+      "time": "2026-09-03 01:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉現已具備投資監管框架。"
+    },
+    {
+      "id": "5073846",
+      "time": "2026-09-03 01:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉經濟很快將會復甦。"
+    },
+    {
+      "id": "5073845",
+      "time": "2026-09-03 01:15:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（9月2日），美聯儲隔夜逆回購協議（RRP）使用規模為5.25億美元（交易對手1家），上個交易日報7.25億美元。"
+    },
+    {
+      "id": "5073843",
+      "time": "2026-09-03 01:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特： 特朗普政府在委內瑞拉的使命是為委內瑞拉人民帶來和平、自由、機遇與繁榮。"
+    },
+    {
+      "id": "te:economy:580571",
+      "time": "2026-09-03 01:13:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to Near 3-Year High — The yield on the 10-year US Treasury note rose past 4.8% in September, the highest since October of 2023, amid the risk of higher rates by the Federal Reserve, soaring supply of corporate debt, and concerns of a higher federal deficit. The US and Iran reignited strikes against each other and prolonged the period of halted energy supply from GCC countries. The resulting jump in oil and product prices added inflationary risks as multiple FOMC members flagging the possibility of a rate hike by the Federal Reserve this month, including Chairman Warsh and regional Fed presidents. Meanwhile, estimates that AI companies raised $1.5 trillion in debt this year limited primary dealers' allocation for government securities, also lifting yields. Lastly, Treasuries came under pressure on reports that Japan could intervene on the yen to cap its fresh rebound. The jump in yields was extended despite Treasury Secretary Bessent announcing an increase in the buyback of long-term securities."
+    },
+    {
+      "id": "5073842",
+      "time": "2026-09-03 01:13:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：今天我們憑藉重要的能源交易創造歷史。"
+    },
+    {
+      "id": "5073841",
+      "time": "2026-09-03 01:11:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：委內瑞拉是我們的周邊區域，使命是為該國帶來和平、自由與繁榮。"
+    },
+    {
+      "id": "5073840",
+      "time": "2026-09-03 01:09:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：委內瑞拉能源交易規模達數百億美元。"
+    },
+    {
+      "id": "5073839",
+      "time": "2026-09-03 01:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：與委內瑞拉簽署的協議對委內瑞拉人民的和平與繁榮至關重要。"
+    },
+    {
+      "id": "5073838",
+      "time": "2026-09-03 01:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：今天是“委內瑞拉轉型”程序中具有歷史意義的一天。"
+    },
+    {
+      "id": "5073837",
+      "time": "2026-09-03 01:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國弗吉尼亞州一所小學發生槍擊事件，1人受傷，學生已疏散。"
+    },
+    {
+      "id": "5073836",
+      "time": "2026-09-03 01:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Aspect Energy董事長：將依據與委內瑞拉達成的協議，在未來數年開發多個油氣田。"
+    },
+    {
+      "id": "5073835",
+      "time": "2026-09-03 01:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部強烈譴責美軍襲擊伊朗民用基礎設施】當地時間9月2日，伊朗外交部發表宣告，強烈譴責美國對伊朗發動軍事行動，稱美方襲擊了該國胡齊斯坦、錫斯坦-俾路支斯坦、霍爾木茲甘和克爾曼等省的多個非軍事區域及碼頭、通訊設施等民用基礎設施，造成人員傷亡和財產損失。（央視新聞）"
+    },
+    {
+      "id": "5073834",
+      "time": "2026-09-03 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.08%，滬銅收漲0.26%，滬鋁收漲0.73%，滬鋅收跌0.47%，滬鉛收跌0.53%，滬鎳收漲1.47%，滬錫收跌0.70%。氧化鋁夜盤收跌0.73%，鋁合金收漲0.81%。不鏽鋼夜盤收漲0.44%。"
+    },
+    {
+      "id": "5073833",
+      "time": "2026-09-03 00:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長發言人：秘書長對美國襲擊伊朗造成人員傷亡的相關報道表示關切。"
+    },
+    {
+      "id": "5073832",
+      "time": "2026-09-03 00:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們將推翻伊朗政權，該政權必將垮臺。我們所有體系都在為推翻這一政權而運轉。"
+    },
+    {
+      "id": "5073831",
+      "time": "2026-09-03 00:58:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科市長：週三又有三架飛向莫斯科的無人機被擊落。"
+    },
+    {
+      "id": "5073830",
+      "time": "2026-09-03 00:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE Vernova首席可持續發展官羅傑·馬泰拉表示，委內瑞拉相關協議專案將需要1000名工人。"
+    },
+    {
+      "id": "5073829",
+      "time": "2026-09-03 00:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴里克黃金正考慮將北美黃金業務的首次公開募股推遲至2027年。"
+    },
+    {
+      "id": "5073828",
+      "time": "2026-09-03 00:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列能源部長科恩表示，以色列供水正在恢復正常。"
+    },
+    {
+      "id": "5073827",
+      "time": "2026-09-03 00:54:12",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【市場監管總局：深化“幽靈外賣”專項整治工作】記者2日從國家市場監督管理總局瞭解到，近日召開的全國市場監管執法稽查工作暨查處“幽靈外賣”違法行為座談會明確，將繼續深化“幽靈外賣”專項整治，協同推進掃黑除惡、打擊電詐等專項工作。（央視新聞）"
+    },
+    {
+      "id": "5073826",
+      "time": "2026-09-03 00:53:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI創始人奧特曼、美國商務部長盧特尼克出席二十國集團創新部長級會議並發表講話。"
+    },
+    {
+      "id": "5073825",
+      "time": "2026-09-03 00:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI創始人奧特曼：人工智慧將是全球商業史上規模最大的繁榮。"
+    },
+    {
+      "id": "5073824",
+      "time": "2026-09-03 00:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局(FAA)暫緩空管人員加薪，同步推進排班制度改革談判。"
+    },
+    {
+      "id": "5073823",
+      "time": "2026-09-03 00:50:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團執行長表示，將於明日開鑽委內瑞拉石油協議的第一口油井。"
+    },
+    {
+      "id": "5073822",
+      "time": "2026-09-03 00:49:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃尼集團執行長表示，美國的支援對（集團在）委內瑞拉取得進展起到 “至關重要” 的作用。"
+    },
+    {
+      "id": "5073821",
+      "time": "2026-09-03 00:49:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團執行長表示，新協議為委內瑞拉開啟“全新未來”。"
+    },
+    {
+      "id": "5073820",
+      "time": "2026-09-03 00:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼執行長克勞迪奧·德斯卡爾齊表示，委內瑞拉石油協議是進一步開發的第一步。"
+    },
+    {
+      "id": "5073819",
+      "time": "2026-09-03 00:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國鑄幣局正式推出印有特朗普頭像的1美元硬幣】當地時間9月2日，美國鑄幣局正式推出印有特朗普頭像的1美元硬幣。 (央視財經)"
+    },
+    {
+      "id": "5073818",
+      "time": "2026-09-03 00:43:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉政府與Aspect控股集團簽署石油專案協議。"
+    },
+    {
+      "id": "5073817",
+      "time": "2026-09-03 00:42:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉電力公司Corpoelec、通用電氣旗下GE Vernova與委國有石油公司PDVSA簽署電力專案合作協議。"
+    },
+    {
+      "id": "5073816",
+      "time": "2026-09-03 00:41:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素：Entain和Persimmon將調出富時100指數，調入富時250指數。"
+    },
+    {
+      "id": "5073815",
+      "time": "2026-09-03 00:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素：易捷航空和伊薩卡能源將在2026年9月季度稽核後納入富時100指數。"
+    },
+    {
+      "id": "5073814",
+      "time": "2026-09-03 00:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉政府與普里馬韋拉簽署石油專案協議。"
+    },
+    {
+      "id": "te:markets:580570",
+      "time": "2026-09-03 00:38:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Drops as ECB Hike Bets Rise — The CAC 40 fell 0.3% to 8,281 on Wednesday, its lowest level in more than a month. As eurozone inflation rose to 3.3% and energy costs surged, markets increasingly priced in another rate hike later this month. In France, the state budget deficit widened to EUR 145.9 billion in January–July 2026 from EUR 142 billion a year earlier. Revenues rose 3.3% year-on-year to EUR 204.72 billion, while expenditures increased 4.8% to EUR 328.1 billion. Meanwhile, oil prices remained elevated as conflicts in the Middle East persisted. Luxury stocks closed mixed, with LVMH down 1.3% and Hermes losing 0.7%, while L’Oreal added 1.5% and Kering gained 1%. Industrial stocks mostly fell, with Schneider Electric down 0.5%, Safran losing 0.9% and Thales declining 0.6%. Financials were also mostly lower, with AXA down 0.9%. In contrast, TotalEnergies rose 0.9% on higher energy prices. STMicroelectronics rose 3.3%, with President and CFO Lorenzo Grandi set to address investors at Citi’s Global TMT Conference."
+    },
+    {
+      "id": "5073813",
+      "time": "2026-09-03 00:36:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國足額繳納今年聯合國會費。（CCTV國際時訊）"
+    },
+    {
+      "id": "5073812",
+      "time": "2026-09-03 00:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉政府與義大利埃尼石油公司簽署石油擴建專案協議。"
+    },
+    {
+      "id": "5073811",
+      "time": "2026-09-03 00:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗衛生部長表示，美國空襲已造成18人死亡，108人受傷。"
+    },
     {
       "id": "mkt:01a062f8-4ac0-7118-8469-4daac33326db",
       "time": "2026-09-03 00:33:54",
