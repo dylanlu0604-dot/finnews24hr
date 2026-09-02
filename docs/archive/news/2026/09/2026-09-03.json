@@ -1,7 +1,69 @@
 {
   "date": "2026-09-03",
-  "count": 432,
+  "count": 439,
   "items": [
+    {
+      "id": "5074047",
+      "time": "2026-09-03 05:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：AI 晶片的市場需求超出我們的出貨能力。"
+    },
+    {
+      "id": "mkt:01a06407-caf3-7118-846e-d2c12aa1e9e2",
+      "time": "2026-09-03 05:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Per The Information, Nscale has reportedly secured over $100 billion in contract revenue from orders by ANTHROPIC."
+    },
+    {
+      "id": "mkt:01a06406-ceac-7118-846e-c939f637daf3",
+      "time": "2026-09-03 05:29:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CFO expects fourth fiscal-quarter capex of $1.4 billion to invest in semiconductor capacity."
+    },
+    {
+      "id": "5074046",
+      "time": "2026-09-03 05:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通CFO：因加大半導體產能投資，預計第四季度資本支出為 14 億美元。"
+    },
+    {
+      "id": "mkt:01a06406-0687-7118-846e-c46d9ebdd3d4",
+      "time": "2026-09-03 05:28:31",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom (AVGO.O) CFO says fiscal fourth-quarter consolidated gross margin is expected to be about 73%, down from 78% a year earlier."
+    },
+    {
+      "id": "5074045",
+      "time": "2026-09-03 05:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Nscale 拿下 Anthropic 訂單後，宣稱已鎖定超 1000 億美元合同收入。"
+    },
+    {
+      "id": "5074044",
+      "time": "2026-09-03 05:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通CFO：預計第四季度綜合毛利率約為 73%，較去年同期的 78% 有所下滑。"
+    },
     {
       "id": "mkt:01a06405-0dfc-7118-846e-bf694b5ab1f0",
       "time": "2026-09-03 05:27:27",

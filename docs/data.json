@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-03 05:28:06",
-  "count": 11996,
+  "updated": "2026-09-03 05:32:26",
+  "count": 11997,
   "items": [
+    {
+      "id": "5074047",
+      "time": "2026-09-03 05:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：AI 晶片的市場需求超出我們的出貨能力。"
+    },
+    {
+      "id": "mkt:01a06407-caf3-7118-846e-d2c12aa1e9e2",
+      "time": "2026-09-03 05:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Per The Information, Nscale has reportedly secured over $100 billion in contract revenue from orders by ANTHROPIC."
+    },
+    {
+      "id": "mkt:01a06406-ceac-7118-846e-c939f637daf3",
+      "time": "2026-09-03 05:29:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CFO expects fourth fiscal-quarter capex of $1.4 billion to invest in semiconductor capacity."
+    },
+    {
+      "id": "5074046",
+      "time": "2026-09-03 05:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通CFO：因加大半導體產能投資，預計第四季度資本支出為 14 億美元。"
+    },
+    {
+      "id": "5074045",
+      "time": "2026-09-03 05:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Nscale 拿下 Anthropic 訂單後，宣稱已鎖定超 1000 億美元合同收入。"
+    },
+    {
+      "id": "mkt:01a06406-0687-7118-846e-c46d9ebdd3d4",
+      "time": "2026-09-03 05:28:31",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom (AVGO.O) CFO says fiscal fourth-quarter consolidated gross margin is expected to be about 73%, down from 78% a year earlier."
+    },
+    {
+      "id": "5074044",
+      "time": "2026-09-03 05:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通CFO：預計第四季度綜合毛利率約為 73%，較去年同期的 78% 有所下滑。"
+    },
     {
       "id": "mkt:01a06405-0dfc-7118-846e-bf694b5ab1f0",
       "time": "2026-09-03 05:27:27",
@@ -110174,67 +110236,6 @@
         "公司"
       ],
       "text": "英偉達CEO黃仁勳：供應鏈能力足以支撐我們信心滿滿地實現2028財年70%的增長。"
-    },
-    {
-      "id": "5060946",
-      "time": "2026-08-27 05:32:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：非超大規模計算可能將比當前雲容量更大。"
-    },
-    {
-      "id": "mkt:01a03ffb-aed8-7aab-9139-477ab3675e23",
-      "time": "2026-08-27 05:30:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) CFO says fiscal 2028 gross margin should stabilize at 72%-73%."
-    },
-    {
-      "id": "mkt:01a03ffb-0ddb-7aab-9139-397b1b6d341e",
-      "time": "2026-08-27 05:30:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "NVIDIA (NVDA.O) CFO said the company expects third fiscal-quarter gross margin around 74%, +/-50 bps, and expects fourth fiscal-quarter gross margin to bottom at 71–72%."
-    },
-    {
-      "id": "5060945",
-      "time": "2026-08-27 05:29:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠譽評級：厄爾尼諾現象給巴西保險公司帶來挑戰，但該行業整體依然穩健。"
-    },
-    {
-      "id": "5060944",
-      "time": "2026-08-27 05:28:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達首席財務官：公司將在第一季度提價。"
-    },
-    {
-      "id": "5060943",
-      "time": "2026-08-27 05:28:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達首席財務官：記憶體晶片“定價環境極端”疊加元件成本上升，將拖累利潤率。"
     }
   ]
 }
