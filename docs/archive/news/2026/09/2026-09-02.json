@@ -1,7 +1,259 @@
 {
   "date": "2026-09-02",
-  "count": 1199,
+  "count": 1226,
   "items": [
+    {
+      "id": "mkt:01a05fd9-7c23-7118-844e-0fe7e28d649d",
+      "time": "2026-09-02 10:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NZD/USD slid more than 20 pips intraday; the RBNZ, as expected, hiked rates by 25bps."
+    },
+    {
+      "id": "5072118",
+      "time": "2026-09-02 10:01:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：紐西蘭經濟復甦很可能已恢復，但仍不均衡。"
+    },
+    {
+      "id": "5072117",
+      "time": "2026-09-02 10:01:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報15443.00元。"
+    },
+    {
+      "id": "5072116",
+      "time": "2026-09-02 10:01:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行：委員會保持警惕，將根據需要作出回應，以確保通脹在中期內可持續地回到2%目標中點"
+    },
+    {
+      "id": "5072115",
+      "time": "2026-09-02 10:01:10",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "紐西蘭央行：這一決定降低了未來官方現金利率需要更大幅度上調的風險。未來的政策決定將取決於委員會對中期通脹風險平衡的判斷。"
+    },
+    {
+      "id": "mkt:01a05fd9-41e6-7118-844e-03801e6aef81",
+      "time": "2026-09-02 10:01:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite fell more than 1%; grain, precious metals, energy metals and property led losses. About 900 stocks rose and roughly 4,200 fell on the bourse."
+    },
+    {
+      "id": "5072114",
+      "time": "2026-09-02 10:01:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行：委員會判斷，逐步撤除貨幣刺激措施是合適的，以使通脹率回到2%目標中點，同時支援增長與就業。"
+    },
+    {
+      "id": "5072113",
+      "time": "2026-09-02 10:00:58",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行預測，2029年9月官方現金利率將為3.28%。"
+    },
+    {
+      "id": "5072112",
+      "time": "2026-09-02 10:00:54",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行預計，到2027年9月年度消費者物價指數（CPI）將達到2.4%，此前預期為2.0%。"
+    },
+    {
+      "id": "5072111",
+      "time": "2026-09-02 10:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行預計，2027年9月紐西蘭元貿易加權指數將位於約66.9%，此前預測值為66.6%。"
+    },
+    {
+      "id": "5072110",
+      "time": "2026-09-02 10:00:45",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行預計，2027年9月官方現金利率將維持在3.12%，此前預測值為3.11%。"
+    },
+    {
+      "id": "5072109",
+      "time": "2026-09-02 10:00:42",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行預計，2026年12月官方現金利率將維持在2.81%（前值為2.84%）。"
+    },
+    {
+      "id": "mkt:01a05fd8-d99b-7118-844d-f8ce828ac009",
+      "time": "2026-09-02 10:00:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【USS Lincoln aircraft carrier docks at Thai port】The US Navy aircraft carrier USS Lincoln, after more than 200 days at sea, entered Laem Chabang port on the morning of the 2nd local time. Thai officials said Lincoln and accompanying US naval vessels will remain for a five-day rest and recovery period."
+    },
+    {
+      "id": "5072108",
+      "time": "2026-09-02 10:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.01%，現報3939.644點；深證成指跌1.75%，現報13628.935點；創業板指跌2.07%，現報3323.202點。"
+    },
+    {
+      "id": "te:markets:580258",
+      "time": "2026-09-02 10:00:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hit 5-week Low — The Hang Seng Index fell 0.8%, or 210 points, to around 25,105 on Wednesday, extending losses for a third session as escalating US-Iran tensions triggered a broad risk-off move across Asian markets. Renewed US airstrikes on Iran and retaliatory attacks raised fears of further disruptions around the Strait of Hormuz, pushing Brent crude above $95 a barrel and WTI above $91. Higher energy prices revived inflation concerns and pushed the US 10-year Treasury yield to 4.798%, while markets raised the probability of a Reserve rate hike. Meanwhile, Shein shares slipped 0.45% to HK$48.28 on their second day of trading after falling as much as 10% during Tuesday’s debut, signaling cautious investor reception to the long-awaited IPO. The stronger US dollar and rising borrowing costs added to pressure on Hong Kong’s rate-sensitive and technology-heavy equities. Notable laggards included Cathay Pacific (-5.0%), Tencent (-1.3%), Z.AI Co. (-6.0%), Lenovo ( -1.2%), and MiniMax (-1.1%)."
+    },
+    {
+      "id": "mkt:01a05fd8-8d6f-7118-844d-f3bd15245603",
+      "time": "2026-09-02 10:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【RBNZ hikes 25bps as expected】RBNZ raised its policy rate by 25bps to 2.75% from 2.50%, in line with market expectations; it is the second consecutive meeting with a rate increase."
+    },
+    {
+      "id": "mkt:01a05fd8-77f3-7118-844d-eff1a3efba0a",
+      "time": "2026-09-02 10:00:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ set the official cash rate (OCR) at 2.75% on Sep 2; market expected 2.75%; prior 2.50%."
+    },
+    {
+      "id": "5072107",
+      "time": "2026-09-02 10:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行將基準利率上調25個基點至2.75%；預估為2.75%。"
+    },
+    {
+      "id": "mkt:01a05fd8-4e93-7118-844d-e1fd755bb7bf",
+      "time": "2026-09-02 10:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Official Cash Rate (Sep.2) | actual 2.75% | consensus 2.75% | previous 2.50%"
+    },
+    {
+      "id": "5072106",
+      "time": "2026-09-02 10:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國“林肯”號航母停靠泰國港口】美國海軍航空母艦“林肯”號在海上航行200多天後，於當地時間2日上午駛入泰國林查班港。泰國官員稱，“林肯”號將與其他美國海軍艦艇一同停靠泰國，進行為期五天的休整和恢復。（央視新聞）"
+    },
+    {
+      "id": "5072105",
+      "time": "2026-09-02 09:59:32",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【中國鐵路通訊訊號集團有限公司原黨委副書記徐宗祥被開除黨籍】中央紀委國家監委網站9月2日通報，據中央紀委國家監委駐國務院國資委紀檢監察組、湖南省紀委監委訊息：日前，經中央紀委國家監委批准，中央紀委國家監委駐國務院國資委紀檢監察組和湖南省邵陽市監委對中國鐵路通訊訊號集團有限公司原黨委副書記、總經理徐宗祥嚴重違紀違法問題進行了立案審查調查。經查，徐宗祥喪失理想信念，背棄初心使命，參加迷信活動；罔顧中央八項規定精神，借用管理和服務物件車輛，公車私用，借為兒子操辦婚宴之機斂財；違背組織原則，不如實報告個人有關事項，違規為他人謀取人事方面利益並收受財物；廉潔底線失守，違規持有非上市公司股份並獲利，利用職務影響為親屬經營活動提供幫助，由他人支付應由本人支付的費用，違規收受禮金、購物卡，接受可能影響公正執行公務的娛樂活動安排，搞權色交易；違反生活紀律；違反國家法律法規，辦理和使用虛假身份證件；將公權力異化為謀取私利的工具，大肆收錢斂財，退而不休，利用職務便利在企業經營、專案承攬等方面為他人謀利，並非法收受鉅額財物。徐宗祥嚴重違反黨的政治紀律、中央八項規定精神、組織紀律、廉潔紀律、生活紀律，構成嚴重職務違法並涉嫌受賄、利用影響力受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經國務院國資委黨委研究，決定給予徐宗祥開除黨籍處分；經中央紀委國家監委駐國務院國資委紀檢監察組研究，決定按規定取消其享受的待遇；收繳其違紀違法所得；湖南省邵陽市監委將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "5072104",
+      "time": "2026-09-02 09:58:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4290美元/盎司，日內跌0.89%。"
+    },
+    {
+      "id": "mkt:01a05fd6-b783-7118-844d-df94533773e2",
+      "time": "2026-09-02 09:58:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rose over 1%; component Keli Co. rose over 11%."
+    },
+    {
+      "id": "mkt:01a05fd6-8c68-7118-844d-d3f726e458a7",
+      "time": "2026-09-02 09:58:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【BOJ hawk Takata says flexible rate hikes needed amid domestic financial and external developments】BOJ board member Takata said the bank should flexibly raise interest rates after assessing domestic financial conditions and overseas developments. He urged shifting away from the current stance that promotes higher potential inflation and said the BOJ should demonstrate determination to prevent inflation from deviating upward from expectations. Takata was the lone dissenter in July when the BOJ left the short-term rate at 1%; he had advocated raising it to 1.25% to counter inflation risk from external demand shocks."
+    },
+    {
+      "id": "te:markets:580255",
+      "time": "2026-09-02 09:58:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 4-week Low — Copper decreased to 6.42 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Copper lost 1.48%, and in the last 12 months, it increased 41.3%."
+    },
+    {
+      "id": "mkt:01a05fd6-70a4-7118-844d-c9f5ad312259",
+      "time": "2026-09-02 09:58:04",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【SK Group chairman Choi considers Japan memory fab, flags possible joint production with Kioxia】SK Group chairman Choi Tae-won said the company is considering building a new memory-chip fab in Japan and may pursue joint production with Kioxia, the Japanese NAND flash maker in which SK Hynix holds a stake. He said SK would be willing to partner if SK Hynix can be included in Kioxia’s future strategic plan and identified joint production, R&D and shared supply chains as possible cooperation areas, adding that SK would end its investment in Kioxia if no form of cooperation can be established. Citing booming AI-driven data-center demand, Choi said there is a 20–30% shortfall in data-center storage semiconductors and called Japan—with its concentration of equipment, materials and parts suppliers—an attractive candidate for overseas capacity on risk and cultural grounds."
+    },
+    {
+      "id": "5072103",
+      "time": "2026-09-02 09:57:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.08%，成分股中，科力股份漲11.58%，同惠電子漲4.87%，星圖測控漲4.36%，天工股份漲3.57%。"
+    },
     {
       "id": "5072102",
       "time": "2026-09-02 09:57:01",
