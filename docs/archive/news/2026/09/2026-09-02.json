@@ -1,7 +1,536 @@
 {
   "date": "2026-09-02",
-  "count": 2434,
+  "count": 2489,
   "items": [
+    {
+      "id": "mkt:01a0621a-8cab-7118-8460-eda6e99b2440",
+      "time": "2026-09-02 20:31:42",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "People familiar said Greece, citing stronger public finances and faster growth, is accelerating early repayments and may prepay its first bailout loans about two years earlier than originally planned."
+    },
+    {
+      "id": "5073405",
+      "time": "2026-09-02 20:31:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：我方已控制加沙地帶60%區域。"
+    },
+    {
+      "id": "5073404",
+      "time": "2026-09-02 20:31:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【招金黃金：股東冉盛盛昌擬減持不超過1%股份】招金黃金公告，股東寧波梅山保稅港區冉盛盛昌投資管理合夥企業（有限合夥）持有公司2703.2萬股股份，佔總股本2.91%，擬自公告之日起十五個交易日後的三個月內，透過集中競價、大宗交易方式減持不超過929.02萬股，佔總股本不超過1%。"
+    },
+    {
+      "id": "mkt:01a06219-f19a-7118-8460-e19bad64a3e3",
+      "time": "2026-09-02 20:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria confirmed to the IAEA it will attend a briefing on nuclear issues Sept. 7-11."
+    },
+    {
+      "id": "5073403",
+      "time": "2026-09-02 20:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江鈴汽車：2026年8月銷量32266輛，同比增長7.54%】江鈴汽車公告，2026年8月總產量31448輛，同比增長5.87%；總銷量32266輛，同比增長7.54%。2026年累計產量25.03萬輛，同比增長9.96%；累計銷量25.01萬輛，同比增長10.41%。"
+    },
+    {
+      "id": "mkt:01a06219-c43b-7118-8460-dc5e33dba3a2",
+      "time": "2026-09-02 20:30:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India said banks' financing under measures to boost foreign-exchange inflows reached $136.38 billion."
+    },
+    {
+      "id": "mkt:01a06219-4de1-7118-8460-d7406fb5deb2",
+      "time": "2026-09-02 20:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria told the IAEA in a letter it will continue to cooperate on nuclear issues."
+    },
+    {
+      "id": "mkt:01a06219-34df-7118-8460-cb643ecb4730",
+      "time": "2026-09-02 20:30:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Trump administration weighing new semiconductor tariffs with U.S. manufacturing exemptions — Commerce Secretary Lutnick】Commerce Secretary Lutnick said Wednesday the Trump administration is considering a new round of import tariffs on semiconductors to incentivize reshoring of chip manufacturing to the U.S. The proposal could be paired with tariff waivers for firms that invest in U.S. production, modeled on earlier pharma measures. The administration previously imposed 25% duties on some advanced chips after a Commerce Department probe and ordered those tariffs in January. The new measures could expand coverage from standalone semiconductors to chip-containing products, potentially affecting imports of data‑center servers and consumer electronics."
+    },
+    {
+      "id": "5073401",
+      "time": "2026-09-02 20:30:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深中華A：A股股票交易出現嚴重異常波動】深中華A公告稱，公司A股股票連續10個交易日（2026年8月20日至2026年9月2日）收盤價格漲幅偏離值累計達100%，屬於股票交易嚴重異常波動情形。截至2026年9月2日，公司A股收盤價為11.75元/股，靜態市盈率196.89倍、滾動市盈率244.34倍，顯著高於所屬行業平均水平，存在市場情緒過熱及非理性炒作情形，若股價進一步異常上漲，公司可能申請停牌核查。經核查，公司經營情況正常，主營業務以珠寶金銀業務為主，收入佔比超99%，不涉及金飾品牌零售、APEC會議相關業務及AI業務收入；公司、控股股東及實控人不存在應披露未披露的重大事項，異常波動期間控股股東及實控人無買賣公司股票行為。2026年上半年公司營業收入3.00億元，同比下降6.11%；歸母淨利潤1058.30萬元，同比下降43.01%。"
+    },
+    {
+      "id": "5073400",
+      "time": "2026-09-02 20:29:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡訪問加沙。"
+    },
+    {
+      "id": "te:markets:580486",
+      "time": "2026-09-02 20:29:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Near Two-Week High Despite Weak Labor Data — The dollar index pared modest gains to trade little changed at 99.7 on Wednesday as investors digested the latest ADP employment report. US private businesses added a net 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Despite the soft data, the greenback remained near a two-week high as investors sought safety amid concerns over the economic impact of the energy shock and diverging monetary policy paths across major economies. The US said it had launched overnight airstrikes on targets in Iran, prompting retaliation from Tehran in the most serious escalation between the two countries in weeks. Meanwhile, markets are now pricing in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool."
+    },
+    {
+      "id": "5073399",
+      "time": "2026-09-02 20:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行稱，在外匯流入相關舉措下，各銀行融資規模達1363.8億美元。"
+    },
+    {
+      "id": "5073398",
+      "time": "2026-09-02 20:29:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：英國高等教育機構仍對生源招生狀況敏感"
+    },
+    {
+      "id": "5073397",
+      "time": "2026-09-02 20:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇新股份：合併持股5%以上股東倪毓蓓擬減持不超過2%股份】宇新股份公告，合併持股5%以上股東倪毓蓓持有公司股份1348.59萬股，佔總股本3.55%，擬於2026年9月24日至2026年12月23日，透過集中競價交易或大宗交易減持不超過752.21萬股，不超過公司剔除回購專用賬戶股份後的總股本的2%。倪毓蓓與張林峰及其一致行動人合併持股佔總股本6.80%。"
+    },
+    {
+      "id": "5073396",
+      "time": "2026-09-02 20:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：美軍襲擊婚禮活動構成“戰爭罪”】伊朗外交部發言人巴加埃2日說，美軍襲擊伊朗南部霍爾木茲甘省錫裡克縣一場婚禮活動構成“戰爭罪”。 巴加埃在社交媒體上寫道：“錫裡克的一場婚禮慘遭轟炸，這是美國為掩蓋其失敗而垂死掙扎的一部分。這場非法的選擇性戰爭的真相以及戰爭罪的真實面目就在錫裡克，而不在那些將美國官員描繪成凱旋英雄的人工智慧生成影片中。” 據伊朗媒體報道，美軍9月1日夜間對伊朗南部多地發動襲擊，波及霍爾木茲甘省錫裡克一場婚禮活動現場，造成4人死亡、50人受傷。（新華社）"
+    },
+    {
+      "id": "5073395",
+      "time": "2026-09-02 20:28:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：國債回購操作不會給我的政策工作帶來困擾。"
+    },
+    {
+      "id": "5073394",
+      "time": "2026-09-02 20:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【本週多晶矽成交依舊清淡 觀望情緒仍存】矽業分會表示，本週國內多晶矽市場延續觀望態勢，廠家守價意願較強，主流企業報價仍以全成本為底線，未出現主動降價破位行為；但下游需求跟進不足，新單簽訂偏少，市場整體仍處於觀望與試探並行的過渡階段，供需雙方博弈加劇，成交節奏偏緩。"
+    },
+    {
+      "id": "mkt:01a06217-adce-7118-8460-c1e8bcdce8e0",
+      "time": "2026-09-02 20:28:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's foreign minister said Kyiv has formally notified the International Civil Aviation Organization (ICAO) that Russian airspace is unsafe for civil aviation."
+    },
+    {
+      "id": "mkt:01a06217-93e6-7118-8460-bc2f70d8e40a",
+      "time": "2026-09-02 20:28:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "WILLIAMS said Treasury's debt-management approach will not add complexity for the Federal Reserve."
+    },
+    {
+      "id": "5073393",
+      "time": "2026-09-02 20:28:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長：烏克蘭已正式通知國際民航組織，俄羅斯空域對民用航空而言並不安全。"
+    },
+    {
+      "id": "5073392",
+      "time": "2026-09-02 20:28:20",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國國債管理模式未給美聯儲帶來操作困難。"
+    },
+    {
+      "id": "mkt:01a06217-65e2-7118-8460-b033481c3ae5",
+      "time": "2026-09-02 20:28:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said G20 countries should not set rules for AI's \"theoretical harms\"."
+    },
+    {
+      "id": "mkt:01a06217-60f6-7118-8460-ab2370cac369",
+      "time": "2026-09-02 20:28:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang called on G20 members to permit the expansion of artificial intelligence infrastructure."
+    },
+    {
+      "id": "5073391",
+      "time": "2026-09-02 20:27:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達黃仁勳表示，二十國集團成員國不應針對人工智慧的“理論性危害”制定規則。"
+    },
+    {
+      "id": "mkt:01a06217-10c5-7118-8460-a5e0ff21f17d",
+      "time": "2026-09-02 20:27:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the worst outcome would be being left behind in AI."
+    },
+    {
+      "id": "mkt:01a06217-0a01-7118-8460-99be9ca29c1a",
+      "time": "2026-09-02 20:27:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold was up about $7 intra-session at $4,339/oz; spot silver rose just over $1 intra-session to $64.48/oz."
+    },
+    {
+      "id": "5073390",
+      "time": "2026-09-02 20:27:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "黃仁勳： 最糟糕的結果就是在人工智慧浪潮中落後。"
+    },
+    {
+      "id": "mkt:01a06216-bc3e-7118-8460-96073fe1abfe",
+      "time": "2026-09-02 20:27:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said monetary policy implementation is progressing smoothly."
+    },
+    {
+      "id": "mkt:01a06216-a826-7118-8460-8be3b8b8ec3d",
+      "time": "2026-09-02 20:27:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said a sustained productivity boom would push up the neutral interest rate."
+    },
+    {
+      "id": "mkt:01a06216-a6e1-7118-8460-8505e976e549",
+      "time": "2026-09-02 20:27:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said he has not yet seen sustained productivity growth."
+    },
+    {
+      "id": "em:qqyh_mlc:202609023862961071",
+      "time": "2026-09-02 20:27:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【紐約聯儲主席威廉姆斯：通脹呈緩慢下行趨勢 利率處於良好水平】紐約聯儲主席威廉姆斯稱，近期美國通脹資料令人鼓舞，通脹呈緩慢下行趨勢，利率處於良好水平。"
+    },
+    {
+      "id": "5073389",
+      "time": "2026-09-02 20:27:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：當前利率處於合適水平。近期通脹資料令人鼓舞。對人工智慧對經濟的長期影響持樂觀態度。"
+    },
+    {
+      "id": "mkt:01a06216-8d27-7118-8460-7ee0031e2367",
+      "time": "2026-09-02 20:27:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said interest rates are at a good level."
+    },
+    {
+      "id": "mkt:01a06216-4722-7118-8460-73432b5228c5",
+      "time": "2026-09-02 20:27:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said more data are needed to prepare for the next FOMC meeting."
+    },
+    {
+      "id": "mkt:01a06215-e9e1-7118-8460-6bfeaa7266f8",
+      "time": "2026-09-02 20:26:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams says he supports the outcome of the July FOMC meeting."
+    },
+    {
+      "id": "5073388",
+      "time": "2026-09-02 20:26:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：需要為下次聯邦公開市場委員會（FOMC）會議收集資料。"
+    },
+    {
+      "id": "5073387",
+      "time": "2026-09-02 20:26:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中威電子：持股5%以上股東擬減持不超3%股份】中威電子公告稱，公司持股5%以上股東石旭剛持有公司股份4594.52萬股，佔公司總股本15.17%，其計劃於2026年9月25日至2026年12月24日期間，以大宗交易、集中競價交易方式減持公司股份不超過908.42萬股，佔公司總股本比例3%。其中集中競價交易減持不超過302.81萬股，佔總股本1%；大宗交易減持不超過605.61萬股，佔總股本2%。減持原因為個人資金需要，本次減持不會導致公司控制權發生變更。"
+    },
+    {
+      "id": "5073386",
+      "time": "2026-09-02 20:26:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：支援7月聯邦公開市場委員會（FOMC）會議結果。"
+    },
+    {
+      "id": "5073385",
+      "time": "2026-09-02 20:26:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：但目前尚未觀察到生產率出現持續性提升。"
+    },
+    {
+      "id": "5073384",
+      "time": "2026-09-02 20:26:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：若生產率持續大幅提升，中性利率將會上行。"
+    },
+    {
+      "id": "5073383",
+      "time": "2026-09-02 20:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鐘股份：擬新設子公司收購合肥楷馳100%股權等資產】金鐘股份公告稱，公司擬透過新設子公司作為實施主體，以1.59億元收購合肥楷馳汽車零部件有限公司100%的股權，同時擬以2500萬元購買夢達馳汽車系統（安徽）有限公司截至2026年7月31日持有的全部固定資產。董事會已提請股東會授權公司董事長或其授權人士辦理本次交易相關後續事宜，該議案尚需提交公司股東會審議。"
+    },
+    {
+      "id": "5073382",
+      "time": "2026-09-02 20:25:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金丹科技：張鵬及一致行動人合計持股增至16.57%】金丹科技公告稱，公司控股股東、實際控制人張鵬與持股5%以上股東李中民於2026年8月31日簽署股份轉讓協議，分別向張翔（張鵬之子、一致行動人）轉讓876.24萬股、260.14萬股，合計1136.38萬股，佔公司當前總股本5.00%，轉讓價12.10元/股，轉讓總價1.38億元。疊加可轉債轉股導致的持股比例被動稀釋，本次權益變動後，張鵬、張翔合計持股3765.10萬股，佔總股本16.57%，公司控股股東、實際控制人變更為張鵬、張翔。本次轉讓尚需深交所合規性稽核，能否完成存在不確定性。"
+    },
+    {
+      "id": "5073381",
+      "time": "2026-09-02 20:25:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金丹科技：持股5%以上股東擬協議轉讓1.14%股份】金丹科技公告稱，公司持股5%以上股東李中民因可轉債轉股被動稀釋及擬協議轉讓股份，持股比例發生變動。2025年1月20日至2025年7月10日，因公司可轉債轉股總股本增加，李中民持股比例由12.47%被動稀釋至10.56%。此外，李中民擬以12.10元/股的價格，向其子張翔協議轉讓260.14萬股公司股份，佔當前總股本的1.14%，轉讓價款合計3147.69萬元。本次權益變動完成後，李中民持股數量為2139.86萬股，持股比例為9.42%。本次協議轉讓尚需深交所合規性稽核，能否完成存在不確定性。"
+    },
+    {
+      "id": "mkt:01a06214-d986-7118-8460-617c6fc66143",
+      "time": "2026-09-02 20:25:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Local authorities said a Ukrainian strike on Russia's Belgorod region killed one person and injured two."
+    },
+    {
+      "id": "mkt:01a06214-892d-7118-8460-5fe4bb1f76ac",
+      "time": "2026-09-02 20:25:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Williams said he is optimistic about AI's long-term economic impact."
+    },
+    {
+      "id": "mkt:01a06214-6b20-7118-8460-53431e23f6c0",
+      "time": "2026-09-02 20:25:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "WILLIAMS said he wants to analyze more data before the Fed's next decision."
+    },
+    {
+      "id": "5073380",
+      "time": "2026-09-02 20:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "黃仁勳呼籲二十國集團加快人工智慧應用以促進經濟增長。"
+    },
+    {
+      "id": "5073379",
+      "time": "2026-09-02 20:24:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：希望在下一次決策前分析更多資料。"
+    },
+    {
+      "id": "5073378",
+      "time": "2026-09-02 20:24:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英力特：股票交易異常波動 控制權可能變更】英力特公告稱，公司股票2026年9月1日、9月2日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動情形。經核查，公司及控股股東、實際控制人不存在應披露而未披露的重大資訊，異常波動期間控股股東及實控人未買賣公司股票。公司上半年實現營業收入8.05億元，淨虧損2.47億元。控股股東英力特集團擬公開徵集受讓方協議轉讓公司部分股份，可能導致公司控制權變更，目前具體方案尚需國資監管部門同意，相關事項存在不確定性。"
+    },
+    {
+      "id": "5073377",
+      "time": "2026-09-02 20:24:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和順科技：實控人及其一致行動人持股比例被動增至50.33%】和順科技公告稱，因公司實施2026年中期資本公積轉增股本，且回購專用賬戶股份不參與本次權益分派，公司控股股東、實際控制人範和強及其一致行動人張靜、範順豪、杭州一豪股權投資合夥企業（有限合夥）合計持股比例由50.00%被動增加至50.33%，觸及1%及5%的整數倍。本次權益變動不觸及要約收購，不會導致公司控制權變更，不會對公司持續經營及治理結構產生影響。"
+    },
+    {
+      "id": "5073376",
+      "time": "2026-09-02 20:24:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛鹿股份：擬向控股股東定增募資不超4.50億元】飛鹿股份公告稱，公司擬向特定物件發行A股股票，發行數量不超過6886.22萬股，不超過發行前公司總股本的30%，全部由控股股東君拓啟航以現金認購，募集資金總額不低於3.50億元且不超過4.50億元。本次發行定價基準日為發行期首日，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，認購股份自發行結束之日起36個月內不得轉讓。本次發行構成關聯交易，不構成重大資產重組及重組上市，尚需公司股東會審議透過、深交所稽核透過並獲中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609023862958234",
+      "time": "2026-09-02 20:24:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲威廉姆斯表示，需要在可預見的未來將通脹率降至2%。"
+    },
+    {
+      "id": "5073375",
+      "time": "2026-09-02 20:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福蓉科技：公司鋁製結構件材料有用於三星、谷歌、OPPO等品牌摺疊屏手機】福蓉科技(603327)在互動平臺表示，公司生產的鋁製結構件材料有用於三星、谷歌、OPPO等品牌的摺疊屏手機上，也有做華為、小米等品牌手機零部件。"
+    },
+    {
+      "id": "mkt:01a06213-6c63-7118-8460-4d50b497d03e",
+      "time": "2026-09-02 20:23:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed official Williams said recent inflation data has been encouraging."
+    },
     {
       "id": "mkt:01a06213-35c6-7118-8460-400e44902dc4",
       "time": "2026-09-02 20:23:41",
@@ -415,6 +944,14 @@
         "國際"
       ],
       "text": "美聯儲威廉姆斯：債券收益率是美聯儲制定政策的重要參考資訊。"
+    },
+    {
+      "id": "5073356",
+      "time": "2026-09-02 20:18:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國研製出高溫超導帶材新型“骨架”】從中國科學院理化技術研究所獲悉，經過三年多攻關，該所科研團隊成功研製出高溫超導帶材新型“骨架”——鐵基合金基帶，代號“DW01”。經上海超導科技股份有限公司驗證，採用該基帶製備的超導帶材關鍵效能指標顯著優於傳統哈氏合金基帶產品。這標誌著我國在實現高溫超導帶材核心材料自主可控上邁出重要一步。（科技日報）"
     },
     {
       "id": "5073355",
