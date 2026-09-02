@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 19:59:00",
+  "updated": "2026-09-02 20:24:48",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -8052,9 +8052,9 @@
               "title": "美國8月ADP就業人數(萬人)",
               "importance": 3,
               "previous": "4.4",
-              "forecast": "3.9",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "4.8",
+              "actual": "3.8",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144780",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -35538,9 +35538,9 @@
       "title": "美國8月ADP就業人數(萬人)",
       "importance": 3,
       "previous": "4.4",
-      "forecast": "3.9",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "4.8",
+      "actual": "3.8",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144780",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

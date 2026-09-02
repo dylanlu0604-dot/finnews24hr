@@ -1,7 +1,1089 @@
 {
   "date": "2026-09-02",
-  "count": 2322,
+  "count": 2434,
   "items": [
+    {
+      "id": "mkt:01a06213-35c6-7118-8460-400e44902dc4",
+      "time": "2026-09-02 20:23:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WILLIAMS: services-sector inf is markedly elevated."
+    },
+    {
+      "id": "mkt:01a06213-0286-7118-8460-3a9566201c21",
+      "time": "2026-09-02 20:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said AI is 'the great equalizer'."
+    },
+    {
+      "id": "mkt:01a06212-efa3-7118-8460-37437d27c9d2",
+      "time": "2026-09-02 20:23:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said the central bank needs to bring inflation down to 2% in the foreseeable future."
+    },
+    {
+      "id": "5073374",
+      "time": "2026-09-02 20:23:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：關稅與中東戰事是通脹持續高於目標的兩大主要推動因素，強勁的投資需求正推動收益率上行。目前通脹呈下行趨勢。"
+    },
+    {
+      "id": "5073373",
+      "time": "2026-09-02 20:23:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀空中基站HAPS通訊試驗取得成功】軟銀公司9月2日宣佈，在日本上空成功開展空中手機基站HAPS的通訊試驗。據介紹，在日本上空飛行的HAPS通訊試驗取得成功在日本國內尚屬首次。軟銀計劃2027年擴大飛行區域和時間，平時則為企業提供通訊服務。"
+    },
+    {
+      "id": "mkt:01a06212-971e-7118-8460-2f146831bed8",
+      "time": "2026-09-02 20:23:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Williams said the labor market is stable and solid."
+    },
+    {
+      "id": "5073372",
+      "time": "2026-09-02 20:22:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：需在可預見的未來將通脹降至2%目標水平。"
+    },
+    {
+      "id": "5073371",
+      "time": "2026-09-02 20:22:42",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "黃仁勳在 G20 活動上稱人工智慧是 “偉大的均衡器”。"
+    },
+    {
+      "id": "5073370",
+      "time": "2026-09-02 20:22:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：勞動力市場穩定且強勁。"
+    },
+    {
+      "id": "5073369",
+      "time": "2026-09-02 20:22:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：服務業通脹也明顯偏高。"
+    },
+    {
+      "id": "mkt:01a06211-f609-7118-8460-277aaffd748c",
+      "time": "2026-09-02 20:22:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CEO Jensen Huang and U.S. Commerce Secretary Lutnick attended a G20 technology event in North Carolina."
+    },
+    {
+      "id": "5073368",
+      "time": "2026-09-02 20:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "黃仁勳與盧特尼克出席北卡羅來納州G20相關科技活動。"
+    },
+    {
+      "id": "mkt:01a06211-9e82-7118-8460-1e9f5dbc6d35",
+      "time": "2026-09-02 20:21:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's WILLIAMS says he sees a trend of declining inf."
+    },
+    {
+      "id": "mkt:01a06211-9ad0-7118-8460-16af3c2282dc",
+      "time": "2026-09-02 20:21:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's Williams: inf expectations are under control."
+    },
+    {
+      "id": "mkt:01a06211-7828-7118-8460-0f29991b5801",
+      "time": "2026-09-02 20:21:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Williams said he has not seen second-round effects from tariffs on inflation."
+    },
+    {
+      "id": "5073367",
+      "time": "2026-09-02 20:21:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：通脹預期得到控制。"
+    },
+    {
+      "id": "mkt:01a06211-5c61-7118-8460-00607623c2a4",
+      "time": "2026-09-02 20:21:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity futures rose; Nasdaq futures turned positive. Dow futures +0.35%, S&P 500 futures +0.19%."
+    },
+    {
+      "id": "5073366",
+      "time": "2026-09-02 20:21:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨抹去跌幅，轉為上漲。"
+    },
+    {
+      "id": "5073365",
+      "time": "2026-09-02 20:21:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：未觀察到關稅會產生第二輪通脹影響。"
+    },
+    {
+      "id": "5073364",
+      "time": "2026-09-02 20:21:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4340美元/盎司，日內漲0.33%。"
+    },
+    {
+      "id": "5073363",
+      "time": "2026-09-02 20:21:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.14%。"
+    },
+    {
+      "id": "mkt:01a06210-b27f-7118-845f-fc6fc395e27d",
+      "time": "2026-09-02 20:20:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed President Williams said tariffs and the Middle East war are the primary drivers pushing inflation above target."
+    },
+    {
+      "id": "5073362",
+      "time": "2026-09-02 20:20:41",
+      "tags": [
+        "資料"
+      ],
+      "text": "【ADP報告重要行業資料變化一覽】\n8月建築業就業人數增加1.2萬人，7月增加0.1萬人。\n8月製造業就業人數減少1.7萬人，7月增加0.2萬人。\n8月貿易/運輸/公用事業就業人數減少0.5萬人，7月減少0.8萬人。\n8月金融服務業就業人數增加0.6萬人，7月增加1萬人。\n8月專業/商業服務就業人數減少1.6萬人，7月增加0.9萬人。\n\n8月建築業就業人員薪資增速年率中值為4.0%，7月為4.5%。\n8月製造業就業人員薪資增速年率中值為3.5%，7月為5.0%。\n8月貿易/運輸/公用事業就業人員薪資增速年率中值為3.3%，7月為4.4%。\n8月金融服務業就業人員薪資增速年率中值為3.5%，7月為5.2%。\n8月專業/商業服務就業人員薪資增速年率中值為3.2%，7月為4.1%。\n\nADP首席經濟學家Nela Richardson：薪酬資料能為我們揭示當前動盪的招聘市場提供諸多線索。要理解招聘模式，必須深入觀察薪酬增長在哪些領域加速、在哪些領域放緩，以及針對哪些群體。曾經可預測的薪酬增長，如今已被人口結構變化、持續通脹以及人工智慧對就業的影響等複雜因素所取代。我們新發布的薪酬洞察報告，藉助增強的資料，能夠更全面地揭示當今勞動力市場的動態。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609023862955216",
+      "time": "2026-09-02 20:20:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲威廉姆斯表示將通脹控制在2%是首要任務】美聯儲威廉姆斯表示，歸根結底，實現物價穩定是美聯儲的職責，將通脹控制在2%是首要任務。"
+    },
+    {
+      "id": "5073361",
+      "time": "2026-09-02 20:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳將新增一家山姆會員店】9月2日，光明區人民政府與沃爾瑪（中國）投資有限公司正式簽署戰略合作協議，擬落地光明山姆會員商店，力爭2029年開業。專案建成後，將成為繼福田店、龍崗店、龍華店、前海店及寶安店之後，深圳第6家山姆會員商店。（深圳釋出）"
+    },
+    {
+      "id": "mkt:01a0620f-fde7-7118-845f-f64a5303d49d",
+      "time": "2026-09-02 20:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Williams: strong investor demand is pushing up yields."
+    },
+    {
+      "id": "mkt:01a0620f-c109-7118-845f-eeec483b025c",
+      "time": "2026-09-02 20:19:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Williams, Federal Reserve: Ultimately achieving price stability is the Fed's responsibility; bringing inflation down to 2% is our top priority."
+    },
+    {
+      "id": "5073360",
+      "time": "2026-09-02 20:19:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：歸根結底，實現物價穩定是美聯儲的職責，將通脹控制在2%是首要任務。"
+    },
+    {
+      "id": "mkt:01a0620f-8908-7118-845f-e360e6c040ac",
+      "time": "2026-09-02 20:19:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Fed's Williams said yields do not appear to have been affected by the inflation outlook."
+    },
+    {
+      "id": "mkt:01a0620f-1fa2-7118-845f-dee3af0c8e53",
+      "time": "2026-09-02 20:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Williams said the Fed will consider the totality of the data when setting monetary policy."
+    },
+    {
+      "id": "mkt:01a0620f-184f-7118-845f-d2c824934657",
+      "time": "2026-09-02 20:19:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY"
+      ],
+      "text": "After ADP data was released, the dollar index DXY was little changed at 99.751."
+    },
+    {
+      "id": "mkt:01a0620f-0c75-7118-845f-ccf8b833f1b6",
+      "time": "2026-09-02 20:19:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said yields are rising due to a strong economy and an optimistic outlook."
+    },
+    {
+      "id": "em:qqyh_mlc:202609023862954738",
+      "time": "2026-09-02 20:19:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【紐約聯儲主席：美債收益率上漲源於經濟強勁和前景向好】紐約聯儲主席威廉姆斯表示，美債收益率上漲源於經濟強勁和前景向好。"
+    },
+    {
+      "id": "5073359",
+      "time": "2026-09-02 20:19:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國ADP資料公佈後，現貨金銀短線變動不大，現貨黃金小幅下跌1.2美元，報4332美元，現貨白銀報64.35美元。"
+    },
+    {
+      "id": "mkt:01a0620e-d9cf-7118-845f-c53342acf511",
+      "time": "2026-09-02 20:18:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve's Williams said bond yields are linked to the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a0620e-d4dd-7118-845f-bde26dc93a05",
+      "time": "2026-09-02 20:18:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Williams said bond yields are important information for the Federal Reserve."
+    },
+    {
+      "id": "mkt:01a0620e-cf75-7118-845f-b6e79a8d3106",
+      "time": "2026-09-02 20:18:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600483.SS",
+        "Impact bullish"
+      ],
+      "text": "【China develops iron‑alloy substrate for high‑temperature superconducting tape (DW01)】The Institute of Physics and Chemistry at the Chinese Academy of Sciences said its researchers have developed an iron‑based alloy substrate for high‑temperature superconducting (HTS) tape, code‑named DW01, after more than three years of work. Shanghai Superconductor Technology Co. validated that HTS tapes produced with the DW01 substrate show key performance metrics markedly superior to conventional Hastelloy‑based substrates. The institute said the result represents an important step toward domestic control of core HTS tape materials."
+    },
+    {
+      "id": "5073358",
+      "time": "2026-09-02 20:18:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ADP就業資料公佈後維持跌勢；10年期美國國債收益率最新下跌2個基點，報4.776%。"
+    },
+    {
+      "id": "5073357",
+      "time": "2026-09-02 20:18:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：債券收益率是美聯儲制定政策的重要參考資訊。"
+    },
+    {
+      "id": "5073355",
+      "time": "2026-09-02 20:18:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：債券收益率與中東衝突之間存在相關性。"
+    },
+    {
+      "id": "mkt:01a0620e-25f3-7118-845f-a925832251ce",
+      "time": "2026-09-02 20:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Williams said it is more important that economic developments drive financial conditions."
+    },
+    {
+      "id": "te:economy:580483",
+      "time": "2026-09-02 20:17:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change",
+        "Importance 3"
+      ],
+      "text": "US Private Employment Growth Slows Again in August — Private businesses in the US added 38K jobs in August 2026, the least since January, following an upwardly revised 46K in July and below forecasts of 47K, reflecting a broader slowdown in the labor market. Education and health services added 45,000 to lead all categories."
+    },
+    {
+      "id": "mkt:01a0620d-f114-7118-845f-a3599df73709",
+      "time": "2026-09-02 20:17:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "After US ADP data, spot gold and silver saw little intra-day movement; spot gold dipped $1.20 to $4,332/oz, spot silver was $64.35/oz."
+    },
+    {
+      "id": "5073354",
+      "time": "2026-09-02 20:17:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：更多是經濟推動金融狀況，而非相反。"
+    },
+    {
+      "id": "5073353",
+      "time": "2026-09-02 20:17:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯稱，強勁的經濟前景正在推高債券收益率。"
+    },
+    {
+      "id": "5073352",
+      "time": "2026-09-02 20:17:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：收益率目前似乎並非受通脹預期推動。"
+    },
+    {
+      "id": "5073351",
+      "time": "2026-09-02 20:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉隆泥石流已致21人遇難541人失聯】記者9月2日從西藏自治區政府新聞辦召開的新聞釋出會上獲悉，截至2日12時，災害已致21人遇難，541人失聯，發現遺物847件。（新華社）"
+    },
+    {
+      "id": "5073350",
+      "time": "2026-09-02 20:17:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【標普500ETF華夏：二級市場交易價格出現大幅溢價】標普500ETF華夏公告稱，2026年9月2日，本基金二級市場收盤價為2.005元，收盤時基金份額參考淨值（IOPV）為1.8676元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年9月3日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊。敬請投資者密切關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "mkt:01a0620c-d615-7118-845f-994a2f4a8dd2",
+      "time": "2026-09-02 20:16:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP chief economist NELA RICHARDSON said the firm's newly released Pay Insights report, leveraging enhanced data, provides a more comprehensive read on current labor-market dynamics."
+    },
+    {
+      "id": "mkt:01a0620c-aa62-7118-845f-95039dac442b",
+      "time": "2026-09-02 20:16:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP chief economist Nela Richardson said previously predictable wage growth has been replaced by complex forces: demographic shifts, persistent inflation and AI's impact on employment."
+    },
+    {
+      "id": "mkt:01a0620c-87c5-7118-845f-899d6fbebb03",
+      "time": "2026-09-02 20:16:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP chief economist Nela Richardson says wage data can shed light on the current volatile hiring market; understanding hiring patterns requires examining where wage growth is accelerating or slowing and which worker cohorts are affected."
+    },
+    {
+      "id": "5073349",
+      "time": "2026-09-02 20:15:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "格芯與RAAAM儲存技術公司宣佈將基於FDX平臺聯合開發下一代GCRAM技術與測試晶片。"
+    },
+    {
+      "id": "mkt:01a0620b-a7d7-7118-845f-802c2fcebcdb",
+      "time": "2026-09-02 20:15:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US ADP private payrolls below expectations】US ADP private payrolls rose 38k in August, the smallest monthly increase since January and below the 48k market consensus."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609023862951655",
+      "time": "2026-09-02 20:15:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "ADP稱美國8月份就業人口增加3.8萬人，市場預期為增加4.7萬人，前值為增加4.4萬人。"
+    },
+    {
+      "id": "mkt:01a0620b-7164-7118-845f-78257b235ccb",
+      "time": "2026-09-02 20:15:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US ADP private payrolls for August +38,000, below +48,000 expected; July +44,000."
+    },
+    {
+      "id": "5073348",
+      "time": "2026-09-02 20:15:11",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "【“小非農”人數低於預期】美國8月ADP就業人數 3.8萬人，預期4.8萬人，前值4.4萬人。"
+    },
+    {
+      "id": "5073347",
+      "time": "2026-09-02 20:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國ADP 8月製造業就業人數減少1萬人。"
+    },
+    {
+      "id": "mkt:01a0620b-43a0-7118-845f-74f3e694185e",
+      "time": "2026-09-02 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP Employment Change (Aug) | actual 38000K | consensus 48000K | previous 44000K"
+    },
+    {
+      "id": "5073346",
+      "time": "2026-09-02 20:13:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德豪潤達：一致行動人減持2.11%股份 持股降至5%】德豪潤達公告稱，2026年6月8日至2026年9月1日，公司持股5%以上股東北京風炎私募基金管理有限公司（代表“北京風炎臻選2號私募證券投資基金”）透過集中競價及大宗交易方式合計減持公司股份3704.28萬股，佔公司總股本的2.11%。本次權益變動後，北京風炎及其一致行動人北京領瑞投資管理有限公司、北京領瑞益信資產管理有限公司合計持股比例降至5%。本次減持不會導致公司控制權變更，公司無控股股東、實際控制人的情況保持不變。"
+    },
+    {
+      "id": "5073345",
+      "time": "2026-09-02 20:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇沙鋼集團更名】據沙鋼集團，因公司經營發展需要，經市場監督管理部門核准，江蘇沙鋼集團有限公司自2026年9月1日起正式更名為沙鋼控股集團有限公司。本次更名僅為公司名稱變更，公司註冊地址、註冊資本、法定代表人、股權結構及原有債權債務關係保持不變，原公司簽署的所有合同、協議繼續有效，相關權利和義務由更名後的公司承繼。"
+    },
+    {
+      "id": "mkt:01a06209-89b2-7118-845f-6c3f17bd4bdf",
+      "time": "2026-09-02 20:13:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sueddeutsche Zeitung reported one suspect was born in Russia and holds a Latvian passport; the other is from Belarus and holds a Russian passport."
+    },
+    {
+      "id": "5073344",
+      "time": "2026-09-02 20:12:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【ADP資料公佈前，美聯儲9月維持利率不變的機率為33.8%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為33.8%，累計加息25個基點的機率為66.2%。美聯儲到10月維持利率不變的機率為24.1%，累計加息25個基點的機率56.9%，累計加息50個基點的機率為19.1%。"
+    },
+    {
+      "id": "5073343",
+      "time": "2026-09-02 20:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "GAPKI估計，印度2026年棕櫚油（包括毛棕櫚油和棕櫚仁油）總產量為5850萬噸，低於此前估計的5880萬噸。"
+    },
+    {
+      "id": "5073342",
+      "time": "2026-09-02 20:11:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國風力推進技術創企Anemoi將為馬士基集裝箱船提供旋翼帆系統】據9月2日宣告，英國風力推進技術創企Anemoi Marine Technologies將為馬士基利馬號集裝箱船提供旋翼帆系統，以降低燃油消耗和碳排放。根據協議，Anemoi將設計、製造並交付一個直徑5米、高35米的固定式旋翼帆系統，預計將於2027年中期安裝。"
+    },
+    {
+      "id": "mkt:01a06208-06cf-7118-845f-60d38ceae0a5",
+      "time": "2026-09-02 20:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Süddeutsche Zeitung reports German authorities have confirmed two suspects linked to an attempted drone attack on Leipzig airport."
+    },
+    {
+      "id": "mkt:01a06207-d857-7118-845f-5eb73fa6f321",
+      "time": "2026-09-02 20:11:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Beijing party secretary Yin Li meets US-China Business Council board delegation】On Sept. 1 Beijing party secretary Yin Li told a US-China Business Council board delegation Beijing will work with the Council to implement outcomes of bilateral economic and trade consultations, expand goods and services trade and raise the scale and quality of bilateral trade. He urged deeper cooperation among Chinese universities, research institutes and tech firms to accelerate commercialization of new technologies in Beijing and called for joint leadership on global AI governance to steer technology toward societal benefit."
+    },
+    {
+      "id": "5073341",
+      "time": "2026-09-02 20:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "《南德意志報》報道，當局已鎖定兩名涉嫌策劃襲擊萊比錫機場無人機襲擊未遂案件的嫌疑人。"
+    },
+    {
+      "id": "5073340",
+      "time": "2026-09-02 20:11:08",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利表示，美國釋放允許石油交易的訊號提振了委內瑞拉債券前景。"
+    },
+    {
+      "id": "5073339",
+      "time": "2026-09-02 20:11:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "梯瓦製藥美國上市盤前股價上漲3.5%，此前該公司免疫紊亂藥物在中期試驗中達到主要終點。"
+    },
+    {
+      "id": "5073338",
+      "time": "2026-09-02 20:10:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "在宣佈與谷歌及MN8能源達成清潔能源合作協議後，EOS能源的股價盤前上漲14.8%。"
+    },
+    {
+      "id": "5073337",
+      "time": "2026-09-02 20:10:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【止於至善投資：公司團隊新增自購1000萬元】9月2日盤後，知名私募機構止於至善投資釋出公告稱，止於至善團隊向止於至善全球精選1號追加1000萬元申購。值得注意的是，7月16日，止於至善投資曾釋出訊息稱，公司及團隊在7月已完成逾3000萬元自購。"
+    },
+    {
+      "id": "5073336",
+      "time": "2026-09-02 20:09:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【尹力會見美中貿易全國委員會董事會代表團】據北京日報，9月1日上午，北京市委書記尹力會見美中貿易全國委員會董事會代表團。尹力說，北京願與美中貿委會共同努力，落實好兩國經貿磋商成果，持續擴大經貿往來，促進貨物貿易、服務貿易發展，不斷提升雙邊貿易規模和質量。推動中美高校、科研院所、科技企業等加強創新合作，促進新技術新產品在京落地應用。共同引領人工智慧全球治理，推動科技向上向善、更好造福人類社會。深化人文交流，促進工商界及社會各界交往，增進文化、旅遊、衛生、教育、青年等各領域互動。希望美中貿委會繼續發揮建設性作用，與我們一道，為促進中美關係穩定健康可持續發展貢獻更大力量。美中貿委會董事會主席、維薩公司執行長麥凱恩等企業家代表發言，讚賞北京經濟社會發展成就和便利的營商環境，看好北京未來前景和廣闊機遇，願繼續深耕中國、紮根北京，表示將更好發揮美中貿委會橋樑作用，增進雙方相互瞭解，促進經貿等領域互信合作。"
+    },
+    {
+      "id": "5073335",
+      "time": "2026-09-02 20:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Equinix將攜手英偉達、Together AI推出人工智慧推理交換平臺】Equinix釋出分散式人工智慧推理框架Equinix Inference Exchange，整合英偉達企業參考架構、Together AI開源模型平臺以及Equinix全球資料中心基礎設施。Equinix負責提供基礎設施、電力、冷卻以及Fabric網路連線。英偉達提供企業參考架構以及專為推理場景打造的人工智慧算力。Together AI提供推理平臺，支援200餘款開源模型。Equinix Inference Exchange將於2027年第一季度正式上線。"
+    },
+    {
+      "id": "te:economy:580481",
+      "time": "2026-09-02 20:08:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "Brazil Industrial Production Returns to Growth — Brazil’s industrial production rose 0.2% month-over-month in July 2026, rebounding after two consecutive months of declines. Three of the four major economic categories and 13 of the 25 industrial sectors surveyed recorded increases. Among the major categories, durable consumer goods rose 3.2% and capital goods increased 2.4%, while semi- and non-durable consumer goods advanced 0.5%. In contrast, intermediate goods fell 0.2%, the only category to decline. Among industries, the strongest positive contributions came from computers, electronic and optical products, which rose 12.2%, food products, up 1.0%, and coke, refined petroleum products and biofuels, up 1.1%. All three ended two consecutive months of declines. Compared with July 2025, industrial production fell 0.5%, ending a four-month streak of growth. Year-to-date, output rose 1.1%."
+    },
+    {
+      "id": "5073334",
+      "time": "2026-09-02 20:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI的GPT‑5.6 Cyber網路安全模型已接入CrowdStrike獵鷹（Falcon）平臺。"
+    },
+    {
+      "id": "5073333",
+      "time": "2026-09-02 20:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "CrowdStrike與OpenAI擴大合作：為Codex智慧體提供安全防護並整合GPT-5網路安全防護功能。"
+    },
+    {
+      "id": "5073332",
+      "time": "2026-09-02 20:06:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家體育總局局長高志丹將介紹“十五五”時期體育強國建設有關情況】國務院新聞辦公室將於2026年9月3日（星期四）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家體育總局局長高志丹介紹“十五五”時期體育強國建設有關情況，並答記者問。"
+    },
+    {
+      "id": "5073331",
+      "time": "2026-09-02 20:06:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特阿美尋求新增石油倉儲設施】受中東戰爭引發供應中斷影響，沙特阿美正尋求新增石油倉儲設施，擴充其已佈局在歐洲與亞洲的儲罐儲備。沙特阿美戰略與市場顧問瓦萊裡・周在迪拜一場會議上表示：“我們也正在全球範圍內物色更多倉儲資源。”客戶對於穩定油品運輸的需求不斷上升，倉儲資產因此成為維持供應穩定的關鍵。 沙特阿美在全球已有可用倉儲點位，包括阿聯酋富查伊拉、荷蘭鹿特丹、日本沖繩，以及服務地中海市場的埃及相關倉儲設施。"
+    },
+    {
+      "id": "5073330",
+      "time": "2026-09-02 20:06:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "CROWDSTRIKE與OPENAI擴大合作，共築智慧代理時代安全防線。"
+    },
+    {
+      "id": "mkt:01a06203-564b-7118-845f-548c17a4d744",
+      "time": "2026-09-02 20:06:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Baltic Dry Index rose 5.51% to 3,331 points."
+    },
+    {
+      "id": "5073329",
+      "time": "2026-09-02 20:05:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.06%，納斯達克100指數期貨下跌0.13%。"
+    },
+    {
+      "id": "mkt:01a06202-2a6b-7118-845f-48708fcb6a8d",
+      "time": "2026-09-02 20:05:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "U.S. August ADP private payrolls due in 10 minutes."
+    },
+    {
+      "id": "5073328",
+      "time": "2026-09-02 20:04:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯期貨上漲，最新上漲0.24%。"
+    },
+    {
+      "id": "5073327",
+      "time": "2026-09-02 20:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國商務部長進一步指責加拿大“搞砸貿易協議”】美商務部長霍華德・盧特尼克進一步指責加拿大，雙方就究竟是誰在最後時刻搞砸貿易協議各執一詞。盧特尼克表示，距離達成協議的截止時間僅剩數小時之際，加拿大談判代表開始 “丟擲各種離譜訴求”，這份協議本可以避免特朗普對加拿大商品徵收 50% 關稅生效。他指出，談判破裂的週五，加拿大方面提出了中型及重型卡車相關訴求。盧特尼克稱：“我對加拿大一位部長問道：‘你們是存心要把談判搞崩嗎？’對方回覆我：‘我不便對此表態。’”“加拿大純粹出於政治原因毀掉了這次談判。” 他表示。盧特尼克同時也承認，美方或許也提出過部分臨時訴求。"
+    },
+    {
+      "id": "5073326",
+      "time": "2026-09-02 20:04:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2-30年期國債收益率均大幅走低，美國30年期國債收益率從日內高點下跌5個基點，現報5.25%。"
+    },
+    {
+      "id": "5073325",
+      "time": "2026-09-02 20:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾奎尼克斯攜手英偉達與Together AI，為企業加速人工智慧推理部署。"
+    },
+    {
+      "id": "5073324",
+      "time": "2026-09-02 20:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部發言人：當前天然氣儲存狀況較往年更為緊張，但今年冬季不會出現天然氣供應短缺風險。"
+    },
+    {
+      "id": "5073323",
+      "time": "2026-09-02 20:03:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪士尼再度收到互動數字公司（InterDigital）下達的第三份通用專利委員會（UPC）禁令。"
+    },
+    {
+      "id": "5073322",
+      "time": "2026-09-02 20:03:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數上漲 5.51%，報 3331 點。"
+    },
+    {
+      "id": "mkt:01a06200-653f-7118-845f-4203111479ff",
+      "time": "2026-09-02 20:03:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "German Economy Ministry spokesman said gas storage is tighter than in previous years but there is no risk of gas shortages this winter."
+    },
+    {
+      "id": "5073321",
+      "time": "2026-09-02 20:02:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國財長貝森特稱：美國核心通脹 “得到很好控制”】美國財政部長斯科特・貝森特表示：“總體來看，物價正在回落，核心通脹得到很好控制。”貝森特表示，美加之間的貿易局勢 “對美國物價幾乎沒有造成影響”。他補充稱，伊朗衝突，以及烏克蘭決意要破壞俄羅斯能源設施與精煉產品，正在給能源價格帶來上行壓力。"
+    },
+    {
+      "id": "mkt:01a061ff-62d1-7118-845f-3b2aa0c2e5ab",
+      "time": "2026-09-02 20:02:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry summoned the German ambassador."
+    },
+    {
+      "id": "5073320",
+      "time": "2026-09-02 20:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：俄羅斯召見德國大使。"
+    },
+    {
+      "id": "mkt:01a061fe-c2f6-7118-845f-336dbffb7e17",
+      "time": "2026-09-02 20:01:20",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: EUR/USD expected at 1.16 in three months, 1.17 in six months and 1.18 in one year; August survey: 1.15, 1.16 and 1.18 respectively."
+    },
+    {
+      "id": "5073319",
+      "time": "2026-09-02 20:01:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋燃氣電力公司（PG&E）預計2027年調整後核心每股收益為1.78‑1.82美元，市場預期1.80美元。"
+    },
+    {
+      "id": "5073318",
+      "time": "2026-09-02 20:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "MN8能源公司、谷歌與EOS能源企業將先進清潔能源解決方案引入西弗吉尼亞州。"
+    },
+    {
+      "id": "mkt:01a061fe-5e96-7118-845f-292d6b8a649a",
+      "time": "2026-09-02 20:00:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Reuters survey: Of 66 FX strategists, 34 say the dollar is more likely to fall short of expectations than to exceed them over the next three months."
+    },
+    {
+      "id": "5073317",
+      "time": "2026-09-02 20:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋燃氣電力公司（PG&E）仍計劃2027年在加州投入114億美元；公司舉措包含對旗下業務開展戰略評估。"
+    },
+    {
+      "id": "mkt:01a061fe-33fb-7118-845f-20836b5e1828",
+      "time": "2026-09-02 20:00:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened the Sept. 2 evening session down 2.33% at 936.66 yuan/gram; silver T+D opened up 0.36% at 15,675 yuan/kg."
+    },
+    {
+      "id": "mkt:01a061fd-e063-7118-845f-18ac8d3bd3e4",
+      "time": "2026-09-02 20:00:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent told Fox News that Iran's president and parliament speaker have publicly acknowledged severe economic distress. He said the Iranian currency has collapsed, inf has topped 100%, and the government is unable to pay military salaries. Bessent said the U.S. is imposing the \"toughest sanctions in history\" to comprehensively suppress the regime and warned it will cut Iran off from all economic and political ties and sanction any entities that do business with Tehran."
+    },
+    {
+      "id": "5073316",
+      "time": "2026-09-02 20:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋燃氣電力公司（PG&E）將推遲20億美元工程專案，因加州擱置火災相關法案。"
+    },
+    {
+      "id": "5073315",
+      "time": "2026-09-02 20:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西7月工業生產同比下降0.5%；預期下降0.3%。"
+    },
+    {
+      "id": "5073314",
+      "time": "2026-09-02 20:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲飼料生產商聯合會（FEFAC）表示，額外進口將使歐盟2026/27年度玉米進口總量突破2600萬噸，進口來源將以烏克蘭、美國和巴西為主。"
+    },
+    {
+      "id": "te:markets:580479",
+      "time": "2026-09-02 19:59:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Pullback — US equity futures were muted on Wednesday, holding declines from the week as tight financial conditions threatened the outlook of economic activity. Contracts for the S&P 500 and Dow were flat, while those for the Nasdaq 100 fell 0.7%. US and Iran continued to exchange strikes against each other and reports of hits on tankers near the Strait of Hormuz maintained risks on global energy supply. The inflationary impact of the war and a consequent rate hike by the Federal Reserve were magnified by soaring public deficits and higher corporate debt issuance, lifting sovereign yields across the curve. The tech sector remained under pressure with Marvell, Palantir, and Seagate, dropping more than 2% premarket. Also, Palo Alto Networks fell 2.5% despite beating earnings estimates. On the other hand, Dell soared nearly 10% after beating its earnings and raising its full year revenue guidance. Meanwhile, Nvidia was flat on advanced talks to acquire Hugging Face for $14 billion."
+    },
+    {
+      "id": "5073313",
+      "time": "2026-09-02 19:59:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報93.68美元/桶。"
+    },
+    {
+      "id": "mkt:01a061fd-035d-7118-845f-14757409cedd",
+      "time": "2026-09-02 19:59:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 futures erased earlier losses."
+    },
+    {
+      "id": "5073312",
+      "time": "2026-09-02 19:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟飼料生產商聯合會FEFAC表示，受乾旱影響，歐盟在2026/27年度將需要額外進口700萬噸玉米。"
+    },
+    {
+      "id": "5073311",
+      "time": "2026-09-02 19:58:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位於伊拉克北部埃爾比勒省的赫巴特電廠發生火災。"
+    },
+    {
+      "id": "5073310",
+      "time": "2026-09-02 19:58:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨抹去跌幅持平。"
+    },
+    {
+      "id": "5073309",
+      "time": "2026-09-02 19:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天元寵物：淘通89.7145%股份收購2026年9月9日審議】天元寵物公告，公司擬透過發行股份及支付現金方式購買廣州淘通科技股份有限公司89.7145%股份，並向不超過35名符合條件的特定物件發行股票募集配套資金。根據會議安排，深交所併購重組稽核委員會定於2026年9月9日召開2026年第14次審議會議，稽核本次交易事項。"
+    },
+    {
+      "id": "mkt:01a061fb-9bdf-7118-845f-0ab7efcf3800",
+      "time": "2026-09-02 19:57:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel continues strikes on southern Lebanon's Nebetiyeh region】Lebanese sources said on the 2nd Israeli forces carried out overnight air strikes and artillery fire across multiple sites in southern Lebanon's Nebetiyeh region, damaging houses and other facilities; no casualties reported. Israeli jets struck the town of Arabsalim at dawn, destroying one house and shattering windows in dozens of nearby residences and prompting local panic. Separately, an Israeli drone fired a missile at another residence in Nebetiyeh; the property owner is reported to head a local reconnaissance unit."
+    },
+    {
+      "id": "5073308",
+      "time": "2026-09-02 19:57:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信長星在鳳凰出版傳媒集團和省文投集團調研】9月2日，省委書記信長星到江蘇鳳凰出版傳媒集團、江蘇省文化投資管理集團調研。他強調，要深入學習貫徹習近平文化思想，增強文化自信，堅守主責主業，激發創新創造活力，更好地以文化賦能經濟社會發展，在文化強省建設中展現新擔當新作為。（微訊江蘇）"
+    },
     {
       "id": "5073307",
       "time": "2026-09-02 19:56:09",
