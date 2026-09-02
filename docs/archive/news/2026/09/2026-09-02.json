@@ -1,7 +1,100 @@
 {
   "date": "2026-09-02",
-  "count": 2871,
+  "count": 2881,
   "items": [
+    {
+      "id": "5073751",
+      "time": "2026-09-02 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.855%，投標倍數2.78。"
+    },
+    {
+      "id": "te:markets:580543",
+      "time": "2026-09-02 23:31:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds From One-Month Low as Dollar Retreats — Gold rose above $4,360 an ounce in afternoon trading Wednesday, recovering from a near one-month low touched earlier, as the USD and Treasury yields pulled back from recent highs, while investors await US payrolls data due Friday for further clues on the Federal Reserve’s policy path. Oil prices hit fresh six-week highs as traders weighed elevated supply risks from ongoing Middle East hostilities against signs that crude was still reaching the market. Meanwhile, the latest ADP report showed US private businesses added 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Markets now price in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool. Elsewhere, the Dutch central bank said it had transferred 86 metric tons of gold from New York and Ottawa to London over the past six months to improve tradability and strengthen crisis preparedness."
+    },
+    {
+      "id": "5073750",
+      "time": "2026-09-02 23:31:24",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.21%，歐洲斯托克指數下跌0.16%，歐元區藍籌股指數下跌0.09%。英國富時100指數下跌0.26%，德國DAX指數下跌0.49%，法國CAC 40指數下跌0.21%，西班牙IBEX指數下跌0.2%。"
+    },
+    {
+      "id": "mkt:01a062be-d3b3-7118-8468-4eec3dbfd094",
+      "time": "2026-09-02 23:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A German government spokesman said Chancellor Merz told Ukrainian President Zelenskiy in a phone call about a mixed attack on Leipzig Airport."
+    },
+    {
+      "id": "5073749",
+      "time": "2026-09-02 23:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人表示，德國總理默茨在通話中向烏克蘭總統澤連斯基通報了萊比錫機場遭遇混合襲擊一事。"
+    },
+    {
+      "id": "5073748",
+      "time": "2026-09-02 23:30:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE Vernova簽署協議，助力修復委內瑞拉電網；該協議項下專案將在未來六個月內落地。"
+    },
+    {
+      "id": "te:economy:580542",
+      "time": "2026-09-02 23:30:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 11 bps — Majority of government bonds yields are higher on Wednesday. Top losers are Brazil 10Y (-11bps). Gains are led by Germany 10Y (3.90bps), Japan 10Y (2.22bps) and US 10Y (0.80bps)."
+    },
+    {
+      "id": "mkt:01a062bd-ad8b-7118-8468-41b4ea20e553",
+      "time": "2026-09-02 23:29:52",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Denmarks Nationalbank intervenes again to defend euro peg】Danmarks Nationalbank intervened in FX markets for the second time since June to support the weak Danish krone, net buying DKK5.6bn ($870m) in August, its FX, liquidity and monthly balance sheet report said. The krone has slid to record lows versus the euro since the currency's 1999 launch, touching 7.4761 DKK per euro on Aug. 7. Continued exchange-rate pressure could force the central bank to raise borrowing costs, though several analysts say their baseline does not expect imminent rate action. Danmarks Nationalbank ordinarily follows ECB rate moves but could set policy independently if FX intervention proves insufficient to stabilise the currency."
+    },
+    {
+      "id": "5073747",
+      "time": "2026-09-02 23:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：就德國反俄舉動召見德國駐俄臨時代辦】俄羅斯外交部2日在社交媒體釋出訊息說，當天就德國政府1日的反俄舉動和言論召見德國駐俄臨時代辦。（新華社）"
+    },
+    {
+      "id": "5073746",
+      "time": "2026-09-02 23:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【代表預計OPEC+將維持10月產量政策不變】據兩位OPEC+代表透露，核心OPEC+成員在本週末的會議上可能堅持下個月原油產量配額保持不變的計劃。由沙特和俄羅斯牽頭的一個小組本月名義上完成了2023年暫停的產量恢復，儘管伊朗戰爭阻止了中東國家在現實中實施這些增產措施。"
+    },
     {
       "id": "mkt:01a062bd-1613-7118-8468-3bb008a5b2bf",
       "time": "2026-09-02 23:29:14",

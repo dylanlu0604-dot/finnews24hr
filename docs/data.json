@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-02 23:29:46",
-  "count": 11965,
+  "updated": "2026-09-02 23:33:45",
+  "count": 11963,
   "items": [
+    {
+      "id": "5073751",
+      "time": "2026-09-02 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.855%，投標倍數2.78。"
+    },
+    {
+      "id": "te:markets:580543",
+      "time": "2026-09-02 23:31:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds From One-Month Low as Dollar Retreats — Gold rose above $4,360 an ounce in afternoon trading Wednesday, recovering from a near one-month low touched earlier, as the USD and Treasury yields pulled back from recent highs, while investors await US payrolls data due Friday for further clues on the Federal Reserve’s policy path. Oil prices hit fresh six-week highs as traders weighed elevated supply risks from ongoing Middle East hostilities against signs that crude was still reaching the market. Meanwhile, the latest ADP report showed US private businesses added 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Markets now price in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool. Elsewhere, the Dutch central bank said it had transferred 86 metric tons of gold from New York and Ottawa to London over the past six months to improve tradability and strengthen crisis preparedness."
+    },
+    {
+      "id": "5073750",
+      "time": "2026-09-02 23:31:24",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.21%，歐洲斯托克指數下跌0.16%，歐元區藍籌股指數下跌0.09%。英國富時100指數下跌0.26%，德國DAX指數下跌0.49%，法國CAC 40指數下跌0.21%，西班牙IBEX指數下跌0.2%。"
+    },
+    {
+      "id": "mkt:01a062be-d3b3-7118-8468-4eec3dbfd094",
+      "time": "2026-09-02 23:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A German government spokesman said Chancellor Merz told Ukrainian President Zelenskiy in a phone call about a mixed attack on Leipzig Airport."
+    },
+    {
+      "id": "5073749",
+      "time": "2026-09-02 23:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人表示，德國總理默茨在通話中向烏克蘭總統澤連斯基通報了萊比錫機場遭遇混合襲擊一事。"
+    },
+    {
+      "id": "5073748",
+      "time": "2026-09-02 23:30:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE Vernova簽署協議，助力修復委內瑞拉電網；該協議項下專案將在未來六個月內落地。"
+    },
+    {
+      "id": "te:economy:580542",
+      "time": "2026-09-02 23:30:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 11 bps — Majority of government bonds yields are higher on Wednesday. Top losers are Brazil 10Y (-11bps). Gains are led by Germany 10Y (3.90bps), Japan 10Y (2.22bps) and US 10Y (0.80bps)."
+    },
+    {
+      "id": "mkt:01a062bd-ad8b-7118-8468-41b4ea20e553",
+      "time": "2026-09-02 23:29:52",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Denmarks Nationalbank intervenes again to defend euro peg】Danmarks Nationalbank intervened in FX markets for the second time since June to support the weak Danish krone, net buying DKK5.6bn ($870m) in August, its FX, liquidity and monthly balance sheet report said. The krone has slid to record lows versus the euro since the currency's 1999 launch, touching 7.4761 DKK per euro on Aug. 7. Continued exchange-rate pressure could force the central bank to raise borrowing costs, though several analysts say their baseline does not expect imminent rate action. Danmarks Nationalbank ordinarily follows ECB rate moves but could set policy independently if FX intervention proves insufficient to stabilise the currency."
+    },
+    {
+      "id": "5073747",
+      "time": "2026-09-02 23:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：就德國反俄舉動召見德國駐俄臨時代辦】俄羅斯外交部2日在社交媒體釋出訊息說，當天就德國政府1日的反俄舉動和言論召見德國駐俄臨時代辦。（新華社）"
+    },
+    {
+      "id": "5073746",
+      "time": "2026-09-02 23:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【代表預計OPEC+將維持10月產量政策不變】據兩位OPEC+代表透露，核心OPEC+成員在本週末的會議上可能堅持下個月原油產量配額保持不變的計劃。由沙特和俄羅斯牽頭的一個小組本月名義上完成了2023年暫停的產量恢復，儘管伊朗戰爭阻止了中東國家在現實中實施這些增產措施。"
+    },
     {
       "id": "mkt:01a062bd-1613-7118-8468-3bb008a5b2bf",
       "time": "2026-09-02 23:29:14",
@@ -110064,128 +110157,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, will attend a forum in ten minutes."
-    },
-    {
-      "id": "mkt:01a03eb4-2881-7aab-9133-930e84d2b538",
-      "time": "2026-08-26 23:33:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction Aug. 26 — allocation at the awarded yield 34.83% (prior 25.88%)."
-    },
-    {
-      "id": "mkt:01a03eb4-0d47-7aab-9133-8a11a557c745",
-      "time": "2026-08-26 23:33:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "U.S. 4-month Treasury auction Aug. 26: stop-out yield 3.75% (previous 3.75%)."
-    },
-    {
-      "id": "mkt:01a03eb3-e46d-7aab-9133-86ca29f57006",
-      "time": "2026-08-26 23:32:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.26) | actual 3.75% | previous 3.75%"
-    },
-    {
-      "id": "5060627",
-      "time": "2026-08-26 23:32:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.750%，投標倍數3.09。"
-    },
-    {
-      "id": "5060626",
-      "time": "2026-08-26 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣兩年期浮息國債（FRNS），貼現利率0.055%（7月29日為0.050%），投標倍數3.14。"
-    },
-    {
-      "id": "mkt:01a03eb3-9262-7aab-9133-792be596597b",
-      "time": "2026-08-26 23:32:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury auction Aug. 26 — bid-cover ratio 3.14, prior 3.35."
-    },
-    {
-      "id": "mkt:01a03eb3-733d-7aab-9133-76804d6e9ea4",
-      "time": "2026-08-26 23:32:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.26) | actual 3.14 | previous 3.35"
-    },
-    {
-      "id": "te:markets:578324",
-      "time": "2026-08-26 23:32:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Arabica Coffee Futures Lower — Arabica coffee futures eased toward $3.2 per pound, down from a recent one-month peak above $3.4 per pound, mainly due to profit-booking. Funds and investors took advantage of the recent advance to liquidate some of their long positions. Reports that some Brazilian warehouses are nearing capacity also pressured prices, as reduced storage space could force farmers to sell more beans. Nevertheless, the market continued to be supported by fundamentals considered positive, especially tight short-term availability and historically low certified stocks. In top producer Brazil, the harvest has gathered pace amid drier weather, though erratic conditions continue to raise concerns over next year’s crop. Fears of a strong El Niño also persisted, as the weather pattern could delay rainfall during the September-October flowering period."
-    },
-    {
-      "id": "mkt:01a03eb3-0fff-7aab-9133-6a691ca8b356",
-      "time": "2026-08-26 23:31:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikkei reports Terra Charge plans to operate a nationwide network of 2,500 NACS chargers in Japan by fiscal 2033."
-    },
-    {
-      "id": "mkt:01a03eb2-f30c-7aab-9133-6201efa4dfe7",
-      "time": "2026-08-26 23:31:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Nikkei, Terra Charge will roll out charging stations using the North American Charging Standard (NACS) in the fiscal year beginning April 2028."
-    },
-    {
-      "id": "mkt:01a03eb1-d86f-7aab-9133-5abe8306ec04",
-      "time": "2026-08-26 23:30:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Nikkei reports Japan's Terra Charge will roll out Tesla-compatible electric-vehicle charging stations."
-    },
-    {
-      "id": "5060625",
-      "time": "2026-08-26 23:30:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：片刻前，一艘名為 “ HAANA ” 的印度油輪試圖取道霍爾木茲海峽南部航線，即阿曼走廊，但在收到警告後被迫放棄通行。過去 24 小時內，霍爾木茲海峽南部航線未見船隻通行。"
     }
   ]
 }
