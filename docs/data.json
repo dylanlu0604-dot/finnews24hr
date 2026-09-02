@@ -1,7 +1,136 @@
 {
-  "updated": "2026-09-02 23:41:47",
-  "count": 11974,
+  "updated": "2026-09-02 23:45:46",
+  "count": 11986,
   "items": [
+    {
+      "id": "5073768",
+      "time": "2026-09-02 23:45:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Fairwind專案合作伙伴包括埃森哲、麥肯錫、帕洛阿爾託網路。"
+    },
+    {
+      "id": "te:markets:580549",
+      "time": "2026-09-02 23:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BlackRock Stock Price Hits 4-week Low — BlackRock shares decreased to 1120.00 USD, the lowest since August 2026. Over the past 4 weeks, BlackRock lost 0.46%, and in the last 12 months, it increased 2%."
+    },
+    {
+      "id": "te:markets:580548",
+      "time": "2026-09-02 23:44:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Gains on BoC Hike Bets — The Canadian dollar strengthened to 1.385 per USD after the Bank of Canada stressed that there are significant upside risks to inflation. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. It left the future path for monetary policy open, saying it would adjust policy as needed. Oil prices, a major Canadian export, remained elevated amid supply disruptions stemming from the escalating Middle East conflict. Rising energy costs continue to fuel inflationary pressures and hawkish expectations for central banks. Canadian government bond yields moved higher across the curve."
+    },
+    {
+      "id": "mkt:01a062cb-05f9-7118-8468-a28801c40c6b",
+      "time": "2026-09-02 23:44:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launched a network defense program targeting partners and government agencies."
+    },
+    {
+      "id": "5073767",
+      "time": "2026-09-02 23:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "新澤西州提請美國最高法院裁定：各州是否有權對Kalshi及其他預測市場平臺上的體育博彩業務實施監管。"
+    },
+    {
+      "id": "mkt:01a062ca-94ce-7118-8468-98745ac2d77f",
+      "time": "2026-09-02 23:43:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) launched GEMINI 3.8 Flash inference model."
+    },
+    {
+      "id": "5073766",
+      "time": "2026-09-02 23:43:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Google Gemini：最新的Gemini 3.8 Flash模型今日起面向Pro及Ultra使用者開放。Gemini 3.8 Flash效能進一步增強，能夠輸出更可靠、更全面的回覆，既可針對日常話題給出可落地的建議，也可勝任文字分析、複雜程式設計等深度任務。"
+    },
+    {
+      "id": "5073765",
+      "time": "2026-09-02 23:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出Fairwind網路防禦專案。"
+    },
+    {
+      "id": "5073764",
+      "time": "2026-09-02 23:42:50",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "雪佛龍、埃尼執行長將在委內瑞拉首都加拉加斯簽署能源協議。"
+    },
+    {
+      "id": "5073763",
+      "time": "2026-09-02 23:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：烏克蘭對俄羅斯能源設施及精煉產品發動的打擊，加之伊朗戰事，正對全球能源價格形成上行壓力。"
+    },
+    {
+      "id": "mkt:01a062c9-1f6f-7118-8468-910dc8edb530",
+      "time": "2026-09-02 23:42:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N"
+      ],
+      "text": "Chevron (CVX.N) CEO met with Venezuela's interim president Rodriguez."
+    },
+    {
+      "id": "5073762",
+      "time": "2026-09-02 23:41:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍執行長邁克·沃思會見委內瑞拉代總統羅德里格斯。"
+    },
+    {
+      "id": "5073761",
+      "time": "2026-09-02 23:41:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "阿波羅全球管理首席經濟學家Torsten Slok表示，美國國債收益率可能在伊朗戰爭和關稅推動下繼續走高，這種上行壓力與財政狀況關係不大。"
+    },
     {
       "id": "5073760",
       "time": "2026-09-02 23:39:54",
@@ -110252,14 +110381,6 @@
         "國際"
       ],
       "text": "三位訊息人士稱，俄羅斯諾爾西煉油廠在 8 月 26 日遭遇無人機襲擊後已停止原油加工。"
-    },
-    {
-      "id": "5060630",
-      "time": "2026-08-26 23:45:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "法官暫停 Meta 相關案件審理，表示她 “傾向於” 批准該項交易，但需要更多時間開展審查。"
     }
   ]
 }
