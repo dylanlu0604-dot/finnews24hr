@@ -1,7 +1,100 @@
 {
   "date": "2026-09-03",
-  "count": 10,
+  "count": 21,
   "items": [
+    {
+      "id": "mkt:01a062dd-11db-7118-8468-f07723bf6f2c",
+      "time": "2026-09-03 00:04:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: Russian corporate profits fell 13.3% YoY in January–June to 11.7 tln rubles."
+    },
+    {
+      "id": "5073794",
+      "time": "2026-09-03 00:03:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯統計局表示，今年1-6月俄羅斯企業利潤同比下降13.3%，至11.7萬億盧布。"
+    },
+    {
+      "id": "mkt:01a062db-3976-7118-8468-ed4969d1422a",
+      "time": "2026-09-03 00:02:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russia's retail sales rose 5.3% YoY in July."
+    },
+    {
+      "id": "5073793",
+      "time": "2026-09-03 00:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局公佈：7月失業率為2.3%。"
+    },
+    {
+      "id": "5073792",
+      "time": "2026-09-03 00:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局資料顯示，7月俄羅斯零售額同比增長5.3%。"
+    },
+    {
+      "id": "mkt:01a062da-db1b-7118-8468-e3d0e8d2bbca",
+      "time": "2026-09-03 00:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russia's unemployment rate was 2.3% in July."
+    },
+    {
+      "id": "5073791",
+      "time": "2026-09-03 00:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局公佈資料顯示，6月俄羅斯實際工資同比增長3.4%。"
+    },
+    {
+      "id": "mkt:01a062da-be2b-7118-8468-df88896d1b7a",
+      "time": "2026-09-03 00:01:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's economy ministry said July GDP rose 0.6% YoY; June was revised up to +1.7% YoY from a preliminary +1.1%."
+    },
+    {
+      "id": "5073790",
+      "time": "2026-09-03 00:01:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯經濟部：俄羅斯7月國內生產總值同比增長0.6%，前一個月經修正後同比增長1.7%（6月最初預估為同比增長1.1%）。"
+    },
+    {
+      "id": "5073789",
+      "time": "2026-09-03 00:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯經濟部：1-7月俄羅斯國內生產總值同比增長0.6%。"
+    },
+    {
+      "id": "te:markets:580556",
+      "time": "2026-09-03 00:01:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Slides to Two-Week Low on Risk Aversion — The British pound fell to $1.35, hovering near a two-week low, as investors moved away from riskier assets amid concerns over the economic impact of the energy shock triggered by renewed hostilities in the Middle East. Meanwhile, investors digested Prime Minister Andy Burnham’s speech to the House of Commons, in which he reaffirmed the government’s commitment to fiscal responsibility and reducing debt, while saying the early budget date was intended to curb speculation. Chancellor John Healey is expected to deliver his first major speech in the role as soon as next week. Markets continue to price in a 25-basis-point BoE rate hike by year-end, with expectations reinforced by accelerating UK shop-price inflation. In the US, markets are pricing in a 66% probability of a September Fed hike following hawkish remarks from Fed Chair Kevin Warsh and higher oil prices."
+    },
     {
       "id": "mkt:01a062da-56ab-7118-8468-d73eff39b452",
       "time": "2026-09-03 00:01:11",
