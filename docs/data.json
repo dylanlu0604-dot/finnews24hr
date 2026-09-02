@@ -1,7 +1,147 @@
 {
-  "updated": "2026-09-02 07:58:18",
-  "count": 12710,
+  "updated": "2026-09-02 08:02:11",
+  "count": 12715,
   "items": [
+    {
+      "id": "5071869",
+      "time": "2026-09-02 08:00:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。海力士股價下跌3%。"
+    },
+    {
+      "id": "5071868",
+      "time": "2026-09-02 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.1%，至6625.47點。"
+    },
+    {
+      "id": "mkt:01a05f6a-ad52-7118-8449-e1217a75b84f",
+      "time": "2026-09-02 08:00:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "G20 presidency said the global economy has remained resilient in the face of multiple shocks."
+    },
+    {
+      "id": "5071867",
+      "time": "2026-09-02 08:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報65195.43點，跌幅1.54％。韓國綜合股價指數（KOSPI）開盤下跌3.1％，至6625.47點。"
+    },
+    {
+      "id": "te:economy:580217",
+      "time": "2026-09-02 08:00:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 15-year High — Australia 10 Year Government Bond Yield increased to 5.19%, the highest since July 2011. Over the past 4 weeks, Australia 10Y Bond Yield gained 21.40 basis points, and in the last 12 months, it increased 83.20 basis points."
+    },
+    {
+      "id": "mkt:01a05f6a-6eff-7118-8449-dfb3dca3431e",
+      "time": "2026-09-02 08:00:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "G20 presidency said it is concerned about ongoing disruptions to energy trade."
+    },
+    {
+      "id": "5071866",
+      "time": "2026-09-02 07:59:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.0個基點，至3.000%。"
+    },
+    {
+      "id": "5071865",
+      "time": "2026-09-02 07:59:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1316.00美元/盎司。"
+    },
+    {
+      "id": "mkt:01a05f69-fab4-7118-8449-d3faec76ea32",
+      "time": "2026-09-02 07:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda declined to comment on daily market moves or the widespread market expectation that a Sept rate hike is quite likely."
+    },
+    {
+      "id": "mkt:01a05f69-68ec-7118-8449-c8881158bd89",
+      "time": "2026-09-02 07:58:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's deputy foreign minister Grushko said there is no reason to restore the Black Sea Grain Initiative."
+    },
+    {
+      "id": "mkt:01a05f69-541d-7118-8449-c2270808e974",
+      "time": "2026-09-02 07:58:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "G20 presidency statement commits to advancing responsible, effective regulatory and supervisory frameworks to safeguard financial stability, support economic growth and establish clear pathways for healthy digital finance and digital asset innovation."
+    },
+    {
+      "id": "mkt:01a05f69-1fde-7118-8449-bc0c695f1407",
+      "time": "2026-09-02 07:58:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said US Treasury Secretary Bessent has, since October last year, said a different approach would be required if Japan's deflation situation changes."
+    },
+    {
+      "id": "5071864",
+      "time": "2026-09-02 07:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林官方表示，其防空系統在巴林王國領空攔截並摧毀了伊朗無人機。"
+    },
+    {
+      "id": "5071863",
+      "time": "2026-09-02 07:57:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：穩定價格走勢在2%左右至關重要。"
+    },
     {
       "id": "5071862",
       "time": "2026-09-02 07:57:25",
@@ -116404,85 +116544,6 @@
         "國際"
       ],
       "text": "【加拿大居民赴美旅行收縮，海外多國迎來加拿大遊客】加拿大統計局釋出《2026年第一季度全國旅遊及遊客旅遊調查報告》，資料顯示，一季度加拿大居民境內外總出行7870萬人次，同比上漲1.5%；入境遊客合計450萬人次，同比增長3.5%。前往美國出行550萬人次，同比大跌10.6%，其中37.5%為當日往返。赴美總支出50億加元，同比下滑13.6%。（新華財經）"
-    },
-    {
-      "id": "mkt:01a03b5f-87d8-7aab-911c-2534bd129e5b",
-      "time": "2026-08-26 08:01:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 342.29 points (-0.52%) at 65,514.14 on Aug 26 (Wed)."
-    },
-    {
-      "id": "mkt:01a03b5f-69c2-7aab-911c-1835603b76f2",
-      "time": "2026-08-26 08:01:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI opened down 12.32 points, or 0.18%, at 6,730.42 on Wednesday, Aug. 26. Samsung Electronics and SK Hynix each slipped less than 1%."
-    },
-    {
-      "id": "5058631",
-      "time": "2026-08-26 08:00:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.2%，至6727.25點。"
-    },
-    {
-      "id": "5058629",
-      "time": "2026-08-26 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65604.49點，跌幅0.38%。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608263853727683",
-      "time": "2026-08-26 08:00:16",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【調查：過半經濟學家預計明年一季度日本央行將上調利率到至少1.50%】據路透調查，超過半數的經濟學家預計日本央行將在2027年第一季度將利率提高至至少1.50%（上次調查為1.25%）。"
-    },
-    {
-      "id": "5058628",
-      "time": "2026-08-26 08:00:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報85.82美元/桶。"
-    },
-    {
-      "id": "5058627",
-      "time": "2026-08-26 07:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：特朗普已將美沙核協議提交國會審議】據美國《華爾街日報》25日報道，一名美政府官員表示，美國總統特朗普已將美國與沙烏地阿拉伯7月達成的核協議提交國會審議。該官員同時強調，特朗普仍堅持此前提出的前提條件，即要求沙特與以色列實現關係正常化。報道說，此舉預計將在國會議員中引發為期數月的激烈辯論，議題將圍繞如何在促進美國核工業發展的同時，遏制大規模殺傷性武器在中東地區擴散。（新華社）"
-    },
-    {
-      "id": "mkt:01a03b5d-4b1f-7aab-911c-16c93abfae62",
-      "time": "2026-08-26 07:59:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's Future Fund said Raphael Arndt will resign but will remain chief executive until the end of 2026."
-    },
-    {
-      "id": "5058626",
-      "time": "2026-08-26 07:59:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上半年PVC行業走勢低迷 相關公司業績分化】在煤炭、原油等上游原料價格高位波動的背景下，國內PVC（聚氯乙烯）市場近期呈現底部走強的執行態勢。今年上半年，PVC行業走勢低迷，相關公司業績分化。業內普遍認為，成本端抬升為PVC價格提供了底部支撐，但高庫存與弱需求的現實約束仍存，市場短期難以擺脫震盪築底態勢。PVC是全球產量最大的通用塑膠之一，被廣泛應用於建築、電力、包材及醫療器械等領域。其中，房地產及基建相關的管材、型材需求約佔PVC總消費量的六成以上，使其成為觀察國內地產及基建景氣度的重要風向標。近年來，國內PVC行業正經歷一輪結構性收縮。"
     }
   ]
 }

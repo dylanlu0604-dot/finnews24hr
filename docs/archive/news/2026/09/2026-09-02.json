@@ -1,7 +1,147 @@
 {
   "date": "2026-09-02",
-  "count": 801,
+  "count": 815,
   "items": [
+    {
+      "id": "5071869",
+      "time": "2026-09-02 08:00:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。海力士股價下跌3%。"
+    },
+    {
+      "id": "5071868",
+      "time": "2026-09-02 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.1%，至6625.47點。"
+    },
+    {
+      "id": "mkt:01a05f6a-ad52-7118-8449-e1217a75b84f",
+      "time": "2026-09-02 08:00:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "G20 presidency said the global economy has remained resilient in the face of multiple shocks."
+    },
+    {
+      "id": "5071867",
+      "time": "2026-09-02 08:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報65195.43點，跌幅1.54％。韓國綜合股價指數（KOSPI）開盤下跌3.1％，至6625.47點。"
+    },
+    {
+      "id": "te:economy:580217",
+      "time": "2026-09-02 08:00:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 15-year High — Australia 10 Year Government Bond Yield increased to 5.19%, the highest since July 2011. Over the past 4 weeks, Australia 10Y Bond Yield gained 21.40 basis points, and in the last 12 months, it increased 83.20 basis points."
+    },
+    {
+      "id": "mkt:01a05f6a-6eff-7118-8449-dfb3dca3431e",
+      "time": "2026-09-02 08:00:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "G20 presidency said it is concerned about ongoing disruptions to energy trade."
+    },
+    {
+      "id": "5071866",
+      "time": "2026-09-02 07:59:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.0個基點，至3.000%。"
+    },
+    {
+      "id": "5071865",
+      "time": "2026-09-02 07:59:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1316.00美元/盎司。"
+    },
+    {
+      "id": "mkt:01a05f69-fab4-7118-8449-d3faec76ea32",
+      "time": "2026-09-02 07:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda declined to comment on daily market moves or the widespread market expectation that a Sept rate hike is quite likely."
+    },
+    {
+      "id": "mkt:01a05f69-68ec-7118-8449-c8881158bd89",
+      "time": "2026-09-02 07:58:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's deputy foreign minister Grushko said there is no reason to restore the Black Sea Grain Initiative."
+    },
+    {
+      "id": "mkt:01a05f69-541d-7118-8449-c2270808e974",
+      "time": "2026-09-02 07:58:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "G20 presidency statement commits to advancing responsible, effective regulatory and supervisory frameworks to safeguard financial stability, support economic growth and establish clear pathways for healthy digital finance and digital asset innovation."
+    },
+    {
+      "id": "mkt:01a05f69-1fde-7118-8449-bc0c695f1407",
+      "time": "2026-09-02 07:58:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said US Treasury Secretary Bessent has, since October last year, said a different approach would be required if Japan's deflation situation changes."
+    },
+    {
+      "id": "5071864",
+      "time": "2026-09-02 07:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林官方表示，其防空系統在巴林王國領空攔截並摧毀了伊朗無人機。"
+    },
+    {
+      "id": "5071863",
+      "time": "2026-09-02 07:57:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：穩定價格走勢在2%左右至關重要。"
+    },
     {
       "id": "5071862",
       "time": "2026-09-02 07:57:25",
