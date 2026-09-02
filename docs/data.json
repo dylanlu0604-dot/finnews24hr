@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-02 23:45:46",
+  "updated": "2026-09-02 23:49:44",
   "count": 11986,
   "items": [
+    {
+      "id": "5073772",
+      "time": "2026-09-02 23:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及古巴：古巴如今就是一個失敗國家，但這並非我們造成的。有人說根源在我們，事實並非如此。"
+    },
+    {
+      "id": "5073771",
+      "time": "2026-09-02 23:47:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛公司將華友鈷業評級上調至中性，目標價42元人民幣。"
+    },
+    {
+      "id": "5073770",
+      "time": "2026-09-02 23:47:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所1月期鋅參考收盤價為每噸3941美元。"
+    },
+    {
+      "id": "5073769",
+      "time": "2026-09-02 23:45:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Fairwind專案僅限政府機構及可信合作伙伴參與。"
+    },
     {
       "id": "5073768",
       "time": "2026-09-02 23:45:08",
@@ -110337,50 +110370,6 @@
         "WTI"
       ],
       "text": "Market sources report Putin plans to escalate the situation in Ukraine and believes negotiations have produced no results."
-    },
-    {
-      "id": "5060632",
-      "time": "2026-08-26 23:48:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【英債收益率至少漲3個基點】週三（8月26日）歐市尾盤，英國10年期國債收益率漲3.3個基點，報5.020%，北京時間20:30釋出美聯儲青睞的PCE通脹資料以來顯著走高。兩年期英債收益率漲3.0個基點，報4.343%。30年期英債收益率漲3.7個基點，50年期英債收益率漲4.0個基點。2/10年期英債收益率利差漲0.126個基點，報+67.631個基點。"
-    },
-    {
-      "id": "mkt:01a03ec1-12d0-7aab-9133-cb08fbdd2b85",
-      "time": "2026-08-26 23:47:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Three sources said Russia's Noersi refinery halted crude processing after a drone strike on Aug. 26."
-    },
-    {
-      "id": "mkt:01a03ec0-93bd-7aab-9133-c34be521ebd1",
-      "time": "2026-08-26 23:46:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Kpler: Offshore Iranian oil could fund 5–6 months of export revenue】Kpler data show Iran holds more than 80 million barrels of oil outside the blockade zone, most already booked, which could provide Tehran with roughly 5–6 months of export revenue; after that, oil export income would disappear. The finding aligns with Central Bank Governor Abdolnaser Hemmati’s comment that oil exports have \"almost stopped\"."
-    },
-    {
-      "id": "5060631",
-      "time": "2026-08-26 23:46:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "三位訊息人士稱，俄羅斯諾爾西煉油廠在 8 月 26 日遭遇無人機襲擊後已停止原油加工。"
     }
   ]
 }
