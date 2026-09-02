@@ -1,7 +1,27 @@
 {
   "date": "2026-09-02",
-  "count": 2922,
+  "count": 2924,
   "items": [
+    {
+      "id": "5073777",
+      "time": "2026-09-02 23:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "受行業整合浪潮推動，ONEOK以逾44億美元收購Brazos Midstream位於二疊紀盆地的天然氣設施。"
+    },
+    {
+      "id": "te:markets:580550",
+      "time": "2026-09-02 23:54:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Extends Losses as Oil Prices Rise — London’s FTSE 100 extended the previous session’s losses, falling 0.3% to 10,760 on Wednesday and reaching its lowest level in two weeks. The decline came even as gilt losses eased following Prime Minister Andy Burnham’s efforts to reassure markets that the government remains committed to fiscal discipline. Yields, however, remain elevated, as oil prices continued to climb amid escalating conflict in the Middle East. Experian, Reckitt Benckiser and London Stock Exchange Group were among the biggest drags, falling 2.9% to 2.4%. In contrast, miners Endeavour, Fresnillo, Antofagasta and Anglo American surged on higher metal prices, while InterContinental Hotels and Standard Chartered gained almost 2% each. In corporate news, BP appointed Ian Tyler as chair following the surprise departure of Albert Manifold earlier this year. Meanwhile, Ryanair cut its full-year 2027 traffic outlook and warned that European short-haul fares could rise “materially” if elevated oil prices persist."
+    },
     {
       "id": "mkt:01a062d2-7ecc-7118-8468-b7c3cf889f4f",
       "time": "2026-09-02 23:52:37",
