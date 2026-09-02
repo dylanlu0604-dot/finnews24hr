@@ -1,7 +1,30 @@
 {
-  "updated": "2026-09-03 06:06:38",
-  "count": 11977,
+  "updated": "2026-09-03 06:10:53",
+  "count": 11979,
   "items": [
+    {
+      "id": "5074055",
+      "time": "2026-09-03 06:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：肖恩・帕內爾（Sean Parnell）成為美國陸軍部長的頭號候選人。"
+    },
+    {
+      "id": "mkt:01a0642a-04ce-7118-846f-26e5bc9960d8",
+      "time": "2026-09-03 06:07:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Japanese firms consider selling strategic holdings to offset surge in financing costs】A survey of 30 Japanese non-financial companies shows firms are considering selling strategic shareholdings and other assets to offset the highest financing costs in a generation. Respondents also cited plans to increase overseas borrowing and to bring forward financing. Rising funding costs have begun to curb investment decisions; Toyota and Tohoku Electric say refinancing yen‑denominated bonds could raise their annual interest expense by more than 30%."
+    },
     {
       "id": "mkt:01a06426-39a3-7118-846f-1b139fcad2f2",
       "time": "2026-09-03 06:03:41",
