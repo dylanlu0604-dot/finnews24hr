@@ -1,7 +1,86 @@
 {
   "date": "2026-09-02",
-  "count": 1786,
+  "count": 1795,
   "items": [
+    {
+      "id": "5072517",
+      "time": "2026-09-02 14:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長巴羅：呼籲歐盟設立任務支助巴勒斯坦選舉。"
+    },
+    {
+      "id": "mkt:01a060e9-0bfa-7118-8454-e1be57dfcbe3",
+      "time": "2026-09-02 14:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said it is positive about all parties returning to the negotiating table."
+    },
+    {
+      "id": "mkt:01a060e8-f6f8-7118-8454-d999c60415c4",
+      "time": "2026-09-02 14:57:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Pakistan's foreign ministry said the country's army chief visited Tehran, generating substantial momentum on the Strait of Hormuz issue."
+    },
+    {
+      "id": "5072516",
+      "time": "2026-09-02 14:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國基準股指<THB=TH>跌幅一度達0.9%，至1574.47點，為7月初以來最低水平。"
+    },
+    {
+      "id": "5072515",
+      "time": "2026-09-02 14:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【酷哇開源自適應世界模型架構RISE】9月2日，酷哇科技於近期釋出並開源世界模型框架RISE（Refining Imagination through SElective Rollout）。該架構利用推演門控機制，摒棄了傳統固定算力的推演模式，可根據場景複雜度動態調節計算資源。測試顯示，RISE平均推理延遲壓縮至287ms。"
+    },
+    {
+      "id": "5072514",
+      "time": "2026-09-02 14:57:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光線傳媒等成立文化科技公司 含動漫遊戲開發業務】企查查APP顯示，近日，北京大而婉文化科技有限公司成立，法定代表人為孫永煥，經營範圍包含電影攝製服務；電視劇製作；電影製片；動漫遊戲開發；電子產品銷售；服裝服飾零售；網際網路遊戲服務等。企查查股權穿透顯示，該公司由光線傳媒全資子公司北京光線影業有限公司、辛穎宗共同持股。"
+    },
+    {
+      "id": "te:markets:580350",
+      "time": "2026-09-02 14:56:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop as Bond Yields, Oil Prices Weigh — The Nikkei 225 Index dropped 2.85% to close at 64,325 on Wednesday, hitting four-week lows as surging global bond yields and oil prices weighed heavily on equities. Oil prices climbed for a third consecutive session amid escalating hostilities between the US and Iran, heightening inflationary risks and pushing global bond yields higher. Japan’s 10-year government bond yield reached 3% for the first time since 1996, also supported by growing expectations for a Bank of Japan interest rate hike. Governor Kazuo Ueda said this week that policymakers need to pay greater attention to upside price risks when conducting monetary policy, signaling that a rate increase is likely later this month. Tech and AI-related stocks led the decline, with notable losses from Advantest (-2.5%), Fujikura (-3.9%), Taiyo Yuden (-4.6%), Tokyo Electron (-3.4%) and SoftBank Group (-6.4%). Financial, consumer and industrial stocks also recorded sharp declines."
+    },
+    {
+      "id": "5072513",
+      "time": "2026-09-02 14:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部就美伊局勢升級表態：我們仍相信各方會重返談判桌進行對話。"
+    },
+    {
+      "id": "5072512",
+      "time": "2026-09-02 14:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“沙德爾”影響 華東華南強降雨持續】受颱風“沙德爾”、季風氣流等共同影響，未來三天（9月2日至4日），華東、華南多地將現持續強降雨天氣。福建、廣東等地雨勢猛烈，需警惕疊加效應，防範可能引發的山體滑坡、泥石流等次生災害。中央氣象臺今日繼續釋出颱風藍色預警和暴雨黃色預警。（央視新聞）"
+    },
     {
       "id": "mkt:01a060e6-671b-7118-8454-d305b3cacfd0",
       "time": "2026-09-02 14:55:07",

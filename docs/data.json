@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-02 14:55:43",
-  "count": 12802,
+  "updated": "2026-09-02 14:59:43",
+  "count": 12804,
   "items": [
+    {
+      "id": "5072517",
+      "time": "2026-09-02 14:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長巴羅：呼籲歐盟設立任務支助巴勒斯坦選舉。"
+    },
+    {
+      "id": "mkt:01a060e9-0bfa-7118-8454-e1be57dfcbe3",
+      "time": "2026-09-02 14:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said it is positive about all parties returning to the negotiating table."
+    },
+    {
+      "id": "mkt:01a060e8-f6f8-7118-8454-d999c60415c4",
+      "time": "2026-09-02 14:57:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Pakistan's foreign ministry said the country's army chief visited Tehran, generating substantial momentum on the Strait of Hormuz issue."
+    },
+    {
+      "id": "5072516",
+      "time": "2026-09-02 14:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國基準股指<THB=TH>跌幅一度達0.9%，至1574.47點，為7月初以來最低水平。"
+    },
+    {
+      "id": "5072515",
+      "time": "2026-09-02 14:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【酷哇開源自適應世界模型架構RISE】9月2日，酷哇科技於近期釋出並開源世界模型框架RISE（Refining Imagination through SElective Rollout）。該架構利用推演門控機制，摒棄了傳統固定算力的推演模式，可根據場景複雜度動態調節計算資源。測試顯示，RISE平均推理延遲壓縮至287ms。"
+    },
+    {
+      "id": "5072514",
+      "time": "2026-09-02 14:57:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光線傳媒等成立文化科技公司 含動漫遊戲開發業務】企查查APP顯示，近日，北京大而婉文化科技有限公司成立，法定代表人為孫永煥，經營範圍包含電影攝製服務；電視劇製作；電影製片；動漫遊戲開發；電子產品銷售；服裝服飾零售；網際網路遊戲服務等。企查查股權穿透顯示，該公司由光線傳媒全資子公司北京光線影業有限公司、辛穎宗共同持股。"
+    },
+    {
+      "id": "te:markets:580350",
+      "time": "2026-09-02 14:56:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop as Bond Yields, Oil Prices Weigh — The Nikkei 225 Index dropped 2.85% to close at 64,325 on Wednesday, hitting four-week lows as surging global bond yields and oil prices weighed heavily on equities. Oil prices climbed for a third consecutive session amid escalating hostilities between the US and Iran, heightening inflationary risks and pushing global bond yields higher. Japan’s 10-year government bond yield reached 3% for the first time since 1996, also supported by growing expectations for a Bank of Japan interest rate hike. Governor Kazuo Ueda said this week that policymakers need to pay greater attention to upside price risks when conducting monetary policy, signaling that a rate increase is likely later this month. Tech and AI-related stocks led the decline, with notable losses from Advantest (-2.5%), Fujikura (-3.9%), Taiyo Yuden (-4.6%), Tokyo Electron (-3.4%) and SoftBank Group (-6.4%). Financial, consumer and industrial stocks also recorded sharp declines."
+    },
+    {
+      "id": "5072513",
+      "time": "2026-09-02 14:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部就美伊局勢升級表態：我們仍相信各方會重返談判桌進行對話。"
+    },
+    {
+      "id": "5072512",
+      "time": "2026-09-02 14:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“沙德爾”影響 華東華南強降雨持續】受颱風“沙德爾”、季風氣流等共同影響，未來三天（9月2日至4日），華東、華南多地將現持續強降雨天氣。福建、廣東等地雨勢猛烈，需警惕疊加效應，防範可能引發的山體滑坡、泥石流等次生災害。中央氣象臺今日繼續釋出颱風藍色預警和暴雨黃色預警。（央視新聞）"
+    },
     {
       "id": "mkt:01a060e6-671b-7118-8454-d305b3cacfd0",
       "time": "2026-09-02 14:55:07",
@@ -117297,63 +117376,6 @@
         "國際"
       ],
       "text": "【巴克萊：資料中心無休止建設正惹惱美國選民 AI交易或面臨政治風險】巴克萊銀行股票戰術策略團隊表示，越來越多的華爾街策略師警告稱，市場可能忽視了與11月大選相關的人工智慧行業風險。 包括Jenny Yang和Alex Altmann在內的策略師在致客戶的一份報告中寫道，“資料中心的建設正使人工智慧從一個抽象的技術話題，轉變為一個切實影響生活成本的問題，使對於那些直接接觸人工智慧程度有限的選民而言，更高的電費、供水壓力以及社群內工業設施的興建，都使得這一問題變得極為重要。”"
-    },
-    {
-      "id": "mkt:01a03cdc-88ba-7aab-9124-f55e5f404112",
-      "time": "2026-08-26 14:58:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangdong bonded zones' Jan–Jul trade tops 1.05 trln yuan, up 32.3% YoY】Guangdong Customs said Jan–Jul imports and exports from the province's comprehensive bonded zones (including cross-border industrial zones and bonded areas) reached 1.05 trln yuan, up 32.3% YoY, a record for the period and crossing the 1 trln yuan mark two months earlier than last year. With provincial monthly foreign trade exceeding 1 trln yuan for two months, bonded zones contributed 23.3% to Guangdong's foreign trade growth in the first seven months."
-    },
-    {
-      "id": "5059209",
-      "time": "2026-08-26 14:57:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我駐尼泊爾大使館提醒在尼中國公民和機構加強安全防範】據中國駐尼泊爾大使館26日釋出的訊息，尼泊爾時間當天9時許，該國北部中尼邊境熱索瓦地區暴發山洪。中國駐尼泊爾大使館立即啟動應急機制，第一時間瞭解受災地區中國公民和企業涉險情況，督促尼泊爾政府和相關機構全力援救。中國駐尼泊爾大使館提醒在尼泊爾中國公民和機構：一、及時檢視氣象預報和各類預警資訊。二、關注實時路況，注意出行安全，選擇安全可靠的交通工具和路線，儘量避開山區河谷、江河沿岸、低窪易澇等地質災害高發區域。三、切勿主動涉險，非必要不進山、不涉水、不前往偏僻、通訊設施不完善區域。四、時刻繃緊安全生產這根弦。提高風險防範意識，加強監測預報預警，深入排查整治各類風險隱患。切實加強安全生產監督管理，鞏固施工作業安全防護措施，堅決防範避免重特大安全事故。提前做好防災物資準備，提高救災應對能力，切實保障人身與財產安全。五、如突遇災害，全力保持聯絡通暢，遵從當地官方指引及時轉移避險，注意防範次生災害。"
-    },
-    {
-      "id": "mkt:01a03cdb-b35a-7aab-9124-e907406994a4",
-      "time": "2026-08-26 14:57:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CAAC deputy meets Airbus commercial aircraft EVP in Beijing】China Civil Aviation Administration deputy director Hu Zhenjiang met in Beijing with Airbus Group’s head of technology and executive vice‑president for commercial aircraft. They discussed Airbus’s business development in China and measures to deepen cooperation on aviation safety, aircraft airworthiness and maintenance support capabilities."
-    },
-    {
-      "id": "5059208",
-      "time": "2026-08-26 14:57:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【胡振江會見空客民機執行副總裁】中國民用航空局副局長鬍振江在京會見空客集團技術負責人兼民機執行副總裁邁拉德，雙方就空客在華業務發展及進一步加強航空安全、航空器適航及維修保障能力等方面合作交換意見。（中國民航局）"
-    },
-    {
-      "id": "5059207",
-      "time": "2026-08-26 14:56:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數上漲1%，報1809.37點。"
-    },
-    {
-      "id": "mkt:01a03cda-a5fc-7aab-9124-e6ce6d59f28f",
-      "time": "2026-08-26 14:55:57",
-      "tags": [
-        "MKT News",
-        "005380.KS"
-      ],
-      "text": "Hyundai Motor expects production of Atlas humanoid robots will not have a material impact on profits in 2030."
-    },
-    {
-      "id": "5059206",
-      "time": "2026-08-26 14:55:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【前7個月廣東綜保區外貿進出口突破萬億元，增長超三成】記者從海關總署廣東分署瞭解到，今年前7個月廣東省內綜合保稅區（含跨境工業區、保稅區）進出口1.05萬億元，同比增長32.3%，創歷史同期新高，比上年度提前2個月突破萬億元關口。在廣東外貿連續兩月單月突破萬億元的同時，全省綜保區繼續發揮拉動作用，今年前7個月對廣東外貿增長貢獻率達23.3%。（21財經）"
     }
   ]
 }
