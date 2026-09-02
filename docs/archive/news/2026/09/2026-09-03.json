@@ -1,7 +1,50 @@
 {
   "date": "2026-09-03",
-  "count": 476,
+  "count": 481,
   "items": [
+    {
+      "id": "5074070",
+      "time": "2026-09-03 06:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：豐田將把美國產電動漢蘭達 SUV 的上市時間從 2026 年下半年推遲至 2027 年或更晚。"
+    },
+    {
+      "id": "5074069",
+      "time": "2026-09-03 06:46:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "有關官員稱，俄羅斯空襲損毀了烏克蘭敖德薩的一棟多層居民樓。"
+    },
+    {
+      "id": "5074068",
+      "time": "2026-09-03 06:46:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭第二季度經季節性調整出口量環比增長 6.4%，紐西蘭第二季度經季節性調整進口價格環比上漲 13.8%。"
+    },
+    {
+      "id": "5074067",
+      "time": "2026-09-03 06:46:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭第二季度貿易條件指數環比下降 9.0%，紐西蘭第二季度經季節性調整出口價格環比上漲 3.5%."
+    },
+    {
+      "id": "te:markets:580599",
+      "time": "2026-09-03 06:45:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 1.46% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.46% decrease."
+    },
     {
       "id": "5074066",
       "time": "2026-09-03 06:40:38",
