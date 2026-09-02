@@ -1,7 +1,63 @@
 {
   "date": "2026-09-03",
-  "count": 25,
+  "count": 30,
   "items": [
+    {
+      "id": "te:markets:580565",
+      "time": "2026-09-03 00:13:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Lower — The FTSE MIB edged down 0.2% to 51,792 on Wednesday, as traders assessed corporate developments against escalating tensions in the Middle East as the US carried out further strikes on Iran. Utilities remain under selling pressure as European gas prices continue to climb and European countries grapple with low natural gas stockpiles ahead of winter. Heavyweight financials were mixed while focus remains in merger talks. Intesa Sanpaolo (-0.2%) stated it does not expect its takeover bid of MPS (-0.2%) to be hampered by defence bids, in an answer to Consob. Meanwhile, a council meeting in Siena added pressure on the shares from the Ministry of Economy and Finance to defende MPS's integrity, and adding that its headquarters must remain in the region. Commerzbank's CEO has confirmed direct talks were underway with UniCredit (0.5%). On the upside, tech stocks outperformed, with STMicroelectronics adding (3.3%) after Citigroup confirmed its buy recommendation of the stock. Prysmian added 1.7%."
+    },
+    {
+      "id": "te:markets:580564",
+      "time": "2026-09-03 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.24% Lower — The FTSE MIB Index fell 123 points or 0.24 percent on Wednesday to close at 51792 points. Leading the losses are Lottomatica (-10.42%), Italgas (-3.46%) and Stellantis N.V. (-2.64%). Top gainers were STMicroelectronics (3.33%), Amplifon (2.55%) and Prysmian (2.24%)."
+    },
+    {
+      "id": "te:markets:580563",
+      "time": "2026-09-03 00:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.50% Lower — The DAX Index dropped 131 points or 0.50 percent on Wednesday to close at 25839 points. Losses were led by Zalando (-5.21%), Volkswagen (-3.83%) and Porsche Automobil (-3.39%). Offsetting the fall, top gainers were Qiagen NV (2.31%), Commerzbank (1.70%) and Rheinmetall (1.20%)."
+    },
+    {
+      "id": "te:markets:580562",
+      "time": "2026-09-03 00:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.26% Lower — The CAC 40 Index decreased 21 points or 0.26 percent on Wednesday to close at 8281 points. The decline was led by Renault (-3.96%), Stellantis NV (-2.57%) and Vinci (-2.19%). On the upside, the strongest performers were STMicroelectronics (3.67%), Eurofins Scientific SE (1.79%) and L'Oréal (1.62%)."
+    },
+    {
+      "id": "5073797",
+      "time": "2026-09-03 00:09:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋強烈譴責伊朗對巴林、科威特、約旦及伊拉克庫爾德地區的襲擊。"
+    },
     {
       "id": "5073796",
       "time": "2026-09-03 00:08:31",

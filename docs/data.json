@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-03 00:10:22",
+  "updated": "2026-09-03 00:14:22",
   "count": 11995,
   "items": [
+    {
+      "id": "te:markets:580565",
+      "time": "2026-09-03 00:13:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Lower — The FTSE MIB edged down 0.2% to 51,792 on Wednesday, as traders assessed corporate developments against escalating tensions in the Middle East as the US carried out further strikes on Iran. Utilities remain under selling pressure as European gas prices continue to climb and European countries grapple with low natural gas stockpiles ahead of winter. Heavyweight financials were mixed while focus remains in merger talks. Intesa Sanpaolo (-0.2%) stated it does not expect its takeover bid of MPS (-0.2%) to be hampered by defence bids, in an answer to Consob. Meanwhile, a council meeting in Siena added pressure on the shares from the Ministry of Economy and Finance to defende MPS's integrity, and adding that its headquarters must remain in the region. Commerzbank's CEO has confirmed direct talks were underway with UniCredit (0.5%). On the upside, tech stocks outperformed, with STMicroelectronics adding (3.3%) after Citigroup confirmed its buy recommendation of the stock. Prysmian added 1.7%."
+    },
+    {
+      "id": "te:markets:580564",
+      "time": "2026-09-03 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.24% Lower — The FTSE MIB Index fell 123 points or 0.24 percent on Wednesday to close at 51792 points. Leading the losses are Lottomatica (-10.42%), Italgas (-3.46%) and Stellantis N.V. (-2.64%). Top gainers were STMicroelectronics (3.33%), Amplifon (2.55%) and Prysmian (2.24%)."
+    },
+    {
+      "id": "te:markets:580563",
+      "time": "2026-09-03 00:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.50% Lower — The DAX Index dropped 131 points or 0.50 percent on Wednesday to close at 25839 points. Losses were led by Zalando (-5.21%), Volkswagen (-3.83%) and Porsche Automobil (-3.39%). Offsetting the fall, top gainers were Qiagen NV (2.31%), Commerzbank (1.70%) and Rheinmetall (1.20%)."
+    },
+    {
+      "id": "te:markets:580562",
+      "time": "2026-09-03 00:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.26% Lower — The CAC 40 Index decreased 21 points or 0.26 percent on Wednesday to close at 8281 points. The decline was led by Renault (-3.96%), Stellantis NV (-2.57%) and Vinci (-2.19%). On the upside, the strongest performers were STMicroelectronics (3.67%), Eurofins Scientific SE (1.79%) and L'Oréal (1.62%)."
+    },
+    {
+      "id": "5073797",
+      "time": "2026-09-03 00:09:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋強烈譴責伊朗對巴林、科威特、約旦及伊拉克庫爾德地區的襲擊。"
+    },
     {
       "id": "5073796",
       "time": "2026-09-03 00:08:31",
@@ -110349,62 +110405,6 @@
         "其他"
       ],
       "text": "市場訊息： 白宮將宣佈與多家生物科技企業達成最惠國待遇藥品定價協議。"
-    },
-    {
-      "id": "5060644",
-      "time": "2026-08-27 00:13:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西藏自治區交通運輸廳啟動一級應急響應】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。災情發生後，西藏自治區交通運輸廳成立交通運輸應急搶險指揮部，啟動交通運輸行業一級應急響應，派出工作組於當日趕赴災害現場，並部署梯級應急力量投入搶險救災工作，實施24小時應急值班制度。截至8月26日22時，已在吉隆縣集結公路保通、機械操作手等搶險人員40多人，挖掘機、裝載機、推土機、自卸車、應急電源車等機械裝置和車輛43臺（套），儲備鋼架橋、鋼絲籠、鉛絲籠、編織袋、波紋管等應急物資；就近協調相關公路養護單位，組織排程搶險人員119人和挖掘機、裝載機等機械裝置93臺（套）迅速向災區馳援，最快於27日凌晨陸續抵達吉隆縣；同時指揮排程全區公路養護系統和中國交建、中國中鐵、中國鐵建、西藏天順公司、武警交通某支隊等集結應急預備人員423人、機械裝置220臺（套）進入待命狀態，隨時趕赴災區投入搶險救災工作。此外，根據西藏自治區交通運輸廳部署，相關單位正在對交通運輸行業受災情況進行全面摸底，同時全力開展通往災區的道路保通工作。截至26日22時，通往吉隆縣的G318、G219、G216線等相關國省幹線公路安全暢通。（央視新聞）"
-    },
-    {
-      "id": "te:markets:578348",
-      "time": "2026-08-27 00:12:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Higher — European stock indices closed slightly higher on Wednesday as support from the heavyweight financial sector offset weakness elsewhere. The Euro STOXX 50 gained 0.3% to 6,475 and the STOXX Europe 600 inched higher to 657. Deutsche Bank gained 4.3% to lead the financial sector as it kicked off its €500 million share buyback. Also, UniCredit gained 2.5% as CEO Andrea Orcel was due to meet the German finance minister to discuss Berlin's requirements to sell their stake on Commerzbank. In the meantime, Safran and Rheinmetall added over 2% each to consolidate the strong session for industrial companies yesterday. On the other hand, SAP fell 3% following pessimistic signals from Intuit earnings in the US."
-    },
-    {
-      "id": "te:markets:578347",
-      "time": "2026-08-27 00:12:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.31% Higher — The FTSE MIB Index rose 163 points or 0.31 percent on Wednesday to close at 52883 points. Leading the gains are Buzzi Unicem (3.18%), Fincantieri (2.22%) and UniCredit (2.05%). Top losers were Infrastrutture Wire (-1.60%), Ferrari NV (-1.26%) and Eni (-1.03%)."
-    },
-    {
-      "id": "te:markets:578346",
-      "time": "2026-08-27 00:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.08% Higher — The DAX Index gained 20 points or 0.08 percent on Wednesday to close at 26286 points. Gains were led by HeidelbergCement (6.04%), Deutsche Bank (4.31%) and MTU Aero Engines AG (2.98%). Biggest losers were SAP (-3.01%), Zalando (-1.41%) and Scout24 (-1.33%)."
-    },
-    {
-      "id": "te:economy:578345",
-      "time": "2026-08-27 00:11:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Russia Industrial Activity Slows — Industrial production in Russia rose 0.4% year-on-year in July 2026, slowing from a 0.6% increase in June and falling short of market expectations for 0.7% growth. Activity in electricity, gas, steam and air-conditioning supply contracted further, falling 4% after a 1.4% decline in the previous month, while manufacturing growth eased to 2.4% from 2.8%. Mining output remained in contraction, declining 2.6%. Meanwhile, activity in water supply, sewerage, waste management and remediation rebounded, rising 2.8% after a 1.2% decline in June. On a seasonally adjusted monthly basis, industrial production edged up 0.1%, following an upwardly revised 0.2% increase in June. In the first seven months of 2026, industrial output increased 0.1% compared with the same period a year earlier."
     }
   ]
 }
