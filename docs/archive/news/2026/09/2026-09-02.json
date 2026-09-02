@@ -1,7 +1,193 @@
 {
   "date": "2026-09-02",
-  "count": 815,
+  "count": 834,
   "items": [
+    {
+      "id": "mkt:01a05f6f-1ade-7118-844a-2d9adc6956fe",
+      "time": "2026-09-02 08:05:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor UEDA said monetary conditions remain accommodative and he hopes to continue raising interest rates."
+    },
+    {
+      "id": "5071879",
+      "time": "2026-09-02 08:04:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【績優超跌智慧駕駛概念股出爐】9月1日，A股智慧駕駛概念股明顯異動，其中浙江世寶、埃泰克、大明電子等漲停，伯特利、科隆新材等大幅上漲。智慧駕駛領域一直備受機構關注，8月以來，17只概念股獲得機構調研，其中水晶光電、藍思科技、德賽西威的機構調研家數均超100家，華陽集團、大華股份、豪威集團、中科創達、四維圖新的機構調研家數居前。從上半年業績來看，上半年淨利潤規模超1億元且同比增長超20%幅度的概念股有11只。結合股價表現來看，上半年業績高增長的智慧駕駛概念股中，金龍汽車、亞太股份、星網宇達、安潔科技的最新股價已較年內高點回撤超35%。"
+    },
+    {
+      "id": "5071878",
+      "time": "2026-09-02 08:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：G20會議上沒有人反對日本的外匯立場。"
+    },
+    {
+      "id": "5071877",
+      "time": "2026-09-02 08:04:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：正以極高的緊迫感監控債市形勢。"
+    },
+    {
+      "id": "mkt:01a05f6e-18fb-7118-844a-20089d57f1be",
+      "time": "2026-09-02 08:04:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said interest rates are determined by the market based on various factors."
+    },
+    {
+      "id": "5071876",
+      "time": "2026-09-02 08:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報64760.65點。"
+    },
+    {
+      "id": "mkt:01a05f6d-d3d1-7118-844a-1ccd4a200b80",
+      "time": "2026-09-02 08:03:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she would not comment specifically on the benchmark JGB yield reaching 3%."
+    },
+    {
+      "id": "mkt:01a05f6d-cd5c-7118-844a-154186805c85",
+      "time": "2026-09-02 08:03:46",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda: when reviewing policy we will also consider upside risks to prices."
+    },
+    {
+      "id": "5071875",
+      "time": "2026-09-02 08:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山：利率由市場依據多種因素決定。"
+    },
+    {
+      "id": "mkt:01a05f6d-a545-7118-844a-0a389fbee732",
+      "time": "2026-09-02 08:03:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Odessa official said Russia struck Odessa, damaging infrastructure."
+    },
+    {
+      "id": "5071874",
+      "time": "2026-09-02 08:03:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山就基準日本國債收益率觸及3%的提問表示：不會對具體點位置評。"
+    },
+    {
+      "id": "mkt:01a05f6d-6618-7118-844a-062e076a38ea",
+      "time": "2026-09-02 08:03:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said the central bank has raised its policy rate five times so far and needs to carefully assess the possible cumulative impact on the economy."
+    },
+    {
+      "id": "mkt:01a05f6c-d619-7118-8449-fccde7c9eb53",
+      "time": "2026-09-02 08:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's Deputy Foreign Minister Grushko said Moscow will respond to Germany's closure of the Russian consulate in Bonn."
+    },
+    {
+      "id": "5071873",
+      "time": "2026-09-02 08:02:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4320美元/盎司，日內跌0.19%。"
+    },
+    {
+      "id": "5071872",
+      "time": "2026-09-02 08:02:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將密切關注過去加息累積的影響。"
+    },
+    {
+      "id": "mkt:01a05f6c-1d73-7118-8449-f35b52c8e4ef",
+      "time": "2026-09-02 08:01:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 1,058.52 points, or 1.60%, at 65,156.82 on Wednesday, Sept. 2."
+    },
+    {
+      "id": "5071871",
+      "time": "2026-09-02 08:01:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：制定政策時會考慮物價上漲的風險。"
+    },
+    {
+      "id": "mkt:01a05f6c-12b5-7118-8449-efb801491cad",
+      "time": "2026-09-02 08:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "Korea's KOSPI opened down 190.62 points, or 2.79%, at 6,645.18 on Wednesday, Sept. 2. SK Hynix and Samsung Electronics were each down 3%."
+    },
+    {
+      "id": "5071870",
+      "time": "2026-09-02 08:01:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：金融環境依然寬鬆。"
+    },
     {
       "id": "5071869",
       "time": "2026-09-02 08:00:58",
