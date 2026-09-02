@@ -1,7 +1,72 @@
 {
   "date": "2026-09-02",
-  "count": 1349,
+  "count": 1356,
   "items": [
+    {
+      "id": "5072190",
+      "time": "2026-09-02 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：中際旭創淨賣出超22億】截至目前，今日主力資金淨流出437.26億；淨流入線纜部件及其他、碳纖維、軍民融合等板塊，其中線纜部件及其他板塊淨流入12.10億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出410.71億。\n  \n個股方面，遠東股份淨買入10.22億元位居首位，長城軍工、飛龍股份、中國巨石主力資金淨流入居前；中際旭創淨賣出22.27億元位居首位，長鑫科技、天孚通訊、新易盛淨流出額居前。"
+    },
+    {
+      "id": "5072189",
+      "time": "2026-09-02 10:40:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里更新旗艦模型Qwen3.8-Max，前端程式設計能力躍居全球第一】9月2日，阿里更新旗艦模型Qwen3.8-Max，效能較舊版本顯著提升。在針對程式設計（Coding）和專業辦公（Cowork）進行專項後訓練後，Qwen3.8-Max新版本整體效能增強。在聚焦前端程式設計能力（WebDev）的全球權威三方榜單CodeArena中，提升22分至1691分，領先Claude Opus5、Kimi K3等一眾模型，位居總榜第一。同時，CodeArena更新的模型價效比榜單（帕累託前沿）顯示，Qwen3.8-Max新版本每百萬Tokens綜合平均僅5美元。"
+    },
+    {
+      "id": "5072188",
+      "time": "2026-09-02 10:39:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷化工板塊震盪走弱，新農股份跌停】磷化工板塊震盪走弱，新農股份跌停，金正大、江山股份、和邦生物、金誠信、雲天化、東方鐵塔等跟跌。"
+    },
+    {
+      "id": "te:economy:580289",
+      "time": "2026-09-02 10:39:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Fiji",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Fiji Inflation Hits Highest Since 2011 — Fiji's annual inflation accelerated to 7.6% in August 2026 from 5.7% in July, the highest inflation rate since December 2011, as food inflation accelerated to 9.5%, the highest since April 2024. Inflation also accelerated for housing (7.0% vs 6.1% in July) and miscellaneous goods and services (3.6% vs 2.7%), while rebounding for clothing and footwear (1.2% vs -0.3%) and furnishings, household equipment, and routine household maintenance (0.6% vs -0.6%). Meanwhile, inflation moderated for alcoholic beverages and tobacco (13.3% vs 14.3%), while remaining steady for transport prices (at 11.7%) and education (at 0.4%). Additionally, recreation and culture prices fell at a much softer pace (-0.7% vs -2.4%). On a monthly basis, the CPI edged down 0.1% in August, following a 1.1% drop in July, marking the second straight monthly decline."
+    },
+    {
+      "id": "te:economy:580288",
+      "time": "2026-09-02 10:39:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits Fresh 15-Year Peak — Australia’s 10-year government bond yield broke above 5.2%, reaching its highest level since July 2011, as surging oil prices fueled inflation concerns while stronger-than-expected economic growth reinforced expectations for an imminent interest rate hike. Australia’s economy expanded 0.4% quarter-on-quarter in Q2, beating forecasts for 0.3% growth, while annual growth accelerated to 2.1%, above expectations for 1.8%. The stronger figures suggested economic activity remains resilient despite the Reserve Bank's efforts to cool demand and curb persistent inflation. Markets raised the odds of a fourth rate hike at the September meeting after the GDP release to 57% from 48% previously, while a November hike is now more than fully priced in. The probability of another hike in Q1 2027 also rose to 82% from 62%. Meanwhile, escalating US-Iran tensions and the resulting rise in oil prices have also rekindled inflationary risks in major economies, pushing global bond yields higher."
+    },
+    {
+      "id": "5072187",
+      "time": "2026-09-02 10:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年按病種付費人次已佔醫保出院總人次的91.8%】國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。這是繼2019年的1.0版分組，2024年2.0版分組方案之後的第三版分組方案和技術規範。按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”：2019年啟動按病組（DRG）付費國家試點，2020年啟動按病種分值（DIP）付費國家試點，2021年啟動醫保支付方式改革三年行動計劃，在試點基礎上加快改革擴面提質。經過三年試點和三年專項行動，按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”，2025年按病種付費的人次已佔醫保出院總人次的91.8%。患者個人負擔有所減輕：醫療機構住院費用結構更加合理從改革成效看，初步實現了醫、保、患三方共贏的局面。一是患者個人負擔有所減輕，2025年全國職工醫保、居民醫保次均住院費用分別較2024年下降4.73%、0.94%，28個省份住院患者自負費用的絕對額下降；二是醫療機構住院費用結構更加合理，2025年全國按病種付費病例發生的住院費用中藥耗費用佔比約37.49%，同比下降0.52個百分點，22個省份的住院總費用呈現“藥耗佔比下降、醫療服務費用佔比上升”的結構性變化；三是特例單議等機制有力保障了重症患者治療和創新技術、藥耗應用。特例單議機制目前已在全國普遍建立，2025年醫療機構申請特例單議病例267.4萬例，透過率86.9%，結算醫保基金約644.73億元，例均醫保基金支出約2.77萬元。同時，醫保基金執行總體平穩，2025年全國基本醫保基金總收入3.59萬億元，總支出約3萬億元。"
+    },
+    {
+      "id": "mkt:01a05ffa-c988-7118-844f-ae0cd9527a13",
+      "time": "2026-09-02 10:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The National Healthcare Security Administration said case-based payments accounted for 91.8% of medical insurance inpatient discharges in 2025."
+    },
     {
       "id": "5072186",
       "time": "2026-09-02 10:37:18",

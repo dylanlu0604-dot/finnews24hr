@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-02 10:38:10",
-  "count": 12844,
+  "updated": "2026-09-02 10:42:12",
+  "count": 12833,
   "items": [
+    {
+      "id": "5072190",
+      "time": "2026-09-02 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：中際旭創淨賣出超22億】截至目前，今日主力資金淨流出437.26億；淨流入線纜部件及其他、碳纖維、軍民融合等板塊，其中線纜部件及其他板塊淨流入12.10億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出410.71億。\n  \n個股方面，遠東股份淨買入10.22億元位居首位，長城軍工、飛龍股份、中國巨石主力資金淨流入居前；中際旭創淨賣出22.27億元位居首位，長鑫科技、天孚通訊、新易盛淨流出額居前。"
+    },
+    {
+      "id": "5072189",
+      "time": "2026-09-02 10:40:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里更新旗艦模型Qwen3.8-Max，前端程式設計能力躍居全球第一】9月2日，阿里更新旗艦模型Qwen3.8-Max，效能較舊版本顯著提升。在針對程式設計（Coding）和專業辦公（Cowork）進行專項後訓練後，Qwen3.8-Max新版本整體效能增強。在聚焦前端程式設計能力（WebDev）的全球權威三方榜單CodeArena中，提升22分至1691分，領先Claude Opus5、Kimi K3等一眾模型，位居總榜第一。同時，CodeArena更新的模型價效比榜單（帕累託前沿）顯示，Qwen3.8-Max新版本每百萬Tokens綜合平均僅5美元。"
+    },
+    {
+      "id": "5072188",
+      "time": "2026-09-02 10:39:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷化工板塊震盪走弱，新農股份跌停】磷化工板塊震盪走弱，新農股份跌停，金正大、江山股份、和邦生物、金誠信、雲天化、東方鐵塔等跟跌。"
+    },
+    {
+      "id": "te:economy:580289",
+      "time": "2026-09-02 10:39:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Fiji",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Fiji Inflation Hits Highest Since 2011 — Fiji's annual inflation accelerated to 7.6% in August 2026 from 5.7% in July, the highest inflation rate since December 2011, as food inflation accelerated to 9.5%, the highest since April 2024. Inflation also accelerated for housing (7.0% vs 6.1% in July) and miscellaneous goods and services (3.6% vs 2.7%), while rebounding for clothing and footwear (1.2% vs -0.3%) and furnishings, household equipment, and routine household maintenance (0.6% vs -0.6%). Meanwhile, inflation moderated for alcoholic beverages and tobacco (13.3% vs 14.3%), while remaining steady for transport prices (at 11.7%) and education (at 0.4%). Additionally, recreation and culture prices fell at a much softer pace (-0.7% vs -2.4%). On a monthly basis, the CPI edged down 0.1% in August, following a 1.1% drop in July, marking the second straight monthly decline."
+    },
+    {
+      "id": "te:economy:580288",
+      "time": "2026-09-02 10:39:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits Fresh 15-Year Peak — Australia’s 10-year government bond yield broke above 5.2%, reaching its highest level since July 2011, as surging oil prices fueled inflation concerns while stronger-than-expected economic growth reinforced expectations for an imminent interest rate hike. Australia’s economy expanded 0.4% quarter-on-quarter in Q2, beating forecasts for 0.3% growth, while annual growth accelerated to 2.1%, above expectations for 1.8%. The stronger figures suggested economic activity remains resilient despite the Reserve Bank's efforts to cool demand and curb persistent inflation. Markets raised the odds of a fourth rate hike at the September meeting after the GDP release to 57% from 48% previously, while a November hike is now more than fully priced in. The probability of another hike in Q1 2027 also rose to 82% from 62%. Meanwhile, escalating US-Iran tensions and the resulting rise in oil prices have also rekindled inflationary risks in major economies, pushing global bond yields higher."
+    },
+    {
+      "id": "5072187",
+      "time": "2026-09-02 10:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年按病種付費人次已佔醫保出院總人次的91.8%】國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。這是繼2019年的1.0版分組，2024年2.0版分組方案之後的第三版分組方案和技術規範。按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”：2019年啟動按病組（DRG）付費國家試點，2020年啟動按病種分值（DIP）付費國家試點，2021年啟動醫保支付方式改革三年行動計劃，在試點基礎上加快改革擴面提質。經過三年試點和三年專項行動，按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”，2025年按病種付費的人次已佔醫保出院總人次的91.8%。患者個人負擔有所減輕：醫療機構住院費用結構更加合理從改革成效看，初步實現了醫、保、患三方共贏的局面。一是患者個人負擔有所減輕，2025年全國職工醫保、居民醫保次均住院費用分別較2024年下降4.73%、0.94%，28個省份住院患者自負費用的絕對額下降；二是醫療機構住院費用結構更加合理，2025年全國按病種付費病例發生的住院費用中藥耗費用佔比約37.49%，同比下降0.52個百分點，22個省份的住院總費用呈現“藥耗佔比下降、醫療服務費用佔比上升”的結構性變化；三是特例單議等機制有力保障了重症患者治療和創新技術、藥耗應用。特例單議機制目前已在全國普遍建立，2025年醫療機構申請特例單議病例267.4萬例，透過率86.9%，結算醫保基金約644.73億元，例均醫保基金支出約2.77萬元。同時，醫保基金執行總體平穩，2025年全國基本醫保基金總收入3.59萬億元，總支出約3萬億元。"
+    },
+    {
+      "id": "mkt:01a05ffa-c988-7118-844f-ae0cd9527a13",
+      "time": "2026-09-02 10:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The National Healthcare Security Administration said case-based payments accounted for 91.8% of medical insurance inpatient discharges in 2025."
+    },
     {
       "id": "5072186",
       "time": "2026-09-02 10:37:18",
@@ -117652,169 +117717,6 @@
         "其他"
       ],
       "text": "【工信部：“十五五”期間將加快發展先進製造業，保持製造業合理比重】工信部副部長辛國斌在國新辦新聞釋出會上表示，“十五五”期間，將加快發展先進製造業，保持製造業合理比重，進一步提升發展質量和效益。有四個方面的工作我們一定要下足功夫。一是在拓展價值空間上“下足功夫”。堅持以優爭先、以質取勝，推進工藝技術攀升和產品質量躍升，加強優質品牌建設。推動生產要素創新性配置，促進製造業向“微笑曲線”兩端延伸，提高全要素生產率。二是在培育增長動能上“下足功夫”。推動科技創新和產業創新深度融合，因地制宜發展新質生產力。堅持“產業出題、科技答題”，加強公共技術服務平臺、中試平臺等載體建設，促進原始技術加快走向中試、實現規模化應用。積極開拓和培育新場景、新業態、新模式，適應不同群體消費需求來擴大優質供給。三是在加快產業升級上“下足功夫”。四是在營造良好生態上“下足功夫”。"
-    },
-    {
-      "id": "5058920",
-      "time": "2026-08-26 10:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青島港前7個月貨物吞吐量超4.4億噸】交通運輸部最新發布資料顯示，2026年前7個月，山東港口青島港累計完成貨物吞吐量44820萬噸，同比增長3.2%；集裝箱吞吐量2058萬標準箱，同比增長7.0%。"
-    },
-    {
-      "id": "mkt:01a03bf1-bfd9-7aab-911f-e7f762f137e8",
-      "time": "2026-08-26 10:41:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "STAR 50 Index staged a brief surge, trading up over 2%; components Zhongke Feice rose more than 8% and Huahong Hongli rose over 6%."
-    },
-    {
-      "id": "mkt:01a03bf1-a0aa-7aab-911f-dcd9218c47bc",
-      "time": "2026-08-26 10:41:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Taiwan Affairs Office urges DPP to back early completion of Xiamen–Kinmen bridge】The Taiwan Affairs Office of the State Council said the Xiamen–Kinmen bridge reflects a shared demand of residents and that full opening will ease travel and support Kinmen’s economic development and livelihoods. The office urged the Democratic Progressive Party authorities to respect Kinmen residents’ interests, stop political calculations, and support the bridge’s early completion and commissioning."
-    },
-    {
-      "id": "5058919",
-      "time": "2026-08-26 10:41:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代江西鋰礦環評擬受理公示被撤銷】8月26日早間，江西省宜春市生態環境局官網釋出說明，將寧德時代旗下梘下窩鋰礦採礦專案環境影響報告書的擬受理公示予以撤銷。據說明，宜春時代新能源礦業有限公司江西省宜豐縣圳口裡一奉新縣視下窩鋰礦採礦專案環境影響報告書在擬受理公示期間，群眾對建設單位前期公示的網站存在質疑。現將該擬受理公示撤銷，待後續核准符合要求後，再另行公示。(上海證券報)"
-    },
-    {
-      "id": "5058918",
-      "time": "2026-08-26 10:41:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【工信部：加力清理拖欠企業賬款 持續實施減輕企業負擔專項行動】8月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹全力抓好“十五五”規劃實施，加快推進新型工業化有關情況。工業和資訊化部副部長辛國斌表示，“十五五”時期，要在營造良好生態上下足功夫。我們要當好企業的“孃家人”，落實深化改革重點任務，加強規劃引領，標準規範、政策保障，深化高水平開放合作，營造良好的產業生態。要加強數字經濟、人工智慧等新興領域的立法研究，健全工業和資訊化領域強制性標準體系，以標準提升來助力行業的高質量發展。要加力清理拖欠企業賬款，持續實施減輕企業負擔專項行動，進一步增強企業特別是廣大中小企業的獲得感。"
-    },
-    {
-      "id": "5058917",
-      "time": "2026-08-26 10:40:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：民進黨當局倒行逆施 擋不住兩岸民眾走親走近】國務院臺辦舉行例行新聞釋出會。有記者就民進黨當局相關官員涉及“小紅書”等大陸社交平臺言論提問。對此，發言人張晗表示，民進黨當局粗暴剝奪臺灣民眾，特別是青年的知情權和使用社交平臺的自由，粗暴阻撓兩岸青年溝通交往，完全不得人心。其倒行逆施擋不住臺灣民眾透過大陸社交平臺進行交流的熱情，擋不住兩岸民眾走親走近的民意潮流。"
-    },
-    {
-      "id": "5058916",
-      "time": "2026-08-26 10:40:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.06%，成分股中，中科飛測漲8.19%，華虹宏力漲6.16%，盛科通訊漲4.78%，晶合整合漲4.04%。"
-    },
-    {
-      "id": "te:markets:578104",
-      "time": "2026-08-26 10:40:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stocks Extend Decline — Indonesian shares slipped 21 points, or 0.3%, to 6,482 in early Wednesday trade, marking the second straight session of losses as investors returned from a holiday. Sentiment was dampened by weaker U.S. equity futures ahead of Nvidia’s earnings, while Washington weighed fresh trade measures against Canada. Locally, the Indonesian bourse announced plans to cut the minimum share price limit from IDR 50 to IDR 1 by September 7, a move aimed at boosting liquidity but prompting caution among traders about potential asset impacts. Meanwhile, several key domestic data will be due next week, including August inflation and July trade performance. Still, losses were partly cushioned by strong July digital transaction volumes, with rapid adoption of QRIS payments by Bank Indonesia supporting optimism. Sectoral pressure came from transport, energy, and property, with notable laggards including Indosat (-3.4%), Medco Energi (-2.9%), Bank Rakyat Indonesia (-1.6%), and Charoen Pokphand (-1.0%)."
-    },
-    {
-      "id": "5058915",
-      "time": "2026-08-26 10:40:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7541.80點。"
-    },
-    {
-      "id": "5058914",
-      "time": "2026-08-26 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：洛陽鉬業淨買入超14億】截至目前，今日主力資金淨流入55.88億；淨流入有色金屬概念、有色金屬、小金屬等板塊，其中有色金屬概念板塊淨流入78.54億；淨流出晶片概念、TMT、CPO概念等板塊，其中晶片概念板塊淨流出70.33億。\n  \n個股方面，洛陽鉬業淨買入14.62億元位居首位，江西銅業、紫金礦業、杭電股份主力資金淨流入居前；新易盛淨賣出7.74億元位居首位，天孚通訊、長鑫科技、兆易創新淨流出額居前。"
-    },
-    {
-      "id": "5058913",
-      "time": "2026-08-26 10:39:48",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：民進黨當局應正視金門鄉親的利益訴求】國務院臺辦舉行例行新聞釋出會。有記者就廈金大橋建設相關問題提問。對此，發言人張晗表示，建設廈金大橋是廈金兩地民眾的共同呼聲和迫切心願。廈金大橋全線通車後，將為兩地民眾往來帶來便利，為金門經濟發展、民生改善增添動力。張晗還表示，民進黨當局應正視金門鄉親的利益訴求，停止政治算計，真正為民謀利，支援廈金大橋早日建成通車。"
-    },
-    {
-      "id": "mkt:01a03bef-bc48-7aab-911f-d2cfc7840261",
-      "time": "2026-08-26 10:39:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MIIT: Promote manufacturing to both ends of the 'smile curve' to boost total factor productivity】China's Ministry of Industry and Information Technology said at a State Council Information Office briefing that during the 15th Five-Year Plan period it will accelerate development of advanced manufacturing, maintain a reasonable manufacturing share and lift quality and efficiency. Policy steps will prioritise expanding value-added space, competing on quality and intelligence, upgrading process technology and product quality, strengthening premium brand building, promoting innovative allocation of production factors, and steering manufacturing toward both ends of the 'smile curve' to raise total factor productivity."
-    },
-    {
-      "id": "5058912",
-      "time": "2026-08-26 10:39:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：民進黨當局是兩岸交流交往的最大障礙】國務院臺辦舉行例行新聞釋出會。有記者問，近日，臺教育部門稱，已配合陸委會建立“登入平臺”，島內學校赴大陸交流需在該平臺填報資訊，如填報不實，將考慮扣減未來學校申請交流補助或活動裝置。此舉再度引發部分島內學校對參與兩岸教育交流產生顧慮。請問對此有何評論？發言人張晗答問表示，民進黨當局破壞兩岸教育和青年學生正常交流，無所不用其極，充分暴露其阻礙兩岸人員往來和各項交流合作、升高兩岸對立對抗的險惡用心。張晗表示，事實一再證明，民進黨當局是兩岸交流交往的最大障礙，是臺海和平穩定的最大威脅。要和平、要發展、要交流、要合作是島內社會主流民意。兩岸同胞走親走近的願望、兩岸交流合作的大勢不可阻擋。任何開歷史倒車、違逆民心民意的行徑，終將被民意所唾棄。"
-    },
-    {
-      "id": "5058909",
-      "time": "2026-08-26 10:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：“十五五”時期我國將培育建設500家零碳工廠】國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，“十五五”期間將培育建設500家零碳工廠，打造一批可複製、可推廣的建設模式。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a03bef-24e8-7aab-911f-cdd8124aab8f",
-      "time": "2026-08-26 10:38:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "【MIIT says China to build 500 zero-carbon factories under 15th Five-Year Plan】The Ministry of Industry and Information Technology said China will cultivate and build 500 zero-carbon factories during the 15th Five-Year Plan and develop replicable, scalable construction models for wider adoption."
-    },
-    {
-      "id": "5058908",
-      "time": "2026-08-26 10:38:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順豐被曝“變相降薪”？月薪15%劃為季度績效，官方暫無回應】近日，有多位順豐員工在社交平臺發文稱，收到公司郵件通知調整薪酬結構，將固定月薪的15%劃為季度績效。有員工認為是“變相降薪”、“付押金上班”。一位順豐員工向新浪科技確認了該訊息，並表示此次薪酬結構調整不牽涉一線快遞員。對此調整，截至發稿，順豐方面暫無官方回應。近年來，順豐業績表現整體穩健。財報顯示，2026年第一季度，順豐控股實現營業收入741.42億元，同比增長6.14%；歸母淨利潤25.26億元，同比增長13.05%。（新浪科技）"
-    },
-    {
-      "id": "5058907",
-      "time": "2026-08-26 10:38:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【工信部：加強公共技術服務平臺、中試平臺等載體建設】8月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹全力抓好“十五五”規劃實施，加快推進新型工業化有關情況。工業和資訊化部副部長辛國斌表示，“十五五”時期，要在培育增長動能上下足功夫，推動科技創新和產業創新深度融合，因地制宜發展新質生產力，堅持“產業出題，科技答題”，加強公共技術服務平臺、中試平臺等載體建設，促進原始技術加快走向中試，實現規模化應用，積極開拓和培育新場景、新業態、新模式，適應不同群體消費需求來擴大優質供給。"
-    },
-    {
-      "id": "5058906",
-      "time": "2026-08-26 10:38:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國臺辦：越來越多的臺灣同胞認識到，統一是歷史大勢】8月26日，國臺辦舉行例行新聞釋出會。記者問，新黨於8月22日舉行33週年黨慶活動，表示新黨將堅守立場，堅定推動中華民族統一。此外，活動原計劃在臺灣“中油公司”舉行，據傳因民進黨當局打壓，“中油”臨時毀約，該活動不得不緊急更換地點。請問對此有何評論？ 發言人張晗表示，解決臺灣問題、實現祖國完全統一，是全體中華兒女的共同願望。祖國必須統一，也必然統一。包括新黨在內越來越多的臺灣同胞認識到，兩岸統一是任何人任何勢力都無法阻擋的歷史大勢。我們願在一箇中國原則基礎上，繼續同包括新黨在內的臺灣各政黨、團體和人士一道，共同推動兩岸關係和平發展，共創祖國統一歷史偉業，共享民族復興偉大榮光。 民進黨當局違逆歷史大勢，頑固堅持“臺獨”分裂立場，不擇手段打擊迫害包括島內統派在內的政治異己，大搞“綠色恐怖”，充分暴露其假民主、真獨裁，假保臺、真害臺的卑劣本質，必然遭到歷史的唾棄和人民的唾棄。（看臺海）"
     }
   ]
 }
