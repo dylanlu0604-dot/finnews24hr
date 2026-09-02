@@ -1,7 +1,26 @@
 {
   "date": "2026-09-03",
-  "count": 474,
+  "count": 476,
   "items": [
+    {
+      "id": "5074066",
+      "time": "2026-09-03 06:40:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【專家：人民幣“偏強執行、雙向波動”或是主基調】9月2日，人民幣對美元匯率小幅下跌。拉長時間看，今年以來，人民幣對美元匯率整體保持上漲。專家表示，人民幣匯率走強並非單一因素推動，而是美元回撥、國內出口保持較快增長、企業結匯需求釋放以及匯率預期改善共同作用的結果。展望後市，市場對人民幣適度升值仍持相對積極態度，“偏強執行、雙向波動”或是主基調。（中證報）"
+    },
+    {
+      "id": "te:markets:580598",
+      "time": "2026-09-03 06:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Drops by 4.96% — Top commodity losers are Butter (-4.96%), Cocoa (-4.37%) and Coffee (-3.92%). Gains are led by Sugar (1.86%)."
+    },
     {
       "id": "te:markets:580597",
       "time": "2026-09-03 06:35:16",
