@@ -1,7 +1,120 @@
 {
   "date": "2026-09-02",
-  "count": 1730,
+  "count": 1743,
   "items": [
+    {
+      "id": "mkt:01a060d7-d499-7118-8454-6784ddbc7d55",
+      "time": "2026-09-02 14:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.5-magnitude quake 40 km NE of Milford Sound, New Zealand】New Zealand seismic agency reported a magnitude-5.5 earthquake about 40 km northeast of Milford Sound at ~18:13 local time on Sept. 2; depth ~6 km. No casualties or damage reported."
+    },
+    {
+      "id": "5072486",
+      "time": "2026-09-02 14:38:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲債券開盤走低；義大利2年期國債收益率上漲5個基點至3.19%。"
+    },
+    {
+      "id": "5072485",
+      "time": "2026-09-02 14:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本聯邦貿易委員會就自由職業者薪酬問題向日本郵政提出建議。"
+    },
+    {
+      "id": "mkt:01a060d6-98d9-7118-8454-5c74157932a6",
+      "time": "2026-09-02 14:37:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "German 10-year Bund yield rose to its highest level since April 2011, up 3.9 bps on the day at 3.377%."
+    },
+    {
+      "id": "5072484",
+      "time": "2026-09-02 14:37:36",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【紐西蘭米爾福德峽灣東北處發生5.5級地震】據紐西蘭地震機構訊息，當地時間9月2日18時13分左右，紐西蘭米爾福德峽灣東北約40公里處發生5.5級地震，震源深度約6公里。目前暫無人員傷亡和財產損失報告。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a060d6-52e8-7118-8454-52579d3c5cad",
+      "time": "2026-09-02 14:37:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi Kurdistan regional authorities said they shot down 10 drones carrying explosives over Erbil province; no casualties reported."
+    },
+    {
+      "id": "5072483",
+      "time": "2026-09-02 14:37:05",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【中際旭創A股成交額超200億元】9月2日下午，中際旭創A股成交額超200億元，現跌3.76%。"
+    },
+    {
+      "id": "mkt:01a060d5-bd4d-7118-8454-48198cd38d34",
+      "time": "2026-09-02 14:36:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck US Marine Corps base in Jordan】State news agency reported on the 2nd that the Islamic Revolutionary Guard Corps said, in response to a US strike on southern Iran the previous night, Iran fired heavy ballistic missiles at a US Marine Corps base near the Jordanian port city of Aqaba, causing \"a large number of US military deaths.\" The IRGC said \"multiple key facilities and armed helicopters were destroyed\" and that retaliatory operations are ongoing."
+    },
+    {
+      "id": "5072482",
+      "time": "2026-09-02 14:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亂港分子黃之鋒承認“串謀勾結外國或境外勢力危害國家安全罪”】反中亂港分子黃之鋒被控“串謀勾結外國或境外勢力危害國家安全罪”，香港特區高等法院排期9月2日處理答辯及判刑，黃之鋒認罪。法庭宣讀稱，黃之鋒被控“串謀勾結外國或境外勢力危害國家安全罪”，於2020年7月1日至2020年11月23日，在香港與羅冠聰及其他身份不詳的人一同串謀。黃之鋒對此表示認罪。（央視新聞）"
+    },
+    {
+      "id": "5072481",
+      "time": "2026-09-02 14:35:55",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "庫爾德斯坦方面稱，週三在埃爾比勒上空有10架無人機被擊落。"
+    },
+    {
+      "id": "5072480",
+      "time": "2026-09-02 14:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯誠精密等成立半導體科技新公司】企查查APP顯示，近日，天津聯誠半導體科技有限公司成立，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；機床功能部件及附件製造；機床功能部件及附件銷售；工業機器人制造等。企查查股權穿透顯示，該公司由聯誠精密等共同持股。"
+    },
+    {
+      "id": "5072479",
+      "time": "2026-09-02 14:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊約旦境內美海軍陸戰隊基地】據伊朗邁赫爾通訊社2日報道，伊朗伊斯蘭革命衛隊稱，為回應美國前一晚針對伊朗南部的襲擊，伊朗向約旦港口城市亞喀巴附近的一個美國海軍陸戰隊基地發射重型彈道導彈，造成“大量美軍士兵死亡”。(新華社)"
+    },
     {
       "id": "mkt:01a060d4-1a91-7118-8454-446a4009ed15",
       "time": "2026-09-02 14:35:08",
@@ -30,6 +143,15 @@
         "其他"
       ],
       "text": "法國巴黎銀行Exane將歐萊雅評級從中性上調至表現優於大盤。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609023862702460",
+      "time": "2026-09-02 14:33:46",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委Nagel暗示下週將加息，但未給出更遠期的指引。"
     },
     {
       "id": "5072476",
