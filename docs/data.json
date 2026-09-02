@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-02 08:47:55",
-  "count": 12766,
+  "updated": "2026-09-02 08:51:45",
+  "count": 12767,
   "items": [
+    {
+      "id": "5071932",
+      "time": "2026-09-02 08:51:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長克里斯·賴特：特朗普達成的協議將促成其他協議，交易將於明天宣佈。"
+    },
+    {
+      "id": "5071931",
+      "time": "2026-09-02 08:49:09",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普石油協議重塑委內瑞拉油田版圖 多名受制裁運營商出局】據報道，美國政府開發委內瑞拉17個油田的協議，將取代一批與前領導人尼古拉斯·馬杜羅有關聯的運營商，從而拆解幫助加拉加斯在多年美國製裁下持續向亞洲出口原油的部分商業網路。據知情人士透露，一名哥倫比亞商人、馬杜羅妻子的親屬等，此前均獲得過開發其中部分油田的合同，而這些人士都受到美國財政部制裁。如今，臨時總統德爾西·羅德里格斯已將這些油田重新分配。委內瑞拉政府正把這些油田交給美國與North American Blue Energy Partners（NABEP）的合作實體，該公司由Alejandro Betancourt經營。這位委內瑞拉商人一直協助特朗普政府吸引規模較小的美國獨立石油企業進入這個南美國家。"
+    },
+    {
+      "id": "mkt:01a05f97-58eb-7118-844b-2322eebe337e",
+      "time": "2026-09-02 08:49:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【UChicago professor warns Bessent Iran 'economic D‑day' risks military escalation】Robert Pape, a University of Chicago scholar of air power, blockades and sanctions, criticized U.S. Treasury Secretary Bessent’s “economic D‑day” campaign against Iran as a dangerous escalation trap unlikely to compel Tehran and liable to draw the U.S. into deeper military conflict. Pape said such measures have not won major wars or toppled governments and warned that tightening sanctions on Iran and its trading partners could provoke retaliatory moves that force Washington to escalate. \"This will lead to another escalation trap,\" he said."
+    },
+    {
+      "id": "mkt:01a05f97-1459-7118-844b-1bf305ed0d67",
+      "time": "2026-09-02 08:48:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Combined margin balance across Shanghai and Shenzhen up CNY1.419 bln】As of Sept 1, Shanghai Stock Exchange margin balance was CNY1.347 tln, down CNY0.763 bln from the prior trading day; Shenzhen Stock Exchange margin balance was CNY1.282 tln, up CNY2.182 bln. Combined margin balance totaled CNY2.629 tln, up CNY1.419 bln."
+    },
+    {
+      "id": "5071930",
+      "time": "2026-09-02 08:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加14.19億元】截至9月1日，上交所融資餘額報13467.61億元，較前一交易日減少7.63億元；深交所融資餘額報12817.77億元，較前一交易日增加21.82億元；兩市合計26285.38億元，較前一交易日增加14.19億元。"
+    },
+    {
+      "id": "5071929",
+      "time": "2026-09-02 08:47:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【IPO關鍵時刻，易慕峰CAR-T臨床受試者死亡，回應稱已配合評估調查】胃癌患者化療效果良好，卻被“創新藥”推向死亡？就在mRNA癌症疫苗傳來重大利好之際，作為當下另一熱門抗癌技術CAR-T卻陷入“高危時刻”。近日，程女士向記者披露了一則醫療死亡事件，其丈夫佔某（化名，49歲）因罹患胃癌，在上海長海醫院接受治療後，原本病情穩定。然而，在主治醫生的推薦下，佔某加入了易慕峰生物科技股份有限公司（以下稱“易慕峰生物”）一項名為IMC002的CAR-T細胞臨床試驗。令人遺憾的是，就在輸注試驗藥物當天數小時後，佔某突發雙側硬膜下血腫、腦疝，被迫接受開顱手術，最終於一個多月後不幸離世。雖然易慕峰在發給記者的回應中稱“已配合倫理評估、依法配合調查，補償以法定責任認定為前提，不做預先判斷”。但在CAR-T從血液瘤走向實體瘤的關鍵視窗，一例“化療沒事、回輸當日出事”的死亡，已不只是醫患糾紛，而是一次拷問實體瘤CAR-T圍輸注安全鏈的樣本。對此，易慕峰生物方面向藍鯨新聞回覆稱：“關於事件責任認定，相關事實應當在法定程式下予以公正釐清。我司將全力配合各方依法開展的調查評估工作，尊重獨立調查與評估得出的正式結論，不做預先判斷。”（藍鯨新聞）"
+    },
     {
       "id": "5071928",
       "time": "2026-09-02 08:46:32",
@@ -117029,50 +117089,6 @@
         "其他"
       ],
       "text": "【奧飛資料、天域半導體等新設創投基金】企查查APP顯示，近日，廣州復樸藍粵創業投資基金合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由奧飛資料(300738)、天域半導體（02658.HK）等共同出資。"
-    },
-    {
-      "id": "5058684",
-      "time": "2026-08-26 08:51:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中誠信國際：債券ETF規模創9100億元新高 信用品種為擴容核心主力】中誠信國際釋出研報顯示，受科創債ETF和基準做市信用債ETF上市、機構配置需求以及制度紅利等多重影響驅動，截至8月21日，中國全市場債券ETF產品總規模已達9164.68億元，持續重新整理歷史紀錄。洪琪祥、盧菱歌等分析師指出，科創債ETF在債券ETF總規模中佔比達34%；基準做市信用債ETF佔比達16%，兩者合計貢獻了超4500億元的規模增量。近年監管層陸續將信用債ETF納入交易所通用回購質押庫，此後進一步拓展至將債券ETF納入質押協議回購範圍，提升了機構持有意願。"
-    },
-    {
-      "id": "te:markets:578063",
-      "time": "2026-08-26 08:50:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 0.7% to below 65,500 on Wednesday, reversing the previous session’s gains as technology and artificial intelligence-linked stocks came under renewed pressure. The declines came despite a rebound in US technology stocks on Wall Street overnight, as long-term Treasury yields retreated from recent highs and lower oil prices eased inflation concerns. Meanwhile, investors awaited chip giant Nvidia’s earnings report later in the global day for fresh indications of the strength of AI-related demand. Notable tech decliners in Japan included Kioxia Holdings (-1.5%), Fujikura (-1.6%), Advantest (-1.7%), Taiyo Yuden (-3%) and Tokyo Electron (-1.9%). In contrast, financial stocks outperformed, led by gains in Mitsubishi UFJ (0.9%), Sumitomo Mitsui (1.1%) and Mizuho Financial (0.8%)."
-    },
-    {
-      "id": "5058683",
-      "time": "2026-08-26 08:49:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：記憶體價格將在雲服務商的AI基礎設施預算中佔據更大比重】調研機構集邦諮詢表示，2027年記憶體價格將在雲服務商的AI基礎設施預算中佔據更大比重，DRAM與NAND快閃記憶體預計將佔到總資本開支的68%，高於2026年的47%。伺服器DRAM價格2026年預計上漲約270%，企業級儲存產品價格漲幅可達235%，延續自2025年下半年開啟的漲價行情。集邦諮詢稱，記憶體成本走高，尤其是高頻寬記憶體，或將促使AI晶片與伺服器廠商進一步上調產品售價，倒逼雲服務商要麼增加投入，要麼最佳化系統記憶體配置以控制成本。"
-    },
-    {
-      "id": "5058682",
-      "time": "2026-08-26 08:49:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌擴充套件Gemini Enterprise平臺，為律師和律所推出新工具】當地時間8月25日，Alphabet旗下谷歌宣佈擴充套件Gemini Enterprise人工智慧平臺，為律師和律所推出新工具。該公司稱，Gemini Enterprise for Legal將幫助律所利用AI管理日常和複雜的工作，使律師能夠專注於更高價值的服務，同時確保資料的安全性和保密性。"
-    },
-    {
-      "id": "mkt:01a03b8a-80f0-7aab-911c-6be5c19a4552",
-      "time": "2026-08-26 08:48:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN cites a source saying three U.S. Secret Service officials, including the communications chief, have been suspended; the nature of the alleged misconduct is unclear."
     }
   ]
 }
