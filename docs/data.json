@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-02 10:42:12",
+  "updated": "2026-09-02 10:46:12",
   "count": 12833,
   "items": [
+    {
+      "id": "mkt:01a06001-eeb2-7118-844f-c29209e8a777",
+      "time": "2026-09-02 10:45:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Alibaba updates flagship model Qwen3.8-Max】Alibaba upgraded its flagship model Qwen3.8-Max, reporting significant performance gains versus the prior version after targeted fine-tuning for programming (Coding) and professional office (Cowork) tasks. The model is now available via API on Alibaba’s Qianwen AI platform; Qianwen Office, Qoder and the Qianwen app were integrated at launch."
+    },
+    {
+      "id": "5072196",
+      "time": "2026-09-02 10:45:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎犀智創完成Pre-A輪融資】AI新材料研發公司鼎犀智創（Rhinovate™）近日完成數億元Pre-A輪融資，本輪融資由鼎暉百孚領投，九合創投、彬復資本、龍芯創投、順禧基金、中關村資本跟投。本輪資金將重點用於RhinoMat材料科學基礎大模型及底層技術研發、多場景可編排AI智慧體與自主進化實驗室體系建設、碳基高效能材料放大驗證，持續沉澱核心技術與實驗資料。"
+    },
+    {
+      "id": "5072195",
+      "time": "2026-09-02 10:44:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【棄美來港上市！菲律賓餐飲巨頭，為何押注香港？】菲律賓餐飲龍頭快樂蜂（Jollibee）9月1日宣佈重大戰略調整，集團將分拆國際業務並在香港上市，取代此前擬定的美國上市計劃。快樂蜂在提交予菲律賓證券交易所的檔案中指出，選擇香港是基於其在亞洲的深厚業務根基與品牌影響力，相信香港的市場生態及投資者結構更能契合其國際業務的長期增長需求。港交所（00388）能提供廣泛的全球及區域投資者資源，加上香港現有的亞洲消費品及餐飲上市公司體系，也為投資者評估快樂蜂國際時提供具參考價值的對標標的。快樂蜂主席陳覺中表示，香港是最符合集團國際業務特性、地理佈局及長期願景的市場。他同時宣佈，委任財務兼風險總監Richard  Shin出任快樂蜂國際行政總裁，領軍推進分拆上市程序，稱這是集團邁向下一階段發展的重要一步。（香港商報）"
+    },
+    {
+      "id": "5072194",
+      "time": "2026-09-02 10:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資】近日，空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資，由海願資本（原紫金港資本）領投，全部老股東奇績創壇、松禾資本持續加註，創始人金依力出資超百萬元跟投。本輪資金將重點用於感知硬體的商業化交付、時空理解與記憶系統的迭代，以及時空世界模型的持續訓練。"
+    },
+    {
+      "id": "mkt:01a06000-d458-7118-844f-b94a82f03bcd",
+      "time": "2026-09-02 10:44:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share cosmetics stocks traded higher after a choppy session; Weiqi Technology hit the daily limit, Bawei Co. rose over 9%, and Wanmei Biotech, Jiakai Biotech and Jinsheng New Materials also advanced."
+    },
+    {
+      "id": "te:economy:580292",
+      "time": "2026-09-02 10:43:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "BoJ Takata Urges Nimble Approach to Rate Hikes — Bank of Japan (BoJ) board member Hajime Takata urged a flexible, data-dependent approach to rate hikes, warning that inflation is edging closer to the 2% target and risks of overheating are rising. Addressing business leaders in Hokkaido, he described 2026 as a “regime change,” with policy no longer tied to a fixed pace but adjusting to domestic and global conditions. Takata, among the central bank’s more hawkish voices, had proposed lifting the benchmark rate to 1.25% at the July meeting, but the idea was rejected in an 8-1 vote, leaving the rate at 1%. Meanwhile, Governor Kazuo Ueda stressed that policymakers will continue raising rates as financial conditions remain accommodative, while weighing inflation risks against the cumulative impact of past moves. He said the board will scrutinise whether economic and price trends stay aligned with its baseline outlook and debate the risks at its next policy meeting."
+    },
+    {
+      "id": "5072193",
+      "time": "2026-09-02 10:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯川技術：下半年將加大變頻器、伺服等高價值優勢業務的資源投入】匯川技術(300124)8月31日在業績說明會上表示，公司下半年將把握AI產業投資、國產化率提升、中國裝置出海帶來的結構性市場機會，加大變頻器、伺服、PLC等高價值優勢業務的資源投入；持續推進AI、智慧機器人、數字能源等長期戰略業務佈局，同時收縮部分發展前景有限的低質業務，實現資源聚焦。"
+    },
+    {
+      "id": "mkt:01a05fff-7284-7118-844f-b00f21f58ddb",
+      "time": "2026-09-02 10:42:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright arrived in Venezuela, saying President Trump’s energy diplomacy is producing new energy agreements that will open doors for U.S. firms and strengthen energy security across the hemisphere, restoring U.S. leadership in energy."
+    },
+    {
+      "id": "5072192",
+      "time": "2026-09-02 10:42:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1235億元。"
+    },
+    {
+      "id": "5072191",
+      "time": "2026-09-02 10:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦：祖國統一勢不可擋，民進黨搞再多無人機都是徒勞無益】9月2日上午，國臺辦舉行例行新聞釋出會。記者：近日，臺灣民意機構透過所謂“無人機產業發展方案”。有島內輿論擔憂，無人機也成為臺灣擴充軍備的重要專案。請問對此有何評論？國臺辦發言人張晗：民進黨當局要將民用產業軍工化，妄圖將無人機作為“謀獨拒統”的工具，純屬枉費心機。祖國統一勢不可擋，民進黨當局搞再多無人機，都是徒勞無益。（日月譚天）"
+    },
     {
       "id": "5072190",
       "time": "2026-09-02 10:40:02",
@@ -117625,98 +117718,6 @@
         "Impact bearish"
       ],
       "text": "Barclays cuts Dick's Sporting Goods (DKS.N) PT to $150 from $280."
-    },
-    {
-      "id": "5058927",
-      "time": "2026-08-26 10:46:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股晶片股、光通訊股表現活躍，劍橋科技漲超8%，長飛光纖光纜、華虹宏力漲超6%，芯智控股、英諾賽科漲超4%，中芯國際、壁仞科技漲超3%。"
-    },
-    {
-      "id": "5058926",
-      "time": "2026-08-26 10:45:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【APEC《創新與數字化增強亞太區域糧食體系韌性原則檔案》釋出】國家糧食和物資儲備局訊息，第十一屆亞太經合組織（APEC）糧食安全部長級會議8月25日在浙江杭州召開。會議透過併發布《創新與數字化增強亞太區域糧食體系韌性原則檔案》，呼籲各經濟體應用創新成果和人工智慧等數字技術，提高糧食體系全鏈條的決策能力、互聯互通水平和響應速度，推動糧食體系更好地預見風險、承受衝擊、適應變化和恢復產能，提升執行效率和整體效能。"
-    },
-    {
-      "id": "5058925",
-      "time": "2026-08-26 10:45:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：“十五五”時期，將組織實施傳統產業煥新行動】工業和資訊化部規劃司司長姚珺8月26日在國新辦舉行的新聞釋出會上表示，“十五五”時期，我們將組織實施傳統產業煥新行動，強化國家標準引領、數智綠色技術賦能、環保安全制度約束，夯實基礎、提升質量、打造品牌，加快提升傳統產業發展質量和效益。首先是抓技術改造。這是推動傳統產業改造提升的重要手段。我們將深化製造業新型技術改造城市試點，強化技術創新、裝置更新、模式煥新，大力推動以提升質量效益為目標、以數智技術和綠色低碳技術應用為重點的新型技術改造，推動傳統產業智慧化、綠色化、融合化發展。比如在石化化工行業，我們將加力推進老舊裝置更新改造，充分利用數智技術、綠色技術有效降低安全環境風險，實現減汙降碳協同增效，推進行業高質量發展。其次是抓標準提升。實施以標準提升引領傳統產業最佳化升級行動。第三是抓質量升級。"
-    },
-    {
-      "id": "mkt:01a03bf4-222a-7aab-911f-ff26badeb8eb",
-      "time": "2026-08-26 10:44:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Tesla China denies reports Shanghai FSD data center evacuated】A social-media claim said Tesla's Shanghai data center, set up for bringing FSD into China, had been emptied and its integration team withdrawn. A Tesla China insider called the report \"not true.\" Tesla's US website still lists China among regions where the FSD supervised version is available."
-    },
-    {
-      "id": "5058924",
-      "time": "2026-08-26 10:44:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上海資料中心“人去樓空”？特斯拉中國回應：不實訊息】日前，有網友爆料稱，特斯拉專門為FSD入華籌備的上海資料中心已“人去樓空”，相關對接團隊全部撤離。特斯拉中國一位內部人士回應稱：“不實訊息。”在特斯拉美國官網查詢發現，在FSD監督版的可使用地區列表中，中國仍然位列其中。（每經網）"
-    },
-    {
-      "id": "mkt:01a03bf4-0659-7aab-911f-f5769ee7f341",
-      "time": "2026-08-26 10:44:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【CATL Jiangxi lithium mine EIA proposed-acceptance notice withdrawn】On the morning of Aug. 26, the Yichun Municipal Ecology and Environment Bureau said it has withdrawn the proposed-acceptance public notice for the environmental impact report submitted by Yichun Shidai New Energy Mining Co. for the Jianxiawo lithium mine in Yifeng County, Jiangxi. The bureau said members of the public raised doubts about the developer’s earlier disclosure website during the notice period; the notice will be reissued only after subsequent approval meets requirements."
-    },
-    {
-      "id": "5058923",
-      "time": "2026-08-26 10:44:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：盡最大努力為臺灣同胞辦實事做好事】國務院臺辦舉行例行新聞釋出會。有記者問：日前，海關總署網站公佈新增一批臺灣文旦柚包裝廠及果園註冊事宜，請說明有關情況。發言人張晗表示，我們一貫秉持“兩岸一家親”理念，盡最大努力為臺灣同胞辦實事做好事、解難事。今年4月，中央臺辦受權釋出10項促進兩岸交流合作的措施以來，兩岸有關方面在堅持“九二共識”，反對“臺獨”政治基礎上，推動各項措施落實、落細，取得了積極成效。在符合大陸相關檢驗檢疫規定的前提下，我們歡迎更多臺灣優質產品銷往大陸，讓兩岸同胞共享兩岸關係和平發展、融合發展的紅利。"
-    },
-    {
-      "id": "5058922",
-      "time": "2026-08-26 10:43:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量328億元。"
-    },
-    {
-      "id": "mkt:01a03bf3-2e95-7aab-911f-eb6c57410a6d",
-      "time": "2026-08-26 10:43:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BANK OF KOREA meets Thursday; markets split on August hike vs hold】BANK OF KOREA meets Thursday with markets divided between another August hike and a pause after July's 25bp increase to 2.75%. An August move would be a pre-emptive tightening aimed at curbing inflation and preserving financial stability, and would signal policy tightening ahead of the Fed. NH Investment & Securities says the August decision will set the cycle's tone—pre-emptive versus cautious; iM Securities argues delaying to October offers little benefit and the cost of delay is rising. Hold proponents say more time is needed to assess July's move, citing slowing July inflation, a stronger won and recent equity weakness; Eugene Investment & Securities adds that signaling possible future hikes can have a tightening effect without immediate action."
-    },
-    {
-      "id": "5058921",
-      "time": "2026-08-26 10:42:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：“十五五”期間將加快發展先進製造業，保持製造業合理比重】工信部副部長辛國斌在國新辦新聞釋出會上表示，“十五五”期間，將加快發展先進製造業，保持製造業合理比重，進一步提升發展質量和效益。有四個方面的工作我們一定要下足功夫。一是在拓展價值空間上“下足功夫”。堅持以優爭先、以質取勝，推進工藝技術攀升和產品質量躍升，加強優質品牌建設。推動生產要素創新性配置，促進製造業向“微笑曲線”兩端延伸，提高全要素生產率。二是在培育增長動能上“下足功夫”。推動科技創新和產業創新深度融合，因地制宜發展新質生產力。堅持“產業出題、科技答題”，加強公共技術服務平臺、中試平臺等載體建設，促進原始技術加快走向中試、實現規模化應用。積極開拓和培育新場景、新業態、新模式，適應不同群體消費需求來擴大優質供給。三是在加快產業升級上“下足功夫”。四是在營造良好生態上“下足功夫”。"
     }
   ]
 }

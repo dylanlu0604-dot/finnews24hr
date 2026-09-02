@@ -1,7 +1,100 @@
 {
   "date": "2026-09-02",
-  "count": 1356,
+  "count": 1366,
   "items": [
+    {
+      "id": "mkt:01a06001-eeb2-7118-844f-c29209e8a777",
+      "time": "2026-09-02 10:45:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Alibaba updates flagship model Qwen3.8-Max】Alibaba upgraded its flagship model Qwen3.8-Max, reporting significant performance gains versus the prior version after targeted fine-tuning for programming (Coding) and professional office (Cowork) tasks. The model is now available via API on Alibaba’s Qianwen AI platform; Qianwen Office, Qoder and the Qianwen app were integrated at launch."
+    },
+    {
+      "id": "5072196",
+      "time": "2026-09-02 10:45:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎犀智創完成Pre-A輪融資】AI新材料研發公司鼎犀智創（Rhinovate™）近日完成數億元Pre-A輪融資，本輪融資由鼎暉百孚領投，九合創投、彬復資本、龍芯創投、順禧基金、中關村資本跟投。本輪資金將重點用於RhinoMat材料科學基礎大模型及底層技術研發、多場景可編排AI智慧體與自主進化實驗室體系建設、碳基高效能材料放大驗證，持續沉澱核心技術與實驗資料。"
+    },
+    {
+      "id": "5072195",
+      "time": "2026-09-02 10:44:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【棄美來港上市！菲律賓餐飲巨頭，為何押注香港？】菲律賓餐飲龍頭快樂蜂（Jollibee）9月1日宣佈重大戰略調整，集團將分拆國際業務並在香港上市，取代此前擬定的美國上市計劃。快樂蜂在提交予菲律賓證券交易所的檔案中指出，選擇香港是基於其在亞洲的深厚業務根基與品牌影響力，相信香港的市場生態及投資者結構更能契合其國際業務的長期增長需求。港交所（00388）能提供廣泛的全球及區域投資者資源，加上香港現有的亞洲消費品及餐飲上市公司體系，也為投資者評估快樂蜂國際時提供具參考價值的對標標的。快樂蜂主席陳覺中表示，香港是最符合集團國際業務特性、地理佈局及長期願景的市場。他同時宣佈，委任財務兼風險總監Richard  Shin出任快樂蜂國際行政總裁，領軍推進分拆上市程序，稱這是集團邁向下一階段發展的重要一步。（香港商報）"
+    },
+    {
+      "id": "5072194",
+      "time": "2026-09-02 10:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資】近日，空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資，由海願資本（原紫金港資本）領投，全部老股東奇績創壇、松禾資本持續加註，創始人金依力出資超百萬元跟投。本輪資金將重點用於感知硬體的商業化交付、時空理解與記憶系統的迭代，以及時空世界模型的持續訓練。"
+    },
+    {
+      "id": "mkt:01a06000-d458-7118-844f-b94a82f03bcd",
+      "time": "2026-09-02 10:44:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share cosmetics stocks traded higher after a choppy session; Weiqi Technology hit the daily limit, Bawei Co. rose over 9%, and Wanmei Biotech, Jiakai Biotech and Jinsheng New Materials also advanced."
+    },
+    {
+      "id": "te:economy:580292",
+      "time": "2026-09-02 10:43:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "BoJ Takata Urges Nimble Approach to Rate Hikes — Bank of Japan (BoJ) board member Hajime Takata urged a flexible, data-dependent approach to rate hikes, warning that inflation is edging closer to the 2% target and risks of overheating are rising. Addressing business leaders in Hokkaido, he described 2026 as a “regime change,” with policy no longer tied to a fixed pace but adjusting to domestic and global conditions. Takata, among the central bank’s more hawkish voices, had proposed lifting the benchmark rate to 1.25% at the July meeting, but the idea was rejected in an 8-1 vote, leaving the rate at 1%. Meanwhile, Governor Kazuo Ueda stressed that policymakers will continue raising rates as financial conditions remain accommodative, while weighing inflation risks against the cumulative impact of past moves. He said the board will scrutinise whether economic and price trends stay aligned with its baseline outlook and debate the risks at its next policy meeting."
+    },
+    {
+      "id": "5072193",
+      "time": "2026-09-02 10:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯川技術：下半年將加大變頻器、伺服等高價值優勢業務的資源投入】匯川技術(300124)8月31日在業績說明會上表示，公司下半年將把握AI產業投資、國產化率提升、中國裝置出海帶來的結構性市場機會，加大變頻器、伺服、PLC等高價值優勢業務的資源投入；持續推進AI、智慧機器人、數字能源等長期戰略業務佈局，同時收縮部分發展前景有限的低質業務，實現資源聚焦。"
+    },
+    {
+      "id": "mkt:01a05fff-7284-7118-844f-b00f21f58ddb",
+      "time": "2026-09-02 10:42:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright arrived in Venezuela, saying President Trump’s energy diplomacy is producing new energy agreements that will open doors for U.S. firms and strengthen energy security across the hemisphere, restoring U.S. leadership in energy."
+    },
+    {
+      "id": "5072192",
+      "time": "2026-09-02 10:42:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1235億元。"
+    },
+    {
+      "id": "5072191",
+      "time": "2026-09-02 10:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦：祖國統一勢不可擋，民進黨搞再多無人機都是徒勞無益】9月2日上午，國臺辦舉行例行新聞釋出會。記者：近日，臺灣民意機構透過所謂“無人機產業發展方案”。有島內輿論擔憂，無人機也成為臺灣擴充軍備的重要專案。請問對此有何評論？國臺辦發言人張晗：民進黨當局要將民用產業軍工化，妄圖將無人機作為“謀獨拒統”的工具，純屬枉費心機。祖國統一勢不可擋，民進黨當局搞再多無人機，都是徒勞無益。（日月譚天）"
+    },
     {
       "id": "5072190",
       "time": "2026-09-02 10:40:02",
