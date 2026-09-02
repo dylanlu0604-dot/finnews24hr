@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-03 03:39:44",
-  "count": 12022,
+  "updated": "2026-09-03 03:43:44",
+  "count": 12015,
   "items": [
+    {
+      "id": "mkt:01a063a4-2bff-7118-846c-ae4b480bb4ca",
+      "time": "2026-09-03 03:41:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Sirik governor's office said suspected explosions heard tonight in the Kuhestak port area were caused by the destruction of unexploded US-made munitions."
+    },
     {
       "id": "5073954",
       "time": "2026-09-03 03:36:35",
@@ -110513,87 +110525,6 @@
         "國際"
       ],
       "text": "【伊朗官員：對所有遭襲核設施檢查須經伊朗議會批准】當地時間26日，伊朗原子能組織主席伊斯拉米表示，國際原子能機構對任何遭受軍事襲擊的核設施進行檢查，都必須獲得伊朗議會的法律批准，並制定相應的章程。他表示，所有遭受軍事襲擊的伊朗核設施此前均已在國際原子能機構登記並接受過檢查。該機構未能譴責這些襲擊，其能力和獨立性因此受到質疑。美以施壓要求該機構訪問受損伊朗核設施，目的是評估美以軍事打擊的成果。在伊朗議會法律規定的安全章程出臺之前，伊朗不接受該機構對這些設施進行檢查的要求。"
-    },
-    {
-      "id": "5060777",
-      "time": "2026-08-27 03:43:13",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "哥倫比亞央行行長：首要目標是實現CPI通脹目標。"
-    },
-    {
-      "id": "5060776",
-      "time": "2026-08-27 03:42:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利總理：保克什核電站恢復滿負荷運轉】當地時間26日，匈牙利總理毛焦爾在社交媒體表示，保克什核電站已實現滿負荷運轉，所有四個反應堆和八臺汽輪機都在正常執行。本月早些時候，乾旱引發的多瑙河極低水位嚴重限制冷卻水吸入，導致核電站部分機組被迫停運。"
-    },
-    {
-      "id": "5060775",
-      "time": "2026-08-27 03:42:11",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【谷歌最新組織調整：將AI責任團隊遷出DeepMind實驗室】一封內部郵件顯示，谷歌正將一支研究人工智慧風險與社會影響的團隊，從研發前沿AI模型的DeepMind實驗室剝離出去。兩名DeepMind在職員工透露，此次彙報架構調整，發生在DeepMind聯合創始人、原CEO德米斯·哈薩比斯卸任、轉任新設立的董事長之後；部分團隊成員擔憂，這項變動將對該部門工作造成負面影響。從下週起，這支約90人的AI責任部門，將併入谷歌全球事務部門。該部門統管谷歌整體的遊說公關與公共政策事務。"
-    },
-    {
-      "id": "mkt:01a03f97-f20f-7aab-9137-5057a7526bcb",
-      "time": "2026-08-27 03:41:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saskatchewan will impose a 50% tariff on US alcoholic beverages."
-    },
-    {
-      "id": "mkt:01a03f97-2cba-7aab-9137-4e64b9dc1230",
-      "time": "2026-08-27 03:41:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet"
-      ],
-      "text": "Wall Street Journal reports Google (GOOG.O) will move its AI responsibility team into its Global Affairs organization as part of a reorganization."
-    },
-    {
-      "id": "mkt:01a03f97-228e-7aab-9137-4134b6599c0d",
-      "time": "2026-08-27 03:41:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Wall Street Journal cites sources saying members of the AI accountability team are concerned a planned reorganization could affect research and staff retention."
-    },
-    {
-      "id": "mkt:01a03f97-1f60-7aab-9137-3e212edc6090",
-      "time": "2026-08-27 03:41:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "Copper",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Trump signed an executive order banning the use of certain foreign-made energy equipment on the US power grid."
-    },
-    {
-      "id": "5060772",
-      "time": "2026-08-27 03:40:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行副行長：工業活動已顯現疲軟態勢。"
     }
   ]
 }

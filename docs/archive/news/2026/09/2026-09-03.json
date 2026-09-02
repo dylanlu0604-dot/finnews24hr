@@ -1,7 +1,19 @@
 {
   "date": "2026-09-03",
-  "count": 273,
+  "count": 274,
   "items": [
+    {
+      "id": "mkt:01a063a4-2bff-7118-846c-ae4b480bb4ca",
+      "time": "2026-09-03 03:41:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Sirik governor's office said suspected explosions heard tonight in the Kuhestak port area were caused by the destruction of unexploded US-made munitions."
+    },
     {
       "id": "5073954",
       "time": "2026-09-03 03:36:35",
