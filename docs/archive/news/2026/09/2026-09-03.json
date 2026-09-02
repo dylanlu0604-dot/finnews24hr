@@ -1,7 +1,86 @@
 {
   "date": "2026-09-03",
-  "count": 293,
+  "count": 301,
   "items": [
+    {
+      "id": "te:markets:580580",
+      "time": "2026-09-03 04:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "NetApp earnings above expectations at 2.58 USD — NetApp (NTAP) released earnings per share at 2.58 USD, compared to market expectations of 2.11 USD."
+    },
+    {
+      "id": "5073971",
+      "time": "2026-09-03 04:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一架載有美國國土安全部長馬克韋恩·穆林和其他國土安全部高階官員的海岸警衛隊噴氣式飛機在華盛頓特區郊外緊急降落，原因是其中一臺發動機發生故障。"
+    },
+    {
+      "id": "mkt:01a063b6-a6e6-7118-846c-eb078f57bf35",
+      "time": "2026-09-03 04:01:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports a Coast Guard jet carrying U.S. Homeland Security Secretary Mark Wayne Mullin and other senior DHS officials made an emergency landing outside Washington, D.C., after one engine failed."
+    },
+    {
+      "id": "mkt:01a063b6-9dd8-7118-846c-e0b3fde83174",
+      "time": "2026-09-03 04:01:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "DELL.N",
+        "Impact bullish",
+        "NVDA.O",
+        "MU.O"
+      ],
+      "text": "【US close: major indexes up; Dell surges 15.7%】U.S. equities closed higher Wednesday: Dow Jones Industrial Average initially up 0.56%, S&P 500 up 0.46%, Nasdaq Composite up 0.45%. NVIDIA (NVDA.O) and ORACLE rose 3%; SK Hynix (SKHY.O) and Micron Technology (MU.O) gained more than 2%; Dell (DELL.N) jumped 15.7%. Nasdaq Golden Dragon China Index fell 0.06%; NIO (NIO.N) dropped 5%."
+    },
+    {
+      "id": "5073970",
+      "time": "2026-09-03 04:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拓網路PANW收跌9.3%，創逾兩年來最差單日表現。"
+    },
+    {
+      "id": "5073969",
+      "time": "2026-09-03 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.56%，標普500指數漲0.46%，納指漲0.45%。戴爾漲15.76%，Reddit漲9.31%，特許通訊漲8.74%，阿爾尼拉姆製藥公司漲8.65%，思佳訊漲6.32%，XYZ漲5.88%，Steel Dynamics漲5.79%。“七姐妹”方面：英偉達漲3.21%，Meta Platforms漲2.47%，谷歌漲0.53%，特斯拉漲0.26%，亞馬遜漲0.02%，蘋果跌0.05%，微軟跌0.84%。"
+    },
+    {
+      "id": "mkt:01a063b5-1e1a-7118-846c-ddaa52a1ab31",
+      "time": "2026-09-03 04:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Civil Aviation Organization said civilian aircraft face a heightened risk of being targeted or caught in crossfire."
+    },
+    {
+      "id": "5073968",
+      "time": "2026-09-03 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.09%】網易有道跌9.85%，樂信跌6.89%，蔚來跌5.17%，逸仙電商跌3.95%，愛奇藝跌3.75%。"
+    },
     {
       "id": "mkt:01a063b4-c819-7118-846c-d21a86d0156e",
       "time": "2026-09-03 03:59:47",
