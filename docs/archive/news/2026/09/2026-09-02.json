@@ -1,7 +1,104 @@
 {
   "date": "2026-09-02",
-  "count": 2840,
+  "count": 2851,
   "items": [
+    {
+      "id": "mkt:01a062b5-7161-7118-8468-15d8d22a5bd5",
+      "time": "2026-09-02 23:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LME three-month aluminium rose to $3,291/tonne, the highest since Aug. 13, up 0.2%."
+    },
+    {
+      "id": "mkt:01a062b5-24c8-7118-8468-08936ae9b4f6",
+      "time": "2026-09-02 23:20:33",
+      "tags": [
+        "MKT News",
+        "DAL.N",
+        "Impact bearish"
+      ],
+      "text": "Delta Air Lines (DAL.N) will invest about $18 billion in employees this year under its Comprehensive Rewards program."
+    },
+    {
+      "id": "5073733",
+      "time": "2026-09-02 23:19:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流已致1204人死亡 4216人失聯】尼泊爾國家減少災害風險管理局2日釋出報告稱，截至當地時間2日18時，該國泥石流受災地區已發現1204具遇難者遺體，另有4216人失聯。（新華社）"
+    },
+    {
+      "id": "mkt:01a062b3-9b50-7118-8468-07b8813fd973",
+      "time": "2026-09-02 23:18:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: Venezuela's interim president Rodriguez met ENI CEO Descalzi."
+    },
+    {
+      "id": "5073732",
+      "time": "2026-09-02 23:18:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）三個月期鋁上漲至每噸3291美元，創8月13日以來新高，最新漲幅為0.2%。"
+    },
+    {
+      "id": "5073731",
+      "time": "2026-09-02 23:18:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：海外分行超容許限額的臨時透支若5日內未結清，將不再要求就該類透支進行申報。"
+    },
+    {
+      "id": "te:markets:580536",
+      "time": "2026-09-02 23:18:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Eases from Record High — Copper futures were at $6.5 per pound on Wednesday, holding most of the pullback from the record-high of $6.7 on August 25th, as macroeconomic headwinds momentarily offset the impact of supply shortages. Long-term bond yields surged as energy prices rebounded and markets took heed of widening public deficits, hurting the outlook for broad manufacturing and driving base metal price to ease. Still, fresh escalation to the war in the Middle East prolonged pressure on global supply of sulfuric acid, triggering shortages of the key material for copper refiners. This was magnified by lingering concerns that the US presidential administration is could impose tariffs on unprocessed copper goods triggered a surge in buying to front-load deliveries. Consequently, backwardation curves steepened both in major Western copper exchanges."
+    },
+    {
+      "id": "mkt:01a062b2-bbf7-7118-8467-ff8daa73275a",
+      "time": "2026-09-02 23:17:55",
+      "tags": [
+        "MKT News",
+        "DAL.O"
+      ],
+      "text": "Delta Air Lines said it will make matching donations for eligible employees' children equal to the $1,000 federal payment made to accounts linked to Trump."
+    },
+    {
+      "id": "5073730",
+      "time": "2026-09-02 23:17:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯會見義大利埃尼集團高管。"
+    },
+    {
+      "id": "5073729",
+      "time": "2026-09-02 23:16:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達漲超4%。"
+    },
+    {
+      "id": "5073728",
+      "time": "2026-09-02 23:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "達美航空：達美將按照聯邦政府向特朗普相關賬戶繳納的1000美元款項的金額，為符合條件的員工子女等額配捐。"
+    },
     {
       "id": "5073727",
       "time": "2026-09-02 23:15:41",
