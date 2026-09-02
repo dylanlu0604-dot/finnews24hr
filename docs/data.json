@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-02 08:44:08",
-  "count": 12767,
+  "updated": "2026-09-02 08:47:55",
+  "count": 12766,
   "items": [
+    {
+      "id": "5071928",
+      "time": "2026-09-02 08:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊2日說，對位於伊拉克埃爾比勒的一處美軍基地發動了導彈和無人機打擊。（新華社）"
+    },
+    {
+      "id": "mkt:01a05f94-7329-7118-844b-10ecfa025e11",
+      "time": "2026-09-02 08:45:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department Deputy Secretary Christopher Landau announced more than $150 million in assistance to Pacific island countries."
+    },
+    {
+      "id": "5071927",
+      "time": "2026-09-02 08:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王清憲在合肥、馬鞍山市調研房地產發展工作時強調 以“四好”建設加快房地產轉型升級】8月31日至9月1日，安徽省省長王清憲在合肥、馬鞍山市調研房地產發展工作。他強調，要深刻把握房地產市場供求關係新變化，以系統思維最佳化要素資源配置，加力實施城市更新，統籌推進好房子、好小區、好社群、好城區建設，加快房地產轉型升級，增強城市高質量發展新動能。調研中，王清憲強調，要立足房地產市場發展新形勢，統籌盤活存量、做優增量、提高質量，加強投資與消費、科技與產業、空間與人才整體謀劃，強化運營模式系統設計，在多要素組合中探索房地產發展新模式。要順應人民群眾對美好生活的嚮往，更好滿足群眾剛性和多元化改善性住房需求，以好房子為切入口推進“四好”建設，持續提升城市功能品質活力。要進一步完善金融、財稅、土地等協同保障機制，打通建設、運營、服務等鏈條，激發民間投資活力，推動房地產高質量發展。"
+    },
+    {
+      "id": "mkt:01a05f93-dd80-7118-844b-0a492a45dedd",
+      "time": "2026-09-02 08:45:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【NEA meeting on new-type power grid calls for faster approval and build-out of major transmission corridors】On Sept 1 the National Energy Administration said China’s new-type power grid will link upstream renewable generation with downstream industrial and residential demand, creating strong spillovers and requiring large-scale investment that supports near-term investment and long-term structural adjustment. The NEA instructed authorities to speed approval and construction of major grid projects including transmission corridors, strengthen overall coordination of new-grid development, and step up policy support and implementation."
+    },
+    {
+      "id": "mkt:01a05f93-ccd7-7118-844b-03da2df677ce",
+      "time": "2026-09-02 08:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says it is working with Congress and plans to provide $60m to help Pacific island nations respond to the ongoing global energy crisis."
+    },
+    {
+      "id": "5071926",
+      "time": "2026-09-02 08:44:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院表示，副國務卿克里斯托弗·蘭道宣佈美國為太平洋島國提供逾1.5億美元支援。正與國會合作，擬提供6000萬美元幫助太平洋島國應對持續的全球能源危機。"
+    },
+    {
+      "id": "5071925",
+      "time": "2026-09-02 08:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國稱週一有1700萬桶原油透過霍爾木茲海峽】美國能源部長克里斯·賴特在前往委內瑞拉的途中告訴記者，週一有1700萬桶石油透過了霍爾木茲海峽。據美國能源部一位發言人稱，這是自衝突爆發以來最大的數字。發言人表示，另有400萬至500萬桶原油透過管道繞過海峽，使週一的原油運輸量超過了戰前水平。賴特表示，目前平均每天為800萬桶。"
+    },
     {
       "id": "mkt:01a05f91-7cf0-7118-844a-fd1e1c486ad4",
       "time": "2026-09-02 08:42:45",
@@ -117011,74 +117073,6 @@
         "MKT News"
       ],
       "text": "CNN cites a source saying three U.S. Secret Service officials, including the communications chief, have been suspended; the nature of the alleged misconduct is unclear."
-    },
-    {
-      "id": "mkt:01a03b89-02c2-7aab-911c-600a9477f4d7",
-      "time": "2026-08-26 08:47:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China margin financing balances across two exchanges down CNY748 mln】As of Aug 25, margin financing at the Shanghai Stock Exchange was CNY1,346.574 bln, up CNY103 mln from the prior trading day; at the Shenzhen Stock Exchange it was CNY1,273.493 bln, down CNY851 mln; combined across both exchanges CNY2,620.067 bln, down CNY748 mln."
-    },
-    {
-      "id": "5058681",
-      "time": "2026-08-26 08:47:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少7.48億元】截至8月25日，上交所融資餘額報13465.74億元，較前一交易日增加1.03億元；深交所融資餘額報12734.93億元，較前一交易日減少8.51億元；兩市合計26200.67億元，較前一交易日減少7.48億元。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608263853790271",
-      "time": "2026-08-26 08:46:46",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月新屋銷售降至1月以來最低 消費者信心跌至七個月新低】美國商務部統計局8月25日公佈的資料顯示，7月新屋銷量較6月上修後的水平下降10.5%，經季節調整後年率為60.7萬戶，創1月以來最低，受抵押貸款利率高企拖累。"
-    },
-    {
-      "id": "5058680",
-      "time": "2026-08-26 08:46:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【銀聯國際與韓國BC卡、Naver Pay達成合作】近日，銀聯國際與韓國BC卡、Naver Pay（Npay）在首爾宣佈達成合作，三方將共同最佳化外籍人士訪韓支付體驗，提升韓國入境支付服務便利化水平。"
-    },
-    {
-      "id": "5058679",
-      "time": "2026-08-26 08:45:32",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【道路交通安全法首次系統性“大修”】8月25日，道路交通安全法修訂草案提請十四屆全國人大常委會第二十四次會議初次審議。現行道路交通安全法自2004年施行以來，在2007年、2011年、2021年修正了個別條款，此次迎來首次系統性“大修”。 從破解亂停亂放老問題到破題自動駕駛新情況，從治理“盲駕”“醉駕”“飆車”到根治“開門殺”“暴走團”等亂象……此次道交法修訂兼顧安全底線與時代需求，堅持問題導向、注重便民利民，旨在透過法治護航，讓你我的出行更安全、更放心。順應我國自動駕駛汽車產業迅速發展形勢，道路交通安全法修訂草案中設立了“自動駕駛汽車的特別規定”專章，明確規定國家支援自動駕駛汽車安全、有序、規範上道路測試、示範應用和行駛。對自動駕駛汽車違法如何處理，社會各界高度關注。草案規定，在自動駕駛功能啟用狀態下發生道路交通安全違法行為的，由自動駕駛汽車生產企業、進口企業接受處理。自動駕駛汽車生產企業、進口企業認為道路交通安全違法行為與自動駕駛功能無關的，應當承擔舉證責任。（新華社）"
-    },
-    {
-      "id": "5058678",
-      "time": "2026-08-26 08:45:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報85.52美元/桶。"
-    },
-    {
-      "id": "5058677",
-      "time": "2026-08-26 08:44:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【齊翔騰達：三、四季度是傳統旺季 剛需補貨有望對化工品價格形成支撐】齊翔騰達(002408)8月25日在接受機構調研時表示，中東衝突加速全球化工產業格局重構，海外傳統化工產能受能源成本高企、環保政策趨嚴等因素影響持續出清，公司藉此機遇加快海外市場佈局，以新加坡子公司為支點，成功拓展了歐洲、南美等新興市場。上半年公司海外貿易板塊實現收入72.95億元，同比增長69.39%。6月受中東衝突緩和影響，化工產品價格出現短期回撥，7月中東衝突再度升級後，原油價格震盪上行，穩定在80美元附近。隨著下游庫存逐步消耗，客戶補貨意願提升，公司產品價格順勢向下遊市場緩慢傳導。三、四季度是化工行業傳統旺季，若原油價格維持當前水平，剛需補貨有望對化工品價格形成支撐。"
-    },
-    {
-      "id": "5058676",
-      "time": "2026-08-26 08:44:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報80.71美元/桶。"
     }
   ]
 }
