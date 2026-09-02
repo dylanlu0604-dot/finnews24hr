@@ -1,7 +1,59 @@
 {
   "date": "2026-09-03",
-  "count": 30,
+  "count": 36,
   "items": [
+    {
+      "id": "5073800",
+      "time": "2026-09-03 00:17:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：併購交易規模有望突破2021年曆史高位。"
+    },
+    {
+      "id": "5073799",
+      "time": "2026-09-03 00:16:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：企業董事會正圍繞增長議題展開討論。"
+    },
+    {
+      "id": "te:markets:580566",
+      "time": "2026-09-03 00:15:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Lower — European stock indices closed with little movement on Wednesday, remaining at a one-month low amid persistent pressure from soaring borrowing costs. The Euro STOXX 50 fell 0.1% to 6,363 and the STOXX Europe 600 dropped 0.2% to 646. Renewed fighting in the Middle East continued to put upward pressure on oil prices, stoking inflation concerns and raising expectations of tighter monetary policy. The bond sell-off also intensified, with linger maturity European government bond yields climbing to multi-decade highs in many economies. Utilities booked sharp losses as European natural gas prices rose further, with Enel and Iberdrola dropping 2.6% and 1.2%, respectively. Consumer discretionary was also under pressure with Inditex and LVMH down 2% and 2.5%. Meanwhile, Volkswagen sank almost 4% as it will leave the STOXX 50 index, to be replaced by Nokia, which has recently surged amid the global rally for AI infrastructure this year."
+    },
+    {
+      "id": "5073798",
+      "time": "2026-09-03 00:15:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：併購與IPO業務儲備專案持續增加。"
+    },
+    {
+      "id": "mkt:01a062e6-a5e8-7118-8469-0c6f2f5a0bb5",
+      "time": "2026-09-03 00:14:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian foreign ministry summons German chargé over anti-Russia measures】Russia's foreign ministry said on the 2nd it summoned Germany's chargé d'affaires in Moscow over the German government's anti-Russia actions and statements on the 1st, and denied German allegations of Russian involvement in the Leipzig airport incident. The ministry said Berlin used the allegation as a pretext to close Russia's consulate in Bonn and the Russian House in Berlin and warned it would respond forcefully. President Putin on the 1st said Germany had no evidence linking Russia to the incident and that the accusations were tied to German domestic politics."
+    },
+    {
+      "id": "mkt:01a062e6-0dc6-7118-8469-0017732702e2",
+      "time": "2026-09-03 00:13:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese news agency reported the UAE foreign ministry condemned Iran's attacks on Bahrain, Kuwait, Jordan and Iraqi Kurdistan, calling them serious violations of sovereignty."
+    },
     {
       "id": "te:markets:580565",
       "time": "2026-09-03 00:13:34",

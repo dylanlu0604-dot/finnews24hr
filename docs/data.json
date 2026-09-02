@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-03 00:14:22",
-  "count": 11995,
+  "updated": "2026-09-03 00:18:22",
+  "count": 11988,
   "items": [
+    {
+      "id": "5073800",
+      "time": "2026-09-03 00:17:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：併購交易規模有望突破2021年曆史高位。"
+    },
+    {
+      "id": "5073799",
+      "time": "2026-09-03 00:16:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：企業董事會正圍繞增長議題展開討論。"
+    },
+    {
+      "id": "te:markets:580566",
+      "time": "2026-09-03 00:15:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Lower — European stock indices closed with little movement on Wednesday, remaining at a one-month low amid persistent pressure from soaring borrowing costs. The Euro STOXX 50 fell 0.1% to 6,363 and the STOXX Europe 600 dropped 0.2% to 646. Renewed fighting in the Middle East continued to put upward pressure on oil prices, stoking inflation concerns and raising expectations of tighter monetary policy. The bond sell-off also intensified, with linger maturity European government bond yields climbing to multi-decade highs in many economies. Utilities booked sharp losses as European natural gas prices rose further, with Enel and Iberdrola dropping 2.6% and 1.2%, respectively. Consumer discretionary was also under pressure with Inditex and LVMH down 2% and 2.5%. Meanwhile, Volkswagen sank almost 4% as it will leave the STOXX 50 index, to be replaced by Nokia, which has recently surged amid the global rally for AI infrastructure this year."
+    },
+    {
+      "id": "5073798",
+      "time": "2026-09-03 00:15:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：併購與IPO業務儲備專案持續增加。"
+    },
+    {
+      "id": "mkt:01a062e6-a5e8-7118-8469-0c6f2f5a0bb5",
+      "time": "2026-09-03 00:14:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian foreign ministry summons German chargé over anti-Russia measures】Russia's foreign ministry said on the 2nd it summoned Germany's chargé d'affaires in Moscow over the German government's anti-Russia actions and statements on the 1st, and denied German allegations of Russian involvement in the Leipzig airport incident. The ministry said Berlin used the allegation as a pretext to close Russia's consulate in Bonn and the Russian House in Berlin and warned it would respond forcefully. President Putin on the 1st said Germany had no evidence linking Russia to the incident and that the accusations were tied to German domestic politics."
+    },
+    {
+      "id": "mkt:01a062e6-0dc6-7118-8469-0017732702e2",
+      "time": "2026-09-03 00:13:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese news agency reported the UAE foreign ministry condemned Iran's attacks on Bahrain, Kuwait, Jordan and Iraqi Kurdistan, calling them serious violations of sovereignty."
+    },
     {
       "id": "te:markets:580565",
       "time": "2026-09-03 00:13:34",
@@ -110281,130 +110333,6 @@
         "其他"
       ],
       "text": "【央行開通國庫資金匯劃“綠色通道”保障救災資金撥付】從中國人民銀行獲悉，中國人民銀行西藏自治區分行已開通國庫資金匯劃“綠色通道”，緊急撥付吉隆縣吉隆口岸泥石流救災資金，組織轄內國庫全力做好救災服務保障工作。（新華社）"
-    },
-    {
-      "id": "mkt:01a03edd-294e-7aab-9134-6f550835641d",
-      "time": "2026-08-27 00:17:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude rose above $88/bbl, up 2.57% intraday."
-    },
-    {
-      "id": "5060650",
-      "time": "2026-08-27 00:17:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報88.15美元/桶。"
-    },
-    {
-      "id": "5060649",
-      "time": "2026-08-27 00:17:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破88美元/桶，日內漲1.00%。"
-    },
-    {
-      "id": "5060648",
-      "time": "2026-08-27 00:17:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報83.29美元/桶。"
-    },
-    {
-      "id": "mkt:01a03edc-a26e-7aab-9134-60dd4fc4dcd0",
-      "time": "2026-08-27 00:17:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude futures topped $83/bbl, up 2.33% on the day."
-    },
-    {
-      "id": "5060647",
-      "time": "2026-08-27 00:17:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破83美元/桶，日內漲0.79%。"
-    },
-    {
-      "id": "mkt:01a03edc-3c96-7aab-9134-5a4a727b388b",
-      "time": "2026-08-27 00:16:55",
-      "tags": [
-        "MKT News",
-        "UBSG.SW",
-        "Impact bullish"
-      ],
-      "text": "Swiss National Bank vice chair supports the government's proposal for stricter capital rules for UBS, saying the measure will make the Swiss financial market more resilient."
-    },
-    {
-      "id": "5060646",
-      "time": "2026-08-27 00:16:49",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "瑞士國家銀行支援政府針對瑞銀出臺更嚴苛資本監管規則的提案。"
-    },
-    {
-      "id": "mkt:01a03edb-8419-7aab-9134-5722b70bc989",
-      "time": "2026-08-27 00:16:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the White House will announce most-favored-nation drug-pricing agreements with several biotechnology firms."
-    },
-    {
-      "id": "mkt:01a03edb-43bf-7aab-9134-4f3b847556ca",
-      "time": "2026-08-27 00:15:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry said it has dispatched a C-130J aircraft to Nepal carrying 10 tonnes of supplies."
-    },
-    {
-      "id": "te:markets:578351",
-      "time": "2026-08-27 00:15:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Wheat is up by 5.04% — Wheat increased 5.04% to 720.08 USd/Bu"
-    },
-    {
-      "id": "te:markets:578349",
-      "time": "2026-08-27 00:14:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Wheat Hits 26-month High — Wheat increased to 718.75 USd/Bu, the highest since May 2024. Over the past 4 weeks, Wheat gained 8.62%, and in the last 12 months, it increased 42.73%."
-    },
-    {
-      "id": "5060645",
-      "time": "2026-08-27 00:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 白宮將宣佈與多家生物科技企業達成最惠國待遇藥品定價協議。"
     }
   ]
 }
