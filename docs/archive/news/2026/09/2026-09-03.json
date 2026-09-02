@@ -1,7 +1,62 @@
 {
   "date": "2026-09-03",
-  "count": 264,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:01a0639a-64bf-7118-846c-9ce4c94e3e03",
+      "time": "2026-09-03 03:30:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. will impose very strict controls on fund flows under the Venezuela NABEP agreement."
+    },
+    {
+      "id": "mkt:01a0639a-0a2b-7118-846c-9051246f6877",
+      "time": "2026-09-03 03:30:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【U.S. government backs OpenAI fair-use defense in publishers' copyright suit】The U.S. government filed a court brief supporting OpenAI’s position in a copyright dispute with publishers including the New York Times, saying use of news content to train AI models falls under U.S. copyright fair use. The Justice Department argued that restricting AI firms’ use of copyrighted material for model training would violate copyright-law principles, hinder innovation and scientific progress, and that training is “highly transformative” and does not harm the market for original works. The filing warned that tightening fair-use rules could leave only large tech firms able to pay licensing fees and weaken U.S. AI competitiveness. The New York Times sued Microsoft and OpenAI in December 2023 alleging ChatGPT and Microsoft Copilot used Times content for model training; parties expect to file new motions after discovery is completed."
+    },
+    {
+      "id": "5073952",
+      "time": "2026-09-03 03:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國將對資金流向實施嚴格管控。"
+    },
+    {
+      "id": "5073951",
+      "time": "2026-09-03 03:27:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7193元，較週二夜盤收盤漲9點。成交量360.18億美元。"
+    },
+    {
+      "id": "5073950",
+      "time": "2026-09-03 03:27:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國政府 “極為審慎地” 談判達成委內瑞拉相關協議。"
+    },
+    {
+      "id": "5073949",
+      "time": "2026-09-03 03:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯： 商人亞歷杭德羅・貝坦庫爾在委內瑞拉沒有正在審理的法律案件。"
+    },
     {
       "id": "mkt:01a06395-e363-7118-846c-8927385294c7",
       "time": "2026-09-03 03:26:02",
