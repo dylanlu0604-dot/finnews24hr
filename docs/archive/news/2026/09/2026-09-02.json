@@ -1,7 +1,118 @@
 {
   "date": "2026-09-02",
-  "count": 2881,
+  "count": 2892,
   "items": [
+    {
+      "id": "5073755",
+      "time": "2026-09-02 23:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗與俄羅斯：遺憾的是，就伊朗問題而言，我們與俄羅斯對局勢的看法並不一致。"
+    },
+    {
+      "id": "mkt:01a062c2-755f-7118-8468-7978e5c878a3",
+      "time": "2026-09-02 23:35:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German government spokesman said Chancellor Merz pledged to Ukrainian President Zelenskiy that Ukraine can rely on Germany for firm, sustained civilian and military support."
+    },
+    {
+      "id": "5073754",
+      "time": "2026-09-02 23:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人表示，德國總理默茨向澤連斯基保證，烏克蘭可以相信德國會堅定地繼續向其提供民用與軍事支援。"
+    },
+    {
+      "id": "5073753",
+      "time": "2026-09-02 23:34:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【追覓將在IFA展示百餘款產品，ECHO系列家庭服務機器人將亮相】9月2日晚間訊息，IFA 2026期間，追覓將集中展示覆蓋超過16個品類的百餘款產品及多項首創技術，涵蓋智慧清潔、生活環境電器、個人護理、擦窗和小廚電等多個家庭場景。追覓還將首次集中呈現由全域感知系統、家庭通用模型和智慧控制系統構成的三大物理AI技術底座，並展示處於研發階段的ECHO系列家庭服務機器人。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a062c1-d0e3-7118-8468-769bca88eeb4",
+      "time": "2026-09-02 23:34:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 4-month Treasury auction stop-out yield 3.855% as of Sept. 2; prior 3.75%."
+    },
+    {
+      "id": "mkt:01a062c1-aa4a-7118-8468-693de457c92e",
+      "time": "2026-09-02 23:34:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.2) | actual 3.855% | previous 3.75%"
+    },
+    {
+      "id": "mkt:01a062c1-a31f-7118-8468-67a9119106c8",
+      "time": "2026-09-02 23:34:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 4-month Treasury auction to Sep 2 — share awarded at the stop-out yield 76.38% vs 34.83% previously."
+    },
+    {
+      "id": "mkt:01a062c1-7d8c-7118-8468-5b5cd1bb2ea4",
+      "time": "2026-09-02 23:34:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury auction to Sept. 2 — bid-cover ratio 2.78; previous 3.09."
+    },
+    {
+      "id": "te:markets:580545",
+      "time": "2026-09-02 23:33:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds From Two-Week Lows — Silver rose above $65 an ounce in afternoon trading Wednesday, recovering from two-week lows as the US dollar and Treasury yields pulled back from recent highs. Investors are awaiting US payrolls data on Friday for further clues on the Federal Reserve’s policy path. Oil prices hovered around six-week highs as traders weighed elevated supply risks from ongoing Middle East hostilities against signs that crude was still reaching the market. Meanwhile, the latest ADP report showed US private businesses added 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Markets now price in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool."
+    },
+    {
+      "id": "mkt:01a062c1-422c-7118-8468-559d498c293f",
+      "time": "2026-09-02 23:33:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.2) | actual 2.78 | previous 3.09"
+    },
+    {
+      "id": "5073752",
+      "time": "2026-09-02 23:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "GE Vernova股價上漲至2.2%，創盤中新高。"
+    },
     {
       "id": "5073751",
       "time": "2026-09-02 23:32:30",
