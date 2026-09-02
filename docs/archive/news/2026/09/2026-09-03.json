@@ -1,7 +1,46 @@
 {
   "date": "2026-09-03",
-  "count": 21,
+  "count": 25,
   "items": [
+    {
+      "id": "5073796",
+      "time": "2026-09-03 00:08:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所1月期鉛參考收盤價為每噸1864美元。"
+    },
+    {
+      "id": "mkt:01a062e0-55d6-7118-8468-fba9a7f9debe",
+      "time": "2026-09-03 00:07:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Traders said Russian ESPO blend for November delivery rose to a premium of $7–10/bbl over ICE Brent."
+    },
+    {
+      "id": "te:markets:580561",
+      "time": "2026-09-03 00:07:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.28% Lower — The FTSE 100 Index fell 30 points or 0.28 percent on Wednesday to close at 10759 points. Leading the losses are JD Sports Fashion (-3.86%), Kingfisher (-3.04%) and Experian (-2.86%). Top gainers were Endeavour (2.54%), Intercontinental Hotels (1.86%) and Standard Chartered (1.84%)."
+    },
+    {
+      "id": "5073795",
+      "time": "2026-09-03 00:06:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，受買家積極採購推動，11月裝船的俄羅斯ESPO混合原油較ICE布倫特原油的升水飆升至每桶7-10美元。"
+    },
     {
       "id": "mkt:01a062dd-11db-7118-8468-f07723bf6f2c",
       "time": "2026-09-03 00:04:10",
