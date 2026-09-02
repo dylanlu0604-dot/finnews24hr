@@ -1,7 +1,105 @@
 {
-  "updated": "2026-09-03 07:37:15",
-  "count": 12008,
+  "updated": "2026-09-03 07:41:22",
+  "count": 12019,
   "items": [
+    {
+      "id": "te:economy:580606",
+      "time": "2026-09-03 07:40:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Global Composite PMI Revised Higher — Australia’s S&P Global Composite PMI stood at 52.7 in August 2026, up from flash data of 52.5 but eased from 53.2 in the previous month. The latest reading marked the fourth expansion in private-sector activity in five months, although growth remained concentrated in services as manufacturing output edged lower. New orders increased across both sectors, lifting composite new business for a second consecutive month, while new export orders rose for the first time in five months. Business confidence strengthened to a six-month high, and firms continued to increase staffing levels. Meanwhile, input cost inflation accelerated, pointing to renewed cost pressures, but the pace of selling-price inflation eased from July, suggesting businesses were less aggressive in passing higher costs on to customers."
+    },
+    {
+      "id": "5074121",
+      "time": "2026-09-03 07:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國週二護送了40艘商船透過霍爾木茲海峽，被護航船隻載有1800萬桶原油。"
+    },
+    {
+      "id": "mkt:01a0647d-8d99-7118-846f-b48c6c3972ed",
+      "time": "2026-09-03 07:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mass shooting in Minneapolis】A mass shooting occurred in Minneapolis, Minnesota, on the 2nd, local authorities said. Multiple people were reported victims, including two police officers. A large police deployment is on scene; casualty details remain unclear."
+    },
+    {
+      "id": "5074120",
+      "time": "2026-09-03 07:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國週二護送了40艘商船透過霍爾木茲海峽。"
+    },
+    {
+      "id": "5074119",
+      "time": "2026-09-03 07:38:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國明尼阿波利斯發生大規模槍擊事件】美國明尼蘇達州明尼阿波利斯市2日發生大規模槍擊事件，當地政府說，已有多人成為“受害者”，包括兩名警察。大批警力正在現場處置，具體傷亡情況不明。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609023863142831",
+      "time": "2026-09-03 07:38:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【三因素有望推動8月份CPI同比溫和上漲】9月2日，記者採訪的多位業內人士就8月份居民消費價格指數（CPI）與工業生產者出廠價格指數（PPI）走勢進行了前瞻分析。受訪業內人士普遍預計，綜合高頻食品價格、國際大宗商品價格以及暑期服務消費變化判斷，8月份，CPI同比或保持溫和上漲，PPI同比漲幅或小幅回落。"
+    },
+    {
+      "id": "5074118",
+      "time": "2026-09-03 07:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三類基金悄然領跑 市場從極致分化向相對均衡迴歸】9月2日，A股市場震盪調整，成長板塊整體承壓，創業板指盤中跌幅一度超過4%，但結構性行情依舊活躍，油氣、能源等方向逆勢走強。科技板塊降溫，能源、週期等方向接力活躍，成為近期市場風格變化的又一個縮影。下半年以來，隨著前期強勢的科技板塊震盪調整，紅利、微盤、週期等方向相繼反彈，相關基金淨值快速修復，部分產品漲幅已經躋身全市場前列，成長與價值、進攻與防守之間的極致分化出現收斂跡象。在多位基金經理看來，這並非一種風格對另一種風格的簡單替代，而是市場從極致分化向相對均衡迴歸。面對市場對盈利兌現的要求提升，以及宏觀環境仍存較大不確定性，兼顧成長彈性與穩定現金流的槓鈴策略再度受到關注，其另一端的配置價值也開始被重新審視。"
+    },
+    {
+      "id": "5074117",
+      "time": "2026-09-03 07:36:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：客觀認識民間投資增速回落】國家統計局資料顯示，今年前7個月，全國固定資產投資同比下降6.7%，其中民間投資下降9.4%，與國有控股投資3.3%的降幅形成明顯反差。當前，立足新發展階段，客觀認識民間投資面臨的挑戰與機遇，需聚焦制度最佳化與賦能，多措並舉持續激發民間投資活力。一段時間以來，民間投資增速放緩引發各方關注，對此要辯證看待。近幾年，民間投資增速較整體固投增速下滑更為明顯，尤其是自2022年起持續低於國有控股投資增速。短期看，今年前7個月投資降幅擴大，既有部分地區高溫暴雨對專案施工的擾動，也有外部環境複雜嚴峻、國內經濟轉型調整的階段性影響。長期看，民間投資正處於結構最佳化、動能轉換的關鍵期。國內供強需弱矛盾仍然突出，房地產及部分傳統制造領域仍在深度調整，並透過產業鏈關聯效應抑制上下游民間投資意願。與此同時，新基建、高技術產業雖加快成長，仍面臨專案供給、回報機制和長期融資等堵點，相較傳統領域的體量尚有限，整體投資需求邊際承壓。換言之，投資增速回落，很大程度上是新舊動能轉換中的“換擋”現象。民間資本正從傳統領域向新興產業、未來產業賽道加速躍遷，投資的“含新量”不斷提升。"
+    },
+    {
+      "id": "te:markets:580605",
+      "time": "2026-09-03 07:36:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Surges on Suspected Rate Check — The Japanese yen traded around 158.8 per dollar on Thursday after rallying sharply overnight on speculation that authorities had conducted a rate check, where officials would contact banks to check on exchange rates and signal the possibility of intervention. The yen jumped as much as 1.2% to 158.21 in New York trading on Wednesday, keeping markets on alert for any signs that authorities could step in again to support the Japanese currency. The yen sank to 40-year lows in late July amid wide interest rate differentials, growing fiscal concerns and elevated energy and import costs, shortly before Tokyo and Washington conducted a joint yen-buying operation. Meanwhile, BOJ board member Hajime Takata raised the possibility of outsized or back-to-back rate hikes to contain rising inflationary pressures. Governor Kazuo Ueda also said that policymakers need to pay greater attention to upside price risks when conducting monetary policy, signaling that a rate hike is likely later this month."
+    },
+    {
+      "id": "5074116",
+      "time": "2026-09-03 07:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱新戰略將摧毀敵方根基 】伊朗最高國家安全委員會秘書雷扎伊9月2日表示，伊朗已在軍事、外交以及應對經濟封鎖方面制定新戰略，將“摧毀敵方根基”。雷扎伊在社交媒體平臺發文說，敵方無論如何“垂死掙扎”，都無法擺脫當前困境。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609023863144295",
+      "time": "2026-09-03 07:35:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【8月份新增信貸、社融或同比少增】隨著8月份金融資料釋出視窗臨近，記者採訪多位業內專家，對當月新增信貸及社融資料等進行前瞻分析。綜合來看，業界普遍判斷：2026年8月份新增信貸、社融規模較2025年同期或少增。資料顯示，2025年8月份新增信貸規模為5900億元，社融增量為2.57萬億元。"
+    },
     {
       "id": "5074115",
       "time": "2026-09-03 07:34:03",
