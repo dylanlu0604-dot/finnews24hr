@@ -1,7 +1,155 @@
 {
-  "updated": "2026-09-02 09:38:05",
-  "count": 12818,
+  "updated": "2026-09-02 09:41:56",
+  "count": 12820,
   "items": [
+    {
+      "id": "5072074",
+      "time": "2026-09-02 09:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國兩艘瀕海戰鬥艦抵達關塔那摩】當地時間8月31日至9月1日，美國海軍兩艘瀕海戰鬥艦抵達位於古巴關塔那摩灣的美國海軍基地，但並未說明兩艘戰艦此次部署的具體目的或任務內容。美軍此次部署正值美古關係趨於緊張之際，有推測稱，美國正有意加強其在加勒比地區的軍事存在與監視活動。 (央視新聞)"
+    },
+    {
+      "id": "5072073",
+      "time": "2026-09-02 09:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【南京銀行股價創歷史新高】南京銀行盤中股價創歷史新高，現漲0.08%，報11.93元，總市值為1473.74億元。"
+    },
+    {
+      "id": "5072072",
+      "time": "2026-09-02 09:40:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "高田創：人工智慧需求要求轉變思維模式。"
+    },
+    {
+      "id": "mkt:01a05fc5-f18b-7118-844d-3fe0efc539b7",
+      "time": "2026-09-02 09:40:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 2 bps to 3.010%, its highest level since September 1996."
+    },
+    {
+      "id": "mkt:01a05fc5-d8ba-7118-844d-322254ddd1b9",
+      "time": "2026-09-02 09:39:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Yushu Technology shares fell below 550 yuan, roughly 50% down from their listing-day peak of 1,100 yuan."
+    },
+    {
+      "id": "5072071",
+      "time": "2026-09-02 09:39:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天軍工板塊表現活躍 建設工業等漲停】航天軍工板塊表現活躍，建設工業、內蒙一機漲停，北方長龍、天秦裝備、長城軍工等上漲。"
+    },
+    {
+      "id": "te:economy:580240",
+      "time": "2026-09-02 09:39:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond Korea",
+        "Importance 1"
+      ],
+      "text": "South Korea 10Y Bond Yield Hits 5-week High — South Korea 10 Year Government Bond Yield increased to 4.43%, the highest since July 2026. Over the past 4 weeks, South Korea 10Y Bond Yield gained 16.50 basis points, and in the last 12 months, it increased 150.60 basis points."
+    },
+    {
+      "id": "mkt:01a05fc5-5c05-7118-844d-2c1773276a29",
+      "time": "2026-09-02 09:39:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share agricultural sector slid: Hualv Biology fell more than 10%; Kangnong Seed, Guotou Fengle, Qiule Seed, Denghai Seed, Shenliang Holdings and Dunhuang Seed each dropped over 5%."
+    },
+    {
+      "id": "5072070",
+      "time": "2026-09-02 09:39:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5072069",
+      "time": "2026-09-02 09:39:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.0個基點至3.010%，為1996年9月以來最高水平。"
+    },
+    {
+      "id": "mkt:01a05fc4-bf1c-7118-844d-27e179a5a15a",
+      "time": "2026-09-02 09:38:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan policy board member TAKATA said the final assessment of the monetary easing policy will depend on whether it can be withdrawn smoothly."
+    },
+    {
+      "id": "5072068",
+      "time": "2026-09-02 09:38:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "宇樹科技股價跌破550元，較上市首日創下的盤中高點下跌50%。"
+    },
+    {
+      "id": "mkt:01a05fc4-792c-7118-844d-1b686355bc3c",
+      "time": "2026-09-02 09:38:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "【Two US littoral combat ships arrive at Guantanamo Bay】Two US Navy littoral combat ships arrived at the US naval base in Guantanamo Bay, Cuba, on Aug 31–Sept 1 local time; officials did not disclose the vessels’ mission. The deployment coincides with heightened US‑Cuba tensions and some observers say it may reflect an effort to bolster US naval presence and surveillance in the Caribbean."
+    },
+    {
+      "id": "5072067",
+      "time": "2026-09-02 09:38:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員高田創：需要謹記風險，即如果推高價格的海外因素出現，日本可能面臨比預期更大幅度的物價上漲。"
+    },
+    {
+      "id": "5072066",
+      "time": "2026-09-02 09:37:56",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【廖岷出席2026年二十國集團財長和央行行長第二次會議】2026年8月31日至9月1日，二十國集團(G20)主席國美國在美國北卡羅來納州阿什維爾市舉行今年第二次G20財長和央行行長會議。會議主要就全球宏觀經濟形勢、全球增長、全球失衡、國際債務和金融素養等議題進行討論。財政部副部長廖岷率團出席會議併發言。廖岷表示，當前全球經濟面臨多重挑戰，G20應堅持踐行真正的多邊主義，進一步加強宏觀經濟政策協調，推動實現更加強勁的全球增長。G20各方應維護自由貿易，促進普惠包容的經濟全球化，為國際貿易和資本流動創造有利的政策環境。人工智慧正深刻重塑經濟發展模式，各方應堅持合作共贏、彌合數智鴻溝、促進可持續發展。各方應全面、客觀、平衡看待全球失衡問題，並透過促進發展從根本上解決發展中國家債務問題。"
+    },
     {
       "id": "5072065",
       "time": "2026-09-02 09:37:25",
@@ -154,6 +302,15 @@
         "Greater China"
       ],
       "text": "China A-share defense stocks extended gains; Inner Mongolia First Machinery surged over 8% intraday, while Beifang Changlong, Great Wall Military, Tianqin Equipment, Jieqiang Equipment and Zhongbing Hongjian also advanced."
+    },
+    {
+      "id": "em:qqyh_rbyh:202609023862410488",
+      "time": "2026-09-02 09:35:27",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行審議委員高田創表示，必須密切關注日本與其他國家貨幣政策立場分化可能導致外匯市場劇烈波動的風險。"
     },
     {
       "id": "mkt:01a05fc1-b954-7118-844c-eb5a78876bcf",
@@ -117425,146 +117582,6 @@
         "市場"
       ],
       "text": "農藥板塊短線拉昇，新農股份漲停，百傲化學、利民股份、聯化科技、揚農化工、廣信股份等紛紛走高。"
-    },
-    {
-      "id": "5058793",
-      "time": "2026-08-26 09:41:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "預告：國務院新聞辦公室將於2026年8月28日（星期五）上午10時舉行新聞釋出會，請商務部副部長鄢東、北京市副市長唐文弘介紹中國服務貿易發展和2026年服貿會籌備工作進展情況，並答記者問。"
-    },
-    {
-      "id": "mkt:01a03bba-74a1-7aab-911d-d45662b0ae29",
-      "time": "2026-08-26 09:41:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Malaysian ringgit rose to 4.03 per US dollar, its strongest level since early June."
-    },
-    {
-      "id": "5058792",
-      "time": "2026-08-26 09:40:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特兌美元匯率升至4.030，創6月初以來新高。"
-    },
-    {
-      "id": "5058791",
-      "time": "2026-08-26 09:40:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股有色金屬股走強 江西銅業股份漲超6%】截至發稿，江西銅業股份(00358.HK)漲6.45%，力勤資源(02245.HK)漲5.58%，五礦資源(01208.HK)漲3.96%。"
-    },
-    {
-      "id": "5058790",
-      "time": "2026-08-26 09:40:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼棕櫚油協會表示，印尼6月含成品油在內的棕櫚油出口量為328萬噸。"
-    },
-    {
-      "id": "mkt:01a03bb9-6255-7aab-911d-c9fb5cc86a86",
-      "time": "2026-08-26 09:40:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share property sector rallied intraday; Shibei Gaoxin hit the daily trading limit, while Huafa Co., Sanxiang Impression, Fuxing Co., WorldUnion and Yangguang advanced."
-    },
-    {
-      "id": "mkt:01a03bb9-5512-7aab-911d-c6bf09133a4d",
-      "time": "2026-08-26 09:39:56",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share power sector rallied; Xin Zhonggang hit the daily trading limit, while Zhongnan Culture, Rongsheng Environmental, Feima International, Beifang International, Shenzhen Energy and Disen also advanced."
-    },
-    {
-      "id": "5058789",
-      "time": "2026-08-26 09:39:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長安基金總經理調整 原萬聯資管董事長李曄接任】8月26日，長安基金髮布高階管理人員變更公告，原萬聯資管董事長李曄自8月24日起出任公司總經理，原總經理孫曉偉因工作調整離任。"
-    },
-    {
-      "id": "5058788",
-      "time": "2026-08-26 09:39:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【液冷伺服器概念延續強勢 康盛股份、豪爾賽2連板】液冷伺服器概念延續昨日強勢，康盛股份、豪爾賽2連板，億利達4天3板，超頻三、英維克、歐陸通、南方泵業等跟漲。"
-    },
-    {
-      "id": "te:economy:578077",
-      "time": "2026-08-26 09:39:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Australia Inflation Rate at 8-Month Low of 3.5% — The annual inflation rate in Australia slowed to 3.5% in July 2026 from 3.8% in June and expectations of 3.3%, but remained above the central bank's 2–3% target range. It was the softest increase since November 2025, as goods inflation moderated to an eleven-month low of 3.2%. Services inflation also eased to 3.7% from 4.0%. Housing inflation eased to an 11-month low of 5.0% (vs 6.8%), with electricity prices rising the least in four months. Inflation also eased for food and non-alcoholic beverages (3.2% vs 3.3%)."
-    },
-    {
-      "id": "5058787",
-      "time": "2026-08-26 09:39:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK創新：將在綜合考量各項財務因素後公佈股東回報政策。"
-    },
-    {
-      "id": "mkt:01a03bb8-d421-7aab-911d-b8cb6cd65e20",
-      "time": "2026-08-26 09:39:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【U.S. and Iran both misstate Strait of Hormuz situation, former U.S. diplomat says】A former U.S. diplomat said both U.S. and Iranian statements on the Strait of Hormuz are inaccurate: U.S. claims the strait is open are not entirely correct, and Iran’s assertions that it has closed the waterway are also false. Iran lacks the physical capability to fully seal the strait and instead relies on coercion—threats and missile strikes against unarmed merchant vessels—to try to compel compliance. Not all shipping is obeying Iran’s threats; some ships switch off AIS, run at night and hug the Omani coast. The U.S. military is deploying assets to protect vessels where possible."
-    },
-    {
-      "id": "5058786",
-      "time": "2026-08-26 09:39:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力概念異動拉昇，新中港漲停】電力概念異動拉昇，新中港漲停，中南文化、榮晟環保、飛馬國際、北方國際、深圳能源、迪森股份等跟漲。"
-    },
-    {
-      "id": "te:markets:578076",
-      "time": "2026-08-26 09:38:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Edge Higher — The benchmark KOSPI edged up to around 6,745 on Wednesday, trading little changed from the previous session, as semiconductor stocks advanced ahead of Nvidia’s earnings report. Samsung Electronics and SK hynix both gained nearly 1% as US chip stocks rallied overnight, with the Nasdaq rising 0.66% and boosting sentiment toward Korea’s technology sector. Large-cap performance was mixed, with gains from Samsung C&T (3.6%), Shinhan Financial Group (1.5%), and Doosan Enerbility (4.8%), while SK Square (-1.7%) and LG Energy Solution (-1.1%) posted losses. Additionally, lower US Treasury yields supported equity sentiment by easing pressure on technology stock valuations. Falling oil prices and reduced concerns over disruptions in the Strait of Hormuz also eased pressure on South Korea’s import costs. Meanwhile, investors remained cautious ahead of Nvidia’s results, which could influence the broader AI and semiconductor sector."
     }
   ]
 }
