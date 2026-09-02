@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-02 14:20:00",
-  "count": 12792,
+  "updated": "2026-09-02 14:23:59",
+  "count": 12795,
   "items": [
+    {
+      "id": "5072451",
+      "time": "2026-09-02 14:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：電解液及六氟磷酸鋰產能基本滿產】9月2日午間，天賜材料在深交所互動易平臺回答了投資者有關公司產能情況的提問。公司回覆表示，從目前下游電芯廠的需求反饋看，目前，電解液產品訂單需求飽滿，公司電解液及六氟磷酸鋰產能利用率已基本處於滿產水平。"
+    },
+    {
+      "id": "5072450",
+      "time": "2026-09-02 14:23:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊午後再度走強 科德教育漲超8%】教育板塊午後再度走強，科德教育漲超8%，ST東時、傳智教育等跟漲。"
+    },
+    {
+      "id": "5072449",
+      "time": "2026-09-02 14:22:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國10年期國債收益率創兩年多來新高】受國際油價進一步上漲和多個主要經濟體國債遭投資者拋售影響，美國10年期國債收益率9月1日繼續走高，當日盤中突破4.8%，收盤時上漲4.1個基點，收於4.797%，升至2023年10月18日以來的高點。同時，30年期國債收益率當日上漲3.3個基點，收於5.277%。金融相關人士表示，中東戰事爆發6個月後，仍然看不到霍爾木茲海峽重新開放的清晰路徑，外界對通脹的擔憂依然處於高位。美聯儲貨幣政策前景的不確定性、財政方面的擔憂以及人工智慧相關債券發行的增多均讓債券市場承壓。債券收益率的波動性很可能在近期持續。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a060c8-b4f4-7118-8454-0dc1c154a3b2",
+      "time": "2026-09-02 14:22:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【As of Aug 30, Guangzhou signed 4,222 new-home contracts in August, 462,000 sqm】As of Aug 30, Guangzhou recorded 4,222 online contract signings for newly built commodity residential units in August, totaling 462,000 sqm. Jan–Aug cumulative contract area reached 4.391 mln sqm, up 1.3% YoY; market shows some resilience and sales are expected to pick up during the traditional Golden September–October selling season."
+    },
+    {
+      "id": "5072448",
+      "time": "2026-09-02 14:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數觸及19日新高99.808，最新報99.719。"
+    },
+    {
+      "id": "te:markets:580335",
+      "time": "2026-09-02 14:21:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Rises on Escalating US-Iran Hostilities — UK natural gas prices climbed above 180 pence a therm on Wednesday, the highest level since January 2023, as rising hostilities between the US and Iran heightened fears of a prolonged disruption to LNG supplies from the Persian Gulf. Iran struck back at US military bases in Jordan, Kuwait and Bahrain following the latest US attacks on Iranian targets near the Strait of Hormuz, which President Trump said were in response to Iranian mine-laying attempts in the waterway and an earlier attack on a US base in Jordan. The escalation comes as LNG flows through the strait were almost at a standstill, tightening supplies and forcing European buyers to compete more aggressively for alternative cargoes as they prepare for the winter heating season. With European gas storage levels still below their usual seasonal levels, an extended disruption would leave the region more exposed to sharper price volatility once colder weather arrives."
+    },
+    {
+      "id": "5072446",
+      "time": "2026-09-02 14:21:13",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【IMF總裁：全球經濟前景仍面臨高不確定性】國際貨幣基金組織（IMF）總裁格奧爾基耶娃9月1日在二十國集團財長和央行行長會議上致辭說，今年全球經濟3%的預期增速背後是增長的嚴重分化，增長前景依然面臨高不確定性。發達經濟體債券收益率走高推升全球利率水平，這令人擔憂。 格奧爾基耶娃說，全球公共部門債務佔國內生產總值（GDP）的比重接近100%，這已超過二戰後的高位並預計將進一步攀升。很多國家的通脹回落過程已經停滯，不斷增加的財政壓力在推高核心債券收益率，財政和貨幣政策的相互影響令市場擔憂。最後，人工智慧未來對生產力和金融穩定的影響依然未知。 格奧爾基耶娃表示，全球利率持續走高尤其令人擔憂。主要發達經濟體債券收益率升至多年高位，帶動全球融資成本普遍上升。一些新興市場雖然與發達經濟體的利差有所收窄，但這一利好已被全球基準利率上升帶來的融資成本增加抵消。 與此同時，發展中國家的外部融資環境進一步收緊。融資減少、借貸成本上升和債務再融資壓力加大相互疊加，進一步擠壓了許多發展中國家特別是低收入國家用於基礎設施、醫療和教育等領域的資金空間。(新華社)"
+    },
+    {
+      "id": "mkt:01a060c6-710a-7118-8454-02de2cf99f5b",
+      "time": "2026-09-02 14:20:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 93.30 points, or 1.03%, at 8,973.40 on Wednesday, Sept. 2."
+    },
+    {
+      "id": "5072445",
+      "time": "2026-09-02 14:19:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區國債收益率連續第六個交易日上行，德國兩年期國債收益率觸及2024年6月以來最高水平，報2.975%。"
+    },
+    {
+      "id": "mkt:01a060c6-0c73-7118-8453-f9505c62443e",
+      "time": "2026-09-02 14:19:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Eurozone government bond yields rose for a sixth straight session; Germany's 2-year government bond yield hit its highest level since June 2024 at 2.975%."
+    },
     {
       "id": "5072444",
       "time": "2026-09-02 14:18:29",
@@ -117158,64 +117251,6 @@
         "央行"
       ],
       "text": "【澳新銀行預計澳大利亞央行將於11月加息25個基點至4.6%】澳新銀行分析師Adam Boyton和Jack Chambers週三在研報中表示，澳大利亞7月通脹資料意外走高，表明央行短期預測面臨越來越大的威脅，上行風險“正逐漸顯現”。他們表示，額外加息應該足以減緩經濟活動，從而減輕進一步通脹的風險。他們補充說，“雖然7月資料高企令人不安，但我們認為沒有足夠的理由在9月加息。”"
-    },
-    {
-      "id": "5059146",
-      "time": "2026-08-26 14:23:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國煉油廠面臨新的原油供應中斷威脅】全球燃料正處於供應短缺的困境中，這與中東和俄烏煉油廠產能大幅下降有著直接的關係。為了填補這一供應空白，全球其他地區的煉油廠正在提高產能。其中，美國煉油廠已連續數月滿負荷運轉，其燃料出口量也屢創新高。但作為重要支撐的美國煉油業即將迎來新的挑戰。Rystad Energy本週表示，由於油砂礦的維護作業，加拿大9月份原油日產量可能減少30萬桶。加拿大石油生產商一般每天向美國煉油廠供應400萬桶重質原油，但下個月起加拿大所有的主要油砂運營商都將減產進行維護。通常情況下，每當出現這種季節性供應中斷時，美國地區的庫存原油會先行補齊供應，但報告顯示，美國原油庫存也低於往常水平，為12個月以來最低。"
-    },
-    {
-      "id": "5059145",
-      "time": "2026-08-26 14:22:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4630美元/盎司，日內跌0.63%。"
-    },
-    {
-      "id": "5059144",
-      "time": "2026-08-26 14:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美銀：美加貿易衝突經濟影響有限 但信心衝擊巨大】美國銀行評價稱，美加貿易談判破裂及後續的加徵關稅，對兩國經濟增長的直接影響或將有限；但美銀更為擔憂兩國（尤其是加拿大）企業信心遭受衝擊，同時《美墨加協定》（USMCA）的續約前景遭到破壞。"
-    },
-    {
-      "id": "mkt:01a03cbb-bdd1-7aab-9124-33d7256af617",
-      "time": "2026-08-26 14:22:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 30.6 points, or 0.33%, at 9,134.00 on Wednesday, August 26."
-    },
-    {
-      "id": "5059143",
-      "time": "2026-08-26 14:22:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【伊朗議長：貝森特拿錯了劇本，這不是諾曼底登陸】美國與伊朗的衝突對峙將滿半年之際，特朗普政府再度加碼對伊制裁。美國財政部長貝森特近日表示，美方將對伊朗實施所謂“經濟孤立”的新一輪制裁措施，並將此次行動稱為“經濟諾曼底登陸”，試圖以此逼迫伊朗妥協。伊朗伊斯蘭議會議長卡利巴夫隨後在社交媒體發文調侃說，“這裡不是諾曼底登陸，這是即興表演之夜”，並說貝森特“拿錯了自己的劇本”。（新華社）"
-    },
-    {
-      "id": "5059142",
-      "time": "2026-08-26 14:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【創維儲能獲羅馬尼亞、塞普勒斯儲能訂單】據創維數字訊息，創維儲能在歐洲工商業市場再獲進展，在羅馬尼亞、塞普勒斯接連收穫訂單確認，合計突破31MWh。"
-    },
-    {
-      "id": "5059141",
-      "time": "2026-08-26 14:20:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月26日：“農產品批發價格200指數”比昨天上升0.15個點】據農業農村部監測，8月26日“農產品批發價格200指數”為115.80，比昨天上升0.15個點，“菜籃子”產品批發價格指數為116.37，比昨天上升0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.24元/公斤，比昨天下降0.4%；牛肉69.09元/公斤，比昨天上升1.0%；羊肉65.50元/公斤，比昨天下降0.6%；雞蛋10.89元/公斤，比昨天下降0.1%；白條雞17.34元/公斤，比昨天上升1.3%。重點監測的28種蔬菜平均價格為4.59元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.69元/公斤，與昨天持平。鯽魚19.77元/公斤，比昨天下降1.3%；鯉魚14.04元/公斤，比昨天下降0.8%；白鰱魚10.57元/公斤，比昨天上升0.6%；大帶魚42.57元/公斤，比昨天下降1.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、南瓜、芹菜、西紅柿和白蘿蔔，幅度分別為3.1%、3.0%、2.6%、2.4%和2.4%；價格降幅前五名的是蔥頭、油菜、富士蘋果、大帶魚和大黃花魚，幅度分別為2.7%、1.7%、1.7%、1.5%和1.3%。"
     }
   ]
 }
