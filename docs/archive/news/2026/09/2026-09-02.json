@@ -1,7 +1,145 @@
 {
   "date": "2026-09-02",
-  "count": 853,
+  "count": 867,
   "items": [
+    {
+      "id": "mkt:01a05f79-f177-7118-844a-a2499e5a9ad5",
+      "time": "2026-09-02 08:17:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA is set to close a nearly $14bn acquisition of Hugging Face this week."
+    },
+    {
+      "id": "mkt:01a05f79-c1f5-7118-844a-980194151a65",
+      "time": "2026-09-02 08:16:50",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "UEDA said the recent rise in long-term yields has been mainly driven by higher global yields."
+    },
+    {
+      "id": "5071894",
+      "time": "2026-09-02 08:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達據悉本週將以140億美元的價格收購HUGGING FACE。"
+    },
+    {
+      "id": "mkt:01a05f78-fdba-7118-844a-979bf2cb2e28",
+      "time": "2026-09-02 08:15:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: September balanced allocation; focus on sectors underweighted by institutions】CITIC Securities says the market outlook for September remains dominated by stock-positioning and structural themes. It recommends retaining exposure to AI compute, nonferrous metals, innovative drugs and selected export-oriented manufacturers with sustained momentum, while prioritizing sectors currently underweighted by institutions: banks, insurers and securities firms for high-dividend, defensive characteristics; batteries, industrial and energy metals and basic chemicals for earnings recovery; and cyclical catch-up plays such as steel and hog farming."
+    },
+    {
+      "id": "te:markets:580224",
+      "time": "2026-09-02 08:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline on Rate Hike Bets — Silver traded near $64 an ounce on Wednesday after tumbling nearly 4% in the previous session, as investors assessed the prospects of Federal Reserve interest rate hikes following a sharp rise in global bond yields and oil prices. Global bond yields climbed amid mounting inflationary pressures and growing expectations of imminent rate hikes, with US Treasury yields reversing the decline triggered by Secretary Scott Bessent’s announcement of an expanded buyback program. Fed Chair Kevin Warsh’s pledge to combat inflation further reinforced the hawkish outlook, with markets now pricing in around a 70% chance of a Fed rate hike this month. Attention now turns to the ADP employment report due Wednesday and Friday’s nonfarm payrolls for further clues on the Fed’s policy path. Meanwhile, oil prices extended gains amid escalating hostilities between the US and Iran, further heightening inflation risks."
+    },
+    {
+      "id": "5071893",
+      "time": "2026-09-02 08:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，9月2日至4日每天8時30分至16時30分，渤海北部部分海域進行軍事演習，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a05f78-31b4-7118-844a-8ad3d4855fca",
+      "time": "2026-09-02 08:15:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said core inf is close to 2% and we must ensure it remains stable around that level."
+    },
+    {
+      "id": "mkt:01a05f77-f1cc-7118-844a-80f57316f5fa",
+      "time": "2026-09-02 08:14:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 5-year government bond yield rose 2 bps to 2.275%."
+    },
+    {
+      "id": "mkt:01a05f77-ea0f-7118-844a-7ec41be232de",
+      "time": "2026-09-02 08:14:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Governor Ueda said the economic impact of yield moves will depend on the factors driving those moves."
+    },
+    {
+      "id": "mkt:01a05f77-c767-7118-844a-70a8ea0f87bf",
+      "time": "2026-09-02 08:14:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Japan's finance minister Katayama held a 30-minute meeting with Fed chair Kevin Warsh."
+    },
+    {
+      "id": "5071892",
+      "time": "2026-09-02 08:14:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲2.0個基點，至2.275%。"
+    },
+    {
+      "id": "5071891",
+      "time": "2026-09-02 08:14:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事稱美國通脹仍然過高】據美國方面訊息，美聯儲理事邁克爾·巴爾9月1日表示，如果通脹沒有出現得到充分緩解的情況，就應該果斷採取行動提高利率，而當前美國的通脹水平仍然過高。他表示，如果通貨膨脹得不到緩解，他準備支援美聯儲加息。美聯儲計劃於9月中旬舉行議息會議。（央視）"
+    },
+    {
+      "id": "te:markets:580223",
+      "time": "2026-09-02 08:13:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Losses on Rate Hike Bets — Gold held below $4,350 an ounce on Wednesday after tumbling nearly 3% in the previous session, as investors assessed the prospects of Federal Reserve interest rate hikes following a sharp rise in global bond yields and oil prices. Global bond yields climbed amid mounting inflationary pressures and growing expectations of imminent rate hikes, with US Treasury yields reversing the decline triggered by Secretary Scott Bessent’s announcement of an expanded buyback program. Fed Chair Kevin Warsh’s pledge to combat inflation further reinforced the hawkish outlook, with markets now pricing in around a 70% chance of a Fed rate hike this month. Attention now turns to the ADP employment report due Wednesday and Friday’s nonfarm payrolls for further clues on the Fed’s policy path. Meanwhile, oil prices extended gains amid escalating hostilities between the US and Iran, further heightening inflation risks."
+    },
+    {
+      "id": "te:economy:580222",
+      "time": "2026-09-02 08:13:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Monetary Base YoY",
+        "Importance 0"
+      ],
+      "text": "Japan Monetary Base Posts Sharpest Fall Since 2007 — Japan’s monetary base contracted by 15.7% year-on-year in August 2026, marking the sharpest decline since March 2007 and exceeding market estimates for a 13.5% decline. The latest reading also accelerated from a 13.8% decline in July, driven by a 18.9% drop in current account balances held at the Bank of Japan, following a 16.6% fall in July, while banknotes in circulation fell 2.0% (1.9%) and coins in circulation eased 1.2% (1.1%). On an average outstanding basis, the monetary base stood at ¥543.0 trillion in August, down from ¥554.9 trillion in July."
+    },
     {
       "id": "mkt:01a05f76-0de4-7118-844a-6a5e770ea937",
       "time": "2026-09-02 08:12:47",

@@ -1,7 +1,145 @@
 {
-  "updated": "2026-09-02 08:13:39",
-  "count": 12739,
+  "updated": "2026-09-02 08:17:32",
+  "count": 12746,
   "items": [
+    {
+      "id": "mkt:01a05f79-f177-7118-844a-a2499e5a9ad5",
+      "time": "2026-09-02 08:17:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA is set to close a nearly $14bn acquisition of Hugging Face this week."
+    },
+    {
+      "id": "mkt:01a05f79-c1f5-7118-844a-980194151a65",
+      "time": "2026-09-02 08:16:50",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "UEDA said the recent rise in long-term yields has been mainly driven by higher global yields."
+    },
+    {
+      "id": "5071894",
+      "time": "2026-09-02 08:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達據悉本週將以140億美元的價格收購HUGGING FACE。"
+    },
+    {
+      "id": "mkt:01a05f78-fdba-7118-844a-979bf2cb2e28",
+      "time": "2026-09-02 08:15:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: September balanced allocation; focus on sectors underweighted by institutions】CITIC Securities says the market outlook for September remains dominated by stock-positioning and structural themes. It recommends retaining exposure to AI compute, nonferrous metals, innovative drugs and selected export-oriented manufacturers with sustained momentum, while prioritizing sectors currently underweighted by institutions: banks, insurers and securities firms for high-dividend, defensive characteristics; batteries, industrial and energy metals and basic chemicals for earnings recovery; and cyclical catch-up plays such as steel and hog farming."
+    },
+    {
+      "id": "te:markets:580224",
+      "time": "2026-09-02 08:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline on Rate Hike Bets — Silver traded near $64 an ounce on Wednesday after tumbling nearly 4% in the previous session, as investors assessed the prospects of Federal Reserve interest rate hikes following a sharp rise in global bond yields and oil prices. Global bond yields climbed amid mounting inflationary pressures and growing expectations of imminent rate hikes, with US Treasury yields reversing the decline triggered by Secretary Scott Bessent’s announcement of an expanded buyback program. Fed Chair Kevin Warsh’s pledge to combat inflation further reinforced the hawkish outlook, with markets now pricing in around a 70% chance of a Fed rate hike this month. Attention now turns to the ADP employment report due Wednesday and Friday’s nonfarm payrolls for further clues on the Fed’s policy path. Meanwhile, oil prices extended gains amid escalating hostilities between the US and Iran, further heightening inflation risks."
+    },
+    {
+      "id": "5071893",
+      "time": "2026-09-02 08:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，9月2日至4日每天8時30分至16時30分，渤海北部部分海域進行軍事演習，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a05f78-31b4-7118-844a-8ad3d4855fca",
+      "time": "2026-09-02 08:15:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said core inf is close to 2% and we must ensure it remains stable around that level."
+    },
+    {
+      "id": "mkt:01a05f77-f1cc-7118-844a-80f57316f5fa",
+      "time": "2026-09-02 08:14:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 5-year government bond yield rose 2 bps to 2.275%."
+    },
+    {
+      "id": "mkt:01a05f77-ea0f-7118-844a-7ec41be232de",
+      "time": "2026-09-02 08:14:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Governor Ueda said the economic impact of yield moves will depend on the factors driving those moves."
+    },
+    {
+      "id": "mkt:01a05f77-c767-7118-844a-70a8ea0f87bf",
+      "time": "2026-09-02 08:14:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Japan's finance minister Katayama held a 30-minute meeting with Fed chair Kevin Warsh."
+    },
+    {
+      "id": "5071892",
+      "time": "2026-09-02 08:14:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲2.0個基點，至2.275%。"
+    },
+    {
+      "id": "5071891",
+      "time": "2026-09-02 08:14:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事稱美國通脹仍然過高】據美國方面訊息，美聯儲理事邁克爾·巴爾9月1日表示，如果通脹沒有出現得到充分緩解的情況，就應該果斷採取行動提高利率，而當前美國的通脹水平仍然過高。他表示，如果通貨膨脹得不到緩解，他準備支援美聯儲加息。美聯儲計劃於9月中旬舉行議息會議。（央視）"
+    },
+    {
+      "id": "te:markets:580223",
+      "time": "2026-09-02 08:13:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Losses on Rate Hike Bets — Gold held below $4,350 an ounce on Wednesday after tumbling nearly 3% in the previous session, as investors assessed the prospects of Federal Reserve interest rate hikes following a sharp rise in global bond yields and oil prices. Global bond yields climbed amid mounting inflationary pressures and growing expectations of imminent rate hikes, with US Treasury yields reversing the decline triggered by Secretary Scott Bessent’s announcement of an expanded buyback program. Fed Chair Kevin Warsh’s pledge to combat inflation further reinforced the hawkish outlook, with markets now pricing in around a 70% chance of a Fed rate hike this month. Attention now turns to the ADP employment report due Wednesday and Friday’s nonfarm payrolls for further clues on the Fed’s policy path. Meanwhile, oil prices extended gains amid escalating hostilities between the US and Iran, further heightening inflation risks."
+    },
+    {
+      "id": "te:economy:580222",
+      "time": "2026-09-02 08:13:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Monetary Base YoY",
+        "Importance 0"
+      ],
+      "text": "Japan Monetary Base Posts Sharpest Fall Since 2007 — Japan’s monetary base contracted by 15.7% year-on-year in August 2026, marking the sharpest decline since March 2007 and exceeding market estimates for a 13.5% decline. The latest reading also accelerated from a 13.8% decline in July, driven by a 18.9% drop in current account balances held at the Bank of Japan, following a 16.6% fall in July, while banknotes in circulation fell 2.0% (1.9%) and coins in circulation eased 1.2% (1.1%). On an average outstanding basis, the monetary base stood at ¥543.0 trillion in August, down from ¥554.9 trillion in July."
+    },
     {
       "id": "mkt:01a05f76-0de4-7118-844a-6a5e770ea937",
       "time": "2026-09-02 08:12:47",
@@ -116714,69 +116852,6 @@
         "市場"
       ],
       "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少1.14噸】截至2026年08月25日，全球最大的黃金ETF SPDR Gold Trust持倉量為1048.35噸，較前一個交易日減少1.14噸。"
-    },
-    {
-      "id": "5058650",
-      "time": "2026-08-26 08:17:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通證券將長城汽車A股評級下調至低配，目標價10.50元。"
-    },
-    {
-      "id": "5058649",
-      "time": "2026-08-26 08:17:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲1%，至6810.62。"
-    },
-    {
-      "id": "mkt:01a03b6d-64c1-7aab-911c-40ff57d647d6",
-      "time": "2026-08-26 08:16:59",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI index rose 1%; Samsung Electronics gained 2.2%; SK Hynix rose 1.8%."
-    },
-    {
-      "id": "5058648",
-      "time": "2026-08-26 08:16:52",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：全球視角下的大型銀行價值重估】中信證券研報稱，2020年至今，全球G-SIBs資本市場表現樂觀。拆解來看，盈利能力提升、回購分紅增厚，成為過去10年G-SIBs回報樂觀的主要因素。各國家地區G-SIBs回報驅動有所不同，美國靠利潤與回購、歐洲靠股息與反轉、日本靠利率正常化重估、中國紅利屬性明顯。展望來看，當前國內大型銀行正步入高質量發展階段，擴表模式、盈利模式、資本模式和股東回報持續最佳化，投資價值空間廣闊。"
-    },
-    {
-      "id": "5058647",
-      "time": "2026-08-26 08:16:16",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：鉭鈮行業供需格局重塑 戰略價值重估】中金公司研報稱，鉭鈮行業供給脆弱性突出、外部擾動風險加劇，AI、新能源、商業航天等戰略新興領域催生新需求，供需趨緊與地緣博弈有望驅動價格中樞上移。在行業競爭格局深刻變化背景下，鉭鈮行業的全產業鏈一體化具有重大戰略意義，上游資源有保障、中游產能有擴張、下游技術有壁壘的企業有望顯著受益。"
-    },
-    {
-      "id": "5058646",
-      "time": "2026-08-26 08:15:53",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：科技右翼至少在特朗普本任期仍將佔據主導】中信證券研報稱，特朗普第二任期以來，美國科技右翼逐漸崛起，並在美國科技監管體系占主導地位，使得美國AI監管普遍呈現“輕監管”風格。但隨著AI的快速發展，美國科技右翼和國家安全主義、經濟民粹主義等政治勢力出現分歧，或是近期美國AI監管邊際上加強的原因。從政治博弈看，我們認為科技右翼至少在特朗普本任期仍將佔據主導，預計美國AI監管或將呈現以下四大方向：一是在技術上明確審查標準，二是在國防上加強軍方控制，三是在社會上加強應用風險管控，四是在外部競爭上注重國家安全和商業利益的平衡。"
-    },
-    {
-      "id": "5058645",
-      "time": "2026-08-26 08:14:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮藍色警報】國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮藍色警報。受今年第18號颱風”沙德爾”(強颱風級)的影響，預計8月26日上午至27日上午，上海到浙江寧波沿海將出現40到90釐米的風暴增水，浙江台州到溫州沿海將出現60到100釐米的風暴增水，福建北部沿海將出現50到80釐米的風暴增水。浙江省寧波市的風暴潮預警級別為藍色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急準備工作；各涉海相關生產單位採取積極有效的措施，組織漁船、養殖漁排、養殖場等做好防禦工作；加固沿海漁業養殖水產設施和漁港設施，做好防潮準備。"
     }
   ]
 }
