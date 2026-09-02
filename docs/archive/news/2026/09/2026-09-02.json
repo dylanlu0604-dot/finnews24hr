@@ -1,7 +1,96 @@
 {
   "date": "2026-09-02",
-  "count": 1721,
+  "count": 1730,
   "items": [
+    {
+      "id": "mkt:01a060d4-1a91-7118-8454-446a4009ed15",
+      "time": "2026-09-02 14:35:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Current bond sell-off sharp but far milder than 2022】This round of global bond selling has been sharp but remains materially smaller than the 2022 rout. Global government yields are up 17bp over the past 20 trading days versus 62bp in 2022; peak-to-trough bond prices this year have fallen 4.2% versus 23% in 2022. Yields in the world’s largest bond market have reached multi-year highs, but the advance so far is only a fraction of the earlier shock. Sydney-based GSFM adviser Stephen Miller says bonds are not yet a STRONG BUY, but at current yields are worth considering for yield-focused investors."
+    },
+    {
+      "id": "5072478",
+      "time": "2026-09-02 14:34:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "迅銷集團：8月優衣庫日本銷售額下降1.3%。"
+    },
+    {
+      "id": "5072477",
+      "time": "2026-09-02 14:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行Exane將歐萊雅評級從中性上調至表現優於大盤。"
+    },
+    {
+      "id": "5072476",
+      "time": "2026-09-02 14:33:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "AUMOVIO SE <AMV0n.DE>股價在法蘭克福早盤交易中下跌2.9%，當地交易員指出該股被移出歐洲斯托克600指數。"
+    },
+    {
+      "id": "5072475",
+      "time": "2026-09-02 14:32:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東供應風險加劇，歐洲天然氣價格連續第三日上漲】美伊衝突再起，霍爾木茲海峽短期內恢復能源運輸的預期降溫，歐洲天然氣價格連續第三日走高。週三基準期貨最大漲幅達 4.3%，隨後部分回吐漲幅，價格仍接近 2023 年 1 月以來日內高點。歐洲天然氣庫存當前僅為 65%，為 2009 年有記錄以來同期最低水平；該地區需要吸引更多液化天然氣船貨，在冬季來臨前補充庫存。"
+    },
+    {
+      "id": "mkt:01a060d1-60ea-7118-8454-39521c490a2b",
+      "time": "2026-09-02 14:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks plunge on Sept. 2】Japan's Nikkei 225 fell 1,889.70 points, or 2.85%, to 64,325.64 at the close on Wednesday, Sept. 2. South Korea's KOSPI dropped 273.08 points, or 3.99%, to 6,562.72. SK Hynix slipped 4.7% and Samsung Electronics fell about 4%."
+    },
+    {
+      "id": "mkt:01a060d0-d602-7118-8454-36cb962fa50a",
+      "time": "2026-09-02 14:31:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Remain positive on Chinese domestic semiconductor equipment and core components supply chain】CITIC Securities research note: CSEAC 2026 expanded with a larger presence of core components and materials exhibitors. Exhibitor WeChat posts (including Zhongwei and Kema Technology) point to further improvement in semiconductor-equipment order momentum in Q3 2026 and industry optimism for equipment demand over the next 2–3 years. Key medium- to long-term demand drivers cited are advanced-logic self-sufficiency, 3D NAND architecture upgrades, HBM and advanced packaging—expected to create new equipment categories and raise per-tool value. Upstream localization is moving into core process modules, midstream equipment demand remains robust, and downstream storage and packaging upgrades are generating incremental equipment needs. Increased participation from overseas vendors and customers suggests rising export interest in Chinese equipment, components and materials. CITIC continues to favor the domestic semiconductor equipment and core components chain."
+    },
+    {
+      "id": "5072474",
+      "time": "2026-09-02 14:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月2日：“農產品批發價格200指數”比昨天上升0.06個點】據農業農村部監測，9月2日“農產品批發價格200指數”為116.16，比昨天上升0.06個點，“菜籃子”產品批發價格指數為116.79，比昨天上升0.07個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.40元/公斤，比昨天上升1.2%；牛肉69.33元/公斤，比昨天下降0.3%；羊肉66.03元/公斤，比昨天下降0.1%；雞蛋10.84元/公斤，比昨天上升0.2%；白條雞17.11元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.65元/公斤，比昨天上升1.1%；重點監測的6種水果平均價格為6.68元/公斤，比昨天上升1.1%。鯽魚20.15元/公斤，比昨天上升0.7%；鯉魚14.27元/公斤，比昨天上升0.6%；白鰱魚10.38元/公斤，比昨天上升2.6%；大帶魚42.61元/公斤，比昨天上升2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是鴨梨、黃瓜、平菇、菠蘿和洋白菜，幅度分別為3.8%、3.5%、3.4%、3.1%和3.0%；價格降幅前五名的是西瓜、大蔥、香蕉、青椒和胡蘿蔔，幅度分別為1.6%、1.4%、1.2%、1.0%和0.9%。"
+    },
+    {
+      "id": "5072473",
+      "time": "2026-09-02 14:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為、蘋果、vivo位居中國中高階手機市場前三】機構資料顯示，2026年1-7月，中國4000-7000元價位手機市場中，華為、蘋果、vivo（含iQOO）位居前三，其中vivo以12.47%的市場份額排名第三。"
+    },
     {
       "id": "5072472",
       "time": "2026-09-02 14:31:08",

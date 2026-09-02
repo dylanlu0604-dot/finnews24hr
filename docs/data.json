@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-02 14:31:57",
-  "count": 12803,
+  "updated": "2026-09-02 14:35:56",
+  "count": 12800,
   "items": [
+    {
+      "id": "mkt:01a060d4-1a91-7118-8454-446a4009ed15",
+      "time": "2026-09-02 14:35:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Current bond sell-off sharp but far milder than 2022】This round of global bond selling has been sharp but remains materially smaller than the 2022 rout. Global government yields are up 17bp over the past 20 trading days versus 62bp in 2022; peak-to-trough bond prices this year have fallen 4.2% versus 23% in 2022. Yields in the world’s largest bond market have reached multi-year highs, but the advance so far is only a fraction of the earlier shock. Sydney-based GSFM adviser Stephen Miller says bonds are not yet a STRONG BUY, but at current yields are worth considering for yield-focused investors."
+    },
+    {
+      "id": "5072478",
+      "time": "2026-09-02 14:34:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "迅銷集團：8月優衣庫日本銷售額下降1.3%。"
+    },
+    {
+      "id": "5072477",
+      "time": "2026-09-02 14:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行Exane將歐萊雅評級從中性上調至表現優於大盤。"
+    },
+    {
+      "id": "5072476",
+      "time": "2026-09-02 14:33:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "AUMOVIO SE <AMV0n.DE>股價在法蘭克福早盤交易中下跌2.9%，當地交易員指出該股被移出歐洲斯托克600指數。"
+    },
+    {
+      "id": "5072475",
+      "time": "2026-09-02 14:32:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東供應風險加劇，歐洲天然氣價格連續第三日上漲】美伊衝突再起，霍爾木茲海峽短期內恢復能源運輸的預期降溫，歐洲天然氣價格連續第三日走高。週三基準期貨最大漲幅達 4.3%，隨後部分回吐漲幅，價格仍接近 2023 年 1 月以來日內高點。歐洲天然氣庫存當前僅為 65%，為 2009 年有記錄以來同期最低水平；該地區需要吸引更多液化天然氣船貨，在冬季來臨前補充庫存。"
+    },
+    {
+      "id": "mkt:01a060d1-60ea-7118-8454-39521c490a2b",
+      "time": "2026-09-02 14:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks plunge on Sept. 2】Japan's Nikkei 225 fell 1,889.70 points, or 2.85%, to 64,325.64 at the close on Wednesday, Sept. 2. South Korea's KOSPI dropped 273.08 points, or 3.99%, to 6,562.72. SK Hynix slipped 4.7% and Samsung Electronics fell about 4%."
+    },
+    {
+      "id": "mkt:01a060d0-d602-7118-8454-36cb962fa50a",
+      "time": "2026-09-02 14:31:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Remain positive on Chinese domestic semiconductor equipment and core components supply chain】CITIC Securities research note: CSEAC 2026 expanded with a larger presence of core components and materials exhibitors. Exhibitor WeChat posts (including Zhongwei and Kema Technology) point to further improvement in semiconductor-equipment order momentum in Q3 2026 and industry optimism for equipment demand over the next 2–3 years. Key medium- to long-term demand drivers cited are advanced-logic self-sufficiency, 3D NAND architecture upgrades, HBM and advanced packaging—expected to create new equipment categories and raise per-tool value. Upstream localization is moving into core process modules, midstream equipment demand remains robust, and downstream storage and packaging upgrades are generating incremental equipment needs. Increased participation from overseas vendors and customers suggests rising export interest in Chinese equipment, components and materials. CITIC continues to favor the domestic semiconductor equipment and core components chain."
+    },
+    {
+      "id": "5072474",
+      "time": "2026-09-02 14:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月2日：“農產品批發價格200指數”比昨天上升0.06個點】據農業農村部監測，9月2日“農產品批發價格200指數”為116.16，比昨天上升0.06個點，“菜籃子”產品批發價格指數為116.79，比昨天上升0.07個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.40元/公斤，比昨天上升1.2%；牛肉69.33元/公斤，比昨天下降0.3%；羊肉66.03元/公斤，比昨天下降0.1%；雞蛋10.84元/公斤，比昨天上升0.2%；白條雞17.11元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.65元/公斤，比昨天上升1.1%；重點監測的6種水果平均價格為6.68元/公斤，比昨天上升1.1%。鯽魚20.15元/公斤，比昨天上升0.7%；鯉魚14.27元/公斤，比昨天上升0.6%；白鰱魚10.38元/公斤，比昨天上升2.6%；大帶魚42.61元/公斤，比昨天上升2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是鴨梨、黃瓜、平菇、菠蘿和洋白菜，幅度分別為3.8%、3.5%、3.4%、3.1%和3.0%；價格降幅前五名的是西瓜、大蔥、香蕉、青椒和胡蘿蔔，幅度分別為1.6%、1.4%、1.2%、1.0%和0.9%。"
+    },
+    {
+      "id": "5072473",
+      "time": "2026-09-02 14:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為、蘋果、vivo位居中國中高階手機市場前三】機構資料顯示，2026年1-7月，中國4000-7000元價位手機市場中，華為、蘋果、vivo（含iQOO）位居前三，其中vivo以12.47%的市場份額排名第三。"
+    },
     {
       "id": "5072472",
       "time": "2026-09-02 14:31:08",
@@ -117207,125 +117296,6 @@
         "國際"
       ],
       "text": "【以色列媒體：伊朗去年12月密謀刺殺內塔尼亞胡長子】據以色列媒體報道，有關伊朗涉嫌策劃刺殺內塔尼亞胡之子的最新細節浮出水面。Newsmax援引知情人士報道稱，內塔尼亞胡長子亞伊爾在南佛羅里達州居住期間遭到了襲擊。以色列情報部門在去年12月發現了這一陰謀，並通知了美國當局。"
-    },
-    {
-      "id": "mkt:01a03cc8-23e2-7aab-9124-785ef4571fb4",
-      "time": "2026-08-26 14:35:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【New details: Iran allegedly plotted December assassination of Netanyahu's eldest son in South Florida】Israeli media say new details have surfaced that Iranian operatives allegedly plotted in December to assassinate Yair Netanyahu while he lived in South Florida. Newsmax, citing sources, reported Israeli intelligence uncovered the plot in December and notified U.S. authorities. Officials believe Iranian agents entered the Miami area and surveilled Yair Netanyahu’s residence and movements. He was under Israeli security protection and left the U.S. immediately on instruction, reportedly departing without personal belongings; he has since returned to and is now residing in Israel."
-    },
-    {
-      "id": "em:qqyh_ozlc:202608263854475132",
-      "time": "2026-08-26 14:35:36",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "高盛目前預計澳大利亞儲備銀行將於11月加息。"
-    },
-    {
-      "id": "mkt:01a03cc7-b275-7aab-9124-7776e2f37c2e",
-      "time": "2026-08-26 14:35:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Carrefour CEO said overall food prices remain stable, though high temperatures have pushed up prices for some fruits and vegetables."
-    },
-    {
-      "id": "5059165",
-      "time": "2026-08-26 14:34:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "家樂福執行長：儘管熱浪推高了部分果蔬價格，但食品價格總體保持穩定。"
-    },
-    {
-      "id": "5059164",
-      "time": "2026-08-26 14:34:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛現預計澳大利亞儲備銀行將於11月加息。"
-    },
-    {
-      "id": "5059163",
-      "time": "2026-08-26 14:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄遠東天然氣化工專案火災死亡人數升至7人】位於俄羅斯遠東阿穆爾州的阿穆爾天然氣化工綜合體專案26日在社交媒體上通報說，該專案25日發生的火災已造成7人死亡、152人受傷，另有9人失聯。中國駐哈巴羅夫斯克總領館表示，暫時無法確認中國公民傷亡情況。（新華社）"
-    },
-    {
-      "id": "5059162",
-      "time": "2026-08-26 14:33:05",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【現代汽車計劃到2030年將全球產能提升127萬輛】韓國現代汽車公司週三表示，計劃到2030年將全球產能從目前約500萬輛的基礎上擴大127萬輛，同時推出100多款全新或更新車型，以加強其在全球市場的競爭力。 目標包括北美地區產能提升50萬輛、印度32萬輛、韓國20萬輛，另有 25 萬輛將透過全散件組裝（CKD）模式生產。該公司維持了此前宣佈的銷售目標，包括到2030年全球銷量達到555萬輛，並在同年將純電動汽車佔全球總銷量的比例提升至60%。"
-    },
-    {
-      "id": "5059161",
-      "time": "2026-08-26 14:32:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立霸股份在無錫成立貿易新公司】企查查APP顯示，近日，無錫立霸利貿易有限公司成立，經營範圍包含：金屬材料銷售；合成材料銷售；保溫材料銷售；搪瓷製品銷售；家用電器銷售等。企查查股權穿透顯示，該公司由立霸股份全資持股。"
-    },
-    {
-      "id": "mkt:01a03cc5-1b53-7aab-9124-6f05cc680b7e",
-      "time": "2026-08-26 14:32:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【UK household energy price cap to rise 4% from October】Ofgem said on Wednesday the household energy price cap will rise 4% to £1,723 from Oct 1, the highest level since January 2024, as Middle East conflict pushes gas and power wholesale prices higher. Energy UK analysis shows household energy arrears have reached £6 bln year-to-date and could hit £7 bln by end-December; the energy minister said Tuesday extra support is being considered. Since late February, after the outbreak of war in Iran disrupted supplies, near-month UK gas futures have roughly doubled and corresponding power contracts have risen about 70%. The Bank of England is monitoring energy prices; July CPI rose 2.9% YoY, largely driven by a 13% uplift in the household energy cap that month."
-    },
-    {
-      "id": "mkt:01a03cc5-1352-7aab-9124-62cf2217e16f",
-      "time": "2026-08-26 14:32:23",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "South Korea's KOSPI closed up 65.47 points, or 0.97%, at 6,808.21 on Wednesday, Aug. 26."
-    },
-    {
-      "id": "mkt:01a03cc5-0439-7aab-9124-5f69bf10bcf9",
-      "time": "2026-08-26 14:32:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 closed up 405.73 points (+0.62%) at 66,262.16 on Wednesday, Aug. 26."
-    },
-    {
-      "id": "5059160",
-      "time": "2026-08-26 14:32:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兆易創新A股成交額超100億元】8月26日下午，兆易創新A股成交額超100億元，現跌0.08%。"
     }
   ]
 }
