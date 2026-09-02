@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-02 14:16:04",
-  "count": 12789,
+  "updated": "2026-09-02 14:20:00",
+  "count": 12792,
   "items": [
+    {
+      "id": "5072444",
+      "time": "2026-09-02 14:18:29",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券  ：海外發達市場國債收益率普遍飆升】中信證券釋出研報表示，7月底以來，海外發達市場國債收益率普遍飆升，認為主要可歸納為三大因素：1）通脹預期抬升；2）主權信用擔憂升溫；3）市場對發達市場央行貨幣政策路徑的重新定價。短期來看，利率上行仍將壓制高估值、長久期權益資產，並強化美股對Hyperscaler資本開支回報率的擔憂；相較之下，中美利差走擴有望緩和人民幣升值壓力，並提升南向資金對港股高股息資產的配置意願，建議繼續關注銀行、公用事業、電信及物業管理等紅利方向。"
+    },
+    {
+      "id": "mkt:01a060c4-c9ee-7118-8453-f0031a34c90f",
+      "time": "2026-09-02 14:18:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dongsheng Aerospace plans to deliver three high-performance satellites this year】Sept. 2 — Dongsheng Aerospace plans to deliver two high-performance internet satellites and one high-performance SAR remote-sensing satellite this year. The firm has completed development and ground testing of a 7,000 kg super‑large general satellite platform and is developing a 10 kW‑class large compute satellite. To support mass production of internet satellites it has in‑house R&D and ground verification of large flexible solar wings, highly integrated avionics, a 5G onboard base station and a large-area all-digital phased‑array antenna. Dongsheng has standardized satellite manufacturing bases in Hunan and Henan that are already in operation; the Henan plant can deliver 50 1,000 kg‑class satellites per year. A Beijing (Shunyi) satellite manufacturing base is expected to start operations in 2027."
+    },
+    {
+      "id": "te:markets:580333",
+      "time": "2026-09-02 14:17:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were headed for a lower open on Wednesday, extending losses for a third consecutive session as oil prices continued to rally amid renewed fighting in the Middle East, raising inflationary risks. Global bond yields also climbed on mounting inflationary pressures and worsening fiscal conditions, reinforcing expectations that major central banks will need to raise interest rates soon. Markets are currently pricing in a rate hike from the European Central Bank at its meeting next week. Meanwhile, investors will assess French budget balance, Spanish unemployment change and Italian PPI data, while no major earnings releases are scheduled in Europe today. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.4%."
+    },
+    {
+      "id": "5072443",
+      "time": "2026-09-02 14:17:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜家中國發生高管變更】天眼查App顯示，近日，宜家（中國）投資有限公司發生工商變更，PER PONTUS HAAKAN ERNTELL卸任法定代表人，由宋穎愛接任。該公司成立於2007年7月，註冊資本約8.4億美元，經營範圍包括在包括零售業在內的國家法律鼓勵和允許外商投資的範圍內進行投資等，由IHK Holding Limited全資持股。"
+    },
+    {
+      "id": "5072442",
+      "time": "2026-09-02 14:17:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東昇宇航年內計劃出廠三顆高效能衛星】9月2日，從東昇宇航獲悉，該公司計劃今年研製出廠兩顆高效能網際網路衛星及一顆高效能SAR遙感衛星，已完成7000kg超大型通用衛星平臺研製及地面試驗，正在研製10kW級大型算力衛星；根據批產網際網路衛星研製需求，公司已完成大型柔性太陽翼，高整合綜合電子、5G星載基站及大面積全數字相控陣天線等產品的自研及地面驗證。東昇宇航在北京、湖南、河南多處佈局標準化衛星智造基地。其中，湖南、河南兩大衛星工廠已投產運營，河南工廠可實現年產50顆1000kg級別衛星的交付能力；北京順義衛星智造基地預計2027年投用。"
+    },
+    {
+      "id": "5072441",
+      "time": "2026-09-02 14:16:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球債券正在暴跌，但遠不及2022年的崩盤】全球債券市場拋售潮推動收益率攀升至多年高位，但本輪波動幅度僅為2022年末行情的一小部分。全球政府債券收益率20日滾動累計上行17個基點，債券今年已下跌4.2%。對於經驗豐富的市場觀察人士而言，迄今為止收益率的相對溫和波動帶來一定安撫；部分人士指出，在當前收益率水平下，追求收益的投資者可以開始考慮配置債券。"
+    },
+    {
+      "id": "5072440",
+      "time": "2026-09-02 14:16:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫微科技完成數億元新一輪融資】近日，北京紫微宇通科技有限公司（簡稱\"紫微科技\"）完成新一輪數億元人民幣融資。本輪新進投資方包括東方富海、雲暉資本、弘暉資產、博源資本及中關村科學城等；四川省科創投、成都經開資本、合信方冊等老股東亦在本輪繼續追加投資。在此之前，經緯創投、聞名投資、聯想之星、雅瑞資本、天奇創投、梁溪科創、梁溪天使基金、四川興川基金、成都交投、曉池資本等均已佈局紫微科技。"
+    },
     {
       "id": "mkt:01a060c1-c625-7118-8453-ebcdbd9fab4e",
       "time": "2026-09-02 14:15:06",
@@ -117151,41 +117216,6 @@
         "其他"
       ],
       "text": "【8月26日：“農產品批發價格200指數”比昨天上升0.15個點】據農業農村部監測，8月26日“農產品批發價格200指數”為115.80，比昨天上升0.15個點，“菜籃子”產品批發價格指數為116.37，比昨天上升0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.24元/公斤，比昨天下降0.4%；牛肉69.09元/公斤，比昨天上升1.0%；羊肉65.50元/公斤，比昨天下降0.6%；雞蛋10.89元/公斤，比昨天下降0.1%；白條雞17.34元/公斤，比昨天上升1.3%。重點監測的28種蔬菜平均價格為4.59元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.69元/公斤，與昨天持平。鯽魚19.77元/公斤，比昨天下降1.3%；鯉魚14.04元/公斤，比昨天下降0.8%；白鰱魚10.57元/公斤，比昨天上升0.6%；大帶魚42.57元/公斤，比昨天下降1.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、南瓜、芹菜、西紅柿和白蘿蔔，幅度分別為3.1%、3.0%、2.6%、2.4%和2.4%；價格降幅前五名的是蔥頭、油菜、富士蘋果、大帶魚和大黃花魚，幅度分別為2.7%、1.7%、1.7%、1.5%和1.3%。"
-    },
-    {
-      "id": "5059140",
-      "time": "2026-08-26 14:18:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招證國際：下調小鵬目標價至92港元，看好物理AI領域潛在估值釋放】招證國際發表報告指，小鵬第二季虧損13.37億元，高於市場預期的7.19億。公司指引三季度交付11.5萬至12.1萬輛、環比增加11.3%至17.1%。MONA L03訂單強勁，但供應瓶頸制約產能爬坡。另外，小鵬機器人完成9億美元首輪融資，投後估值超過63億美元，已成為中國估值最高的具身智慧獨角獸。Robotaxi已完成超兩千次內測訂單，目標在2027年實現無安全員的載客運營。雖然公司汽車週期短期走弱，但該行仍看好公司物理AI領域具有巨大的估值釋放潛力，維持“增持”評級，上調2026至28財年淨虧損預測45%/133%/262%，反映三季度產品週期偏弱拖累業績，以及新業務拓展令費用開支上升，分別下調H股及ADR目標價至92港元及24美元。"
-    },
-    {
-      "id": "5059139",
-      "time": "2026-08-26 14:17:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗國家石油公司執行長：伊朗石油產量“肯定高於部分官方機構、刊物及國際訊息源公佈的資料”。 相較於戰前，伊朗石油出口在近期衝突期間增長約10%。"
-    },
-    {
-      "id": "5059138",
-      "time": "2026-08-26 14:16:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻證券ETF午後拉昇】證券板塊午後走強，香港證券ETF（513090）、證券 ETF天弘（159841）、證券ETF廣發（159016）等多隻ETF漲幅居前，其中香港證券ETF成交額較前一日放量超300%。"
-    },
-    {
-      "id": "mkt:01a03cb6-7ebe-7aab-9124-2f2e4a710565",
-      "time": "2026-08-26 14:16:27",
-      "tags": [
-        "MKT News",
-        "005380.KS",
-        "Impact bullish"
-      ],
-      "text": "Hyundai Motor CFO says the company aims to cut raw‑material costs for hybrid models by 20% by 2030."
     }
   ]
 }
