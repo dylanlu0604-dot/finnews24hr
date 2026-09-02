@@ -1,7 +1,53 @@
 {
   "date": "2026-09-02",
-  "count": 1781,
+  "count": 1786,
   "items": [
+    {
+      "id": "mkt:01a060e6-671b-7118-8454-d305b3cacfd0",
+      "time": "2026-09-02 14:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said it remains concerned about the US-Iran escalation, described the escalation as undesirable and will continue to maintain communications."
+    },
+    {
+      "id": "5072511",
+      "time": "2026-09-02 14:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部就美伊局勢升級表態：我們仍對此感到擔憂，此類升級事態是我們不願看到的，但巴方將繼續保持接觸。"
+    },
+    {
+      "id": "5072510",
+      "time": "2026-09-02 14:54:31",
+      "tags": [
+        "資料",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通：消費者信心觸底後，歐洲奢侈品板塊迎來轉機】持有奢侈品股票如今幾乎成了一種逆向投資，但隨著消費者信心和企業盈利增長開始觸底，這一板塊或迎來轉機。摩根大通策略師表示：“有意思的是，當消費者信心處於低位時，比如最近這段時間，消費類股票往往會在未來12個月跑贏大盤。”他們指出，在這種情況下，奢侈品股往往是表現最好的板塊之一。“總體來看，消費週期股仍處於風暴中心，盈利預警頻發，業績指引也較為謹慎，但未來表現可能有所改善。”摩根大通策略師表示，在密歇根大學消費者信心指數觸底後，歐洲奢侈品板塊平均能夠較大盤高出9%至12%。基於未來潛在的財富效應，他們目前在全球範圍內超配奢侈品板塊。"
+    },
+    {
+      "id": "5072509",
+      "time": "2026-09-02 14:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀宣佈以現金方式收購債務證券。"
+    },
+    {
+      "id": "mkt:01a060e3-bb8c-7118-8454-c944e2cadf5b",
+      "time": "2026-09-02 14:52:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan: European luxury sector poised to rebound after consumer sentiment bottoms】JP Morgan strategists say consumer confidence and corporate profit growth appear to have bottomed, creating scope for a turnaround in European luxury stocks. Historically, following a trough in the University of Michigan consumer sentiment index, the European luxury sector has outperformed the broader market by about 9-12% over the subsequent 12 months. Despite ongoing earnings warnings and cautious guidance across consumer cyclicals, JP Morgan is currently overweight the luxury sector globally, citing a potential wealth-effect recovery."
+    },
     {
       "id": "mkt:01a060e1-8f92-7118-8454-c3d39ee93c8f",
       "time": "2026-09-02 14:49:50",
