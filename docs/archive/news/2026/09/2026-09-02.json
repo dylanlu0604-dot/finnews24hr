@@ -1,7 +1,351 @@
 {
   "date": "2026-09-02",
-  "count": 1226,
+  "count": 1262,
   "items": [
+    {
+      "id": "mkt:01a05fdd-07e0-7118-844e-9e5f6c4552a1",
+      "time": "2026-09-02 10:05:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "RBNZ: Labour market conditions should improve."
+    },
+    {
+      "id": "mkt:01a05fdd-0618-7118-844e-923e65ef2b67",
+      "time": "2026-09-02 10:05:15",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Shenzhen Composite Index fell more than 2%; precious metals and consumer electronics sectors led losses."
+    },
+    {
+      "id": "mkt:01a05fdc-f5f9-7118-844e-8f9feff8335e",
+      "time": "2026-09-02 10:05:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ said the committee expects New Zealand's export sector to remain resilient and household spending to pick up gradually."
+    },
+    {
+      "id": "mkt:01a05fdc-ba91-7118-844e-8731c5b2dfbf",
+      "time": "2026-09-02 10:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says economic recovery is expected to strengthen and broaden."
+    },
+    {
+      "id": "mkt:01a05fdc-a0ca-7118-844e-7b928546ae9e",
+      "time": "2026-09-02 10:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says the committee remains vigilant and will act as needed to ensure inf returns sustainably to the 2% target midpoint over the medium term."
+    },
+    {
+      "id": "mkt:01a05fdc-9db1-7118-844e-7330830a3551",
+      "time": "2026-09-02 10:04:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Sci-Tech Innovation Board 50 Index fell 2%; Beijing Stock Exchange 50 Index fell 3%."
+    },
+    {
+      "id": "5072138",
+      "time": "2026-09-02 10:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局釋出按病種付費3.0版分組方案和技術規範】今天（2日）上午，國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。這是繼2019年的1.0版分組，2024年2.0版分組方案之後的第三版分組方案和技術規範。按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”2019年啟動按病組（DRG）付費國家試點，2020年啟動按病種分值（DIP）付費國家試點，2021年啟動醫保支付方式改革三年行動計劃，在試點基礎上加快改革擴面提質。經過三年試點和三年專項行動，按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”。"
+    },
+    {
+      "id": "5072137",
+      "time": "2026-09-02 10:04:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.18%，成分股中，科力股份漲9.08%，同惠電子漲8.40%，星圖測控漲7.06%，天力複合漲6.35%。"
+    },
+    {
+      "id": "mkt:01a05fdc-5f6d-7118-844e-6a55dd928337",
+      "time": "2026-09-02 10:04:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: New Zealand's economic recovery has very likely resumed but remains uneven."
+    },
+    {
+      "id": "mkt:01a05fdc-53d3-7118-844e-6341949c4234",
+      "time": "2026-09-02 10:04:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "09866.HK",
+        "Impact bearish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed electric-vehicle shares slid: NIO-SW (09866.HK) down over 5%, Li Auto (02015.HK) down nearly 4% to a post-listing low; SERES (09927.HK), XPeng (09868.HK) and Geely Automobile (00175.HK) also fell."
+    },
+    {
+      "id": "mkt:01a05fdc-3841-7118-844e-5fb58fbdbf06",
+      "time": "2026-09-02 10:04:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "RBNZ: The decision reduces the risk of needing further increases in the official cash rate (OCR). Future policy decisions will depend on the committee’s assessment of the balance of medium‑term inflation risks."
+    },
+    {
+      "id": "5072136",
+      "time": "2026-09-02 10:04:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4505.00點。"
+    },
+    {
+      "id": "5072135",
+      "time": "2026-09-02 10:04:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報13594.749點；上證指數跌1.11%，現報3935.639點；創業板指跌2.37%，現報3313.046點。"
+    },
+    {
+      "id": "5072134",
+      "time": "2026-09-02 10:04:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本新發10年期國債收益率升至3.015% 再達新高】9月2日，日本債券市場上，作為長期利率指標的新發10年期國債收益率一度升至3.015%。據日本相互證券資料，這是自1996年9月以來的最高水平。"
+    },
+    {
+      "id": "5072133",
+      "time": "2026-09-02 10:04:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.01%，成分股中，九號公司跌4.19%，中控技術跌3.80%，晶晨股份跌3.51%，瀾起科技跌3.45%。"
+    },
+    {
+      "id": "mkt:01a05fdb-e7a6-7118-844e-501e3d249e98",
+      "time": "2026-09-02 10:04:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ C.BANK said a gradual withdrawal of monetary stimulus is appropriate to return inf to the 2% target midpoint while supporting economic growth and employment."
+    },
+    {
+      "id": "mkt:01a05fdb-8bb4-7118-844e-4b7f0d60ccb8",
+      "time": "2026-09-02 10:03:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv data showed four merchant vessels transited the Strait of Hormuz on Tuesday, below the 10‑day average of about 13 vessels."
+    },
+    {
+      "id": "5072132",
+      "time": "2026-09-02 10:03:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊部分活躍，集泰股份3連板】液冷伺服器板塊部分活躍，集泰股份3連板，道明光學、遠東股份、雪人集團漲停，飛龍股份、利通科技、榮億精密、金帝股份、科隆新材跟漲。"
+    },
+    {
+      "id": "mkt:01a05fdb-4c1c-7118-844e-435b79a852d1",
+      "time": "2026-09-02 10:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects the official cash rate (OCR) to be 3.28% in September 2029."
+    },
+    {
+      "id": "mkt:01a05fdb-2fe5-7118-844e-3976df60621e",
+      "time": "2026-09-02 10:03:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ projects the Official Cash Rate (OCR) at 3.15% in December 2027, unchanged from its prior projection of 3.15%."
+    },
+    {
+      "id": "5072131",
+      "time": "2026-09-02 10:03:15",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "紐西蘭央行會議紀要：委員會判定，將官方現金利率上調至2.75%，這一舉措適宜將通脹可持續地回落至2%目標區間中點。"
+    },
+    {
+      "id": "mkt:01a05fda-c1e1-7118-844e-3218342a1a01",
+      "time": "2026-09-02 10:02:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "XAUUSD",
+        "CSI300"
+      ],
+      "text": "HSI fell more than 1%; gold, power equipment, media and film, and Chinese brokerages led declines."
+    },
+    {
+      "id": "mkt:01a05fda-b58a-7118-844e-2b229ea446c3",
+      "time": "2026-09-02 10:02:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ expects annual CPI to reach 2.4% by September 2027, versus a prior forecast of 2.0%."
+    },
+    {
+      "id": "5072130",
+      "time": "2026-09-02 10:02:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.24%，成分股中，科力股份漲9.93%，同惠電子漲7.20%，星圖測控漲7.20%，華密新材漲4.80%。"
+    },
+    {
+      "id": "5072129",
+      "time": "2026-09-02 10:02:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5072128",
+      "time": "2026-09-02 10:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元<NZD=D3>下跌0.53%，報0.5860美元。"
+    },
+    {
+      "id": "mkt:01a05fda-36d2-7118-844e-22639f2ddcf6",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NZDUSD",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD intraday loss widened to 40 pips, down 0.50% on the day at 0.5860."
+    },
+    {
+      "id": "mkt:01a05fda-3674-7118-844e-191607f53d57",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects the NZD/USD trade-weighted index to be about 66.9% in September 2027, versus a prior projection of 66.6%."
+    },
+    {
+      "id": "5072127",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行：未來政策將取決於通脹風險。"
+    },
+    {
+      "id": "5072124",
+      "time": "2026-09-02 10:02:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25075.830點；恒生科技指數現跌1.630%。"
+    },
+    {
+      "id": "5072123",
+      "time": "2026-09-02 10:01:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：勞動力市場狀況應會改善。"
+    },
+    {
+      "id": "5072122",
+      "time": "2026-09-02 10:01:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "紐西蘭元在紐西蘭央行公佈決議後下跌0.3%。"
+    },
+    {
+      "id": "5072121",
+      "time": "2026-09-02 10:01:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：委員會預計紐西蘭出口行業將保持韌性，家庭支出將逐步增加。"
+    },
+    {
+      "id": "5072120",
+      "time": "2026-09-02 10:01:30",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊持續走弱 盛達資源、湖南白銀跌超5%】貴金屬板塊持續走弱，盛達資源、湖南白銀跌超5%，中金黃金、華錫有色、四川黃金等下跌。"
+    },
+    {
+      "id": "mkt:01a05fd9-939e-7118-844e-14a6cf4a16c8",
+      "time": "2026-09-02 10:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "RBNZ expects the official cash rate (OCR) to be 2.81% in Dec 2026 (previously 2.84%) and 3.12% in Sep 2027 (previously 3.11%)."
+    },
     {
       "id": "mkt:01a05fd9-7c23-7118-844e-0fe7e28d649d",
       "time": "2026-09-02 10:01:23",
@@ -9,6 +353,15 @@
         "MKT News"
       ],
       "text": "NZD/USD slid more than 20 pips intraday; the RBNZ, as expected, hiked rates by 25bps."
+    },
+    {
+      "id": "5072119",
+      "time": "2026-09-02 10:01:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：經濟復甦預計將增強並擴大。"
     },
     {
       "id": "5072118",

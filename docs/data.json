@@ -1,7 +1,351 @@
 {
-  "updated": "2026-09-02 10:02:01",
-  "count": 12837,
+  "updated": "2026-09-02 10:06:01",
+  "count": 12851,
   "items": [
+    {
+      "id": "mkt:01a05fdd-07e0-7118-844e-9e5f6c4552a1",
+      "time": "2026-09-02 10:05:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "RBNZ: Labour market conditions should improve."
+    },
+    {
+      "id": "mkt:01a05fdd-0618-7118-844e-923e65ef2b67",
+      "time": "2026-09-02 10:05:15",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Shenzhen Composite Index fell more than 2%; precious metals and consumer electronics sectors led losses."
+    },
+    {
+      "id": "mkt:01a05fdc-f5f9-7118-844e-8f9feff8335e",
+      "time": "2026-09-02 10:05:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ said the committee expects New Zealand's export sector to remain resilient and household spending to pick up gradually."
+    },
+    {
+      "id": "mkt:01a05fdc-ba91-7118-844e-8731c5b2dfbf",
+      "time": "2026-09-02 10:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says economic recovery is expected to strengthen and broaden."
+    },
+    {
+      "id": "mkt:01a05fdc-a0ca-7118-844e-7b928546ae9e",
+      "time": "2026-09-02 10:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ says the committee remains vigilant and will act as needed to ensure inf returns sustainably to the 2% target midpoint over the medium term."
+    },
+    {
+      "id": "mkt:01a05fdc-9db1-7118-844e-7330830a3551",
+      "time": "2026-09-02 10:04:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Sci-Tech Innovation Board 50 Index fell 2%; Beijing Stock Exchange 50 Index fell 3%."
+    },
+    {
+      "id": "5072138",
+      "time": "2026-09-02 10:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局釋出按病種付費3.0版分組方案和技術規範】今天（2日）上午，國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。這是繼2019年的1.0版分組，2024年2.0版分組方案之後的第三版分組方案和技術規範。按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”2019年啟動按病組（DRG）付費國家試點，2020年啟動按病種分值（DIP）付費國家試點，2021年啟動醫保支付方式改革三年行動計劃，在試點基礎上加快改革擴面提質。經過三年試點和三年專項行動，按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”。"
+    },
+    {
+      "id": "5072137",
+      "time": "2026-09-02 10:04:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.18%，成分股中，科力股份漲9.08%，同惠電子漲8.40%，星圖測控漲7.06%，天力複合漲6.35%。"
+    },
+    {
+      "id": "mkt:01a05fdc-5f6d-7118-844e-6a55dd928337",
+      "time": "2026-09-02 10:04:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ: New Zealand's economic recovery has very likely resumed but remains uneven."
+    },
+    {
+      "id": "mkt:01a05fdc-53d3-7118-844e-6341949c4234",
+      "time": "2026-09-02 10:04:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "09866.HK",
+        "Impact bearish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed electric-vehicle shares slid: NIO-SW (09866.HK) down over 5%, Li Auto (02015.HK) down nearly 4% to a post-listing low; SERES (09927.HK), XPeng (09868.HK) and Geely Automobile (00175.HK) also fell."
+    },
+    {
+      "id": "mkt:01a05fdc-3841-7118-844e-5fb58fbdbf06",
+      "time": "2026-09-02 10:04:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "RBNZ: The decision reduces the risk of needing further increases in the official cash rate (OCR). Future policy decisions will depend on the committee’s assessment of the balance of medium‑term inflation risks."
+    },
+    {
+      "id": "5072136",
+      "time": "2026-09-02 10:04:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4505.00點。"
+    },
+    {
+      "id": "5072135",
+      "time": "2026-09-02 10:04:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報13594.749點；上證指數跌1.11%，現報3935.639點；創業板指跌2.37%，現報3313.046點。"
+    },
+    {
+      "id": "5072134",
+      "time": "2026-09-02 10:04:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本新發10年期國債收益率升至3.015% 再達新高】9月2日，日本債券市場上，作為長期利率指標的新發10年期國債收益率一度升至3.015%。據日本相互證券資料，這是自1996年9月以來的最高水平。"
+    },
+    {
+      "id": "5072133",
+      "time": "2026-09-02 10:04:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.01%，成分股中，九號公司跌4.19%，中控技術跌3.80%，晶晨股份跌3.51%，瀾起科技跌3.45%。"
+    },
+    {
+      "id": "mkt:01a05fdb-e7a6-7118-844e-501e3d249e98",
+      "time": "2026-09-02 10:04:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ C.BANK said a gradual withdrawal of monetary stimulus is appropriate to return inf to the 2% target midpoint while supporting economic growth and employment."
+    },
+    {
+      "id": "mkt:01a05fdb-8bb4-7118-844e-4b7f0d60ccb8",
+      "time": "2026-09-02 10:03:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv data showed four merchant vessels transited the Strait of Hormuz on Tuesday, below the 10‑day average of about 13 vessels."
+    },
+    {
+      "id": "5072132",
+      "time": "2026-09-02 10:03:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊部分活躍，集泰股份3連板】液冷伺服器板塊部分活躍，集泰股份3連板，道明光學、遠東股份、雪人集團漲停，飛龍股份、利通科技、榮億精密、金帝股份、科隆新材跟漲。"
+    },
+    {
+      "id": "mkt:01a05fdb-4c1c-7118-844e-435b79a852d1",
+      "time": "2026-09-02 10:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects the official cash rate (OCR) to be 3.28% in September 2029."
+    },
+    {
+      "id": "5072131",
+      "time": "2026-09-02 10:03:15",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "紐西蘭央行會議紀要：委員會判定，將官方現金利率上調至2.75%，這一舉措適宜將通脹可持續地回落至2%目標區間中點。"
+    },
+    {
+      "id": "mkt:01a05fdb-2fe5-7118-844e-3976df60621e",
+      "time": "2026-09-02 10:03:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ projects the Official Cash Rate (OCR) at 3.15% in December 2027, unchanged from its prior projection of 3.15%."
+    },
+    {
+      "id": "mkt:01a05fda-c1e1-7118-844e-3218342a1a01",
+      "time": "2026-09-02 10:02:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "XAUUSD",
+        "CSI300"
+      ],
+      "text": "HSI fell more than 1%; gold, power equipment, media and film, and Chinese brokerages led declines."
+    },
+    {
+      "id": "mkt:01a05fda-b58a-7118-844e-2b229ea446c3",
+      "time": "2026-09-02 10:02:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RBNZ expects annual CPI to reach 2.4% by September 2027, versus a prior forecast of 2.0%."
+    },
+    {
+      "id": "5072130",
+      "time": "2026-09-02 10:02:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.24%，成分股中，科力股份漲9.93%，同惠電子漲7.20%，星圖測控漲7.20%，華密新材漲4.80%。"
+    },
+    {
+      "id": "5072129",
+      "time": "2026-09-02 10:02:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5072128",
+      "time": "2026-09-02 10:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元<NZD=D3>下跌0.53%，報0.5860美元。"
+    },
+    {
+      "id": "5072127",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行：未來政策將取決於通脹風險。"
+    },
+    {
+      "id": "mkt:01a05fda-36d2-7118-844e-22639f2ddcf6",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NZDUSD",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD intraday loss widened to 40 pips, down 0.50% on the day at 0.5860."
+    },
+    {
+      "id": "mkt:01a05fda-3674-7118-844e-191607f53d57",
+      "time": "2026-09-02 10:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects the NZD/USD trade-weighted index to be about 66.9% in September 2027, versus a prior projection of 66.6%."
+    },
+    {
+      "id": "5072124",
+      "time": "2026-09-02 10:02:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25075.830點；恒生科技指數現跌1.630%。"
+    },
+    {
+      "id": "5072123",
+      "time": "2026-09-02 10:01:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：勞動力市場狀況應會改善。"
+    },
+    {
+      "id": "5072122",
+      "time": "2026-09-02 10:01:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "紐西蘭元在紐西蘭央行公佈決議後下跌0.3%。"
+    },
+    {
+      "id": "5072121",
+      "time": "2026-09-02 10:01:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：委員會預計紐西蘭出口行業將保持韌性，家庭支出將逐步增加。"
+    },
+    {
+      "id": "5072120",
+      "time": "2026-09-02 10:01:30",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊持續走弱 盛達資源、湖南白銀跌超5%】貴金屬板塊持續走弱，盛達資源、湖南白銀跌超5%，中金黃金、華錫有色、四川黃金等下跌。"
+    },
+    {
+      "id": "mkt:01a05fd9-939e-7118-844e-14a6cf4a16c8",
+      "time": "2026-09-02 10:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "RBNZ expects the official cash rate (OCR) to be 2.81% in Dec 2026 (previously 2.84%) and 3.12% in Sep 2027 (previously 3.11%)."
+    },
     {
       "id": "mkt:01a05fd9-7c23-7118-844e-0fe7e28d649d",
       "time": "2026-09-02 10:01:23",
@@ -9,6 +353,15 @@
         "MKT News"
       ],
       "text": "NZD/USD slid more than 20 pips intraday; the RBNZ, as expected, hiked rates by 25bps."
+    },
+    {
+      "id": "5072119",
+      "time": "2026-09-02 10:01:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行宣告：經濟復甦預計將增強並擴大。"
     },
     {
       "id": "5072118",
@@ -117564,212 +117917,6 @@
         "Important"
       ],
       "text": "MIIT said it will accelerate development over the next five years of emerging pillar industries such as aviation and aerospace and intelligent robotics."
-    },
-    {
-      "id": "5058847",
-      "time": "2026-08-26 10:05:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：未來五年加快打造航空航天、智慧機器人等新興支柱產業】國新辦舉行 “開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，我們將著力最佳化產業結構，統籌推進傳統產業改造升級、新興產業培育壯大、未來產業前瞻佈局，保持和發展好完整產業體系。加快打造積體電路、航空航天、生物醫藥、低空經濟、新型儲能、智慧機器人等新興支柱產業，推動量子科技、生物製造、氫能和核聚變能、腦機介面、具身智慧、第六代行動通訊（6G）等未來產業成為新的經濟增長點。"
-    },
-    {
-      "id": "mkt:01a03bd0-d0db-7aab-911e-b09744f22a22",
-      "time": "2026-08-26 10:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The governor of Russia's Tambov region said a Wildberries warehouse in the region caught fire after a drone strike."
-    },
-    {
-      "id": "5058846",
-      "time": "2026-08-26 10:05:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【信達生物港股升至紀錄新高】信達生物盤中漲超10%至112.70港元，創紀錄新高。公司此前公佈上半年營收同比增長45%至86億元人民幣。雖然總收入低於預估，但野村稱淨利潤增長超預期。"
-    },
-    {
-      "id": "5058845",
-      "time": "2026-08-26 10:05:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元小幅走強，漲幅一度達0.2%，至158.90。"
-    },
-    {
-      "id": "mkt:01a03bd0-a24d-7aab-911e-abf1529dc3c4",
-      "time": "2026-08-26 10:05:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Indonesian rupiah rose to IDR17,680 per USD in early trade, its highest level since mid-June."
-    },
-    {
-      "id": "5058844",
-      "time": "2026-08-26 10:05:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創業板、科創50指數雙雙翻綠】創業板、科創50指數雙雙翻綠，全市場超3000家個股下跌。油氣、CPO、PCB概念板塊跌幅居前。"
-    },
-    {
-      "id": "mkt:01a03bd0-1455-7aab-911e-a24613b56aac",
-      "time": "2026-08-26 10:04:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USD/JPY slipped about 15 pips intra-session to 158.90."
-    },
-    {
-      "id": "5058843",
-      "time": "2026-08-26 10:04:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博倫智匯宣佈完成千萬級天使輪融資】8月26日，北京博倫智匯科技有限公司宣佈，公司已於近日完成千萬級天使輪融資，本輪融資由專注AI及AI Infra賽道、同時佈局過大模型訓練框架的一線產業基金投資。本輪資金將主要用於核心技術迭代、產品打磨、核心技術團隊擴充，加速公司在AI算力產業的市場拓展與業務落地。"
-    },
-    {
-      "id": "mkt:01a03bcf-e7e2-7aab-911e-9cdd5927c89e",
-      "time": "2026-08-26 10:04:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MIIT: China's industry upgrade toward new, higher-quality, smarter and greener accelerates】State Council Information Office held a kickoff press conference for the 15th Five-Year Plan; an MIIT official said the ministry will fully implement the 15th Plan and speed up new-type industrialization. MIIT said that during the 14th Five-Year period China’s new-type industrialization deepened, the industry’s shift toward new, higher-quality, smarter and greener development notably accelerated, and all 14th Five-Year Plan targets were met."
-    },
-    {
-      "id": "te:markets:578095",
-      "time": "2026-08-26 10:04:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Rise on Healthcare and Tech Gains — The Hang Seng Index rose 1.1%, or 282 points, to 25,791 on Wednesday, following gains on Wall Street overnight as technology stocks rebounded, while easing crude oil prices and lower US Treasury yields offered some support to Asian equities, although uncertainty surrounding US-Iran developments kept investors cautious. The rise was led by healthcare stocks, with Innovent Biologics climbing 10.5%, while broader sentiment was also supported by gains in tech shares. Meanwhile, Alibaba was also in focus after Chairman Joe Tsai bought an additional 720,000 shares worth about HK$82 million, following recent purchases by other senior executives. The buying helped ease concerns over the company’s HK$80 billion share placement to fund its AI expansion, which is expected to close on Wednesday. Notable movers included Tencent (1.0%), Wuxi Biologics (2.1%), Xiaomi (2.0%), Meituan (2.3%), and Akeso (7.4%)."
-    },
-    {
-      "id": "5058842",
-      "time": "2026-08-26 10:04:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本JERA株式會社表示，將投資總部位於美國的Emerald AI，為人工智慧資料中心開發先進能源解決方案。"
-    },
-    {
-      "id": "mkt:01a03bcf-c1a6-7aab-911e-91379bd20a98",
-      "time": "2026-08-26 10:04:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor and chip stocks slid; Chunzhong Technology hit its daily trading limit, Jiepute fell over 10%, and Hengshuo, Dawei, Helin Weina and Jianghua Micro each dropped more than 5%."
-    },
-    {
-      "id": "5058841",
-      "time": "2026-08-26 10:04:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌1%至6436.02點。"
-    },
-    {
-      "id": "te:markets:578094",
-      "time": "2026-08-26 10:04:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "China Stocks Gain on Policy Support Hopes — The Shanghai Composite edged up 0.2% to 3,896 on Wednesday, while the Shenzhen Component rose 0.4% to 13,795, as investors eagerly awaited developments from the ongoing National People’s Congress Standing Committee meeting. The August 25–28 session is being closely watched for policy support following weak economic data and repeated pledges from policymakers to bolster growth. Meanwhile, China Merchants Bank is issuing a three-year floating-rate note linked to the overnight bond repurchase rate, becoming the first domestic commercial lender to do so. Earlier this month, the Export-Import Bank of China became the first policy bank to issue debt tied to the same benchmark. The shift reflects the PBOC’s efforts to elevate the overnight repo rate as the primary anchor for short-term funding costs, bringing the policy framework closer to international standards. Notable gainers included BYD (1%), Victory Giant Technology (1.9%), and Wus Printed Circuit (3.9%)."
-    },
-    {
-      "id": "5058840",
-      "time": "2026-08-26 10:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：我國產業“向新、向優、向智、向綠”升級步伐明顯加快】8月26日，國新辦舉行 “開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，“十四五”時期，我國新型工業化持續走深走實，產業“向新、向優、向智、向綠”升級步伐明顯加快，圓滿完成了“十四五”規劃的各專案標任務。"
-    },
-    {
-      "id": "mkt:01a03bcf-381e-7aab-911e-8994b278f863",
-      "time": "2026-08-26 10:03:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "JERA, Japan's largest power company, will invest in U.S.-based Emerald AI to advance energy solutions for AI data centers."
-    },
-    {
-      "id": "5058839",
-      "time": "2026-08-26 10:03:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體晶片股震盪走低，淳中科技觸及跌停，傑普特跌超10%，恆爍股份、大為股份、和林微納、江化微跌超5%。"
-    },
-    {
-      "id": "5058838",
-      "time": "2026-08-26 10:03:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌6%，現報7868.00元。"
-    },
-    {
-      "id": "mkt:01a03bce-e128-7aab-911e-86cb7bb3bbe4",
-      "time": "2026-08-26 10:03:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's CSI 1000 index futures (IM) front contract fell below 7,400 points, down 1.01% intraday."
-    },
-    {
-      "id": "5058837",
-      "time": "2026-08-26 10:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方：在烏克蘭部署北約軍隊不可接受】俄羅斯總統新聞秘書佩斯科夫25日說，俄羅斯已多次宣告，北約國家在烏克蘭領土部署軍隊對俄羅斯而言“不可接受”。"
-    },
-    {
-      "id": "5058836",
-      "time": "2026-08-26 10:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國地震局回應成都高新減災研究所誤報7.7級地震預警】2026年8月24日8時26分，四川宜賓市長寧縣發生4.7級地震。中國地震預警網震後6秒透過微信小程式、華為手機、小米手機和地震預警專用終端等渠道，向震中周邊區域1000餘萬使用者推送了官方地震預警資訊。震後，成都高新減災研究所擅自利用其自建系統生成“四川長寧7.7級”地震預警資訊，以“中國地震預警網”的名義，透過榮耀、vivo、魅族品牌手機及小天才手錶等終端違規向全國使用者推送，引發公眾廣泛關注。（新華社）"
-    },
-    {
-      "id": "5058835",
-      "time": "2026-08-26 10:02:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本最大電力公司JERA投資美國Emerald AI。"
     }
   ]
 }
