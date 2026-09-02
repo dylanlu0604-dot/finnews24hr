@@ -1,7 +1,174 @@
 {
-  "updated": "2026-09-02 19:37:33",
-  "count": 12031,
+  "updated": "2026-09-02 19:42:11",
+  "count": 12042,
   "items": [
+    {
+      "id": "5073272",
+      "time": "2026-09-02 19:40:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業銀錫：子公司選礦尾礦系統將於9月3日復產】興業銀錫公告稱，公司全資子公司銀漫礦業2026年7月26日發生安全事故致1人死亡，採區及選礦尾礦系統按要求相繼停產。近日銀漫礦業收到當地應急管理局通知，同意其選礦尾礦系統復工復產，選廠將於2026年9月3日復產。目前銀漫礦業採區仍在推進整改，爭取早日復產。"
+    },
+    {
+      "id": "5073271",
+      "time": "2026-09-02 19:40:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨價格上漲至2023年來最高水平】本月2日，作為歐洲天然氣基準價格的荷蘭所有權轉讓中心（TTF）天然氣期貨價格升至每兆瓦時75歐元，達到2023年以來最高水平。（新華社）"
+    },
+    {
+      "id": "mkt:01a061eb-a9f4-7118-845e-70602afbdb20",
+      "time": "2026-09-02 19:40:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary Wright said this bolsters confidence in Venezuela's legal and contractual security."
+    },
+    {
+      "id": "mkt:01a061eb-9fe2-7118-845e-698b3841d4a8",
+      "time": "2026-09-02 19:40:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it had received a delayed report of a security incident in the Strait of Hormuz involving an oil tanker. The incident resulted in two casualties. There are no reports of environmental impact. Relevant authorities are investigating."
+    },
+    {
+      "id": "5073270",
+      "time": "2026-09-02 19:40:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗雷扎伊：伊朗在戰場、外交以及對抗經濟封鎖方面的新戰略，將會摧毀你們的根基。"
+    },
+    {
+      "id": "mkt:01a061eb-05ba-7118-845e-60fdccc596a6",
+      "time": "2026-09-02 19:39:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary wright said the framework will include U.S. oversight mechanisms for enforcement of laws and for contract compliance."
+    },
+    {
+      "id": "te:economy:580477",
+      "time": "2026-09-02 19:39:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ghana Inflation Rate Quickens to 5% in August — The annual inflation rate in Ghana reaccelerated to 5% in August 2026 from 4.6% in July. Non-food price growth picked up to 6.8%, up from 6.1% in July, driven in part by higher oil prices stemming from the Middle East war that pushed up transport and utility costs. Meanwhile, food inflation eased marginally to 3% from 3.1%. On a monthly basis, the CPI fell by 1% in August, marking the first decline since late 2025, after a 0.1% uptick in the previous month."
+    },
+    {
+      "id": "5073269",
+      "time": "2026-09-02 19:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：該架構將由美國對法律與合同履行監督與執行權。"
+    },
+    {
+      "id": "mkt:01a061ea-7a5b-7118-845e-58ab4ae3591f",
+      "time": "2026-09-02 19:39:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary Wright said Betancourt has long been a qualified operator in Venezuela."
+    },
+    {
+      "id": "mkt:01a061ea-692b-7118-845e-5735a190ba12",
+      "time": "2026-09-02 19:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran official: new strategy will completely destroy enemy foundations】Major General Rezaei, secretary of Iran's Supreme National Security Council, wrote that opponents' efforts \"will not save you from the hellish pit you have dug for yourselves\" and that Iran's new battlefield, diplomatic and economic counter‑blockade strategy \"will completely destroy your foundations.\""
+    },
+    {
+      "id": "5073268",
+      "time": "2026-09-02 19:39:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國能源部長賴特：貝當古公司一直是委內瑞拉境內一家合格的運營企業。"
+    },
+    {
+      "id": "5073267",
+      "time": "2026-09-02 19:38:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守94美元/桶，日內跌0.70%。"
+    },
+    {
+      "id": "5073266",
+      "time": "2026-09-02 19:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動組織(UKMTO)：“英國海事貿易行動組織收到一份遲報的霍爾木茲海峽事件報告。英國海事貿易行動組織收到經核實的報告，一艘油輪遭遇安全事件，造成兩人傷亡。目前暫無環境影響相關報告。有關部門正在開展調查。 建議船舶謹慎通行，如發現任何可疑活動，請向英國海事貿易行動組織上報。”"
+    },
+    {
+      "id": "5073265",
+      "time": "2026-09-02 19:37:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【希荻微：控股子公司將被韓國交易所指定為管理股】希荻微公告稱，公司控股子公司Zinitix因普通股總市值不足200億韓元的狀態連續持續30個交易日，將於2026年9月3日起被韓國交易所指定為管理股。被指定為管理股後，若Zinitix在90個交易日內普通股總市值未能連續45個交易日及以上持續達200億韓元以上，將予以退市。截至公告披露日，公司合計持有Zinitix48.47%的股份。若Zinitix觸發退市，存在商譽減值風險，公司收購Zinitix形成商譽6421.75萬元，將對公司淨利潤產生不利影響，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:01a061e8-edfe-7118-845e-4bd9604b6a9c",
+      "time": "2026-09-02 19:37:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【EU says it will respond to Russian drone attack】EU foreign policy chief kallas said on Wednesday member states called for new sanctions on Russia after an attempted drone strike at Leipzig/Halle airport. The airport, a major eastern German civil cargo and NATO logistics hub and base for several Antonov An-124 transport aircraft, was the target. Germany accused Moscow, calling the incident part of a hybrid campaign to intimidate countries that backed Ukraine and to sow internal divisions; Russia denied involvement and vowed to respond to alleged \"anti-Russian actions.\" kallas said the attack \"bears all the hallmarks of state-supported terrorism\" and pledged a firm response. The EU is studying sanctions aimed at Russia's military-industrial complex. France's foreign minister urged action against a reported \"shadow fleet\" of vessels accused of evading energy sanctions."
+    },
+    {
+      "id": "5073264",
+      "time": "2026-09-02 19:37:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【希荻微：控股子公司Zinitix將於2026年9月3日被指定為管理股】希荻微公告，公司控股子公司Zinitix因普通股總市值不足200億韓元連續30個交易日，將於2026年9月3日起被韓國交易所指定為管理股；如其在90個交易日內未能連續45個交易日及以上達到200億韓元以上，將予以退市。"
+    },
+    {
+      "id": "5073263",
+      "time": "2026-09-02 19:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步：我們已對主要負責協調工作的崗位進行裁員，並明確了保留下來的協調崗位的職責範圍。"
+    },
+    {
+      "id": "5073262",
+      "time": "2026-09-02 19:36:59",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家電網公司榮獲第十三屆中華慈善獎】第十三屆中華慈善獎表彰大會9月1日在北京人民大會堂召開，國家電網有限公司榮獲“捐贈企業”獎，這是公司第十次獲中華慈善獎。 近年來，公司黨組深入學習貫徹習近平總書記關於慈善事業的重要指示批示精神，認真落實黨中央、國務院決策部署，模範履行社會責任，積極參與重大災害救助、鄉村振興、東西幫扶、生態保護、扶弱濟困等公益慈善事業。2023年至2025年，公司實施對外捐贈專案1514個，助力新疆、西藏電網建設，鞏固拓展脫貧攻堅成果，服務鄉村振興，應對洪澇、地震災害等突發性公共事件，彰顯了央企責任擔當。（國家電網）"
+    },
+    {
+      "id": "mkt:01a061e8-55dc-7118-845e-40d604cbf685",
+      "time": "2026-09-02 19:36:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliamentary deputy speaker said Iran has no doubt or weakness in defending its national interests, and there are no disagreements among government departments, the public and the armed forces."
+    },
     {
       "id": "5073261",
       "time": "2026-09-02 19:36:01",
@@ -110857,74 +111024,6 @@
         "國際"
       ],
       "text": "印度投資與公共資產管理部秘書：印度斯坦銅業公司的要約出售在兩個交易日均獲超額認購。"
-    },
-    {
-      "id": "mkt:01a03de0-744b-7aab-912c-aae1855d812d",
-      "time": "2026-08-26 19:41:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said the Strait of Hormuz is under its control and that enemy warships have not entered Persian Gulf waters."
-    },
-    {
-      "id": "5060193",
-      "time": "2026-08-26 19:41:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷克議員放寬預算規則，允許擴大政府支出。"
-    },
-    {
-      "id": "5060192",
-      "time": "2026-08-26 19:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達稱以色列不存在和平夥伴】卡達外交部發言人安薩里8月25日表示，美國對伊朗實施的制裁是單邊制裁，並非聯合國或多邊制裁，應該向決定實施制裁的人提出質疑。安薩里強調，卡達始終強調優先透過對話達成外交解決方案，並認為這是擺脫地區危機的唯一出路，呼籲各方本著誠意參與其中。安薩里同時呼籲必須對以色列施加國際壓力，使其尊重已商定的計劃。他指出，以色列在加沙地帶、約旦河西岸的活動以及對敘利亞和黎巴嫩主權的攻擊表明，“以色列不存在和平夥伴”。安薩里表示，“球”現在在以色列一方”，如果以色列人想成為地區的一部分、想表明它認真尋求外交解決方案，就需要遵守協議，而目前尚未看到這方面有任何積極進展。（CCTV國際時訊）"
-    },
-    {
-      "id": "5060191",
-      "time": "2026-08-26 19:40:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科前生物：2026年上半年淨利潤1.16億元，同比下降47.37%】科前生物公告，2026年上半年營業收入3.74億元，同比下降23.28%；歸屬於上市公司股東的淨利潤1.16億元，同比下降47.37%，2025年同期為2.2億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8569.68萬元，同比下降54.89%，2025年同期為1.9億元。"
-    },
-    {
-      "id": "5060190",
-      "time": "2026-08-26 19:39:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海泰新光：完成回購股份 累計耗資5745.62萬元】海泰新光公告稱，公司股份回購方案已實施完畢，累計透過集中競價交易方式回購股份82萬股，佔公司總股本的0.6840%，回購價格區間為58.50元/股-91.99元/股，支付資金總額5745.62萬元，資金來源為自有資金及股票回購專項貸款。本次回購用途為維護公司價值及股東權益，所回購股份將在披露回購結果暨股份變動公告12個月後透過集中競價方式出售，三年內未轉讓完畢的部分將予以登出。"
-    },
-    {
-      "id": "5060189",
-      "time": "2026-08-26 19:39:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中恆電氣：2026年上半年淨利潤5498.78萬元，同比增長15.81%】中恆電氣公告，2026年上半年營業收入12.62億元，同比增長41.67%；歸屬於上市公司股東的淨利潤5498.78萬元，同比增長15.81%，2025年同期為4748.26萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4994.88萬元，同比增長11.61%。"
-    },
-    {
-      "id": "5060188",
-      "time": "2026-08-26 19:39:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "上交所：中際旭創調入滬港通下港股通標的。"
-    },
-    {
-      "id": "mkt:01a03ddd-cdcc-7aab-912c-a4d987730f39",
-      "time": "2026-08-26 19:39:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said the media has become a core front in the \"public perception war\" and urged journalists to help boost national morale."
     }
   ]
 }
