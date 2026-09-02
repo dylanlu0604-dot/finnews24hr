@@ -1,7 +1,72 @@
 {
   "date": "2026-09-02",
-  "count": 2892,
+  "count": 2899,
   "items": [
+    {
+      "id": "5073760",
+      "time": "2026-09-02 23:39:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗與俄羅斯：無論各方向伊朗提供何種支援，都絕不會妨礙我們採取必要行動保衛美國。儘管如此，就伊朗當前所作所為而言，我們與俄羅斯的立場顯然未必完全一致。"
+    },
+    {
+      "id": "mkt:01a062c6-c8ca-7118-8468-89f09a983124",
+      "time": "2026-09-02 23:39:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "EuroStoxx50"
+      ],
+      "text": "European stocks closed lower on Wednesday Sept 2: Germany's DAX fell 127.39 points (-0.49%) to 25,830.92; Britain's FTSE 100 dropped 31.55 points (-0.29%) to 10,757.73; France's CAC 40 lost 21.22 points (-0.26%) to 8,280.63; the Euro Stoxx 50 declined 6.13 points (-0.10%) to 6,362.85; Spain's IBEX 35 slipped 40.42 points (-0.20%) to 19,775.08; Italy's FTSE MIB eased 122.68 points (-0.24%) to 51,792.50."
+    },
+    {
+      "id": "5073759",
+      "time": "2026-09-02 23:39:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級：將奈及利亞銀行B3長期存款評級展望由穩定調整為正面。"
+    },
+    {
+      "id": "5073758",
+      "time": "2026-09-02 23:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：塞爾維亞預算修訂凸顯政策組合面臨的政治風險。"
+    },
+    {
+      "id": "mkt:01a062c5-c9eb-7118-8468-84f11ee2e25f",
+      "time": "2026-09-02 23:38:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran says seized 382,000 liters of smuggled diesel in northern Persian Gulf】Iranian border forces detained a foreign tug and seized 382,000 liters of smuggled diesel, arresting 11 foreign nationals, state broadcaster IRIB reported. Khuzestan province border units, acting on an intelligence tip, formed rapid-response teams based in Abadan and intercepted the vessel inside Iranian territorial waters, IRIB said."
+    },
+    {
+      "id": "5073757",
+      "time": "2026-09-02 23:38:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗說在波斯灣北部查獲38.2萬升走私燃油】據伊朗媒體2日報道，伊朗邊防部隊日前在波斯灣北部海域扣押一艘涉嫌走私燃油的外國拖船，查獲38.2萬升柴油，並逮捕11名外國籍嫌疑人。（新華社）"
+    },
+    {
+      "id": "5073756",
+      "time": "2026-09-02 23:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊會見議會議員薩拉布。"
+    },
     {
       "id": "5073755",
       "time": "2026-09-02 23:36:33",
