@@ -1,7 +1,37 @@
 {
   "date": "2026-09-03",
-  "count": 468,
+  "count": 471,
   "items": [
+    {
+      "id": "te:markets:580596",
+      "time": "2026-09-03 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 3.32% — Top commodity gainers are Natural gas (3.32%), Naphtha (3.01%), Propane (3%), Brent Oil (0.72%) and Crude Oil (0.51%). Biggest losers are Coking Coal (-2.69%) and Gasoline (-1.23%)."
+    },
+    {
+      "id": "5074063",
+      "time": "2026-09-03 06:29:04",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月3日隔夜要聞一覽】\n1、美國總統特朗普當地時間9月2日在白宮對記者表示，美國對伊朗的新一輪打擊行動不會“持續太久”。\n2、美聯儲褐皮書：美國經濟小幅溫和擴張，消費分化，關稅推升成本壓力。\n3、國際油價2日上漲。紐約商品交易所10月交貨的輕質原油期貨價格上漲79美分，收於每桶91.01美元，漲幅為0.88%；11月交貨的倫敦布倫特原油期貨價格上漲98美分，收於每桶95.63美元，漲幅為1.04%。\n4、美國財長貝森特：我們將重新恢復關稅。\n5、Meta釋出更強大AI模型，聲稱進一步縮小了與競爭對手差距。\n6、美國鑄幣局正式推出印有特朗普頭像的1美元硬幣。\n7、伊朗貨幣兌美元跌至歷史新低，超220萬里亞爾兌1美元。\n8、特朗普：蘋果地圖剛剛宣佈，已將安大略湖更名為美國湖。至此，谷歌地圖與蘋果地圖之間這項至關重要的更名工作已經完成、正式生效且具備約束力。\n9、美國法官阻止特朗普政府執行最新一項限制出生地公民權的行政令。"
+    },
+    {
+      "id": "mkt:01a0643b-ec93-7118-846f-4096b01ed9c1",
+      "time": "2026-09-03 06:27:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. judge blocks Trump executive order limiting birthright citizenship】On Sept 2, U.S. District Judge Deborah Boardman in Maryland issued a preliminary injunction preventing the Trump administration from enforcing a new executive order that sought to deny automatic U.S. citizenship to newborns whose parents are neither U.S. citizens nor lawful permanent residents. Trump signed the order after returning to the White House in January 2025. The U.S. Supreme Court on June 30 had ruled to overturn the order."
+    },
     {
       "id": "5074062",
       "time": "2026-09-03 06:26:36",
