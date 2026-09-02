@@ -1,7 +1,23 @@
 {
   "date": "2026-09-03",
-  "count": 439,
+  "count": 441,
   "items": [
+    {
+      "id": "mkt:01a0640d-1bd1-7118-846e-debdcab84a29",
+      "time": "2026-09-03 05:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has blocked the Trump administration from enforcing its latest executive order restricting birthright citizenship."
+    },
+    {
+      "id": "5074048",
+      "time": "2026-09-03 05:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官阻止特朗普政府執行最新一項限制出生地公民權的行政令。"
+    },
     {
       "id": "5074047",
       "time": "2026-09-03 05:30:30",

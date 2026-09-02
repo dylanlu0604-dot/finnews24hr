@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-03 05:36:33",
-  "count": 11991,
+  "updated": "2026-09-03 05:40:46",
+  "count": 11990,
   "items": [
+    {
+      "id": "mkt:01a0640d-1bd1-7118-846e-debdcab84a29",
+      "time": "2026-09-03 05:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has blocked the Trump administration from enforcing its latest executive order restricting birthright citizenship."
+    },
+    {
+      "id": "5074048",
+      "time": "2026-09-03 05:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官阻止特朗普政府執行最新一項限制出生地公民權的行政令。"
+    },
     {
       "id": "5074047",
       "time": "2026-09-03 05:30:30",
@@ -110139,37 +110155,6 @@
         "國際"
       ],
       "text": "【特朗普簽署公告擴大瘦牛肉進口配額】美國總統特朗普今日釋出公告，臨時上調瘦牛肉碎料進口配額，超額部分不徵收關稅。公告顯示，配額上調自9月1日起生效，為期90天。白宮補充，每月進口上限為10萬噸。公告表明，該配額僅適用於瘦牛肉碎料，用於和美國本土牛肉混合製作牛肉餡。"
-    },
-    {
-      "id": "5060950",
-      "time": "2026-08-27 05:40:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：如果不受供應限制，2028財年業績展望會“高得多”。"
-    },
-    {
-      "id": "mkt:01a04004-1e14-7aab-9139-6c0f640cc7b8",
-      "time": "2026-08-27 05:40:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the company's fiscal 2028 outlook would be \"much higher\" absent supply constraints."
-    },
-    {
-      "id": "mkt:01a04001-b2a3-7aab-9139-62968bb395fb",
-      "time": "2026-08-27 05:37:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKO issued a Red Rainstorm Warning Signal at 05:05 HKT."
     }
   ]
 }
