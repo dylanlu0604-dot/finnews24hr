@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-03 06:02:26",
-  "count": 11978,
+  "updated": "2026-09-03 06:06:38",
+  "count": 11977,
   "items": [
+    {
+      "id": "mkt:01a06426-39a3-7118-846f-1b139fcad2f2",
+      "time": "2026-09-03 06:03:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DHS secretary's plane makes emergency landing after engine fire; no injuries】A U.S. Coast Guard Gulfstream C-37A carrying Department of Homeland Security Secretary Markwayne Mullin made an emergency landing at Reagan National Airport on Wednesday after its right engine malfunctioned and caught fire. Mullin and several senior DHS officials aboard were uninjured."
+    },
+    {
+      "id": "mkt:01a06425-f04f-7118-846f-15210919f9ca",
+      "time": "2026-09-03 06:03:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US envoy meets UAE security adviser in Sardinia as UAE suspends Iran trade amid tanker attacks】Axios reports U.S. presidential envoy Steve Vitekov met last weekend in Sardinia with UAE national security adviser Tahnoun bin Zayed Al Nahyan to discuss next steps on Iran; the meeting was not disclosed by the White House. The talks come as the Trump administration pushes to reopen Strait of Hormuz shipping lanes and intensify economic pressure on Iran. The UAE has suspended trade, commercial and financial ties with Iran after a rise in Islamic Revolutionary Guard attacks on UAE National Oil Company tankers transiting the Strait; bilateral trade reached $28 bln in 2024 and Dubai has been a key re‑export hub. Sources say an Iranian delegation visited Abu Dhabi on Aug. 11 seeking to ease ties, request food and medicine access and ask the UAE not to comply with U.S. sanctions; the UAE refused. The U.S. is assembling an interagency task force to coordinate further economic pressure on Iran."
+    },
+    {
+      "id": "5074054",
+      "time": "2026-09-03 06:01:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息25個基點的機率為62.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為37.7%，累計加息25個基點的機率為62.3%。美聯儲到10月維持利率不變的機率為27.2%，累計加息25個基點的機率為55.5%，累計加息50個基點的機率為17.2%。"
+    },
     {
       "id": "mkt:01a06420-8867-7118-846f-098d9aa0c3a5",
       "time": "2026-09-03 05:57:28",
@@ -109995,46 +110023,6 @@
         "市場"
       ],
       "text": "惠普首席財務官：預計將隨著投入成本上漲繼續提價。"
-    },
-    {
-      "id": "5060968",
-      "time": "2026-08-27 06:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺灣台東縣海域發生4.5級地震】中國地震臺網正式測定：8月27日5時47分在臺灣台東縣海域（北緯22.81度，東經121.44度）發生4.5級地震，震源深度30千米。"
-    },
-    {
-      "id": "5060967",
-      "time": "2026-08-27 06:04:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "保誠集團：2024-2027年期間將如期向股東返還逾70億美元資本。"
-    },
-    {
-      "id": "5060966",
-      "time": "2026-08-27 06:03:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月維持利率不變的機率為63.5%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為63.5%，累計加息25個基點的機率為36.5%。美聯儲到10月維持利率不變的機率為47.3%，累計加息25個基點的機率為43.4%，累計加息50個基點的機率為9.3%。"
-    },
-    {
-      "id": "mkt:01a04019-e338-7aab-9139-b2a7be5c9b77",
-      "time": "2026-08-27 06:03:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "Nasdaq100",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "Nasdaq futures rose about 1% in early Thursday trade, buoyed by NVIDIA (NVDA.O) climbing 4.5% in after-hours trading."
     }
   ]
 }
