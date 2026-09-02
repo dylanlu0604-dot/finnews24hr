@@ -1,7 +1,60 @@
 {
   "date": "2026-09-02",
-  "count": 906,
+  "count": 911,
   "items": [
+    {
+      "id": "te:markets:580229",
+      "time": "2026-09-02 08:39:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop on Rallying Bond Yields, Oil Prices — The Nikkei 225 Index dropped 2.5% to below 64,600 while the broader Topix Index fell 1.6% to 4,115 on Wednesday, with the Nikkei hitting four-week lows as surging global bond yields and oil prices weighed heavily on equities. Oil prices climbed for a third consecutive session amid escalating hostilities between the US and Iran, heightening inflationary risks and driving global bond yields higher. Japan’s 10-year government bond yield reached 3% for the first time since 1996, also supported by growing expectations for a Bank of Japan interest rate hike this month. Tech and AI-related stocks led the decline, with notable losses from Kioxia Holdings (-1.1%), Advantest (-2.3%), Fujikura (-1.4%), Tokyo Electron (-4.6%) and SoftBank Group (-4.6%). Financial, consumer and industrial stocks also recorded sharp declines."
+    },
+    {
+      "id": "mkt:01a05f8c-c31a-7118-844a-f6c4ae172ebe",
+      "time": "2026-09-02 08:37:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX fell 2%."
+    },
+    {
+      "id": "te:markets:580228",
+      "time": "2026-09-02 08:37:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Fast Retailing Stock Price Hits 15-week Low — Fast Retailing shares decreased to 70180.00 JPY, the lowest since May 2026. Over the past 4 weeks, Fast Retailing lost 11.43%, and in the last 12 months, it increased 51.81%."
+    },
+    {
+      "id": "5071921",
+      "time": "2026-09-02 08:37:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破96美元/桶，日內漲1.45%。"
+    },
+    {
+      "id": "5071920",
+      "time": "2026-09-02 08:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局召開新型電網建設工作部署會】9月1日，國家能源局召開新型電網建設工作部署會。國家能源局黨組書記、局長王宏志出席會議並講話。會議強調，“十五五”期間，我國電力需求仍將保持年均5%左右的增長，新能源佔比進一步提高，高階產業對綠色高質量電能需求穩步增長，新模式新業態加速湧現，核心技術競爭加劇，對新型電網建設提出更高要求。新型電網建設是新架構、新技術、新服務的深刻變革，必須統籌謀劃、系統施策。一是著力夯實基礎設施長板，構建提升大電網安全穩定水平、充分發揮配電網公共平臺作用、促進智慧微電網靈活多元互動的主配微協同電網新架構。二是著力發揮創新引領作用，加快研發應用人工智慧+、柔性構網、智慧調控、長時儲能等電網新技術，發展新質生產力。三是著力加強多元支撐保障，升級新能源高效併網消納、高品質供電、算電協同等新業態友好適配的電網新服務，更好滿足產業發展和人民群眾需求。四是著力守牢安全執行底線，確保大電網安全穩定執行，加強工程安全質量管理，提升電網防災應急能力，增強安全韌性水平。(國家能源局)"
+    },
     {
       "id": "mkt:01a05f8a-666f-7118-844a-ef5dca2eb004",
       "time": "2026-09-02 08:35:00",
