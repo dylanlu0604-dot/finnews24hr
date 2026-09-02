@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-03 03:23:35",
-  "count": 12028,
+  "updated": "2026-09-03 03:27:41",
+  "count": 12031,
   "items": [
+    {
+      "id": "mkt:01a06395-e363-7118-846c-8927385294c7",
+      "time": "2026-09-03 03:26:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【BESSENT says Ukrainian strikes, Iran conflict driving energy shock】Treasury Secretary BESSENT told Fox News Wednesday that global energy prices are facing an energy shock driven by Ukrainian drone strikes on Russian energy assets and refined products and by the conflict with Iran. He said the Ukrainian attacks have prompted Moscow to extend a diesel export ban through the end of the month, and that lower fuel volumes transiting the Strait of Hormuz relative to crude are tightening global supply. BESSENT also said pipelines and other routes will eventually allow suppliers to bypass the Strait of Hormuz, diminishing its importance over the coming years."
+    },
+    {
+      "id": "mkt:01a06394-c5b5-7118-846c-858aabbc9f57",
+      "time": "2026-09-03 03:24:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta releases Muse Spark 1.3 to accelerate personal AI agents】Meta launched Muse Spark 1.3, saying the update materially improves coding and agentic-task performance and is competitive with leading models, advancing its push toward always-on personal AI assistants. Pricing is unchanged from the prior version, which Meta described as an aggressive stance. The contributor tier — which permits Meta to use developer work to improve models and substantially reduce coding-product costs — has drawn a meaningful double-digit share of developers. Meta said it is increasing investment in safety and alignment as capabilities rise. Muse Spark 1.3 is available today via Muse Code and the Meta API; a higher-inference build will be released after additional safety testing."
+    },
+    {
+      "id": "5073948",
+      "time": "2026-09-03 03:24:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta釋出更強大AI模型 聲稱進一步縮小了與競爭對手差距】Meta Platforms Inc.釋出其迄今最強大的人工智慧模型，該公司首席AI官稱，這個新模型的效能距離頂尖競爭對手又近了一步。Meta表示，開發者從週三起可以訪問並付費使用Muse Spark 1.3。公司還將很快把這一更新推向Instagram、Facebook等社交媒體平臺以及Meta AI的使用者。Meta首席AI官Alexandr Wang週三接受採訪時表示：“這是我們迄今在模型效能上最大的一次躍升。”他特別提到，新模型在程式設計和智慧體能力方面取得進展。Alexandr Wang稱，此次升級讓Meta與OpenAI和Anthropic近期釋出的AI模型處於相近水平。他說，Muse Spark 1.3與Anthropic的Claude Fable 5.1相比“具有競爭力”，並且“優於”OpenAI的GPT-5.6 Sol，尤其是在程式設計任務方面。不過OpenAI很快將釋出一款更先進的新模型Astra。"
+    },
+    {
+      "id": "mkt:01a06394-388f-7118-846c-7dae07986b75",
+      "time": "2026-09-03 03:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela interim president Rodriguez said the US and the Venezuelan government are working to lift sanctions on Venezuela."
+    },
+    {
+      "id": "5073947",
+      "time": "2026-09-03 03:23:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：美國與委內瑞拉政府正致力於解除美國對委內瑞拉實施的制裁。"
+    },
     {
       "id": "mkt:01a06392-7020-7118-846c-75dbb827cdb6",
       "time": "2026-09-03 03:22:16",
@@ -110642,28 +110694,6 @@
         "國際"
       ],
       "text": "俄羅斯方面：烏克蘭武裝部隊使用英法空射遠端巡航導彈“風暴之影”/“斯卡普‑EG”襲擊頓涅茨克市中心。"
-    },
-    {
-      "id": "5060757",
-      "time": "2026-08-27 03:25:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：美國派遣亞伯拉罕·林肯號航母前往該地區進行武力展示。歷經數月戰事，連續200多天未曾靠港，如今該航母正駛向泰國，供艦員休整。原定任務，武力投射。當前任務，度假休整。"
-    },
-    {
-      "id": "mkt:01a03f88-049e-7aab-9137-035f47e15f3b",
-      "time": "2026-08-27 03:24:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【US moves to revive maritime prize court to speed sale of seized Iranian oil】The US Department of Justice, coordinating with the Pentagon, is preparing to restart a maritime prize court dormant since WWII to strengthen a blockade of Iran and help offset wartime costs, sources said. Texas Southern District U.S. Attorney Aaron Reitz confirmed the DOJ is restarting the mechanism. If implemented, federal prosecutors could more quickly condemn and sell tankers or oil seized during hostilities as US property, with proceeds remitted to the US Treasury; DOJ is focused on routing cases through the Houston-based Texas Southern District. The prize mechanism has been rarely used since 1898 and dormant after WWII; legal challenges are expected over whether current operations meet the Prize Act’s conditions and whether seizures without congressional authorization are lawful."
     }
   ]
 }
