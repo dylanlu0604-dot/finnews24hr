@@ -1,7 +1,134 @@
 {
   "date": "2026-09-02",
-  "count": 1161,
+  "count": 1174,
   "items": [
+    {
+      "id": "mkt:01a05fce-4f23-7118-844d-7d4017c4ba57",
+      "time": "2026-09-02 09:49:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US military rebuts wedding airstrike claim, says it does not target civilians】Axios reported Iranian state media said a US airstrike struck a wedding in Kuhestak, killing at least four and wounding 35. CENTCOM spokesman Captain Tim Hawkins said he was aware of the reports, which originate with Iranian state media, and added that, unlike the Islamic Revolutionary Guard Corps (IRGC), US forces would never target civilians."
+    },
+    {
+      "id": "5072087",
+      "time": "2026-09-02 09:48:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI手機概念表現活躍，道明光學漲停，格林精密、福日電子、傳音控股跟漲。"
+    },
+    {
+      "id": "mkt:01a05fce-0045-7118-844d-779ae585ecb9",
+      "time": "2026-09-02 09:48:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "SSE Composite"
+      ],
+      "text": "A-share power-grid equipment sector rebounded in short-term trading; Yuandong hit the daily limit, Taiyang Cable gained over 8%, and Yangdian Technology, Shenma Power, Yikun Electric and Hangdian also rose. China’s National Energy Administration held a new-grid construction deployment meeting, calling for faster approval and construction of major grid projects, including transmission corridors."
+    },
+    {
+      "id": "te:markets:580251",
+      "time": "2026-09-02 09:48:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Drop on Rallying Oil Prices — Asian equity markets fell sharply on Wednesday, tracking Wall Street lower as a surge oil prices heightened concerns over inflation and imminent interest rate hikes. Global bond yields also rallied on mounting inflation worries, expectations of monetary tightening and worsening fiscal conditions, pressuring equities further. Tech-heavy indexes in South Korea and Japan dropped about 3%, leading regional declines. Shares in Australia, China and Hong Kong also slumped."
+    },
+    {
+      "id": "5072086",
+      "time": "2026-09-02 09:48:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量657億元。"
+    },
+    {
+      "id": "5072085",
+      "time": "2026-09-02 09:47:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念震盪拉昇 山東玻纖、九鼎新材雙雙漲停】玻纖概念震盪拉昇，山東玻纖、九鼎新材雙雙漲停，中國巨石、中材科技、長海股份、國際復材跟漲。"
+    },
+    {
+      "id": "5072084",
+      "time": "2026-09-02 09:46:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行高田創：即使現在也需要對深度負實際利率進行修正。"
+    },
+    {
+      "id": "5072083",
+      "time": "2026-09-02 09:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【燃氣板塊直線拉昇】燃氣板塊直線拉昇，貴州燃氣漲停，天壕能源、水發燃氣、百川能源、凱添燃氣、國新能源等紛紛走高。"
+    },
+    {
+      "id": "5072082",
+      "time": "2026-09-02 09:45:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所合格投資者突破1100萬戶 是開市時近三倍】北交所迎來宣佈設立五週年。記者瞭解到，截至目前，合格投資者超1100萬戶，是開市時的近三倍，超3000只公募基金參與市場，今年以來日均成交約200億元，市場基礎進一步夯實。北交所現有上市公司339家，總市值約8400億元，其中國家級專精特新“小巨人”企業佔比超六成，市場品牌認可度持續提升。 (財聯社記者 林堅)"
+    },
+    {
+      "id": "te:markets:580248",
+      "time": "2026-09-02 09:45:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AIA Stock Price Hits 4-week High — AIA shares increased to 76.45 HKD, the highest since August 2026. Over the past 4 weeks, AIA Group lost 3.82%, and in the last 12 months, it increased 4.5%."
+    },
+    {
+      "id": "mkt:01a05fcb-01f1-7118-844d-6c03f4e250bd",
+      "time": "2026-09-02 09:45:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share gas sector surged, led by Guizhou Gas which hit the daily limit; Tianhao Energy, Shuifa Gas, Baichuan Energy, Kaitian Gas and Guoxin New Energy also climbed."
+    },
+    {
+      "id": "5072081",
+      "time": "2026-09-02 09:45:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta收購Manus交易已撤銷，創始團隊恢復實控權】兩位知情人士表示，Meta併購Manus專案的交易已正式撤銷。9月1日，人工智慧體（AI Agent）應用Manus在其官網宣佈，已正式恢復獨立運營，其創始團隊將繼續領導公司。此時距Meta宣佈收購Manus運營主體蝴蝶效應公司剛滿八個月，距其被中國國家發展改革委要求撤銷該交易剛過四個月。（財經雜誌）"
+    },
+    {
+      "id": "te:markets:580246",
+      "time": "2026-09-02 09:45:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Advances on Rising US-Iran Hostilities — European natural gas prices rose further to €75/MWh on Wednesday, the highest level since January 2023, as rising hostilities between the US and Iran heightened fears of a prolonged disruption to LNG supplies from the Persian Gulf. Iran struck back at US military bases in Jordan, Kuwait and Bahrain following the latest US attacks on Iranian targets near the Strait of Hormuz, which President Trump said were in response to Iranian mine-laying attempts in the waterway and an earlier attack on a US base in Jordan. The escalation comes as LNG flows through the strait were almost at a standstill, tightening supplies and forcing European buyers to compete more aggressively for alternative cargoes as they prepare for the winter heating season. With European gas storage levels still below their usual seasonal levels, an extended disruption would leave the region more exposed to sharper price volatility once colder weather arrives."
+    },
     {
       "id": "mkt:01a05fca-c3c0-7118-844d-606e39c438a6",
       "time": "2026-09-02 09:45:18",
