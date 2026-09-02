@@ -1,7 +1,55 @@
 {
   "date": "2026-09-02",
-  "count": 2916,
+  "count": 2922,
   "items": [
+    {
+      "id": "mkt:01a062d2-7ecc-7118-8468-b7c3cf889f4f",
+      "time": "2026-09-02 23:52:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Energy Secretary Wright arrived at Venezuela's Miraflores presidential palace."
+    },
+    {
+      "id": "5073776",
+      "time": "2026-09-02 23:52:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特抵達米拉弗洛雷斯宮（委內瑞拉總統府）。"
+    },
+    {
+      "id": "5073775",
+      "time": "2026-09-02 23:52:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥金融情報局（UIF）局長：2026年已凍結超17000個賬戶，已加強與銀行的合作，打擊洗錢活動。"
+    },
+    {
+      "id": "mkt:01a062d0-7ff7-7118-8468-aa01112a8fbc",
+      "time": "2026-09-02 23:50:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Cuba is now a failed state and denied US responsibility, rejecting external claims that the US is to blame."
+    },
+    {
+      "id": "5073774",
+      "time": "2026-09-02 23:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列一名高階官員表示，以色列與敘利亞達成安全協議的嘗試已經失敗，部分原因是雙方在以色列撤出緩衝區問題上存在分歧。以方與大馬士革之間的溝通渠道仍保持暢通。"
+    },
+    {
+      "id": "5073773",
+      "time": "2026-09-02 23:49:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及古巴：馬杜羅過去實質上是掠奪委內瑞拉民眾的石油，無償輸送給古巴。古巴拿到這些石油後，並沒有將其用於造福本國人民。他們把大部分石油變賣換取現金，而這些錢款流入了他們自己的腰包。如今這種情況已經不復存在。"
+    },
     {
       "id": "5073772",
       "time": "2026-09-02 23:48:50",
