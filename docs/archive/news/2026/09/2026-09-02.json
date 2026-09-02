@@ -1,7 +1,295 @@
 {
   "date": "2026-09-02",
-  "count": 1067,
+  "count": 1097,
   "items": [
+    {
+      "id": "5072045",
+      "time": "2026-09-02 09:33:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7645.00點。"
+    },
+    {
+      "id": "mkt:01a05fbf-e1a9-7118-844c-cff91208e326",
+      "time": "2026-09-02 09:33:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09866.HK",
+        "Impact bearish"
+      ],
+      "text": "NIO-SW (09866.HK) has fallen for consecutive sessions and is currently down more than 5%."
+    },
+    {
+      "id": "mkt:01a05fbf-adc4-7118-844c-c36708447d94",
+      "time": "2026-09-02 09:33:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Takata said the BOJ needs to flexibly raise interest rates after assessing the buffer capacity of domestic financial conditions and reviewing overseas developments."
+    },
+    {
+      "id": "5072044",
+      "time": "2026-09-02 09:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞三年期國債收益率上升10個基點至4.82%。"
+    },
+    {
+      "id": "5072043",
+      "time": "2026-09-02 09:33:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員高田創：需要採取靈活的政策策略。"
+    },
+    {
+      "id": "5072042",
+      "time": "2026-09-02 09:32:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3325.546點；上證指數跌0.65%，現報3954.192點；深證成指跌1.45%，現報13671.049點。"
+    },
+    {
+      "id": "5072041",
+      "time": "2026-09-02 09:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨<LCOc1>上漲超2%，報每桶96.58美元，逼近六週高位。"
+    },
+    {
+      "id": "5072040",
+      "time": "2026-09-02 09:31:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“震裕轉02”盤中臨時停牌】深交所公告，“震裕轉02”（123282）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "mkt:01a05fbe-2be2-7118-844c-bc066416359c",
+      "time": "2026-09-02 09:31:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened lower: 2-year (TS) down 1bp, 5-year (TF) down 2bps, 10-year (T) down 3bps, 30-year (TL) down 14bps."
+    },
+    {
+      "id": "5072039",
+      "time": "2026-09-02 09:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞標普/ASX 200指數在GDP資料公佈後跌幅擴大至1.2%。"
+    },
+    {
+      "id": "mkt:01a05fbe-0455-7118-844c-b6a0a8770e42",
+      "time": "2026-09-02 09:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Stock index futures open lower】Main contracts: CSI 300 futures (IF) down 0.88%, SSE 50 futures (IH) down 0.64%, CSI 500 futures (IC) down 1.52%, CSI 1000 futures (IM) down 1.48%."
+    },
+    {
+      "id": "5072038",
+      "time": "2026-09-02 09:31:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "零售股延續漲勢，國芳集團4連板，茂業商業2連板，國光連鎖、東百集團、紅旗連鎖、永輝超市跟漲。"
+    },
+    {
+      "id": "5072037",
+      "time": "2026-09-02 09:30:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至46,472.19點。"
+    },
+    {
+      "id": "5072036",
+      "time": "2026-09-02 09:30:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.18%。微導轉債、聯瑞轉債、惠城轉債、泰坦轉債、集智轉債跌幅居前，分別跌4.69%、2.97%、2.60%、2.46%、2.32%。震裕轉02、恆逸轉2、明新轉債、天壕轉債、貴燃轉債漲幅居前，分別漲30.00%、3.92%、2.90%、1.49%、1.39%。"
+    },
+    {
+      "id": "5072035",
+      "time": "2026-09-02 09:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1303.50美元/盎司。"
+    },
+    {
+      "id": "5072034",
+      "time": "2026-09-02 09:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞第二季度GDP同比增長2.1%；預計1.8%。"
+    },
+    {
+      "id": "5072033",
+      "time": "2026-09-02 09:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4504.230點；恒生指數現跌0.272%。"
+    },
+    {
+      "id": "mkt:01a05fbc-e87d-7118-844c-aa37606bf90c",
+      "time": "2026-09-02 09:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 GDP QoQ +0.4% vs +0.3% expected; prior +0.3%."
+    },
+    {
+      "id": "mkt:01a05fbc-e689-7118-844c-a6b73f06bd44",
+      "time": "2026-09-02 09:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 GDP YoY 2.1% (est. 1.8%); prior 2.5%."
+    },
+    {
+      "id": "5072032",
+      "time": "2026-09-02 09:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞第二季度GDP環比增長0.4% 預估為0.3%。"
+    },
+    {
+      "id": "5072031",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.10%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5072030",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.46%，成分股中，華虹宏力跌3.73%，盛科通訊跌2.59%，芯原股份跌2.29%，生益電子跌2.15%。"
+    },
+    {
+      "id": "5072029",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.01%， 滬深300指數期貨連續跌0.62%， 中證500指數期貨連續跌1.04%， 上證50指數期貨連續跌0.44%。"
+    },
+    {
+      "id": "mkt:01a05fbc-c19e-7118-844c-996c52f1dba6",
+      "time": "2026-09-02 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | GDP (YoY) (Q2) | actual 2.1% | consensus 1.8% | previous 2.50%"
+    },
+    {
+      "id": "mkt:01a05fbc-c197-7118-844c-93c37c35b934",
+      "time": "2026-09-02 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | GDP (QoQ) (Q2) | actual 0.4% | consensus 0.3% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a05fbc-8d6f-7118-844c-89714b1a7bff",
+      "time": "2026-09-02 09:29:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share coal sector extended gains; Zhengzhou Coal & Power and Yunmei Energy hit daily trading limits, Baotailong jumped over 5%, while Antai Group, Dayou Energy, Shanghai Energy and Yankuang Energy also rose."
+    },
+    {
+      "id": "5072028",
+      "time": "2026-09-02 09:29:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股人工相關概念股走弱 海致科技集團跌超5%】截至發稿，海致科技集團(02706.HK)跌5.24%，芯碁微裝(09630.HK)跌2.67%，瀾起科技(06809.HK)跌2.66%，迅策(03317.HK)跌2.61%。"
+    },
+    {
+      "id": "5072027",
+      "time": "2026-09-02 09:29:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "煤炭板塊逆勢走強，鄭州煤電、雲煤能源競價漲停，寶泰隆、安泰集團、大有能源、上海能源漲超5%。"
+    },
+    {
+      "id": "te:economy:580235",
+      "time": "2026-09-02 09:29:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Approaches 3-Year High — The yield on the US 10-year Treasury note climbed above 4.8% on Wednesday, moving toward its highest level since October 2023 as surging oil prices intensified inflation concerns and reinforced expectations for an imminent Federal Reserve interest rate hike. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Meanwhile, Fed Chair Kevin Warsh’s commitment to combating inflation strengthened bets for a rate increase, with markets now pricing in around a 70% chance of a move this month. Fed Governor Michael Barr also said on Tuesday that the central bank should be prepared to raise interest rates if inflation fails to ease. Attention now turns to the ADP employment report due Wednesday and nonfarm payrolls on Friday for further clues on the Fed’s policy path."
+    },
+    {
+      "id": "mkt:01a05fbc-135a-7118-844c-80ed65ea1909",
+      "time": "2026-09-02 09:29:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "ISRAELI MILITARY says sirens sounded in Kfar Yuval warning of hostile aircraft infiltration."
+    },
     {
       "id": "5072026",
       "time": "2026-09-02 09:28:57",

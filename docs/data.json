@@ -1,7 +1,295 @@
 {
-  "updated": "2026-09-02 09:30:12",
-  "count": 12784,
+  "updated": "2026-09-02 09:34:10",
+  "count": 12795,
   "items": [
+    {
+      "id": "5072045",
+      "time": "2026-09-02 09:33:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7645.00點。"
+    },
+    {
+      "id": "mkt:01a05fbf-e1a9-7118-844c-cff91208e326",
+      "time": "2026-09-02 09:33:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09866.HK",
+        "Impact bearish"
+      ],
+      "text": "NIO-SW (09866.HK) has fallen for consecutive sessions and is currently down more than 5%."
+    },
+    {
+      "id": "mkt:01a05fbf-adc4-7118-844c-c36708447d94",
+      "time": "2026-09-02 09:33:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Takata said the BOJ needs to flexibly raise interest rates after assessing the buffer capacity of domestic financial conditions and reviewing overseas developments."
+    },
+    {
+      "id": "5072044",
+      "time": "2026-09-02 09:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞三年期國債收益率上升10個基點至4.82%。"
+    },
+    {
+      "id": "5072043",
+      "time": "2026-09-02 09:33:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員高田創：需要採取靈活的政策策略。"
+    },
+    {
+      "id": "5072042",
+      "time": "2026-09-02 09:32:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3325.546點；上證指數跌0.65%，現報3954.192點；深證成指跌1.45%，現報13671.049點。"
+    },
+    {
+      "id": "5072041",
+      "time": "2026-09-02 09:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨<LCOc1>上漲超2%，報每桶96.58美元，逼近六週高位。"
+    },
+    {
+      "id": "5072040",
+      "time": "2026-09-02 09:31:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“震裕轉02”盤中臨時停牌】深交所公告，“震裕轉02”（123282）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "mkt:01a05fbe-2be2-7118-844c-bc066416359c",
+      "time": "2026-09-02 09:31:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened lower: 2-year (TS) down 1bp, 5-year (TF) down 2bps, 10-year (T) down 3bps, 30-year (TL) down 14bps."
+    },
+    {
+      "id": "5072039",
+      "time": "2026-09-02 09:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞標普/ASX 200指數在GDP資料公佈後跌幅擴大至1.2%。"
+    },
+    {
+      "id": "mkt:01a05fbe-0455-7118-844c-b6a0a8770e42",
+      "time": "2026-09-02 09:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Stock index futures open lower】Main contracts: CSI 300 futures (IF) down 0.88%, SSE 50 futures (IH) down 0.64%, CSI 500 futures (IC) down 1.52%, CSI 1000 futures (IM) down 1.48%."
+    },
+    {
+      "id": "5072038",
+      "time": "2026-09-02 09:31:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "零售股延續漲勢，國芳集團4連板，茂業商業2連板，國光連鎖、東百集團、紅旗連鎖、永輝超市跟漲。"
+    },
+    {
+      "id": "5072037",
+      "time": "2026-09-02 09:30:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至46,472.19點。"
+    },
+    {
+      "id": "5072036",
+      "time": "2026-09-02 09:30:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.18%。微導轉債、聯瑞轉債、惠城轉債、泰坦轉債、集智轉債跌幅居前，分別跌4.69%、2.97%、2.60%、2.46%、2.32%。震裕轉02、恆逸轉2、明新轉債、天壕轉債、貴燃轉債漲幅居前，分別漲30.00%、3.92%、2.90%、1.49%、1.39%。"
+    },
+    {
+      "id": "5072035",
+      "time": "2026-09-02 09:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1303.50美元/盎司。"
+    },
+    {
+      "id": "5072034",
+      "time": "2026-09-02 09:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞第二季度GDP同比增長2.1%；預計1.8%。"
+    },
+    {
+      "id": "5072033",
+      "time": "2026-09-02 09:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4504.230點；恒生指數現跌0.272%。"
+    },
+    {
+      "id": "mkt:01a05fbc-e87d-7118-844c-aa37606bf90c",
+      "time": "2026-09-02 09:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 GDP QoQ +0.4% vs +0.3% expected; prior +0.3%."
+    },
+    {
+      "id": "mkt:01a05fbc-e689-7118-844c-a6b73f06bd44",
+      "time": "2026-09-02 09:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 GDP YoY 2.1% (est. 1.8%); prior 2.5%."
+    },
+    {
+      "id": "5072032",
+      "time": "2026-09-02 09:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞第二季度GDP環比增長0.4% 預估為0.3%。"
+    },
+    {
+      "id": "5072031",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.10%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5072030",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.46%，成分股中，華虹宏力跌3.73%，盛科通訊跌2.59%，芯原股份跌2.29%，生益電子跌2.15%。"
+    },
+    {
+      "id": "5072029",
+      "time": "2026-09-02 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.01%， 滬深300指數期貨連續跌0.62%， 中證500指數期貨連續跌1.04%， 上證50指數期貨連續跌0.44%。"
+    },
+    {
+      "id": "mkt:01a05fbc-c19e-7118-844c-996c52f1dba6",
+      "time": "2026-09-02 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | GDP (YoY) (Q2) | actual 2.1% | consensus 1.8% | previous 2.50%"
+    },
+    {
+      "id": "mkt:01a05fbc-c197-7118-844c-93c37c35b934",
+      "time": "2026-09-02 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | GDP (QoQ) (Q2) | actual 0.4% | consensus 0.3% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a05fbc-8d6f-7118-844c-89714b1a7bff",
+      "time": "2026-09-02 09:29:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share coal sector extended gains; Zhengzhou Coal & Power and Yunmei Energy hit daily trading limits, Baotailong jumped over 5%, while Antai Group, Dayou Energy, Shanghai Energy and Yankuang Energy also rose."
+    },
+    {
+      "id": "5072028",
+      "time": "2026-09-02 09:29:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股人工相關概念股走弱 海致科技集團跌超5%】截至發稿，海致科技集團(02706.HK)跌5.24%，芯碁微裝(09630.HK)跌2.67%，瀾起科技(06809.HK)跌2.66%，迅策(03317.HK)跌2.61%。"
+    },
+    {
+      "id": "5072027",
+      "time": "2026-09-02 09:29:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "煤炭板塊逆勢走強，鄭州煤電、雲煤能源競價漲停，寶泰隆、安泰集團、大有能源、上海能源漲超5%。"
+    },
+    {
+      "id": "te:economy:580235",
+      "time": "2026-09-02 09:29:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Approaches 3-Year High — The yield on the US 10-year Treasury note climbed above 4.8% on Wednesday, moving toward its highest level since October 2023 as surging oil prices intensified inflation concerns and reinforced expectations for an imminent Federal Reserve interest rate hike. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Meanwhile, Fed Chair Kevin Warsh’s commitment to combating inflation strengthened bets for a rate increase, with markets now pricing in around a 70% chance of a move this month. Fed Governor Michael Barr also said on Tuesday that the central bank should be prepared to raise interest rates if inflation fails to ease. Attention now turns to the ADP employment report due Wednesday and nonfarm payrolls on Friday for further clues on the Fed’s policy path."
+    },
+    {
+      "id": "mkt:01a05fbc-135a-7118-844c-80ed65ea1909",
+      "time": "2026-09-02 09:29:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "ISRAELI MILITARY says sirens sounded in Kfar Yuval warning of hostile aircraft infiltration."
+    },
     {
       "id": "5072026",
       "time": "2026-09-02 09:28:57",
@@ -117056,194 +117344,6 @@
         "市場"
       ],
       "text": "【港股電力裝置股走強 金風科技漲近6%】截至發稿，金風科技(02208.HK)漲5.88%，東方電氣(01072.HK)漲3.87%，上海電氣(02727.HK)漲3.24%。"
-    },
-    {
-      "id": "mkt:01a03bb3-fd24-7aab-911d-9da3f249a898",
-      "time": "2026-08-26 09:34:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ministry of Agriculture and Rural Affairs: China to largely complete modern farm-produce origin market system by 2030】The Ministry of Agriculture and Rural Affairs issued the 15th Five-Year Plan for the national farm-product origin market system, targeting improved supply–demand matching and a modern circulation network. Policy priorities include online–offline integration, alignment of production and sales locations, interconnection of agricultural commerce, upgraded market facilities and marketing services, stronger monitoring and early-warning, and expansion of distribution participants. Key targets: by 2030 establish 50 origin-market clusters able to drive regional or national leading industries; develop 1,500 origin cold-chain collection-and-distribution centers with storage, primary processing and cold‑chain delivery capacity; and build 500 certified, high‑standard agricultural premium brands. By 2035 the plan aims for significant progress in efficient supply–demand linkage and a stronger role for the system in ensuring stable, safe supply, raising agricultural quality and farmer incomes, and supporting agricultural modernization."
-    },
-    {
-      "id": "5058779",
-      "time": "2026-08-26 09:33:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元升0.1%，報0.7170。"
-    },
-    {
-      "id": "5058778",
-      "time": "2026-08-26 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股腫瘤疫苗板塊異動拉昇】康希諾觸及漲停，沃森生物、智飛生物、萊美藥業、鍵凱科技跟漲。"
-    },
-    {
-      "id": "mkt:01a03bb2-c0bd-7aab-911d-900d8fd580bf",
-      "time": "2026-08-26 09:32:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share Chinese medicine sector surged; Hansen Pharmaceutical and Qianjin Pharmaceutical hit limit-up, while Yibai Pharmaceutical, Shengwugu, Longshen Rongfa, Zhenbaodao and Conba Pharmaceutical rallied."
-    },
-    {
-      "id": "5058777",
-      "time": "2026-08-26 09:32:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明月鏡片：公司與小米的智慧眼鏡業務合作已進入穩定期】明月鏡片(301101)近日接受機構調研時披露智慧眼鏡業務進展，公司與小米的合作目前已進入穩定期，產品陸續在發貨，這塊業務貢獻的毛利率水平較高。小米AI眼鏡二代產品研發正加快推進。此外，目前已有多家消費電子、網際網路頭部廠商洽談合作，公司同步開展技術適配與聯合研發。"
-    },
-    {
-      "id": "5058776",
-      "time": "2026-08-26 09:32:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【到2030年 我國將基本建成現代農產品產地市場體系】近日，農業農村部印發《全國農產品產地市場體系發展“十五五”規劃》，以推進農產品產需銜接、完善農產品現代流通體系為重點任務，推動線上線下融合、產地銷地匹配、農業商業互聯，完善產地市場設施建設，最佳化市場營銷服務，增強監測預警能力，發展壯大流通主體，高質量推進農產品產地市場體系建設。規劃指出，到2030年，我國將建成50個能夠輻射帶動區域乃至全國優勢產業發展的農產品產地市場叢集，培育壯大1500個具有倉儲保鮮、初加工、冷鏈配送能力的產地冷鏈集配中心，壯大500個高標準引領、高水平認證支撐的農業精品品牌，推動現代農產品產地市場體系基本建成。到2035年，現代農產品產地市場體系建設取得顯著成效，實現農產品產需高效銜接，在保障農產品穩定安全供給、提升農業質量效益和促進農民增收等方面作用更加突出，有力支撐農業農村現代化建設。"
-    },
-    {
-      "id": "mkt:01a03bb2-62a4-7aab-911d-890fb5fed07c",
-      "time": "2026-08-26 09:32:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan will offer 650 billion yen of Japanese government bonds via liquidity-enhancing auctions."
-    },
-    {
-      "id": "mkt:01a03bb2-5470-7aab-911d-839ddbca9c2d",
-      "time": "2026-08-26 09:32:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share controlled nuclear fusion sector opened sharply higher; Rongfa Nuclear Power opened at the daily limit. Hahan Huatong jumped over 15% at the open; Changfu Co., Baili Electric and Jiusheng Electric also advanced."
-    },
-    {
-      "id": "5058775",
-      "time": "2026-08-26 09:32:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中藥板塊直線拉昇】中藥板塊直線拉昇，漢森製藥、千金藥業漲停，益佰製藥、生物谷、隴神戎發、珍寶島、康恩貝等紛紛走高。"
-    },
-    {
-      "id": "5058774",
-      "time": "2026-08-26 09:31:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞S&P/ ASX 200指數漲幅收窄至0.3%。"
-    },
-    {
-      "id": "mkt:01a03bb1-6d82-7aab-911d-7b660c0d9174",
-      "time": "2026-08-26 09:31:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia Q2 building completions YoY 2.7%, prior 6.3%."
-    },
-    {
-      "id": "mkt:01a03bb1-62f0-7aab-911d-76fdb3b5b7f9",
-      "time": "2026-08-26 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "CSI500",
-        "CSI1000"
-      ],
-      "text": "【China equity index futures open】China equity index futures opened: CSI 300 (IF) most-active contract -0.01%; SSE 50 (IH) +0.07%; CSI 500 (IC) +0.04%; CSI 1000 (IM) -0.07%."
-    },
-    {
-      "id": "mkt:01a03bb1-5901-7aab-911d-68c5b5c15775",
-      "time": "2026-08-26 09:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【China government bond futures morning open】China government bond futures opened in the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) -0.01%; 10-year (T) -0.01%; 30-year (TL) -0.17%."
-    },
-    {
-      "id": "mkt:01a03bb1-4fec-7aab-911d-651a45fda0e9",
-      "time": "2026-08-26 09:31:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Construction Work Done (YoY) (Q2) | actual 2.7% | previous 6.3%"
-    },
-    {
-      "id": "5058773",
-      "time": "2026-08-26 09:31:08",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "澳元上漲，此前澳洲7月份CPI資料超出預期。"
-    },
-    {
-      "id": "5058772",
-      "time": "2026-08-26 09:30:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "Hexaware執行長稱，人工智慧將使IT工作的價值降低至多25%。"
-    },
-    {
-      "id": "mkt:01a03bb0-ea55-7aab-911d-5cb27efc95a5",
-      "time": "2026-08-26 09:30:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CSI Convertible Bond Index opened 0.22% higher. N Xianfeng CB, Tebao CB, Huicheng CB, Luwei CB and Baichang CB led gains, up 30.00%, 4.33%, 3.25%, 2.82% and 2.51% respectively. Tianyuan CB, Hengyi CB 2, Yitian CB, Wanxun CB and Paike CB led losses, down 1.56%, 0.79%, 0.68%, 0.60% and 0.45% respectively."
-    },
-    {
-      "id": "mkt:01a03bb0-d9a9-7aab-911d-50c7992591ad",
-      "time": "2026-08-26 09:30:40",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia July seasonally adjusted CPI MoM 0.6%, prior -0.1%."
-    },
-    {
-      "id": "5058771",
-      "time": "2026-08-26 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4637.900點；恒生指數現漲0.619%。"
     }
   ]
 }
