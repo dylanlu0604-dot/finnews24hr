@@ -1,7 +1,150 @@
 {
   "date": "2026-09-02",
-  "count": 1145,
+  "count": 1161,
   "items": [
+    {
+      "id": "mkt:01a05fca-c3c0-7118-844d-606e39c438a6",
+      "time": "2026-09-02 09:45:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector dipped intraday; Wo Ai Wo Jia and Tefa Services tumbled more than 8%, with Huayuan Holdings and Shilianhang among the largest decliners."
+    },
+    {
+      "id": "te:markets:580245",
+      "time": "2026-09-02 09:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Stock Price Hits 4-week High — China Yangtze Power shares increased to 28.50 CNY, the highest since August 2026. Over the past 4 weeks, China Yangtze Power lost 1.96%, and in the last 12 months, it increased 1.86%."
+    },
+    {
+      "id": "5072080",
+      "time": "2026-09-02 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股燃氣Ⅲ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
+    },
+    {
+      "id": "5072079",
+      "time": "2026-09-02 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股燃氣Ⅱ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
+    },
+    {
+      "id": "mkt:01a05fca-2cf5-7118-844d-5bd3dfe526e4",
+      "time": "2026-09-02 09:44:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA"
+      ],
+      "text": "【SK Biopharmaceuticals to deploy 128 NVIDIA B200 GPUs for AI drug R&D; 17 bln won annual subscription via SK Telecom cluster】SK Biopharmaceuticals said on the 2nd it will acquire 128 NVIDIA B200 GPUs, AI accelerators to support AI-driven drug discovery and development. The devices will be provisioned via SK Telecom-built domestic data cluster HAEIN under a 17 billion won contract structured as an annual subscription, supplying the company with AI infrastructure. SK Biopharmaceuticals said it will apply AI across stages from candidate discovery to development and open innovation; if fully leveraged, AI could shorten experiments and analysis and accelerate a process that typically takes more than 10 years."
+    },
+    {
+      "id": "mkt:01a05fc9-79bd-7118-844d-56fcc71d5418",
+      "time": "2026-09-02 09:43:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share planting and forestry sector slipped in early trade; Hualv Bio fell more than 10%, with Dunhuang Seed, Guotou Fengle, Qiule Seed, Kangnong Seed and Denghai Seed also declining."
+    },
+    {
+      "id": "te:markets:580243",
+      "time": "2026-09-02 09:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slide on Middle East Risks — The benchmark KOSPI slipped more than 3% to around 6,630 on Wednesday, reversing gains from the previous session, as escalating US-Iran hostilities pushed oil prices higher and weighed on global risk sentiment. Brent crude climbed above $95 per barrel while WTI rose above $90, raising concerns over energy costs and inflation amid risks of disruptions to oil flows through the Strait of Hormuz. Additionally, the US 10-year Treasury yield climbed to its highest level since January 2025, adding pressure on equities and technology stocks. Samsung Electronics and SK hynix fell more than 2% and nearly 3%, respectively. Notable declines were also recorded in SK Square (-5.2%), Hyundai Motor (-4.1%), LG Energy Solution (-3.0%), Hanwha Aerospace (-1.9%), Doosan Enerbility (-3.4%), and Kia Corporation (-3.8%). South Korea’s annual inflation rose to 3.1% in August from 2.8% in July, although the government estimated price growth at around 2.5% excluding a temporary mobile-bill base effect."
+    },
+    {
+      "id": "5072078",
+      "time": "2026-09-02 09:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【種植業與林業板塊盤初下挫 華綠生物跌超10%】種植業與林業板塊盤初下挫，華綠生物跌超10%，敦煌種業、國投豐樂、秋樂種業、康農種業、登海種業跟跌。"
+    },
+    {
+      "id": "mkt:01a05fc7-b3d9-7118-844d-4ae72df58992",
+      "time": "2026-09-02 09:41:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Takata said rising overseas interest rates could push Japan's neutral rate above market expectations and should be monitored."
+    },
+    {
+      "id": "te:economy:580241",
+      "time": "2026-09-02 09:41:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Yield Scales 30-Year Highs — Japan’s 10-year government bond yield climbed above 3% on Wednesday, reaching its highest level since 1996 as surging oil prices heightened inflation concerns and strengthened expectations for imminent interest rate hikes. Japan’s deteriorating fiscal outlook, amid the Takaichi administration’s plans for massive spending and tax cuts, also fueled the surge in domestic bond yields. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Higher energy costs exacerbate import-driven inflation in Japan given its reliance on oil imports. Meanwhile, the Bank of Japan is increasingly expected to raise interest rates this month, with US Treasury Secretary Scott Bessent urging BOJ Governor Kazuo Ueda to take “decisive” monetary steps to combat yen weakness."
+    },
+    {
+      "id": "5072077",
+      "time": "2026-09-02 09:41:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥板塊震盪走弱，紅四方觸及跌停】化肥板塊震盪走弱，紅四方觸及跌停，潞化科技、瀘天化、農大科技、赤天化、冠農股份、金正大等跟跌。"
+    },
+    {
+      "id": "mkt:01a05fc7-5eb7-7118-844d-467a893048e0",
+      "time": "2026-09-02 09:41:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan policy board member Takata warned that if overseas price-boosting factors emerge, Japanese inflation could rise by more than expected."
+    },
+    {
+      "id": "5072076",
+      "time": "2026-09-02 09:41:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員高田創：需關注海外利率上升可能推高日本中性利率至超出市場預期水平的風險。"
+    },
+    {
+      "id": "5072075",
+      "time": "2026-09-02 09:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱打擊巴林美軍基地】伊朗軍方2日表示，已對位於巴林境內的美軍空軍基地發動打擊。 伊朗媒體援引軍方訊息報道稱：“數小時前，伊朗伊斯蘭共和國軍隊使用無人機對巴林謝赫伊薩空軍基地的雷達設施和美軍集結地點發動了密集打擊。”"
+    },
     {
       "id": "5072074",
       "time": "2026-09-02 09:41:01",
@@ -165,6 +308,15 @@
         "MKT News"
       ],
       "text": "【Liao Min attends second 2026 G20 finance ministers and central bank governors meeting】Vice Finance Minister Liao Min led a delegation and spoke at the U.S.-hosted G20 finance ministers and central bank governors meeting in Asheville, North Carolina on Aug. 31–Sept. 1, 2026. Liao said the global economy faces multiple challenges and urged genuine multilateralism and stronger macroeconomic policy coordination to support firmer global growth. He called for maintaining free trade and policy settings that facilitate cross-border trade and capital flows, highlighted that AI is reshaping economic models and urged cooperation to close the digital-intelligence gap and advance sustainable development, and said G20 members should take a comprehensive, objective and balanced view of global imbalances while addressing developing-country debt fundamentally through development-led measures."
+    },
+    {
+      "id": "em:qqyh_rbyh:202609023862445248",
+      "time": "2026-09-02 09:37:15",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行審議委員高田創：需要靈活地進行升息操作】日本央行審議委員高田創表示，日本央行需要靈活地進行升息操作，需要讓利率更接近中性水準。"
     },
     {
       "id": "5072064",
@@ -453,6 +605,15 @@
         "國際"
       ],
       "text": "日本央行審議委員高田創：認為2026年標誌著一個新階段的開始，屆時加息將不會以固定步伐進行。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202609023862434352",
+      "time": "2026-09-02 09:33:47",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞第二季度GDP同比增長2.1%】澳大利亞第二季度GDP同比增長2.1%，預期為1.8%，前值為2.50%；澳大利亞第二季度GDP環比增長0.4%，預期為0.3%，前值為0.30%。"
     },
     {
       "id": "5072046",

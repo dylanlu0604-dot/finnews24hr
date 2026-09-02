@@ -1,7 +1,150 @@
 {
-  "updated": "2026-09-02 09:41:56",
-  "count": 12820,
+  "updated": "2026-09-02 09:45:50",
+  "count": 12821,
   "items": [
+    {
+      "id": "mkt:01a05fca-c3c0-7118-844d-606e39c438a6",
+      "time": "2026-09-02 09:45:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector dipped intraday; Wo Ai Wo Jia and Tefa Services tumbled more than 8%, with Huayuan Holdings and Shilianhang among the largest decliners."
+    },
+    {
+      "id": "te:markets:580245",
+      "time": "2026-09-02 09:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Stock Price Hits 4-week High — China Yangtze Power shares increased to 28.50 CNY, the highest since August 2026. Over the past 4 weeks, China Yangtze Power lost 1.96%, and in the last 12 months, it increased 1.86%."
+    },
+    {
+      "id": "5072080",
+      "time": "2026-09-02 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股燃氣Ⅲ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
+    },
+    {
+      "id": "5072079",
+      "time": "2026-09-02 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股燃氣Ⅱ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
+    },
+    {
+      "id": "mkt:01a05fca-2cf5-7118-844d-5bd3dfe526e4",
+      "time": "2026-09-02 09:44:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA"
+      ],
+      "text": "【SK Biopharmaceuticals to deploy 128 NVIDIA B200 GPUs for AI drug R&D; 17 bln won annual subscription via SK Telecom cluster】SK Biopharmaceuticals said on the 2nd it will acquire 128 NVIDIA B200 GPUs, AI accelerators to support AI-driven drug discovery and development. The devices will be provisioned via SK Telecom-built domestic data cluster HAEIN under a 17 billion won contract structured as an annual subscription, supplying the company with AI infrastructure. SK Biopharmaceuticals said it will apply AI across stages from candidate discovery to development and open innovation; if fully leveraged, AI could shorten experiments and analysis and accelerate a process that typically takes more than 10 years."
+    },
+    {
+      "id": "mkt:01a05fc9-79bd-7118-844d-56fcc71d5418",
+      "time": "2026-09-02 09:43:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share planting and forestry sector slipped in early trade; Hualv Bio fell more than 10%, with Dunhuang Seed, Guotou Fengle, Qiule Seed, Kangnong Seed and Denghai Seed also declining."
+    },
+    {
+      "id": "te:markets:580243",
+      "time": "2026-09-02 09:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slide on Middle East Risks — The benchmark KOSPI slipped more than 3% to around 6,630 on Wednesday, reversing gains from the previous session, as escalating US-Iran hostilities pushed oil prices higher and weighed on global risk sentiment. Brent crude climbed above $95 per barrel while WTI rose above $90, raising concerns over energy costs and inflation amid risks of disruptions to oil flows through the Strait of Hormuz. Additionally, the US 10-year Treasury yield climbed to its highest level since January 2025, adding pressure on equities and technology stocks. Samsung Electronics and SK hynix fell more than 2% and nearly 3%, respectively. Notable declines were also recorded in SK Square (-5.2%), Hyundai Motor (-4.1%), LG Energy Solution (-3.0%), Hanwha Aerospace (-1.9%), Doosan Enerbility (-3.4%), and Kia Corporation (-3.8%). South Korea’s annual inflation rose to 3.1% in August from 2.8% in July, although the government estimated price growth at around 2.5% excluding a temporary mobile-bill base effect."
+    },
+    {
+      "id": "5072078",
+      "time": "2026-09-02 09:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【種植業與林業板塊盤初下挫 華綠生物跌超10%】種植業與林業板塊盤初下挫，華綠生物跌超10%，敦煌種業、國投豐樂、秋樂種業、康農種業、登海種業跟跌。"
+    },
+    {
+      "id": "mkt:01a05fc7-b3d9-7118-844d-4ae72df58992",
+      "time": "2026-09-02 09:41:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Takata said rising overseas interest rates could push Japan's neutral rate above market expectations and should be monitored."
+    },
+    {
+      "id": "te:economy:580241",
+      "time": "2026-09-02 09:41:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Yield Scales 30-Year Highs — Japan’s 10-year government bond yield climbed above 3% on Wednesday, reaching its highest level since 1996 as surging oil prices heightened inflation concerns and strengthened expectations for imminent interest rate hikes. Japan’s deteriorating fiscal outlook, amid the Takaichi administration’s plans for massive spending and tax cuts, also fueled the surge in domestic bond yields. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Higher energy costs exacerbate import-driven inflation in Japan given its reliance on oil imports. Meanwhile, the Bank of Japan is increasingly expected to raise interest rates this month, with US Treasury Secretary Scott Bessent urging BOJ Governor Kazuo Ueda to take “decisive” monetary steps to combat yen weakness."
+    },
+    {
+      "id": "5072077",
+      "time": "2026-09-02 09:41:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥板塊震盪走弱，紅四方觸及跌停】化肥板塊震盪走弱，紅四方觸及跌停，潞化科技、瀘天化、農大科技、赤天化、冠農股份、金正大等跟跌。"
+    },
+    {
+      "id": "mkt:01a05fc7-5eb7-7118-844d-467a893048e0",
+      "time": "2026-09-02 09:41:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan policy board member Takata warned that if overseas price-boosting factors emerge, Japanese inflation could rise by more than expected."
+    },
+    {
+      "id": "5072076",
+      "time": "2026-09-02 09:41:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員高田創：需關注海外利率上升可能推高日本中性利率至超出市場預期水平的風險。"
+    },
+    {
+      "id": "5072075",
+      "time": "2026-09-02 09:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱打擊巴林美軍基地】伊朗軍方2日表示，已對位於巴林境內的美軍空軍基地發動打擊。 伊朗媒體援引軍方訊息報道稱：“數小時前，伊朗伊斯蘭共和國軍隊使用無人機對巴林謝赫伊薩空軍基地的雷達設施和美軍集結地點發動了密集打擊。”"
+    },
     {
       "id": "5072074",
       "time": "2026-09-02 09:41:01",
@@ -165,6 +308,15 @@
         "MKT News"
       ],
       "text": "【Liao Min attends second 2026 G20 finance ministers and central bank governors meeting】Vice Finance Minister Liao Min led a delegation and spoke at the U.S.-hosted G20 finance ministers and central bank governors meeting in Asheville, North Carolina on Aug. 31–Sept. 1, 2026. Liao said the global economy faces multiple challenges and urged genuine multilateralism and stronger macroeconomic policy coordination to support firmer global growth. He called for maintaining free trade and policy settings that facilitate cross-border trade and capital flows, highlighted that AI is reshaping economic models and urged cooperation to close the digital-intelligence gap and advance sustainable development, and said G20 members should take a comprehensive, objective and balanced view of global imbalances while addressing developing-country debt fundamentally through development-led measures."
+    },
+    {
+      "id": "em:qqyh_rbyh:202609023862445248",
+      "time": "2026-09-02 09:37:15",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行審議委員高田創：需要靈活地進行升息操作】日本央行審議委員高田創表示，日本央行需要靈活地進行升息操作，需要讓利率更接近中性水準。"
     },
     {
       "id": "5072064",
@@ -453,6 +605,15 @@
         "國際"
       ],
       "text": "日本央行審議委員高田創：認為2026年標誌著一個新階段的開始，屆時加息將不會以固定步伐進行。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202609023862434352",
+      "time": "2026-09-02 09:33:47",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞第二季度GDP同比增長2.1%】澳大利亞第二季度GDP同比增長2.1%，預期為1.8%，前值為2.50%；澳大利亞第二季度GDP環比增長0.4%，預期為0.3%，前值為0.30%。"
     },
     {
       "id": "5072046",
@@ -117436,152 +117597,6 @@
         "公司"
       ],
       "text": "【日聯科技在寧夏成立真空電子科技公司】企查查APP顯示，近日，日聯真空電子科技（寧夏）有限公司成立，經營範圍包含：電子真空器件製造；光電子器件製造；電子專用裝置製造等。企查查股權穿透顯示，該公司由日聯科技全資持股。"
-    },
-    {
-      "id": "te:economy:578080",
-      "time": "2026-08-26 09:45:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note held around 4.64% on Wednesday after dropping nearly 10 basis points in the previous session, as falling oil prices eased inflation concerns and investors continued to assess the implications of the Treasury Department’s expanded debt buybacks. Oil prices declined for a third consecutive session, reducing concerns over near-term inflationary pressures. Meanwhile, market participants continued to debate the Treasury’s plan to at least double its buybacks, with investor Stanley Druckenmiller arguing that the move is undermining the Treasury market’s credibility and wasting an opportunity for meaningful debt reform. Elsewhere, investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. The data comes ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, where he is not expected to provide clear guidance on the central bank’s policy decision in September."
-    },
-    {
-      "id": "5058800",
-      "time": "2026-08-26 09:45:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼6月棕櫚油庫存降至284.4萬噸。"
-    },
-    {
-      "id": "5058799",
-      "time": "2026-08-26 09:45:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼6月棕櫚油產量增至527.2萬噸。"
-    },
-    {
-      "id": "5058798",
-      "time": "2026-08-26 09:44:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【羅永浩向扶老人被索賠店主捐助10萬元】8月26日，羅永浩透過記者的牽線溝通，將和朋友一塊湊的10萬元捐助給幫扶老人被索賠的店主。羅永浩24日曾轉發評論稱，希望聯絡到店主並湊10萬元捐助。25日，店主兒子告訴記者，是否接受捐助需要徵求母親意願，25日晚，店主兒子向記者表示願意和羅永浩方溝通的想法，羅永浩方也明確表達出捐助意願。當晚雙方達成一致意向，26日羅永浩方以銀行轉賬給店主的方式完成捐助。（新京報）"
-    },
-    {
-      "id": "mkt:01a03bbd-8c5a-7aab-911e-0d9e53bd430e",
-      "time": "2026-08-26 09:44:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "Hang Seng Index",
-        "Impact bullish",
-        "09988.HK"
-      ],
-      "text": "HSI extends gains to 1%; Alibaba (09988.HK) up 3%."
-    },
-    {
-      "id": "5058797",
-      "time": "2026-08-26 09:44:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌5%，現報7767.00元。"
-    },
-    {
-      "id": "mkt:01a03bbd-0dde-7aab-911e-01f468b40057",
-      "time": "2026-08-26 09:44:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share liquid-cooled server names extended yesterday's rally. Kangsheng Co. and Haorsai recorded second straight daily limit-ups; Yilida notched three limit-ups in four sessions. Chaopin3, Yingweike, Oulutong and Nanfang Pump also advanced."
-    },
-    {
-      "id": "mkt:01a03bbc-9063-7aab-911d-fbe421e0d2e4",
-      "time": "2026-08-26 09:43:28",
-      "tags": [
-        "MKT News",
-        "096770.KS",
-        "Impact bearish"
-      ],
-      "text": "SK Innovation says weak electric-vehicle demand has weighed on its battery separator film business."
-    },
-    {
-      "id": "mkt:01a03bbc-429a-7aab-911d-f744f9f46e70",
-      "time": "2026-08-26 09:43:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SK Innovation said SK IE Technology's battery separator business is affected by the US Inflation Reduction Act."
-    },
-    {
-      "id": "mkt:01a03bbc-1ef1-7aab-911d-eba47f5b0fda",
-      "time": "2026-08-26 09:42:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Preview: State Council Information Office to brief on China services trade and 2026 CIFTIS preparations】The State Council Information Office will hold a press briefing at 10:00 on Friday, 28 August 2026. MOFCOM Vice Minister Yan Dong and Beijing Vice Mayor Tang Wenhong will outline China’s services trade development and progress in preparations for the 2026 China International Fair for Trade in Services (CIFTIS) and take questions."
-    },
-    {
-      "id": "5058796",
-      "time": "2026-08-26 09:42:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報25768.119點；恒生科技指數現漲1.473%。"
-    },
-    {
-      "id": "mkt:01a03bbb-7081-7aab-911d-e14eb0cde9db",
-      "time": "2026-08-26 09:42:14",
-      "tags": [
-        "MKT News",
-        "096770.KS"
-      ],
-      "text": "SK Innovation will announce a shareholder return plan after reviewing multiple financial factors."
-    },
-    {
-      "id": "5058795",
-      "time": "2026-08-26 09:42:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【旅遊酒店概念震盪反彈，華天酒店漲停】旅遊酒店概念震盪反彈，華天酒店漲停，大千生態、*ST西旅、天府文旅、錦江線上等跟漲。"
-    },
-    {
-      "id": "mkt:01a03bbb-6115-7aab-911d-db454edf682a",
-      "time": "2026-08-26 09:42:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "00358.HK",
-        "Impact bullish",
-        "02245.HK",
-        "01208.HK"
-      ],
-      "text": "Hong Kong-listed nonferrous metals stocks strengthened; Jiangxi Copper (00358.HK) rose over 6%, Liqin Resources (02245.HK) rose over 5%, Minmetals Resources (01208.HK) rose nearly 4%."
-    },
-    {
-      "id": "5058794",
-      "time": "2026-08-26 09:42:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "農藥板塊短線拉昇，新農股份漲停，百傲化學、利民股份、聯化科技、揚農化工、廣信股份等紛紛走高。"
     }
   ]
 }
