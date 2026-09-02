@@ -1,7 +1,689 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-03 04:09:03_
-_本檔包含 2193 則快訊，約 483949 字_
+_更新時間：2026-09-03 06:48:39_
+_本檔包含 2109 則快訊，約 485478 字_
+
+---
+
+### 2026-08-28 14:56:40  #MKT News #Market Themes #AI Revolution #02513.HK #Impact bearish #00100.HK
+
+Hong Kong large-model AI concept stocks slid further; Zhipu (02513.HK) extended losses to over 8%, MINIMAX-W (00100.HK) fell more than 5%.
+
+---
+
+### 2026-08-28 14:56:36  #市場 #其他
+
+港股大模型概念股持續走低，智譜(02513.HK)跌幅擴大至逾8%，MINIMAX-W(00100.HK)跌超5%。
+
+---
+
+### 2026-08-28 14:56:12  #市場 #央行 #國際
+
+【新興市場股市持穩上漲，靜待沃什講話】新興市場股市與貨幣維持漲勢，投資者靜待美聯儲主席凱文・沃什在傑克遜霍爾的講話，從中尋找通脹前景與利率路徑的線索。MSCI新興市場貨幣指數上漲 0.2%，連續第八個交易日走高，再創新高。菲律賓比索表現墊底，逼近歷史低位，跌破市場重點關注的 1 美元兌 62 比索關口；市場擔憂這個石油進口國的對外財政狀況以及通脹上行壓力。
+
+---
+
+### 2026-08-28 14:56:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Spot gold, silver rise intraday】Spot gold rose about $18 intraday to just above $4,600/oz; spot silver gained over $1 to $70.10/oz.
+
+---
+
+### 2026-08-28 14:55:46  #國際
+
+【飛豬：暑期國內酒店間夜量同比增長66% 門票增長近30%】8月28日，飛豬釋出《2026年暑期出遊快報》。報告顯示，暑期出遊訂單量創新高，其中國內酒店間夜量同比增長66%，國內門票張數同比增長近30%。上海、北京、杭州、成都、廣州等成為國內遊熱門城市，韓國、泰國、馬來西亞、新加坡、越南等則是出境遊熱門目的地。
+
+---
+
+### 2026-08-28 14:55:08  #其他
+
+標普確認紐西蘭金融市場評級為“AA+/A-1+”，長期綜合評級為“AAA/A-1+”；展望穩定。
+
+---
+
+### 2026-08-28 14:54:30  #央行 #其他
+
+惠譽確認加拿大央行國際評級為'A'，展望穩定。
+
+---
+
+### 2026-08-28 14:54:27  #MKT News
+
+Fitch affirms the BOC's international rating at 'A', outlook stable.
+
+---
+
+### 2026-08-28 14:54:17  #MKT News
+
+Ukraine's foreign minister said using Russian assets to cover Ukraine's additional defence costs is "fair and logical".
+
+---
+
+### 2026-08-28 14:54:10  #MKT News
+
+Ukraine foreign minister welcomed an initiative by four EU member states to reopen discussions on using frozen Russian assets to finance support for Ukraine.
+
+---
+
+### 2026-08-28 14:53:42  #MKT News #Commodities #Precious Metals
+
+New York silver futures rose more than 2.00% intraday to $70.62/oz. Spot palladium gained 2.00% intraday to $1,376.33/oz.
+
+---
+
+### 2026-08-28 14:53:35  #國際
+
+烏克蘭外長：歡迎四個歐盟成員國提出重新討論使用被凍結的俄羅斯資產支援烏克蘭的倡議。動用俄羅斯資產來支付烏克蘭國防的額外開支，“才符合公平與邏輯”。
+
+---
+
+### 2026-08-28 14:53:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
+
+【France Aug HICP inflation accelerates to 2.7%】Preliminary INSEE data on Friday showed France's EU-harmonized consumer price index (HICP) rose 2.7% YoY in August, up from 2.4% in July, driven by higher energy prices, notably petroleum products.
+
+---
+
+### 2026-08-28 14:53:29  #其他
+
+【全國26條河流仍維持超警 水利部已釋出山洪紅色預警】今天上午，水利部繼續會商，研判當前全國雨情、水情、汛情。截至今天9時，廣西、浙江、黑龍江等地26條河流仍維持超警，水利部已釋出山洪紅色預警。（央視新聞）
+
+---
+
+### 2026-08-28 14:53:19  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver rose $1.01 intraday to $70.27/oz, up 1.45%.
+
+---
+
+### 2026-08-28 14:53:06  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報17192.00元。
+
+---
+
+### 2026-08-28 14:52:57  #Trading Economics #Economy #France #Inflation Rate #Importance 2
+
+France Inflation Surprisingly Picks Up in August — The annual inflation rate in France surprisingly accelerated to 2.4% in August 2026 from 2.1% in July, according to preliminary estimates, exceeding market expectations that it would remain unchanged. The pickup was mainly driven by a sharp acceleration in energy inflation, which rose to 16.7% from 12.6%, particularly for petroleum products. Meanwhile, the decline in manufactured goods prices eased to 0.4% from 0.7%, while food inflation edged up to 1.1% from 1.0%, led by faster increases in fresh food prices. In contrast, services inflation slowed to 2.0% from 2.2%, while tobacco inflation remained unchanged at 3.3%. On a monthly basis, consumer prices rose 0.7% after increasing 0.6% in July, as manufactured goods prices rebounded seasonally following summer sales, while energy and food prices also increased. The EU-harmonised annual inflation rate accelerated to 2.7% from 2.4%, while monthly HICP inflation rose to 0.8% from 0.6%.
+
+---
+
+### 2026-08-28 14:52:52  #市場 #焦點
+
+紐約期銀突破71美元/盎司，日內漲1.13%。
+
+---
+
+### 2026-08-28 14:52:25  #MKT News
+
+【Panasonic unit to raise PCB substrate prices; some downstream electronic-fabric semi-finished goods up to 30%】Panasonic’s electromechanical unit said on Aug 6 it will raise prices for printed-circuit-board substrate materials, effective for shipments from Sept 1, 2026; certain products, including downstream semi-finished electronic-fabric items, will increase by up to 30%.
+
+---
+
+### 2026-08-28 14:52:00  #市場
+
+紐約期銀日內漲1%，現報70.94美元/盎司。
+
+---
+
+### 2026-08-28 14:51:56  #市場 #焦點
+
+現貨白銀突破70美元/盎司，日內漲1.21%。
+
+---
+
+### 2026-08-28 14:51:46  #市場
+
+現貨白銀日內漲1%，現報69.98美元/盎司。
+
+---
+
+### 2026-08-28 14:51:33  #Trading Economics #Economy #Hungary #Unemployment Rate #Importance 1
+
+Hungary Jobless Rate Rises to 4.6% in May–July — The unemployment rate in Hungary rose to 4.6% in the May to July 2026 period from 4.3% in the corresponding period a year earlier. The number of unemployed individuals increased by 12.7 thousand from a year ago to 225 thousand. Of the total unemployed, 113 thousand were men, with an unemployment rate of 4.4%, while 112 thousand were women, with an unemployment rate of 4.9%. Moreover, the average time spent looking for a job was 12.0 months. Among unemployed individuals, 39.9% had been seeking work for less than three months, while the share looking for work for more than a year increased by 5.5 percentage points to 34.7%. Meanwhile, the number of employed persons decreased by 29 thousand year-on-year to 4.651 million. Employment among men remained broadly unchanged at 2.471 million, while employment among women decreased by 23 thousand to 2.180 million.
+
+---
+
+### 2026-08-28 14:51:22  #市場 #焦點
+
+鈀連續主力合約日內漲4%，現報328.70元。
+
+---
+
+### 2026-08-28 14:51:21  #MKT News #02476.HK #Impact bearish #09630.HK #03200.HK
+
+Hong Kong PCB-related stocks retreated: Shenghong Technology (02476.HK) fell more than 10%, Xinqi Weizhuang (09630.HK) dropped over 6%, Dazhu Numerical Control (03200.HK) declined about 3%, Dingtai High‑Tech (01377.HK) fell over 2%, and China National Building Material (03323.HK) slipped just over 1%.
+
+---
+
+### 2026-08-28 14:51:12  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時縮量304億元。
+
+---
+
+### 2026-08-28 14:51:04  #其他
+
+港股PCB概念股回落，勝宏科技(02476.HK)跌超10%，芯碁微裝(09630.HK)跌超6%，大族數控(03200.HK)跌3%，鼎泰高科(01377.HK)跌超2%，中國建材(03323.HK)跌超1%。
+
+---
+
+### 2026-08-28 14:50:49  #公司 #其他 #焦點
+
+市場訊息：軟銀擬再融資100億美元貸款，用於償還OpenAI相關債務。
+
+---
+
+### 2026-08-28 14:50:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran official: U.S. turn to economic pressure indicates military strikes had limited effect】A Lebanese broadcaster on the evening of the 27th aired an interview with Rezaei, secretary of Iran’s Supreme National Security Council. He said the U.S. shift to economic pressure indicates its military strikes have not achieved expected results. Rezaei said Iran views Lebanon’s security as part of West Asia’s security. He said any agreement between Iran and the U.S. would require ceasefires across West Asia including Lebanon, Israeli withdrawal from Lebanese territory and an end to fighting in Gaza.
+
+---
+
+### 2026-08-28 14:50:03  #MKT News #Important
+
+Switzerland's August KOF economic barometer due for release in 10 minutes.
+
+---
+
+### 2026-08-28 14:49:57  #MKT News
+
+【China-Singapore PPH pilot extended to 2031】China National Intellectual Property Administration and the Intellectual Property Office of Singapore will extend the China–Singapore Patent Prosecution Highway (PPH) pilot for five years from Sept. 1, 2026 to Aug. 31, 2031. Applications with the same earliest date as the corresponding application (priority date or filing date) may request PPH participation. PPH accelerates patent examination through examiners’ work‑sharing. CNIPA has operated PPH arrangements since Nov. 2011 and now maintains PPH cooperation with 38 patent offices, facilitating faster overseas grants for Chinese applicants.
+
+---
+
+### 2026-08-28 14:49:36  #其他
+
+【松下機電上調PCB基板材料價格，電子佈下遊半成品等最高漲30%】8月28日，松下機電已於8月6日釋出通知稱，將對電子線路板材料進行價格調整，自2026年9月1日起出貨產品開始執行，部分產品漲幅最高達到30%。據瞭解，此次調價涉及覆銅板、半固化片（Prepreg）等多類電子線路板材料。其中，普通多層板材料的覆銅板和半固化片均漲價30%；MEGTRON、XPEDION低損耗材料的覆銅板和半固化片均漲價15%；LEXCM GX半導體載板材料的覆銅板和半固化片均漲價30%。此外，CEM-3玻璃複合基板材料漲價30%，FCCL柔性基板材料漲價15%。半固化片是電子布的下游半成品，由電子級玻纖布浸漬樹脂製成，是覆銅板及多層PCB的重要基礎材料。（介面新聞）
+
+---
+
+### 2026-08-28 14:49:05  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【France Q2 GDP flat, misses preliminary and consensus】INSEE on Friday released final data showing Q2 GDP was flat QoQ (0.0%), below the earlier 0.2% preliminary estimate and the 0.2% market consensus. Exports rebounded 2.9% after a 3.0% decline in the prior quarter, led by a strong recovery in aircraft shipments. Household consumption, a traditional growth driver, reversed from -0.3% in Q1 2026 to +0.3% in Q2, supported by higher spending on food, energy and manufactured goods.
+
+---
+
+### 2026-08-28 14:48:43  #其他
+
+【中新（加坡）專利審查高速路試點專案延長】國家智慧財產權局訊息，根據中國國家智慧財產權局和新加坡智慧財產權局的共同決定，將中新（加坡）專利審查高速路（PPH）試點專案自2026年9月1日起延長五年，至2031年8月31日止。只要申請與對應申請具有相同的最早日（可以是對應申請的優先權日或申請日），就可以請求參與試點。PPH是不同國家或地區間的專利快速審查通道，透過專利審查機構之間的工作共享加快專利審查程序。自2011年11月啟動首項PPH試點至今，中國國家智慧財產權局已經先後與38個國家或地區的專利審查機構建立了PPH合作機制，為我國申請人的海外專利申請快速獲權提供了有效支撐。
+
+---
+
+### 2026-08-28 14:48:30  #公司
+
+【沙特阿美將於明年上半年暫停向亞洲供應丙烷】沙特阿美已通知部分亞洲長期客戶，受檢修影響，2027 年上半年將停止供應丙烷。不願具名的知情人士透露，該公司仍會繼續供應丁烷。沙特阿美的這一舉措，將使得進口商既要單獨採購沙特丁烷，又要從別處採購丙烷來維持原有配比，採購難度與成本或將雙雙抬升。
+
+---
+
+### 2026-08-28 14:48:27  #經濟數據 #歐元區
+
+法國8月CPI初值環比上升0.7%，預期0.7%，前值0.6%。
+
+---
+
+### 2026-08-28 14:48:16  #經濟數據 #歐元區
+
+法國第二季度GDP終值環比持平，市場預期增長0.2%。
+
+---
+
+### 2026-08-28 14:48:06  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude falls 1.00% intraday to $82.11/bbl.
+
+---
+
+### 2026-08-28 14:47:50  #國際
+
+【索馬利亞海盜襲擊事件數量創十三年新高】國際海事組織統計資料顯示，今年索馬利亞附近海域已經發生至少15起海盜襲擊事件，創下2013年以來新高。根據法新社報道，國際海事組織的一份報告統計了1994年以來亞丁灣、阿拉伯海以及距索馬利亞海岸2000公里以內印度洋海域發生的各類事件。自2013年以來，該地區每年記錄的海盜襲擊事件均不超過10起，2025年為5起。（央視新聞）
+
+---
+
+### 2026-08-28 14:47:49  #MKT News #CNH #Impact bullish
+
+【RMB cross-border payments cover 192 countries and regions】The PBOC says China’s RMB cross-border payment system now covers 192 countries and regions. PBOC Deputy Governor Lu Lei said that as of end-June 2026 the system had 210 direct participants and 1,619 indirect participants, with services available through more than 5,200 banking institutions. The central bank said it will accelerate construction and rollout of a fast payment system and continue to advance cross-border QR-code interoperability, strengthening global RMB settlement capacity.
+
+---
+
+### 2026-08-28 14:47:37  #MKT News #Market Regions #Greater China #CSI300 #Impact mixed #SSE Composite #SZSE Component
+
+China A-share chemical pharmaceutical sector dipped in late trading then recovered; Yuheng Pharmaceutical hit its daily limit up, while Dongya Pharmaceutical, Shenqi Pharmaceutical, Keyuan Pharmaceutical, Haixiang Pharmaceutical and Zhongzhe Jinghua also advanced.
+
+---
+
+### 2026-08-28 14:47:36  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+France July household consumption expenditure YoY 1.4% vs 0.1% prior.
+
+---
+
+### 2026-08-28 14:47:28  #MKT News #Economic Calendar #Important
+
+France | Household Consumption Spending (YoY) (Jul) | actual 1.4% | previous 0.10%
+
+---
+
+### 2026-08-28 14:47:26  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+France preliminary harmonised CPI (HICP) MoM for August 0.8% (expectation 0.70%, July 0.60%).
+
+---
+
+### 2026-08-28 14:47:18  #MKT News
+
+【Iran foreign minister: Restoring diplomacy not impossible but 'pressure won't work'】State media said the Qatari PM visited Tehran today. Iran foreign minister Araghchi called talks with the Qatari prime minister and foreign minister constructive and creative, saying restoring diplomacy "is not impossible" and urging the US to understand that "pressure won't work," build trust, speak respectfully, acknowledge Iran's rights and fulfill its commitments.
+
+---
+
+### 2026-08-28 14:46:44  #MKT News #EURUSD
+
+France August CPI preliminary YoY 2.4% vs expected 2.4%, prior 2.1%.
+
+---
+
+### 2026-08-28 14:46:31  #MKT News #Important #Market Regions #Europe & UK
+
+France preliminary August CPI MoM 0.7% (expected 0.7%), July 0.6%.
+
+---
+
+### 2026-08-28 14:46:24  #MKT News
+
+【China, Russia hold 13th agricultural cooperation subcommittee meeting in Beijing】Beijing, Aug 27 — Vice Minister of Agriculture Zhang Zhili and Russian Deputy Agriculture Minister Markovich co‑chaired the 13th meeting of the China‑Russia Prime Ministers' Regular Meeting Committee agricultural cooperation subcommittee. Discussions focused on agricultural product trade and reciprocal market access, agricultural technology and talent training, and livestock and veterinary cooperation.
+
+---
+
+### 2026-08-28 14:45:26  #資料
+
+法國8月CPI環比初值 0.7%，預期 0.7%，前值 0.6%。
+法國8月CPI同比初值 2.4%，預期 2.4%，前值 2.1%。
+法國二季度私營部門就業人數季環比終值 -0.1%，初值 -0.1%。
+法國二季度GDP季環比終值 0%，預期 0.2%，初值 0.2%。
+法國7月家庭消費支出同比 1.4%，前值 0.1%。
+
+---
+
+### 2026-08-28 14:45:21  #MKT News #Important
+
+France Q2 final GDP YoY -0.73% (exp +0.70%; prior +0.70%).
+
+---
+
+### 2026-08-28 14:45:14  #MKT News #Economic Calendar #Important
+
+France | GDP Rate Final (YoY) (Q2) | actual -0.73% | consensus 0.70% | previous 0.70%
+
+---
+
+### 2026-08-28 14:45:09  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+France harmonised CPI (HICP) preliminary Aug +2.7% YoY vs +2.6% est., +2.4% prior.
+
+---
+
+### 2026-08-28 14:45:08  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish
+
+France Q2 GDP final QoQ 0.0% (consensus 0.2%); prior quarter revised from +0.2% to -0.2%.
+
+---
+
+### 2026-08-28 14:45:08  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+France household consumption spending rose 0.5% MoM in July, versus 0.0% expected; June was revised up to 0.6% from 0.4%.
+
+---
+
+### 2026-08-28 14:45:01  #公司
+
+【Anthropic首款在物理世界執行的AI工具問世】Anthropic釋出公告稱即將推出專為物理世界設計的AI工具“模型硬體標準”（MHS），可讓AI自主操作各類可程式設計科研、製造裝置。該工具可將硬體整合時間從數週甚至數月縮短至數小時甚至幾分鐘，支援24小時自主實驗執行。
+
+---
+
+### 2026-08-28 14:45:00  #市場
+
+鈀金期貨日內漲3%，現報1396.46美元/盎司。
+
+---
+
+### 2026-08-28 14:45:00  #MKT News #Economic Calendar #Important
+
+France | Household Consumption Spending (MoM) (Jul) | actual 0.5% | consensus 0.00% | previous 0.40%
+
+---
+
+### 2026-08-28 14:45:00  #MKT News #Economic Calendar #Important
+
+France | GDP Rate Final (QoQ) (Q2) | actual 0% | consensus 0.20% | previous 0.20%
+
+---
+
+### 2026-08-28 14:44:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+【CBA: Kevin Warsh faces four communication objectives at Jackson Hole】Commonwealth Bank of Australia FX strategist Samarra Hammoud says Fed chair Kevin Warsh's Jackson Hole remarks will aim to: restore market confidence in the Fed's commitment to curb inflation; allay fears of fiscal dominance; persuade markets that less reliance on forward guidance will not harm financial stability; and bolster confidence in Fed working groups. Hammoud calls the agenda ambitious and warns communication alone may be insufficient, advising market skepticism. Given Warsh's resistance to forward guidance, markets may view his inflation remarks as not sufficiently hawkish; that could put downside pressure on the USD.
+
+---
+
+### 2026-08-28 14:44:05  #Trading Economics #Economy #Sweden #Business Confidence #Importance 1
+
+Sweden Business Confidence Hits 4-Year High — Sweden’s business confidence indicator climbed to 107.4 in July 2026 from a slightly upwardly revised 106.4 in the previous month, marking the highest level since June 2022. The increase points to a stronger-than-normal business mood, although changes across sectors remained small. Demand conditions were unchanged at -17, remaining broadly in line with the historical average, while companies reported a decline in employment over the past three months, with the net figure at -3. However, hiring plans strengthened (6 vs 4 in June), pointing to an increase in workforce levels over the next three months. Meanwhile, firms’ expectations for sales prices remained elevated, with the net figure edging up to 21 from 20, indicating that companies anticipate price increases to a greater extent than normal.
+
+---
+
+### 2026-08-28 14:43:56  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Rises on Middle East Uncertainty — UK natural gas prices rose toward 170 pence per therm on Friday, extending gains from the previous session and moving back toward their highest level since January 2023, as supply risks remain amid uncertainty over a Middle East peace deal. Prices jumped on Thursday after reports that President Trump was not interested in returning to the terms of a June deal with Iran. This reversed losses from earlier this week, which were driven by progress in talks between Pakistan and Iran to end the conflict and an agreement between Tehran and Oman on control and revenues tied to the Strait of Hormuz. The near-closure of the Strait has continued to disrupt LNG supplies from Qatar, while extreme summer heat-driven cooling demand diverted supplies from storage. These factors have left Europe scrambling to secure supplies, heightening fears that the region could enter the winter heating season with insufficient reserves. For the week, UK gas prices climbed 4%, their third straight weekly gain.
+
+---
+
+### 2026-08-28 14:43:38  #觀點
+
+摩根士丹利：降嗶哩嗶哩ADR目標價至27美元，重申“增持“評級。
+
+---
+
+### 2026-08-28 14:43:22  #其他
+
+【招銀國際：藥明生物目標價上調至60港元 維持“買入”評級】招銀國際釋出研報稱，藥明生物（02269）上半年業績強勁，全年收入增長指引亦上調至15%-18%，將藥明生物目標價由39港元上調至60港元，維持“買入”評級。該行上調藥明生物業績預測，預計2026年收入同比增長17.1%，經調整淨利潤同比增長16.5%，以反映上調的業績指引及積極的板塊需求展望。
+
+---
+
+### 2026-08-28 14:43:01  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Rises 0.4% This Week — The ASX 200 rose 54 points, or 0.6%, to close at 9,092 on Friday, halting a two-day losing streak as strength in commercial services, tech, healthcare, and energy minerals lifted sentiment. Traders looked ahead to next week’s key domestic releases in Australia, including Q2 GDP and July trade figures, while in main trading partner China, July PMI readings from both official and private surveys are due. Gains were capped, however, as U.S. stock futures traded mostly lower, with investors cautious ahead of Fed Chair Kevin Warsh’s Jackson Hole speech for signals on the rate path. Locally, concerns lingered that the cash rate may stay higher for longer after hotter-than-expected July inflation, fuelling bets on a hike at the next RBA meeting. Standouts included Xero (5.2%), PLS Group (3.8%), and Wisetech Global (3.1%). The big four banks rallied, while heavyweight BHP added 0.9%. For the week, markets rose 0.4%, marking the first gain in three weeks.
+
+---
+
+### 2026-08-28 14:42:35  #市場 #焦點
+
+北證50日內跌幅達1.00%，成分股中，戈碧迦跌4.44%，則成電子跌3.12%，天力複合跌3.02%，萬源通跌2.37%。
+
+---
+
+### 2026-08-28 14:42:29  #Trading Economics #Economy #Ireland #Government Bond 10Y #Importance 0
+
+Ireland 10Y Bond Yield Hits 12-1/2-year High — Ireland 10 Year Government Bond Yield increased to 3.44%, the highest since January 2014. Over the past 4 weeks, Ireland 10Y Bond Yield gained 9.12 basis points, and in the last 12 months, it increased 44.67 basis points.
+
+---
+
+### 2026-08-28 14:42:25  #MKT News #Market Regions #Europe & UK
+
+MORGAN STANLEY cut its rating on the European paper and packaging sector to Underweight from Equal-Weight.
+
+---
+
+### 2026-08-28 14:41:35  #MKT News #Market Regions
+
+South Korea's KOSPI ended a three-day winning streak and fell 1.8% for the week.
+
+---
+
+### 2026-08-28 14:41:20  #MKT News
+
+【Norwegian King Harald V dies at 89】Norway's King Harald V died on Aug 28 after a more-than-week-long hospitalisation for a blood disorder, aged 89. He succeeded to the throne in January 1991 and had been hospitalised several times in recent years.
+
+---
+
+### 2026-08-28 14:40:33  #市場
+
+德國10年期國債收益率升至3.276%，創15年新高。
+
+---
+
+### 2026-08-28 14:40:31  #國際
+
+【伊朗稱以色列總理嚇唬特朗普】在黎巴嫩“燈塔電視臺”當地時間8月27日晚播出的採訪中，伊朗最高國家安全委員會秘書雷扎伊表示，所謂的“伊朗密謀刺殺美國總統特朗普幼子巴倫”，是“以色列總理內塔尼亞胡用來欺騙特朗普的彌天大謊”。雷扎伊還拿特朗普今年7月初在土耳其秘密換乘專機以躲避所謂“伊朗的刺殺”一事舉例稱，“這些都是內塔尼亞胡捏造的謊言，他不止一次嚇唬特朗普”。美國特勤局當地時間8月25日稱，已注意到伊朗國家電視臺播出的一段影片，內容涉及“針對巴倫·特朗普的潛在暗殺圖謀”。（CCTV國際時訊）
+
+---
+
+### 2026-08-28 14:40:26  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Set to End Week Steady — The Indonesian rupiah firmed to around IDR 17,700 per U.S. dollar on Friday, reversing losses from the prior two sessions after an orderly protest in Jakarta Thursday passed without major security disruptions. Sentiment was also lifted by Bank Indonesia Acting Governor Destry Damayanti, who told parliament that closer policy coordination would not compromise the central bank’s independence. She added that monetary policy would remain focused on maintaining stability while supporting growth. For the week, the rupiah was on track to stabilise after losses in recent weeks, as investors looked ahead to key domestic data, including August inflation and July trade figures. Focus will also remain on the appointment of Bank Indonesia’s next governor, with parliament expected to decide after Destry, the sole nominee for the post, undergoes a fit-and-proper test. Globally, the dollar index held broadly steady ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole meeting later today.
+
+---
+
+### 2026-08-28 14:40:23  #MKT News #DAX #Impact bearish #FTSE100
+
+Morgan Stanley downgraded the European telecom sector rating to Neutral from Overweight.
+
+---
+
+### 2026-08-28 14:40:15  #國際
+
+【中俄總理定期會晤委員會農業合作分委會第十三次會議在北京召開】8月27日，農業農村部副部長張治禮在北京與俄羅斯聯邦農業部副部長馬爾科維奇共同主持召開中俄總理定期會晤委員會農業合作分委會第十三次會議。雙方就農產品貿易及相互准入、農業科技與人才培養、畜牧獸醫等議題深入交流。
+
+---
+
+### 2026-08-28 14:40:10  #MKT News #Macro & Rates #Treasury Yields #DAX #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+Germany's 10-year government bond yield rose to 3.276%, a 15-year high.
+
+---
+
+### 2026-08-28 14:40:04  #國際
+
+【挪威國王哈拉爾五世去世】當地時間8月28日，總檯記者獲悉，挪威國王哈拉爾五世因病去世，終年89歲。這位歐洲最年長的國家元首因血液疾病已住院一週多。哈拉爾五世於1991年1月繼承王位。近年來，他曾因健康問題多次住院。（央視新聞）
+
+---
+
+### 2026-08-28 14:39:50  #MKT News
+
+Morgan Stanley upgraded its rating on the European consumer discretionary retail sector from Underweight to Neutral.
+
+---
+
+### 2026-08-28 14:39:37  #MKT News #Market Regions #Europe & UK
+
+MORGAN STANLEY downgraded its rating on the European utilities sector from Overweight to Neutral.
+
+---
+
+### 2026-08-28 14:39:31  #市場
+
+【化學制藥板塊尾盤探底回升 譽衡藥業漲停】化學制藥板塊尾盤探底回升，譽衡藥業漲停，東亞藥業、神奇製藥、科源製藥、海翔藥業、中哲精化跟漲。
+
+---
+
+### 2026-08-28 14:39:24  #觀點 #國際
+
+摩根士丹利將歐洲菸草板塊的評級從“增持”下調至“持平”。
+
+---
+
+### 2026-08-28 14:39:19  #公司 #觀點 #國際
+
+摩根士丹利將歐洲非必需消費品零售板塊的評級從減持上調至中性。
+
+---
+
+### 2026-08-28 14:39:15  #MKT News #AIR.PA #Impact bullish #RR.L #LDO.MI
+
+MORGAN STANLEY upgrades the European aerospace sector to Overweight from Neutral.
+
+---
+
+### 2026-08-28 14:39:04  #市場
+
+【事關黃金供應，世界黃金協會最新預測】世界黃金協會首席戰略官賀泰睿表示，即使在金價較高的環境下，礦業企業希望增加產量，也很難在短時間內實現快速擴張，因為市場上並不存在足夠多能夠被迅速開發利用的優質資源。世界黃金協會預計，未來12個月全球黃金礦產供應僅有約1%的溫和增長。國際金價在經歷今年年初的衝高回落後，近期再度快速反彈，一度觸及每盎司4700美元關口，創下近三個月來的新高。（央視財經）
+
+---
+
+### 2026-08-28 14:38:52  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #S&P500 #EURUSD
+
+【European stocks extend five-month rally, face seasonal and macro risk test】European equity futures are signalling bearish positioning as the market extends a five-month rally. Citigroup strategists say overall positioning remains the strongest among developed markets on average, but sentiment 'mildly deteriorated' last week; recent flows were driven by new short positions in the Euro Stoxx 50 and Germany's DAX. Seasonal risk: September is typically the weakest month for the Stoxx Europe 600, averaging a 2.1% decline over the past five years. That seasonal weakness coincides with firmer hawkish signals from central banks, rising political uncertainty in France and the US, and a persisting Iran conflict. Leverage Shares senior research analyst Violeta Todorova warned that after a strong run markets may be more vulnerable to volatility and less willing to look through disappointing data or negative news.
+
+---
+
+### 2026-08-28 14:38:45  #公司 #觀點 #國際
+
+摩根士丹利將歐洲化工板塊評級從"減持"上調至"中性"。
+
+---
+
+### 2026-08-28 14:38:37  #MKT News
+
+Iran's foreign minister said he held "creative discussions" with Qatar's prime minister.
+
+---
+
+### 2026-08-28 14:38:23  #觀點 #國際
+
+摩根士丹利將歐洲公用事業板塊評級從增持下調至中性。
+
+---
+
+### 2026-08-28 14:37:59  #觀點 #國際
+
+摩根士丹利將歐洲航空航天板塊的評級從持平倉位上調至增持。
+
+---
+
+### 2026-08-28 14:37:34  #公司 #國際
+
+【品浩：AI 相關債務 “規模過大、擴張過快” 推高債券收益率】太平洋投資管理公司（品浩）表示，用於人工智慧資本開支的海量債務融資正在令固收市場出現 “消化不良”，並推高收益率。美國高評級大型科技企業今年合計發行數千億美元債券，企業債務與政府融資形成競爭。馬克・賽德納與普拉莫爾・達萬表示，當前債券收益率為長期投資者提供了 “極具吸引力的入場時機”；在宏觀前景尚不明朗的當下，投資者可鎖定現有收益率。
+
+---
+
+### 2026-08-28 14:37:32  #MKT News
+
+Iran's foreign minister said the U.S. should build trust, respect dialogue, acknowledge Iran's rights and fulfill its commitments.
+
+---
+
+### 2026-08-28 14:37:22  #MKT News
+
+【Fujian lowers typhoon emergency response to level 3】The year’s 18th typhoon, Shader, was centered at 13:00 on the 28th in Taishun County, Wenzhou, Zhejiang, with maximum winds near the center at force 10 (strong tropical storm). It is moving WSW at about 20 km/h, expected to weaken and enter northern Fujian on the afternoon of the 28th. At 14:00 on the 28th Fujian provincial typhoon command downgraded the typhoon emergency response to level 3 and maintained the flood-control emergency response at level 4.
+
+---
+
+### 2026-08-28 14:37:18  #MKT News #Important
+
+Iran's foreign minister said resuming the diplomatic process is not impossible; it depends on whether the U.S. recognizes that 'pressure is ineffective'.
+
+---
+
+### 2026-08-28 14:36:47  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish #9988.HK
+
+【Alibaba Cloud Tops China's Enterprise Intelligent Customer Service Market for Third Consecutive Year】IDC reports Alibaba Cloud held a 13.5% share of China’s enterprise intelligent customer service market in 2025, ranking first for a third consecutive year. The market (software and services only) was 7.19 bln yuan in 2025, up 55.3% YoY; Alibaba Cloud's intelligent-customer-service revenue was 970 mln yuan, up 83.6%, materially outpacing the market.
+
+---
+
+### 2026-08-28 14:36:24  #其他
+
+【福建省調整防颱風應急響應為三級】今年第18號颱風“沙德爾”28日13時中心位於浙江省溫州泰順縣境內，中心附近最大風力10級（強熱帶風暴級）。預計將以每小時20公里左右的速度向西南偏西方向移動，強度逐漸減弱，於28日下午進入福建省北部地區。福建省防指於28日14時調整防颱風應急響應為三級並維持防汛四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-28 14:36:01  #MKT News
+
+Norwegian Royal Court said King Harald has died, aged 89.
+
+---
+
+### 2026-08-28 14:35:41  #其他 #國際
+
+挪威王室在宣告中表示，挪威國王哈拉爾去世，享年89歲。
+
+---
+
+### 2026-08-28 14:35:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+An adviser to Ukraine's interior minister said the Yaroslavl oil refinery in Russia was struck again by drones, triggering a large fire. The refinery is one of Russia's largest, with crude processing capacity of about 15 mln tonnes a year.
+
+---
+
+### 2026-08-28 14:35:05  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #US10Y
+
+France final Q2 GDP annualized rate and preliminary August CPI MoM due in 10 minutes.
+
+---
+
+### 2026-08-28 14:34:52  #焦點 #國際
+
+伊朗外長： 讓外交重回正軌並非遙不可及。這取決於美國認清一個簡單事實：施壓手段行不通。美國應當建立互信、秉持尊重的對話態度、承認我方合法權利，並恪守各項承諾。
+
+---
+
+### 2026-08-28 14:34:32  #國際
+
+伊朗外長：與卡達總理進行了“富有創意的討論”。
+
+---
+
+### 2026-08-28 14:33:58  #公司 #其他
+
+【中國一汽捐贈款物500萬元馳援西藏吉隆災區】8月28日，中國一汽宣佈攜一汽紅旗、一汽解放、一汽奔騰、一汽-大眾、一汽豐田捐贈款物價值500萬元，用於支援日喀則市吉隆縣救災和災後重建工作。
+
+---
+
+### 2026-08-28 14:33:51  #公司
+
+軟銀集團釋出收購合併子公司Line Man Corporation Pte.股權的完成時間變更公告：完成時間已重新安排為不晚於2026年10月末。
+
+---
+
+### 2026-08-28 14:33:07  #MKT News
+
+【Japan H1 births rise for first time in 11 years】Preliminary Ministry of Health, Labour and Welfare data reported by Nikkei on Friday show Jan–Jun births at 342,068, up 0.8% YoY — the first H1 increase in 11 years. The ministry said this may indicate births are beginning to bottom after rapid declines since COVID. Births plunged nearly 6% in 2021 and subsequently fell in a 3–5% range; 2025 saw a 3.1% decline. A second consecutive annual rise in marriages since 2024 is cited as a factor behind the increase.
+
+---
+
+### 2026-08-28 14:33:02  #MKT News
+
+According to Nikkei, preliminary data from Japan’s Ministry of Health, Labour and Welfare showed births in 1H totaled 342,068, up 0.8% YoY — the first 1H increase in births in 11 years.
+
+---
+
+### 2026-08-28 14:31:50  #市場 #國際
+
+印度Nifty 50指數<.NSEI>回吐全部漲幅，最新報跌0.03%。
+
+---
+
+### 2026-08-28 14:31:33  #MKT News #000660.KS #Impact bearish #005930.KS
+
+South Korea's KOSPI fell 123.48 points, or 1.79%, to 6,788.89 at the close on Friday, Aug. 28; SK Hynix dropped 3.87% and Samsung Electronics fell 2.81%.
+
+---
+
+### 2026-08-28 14:31:18  #市場
+
+【日韓股市收盤】日經225指數收盤上漲0.4%，報66405.56點。韓國KOSPI指數收盤下跌123.48點，跌幅1.79%，報6788.89點，SK海力士跌3.87%，三星電子跌2.81%。
+
+---
+
+### 2026-08-28 14:31:12  #Trading Economics #Economy #Norway #Retail Sales MoM #Importance 1
+
+Norway Retail Sales Fall in July — Retail sales in Norway fell 0.7% month over month in July 2026, reversing a revised 1.6% increase in the previous month. Sales growth slowed for goods not sold in stores, stalls, and markets (1.4% vs 2.2%), and cultural and recreation goods (0.2% vs 3.7%). At the same time, sales declined for non-specialised stores (-0.3% vs 1.4% in June), food, beverages, and tobacco (-1.0% vs 1.8%), and other household equipment (-0.9% vs 1.7%), while the decline deepened for ICT equipment (-2.1% vs -0.1%) and eased for automotive fuel (-2.8% vs 3.6%). Meanwhile, sales rose for other goods (1.8% vs -1.0%) and mail order or internet sales (1.9% vs 1.7%). On an annual basis, retail sales declined 2.0% in July, following a 0.3% fall in the previous month.
+
+---
+
+### 2026-08-28 14:31:10  #公司 #國際
+
+拜耳股份公司：拜耳已在日本提交可申達（Kerendia）擴大慢性腎臟疾病治療適應症的申請。
+
+---
+
+### 2026-08-28 14:31:05  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 closed up 273.58 points, or 0.41%, at 66,405.56 on Friday, Aug. 28.
+
+---
+
+### 2026-08-28 14:30:56  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 11.75 basis points, and in the last 12 months, it increased 55.12 basis points.
+
+---
+
+### 2026-08-28 14:30:55  #宏觀
+
+【兩部門聯合出臺指導意見規範醫療機構使用特殊醫學用途配方食品】《指導意見》指出，特醫食品是指經國家市場監督管理部門註冊可以在國內市場銷售，為滿足進食受限、消化吸收障礙、代謝紊亂或者特定疾病狀態人群對營養素或者膳食的特殊需要，專門加工配製而成的配方食品。特醫食品對上述人群的治療、康復及機體功能維持等方面起著重要的營養支援作用。《指導意見》要求，醫療機構應從3個方面規範管理和使用特醫食品。在體制機制層面，確立特醫食品使用管理部門或小組，建立特醫食品供應目錄及各環節管理制度，規範特醫食品領取、使用和收費等管理流程；在制度層面，建立特醫食品採購、貯存、銷售、使用、召回等院內管理各環節的使用規範；在使用環節，確保特醫食品來源合法規範，落實專區專櫃銷售制度並儲存銷售資訊，規範收費管理並鼓勵納入醫療機構相關資訊系統。
+
+---
+
+### 2026-08-28 14:30:36  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+【Shenzhen Qianhai rolls out financing and listing support for low‑altitude economy】Qianhai Shenzhen-Hong Kong modern service zone has implemented a 12-point financial support package for the low‑altitude economy, effective Sept. 1 this year through Dec. 31, 2028. The measures create a Qianhai low‑altitude economy zone on the Shenzhen Qianhai Equity Exchange Center’s specialized-and-innovative board and launch an “entry‑to‑board” (入板即貸) targeted financing service. Authorities will encourage listing preparation, compliance advisory and cross‑border capital services for low‑altitude firms and facilitate tiered access to multi‑layer capital markets, including Shanghai and Shenzhen main boards, ChiNext, the STAR Market and the Beijing Stock Exchange. The plan also backs faster NEEQ (New Third Board) approvals via a green channel. To address costly and hard-to-get financing at key links in the low‑altitude industrial chain, the measures introduce a credit risk‑sharing mechanism and encourage banks to develop product lines such as talent loans, R&D loans and low‑altitude industry cluster loans.
 
 ---
 
@@ -12084,1187 +12766,5 @@ Fed Governor Cook said she will oppose attempts by Trump to remove her from the 
 ### 2026-08-27 06:49:12  #國際
 
 伊朗議會議長卡利巴夫：伊朗與中國的夥伴關係“無需獲得任何人許可”。
-
----
-
-### 2026-08-27 06:45:15  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Rises by 2.17% — Top crypto gainers are Ether (2.17%), Binance (1.52%) and Bitcoin (0.15%). Biggest loser is XRP (-1.84%).
-
----
-
-### 2026-08-27 06:44:44  #國際
-
-市場資訊：韓國和美國正努力解決投資條款分歧。
-
----
-
-### 2026-08-27 06:40:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Wheat Soars by 6.56% — Top commodity gainers are Wheat (6.56%), Corn (2.70%) and Soybeans (2.14%). Biggest losers are Coffee (-4.35%) and Rice (-3.50%).
-
----
-
-### 2026-08-27 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 2.71% — Top commodity losers are Lithium Carbonate (-2.71%), Copper (-1.43%) and Gold (-1.04%). Gains are led by Iron Ore CNY (0.91%).
-
----
-
-### 2026-08-27 06:32:15  #市場
-
-現貨白銀日內漲1%，現報68.79美元/盎司。
-
----
-
-### 2026-08-27 06:32:15  #MKT News #Commodities #Precious Metals
-
-Spot silver up 1.00% intraday at $68.80/oz.
-
----
-
-### 2026-08-27 06:30:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Tumbles by 6.93% — Top commodity losers are Methanol (-6.93%), Liquefied Natural Gas Japan Korea (-1.61%), Germany Natural Gas THE (-1.48%), Brent Crude Oil (-1.31%) and Crude Oil WTI (-0.70%). Gains are led by Natural gas (2.63%), Uranium (1.17%) and Gasoline (0.70%).
-
----
-
-### 2026-08-27 06:23:42  #MKT News #Market Themes #AI Revolution #HPQ.N #Impact bullish
-
-HP (HPQ.N) top executive said workloads are shifting from the cloud to endpoint devices, and AI PCs now deliver more value than last year.
-
----
-
-### 2026-08-27 06:21:44  #其他
-
-【國網西藏電力85名搶修人員已抵達吉隆鎮】國網西藏電力正在吉隆鎮集結應急保電力量，截至今天凌晨4時，已到達搶修人員85人、發電車7臺、發電機2臺、照明類裝備19臺。與此同時，就近統籌調配應急保電人員30人，以及發電車5臺、發電機42臺、照明類裝備18臺。（央視新聞）
-
----
-
-### 2026-08-27 06:19:26  #其他
-
-惠普高管：如今AI個人電腦能創造的價值已高於去年，因為工作負載正從雲端轉移至終端裝置。
-
----
-
-### 2026-08-27 06:18:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,610/oz, up 0.34% on the day.
-
----
-
-### 2026-08-27 06:17:50  #市場
-
-紐約期銀日內漲1%，現報69.51美元/盎司。
-
----
-
-### 2026-08-27 06:17:48  #市場 #焦點
-
-現貨黃金突破4610美元/盎司，日內漲0.35%。
-
----
-
-### 2026-08-27 06:17:20  #市場 #焦點
-
-紐約期金突破4660美元/盎司，日內漲0.17%。
-
----
-
-### 2026-08-27 06:16:38  #其他
-
-惠普首席財務官：目前認為Windows 11裝置更新換代程序已完成約70%。
-
----
-
-### 2026-08-27 06:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swedish Krona Drops by 0.78% — Top currency losers are Swedish Krona (-0.78%), New Zealand Dollar (-0.55%), Swiss Franc (-0.46%), British Pound (-0.40%), Euro (-0.18%) and Japanese Yen (-0.06%). Gains are led by Dollar Index (0.22%).
-
----
-
-### 2026-08-27 06:13:04  #國際
-
-訊息人士：美國中央情報局局長拉特克利夫莫斯科之行旨在警告俄羅斯不要攻擊北約。
-
----
-
-### 2026-08-27 06:12:25  #國際
-
-日本金融廳敦促銀行強化網路風險管理。
-
----
-
-### 2026-08-27 06:10:53  #市場
-
-惠普首席財務官：預計將隨著投入成本上漲繼續提價。
-
----
-
-### 2026-08-27 06:04:27  #其他
-
-【臺灣台東縣海域發生4.5級地震】中國地震臺網正式測定：8月27日5時47分在臺灣台東縣海域（北緯22.81度，東經121.44度）發生4.5級地震，震源深度30千米。
-
----
-
-### 2026-08-27 06:04:15  #公司
-
-保誠集團：2024-2027年期間將如期向股東返還逾70億美元資本。
-
----
-
-### 2026-08-27 06:03:53  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為63.5%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為63.5%，累計加息25個基點的機率為36.5%。美聯儲到10月維持利率不變的機率為47.3%，累計加息25個基點的機率為43.4%，累計加息50個基點的機率為9.3%。
-
----
-
-### 2026-08-27 06:03:53  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #Nasdaq100 #Impact bullish #NVDA.O
-
-Nasdaq futures rose about 1% in early Thursday trade, buoyed by NVIDIA (NVDA.O) climbing 4.5% in after-hours trading.
-
----
-
-### 2026-08-27 06:01:06  #其他
-
-惠普首席財務官：預計儲存晶片與儲存成本佔物料清單的比例將進一步上升。
-
----
-
-### 2026-08-27 06:00:54  #市場
-
-受英偉達人工智慧前景展望提振，納斯達克100指數期貨上漲0.8%。
-
----
-
-### 2026-08-27 06:00:42  #市場 #焦點
-
-現貨黃金突破4600美元/盎司，日內漲0.13%。
-
----
-
-### 2026-08-27 06:00:36  #其他
-
-中央氣象臺8月27日06時繼續釋出颱風橙色預警。
-
----
-
-### 2026-08-27 06:00:22  #其他
-
-中央氣象臺8月27日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-08-27 06:00:21  #市場 #焦點
-
-紐約期金突破4650美元/盎司，日內跌0.06%。
-
----
-
-### 2026-08-27 06:00:08  #市場 #焦點
-
-WTI原油突破82美元/桶，日內跌0.29%。
-
----
-
-### 2026-08-27 05:59:24  #其他
-
-惠普首席財務官：仍與行業專家的觀點一致，即預計自然年下半年個人電腦出貨量的整體可觸達市場（TAM）將同比下滑15%-19%。
-
----
-
-### 2026-08-27 05:59:19  #MKT News
-
-UN Secretary-General Guterres said UN teams and partners are mobilizing supplies and personnel in Nepal to assist flood-affected communities.
-
----
-
-### 2026-08-27 05:59:14  #MKT News
-
-Court filings show a U.S. judge has dismissed X's lawsuit challenging New York's hate speech law.
-
----
-
-### 2026-08-27 05:58:27  #公司 #國際
-
-法庭檔案顯示，美國法官駁回了X公司挑戰紐約仇恨言論法的訴訟。
-
----
-
-### 2026-08-27 05:58:16  #其他
-
-惠普首席財務官：預計原材料成本仍將上升，這會給我們的營業利潤率帶來短期壓力，個人系統業務受到的影響尤其明顯。
-
----
-
-### 2026-08-27 05:53:03  #MKT News #Market Themes #AI Revolution #ZM.O
-
-【Zoom stake in Anthropic valued at $3.13 billion】Zoom says the value of its Anthropic stake rose to $3.13 billion, producing a $1.61 billion unrealized (book) gain in the three months to July. Zoom first invested in Anthropic in early 2023 and integrated Anthropic's Claude model into its products. The company added $301 million to its Anthropic holding in the six months to July.
-
----
-
-### 2026-08-27 05:50:02  #MKT News
-
-cenc's automated system recorded a magnitude ~4.5 earthquake at 05:47 on Aug 27 offshore Taitung County, Taiwan; final parameters await the official rapid bulletin.
-
----
-
-### 2026-08-27 05:49:47  #其他
-
-中國地震臺網自動測定：08月27日05時47分在臺灣台東縣海域附近（北緯22.78度，東經121.44度）發生4.5級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-27 05:48:54  #公司
-
-英偉達CEO黃仁勳：OpenAI與Anthropic很快將會上市。
-
----
-
-### 2026-08-27 05:48:46  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish
-
-Jensen Huang said that although the industry is shifting toward developing custom chips, leading-edge AI labs will remain long-term customers of NVIDIA.
-
----
-
-### 2026-08-27 05:48:46  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang said the world will need both closed and open AI models.
-
----
-
-### 2026-08-27 05:48:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang hinted OpenAI and Anthropic may IPO soon.
-
----
-
-### 2026-08-27 05:48:23  #公司
-
-【英偉達預測AI驅動的銷售增長將延續至2028財年】英偉達給出2028財年樂觀銷售預期，首席財務官科萊特·克雷斯稱，公司預計2028財年營收增長約70%。公司二季度財報顯示營收962億美元，非特定專案調整後每股收益2.22美元，資料中心業務營收890億美元。英偉達警示，受記憶體成本飆升影響，未來數月利潤率將收窄，但隨著公司上調產品定價，預計2028財年利潤率將回落至72%‑73%區間。
-
----
-
-### 2026-08-27 05:47:50  #公司
-
-英偉達CEO黃仁勳：全球既需要閉源模型，也需要開源模型。
-
----
-
-### 2026-08-27 05:47:41  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-【NVIDIA beats Q2, issues rare early FY2028 revenue guidance】NVIDIA beat Q2 FY2027 estimates; after-hours shares initially fell about 3%. CFO Colette Kress said NVIDIA now expects FY2028 revenue to rise roughly 70% versus analysts’ ~44% consensus, citing accelerating demand limited by supply. CEO Jensen Huang said demand growth already exceeds 70% and could be near 100%; the 70% outlook reflects current supply constraints and would be materially higher without them. Shares swung in after-hours, dropping ~3% then rallying as much as 5%.
-
----
-
-### 2026-08-27 05:45:35  #公司 #國際
-
-【特朗普簽署公告擴大瘦牛肉進口配額】美國總統特朗普今日釋出公告，臨時上調瘦牛肉碎料進口配額，超額部分不徵收關稅。公告顯示，配額上調自9月1日起生效，為期90天。白宮補充，每月進口上限為10萬噸。公告表明，該配額僅適用於瘦牛肉碎料，用於和美國本土牛肉混合製作牛肉餡。
-
----
-
-### 2026-08-27 05:40:21  #公司
-
-英偉達CEO黃仁勳：如果不受供應限制，2028財年業績展望會“高得多”。
-
----
-
-### 2026-08-27 05:40:06  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-NVIDIA CEO Jensen Huang said the company's fiscal 2028 outlook would be "much higher" absent supply constraints.
-
----
-
-### 2026-08-27 05:37:28  #MKT News
-
-HKO issued a Red Rainstorm Warning Signal at 05:05 HKT.
-
----
-
-### 2026-08-27 05:36:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang said current supply capacity gives the company confidence it can achieve 70% growth in fiscal 2028.
-
----
-
-### 2026-08-27 05:35:59  #其他
-
-【首架中國救援隊包機完成起飛準備工作 即將飛往日喀則】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。應急管理部、國家消防救援局調派中國救援隊111名消防救援指戰員趕赴災害現場增援。目前，首架中國救援隊包機已完成起飛準備工作，計劃今早6點從成都雙流機場飛往日喀則定日機場。（央視新聞）
-
----
-
-### 2026-08-27 05:35:43  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-NVIDIA CEO Jensen Huang said the future non-hyperscale cloud computing market could exceed current total cloud capacity.
-
----
-
-### 2026-08-27 05:34:10  #公司
-
-英偉達CEO黃仁勳：我們此前從未提前一年釋出業績指引。
-
----
-
-### 2026-08-27 05:33:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA CEO Jensen Huang said the company has never previously issued earnings guidance a year in advance.
-
----
-
-### 2026-08-27 05:32:41  #公司
-
-英偉達CEO黃仁勳：供應鏈能力足以支撐我們信心滿滿地實現2028財年70%的增長。
-
----
-
-### 2026-08-27 05:32:04  #公司
-
-英偉達CEO黃仁勳：非超大規模計算可能將比當前雲容量更大。
-
----
-
-### 2026-08-27 05:30:53  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-NVIDIA (NVDA.O) CFO says fiscal 2028 gross margin should stabilize at 72%-73%.
-
----
-
-### 2026-08-27 05:30:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact mixed
-
-NVIDIA (NVDA.O) CFO said the company expects third fiscal-quarter gross margin around 74%, +/-50 bps, and expects fourth fiscal-quarter gross margin to bottom at 71–72%.
-
----
-
-### 2026-08-27 05:29:00  #公司
-
-惠譽評級：厄爾尼諾現象給巴西保險公司帶來挑戰，但該行業整體依然穩健。
-
----
-
-### 2026-08-27 05:28:50  #公司
-
-英偉達首席財務官：公司將在第一季度提價。
-
----
-
-### 2026-08-27 05:28:37  #其他
-
-英偉達首席財務官：記憶體晶片“定價環境極端”疊加元件成本上升，將拖累利潤率。
-
----
-
-### 2026-08-27 05:28:05  #其他
-
-英偉達首席財務官：2028財年利潤率應穩定在72%至73%區間。
-
----
-
-### 2026-08-27 05:28:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
-
-NVIDIA CFO expects supply will remain a constraint on growth through at least fiscal 2028; memory prices are extremely elevated.
-
----
-
-### 2026-08-27 05:27:54  #其他
-
-英偉達正與記憶體供應商合作擴大產能。
-
----
-
-### 2026-08-27 05:27:14  #其他
-
-英偉達預計第四季利潤率觸底，區間為71%至72%。
-
----
-
-### 2026-08-27 05:27:04  #MKT News #Star Stocks #NVIDIA #Amazon #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish #AMZN.O #Nasdaq100
-
-【Amazon to deploy about 2 million NVIDIA GPUs in 2027-28 for data center expansion】Amazon (AMZN.O) and NVIDIA (NVDA.O) said Amazon will deploy roughly 2 million high-end NVIDIA GPUs in 2027 and 2028 for AI model training and inference. Amazon previously said in March it will install 1 million NVIDIA GPUs at AWS data centers starting this year. The latest deal covers NVIDIA Blackwell Ultra, Rubin and Rubin Ultra GPUs; unit prices are expected to be at least tens of thousands of dollars, with volume discounts for large customers.
-
----
-
-### 2026-08-27 05:26:59  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO expects Vera Rubin to account for about 20% of the company's data-center revenue in Q3.
-
----
-
-### 2026-08-27 05:26:49  #其他 #焦點
-
-英偉達預計第三季度利潤率為74%，上下浮動50個基點。
-
----
-
-### 2026-08-27 05:26:33  #其他
-
-英偉達首席財務官：當前記憶體晶片正處於極端定價環境中。
-
----
-
-### 2026-08-27 05:26:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company plans to increase shareholder returns by distributing remaining free cash flow after reserving amounts for strategic uses.
-
----
-
-### 2026-08-27 05:26:18  #其他
-
-英偉達首席財務官：我們預計，至少到2028財年，供應仍將是瓶頸。
-
----
-
-### 2026-08-27 05:25:56  #其他
-
-英偉達首席財務官：預計第三季度Vera Rubin佔資料中心營收的約20%。
-
----
-
-### 2026-08-27 05:25:47  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) CFO said revenue from H200 shipments to Chinese customers is under 1% of total data-center revenue. Shipments to Chinese customers comply with US government export licenses. The company's outlook excludes any data-center compute revenue from China.
-
----
-
-### 2026-08-27 05:25:45  #公司
-
-英偉達首席財務官：公司未來計劃增加並返還扣除戰略用途後剩餘的過剩自由現金流。
-
----
-
-### 2026-08-27 05:25:26  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO expects demand from AI labs next year to contribute about one-quarter of the company's overall business.
-
----
-
-### 2026-08-27 05:25:05  #其他
-
-白宮：擴大瘦牛肉碎配額至每月10萬噸。
-
----
-
-### 2026-08-27 05:24:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) CFO said some people call this "recycling financing", but we view it differently.
-
----
-
-### 2026-08-27 05:24:18  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company will provide selective credit-enhancement support for another cutting-edge AI lab's compute project of nearly 2 GW of capacity.
-
----
-
-### 2026-08-27 05:24:10  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said OpenAI's current and planned project commitments amount to roughly 12 gigawatts of NVIDIA compute capacity.
-
----
-
-### 2026-08-27 05:23:16  #公司 #焦點
-
-英偉達首席財務官：預計明年人工智慧實驗室的需求將貢獻約四分之一的公司業務。
-
----
-
-### 2026-08-27 05:23:12  #其他
-
-英偉達首席財務官：將為另一家前沿實驗室近2吉瓦算力容量專案提供選擇性增信措施。
-
----
-
-### 2026-08-27 05:22:52  #其他
-
-英偉達首席財務官：OpenAI現有及計劃中的承諾約佔英偉達12GW計算能力。
-
----
-
-### 2026-08-27 05:21:55  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company has invested $50 billion in frontier AI labs.
-
----
-
-### 2026-08-27 05:21:47  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #MU.O
-
-【Analyst: NVIDIA more than doubles supplier commitments to secure memory supply】Analyst Edward Ludlow says NVIDIA (NVDA.O) has more than doubled its forward supplier commitments in a single quarter, rising from $119bn to $279bn. NVIDIA attributes the increase mainly to securing memory supply. These are commitments to suppliers, not incurred costs, intended to lock components and capacity to meet AI demand over the coming years. Commitments total $92bn for the remainder of the current fiscal year, $87bn for fiscal 2028 and $88bn for fiscal 2029.
-
----
-
-### 2026-08-27 05:21:46  #公司 #國際
-
-白宮：特朗普簽署關於牛肉可負擔性的公告。
-
----
-
-### 2026-08-27 05:21:46  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company’s revenue-sharing model is expected to generate tens of billions of dollars in revenue over the medium-to-long term.
-
----
-
-### 2026-08-27 05:21:26  #MKT News
-
-CBC reports U.S. Trade Representative Greer said there is currently no open channel of communication with Canada.
-
----
-
-### 2026-08-27 05:21:10  #公司 #國際
-
-白宮：特朗普已簽署公告，臨時提高免配額外關稅進口的瘦牛肉碎配額量。
-
----
-
-### 2026-08-27 05:21:07  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company is introducing a revenue-sharing mechanism that includes a 'Take-or-Pay' commitment and a minimum revenue guarantee.
-
----
-
-### 2026-08-27 05:20:22  #其他
-
-英偉達首席財務官：從中長期來看，營收分成模式可創造數十億美元收入。
-
----
-
-### 2026-08-27 05:20:11  #其他
-
-英偉達首席財務官：華爾街合作將支援前沿實驗室建設。
-
----
-
-### 2026-08-27 05:20:02  #其他
-
-英偉達首席財務官：我們已對前沿實驗室投資500億美元。
-
----
-
-### 2026-08-27 05:19:38  #其他
-
-英偉達推出收益分成架構，附帶照付不議承諾與最低收入保障。
-
----
-
-### 2026-08-27 05:19:17  #國際
-
-美國貿易代表格里爾：目前尚未與加拿大建立公開溝通渠道。
-
----
-
-### 2026-08-27 05:19:00  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish
-
-CBC reported U.S. Trade Representative GREER warned that if Canada imposes further retaliatory measures, the U.S. will not 'stand idly by'.
-
----
-
-### 2026-08-27 05:18:44  #國際
-
-美國貿易代表格里爾：加拿大針對美國的關稅措施“相當極端”。
-
----
-
-### 2026-08-27 05:18:03  #其他
-
-OpenAI二期創業基金募資4億美元。
-
----
-
-### 2026-08-27 05:18:02  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) CFO said the company is a neutral partner to all sovereign AI customers and next-generation AI cloud service providers.
-
----
-
-### 2026-08-27 05:17:49  #其他
-
-英偉達首席財務官：主權人工智慧業務同比增長超兩倍，環比增長35%。
-
----
-
-### 2026-08-27 05:17:23  #其他
-
-英偉達首席財務官：對所有主權國家和新型雲服務商，我們都是中立合作伙伴。
-
----
-
-### 2026-08-27 05:16:44  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-NVIDIA (NVDA.O) CFO said the company’s sovereign AI business more than doubled YoY and rose 35% QoQ.
-
----
-
-### 2026-08-27 05:16:23  #國際
-
-巴勒斯坦特使向聯合國安理會表示，以色列的吞併行動已到無法挽回的地步。
-
----
-
-### 2026-08-27 05:15:17  #市場
-
-富時A50期指連續夜盤收跌0.16%，報14742點。
-
----
-
-### 2026-08-27 05:14:59  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said growth from non-hyperscale cloud customers is expected to account for about half of its data-center business.
-
----
-
-### 2026-08-27 05:14:44  #其他
-
-英偉達首席財務官：非超大規模客戶業務增長將佔資料中心業務的約一半。
-
----
-
-### 2026-08-27 05:14:30  #公司 #市場
-
-Nebius集團盤後股價上漲超過5%，Coreweave上漲3.1%。
-
----
-
-### 2026-08-27 05:13:49  #其他
-
-英偉達首席財務官：除超大規模企業外存在巨大市場，部分客戶對定製化晶片並無興趣。
-
----
-
-### 2026-08-27 05:13:48  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
-
-NVIDIA (NVDA.O) CFO said it expects to begin large-scale shipments of Groq 3 LPX to early customers later this quarter; initial recipients include Nebius.
-
----
-
-### 2026-08-27 05:13:29  #其他
-
-英偉達首席財務官：預計本季度晚些時候向早期採用者全量出貨Groq 3 LPX，首批供貨物件為Nebius。
-
----
-
-### 2026-08-27 05:13:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company preliminarily expects CPU business revenue to double in fiscal 2028.
-
----
-
-### 2026-08-27 05:13:09  #MKT News #Commodities #Industrial Metals
-
-U.S. Trade Representative Greer said in trade talks with Canada the U.S. seeks reciprocal protection mechanisms for steel, aluminum and related sectors.
-
----
-
-### 2026-08-27 05:12:57  #市場
-
-英偉達盤後上漲至5%。
-
----
-
-### 2026-08-27 05:12:03  #其他
-
-英偉達首席財務官：初步預計2028財年中央處理器（CPU）營收將實現翻倍。
-
----
-
-### 2026-08-27 05:11:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO says the company is fully ramping production of its next-generation Vera CPU.
-
----
-
-### 2026-08-27 05:11:51  #焦點 #國際
-
-美國貿易代表格里爾：在與加拿大的貿易談判中，希望就鋼鋁這類商品達成相互保護協議。
-
----
-
-### 2026-08-27 05:11:36  #公司
-
-英偉達首席財務官：預計每家超大規模計算公司、人工智慧實驗室、新雲服務商及系統原始裝置製造商都將部署Vera Rubin。
-
----
-
-### 2026-08-27 05:11:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the Vera Rubin product's ramp-up will be the fastest in company history.
-
----
-
-### 2026-08-27 05:10:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO: Each 1 GW of compute deployed on Vera Rubin represents roughly $40 billion of revenue opportunity.
-
----
-
-### 2026-08-27 05:10:51  #其他
-
-英偉達首席財務官：我們已全面投產下一代Vera中央處理器。
-
----
-
-### 2026-08-27 05:10:17  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO: began shipping Vera Rubin earlier this month.
-
----
-
-### 2026-08-27 05:10:13  #其他
-
-英偉達首席財務官：Vera Rubin每吉瓦收入機會為400億美元。
-
----
-
-### 2026-08-27 05:09:38  #其他
-
-英偉達首席財務官：本月早些時候已開始生產發貨Vera Rubin。
-
----
-
-### 2026-08-27 05:08:26  #MKT News #Important #Star Stocks #NVIDIA #Amazon #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company and Amazon Web Services will add 2 million NVIDIA GPUs to AWS’s global infrastructure during 2027–2028.
-
----
-
-### 2026-08-27 05:08:01  #MKT News #Star Stocks #NVIDIA #Amazon #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CFO said the company will partner with Amazon Web Services to build data centers for the U.S. government, deploying 100,000 GPUs on "secure AWS infrastructure".
-
----
-
-### 2026-08-27 05:07:46  #其他
-
-英偉達首席財務官：需求訊號支撐明年營收翻倍增長。
-
----
-
-### 2026-08-27 05:07:34  #公司
-
-英偉達首席財務官：公司的雲原生合作伙伴預計在年末將實現總計8吉瓦的總裝機容量。
-
----
-
-### 2026-08-27 05:07:16  #公司
-
-英偉達首席財務官：公司正拓展與亞馬遜雲科技的合作關係。
-
----
-
-### 2026-08-27 05:06:58  #其他 #焦點
-
-香港天文臺釋出紅色暴雨警告。
-
----
-
-### 2026-08-27 05:06:49  #其他
-
-英偉達CFO稱，2028財年營收預計增長約70%。
-
----
-
-### 2026-08-27 05:06:21  #公司 #國際
-
-英偉達首席財務官：公司與亞馬遜雲（AWS）將為美國政府建設資料中心，該資料中心將在“AWS安全基礎設施”之上部署10萬顆GPU。
-
----
-
-### 2026-08-27 05:05:55  #其他
-
-英偉達漲幅擴大至2.9%。
-
----
-
-### 2026-08-27 05:05:27  #公司
-
-亞馬遜雲科技與英偉達將為智慧體AI與物理AI額外提供200萬顆圖形處理器及下一代基礎設施。
-
----
-
-### 2026-08-27 05:03:00  #其他
-
-國際貨幣基金組織（IMF）今日批准為智利接續一項兩年期靈活信貸額度（FCL）安排，規模約118億美元。
-
----
-
-### 2026-08-27 04:58:59  #公司
-
-芝加哥商品交易所集團：全球指揮中心已知悉連線FIRMSOFT/CME ONE時出現的問題。支援團隊正在調查中。
-
----
-
-### 2026-08-27 04:58:46  #MKT News
-
-CME said its Global Command Center (GCC) has detected issues connecting to Firmsoft/CMEOne and its technical support team is investigating.
-
----
-
-### 2026-08-27 04:55:46  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Ends Flat as Yields Edge Higher — The Ibovespa closed flat at 174,586 on Wednesday as earlier gains faded following the release of US PCE data. The Federal Reserve’s preferred inflation gauge came in above forecasts, raising expectations for a restrictive Fed stance and pushing global yields higher. Vale declined 0.3% despite higher iron ore prices. Meanwhile, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band and boosting expectations for a Selic rate cut. Financials provided some support, with Bradesco rising 1.2 and Itaúsa up 0.4%. Petrobras gained 0.2% despite lower oil prices amid renewed talks between Iran and Oman, while prices remained elevated and prospects for a US-Iran peace deal uncertain. Sabesp added 1.5% after Itaú BBA reiterated its buy rating following the stock’s slump after its quarterly results. Embraer rose 0.9% on news of plane acquisitions from LATAM and a likely bid win with the Indian government.
-
----
-
-### 2026-08-27 04:50:04  #MKT News #Important
-
-NVIDIA to hold earnings call in 10 minutes.
-
----
-
-### 2026-08-27 04:48:12  #其他
-
-英偉達：未來將同時交付Blackwell與Rubin系統，目前正面臨部分供應限制。
-
----
-
-### 2026-08-27 04:47:20  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact mixed
-
-NVIDIA (NVDA.O): will ship Blackwell- and Rubin-architecture systems concurrently going forward and is currently facing some supply constraints.
-
----
-
-### 2026-08-27 04:46:52  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) said it signed a memorandum of understanding in August with major capital providers to establish an independent financing platform aimed at raising more than $500 billion of third-party capital.
-
----
-
-### 2026-08-27 04:45:11  #公司 #焦點
-
-英偉達：8月公司與多家大型資本提供商達成諒解備忘錄，將合作打造獨立融資平臺，以籌措超5000億美元第三方資本。
-
----
-
-### 2026-08-27 04:44:44  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) recorded a $400m charge in 1H for excess H200 inventory.
-
----
-
-### 2026-08-27 04:44:39  #公司 #市場
-
-【市場反應冷淡 英偉達超預期的財測沒能讓所有投資者都感到滿意】英偉達釋出的營收展望令一些投資者感到失望，加劇了市場對人工智慧支出勢頭何以為繼的擔憂。該公司週三在公告中預計，本財季營收將達到1080億美元，且可能上下浮動2%。彙總的資料顯示，儘管分析師平均預估為1052億美元，但一些人的期望值超過了1100億美元。扣除生產成本後的營收比例，即毛利率約在74%。財測公佈後英偉達股價在盤後交易中下跌近3%。市場冷淡的反應凸顯了投資者對人工智慧熱與日俱增的疑慮。歷經數年的高速增長後一些投資者開始擔憂潛在的泡沫。英偉達與人工智慧經濟領域眾多公司達成的投資協議也引起憂慮，有人擔心迴圈交易可能會使整個行業更加不穩定。
-
----
-
-### 2026-08-27 04:44:04  #其他
-
-英偉達：上半年因H200庫存過剩計提4億美元損失。
-
----
-
-### 2026-08-27 04:43:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
-
-NVIDIA (NVDA.O): One direct customer accounted for 16% of total revenue in Q2.
-
----
-
-### 2026-08-27 04:43:56  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish #Nasdaq100
-
-【NVIDIA's Jensen Huang: AI at inflection point; compute equals revenue】Jensen Huang said AI has reached an inflection point, with generated tokens now driving productivity and profit and compute effectively equating to revenue. Demand for compute is accelerating: what was once driven mainly by a single AI lab has become a wave of new AI labs and startups scaling concurrently, open-model ecosystems expanding, and applied AI moving into production. AI infrastructure build-out is running at full speed globally, and NVIDIA’s Vera Rubin cluster is now fully operational and purpose-built for this moment.
-
----
-
-### 2026-08-27 04:43:45  #其他
-
-英偉達：上半年總營收的44%來自三家直接客戶。
-
----
-
-### 2026-08-27 04:41:23  #其他 #焦點
-
-英偉達：二季度某單一直接客戶貢獻總營收的16%。
-
----
-
-### 2026-08-27 04:41:19  #MKT News #WTI #Brent #XAUUSD
-
-【Trump: No timetable for Iran to return to talks】US President Trump told Al Jazeera in an interview on the 26th he "has no timetable" for when Iran will return to negotiations and is "not in a hurry." He said the US is achieving "very big victories" and that Iran faces severe inflation and a collapsing economy. Asked whether economic measures are more effective than military strikes, Trump said "I think both are effective."
-
----
-
-### 2026-08-27 04:41:03  #國際
-
-【特朗普：對於伊朗何時重返談判“沒有時間表”】美國總統特朗普26日在接受卡達半島電視臺採訪時表示，對於預計伊朗何時重返談判，他“沒有時間表”，而且“不著急”。據半島電視臺26日報道，被問及給伊朗多長時間重返談判時，特朗普回答說：“我沒有時間表，完全沒有。我不著急。”他還說：“我們正在取得非常大的勝利。他們（伊朗）面臨嚴重的通貨膨脹，經濟正在崩潰。”當被問及經濟措施是否比軍事打擊更有效時，特朗普表示：“我認為兩者都有效。”（新華社）
-
----
-
-### 2026-08-27 04:40:18  #其他
-
-英偉達上半年因H200庫存過剩產生4億美元費用。
-
----
-
-### 2026-08-27 04:40:06  #其他
-
-英偉達第二季度中國營收78.8億美元。
-
----
-
-### 2026-08-27 04:39:27  #公司 #市場 #觀點 #央行 #焦點 #國際
-
-【英偉達財報出爐後美股震盪】英偉達財報釋出後，華爾街交易員推動美股盤後震盪，市場謹慎情緒佔上風。債券走弱，市場押注美聯儲將於年內加息。規模8090億美元的標普500指數ETF在收盤後波動。英偉達因業績指引不及部分投資者預期出現下跌。短期美債表現承壓，貨幣市場已經完全定價12月將會加息。核心通脹資料雖符合預期，但依舊顯著高於美聯儲目標。英偉達公佈業績，預計當前財季營收1080億美元，浮動±2%。分析師平均預期1052億美元，但部分機構預測值高於1100億美元。摩根士丹利財富管理的埃倫·岑特納表示，市場對一切可能推升加息機率的訊息高度敏感，最新經濟資料並不符合市場的期待。岑特納指出，該資料尚不足以改變9月美聯儲會議的政策走向，但如果後續資料延續這一態勢，政策制定者將面臨更大的加息壓力。
-
----
-
-### 2026-08-27 04:38:04  #MKT News #Star Stocks #Tesla #Market Themes #The Trump Trade #Magnificent 7 #SEDG.O #Impact bullish #ENPH.O #TSLA.O
-
-【Trump signs emergency order restricting certain foreign-made power equipment from US grid】Trump on Wednesday signed an emergency executive order, citing national security, that prohibits US procurement or installation of certain foreign-made large power-system equipment and related software judged to pose cybersecurity or operational risks, including transformers. The order empowers the energy secretary to impose restrictions on already-installed equipment where necessary and directs the Department of Energy to issue implementing rules within 120 days; it excludes local distribution facilities. The measure could benefit US electrical-equipment manufacturers, including SolarEdge, Enphase Energy and Tesla (TSLA.O).
-
----
-
-### 2026-08-27 04:37:03  #其他
-
-調查人員表示，OpenAI的AI智慧體針對如何銷燬操作痕跡開展了大量研究。超過700個OpenAI智慧體參與了對Hugging Face的攻擊行動。
-
----
-
-### 2026-08-27 04:36:40  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Falls as Mining Losses and Trade Tensions Weigh — The S&P/TSX Composite Index edged 0.4% lower to close at 36,814 on Wednesday, retreating from Tuesday’s record high, as mining losses and trade tensions weighed on the index. Miners were mostly lower as gold prices slipped following US PCE data above forecasts, raising expectations for a Fed rate hike. Agnico Eagle tumbled 4.2%, Barrick shed 3.6% and WPM fell 4.3%. BRP (+1.7%) and Linamar (-1.4%) extended losses amid escalating trade tensions. Canada announced retaliatory tariffs on about $20 billion worth of annual US imports, matching Washington’s latest duties on autos, furniture, plastics, plywood and electrical equipment. ATD (-1.1%) and Dollarama (-3.6%) also fell as trade tensions are expected to weigh on Canada’s economy. National Bank fell 4.2% despite reporting third-quarter profit above expectations. RBC (+0.5%), TD Bank (+0.7%) and CIBC (+0.1%) report on Thursday. BMO closed flat and Scotiabank rose 0.8% after reporting stronger-than-expected quarterly results on Tuesday.
-
----
-
-### 2026-08-27 04:36:11  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bearish
-
-【NVIDIA's better-than-expected guidance fails to reassure investors】After-hours, NVIDIA (NVDA.O) said in its Q2 report it expects Q3 revenue of $108.0 bln, ±2%, versus analysts' average $105.2 bln and some forecasts above $110 bln. Shares fell about 2% in after-hours trading. The muted reaction highlighted rising investor skepticism about the sustainability of AI-driven spending after years of rapid growth, with some participants warning of a potential bubble. NVIDIA’s extensive investment agreements with AI firms have also raised concerns that circular trading could introduce instability across the sector.
-
----
-
-### 2026-08-27 04:35:08  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index fell 87 points or 0.16 percent on Wednesday to close at 53490 points. Leading the losses are Nike (-2.28%), Alphabet (-2.27%) and Merck (-2.12%). Top gainers were Honeywell International (1.72%), Caterpillar (1.33%) and Apple (1.20%).
-
----
-
-### 2026-08-27 04:33:05  #MKT News #CRM.O #Impact bullish
-
-【Salesforce jumps 12% after-hours on revenue beat and $2.6 bln ANTHROPIC gain】Salesforce (CRM.N) jumped about 12% in after-hours trading on Wednesday after reporting Q2 revenue of $11.35 bln, modestly above expectations, and net income of $3.53 bln, up 87% YoY. The company said it recorded a $2.6 bln strategic gain from its investment in ANTHROPIC. For Q3 Salesforce expects adjusted EPS of $3.42–3.44 versus analysts' $3.38 estimate and revenue of $11.42–11.50 bln versus $11.41 bln consensus. Full-year EPS guidance is $16.67–16.71 and revenue $46.1–46.4 bln, implying roughly 11% growth at the midpoint.
-
----
-
-### 2026-08-27 04:31:16  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-08-27 04:31:04  #公司 #市場 #焦點
-
-【英偉達Q2營收962億美元，同比大增106%】英偉達第二季度總營收962億美元，環比增長18%，同比大增106%；資料中心業務營收890億美元，同比上漲117%，成為業績核心驅動力。本季度通用會計準則與非通用會計準則毛利率均達75%，GAAP攤薄每股收益2.46美元，非GAAP攤薄每股收益2.22美元。英偉達給出三季度指引，預期營收1080億美元（浮動±2%），該預期未計入中國區資料中心算力業務收入，毛利率預期74%。二季度公司透過回購與分紅向股東返還260億美元，剩餘回購授權額度990億美元。業務層面，Blackwell、Vera Rubin平臺全面投產，同時推進長期資料中心租賃模式，客戶承諾訂單環比由1190億美元飆升至2790億美元。公司聯合多家資方，計劃撬動超5000億美元第三方資本投入AI基建，同時佈局邊緣計算、物理AI、人形機器人等賽道。黃仁勳表示AI已經迎來產業拐點，全球AI基礎設施建設正全速推進。
-
----
-
-### 2026-08-27 04:28:34  #其他
-
-英偉達：已與龐大的供應商網路展開合作，以保障滿足未來數年需求所需的關鍵零部件供應。
-
----
-
-### 2026-08-27 04:28:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-NVIDIA (NVDA.O): As of July 26, fiscal-year future commitments totalled $279 bln, mainly for storage-chip purchases.
-
----
-
-### 2026-08-27 04:27:37  #其他 #焦點
-
-英偉達：截至7月26日，按財年統計的未來承諾總額升至2790億美元，主要涉及記憶體採購事項。
-
----
-
-### 2026-08-27 04:27:31  #其他
-
-英偉達：預計將把資料中心租賃業務轉租給第三方。
-
----
-
-### 2026-08-27 04:27:14  #國際
-
-路透調查顯示，週四EIA報告料顯示上週美國天然氣庫存增加200億立方英尺。
-
----
-
-### 2026-08-27 04:27:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA (NVDA.O): Vera Rubin enters full production.
-
----
-
-### 2026-08-27 04:27:00  #其他
-
-英偉達：第二季度超大規模營收同比翻逾一倍。
-
----
-
-### 2026-08-27 04:26:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-NVIDIA (NVDA.O) revenue from hyperscale cloud service providers rose 13% sequentially in its fiscal second quarter and more than doubled year-on-year.
-
----
-
-### 2026-08-27 04:26:47  #其他
-
-英偉達：已與供應商開展合作以保障關鍵零部件供應。
-
----
-
-### 2026-08-27 04:26:19  #其他
-
-英偉達：已簽署期限約15年的資料中心租賃協議。
-
----
-
-### 2026-08-27 04:25:55  #其他
-
-英偉達：客戶承諾訂單從1190億美元環比增至2790億美元。
-
----
-
-### 2026-08-27 04:25:53  #MKT News #Star Stocks #NVDA.O
-
-NVIDIA (NVDA.O) will pay a quarterly cash dividend of $0.25 per share.
-
----
-
-### 2026-08-27 04:25:31  #其他
-
-英偉達：第二季度超大規模客戶營收環比增長13%。
-
----
-
-### 2026-08-27 04:23:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Nvidia earnings above expectations at 2.22 USD — Nvidia (NVDA) released earnings per share at 2.22 USD, compared to market expectations of 2.08 USD.
-
----
-
-### 2026-08-27 04:23:37  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) reported a gross margin of 75% in fiscal 2027 second quarter.
-
----
-
-### 2026-08-27 04:23:10  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang said compute is now revenue.
-
----
-
-### 2026-08-27 04:22:51  #公司 #市場
-
-英偉達股價在第二季度財報釋出後下跌2.9%。
-
----
-
-### 2026-08-27 04:22:38  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100
-
-After its earnings release, NVIDIA (NVDA.O) fell nearly 3% in after-hours trading.
-
----
-
-### 2026-08-27 04:22:37  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) FY2027 Q2 data center revenue $89.0 bln, up from $41.096 bln a year earlier; consensus $85.077 bln.
-
----
-
-### 2026-08-27 04:22:02  #其他
-
-英偉達預計第三季度營收為1080億美元，上下浮動2%。
-
----
-
-### 2026-08-27 04:21:26  #其他
-
-英偉達：將於2026年10月1日向截至2026年9月10日登記在冊的全體股東派付每股0.25美元的季度現金股息。
-
----
-
-### 2026-08-27 04:21:25  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) guides FY2027 Q3 revenue at $108.0 bln, versus market expectation of $104.2 bln.
-
----
-
-### 2026-08-27 04:20:58  #市場 #焦點
-
-英偉達二季度營收962億美元，分析師預期923.8億美元。資料中心營收890億美元，分析師預期858.6億美元。英偉達盤後漲0.68%。
-
----
-
-### 2026-08-27 04:20:53  #其他 #焦點
-
-英偉達第二季度資料中心營收890億美元，預期858.6億美元。
-
----
-
-### 2026-08-27 04:20:38  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-NVIDIA (NVDA.O) reported FY2027 Q2 revenue of $96.2 bln, versus $81.615 bln a year earlier; market expected $92.012 bln.
-
----
-
-### 2026-08-27 04:18:58  #公司 #市場
-
-惠普公司股價盤後下跌4%。
-
----
-
-### 2026-08-27 04:17:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Veeva Systems earnings above expectations at 2.35 USD — Veeva Systems (VEEV) released earnings per share at 2.35 USD, compared to market expectations of 2.22 USD.
-
----
-
-### 2026-08-27 04:17:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Agilent earnings above expectations at 1.62 USD — Agilent (A) released earnings per share at 1.62 USD, compared to market expectations of 1.49 USD.
-
----
-
-### 2026-08-27 04:17:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Synopsys earnings above expectations at 3.91 USD — Synopsys (SNPS) released earnings per share at 3.91 USD, compared to market expectations of 3.67 USD.
-
----
-
-### 2026-08-27 04:17:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-CrowdStrike Holdings earnings above expectations at 0.31 USD — CrowdStrike Holdings (CRWD) released earnings per share at 0.31 USD, compared to market expectations of 0.29 USD.
-
----
-
-### 2026-08-27 04:15:50  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-A judge approved a settlement between Meta Platforms (META.O) and multiple U.S. states in a social-media addiction lawsuit, according to court filings.
-
----
-
-### 2026-08-27 04:15:23  #公司
-
-惠普公司預計第四財季調整後每股收益為 69 美分至 79 美分，此前預期為 67 美分。
-
----
-
-### 2026-08-27 04:15:13  #公司
-
-惠普公司第三財季淨營收156.8億美元，高於預期144.2億美元。
-
----
-
-### 2026-08-27 04:12:41  #宏觀 #市場 #國際
-
-【巴克萊：美國國庫券市場可以消化更大規模的國債回購】巴克萊表示，美國國庫券市場能夠消化擴大債券回購規模所帶來的影響，而短期債務發行的上限取決於美國財政部是否願意繼續擴大這一市場。巴克萊策略師Samuel Earl在一份報告中寫道：“市場吸收國庫券發行的能力非常強大。”他指出，“7月份和8月份，美國財政部預計將向私人部門淨髮行約5,000億美元的新國庫券，而國庫券市場幾乎沒有受到影響”。
-
----
-
-### 2026-08-27 04:10:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Mixed Ahead of Nvidia Earnings — US stock indices closed mixed on Wednesday ahead of Nvidia’s earnings report. The S&P 500 closed near flat, the Nasdaq inched higher, and the Dow shed 113 points. Technology stocks mostly advanced ahead of Nvidia’s (-1.6%) results, which are expected to provide clues on capital spending by AI hyperscalers. Forecasts point to nearly doubled year-on-year revenue, which would mark the fastest growth in two years. Chipmakers and hyperscalers were mostly higher, with Microsoft up 0.9%, Meta rising 1.1%, Micron adding 0.6%, and AMD gaining 0.4%. Meta also benefited from a settlement with US states over its social media strategy targeting teenagers. Meanwhile, Intuit shed 3.2% after its outlook fell short of the higher end of market expectations. Traditional sectors remained under pressure amid concerns over adverse macroeconomic conditions, while robust consumer spending and income growth, alongside higher-than-expected PCE readings, reinforced expectations for a restrictive Fed.
-
----
-
-### 2026-08-27 04:10:24  #央行 #其他
-
-墨西哥央行行長：美墨加協定談判（如果）取得成功將提振投資。
 
 ---
