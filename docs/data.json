@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-03 05:49:16",
-  "count": 11985,
+  "updated": "2026-09-03 05:53:28",
+  "count": 11986,
   "items": [
+    {
+      "id": "mkt:01a0641c-2289-7118-846e-f2e9b206637b",
+      "time": "2026-09-03 05:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports new details of the Trump administration's civil-nuclear cooperation agreement with Saudi Arabia have prompted concerns about nuclear proliferation risk."
+    },
+    {
+      "id": "5074052",
+      "time": "2026-09-03 05:51:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：我們預計未來兩年將向這些客戶交付價值約 3500 億美元的人工智慧半導體產品。"
+    },
+    {
+      "id": "5074051",
+      "time": "2026-09-03 05:49:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴基斯坦財政部：透過雙檔歐洲債券交易發行 30 億美元，獲得近 600 億美元認購訂單。"
+    },
+    {
+      "id": "mkt:01a06418-9204-7118-846e-ee0f9e87cdd0",
+      "time": "2026-09-03 05:48:46",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO expects that even if product-mix shifts reduce gross margins, the company can maintain its operating margin."
+    },
     {
       "id": "5074050",
       "time": "2026-09-03 05:48:03",
@@ -110059,33 +110094,6 @@
         "其他"
       ],
       "text": "惠普首席財務官：預計原材料成本仍將上升，這會給我們的營業利潤率帶來短期壓力，個人系統業務受到的影響尤其明顯。"
-    },
-    {
-      "id": "mkt:01a0400f-f9a9-7aab-9139-9f9c113d8e7d",
-      "time": "2026-08-27 05:53:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ZM.O"
-      ],
-      "text": "【Zoom stake in Anthropic valued at $3.13 billion】Zoom says the value of its Anthropic stake rose to $3.13 billion, producing a $1.61 billion unrealized (book) gain in the three months to July. Zoom first invested in Anthropic in early 2023 and integrated Anthropic's Claude model into its products. The company added $301 million to its Anthropic holding in the six months to July."
-    },
-    {
-      "id": "mkt:01a0400d-3631-7aab-9139-97ee93414527",
-      "time": "2026-08-27 05:50:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc's automated system recorded a magnitude ~4.5 earthquake at 05:47 on Aug 27 offshore Taitung County, Taiwan; final parameters await the official rapid bulletin."
-    },
-    {
-      "id": "5060955",
-      "time": "2026-08-27 05:49:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：08月27日05時47分在臺灣台東縣海域附近（北緯22.78度，東經121.44度）發生4.5級左右地震，最終結果以正式速報為準。"
     }
   ]
 }

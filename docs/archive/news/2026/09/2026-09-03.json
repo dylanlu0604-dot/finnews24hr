@@ -1,7 +1,42 @@
 {
   "date": "2026-09-03",
-  "count": 444,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:01a0641c-2289-7118-846e-f2e9b206637b",
+      "time": "2026-09-03 05:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports new details of the Trump administration's civil-nuclear cooperation agreement with Saudi Arabia have prompted concerns about nuclear proliferation risk."
+    },
+    {
+      "id": "5074052",
+      "time": "2026-09-03 05:51:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：我們預計未來兩年將向這些客戶交付價值約 3500 億美元的人工智慧半導體產品。"
+    },
+    {
+      "id": "5074051",
+      "time": "2026-09-03 05:49:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴基斯坦財政部：透過雙檔歐洲債券交易發行 30 億美元，獲得近 600 億美元認購訂單。"
+    },
+    {
+      "id": "mkt:01a06418-9204-7118-846e-ee0f9e87cdd0",
+      "time": "2026-09-03 05:48:46",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO expects that even if product-mix shifts reduce gross margins, the company can maintain its operating margin."
+    },
     {
       "id": "5074050",
       "time": "2026-09-03 05:48:03",
