@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-01 10:34:27",
+  "updated": "2026-09-02 08:50:10",
   "items": [
+    {
+      "id": "2026090208",
+      "date": "2026-09-02",
+      "run_hour": 8,
+      "started_at": "2026-09-02 08:49:45",
+      "finished_at": "2026-09-02 08:50:10",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 6,
+      "failure_count": 6,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉美軍再轟伊朗 油價飆 全球債市遭拋售 道瓊跌逾400點 費半摔逾2% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6594634",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-02"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-09-01，預期日期是 2026-09-02",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-01"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-02",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-09-01",
+          "actual_date": "2026-09-01"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-09-01，預期日期是 2026-09-02",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-01"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "PARSE_ERROR",
+          "reason": "FactSet 頻道頁找不到 ytInitialData",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-01",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/228899",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-02"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202609020526022462.shtml",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-02"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-september-01-2026/",
+          "expected_date": "2026-09-01",
+          "actual_date": "2026-09-01"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/09/WBC_MorningReport02Sep2026.pdf",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-02"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-02",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-09-01，預期日期是 2026-09-02",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-02",
+          "actual_date": "2026-09-01"
+        }
+      ]
+    },
     {
       "id": "2026090110",
       "date": "2026-09-01",
