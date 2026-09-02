@@ -1,7 +1,1205 @@
 {
   "date": "2026-09-03",
-  "count": 309,
+  "count": 432,
   "items": [
+    {
+      "id": "mkt:01a06405-0dfc-7118-846e-bf694b5ab1f0",
+      "time": "2026-09-03 05:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Broadcom (AVGO.O) is up 2.85% in US after-hours trading after tumbling more than 6% immediately post-earnings."
+    },
+    {
+      "id": "5074043",
+      "time": "2026-09-03 05:22:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟稱以色列“E1區”定居點建設破壞“兩國方案”】歐盟外交與安全政策高階代表卡婭·卡拉斯2日表示，以色列的“E1區”定居點建設專案將破壞“兩國方案”的前景。在歐盟成員國外長非正式會議後的新聞釋出會上，卡拉斯說，“E1區”定居點建設專案如同“在約旦河西岸插入一道楔子”，將進一步破壞“兩國方案”的前景。她還表示，定居者針對巴勒斯坦人的暴力事件仍在增加，很多時候沒有受到追究。（央視新聞）"
+    },
+    {
+      "id": "5074042",
+      "time": "2026-09-03 05:22:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "博通股價在財報電話會議期間轉漲，此前一度跌超6%。"
+    },
+    {
+      "id": "5074041",
+      "time": "2026-09-03 05:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計第四季度基礎設施軟體業務營收將穩定在約 87 億美元。"
+    },
+    {
+      "id": "5074040",
+      "time": "2026-09-03 05:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部發布委內瑞拉事實清單。"
+    },
+    {
+      "id": "mkt:01a063fd-655b-7118-846e-b72db6ebc2e4",
+      "time": "2026-09-03 05:19:05",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) rose sharply in after-hours trading, narrowing its decline to 0.5%."
+    },
+    {
+      "id": "5074039",
+      "time": "2026-09-03 05:18:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：2028 財年每股收益有望超過 30 美元。"
+    },
+    {
+      "id": "mkt:01a063fc-e0e4-7118-846e-afe1398aaec1",
+      "time": "2026-09-03 05:18:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO expects AI semiconductor revenue in fiscal 2028 to double again to $230 billion."
+    },
+    {
+      "id": "5074038",
+      "time": "2026-09-03 05:18:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計 2028 財年人工智慧半導體業務營收有望再度翻倍，達到 2300 億美元。"
+    },
+    {
+      "id": "mkt:01a063fc-3f6a-7118-846e-a7e307e457f8",
+      "time": "2026-09-03 05:17:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Broadcom (AVGO.O) chief executive said the company has secured supply to double AI revenue to about $115 billion by 2027."
+    },
+    {
+      "id": "mkt:01a063fb-fc4a-7118-846e-9e949f365bbd",
+      "time": "2026-09-03 05:17:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "AVGO.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company will deliver three generations of MTIA accelerators to Meta Platforms (META.O) from now through end-2027."
+    },
+    {
+      "id": "5074037",
+      "time": "2026-09-03 05:17:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：2027 年，我們已落實供應鏈保障，人工智慧業務營收有望翻倍至約 1150 億美元。"
+    },
+    {
+      "id": "mkt:01a063fb-47c1-7118-846e-92854116d994",
+      "time": "2026-09-03 05:16:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company is working with OpenAI to develop a third-generation XPU."
+    },
+    {
+      "id": "mkt:01a063fa-f7be-7118-846e-8faea8c8da21",
+      "time": "2026-09-03 05:16:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said OpenAI is expected to deploy more than 5 GW of Jelapeno and its next-generation XPUs by 2028."
+    },
+    {
+      "id": "5074036",
+      "time": "2026-09-03 05:16:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：公司仍按計劃將於 28 財年第四季度實現 GAAP 會計準則下盈利。"
+    },
+    {
+      "id": "5074035",
+      "time": "2026-09-03 05:15:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計到 2028 年 Meta 將實現 3 吉瓦的部署規模。"
+    },
+    {
+      "id": "mkt:01a063fa-71b9-7118-846e-805997de9492",
+      "time": "2026-09-03 05:15:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said OpenAI's Jalapeno project is proceeding as planned and is expected to deploy 1.3 GW in 2027."
+    },
+    {
+      "id": "5074034",
+      "time": "2026-09-03 05:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：從現在至 2027 年底，我們將向 Meta 交付三代 MTIA 加速器。"
+    },
+    {
+      "id": "mkt:01a063f9-b7e6-7118-846e-7e867f085f93",
+      "time": "2026-09-03 05:15:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) chief executive said ANTHROPIC is expected to be the company's largest XPU customer in 2027 and to remain so in 2028."
+    },
+    {
+      "id": "mkt:01a063f9-aabe-7118-846e-765127c65071",
+      "time": "2026-09-03 05:15:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company will have a clear line of sight to supply an additional 10 GW by 2028."
+    },
+    {
+      "id": "5074033",
+      "time": "2026-09-03 05:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：我們正與 OpenAI 合作開發第三代 XPU。"
+    },
+    {
+      "id": "5074032",
+      "time": "2026-09-03 05:14:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：2028 年，我們預計 OpenAI 將部署超過 5 吉瓦算力的 Jalapeno 及其下一代 XPU 產品。"
+    },
+    {
+      "id": "5074031",
+      "time": "2026-09-03 05:14:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：OpenAI 的 Jalapeno 專案按計劃將於 2027 年完成 1.3 吉瓦的部署。"
+    },
+    {
+      "id": "mkt:01a063f8-933b-7118-846e-6f8bb5d281e9",
+      "time": "2026-09-03 05:13:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO expects ANTHROPIC to deploy an additional 5GW of Google's TPU v8i in 2027."
+    },
+    {
+      "id": "5074030",
+      "time": "2026-09-03 05:13:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：Anthropic 有望在 2027 年成為我們最大的 XPU 客戶，並在 2028 年維持這一地位。"
+    },
+    {
+      "id": "5074029",
+      "time": "2026-09-03 05:13:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計 Anthropic 將於 2027 年再部署 5 吉瓦算力的谷歌 TPU 8I 版本。2028 年，我們有望實現新增 10 吉瓦的交付規模。"
+    },
+    {
+      "id": "5074028",
+      "time": "2026-09-03 05:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：未來數年內，每年將交付數百億顆 TPU。"
+    },
+    {
+      "id": "mkt:01a063f6-78a0-7118-846e-63e1c3fb98c6",
+      "time": "2026-09-03 05:11:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said he expects large-scale volume production and deliveries of a Meta Platforms (META.O)-customized MTIA accelerator to begin in Q4."
+    },
+    {
+      "id": "mkt:01a063f6-6388-7118-846e-5b36c76e57a4",
+      "time": "2026-09-03 05:11:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said FY2026 AI-business revenue guidance raised to $58.0 bln from $56.0 bln, implying 186% YoY growth."
+    },
+    {
+      "id": "mkt:01a063f5-9858-7118-846e-57223d0a1501",
+      "time": "2026-09-03 05:10:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said he expects to scale up large shipments of TPU v8I to Google (GOOG.O) in Q4."
+    },
+    {
+      "id": "5074027",
+      "time": "2026-09-03 05:10:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：將 2026 財年人工智慧業務營收指引從 560 億美元上調至 580 億美元，同比增長 186%。"
+    },
+    {
+      "id": "mkt:01a063f5-697a-7118-846e-4c663045928b",
+      "time": "2026-09-03 05:10:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【G20 members adopt Carolina Principles backing US 'light-touch' AI regulation】G20 members on Wednesday unanimously adopted a US‑proposed framework called the Carolina Principles, endorsing sector‑specific, differentiated regulation for AI and other emerging technologies. The framework calls for testing regimes to weigh the costs of delaying deployment and for stronger public‑private cooperation on technology trials. U.S. Commerce Secretary Lutnick said the adoption was an important win for the Trump administration and Silicon Valley; White House tech adviser Michael Kratsios said the U.S. message was to promote global economic growth and innovation. The principles will be submitted for formal adoption by leaders at the G20 summit in Doral, Florida in December, hosted by Trump."
+    },
+    {
+      "id": "5074026",
+      "time": "2026-09-03 05:09:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計第四季度將大規模量產交付 Meta 定製版 MTIA 加速器。"
+    },
+    {
+      "id": "mkt:01a063f4-b5ce-7118-846e-429bdbdaa044",
+      "time": "2026-09-03 05:09:36",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company is currently shipping TPU version 8I, ahead of MediaTek's V8T version."
+    },
+    {
+      "id": "5074025",
+      "time": "2026-09-03 05:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：預計第四季度將加快向 Anthropic 交付 Ironwood 晶片。"
+    },
+    {
+      "id": "mkt:01a063f4-6012-7118-846e-3e6c18c0e319",
+      "time": "2026-09-03 05:09:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company expects to accelerate shipments to ANTHROPIC in Q4."
+    },
+    {
+      "id": "5074024",
+      "time": "2026-09-03 05:09:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：同時預計第四季度將加大向谷歌批次交付 TPU 8I 版本產品。"
+    },
+    {
+      "id": "mkt:01a063f4-00dd-7118-846e-30755ab194a0",
+      "time": "2026-09-03 05:08:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "AVGO.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company began shipping next-generation TPU v8i to Google (GOOG.O) this quarter."
+    },
+    {
+      "id": "5074023",
+      "time": "2026-09-03 05:08:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：全新谷歌 TPU 效能與英偉達 Vera Rubin 持平或更優。"
+    },
+    {
+      "id": "5074022",
+      "time": "2026-09-03 05:07:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：本季度，我們已開始向谷歌量產交付下一代 TPU 8I 版本產品。"
+    },
+    {
+      "id": "5074021",
+      "time": "2026-09-03 05:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦調查局：正在調查數百萬美國駕照資訊因資料洩露遭曝光的相關報道。"
+    },
+    {
+      "id": "5074020",
+      "time": "2026-09-03 05:05:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（9月2日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7180元，較週二紐約尾盤漲41點，日內整體交投於6.7267-6.7161元區間。日線圖上，離岸人民幣8月20日以來持續高位窄幅震盪，8月24日曾漲至6.7128元。"
+    },
+    {
+      "id": "5074019",
+      "time": "2026-09-03 05:02:20",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【RBC稱財政部回購計劃並非“完全白費”】加拿大皇家銀行資本市場（RBC Capital Markets）的策略師表示，美國財政部擴大回購的計劃對長期國債仍具有“正面效應”，儘管30年期收益率已回升至該部門上月宣佈回購計劃前的大致水平。策略師在週三釋出的研究報告中指出，長端收益率大體上跟隨油價上漲而走高，而長端掉期利差自回購計劃宣佈以來一直維持漲幅，因此該計劃“並非完全白費”。"
+    },
+    {
+      "id": "te:markets:580590",
+      "time": "2026-09-03 05:01:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as US-Iran Hostilities Escalate — Brent rebounded to trade over $95 a barrel on Wednesday, extending a two-session rally that lifted prices to a six-week high. Renewed hostilities between the US and Iran rose of disruptions risks to Middle East crude exports. The US completed a wave of strikes against Iran on Tuesday, according to US Central Command. Iran’s state media reported that the Revolutionary Guard retaliated by targeting US military positions in Jordan, Kuwait, Bahrain, Iraq and the UAE. US President Donald Trump also indicated he was not interested in negotiating with Iran. Meanwhile, US Energy Secretary Chris Wright said more than 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest level since the war began in late February. Before the war, about 20 million barrels per day of crude and petroleum products passed through the strait. However, tanker traffic remains below its 10-day average, with Kpler reporting only four tanker crossings on Tuesday."
+    },
+    {
+      "id": "mkt:01a063ec-8dfb-7118-846e-2df3f33f307a",
+      "time": "2026-09-03 05:00:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign exchange reserves stood at $442.3 bln in August, up from $427.95 bln previously."
+    },
+    {
+      "id": "5074018",
+      "time": "2026-09-03 05:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國8月外匯儲備 4423億美元，前值4279.5億美元。"
+    },
+    {
+      "id": "mkt:01a063ec-67cd-7118-846e-252ff78598d3",
+      "time": "2026-09-03 05:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (Aug) | actual 442300000000B | previous 427950000000B"
+    },
+    {
+      "id": "mkt:01a063eb-76df-7118-846e-1893d3755dbb",
+      "time": "2026-09-03 04:59:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "AVGO.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Broadcom Q4 guidance below estimates; AI-chip growth under pressure】Broadcom (AVGO.O) forecast Q4 revenue of $34.8bn, below analysts' average $35.1bn and well under some expectations above $36bn, indicating AI-driven revenue may be ramping slower than investors expected. NVIDIA's strong guidance last week had boosted market demand assumptions for AI chips. Broadcom is rolling out custom AI processors to challenge NVIDIA; the business has won some large customers but remains at an early stage. Competitors Marvell and MediaTek, both supported by NVIDIA, add competitive pressure. Broadcom shares fell about 6% in after-hours trading."
+    },
+    {
+      "id": "te:markets:580589",
+      "time": "2026-09-03 04:58:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Gains as US-Iran Hostilities Escalate — Crude oil rebounded to trade over $90.50 a barrel on Wednesday, extending a two-session rally that lifted prices to a six-week high. Renewed hostilities between the US and Iran rose of disruptions risks to Middle East crude exports. The US completed a wave of strikes against Iran on Tuesday, according to US Central Command. Iran’s state media reported that the Revolutionary Guard retaliated by targeting US military positions in Jordan, Kuwait, Bahrain, Iraq and the UAE. US President Donald Trump also indicated he was not interested in negotiating with Iran. Meanwhile, US Energy Secretary Chris Wright said more than 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest level since the war began in late February. Before the war, about 20 million barrels per day of crude and petroleum products passed through the strait. However, tanker traffic remains below its 10-day average, with Kpler reporting only four tanker crossings on Tuesday."
+    },
+    {
+      "id": "5074017",
+      "time": "2026-09-03 04:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價週三漲約1.4%，美股盤初逼近4400美元】週三（9月2日）紐約尾盤，現貨黃金漲1.39%，報4389.36美元/盎司，亞太盤初至北京時間20:00形成日內底部——呈現出W形走勢，隨後出現一波顯著的上漲行情。現貨白銀漲1.97%，報65.3440美元/盎司。COMEX銅期貨漲0.09%，報6.6065美元/磅。在美股時段交易的費城金銀指數收漲3%，報403.57點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲1.91%，報2794.88點。在美股時段交易的原材料指數收漲2.27%，金屬與礦業指數收漲2.26%。State Street金屬與礦業ETF收漲3.23%，報119.51美元。"
+    },
+    {
+      "id": "5074016",
+      "time": "2026-09-03 04:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與CFO：考慮到待交付訂單的轉化節奏，預計人工智慧系統營收至第四財季將環比改善。"
+    },
+    {
+      "id": "5074015",
+      "time": "2026-09-03 04:54:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與CFO：季度結束後，慧與獲得一份來自超大規模雲客戶的數十億美元伺服器訂單。"
+    },
+    {
+      "id": "mkt:01a063e6-0c65-7118-846e-128d5cce4cec",
+      "time": "2026-09-03 04:53:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBNZ chair Breman said the official cash rate (OCR) at 2.75% will support the economic recovery."
+    },
+    {
+      "id": "5074014",
+      "time": "2026-09-03 04:51:53",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：2.75% 的官方現金利率將支撐經濟復甦。"
+    },
+    {
+      "id": "mkt:01a063e2-ba43-7118-846e-09c229f15f9f",
+      "time": "2026-09-03 04:49:58",
+      "tags": [
+        "MKT News",
+        "JPM.N"
+      ],
+      "text": "Financial Times, citing people familiar with the matter, said JP Morgan (JPM.N) scaled back financing to Jane Street last year after the trading firm expanded into the bond market and became a direct competitor."
+    },
+    {
+      "id": "mkt:01a063e0-4dc4-7118-846e-0711461bd0a2",
+      "time": "2026-09-03 04:47:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft to disclose Azure revenue from FY2027; overhauls reporting structure】Microsoft (MSFT.O) will begin disclosing quarterly Azure revenue starting with its fiscal 2027 first-quarter report, ending its practice of publishing only Azure growth rates. The company is reorganizing reporting segments: Intelligent Cloud and Productivity & Business Processes will be combined into Agents & Infra, and More Personal Computing will be recast as Devices & Consumer. Microsoft said the change reflects Azure’s scale and importance and the impact of AI in blurring product boundaries. Azure generated over $100bn in revenue in the year ended June, up from $75bn the prior year, and accounts for roughly 30% of Microsoft’s total revenue. This is Microsoft’s first major financial-reporting overhaul since 2015."
+    },
+    {
+      "id": "mkt:01a063e0-13fe-7118-846d-fee77547981c",
+      "time": "2026-09-03 04:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said some firms are pricing cautiously."
+    },
+    {
+      "id": "5074013",
+      "time": "2026-09-03 04:46:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通縮減了對簡街資本的債券交易授信。"
+    },
+    {
+      "id": "5074012",
+      "time": "2026-09-03 04:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：美國不會進一步放寬出口管制。"
+    },
+    {
+      "id": "5074011",
+      "time": "2026-09-03 04:43:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與CEO：預計伺服器需求將維持異常高位，慧與的潛在訂單規模仍數倍於現有待交付訂單。"
+    },
+    {
+      "id": "5074010",
+      "time": "2026-09-03 04:43:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME Group）：美國天然氣期貨流通合約創歷史新高。9月1日當天，基準Henery Hub天然氣期貨未平倉合約達到180.7萬手，突破2024年11月所創歷史最高記錄180.1萬手合約。"
+    },
+    {
+      "id": "te:markets:580586",
+      "time": "2026-09-03 04:43:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Jumps to Near Four-Month High — The Ibovespa jumped 3% to close at 185,205 on Wednesday, nearing a four-month high after a new election poll showed President Lula and Senator Flávio Bolsonaro in a technical tie. Both candidates recorded 42% and 41% of voting intentions, respectively, in a potential runoff. Markets view Bolsonaro as more fiscally restrictive amid elevated yields and weak business activity. Bond yields fell after GDP data showed a contraction in consumer spending, while industrial production rebounded less than expected. Financials rallied, with Banco do Brasil up 4.9% and Itaú 3.8%. B3 gained 3.8% after tax assessments totaling R$2.2 billion were canceled. Utilities also gained, Axia rose 3.4% and Sabesp 4.2%. Vale gained 3.2% despite lower iron ore prices, while Petrobras added 2.8% as oil rebounded. Magazine Luiza jumped 16.9% on a Mercado Livre partnership, while Azzas surged 11.3% after agreeing to split its businesses into two listed companies."
+    },
+    {
+      "id": "5074009",
+      "time": "2026-09-03 04:42:58",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：部分企業在定價方面表現出剋制。"
+    },
+    {
+      "id": "mkt:01a063dc-3df8-7118-846d-f72bb7d4c10e",
+      "time": "2026-09-03 04:42:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chair Breman said he does not want opportunistic price manipulation to occur."
+    },
+    {
+      "id": "mkt:01a063db-8e6b-7118-846d-ef4b53146846",
+      "time": "2026-09-03 04:42:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) revised its fiscal 2027 first-quarter outlook and now expects Microsoft 365 Commercial cloud revenue to grow about 17% YoY on a constant-currency basis."
+    },
+    {
+      "id": "5074008",
+      "time": "2026-09-03 04:42:02",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：不希望出現投機性定價行為。"
+    },
+    {
+      "id": "mkt:01a063da-5bc3-7118-846d-e475b5af8a18",
+      "time": "2026-09-03 04:40:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Attorney General Branch said the Justice Department is working with X to track cybercriminals who this week attempted to target hundreds of thousands of X users."
+    },
+    {
+      "id": "5074007",
+      "time": "2026-09-03 04:40:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與CEO：供應受限持續影響慧與滿足客戶增長需求的能力。"
+    },
+    {
+      "id": "mkt:01a063d9-e8d4-7118-846d-de2c5de6e52d",
+      "time": "2026-09-03 04:40:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBNZ governor said failing to act on monetary policy would risk inf expectations spiraling out of control."
+    },
+    {
+      "id": "5074006",
+      "time": "2026-09-03 04:40:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：調整後 27 財年第一財季微軟 365 商業雲固定匯率口徑營收增速預期約 17%。"
+    },
+    {
+      "id": "5074005",
+      "time": "2026-09-03 04:39:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：調整後 27 財年第一財季搜尋與廣告業務（不含 TAC）營收增速預期為中至高個位數。"
+    },
+    {
+      "id": "5074004",
+      "time": "2026-09-03 04:39:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇：司法部正與 X 平臺合作，追查本週針對數十萬 X 使用者發動未遂攻擊的網路犯罪分子。"
+    },
+    {
+      "id": "5074003",
+      "time": "2026-09-03 04:38:54",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：若貨幣政策不作出應對，通脹預期存在失控的切實風險。"
+    },
+    {
+      "id": "mkt:01a063d7-620e-7118-846d-d07cc5a8d002",
+      "time": "2026-09-03 04:37:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) adjusted its fiscal 2027 first-quarter outlook, forecasting Devices & Consumer revenue of $14.7–15.2 billion."
+    },
+    {
+      "id": "mkt:01a063d7-46a8-7118-846d-cfa3eb075fb1",
+      "time": "2026-09-03 04:37:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Microsoft (MSFT.O): under the new reporting structure, Azure will be more purely a consumption-based cloud platform and infrastructure business."
+    },
+    {
+      "id": "5074002",
+      "time": "2026-09-03 04:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：調整後 27 財年第一財季裝置與消費業務營收預期為 147 億‑152 億美元。"
+    },
+    {
+      "id": "5074001",
+      "time": "2026-09-03 04:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：在新的報告架構下，Azure 將 “更純粹地成為我們基於消費模式的平臺與基礎設施業務”。"
+    },
+    {
+      "id": "mkt:01a063d6-82de-7118-846d-c0b316ce253a",
+      "time": "2026-09-03 04:36:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) revised its fiscal 2027 first-quarter outlook, expecting \"Agents & Infra\" revenue of $75.15–75.75 bln."
+    },
+    {
+      "id": "mkt:01a063d5-f4e1-7118-846d-bde7edcc8012",
+      "time": "2026-09-03 04:36:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) says AI is blurring boundaries between its products and reshaping its business model."
+    },
+    {
+      "id": "5074000",
+      "time": "2026-09-03 04:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：調整後 27 財年第一財季智慧代理與基礎設施板塊營收預期為 751.5 億‑757.5 億美元。"
+    },
+    {
+      "id": "mkt:01a063d5-7c5b-7118-846d-b57d3029e614",
+      "time": "2026-09-03 04:35:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Microsoft (MSFT.O) revised its outlook for the first quarter of fiscal 2027, forecasting Azure revenue growth of 44-45% YoY on a constant-currency basis."
+    },
+    {
+      "id": "5073999",
+      "time": "2026-09-03 04:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：調整後 27 財年第一財季 Azure 固定匯率口徑營收增速預期為 44%‑45%。"
+    },
+    {
+      "id": "te:markets:580585",
+      "time": "2026-09-03 04:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.56% Higher — The Dow Jones Index rose 295 points or 0.56 percent on Wednesday to close at 53061 points. Leading the gains are Nvidia (3.12%), American Express (1.84%) and Walt Disney (1.74%). Top losers were Honeywell International (-1.85%), 3M (-0.93%) and Microsoft (-0.89%)."
+    },
+    {
+      "id": "mkt:01a063d4-65d1-7118-846d-abf59f2925f1",
+      "time": "2026-09-03 04:34:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) reiterated Q4 Azure revenue of 29.42 bln dlr."
+    },
+    {
+      "id": "mkt:01a063d3-da15-7118-846d-a64bf56b9e9a",
+      "time": "2026-09-03 04:33:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "According to an SEC filing, Microsoft (MSFT.O) will report two business segments in fiscal 2027: Agency and Infrastructure, and Devices and Consumer."
+    },
+    {
+      "id": "5073998",
+      "time": "2026-09-03 04:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：重述第四財季 Azure 營收為 294.2 億美元。"
+    },
+    {
+      "id": "5073997",
+      "time": "2026-09-03 04:32:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：27 財年將分兩大業務板塊披露財報，智慧代理與基礎設施、裝置與消費者業務。"
+    },
+    {
+      "id": "mkt:01a063d2-6d08-7118-846d-9c656f1271a3",
+      "time": "2026-09-03 04:32:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick said G20 members agreed on technology principles."
+    },
+    {
+      "id": "5073996",
+      "time": "2026-09-03 04:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭銀行考慮發行固定利率票據。"
+    },
+    {
+      "id": "mkt:01a063d0-b3ee-7118-846d-97a23961c46f",
+      "time": "2026-09-03 04:30:16",
+      "tags": [
+        "MKT News",
+        "SNOW.O",
+        "Impact bullish"
+      ],
+      "text": "【Snowflake raises full-year product revenue guide as AI assistant CoCo adoption lifts shares 21%】Snowflake shares jumped more than 21% after hours after the cloud data software company raised its fiscal-year product revenue guide and said adoption of its AI-assisted coding tool CoCo accelerated. Snowflake now expects product revenue of about $6.07 bln for the fiscal year ending January, above its May forecast and analysts' $5.86 bln consensus; product sales account for roughly 95% of total revenue. The company added over 2,000 customer accounts using CoCo in the quarter, bringing total CoCo-using accounts to 9,100. For the quarter to July, product revenue rose 37% YoY to $1.49 bln, beating analysts' $1.42 bln estimate. Remaining performance obligations were $9.0 bln, below the $9.37 bln analyst consensus."
+    },
+    {
+      "id": "5073995",
+      "time": "2026-09-03 04:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：G20 成員國就技術原則達成一致。"
+    },
+    {
+      "id": "mkt:01a063d0-45f0-7118-846d-88d29328aafd",
+      "time": "2026-09-03 04:29:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RBNZ Governor Breman said persistently high fuel prices raise the risk of larger-than-previously-expected second‑round (indirect) effects."
+    },
+    {
+      "id": "5073994",
+      "time": "2026-09-03 04:29:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "NBA 對快船隊老闆鮑爾默處以為期一年的活動禁入處罰。"
+    },
+    {
+      "id": "5073993",
+      "time": "2026-09-03 04:29:03",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：燃油價格持續高企，意味著間接影響風險高於我們此前的判斷。"
+    },
+    {
+      "id": "5073992",
+      "time": "2026-09-03 04:26:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼邀請Fink、Gray參加加拿大投資峰會。"
+    },
+    {
+      "id": "5073991",
+      "time": "2026-09-03 04:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國秘書長對美伊新一輪交火深表關切】聯合國秘書長古特雷斯的發言人迪雅裡克2日稱，古特雷斯對於美國和伊朗最新一輪交火表示嚴重關切，敦促兩國迴歸外交途徑解決衝突。（新華社）"
+    },
+    {
+      "id": "5073990",
+      "time": "2026-09-03 04:25:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "NBA：快船隊被處以 3000 萬美元罰款。"
+    },
+    {
+      "id": "te:markets:580584",
+      "time": "2026-09-03 04:23:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Broadcom earnings above expectations at 3.32 USD — Broadcom (AVGO) released earnings per share at 3.32 USD, compared to market expectations of 3.21 USD."
+    },
+    {
+      "id": "te:markets:580583",
+      "time": "2026-09-03 04:23:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains After BoC Holds Policy Rate — The S&P/TSX Composite Index rose 0.7% to close at 36,092 on Wednesday after the Bank of Canada kept its key policy rate unchanged at 2.25%, as widely expected. The BoC said recent data had reaffirmed the Governing Council’s view of a broadening economic recovery. However, it noted that upside risks to inflation had increased, while new tariffs had made the growth outlook more uncertain. The central bank left the future path for monetary policy open, saying it would adjust policy as needed. Major banks traded higher, with RBC rising 1.7%, TD Bank adding 1.2%, BMO gaining 2.2%, Scotiabank advancing 1.9%, and CIBC climbing 2.4%. Miners rebounded as gold prices rose following a recent selloff, with Agnico Eagle up 1.2%, Barrick gaining 2%, WPM advancing 3.6%, and Franco-Nevada adding 1.5%. Shopify rose 1%, tracking a rebound in US technology stocks."
+    },
+    {
+      "id": "mkt:01a063c9-3ff1-7118-846d-87ab33452560",
+      "time": "2026-09-03 04:22:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said that after two increases in the official cash rate (OCR) the bank may take some time to assess the measures' impact on the economy."
+    },
+    {
+      "id": "mkt:01a063c9-37da-7118-846d-7e8a4a4c4a96",
+      "time": "2026-09-03 04:22:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the economic recovery is uneven, but the bank expects the recovery’s scope to broaden."
+    },
+    {
+      "id": "mkt:01a063c8-7234-7118-846d-761b33c8afdb",
+      "time": "2026-09-03 04:21:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said export-led growth is beginning to spread to other parts of the economy."
+    },
+    {
+      "id": "mkt:01a063c7-eafa-7118-846d-6f7e2253571c",
+      "time": "2026-09-03 04:20:41",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) reported free cash flow of $13.7 billion in fiscal 2026 Q3."
+    },
+    {
+      "id": "mkt:01a063c7-7950-7118-846d-652abaca506d",
+      "time": "2026-09-03 04:20:12",
+      "tags": [
+        "MKT News",
+        "AVGO.O"
+      ],
+      "text": "Broadcom (AVGO.O) expects non-GAAP operating income to be about 66% of forecast revenue for fiscal 2026 Q4."
+    },
+    {
+      "id": "mkt:01a063c7-4b16-7118-846d-599becf6ba9a",
+      "time": "2026-09-03 04:20:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【U.S. Commerce Secretary: Anthropic has repaired relations with Trump administration】U.S. Commerce Secretary Lutnick said AI firm Anthropic and the Trump administration have repaired a months-long dispute over national security, with Trump and other officials helping bridge differences and secure the company's support. The Commerce Department briefly imposed export controls on two of Anthropic’s top models in June and lifted them two weeks later after Anthropic implemented measures to address government national security concerns."
+    },
+    {
+      "id": "mkt:01a063c5-ef74-7118-846d-5412f7718aa5",
+      "time": "2026-09-03 04:18:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Broadcom (AVGO.O) guides AI semiconductor revenue for fiscal 2026 Q4 at $21.7 billion, up 236% YoY."
+    },
+    {
+      "id": "5073989",
+      "time": "2026-09-03 04:18:28",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：經過兩次上調官方現金利率（OCR）之後，我們或許可以花些時間評估此舉對經濟造成的影響。"
+    },
+    {
+      "id": "5073988",
+      "time": "2026-09-03 04:17:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團（G20）： 投資基礎研究，以實現技術突破。發展新興技術需維護國家主權。"
+    },
+    {
+      "id": "mkt:01a063c5-546b-7118-846d-4cac9e4e4acd",
+      "time": "2026-09-03 04:17:51",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Broadcom (AVGO.O) fell 6% in U.S. after-hours trading after reporting earnings."
+    },
+    {
+      "id": "mkt:01a063c4-af94-7118-846d-429bb5a3a769",
+      "time": "2026-09-03 04:17:09",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom (AVGO.O) reported fiscal 2026 Q3 net income of $13.1 billion, versus $4.14 billion a year earlier and below the $14.498 billion consensus."
+    },
+    {
+      "id": "mkt:01a063c4-5bf1-7118-846d-3eb06711ba8e",
+      "time": "2026-09-03 04:16:47",
+      "tags": [
+        "MKT News",
+        "AVGO.O"
+      ],
+      "text": "Broadcom (AVGO.O) guides fiscal 2026 Q4 revenue at $34.8 billion."
+    },
+    {
+      "id": "5073987",
+      "time": "2026-09-03 04:16:00",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲助理主席西爾克：剔除燃料後的通脹水平 “高得令人擔憂”。"
+    },
+    {
+      "id": "5073986",
+      "time": "2026-09-03 04:15:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "博通第三財季調整後淨收入295.9億美元，分析師預期294.5億美元。\n第三財季半導體解決方案收入208.4億美元，分析師預期205.1億美元。\n第三財季AI半導體營收167億美元，分析師預期159.3億美元。\n第三財季調整後每股收益（EPS）為3.32美元，分析師預期3.23美元。\n預計第四財季營收大約348億美元，分析師預期350.5億美元。\n博通（AVGO）美股盤後跌4%。"
+    },
+    {
+      "id": "mkt:01a063c3-80fb-7118-846d-3641e65c3662",
+      "time": "2026-09-03 04:15:51",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) FY2026 Q3 revenue $29.591 billion, up from $15.952 billion a year earlier; market consensus $29.362 billion."
+    },
+    {
+      "id": "5073985",
+      "time": "2026-09-03 04:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：預計未來幾個月核心通脹將繼續小幅上行。"
+    },
+    {
+      "id": "5073984",
+      "time": "2026-09-03 04:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團（G20）部長：各成員國應制定本國人工智慧政策。"
+    },
+    {
+      "id": "5073983",
+      "time": "2026-09-03 04:12:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團（G20）釋出聯合宣告。"
+    },
+    {
+      "id": "5073982",
+      "time": "2026-09-03 04:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：逐步撤出刺激政策是恰當的。有助於將通脹回落至目標水平，同時仍能支撐經濟增長與就業。"
+    },
+    {
+      "id": "5073981",
+      "time": "2026-09-03 04:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：巴布亞紐幾內亞地區發生 5.67 級地震。"
+    },
+    {
+      "id": "5073980",
+      "time": "2026-09-03 04:12:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：蘋果地圖剛剛宣佈，已將安大略湖更名為美國湖。至此，谷歌地圖與蘋果地圖之間這項至關重要的更名工作已經完成、正式生效且具備約束力。"
+    },
+    {
+      "id": "te:markets:580582",
+      "time": "2026-09-03 04:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound on Big Tech Gains — The US stock indices closed higher on Wednesday, rebounding as heavyweight technology stocks posted gains. The S&P 500 rose 0.5%, the Nasdaq gained 0.2%, and the Dow added 295 points. Financials and technology shares recovered after rising Treasury yields in recent sessions had weighed on the outlook for credit-sensitive sectors. Hyperscalers were mostly higher, with Alphabet up 0.6%, Meta rising 2.5%, and Oracle gaining 3.1%. Alphabet was also supported after a federal judge ruled that Google would not have to divest its advertising exchange, instead requiring the company to make its ad-tech tools interoperable with rivals. Meanwhile, Nvidia jumped 3.2% on reports it is nearing a $14 billion acquisition of AI startup Hugging Face. Dell soared 15.8% after beating earnings expectations and raising its revenue guidance. In contrast, Palo Alto sank 9.3% despite posting better-than-expected quarterly results, while Broadcom shed 0.7% ahead of its earnings report after the closing bell."
+    },
+    {
+      "id": "5073979",
+      "time": "2026-09-03 04:10:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Snowflake二季度營收15.5億美元，分析師預期14.9億美元。\n二季度產品收入14.9億美元，分析師預期14.2億美元。\n二季度調整後、稀釋後每股收益（EPS）為0.62美元，分析師預期0.45美元。\n預計全年產品營收60.7億美元，分析師預期58.6億美元，公司原本預計58.4億美元。\n預計三季度產品營收15.9億美元（左右），分析師預期15.1億美元。"
+    },
+    {
+      "id": "te:markets:580581",
+      "time": "2026-09-03 04:09:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hewlett Packard earnings above expectations at 1.11 USD — Hewlett Packard (HPE) released earnings per share at 1.11 USD, compared to market expectations of 0.92 USD."
+    },
     {
       "id": "5073978",
       "time": "2026-09-03 04:07:48",
