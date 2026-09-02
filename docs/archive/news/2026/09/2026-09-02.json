@@ -1,7 +1,104 @@
 {
   "date": "2026-09-02",
-  "count": 1282,
+  "count": 1292,
   "items": [
+    {
+      "id": "mkt:01a05fe4-26ec-7118-844f-2a6d112f22bf",
+      "time": "2026-09-02 10:13:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's 5-year government bond yield rose 4.0 bps to 2.295%, a record high."
+    },
+    {
+      "id": "5072148",
+      "time": "2026-09-02 10:12:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行目前預計2028年第一季度年通脹率將低於2%。"
+    },
+    {
+      "id": "mkt:01a05fe3-cfa7-7118-844f-20ff511189d0",
+      "time": "2026-09-02 10:12:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The Thai baht weakened to 33.355 per U.S. dollar, its weakest level since early August."
+    },
+    {
+      "id": "5072147",
+      "time": "2026-09-02 10:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本全家便利店將於9月22日起下調部分飯糰價格。"
+    },
+    {
+      "id": "mkt:01a05fe3-a8d1-7118-844f-18cb61f55a7f",
+      "time": "2026-09-02 10:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects economic recovery to have resumed in Q3; recovery remains uneven."
+    },
+    {
+      "id": "5072146",
+      "time": "2026-09-02 10:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建省鐵路暑運累計傳送旅客2908.1萬人次】據福建日報，8月31日，為期62天的2026年鐵路暑運正式落幕。暑運期間，中國鐵路南昌局集團有限公司累計傳送旅客6037.8萬人次，其中福建傳送旅客2908.1萬人次。"
+    },
+    {
+      "id": "mkt:01a05fe3-7194-7118-844f-175a065e8f46",
+      "time": "2026-09-02 10:12:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "RBNZ said all members agreed economic activity faces significant downside risks and the recovery may remain uneven."
+    },
+    {
+      "id": "mkt:01a05fe3-5fe3-7118-844f-0d9b4470bc78",
+      "time": "2026-09-02 10:12:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Paul Conway and MPC member Carl Hansen said inflation risks are balanced."
+    },
+    {
+      "id": "mkt:01a05fe3-157f-7118-844f-055b7048eded",
+      "time": "2026-09-02 10:11:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "002594.SZ",
+        "Impact bearish",
+        "1211.HK"
+      ],
+      "text": "BYD shares fell across listings, with A-shares down over 1% and H-shares down over 3%; the company reported August new-energy vehicle production of 440,703 units and sales of 440,293 units."
+    },
+    {
+      "id": "mkt:01a05fe2-403e-7118-844e-fac09278c16f",
+      "time": "2026-09-02 10:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ members Hailey Goulley, Assistant Governor Silk, member Prasanna Gai and Chair Breman said inflation carries upside risks relative to the central forecast."
+    },
     {
       "id": "mkt:01a05fe0-b174-7118-844e-f777193e1ebf",
       "time": "2026-09-02 10:09:15",

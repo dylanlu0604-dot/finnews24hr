@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-02 10:10:07",
-  "count": 12860,
+  "updated": "2026-09-02 10:14:12",
+  "count": 12857,
   "items": [
+    {
+      "id": "mkt:01a05fe4-26ec-7118-844f-2a6d112f22bf",
+      "time": "2026-09-02 10:13:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's 5-year government bond yield rose 4.0 bps to 2.295%, a record high."
+    },
+    {
+      "id": "5072148",
+      "time": "2026-09-02 10:12:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行目前預計2028年第一季度年通脹率將低於2%。"
+    },
+    {
+      "id": "mkt:01a05fe3-cfa7-7118-844f-20ff511189d0",
+      "time": "2026-09-02 10:12:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The Thai baht weakened to 33.355 per U.S. dollar, its weakest level since early August."
+    },
+    {
+      "id": "5072147",
+      "time": "2026-09-02 10:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本全家便利店將於9月22日起下調部分飯糰價格。"
+    },
+    {
+      "id": "mkt:01a05fe3-a8d1-7118-844f-18cb61f55a7f",
+      "time": "2026-09-02 10:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ expects economic recovery to have resumed in Q3; recovery remains uneven."
+    },
+    {
+      "id": "5072146",
+      "time": "2026-09-02 10:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建省鐵路暑運累計傳送旅客2908.1萬人次】據福建日報，8月31日，為期62天的2026年鐵路暑運正式落幕。暑運期間，中國鐵路南昌局集團有限公司累計傳送旅客6037.8萬人次，其中福建傳送旅客2908.1萬人次。"
+    },
+    {
+      "id": "mkt:01a05fe3-7194-7118-844f-175a065e8f46",
+      "time": "2026-09-02 10:12:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "RBNZ said all members agreed economic activity faces significant downside risks and the recovery may remain uneven."
+    },
+    {
+      "id": "mkt:01a05fe3-5fe3-7118-844f-0d9b4470bc78",
+      "time": "2026-09-02 10:12:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Paul Conway and MPC member Carl Hansen said inflation risks are balanced."
+    },
+    {
+      "id": "mkt:01a05fe3-157f-7118-844f-055b7048eded",
+      "time": "2026-09-02 10:11:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "002594.SZ",
+        "Impact bearish",
+        "1211.HK"
+      ],
+      "text": "BYD shares fell across listings, with A-shares down over 1% and H-shares down over 3%; the company reported August new-energy vehicle production of 440,703 units and sales of 440,293 units."
+    },
+    {
+      "id": "mkt:01a05fe2-403e-7118-844e-fac09278c16f",
+      "time": "2026-09-02 10:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ members Hailey Goulley, Assistant Governor Silk, member Prasanna Gai and Chair Breman said inflation carries upside risks relative to the central forecast."
+    },
     {
       "id": "mkt:01a05fe0-b174-7118-844e-f777193e1ebf",
       "time": "2026-09-02 10:09:15",
@@ -117875,124 +117972,6 @@
         "CNH"
       ],
       "text": "【MIIT to build more specialized, refined, distinctive and innovative \"little giants\" and single-product manufacturing champions】The Ministry of Industry and Information Technology said at a State Council Information Office briefing on 15th Five-Year Plan implementation and accelerated new-type industrialization that it will prioritize cultivating high-quality firms and improve a tiered support system to scale specialized, refined, distinctive and innovative SMEs, create more \"little giant\" enterprises and single-product manufacturing champions. The ministry will deepen integration across large, medium and small firms to boost upstream-downstream industry-chain collaboration, deploy a nationwide SME service \"one network\", implement measures to reduce corporate burdens and expand innovation services."
-    },
-    {
-      "id": "mkt:01a03bd8-47de-7aab-911f-03e129397f90",
-      "time": "2026-08-26 10:13:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China has developed nearly 200 key AI standards】Xin Guobin, vice minister at the Ministry of Industry and Information Technology, said at a State Council Information Office briefing on Aug. 26 that AI is now embedded across the full application chain — R&D, design, manufacturing, quality inspection and operations and maintenance. Nearly 200 key AI standards have been developed, and the ministry is organizing multiple cities to carry out AI ethics reviews and service pilot programs."
-    },
-    {
-      "id": "mkt:01a03bd8-0e6b-7aab-911e-fd2ace76d1de",
-      "time": "2026-08-26 10:13:30",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China A-share CPO concept stocks slumped intraday; Jiepute fell over 10%, with Alaide, Hengdongguang, Liant Technology, Taichen Guang, Tianfu Communications and Changguang Huaxin also sliding."
-    },
-    {
-      "id": "5058860",
-      "time": "2026-08-26 10:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國已成功研製近200項人工智慧關鍵標準】工業和資訊化部副部長辛國斌8月26日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上說，從應用上看，我國人工智慧已經基本貫穿研發設計、生產製造、質檢運維等全鏈條。已有近200項人工智慧關鍵標準成功研製，正在組織多個城市開展人工智慧倫理審查與服務實踐。(新華社)"
-    },
-    {
-      "id": "5058859",
-      "time": "2026-08-26 10:12:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念震盪下挫 傑普特跌超10%】CPO概念盤中震盪下挫，傑普特跌超10%，阿萊德、蘅東光，聯特科技、太辰光、天孚通訊、長光華芯等跟跌。"
-    },
-    {
-      "id": "5058858",
-      "time": "2026-08-26 10:12:42",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【工信部：打造更多專精特新“小巨人”企業、製造業單項冠軍企業】8月26日，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，我們將著力培育優質企業，完善優質企業梯度培育體系，培育壯大專精特新中小企業，打造更多專精特新“小巨人”企業、製造業單項冠軍企業。深化大中小企業融通發展，促進產業鏈上下游協同創新。建好用好全國中小企業服務“一張網”，實施減輕企業負擔專項行動，推出更多創新服務，增強企業獲得感。(央視新聞)"
-    },
-    {
-      "id": "5058857",
-      "time": "2026-08-26 10:12:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海國際廣告節開幕：2028年全市廣告產業規模預計突破4800億元】《上海市推進廣告業擴能提質三年行動計劃（2026-2028年）》提出到2028年，全市廣告產業規模預計突破4800億元。上海今年首次釋出的《上海廣告業發展指數報告（2026）》顯示，2025年上海廣告業發展指數達135.1點，同比增長14.1%，廣告業總體呈現創新驅動、數智轉型、量質齊升的良好態勢。產業實力方面，去年上海市規上廣告企業營收達4204.8億元，佔全國的20.5%；產業創新方面，上海創意密集型廣告業務佔全國的40%，“創意濃度”全國領先；數字廣告業態蓬勃發展，AI賦能作用強勁，全市規上網際網路廣告企業達591家，營收佔比提升至85.4%。經濟效益方面，2025年，全市廣告企業納稅額為185.2億元，稅收貢獻達歷史高位。（上觀新聞）"
-    },
-    {
-      "id": "5058856",
-      "time": "2026-08-26 10:12:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華為向美國惠普公司授權部分WiFi專利技術】今日，華為與惠普公司（HP Inc.）宣佈簽署一項多年期全球專利交叉許可協議，其中包括華為向惠普公司許可部分WiFi專利。這一具有里程碑意義的協議不僅體現了雙方在智慧財產權許可領域的合作，也彰顯了華為在創新能力和核心技術實力方面的優勢，以及惠普在計算機及外圍裝置領域的全球領先地位。 華為首席智慧財產權官樊志勇表示：“華為很高興與惠普公司達成這項專利交叉許可協議。該協議充分證明了華為在資訊通訊技術（ICT）前沿領域持續創新。透過專利許可，華為將創新成果與行業共享，特別是在標準化技術領域，為全球消費者帶來領先的技術體驗。"
-    },
-    {
-      "id": "5058855",
-      "time": "2026-08-26 10:11:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：希望兩岸年輕人同心同行 為推動兩岸關係和平發展匯聚青春力量】國務院臺辦舉行例行新聞釋出會。有記者請發言人介紹同心同行-兩岸青年交流季上海站活動情況。請問今年國共兩黨青年雙向交流機制化平臺還有哪些活動規劃?發言人張晗表示，活動是建立國共兩黨雙向交流機制化平臺的具體舉措，兩岸各界人士和青年代表約1000人參加。兩岸青年在論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討，還將赴上海、浙江等地參訪研習，充分展現兩岸青年積極向上，攜手奮進的精神風貌。活動將持續至8月28日。接下來透過國共兩黨雙向交流機制化平臺，我們將邀請更多團組來大陸交流參訪，內容精彩紛呈。我們也將誠摯邀請廣大臺灣青年朋友來大陸走一走、看一看，希望兩岸年輕人同心同行，為推動兩岸關係和平發展、融合發展，不斷匯聚青春力量。"
-    },
-    {
-      "id": "mkt:01a03bd5-bc1b-7aab-911e-f3cbbca24b54",
-      "time": "2026-08-26 10:10:58",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "【Institution: Australian inflation stronger than expected; markets to focus on policy-tightening prospects】State Street Global Markets Asia-Pacific macro strategist Dwyfor Evans said July Australian CPI came in stronger than expected and could prompt markets to focus further on the Reserve Bank of Australia's recent minutes noting inflation risks remain elevated. He added July CPI was 3.5% YoY, and debate over policy tightening will remain the market focus and, in a relative-rate backdrop, should support the AUD."
-    },
-    {
-      "id": "mkt:01a03bd5-84c6-7aab-911e-e92d3d4f5518",
-      "time": "2026-08-26 10:10:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Heihe–Daqing gas pipeline starts construction; annual throughput to rise 10 bln cubic meters】National Pipeline Network Group says construction has begun on the Heihe–Daqing natural gas pipeline in Heilongjiang. The project, listed under the national oil and gas development \"15th Five-Year Plan\", will create a dual north-to-south route and increase annual north-to-south transmission capacity by 10 bln cubic meters."
-    },
-    {
-      "id": "mkt:01a03bd5-7568-7aab-911e-e4cbe9f030d8",
-      "time": "2026-08-26 10:10:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Asian Development Bank issued a JPY 20 bln yen-denominated bond to fund water infrastructure projects."
-    },
-    {
-      "id": "5058854",
-      "time": "2026-08-26 10:10:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞洲開發銀行：發行了200億日元計價債券，為水務基礎設施相關專案提供融資。"
-    },
-    {
-      "id": "5058853",
-      "time": "2026-08-26 10:10:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }
