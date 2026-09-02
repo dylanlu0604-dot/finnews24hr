@@ -1,7 +1,180 @@
 {
-  "updated": "2026-09-02 23:57:40",
-  "count": 11983,
+  "updated": "2026-09-03 00:02:11",
+  "count": 11990,
   "items": [
+    {
+      "id": "mkt:01a062da-56ab-7118-8468-d73eff39b452",
+      "time": "2026-09-03 00:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russian retail sales rose 5.4% YoY in January–July."
+    },
+    {
+      "id": "5073788",
+      "time": "2026-09-03 00:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：截至8月31日當週，俄羅斯周度消費者通縮率為0.01%（此前一週通脹率為0.01%）。"
+    },
+    {
+      "id": "5073787",
+      "time": "2026-09-03 00:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7月失業率為2.3%，前一個月經初步統計為2.2%。"
+    },
+    {
+      "id": "5073786",
+      "time": "2026-09-03 00:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7月俄羅斯零售額同比增長5.3%，前值為同比增長7.3%。"
+    },
+    {
+      "id": "5073785",
+      "time": "2026-09-03 00:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：1-7月俄羅斯零售額同比增長5.4%。"
+    },
+    {
+      "id": "mkt:01a062d9-e36e-7118-8468-cfc47d21ea56",
+      "time": "2026-09-03 00:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: For the week ended Aug 31, consumer prices fell 0.01% week-on-week (prior week +0.01%)."
+    },
+    {
+      "id": "te:economy:580555",
+      "time": "2026-09-03 00:00:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Canada 10Y Bond Yield traded above 3.8 percent — Canada 10Y Bond Yield rose above 3.8, according to over-the-counter interbank yield quotes for this government bond maturity."
+    },
+    {
+      "id": "5073784",
+      "time": "2026-09-03 00:00:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：上半年俄羅斯實際工資同比上漲6.5%。"
+    },
+    {
+      "id": "5073783",
+      "time": "2026-09-03 00:00:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：6月俄羅斯實際工資同比上漲3.4%，前值為同比上漲4.5%。"
+    },
+    {
+      "id": "5073782",
+      "time": "2026-09-03 00:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：俄羅斯第二季度資本投資同比下降6.6%，第一季度為同比下降14.3%。"
+    },
+    {
+      "id": "5073781",
+      "time": "2026-09-02 23:59:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮官員：特朗普今日將會見美國航空等企業高管】據一名白宮官員透露，美國總統特朗普今天將與多家旅遊業公司高管會面，包括美國航空、希爾頓、萬豪、美高梅國際酒店、凱撒控股以及洲際酒店。這名官員表示，特朗普還將會見Hard Rock、Booking Holdings、嘉年華、Raffles & Fairmont以及Venetian的高管。該官員稱，特朗普將與這些企業討論旅遊業增長以及夏季旅遊季。"
+    },
+    {
+      "id": "5073780",
+      "time": "2026-09-02 23:59:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盧特尼克：Anthropic已重新站到特朗普政府認可立場】美國商務部長盧特尼克表示，在經歷數月對峙之後，特朗普政府如今重新信任人工智慧企業Anthropic。當被問及是否信任Anthropic執行長達里奧·阿莫代伊時，盧特尼克表示：“我們信任Anthropic。他們按我們的要求完成了相關工作，現已重新站到正確立場。所以答案是：是的。”"
+    },
+    {
+      "id": "te:markets:580554",
+      "time": "2026-09-02 23:58:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Holds Near Two-Week Low on Risk Aversion — The euro remained little changed just below $1.16, hovering near a two-week low, as investors moved away from riskier assets amid concerns over the economic impact of the energy shock from renewed hostilities in the Middle East. Brent crude climbed to fresh six-week highs as traders weighed persistent risks to supply against signs that oil was still reaching global markets. Meanwhile, Eurozone inflation data released earlier this week showed price growth at its highest level in nearly three years, reinforcing expectations for further ECB tightening. Money markets are now pricing in almost a 100% probability of a rate hike next week, with another increase by year-end also seen as likely. ECB policymakers Olli Rehn and Martin Kocher warned that a prolonged conflict and rising inflation risks could warrant further tightening. In the US, markets are pricing in a 66% probability of a September rate hike following hawkish remarks from Fed Chair Kevin Warsh and a renewed rise in oil prices."
+    },
+    {
+      "id": "te:markets:580553",
+      "time": "2026-09-02 23:58:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pare Losses — US stocks recovered on Wednesday, trimming losses from the week amid a rebound for heavyweight tech stocks. The S&P 500 and the Dow rose 0.5% each, while the Nasdaq 100 remained slightly below the flatline. Technology companies and banks led the gains after the rise in bond yields in recent sessions had hampered the outlook on credit-sensitive industries. Meta jumped 2.5% and Wells Fargo surged 3%. Meanwhile, Nvidia jumped by nearly 5% on reports it is approaching the acquisition of Hugging Face for $14 billion. On top of that, Dell soared up to 10% in the session after beating its earnings and raising its revenue guidance. On the other hand, Palo Alto Networks sank 7% despite beating earnings estimates. Broadcom reports after the bell. Still, fresh strikes between Iran and the US maintained expectations of low energy supply from the Middle East in the near term, supporting yields across the curve."
+    },
+    {
+      "id": "te:economy:580552",
+      "time": "2026-09-02 23:57:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Hits Two-Year High — Canada’s 10-year government bond yield rose to 3.8% in September, an over two-year high, after the BoC highlighted upside risks to inflation. The BoC kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased while new tariffs had made the growth outlook more uncertain. It left the future path for monetary policy open, saying it would adjust policy as needed. Oil prices remained elevated amid supply disruptions stemming from the escalating Middle East conflict, adding to inflationary pressures and hawkish expectations for central banks. Meanwhile, markets are pricing in a nearly 66% chance of a 25-bps Fed rate hike later this month, up sharply from around 40% last week."
+    },
+    {
+      "id": "mkt:01a062d7-5822-7118-8468-c6e84d7fbd30",
+      "time": "2026-09-02 23:57:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's state oil company said Norway, at its request, detained a Russian vessel."
+    },
+    {
+      "id": "5073779",
+      "time": "2026-09-02 23:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所1月期銅參考收盤價為每噸14325美元。"
+    },
+    {
+      "id": "5073778",
+      "time": "2026-09-02 23:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司（Naftogaz）稱，挪威應該公司請求扣押一艘俄羅斯船隻。"
+    },
+    {
+      "id": "mkt:01a062d6-eeff-7118-8468-bdcac0933a23",
+      "time": "2026-09-02 23:57:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reported US Commerce Secretary Lutnick said ANTHROPIC is \"back on the right side\" and is cooperating with the Trump administration."
+    },
     {
       "id": "5073777",
       "time": "2026-09-02 23:56:39",
@@ -110209,113 +110382,6 @@
         "DXY"
       ],
       "text": "【Sources: Russia preparing to intensify strikes on Ukraine, sees talks at dead end】Three people close to the Kremlin said Russia, having judged peace talks to be at a dead end, is preparing to escalate military strikes on Ukraine. Moscow is considering stepped-up heavy conventional ballistic-missile strikes on Kyiv and other Ukrainian cities’ infrastructure targets, the sources said. They added that Putin is unlikely to end the war in response to sanctions or Ukrainian attacks on Russian refineries and logistics, and that Moscow increasingly views Ukrainian strikes as attacks by NATO states because of weapons and intelligence support. The sources said the current phase of hostilities has not yet reached the peak of military escalation."
-    },
-    {
-      "id": "mkt:01a03ece-af47-7aab-9134-2f0d36a2f6fe",
-      "time": "2026-08-27 00:02:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat: weekly inflation for the week to Aug 24 was 0.01%, versus -0.02% in the prior week."
-    },
-    {
-      "id": "mkt:01a03ece-29bf-7aab-9134-221315150794",
-      "time": "2026-08-27 00:01:33",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Rosstat: July industrial output +0.4% YoY, versus market consensus +0.7%."
-    },
-    {
-      "id": "mkt:01a03ecd-90e7-7aab-9134-19d5ddfe17c5",
-      "time": "2026-08-27 00:00:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKO issued a Yellow Rainstorm Warning for Hong Kong."
-    },
-    {
-      "id": "5060640",
-      "time": "2026-08-27 00:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "5060639",
-      "time": "2026-08-27 00:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：俄羅斯 1‑7 月工業產出增長 0.1%。"
-    },
-    {
-      "id": "5060638",
-      "time": "2026-08-27 00:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：截至 8 月 24 日當週，俄羅斯周度通脹率為 0.01%，此前一週為通縮 0.02%。"
-    },
-    {
-      "id": "5060637",
-      "time": "2026-08-27 00:00:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲截尾均值個人消費支出（PCE）物價指數 7 月年化漲幅為 2.2%，6 月為 1.5%。"
-    },
-    {
-      "id": "5060636",
-      "time": "2026-08-27 00:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元指數突破99關口，日內漲0.26%。"
-    },
-    {
-      "id": "mkt:01a03ecc-961f-7aab-9134-11ef51a7272b",
-      "time": "2026-08-26 23:59:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US soybeans extended intraday gains to 1.00%, trading at 1,250.25 cents per bushel."
-    },
-    {
-      "id": "5060635",
-      "time": "2026-08-26 23:58:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "CBOT小麥日內漲幅達2.5%，報766美分。"
-    },
-    {
-      "id": "mkt:01a03ecb-4f64-7aab-9134-0b33a68f643f",
-      "time": "2026-08-26 23:58:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. wheat futures rose 4.00% intraday to 731.50 c/bu; U.S. corn futures gained over 2.00% intraday to 534.00 c/bu."
-    },
-    {
-      "id": "te:markets:578337",
-      "time": "2026-08-26 23:57:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil Pares Losses — Brent crude oil pared earlier losses and traded just below $89 a barrel on Wednesday, following two consecutive sessions of declines, as signs of increased flows from the Persian Gulf eased supply concerns. Traders are closely watching talks between Iran and Oman over a possible arrangement to restore shipping through the Strait of Hormuz. US President Donald Trump said around 10 million barrels of oil had passed through the waterway on Tuesday, raising hopes that disruptions may be easing. Meanwhile, satellite data indicated that Saudi Arabia could be increasing oil loadings from terminals inside the Persian Gulf. At the same time, Iran and Oman are reportedly discussing broader arrangements for managing Hormuz, although uncertainty remains over whether Washington would accept an agreement excluding the US. In the US, EIA data showed crude inventories were virtually unchanged last week, while gasoline and diesel stocks fell to seasonal lows."
     }
   ]
 }

@@ -1,7 +1,94 @@
 {
   "date": "2026-09-02",
-  "count": 2924,
+  "count": 2933,
   "items": [
+    {
+      "id": "5073781",
+      "time": "2026-09-02 23:59:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮官員：特朗普今日將會見美國航空等企業高管】據一名白宮官員透露，美國總統特朗普今天將與多家旅遊業公司高管會面，包括美國航空、希爾頓、萬豪、美高梅國際酒店、凱撒控股以及洲際酒店。這名官員表示，特朗普還將會見Hard Rock、Booking Holdings、嘉年華、Raffles & Fairmont以及Venetian的高管。該官員稱，特朗普將與這些企業討論旅遊業增長以及夏季旅遊季。"
+    },
+    {
+      "id": "5073780",
+      "time": "2026-09-02 23:59:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盧特尼克：Anthropic已重新站到特朗普政府認可立場】美國商務部長盧特尼克表示，在經歷數月對峙之後，特朗普政府如今重新信任人工智慧企業Anthropic。當被問及是否信任Anthropic執行長達里奧·阿莫代伊時，盧特尼克表示：“我們信任Anthropic。他們按我們的要求完成了相關工作，現已重新站到正確立場。所以答案是：是的。”"
+    },
+    {
+      "id": "te:markets:580554",
+      "time": "2026-09-02 23:58:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Holds Near Two-Week Low on Risk Aversion — The euro remained little changed just below $1.16, hovering near a two-week low, as investors moved away from riskier assets amid concerns over the economic impact of the energy shock from renewed hostilities in the Middle East. Brent crude climbed to fresh six-week highs as traders weighed persistent risks to supply against signs that oil was still reaching global markets. Meanwhile, Eurozone inflation data released earlier this week showed price growth at its highest level in nearly three years, reinforcing expectations for further ECB tightening. Money markets are now pricing in almost a 100% probability of a rate hike next week, with another increase by year-end also seen as likely. ECB policymakers Olli Rehn and Martin Kocher warned that a prolonged conflict and rising inflation risks could warrant further tightening. In the US, markets are pricing in a 66% probability of a September rate hike following hawkish remarks from Fed Chair Kevin Warsh and a renewed rise in oil prices."
+    },
+    {
+      "id": "te:markets:580553",
+      "time": "2026-09-02 23:58:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pare Losses — US stocks recovered on Wednesday, trimming losses from the week amid a rebound for heavyweight tech stocks. The S&P 500 and the Dow rose 0.5% each, while the Nasdaq 100 remained slightly below the flatline. Technology companies and banks led the gains after the rise in bond yields in recent sessions had hampered the outlook on credit-sensitive industries. Meta jumped 2.5% and Wells Fargo surged 3%. Meanwhile, Nvidia jumped by nearly 5% on reports it is approaching the acquisition of Hugging Face for $14 billion. On top of that, Dell soared up to 10% in the session after beating its earnings and raising its revenue guidance. On the other hand, Palo Alto Networks sank 7% despite beating earnings estimates. Broadcom reports after the bell. Still, fresh strikes between Iran and the US maintained expectations of low energy supply from the Middle East in the near term, supporting yields across the curve."
+    },
+    {
+      "id": "te:economy:580552",
+      "time": "2026-09-02 23:57:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Hits Two-Year High — Canada’s 10-year government bond yield rose to 3.8% in September, an over two-year high, after the BoC highlighted upside risks to inflation. The BoC kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased while new tariffs had made the growth outlook more uncertain. It left the future path for monetary policy open, saying it would adjust policy as needed. Oil prices remained elevated amid supply disruptions stemming from the escalating Middle East conflict, adding to inflationary pressures and hawkish expectations for central banks. Meanwhile, markets are pricing in a nearly 66% chance of a 25-bps Fed rate hike later this month, up sharply from around 40% last week."
+    },
+    {
+      "id": "mkt:01a062d7-5822-7118-8468-c6e84d7fbd30",
+      "time": "2026-09-02 23:57:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's state oil company said Norway, at its request, detained a Russian vessel."
+    },
+    {
+      "id": "5073779",
+      "time": "2026-09-02 23:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所1月期銅參考收盤價為每噸14325美元。"
+    },
+    {
+      "id": "5073778",
+      "time": "2026-09-02 23:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司（Naftogaz）稱，挪威應該公司請求扣押一艘俄羅斯船隻。"
+    },
+    {
+      "id": "mkt:01a062d6-eeff-7118-8468-bdcac0933a23",
+      "time": "2026-09-02 23:57:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reported US Commerce Secretary Lutnick said ANTHROPIC is \"back on the right side\" and is cooperating with the Trump administration."
+    },
     {
       "id": "5073777",
       "time": "2026-09-02 23:56:39",

@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-03",
+  "count": 10,
+  "items": [
+    {
+      "id": "mkt:01a062da-56ab-7118-8468-d73eff39b452",
+      "time": "2026-09-03 00:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russian retail sales rose 5.4% YoY in January–July."
+    },
+    {
+      "id": "5073788",
+      "time": "2026-09-03 00:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：截至8月31日當週，俄羅斯周度消費者通縮率為0.01%（此前一週通脹率為0.01%）。"
+    },
+    {
+      "id": "5073787",
+      "time": "2026-09-03 00:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7月失業率為2.3%，前一個月經初步統計為2.2%。"
+    },
+    {
+      "id": "5073786",
+      "time": "2026-09-03 00:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7月俄羅斯零售額同比增長5.3%，前值為同比增長7.3%。"
+    },
+    {
+      "id": "mkt:01a062d9-e36e-7118-8468-cfc47d21ea56",
+      "time": "2026-09-03 00:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: For the week ended Aug 31, consumer prices fell 0.01% week-on-week (prior week +0.01%)."
+    },
+    {
+      "id": "5073785",
+      "time": "2026-09-03 00:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：1-7月俄羅斯零售額同比增長5.4%。"
+    },
+    {
+      "id": "te:economy:580555",
+      "time": "2026-09-03 00:00:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Canada 10Y Bond Yield traded above 3.8 percent — Canada 10Y Bond Yield rose above 3.8, according to over-the-counter interbank yield quotes for this government bond maturity."
+    },
+    {
+      "id": "5073784",
+      "time": "2026-09-03 00:00:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：上半年俄羅斯實際工資同比上漲6.5%。"
+    },
+    {
+      "id": "5073783",
+      "time": "2026-09-03 00:00:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：6月俄羅斯實際工資同比上漲3.4%，前值為同比上漲4.5%。"
+    },
+    {
+      "id": "5073782",
+      "time": "2026-09-03 00:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：俄羅斯第二季度資本投資同比下降6.6%，第一季度為同比下降14.3%。"
+    }
+  ]
+}
