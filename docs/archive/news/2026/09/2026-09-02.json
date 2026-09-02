@@ -1,7 +1,111 @@
 {
   "date": "2026-09-02",
-  "count": 1743,
+  "count": 1755,
   "items": [
+    {
+      "id": "mkt:01a060da-0347-7118-8454-8326a8b39732",
+      "time": "2026-09-02 14:41:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Daxiao Robotics ACE-Ego-Hand achieves bimanual 3D reconstruction, inference ~33x faster】Daxiao Robotics, with researchers from The Chinese University of Hong Kong and Nanyang Technological University, open-sourced ACE-Ego-Hand, a first-person video bimanual 3D hand-shape reconstruction model and released roughly 5,000 hours of training data. The model repurposes a video diffusion architecture into a deterministic geometric encoder so a single forward pass replaces multi-step denoising, delivering about a 33x inference speedup. The technology converts egocentric manipulation video into structured 3D trajectories transferable to dexterous robot hands, significantly lowering the data-collection threshold for embodied imitation learning."
+    },
+    {
+      "id": "5072492",
+      "time": "2026-09-02 14:41:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦方面表示，陸軍參謀長訪問德黑蘭推動了局勢發展。"
+    },
+    {
+      "id": "5072491",
+      "time": "2026-09-02 14:40:55",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本金融經紀商東京短資：日本央行9月加息機率升至97%。"
+    },
+    {
+      "id": "mkt:01a060d9-5b45-7118-8454-7e3f2bc8ccec",
+      "time": "2026-09-02 14:40:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "A Tokyo short-term money broker said the probability of a Bank of Japan rate hike in September has risen to 97%."
+    },
+    {
+      "id": "5072490",
+      "time": "2026-09-02 14:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦：仍致力於解決伊朗與美國之間的危機。"
+    },
+    {
+      "id": "te:economy:580345",
+      "time": "2026-09-02 14:40:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Sweden 10Y Bond Yield Hits 15-year High — Sweden 10 Year Government Bond Yield increased to 3.19%, the highest since May 2011. Over the past 4 weeks, Sweden 10Y Bond Yield gained 16.50 basis points, and in the last 12 months, it increased 61.90 basis points."
+    },
+    {
+      "id": "5072489",
+      "time": "2026-09-02 14:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大曉機器人ACE-Ego-Hand實現雙手3D手形重建，推理提速約33倍】大曉機器人聯合香港中文大學、南洋理工大學等機構，開源了面向第一視角影片的雙手3D形狀重建模型ACE-Ego-Hand，並已產出約5000小時訓練資料。該模型將影片擴散模型改造為確定性幾何編碼器，以單次前饋替代多步去噪，推理提速約33倍。據悉，該技術能直接將人類第一視角操作影片轉化為結構化3D軌跡並遷移至靈巧手，大幅降低具身智慧模仿學習的資料採集門檻。"
+    },
+    {
+      "id": "5072488",
+      "time": "2026-09-02 14:40:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率攀升至2011年4月以來的最高水平，截至目前日內累計上漲3.9個基點，報3.377%"
+    },
+    {
+      "id": "mkt:01a060d8-efcd-7118-8454-77d8c1854ce1",
+      "time": "2026-09-02 14:40:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【MEDVEDEV: Russia may retaliate in kind if Kyiv threatens Russian civil aviation】MEDVEDEV said Russia could carry out reciprocal measures if Kyiv threatens civilian air traffic in Russian airspace. He said the head of state has characterized Kyiv’s threat as a declaration of state terrorism and that Russia will not negotiate with terrorists but will respond in kind. MEDVEDEV also accused Western, primarily European, leaders of backing such actions and noted they often travel to Kyiv by train. Separately, Ukrainian President ZELENSKIY warned Russian airspace would become dangerous because of Ukrainian drones."
+    },
+    {
+      "id": "mkt:01a060d8-5c24-7118-8454-6865252181fc",
+      "time": "2026-09-02 14:39:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says Odesa hit by large-scale attack; 8 injured】Odesa military administration chief Lysak reported that the city was struck in a large-scale attack in the early hours of Sept. 2 local time. Eight people were injured, including one child; two wounded have been hospitalized. The strike damaged multiple buildings and facilities, severely hit a 24-storey residential tower with several apartment floors destroyed and surrounding windows blown out, and damaged an office building and two educational institutions."
+    },
+    {
+      "id": "5072487",
+      "time": "2026-09-02 14:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱敖德薩市遭大規模襲擊 8人受傷】當地時間9月2日，烏克蘭敖德薩市軍事管理局局長利薩克通報，敖德薩市凌晨遭遇大規模襲擊。截至目前，襲擊已造成8人受傷，傷者中包含1名兒童，其中兩名傷者已入院接受治療。據悉，本次襲擊造成多處建築及設施受損，一棟24層住宅樓受損嚴重，部分樓層公寓被摧毀，周邊建築的窗戶被大面積震碎。此外，當地辦公樓及兩所教育機構也在襲擊中遭到破壞。（央視新聞）"
+    },
     {
       "id": "mkt:01a060d7-d499-7118-8454-6784ddbc7d55",
       "time": "2026-09-02 14:39:12",
@@ -325,6 +429,17 @@
         "市場"
       ],
       "text": "新臺幣兌美元下跌0.5%至31.792。"
+    },
+    {
+      "id": "5072464",
+      "time": "2026-09-02 14:28:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行行長暗示9月加息已在路上 淡化日債拋售風險】本週三，日本央行行長植田和男表示，日本央行政策委員會在制定政策時會將物價上行風險納入考量，此番言論進一步加劇了市場對於日本央行9月下旬或將加息的猜測。隔夜指數掉期資料顯示，日本央行9月加息的機率已經高達99%，而植田和男並未刻意反駁市場的這一預期——這可能就是他對外界猜測的最大確認。植田和男還稱，當前日本經濟資料與央行的預判基本吻合，暗示日本央行有望繼續推進加息。他同時表示，當前日本物價走勢已經非常接近日本央行2%的通脹目標。本週，美國財政部長貝森特曾公開呼籲日本央行採取有力舉措應對日元疲軟，在此背景下植田和男發表上述講話，進一步推升了市場對日本央行即將行動的預期。市場關注的另一大重點是近期日本國債市場的波動。本週三，日本10年期國債收益率上漲到3.010%，再度重新整理1996年9月以來的最高水平。片山皋月稱，G20會議上沒有任何一方對日本財政狀況表達擔憂；植田和男則表示，日本國債收益率上行是跟隨全球大趨勢的表現。"
     },
     {
       "id": "5072463",

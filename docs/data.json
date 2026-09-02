@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-02 14:39:53",
-  "count": 12798,
+  "updated": "2026-09-02 14:43:48",
+  "count": 12800,
   "items": [
+    {
+      "id": "5072492",
+      "time": "2026-09-02 14:41:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦方面表示，陸軍參謀長訪問德黑蘭推動了局勢發展。"
+    },
+    {
+      "id": "mkt:01a060da-0347-7118-8454-8326a8b39732",
+      "time": "2026-09-02 14:41:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Daxiao Robotics ACE-Ego-Hand achieves bimanual 3D reconstruction, inference ~33x faster】Daxiao Robotics, with researchers from The Chinese University of Hong Kong and Nanyang Technological University, open-sourced ACE-Ego-Hand, a first-person video bimanual 3D hand-shape reconstruction model and released roughly 5,000 hours of training data. The model repurposes a video diffusion architecture into a deterministic geometric encoder so a single forward pass replaces multi-step denoising, delivering about a 33x inference speedup. The technology converts egocentric manipulation video into structured 3D trajectories transferable to dexterous robot hands, significantly lowering the data-collection threshold for embodied imitation learning."
+    },
+    {
+      "id": "5072491",
+      "time": "2026-09-02 14:40:55",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本金融經紀商東京短資：日本央行9月加息機率升至97%。"
+    },
+    {
+      "id": "mkt:01a060d9-5b45-7118-8454-7e3f2bc8ccec",
+      "time": "2026-09-02 14:40:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "A Tokyo short-term money broker said the probability of a Bank of Japan rate hike in September has risen to 97%."
+    },
+    {
+      "id": "5072490",
+      "time": "2026-09-02 14:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦：仍致力於解決伊朗與美國之間的危機。"
+    },
+    {
+      "id": "te:economy:580345",
+      "time": "2026-09-02 14:40:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Sweden 10Y Bond Yield Hits 15-year High — Sweden 10 Year Government Bond Yield increased to 3.19%, the highest since May 2011. Over the past 4 weeks, Sweden 10Y Bond Yield gained 16.50 basis points, and in the last 12 months, it increased 61.90 basis points."
+    },
+    {
+      "id": "5072489",
+      "time": "2026-09-02 14:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大曉機器人ACE-Ego-Hand實現雙手3D手形重建，推理提速約33倍】大曉機器人聯合香港中文大學、南洋理工大學等機構，開源了面向第一視角影片的雙手3D形狀重建模型ACE-Ego-Hand，並已產出約5000小時訓練資料。該模型將影片擴散模型改造為確定性幾何編碼器，以單次前饋替代多步去噪，推理提速約33倍。據悉，該技術能直接將人類第一視角操作影片轉化為結構化3D軌跡並遷移至靈巧手，大幅降低具身智慧模仿學習的資料採集門檻。"
+    },
+    {
+      "id": "5072488",
+      "time": "2026-09-02 14:40:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率攀升至2011年4月以來的最高水平，截至目前日內累計上漲3.9個基點，報3.377%"
+    },
+    {
+      "id": "mkt:01a060d8-efcd-7118-8454-77d8c1854ce1",
+      "time": "2026-09-02 14:40:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【MEDVEDEV: Russia may retaliate in kind if Kyiv threatens Russian civil aviation】MEDVEDEV said Russia could carry out reciprocal measures if Kyiv threatens civilian air traffic in Russian airspace. He said the head of state has characterized Kyiv’s threat as a declaration of state terrorism and that Russia will not negotiate with terrorists but will respond in kind. MEDVEDEV also accused Western, primarily European, leaders of backing such actions and noted they often travel to Kyiv by train. Separately, Ukrainian President ZELENSKIY warned Russian airspace would become dangerous because of Ukrainian drones."
+    },
+    {
+      "id": "mkt:01a060d8-5c24-7118-8454-6865252181fc",
+      "time": "2026-09-02 14:39:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says Odesa hit by large-scale attack; 8 injured】Odesa military administration chief Lysak reported that the city was struck in a large-scale attack in the early hours of Sept. 2 local time. Eight people were injured, including one child; two wounded have been hospitalized. The strike damaged multiple buildings and facilities, severely hit a 24-storey residential tower with several apartment floors destroyed and surrounding windows blown out, and damaged an office building and two educational institutions."
+    },
+    {
+      "id": "5072487",
+      "time": "2026-09-02 14:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱敖德薩市遭大規模襲擊 8人受傷】當地時間9月2日，烏克蘭敖德薩市軍事管理局局長利薩克通報，敖德薩市凌晨遭遇大規模襲擊。截至目前，襲擊已造成8人受傷，傷者中包含1名兒童，其中兩名傷者已入院接受治療。據悉，本次襲擊造成多處建築及設施受損，一棟24層住宅樓受損嚴重，部分樓層公寓被摧毀，周邊建築的窗戶被大面積震碎。此外，當地辦公樓及兩所教育機構也在襲擊中遭到破壞。（央視新聞）"
+    },
     {
       "id": "mkt:01a060d7-d499-7118-8454-6784ddbc7d55",
       "time": "2026-09-02 14:39:12",
@@ -325,6 +429,17 @@
         "市場"
       ],
       "text": "新臺幣兌美元下跌0.5%至31.792。"
+    },
+    {
+      "id": "5072464",
+      "time": "2026-09-02 14:28:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行行長暗示9月加息已在路上 淡化日債拋售風險】本週三，日本央行行長植田和男表示，日本央行政策委員會在制定政策時會將物價上行風險納入考量，此番言論進一步加劇了市場對於日本央行9月下旬或將加息的猜測。隔夜指數掉期資料顯示，日本央行9月加息的機率已經高達99%，而植田和男並未刻意反駁市場的這一預期——這可能就是他對外界猜測的最大確認。植田和男還稱，當前日本經濟資料與央行的預判基本吻合，暗示日本央行有望繼續推進加息。他同時表示，當前日本物價走勢已經非常接近日本央行2%的通脹目標。本週，美國財政部長貝森特曾公開呼籲日本央行採取有力舉措應對日元疲軟，在此背景下植田和男發表上述講話，進一步推升了市場對日本央行即將行動的預期。市場關注的另一大重點是近期日本國債市場的波動。本週三，日本10年期國債收益率上漲到3.010%，再度重新整理1996年9月以來的最高水平。片山皋月稱，G20會議上沒有任何一方對日本財政狀況表達擔憂；植田和男則表示，日本國債收益率上行是跟隨全球大趨勢的表現。"
     },
     {
       "id": "5072463",
@@ -117181,107 +117296,6 @@
         "其他"
       ],
       "text": "聯電：債券發售所得資金將用於購置機械裝置及工廠工程建設。"
-    },
-    {
-      "id": "5059181",
-      "time": "2026-08-26 14:43:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "5059180",
-      "time": "2026-08-26 14:42:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪納達啟用貨運綜合指揮中心，支援阿聯酋百萬噸級運營。"
-    },
-    {
-      "id": "te:markets:578168",
-      "time": "2026-08-26 14:41:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natural Gas Prices Drop Further — UK natural gas prices fell 4% to around 157.5 pence per therm on Wednesday, extending losses from the previous session as signs of progress in the Middle East talks eased fears of further supply disruptions. Iran’s and Oman’s foreign ministers said that they discussed plans for a temporary transit corridor through the Strait of Hormuz, along with a project to clear mines from the waterway. Pakistan also reported significant progress in talks with Tehran aimed at ending the war. The US decision to return diplomats to the Middle East also allayed fears of a further escalation in the conflict. However, supply risks remain as the ongoing maritime blockade continues to disrupt physical LNG flows from the Persian Gulf, with shipments from major exporter Qatar facing severe delays. Persistent hot weather across Europe is also driving higher electricity demand for cooling, slowing the pace of seasonal gas storage injections."
-    },
-    {
-      "id": "5059179",
-      "time": "2026-08-26 14:40:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌9%，現報4640.00元。"
-    },
-    {
-      "id": "5059178",
-      "time": "2026-08-26 14:40:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【iPhone17成二季度最暢銷手機】Counterpoint Research最新資料顯示，蘋果iPhone17是2026年第二季度全球最暢銷的智慧手機，佔據全球智慧手機總出貨量的6%份額，同時iPhone17 Pro Max和iPhone17 Pro也佔據了榜單第二名和第三名的位置。蘋果和三星各佔據全球暢銷智慧手機TOP10榜單中的五個席位，前十款機型合計佔據了全球智慧手機總銷量的26%，同比提升2%。基礎款iPhone17仍然是本季度最暢銷的智慧手機，重大升級縮小了與Pro機型之間的差距，為銷量提供了有力支撐。三星電子方面，Galaxy S系列有兩款機型進入前十榜單，GalaxyS26 Ultra成為三星本季度最暢銷機型，排名比上一代提升了5位，同時也是本季度最暢銷的安卓機型，這也是首次有超高階安卓裝置在第二季度引領安卓銷量。"
-    },
-    {
-      "id": "mkt:01a03ccc-61fa-7aab-9124-b19774402f54",
-      "time": "2026-08-26 14:40:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【iPhone 17 tops Q2 global smartphone sales】Counterpoint Research: Apple’s iPhone 17 was the world’s best-selling smartphone in Q2 2026, capturing a 6% share of global smartphone shipments. The iPhone 17 Pro Max and iPhone 17 Pro ranked second and third. Apple and Samsung each placed five models in the global top 10; the top 10 models accounted for 26% of global smartphone sales, up 2% YoY. The standard iPhone 17’s major upgrades narrowed the gap with Pro models, supporting volume. Samsung had two Galaxy S-series models in the top 10; the Galaxy S26 Ultra was Samsung’s best-selling model this quarter, up five places versus the prior generation, and was the quarter’s top-selling Android — the first time an ultra-premium Android led Android sales in Q2."
-    },
-    {
-      "id": "5059177",
-      "time": "2026-08-26 14:40:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股券商股午後持續活躍，湘財股份、錦龍股份此前封板，哈投股份、長江證券、招商證券、國元證券、西部證券、廣發證券、財通證券、天風證券漲幅居前。"
-    },
-    {
-      "id": "mkt:01a03ccc-4565-7aab-9124-ac6bf3f08000",
-      "time": "2026-08-26 14:40:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share broker stocks stayed active in the afternoon; Xiangcai Co. and Jinlong Co. hit the daily limit earlier, while Hatou Co., Changjiang Securities, China Merchants Securities, Guoyuan Securities, Western Securities, GF Securities, Caitong Securities and Tianfeng Securities were among the top gainers."
-    },
-    {
-      "id": "mkt:01a03ccc-3371-7aab-9124-a6d168bd97d2",
-      "time": "2026-08-26 14:40:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【Citi expects Korean firms' global equity and bond issuance to hit record in 2026】Citi expects Korean corporates to post a record level of global equity and bond issuance in 2026 as firms raise growth capital from international investors, highlighted by SK Hynix’s roughly $26.5 billion U.S. listing. Jangho Park, CEO of Citi Global Markets Korea, said an expanding cohort of world‑class companies and emerging industry leaders are tapping capital markets on competitive terms to fund growth. The outlook coincides with Korea’s two major chipmakers benefiting from AI infrastructure demand; Seoul aims to steer at least 1,350 trillion won ($975 billion) of investment toward chips and data centers, though many projects remain at early planning stages."
-    },
-    {
-      "id": "mkt:01a03ccb-f005-7aab-9124-9e3a2d91a81f",
-      "time": "2026-08-26 14:39:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Slovakia's power company says Mochovce nuclear plant Unit 3 has been reconnected to the grid after a refuelling shutdown."
     }
   ]
 }
