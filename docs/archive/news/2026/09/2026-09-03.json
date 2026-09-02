@@ -1,7 +1,23 @@
 {
   "date": "2026-09-03",
-  "count": 270,
+  "count": 272,
   "items": [
+    {
+      "id": "mkt:01a0639b-5060-7118-846c-a10c8f547a15",
+      "time": "2026-09-03 03:31:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said as of Sept. 2 it had forced 86 merchant vessels to divert, rendered three ships inoperable, and boarded and inspected two vessels to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5073953",
+      "time": "2026-09-03 03:31:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國海軍繼續嚴格執行美國對伊朗的封鎖。截至 9 月 2 日，美軍已迫使 86 艘商船改道，癱瘓 3 艘船隻，並登檢 2 艘，以確保相關規定得到遵守。"
+    },
     {
       "id": "mkt:01a0639a-64bf-7118-846c-9ce4c94e3e03",
       "time": "2026-09-03 03:30:57",

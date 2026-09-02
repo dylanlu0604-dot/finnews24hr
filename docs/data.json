@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-03 03:31:45",
-  "count": 12036,
+  "updated": "2026-09-03 03:35:45",
+  "count": 12028,
   "items": [
+    {
+      "id": "mkt:01a0639b-5060-7118-846c-a10c8f547a15",
+      "time": "2026-09-03 03:31:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said as of Sept. 2 it had forced 86 merchant vessels to divert, rendered three ships inoperable, and boarded and inspected two vessels to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5073953",
+      "time": "2026-09-03 03:31:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國海軍繼續嚴格執行美國對伊朗的封鎖。截至 9 月 2 日，美軍已迫使 86 艘商船改道，癱瘓 3 艘船隻，並登檢 2 艘，以確保相關規定得到遵守。"
+    },
     {
       "id": "mkt:01a0639a-64bf-7118-846c-9ce4c94e3e03",
       "time": "2026-09-03 03:30:57",
@@ -110633,114 +110649,6 @@
         "公司"
       ],
       "text": "洛克希德·馬丁公司宣佈為秘魯F-16 Block 70專案提供廣泛的工業合作機會。"
-    },
-    {
-      "id": "mkt:01a03f91-9b5b-7aab-9137-2c936e919582",
-      "time": "2026-08-27 03:35:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【Mizuho: NVIDIA Q2 beat priced in; market eyes AI capex guidance】Mizuho analyst Vijay Rakesh said a Q2 earnings beat for NVIDIA (NVDA.O) is largely priced in and the market will focus on guidance for AI capital spending and next‑year AI revenue. He models adjusted EPS of $2.08 and revenue of $92.0 bln but expects actuals to be materially higher, and he retains an Outperform rating with a $300 PT. Rakesh called Wall Street's $550 bln next‑year AI revenue estimate conservative, saying NVIDIA's recent financing with a Wall Street consortium and SpaceX's plan for an ~10 GW solar plant in Austin could together add an incremental $400–500 bln of AI revenue."
-    },
-    {
-      "id": "mkt:01a03f91-8e8a-7aab-9137-2358c05f2d54",
-      "time": "2026-08-27 03:34:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices fall on 26th】At the close, NYMEX October light sweet crude fell $0.13 to $82.23 a barrel, down 0.16%; ICE Brent October fell $0.74 to $87.84 a barrel, down 0.84%."
-    },
-    {
-      "id": "5060763",
-      "time": "2026-08-27 03:34:45",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行副行長：墨西哥能源價格面臨的壓力有限。"
-    },
-    {
-      "id": "mkt:01a03f91-1cfc-7aab-9137-1fabf756a062",
-      "time": "2026-08-27 03:34:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Donetsk leader Pushilin said Ukrainian forces used UK-French Storm Shadow/SCALP-EG long-range air-launched cruise missiles to strike Donetsk city centre."
-    },
-    {
-      "id": "5060762",
-      "time": "2026-08-27 03:34:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價26日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌13美分，收於每桶82.23美元，跌幅為0.16%；10月交貨的倫敦布倫特原油期貨價格下跌74美分，收於每桶87.84美元，跌幅為0.84%。"
-    },
-    {
-      "id": "mkt:01a03f90-c813-7aab-9137-153984d534e3",
-      "time": "2026-08-27 03:34:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Zhipu launches GLM-5.3 Flash, says inference runs on 100,000+ Chinese accelerator cards】Zhipu released GLM-5.3 Flash, a lightweight flagship model positioned to rival DeepSeek V4 Flash. The company says inference is served by a cluster using more than 100,000 domestically produced accelerator cards. Compute suppliers are reported to include Huawei, Moore Threads and Hygon; Zhipu declined to comment. In technical documentation Zhipu said the cluster's \"hardware efficiency and per-token cost are already comparable to mainstream NVIDIA GPUs,\" but it did not specify card models."
-    },
-    {
-      "id": "5060761",
-      "time": "2026-08-27 03:32:59",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "墨西哥央行副行長：墨西哥服務業CPI下行速度將慢於預期。"
-    },
-    {
-      "id": "5060760",
-      "time": "2026-08-27 03:32:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：通脹回落節奏將較預期更為緩慢。"
-    },
-    {
-      "id": "5060759",
-      "time": "2026-08-27 03:32:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：美墨加協定帶來的不確定性或將影響經濟增長。"
-    },
-    {
-      "id": "mkt:01a03f8e-d429-7aab-9137-0b8e8851bc93",
-      "time": "2026-08-27 03:32:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the US sent the carrier Lincoln to the region as a show of force. After months of war and more than 200 consecutive days without port calls, the ship is now sailing to Thailand for crew rest."
     }
   ]
 }
