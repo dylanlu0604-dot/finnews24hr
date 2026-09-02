@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-03 03:03:13",
-  "count": 12021,
+  "updated": "2026-09-03 03:07:18",
+  "count": 12020,
   "items": [
+    {
+      "id": "mkt:01a06384-28b0-7118-846c-4ce241b3f333",
+      "time": "2026-09-03 03:06:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reported Israel warned the UK it would take a 'significant response' if the UK imposes sanctions over West Bank settlements."
+    },
+    {
+      "id": "5073934",
+      "time": "2026-09-03 03:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：雙方的共同目標是為委內瑞拉吸引大規模投資。"
+    },
+    {
+      "id": "5073933",
+      "time": "2026-09-03 03:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國與委內瑞拉人民世代為夥伴。"
+    },
+    {
+      "id": "te:markets:580578",
+      "time": "2026-09-03 03:04:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Costco Wholesale Stock Price Hits 5-week Low — Costco Wholesale shares decreased to 925.73 USD, the lowest since July 2026. Over the past 4 weeks, Costco Wholesale lost 2.95%, and in the last 12 months, it decreased 2.51%."
+    },
+    {
+      "id": "mkt:01a06382-238a-7118-846c-45661e05a054",
+      "time": "2026-09-03 03:04:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US government backs OpenAI in copyright dispute with publishers, the Wall Street Journal reports."
+    },
+    {
+      "id": "mkt:01a06380-8a33-7118-846c-3fdca700170b",
+      "time": "2026-09-03 03:02:43",
+      "tags": [
+        "MKT News",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched Muse Spark 1.3 in Muse Code and the Meta Model API."
+    },
     {
       "id": "5073932",
       "time": "2026-09-03 03:01:27",
@@ -110549,63 +110602,6 @@
         "國際"
       ],
       "text": "【伊朗副總統：受美國海上封鎖 伊朗無法進口汽油】伊朗第一副總統穆罕默德·賈法爾·蓋姆帕納表示，受美國海上封鎖影響，伊朗無法進口汽油，並警告當前的燃料局面難以持續。“繼續這樣下去是行不通的。”蓋姆帕納稱，國內汽油產量不足，“在美國海上封鎖之下，我們無法進口汽油。”他同時表示，應當“藉助軍事力量”推動落實伊美諒解備忘錄。蓋姆帕納稱，在伊朗最高國家安全委員會指導下，伊朗與阿曼週二達成一份聯合宣告，要求船隻使用備忘錄所指定航線，不得穿越阿曼南部海域邊界。"
-    },
-    {
-      "id": "5060743",
-      "time": "2026-08-27 03:06:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【元宇宙願支付最高170億美元和解社交媒體成癮訴訟】美國元宇宙平臺公司（Meta）26日與包括加利福尼亞州在內的美國數十個州達成社交媒體成癮訴訟和解協議，同意向提起訴訟的各州支付最高170億美元，並在其平臺上增加對青少年兒童的安全保護措施。（新華社）"
-    },
-    {
-      "id": "5060742",
-      "time": "2026-08-27 03:05:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部宣佈，卡達首相兼外交大臣將於明日前往德黑蘭。"
-    },
-    {
-      "id": "mkt:01a03f76-379e-7aab-9136-e21d840e8036",
-      "time": "2026-08-27 03:05:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to CNBC, OpenAI released a report on a Hugging Face AI-agent intrusion."
-    },
-    {
-      "id": "5060741",
-      "time": "2026-08-27 03:04:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "鎧俠高層計劃於週四前往日本首相官邸，宣佈一項新的建設計劃。"
-    },
-    {
-      "id": "5060740",
-      "time": "2026-08-27 03:04:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數均攀升至盤中高點。"
-    },
-    {
-      "id": "5060738",
-      "time": "2026-08-27 03:03:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "鎧俠將投資63億美元在日本新建儲存器生產工廠。"
-    },
-    {
-      "id": "5060737",
-      "time": "2026-08-27 03:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國盟友表示，霍爾木茲海峽依舊有水雷，這與特朗普所稱美國海軍已完成排雷的說法相矛盾。相關官員估算，伊朗佈設的80‑150枚水雷中，部分可能仍未清除。"
     }
   ]
 }
