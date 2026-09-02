@@ -1,7 +1,107 @@
 {
   "date": "2026-09-02",
-  "count": 834,
+  "count": 845,
   "items": [
+    {
+      "id": "5071885",
+      "time": "2026-09-02 08:07:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：9月均衡配置 重視機構低配品種】中信建投研報稱，展望9月，市場仍處存量博弈、結構性行情佔優的環境，配置上：建議一方面保留AI算力、有色、創新藥及部分出海製造等景氣持續驗證方向；另一方面重視機構低配品種，關注銀行、保險、證券等兼具高股息防禦屬性方向，電池、工業金屬、能源金屬、基礎化工等兼具盈利改善的方向和鋼鐵、生豬養殖等週期拐點漸進的方向。"
+    },
+    {
+      "id": "mkt:01a05f71-a21f-7118-844a-50cacaec4537",
+      "time": "2026-09-02 08:07:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she is closely monitoring conditions in the Japanese government bond market."
+    },
+    {
+      "id": "mkt:01a05f71-87c5-7118-844a-4947f060302f",
+      "time": "2026-09-02 08:07:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said he considers the overall budget request to be at a reasonable level."
+    },
+    {
+      "id": "5071884",
+      "time": "2026-09-02 08:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺9月2日08時釋出風暴潮藍色警報：受今年第18號颱風“沙德爾”（熱帶風暴級）的影響，預計：9月2日上午至3日上午，福建寧德到廣東揭陽沿海將出現20到70釐米的風暴增水。上述岸段將不會出現達到當地藍色警戒潮位的高潮位，風暴潮預警級別為藍色。"
+    },
+    {
+      "id": "5071883",
+      "time": "2026-09-02 08:06:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行行長植田和男：貨幣條件仍然寬鬆，因此我們希望繼續加息】日本央行行長植田和男稱，貨幣政策思路沒有大變化。我們迄今已累計五次上調政策利率，因此我們需要仔細審視累計影響將對經濟產生何種作用。貨幣條件仍然寬鬆，因此我們希望繼續加息。將在考慮物價上行風險的情況下討論貨幣政策。希望在下次會議上討論經濟情景實現的可能性是否提高，以及通脹風險是否加大。"
+    },
+    {
+      "id": "mkt:01a05f70-78f9-7118-844a-40fdb37893ee",
+      "time": "2026-09-02 08:06:41",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei Index hit 65,000 points, down 2.20% intraday."
+    },
+    {
+      "id": "5071882",
+      "time": "2026-09-02 08:06:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報91.13美元/桶。"
+    },
+    {
+      "id": "5071881",
+      "time": "2026-09-02 08:06:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報95.61美元/桶。"
+    },
+    {
+      "id": "5071880",
+      "time": "2026-09-02 08:06:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌1.1%，報8,969點。"
+    },
+    {
+      "id": "mkt:01a05f6f-951d-7118-844a-3a8493d7783b",
+      "time": "2026-09-02 08:05:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will implement appropriate debt management measures and maintain close communication with markets."
+    },
+    {
+      "id": "mkt:01a05f6f-8697-7118-844a-3519daa619de",
+      "time": "2026-09-02 08:05:39",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "UEDA, governor of the Bank of Japan, said he hopes to discuss at the next meeting whether the likelihood that the BOJ's economic scenarios will be realized has increased and whether inf risks have risen."
+    },
     {
       "id": "mkt:01a05f6f-1ade-7118-844a-2d9adc6956fe",
       "time": "2026-09-02 08:05:11",
