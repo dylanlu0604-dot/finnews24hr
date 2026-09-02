@@ -1,7 +1,38 @@
 {
   "date": "2026-09-03",
-  "count": 42,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a062ef-7b3d-7118-8469-2447d1e04c5c",
+      "time": "2026-09-03 00:24:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian strike injures 13 in Kyiv; attacks on capital continue nearly a week】Ukraine's State Emergency Service said a Russian strike injured 13 people, and that attacks on the capital have continued for nearly a week, with multiple districts in Kyiv struck again today."
+    },
+    {
+      "id": "5073806",
+      "time": "2026-09-03 00:23:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投行聯席負責人：各企業董事會清楚全球環境充滿不確定性。"
+    },
+    {
+      "id": "mkt:01a062ed-9afa-7118-8469-1e50eb2789d1",
+      "time": "2026-09-03 00:22:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bahrain condemned Iran's 'heinous' attack on a Saudi oil tanker in the Strait of Hormuz, the Bahrain News Agency said."
+    },
     {
       "id": "5073805",
       "time": "2026-09-03 00:21:38",
