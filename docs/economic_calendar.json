@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-02 15:08:17",
+  "updated": "2026-09-02 19:29:03",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 470,
+  "count": 474,
   "history_summary": {
     "cached": 470,
-    "fetched": 0,
+    "fetched": 4,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 270,
+      "count": 274,
       "dates": [
         {
           "date": "2026-08-31",
@@ -6472,7 +6472,7 @@
         },
         {
           "date": "2026-09-02",
-          "count": 50,
+          "count": 54,
           "events": [
             {
               "id": "capital:1186570",
@@ -7705,7 +7705,7 @@
               "importance": 1,
               "previous": "6.8 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "9.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184274",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -7763,7 +7763,7 @@
               "importance": 1,
               "previous": "0 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184273",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -7807,6 +7807,238 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-23 07:59:34"
+            },
+            {
+              "id": "capital:1186574",
+              "fid": "1186574",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "19:00",
+              "datetime": "2026-09-02 19:00:00",
+              "display_time": "09/02 19:00",
+              "country": "美國",
+              "title": "美國至8月28日當週MBA30年期固定抵押貸款利率",
+              "importance": 1,
+              "previous": "6.78 %",
+              "forecast": "-- %",
+              "actual": "6.79 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186574",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "6.78",
+                  "forecast": "-",
+                  "previous": "6.77"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "6.77",
+                  "forecast": "-",
+                  "previous": "6.77"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "6.77",
+                  "forecast": "-",
+                  "previous": "6.81"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "6.81",
+                  "forecast": "-",
+                  "previous": "6.76"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "6.76",
+                  "forecast": "-",
+                  "previous": "6.69"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "6.69",
+                  "forecast": "-",
+                  "previous": "6.65"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 19:28:59"
+            },
+            {
+              "id": "capital:1186577",
+              "fid": "1186577",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "19:00",
+              "datetime": "2026-09-02 19:00:00",
+              "display_time": "09/02 19:00",
+              "country": "美國",
+              "title": "美國至8月28日當週MBA抵押貸款再融資活動指數",
+              "importance": 1,
+              "previous": "740.8",
+              "forecast": "--",
+              "actual": "732.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186577",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "740.8",
+                  "forecast": "-",
+                  "previous": "755.9"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "755.9",
+                  "forecast": "-",
+                  "previous": "744.4"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "744.4",
+                  "forecast": "-",
+                  "previous": "709.1"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "709.1",
+                  "forecast": "-",
+                  "previous": "723.1"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "723.1",
+                  "forecast": "-",
+                  "previous": "802.3"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "802.3",
+                  "forecast": "-",
+                  "previous": "821.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 19:28:59"
+            },
+            {
+              "id": "capital:1186575",
+              "fid": "1186575",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "19:00",
+              "datetime": "2026-09-02 19:00:00",
+              "display_time": "09/02 19:00",
+              "country": "美國",
+              "title": "美國至8月28日當週MBA抵押貸款申請活動指數",
+              "importance": 1,
+              "previous": "245.3",
+              "forecast": "--",
+              "actual": "247.3",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186575",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "245.3",
+                  "forecast": "-",
+                  "previous": "247.7"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "247.7",
+                  "forecast": "-",
+                  "previous": "248.6"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "248.6",
+                  "forecast": "-",
+                  "previous": "240"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "240",
+                  "forecast": "-",
+                  "previous": "247.2"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "247.2",
+                  "forecast": "-",
+                  "previous": "264"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "264",
+                  "forecast": "-",
+                  "previous": "259.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 19:28:59"
+            },
+            {
+              "id": "capital:1186576",
+              "fid": "1186576",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "19:00",
+              "datetime": "2026-09-02 19:00:00",
+              "display_time": "09/02 19:00",
+              "country": "美國",
+              "title": "美國至8月28日當週MBA抵押貸款購買指數",
+              "importance": 1,
+              "previous": "154.4",
+              "forecast": "--",
+              "actual": "157.8",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186576",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "154.4",
+                  "forecast": "-",
+                  "previous": "154.8"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "154.8",
+                  "forecast": "-",
+                  "previous": "157.9"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "157.9",
+                  "forecast": "-",
+                  "previous": "154"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "154",
+                  "forecast": "-",
+                  "previous": "159.8"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "159.8",
+                  "forecast": "-",
+                  "previous": "165.8"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "165.8",
+                  "forecast": "-",
+                  "previous": "157.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 19:28:59"
             },
             {
               "id": "capital:1144780",
@@ -34959,7 +35191,7 @@
       "importance": 1,
       "previous": "6.8 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "9.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184274",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -35017,7 +35249,7 @@
       "importance": 1,
       "previous": "0 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184273",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -35061,6 +35293,238 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-23 07:59:34"
+    },
+    {
+      "id": "capital:1186574",
+      "fid": "1186574",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "datetime": "2026-09-02 19:00:00",
+      "display_time": "09/02 19:00",
+      "country": "美國",
+      "title": "美國至8月28日當週MBA30年期固定抵押貸款利率",
+      "importance": 1,
+      "previous": "6.78 %",
+      "forecast": "-- %",
+      "actual": "6.79 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186574",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "6.78",
+          "forecast": "-",
+          "previous": "6.77"
+        },
+        {
+          "date": "08/19",
+          "actual": "6.77",
+          "forecast": "-",
+          "previous": "6.77"
+        },
+        {
+          "date": "08/12",
+          "actual": "6.77",
+          "forecast": "-",
+          "previous": "6.81"
+        },
+        {
+          "date": "08/05",
+          "actual": "6.81",
+          "forecast": "-",
+          "previous": "6.76"
+        },
+        {
+          "date": "07/29",
+          "actual": "6.76",
+          "forecast": "-",
+          "previous": "6.69"
+        },
+        {
+          "date": "07/22",
+          "actual": "6.69",
+          "forecast": "-",
+          "previous": "6.65"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 19:28:59"
+    },
+    {
+      "id": "capital:1186577",
+      "fid": "1186577",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "datetime": "2026-09-02 19:00:00",
+      "display_time": "09/02 19:00",
+      "country": "美國",
+      "title": "美國至8月28日當週MBA抵押貸款再融資活動指數",
+      "importance": 1,
+      "previous": "740.8",
+      "forecast": "--",
+      "actual": "732.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186577",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "740.8",
+          "forecast": "-",
+          "previous": "755.9"
+        },
+        {
+          "date": "08/19",
+          "actual": "755.9",
+          "forecast": "-",
+          "previous": "744.4"
+        },
+        {
+          "date": "08/12",
+          "actual": "744.4",
+          "forecast": "-",
+          "previous": "709.1"
+        },
+        {
+          "date": "08/05",
+          "actual": "709.1",
+          "forecast": "-",
+          "previous": "723.1"
+        },
+        {
+          "date": "07/29",
+          "actual": "723.1",
+          "forecast": "-",
+          "previous": "802.3"
+        },
+        {
+          "date": "07/22",
+          "actual": "802.3",
+          "forecast": "-",
+          "previous": "821.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 19:28:59"
+    },
+    {
+      "id": "capital:1186575",
+      "fid": "1186575",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "datetime": "2026-09-02 19:00:00",
+      "display_time": "09/02 19:00",
+      "country": "美國",
+      "title": "美國至8月28日當週MBA抵押貸款申請活動指數",
+      "importance": 1,
+      "previous": "245.3",
+      "forecast": "--",
+      "actual": "247.3",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186575",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "245.3",
+          "forecast": "-",
+          "previous": "247.7"
+        },
+        {
+          "date": "08/19",
+          "actual": "247.7",
+          "forecast": "-",
+          "previous": "248.6"
+        },
+        {
+          "date": "08/12",
+          "actual": "248.6",
+          "forecast": "-",
+          "previous": "240"
+        },
+        {
+          "date": "08/05",
+          "actual": "240",
+          "forecast": "-",
+          "previous": "247.2"
+        },
+        {
+          "date": "07/29",
+          "actual": "247.2",
+          "forecast": "-",
+          "previous": "264"
+        },
+        {
+          "date": "07/22",
+          "actual": "264",
+          "forecast": "-",
+          "previous": "259.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 19:28:59"
+    },
+    {
+      "id": "capital:1186576",
+      "fid": "1186576",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "datetime": "2026-09-02 19:00:00",
+      "display_time": "09/02 19:00",
+      "country": "美國",
+      "title": "美國至8月28日當週MBA抵押貸款購買指數",
+      "importance": 1,
+      "previous": "154.4",
+      "forecast": "--",
+      "actual": "157.8",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186576",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "154.4",
+          "forecast": "-",
+          "previous": "154.8"
+        },
+        {
+          "date": "08/19",
+          "actual": "154.8",
+          "forecast": "-",
+          "previous": "157.9"
+        },
+        {
+          "date": "08/12",
+          "actual": "157.9",
+          "forecast": "-",
+          "previous": "154"
+        },
+        {
+          "date": "08/05",
+          "actual": "154",
+          "forecast": "-",
+          "previous": "159.8"
+        },
+        {
+          "date": "07/29",
+          "actual": "159.8",
+          "forecast": "-",
+          "previous": "165.8"
+        },
+        {
+          "date": "07/22",
+          "actual": "165.8",
+          "forecast": "-",
+          "previous": "157.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 19:28:59"
     },
     {
       "id": "capital:1144780",
