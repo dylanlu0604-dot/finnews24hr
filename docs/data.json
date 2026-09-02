@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-03 07:53:32",
-  "count": 12039,
+  "updated": "2026-09-03 07:57:32",
+  "count": 12047,
   "items": [
+    {
+      "id": "te:markets:580608",
+      "time": "2026-09-03 07:56:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Positive Session — US stock futures were little changed on Thursday after the major averages advanced in the previous session, snapping a three-day losing streak. In regular trading on Wednesday, the Dow rose 0.56%, the S&P 500 gained 0.46% and the Nasdaq Composite climbed 0.45%. Ten of the 11 S&P sectors finished higher, led by materials, communication services and health care. The gains came as the recent rally in oil prices and bond yields that had pressured equities throughout the week showed signs of easing. In corporate news, Broadcom fell about 1% after issuing a lower-than-expected revenue forecast for Q4, while Hewlett Packard Enterprise tumbled more than 5% despite beating earnings and revenue estimates for Q3. In contrast, Snowflake soared 23% after the software company smashed estimates amid growing adoption of its AI products. Investors now look ahead to more earnings reports on Thursday from Ciena, Zscaler and DocuSign, among others."
+    },
+    {
+      "id": "5074136",
+      "time": "2026-09-03 07:56:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利：銀行業是亞洲人工智慧領域的贏家之一。"
+    },
+    {
+      "id": "5074135",
+      "time": "2026-09-03 07:56:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區政府舉行儀式紀念中國人民抗日戰爭勝利】9月3日，香港特區政府在香港大會堂紀念花園舉行官方儀式，紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利81週年。香港特區行政長官李家超、特區政府高層官員、司法人員、行政會議成員、立法會議員、退伍軍人團體、區議會、其他界別社會人士、制服團隊及青年代表等出席紀念儀式。紀念儀式包括奏唱國歌、升旗禮、警察步槍儀仗隊鳴槍致敬、全體出席者默哀及鞠躬致敬等。（央視）"
+    },
+    {
+      "id": "5074134",
+      "time": "2026-09-03 07:55:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：南桑威奇群島地區發生6.05級地震。"
+    },
+    {
+      "id": "5074133",
+      "time": "2026-09-03 07:55:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：AI開啟服務消費市場空間】當前，我國服務消費進入擴容升級快車道。資料顯示，今年前7個月，我國服務零售額增長5.0%，快於商品零售額增速3.9個百分點。消費結構正從商品消費主導向服務消費主導轉變。商務部等8部門印發的《關於加快“人工智慧+消費”發展的實施意見》，明確推動人工智慧（AI）與居家、養老、文旅、餐飲、教育等服務深度融合，培育消費新增長點。這既是順應消費升級趨勢的必然要求，更是釋放內需潛力的關鍵引擎。創新應用場景，啟用消費需求。聚焦文旅、養老、托育、家政、醫療、教育等重點領域，加快發展智慧原生應用，拓展體驗消費、個性化消費、情感消費等服務消費新場景。加強虛擬現實、增強現實等技術應用，打造數字演藝、互動展覽、虛擬街區等沉浸式數字消費新場景。"
+    },
+    {
+      "id": "5074132",
+      "time": "2026-09-03 07:55:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌7個基點至4.095%。"
+    },
     {
       "id": "mkt:01a06489-a4ec-7118-846f-ff89731c5cc4",
       "time": "2026-09-03 07:52:17",
@@ -24,6 +77,15 @@
       "text": "【中信建投：目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的】中信建投研報指出，1H26上市銀行營收大個位數增長，利潤穩定小個位數釋放，趨勢向好。信貸大個位數增長，資產端降幅趨緩+負債成本最佳化下，淨息差邊際企穩，淨利息收入提速。中收穩定小個位數增長，上市銀行核心營收能力趨勢向好。其他非息存在一定分化，主因兌現浮盈選擇不同。資產質量表觀穩定，地產風險加速出清，零售風險仍在自然暴露。部分銀行選擇在政策尚未退坡、財務資源相對充裕的視窗期加速出清地產風險，有利於未來的業績彈性。部分銀行中期分紅方案落地，國有大行分紅率統一提升1pct，紅利屬性進一步提高。展望全年，上市銀行營收、利潤有望延續向好趨勢，基本面企穩。目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的。"
     },
     {
+      "id": "em:jjsj_rbsj:202609033863354447",
+      "time": "2026-09-03 07:51:34",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月28日當週買進外國債券-8240億日元，前值由-19784億日元修正為-19768億日元。"
+    },
+    {
       "id": "mkt:01a06488-ecdd-7118-846f-f457a1906fe0",
       "time": "2026-09-03 07:51:30",
       "tags": [
@@ -44,6 +106,15 @@
         "Important"
       ],
       "text": "Japan | Weekly Foreign Stocks Buying (Aug.28) | actual 35800000000B | previous -869000000000B"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609033863354164",
+      "time": "2026-09-03 07:51:17",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月28日當週外資買進日股358億日元，前值由-7641億日元修正為-7634億日元。"
     },
     {
       "id": "5074130",
