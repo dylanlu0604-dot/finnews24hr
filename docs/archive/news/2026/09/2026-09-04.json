@@ -1,7 +1,28 @@
 {
   "date": "2026-09-04",
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "id": "mkt:01a06801-bad0-7118-848c-df2c7c14177f",
+      "time": "2026-09-04 00:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reported Blue Origin and SpaceX (SPCX.O) have canceled attendance at France's space summit."
+    },
+    {
+      "id": "mkt:01a06800-6042-7118-848c-d3ca7cc583e0",
+      "time": "2026-09-04 00:00:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. mortgage rates rose to 6.71%, the highest level since July 2025."
+    },
     {
       "id": "5075965",
       "time": "2026-09-04 00:00:11",

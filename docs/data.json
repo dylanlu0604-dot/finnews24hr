@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-04 00:01:29",
-  "count": 12882,
+  "updated": "2026-09-04 00:05:30",
+  "count": 12883,
   "items": [
+    {
+      "id": "mkt:01a06801-bad0-7118-848c-df2c7c14177f",
+      "time": "2026-09-04 00:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reported Blue Origin and SpaceX (SPCX.O) have canceled attendance at France's space summit."
+    },
+    {
+      "id": "mkt:01a06800-6042-7118-848c-d3ca7cc583e0",
+      "time": "2026-09-04 00:00:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. mortgage rates rose to 6.71%, the highest level since July 2025."
+    },
     {
       "id": "5075965",
       "time": "2026-09-04 00:00:11",
@@ -118318,18 +118339,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 0.72% Lower — The FTSE 100 Index decreased 79 points or 0.72 percent on Thursday to close at 10800 points. The decline was led by Entain (-3.21%), LondonMetric Property (-2.77%) and Prudential (-2.53%). On the upside, the strongest performers were Computacenter (4.70%), The Sage Group (4.00%) and London Stock Exchange (3.79%)."
-    },
-    {
-      "id": "te:economy:578767",
-      "time": "2026-08-28 00:05:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Edge Higher — US 30-year fixed mortgage rates averaged 6.66% as of August 27th, 2026, slightly up from 6.65% in the prior week. “Mortgage rates changed little this week averaging 6.66%,” said Sam Khater, Freddie Mac’s Chief Economist. The economy remains resilient, supported by steady consumer spending and rising household incomes, while increased housing supply and slower price growth in many areas are giving buyers more options and helping create a more balanced housing market. A year earlier, the 30-year fixed-rate mortgage averaged 6.56%. Meanwhile, the 15-year fixed-rate mortgage averaged 5.98%, up from 5.95% in the previous week."
     }
   ]
 }
