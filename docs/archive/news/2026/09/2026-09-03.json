@@ -1,7 +1,139 @@
 {
   "date": "2026-09-03",
-  "count": 2525,
+  "count": 2540,
   "items": [
+    {
+      "id": "mkt:01a067e6-3f6d-7118-848b-dabee0aafd00",
+      "time": "2026-09-03 23:32:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-week Treasury bill auction to Sept. 3 — stop-out yield 3.70%, prior 3.65%."
+    },
+    {
+      "id": "mkt:01a067e6-3ec4-7118-848b-d1529342fd0a",
+      "time": "2026-09-03 23:32:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-week Treasury bill auction through Sept. 3 — share allocated at the winning rate 58.44% vs 93.57% previously."
+    },
+    {
+      "id": "mkt:01a067e6-32b4-7118-848b-cd9e015bd84b",
+      "time": "2026-09-03 23:32:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-week Treasury auction to Sept. 3 — bid-cover ratio 2.97; previous 2.73."
+    },
+    {
+      "id": "mkt:01a067e6-14fe-7118-848b-c703b6df2121",
+      "time": "2026-09-03 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Sep.3) | actual 2.97 | previous 2.73"
+    },
+    {
+      "id": "mkt:01a067e6-14ec-7118-848b-ba178627f021",
+      "time": "2026-09-03 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Sep.3) | actual 3.7% | previous 3.65%"
+    },
+    {
+      "id": "mkt:01a067e6-14e9-7118-848b-b61b875e3aa1",
+      "time": "2026-09-03 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Sep.3) | actual 58.44% | previous 93.57%"
+    },
+    {
+      "id": "5075938",
+      "time": "2026-09-03 23:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 表示已實施緩解措施，正在監控恢復情況。"
+    },
+    {
+      "id": "mkt:01a067e5-1971-7118-848b-ab56c8ec753b",
+      "time": "2026-09-03 23:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI has implemented mitigation measures and is monitoring recovery progress."
+    },
+    {
+      "id": "5075937",
+      "time": "2026-09-03 23:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭 8 月末所得稅收入同比增長 7.7%，增值稅同比增長 7.3%。"
+    },
+    {
+      "id": "5075936",
+      "time": "2026-09-03 23:30:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭 8 月企業稅收入 28 億歐元，去年同期為 21 億歐元；剔除蘋果稅款因素後，年內累計企業稅收入同比增長 8.3%。"
+    },
+    {
+      "id": "5075935",
+      "time": "2026-09-03 23:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.52%，報25973.57點。法國股指初步收跌0.09%，義大利股指初步收漲0.62%、銀行指數漲0.93%，英國股指初步收漲0.60%。"
+    },
+    {
+      "id": "5075934",
+      "time": "2026-09-03 23:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.40%，報648.51點。歐元區STOXX 50指數初步收漲0.15%，報6371.55點。富時泛歐績優300指數初步收漲0.39%，報2591.05點。"
+    },
+    {
+      "id": "5075933",
+      "time": "2026-09-03 23:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭 8 月末財政國庫餘額為‑18 億歐元，去年同期為盈餘 32 億歐元；餘額下滑源於蘋果補繳稅款以及向財富基金劃轉資金。"
+    },
+    {
+      "id": "5075932",
+      "time": "2026-09-03 23:29:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超1%】道指漲1.23%，現報53714.078點；納指漲1.38%，現報26579.566點；標普500指數漲1.03%，現報7745.210點。"
+    },
+    {
+      "id": "mkt:01a067e3-8b99-7118-848b-a1676cd10f73",
+      "time": "2026-09-03 23:29:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500, Dow and Nasdaq all rose more than 1%."
+    },
     {
       "id": "mkt:01a067dd-d7b1-7118-848b-9b12a5458ad5",
       "time": "2026-09-03 23:23:06",
