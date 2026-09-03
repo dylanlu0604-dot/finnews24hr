@@ -1,7 +1,19 @@
 {
   "date": "2026-09-04",
-  "count": 25,
+  "count": 26,
   "items": [
+    {
+      "id": "te:markets:581033",
+      "time": "2026-09-04 00:18:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Snaps 3-Day Losing Run — The DAX 40 finished about 0.6% up at 26,008 on Thursday, halting a three-day losing streak, mainly supported by gains in autos, software and financials. Falling global bond yields supported market sentiment, while ongoing geopolitical uncertainty kept oil prices elevated. Among key movers, Volkswagen climbed 3.3% to the top of the index following media reports that the automaker could sell or reduce stakes in around 750 subsidiaries and investments. SAP shares rose 2.5%, benefiting from Snowflake’s stronger revenue outlook. Deutche Telekom added 1.1%, following reports that Elliott investment built up a larger stake in an attempt to prevent a multi-billion dollar merger with T-Mobile US. On the flip side, Rheinmetall (-2%), Fresenius Medical Care (-1.9%) and Qiagen NV (-1.8%) posted the biggest declines."
+    },
     {
       "id": "mkt:01a0680e-ef10-7118-848d-21f8f062e1fd",
       "time": "2026-09-04 00:16:44",

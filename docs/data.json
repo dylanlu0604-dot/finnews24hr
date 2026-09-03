@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-04 00:17:25",
-  "count": 12898,
+  "updated": "2026-09-04 00:21:21",
+  "count": 12897,
   "items": [
+    {
+      "id": "te:markets:581033",
+      "time": "2026-09-04 00:18:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Snaps 3-Day Losing Run — The DAX 40 finished about 0.6% up at 26,008 on Thursday, halting a three-day losing streak, mainly supported by gains in autos, software and financials. Falling global bond yields supported market sentiment, while ongoing geopolitical uncertainty kept oil prices elevated. Among key movers, Volkswagen climbed 3.3% to the top of the index following media reports that the automaker could sell or reduce stakes in around 750 subsidiaries and investments. SAP shares rose 2.5%, benefiting from Snowflake’s stronger revenue outlook. Deutche Telekom added 1.1%, following reports that Elliott investment built up a larger stake in an attempt to prevent a multi-billion dollar merger with T-Mobile US. On the flip side, Rheinmetall (-2%), Fresenius Medical Care (-1.9%) and Qiagen NV (-1.8%) posted the biggest declines."
+    },
     {
       "id": "mkt:01a0680e-ef10-7118-848d-21f8f062e1fd",
       "time": "2026-09-04 00:16:44",
@@ -118479,28 +118491,6 @@
         "Importance 0"
       ],
       "text": "DAX Closes at Near 2-Week High — The DAX 40 closed about 0.3% up at 26,367 on Thursday, the highest level since mid-August, marking the third session of gains. Tech stocks, including chipmakers and software firms, led the advance, after Nvidia’s strong sales outlook reinforced optimism over continued AI spending. SAP was the standout performer, climbing 5.2%, while Infineon Technologies added 4%. Autos also posted solid gains, led by BMW (+3.9%), Volkswagen (+3.4%) and Mercedes-Benz Group (+2.1%). Meanwhile, investors remained cautious amid geopolitical uncertainties and ahead of the Jackson Hole central bankers’ symposium, which kicks off today, with Fed Chair Kevin Warsh scheduled to speak on Friday. The ECB’s meeting Accounts suggested that a rate hike could be needed in September, with policymakers highlighting upside risks to inflation and downside risks to growth stemming from the Middle East."
-    },
-    {
-      "id": "te:markets:578777",
-      "time": "2026-08-28 00:21:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Rise to 5-Week High — US natural gas prices climbed above $2.90/MMBtu, reaching their highest level in five weeks, after the latest EIA data showed a smaller-than-expected increase in storage. Utilities added just 15 billion cubic feet of gas last week, below the 20 bcf forecast and well under the 33 bcf five-year average for the period. Expectations of persistent hot weather also supported prices, with above-normal temperatures forecast across much of the eastern US from August 31 through September 4. The heat is likely to sustain demand from power generators as air-conditioning use remains elevated. However, strong domestic production continues to limit the upside. Output in the Lower 48 states averaged a record 111.4 bcfd in August, up from 110.7 bcfd in July. Meanwhile, average gas flows to the nine major US LNG export terminals eased slightly to 17.1 bcfd this month from 17.2 bcfd in July, although signs of recovering LNG demand are emerging."
-    },
-    {
-      "id": "te:markets:578775",
-      "time": "2026-08-28 00:18:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Prices Fluctuate — US gasoline futures traded around $3.3 per gallon, as traders weighed geopolitical risks across key energy chokepoints. Black Sea shipments remained at risk as Russia considers intensifying military pressure on Ukraine after determining that peace negotiations have reached a dead end. Strikes targetiing Russian refineries pushed refinery runs toward multi-year lows. In the Middle East, a tanker attack kept supply risks elevated. Still, flows through the strait appear to have increased as regional producers boost exports. Iran and Oman reached an agreement on the allocation of their respective shares of the Strait of Hormuz’s waters and related revenues, although Tehran cautioned that the deal alone would not be sufficient to reopen the strait. In the US, EIA data showed gasoline inventories fell by 2.536 million barrels in the week ending August 21, well above expectations and leaving stocks 6% below the five-year average, underscoring continued tightness in the fuel market."
     }
   ]
 }
