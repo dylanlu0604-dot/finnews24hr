@@ -1,7 +1,95 @@
 {
   "date": "2026-09-03",
-  "count": 1328,
+  "count": 1338,
   "items": [
+    {
+      "id": "mkt:01a065f3-5cd0-7118-8477-b9cbc67bde68",
+      "time": "2026-09-03 14:27:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "Chip Wars",
+        "015760.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【KEPCO in talks with Samsung, SK Hynix on 25 trillion won electricity prepayment to fund semiconductor grid】State-owned Korea Electric Power Corporation (KEPCO) is negotiating a multibillion-dollar electricity prepayment with Samsung Electronics and SK Hynix to raise capital for grid expansion serving a new semiconductor cluster. Under the current proposal Samsung would prepay 20 trillion won and SK Hynix 5 trillion won, totaling 25 trillion won, roughly equivalent to about five years of projected power bills. KEPCO said the mechanism would align firms needing rapid grid build-out with the utility’s funding needs; specific prepayment amounts and coverage periods have not been finalized."
+    },
+    {
+      "id": "5074666",
+      "time": "2026-09-03 14:26:24",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【英偉達豪擲140億美元收購Hugging Face？ 分析師：或重構全球AI開源體系】在獨立國際策略研究員陳佳看來，英偉達著急收購Hugging Face有其必要性。一方面，可以補齊英偉達在AI Agent（智慧體）應用層級的致命短板；另一方面，Hugging Face已經不缺投資現金流，英偉達若再不進行大規模併購，“美股七雄”中的其他六位可能會率先出手。從全球AI產業來看，如果收購成功，全球AI開源體系將重構，高度依賴開源社群AI模型和資料資源的國內開發者也可能會被波及。"
+    },
+    {
+      "id": "mkt:01a065f1-e0fb-7118-8477-b113b2fc4420",
+      "time": "2026-09-03 14:25:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia expects cargo throughput on trans‑Arctic routes to double to 70 million tonnes a year by the end of this decade."
+    },
+    {
+      "id": "te:markets:580752",
+      "time": "2026-09-03 14:24:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Higher Open — European equity markets were set to open slightly higher on Thursday as oil prices retreated after President Donald Trump said renewed attacks on Iran would likely be short-lived, easing inflation concerns. Global bond yields also pulled back from highs as the recent bond selloff showed signs of easing, reducing pressure on equities. In Europe, investors will assess Eurozone PPI and Turkish inflation figures, along with final services and composite PMI reports from across the region. In corporate news, activist firm Elliott Investment Management built a sizable stake in Deutsche Telekom AG and indicated that the German telecommunications giant should abandon a potential merger with its US arm, T-Mobile US Inc. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.1%."
+    },
+    {
+      "id": "5074665",
+      "time": "2026-09-03 14:24:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示：俄羅斯預計到本世紀20年代末，北極東北航道（北方海航道）貨物週轉量將翻一番，達到每年7000萬噸。"
+    },
+    {
+      "id": "5074664",
+      "time": "2026-09-03 14:24:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車管理層計劃最遲於2029年停用西雅特（SEAT）品牌。"
+    },
+    {
+      "id": "5074663",
+      "time": "2026-09-03 14:23:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深挖A股優質資產 外資8月調研次數環比增長118%】近期，外資機構對A股上市公司的調研熱情顯著升溫。WIND資料顯示，今年8月，外資機構共計對251只A股標的展開調研，合計調研次數達1005次，相較於7月的461次，環比增幅高達118%。儘管下半年以來市場波動加劇，但外資機構普遍認為，當前調整不改變中期趨勢，中國AI產業鏈及硬科技領域的長期投資價值依然明確。"
+    },
+    {
+      "id": "5074662",
+      "time": "2026-09-03 14:23:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：東方石油公司將修建新管道，原油將經北極航道運輸。"
+    },
+    {
+      "id": "5074660",
+      "time": "2026-09-03 14:23:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：德國總理默茨下週將在柏林與歐洲央行官員會面。屆時，歐洲央行將在柏林召開利率決策會議，而外界對行長拉加德未來去留的猜測也在升溫。"
+    },
     {
       "id": "5074659",
       "time": "2026-09-03 14:23:17",
@@ -188,6 +276,14 @@
         "MKT News"
       ],
       "text": "【Mitsui O.S.K. Lines warns Strait of Hormuz disruption could persist through year-end】Mitsui O.S.K. Lines CEO Jotaro Tamura said shipping disruptions in the Strait of Hormuz may last longer than previously expected after recent vessel attacks raised the risk for oil tankers transiting the waterway. Given the current situation, Tamura said it is difficult to imagine shipping resuming in any form before year-end and that the risk level far exceeds what the company can accept."
+    },
+    {
+      "id": "5074646",
+      "time": "2026-09-03 14:18:47",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【中國科學院院士歐陽明高：十年內磷酸鐵鋰電池仍將占主導地位】9月3日，“2026世界動力電池大會”在四川宜賓舉行，第十四屆全國政協常委、中國科學院院士歐陽明高在主題演講時表示，高比能量液態、固液混合、全固態電池與低成本、長壽命的磷酸鐵鋰電池及鈉離子電池兩條技術路線對中國動力電池產業同等重要、缺一不可。儘管固態電池、鈉電池發展勢頭強勁，但從市場份額來看，技術、產業相對更為成熟的磷酸鐵鋰電池目前處於領先地位。對此，歐陽明高預測，今後十年磷酸鐵鋰電池還將繼續主導國內動力和儲能電池市場。"
     },
     {
       "id": "5074645",
