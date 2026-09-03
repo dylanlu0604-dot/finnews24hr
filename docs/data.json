@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-03 08:05:33",
-  "count": 12048,
+  "updated": "2026-09-03 08:09:33",
+  "count": 12049,
   "items": [
+    {
+      "id": "mkt:01a06498-5f92-7118-8470-1b2db13c4418",
+      "time": "2026-09-03 08:08:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M6.0 earthquake in South Sandwich Islands region, South Atlantic】The European-Mediterranean Seismological Centre reports a M6.0 earthquake struck the South Sandwich Islands region (South Atlantic) at 21:46 local time on Sept. 2; focal depth 113 km. No tsunami warning has been issued."
+    },
+    {
+      "id": "5074147",
+      "time": "2026-09-03 08:07:13",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：電力裝置及新能源行業景氣兌現但估值壓低 尋找需求的積極變數】中信建投研報稱，二季度鋰電儲能在收入端兌現高景氣，海風、光伏下挫反映行業目前在底部徘徊、電力裝置行業也持續進入景氣週期，特別是出口連結串列現較為出色，但對於未來的擔憂壓低了板塊的估值。擴產層面，行業整體依然溫和。投資建議：大儲、戶儲板塊、鋰電及材料在二季度開始業績增長兌現，供需形勢依然良好，近期受到外部環境變化挑戰，估值水平明顯回落，值得繼續重點關注。在訂單或邊際變化定價的正規化上，重點關注國產燃氣輪機產業鏈、AIDC、歐洲海風等環節公司訂單變化。"
+    },
+    {
+      "id": "te:economy:580610",
+      "time": "2026-09-03 08:06:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Services PMI Revised Upward — The S&P Global Australia Services PMI Business Activity Index rose to 53.2 in August 2026, exceeding the preliminary estimate of 52.9 but easing from July’s six-month high of 53.6. The latest reading marked a third straight month of growth, supported by a second straight monthly increase in new orders, although the pace remained modest and broadly in line with July. In contrast, foreign orders fell for a fourth month, weighed down by higher fuel costs and lower tourist numbers. Employment grew for a third month running, but the pace moderated from July. On prices, input-cost inflation remained elevated, with the rate of increase ticking up from the prior month, though it stayed well below April’s recent peak. Firms continued to raise their selling prices at a solid pace, albeit more slowly than in July. Finally, sentiment hit a six-month high, coming close to its level before the outbreak of war in the Middle East."
+    },
+    {
+      "id": "5074146",
+      "time": "2026-09-03 08:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟將開始按季度披露Azure營收】週三，微軟宣佈將首次開始披露 Azure 雲業務的季度營收，這是微軟財報披露架構大範圍改革的一環：公司將把運營業務分部從三個縮減為兩個——智慧代理與基礎設施、裝置與消費者業務，舊的分部架構自2015年起沿用至今。微軟執行長薩提亞・納德拉在簡報中寫道：“毫無疑問，人工智慧代表著技術與商業層面的深刻變革。它正在重塑我們的產品研發方向與運營模式，模糊各類產品之間的邊界，並重塑我們的商業模式。”"
+    },
+    {
+      "id": "5074145",
+      "time": "2026-09-03 08:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南大西洋南桑威奇群島地區發生6.0級地震】根據歐洲-地中海地震中心報告，當地時間9月2日21時46分，南大西洋南桑威奇群島地區發生6.0級地震，震源深度113公里。目前暫無海嘯預警報告。"
+    },
+    {
+      "id": "5074144",
+      "time": "2026-09-03 08:05:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬杜羅以國家元首豁免權為由要求美國法院撤銷刑事指控】據報道，尼古拉斯·馬杜羅要求紐約一名法官撤銷針對他的刑事案件，理由是他作為一個主權國家的元首，在美國享有刑事起訴豁免權。馬杜羅的律師團隊週三提交檔案，尋求撤銷販毒和毒品恐怖主義指控。檔案稱：“法院對委內瑞拉國家元首馬杜羅沒有管轄權。”"
+    },
+    {
+      "id": "mkt:01a06495-c960-7118-8470-13a78317ee46",
+      "time": "2026-09-03 08:05:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "Nasdaq100"
+      ],
+      "text": "【CITIC Securities: September asset allocation to focus on three themes】CITIC Securities says September allocations should center on three themes: defensive core positions — dividend/high‑yield, low‑volatility equities and gold as a stagflation hedge; structural offense — A‑share resources and hard‑tech names with strong earnings visibility; and a US equity rotation from crowded hardware bottleneck stocks into cloud providers, software applications, compute leaders and semiconductor equipment. The report flags potential opportunities in dollar‑liquidity‑sensitive assets in September, warns against chasing Chinese long‑duration bonds, and is cautious on upside for domestic‑demand sectors. Implied preference ranking: top priority gold, copper and resource/dividend plays; second tier US software, cloud and compute/semiconductor equipment; cautious on long‑end bonds, domestic consumption equities and aluminium."
+    },
     {
       "id": "5074143",
       "time": "2026-09-03 08:04:52",
@@ -110618,55 +110686,6 @@
         "市場"
       ],
       "text": "鎧俠控股股價一度上漲6.8%。訊息面，鎧俠控股將在巖手縣新建一座製造工廠。此舉將提升產能，以滿足日益增長的人工智慧相關產品需求。"
-    },
-    {
-      "id": "5061074",
-      "time": "2026-08-27 08:09:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.4%，報9,096點。"
-    },
-    {
-      "id": "5061073",
-      "time": "2026-08-27 08:08:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一德國貨機緊急降落日本成田機場】據日本國土交通省成田機場事務所訊息，當地時間27日上午7時40分左右，一架從德國萊比錫飛往成田的波音777型貨機，因可能存在機體故障，緊急降落在成田機場。目前正在確認是否有人員受傷。"
-    },
-    {
-      "id": "5061072",
-      "time": "2026-08-27 08:08:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百度：將香港聯交所的第二上市地位轉換為主要上市 9月1日生效】百度在港交所公告，董事會欣然宣佈，本公司自願將其於香港聯交所的第二上市地位轉換為主要上市，將於 2026 年 9 月 1 日生效。本公司自生效日期起於香港聯交所及納斯達克雙重主要上市。股份標記 “S” 將於轉換主要上市後，自 2026 年 9 月 1 日起從其在香港聯交所的港元及人民幣櫃檯的股份簡稱中刪除。"
-    },
-    {
-      "id": "5061071",
-      "time": "2026-08-27 08:06:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本鎧俠控股股價上漲5%。"
-    },
-    {
-      "id": "5061070",
-      "time": "2026-08-27 08:06:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭基輔市內聽到爆炸聲。"
-    },
-    {
-      "id": "5061069",
-      "time": "2026-08-27 08:05:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部派出水文監測隊伍赴受災流域開展應急水文監測】8月26日晚，水利部緊急會商部署西藏吉隆泥石流災害應急處置工作，立即派出水文監測隊伍赴受災流域開展應急水文監測，加密加強吉隆口岸上游流域降雨預報、水文監測預警特別是普熱普強藏布與錯堅河交匯處堰塞湖監測研判，為下游搶險救援提供支援，堅決防止次生災害發生。同時要深入開展錯堅河冰川崩洩影響範圍對比監測研判，從速從細排查沿途村莊及農村供水工程等受損情況，完善雨水情監測預警體系，加快水毀水利設施恢復重建。"
     }
   ]
 }
