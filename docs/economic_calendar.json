@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 08:53:27",
+  "updated": "2026-09-03 09:31:14",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -10320,9 +10320,9 @@
               "title": "澳大利亞7月商品及服務貿易帳(億澳元)",
               "importance": 1,
               "previous": "19.29",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "14.5",
+              "actual": "19.23",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184302",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -37800,9 +37800,9 @@
       "title": "澳大利亞7月商品及服務貿易帳(億澳元)",
       "importance": 1,
       "previous": "19.29",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "14.5",
+      "actual": "19.23",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184302",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
