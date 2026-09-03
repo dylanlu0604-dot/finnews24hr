@@ -1,7 +1,115 @@
 {
   "date": "2026-09-03",
-  "count": 1389,
+  "count": 1401,
   "items": [
+    {
+      "id": "5074707",
+      "time": "2026-09-03 14:47:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港：發出三號強風訊號的可能性較低。"
+    },
+    {
+      "id": "te:economy:580764",
+      "time": "2026-09-03 14:47:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Swiss Inflation Jumps to 2-Year High — Consumer prices in Switzerland accelerated by 0.8% year-on-year in August 2026, exceeding market expectations for a 0.5% gain and marking the fastest rise since August 2024. The increase followed a 0.4% rise in July, with the pickup suggesting that the franc’s recent weakening is beginning to feed through to consumer prices. Core inflation, which excludes volatile items such as energy and unprocessed food, also accelerated to 0.4% from 0.3%, marking its first increase this year. On a monthly basis, consumer prices rose 0.1%, reversing a 0.1% decline in July. The data came ahead of the Swiss National Bank’s monetary policy decision later this month, though inflation remains within its 0-2% target range. The SNB has signaled that it could cut rates below zero if necessary, while officials expect the policy rate to remain at zero through 2027."
+    },
+    {
+      "id": "5074706",
+      "time": "2026-09-03 14:47:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：隨著戰爭影響進一步逼近俄羅斯本土，俄羅斯人越來越多地轉向持有現金。俄羅斯央行資料顯示，今年前七個月，銀行體系外流通的現金增加2.1萬億盧布（約250億美元），創戰爭爆發以來同期最大增幅。"
+    },
+    {
+      "id": "mkt:01a06605-d5c3-7118-8478-4b1bc05bb8d1",
+      "time": "2026-09-03 14:47:33",
+      "tags": [
+        "MKT News",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "【Morgan Stanley: Dell poised to beat guidance but rally trims upside】Morgan Stanley: Dell is a core beneficiary of the AI infrastructure cycle; current constraint is supply rather than demand. Q2 AI orders totaled $60.9bln with a $95.0bln backlog. Dell’s FY2027 AI-server guide of $74bln is conservative; Morgan Stanley forecasts ~ $96bln in FY2027 and ~$150bln in FY2028 — MS’s FY2028 estimate is ~75% above consensus. ISG operating margin widened to 15%, up 6.3 ppts YoY, driven by scale, price increases, richer configurations, supply tightness and higher‑margin storage. Server & networking revenue rose 108% YoY; storage +26%, indicating growth is not solely reliant on AI servers. MS sets a $499 target and keeps a Neutral rating, citing a large prior run-up in the share price and uncertainty how long elevated margins and pull‑forward procurement can persist. Key downside risk: demand may include channel pre‑buying; if supply normalizes pricing power may fall — MS assumes FY2029 revenue declines 4.7% YoY in its model."
+    },
+    {
+      "id": "5074705",
+      "time": "2026-09-03 14:47:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博雅名下兩家公司被罰後更名】近日，快手3300萬粉絲主播李博雅（博雅g），名下兩家公司接連因偷稅被罰，事發後公司火速更名，但其本人賬號至今仍在正常直播，相關話題引發熱議。天眼查App顯示，李博雅名下關聯3家企業，分別是山西博雅精選商貿有限公司、山西景碩文化傳媒有限公司、長治市大用文化傳媒有限公司，其中山西景碩文化傳媒有限公司、長治市大用文化傳媒有限公司均因逃避繳納稅款被罰，此外，上述兩家公司均在被罰後完成更名。"
+    },
+    {
+      "id": "mkt:01a06605-6e39-7118-8478-4236e7396b1f",
+      "time": "2026-09-03 14:47:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fighting nears Russian territory; households shift into cash】As fighting approaches Russian territory, households are increasingly holding cash, reversing a multi-year decline in cash use. Data from the Russian central bank show cash circulation outside the banking system rose by 2.1 trillion rubles (~$25bn) in the first seven months of the year, the largest year-to-date increase since the war began; cash’s share of the money supply has stopped falling and edged up. Sberbank, Russia’s largest bank, is concerned because it has long relied on a large low-cost deposit base to fund lending and support margins. The development so far does not reflect deposit withdrawals — bank deposits have not fallen — but the pace of net inflows into the banking system is slowing as more households prefer holding cash."
+    },
+    {
+      "id": "5074704",
+      "time": "2026-09-03 14:46:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "日元兌美元上漲1%。"
+    },
+    {
+      "id": "5074703",
+      "time": "2026-09-03 14:46:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通證券鄭振寧：中國、沙特資本市場互聯合作進入新階段】摩根大通證券（中國）有限公司副總經理兼投資銀行部主管鄭振寧9月3日參加CMFSelect上海峰會時表示，關於中國、沙特資本市場互聯合作的討論，已經從“為什麼要連線”，進入“如何落地連線”的實操階段。在鄭振寧看來，中沙資本市場合作正在從框架走向產品落地：2023年，上交所與沙特交易所集團簽署合作備忘錄，圍繞交叉上市、ETF和市場基礎設施展開合作；2024年，境內首批投資沙特市場的ETF正式落地。展望未來，在ETF等投資產品互通的基礎上，市場關注合作如何進一步向一級市場發行和融資延伸。（上證報）"
+    },
+    {
+      "id": "5074702",
+      "time": "2026-09-03 14:45:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "普京：俄羅斯央行目前的政策迄今為止是成功的。"
+    },
+    {
+      "id": "5074701",
+      "time": "2026-09-03 14:44:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛策略師：現在重新佈局法國股市尚為時過早】高盛策略師表示，儘管法國股市相對歐洲同業存在估值折價，但其估值水平依舊缺乏吸引力。策略師稱，倘若後續政治風險兌現，法國本土股票尤其可能進一步估值下修。包括紀堯姆·雅松在內的策略師指出，他們跟蹤的法國本土股票組合市盈率接近10倍；受法國國債‑德國國債利差波動影響，該組合的估值折價可能進一步擴大。該團隊表示，從歷史規律來看，法國與德國國債利差每擴大10個基點，法國CAC40指數約下行3%，法國本土股票組合則會下跌4%。"
+    },
+    {
+      "id": "5074700",
+      "time": "2026-09-03 14:44:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳呼籲建設資料中心 奧特曼強調擁抱AI】當地時間週三，包括英偉達執行長黃仁勳、OpenAI山姆·奧特曼在內的美國科技巨頭高管敦促G20各國部長接納人工智慧，並建設支撐AI執行的資料中心。黃仁勳對各國部長表示：“歸根結底，每個國家都必須認識到，人工智慧屬於基礎設施，就如同水、道路、電力、網際網路一樣。” “每個國家都需要建設相關基礎設施，以此支撐本國本土經濟發展。”奧特曼在另一場分論壇發言，對於自建資料中心的態度沒有那麼強硬。 “部分國家會選擇自建資料中心，也有些國家不願在本國佈局，選擇向其他人租用算力。我認為兩種選擇都可行。” 但這位OpenAI負責人強調，採納AI技術這件事本身沒有選擇餘地。他將拒絕發展AI的國家比作百年前拒絕電力的國家。 “這件事沒有商量的餘地，各國必須擁抱AI。它給國家帶來的價值太高，不容忽視。” 在風險議題上，奧特曼的論調比黃仁勳更為警示。 “抱有擔憂是合理的，擔憂幫助我們預判潛在問題。”他拿城市大火催生消防安全體系做類比。他同時警示AI會造成財富集中的風險，表示OpenAI並不希望成為行業獨大的企業，也不想“攫取全部價值”。"
+    },
+    {
+      "id": "5074699",
+      "time": "2026-09-03 14:44:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：儘量避免金融體系因過度舉債而超負荷運轉。"
+    },
     {
       "id": "mkt:01a06602-39df-7118-8478-3adbe4c08fdc",
       "time": "2026-09-03 14:43:36",
