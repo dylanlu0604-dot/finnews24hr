@@ -1,7 +1,30 @@
 {
-  "updated": "2026-09-04 00:21:21",
-  "count": 12897,
+  "updated": "2026-09-04 00:25:23",
+  "count": 12898,
   "items": [
+    {
+      "id": "mkt:01a06815-8b79-7118-848d-3064c0c78afb",
+      "time": "2026-09-04 00:23:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Sources said a nine-story building in Kyiv's Holosiivskyi district was damaged in a Russian military strike."
+    },
+    {
+      "id": "mkt:01a06813-35d5-7118-848d-2ec6fab42c6c",
+      "time": "2026-09-04 00:21:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "The Verge reports Apple (AAPL.O) may abandon plans for a rumored foldable MacBook project."
+    },
     {
       "id": "te:markets:581033",
       "time": "2026-09-04 00:18:56",
@@ -118479,18 +118502,6 @@
         "Importance 2"
       ],
       "text": "Tech Earnings Lift Stock Indices — US equity indices gained traction on Thursday as strong results by Nvidia supported the tech sector. The S&P 500 and Nasdaq 100 rose nearly 1% while the Dow added 200 points. Nvidia surged over 9% after soaring demand for AI compute drove the world's largest company to forecast a 70% surge in revenue next fiscal year, challenging the persistent skepticism that capital expenditure on AI infrastructure was bound to slow. The outlook supported other companies with exposure to AI infrastructure, with Broadcom and Intel gaining 4% and 3%, respectively. AI also supported software infrastructure, with Salesforce and Crowdstrike and Salesforce soaring around 20% each after their earnings. On the other hand, broader sectors were lower amid persistent concerns of an unfavorable macroeconomic backdrop. Long-term bond yields remained near their peaks amid widening federal deficits, soaring AI debt issuance, renewed tariffs with Canada and major trading partners, and risks of high energy inflation."
-    },
-    {
-      "id": "te:markets:578778",
-      "time": "2026-08-28 00:21:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes at Near 2-Week High — The DAX 40 closed about 0.3% up at 26,367 on Thursday, the highest level since mid-August, marking the third session of gains. Tech stocks, including chipmakers and software firms, led the advance, after Nvidia’s strong sales outlook reinforced optimism over continued AI spending. SAP was the standout performer, climbing 5.2%, while Infineon Technologies added 4%. Autos also posted solid gains, led by BMW (+3.9%), Volkswagen (+3.4%) and Mercedes-Benz Group (+2.1%). Meanwhile, investors remained cautious amid geopolitical uncertainties and ahead of the Jackson Hole central bankers’ symposium, which kicks off today, with Fed Chair Kevin Warsh scheduled to speak on Friday. The ECB’s meeting Accounts suggested that a rate hike could be needed in September, with policymakers highlighting upside risks to inflation and downside risks to growth stemming from the Middle East."
     }
   ]
 }

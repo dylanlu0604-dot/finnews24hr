@@ -1,7 +1,30 @@
 {
   "date": "2026-09-04",
-  "count": 26,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a06815-8b79-7118-848d-3064c0c78afb",
+      "time": "2026-09-04 00:23:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Sources said a nine-story building in Kyiv's Holosiivskyi district was damaged in a Russian military strike."
+    },
+    {
+      "id": "mkt:01a06813-35d5-7118-848d-2ec6fab42c6c",
+      "time": "2026-09-04 00:21:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "The Verge reports Apple (AAPL.O) may abandon plans for a rumored foldable MacBook project."
+    },
     {
       "id": "te:markets:581033",
       "time": "2026-09-04 00:18:56",
