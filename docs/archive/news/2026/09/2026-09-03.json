@@ -1,7 +1,110 @@
 {
   "date": "2026-09-03",
-  "count": 2494,
+  "count": 2505,
   "items": [
+    {
+      "id": "5075920",
+      "time": "2026-09-03 23:12:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾：我們不能坐等不確定性自行消散。"
+    },
+    {
+      "id": "5075919",
+      "time": "2026-09-03 23:11:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金漲幅擴大，上漲近 5%，報 1412.64 美元 / 盎司。"
+    },
+    {
+      "id": "5075918",
+      "time": "2026-09-03 23:10:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾：觀望策略存在利率陷入 “維持現狀” 的風險。"
+    },
+    {
+      "id": "mkt:01a067d1-c95e-7118-848b-596c51729ea7",
+      "time": "2026-09-03 23:09:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract rose more than 3%, trading at 16,448 yuan per kilogram."
+    },
+    {
+      "id": "mkt:01a067d1-5bd3-7118-848b-57dd7644cb46",
+      "time": "2026-09-03 23:09:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England chief economist Pill said the war in Iran has not shaken long-term expectations."
+    },
+    {
+      "id": "5075917",
+      "time": "2026-09-03 23:09:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行首席經濟學家皮爾：伊朗戰爭並未使長期預期脫離錨定。"
+    },
+    {
+      "id": "mkt:01a067d1-43e4-7118-848b-4e9dc947c991",
+      "time": "2026-09-03 23:09:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russia-appointed authorities said a Ukrainian drone struck a passenger bus in Horlivka in Russian-controlled Donetsk region, killing one civilian and wounding five."
+    },
+    {
+      "id": "mkt:01a067d0-c919-7118-848b-4589134151c0",
+      "time": "2026-09-03 23:08:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rises about 3% intraday to $67.28/oz."
+    },
+    {
+      "id": "5075916",
+      "time": "2026-09-03 23:08:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報67.31美元/盎司。"
+    },
+    {
+      "id": "5075915",
+      "time": "2026-09-03 23:08:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4550美元/盎司，日內漲3.07%。"
+    },
+    {
+      "id": "5075914",
+      "time": "2026-09-03 23:08:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4500美元/盎司，日內漲2.56%。"
+    },
     {
       "id": "mkt:01a067cf-cb30-7118-848b-391ece101b38",
       "time": "2026-09-03 23:07:46",
