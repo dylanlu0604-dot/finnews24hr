@@ -1,7 +1,93 @@
 {
   "date": "2026-09-03",
-  "count": 2585,
+  "count": 2594,
   "items": [
+    {
+      "id": "te:markets:581021",
+      "time": "2026-09-03 23:55:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Close Higher — London’s FTSE 100 gained ground to close about 0.7% firmer at a near one-week high of 10,832 on Thursday, after two sessions of losses, as bond markets stabilized, while firmer commodity prices also provided support. Meanwhile, Middle East tensions kept oil prices elevated. On the domestic front, final PMI data confirmed activity across Britain’s dominant services sector expanded more solidly in August. Precious metals miners Endeavour Mining and Fresnillo were among the top performers, up 3.6% and 2.9%. respectively, mainly benefiting from rising prices of gold. Telecommunication companies also provided support. Vodafone Group PLC shares rose 2.4% after its VodafoneThree subsidiary unveiled a new television and entertainment service, taking on rivals including Sky, BT and Virgin Media O2. Airtel Africa also advanced firmly, adding more than 2%."
+    },
+    {
+      "id": "5075959",
+      "time": "2026-09-03 23:53:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱報道美軍彈藥不足是叛國】美國總統特朗普9月3日在社交媒體平臺發帖，指責媒體未如實報道美國武器彈藥庫存情況，並稱打算向歐洲追討美國給烏克蘭軍援的款項。特朗普在帖文中稱，“對於那些拒絕如實報道我們對伊朗軍事行動的‘叛國敗類’，我們擁有幾乎無限的中高階彈藥，數量遠超我們在這場行動、或任何（極不可能發生的）其他戰爭中可能用到的。此外，我們正在以史無前例的規模生產彈藥。我們正在囤積物資，為任何可能發生的突發情況做準備。我們正在把這些彈藥留給我們自己，留給美國，而不是賣給別人，但對盟友的軍售很快將再次開始。” 特朗普還稱，“拜登政府向烏克蘭免費贈送的彈藥，遠比我們在伊朗用掉的要多得多。數百億美元被無償送給了烏克蘭和北約，而這些錢本來歐洲是願意付的——只要當時問他們要。不過我們現在會去要這筆錢，雖然有點晚了。” （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a067f9-d589-7118-848c-cd2264b5653c",
+      "time": "2026-09-03 23:53:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shanghai INE crude futures (SC) most-active contract fell more than 2.0% intraday to 677.00 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a067f9-9567-7118-848c-c180855d0df9",
+      "time": "2026-09-03 23:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department reiterated support for implementation of the framework agreement between Israel and Lebanon."
+    },
+    {
+      "id": "5075958",
+      "time": "2026-09-03 23:53:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月銅進口量創歷史新高】美國商務部週四公佈的官方資料顯示，受貿易商繼續在美國可能徵收關稅前大量運入銅的推動，美國7月進口精煉銅及銅合金225,094噸，創歷史新高。根據貿易資料監測機構Trade Data Monitor的資料，美國商務部公佈的7月進口量為1990年以來所有月度記錄中的最高水平，環比增長78%，同比增長8%。"
+    },
+    {
+      "id": "mkt:01a067f9-5b67-7118-848c-bf2c0e955066",
+      "time": "2026-09-03 23:53:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department says it will continue to help Israel and Lebanon maintain \"daily dialogue\"."
+    },
+    {
+      "id": "mkt:01a067f9-4cd9-7118-848c-b755765ae5fb",
+      "time": "2026-09-03 23:53:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【U.S. July copper imports hit record high】U.S. Commerce Department data showed July refined copper and copper-alloy imports at 225,094 tonnes, a monthly record. Trade Data Monitor said the figure was the highest since 1990, up 78% MoM and 8% YoY, driven by traders front-loading shipments ahead of potential U.S. tariffs."
+    },
+    {
+      "id": "mkt:01a067f9-3787-7118-848c-aca9a527f45f",
+      "time": "2026-09-03 23:53:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says it hopes to expand discussions between Israel and Lebanon."
+    },
+    {
+      "id": "5075957",
+      "time": "2026-09-03 23:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員透露，五角大樓將臨時撤銷近期有關美軍士兵睪酮檢測的指導檔案。"
+    },
     {
       "id": "5075956",
       "time": "2026-09-03 23:52:12",
