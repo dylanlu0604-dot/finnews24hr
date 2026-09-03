@@ -1,7 +1,110 @@
 {
   "date": "2026-09-03",
-  "count": 954,
+  "count": 965,
   "items": [
+    {
+      "id": "mkt:01a0651d-f9ec-7118-8473-9a1963b4a661",
+      "time": "2026-09-03 10:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SAMR to prioritize support for integrated domestic‑foreign trade firms and exporters shifting to domestic sales of same‑line, same‑standard, same‑quality products】The State Administration for Market Regulation has published a draft Implementation Opinions to promote same‑line, same‑standard, same‑quality (three‑same) products and is soliciting public comment. Local commerce authorities will back companies participating in the \"Foreign Trade Quality China Tour\" to promote three‑same items; industry associations and manufacturers are encouraged to drive online and offline sales through exhibitions and consumer trials. The draft prioritizes support for integrated domestic‑foreign trade operators and exporters switching to domestic sales to produce and sell three‑same products, and encourages integrated trade service platforms or dedicated three‑same enterprise platforms to offer centralized display, channel matching and market‑promotion services. Information displayed on platforms must be consistent with data provided via the three‑same product QR code."
+    },
+    {
+      "id": "5074380",
+      "time": "2026-09-03 10:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "極氪發文稱，2027款極氪7X將於今年第四季度上市。"
+    },
+    {
+      "id": "te:markets:580673",
+      "time": "2026-09-03 10:33:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rebound on Rate Hopes — The Hang Seng Index rose 0.6%, or 150 points, to 25,459 on Thursday, tracking gains across Asian markets as a pause in the global bond selloff eased concerns over tighter monetary policy. The rebound followed a weaker-than-expected US private-sector jobs report and comments from New York Fed President John Williams that suggested there was no immediate need for further rate hikes. Meanwhile, President Donald Trump said renewed US attacks on Iran would likely be short-lived, helping ease concerns over a prolonged Middle East conflict, while lower oil prices provided some relief over inflation and energy-cost pressures. Technology and financial stocks also gained, supporting the broader market. Shein also remained under pressure, with shares falling more than 5% on Wednesday to HK$46 on their second day of Hong Kong trading. Notable gainers included Tencent (0.4%), Lenovo (1.1%), MiniMax (1.0%), Akeso (3.0%), AIA (1.8%)."
+    },
+    {
+      "id": "5074379",
+      "time": "2026-09-03 10:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【43.1萬人次已培訓！養老機構消防安全年底前要實現全覆蓋】記者從國家消防救援局今天（9月3日）舉行的例行新聞釋出會上獲悉，近年來，民政部紮實推進養老機構從業人員消防安全素質提升，取得階段性成效。今年4月，民政部會同國家消防救援區域性署開展養老機構從業人員消防基本技能實操實訓，截至8月底，已培訓43.1萬人次；兩部門明確，要在年底前實現從業人員全覆蓋培訓，達到“會報告火警、會處置初起火災、會組織疏散逃生”基本要求。今年5月，兩部門還聯合舉辦全國養老機構消防安全培訓班，採取“政策解讀+案例警示+理論授課+實操實訓”相結合方式線上線下共培訓3.1萬名安全管理骨幹和機構負責人。（央視新聞）"
+    },
+    {
+      "id": "te:markets:580672",
+      "time": "2026-09-03 10:33:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Near 3-Month Top — The Australian dollar held above $0.71, trading near its highest level in more than three months as strong economic growth strengthened the odds of an imminent rate hike, while investors weighed the latest trade figures. The country’s goods trade surplus narrowed to A$1.9 billion in July from a revised A$2.3 billion in June, but remained above expectations of A$1.45 billion, as weaker gold exports and fuel imports drove the decline. Meanwhile, recent data showed the economy held up better than expected in the second quarter, reinforcing expectations that the Reserve Bank of Australia could resume tightening after raising rates three times this year. Markets increased the odds of a hike this month to 58% from 49% before the GDP release, while a move to 4.60% is fully priced for November. The hawkish policy outlook also came as renewed fighting in the Gulf pushed oil prices higher and raised concerns over inflation."
+    },
+    {
+      "id": "5074378",
+      "time": "2026-09-03 10:32:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元<JPY=EBS>跌勢擴大，下跌0.4%，報158.07。"
+    },
+    {
+      "id": "mkt:01a0651c-2ef7-7118-8473-94f7df9e40e4",
+      "time": "2026-09-03 10:32:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "9988.HK"
+      ],
+      "text": "【Alibaba Cloud's Qoder launches 'glasses' edition; will integrate with Qianwen and Leqi AI glasses】Alibaba Cloud said on Sept. 3 its intelligent-agent programming platform Qoder has launched a 'glasses' edition, initially integrating with Qianwen AI glasses and Leqi AI glasses. Users will be able to have an agent execute tasks via voice through the glasses without opening a phone or touching a screen."
+    },
+    {
+      "id": "5074377",
+      "time": "2026-09-03 10:32:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2400美元，日內漲0.45%。"
+    },
+    {
+      "id": "5074375",
+      "time": "2026-09-03 10:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報155950元/噸，較上日16:30價格上漲350元/噸。"
+    },
+    {
+      "id": "5074374",
+      "time": "2026-09-03 10:31:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國將把韓國電力公司（KEPCO）的五個發電部門合併為一個。"
+    },
+    {
+      "id": "5074373",
+      "time": "2026-09-03 10:30:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國政府將協助韓國煤炭公司清算。"
+    },
     {
       "id": "mkt:01a0651a-6197-7118-8473-894eac18e679",
       "time": "2026-09-03 10:30:22",
