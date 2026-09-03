@@ -1,7 +1,423 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-03 23:09:01_
-_本檔包含 2184 則快訊，約 517964 字_
+_更新時間：2026-09-04 00:25:23_
+_本檔包含 2233 則快訊，約 519401 字_
+
+---
+
+### 2026-08-30 08:11:16  #市場 #國際
+
+【普京：俄羅斯在全球煤炭市場佔據領先地位】俄羅斯總統普京表示，俄羅斯在全球煤炭市場佔據領先地位，煤炭及其他礦產資源仍然是國民經濟的重要支柱之一。8月30日是俄羅斯礦工節。普京向煤炭行業從業者致以節日祝賀，並肯定他們為增強俄羅斯主權和國防能力所作出的貢獻。普京在影片講話中指出：“煤炭、焦炭、鐵礦石及其他自然資源是大自然對俄羅斯的慷慨饋贈，至今仍是國家經濟的重要基石。目前，俄羅斯煤炭儲量居世界第二位，出口量居第三位，開採量居第六位。儘管煤炭行業當前面臨複雜形勢，俄羅斯在全球市場上仍保持領先地位。”
+
+---
+
+### 2026-08-30 08:10:41  #MKT News #Commodities #Energy
+
+【Putin says Russia retains leading position in global coal market】In a video address on Aug. 30 marking Miners’ Day, Putin said coal and other mineral resources remain a cornerstone of Russia’s economy and its sovereignty. He said Russia’s coal reserves are the world’s second-largest, coal exports rank third and coal production ranks sixth, and that despite a complex operating environment Russia continues to hold a leading position in global coal markets.
+
+---
+
+### 2026-08-30 08:05:44  #MKT News
+
+【President Trump's Sunday schedule】20:00 Beijing time on Aug 30 — at the White House for administrative duties.
+
+---
+
+### 2026-08-30 08:02:20  #公司 #市場 #國際
+
+【日內交易員正大批拋售韓國晶片槓桿 ETF】一項繁瑣的模擬交易課程，正成為韓國抑制投資者追捧高風險產品的有效手段。這類高風險產品已令該國規模達 4.3 萬億美元的股市劇烈波動。瞄準三星電子、SK 海力士晶片企業兩倍日收益的槓桿交易所交易基金，交易額已暴跌至 6 月峰值的 4%，即將迎來首次月度資金流出。據媒體情報整理的首爾上市產品資料顯示，掛鉤三星電子與 SK 海力士的單隻股票 ETF，8 月至今合計資金流出規模約 10 億美元，即將迎來成立以來首次月度大規模資金出逃。截至 8 月 27 日，上述 ETF 合計管理資產規模從 6 月末峰值 114 億美元縮水至 50 億美元。此次規模暴跌源於多輪全球科技股拋售潮，市場擔憂人工智慧行業高額投入以及商業化變現前景。媒體情報分析師辛麗貝卡表示：“監管機構持續收緊相關規則，短期內資金流出態勢或將延續。韓國監管當局的態度已經從支援這類產品，轉向主動加以約束。”交易熱度快速降溫，雖然讓希望逢高套現的存量投資者感到失望，但客觀上起到穩定市場的效果。韓國綜合股價指數波動率指標已從 6 月末 97 的峰值回落至約 50，創下四個月新低。韓國股市基準指數今年迄今累計上漲 61%，但仍較兩個月前創下的歷史高點低 25%。
+
+---
+
+### 2026-08-30 07:51:28  #其他
+
+【金正恩表彰為強化國防力量作出突出貢獻的人員】據朝中社30日報道，朝鮮勞動黨總書記、國務委員長金正恩29日在勞動黨中央委員會本部會見主要國防科研機構科學家、研究員和幹部，表彰他們為強化國防力量作出突出貢獻。報道說，朝鮮國防科研部門遵循勞動黨九大提出的武裝力量現代化方針，創新開發出多項堪稱推動戰爭執行能力和強化遏制力的專利技術。金正恩親自向為加強國防力量作出突出貢獻的科學家、研究員和幹部授予朝鮮英雄稱號和金質獎章，以及一級國旗勳章、金日成勳章。金正恩高度評價朝鮮國防科研部門開發應用的創新性專利軍事科技成果，表示這些成果是推動朝軍武器戰鬥系統現代化程序的一次革命，他向國防科研團隊的努力和貢獻表示真誠的敬意。（新華社）
+
+---
+
+### 2026-08-30 07:30:35  #國際
+
+【冰島就是否重啟入盟談判舉行公投】當日，冰島舉行全民公投，就是否重啟加入歐盟的談判進行表決。（新華社）
+
+---
+
+### 2026-08-30 07:29:28  #國際
+
+日本對福井縣釋出最高階別暴雨預警。
+
+---
+
+### 2026-08-30 07:28:50  #國際
+
+【據訊息人士透露，美國中央情報局局長在訪問莫斯科期間，試探性提議舉行特朗普‑普京‑澤連斯基三方峰會】據兩名瞭解內情的訊息人士透露，美國中央情報局局長約翰・拉特克利夫本週早些時候秘密出訪莫斯科，為推動結束俄烏戰爭，提議舉行特朗普總統、俄羅斯總統普京與烏克蘭總統澤連斯基三方會晤。訊息人士稱，拉特克利夫此次訪問的部分目的，是研判俄羅斯情報部門高層能否說服普京重啟由美國斡旋的俄烏談判。週五，美國官員向澤連斯基通報了拉特克利夫在莫斯科的會談情況以及舉辦三方峰會的提議。特朗普政府此前已經提出過該構想。澤連斯基表示支援，但遭到普京拒絕。媒體援引訊息人士的說法，拉特克利夫得出結論，俄羅斯聯邦安全域性局長博爾特尼科夫是可以推動重啟外交程序的建設性人物。
+
+---
+
+### 2026-08-30 07:26:58  #國際
+
+訊息人士稱：美國中央情報局局長拉特克利夫在訪問莫斯科期間，提議舉辦特朗普‑普京‑澤連斯基三方峰會。
+
+---
+
+### 2026-08-30 07:22:46  #其他
+
+【尼泊爾山洪已致675人遇難 2498人失聯】據尼泊爾國家減少災害風險管理局公佈的資料，截至當地時間29日18時30分，尼泊爾泥石流造成的死亡人數為675人，失聯人數升至2498人。（央視新聞）
+
+---
+
+### 2026-08-30 07:19:56  #國際
+
+【改名風波再起 加拿大官員在安大略湖畔樹立標牌】當地時間8月29日，加拿大安大略省省長道格·福特在安大略湖畔一座公園內揭幕了一塊帶有“安大略湖”名稱的標牌，標牌上還寫著“現在和永遠”。福特表示，特朗普想要給安大略湖改名，是因為他不喜歡加拿大和安大略省捍衛自身的權益。福特稱，他想向特朗普傳達一個資訊，那就是加拿大人堅韌不拔、意志堅定。福特說，在特朗普出現之前，或很久之後，這片湖泊將一直叫作“安大略湖”。（央視新聞）
+
+---
+
+### 2026-08-30 07:13:06  #公司
+
+【無保單理賠、大災互認 銀行業保險業保障災區應急金融需求】記者從金融監管總局瞭解到，自啟動保險業二級救災應急響應以來，各保險公司針對西藏吉隆縣泥石流災害，推出無保單理賠、無差別救援、大災互認等多項應急舉措。截至目前，保險業接報案初步估損金額近億元，銀行機構加大現鈔調配投放力度，提供應急保障現金2億元，發放普惠貸款1200多萬元，保障災區群眾應急金融需求。（央視新聞）
+
+---
+
+### 2026-08-30 07:12:24  #國際
+
+【美國南卡羅來納州發生槍擊事件 致1死1傷】當地時間8月29日，美國南卡羅來納州哥倫比亞市警察局稱，當天上午，該市發生一起槍擊事件，導致兩名警察受傷，隨後其中一名警察死亡。相關部門正聯合調查這起事件。當地警察局表示，目前已無安全威脅，相關調查工作仍在進行中。（央視新聞）
+
+---
+
+### 2026-08-30 07:08:45  #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、算力運營服務年收入超八百億元，市場化率超九成 從儲存到智算，貴州靠什麼？
+2、中埃務實合作成果豐碩
+3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
+4、中吉政商界人士共話兩國商務投資合作新前景
+5、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
+
+---
+
+### 2026-08-30 07:06:39  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、模速空間 創新點亮年輕事業
+2、未來之城 青年書寫智慧新篇
+3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
+4、中央黨校（國家行政學院）舉行秋季學期開學典禮 蔡奇出席並講話
+5、前7月機械工業生產實現較快增長
+6、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
+7、各方力量持續奮戰西藏吉隆救災一線 搶險救援工作緊張有序開展
+8、圖片報道
+9、分秒必爭 科學救援
+
+---
+
+### 2026-08-30 07:03:58  #公司 #國際
+
+【特朗普的委內瑞拉石油交易依賴一位實力雄厚但頗具爭議的合作方】特朗普政府這項用於開發委內瑞拉龐大石油資源的協議十分特殊，美國政府將與一位影響力巨大、同時極具爭議的委內瑞拉商人展開合作。據四名瞭解該協議的知情人士透露，根據特朗普總統上週五晚間公佈的協議，美國將與亞歷杭德羅・貝坦庫爾特・洛佩斯開展合作，其家族掌控著委內瑞拉第二大私營石油企業北美藍色能源合夥公司。其中三名知情人士表示，聯邦政府預計將透過美國國防部戰略資本辦公室，為委內瑞拉相當一部分已探明石油儲量的開發提供支援，而貝坦庫爾特的公司將主導實際運營。該協議覆蓋委內瑞拉境內共計 17 處油田。委內瑞拉總統德爾西・羅德里格斯對該協議表示支援，並於上週五晚間發表宣告稱，該協議將 “對本國的復興產生重大影響”，可為政府帶來超 2000 億美元的稅收收入。
+
+---
+
+### 2026-08-30 06:54:02  #國際
+
+市場資訊：特朗普的委內瑞拉石油協議高度依賴華盛頓說客亞歷杭德羅·洛佩斯。洛佩斯家族掌控委內瑞拉一家頭部石油生產企業。
+
+---
+
+### 2026-08-30 06:44:28  #其他
+
+中央氣象臺8月30日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-08-30 06:41:33  #國際
+
+委內瑞拉政界各派均譴責與美國達成的石油協議。
+
+---
+
+### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Shaanxi Coal earnings above expectations at 0.55 CNY — Shaanxi Coal (601225) released earnings per share at 0.55 CNY, compared to market expectations of 0.47 CNY.
+
+---
+
+### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Industrial Bank earnings below expectations at 0.75 CNY — Industrial Bank (601166) released earnings per share at 0.75 CNY, compared to market expectations of 0.89 CNY.
+
+---
+
+### 2026-08-30 06:26:43  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) released earnings per share at 0.37 CNY, compared to market expectations of 0.32 CNY.
+
+---
+
+### 2026-08-30 06:26:35  #其他
+
+【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。
+
+---
+
+### 2026-08-30 06:16:58  #焦點 #國際
+
+以色列能源部長稱，即便美國達成協議，以色列仍會再次打擊伊朗。
+
+---
+
+### 2026-08-30 06:15:39  #國際
+
+芬蘭總統斯圖布談及俄羅斯：我不認為俄羅斯會因為當下實際出現的經濟狀況而結束這場衝突。絕不要低估俄羅斯人承受經濟困境的能力。回顧蘇聯時期就足以理解這一點。
+
+---
+
+### 2026-08-30 06:15:04  #MKT News #Market Themes #The Trump Trade
+
+Finland's President Alexander Stubb said whether you like it or not, Trump is one of the most influential presidents in U.S. history; he will take action and is capable of delivering results.
+
+---
+
+### 2026-08-30 06:10:37  #MKT News #DXY #Impact mixed #XAUUSD #WTI
+
+【Finnish president says Russia unlikely to attack NATO】Finnish President Alexander Stubb said he does not expect Russia to attack NATO, calling it "the world's most powerful military alliance," but urged NATO to prepare for worst-case scenarios. Stubb said Russian battlefield losses have outpaced recruitment and Moscow may mobilize additional forces this autumn, a move he warned would carry domestic political consequences. He added that, despite Russia’s increasingly complicated position, Moscow is unlikely to end the conflict solely because of economic hardship and that Russians can tolerate significant economic pain.
+
+---
+
+### 2026-08-30 06:06:31  #國際
+
+芬蘭總統斯圖布談及特朗普：無論你喜不喜歡，特朗普都是美國歷史上最具影響力的總統之一。他會付諸行動，並且能夠推動事情落地。
+
+---
+
+### 2026-08-30 06:02:47  #其他
+
+馬斯克旗下xAI的Grok機器人現已可在X平臺使用。
+
+---
+
+### 2026-08-30 06:01:00  #國際
+
+美國加州一輛滿載藍帶啤酒的卡車失蹤，當地警方正在調查，認為這可能是一起規模更大的貨物盜竊案的一部分，涉案酒水價值約7萬美元。藍帶啤酒方表示此事屬實，並懸賞徵集線索，同時給卡車竊賊留出有限時間歸還車輛，承諾“不予追究”。
+
+---
+
+### 2026-08-30 05:52:45  #焦點 #國際
+
+【伊朗副外長：未經協調任何船隻無法透過霍爾木茲海峽】伊朗外交部副部長加里巴巴迪29日表示，霍爾木茲海峽目前完全關閉。任何船隻如透過該海峽，均需要經過伊朗的協調和許可。加里巴巴迪說，伊朗武裝力量完全掌握霍爾木茲海峽的一切動向，美國方面有關船隻透過該海峽的說法“完全不屬實”。
+
+---
+
+### 2026-08-30 05:48:52  #國際
+
+芬蘭總統斯圖布表示，俄羅斯不太可能冒險攻擊北約。
+
+---
+
+### 2026-08-30 05:46:29  #MKT News #WTI #Impact bullish #Brent #Copper
+
+Prime Minister Carney said Canada’s economy grew at its strongest pace in three years in Q2; exports rose and business investment increased. He said plans to bolster the domestic economy and diversify international trade partners are working.
+
+---
+
+### 2026-08-30 05:45:22  #公司 #國際
+
+【韓國10大券商二季度淨利近6萬億韓元 股價卻集體承壓】韓國主要證券公司今年第二季度實現創紀錄的近6萬億韓元利潤，但近期券商股卻表現疲軟。據韓國金融投資行業29日訊息，韓國10大券商（未來資產、韓國投資、三星、KB、NH、新韓、Meritz、Kiwoom、韓亞、大信）今年第二季度合併口徑淨利潤達到5.9362萬億韓元，較上一季度增長37%，同比增長141%。韓國主要券商業績表現穩健，但股價卻較為疲軟。韓國交易所證券業指數5月9日收於9804.97點，創下年內新高，隨後大幅回落。6月該指數跌至6400至7400點區間，7月進一步跌至4700至6400點區間，本月則在5000至5500點區間波動。
+
+---
+
+### 2026-08-30 05:45:03  #MKT News
+
+【Top 10 South Korean brokers report nearly KRW 6tn Q2 net profit; shares under pressure】South Korea's 10 largest brokerage firms reported a record consolidated Q2 net profit of KRW 5.9362 trillion, up 37% QoQ and 141% YoY. Despite robust earnings, broker stocks have weakened: the KRX securities industry index peaked at 9,804.97 on May 9, then slid to 6,400–7,400 in June, 4,700–6,400 in July and has traded around 5,000–5,500 this month.
+
+---
+
+### 2026-08-30 05:37:51  #國際
+
+【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。
+
+---
+
+### 2026-08-30 05:31:11  #MKT News #Market Themes #The Trump Trade #CPNG.O #Impact bearish
+
+【Trump executed two Coupang trades in June as Seoul regulatory action fuels U.S.-South Korea dispute】YONHAP reports Trump’s financial disclosure shows he executed two trades in US-listed e-commerce firm Coupang Inc. in June via a money manager. The trades come amid rising U.S.-South Korea tensions over Seoul’s regulatory handling of a large-scale data breach at Coupang. In July, staff of the U.S. House Judiciary Committee issued an interim report accusing the South Korean government of “discriminatory attacks” on Coupang and other U.S.-owned firms, saying Coupang has been a sustained target.
+
+---
+
+### 2026-08-30 05:20:40  #MKT News
+
+【Iraq official: Iraq seeks to be 'bridge' between Iran and US】Iraq's prime minister's security adviser Qasim al-Araji told Al Jazeera that Iraq maintains good relations with both Iran and the US and seeks to act as a bridge to broker an agreement safeguarding regional interests. He added Iran has stressed the need to clear extremist groups from Iraqi territory.
+
+---
+
+### 2026-08-30 05:19:35  #其他
+
+馬斯克：市場普遍預估，2027年約15吉瓦的AI算力硬體即便生產出來，也無法在2027年投入執行。問題不只是獲取電力，還需要配套建設全部變壓器、佈線、液冷裝置、大型冷水機組以及複雜網路系統。
+
+---
+
+### 2026-08-30 05:15:43  #國際
+
+受美國關稅壓力影響，通用汽車工會協議擬向加拿大汽車工廠投資11億加元。
+
+---
+
+### 2026-08-30 05:08:57  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish #MU.O
+
+【SK Hynix open to US investment; sees global memory shortage through end-2030】SK Hynix said it is open to additional investment in the US semiconductor industry but has not made any decision. The company’s CEO forecast a global memory-chip shortage lasting through end-2030. SK Hynix is scouting global sites for R&D and testing; power supply, water resources and government incentives are key selection criteria. The company said it will consider any location that can provide sufficient infrastructure and signaled it hopes to deliver further positive developments for the US AI sector.
+
+---
+
+### 2026-08-30 04:53:38  #國際
+
+伊拉克總理安全顧問：伊朗方面強調有必要將極端組織逐出伊拉克。
+
+---
+
+### 2026-08-30 04:47:02  #國際
+
+伊拉克總理安全顧問：伊拉克尋求充當伊朗與美國之間的“橋樑”。
+
+---
+
+### 2026-08-30 04:46:45  #MKT News
+
+Iraqi prime minister's security adviser Qasim al-Araji said Iraq seeks to act as a "bridge" between Iran and the United States.
+
+---
+
+### 2026-08-30 04:42:56  #MKT News
+
+TASNIM News, citing Israeli broadcaster Kan, reported Riyadh pressed the U.S. for military action against Yemen's Houthi rebels, but Washington rejected the request.
+
+---
+
+### 2026-08-30 04:35:56  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+【Explosions heard in Kyiv】Explosions were heard in Kyiv; air-raid sirens had sounded earlier.
+
+---
+
+### 2026-08-30 04:35:33  #國際
+
+【烏克蘭首都基輔傳出爆炸聲】當地時間29日，烏克蘭首都基輔市內傳出爆炸聲。此前基輔拉響了防空警報。
+
+---
+
+### 2026-08-30 04:32:15  #國際
+
+美國國家颶風中心表示，熱帶風暴卡琳娜強度增強，接近颶風級別，並繼續進入更有利的環境。
+
+---
+
+### 2026-08-30 04:29:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iran's Press TV cited security sources saying reports of large volumes of oil being transported via the southern route of the Strait of Hormuz do not reflect reality. The report said allegations that the United States transports oil via the southern Hormuz route are a US tactic to lower energy prices.
+
+---
+
+### 2026-08-30 04:28:45  #國際
+
+伊朗訊息人士：有關大量石油經由霍爾木茲海峽南線外運的說法與現場實際情況不符，這是美國為壓低能源價格而採取的手段。對方試圖取道南線通行，而我方維持海峽封鎖的相關行動仍在切實開展；違規船隻遭到打擊、油輪收到警告後轉向，都可以證明這一點。倘若南線大量運油的說法屬實，那為何美國仍在施壓促成協議、維持封鎖，同時美國國內汽油價格還在持續走高？
+
+---
+
+### 2026-08-30 04:27:03  #MKT News
+
+【UAE central bank to inspect Banque Misr UAE branch after US sanctions】After the U.S. sanctioned Banque Misr’s UAE branch in an Iran-related action, the Central Bank of the UAE said it expects banks licensed in the UAE to “not expose the UAE financial system to reputational risk” or “abuse the UAE’s advanced financial infrastructure.” The central bank said it will carry out an emergency inspection of the local branch, reiterated that the branch is subject to UAE laws and regulations, and is “studying possible special measures” against the bank. The U.S. Treasury said the sanctions are part of intensified U.S. economic action targeting Iran and its international financial partners and will cut off the branch’s access to dollar transactions.
+
+---
+
+### 2026-08-30 04:24:35  #MKT News #WTI #Impact bullish #Brent
+
+【Iran says Strait of Hormuz "completely closed"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is "completely closed" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario.
+
+---
+
+### 2026-08-30 04:19:40  #MKT News #WTI #Impact bullish #Brent
+
+Iran deputy foreign minister Gharibabadi said Iran's armed forces have full supervisory authority over all activity in the Strait of Hormuz, and U.S. claims about ships transiting the strait are entirely untrue.
+
+---
+
+### 2026-08-30 04:19:12  #MKT News #TSLA.O #Impact bullish #Copper
+
+Musk said SpaceX and Tesla are racing to build an annual solar build capacity of 100 GW, but will still need natural gas over the next few years to supplement and start up solar generation. He said the bottleneck for gas-turbine production is casting blades and guide vanes; bringing casting in-house at SpaceX could bring turbines online up to 18 months faster, a potentially transformative improvement.
+
+---
+
+### 2026-08-30 04:18:40  #焦點 #國際
+
+伊朗副外長加里巴巴迪：伊朗武裝部隊對霍爾木茲海峽內的一切活動擁有完全管轄權，美方有關船隻通行海峽的說法完全不實。
+
+---
+
+### 2026-08-30 04:17:27  #其他
+
+馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。
+
+---
+
+### 2026-08-30 04:12:54  #MKT News
+
+【Channel 12: Shin Bet says it urgently evacuated Netanyahu's eldest son from the U.S.】Channel 12 TV reported on 29, citing the Israel Security Agency (Shin Bet), that Shin Bet agents urgently evacuated Prime Minister Benjamin Netanyahu's eldest son Yair from Miami to Israel after assessing he faced a significant security threat. Shin Bet did not detail the threat. The report said agents were reassigned from President Isaac Herzog's New York detail to Miami to carry out the operation. Yair Netanyahu has long lived in Miami and is a prominent supporter of his father; his brother Avner lives in Israel.
+
+---
+
+### 2026-08-30 04:07:56  #市場 #焦點
+
+美國天然氣暗盤突破2.9美元，日內漲幅0.9%。
+
+---
+
+### 2026-08-30 04:03:56  #市場 #焦點
+
+紐約原油暗盤跌破83美元，日內跌超0.5%。
+
+---
+
+### 2026-08-30 03:58:57  #其他
+
+SpaceX：今日凌晨將獵鷹重型火箭轉運至肯尼迪航天中心39A發射臺，火箭搭載NASA羅曼空間望遠鏡，發射任務進入最終準備階段。
+
+---
+
+### 2026-08-30 03:56:54  #MKT News #Commodities #Energy #XOM.O #Impact bullish #CVX.O #WTI #Impact mixed
+
+【Warren accuses Trump of profiting-linked oil gains from US‑Iran war】Senator Elizabeth Warren accused President Trump of launching the US‑Iran war and said oil firms tied to him have profited. Democrats, citing Joint Economic Committee data and Trump’s financial disclosures through Q2 2026, said he continued trading oil and gas stocks during the conflict and that his disclosed energy holdings widened from a $13–46m range at the start of the year to $17–61m by mid‑August; the White House says Trump did not participate in the trades. Warren highlighted corporate results: ExxonMobil posted Q2 net income above $14.0bn, about double a year earlier, and Chevron’s Q2 profit rose roughly fourfold from the same period in 2025 to $12.1bn. She said ending the Iran war would lower gasoline prices.
+
+---
+
+### 2026-08-30 03:48:55  #焦點 #國際
+
+【伊朗副外長：伊阿達成霍爾木茲海峽共識，待美方履約後方可執行】伊朗副外長加里巴巴迪表示，伊朗與阿曼已就霍爾木茲海峽達成共識，但該共識要等到美國履行《伊斯蘭堡諒解備忘錄》項下承諾之後才會落地執行。加里巴巴迪週六稱：“霍爾木茲海峽目前仍處於關閉狀態，所有通行海峽的船隻都必須與伊朗方面協調。”他補充道：“我們會繼續採取防禦舉措，已做好應對任何局勢的準備。”談及卡達與巴基斯坦官員近期到訪伊朗，加里巴巴迪表示，訪問的目的是評估各方是否有可能恢復履行《伊斯蘭堡諒解備忘錄》中的各項承諾。
+
+---
+
+### 2026-08-30 03:45:22  #國際
+
+伊朗總統佩澤希齊揚：落實諒解備忘錄可阻止美以在（本）地區製造動盪。
+
+---
+
+### 2026-08-30 03:40:06  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran deputy foreign minister says not in a hurry to reopen Strait of Hormuz】On Aug. 29, Iran’s deputy foreign minister said Iran and Oman have reached an understanding on transit arrangements for the Strait of Hormuz, but the accord will not be implemented automatically. He said the understanding will not take effect unless the US fulfills its obligations, and Iran is not in a hurry to reopen the strait.
+
+---
+
+### 2026-08-30 03:39:45  #焦點 #國際
+
+【伊朗副外長稱不急於重新開放霍爾木茲海峽】當地時間8月29日，伊朗副外長加里巴巴迪表示，伊朗已與阿曼就霍爾木茲海峽通行安排達成諒解，但該諒解不會自動進入執行階段。加里巴巴迪表示，除非美國履行其義務，否則伊朗與阿曼就霍爾木茲海峽達成的諒解不會進入執行階段，伊朗不急於重新開放霍爾木茲海峽。（央視新聞）
+
+---
+
+### 2026-08-30 03:37:53  #MKT News #WTI #Impact bullish #Brent
+
+Iran's deputy foreign minister said the Strait of Hormuz will not be reopened quickly if the US does not fulfill its commitments.
+
+---
+
+### 2026-08-30 03:37:18  #MKT News
+
+Iran's deputy foreign minister said Tehran has made clear the steps the U.S. must take to return to the memorandum of understanding.
 
 ---
 
@@ -13120,113 +13536,5 @@ Cotton Extends Gains Near Two-Year High — Cotton futures rose above 90 cents p
 ### 2026-08-28 01:01:34  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 Tech Earnings Lift Stock Indices — US equity indices gained traction on Thursday as strong results by Nvidia supported the tech sector. The S&P 500 and Nasdaq 100 rose nearly 1% while the Dow added 200 points. Nvidia surged over 9% after soaring demand for AI compute drove the world's largest company to forecast a 70% surge in revenue next fiscal year, challenging the persistent skepticism that capital expenditure on AI infrastructure was bound to slow. The outlook supported other companies with exposure to AI infrastructure, with Broadcom and Intel gaining 4% and 3%, respectively. AI also supported software infrastructure, with Salesforce and Crowdstrike and Salesforce soaring around 20% each after their earnings. On the other hand, broader sectors were lower amid persistent concerns of an unfavorable macroeconomic backdrop. Long-term bond yields remained near their peaks amid widening federal deficits, soaring AI debt issuance, renewed tariffs with Canada and major trading partners, and risks of high energy inflation.
-
----
-
-### 2026-08-28 00:21:21  #Trading Economics #Markets #Germany #Stock Market #Importance 0
-
-DAX Closes at Near 2-Week High — The DAX 40 closed about 0.3% up at 26,367 on Thursday, the highest level since mid-August, marking the third session of gains. Tech stocks, including chipmakers and software firms, led the advance, after Nvidia’s strong sales outlook reinforced optimism over continued AI spending. SAP was the standout performer, climbing 5.2%, while Infineon Technologies added 4%. Autos also posted solid gains, led by BMW (+3.9%), Volkswagen (+3.4%) and Mercedes-Benz Group (+2.1%). Meanwhile, investors remained cautious amid geopolitical uncertainties and ahead of the Jackson Hole central bankers’ symposium, which kicks off today, with Fed Chair Kevin Warsh scheduled to speak on Friday. The ECB’s meeting Accounts suggested that a rate hike could be needed in September, with policymakers highlighting upside risks to inflation and downside risks to growth stemming from the Middle East.
-
----
-
-### 2026-08-28 00:21:09  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natgas Prices Rise to 5-Week High — US natural gas prices climbed above $2.90/MMBtu, reaching their highest level in five weeks, after the latest EIA data showed a smaller-than-expected increase in storage. Utilities added just 15 billion cubic feet of gas last week, below the 20 bcf forecast and well under the 33 bcf five-year average for the period. Expectations of persistent hot weather also supported prices, with above-normal temperatures forecast across much of the eastern US from August 31 through September 4. The heat is likely to sustain demand from power generators as air-conditioning use remains elevated. However, strong domestic production continues to limit the upside. Output in the Lower 48 states averaged a record 111.4 bcfd in August, up from 110.7 bcfd in July. Meanwhile, average gas flows to the nine major US LNG export terminals eased slightly to 17.1 bcfd this month from 17.2 bcfd in July, although signs of recovering LNG demand are emerging.
-
----
-
-### 2026-08-28 00:18:12  #Trading Economics #Markets #Commodity #Importance 0
-
-Gasoline Prices Fluctuate — US gasoline futures traded around $3.3 per gallon, as traders weighed geopolitical risks across key energy chokepoints. Black Sea shipments remained at risk as Russia considers intensifying military pressure on Ukraine after determining that peace negotiations have reached a dead end. Strikes targetiing Russian refineries pushed refinery runs toward multi-year lows. In the Middle East, a tanker attack kept supply risks elevated. Still, flows through the strait appear to have increased as regional producers boost exports. Iran and Oman reached an agreement on the allocation of their respective shares of the Strait of Hormuz’s waters and related revenues, although Tehran cautioned that the deal alone would not be sufficient to reopen the strait. In the US, EIA data showed gasoline inventories fell by 2.536 million barrels in the week ending August 21, well above expectations and leaving stocks 6% below the five-year average, underscoring continued tightness in the fuel market.
-
----
-
-### 2026-08-28 00:17:09  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close Lower — European stocks closed sharply lower on Thursday amid sharp pressure from banks and industrial giants. The Euro STOXX 50 fell 0.75% to 6,422 and the STOXX Europe 600 fell 0.7% to 651.7. Banks sank sharply, paring gains from the week as concerns of more restrictive financial conditions retook the market's forefront, with ECB accounts showing that selected policymakers did not oppose a hike in the central bank's June meeting. UniCredit sank 3.2% and BNP Paribas fell nearly 5%, while Santander, ING, and BBVA dropped over 2%. Meanwhile, Safran and Airbus dropped over 1% each. On top of that, AI infrastructure stocks closed in the red despite the strong earnings results and projections from Nvidia, which prompted gains state-side. ASML and Siemens Energy both fell close to 1%.
-
----
-
-### 2026-08-28 00:16:48  #Trading Economics #Economy #United States #Natural Gas Stocks Change #Importance 1
-
-US Natural Gas Stocks Rise Less Than Expected — US energy firms added 15 billion cubic feet of natural gas to storage in the week ended August 21, below market expectations of 20 bcf and marking a smaller increase than both the 17 bcf injection recorded during the same period last year and the five-year average of 33 bcf. The latest build also slowed slightly from the 16 bcf increase reported for the week ending August 14. Total inventories rose to 3.184 trillion cubic feet, leaving stockpiles around 0.9% below levels seen a year earlier but still approximately 5.5% above the five-year average for this time of year.
-
----
-
-### 2026-08-28 00:13:01  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls for 2nd Day — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a second consecutive session as weakness across banking, healthcare and commodity-related stocks weighed on the index. Mining shares came under pressure from falling metals prices, while banks and consumer-focused companies also declined. Prudential dropped around 2.5% despite reporting stronger new business profit for the first half, supported by solid performances in Hong Kong and Malaysia. Meanwhile, Nvidia’s stronger-than-expected results and upbeat outlook for artificial intelligence demand provided a significant boost to technology stocks globally, but the FTSE 100 has limited exposure to the sector and therefore lagged its European and US counterparts. Oil prices remained volatile as investors assessed developments around a potential agreement between Iran and Oman to establish a temporary route through the Strait of Hormuz.
-
----
-
-### 2026-08-28 00:12:04  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 1.17% Lower — The FTSE MIB Index decreased 618 points or 1.17 percent on Thursday to close at 52265 points. The decline was led by Hera (-3.32%), UniCredit (-3.11%) and Banco BPM SPA (-2.12%).
-
----
-
-### 2026-08-28 00:11:04  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.31% Higher — The DAX Index rose 81 points or 0.31 percent on Thursday to close at 26367 points. Leading the gains are SAP (5.82%), BMW (3.92%) and Volkswagen (3.89%). Top losers were Commerzbank (-2.71%), Deutsche Telekom (-2.56%) and MTU Aero Engines AG (-1.76%).
-
----
-
-### 2026-08-28 00:10:04  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 1.72% Lower — The CAC 40 Index dropped 146 points or 1.72 percent on Thursday to close at 8317 points. Losses were led by Societe Generale (-5.74%), BNP Paribas (-4.79%) and Orange (-4.57%).
-
----
-
-### 2026-08-28 00:07:05  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.72% Lower — The FTSE 100 Index decreased 79 points or 0.72 percent on Thursday to close at 10800 points. The decline was led by Entain (-3.21%), LondonMetric Property (-2.77%) and Prudential (-2.53%). On the upside, the strongest performers were Computacenter (4.70%), The Sage Group (4.00%) and London Stock Exchange (3.79%).
-
----
-
-### 2026-08-28 00:05:23  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
-
-US Mortgage Rates Edge Higher — US 30-year fixed mortgage rates averaged 6.66% as of August 27th, 2026, slightly up from 6.65% in the prior week. “Mortgage rates changed little this week averaging 6.66%,” said Sam Khater, Freddie Mac’s Chief Economist. The economy remains resilient, supported by steady consumer spending and rising household incomes, while increased housing supply and slower price growth in many areas are giving buyers more options and helping create a more balanced housing market. A year earlier, the 30-year fixed-rate mortgage averaged 6.56%. Meanwhile, the 15-year fixed-rate mortgage averaged 5.98%, up from 5.95% in the previous week.
-
----
-
-### 2026-08-28 00:00:37  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.2% to 52,265 on Thursday, weighed by weakness across several sectors. Utilities declined as European gas prices remained elevated, pressuring Hera (-3.3%) and A2A (-2%). Financials also underperformed amid ongoing bank merger talks. Intesa Sanpaolo fell 1.6% after filing a complaint with Consob against MPS (-2.1%) over its takeover bids for Banco BPM (-2.5%) and Generali-controlled (-0.4%) Banca Generali. Banca Generali’s board was scheduled to meet Thursday to consider the offer, while Banco BPM had yet to issue an official statement. Fitch said the offers carried considerable risks. Energy stocks also fell amid debate over Italy’s windfall tax, with Eni (-1.4%) declining for a fifth consecutive session. Offsetting part of the decline, tech stocks surged following Nvidia’s upbeat outlook, lifting STMicroelectronics (2.9%) and Prysmian (1.6%). Stellantis also jumped 2.6%.
-
----
-
-### 2026-08-27 23:59:29  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Tumbles Ahead of Fitch Review — The CAC 40 tumbled 1.7% to close at 8,319 on Thursday, falling to its lowest level in over a month ahead of Fitch’s review of France’s sovereign credit rating. Fitch’s assessment is due Friday, after the agency downgraded France to A+ last year. Political uncertainty also weighed on sentiment ahead of an early presidential debate. France faces a particularly challenging budget battle in the coming months, with one of the largest deficits in the eurozone. The budget dispute and presidential race are expected to fuel uncertainty. Losses were broad-based amid heightened risk aversion, with LVMH down 1.4%, Safran shedding 2%, Engie losing 3.4% and Vinci retreating 3.9%. Financials underperformed, with BNP Paribas losing 4.8%, Crédit Agricole down 4% and Société Générale shedding 5%. Pernod Ricard fell 4.6% after reporting lower sales in FY 2026.
-
----
-
-### 2026-08-27 23:44:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Sugar Futures Back to 1-Year Highs — US sugar futures surged beyond 18 cents per pound, moving back toward the highest since May 2025, as traders amid persistent concerns over supply. Analysts have been revising their forecasts for a global sugar deficit in 2026/27, with the shortfall potentially widening further in 2027/28 as lower cane and beet plantings weigh on production. Climate risks in major producing regions and a potential shift toward ethanol production are adding to supply concerns, particularly in Brazil. Conab expects Brazilian sugar output to decline 2.9% to 42.89 million tonnes in 2026/27, while ethanol production is forecast to increase 9.7% to 29.98 billion litres. Meanwhile, the prospect of one of the strongest El Niño events in decades threatens production in key growing regions. Uncertainty over Indian purchases remains a key factor, while developments in the oil market could influence the balance between sugar and ethanol production.
-
----
-
-### 2026-08-27 23:39:24  #Trading Economics #Markets #Commodity #Importance 1
-
-Aluminum Holds Pullback — Aluminum futures in the UK were near $3,230 per tonne, trading in a narrow range since declining from an eight-week high of $3,360 on August 11th amid momentary relief of tight supply. Exports of aluminum from China, the world's top producer, surged by 18.7% in the year to July. The country has stepped up exports as muted demand allowed producers to ship metal despite Beijing's output cap of 45 million tons, easing shortages from the Middle East due to the war in Iran. The Alunorte plant in Brazil, the world's largest alumina plant outside of China, was forced to cut operations to half capacity amid the lack of natural gas from its supplier. This added to detriment to its client Norsk Hydro, which already declared two force majeures on aluminum sales after its joint Qatari venture Qatalum plant was forced to shut off production on natural gas shortages. LNG supply from the Middle East, essential for aluminum refining, has been scarce due to tanker blockades from the US and Iran.
-
----
-
-### 2026-08-27 23:30:34  #Trading Economics #Markets #United States #stocks #Importance 1
-
-BlackRock Stock Price Hits 45-week High — BlackRock shares increased to 1187.00 USD, the highest since October 2025. Over the past 4 weeks, BlackRock gained 8.06%, and in the last 12 months, it increased 4.91%.
-
----
-
-### 2026-08-27 23:14:00  #Trading Economics #Economy #United States #Kansas Fed Manufacturing Index #Importance 1
-
-Kansas Fed Manufacturing Activity Stays Strong — The Kansas City Fed’s Manufacturing Production Index stood at 17 in August 2026, the highest reading since April 2022, unchanged from the prior month. Nondurable manufacturing activity improved, driven primarily by paper and printing manufacturing, while growth in durable manufacturing slowed. All month-over-month indexes remained positive, except for new export orders, which fell to -2. Both employment indexes eased slightly from the previous month. Meanwhile, price pressures intensified, with prices paid for raw materials rising to 55 from 53 and prices received for finished products increasing to 36 from 33. Year-on-year, most indicators stayed positive, excluding new export orders, which fell to -9. Meanwhile, expectations for future activity remained expansionary, with the composite index rising to 20 from 19.
-
----
-
-### 2026-08-27 23:11:41  #Trading Economics #Economy #Colombia #Business Confidence #Importance 1
-
-Colombia Industrial Confidence Rebounds in July — Colombia’s industrial confidence indicator rose 6.2 percentage points to 6.1% in July 2026 from the previous month, marking its strongest reading since October 2025 and the first positive reading since February. The monthly improvement was driven by a 7.3-point increase in production expectations for the next quarter to 37.7%, a 6.7-point decline in inventories to -6.7%, and a 4.6-point increase in the current volume of orders to -26.2%. However, compared with July 2025, the industrial confidence indicator declined 0.6 percentage points.
 
 ---
