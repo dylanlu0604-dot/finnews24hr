@@ -1,7 +1,110 @@
 {
-  "updated": "2026-09-03 09:39:08",
-  "count": 12100,
+  "updated": "2026-09-03 09:43:08",
+  "count": 12094,
   "items": [
+    {
+      "id": "5074284",
+      "time": "2026-09-03 09:41:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PCB概念區域性活躍 金祿電子、迅捷興均漲超10%】PCB概念區域性活躍，金祿電子、迅捷興均漲超10%，強達電路、滬電股份、方邦股份跟漲。"
+    },
+    {
+      "id": "mkt:01a064ed-5186-7118-8472-2e558268051d",
+      "time": "2026-09-03 09:41:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti military said its air-defence systems are responding to missile and drone attacks from Iran. It warned that any explosions heard would be from air-defence intercepts."
+    },
+    {
+      "id": "5074283",
+      "time": "2026-09-03 09:40:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【氫分子抗衰新材料企業奇麟正維完成數千萬元A輪融資】近日，氫分子抗衰新材料企業浙江奇麟正維醫學科技有限公司宣佈完成數千萬元A輪融資，由天圖投資旗下美麗領航基金領投。本輪融資將重點投向核心技術迭代、湖州生產基地建設、市場體系拓展與核心團隊建設。"
+    },
+    {
+      "id": "5074282",
+      "time": "2026-09-03 09:40:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紡服行業板塊持續走強，九牧王漲停】紡服行業板塊持續走強，九牧王漲停，中胤時尚、安正時尚、南山智尚、浙文影業、比音勒芬、萬事利等跟漲。"
+    },
+    {
+      "id": "5074281",
+      "time": "2026-09-03 09:40:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒盤初拉昇 龍版傳媒4連板】文化傳媒盤初拉昇，龍版傳媒、歡瑞世紀4連板，博納影業漲停，芒果超媒、幸福藍海、北京文化等漲幅居前。"
+    },
+    {
+      "id": "5074280",
+      "time": "2026-09-03 09:40:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【巴西ETF領漲ETF市場】早盤巴西ETF易方達、巴西ETF華夏漲超4%，領漲全ETF市場，兩隻ETF已連漲三天。巴西聖保羅IBOVESPA指數自8月19日以來連漲11個交易日累計漲幅超11%。"
+    },
+    {
+      "id": "mkt:01a064ec-73b7-7118-8472-22cc5c708861",
+      "time": "2026-09-03 09:40:12",
+      "tags": [
+        "MKT News",
+        "00625.HK"
+      ],
+      "text": "Xiyin-W (00625.HK) fell more than 3% in its third day of trading post-listing."
+    },
+    {
+      "id": "5074279",
+      "time": "2026-09-03 09:40:04",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【奧本海默稱SpaceX擁有巨大AI優勢，股價有望上漲一倍】一位分析師表示，SpaceX的人工智慧(AI)部門正在快速增長，在關鍵資源依然短缺之際，這賦予了該公司巨大的優勢。由蒂莫西.霍蘭(Timothy Horan)牽頭的奧本海默（Oppenheimer）分析師在週三的一份客戶報告中表示，SpaceX料將成為短期算力短缺局面的贏家。霍蘭認為，該公司“有能力比其他任何一方都更快地引入基礎設施，並且正在利用這種基礎設施及其資料，以比其他任何一方都更快的速度改進自己的模型。”霍蘭給予SpaceX股票買入評級，並將目標股價從250美元上調至280美元。新目標價意味著SpaceX較目前水平有約100%的上漲空間。霍蘭表示：“在算力依然受限的環境下，我們預計，像Anthropic這樣的合作伙伴使用SpaceX的算力每創造1美元收入，SpaceX就能分得一半。”除了出售算力，SpaceX還在利用其資源訓練自己的前沿模型Grok。SpaceX最近還完成了對AI初創公司Cursor的收購，霍蘭稱這筆收購具有“變革性”，有助於SpaceX開發其模型併產生額外收入。"
+    },
+    {
+      "id": "mkt:01a064ec-42f1-7118-8472-18aaec3903ab",
+      "time": "2026-09-03 09:40:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Brazil ETFs lead ETF market gains】E Fund Brazil ETF and Hua Xia Brazil ETF rose more than 4%, leading gains across the ETF market; both recorded their third straight daily advance. Brazil's Sao Paulo IBOVESPA has risen for 11 consecutive trading days since August 19, up over 11% cumulatively."
+    },
+    {
+      "id": "te:markets:580644",
+      "time": "2026-09-03 09:39:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Eases as Yen Strengthens — The dollar index slipped to around 99.5 on Thursday, extending losses from the previous session, as a sharp yen rally weighed on the greenback amid speculation that authorities had conducted a rate check and could intervene again to support the Japanese currency. In the US, New York Fed's John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month. Investors now look ahead to weekly jobless claims data on Thursday ahead of Friday’s August payrolls report for further guidance. Elsewhere, oil prices halted their rally after President Trump said the latest attacks on Iran would be short-lived, easing inflation concerns and reducing safe-haven demand for the greenback."
+    },
+    {
+      "id": "5074278",
+      "time": "2026-09-03 09:38:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念延續反彈 鳴志電器封漲停】人形機器人概念延續反彈，鳴志電器封漲停，豐光精密、明新旭騰、斯萊克、斯菱智驅、兆威機電等跟漲。"
+    },
     {
       "id": "mkt:01a064ea-56a2-7118-8472-101e28b756ae",
       "time": "2026-09-03 09:37:54",
@@ -111187,151 +111290,6 @@
         "公司"
       ],
       "text": "【國家能源集團新疆電力有限公司副總經理趙新一接受審查調查】中央紀委國家監委網站8月27日通報，據中央紀委國家監委駐國家能源集團紀檢監察組、新疆維吾爾自治區紀委監委訊息：國家能源集團新疆電力有限公司黨委委員、副總經理趙新一涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家能源集團紀檢監察組紀律審查和新疆維吾爾自治區監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:01a040e2-6cd0-7aab-913d-b22c6a2d0e7e",
-      "time": "2026-08-27 09:42:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2026 summer box office seen topping CNY 12.0 bln】Lighthouse Professional data show China’s 2026 summer box office (June 1–Aug 31) reached CNY 11.857 bln as of Aug 26. Industry forecasts expect the window to exceed CNY 12.0 bln, above CNY 11.966 bln in summer 2025. Shanghai researcher Yang Huaiyu said several well-reviewed late‑summer releases across realism, animation and sports have lifted content quality and sustained demand. Policy-driven cinema diversification, local consumption vouchers and modest ticket-price declines have supported attendance. Analysts say the season has a “front-low, back-high” pattern, with growth accelerating after mid‑July and word‑of‑mouth driving the late surge."
-    },
-    {
-      "id": "mkt:01a040e2-4beb-7aab-913d-afe3ef234130",
-      "time": "2026-08-27 09:42:47",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said that with financial conditions still accommodative, it is necessary to moderate the pace of tightening while continuing to raise the policy rate in a timely manner."
-    },
-    {
-      "id": "5061224",
-      "time": "2026-08-27 09:42:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "冰見野良三：外匯、人工智慧、中東等因素構成經濟前景風險。"
-    },
-    {
-      "id": "5061223",
-      "time": "2026-08-27 09:41:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫光電與武漢凌雲簽署戰略合作協議】據協鑫光電訊息，8月25日，崑山協鑫光電股份有限公司（簡稱“協鑫光電”）與武漢凌雲建築裝飾工程有限公司（簡稱“武漢凌雲”）簽署戰略合作協議。根據協議，雙方將在聯合研發、產品供應、EPC施工、市場推廣等環節開展全鏈條協作，統一BIPV產品技術標準與交付驗收標準，聯合打造“鈣鈦礦光伏幕牆門窗一體化產品體系”，共同拓展城市更新、低碳公建、超低能耗建築等綠色建築市場。"
-    },
-    {
-      "id": "5061222",
-      "time": "2026-08-27 09:41:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：僅關注即時反應可能會忽視政策變化的整體影響。"
-    },
-    {
-      "id": "5061221",
-      "time": "2026-08-27 09:41:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國救援隊抵達日喀則增援西藏吉隆泥石流救援。（新華社）"
-    },
-    {
-      "id": "5061220",
-      "time": "2026-08-27 09:41:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【證券板塊今日再度走強 錦龍股份、湘財股份2連板】證券板塊今日再度走強，錦龍股份、湘財股份2連板，國盛證券、太平洋、華林證券、華創雲信、中銀證券跟漲。"
-    },
-    {
-      "id": "5061219",
-      "time": "2026-08-27 09:41:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：監測當前狀況是評估前景和風險的基礎，但政策討論往往更側重於未來前景和風險。"
-    },
-    {
-      "id": "5061218",
-      "time": "2026-08-27 09:40:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達同意以129億美元收購開源模型平臺Hugging Face。"
-    },
-    {
-      "id": "5061217",
-      "time": "2026-08-27 09:40:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報69.47美元/盎司。"
-    },
-    {
-      "id": "5061216",
-      "time": "2026-08-27 09:40:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4630美元/盎司，日內漲0.78%。"
-    },
-    {
-      "id": "5061215",
-      "time": "2026-08-27 09:40:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報70.20美元/盎司。"
-    },
-    {
-      "id": "5061214",
-      "time": "2026-08-27 09:39:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創等在蘇州新設創投合夥企業】企查查APP顯示，近日，蘇州乾融晟潤創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由中際旭創(300308)全資子公司成都智禾光通科技有限公司等共同出資。"
-    },
-    {
-      "id": "te:economy:578421",
-      "time": "2026-08-27 09:39:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Corporate Profits",
-        "Importance 1"
-      ],
-      "text": "China Industrial Profits Rise 17.6% YoY in Jan-July — China’s industrial profits rose 17.6% year-on-year to CNY 4.58 trillion in the first seven months of 2026, slowing from an 18.7% surge in the January-June period. Still, the latest result remained robust, underscoring the resilience of industrial activity despite broader economic challenges. Profits at state-owned enterprises increased 16.3% to CNY 1.49 trillion, while joint-stock companies posted a stronger 23.6% gain to CNY 3.55 trillion. Meanwhile, private firms posted a 10.9% rise in profits to CNY 1.14 trillion. By sector, mining remained the main driver, with profits surging 34.9%, followed by manufacturing ( 18.8%). In contrast, utilities posted a 5.8% drop. By industry, the strongest gains were recorded in computer, communication and other electronic equipment (110%), non-ferrous metal smelting and rolling (91.8%), and chemicals (56.6%). In July alone, industrial profits grew 11.2% from a year earlier, slowing from June's 15.1% jump and signaling the slowest pace this year."
-    },
-    {
-      "id": "5061213",
-      "time": "2026-08-27 09:39:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”智慧感測器與工業測量重點專項調研座談會在安徽蚌埠召開】近日，“十五五”智慧感測器與工業測量重點專項調研座談會在安徽蚌埠召開。會議聚焦智慧感測器領域科技創新與產業創新深度融合，圍繞“十五五”智慧感測器與工業測量重點專項任務佈局、產業發展需求及成果轉化應用等內容開展深入交流。（工信部）"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608273855841943",
-      "time": "2026-08-27 09:39:11",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—7月份規模以上原材料製造業利潤同比增長55.2%】國家統計局工業司首席統計師於衛寧表示，1—7月份，規模以上原材料製造業利潤同比增長55.2%，拉動全部規模以上工業企業利潤增長7.1個百分點。從行業看，有色、化工行業利潤分別增長91.8%、56.6%，石油加工行業同比扭虧為盈，實現利潤總額422.1億元。"
-    },
-    {
-      "id": "5061212",
-      "time": "2026-08-27 09:39:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深中華A投資成立智數科技公司 含多項AI業務】企查查APP顯示，深圳市阿米尼智數科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧公共服務平臺技術諮詢服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由深中華A(000017)旗下深圳市阿米尼實業有限公司全資持股。"
     }
   ]
 }

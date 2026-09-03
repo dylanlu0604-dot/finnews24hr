@@ -1,7 +1,110 @@
 {
   "date": "2026-09-03",
-  "count": 802,
+  "count": 813,
   "items": [
+    {
+      "id": "5074284",
+      "time": "2026-09-03 09:41:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PCB概念區域性活躍 金祿電子、迅捷興均漲超10%】PCB概念區域性活躍，金祿電子、迅捷興均漲超10%，強達電路、滬電股份、方邦股份跟漲。"
+    },
+    {
+      "id": "mkt:01a064ed-5186-7118-8472-2e558268051d",
+      "time": "2026-09-03 09:41:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti military said its air-defence systems are responding to missile and drone attacks from Iran. It warned that any explosions heard would be from air-defence intercepts."
+    },
+    {
+      "id": "5074283",
+      "time": "2026-09-03 09:40:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【氫分子抗衰新材料企業奇麟正維完成數千萬元A輪融資】近日，氫分子抗衰新材料企業浙江奇麟正維醫學科技有限公司宣佈完成數千萬元A輪融資，由天圖投資旗下美麗領航基金領投。本輪融資將重點投向核心技術迭代、湖州生產基地建設、市場體系拓展與核心團隊建設。"
+    },
+    {
+      "id": "5074282",
+      "time": "2026-09-03 09:40:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紡服行業板塊持續走強，九牧王漲停】紡服行業板塊持續走強，九牧王漲停，中胤時尚、安正時尚、南山智尚、浙文影業、比音勒芬、萬事利等跟漲。"
+    },
+    {
+      "id": "5074281",
+      "time": "2026-09-03 09:40:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒盤初拉昇 龍版傳媒4連板】文化傳媒盤初拉昇，龍版傳媒、歡瑞世紀4連板，博納影業漲停，芒果超媒、幸福藍海、北京文化等漲幅居前。"
+    },
+    {
+      "id": "5074280",
+      "time": "2026-09-03 09:40:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【巴西ETF領漲ETF市場】早盤巴西ETF易方達、巴西ETF華夏漲超4%，領漲全ETF市場，兩隻ETF已連漲三天。巴西聖保羅IBOVESPA指數自8月19日以來連漲11個交易日累計漲幅超11%。"
+    },
+    {
+      "id": "mkt:01a064ec-73b7-7118-8472-22cc5c708861",
+      "time": "2026-09-03 09:40:12",
+      "tags": [
+        "MKT News",
+        "00625.HK"
+      ],
+      "text": "Xiyin-W (00625.HK) fell more than 3% in its third day of trading post-listing."
+    },
+    {
+      "id": "5074279",
+      "time": "2026-09-03 09:40:04",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【奧本海默稱SpaceX擁有巨大AI優勢，股價有望上漲一倍】一位分析師表示，SpaceX的人工智慧(AI)部門正在快速增長，在關鍵資源依然短缺之際，這賦予了該公司巨大的優勢。由蒂莫西.霍蘭(Timothy Horan)牽頭的奧本海默（Oppenheimer）分析師在週三的一份客戶報告中表示，SpaceX料將成為短期算力短缺局面的贏家。霍蘭認為，該公司“有能力比其他任何一方都更快地引入基礎設施，並且正在利用這種基礎設施及其資料，以比其他任何一方都更快的速度改進自己的模型。”霍蘭給予SpaceX股票買入評級，並將目標股價從250美元上調至280美元。新目標價意味著SpaceX較目前水平有約100%的上漲空間。霍蘭表示：“在算力依然受限的環境下，我們預計，像Anthropic這樣的合作伙伴使用SpaceX的算力每創造1美元收入，SpaceX就能分得一半。”除了出售算力，SpaceX還在利用其資源訓練自己的前沿模型Grok。SpaceX最近還完成了對AI初創公司Cursor的收購，霍蘭稱這筆收購具有“變革性”，有助於SpaceX開發其模型併產生額外收入。"
+    },
+    {
+      "id": "mkt:01a064ec-42f1-7118-8472-18aaec3903ab",
+      "time": "2026-09-03 09:40:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Brazil ETFs lead ETF market gains】E Fund Brazil ETF and Hua Xia Brazil ETF rose more than 4%, leading gains across the ETF market; both recorded their third straight daily advance. Brazil's Sao Paulo IBOVESPA has risen for 11 consecutive trading days since August 19, up over 11% cumulatively."
+    },
+    {
+      "id": "te:markets:580644",
+      "time": "2026-09-03 09:39:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Eases as Yen Strengthens — The dollar index slipped to around 99.5 on Thursday, extending losses from the previous session, as a sharp yen rally weighed on the greenback amid speculation that authorities had conducted a rate check and could intervene again to support the Japanese currency. In the US, New York Fed's John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month. Investors now look ahead to weekly jobless claims data on Thursday ahead of Friday’s August payrolls report for further guidance. Elsewhere, oil prices halted their rally after President Trump said the latest attacks on Iran would be short-lived, easing inflation concerns and reducing safe-haven demand for the greenback."
+    },
+    {
+      "id": "5074278",
+      "time": "2026-09-03 09:38:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念延續反彈 鳴志電器封漲停】人形機器人概念延續反彈，鳴志電器封漲停，豐光精密、明新旭騰、斯萊克、斯菱智驅、兆威機電等跟漲。"
+    },
     {
       "id": "mkt:01a064ea-56a2-7118-8472-101e28b756ae",
       "time": "2026-09-03 09:37:54",
