@@ -1,7 +1,294 @@
 {
   "date": "2026-09-03",
-  "count": 761,
+  "count": 791,
   "items": [
+    {
+      "id": "mkt:01a064e6-fdb1-7118-8471-fa582bbdc784",
+      "time": "2026-09-03 09:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fenghua Hi‑Tech: automotive-electronics revenue share continues to rise】Fenghua Hi‑Tech said at a broker strategy meeting it has stepped up expansion in automotive electronics in recent years and the segment’s revenue share has continued to rise. Its main products have completed AEC‑Q200 and IATF16949 certifications. Automotive-grade offerings have expanded from in‑vehicle peripherals into core systems including e‑drive, BMS, OBC and powertrain control. The company has launched dozens of automotive-grade passive component series, expanded automotive-spec material SKUs and improved delivery capacity, while its OEM and Tier‑1 customer base has broadened."
+    },
+    {
+      "id": "mkt:01a064e6-decb-7118-8471-f0af0afe8c09",
+      "time": "2026-09-03 09:34:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share shipping and ports sector jumped intraday; Haitong Development rose more than 8% and other shipping stocks also advanced. US media reported the US military escorted 40 commercial vessels through the strait on Tuesday carrying about 18 million barrels of oil."
+    },
+    {
+      "id": "5074270",
+      "time": "2026-09-03 09:33:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲4%，現報316.15元。"
+    },
+    {
+      "id": "5074269",
+      "time": "2026-09-03 09:33:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委召開“六張網”重大專案協調推進機制會，研究完善政銀企協作機制和專案庫建設】9月2日，國家發展改革委黨組成員、副主任嶽修虎同志主持召開“六張網”重大專案協調推進機制會，研究完善政銀企協作機制和專案庫建設。會議專題研究推動各牽頭部門和地方加快建設“六張網”專案庫，加強與金融機構的資訊共享，實現高效“投貸聯動”；加快梳理一批具有吸引力的工程專案向社會公開推介，鼓勵多元主體參與；更好發揮政府投資的撬動作用，同步完善價費形成等機制和配套支援政策，推動商業模式創新，形成共同推進“六張網”建設的合力。國家發展改革委、工業和資訊化部、住房城鄉建設部、水利部、國務院國資委、金融監管總局、國家能源局等部門，國家開發銀行、中國工商銀行、招商銀行、中國人壽、國家融資擔保基金等金融機構，以及國家資訊中心、部分地方發展改革委和企業有關負責同志參加會議。"
+    },
+    {
+      "id": "5074268",
+      "time": "2026-09-03 09:33:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊盤初走強 芯朋微漲超7%】半導體板塊盤初走強，芯朋微漲超7%，三安光電、匯成股份、長川科技等紛紛上漲。"
+    },
+    {
+      "id": "5074267",
+      "time": "2026-09-03 09:33:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "液冷概念股持續活躍，集泰股份4連板，思泉新材漲超10%，金帝股份、新朋股份、超頻三、雪人集團漲幅居前。"
+    },
+    {
+      "id": "5074266",
+      "time": "2026-09-03 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股影視院線板塊異動拉昇】博納影業、歡瑞世紀觸及漲停，幸福藍海、金逸影視、北京文化、上海電影、華策影視跟漲。"
+    },
+    {
+      "id": "5074265",
+      "time": "2026-09-03 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股影視動漫板塊異動拉昇】博納影業、歡瑞世紀觸及漲停，大晟文化、芒果超媒、幸福藍海、祥源文旅、天府文旅跟漲。"
+    },
+    {
+      "id": "5074264",
+      "time": "2026-09-03 09:32:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農業種植板塊盤初下挫，新賽股份跌停】農業種植板塊盤初下挫，新賽股份跌停，天禾股份、敦煌種業、萬向德農、綠亨科技、京糧控股、康農種業等跟跌。"
+    },
+    {
+      "id": "mkt:01a064e5-2751-7118-8471-e813299ee236",
+      "time": "2026-09-03 09:32:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's ChiNext index rose more than 1%; semiconductors, components and MLCC stocks led gains."
+    },
+    {
+      "id": "mkt:01a064e5-1bab-7118-8471-e54ef264790b",
+      "time": "2026-09-03 09:32:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning open】2-year China government bond futures (TS) main contract unchanged at the morning open; 5-year (TF) +0.01%; 10-year (T) +0.03%; 30-year (TL) +0.08%."
+    },
+    {
+      "id": "mkt:01a064e5-1b9e-7118-8471-d95f534291ad",
+      "time": "2026-09-03 09:32:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock-index futures open】CSI 300 futures (IF) main contract +0.34%; SSE 50 futures (IH) +0.19%; CSI 500 futures (IC) +0.67%; CSI 1000 futures (IM) +0.70% at morning session open."
+    },
+    {
+      "id": "mkt:01a064e5-182a-7118-8471-d1b1fc2fc2a6",
+      "time": "2026-09-03 09:32:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "300413.SZ",
+        "Impact bullish"
+      ],
+      "text": "Chinese A-share film and TV concept stocks opened higher in early trade: Huanrui Century hit the daily limit, Bona Film Group rose over 6%, while Mango Excellent Media, Tianfu Culture & Tourism, Deli Co. and Happy Blue Ocean also climbed. CITIC Securities said competition among video models is shifting toward production-readiness and commercial conversion, with AI-produced dramas emerging as the first application likely to achieve scalable consumption."
+    },
+    {
+      "id": "5074263",
+      "time": "2026-09-03 09:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊盤初走強，歡瑞世紀漲停】影視院線板塊盤初走強，歡瑞世紀漲停，博納影業、幸福藍海、奧飛娛樂、慈文傳媒、華策影視、金逸影視等跟漲。"
+    },
+    {
+      "id": "5074262",
+      "time": "2026-09-03 09:31:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.00%，現報3345.427點；上證指數漲0.49%，現報3960.578點；深證成指漲0.77%，現報13716.809點。"
+    },
+    {
+      "id": "5074261",
+      "time": "2026-09-03 09:31:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風華高科：汽車電子領域相關業務營收佔比持續提升】風華高科(000636)近日在券商策略會上表示，近年來，公司持續加大汽車電子領域市場開拓，相關業務營收佔比持續提升，公司主營產品均已完成AEC-Q200、IATF16949車用體系認證，車規品已從原有的車載周邊進入到電驅、BMS、OBC、電控等車身核心關鍵系統，並已推出幾十餘款車規級被動元器件產品系列，車規物料規格持續增加，車規品交付能力持續提升，下游整車廠及Tier1廠客戶持續豐富。"
+    },
+    {
+      "id": "5074260",
+      "time": "2026-09-03 09:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年前8個月全國共新開國際航空貨運航線115條】從中國物流與採購聯合會瞭解到，今年以來，我國國際航空貨運網路持續織密，今年前八個月，全國共新開國際航空貨運航線115條。專家表示，我國國際航空貨運網路持續織密完善，全球通達效能不斷增強。亞洲仍是航線拓展的核心陣地，歐洲空中貨運通道保持平穩執行，非洲、北美等方向佈局持續補位。（央視新聞）"
+    },
+    {
+      "id": "5074259",
+      "time": "2026-09-03 09:31:26",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞7月出口月率 -3.3%，前值9.60%。澳大利亞7月進口月率 -2.5%，前值-0.20%。"
+    },
+    {
+      "id": "mkt:01a064e4-673c-7118-8471-cd67d882e30c",
+      "time": "2026-09-03 09:31:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【China opened 115 new international air-cargo routes in Jan-Aug】China opened 115 new international air-cargo routes in the first eight months of the year, the China Federation of Logistics and Purchasing said. Additions were concentrated in Asia; European air-cargo corridors remained stable; capacity was also expanded toward Africa and North America."
+    },
+    {
+      "id": "5074258",
+      "time": "2026-09-03 09:31:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國電力公司要求三星預防20萬億韓元電費，SK海力士預防5萬億韓元】韓國電力公司（KEPCO）已提議三星電子預付20萬億韓元（約合150億美元）的電費，用於支付其電網擴建專案直至2031年。一份KEPCO內部檔案稱，KEPCO還提議SK海力士預付5萬億韓元。KEPCO在一份宣告中表示，已向包括三星和SK海力士在內的主要電力使用者提出了預付款方案，但參與方、利率、付款金額和付款期限等細節尚未最終確定。韓國電力公司（KEPCO）表示，這項提議旨在幫助滿足半導體和人工智慧資料中心專案日益增長的投資需求，同時為企業新建工廠提供更穩定的電力供應保障。KEPCO將利用這筆資金為晶片製造廠建設輸電和變電站網路，並向企業支付高於兩年期韓國國債收益率的利息。"
+    },
+    {
+      "id": "5074257",
+      "time": "2026-09-03 09:31:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4562.380點；恒生指數現漲0.794%。"
+    },
+    {
+      "id": "mkt:01a064e3-42ee-7118-8471-c22ad56ebaa7",
+      "time": "2026-09-03 09:30:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July goods and services trade balance A$1.923 bln; forecast A$1.45 bln; prior A$1.929 bln."
+    },
+    {
+      "id": "mkt:01a064e3-3b3c-7118-8471-b8580cef3e7f",
+      "time": "2026-09-03 09:30:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia July exports fell 3.3% m/m; prior +9.6%."
+    },
+    {
+      "id": "mkt:01a064e3-379d-7118-8471-b567408d4aa1",
+      "time": "2026-09-03 09:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Australia July imports MoM -2.5%, prior -0.2%."
+    },
+    {
+      "id": "5074254",
+      "time": "2026-09-03 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5074253",
+      "time": "2026-09-03 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.67%， 滬深300指數期貨連續漲0.39%， 中證500指數期貨連續漲0.68%， 上證50指數期貨連續漲0.33%。"
+    },
+    {
+      "id": "5074252",
+      "time": "2026-09-03 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.05%，成分股中，國博電子漲2.33%，晶合整合漲1.83%，源傑科技漲1.73%，生益電子漲1.71%。"
+    },
+    {
+      "id": "mkt:01a064e3-1dca-7118-8471-acc393332420",
+      "time": "2026-09-03 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Exports (MoM) (Jul) | actual -3.3% | previous 9.60%"
+    },
+    {
+      "id": "mkt:01a064e3-1dc3-7118-8471-a0267cf196f9",
+      "time": "2026-09-03 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Imports (MoM) (Jul) | actual -2.5% | previous -0.20%"
+    },
+    {
+      "id": "mkt:01a064e3-1db2-7118-8471-981111aeaa7b",
+      "time": "2026-09-03 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Goods and Services Trade Balance (Jul) | actual 1923000000B | consensus 1450000000B | previous 1929000000B"
+    },
     {
       "id": "mkt:01a064e2-a648-7118-8471-94bc7772d9e8",
       "time": "2026-09-03 09:29:30",
