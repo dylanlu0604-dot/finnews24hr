@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-04 02:57:11",
-  "count": 13042,
+  "updated": "2026-09-04 03:01:30",
+  "count": 13046,
   "items": [
+    {
+      "id": "5076076",
+      "time": "2026-09-04 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲1.12%，報25422.76點，高水209.45點。"
+    },
+    {
+      "id": "5076075",
+      "time": "2026-09-04 02:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：烏拉圭與世界銀行達成合作，推出 3.5 億美元開創性績效掛鉤貸款。"
+    },
+    {
+      "id": "mkt:01a068a3-d3f6-7118-848f-d7e5c253b260",
+      "time": "2026-09-04 02:59:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "World Bank: Uruguay and the World Bank have launched a $350 mln performance-based loan."
+    },
+    {
+      "id": "mkt:01a068a3-9f8d-7118-848f-cb03061e48b4",
+      "time": "2026-09-04 02:59:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said southern Lebanon's Ali Tahir Heights no longer pose a threat to Israel and that Israeli forces have eliminated a large number of militants there."
+    },
     {
       "id": "5076072",
       "time": "2026-09-04 02:56:13",
