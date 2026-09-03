@@ -1,7 +1,38 @@
 {
   "date": "2026-09-03",
-  "count": 2522,
+  "count": 2525,
   "items": [
+    {
+      "id": "mkt:01a067dd-d7b1-7118-848b-9b12a5458ad5",
+      "time": "2026-09-03 23:23:06",
+      "tags": [
+        "MKT News",
+        "NET.N"
+      ],
+      "text": "Cloudflare (NET.N) status page reports issues affecting some custom domains."
+    },
+    {
+      "id": "5075931",
+      "time": "2026-09-03 23:20:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "故障監測網站 DownDetector：使用者反饋顯示亞馬遜雲科技美國區域可能出現故障。"
+    },
+    {
+      "id": "mkt:01a067db-8837-7118-848b-92e15aef082e",
+      "time": "2026-09-03 23:20:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "DownDetector reports user complaints indicating Amazon Web Services (AWS) may be experiencing issues in the U.S."
+    },
     {
       "id": "5075930",
       "time": "2026-09-03 23:19:48",
