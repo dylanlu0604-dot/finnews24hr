@@ -1,7 +1,78 @@
 {
   "date": "2026-09-04",
-  "count": 220,
+  "count": 228,
   "items": [
+    {
+      "id": "mkt:01a068c9-571f-7118-8490-2780b3393cdf",
+      "time": "2026-09-04 03:40:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "GasBuddy: US average diesel price hit a record $5.820/gal."
+    },
+    {
+      "id": "5076131",
+      "time": "2026-09-04 03:40:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西農業部：8月上旬巴西南部中心地區食糖產量同比下降7.9%，至331萬噸。"
+    },
+    {
+      "id": "5076130",
+      "time": "2026-09-04 03:40:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：Astra 模型釋出週期超出預期。"
+    },
+    {
+      "id": "mkt:01a068c8-ce34-7118-8490-1a817394f179",
+      "time": "2026-09-04 03:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceXAI apologized for this morning's outage at its Memphis compute center that affected Grok users. All systems have been fully restored and are operating normally."
+    },
+    {
+      "id": "5076129",
+      "time": "2026-09-04 03:39:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國柴油均價創下每加侖5.820美元的新紀錄，GasBuddy的Patrick De Haan在X平臺上表示。"
+    },
+    {
+      "id": "5076128",
+      "time": "2026-09-04 03:38:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價3日漲跌不一】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲28美分，收於每桶91.30美元，漲幅為0.32%；11月交貨的倫敦布倫特原油期貨價格下跌11美分，收於每桶95.52美元，跌幅為0.12%。"
+    },
+    {
+      "id": "5076127",
+      "time": "2026-09-04 03:38:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數3日下跌】美元指數3日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.69%，在匯市尾市收於98.91。截至紐約匯市尾市，1歐元兌換1.16美元，高於前一交易日的1.16美元；1英鎊兌換1.35美元，高於前一交易日的1.35美元。1美元兌換155.5日元，低於前一交易日的158.94日元；1美元兌換0.8068瑞士法郎，低於前一交易日的0.8133瑞士法郎；1美元兌換1.38加元，低於前一交易日的1.38加元；1美元兌換9.54瑞典克朗，低於前一交易日的9.62瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a068c7-9e23-7118-8490-10da3dab7aba",
+      "time": "2026-09-04 03:38:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Oil prices mixed on 3rd】At the close, NYMEX WTI October futures settled up $0.28 at $91.30/bbl (+0.32%); ICE Brent November futures settled down $0.11 at $95.52/bbl (-0.12%)."
+    },
     {
       "id": "mkt:01a068c2-ccf4-7118-8490-08ec40cd5b81",
       "time": "2026-09-04 03:33:11",
