@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-04 07:44:04",
-  "count": 13022,
+  "updated": "2026-09-04 07:48:02",
+  "count": 13025,
   "items": [
+    {
+      "id": "mkt:01a069ab-52a3-7118-8491-ebd177819cc5",
+      "time": "2026-09-04 07:47:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Yonhap reported Japan's defence minister will skip the annual defence dialogue in South Korea."
+    },
+    {
+      "id": "5076412",
+      "time": "2026-09-04 07:47:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：淡水河谷不再推進關鍵礦產子公司的首次公開募股。"
+    },
+    {
+      "id": "5076411",
+      "time": "2026-09-04 07:46:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.46點。"
+    },
+    {
+      "id": "5076410",
+      "time": "2026-09-04 07:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全日空增訂8架巴西航空工業公司E190-E2飛機】據9月4日宣告，全日空與巴西航空工業公司簽署協議，訂購8架E190-E2飛機。該協議建立在全日空2025年宣佈的15架E190-E2飛機確定訂單基礎上，將使全日空E2系列飛機的確定訂單總數增至23架。此外，全日空還保留5架E190-E2飛機的額外購買選擇權。"
+    },
+    {
+      "id": "5076409",
+      "time": "2026-09-04 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲0.75%。"
+    },
+    {
+      "id": "mkt:01a069a9-1fd5-7118-8491-e1f054b6aebd",
+      "time": "2026-09-04 07:44:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Poland to strengthen air defences, increase air force activity】On the 3rd, Poland’s deputy prime minister and defence minister Kosińiak‑Kamysz said Warsaw will bolster air-defence measures and increase the frequency of fighter and military helicopter operations after recent Russian aircraft activity. The defence ministry announced temporary low-altitude airspace restrictions in parts of eastern Poland from Sept. 10 to Dec. 9; high-altitude commercial flights will not be affected. The measures are intended to give air-defence systems greater operational space to respond rapidly to potential security threats."
+    },
+    {
+      "id": "5076408",
+      "time": "2026-09-04 07:44:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：息差企穩、分紅提升，銀行板塊優選兼顧基本面+紅利屬性標的】中信建投研報指出，1H26上市銀行營收大個位數增長，利潤穩定小個位數釋放，趨勢向好。信貸大個位數增長，資產端降幅趨緩+負債成本最佳化下，淨息差邊際企穩，淨利息收入提速。中收穩定小個位數增長，上市銀行核心營收能力趨勢向好。其他非息存在一定分化，主因兌現浮盈選擇不同。資產質量表觀穩定，地產風險加速出清，零售風險仍在自然暴露。部分銀行選擇在政策尚未退坡、財務資源相對充裕的視窗期加速出清地產風險，有利於未來的業績彈性。部分銀行中期分紅方案落地，國有大行分紅率統一提升1pct，紅利屬性進一步提高。展望全年，上市銀行營收、利潤有望延續向好趨勢，基本面企穩。目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的。"
+    },
+    {
+      "id": "5076407",
+      "time": "2026-09-04 07:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約市禁高中以下學生用AI 有網民認為新規涉嫌“一刀切”】本月2日，美國紐約市頒佈重磅“AI禁令”，擬大範圍限制該市中小學以及學前教育階段學生接觸生成式人工智慧（AI）應用程式。 美國有線電視新聞網9月3日報道稱，紐約新頒佈的“AI禁令”涵蓋該市從2歲學前教育至中學8年級的絕大多數學生群體，是美國迄今為止針對學校實施的覆蓋面最廣的一道限制政策，預計有60萬名學生將受到直接影響。 值得注意的是，高中生群體雖不在“AI禁令”的限制範圍內，但也只能使用功能有限的AI工具，其中不包括如ChatGPT以及Claude等主流互動式人工智慧大語言模型。紐約市的新舉措也引爆網路，不少網民認為新規涉嫌“一刀切”。芝加哥公立學區前負責人讓-克勞德·布里扎德表示，紐約與洛杉磯兩大學區長期以來都是全美教育創新的“燈塔”，但在AI的問題上卻“找錯了方向”。 （環球時報）"
+    },
     {
       "id": "5076406",
       "time": "2026-09-04 07:42:52",
@@ -119570,49 +119646,6 @@
         "國際"
       ],
       "text": "【今晚十點 沃什將亮相傑克遜霍爾，如何回應兩大棘手問題】北京時間週五晚上十點，美聯儲主席凱文・沃什將在傑克遜霍爾全球央行年會上發表主旨演講，擺在他面前的是外界對其應對通脹公信力的質疑以及美聯儲在天量債務面前的角色問題。 當地時間週四，由堪薩斯城聯儲主辦的傑克遜霍爾全球央行年會在懷俄明州開幕。今年的會議尤為引人矚目，全球通脹壓力捲土重來，發達經濟體國債面臨巨大拋壓，市場等待各國央行釋放最新政策訊號。 自5月執掌美聯儲以來，沃什在通脹問題上措辭強硬，但始終迴避具體方案，也沒有承諾任何政策行動。這位新任主席刻意不釋出個人經濟預測，也不解讀最新經濟資料。 美聯儲如今已經連續65個月未能實現通脹目標。從2021年新冠疫情期間物價飆升至40年高點，到2024年通脹一度接近目標，再到特朗普開啟第二個總統任期後物價再度反彈；過去一年半時間裡，抗通脹幾乎沒有取得實質進展。記者彙總發現，華爾街經濟學家普遍預計，沃什週五演講不會談及下月是否加息的爭論。未來幾周的通脹與勞動力市場資料，將成為本次決議的關鍵依據。（一財）"
-    },
-    {
-      "id": "mkt:01a0459f-6036-7aab-915c-6a5e4a060c84",
-      "time": "2026-08-28 07:47:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Securities Daily: Don’t judge humanoid-robot sector by short-term price action】After listing on the STAR Market, Yushu Technology experienced a dramatic market cycle; its share-price pullback reflects multiple factors and does not indicate an abrupt change in fundamentals. From a trading angle, limited free float for new issues and concentrated speculative inflows into the humanoid-robot narrative pushed first-day prices higher and effectively priced forward growth expectations; the IPO price-to-earnings ratio stood at 92.92x, reflecting a large sector growth premium. A cooling of sentiment and attendant expectation revision explain the correction and do not by themselves alter the industry’s development logic. The humanoid-robot sector remains in early industrialization: large-scale commercialization is not proven and firms face limited application scenarios and high costs. At the same time, supply-chain companies are accelerating technological breakthroughs and expanding application boundaries, moving the industry from technical validation toward commercial rollout."
-    },
-    {
-      "id": "5063549",
-      "time": "2026-08-28 07:47:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【基金中報顯現策略分歧 投資愈發重視“差異化定價”】陸續披露的公募基金2026年中期報告顯示，上半年科技行情放大了基金經理在產業趨勢、估值約束與組合安全性上的策略分歧。7月以來，隨著市場風格切換，投資邏輯也開始由押注方向轉向驗證業績，基金經理愈發重視對行業與個股的“差異化定價”。業內人士表示，從已披露的公募基金中期報告呈現的觀點來看，當市場情緒從普遍抬升估值轉向篩選真實增長時，基金經理的操作重心也將從“押中方向”逐步轉向“兌現成長”：既要判斷產業趨勢是否成立，也要持續檢驗企業能否將趨勢轉化為訂單、利潤與現金流，並在增長空間和買入價格之間建立足夠的安全邊際。（上海證券報）"
-    },
-    {
-      "id": "5063548",
-      "time": "2026-08-28 07:46:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本電通集團、伊藤忠商事將於週五會議磋商電通綜研事宜】電通集團表示，將在週五的董事會會議上，就旗下子公司電通綜研（DENTSU SOKEN）相關報道涉及的事項作出處置。電通集團稱，一旦獲得正式批准，將及時對外發布公告。另據訊息，伊藤忠商事表示將於週五召開董事會，審議電通綜研相關事宜；若形成決議將第一時間予以公佈。"
-    },
-    {
-      "id": "5063547",
-      "time": "2026-08-28 07:46:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic曾考慮收購AI晶片初創公司MatX】知情人士稱，Anthropic曾討論以約70億美元收購AI晶片初創公司MatX，但隨後放棄了該計劃。報道稱，合併談判已演變為關於建立合作伙伴關係的討論。目前尚無法獲悉談判為何不再進行。此外，有知情人士稱，MatX目前正尋求以約40億美元的估值進行新一輪融資。"
-    },
-    {
-      "id": "5063546",
-      "time": "2026-08-28 07:45:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤下跌45點，報66125點。"
     }
   ]
 }

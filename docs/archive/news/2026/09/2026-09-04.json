@@ -1,7 +1,83 @@
 {
   "date": "2026-09-04",
-  "count": 536,
+  "count": 544,
   "items": [
+    {
+      "id": "mkt:01a069ab-52a3-7118-8491-ebd177819cc5",
+      "time": "2026-09-04 07:47:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Yonhap reported Japan's defence minister will skip the annual defence dialogue in South Korea."
+    },
+    {
+      "id": "5076412",
+      "time": "2026-09-04 07:47:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：淡水河谷不再推進關鍵礦產子公司的首次公開募股。"
+    },
+    {
+      "id": "5076411",
+      "time": "2026-09-04 07:46:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.46點。"
+    },
+    {
+      "id": "5076410",
+      "time": "2026-09-04 07:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全日空增訂8架巴西航空工業公司E190-E2飛機】據9月4日宣告，全日空與巴西航空工業公司簽署協議，訂購8架E190-E2飛機。該協議建立在全日空2025年宣佈的15架E190-E2飛機確定訂單基礎上，將使全日空E2系列飛機的確定訂單總數增至23架。此外，全日空還保留5架E190-E2飛機的額外購買選擇權。"
+    },
+    {
+      "id": "5076409",
+      "time": "2026-09-04 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲0.75%。"
+    },
+    {
+      "id": "mkt:01a069a9-1fd5-7118-8491-e1f054b6aebd",
+      "time": "2026-09-04 07:44:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Poland to strengthen air defences, increase air force activity】On the 3rd, Poland’s deputy prime minister and defence minister Kosińiak‑Kamysz said Warsaw will bolster air-defence measures and increase the frequency of fighter and military helicopter operations after recent Russian aircraft activity. The defence ministry announced temporary low-altitude airspace restrictions in parts of eastern Poland from Sept. 10 to Dec. 9; high-altitude commercial flights will not be affected. The measures are intended to give air-defence systems greater operational space to respond rapidly to potential security threats."
+    },
+    {
+      "id": "5076408",
+      "time": "2026-09-04 07:44:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：息差企穩、分紅提升，銀行板塊優選兼顧基本面+紅利屬性標的】中信建投研報指出，1H26上市銀行營收大個位數增長，利潤穩定小個位數釋放，趨勢向好。信貸大個位數增長，資產端降幅趨緩+負債成本最佳化下，淨息差邊際企穩，淨利息收入提速。中收穩定小個位數增長，上市銀行核心營收能力趨勢向好。其他非息存在一定分化，主因兌現浮盈選擇不同。資產質量表觀穩定，地產風險加速出清，零售風險仍在自然暴露。部分銀行選擇在政策尚未退坡、財務資源相對充裕的視窗期加速出清地產風險，有利於未來的業績彈性。部分銀行中期分紅方案落地，國有大行分紅率統一提升1pct，紅利屬性進一步提高。展望全年，上市銀行營收、利潤有望延續向好趨勢，基本面企穩。目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的。"
+    },
+    {
+      "id": "5076407",
+      "time": "2026-09-04 07:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約市禁高中以下學生用AI 有網民認為新規涉嫌“一刀切”】本月2日，美國紐約市頒佈重磅“AI禁令”，擬大範圍限制該市中小學以及學前教育階段學生接觸生成式人工智慧（AI）應用程式。 美國有線電視新聞網9月3日報道稱，紐約新頒佈的“AI禁令”涵蓋該市從2歲學前教育至中學8年級的絕大多數學生群體，是美國迄今為止針對學校實施的覆蓋面最廣的一道限制政策，預計有60萬名學生將受到直接影響。 值得注意的是，高中生群體雖不在“AI禁令”的限制範圍內，但也只能使用功能有限的AI工具，其中不包括如ChatGPT以及Claude等主流互動式人工智慧大語言模型。紐約市的新舉措也引爆網路，不少網民認為新規涉嫌“一刀切”。芝加哥公立學區前負責人讓-克勞德·布里扎德表示，紐約與洛杉磯兩大學區長期以來都是全美教育創新的“燈塔”，但在AI的問題上卻“找錯了方向”。 （環球時報）"
+    },
     {
       "id": "5076406",
       "time": "2026-09-04 07:42:52",
