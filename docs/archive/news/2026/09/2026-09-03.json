@@ -1,7 +1,112 @@
 {
   "date": "2026-09-03",
-  "count": 2505,
+  "count": 2516,
   "items": [
+    {
+      "id": "mkt:01a067d7-9ab3-7118-848b-772715eef313",
+      "time": "2026-09-03 23:16:18",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "White House AI chief praised NVIDIA (NVDA.O)’s deal with Hugging Face."
+    },
+    {
+      "id": "mkt:01a067d7-1900-7118-848b-6f2b3ca83c42",
+      "time": "2026-09-03 23:15:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Bank of England chief economist Pill says near-term rate rise could reduce need for more aggressive tightening later】Bank of England chief economist Huw Pill said a near-term bank rate increase would reduce the likelihood the Bank must adopt more aggressive tightening to curb inflation pressures from the Iran war. He said a timely, well-communicated rate rise does not necessarily signal the start of a prolonged, aggressive hiking cycle and can prevent harmful \"catch-up\" nominal dynamics that would make temporary inflation overshoots more persistent. Pill and two other MPC members voted to hike in July. Rate futures put the probability of a 25bp move at this month’s MPC slightly above 15%, while the November meeting is priced for a hike at more than 70%."
+    },
+    {
+      "id": "5075927",
+      "time": "2026-09-03 23:15:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破68美元/盎司，日內漲3.88%。"
+    },
+    {
+      "id": "5075926",
+      "time": "2026-09-03 23:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲5%，現報1430.00美元/盎司。"
+    },
+    {
+      "id": "te:markets:581018",
+      "time": "2026-09-03 23:15:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is up by 5.03% — Palladium increased 5.03% to 1429 USD/t.oz"
+    },
+    {
+      "id": "5075925",
+      "time": "2026-09-03 23:15:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報53600.328點；納指漲1.18%，現報26527.932點；標普500指數漲0.85%，現報7731.430點。"
+    },
+    {
+      "id": "5075924",
+      "time": "2026-09-03 23:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮AI顧問戴維·薩克斯稱讚英偉達與 Hugging Face 的交易。"
+    },
+    {
+      "id": "mkt:01a067d6-27b0-7118-848b-60bf6c6cab15",
+      "time": "2026-09-03 23:14:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DownDetector reported multiple major AI platforms experienced outages Thursday morning local time, affecting OpenAI, Claude, Grok and Cursor."
+    },
+    {
+      "id": "5075923",
+      "time": "2026-09-03 23:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "LIFFWATER私募信貸基金接到16%的贖回請求。"
+    },
+    {
+      "id": "5075922",
+      "time": "2026-09-03 23:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：墨西哥總統辛鮑姆擬針對燃料 IEPS 消費稅提出可追溯稅方案。"
+    },
+    {
+      "id": "5075921",
+      "time": "2026-09-03 23:12:57",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【OpenAI、Anthropic等多家AI公司正遭遇服務中斷】據Downdetector上的使用者報告以及各公司狀態頁面顯示，多家AI公司正遭遇服務中斷。OpenAI表示，其ChatGPT和Codex目前正出現問題。Anthropic表示正在調查Claude出現的錯誤，並致力於修復。SpaceXAI表示Grok目前出現故障，正在調查服務中斷。"
+    },
     {
       "id": "5075920",
       "time": "2026-09-03 23:12:19",
