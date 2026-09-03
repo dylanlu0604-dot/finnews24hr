@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-04 03:52:31",
-  "count": 13047,
+  "updated": "2026-09-04 03:56:29",
+  "count": 13044,
   "items": [
+    {
+      "id": "mkt:01a068d7-7f60-7118-8490-40f999317ebc",
+      "time": "2026-09-04 03:55:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Zelenskiy says US envoys to hold talks in Moscow and Kyiv within days】Ukrainian President Zelenskiy said US envoys sent by President Trump will hold separate talks in Moscow and Kyiv, with the Kyiv meeting expected within days, as Washington seeks to revive stalled Russia‑Ukraine negotiations. Zelenskiy did not name the envoys but said he has spoken with White House envoys Steve Witkoff and Jared Kushner, who are coordinating visit dates; he said US‑led peace talks have been largely stalled since February. Zelenskiy added Ukraine has made some progress using remote drones against Russian energy infrastructure, but shortages of air‑defence interceptors leave Kyiv and surrounding areas exposed to Russian missile strikes."
+    },
+    {
+      "id": "5076156",
+      "time": "2026-09-04 03:55:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼在X發文：我們正竭盡全力，爭取讓 Astra 儘快落地、供所有人使用；我知道等待令人沮喪，也感謝大家的耐心。進度應該會很快。"
+    },
+    {
+      "id": "5076154",
+      "time": "2026-09-04 03:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：唯一例外，是 3 月 18 日針對一處天然氣設施的襲擊。但應當指出，當日遭襲的設施當時正服務於美國對伊朗的軍事侵略行動。"
+    },
+    {
+      "id": "5076152",
+      "time": "2026-09-04 03:53:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達政府在提交給國際電信聯盟（ITU）的一份官方檔案中證實，伊朗針對駐紮在卡達領土上的美軍發動的防禦性打擊 “目標為美軍軍事設施。並未針對任何民用區域。  ”"
+    },
+    {
+      "id": "5076151",
+      "time": "2026-09-04 03:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我們必須阻止伊朗擁有核武器，而我們已經做到了這一點。我們重創了他們的海軍、空軍以及領導層架構。我們掌控著霍爾木茲海峽。他們的貨幣已經失去價值。伊朗現在處境十分艱難。"
+    },
     {
       "id": "5076148",
       "time": "2026-09-04 03:50:10",
@@ -119820,83 +119861,6 @@
         "國際"
       ],
       "text": "特朗普前往休斯頓，為肯·帕克斯頓的參議員競選造勢，共和黨力圖在11月大選前守住自身優勢。"
-    },
-    {
-      "id": "mkt:01a044ca-87cd-7aab-915a-80a227d5b7c8",
-      "time": "2026-08-28 03:55:18",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact mixed",
-        "Dow",
-        "US10Y"
-      ],
-      "text": "Financial Times reports US OCC and FDIC will announce a package of new rules on Thursday local time."
-    },
-    {
-      "id": "5063319",
-      "time": "2026-08-28 03:54:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥經濟部長：墨西哥希望美國將汽車關稅降至 15% 以下。"
-    },
-    {
-      "id": "5063318",
-      "time": "2026-08-28 03:54:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中期選舉臨近油價承壓 特朗普擬會見煉油商和燃油零售商】據知情人士透露，美國總統特朗普預計下週與美國煉油商和燃油零售商會面，重點介紹降低汽油價格的相關舉措。在11月國會中期選舉臨近之際，特朗普政府正尋求緩解伊朗戰爭給消費者帶來的壓力。預計出席會議的企業包括瓦萊羅能源、馬拉松石油和PBF能源等煉油商，以及大型燃油零售商。"
-    },
-    {
-      "id": "mkt:01a044c9-b3cf-7aab-915a-7f8bf78a3a35",
-      "time": "2026-08-28 03:54:24",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "Elon Musk said he expects SpaceX (SPCX.O) to reach about $3.5 trillion in revenue by around 2033."
-    },
-    {
-      "id": "mkt:01a044c8-cdb1-7aab-915a-778c6102bd29",
-      "time": "2026-08-28 03:53:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran denies plot to assassinate Trump's youngest son】Lebanon’s Al-Manar TV aired an interview on Aug 27 in which Rezai, secretary of Iran’s Supreme National Security Council, said reports that Iran planned to assassinate Barron Trump were lies. The US Secret Service said on Aug 25 it had noticed a video aired on Iranian state TV involving a potential assassination plot against Barron Trump."
-    },
-    {
-      "id": "mkt:01a044c8-c400-7aab-915a-6f8c55e0a15a",
-      "time": "2026-08-28 03:53:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "VLO.O",
-        "MPC.O",
-        "PBF.O"
-      ],
-      "text": "【Trump to meet refiners, fuel retailers next week as gas prices bite ahead of US midterms】President Trump is expected to meet U.S. refiners and fuel retailers next week to discuss measures to lower gasoline prices, sources said. Expected participants include Valero Energy, Marathon Petroleum and PBF Energy. The meeting comes as Republicans try to defend a slim congressional majority ahead of November midterms; U.S. regular gasoline remains above $4/gal, about $1 higher than a year ago. The administration cites the Iran war for tighter refined-product supplies; major oil companies and refiners posted strong Q2 results, prompting public criticism from Trump and renewed pressure on producers and refiners to cut prices."
-    },
-    {
-      "id": "5063317",
-      "time": "2026-08-28 03:52:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國貨幣監理署與聯邦存款保險公司將於週四公佈一套新規則。"
-    },
-    {
-      "id": "5063316",
-      "time": "2026-08-28 03:52:40",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：SpaceX預計2033年前後營收將達到3.5萬億美元。"
     }
   ]
 }
