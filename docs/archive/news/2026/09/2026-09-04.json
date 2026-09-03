@@ -1,7 +1,85 @@
 {
   "date": "2026-09-04",
-  "count": 438,
+  "count": 447,
   "items": [
+    {
+      "id": "mkt:01a0696e-ba97-7118-8491-6d42460dc24b",
+      "time": "2026-09-04 06:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's Karl Hansen said the bank will judge October policy action on whether incoming data contain \"surprises\" rather than any single indicator."
+    },
+    {
+      "id": "mkt:01a0696e-15d9-7118-8491-67139acf0db3",
+      "time": "2026-09-04 06:40:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBNZ's Karl Hanson said future policy decisions will depend on trends across a broad range of economic indicators."
+    },
+    {
+      "id": "mkt:01a0696d-efdc-7118-8491-5b3c31716e23",
+      "time": "2026-09-04 06:40:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's Karl Hansen said Wednesday's rate hike was a decision reached by clear consensus."
+    },
+    {
+      "id": "te:markets:581058",
+      "time": "2026-09-04 06:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Spikes by 5.51% — Top commodity gainers are Palm Oil (5.51%) and Wool (2%). Biggest losers are Sugar (-3.80%), Cotton (-2.81%) and Wheat (-2.48%)."
+    },
+    {
+      "id": "5076340",
+      "time": "2026-09-04 06:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員漢森表示，在決定10月的政策行動前，他關注的是資料中的“意外情況”，而非單一指標。"
+    },
+    {
+      "id": "5076339",
+      "time": "2026-09-04 06:38:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員漢森表示，後續政策決議將取決於多類經濟資料集的走勢。"
+    },
+    {
+      "id": "5076338",
+      "time": "2026-09-04 06:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員卡爾·漢森表示，週三的加息是一項“明確共識”下的決定。"
+    },
+    {
+      "id": "mkt:01a0696c-ab50-7118-8491-520c75da3ff8",
+      "time": "2026-09-04 06:38:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump announced Assistant Secretary of the Army for Civil Works Adam Telle will serve as acting Secretary of the Army, effective immediately."
+    },
+    {
+      "id": "5076337",
+      "time": "2026-09-04 06:38:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：特勒出任代理陸軍部長，即刻生效。"
+    },
     {
       "id": "5076335",
       "time": "2026-09-04 06:37:13",

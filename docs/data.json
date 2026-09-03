@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-04 06:38:21",
-  "count": 13004,
+  "updated": "2026-09-04 06:42:15",
+  "count": 13010,
   "items": [
+    {
+      "id": "mkt:01a0696e-ba97-7118-8491-6d42460dc24b",
+      "time": "2026-09-04 06:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's Karl Hansen said the bank will judge October policy action on whether incoming data contain \"surprises\" rather than any single indicator."
+    },
+    {
+      "id": "mkt:01a0696e-15d9-7118-8491-67139acf0db3",
+      "time": "2026-09-04 06:40:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBNZ's Karl Hanson said future policy decisions will depend on trends across a broad range of economic indicators."
+    },
+    {
+      "id": "mkt:01a0696d-efdc-7118-8491-5b3c31716e23",
+      "time": "2026-09-04 06:40:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's Karl Hansen said Wednesday's rate hike was a decision reached by clear consensus."
+    },
+    {
+      "id": "te:markets:581058",
+      "time": "2026-09-04 06:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Spikes by 5.51% — Top commodity gainers are Palm Oil (5.51%) and Wool (2%). Biggest losers are Sugar (-3.80%), Cotton (-2.81%) and Wheat (-2.48%)."
+    },
+    {
+      "id": "5076340",
+      "time": "2026-09-04 06:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員漢森表示，在決定10月的政策行動前，他關注的是資料中的“意外情況”，而非單一指標。"
+    },
+    {
+      "id": "5076339",
+      "time": "2026-09-04 06:38:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員漢森表示，後續政策決議將取決於多類經濟資料集的走勢。"
+    },
+    {
+      "id": "5076338",
+      "time": "2026-09-04 06:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員卡爾·漢森表示，週三的加息是一項“明確共識”下的決定。"
+    },
+    {
+      "id": "mkt:01a0696c-ab50-7118-8491-520c75da3ff8",
+      "time": "2026-09-04 06:38:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump announced Assistant Secretary of the Army for Civil Works Adam Telle will serve as acting Secretary of the Army, effective immediately."
+    },
+    {
+      "id": "5076337",
+      "time": "2026-09-04 06:38:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：特勒出任代理陸軍部長，即刻生效。"
+    },
     {
       "id": "5076335",
       "time": "2026-09-04 06:37:13",
@@ -119451,33 +119529,6 @@
         "國際"
       ],
       "text": "特朗普： 伊朗日漸衰敗！"
-    },
-    {
-      "id": "te:markets:578809",
-      "time": "2026-08-28 06:40:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rallies by 6.88% — Top commodity gainers are Cocoa (6.88%), Sugar (3.53%) and Cotton (3.53%). Biggest losers are Rice (-6.40%), Oat (-4.34%) and Coffee (-3.38%)."
-    },
-    {
-      "id": "5063493",
-      "time": "2026-08-28 06:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部表示，伊朗並不掌控霍爾木茲海峽，該航道屬於國際水道，商船在美國軍方協助下仍持續通行。"
-    },
-    {
-      "id": "5063492",
-      "time": "2026-08-28 06:38:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【多部門聯合印發意見 促進航空保稅維修高質量發展】近日，商務部會同國家發展改革委、工業和資訊化部、財政部等多部門印發《意見》，促進航空保稅維修高質量發展。《意見》包括6方面13條政策措施。商務部新聞發言人黃玲表示，相關政策措施主要有三點創新：一是將航空保稅維修產品目錄進一步擴大，並取消區域範圍限制；二是保稅維修適用出口退（免）稅政策，維修後的產品允許按國家有關規定內銷；三是提出了允許將部分工序委託至其他企業維修等一系列便利化措施。（央視新聞）"
     }
   ]
 }
