@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-04 02:53:16",
-  "count": 13038,
+  "updated": "2026-09-04 02:57:11",
+  "count": 13042,
   "items": [
+    {
+      "id": "5076072",
+      "time": "2026-09-04 02:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車：監事會將作出決議，把審批許可權限定在對集團整體具有重大影響的事項，並相應調整審批閾值，對標 DAX 成分股企業的通行公司治理慣例。"
+    },
+    {
+      "id": "mkt:01a0689f-fc9b-7118-848f-c47ee6dc696f",
+      "time": "2026-09-04 02:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Crusoe and Jane Street signed an approximately $13 billion cloud-computing agreement."
+    },
+    {
+      "id": "5076068",
+      "time": "2026-09-04 02:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Crusoe 與簡街資本簽署約 130 億美元雲端計算交易。"
+    },
+    {
+      "id": "5076067",
+      "time": "2026-09-04 02:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：監事會注意到，埃姆登、茨維考、漢諾威以及內卡蘇爾姆工廠目前無法保障具備競爭力的後續生產，正在研究這些工廠的替代用途。"
+    },
+    {
+      "id": "5076066",
+      "time": "2026-09-04 02:53:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理稱能推翻伊朗政權】當地時間9月3日，以色列總理內塔尼亞胡在以軍總部出席活動時稱，他相信以色列有能力“徹底消除威脅並推翻伊朗政權”。內塔尼亞胡稱，過去三年以及以色列對伊朗採取軍事行動期間取得的成果“具有歷史意義”，伊朗“正在動搖”，“比以往任何時候都更加虛弱”，並正在“為生存而戰”。他表示，以色列當前面臨的一項主要任務就是“徹底消除伊朗的威脅——也就是推翻這一政權”。 內塔尼亞胡稱，實現這一目標“已經很接近”，“並非不可能，而是觸手可及”。（CCTV國際時訊）"
+    },
     {
       "id": "5076065",
       "time": "2026-09-04 02:51:28",
@@ -119784,18 +119824,6 @@
         "Importance 1"
       ],
       "text": "Brazilian Real Gains as BCB Signals Intervention — The Brazilian real strengthened slightly to 5.16 per USD after reaching a more than one-month low of 5.21 on August 14th, amid expectations of new foreign-exchange operations by the BCB. The central bank is expected to intervene to increase dollar supply and ensure market liquidity, supporting the real and influencing exchange-rate formation. Meanwhile, labor market data confirmed expectations for another decline in Brazil’s unemployment rate, from 5.4% to 5.3%. The labor market remains highly resilient, with employment and formal employment reaching record highs, which could lead the Copom to pause its 25-basis-point-per-meeting easing cycle. However, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band."
-    },
-    {
-      "id": "te:economy:578796",
-      "time": "2026-08-28 02:55:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Rises After Treasury Auction — Brazil’s 10-year government bond yield edged higher to 14.60% from a three-week low of 14.57% reached on August 25th, pressured by the National Treasury’s auction of fixed-rate securities. The auction was the main factor driving rates higher and steepening the yield curve, marking the second-largest of the year by financial volume. A total of 31 million securities were offered on August 27th, with a financial volume of more than $24 billion.Meanwhile, labor market data confirmed expectations for another decline in Brazil’s unemployment rate, from 5.4% to 5.3%. The labor market remains highly resilient, with employment and formal employment reaching record highs, which could lead the Copom to pause its 25-basis-point-per-meeting easing cycle. However, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band."
     }
   ]
 }
