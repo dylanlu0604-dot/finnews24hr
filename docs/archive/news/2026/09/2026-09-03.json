@@ -1,7 +1,149 @@
 {
   "date": "2026-09-03",
-  "count": 2096,
+  "count": 2112,
   "items": [
+    {
+      "id": "mkt:01a06736-5987-7118-8483-a101cb47b0d5",
+      "time": "2026-09-03 20:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the price paid to acquire Hugging Face was \"worth it\"."
+    },
+    {
+      "id": "mkt:01a06736-4c9d-7118-8483-9b205f215640",
+      "time": "2026-09-03 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US initial jobless claims for the week ended Aug. 29 and July trade balance due in 10 minutes; Fed Governor Waller scheduled for an interview in 10 minutes."
+    },
+    {
+      "id": "mkt:01a06735-ffd0-7118-8483-96219b8efb00",
+      "time": "2026-09-03 20:19:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said Hugging Face’s vision is \"completely correct.\""
+    },
+    {
+      "id": "5075562",
+      "time": "2026-09-03 20:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：收購Hugging Face的每一分錢都花得值。"
+    },
+    {
+      "id": "5075561",
+      "time": "2026-09-03 20:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【20分鐘通關！大灣區航空香港至昆明航線首航落地】9月3日11時13分，大灣區航空HB836次航班降落在昆明長水國際機場，標誌著大灣區航空香港至昆明往返航線正式通航。139名入境旅客僅用20分鐘全部通關，為滇港兩地互聯互通、經貿文旅溝通交流搭建起便捷空中紐帶。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a06735-8059-7118-8483-89096be356b7",
+      "time": "2026-09-03 20:19:14",
+      "tags": [
+        "MKT News",
+        "SNOW.N",
+        "Impact bullish"
+      ],
+      "text": "Oppenheimer raises Snowflake (SNOW.N) PT to $475 from $400."
+    },
+    {
+      "id": "5075560",
+      "time": "2026-09-03 20:19:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客表示已查明問題根源，A330客機交付工作已於夏季放緩後恢復。"
+    },
+    {
+      "id": "mkt:01a06734-def5-7118-8483-83be707ff32c",
+      "time": "2026-09-03 20:18:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH expects further price declines in the global reinsurance industry in 2027."
+    },
+    {
+      "id": "mkt:01a06734-d1d6-7118-8483-7a67f5e5648b",
+      "time": "2026-09-03 20:18:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH maintained its 2027 outlook for the global reinsurance industry at \"deteriorating\"."
+    },
+    {
+      "id": "5075559",
+      "time": "2026-09-03 20:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽預計2027年全球再保險行業保費將進一步下滑。"
+    },
+    {
+      "id": "5075558",
+      "time": "2026-09-03 20:17:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊昂·布萊克今天不會出席美國眾議院委員會的聽證會。"
+    },
+    {
+      "id": "5075557",
+      "time": "2026-09-03 20:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私人信貸基金：與第二季度相比，黑石其他私人財富永續產品的整體募資增長勢頭更為強勁。"
+    },
+    {
+      "id": "5075556",
+      "time": "2026-09-03 20:16:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元延續跌勢，目前下跌1.75%，報155.9日元。"
+    },
+    {
+      "id": "5075555",
+      "time": "2026-09-03 20:16:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：將2027年全球再保險行業展望維持為“惡化”。"
+    },
+    {
+      "id": "5075554",
+      "time": "2026-09-03 20:16:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨人網路：控股股東一致行動人減持1.18%股份 權益變動觸及1%】巨人網路公告稱，公司控股股東巨人投資的一致行動人騰澎投資於2026年8月31日至9月3日透過大宗交易方式合計減持公司股份2241.06萬股，佔公司總股本比例1.18%。本次減持後，巨人投資及其一致行動人合計持股由7.41億股降至7.18億股，佔總股本比例由38.98%降至37.80%，權益變動觸及1%整數倍。本次權益變動不會導致公司控制權發生變化，本次減持與此前披露的減持計劃一致。"
+    },
+    {
+      "id": "5075553",
+      "time": "2026-09-03 20:16:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【衛材阿爾茨海默症藥獲批皮下自動注射筆】衛材中國宣佈，樂意保®（侖卡奈單抗）皮下自動注射筆正式獲得國家藥品監督管理局批准上市，用於早期阿爾茨海默病的初始治療。這是繼7月該注射筆在美國獲批後，中國成為全球第二、亞洲首個獲批該注射筆使用的國家。"
+    },
     {
       "id": "5075552",
       "time": "2026-09-03 20:15:51",
