@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-03 23:36:51",
-  "count": 12841,
+  "updated": "2026-09-03 23:40:59",
+  "count": 12845,
   "items": [
+    {
+      "id": "5075945",
+      "time": "2026-09-03 23:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞礦業部長：該國廢除 10 項劃定特殊礦區的決議。"
+    },
+    {
+      "id": "5075944",
+      "time": "2026-09-03 23:39:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【芝商所：美元兌日元逼近大量期權所在的155日元】芝商所(CME)表示，隨著賣出美元的期權被觸發，日元漲勢加快，而如果突破155，可能引發更多美元賣盤，原因是全天以來市場對執行價在155日元的期權需求不斷增加。這家衍生品市場運營商表示，週四交易最活躍的是執行價在155.0日元的隔夜美元看跌期權。美元兌日元一度下跌2.1%，至155.34，為8月3日以來最低。如果跌破155.23，美元兌日元將跌破最近一輪買入日元干預期間觸及的水平；市場許多人士認為155是關鍵的日元阻力位，因為日本此前在4月份入市干預時，未能推動日元升破這一水平。"
+    },
+    {
+      "id": "mkt:01a067ec-8a48-7118-848c-47ea3385b0a0",
+      "time": "2026-09-03 23:39:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's mining minister said the government rescinded 10 resolutions defining special mining areas."
+    },
+    {
+      "id": "mkt:01a067ec-138b-7118-848c-383debc476c7",
+      "time": "2026-09-03 23:38:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Thursday, Sept 3: Germany DAX +153.44 pts (+0.59 pct) to 25,996.78; UK FTSE 100 +79.44 pts (+0.74 pct) to 10,835.89; France CAC 40 +5.77 pts (+0.07 pct) to 8,286.40; STOXX Europe 50 +17.65 pts (+0.28 pct) to 6,379.80; Spain IBEX 35 +218.77 pts (+1.11 pct) to 19,997.77; Italy FTSE MIB +462.40 pts (+0.89 pct) to 52,254.50."
+    },
+    {
+      "id": "mkt:01a067ea-2cd1-7118-848c-367da1b7aa47",
+      "time": "2026-09-03 23:36:35",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "D.A. Davidson lowered Broadcom (AVGO.O) PT to $350 from $400."
+    },
     {
       "id": "mkt:01a067e9-3bb1-7118-848c-2acec2c73f7f",
       "time": "2026-09-03 23:35:33",
@@ -117935,17 +117983,6 @@
         "Importance 0"
       ],
       "text": "Sugar Futures Back to 1-Year Highs — US sugar futures surged beyond 18 cents per pound, moving back toward the highest since May 2025, as traders amid persistent concerns over supply. Analysts have been revising their forecasts for a global sugar deficit in 2026/27, with the shortfall potentially widening further in 2027/28 as lower cane and beet plantings weigh on production. Climate risks in major producing regions and a potential shift toward ethanol production are adding to supply concerns, particularly in Brazil. Conab expects Brazilian sugar output to decline 2.9% to 42.89 million tonnes in 2026/27, while ethanol production is forecast to increase 9.7% to 29.98 billion litres. Meanwhile, the prospect of one of the strongest El Niño events in decades threatens production in key growing regions. Uncertainty over Indian purchases remains a key factor, while developments in the oil market could influence the balance between sugar and ethanol production."
-    },
-    {
-      "id": "te:markets:578760",
-      "time": "2026-08-27 23:39:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Holds Pullback — Aluminum futures in the UK were near $3,230 per tonne, trading in a narrow range since declining from an eight-week high of $3,360 on August 11th amid momentary relief of tight supply. Exports of aluminum from China, the world's top producer, surged by 18.7% in the year to July. The country has stepped up exports as muted demand allowed producers to ship metal despite Beijing's output cap of 45 million tons, easing shortages from the Middle East due to the war in Iran. The Alunorte plant in Brazil, the world's largest alumina plant outside of China, was forced to cut operations to half capacity amid the lack of natural gas from its supplier. This added to detriment to its client Norsk Hydro, which already declared two force majeures on aluminum sales after its joint Qatari venture Qatalum plant was forced to shut off production on natural gas shortages. LNG supply from the Middle East, essential for aluminum refining, has been scarce due to tanker blockades from the US and Iran."
     }
   ]
 }

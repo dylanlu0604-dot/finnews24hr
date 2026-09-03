@@ -1,7 +1,55 @@
 {
   "date": "2026-09-03",
-  "count": 2556,
+  "count": 2561,
   "items": [
+    {
+      "id": "5075945",
+      "time": "2026-09-03 23:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞礦業部長：該國廢除 10 項劃定特殊礦區的決議。"
+    },
+    {
+      "id": "5075944",
+      "time": "2026-09-03 23:39:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【芝商所：美元兌日元逼近大量期權所在的155日元】芝商所(CME)表示，隨著賣出美元的期權被觸發，日元漲勢加快，而如果突破155，可能引發更多美元賣盤，原因是全天以來市場對執行價在155日元的期權需求不斷增加。這家衍生品市場運營商表示，週四交易最活躍的是執行價在155.0日元的隔夜美元看跌期權。美元兌日元一度下跌2.1%，至155.34，為8月3日以來最低。如果跌破155.23，美元兌日元將跌破最近一輪買入日元干預期間觸及的水平；市場許多人士認為155是關鍵的日元阻力位，因為日本此前在4月份入市干預時，未能推動日元升破這一水平。"
+    },
+    {
+      "id": "mkt:01a067ec-8a48-7118-848c-47ea3385b0a0",
+      "time": "2026-09-03 23:39:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's mining minister said the government rescinded 10 resolutions defining special mining areas."
+    },
+    {
+      "id": "mkt:01a067ec-138b-7118-848c-383debc476c7",
+      "time": "2026-09-03 23:38:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Thursday, Sept 3: Germany DAX +153.44 pts (+0.59 pct) to 25,996.78; UK FTSE 100 +79.44 pts (+0.74 pct) to 10,835.89; France CAC 40 +5.77 pts (+0.07 pct) to 8,286.40; STOXX Europe 50 +17.65 pts (+0.28 pct) to 6,379.80; Spain IBEX 35 +218.77 pts (+1.11 pct) to 19,997.77; Italy FTSE MIB +462.40 pts (+0.89 pct) to 52,254.50."
+    },
+    {
+      "id": "mkt:01a067ea-2cd1-7118-848c-367da1b7aa47",
+      "time": "2026-09-03 23:36:35",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "D.A. Davidson lowered Broadcom (AVGO.O) PT to $350 from $400."
+    },
     {
       "id": "mkt:01a067e9-3bb1-7118-848c-2acec2c73f7f",
       "time": "2026-09-03 23:35:33",
