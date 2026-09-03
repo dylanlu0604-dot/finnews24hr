@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-03 08:41:20",
+  "updated": "2026-09-03 08:45:22",
   "count": 12067,
   "items": [
+    {
+      "id": "5074184",
+      "time": "2026-09-03 08:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Delivery Hero董事會支援優步收購要約，稱每股41.5歐元價格公平合理】當地時間9月2日，德國外賣平臺Delivery Hero管理委員會和監事會發布聯合宣告，一致支援優步（Uber）提出的收購要約，並建議股東接受。雙方認為每股41.50歐元的現金收購價公平合理，較5月8日前三個月成交量加權平均股價溢價約127%。優步目前持有Delivery Hero約24.77%股份，並透過相關金融工具持有11.74%的經濟權益，同時已獲得不可撤銷承諾，將取得另外16.68%股份，使其經濟權益超過53%。要約最低接受門檻為50%加1股，接受期將於11月5日24時（中歐時間）結束，交易預計於2027年下半年完成，仍需獲得反壟斷等監管批准。"
+    },
+    {
+      "id": "5074183",
+      "time": "2026-09-03 08:42:23",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【澳大利亞儲備銀行就代幣化市場中結算服務的作用開展意見徵詢】澳大利亞儲備銀行釋出宣告表示，該行已啟動意見徵詢，探討儲備銀行資訊與轉賬系統在代幣化生態體系結算業務中可發揮的作用。本次徵詢旨在收集各界意見，研究澳大利亞儲備銀行的相關服務如何助力本國代幣化資產市場與私人貨幣發展壯大，同時持續維護金融安全、執行效率與金融穩定。意見徵詢截止日期為10月30日。澳儲行同時提及，其與財政部聯合出具的報告認為，澳大利亞零售支付系統可為家庭及企業提供良好服務，目前並無充分公共利益理由推出零售型央行數字貨幣。"
+    },
+    {
+      "id": "te:markets:580623",
+      "time": "2026-09-03 08:41:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gain as Dollar, Treasury Yields Retreat — Gold traded near $4,400 an ounce on Thursday after rebounding in the previous session, as a pullback in the dollar and Treasury yields provided some relief. New York Fed Bank President John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month following Chair Kevin Warsh’s hawkish remarks on Friday. Elsewhere, oil prices halted their rally after President Donald Trump said the latest attacks on Iran would be short-lived while indicating that the US stands ready for further strikes, easing inflation concerns and providing additional support to bullion."
+    },
     {
       "id": "5074182",
       "time": "2026-09-03 08:40:42",
@@ -110868,38 +110896,6 @@
         "其他"
       ],
       "text": "【周大生：隨著7、8月金價逐步修復，金價波動帶來的負面影響逐步消退】周大生(002867)8月26日在機構電話會議上表示，上半年整體收入下滑主要受加盟業務出貨模式變化影響，自營與電商渠道依舊保持較好增長。受金價二季度快速下行影響，行業整體承壓；隨著7、8月金價逐步修復，金價波動帶來的負面影響也在逐步消退。"
-    },
-    {
-      "id": "te:markets:578400",
-      "time": "2026-08-27 08:45:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Mixed After Nvidia Earnings — The Nikkei 225 Index fell 0.3% toward 66,000 while the broader Topix Index rose 0.4% to 4,128 in mixed trade on Thursday, as Japanese shares struggled for direction despite Nvidia’s robust sales outlook providing fresh evidence that spending on AI infrastructure is likely to remain strong. Japanese technology companies are deeply involved in the global AI infrastructure buildout, which has been a major driver of the country’s equity rally over the past year. Meanwhile, data released Wednesday showed US PCE prices rose more than expected in July and remained well above the Federal Reserve’s target, reinforcing expectations for a cautious outlook on US interest rates. Among individual stocks, notable gains came from Kioxia Holdings (6.4%), Fujikura (3.5%) and Ibiden Co (2.3%), while Advantest (-1.3%), Nintendo (-1%) and JX Advanced Metals (-0.8%) posted losses."
-    },
-    {
-      "id": "5061109",
-      "time": "2026-08-27 08:44:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【今日新股申購：創業板電科思儀】8月28日，共有1只新股開啟申購，為創業板的電科思儀。電科思儀IPO首發價為16.00元/股，發行市盈率為44.81倍，共發行1.02億股，預計網上發行1224.80萬股。公司主營業務為電子測量儀器領域的研發、設計、製造、銷售及系統整合等綜合服務。"
-    },
-    {
-      "id": "te:markets:578399",
-      "time": "2026-08-27 08:42:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Extends Rally on RBA Hike Bets — The Australian dollar rose toward $0.72, extending its rally to a fresh three-month high amid growing expectations of an interest rate hike as early as next month. The shift in rate expectations followed hotter-than-expected July inflation print, which showed price pressures remained elevated and prompted several major banks to revise their RBA forecasts. National Australia Bank now expects the central bank to raise its cash rate to 4.6% at the September 28-29 meeting, while Commonwealth Bank and ANZ see a hike in November, with both flagging a risk of an earlier move. Markets are pricing roughly a 50% chance of a September hike, sharply higher from 17% before the inflation report, while a November increase is now fully priced. The RBA kept its cash rate at 4.35% in August after three hikes earlier this year, but policymakers have warned they could tighten further if inflation risks build. Focus now turns to Q2 GDP next week and jobs data for further clues on the policy outlook."
     }
   ]
 }

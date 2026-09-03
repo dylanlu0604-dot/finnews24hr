@@ -1,7 +1,35 @@
 {
   "date": "2026-09-03",
-  "count": 652,
+  "count": 655,
   "items": [
+    {
+      "id": "5074184",
+      "time": "2026-09-03 08:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Delivery Hero董事會支援優步收購要約，稱每股41.5歐元價格公平合理】當地時間9月2日，德國外賣平臺Delivery Hero管理委員會和監事會發布聯合宣告，一致支援優步（Uber）提出的收購要約，並建議股東接受。雙方認為每股41.50歐元的現金收購價公平合理，較5月8日前三個月成交量加權平均股價溢價約127%。優步目前持有Delivery Hero約24.77%股份，並透過相關金融工具持有11.74%的經濟權益，同時已獲得不可撤銷承諾，將取得另外16.68%股份，使其經濟權益超過53%。要約最低接受門檻為50%加1股，接受期將於11月5日24時（中歐時間）結束，交易預計於2027年下半年完成，仍需獲得反壟斷等監管批准。"
+    },
+    {
+      "id": "5074183",
+      "time": "2026-09-03 08:42:23",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【澳大利亞儲備銀行就代幣化市場中結算服務的作用開展意見徵詢】澳大利亞儲備銀行釋出宣告表示，該行已啟動意見徵詢，探討儲備銀行資訊與轉賬系統在代幣化生態體系結算業務中可發揮的作用。本次徵詢旨在收集各界意見，研究澳大利亞儲備銀行的相關服務如何助力本國代幣化資產市場與私人貨幣發展壯大，同時持續維護金融安全、執行效率與金融穩定。意見徵詢截止日期為10月30日。澳儲行同時提及，其與財政部聯合出具的報告認為，澳大利亞零售支付系統可為家庭及企業提供良好服務，目前並無充分公共利益理由推出零售型央行數字貨幣。"
+    },
+    {
+      "id": "te:markets:580623",
+      "time": "2026-09-03 08:41:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gain as Dollar, Treasury Yields Retreat — Gold traded near $4,400 an ounce on Thursday after rebounding in the previous session, as a pullback in the dollar and Treasury yields provided some relief. New York Fed Bank President John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month following Chair Kevin Warsh’s hawkish remarks on Friday. Elsewhere, oil prices halted their rally after President Donald Trump said the latest attacks on Iran would be short-lived while indicating that the US stands ready for further strikes, easing inflation concerns and providing additional support to bullion."
+    },
     {
       "id": "5074182",
       "time": "2026-09-03 08:40:42",
