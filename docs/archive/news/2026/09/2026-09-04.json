@@ -1,7 +1,23 @@
 {
   "date": "2026-09-04",
-  "count": 388,
+  "count": 390,
   "items": [
+    {
+      "id": "5076295",
+      "time": "2026-09-04 05:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本金融廳將加強對銀行海外分支機構的檢查。"
+    },
+    {
+      "id": "mkt:01a06939-77ed-7118-8491-2281d34261fc",
+      "time": "2026-09-04 05:42:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to NEWSIS, South Korea's industry minister said the government plans to announce in September its first investment project in the United States."
+    },
     {
       "id": "5076294",
       "time": "2026-09-04 05:42:13",

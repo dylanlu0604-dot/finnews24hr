@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-04 05:43:01",
-  "count": 13007,
+  "updated": "2026-09-04 05:46:57",
+  "count": 13005,
   "items": [
+    {
+      "id": "5076295",
+      "time": "2026-09-04 05:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本金融廳將加強對銀行海外分支機構的檢查。"
+    },
+    {
+      "id": "mkt:01a06939-77ed-7118-8491-2281d34261fc",
+      "time": "2026-09-04 05:42:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to NEWSIS, South Korea's industry minister said the government plans to announce in September its first investment project in the United States."
+    },
     {
       "id": "5076294",
       "time": "2026-09-04 05:42:13",
@@ -119527,41 +119543,6 @@
         "焦點"
       ],
       "text": "英偉達暫停與多家人工智慧企業的收益分成協議。"
-    },
-    {
-      "id": "mkt:01a0452f-2d17-7aab-915b-80f772bb7444",
-      "time": "2026-08-28 05:45:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump appoints Ben Moss as White House chief of staff】On Aug 27, Trump said via social media that Ben Moss will become assistant to the president and White House chief of staff effective Sept 2, replacing Will Scharf, who has moved to White House counsel. Moss formerly served as deputy White House chief of staff and earlier as deputy policy director to the vice president."
-    },
-    {
-      "id": "5063457",
-      "time": "2026-08-28 05:44:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普任命本·莫斯為白宮幕僚秘書】當地時間8月27日，美國總統特朗普透過社交媒體宣佈，本·莫斯將自9月2日起出任總統助理兼白宮幕僚秘書，接替已轉任白宮法律顧問的威爾·沙夫。特朗普表示，莫斯此前擔任白宮副幕僚秘書，更早前曾任副總統政策主任。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0452e-e948-7aab-915b-7f2b8e85aa8d",
-      "time": "2026-08-28 05:44:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "【Ghalibaf rebukes U.S. Treasury Secretary Bessent, cites NYT doubts on his bond-market credibility】Iranian parliament speaker Ghalibaf posted on social media mocking U.S. Treasury Secretary Bessent and linked to a New York Times report saying Bessent’s bond-market credibility is under test. Ghalibaf repurposed Bessent’s earlier criticism of Tehran, accusing the U.S. of spending on Israel and roughly 750 overseas bases instead of its own people, and wrote: “Scott, your credibility is shaky. Do something useful.” The NYT report says Bessent has attempted to lower U.S. yields by expanding long-term Treasury repurchase operations but market reaction has been muted; with U.S. debt near $40 tln and Iran-related inflationary pressure rising, the piece says his ability to tame the bond market and his personal credibility face increasing scrutiny."
-    },
-    {
-      "id": "5063456",
-      "time": "2026-08-28 05:43:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家遊戲公司上半年業績明顯增長】近期，A股遊戲公司集中披露2026年半年報。根據Wind資料，截至8月27日記者發稿，A股26家遊戲公司，已有21家披露2026年半年報，其中有14家上半年實現盈利，佔比近七成。多家遊戲企業上半年業績實現明顯增長。（證券時報）"
     }
   ]
 }
