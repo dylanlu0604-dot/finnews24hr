@@ -1,7 +1,18 @@
 {
   "date": "2026-09-04",
-  "count": 390,
+  "count": 391,
   "items": [
+    {
+      "id": "mkt:01a0693f-3c02-7118-8491-2ab55e72edd4",
+      "time": "2026-09-04 05:49:06",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Nikkei reports Japan's Financial Services Agency will step up inspections of banks' overseas branches."
+    },
     {
       "id": "5076295",
       "time": "2026-09-04 05:42:59",

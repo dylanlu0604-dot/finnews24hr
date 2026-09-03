@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-04 05:46:57",
-  "count": 13005,
+  "updated": "2026-09-04 05:50:51",
+  "count": 12999,
   "items": [
+    {
+      "id": "mkt:01a0693f-3c02-7118-8491-2ab55e72edd4",
+      "time": "2026-09-04 05:49:06",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Nikkei reports Japan's Financial Services Agency will step up inspections of banks' overseas branches."
+    },
     {
       "id": "5076295",
       "time": "2026-09-04 05:42:59",
@@ -119465,84 +119476,6 @@
         "公司"
       ],
       "text": "【行業再傳利好 二十九隻醫藥股市盈率低於三十倍】隨著國內藥企源頭創新能力持續提升、全球商業化體系不斷完善、產業政策持續最佳化向好，具備核心競爭力的優質創新藥資產價值終將回歸。 證券時報·資料寶統計，根據目前披露的業績資料，按照半年報、業績快報、預告淨利潤下限（若未披露下限則取公告數值）計算，2026年上半年淨利潤同比增長20%以上（含扭虧為盈）的生物醫藥股有112只。（證券時報）"
-    },
-    {
-      "id": "5063461",
-      "time": "2026-08-28 05:50:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷進入業績兌現週期 31只概念股今明兩年淨利增速有望超30%】由於英偉達業績與營收指引雙雙超預期，A股AI題材股票8月27日全線大漲。HBM（高頻寬記憶體）、覆銅板、光通訊、半導體矽片、光模組等概念指數收盤大漲超5%；液冷伺服器指數也延續強勢，大漲近4%。 華創證券指出，液冷在提升散熱效率、降低能耗和執行成本方面優勢顯著，未來有望成為資料中心重要基礎設施。AI等新應用場景出現，對算力裝置和承載算力的資料中心均提出更高要求，並且增加了資料中心的需求，資料中心的架構從原來的IDC（網際網路資料中心）和伺服器機房演進為AIDC（人工智慧資料中心）智算中心。隨著算力密度提高，算力裝置、資料中心機櫃的熱密度都顯著提高，加快了液冷技術的匯入。 證券時報·資料寶統計，根據機構預測，有31只液冷概念股今明兩年淨利增速有望超30%，其中，英維克、金富科技、同飛股份等個股淨利增速超50%。從股價表現來看，華正新材、金富科技、勝藍股份等個股年內漲幅超100%，中石科技、飛龍股份等個股大漲超50%。（證券時報）"
-    },
-    {
-      "id": "mkt:01a04533-79e9-7aab-915b-9ab5ce4bd3c9",
-      "time": "2026-08-28 05:49:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources say the U.S. government is close to reaching an agreement to secure long-term access to Venezuela's oil reserves."
-    },
-    {
-      "id": "5063460",
-      "time": "2026-08-28 05:48:55",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【卡利巴夫反擊貝森特：你的信譽岌岌可危 乾點正事吧】伊朗議會議長卡利巴夫在社交媒體上發文，反諷美國財政部長貝森特，並引用紐約時報報道指出，其債市信譽正面臨考驗。他直接喊話貝森特：“斯科特，老兄，你的信譽岌岌可危。乾點正事吧。”帖文還附上了紐約時報的報道連結。"
-    },
-    {
-      "id": "mkt:01a04532-2e39-7aab-915b-936a270d073e",
-      "time": "2026-08-28 05:48:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "Wall Street Journal reports some NVIDIA (NVDA.O) employees told current and prospective customers they are concerned the project could trigger antitrust scrutiny."
-    },
-    {
-      "id": "5063459",
-      "time": "2026-08-28 05:48:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達暫停與多家人工智慧企業的收益分成協議】據知情人士透露，英偉達暫停了一項新融資計劃下的部分合作。該計劃為AI雲服務商提供信用支援，以此換取一部分營收分成。知情人士稱，英偉達部分員工向現有及潛在客戶表達擔憂：該專案有可能招致反壟斷審查；同時，這家晶片巨頭能在多大程度上左右客戶的商業經營，本身也存在政策敏感問題。知情人士表示，英偉達於上週叫停該專案，距離專案官宣尚不足兩個月；外界尚無法獲知做出該決定的確切原因。部分訊息人士稱，英偉達未來可能對該計劃進行調整，或將其併入其他專案。此番調整發生之際，英偉達正面臨越來越多的審視：外界關注其動用自身資產負債表扶持各類專案，而這些專案反過來又會拉動對英偉達晶片的需求。這家全球市值最高的企業，近期還縮減了為OpenAI俄亥俄州大型資料中心專案提供2500億美元融資兜底的計劃，原因是擔憂投資者會如何看待這筆潛在負債。"
-    },
-    {
-      "id": "mkt:01a04531-b035-7aab-915b-8db62811a82d",
-      "time": "2026-08-28 05:47:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "Wall Street Journal, citing people familiar with the matter, says NVIDIA (NVDA.O) has paused some deals that provide credit support in exchange for revenue sharing."
-    },
-    {
-      "id": "5063458",
-      "time": "2026-08-28 05:47:09",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達暫停與多家人工智慧企業的收益分成協議。"
     }
   ]
 }
