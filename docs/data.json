@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-03 14:10:52",
-  "count": 12199,
+  "updated": "2026-09-03 14:15:29",
+  "count": 12206,
   "items": [
+    {
+      "id": "5074637",
+      "time": "2026-09-03 14:13:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科光芯完成數億元B+輪融資】近日，國科光芯（海寧）科技股份有限公司宣佈完成數億元人民幣B+輪融資。本輪融資由四川省科創投資集團領投，杭州凱泰資本、山東省科創集團等機構跟投。本輪募集資金將重點用於下一代單波400Gbps矽光晶片、1.6T/3.2T 矽光探測器晶片、3.2T/6.4T NPO/CPO、OIO芯粒等新產品開發、數通子公司（子品牌：星漢光子）的擴產投入以及海外交付中心的建設規劃。"
+    },
+    {
+      "id": "5074636",
+      "time": "2026-09-03 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.5%，至9020.10點。"
+    },
+    {
+      "id": "mkt:01a065e5-8108-7118-8477-66ba1ca049dd",
+      "time": "2026-09-03 14:12:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UAE president Al Nahyan holds phone call with US President Trump】UAE President Al Nahyan spoke by phone with US President Trump, discussing bilateral cooperation and ways to deepen ties to protect shared interests. They exchanged views on recent Middle East developments and on efforts to address those regional challenges."
+    },
+    {
+      "id": "te:economy:580744",
+      "time": "2026-09-03 14:11:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Russia Services Sector Returns to Growth — The S&P Global Russia Services PMI increased to 51.3 in August 2026 from 49.0 in July, marking the first expansion in the sector since February. The growth was supported by rising business activity amid renewed growth in new sales and reports of stronger customer demand. On the price front, input costs rose due to higher energy and transportation costs. However, inflation eased to its joint-weakest level in 2026 so far and remained below the series average. Meanwhile, selling prices rose faster as firms sought to pass on higher costs to customers and protect margins. Looking ahead, business confidence improved to a five-month high on hopes of stronger demand and investment."
+    },
+    {
+      "id": "5074635",
+      "time": "2026-09-03 14:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州數智應急科技集團成立 註冊資本3億元】天眼查App顯示，8月28日，廣州數智應急科技集團有限公司成立，法定代表人為戴哲，註冊資本3億元，經營範圍包括人工智慧應用軟體開發、人工智慧通用應用系統、人工智慧硬體銷售、人工智慧公共資料平臺等。股東資訊顯示，該公司由廣州廣寬科技有限公司、廣州化工交易中心有限公司、廣州市城市規劃勘測設計研究院有限公司共同持股，持股比例分別為45%、35%、20%。"
+    },
+    {
+      "id": "mkt:01a065e4-8d64-7118-8477-5aefa94af38a",
+      "time": "2026-09-03 14:11:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Black Sea supply disruptions push Asian buyers to Australian and Argentine wheat】Three trade sources said Asian wheat importers have purchased at least 500,000 tonnes of Australian and Argentine wheat after attacks on ships and export infrastructure in the Black Sea delayed deliveries. Buyers, including Indonesia — named in the source as the world's second-largest wheat importer — are paying markedly higher prices to secure alternative shipments, the sources said. An Asia-based trader said multiple bulk deals for Australian and Argentine wheat were struck in the past week to 10 days to replace cargoes expected from Russia and Ukraine that have not arrived. The shift highlights acute short-term supply stress for import-dependent countries."
+    },
+    {
+      "id": "5074634",
+      "time": "2026-09-03 14:10:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道達爾能源完成收購奈米比亞PEL83區塊40%權益】當地時間9月3日，道達爾能源宣佈完成與Galp於2025年12月達成的交易，收購奈米比亞PEL83許可證40%的運營權益。該區塊包含巨型Mopane油氣發現，道達爾能源將與Galp、Namcor和Custos分別持有40%、40%、10%和10%的權益。道達爾能源表示，公司目前已成為奈米比亞兩大石油發現的運營商，並計劃於2026年下半年啟動Mopane評價鑽井，實施3口評價井計劃，目標於2028年作出最終投資決定（FID）。"
+    },
+    {
+      "id": "5074633",
+      "time": "2026-09-03 14:10:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本三井歐士克航運：霍爾木茲海峽航運風險或將持續至年底】日本三井歐士克航運株式會社負責人表示，受近期襲擊事件影響，霍爾木茲海峽航運受阻的持續時間或將超出此前預期。該公司總裁田村丈太郎稱，年內航運難以恢復，當前局勢的風險水平已遠超企業可承受範圍。田村表示，三井歐士克航運若要恢復常態化通航，需要確信多次航行都能夠保障通行安全。"
+    },
+    {
+      "id": "5074632",
+      "time": "2026-09-03 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：TMT板塊淨流出超146億】截至目前，今日主力資金淨流出119.72億；淨流入有色金屬概念、大盤均衡、非銀金融等板塊，其中有色金屬概念板塊淨流入29.53億；淨流出TMT、納入富時羅素、晶片概念等板塊，其中TMT板塊淨流出146.11億。\n  \n個股方面，黃河旋風淨買入11.34億元位居首位，三安光電、白銀有色、夏農芯創主力資金淨流入居前；中際旭創淨賣出11.64億元位居首位，亨通光電、東山精密、中國巨石淨流出額居前。"
+    },
     {
       "id": "5074631",
       "time": "2026-09-03 14:09:07",
@@ -112138,30 +112215,6 @@
         "Importance 1"
       ],
       "text": "Norway GDP Growth Accelerates to 0.7% in Q2 — The Norwegian economy advanced by 0.7% quarter-on-quarter in Q2 2026, following a 0.4% expansion in the previous period. It was the second consecutive quarter of expansion, mainly driven by an acceleration in petroleum activities and ocean transport, which grew 1.7% compared with 1.1% in Q1. Fixed investments rebounded, rising 4.4% after shrinking 7.2% in Q1. Meanwhile, government spending accelerated to 0.8% from 0.3%, while household consumption inched down 0.1% after declining 1.3%. On the other hand, net trade contributed negatively to GDP growth, as exports edged down 0.1% after falling 1.8% in Q1, while imports stalled following a 1.5% fall in Q1. On an annual basis, GDP expanded 2.0%, accelerating from a downwardly revised 1.6% in Q1. GDP for Mainland Norway, which excludes the largely petroleum-based offshore sector, grew 0.3% quarter-on-quarter, following a 0.2% gain in the prior period, marking the strongest growth in a year."
-    },
-    {
-      "id": "te:economy:578514",
-      "time": "2026-08-27 14:15:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Sweden Trade Surplus Narrows Sharply in July — Sweden’s trade surplus narrowed to SEK 1.2 billion in July 2026 from SEK 3.5 billion in the corresponding month of the previous year, as imports rose more than exports. Imports increased 5.7% year-on-year to SEK 158.7 billion, with purchases from both EU countries (5.8% to SEK 106.4 billion) and non-EU countries (5.7% to SEK 52.3 billion) increasing. Exports grew 4.1% to SEK 159.9 billion, as a 12% increase in shipments to EU countries, to SEK 85.9 billion, offset a 3.8% decline in exports to non-EU countries, to SEK 74.0 billion. For the first seven months of the year, Sweden recorded a trade surplus of SEK 8.5 billion, narrowing sharply from SEK 51.4 billion in the same period last year, as imports rose 7.3%, outpacing the 3.4% growth in exports. On a seasonally adjusted basis, the trade balance showed a surplus of SEK 2.8 billion in July, compared with SEK 2.6 billion in June."
-    },
-    {
-      "id": "te:economy:578513",
-      "time": "2026-08-27 14:12:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Lithuania Industrial Output Growth Slows in July — Industrial production in Lithuania grew by 3.3% year-on-year in July 2026, slowing from a slightly upwardly revised 9.9% increase in the previous month. The softer growth in industrial activity was largely driven by lower activity in mining and quarrying, which fell by 1.6% after a sharp 16.1% gain in June. Output also declined for electricity, gas, steam and air conditioning supply (-4.1% vs -3.6%) and water supply, wastewater treatment, waste management and regeneration (-12.1% vs -7.7%). At the same time, production in the manufacturing sector also rose at a softer pace (3.6% vs 10.4%). On a seasonally adjusted monthly basis, industrial output decreased by 2.4% in July, slipping from a downwardly revised 1.8% growth in the preceding period."
     }
   ]
 }
