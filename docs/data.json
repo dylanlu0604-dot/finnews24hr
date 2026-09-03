@@ -1,7 +1,206 @@
 {
-  "updated": "2026-09-03 09:43:08",
-  "count": 12094,
+  "updated": "2026-09-03 09:47:05",
+  "count": 12087,
   "items": [
+    {
+      "id": "5074295",
+      "time": "2026-09-03 09:46:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【免稅概念持續走強，珠免集團漲停】免稅概念持續走強，珠免集團漲停，凱撒旅業、中國中免、海汽集團、白雲機場、招商蛇口、深圳機場等跟漲。"
+    },
+    {
+      "id": "5074294",
+      "time": "2026-09-03 09:45:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【燃氣板塊短線走弱 水發燃氣跌超8%】燃氣板塊短線走弱，水發燃氣跌超8%，天壕能源、貴州燃氣等下跌。"
+    },
+    {
+      "id": "5074293",
+      "time": "2026-09-03 09:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7月上海對秘魯進出口同比增31.1%，鮮食香蕉獲准後首次入華】9月2日，全國首批進口秘魯香蕉經“錢凱—上海”海運航線運抵上海。這是秘魯鮮食香蕉在獲得准入後首次進入中國市場。作為中秘共建“一帶一路”標杆專案，“錢凱－上海”海運航線自2024年底開通以來，截至今年9月1日，上海海關累計監管該航線進出口貨物35.5萬噸、貨值近百億（98.7億）元，貨物種類從開航之初的34種增加到了75種。據上海海關統計，今年前7個月“錢凱—上海”海運航線累計進出口貨值達33.5億元，同比增長44.7%。在該航線帶動下，前7個月，上海對秘魯進出口貨值比去年同期大幅增長31.1%。（第一財經）"
+    },
+    {
+      "id": "mkt:01a064f1-5d4d-7118-8472-5b9a08ca9474",
+      "time": "2026-09-03 09:45:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China August RatingDog composite PMI 52.1; prior 50.8."
+    },
+    {
+      "id": "5074292",
+      "time": "2026-09-03 09:45:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報9711.00元。"
+    },
+    {
+      "id": "mkt:01a064f1-439f-7118-8472-52b99e6a1dc7",
+      "time": "2026-09-03 09:45:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Composite PMI (Aug) | actual 52.1 | previous 50.8"
+    },
+    {
+      "id": "5074291",
+      "time": "2026-09-03 09:45:25",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國8月RatingDog服務業PMI 51.4，前值50.4。"
+    },
+    {
+      "id": "te:economy:580647",
+      "time": "2026-09-03 09:45:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Australia Exports Fall 3.3% — Australia's exports dropped 3.3% month-on-month to AUD 46.26 billion in June, reversing a downwardly revised 9.1% surge in June. The decline was primarily driven by non-monetary gold."
+    },
+    {
+      "id": "5074290",
+      "time": "2026-09-03 09:45:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "RATINGDOG中國8月份綜合PMI報52.1，前值50.8。"
+    },
+    {
+      "id": "mkt:01a064f0-f0af-7118-8472-4f56f2d838e4",
+      "time": "2026-09-03 09:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China August RatingDog services PMI rose to 51.4 from 50.4 in July."
+    },
+    {
+      "id": "mkt:01a064f0-d64b-7118-8472-460da000a23f",
+      "time": "2026-09-03 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Services PMI (Aug) | actual 51.4 | previous 50.4"
+    },
+    {
+      "id": "5074289",
+      "time": "2026-09-03 09:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【海運板塊短線走強 海通發展漲超8%】海運板塊短線走強，海通發展漲超8%，中遠海能、招商輪船、招商南油等上漲。"
+    },
+    {
+      "id": "5074288",
+      "time": "2026-09-03 09:44:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追夢空天科技完成數億元A+輪融資】近日，追夢空天科技宣佈完成數億元A+輪融資，創下其成立以來最大單筆融資，也是國內混動eVTOL領域最大單筆融資。本輪融資由杭實集團及下屬杭州低空公司領投，蕭山創投基金、財通資本、不惑創投、前海方舟、國投泰康跟投，老股東航投基金連續第四輪跟投，曉池資本連續第三輪超額跟投。本輪募集資金將重點用於貨運機型適航取證攻堅、產品量產能力建設、載人機型工程研製、產業鏈體系完善以及核心技術團隊擴充，加速技術落地與商業化兌現。"
+    },
+    {
+      "id": "5074287",
+      "time": "2026-09-03 09:44:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "希音港股上市第三日跌超3%。"
+    },
+    {
+      "id": "mkt:01a064ef-f30f-7118-8472-3a5586e5ff01",
+      "time": "2026-09-03 09:44:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01138.HK",
+        "Impact bullish",
+        "01919.HK",
+        "02866.HK"
+      ],
+      "text": "Hong Kong-listed port and transport sector strengthened; COSCO SHIPPING ENERGY (01138.HK) rose over 5%, with COSCO SHIPPING Holdings (01919.HK), COSCO SHIPPING DEVELOPMENT (02866.HK) and Sinotrans (00598.HK) also higher."
+    },
+    {
+      "id": "em:qqyh_jndyh:202609033863729166",
+      "time": "2026-09-03 09:43:48",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行：美國關稅威脅衝擊加經濟復甦前景】加拿大銀行（央行）當地時間9月2日宣佈將基準利率維持在2.25%不變。自2025年10月底以來，加拿大一直保持基準利率不變。"
+    },
+    {
+      "id": "te:economy:580645",
+      "time": "2026-09-03 09:43:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Australia Trade Surplus Narrows in July — Australia’s trade surplus narrowed to AUD 1.93 billion in July 2026 from an upwardly revised AUD 2.34 billion surplus in the previous month, but surpassed market expectations of an AUD 1.40 billion deficit, as exports fell more than imports. Meanwhile, imports fell 2.5% month-on-month to AUD 44.34 billion, reversing an upwardly revised 0.7% drop in June, mainly due to lower imports of fuel and lubricants amid weak domestic demand. Exports dropped 3.3% month-on-month to AUD 46.26 billion in July, reversing a downwardly revised 9.1% surge in June. The decline was primarily driven by non-monetary gold."
+    },
+    {
+      "id": "5074286",
+      "time": "2026-09-03 09:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱襲擊是“伊朗侵略”的一部分。"
+    },
+    {
+      "id": "mkt:01a064ef-2d1f-7118-8472-322ea0e1a515",
+      "time": "2026-09-03 09:43:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran conflict drags on, US extends Middle East deployments through 2027】The Wall Street Journal, citing people familiar with the matter, reports Defense Secretary Hegseth has quietly extended U.S. force deployments in the Middle East, pushing the posture through 2027. Officials describe the change as part of an open-ended military strategy designed to preserve more options for Trump. The regional footprint now includes 19 warships, air‑defense units, fighter squadrons and paratroopers, sources said, increasing strain on personnel and families and creating a maintenance backlog that could take years to clear. An Army air‑defense unit charged with intercepting Iranian missiles and drones has had its standard deployment cycle extended from nine to 12 months, and several units rerouted from Europe and the Pacific have been deployed for more than a year."
+    },
+    {
+      "id": "5074285",
+      "time": "2026-09-03 09:42:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "5074284",
       "time": "2026-09-03 09:41:46",
@@ -111034,262 +111233,6 @@
         "公司"
       ],
       "text": "THINKING MACHINES LAB聯合創始人巴雷特·佐夫（BARRET ZOPH）加入谷歌，擔任研究副總裁。"
-    },
-    {
-      "id": "5061241",
-      "time": "2026-08-27 09:46:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌3%，現報1007.00元。"
-    },
-    {
-      "id": "5061240",
-      "time": "2026-08-27 09:46:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電網裝置板塊震盪走弱 思源電氣跌停】早盤電網裝置板塊震盪走弱，思源電氣封跌停，金盤科技、神馬電力、明陽電氣、安靠智電均跌超6%。"
-    },
-    {
-      "id": "5061239",
-      "time": "2026-08-27 09:46:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【休閒食品概念震盪反彈，南僑食品盤中觸及漲停】休閒食品概念震盪反彈，南僑食品盤中觸及漲停，一致魔芋、桂發祥、歐福蛋業、黑芝麻、立高食品、紅棉股份等跟漲。"
-    },
-    {
-      "id": "5061238",
-      "time": "2026-08-27 09:46:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：外匯對消費者價格的影響在六個月後達到峰值。"
-    },
-    {
-      "id": "mkt:01a040e5-3398-7aab-913e-01329c49f0a4",
-      "time": "2026-08-27 09:45:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said Japan's financial environment remains accommodative."
-    },
-    {
-      "id": "mkt:01a040e5-257d-7aab-913d-fb2073c1c822",
-      "time": "2026-08-27 09:45:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said monetary policy is not intended to control the exchange rate, but exchange-rate fluctuations are one of the key factors affecting the economy and prices."
-    },
-    {
-      "id": "5061237",
-      "time": "2026-08-27 09:45:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "冰見野良三：日本央行應繼續根據經濟情勢加息。"
-    },
-    {
-      "id": "mkt:01a040e5-1265-7aab-913d-f0723a83988a",
-      "time": "2026-08-27 09:45:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Himino, deputy governor at the Bank of Japan, said the central bank's core responsibility is to ensure everyone can use the yen confidently and efficiently."
-    },
-    {
-      "id": "5061236",
-      "time": "2026-08-27 09:45:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "冰見野良三：日本金融環境依然寬鬆，為經濟提供支撐。"
-    },
-    {
-      "id": "mkt:01a040e4-cb04-7aab-913d-eb99d2f79742",
-      "time": "2026-08-27 09:45:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said foreign exchange is an important factor for Japan's economy and prices and called for careful review of the effects of yen depreciation. He said exchange-rate pass-through to prices is more pronounced than in the past."
-    },
-    {
-      "id": "5061235",
-      "time": "2026-08-27 09:45:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：短期和中期實際利率為負值。"
-    },
-    {
-      "id": "mkt:01a040e4-631c-7aab-913d-e214df901bd9",
-      "time": "2026-08-27 09:45:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "China A-share gold names repeatedly strengthened; Shenzhen Zhonghua A posted a sixth consecutive limit-up, Hunan Gold and Laishen Tongling hit limit-up, and Hunan Silver, Zhaojin Gold, Baiyin Nonferrous and Shengda Resources rose in sympathy."
-    },
-    {
-      "id": "mkt:01a040e4-4cf9-7aab-913d-df24286c0098",
-      "time": "2026-08-27 09:44:58",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said the weak yen has lifted global corporate profits but is weighing on household real incomes."
-    },
-    {
-      "id": "5061234",
-      "time": "2026-08-27 09:44:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西橫州市繼續釋出暴雨紅色預警】廣西橫州市氣象臺27日8時10分繼續釋出暴雨紅色預警訊號：27日3時以來，橫州市平馬、巒城、六景等鄉鎮已出現50~90毫米、局地130毫米的強降雨，預計未來3小時，橫州市石塘、陶圩、六景、校椅、鎮龍、馬嶺、雲表等鄉鎮仍將有30~50毫米、局地60毫米以上的強降雨，其餘地區有15~25毫米的降雨，並伴有雷電、短時大風，山洪地質災害氣象風險很大。請注意防範。(央視新聞)"
-    },
-    {
-      "id": "mkt:01a040e4-0b56-7aab-913d-d55791a27312",
-      "time": "2026-08-27 09:44:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China A-share coal sector rallied. Kairuide surged to the daily trading limit; Xindazhou A, Huayang, Haohua Energy, Pingmei, Jizhong Energy and Jinkong Coal also advanced."
-    },
-    {
-      "id": "5061233",
-      "time": "2026-08-27 09:44:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏日喀則市吉隆縣遭受泥石流災害金融監管總局啟動保險業二級救災應急響應】8月26日10時30分左右，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。災害發生後，金融監管總局迅速指導銀行業保險業和屬地金融監管局全力做好災害應急處置和保險理賠服務等工作。根據金融監管總局工作部署，西藏金融監管局派出工作組赴災害現場，有關保險機構立即啟動應急預案，開展承保情況摸排，配合地方黨委政府和有關部門做好災害應對處置有關工作。根據災情進展和保險業應對災害事故處置工作機制，金融監管總局啟動保險業二級救災應急響應，同時指導銀行業做好相關金融保障服務工作。"
-    },
-    {
-      "id": "5061232",
-      "time": "2026-08-27 09:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：貨幣政策不以控制匯率為目標，但匯率波動是影響經濟與物價的關鍵因素之一。"
-    },
-    {
-      "id": "5061231",
-      "time": "2026-08-27 09:44:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航班管家DAST：颱風“沙德爾”影響範圍繼續調整，預計將波及上海浦東、溫州龍灣等32座機場】截至8月27日上午，航班管家DAST颱風機場受擾預測顯示，颱風“沙德爾”影響範圍繼續調整，預計將波及32座機場，影響從上海、浙江沿海逐步向福建、江西、湖南、廣東及廣西等地延伸。8月27日10座機場進入影響時段，預計受影響機場包括：上海浦東、上海虹橋、杭州蕭山、寧波櫟社、溫州龍灣5座千萬級機場，以及台州路橋、舟山普陀山、義烏、麗水、嘉興南湖機場。其中，14時預計涉及上海浦東、溫州龍灣、台州路橋、寧波櫟社、舟山普陀山；20時影響範圍擴大至上海虹橋、杭州蕭山、義烏、麗水、嘉興南湖等機場。"
-    },
-    {
-      "id": "5061230",
-      "time": "2026-08-27 09:43:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭概念異動拉昇，凱瑞德直線漲停】煤炭概念異動拉昇，凱瑞德直線漲停，新大洲A、華陽股份、昊華能源、平煤股份、冀中能源、晉控煤業等跟漲。"
-    },
-    {
-      "id": "5061229",
-      "time": "2026-08-27 09:43:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三大指數高開低走翻綠 全市場超3000家個股下跌】三大指數高開低走翻綠，全市場超3000家個股下跌，光伏裝置、電源裝置板塊跌幅居前。"
-    },
-    {
-      "id": "mkt:01a040e3-2fa4-7aab-913d-ce7f0677e3a7",
-      "time": "2026-08-27 09:43:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said the risk of a severe recession facing the economy has diminished."
-    },
-    {
-      "id": "mkt:01a040e3-2225-7aab-913d-c74d0e3f56ee",
-      "time": "2026-08-27 09:43:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Deputy Governor Himino said focusing solely on immediate reactions could lead to overlooking the overall impact of policy changes."
-    },
-    {
-      "id": "5061228",
-      "time": "2026-08-27 09:43:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【黃金概念反覆走強 深中華A6連板】黃金概念反覆走強，深中華A走出6連板，湖南黃金、萊紳通靈漲停，湖南白銀、招金黃金、白銀有色、盛達資源等跟漲。"
-    },
-    {
-      "id": "mkt:01a040e2-f295-7aab-913d-bdb4a2464041",
-      "time": "2026-08-27 09:43:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BOJ Deputy Governor HIMINO said monitoring current conditions is essential for assessing the outlook and risks, but policy discussions tend to focus more on future outlook and risks."
-    },
-    {
-      "id": "5061227",
-      "time": "2026-08-27 09:43:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "5061226",
-      "time": "2026-08-27 09:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：日元疲軟提振跨國企業獲利，但拖累家庭實際收入。"
-    },
-    {
-      "id": "5061225",
-      "time": "2026-08-27 09:43:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家能源集團新疆電力有限公司副總經理趙新一接受審查調查】中央紀委國家監委網站8月27日通報，據中央紀委國家監委駐國家能源集團紀檢監察組、新疆維吾爾自治區紀委監委訊息：國家能源集團新疆電力有限公司黨委委員、副總經理趙新一涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家能源集團紀檢監察組紀律審查和新疆維吾爾自治區監察委員會監察調查。"
     }
   ]
 }
