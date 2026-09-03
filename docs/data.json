@@ -1,7 +1,158 @@
 {
-  "updated": "2026-09-03 08:29:26",
-  "count": 12057,
+  "updated": "2026-09-03 08:33:23",
+  "count": 12064,
   "items": [
+    {
+      "id": "5074175",
+      "time": "2026-09-03 08:32:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額下跌0.1%至13,450.1億元。"
+    },
+    {
+      "id": "5074173",
+      "time": "2026-09-03 08:31:04",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "PMI資料顯示，日本服務業增速創五個月新高。"
+    },
+    {
+      "id": "5074172",
+      "time": "2026-09-03 08:31:00",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "越南8月標普全球越南製造業PMI 53.3，前值52.9。\n日本8月服務業PMI終值 52.5，前值52.3。日本8月綜合PMI終值 53.5，前值53.4。\n中國香港8月標普全球製造業PMI 49.5，前值51。"
+    },
+    {
+      "id": "mkt:01a064ac-5c3a-7118-8470-8647ca2c99db",
+      "time": "2026-09-03 08:30:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan August composite PMI (final) 53.5, up from 53.4."
+    },
+    {
+      "id": "mkt:01a064ac-5408-7118-8470-7a4a7cfdbe6d",
+      "time": "2026-09-03 08:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong S&P Global manufacturing PMI for August 49.5, down from 51.0 previously; reading below 50 signals contraction in factory activity."
+    },
+    {
+      "id": "mkt:01a064ac-4e98-7118-8470-70e542d7731a",
+      "time": "2026-09-03 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam August S&P Global manufacturing PMI 53.3, prior 52.9."
+    },
+    {
+      "id": "mkt:01a064ac-4dcc-7118-8470-6f9d518b0957",
+      "time": "2026-09-03 08:30:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan August services PMI (final) 52.5, prior 52.3."
+    },
+    {
+      "id": "mkt:01a064ac-4dcb-7118-8470-625722b60ff0",
+      "time": "2026-09-03 08:30:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year government bond yield fell 7.0 bps to 3.815%."
+    },
+    {
+      "id": "mkt:01a064ac-2c90-7118-8470-5dcb7fa65af8",
+      "time": "2026-09-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services PMI (Aug) | actual 52.5 | previous 52.3"
+    },
+    {
+      "id": "mkt:01a064ac-2c43-7118-8470-5620f723dbe7",
+      "time": "2026-09-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Composite PMI (Aug) | actual 53.5 | previous 53.4"
+    },
+    {
+      "id": "mkt:01a064ac-2c2f-7118-8470-4dbe8641cfb3",
+      "time": "2026-09-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Manufacturing PMI (Aug) | actual 49.5 | previous 51"
+    },
+    {
+      "id": "mkt:01a064ab-eb05-7118-8470-47df011afbe0",
+      "time": "2026-09-03 08:29:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Singapore dollar could outperform in Asia if dollar-depreciation trade intensifies】The Singapore dollar has the strongest inverse correlation with the US dollar among Asian currencies. SocGen emerging Asia strategist Calvin Xie says an intensified dollar‑depreciation trade would favour the SGD; he expects gains driven by the currency’s tight negative USD linkage, limited central‑bank intervention, a booming AI export sector and relatively strong volatility‑adjusted returns during episodes of dollar weakness."
+    },
+    {
+      "id": "5074171",
+      "time": "2026-09-03 08:28:44",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【三因素有望推動8月份CPI同比溫和上漲】記者採訪的多位業內人士就8月份居民消費價格指數（CPI）與工業生產者出廠價格指數（PPI）走勢進行了前瞻分析。受訪業內人士普遍預計，綜合高頻食品價格、國際大宗商品價格以及暑期服務消費變化判斷，8月份，CPI同比或保持溫和上漲，PPI同比漲幅或小幅回落。 在CPI方面，國研新經濟研究院創始院長朱克力在接受記者採訪時表示，預計8月份CPI同比增長0.7%。財通證券首席經濟學家孫彬彬預計，8月份CPI同比升至0.9%。在PPI方面，朱克力認為，8月份，PPI同比增速大約在3.0%附近。孫彬彬預計，8月份，PPI同比漲幅為3.2%（證券日報）"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609033863418632",
+      "time": "2026-09-03 08:28:23",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月非農明晚來襲！美銀：僅是“開胃菜” 維持美聯儲9月加息預期】北京時間週五晚20:30，美國8月非農就業報告將出爐。這是美聯儲9月中旬議息會議之前公佈的最為重要的經濟資料之一。"
+    },
     {
       "id": "5074170",
       "time": "2026-09-03 08:25:36",
@@ -110712,66 +110863,6 @@
         "國際"
       ],
       "text": "日本日經225指數下跌0.2%，抹去早盤漲幅。"
-    },
-    {
-      "id": "5061099",
-      "time": "2026-08-27 08:33:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和資本將現代汽車目標價從680,000韓元下調至550,000韓元。"
-    },
-    {
-      "id": "5061098",
-      "time": "2026-08-27 08:32:40",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：玻璃基板有望成為下一代先進封裝的重要材料平臺，關注核心裝置放量】中金公司研報表示，玻璃基板正處於“從0到1”階段，核心場景為先進封裝，成長潛力高。全球頭部廠商普遍在試點線建設、樣品送樣與客戶驗證階段，預計2027-2028年為小批次商用關鍵節點。同時，玻璃基板在CPO光電共封裝、消費電子、通訊等領域同步開啟，成長空間廣闊。玻璃基板至2030年裝置累計空間近500億元，遠期滲透率開啟有望達千億元。裝置端建議關注兩條核心投資路徑：1. 重點關注核心增量環節：TGV裝置，在玻璃面板上高精度高密度通孔，相比TSV，工藝省略了絕緣層，並降低高速訊號的損失；2. 建議關注針對玻璃特性與板級封裝特性的改良裝置中高價值量、高技術壁壘與低國產化率裝置：如PVD、電鍍、曝光、檢測等環節。其中，PVD與電鍍環節較為複雜，約佔產線投資40%，電鍍環節壁壘高且易出現空芯包洞對基板良率影響較大，整體國產化率仍較低。"
-    },
-    {
-      "id": "5061097",
-      "time": "2026-08-27 08:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏吉隆口岸危險區域村落均已撤離完畢】8月26日18時，西藏邊檢總站日喀則邊境管理支隊吉隆邊境管理大隊派出26名警力，緊急幫助吉隆口岸14公里內村落群眾陸續撤離，現已將吉隆鎮老江村42名村民撤離至吉隆鎮，薩勒鄉郭巴村180名村民、色瓊村40名村民、拉比村107名村民共計327人轉移至薩勒鄉薩勒村安置。目前，口岸危險區域村落均已撤離完畢。"
-    },
-    {
-      "id": "5061096",
-      "time": "2026-08-27 08:32:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【增援中國救援隊包機抵達日喀則定日機場】26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。截至26日晚上8點，經初步核實統計，此次泥石流災害已造成3人遇難、265人失聯，具體傷亡人數還在進一步核查中。應急管理部、國家消防救援局調派中國救援隊增援西藏日喀則泥石流救援。目前，中國救援隊乘坐的包機目前已經降落日喀則。據瞭解，本架飛機承載中國救援隊人員111名，大部分來自北京市的消防救援隊和四川省的消防救援隊。攜帶大量救援裝備。"
-    },
-    {
-      "id": "5061095",
-      "time": "2026-08-27 08:31:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額下跌0.2%至13,441.5億元。"
-    },
-    {
-      "id": "5061094",
-      "time": "2026-08-27 08:30:26",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：短期來看，美國長端國債收益率預計仍將高位執行】中信證券研報稱，今年6月以來，美國長端國債收益率出現上行壓力，近期美國財政部頻頻釋放“護盤”訊號，疊加8月25日霍爾木茲海峽通行談判出現進展訊號，長端美債利率近期有所回落。近期美國長端國債收益率快速上行，主要受到美國財政壓力、美國企業債券供給增加以及通脹風險抬升等多重因素共同影響。短期來看，美國長端國債收益率預計仍將高位執行。"
-    },
-    {
-      "id": "5061093",
-      "time": "2026-08-27 08:30:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：當前公募REITs市場面臨基本面和資金面的雙重有利因素 增配物流倉儲業態】中信證券研報稱，當前公募REITs市場面臨基本面和資金面的雙重有利因素，具備一二級市場的戰略投資機遇，因此我們下調了組合的現金比例建議。與此同時，我們認為物流倉儲的的區域性、結構性改善具備更明確的基本面支撐，在組合中新納入寶灣物流REIT，替換了組合中一隻產業園REIT，並調增物流倉儲業態組合佔比到16%。"
     }
   ]
 }
