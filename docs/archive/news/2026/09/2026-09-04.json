@@ -1,7 +1,43 @@
 {
   "date": "2026-09-04",
-  "count": 555,
+  "count": 559,
   "items": [
+    {
+      "id": "5076425",
+      "time": "2026-09-04 07:57:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克的BORING公司最近完成了一輪融資，估值約為200億美元。"
+    },
+    {
+      "id": "5076424",
+      "time": "2026-09-04 07:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪藍色警報】國家海洋預報臺根據《海洋災害應急預案》釋出海浪藍色警報。受今年第24號颱風\"科羅旺”(熱帶風暴級)的影響，預計9月4日上午到5日上午，東海將出現3到5米的大浪到巨浪區;上海、浙江近岸海域將出現2到3.4米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意"
+    },
+    {
+      "id": "mkt:01a069b3-2cee-7118-8491-feed3944c260",
+      "time": "2026-09-04 07:55:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi Auto signs eight German dealers; test programme set for four European countries】On Sept 4 Xiaomi Group partner and president Lu Weibing said at IFA in Berlin Xiaomi Auto signed agreements with eight leading German dealers. The export-bound model will undergo high-speed validation and functional testing at seven venues across Sweden, Germany, Spain and Italy, including the Arjeplog winter test centre and Nürburgring."
+    },
+    {
+      "id": "5076423",
+      "time": "2026-09-04 07:55:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果在美遭巴斯夫子公司起訴，Face ID技術被控專利侵權】據報道，巴斯夫子公司創邁思（trinamiX）當地時間9月3日在美國得州西區聯邦地區法院提起訴訟，指控蘋果iPhone 15至17系列、iPad Pro等產品所用Face ID技術侵犯其7項面部身份驗證相關專利。訴狀稱，涉案技術源於巴斯夫2010年有機太陽能電池研究，後由2014年成立的創邁思持續研發，聚焦皮膚材質識別以防範照片及3D面具欺騙。創邁思要求蘋果方面賠償損失並停止進一步侵權行為，但未具體說明賠償金額。"
+    },
     {
       "id": "5076422",
       "time": "2026-09-04 07:55:00",
