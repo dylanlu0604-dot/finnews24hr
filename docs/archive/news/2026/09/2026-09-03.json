@@ -1,7 +1,52 @@
 {
   "date": "2026-09-03",
-  "count": 2569,
+  "count": 2574,
   "items": [
+    {
+      "id": "5075950",
+      "time": "2026-09-03 23:47:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：允許涉及第三國外交使團的交易以及涉及第三國領事使團的交易，許可證允許第三國使團在古巴開展相關交易。"
+    },
+    {
+      "id": "mkt:01a067f3-afca-7118-848c-7bc8e6f81ed7",
+      "time": "2026-09-03 23:46:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury says it will permit transactions involving third-country diplomatic missions and consular posts; licenses allow third-country missions to conduct related transactions in Cuba."
+    },
+    {
+      "id": "5075949",
+      "time": "2026-09-03 23:46:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與CEO：與甲骨文的合作將助力其建設吉瓦級基礎設施。"
+    },
+    {
+      "id": "mkt:01a067f2-4eaa-7118-848c-71f471a16357",
+      "time": "2026-09-03 23:45:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury imposed sanctions on Fidel Ernesto Castro Carlis."
+    },
+    {
+      "id": "te:economy:581020",
+      "time": "2026-09-03 23:44:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 13-year Low — Zambia 10 Year Government Bond Yield decreased to 15.80%, the lowest since December 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 2.00 basis points, and in the last 12 months, it decreased 271.20 basis points."
+    },
     {
       "id": "mkt:01a067f1-190d-7118-848c-6f5a148ee43a",
       "time": "2026-09-03 23:44:08",
