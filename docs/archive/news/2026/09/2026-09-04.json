@@ -1,7 +1,43 @@
 {
   "date": "2026-09-04",
-  "count": 186,
+  "count": 190,
   "items": [
+    {
+      "id": "5076081",
+      "time": "2026-09-04 03:04:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車美股上漲4%。"
+    },
+    {
+      "id": "mkt:01a068a8-0437-7118-848f-d85babb86292",
+      "time": "2026-09-04 03:03:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures closed the night session up 1.11% at 25,421, trading at a 208-point premium to the cash index."
+    },
+    {
+      "id": "5076079",
+      "time": "2026-09-04 03:03:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "透過花旗銀行開展 Integer 貸款業務；9 月 8 日舉行貸款人電話會議。"
+    },
+    {
+      "id": "5076077",
+      "time": "2026-09-04 03:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國商業銀行（RCI Banque）發行8.902億歐元以西班牙汽車貸款為支援的證券化產品。"
+    },
     {
       "id": "5076076",
       "time": "2026-09-04 03:00:03",
