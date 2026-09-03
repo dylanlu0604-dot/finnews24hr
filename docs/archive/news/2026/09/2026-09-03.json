@@ -1,7 +1,55 @@
 {
   "date": "2026-09-03",
-  "count": 639,
+  "count": 646,
   "items": [
+    {
+      "id": "te:economy:580621",
+      "time": "2026-09-03 08:36:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Activity Contracts in August — The S&P Global Hong Kong SAR PMI fell to 49.5 in August 2026 from 51.0 in July, signaling a renewed deterioration in private sector business conditions after three consecutive months of expansion. Output and new orders both contracted for the first time since April, as higher prices and weaker domestic and global demand weighed on activity and sales. New export business also declined marginally, although demand from Mainland China edged higher. Meanwhile, input cost inflation accelerated to a three-month high, driven by higher raw material and staff costs, prompting firms to raise selling prices at the fastest pace since April 2023. Employment declined for a fifth consecutive month as weaker demand and spare capacity discouraged hiring. Looking ahead, business confidence weakened further, with firms increasingly pessimistic about the year-ahead outlook amid concerns over the domestic economy, US tariffs and geopolitical uncertainty."
+    },
+    {
+      "id": "5074178",
+      "time": "2026-09-03 08:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行就代幣化生態系統開展的公眾諮詢將於10月30日截止。"
+    },
+    {
+      "id": "5074177",
+      "time": "2026-09-03 08:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "智中國際控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "5074176",
+      "time": "2026-09-03 08:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證券日報：業內預計中國8月份新增信貸、社融或同比少增】記者採訪多位業內專家，對當月新增信貸及社融資料等進行前瞻分析。綜合來看，業界普遍判斷：2026年8月份新增信貸、社融規模較2025年同期或少增。資料顯示，2025年8月份新增信貸規模為5900億元，社融增量為2.57萬億元。 從新增信貸來看，東方金誠首席宏觀分析師王青認為，受季節性因素等影響，8月份新增信貸有望達到4800億元左右。不過，在當前貸款“降速提質”的大背景下，當月新增信貸將出現約1100億元的同比少增。另外，當前債市收益率下行，企業債券融資對銀行貸款形成替代，再加上近期企業中長期貸款到期規模明顯上升，這也是8月份新增人民幣貸款延續同比少增的一個原因。 從社融增量來看，華源證券固收首席分析師廖志明預計，8月份社融增量2.23萬億元，同比少增；8月末社融增速為7.3%，環比回落0.1個百分點。"
+    },
+    {
+      "id": "te:markets:580620",
+      "time": "2026-09-03 08:32:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi UFJ Financial Stock Price Hits 5-week High — Mitsubishi UFJ Financial shares increased to 3743.00 JPY, the highest since July 2026. Over the past 4 weeks, Mitsubishi UFJ Financial gained 7.61%, and in the last 12 months, it increased 66.14%."
+    },
     {
       "id": "5074175",
       "time": "2026-09-03 08:32:41",
@@ -27,6 +75,24 @@
         "國際"
       ],
       "text": "越南8月標普全球越南製造業PMI 53.3，前值52.9。\n日本8月服務業PMI終值 52.5，前值52.3。日本8月綜合PMI終值 53.5，前值53.4。\n中國香港8月標普全球製造業PMI 49.5，前值51。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609033863421173",
+      "time": "2026-09-03 08:30:40",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月綜合PMI終值53.5，前值53.4。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609033863421288",
+      "time": "2026-09-03 08:30:19",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月服務業PMI終值52.5，前值52.3。"
     },
     {
       "id": "mkt:01a064ac-5c3a-7118-8470-8647ca2c99db",
