@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-04 03:09:21",
-  "count": 13054,
+  "updated": "2026-09-04 03:13:19",
+  "count": 13057,
   "items": [
+    {
+      "id": "mkt:01a068af-8dcf-7118-848f-e4553eac75d3",
+      "time": "2026-09-04 03:12:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Court filings show BASF has sued Apple (AAPL.O), alleging infringement of patents related to facial-recognition technology."
+    },
+    {
+      "id": "5076092",
+      "time": "2026-09-04 03:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾勞工方：不會接受單方面將負擔轉嫁至員工身上。"
+    },
+    {
+      "id": "5076091",
+      "time": "2026-09-04 03:11:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾勞工方：大眾乘用車及零部件業務分拆方案已不予考慮。"
+    },
+    {
+      "id": "5076088",
+      "time": "2026-09-04 03:09:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7178元，較週三夜盤收盤漲15點。成交量238.23億美元。"
+    },
     {
       "id": "5076087",
       "time": "2026-09-04 03:07:36",
@@ -119912,18 +119950,6 @@
         "國際"
       ],
       "text": "美國食品藥品監督管理局（FDA）：FDA批准首款用於治療成人皮肌炎的口服藥物。"
-    },
-    {
-      "id": "te:markets:578797",
-      "time": "2026-08-28 03:11:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Gains as BCB Signals Intervention — The Brazilian real strengthened slightly to 5.16 per USD after reaching a more than one-month low of 5.21 on August 14th, amid expectations of new foreign-exchange operations by the BCB. The central bank is expected to intervene to increase dollar supply and ensure market liquidity, supporting the real and influencing exchange-rate formation. Meanwhile, labor market data confirmed expectations for another decline in Brazil’s unemployment rate, from 5.4% to 5.3%. The labor market remains highly resilient, with employment and formal employment reaching record highs, which could lead the Copom to pause its 25-basis-point-per-meeting easing cycle. However, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band."
     }
   ]
 }

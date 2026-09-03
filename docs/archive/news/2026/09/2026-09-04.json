@@ -1,7 +1,45 @@
 {
   "date": "2026-09-04",
-  "count": 194,
+  "count": 198,
   "items": [
+    {
+      "id": "mkt:01a068af-8dcf-7118-848f-e4553eac75d3",
+      "time": "2026-09-04 03:12:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Court filings show BASF has sued Apple (AAPL.O), alleging infringement of patents related to facial-recognition technology."
+    },
+    {
+      "id": "5076092",
+      "time": "2026-09-04 03:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾勞工方：不會接受單方面將負擔轉嫁至員工身上。"
+    },
+    {
+      "id": "5076091",
+      "time": "2026-09-04 03:11:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾勞工方：大眾乘用車及零部件業務分拆方案已不予考慮。"
+    },
+    {
+      "id": "5076088",
+      "time": "2026-09-04 03:09:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7178元，較週三夜盤收盤漲15點。成交量238.23億美元。"
+    },
     {
       "id": "5076087",
       "time": "2026-09-04 03:07:36",
