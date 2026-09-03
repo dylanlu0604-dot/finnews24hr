@@ -1,7 +1,68 @@
 {
-  "updated": "2026-09-04 02:49:21",
-  "count": 13032,
+  "updated": "2026-09-04 02:53:16",
+  "count": 13038,
   "items": [
+    {
+      "id": "5076065",
+      "time": "2026-09-04 02:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：這對應約 310 億歐元的營業利潤，2027‑2031 規劃期內投資規模為 1350 億歐元。"
+    },
+    {
+      "id": "mkt:01a0689b-c7d5-7118-848f-bef2c82d24fd",
+      "time": "2026-09-04 02:50:34",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bullish"
+      ],
+      "text": "Volkswagen targets a 9% return on sales (operating margin) by 2030."
+    },
+    {
+      "id": "5076064",
+      "time": "2026-09-04 02:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：核心財務目標是到 2030 年實現 9% 的銷售營業回報率。"
+    },
+    {
+      "id": "mkt:01a0689b-5a12-7118-848f-b619d4893103",
+      "time": "2026-09-04 02:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2026 FOMC voting member and Cleveland Fed President Hamak will deliver opening remarks in 10 minutes at the \"Fed Community\" event."
+    },
+    {
+      "id": "mkt:01a0689b-1b39-7118-848f-aa4614cc3aff",
+      "time": "2026-09-04 02:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's State Organization for Marketing of Oil (SOMO) says Iraq has lost nearly $80 billion since the Iran–Iraq war."
+    },
+    {
+      "id": "5076062",
+      "time": "2026-09-04 02:49:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車：監事會要求集團管理委員會制定一套方案，搭建大眾汽車集團的先進決策機制與集團架構。"
+    },
+    {
+      "id": "mkt:01a0689a-98f6-7118-848f-a0b9473cbaf2",
+      "time": "2026-09-04 02:49:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Volkswagen: Supervisory Board asked the Group Executive Board to develop an advanced decision‑making model and group structure for the Volkswagen Group."
+    },
     {
       "id": "mkt:01a0689a-29d6-7118-848f-9a64f562b738",
       "time": "2026-09-04 02:48:48",
@@ -119735,18 +119796,6 @@
         "Importance 1"
       ],
       "text": "Brazil 10-Year Yield Rises After Treasury Auction — Brazil’s 10-year government bond yield edged higher to 14.60% from a three-week low of 14.57% reached on August 25th, pressured by the National Treasury’s auction of fixed-rate securities. The auction was the main factor driving rates higher and steepening the yield curve, marking the second-largest of the year by financial volume. A total of 31 million securities were offered on August 27th, with a financial volume of more than $24 billion.Meanwhile, labor market data confirmed expectations for another decline in Brazil’s unemployment rate, from 5.4% to 5.3%. The labor market remains highly resilient, with employment and formal employment reaching record highs, which could lead the Copom to pause its 25-basis-point-per-meeting easing cycle. However, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band."
-    },
-    {
-      "id": "te:markets:578795",
-      "time": "2026-08-28 02:53:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "McDonalds Stock Price Hits 24-month Low — McDonalds shares decreased to 260.63 USD, the lowest since July 2024. Over the past 4 weeks, McDonalds lost 4.52%, and in the last 12 months, it decreased 16.51%."
     }
   ]
 }
