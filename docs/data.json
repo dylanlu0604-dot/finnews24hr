@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-04 05:58:41",
-  "count": 13001,
+  "updated": "2026-09-04 06:02:46",
+  "count": 12999,
   "items": [
+    {
+      "id": "5076301",
+      "time": "2026-09-04 06:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲0.45%。"
+    },
+    {
+      "id": "mkt:01a06947-fdcc-7118-8491-338eacefeed0",
+      "time": "2026-09-04 05:58:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "TM.O"
+      ],
+      "text": "【Toyota considers hydrogen to fuel parts-hauling trucks】Toyota Motor Corp is considering using hydrogen to power trucks that transport auto parts as gasoline price rises and supply tightness from the Iran war make alternative fuels more attractive. Using hydrogen within suppliers’ logistics networks is also being explored. The move is part of Toyota’s commitment as a member of the Japan Hydrogen Association (JH2A) to deploy hydrogen for 1% of all logistics, fuel and raw‑material transport. As of last month 67 companies and institutions had joined the initiative, including banks, trading companies, insurers and local governments."
+    },
+    {
+      "id": "5076300",
+      "time": "2026-09-04 05:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西參議院議長稱工時法案將在大選結束後表決。"
+    },
     {
       "id": "5076299",
       "time": "2026-09-04 05:55:22",
@@ -119441,50 +119471,6 @@
         "國際"
       ],
       "text": "美國法官未就安德魯·泰特和特里斯坦·泰特的保釋申請作出即時裁決；二人目前仍被羈押。"
-    },
-    {
-      "id": "5063466",
-      "time": "2026-08-28 06:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五亞太早盤，道瓊斯指數期貨跌0.03%，標普500指數期貨跌0.12%，納斯達克100指數期貨跌0.21%。"
-    },
-    {
-      "id": "5063465",
-      "time": "2026-08-28 06:00:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4660美元/盎司，日內跌0.08%。"
-    },
-    {
-      "id": "5063464",
-      "time": "2026-08-28 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1369.50美元/盎司。"
-    },
-    {
-      "id": "5063463",
-      "time": "2026-08-28 05:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會就賬號封禁問題對YouTube展開調查。"
-    },
-    {
-      "id": "mkt:01a0453c-1742-7aab-915b-ae8736cf2ec4",
-      "time": "2026-08-28 05:59:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【Sources: Anthropic explored roughly $7 billion acquisition of MatX】Sources said Anthropic discussed buying AI-chip startup MatX for about $7 billion to accelerate custom-hardware development for its rapidly growing AI business. Talks later shifted toward a partnership, the sources added. One source said MatX is seeking a new funding round valuing the company near $4 billion. Discussions indicate Anthropic may target chips for model training, while other chip startups and rival OpenAI are developing processors optimized for inference; sources said Anthropic could also opt to build inference chips."
     }
   ]
 }

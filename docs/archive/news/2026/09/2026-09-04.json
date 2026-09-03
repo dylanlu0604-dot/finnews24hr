@@ -1,7 +1,37 @@
 {
   "date": "2026-09-04",
-  "count": 395,
+  "count": 398,
   "items": [
+    {
+      "id": "5076301",
+      "time": "2026-09-04 06:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲0.45%。"
+    },
+    {
+      "id": "mkt:01a06947-fdcc-7118-8491-338eacefeed0",
+      "time": "2026-09-04 05:58:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "TM.O"
+      ],
+      "text": "【Toyota considers hydrogen to fuel parts-hauling trucks】Toyota Motor Corp is considering using hydrogen to power trucks that transport auto parts as gasoline price rises and supply tightness from the Iran war make alternative fuels more attractive. Using hydrogen within suppliers’ logistics networks is also being explored. The move is part of Toyota’s commitment as a member of the Japan Hydrogen Association (JH2A) to deploy hydrogen for 1% of all logistics, fuel and raw‑material transport. As of last month 67 companies and institutions had joined the initiative, including banks, trading companies, insurers and local governments."
+    },
+    {
+      "id": "5076300",
+      "time": "2026-09-04 05:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西參議院議長稱工時法案將在大選結束後表決。"
+    },
     {
       "id": "5076299",
       "time": "2026-09-04 05:55:22",
