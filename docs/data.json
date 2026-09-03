@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-03 09:55:06",
-  "count": 12082,
+  "updated": "2026-09-03 09:59:06",
+  "count": 12073,
   "items": [
+    {
+      "id": "5074311",
+      "time": "2026-09-03 09:57:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5個基點至2.960%。"
+    },
+    {
+      "id": "mkt:01a064fb-c773-7118-8472-addeb48514e1",
+      "time": "2026-09-03 09:56:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield fell 5 bps to 2.960%."
+    },
+    {
+      "id": "mkt:01a064fb-8e59-7118-8472-a13283ef8248",
+      "time": "2026-09-03 09:56:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to park spare cash? Retail money-market yield snapshot】Tencent's Licaitong (current and 7-day annualized yields) ranged 0.7020%–1.1420%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.8690%–1.1420%. Alipay's Yu'e Bao 7-day annualized yield ranged 0.8630%–1.0680%."
+    },
+    {
+      "id": "mkt:01a064fb-5c4d-7118-8472-9d1b96e02e4e",
+      "time": "2026-09-03 09:56:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "A-share brokerage stocks jumped intraday; Guosheng Securities hit the daily limit, Changjiang Securities rose more than 6%, and Shouchuang Securities, GF Securities and Huaan Securities also advanced. Shanghai Stock Exchange data show August 2026 new A‑share accounts at 2.3973 million, down 10.0% YoY (Aug 2025: 2.6503 million); cumulative new accounts Jan–Aug 2026 reached 25.214 million, up 46.0% YoY."
+    },
+    {
+      "id": "5074310",
+      "time": "2026-09-03 09:56:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊短線拉昇 國盛證券漲停】證券板塊短線拉昇，國盛證券漲停，長江證券、錦龍股份、首創證券、財通證券、廣發證券等紛紛走高。"
+    },
     {
       "id": "mkt:01a064f9-394d-7118-8472-91eaea8b33e3",
       "time": "2026-09-03 09:54:09",
@@ -111031,147 +111083,6 @@
         "其他"
       ],
       "text": "穆迪將閃迪的企業家族評級和高階擔保評級上調至Ba1；展望穩定。"
-    },
-    {
-      "id": "mkt:01a040f0-f5df-7aab-913e-97e4b58fb9bb",
-      "time": "2026-08-27 09:58:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose 1%, breaking above $4,640/oz."
-    },
-    {
-      "id": "5061264",
-      "time": "2026-08-27 09:58:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念震盪拉昇 宏昌電子漲停】PCB概念震盪拉昇，宏昌電子漲停，瑞豐高材、迅捷興、景旺電子、金祿電子、金安國紀跟漲。"
-    },
-    {
-      "id": "5061263",
-      "time": "2026-08-27 09:58:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迦納總統調整內閣人員】迦納總統府26日釋出宣告說，迦納總統馬哈馬日前對內閣進行人員調整。宣告說，勞動與就業部長阿卜杜勒-拉希德·哈桑·佩爾普調任主管特別倡議的國務部長，曾任該職務的伊曼紐爾·誇杜沃·阿吉耶庫姆則任勞動與就業部長。此次是馬哈馬在月內進行的第二次內閣人員變動。8月7日，馬哈馬任命兩名部長以填補去年直升機墜毀事故中遇難的內閣成員空缺。（新華社）"
-    },
-    {
-      "id": "5061262",
-      "time": "2026-08-27 09:57:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報5089.00元。"
-    },
-    {
-      "id": "mkt:01a040ef-8d48-7aab-913e-8f1b789efbbe",
-      "time": "2026-08-27 09:57:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 futures rose about 0.47%; Nasdaq futures gained about 0.9%."
-    },
-    {
-      "id": "mkt:01a040ef-1be3-7aab-913e-8152f06a3c56",
-      "time": "2026-08-27 09:56:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share optical-communications stocks rallied: Changyingtong and Changxin Bochuang surged over 10%, while Changfei Guangxian and Hangdian Co hit the daily limit-up."
-    },
-    {
-      "id": "5061261",
-      "time": "2026-08-27 09:56:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金上漲1%，報每盎司4,635.57美元。"
-    },
-    {
-      "id": "5061260",
-      "time": "2026-08-27 09:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "冰見野良三：中東衝突不太可能導致日本經濟大幅下滑。"
-    },
-    {
-      "id": "5061259",
-      "time": "2026-08-27 09:56:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美媒：美國柴油庫存降至歷史同期最低水平】據美國媒體26日報道，美國柴油庫存已降至歷史同期最低水平。隨著農業用油和冬季取暖需求增加，已逼近歷史最高紀錄的柴油價格可能進一步上漲。美國能源資訊局當天公佈的資料顯示，截至8月21日當週，美國餾分燃料油（其中最主要的成分是柴油）庫存為1.03億桶，較前一週減少220萬桶，比過去5年同期平均水平低約14%。彭博社根據可追溯至20世紀80年代初的相關資料分析說，當前庫存為歷史同期最低水平。（新華社）"
-    },
-    {
-      "id": "mkt:01a040ee-7b0c-7aab-913e-7c3f76b19344",
-      "time": "2026-08-27 09:56:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "HIMINO, deputy governor of the Bank of Japan, said the Middle East conflict is unlikely to cause a significant slowdown in the Japanese economy."
-    },
-    {
-      "id": "em:qqyh_rbyh:202608273855926579",
-      "time": "2026-08-27 09:56:02",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行副行長冰見野良三：日本央行應繼續加息】據報道，日本央行副行長冰見野良三表示，日本央行應繼續加息，並需要比以往任何時候都更關注物價上行風險；日元貶值推動了通脹，同時人工智慧驅動的需求也在推動；如果基礎通脹上升至超過2%的價格穩定目標，將對經濟產生不利影響。"
-    },
-    {
-      "id": "5061258",
-      "time": "2026-08-27 09:55:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問辦公首發上線Qwen3.8-Flash，生成速度提升100%，Token消耗減少75%】8月26日晚，千問辦公首發上線剛剛釋出的Qwen3.8-Flash模型，同時推出標準模式。即日起，所有使用者可透過全新的標準模式體驗Qwen3.8-Flash。基於最新的模型，使用者可以用更少的積分消耗、更快的Token吞吐速度完成任務。未來，千問辦公的模型供給將只有標準和高階兩種模式，95%的日常任務透過千問辦公標準模式即可完成，僅5%的複雜任務需要使用高階模式。"
-    },
-    {
-      "id": "mkt:01a040ed-eb1a-7aab-913e-75283783cfd1",
-      "time": "2026-08-27 09:55:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share 6G concept stocks rallied. Wote Co. hit the daily limit; Angruiwei climbed over 16%. Saiwei Electronics, Hengtong Optic‑Electric, FiberHome, Zhongtian Technology and Ruikeda were among the top gainers."
-    },
-    {
-      "id": "5061257",
-      "time": "2026-08-27 09:55:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4690美元/盎司，日內漲0.80%。"
     }
   ]
 }

@@ -1,7 +1,59 @@
 {
   "date": "2026-09-03",
-  "count": 858,
+  "count": 863,
   "items": [
+    {
+      "id": "5074311",
+      "time": "2026-09-03 09:57:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5個基點至2.960%。"
+    },
+    {
+      "id": "mkt:01a064fb-c773-7118-8472-addeb48514e1",
+      "time": "2026-09-03 09:56:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield fell 5 bps to 2.960%."
+    },
+    {
+      "id": "mkt:01a064fb-8e59-7118-8472-a13283ef8248",
+      "time": "2026-09-03 09:56:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to park spare cash? Retail money-market yield snapshot】Tencent's Licaitong (current and 7-day annualized yields) ranged 0.7020%–1.1420%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.8690%–1.1420%. Alipay's Yu'e Bao 7-day annualized yield ranged 0.8630%–1.0680%."
+    },
+    {
+      "id": "mkt:01a064fb-5c4d-7118-8472-9d1b96e02e4e",
+      "time": "2026-09-03 09:56:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "A-share brokerage stocks jumped intraday; Guosheng Securities hit the daily limit, Changjiang Securities rose more than 6%, and Shouchuang Securities, GF Securities and Huaan Securities also advanced. Shanghai Stock Exchange data show August 2026 new A‑share accounts at 2.3973 million, down 10.0% YoY (Aug 2025: 2.6503 million); cumulative new accounts Jan–Aug 2026 reached 25.214 million, up 46.0% YoY."
+    },
+    {
+      "id": "5074310",
+      "time": "2026-09-03 09:56:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊短線拉昇 國盛證券漲停】證券板塊短線拉昇，國盛證券漲停，長江證券、錦龍股份、首創證券、財通證券、廣發證券等紛紛走高。"
+    },
     {
       "id": "mkt:01a064f9-394d-7118-8472-91eaea8b33e3",
       "time": "2026-09-03 09:54:09",
