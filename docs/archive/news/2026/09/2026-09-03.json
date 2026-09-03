@@ -1,7 +1,135 @@
 {
   "date": "2026-09-03",
-  "count": 2083,
+  "count": 2096,
   "items": [
+    {
+      "id": "5075552",
+      "time": "2026-09-03 20:15:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆口岸核心區域臨時供電線路已搶通】記者今天從國家電網瞭解到，經過電力工人晝夜奮戰，9月3日晚，西藏日喀則市吉隆口岸核心區域的臨時供電線路已全部搶通，全力保障核心區域搶險救援用電需求。（央視新聞）"
+    },
+    {
+      "id": "5075551",
+      "time": "2026-09-03 20:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：印度地區WhatsApp賬單支付功能將在未來數週內上線。"
+    },
+    {
+      "id": "5075550",
+      "time": "2026-09-03 20:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：WhatsApp 賬單支付功能將面向印度安卓、iOS 使用者推送。"
+    },
+    {
+      "id": "mkt:01a06731-bea1-7118-8483-70677ffd164c",
+      "time": "2026-09-03 20:15:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 4.71% to 3,488."
+    },
+    {
+      "id": "mkt:01a06731-525c-7118-8483-6cd8a1a7ace6",
+      "time": "2026-09-03 20:14:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) launched WhatsApp bill payments in India, integrating 22,722 billers."
+    },
+    {
+      "id": "mkt:01a06731-0672-7118-8483-6288b3ef6c6d",
+      "time": "2026-09-03 20:14:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed 1.43% intraday to touch $4,450/oz."
+    },
+    {
+      "id": "5075549",
+      "time": "2026-09-03 20:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：將在印度推出賬單支付功能。"
+    },
+    {
+      "id": "5075548",
+      "time": "2026-09-03 20:13:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "黑石私人信貸基金：據其提交給美國證券交易委員會的檔案顯示，該基金維持超過170億美元可用流動性，由現金及未動用借款額度構成。"
+    },
+    {
+      "id": "mkt:01a06730-7976-7118-8483-5a6684fc941d",
+      "time": "2026-09-03 20:13:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA to buy Hugging Face for $12.93 billion】NVIDIA (NVDA.O) said CEO Jensen Huang announced the company agreed to acquire Hugging Face for $12.93 billion. The firms said they will scale the Hugging Face platform and strengthen its infrastructure while keeping it an open platform for the broader AI ecosystem; developers may choose models, frameworks, cloud and inference providers and compute platforms, and using Hugging Face will not require NVIDIA compute. NVIDIA also disclosed an employee equity retention program for Hugging Face staff of up to $1 billion. The deal is expected to close in 1H 2027, subject to regulatory approvals."
+    },
+    {
+      "id": "5075547",
+      "time": "2026-09-03 20:13:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Nodal Exchange擬推出AI晶片算力期貨】Nodal Exchange控股有限責任公司正尋求推出人工智慧晶片算力期貨合約，多家機構也正爭相佈局同類產品。這家在北美數百個地點提供電力期貨與期權產品的交易所，計劃於今年年底前推出掛鉤英偉達半導體租賃價格的合約。該合約將依據資料服務商Compute Desk編制的指數進行結算，指數彙總英偉達Blackwell與Hopper圖形處理器的現貨租賃價格。各家交易所希望滿足企業日益增長的對沖需求，幫助企業對沖搭建、執行 AI 模型所需算力成本的波動風險，尚處於起步階段的AI晶片期貨交易賽道競爭正日趨激烈。"
+    },
+    {
+      "id": "mkt:01a06730-66d9-7118-8483-54656df7a702",
+      "time": "2026-09-03 20:13:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi Arabian TV, citing Yemeni military sources, reported government forces launched a counterattack on Houthi positions in Taiz province’s Kaddah and Mukabina areas."
+    },
+    {
+      "id": "5075546",
+      "time": "2026-09-03 20:13:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲頂新耀：艾曲帕米鼻噴霧劑獲批】雲頂新耀公告，中國國家藥品監督管理局已批准星必妥 （艾曲帕米鼻噴霧劑）的新藥上市許可申請，用於治療成人陣發性室上性心動過速急性症狀發作，轉復為竇性心律。關鍵III期RAPID研究顯示，給藥30分鐘內轉復率為64%，安慰劑組為31%。"
+    },
+    {
+      "id": "mkt:01a0672f-c03d-7118-8483-49cf55cfb47d",
+      "time": "2026-09-03 20:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senegal's finance ministry said it will continue to meet scheduled servicing obligations on its euro-denominated debt."
+    },
     {
       "id": "5075545",
       "time": "2026-09-03 20:12:18",

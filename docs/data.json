@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-03 20:13:02",
-  "count": 12769,
+  "updated": "2026-09-03 20:16:49",
+  "count": 12765,
   "items": [
+    {
+      "id": "5075552",
+      "time": "2026-09-03 20:15:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆口岸核心區域臨時供電線路已搶通】記者今天從國家電網瞭解到，經過電力工人晝夜奮戰，9月3日晚，西藏日喀則市吉隆口岸核心區域的臨時供電線路已全部搶通，全力保障核心區域搶險救援用電需求。（央視新聞）"
+    },
+    {
+      "id": "5075551",
+      "time": "2026-09-03 20:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：印度地區WhatsApp賬單支付功能將在未來數週內上線。"
+    },
+    {
+      "id": "5075550",
+      "time": "2026-09-03 20:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：WhatsApp 賬單支付功能將面向印度安卓、iOS 使用者推送。"
+    },
+    {
+      "id": "mkt:01a06731-bea1-7118-8483-70677ffd164c",
+      "time": "2026-09-03 20:15:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 4.71% to 3,488."
+    },
+    {
+      "id": "mkt:01a06731-525c-7118-8483-6cd8a1a7ace6",
+      "time": "2026-09-03 20:14:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) launched WhatsApp bill payments in India, integrating 22,722 billers."
+    },
+    {
+      "id": "mkt:01a06731-0672-7118-8483-6288b3ef6c6d",
+      "time": "2026-09-03 20:14:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed 1.43% intraday to touch $4,450/oz."
+    },
+    {
+      "id": "5075549",
+      "time": "2026-09-03 20:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：將在印度推出賬單支付功能。"
+    },
+    {
+      "id": "5075548",
+      "time": "2026-09-03 20:13:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "黑石私人信貸基金：據其提交給美國證券交易委員會的檔案顯示，該基金維持超過170億美元可用流動性，由現金及未動用借款額度構成。"
+    },
+    {
+      "id": "mkt:01a06730-7976-7118-8483-5a6684fc941d",
+      "time": "2026-09-03 20:13:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA to buy Hugging Face for $12.93 billion】NVIDIA (NVDA.O) said CEO Jensen Huang announced the company agreed to acquire Hugging Face for $12.93 billion. The firms said they will scale the Hugging Face platform and strengthen its infrastructure while keeping it an open platform for the broader AI ecosystem; developers may choose models, frameworks, cloud and inference providers and compute platforms, and using Hugging Face will not require NVIDIA compute. NVIDIA also disclosed an employee equity retention program for Hugging Face staff of up to $1 billion. The deal is expected to close in 1H 2027, subject to regulatory approvals."
+    },
+    {
+      "id": "5075547",
+      "time": "2026-09-03 20:13:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Nodal Exchange擬推出AI晶片算力期貨】Nodal Exchange控股有限責任公司正尋求推出人工智慧晶片算力期貨合約，多家機構也正爭相佈局同類產品。這家在北美數百個地點提供電力期貨與期權產品的交易所，計劃於今年年底前推出掛鉤英偉達半導體租賃價格的合約。該合約將依據資料服務商Compute Desk編制的指數進行結算，指數彙總英偉達Blackwell與Hopper圖形處理器的現貨租賃價格。各家交易所希望滿足企業日益增長的對沖需求，幫助企業對沖搭建、執行 AI 模型所需算力成本的波動風險，尚處於起步階段的AI晶片期貨交易賽道競爭正日趨激烈。"
+    },
+    {
+      "id": "mkt:01a06730-66d9-7118-8483-54656df7a702",
+      "time": "2026-09-03 20:13:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi Arabian TV, citing Yemeni military sources, reported government forces launched a counterattack on Houthi positions in Taiz province’s Kaddah and Mukabina areas."
+    },
+    {
+      "id": "5075546",
+      "time": "2026-09-03 20:13:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲頂新耀：艾曲帕米鼻噴霧劑獲批】雲頂新耀公告，中國國家藥品監督管理局已批准星必妥 （艾曲帕米鼻噴霧劑）的新藥上市許可申請，用於治療成人陣發性室上性心動過速急性症狀發作，轉復為竇性心律。關鍵III期RAPID研究顯示，給藥30分鐘內轉復率為64%，安慰劑組為31%。"
+    },
+    {
+      "id": "mkt:01a0672f-c03d-7118-8483-49cf55cfb47d",
+      "time": "2026-09-03 20:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senegal's finance ministry said it will continue to meet scheduled servicing obligations on its euro-denominated debt."
+    },
     {
       "id": "5075545",
       "time": "2026-09-03 20:12:18",
@@ -117162,146 +117290,6 @@
         "其他"
       ],
       "text": "【騰訊自走棋遊戲《王者永珍棋》官宣9月10日上線】8月27日，騰訊《王者榮耀》IP自走棋遊戲《王者永珍棋》官宣正式定檔2026年9月10日，全平臺預約人數已超7000萬。"
-    },
-    {
-      "id": "5062750",
-      "time": "2026-08-27 20:16:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶澳科技：2026年上半年虧損26.63億元】晶澳科技公告，2026年上半年營業收入174.98億元，同比下降26.80%；歸屬於上市公司股東的淨利潤虧損26.63億元，2025年上半年虧損25.8億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損30.22億元，2025年上半年虧損22.87億元。公司稱，受光伏主產業鏈供需失衡、行業競爭加劇、出口退稅政策取消及國際貿易摩擦等影響，元件業務仍處於虧損狀態。"
-    },
-    {
-      "id": "5062749",
-      "time": "2026-08-27 20:16:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德明利：聘任範雲松為公司副總經理】德明利公告稱，公司第三屆董事會第四次會議審議透過議案，聘任範雲松擔任公司副總經理，任期三年，自董事會審議透過之日起至第三屆董事會董事任期屆滿之日止。範雲松現任公司研發中心總經理兼CTO，截至目前持有公司股票2320股，與公司控股股東、實際控制人及其他持股5%以上股東、其他董監高不存在關聯關係，任職資格符合相關規定。"
-    },
-    {
-      "id": "5062748",
-      "time": "2026-08-27 20:15:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【清研環境：2026年上半年淨利潤虧損1754.76萬元】清研環境公告，2026年上半年營業收入7628.1萬元，同比增長199.79%；歸屬於上市公司股東的淨利潤虧損1754.76萬元，2025年同期虧損288.28萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1871.67萬元，2025年同期虧損522.57萬元。公司計劃不派發現金紅利、不送紅股、不以公積金轉增股本。"
-    },
-    {
-      "id": "5062747",
-      "time": "2026-08-27 20:15:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部部長助理兼禮賓司司長洪磊分別接受冰島、盧安達新任駐華大使遞交國書副本】據外交部官網，2026年8月27日，外交部部長助理兼禮賓司司長洪磊接受冰島新任駐華大使白迪絲、盧安達新任駐華大使卡倫齊遞交國書副本。白迪絲大使、卡倫齊大使分別於8月24日、8月26日抵華。"
-    },
-    {
-      "id": "mkt:01a04325-987f-7aab-9151-732187713429",
-      "time": "2026-08-27 20:15:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign minister reiterated a firm stance on the Palestinian issue and condemned Israel's announcement to establish new settlements."
-    },
-    {
-      "id": "5062746",
-      "time": "2026-08-27 20:15:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "MDA Space 成立 MDA Space Launchpad Ventures，旨在投資加拿大航天與國防企業。"
-    },
-    {
-      "id": "mkt:01a04325-1070-7aab-9151-6c4b86a17f43",
-      "time": "2026-08-27 20:14:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Al Arabiya TV, the Saudi foreign minister said strengthening Islamic cooperation and unity is an urgent priority and that no country can address complex challenges alone."
-    },
-    {
-      "id": "5062745",
-      "time": "2026-08-27 20:14:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科華資料：擬調整智慧製造基地募投專案結構】科華資料公告稱，公司第十屆董事會第四次會議審議透過議案，擬對募投專案“智慧製造基地建設專案(一期)”的產品結構及內部投資結構進行調整，在保持專案實施主體、投資總額及募集資金投向不變的前提下，新增“液冷CDU及配套產品”品類，各投資科目金額不變，僅調整尚未支出部分的機器裝置清單等。該事項不構成關聯交易及重大資產重組，尚需提交公司股東會審議。截至2026年6月30日，該專案擬投入募集資金7.36億元，累計已使用1.77億元，使用進度24.04%。本次調整旨在匹配智算中心業務發展戰略，提升募集資金使用效益。"
-    },
-    {
-      "id": "5062744",
-      "time": "2026-08-27 20:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科華資料：2026年上半年淨利潤3.96億元，同比增長62.69%】科華資料公告，2026年上半年營業收入38.84億元，同比增長4.05%；歸屬於上市公司股東的淨利潤3.96億元，同比增長62.69%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.42億元，同比增長8.37%。"
-    },
-    {
-      "id": "5062743",
-      "time": "2026-08-27 20:14:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朗瑪資訊：2026年上半年營收同比降18.20% 淨虧損498.88萬元】朗瑪資訊公告稱，2026年上半年實現營業收入1.24億元，同比下降18.20%；歸屬於上市公司股東的淨虧損498.88萬元，同比下降134.56%；扣除非經常性損益後的淨虧損553.64萬元，同比下降139.94%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。2026年3月16日公司完成第六屆董事會換屆選舉並聘任相關高階管理人員。"
-    },
-    {
-      "id": "5062742",
-      "time": "2026-08-27 20:14:40",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【德明利：2026年上半年淨利潤60.17億元】德明利公告，2026年上半年營業收入169.11億元，同比增長311.55%；歸屬於上市公司股東的淨利潤60.17億元，2025年上半年虧損1.18億元，同比扭虧為盈；扣非淨利潤59.66億元，2025年上半年虧損1.22億元，同比扭虧為盈。公司擬以2.27億為基數，每10股派發現金紅利15元（含稅），每10股轉增4股。"
-    },
-    {
-      "id": "5062741",
-      "time": "2026-08-27 20:14:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心：特朗普政府宣佈撥款9330萬美元，用於在佐治亞州擴充套件遠端醫療服務、推進手術機器人技術及改善農村醫療可及性。"
-    },
-    {
-      "id": "5062740",
-      "time": "2026-08-27 20:13:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃森生物：2026年度向特定物件發行股票獲深交所受理】沃森生物公告，公司此前披露擬進行2026年度向特定物件發行股票，2026年8月27日收到深圳證券交易所出具的通知，申請檔案齊備並獲受理；本次發行尚需透過深交所稽核，並獲得中國證監會同意註冊的批覆後方可實施。"
-    },
-    {
-      "id": "mkt:01a04324-05c2-7aab-9151-648e80506edb",
-      "time": "2026-08-27 20:13:49",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【ECB ACCOUNTS: officials discussed 'mildly restrictive' policy】ECB minutes show officials debated whether a 'mildly restrictive' stance is needed to secure disinflation to the 2% target. The minutes say some members would have supported a rate hike last month, but high uncertainty over the persistence of inflation led all to back holding policy rates unchanged. Euro-area inflation is around 3%, above the ECB's 2% target, while growth has been stronger than expected."
-    },
-    {
-      "id": "5062738",
-      "time": "2026-08-27 20:13:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠康科技：2026年上半年淨利潤1.83億元，同比下降11.12%】惠康科技公告，2026年上半年營業收入15.35億元，同比增長10.54%；歸屬於上市公司股東的淨利潤1.83億元，同比下降11.12%，2025年同期為2.05億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.73億元，同比下降10.49%，2025年同期為1.94億元。公司擬每10股派發現金紅利5元（含稅），送紅股0股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5062737",
-      "time": "2026-08-27 20:13:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲的古爾斯比：對央行的政治干預通常會導致通脹。"
-    },
-    {
-      "id": "5062736",
-      "time": "2026-08-27 20:13:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【現代投資：2026年上半年營收38.10億元 淨利同比降23.56%】現代投資公告稱，2026年上半年實現營業收入38.10億元，同比增長30.76%；歸屬於上市公司股東的淨利潤2.34億元，同比下降23.56%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.64億元，同比下降11.77%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。報告期內公司因同一控制下企業合併對上年同期財務資料進行了追溯調整。"
     }
   ]
 }
