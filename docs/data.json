@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-03 23:48:56",
-  "count": 12857,
+  "updated": "2026-09-03 23:52:54",
+  "count": 12868,
   "items": [
+    {
+      "id": "5075956",
+      "time": "2026-09-03 23:52:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2500美元，日內漲4.67%。"
+    },
+    {
+      "id": "5075955",
+      "time": "2026-09-03 23:52:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破81000美元，日內漲4.89%。"
+    },
+    {
+      "id": "5075954",
+      "time": "2026-09-03 23:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：我們對以色列和黎巴嫩政府透過這些初步舉措展現出誠意表示讚賞，希望這能成為擴大其他民生議題磋商的基礎。我們持續每日推動以黎雙方開展對話，並期待在羅馬舉行下一輪會談。"
+    },
+    {
+      "id": "5075953",
+      "time": "2026-09-03 23:51:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遭遇約16%贖回申請 Cliffwater私募信貸基金再次設限】Cliffwater LLC的旗艦私募信貸基金在第三季度再次將贖回上限設定為5%，此前約16%份額的遭投資者申請贖回。信函顯示，規模310億美元的Cliffwater Corporate Lending Fund在週四告知股東，他們只能兌付約三分之一的贖回申請。這與上一季度基本持平，當時投資者申請贖回的比例為17%該基金表示，“始終致力於踐行符合股東最大利益的舉措”，並指出自第一季度以來提出贖回申請的投資者已拿回78%的資金。Cliffwater執行長Stephen Nesbitt在信中表示：“我們對私募信貸的韌性保持樂觀。”"
+    },
+    {
+      "id": "mkt:01a067f7-3cd3-7118-848c-a4be9b8ad421",
+      "time": "2026-09-03 23:50:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX shares (SPCX.O) extended intraday gains to over 6%."
+    },
+    {
+      "id": "mkt:01a067f6-713f-7118-848c-9cd4253d193b",
+      "time": "2026-09-03 23:49:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) shares jumped over 7%, marking the largest intraday gain since June."
+    },
+    {
+      "id": "5075952",
+      "time": "2026-09-03 23:49:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特斯拉股價漲幅擴大至7%以上，創6月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a067f5-e58a-7118-848c-936d36f425d6",
+      "time": "2026-09-03 23:49:23",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Huiyu Technology CTO said the Oracle (ORCL.N) deal will enable the company to build gigawatt-scale infrastructure."
+    },
+    {
+      "id": "mkt:01a067f5-8196-7118-848c-8c6991d38756",
+      "time": "2026-09-03 23:48:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish"
+      ],
+      "text": "【Major German asset manager warns Volkswagen to cut costs or face junk downgrade】Union Investment, one of Germany's largest asset managers, warned Volkswagen in a letter to the chairman that its credit rating could be downgraded to junk unless the automaker implements substantial cost cuts and improves profitability, the FT reports. The move escalates an internal standoff ahead of a crucial supervisory board meeting on Friday over CEO Oliver Blume's restructuring plan, which could eliminate up to 100,000 jobs in Germany and close as many as four plants. Management and the supervisory board are deadlocked; worker representatives and major shareholder Lower Saxony oppose the plan."
+    },
+    {
+      "id": "mkt:01a067f5-6a7e-7118-848c-86be0d9dfcc3",
+      "time": "2026-09-03 23:48:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Huiyu Technology CTO said enterprise demand for AI adoption has surged."
+    },
+    {
+      "id": "5075951",
+      "time": "2026-09-03 23:48:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與CEO：甲骨文交易中的認股權證將隨基礎設施部署規模擴大而相應調整。認股權證並非迴圈融資，而是增長激勵手段。"
+    },
     {
       "id": "5075950",
       "time": "2026-09-03 23:47:14",
