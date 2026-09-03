@@ -1,7 +1,158 @@
 {
   "date": "2026-09-03",
-  "count": 1508,
+  "count": 1525,
   "items": [
+    {
+      "id": "mkt:01a0661f-1273-7118-8479-d79cec733347",
+      "time": "2026-09-03 15:15:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain Aug services PMI 57.8, below 58.9 est., down from Jul's 58.3."
+    },
+    {
+      "id": "5074777",
+      "time": "2026-09-03 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.41%， 10年期主力合約漲0.12%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "mkt:01a0661e-f613-7118-8479-cbef458e19c9",
+      "time": "2026-09-03 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Services PMI (Aug) | actual 57.8 | consensus 58.9 | previous 58.3"
+    },
+    {
+      "id": "mkt:01a0661e-b296-7118-8479-c0af0b899534",
+      "time": "2026-09-03 15:14:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【MOFCOM urges France to halt implementation of anti-fast-fashion law】MOFCOM urged France to immediately stop implementing its anti-fast-fashion law, saying the measure cloaks trade restrictions in environmental and sustainability language, applies double standards and likely violates WTO non-discrimination rules. Spokesperson Huang Ling said China seeks equal dialogue to resolve disputes in sustainable textile trade and to preserve a fair, non-discriminatory market environment for Chinese firms. Huang warned that if France proceeds, China will take necessary measures to defend the legitimate rights of Chinese companies and that France would bear the resulting consequences."
+    },
+    {
+      "id": "5074776",
+      "time": "2026-09-03 15:14:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部：敦促法方立即停止反超快時尚法實施】商務部新聞發言人黃玲在3日舉行的例行新聞釋出會上回應關於法國反超快時尚法生效實施的提問時說，此前中方已闡明立場，該法假借制定所謂“環保”和“可持續”標準之名，採取雙重標準的做法，涉嫌違反世貿組織非歧視原則。黃玲表示，中方敦促法方立即停止反超快時尚法的實施，透過平等對話的方式，妥善解決雙方在可持續紡織貿易領域的分歧，為中資企業營造公平、非歧視的市場環境。如法方一意孤行，中方將採取必要措施，維護中資企業正當權益，由此產生的一切後果由法方承擔。（新華社）"
+    },
+    {
+      "id": "te:economy:580783",
+      "time": "2026-09-03 15:13:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Georgia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Georgia Inflation Rises in August — The annual inflation rate in Georgia rose to 5.6% in August 2026 from a four-month low of 5.5% in the previous month. The increase was mainly driven by faster price growth for transport (15.2% vs 14.2% in July), housing and utilities (8.5% vs 8.3%), and health (5.2% vs 4.7%). Food and non-alcoholic beverages inflation also edged up to 5.0% from 4.9%, while recreation and culture accelerated to 1.5% from 1.0%. Meanwhile, inflation softened for restaurants and hotels (6.8% vs 7.9%), clothing and footwear (0.6% vs 1.1%), and miscellaneous goods and services (7.1% vs 7.6%), while education inflation was unchanged at 2.4%. Additionally, costs continued to decline for communication (-7.5% vs -6.3%) and furnishings, household equipment and maintenance (-1.8% vs -2.4%). On a monthly basis, consumer prices increased by 0.4% in August, rebounding from a 0.4% decline in July."
+    },
+    {
+      "id": "5074774",
+      "time": "2026-09-03 15:13:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利奢侈品個股早盤下跌：布魯奈羅·庫奇內利股價跌1.7%，菲拉格慕跌1.6%，盟可睞跌1.2%。"
+    },
+    {
+      "id": "5074773",
+      "time": "2026-09-03 15:13:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "受石油價格回落和債券收益率下行推動，礦業股與銀行股上漲，帶動澳大利亞股市攀升。"
+    },
+    {
+      "id": "5074772",
+      "time": "2026-09-03 15:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：高市早苗政府在實現強勁經濟與財政可持續性方面的政策沒有變化。"
+    },
+    {
+      "id": "5074771",
+      "time": "2026-09-03 15:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滬深兩市今日成交額合計1.76萬億元，中際旭創成交額居首】9月3日，滬深兩市成交額合計1.76萬億元，較上一交易日縮量約322.62億元。其中，滬市成交額8198.82億元，深市成交額9390.34億元。中際旭創成交額居首，為176.91億元。其後是長鑫科技、新易盛、浪潮資訊、寧德時代，成交額分別為111.63億元、101.15億元、96.88億元、92.36億元。"
+    },
+    {
+      "id": "mkt:01a0661d-4345-7118-8479-b94858a7e87a",
+      "time": "2026-09-03 15:13:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Chief Cabinet Secretary Minoru Kihara said Prime Minister Sanae Takaichi's government has not changed its policy on achieving a strong economy and fiscal sustainability."
+    },
+    {
+      "id": "te:economy:580782",
+      "time": "2026-09-03 15:12:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Malaysia Keeps Rates as Expected — The Central Bank of Malaysia maintained its key interest rate unchanged at 2.75% at its September 2026 policy meeting, as widely expected. The Monetary Policy Committee said the current policy stance remains appropriate for maintaining price stability and supporting economic growth. The central bank said Malaysia’s economy grew robustly by 5.7% in the first half of 2026, driven by stronger-than-expected export performance amid sustained domestic demand, despite uncertainty in global conditions. The strong growth is expected to bring 2026 growth to around 5%, while the economy’s sound fundamentals are expected to keep growth resilient in 2027. Headline and core inflation averaged 1.8% and 2%, respectively, in the first seven months of 2026, with price pressures expected to remain manageable despite higher global commodity prices linked to tensions in the Middle East"
+    },
+    {
+      "id": "5074770",
+      "time": "2026-09-03 15:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構預計中國面板廠商在全球車載顯示出貨量中的佔比將達到65.2%】市場研究機構Omdia最新報告顯示，預計2026年下半年，中國面板廠商在全球車載顯示出貨量中的佔比將達到65.2%，高於上半年的59.0%。"
+    },
+    {
+      "id": "mkt:01a0661c-9a94-7118-8479-b4f623739e71",
+      "time": "2026-09-03 15:12:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【USD/JPY falls to one-month low】USD/JPY extended losses to a one-month low near 156.40, down about 1.4% intraday."
+    },
+    {
+      "id": "5074768",
+      "time": "2026-09-03 15:12:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特<MYR=>在央行維持利率不變後基本持穩，最新報1美元兌4.040林吉特。"
+    },
+    {
+      "id": "5074767",
+      "time": "2026-09-03 15:12:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【馬來西亞央行繼續按兵不動 刪除有關貨幣政策立場“適當”的表述】在經濟繼續快速增長、通脹保持溫和之際，馬來西亞央行維持關鍵利率不變。該行微調了貨幣政策宣告，刪除了有關政策立場“適當”的表述。該行週四維持隔夜政策利率(OPR)在2.75%不變，與接受彭博調查的22位經濟學家中20位的預測相符。另有兩位經濟學家預計該行將轉向收緊貨幣政策，於三年多來首次加息。“在當前OPR水平下，貨幣政策委員會認為貨幣政策立場與價格持續穩定和經濟可持續增長的前景相符，”馬來西亞央行表示，刪除了7月決議中使用的“適當”一詞。"
+    },
     {
       "id": "mkt:01a0661c-0849-7118-8479-acbb5d70efc9",
       "time": "2026-09-03 15:11:48",
@@ -17,6 +168,14 @@
         "公司"
       ],
       "text": "大華銀行<UOBH.SI>旗下臺灣基金部門認為，考慮到儲存晶片廠通常需要兩年時間建設產能，三星電子<005930.KS>等儲存晶片廠商2027年的表現“肯定”會優於2026年。"
+    },
+    {
+      "id": "5074765",
+      "time": "2026-09-03 15:11:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥外長貝拉斯科將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，墨西哥外長貝拉斯科將於9月6日至7日對中國進行訪問。"
     },
     {
       "id": "5074764",
