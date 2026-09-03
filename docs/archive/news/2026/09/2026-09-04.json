@@ -1,7 +1,171 @@
 {
   "date": "2026-09-04",
-  "count": 9,
+  "count": 23,
   "items": [
+    {
+      "id": "te:markets:581032",
+      "time": "2026-09-04 00:12:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 0.8% to 52,245 on Thursday, supported by upbeat corporate developments and strength across financials. Financials outperformed as poll for economists reflected projections that the ECB will not raise rates after their September decision. Further lifting the sector, analyst reviews pointed to a positive outlook for the Italian financial sector, with banks and asset managers exceeding Deutsche Bank’s net profit forecasts of 9% and 13%, respectively. Azimut led sector gains, rising 3%, supported by its M&A activity, while Banca Generali (1.3%) remained the top pick. Banco BPM (1.4%) kept its rating unchanged at \"Buy\", although uncertainty persists around MPS’s (1.6%) takeover bids for both banks. Meanwhile, Stellantis gained 4.3% following news that its Mangualde plant had produced a record two million vehicles. Technology stocks regained some momentum, with STMicroelectronics up 0.7% and Prysmian 1%"
+    },
+    {
+      "id": "te:markets:581031",
+      "time": "2026-09-04 00:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.88% Higher — The FTSE MIB Index went up by 453 points or 0.88 percent on Thursday to close at 52245 points. The rise was led by Lottomatica (5.24%), Stellantis N.V. (4.03%) and Azimut Holding (2.77%). On the downside, the weakerst performers were Brunello Cucinelli (-1.72%), Davide Campari-Milano (-1.69%) and Leonardo SpA (-1.52%)."
+    },
+    {
+      "id": "mkt:01a0680a-54f4-7118-848d-1658745962cd",
+      "time": "2026-09-04 00:11:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Netanyahu said Iran's regime would not attack Israel without cause; it attacks others but not Israel."
+    },
+    {
+      "id": "mkt:01a0680a-345b-7118-848d-0828b14ee7a7",
+      "time": "2026-09-04 00:11:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he is convinced Israel has the capability to completely eliminate the threat, meaning overthrow the Iranian regime."
+    },
+    {
+      "id": "te:markets:581030",
+      "time": "2026-09-04 00:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.63% Higher — The DAX Index rose 164 points or 0.63 percent on Thursday to close at 26003 points. Leading the gains are Volkswagen (3.38%), Porsche Automobil (2.68%) and Vonovia (2.46%). Top losers were Rheinmetall (-2.07%), Fresenius Medical Care (-1.93%) and Qiagen NV (-1.85%)."
+    },
+    {
+      "id": "mkt:01a06809-60fe-7118-848d-0690c7c606a1",
+      "time": "2026-09-04 00:10:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia set its October official selling price for Arab Light to the United States at a $4.60/bbl premium to the ASCI benchmark."
+    },
+    {
+      "id": "mkt:01a06809-443e-7118-848c-fef7451ea0ec",
+      "time": "2026-09-04 00:10:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he is confident Israel can topple the Iranian regime, calling it a central and urgent task."
+    },
+    {
+      "id": "mkt:01a06809-09d4-7118-848c-f29f7cd84e1f",
+      "time": "2026-09-04 00:10:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said the Iranian regime is now tottering and is more vulnerable than ever."
+    },
+    {
+      "id": "5075972",
+      "time": "2026-09-04 00:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡在總參謀部論壇上表示：我們確信有能力推翻伊朗政權。這是核心任務，且迫在眉睫。"
+    },
+    {
+      "id": "te:markets:581029",
+      "time": "2026-09-04 00:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.02% Higher — The CAC 40 Index gained 1 points or 0.02 percent on Thursday to close at 8282 points. Gains were led by Capgemini (4.66%), Stellantis NV (4.04%) and Publicis (3.87%). Biggest losers were Hermes International (-3.10%), Essilor (-3.09%) and LVMH (-2.22%)."
+    },
+    {
+      "id": "mkt:01a06808-4837-7118-848c-ed26b5e31853",
+      "time": "2026-09-04 00:09:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) announced its RTX Spark Windows PC will launch in October 2026."
+    },
+    {
+      "id": "5075971",
+      "time": "2026-09-04 00:09:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯將 10 月銷往美國的阿拉伯輕質原油官方售價定為較 ASCI 基準溢價 4.60 美元 / 桶。"
+    },
+    {
+      "id": "mkt:01a06808-0059-7118-848c-e139baeeceef",
+      "time": "2026-09-04 00:09:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Saudi Arabia set its October official selling price for Arab Light crude bound for Northwest Europe at a $2.15/bbl discount to the ICE Brent settlement price."
+    },
+    {
+      "id": "5075970",
+      "time": "2026-09-04 00:09:03",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "英偉達：NVIDIA RTX Spark Windows 個人電腦將於 2026 年 10 月上市。"
+    },
     {
       "id": "5075969",
       "time": "2026-09-04 00:07:56",
