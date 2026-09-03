@@ -1,7 +1,136 @@
 {
   "date": "2026-09-03",
-  "count": 1963,
+  "count": 1978,
   "items": [
+    {
+      "id": "mkt:01a0670c-4133-7118-8482-658356d26d45",
+      "time": "2026-09-03 19:34:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said when US Commerce Secretary Lutnick said 'no one was killed' he was referring to Venezuela; Iran, however, recorded 18 deaths."
+    },
+    {
+      "id": "5075467",
+      "time": "2026-09-03 19:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【尼泊爾外長感謝中國緊急援助支援，強調不會向中國等國家尋求“氣候正義賠償”】9月3日，中國駐尼泊爾大使張茂明會見尼泊爾外交部長希西爾。張茂明表示，此次嚴重泥石流災害發生以來，中方以多種形式支援尼方救災努力。相信在雙方同舟共濟攜手努力下，兩國人民一定能夠戰勝災情，共渡難關。氣候變化是全人類面臨的共同挑戰，任何一國都無法獨善其身。中方願繼續同包括尼泊爾在內的國際社會一道努力，加強交流合作，有效預防和減少氣候變化的不利影響。希西爾表示，尼泊爾政府衷心感謝危難時刻中方慷慨馳援，謹代表政府再次向中國政府和中國人民致以誠摯慰問。尼中共享喜馬拉雅山自然生態系統，同為氣候變化受影響國。尼方贊同中方觀點，應對氣候變化是國際社會共同責任。尼方無意單獨向包括中國在內的具體國家尋求“氣候正義賠償”，將在《聯合國氣候變化框架公約》及其《巴黎協定》框架下尋求國際社會補償。"
+    },
+    {
+      "id": "5075466",
+      "time": "2026-09-03 19:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：截至8月31日尚未實施股份回購】江波龍公告稱，公司於2026年8月7日審議透過回購股份方案，擬使用不低於4.00億元且不超過8.00億元自有或自籌資金，以集中競價交易方式回購股份，用於股權激勵或員工持股計劃，回購價格不超過735.00元/股，回購實施期限為董事會審議透過方案之日起12個月內。截至2026年8月31日，公司尚未開始實施股份回購，後續將根據市場情況擇機推進。"
+    },
+    {
+      "id": "5075465",
+      "time": "2026-09-03 19:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及內閣批准計劃，將於2026‑27財年發行30億美元國際債券。"
+    },
+    {
+      "id": "mkt:01a0670b-676d-7118-8482-592f84c55887",
+      "time": "2026-09-03 19:33:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic estimate: a magnitude ~6.3 earthquake occurred near the Fox Islands (52.39°N, 170.09°W) at 19:17 on Sept 3. Final parameters pending confirmation in the formal bulletin."
+    },
+    {
+      "id": "5075464",
+      "time": "2026-09-03 19:33:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏外長：俄烏和平程序有望迎來新進展 或重啟磋商】當地時間9月3日，烏克蘭外交部長瑟比加在新聞釋出會上表示，俄烏衝突的和平斡旋工作有望迎來新進展，相關政治外交活動將進入積極階段，和平磋商工作或重啟。瑟比加透露，烏克蘭總統澤連斯基此前已與美國談判團隊展開溝通，雙方始終保持常態化聯絡，相關對話從未中斷。他強調，烏克蘭始終致力於捍衛本國領土完整、爭取公正和平，外交渠道應在結束衝突、推進和平程序中發揮更大作用。（央視新聞）"
+    },
+    {
+      "id": "5075463",
+      "time": "2026-09-03 19:32:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "隆揚電子：控股股東及一致行動人提前結束減持，合計減持1.99%。"
+    },
+    {
+      "id": "5075462",
+      "time": "2026-09-03 19:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約證交所與韓國交易所簽署諒解備忘錄，涉及延長交易時段和ETF。"
+    },
+    {
+      "id": "5075461",
+      "time": "2026-09-03 19:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月03日19時17分在福克斯群島附近（北緯52.39度，西經170.09度）發生6.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a0670a-5db4-7118-8482-5077c4833d0a",
+      "time": "2026-09-03 19:32:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "【Retail buying surges after UK gilt yields hit multi-decade highs】UK retail demand for government bonds spiked this week after gilt yields rose to multi-decade highs. On IG Group’s Freetrade platform, Tuesday’s gilt purchases were the highest so far this year by both order count and value; Freetrade has about 1.6m UK-registered users. Low-coupon gilts were among the most popular securities on the platform, which said they offer more attractive tax-adjusted returns. Hargreaves Lansdown also reported heavy demand: the 5.375% 2056 gilt was its most-traded bond, with gilts maturing in 2028 and 2061 also seeing large inflows; Hargreaves said Tuesday was its largest day for gilt purchases since May 15. Freetrade analyst Alex Pugh said higher yields make gilts more attractive to retail investors seeking diversification from equities and more predictable, tax-efficient returns."
+    },
+    {
+      "id": "5075460",
+      "time": "2026-09-03 19:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普評論： 這太棒了！ 敘利亞正在將自己定位為霍爾木茲海峽的替代選擇。"
+    },
+    {
+      "id": "5075459",
+      "time": "2026-09-03 19:31:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信立泰：2026年9月3日更新遞交H股發行上市申請】信立泰公告，公司正在申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市。公司於2026年9月3日向香港聯交所更新遞交本次發行上市申請，並於同日在香港聯交所網站刊登更新申請資料。"
+    },
+    {
+      "id": "5075458",
+      "time": "2026-09-03 19:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約證券交易所與韓國交易所簽署業務合作諒解備忘錄。"
+    },
+    {
+      "id": "5075457",
+      "time": "2026-09-03 19:31:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Rekor Systems終止其在美國與以色列餘下的兩份長期房地產租賃合約。"
+    },
+    {
+      "id": "5075456",
+      "time": "2026-09-03 19:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：全球AR眼鏡雷鳥創新出貨量和銷量第一】IDC、Counterpoint、CINNO、洛圖科技、奧維雲網等多家權威市場研究機構相繼釋出了2026年上半年AR眼鏡與智慧眼鏡市場報告，雷鳥創新（RayNeo）獲得全球AR眼鏡與中國智慧眼鏡市場出貨量和銷量第一，其中，IDC、Counterpoint資料共同顯示，上半年雷鳥創新市場份額達24.8%。（澎湃）"
+    },
     {
       "id": "5075453",
       "time": "2026-09-03 19:29:13",
