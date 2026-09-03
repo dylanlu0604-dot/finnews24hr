@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-04 03:44:40",
-  "count": 13045,
+  "updated": "2026-09-04 03:48:35",
+  "count": 13048,
   "items": [
+    {
+      "id": "mkt:01a068d0-0651-7118-8490-3670aa55e551",
+      "time": "2026-09-04 03:47:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israeli media says Iran may plan attacks during Jewish holidays】Israel's Channel 12 reports Israeli authorities fear Iran could attempt strikes on Israeli overseas targets during the Jewish holidays and on the third anniversary of the Oct. 7 attacks. Israel assesses Iran's earlier missile strike on Jordan's Aqaba port was intended as a warning to Israel."
+    },
+    {
+      "id": "5076144",
+      "time": "2026-09-04 03:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘總理：SAFE 是一項重要倡議，大方向正確。但我們還需要更進一步，同時必須審慎挑選合作伙伴。我在此提醒，第三方國家參與該專案的前提過去是、現在依然是：不得損害歐盟成員國的安全與防務利益。"
+    },
+    {
+      "id": "5076143",
+      "time": "2026-09-04 03:46:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：將對非核心業務進行剝離或重組。"
+    },
+    {
+      "id": "5076142",
+      "time": "2026-09-04 03:45:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行今日外匯儲備為 508 億美元。"
+    },
+    {
+      "id": "5076141",
+      "time": "2026-09-04 03:45:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：持股與業務組合將精簡約三分之一。"
+    },
+    {
+      "id": "mkt:01a068cd-b647-7118-8490-285818897af1",
+      "time": "2026-09-04 03:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2027 FOMC voting member and Chicago Fed President Austan Goolsbee will deliver closing remarks at the \"Fed Community\" event in 10 minutes."
+    },
+    {
+      "id": "5076140",
+      "time": "2026-09-04 03:44:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：將對持股組合及旗下業務開展嚴格評估。"
+    },
     {
       "id": "5076139",
       "time": "2026-09-04 03:43:59",
@@ -119842,38 +119906,6 @@
         "其他"
       ],
       "text": "哥倫比亞計劃從2028年起重新啟用財政規則目標。"
-    },
-    {
-      "id": "5063309",
-      "time": "2026-08-28 03:47:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "南非機場公司稱，南非機場航空煤油庫存保持穩定。"
-    },
-    {
-      "id": "5063308",
-      "time": "2026-08-28 03:47:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制與預防中心就賓夕法尼亞州麻疹死亡事件發聲：州長辦公室尚未提供與此次疫情相關的資訊，且已拒絕我方提供的協助。"
-    },
-    {
-      "id": "5063307",
-      "time": "2026-08-28 03:46:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心就賓夕法尼亞州麻疹死亡事件回應：疾控中心正全力查明事件真相。"
-    },
-    {
-      "id": "5063306",
-      "time": "2026-08-28 03:44:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美法官解除對郵政署郵寄選票新規的全國性禁令】央視記者當地時間8月27日獲悉，一名美國聯邦法官26日解除對美郵政署郵寄選票新規的全國性禁令。新規要求各州重新設計選票信封，並向郵政署上傳選民名單；若不符合相關準備和資料要求，郵政署可拒絕寄出選票。（央視新聞）"
     }
   ]
 }

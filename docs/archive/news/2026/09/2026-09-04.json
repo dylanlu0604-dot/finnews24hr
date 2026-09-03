@@ -1,7 +1,71 @@
 {
   "date": "2026-09-04",
-  "count": 236,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:01a068d0-0651-7118-8490-3670aa55e551",
+      "time": "2026-09-04 03:47:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israeli media says Iran may plan attacks during Jewish holidays】Israel's Channel 12 reports Israeli authorities fear Iran could attempt strikes on Israeli overseas targets during the Jewish holidays and on the third anniversary of the Oct. 7 attacks. Israel assesses Iran's earlier missile strike on Jordan's Aqaba port was intended as a warning to Israel."
+    },
+    {
+      "id": "5076144",
+      "time": "2026-09-04 03:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘總理：SAFE 是一項重要倡議，大方向正確。但我們還需要更進一步，同時必須審慎挑選合作伙伴。我在此提醒，第三方國家參與該專案的前提過去是、現在依然是：不得損害歐盟成員國的安全與防務利益。"
+    },
+    {
+      "id": "5076143",
+      "time": "2026-09-04 03:46:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：將對非核心業務進行剝離或重組。"
+    },
+    {
+      "id": "5076142",
+      "time": "2026-09-04 03:45:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行今日外匯儲備為 508 億美元。"
+    },
+    {
+      "id": "5076141",
+      "time": "2026-09-04 03:45:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：持股與業務組合將精簡約三分之一。"
+    },
+    {
+      "id": "mkt:01a068cd-b647-7118-8490-285818897af1",
+      "time": "2026-09-04 03:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2027 FOMC voting member and Chicago Fed President Austan Goolsbee will deliver closing remarks at the \"Fed Community\" event in 10 minutes."
+    },
+    {
+      "id": "5076140",
+      "time": "2026-09-04 03:44:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：將對持股組合及旗下業務開展嚴格評估。"
+    },
     {
       "id": "5076139",
       "time": "2026-09-04 03:43:59",
