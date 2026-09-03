@@ -1,7 +1,61 @@
 {
   "date": "2026-09-03",
-  "count": 2594,
+  "count": 2600,
   "items": [
+    {
+      "id": "5075964",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破98關口，日內跌0.60%。"
+    },
+    {
+      "id": "5075963",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：藍色起源與 SpaceX 取消出席法國太空峰會。"
+    },
+    {
+      "id": "5075962",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破98關口，日內跌0.60%。"
+    },
+    {
+      "id": "te:markets:581022",
+      "time": "2026-09-03 23:58:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Edges Higher on Industrials Gains — The CAC 40 inched 0.1% higher to close at 8,286 on Thursday, supported by gains in industrials and financials. Euro Area activity data pointed to solid Q3 growth, supported by improving industrial activity and a recovery in services following the initial impact of higher energy prices at the start of the Middle East conflict. France’s manufacturing output rose marginally in August. Safran added 0.8%, and Vinci rose 1.4%. Legrand climbed 1.4% after Deutsche Bank upgraded it to “Buy” from “Hold.” Stellantis jumped 4.3% after Arnaud Belloni was named CEO of Fiat, Abarth and Lancia in Europe. Financials advanced as the ECB is not expected to signal further tightening after September, with long-term inflation expectations well anchored. Markets expect a final rate hike on September 10th. Luxury stocks tumbled, with Hermes down 3.3%, as weak sales and earnings, cautious forecasts and limited signs of a rebound in wealthy shoppers’ spending continued to weigh on the sector."
+    },
+    {
+      "id": "5075961",
+      "time": "2026-09-03 23:57:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債收益率至少跌超8個基點】週四（9月3日）歐市尾盤，英國10年期國債收益率跌9.5個基點，重新整理日低至5.135%，整體持續震盪下行。兩年期英債收益率跌9.6個基點，重新整理日低至4.519%。30年期英債收益率跌8.3個基點，50年期英債收益率跌8.1個基點。2/10年期英債收益率利差大致持平，報+61.463個基點。"
+    },
+    {
+      "id": "5075960",
+      "time": "2026-09-03 23:56:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣價格重回8.1萬美元上方 過去24小時大漲5%】以比特幣為首的加密貨幣持續走高，行情顯示，比特幣漲至81188.4美元，過去24小時內漲5.13%；以太坊漲至2510.15美元，過去24小時內漲5.17%。"
+    },
     {
       "id": "te:markets:581021",
       "time": "2026-09-03 23:55:06",

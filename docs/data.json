@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-03 23:56:55",
-  "count": 12877,
+  "updated": "2026-09-04 00:01:29",
+  "count": 12882,
   "items": [
+    {
+      "id": "5075965",
+      "time": "2026-09-04 00:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國抵押貸款利率升至 6.71%，為 2025 年 7 月以來最高水平。"
+    },
+    {
+      "id": "5075964",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破98關口，日內跌0.60%。"
+    },
+    {
+      "id": "5075963",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：藍色起源與 SpaceX 取消出席法國太空峰會。"
+    },
+    {
+      "id": "5075962",
+      "time": "2026-09-03 23:59:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破98關口，日內跌0.60%。"
+    },
+    {
+      "id": "te:markets:581022",
+      "time": "2026-09-03 23:58:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Edges Higher on Industrials Gains — The CAC 40 inched 0.1% higher to close at 8,286 on Thursday, supported by gains in industrials and financials. Euro Area activity data pointed to solid Q3 growth, supported by improving industrial activity and a recovery in services following the initial impact of higher energy prices at the start of the Middle East conflict. France’s manufacturing output rose marginally in August. Safran added 0.8%, and Vinci rose 1.4%. Legrand climbed 1.4% after Deutsche Bank upgraded it to “Buy” from “Hold.” Stellantis jumped 4.3% after Arnaud Belloni was named CEO of Fiat, Abarth and Lancia in Europe. Financials advanced as the ECB is not expected to signal further tightening after September, with long-term inflation expectations well anchored. Markets expect a final rate hike on September 10th. Luxury stocks tumbled, with Hermes down 3.3%, as weak sales and earnings, cautious forecasts and limited signs of a rebound in wealthy shoppers’ spending continued to weigh on the sector."
+    },
+    {
+      "id": "5075961",
+      "time": "2026-09-03 23:57:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債收益率至少跌超8個基點】週四（9月3日）歐市尾盤，英國10年期國債收益率跌9.5個基點，重新整理日低至5.135%，整體持續震盪下行。兩年期英債收益率跌9.6個基點，重新整理日低至4.519%。30年期英債收益率跌8.3個基點，50年期英債收益率跌8.1個基點。2/10年期英債收益率利差大致持平，報+61.463個基點。"
+    },
+    {
+      "id": "5075960",
+      "time": "2026-09-03 23:56:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣價格重回8.1萬美元上方 過去24小時大漲5%】以比特幣為首的加密貨幣持續走高，行情顯示，比特幣漲至81188.4美元，過去24小時內漲5.13%；以太坊漲至2510.15美元，過去24小時內漲5.17%。"
+    },
     {
       "id": "te:markets:581021",
       "time": "2026-09-03 23:55:06",
@@ -118268,30 +118330,6 @@
         "Importance 1"
       ],
       "text": "US Mortgage Rates Edge Higher — US 30-year fixed mortgage rates averaged 6.66% as of August 27th, 2026, slightly up from 6.65% in the prior week. “Mortgage rates changed little this week averaging 6.66%,” said Sam Khater, Freddie Mac’s Chief Economist. The economy remains resilient, supported by steady consumer spending and rising household incomes, while increased housing supply and slower price growth in many areas are giving buyers more options and helping create a more balanced housing market. A year earlier, the 30-year fixed-rate mortgage averaged 6.56%. Meanwhile, the 15-year fixed-rate mortgage averaged 5.98%, up from 5.95% in the previous week."
-    },
-    {
-      "id": "te:markets:578766",
-      "time": "2026-08-28 00:00:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.2% to 52,265 on Thursday, weighed by weakness across several sectors. Utilities declined as European gas prices remained elevated, pressuring Hera (-3.3%) and A2A (-2%). Financials also underperformed amid ongoing bank merger talks. Intesa Sanpaolo fell 1.6% after filing a complaint with Consob against MPS (-2.1%) over its takeover bids for Banco BPM (-2.5%) and Generali-controlled (-0.4%) Banca Generali. Banca Generali’s board was scheduled to meet Thursday to consider the offer, while Banco BPM had yet to issue an official statement. Fitch said the offers carried considerable risks. Energy stocks also fell amid debate over Italy’s windfall tax, with Eni (-1.4%) declining for a fifth consecutive session. Offsetting part of the decline, tech stocks surged following Nvidia’s upbeat outlook, lifting STMicroelectronics (2.9%) and Prysmian (1.6%). Stellantis also jumped 2.6%."
-    },
-    {
-      "id": "te:markets:578765",
-      "time": "2026-08-27 23:59:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Tumbles Ahead of Fitch Review — The CAC 40 tumbled 1.7% to close at 8,319 on Thursday, falling to its lowest level in over a month ahead of Fitch’s review of France’s sovereign credit rating. Fitch’s assessment is due Friday, after the agency downgraded France to A+ last year. Political uncertainty also weighed on sentiment ahead of an early presidential debate. France faces a particularly challenging budget battle in the coming months, with one of the largest deficits in the eurozone. The budget dispute and presidential race are expected to fuel uncertainty. Losses were broad-based amid heightened risk aversion, with LVMH down 1.4%, Safran shedding 2%, Engie losing 3.4% and Vinci retreating 3.9%. Financials underperformed, with BNP Paribas losing 4.8%, Crédit Agricole down 4% and Société Générale shedding 5%. Pernod Ricard fell 4.6% after reporting lower sales in FY 2026."
     }
   ]
 }
