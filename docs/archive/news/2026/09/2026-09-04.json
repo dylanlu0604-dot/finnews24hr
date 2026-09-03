@@ -1,7 +1,36 @@
 {
   "date": "2026-09-04",
-  "count": 217,
+  "count": 220,
   "items": [
+    {
+      "id": "mkt:01a068c2-ccf4-7118-8490-08ec40cd5b81",
+      "time": "2026-09-04 03:33:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls 0.69% on the 3rd to 98.910】The dollar index against six major currencies fell 0.69% to 98.910 at the FX close. At the New York close, EUR/USD 1.1635 (prev. 1.1586); GBP/USD 1.3539 (prev. 1.3487). USD/JPY 155.50 (prev. 158.94); USD/CHF 0.8068 (prev. 0.8133); USD/CAD 1.3788 (prev. 1.3841); USD/SEK 9.5365 (prev. 9.6250)."
+    },
+    {
+      "id": "mkt:01a068c2-c641-7118-8490-05b2072724f3",
+      "time": "2026-09-04 03:33:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Central Command said as of Sept. 3 it had forced 87 commercial vessels to reroute, disabled three ships and boarded and inspected two to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5076124",
+      "time": "2026-09-04 03:32:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部：已迫使 87 艘商船改變航線】“約翰・保羅・瓊斯” 號導彈驅逐艦（DDG‑53）導彈驅逐艦正在區域海域持續支援美國針對伊朗的封鎖行動。截至 9 月 3 日，美國中央司令部部隊已迫使 87 艘商船改變航線，使 3 艘船隻失去行動能力，並登船檢查 2 艘，以確保完全遵守相關規定。"
+    },
     {
       "id": "5076120",
       "time": "2026-09-04 03:30:42",
