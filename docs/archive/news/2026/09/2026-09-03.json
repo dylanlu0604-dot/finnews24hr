@@ -1,7 +1,164 @@
 {
   "date": "2026-09-03",
-  "count": 2540,
+  "count": 2556,
   "items": [
+    {
+      "id": "mkt:01a067e9-3bb1-7118-848c-2acec2c73f7f",
+      "time": "2026-09-03 23:35:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Sultan of Oman will make a state visit to the United Kingdom from Oct 20-22."
+    },
+    {
+      "id": "mkt:01a067e9-262e-7118-848c-266266bfc52a",
+      "time": "2026-09-03 23:35:27",
+      "tags": [
+        "MKT News",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) shares' intraday gain widened to 5%."
+    },
+    {
+      "id": "5075943",
+      "time": "2026-09-03 23:35:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼蘇丹將於10月20日至22日對英國開展國事訪問。"
+    },
+    {
+      "id": "mkt:01a067e8-ea5b-7118-848c-190718d6663d",
+      "time": "2026-09-03 23:35:12",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "D.A. Davidson cuts Broadcom (AVGO.O) PT to $350 from $400."
+    },
+    {
+      "id": "te:economy:581019",
+      "time": "2026-09-03 23:34:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Export Growth Slows Again — Colombia's exports rose 5.9% year-on-year to USD 4.69 billion in July 2026, easing for a second consecutive month following a 7% increase in June and marking the lowest pace of growth since the start of the year. The increase was driven by a 8.3% rise in exports of fuels and extractive industries, which accounted for 40% of total shipments, supported by a 13.8% increase in oil and petroleum products, while crude oil export volumes rose 3.1% to 13.4 million barrels. In contrast, manufactured exports decline 7.1%, driven by lower shipments of chemicals and related products (-12.4%) and manufactured goods classified chiefly by material (-6.0%), while agricultural and food exports, which represented 26.4% of total exports, edged down 0.8%."
+    },
+    {
+      "id": "5075942",
+      "time": "2026-09-03 23:34:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：遭綁架的委內瑞拉總統尼古拉斯・馬杜羅及其妻子的代理律師已提交動議，要求駁回美國政府捏造的指控，稱當事人享有絕對主權豁免，對二人的拘留缺乏法律依據。"
+    },
+    {
+      "id": "mkt:01a067e7-b450-7118-848c-13857319fe9c",
+      "time": "2026-09-03 23:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC says OPUS 4.8 and OPUS 5 models remain affected."
+    },
+    {
+      "id": "mkt:01a067e7-6d91-7118-848c-0f793328852a",
+      "time": "2026-09-03 23:33:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC: multiple models restored to baseline performance."
+    },
+    {
+      "id": "mkt:01a067e7-1b21-7118-848c-04914a46f88e",
+      "time": "2026-09-03 23:33:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 8-week Treasury auction on Sept. 3: stop-out yield 3.75% vs 3.67% prior."
+    },
+    {
+      "id": "5075941",
+      "time": "2026-09-03 23:33:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Opus 4.8、Opus 5 模型仍受影響。"
+    },
+    {
+      "id": "mkt:01a067e6-fe35-7118-848b-fcf0331438e0",
+      "time": "2026-09-03 23:33:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Sep.3) | actual 3.75% | previous 3.67%"
+    },
+    {
+      "id": "mkt:01a067e6-e585-7118-848b-f66d3fd86769",
+      "time": "2026-09-03 23:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 8‑week Treasury auction on Sept. 3: 89.23% of awards allocated at the stop‑out rate, up from 80.38% previously."
+    },
+    {
+      "id": "5075940",
+      "time": "2026-09-03 23:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：多款模型已恢復至基線水平。"
+    },
+    {
+      "id": "mkt:01a067e6-aeb8-7118-848b-ec4d04acb16a",
+      "time": "2026-09-03 23:32:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury auction as of Sept. 3: bid-cover ratio 3.02, prior 2.77."
+    },
+    {
+      "id": "mkt:01a067e6-90bb-7118-848b-e691a5c86d1d",
+      "time": "2026-09-03 23:32:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Sep.3) | actual 3.02 | previous 2.77"
+    },
+    {
+      "id": "5075939",
+      "time": "2026-09-03 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.7%，投標倍數2.97。拍賣八週期國債，得標利率3.750%，投標倍數3.02。"
+    },
     {
       "id": "mkt:01a067e6-3f6d-7118-848b-dabee0aafd00",
       "time": "2026-09-03 23:32:17",
