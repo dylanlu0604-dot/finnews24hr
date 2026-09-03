@@ -1,7 +1,132 @@
 {
   "date": "2026-09-03",
-  "count": 833,
+  "count": 846,
   "items": [
+    {
+      "id": "5074302",
+      "time": "2026-09-03 09:50:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【體育概念異動拉昇 舒華體育直線漲停】體育概念異動拉昇，舒華體育直線漲停，金陵體育、力盛體育、中體產業、共創草坪跟漲。"
+    },
+    {
+      "id": "5074301",
+      "time": "2026-09-03 09:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行、保險板塊走高】銀行、保險板塊走高，中國人壽、中國人保漲超3%，渝農商行漲超2%，浦發銀行、北京銀行、貴陽銀行、蘇農銀行跟漲。"
+    },
+    {
+      "id": "mkt:01a064f5-773c-7118-8472-7edbd3b771c1",
+      "time": "2026-09-03 09:50:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China A-share coal sector spiked intraday; Shaanxi Black Cat jumped straight to the daily price limit. Hengyuan Coal & Power, Zhengzhou Coal & Power, Shanxi Coking, Huaibei Mining and Baotailong also advanced."
+    },
+    {
+      "id": "mkt:01a064f5-3c6c-7118-8472-7455b01b92a1",
+      "time": "2026-09-03 09:49:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【G20 innovation ministers meet in Chapel Hill, North Carolina】G20 innovation ministers met in Chapel Hill, North Carolina on Sept. 1-2; technology and trade ministers from G20 members and guest countries attended. Trade discussions focused on intellectual property policy for AI innovation, coordination between AI and standards, industrial innovation and supply-chain investment. MOFCOM Vice Minister Jiang Chenghua attended and spoke, and held bilateral meetings with US, Brazil, Italy and Russia delegations; Jiang said China views open-source approaches and openness as intrinsic to AI development and an effective way to narrow the digital-intelligence divide, and said China is willing to work with G20 members to build open, inclusive, resilient and sustainable supply chains and share AI development gains."
+    },
+    {
+      "id": "mkt:01a064f4-60d9-7118-8472-6a115de928e2",
+      "time": "2026-09-03 09:48:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic chemicals sector briefly rallied; Siquan New Material rose over 10%, with Zhongshi Technology, Fangbang Co., Laite Optoelectronics, Laier Technology and Jiadeli also gaining."
+    },
+    {
+      "id": "5074300",
+      "time": "2026-09-03 09:48:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "電子化學品板塊短線走高，思泉新材漲超10%，中石科技、方邦股份、萊特光電、萊爾科技、嘉德利等跟漲。"
+    },
+    {
+      "id": "te:economy:580650",
+      "time": "2026-09-03 09:48:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Australia Imports Drop to 5-Month Low — Australia’s goods imports fell 2.5% month-over-month to a five-month low of AUD 44.34 billion in July 2026, steeper than a revised 0.7% decline in the previous month amid sluggish domestic demand and soft business spending. Imports of intermediate and other merchandise goods plunged 7.8% to AUD 18.28 billion, dragged down by lower purchases of fuels and lubricants (-12.3%), processed industrial supplies n.e.s. (-4.7%), and other parts for capital goods (-1.7%). Also, purchases of non-monetary gold tumbled 31.1% to AUD 1.65 billion. In contrast, capital goods imports jumped 6.7% to AUD 10.74 billion, boosted by ADP equipment (50.4%), industrial transport equipment (7.6%), and civil aircraft and confidentialised items (16.6%). Meanwhile, consumption goods imports increased 3.5% to AUD 13.67 billion, lifted by non-industrial transport equipment (8.2%), food and beverages mainly for consumption (3.6%), and consumption goods n.e.s. (2.8%)."
+    },
+    {
+      "id": "5074299",
+      "time": "2026-09-03 09:48:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【二十國集團創新部長會議在美國北卡羅來納州舉行】9月1日至2日，二十國集團（G20）創新部長會議在美國北卡羅來納州教堂山市舉行。G20成員及嘉賓國科技部長及貿易部長參會。貿易領域討論主題為人工智慧（AI）創新的智慧財產權政策、AI與標準相互促進、產業創新與供應鏈投資。商務部副部長蔣成華出席會議並就相關議題發言。會議期間，蔣成華還分別與美國、巴西、義大利、俄羅斯等成員代表團團長舉行會見會談。蔣成華表示，習近平主席在2026年世界人工智慧大會上指出，要加強人工智慧發展戰略、治理規則、技術標準的對接協調，早日形成具有廣泛共識的全球治理框架。中方主張在保護智慧財產權的同時，促進人工智慧研究成果和技術經驗分享，推動創新與保護相互促進，堅持開源開放和多邊主義，構建公正合理、共識廣泛的全球人工智慧治理體系。蔣成華指出，中方主張秉持共商共建和開放包容原則，發揮產業作用，支援聯合國在相關標準制定中的主渠道地位，推動形成人工智慧國際標準，共同建立開放、公平、非歧視的全球標準體系。中方認為，開源開放是人工智慧發展的內在基因，也是彌合“數智鴻溝”的有效途徑，願同G20成員攜手共建開放、包容、韌性和可持續的供應鏈體系，共享人工智慧發展紅利。會議發表了《G20創新部長會議聯合宣告》，為12月G20領導人峰會做了相關工作準備。（商務部）"
+    },
+    {
+      "id": "te:markets:580649",
+      "time": "2026-09-03 09:47:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound — The benchmark KOSPI climbed more than 1% to around 6,650 on Thursday, rebounding from the previous session as risk sentiment improved following overnight gains on Wall Street and easing Middle East tensions. President Donald Trump said renewed US attacks on Iran would likely be short-lived, while oil prices edged lower, easing concerns over inflation and energy prices. Tech stocks led gains, with Samsung Electronics and SK hynix rising more than 1% each. Other notable performers included SK Square (1.0%), Hyundai Motor (1.3%), LG Energy Solution (6.3%), KB Financial Group (5.8%), Hanwha Aerospace (2.4%), Doosan Enerbility (3.0%), Shinhan Financial Group (3.8%), and HD Hyundai Heavy Industries (2.7%). However, gains were tempered by renewed concerns over potential US semiconductor tariffs, as Commerce Secretary Howard Lutnick said the administration is considering a targeted policy tying tariff relief to investment in US chip manufacturing."
+    },
+    {
+      "id": "mkt:01a064f3-3248-7118-8472-634173b82394",
+      "time": "2026-09-03 09:47:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share banking sector rallied; China Construction Bank, Bank of China, Bank of Jiangsu, Bank of Nanjing and Bank of Hangzhou all hit new highs."
+    },
+    {
+      "id": "5074298",
+      "time": "2026-09-03 09:46:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石概念異動拉昇 恆盛能源直線漲停】早盤培育鑽石概念異動拉昇，恆盛能源直線漲停，四方達、惠豐鑽石、力量鑽石、沃爾德、黃河旋風跟漲。"
+    },
+    {
+      "id": "5074297",
+      "time": "2026-09-03 09:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中煤成立新公司 含新興能源技術研發業務】企查查APP顯示，近日，中煤電力（青河）新能源有限公司成立，經營範圍包含新興能源技術研發；節能管理服務；工程管理服務；合同能源管理等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。"
+    },
+    {
+      "id": "5074296",
+      "time": "2026-09-03 09:46:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【智慧駕駛概念表現活躍 大眾交通漲停】智慧駕駛概念表現活躍，大眾交通漲停，錦江線上、浙江世寶、萬集科技跟漲。"
+    },
     {
       "id": "5074295",
       "time": "2026-09-03 09:46:17",
