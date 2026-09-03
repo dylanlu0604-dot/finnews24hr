@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-03 23:40:59",
-  "count": 12845,
+  "updated": "2026-09-03 23:44:57",
+  "count": 12852,
   "items": [
+    {
+      "id": "5075948",
+      "time": "2026-09-03 23:44:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：聯合投資集團敦促大眾汽車監事會投票透過重組方案，該方案將在德國裁減 10 萬個工作崗位。"
+    },
+    {
+      "id": "mkt:01a067f1-190d-7118-848c-6f5a148ee43a",
+      "time": "2026-09-03 23:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Treasury has imposed sanctions on Cuba's foreign trade bank."
+    },
+    {
+      "id": "mkt:01a067f0-df03-7118-848c-64666748f008",
+      "time": "2026-09-03 23:43:53",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Financial Times reports Union Investment urged Volkswagen's supervisory board to approve a restructuring plan that would cut 100,000 jobs in Germany."
+    },
+    {
+      "id": "mkt:01a067f0-892a-7118-848c-5fb23243b148",
+      "time": "2026-09-03 23:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury published a new round of Cuba-related sanctions on its website."
+    },
+    {
+      "id": "mkt:01a067f0-73c4-7118-848c-514602d3c007",
+      "time": "2026-09-03 23:43:26",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Financial Times: major investors warn Volkswagen could be downgraded to \"junk\" unless it implements sharp cost cuts."
+    },
+    {
+      "id": "5075947",
+      "time": "2026-09-03 23:43:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國出臺新一輪針對古巴的制裁措施。"
+    },
+    {
+      "id": "mkt:01a067ef-51a3-7118-848c-491948f2deb9",
+      "time": "2026-09-03 23:42:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "CME: USD/JPY is approaching the 155 level where options open interest is concentrated."
+    },
+    {
+      "id": "5075946",
+      "time": "2026-09-03 23:41:43",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美德裂痕在G20凸顯 美國不滿德國公開批評匯市干預】據知情人士透露，在德國官員在本週的二十國集團(G20)會議期間公開批評美國干預匯市，並在俄羅斯問題上採取強硬立場後，美國官員向柏林方面提出了交涉。知情人士稱，美國財政部透過多個渠道對德國央行行長Joachim Nagel的言論表達不滿。Nagel在北卡羅來納州對記者表示，美國在賣出歐元、支撐日元之前，本應先與歐洲夥伴協調。知情人士還稱，美國財政部長斯科特·貝森特也對德國財政部長拉爾斯·克林拜爾面對俄羅斯財長時毫不妥協、公開對抗的立場表達不滿。"
+    },
     {
       "id": "5075945",
       "time": "2026-09-03 23:39:49",
@@ -117972,17 +118050,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Tumbles Ahead of Fitch Review — The CAC 40 tumbled 1.7% to close at 8,319 on Thursday, falling to its lowest level in over a month ahead of Fitch’s review of France’s sovereign credit rating. Fitch’s assessment is due Friday, after the agency downgraded France to A+ last year. Political uncertainty also weighed on sentiment ahead of an early presidential debate. France faces a particularly challenging budget battle in the coming months, with one of the largest deficits in the eurozone. The budget dispute and presidential race are expected to fuel uncertainty. Losses were broad-based amid heightened risk aversion, with LVMH down 1.4%, Safran shedding 2%, Engie losing 3.4% and Vinci retreating 3.9%. Financials underperformed, with BNP Paribas losing 4.8%, Crédit Agricole down 4% and Société Générale shedding 5%. Pernod Ricard fell 4.6% after reporting lower sales in FY 2026."
-    },
-    {
-      "id": "te:markets:578761",
-      "time": "2026-08-27 23:44:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures Back to 1-Year Highs — US sugar futures surged beyond 18 cents per pound, moving back toward the highest since May 2025, as traders amid persistent concerns over supply. Analysts have been revising their forecasts for a global sugar deficit in 2026/27, with the shortfall potentially widening further in 2027/28 as lower cane and beet plantings weigh on production. Climate risks in major producing regions and a potential shift toward ethanol production are adding to supply concerns, particularly in Brazil. Conab expects Brazilian sugar output to decline 2.9% to 42.89 million tonnes in 2026/27, while ethanol production is forecast to increase 9.7% to 29.98 billion litres. Meanwhile, the prospect of one of the strongest El Niño events in decades threatens production in key growing regions. Uncertainty over Indian purchases remains a key factor, while developments in the oil market could influence the balance between sugar and ethanol production."
     }
   ]
 }
