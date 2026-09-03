@@ -1,7 +1,65 @@
 {
   "date": "2026-09-04",
-  "count": 3,
+  "count": 9,
   "items": [
+    {
+      "id": "5075969",
+      "time": "2026-09-04 00:07:56",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯將 10 月銷往西北歐的阿拉伯輕質原油官方售價定為較洲際交易所布倫特原油結算價貼水 2.15 美元 / 桶。"
+    },
+    {
+      "id": "5075968",
+      "time": "2026-09-04 00:07:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧特尼克承認誤稱伊朗戰爭無美軍死亡：當時想的是委內瑞拉】美國商務部長霍華德·盧特尼克表示，他此前誤稱伊朗戰爭期間沒有美國軍人死亡，並承認自己說錯了。盧特尼克週三接受採訪時表示，“特朗普現在處理伊朗問題的方式，對吧，沒有美國人死亡。實際上，這就是一種經濟上的扼殺，而政府目前正在更廣泛地實施這種策略。盧特尼克週四在X上發文稱，自己“說錯了”，當時“想到的是委內瑞拉軍事行動，那次行動中沒有美國軍人死亡”。他承認有18名美國軍人死亡，並表示，“想到這些家庭，我感到無比心痛，對他們痛失親人表示深切慰問。”"
+    },
+    {
+      "id": "te:markets:581028",
+      "time": "2026-09-04 00:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.69% Higher — The FTSE 100 Index went up by 74 points or 0.69 percent on Thursday to close at 10831 points. The rise was led by London Stock Exchange (3.87%), Endeavour (3.83%) and Polar Capital Holdings (3.41%). On the downside, the weakerst performers were Reckitt Benckiser (-2.51%), Admiral (-2.49%) and Convatec Group (-2.14%)."
+    },
+    {
+      "id": "5075967",
+      "time": "2026-09-04 00:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴政權繼續對美國構成嚴重威脅。"
+    },
+    {
+      "id": "5075966",
+      "time": "2026-09-04 00:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國首相伯納姆與法國總統馬克龍週四在倫敦舉行會談，商討在烏克蘭組織組裝 SCALP 遠端巡航導彈的相關舉措。雙方還討論了上週在基輔舉行的 “意願聯盟” 會議成果。據報道，伯納姆訪問烏克蘭期間宣佈，向基輔移交有關英法聯合導彈生產所用英國零部件的機密資訊，該導彈在法國稱為 SCALP，在英國代號為風暴陰影。"
+    },
+    {
+      "id": "te:economy:581027",
+      "time": "2026-09-04 00:05:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Rises to 6.71% — US 30-year fixed mortgage rates averaged 6.71% as of September 3rd, 2026, up from 6.66% a week earlier and 6.50% a year ago. “The 30-year fixed-rate mortgage averaged 6.71% this week,” said Sam Khater, Freddie Mac’s Chief Economist. “Purchase demand has remained relatively stable, indicating steady interest from buyers adapting to evolving market conditions.” Meanwhile, the 15-year fixed mortgage rate averaged 6.04%, up from 5.98% the previous week."
+    },
     {
       "id": "mkt:01a06801-bad0-7118-848c-df2c7c14177f",
       "time": "2026-09-04 00:02:18",
