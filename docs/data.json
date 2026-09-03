@@ -1,7 +1,154 @@
 {
-  "updated": "2026-09-03 19:15:36",
-  "count": 12774,
+  "updated": "2026-09-03 19:19:26",
+  "count": 12791,
   "items": [
+    {
+      "id": "5075438",
+      "time": "2026-09-03 19:18:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "金寶湯公司股價盤前下跌11%，此前該公司公佈年度銷售額預測低於市場預期。"
+    },
+    {
+      "id": "5075437",
+      "time": "2026-09-03 19:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "金寶湯第四季度營收為21億美元。"
+    },
+    {
+      "id": "mkt:01a066fd-2a5e-7118-8482-2454503009a3",
+      "time": "2026-09-03 19:17:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian navy said it struck a Russian support vessel in Sochi port."
+    },
+    {
+      "id": "5075436",
+      "time": "2026-09-03 19:17:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣可再生能源（GE Vernova）：已簽署協議，為愛爾蘭電力公司（ESB）位於蘇格蘭的奇倫賽德風電場供應渦輪機。"
+    },
+    {
+      "id": "5075435",
+      "time": "2026-09-03 19:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭海軍稱其在索契港擊中一艘俄羅斯支援艦船。"
+    },
+    {
+      "id": "5075434",
+      "time": "2026-09-03 19:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "金寶湯預計 2027 年調整後每股收益 1.65‑1.80 美元，市場預期 1.84 美元。"
+    },
+    {
+      "id": "5075433",
+      "time": "2026-09-03 19:17:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣維諾華公司：與愛爾蘭國家電力公司（ESB）達成協議，將為蘇格蘭高地的96兆瓦奇倫塞德（Chleansaid）風電場供應16臺6.1兆瓦-158米型陸上風電機組。"
+    },
+    {
+      "id": "5075432",
+      "time": "2026-09-03 19:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "金寶湯已啟動相關舉措，其中包括工廠關閉。"
+    },
+    {
+      "id": "5075431",
+      "time": "2026-09-03 19:17:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區烏蘭察布市委書記周凱接受紀律審查和監察調查】據內蒙古自治區紀委監委訊息：內蒙古自治區烏蘭察布市委書記周凱涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a066fc-55f9-7118-8482-1bba1f65c0c3",
+      "time": "2026-09-03 19:16:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY slipped below 156 to its weakest since Aug 3, down 1.70% intraday."
+    },
+    {
+      "id": "5075430",
+      "time": "2026-09-03 19:16:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "金寶湯股價在第四季度業績公佈後盤前下跌12%。"
+    },
+    {
+      "id": "mkt:01a066fc-3d85-7118-8482-15a0e33dcf01",
+      "time": "2026-09-03 19:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Blue Origin poaches at least 47 senior engineers from Amazon LEO project】LinkedIn profiles show Jeff Bezos' Blue Origin has hired at least 47 senior engineers from Amazon's LEO satellite project over the past year; many now list work on Blue Origin's emerging satellite-communications program, TeraWave. Amazon's LEO project plans to begin selling broadband to customers by year-end and ultimately target households, businesses and governments. Blue Origin, which announced TeraWave in January, is seeking regulatory approval to build a rival network of thousands of satellites aimed at enterprise and government clients with high-volume data-transfer needs that have typically required bespoke fiber connections."
+    },
+    {
+      "id": "5075429",
+      "time": "2026-09-03 19:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "金寶湯公司：2027財年業績指引未計入新關稅或現行關稅稅率調整帶來的任何影響。"
+    },
+    {
+      "id": "5075428",
+      "time": "2026-09-03 19:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部國際司司長沈健會見非盟人權磋商代表團】2026年9月3日，中國同非盟在北京舉行第五次人權磋商。外交部國際司司長沈健會見非盟委員會衝突預防司司長奇拉扎一行，就落實全球治理倡議、中非人權交流及多邊協作等深入交換意見。"
+    },
+    {
+      "id": "5075427",
+      "time": "2026-09-03 19:15:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026臺博會開幕，展覽規模創歷屆新高】9月3日，2026第十七屆東莞臺灣名品博覽會在廣東東莞開幕。本屆東莞臺博會以“智匯兩岸，鏈通全球”為主題，展覽面積達3.6萬平方米，匯聚600多家兩岸臺企，規模再創歷屆之最。本屆東莞臺博會最大亮點，是從“以地方布展”轉向“以產業鏈布展”，首次按產業規劃為電子產品等7大產業展區，參展圈層更廣、產業品類更全；全新打造的現代服務業展區，推動兩岸產業從“產品貿易”向“服務融合”升級。據瞭解，今年東莞臺博會組委會還重點打造臺灣館與“臺灣一條街”，集結島內22個縣市150家企業，以“一縣市一爆品”模式帶來高山茶、鳳梨酥、文旦柚等臺灣地道農漁產品，讓市民沉浸式感受寶島煙火。（看臺海）"
+    },
+    {
+      "id": "5075426",
+      "time": "2026-09-03 19:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合(501046)將於2026年9月4日開盤起至當日10:30停牌。納指ETF國泰(513100)將於2026年9月4日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "5075425",
+      "time": "2026-09-03 19:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠昊生物：向特定物件發行股票申請獲證監會同意註冊批覆】冠昊生物(300238)9月3日公告，公司近日收到中國證監會批覆，同意公司向特定物件發行股票的註冊申請。"
+    },
     {
       "id": "5075424",
       "time": "2026-09-03 19:13:47",
