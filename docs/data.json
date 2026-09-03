@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-03 08:49:21",
-  "count": 12068,
+  "updated": "2026-09-03 08:53:18",
+  "count": 12066,
   "items": [
+    {
+      "id": "mkt:01a064c0-8568-7118-8470-a481e37cbbe7",
+      "time": "2026-09-03 08:52:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has barred the Environmental Protection Agency from sending California’s landmark vehicle emissions standards to the Republican-controlled Congress, blocking a potential repeal."
+    },
+    {
+      "id": "te:markets:580628",
+      "time": "2026-09-03 08:51:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index fell 0.2% to around 64,200 while the broader Topix Index gained 0.7% to 4,110 in mixed trade on Thursday, with Japanese shares lacking clear direction as the yen suddenly strengthened amid speculation that authorities had conducted a rate check. A stronger yen weighs on the earnings outlook for Japan’s export-heavy industries and makes domestic assets more expensive for foreign investors. Meanwhile, equities found some support from a pullback in oil prices after President Donald Trump said the latest attacks on Iran would be short-lived. Global bond yields also retreated from recent highs as investors continued to assess the inflation and interest rate outlook. Among individual stocks, notable losses were recorded in tech firms such as Advantest (-1.6%), Fujikura (-1.2%) and Taiyo Yuden (-1.3%), while financial stocks gained, including Mitsubishi UFJ (1.5%), Sumitomo Mitsui (2.1%) and Mizuho Financial (1.5%)."
+    },
+    {
+      "id": "mkt:01a064be-39b3-7118-8470-9fb59741dd83",
+      "time": "2026-09-03 08:49:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "【Google wins key antitrust battle; ad business spared divestiture】A U.S. federal judge on Wednesday denied the Department of Justice's request to force divestiture of Alphabet's Google (GOOG.O) online advertising business. Judge Leonie Brinkema, who last year found Google had illegally monopolized the complex online advertising market, rejected the DOJ's argument that selling Google's ad exchange was the only way to curb its dominance and instead issued a two‑page order adopting alternative remedies to limit Google's ability to control publishers' use of its ad tech. The ruling is historically significant and effectively closes a nearly 20‑year chapter of antitrust risk for Google."
+    },
+    {
+      "id": "5074189",
+      "time": "2026-09-03 08:49:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李成鋼與維德角經濟、貿易、工業和數字轉型部部長巴普蒂斯塔舉行視訊會議】據商務部訊息，9月1日，李成鋼國際貿易談判代表兼副部長與維德角經濟、貿易、工業和數字轉型部部長巴普蒂斯塔舉行視訊會議，雙方就深化兩國經貿合作等議題進行溝通和交流。"
+    },
+    {
+      "id": "te:economy:580627",
+      "time": "2026-09-03 08:48:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Private Sector Expands Further — Singapore’s S&P Global PMI edged up to 59.4 in August 2026 from 59.2 in the previous month. The reading marked the strongest growth since May 2022, driven mainly by accelerated growth in new orders, which counterbalanced a weaker upturn in output that slowed to a 12-month low. Both capacity and input requirements increased as a result of greater volumes of incoming new work. Hiring activity picked up at a sharp rate, the strongest recorded since February. Still, firms were unable to keep pace with mounting workloads, as signalled by a steep rise in backlogged orders. Purchasing activity also increased. The lengthening of lead times was less severe than in July, despite ongoing supply-chain disruptions. On the cost front, both purchase prices and employment costs increased at elevated rates again in August. Lastly, business confidence rose to its highest level in four months amid upbeat projections for demand."
+    },
     {
       "id": "5074188",
       "time": "2026-09-03 08:48:16",
@@ -110849,68 +110903,6 @@
         "國際"
       ],
       "text": "【中情局局長突訪莫斯科警告俄羅斯不要襲擊北約】據報道，知情人士透露，美國中央情報局局長本週突訪莫斯科，此行目的是向俄羅斯發出警告，不得襲擊北約成員國。這是情報機構負責人約翰・拉特克利夫已知的首次莫斯科公開訪問。此前媒體曾報道，美國最新情報評估認為，俄羅斯未來數年可能會對某個北約盟國發動有限打擊，以此試探北約的決心。據報道，美國官員擔憂，俄羅斯可能發動襲擊，形式從網路攻擊到小規模地面入侵不等，目標很可能是某個波羅的海國家。受伊朗戰爭消耗影響，西方關鍵彈藥儲備不足，這一點也可能成為俄羅斯考量的因素。由於向烏克蘭輸送武器，加之伊朗衝突的消耗，美國部分武器庫存已出現下降。"
-    },
-    {
-      "id": "5061120",
-      "time": "2026-08-27 08:53:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日均服務400萬餘人次 全國老年助餐點達8.2萬家 】 從民政部瞭解到，截至目前，全國老年助餐點達到8.2萬家，日均服務達400萬餘人次，為進一步完善老年助餐服務體系，下一步將透過拓寬參與渠道、創新獎勵機制等措施，引導社會力量參與助餐服務，逐步形成覆蓋城鄉、佈局合理的助餐服務網路。"
-    },
-    {
-      "id": "5061119",
-      "time": "2026-08-27 08:52:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲以色列停止約旦河西岸定居點招標 】當地時間26日，安理會審議中東和巴勒斯坦局勢。中方代表在發言中指出，以色列近日強行啟動約旦河西岸“E1區”定居點建設招標，嚴重破壞巴勒斯坦領土完整和“兩國方案”基礎，必須立即停止。國際社會必須及時制止對巴勒斯坦人民的進一步傷害，挽救“兩國方案”的政治前景，盡最大努力爭取持久和平。 中國常駐聯合國代表傅聰表示，要全力維護加沙停火，早日恢復和平穩定；要制止暴力和吞併行徑，緩和約旦河西岸緊張局勢；要捍衛國際公平正義，推動落實“兩國方案”。事實已清楚表明，加沙持久和平迄今未實現的根本癥結，是缺少實現和平的政治意願，最大阻礙是蓄意延續戰事的危險企圖。"
-    },
-    {
-      "id": "5061118",
-      "time": "2026-08-27 08:52:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【欣旺達：下半年物料價格上漲帶來的負面影響預計邊際減弱】 欣旺達(300207)8月26日在機構電話會議上表示，2026年上半年，儲存等相關物料價格上漲，壓制了消費電子行業終端需求。展望下半年，物料價格上漲帶來的負面影響預計邊際減弱，制約行業需求復甦的核心因素有望一定程度上減弱。同時，AI智慧硬體等新興市場需求仍將持續引領行業增長。"
-    },
-    {
-      "id": "5061117",
-      "time": "2026-08-27 08:52:13",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預測 2026 年 CPI 為 2.7%，與 5 月份的預測值 2.7% 持平；預測2027年通脹率為2.3%。"
-    },
-    {
-      "id": "5061116",
-      "time": "2026-08-27 08:51:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上升1.5個基點，至2.160%。"
-    },
-    {
-      "id": "5061115",
-      "time": "2026-08-27 08:51:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預計2026年GDP增長率為3.3%；此前預測為2.6%。"
-    },
-    {
-      "id": "5061114",
-      "time": "2026-08-27 08:50:11",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國央行將基準利率從 2.75%上調至3.00%。"
     }
   ]
 }
