@@ -1,7 +1,107 @@
 {
   "date": "2026-09-03",
-  "count": 943,
+  "count": 954,
   "items": [
+    {
+      "id": "mkt:01a0651a-6197-7118-8473-894eac18e679",
+      "time": "2026-09-03 10:30:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract fell more than 7.00% intraday to 1830.0 points."
+    },
+    {
+      "id": "5074372",
+      "time": "2026-09-03 10:30:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國將把國有天然氣和石油公司合併為一家。"
+    },
+    {
+      "id": "5074371",
+      "time": "2026-09-03 10:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1830.00點。"
+    },
+    {
+      "id": "5074370",
+      "time": "2026-09-03 10:29:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊短線走高】房地產板塊短線走高，信達地產漲停，光大嘉寶、華髮股份、綠地控股、金融街、金地集團等紛紛走高。"
+    },
+    {
+      "id": "5074369",
+      "time": "2026-09-03 10:29:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代摩比斯在斯洛伐克啟動電驅系統量產，年產能達28萬套】當地時間9月2日，現代摩比斯宣佈，其位於斯洛伐克諾瓦基的新工廠正式啟動電驅動（PE）系統大規模量產，這是公司在歐洲首座PE系統生產基地，也是其在歐洲的第三座電動化生產基地。PE系統整合電機、逆變器和減速器等核心部件。現代摩比斯稱，該工廠佔地約10.6萬平方米，總投資約2500億韓元，年產能最高達28萬套PE系統，將向現代汽車、起亞及其他全球汽車製造商供應產品。"
+    },
+    {
+      "id": "mkt:01a06519-ab09-7118-8473-82cc248d2331",
+      "time": "2026-09-03 10:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vietnam August rice exports fall 16% YoY to 544,000 tonnes; revenue down 34.7% to $280m】Vietnam's August rice exports fell 16% YoY to 544,000 tonnes, while export revenue declined 34.7% YoY to $280 million, the General Statistics Office said on Thursday."
+    },
+    {
+      "id": "mkt:01a06519-7a74-7118-8473-7889ce272f79",
+      "time": "2026-09-03 10:29:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Nanjing Tianchuang, Daimeng Robotics sign 100 mln yuan strategic cooperation framework】Nanjing Tianchuang Intelligent Technology Co. and Daimeng Robotics Technology Co. signed a 100 mln yuan strategic cooperation framework. The companies will jointly upgrade and develop next‑generation embodied intelligent robots with tactile sensing, flexible precision manipulation and precise environmental recognition for special scenarios including firefighting, defense, power grid, mining and explosion‑proof chemical applications."
+    },
+    {
+      "id": "mkt:01a06518-2705-7118-8473-774e0190971a",
+      "time": "2026-09-03 10:27:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000022.SZ",
+        "Impact bullish",
+        "000002.SZ"
+      ],
+      "text": "China A-share property sector staged a brief rebound; China Merchants Shekou jumped over 6%, and Poly Developments, Huafa, Binjiang Group, Cinda Real Estate and Vanke A also advanced."
+    },
+    {
+      "id": "5074368",
+      "time": "2026-09-03 10:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中新將舉行“海上合作-2026”聯演】9月上旬，中國和新加坡海軍將在廣東湛江附近海空域舉行“海上合作-2026”聯演，組織實彈射擊、海上補給、聯合搜救等科目演練，旨在進一步增進雙方互信，促進務實合作，提升共同維護地區和平穩定的能力。"
+    },
+    {
+      "id": "5074367",
+      "time": "2026-09-03 10:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動據悉獲得近300億美元貸款，規模為亞洲今年以來第二大。"
+    },
+    {
+      "id": "mkt:01a06517-36ee-7118-8473-69cc4eb5fab1",
+      "time": "2026-09-03 10:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kioxia to begin delivering CXL memory-module samples to hyperscale data-center operators shortly."
+    },
     {
       "id": "mkt:01a06516-acc7-7118-8473-635aac7242b7",
       "time": "2026-09-03 10:26:19",

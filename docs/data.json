@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-03 10:27:07",
-  "count": 12070,
+  "updated": "2026-09-03 10:31:14",
+  "count": 12060,
   "items": [
+    {
+      "id": "mkt:01a0651a-6197-7118-8473-894eac18e679",
+      "time": "2026-09-03 10:30:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract fell more than 7.00% intraday to 1830.0 points."
+    },
+    {
+      "id": "5074372",
+      "time": "2026-09-03 10:30:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國將把國有天然氣和石油公司合併為一家。"
+    },
+    {
+      "id": "5074371",
+      "time": "2026-09-03 10:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1830.00點。"
+    },
+    {
+      "id": "5074370",
+      "time": "2026-09-03 10:29:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊短線走高】房地產板塊短線走高，信達地產漲停，光大嘉寶、華髮股份、綠地控股、金融街、金地集團等紛紛走高。"
+    },
+    {
+      "id": "5074369",
+      "time": "2026-09-03 10:29:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代摩比斯在斯洛伐克啟動電驅系統量產，年產能達28萬套】當地時間9月2日，現代摩比斯宣佈，其位於斯洛伐克諾瓦基的新工廠正式啟動電驅動（PE）系統大規模量產，這是公司在歐洲首座PE系統生產基地，也是其在歐洲的第三座電動化生產基地。PE系統整合電機、逆變器和減速器等核心部件。現代摩比斯稱，該工廠佔地約10.6萬平方米，總投資約2500億韓元，年產能最高達28萬套PE系統，將向現代汽車、起亞及其他全球汽車製造商供應產品。"
+    },
+    {
+      "id": "mkt:01a06519-ab09-7118-8473-82cc248d2331",
+      "time": "2026-09-03 10:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vietnam August rice exports fall 16% YoY to 544,000 tonnes; revenue down 34.7% to $280m】Vietnam's August rice exports fell 16% YoY to 544,000 tonnes, while export revenue declined 34.7% YoY to $280 million, the General Statistics Office said on Thursday."
+    },
+    {
+      "id": "mkt:01a06519-7a74-7118-8473-7889ce272f79",
+      "time": "2026-09-03 10:29:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Nanjing Tianchuang, Daimeng Robotics sign 100 mln yuan strategic cooperation framework】Nanjing Tianchuang Intelligent Technology Co. and Daimeng Robotics Technology Co. signed a 100 mln yuan strategic cooperation framework. The companies will jointly upgrade and develop next‑generation embodied intelligent robots with tactile sensing, flexible precision manipulation and precise environmental recognition for special scenarios including firefighting, defense, power grid, mining and explosion‑proof chemical applications."
+    },
+    {
+      "id": "mkt:01a06518-2705-7118-8473-774e0190971a",
+      "time": "2026-09-03 10:27:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000022.SZ",
+        "Impact bullish",
+        "000002.SZ"
+      ],
+      "text": "China A-share property sector staged a brief rebound; China Merchants Shekou jumped over 6%, and Poly Developments, Huafa, Binjiang Group, Cinda Real Estate and Vanke A also advanced."
+    },
+    {
+      "id": "5074368",
+      "time": "2026-09-03 10:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中新將舉行“海上合作-2026”聯演】9月上旬，中國和新加坡海軍將在廣東湛江附近海空域舉行“海上合作-2026”聯演，組織實彈射擊、海上補給、聯合搜救等科目演練，旨在進一步增進雙方互信，促進務實合作，提升共同維護地區和平穩定的能力。"
+    },
+    {
+      "id": "5074367",
+      "time": "2026-09-03 10:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動據悉獲得近300億美元貸款，規模為亞洲今年以來第二大。"
+    },
+    {
+      "id": "mkt:01a06517-36ee-7118-8473-69cc4eb5fab1",
+      "time": "2026-09-03 10:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kioxia to begin delivering CXL memory-module samples to hyperscale data-center operators shortly."
+    },
     {
       "id": "mkt:01a06516-acc7-7118-8473-635aac7242b7",
       "time": "2026-09-03 10:26:19",
@@ -110854,185 +110954,6 @@
         "Impact bullish"
       ],
       "text": "China A-share defense/military-equipment sector surged intraday; Chengfei Integration hit the daily limit-up, with Guangdian, AVIC Chengfei, AVIC Shenyang, Beifang Changlong and Lijun Shares quickly following higher."
-    },
-    {
-      "id": "mkt:01a0410e-534e-7aab-913f-90c527324016",
-      "time": "2026-08-27 10:30:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea governor said those who dissented on Thursday's rate decision have 'strategic' differences in economic views."
-    },
-    {
-      "id": "5061328",
-      "time": "2026-08-27 10:30:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：預計中期內通脹率將更接近目標水平。"
-    },
-    {
-      "id": "5061327",
-      "time": "2026-08-27 10:30:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "申鉉松：注意到國債收益率正在走低，將此解讀為市場對週四利率決定作出積極回應。"
-    },
-    {
-      "id": "mkt:01a0410d-f1a7-7aab-913f-88b3aadcc3cb",
-      "time": "2026-08-27 10:30:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea governor says monetary policy alone cannot stabilize housing prices."
-    },
-    {
-      "id": "mkt:01a0410d-e394-7aab-913f-829b0b5cb871",
-      "time": "2026-08-27 10:30:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea governor says the central bank will take active measures to prevent inf pressures from spreading."
-    },
-    {
-      "id": "5061326",
-      "time": "2026-08-27 10:30:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網易有道釋出首款面向iPhone使用者的Agent耳機 今日開啟預售】記者獲悉，今日網易有道將正式釋出OpenPods有道AI耳機，即首款專為iPhone使用者打造的Agent耳機。據悉，OpenPods依託蘋果MFi認證、獨立智慧耳機艙和AI Agent能力，將錄音、轉寫、翻譯、總結、問答和知識管理整合到同一工作流程，覆蓋會議辦公、跨語言溝通和內容整理等高頻場景。OpenPods單隻耳機重約7克，音樂播放場景下耳機單次續航最長8小時，搭配耳機艙可達32小時。OpenPods於今日開啟預售，將於9月10日正式發售，提供黑色、白色兩款配色。（財聯社）"
-    },
-    {
-      "id": "5061325",
-      "time": "2026-08-27 10:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙商證券：AI製藥重塑科學研究正規化 長期關注能夠持續迭代研發平臺】浙商證券釋出研報稱，藥品研發行業正在經歷類似的產業變革：生物化學大模型數量爆發式增長，生物基礎模型經過多次迭代，實現了能力的大幅提升。AI製藥行業發展邏輯正在從科學家決策到智慧化自主決策驗證的新階段，科學研究的正規化可能被重塑，平臺價值在提升。長期來看，建議關注能夠持續迭代的研發平臺。"
-    },
-    {
-      "id": "5061324",
-      "time": "2026-08-27 10:29:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：週四利率決議異議者對經濟前景的看法存在“策略性”分歧 。"
-    },
-    {
-      "id": "mkt:01a0410d-7a80-7aab-913f-7a47f0a485cb",
-      "time": "2026-08-27 10:29:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PHILIPPINE C.BANK governor said he expects inflation to be closer to target in the medium term, remains vigilant to persistent risks to the inflation outlook and stands ready to act at any time to fulfill the bank’s mandate."
-    },
-    {
-      "id": "mkt:01a0410d-64cf-7aab-913f-76fe661e748e",
-      "time": "2026-08-27 10:29:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Capital Economics: Strong Australian household spending could reinforce RBA hawkish tilt】Capital Economics economist Abhijit Surya says Australian household spending rebounded strongly in July and could reinforce the RBA's hawkish tilt, though current data are insufficient to prompt further rate hikes. He adds household spending is likely to record the largest quarterly increase in four years and to exceed the RBA's recent forecasts."
-    },
-    {
-      "id": "5061323",
-      "time": "2026-08-27 10:29:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：單靠貨幣政策無法抑制房價。"
-    },
-    {
-      "id": "mkt:01a0410c-cb73-7aab-913f-68b811427796",
-      "time": "2026-08-27 10:29:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Bank of Korea governor said the recent won rebound should help lower import costs and the won may strengthen further against the US dollar."
-    },
-    {
-      "id": "5061322",
-      "time": "2026-08-27 10:28:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "申鉉松：政策應對或將助推韓元進一步走強。"
-    },
-    {
-      "id": "5061321",
-      "time": "2026-08-27 10:28:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰海通：受益平臺生態最佳化 酒店業仍有拓店空間】國泰海通釋出研報稱，酒店板塊目前估值和市值均處於歷史週期底部區域，龍頭依然有較大拓店空間。行業連鎖化率將比預期更高，頭部酒店在產品、規模、效率、品牌維度的優勢還在擴大。OTA生態最佳化讓利要素端和從業者，更利於產業鏈利潤分配階段性利好連鎖酒店龍頭。"
-    },
-    {
-      "id": "5061320",
-      "time": "2026-08-27 10:28:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：早期政策行動有助於穩定外匯市場。"
-    },
-    {
-      "id": "mkt:01a0410b-bc31-7aab-913f-67ddce055f10",
-      "time": "2026-08-27 10:28:03",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Korea governor said USD/KRW remains elevated."
-    },
-    {
-      "id": "mkt:01a0410b-b8a3-7aab-913f-5a97b6c6ec78",
-      "time": "2026-08-27 10:28:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rhinovirus vaccine Phase I posts encouraging preliminary results】Imperial College London said its candidate rhinovirus vaccine APL-10456 produced encouraging preliminary Phase I results. A single dose was well tolerated and elicited immune responses against the three major rhinovirus groups. The randomized, placebo-controlled Phase I enrolled 144 healthy volunteers; the first stage tested three single-dose levels in 18–54-year-olds, assessing safety, tolerability and immunogenicity. A second stage is evaluating a two-dose regimen in adults 55 and older, with additional data expected in Q4."
-    },
-    {
-      "id": "5061319",
-      "time": "2026-08-27 10:27:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "申鉉松：韓國外匯市場已在一定程度上趨於穩定。"
-    },
-    {
-      "id": "mkt:01a0410b-9e08-7aab-913f-574306adba2f",
-      "time": "2026-08-27 10:27:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea governor says pre-emptive action in the FX market can reduce the cost of maintaining market stability."
-    },
-    {
-      "id": "5061318",
-      "time": "2026-08-27 10:27:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：美元/韓元匯率水平仍高。"
-    },
-    {
-      "id": "5061317",
-      "time": "2026-08-27 10:27:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長雷莫洛納：關注油價的第二輪影響。"
     }
   ]
 }
