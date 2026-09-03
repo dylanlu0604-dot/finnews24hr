@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-04 06:30:28",
-  "count": 13009,
+  "updated": "2026-09-04 06:34:25",
+  "count": 13006,
   "items": [
+    {
+      "id": "te:markets:581056",
+      "time": "2026-09-04 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.34% — Top commodity losers are Natural Gas UK (-3.34%), Natural Gas EU (-2.90%) and Germany Natural Gas THE (-2.75%). Gains are led by Gasoline (1.74%), Liquefied Natural Gas Japan Korea (1.39%), Coking Coal (0.92%), Crude Oil (0.83%) and Brent Oil (0.14%)."
+    },
     {
       "id": "5076333",
       "time": "2026-09-04 06:29:07",
@@ -119484,49 +119495,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 1.93% — Top commodity gainers are Silver (1.93%), Steel Rebar (0.84%) and Gold (0.33%)."
-    },
-    {
-      "id": "mkt:01a0455b-fb7b-7aab-915b-e74278e1995b",
-      "time": "2026-08-28 06:34:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said Iran is a failed state."
-    },
-    {
-      "id": "mkt:01a0455a-db60-7aab-915b-dceceeaa7305",
-      "time": "2026-08-28 06:32:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reports a senior White House aide had no knowledge of CIA Director Ratcliffe's trip to Russia."
-    },
-    {
-      "id": "5063487",
-      "time": "2026-08-28 06:32:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國南方司令部：今日，美洲反卡特爾聯盟多位高層官員同精銳部隊一道現身厄瓜多聖洛倫索，進一步完善聯合行動方案，旨在打擊販毒集團活動並清剿其頭目。"
-    },
-    {
-      "id": "mkt:01a04559-7b65-7aab-915b-d49eccea7c3e",
-      "time": "2026-08-28 06:31:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bearish"
-      ],
-      "text": "【FTC probing YouTube over account suspensions, sources say】The U.S. Federal Trade Commission (FTC) is investigating YouTube, owned by Alphabet, for possible violations of consumer-protection law in its handling of account suspensions and reductions in content visibility, people familiar with the matter said. The probe, opened last year, has entered final stages as the agency prepares potential litigation, the sources said. Investigators are focused on whether YouTube breached its own user policies when banning or demoting content and whether its content rules may have misled users into posting material that was later removed or that led to account suspensions."
     }
   ]
 }

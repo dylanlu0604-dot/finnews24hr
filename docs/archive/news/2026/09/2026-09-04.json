@@ -1,7 +1,18 @@
 {
   "date": "2026-09-04",
-  "count": 434,
+  "count": 435,
   "items": [
+    {
+      "id": "te:markets:581056",
+      "time": "2026-09-04 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.34% — Top commodity losers are Natural Gas UK (-3.34%), Natural Gas EU (-2.90%) and Germany Natural Gas THE (-2.75%). Gains are led by Gasoline (1.74%), Liquefied Natural Gas Japan Korea (1.39%), Coking Coal (0.92%), Crude Oil (0.83%) and Brent Oil (0.14%)."
+    },
     {
       "id": "5076333",
       "time": "2026-09-04 06:29:07",
