@@ -1,7 +1,110 @@
 {
-  "updated": "2026-09-03 09:35:07",
-  "count": 12106,
+  "updated": "2026-09-03 09:39:08",
+  "count": 12100,
   "items": [
+    {
+      "id": "mkt:01a064ea-56a2-7118-8472-101e28b756ae",
+      "time": "2026-09-03 09:37:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares ground armament sector pulled back; Beifang Changlong fell over 6%, while Tianqin Equipment, Jieqiang Equipment, Ganhua Kegong and Jianshe Industrial also declined."
+    },
+    {
+      "id": "te:markets:580643",
+      "time": "2026-09-03 09:37:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 8822.00 JPY. Over the past 4 weeks, Mizuho Financial gained 8.41%, and in the last 12 months, it increased 83.88%."
+    },
+    {
+      "id": "mkt:01a064ea-2f33-7118-8472-09a15ed08a86",
+      "time": "2026-09-03 09:37:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Kuwait News Agency, alarms sounded nationwide."
+    },
+    {
+      "id": "5074277",
+      "time": "2026-09-03 09:37:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率上漲0.3%，至158.27。"
+    },
+    {
+      "id": "5074276",
+      "time": "2026-09-03 09:36:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【地面兵裝板塊持續走低】地面兵裝板塊持續走低，北方長龍跌超6%，天秦裝備、捷強裝備、甘化科工、建設工業等跟跌。"
+    },
+    {
+      "id": "5074275",
+      "time": "2026-09-03 09:36:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股走強 潼關黃金漲超5%】截至發稿，潼關黃金(00340.HK)漲5.15%，紫金黃金國際(00815.HK)漲3.48%，中國黃金國際(02099.HK)漲3.06%，山東黃金(01787.HK)漲2.73%。"
+    },
+    {
+      "id": "5074274",
+      "time": "2026-09-03 09:36:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方：目前正在應對導彈和無人機威脅。"
+    },
+    {
+      "id": "5074273",
+      "time": "2026-09-03 09:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.06%，成分股中，同惠電子跌4.36%，科力股份跌4.09%，天工股份跌3.65%，五新智慧跌3.25%。"
+    },
+    {
+      "id": "5074272",
+      "time": "2026-09-03 09:35:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電網裝置板塊延續強勢 太陽電纜2連板】電網裝置板塊延續昨日強勢，太陽電纜2連板，望變電氣、泓淋電力、百利電氣、金盤科技、漢纜股份跟漲。"
+    },
+    {
+      "id": "5074271",
+      "time": "2026-09-03 09:35:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7616.40點。"
+    },
+    {
+      "id": "mkt:01a064e7-beaf-7118-8472-037b6f425c4c",
+      "time": "2026-09-03 09:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300"
+      ],
+      "text": "China's August RatingDog services PMI due in 10 minutes."
+    },
     {
       "id": "mkt:01a064e6-fdb1-7118-8471-fa582bbdc784",
       "time": "2026-09-03 09:34:14",
@@ -111229,157 +111332,6 @@
         "公司"
       ],
       "text": "【深中華A投資成立智數科技公司 含多項AI業務】企查查APP顯示，深圳市阿米尼智數科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧公共服務平臺技術諮詢服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由深中華A(000017)旗下深圳市阿米尼實業有限公司全資持股。"
-    },
-    {
-      "id": "5061211",
-      "time": "2026-08-27 09:39:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國人民銀行西藏自治區分行開通國庫資金匯劃“綠色通道”】從中國人民銀行瞭解到，西藏吉隆泥石流災害發生後，中國人民銀行快速響應，西藏自治區分行組織轄內國庫全力做好救災服務保障工作。西藏自治區、日喀則市、吉隆縣三級國庫立即啟動突發事件應急機制，開通國庫資金匯劃“綠色通道”，同時建立“財庫銀”協同工作機制，提供7×24小時資金劃撥支援，以“即來、即審、即辦”為原則，全力保障救災資金及時準確撥付到位。截至8月26日20時，國家金庫西藏自治區分庫向日喀則市中心支庫撥付救災資金30億元，日喀則市中心支庫向吉隆縣代理支庫撥付救災資金6億元。"
-    },
-    {
-      "id": "5061210",
-      "time": "2026-08-27 09:38:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光伏裝置板塊再度走弱 陽光電源跌超8%】光伏裝置板塊再度走弱，陽光電源跌超8%，錦浪科技、晶科能源、華民股份、德業股份跟跌。"
-    },
-    {
-      "id": "5061209",
-      "time": "2026-08-27 09:38:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光通訊概念走高 杭電股份等漲停】光通訊概念走高，杭電股份、法爾勝、青山紙業漲停，炬光科技、長飛光纖、亨通光電等漲幅居前。"
-    },
-    {
-      "id": "5061208",
-      "time": "2026-08-27 09:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：在引導政策時我們必須考慮各種因素。"
-    },
-    {
-      "id": "te:markets:578420",
-      "time": "2026-08-27 09:38:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Climb on Nvidia Boost — The benchmark KOSPI climbed more than 1% to around 6,900 on Thursday, extending gains for a third straight session, supported by stronger-than-expected Nvidia earnings. Nvidia's revenue more than doubled in the second quarter, and its forecast for fiscal 2028 income growth of 70% exceeded analyst expectations, easing concerns over AI and semiconductor demand. Semiconductor stocks led the advance, with Samsung Electronics and SK hynix rising over 1% and 2%, respectively. Other notable performers included LG Energy Solution (3.9%), Hanwha Aerospace (2.7%), KB Financial Group (1.8%), Shinhan Financial Group (2.2%), and HD Hyundai Heavy Industries (1.1%). Additionally, the Bank of Korea raised its 2026 growth forecast to 3.3% from 2.6%, citing stronger-than-expected semiconductor exports and a robust economic recovery. However, the central bank also raised its benchmark interest rate by 25 basis points to 3%, marking a second consecutive hike amid persistent inflationary pressures."
-    },
-    {
-      "id": "5061207",
-      "time": "2026-08-27 09:37:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀洽談以60億美元估值收購人形機器人製造商1X多數股權。"
-    },
-    {
-      "id": "5061206",
-      "time": "2026-08-27 09:37:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "冰見野良三：如果基礎通脹率向上偏離至超過2%物價穩定目標的水平，將對經濟產生不利影響。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608273855839494",
-      "time": "2026-08-27 09:37:42",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行副行長冰見野良三稱，將根據經濟、物價和金融狀況繼續加息。加息的時機和節奏將取決於經濟前景能否實現。如果物價趨勢高於2%，需要關注物價上行風險；對上行風險的關注程度將高於以往。"
-    },
-    {
-      "id": "5061205",
-      "time": "2026-08-27 09:37:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧：電子相關行業利潤高速增長】國家統計局工業司首席統計師於衛寧解讀2026年1—7月份工業企業利潤資料，1—7月份，電子行業利潤同比增長1.1倍，拉動全部規模以上工業企業利潤增長9.3個百分點，是規模以上工業企業利潤較快增長的主要支撐。其中，以算力晶片、儲存晶片為代表的積體電路行業利潤同比增長18.5倍，對全部電子行業利潤增長貢獻率超過八成。其他相關行業中，與計算機、伺服器相關的計算機整機制造、計算機外圍裝置製造、工業控制計算機及系統製造行業利潤分別增長3.3倍、2.5倍、1.6倍；電子器件製造和電子元件製造領域中，電子專用材料製造、半導體分立器件製造、電子電路製造行業利潤分別增長226.8%、45.8%、37.1%。"
-    },
-    {
-      "id": "5061204",
-      "time": "2026-08-27 09:37:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "迅銷：計劃於2026年在上海改造多家優衣庫門店。"
-    },
-    {
-      "id": "5061203",
-      "time": "2026-08-27 09:36:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行冰見野良三：認為日本央行應繼續上調政策利率，並根據經濟活動、物價及金融狀況的變化調整貨幣寬鬆程度。"
-    },
-    {
-      "id": "5061202",
-      "time": "2026-08-27 09:36:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長冰見野良三：將根據經濟、物價和金融狀況繼續加息。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608273855829128",
-      "time": "2026-08-27 09:36:42",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—7月份光纖製造、光纜製造、通訊系統裝置製造行業利潤分別增長468.4%、62.6%、55.0%】國家統計局工業司首席統計師於衛寧表示，1—7月份，製造業向產業鏈、價值鏈中高階轉型持續推進，規模以上高技術製造業利潤同比增長50.1%，拉動全部規模以上工業企業利潤增長9.6個百分點。從行業看，電子及通訊裝置製造領域中，光纖製造、光纜製造、通訊系統裝置製造行業利潤分別增長468.4%、62.6%、55.0%。"
-    },
-    {
-      "id": "5061201",
-      "time": "2026-08-27 09:36:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：工資增長是通脹不確定性的來源。"
-    },
-    {
-      "id": "5061200",
-      "time": "2026-08-27 09:36:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：1-7月以算力晶片、儲存晶片為代表的積體電路行業利潤同比增長18.5倍】國家統計局工業司首席統計師於衛寧解讀2026年1—7月份工業企業利潤資料。電子相關行業利潤高速增長。隨著“人工智慧+”加快拓展、算力需求持續擴張，相關產品需求增加拉動價格上漲，帶動與人工智慧生產和應用相關的電子行業利潤高速增長。1—7月份，電子行業利潤同比增長1.1倍，拉動全部規模以上工業企業利潤增長9.3個百分點，是規模以上工業企業利潤較快增長的主要支撐。其中，以算力晶片、儲存晶片為代表的積體電路行業利潤同比增長18.5倍，對全部電子行業利潤增長貢獻率超過八成。其他相關行業中，與計算機、伺服器相關的計算機整機制造、計算機外圍裝置製造、工業控制計算機及系統製造行業利潤分別增長3.3倍、2.5倍、1.6倍。"
-    },
-    {
-      "id": "5061199",
-      "time": "2026-08-27 09:35:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：今天的利率決定並非一致透過，7名貨幣政策委員會委員中有1人投票支援按兵不動。韓國央行將實施貨幣政策以使通脹穩定在目標水平。委員會將決定進一步加息的時機與節奏。"
-    },
-    {
-      "id": "te:economy:578416",
-      "time": "2026-08-27 09:35:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Capital Expenditure",
-        "Importance 1"
-      ],
-      "text": "Australia Building Capex Rebounds in Q2 — Private new capital expenditure on buildings and structures in Australia grew 2.1% quarter-on-quarter in Q2 2026, recovering from a downwardly revised 3.3% rise in Q1. Continued activity in data centre construction to expand capacity, along with the start of new renewable energy projects, drove the expansion. By industry, spending on buildings and structures posted growth in information media and telecommunications (17.7%), professional, scientific and technical services (17.2%), electricity, gas, water and waste services (7.8%), health care and social assistance (4.4%), rental, hiring and real estate services (2.3%), and manufacturing (1.5%). “ There was additional strength in buildings and structures capex driven by the commencement of several large wind, solar, and battery energy storage system projects.” Tom Lay, ABS head of business statistics, said. On an annual basis, private new capital expenditure on buildings and structures expanded 3.8%."
     }
   ]
 }
