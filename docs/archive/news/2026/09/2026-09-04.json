@@ -1,7 +1,1287 @@
 {
   "date": "2026-09-04",
-  "count": 28,
+  "count": 164,
   "items": [
+    {
+      "id": "mkt:01a06892-ebde-7118-848f-858989304674",
+      "time": "2026-09-04 02:40:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance's White House press conference has concluded."
+    },
+    {
+      "id": "5076055",
+      "time": "2026-09-04 02:40:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "副總統萬斯結束白宮新聞釋出會。"
+    },
+    {
+      "id": "mkt:01a06891-ce05-7118-848f-7c68cd4be1c4",
+      "time": "2026-09-04 02:39:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "President Trump said artificial intelligence has some negative effects and that those issues will be resolved."
+    },
+    {
+      "id": "mkt:01a06891-b952-7118-848f-711807006178",
+      "time": "2026-09-04 02:39:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said data centers are great."
+    },
+    {
+      "id": "5076051",
+      "time": "2026-09-04 02:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：資料中心太棒了。"
+    },
+    {
+      "id": "mkt:01a06890-9d79-7118-848f-6bae95aa2757",
+      "time": "2026-09-04 02:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Business Insider reports Zuckerberg told Trump he opposes creating a national AI regulatory agency."
+    },
+    {
+      "id": "5076050",
+      "time": "2026-09-04 02:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧存在一些弊端，這些問題將會得到解決。"
+    },
+    {
+      "id": "te:economy:581048",
+      "time": "2026-09-04 02:38:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Inflation Edges Higher in August — Uruguay’s annual inflation rate edged up to 4.55% in August 2026 from 4.27% in June. The largest price increases were recorded in transportation (7.06%), education services (7.02%), restaurants and accommodation services (6.78%), and health (6.52%). Housing-related costs also rose significantly, by 5.13%. Food and non-alcoholic beverages increased 3.14%, while alcoholic beverages, tobacco and narcotics rose 2.98%. In contrast, clothing and footwear fell 6.21%, making it the only category to record deflation. On a monthly basis, consumer prices rose 0.24%, bringing year-to-date inflation to 3.65%."
+    },
+    {
+      "id": "mkt:01a0688f-9748-7118-848f-610675446744",
+      "time": "2026-09-04 02:37:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's state oil marketing body SOMO said Iraq's oil revenue in August was about $4.5 billion."
+    },
+    {
+      "id": "5076049",
+      "time": "2026-09-04 02:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士：扎克伯格與特朗普於8月17日所在周通了電話，扎克伯格告知特朗普，其反對設立全國性人工智慧監管機構。"
+    },
+    {
+      "id": "mkt:01a0688e-e420-7118-848f-596b004375c6",
+      "time": "2026-09-04 02:36:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's State Organization for Marketing of Oil (SOMO) said August oil exports were 73 million barrels, the highest level since the Iran-Iraq War."
+    },
+    {
+      "id": "5076048",
+      "time": "2026-09-04 02:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克國家石油銷售組織（SOMO）：伊拉克 8 月石油出口 7300 萬桶，創伊朗衝突以來最高水平。伊拉克 8 月石油收入約 45 億美元。"
+    },
+    {
+      "id": "mkt:01a0688d-03c3-7118-848f-55edb9d01ccd",
+      "time": "2026-09-04 02:34:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says debris from a drone fell near a shop in the Darnytskyi district, with possible casualties."
+    },
+    {
+      "id": "mkt:01a0688b-b147-7118-848f-4baeaac44254",
+      "time": "2026-09-04 02:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Vance: Fed should cut rates; inf data support the move】U.S. Vice President Vance said the Fed should cut rates, saying that, based on inf data, a Fed cut would be \"appropriate and responsible\" and that current data support the Fed taking such action."
+    },
+    {
+      "id": "5076047",
+      "time": "2026-09-04 02:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團：監事會批准集團全面未來發展規劃。"
+    },
+    {
+      "id": "mkt:01a0688a-0e85-7118-848f-46732dd58d40",
+      "time": "2026-09-04 02:31:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session front-month contracts close】As of the 02:30 close, SHFE gold front-month contract rose 2.03% to 971 yuan/gram; SHFE silver front-month contract rose 2.88% to 16,419 yuan/kg; SC crude oil front-month contract fell 1.78% to 679 yuan/barrel."
+    },
+    {
+      "id": "5076046",
+      "time": "2026-09-04 02:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報91.30美元/桶。NYMEX 10月天然氣期貨收報2.9130美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.1349美元/加侖，NYMEX 10月取暖油期貨收報4.5936美元/加侖。"
+    },
+    {
+      "id": "mkt:01a06889-df7f-7118-848f-38cc1f3220fc",
+      "time": "2026-09-04 02:31:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.75% at 968.71 yuan/gram in the night session on Sept 3. Silver T+D closed up 1.85% at 16,280 yuan/kg."
+    },
+    {
+      "id": "mkt:01a06889-d2a3-7118-848f-33b858ef5f6d",
+      "time": "2026-09-04 02:30:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $91.30/bbl, up $0.29, or 0.32%."
+    },
+    {
+      "id": "te:markets:581047",
+      "time": "2026-09-04 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates largely by 8.14% — Top crypto gainers are XRP (8.14%), Bitcoin (4.74%), Binance (4.68%) and Ether (4.55%)."
+    },
+    {
+      "id": "5076045",
+      "time": "2026-09-04 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.78%，報678.60元人民幣/桶。滬金夜盤收漲2.03%，滬銀收漲2.88%。"
+    },
+    {
+      "id": "mkt:01a06888-1195-7118-848f-2cf90bb36391",
+      "time": "2026-09-04 02:29:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he did not know whether the UK had the capability to take action in the Falkland Islands."
+    },
+    {
+      "id": "mkt:01a06887-7164-7118-848f-2152a87354fa",
+      "time": "2026-09-04 02:28:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said he is confident the U.S. can ensure homeland security after Iran's attempted cyberattacks."
+    },
+    {
+      "id": "5076044",
+      "time": "2026-09-04 02:28:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國當時並未出手幫我。"
+    },
+    {
+      "id": "mkt:01a06886-cc4b-7118-848f-1e7b4ed3e11a",
+      "time": "2026-09-04 02:27:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the UK did not come to his aid."
+    },
+    {
+      "id": "5076043",
+      "time": "2026-09-04 02:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列防長威脅讓伊朗回到石器時代】以色列國防部長卡茨9月3日在國防部舉行的一場活動上威脅稱，如果伊朗對以色列發動襲擊，以色列將擺脫所有限制和束縛，打擊包括能源設施在內的伊朗所有基礎設施，“讓伊朗回到石器時代和黑暗之中”。卡茨表示，“以色列在防禦和進攻兩方面都已為各種可能性做好準備，以軍也已準備好執行這些任務。” 另據以色列國防部長辦公室證實，卡茨當天與以軍總參謀長扎米爾及其他高階軍事和安全官員舉行了一場多戰線安全評估會議。（CCTV國際時訊）"
+    },
+    {
+      "id": "5076042",
+      "time": "2026-09-04 02:27:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗發動的網路攻擊企圖：對本土安全充滿信心。"
+    },
+    {
+      "id": "5076041",
+      "time": "2026-09-04 02:25:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我只希望烏克蘭的戰爭結束。"
+    },
+    {
+      "id": "te:markets:581046",
+      "time": "2026-09-04 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Surges by 5.51% — Top commodity gainers are Palm Oil (5.51%) and Wool (2%). Biggest losers are Sugar (-3.80%), Wheat (-2.91%) and Cotton (-2.79%)."
+    },
+    {
+      "id": "mkt:01a06884-8acc-7118-848f-1010c7b431e8",
+      "time": "2026-09-04 02:25:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he only wants the war in Ukraine to end."
+    },
+    {
+      "id": "mkt:01a06883-c988-7118-848f-0f2e74d5386e",
+      "time": "2026-09-04 02:24:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said a Fed rate cut would be appropriate and responsible."
+    },
+    {
+      "id": "5076040",
+      "time": "2026-09-04 02:23:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我在伊朗問題上的做法是正確的。"
+    },
+    {
+      "id": "mkt:01a06882-9254-7118-848f-007e4054b8d3",
+      "time": "2026-09-04 02:23:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said 30-40 vessels transit the Strait of Hormuz each night."
+    },
+    {
+      "id": "mkt:01a06882-3692-7118-848e-fbd57e043899",
+      "time": "2026-09-04 02:22:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he made the right decision on Iran."
+    },
+    {
+      "id": "5076039",
+      "time": "2026-09-04 02:22:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱每晚有30至40艘船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a06881-95be-7118-848e-f22215549cce",
+      "time": "2026-09-04 02:21:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Vice President Vance said the administration believes the Federal Reserve should lower interest rates."
+    },
+    {
+      "id": "5076038",
+      "time": "2026-09-04 02:21:53",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯：我們認為美聯儲應該降低利率。"
+    },
+    {
+      "id": "5076037",
+      "time": "2026-09-04 02:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：不會為結束對伊朗相關戰事設定 “人為” 時間節點。"
+    },
+    {
+      "id": "mkt:01a06880-e380-7118-848e-ea552185b270",
+      "time": "2026-09-04 02:21:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said if Iran continues firing on vessels, only the United States has the ability to ensure they do not disrupt global energy markets."
+    },
+    {
+      "id": "5076036",
+      "time": "2026-09-04 02:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：我不會把這稱為與伊朗的戰爭。與伊朗的主要戰鬥行動持續了6周。"
+    },
+    {
+      "id": "te:markets:581045",
+      "time": "2026-09-04 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 4.05% — Top commodity gainers are Platinum (4.05%), Silver (2.62%) and Gold (2.25%)."
+    },
+    {
+      "id": "5076035",
+      "time": "2026-09-04 02:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：對於 “宣告戰爭結束” 這個說法，我想稍作糾正，因為大規模作戰行動目前並未開展，而且已經結束很久了。事實上，就在幾天前，我們採取行動提升了伊朗襲擊商船的難度，以此保障石油和天然氣能夠流向全球能源市場。我們手上依舊掌握大量手段，我們要做的就是維持全球能源市場的基本平衡。"
+    },
+    {
+      "id": "mkt:01a0687f-63d4-7118-848e-e774161d3200",
+      "time": "2026-09-04 02:19:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said major combat operations involving Iran lasted six weeks."
+    },
+    {
+      "id": "mkt:01a0687f-27bb-7118-848e-dbbc4d1ec353",
+      "time": "2026-09-04 02:19:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said he would not call this a war with Iran."
+    },
+    {
+      "id": "mkt:01a0687e-4a82-7118-848e-d2aef0e86e4b",
+      "time": "2026-09-04 02:18:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio to visit Colombia next week."
+    },
+    {
+      "id": "5076034",
+      "time": "2026-09-04 02:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國務卿魯比奧將於下週訪問哥倫比亞。"
+    },
+    {
+      "id": "te:markets:581044",
+      "time": "2026-09-04 02:17:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 15-week High — AUDUSD increased to 0.72, the highest since May 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 2.29%, and in the last 12 months, it increased 10.51%."
+    },
+    {
+      "id": "mkt:01a0687c-db29-7118-848e-c9e17dc604dc",
+      "time": "2026-09-04 02:16:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Vance: No talks with Iran until it stops firing on commercial vessels】U.S. Vice President Vance said the United States will not negotiate with Iran until Tehran stops firing on commercial vessels. Asked how President Trump could declare an end to hostilities while U.S. forces remain near the Strait of Hormuz, Vance said \"there are no major combat operations underway.\" He added the U.S. presence is intended to keep oil and gas transiting the Strait of Hormuz and to prevent a catastrophic global energy crisis."
+    },
+    {
+      "id": "te:markets:581043",
+      "time": "2026-09-04 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Drops by 3.40% — Top commodity losers are Natural Gas EU (-3.40%), Natural Gas UK (-3.34%), Germany Natural Gas THE (-2.75%) and Brent Oil (-0.36%). Gains are led by Coking Coal (0.92%) and Gasoline (0.74%). Meanwhile Crude Oil was little changed."
+    },
+    {
+      "id": "mkt:01a0687a-5a62-7118-848e-c0d5f19a8fd2",
+      "time": "2026-09-04 02:14:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Vice President VANCE said the US could withdraw forces from the region, but Gulf states told the US 'that would be the worst-case scenario'."
+    },
+    {
+      "id": "mkt:01a06879-abea-7118-848e-b842a284b5c7",
+      "time": "2026-09-04 02:13:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Vance: U.S. will not talk to Iran until it stops attacking merchant ships】At a White House briefing, U.S. Vice President Vance said about 15 mln barrels of oil transited the Strait of Hormuz yesterday and shipping traffic has nearly returned to pre-conflict levels. He blamed elevated gasoline prices on Iranian attacks on vessels and said the U.S. is taking multiple measures to pressure Tehran to stop firing on ships. Vance added the U.S. has additional tools on Iran—some President Trump will use, others will not—and said Washington will not engage in talks until Iran ceases attacks on merchant ships."
+    },
+    {
+      "id": "mkt:01a06879-802e-7118-848e-b255a10f633a",
+      "time": "2026-09-04 02:13:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "US Vice President Vance: No major combat operations are currently underway."
+    },
+    {
+      "id": "5076033",
+      "time": "2026-09-04 02:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：除非伊朗停止襲擊船隻，否則我們不會與伊朗展開談判。"
+    },
+    {
+      "id": "mkt:01a06878-d8c7-7118-848e-ad80c48ce3ab",
+      "time": "2026-09-04 02:12:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said the United States will not engage with Iran unless it stops attacking ships."
+    },
+    {
+      "id": "mkt:01a06878-bbda-7118-848e-a2931b7c7870",
+      "time": "2026-09-04 02:12:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said major combat operations against Iran have long since concluded."
+    },
+    {
+      "id": "5076032",
+      "time": "2026-09-04 02:12:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯：針對伊朗的大規模作戰行動早已結束。"
+    },
+    {
+      "id": "mkt:01a06877-5497-7118-848e-980a3f5c8873",
+      "time": "2026-09-04 02:10:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said shipping traffic in the Strait of Hormuz has \"almost returned to pre-conflict levels\"."
+    },
+    {
+      "id": "mkt:01a06876-a137-7118-848e-932827ec9a70",
+      "time": "2026-09-04 02:09:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. Vice President Vance told Iranians to stop acting like madmen and to cease firing on commercial vessels."
+    },
+    {
+      "id": "mkt:01a06875-8548-7118-848e-8b4d023bf37f",
+      "time": "2026-09-04 02:08:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. has many additional tools available on Iran, some of which Trump will use and others he will not."
+    },
+    {
+      "id": "5076031",
+      "time": "2026-09-04 02:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：針對伊朗，我們還有很多備選手段，其中一部分特朗普會動用，另一部分則不會。"
+    },
+    {
+      "id": "5076030",
+      "time": "2026-09-04 02:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：我們正在採取多項措施向伊朗施壓，迫使其停止襲擊商船。"
+    },
+    {
+      "id": "mkt:01a06874-7cd6-7118-848e-844df5fcf3cb",
+      "time": "2026-09-04 02:07:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. is taking multiple measures to pressure Iran to stop firing on vessels."
+    },
+    {
+      "id": "mkt:01a06873-c53a-7118-848e-7af6be851856",
+      "time": "2026-09-04 02:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump reiterated that Spain has not been paying its required NATO contributions."
+    },
+    {
+      "id": "5076029",
+      "time": "2026-09-04 02:06:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：美國正在調查據稱發生的伊朗婚禮遇襲事件，但對此持 “懷疑態度”。"
+    },
+    {
+      "id": "5076028",
+      "time": "2026-09-04 02:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：重申西班牙並未足額繳納北約應承擔費用。"
+    },
+    {
+      "id": "5076027",
+      "time": "2026-09-04 02:04:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據一份法庭檔案，國際足聯指控歐足聯對其以及主席詹尼・因凡蒂諾發起 “抹黑攻勢”，雙方圍繞出售該機構商業權益股份的提案遭擱置一事的爭端進一步升級。"
+    },
+    {
+      "id": "mkt:01a06871-0075-7118-848e-76f2a79e0d89",
+      "time": "2026-09-04 02:03:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. Vice President Vance said he will not commit to a timeline for lowering oil prices."
+    },
+    {
+      "id": "mkt:01a06870-60da-7118-848e-6be6aab6ceb0",
+      "time": "2026-09-04 02:03:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Defense Secretary Hegseth is an outstanding minister."
+    },
+    {
+      "id": "mkt:01a06870-4a7e-7118-848e-611c0c885a14",
+      "time": "2026-09-04 02:03:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the United States never targets civilians in combat and never will."
+    },
+    {
+      "id": "5076026",
+      "time": "2026-09-04 02:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：赫格塞思是一位極為出色的國防部長。"
+    },
+    {
+      "id": "5076025",
+      "time": "2026-09-04 02:02:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：美國在作戰中從不以平民為襲擊目標，今後也永遠不會。我認為我們沒有掌握關於這起婚禮襲擊事件的任何資訊。"
+    },
+    {
+      "id": "5076024",
+      "time": "2026-09-04 02:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我不會對汽油價格回落的時點做出承諾。"
+    },
+    {
+      "id": "5076023",
+      "time": "2026-09-04 02:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI釋出GPT-6 Astra模型，並增設網路安全防護機制。"
+    },
+    {
+      "id": "5076022",
+      "time": "2026-09-04 02:01:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：GPT‑6 ASTRA 今日面向企業客戶開啟分批推送，提供 Daybreak 訪問許可權。未來數日，GPT‑6 ASTRA 將向所有 Plus、Pro、Business、Enterprise 使用者開放，同時可透過 OpenAI API 以及亞馬遜雲科技（AWS）使用。"
+    },
+    {
+      "id": "5076021",
+      "time": "2026-09-04 02:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT‑6 ASTRA 的 OpenAI API 標準定價：每百萬輸入令牌 10 美元，每百萬輸出令牌 50 美元。同時更新 Codex 工具集，大幅提升計算機使用能力的執行速度。"
+    },
+    {
+      "id": "mkt:01a0686d-9100-7118-848e-5827198ae7f6",
+      "time": "2026-09-04 02:00:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Vance says Trump administration working to lower prices, expand drug-cost cuts】Vice President Vance said the Trump administration is taking steps to reduce consumer prices and cost-of-living pressures. He said the administration’s TrumpRx program now covers nearly 800 drugs and described it as among the largest reductions in drug costs in 60 years. Vance accused Democrats of prior inaction and of favoring higher taxes, warned they would reverse these measures if elected, and said the administration will continue to strengthen policies to further lower prescription drug prices and sustain disinflationary effects."
+    },
+    {
+      "id": "mkt:01a0686c-c2af-7118-848e-545d6bdd83bc",
+      "time": "2026-09-04 01:59:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said high gasoline prices are being driven by Iran firing on ships."
+    },
+    {
+      "id": "5076020",
+      "time": "2026-09-04 01:59:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：昨天約有1500萬桶石油離開霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a0686c-821f-7118-848e-4ddaf63d5df5",
+      "time": "2026-09-04 01:58:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. cannot overly rely on any single supplier for global oil and gas."
+    },
+    {
+      "id": "mkt:01a0686c-3c4e-7118-848e-40d455c3f9b5",
+      "time": "2026-09-04 01:58:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said about 15 million barrels of oil transited the Strait of Hormuz yesterday."
+    },
+    {
+      "id": "5076019",
+      "time": "2026-09-04 01:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我們不能在全球油氣供應上過度依賴任何一方。"
+    },
+    {
+      "id": "5076018",
+      "time": "2026-09-04 01:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談及汽油價格：油價走高源於伊朗襲擊船隻。"
+    },
+    {
+      "id": "5076017",
+      "time": "2026-09-04 01:57:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我們會繼續加碼，推動處方藥價格進一步下降。"
+    },
+    {
+      "id": "mkt:01a0686a-1211-7118-848e-3ef91fb1649c",
+      "time": "2026-09-04 01:56:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Vice President Vance said inflation did not develop overnight and the administration is doing everything possible to bring prices down."
+    },
+    {
+      "id": "5076016",
+      "time": "2026-09-04 01:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：通脹問題並非一日釀成。"
+    },
+    {
+      "id": "5076015",
+      "time": "2026-09-04 01:55:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我們正竭盡所能壓低物價。"
+    },
+    {
+      "id": "mkt:01a06866-e85b-7118-848e-3634ff12d220",
+      "time": "2026-09-04 01:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said he has not accepted any other position."
+    },
+    {
+      "id": "5076014",
+      "time": "2026-09-04 01:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：特朗普跟我說，如果我表現得太過出色，就會被任命為新聞秘書。尚未接受任何其他職務。"
+    },
+    {
+      "id": "mkt:01a06866-86ad-7118-848e-2b82ae93cdd6",
+      "time": "2026-09-04 01:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vice President Vance said Trump told him that if he performed too well he would be appointed press secretary."
+    },
+    {
+      "id": "5076013",
+      "time": "2026-09-04 01:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：我認為特朗普正帶領我們打造史上透明度最高的一屆政府。"
+    },
+    {
+      "id": "5076012",
+      "time": "2026-09-04 01:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：我們正是藉助這次委內瑞拉行動取得的成果，以及行動之後建立起來的各類往來關係，為美國打造出相當於新增 650 億桶石油的儲備。"
+    },
+    {
+      "id": "mkt:01a06863-7b36-7118-848e-2648452b6cc5",
+      "time": "2026-09-04 01:49:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Vice President Vance said U.S. taxpayers will also benefit from Venezuelan oil transactions."
+    },
+    {
+      "id": "5076011",
+      "time": "2026-09-04 01:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：長期以來，拜登政府動用戰略石油儲備，純粹就是為了壓低油氣價格。當時既不存在國際危機，也沒有哪個外國企圖擾亂全球能源市場。"
+    },
+    {
+      "id": "mkt:01a06862-cf25-7118-848e-1a5f75dee14c",
+      "time": "2026-09-04 01:48:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports Iran's attack did not affect facilities hosting U.S. forces."
+    },
+    {
+      "id": "5076010",
+      "time": "2026-09-04 01:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗發動的襲擊未對駐有美軍的設施造成影響。"
+    },
+    {
+      "id": "5076009",
+      "time": "2026-09-04 01:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：委內瑞拉石油協議同樣將讓美國納稅人獲益。"
+    },
+    {
+      "id": "mkt:01a06861-9f79-7118-848e-14cc7a939492",
+      "time": "2026-09-04 01:47:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) released a Gen AI SDK for Kotlin 1.0, enabling idiomatic multiplatform access to Gemini."
+    },
+    {
+      "id": "mkt:01a06861-3b20-7118-848e-09935c4bf961",
+      "time": "2026-09-04 01:46:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to The Information, Thinking Machines Lab is in talks for a valuation of about $40 billion."
+    },
+    {
+      "id": "5076008",
+      "time": "2026-09-04 01:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Accel 正洽談領投 Think Machines Lab 的一輪融資，英偉達考慮參與本輪投資。"
+    },
+    {
+      "id": "5076007",
+      "time": "2026-09-04 01:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Thinking Machines Lab洽談按大約400億美元估值融資。"
+    },
+    {
+      "id": "5076006",
+      "time": "2026-09-04 01:44:33",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯開啟新聞釋出會。"
+    },
+    {
+      "id": "mkt:01a0685c-813f-7118-848e-04c97a549799",
+      "time": "2026-09-04 01:41:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet"
+      ],
+      "text": "Google released a generative AI software development kit for Kotlin 1.0."
+    },
+    {
+      "id": "5076005",
+      "time": "2026-09-04 01:40:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：釋出面向 Kotlin 1.0 的 Google 生成式人工智慧軟體開發工具包。"
+    },
+    {
+      "id": "5076004",
+      "time": "2026-09-04 01:39:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾瓦宣誓就任聖多美和普林西比總統】卡洛斯·諾瓦3日宣誓就任聖多美和普林西比（聖普）總統，開始其第二個5年任期。（新華社）"
+    },
+    {
+      "id": "5076003",
+      "time": "2026-09-04 01:34:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾院透過一項法案 欲阻止向反以高校提供聯邦援助】當地時間9月3日，美國國會眾議院透過一項法案，旨在阻止向“抵制以色列”的大學提供聯邦援助。眾議院以237票贊成、169票反對的結果，透過了這一《保護經濟與學術自由法案》。該法案還需獲得參議院透過才能成為法律。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a06854-a9e2-7118-848d-f80e9cd419b2",
+      "time": "2026-09-04 01:32:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said it intercepted and destroyed 426 Ukrainian drones within Russian territory that day."
+    },
+    {
+      "id": "5076002",
+      "time": "2026-09-04 01:32:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱美方將在莫斯科和基輔分別舉行會談】當地時間9月3日，烏克蘭總統澤連斯基表示，美方已確認將在莫斯科和基輔分別舉行會談，烏方預計基輔場次的會談將於近日舉行。澤連斯基介紹，烏方談判團隊始終與美方代表團保持全天候密切溝通，並剛剛召開專項工作會議，已全面推進會談籌備工作，相關會談已有初步日程安排。澤連斯基強調，烏方已做好充分準備，將在基輔同美方開展層級匹配、內容務實的實質性會談。（央視新聞）"
+    },
+    {
+      "id": "5076000",
+      "time": "2026-09-04 01:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄國防部通報，白天共有 426 架烏克蘭無人機在俄羅斯境內上空被攔截並摧毀。"
+    },
+    {
+      "id": "5075999",
+      "time": "2026-09-04 01:29:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲6%，現報1442.45美元/盎司。"
+    },
+    {
+      "id": "5075998",
+      "time": "2026-09-04 01:22:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部長：近期兩場戰爭中能源設施遭受的大部分損毀已完成修復。"
+    },
+    {
+      "id": "5075997",
+      "time": "2026-09-04 01:21:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【五角大樓與盧特尼克說法相左 稱Anthropic仍構成供應鏈風險】美國商務部長霍華德·盧特尼克表示，Anthropic長期以來與特朗普政府之間的問題已經解決，但五角大樓一名高階官員對此持不同看法。美國國防部負責研究與工程事務的副部長Emil Michael週四在社交媒體發文稱，國防部將Anthropic認定為供應鏈風險的決定仍然有效。盧特尼克週三接受採訪時表示，Anthropic已經“轉變了態度”，並解決了與政府之間的分歧。一個顯示雙方關係有所緩和的跡象是，該公司一名高管週三在北卡羅來納州舉行的G20科技會議上，與盧特尼克共同參加了一場爐邊談話。"
+    },
+    {
+      "id": "5075996",
+      "time": "2026-09-04 01:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍近日襲擊致伊朗18死142傷】當地時間9月3日，伊朗衛生部發言人表示，當地時間8月30日晚8點30分至9月2日晚8點30分，美軍襲擊造成伊朗18人死亡、142人受傷。當地時間8月30日晚，美軍襲擊伊朗南部拉臘克島。當地時間9月1日晚，美軍又襲擊伊朗多地。（CCTV國際時訊）"
+    },
+    {
+      "id": "5075995",
+      "time": "2026-09-04 01:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（9月3日），美聯儲隔夜逆回購協議（RRP）使用規模為7.02億美元（交易對手4家），上個交易日報5.25億美元。"
+    },
+    {
+      "id": "5075994",
+      "time": "2026-09-04 01:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我剛剛與負責同美國總統代表開展談判的團隊舉行會議。我們與他們保持全天候不間斷溝通，目前正在為即將到來的會晤做準備。我們已有初步會面日期。我們期待美國總統的代表能夠到訪基輔。我們已得到對方確認：將會在莫斯科以及基輔舉行會晤。我們希望未來數日就能實現會面。此事至關重要。美國保持積極參與十分關鍵。我們已做好準備，在烏克蘭境內同對方舉行實質性高階別會談。"
+    },
+    {
+      "id": "5075993",
+      "time": "2026-09-04 01:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月04日01時04分在青海海西州直轄區附近（北緯37.86度，東經95.46度）發生5.1級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5075992",
+      "time": "2026-09-04 01:05:14",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：即便標普大漲，股市仍將\"乒乓球式\"震盪】高盛資產管理公司客戶組合管理聯席主管Katherine Bordlemay預測，美股將繼續震盪上行，儘管個股的劇烈波動掩蓋了主要指數表面的平靜。是盈利而非估值，成為緩衝美債收益率上升對股市衝擊的主要驅動力。對“股市中不受待見的板塊”持樂觀態度，特別點名美國醫療保健板塊和國際發達市場。"
+    },
+    {
+      "id": "5075991",
+      "time": "2026-09-04 01:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯巴魯及其他日本航空零部件廠商開展合作，統籌分包商零部件交付工作，以實現降本等目標。"
+    },
+    {
+      "id": "5075990",
+      "time": "2026-09-04 01:03:31",
+      "tags": [
+        "資料"
+      ],
+      "text": "市場訊息：參與方將包括斯巴魯航空業務部門、川崎重工、NIPPI 以及新明和工業。"
+    },
+    {
+      "id": "5075989",
+      "time": "2026-09-04 01:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波音提高產能，斯巴魯及其他日本供應商將協作開展交付工作。"
+    },
+    {
+      "id": "5075988",
+      "time": "2026-09-04 01:02:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國 9 月第二季度調整後商業票據未償餘額減少 59 億美元。美國 9 月第二週未經季節調整的外國金融類商業票據未償餘額減少 63 億美元。"
+    },
+    {
+      "id": "te:markets:581042",
+      "time": "2026-09-04 01:01:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Gains — US stocks swung higher on Thursday as bond yields halted their surge and supported credit-sensitive sectors. The S&P 500 and the Dow rose over 1%, while the Nasdaq 100 gained 0.8% as chip producers underperformed. Fed Governor Waller signaled that a rate hike is not warranted should underlying inflation continue to slow, a reversal from the statements flagging inflationary risks from earlier remarks. Consequently, Treasury yields eased despite signs of a fresh intervention to halt the decline of the yen by Tokyo. Credit-sensitive software companies gained with Microsoft, Palantir, and Meta adding more than 3%, while risk-sensitive Tesla soared 7%. On the other hand, Broadcom fell 3% despite posting a 221% annual growth in revenue in its last fiscal quarter, another chip producer that failed to meet the higher end of estimate ranges. Meanwhile, Hewlett Packard Enterprises fell 4% after its results fell short of expectations."
+    },
+    {
+      "id": "5075987",
+      "time": "2026-09-04 01:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：導致 ChatGPT 與 Codex 出現大量報錯的故障已解決。"
+    },
+    {
+      "id": "5075986",
+      "time": "2026-09-04 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.67%，滬銅收漲0.53%，滬鋁收漲0.47%，滬鋅收漲0.28%，滬鉛收跌0.12%，滬鎳收跌0.47%，滬錫收漲0.76%。氧化鋁夜盤收漲1.39%，鋁合金收漲0.08%。不鏽鋼夜盤收跌0.04%。"
+    },
+    {
+      "id": "5075984",
+      "time": "2026-09-04 00:57:27",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【丁薛祥出席第十一屆東方經濟論壇全會並致辭】當地時間9月3日，中共中央政治局常委、國務院副總理丁薛祥在俄羅斯符拉迪沃斯託克出席第十一屆東方經濟論壇全會，並發表題為“深化中俄地區合作 增進兩國人民福祉”的致辭。（新華社）"
+    },
+    {
+      "id": "5075983",
+      "time": "2026-09-04 00:52:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲118美元，報14334美元/噸。LME期鋁收漲28美元，報3312美元/噸。LME期鋅收髒47美元，報3912美元/噸。LME期鉛收漲9美元，報1904美元/噸。LME期鎳收跌127美元，報16786美元/噸。LME期錫收漲720美元，報54952美元/噸。LME期鈷收跌2165美元，報48500美元/噸。"
+    },
+    {
+      "id": "5075981",
+      "time": "2026-09-04 00:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國“林肯”號航母最新畫面公佈：艦體出現大面積鏽蝕】9月2日，美軍“亞伯拉罕·林肯”號航母停靠泰國林查班港，艦上約5000名水兵將在此進行休整。美國方面稱，從外觀來看，“林肯”號航母出現明顯大面積鏽蝕、水線以上區域以及停放戰機和直升機的飛行甲板邊緣鏽跡尤為明顯。當被問及航母的外觀狀態時，艦長丹·基勒爾回應說“這在長期部署中屬於正常現象、我們不會作出進一步評論 ”。“林肯”號航母去年11月離開美國聖迭戈母港，今年1月被突然調往中東，以支援美以對伊朗的軍事行動。美國方面稱，在9個多月的部署中，除在關島、阿曼作短暫補給停靠外，“林肯”號大部分時間在海上作戰值班。因缺少休整、生活條件糟糕，艦上約5000名水兵士氣低落，有人精神崩潰試圖跳海。（央視新聞）"
+    },
+    {
+      "id": "5075980",
+      "time": "2026-09-04 00:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞發生非法裝卸石油製品事件導致約40人死亡】奈及利亞河流州警方說，該州3日發生一起非法裝卸石油製品事件，約40人因吸入有毒氣體死亡。（新華社）"
+    },
+    {
+      "id": "5075979",
+      "time": "2026-09-04 00:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列佔領軍對大馬士革郊區發動襲擊。"
+    },
+    {
+      "id": "5075978",
+      "time": "2026-09-04 00:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：自 10 月 30 日起更新 YouTube 流量的個性化廣告政策，允許在當地法規許可的情況下投放酒類廣告。"
+    },
+    {
+      "id": "5075977",
+      "time": "2026-09-04 00:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：慕尼黑附近已開始為基輔生產 5000 餘架無人機。媒體稱，該專案為一家德美企業與烏克蘭方面的合作專案。計劃生產航程最高可達 1500 公里的中遠端無人機。德國通訊社訊息顯示，首批無人機已經完成生產，全部批次計劃於 2027 年年中完工。"
+    },
+    {
+      "id": "5075976",
+      "time": "2026-09-04 00:41:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一位地區高階官員表示，阿曼已經悄然拒絕伊朗提出的霍爾木茲海峽收費方案。"
+    },
+    {
+      "id": "te:markets:581041",
+      "time": "2026-09-04 00:39:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Rebound — European stocks closed a choppy session higher on Thursday, halting three sessions of losses as markets assessed the magnitude that higher sovereign yields will hamper economic activity. The Euro STOXX 50 rose 0.3% to 6,382 and the STOXX Europe 600 added 0.4% to 649. Yields halted their surge this week as markets trimmed their hedges against multiple rate cuts by the European Central Bank this year. Fresh data showed that underlying producer inflation gauges in the Eurozone were relatively tame in July, as energy prices alone triggered the surge in the headline gauge to 5.8% annually. Banks gained traction after weakness in the sector this week with Nordea, Deutsche Bank, and ING adding over 1.5%. Auto producers also closed higher with Volkswagen adding 4%, erasing losses from the previous session on news that it will leave the STOXX 50 index."
+    },
+    {
+      "id": "te:markets:581039",
+      "time": "2026-09-04 00:38:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Rebound — US gasoline futures traded near $3.12 a gallon, rebounding from recent losses, as Middle East tensions escalated following US strikes on Iran and renewed Israeli threats against Tehran, raising concerns over further energy supply disruptions. Meanwhile, the national average regular gasoline price in the US climbed to $4.14 on September 3rd, according to AAA, while EIA data showed US gasoline inventories fell 1.173 million barrels in the week ending August 28th, reflecting continued draw backs in recent weeks while US refiners are operating at 98%, its highest level since August 2018, with several facilities delaying maintenance to keep production elevated. Heavy driving over the Labor Day weekend is also providing support. Adding to the pressure, Ukrainian strikes on Russian refining infrastructure pushed refinery runs to multi-year lows. Meanwhile, President Trump pressed refiners to boost domestic production of gasoline during a meeting earlier in the week."
+    },
+    {
+      "id": "5075975",
+      "time": "2026-09-04 00:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPIC：影響多個模型的問題已解決。"
+    },
+    {
+      "id": "5075974",
+      "time": "2026-09-04 00:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：俄羅斯襲擊基輔引發火災，一棟高層居民樓受損。"
+    },
+    {
+      "id": "5075973",
+      "time": "2026-09-04 00:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局將就美國航空一架從拉瓜迪亞機場起飛的航班遭鳥擊事件展開調查。"
+    },
     {
       "id": "mkt:01a06815-8b79-7118-848d-3064c0c78afb",
       "time": "2026-09-04 00:23:57",
