@@ -1,7 +1,150 @@
 {
   "date": "2026-09-03",
-  "count": 1546,
+  "count": 1560,
   "items": [
+    {
+      "id": "mkt:01a0662a-87de-7118-847a-15e1f9568b5d",
+      "time": "2026-09-03 15:27:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. average diesel price rose to its highest level since 2022, AAA data show."
+    },
+    {
+      "id": "5074799",
+      "time": "2026-09-03 15:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國副總統萬斯將親自接任白宮新聞秘書】據外媒報道，美國副總統J.D.萬斯將於卡羅琳·萊維特離任後，接任白宮新聞秘書。萬斯將於當地時間9月3日13時主持40多天來的首次白宮新聞釋出會。 今年6月，萬斯曾在白宮新聞秘書萊維特休產假期間代其與記者接觸。8月底，萊維特決定辭去新聞秘書一職，以便將所有空閒時間投入家庭。她在美國中期選舉前夕的離職，令美國行政當局的許多工作人員感到意外。 美國總統特朗普並不急於尋找新的新聞秘書，而是考慮由副總統及其他副手出面發言的方案。（中國僑網）"
+    },
+    {
+      "id": "5074798",
+      "time": "2026-09-03 15:26:37",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【受戰爭衝擊全球供應，美國柴油價格創下四年新高】美國柴油零售價格創下2022年年中以來新高，超越伊朗戰爭初期的峰值，逼近歷史最高紀錄。美國汽車協會資料顯示，週三全美加油站柴油均價上漲至每加侖5.783美元，高於4月戰爭期間創下的高點。該價格距離2022年6月俄烏衝突引發能源危機時創下的5.816美元歷史峰值僅有一步之遙。油價查詢平臺GasBuddy的石油分析主管帕特里克·德哈安表示，按照當前走勢，油價有望在週一勞動節之際打破歷史紀錄。受中東持續衝突擠壓供應、烏克蘭無人機反覆襲擊俄羅斯煉油廠，疊加俄羅斯出臺出口禁令多重因素影響，今年柴油價格大幅飆升。"
+    },
+    {
+      "id": "mkt:01a06628-d2bf-7118-847a-0943631b47d3",
+      "time": "2026-09-03 15:25:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "WOLF.O",
+        "Impact bullish",
+        "IFX.DE"
+      ],
+      "text": "【EPFL develops GaN transistor with ~4,000V breakdown for high‑voltage power electronics】Researchers at the Swiss Federal Institute of Technology Lausanne (EPFL) have developed a gallium nitride (GaN) power transistor with a breakdown voltage near 4,000V while retaining low on-resistance. Published in Nature Electronics, the device delivers about five times the breakdown voltage of commercial GaN power parts (typically 600–650V) and is positioned for high‑voltage power conversion in AI data centers, renewable-energy systems and electric vehicles, reducing conversion losses and heat."
+    },
+    {
+      "id": "te:markets:580797",
+      "time": "2026-09-03 15:25:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Stock Price Hits 4-week Low — Siemens shares decreased to 272.90 EUR, the lowest since August 2026. Over the past 4 weeks, Siemens lost 5.01%, and in the last 12 months, it increased 18.69%."
+    },
+    {
+      "id": "5074797",
+      "time": "2026-09-03 15:25:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：作為對德國關閉位於柏林的俄羅斯之家文化中心和位於波恩的領事館的報復，俄羅斯將關閉德國歌德學院的分支機構。"
+    },
+    {
+      "id": "mkt:01a06628-0478-7118-847a-0119f65b8c6a",
+      "time": "2026-09-03 15:24:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "【Bernstein: Oracle's AI data centers could push it into global top-three cloud providers】Bernstein says Oracle is in a new high-intensity investment cycle; second‑generation cloud infrastructure and AI data centers should accelerate revenue, profit and FCF and could place Oracle among the world’s top‑three hyperscale cloud providers. Bernstein forecasts FY2026 cloud infrastructure revenue of about $18.1 bln, up 77% YoY, including roughly $6.6 bln of AI revenue. Heavy capex will weigh on gross margins and create financing needs, while high‑margin database, multicloud and enterprise software businesses should partly offset the impact. Bernstein reiterates Outperform with a $325 target (Bernstein report, Sept. 2)."
+    },
+    {
+      "id": "5074796",
+      "time": "2026-09-03 15:24:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度最高法院已就印度市場監管機構針對國家證券交易所（NSE）的同址託管、暗光纖相關訴訟作出結案處理。"
+    },
+    {
+      "id": "5074795",
+      "time": "2026-09-03 15:24:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "保時捷：作為重組的一部分，原負責歐洲、海外及新興市場區域的現有中央部門將予以撤銷。"
+    },
+    {
+      "id": "5074794",
+      "time": "2026-09-03 15:24:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷：保時捷多家海外銷售子公司將重新任命國際管理崗位人員。"
+    },
+    {
+      "id": "te:markets:580792",
+      "time": "2026-09-03 15:24:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Surges for Second Straight Day — The Japanese yen strengthened past 157 per dollar on Thursday, rallying for a second straight session as traders watched for signs of intervention while weighing prospects for more aggressive policy tightening by the Bank of Japan this year. The move began late Wednesday during New York trading, stoking speculation that authorities had conducted a rate check, which typically precedes official intervention. The yen sank to 40-year lows in late July amid wide interest rate differentials, growing fiscal concerns and elevated energy and import costs, shortly before Tokyo and Washington conducted a joint yen-buying operation. Meanwhile, BOJ board member Hajime Takata raised the possibility of outsized or back-to-back rate hikes to contain rising inflationary pressures. Governor Kazuo Ueda also said that policymakers need to pay greater attention to upside price risks when conducting monetary policy, signaling that a rate hike is likely later this month."
+    },
+    {
+      "id": "te:economy:580791",
+      "time": "2026-09-03 15:24:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Spain Private Sector Growth Slows — The S&P Global Spain Composite PMI fell to 55.8 in August 2026, from 56.5 in July, when it reached its highest level since December 2024. Despite the slowdown, the reading continued to signal robust growth in private-sector activity. However, growth was entirely driven by the services sector, where the PMI eased only slightly to 57.8 from 58.3. By contrast, manufacturing slipped into contraction, with the PMI falling to 49.5 from 50.2 and output declining at its fastest pace since December 2023. Similar divergences in sector performance were seen for new orders and employment. Meanwhile, rates of both input and output price inflation accelerated since July. Confidence in the outlook softened to its lowest in three months."
+    },
+    {
+      "id": "5074793",
+      "time": "2026-09-03 15:24:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【機構：第33周全球智慧手機銷量同比下滑10%】根據Counterpoint《全球智慧手機周度市場份額》報告，第33周（8月9日‑8月15日）全球智慧手機銷量同比下滑10%，主流品牌當中，僅有三星等少數品牌實現同比增長。受益於Z8系列新品上市，三星同比增幅達到9%。蘋果第33周全球銷量與去年同期基本持平，整體表現相對抗跌。雖然周環比銷量下滑3%，但印度市場需求旺盛，一定程度抵消了美國等核心市場的銷售疲軟。"
+    },
+    {
+      "id": "5074792",
+      "time": "2026-09-03 15:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "受全球供應緊張影響，美國零售柴油價格創四年新高。"
+    },
     {
       "id": "mkt:01a06626-d5ef-7118-8479-f909d7552f24",
       "time": "2026-09-03 15:23:36",
