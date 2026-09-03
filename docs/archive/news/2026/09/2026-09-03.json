@@ -1,7 +1,98 @@
 {
   "date": "2026-09-03",
-  "count": 1425,
+  "count": 1435,
   "items": [
+    {
+      "id": "te:markets:580777",
+      "time": "2026-09-03 14:59:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index fell 0.17% to close at 64,214 while the broader Topix Index gained 0.5% to 4,102 in mixed trade on Thursday, with Japanese shares lacking clear direction as the yen strengthened sharply amid speculation that authorities had conducted a rate check. A stronger yen weighs on the earnings outlook for Japan’s export-heavy industries and makes domestic assets more expensive for foreign investors. Meanwhile, equities found some support from a pullback in oil prices after President Donald Trump said the latest attacks on Iran would be short-lived. Global bond yields also retreated from recent highs as investors continued to assess the inflation and interest rate outlook. Among individual stocks, notable losses were recorded in tech firms such as Advantest (-0.8%), Fujikura (-2.7%) and Ibiden Co (-2.4%), while financial stocks gained, including Mitsubishi UFJ (1.9%), Sumitomo Mitsui (1.7%) and Mizuho Financial (0.7%)."
+    },
+    {
+      "id": "5074727",
+      "time": "2026-09-03 14:59:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta：“西瓜”模型研發進展順利】Meta首席人工智慧官Alexandr Wang表示，新發布的Muse Spark 1.3的價格將與Muse Spark 1.2相同，但其效率更高，執行所需的Token減少了25%。Meta尚未決定是否公開Muse Spark 1.3的權重，但公司仍計劃公開Muse Spark 1.2的權重。公司仍在按計劃開發規模更大的的“西瓜”（Watermelon）模型，“我們相信‘西瓜’將極具競爭力。”"
+    },
+    {
+      "id": "5074725",
+      "time": "2026-09-03 14:58:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股創新藥概念區域性回暖，千金藥業尾盤漲停，德展健康此前封板，諾誠健華、迪哲醫藥、百利天恆漲幅居前。"
+    },
+    {
+      "id": "mkt:01a0660f-19f5-7118-8478-a7ec17e7588a",
+      "time": "2026-09-03 14:57:40",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Bernstein raises Dell's price target to $650 from $500, saying growth has broadened beyond single AI servers into traditional servers and storage as AI infrastructure demand lifts the entire data-center hardware mix; scale expansion and improved product mix materially boost margins. Bernstein rates Dell Outperform and models FY2028 at 22x EPS and FY2029 at 19x EPS."
+    },
+    {
+      "id": "mkt:01a0660f-085b-7118-8478-986ed2f6486d",
+      "time": "2026-09-03 14:57:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's trade minister said merchandise exports continued to grow in August."
+    },
+    {
+      "id": "5074724",
+      "time": "2026-09-03 14:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：印度8月商品出口繼續保持增長。"
+    },
+    {
+      "id": "5074723",
+      "time": "2026-09-03 14:57:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川一次性擴崗補助政策“擴圍”，吸納青年就業最高可獲1500元/人補助】近日，四川4部門聯合印發《關於落實失業保險支援企業穩崗擴崗政策的通知》（以下簡稱《通知》），將現行一次性擴崗補助政策享受物件擴大至參保企業和社會組織，返還標準按國家規定上限頂格執行，即1500元/人。根據《通知》，參保企業上年度足額繳納失業保險費滿12個月且無歷史欠費，未裁員或裁員率不高於5.5%，30人以下的參保企業裁員率不高於參保職工總數20%的，可以按規定享受失業保險穩崗返還。大型企業按企業及其職工上年度實際繳納失業保險費的20%返還，中小微企業按40%返還，以單位形式參保的個體工商戶按60%返還。參保企業劃型、勞務派遣企業申領辦法仍按上年規定執行。社會組織、律師事務所、會計師事務所參照中小微企業實施。"
+    },
+    {
+      "id": "te:markets:580774",
+      "time": "2026-09-03 14:56:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Rebounds from Over 1-Month Low — Nickel traded around $16,930 per tonne, rebounding from an over one-month low as potential production cuts at Indonesia’s largest nickel-processing hub raised concerns over a tightening supply outlook. Indonesia Morowali Industrial Park (IMIP) said El Niño-driven water shortages could reduce production by 30%-40% if new water sources are not secured, raising concerns over global availability. Some Chinese-backed nickel producers are also considering coordinated output cuts of around 30% at HPAL plants amid weak prices and rising operating costs, although no agreement has been reached. Indonesia’s tighter 2026 mining quota further points to lower ore availability, with the limit set at around 260-270 million tonnes vs 379 million tonnes in 2025. Meanwhile, elevated inventories and weak Chinese demand continued to weigh on prices, while higher imports of Philippine nickel ore into Indonesia could help offset tighter domestic supply."
+    },
+    {
+      "id": "mkt:01a0660d-b35d-7118-8478-9428cc6fda3b",
+      "time": "2026-09-03 14:56:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "India's trade minister said final details of a US trade agreement will be published as soon as Washington can provide India tariff advantages relative to other trading partners."
+    },
+    {
+      "id": "5074722",
+      "time": "2026-09-03 14:55:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度貿易部長：一旦美國能給予印度優於其他國家的關稅優勢，將立即公佈美印貿易協議最終細節。"
+    },
     {
       "id": "mkt:01a0660d-291b-7118-8478-8cd71631449f",
       "time": "2026-09-03 14:55:33",
