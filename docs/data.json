@@ -1,7 +1,150 @@
 {
-  "updated": "2026-09-03 20:01:27",
+  "updated": "2026-09-03 20:05:20",
   "count": 12774,
   "items": [
+    {
+      "id": "mkt:01a06727-f011-7118-8482-f842b44af04b",
+      "time": "2026-09-03 20:04:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) has agreed to acquire Hugging Face for $12.93 billion."
+    },
+    {
+      "id": "mkt:01a06727-ec1f-7118-8482-f2837cdea9ba",
+      "time": "2026-09-03 20:04:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Hugging Face will remain an open platform for the broader AI ecosystem."
+    },
+    {
+      "id": "5075526",
+      "time": "2026-09-03 20:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達承諾將維持 Hugging Face 作為開放平臺運營。"
+    },
+    {
+      "id": "5075525",
+      "time": "2026-09-03 20:03:49",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【黃仁勳官宣： 英偉達擬以129.3億美元收購Hugging Face】黃仁勳在X發文，宣佈英偉達擬以129.3億美元收購Hugging Face。黃仁勳表示，對英偉達與 Hugging Face 而言，這是激動人心的一天。開源模型能夠強化安全與網路安全能力，加速創新與技術普及，還可保障技術主權。它讓每一位開發者、初創企業、高校、行業機構以及各個國家都可以基於人工智慧開展開發、進行定製並從中獲益。感謝克萊門特・德朗格（Clement Delangue）主動與我接洽。英偉達將會成為 Hugging Face、其社群以及開源模型未來發展的優質歸宿。"
+    },
+    {
+      "id": "5075524",
+      "time": "2026-09-03 20:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私募信貸基金將贖回上限設定為5%。"
+    },
+    {
+      "id": "5075523",
+      "time": "2026-09-03 20:03:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受CEO繼任計劃影響，ALBEMARLE股價盤前下跌2%。"
+    },
+    {
+      "id": "5075522",
+      "time": "2026-09-03 20:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私人信貸基金收到約10%份額的回購（贖回）申請。"
+    },
+    {
+      "id": "5075520",
+      "time": "2026-09-03 20:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張江高科：張江集團向浦東新區國資委劃轉4.99%股份完成過戶】張江高科公告，公司此前披露，控股股東張江集團擬將持有的公司77279608股A股股份（佔總股本4.99%）無償劃轉至浦東新區國資委。2026年9月1日，本次無償劃轉已完成股份過戶登記手續；過戶完成後，張江集團持股6.78億股（佔43.76%），浦東新區國資委持股77279608股（佔4.99%）。"
+    },
+    {
+      "id": "5075519",
+      "time": "2026-09-03 20:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "NetApp與AWS藉助AWS Transform加速儲存遷移工作。"
+    },
+    {
+      "id": "mkt:01a06725-d9b7-7118-8482-ee5bd6e27180",
+      "time": "2026-09-03 20:02:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bullish"
+      ],
+      "text": "PwC and Palantir (PLTR.N) launch an AI-native M&A IT platform."
+    },
+    {
+      "id": "5075518",
+      "time": "2026-09-03 20:01:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陸家嘴：陸家嘴集團向浦東新區國資委無償劃轉4.99%股份過戶完成】陸家嘴公告，公司此前披露控股股東陸家嘴集團擬將2.51億股無限售條件流通A股股份（佔總股本4.99%）無償劃轉至浦東新區國資委；本次無償劃轉已完成股份過戶登記手續，過戶日期為2026年9月1日，過戶數量為2.51億股，股份性質為無限售流通股。"
+    },
+    {
+      "id": "5075517",
+      "time": "2026-09-03 20:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米汽車與首批八家德國汽車經銷商集團簽署合作備忘錄，將於2027年進軍歐洲】在今日的IFA 2026小米全球釋出會上，小米汽車宣佈將於2027年進入包括德國在內的歐洲市場，並在IFA現場與首批八家德國頭部汽車經銷商集團簽署合作備忘錄。這八家經銷商集團包括Ernst Dello GmbH & Co. KG，Autohaus Dinnebier GmbH，Emil Frey Germany，Fett & Wirtz Automobile GmbH & Co. KG，Hahn Automobile GmbH + Co. KG，LUEG Mobility GmbH，Penske-Jacobs Innovation GmbH，SPT Avior SE & Co. KG，均是德國乃至全歐洲最具歷史底蘊和聲望的汽車經銷商集團，擁有數十年的綜合經驗和深厚的高階品牌運營專長。（新浪科技）"
+    },
+    {
+      "id": "5075516",
+      "time": "2026-09-03 20:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Cotality： 紐西蘭8月房價指數環比下跌0.4%。"
+    },
+    {
+      "id": "mkt:01a06724-de1e-7118-8482-e4dd76ae711e",
+      "time": "2026-09-03 20:01:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 2.27% at the start of the evening session on Sept. 3 to 957.13 yuan/gram; Silver T+D gained 0.21% to 16,018.0 yuan/kg."
+    },
+    {
+      "id": "5075515",
+      "time": "2026-09-03 20:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nodal Exchange計劃推出AI算力期貨，與芝加哥商業交易所（CME）、洲際交易所（ICE）展開競爭。"
+    },
     {
       "id": "5075513",
       "time": "2026-09-03 20:00:16",
@@ -117195,138 +117338,6 @@
         "市場"
       ],
       "text": "百思買盤前股價抹去了漲幅，下跌5.7%。"
-    },
-    {
-      "id": "5062709",
-      "time": "2026-08-27 20:05:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：關稅和戰爭相關的價格上漲對美聯儲構成挑戰。"
-    },
-    {
-      "id": "mkt:01a0431b-d8a4-7aab-9151-35bdf8036c37",
-      "time": "2026-08-27 20:04:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "GOOLSBEE said tariff- and war-related price increases pose a challenge for the Federal Reserve."
-    },
-    {
-      "id": "5062708",
-      "time": "2026-08-27 20:04:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科力爾：2026年上半年淨利潤虧損1152.84萬元，同比由盈轉虧】科力爾公告，2026年上半年營業收入10.15億元，同比增長11.91%；歸屬於上市公司股東的淨利潤虧損1152.84萬元，上年同期為2917.64萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損877.86萬元，上年同期為3053.12萬元，同比由盈轉虧。"
-    },
-    {
-      "id": "5062707",
-      "time": "2026-08-27 20:04:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普對印度的觀點：預計提高煉油燃料出口關稅，將能在一定程度上彌補因削減消費稅而造成的收入損失。"
-    },
-    {
-      "id": "mkt:01a0431b-a516-7aab-9151-2d5c5b7ec1a4",
-      "time": "2026-08-27 20:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P: Moscow says it has reason to believe French and Ukrainian intelligence services were involved in planning a recent large-scale militant attack in Mali."
-    },
-    {
-      "id": "5062706",
-      "time": "2026-08-27 20:04:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：10月份北海四十號油田原油裝載量定為8船。"
-    },
-    {
-      "id": "mkt:01a0431b-2e1f-7aab-9151-2471b99ecd29",
-      "time": "2026-08-27 20:04:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P says India's favorable GDP growth and interest-rate differential keep government borrowing sustainable and expects this to continue."
-    },
-    {
-      "id": "5062705",
-      "time": "2026-08-27 20:04:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天齊鋰業：2026年上半年淨利潤42.42億元，同比增長4,925.46%】天齊鋰業公告，2026年上半年營業收入122.42億元，同比增長153.32%；歸屬於上市公司股東的淨利潤42.42億元，同比增長4,925.46%，2025年上半年為8441.06萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤42億元，同比增長318,054.90%。"
-    },
-    {
-      "id": "5062704",
-      "time": "2026-08-27 20:04:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佛塑科技：2026年上半年淨利潤9.05億元，同比增長1608.12%】佛塑科技公告，2026年上半年營業收入38.77億元，同比增長259.61%；歸屬於上市公司股東的淨利潤9.05億元，同比增長1608.12%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.6億元，同比增長858.52%。公司完成發行股份及支付現金購買金力新能源100%股權，金力新能源自2026年2月起納入合併報表範圍。"
-    },
-    {
-      "id": "5062703",
-      "time": "2026-08-27 20:03:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：印度有利的GDP增長與利率差使政府借貸保持可持續性，我們預計這一趨勢將持續。"
-    },
-    {
-      "id": "5062702",
-      "time": "2026-08-27 20:03:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯：莫斯科有理由相信，法國和烏克蘭的安全部門是馬裡近期武裝分子大規模襲擊的幕後黑手。"
-    },
-    {
-      "id": "5062701",
-      "time": "2026-08-27 20:02:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普就印度看法：預計今年燃油消費稅下調的影響以及可能增加的化肥補貼支出將給財政赤字帶來壓力。"
-    },
-    {
-      "id": "5062700",
-      "time": "2026-08-27 20:01:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "波羅的海乾散貨運價指數漲1.67%，至3107點。"
-    },
-    {
-      "id": "5062699",
-      "time": "2026-08-27 20:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：到2027年人工智慧基礎設施投資將超過1.3萬億美元。"
-    },
-    {
-      "id": "te:markets:578695",
-      "time": "2026-08-27 20:01:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Arabica Coffee Futures at 3-Week Low — Arabica coffee futures extended their decline, trading around $3.1 per pound, the lowest level since August 6, amid the prospect of increased coffee supply in Brazil. More than 90% of the harvest has now been completed, helped by drier weather, with the country heading for a record crop of around 75 million bags. The prospect of additional supply is particularly relevant against a backdrop of dwindling inventories, potentially easing some of the tightness in the market. Reports that some Brazilian warehouses are nearing capacity also pressured prices, as limited storage space could force farmers to sell more beans. However, erratic weather and growing climate risks continue to cloud the outlook for next year’s crop. Fears of a potentially strong El Niño persisted, as the weather pattern could delay rainfall during the critical September-October flowering period."
     }
   ]
 }
