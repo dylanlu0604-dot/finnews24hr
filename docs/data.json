@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-04 05:54:46",
-  "count": 13002,
+  "updated": "2026-09-04 05:58:41",
+  "count": 13001,
   "items": [
+    {
+      "id": "5076299",
+      "time": "2026-09-04 05:55:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉美股盤後轉跌。"
+    },
     {
       "id": "5076298",
       "time": "2026-09-04 05:51:17",
@@ -119477,29 +119485,6 @@
         "AI Revolution"
       ],
       "text": "【Sources: Anthropic explored roughly $7 billion acquisition of MatX】Sources said Anthropic discussed buying AI-chip startup MatX for about $7 billion to accelerate custom-hardware development for its rapidly growing AI business. Talks later shifted toward a partnership, the sources added. One source said MatX is seeking a new funding round valuing the company near $4 billion. Discussions indicate Anthropic may target chips for model training, while other chip startups and rival OpenAI are developing processors optimized for inference; sources said Anthropic could also opt to build inference chips."
-    },
-    {
-      "id": "mkt:01a0453a-8c20-7aab-915b-a640261d4777",
-      "time": "2026-08-28 05:57:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "【WSJ: NVIDIA pauses part of AI cloud revenue‑share program tied to $36 bln commitments】The Wall Street Journal, citing people familiar with the matter, reports NVIDIA (NVDA.O) has paused part of its AI compute partner program that provided credit support to cloud providers in exchange for revenue sharing, less than two months after the plan’s July announcement. NVIDIA disclosed this week the proposed, typically six‑year agreements involve about $36 billion in commitments. Under the proposal, if a cloud provider cannot find customers NVIDIA would lease its GPUs to them to guarantee revenue and help secure financing; once provider revenue exceeds a base threshold covering chip depreciation, data‑center and personnel costs, NVIDIA would receive 50% of the excess. Some NVIDIA employees fear the program could prompt antitrust scrutiny over how much the company could shape customer operations. NVIDIA may adjust the program or fold it into other initiatives."
-    },
-    {
-      "id": "5063462",
-      "time": "2026-08-28 05:55:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行業再傳利好 二十九隻醫藥股市盈率低於三十倍】隨著國內藥企源頭創新能力持續提升、全球商業化體系不斷完善、產業政策持續最佳化向好，具備核心競爭力的優質創新藥資產價值終將回歸。 證券時報·資料寶統計，根據目前披露的業績資料，按照半年報、業績快報、預告淨利潤下限（若未披露下限則取公告數值）計算，2026年上半年淨利潤同比增長20%以上（含扭虧為盈）的生物醫藥股有112只。（證券時報）"
     }
   ]
 }
