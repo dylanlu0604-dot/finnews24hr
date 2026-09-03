@@ -1,7 +1,31 @@
 {
   "date": "2026-09-04",
-  "count": 23,
+  "count": 25,
   "items": [
+    {
+      "id": "mkt:01a0680e-ef10-7118-848d-21f8f062e1fd",
+      "time": "2026-09-04 00:16:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Sources said Israeli forces continue to detonate Lebanese civilian homes in Hula, southern Lebanon."
+    },
+    {
+      "id": "mkt:01a0680c-dc00-7118-848d-1c6080e6deb3",
+      "time": "2026-09-04 00:14:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's prime minister Netanyahu said overthrowing Iran remains a core objective and is now within reach, not impossible but attainable."
+    },
     {
       "id": "te:markets:581032",
       "time": "2026-09-04 00:12:22",
