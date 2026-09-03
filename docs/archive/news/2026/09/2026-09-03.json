@@ -1,7 +1,78 @@
 {
   "date": "2026-09-03",
-  "count": 596,
+  "count": 604,
   "items": [
+    {
+      "id": "5074152",
+      "time": "2026-09-03 08:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：09月03日07時47分在南桑威奇群島地區（南緯56.10度，西經27.85度）發生6.2級地震，震源深度120千米。"
+    },
+    {
+      "id": "5074151",
+      "time": "2026-09-03 08:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年09月03日08時01分發布海上雷雨大風黃色預警訊號：受對流雲團影響，本島西部海面03日08時01分到17時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
+    },
+    {
+      "id": "5074150",
+      "time": "2026-09-03 08:11:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：威特科夫上週末會見阿聯酋高官 討論了有關伊朗的下一步行動】據兩名瞭解此次會晤的訊息人士稱，白宮特使史蒂夫·威特科夫上週末與阿拉伯聯合大公國國家安全顧問舉行了會面，討論針對伊朗的下一步行動。此次會談未被白宮公開宣佈，也直到現在才被報道。會談發生在特朗普政府試圖重新開放霍爾木茲海峽的同時，對伊朗實施經濟封鎖。威特科夫在地中海的撒丁島與謝赫·塔洪·本·扎耶德·阿勒納哈揚（TBZ）進行了會面。阿聯酋一直是美國主導的重新開放並引導油輪透過該海峽行動的關鍵合作伙伴，同時也是美國對伊朗實施經濟壓力行動能否成功的關鍵因素。TBZ是阿聯酋最具影響力的領導人之一，他是總統穆罕默德·本·扎耶德的兄弟，現任國家安全部顧問及阿布扎比副統治者，負責監管阿聯酋龐大的投資與科技業務。訊息人士稱，威特科夫與TBZ共同探討了伊朗危機的後續應對措施，並討論了其他議題。白宮未回應置評請求。"
+    },
+    {
+      "id": "5074149",
+      "time": "2026-09-03 08:10:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌4.5個基點，至2.965%。5年期日本國債收益率下跌2.0個基點，至2.290%。"
+    },
+    {
+      "id": "mkt:01a0649a-7ff6-7118-8470-2998ac3d01d8",
+      "time": "2026-09-03 08:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 6.50 points (+0.07%) at 8,984.9 on Sept 3 (Thursday)."
+    },
+    {
+      "id": "5074148",
+      "time": "2026-09-03 08:10:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,990.20點。"
+    },
+    {
+      "id": "mkt:01a06499-ede6-7118-8470-2523b096e1a5",
+      "time": "2026-09-03 08:10:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 10-year bond yield fell 4.5 bps to 2.965%."
+    },
+    {
+      "id": "te:economy:580613",
+      "time": "2026-09-03 08:09:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Services Growth Hits 9-Month High — The AIB Ireland Services PMI inched up to 55.4 in August 2026 from July’s 55.2, marking the highest reading since November 2025. The acceleration in services activity was buoyed by a solid increase in new business, boosted by overseas demand, albeit at a more modest pace than in July. Financial services led the sector, followed by technology, media & telecoms. New business accelerated in August, almost matching June’s seven-month high."
+    },
     {
       "id": "mkt:01a06498-5f92-7118-8470-1b2db13c4418",
       "time": "2026-09-03 08:08:22",
