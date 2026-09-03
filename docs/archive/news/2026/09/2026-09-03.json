@@ -1,7 +1,109 @@
 {
   "date": "2026-09-03",
-  "count": 606,
+  "count": 616,
   "items": [
+    {
+      "id": "5074161",
+      "time": "2026-09-03 08:20:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：看好AI算力叢集持續擴容背景下光通訊散熱賽道的高成長性】中金公司研報稱，看好AI算力叢集持續擴容背景下光通訊散熱賽道的高成長性，建議重點關注光模組VC、液冷Cage及共封裝交換機液冷機會。隨著光模組速率升級，單模組功耗不斷提升，傳統風冷逐步接近散熱邊界，VC均熱板、液冷cage等高效散熱方案滲透率有望加速提升，行業同時受益於光通訊需求增長的Beta和液冷滲透率、單位價值量提升的Alpha；同時，NPO/CPO/XPO等新封裝路線演進有望進一步將散熱需求由模組級向系統級延伸，持續開啟產業空間。供應鏈層面，光模組散熱廠商依託全球領先的光模組產業叢集，在客戶協同、快速響應、成本控制及精密製造方面具備優勢，光模組cage廠商在風冷cage時代已切入海外頭部聯結器供應鏈，液冷時代有望沿用既有客戶關係實現產品升級和價值量提升。"
+    },
+    {
+      "id": "5074160",
+      "time": "2026-09-03 08:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流入44.79億元】據同花順iFinD資料，2026年9月2日，ETF資金整體淨流入44.79億元，股票型淨流出27.86億元，寬基型淨流出13.84億元。當日ETF資金淨流入榜單排名前3依次為：華寶添益（511990）淨流入34.48億元，易方達創業板ETF（159915）淨流入14.56億元，銀華日利（511880）淨流入8.19億元。"
+    },
+    {
+      "id": "5074159",
+      "time": "2026-09-03 08:19:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博通預計AI晶片營收未來兩年飆升】當地時間9月2日，博通執行長陳福陽在財報電話會議上表示，AI晶片營收預計將在2027財年增加一倍，達到約1150億美元，2028財年進一步升至2300億美元。該公司2028財年每股收益也有望超過30美元，高於華爾街預期。陳福陽預計，Anthropic將在2027年超越谷歌，成為博通定製晶片業務的最大客戶，OpenAI則將成為第二大客戶。"
+    },
+    {
+      "id": "mkt:01a064a2-7d85-7118-8470-390ac7753a58",
+      "time": "2026-09-03 08:19:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan's 5-year bond yield fell 2.0 bps to 2.290%."
+    },
+    {
+      "id": "5074158",
+      "time": "2026-09-03 08:18:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“沙德爾”影響 福建多地啟動“三停一休”】今年第18號颱風“沙德爾”（熱帶風暴級）的中心已於9月3日6時30分前後在福建省漳州市漳浦古雷沿海第三次登陸。受颱風和持續強降雨影響，福建省漳州市漳浦、詔安、東山等地啟動“三停一休”，即停工、停產、停課、休市。漳浦縣要求從今天7時起，除搶險救援、民生保障崗位外，各類企事業單位停工；詔安縣從今天8時起實行“三停一休”；東山縣則從今天6時起，除應急搶險、民生保障、生活必需品供應以及需連續生產的企業外，實行停工（業）、停產、停課、休市等措施。此外，福州市、泉州市所有幼兒園、中小學校、中職、高校、培訓機構、實踐基地營地，停止一切教育教學活動，確保安全。在廈門，廈門輪渡全線、廈金航線、泉金航線、廈漳輪渡9月3日起停航。"
+    },
+    {
+      "id": "mkt:01a064a1-d465-7118-8470-306dc6002a80",
+      "time": "2026-09-03 08:18:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "SSE Composite",
+        "WTI"
+      ],
+      "text": "【China International Capital Co: September sector allocation — target structural opportunities from industry momentum】China International Capital Co said September sector allocation should focus on structural opportunities signalled by industry momentum. Tech growth is likely to diverge, requiring selective names: AI infrastructure segments such as optical communications and PCBs remain in a clear upcycle this year and could rebound after recent sell-offs; semiconductors and compute firms need closer alignment of fundamentals and valuations; innovative drug developers entering clinical data validation merit bottom-up selection. Weighing geopolitics and capacity-cycle positions, prioritize industries with improving earnings and tightening supply-demand such as construction machinery, power-grid equipment and petrochemicals/chemicals. Purely domestic-demand sectors show slower recovery and require further observation."
+    },
+    {
+      "id": "te:economy:580616",
+      "time": "2026-09-03 08:18:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Foreign Exchange Reserves",
+        "Importance 0"
+      ],
+      "text": "South Korea FX Reserves Post Record Monthly Increase — South Korea’s foreign exchange reserves surged to $442.3 billion at the end of August 2026 from $428.0 billion in July, marking the largest monthly increase on record. The $14.3 billion rise was mainly driven by higher foreign currency deposits from financial institutions and gains in marketable securities. Securities remained the largest component, rising by $7.1 billion to $387.1 billion, while deposits jumped by $7.2 billion to $30.3 billion. Special Drawing Rights (SDRs) edged up to $15.8 billion, while the country’s reserve position at the IMF also increased slightly. Gold holdings were unchanged at $4.8 billion. Foreign exchange reserves have now risen for three consecutive months since June, with the August increase surpassing the previous record monthly gain of $14.29 billion set in May 2009."
+    },
+    {
+      "id": "5074157",
+      "time": "2026-09-03 08:17:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "迅銷公司股價下跌3%，此前該公司公佈的8月份同店銷售額疲軟。"
+    },
+    {
+      "id": "5074156",
+      "time": "2026-09-03 08:17:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：9月行業配置把握景氣線索下的結構性機會】中金公司釋出9月行業配置研報稱，把握景氣線索下的結構性機會：（1）科技成長後市或呈現分化走勢，需要精挑細選：AI基礎設施相關環節，如光通訊、PCB等環節，高景氣狀態在今年確定性仍較強，超跌後有望出現反彈。半導體及算力等領域較多公司則仍需關注基本面與估值的匹配程度；創新藥較多公司進入臨床資料驗證階段，值得自下而上關注。（2）綜合考慮地緣局勢與產能週期位置，關注業績向好及供需格局改善的領域：如工程機械、電網裝置、石化化工等。純內需行業的基本面回升進展仍然相對偏緩，需要進一步觀察。"
+    },
+    {
+      "id": "5074155",
+      "time": "2026-09-03 08:17:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿貝爾發表講話後，三菱商事領漲日本貿易公司。此前伯克希爾哈撒韋執行長格雷格·阿貝爾表示，日本債券收益率上升並未對該公司持有股份的日本主要交易公司造成影響，承諾長期支援日本的五家商社。"
+    },
     {
       "id": "5074154",
       "time": "2026-09-03 08:16:02",
