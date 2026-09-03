@@ -1,7 +1,115 @@
 {
   "date": "2026-09-03",
-  "count": 1377,
+  "count": 1389,
   "items": [
+    {
+      "id": "mkt:01a06602-39df-7118-8478-3adbe4c08fdc",
+      "time": "2026-09-03 14:43:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia's budget deficit is not severe."
+    },
+    {
+      "id": "5074698",
+      "time": "2026-09-03 14:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貿易商稱迦納可可產量或銳減超三分之一】受惡劣天氣與病害影響可可樹，迦納可可產量可能下滑超三分之一。迦納可可營銷公司的威斯多姆・科菲・多格貝預計，2026‑27 產季該國產量或將降至 47 萬‑62 萬噸。多格貝表示，反常天氣會嚴重損害收成，樹齡老化也在抑制產量。"
+    },
+    {
+      "id": "mkt:01a06601-9ecc-7118-8478-3158a2e9b35f",
+      "time": "2026-09-03 14:42:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he believes Russia will resolve the national budget deficit."
+    },
+    {
+      "id": "mkt:01a06601-3f1e-7118-8478-2fa931549b05",
+      "time": "2026-09-03 14:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said on interest rates and inflation it is important not to over-tighten the Russian economy."
+    },
+    {
+      "id": "5074697",
+      "time": "2026-09-03 14:42:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京談利率與通脹：至關重要的是不能讓俄羅斯經濟過度冷卻。"
+    },
+    {
+      "id": "te:markets:580760",
+      "time": "2026-09-03 14:41:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Bounces Back, Up 0.5% at Close — The ASX 200 gained 42 points, or 0.5%, to end at 9,020 on Thursday, rebounding from declines in the prior three sessions amid bargain hunting after Australian markets fell to a four-week low due to Q2 GDP data that reinforced views that the Reserve Bank may deliver another rate hike at its meeting later this month. In top trading partner China, private-sector activity accelerated in August from July’s four-month low, with stronger output and new orders for both manufacturing and services sectors. Non-energy minerals led gains, followed by financials, manufacturing, and communications, though losses in energy minerals, consumer durables, and healthcare capped the advance. Gold miners rallied, with Northern Star Resources and Evolution Mining each up 2.6%. The big four banks rose 1%–2%, while Lynas Rare Earths climbed 2.4%. In contrast, Corporate Travel plunged 84% to a near 14-year low after trading resumed following a year-long suspension over missed financial reporting deadlines."
+    },
+    {
+      "id": "5074696",
+      "time": "2026-09-03 14:41:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：標普500指數8月向上突破的有效性持續得到驗證】短期來看，技術面環境存在支撐。美國銀行技術分析師保羅·恰納表示，標普500指數8月向上突破的有效性持續得到驗證。但動量訊號轉弱，相對強弱指標RSI、MACD指標未能確認近期價格新高。季節性逆風因素、選舉不確定性、短端收益率上行，意味著行情進入壓力更大的階段，9‑10月高波動風險抬升，11‑12月才有望再度走強。“指數站穩7500點上方，上漲趨勢保持完整；但收益率上行，市場更可能進入震盪整理而非加速上行。”他給出目標位8000點、8234點，潛在高點8541點。“只要7500‑7504點支撐守住，趨勢依舊偏向走高。”"
+    },
+    {
+      "id": "mkt:01a06600-38ef-7118-8478-2075a7baf411",
+      "time": "2026-09-03 14:41:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Swiss inflation accelerates to near two-year high in August, far above forecasts】Swiss CPI rose 0.8% YoY in August versus 0.4% in July, exceeding all 16 economists in a Bloomberg survey, the Federal Statistical Office said on Thursday. This is the highest reading since September 2024 and suggests franc weakness is beginning to feed through to the real economy. It is the last inflation print before the SNB’s rate decision later this month; although the print overshot expectations, it remains broadly consistent with the SNB’s projected quarterly average inflation — a rebound policymakers will welcome. The report also indicates the Middle East energy shock has had a relatively muted impact on Swiss prices compared with larger neighbor effects."
+    },
+    {
+      "id": "5074695",
+      "time": "2026-09-03 14:40:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：部分市場泡沫已經出清，散戶追漲熱潮也有所消退】高盛歐非中東執行服務主管博比·莫拉維表示，當前倉位狀況“相比過去清爽不少”。部分市場泡沫已經出清，散戶追漲熱潮也有所消退。“我不會說投資者處於低配狀態，但相比6月，市場槓桿已經明顯不再過度擴張。除此之外，8月當月，透過區域、行業輪動以及股價表現，市場出現一定程度的行情擴散。”"
+    },
+    {
+      "id": "5074694",
+      "time": "2026-09-03 14:40:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華策影視等成立新公司 含AI軟體開發業務】企查查APP顯示，近日，集映行文化發展（杭州）有限責任公司成立，經營範圍包含人工智慧基礎軟體開發；計算機系統服務；網路文化經營；廣播電視節目製作經營等。企查查股權穿透顯示，該公司由華策影視等共同持股。"
+    },
+    {
+      "id": "5074693",
+      "time": "2026-09-03 14:40:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【大量對沖操作，市場蓄勢待發或將猛烈上行】投資者一直在為風險做準備，這本身製造出新的局面：無論波動率如何，真正的逼空行情指向上漲。倉位狀況“較此前清爽很多”，短線資金的方向性風險處於2025年4月“解放日”以來最低水平，空頭與對沖倉位的增持速度快於多頭。資料顯示，波動率已不再是風險警示訊號，反而轉變為買入訊號；股票指數出現高波動之後，往往會迎來超額收益。"
+    },
+    {
+      "id": "5074692",
+      "time": "2026-09-03 14:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海西州大柴旦地震災區生產生活秩序全面恢復】記者今天從青海海西州大柴旦抗震救災指揮部瞭解到，大柴旦“6·16”6.3級地震災後重建工作穩步推進，目前，轄區學校、醫院、商超已全部實現復工復課復產，城鄉生產生活秩序全面恢復。（央視新聞）"
+    },
     {
       "id": "5074691",
       "time": "2026-09-03 14:38:59",
