@@ -1,7 +1,147 @@
 {
   "date": "2026-09-03",
-  "count": 2055,
+  "count": 2070,
   "items": [
+    {
+      "id": "mkt:01a0672b-e0db-7118-8483-254e3fc7f509",
+      "time": "2026-09-03 20:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xiaomi Corp (01810.HK) signed memoranda of understanding with an initial group of German auto dealers."
+    },
+    {
+      "id": "5075536",
+      "time": "2026-09-03 20:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "普華永道與Palantir擴大戰略聯盟，以規模化推廣企業級AI。"
+    },
+    {
+      "id": "5075535",
+      "time": "2026-09-03 20:08:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石：BCRED基金貸款回款與資金流入規模超過贖回回購規模。"
+    },
+    {
+      "id": "mkt:01a0672a-f3ef-7118-8483-19f56ddbf18b",
+      "time": "2026-09-03 20:07:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): company is the largest contributor of data to Hugging Face."
+    },
+    {
+      "id": "5075534",
+      "time": "2026-09-03 20:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石：BCRED（私募信貸基金）資本狀況依舊穩健。"
+    },
+    {
+      "id": "mkt:01a0672a-9e30-7118-8483-10aa653c172a",
+      "time": "2026-09-03 20:07:21",
+      "tags": [
+        "MKT News",
+        "BX.O",
+        "Impact bearish"
+      ],
+      "text": "Blackstone private credit fund again caps redemptions at 5%."
+    },
+    {
+      "id": "5075533",
+      "time": "2026-09-03 20:07:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九州通與京東健康簽署戰略合作協議】據九州通醫藥集團訊息，9月3日，九州通醫藥集團（簡稱“九州通”）與京東健康簽署戰略合作協議。雙方將共同整合渠道、供應鏈、技術與金融服務等領域的核心優勢，圍繞供應鏈、履約、消費場景與數智化採購等場景進行多維度深化協同，不斷探索新模式、最佳化產業鏈效率。"
+    },
+    {
+      "id": "5075532",
+      "time": "2026-09-03 20:07:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部長：最大擔憂來自非美國本土控股的肉類加工企業。"
+    },
+    {
+      "id": "mkt:01a0672a-40f1-7118-8483-0a51a135eb90",
+      "time": "2026-09-03 20:06:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Deal expected to close in 1H 2027, subject to regulatory approval."
+    },
+    {
+      "id": "5075531",
+      "time": "2026-09-03 20:06:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黑石集團股價盤前下跌2.1%。"
+    },
+    {
+      "id": "mkt:01a06729-1c2c-7118-8483-031bb2997e56",
+      "time": "2026-09-03 20:05:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA (NVDA.O) will offer up to $1 billion in equity retention awards to Hugging Face employees who join the company."
+    },
+    {
+      "id": "5075530",
+      "time": "2026-09-03 20:05:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私募信貸基金：第三季度回購申請規模約43億美元。"
+    },
+    {
+      "id": "5075529",
+      "time": "2026-09-03 20:05:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達公司：根據提交給美國證券交易委員會的檔案，將為加入英偉達的Hugging Face員工提供高達10億美元的股權留任計劃。"
+    },
+    {
+      "id": "5075528",
+      "time": "2026-09-03 20:05:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司：交易預計於2027年上半年完成交割，需獲得監管部門批准。"
+    },
+    {
+      "id": "5075527",
+      "time": "2026-09-03 20:04:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數上漲4.71%，報3488點。"
+    },
     {
       "id": "mkt:01a06727-f011-7118-8482-f842b44af04b",
       "time": "2026-09-03 20:04:25",
