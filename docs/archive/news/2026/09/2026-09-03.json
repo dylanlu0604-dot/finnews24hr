@@ -1,7 +1,67 @@
 {
   "date": "2026-09-03",
-  "count": 2516,
+  "count": 2522,
   "items": [
+    {
+      "id": "5075930",
+      "time": "2026-09-03 23:19:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4510美元/盎司，日內漲2.79%。"
+    },
+    {
+      "id": "mkt:01a067d9-b2a4-7118-848b-8bd020635cc3",
+      "time": "2026-09-03 23:18:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Pricing document shows Saudi Arabia has set October official selling price of Arab Light crude to Asia at a $2/barrel discount to the Oman/Dubai average."
+    },
+    {
+      "id": "mkt:01a067d9-3f44-7118-848b-8127ed92e755",
+      "time": "2026-09-03 23:18:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said making Donald J. Trump the 'enemy' is politically advantageous for Canadian politicians such as Prime Minister Carney, but warned that if the Canadian economy collapses the outcome would be severely damaging for those politicians and 'worse than anything they've experienced.' He added, 'We'll see.'"
+    },
+    {
+      "id": "mkt:01a067d9-3d20-7118-848b-7dde13867c90",
+      "time": "2026-09-03 23:18:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Downdetector reports outages at OpenAI, Claude, Grok and Cursor】Downdetector reported Thursday morning that multiple major AI platforms experienced service disruptions, including OpenAI, Claude, Grok and Cursor. Claude displayed an error message: \"Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again later.\" Grok displayed messages saying: \"Grok is currently experiencing problems. We are working to restore service as soon as possible,\" and \"This model is temporarily unavailable. Please try another model.\" Downdetector users first reported Grok and Claude interruptions at about 9:00 a.m. US Eastern Time; reports of OpenAI issues began around 10:30 a.m. US Eastern Time."
+    },
+    {
+      "id": "5075929",
+      "time": "2026-09-03 23:17:28",
+      "tags": [
+        "資料",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯將 10 月銷往亞洲的阿拉伯輕質原油官方售價定為較阿曼 / 迪拜原油均價每桶貼水 2 美元。"
+    },
+    {
+      "id": "5075928",
+      "time": "2026-09-03 23:16:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：像卡尼總理這類加拿大政客把特朗普總統塑造成敵人，這對他們而言眼下看似有利。但等到加拿大經濟崩盤，這將在政治層面釀成嚴重惡果 —— 後果會比加拿大政客過往遭遇的任何局面都要糟糕。走著瞧！"
+    },
     {
       "id": "mkt:01a067d7-9ab3-7118-848b-772715eef313",
       "time": "2026-09-03 23:16:18",
