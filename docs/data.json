@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-03 19:46:11",
-  "count": 12778,
+  "updated": "2026-09-03 19:50:01",
+  "count": 12784,
   "items": [
+    {
+      "id": "mkt:01a0671a-66a2-7118-8482-b4fbd5c57027",
+      "time": "2026-09-03 19:49:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS raises Snowflake (SNOW.N) price target to $500 from $425."
+    },
+    {
+      "id": "mkt:01a0671a-19c5-7118-8482-abc3893ac9c3",
+      "time": "2026-09-03 19:49:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's foreign minister Lavrov said Europe has been the principal source of humanity's troubles for more than 500 years, the origin of the two world wars and, he said, of the current situation."
+    },
+    {
+      "id": "mkt:01a06719-a145-7118-8482-a088d0775871",
+      "time": "2026-09-03 19:48:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Putin: Possibility of resolving Russia-Ukraine conflict remains】Putin said on the 3rd at the Eastern Economic Forum plenary that a settlement of the Russia-Ukraine conflict remains possible but will ultimately depend on the parties involved. He said resolution hinges on whether Russia and Ukraine can reach a consensus. He called attacks, hijacking of civilian vessels and threats against civilian aircraft \"state terrorism\", and said Western allies' silence makes them \"accomplices in international terrorist activity\", which undermines prospects for peace talks. On Russia-U.S. ties, he said relevant agencies, including intelligence services, remain in contact and he hopes those contacts will yield positive results."
+    },
+    {
+      "id": "5075494",
+      "time": "2026-09-03 19:48:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：解決俄烏衝突的可能性依然存在】俄羅斯總統普京3日說，解決俄烏衝突的可能性依然存在，但能否實現最終取決於捲入衝突的當事雙方。普京當天在東方經濟論壇全體會議上指出，解決衝突的關鍵在於俄烏雙方是否能夠達成共識。普京表示，攻擊、劫持民用船隻，威脅對民用飛機發動攻擊是“國家恐怖主義行為”。烏克蘭的西方盟友對此默不作聲，充當“國際恐怖主義活動的共犯”。這無助於和平談判的進行。談及俄美關係，普京說，兩國相關部門，包括情報部門，一直保持著聯絡，他希望這種聯絡能帶來積極的成效。東方經濟論壇是俄羅斯重要的多邊國際平臺，於2015年開始舉辦。本屆論壇1日開幕，為期4天。(新華社)"
+    },
+    {
+      "id": "5075493",
+      "time": "2026-09-03 19:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體表示，造成傷亡的婚禮襲擊事件，“極有可能”使用了美製滑翔制導彈藥。"
+    },
+    {
+      "id": "5075492",
+      "time": "2026-09-03 19:47:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【東方生物：獲得多項國內外醫療器械註冊證】東方生物公告稱，公司及全資子公司上海萬子健生物近日取得多項醫療器械註冊證。國內方面，梅毒螺旋體抗體檢測試劑（膠體金法）、人乳頭瘤病毒核酸分型（18個型）檢測試劑盒（PCR-流式熒光雜交法）獲中國三類醫療器械註冊證；海外方面，促甲狀腺激素檢測試劑盒等多款熒光免疫相關產品及儀器獲歐盟、馬來西亞、印度尼西亞相關注冊認證。上述產品將豐富公司國內外相關領域產品佈局，實際銷售業績存在不確定性。"
+    },
+    {
+      "id": "5075491",
+      "time": "2026-09-03 19:47:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川長虹：擬參與投資設立長虹科創基金暨關聯交易】四川長虹公告稱，公司及下屬控股子公司擬作為有限合夥人、普通合夥人，與關聯方華豐科技及其他合夥人共同設立長虹科技創業股權投資基金合夥企業（有限合夥），基金總規模10.00億元，公司及下屬子公司合計認繳出資佔比56.85%。基金主要投資於智慧硬體、數字經濟、醫療健康等領域。本次交易構成關聯交易，不構成重大資產重組，未達到股東會審議標準。"
+    },
+    {
+      "id": "te:markets:580935",
+      "time": "2026-09-03 19:46:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Eases From Two-Year Peak — Cotton futures fell below $0.87 per pound, easing from a more than two-year high as traders took profits following the recent rally driven by concerns over tighter supply. The latest USDA crop progress report showed 39% of US cotton crops rated good or excellent, improving from 37% the previous week, easing some supply concerns. In Brazil, intense heat and severe drought accelerated harvesting, with 88.7% of the crop harvested. However, weather risks remain significant. The El Niño phenomenon is expected to persist through February 2027, potentially affecting crops across key producing regions. In India, below-average monsoon rainfall remains a concern after August precipitation came in 16% below normal, particularly given that nearly half of the country’s farmland lacks irrigation. Meanwhile, heavy rainfall in West Texas linked to Cyclone Eduardo is threatening yields, adding to uncertainty over the global cotton supply outlook."
+    },
+    {
+      "id": "mkt:01a06717-2b2e-7118-8482-9bec294b5ca5",
+      "time": "2026-09-03 19:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Stock Exchange and Korea Exchange signed a memorandum of understanding on cooperation."
+    },
+    {
+      "id": "5075489",
+      "time": "2026-09-03 19:45:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【韓江發生2026年第1號洪水】受降雨影響，廣東韓江高陂水利樞紐（廣東梅州）9月3日18時入庫流量漲至4850立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“韓江2026年第1號洪水”。（央視）"
+    },
     {
       "id": "5075488",
       "time": "2026-09-03 19:45:39",
@@ -347,6 +437,22 @@
         "其他"
       ],
       "text": "【機構：全球AR眼鏡雷鳥創新出貨量和銷量第一】IDC、Counterpoint、CINNO、洛圖科技、奧維雲網等多家權威市場研究機構相繼釋出了2026年上半年AR眼鏡與智慧眼鏡市場報告，雷鳥創新（RayNeo）獲得全球AR眼鏡與中國智慧眼鏡市場出貨量和銷量第一，其中，IDC、Counterpoint資料共同顯示，上半年雷鳥創新市場份額達24.8%。（澎湃）"
+    },
+    {
+      "id": "5075455",
+      "time": "2026-09-03 19:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行資料顯示，截至8月28日，土耳其中央銀行外匯儲備總額為711.1億美元，此前一週為742.3億美元。"
+    },
+    {
+      "id": "5075454",
+      "time": "2026-09-03 19:30:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“我們困住了” 美國議員警告對伊朗的有限戰爭不能無限期延續】美國和伊朗近幾日加大對彼此的軍事打擊力度，在停火與全面戰爭之間僵持，白宮仍難以結束這場已持續六個月的衝突。北卡羅來納州共和黨眾議員Pat Harrigan週三接受採訪時表示：“從軍事層面看，我們非常明顯地困住了。這一點毫無疑問。”Harrigan是眾議院軍事委員會成員。最新一輪相互打擊中，伊朗襲擊了商船，促使美國打擊伊斯蘭革命衛隊用於鎖定霍爾木茲海峽船隻目標的設施。隨後，伊朗向美國在該地區的基地發射導彈和無人機，包括位於約旦、科威特和巴林的基地。"
     },
     {
       "id": "5075453",
@@ -117291,54 +117397,6 @@
         "市場"
       ],
       "text": "【瑞銀髮行20億元人民幣五年期熊貓債 票面利率創新低】瑞銀宣佈成功在中國銀行間債券市場（CIBM）完成首筆熊貓債發行。債券發行規模為20億元人民幣，期限5年，票面利率為1.78%，創外資金融機構五年期熊貓債迄今最低票面利率及相較國家開發銀行基準的最窄利差，認購倍數超3倍，同時標誌著瑞士金融機構首次在中國發行熊貓債。"
-    },
-    {
-      "id": "5062666",
-      "time": "2026-08-27 19:49:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【星巴克中國回應店員要求給帶寵顧客讓座】8月26日，網路大V六神磊磊發文稱，其在一家星巴克門店店內邊喝咖啡邊工作時，被一店員要求給帶貓狗的顧客讓座。該店員稱，其所坐區域為“寵物專區”。8月27日，星巴克中國對介面新聞回應稱：我們關注到了顧客的反饋，並第一時間瞭解核實門店相關情況。門店在現場安排和服務協調過程中存在不足，給顧客帶來了不佳體驗。為此我們已向顧客本人表達了誠摯的歉意，並著手進行了改進，不在該店內繼續設定寵物區域。攜寵顧客需在店外寵物友好區落座。（介面新聞）"
-    },
-    {
-      "id": "5062665",
-      "time": "2026-08-27 19:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏和科技：近日股東合計減持661萬股公司股份 佔總股本的0.73%】宏和科技(603256.SH)公告稱，公司股東SHARPTONEINTERNATIONALLIMITED及UNICORNACELIMITED於2026年7月6日至8月27日期間，透過集中競價和大宗交易方式合計減持公司股份660.78萬股，佔總股本的0.73%。本次權益變動後，資訊披露義務人合計持股比例由80.73%降至80.00%。本次減持系股東自身資金需求，不會導致公司控股股東及實際控制人發生變化。"
-    },
-    {
-      "id": "5062664",
-      "time": "2026-08-27 19:48:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：上半年國內消費級AI/AR市場銷量同比增長65%】8月27日，根據CINNO • XResearch統計資料顯示，2026年上半年國內消費級AI/AR裝置市場整體銷量達43.3萬臺，同比大幅增長65%，行業增長勢能強勁，正式邁入規模化高速增長階段。從產品結構拆分來看，帶屏沉浸式AR裝置憑藉畫質、空間互動、沉浸式體驗優勢，上半年銷量33.4萬臺，同比增長79%，持續擔當市場增長核心支柱；無屏AI智慧眼鏡依託輕量化、日常佩戴、AI智慧輔助屬性快速滲透，銷量9.9萬臺，同比增長30%。兩類品類協同擴容，持續拓寬消費級AR市場邊界。"
-    },
-    {
-      "id": "5062663",
-      "time": "2026-08-27 19:47:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第33屆中國電視金鷹獎頒獎活動延期舉行】據中國電視藝術家協會訊息，中國金鷹電視藝術節組委會發布公告：經研究決定，原定8月28日—30日舉辦的第33屆中國電視金鷹獎頒獎活動暨第16屆中國金鷹電視藝術節延期舉行。（央視新聞）"
-    },
-    {
-      "id": "5062662",
-      "time": "2026-08-27 19:46:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電氣風電中標甘電投甘肅150MW風電專案】據上海電氣風電集團訊息，近日，甘肅慶陽東數西算產業園區綠電聚合試點（二期）專案750MW風力發電機組、附屬裝置（含塔筒、箱變）採購專案公開中標候選人公示，顯示電氣風電成功中標其中標段一150MW風電專案。本次中標是電氣風電與甘肅電投集團的首次合作。電氣風電將為其提供24臺陸上卓越平臺機組及相關服務。"
-    },
-    {
-      "id": "5062661",
-      "time": "2026-08-27 19:46:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國貿促會副會長劉健男會見香港英國商會主席馬紹輝一行】8月27日，中國貿促會副會長劉健男在京會見香港英國商會主席馬紹輝一行。雙方就深化兩機構合作、加強工商界交流、推動產業鏈供應鏈融合等議題進行交流。（中國貿促）"
     }
   ]
 }
