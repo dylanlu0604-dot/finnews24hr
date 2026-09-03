@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-04 07:36:14",
-  "count": 13014,
+  "updated": "2026-09-04 07:40:09",
+  "count": 13017,
   "items": [
+    {
+      "id": "5076400",
+      "time": "2026-09-04 07:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯巴魯及其他日本供應商將聯手應對波音增產帶來的交付挑戰。據報道，斯巴魯與其他日本航空零部件製造商將聯手合作，聯合運送分包商產出的零部件以壓縮成本，其他企業也將加入該合作。"
+    },
+    {
+      "id": "5076399",
+      "time": "2026-09-04 07:37:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉偉已任上海楊浦區委副書記】2026年9月3日，上海市楊浦區人民政府官網資料更新顯示，劉偉已任楊浦區委副書記。"
+    },
+    {
+      "id": "5076398",
+      "time": "2026-09-04 07:37:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤漲450點，報64625點。"
+    },
+    {
+      "id": "5076397",
+      "time": "2026-09-04 07:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜GLM-5.3-Flash限時開啟夜間免費暢用】9月3日深夜，智譜宣佈，即日起至9月20日，GLM Coding Plan推出“Flash × ZCode”暢蹬活動，每晚23點至次日9點，呼叫套餐中的GLM-5.3-Flash，在ZCode中免費使用，在套餐支援的其他Agent中使用額度翻倍，進入指定時間段自動生效。"
+    },
+    {
+      "id": "5076396",
+      "time": "2026-09-04 07:36:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【貝森特：美國讚賞歐盟對伊朗制裁計劃的支援】美國財政部長斯科特・貝森特在 X 平臺發帖表示，歐盟加入 “經濟棄兒行動”，美國對歐盟 “及早展現的強硬立場” 表示讚賞。貝森特稱：“全世界正在向伊朗政權發出明確訊號：除非切斷其剩餘全部金融命脈，否則我們不會收手。”"
+    },
+    {
+      "id": "te:economy:581066",
+      "time": "2026-09-04 07:36:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Household Spending",
+        "Importance 2"
+      ],
+      "text": "Japan Personal Spending Fall More than Estimated — Japan's household spending declined 3.6% yoy in July 2026, deepening from a 3.3% drop in the prior month and underperforming market expectations for a 1.6% fall. It marked the eighth straight month of contraction and the sharpest pace since January 2024, underscoring persistent weakness in consumer demand. On a seasonally adjusted monthly basis, household expenditure rose 0.5%, reversing a 6.4% decline in June and missing forecasts for a 2.6% increase."
+    },
     {
       "id": "5076395",
       "time": "2026-09-04 07:33:56",
@@ -119514,34 +119567,6 @@
         "國際"
       ],
       "text": "特朗普在社交媒體發文表示，英偉達剛剛宣佈創紀錄的962億美元銷售額，並預測2028年收入增長70%，祝賀黃仁勳“這些驚人數字”和公司“巨大成功”，並補充說“只有在美國”。"
-    },
-    {
-      "id": "te:economy:578819",
-      "time": "2026-08-28 07:39:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Tokyo Core CPI",
-        "Importance 1"
-      ],
-      "text": "Tokyo Core Inflation Hits 5-Month High — Core consumer prices in Tokyo’s central wards increased 1.8% yoy in August 2026, following a downwardly revised 1.7% rise in the previous month and exceeding expectations of 1.7%. It was the third consecutive month of acceleration and marked the fastest increase since March, signaling broadening price pressures stemming from the Middle East conflict. However, inflation remained below the Bank of Japan’s 2% target for a seventh consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the conflict."
-    },
-    {
-      "id": "5063542",
-      "time": "2026-08-28 07:36:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股債蹺蹺板效應再現 10年期國債收益率重返1.7%上方】8月27日，A股主要指數集體收漲，科創50指數上漲3.77%；債市則承壓回撥，國債期貨全線收跌，30年期品種跌破116元關口，10年期國債收益率時隔十個交易日重返1.7%上方，股債蹺蹺板效應再次顯現。股債走勢分化之際，影響債市的多重因素也在發生變化。業內人士認為，國債收益率進一步下行需要更強的推動因素，債市或逐步告別單邊走勢，進入波動加劇階段。（上海證券報）"
-    },
-    {
-      "id": "5063541",
-      "time": "2026-08-28 07:36:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "美麗田園醫療健康(02373)釋出截至2026年6月30日止六個月業績，該集團期內取得收入18.82億元人民幣，同比增加29%；淨利潤2.39億元，同比增加40.2%；每股基本收益0.91元。"
     }
   ]
 }
