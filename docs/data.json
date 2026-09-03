@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-04 02:41:25",
-  "count": 13026,
+  "updated": "2026-09-04 02:45:25",
+  "count": 13027,
   "items": [
+    {
+      "id": "mkt:01a06895-ad39-7118-848f-8d0d58bf57c8",
+      "time": "2026-09-04 02:43:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Zuckerberg told Trump he opposes a national AI regulator】Business Insider reported Meta CEO Mark Zuckerberg told President Trump last month he opposed plans for a national AI regulator. Sources said Trump phoned Zuckerberg the week of Aug. 17 to discuss a White House consideration of a FINRA-style independent body, a proposal from DeepMind CEO Demis Hassabis to subject advanced AI models to review and risk testing. Zuckerberg said any regulator should reflect the Trump administration’s relatively permissive approach to AI oversight but did not press Trump to change course. The White House said it is weighing the plan while seeking to balance AI innovation and safety and is also evaluating an industry-led self-regulatory option. Zuckerberg has warned that overly strict rules could slow model releases and harm U.S. competitiveness in AI."
+    },
     {
       "id": "mkt:01a06892-ebde-7118-848f-858989304674",
       "time": "2026-09-04 02:40:54",
