@@ -1,7 +1,126 @@
 {
   "date": "2026-09-03",
-  "count": 846,
+  "count": 858,
   "items": [
+    {
+      "id": "mkt:01a064f9-394d-7118-8472-91eaea8b33e3",
+      "time": "2026-09-03 09:54:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【South Korea stocks rebound; chip stocks follow U.S. gains】South Korea's KOSPI rose more than 1% on Thursday, rebounding from a two-week low as semiconductor names tracked overnight gains on Wall Street. U.S. equities rallied on Wednesday after three straight days of declines, prompting investors to buy previously oversold stocks and sectors. Broadcom said on Wednesday it expects strong AI-chip sales over the next two years, providing fresh evidence of continued demand for AI infrastructure; investors are still assessing returns on large AI investments. Of 907 KOSPI-listed stocks traded, 568 advanced and 304 declined. Foreign investors were net sellers of KRW 210.3 bln (about $155.1m) of Korean equities."
+    },
+    {
+      "id": "5074309",
+      "time": "2026-09-03 09:53:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長久物流投資成立供應鏈管理新公司】企查查APP顯示，近日，深圳前海長久源航供應鏈管理有限公司成立，經營範圍包含供應鏈管理服務；國際貨物運輸代理；國內貨物運輸代理；資訊科技諮詢服務；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由長久物流全資持股。"
+    },
+    {
+      "id": "5074308",
+      "time": "2026-09-03 09:53:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量787億元。"
+    },
+    {
+      "id": "5074307",
+      "time": "2026-09-03 09:53:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電機板塊震盪走強 方正電機、鳴志電器漲停】電機板塊震盪走強，方正電機、鳴志電器漲停，三協電機、兆威機電、神力股份、華瑞股份、臥龍電驅跟漲。"
+    },
+    {
+      "id": "5074306",
+      "time": "2026-09-03 09:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國賓夕法尼亞州衛生部：2026年迄今，賓夕法尼亞州36個縣已確診540例麻疹病例。"
+    },
+    {
+      "id": "te:economy:580653",
+      "time": "2026-09-03 09:52:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "China Services Growth Beats Estimates — The RatingDog China General Services PMI rose to 51.4 in August 2026 from 50.4 in July, which was the softest pace since September 2024, surpassing market forecasts of 50.6. However, the latest reading was the second-lowest in 14 months, though faster than in July. The increase was mainly supported by domestic demand, while foreign sales rose for the fourth straight month, but at a more modest pace than in July. Employment rose for the fourth consecutive month, marking the longest sequence of growth since 2023."
+    },
+    {
+      "id": "5074305",
+      "time": "2026-09-03 09:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數再度翻綠，此前一度漲超1%。成分股中，中科飛跌超3%。"
+    },
+    {
+      "id": "5074304",
+      "time": "2026-09-03 09:52:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器概念短線拉昇，巨輪智慧、光洋股份漲停】減速器概念短線拉昇，巨輪智慧、光洋股份漲停，豐光精密、聯誠精密、美湖股份、恆工精密、中馬傳動等跟漲。"
+    },
+    {
+      "id": "mkt:01a064f7-1c03-7118-8472-8f2523346651",
+      "time": "2026-09-03 09:51:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share lab-grown diamond sector rallied; Hengsheng Energy hit the daily limit, Huifeng Diamond gained over 5%, and Sifangda, Woerde, Huanghe Xuanfeng, Hongchang Technology and Liliang Diamond also advanced."
+    },
+    {
+      "id": "te:markets:580652",
+      "time": "2026-09-03 09:51:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Holds Gain Amid Supply Risks — European natural gas prices steadied around €73 per MWh on Thursday after touching their highest intraday level since January 2023 in the previous session, as investors weighed the risk of further supply disruptions amid renewed US-Iran military strikes. President Trump said the renewed campaign against Iran would not last long but warned that Tehran could face heavy attacks if the dispute over the Strait of Hormuz remains unresolved. The latest escalation marked the most intense exchange of strikes between the two sides since July, with neither willing to relinquish control of the strategic waterway. Around one-fifth of global LNG trade typically passes through the strait, primarily from Qatar. With the winter heating season approaching and European gas storage levels remaining below seasonal norms, the market remains highly sensitive to any prolonged disruption to Gulf supplies."
+    },
+    {
+      "id": "mkt:01a064f6-4c6a-7118-8472-8224aaa7a4b4",
+      "time": "2026-09-03 09:50:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【RatingDog China services PMI rises to 51.4 in August; expansion modestly rebounds】RatingDog China services PMI rose to 51.4 in August, up 1.0 ppt from July and the 44th consecutive month above the 50 expansion threshold. Demand improved: new business grew for the 44th month and accelerated versus July. New export orders remained in expansion for a fourth month but slowed from June’s year‑to‑date high. Firms’ 12‑month activity expectations recovered from July’s recent low. Input-cost pressures ticked up from July’s six‑month low but stayed moderate; selling prices were raised for a third consecutive month. Employment continued to expand, with the employment index rising for a fourth month — the longest consecutive growth streak since 2023. Overall, services activity and new orders accelerated and business confidence improved modestly."
+    },
+    {
+      "id": "5074303",
+      "time": "2026-09-03 09:50:57",
+      "tags": [
+        "資料"
+      ],
+      "text": "【8月RatingDog中國服務業PMI升至51.4，擴張態勢小幅回升】8月RatingDog中國服務業PMl錄得51.4，較7月回升1.0個百分點，連續第44個月處於擴張區間，擴張速度小幅回升。需求端增長有所改善。新業務總量連續第44個月增長，增速較7月加快。新出口業務連續第四個月保持擴張，增速較6月的年內高點進一步放緩。企業對未來12個月的業務活動預期較7月的近期低點回升。成本壓力小幅上升，就業延續擴張。投入品價格漲幅較7月的六個月低點小幅回升，整體仍屬溫和。銷售價格連續第三個月小幅上調。就業規模連續第四個月回升，為2023年以來最長連續增長期。整體來看，8月服務業擴張速度較7月小幅回升，業務活動與新訂單增長加快，就業持續擴張，企業信心改善。（RatingDog）"
+    },
     {
       "id": "5074302",
       "time": "2026-09-03 09:50:21",

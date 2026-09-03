@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-03 09:51:07",
+  "updated": "2026-09-03 09:55:06",
   "count": 12082,
   "items": [
+    {
+      "id": "mkt:01a064f9-394d-7118-8472-91eaea8b33e3",
+      "time": "2026-09-03 09:54:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【South Korea stocks rebound; chip stocks follow U.S. gains】South Korea's KOSPI rose more than 1% on Thursday, rebounding from a two-week low as semiconductor names tracked overnight gains on Wall Street. U.S. equities rallied on Wednesday after three straight days of declines, prompting investors to buy previously oversold stocks and sectors. Broadcom said on Wednesday it expects strong AI-chip sales over the next two years, providing fresh evidence of continued demand for AI infrastructure; investors are still assessing returns on large AI investments. Of 907 KOSPI-listed stocks traded, 568 advanced and 304 declined. Foreign investors were net sellers of KRW 210.3 bln (about $155.1m) of Korean equities."
+    },
+    {
+      "id": "5074309",
+      "time": "2026-09-03 09:53:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長久物流投資成立供應鏈管理新公司】企查查APP顯示，近日，深圳前海長久源航供應鏈管理有限公司成立，經營範圍包含供應鏈管理服務；國際貨物運輸代理；國內貨物運輸代理；資訊科技諮詢服務；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由長久物流全資持股。"
+    },
+    {
+      "id": "5074308",
+      "time": "2026-09-03 09:53:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量787億元。"
+    },
+    {
+      "id": "5074307",
+      "time": "2026-09-03 09:53:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電機板塊震盪走強 方正電機、鳴志電器漲停】電機板塊震盪走強，方正電機、鳴志電器漲停，三協電機、兆威機電、神力股份、華瑞股份、臥龍電驅跟漲。"
+    },
+    {
+      "id": "5074306",
+      "time": "2026-09-03 09:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國賓夕法尼亞州衛生部：2026年迄今，賓夕法尼亞州36個縣已確診540例麻疹病例。"
+    },
+    {
+      "id": "5074305",
+      "time": "2026-09-03 09:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數再度翻綠，此前一度漲超1%。成分股中，中科飛跌超3%。"
+    },
+    {
+      "id": "te:economy:580653",
+      "time": "2026-09-03 09:52:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "China Services Growth Beats Estimates — The RatingDog China General Services PMI rose to 51.4 in August 2026 from 50.4 in July, which was the softest pace since September 2024, surpassing market forecasts of 50.6. However, the latest reading was the second-lowest in 14 months, though faster than in July. The increase was mainly supported by domestic demand, while foreign sales rose for the fourth straight month, but at a more modest pace than in July. Employment rose for the fourth consecutive month, marking the longest sequence of growth since 2023."
+    },
+    {
+      "id": "5074304",
+      "time": "2026-09-03 09:52:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器概念短線拉昇，巨輪智慧、光洋股份漲停】減速器概念短線拉昇，巨輪智慧、光洋股份漲停，豐光精密、聯誠精密、美湖股份、恆工精密、中馬傳動等跟漲。"
+    },
+    {
+      "id": "mkt:01a064f7-1c03-7118-8472-8f2523346651",
+      "time": "2026-09-03 09:51:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share lab-grown diamond sector rallied; Hengsheng Energy hit the daily limit, Huifeng Diamond gained over 5%, and Sifangda, Woerde, Huanghe Xuanfeng, Hongchang Technology and Liliang Diamond also advanced."
+    },
+    {
+      "id": "te:markets:580652",
+      "time": "2026-09-03 09:51:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Holds Gain Amid Supply Risks — European natural gas prices steadied around €73 per MWh on Thursday after touching their highest intraday level since January 2023 in the previous session, as investors weighed the risk of further supply disruptions amid renewed US-Iran military strikes. President Trump said the renewed campaign against Iran would not last long but warned that Tehran could face heavy attacks if the dispute over the Strait of Hormuz remains unresolved. The latest escalation marked the most intense exchange of strikes between the two sides since July, with neither willing to relinquish control of the strategic waterway. Around one-fifth of global LNG trade typically passes through the strait, primarily from Qatar. With the winter heating season approaching and European gas storage levels remaining below seasonal norms, the market remains highly sensitive to any prolonged disruption to Gulf supplies."
+    },
+    {
+      "id": "mkt:01a064f6-4c6a-7118-8472-8224aaa7a4b4",
+      "time": "2026-09-03 09:50:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【RatingDog China services PMI rises to 51.4 in August; expansion modestly rebounds】RatingDog China services PMI rose to 51.4 in August, up 1.0 ppt from July and the 44th consecutive month above the 50 expansion threshold. Demand improved: new business grew for the 44th month and accelerated versus July. New export orders remained in expansion for a fourth month but slowed from June’s year‑to‑date high. Firms’ 12‑month activity expectations recovered from July’s recent low. Input-cost pressures ticked up from July’s six‑month low but stayed moderate; selling prices were raised for a third consecutive month. Employment continued to expand, with the employment index rising for a fourth month — the longest consecutive growth streak since 2023. Overall, services activity and new orders accelerated and business confidence improved modestly."
+    },
+    {
+      "id": "5074303",
+      "time": "2026-09-03 09:50:57",
+      "tags": [
+        "資料"
+      ],
+      "text": "【8月RatingDog中國服務業PMI升至51.4，擴張態勢小幅回升】8月RatingDog中國服務業PMl錄得51.4，較7月回升1.0個百分點，連續第44個月處於擴張區間，擴張速度小幅回升。需求端增長有所改善。新業務總量連續第44個月增長，增速較7月加快。新出口業務連續第四個月保持擴張，增速較6月的年內高點進一步放緩。企業對未來12個月的業務活動預期較7月的近期低點回升。成本壓力小幅上升，就業延續擴張。投入品價格漲幅較7月的六個月低點小幅回升，整體仍屬溫和。銷售價格連續第三個月小幅上調。就業規模連續第四個月回升，為2023年以來最長連續增長期。整體來看，8月服務業擴張速度較7月小幅回升，業務活動與新訂單增長加快，就業持續擴張，企業信心改善。（RatingDog）"
+    },
     {
       "id": "5074302",
       "time": "2026-09-03 09:50:21",
@@ -111053,131 +111172,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4690美元/盎司，日內漲0.80%。"
-    },
-    {
-      "id": "5061256",
-      "time": "2026-08-27 09:54:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6G概念走強 沃特股份漲停】6G概念走強，沃特股份漲停，昂瑞微漲超16%，賽微電子、亨通光電、烽火通訊、中天科技、瑞可達等漲幅居前。"
-    },
-    {
-      "id": "mkt:01a040ed-1606-7aab-913e-6cd9ed86f3da",
-      "time": "2026-08-27 09:54:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TRUMP's Thursday schedule (Beijing time)】Beijing time Aug 27 20:00 — TRUMP at the WHITE HOUSE handling administrative matters; 22:30 — TRUMP in the Oval Office for a policy meeting. Beijing time Aug 28 01:30 — TRUMP at the WHITE HOUSE for a signing ceremony; 07:00 — TRUMP in Houston for a Republican National Committee event."
-    },
-    {
-      "id": "5061255",
-      "time": "2026-08-27 09:54:17",
-      "tags": [
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國央行稱將根據經濟和通脹情況決定進一步加息的時機和步伐】韓國央行表示，將對經濟增長和金融穩定情況進行監測，同時力求將通脹穩定在目標水平，並據以決定進一步加息的時機和步伐。韓國央行的六個月指引顯示，21個點中有10個為3.25%，6個為3.5%，5個在目前的3%。韓國央行表示，隨著成本壓力傳導和需求側壓力增加，預計通脹將在相當長的一段時間內維持在目標水平以上。在持續強勁的出口和投資以及消費復甦走強的支撐下，預計經濟將繼續保持強勁增長。需要繼續關注首爾及周邊地區房價加速上漲和家庭債務增長的問題。今天的利率決議並非全票透過：6名委員支援加息，而黃建日則贊成維持在2.75%不變。"
-    },
-    {
-      "id": "mkt:01a040ec-71b8-7aab-913e-649aa6da633a",
-      "time": "2026-08-27 09:53:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea said the decision to raise the policy rate to 3.00% was not unanimous. One dissenting board member argued for holding the rate at 2.75%."
-    },
-    {
-      "id": "mkt:01a040eb-f7e6-7aab-913e-5e7fdd0aee08",
-      "time": "2026-08-27 09:53:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Thinking Machines co-founder Zoph joins Google as research vice president】The Wall Street Journal reported Barret Zoph, co-founder of Thinking Machines Lab, will join Google as research vice president. Zoph previously served as Thinking Machines' chief technology officer and left in January after a dispute with CEO Mira Murati, joining OpenAI to lead enterprise AI sales. A Google spokesperson said: \"We look forward to Barret returning to Google and bringing his expertise in reinforcement learning and fine-tuning to GEMINI.\" He departed Thinking Machines with co-founder Luke Metz and engineer Sam Schoenholz."
-    },
-    {
-      "id": "mkt:01a040eb-d79f-7aab-913e-55190dc0e750",
-      "time": "2026-08-27 09:53:12",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Foreign investors signal confidence in China’s market opening】As China advances high-level opening, Hitachi Energy (China) announced about $300m of strategic investment at a ceremony in Hefei for a new digital tap-changer production line and the ground‑breaking of an ultra‑high‑voltage bushing project — among the company's largest recent investments in China. Foreign firms are shifting activity in China from manufacturing toward local R&D and global services, citing China’s large market scale, consumption upgrades and strong technology-driven industrial upgrading as drivers of continued capital inflows, an Anhui University economics faculty member said."
-    },
-    {
-      "id": "5061254",
-      "time": "2026-08-27 09:52:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念走高 三孚股份等漲停】儲存晶片概念走高，三孚股份、凱瑞德漲停，大普微此前漲停，麥捷科技、安集科技、炬光科技、同有科技等漲幅居前。"
-    },
-    {
-      "id": "5061253",
-      "time": "2026-08-27 09:52:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【新加坡警方據悉突擊搜查鐵礦石貿易商Radiant World辦公室】知情人士透露，新加坡警方上週突擊搜查鐵礦石貿易商Radiant World當地辦公室，並問詢部分員工。此前有媒體報道稱，由於擔心Radiant World向其往來銀行提供的部分發票或其他檔案無效，多家大型大宗商品交易商已暫停與該公司往來。新加坡警方發言人表示，調查仍在進行中，目前無法提供更多細節。"
-    },
-    {
-      "id": "mkt:01a040eb-33d5-7aab-913e-48030fb4875e",
-      "time": "2026-08-27 09:52:31",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO said a weak yen could boost multinational companies' earnings and spur tourism spending, but could weigh on SMEs' profits by raising import costs."
-    },
-    {
-      "id": "mkt:01a040ea-fcf7-7aab-913e-45eb273f003c",
-      "time": "2026-08-27 09:52:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan Deputy Governor HIMINO expects inf in H2 of the current fiscal year to exceed 2%."
-    },
-    {
-      "id": "mkt:01a040ea-e497-7aab-913e-3ffe257a1176",
-      "time": "2026-08-27 09:52:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share storage-chip sector rallied; Sanfu Co. and Kairuide hit limit-up, Dapuwei had earlier hit limit-up. Maijie Technology, Anji Technology, Juguang Technology and Tongyou Technology were among top gainers."
-    },
-    {
-      "id": "5061252",
-      "time": "2026-08-27 09:51:17",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "巴雷特·佐夫：加入谷歌DeepMind。"
     }
   ]
 }
