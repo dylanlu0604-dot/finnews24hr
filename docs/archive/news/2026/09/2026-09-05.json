@@ -1,7 +1,72 @@
 {
   "date": "2026-09-05",
-  "count": 384,
+  "count": 391,
   "items": [
+    {
+      "id": "mkt:01a06e3d-b35a-7118-84ae-6847ad35ee1c",
+      "time": "2026-09-05 05:05:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch affirms Qatar's rating at \"AA\"; outlook negative."
+    },
+    {
+      "id": "5078367",
+      "time": "2026-09-05 05:05:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：此次評級上調反映葡萄牙公共財政狀況得到改善，政府債務預計將步入下行通道。"
+    },
+    {
+      "id": "mkt:01a06e3d-9091-7118-84ae-650fe7d9c8ff",
+      "time": "2026-09-05 05:05:23",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fitch upgraded Portugal's sovereign rating to A+ and left the outlook at stable."
+    },
+    {
+      "id": "5078366",
+      "time": "2026-09-05 05:04:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將葡萄牙的評級上調至“A+”，展望穩定。"
+    },
+    {
+      "id": "5078365",
+      "time": "2026-09-05 05:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認卡達評級為 “AA”，展望負面。"
+    },
+    {
+      "id": "te:markets:581411",
+      "time": "2026-09-05 05:03:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Posts Strongest Weekly Gain Since July — Crude oil traded around $91.2 a barrel on Friday and was up more than 9% for the week, marking its strongest weekly performance since mid-July, as the war in the Middle East continued with little prospects of peace. Iran and the US exchanged missile strikes this week, while Israel’s defense minister threatened “crippling” attacks on Iran’s infrastructure, including energy facilities. Meanwhile, US Vice President JD Vance said the US does not plan to hold peace talks with Iran until it stops attacking ships in Hormuz, adding to upward pressure on oil prices as Iran signals its determination to maintain a hard-line response to the latest US strikes. The EU has formally joined the US-led sanctions campaign against Iran, while South Korea said it is considering a military role. The rally could lose momentum if shipments through the Strait increase. Reports on Iraqi oil exports indicate an average of 2.35 million barrels per day in August, mostly shipped through southern routes."
+    },
+    {
+      "id": "5078364",
+      "time": "2026-09-05 05:02:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國際金價在非農就業報告出爐時跳水將近80美元，打破本週稍早出現的V形反轉】週五（9月4日）紐約尾盤，現貨黃金跌0.98%，報4429.07美元/盎司，美國非農就業報告出爐時從4470美元上方跳水、北京時間21:01重新整理日低至4365.73美元，本週累計下跌0.57%，非農就業報告發布前呈現出V形反轉。現貨白銀跌1.22%，報66.1650美元/盎司，本週累跌0.27%。COMEX銅期貨漲0.05%，報6.6675美元/磅，本週累漲0.14%。在美股時段交易的費城金銀指數收跌1.66%，報408.92點，本週累跌1.03%。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌1.4%，報2861.78點，本週累跌0.94%。在美股時段交易的原材料指數收跌0.52%，報252.37點，本週累跌1.16%。在美股時段交易的金屬與礦業指數收漲0.25%，報287.39點，本週累漲0.37%。State Street金屬與礦業ETF收漲0.20%，報118.62美元，本週累跌0.10%。"
+    },
     {
       "id": "mkt:01a06e38-6fd8-7118-84ae-5a45f12640e3",
       "time": "2026-09-05 04:59:47",
