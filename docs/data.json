@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-04 15:12:14",
-  "count": 13393,
+  "updated": "2026-09-04 15:16:02",
+  "count": 13384,
   "items": [
+    {
+      "id": "mkt:01a06b45-dd99-7118-849a-afa5e06a9089",
+      "time": "2026-09-04 15:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: China pursues peaceful development, does not engage in military expansion】At a regular briefing, Foreign Ministry spokesperson Guo Jiakun responded to a Bloomberg question about Pacific island leaders' criticism that China did not give adequate prior notice of recent missile tests, saying Beijing has repeatedly set out its position. He reiterated that China pursues peaceful development, adheres to a defensive national defense policy and does not engage in military expansion, and said China is willing to work with South Pacific states to help maintain regional peace, stability and prosperity."
+    },
+    {
+      "id": "5077072",
+      "time": "2026-09-04 15:15:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "土耳其德尼茲銀行獲得花旗銀行 5000 萬美元社會貸款。"
+    },
+    {
+      "id": "5077071",
+      "time": "2026-09-04 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "達索系統股價下跌2.9%，位居法國CAC 40指數跌幅榜首位。"
+    },
+    {
+      "id": "5077070",
+      "time": "2026-09-04 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約跌0.05%， 5年期主力合約跌0.06%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "5077069",
+      "time": "2026-09-04 15:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副總理：提前發放歐盟烏克蘭貸款並非萬全之策。"
+    },
+    {
+      "id": "te:economy:581172",
+      "time": "2026-09-04 15:14:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czechia Inflation Rate at 3-Month High — The annual inflation rate in the Czech Republic rose to 1.9% in August 2026 from 1.7% in the previous month, in line with market expectations, according to preliminary estimates. The reading marked the highest inflation rate since May, driven mainly by a stronger increase in prices for alcoholic beverages and tobacco (4.7% vs 3.7% in July), while inflation also rebounded for energy (2.3% vs -0.3%) and goods (0.2% vs -0.2%). Meanwhile, price growth eased for services (4.5% vs 4.7%), while deflation deepened for food and non-alcoholic beverages (-4.3% vs -3.1%). On a monthly basis, consumer prices eased 0.3% in August from a 0.6% increase in July."
+    },
+    {
+      "id": "5077068",
+      "time": "2026-09-04 15:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副總理：提前落實歐盟 900 億歐元貸款是一項融資方案。"
+    },
+    {
+      "id": "5077067",
+      "time": "2026-09-04 15:13:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國堅持走和平發展道路，從不搞軍事擴張】9月4日，外交部發言人郭嘉昆主持例行記者會。 彭博社記者提提問，一些太平洋島國的領導人批評了中方最近進行的導彈試射活動，稱中方沒有事先進行充分通知。中方對此有何評論？ 郭嘉昆表示，關於試射活動，中方已經多次闡明立場。中國堅持走和平發展道路，堅定奉行防禦性國防政策，從不搞軍事擴張。中方願同南太國家一道，為維護南太地區和平穩定和發展繁榮貢獻力量。 （北京日報）"
+    },
+    {
+      "id": "mkt:01a06b43-218d-7118-849a-a27e6aa1cd10",
+      "time": "2026-09-04 15:12:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "【Goldman raises Broadcom PT to $540, cites new AI customers as major revenue drivers】Goldman says Broadcom’s AI-driven growth over the next two years will come materially from new customers beyond Google — including ANTHROPIC, OpenAI and Meta — and has materially raised its 2028 revenue and earnings forecasts. Goldman now models fiscal 2027 and 2028 revenues at about $125bn and $240bn versus company guidance of >$115bn and >$230bn. A rising mix of custom AI chips should continue to pressure gross margins, but scale should keep operating margins roughly stable. Goldman maintains Buy, raising the PT from $525 to $540; upside scenario $756, downside $234. (Goldman Sachs report, Sept. 2)"
+    },
+    {
+      "id": "5077066",
+      "time": "2026-09-04 15:12:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應52名新加坡人涉嫌在華傳銷】今天，針對有關52名新加坡人涉嫌傳銷活動在廣西被捕的提問，外交部發言人郭嘉昆表示：中方依法查處在華外國公民違法犯罪案件，並充分保障當事人合法權利。進一步的訊息建議向中方主管部門詢問。（央視新聞）"
+    },
+    {
+      "id": "5077065",
+      "time": "2026-09-04 15:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆聯合國 “一帶一路”峰會在新加坡舉辦，十餘項企業共建“一帶一路”可持續發展成果釋出】9月3日，以“互聯互通，共建美好世界”為主題的第二屆全球企業高質量共建“一帶一路”峰會在新加坡隆重舉行。本屆峰會由聯合國全球契約組織“可持續基礎設施建設助力‘一帶一路’，加速實現可持續發展目標”行動平臺（以下簡稱“一帶一路”行動平臺）、聯合國全球契約組織在華聯絡辦公室主辦，聯合國全球契約組織新加坡網路（UNGCNS）聯合主辦，包括中國國際投資促進會、中國友好和平發展基金會、中國電力企業聯合會、有一德基金會等在內的多家中外機構支援。（第一財經）"
+    },
     {
       "id": "5077064",
       "time": "2026-09-04 15:10:47",
@@ -122723,193 +122819,6 @@
         "MKT News"
       ],
       "text": "Israeli Prime Minister Netanyahu posted that he will never surrender."
-    },
-    {
-      "id": "5064151",
-      "time": "2026-08-28 15:15:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【軟銀尋求100億美元貸款，為投資OpenAI融資債務再融資】8月28日，據報道，軟銀集團正尋求一筆100億美元、期限兩年的貸款，用於為其投資美國人工智慧公司OpenAI產生的債務進行再融資。該貸款利率預計為較有擔保隔夜融資利率（SOFR）高275個基點，由瑞穗銀行擔任牽頭行及簿記行。貸款所得資金部分可能用於償還軟銀今年早些時候為投資OpenAI獲得的400億美元過橋貸款，該貸款承諾將於8月31日到期。軟銀預計到10月將向OpenAI投資近650億美元。軟銀近期還在考慮發行100億至200億美元債券，並計劃在日本發行規模達1萬億日元（約63億美元）的零售債券，以籌集OpenAI投資所需資金。"
-    },
-    {
-      "id": "mkt:01a04739-4405-7aab-9167-91195d332e55",
-      "time": "2026-08-28 15:15:30",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "France's finance minister says a downward revision to Q2 data will have an impact on Q3."
-    },
-    {
-      "id": "5064150",
-      "time": "2026-08-28 15:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家開發銀行河北省分行原行長常思勇接受審查調查】中央紀委國家監委網站8月28日通報，據中央紀委國家監委駐國家開發銀行紀檢監察組、河北省紀委監委訊息：國家開發銀行河北省分行原黨委書記、行長常思勇涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家開發銀行紀檢監察組紀律審查和河北省監察委員會監察調查。"
-    },
-    {
-      "id": "5064149",
-      "time": "2026-08-28 15:15:22",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【習近平主席特使鹹輝將出席尚比亞總統就職典禮】外交部發言人宣佈：應尚比亞政府邀請，國家主席習近平特使、全國政協副主席鹹輝將赴尚比亞首都盧薩卡出席於9月1日舉行的希奇萊馬總統就職典禮。"
-    },
-    {
-      "id": "5064148",
-      "time": "2026-08-28 15:15:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國國際貿易委員會對聚乙烯醇作出第四次反傾銷日落複審產業損害終裁】2026年8月27日，美國國際貿易委員會（ITC）投票對進口自中國和日本的聚乙烯醇（Polyvinyl Alcohol）作出第四次反傾銷日落複審產業損害肯定性終裁，裁定若取消現行反傾銷措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷措施繼續有效。(中國貿易救濟資訊網)"
-    },
-    {
-      "id": "mkt:01a04738-f8e9-7aab-9167-8c20ce787c0f",
-      "time": "2026-08-28 15:15:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France's finance minister said the first batch of economic data released after the summer heatwave were \"poor\"."
-    },
-    {
-      "id": "5064147",
-      "time": "2026-08-28 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約跌0.14%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:01a04738-be5f-7aab-9167-869d6e635c63",
-      "time": "2026-08-28 15:14:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukraine's agriculture minister said winter wheat planted area will decline in 2027."
-    },
-    {
-      "id": "mkt:01a04738-5b0c-7aab-9167-7c8d642bc76a",
-      "time": "2026-08-28 15:14:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ministry of Finance proposes 11–13% local surtax rate band】China's Ministry of Finance published a draft Local Surtax Law for public comment proposing a local surtax rate band of 11–13%. Provincial, autonomous region and municipal governments would set and adjust specific rates within that band, considering local economic conditions and unified national market objectives; proposals would be decided by the provincial people's congress standing committee and filed with the National People's Congress Standing Committee and the State Council. Timing of tax liability, tax location and withholding-agent rules would follow VAT and consumption tax provisions to enable coordinated collection of main taxes and local surtaxes."
-    },
-    {
-      "id": "5064145",
-      "time": "2026-08-28 15:14:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SCFI綜合指數報3509.54點，CCFI綜合指數報1833.99點】上海航運交易所資料顯示，截至8月28日，上海出口集裝箱運價指數（綜合指數）SCFI報3509.54點，與上期相比上漲99.91點。中國出口集裝箱運價綜合指數CCFI報1833.99點，與上期相比漲0.7%。"
-    },
-    {
-      "id": "mkt:01a04737-b8f9-7aab-9167-75c08b55583e",
-      "time": "2026-08-28 15:13:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank Group said it has not received any credit rating from MOODY'S."
-    },
-    {
-      "id": "mkt:01a04737-a3e6-7aab-9167-6f1a4af2d99b",
-      "time": "2026-08-28 15:13:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Ukrainian minister said that since early August there have been only a few vessel calls at the port of Odesa."
-    },
-    {
-      "id": "5064144",
-      "time": "2026-08-28 15:13:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年第23號颱風“班朗”生成】據中國氣象局訊息，今年第23號颱風“班朗”於8月28日14時在西北太平洋洋麵上生成。"
-    },
-    {
-      "id": "5064143",
-      "time": "2026-08-28 15:12:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【矽業分會：本週工業矽期貨高位震盪 現貨持穩執行】8月28日，矽業分會發布工業矽周評。本週工業矽市場呈現“期貨高位震盪、現貨持穩執行”的格局。減產訊息持續發酵但大廠減產的實質性落地尚未發生，主力合約在8700-8900元/噸區間高位執行；現貨市場在經歷上週挺價上漲後，本週各規格及區域價格均暫穩觀望，上下游進入新的價格博弈階段。"
-    },
-    {
-      "id": "5064142",
-      "time": "2026-08-28 15:12:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭部長表示，自8月初以來，僅有少數船隻停靠敖德薩港口。"
-    },
-    {
-      "id": "mkt:01a04736-dc13-7aab-9167-64ec7013e577",
-      "time": "2026-08-28 15:12:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Aidite: Wanwei starts expansion, annual powder capacity seen rising above 4,000 tonnes】Aidite said its strategic stake in Wanwei Powder secures upstream control of key raw materials; Wanwei’s high-end powders meet leading specifications and are effectively substituting imports. Aidite has upgraded powder post‑processing and production lines to ensure ceramic-block performance and quality consistency. Wanwei has begun capacity expansion and Aidite expects annual powder capacity to gradually rise to above 4,000 tonnes, supporting continued growth in its materials business."
-    },
-    {
-      "id": "te:economy:578973",
-      "time": "2026-08-28 15:12:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Slovakia Consumer Confidence Weakens Further — Slovakia’s consumer confidence indicator fell to -28 in August 2026 from -27.4 in the previous month, marking its lowest level since May. The reading was 8.1 points below the long-term average and 3.6 points lower than a year earlier, pointing to a further deterioration in consumer sentiment. That was due increased pessimism about unemployment prospects and expected savings. Meanwhile, households were slightly more optimistic about their expected financial situation and the broader economic outlook."
-    },
-    {
-      "id": "mkt:01a04736-a9e5-7aab-9167-587a36d53186",
-      "time": "2026-08-28 15:12:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US and Brent crude each rose about $0.50, with WTI at $82.43/bbl and Brent at $87.86/bbl."
-    },
-    {
-      "id": "5064140",
-      "time": "2026-08-28 15:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛迪特：萬微已啟動擴產計劃 預計年產能將逐步提升至4000噸以上】愛迪特(301580)日前在分析師會議上表示，公司透過戰略參股萬微粉體，實現了上游核心原材料的自主可控。萬微高階粉體在關鍵指標上均已達到領先水平，實現了對進口粉體的有效替代。同時，公司對粉體後處理工藝及產線進行了匹配性升級，確保瓷塊產品的效能與品質一致性。產能方面，萬微已啟動擴產計劃，預計年產能將逐步提升至4000噸以上，為其材料業務持續增長提供充足保障。"
-    },
-    {
-      "id": "5064139",
-      "time": "2026-08-28 15:12:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哈薩克首屆一院制議會正式執行 現任政府解散】哈薩克首屆“庫魯爾泰”（一院制議會）首次會議於當地時間28日上午11時開始。哈總統託卡耶夫在致辭中宣佈，根據哈新憲法，國家一院制立法機構“庫魯爾泰”正式開始工作。“多元意見、統一民族”的原則已得到體現，為國家團結奠定堅實基礎。（央視新聞）"
     }
   ]
 }

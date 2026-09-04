@@ -1,7 +1,103 @@
 {
   "date": "2026-09-04",
-  "count": 1466,
+  "count": 1477,
   "items": [
+    {
+      "id": "mkt:01a06b45-dd99-7118-849a-afa5e06a9089",
+      "time": "2026-09-04 15:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: China pursues peaceful development, does not engage in military expansion】At a regular briefing, Foreign Ministry spokesperson Guo Jiakun responded to a Bloomberg question about Pacific island leaders' criticism that China did not give adequate prior notice of recent missile tests, saying Beijing has repeatedly set out its position. He reiterated that China pursues peaceful development, adheres to a defensive national defense policy and does not engage in military expansion, and said China is willing to work with South Pacific states to help maintain regional peace, stability and prosperity."
+    },
+    {
+      "id": "5077072",
+      "time": "2026-09-04 15:15:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "土耳其德尼茲銀行獲得花旗銀行 5000 萬美元社會貸款。"
+    },
+    {
+      "id": "5077071",
+      "time": "2026-09-04 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "達索系統股價下跌2.9%，位居法國CAC 40指數跌幅榜首位。"
+    },
+    {
+      "id": "5077070",
+      "time": "2026-09-04 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約跌0.05%， 5年期主力合約跌0.06%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "5077069",
+      "time": "2026-09-04 15:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副總理：提前發放歐盟烏克蘭貸款並非萬全之策。"
+    },
+    {
+      "id": "te:economy:581172",
+      "time": "2026-09-04 15:14:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czechia Inflation Rate at 3-Month High — The annual inflation rate in the Czech Republic rose to 1.9% in August 2026 from 1.7% in the previous month, in line with market expectations, according to preliminary estimates. The reading marked the highest inflation rate since May, driven mainly by a stronger increase in prices for alcoholic beverages and tobacco (4.7% vs 3.7% in July), while inflation also rebounded for energy (2.3% vs -0.3%) and goods (0.2% vs -0.2%). Meanwhile, price growth eased for services (4.5% vs 4.7%), while deflation deepened for food and non-alcoholic beverages (-4.3% vs -3.1%). On a monthly basis, consumer prices eased 0.3% in August from a 0.6% increase in July."
+    },
+    {
+      "id": "5077068",
+      "time": "2026-09-04 15:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副總理：提前落實歐盟 900 億歐元貸款是一項融資方案。"
+    },
+    {
+      "id": "5077067",
+      "time": "2026-09-04 15:13:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國堅持走和平發展道路，從不搞軍事擴張】9月4日，外交部發言人郭嘉昆主持例行記者會。 彭博社記者提提問，一些太平洋島國的領導人批評了中方最近進行的導彈試射活動，稱中方沒有事先進行充分通知。中方對此有何評論？ 郭嘉昆表示，關於試射活動，中方已經多次闡明立場。中國堅持走和平發展道路，堅定奉行防禦性國防政策，從不搞軍事擴張。中方願同南太國家一道，為維護南太地區和平穩定和發展繁榮貢獻力量。 （北京日報）"
+    },
+    {
+      "id": "mkt:01a06b43-218d-7118-849a-a27e6aa1cd10",
+      "time": "2026-09-04 15:12:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "【Goldman raises Broadcom PT to $540, cites new AI customers as major revenue drivers】Goldman says Broadcom’s AI-driven growth over the next two years will come materially from new customers beyond Google — including ANTHROPIC, OpenAI and Meta — and has materially raised its 2028 revenue and earnings forecasts. Goldman now models fiscal 2027 and 2028 revenues at about $125bn and $240bn versus company guidance of >$115bn and >$230bn. A rising mix of custom AI chips should continue to pressure gross margins, but scale should keep operating margins roughly stable. Goldman maintains Buy, raising the PT from $525 to $540; upside scenario $756, downside $234. (Goldman Sachs report, Sept. 2)"
+    },
+    {
+      "id": "5077066",
+      "time": "2026-09-04 15:12:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應52名新加坡人涉嫌在華傳銷】今天，針對有關52名新加坡人涉嫌傳銷活動在廣西被捕的提問，外交部發言人郭嘉昆表示：中方依法查處在華外國公民違法犯罪案件，並充分保障當事人合法權利。進一步的訊息建議向中方主管部門詢問。（央視新聞）"
+    },
+    {
+      "id": "5077065",
+      "time": "2026-09-04 15:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆聯合國 “一帶一路”峰會在新加坡舉辦，十餘項企業共建“一帶一路”可持續發展成果釋出】9月3日，以“互聯互通，共建美好世界”為主題的第二屆全球企業高質量共建“一帶一路”峰會在新加坡隆重舉行。本屆峰會由聯合國全球契約組織“可持續基礎設施建設助力‘一帶一路’，加速實現可持續發展目標”行動平臺（以下簡稱“一帶一路”行動平臺）、聯合國全球契約組織在華聯絡辦公室主辦，聯合國全球契約組織新加坡網路（UNGCNS）聯合主辦，包括中國國際投資促進會、中國友好和平發展基金會、中國電力企業聯合會、有一德基金會等在內的多家中外機構支援。（第一財經）"
+    },
     {
       "id": "5077064",
       "time": "2026-09-04 15:10:47",
