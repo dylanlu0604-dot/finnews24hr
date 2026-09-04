@@ -1,7 +1,155 @@
 {
-  "updated": "2026-09-05 02:39:59",
-  "count": 14093,
+  "updated": "2026-09-05 02:43:58",
+  "count": 14104,
   "items": [
+    {
+      "id": "5078284",
+      "time": "2026-09-05 02:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們實質上已經掌控了伊朗。"
+    },
+    {
+      "id": "mkt:01a06dbb-6143-7118-84ac-9eb539e3ef46",
+      "time": "2026-09-05 02:43:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said if the situation with Iran deteriorates in any way, the U.S. will strike it hard."
+    },
+    {
+      "id": "mkt:01a06dbb-1ae3-7118-84ac-91a6629dbbcc",
+      "time": "2026-09-05 02:42:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said the U.S. prevented Iran from obtaining nuclear weapons."
+    },
+    {
+      "id": "5078283",
+      "time": "2026-09-05 02:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果伊朗方面事態惡化，我們將對其予以沉重打擊  。"
+    },
+    {
+      "id": "mkt:01a06dba-acd7-7118-84ac-8e83445eb845",
+      "time": "2026-09-05 02:42:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said Iran may soon attack Gaoshan."
+    },
+    {
+      "id": "mkt:01a06dba-6e0a-7118-84ac-84d56e4ab1e4",
+      "time": "2026-09-05 02:42:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP said the US is producing large volumes of oil and controlling the Strait of Hormuz."
+    },
+    {
+      "id": "5078282",
+      "time": "2026-09-05 02:41:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們可能很快就要打擊 “鎬山” 。"
+    },
+    {
+      "id": "mkt:01a06dba-444e-7118-84ac-7fe1ee24caec",
+      "time": "2026-09-05 02:41:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said last night the US sank many ships in the Strait of Hormuz."
+    },
+    {
+      "id": "5078281",
+      "time": "2026-09-05 02:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們本應該能實現 12%‑13%‑14%‑15% 的國內生產總值增速，而不是一直只有 2%‑3%‑4%。"
+    },
+    {
+      "id": "5078280",
+      "time": "2026-09-05 02:41:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報96.49美元/桶。"
+    },
+    {
+      "id": "5078279",
+      "time": "2026-09-05 02:41:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：昨夜我們在霍爾木茲海峽擊毀大量船隻。"
+    },
+    {
+      "id": "5078278",
+      "time": "2026-09-05 02:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題屬於軍事衝突，不過是 “小事一樁”。"
+    },
+    {
+      "id": "5078277",
+      "time": "2026-09-05 02:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在奪取大量石油，控制霍爾木茲海峽。"
+    },
+    {
+      "id": "5078276",
+      "time": "2026-09-05 02:40:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們對伊朗實施間歇性打擊。"
+    },
+    {
+      "id": "mkt:01a06db8-9d30-7118-84ac-762ff9d2f3d2",
+      "time": "2026-09-05 02:40:10",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Sources said Boeing (BA.N) will serve as prime contractor on a potential $5 billion arms sale to Saudi Arabia."
+    },
     {
       "id": "mkt:01a06db7-a7d2-7118-84ac-693688268f70",
       "time": "2026-09-05 02:39:07",
@@ -129111,45 +129259,6 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希基揚：阿曼官員認同霍爾木茲海峽應當依照《伊斯蘭堡協議》進行管理。"
-    },
-    {
-      "id": "mkt:01a049ae-d771-7aab-9178-d001cb8c6b23",
-      "time": "2026-08-29 02:43:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Tasnim News Agency reported Oman agreed the Strait of Hormuz should be managed under the Islamabad memorandum of understanding."
-    },
-    {
-      "id": "5065967",
-      "time": "2026-08-29 02:42:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4450美元/盎司，日內跌3.30%。"
-    },
-    {
-      "id": "5065966",
-      "time": "2026-08-29 02:42:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4500美元/盎司，日內跌3.59%。"
-    },
-    {
-      "id": "5065965",
-      "time": "2026-08-29 02:42:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守67美元/盎司，日內跌4.64%。"
     }
   ]
 }
