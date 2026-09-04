@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-05 04:07:17",
-  "count": 14128,
+  "updated": "2026-09-05 04:11:07",
+  "count": 14126,
   "items": [
+    {
+      "id": "mkt:01a06e0a-5bcb-7118-84ae-23d3aa04cf38",
+      "time": "2026-09-05 04:09:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japan's AI data-center capacity is projected to quadruple by 2033, requiring about $60 bln in investment."
+    },
+    {
+      "id": "te:markets:581406",
+      "time": "2026-09-05 04:08:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Lower After Strong Jobs Report — US stock indices closed mostly lower on Friday after stronger-than-expected labor market data gave the Fed more room to raise interest rates. The S&P 500 lost 0.4%, the Dow shed 272 points, while the Nasdaq added 0.2%. Nonfarm payrolls increased by 162,000 from the previous month, above expectations for a gain of just over 50,000 jobs, in line with statements from FOMC members that the labor market is at full employment. Credit-sensitive sectors pulled back after the data as yields rebounded. Alphabet shed 1.1%, Microsoft lost 2%, Tesla tumbled 5.9%, and Palantir shed 4.5%, while JPMorgan retreated 0.9% and Visa fell 1%. Still, chipmakers rose after underperforming earlier in the week, helping to support the Nasdaq. Nvidia gained 0.8%, Micron rose 6.1%, Intel added 4.5%, and Marvell advanced 7% amid signs of optimism surrounding OpenAI’s new GPT model. Sandisk soared 11.9%, and AMD added 4.7%."
+    },
+    {
+      "id": "mkt:01a06e08-782e-7118-84ae-1e6a40a6613a",
+      "time": "2026-09-05 04:07:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Al Arabiya cited Yemen's president saying Yemen will under no circumstances allow the Iranian regime to control the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5078355",
+      "time": "2026-09-05 04:06:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：塞內加爾的融資需求或將維持高位。"
+    },
     {
       "id": "mkt:01a06e07-cbcb-7118-84ae-1304ac2abe46",
       "time": "2026-09-05 04:06:39",
@@ -129386,65 +129429,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Fall on Rising Fed Hike Bets — The US stock indices closed lower on Friday as chipmakers shares trimmed the previous session’s gains and a more hawkish tone from Fed Chair Warsh strengthened expectations for a rate hike next month. The S&P 500 shed 0.2%, the Nasdaq fell 0.7% and the Dow inched lower. Marvell fell 10.3% despite beating earnings estimates and raising its outlook. Chipmakers pulled back after rallying on Nvidia’s (-4.6%) strong results earlier in the week, with Broadcom down 0.7%, and AMD falling 2.3%. Hyperscalers held gains, with Alphabet up 1.5%, Microsoft adding 1.7%, Amazon jumping 4%, and Meta rising 1.2%. Meanwhile, Warsh said underlying inflation was not slowing and pledged to keep fighting price growth until it converges with the Fed’s 2% target during his speech at Jackson Hole Symposium, prompting traders to increase bets on a rate hike next month. Industrial and pharmaceutical stocks declined, with AbbVie losing 1% and Lam Research falling 5.2%."
-    },
-    {
-      "id": "mkt:01a049fe-ff52-7aab-917a-3eef2eca9076",
-      "time": "2026-08-29 04:10:43",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "DBRS Morningstar confirmed the Netherlands' sovereign rating at AAA; outlook stable."
-    },
-    {
-      "id": "mkt:01a049fe-43c5-7aab-917a-329afa64957c",
-      "time": "2026-08-29 04:09:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "S&P expects disruptions in the Strait of Hormuz to push energy prices higher and to exert a modest drag on Portugal's 2026 economy."
-    },
-    {
-      "id": "5066017",
-      "time": "2026-08-29 04:09:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：預計霍爾木茲海峽局勢擾動推高能源價格，將對 2026 年葡萄牙經濟產生溫和影響。"
-    },
-    {
-      "id": "mkt:01a049fc-c1a1-7aab-917a-29364f8ec508",
-      "time": "2026-08-29 04:08:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P affirms Portugal's A+/A-1 ratings; outlook remains positive due to strong economic growth."
-    },
-    {
-      "id": "5066016",
-      "time": "2026-08-29 04:08:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認葡萄牙 “A+/A‑1” 評級；受經濟增長韌性支撐，展望維持正面。"
-    },
-    {
-      "id": "mkt:01a049fc-8bf2-7aab-917a-24425dd218d3",
-      "time": "2026-08-29 04:08:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Iran president: supply-demand imbalance, political factors driving exchange-rate volatility】President PEZESHKIAN said a pledged increase in subsidies tied to exchange-rate rises was not delivered, blaming an imbalance in state finances and saying the government must curb demand. He warned that when exports stop there are no FX inflows, and without demand control a shortage of FX amid strong demand will push the exchange rate higher; authorities have partly suppressed demand but a large supply–demand gap remains. He said political events move the market — US announcements of tighter blockade lift the exchange rate immediately, while visits by Omani negotiators cause it to fall. Authorities are reluctant to raise fuel prices because of the burden on households, and continue to supply fuel at current levels despite the fiscal cost."
     }
   ]
 }

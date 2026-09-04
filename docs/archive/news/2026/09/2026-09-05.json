@@ -1,7 +1,50 @@
 {
   "date": "2026-09-05",
-  "count": 362,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:01a06e0a-5bcb-7118-84ae-23d3aa04cf38",
+      "time": "2026-09-05 04:09:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japan's AI data-center capacity is projected to quadruple by 2033, requiring about $60 bln in investment."
+    },
+    {
+      "id": "te:markets:581406",
+      "time": "2026-09-05 04:08:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Lower After Strong Jobs Report — US stock indices closed mostly lower on Friday after stronger-than-expected labor market data gave the Fed more room to raise interest rates. The S&P 500 lost 0.4%, the Dow shed 272 points, while the Nasdaq added 0.2%. Nonfarm payrolls increased by 162,000 from the previous month, above expectations for a gain of just over 50,000 jobs, in line with statements from FOMC members that the labor market is at full employment. Credit-sensitive sectors pulled back after the data as yields rebounded. Alphabet shed 1.1%, Microsoft lost 2%, Tesla tumbled 5.9%, and Palantir shed 4.5%, while JPMorgan retreated 0.9% and Visa fell 1%. Still, chipmakers rose after underperforming earlier in the week, helping to support the Nasdaq. Nvidia gained 0.8%, Micron rose 6.1%, Intel added 4.5%, and Marvell advanced 7% amid signs of optimism surrounding OpenAI’s new GPT model. Sandisk soared 11.9%, and AMD added 4.7%."
+    },
+    {
+      "id": "mkt:01a06e08-782e-7118-84ae-1e6a40a6613a",
+      "time": "2026-09-05 04:07:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Al Arabiya cited Yemen's president saying Yemen will under no circumstances allow the Iranian regime to control the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5078355",
+      "time": "2026-09-05 04:06:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：塞內加爾的融資需求或將維持高位。"
+    },
     {
       "id": "mkt:01a06e07-cbcb-7118-84ae-1304ac2abe46",
       "time": "2026-09-05 04:06:39",
