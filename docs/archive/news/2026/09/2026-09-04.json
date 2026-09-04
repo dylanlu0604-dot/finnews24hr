@@ -1,7 +1,128 @@
 {
   "date": "2026-09-04",
-  "count": 1289,
+  "count": 1302,
   "items": [
+    {
+      "id": "5076950",
+      "time": "2026-09-04 14:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空表示，已收到航空事故調查局（AAIB）初步報告。"
+    },
+    {
+      "id": "mkt:01a06b1a-0b5f-7118-8499-301ac1c37de8",
+      "time": "2026-09-04 14:27:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Institutional previews: US August unemployment rate (prior 4.1%)】Most institutional forecasters cluster around a 4.1% US unemployment rate for August (prior 4.1%). A minority expect 4.0% (Moody's, Nomura). A separate group pegs the rate at 4.2% (Citigroup, Jefferies, ING, ABN AMRO, Standard Chartered, Banco Santander, Scotiabank, UBS). Reuters consensus: 4.1%."
+    },
+    {
+      "id": "mkt:01a06b19-b92c-7118-8499-2855a72f50d8",
+      "time": "2026-09-04 14:27:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate futures contract fell as much as 6.00% intraday, trading at 144,100 yuan/ton."
+    },
+    {
+      "id": "5076949",
+      "time": "2026-09-04 14:27:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗戰事持續，歐洲天然氣有望實現周線四連漲】受供應中斷風險以及冬季燃料庫存擔憂影響，歐洲天然氣有望錄得連續第四周上漲。隨著美伊軍事打擊行動升級，歐亞天然氣價格已攀升至三年多以來最高位。採暖季臨近，歐洲儲氣設施庫存僅約66%，德國儲氣庫庫存為54%。"
+    },
+    {
+      "id": "5076948",
+      "time": "2026-09-04 14:27:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報144060.00元。"
+    },
+    {
+      "id": "5076947",
+      "time": "2026-09-04 14:27:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達70億港元。"
+    },
+    {
+      "id": "te:economy:581153",
+      "time": "2026-09-04 14:27:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Sweden Posts Largest Current Account Surplus in Over a Year — Sweden’s current account surplus widened to SEK 126.2 billion in the second quarter of 2026, from SEK 103.7 billion in the corresponding period a year earlier. This marked the largest surplus since the first quarter of 2025, driven by a wider primary income surplus, which rose to SEK 100.9 billion from SEK 76.0 billion, reflecting higher investment returns (SEK 97.6 billion vs SEK 72.5 billion in Q2 2025). The services deficit narrowed to SEK 14.0 billion from SEK 36.6 billion, as exports rose by SEK 31 billion, far outpacing the SEK 8.4 billion increase in imports. On the other hand, the goods surplus narrowed to SEK 67.7 billion from SEK 86.5 billion, as imports increased by SEK 61.5 billion, exceeding the SEK 42.7 billion rise in exports. The secondary income deficit also widened to SEK 28.4 billion from SEK 22.3 billion."
+    },
+    {
+      "id": "5076945",
+      "time": "2026-09-04 14:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強厄爾尼諾來襲 分析師警告全球糧食危機逼近】今年的厄爾尼諾現象或將成為至少70年來最強的一次，這進一步加大了全球農產品市場受到大範圍干擾的風險。聯合國下屬機構世界氣象組織（WMO）9月3日釋出最新通報，確認厄爾尼諾現象已形成並將持續增強，預計將發展為超強級別事件，對全球降水和溫度格局產生重大影響，相關極端天氣風險將持續至2027年。“厄爾尼諾的影響已經實實在在地顯現出來了。”荷蘭合作銀行(Rabobank)的分析師在一份報告中寫道。這些分析師表示，對厄爾尼諾影響的擔憂正助推一系列大宗商品價格走高。巴克萊分析師在一份報告中寫道，今年厄爾尼諾現象異常強勁，可能會帶來進一步的擾亂。他們表示：“從歷史來看，厄爾尼諾事件往往與天氣敏感型市場的劇烈波動有關。”滙豐銀行分析師上週在一份報告中敲響警鐘，指出穀物供應趨緊、厄爾尼諾現象、海上航運要道受阻，以及由此引發的供應擠壓，正推高穀物價格。"
+    },
+    {
+      "id": "5076944",
+      "time": "2026-09-04 14:25:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝恩資本旗下的約克控股計劃最早於2028年下半年啟動首次公開募股。"
+    },
+    {
+      "id": "mkt:01a06b17-8073-7118-8499-236757134980",
+      "time": "2026-09-04 14:24:57",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raises Maersk target price to DKK 16,100 from DKK 10,000."
+    },
+    {
+      "id": "mkt:01a06b17-764b-7118-8499-19acb9af0583",
+      "time": "2026-09-04 14:24:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai Guotou issues 3.0 bln yuan 10-year sci-tech bond for AI industry chain】Sept 3 — Shanghai Guotou Company issued a 10-year sci-tech bond on the Shanghai Stock Exchange, raising 3.0 bln yuan at a 2.02% coupon. The offering was 3.44x subscribed. Shanghai Guotou says its total AI-related investment exceeds 21 bln yuan and it has supported over 400 AI companies via fund and direct investments."
+    },
+    {
+      "id": "5076943",
+      "time": "2026-09-04 14:24:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李斌回應蔚來是否會做機器人業務：已投資很多公司，目前先把車做好】至於蔚來會不會直接下場去做機器人業務？李斌回應稱，“機器人的產業鏈還在很早期，我們投了這裡面很多的公司，其實在我們出現之前，汽車行業也是一個非常大的市場，不能指望什麼事情都是蔚來做第一個。我們先把車賣好，把公司變成一個能夠有比較好的盈利公司，當然會有很多的選擇，汽車公司做機器人不是什麼新鮮的事，大部分都在做，我們先把車這個事情做好。”（新浪科技）"
+    },
+    {
+      "id": "5076942",
+      "time": "2026-09-04 14:24:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將英國石油目標股價從519便士上調至598便士。"
+    },
     {
       "id": "mkt:01a06b17-16df-7118-8499-147c67d19072",
       "time": "2026-09-04 14:24:30",
