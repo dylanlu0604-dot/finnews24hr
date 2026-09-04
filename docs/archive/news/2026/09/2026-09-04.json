@@ -1,7 +1,98 @@
 {
   "date": "2026-09-04",
-  "count": 625,
+  "count": 635,
   "items": [
+    {
+      "id": "mkt:01a069e0-b8da-7118-8492-8ae0f1d05efd",
+      "time": "2026-09-04 08:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FHFA Director Pulte said effective immediately he has directed Fannie Mae and Freddie Mac to approve all lenders' use of the VantageScore credit-scoring system."
+    },
+    {
+      "id": "mkt:01a069df-8308-7118-8492-842e9bd04fe9",
+      "time": "2026-09-04 08:44:10",
+      "tags": [
+        "MKT News",
+        "EFX.O",
+        "Impact bearish",
+        "TRU.O",
+        "EXPN.L"
+      ],
+      "text": "FHFA Director Pulte said Equifax, Experian and TransUnion have long charged Americans excessive fees and that practice will end soon."
+    },
+    {
+      "id": "mkt:01a069df-61f4-7118-8492-7a99206e6eab",
+      "time": "2026-09-04 08:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Hydrology and Water Resources Monitoring Center for the middle reaches of the Gan River issued an orange-level flood warning."
+    },
+    {
+      "id": "5076479",
+      "time": "2026-09-04 08:43:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【軟銀集團1萬億日元零售債券票面利率定為4.75%】軟銀集團敲定1萬億日元（摺合63億美元）零售債券發行，票面利率4.75%。利率上行提升債券吸引力，或將促使更多企業轉向面向個人的融資渠道。根據公司公告檔案，這筆7年期債券上週五完成定價，處於該公司上月公佈的4.3%‑4.9%發行區間的高位。資料顯示，日本今年發行的日元企業零售債券平均票面利率為2.3%。本次發行背景下，日本10年期國債收益率約30年來首次突破3%。對於以往大部分金融資產都存放於銀行存款的家庭而言，債券成為頗具吸引力的投資選擇。"
+    },
+    {
+      "id": "mkt:01a069de-97bb-7118-8492-731c4cbe7d1a",
+      "time": "2026-09-04 08:43:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【El Nifio disrupts Peruvian anchovy fishery, lifts global fishmeal and fish oil prices】El Nifio-driven ocean warming off Peru has altered anchovy distribution and sharply cut catches, pressuring local fisheries and reducing Peru’s supply of fishmeal and fish oil. As a major global supplier, Peru’s lower anchovy output is driving international price rises: in May Peruvian super-grade fishmeal FOB hit $2,500/ton versus about $1,400/ton in May 2025 (+~79% YoY); feed-grade fish oil reached $4,100/ton (+64% YoY)."
+    },
+    {
+      "id": "em:qqyh_mlc:202609043864710182",
+      "time": "2026-09-04 08:42:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲9月會議懸念叢生！沃勒強力“放鴿” 白宮加碼施壓降息】美東時間週四，美聯儲理事克里斯托弗·沃勒在最新表態中意外釋放強力鴿派訊號。他表示，如果即將公佈的資料確認通脹壓力正在降溫，他傾向於在美聯儲下一次貨幣政策會議上支援維持利率不變。"
+    },
+    {
+      "id": "5076478",
+      "time": "2026-09-04 08:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【默沙東PD-1抑制劑可瑞達區域性晚期頭頸鱗癌適應症在華獲批】9月4日，默沙東宣佈其PD-1抑制劑可瑞達®（帕博利珠單抗）已獲得中國國家藥品監督管理局（NMPA）批准，帕博利珠單抗用於透過充分驗證的檢測評估腫瘤表達PD-L1（綜合陽性評分（CPS）≥1）的可手術切除的區域性晚期頭頸部鱗狀細胞癌成人患者，單藥新輔助治療，並在手術後聯合放療加或不加順鉑化療進行輔助治療，隨後繼續帕博利珠單抗單藥治療。"
+    },
+    {
+      "id": "mkt:01a069dd-98a2-7118-8492-6e2afc699cd7",
+      "time": "2026-09-04 08:42:05",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan warns yen break above 155 could trigger short-covering, accelerate yen gains】JP Morgan strategists warn that a break of USD/JPY above 155 could trigger concentrated short covering and accelerate yen appreciation. They estimate 16–17 trillion yen (about $102.6 billion) of yen short positions remain open and say, in theory, full covering of those positions could push USD/JPY down to the 142–146 range. Recent price action appears consistent with a still-large short position base, raising the risk of larger-than-expected yen strength."
+    },
+    {
+      "id": "mkt:01a069dd-9549-7118-8492-658ca9ba5f99",
+      "time": "2026-09-04 08:42:04",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares rose 3%."
+    },
+    {
+      "id": "5076477",
+      "time": "2026-09-04 08:41:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【贛江中游水文水資源監測中心釋出洪水橙色預警】贛江中游水文水資源監測中心2026年9月4日6時39分升級釋出贛江遂川江遂川縣滁洲河段、遂川縣城河段洪水橙色預警：受降雨影響，預計未來2小時前後，贛江遂川江遂川縣滁洲河段將發生超警戒1.4米左右的洪水，預計未來6小時前後，贛江遂川江遂川縣城河段將發生超警戒0.5米左右的洪水。贛江中游水文水資源監測中心升級釋出贛江遂川江遂川縣滁洲河段和遂川縣城河段洪水橙色預警，提請遂川縣大汾鎮、仙口水庫、遂川縣城區等沿河區域河段低窪地區以及各相關單位和社會公眾加強防範，及時避險。"
+    },
     {
       "id": "5076476",
       "time": "2026-09-04 08:40:53",
