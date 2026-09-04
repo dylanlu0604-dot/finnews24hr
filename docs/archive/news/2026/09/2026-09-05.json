@@ -1,7 +1,93 @@
 {
   "date": "2026-09-05",
-  "count": 354,
+  "count": 362,
   "items": [
+    {
+      "id": "mkt:01a06e07-cbcb-7118-84ae-1304ac2abe46",
+      "time": "2026-09-05 04:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina boosts defense and foreign ministry budgets to back Malvinas (Falkland Islands) diplomacy】President Milei on the 4th signed a decree amending the 2026 budget to increase funding for defense, military and intelligence services and to allocate resources to the foreign ministry for diplomatic action over the Malvinas (Falkland Islands). The decree adds ARS 217.954 bln (≈$145m) for the defense ministry and Army, Navy, Air Force and Joint Staff; ARS 30.519 bln (≈$20.24m) for the National Intelligence Secretariat; and adjusts the National Space Activities Commission budget to ARS 119.2895 bln (≈$79.09m)."
+    },
+    {
+      "id": "5078354",
+      "time": "2026-09-05 04:06:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：負面展望反映出，塞內加爾外幣商業債務極有可能發生困境置換或違約。"
+    },
+    {
+      "id": "5078353",
+      "time": "2026-09-05 04:05:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：受債務重組計劃影響，塞內加爾外幣評級下調至 “CC”，本幣評級下調至 “CCC”，展望為負面。"
+    },
+    {
+      "id": "5078352",
+      "time": "2026-09-05 04:05:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quantinuum 將參加伯恩斯坦第 23 屆泛歐年度戰略決策大會。"
+    },
+    {
+      "id": "5078351",
+      "time": "2026-09-05 04:04:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認阿聯酋主權評級為 “AA/A‑1+”，展望穩定。"
+    },
+    {
+      "id": "mkt:01a06e05-a2ea-7118-84ae-0d90f1b826e2",
+      "time": "2026-09-05 04:04:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms UAE sovereign rating at 'AA/A-1+'; outlook stable."
+    },
+    {
+      "id": "mkt:01a06e04-fa59-7118-84ae-0200e3d7c62f",
+      "time": "2026-09-05 04:03:34",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed lower on Friday, Sept 4: Dow Jones Industrial Average fell 272.51 points (-0.51%) to 53,413.60; S&P 500 declined 29.29 points (-0.38%) to 7,718.42; Nasdaq Composite dropped 77.07 points (-0.29%) to 26,506.99."
+    },
+    {
+      "id": "mkt:01a06e04-8ed1-7118-84ad-fa4622876d72",
+      "time": "2026-09-05 04:03:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "China EV Leaders",
+        "Magnificent 7",
+        "Market Regions",
+        "Wall Street (US)",
+        "Greater China",
+        "Star Stocks",
+        "Tesla",
+        "Apple",
+        "Microsoft",
+        "Alibaba",
+        "TSLA.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "BABA.N"
+      ],
+      "text": "【US close: Dow -0.51%, S&P 500 -0.38%, Nasdaq -0.29%; Tesla down 5.92%】US stocks closed lower Friday. Dow Jones Industrial Average fell 0.51%, S&P 500 slipped 0.38% and Nasdaq Composite dropped 0.29%. Tesla (TSLA.O) slid 5.92%; Apple (AAPL.O) fell 2.51% and Microsoft (MSFT.O) lost 2.04%. AI-chip supply chain names rallied: SanDisk (SNDK.O) rose 11.9%, SK Hynix (SKHY.O) gained 8.14%, Micron Technology (MU.O) up 6.10% and Intel (INTC.O) up 4.51%. Nasdaq Golden Dragon China Index advanced 0.89%; Xpeng (XPEV.N) fell 1.75%, Baidu (BIDU.O) rose 4.07% and Alibaba (BABA.N) gained 1.26%."
+    },
     {
       "id": "5078350",
       "time": "2026-09-05 04:02:06",
