@@ -1,7 +1,114 @@
 {
   "date": "2026-09-04",
-  "count": 810,
+  "count": 821,
   "items": [
+    {
+      "id": "mkt:01a06a20-b735-7118-8494-3b1aa82c4809",
+      "time": "2026-09-04 09:55:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share culture and media sector extended gains. Yidian Tianxia approached a 20% limit-up; Tianyu Shuke, China Publishing, Publishing Media and Longban Media hit daily limit-up; BlueFocus, Mango Excellent Media and Tianlong Group also advanced."
+    },
+    {
+      "id": "5076598",
+      "time": "2026-09-04 09:55:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院安委會辦公室召開“偽新能源加註站”排查整治影片排程推進會】9月3日，國務院安委會辦公室組織召開“偽新能源加註站”排查整治影片排程推進會。會議指出，“偽新能源加註站”是成品油流通領域的頑瘴痼疾，不僅存在安全風險，威脅公共安全，還破壞國家財稅秩序，擾亂成品油流通市場。前期，國務院安委會辦公室會同各有關部門組成聯合工作組，現場核查了湖北省“偽新能源加註站”死灰復燃問題，已依法推動78家“偽新能源加註站”全部拆除相關設施；湖北省延伸查處了非法銷售點189個、非法運輸車輛143臺，刑事立案180起、刑拘142人，治安拘留265人，排查整治工作取得積極成效。"
+    },
+    {
+      "id": "te:markets:581091",
+      "time": "2026-09-04 09:55:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 4-Month High — The Australian dollar broke above $0.72 to a four-month high as expectations of a near-term interest rate hike strengthened, while a weaker US dollar added support. The greenback came under pressure after Federal Reserve Governor Christopher Waller said he would support leaving rates unchanged if inflation pressures continued to ease, prompting investors to trim bets on a Fed rate hike later this month. Traders now await US jobs data due later today for fresh clues on the Fed’s policy outlook. In Australia, stronger GDP data in the second quarter reinforced expectations that the RBA could resume tightening after three rate hikes this year. Markets now price in a 58% chance of a hike this month, up from 49% before, while a November move is fully priced in. Swaps also imply 40 bps of tightening next year, equivalent to one and a half rate hikes. The hawkish outlook was further reinforced by renewed fighting in the Gulf, which pushed oil prices higher and fueled concerns over inflation."
+    },
+    {
+      "id": "5076597",
+      "time": "2026-09-04 09:54:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【贛江發生2026年第1號洪水】受降雨影響，江西贛江中游吉安水文站（江西吉安）9月4日5時5分水位漲至警戒水位（50.50米），依據主要江河洪水編號規定，此次洪水編號為“贛江2026年第1號洪水”。水利部滾動會商，緊盯贛江汛情發展態勢，加強雨水情監測預報預警，提前針對江西啟動洪水防禦Ⅳ級應急響應，督促地方落實落細洪水防禦各項措施，提前轉移危險區群眾，全力確保人民群眾生命安全。"
+    },
+    {
+      "id": "te:markets:581090",
+      "time": "2026-09-04 09:54:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Heads for Strong Weekly Advance — The Japanese yen traded around 156 per dollar on Friday after surging for two consecutive sessions, putting it on track to gain about 2.5% for its strongest weekly performance since Tokyo and Washington carried out a joint yen-buying operation in late July. There is no confirmation that this week’s rally was driven by official intervention, although traders have speculated that authorities conducted a rate check, which typically precedes intervention. Markets also weighed the prospects for more aggressive interest rate hikes by the Bank of Japan this year following hawkish remarks from central bank officials and mounting pressure from the US to support the yen through tighter monetary policy. Elsewhere, the yen also benefited from broad dollar weakness after Federal Reserve Governor Christopher Waller said he would support keeping rates steady if price pressures continue to ease."
+    },
+    {
+      "id": "5076596",
+      "time": "2026-09-04 09:54:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒板塊持續走高，易點天下逼近20cm漲停】文化傳媒板塊持續走高，易點天下逼近20cm漲停，天娛數科、中國出版、出版傳媒、龍頒傳媒漲停，藍色游標、芒果超媒、天龍集團跟漲。"
+    },
+    {
+      "id": "5076595",
+      "time": "2026-09-04 09:54:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "5076594",
+      "time": "2026-09-04 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海通國際首席經濟學家張憶東：AI應用的機會將進一步擴圈】海通國際首席經濟學家張憶東日前釋出研報表示，美債利率仍是秋季行情的短期主要擾動因素，9月FOMC會議之前的博弈其實有驚無險，震盪恰是買股時。三季度美債長端利率有望衝高回落，先上後下。不排除9月份美債10年期收益先衝高到5%左右，到了四季度回到4.3%左右。張憶東表示，AI行情尚能持續，但已經進入“秋天”，短期震盪蓄勢是在確認新邏輯。從投資角度，模糊的正確勝於精確的錯誤。這一次AI科技浪潮是一次史詩級科技革命，這一輪AI朱格拉週期至少可以到2028年初，AI行情至少可以延續到明年。秋天行情將是AI行情的擴散，擁抱以應用為主導的AI新邏輯，沿著兩條新主線展開結構性行情：AI應用的機會將進一步擴圈，關注政務、企事業、軍工等領域的AI+，以及具身智慧、能源科技等應用；沿著“AI+”主線向“非AI科技”方向擴散，非AI科技行業的硬核資產“老樹開新花”，特別關注以“人工智慧+”為名，併購重組及資產注入為實的外延式增長。"
+    },
+    {
+      "id": "mkt:01a06a1f-59b8-7118-8494-34d90be10475",
+      "time": "2026-09-04 09:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China retail cash yield snapshot】Licaitong (demand + 7-day annualized yield) ranged 0.7010%–1.1630%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 0.8690%–1.1630%. Alipay Yu'e Bao 7-day annualized yield ranged 0.8590%–1.0910%."
+    },
+    {
+      "id": "5076593",
+      "time": "2026-09-04 09:53:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超2%，現報25727.311點；恒生科技指數現漲2.817%。"
+    },
+    {
+      "id": "mkt:01a06a1f-2f3c-7118-8494-29c4018b0f59",
+      "time": "2026-09-04 09:53:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China's A-share liquor sector rallied; Jinfeng Wine, Guyue Longshan and Kuaijishan hit daily limit-ups. Gujinggong rose over 4%; Shanxi Fenjiu, Jinshiyuan, Yingjia Gongjiu and Luzhou Laojiao also advanced."
+    },
     {
       "id": "5076592",
       "time": "2026-09-04 09:51:52",
