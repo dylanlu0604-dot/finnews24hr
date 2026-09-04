@@ -1,7 +1,68 @@
 {
-  "updated": "2026-09-04 23:27:34",
+  "updated": "2026-09-04 23:31:40",
   "count": 14085,
   "items": [
+    {
+      "id": "5078056",
+      "time": "2026-09-04 23:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.16%，報26044.42點。法國股指初步收跌0.08%，義大利股指初步收跌0.28%、銀行指數跌0.68%，英國股指初步收漲0.02%。"
+    },
+    {
+      "id": "5078055",
+      "time": "2026-09-04 23:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.16%，報650.11點。歐元區STOXX 50指數初步收漲0.22%，報6396.07點。富時泛歐績優300指數初步收漲0.13%，報2597.63點。"
+    },
+    {
+      "id": "5078054",
+      "time": "2026-09-04 23:30:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Blue Owl據悉計劃創設資料中心REIT並將其上市】知情人士稱，Blue Owl Capital尋求設立一家資料中心房地產投資信託基金(REIT)，並推動其上市。隨著越來越多公司進入資本市場，為人工智慧基礎設施建設籌集資金，資料中心相關資產正成為新的融資熱點。一名因資訊未公開而不願具名的知情人士稱，這家另類資產管理公司預計將向該REIT注入約65億美元自有資料中心資產，作為啟動資產。據悉Blue Owl計劃透過首次公開募股及後續增發股份籌集資金，用於收購更多資料中心並擴大資產組合。Blue Owl目前擁有一系列資料中心資產，並於5月完成旗下最新一隻數字基礎設施基金的募集，獲得70億美元資金承諾。知情人士稱，目前相關討論仍在進行中，REIT及首次公開募股的具體細節仍可能發生變化。Blue Owl股價一度應聲上漲1.2%。該股今年以來累計下跌近21%，公司市值超過180億美元。"
+    },
+    {
+      "id": "5078053",
+      "time": "2026-09-04 23:29:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國商務部長盧特尼克去年收入逾 2.5 億美元】根據最新年度廉政申報檔案，美國商務部長霍華德・盧特尼克去年披露的收入至少達 2.5 億美元，大部分來自其此前持有的康託・菲茨傑拉德公司股權。申報檔案顯示，盧特尼克去年辭去了康託公司以及數百家機構的領導職務，主要集中在 2 月，也就是他宣誓就職的當月。在退出相關權益之前，他從康託・菲茨傑拉德獲得至少 1.9 億美元的分紅。這家金融服務企業如今由他的兩個長子運營。截至去年 12 月，盧特尼克最新申報披露的資產總額至少為 2.37 億美元，較上一份申報中最低 8.05 億美元的資產規模有所下降。聯邦廉政申報只給出資產價值的區間範圍，他資產的實際總價值大機率遠高於該數值。儘管盧特尼克已卸去此前大部分商業職務，但他仍擔任約 40 家公司的負責人，其中絕大多數為有限責任公司。不少有限責任公司以他的信託資產或個人物業命名。"
+    },
+    {
+      "id": "5078052",
+      "time": "2026-09-04 23:29:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，逸仙電商漲10.13%，摯文集團漲7.35%，水滴公司漲7.01%，樂信漲4.94%，信也科技漲4.55%。"
+    },
+    {
+      "id": "mkt:01a06d09-0748-7118-84a9-249a7d395ec8",
+      "time": "2026-09-04 23:28:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Wall Street Journal: a U.S. ethics filing shows Commerce Secretary Lutnick reported income of more than $250 mln last year."
+    },
+    {
+      "id": "5078051",
+      "time": "2026-09-04 23:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國倫理檔案顯示，商務部長盧特尼克在2025年收入超過2.5億美元。"
+    },
     {
       "id": "5078050",
       "time": "2026-09-04 23:26:05",
@@ -128894,67 +128955,6 @@
         "國際"
       ],
       "text": "美國法官暫未下達禁令阻止特朗普政府執行最新限制出生公民權的行政令。"
-    },
-    {
-      "id": "5065751",
-      "time": "2026-08-28 23:31:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：伊朗人民永遠不會“忘記”也不會“原諒”美以發動的米納卜學校襲擊事件。"
-    },
-    {
-      "id": "te:markets:579194",
-      "time": "2026-08-28 23:31:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Market Tightens as US Inventories Hit Record Low — US heating oil prices remained around $4.25–$4.50 a gallon, more than 80% higher than a year ago, as supplies fell to their lowest seasonal level on record. US distillate inventories, which include diesel and heating oil, fell to 103.4 million barrels in the week ending August 21, the lowest level recorded for this time of year since comparable data began in the early 1980s. The situation is particularly concerning as demand typically rises in the autumn, driven by winter heating, Northern Hemisphere harvests and Southern Hemisphere planting. The Iran war has disrupted refined-fuel flows through the Strait of Hormuz, while Russia’s suspension of diesel exports and ongoing Ukrainian attacks on refineries are further tightening global availability. US refiners are benefiting from exceptionally strong demand, with diesel refining margins reaching record levels and exports rising sharply. However, increased US shipments remain insufficient to offset the global supply shortfall."
-    },
-    {
-      "id": "5065750",
-      "time": "2026-08-28 23:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國DAX 30指數初步收漲0.83%，報26586.01點，本週累計上漲大約1.7%，整體持續走高。法國股指初步收漲1.15%，義大利股指初步收漲0.79%、銀行指數漲1.05%，英國股指初步收漲0.23%。"
-    },
-    {
-      "id": "5065749",
-      "time": "2026-08-28 23:30:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮官員表示，“經濟棄兒行動” 正在推進，旨在切斷維繫該政權的全部剩餘經濟生命線。"
-    },
-    {
-      "id": "5065748",
-      "time": "2026-08-28 23:30:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：華盛頓反思池完成十餘年首次管道清淤修繕，即將重新開放】特朗普發文稱：本人今日清晨視察了國家反思池，下方附圖可見池水倒影以及美國國旗的湛藍底色。大家可以看到，《紐約時報》報道中使用的多張照片，均是在史上規模最大煙花表演結束後拍攝的。本次煙花燃放點緊鄰反思池，導致池內堆積了大量殘渣雜物。目前修繕工作仍在持續推進，我們特意選擇在 7 月 4 日獨立日慶典結束後開展施工，整體修繕效果極佳！園區將於數週後對外開放，屆時將煥然一新。請勿蓄意破壞公共設施！"
-    },
-    {
-      "id": "5065747",
-      "time": "2026-08-28 23:28:54",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什緩解央行對抗通脹擔憂 美股走高】美聯儲主席凱文·沃什發表講話，緩解了投資者對央行對抗通脹意願的擔憂，儘管交易員押注今年加息機率上升，但週五股市走高。標普500指數最高上漲0.5%，非必需消費品與通訊服務板塊領漲。科技股集中的納斯達克100指數扭轉早前跌幅，紐約時間上午11點20分上漲0.3%；道瓊斯工業平均指數上漲0.4%。芝加哥期權交易所波動率指數繼續回落，交投略高於14。因委內瑞拉考慮退出石油輸出國組織，油價出現下滑。沃什講話過後，各大指數脫離窄幅震盪區間。新任美聯儲主席重申，不傾向於釋出前瞻性指引，同時強調通脹已長期居高不下。"
-    },
-    {
-      "id": "5065746",
-      "time": "2026-08-28 23:27:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晉商銀行：上半年實現淨利潤10.43億元，同比下降0.7%】晉商銀行8月28日釋出2026年中期業績公告顯示，上半年實現營業收入28.91億元，同比增長5.7%；淨利潤10.43億元，同比下降0.7%。截至6月末，晉商銀行資產總額4017.24億元，較2025年末增長2.2%；不良貸款率2.05%，較上年末增加0.1個百分點。"
     }
   ]
 }
