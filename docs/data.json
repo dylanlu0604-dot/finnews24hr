@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-05 05:14:06",
-  "count": 14115,
+  "updated": "2026-09-05 05:17:53",
+  "count": 14116,
   "items": [
+    {
+      "id": "5078374",
+      "time": "2026-09-05 05:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Bloom Energy、Illumina 以及 Everpure 即將納入標普 500 指數。"
+    },
+    {
+      "id": "5078373",
+      "time": "2026-09-05 05:15:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.29%，報14696點。"
+    },
+    {
+      "id": "5078372",
+      "time": "2026-09-05 05:14:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（9月4日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7080元——逼近2022年7月8日最終報價6.6862元、當年4月27日最終報價6.5868元，較週四紐約尾盤漲95點，日內整體交投於6.7186-6.7052元區間，逼近2023年2月2日盤中最低位6.6975元、2022年6月3日底部6.6170元。本週，離岸人民幣累漲0.34%。"
+    },
     {
       "id": "5078371",
       "time": "2026-09-05 05:11:44",
@@ -129287,27 +129311,6 @@
         "MKT News"
       ],
       "text": "President Trump criticized New York Governor Hochul for \"siding with Canada\" and for refusing to use the name American Lake, saying she would \"rather let Canada win,\" and he endorsed Blackman to be New York's next governor."
-    },
-    {
-      "id": "mkt:01a04a3b-a39d-7aab-917b-00e53789387f",
-      "time": "2026-08-29 05:16:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Belgium: seizing frozen Russian assets for Ukraine too risky; will not bear risk alone】IRNA reported Belgian Foreign Minister Maxime Prévot said Belgium strongly opposes confiscating frozen Russian sovereign assets and transferring them to Ukraine, arguing the move would seriously threaten Belgium’s financial-sector reputation. Around €200bn of Western-frozen Russian assets are largely held at Euroclear in Belgium. Prévot warned that even in wartime, breaching European financial rules could structurally damage the euro’s credibility and the wider European financial system. Belgium reviewed a UK proposal to place the assets into an independent investment fund but judged the legal and financial risks too high and unacceptable; it will not assume those risks by itself. Prime Minister Bart De Wever said Belgium will not back any plan unless other EU member states and Ukraine backers provide full guarantees."
-    },
-    {
-      "id": "5066039",
-      "time": "2026-08-29 05:15:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.31%，報14663點。"
     }
   ]
 }
