@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-05 02:55:55",
-  "count": 14130,
+  "updated": "2026-09-05 02:59:48",
+  "count": 14134,
   "items": [
+    {
+      "id": "5078316",
+      "time": "2026-09-05 02:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我結束了八場戰爭，但沒有因此獲得諾貝爾和平獎。"
+    },
+    {
+      "id": "mkt:01a06dc8-a36c-7118-84ad-3665d4f9b758",
+      "time": "2026-09-05 02:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said aircraft provided by Qatar will be sent in October for comprehensive upgrades."
+    },
+    {
+      "id": "5078315",
+      "time": "2026-09-05 02:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：碎牛肉將從阿根廷、巴西進口。"
+    },
+    {
+      "id": "mkt:01a06dc8-2a63-7118-84ad-2dbce8d240e1",
+      "time": "2026-09-05 02:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump says he has a Russia-Ukraine peace plan."
+    },
+    {
+      "id": "5078313",
+      "time": "2026-09-05 02:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正等待參議院審議《拯救美國法案》。"
+    },
+    {
+      "id": "5078312",
+      "time": "2026-09-05 02:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：克蘭西案件是一場可怕的悲劇。"
+    },
+    {
+      "id": "5078311",
+      "time": "2026-09-05 02:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：威特科夫、庫什納正在試探我們能否取得實質性成果。"
+    },
+    {
+      "id": "mkt:01a06dc6-b1e7-7118-84ad-24eb2ad31e78",
+      "time": "2026-09-05 02:55:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the Strait of Hormuz could eventually become unnecessary if oil pipelines are built."
+    },
     {
       "id": "5078310",
       "time": "2026-09-05 02:55:04",
@@ -129453,42 +129521,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.18%，報25467.49點，低水117.30點。"
-    },
-    {
-      "id": "mkt:01a049bd-0c4a-7aab-9179-079a42dfea79",
-      "time": "2026-08-29 02:58:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian President PEZESHKIAN said the war has exacerbated Iran's fuel shortages."
-    },
-    {
-      "id": "mkt:01a049bb-e72a-7aab-9178-f8211f1cef2b",
-      "time": "2026-08-29 02:57:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's President PEZESHKIAN said Iran will raise gasoline prices."
-    },
-    {
-      "id": "mkt:01a049bb-6877-7aab-9178-f65fc41a53d8",
-      "time": "2026-08-29 02:56:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports sources saying security arrangements, the Ali Taher Heights and a pilot zone will be core topics at the Rome talks."
-    },
-    {
-      "id": "5065980",
-      "time": "2026-08-29 02:56:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統表示戰爭加劇了伊朗的燃料短缺問題。"
     }
   ]
 }

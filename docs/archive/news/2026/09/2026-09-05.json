@@ -1,7 +1,75 @@
 {
   "date": "2026-09-05",
-  "count": 287,
+  "count": 295,
   "items": [
+    {
+      "id": "5078316",
+      "time": "2026-09-05 02:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我結束了八場戰爭，但沒有因此獲得諾貝爾和平獎。"
+    },
+    {
+      "id": "mkt:01a06dc8-a36c-7118-84ad-3665d4f9b758",
+      "time": "2026-09-05 02:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said aircraft provided by Qatar will be sent in October for comprehensive upgrades."
+    },
+    {
+      "id": "5078315",
+      "time": "2026-09-05 02:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：碎牛肉將從阿根廷、巴西進口。"
+    },
+    {
+      "id": "mkt:01a06dc8-2a63-7118-84ad-2dbce8d240e1",
+      "time": "2026-09-05 02:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump says he has a Russia-Ukraine peace plan."
+    },
+    {
+      "id": "5078313",
+      "time": "2026-09-05 02:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正等待參議院審議《拯救美國法案》。"
+    },
+    {
+      "id": "5078312",
+      "time": "2026-09-05 02:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：克蘭西案件是一場可怕的悲劇。"
+    },
+    {
+      "id": "5078311",
+      "time": "2026-09-05 02:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：威特科夫、庫什納正在試探我們能否取得實質性成果。"
+    },
+    {
+      "id": "mkt:01a06dc6-b1e7-7118-84ad-24eb2ad31e78",
+      "time": "2026-09-05 02:55:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the Strait of Hormuz could eventually become unnecessary if oil pipelines are built."
+    },
     {
       "id": "5078310",
       "time": "2026-09-05 02:55:04",
