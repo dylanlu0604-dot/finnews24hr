@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-05 01:52:45",
-  "count": 14060,
+  "updated": "2026-09-05 01:56:47",
+  "count": 14056,
   "items": [
+    {
+      "id": "mkt:01a06d8e-1405-7118-84ab-ac21b9341994",
+      "time": "2026-09-05 01:53:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios, citing sources, reports the Trump administration is drafting a post-war Middle East plan focused on regional efforts to contain Iran and broaden normalization between Israel and neighboring states."
+    },
+    {
+      "id": "5078224",
+      "time": "2026-09-05 01:52:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：特朗普政府正在起草中東戰後方案】\n據兩名美國官員及另外兩名知情訊息人士透露，特朗普政府正在制定一項戰後戰略，核心是依託地區力量遏制伊朗，並推動以色列與其周邊國家進一步實現關係正常化。\n該方案仍處於起草初期，旨在伊朗戰爭結束後，以及特朗普任期最後兩年，指導美國的中東政策走向。兩項重大事件將對這份規劃形成制約：10 月 27 日以色列大選，以及 11 月美國中期選舉。\n美國官員表示，這項戰略的初步工作，同步在特朗普政府高層政治層面以及多部門實務工作層面推進。\n訊息人士稱，近幾周，特朗普總統已兩次召集高階顧問開會，討論該方案並徵集相關構想。\n訊息人士透露，該戰略的備選框架包含三大核心方向：\n1、在美國充當保障方的前提下，組建美國盟友地區聯盟，以此遏制伊朗。\n2、落實特朗普加沙計劃的下一階段、促成以色列‑敘利亞安全協議、執行以色列‑黎巴嫩協議，合力推動 10 月 7 日襲擊所引發的地區衝突走向收尾。\n3、拓展《亞伯拉罕協議》成果，達成沙特‑以色列關係正常化協議。\n一名瞭解相關程序的訊息人士表示，這份新戰略還需要數週時間完成起草。“方案還在醞釀階段，尚未定稿。”\n該訊息人士補充道：“這套構想意在把中東諸多事務統籌起來，規劃戰後地區聯盟的構建路徑。目前尚不能確定美國在中東的所有盟友都會予以支援。”"
+    },
     {
       "id": "5078223",
       "time": "2026-09-05 01:51:34",
@@ -128809,66 +128830,6 @@
         "Impact bullish"
       ],
       "text": "【Apple raises Apple TV and Apple One subscription prices; services continue price hikes】Apple (AAPL.O) raised U.S. prices for Apple TV and Apple One: Apple TV monthly to $14.99 from $12.99 and annual to $119 from $99, and the Apple One Individual monthly plan to $21.95 from $19.95. This is Apple’s second subscription price increase this year after Apple Music rose $1 in July, which the company attributed to higher licensing costs; Apple TV’s monthly price has risen from $4.99 at its 2019 launch."
-    },
-    {
-      "id": "5065938",
-      "time": "2026-08-29 01:56:10",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市28日上漲】英國倫敦股市《金融時報》100種股票平均價格指數28日報收於10824.26點，較前一交易日上漲31.72點，漲幅為0.29%。歐洲三大股指當天全線上漲。當天倫敦股市成分股中位於漲幅前五位的個股分別為：能源供應商SSE股價上漲2.86%，天達資產管理公司股價上漲2.79%，滙豐銀行股價上漲1.62%，水務公司塞文·特倫特股價上漲1.48%，渣打銀行股價上漲1.40%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：企業服務外包商巴布科克國際股價下跌2.36%，貝宜系統公司股價下跌2.29%，電信運營商非洲電信公司股價下跌2.12%，汽車交易商集團股價下跌1.53%，豪登細木工集團股價下跌1.31%。"
-    },
-    {
-      "id": "te:markets:579236",
-      "time": "2026-08-29 01:55:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Loonie Slips Despite Strong Canadian GDP — The Canadian dollar weakened to 1.39 per USD from a three-month high of 1.376 reached on August 21st, as a more restrictive policy signal from Fed Chair Warsh supported the US dollar. Warsh said the Fed is tracking the PCE index as an inflation gauge, using firmer rhetoric than earlier suggestions that a newly created task force could shift the central bank’s preferred measure. Rate futures shifted toward pricing a potential Fed rate hike next month. Meanwhile, the BoC is widely expected to keep rates unchanged at its September 2nd meeting. A Fed hike alongside a BoC hold would widen the US-Canada rate differential, making US assets more attractive and putting further pressure on the Canadian dollar. Canada’s GDP expanded at its strongest pace in nearly two years, amid a rebound in auto production, providing a buffer against trade risks. However, President Trump’s threat to raise tariffs on Canadian cars, trucks and auto parts to 50% from January 1st, 2027, remained a headwind."
-    },
-    {
-      "id": "te:economy:579235",
-      "time": "2026-08-29 01:54:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Aug 31st — Global markets are underpinned by long-term interest rates, which remained elevated at the turn of September amid high energy prices, ample AI-related corporate debt issuance, and wide budget deficits against signs of resilient economic growth. Economic data from the US will be centered on the labor market as FOMC members note the US is at full employment, headlined by the BLS Employment Situation report. ISM PMIs are also featured. In Europe, Eurozone inflation and unemployment rates are awaited. PMIs will also be the focus in China for its first batch of August data. A busy week in Japan will include retail sales, the unemployment rate, industrial production, and consumer confidence. GDP data is due from Brazil, India, and Australia, while central banks in Canada and New Zealand will decide on policy."
-    },
-    {
-      "id": "mkt:01a04981-b78d-7aab-9178-6171b37077c8",
-      "time": "2026-08-29 01:53:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE data: For the week ended Aug. 25, speculative net long positions in natural gas fell by 3,223 contracts to 89,299 contracts."
-    },
-    {
-      "id": "5065937",
-      "time": "2026-08-29 01:53:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）：8月25日當週，投機者所持白糖淨多頭頭寸達到70,766手合約，創歷史新高。"
-    },
-    {
-      "id": "5065936",
-      "time": "2026-08-29 01:53:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所（ICE）：截至8月25日當週，投機者將瓦斯油淨多頭持倉削減3223手，至89299手。"
     }
   ]
 }
