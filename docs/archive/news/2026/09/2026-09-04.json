@@ -1,7 +1,45 @@
 {
   "date": "2026-09-04",
-  "count": 2388,
+  "count": 2392,
   "items": [
+    {
+      "id": "mkt:01a06cef-e78a-7118-84a8-e55821ffd83f",
+      "time": "2026-09-04 23:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close, China's most-active futures contracts were mostly higher. Synthetic rubber rose just over 5%; caustic soda gained more than 3%; 20# rubber was near +3%; soda ash and rubber climbed over 2%. Fuel oil fell more than 2%."
+    },
+    {
+      "id": "te:markets:581358",
+      "time": "2026-09-04 23:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.75% — Top currency gainers are South Korean Won (0.75%), Indian Rupee (0.26%) and Dollar Index (0.24%). Biggest losers are Canadian Dollar (-0.35%), Swiss Franc (-0.32%), Swedish Krona (-0.32%), Japanese Yen (-0.20%), British Pound (-0.08%) and Euro (-0.07%)."
+    },
+    {
+      "id": "5078034",
+      "time": "2026-09-04 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】20號膠連續漲2.93%，純鹼連續漲2.78%，天然橡膠連續漲2.05%，燃料油連續跌2.04%，玻璃連續漲1.75%。"
+    },
+    {
+      "id": "5078033",
+      "time": "2026-09-04 22:58:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力集團（EDF）：受羅訥河水溫偏高影響，從2025年9月8日起，生產限制措施可能會影響比熱核電站。"
+    },
     {
       "id": "5078032",
       "time": "2026-09-04 22:58:17",

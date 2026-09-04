@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-04 22:59:03",
-  "count": 14071,
+  "updated": "2026-09-04 23:03:08",
+  "count": 14073,
   "items": [
+    {
+      "id": "mkt:01a06cef-e78a-7118-84a8-e55821ffd83f",
+      "time": "2026-09-04 23:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close, China's most-active futures contracts were mostly higher. Synthetic rubber rose just over 5%; caustic soda gained more than 3%; 20# rubber was near +3%; soda ash and rubber climbed over 2%. Fuel oil fell more than 2%."
+    },
+    {
+      "id": "te:markets:581358",
+      "time": "2026-09-04 23:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.75% — Top currency gainers are South Korean Won (0.75%), Indian Rupee (0.26%) and Dollar Index (0.24%). Biggest losers are Canadian Dollar (-0.35%), Swiss Franc (-0.32%), Swedish Krona (-0.32%), Japanese Yen (-0.20%), British Pound (-0.08%) and Euro (-0.07%)."
+    },
+    {
+      "id": "5078034",
+      "time": "2026-09-04 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】20號膠連續漲2.93%，純鹼連續漲2.78%，天然橡膠連續漲2.05%，燃料油連續跌2.04%，玻璃連續漲1.75%。"
+    },
+    {
+      "id": "5078033",
+      "time": "2026-09-04 22:58:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力集團（EDF）：受羅訥河水溫偏高影響，從2025年9月8日起，生產限制措施可能會影響比熱核電站。"
+    },
     {
       "id": "5078032",
       "time": "2026-09-04 22:58:17",
@@ -128803,29 +128841,6 @@
         "其他"
       ],
       "text": "智利、阿根廷、玻利維亞與秘魯簽署戰略性礦產聯合宣言。"
-    },
-    {
-      "id": "te:markets:579178",
-      "time": "2026-08-28 23:02:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Extends Rebound — The US dollar index rose to 99.5 on Friday, extending the rebound from the three-month low of 98.8 from August 21st, and tracking the surge in short-term Treasury yields after Fed Chairman Kevin Warsh signaled a firmer stance against inflation. The Fed Chairman stated that underlying inflation was not significantly lower in the last few months and added that the labor market appears to be at full employment. On top of that, Warsh stated that the Fed is tracking the PCE index as an inflation gauge, using stricter rhetoric than earlier suggestions that one of the newly created task forces could shift the Fed's target gauge. Rate futures reflected a swing to positions of a Fed rate hike next month. Also strengthening the dollar, annual revisions to nonfarm payrolls were well under recent amounts, indicating robust employment. In the meantime, signs of higher inflation in the Eurozone added to the consensus of an ECB rate hike, limiting the rebound for the DXY."
-    },
-    {
-      "id": "te:markets:579176",
-      "time": "2026-08-28 23:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Turkish Lira Drops by 0.98% — Top currency losers are Turkish Lira (-0.98%), Brazilian Real (-0.80%), Swedish Krona (-0.48%), Japanese Yen (-0.30%), Euro (-0.30%) and British Pound (-0.15%). Gains are led by South Korean Won (0.37%) and Dollar Index (0.26%)."
     }
   ]
 }
