@@ -1,7 +1,107 @@
 {
   "date": "2026-09-04",
-  "count": 1302,
+  "count": 1313,
   "items": [
+    {
+      "id": "mkt:01a06b1e-0d8c-7118-8499-42de17fb567b",
+      "time": "2026-09-04 14:32:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【German factory orders beat expectations for third consecutive month; recovery gains momentum】DESTATIS said Thursday Germany factory orders rose 2.5% MoM in July, the third consecutive month to beat expectations; June was revised up to +3.7%. Growth was driven by large-ticket orders for ships, trains and aircraft; excluding that category orders fell, led by a decline in autos. The lower-volatility three-month average shows a similar pattern. Recent indicators point to an accelerating recovery: exports have improved, the government is committing hundreds of billions of euros to military and infrastructure upgrades, and firms are ramping investment in AI. Q2 GDP was revised up to +0.3% from +0.2%, and confidence measures and August manufacturing readings hit their best levels since 2022."
+    },
+    {
+      "id": "5076958",
+      "time": "2026-09-04 14:31:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本麥當勞8月同店銷售額增長3.5%。"
+    },
+    {
+      "id": "5076957",
+      "time": "2026-09-04 14:31:09",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲1.26%，報65020.94點。韓國綜指收漲1.64%，報6687.21點。"
+    },
+    {
+      "id": "5076956",
+      "time": "2026-09-04 14:30:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壽司郎回應兒童在店內小便：相關用品均已廢棄】針對網傳有家長在壽司郎門店內使用一次性容器為小朋友處理如廁需求一事，壽司郎回應稱，當天顧客帶小朋友在門店用餐，其間小朋友有如廁需求，家長使用一次性容器進行了處理。門店瞭解情況後第一時間進行了干預。壽司郎表示，顧客離開後，門店立即對相關區域進行全面清潔消毒，涉及用品均已廢棄，以確保後續顧客的用餐環境安全。壽司郎稱，公司始終將安心與安全放在首位，對於危害衛生和食品安全的行為，門店將立即制止並進行清潔消毒。後續也將強化文明用餐的提醒和引導。"
+    },
+    {
+      "id": "mkt:01a06b1c-5777-7118-8499-3b03fabb18c1",
+      "time": "2026-09-04 14:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangxi upgrades flood warning to yellow】Jiangxi Hydrological Monitoring Center at 11:26 on the 4th upgraded the provincial flood alert to yellow. Due to heavy rainfall, the river reach at Xiajiang County is expected to exceed the warning level by about 0.5m in roughly 4 hours; the Gan River at Ji'an urban section is expected to exceed the warning level by about 1.8m in roughly 16 hours; Zhangshu urban section is forecast to see a flood peak of about 15,200 m3/s in roughly 22 hours; Nanchang urban section is forecast to see a flood peak of about 16,000 m3/s in roughly 28 hours."
+    },
+    {
+      "id": "te:markets:581154",
+      "time": "2026-09-04 14:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.47% Higher — The Nikkei 225 Index gained 944 points or 1.47 percent on Friday to close at 65158 points. Gains were led by Softbank (11.32%), Nidec (7.85%) and Takara (7.84%)."
+    },
+    {
+      "id": "5076955",
+      "time": "2026-09-04 14:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，華虹宏力跌9.61％，盛科通訊跌6.56％，中科飛測跌6.37％，芯原股份跌4.59％。"
+    },
+    {
+      "id": "5076954",
+      "time": "2026-09-04 14:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市國土空間近期實施規劃（2026—2030年）》印發】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，到2030年，上海“五個中心”核心功能持續躍升，全球資源配置力、科技創新策源力、高階產業引領力、開放樞紐門戶影響力和文化軟實力明顯增強，創新之城、生態之城、人文之城和具有世界影響力的社會主義現代化國際大都市建設躍上更高臺階，在推進中國式現代化中充分發揮龍頭帶動和示範引領作用。"
+    },
+    {
+      "id": "5076953",
+      "time": "2026-09-04 14:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易捷航空法國飛行員工會呼籲9月13‑14日舉行罷工】法國SNPL工會以排班缺乏穩定性為由，號召易捷航空法國地區飛行員於9月13日至14日開展罷工。該工會表示，飛行員每週排班可能多次變動，致使員工無法安排家庭生活與休息。工會稱仍願意開展對話，並表示航空公司方面其實已有可行解決方案。"
+    },
+    {
+      "id": "5076952",
+      "time": "2026-09-04 14:28:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7483.40點。"
+    },
+    {
+      "id": "5076951",
+      "time": "2026-09-04 14:28:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度航空在一份宣告中表示，該公司已開始對所有飛行員開展自願檢測。"
+    },
     {
       "id": "5076950",
       "time": "2026-09-04 14:28:17",

@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-04 14:28:55",
-  "count": 13413,
+  "updated": "2026-09-04 14:32:48",
+  "count": 13411,
   "items": [
+    {
+      "id": "mkt:01a06b1e-0d8c-7118-8499-42de17fb567b",
+      "time": "2026-09-04 14:32:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【German factory orders beat expectations for third consecutive month; recovery gains momentum】DESTATIS said Thursday Germany factory orders rose 2.5% MoM in July, the third consecutive month to beat expectations; June was revised up to +3.7%. Growth was driven by large-ticket orders for ships, trains and aircraft; excluding that category orders fell, led by a decline in autos. The lower-volatility three-month average shows a similar pattern. Recent indicators point to an accelerating recovery: exports have improved, the government is committing hundreds of billions of euros to military and infrastructure upgrades, and firms are ramping investment in AI. Q2 GDP was revised up to +0.3% from +0.2%, and confidence measures and August manufacturing readings hit their best levels since 2022."
+    },
+    {
+      "id": "5076958",
+      "time": "2026-09-04 14:31:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本麥當勞8月同店銷售額增長3.5%。"
+    },
+    {
+      "id": "5076957",
+      "time": "2026-09-04 14:31:09",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲1.26%，報65020.94點。韓國綜指收漲1.64%，報6687.21點。"
+    },
+    {
+      "id": "5076956",
+      "time": "2026-09-04 14:30:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壽司郎回應兒童在店內小便：相關用品均已廢棄】針對網傳有家長在壽司郎門店內使用一次性容器為小朋友處理如廁需求一事，壽司郎回應稱，當天顧客帶小朋友在門店用餐，其間小朋友有如廁需求，家長使用一次性容器進行了處理。門店瞭解情況後第一時間進行了干預。壽司郎表示，顧客離開後，門店立即對相關區域進行全面清潔消毒，涉及用品均已廢棄，以確保後續顧客的用餐環境安全。壽司郎稱，公司始終將安心與安全放在首位，對於危害衛生和食品安全的行為，門店將立即制止並進行清潔消毒。後續也將強化文明用餐的提醒和引導。"
+    },
+    {
+      "id": "mkt:01a06b1c-5777-7118-8499-3b03fabb18c1",
+      "time": "2026-09-04 14:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangxi upgrades flood warning to yellow】Jiangxi Hydrological Monitoring Center at 11:26 on the 4th upgraded the provincial flood alert to yellow. Due to heavy rainfall, the river reach at Xiajiang County is expected to exceed the warning level by about 0.5m in roughly 4 hours; the Gan River at Ji'an urban section is expected to exceed the warning level by about 1.8m in roughly 16 hours; Zhangshu urban section is forecast to see a flood peak of about 15,200 m3/s in roughly 22 hours; Nanchang urban section is forecast to see a flood peak of about 16,000 m3/s in roughly 28 hours."
+    },
+    {
+      "id": "te:markets:581154",
+      "time": "2026-09-04 14:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.47% Higher — The Nikkei 225 Index gained 944 points or 1.47 percent on Friday to close at 65158 points. Gains were led by Softbank (11.32%), Nidec (7.85%) and Takara (7.84%)."
+    },
+    {
+      "id": "5076955",
+      "time": "2026-09-04 14:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，華虹宏力跌9.61％，盛科通訊跌6.56％，中科飛測跌6.37％，芯原股份跌4.59％。"
+    },
+    {
+      "id": "5076954",
+      "time": "2026-09-04 14:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市國土空間近期實施規劃（2026—2030年）》印發】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，到2030年，上海“五個中心”核心功能持續躍升，全球資源配置力、科技創新策源力、高階產業引領力、開放樞紐門戶影響力和文化軟實力明顯增強，創新之城、生態之城、人文之城和具有世界影響力的社會主義現代化國際大都市建設躍上更高臺階，在推進中國式現代化中充分發揮龍頭帶動和示範引領作用。"
+    },
+    {
+      "id": "5076953",
+      "time": "2026-09-04 14:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易捷航空法國飛行員工會呼籲9月13‑14日舉行罷工】法國SNPL工會以排班缺乏穩定性為由，號召易捷航空法國地區飛行員於9月13日至14日開展罷工。該工會表示，飛行員每週排班可能多次變動，致使員工無法安排家庭生活與休息。工會稱仍願意開展對話，並表示航空公司方面其實已有可行解決方案。"
+    },
+    {
+      "id": "5076952",
+      "time": "2026-09-04 14:28:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7483.40點。"
+    },
+    {
+      "id": "5076951",
+      "time": "2026-09-04 14:28:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度航空在一份宣告中表示，該公司已開始對所有飛行員開展自願檢測。"
+    },
     {
       "id": "5076950",
       "time": "2026-09-04 14:28:17",
@@ -123094,140 +123194,6 @@
         "MKT News"
       ],
       "text": "According to Nikkei, preliminary data from Japan’s Ministry of Health, Labour and Welfare showed births in 1H totaled 342,068, up 0.8% YoY — the first 1H increase in births in 11 years."
-    },
-    {
-      "id": "5064056",
-      "time": "2026-08-28 14:31:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回吐全部漲幅，最新報跌0.03%。"
-    },
-    {
-      "id": "mkt:01a04711-09f2-7aab-9164-bef76ffb83a4",
-      "time": "2026-08-28 14:31:33",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI fell 123.48 points, or 1.79%, to 6,788.89 at the close on Friday, Aug. 28; SK Hynix dropped 3.87% and Samsung Electronics fell 2.81%."
-    },
-    {
-      "id": "5064055",
-      "time": "2026-08-28 14:31:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市收盤】日經225指數收盤上漲0.4%，報66405.56點。韓國KOSPI指數收盤下跌123.48點，跌幅1.79%，報6788.89點，SK海力士跌3.87%，三星電子跌2.81%。"
-    },
-    {
-      "id": "te:economy:578938",
-      "time": "2026-08-28 14:31:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "Norway Retail Sales Fall in July — Retail sales in Norway fell 0.7% month over month in July 2026, reversing a revised 1.6% increase in the previous month. Sales growth slowed for goods not sold in stores, stalls, and markets (1.4% vs 2.2%), and cultural and recreation goods (0.2% vs 3.7%). At the same time, sales declined for non-specialised stores (-0.3% vs 1.4% in June), food, beverages, and tobacco (-1.0% vs 1.8%), and other household equipment (-0.9% vs 1.7%), while the decline deepened for ICT equipment (-2.1% vs -0.1%) and eased for automotive fuel (-2.8% vs 3.6%). Meanwhile, sales rose for other goods (1.8% vs -1.0%) and mail order or internet sales (1.9% vs 1.7%). On an annual basis, retail sales declined 2.0% in July, following a 0.3% fall in the previous month."
-    },
-    {
-      "id": "5064054",
-      "time": "2026-08-28 14:31:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "拜耳股份公司：拜耳已在日本提交可申達（Kerendia）擴大慢性腎臟疾病治療適應症的申請。"
-    },
-    {
-      "id": "mkt:01a04710-99bb-7aab-9164-b44569a97e38",
-      "time": "2026-08-28 14:31:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 closed up 273.58 points, or 0.41%, at 66,405.56 on Friday, Aug. 28."
-    },
-    {
-      "id": "te:economy:578937",
-      "time": "2026-08-28 14:30:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 11.75 basis points, and in the last 12 months, it increased 55.12 basis points."
-    },
-    {
-      "id": "5064053",
-      "time": "2026-08-28 14:30:55",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門聯合出臺指導意見規範醫療機構使用特殊醫學用途配方食品】《指導意見》指出，特醫食品是指經國家市場監督管理部門註冊可以在國內市場銷售，為滿足進食受限、消化吸收障礙、代謝紊亂或者特定疾病狀態人群對營養素或者膳食的特殊需要，專門加工配製而成的配方食品。特醫食品對上述人群的治療、康復及機體功能維持等方面起著重要的營養支援作用。《指導意見》要求，醫療機構應從3個方面規範管理和使用特醫食品。在體制機制層面，確立特醫食品使用管理部門或小組，建立特醫食品供應目錄及各環節管理制度，規範特醫食品領取、使用和收費等管理流程；在制度層面，建立特醫食品採購、貯存、銷售、使用、召回等院內管理各環節的使用規範；在使用環節，確保特醫食品來源合法規範，落實專區專櫃銷售制度並儲存銷售資訊，規範收費管理並鼓勵納入醫療機構相關資訊系統。"
-    },
-    {
-      "id": "mkt:01a04710-2873-7aab-9164-a94cc01f12e8",
-      "time": "2026-08-28 14:30:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shenzhen Qianhai rolls out financing and listing support for low‑altitude economy】Qianhai Shenzhen-Hong Kong modern service zone has implemented a 12-point financial support package for the low‑altitude economy, effective Sept. 1 this year through Dec. 31, 2028. The measures create a Qianhai low‑altitude economy zone on the Shenzhen Qianhai Equity Exchange Center’s specialized-and-innovative board and launch an “entry‑to‑board” (入板即貸) targeted financing service. Authorities will encourage listing preparation, compliance advisory and cross‑border capital services for low‑altitude firms and facilitate tiered access to multi‑layer capital markets, including Shanghai and Shenzhen main boards, ChiNext, the STAR Market and the Beijing Stock Exchange. The plan also backs faster NEEQ (New Third Board) approvals via a green channel. To address costly and hard-to-get financing at key links in the low‑altitude industrial chain, the measures introduce a credit risk‑sharing mechanism and encourage banks to develop product lines such as talent loans, R&D loans and low‑altitude industry cluster loans."
-    },
-    {
-      "id": "te:economy:578936",
-      "time": "2026-08-28 14:30:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Swedish Retail Sales Growth Eases to 6.2% — Retail sales in Sweden increased 6.2% year-on-year in July 2026, easing from an upwardly revised 7.7% rise in the previous month. The moderation was mainly driven by weaker durable goods sales (8.6% vs 10.4% in June) and non-specialised stores (5.4% vs 5.7%). Meanwhile, sales of consumables excluding Systembolaget strengthened slightly (5.3% vs 5.0%), while petrol station sales accelerated sharply (5.7% vs 0.8%). On a seasonally adjusted monthly basis, retail sales fell 0.2% in July 2026, reversing an upwardly revised 1.4% increase in the previous month. Over the latest three-month period (May–July), the calendar-adjusted and seasonally adjusted retail sales volume was 2.3% higher than in the preceding three-month period (February–April)."
-    },
-    {
-      "id": "5064052",
-      "time": "2026-08-28 14:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月28日：“農產品批發價格200指數”比昨天下降0.24個點】據農業農村部監測，8月28日“農產品批發價格200指數”為115.61，比昨天下降0.24個點，“菜籃子”產品批發價格指數為116.15，比昨天下降0.30個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.25元/公斤，比昨天上升0.1%；牛肉68.78元/公斤，比昨天下降0.1%；羊肉65.58元/公斤，比昨天下降0.6%；雞蛋10.92元/公斤，與昨天持平；白條雞17.14元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.57元/公斤，比昨天下降0.2%；重點監測的6種水果平均價格為6.58元/公斤，比昨天下降0.3%。鯽魚19.80元/公斤，比昨天下降1.4%；鯉魚14.20元/公斤，比昨天上升0.9%；白鰱魚10.23元/公斤，比昨天下降2.0%；大帶魚41.65元/公斤，比昨天下降1.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、大白菜、青椒、西葫蘆和菜花，幅度分別為3.0%、2.2%、2.1%、2.0%和1.6%；價格降幅前五名的是蓮藕、冬瓜、黃瓜、白鰱魚和西瓜，幅度分別為4.1%、3.2%、2.2%、2.0%和1.9%。"
-    },
-    {
-      "id": "te:markets:578935",
-      "time": "2026-08-28 14:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.29% Higher — The Nikkei 225 Index gained 191 points or 0.29 percent on Friday to close at 66323 points. Gains were led by Trend Micro (5.32%), Recruit Holdings (4.68%) and Fujitsu (4.34%). Biggest losers were Furukawa Electric (-4.13%), Sumitomo Electric (-3.17%) and Ebara (-2.99%)."
-    },
-    {
-      "id": "5064051",
-      "time": "2026-08-28 14:29:58",
-      "tags": [
-        "行業"
-      ],
-      "text": "【印尼啟動東南亞最大光伏計劃】2026年8月25日，印度尼西亞總統普拉博沃（PrabowoSubianto）正式宣佈啟動100GW（吉瓦）光伏發電建設計劃，目標在3年內完成。這是迄今為止東南亞國家中最宏大的光伏建設計劃，在全球範圍中也屬罕見規模。據國際可再生能源署（IRENA）統計，截至2025年底，全球僅有中國、美國、印度和德國四個國家的累計光伏裝機超過100GW；而印尼目前的裝機規模僅約1.5GW。普拉博沃在啟動儀式上稱，100GW光伏裝機將使印尼真正成為能源自主的國家。再加上地熱資源、天然氣田，以及必須持續提高的石油產量，印尼未來將不需要進口石油和液化石油氣。印尼能源和礦產資源部長巴赫利爾（BahlilLahadalia）表示，印尼全年陽光充足，發展光伏潛力巨大，加強國內的光伏元件和電池儲能產業是支援該計劃實施的基礎之一。據他測算，100GW光伏計劃預計總投資約730億美元（1140萬億印尼盾），創造約552萬個就業崗位。該計劃實現後，有望每年為印尼節省超過約47億美元能源開支，節省約60億升柴油，減少約1.4億噸二氧化碳排放。(財經雜誌)"
     }
   ]
 }
