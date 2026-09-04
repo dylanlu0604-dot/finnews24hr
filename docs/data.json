@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-05 05:06:22",
-  "count": 14106,
+  "updated": "2026-09-05 05:10:11",
+  "count": 14115,
   "items": [
+    {
+      "id": "mkt:01a06e3f-faec-7118-84ae-936fbdee6665",
+      "time": "2026-09-05 05:08:01",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "FITCH said the rating upgrade reflects strengthened Portuguese public finances, including an expected downward trend in government debt."
+    },
+    {
+      "id": "mkt:01a06e3f-f470-7118-84ae-8e5ee98befb8",
+      "time": "2026-09-05 05:08:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH said removal of Qatar from its ratings watchlist reflects that the war's impact on the country's creditworthiness will take longer to materialize."
+    },
+    {
+      "id": "mkt:01a06e3f-d5f7-7118-84ae-81c92043c2c6",
+      "time": "2026-09-05 05:07:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Barclays says oil outflows from the Middle East exceed levels seen in the conflict's early phase; the market remains in deficit and inventory buffers have been substantially reduced."
+    },
+    {
+      "id": "mkt:01a06e3f-d589-7118-84ae-7f0593251698",
+      "time": "2026-09-05 05:07:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fitch said the risk of further severe damage to Qatar's liquefied natural gas facilities has declined since March and removed them from its watchlist."
+    },
+    {
+      "id": "5078370",
+      "time": "2026-09-05 05:07:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評卡達：從評級觀察負面名單中移除，反映自 3 月以來卡達液化天然氣設施遭受進一步嚴重破壞的風險已有所下降。"
+    },
+    {
+      "id": "mkt:01a06e3f-9f24-7118-84ae-70d0aa6a2e17",
+      "time": "2026-09-05 05:07:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "BARCLAYS maintains its 2026 Brent crude forecast at $96/bbl."
+    },
+    {
+      "id": "5078369",
+      "time": "2026-09-05 05:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴克萊：中東石油輸出量高於衝突早期階段，但市場依舊處於供應缺口狀態，且當前庫存緩衝規模已大幅收窄。"
+    },
+    {
+      "id": "5078368",
+      "time": "2026-09-05 05:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：維持 2026 年布倫特原油 96 美元 / 桶的價格預測。"
+    },
+    {
+      "id": "te:markets:581412",
+      "time": "2026-09-05 05:05:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Posts Strongest Weekly Gain Since July — Brent traded near $95.73 a barrel on Friday and was up more than 8% for the week, marking its strongest weekly performance since July, as the war in the Middle East continued with little prospects of peace. Iran and the US exchanged missile strikes this week, while Israel’s defense minister threatened “crippling” attacks on Iran’s infrastructure, including energy facilities. Meanwhile, US Vice President JD Vance said the US does not plan to hold peace talks with Iran until it stops attacking ships in Hormuz, adding to upward pressure on oil prices as Iran signals its determination to maintain a hard-line response to the latest US strikes. The EU has formally joined the US-led sanctions campaign against Iran, while South Korea said it is considering a military role. The rally could lose momentum if shipments through the Strait increase. Reports on Iraqi oil exports indicate an average of 2.35 million barrels per day in August, mostly shipped through southern routes."
+    },
     {
       "id": "mkt:01a06e3d-b35a-7118-84ae-6847ad35ee1c",
       "time": "2026-09-05 05:05:32",
