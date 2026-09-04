@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-04 14:09:43",
-  "count": 13408,
+  "updated": "2026-09-04 14:13:32",
+  "count": 13406,
   "items": [
+    {
+      "id": "5076922",
+      "time": "2026-09-04 14:13:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元上漲0.3%至31.658。"
+    },
+    {
+      "id": "mkt:01a06b0b-b54d-7118-8498-f94dc09ebe4f",
+      "time": "2026-09-04 14:12:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan finance minister Katayama expected to stay; to retain economic and FX remit】Japan's finance minister Katayama is expected to be retained in an upcoming cabinet reshuffle, local media report. Reappointment would signal policy continuity on economic management, exchange-rate oversight and budget-process reform and preserve close coordination with U.S. Treasury Secretary Bessent, who has both pressed Japan to raise rates and assisted yen stabilization. Keeping Katayama should limit reshuffle-driven market volatility; replacing her could disrupt U.S.-Japan FX cooperation, add upward pressure to government bond yields and weigh on the yen amid tighter market conditions from government spending plans."
+    },
+    {
+      "id": "mkt:01a06b0b-9fd8-7118-8498-f1dea5a0caa6",
+      "time": "2026-09-04 14:11:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports initial production of Apple's foldable iPhone is only a few hundred units per day, largely due to the company's stringent quality-control standards."
+    },
+    {
+      "id": "5076920",
+      "time": "2026-09-04 14:11:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創始人張俊傑卸任霸王茶姬董事長】天眼查App顯示，近日，霸王茶姬關聯公司茶姬（上海）商業管理有限公司發生工商變更，張俊傑卸任法定代表人、董事長、經理，由尹登峰接任；同時，企業名稱變更為茶姬企業管理（集團）有限公司。該公司成立於2020年12月，註冊資本約3800萬人民幣，經營範圍包括餐飲管理、技術進出口、軟體開發等，由CHAGEEINVESTMENTPTE.LTD.全資持股。（南方財經）"
+    },
+    {
+      "id": "5076919",
+      "time": "2026-09-04 14:11:33",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【美參議員桑德斯呼籲立即暫停先進AI技術開發，永久禁止開發超級智慧】美國資深參議員伯尼·桑德斯呼籲立即暫停先進人工智慧的開發，並永久禁止開發超級智慧，他以OpenAI模型逃逸入侵Hugging Face事件為例，指出自主智慧體正變得越來越難以控制。“這不是科幻小說，”桑德斯週四在X上發文表示，並宣佈與德克薩斯州眾議員格雷格·卡薩爾共同推動一項法案。桑德斯提出的《禁止人工超級智慧法案》要求暫停先進人工智慧的研發，直至一家全新的聯邦監管機構制定出安全規則。該法案將永久禁止研發能夠超越人類智力、或是可以規避關停指令的系統；設立內閣級別的人工智慧機構，並敦促美國政府推動達成相關國際協議。違反法案者最高可面臨 20 年監禁。"
+    },
+    {
+      "id": "5076918",
+      "time": "2026-09-04 14:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“吉電入京”2×660MW火電調峰專案在吉林大安正式啟動】9月4日，國家“十四五”電力規劃重點專案——東北松遼清潔能源基地送電華北工程（“吉電入京”）大安2×660MW火電調峰專案，在吉林省大安市正式啟動。該工程串聯東北能源優勢與京津冀市場需求，是對接東北全面振興與京津冀協同發展兩大國家戰略的標誌效能源工程，將構建跨區域綠色能源輸送新格局，為國家能源安全保供、“雙碳”目標落地提供重要支撐。"
+    },
+    {
+      "id": "5076917",
+      "time": "2026-09-04 14:10:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將殼牌評級從持平上調至增持；目標股價從3045便士上調至3780便士。"
+    },
+    {
+      "id": "5076916",
+      "time": "2026-09-04 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：晶片概念板塊淨流出超202億】截至目前，今日主力資金淨流出136.27億；淨流入文化傳媒概念、虛擬數字人、傳媒等板塊，其中文化傳媒概念板塊淨流入61.80億；淨流出晶片概念、半導體、大盤等板塊，其中晶片概念板塊淨流出202.42億。\n  \n個股方面，中國船舶淨買入17.51億元位居首位，天娛數科、景旺電子、工業富聯主力資金淨流入居前；浪潮資訊淨賣出15.69億元位居首位，兆易創新、紫光股份、長電科技淨流出額居前。"
+    },
+    {
+      "id": "5076915",
+      "time": "2026-09-04 14:10:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本實際家庭消費連續8個月同比下滑】日本總務省4日公佈的調查結果顯示，日本家庭消費持續疲軟，7月實際家庭消費支出連續第八個月同比下滑。 受日本物價上漲影響，消費者更加註重節約開支。資料顯示，當月日本兩人及以上家庭月平均消費支出同比下降3.6%。在消費支出的10個大類中，有8類支出同比下降。 具體來看，當月食品支出下降1.3%，連續2個月減少；水電燃氣支出下降9.2%，連續5個月下滑；交通通訊支出受汽車銷售低迷影響下降8.5%。(新華社)"
+    },
+    {
+      "id": "mkt:01a06b09-bf5b-7118-8498-eea4dce2c8d0",
+      "time": "2026-09-04 14:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Douyin Life Services: year-to-date fast-food/snacks GMV +114% YoY; merchant count +155%】Sept. 3 — Douyin Life Services said year-to-date GMV in the fast-food and snacks category rose 114% YoY, while merchant count increased 155% YoY; user demand and merchant sales scale both expanded."
+    },
+    {
+      "id": "5076914",
+      "time": "2026-09-04 14:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音生活服務：快餐小吃交易額同比增長114%】9月3日，抖音生活服務公佈的資料顯示，今年以來，快餐小吃品類交易額同比增長114%，入駐商家數同比增長155%，使用者消費需求與商家銷售規模實現雙增長。"
+    },
     {
       "id": "mkt:01a06b09-190c-7118-8498-e7697bb7a4da",
       "time": "2026-09-04 14:09:13",
@@ -123069,125 +123173,6 @@
         "國際"
       ],
       "text": "【化學制品板塊午後持續走高】化學制品板塊午後持續走高，昊華科技、和遠氣體、福萊蒽特等數只個股漲停，美農生物、滄州大化、贊宇科技、卓越新能跟漲。訊息面上，據印尼棕櫚油協會，由於厄爾尼諾現象的嚴重影響，印尼明年的棕櫚油產量可能會減少多達300萬噸，這將進一步推高棕櫚油價格。"
-    },
-    {
-      "id": "te:economy:578927",
-      "time": "2026-08-28 14:13:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Unemployed Persons",
-        "Importance 1"
-      ],
-      "text": "Norway Jobseekers Steady in August — The number of people registered as out of work in Norway stood at a seasonally adjusted 62.2 thousand in August 2026, little changed from 62.1 thousand in July. This corresponded to 2.1% of the workforce, unchanged from the previous month. Unemployment was highest among child and youth workers and tourism and transport occupations, at 2.9% of the workforce, while academic professions and health, nursing and care recorded the lowest rates, at 0.9% and 1.0%, respectively. Regionally, Oslo and Østfold posted the highest unemployment rates at 2.8% and 2.7%, while Troms recorded the lowest at 1.3%. Meanwhile, labor demand remained relatively strong, with 30.6 thousand vacancies advertised in August, equivalent to around 1,900 openings per working day, although the total was 2% lower than a year earlier. On a non-seasonally adjusted basis, fully unemployed people totaled 62.8 thousand in August, down from 64.0 thousand in July."
-    },
-    {
-      "id": "5064031",
-      "time": "2026-08-28 14:13:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.6%，至9092.30點。"
-    },
-    {
-      "id": "5064030",
-      "time": "2026-08-28 14:13:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報5640.00元。"
-    },
-    {
-      "id": "mkt:01a046ff-3c4b-7aab-9164-555ff24a00be",
-      "time": "2026-08-28 14:12:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "【Tencent Hunyuan releases Hy4 preview】Tencent's Hunyuan released a Hy4 preview today. Model specs: 770B total parameters, 49B activated parameters, and a 1 million-token context window. Hy4 demonstrates strong performance on real-world productivity tasks including code generation, office workflows and scientific applications."
-    },
-    {
-      "id": "5064029",
-      "time": "2026-08-28 14:12:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【預告：中國貿促會召開8月例行新聞釋出會】據中國網訊息，中國貿促會定於8月31日（星期一）上午10:00在中國貿促會禮堂組織召開8月例行新聞釋出會。本期釋出會主要內容包含：貿促會促進上合組織工商界交流與合作、貫徹落實《智慧財產權保護和運用“十五五”規劃》措施、服務外資企業工作舉措、全球工商法治大會即將舉辦、推動共建“一帶一路”高質量發展工作情況等。"
-    },
-    {
-      "id": "5064028",
-      "time": "2026-08-28 14:11:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小鵬汽車成功註冊“小鵬 IRON”商標】企查查APP顯示，近日，廣東小鵬汽車科技集團有限公司成功註冊一枚“小鵬 IRON”商標，國際分類為9類 科學儀器，已申請商品/服務包括：科學研究用具有人工智慧的擬人機器人；科學研究用具有人工智慧的人形機器人；實驗室機器人等。"
-    },
-    {
-      "id": "mkt:01a046fe-d7bc-7aab-9164-48af1ec1539f",
-      "time": "2026-08-28 14:11:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【JP Morgan: Tokyo underlying inflation may be materially above official figures】JP Morgan economist Takuho Morimoto says underlying inflation in the Tokyo metropolitan area may be materially higher than official readings. After stripping policy subsidies such as discounts to utility bills and childcare fees, CPI excluding fresh food and energy could be around 2.5% versus the 2.0% released on Friday and above the Bank of Japan’s 2% target. \"We expect inflation to accelerate further before year‑end, which will increase pressure on the Bank of Japan and raise the risk that delayed policy response could prove costly,\" he said."
-    },
-    {
-      "id": "5064027",
-      "time": "2026-08-28 14:11:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招銀國際：上調MiniMax目標價至580港元，商業化勢頭強勁】招銀國際發表研報指，MiniMax中期收入同比增長283%，較市場預測高17%，主要受惠於模型API及Token Plan的強勁需求。在新模型M3及H3推出支援下，Token消耗及商業化步伐加快，今年7月Token消耗量較1月增長20倍；年度經常性收入(ARR)於今年8月突破8億美元，較2月及5月的1.5億及4億美元顯著提升。該行將MiniMax2026至2028年總收入預測上調81.3%、86.9%及53.4%，至5.17億、13.89億及26.82億美元；基於2026年預測市銷率50倍，目標價由570港元上調至580港元，維持“買入”評級。"
-    },
-    {
-      "id": "5064026",
-      "time": "2026-08-28 14:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊混元釋出Hy4 preview】騰訊混元訊息，今天釋出Hy4 preview，總引數770B，啟用引數49B，上下文長度1M，在程式碼、辦公、科學等真實生產力任務上展現出卓越能力。"
-    },
-    {
-      "id": "5064025",
-      "time": "2026-08-28 14:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【勝宏科技港股跌超10%】勝宏科技港股跌10.44%，報226.60港元。"
-    },
-    {
-      "id": "mkt:01a046fe-667a-7aab-9164-435cd0829c8f",
-      "time": "2026-08-28 14:11:12",
-      "tags": [
-        "MKT News",
-        "02476.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed Shenghong Technology (02476.HK) shares fell more than 10% to HK$226.60."
-    },
-    {
-      "id": "5064024",
-      "time": "2026-08-28 14:10:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1382.91美元/盎司。"
-    },
-    {
-      "id": "5064023",
-      "time": "2026-08-28 14:10:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：融資融券板塊淨流出超224億】截至目前，今日主力資金淨流出238.33億；淨流入信創概念、華為鴻蒙、AI應用（AIGC）等板塊，其中信創概念板塊淨流入25.68億；淨流出融資融券、轉融券標的、大盤等板塊，其中融資融券板塊淨流出224.92億。\n  \n個股方面，中際旭創淨買入8.52億元位居首位，星網銳捷、三六零、德科立主力資金淨流入居前；勝宏科技淨賣出19.43億元位居首位，兆易創新、瀾起科技、長飛光纖淨流出額居前。"
     }
   ]
 }
