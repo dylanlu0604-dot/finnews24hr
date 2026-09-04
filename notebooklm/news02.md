@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-05 04:58:37_
-_本檔包含 2836 則快訊，約 555718 字_
+_更新時間：2026-09-05 06:58:36_
+_本檔包含 2811 則快訊，約 555391 字_
+
+---
+
+### 2026-09-04 01:19:12  #國際
+
+【美軍近日襲擊致伊朗18死142傷】當地時間9月3日，伊朗衛生部發言人表示，當地時間8月30日晚8點30分至9月2日晚8點30分，美軍襲擊造成伊朗18人死亡、142人受傷。當地時間8月30日晚，美軍襲擊伊朗南部拉臘克島。當地時間9月1日晚，美軍又襲擊伊朗多地。（CCTV國際時訊）
+
+---
+
+### 2026-09-04 01:16:23  #央行 #國際
+
+週四（9月3日），美聯儲隔夜逆回購協議（RRP）使用規模為7.02億美元（交易對手4家），上個交易日報5.25億美元。
+
+---
+
+### 2026-09-04 01:09:46  #國際
+
+烏克蘭總統澤連斯基：我剛剛與負責同美國總統代表開展談判的團隊舉行會議。我們與他們保持全天候不間斷溝通，目前正在為即將到來的會晤做準備。我們已有初步會面日期。我們期待美國總統的代表能夠到訪基輔。我們已得到對方確認：將會在莫斯科以及基輔舉行會晤。我們希望未來數日就能實現會面。此事至關重要。美國保持積極參與十分關鍵。我們已做好準備，在烏克蘭境內同對方舉行實質性高階別會談。
+
+---
+
+### 2026-09-04 01:07:54  #其他
+
+中國地震臺網自動測定：09月04日01時04分在青海海西州直轄區附近（北緯37.86度，東經95.46度）發生5.1級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-09-04 01:05:14  #公司 #市場 #觀點 #國際
+
+【高盛：即便標普大漲，股市仍將"乒乓球式"震盪】高盛資產管理公司客戶組合管理聯席主管Katherine Bordlemay預測，美股將繼續震盪上行，儘管個股的劇烈波動掩蓋了主要指數表面的平靜。是盈利而非估值，成為緩衝美債收益率上升對股市衝擊的主要驅動力。對“股市中不受待見的板塊”持樂觀態度，特別點名美國醫療保健板塊和國際發達市場。
+
+---
+
+### 2026-09-04 01:04:09  #國際
+
+斯巴魯及其他日本航空零部件廠商開展合作，統籌分包商零部件交付工作，以實現降本等目標。
+
+---
+
+### 2026-09-04 01:03:31  #資料
+
+市場訊息：參與方將包括斯巴魯航空業務部門、川崎重工、NIPPI 以及新明和工業。
+
+---
+
+### 2026-09-04 01:02:49  #國際
+
+市場訊息：波音提高產能，斯巴魯及其他日本供應商將協作開展交付工作。
+
+---
+
+### 2026-09-04 01:02:05  #央行 #國際
+
+美聯儲：美國 9 月第二季度調整後商業票據未償餘額減少 59 億美元。美國 9 月第二週未經季節調整的外國金融類商業票據未償餘額減少 63 億美元。
+
+---
+
+### 2026-09-04 01:01:46  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Extend Gains — US stocks swung higher on Thursday as bond yields halted their surge and supported credit-sensitive sectors. The S&P 500 and the Dow rose over 1%, while the Nasdaq 100 gained 0.8% as chip producers underperformed. Fed Governor Waller signaled that a rate hike is not warranted should underlying inflation continue to slow, a reversal from the statements flagging inflationary risks from earlier remarks. Consequently, Treasury yields eased despite signs of a fresh intervention to halt the decline of the yen by Tokyo. Credit-sensitive software companies gained with Microsoft, Palantir, and Meta adding more than 3%, while risk-sensitive Tesla soared 7%. On the other hand, Broadcom fell 3% despite posting a 221% annual growth in revenue in its last fiscal quarter, another chip producer that failed to meet the higher end of estimate ranges. Meanwhile, Hewlett Packard Enterprises fell 4% after its results fell short of expectations.
+
+---
+
+### 2026-09-04 01:01:03  #其他
+
+OpenAI：導致 ChatGPT 與 Codex 出現大量報錯的故障已解決。
+
+---
+
+### 2026-09-04 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.67%，滬銅收漲0.53%，滬鋁收漲0.47%，滬鋅收漲0.28%，滬鉛收跌0.12%，滬鎳收跌0.47%，滬錫收漲0.76%。氧化鋁夜盤收漲1.39%，鋁合金收漲0.08%。不鏽鋼夜盤收跌0.04%。
+
+---
+
+### 2026-09-04 00:57:27  #宏觀 #市場 #國際
+
+【丁薛祥出席第十一屆東方經濟論壇全會並致辭】當地時間9月3日，中共中央政治局常委、國務院副總理丁薛祥在俄羅斯符拉迪沃斯託克出席第十一屆東方經濟論壇全會，並發表題為“深化中俄地區合作 增進兩國人民福祉”的致辭。（新華社）
+
+---
+
+### 2026-09-04 00:52:48  #其他
+
+LME期銅收漲118美元，報14334美元/噸。LME期鋁收漲28美元，報3312美元/噸。LME期鋅收髒47美元，報3912美元/噸。LME期鉛收漲9美元，報1904美元/噸。LME期鎳收跌127美元，報16786美元/噸。LME期錫收漲720美元，報54952美元/噸。LME期鈷收跌2165美元，報48500美元/噸。
+
+---
+
+### 2026-09-04 00:51:41  #國際
+
+【美國“林肯”號航母最新畫面公佈：艦體出現大面積鏽蝕】9月2日，美軍“亞伯拉罕·林肯”號航母停靠泰國林查班港，艦上約5000名水兵將在此進行休整。美國方面稱，從外觀來看，“林肯”號航母出現明顯大面積鏽蝕、水線以上區域以及停放戰機和直升機的飛行甲板邊緣鏽跡尤為明顯。當被問及航母的外觀狀態時，艦長丹·基勒爾回應說“這在長期部署中屬於正常現象、我們不會作出進一步評論 ”。“林肯”號航母去年11月離開美國聖迭戈母港，今年1月被突然調往中東，以支援美以對伊朗的軍事行動。美國方面稱，在9個多月的部署中，除在關島、阿曼作短暫補給停靠外，“林肯”號大部分時間在海上作戰值班。因缺少休整、生活條件糟糕，艦上約5000名水兵士氣低落，有人精神崩潰試圖跳海。（央視新聞）
+
+---
+
+### 2026-09-04 00:51:01  #其他
+
+【奈及利亞發生非法裝卸石油製品事件導致約40人死亡】奈及利亞河流州警方說，該州3日發生一起非法裝卸石油製品事件，約40人因吸入有毒氣體死亡。（新華社）
+
+---
+
+### 2026-09-04 00:49:56  #國際
+
+市場訊息：以色列佔領軍對大馬士革郊區發動襲擊。
+
+---
+
+### 2026-09-04 00:48:05  #公司
+
+谷歌：自 10 月 30 日起更新 YouTube 流量的個性化廣告政策，允許在當地法規許可的情況下投放酒類廣告。
+
+---
+
+### 2026-09-04 00:42:11  #國際
+
+市場訊息：慕尼黑附近已開始為基輔生產 5000 餘架無人機。媒體稱，該專案為一家德美企業與烏克蘭方面的合作專案。計劃生產航程最高可達 1500 公里的中遠端無人機。德國通訊社訊息顯示，首批無人機已經完成生產，全部批次計劃於 2027 年年中完工。
+
+---
+
+### 2026-09-04 00:41:51  #國際
+
+市場訊息：一位地區高階官員表示，阿曼已經悄然拒絕伊朗提出的霍爾木茲海峽收費方案。
+
+---
+
+### 2026-09-04 00:39:19  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
+
+European Stocks Rebound — European stocks closed a choppy session higher on Thursday, halting three sessions of losses as markets assessed the magnitude that higher sovereign yields will hamper economic activity. The Euro STOXX 50 rose 0.3% to 6,382 and the STOXX Europe 600 added 0.4% to 649. Yields halted their surge this week as markets trimmed their hedges against multiple rate cuts by the European Central Bank this year. Fresh data showed that underlying producer inflation gauges in the Eurozone were relatively tame in July, as energy prices alone triggered the surge in the headline gauge to 5.8% annually. Banks gained traction after weakness in the sector this week with Nordea, Deutsche Bank, and ING adding over 1.5%. Auto producers also closed higher with Volkswagen adding 4%, erasing losses from the previous session on news that it will leave the STOXX 50 index.
+
+---
+
+### 2026-09-04 00:38:09  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Futures Rebound — US gasoline futures traded near $3.12 a gallon, rebounding from recent losses, as Middle East tensions escalated following US strikes on Iran and renewed Israeli threats against Tehran, raising concerns over further energy supply disruptions. Meanwhile, the national average regular gasoline price in the US climbed to $4.14 on September 3rd, according to AAA, while EIA data showed US gasoline inventories fell 1.173 million barrels in the week ending August 28th, reflecting continued draw backs in recent weeks while US refiners are operating at 98%, its highest level since August 2018, with several facilities delaying maintenance to keep production elevated. Heavy driving over the Labor Day weekend is also providing support. Adding to the pressure, Ukrainian strikes on Russian refining infrastructure pushed refinery runs to multi-year lows. Meanwhile, President Trump pressed refiners to boost domestic production of gasoline during a meeting earlier in the week.
+
+---
+
+### 2026-09-04 00:37:51  #其他
+
+ANTHROPIC：影響多個模型的問題已解決。
+
+---
+
+### 2026-09-04 00:37:10  #國際
+
+基輔市長：俄羅斯襲擊基輔引發火災，一棟高層居民樓受損。
+
+---
+
+### 2026-09-04 00:35:24  #國際
+
+美國聯邦航空管理局將就美國航空一架從拉瓜迪亞機場起飛的航班遭鳥擊事件展開調查。
+
+---
+
+### 2026-09-04 00:23:57  #MKT News #Market Regions #Europe & UK
+
+Sources said a nine-story building in Kyiv's Holosiivskyi district was damaged in a Russian military strike.
+
+---
+
+### 2026-09-04 00:21:24  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+The Verge reports Apple (AAPL.O) may abandon plans for a rumored foldable MacBook project.
+
+---
+
+### 2026-09-04 00:18:56  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Snaps 3-Day Losing Run — The DAX 40 finished about 0.6% up at 26,008 on Thursday, halting a three-day losing streak, mainly supported by gains in autos, software and financials. Falling global bond yields supported market sentiment, while ongoing geopolitical uncertainty kept oil prices elevated. Among key movers, Volkswagen climbed 3.3% to the top of the index following media reports that the automaker could sell or reduce stakes in around 750 subsidiaries and investments. SAP shares rose 2.5%, benefiting from Snowflake’s stronger revenue outlook. Deutche Telekom added 1.1%, following reports that Elliott investment built up a larger stake in an attempt to prevent a multi-billion dollar merger with T-Mobile US. On the flip side, Rheinmetall (-2%), Fresenius Medical Care (-1.9%) and Qiagen NV (-1.8%) posted the biggest declines.
+
+---
+
+### 2026-09-04 00:16:44  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Sources said Israeli forces continue to detonate Lebanese civilian homes in Hula, southern Lebanon.
+
+---
+
+### 2026-09-04 00:14:28  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's prime minister Netanyahu said overthrowing Iran remains a core objective and is now within reach, not impossible but attainable.
+
+---
+
+### 2026-09-04 00:12:22  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Higher — The FTSE MIB rose 0.8% to 52,245 on Thursday, supported by upbeat corporate developments and strength across financials. Financials outperformed as poll for economists reflected projections that the ECB will not raise rates after their September decision. Further lifting the sector, analyst reviews pointed to a positive outlook for the Italian financial sector, with banks and asset managers exceeding Deutsche Bank’s net profit forecasts of 9% and 13%, respectively. Azimut led sector gains, rising 3%, supported by its M&A activity, while Banca Generali (1.3%) remained the top pick. Banco BPM (1.4%) kept its rating unchanged at "Buy", although uncertainty persists around MPS’s (1.6%) takeover bids for both banks. Meanwhile, Stellantis gained 4.3% following news that its Mangualde plant had produced a record two million vehicles. Technology stocks regained some momentum, with STMicroelectronics up 0.7% and Prysmian 1%
+
+---
+
+### 2026-09-04 00:12:06  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.88% Higher — The FTSE MIB Index went up by 453 points or 0.88 percent on Thursday to close at 52245 points. The rise was led by Lottomatica (5.24%), Stellantis N.V. (4.03%) and Azimut Holding (2.77%). On the downside, the weakerst performers were Brunello Cucinelli (-1.72%), Davide Campari-Milano (-1.69%) and Leonardo SpA (-1.52%).
+
+---
+
+### 2026-09-04 00:11:42  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Netanyahu said Iran's regime would not attack Israel without cause; it attacks others but not Israel.
+
+---
+
+### 2026-09-04 00:11:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister Netanyahu said he is convinced Israel has the capability to completely eliminate the threat, meaning overthrow the Iranian regime.
+
+---
+
+### 2026-09-04 00:11:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.63% Higher — The DAX Index rose 164 points or 0.63 percent on Thursday to close at 26003 points. Leading the gains are Volkswagen (3.38%), Porsche Automobil (2.68%) and Vonovia (2.46%). Top losers were Rheinmetall (-2.07%), Fresenius Medical Care (-1.93%) and Qiagen NV (-1.85%).
+
+---
+
+### 2026-09-04 00:10:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Saudi Arabia set its October official selling price for Arab Light to the United States at a $4.60/bbl premium to the ASCI benchmark.
 
 ---
 
@@ -16749,371 +16965,5 @@ Bank of Canada Governor Macklem said the Canadian economy is developing steadily
 ### 2026-09-02 22:49:44  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
 
 EIA: U.S. refinery crude inputs rose last week to the highest level since August 2019.
-
----
-
-### 2026-09-02 22:49:43  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【U.S. continues SPR releases; reserve could hit record low within a month】U.S. Strategic Petroleum Reserve fell 3.122 mln bbl last week to 286.6 mln bbl, the lowest level since November 1982 (270.455 mln bbl) and about 16.15 mln bbl above that record. At the four-week withdrawal pace of roughly 18.2 mln bbl, the SPR could reach a new low within a month if releases continue. Further depletion would likely heighten market sensitivity to ongoing Strait of Hormuz risks, including attacks on vessels and port shutdowns.
-
----
-
-### 2026-09-02 22:49:02  #焦點 #國際
-
-美國能源資訊署(EIA)資料顯示，美國煉廠上週原油淨投入量上升，創2019年8月以來最高。
-
----
-
-### 2026-09-02 22:48:33  #其他
-
-麥克勒姆：我們必須密切關注通脹，目前通脹水平過高。
-
----
-
-### 2026-09-02 22:48:05  #MKT News
-
-Bank of Canada Governor Macklem said firms tell the Bank they are adapting to trade uncertainty.
-
----
-
-### 2026-09-02 22:47:52  #MKT News
-
-Canada's 2-year bond yield rose to its highest level since May.
-
----
-
-### 2026-09-02 22:47:13  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-BOC Governor Macklem said the biggest near-term risk to inflation is how the Middle East situation develops, specifically how long oil prices remain elevated and how high they ultimately rise.
-
----
-
-### 2026-09-02 22:47:04  #市場
-
-加拿大2年期國債收益率升至5月以來最高。
-
----
-
-### 2026-09-02 22:46:45  #宏觀 #觀點 #央行 #國際
-
-【摩根大通：貝森特將日本央行逼入加息的進退兩難困境】在美國財政部長斯科特·貝森特發起公開施壓行動之後，日本央行行長植田和男在臨近本月政策決議之際，面臨著異常嚴峻的金融市場動盪風險。摩根大通證券首席日本經濟學家藤田綾子（Ayako Fujita）表示：“在美國如此明確表態之後，如果日本央行不採取行動，將會是個問題。但如果市場認為日本央行沒有美國的順風就無法加息，那就會對加息的有效性構成重大風險。”“當前長期利率的上升速度，其實並非日本央行的過錯。真正能同時遏制日元走弱和長期利率上升的，是政府發出可信的財政訊號。”
-
----
-
-### 2026-09-02 22:46:29  #國際
-
-麥克勒姆：通脹面臨的更大問題在於中東局勢，油價將維持高位多久以及會攀升至何種程度。
-
----
-
-### 2026-09-02 22:45:57  #其他
-
-麥克勒姆：能源價格高企加劇通脹風險。
-
----
-
-### 2026-09-02 22:45:50  #其他
-
-市場訊息：優步將停止在奈及利亞的運營。
-
----
-
-### 2026-09-02 22:45:30  #其他
-
-麥克勒姆：加拿大反制關稅對通脹的影響不大。
-
----
-
-### 2026-09-02 22:45:12  #國際
-
-美國能源資訊署（EIA）：美國東海岸餾分油庫存上週降至歷史低位。
-
----
-
-### 2026-09-02 22:45:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA: U.S. East Coast distillate inventories fell last week to their lowest on record.
-
----
-
-### 2026-09-02 22:44:46  #MKT News
-
-BOC Governor MACKLEM said inf data will guide policy decisions.
-
----
-
-### 2026-09-02 22:44:31  #MKT News #Commodities #Energy #DXY #Impact bullish #WTI #S&P500 #Impact bearish
-
-BOC Governor Macklem said elevated energy prices are intensifying spillover risks.
-
----
-
-### 2026-09-02 22:44:11  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Holds Near 3-Year Peak — Wheat traded near $7.65 per bushel, holding near the highest level since early February 2023 as Russia-Ukraine tensions continue to escalate. The market remains affected by growing sensitivity to war-risk premiums and speculative positionings following soaring prices due to persistent attacks from Ukraine and Russia, who account for more than a quarter of global exports, on commercial vessels that continue to threaten global supplies. Additionally, Russia has suspended the floating export duty on wheat through the end of 2026, as its wheat exports fell more than 50% in August compared to last year, and while able to use its Baltic port, limited capacity remains a long-term issue. Ukraine's wheat exports also fell substantially, by 34% year-to-date, while the UAC expects further disruptions on its ports. Turkey's president stated a mechanism was needed to permanently ensure the safety of maritime transit, while Russia's foreign minister stated he was no grounds for such a deal.
-
----
-
-### 2026-09-02 22:44:11  #MKT News #XAUUSD #Impact bullish #WTI
-
-Bank of Canada governor Macklem said there is no clear solution yet to the Middle East conflict.
-
----
-
-### 2026-09-02 22:44:08  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
-
-International Brotherhood of Teamsters said Amazon (AMZN.O) truck drivers' union launched a one-day unfair labor practice strike at the DJT6 Riverside facility.
-
----
-
-### 2026-09-02 22:44:06  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AT&T Stock Price Hits 17-week High — AT&T shares increased to 26.35 USD, the highest since May 2026. Over the past 4 weeks, AT&T gained 11.62%, and in the last 12 months, it decreased 9.33%.
-
----
-
-### 2026-09-02 22:43:16  #MKT News
-
-BOC Governor Macklem said risks are changing and the bank is prepared to adjust monetary policy as needed.
-
----
-
-### 2026-09-02 22:43:09  #其他
-
-麥克勒姆：風險正在變化，我們準備根據需要調整貨幣政策。
-
----
-
-### 2026-09-02 22:43:00  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish
-
-EU foreign policy chief says there is broad support for an EU entry visa ban targeting former Russian combatants and for tougher visa restrictions on Russian tourists.
-
----
-
-### 2026-09-02 22:42:24  #MKT News
-
-BOC Governor Macklem said inflation is mainly concentrated in gasoline and oil prices.
-
----
-
-### 2026-09-02 22:42:17  #其他
-
-麥克勒姆：通脹高度集中於汽油和石油價格。
-
----
-
-### 2026-09-02 22:42:10  #MKT News
-
-Bank of Canada Governor Macklem said inflation is too high.
-
----
-
-### 2026-09-02 22:41:58  #央行 #其他
-
-加拿大央行行長麥克勒姆：通貨膨脹率過高。
-
----
-
-### 2026-09-02 22:41:53  #其他
-
-【塞爾維亞將提前舉行議會選舉】據塞爾維亞廣播電視臺2日報道，塞爾維亞將於10月25日提前舉行議會選舉。報道說，預計塞爾維亞總統武契奇將在未來幾天內解散國民議會並宣佈舉行議會選舉。（新華社）
-
----
-
-### 2026-09-02 22:40:28  #國際
-
-歐盟外交政策負責人：各方廣泛支援對俄羅斯前作戰人員實施歐盟簽證入境禁令，並對俄羅斯遊客施加更嚴格的簽證限制。
-
----
-
-### 2026-09-02 22:39:59  #Trading Economics #Markets #Commodity #Importance 0
-
-Cocoa Futures Fall — Cocoa futures eased to below $6,300 per tonne, extending their retreat from recent one-year highs, amid the dollar strength, profit-taking and signs of improving supplies. Latest data showed Ivory Coast farmers shipped 2.14 MMT of cocoa to ports through August 30, 19% more than a year earlier. The country also plans to boost processing capacity to 1.3 MMT in 2026/27 from 650,000 MT. Meanwhile, ICE inventories climbed to a two-year high of 3,411,776 bags as of September 1. Still, concerns over West African cocoa supply persisted as heavy rainfall and high humidity increased disease risks and weakened pod development, threatening production from both the current and next crops. A strong El Niño could delay the rains and extend dry spells across major West African producers, with stronger Harmattan winds placing additional stress on crops.
-
----
-
-### 2026-09-02 22:39:57  #市場
-
-巴西雷亞爾在現貨交易中兌美元升值1%。
-
----
-
-### 2026-09-02 22:39:45  #國際
-
-歐盟外交政策負責人卡拉斯：擬為烏克蘭糧食倉儲提供支援。
-
----
-
-### 2026-09-02 22:39:39  #MKT News
-
-kallas said some EU defense ministers have proposed using frozen Russian assets.
-
----
-
-### 2026-09-02 22:39:32  #其他
-
-【5620只基金產品平均盈利投資者佔比為79.14%】2026年基金半年報收官，“盈利投資者數量佔比”指標首度亮相。一隻基金到底有多少投資者賺了錢，這個問題有了可參考的標尺。盈利投資者數量佔比，計算的是，指標計算期間“淨收益不小於零”的投資者佔這一期間持有過基金份額的投資者的比例。簡單來說，它表示的是這隻基金在這段時間裡，有多少比例的持有人，在扣除各類費用後真正賺到了錢。資料顯示，截至2026年8月31日，5620只已披露該指標的基金產品，平均盈利投資者佔比為79.14%。其中，盈利投資者數量佔比超過80%的有3867只；也有992只產品的盈利佔比在50%以下。（央視財經）
-
----
-
-### 2026-09-02 22:39:24  #MKT News #Market Regions #Europe & UK
-
-EU high representative for foreign affairs and security policy kallas said the EU will continue negotiating the use of frozen Russian assets.
-
----
-
-### 2026-09-02 22:38:55  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 1
-
-US Crude Oil Stocks Fall for 1st Time in 5 Weeks — Stocks of crude oil in the US declined by 4.45 million barrels in the last week of August 2026, the first fall in five weeks, following a 0.095 million barrels rise in the previous period and much higher than forecasts of a 1.1 million draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 0.08 million barrels in the week. Refinery crude runs went up by 0.103 million barrels per day. Gasoline stocks fell by 1.173 million barrels, less than forecasts for a 1.173 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, rose for the first time in five weeks by 0.796 million barrels, compared to expectations for a 1.3 million-barrel drop.
-
----
-
-### 2026-09-02 22:38:48  #國際
-
-歐盟外交政策負責人：外長們將繼續討論使用被凍結俄羅斯資產的問題。
-
----
-
-### 2026-09-02 22:37:59  #國際
-
-歐盟外交政策負責人：部分歐盟國防部長提出動用被凍結的俄羅斯資產。
-
----
-
-### 2026-09-02 22:37:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Italian oil major ENI plans to significantly increase oil production in Venezuela.
-
----
-
-### 2026-09-02 22:36:59  #公司
-
-義大利埃尼集團計劃大幅提高委內瑞拉石油產量。
-
----
-
-### 2026-09-02 22:36:30  #公司
-
-【瀚藍環境：披露併購重組稽核問詢函回覆】瀚藍環境公告稱，公司擬發行股份及支付現金購買南海高質量發展基金100%財產份額、支付現金購買粵豐環保7.22%股份，最終實現對粵豐環保100%控股，同時擬向不超過35名特定投資者發行股份募集配套資金不超過12億元。公司已就上交所出具的本次交易稽核問詢函逐項落實回覆並公開披露，本次交易尚需上交所稽核透過及證監會同意註冊後方可實施，存在不確定性。
-
----
-
-### 2026-09-02 22:36:15  #國際
-
-普京為俄羅斯烏多坎陰極銅工廠舉行投產啟動儀式。
-
----
-
-### 2026-09-02 22:35:50  #MKT News
-
-Mexico president sheinbaum said EBRARD traveled to the US to seek an agreement on tariffs for autos and steel.
-
----
-
-### 2026-09-02 22:35:42  #市場
-
-巴西基準股指BOVESPA <.BVSP>上漲約3%，突破185,000點。
-
----
-
-### 2026-09-02 22:35:24  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-RIA cited the Russian Defence Ministry as saying it struck a cargo ship at Chornomorsk port in Ukraine.
-
----
-
-### 2026-09-02 22:35:13  #國際
-
-美國國家颶風中心預測，洛厄爾颶風在未來幾天內將保持強颶風強度。
-
----
-
-### 2026-09-02 22:35:08  #國際
-
-市場訊息：與億萬富翁烏斯馬諾夫有關聯的俄羅斯遠東最大銅礦烏多坎的運營商，在火災造成延誤後，啟動了面向亞洲的銅陰極生產。
-
----
-
-### 2026-09-02 22:34:58  #MKT News #Market Themes #Chip Wars
-
-【Xuguang Electronics, NAURA Technology, Kema Technology sign three-way strategic cooperation】On Sept. 2 in Suzhou, listed companies Xuguang Electronics, NAURA Technology and Kema Technology signed a three‑party strategic cooperation agreement to build a semiconductor collaborative‑innovation ecosystem and accelerate domestic substitution of high‑end aluminum nitride (AlN) materials and semiconductor equipment. Xuguang plans to expand AlN powder capacity from 500 tons to 1,000 tons by 2027, targeting high‑end products serving semiconductor equipment and compute hardware.
-
----
-
-### 2026-09-02 22:34:43  #國際
-
-俄羅斯國防部：俄羅斯襲擊了烏克蘭切爾諾莫斯克港的一艘貨船。
-
----
-
-### 2026-09-02 22:34:37  #MKT News
-
-US Secretary of State Rubio urged international partners to immediately halt normal business relations with the Nicaraguan government.
-
----
-
-### 2026-09-02 22:34:10  #其他
-
-【平陸運河“三大樞紐”船閘執行方案獲得批覆】記者從廣西壯族自治區交通運輸廳瞭解到，9月1日，廣西壯族自治區交通運輸廳正式批覆平陸運河馬道、企石、青年“三大樞紐”船閘執行方案。該方案的批覆，築牢了平陸運河“三大樞紐”船閘依法合規運營、安全有序執行的制度根基，標誌著平陸運河即將進入全線通航新階段。平陸運河馬道、企石、青年“三大樞紐”是運河航運控制性核心工程，承擔水位銜接、船舶過閘通行等核心功能，是保障全線航運暢通的“咽喉樞紐”。（央視新聞）
-
----
-
-### 2026-09-02 22:34:00  #其他
-
-AST SPACEMOBILE股價延續漲勢，漲幅達13%，創6月以來最大單日漲幅。
-
----
-
-### 2026-09-02 22:32:26  #國際
-
-【內塔尼亞胡在加沙地帶稱以軍將守住“黃線”】以色列多家媒體2日報道說，以總理內塔尼亞胡當日前往加沙地帶並在現場表示，以軍將守住防線（“黃線”），直到解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武裝。內塔尼亞胡在加沙地帶說：“我們掌控著這片土地，並將繼續守住這條防線。我們正盡全力實現目標——解除哈馬斯武裝並實現加沙地帶非軍事化。加沙將不再對以色列構成威脅。”（新華社）
-
----
-
-### 2026-09-02 22:32:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA finished petroleum product imports for the week to Aug. 28 were -595,000 b/d, versus +275,000 b/d the prior week.
-
----
-
-### 2026-09-02 22:32:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA: crude oil volumes brought online 103,000 b/d in week to Aug 28; prior -2,000 b/d.
-
----
-
-### 2026-09-02 22:32:00  #MKT News #Economic Calendar
-
-United States | EIA Weekly Petroleum Products Imports Change (Aug.28) | actual -595000M | previous 275000M
-
----
-
-### 2026-09-02 22:31:47  #國際
-
-墨西哥總統：埃布拉德正在美國尋求達成有關汽車和鋼鐵關稅的協議。
-
----
-
-### 2026-09-02 22:31:36  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報3222.00元。
-
----
-
-### 2026-09-02 22:30:52  #國際
-
-魯比奧：美國敦促國際夥伴立即停止與尼加拉瓜政府的一切常規業務往來。
-
----
-
-### 2026-09-02 22:30:34  #國際
-
-美國至8月28日當週EIA原油庫存 -445萬桶，預期-108.5萬桶，前值9.5萬桶。美國至8月28日當週EIA俄克拉荷馬州庫欣原油庫存 8萬桶，前值117.6萬桶。
-
----
-
-### 2026-09-02 22:30:17  #Trading Economics #Markets #China #stocks #Importance 1
-
-Alibaba Stock Price Hits 5-week Low — Alibaba shares decreased to 112.09 USD, the lowest since July 2026. Over the past 4 weeks, Alibaba lost 11.87%, and in the last 12 months, it decreased 19.07%.
 
 ---
