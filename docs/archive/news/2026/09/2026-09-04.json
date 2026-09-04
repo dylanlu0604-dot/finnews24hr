@@ -1,7 +1,222 @@
 {
   "date": "2026-09-04",
-  "count": 1324,
+  "count": 1347,
   "items": [
+    {
+      "id": "5076980",
+      "time": "2026-09-04 14:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國交通部長塔巴羅：法國將測試完全自動駕駛，並與馬斯克進行了交談。"
+    },
+    {
+      "id": "5076979",
+      "time": "2026-09-04 14:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【券商：印度 FCNR 資金流入將支撐銀行股本回報率】券商阿南德・拉蒂表示，面向印度海外居民推出的專項存款計劃帶來的資金流入，將支撐銀行股本回報率並提振盈利水平。該券商在研報中指出：“該計劃已募集 1273 億美元，我們認為這一規模已足夠可觀，相關利好能夠切實轉化為企業盈利。”阿南德・拉蒂稱，對銀行淨息差的負面影響微乎其微，按照當前在銀行體系存款中的佔比計算，綜合利差僅會承壓 5 個基點。該券商認為，政策利率上行有望增厚利差，因為資產收益率的重定價速度會快於資金成本。"
+    },
+    {
+      "id": "mkt:01a06b25-183e-7118-8499-ab87327c9802",
+      "time": "2026-09-04 14:39:48",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "France's transport minister Tabarro said France will test fully autonomous driving and has spoken with Elon Musk."
+    },
+    {
+      "id": "mkt:01a06b24-f9a4-7118-8499-a6ed485f292e",
+      "time": "2026-09-04 14:39:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MIIT launches AI SME Entrepreneurship Support Plan (2026-2028) to expand inclusive compute supply】China's Ministry of Industry and Information Technology issued an AI SME Entrepreneurship Support Plan for 2026-2028, directing measures to expand low-cost, inclusive compute for startups. The plan mandates pooling and elastic allocation of compute resources via the China Compute Platform, on-demand construction of edge compute facilities, and tighter compute-network integration to boost support capacity. It also requires upgrading SME-focused portals on the China SME Service Network and the China Compute Platform to improve matching between compute resources and startup demand."
+    },
+    {
+      "id": "te:markets:581156",
+      "time": "2026-09-04 14:39:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Set for Second Weekly Gain — Iron ore futures climbed toward CNY 730 per ton and were on track for a second consecutive weekly gain, supported by elevated ocean freight costs and expectations of pre-holiday restocking in top buyer China. Poor weather in the Pacific, higher oil prices, and increased transshipment volumes from Guinea have pushed up freight costs, providing support to iron ore prices. Industry data also showed that iron ore inventories at major Chinese ports declined in the latest week, marking a fourth consecutive weekly drop and signaling potential for restocking. Elsewhere, Brazilian miner Usiminas temporarily suspended operations at its Samambaia iron ore plant in Itatiaiuçu from September 2, citing weaker ore prices and sharply higher freight costs. Meanwhile, iron ore prices may face a ceiling as margins at Chinese steel mills continue to shrink."
+    },
+    {
+      "id": "5076977",
+      "time": "2026-09-04 14:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興通訊在南寧成立智聯科技新公司】企查查APP顯示，近日，南寧興能智聯科技有限公司成立，經營範圍包含光伏裝置及元器件銷售；電池製造；電池銷售；儲能技術服務等。企查查股權穿透顯示，該公司由中興通訊全資持股。"
+    },
+    {
+      "id": "5076976",
+      "time": "2026-09-04 14:38:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：加快推動中外環周邊地區資源盤活、空間整合、功能塑造，強化科技創新和產業創新融合發展】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，系統提升地區空間資源利用效率，啟用主城區戰略發展新空間，加強創新策源、先進製造業、都市工業、國際貿易、國際旅遊度假等功能培育。統籌生態廊道、外環綠帶等高品質藍綠空間建設，全面提升中心城宜居品質。近期重點推進吳淞創新城、市北高新區、南大智慧城、桃浦智創城、虹橋臨空、漕河涇、金橋開發區、外高橋等地區。"
+    },
+    {
+      "id": "mkt:01a06b23-f3f8-7118-8499-98fa02d2ddfb",
+      "time": "2026-09-04 14:38:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than 1.0% intraday to $66.30/oz; New York silver futures were down 1.0% at $66.90/oz."
+    },
+    {
+      "id": "mkt:01a06b23-d8e8-7118-8499-9158c7abbcc0",
+      "time": "2026-09-04 14:38:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Middle East escalation raises supply concerns; European gas set for fourth straight weekly gain】Escalating Middle East hostilities and renewed US‑Iran military strikes have raised concern about the duration of possible supply disruptions ahead of the heating season, pushing European and Asian gas to three‑year highs. Dutch TTF futures were volatile on Friday but are still up more than 7% for the week, leaving Europe on track for a fourth consecutive weekly rise. Europe’s gas storage is roughly 66% full — the lowest on record for this time of year — while Germany’s storage is about 54%, increasing pressure to replenish inventories before winter."
+    },
+    {
+      "id": "mkt:01a06b23-bb59-7118-8499-8eb61ce0a5fa",
+      "time": "2026-09-04 14:38:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【France to announce €1 billion aid for farmers — BFM TV】BFM TV reports France will announce a €1 billion aid package for farmers to help them cope with damage from this summer's heatwave."
+    },
+    {
+      "id": "5076974",
+      "time": "2026-09-04 14:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：強化主城核心區全球標識作用和輻射帶動功能，提升全球吸引力】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，以外灘—陸家嘴—北外灘地區為核心，重點加強“一江一河”沿岸地區功能融合和品質提升，加快世博—前灘—徐匯濱江地區建設，打造世博地區浦西片區標誌性開放空間，推動貫通岸線向黃浦江濱江中北段拓展，推動復興島未來城市創新實驗。強化延安路—世紀大道功能軸，提升商貿、會展、演藝等功能。促進長寧“上海矽巷”以及環復旦、環同濟等各類科技創新集聚區功能躍升。"
+    },
+    {
+      "id": "mkt:01a06b23-5315-7118-8499-86086f951988",
+      "time": "2026-09-04 14:37:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China lithium carbonate front-month most-active contract fell more than 8% intraday, trading at 141,020 yuan/ton."
+    },
+    {
+      "id": "5076973",
+      "time": "2026-09-04 14:37:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌8%，現報141000.00元。"
+    },
+    {
+      "id": "5076972",
+      "time": "2026-09-04 14:37:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國將宣佈為農民提供10億歐元援助，幫助農民應對今夏熱浪帶來的影響。"
+    },
+    {
+      "id": "5076971",
+      "time": "2026-09-04 14:37:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報66.29美元/盎司。"
+    },
+    {
+      "id": "mkt:01a06b22-f72f-7118-8499-7838dcc421a1",
+      "time": "2026-09-04 14:37:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures touched $67/oz, down 0.89% on the day."
+    },
+    {
+      "id": "mkt:01a06b22-ca7b-7118-8499-70c91cbb95fd",
+      "time": "2026-09-04 14:37:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT issues AI SME Entrepreneurship Support Plan (2026-2028)】The Ministry of Industry and Information Technology has issued the Artificial Intelligence Small and Medium-sized Enterprise Entrepreneurship Support Plan for 2026–2028. The plan, framed as market-led and government-guided, with an innovation-driven and environment-optimizing approach, calls for coordinating development and security while promoting AI startup activity and AI-enabled high-quality growth among SMEs. It directs measures to strengthen factor supply, firm incubation, ecosystem enablement and service guarantees, and to lower entry thresholds and trial-and-error costs in the AI sector. The policy aims to steer entrepreneurial activity toward technology- and innovation-oriented SMEs, specialized/refined/distinctive/innovative SMEs and specialized “little giant” firms."
+    },
+    {
+      "id": "5076970",
+      "time": "2026-09-04 14:37:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報13488.377點；上證指數跌0.49%，現報3922.758點；創業板指跌1.00%，現報3279.367點。"
+    },
+    {
+      "id": "5076969",
+      "time": "2026-09-04 14:37:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4510美元/盎司，日內跌0.67%。"
+    },
+    {
+      "id": "5076968",
+      "time": "2026-09-04 14:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報67.03美元/盎司。"
+    },
+    {
+      "id": "5076967",
+      "time": "2026-09-04 14:36:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦舉行新聞釋出會 將於9月7日介紹第五屆全球數字貿易博覽會有關情況】國務院新聞辦公室將於2026年9月7日（星期一）下午3時舉行新聞釋出會，請商務部副部長鄢東、浙江省副省長鬍偉、杭州市市長杜旭亮介紹第五屆全球數字貿易博覽會有關情況，並答記者問。"
+    },
+    {
+      "id": "5076966",
+      "time": "2026-09-04 14:36:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌7%，現報142400.00元。"
+    },
+    {
+      "id": "5076965",
+      "time": "2026-09-04 14:36:12",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【工業和資訊化部辦公廳印發《人工智慧中小企業創業支援計劃（2026-2028年）》】工業和資訊化部辦公廳印發《人工智慧中小企業創業支援計劃（2026-2028年）》的通知，堅持市場主導、政府引導、創新驅動、環境最佳化，統籌發展與安全，促進人工智慧中小企業創業創新與人工智慧賦能中小企業高質量發展相結合，持續強化要素供給、主體培育、生態賦能、服務保障，切實降低人工智慧領域創業門檻與試錯成本，激發中小企業創業創新熱情，引導創業主體向科技和創新型中小企業、專精特新中小企業、專精特新“小巨人”企業梯次發展。"
+    },
     {
       "id": "5076964",
       "time": "2026-09-04 14:35:52",
