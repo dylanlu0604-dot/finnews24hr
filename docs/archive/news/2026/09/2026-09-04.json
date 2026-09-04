@@ -1,7 +1,27 @@
 {
   "date": "2026-09-04",
-  "count": 2451,
+  "count": 2453,
   "items": [
+    {
+      "id": "mkt:01a06d15-40f2-7118-84a9-ab76838313e8",
+      "time": "2026-09-04 23:41:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia TV cited Israeli media reporting the Israeli military will launch strikes on Lebanon within the next few hours."
+    },
+    {
+      "id": "5078068",
+      "time": "2026-09-04 23:40:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數大致持平，報402.61點。在十個板塊中，北歐電信板塊跌幅最大。生物公司Novonesis Novozymes B（諾維信）跌3.1%，在一眾北歐個股裡表現最差。"
+    },
     {
       "id": "mkt:01a06d12-c174-7118-84a9-a6e05fd5a1cb",
       "time": "2026-09-04 23:39:00",

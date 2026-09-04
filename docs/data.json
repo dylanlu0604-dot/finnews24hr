@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-04 23:40:04",
-  "count": 14102,
+  "updated": "2026-09-04 23:44:11",
+  "count": 14100,
   "items": [
+    {
+      "id": "mkt:01a06d15-40f2-7118-84a9-ab76838313e8",
+      "time": "2026-09-04 23:41:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia TV cited Israeli media reporting the Israeli military will launch strikes on Lebanon within the next few hours."
+    },
+    {
+      "id": "5078068",
+      "time": "2026-09-04 23:40:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數大致持平，報402.61點。在十個板塊中，北歐電信板塊跌幅最大。生物公司Novonesis Novozymes B（諾維信）跌3.1%，在一眾北歐個股裡表現最差。"
+    },
     {
       "id": "mkt:01a06d12-c174-7118-84a9-a6e05fd5a1cb",
       "time": "2026-09-04 23:39:00",
@@ -129085,41 +129105,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Rises as Euro Area Confidence Improves — The CAC 40 rose 1% to close at 8,401 on Friday following the release of domestic and euro area economic data. Euro area consumer confidence edged up to -15.5, its highest level since February, while industrial confidence rose to -5.3, its highest since April 2023. Service sector confidence also improved to 5.8, a seven-month high. Meanwhile, France’s GDP grew 0.7% year-on-year in the second quarter of 2026, in line with forecasts. Luxury stocks posted strong gains, with LVMH rising 2.7%, Hermes adding 2.7%, and Kering up 1.4%. Industrial stocks were also mostly higher, with Schneider Electric gaining 1.8% and Air Liquide up 2.1%. EssilorLuxottica rose 3.1% after announcing a share buyback program. Financials advanced despite preliminary data showing French annual inflation accelerating to a three-month high of 2.4% in August, with BNP Paribas up 1.8%, AXA adding 1.8%, and Societe Generale rising 2.1%. Fitch is due to release its assessment of France’s sovereign rating later in the day."
-    },
-    {
-      "id": "5065765",
-      "time": "2026-08-28 23:42:55",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國2年期國債收益率當日上漲10個基點至4.33%。"
-    },
-    {
-      "id": "5065764",
-      "time": "2026-08-28 23:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，以色列空襲黎巴嫩南部城鎮卡夫魯馬內。"
-    },
-    {
-      "id": "5065763",
-      "time": "2026-08-28 23:40:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【費城半導體指數跌超2%】費城半導體指數日內跌2.02%，現報11643.97點。英偉達跌1.96%，博通漲0.02%，美光跌0.10%，英特爾跌1.05%，AMD跌0.77%，高通跌0.55%，臺積電跌0.79%，阿斯麥跌0.53%。"
-    },
-    {
-      "id": "5065762",
-      "time": "2026-08-28 23:40:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國眾議院議長計劃於得州會見共和黨大金主馬斯克】據四名知情人士透露，眾議院議長邁克・約翰遜計劃週五在得克薩斯州會見共和黨大額捐贈人埃隆・馬斯克。正值中期選舉前夕，約翰遜正在得克薩斯州為共和黨候選人助選。此事進一步表明，共和黨領導層寄望馬斯克大手筆出資，助力共和黨保住國會控制權。這些瞭解會面籌備情況的人士因討論非公開資訊要求匿名，同時提醒，馬斯克行程存在變數，會面有可能臨時取消。據報道，這位科技億萬富豪正透過其超級政治行動委員會 “美國 PAC” 為本屆中期選舉的共和黨提供支援，但資金投放的完整範圍尚不明確。兩名知情人士表示，部分共和黨人認為馬斯克正考慮將部分資金投入眾議院共和黨關鍵搖擺選區的競選。"
     }
   ]
 }
