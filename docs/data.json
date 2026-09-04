@@ -1,7 +1,193 @@
 {
-  "updated": "2026-09-05 02:28:11",
-  "count": 14078,
+  "updated": "2026-09-05 02:32:09",
+  "count": 14088,
   "items": [
+    {
+      "id": "mkt:01a06db0-ade9-7118-84ac-6777742b380a",
+      "time": "2026-09-05 02:31:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $91.48 a barrel, up $0.18, or 0.20%."
+    },
+    {
+      "id": "5078267",
+      "time": "2026-09-05 02:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 10 月天然氣期貨結算價為每百萬英熱單位 2.9750 美元。"
+    },
+    {
+      "id": "mkt:01a06db0-7c5b-7118-84ac-5c5bdb939271",
+      "time": "2026-09-05 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close of the night session, Shanghai gold most-active contract fell 1.32% to 958 yuan/gram; Shanghai silver fell 1.46% to 16,080 yuan/kg; SC crude oil rose 1.11% to 691 yuan/barrel."
+    },
+    {
+      "id": "5078266",
+      "time": "2026-09-05 02:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 10 月 WTI 原油期貨結算價為每桶 91.48 美元。"
+    },
+    {
+      "id": "5078265",
+      "time": "2026-09-05 02:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 10 月汽油期貨結算價為每加侖 3.2146 美元。"
+    },
+    {
+      "id": "5078264",
+      "time": "2026-09-05 02:30:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 10 月柴油期貨結算價為每加侖 4.5402 美元。"
+    },
+    {
+      "id": "mkt:01a06daf-ce17-7118-84ac-5378b05fac5d",
+      "time": "2026-09-05 02:30:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.24% to 954.77 yuan/gram in the evening session on Sept. 4. Silver T+D fell 1.27% to 16,040 yuan/kg in the same session."
+    },
+    {
+      "id": "5078263",
+      "time": "2026-09-05 02:30:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所集團宣佈將於2026年第三季度釋出財報並召開業績電話會議。"
+    },
+    {
+      "id": "te:markets:581399",
+      "time": "2026-09-05 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 3.82% — Top crypto losers are XRP (-3.82%), Ether (-2.38%) and Bitcoin (-2.14%)."
+    },
+    {
+      "id": "5078262",
+      "time": "2026-09-05 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.11%，報690.70元人民幣/桶。滬金夜盤收跌1.32%，滬銀收跌1.46%。"
+    },
+    {
+      "id": "5078261",
+      "time": "2026-09-05 02:29:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【倫敦股市4日下跌】英國倫敦股市《金融時報》100種股票平均價格指數4日報收於10831.09點，較前一交易日下跌0.43點。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：資訊科技服務公司康普塔森特股價上漲4.10%，翠豐公司股價上漲3.29%，沃達豐集團股價上漲2.70%，極地資本科技信託公司股價上漲2.11%，M&G公司股價上漲1.77%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：市場徵信服務商益博睿股價下跌4.38%，可口可樂歐洲太平洋合作伙伴公司股價下跌2.30%，勵訊集團股價下跌2.06%，金融投資公司3i集團股價下跌1.95%，金融衍生品交易服務IG集團股價下跌1.91%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於8278.77點，較前一交易日下跌7.63點，跌幅為0.09%；德國法蘭克福股市DAX指數報收於26046.40點，較前一交易日上漲43.08點，漲幅為0.17%。（新華社）"
+    },
+    {
+      "id": "mkt:01a06dae-a66f-7118-84ac-4b9548596ca3",
+      "time": "2026-09-05 02:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude touched $95/bbl, up 0.42% intraday."
+    },
+    {
+      "id": "mkt:01a06dae-92be-7118-84ac-46bbbe8c1d11",
+      "time": "2026-09-05 02:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved a potential sale of F-16 sustainment services to Oman, estimated at $188 million."
+    },
+    {
+      "id": "5078260",
+      "time": "2026-09-05 02:29:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准向阿曼潛在出售F-16戰機維護保障服務，預估金額為1.88億美元。"
+    },
+    {
+      "id": "5078259",
+      "time": "2026-09-05 02:29:03",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗推遲美聯儲降息預期，目前預計 2027 年將降息三次】花旗集團經濟學家在週五公佈強於預期的 8 月就業資料後，調整了美聯儲政策預期。他們預計 2027 年會有三次 25 個基點的降息；此前其預測為 2026 年 10 月、12 月以及 2027 年 1 月各降息 25 個基點。該行首席美國經濟學家安德魯・霍倫霍斯特在一份研報中表示：“我們此前預期的失業率季節性上行並未重現，這意味著美聯儲沒有降息的迫切理由。”花旗是去年對美聯儲政策預測準確度最高的機構之一，預判到央行三次 25 個基點降息，而多家大型同業機構當時預計美聯儲將維持利率不變。霍倫霍斯特寫道：“我們原本預計今年資料會重演殘留的季節性規律，失業率在夏季幾個月走高，進而催生降息的緊迫性。”報告指出，花旗依舊 “基於通脹放緩” 預期明年實施降息；對比最新預測，“風險呈雙向平衡，倘若勞動力市場走弱，或是人工智慧市場情緒降溫、股市下行，降息有可能提前到來。”"
+    },
+    {
+      "id": "5078258",
+      "time": "2026-09-05 02:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：已告知特朗普，巴西不會接受任何選舉干預行為。"
+    },
+    {
+      "id": "te:economy:581398",
+      "time": "2026-09-05 02:28:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Brazil Trade Surplus Beats Forecasts — Brazil’s trade surplus widened 23.8% year-on-year to $7.39 billion in August 2026, above forecasts of $7.14 billion. Exports increased 12.2% to $33.16 billion, with agricultural exports rising 11.4%, extractive industry exports gaining 16.4%, and manufacturing exports increasing 10.2%. Export growth was mainly driven by higher sales of live animals, unroasted coffee, and soybeans in agriculture; copper ores and concentrates, nickel ores and concentrates, and crude petroleum in extractive industries; and poultry meat, soybean meal and other animal feed, and fuel oils in manufacturing. Imports rose 9.2% to $25.76 billion. Agricultural imports increased 7.4%, while manufacturing imports rose 13.4%. Imports by extractive industries fell 41.3%. Trade with the EU performed strongly, with exports rising 46.4%, while the trade surplus with China and Argentina narrowed and trade with the US resulted in a deficit."
+    },
+    {
+      "id": "5078257",
+      "time": "2026-09-05 02:27:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱，兩家屬於肉類行業 “壟斷集團” 的企業總部位於巴西。"
+    },
+    {
+      "id": "5078256",
+      "time": "2026-09-05 02:27:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准向沙烏地阿拉伯出售增程型聯合直接攻擊彈藥的潛在交易，預估金額為50億美元。"
+    },
     {
       "id": "5078255",
       "time": "2026-09-05 02:27:03",
@@ -128925,101 +129111,6 @@
         "國際"
       ],
       "text": "【美國一國家公園擬出讓小片土地給私人開發商】據公園保護人士透露，特朗普政府正考慮一項土地交易，擬將加利福尼亞州約塞米蒂國家公園的一小片土地交由內華達州一傢俬人開發商，該開發商希望修建一條道路，以此獲得進入公園的專屬通道。美國國家公園保護協會等機構表示，根據這份擬議交易，聯邦政府將拿出約塞米蒂公園內的部分土地，與房地產投資機構金斯巴恩房地產資本所持有的、緊鄰公園的地塊進行置換。約塞米蒂是全美遊客量排名第五的國家公園，以群山與瀑布聞名。"
-    },
-    {
-      "id": "te:economy:579242",
-      "time": "2026-08-29 02:31:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "El Salvador Trade Deficit Widens in July — El Salvador’s trade deficit widened to $1.19 billion in July 2026 from $1.10 billion a year earlier, as imports grew faster than exports. Imports rose 7.2% year-on-year to $1.83 billion, driven by a 14.5% increase in purchases from Central America, while imports from outside the region increased 6%. Exports rose 6% to $636 million, mainly supported by traditional exports, which surged 43.6%. Sugar shipments jumped 1,617.5%, more than offsetting a 1.7% decline in coffee sales. Exports to Central America increased 7.4%, while shipments to markets outside the region fell 0.6%."
-    },
-    {
-      "id": "mkt:01a049a3-fe1a-7aab-9178-c65143342103",
-      "time": "2026-08-29 02:31:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】As of 02:30 Beijing time, SHFE gold main contract fell 2.65% to 967 yuan/gram; SHFE silver main contract fell 3.62% to 16,210 yuan/kg; Shanghai crude (SC) main contract rose 3.66% to 614 yuan/barrel."
-    },
-    {
-      "id": "mkt:01a049a3-cd33-7aab-9178-beb315b2b5ac",
-      "time": "2026-08-29 02:31:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "On Aug 28 (Friday) evening session, Shanghai Gold Exchange gold T+D closed down 2.64% at 964.55 yuan/gram; silver T+D closed down 3.89% at 16,187.0 yuan/kg."
-    },
-    {
-      "id": "5065961",
-      "time": "2026-08-29 02:31:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "NYMEX 9月汽油期貨收報3.4899美元/加侖，NYMEX 9月取暖油期貨收報4.3567美元/加侖。"
-    },
-    {
-      "id": "mkt:01a049a3-b91a-7aab-9178-b1a1e575216f",
-      "time": "2026-08-29 02:31:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $83.40/bbl, down $0.13 or 0.16%."
-    },
-    {
-      "id": "te:markets:579241",
-      "time": "2026-08-29 02:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Weakens by 5.17% — Top crypto losers are XRP (-5.17%), Bitcoin (-3.35%) and Ether (-3.15%)."
-    },
-    {
-      "id": "5065960",
-      "time": "2026-08-29 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲3.66%，報614.00元人民幣/桶。滬金夜盤收跌2.65%，滬銀收跌3.62%。"
-    },
-    {
-      "id": "5065959",
-      "time": "2026-08-29 02:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府考慮將優勝美地國家公園部分割槽域私有化。"
-    },
-    {
-      "id": "5065958",
-      "time": "2026-08-29 02:28:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席凱文・沃什在傑克遜霍爾釋放鷹派訊號，市場加息預期升溫，全球市場風險偏好回落，巴西基準股指 Ibovespa 小幅下挫，跌幅 0.2%。"
     }
   ]
 }
