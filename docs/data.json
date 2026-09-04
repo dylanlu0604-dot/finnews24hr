@@ -1,7 +1,223 @@
 {
-  "updated": "2026-09-04 09:29:18",
-  "count": 13163,
+  "updated": "2026-09-04 09:33:18",
+  "count": 13185,
   "items": [
+    {
+      "id": "mkt:01a06a0c-0d41-7118-8493-9f234affa5af",
+      "time": "2026-09-04 09:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AUD/USD climbed above 0.7208, reaching its highest level since mid‑May."
+    },
+    {
+      "id": "mkt:01a06a0c-0115-7118-8493-95cb56a1442a",
+      "time": "2026-09-04 09:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NBS: late-August 2026 crossbred hog price 10.9 yuan/kg, down 0.9%】National Bureau of Statistics reported the late-August 2026 price for crossbred hogs (three-way hybrid) at 10.9 yuan/kg, down 0.9% from mid-August 2026. NBS monitoring of 50 key production inputs across nine categories showed 34 items rose, 14 fell and two were unchanged versus mid-August 2026."
+    },
+    {
+      "id": "5076553",
+      "time": "2026-09-04 09:32:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：8月下旬液化天然氣為5724.6元/噸，環比增長2.7%】據國家統計局，8月下旬流通領域重要生產資料市場價格中液化天然氣為5724.6元/噸，環比增長2.7%；液化石油氣為5963.8元/噸，環比增長2.7%；螺紋鋼為3130.3元/噸，環比增長2.2%；生豬（外三元）為10.9元/千克，環比下降0.9%；電解銅為108899.3元/噸，環比增長0.6%；複合肥為3620.6元/噸，環比下降0.2%。"
+    },
+    {
+      "id": "mkt:01a06a0b-c38f-7118-8493-89a4cc0d19d0",
+      "time": "2026-09-04 09:32:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index rose more than 1%, with software development, auto parts and semiconductor sectors active; constituent Sifang Jingchuang gained over 11%."
+    },
+    {
+      "id": "5076552",
+      "time": "2026-09-04 09:32:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4582.60點。"
+    },
+    {
+      "id": "5076551",
+      "time": "2026-09-04 09:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元升破0.7208，創5月中旬以來新高。"
+    },
+    {
+      "id": "5076550",
+      "time": "2026-09-04 09:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報13761.541點；上證指數漲0.63%，現報3967.085點；創業板指漲1.36%，現報3357.738點。"
+    },
+    {
+      "id": "5076549",
+      "time": "2026-09-04 09:31:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲超1%。"
+    },
+    {
+      "id": "mkt:01a06a0b-3d36-7118-8493-8276c8f9c8fb",
+      "time": "2026-09-04 09:31:56",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures rose more than 1%."
+    },
+    {
+      "id": "5076548",
+      "time": "2026-09-04 09:31:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.25%。強達轉債、振26轉債、鼎捷轉債、芳源轉債、頎中轉債漲幅居前，分別漲20.00%、3.92%、2.78%、2.78%、1.93%。萬凱轉債、臺21轉債、迪威轉債、錫振轉債、湘佳轉債跌幅居前，分別跌0.42%、0.23%、0.19%、0.19%、0.15%。"
+    },
+    {
+      "id": "5076547",
+      "time": "2026-09-04 09:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞運中國體育代表團成立】參加第20屆亞運會的中國體育代表團今天在北京成立。2026年愛知名古屋亞運會將於9月19日至10月4日進行。"
+    },
+    {
+      "id": "5076546",
+      "time": "2026-09-04 09:31:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.00%，成分股中，艾融軟體漲7.19%，奧迪威漲2.91%，國子軟體漲2.58%，雲星宇漲2.35%。"
+    },
+    {
+      "id": "5076545",
+      "time": "2026-09-04 09:31:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌5.5個基點至3.76%。"
+    },
+    {
+      "id": "mkt:01a06a0a-9ec5-7118-8493-781a93f4c90c",
+      "time": "2026-09-04 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures open higher】In morning trade, front-month CSI 300 index futures (IF) rose 0.69%; SSE 50 index futures (IH) rose 0.65%; CSI 500 index futures (IC) rose 0.86%; CSI 1000 index futures (IM) rose 0.80%."
+    },
+    {
+      "id": "mkt:01a06a0a-97ca-7118-8493-7078344b0784",
+      "time": "2026-09-04 09:31:14",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China bond futures open flat】2-year (TS), 5-year (TF), 10-year (T) and 30-year (TL) most-active China bond futures contracts opened flat."
+    },
+    {
+      "id": "5076544",
+      "time": "2026-09-04 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7784.40點。"
+    },
+    {
+      "id": "5076543",
+      "time": "2026-09-04 09:30:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4558.780點；恒生指數現漲1.496%。"
+    },
+    {
+      "id": "5076542",
+      "time": "2026-09-04 09:30:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國牽頭的智慧城市人工智慧應用國際標準成功立項】我國牽頭提出的《城市和社群可持續發展 智慧城市運營模型中的人工智慧應用 第2部分：原則與要素》國際標準提案，近日在國際標準化組織（ISO）成功立項。人工智慧正與城市治理深度融合，成為提升城市治理效能的關鍵技術。該標準旨在為智慧城市運營中的人工智慧應用構建系統性治理框架，明確治理體系、實施路徑、協同機制、成效評估等核心要素，著力破解城市“有技術、無規則”困境。在戰略管理層面，標準擬提出風險監督與績效監測指引；在公共服務層面，標準擬提出個性化與普惠服務融合實施指引；在資源管理層面，標準擬提出資料治理與資源協同佈局指引，全方位推動構建包容、透明、負責任的城市AI治理體系。該標準將由中國、美國、英國、法國、阿聯酋、新加坡、馬來西亞、巴西、伊朗等16國專家聯合開展研製。"
+    },
+    {
+      "id": "5076541",
+      "time": "2026-09-04 09:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.04%，現報3347.030點；上證指數漲0.39%，現報3957.646點；深證成指漲0.78%，現報13730.867點。"
+    },
+    {
+      "id": "5076540",
+      "time": "2026-09-04 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.12%，成分股中，翱捷科技漲2.06%，盛科通訊漲2.00%，國博電子漲1.90%，瀾起科技漲1.85%。"
+    },
+    {
+      "id": "5076539",
+      "time": "2026-09-04 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.05%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5076538",
+      "time": "2026-09-04 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.61%， 滬深300指數期貨連續漲0.59%， 中證500指數期貨連續漲0.56%， 上證50指數期貨連續漲0.48%。"
+    },
+    {
+      "id": "mkt:01a06a08-ceaf-7118-8493-697fef67e1c1",
+      "time": "2026-09-04 09:29:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Alibaba",
+        "Tencent",
+        "Meituan",
+        "Xiaomi",
+        "09888.HK",
+        "Impact bullish",
+        "00700.HK",
+        "09988.HK"
+      ],
+      "text": "Hong Kong internet and tech shares rebounded; JD.com (09618.HK), Baidu (09888.HK) and Tencent Holdings (00700.HK) rose more than 2%, while Alibaba (09988.HK), Meituan (03690.HK), Kuaishou (01024.HK) and Xiaomi Group (01810.HK) also gained. UBS China internet research head Fang Jincong said over the next two to three years, as AI compute supply bottlenecks ease, pricing power is likely to shift from upstream chip and infrastructure suppliers to internet platforms."
+    },
     {
       "id": "mkt:01a06a08-010b-7118-8493-66bcfb5877ec",
       "time": "2026-09-04 09:28:24",
@@ -120897,18 +121113,6 @@
         "Importance 2"
       ],
       "text": "Dollar Holds Steady Ahead of Warsh Speech — The dollar index was little changed around 99.1 on Friday as investors awaited Federal Reserve Chair Kevin Warsh’s speech at the annual Jackson Hole symposium later in the global day for clues about the outlook for US interest rates. Still, the greenback was on track to end the week slightly higher as a hotter-than-expected US inflation this week reading supported expectations for a Fed rate increase before year-end, with the probability of a hike by December remaining above 70%. For the upcoming September meeting, markets are currently pricing in around a 65% chance that the Fed will keep rates unchanged. Meanwhile, Kansas City Fed President Jeff Schmid said monetary policy is not restraining the economy. Elsewhere, investors continued to assess the implications of the US Treasury’s expanded debt buyback program, which heightened concerns about the risks of a US debt crisis and potential dollar weakness."
-    },
-    {
-      "id": "te:markets:578837",
-      "time": "2026-08-28 09:31:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Equities Set for Modest Weekly Rise — Australian shares rose 32 points, or 0.4%, to 9,070 in early Friday trade, snapping two sessions of losses and tracking Wall Street’s overnight rebound ahead of Fed Chair Kevin Warsh’s debut Jackson Hole speech later today. Investors are keen for signals on the rate path, though Warsh has deliberately avoided offering guidance, stressing the Fed’s commitment to price stability. Locally, household spending climbed more than expected in July, marking a third monthly rise. However, gains were limited by caution ahead of next week's July PMI releases in Australia and top trading partner China, alongside domestic Q2 GDP and July trade data. Tech, commercial services, and healthcare led advances, offset by weakness in industries and retail trade. The four big banks added between 0.4% and 1.0%, while standout movers included Xero Ltd. (8.1%), Pro Medicus (3.8%), and REA Group (2.6%). For the week, the market is on track for a modest 0.2% gain so far, reversing falls in the prior two periods."
     }
   ]
 }
