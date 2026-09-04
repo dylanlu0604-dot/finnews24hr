@@ -1,7 +1,85 @@
 {
   "date": "2026-09-04",
-  "count": 594,
+  "count": 602,
   "items": [
+    {
+      "id": "5076457",
+      "time": "2026-09-04 08:18:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5.5個基點，至2.910%。"
+    },
+    {
+      "id": "5076456",
+      "time": "2026-09-04 08:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：9月3日在東太平洋攔截船隻。"
+    },
+    {
+      "id": "mkt:01a069c7-aa39-7118-8492-4b52afded7ca",
+      "time": "2026-09-04 08:18:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield fell 5.5 bps to 2.910%."
+    },
+    {
+      "id": "5076454",
+      "time": "2026-09-04 08:17:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：從Seedance到紅果，多模態商業閉環加速】中信證券研報表示，影片模型競爭正由效果比拼轉向生產可用與商業兌現，AI劇成為率先形成規模消耗的應用場景。Seedance 2.5透過長時長生成、多模態參考和一致性編輯提高內容交付效率，番茄小說、創作者中心和製作機構承接IP開發與規模生產；紅果則依託免費內容、演算法分發及廣告電商變現建立商業回收出口，並透過稽核、分賬與投資政策推動內容供給精品化，位元組由此形成模型、內容、流量與變現相互協同的產業閉環。隨著內容供給快速擴張和投流資源趨於稀缺，AI劇的核心矛盾已由生產能力不足轉向有效供給不足，產業鏈價值有望進一步向具備高商業化效率、優質IP與精品製作能力、高質量語料資源，以及與紅果深度合作的公司集中。"
+    },
+    {
+      "id": "5076453",
+      "time": "2026-09-04 08:17:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上半年半導體板塊盈利大幅增長 相關個股備受外資青睞】今年上半年，A股半導體板塊盈利實現大幅增長。統計顯示，A股半導體板塊共有186股，2026年上半年合計實現歸母淨利潤1605.06億元，同比增長607.2%，個股中91股歸母淨利潤實現同比增長，28股扭虧為盈。江波龍、普冉股份、富瀚微、拓荊科技、中科儀、源傑科技、兆易創新7股上半年歸母淨利潤增長超1000%。半導體板塊個股備受外資青睞，截至6月30日，54股前十大流通股東名單出現QFII的身影，接近總數的三成，以6月30日收盤價計算，合計持股市值達到175.96億元，東芯股份、長川科技、偉測科技居前，分別達到26.89億元、12.85億元、11.33億元。"
+    },
+    {
+      "id": "mkt:01a069c5-a171-7118-8492-45e4157f52bc",
+      "time": "2026-09-04 08:15:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CITIC Securities: Coal-price midpoint likely to move higher; expects choppy uptrend this year】CITIC Securities research note: 1H2026 combined net profit of sample coal companies rose about 34% YoY, with Q2 up roughly 41% QoQ, indicating significant earnings improvement. Interim dividend activity accelerated; sector cash dividends increased about 28% YoY. The note says tighter safety supervision after a mine accident has cut supply, supporting a higher coal-price midpoint and a likely choppy upward trend in prices over the year."
+    },
+    {
+      "id": "mkt:01a069c5-462d-7118-8492-3f60f55a3913",
+      "time": "2026-09-04 08:15:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares rose 5.8%."
+    },
+    {
+      "id": "te:markets:581072",
+      "time": "2026-09-04 08:14:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gain on Waller Remarks — Silver traded near $67 an ounce on Friday after rising for two consecutive sessions, as dovish comments from Federal Reserve Governor Christopher Waller led markets to scale back expectations for a September rate hike. Waller said he would favor keeping rates unchanged if price pressures continue to ease. Traders now see roughly a 50% probability of a September rate hike, down from about 63% a day earlier. Investors are also awaiting Friday’s payrolls report and next week’s inflation data for additional clues on the Fed’s policy outlook. The US dollar and Treasury yields fell sharply following Waller’s remarks, supporting precious metals. Meanwhile, oil prices were on track for a strong weekly gain amid ongoing hostilities in the Middle East and heightened uncertainty over shipping through the Strait of Hormuz, keeping inflationary risks in focus."
+    },
     {
       "id": "5076452",
       "time": "2026-09-04 08:13:57",
