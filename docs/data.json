@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-05 04:54:33",
-  "count": 14103,
+  "updated": "2026-09-05 04:58:37",
+  "count": 14101,
   "items": [
+    {
+      "id": "5078359",
+      "time": "2026-09-05 04:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【發展中國家外匯指數連漲10周】明晟公司MSCI新興市場股票指數漲1.3%，外匯指數漲0.3%。"
+    },
     {
       "id": "te:markets:581410",
       "time": "2026-09-05 04:44:33",
@@ -129178,32 +129186,6 @@
         "DXY"
       ],
       "text": "【Hezbollah leader urges Lebanon to cancel Lebanon–Israel–U.S. framework agreement】Hezbollah deputy leader Naim Qassem on the 28th urged the Lebanese government to annul the Lebanon–Israel–U.S. trilateral framework agreement, saying it undermines Lebanese sovereignty and fails to protect Lebanese interests. Speaking at an event south of Beirut, Qassem called the pact illegal, unjust and humiliating, accused the U.S. and Israel of trying to control and divide the Middle East, and said populations in Palestine, Lebanon, Iran, Yemen and Iraq had resisted those plans."
-    },
-    {
-      "id": "5066035",
-      "time": "2026-08-29 04:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拉美四國簽署聯合宣告推動關鍵礦產合作】智利、阿根廷、玻利維亞和秘魯四國礦業主管部門官員，28日在智利首都聖地亞哥召開部長級會議並簽署聯合宣告，呼籲加強區域合作，推動關鍵礦產可持續開發、技術交流與投資，共同提升該地區在全球關鍵礦產供應鏈中的地位。（新華社）"
-    },
-    {
-      "id": "5066034",
-      "time": "2026-08-29 04:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：9・11 紀念日將前往五角大樓，而非紐約市。"
-    },
-    {
-      "id": "5066033",
-      "time": "2026-08-29 04:56:05",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【現貨黃金跌約3.1%，沃什講話偏鷹派】週五（8月28日）紐約尾盤，現貨黃金跌3.08%，報4457.57美元/盎司，美聯儲主席沃什在傑克遜霍爾全球央行年會的講稿披露時、北京時間22:00微漲至4631.61美元重新整理日高，隨後打破日內長時間的高位窄幅震盪狀態並快速下跌，本週累計下跌3.22%，週一至沃什講話這段時間持續窄幅震、形成期內頂部。現貨白銀跌4.17%，報66.3390美元/盎司，本週累跌3.89%。COMEX銅期貨跌0.84%，報6.6330美元/磅，本週累跌0.73%。"
     }
   ]
 }
