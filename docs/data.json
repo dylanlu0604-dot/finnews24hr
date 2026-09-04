@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05 04:46:54",
-  "count": 14113,
+  "updated": "2026-09-05 04:50:44",
+  "count": 14107,
   "items": [
     {
       "id": "te:markets:581410",
@@ -129247,64 +129247,6 @@
         "BA.N"
       ],
       "text": "SEC filing shows Boeing (BA.N) amended its 2023 five-year credit agreement to total commitments of $3.0 bln, maturing Aug. 24, 2029; amended 2024 five-year credit agreement totals $4.0 bln, maturing May 15, 2030."
-    },
-    {
-      "id": "mkt:01a04a23-722b-7aab-917a-b80e55bf8a54",
-      "time": "2026-08-29 04:50:31",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "A US SEC filing shows Boeing (BA.N) has a new 364-day revolving credit facility maturing on Aug. 23, 2027; the facility allows borrowings to be converted into term loans and requires Boeing to maintain at least $5.0 billion of liquidity."
-    },
-    {
-      "id": "mkt:01a04a22-f5b1-7aab-917a-b1d07c44cff6",
-      "time": "2026-08-29 04:50:00",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "According to a U.S. SEC filing, Boeing (BA.N) on Aug. 24 signed a new $3.0 billion, 364‑day revolving credit agreement to replace a $3.0 billion, 364‑day facility that matured the same day."
-    },
-    {
-      "id": "5066031",
-      "time": "2026-08-29 04:49:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：雪佛龍即將完成談判，擬將委內瑞拉合資專案納入該國新石油制度框架。雪佛龍還在委內瑞拉就可用於擴建現有專案的區塊開展談判。"
-    },
-    {
-      "id": "te:markets:579257",
-      "time": "2026-08-29 04:49:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Extends Winning Streak — The Ibovespa added 0.3% to close at 175,665 on Friday, erasing earlier losses and extending its winning streak to eight consecutive sessions. Brazil created 58,568 formal jobs in July, well below forecasts of 112,000 and down sharply from 145,161 in June. Meanwhile, the PPI rose 1.94% year-on-year in July, slowing from 2.47% in June, while the IGP-M fell. Softer labor and inflation data could allow the BCB to continue its 25-basis-point easing cycle, supporting credit-sensitive stocks. Financials gained, with Bradesco and Itaúsa adding 0.9% and Banco do Brasil rising 1%. B3 gained 2% after JPMorgan said emerging-market equity funds recorded higher inflows, with Brazil recovering after four weeks of heavy outflows. Utilities also advanced, with Axia rising 0.9%. Petrobras climbed 2% after Bradesco BBI upgraded the stock to Outperform from Neutral. In contrast, Vale shed 0.7% after a trial concerning the taxation of profits earned by the miner’s foreign subsidiaries was suspended."
-    },
-    {
-      "id": "5066030",
-      "time": "2026-08-29 04:47:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：經修訂的 2024 年五年期信貸協議總承諾額度為 40 億美元，現定於 2030 年 5 月 15 日到期。"
-    },
-    {
-      "id": "mkt:01a04a20-5129-7aab-917a-ac99e7e044a8",
-      "time": "2026-08-29 04:47:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign minister Araghchi said the US and Israel are unable to counter Iran's missiles."
     }
   ]
 }
