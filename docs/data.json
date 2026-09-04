@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-04 22:42:35",
-  "count": 14044,
+  "updated": "2026-09-04 22:46:40",
+  "count": 14054,
   "items": [
+    {
+      "id": "5078016",
+      "time": "2026-09-04 22:45:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "駭客公佈了在柏林政府網路攻擊中竊取的資料。"
+    },
+    {
+      "id": "te:markets:581357",
+      "time": "2026-09-04 22:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuitive Surgical Stock Price Hits 4-week Low — Intuitive Surgical shares decreased to 365.21 USD, the lowest since August 2026. Over the past 4 weeks, Intuitive Surgical lost 2.59%, and in the last 12 months, it decreased 21.71%."
+    },
+    {
+      "id": "5078015",
+      "time": "2026-09-04 22:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，卡琳娜在進入中太平洋時仍為颶風級別。"
+    },
+    {
+      "id": "5078014",
+      "time": "2026-09-04 22:44:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破79000美元，日內跌2.88%。"
+    },
+    {
+      "id": "5078012",
+      "time": "2026-09-04 22:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Starlink現已成為愛爾蘭最大的衛星網際網路提供商。"
+    },
+    {
+      "id": "mkt:01a06cdf-78c2-7118-84a8-a7c24df19e2e",
+      "time": "2026-09-04 22:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【US sanctions small Turkish investment bank over ties with Iran】The US Treasury sanctioned Istanbul-based investment bank Golden Global over links to Iran, Treasury Secretary Bessent said, describing the move as part of efforts to further isolate Iran’s economy by targeting its trading partners. Golden Global, founded in 2019, has roughly $34 mln in capital. The action follows last week’s US sanctions on the UAE branch of Egypt’s second-largest bank; Bessent said another round of bank actions is forthcoming."
+    },
+    {
+      "id": "5078011",
+      "time": "2026-09-04 22:42:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLUE OWL股價轉漲。"
+    },
+    {
+      "id": "5078010",
+      "time": "2026-09-04 22:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟委員會主任哈塞特：“這是我見過的超預期程度最高的資料之一，深究背後原因就會發現，相關政策正在發揮成效。”"
+    },
+    {
+      "id": "5078009",
+      "time": "2026-09-04 22:42:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "法航‑荷航集團表示，談判仍在進行，其對葡萄牙航空（TAP）的持股意向保持不變。"
+    },
+    {
+      "id": "mkt:01a06cde-9055-7118-84a8-99ac490b4efc",
+      "time": "2026-09-04 22:42:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Slovakia is negotiating with Algeria on natural gas supplies."
+    },
+    {
+      "id": "5078008",
+      "time": "2026-09-04 22:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克部長：斯洛伐克正與阿爾及利亞洽談天然氣供應事宜。"
+    },
     {
       "id": "5078006",
       "time": "2026-09-04 22:40:17",
@@ -128600,18 +128697,6 @@
         "Importance 1"
       ],
       "text": "DAX Advances Further to Fresh Record — The DAX 40 extended early gains, rising 0.8% to close at a fresh record high of 26,570 on Friday, buoyed by autos stocks, while traders assessed Fed Chair Warsh's speech at the Jackson Hole Economic Symposium. Kevin Warsh struck a hawkish tone, noting that inflation remains elevated and has yet to make enough progress toward the 2% target. His remarks left the door open to tighter policy if inflation does not show clearer signs of easing. Meanwhile, lower oil prices and tech optimism continued to support market sentiment, with traders also monitoring developments in the Middle East. Auto stocks continued their strong upward trend ahead of the weekend. BMW shares led the index, gaining over 4% and benefiting from a more positive outlook from Citigroup. VW and Mercedes Benz Group climbed over 2% each. Utilities, chemical companies, banks, insurers and software firms also posted gains, while chipmaker Infineon Technologies lost ground (-0.6%). The index recorded a weekly rise of 1.7%."
-    },
-    {
-      "id": "te:markets:579159",
-      "time": "2026-08-28 22:45:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Slips as Hawkish Fed Tone Supports Dollar — The euro weakened to around $1.16, touching its lowest level since August 19, as investors turned to the US dollar following hawkish remarks from Federal Reserve Chair Kevin Warsh, despite European data pointing to renewed inflationary pressures. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.” Meanwhile, inflation data from France and Spain strengthened expectations for further ECB tightening. EU-harmonized inflation rose to 2.7% in France and 4.5% in Spain, the latter its highest since 2023. Markets now see the ECB deposit rate rising to 2.80% by March next year from 2.25% currently, with roughly a 60% chance of a hike to 3%. Recent ECB minutes and Reuters reports also pointed to a possible September hike, although policymakers remain reluctant to signal further tightening."
     }
   ]
 }

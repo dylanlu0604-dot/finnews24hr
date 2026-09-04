@@ -1,7 +1,104 @@
 {
   "date": "2026-09-04",
-  "count": 2353,
+  "count": 2364,
   "items": [
+    {
+      "id": "5078016",
+      "time": "2026-09-04 22:45:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "駭客公佈了在柏林政府網路攻擊中竊取的資料。"
+    },
+    {
+      "id": "te:markets:581357",
+      "time": "2026-09-04 22:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuitive Surgical Stock Price Hits 4-week Low — Intuitive Surgical shares decreased to 365.21 USD, the lowest since August 2026. Over the past 4 weeks, Intuitive Surgical lost 2.59%, and in the last 12 months, it decreased 21.71%."
+    },
+    {
+      "id": "5078015",
+      "time": "2026-09-04 22:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，卡琳娜在進入中太平洋時仍為颶風級別。"
+    },
+    {
+      "id": "5078014",
+      "time": "2026-09-04 22:44:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破79000美元，日內跌2.88%。"
+    },
+    {
+      "id": "5078012",
+      "time": "2026-09-04 22:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Starlink現已成為愛爾蘭最大的衛星網際網路提供商。"
+    },
+    {
+      "id": "mkt:01a06cdf-78c2-7118-84a8-a7c24df19e2e",
+      "time": "2026-09-04 22:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【US sanctions small Turkish investment bank over ties with Iran】The US Treasury sanctioned Istanbul-based investment bank Golden Global over links to Iran, Treasury Secretary Bessent said, describing the move as part of efforts to further isolate Iran’s economy by targeting its trading partners. Golden Global, founded in 2019, has roughly $34 mln in capital. The action follows last week’s US sanctions on the UAE branch of Egypt’s second-largest bank; Bessent said another round of bank actions is forthcoming."
+    },
+    {
+      "id": "5078011",
+      "time": "2026-09-04 22:42:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLUE OWL股價轉漲。"
+    },
+    {
+      "id": "5078010",
+      "time": "2026-09-04 22:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟委員會主任哈塞特：“這是我見過的超預期程度最高的資料之一，深究背後原因就會發現，相關政策正在發揮成效。”"
+    },
+    {
+      "id": "5078009",
+      "time": "2026-09-04 22:42:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "法航‑荷航集團表示，談判仍在進行，其對葡萄牙航空（TAP）的持股意向保持不變。"
+    },
+    {
+      "id": "mkt:01a06cde-9055-7118-84a8-99ac490b4efc",
+      "time": "2026-09-04 22:42:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Slovakia is negotiating with Algeria on natural gas supplies."
+    },
+    {
+      "id": "5078008",
+      "time": "2026-09-04 22:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克部長：斯洛伐克正與阿爾及利亞洽談天然氣供應事宜。"
+    },
     {
       "id": "5078006",
       "time": "2026-09-04 22:40:17",
