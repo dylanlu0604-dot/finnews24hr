@@ -1,7 +1,88 @@
 {
   "date": "2026-09-04",
-  "count": 1986,
+  "count": 1994,
   "items": [
+    {
+      "id": "mkt:01a06c3a-6f88-7118-84a1-b493fbd8c70a",
+      "time": "2026-09-04 19:42:43",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【SEMI: Global semiconductor equipment shipments value up 23% YoY to $40.53 bln in Q2 2026】SEMI said in its Global Semiconductor Equipment Market Report that Q2 2026 global semiconductor equipment shipments value rose 23% YoY to $40.53 bln and 11% QoQ, marking a second consecutive record quarter. SEMI president and CEO Ajit Manocha said the results reflect sustained investment in advanced manufacturing capacity to meet rising chip demand, especially for AI infrastructure, with growth across Asia, North America and Europe underscoring the demand’s global reach."
+    },
+    {
+      "id": "5077681",
+      "time": "2026-09-04 19:41:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍版傳媒：AI影片業務對業績無顯著影響】龍版傳媒公告稱，2026年8月31日至9月4日，公司股票連續5個交易日漲停，累計漲幅61.14%，動態市盈率、換手率均高於新聞出版行業指數相關指標，屬於股票交易異常波動，可能存在非理性炒作情形。經核查，公司AI影片業務6月營收約80元、7月營收約7.5萬元，佔2025年營業收入比例不足0.01%，對業績無顯著影響。2026年上半年公司歸母淨利潤7867.80萬元，同比下降34.46%。公司及控股股東不存在應披露未披露的重大事項，相關主體近期無買賣公司股票行為。"
+    },
+    {
+      "id": "te:markets:581275",
+      "time": "2026-09-04 19:41:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Post Sharp Weekly Gain — Crude oil traded slightly lower around $90 a barrel on Friday but was up nearly 9% for the week, marking its strongest weekly performance since mid-July, as tensions between the US and Iran continued to drive market sentiment. US-Iran strikes resumed this week for the first time in about a month, reigniting concerns over supply disruptions. Israeli warnings that it would “cripple” Iran’s military and civilian infrastructure also weighed on sentiment. Meanwhile, US Vice President JD Vance said on Thursday that Washington does not plan to hold talks with Tehran unless Iran stops attacking commercial shipping in the Strait of Hormuz. However, there were signs that crude supplies were still reaching the market and Iraq’s oil exports rose in August and are expected to increase further in September. Meanwhile, OPEC+ is likely to keep its oil output policy unchanged for October at its meeting on Sunday."
+    },
+    {
+      "id": "mkt:01a06c39-31cc-7118-84a1-aea62a4d058f",
+      "time": "2026-09-04 19:41:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "The Times reports the Rosebank oil and gas field development has a very low chance of approval."
+    },
+    {
+      "id": "5077680",
+      "time": "2026-09-04 19:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，羅斯班克油田開發專案極不可能獲得批准。"
+    },
+    {
+      "id": "mkt:01a06c38-78f3-7118-84a1-a022991f6e37",
+      "time": "2026-09-04 19:40:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "UK Prime Minister Burnham will announce plans for the Jackdaw oilfield during a visit to Aberdeen and unveil new renewable-energy investment, the Times reports."
+    },
+    {
+      "id": "mkt:01a06c38-1f42-7118-84a1-993ec28b05d9",
+      "time": "2026-09-04 19:40:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The Times reports the UK government will approve new natural gas drilling at the Jackdaw field on Sept. 15."
+    },
+    {
+      "id": "5077679",
+      "time": "2026-09-04 19:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京津冀與粵港澳大灣區首次實現跨區域辦電】9月1日，國網北京海淀供電公司與南方電網深圳寶安供電局聯合完成了一項跨網跨區辦電業務，讓企業零奔波的跨網辦電變為現實，這也是京津冀和粵港澳大灣區兩大世界級城市群之間，首例跨電網、跨區域的高壓辦電業務。（新京報）"
+    },
     {
       "id": "5077678",
       "time": "2026-09-04 19:39:00",
