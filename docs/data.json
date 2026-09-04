@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-04 19:31:50",
-  "count": 13704,
+  "updated": "2026-09-04 19:35:47",
+  "count": 13713,
   "items": [
+    {
+      "id": "5077673",
+      "time": "2026-09-04 19:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全新理想L9正式於阿聯酋上市】2026年9月3日，理想汽車在迪拜舉行全新理想L9釋出會，正式將具身智慧旗艦SUV引入阿聯酋市場。此次阿聯酋釋出是理想汽車全球化戰略的重要里程碑，開啟了在全球最具聲望的豪華汽車市場之一，中東地區的新篇章。全新理想L9現已在阿聯酋上市，提供Ultra和Livis兩個版本。全新理想L9 Ultra起售價319,900阿聯酋迪拉姆，全新理想L9 Livis起售價359,900阿聯酋迪拉姆。"
+    },
+    {
+      "id": "5077672",
+      "time": "2026-09-04 19:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "殷拓集團 （EQT）將以20億美元收購麥吉爾大學及其合作伙伴的多數股權。"
+    },
+    {
+      "id": "5077671",
+      "time": "2026-09-04 19:33:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所宣佈調整滬港通下港股通標的，調入百度(09888.HK)、歌禮制藥(01672.HK)等54只，調出佑駕創新(02431.HK)等15只。"
+    },
+    {
+      "id": "mkt:01a06c31-d0f5-7118-84a1-967fb2ca6a25",
+      "time": "2026-09-04 19:33:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09888.HK",
+        "Impact bullish",
+        "01672.HK",
+        "02431.HK",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Stock Exchange said it will adjust southbound eligible securities under the Shanghai–Hong Kong Stock Connect, adding 54 stocks including Baidu (09888.HK) and Geli Pharmaceutical (01672.HK), and removing 15 stocks including Youjia Innovation (02431.HK)."
+    },
+    {
+      "id": "5077670",
+      "time": "2026-09-04 19:33:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：上半年累計審結經營者集中案件298起】記者今天瞭解到，上半年，市場監管總局累計審結經營者集中案件298起，其中禁止1起、附條件批准2起，公開作出4起違法實施經營者集中案件處罰決定。聚焦重點領域，依法開展案件審查。面對汽車零部件、數字文娛、公用事業這類與民生緊密、供應鏈相關的重大交易，堅持審慎研判，精準運用附條件批准、禁止集中等監管手段。持續最佳化審查流程，大力提升監管效能。深入實施經營者集中反壟斷監管效能提升專項行動，明確18項預期成果，上半年無條件批准283起集中案件，案件平均受理時間19.04天、平均審結時間25.16天，審查效率穩居全球主要司法轄區前列。（央視新聞）"
+    },
+    {
+      "id": "5077669",
+      "time": "2026-09-04 19:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "CLEARMIND MEDICINE簽署最終協議，收購一家專注於自動泊車與機器人計程車的無線充電公司51%股權。"
+    },
+    {
+      "id": "mkt:01a06c31-1b3a-7118-84a1-8e05e5061741",
+      "time": "2026-09-04 19:32:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of India said its gold reserves were USD 116.41 bln as of Aug 28, up from USD 114.22 bln a week earlier."
+    },
+    {
+      "id": "5077668",
+      "time": "2026-09-04 19:32:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外匯儲備截至8月28日為7408.0億美元，創歷史新高，前一週為7293.3億美元。截至8月28日，印度黃金儲備為1164.1億美元，前一週為1142.2億美元。"
+    },
+    {
+      "id": "mkt:01a06c30-7fae-7118-84a1-81a571ec065a",
+      "time": "2026-09-04 19:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "India's foreign exchange reserves rose to $740.8 bln as of Aug. 28, a record high, up from $729.33 bln a week earlier."
+    },
+    {
+      "id": "5077667",
+      "time": "2026-09-04 19:31:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率收於6.9625%；前一交易日收盤價為6.9646%。"
+    },
     {
       "id": "5077666",
       "time": "2026-09-04 19:30:39",
@@ -125546,18 +125642,6 @@
         "Importance 1"
       ],
       "text": "Brazil Loan Growth Slows — The value of outstanding loans from the Brazilian financial sector edged up by 0.3% from the previous month, remaining at R$7.4 trillion in July 2026, slowing from a 0.7% increase in June. Loans extended to corporations fell 0.7%, remaining at R$2.7 trillion, while household lending edged up 0.8%, also remaining broadly unchanged at R$4.6 trillion. On an annual basis, total credit expanded 9.5%, down from the 9.7% growth recorded in June. Household lending continued to outpace corporate credit, rising 10.8% year-on-year, while lending to legal entities slowed further to 7.4% from 7.9%. Meanwhile, credit with free resources totaled R$4.2 trillion, broadly unchanged from the prior month, although the level edged 0.1% downward from the previous month and increased 7% from a year earlier. Stronger household credit with free resources (up 1%) offset a monthly decline of 1.9% in corporate lending. Nevertheless, both remained higher than a year earlier."
-    },
-    {
-      "id": "te:economy:579092",
-      "time": "2026-08-28 19:32:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Spain Business Confidence Weakens to 4-Month Low — The seasonally adjusted industrial confidence indicator in Spain fell further to -3.9 in August 2026, the lowest since April, from -2.6 in the preceding month. The 1.3-point monthly decline reflected a 2.8-point increase in stock levels and a 1.4-point decrease in production expectations, partly offset by a 0.3-point rise in the order-book indicator. Inventories rose for the third consecutive month, while the gauge for order books reached its highest level since April 2023, standing 3.5 points above its average since 2024. Production expectations, the only forward-looking component of the three underlying measures, declined for a second consecutive month, falling below their long-term average. Even so, the ICI remains above its long-term average, as it has consistently done since December 2023, and is 2.2 points higher than in August 2025."
     }
   ]
 }
