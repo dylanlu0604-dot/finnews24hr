@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-05 04:11:07",
-  "count": 14126,
+  "updated": "2026-09-05 04:14:54",
+  "count": 14129,
   "items": [
+    {
+      "id": "5078356",
+      "time": "2026-09-05 04:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方宣告稱，在真主黨向以色列士兵發動無人機襲擊後，以軍正在打擊黎巴嫩南部。"
+    },
+    {
+      "id": "mkt:01a06e0c-4f61-7118-84ae-3ebf69f7c9b5",
+      "time": "2026-09-05 04:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it remains active in the security zone to eliminate threats to Israeli civilians and soldiers and will continue taking measures against Hezbollah's repeated attempts to harm Israeli troops."
+    },
+    {
+      "id": "mkt:01a06e0b-fc2c-7118-84ae-3724e1228630",
+      "time": "2026-09-05 04:11:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) said the actions constitute Hezbollah's 'blatant violations' and has carried out retaliatory strikes on targets in southern Lebanon."
+    },
+    {
+      "id": "mkt:01a06e0b-9182-7118-84ae-2e2e3bed6064",
+      "time": "2026-09-05 04:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israel Defense Forces said HEZBOLLAH fighters fired a drone at Israeli troops stationed in southern Lebanon’s security zone; the IDF opened fire and shot the drone down, with no casualties."
+    },
     {
       "id": "mkt:01a06e0a-5bcb-7118-84ae-23d3aa04cf38",
       "time": "2026-09-05 04:09:27",
@@ -129417,18 +129449,6 @@
         "國際"
       ],
       "text": "沃爾瑪：在不承認負有責任的前提下，就美國司法部阿片類藥物民事訴訟達成和解，和解金額不重大，相關撥備已於 7 月 31 日計提。"
-    },
-    {
-      "id": "te:markets:579251",
-      "time": "2026-08-29 04:14:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall on Rising Fed Hike Bets — The US stock indices closed lower on Friday as chipmakers shares trimmed the previous session’s gains and a more hawkish tone from Fed Chair Warsh strengthened expectations for a rate hike next month. The S&P 500 shed 0.2%, the Nasdaq fell 0.7% and the Dow inched lower. Marvell fell 10.3% despite beating earnings estimates and raising its outlook. Chipmakers pulled back after rallying on Nvidia’s (-4.6%) strong results earlier in the week, with Broadcom down 0.7%, and AMD falling 2.3%. Hyperscalers held gains, with Alphabet up 1.5%, Microsoft adding 1.7%, Amazon jumping 4%, and Meta rising 1.2%. Meanwhile, Warsh said underlying inflation was not slowing and pledged to keep fighting price growth until it converges with the Fed’s 2% target during his speech at Jackson Hole Symposium, prompting traders to increase bets on a rate hike next month. Industrial and pharmaceutical stocks declined, with AbbVie losing 1% and Lam Research falling 5.2%."
     }
   ]
 }
