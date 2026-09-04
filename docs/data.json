@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-04 08:07:24",
-  "count": 13030,
+  "updated": "2026-09-04 08:11:15",
+  "count": 13033,
   "items": [
+    {
+      "id": "mkt:01a069c0-60ed-7118-8492-369c57a32b6d",
+      "time": "2026-09-04 08:10:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 index opened 32.80 points higher, up 0.36%, at 9,052.90 on Friday, Sept. 4."
+    },
+    {
+      "id": "5076445",
+      "time": "2026-09-04 08:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "三村淳：在外匯問題上立場不變。"
+    },
+    {
+      "id": "mkt:01a069bf-3680-7118-8492-2b2d002a29b2",
+      "time": "2026-09-04 08:08:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's top FX official MIMURA says he remains in constant contact with Japanese authorities."
+    },
+    {
+      "id": "5076444",
+      "time": "2026-09-04 08:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿根廷總統稱，將簽署法令，制裁在福克蘭群島近海從事石油勘探的公司。"
+    },
+    {
+      "id": "mkt:01a069be-cb7f-7118-8492-266eb8eac0ca",
+      "time": "2026-09-04 08:08:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top FX official Mimura said Japan will continue to maintain readiness in the foreign exchange market."
+    },
+    {
+      "id": "5076443",
+      "time": "2026-09-04 08:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省最高外匯事務官員三村淳：將繼續隨時準備好應對外匯市場異動。"
+    },
+    {
+      "id": "mkt:01a069be-88ff-7118-8492-1d0868556578",
+      "time": "2026-09-04 08:08:09",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: Medical-device sector likely entering new virtuous growth cycle】CSC Financial said the medical-device sector recorded four consecutive quarters of positive growth through Q2 2026 and posted, for the first time in four years, a quarter of YoY growth in net profit attributable to the parent, indicating earnings recovery. 2025 profit declines were mainly driven by IVD centralized procurement, medical-service price adjustments, and one-off impairment charges and FX losses at some low-value consumables firms. The firm expects the industry to enter a new virtuous cycle as procurement effects clear, innovative products move into commercialization, and domestic manufacturers accelerate overseas expansion."
+    },
+    {
+      "id": "5076442",
+      "time": "2026-09-04 08:07:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.32%，報155.305。"
+    },
+    {
+      "id": "5076441",
+      "time": "2026-09-04 08:07:02",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：建議沿著高景氣、低擁擠度、政策邊際催化等尋找結構性機會】華泰證券研報稱，全球低利率正規化正被打破，儲蓄供給收縮疊加政府與AI同時加槓桿，資金失衡推動長端利率易上難下。儲蓄端，中日歐老齡化、地緣阻礙美元迴流、高通脹約束央行擴表、風險偏好壓低儲蓄率，四重變化使儲蓄從充裕走向乾涸；需求端，美國高利率高赤字高槓杆陷入債務膨脹迴圈，科技巨頭髮債已與國債淨髮行進入同一數量級，AI融資對美債的擠出開始顯現。風險上關注2027年初債務上限、基差交易等脆弱點及AI收入放緩後的融資風險。高利率下資產表現分化，黃金和科技股構成核心啞鈴組合，分別押注融資風險暴露與AI敘事兌現，低槓桿強現金流與資源品提供防禦。策略上，短期主線不清晰，建議沿著高景氣+低擁擠度+政策邊際催化等尋找結構性機會。"
+    },
+    {
+      "id": "5076440",
+      "time": "2026-09-04 08:06:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報9,050.30點。"
+    },
     {
       "id": "5076439",
       "time": "2026-09-04 08:06:50",
@@ -119626,62 +119713,6 @@
         "公司"
       ],
       "text": "【上市公司關聯借款利率呈現兩極分化特徵 市場關注關聯交易公允性】近年來，隨著貸款利率逐步走低，企業融資成本不斷下行。A股上市公司關聯借款的利率卻呈現出明顯的兩極分化特徵。證券時報記者梳理發現，一方面，不少上市公司的實控人、控股股東向上市公司提供無息或遠低於同期銀行貸款利率水平的優惠借款；另一方面，部分經營承壓、外部融資渠道受限的上市公司，從關聯方獲取資金的利率顯著高於銀行信貸利率。同時，一些自身融資能力正常的企業持續向關聯方以高於自身融資成本的利率借款，也引發市場對關聯交易公允性的關注。"
-    },
-    {
-      "id": "mkt:01a045b4-cc3d-7aab-915c-a4cb0d6da586",
-      "time": "2026-08-28 08:11:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian S&P/ASX 200 opened up 19.80 points (+0.22%) at 9,058.00 on Aug 28 (Fri)."
-    },
-    {
-      "id": "mkt:01a045b4-c5b0-7aab-915c-9b315957c7ce",
-      "time": "2026-08-28 08:11:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Typhoon Sadeer, the 18th typhoon of the year, made landfall near Kanmen Subdistrict, Yuhuan City, Taizhou, Zhejiang province, China at about 08:05 local time on Aug. 28."
-    },
-    {
-      "id": "5063576",
-      "time": "2026-08-28 08:10:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙德爾在浙江台州登陸】據中央氣象臺最新訊息，颱風“沙德爾”（颱風級）的中心已於今天8時05分前後在浙江台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有12級（35米/秒），中心最低氣壓975百帕。"
-    },
-    {
-      "id": "5063575",
-      "time": "2026-08-28 08:10:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家海洋預報臺8月28日08時釋出風暴潮橙色警報：受今年第18號颱風“沙德爾”(強颱風級)的影響，預計:8月28日上午至29日上午，上海到浙江寧波沿海將出現50到150釐米的風暴增水，浙江台州到溫州沿海將出現80到240釐米的風暴增水。浙江省台州市和溫州市的風暴潮預警級別為橙色，上海市和浙江省寧波市的風暴潮預警級別為藍色。預計：28日10時前後，台州溫嶺市和溫州樂清市沿海低窪地區有海水倒灌淹沒風險。預計：29日上午解除風暴潮警報。"
-    },
-    {
-      "id": "5063574",
-      "time": "2026-08-28 08:09:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI釋出公開信，呼籲採取網路防禦行動】當地時間8月27日，OpenAI釋出一封呼籲全球加強網路防禦的公開信，由包括Anthropic、AWS、谷歌、微軟、OpenAI和甲骨文在內的100多家組織聯名簽署。該公司表示：“隨著全球各地模型能力不斷提升，“藉助人工智慧發起的網路攻擊將變得愈發廣泛和複雜。”"
-    },
-    {
-      "id": "5063573",
-      "time": "2026-08-28 08:08:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華盛昌：2026年二季度相較一季度產能大幅提升】華盛昌(002980)8月27日在機構線上會議表示，產能方面，2026年二季度相較一季度大幅提升，華盛昌積極支援伽藍特的整體業務發展，幫助伽藍特提升整體交付能力、提升新產品開發進度、保障公司在面對下游需求快速增長的情況下，抓住市場機遇。目前公司仍有部分在手訂單尚未交付，同時考慮到下半年還將迎來新訂單，產能擴張與公司業務發展需求相匹配。公司將進一步加大供應鏈與產能方面的投資，後續將結合訂單交付進度、訂單總量及未交付訂單情況，適時做出戰略決策。"
-    },
-    {
-      "id": "5063572",
-      "time": "2026-08-28 08:08:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝宏科技：控股股東及其一致行動人上層股東內部股權結構調整】勝宏科技(300476)早間公告，公司於今日收到控股股東勝華欣業及其一致行動人香港勝宏的上層股東宏大投資的通知，陳濤先生將其持有的勝華欣業的39%的股權，以及持有的宏大投資的35%的股權轉讓給其配偶劉春蘭女士，並就本次股權結構調整簽署了相關股權轉讓協議。本次股權結構調整後，陳濤將持有勝華欣業的51%股權，其配偶劉春蘭將持有勝華欣業的49%股權；陳濤將持有宏大投資的35%股權，其配偶劉春蘭將持有宏大投資的35%股權。同時，公司實控人陳濤與其配偶劉春蘭共同簽署《一致行動協議》，約定劉春蘭就其所持勝宏科技的股份（包括直接和間接持有的股份）與陳濤保持一致行動，並按照陳濤的意見行使表決權。本次股權結構調整系實際控制人家族內部的股權結構調整行為，不涉及控股股東及其一致行動人所持公司股份的變動，不觸及要約收購，不會導致公司控股股東、實際控制人發生變化。"
     }
   ]
 }

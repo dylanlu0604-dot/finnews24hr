@@ -1,7 +1,94 @@
 {
   "date": "2026-09-04",
-  "count": 576,
+  "count": 586,
   "items": [
+    {
+      "id": "mkt:01a069c0-60ed-7118-8492-369c57a32b6d",
+      "time": "2026-09-04 08:10:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 index opened 32.80 points higher, up 0.36%, at 9,052.90 on Friday, Sept. 4."
+    },
+    {
+      "id": "5076445",
+      "time": "2026-09-04 08:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "三村淳：在外匯問題上立場不變。"
+    },
+    {
+      "id": "mkt:01a069bf-3680-7118-8492-2b2d002a29b2",
+      "time": "2026-09-04 08:08:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's top FX official MIMURA says he remains in constant contact with Japanese authorities."
+    },
+    {
+      "id": "5076444",
+      "time": "2026-09-04 08:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿根廷總統稱，將簽署法令，制裁在福克蘭群島近海從事石油勘探的公司。"
+    },
+    {
+      "id": "mkt:01a069be-cb7f-7118-8492-266eb8eac0ca",
+      "time": "2026-09-04 08:08:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top FX official Mimura said Japan will continue to maintain readiness in the foreign exchange market."
+    },
+    {
+      "id": "mkt:01a069be-88ff-7118-8492-1d0868556578",
+      "time": "2026-09-04 08:08:09",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: Medical-device sector likely entering new virtuous growth cycle】CSC Financial said the medical-device sector recorded four consecutive quarters of positive growth through Q2 2026 and posted, for the first time in four years, a quarter of YoY growth in net profit attributable to the parent, indicating earnings recovery. 2025 profit declines were mainly driven by IVD centralized procurement, medical-service price adjustments, and one-off impairment charges and FX losses at some low-value consumables firms. The firm expects the industry to enter a new virtuous cycle as procurement effects clear, innovative products move into commercialization, and domestic manufacturers accelerate overseas expansion."
+    },
+    {
+      "id": "5076443",
+      "time": "2026-09-04 08:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省最高外匯事務官員三村淳：將繼續隨時準備好應對外匯市場異動。"
+    },
+    {
+      "id": "5076442",
+      "time": "2026-09-04 08:07:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.32%，報155.305。"
+    },
+    {
+      "id": "5076441",
+      "time": "2026-09-04 08:07:02",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：建議沿著高景氣、低擁擠度、政策邊際催化等尋找結構性機會】華泰證券研報稱，全球低利率正規化正被打破，儲蓄供給收縮疊加政府與AI同時加槓桿，資金失衡推動長端利率易上難下。儲蓄端，中日歐老齡化、地緣阻礙美元迴流、高通脹約束央行擴表、風險偏好壓低儲蓄率，四重變化使儲蓄從充裕走向乾涸；需求端，美國高利率高赤字高槓杆陷入債務膨脹迴圈，科技巨頭髮債已與國債淨髮行進入同一數量級，AI融資對美債的擠出開始顯現。風險上關注2027年初債務上限、基差交易等脆弱點及AI收入放緩後的融資風險。高利率下資產表現分化，黃金和科技股構成核心啞鈴組合，分別押注融資風險暴露與AI敘事兌現，低槓桿強現金流與資源品提供防禦。策略上，短期主線不清晰，建議沿著高景氣+低擁擠度+政策邊際催化等尋找結構性機會。"
+    },
+    {
+      "id": "5076440",
+      "time": "2026-09-04 08:06:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報9,050.30點。"
+    },
     {
       "id": "5076439",
       "time": "2026-09-04 08:06:50",
