@@ -1,7 +1,114 @@
 {
   "date": "2026-09-04",
-  "count": 1439,
+  "count": 1452,
   "items": [
+    {
+      "id": "5077060",
+      "time": "2026-09-04 15:07:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "大眾汽車集團股價最新上漲6.7%，正邁向2023年3月以來表現最佳的單日行情。"
+    },
+    {
+      "id": "5077059",
+      "time": "2026-09-04 15:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：華住集團計劃首次發行人民幣債券，籌集相當於5億美元的資金。"
+    },
+    {
+      "id": "mkt:01a06b3d-7270-7118-849a-73661e3c5a99",
+      "time": "2026-09-04 15:06:24",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【A-shares close: Shanghai Composite down 0.30%; livestock sector surges】A-shares reversed early gains to close lower: Shanghai Composite -0.30%, Shenzhen Composite Index -0.79%, ChiNext Index -0.78%. Livestock sector led advances—pork, poultry, fisheries and feed names strong; Luoniushan, New Hope and Zhongshui Fishery hit limit-up. Grain names recovered from an early dip; Yasheng Group and Dunhuang Seed hit limit-up. Maritime equipment outperformed with China shipbuilding-related stocks leading; China Shipbuilding rose over 9%. Liquor stocks rallied on a yellow-wine theme; Guyue Longshan and Kuaijishan hit limit-up. Other notable gainers included tourism & hotels, beverages & food, digital currency, retail, film, building materials & cement, and AI applications. Technology stocks broadly pulled back; memory chips, MLCC, CPO, helium, lithography equipment, PCB, liquid-cooled servers and humanoid-robot names were among the worst performers. Turnover across Shanghai and Shenzhen reached 2.03 tln yuan, up roughly 271.8 bln yuan vs. the previous session; about 2,200 stocks advanced and 2,800 declined."
+    },
+    {
+      "id": "5077056",
+      "time": "2026-09-04 15:06:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國農業部長宣佈將設立新基金以提振農業領域。"
+    },
+    {
+      "id": "5077053",
+      "time": "2026-09-04 15:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：克萊斯勒（FCA US, LLC）將在美國召回239,131輛汽車，原因是倒車影像無法顯示會縮小駕駛員的後方視野，從而增加碰撞風險。"
+    },
+    {
+      "id": "5077051",
+      "time": "2026-09-04 15:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "中方將赴俄羅斯參加實兵演習。（央視軍事）"
+    },
+    {
+      "id": "5077050",
+      "time": "2026-09-04 15:05:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體股價延續週四漲勢，最新上漲4.7%。"
+    },
+    {
+      "id": "5077048",
+      "time": "2026-09-04 15:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "中老人道主義醫學救援聯演將舉行。（央視軍事）"
+    },
+    {
+      "id": "5077047",
+      "time": "2026-09-04 15:04:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "國防部批臺防務部門報告顛倒黑白。（央視軍事）"
+    },
+    {
+      "id": "5077046",
+      "time": "2026-09-04 15:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國農業部長宣佈推出一項規模超10億歐元的農民援助計劃。"
+    },
+    {
+      "id": "5077045",
+      "time": "2026-09-04 15:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車宣佈重組計劃後，股價上漲9.7%。"
+    },
+    {
+      "id": "5077044",
+      "time": "2026-09-04 15:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理將宣佈進一步的經濟支援措施。"
+    },
+    {
+      "id": "5077043",
+      "time": "2026-09-04 15:03:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "檔案顯示，Oasis Management將其在SMS股份有限公司的持股比例從22.38%提升至24.65%。"
+    },
     {
       "id": "mkt:01a06b3a-97d5-7118-849a-6b8091c1a66b",
       "time": "2026-09-04 15:03:17",
