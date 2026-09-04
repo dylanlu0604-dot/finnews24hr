@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-05 04:58:37",
+  "updated": "2026-09-05 05:02:31",
   "count": 14101,
   "items": [
+    {
+      "id": "mkt:01a06e38-6fd8-7118-84ae-5a45f12640e3",
+      "time": "2026-09-05 04:59:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Argentina market expectations survey: 2026 year-end GDP growth forecast 2.1%, down 0.6 percentage point from prior forecast; 2026 year-end inflation expectation 30.0%, up 0.21 percentage point from prior forecast."
+    },
+    {
+      "id": "5078363",
+      "time": "2026-09-05 04:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國經審查後批准 Viva Aerobus 與沃拉里斯航空合併。"
+    },
+    {
+      "id": "5078362",
+      "time": "2026-09-05 04:59:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行市場預期調查顯示，預計該國 2026 年末通脹率為 30%，較此前預測上調 0.21 個百分點。"
+    },
+    {
+      "id": "5078361",
+      "time": "2026-09-05 04:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱對黎巴嫩南部實施空襲】當地時間4日晚，以色列國防軍發表宣告稱，作為對黎巴嫩真主黨違反停火協議的回應，以軍對黎巴嫩南部實施了空襲。以軍表示，當天早些時候，真主黨武裝人員向正在黎南部“安全區”內執行任務的以軍部隊發射了一架無人機。以軍開火擊落了該架無人機，沒有以軍人員在此次事件中受傷。（央視新聞）"
+    },
+    {
+      "id": "5078360",
+      "time": "2026-09-05 04:57:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行市場預期調查顯示，預計該國 2026 年末 GDP 增速為 2.1%，較此前預測下調 0.6 個百分點。"
+    },
     {
       "id": "5078359",
       "time": "2026-09-05 04:55:27",
@@ -129133,59 +129175,6 @@
         "其他"
       ],
       "text": "惠譽確認法國評級為A+，展望穩定。"
-    },
-    {
-      "id": "mkt:01a04a2d-9f54-7aab-917a-f328a1de2962",
-      "time": "2026-08-29 05:01:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says it will maintain control of Strait of Hormuz; orders vessels not to transit without Iranian coordination】Aug 28 — Iran’s Islamic Revolutionary Guard Corps Navy said US claims the Strait of Hormuz is open are false and intended to influence oil prices and mask failure. The IRGC said its control of the strategic waterway is absolute and ordered that any vessel attempting to transit without coordination with Iran will not be permitted. The navy said the restriction will remain in place until US military actions against Iran end and the US fulfills its obligations."
-    },
-    {
-      "id": "mkt:01a04a2d-9512-7aab-917a-eb70af208cbc",
-      "time": "2026-08-29 05:01:36",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fitch affirms France's sovereign rating at \"A+\"; outlook stable."
-    },
-    {
-      "id": "5066036",
-      "time": "2026-08-29 05:01:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：持續控制霍爾木茲海峽 船隻未經協調不得透過】伊朗伊斯蘭革命衛隊海軍發表宣告稱，美國官員關於霍爾木茲海峽開放的宣告為謊言，其目的只是為了控制油價並掩蓋其失敗。宣告強調，革命衛隊對這一戰略水道的控制權絕對穩固。伊朗已下令，所有未經伊朗協調而試圖透過霍爾木茲海峽的船隻均不得通行。革命衛隊海軍表示，這一行動將持續進行，直至美國對伊朗的軍事行動徹底終結並履行其應盡的義務。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a04a2c-0a00-7aab-917a-e37d8b54709f",
-      "time": "2026-08-29 04:59:55",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "【Four Latin American countries sign joint statement to boost critical minerals cooperation】Mining ministers from Chile, Argentina, Bolivia and Peru met in Santiago on the 28th and signed a joint statement calling for stronger regional cooperation to promote sustainable development, technology exchange and investment in critical minerals, aimed at raising the region's role in global critical-minerals supply chains."
-    },
-    {
-      "id": "mkt:01a04a2b-4719-7aab-917a-da49c0f5f3c9",
-      "time": "2026-08-29 04:59:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Hezbollah leader urges Lebanon to cancel Lebanon–Israel–U.S. framework agreement】Hezbollah deputy leader Naim Qassem on the 28th urged the Lebanese government to annul the Lebanon–Israel–U.S. trilateral framework agreement, saying it undermines Lebanese sovereignty and fails to protect Lebanese interests. Speaking at an event south of Beirut, Qassem called the pact illegal, unjust and humiliating, accused the U.S. and Israel of trying to control and divide the Middle East, and said populations in Palestine, Lebanon, Iran, Yemen and Iraq had resisted those plans."
     }
   ]
 }
