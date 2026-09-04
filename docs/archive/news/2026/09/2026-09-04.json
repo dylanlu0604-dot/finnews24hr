@@ -1,7 +1,122 @@
 {
   "date": "2026-09-04",
-  "count": 1313,
+  "count": 1324,
   "items": [
+    {
+      "id": "5076964",
+      "time": "2026-09-04 14:35:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【西太平洋銀行：挪威主權財富基金減持債券預示市場將迎來重新定價】西太平洋銀行表示，挪威主權財富基金擬減持政府債券，有報道稱其中可能包含規模可觀的美國國債，這一情況並不出人意料。該行金融市場策略主管馬丁・惠頓在研報中寫道：“自解放日以來，政治與經濟大環境已然改變，海外對美債的配置規模不再增長。”“受政治環境影響，想要找到佔比 35% 的海外買家已變得更為困難。”"
+    },
+    {
+      "id": "mkt:01a06b21-5cf3-7118-8499-6f7002036949",
+      "time": "2026-09-04 14:35:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "ChiNext Index down over 1% as tech sector sells off; memory chips, MLCCs, CPO, helium suppliers and lithography-equipment makers led the declines."
+    },
+    {
+      "id": "5076963",
+      "time": "2026-09-04 14:35:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3279.242點；上證指數跌0.42%，現報3925.667點；深證成指跌0.98%，現報13491.660點。"
+    },
+    {
+      "id": "mkt:01a06b20-1638-7118-8499-6381adc7849a",
+      "time": "2026-09-04 14:34:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Bank of Korea: South Korea's memory-chip capacity lead likely to widen】The Bank of Korea said Samsung Electronics and SK Hynix's domestic expansion plans are expected to further widen South Korea's lead in memory-chip production capacity. It projects new fabs coming online by 2028 will raise South Korea's monthly wafer capacity by about 600,000 wafers."
+    },
+    {
+      "id": "5076962",
+      "time": "2026-09-04 14:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額超100億元】9月4日下午，新易盛成交額超100億元，現漲0.08%。"
+    },
+    {
+      "id": "mkt:01a06b1f-9259-7118-8499-58dc51c4ef7c",
+      "time": "2026-09-04 14:33:46",
+      "tags": [
+        "MKT News",
+        "2303.TW",
+        "Impact bullish"
+      ],
+      "text": "Taiwan's United Microelectronics (UMC) reported August sales of NT$25.04 billion, up 30.7% YoY."
+    },
+    {
+      "id": "5076961",
+      "time": "2026-09-04 14:33:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑富瑞：AI潛在可觸及市場逾25萬億美元，首選微軟、亞馬遜及Alphabet等】傑富瑞發表報告指，人工智慧潛力仍只觸及表面，估計潛在市場規模逾25萬億美元，並評估AI與過往科技浪潮比較、投資回報、採用障礙及融資風險等關鍵爭議。該行認為挑戰仍在，相信障礙可克服，但創造不均衡的AI採用路徑。該行認為“SaaS末日”說法過度，軟體並未死亡，弱勢軟體才會被淘汰；前沿實驗室更可能與領先供應商合作，而非擁有全棧。該行看好具備優勢、能把握人工智慧在運算、資料、資安及應用程式等領域支出機會的企業，首選標的包括大型平臺中的微軟、亞馬遜及Alphabet，而甲骨文、CoreWeave則能提供對受限人工智慧運算的直接曝險。該行亦看好資料/可觀察性領域的Snowflake和Dynatrace，以及資安領域的Palo Alto Networks及Okta。Intuit是該行的逆勢選股，因為相較於其約40年的資料累積、深厚的人工智慧人才儲備以及使用者黏性強的應用程式，市場對人工智慧的擔憂實屬過度放大。"
+    },
+    {
+      "id": "mkt:01a06b1e-ddb5-7118-8499-5720813adfd6",
+      "time": "2026-09-04 14:32:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai issues Near-term Land and Spatial Implementation Plan (2026–2030)】The Shanghai Municipal Planning and Natural Resources Bureau issued the Near-term Land and Spatial Implementation Plan for 2026–2030. The plan targets that by 2030 the core functions of Shanghai’s “five centers” will be significantly strengthened—global resource allocation, science and technology innovation sourcing, high-end industry leadership, open-hub gateway influence and cultural soft power—and that Shanghai’s development as an innovation city, ecological city, cultural city and a world-influential socialist-modern international metropolis will advance to a higher stage, with the city playing a leading and demonstrative role in China’s modernization drive."
+    },
+    {
+      "id": "mkt:01a06b1e-d73c-7118-8499-4b9c2abff0f0",
+      "time": "2026-09-04 14:32:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Nikkei 225"
+      ],
+      "text": "【Japan, South Korea stocks close higher on Friday】Japan's Nikkei 225 index closed up 806.46 points (+1.26%) at 65,020.94 on Friday. South Korea's KOSPI closed up 107.73 points (+1.64%) at 6,687.21. SK Hynix rose more than 3%; Samsung Electronics gained 2.2%."
+    },
+    {
+      "id": "5076960",
+      "time": "2026-09-04 14:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：關注人形機器人的三大細分領域】瑞銀全球股票主管Ulrike Hoffmann-Burchardi最新表示，人形機器人越來越能夠使用“情境學習”，即透過觀察動作或任務來學習如何做某事。她在最近給客戶的一份報告中表示，“我們現在正處於擺脫預程式設計自動化並邁向真正物理自主的邊緣。”Hoffmann-Burchardi表示，這一主題展現了人工智慧投資的新前沿，並重點介紹了人工智慧機器人行業中三個值得關注的領域：執行器和精密齒輪、感測器和感知層、邊緣計算和電力基礎設施。"
+    },
+    {
+      "id": "5076959",
+      "time": "2026-09-04 14:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯電8月銷售額250.4億元新臺幣，同比增長30.7%。"
+    },
     {
       "id": "mkt:01a06b1e-0d8c-7118-8499-42de17fb567b",
       "time": "2026-09-04 14:32:06",
