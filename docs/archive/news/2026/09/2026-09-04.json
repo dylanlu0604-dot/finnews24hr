@@ -1,7 +1,60 @@
 {
   "date": "2026-09-04",
-  "count": 1944,
+  "count": 1950,
   "items": [
+    {
+      "id": "mkt:01a06c28-3599-7118-84a1-5ddac99d45a9",
+      "time": "2026-09-04 19:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister said Ukraine expects talks with the United States on peace efforts to deliver new momentum."
+    },
+    {
+      "id": "mkt:01a06c27-e61e-7118-84a1-51537c8098f0",
+      "time": "2026-09-04 19:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's foreign minister said Warsaw hopes India will join efforts to help end the conflict in Ukraine."
+    },
+    {
+      "id": "5077649",
+      "time": "2026-09-04 19:21:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭外長：波蘭希望印度參與推動結束烏克蘭戰爭。"
+    },
+    {
+      "id": "5077648",
+      "time": "2026-09-04 19:20:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "CIE汽車公司向其子公司CIE HOSUR投資12.1億印度盧比。"
+    },
+    {
+      "id": "mkt:01a06c25-c333-7118-84a1-4c3e68ab0b8c",
+      "time": "2026-09-04 19:20:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Moonshot AI reportedly plans Hong Kong IPO this year, seeking up to $5bn】Moonshot AI has privately filed for a Hong Kong IPO and is targeting $3bn–$5bn in primary share proceeds, people familiar with the matter said. BofA will serve as global coordinator; other bookrunners include China International Capital Co, Deutsche Bank and Goldman Sachs. The company could list as soon as this year, though size and timing remain under review."
+    },
+    {
+      "id": "5077647",
+      "time": "2026-09-04 19:20:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車回應26.5億元增資欣旺達動力：有助於雙方升級為長期利益共同體】9月4日，欣旺達電子公告，理想汽車擬以26.5億元增資其子公司欣旺達動力，認購其增資完成後8.79%的股份。交易完成後，理想汽車相關主體將間接合計持有欣旺達動力11.17%的股份。對此，理想汽車方面回應稱，本次投資有助於雙方從聯合研發、製造協同進一步升級為長期利益共同體。動力電池是高度專業化、重資產、重製造的產業。電芯製造不僅需要長期的材料、工藝、裝置、良率和質量管理積累，也需要規模化的產業協同能力。理想希望將更多資源投入到使用者真正可感知的技術突破上，例如大電量、5C 超充、長壽命、高安全、低溫效能和整車系統整合。透過戰略投資和深度協同，理想可以更深入地參與電芯技術、製造質量和長期能力建設，同時發揮產業鏈夥伴在製造端的專業優勢。這是一種更符合產業分工和長期效率的模式。"
+    },
     {
       "id": "5077646",
       "time": "2026-09-04 19:18:45",
