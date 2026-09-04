@@ -1,7 +1,102 @@
 {
-  "updated": "2026-09-04 09:41:17",
-  "count": 13213,
+  "updated": "2026-09-04 09:45:08",
+  "count": 13221,
   "items": [
+    {
+      "id": "mkt:01a06a16-8c0d-7118-8493-e8c02acb8647",
+      "time": "2026-09-04 09:44:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "02525.HK",
+        "Impact bullish"
+      ],
+      "text": "Hesai-W (02525.HK) rose over 10% after Tesla said its Cybercab autonomous electric vehicle entered service in Austin, Texas."
+    },
+    {
+      "id": "5076579",
+      "time": "2026-09-04 09:44:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI應用概念延續強勢 易點天下漲超10%】AI應用概念延續昨日強勢，易點天下漲超10%，此前新炬網路2連板，鼎捷數智、美登科技、藍色游標、用友網路、中信出版、萬興科技跟漲。"
+    },
+    {
+      "id": "5076578",
+      "time": "2026-09-04 09:43:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "矽鐵連續主力合約日內漲5%，現報6562.00元。"
+    },
+    {
+      "id": "mkt:01a06a15-cf68-7118-8493-e23f16103d10",
+      "time": "2026-09-04 09:43:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00625.HK",
+        "Impact bearish"
+      ],
+      "text": "Xiyin-W (00625.HK) falls more than 5%."
+    },
+    {
+      "id": "mkt:01a06a15-7cd3-7118-8493-de4cf0248cb0",
+      "time": "2026-09-04 09:43:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Crypto Concepts",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share digital-currency sector rallied: Sifang Jingchuang hit a 20% limit up, Hailian Jinhui, Hengbao and Cuiwei also hit limit-up, Lakala rose over 9%, while Xiongdikeji, Kelan Software and Huafeng Chaoxian advanced."
+    },
+    {
+      "id": "mkt:01a06a15-5dd6-7118-8493-d56ffd6a83dd",
+      "time": "2026-09-04 09:43:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "CSI300",
+        "Impact bullish",
+        "Bitcoin",
+        "SSE Composite"
+      ],
+      "text": "【Fintech ETFs lead gains】Fintech ETFs accounted for 9 of the top 10 gainers on Chinese exchanges. Digital currency and cross-border payments sectors rose over 3%; several fintech ETFs advanced more than 4%."
+    },
+    {
+      "id": "5076577",
+      "time": "2026-09-04 09:42:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軟體開發板塊持續走高，四方精創、英方軟體漲停】軟體開發板塊持續走高，四方精創、英方軟體漲停，艾融軟體漲超15%，科藍軟體、鼎捷數智、亞信安全、金橙子、泛微網路跟漲。"
+    },
+    {
+      "id": "5076576",
+      "time": "2026-09-04 09:42:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【金融科技ETF領漲】漲幅榜前十中金融科技ETF佔9席。數字貨幣、跨境支付板塊漲超3%，多隻金融科技ETF漲超4%。"
+    },
+    {
+      "id": "5076575",
+      "time": "2026-09-04 09:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "希音港股跌超5%。"
+    },
     {
       "id": "5076574",
       "time": "2026-09-04 09:40:30",
@@ -121356,18 +121451,6 @@
         "Importance 1"
       ],
       "text": "South Korean Shares Snap 3-Day Rally — The benchmark KOSPI fell more than 1% to around 6,840 on Friday, snapping a three-day rally, as investors remained cautious ahead of Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole symposium later in the day. The decline came despite a strong overnight session on Wall Street, following Nvidia’s stronger-than-expected earnings and upbeat revenue outlook. Korean chipmakers failed to track the gains, with Samsung Electronics and SK hynix both declining more than 1%, limiting the positive spillover from the US technology rally. At the same time, Samsung Biologics dropped nearly 5% after announcing plans to raise KRW 3 trillion through a rights offering, adding further pressure to the index. Losses were also seen in LG Energy Solution (-1.8%), Hanwha Aerospace (-2.6%), HD Hyundai Heavy Industries (-2.8%), SK Inc (-2.5%), and LS Electric (-1.8%)."
-    },
-    {
-      "id": "te:markets:578842",
-      "time": "2026-08-28 09:43:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Steady Ahead of Warsh Speech — The dollar index was little changed around 99.1 on Friday as investors awaited Federal Reserve Chair Kevin Warsh’s speech at the annual Jackson Hole symposium later in the global day for clues about the outlook for US interest rates. Still, the greenback was on track to end the week slightly higher as a hotter-than-expected US inflation this week reading supported expectations for a Fed rate increase before year-end, with the probability of a hike by December remaining above 70%. For the upcoming September meeting, markets are currently pricing in around a 65% chance that the Fed will keep rates unchanged. Meanwhile, Kansas City Fed President Jeff Schmid said monetary policy is not restraining the economy. Elsewhere, investors continued to assess the implications of the US Treasury’s expanded debt buyback program, which heightened concerns about the risks of a US debt crisis and potential dollar weakness."
     }
   ]
 }
