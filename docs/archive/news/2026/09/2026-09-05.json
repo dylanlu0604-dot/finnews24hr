@@ -1,7 +1,155 @@
 {
   "date": "2026-09-05",
-  "count": 264,
+  "count": 280,
   "items": [
+    {
+      "id": "mkt:01a06dc3-02e4-7118-84ad-172c3ce16d07",
+      "time": "2026-09-05 02:51:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said interest-rate hikes do not ensure bond-market stability."
+    },
+    {
+      "id": "5078304",
+      "time": "2026-09-05 02:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們和墨西哥總統相處得非常融洽。"
+    },
+    {
+      "id": "5078303",
+      "time": "2026-09-05 02:51:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：哥倫比亞格林斯基集團與蓋璞克簽署委內瑞拉石油交易協議。"
+    },
+    {
+      "id": "5078302",
+      "time": "2026-09-05 02:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在我看來，加息並不能給債券市場帶來保障。"
+    },
+    {
+      "id": "5078301",
+      "time": "2026-09-05 02:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：威特科夫、庫什納正攜方案前來，以求結束俄烏衝突。"
+    },
+    {
+      "id": "mkt:01a06dc1-c93c-7118-84ad-09646eeba92e",
+      "time": "2026-09-05 02:50:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said envoys Witkoff and Kushner will present Russia with a proposal to end the war."
+    },
+    {
+      "id": "5078300",
+      "time": "2026-09-05 02:49:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：我預計 “讓美國再次偉大公司” 今年會有資金結餘。"
+    },
+    {
+      "id": "5078299",
+      "time": "2026-09-05 02:49:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及中期選舉：將投入所需資金以助力我方。"
+    },
+    {
+      "id": "5078298",
+      "time": "2026-09-05 02:49:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：依託 “讓美國再次偉大公司”，我可支配的資金約有 10 億美元。"
+    },
+    {
+      "id": "5078297",
+      "time": "2026-09-05 02:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西規劃部長：我們將採取符合既定初級財政目標的措施，放緩強制性支出的增長速度。"
+    },
+    {
+      "id": "mkt:01a06dc0-7829-7118-84ad-00f6472ab0b6",
+      "time": "2026-09-05 02:48:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US President Trump says US interest rates should be cut to 1% or even 0.5%."
+    },
+    {
+      "id": "mkt:01a06dc0-42cd-7118-84ac-fb4a5f2d5a79",
+      "time": "2026-09-05 02:48:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP says he will allocate $400–500 mln from a super PAC for midterm election spending."
+    },
+    {
+      "id": "5078296",
+      "time": "2026-09-05 02:48:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將從超級政治行動委員會調撥4億至5億美元用於中期選舉開支。"
+    },
+    {
+      "id": "mkt:01a06dbf-d4a4-7118-84ac-f09eb741e64c",
+      "time": "2026-09-05 02:48:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US has 'basically taken over' Iran, may soon strike Gaoshan】President Trump told reporters at the White House on Friday the US sank \"many ships\" through the Strait of Hormuz overnight, is moving large volumes of oil out and controls the strait. He said the US may soon strike Gaoshan and is ready to act; any deterioration in Iran's situation would be met with a heavy response. Trump said the US has \"basically taken over\" Iran and described the Iran issue as a military skirmish rather than a war."
+    },
+    {
+      "id": "5078295",
+      "time": "2026-09-05 02:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將在中期選舉投入大量資金。"
+    },
+    {
+      "id": "mkt:01a06dbf-8b14-7118-84ac-e86d70fa9a2b",
+      "time": "2026-09-05 02:47:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said the United States has the right to refrain from trading with financially elite countries."
+    },
     {
       "id": "5078294",
       "time": "2026-09-05 02:47:09",
