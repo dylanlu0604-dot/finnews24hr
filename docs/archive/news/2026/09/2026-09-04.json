@@ -1,7 +1,603 @@
 {
   "date": "2026-09-04",
-  "count": 635,
+  "count": 700,
   "items": [
+    {
+      "id": "mkt:01a069fc-8f05-7118-8493-10a2170f7ecb",
+      "time": "2026-09-04 09:15:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 1.28% at 25,467, trading at a 254-point premium to the cash index."
+    },
+    {
+      "id": "5076522",
+      "time": "2026-09-04 09:15:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委召開“十五五”規劃《綱要》重大工程建設推進會議 排程109項重大工程專案實施】2026年9月3日，國家發展改革委黨組成員、副主任嶽修虎同志主持召開“十五五”規劃《綱要》重大工程建設推進會議，排程109項重大工程建設進展，加快推進在建專案實施，推動一批新專案儘早開工建設，進一步強化要素保障，壓實專案質量和安全管理責任，形成共同推進重大工程建設合力，為實現“十五五”良好開局提供有力支撐。教育部、科技部、工業和資訊化部、生態環境部、交通運輸部、水利部、農業農村部分別作了發言。國家發展改革委、民政部、自然資源部、住房城鄉建設部、國家衛生健康委、國家能源局、國家資料局有關司局負責同志參加會議。"
+    },
+    {
+      "id": "mkt:01a069fc-5f6d-7118-8493-0878f34da74b",
+      "time": "2026-09-04 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "SoftBank Group sold ¥1 trillion of seven-year retail bonds at a 4.75% coupon."
+    },
+    {
+      "id": "5076521",
+      "time": "2026-09-04 09:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7787，較上日調高20點】人民幣兌美元中間價報6.7787，較上日調高20點。"
+    },
+    {
+      "id": "5076520",
+      "time": "2026-09-04 09:15:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華是科技成立智慧科技公司 含AI及物聯網業務】企查查APP顯示，近日，安慶華是智慧科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧基礎軟體開發；物聯網應用服務；物聯網技術服務等。企查查股權穿透顯示，該公司由華是科技全資持股。"
+    },
+    {
+      "id": "5076519",
+      "time": "2026-09-04 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7787元。"
+    },
+    {
+      "id": "5076518",
+      "time": "2026-09-04 09:15:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華是科技成立智慧科技公司 含AI及物聯網業務】企查查APP顯示，近日，安慶華是智慧科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧基礎軟體開發；物聯網應用服務；物聯網技術服務等。企查查股權穿透顯示，該公司由華是科技全資持股。"
+    },
+    {
+      "id": "5076517",
+      "time": "2026-09-04 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲1.27%，報25460.54點，高水247.23點。"
+    },
+    {
+      "id": "5076516",
+      "time": "2026-09-04 09:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【保時捷將把純電動718整合至現有911內燃機車型生產線】9月3日，保時捷宣佈，現年49歲的Christian Friedl於2026年9月1日起出任保時捷全球執行董事會成員，主管生產與物流。他接替按計劃退休的瑞慕德（Albrecht Reimold），後者執掌該部門已逾十載。在新職位上，Friedl負責保時捷全球生產與物流網路，涵蓋祖文豪森和萊比錫的生產基地，以及馬來西亞的CKD生產。Friedl及其團隊即將在祖文豪森生產基地迎接一項挑戰：將全新純電動718車型整合到現有911內燃機車型的生產線中。未來，不同動力傳動系統的多種車型將在同一條生產線上共線生產。"
+    },
+    {
+      "id": "5076515",
+      "time": "2026-09-04 09:14:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達洽談向Thinking Machines Lab投資約 25 億美元】現有投資方安德森・霍洛維茨基金向其他潛在投資者透露，由前 OpenAI 技術長米拉・穆拉蒂執掌的人工智慧企業Thinking Machines Lab，正洽談一輪融資，擬募資 50‑60 億美元，投前估值至少 400 億美元。這家在Thinking Machines Lab佔有董事會席位的投資機構表示，預計英偉達將出資約半數資金。此舉將延續英偉達的一系列佈局，藉此擴大其在開源人工智慧開發者群體中的影響力，其中就包括斥資 129 億美元收購開源模型供應商 Hugging Face。目前尚不清楚英偉達這筆資金，是否就是這家晶片企業 3 月所稱將向思維機器實驗室進行的那筆規模 “可觀” 但未披露具體數額的投資。英偉達當時表示，計劃與Thinking Machines Lab建立 “長期、吉瓦級的戰略合作伙伴關係”，外界認為這大機率是幫助這家初創企業獲取英偉達緊俏的 AI 伺服器晶片。"
+    },
+    {
+      "id": "5076514",
+      "time": "2026-09-04 09:12:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京順義低密地塊鏖戰174輪 華潤83億元摘得】9月3日，北京土地市場迎來地塊拍賣，兩宗原定出讓的地塊走出了截然不同的結果。其中，朝陽區將臺駝房營地塊宣佈暫停出讓，而順義後沙峪溫榆河地塊則歷經174輪競價，由華潤置地以82.993億元斬獲。"
+    },
+    {
+      "id": "mkt:01a069f8-f7e2-7118-8493-039172b7bd5b",
+      "time": "2026-09-04 09:11:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) is reportedly in talks to invest $2.5 bln in Thinking Machines Lab."
+    },
+    {
+      "id": "5076513",
+      "time": "2026-09-04 09:11:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久吾高科：公司膜產品可用於半導體超純水生產過程 對主營業務收入影響較小】 久吾高科(300631)9月4日在互動平臺表示，公司膜產品可以用於半導體超純水生產過程，但該類業務規模及對主營業務收入影響較小。"
+    },
+    {
+      "id": "te:economy:581081",
+      "time": "2026-09-04 09:10:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Philippine Industrial Output Growth at 5-Month Low — Manufacturing production in the Philippines rose by 9.6% year-on-year in July 2026, marking the softest growth since February and slowing from an upwardly revised 13.9% gain in the previous month. The slowdown was largely driven by a sharp moderation in the manufacture of coke and refined petroleum products (47.2% vs 89.3% in June), alongside slower growth in computer, electronic and optical products (17.2% vs 22.8%), food products (2.8% vs 4.4%), and transport equipment (6.5% vs 7.8%). At the same time, output declined for chemicals and chemical products (-19.0% vs -11.8%), machinery and equipment excluding electrical (-16.5% vs -17.0%), and pharmaceutical products (-10.8% vs 5.9%). On the other hand, production accelerated in basic metals (24.2% vs 22.8%), furniture (23.9% vs 66.6%), leather and related products (35.4% vs 21.7%), and apparel (10.4% vs -2.3%). For the January-July period, industrial activity grew by 8.6%, compared with the corresponding period a year earlier."
+    },
+    {
+      "id": "5076512",
+      "time": "2026-09-04 09:09:13",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【丁薛祥出席第十一屆東方經濟論壇全會並致辭】當地時間2026年9月3日，中共中央政治局常委、國務院副總理丁薛祥在俄羅斯符拉迪沃斯託克出席第十一屆東方經濟論壇全會，並發表題為“深化中俄地區合作 增進兩國人民福祉”的致辭。\n\n丁薛祥表示，東方經濟論壇是各國共商合作、共謀發展的重要平臺。習近平主席先後兩次應普京總統邀請出席論壇並發表重要致辭，系統闡述中方關於東北亞區域合作的主張，在國際社會引起廣泛共鳴。這些年，在兩國元首戰略引領下，中俄“東北－遠東”等地區合作取得豐碩成果。中國穩居俄遠東地區最大貿易伙伴地位，中方積極支援俄遠東地區“一區一港”建設、入駐企業近百家，重點合作專案加速推進，相互免籤政策促進邊境口岸“人貨兩旺”，兩國人民幸福感、獲得感持續提升。\n\n丁薛祥指出，習近平主席同普京總統年內多次會晤，為深化中俄新時代全面戰略協作夥伴關係和雙方全方位合作提供戰略指引。中方願同俄方一道，全面落實兩國元首重要共識，推動地區合作向著更深層次、更高水平發展，為中俄關系健康穩定發展注入新的動力。\n\n丁薛祥提出4點建議。一是促進普惠包容發展，讓人民更好共享發展成果。加強共建“一帶一路”同歐亞經濟聯盟建設對接合作，深化東北振興與遠東開發戰略對接，貼近民生需求，加強地區間相互支援，謀劃發展特色產業，讓兩國民眾在發展振興中得到更多實惠。二是營造良好營商環境，便利各類經營主體投資興業。落實好新版《中俄投資合作規劃綱要》和升級版《中俄促進和相互保護投資協定》，及時幫助企業解決關切問題，保持政策連續穩定，為企業發展創造有利條件。三是加強友好往來，夯實民心相通根基。深化文化、旅遊、教育、青年等領域交流合作，開展好“中俄教育年”各項活動，讓兩國人民在友好交往中賡續傳統友誼、更加相知相親。四是維護地區和平穩定，建設人民美好家園。共同捍衛聯合國憲章宗旨和國際公平正義，阻遏挑戰二戰勝利成果和戰後國際秩序的行徑，攜手將本地區建設成為和諧安寧的共同家園。 （外交部）"
+    },
+    {
+      "id": "mkt:01a069f5-bff7-7118-8492-fb57caabcedc",
+      "time": "2026-09-04 09:08:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump Friday schedule (Beijing time)】All times Beijing time. Sept 4 20:00 — Trump at the White House handling administrative duties; Sept 5 00:30 — policy meeting in the Oval Office; Sept 5 01:30 — sign an executive order at the White House; time TBC — depart the White House for Bedminster, New Jersey; time TBC — arrive in Bedminster, New Jersey."
+    },
+    {
+      "id": "mkt:01a069f5-86a2-7118-8492-f2dd2ee956ec",
+      "time": "2026-09-04 09:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Ding Xuexiang at 11th Eastern Economic Forum plenary in Vladivostok】On Sept. 3, 2026 in Vladivostok, Chinese Politburo Standing Committee member and Vice Premier Ding Xuexiang told the 11th Eastern Economic Forum plenary that, despite a complex external environment, China’s economy has been broadly stable this year, with growth shifting to new drivers and an improving structure, showing strong resilience and vitality. He said China has the confidence, ability and conditions to sustain stable, healthy growth and to secure a good start to the 15th Five‑Year Plan. Ding reiterated Beijing’s commitment to expanding high‑level opening-up, invited foreign firms to continue investing and deepening operations in China, and called for deeper China‑Russia regional cooperation."
+    },
+    {
+      "id": "mkt:01a069f4-e0be-7118-8492-e97a9d35d169",
+      "time": "2026-09-04 09:07:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "A U.S. National Highway Traffic Safety Administration (NHTSA) spokesperson said the agency is in contact with Tesla (TSLA.O) about the Cybercab launch and is 'assessing the situation'."
+    },
+    {
+      "id": "5076511",
+      "time": "2026-09-04 09:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國汽車安全監管機構國家公路交通安全管理局（NHTSA）發言人稱，該機構正就無人駕駛計程車Cybercab的推出事宜與特斯拉“保持聯絡”，目前“正在評估相關情況”。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609043864810868",
+      "time": "2026-09-04 09:06:51",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃勒“鴿聲”砸落美債收益率！今晚焦點轉向美國非農資料】在央行官員表態之外，週四公佈的美國經濟資料則整體喜憂參半。單週初請失業金人數仍維持在疫情後區間的低位附近。8月服務業活動指數增幅超出預期，但其就業分項指數連續第二個月萎縮，且支付價格指數升至四年高點。目前，除了通脹表現，美聯儲的政策預期還取決於勞動力市場的狀況，美國勞工部於今晚釋出的8月非農就業報告將對此提供更清晰的說明。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609043864810868",
+      "time": "2026-09-04 09:06:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【沃勒“鴿聲”砸落美債收益率！今晚焦點轉向美國非農資料】在央行官員表態之外，週四公佈的美國經濟資料則整體喜憂參半。單週初請失業金人數仍維持在疫情後區間的低位附近。8月服務業活動指數增幅超出預期，但其就業分項指數連續第二個月萎縮，且支付價格指數升至四年高點。目前，除了通脹表現，美聯儲的政策預期還取決於勞動力市場的狀況，美國勞工部於今晚釋出的8月非農就業報告將對此提供更清晰的說明。"
+    },
+    {
+      "id": "5076510",
+      "time": "2026-09-04 09:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【下週將有3只新股發行，預計合計募資31.33億元】Wind資料顯示，下週（9月7日-9月11日）將有3只新股發行，其中滬市主機板有1只，創業板有1只，北交所有1只，合計發行約3.32億股，預計合計募資31.33億元。具體來看，9月10日發行的是中塑股份；9月7日發行的是百瑞吉；9月8日發行的是沈鼓集團。此外，下週還有2只新股上市。"
+    },
+    {
+      "id": "5076509",
+      "time": "2026-09-04 09:06:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：支援餐飲門店升級改造 支援連鎖超市直營門店升級改造】北京市商務局釋出關於申報2026年促進餐飲、超市等業態高質量發展專案的通知。支援方向和內容： （一）支援便民商業進文旅體博展場所。支援在市屬或區屬公園、公共體育場館、演出場所、博物館、萬平方米以上會展場館、等級景區等文旅體博展場所內新建餐飲門店、連鎖便利店門店，滿足大眾消費需要，支援內容包括店面裝修、硬體裝置購置支出。 （二）支援老字號餐飲發展。支援經認定的“中華老字號”“北京老字號”的本市老字號餐飲企業新建或改造升級餐飲門店，支援內容包括店面裝修、硬體裝置購置支出。 （三）支援餐飲門店升級改造。支援餐飲門店升級改造，支援內容包括店面裝修、硬體裝置購置支出。 （四）支援新建或升級改造中央廚房（主食加工配送中心）。支援企業新建或升級改造中央廚房（主食加工配送中心），支援內容包括裝修、硬體裝置購置支出。 （五）支援連鎖超市直營門店升級改造。支援連鎖超市直營門店升級改造，支援內容包括店面裝修、數字化改造、農超對接改造、硬體裝置購置支出。"
+    },
+    {
+      "id": "5076508",
+      "time": "2026-09-04 09:05:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報6580.00元。"
+    },
+    {
+      "id": "5076507",
+      "time": "2026-09-04 09:05:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科天迅啟動IPO輔導】證監會網站披露，北京國科天迅科技股份有限公司於2026年9月3日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國信證券。輔導備案報告顯示，房亮直接持有該公司9.59%的股份，並透過天迅同道、天迅同行、天迅同芯間接控制公司12.60%的股份，合計控制公司22.19%的股權，為公司實際控制人。"
+    },
+    {
+      "id": "5076506",
+      "time": "2026-09-04 09:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：黃海部分海域進行軍事演練】據中國海事局網站訊息，日照海事局釋出航行警告，9月5日8時至8日8時，黃海部分海域進行軍事演練，禁止駛入。"
+    },
+    {
+      "id": "5076505",
+      "time": "2026-09-04 09:04:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國KB Securities：三星電子的營業利潤預計將在今年第三和第四財季均超過100萬億韓元，延續其始於2025年第四財季的創紀錄季度盈利勢頭。"
+    },
+    {
+      "id": "mkt:01a069f1-74f7-7118-8492-e1cdf00fdec0",
+      "time": "2026-09-04 09:03:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Guoke Tianxun launches IPO counseling】CSRC website shows Beijing Guoke Tianxun Technology Co. filed for IPO counseling registration with the Beijing Securities Regulatory Bureau on Sept 3, 2026, seeking an initial public offering and listing; counseling sponsor is Guosen Securities. The filing shows Fang Liang directly holds 9.59% and, via Tianxun Tongdao, Tianxun Tongxing and Tianxun Tongxin, indirectly controls 12.60%, totaling 22.19%, and is identified as the company’s actual controller."
+    },
+    {
+      "id": "5076504",
+      "time": "2026-09-04 09:02:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化銷售股份有限公司上海石油分公司原黨委委員李瑛接受審查調查】中央紀委國家監委網站9月4日通報，據中央紀委國家監委駐中國石化紀檢監察組、上海市紀委監委訊息：中國石化銷售股份有限公司上海石油分公司原黨委委員、副總經理、總會計師李瑛涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國石化紀檢監察組紀律審查和上海市黃浦區監察委員會監察調查。"
+    },
+    {
+      "id": "5076503",
+      "time": "2026-09-04 09:02:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【推進內外貿產品同線同標同質 市場監管總局徵求意見】記者昨天（3日）瞭解到，市場監管總局起草《關於深入推進內外貿產品同線同標同質促進消費擴容提質的實施意見（徵求意見稿）》，即日起開始徵求意見。徵求意見稿明確了同線同標同質產品也就是被稱為“三同”產品的定位，是指在同一企業生產、執行國內國際相容的標準和質量管理要求，可以同時適配境外目標市場出口和國內市場銷售的高品質產品。徵求意見稿同時制定“三同”產品評估規則，制定統一的“三同”產品標識，明確各地商務主管部門支援企業參與“外貿優品中華行”活動，鼓勵透過內外貿一體化綜合服務平臺或者“三同”企業服務平臺為企業提供集中展示、渠道對接、市場推廣等服務，提升“三同”產品的認可度和影響力。（央視）"
+    },
+    {
+      "id": "mkt:01a069ef-654b-7118-8492-d9a971028159",
+      "time": "2026-09-04 09:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan weighted index (TAIEX) opened 699.27 points higher, up 1.52%, at 46,556.93 on Friday, Sept. 4."
+    },
+    {
+      "id": "5076502",
+      "time": "2026-09-04 09:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1425.50美元/盎司。"
+    },
+    {
+      "id": "5076501",
+      "time": "2026-09-04 09:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.3%至46,473.31點。"
+    },
+    {
+      "id": "mkt:01a069ee-e7da-7118-8492-d584ae8e4822",
+      "time": "2026-09-04 09:00:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Sept 4 early trade: Shanghai Gold Exchange Gold T+D +1.75% at 968.71 yuan/gram; Silver T+D +1.85% at 16,280 yuan/kg."
+    },
+    {
+      "id": "5076500",
+      "time": "2026-09-04 09:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太原能源低碳發展論壇國際圓桌對話會舉行】據山西日報，9月3日下午，2026年太原能源低碳發展論壇國際圓桌對話會舉行，山西省委書記唐登傑出席並致辭。唐登傑說，山西將堅決貫徹能源安全新戰略，著力構建新型能源體系，協同推進能源轉型與生態環境高水平保護，努力在轉型發展中實現高質量發展、可持續發展。真誠希望與各方一道，以太原能源低碳發展論壇舉辦十週年為重要契機，持續深化高階對話，積極對接全球發展倡議，在互學互鑑中匯聚更多務實可行、可複製可推廣的綠色解決方案，不斷拓展綠色低碳領域交流合作，共同培育能源新質生產力，攜手實現共贏發展。"
+    },
+    {
+      "id": "mkt:01a069ee-6f8b-7118-8492-c8900aec5cfa",
+      "time": "2026-09-04 09:00:28",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 Index futures opened 0.44% higher."
+    },
+    {
+      "id": "5076499",
+      "time": "2026-09-04 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報45,991.28。"
+    },
+    {
+      "id": "5076498",
+      "time": "2026-09-04 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5746.00元。"
+    },
+    {
+      "id": "5076497",
+      "time": "2026-09-04 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續漲4.02%，液化石油氣連續漲3.38%，白銀連續漲2.98%，矽鐵連續漲2.78%，鉑連續漲2.25%，黃金連續漲2.17%，純苯連續漲2.09%。"
+    },
+    {
+      "id": "5076496",
+      "time": "2026-09-04 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.47%。"
+    },
+    {
+      "id": "te:markets:581077",
+      "time": "2026-09-04 08:59:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Edge Higher, Weekly Loss Looms — Australian stocks added 18 points or 0.2% to 9,037 in early trade on Friday, building gains from the prior session following overnight gains on Wall Street as Treasury yields pulled back after Fed Waller said he’d be “inclined to support” holding rates steady barring any surprises in upcoming inflation data. Locally, August services growth was revised higher amid improving confidence that came close to its level before the outbreak of war in the Middle East. Most sectors advanced, led by non-energy minerals, tech, and healthcare. Among major performers were Cochlear Ltd. (2.9%), Perseus Mining (2.1%), and JB Hi-Fi Ltd. (1.5%). The four big banks added between 0.4% and 1.0%. For the week, however, domestic markets are on track to post a decline, down around 0.7% so far following prior gains, dragged by worries that the Reserve Bank may deliver another rate hike at its meeting later this month following stronger-than-expected Q2 GDP data."
+    },
+    {
+      "id": "5076495",
+      "time": "2026-09-04 08:58:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久吾高科：公司膜產品可用於半導體超純水生產 但業務規模較小】久吾高科9月4日在互動平臺表示，公司膜產品可以用於半導體超純水生產過程，但該類業務規模及對主營業務收入影響較小。"
+    },
+    {
+      "id": "5076494",
+      "time": "2026-09-04 08:58:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【沙特10月旗艦原油阿拉伯輕質油報價維持不變】儘管地區衝突持續打擊，中東整體市場走強，沙烏地阿拉伯仍維持下月旗艦原油品級價格不變。根據沙特阿美報價單，這家國有石油企業將10月發往亞洲的阿拉伯輕質原油價格維持不變，較基準原油貼水2美元/桶。媒體對交易員與煉油商開展調查的中位預期為上調5美元/桶，本次定價結果與市場預期相悖。據媒體看到的一份檔案顯示，沙特阿美公佈的價格適用於在波斯灣內拉斯坦努拉港裝船的原油貨運。買家還需要告知沙特阿美，“倘若霍爾木茲海峽持續封航”，他們希望從延布港或是西迪基里爾港提取多少阿拉伯輕質原油。"
+    },
+    {
+      "id": "mkt:01a069ec-5a63-7118-8492-c19b765667a1",
+      "time": "2026-09-04 08:58:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Tesla says Cybercab to make first China public appearance; not tied to sales or commercial autonomous ride-hailing ops】On Sept. 3 Tesla said its Cybercab autonomous vehicle has entered service in Austin, Texas and will be exhibited publicly in Beijing, Shanghai and other Chinese cities from mid-September. Tesla described the displays as product and technology demonstrations and said they do not indicate Cybercab launch, sales in China or arrangements for commercial autonomous ride‑hailing operations there."
+    },
+    {
+      "id": "5076493",
+      "time": "2026-09-04 08:57:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天原股份：天原鋰電新材鈉電正極材料中試定型，已送下游客戶測試】天原股份9月4日在互動平臺表示，天原鋰電新材鈉電正極材料中試定型，已送下游客戶測試。"
+    },
+    {
+      "id": "5076492",
+      "time": "2026-09-04 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西省與中央企業深化合作座談會舉行】據山西日報，9月3日下午，山西省與中央企業深化合作座談會在太原舉行，就進一步深化央地合作、促進共贏發展進行深入交流。山西省委書記唐登傑出席並講話。唐登傑說，希望廣大央企充分發揮人才、技術、資金、管理、市場等方面優勢，圍繞能源轉型、產業升級、科技創新、生態環保、基礎設施建設等領域，持續深化與山西的交流合作，進一步加大在晉資源投入和專案佈局，攜手譜寫合作共贏新篇章。山西將健全和落實好央地合作機制，持續提升服務效能，為廣大央企在晉投資興業營造良好環境。"
+    },
+    {
+      "id": "5076491",
+      "time": "2026-09-04 08:56:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【284股獲融資買入超億元，中際旭創穫買入17.25億元居首】A股9月3日共有3853只個股獲融資資金買入，有284股買入金額超億元。其中，中際旭創、中國巨石、兆易創新融資買入金額排名前三，分別獲買入17.25億元、10.89億元、10.38億元。從融資買入額佔當日總成交金額比重來看，有3只個股融資買入額佔比超30%。其中成大生物、魯泰A、華神科技融資買入額佔成交額比重排名前三，分別為33.47%、31.34%、30.64%。從融資淨買入金額來看，有17只個股獲融資淨買入超億元。其中，寧德時代、中國巨石、麥格米特融資淨買入金額排名前三，分別獲淨買入3.49億元、2.87億元、2.52億元。"
+    },
+    {
+      "id": "5076490",
+      "time": "2026-09-04 08:56:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國加速政府機構搬離首爾】綜合韓聯社、《京鄉新聞》等韓媒報道，韓國政府3日公佈行政和公共機構搬遷計劃，明年上半年起將首都圈中央行政部門陸續遷往世宗市，以緩解首都圈人口和資源過度集中，提高行政效率。 韓國政府還將對首都圈約350家公共機構進行全面梳理，按照“儘量不留在首都圈”的原則，於今年四季度確定並公佈搬遷名單，2027年正式啟動搬遷。為加快進度，部分機構可先租用民間建築辦公，不必等待新樓建成。政府還將增加搬遷和住房補貼，改善教育、醫療等生活條件，幫助機構工作人員及其家屬在遷入地長期定居。 韓國國務總理韓聖淑表示，首都圈“一極化”和國土發展失衡，是韓國諸多經濟社會問題的重要根源，均衡發展已不是可選項，而是關係國家可持續發展的“生存戰略”。此次搬遷也旨在解決中央部門分散辦公造成的行政低效。目前韓國多數中央部門已遷至世宗市，但法務部等仍留在首爾，國會和總統辦公室也主要設在首爾。（環球時報）"
+    },
+    {
+      "id": "te:markets:581075",
+      "time": "2026-09-04 08:56:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Advances as Greenback Weakens — The New Zealand dollar rose to around $0.589 on Friday, extending gains from the previous session as the US dollar came under pressure following comments from Federal Reserve Governor Christopher Waller. Waller said he would support leaving interest rates unchanged if inflation pressures continued to ease, prompting investors to trim bets on a Fed rate hike later this month. Traders are now looking to US jobs data due later today for fresh clues on the Fed’s policy outlook. On the domestic policy front, the Reserve Bank of New Zealand raised interest rates for a second consecutive meeting earlier this week but signalled a less aggressive path for further tightening. This has led traders to increasingly expect the central bank to hold rates at its next meeting in October, limiting the kiwi’s upside. Despite its recent gains, the kiwi is down 0.5% this week, on track for a second straight weekly loss."
+    },
+    {
+      "id": "mkt:01a069ea-4678-7118-8492-bf9b35975087",
+      "time": "2026-09-04 08:55:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs expects U.S. natural gas demand growth will tighten the market balance by 2029, supporting prices in the high-$3/MMBtu range."
+    },
+    {
+      "id": "5076489",
+      "time": "2026-09-04 08:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特斯拉：Cybercab將迎來國內首次公開亮相 不涉及無人駕駛網約車商業運營安排】當地時間9月3日，特斯拉宣佈賽博無人駕駛電動車Cybercab正式在美國奧斯汀投入運營。此外，記者從特斯拉獲悉，Cybercab將於9月中旬開始，在北京、上海等多個城市陸續展出，迎來國內首次公開亮相。此次活動旨在展示其產品設計與技術理念，不涉及Cybercab在中國市場的上市銷售或無人駕駛網約車商業運營安排。"
+    },
+    {
+      "id": "5076488",
+      "time": "2026-09-04 08:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度《經濟時報》報道，印度信實工業旗下的數字與電信巨頭 Jio Platforms計劃於10月底或11月初在印度啟動IPO。"
+    },
+    {
+      "id": "5076487",
+      "time": "2026-09-04 08:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海信成為2028歐洲盃全球官方合作伙伴】當地時間9月3日，歐足聯與海信聯合宣佈，海信正式成為2028歐洲盃全球官方合作伙伴。"
+    },
+    {
+      "id": "5076486",
+      "time": "2026-09-04 08:52:07",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：美國天然氣需求增長可能要到2029年才會讓供需平衡收緊到足以支撐天然氣價格升至每百萬英熱單位3美元上方的水平。"
+    },
+    {
+      "id": "mkt:01a069e6-034c-7118-8492-b591c2983f6a",
+      "time": "2026-09-04 08:51:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs cuts its 2027 NYMEX natural gas price forecast to $2.80/MMBtu from $3.50/MMBtu."
+    },
+    {
+      "id": "5076485",
+      "time": "2026-09-04 08:50:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：將2027年紐約商品交易所天然氣價格預測下調至每百萬英熱單位2.80美元（此前預測為3.50美元）。"
+    },
+    {
+      "id": "5076484",
+      "time": "2026-09-04 08:49:56",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國將致力於防範債券市場出現過度波動】韓國財政部在週五由部長具允哲主持金融市場研判會議後釋出宣告稱，韓國監管部門將密切監控國內債券市場，實施平穩管控，防範市場劇烈波動。官員評估認為，主權債券發行量增加、全球人工智慧企業發行公司債，疊加主要經濟體加息預期，以及中東局勢緊張推高油價，利率上行壓力持續存在。韓國將把原定上調的上市公司最低市值門檻推遲 6 個月執行；同時允許符合條件、面臨退市風險的企業，無需經過清算交易期即可轉板至韓國科斯達克中小企業市場（KONEX）。"
+    },
+    {
+      "id": "5076483",
+      "time": "2026-09-04 08:48:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【康寧等四家美企承諾向韓國半導體材料、海上風電等領域共投資20億美元】韓國產業通商資源部9月4日釋出宣告稱，四家美國公司已承諾向韓國半導體材料、裝置、顯示用先進材料和海上風電領域共計投資20億美元。具體而言，Air Products將在平澤推進半導體用氣體供應設施擴建專案；半導體離子注入裝置製造商Axcelis將在韓國擴大生產設施；康寧將擴大在韓製造能力，並繼續擴大韓國業務；Pacifico Energy將在光州地區啟動3.2GW規模的海上風電專案。"
+    },
+    {
+      "id": "5076482",
+      "time": "2026-09-04 08:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少40.37億元】截至9月3日，上交所融資餘額報13427.64億元，較前一交易日減少22.46億元；深交所融資餘額報12762.74億元，較前一交易日減少17.91億元；兩市合計26190.38億元，較前一交易日減少40.37億元。"
+    },
+    {
+      "id": "mkt:01a069e3-64c9-7118-8492-ac276328ac5f",
+      "time": "2026-09-04 08:48:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing balances fall CNY4.037 bln to CNY2.619 tln on Sept. 3】As of Sept. 3, Shanghai Stock Exchange margin financing stood at CNY1.342764 tln, down CNY2.246 bln from the prior trading day; Shenzhen Stock Exchange at CNY1.276274 tln, down CNY1.791 bln. Combined margin financing was CNY2.619038 tln, down CNY4.037 bln."
+    },
+    {
+      "id": "5076481",
+      "time": "2026-09-04 08:48:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理：美國加徵關稅是“誤判” 將實施對等反制措施】加拿大總理卡尼3日表示，美國近期對加拿大商品加徵關稅是“誤判”。加拿大將繼續在貿易談判中爭取取消這些“不合理的關稅”，並按計劃對美國採取對等反制措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a069e2-22bf-7118-8492-a4bdb7fe6075",
+      "time": "2026-09-04 08:47:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Missouri Supreme Court bars Republican-drawn congressional map for November midterms】On Sept. 3, the Missouri Supreme Court ruled the Republican-drawn congressional map cannot be used in the November midterm elections. The decision reduces Republicans' chances of retaining their slim U.S. House majority. Sources say the ruling may preserve veteran Democratic Rep. Emanuel Cleaver’s seat after the earlier map split his Kansas City district."
+    },
+    {
+      "id": "5076480",
+      "time": "2026-09-04 08:46:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國密蘇里州最高法院叫停共和黨劃定的國會選區圖】當地時間9月3日，記者獲悉，美國密蘇里州最高法院當日裁定，禁止在11月的中期選舉中使用由共和黨劃定的新國會選區圖。這對共和黨保住其在美國眾議院微弱多數席位的勝算構成了一次打擊。有訊息稱，這一裁決可能保住資深民主黨聯邦眾議員伊曼紐爾·克利弗的席位。根據此前重新劃分的選區圖，他原本代表的堪薩斯城選區已被拆分。"
+    },
+    {
+      "id": "mkt:01a069e1-f105-7118-8492-9aa3a4c36602",
+      "time": "2026-09-04 08:46:49",
+      "tags": [
+        "MKT News",
+        "MRK.O",
+        "Impact bullish"
+      ],
+      "text": "【Merck pembrolizumab approved in China for resectable locally advanced head‑and‑neck SCC】September 4 — Merck said China’s NMPA approved its PD‑1 inhibitor pembrolizumab for adults with resectable locally advanced head‑and‑neck squamous cell carcinoma whose tumors express PD‑L1 (combined positive score CPS ≥1) by a validated test. Approval covers single‑agent neoadjuvant use, postoperative adjuvant radiotherapy with or without cisplatin, and continued pembrolizumab monotherapy thereafter."
+    },
+    {
+      "id": "mkt:01a069e1-78a8-7118-8492-943b8174a25d",
+      "time": "2026-09-04 08:46:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FHFA Director Pulte said the agency is seriously considering a merger of the two credit bureaus and more robust resolution tools."
+    },
     {
       "id": "mkt:01a069e0-b8da-7118-8492-8ae0f1d05efd",
       "time": "2026-09-04 08:45:30",
