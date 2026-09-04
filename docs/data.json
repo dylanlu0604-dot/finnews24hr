@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-04 22:54:49",
-  "count": 14062,
+  "updated": "2026-09-04 22:59:03",
+  "count": 14071,
   "items": [
+    {
+      "id": "5078032",
+      "time": "2026-09-04 22:58:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【多頭了結、俄烏有望結束衝突，國際油價承壓下行】在美國假日週末來臨之際，投資者了結部分原油多頭頭寸；同時俄烏衝突出現有望結束的罕見進展，進一步削弱了地緣政治風險溢價，油價隨之走低。經歷一週接連不斷的相互打擊後，中東夜間敵對態勢暫時緩和。週五，美國西得克薩斯輕質原油（WTI）小幅下挫，交投於每桶90美元附近。勞動節假日週末前夕市場交投清淡，美伊衝突擾亂霍爾木茲海峽能源航運，不確定性猶存，投資者不願建立大規模頭寸。加拿大帝國商業銀行私人財富集團高階能源交易員麗貝卡・巴賓表示：“夜間軍事局勢趨於緩和，削弱了油價上行動能。疊加本週大幅上漲後的獲利了結，再加上市場流動性稀薄，多重因素共同施壓原油價格。”"
+    },
+    {
+      "id": "5078031",
+      "time": "2026-09-04 22:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流遇難人數升至1325人】根據尼泊爾警方公佈的最新資料，截至當地時間9月4日20時，尼泊爾泥石流災害造成的遇難人數升至1325人。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a06cec-e915-7118-84a8-dbbaf3ccb1de",
+      "time": "2026-09-04 22:57:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "SOXL",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【JP Morgan: Funds exit memory chips; semiconductors see renewed inflows】JP Morgan Delta-One team: last week US equity risk appetite rose but AI-related flows diverged. Semiconductor ETFs netted about $3.3bn of inflows while DRAM-linked products recorded roughly $900m of net outflows—the first weekly outflow since launch. Leveraged ETFs drew about $800m, including roughly $600m into SOXL; Korean assets saw outflows near one standard deviation. The team says this reflects profit-taking in memory and Korea-linked \"new AI\" names and a rotation into broader-coverage semiconductor stocks rather than an exit from AI exposure. Nasdaq-100 futures still showed near two-standard-deviation net buying, indicating overall tech risk appetite remains."
+    },
+    {
+      "id": "5078030",
+      "time": "2026-09-04 22:57:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%，創盤中新低。"
+    },
+    {
+      "id": "5078029",
+      "time": "2026-09-04 22:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：特斯拉奧斯汀部署專案引發調查，該局已展開調查。"
+    },
+    {
+      "id": "mkt:01a06ceb-9da5-7118-84a8-d6948a069337",
+      "time": "2026-09-04 22:56:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration (NHTSA) opens probe into Tesla Inc (TSLA.O) self-certification of Cybercab."
+    },
+    {
+      "id": "mkt:01a06ceb-2e68-7118-84a8-c9ef49d78e82",
+      "time": "2026-09-04 22:55:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morocco received 14.1 million inbound tourists from January through end‑August, up 4.5% YoY."
+    },
+    {
+      "id": "5078028",
+      "time": "2026-09-04 22:55:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）啟動針對特斯拉Cybercab自我認證行為的調查。"
+    },
+    {
+      "id": "5078027",
+      "time": "2026-09-04 22:55:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無錫市政府召開企業上市工作推進會】據無錫日報訊息，9月4日，無錫市政府召開全市企業上市工作推進會，總結回顧近年來工作，面對面傾聽企業意見建議，研究部署下階段重點任務。無錫市市長蔣鋒出席並講話，強調要把握機遇、主動應變、積極作為，全力推動企業上市和上市企業高質量發展，持續做大做優做強資本市場“無錫板塊”。"
+    },
+    {
+      "id": "5078026",
+      "time": "2026-09-04 22:55:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥 1 月至 8 月底遊客人數 1,410 萬人次，同比增長 4.5%。"
+    },
     {
       "id": "5078025",
       "time": "2026-09-04 22:53:41",
@@ -128730,18 +128826,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Turkish Lira Drops by 0.98% — Top currency losers are Turkish Lira (-0.98%), Brazilian Real (-0.80%), Swedish Krona (-0.48%), Japanese Yen (-0.30%), Euro (-0.30%) and British Pound (-0.15%). Gains are led by South Korean Won (0.37%) and Dollar Index (0.26%)."
-    },
-    {
-      "id": "te:economy:579171",
-      "time": "2026-08-28 22:56:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "UK Gilt Yields Hold Above 5% as Investors Digest Warsh's Remarks — UK 10-year gilt yields remained slightly above 5% as investors weighed hawkish comments from Fed Chair Kevin Warsh against lower Brent crude prices, which eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, potentially making the BoE more cautious about tightening policy in the near term."
     }
   ]
 }
