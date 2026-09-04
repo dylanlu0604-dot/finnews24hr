@@ -1,7 +1,48 @@
 {
   "date": "2026-09-05",
-  "count": 161,
+  "count": 166,
   "items": [
+    {
+      "id": "5078236",
+      "time": "2026-09-05 02:11:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【AI雲端計算公司Nscale據悉尋求35億美元IPO前融資】據知情人士透露，專注於人工智慧的雲端計算公司Nscale正與潛在投資者洽談，計劃在首次公開募股之前融資至多35億美元。知情人士稱，這家總部位於倫敦的公司正尋求向一批投資者出售至多15億美元的可轉換票據。由於相關資訊屬於機密，他們要求匿名。其中一位知情人士表示，Nscale還計劃從英偉達獲得約20億美元融資。此前報道稱，該公司的首次公開募股可能再籌集30億美元。部分知情人士稱，Daniel Loeb旗下的Third Point將牽頭這筆可轉換票據投資。知情人士還表示，高盛集團正在協助此次融資。知情人士稱，相關磋商仍在進行中，融資規模和投資者等細節可能發生變化，目前尚未作出最終決定。"
+    },
+    {
+      "id": "mkt:01a06d9d-55ab-7118-84ab-d510f6938819",
+      "time": "2026-09-05 02:10:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to court filings, veterans asked a judge to bar Trump from launching the Washington Arch project before it receives final approval."
+    },
+    {
+      "id": "5078235",
+      "time": "2026-09-05 02:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：退伍軍人要求法官阻止特朗普在未獲最終批准的情況下為華盛頓拱門動工的計劃。"
+    },
+    {
+      "id": "mkt:01a06d9b-fc0c-7118-84ab-c8f84a6cb14e",
+      "time": "2026-09-05 02:08:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's agriculture minister said EU inspectors, after completing checks, found Brazil's sanitary controls for poultry and honey satisfactory."
+    },
+    {
+      "id": "5078234",
+      "time": "2026-09-05 02:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西農業部長在一份宣告中表示，歐盟官員檢查後認定巴西的禽肉與蜂蜜衛生管控符合要求。"
+    },
     {
       "id": "5078233",
       "time": "2026-09-05 02:07:24",
