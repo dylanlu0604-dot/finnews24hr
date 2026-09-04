@@ -1,7 +1,87 @@
 {
   "date": "2026-09-05",
-  "count": 148,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:01a06d97-2e0e-7118-84ab-b9e49f166b94",
+      "time": "2026-09-05 02:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil exported 9.81 mln tonnes of soybeans in August, according to Brazilian government data, up from 9.33 mln tonnes a year earlier."
+    },
+    {
+      "id": "5078231",
+      "time": "2026-09-05 02:01:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國柴油零售價格創新高】美國成品油零售價格資訊服務機構“汽油夥伴”公司4日釋出的資料顯示，全美平均柴油零售價格3日創下歷史新高，突破2022年6月的紀錄。資料顯示，美國全國平均柴油售價3日升至每加侖5.848美元，超過2022年6月17日創下的每加侖5.819美元的高值，而去年同期全美平均柴油售價為每加侖3.7美元。“汽油夥伴”公司表示，雖然汽油價格經常受到新聞關注，但柴油對通脹和商業成本有更廣泛的影響。柴油為貨運卡車、火車、農業裝置和建築機械等提供動力，隨著柴油價格上漲，交通成本升高，通常導致消費品和服務價格上漲。“汽油夥伴”公司石油分析主管帕特里克·德哈恩說，柴油為經濟活動提供燃料，柴油價格創新高影響遠超運輸行業。供應鏈成本上漲會推高雜貨、居家用品、快遞服務等價格，給消費者帶來壓力。（新華社）"
+    },
+    {
+      "id": "5078230",
+      "time": "2026-09-05 02:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府資料顯示，巴西8月原油出口量為838萬噸，去年同期為887萬噸。"
+    },
+    {
+      "id": "5078229",
+      "time": "2026-09-05 02:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府資料顯示，8月巴西生咖啡出口量為206,617噸，去年同期出口量為142,886噸。"
+    },
+    {
+      "id": "5078228",
+      "time": "2026-09-05 02:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西 8 月出口額降至 331.58 億美元；預期 338.00 億美元。"
+    },
+    {
+      "id": "5078227",
+      "time": "2026-09-05 02:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西 8 月進口額降至 257.64 億美元；預期 265.33 億美元。"
+    },
+    {
+      "id": "5078226",
+      "time": "2026-09-05 02:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠普釋出全新OmniBook系列PC，助力打造新一代人工智慧體驗。"
+    },
+    {
+      "id": "mkt:01a06d94-33af-7118-84ab-b35db19a682d",
+      "time": "2026-09-05 02:00:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "【Tesla Cybercab update disappoints; shares fall over 6% intraday】Tesla (TSLA.O) shares fell more than 6% intraday on Friday after its Cybercab robotaxi update failed to meet Wall Street expectations, raising questions about its ability to compete with Waymo in the U.S. robotaxi market. The company held an invite-only event in Austin on Thursday with no livestream and CEO Elon Musk absent, saying users could hail Cybercab in a limited Austin area via the Tesla Robotaxi app. RBC said the event disclosed little new information — pricing, production cadence and regulatory approvals remain unresolved — and Wells Fargo called the rollout disappointing, citing early operational issues in Austin. The U.S. National Highway Traffic Safety Administration has opened a review to determine whether Cybercab complies with federal safety standards and has completed required safety certification. Tesla shares had risen 5.4% the day before the event."
+    },
+    {
+      "id": "5078225",
+      "time": "2026-09-05 02:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西 8 月貿易順差擴大至 73.94 億美元；預期 70.71 億美元  。"
+    },
     {
       "id": "mkt:01a06d8e-1405-7118-84ab-ac21b9341994",
       "time": "2026-09-05 01:53:42",
