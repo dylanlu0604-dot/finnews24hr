@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-05 02:20:22",
-  "count": 14066,
+  "updated": "2026-09-05 02:24:14",
+  "count": 14074,
   "items": [
+    {
+      "id": "mkt:01a06da8-d379-7118-84ac-22124fbae0a6",
+      "time": "2026-09-05 02:22:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the U.S. has absolutely no obligation to trade with countries that treat it badly."
+    },
+    {
+      "id": "mkt:01a06da8-2622-7118-84ac-1cd8c63d7c31",
+      "time": "2026-09-05 02:22:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump signed an order authorizing ranchers to protect cattle from gray wolves."
+    },
+    {
+      "id": "5078251",
+      "time": "2026-09-05 02:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：牧場主現在可以保護牛群免受墨西哥灰狼的侵害。"
+    },
+    {
+      "id": "mkt:01a06da7-f9c8-7118-84ac-1244a3d2e1f7",
+      "time": "2026-09-05 02:21:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The presiding judge said the Massachusetts Appeals Court denied Lindsay Clancy's last-minute motion to prevent the judge from declaring a mistrial."
+    },
+    {
+      "id": "5078250",
+      "time": "2026-09-05 02:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：還將簽署行政令，允許牧場主保護牛群。"
+    },
+    {
+      "id": "5078249",
+      "time": "2026-09-05 02:21:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "主審法官稱：馬薩諸塞州上訴法院駁回了林賽·克蘭西旨在阻止法官宣佈無效審判的緊急動議。"
+    },
+    {
+      "id": "mkt:01a06da6-b65b-7118-84ac-0ce4b1c1bf17",
+      "time": "2026-09-05 02:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he was frankly unsure whether large manufacturing firms would continue to exist."
+    },
+    {
+      "id": "mkt:01a06da6-5bbb-7118-84ac-002da86c817e",
+      "time": "2026-09-05 02:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said small, medium and large ranchers can sell directly to consumers."
+    },
+    {
+      "id": "te:markets:581396",
+      "time": "2026-09-05 02:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.56% — Top commodity losers are Lithium Carbonate (-2.56%), Silver (-1.58%) and Gold (-1.21%). Gains are led by Silicon (1.09%) and Steel Rebar (0.51%)."
+    },
     {
       "id": "te:markets:581395",
       "time": "2026-09-05 02:19:40",
@@ -128901,14 +128978,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Soars by 7.50% — Top commodity gainers are Cocoa (7.50%), Wheat (2.98%) and Oat (2.45%). Biggest losers are Sugar (-3.46%) and Butter (-1.11%)."
-    },
-    {
-      "id": "5065954",
-      "time": "2026-08-29 02:22:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：對於違反停火協議的行為絕不會姑息】伊朗外長阿拉格齊表示，對於違反停火協議的行為，我們絕不會姑息。我們不會允許敵人以一種讓違反協議成為習慣的方式行事，因此我們進行了反擊。談及埃及，他表示，伊朗與埃及之間不存在任何分歧。談及黎巴嫩，他表示，我們願與黎巴嫩政府建立良好關係。"
     }
   ]
 }
