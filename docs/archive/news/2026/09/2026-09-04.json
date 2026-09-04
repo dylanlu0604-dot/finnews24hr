@@ -1,7 +1,84 @@
 {
   "date": "2026-09-04",
-  "count": 1244,
+  "count": 1252,
   "items": [
+    {
+      "id": "mkt:01a06b09-190c-7118-8498-e7697bb7a4da",
+      "time": "2026-09-04 14:09:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active lithium carbonate contract fell more than 4.00% intraday, trading at 147,140 yuan/ton."
+    },
+    {
+      "id": "5076913",
+      "time": "2026-09-04 14:09:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股三大指數均轉跌，創業板指此前一度漲1.7%】A股三大指數均轉跌，創業板指此前一度漲1.7%，電子化學品、光刻機、半導體板塊跌幅居前。"
+    },
+    {
+      "id": "5076912",
+      "time": "2026-09-04 14:08:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖板塊震盪走弱，宏和科技跌停】玻纖板塊震盪走弱，宏和科技跌停，金安國紀、九鼎新材、山東玻纖、中國巨石、平安電工、中材科技等跟跌。"
+    },
+    {
+      "id": "mkt:01a06b08-2e37-7118-8498-de5e886e15d5",
+      "time": "2026-09-04 14:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Volkswagen AG shares rose 7% in early trading in Frankfurt."
+    },
+    {
+      "id": "5076911",
+      "time": "2026-09-04 14:07:35",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "訊息人士稱，蘋果備受期待的摺疊屏iPhone目前初期日產量僅 “數百臺”，主要原因是該公司執行極為嚴苛的品控標準。"
+    },
+    {
+      "id": "5076910",
+      "time": "2026-09-04 14:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正大集團捐贈500萬支援西藏吉隆泥石流災區】9月4日，據“正大之窗”微信公眾號訊息，正大集團攜手正大慈善基金會透過中國華僑公益基金會向西藏日喀則市吉隆縣災區捐贈500萬元，支援當地應急救援及災後重建等相關工作。"
+    },
+    {
+      "id": "mkt:01a06b06-c66a-7118-8498-d376e5ff7b81",
+      "time": "2026-09-04 14:06:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 40-year bond yield fell 13 bps to 4.03%."
+    },
+    {
+      "id": "mkt:01a06b06-5d49-7118-8498-cc4921cb266b",
+      "time": "2026-09-04 14:06:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600150.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share CSSC-affiliated stocks rose after intraday volatility; China Shipbuilding hit the daily price limit, while CSSC Defense, CSSC Technology and KunChuan Intelligent also advanced."
+    },
     {
       "id": "5076908",
       "time": "2026-09-04 14:05:21",
