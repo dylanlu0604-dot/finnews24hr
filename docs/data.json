@@ -1,7 +1,168 @@
 {
-  "updated": "2026-09-05 05:17:53",
-  "count": 14116,
+  "updated": "2026-09-05 06:19:10",
+  "count": 14112,
   "items": [
+    {
+      "id": "te:markets:581414",
+      "time": "2026-09-05 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.84% — Top currency gainers are South Korean Won (0.84%), Swedish Krona (0.27%) and Dollar Index (0.25%). Biggest losers are Canadian Dollar (-0.31%), Japanese Yen (-0.29%), Brazilian Real (-0.29%), Euro (-0.10%) and British Pound (-0.06%)."
+    },
+    {
+      "id": "5078390",
+      "time": "2026-09-05 06:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美法官延長對美政府郵寄投票新規的禁令】當地時間9月4日，美國法官釋出禁令，延長針對美政府郵寄投票新規的限制。此前，波士頓聯邦地區法官英迪拉·塔爾瓦尼於8月27日晚簽發一項為期14天的臨時限制令，暫停美國郵政署執行相關郵寄投票新規，並定於9月3日舉行聽證會，考慮是否實施更長期的禁令。美政府8月28日就此提起上訴。（央視新聞）"
+    },
+    {
+      "id": "5078389",
+      "time": "2026-09-05 06:11:27",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月5日隔夜要聞一覽】\n1、美國總統特朗普當地時間4日在白宮接受採訪時稱，美國可能很快會打擊伊朗的“鎬山”核設施。\n2、美國總統特朗普當地時間9月4日表示，美國特使威特科夫與庫什納將向俄羅斯提交結束俄烏衝突的方案。\n3、美國財長預計戰爭結束後油價最低跌至40美元，並帶動國債收益率回落。\n4、特朗普擬允許牧場主繞開大型肉類加工商，直接向消費者銷售牛肉。\n5、特斯拉Cybercab更新未達預期，盤中股價下跌超6%。\n6、美國成品油零售價格資訊服務機構“汽油夥伴”公司4日釋出的資料顯示，全美平均柴油零售價格3日創下歷史新高，突破2022年6月的紀錄。\n7、據兩名美國官員及另外兩名知情訊息人士透露，特朗普政府正在制定一項戰後戰略，核心是依託地區力量遏制伊朗，並推動以色列與其周邊國家進一步實現關係正常化。\n8、克利夫蘭聯邦儲備銀行行長貝絲・哈馬克表示，美聯儲現在應當採取行動抑制通脹。\n9、烏克蘭總統澤連斯基承諾美總統特使訪問期間不對俄發動空中打擊。"
+    },
+    {
+      "id": "5078388",
+      "time": "2026-09-05 06:08:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤突破1000美元，日內漲1.4%"
+    },
+    {
+      "id": "5078387",
+      "time": "2026-09-05 06:07:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤突破95美元，日內漲1%"
+    },
+    {
+      "id": "5078386",
+      "time": "2026-09-05 06:02:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤突破175美元，日內漲2.5%"
+    },
+    {
+      "id": "5078385",
+      "time": "2026-09-05 06:02:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤突破1700美元，日內漲2%"
+    },
+    {
+      "id": "5078384",
+      "time": "2026-09-05 06:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價（人民幣）日內跌超1%，現報956.4252元/克。"
+    },
+    {
+      "id": "5078383",
+      "time": "2026-09-05 06:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價跌破4450美元/盎司，日內跌幅1%。"
+    },
+    {
+      "id": "5078382",
+      "time": "2026-09-05 06:00:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息25個基點的機率為58.6%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為41.4%，累計加息25個基點的機率為58.6%。美聯儲到10月維持利率不變的機率為31.3%，累計加息25個基點的機率為54.4%，累計加息50個基點的機率為14.3%。"
+    },
+    {
+      "id": "5078381",
+      "time": "2026-09-05 05:57:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美元在強勁非農報告刺激下反彈 惟多空博弈下未改單週頹勢】美元9月開局不利，美聯儲下一步行動受到相互矛盾訊號的夾擊，而即將釋出的關鍵通脹報告也讓交易員坐立難安，與此同時日元的飆升在全球匯市引起震盪。儘管週五公佈的非農資料強於預期，提振了市場對美聯儲本月晚些時候加息的預期，不過彭博美元即期匯率指數本週最終仍收跌0.7%。交易員消化的加息25個基點機率在60%左右，而報告發布約為50%。加拿大帝國商業銀行資本市場策略師Noah Buffam指出，這就提高了下週消費者價格資料的重要性。“美元的下一個走勢可能取決於下週的通脹資料以及它們對9月美聯儲決策的影響，” 他說。"
+    },
+    {
+      "id": "5078380",
+      "time": "2026-09-05 05:54:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta因智慧眼鏡生物特徵資料收集行為遭到起訴。"
+    },
+    {
+      "id": "te:markets:581413",
+      "time": "2026-09-05 05:49:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Iron Ore Hits 9-week High — Iron Ore increased to 99.57 USD/T, the highest since June 2026. Over the past 4 weeks, Iron Ore gained 6.1%, and in the last 12 months, it decreased 4.89%."
+    },
+    {
+      "id": "5078379",
+      "time": "2026-09-05 05:41:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官頒佈禁令，延長對特朗普政府實施郵政局郵寄投票限制新規的禁令效力。"
+    },
+    {
+      "id": "5078378",
+      "time": "2026-09-05 05:19:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數：Nike、Colgate‑Palmolive 剔出標普 100 指數。"
+    },
+    {
+      "id": "5078377",
+      "time": "2026-09-05 05:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數：Palo Alto、Arista Networks、Sandisk Networks 納入標普 100 指數，2026 年 9 月 21 日生效。"
+    },
+    {
+      "id": "5078376",
+      "time": "2026-09-05 05:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數：Dell Technologies 納入標普 100 指數；Honeywell Aerospace 剔出標普 100 指數，2026 年 9 月 21 日生效。"
+    },
+    {
+      "id": "5078375",
+      "time": "2026-09-05 05:18:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普道瓊斯指數公司：將HubSpot、AGNC、Corcept、Brinker納入標普中盤股400指數。"
+    },
     {
       "id": "5078374",
       "time": "2026-09-05 05:16:15",
@@ -129110,207 +129271,6 @@
         "國際"
       ],
       "text": "【8月29日隔夜要聞一覽】\n1、美國計劃籌建一所“太空學院”，為政府航天崗位培養專業人才，辦學對標美國空軍學院、海岸警衛隊學院這類歷史悠久的軍事院校。\n2、伊朗總統佩澤希齊揚表示，德黑蘭已經擬定一條穿越霍爾木茲海峽的建議航線，並獲得了內部批准，但是否重新開放這條水道取決於美國履行四項承諾。\n3、據芝商所FedWatch工具顯示，聯邦基金期貨交易員目前認為9月加息25個基點的機率約為56%。而在Polymarket上，投機者給出的加息機率為49%。\n4、據四名知情人士透露，眾議院議長邁克・約翰遜計劃週五在得克薩斯州會見共和黨大額捐贈人埃隆・馬斯克。\n5、日元跌破1美元兌160日元關口，延續近期跌勢，此前由匯市干預帶來的漲幅如今已回吐超過一半。\n6、蘋果週五將旗下流媒體服務Apple TV的月費上調至14.99美元，或每年119美元。此前價格為每月12.99美元或每年99美元。\n7、英偉達投資的AI雲端計算服務商Lambda公司，已籌集約10億美元私募短期債務，資金用於採購算力晶片，服務其與微軟的合作專案。\n8、據三位瞭解談判情況的人士透露，特朗普政府正在談判，計劃取得委內瑞拉大片油田的長期權益。\n9、美國財政部長斯科特·貝森特為自己上個月支援日元的行動進行了辯護，稱日元出現任何極端波動都可能傳導至美國，推高美國的利率。"
-    },
-    {
-      "id": "5066055",
-      "time": "2026-08-29 06:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月29日06時07分在新疆阿克蘇地區溫宿縣（北緯42.20度，東經80.52度）發生4.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "5066054",
-      "time": "2026-08-29 06:17:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長赫格塞思被曝考慮2028年參選總統？五角大樓否認】根據兩名知情人士透露，美國國防部長赫格塞思近來曾和身邊的人私下討論過2028年競選美國總統的可能性。但五角大樓對此表示否認。據悉，赫格塞思及妻子詹妮弗在過去幾個月都曾向密友和同事提及上述想法。有共和黨人表示，“赫格塞思對男性以及基本盤選民具有吸引力。”媒體稱，赫格塞思若參選，在共和黨初選中也將揹負沉重包袱，包括處理美伊戰事問題及去年的“訊號門”爭議。此外，他可能與美國副總統萬斯以及國務卿魯比奧等人競爭。五角大樓發言人否認相關說法，稱“赫格塞思不會競選總統，他的首要任務是領導國防部，所有其他的猜測都是荒謬的。”"
-    },
-    {
-      "id": "te:markets:579258",
-      "time": "2026-08-29 06:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Polish Zloty Drops by 1.13% — Top currency losers are Polish Zloty (-1.13%), Turkish Lira (-0.94%), Swedish Krona (-0.94%), Euro (-0.57%), British Pound (-0.43%) and Japanese Yen (-0.42%). Gains are led by Dollar Index (0.52%)."
-    },
-    {
-      "id": "5066053",
-      "time": "2026-08-29 06:04:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤白銀跌破60美元/盎司，日內跌幅2%。"
-    },
-    {
-      "id": "5066052",
-      "time": "2026-08-29 06:02:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價（人民幣）日內跌超2%，現報965.7756元/克。"
-    },
-    {
-      "id": "5066051",
-      "time": "2026-08-29 06:02:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價跌破4500美元/盎司，日內跌幅2%。"
-    },
-    {
-      "id": "5066050",
-      "time": "2026-08-29 06:01:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其針對對沖基金佔比高的投資組合出臺增資規定。"
-    },
-    {
-      "id": "5066049",
-      "time": "2026-08-29 06:00:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤跌破6.7美元，日內跌幅0.8%。"
-    },
-    {
-      "id": "5066048",
-      "time": "2026-08-29 06:00:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月加息25個基點的機率為59.7%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為40.3%，累計加息25個基點的機率為59.7%。美聯儲到10月維持利率不變的機率為28.7%，累計加息25個基點的機率為54.1%，累計加息50個基點的機率為17.2%。"
-    },
-    {
-      "id": "mkt:01a04a60-0c11-7aab-917b-2b5db3850f47",
-      "time": "2026-08-29 05:56:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Defense Secretary Hegseth weighing 2028 presidential bid】NBC News, citing two people familiar with the matter, reported Defense Secretary Pete Hegseth has privately discussed a possible 2028 presidential run with close associates. Hegseth and his wife believe his hard-line style and conservative social positions could win support from the MAGA base; he recently campaigned in Iowa for a Republican congressman, a visit that has fuelled speculation. Potential primary rivals cited include Vice President J.D. Vance and Secretary of State Marco Rubio. A Pentagon spokesman denied the report, saying \"Secretary Hegseth will not run for president\" and that his primary duty remains leading the Defense Department. The report noted the ongoing Iran conflict could be a political liability for Hegseth — 18 U.S. service members have died — and U.S. average gasoline prices have risen from under $3/gal to just above $4/gal."
-    },
-    {
-      "id": "5066047",
-      "time": "2026-08-29 05:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其監管機構更新投資基金相關指引。"
-    },
-    {
-      "id": "5066046",
-      "time": "2026-08-29 05:53:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：沃爾瑪還與美國緝毒局簽署了一份協議備忘錄，以明確其未來在管制類藥物配發方面應履行的義務。"
-    },
-    {
-      "id": "5066045",
-      "time": "2026-08-29 05:53:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Guggenheim Partners購買與資產管理公司Arm相關的債務。"
-    },
-    {
-      "id": "5066044",
-      "time": "2026-08-29 05:52:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部表示，沃爾瑪同意支付 5000 萬美元，了結其非法開具阿片類藥物處方相關指控。"
-    },
-    {
-      "id": "mkt:01a04a5b-e210-7aab-917b-268c90e144f3",
-      "time": "2026-08-29 05:52:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Allianz chief economic adviser: U.S. Treasury yield curve flattening sends dual signals】Allianz chief economic adviser Mohamed El-Erian said moves in the U.S. Treasury curve today sent two signals. The 2s-10s spread narrowed about 7bps and the 2s-30s spread about 10bps, indicating curve flattening. He said the near-term read is hawkish repricing after Fed Chair KEVIN WARSH's firm commitment to the inf target; the longer-term read is market recognition of the Fed's lasting credibility."
-    },
-    {
-      "id": "5066043",
-      "time": "2026-08-29 05:51:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "安德森研究所經濟學家、前美聯儲貨幣事務部副主任James Clouse：市場似乎將其解讀為偏鷹派，我認為這是合理的。但他所說的只是這意味著他們還有工作要做。他並沒有真正談及時間問題。"
-    },
-    {
-      "id": "mkt:01a04a56-adfd-7aab-917b-1e815fba67f3",
-      "time": "2026-08-29 05:46:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSNBC reports US Defense Secretary Hegseth is considering a 2028 presidential bid."
-    },
-    {
-      "id": "5066042",
-      "time": "2026-08-29 05:43:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國戰爭部長赫格塞斯考慮在2028年競選總統。"
-    },
-    {
-      "id": "mkt:01a04a4b-2832-7aab-917b-144b58f994df",
-      "time": "2026-08-29 05:33:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Deutsche Bank sees Fed hiking 25bp in September and December】Deutsche Bank economists expect the Fed to raise rates by 25bp in both September and December. Fed Chair Kevin Warsh’s Jackson Hole remarks stressed the need to bring inflation back to a 2% target and sent a clearly hawkish signal. Deutsche Bank says the threshold to avoid a September 25bp hike is high unless incoming data are “significantly weaker than expected.” Markets repriced rapidly: CME shows probability of cumulative 50bp+ by December rose to 51% from 29% a day earlier; probability of only 25bp total is 38% and of no change is 11%. Bets on a September hike firmed after Warsh’s speech."
-    },
-    {
-      "id": "5066041",
-      "time": "2026-08-29 05:24:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黎巴嫩真主黨領導人呼籲取消黎以美三方框架協議】黎巴嫩真主黨領導人納伊姆·卡西姆8月28日呼籲黎巴嫩政府取消黎以美三方框架協議，稱該協議損害黎巴嫩主權，未能保障黎方權益。據悉，卡西姆當天在黎首都貝魯特南郊舉行的一場活動上發表講話，稱該協議“不合法、不正當且具有羞辱性”。他說：“我們反對並呼籲取消該框架協議。”（央視新聞）"
-    },
-    {
-      "id": "5066040",
-      "time": "2026-08-29 05:23:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【億萬富翁吉林斯基家族、GeoPark據稱接近達成委內瑞拉石油交易】據知情人士透露，哥倫比亞最富有的家族正與總部位於波哥大的石油公司GeoPark Ltd聯手，接近達成一項委內瑞拉石油交易。該家族是GeoPark的最大股東，持有28%的股份。這項即將達成的涉及吉林斯基集團（Gilinski Group）和GeoPark的交易，是投資者湧入這個資源豐富國家的熱潮的一部分——特朗普政府正尋求推動該國經濟復甦。"
-    },
-    {
-      "id": "mkt:01a04a41-c9f9-7aab-917b-0af59fb17d1c",
-      "time": "2026-08-29 05:23:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump criticized New York Governor Hochul for \"siding with Canada\" and for refusing to use the name American Lake, saying she would \"rather let Canada win,\" and he endorsed Blackman to be New York's next governor."
     }
   ]
 }
