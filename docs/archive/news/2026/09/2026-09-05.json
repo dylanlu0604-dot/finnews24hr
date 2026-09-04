@@ -1,7 +1,18 @@
 {
   "date": "2026-09-05",
-  "count": 427,
+  "count": 428,
   "items": [
+    {
+      "id": "te:markets:581416",
+      "time": "2026-09-05 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.56% — Top commodity losers are Lithium Carbonate (-2.56%), Silver (-1.14%) and Gold (-0.92%). Gains are led by Silicon (1.09%) and Steel Rebar (0.51%)."
+    },
     {
       "id": "te:markets:581415",
       "time": "2026-09-05 06:30:17",
