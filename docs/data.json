@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-04 22:50:40",
-  "count": 14057,
+  "updated": "2026-09-04 22:54:49",
+  "count": 14062,
   "items": [
+    {
+      "id": "5078025",
+      "time": "2026-09-04 22:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐尼泊爾大使館向尼泊爾政府轉交中共中央對外聯絡部緊急現匯援助】近日，中國駐尼泊爾大使館向尼方轉交中共中央對外聯絡部對尼泊爾政府提供的20萬美元現匯援助，支援尼泊爾開展救災工作。尼方對此深表感謝，認為此舉充分彰顯尼中兩國守望相助、患難與共的親密友好關係，期待繼續得到中方寶貴支援，攜手戰勝災情，幫助受災民眾重建家園。"
+    },
+    {
+      "id": "mkt:01a06ce8-490b-7118-84a8-c6ba7a8b93bd",
+      "time": "2026-09-04 22:52:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said democracy will be at risk without robust institutional support."
+    },
+    {
+      "id": "5078024",
+      "time": "2026-09-04 22:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "WNBA總裁恩格爾伯特將於本賽季結束後卸任。"
+    },
+    {
+      "id": "mkt:01a06ce7-30ab-7118-84a8-bfa47880ca3e",
+      "time": "2026-09-04 22:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's President LULA said people must not lose confidence in institutions."
+    },
+    {
+      "id": "mkt:01a06ce6-9789-7118-84a8-b7ef3a44d969",
+      "time": "2026-09-04 22:50:46",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 turned lower, erasing earlier gains of up to 0.5%."
+    },
+    {
+      "id": "5078023",
+      "time": "2026-09-04 22:50:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌，抹去了此前高達0.5%的漲幅。"
+    },
+    {
+      "id": "5078022",
+      "time": "2026-09-04 22:50:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創系列指數矩陣再擴容】今天，深圳證券資訊公司正式釋出創業板晶片指數，“創系列”指數矩陣再度擴容，同時，首批8只創業板算力基礎ETF也集體啟動發行。據瞭解，創業板晶片指數聚焦晶片產業核心領域，選取主營業務涉及半導體材料和裝置、晶片設計、晶片製造、晶片封裝和測試等相關領域的上市公司，覆蓋從設計、製造再到封測的完整產業鏈。業內人士表示，目前，創業板市場在AI應用、晶片等細分領域已形成聚集優勢，市值分別達8000億元、14000億元。近期創業板AI應用、創業板智慧駕駛、創業板晶片等AI產業相關指數陸續釋出，“創系列”指數矩陣已覆蓋寬基、策略、行業主題等多型別指數。（央視財經）"
+    },
     {
       "id": "5078021",
       "time": "2026-09-04 22:49:26",
@@ -227,6 +285,17 @@
         "公司"
       ],
       "text": "敦刻爾克液化天然氣公司稱，法國工會罷工可能會影響9月15日的運營。"
+    },
+    {
+      "id": "5078000",
+      "time": "2026-09-04 22:35:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股市早盤小幅走低 非農報告推高加息預期】美國就業增長強於預期，推動美國股市下跌，交易員加大了對美聯儲本月加息的押注。紐約時間10:13，標普500指數跌0.3%，納斯達克100指數上漲0.3%，道指跌0.5%。股市暫緩此前連續兩日的上漲勢頭，此前這波漲勢曾將標普500指數推至接近歷史高點。美國最新公佈的非農就業人數激增，失業率保持穩定。高盛資產管理旗下Innovator ETFs的Tim Urbanowicz表示：“今天的報告很強勁，市場可能會採取‘先反應、後提問’的方式。但塵埃落定後，我們認為投資者會意識到，勞動力市場再平衡的大趨勢仍然完好。”"
     },
     {
       "id": "5077999",
@@ -128673,42 +128742,6 @@
         "Importance 0"
       ],
       "text": "UK Gilt Yields Hold Above 5% as Investors Digest Warsh's Remarks — UK 10-year gilt yields remained slightly above 5% as investors weighed hawkish comments from Fed Chair Kevin Warsh against lower Brent crude prices, which eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, potentially making the BoE more cautious about tightening policy in the near term."
-    },
-    {
-      "id": "te:markets:579168",
-      "time": "2026-08-28 22:54:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Slips on Stronger US Dollar — The British pound fell toward $1.35, its weakest level since August 19, as hawkish Fed remarks supported the US dollar, while lower Brent crude prices eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, which could make the BoE more cautious about tightening policy in the near term."
-    },
-    {
-      "id": "te:markets:579167",
-      "time": "2026-08-28 22:54:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Apple Stock Price Hits 4-week High — Apple shares increased to 320.30 USD, the highest since July 2026. Over the past 4 weeks, Apple lost 5.4%, and in the last 12 months, it increased 37.82%."
-    },
-    {
-      "id": "te:markets:579165",
-      "time": "2026-08-28 22:52:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Allianz Stock Price Hits All-time High — Allianz shares increased to an all-time high of 453.00 EUR. Over the past 4 weeks, Allianz gained 5.72%, and in the last 12 months, it increased 25.33%."
     }
   ]
 }
