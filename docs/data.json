@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-04 19:23:52",
-  "count": 13683,
+  "updated": "2026-09-04 19:27:53",
+  "count": 13692,
   "items": [
+    {
+      "id": "te:markets:581273",
+      "time": "2026-09-04 19:26:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Rebound — US equity futures were muted on Friday, holding the prior session's rebound after dovish signals from Federal Reserve rate setters tempered concerns of a rate hike by the Federal Reserve. Contracts for the S&P 500, Dow, and Nasdaq 100 were near the flatline. The incoming jobs report is expected to show an unchanged unemployment rate at 4.1% and a rebound in payrolls, aligned with recent signals from FOMC members that the labor market is under full employment. Still, Fed Governor Waller had earlier stated that a rate hike is not necessary should underlying inflation gauges continue to slow, lending support to equities across all sectors. Chip producers led the gains after underperforming this week, with Lam Research, Applied Materials, and Sandisk adding close to 3% premarket. On top of that, Marvell, Micron, Intel, and Nvidia jumped over 1% amid sings of optimism around OpenAI's new GPT model."
+    },
+    {
+      "id": "5077656",
+      "time": "2026-09-04 19:26:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超純應材：有望受益於下游晶圓廠產線擴張帶來的市場機遇】9月4日，超純應材在互動平臺回覆投資者提問時稱，長江儲存作為國記憶體儲晶片龍頭，其產線持續迭代升級將帶動半導體裝置特殊塗層零部件需求增長。公司深耕半導體裝置特殊塗層零部件領域，結合半導體產業鏈國產化趨勢、產品技術特點及市場競爭格局，形成“國產配套+進口替代”雙輪驅動的經營模式，具備技術優勢，有望受益於下游晶圓廠產線擴張帶來的市場機遇。"
+    },
+    {
+      "id": "5077655",
+      "time": "2026-09-04 19:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：H股發行上市申請透過港交所聆訊】天賜材料公告稱，公司正在推進申請發行境外上市外資股（H股）並在香港聯交所主機板掛牌上市的相關工作。香港聯交所上市委員會於2026年9月3日舉行上市聆訊，審議公司本次發行上市申請。公司保薦人已於2026年9月4日收到香港聯交所信函，獲悉上市委員會已審閱公司上市申請，該信函不構成正式上市批准，香港聯交所仍有權對公司上市申請提出進一步意見。本次發行上市尚需取得香港證監會、香港聯交所等相關監管機構及交易所的最終批准，仍存在不確定性。"
+    },
+    {
+      "id": "5077654",
+      "time": "2026-09-04 19:25:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雙預警齊發 福建局地地質災害風險高 東海部分海域陣風可達10級】今天18時，自然資源部與中國氣象局聯合釋出橙色地質災害氣象風險預警，中央氣象臺繼續釋出颱風藍色預警。預計，9月4日20時至5日20時，浙江東南部、江西西部、福建東部、湖南東南部、廣東東北部、西藏南部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，福建東部局地發生地質災害的氣象風險高（橙色預警）。（央視新聞）"
+    },
+    {
+      "id": "5077653",
+      "time": "2026-09-04 19:24:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科網安：重大訴訟再審申請被最高法駁回】電科網安公告稱，公司全資子公司北京網安收到最高法民事裁定書，再審申請人中宏瑞德中心就涉案房產執行異議之訴的再審申請被駁回，北京高院二審解除涉案房產查封的判決仍具法律效力。本案不涉及具體金額，與公司當期損益無直接關聯。鑑於開發商金豐科華已進入破產程式，北京網安需在破產程式中主張房屋買受人權利，最終結果及對公司利潤的影響暫無法確定。截至公告披露日，公司及子公司作為原告的未結訴訟仲裁標的額合計4233.36萬元，作為被告的未結訴訟仲裁標的額合計374.07萬元。"
+    },
+    {
+      "id": "5077652",
+      "time": "2026-09-04 19:24:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：印度市場監管機構批准印度國家證券交易所首次公開發行(IPO)。"
+    },
+    {
+      "id": "mkt:01a06c29-8198-7118-84a1-66abf1a30e39",
+      "time": "2026-09-04 19:24:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Middle East data center construction continues despite US‑Iran war】Data centers have been repeatedly targeted in the US‑Iran war, but Gulf sovereign funds and state firms are pressing ahead with large-scale AI infrastructure. An Abu Dhabi state-owned enterprise is advancing an AI park expected to add about 5 GW of compute capacity and said it implemented worker-protection measures during periods of intense fighting. PIF-backed Humain is seeking $2.5bn of initial capital from domestic and global investors to build Saudi data centers and plans more than 6 GW of compute; the company says projects remain on schedule despite the ongoing war."
+    },
+    {
+      "id": "5077651",
+      "time": "2026-09-04 19:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雙預警齊發 福建局地地質災害風險高 東海部分海域陣風可達10級】今天18時，自然資源部與中國氣象局聯合釋出橙色地質災害氣象風險預警，中央氣象臺繼續釋出颱風藍色預警。（央視新聞）"
+    },
+    {
+      "id": "5077650",
+      "time": "2026-09-04 19:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長：烏克蘭期待與美國就和平努力進行談判帶來新的動態。"
+    },
     {
       "id": "mkt:01a06c28-3599-7118-84a1-5ddac99d45a9",
       "time": "2026-09-04 19:22:49",
