@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-04 23:44:11",
-  "count": 14100,
+  "updated": "2026-09-04 23:48:17",
+  "count": 14099,
   "items": [
+    {
+      "id": "mkt:01a06d18-cec9-7118-84a9-be161d269b39",
+      "time": "2026-09-04 23:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former Iranian president Rouhani says Trump’s measures are a \"new economic war\", vows Iran will not yield】Former president Rouhani said recent U.S. actions under Trump amount to a new economic war against Iran and vowed the country will not succumb. He said he has no doubt many countries will resist U.S. pressure and continue trading with Iran, and that some neighboring and non-neighboring states are already maintaining economic and trade ties today."
+    },
+    {
+      "id": "mkt:01a06d17-9f53-7118-84a9-b0a37a0b429a",
+      "time": "2026-09-04 23:44:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli far-right national security minister unveils plan to relocate up to 1.9mln Gaza residents over seven years】Channel 14 reported Itamar Ben‑Gvir, Israel’s far‑right national security minister and leader of the Jewish Power party, has proposed Plan 710 to relocate nearly 1.9mln Palestinians from the Gaza Strip over seven years. The phased targets are 250,000 in year one, 1.1mln within three years and about 1.9mln by seven years. The proposal calls for a dedicated immigration ministry with an independent budget, ministerial post and an international negotiating body. Preliminary potential destinations include Turkey, Ethiopia, the Democratic Republic of Congo and several Arab states. Funding is envisaged as direct Israeli government finance combined with international support, with up to 24 months of resettlement assistance covering transport, housing and job training. The proposal was reported by Channel 14 and has not been presented as government policy."
+    },
     {
       "id": "mkt:01a06d15-40f2-7118-84a9-ab76838313e8",
       "time": "2026-09-04 23:41:44",
@@ -129075,36 +129091,6 @@
         "其他"
       ],
       "text": "【廣州農商銀行：上半年營收淨利雙增，淨息差同比提升】廣州農商銀行8月28日披露2026年中期業績顯示，上半年實現營業收入80.7億元、淨利潤15.1億元，雙雙實現同比正增長。其中，得益於負債成本的壓降，該行淨息差同比提升0.04個百分點至1.07%。截至6月末，該行資產總額超過1.38萬億元，較年初增長0.3%。"
-    },
-    {
-      "id": "5065767",
-      "time": "2026-08-28 23:48:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行貝利：美聯儲沃什發表了一篇 “極具實質內容的講話”。"
-    },
-    {
-      "id": "5065766",
-      "time": "2026-08-28 23:47:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日元兌美元自7月31日以來首次跌破160】日元自7月31日以來首次跌破1美元兌160日元。美元/日元一度上漲0.39%至160.02。交易員正密切關注日元匯率水平，因為這可能成為判斷日本當局何時採取行動支撐日元的重要訊號。"
-    },
-    {
-      "id": "te:markets:579204",
-      "time": "2026-08-28 23:46:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Euro Area Confidence Improves — The CAC 40 rose 1% to close at 8,401 on Friday following the release of domestic and euro area economic data. Euro area consumer confidence edged up to -15.5, its highest level since February, while industrial confidence rose to -5.3, its highest since April 2023. Service sector confidence also improved to 5.8, a seven-month high. Meanwhile, France’s GDP grew 0.7% year-on-year in the second quarter of 2026, in line with forecasts. Luxury stocks posted strong gains, with LVMH rising 2.7%, Hermes adding 2.7%, and Kering up 1.4%. Industrial stocks were also mostly higher, with Schneider Electric gaining 1.8% and Air Liquide up 2.1%. EssilorLuxottica rose 3.1% after announcing a share buyback program. Financials advanced despite preliminary data showing French annual inflation accelerating to a three-month high of 2.4% in August, with BNP Paribas up 1.8%, AXA adding 1.8%, and Societe Generale rising 2.1%. Fitch is due to release its assessment of France’s sovereign rating later in the day."
     }
   ]
 }
