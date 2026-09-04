@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-04 22:38:11",
-  "count": 14038,
+  "updated": "2026-09-04 22:42:35",
+  "count": 14044,
   "items": [
+    {
+      "id": "5078006",
+      "time": "2026-09-04 22:40:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍貓頭鷹資本籌劃設立資料中心REIT並上市】據知情人士透露，隨著越來越多企業藉助市場資金建設人工智慧基礎設施，藍貓頭鷹資本（Blue Owl）正籌劃設立一家資料中心房地產投資信託基金（REIT）並推動其上市。其中一位不願具名的訊息人士表示，這家另類資產管理機構計劃將自身約65億美元的資料中心資產注入該REIT。相關人士稱，公司計劃透過首次公開募股以及後續增發股份募資，用於收購資料中心，搭建資產組合。藍貓頭鷹資本手握多項資料中心資產，其最新一隻數字基礎設施基金已於5月完成募集，承諾出資規模達70億美元。訊息人士表示，相關商討仍在推進，該REIT及IPO的具體細節仍有可能發生變動。"
+    },
+    {
+      "id": "5078005",
+      "time": "2026-09-04 22:39:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行將延長銀行過剩現金的鎖定期限，以加大力度管理創紀錄的流動性過剩問題。"
+    },
+    {
+      "id": "5078004",
+      "time": "2026-09-04 22:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "BLUE OWL 考慮向旗下房地產投資信託基金注入約 65 億美元資產。"
+    },
+    {
+      "id": "5078003",
+      "time": "2026-09-04 22:38:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "BLUE OWL計劃成立一家上市公司，以整合資料中心業務。"
+    },
+    {
+      "id": "mkt:01a06cdb-184c-7118-84a8-90c8eb19ab50",
+      "time": "2026-09-04 22:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India liquidity surge; Reserve Bank of India extends reverse-repo tenor】Reserve Bank of India said it will extend the lock-up of banks' excess cash to address a record liquidity surplus and will conduct an INR 7 trillion (≈$74.1bn) 30‑day variable‑rate reverse‑repo auction on Monday. The move lengthens the central bank's recent operation tenor from about 15 days, allowing it to keep surplus funds outside the banking system for a longer period. RBI said prior efforts to attract overseas Indians to buy dollars had contributed to the liquidity buildup."
+    },
+    {
+      "id": "mkt:01a06cda-9bc0-7118-84a8-8a250e977538",
+      "time": "2026-09-04 22:37:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Embassy in Beirut said Israel's release of prisoners under the 'framework agreement' is a positive step."
+    },
+    {
+      "id": "mkt:01a06cda-47fb-7118-84a8-8478bb52186b",
+      "time": "2026-09-04 22:37:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Embassy in Beirut called on Lebanon and Israel to maintain momentum and prepare for the next round of talks."
+    },
     {
       "id": "mkt:01a06cd9-cc6e-7118-84a8-7b0c8a3900f8",
       "time": "2026-09-04 22:36:47",
@@ -128555,17 +128612,6 @@
         "Importance 1"
       ],
       "text": "Euro Slips as Hawkish Fed Tone Supports Dollar — The euro weakened to around $1.16, touching its lowest level since August 19, as investors turned to the US dollar following hawkish remarks from Federal Reserve Chair Kevin Warsh, despite European data pointing to renewed inflationary pressures. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.” Meanwhile, inflation data from France and Spain strengthened expectations for further ECB tightening. EU-harmonized inflation rose to 2.7% in France and 4.5% in Spain, the latter its highest since 2023. Markets now see the ECB deposit rate rising to 2.80% by March next year from 2.25% currently, with roughly a 60% chance of a hike to 3%. Recent ECB minutes and Reuters reports also pointed to a possible September hike, although policymakers remain reluctant to signal further tightening."
-    },
-    {
-      "id": "te:markets:579156",
-      "time": "2026-08-28 22:39:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Gives Back Gains on Warsh’s Hawkish Tone — Silver pared some of its gains to trade around $69 an ounce on Friday as investors digested hawkish-leaning remarks from Federal Reserve Chair Kevin Warsh. In his first major speech since taking the chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need to see clearer evidence that underlying price pressures are easing, otherwise the central bank still has “work to do.” He reiterated the Fed’s commitment to returning inflation to its 2% target, which he described as a “firm and fixed” goal, and said financial conditions are not currently restrictive. His closely watched remarks offered greater clarity on his economic and policy views after criticism that his limited communication strategy had left markets with little guidance on the near-term outlook. Following the speech, markets raised the probability of a September rate hike to near 50%, according to CME FedWatch, weighing on silver."
     }
   ]
 }
