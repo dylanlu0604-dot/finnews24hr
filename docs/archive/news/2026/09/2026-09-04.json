@@ -1,7 +1,69 @@
 {
   "date": "2026-09-04",
-  "count": 700,
+  "count": 706,
   "items": [
+    {
+      "id": "mkt:01a06a01-2c6b-7118-8493-22e0f603b901",
+      "time": "2026-09-04 09:20:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC: based on demand from primary dealers in open-market operations, the 7-day reverse repo operation on Sept. 4, 2026 was set at zero."
+    },
+    {
+      "id": "mkt:01a06a00-d42e-7118-8493-1ce7e67cfb95",
+      "time": "2026-09-04 09:20:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance will auction ¥3.5 trillion of short-term T-bills on Sept. 11."
+    },
+    {
+      "id": "te:economy:581083",
+      "time": "2026-09-04 09:18:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Philippines Inflation Slightly Eases in August — The annual inflation rate in the Philippines eased to 6.1% in August 2026 from 6.2% in July, but came above expectations of 6%. Food and non-alcoholic beverage inflation slowed to 4.6% from 5.2% in July, mainly due to a decline in the prices of vegetables, tubers, plantains, cooking bananas and pulses. Inflation for housing and utilities also moderated to 7.9% from 8.2%. On the other hand, transport inflation rose to 13.5% from 11.9%, reflecting renewed fuel price increases in the second half of August. Price growth also increased for alcoholic beverages and tobacco (6.3% vs. 6%), furnishings and household equipment (4.1% vs. 3.9%), and health (5% vs. 4.8%). On a monthly basis, consumer prices jumped 0.6%, the most since April, following a 0.1% gain in July and exceeding expectations of a 0.5% rise. Meanwhile, core inflation eased to 4.1% from 4.2%, in line with forecasts. Average inflation stood at 5.2% from January to August, remaining above the government’s 2%-4% target range."
+    },
+    {
+      "id": "5076523",
+      "time": "2026-09-04 09:18:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天弘基金：9月12日起終止與瑞銀基金全部基金銷售業務合作】9月4日，天弘基金管理有限公司釋出公告稱，經與瑞銀基金銷售（深圳）有限公司（下稱“瑞銀基金”）協商一致，公司決定自2026年9月12日起終止與瑞銀基金的全部基金銷售業務合作，包括旗下基金的認購、申購、贖回、轉換、定期定額投資等業務。為維護基金投資者利益，已透過瑞銀基金持有公司旗下基金的投資者，請於2026年9月11日15:00前自行辦理基金份額轉託管或贖回業務。如投資者在上述時間前未能將基金份額轉託管或贖回，公司將直接為投資者將存量份額轉至公司直銷平臺。"
+    },
+    {
+      "id": "te:markets:581082",
+      "time": "2026-09-04 09:17:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Weakens on Waller Remarks — The dollar index held just below 99 on Friday after sliding sharply in the previous session, as traders scaled back expectations for a Federal Reserve rate hike this month following dovish comments from a central bank official. Fed Governor Christopher Waller said he would support keeping rates unchanged if price pressures continue to ease, adding that his next policy decision will depend heavily on August inflation data due next week. Traders now see roughly a 50% probability of a September rate hike, down from about 63% a day earlier. Investors are also awaiting Friday’s August jobs report for further clues on the Fed’s policy outlook. The dollar also faced pressure from the surging yen as traders watched for signs of intervention while assessing the prospects for more aggressive policy tightening by the Bank of Japan this year. For the week, the dollar index is on track to decline about 0.7%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609043864888953",
+      "time": "2026-09-04 09:16:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國就業市場陷入“低招低裁”僵局 前8個月裁員數降至四年最低】美國就業諮詢機構挑戰者公司（Challenger,Gray&Christmas）週四釋出的資料顯示，2026年前八個月，美國企業已宣佈裁員529,914人，為2022年以來同期最低水平。當時疫情後的勞動力需求仍十分旺盛。與此同時，截至8月的八個月裡，企業招聘計劃數量為2023年以來最高。"
+    },
     {
       "id": "mkt:01a069fc-8f05-7118-8493-10a2170f7ecb",
       "time": "2026-09-04 09:15:54",
