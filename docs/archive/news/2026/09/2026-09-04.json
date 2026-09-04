@@ -1,7 +1,134 @@
 {
   "date": "2026-09-04",
-  "count": 1231,
+  "count": 1244,
   "items": [
+    {
+      "id": "5076908",
+      "time": "2026-09-04 14:05:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌13個基點至4.03%。"
+    },
+    {
+      "id": "5076907",
+      "time": "2026-09-04 14:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司計劃於9月11日舉行非交易性固定收益投資者電話會議。"
+    },
+    {
+      "id": "5076906",
+      "time": "2026-09-04 14:04:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "大眾汽車公司<VOWG_p.DE>股價在法蘭克福早盤交易中上漲7%。"
+    },
+    {
+      "id": "mkt:01a06b04-7051-7118-8498-c319a60e75f0",
+      "time": "2026-09-04 14:04:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【A-share yellow-wine stocks collectively hit daily limits; companies say they have received no related information】Sept 4 morning — Kuaijishan and Guyue Longshan opened sharply and were quickly locked at the daily limit; Jinfeng Wine followed, briefly hit the limit then re-opened, finishing the morning session up about 7%. The three firms said, \"As of now, we have not received or found any related information. The company is operating normally.\" These three are among the few A-share listed yellow-wine producers; the last intra-day collective limit-up across them was May 27 last year."
+    },
+    {
+      "id": "5076905",
+      "time": "2026-09-04 14:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿根廷總統稱將制裁在馬島及爭議海域開採的外國公司】阿根廷總統米萊3日晚表示，將制裁在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）及爭議海域開採自然資源的外國公司。 3日晚，米萊就馬島問題發表全國電視講話，表示將加大對在馬島及周邊爭議海域開採自然資源的外國公司的制裁力度，並繼續推進在該國南部火地島省建立綜合海軍基地的計劃。 米萊強調，馬島是阿根廷的，島民沒有自決權。阿根廷政府將動用包括外交、經濟和法律等在內所有國家手段，阻止侵犯馬島主權的國家和非國家行為體。 米萊在講話中宣佈將向國會提交《國家主權保衛法》法案，建立國家安全委員會，協調外交、國防、情報、經濟等部門，處理國家安全問題。（新華社）"
+    },
+    {
+      "id": "5076904",
+      "time": "2026-09-04 14:02:03",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【黃酒企業集體漲停 企業回應：沒收到和發現任何相關訊息】A股市場三家黃酒類上市公司，出現罕見的聯袂漲停。距離上一次，還是一年多前。9月4日早間，會稽山和古越龍山雙雙高開，開盤後很快封住了漲停。金楓酒業迅速跟漲，盤中也一度封住漲停，但隨後開板。截至上午收盤，會稽山和古越龍山仍封死漲停板，金楓酒業漲幅約7%。是黃酒行業出現了利好？4日早間，記者致電相關黃酒企業，得到的回覆是，“截至目前，我們沒收到和發現任何相關訊息。公司目前一切運營正常。”上述三家企業，是A股市場為數不多從事黃酒業務的上市公司。上一次出現盤中集體漲停，需要追溯到去年的5月27日。（證券時報）"
+    },
+    {
+      "id": "mkt:01a06b02-3ca0-7118-8498-bc6097a1e265",
+      "time": "2026-09-04 14:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures were up 0.13%, Germany's DAX futures were up 0.21% and the UK FTSE 100 futures were up 0.04%."
+    },
+    {
+      "id": "5076903",
+      "time": "2026-09-04 14:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中船系概念持續走強，中國船舶觸及漲停】中船系概念持續走強，中國船舶觸及漲停，中船防務、中船科技、昆船智慧、中國動力、中船漢光、中國海防等跟漲。"
+    },
+    {
+      "id": "5076902",
+      "time": "2026-09-04 14:00:27",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月工作日調整後製造業訂單年率 13.1%，預期10.5%，前值6.50%。"
+    },
+    {
+      "id": "mkt:01a06b01-0999-7118-8498-b5599e090168",
+      "time": "2026-09-04 14:00:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July manufacturing orders, working-day adjusted, YoY +13.1% (consensus 10.5%; June +6.5%)."
+    },
+    {
+      "id": "mkt:01a06b00-f179-7118-8498-ace12f0aa79c",
+      "time": "2026-09-04 14:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing Orders (Workday Adjusted) (YoY) (Jul) | actual 13.1% | consensus 10.5% | previous 6.50%"
+    },
+    {
+      "id": "5076901",
+      "time": "2026-09-04 14:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月季調後製造業訂單月率 2.5%，預期0.3%，前值3.10%。"
+    },
+    {
+      "id": "mkt:01a06b00-ca25-7118-8498-a74e06e4b9e1",
+      "time": "2026-09-04 14:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted manufacturing orders rose 2.5% MoM in July, versus 0.3% expected and 3.1% prior."
+    },
     {
       "id": "mkt:01a06b00-b142-7118-8498-9b0feadb9c45",
       "time": "2026-09-04 14:00:02",
