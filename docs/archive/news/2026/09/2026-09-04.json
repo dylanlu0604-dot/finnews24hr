@@ -1,7 +1,77 @@
 {
   "date": "2026-09-04",
-  "count": 2459,
+  "count": 2466,
   "items": [
+    {
+      "id": "mkt:01a06d22-164e-7118-84a9-e2c1849e0da4",
+      "time": "2026-09-04 23:55:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "After suffering significant MQ-9 Reaper drone losses in clashes with Iran, the U.S. is seeking a lower-cost replacement option."
+    },
+    {
+      "id": "5078074",
+      "time": "2026-09-04 23:55:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "法院裁決：馬斯克旗下xAI請求 blocking 明尼蘇達州新型AI“脫衣生成”管制的法院申請敗訴。"
+    },
+    {
+      "id": "mkt:01a06d1f-fb84-7118-84a9-dac5f91dc043",
+      "time": "2026-09-04 23:53:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Former Iranian president: support Strait of Hormuz trade and navigation freedom, but not at expense of Iran’s security】Former Iranian president Rouhani said the Strait of Hormuz must be a secure waterway, not a battlefield. Iran does not seek war or provoke conflict, but the strait’s prosperity and freedom of navigation must be conditional on protecting Iran’s national security. A strait without ships is worthless; Iran supports international trade but not at the cost of its own security. Rouhani said Iran and Oman sit on opposite sides of the strait and any passage that threatens either side’s security is unacceptable. Iran observes the international-law principle of innocent passage only where its security is fully guaranteed, and will make full use of its strategic national resources to defend its legitimate rights."
+    },
+    {
+      "id": "5078073",
+      "time": "2026-09-04 23:53:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，以色列對加沙地帶南部的拉法發動炮火襲擊。"
+    },
+    {
+      "id": "mkt:01a06d1f-7f42-7118-84a9-d367a84cdd41",
+      "time": "2026-09-04 23:52:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli drone struck a motorcycle near Rumman village in southern Lebanon."
+    },
+    {
+      "id": "mkt:01a06d1f-18d2-7118-84a9-cbe8339ffaac",
+      "time": "2026-09-04 23:52:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Market sources said Israel shelled Rafah in the southern Gaza Strip."
+    },
+    {
+      "id": "mkt:01a06d1e-ed4d-7118-84a9-c605f217e6f4",
+      "time": "2026-09-04 23:52:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Qatar foreign ministry says Iran's selective citation of report is misleading; attacks on civilian facilities unjustifiable】Qatar foreign ministry said Iran should rely on Qatar's formal submissions to the UN, not an operational security assessment Iran has cited. Qatar's March 1 and July 20 letters record that Iranian missile strikes injured civilians. The report Iran cited is neither a complete factual record nor a legal assessment and itself acknowledges the strikes and airspace closures; selective quotation is misleading. Qatar's interception of missiles does not lessen the severity of the attack or absolve the perpetrators. The Ras Laffan facility is state property; the attack has been formally recorded and should not be described as \"alleged.\" Qatar is not a party to the conflict; attacks on its territory and civilian infrastructure, threats to public safety, and actions that undermine Strait of Hormuz stability are violations of international law, not lawful responses. Qatar said it favors dialogue and will continue diplomatic efforts to de-escalate and promote regional security and stability."
+    },
     {
       "id": "5078072",
       "time": "2026-09-04 23:51:18",
