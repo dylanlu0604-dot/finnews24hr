@@ -1,7 +1,84 @@
 {
   "date": "2026-09-05",
-  "count": 194,
+  "count": 202,
   "items": [
+    {
+      "id": "5078255",
+      "time": "2026-09-05 02:27:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准向沙烏地阿拉伯出售AGT-1500發動機的潛在交易，交易預估金額為7.5億美元。"
+    },
+    {
+      "id": "mkt:01a06dac-976f-7118-84ac-3d570408610e",
+      "time": "2026-09-05 02:27:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved a possible sale of AGT-1500 engines to Saudi Arabia, estimated at about $750 million."
+    },
+    {
+      "id": "5078254",
+      "time": "2026-09-05 02:26:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：如果美國不採購巴西產品，我會找到其他採購方。"
+    },
+    {
+      "id": "mkt:01a06dab-eb0d-7118-84ac-31c52a74e2d5",
+      "time": "2026-09-05 02:26:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says an order will require country-of-origin labeling on imported beef."
+    },
+    {
+      "id": "5078253",
+      "time": "2026-09-05 02:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在活動中提及巴西肉類加工企業。"
+    },
+    {
+      "id": "5078252",
+      "time": "2026-09-05 02:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將要求進口牛肉標註原產地標籤。"
+    },
+    {
+      "id": "te:markets:581397",
+      "time": "2026-09-05 02:25:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Plunges by 5.11% — Top commodity losers are Butter (-5.11%) and Wheat (-3.34%). Gains are led by Rice (0.86%) and Palm Oil (0.51%)."
+    },
+    {
+      "id": "mkt:01a06daa-092c-7118-84ac-2e66e4e59bdd",
+      "time": "2026-09-05 02:24:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Trump said he may sever trade ties with countries that treat the US and its farmers unfairly, saying he cares about American farmers."
+    },
     {
       "id": "mkt:01a06da8-d379-7118-84ac-22124fbae0a6",
       "time": "2026-09-05 02:22:55",
