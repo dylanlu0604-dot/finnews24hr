@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-04 18:32:46",
-  "count": 13565,
+  "updated": "2026-09-04 18:36:47",
+  "count": 13572,
   "items": [
+    {
+      "id": "5077560",
+      "time": "2026-09-04 18:35:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛迪生執行長表示，受海灣地區局勢不確定性影響，法國電力集團出售愛迪生股份的計劃已擱置。"
+    },
+    {
+      "id": "5077559",
+      "time": "2026-09-04 18:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國首相伯納姆將於9月下旬批准北海傑克道新氣田專案。"
+    },
+    {
+      "id": "mkt:01a06bfc-87fa-7118-84a0-8239f4258849",
+      "time": "2026-09-04 18:35:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【BNP Paribas SA: ECB may hike again in December】BNP Paribas SA economists say a persistent energy-price shock coupled with eurozone economic resilience makes ECB hikes in September and again in December possible. They expect the ECB to raise rates next week and may upgrade its growth and inflation projections, which would bolster arguments for tighter policy. Rising energy costs and firm activity increase the risk of second‑round effects, though current evidence is limited; policymakers still view inflation risks as tilted to the upside."
+    },
+    {
+      "id": "5077558",
+      "time": "2026-09-04 18:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江：到2030年全省體育產業總規模力爭達到1萬億元】浙江省政府辦公廳近日印發《關於釋放體育消費潛力進一步推進體育產業高質量發展的實施意見》，明確到2030年，全省體育產業總規模力爭達到1萬億元，賽事強省建設走在全國前列，培育10家左右具有全國影響力的體育企業。其中提出，鼓勵商業綜合體、景區、街區、商圈等引入體育業態，支援在體育場館、體育公園、運動營地等打造一批沉浸式體育消費場景。鼓勵各地按照合規的方式支援職業俱樂部運營。持續辦好“浙BA”“吳越杯”等群眾性品牌賽事，支援山區海島縣舉辦體育賽事，做強“村跑”“村超”“村BA”等“村字號”賽事。鼓勵具備條件的體育場地設施延長開放時間，促進夜間體育消費。"
+    },
+    {
+      "id": "5077557",
+      "time": "2026-09-04 18:34:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：鼓勵家政平臺和相關企業加快研發創新養老照護機器人、情感陪伴機器人等新技術新產品】北京市商務局等6部門印發《進一步提升居家照護服務質量 推進家政服務業健康發展工作實施方案》。實施方案提出，發展數智化家政服務新場景。加快培育發展家政服務平臺，利用大資料、人工智慧等技術開展使用者畫像、精準服務和跟蹤評價，實現供需精準對接。推動家政企業加快數字化轉型，提升運營管理和服務效能，更好滿足個性化多元化家政服務需求。鼓勵家政平臺和相關企業加快研發創新養老照護機器人、情感陪伴機器人、智慧可穿戴裝置、健康監測裝置等新技術新產品，探索“人機協同”新模式，更好滿足“一老一小”照護服務需求。"
+    },
+    {
+      "id": "mkt:01a06bfb-625c-7118-84a0-7ade37a47d2e",
+      "time": "2026-09-04 18:33:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Times reports UK Prime Minister Burnham will approve the Jackdaw North Sea gas-field development in late September."
+    },
+    {
+      "id": "mkt:01a06bfa-a11b-7118-84a0-76d68fd68821",
+      "time": "2026-09-04 18:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WMO confirms El Niño to strengthen; China to face sustained impact】The WMO said on Sept 3 that an El Niño event has been confirmed and is expected to intensify into a very strong (super) El Niño within months. China experienced widespread, high-intensity summer rainfall in the east and above-normal typhoon frequency and strength; the China National Climate Center expects El Niño-driven impacts to persist through autumn and winter toward a peak, with next summer likely to be particularly affected."
+    },
+    {
+      "id": "5077555",
+      "time": "2026-09-04 18:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強厄爾尼諾將至 我國持續受到影響】世界氣象組織9月3日釋出公報稱，厄爾尼諾事件已確認出現，預計將在數月內增強為超強厄爾尼諾事件。受厄爾尼諾影響，今年夏季我國東部暴雨過程面廣點強、落區重疊，颱風活躍、強度強。國家氣候中心預計，今年秋冬季將繼續受到向峰值發展的厄爾尼諾影響，明年夏天受影響將尤為顯著。（新華社）"
+    },
     {
       "id": "5077554",
       "time": "2026-09-04 18:31:06",
@@ -124363,18 +124434,6 @@
         "Importance 1"
       ],
       "text": "Macau Unemployment Rate Holds at 1.9% — Macau’s unemployment rate held steady at 1.9% in July 2026, unchanged from the previous month. The number of unemployed people fell by around 400 month-on-month to 6,400, while total employment increased by 300 to 376,700. The labour force participation rate was also stable at 66.8%, with the overall labour force edging up by 200 to 383,800. Meanwhile, the general underemployment rate declined slightly to 1.7%, down 0.1 percentage point from June. By sector, gaming remained the largest source of employment, accounting for 62.6% of employed residents. Wholesale and retail trade followed with 36.1%, while real estate and business activities represented 24.7%. Accommodation and food services accounted for 19.5%, and transport and storage for 16.4%."
-    },
-    {
-      "id": "te:economy:579077",
-      "time": "2026-08-28 18:34:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Greece Credit Growth at Over 1-1/2-Year Low — The annual growth of total credit extended to the Greek economy slowed to 3.4% in July 2026, down from 5.0% in June and marking its weakest pace since September 2024. Bank lending also recorded a significant monthly reversal, with the net flow of total credit turning negative at €3.96 billion, compared with a positive €3.50 billion a month earlier. Credit to the general government accounted for part of the decline, with a net outflow of €1.37 billion following a €213 million inflow in June. As a result, the annual growth rate of government credit fell to -2.0% from 0.4%. Lending to the private sector also lost momentum, with annual growth easing to 6.8% from 7.7%. The monthly flow of private-sector credit was negative by €2.59 billion, reversing a €3.29 billion increase in June."
     }
   ]
 }
