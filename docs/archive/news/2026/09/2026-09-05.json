@@ -1,7 +1,452 @@
 {
   "date": "2026-09-05",
-  "count": 309,
+  "count": 354,
   "items": [
+    {
+      "id": "5078350",
+      "time": "2026-09-05 04:02:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷增加本財年國防外交預算 支援馬島外交行動】阿根廷總統米萊4日簽署法令修訂2026財年預算，增加國防、軍事和情報部門經費，同時撥款外交部支援涉馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的外交行動。法令顯示，阿根廷國防部以及陸軍、海軍、空軍和聯合參謀部新增經費2179.54億阿根廷比索（約合1.45億美元）。阿根廷國家情報秘書處新增經費305.19億阿根廷比索（約合2024萬美元）。阿根廷國家空間活動委員會經費總額調整為1192.895億比索（約合7909萬美元）。（新華社）"
+    },
+    {
+      "id": "5078349",
+      "time": "2026-09-05 04:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Lululemon收跌 17%，收盤報 2018 年以來最低水平。"
+    },
+    {
+      "id": "5078348",
+      "time": "2026-09-05 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.51%，標普500指數跌0.38%，納指跌0.29%。lululemon athletica inc.跌17.38%，Fair Isaac Corp跌16.72%，歐特克跌8.26%，Adobe跌6.73%，艾可菲跌6.34%。“七姐妹”方面：Meta Platforms漲1.00%，英偉達漲0.84%，亞馬遜跌0.15%，谷歌跌1.05%，微軟跌2.04%，蘋果跌2.51%，特斯拉跌5.92%。"
+    },
+    {
+      "id": "5078347",
+      "time": "2026-09-05 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.84%】逸仙電商漲12.03%，燃石醫學漲11.22%，海川證券漲7.52%，摯文集團漲5.49%，金山雲漲4.34%。"
+    },
+    {
+      "id": "mkt:01a06dff-e0bb-7118-84ad-f54c4e25a4c3",
+      "time": "2026-09-05 03:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Justice says reports that it asked the antitrust division to suspend cooperation with the Canadian government are false."
+    },
+    {
+      "id": "5078346",
+      "time": "2026-09-05 03:57:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國司法部表示，有關司法部要求反壟斷部門暫停與加拿大政府開展合作的報道 “不實”。"
+    },
+    {
+      "id": "5078345",
+      "time": "2026-09-05 03:56:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【報道：Anthropic 即將委任摩根士丹利與高盛擔任其 2 萬億美元 IPO 的核心承銷職位】Anthropic 即將敲定摩根士丹利與高盛出任其重磅華爾街上市專案中最受追捧的承銷職位，最快將於下週遞交首次公開發行的相關申報材料。 據四位知情人士透露，摩根士丹利優勢顯著，有望拿下含金量極高的 “首席牽頭行” 席位。高盛預計將出任本次 IPO 的穩定承銷商，負責 Anthropic 上市初期關鍵交易時段的相關工作。 其中兩名知情人士表示，近幾周，摩根士丹利已經牽頭同 Anthropic 潛在投資者就上市發行股價展開磋商。他們補充稱，摩根士丹利成為首席牽頭行這一結果尚未最終敲定，仍存在變動可能。 摩根大通、花旗集團以及巴克萊此前為 Anthropic 提供債務融資，同樣有望在本次 IPO 中拿到主要承銷席位。"
+    },
+    {
+      "id": "mkt:01a06dfd-fa40-7118-84ad-ec2ca13e1628",
+      "time": "2026-09-05 03:55:56",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bullish",
+        "GS.O"
+      ],
+      "text": "【ANTHROPIC preparing IPO; MORGAN STANLEY, Goldman Sachs expected in key underwriting roles】Financial Times says ANTHROPIC is finalizing MORGAN STANLEY and Goldman Sachs for key roles in its IPO, with filings possibly as soon as next week. MORGAN STANLEY is leading as left lead underwriter and strategic IPO adviser; Goldman Sachs is expected to act as stabilization agent. JP Morgan, CITIGROUP and BARCLAYS are also likely to participate. ANTHROPIC aims to list in New York in late September or early October; the deal will test investor demand for fast-growing AI companies."
+    },
+    {
+      "id": "mkt:01a06dfa-1d49-7118-84ad-e13763b9af02",
+      "time": "2026-09-05 03:51:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump signs measures to support ranchers, target large meatpackers and tighten beef import labeling】President Trump on Friday signed executive actions to support U.S. ranchers by curbing the market power of large meatpackers and advancing new beef-labeling rules. The package includes programs to help ranchers sell directly to consumers and steps intended to reduce the industry's reliance on the 'Big Four' processors. It also requires country-of-origin labeling on all imported beef and asks Congress to move toward permanent legislation. The measures follow rancher backlash to an earlier administration plan to raise beef imports to lower consumer prices; U.S. Agriculture Secretary Brook Rollins called that import plan a \"heavy blow\" to ranchers while saying Trump supports producers."
+    },
+    {
+      "id": "5078344",
+      "time": "2026-09-05 03:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海岸警衛隊與韓國開展聯合訓練演習。"
+    },
+    {
+      "id": "5078343",
+      "time": "2026-09-05 03:49:42",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通、花旗、巴克萊將在此次 IPO 中擔任主要承銷角色。"
+    },
+    {
+      "id": "mkt:01a06df7-7bd3-7118-84ad-ddbf1fe1d7a3",
+      "time": "2026-09-05 03:48:50",
+      "tags": [
+        "MKT News",
+        "MS.N",
+        "Impact bullish",
+        "GS.N"
+      ],
+      "text": "FT reports ANTHROPIC is nearing appointment of Morgan Stanley (MS.N) and Goldman Sachs (GS.N) as lead underwriters for a $200 billion IPO."
+    },
+    {
+      "id": "5078342",
+      "time": "2026-09-05 03:48:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利佔據 “首席牽頭” 角色的有利位置，高盛預計將擔任 IPO 穩定承銷商。"
+    },
+    {
+      "id": "5078341",
+      "time": "2026-09-05 03:48:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：Anthropic 即將聘請摩根士丹利、高盛擔任其 IPO 承銷機構。"
+    },
+    {
+      "id": "mkt:01a06df5-81d2-7118-84ad-d785324136e2",
+      "time": "2026-09-05 03:46:41",
+      "tags": [
+        "MKT News",
+        "AZN.O",
+        "Impact bullish"
+      ],
+      "text": "FDA grants accelerated approval to AstraZeneca's Etcamah for treatment of advanced breast cancer with an ESR1 mutation (AstraZeneca: AZN.O)."
+    },
+    {
+      "id": "mkt:01a06df1-e12c-7118-84ad-cdfb2047c5a7",
+      "time": "2026-09-05 03:42:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Supreme Court upheld a policy allowing political party committees to buy advertising at reduced rates, a victory for the Republican Party."
+    },
+    {
+      "id": "5078340",
+      "time": "2026-09-05 03:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院維持一項政策，該政策允許政黨委員會享受更低廣告費率，共和黨由此獲得勝訴。"
+    },
+    {
+      "id": "mkt:01a06def-8da2-7118-84ad-c556236af344",
+      "time": "2026-09-05 03:40:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices tick higher on 4th】At the close on the 4th, NYMEX October light sweet crude futures were up $0.18 at $91.48 a barrel (+0.2%); London Brent November futures rose $0.76 to $96.28 a barrel (+0.8%)."
+    },
+    {
+      "id": "5078339",
+      "time": "2026-09-05 03:39:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價4日微漲】 截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲18美分，收於每桶91.48美元，漲幅為0.2%；11月交貨的倫敦布倫特原油期貨價格上漲76美分，收於每桶96.28美元，漲幅為0.8%。"
+    },
+    {
+      "id": "mkt:01a06dee-dbf5-7118-84ad-bbbb88d9ab88",
+      "time": "2026-09-05 03:39:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【BESSENT: Oil could fall to $40 after Iran conflict ends; US yields to ease】US Treasury Secretary BESSENT said oil could drop to as low as $40/bbl once the Iran conflict ends as large volumes of supply re-enter the market — “we could see $50, $40.” He noted recent US‑Iran military clashes pushed Brent above $95 and WTI near $90. BESSENT said higher energy prices have amplified inflation worries and lifted global benchmark bond yields, with the US 10‑year yield rising this week to its highest level since 2023. He downplayed reports that Norway’s sovereign wealth fund is cutting Treasury holdings, saying the fund intends to reallocate into other US assets, including Fannie Mae- and Freddie Mac-related debt."
+    },
+    {
+      "id": "5078338",
+      "time": "2026-09-05 03:36:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至9月1日當週，投機者增加CBOT美國2年期國債期貨淨空頭頭寸21,222份合約，至882,518份合約。\n投機者增加CBOT美國5年期國債期貨淨空頭頭寸121,452份合約，至1,380,513份合約。\n投機者增加CBOT美國10年期國債期貨淨空頭頭寸70,300份合約，至909,275份合約。"
+    },
+    {
+      "id": "mkt:01a06dea-83df-7118-84ad-b6583814e88f",
+      "time": "2026-09-05 03:34:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says Iran conflict 'not a big deal' for US, says it is not a war】President Trump described the more‑than‑six‑month US‑Iran confrontation as \"not a big deal,\" calling it a military conflict rather than a war and saying US operations have been intermittent. He cited 18 US service members killed, contrasted that toll with Vietnam and Afghanistan and said the US has achieved \"significant results.\" Polls show low public approval of his handling; the confrontation has pushed energy prices higher and raises risks to Republican control of Congress in the November midterms. Democrats have criticized administration comments that downplay the fighting."
+    },
+    {
+      "id": "mkt:01a06de9-4bba-7118-84ad-ab1fd66120c4",
+      "time": "2026-09-05 03:33:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.27% to 99.177 at New York close】The dollar index rose 0.27% to 99.177 at the New York FX close. EUR/USD 1.1611 (prev. 1.1635); GBP/USD 1.3514 (prev. 1.3539). USD/JPY 156.22 (prev. 155.50); USD/CHF 0.8102 (prev. 0.8068); USD/CAD 1.3839 (prev. 1.3788); USD/SEK 9.5775 (prev. 9.5365)."
+    },
+    {
+      "id": "mkt:01a06de8-d253-7118-84ad-a3995f6bc6ec",
+      "time": "2026-09-05 03:32:49",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "CFTC data for the week to Sep 1 show net short positions of CHF 22,876 contracts, GBP 49,575 contracts, EUR 24,925 contracts and JPY 92,227 contracts."
+    },
+    {
+      "id": "5078337",
+      "time": "2026-09-05 03:32:46",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財長預計戰爭結束後油價最低跌至40美元，並帶動國債收益率回落】美國財政部長斯科特·貝森特表示，一旦伊朗衝突結束，油價可能暴跌至每桶40美元，並帶動近期升至多年高位的債券收益率回落。貝森特在週五播出的一場與斯蒂夫·班農的訪談中表示：“等我們跨過這場伊朗衝突，我預計油價會降下來。此後石油市場將出現非常嚴重的供過於求。由於有大量新增供應上線，原油可能會跌到50美元，甚至40美元。” 貝森特說：“如果你去看利率，就會發現，它們與油價的相關性已經升至歷史最高。”貝森特還淡化了挪威主權財富基金擬削減美國國債持倉的重要性。彭博分析顯示，這一調整可能意味著該基金持有的美國國債減少750億美元。他說：“他們只是希望透過買入其他美國資產來提高收益率。他們想買房利美、房地美的債券，我對此非常支援。”"
+    },
+    {
+      "id": "mkt:01a06de8-7104-7118-84ad-987029a320f5",
+      "time": "2026-09-05 03:32:24",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week to Sept. 1, speculative traders increased net short positions in CBOT U.S. Treasury futures by 12,258 contracts to 199,501 contracts."
+    },
+    {
+      "id": "5078336",
+      "time": "2026-09-05 03:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數4日上漲】 衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於99.177。截至紐約匯市尾市，1歐元兌換1.1611美元，低於前一交易日的1.1635美元；1英鎊兌換1.3514美元，低於前一交易日的1.3539美元。1美元兌換156.22日元，高於前一交易日的155.50日元；1美元兌換0.8102瑞士法郎，高於前一交易日的0.8068瑞士法郎；1美元兌換1.3839加元，高於前一交易日的1.3788加元；1美元兌換9.5775瑞典克朗，高於前一交易日的9.5365瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a06de8-2c47-7118-84ad-92669363fc50",
+      "time": "2026-09-05 03:32:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week to Sept. 1, speculators increased net shorts in CBOT US 10-year Treasury futures by 70,300 contracts to 909,275 contracts and cut net shorts in CBOT ultra-long US Treasury futures by 36,734 contracts to 369,311 contracts."
+    },
+    {
+      "id": "5078335",
+      "time": "2026-09-05 03:31:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 1 日當週，紐約商品交易所黃金投機者削減淨多頭頭寸 10504 手，至 140811 手。\n白銀投機者削減淨多頭頭寸 1065 手，至 12170 手。\n銅投機者削減淨多頭頭寸 3445 手，至 73000 手。"
+    },
+    {
+      "id": "mkt:01a06de7-d88a-7118-84ad-8ba14b481f28",
+      "time": "2026-09-05 03:31:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to Sep 1, speculators increased net short positions in CBOT US 2-year Treasury futures by 21,222 contracts to 882,518 contracts, and raised net shorts in CBOT US 5-year Treasury futures by 121,452 contracts to 1,380,513 contracts."
+    },
+    {
+      "id": "mkt:01a06de7-837a-7118-84ad-879602067f7b",
+      "time": "2026-09-05 03:31:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week through Sept. 1, speculative stock funds increased net short positions in CME S&P 500 futures by 4,587 contracts to a net short of 307,558 contracts. Fund-manager speculators cut net long positions in CME S&P 500 futures by 19,361 contracts to 927,454 contracts."
+    },
+    {
+      "id": "5078334",
+      "time": "2026-09-05 03:31:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至9月1日當週，原油投機者增加WTI原油淨多頭頭寸15,816份合約，至118,894份合約。NYMEX和ICE四大市場天然氣投機者增加淨空頭頭寸11,098份合約，至50,697份合約。"
+    },
+    {
+      "id": "mkt:01a06de7-19f4-7118-84ad-7853d80e951e",
+      "time": "2026-09-05 03:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to Sept. 1, crude oil speculators increased WTI net longs by 15,816 contracts to 118,894; NYMEX/ICE four-market natural gas speculators raised net shorts by 11,098 contracts to 50,697."
+    },
+    {
+      "id": "5078333",
+      "time": "2026-09-05 03:30:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至9月1日當週，COMEX黃金投機者削減淨多頭頭寸10,504份合約，至140,811份合約。COMEX白銀投機者削減淨多頭頭寸1,065份合約，至12,170份合約。COMEX銅投機者削減淨多頭頭寸3,445份合約，至73,000份合約。"
+    },
+    {
+      "id": "mkt:01a06de6-a589-7118-84ad-7030520184b6",
+      "time": "2026-09-05 03:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "CFTC weekly data for the week to Sept. 1 showed COMEX gold speculators trimmed net longs by 10,504 contracts to 140,811; silver net longs fell by 1,065 contracts to 12,170; copper net longs dropped by 3,445 contracts to 73,000."
+    },
+    {
+      "id": "5078332",
+      "time": "2026-09-05 03:30:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 9 月 1 日當週，英鎊淨空頭頭寸為‑49575 手。日元淨空頭頭寸為‑92227 手。"
+    },
+    {
+      "id": "5078331",
+      "time": "2026-09-05 03:29:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 9 月 1 日當週，比特幣淨多頭頭寸為 703 手。"
+    },
+    {
+      "id": "5078330",
+      "time": "2026-09-05 03:29:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 1 日當週，投機者將芝加哥期貨交易所美國超長期國債期貨淨空頭頭寸削減 36734 手，至 369311 手。"
+    },
+    {
+      "id": "5078329",
+      "time": "2026-09-05 03:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "政府檔案顯示，印度認定一批 Abhayrab 狂犬病疫苗質量不達標，正在調查該批次是否為假藥。"
+    },
+    {
+      "id": "5078328",
+      "time": "2026-09-05 03:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出牲畜市場競爭行政令。"
+    },
+    {
+      "id": "5078327",
+      "time": "2026-09-05 03:20:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7108元，較週四夜盤收盤漲70點。成交量 358.9億美元。"
+    },
+    {
+      "id": "mkt:01a06ddb-d28b-7118-84ad-68fbf83c3fd1",
+      "time": "2026-09-05 03:18:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House issues statement on executive order concerning meat markets."
+    },
+    {
+      "id": "5078326",
+      "time": "2026-09-05 03:16:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出肉類市場行政令情況說明書。"
+    },
+    {
+      "id": "te:economy:581400",
+      "time": "2026-09-05 03:12:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Colombia PPI Growth Hits Lowest Since February — Colombia’s Producer Price Index increased 0.76% year-on-year in August 2026, easing from a 1.51% rise in July and marking the weakest annual increase since February. Agriculture, livestock and fishing was the only sector to record a variation above the overall average, at 6.80%. Industry rose 0.26%, while mining fell 6.59%, both below the overall 0.76% increase. The subcategories with the largest positive contributions were pome and stone fruits, which rose 22.07%, potatoes, which increased 129.82%, and citrus fruits, which gained 58.43%. In contrast, the main negative contributions came from crude petroleum and oils obtained from bituminous minerals, down 5.17%; milled or green coffee, down 19.09%; and coffee, down 18.03%. On a monthly basis, the PPI fell 0.33% in August. Year to date, the index increased 2.95%."
+    },
+    {
+      "id": "mkt:01a06dd6-0cfe-7118-84ad-647817631a6c",
+      "time": "2026-09-05 03:12:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【US Justice Department suspends antitrust cooperation with Canada as trade dispute escalates】The US Department of Justice antitrust division was ordered this week to suspend all cooperation with the Canadian government, an internal email from Linda Marshall, head of international affairs, instructed staff to stop collaborating with Canadian counterparts on cases and policy matters; no reason was given. Such directives are unusual; US and Canadian competition agencies have long coordinated on auto-parts price-fixing, air-cargo probes and tech and aerospace M&A reviews. The pause comes amid rising US-Canada trade tensions after talks collapsed last month and the Trump administration imposed 50% tariffs on $20bn of Canadian goods; Canada responded with similar duties on some US products. The DOJ and the White House declined to comment."
+    },
     {
       "id": "mkt:01a06dd1-6542-7118-84ad-5fa9707eb689",
       "time": "2026-09-05 03:07:14",
