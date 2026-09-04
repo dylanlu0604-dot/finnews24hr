@@ -1,7 +1,79 @@
 {
   "date": "2026-09-04",
-  "count": 821,
+  "count": 828,
   "items": [
+    {
+      "id": "5076601",
+      "time": "2026-09-04 10:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超3%，現報4603.070點；恒生指數現漲2.112%。"
+    },
+    {
+      "id": "te:markets:581094",
+      "time": "2026-09-04 09:59:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Head for Mixed Weekly Finish — The Shanghai Composite gained 0.6% to 3,966 on Friday, while the Shenzhen Component advanced 0.7% to 13,716, with both benchmarks remaining on track for a mixed weekly performance as investors positioned cautiously ahead of key economic releases that could provide further insight into the strength of China's recovery. Market participants are closely watching upcoming trade and inflation data after the latest PMI surveys pointed to improving economic momentum. Still, investors balanced encouraging economic signals against lingering concerns over domestic demand and the broader growth outlook. Technology stocks led the advance, particularly Cambricon Technologies (1.4%), Hygon Information Technology (1.1%), Zhongji Innolight (1.5%), Eoptolink Technology (2.0%), and NAURA Technology (1.4%)."
+    },
+    {
+      "id": "mkt:01a06a24-5341-7118-8494-5463c99ce8f7",
+      "time": "2026-09-04 09:59:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00960.HK",
+        "Impact bullish",
+        "02202.HK",
+        "02007.HK"
+      ],
+      "text": "Hong Kong-listed mainland property stocks rallied, with Longfor Group (00960.HK) up more than 8% and Vanke Enterprises (02202.HK) up over 6%; Sunac China (01918.HK), Yuexiu Property (00123.HK), China Jinmao (00817.HK) and Country Garden (02007.HK) also gained."
+    },
+    {
+      "id": "mkt:01a06a23-f02e-7118-8494-4c5faee5aa1d",
+      "time": "2026-09-04 09:58:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore stocks rose as much as 1% to an intraday record of 5,807.16 points."
+    },
+    {
+      "id": "5076600",
+      "time": "2026-09-04 09:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門調撥中央救災物資支援福建做好救災救助工作】從應急管理部獲悉，針對近期福建暴雨洪澇災害影響，根據災區群眾避險轉移和安置救助需要，9月3日，國家防災減災救災委員會辦公室、應急管理部會同國家糧食和物資儲備局調撥摺疊床、夏涼被、家庭應急包等5000件中央救災物資，支援災區做好救災救助工作。"
+    },
+    {
+      "id": "mkt:01a06a23-5d88-7118-8494-474d4f91b17a",
+      "time": "2026-09-04 09:58:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "SSE 50 Index rises more than 1%; constituent Shanxi Fenjiu gains over 5%."
+    },
+    {
+      "id": "5076599",
+      "time": "2026-09-04 09:56:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
     {
       "id": "mkt:01a06a20-b735-7118-8494-3b1aa82c4809",
       "time": "2026-09-04 09:55:23",
