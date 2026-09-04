@@ -1,7 +1,47 @@
 {
   "date": "2026-09-04",
-  "count": 2407,
+  "count": 2411,
   "items": [
+    {
+      "id": "mkt:01a06cff-c0ee-7118-84a9-10b98af44d00",
+      "time": "2026-09-04 23:18:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iranian official told Mehr News Agency the United States is seeking to extricate itself from a self-made quagmire. The official said the United States and Israel have spent the past year and into this year trying to impose a brutal, illegal war on Iran; Iran has persistently resisted and the United States has failed to achieve any of its objectives."
+    },
+    {
+      "id": "5078046",
+      "time": "2026-09-04 23:17:26",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝萊德：非農大超預期後 下週的通脹資料更顯關鍵】貝萊德的投資組合經理Jeff Rosenberg表示，美國8月就業增長大幅超出預期，在美聯儲決策者考慮是否需要加息之際，凸顯下週消費者價格指數的重要性。“這基本印證了我們此前對勞動力市場的判斷，也把焦點和壓力重新帶回到通脹上，”Rosenberg週五接受採訪時表示。“美聯儲是否會在9月的會議上加息，關鍵在於通脹是否上升，或者說通脹下降的速度是否不夠快。”Rosenberg表示，如果9月11日公佈的CPI繼續顯示通脹取得進展，“我認為他們會按兵不動”。“這份就業報告只有在異常疲軟的情況下，才有可能降低加息機率，”Rosenberg表示。週五的資料“更多是在為下週、為通脹資料鋪路”。Rosenberg表示，工資通脹已不再像新冠疫情時期供需錯位後那樣構成首要威脅，並將當前勞動力市場形容為“低招聘、低裁員”。他說，真正的通脹風險來自能源價格從整體通脹向核心通脹的傳導。就業報告公佈數小時前，美國汽車協會稱，美國加油站柴油平均價格升至創紀錄的每加侖5.85美元。Rosenberg表示，即使美聯儲加息25個基點，華爾街對股票和信貸資產的偏好也可能不會發生明顯變化。“股市更看重的是分子而不是分母，也就是說，更看重企業盈利、盈利增長，以及人工智慧科技熱潮展現出的驚人歷史性力量，”他說。他還表示，鑑於信貸質量保持強勁、利差維持低位，債市大機率也能承受一次25個基點的加息。"
+    },
+    {
+      "id": "te:markets:581360",
+      "time": "2026-09-04 23:16:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Holds Firm — The South African rand traded below 16 per USD, hovering near its strongest level since the Iran war began in late February, amid growing expectations of rate hikes. Renewed flare-ups in the Middle East kept global oil prices elevated and prompted another sharp adjustment in domestic fuel prices. This is expected to add to inflation pressures and may lead the South African Reserve Bank (SARB) to raise rates later this month to defend its target range. South Africa's inflation rate fell to 4.3% in July from 5% in June, amid softer oil and food prices. The August's reading will be closely watched to assess the extent of price pressures. The SARB has so far resisted raising rates in response to the oil shock, holding rates in April and July. Meanwhile, speculation is growing that the central bank may deliver a 25 bps rate hike at its next meeting on September 23. Elsewhere, a stronger-than-expected US jobs report raised bets on a Fed September rate hike."
+    },
+    {
+      "id": "mkt:01a06cfd-4c88-7118-84a9-0a3bca86dbb5",
+      "time": "2026-09-04 23:15:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Japan plans AI-equipped satellites to speed counterstrike decisions】Japan's Defence Ministry plans AI-equipped satellites to analyze space-surveillance data and accelerate decision-making to strengthen use of long-range missiles for counterstrikes. It will partner with Japanese firms to build test satellites and perform ground validation in fiscal 2027–29, with launches to test functionality planned for fiscal 2030 or later. The AI systems are expected to be developed domestically."
+    },
     {
       "id": "5078045",
       "time": "2026-09-04 23:13:54",
