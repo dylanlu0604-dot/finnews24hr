@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-05 04:35:17",
-  "count": 14119,
+  "updated": "2026-09-05 04:39:04",
+  "count": 14118,
   "items": [
+    {
+      "id": "mkt:01a06e24-51bb-7118-84ae-4a92559da29c",
+      "time": "2026-09-05 04:37:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【US August jobs lift Fed rate‑hike bets; Wall Street risk assets largely hold】US August payrolls beat expectations, reviving bets the Federal Reserve may tighten at its Sept. 16 meeting. US Treasuries sold off, the dollar strengthened and the S&P 500 fell on Friday but still logged a weekly gain. The bond repricing has not triggered a broad flight to safety: credit spreads remain near lows and pressure on corporate debt and equity indices is limited. JP Morgan says Treasury market liquidity has deteriorated materially, but corporate bond ETFs and equity index futures have not shown comparable stress. Market resilience is underpinned by solid growth and corporate earnings, with AI-driven capex supporting large tech investment. Traders are focused on the speed of any further yield rise rather than the single payrolls print; upcoming inflation data and whether the Fed revises its tightening path will drive the next moves. A rapid further increase in yields could force investors to reduce risk exposure."
+    },
+    {
+      "id": "te:markets:581409",
+      "time": "2026-09-05 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index dropped 272 points or 0.51 percent on Friday to close at 53414 points. Losses were led by Apple (-2.55%), Alphabet (-2.10%) and Microsoft (-2.05%). Offsetting the fall, top gainers were Caterpillar (1.65%), Honeywell International (0.95%) and Home Depot (0.88%)."
+    },
     {
       "id": "mkt:01a06e14-55ab-7118-84ae-41ade1a28857",
       "time": "2026-09-05 04:20:21",
@@ -129320,33 +129348,6 @@
         "MKT News"
       ],
       "text": "【U.S. appeals federal block on new mail‑in voting rules】On Aug. 28 local time the Trump administration appealed a federal court ruling that had prevented its mail‑in voting rule from taking effect. U.S. District Judge Indira Talwani on Aug. 27 issued a 14‑day temporary restraining order suspending the U.S. Postal Service’s enforcement of the new mail‑in voting rules and set a Sept. 3 hearing to consider a longer injunction."
-    },
-    {
-      "id": "mkt:01a04a17-ed83-7aab-917a-8422dfd01f94",
-      "time": "2026-08-29 04:37:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran president: U.S. must meet obligations if Strait of Hormuz reopens】On Aug. 28 Iran president PEZESHKIAN said recent talks with Oman produced renewed agreement to reopen the Strait of Hormuz under a coordinated plan, but any reopening must be conditional on the United States fulfilling specified obligations. He listed those obligations as lifting blockades and sanctions, unfreezing Iranian funds and stopping Israeli hostile actions in Lebanon. PEZESHKIAN said Iran will open the strait under its own policy, framed the move as consistent with an Islamabad memorandum accepted by the parties, and said Tehran is forming a common regional approach with neighbors."
-    },
-    {
-      "id": "5066026",
-      "time": "2026-08-29 04:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美政府就郵寄投票新規被叫停正式提起上訴】當地時間8月28日獲悉，特朗普政府當日正式就一項阻止其郵寄投票行政令生效的聯邦法院裁決提起上訴。波士頓聯邦地區法官英迪拉·塔爾瓦尼於8月27日晚簽發一項為期14天的臨時限制令，暫停美國郵政署執行相關郵寄投票新規，並定於9月3日舉行聽證會，考慮是否實施更長期的禁令。（央視新聞）"
-    },
-    {
-      "id": "5066025",
-      "time": "2026-08-29 04:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：若霍爾木茲海峽重開 美國必須履行其義務】當地時間8月28日，伊朗總統佩澤希齊揚針對當前與阿曼關於霍爾木茲海峽的談判表示，阿曼方面最初支援伊朗，後來立場有所保留，但在近期的會晤中，雙方再次達成共識，同意在協調一致的計劃下重新開放該海峽的航道。他強調，伊朗目前正在努力確保，如果該航道在特定框架下重新開放，美國也必須履行其義務。這些義務包括：解除封鎖和制裁、解凍伊朗資金、停止以色列在黎巴嫩的敵對行動等。同時他提到，伊朗將以本國政策為基準開放霍爾木茲海峽。“開放霍爾木茲海峽符合《伊斯蘭堡諒解備忘錄》中規定的框架，並已得到各方的接受，必須予以執行。”此外，佩澤希齊揚表示，伊朗正在就如何與鄰國互動達成共識，並形成共同遠景。（央視）"
     }
   ]
 }
