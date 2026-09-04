@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-04 09:49:01",
-  "count": 13228,
+  "updated": "2026-09-04 09:52:57",
+  "count": 13238,
   "items": [
+    {
+      "id": "5076592",
+      "time": "2026-09-04 09:51:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價繼續反彈，周生生兩日漲47元】9月4日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，在經歷9月2日階段低點後繼續反彈，其中老鳳祥報價1351元/克，兩日漲44元；老廟黃金報價1350元/克，兩日漲47元；周生生報價1349元/克，兩日漲47元。"
+    },
+    {
+      "id": "mkt:01a06a1d-58e7-7118-8494-258ab2605c82",
+      "time": "2026-09-04 09:51:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index rose more than 3%; Chinese property developers, AI application stocks, marquee internet names and new-energy vehicle makers led gains."
+    },
+    {
+      "id": "mkt:01a06a1d-4d05-7118-8494-1f24c43b7a4b",
+      "time": "2026-09-04 09:51:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax, citing authorities, said a Ukrainian drone attack triggered a fire at an oil depot in the Russian Black Sea port city of Sochi."
+    },
+    {
+      "id": "5076591",
+      "time": "2026-09-04 09:51:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔：日本將支援中小企業工資增長的環境。"
+    },
+    {
+      "id": "mkt:01a06a1d-1c15-7118-8494-10fcf5f572c7",
+      "time": "2026-09-04 09:51:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council work-safety office convenes video meeting to coordinate inspection and cleanup of fake new-energy refueling stations】On Sept. 3 the State Council Work Safety Committee Office held a video meeting to advance inspection and rectification of so-called fake new-energy refueling stations. Local authorities were directed to follow Hubei’s model to leave no gaps and carry out deep, thorough verification of suspected sites. The office ordered strengthened whole-chain joint enforcement, clear assignment of enforcement responsibilities by violation type, unified enforcement standards, tightened discretionary rules and enhanced inter-agency case consultation, maintaining a high-pressure, punish-all approach with penalties proportional to offenses. It also mandated strict implementation of cross-department regulation of refined oil products, regularized sweeps of illegal refueling points (including fake new-energy sites), expanded sources and methods for tip-offs and inspections, and improved clue transfer, information-sharing and joint-handling mechanisms to bolster coordinated supervision, verification and enforcement and prevent rebound."
+    },
+    {
+      "id": "5076590",
+      "time": "2026-09-04 09:51:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數上漲1%至5,805.37點。"
+    },
+    {
+      "id": "mkt:01a06a1c-b9ba-7118-8494-0ab5fb174aed",
+      "time": "2026-09-04 09:51:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share film and cinema sector traded higher after intraday volatility; Shanghai Film jumped over 8%, with Jiecheng Co., Huanrui Century, Huace Film & TV, Hengdian Film & TV and Zhongguang Tianze also advancing."
+    },
+    {
+      "id": "5076589",
+      "time": "2026-09-04 09:50:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數上漲3%至4,603.54點。"
+    },
+    {
+      "id": "mkt:01a06a1b-86f9-7118-8494-0657128fcef3",
+      "time": "2026-09-04 09:49:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Thai baht quoted at 32.89 per US dollar, the highest level since late August."
+    },
+    {
+      "id": "5076588",
+      "time": "2026-09-04 09:49:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元走強至32.89，創8月底以來最高水平。"
+    },
+    {
+      "id": "5076587",
+      "time": "2026-09-04 09:49:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊走高，古越龍山、金楓酒業觸及漲停】其他酒類板塊走高，古越龍山、金楓酒業觸及漲停，會稽山此前漲停，百潤股份、威龍股份跟漲。"
+    },
+    {
+      "id": "5076586",
+      "time": "2026-09-04 09:48:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量574億元。"
+    },
     {
       "id": "5076585",
       "time": "2026-09-04 09:47:39",
@@ -121500,29 +121612,6 @@
         "Importance 1"
       ],
       "text": "Yen Pressured by Weak Fundamentals — The Japanese yen traded around 159.4 per dollar on Friday, struggling to extend gains from the joint intervention by Tokyo and Washington nearly a month ago as persistent structural weakness continued to weigh on the currency. The wide interest rate gap between Japan and other major economies continued to weigh on the yen, prompting investors to borrow at low rates in the currency and seek higher returns in overseas assets. Rising fiscal concerns in Japan and elevated oil prices linked to the Middle East conflict further reinforced the bearish outlook for the yen. On the monetary policy front, the Bank of Japan is increasingly expected to raise interest rates in September amid concerns over currency weakness and import-driven inflation. Meanwhile, data showed Japan’s unemployment rate fell to 2.4% in July, the lowest in a year, while Tokyo’s inflation rate accelerated to a five-month high in August."
-    },
-    {
-      "id": "te:markets:578847",
-      "time": "2026-08-28 09:50:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Eyes Longest Weekly Run Since 2010 — The Australian dollar held around $0.72, near a fifteen-week high and headed for a ninth consecutive weekly gain, its longest weekly winning streak since 2010 as markets ramped up bets of an imminent rate hike. The stronger outlook for tighter policy came after a hotter-than-expected July inflation report and household spending data, which rose 1.1% in July, pointing to continued strength in domestic demand despite elevated borrowing costs. The stronger economic figures prompted traders to bring forward bets on an RBA move and several major banks to revise their forecasts, with NAB expecting the cash rate to rise to 4.6% next month, while CBA and ANZ forecast a November move but acknowledge the possibility of earlier tightening. Markets are pricing roughly a 50% chance of a rate increase at the RBA’s September meeting, up sharply from 17% previously, while a November move is fully priced in. Attention now turns to Q2 GDP and employment data for further clues on the policy outlook."
-    },
-    {
-      "id": "te:markets:578845",
-      "time": "2026-08-28 09:49:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Hovers Near 5-Week High — US gasoline futures traded around $3.38 per gallon, near a five-week high, as supply concerns intensified amid rising geopolitical risks. US-Iran diplomatic efforts remained stalled after Washington ruled out reviving the terms of a June agreement and said it was not currently negotiating with Tehran. The US has instead intensified pressure through new sanctions earlier this week, which Iran condemned as hostile and ineffective. Meanwhile, Black Sea shipments faced heightened risks as Russia considers intensifying military pressure on Ukraine after determining that peace negotiations have reached a dead end, while strikes on Russian refineries pushed refinery runs toward multi-year lows. In the US, EIA data showed gasoline inventories fell by 2.536 million barrels in the week ending August 21, well above expectations, leaving stocks 6% below the five-year average and underscoring continued tightness in the fuel market."
     }
   ]
 }
