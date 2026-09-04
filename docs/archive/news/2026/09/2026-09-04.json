@@ -1,7 +1,115 @@
 {
   "date": "2026-09-04",
-  "count": 1880,
+  "count": 1892,
   "items": [
+    {
+      "id": "mkt:01a06c0f-278b-7118-84a0-fb8907afe126",
+      "time": "2026-09-04 18:55:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【IDC projects iPhone foldable ASP at $2,550】Industry sources say chip shortages and supply-chain bottlenecks may push Apple’s foldable iPhone significantly above expectations; IDC projects an average selling price of $2,550. IDC forecasts Apple will sell more than 17 million foldable iPhones by end-2027, generating over $45.7 billion in revenue."
+    },
+    {
+      "id": "5077604",
+      "time": "2026-09-04 18:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：據烏克蘭總參謀部通報，烏克蘭方面的攻擊已導致俄羅斯兩座大型煉油設施停止運轉。"
+    },
+    {
+      "id": "mkt:01a06c0e-68aa-7118-84a0-f46e96577437",
+      "time": "2026-09-04 18:54:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's General Staff said its attacks have forced two large Russian refineries to halt operations."
+    },
+    {
+      "id": "5077603",
+      "time": "2026-09-04 18:54:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報90.38美元/桶。"
+    },
+    {
+      "id": "5077602",
+      "time": "2026-09-04 18:54:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IDC預計iPhone摺疊屏均價或達2550美元】業內認為受晶片短缺、供應鏈瓶頸影響，蘋果摺疊屏手機價格或大幅高於預期，IDC預測該手機平均售價2550美元。IDC預計2027年底蘋果將售出超1700萬部摺疊屏手機，收入超457億美元。"
+    },
+    {
+      "id": "5077601",
+      "time": "2026-09-04 18:54:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【招商基金：旗下部分公募基金獲配燧原科技新股】招商基金管理有限公司公告稱，公司旗下部分公募基金參與上海燧原科技股份有限公司首次公開發行A股申購，本次發行主承銷商中信證券、國泰海通證券、廣發證券為公司部分公募基金託管人或託管人的關聯方，發行價格為142.18元/股。涉及關聯關係的公募基金獲配情況如下：招商企業優選混合獲配1040股，金額14.79萬元；招商上證科創板50成份增強策略ETF獲配280股，金額3.98萬元；招商中證消費電子主題ETF獲配440股，金額6.26萬元；招商中證1000增強策略ETF獲配4400股，金額62.56萬元；招商中證全指醫療器械ETF獲配1200股，金額17.06萬元；招商中證雲端計算與大資料主題ETF獲配1080股，金額15.36萬元；招商滬深300ETF獲配720股，金額10.24萬元；招商中證500等權重指數增強獲配1520股，金額21.61萬元。"
+    },
+    {
+      "id": "mkt:01a06c0d-a1b0-7118-84a0-ecc573ebcb4f",
+      "time": "2026-09-04 18:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Securities and Exchange Board (SEBI) and the European Securities and Markets Authority (ESMA) signed a memorandum of understanding on central counterparty (CCP) cooperation and information exchange, replacing the MoU signed on 21 June 2017."
+    },
+    {
+      "id": "mkt:01a06c0c-c709-7118-84a0-e7b52d6f4e6a",
+      "time": "2026-09-04 18:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's labor minister said Volkswagen employees have the right to expect there will be no compulsory layoffs."
+    },
+    {
+      "id": "mkt:01a06c0c-90ac-7118-84a0-db7e59195958",
+      "time": "2026-09-04 18:52:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Securities and Exchange Board of India (SEBI) signed an agreement with the European Securities and Markets Authority (ESMA)."
+    },
+    {
+      "id": "5077600",
+      "time": "2026-09-04 18:52:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會：新備忘錄取代了SEBI與ESMA（歐洲證券和市場管理局）於2017年6月21日簽署的舊備忘錄。"
+    },
+    {
+      "id": "5077599",
+      "time": "2026-09-04 18:52:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍建股份：涉及建設工程施工合同糾紛一審判決】龍建股份公告稱，公司收到烏魯木齊市達坂城區人民法院就陳五星訴公司建設工程施工合同糾紛一案的一審判決，法院判令公司向陳五星支付工程款2374.60萬元、2019年11月16日至2023年11月15日期間工程款利息359.01萬元，以及後續對應利息、保全申請費3658.93元，並負擔部分案件受理費、鑑定費等。本次訴訟尚處於上訴期內，判決尚未生效執行，暫無法判斷對公司本期或期後利潤的影響。"
+    },
+    {
+      "id": "5077598",
+      "time": "2026-09-04 18:51:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會與歐洲證券和市場管理局就中央對手方合作與資訊交換籤署諒解備忘錄。"
+    },
     {
       "id": "5077597",
       "time": "2026-09-04 18:51:39",
