@@ -1,7 +1,15 @@
 {
   "date": "2026-09-05",
-  "count": 376,
+  "count": 377,
   "items": [
+    {
+      "id": "mkt:01a06e26-b347-7118-84ae-5706c9d626e0",
+      "time": "2026-09-05 04:40:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV, citing Lebanese official data, reported that Israeli airstrikes on southern Lebanon tonight killed three."
+    },
     {
       "id": "mkt:01a06e24-51bb-7118-84ae-4a92559da29c",
       "time": "2026-09-05 04:37:48",

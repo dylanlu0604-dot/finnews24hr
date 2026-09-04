@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-05 04:39:04",
-  "count": 14118,
+  "updated": "2026-09-05 04:43:04",
+  "count": 14117,
   "items": [
+    {
+      "id": "mkt:01a06e26-b347-7118-84ae-5706c9d626e0",
+      "time": "2026-09-05 04:40:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV, citing Lebanese official data, reported that Israeli airstrikes on southern Lebanon tonight killed three."
+    },
     {
       "id": "mkt:01a06e24-51bb-7118-84ae-4a92559da29c",
       "time": "2026-09-05 04:37:48",
@@ -129332,22 +129340,6 @@
         "國際"
       ],
       "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：美元的強勢源於美國經濟的強勁。"
-    },
-    {
-      "id": "mkt:01a04a1c-131f-7aab-917a-949da85de8d9",
-      "time": "2026-08-29 04:42:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim news agency reported Israeli forces struck the town of Mansouri in southern Lebanon during ongoing attacks on the area."
-    },
-    {
-      "id": "mkt:01a04a1a-9181-7aab-917a-8fef870b14d6",
-      "time": "2026-08-29 04:40:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. appeals federal block on new mail‑in voting rules】On Aug. 28 local time the Trump administration appealed a federal court ruling that had prevented its mail‑in voting rule from taking effect. U.S. District Judge Indira Talwani on Aug. 27 issued a 14‑day temporary restraining order suspending the U.S. Postal Service’s enforcement of the new mail‑in voting rules and set a Sept. 3 hearing to consider a longer injunction."
     }
   ]
 }
