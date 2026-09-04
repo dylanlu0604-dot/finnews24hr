@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-05 06:27:05",
-  "count": 14113,
+  "updated": "2026-09-05 06:31:04",
+  "count": 14115,
   "items": [
+    {
+      "id": "te:markets:581415",
+      "time": "2026-09-05 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Rises by 2.07% — Top commodity gainers are Gasoline (2.07%), Natural Gas EU (1.28%), Natural Gas UK (1.04%) and Brent Oil (0.32%). Biggest losers are Heating Oil (-1.01%), Ethanol (-0.83%), Propane (-0.69%) and Crude Oil (-0.09%)."
+    },
+    {
+      "id": "5078394",
+      "time": "2026-09-05 06:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發帖稱讚 8 月就業資料】美國總統特朗普在真相社交平臺發文稱，重大喜訊！我們蓬勃發展的經濟在 8 月新增 16.2 萬個就業崗位，以此致敬我們傑出的美國勞動者，我們在這個勞動節（以及每一個勞動節）向他們致以敬意。這一亮眼資料幾乎是彭博調查中那些所謂 “經濟學家” 預測值的三倍，這些人依舊深陷 “特朗普偏執症”。特朗普繁榮紅利的影響體現在眾多行業。 本屆政府藉助 “關稅” 這一有力工具推行公平貿易政策，重塑了全球經濟，前所未有地將製造業崗位帶回美國。得益於全額費用扣除 —— 即一年期抵扣政策，工廠建設如火如荼。用不了多久，這些工廠就會遍佈滿懷愛國熱忱的美國工人！"
+    },
+    {
+      "id": "5078393",
+      "time": "2026-09-05 06:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚 8 月就業資料。"
+    },
     {
       "id": "5078392",
       "time": "2026-09-05 06:22:28",
@@ -129266,17 +129293,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Drops by 4.21% — Top commodity losers are Silver (-4.21%), Gold (-3.18%) and Platinum (-1.09%). Gains are led by Iron Ore CNY (0.91%) and Steel Rebar (0.84%)."
-    },
-    {
-      "id": "te:markets:579259",
-      "time": "2026-08-29 06:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.00% — Top commodity losers are Natural Gas UK (-3%), Natural Gas EU (-2.63%), Germany Natural Gas THE (-1.92%), Brent Crude Oil (-0.26%) and Crude Oil WTI (-0.11%). Gains are led by Gasoline (2.55%), Propane (1.57%) and Heating Oil (1.55%)."
     }
   ]
 }
