@@ -1,7 +1,47 @@
 {
   "date": "2026-09-04",
-  "count": 2466,
+  "count": 2471,
   "items": [
+    {
+      "id": "5078077",
+      "time": "2026-09-04 23:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國最新一輪涉伊朗制裁將土耳其一家銀行列為制裁物件。"
+    },
+    {
+      "id": "te:markets:581364",
+      "time": "2026-09-04 23:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB declined 0.3% to 52,100 on Friday, weighed down by financials following US labor data that came in well above expectations. The figures pointed to a resilient labor market, prompting traders to raise expectations for a Fed rate hike at its September meeting. At the same time, the ECB is also expected to raise rates at next week’s meeting, which could weigh on credit demand for lenders. UniCredit fell 1.2% as the bank moved closer to taking control of Commerzbank and is set to meet with the German finance minister. Meanwhile, the ECB approved MPS’s (0.3%) merger with Mediobanca. Energy shares also traded lower. On the upside, Stellantis gained 1.8% after a coalition of major US automakers urged lawmakers to permanently ban Chinese vehicles from the US. STMicroelectronics and Prysmian added 1.9% and 2.1%, respectively, while utilities also outperformed, led by A2A (1.7%)."
+    },
+    {
+      "id": "te:economy:581363",
+      "time": "2026-09-04 23:59:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at 1-Week Low — South Africa’s 10-year government bond yield fell further to below 8.70%, reaching the lowest in a week, as the rand’s recent strength helped offset some of the inflation risks from higher oil prices. The stronger currency reduces imported inflation risks and boosts the appeal of the country’s relatively high-yielding bonds to foreign investors. The appeal of local debt has also been supported by the central bank's credibility, an improving fiscal outlook and efforts to boost structural reforms. However, elevated tensions in the Middle East have kept global oil prices high, raising concerns about renewed inflationary pressure. Domestically, recent fuel-price adjustments have also increased costs for households and businesses, adding to inflation risks. Against this backdrop, the South African Reserve Bank may be compelled to tighten policy this month after holding rates in April and July. Economists are increasingly anticipating a 25 bps rate hike on September 23."
+    },
+    {
+      "id": "5078076",
+      "time": "2026-09-04 23:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：在與伊朗衝突期間，美國MQ‑9 “死神” 無人機遭受重大損毀，美國正尋求該款無人機價格更為低廉的替代機型。"
+    },
     {
       "id": "mkt:01a06d22-164e-7118-84a9-e2c1849e0da4",
       "time": "2026-09-04 23:55:45",
@@ -12,6 +52,15 @@
         "DXY"
       ],
       "text": "After suffering significant MQ-9 Reaper drone losses in clashes with Iran, the U.S. is seeking a lower-cost replacement option."
+    },
+    {
+      "id": "5078075",
+      "time": "2026-09-04 23:55:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普突然向沃什發難 威脅美聯儲不降息就切斷和對美順差國的貿易】美國總統唐納德·特朗普加大了對美聯儲降息的施壓，他甚至威脅說若央行按兵不動自己就要切斷和逆差物件國的貿易。強於預期的8月非農就業報告出爐後，特朗普週五在社交媒體上發表長篇大論提出降息要求，儘管新的資料可能是增強了美聯儲在9月15日舉行的下次會議上加息的理由。特朗普在帖子中用“很棒”來形容他一手提拔的美聯儲主席凱文·沃什，還要求理事會“學聰明起來”，變成愛國者”。“下調利率，否則我就停止與那些我們有逆差的國家貿易，” 特朗普寫道，“高利率讓美國陷於非常不公平的劣勢地位，而我絕不會允許那種事情發生！”特朗普還聲稱，就連推翻了其關稅的美國最高法院也認可他有權這樣做。不過他若真實施貿易禁運，幾乎肯定會招致法律挑戰。切斷貿易會如何幫助降低美國借貸成本，這一點不得而知。特朗普發出的訊號表明，雖然沃什剛接手數月，他已經失去了對美聯儲的耐心。前主席傑羅姆·鮑威爾就經常因為央行的政策決定受到特朗普抨擊。"
     },
     {
       "id": "5078074",
