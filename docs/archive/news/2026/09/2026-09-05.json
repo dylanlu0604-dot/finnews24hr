@@ -1,7 +1,51 @@
 {
   "date": "2026-09-05",
-  "count": 295,
+  "count": 300,
   "items": [
+    {
+      "id": "mkt:01a06dcc-e339-7118-84ad-435ef08e87ec",
+      "time": "2026-09-05 03:02:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he has studied data centers very carefully."
+    },
+    {
+      "id": "mkt:01a06dcc-627d-7118-84ad-3d589e1ebc52",
+      "time": "2026-09-05 03:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.04% at 25,667, trading a 16-point premium to the cash index."
+    },
+    {
+      "id": "5078319",
+      "time": "2026-09-05 03:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我已非常仔細地研究過資料中心相關情況。"
+    },
+    {
+      "id": "5078318",
+      "time": "2026-09-05 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.05%，報25671.00點，高水20.13點。"
+    },
+    {
+      "id": "5078317",
+      "time": "2026-09-05 02:59:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：原產地標識制度需要國會參與推進。"
+    },
     {
       "id": "5078316",
       "time": "2026-09-05 02:58:00",

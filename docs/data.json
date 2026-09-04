@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-05 02:59:48",
-  "count": 14134,
+  "updated": "2026-09-05 03:04:18",
+  "count": 14128,
   "items": [
+    {
+      "id": "mkt:01a06dcc-e339-7118-84ad-435ef08e87ec",
+      "time": "2026-09-05 03:02:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he has studied data centers very carefully."
+    },
+    {
+      "id": "mkt:01a06dcc-627d-7118-84ad-3d589e1ebc52",
+      "time": "2026-09-05 03:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.04% at 25,667, trading a 16-point premium to the cash index."
+    },
+    {
+      "id": "5078319",
+      "time": "2026-09-05 03:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我已非常仔細地研究過資料中心相關情況。"
+    },
+    {
+      "id": "5078318",
+      "time": "2026-09-05 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.05%，報25671.00點，高水20.13點。"
+    },
+    {
+      "id": "5078317",
+      "time": "2026-09-05 02:59:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：原產地標識制度需要國會參與推進。"
+    },
     {
       "id": "5078316",
       "time": "2026-09-05 02:58:00",
@@ -129415,112 +129459,6 @@
         "MKT News"
       ],
       "text": "Iranian President Pezeshkian said an internal consensus has been reached on transit routes through the Strait of Hormuz."
-    },
-    {
-      "id": "5065987",
-      "time": "2026-08-29 03:03:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：若四項承諾得到履行，伊朗將開放航道。"
-    },
-    {
-      "id": "mkt:01a049c1-a512-7aab-9179-229ccc8f95bb",
-      "time": "2026-08-29 03:03:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Iranian President PEZESHKIAN said Iran is willing to cooperate and seek mutual understanding with regional countries, including Saudi Arabia and the UAE."
-    },
-    {
-      "id": "5065986",
-      "time": "2026-08-29 03:03:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7307元，較週四夜盤收盤跌107點。成交量266.71億美元。"
-    },
-    {
-      "id": "5065985",
-      "time": "2026-08-29 03:02:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：伊朗已準備好與沙烏地阿拉伯、阿聯酋等地區國家開展合作、達成諒解。"
-    },
-    {
-      "id": "mkt:01a049c0-712c-7aab-9179-1a5fc87daa42",
-      "time": "2026-08-29 03:02:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures closed the night session down 0.16% at 25,472, trading 113 points below the cash index."
-    },
-    {
-      "id": "5065984",
-      "time": "2026-08-29 03:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：霍爾木茲海峽通行路線已達成內部共識。"
-    },
-    {
-      "id": "mkt:01a049bf-be5f-7aab-9179-174929c8dcac",
-      "time": "2026-08-29 03:01:37",
-      "tags": [
-        "MKT News",
-        "7267.T",
-        "Impact bullish",
-        "7201.T"
-      ],
-      "text": "Nikkei reports Honda and Nissan are set to reach an agreement to jointly develop vehicle software."
-    },
-    {
-      "id": "5065983",
-      "time": "2026-08-29 03:01:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥玉米期貨本週漲超5.4%，大豆累漲約3.9%】週五（8月28日）紐約尾盤，彭博穀物分類指數漲1.70%，報35.4412點，本週累計上漲6.80%，整體持續走高。本週，CBOT玉米期貨累漲5.46%，報5.3625美元/蒲式耳。本週，CBOT小麥期貨累漲12.05%，報7.8350美元/蒲式耳。CBOT大豆期貨累漲3.89%，報12.8775美元/蒲式耳，豆粕期貨累漲7.06%，豆油期貨累漲2.03%。CBOT瘦肉豬期貨漲1.27%，活牛期貨跌2.80%，飼牛期貨跌2.13%。"
-    },
-    {
-      "id": "mkt:01a049bf-591b-7aab-9179-090a9d6beab7",
-      "time": "2026-08-29 03:01:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH secretary-general Naim Qassem said the U.S. and Israel are carrying out an aggressive plan to control and divide the Middle East, and that Iran and HEZBOLLAH are fighting back."
-    },
-    {
-      "id": "5065982",
-      "time": "2026-08-29 03:00:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "惠而浦公司成交量激增，股價最新上漲3.2%。"
-    },
-    {
-      "id": "5065981",
-      "time": "2026-08-29 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.18%，報25467.49點，低水117.30點。"
     }
   ]
 }
