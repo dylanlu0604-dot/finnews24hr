@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-04 08:30:41",
-  "count": 13053,
+  "updated": "2026-09-04 08:34:26",
+  "count": 13058,
   "items": [
+    {
+      "id": "te:markets:581073",
+      "time": "2026-09-04 08:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise as Fed Hike Bets Ease — The Nikkei 225 Index rose 0.6% to above 64,500 on Friday, snapping a four-day losing streak as traders scaled back expectations for a Federal Reserve rate hike this month. Fed Governor Christopher Waller said he would support keeping rates unchanged if price pressures continue to ease. Meanwhile, markets are watching for a potential rate increase by the Bank of Japan at its September meeting to contain inflationary pressures. Investors also continued to monitor sharp movements in the yen after the currency gained as much as 3% over two sessions. Technology stocks led the rebound, with notable gains from Kioxia Holdings (1.8%), SoftBank Group (5.8%), and Fujikura (1.2%). In contrast, financial and consumer stocks declined, including Mitsubishi UFJ (-1.1%) and Toyota Motor (-0.6%). Still, the Nikkei is on track to fall more than 2% for the week as elevated oil prices and a recent rise in global bond yields weighed on equities during the period."
+    },
+    {
+      "id": "5076469",
+      "time": "2026-09-04 08:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將努力以穩定的方式管理債券市場。"
+    },
+    {
+      "id": "5076468",
+      "time": "2026-09-04 08:31:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：允許符合特定條件的韓國創業板（KOSDAQ）上市股票將上市地點轉移至韓國證券交易所（KONEX）。"
+    },
+    {
+      "id": "mkt:01a069d3-a4fc-7118-8492-5428115481aa",
+      "time": "2026-09-04 08:31:12",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Bank of England chief economist Pill says central bank at risk of being forced to finance fiscal deficits】Bank of England chief economist Pill said the biggest threat to the bank's independence is government pressure to have it finance large fiscal deficits. He said slower growth and a string of supply shocks have widened deficits and raised public debt; financing those deficits via the central bank could prompt markets to question its independence."
+    },
+    {
+      "id": "5076467",
+      "time": "2026-09-04 08:30:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金斯瑞生物科技：擬分拆蓬勃生物並於聯交所主機板獨立上市】9月4日早間，金斯瑞生物科技在港交所公告，公司建議將Probio Technology Limited（蓬勃生物，為公司的間接非全資附屬公司，負責集團的生物製劑及先進療法合約研究、開發及生產組織服務）分拆並將其股份在聯交所主機板獨立上市。有關建議分拆的詳情尚待落實。於建議分拆完成後，公司將繼續持有蓬勃生物的控股權益，其仍將為公司的附屬公司，其財務業績將繼續合併入集團的財務報表中。"
+    },
     {
       "id": "5076466",
       "time": "2026-09-04 08:30:01",
