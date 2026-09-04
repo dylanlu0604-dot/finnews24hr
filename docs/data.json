@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-05 02:12:33",
+  "updated": "2026-09-05 02:16:27",
   "count": 14055,
   "items": [
+    {
+      "id": "5078239",
+      "time": "2026-09-05 02:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大型加工商在肉類行業形成壟斷。"
+    },
+    {
+      "id": "te:markets:581394",
+      "time": "2026-09-05 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 2.05% — Top commodity gainers are Natural gas (2.05%), Gasoline (1.95%), Natural Gas UK (1.04%) and Brent Oil (0.32%). Biggest losers are Heating Oil (-1.48%), Germany Natural Gas THE (-1.25%) and Crude Oil (-0.29%)."
+    },
+    {
+      "id": "mkt:01a06da1-90f0-7118-84ab-e62d0e8ec6d7",
+      "time": "2026-09-05 02:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will take action to help cattle ranchers."
+    },
+    {
+      "id": "5078238",
+      "time": "2026-09-05 02:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將採取行動救助牧場主。"
+    },
+    {
+      "id": "mkt:01a06da1-65d7-7118-84ab-dca622411ba7",
+      "time": "2026-09-05 02:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reports: Iran fires multiple 'Qasem Basir' missiles toward Strait of Hormuz at vessels under US Navy protection】Unconfirmed market reports say Iran launched multiple 'Qasem Basir' medium-range ballistic missiles from Isfahan toward the Strait of Hormuz, reportedly targeting vessels operating under US Navy protection. The report has not been independently verified; the claim of first combat use should be treated cautiously. Qasem Basir is a solid-fuel ballistic missile Iran says is fitted with terminal guidance to improve accuracy against moving targets."
+    },
+    {
+      "id": "5078237",
+      "time": "2026-09-05 02:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：巴西8月出口大豆981萬噸，高於去年同期的933萬噸。"
+    },
     {
       "id": "5078236",
       "time": "2026-09-05 02:11:20",
@@ -128763,62 +128814,6 @@
         "其他"
       ],
       "text": "英偉達股價跌幅擴大至4.4%。"
-    },
-    {
-      "id": "mkt:01a04996-209d-7aab-9178-a989d420dd49",
-      "time": "2026-08-29 02:16:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Foreign Minister Araghchi said Iran is willing to establish good relations with the Lebanese government despite disagreeing with some of its policies, and said he hopes the Lebanese foreign ministry will show greater rationality."
-    },
-    {
-      "id": "5065952",
-      "time": "2026-08-29 02:15:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "惠普公司股價在成交量突增後上漲，最新漲幅為3.0%。"
-    },
-    {
-      "id": "te:markets:579238",
-      "time": "2026-08-29 02:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Gains by 3.15% — Top commodity gainers are Gasoline (3.15%), Methanol (3.02%) and Coking Coal (1.50%). Biggest losers are Natural Gas EU (-3.12%), Natural Gas UK (-3%), Natural gas (-1.49%), Brent Crude Oil (-0.66%) and Crude Oil WTI (-0.22%)."
-    },
-    {
-      "id": "mkt:01a04995-19df-7aab-9178-a5e12008bd36",
-      "time": "2026-08-29 02:15:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s foreign minister said Iran and Egypt have no differences and Tehran stands ready to restore diplomatic ties once Egyptian counterparts reach consensus and are prepared to do so."
-    },
-    {
-      "id": "5065951",
-      "time": "2026-08-29 02:13:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：獲批產品屬於Juul2電子煙系統。"
-    },
-    {
-      "id": "te:economy:579237",
-      "time": "2026-08-29 02:12:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Non Farm Payrolls",
-        "Importance 1"
-      ],
-      "text": "Brazil Job Creation Slows Sharply in July — Brazil created 58,568 formal jobs in July 2026, below forecasts of 112,000 and down sharply from 145,161 in June. The result reflected 2,262,888 hires and 2,204,320 layoffs. Four of the five major economic sectors posted positive job balances, led by services (+24,098 jobs), followed by construction (+12,691), agriculture (+12,523), and industry (+11,315). Commerce, meanwhile, recorded a negative balance of 2,056 jobs. Twenty-two of Brazil’s 27 states registered positive net payrolls. São Paulo posted the largest gain, with 17,814 jobs, followed by Mato Grosso (+5,766) and Minas Gerais (+5,199). Among states with negative balances, Espírito Santo recorded the largest decline, with 2,605 jobs lost, followed by Rio Grande do Sul (-903) and Tocantins (-366). The stock of active formal employment contracts reached 48,082,866, up 0.12% from June."
     }
   ]
 }

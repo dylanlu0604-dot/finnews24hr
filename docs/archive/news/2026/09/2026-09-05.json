@@ -1,7 +1,58 @@
 {
   "date": "2026-09-05",
-  "count": 166,
+  "count": 172,
   "items": [
+    {
+      "id": "5078239",
+      "time": "2026-09-05 02:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大型加工商在肉類行業形成壟斷。"
+    },
+    {
+      "id": "te:markets:581394",
+      "time": "2026-09-05 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 2.05% — Top commodity gainers are Natural gas (2.05%), Gasoline (1.95%), Natural Gas UK (1.04%) and Brent Oil (0.32%). Biggest losers are Heating Oil (-1.48%), Germany Natural Gas THE (-1.25%) and Crude Oil (-0.29%)."
+    },
+    {
+      "id": "mkt:01a06da1-90f0-7118-84ab-e62d0e8ec6d7",
+      "time": "2026-09-05 02:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will take action to help cattle ranchers."
+    },
+    {
+      "id": "mkt:01a06da1-65d7-7118-84ab-dca622411ba7",
+      "time": "2026-09-05 02:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reports: Iran fires multiple 'Qasem Basir' missiles toward Strait of Hormuz at vessels under US Navy protection】Unconfirmed market reports say Iran launched multiple 'Qasem Basir' medium-range ballistic missiles from Isfahan toward the Strait of Hormuz, reportedly targeting vessels operating under US Navy protection. The report has not been independently verified; the claim of first combat use should be treated cautiously. Qasem Basir is a solid-fuel ballistic missile Iran says is fitted with terminal guidance to improve accuracy against moving targets."
+    },
+    {
+      "id": "5078238",
+      "time": "2026-09-05 02:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將採取行動救助牧場主。"
+    },
+    {
+      "id": "5078237",
+      "time": "2026-09-05 02:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：巴西8月出口大豆981萬噸，高於去年同期的933萬噸。"
+    },
     {
       "id": "5078236",
       "time": "2026-09-05 02:11:20",
