@@ -1,7 +1,613 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-04 19:39:49_
-_本檔包含 2588 則快訊，約 546705 字_
+_更新時間：2026-09-04 23:03:08_
+_本檔包含 2638 則快訊，約 552898 字_
+
+---
+
+### 2026-08-31 15:40:12  #Trading Economics #Economy #Poland #Inflation Rate #Importance 1
+
+Poland Inflation Rate Accelerates to 3.4% — The annual inflation rate in Poland picked up to 3.4% in August 2026 from 3.0% in July, coming in above expectations of 3.1%, preliminary estimates showed. This marked the highest inflation rate since June 2025, bringing it close to the upper limit of the central bank’s 2.5% inflation target, which allows for a range of 1.5% to 3.5%. Among subcategories, prices for fuels and lubricants for personal transport equipment surged 24.2%, while electricity, gas and other fuels rose 4.1%. On the other hand, prices for food and non-alcoholic beverages declined by 0.9%. On a monthly basis, consumer prices increased 0.4%, moderating from a 0.8% rise in the previous period.
+
+---
+
+### 2026-08-31 15:36:44  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Lack Direction — European stocks were subdued on Monday, with both the STOXX 50 and STOXX 600 trading around the flatline as oil prices rose amid renewed tensions in the Middle East. US forces struck two Iranian missile launchers on Larak Island in the Strait of Hormuz, while Tehran retaliated by attacking US forces in Jordan. Adding to market jitters, President Trump said that Iran’s main oil terminal on Kharg Island was being “blown to smithereens”. The energy sector was among the top performers, with TotalEnergies rising 1.4% and Eni gaining 1.5%. By contrast, Siemens Energy fell nearly 4%, making it the biggest decliner on the STOXX 600. ASML Holding (-1%) and Roche (-0.7%) were also in the red. For August as a whole, however, the STOXX 50 has gained 2%, while the STOXX 600 is up 0.9% so far, after both indices reached record highs in the first half of the month.
+
+---
+
+### 2026-08-31 15:31:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.55% Lower — The DAX Index is falling 146 points. Losses were driven by Siemens Energy (-3.93%), MTU Aero Engines AG (-1.39%) and Vonovia (-1.34%). Biggest rises came from Continental (1.43%), Brenntag (0.86%) and BASF (0.82%).
+
+---
+
+### 2026-08-31 15:30:06  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.21% Higher — The CAC 40 Index is gaining 18 points or 0.21 percent on Monday. Leading the gains are Societe Generale (1.53%), Stellantis NV (1.30%) and TotalEnergies SE (1.27%). Top losers are STMicroelectronics (-1.83%), TP (-1.17%) and Dassault Systemes (-0.80%).
+
+---
+
+### 2026-08-31 15:22:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Steel Hits 2-½-Month Highs — Steel rebar futures jumped above CNY 3,140 per ton, reaching their highest levels since mid-June as investors anticipated a recovery in demand due to seasonal factors ahead of the September peak construction season. Construction activity in top consumer China typically picks up ahead of winter, strengthening the outlook for demand for steel and raw materials. China’s National Development and Reform Commission also reportedly held meetings in recent weeks urging local governments to accelerate the construction of major projects. Meanwhile, China’s non-manufacturing PMI, which covers services and construction, held steady at 49.0, matching July’s reading and remaining at its weakest level since December 2022. Sweeping regulatory changes for China’s crisis-hit property sector announced last week also drove shares in smaller developers sharply lower, amid expectations of further consolidation across the industry.
+
+---
+
+### 2026-08-31 15:20:41  #Trading Economics #Economy #Turkey #GDP Annual Growth Rate #Importance 2
+
+Turkey GDP Growth Smallest Six Years — The Turkish economy expanded 2.3% year-on-year in Q2 2026, easing from an upwardly revised 2.6% growth in Q1 and coming in below the expected 2.9% increase. This marked the softest economic expansion since a contraction in Q2 2020, as growth slowed in household consumption (3.5% vs 5.1% in Q1) and fixed investment (0.6% vs 3.1%). Government spending also declined by 1.8%, following a 0.8% increase in the previous period. In net trade, exports fell 3.4% (vs -12.7%), while imports dropped at a faster pace of 6.4% (vs -2.0%). On the production side, output contracted for construction (-1.9% vs 3.2%), while activity growth moderated for trade, transportation, accommodation and food services (0.5% vs 3.5%), and information and communication (8.6% vs 9.0%). In contrast, output rebounded for manufacturing (2.4% vs -1.3%), while it accelerated for agriculture, forestry and fishing (13.3% vs 4.8%). On a quarterly basis, GDP grew 1.1%, the most in a year, following a 0.3% expansion in Q1.
+
+---
+
+### 2026-08-31 15:18:51  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Hits 1-Month High — Iron ore futures climbed above CNY 720 per ton, reaching a one-month high as investors anticipated a recovery in demand due to seasonal factors ahead of the September peak construction season. Construction activity in top consumer China typically picks up ahead of winter, strengthening the outlook for demand for steel and raw materials. China’s National Development and Reform Commission also reportedly held meetings in recent weeks urging local governments to accelerate the construction of major projects. Meanwhile, higher freight and oil costs provided additional support for iron ore prices, although rising coking coal prices continued to squeeze steel mill margins. Industry data also showed that the blast furnace operating rate among Chinese steel mills edged lower last week, while daily hot metal output also declined.
+
+---
+
+### 2026-08-31 15:16:05  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.83% Higher — The Shangai Composite Index gained 33 points or 0.83 percent on Monday to close at 3985 points. Gains were led by China Coal (5.40%), Bank Of China (5.01%) and Bank Of Beijing (4.91%). Biggest losers were Hua Xia Bank (-5.04%), LONGi Green (-3.54%) and Poly Real Estate (-3.47%).
+
+---
+
+### 2026-08-31 15:13:13  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Hits 12-Week High — The yield on India’s 10-year G-Sec rose to around 6.95%, extending gains from the previous session to a twelve-week high as rising expectations of tighter monetary policy and elevated oil prices added to upward pressure on yields. Hawkish comments from Fed Chair Kevin Warsh lifted expectations of a September US rate hike, keeping US Treasury yields elevated and reducing demand for Indian debt. In the domestic market, investors remained cautious ahead of April-June GDP data, with stronger-than-expected growth potentially reinforcing expectations for RBI policy tightening. Meanwhile, Brent crude climbed back toward $90 a barrel, heightening inflation concerns and limiting the scope for monetary easing. The RBI’s August meeting minutes, which indicated that policymakers could consider rate hikes if inflation risks broaden, further dampened sentiment toward government bonds.
+
+---
+
+### 2026-08-31 15:11:34  #Trading Economics #Economy #Turkey #Unemployment Rate #Importance 1
+
+Turkish Jobless Rate Rises to 8.1% in July — Turkey’s seasonally adjusted unemployment rate rose to 8.1% in July 2026 from 7.6% in the previous month, which was the lowest jobless rate since the data series began in 2005. The latest reading was the same as the May figure, with the number of unemployed individuals increasing by 150,000 to 2.86 million. By gender, the jobless rate stood at 6.8% for men and 10.6% for women. Among youth aged 15–24, the unemployment rate climbed to 14.5% from 13.0%, with rates of 11.3% for men and 20.3% for women. Meanwhile, the employment rate fell to 48.3% from 48.9%, as the number of employed persons decreased by 338,000 to 32.36 million. The labor force participation rate dropped to 52.5% from 52.9%, with the labor force declining by 238,000 to 35.22 million. Average weekly actual working hours stood at 42.0 hours in July, down by 0.4 hours from the previous month.
+
+---
+
+### 2026-08-31 15:11:22  #Trading Economics #Economy #Georgia #Monthly GDP YoY #Importance 1
+
+Georgia GDP Growth Remains Strong in July — Georgia’s economy expanded by 8.0% year-on-year in July 2026, following an 8.6% growth in the previous month. Economic activity was supported mainly by strong performances in manufacturing, information and communication, financial and insurance activities, mining and quarrying, and transportation and storage. In contrast, construction activity declined from a year earlier. The average real GDP growth for the first seven months of 2026, totaled to 7.9%. External trade remained supportive in January-July, with exports rising 21.6% year-on-year to $4.67 billion, while imports increasing 2.4% to $10.85 billion, lifting total merchandise trade turnover by 7.5% to $15.52 billion.
+
+---
+
+### 2026-08-31 15:09:17  #Trading Economics #Markets #France #stocks #Importance 1
+
+Airbus Stock Price Hits 4-week Low — Airbus shares decreased to 202.00 EUR, the lowest since July 2026. Over the past 4 weeks, Airbus lost 2.79%, and in the last 12 months, it increased 11.1%.
+
+---
+
+### 2026-08-31 15:00:30  #Trading Economics #Markets #Germany #stocks #Importance 1
+
+Siemens Energy Stock Price Hits 4-week Low — Siemens Energy shares decreased to 145.93 EUR, the lowest since August 2026. Over the past 4 weeks, Siemens Energy AG gained 8.55%, and in the last 12 months, it increased 61.75%.
+
+---
+
+### 2026-08-31 15:00:15  #Trading Economics #Markets #Norway #Stock Market #Importance 0
+
+Stocks in Norway Hit All-time High — Oslo increased to an all-time high of 2495.00 Index Points. Over the past 4 weeks, Norway Stock Market Index (Oslo Bors All-Share) gained 4.9%, and in the last 12 months, it increased 31.37%.
+
+---
+
+### 2026-08-31 14:58:28  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Close Higher — The benchmark KOSPI rose 0.46% to close at 6,820 on Monday, reversing part of the previous session's losses as Samsung Electronics and SK hynix rebounded, alongside gains across other large-cap stocks. Samsung Electronics increased 1.17% and SK hynix advanced 1.27%, while SK Square (0.88%), Hyundai Motor (1.00%), LG Energy Solution (2.16%), KB Financial Group (0.99%), and Kia Corporation (2.34%) also posted gains. The market also remained supported by expectations for another month of strong semiconductor-led export growth, with August shipments forecast to rise more than 60% year-on-year. The KOSPI was on course for a gain of over 3% for the month of August. Meanwhile, renewed concerns over US interest rates following hawkish comments from Federal Reserve Chair Kevin Warsh kept investors cautious. At the same time, escalating Middle East tensions following renewed US strikes near the Strait of Hormuz added to risk concerns.
+
+---
+
+### 2026-08-31 14:49:26  #Trading Economics #Economy #Hungary #Producer Prices Change #Importance 1
+
+Hungary Producer Prices Rebound in July — Producer prices in Hungary rose 1.0% year-on-year in July 2026, the most since March, rebounding from a 0.4% fall in the previous month. Prices for domestic output increased at a faster rate (2.5% vs 1.8% in June), while prices for non-domestic output rebounded (0.3% vs -1.4%). By sector, prices in mining and quarrying (-2.6% vs -3.1%) and manufacturing (-0.8% vs -2.2%) fell at a slower pace. At the same time, price growth accelerated in electricity, gas, steam and air-conditioning supply (9.7% vs 8.8%) and water collection, treatment and supply (3.5% vs 2.5%). On a monthly basis, producer prices jumped 1.4%, following a 0.1% increase in June.
+
+---
+
+### 2026-08-31 14:45:17  #央行 #美聯儲
+
+【經濟學諾獎得主克魯格曼評美聯儲主席最新演講：非常傳統 不激進】諾貝爾經濟學獎得主、美國經濟學家保羅·克魯格曼當地時間8月29日在接受媒體採訪時表示，美聯儲主席沃什此次講話“非常傳統”（utterlyconventional），沒有釋放出什麼激進的政策訊號。克魯格曼認為，沃什此次講話“重要的不是他說了什麼，而是他沒有說什麼”。
+
+---
+
+### 2026-08-31 14:42:58  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Marks Fifth Monthly Gain, Up 1.1% in August — The ASX 200 slipped 16 points or 0.2% to end at 9,076 on Monday, the final trading day of August, reversing prior gains as U.S. stock futures fell after oil prices spiked on fresh U.S. strikes against Iranian rocket launchers near the Strait of Hormuz. Hawkish remarks from Fed Chair Warsh added to rate-hike jitters. Locally, Australia's private sector credit rose 0.6% in July, the weakest in five months. Meanwhile, services activity in top trading partner China stayed soft in July despite a rebound in manufacturing output. Losses in tech, non-energy minerals, and consumer names offset strength in communications and financials. Heavyweights BHP and Rio Tinto fell over 2%, while Northern Star Resources and Evolution Mining slid 5.2% each. Star Entertainment lost 3.9% despite narrowing its annual loss. In contrast, the big four banks rallied. The index logged its fifth straight monthly gain, up 1.1%, lifted by bargain hunting. Traders now eye Q2 GDP and July trade data later this week.
+
+---
+
+### 2026-08-31 14:30:03  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 0.42% Lower — The Nikkei 225 Index decreased 277 points or 0.42 percent on Monday to close at 66129 points. The decline was led by Toho Zinc (-7.28%), Mitsubishi Materials (-6.92%) and Japan Steel Works (-5.41%). On the upside, the strongest performers were Tokai Carbon (7.97%), Kansai Electric Power (7.31%) and Casio Computer (5.28%).
+
+---
+
+### 2026-08-31 14:26:56  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Head for Lower Open — European equity markets were set to open lower on Monday, starting the week on a weaker note as hawkish comments from Federal Reserve Chair Kevin Warsh revived expectations for a US interest rate hike next month. In his Jackson Hole address on Friday, Warsh warned that inflation isn’t meaningfully slowing and reaffirmed policymakers’ commitment to returning inflation to their 2% target. Inflation concerns also intensified as oil prices jumped amid renewed tensions in the Middle East, with the US military targeting Iranian rocket launchers over the weekend. In Europe, investors will assess German inflation data for August, along with Turkish Q2 GDP figures and July unemployment data. Meanwhile, there are no major earnings reports scheduled in Europe today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.2%.
+
+---
+
+### 2026-08-31 14:18:02  #Trading Economics #Markets #South Korea #currency #Importance 1
+
+South Korean Won Hits 13-month High — The South Korean Won touched 1369.00 against the USD, the highest since July 2025. Over the past 4 weeks, US Dollar South Korean Won lost 4.23%, and in the last 12 months, it decreased 1.73%.
+
+---
+
+### 2026-08-31 14:06:50  #Trading Economics #Economy #Denmark #Unemployment Rate #Importance 1
+
+Danish Jobless Rate Steady at 2.7% in July — Denmark’s unemployment rate stood at 2.7% in July 2026, unchanged for the sixth consecutive month and remaining at its highest level since September 2021. The number of unemployed persons rose by 0.1 thousand from the previous month to 82.1 thousand full-time workers. The unemployment rate for men held steady at 3.0%, while the rate for women remained at 3.1%. Unemployment rates were also unchanged across all age groups, remaining lowest among those aged 16–24 at 1.6% and highest among 25–29-year-olds at 4.9%. Meanwhile, the number of unemployed receiving unemployment benefits rose by 0.2 thousand to 78.4 thousand, while those on cash assistance fell by 0.1 thousand to 15.2 thousand.
+
+---
+
+### 2026-08-31 13:57:59  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Ends 1.1% Higher, Posts 7th Monthly Gain — New Zealand stocks rose 149 points, or 1.1%, to close at 13,917 on Monday, erasing losses in the previous two sessions, mainly supported by industrials, tech sectors, utilities, and real estate. The broader index moved up from its lowest level since August 17, reached on Friday, as business confidence for August remained at a historically strong level, though easing from July's five-month high. However, traders were cautious ahead of the RBNZ's monetary policy decision this week, with the market expecting the central bank to raise interest rates by 25 bps after raising them in May. Investors also continued to monitor developments in the Middle East after the US struck Iranian launchers on Larak Island. Among the top gainers were Meridian Energy (5.3%), Gentrack Group (3.1%), Hallenstein Glasson (2.6%), Fletcher Building (2.1%), South Port of NZ (1.7%), and Fisher & Paykel (1.4%). For the month, the index rose 1.6%, marking the seventh straight monthly gain.
+
+---
+
+### 2026-08-31 13:32:43  #Trading Economics #Economy #Australia #MI Inflation Gauge MoM #Importance 1
+
+Australia Inflation Gauge Eases — Australia’s Melbourne Institute Monthly Inflation Gauge rose 0.5% month-on-month in August 2026, slowing from a 1.0% increase in the previous month and marking the second straight month of growth. The moderation suggested price pressures are moderating from their March peak, although underlying inflation remains elevated. The Reserve Bank of Australia’s August meeting minutes noted that underlying price growth had eased slightly from late 2025 levels, but inflation remained “too high.” Officials also highlighted upside risks from the Middle East conflict, the global AI boom and weak productivity growth. Meanwhile, annual inflation eased to 3.5% in July from 3.8% in June, the lowest in eight months, but remained above the RBA’s 2–3% target range. The central bank expects inflation to return to target only gradually, by late 2027, keeping the outlook for monetary policy cautious.
+
+---
+
+### 2026-08-31 13:21:12  #Trading Economics #Economy #Estonia #GDP Annual Growth Rate #Importance 1
+
+Estonian Q2 GDP Annual Growth Slows to 1.8% — The economy of Estonia advanced by 1.8% year-on-year in Q2 2026, slowing sharply from an upwardly revised 2.9% growth in Q1. The deceleration came as household spending (1.6% vs 3.8% in Q1) and government spending (0.5% vs 4.5%) both eased sharply. On the external front, exports of goods and services accelerated (2.7% vs 1.3% in Q1), though at a slower pace than imports, which accelerated to 4.3% from 1.1% in Q1. For the first time since the fourth quarter of 2024, net exports were negative. Meanwhile, gross fixed capital formation fell at a softer pace (-6.1% vs -10.6%). On the production side, the largest positive contributions came from manufacturing, which grew 6.5%, followed by agriculture, forestry, and fishing, which jumped 168.3% due to a low base effect last year, while the construction sector expanded 7.5%. On a seasonally adjusted quarterly basis, GDP grew by 0.3%, easing from a downwardly revised 1.0% increase in Q1.
+
+---
+
+### 2026-08-31 13:06:56  #Trading Economics #Economy #Japan #Housing Starts YoY #Importance 1
+
+Japan Housing Starts Rise for 4th Month, Growth Slows — Japan’s housing starts increased 8.2% year-on-year in July 2026, slowing significantly from an 18.6% surge in the previous month. Still, the latest reading marked the fourth consecutive month of growth, surpassing market expectations of 7.9% growth. Owner-occupied homes rose just 0.4% (vs 15.7% in June), while rental housing growth eased markedly (10.0% vs 24.6%). In the meantime, built-for-sale homes continued to grow solidly (14.6% vs 14.2%). At the same time, starts of two-by-four homes fell further (-8.5% vs -7.4%), while prefabricated housing starts dropped 6.9%, reversing a 13.7% gain in June.
+
+---
+
+### 2026-08-31 12:57:28  #Trading Economics #Markets #India #Stock Market #Importance 0
+
+Stocks in India Hit 4-week Low — SENSEX decreased to 76823.00 Index Points, the lowest since July 2026. Over the past 4 weeks, SENSEX lost 2.29%, and in the last 12 months, it decreased 4.39%.
+
+---
+
+### 2026-08-31 12:55:29  #其他
+
+【西藏吉隆泥石流災害區域所有高風險村組完成全面排查】從國家防減救災辦吉隆前方救災工作組、應急管理部瞭解到，截至8月30日，已經完成西藏吉隆泥石流災害受災區域所有高風險村組的全面排查。
+
+---
+
+### 2026-08-31 12:52:02  #其他
+
+【北大科學家發現：南極冰川融化正釋放劇毒水銀】近日，北京大學科學家發現，南極冰川融化正釋放出被冰封數千年的劇毒水銀，而罪魁禍首正是人類活動導致的氣候變化。 資料顯示，自工業化以來，冰融釋放的水銀量激增550%，同時大氣吸收量也上升了350%。高毒性水銀已開始侵蝕南極生態。 目前，62%的南極海鳥體內水銀超標，四分之一的物種面臨中度至高度中毒風險。脆弱的南極生態系統，正面臨前所未有的威脅。這一切，再次敲響了氣候行動的警鐘。（風芒新聞 ）
+
+---
+
+### 2026-08-31 12:50:07  #其他
+
+【騰訊WorkBuddy生態釋出會定檔9月2日】據騰訊雲訊息，騰訊WorkBuddy生態釋出會將於9月2日14:00在深圳舉行。
+
+---
+
+### 2026-08-31 12:48:35  #MKT News
+
+【GigaDevice joins Zephyr project, becomes silver member of Zephyr and Linux Foundation】GigaDevice has joined the Zephyr real-time open-source OS project hosted by the Linux Foundation and become a silver member of both the Zephyr project and the Linux Foundation, marking a step-up in its global open-source embedded ecosystem build-out.
+
+---
+
+### 2026-08-31 12:45:41  #國際
+
+【馬杜羅社媒釋出其獄中照片】遭美國強行控制的委內瑞拉總統馬杜羅的社交媒體賬號30日釋出了兩張他在獄中的照片，照片中馬杜羅面帶微笑，身著運動服，看起來身體狀況良好。照片標註拍攝日期為2026年6月25日。社媒配文說，這些照片是送給家人和支持者的“一份小禮物”。“我想讓你們知道，我們堅強地站在一起，心中充滿了你們的愛。”有評論認為，這很可能不是馬杜羅本人釋出的貼文。（新華社）
+
+---
+
+### 2026-08-31 12:44:26  #公司
+
+【黑芝麻智慧釋出中期業績 收入4.58億元 同比增長81.3%】黑芝麻智慧(02533)釋出截至2026年6月30日止6個月的中期業績，集團收入人民幣4.58億元，同比增長81.3%;毛利2.27億元，同比增長261.9%;淨虧損7.7億元。報告期內，集團全面加快高階輔助駕駛算力平臺產業化落地程序，集團輔助駕駛業務實現66.8%同比增長。華山A2000系列於年初推出後，集團正加快推進A2000方案在東風、宇通、奇瑞等多家主流主機廠的定點量產工作;與此同時，集團持續深化與戰略頭部客戶的業務合作，合作範圍已覆蓋乘用車、商用車及無人物流等多個領域，已斬獲覆蓋L2+至L3級輔助駕駛功能的量產專案定點，晶片工程適配化能力在高階智駕場景中得到驗證。隨著與元戎、Nullmax等演算法合作伙伴聯合開發的配套方案陸續推出，華山A2000晶片將於下半年正式進入量產階段。
+
+---
+
+### 2026-08-31 12:44:16  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Retreats as Oil Prices Climb — India’s BSE Sensex fell about 0.5% to 76,898 on Monday, reversing last session’s gains as rising oil prices, escalating Middle East tensions and caution ahead of the MSCI reshuffle weighed on sentiment. Brent crude climbed towards $90 a barrel following the latest US-Iran escalation, raising concerns for oil-importing India. The MSCI reshuffle takes effect September 1, with Laurus Labs, Lenskart, Adani Energy Solutions and Groww joining, while Balkrishna Industries, SBI Cards and Astral will be removed. Reliance Industries’ weight will fall, while Adani Enterprises’ will rise. The IT index was among the biggest decliners, with Infosys, Persistent and Mastek falling 2.2%-3%. Other laggards included Reliance (-1.2%), Tempsens Instruments (-3.4%) and Netweb (-2.7%). HDFC Bank gained about 1.9% after CEO Sashidhar Jagdishan said he would not seek a third term in October. Bernstein viewed the leadership change positively, giving the lender an opportunity to reset its strategy.
+
+---
+
+### 2026-08-31 12:43:33  #其他
+
+傑富瑞將洲際交易所目標價從171美元上調至189美元。
+
+---
+
+### 2026-08-31 12:43:13  #公司 #國際
+
+【日本開始第23輪核汙染水排海 】日本東京電力公司8月31日啟動福島第一核電站2026財年第5輪核汙染水排海，這也是總計第23輪核汙染水排海。據福島當地媒體報道，當地時間31日11時29分（北京時間10時29分），東京電力公司開始本輪核汙染水排放。根據東京電力公司27日釋出的資料，本輪排放計劃持續至9月18日，預計排放核汙染水總量約7800噸，含放射性氚總量約1.2萬億貝克勒爾。
+
+---
+
+### 2026-08-31 12:42:31  #公司
+
+【胡祖六：人工智慧對金融體系提出更高要求】近日，在華泰保險集團三十週年論壇上，安達集團獨立董事，知名經濟學家、春華資本集團創始人胡祖六就宏觀經濟形勢與金融保險業發展機遇發表演講，他認為當今世界正處於“大劇變”之中，挑戰與機遇交織並存。中國經濟呈現供給端與創新動能強勁、內需尚待提振的分化格局。與此同時，人工智慧將深度重塑產業格局、顯著提升生產率，而支撐這場變革的鉅額長期資本需求，對金融體系深度與長期資本供給能力提出了更高要求。
+
+---
+
+### 2026-08-31 12:41:40  #公司 #市場 #國際
+
+【日本9月將迎來年內最大一波食品漲價潮】日本帝國資料庫公司31日公佈的調查結果顯示，日本將迎來“年內最大一波漲價潮”，預計9月將要漲價的食品種類達到4923種，約為去年同期的3倍，達到今年單月漲價種類的最高值。本次調查是以195家主要食品企業為物件進行的。受中東局勢惡化帶來的原油價格走高影響，包裝材料價格上漲，企業不斷把成本轉嫁到商品售價上。自2025年4月以來，日本單月漲價種類再度突破4000種。受創紀錄日元貶值影響，進口成本持續走高，預計10月漲價的食品種類也將繼續超過3000種。
+
+---
+
+### 2026-08-31 12:40:31  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Steady as Destry Confirmed as New BI Governor — The Indonesian rupiah hovered around IDR 17,750 per U.S. dollar on Monday, stabilising after recent weakness as the dollar index held near a two-week high following hawkish remarks from Fed Chair Kevin Warsh. His comments lifted expectations for a September rate hike, with odds priced near 57%. Domestically, House Commission XI approved Destry Damayanti as Bank Indonesia’s new governor for 2026–2031, succeeding Perry Warjiyo, who abruptly resigned in July. Destry pledged that closer policy coordination with the government would not compromise the central bank’s independence, stressing stability and growth as priorities. Focus now shifts to key data: August inflation and July trade. Inflation eased to 2.88% year-on-year, a three-month low within Bank Indonesia’s 1-1/2%–3-1/2% target band. Meanwhile, June posted a second consecutive monthly trade deficit of US$450 million, driven by surging oil and gas imports, underscoring persistent external pressures.
+
+---
+
+### 2026-08-31 12:39:39  #其他
+
+【尼泊爾泥石流903人遇難 】據尼泊爾國家減少災害風險管理局公佈的資料，截至當地時間今天（8月31日）9時（北京時間11時15分），尼泊爾泥石流造成的遇難人數升至903人，失聯人數為4247人。（ CCTV國際時訊  ）
+
+---
+
+### 2026-08-31 12:38:16  #國際
+
+【埃及各界期待習近平主席對埃進行國事訪問 】應埃及總統塞西邀請，國家主席習近平將對埃及進行國事訪問。埃及各界人士表示，習近平主席在埃中建交70週年之際訪問埃及意義重大，相信這次訪問必將賡續兩國傳統友誼，成為埃中關係發展新的里程碑。他們期待，習近平主席同埃及領導人一道，為深化兩國全面戰略伙伴關係擘畫新藍圖，推動雙邊關係朝著構建面向新時代命運共同體的目標闊步前行。（新華社）
+
+---
+
+### 2026-08-31 12:38:01  #經濟數據 #日本
+
+【日本9月將迎來年內最大一波食品漲價潮】日本帝國資料庫公司31日公佈的調查結果顯示，日本將迎來“年內最大一波漲價潮”，預計9月將要漲價的食品種類達到4923種，約為去年同期的3倍，達到今年單月漲價種類的最高值。
+
+---
+
+### 2026-08-31 12:37:55  #其他
+
+【香港發出黃色暴雨警告訊號】香港天文臺今日（31日）12時25分發出黃色暴雨警告訊號。暴雨警告訊號現時為黃色，表示香港廣泛地區已錄得或預料會有每小時雨量超過30毫米的大雨，且雨勢可能持續。 一些低窪地帶及排水欠佳的地區會出現水淹。可能受大雨及水浸影響的市民應採取適當的預防措施，以防止可能引致的損失。 大雨可能引致山洪暴發，市民應遠離河道。可能受河道氾濫影響的市民應採取適當的預防措施，以避免損失。 請留意電臺或電視臺廣播有關交通情況及其他有關暴雨訊息的報告。
+
+---
+
+### 2026-08-31 12:37:23  #公司 #國際
+
+伊朗伊斯蘭革命衛隊海軍：各航運公司切勿被美軍的煽動所矇蔽。
+
+---
+
+### 2026-08-31 12:37:02  #國際
+
+伊朗伊斯蘭革命衛隊海軍：我們警告，任何違反霍爾木茲海峽安全規定的船隻，其命運將與觸碰到兩枚水雷的船隻相似。在霍爾木茲海峽通行與航行時，必須嚴格遵守我方釋出的相關指示。
+
+---
+
+### 2026-08-31 12:35:19  #國際
+
+巴西將擴大印度藥品的市場準入。
+
+---
+
+### 2026-08-31 12:35:13  #國際
+
+印度和巴西的目標是到2030年實現300億美元的雙邊貿易額。
+
+---
+
+### 2026-08-31 12:34:56  #公司 #觀點
+
+【東吳證券：維持中金公司“買入”評級 境內境外業務線全面增長】東吳證券釋出研報稱，中金公司(03908)26H1實現營業收入193.0億元，同比增長50.5%;歸母淨利潤82.0億元，同比增長89.3%;對應EPS 1.62元，ROE 7.6%，同比提升3.4個百分點。第二季度實現營業收入104.8億元，同比增長47.4%;歸母淨利潤46.2億元，同比增長102%。公司業務線全面增長，尤其在境內外股權投行方面大幅增長。該行維持“買入”評級，並上調此前盈利預測，預計2026/2027/2028年歸母淨利潤分別為135/141/150億元(前值為110/116/123億元)。
+
+---
+
+### 2026-08-31 12:33:40  #市場
+
+巴基斯坦KSE-100指數開盤後下跌0.1%，至177,460.50點。
+
+---
+
+### 2026-08-31 12:33:19  #MKT News
+
+【China NHSA consults on case-based payment (DRG) 3.0 special-case negotiation mechanism】On Aug. 25, China’s National Healthcare Security Administration (NHSA) held two roundtable consultations to gather local insurer and hospital feedback ahead of the planned release of the case-based payment (DRG) 3.0 grouping scheme. The meetings sought proposals to refine the special-case negotiation mechanism, aiming to enable dynamic adjustment of DRG groupings and streamline implementation. Participants urged stronger oversight, process optimization and efficiency gains, and said the special-case mechanism has helped allay hospital reluctance to admit complex or critical patients and supported clinical uptake of new drugs and technologies.
+
+---
+
+### 2026-08-31 12:32:39  #其他
+
+【國家醫保局開展按病種付費3.0版分組方案特例單議機制座談交流】為持續深化醫保支付方式改革，推進按病種付費分組方案動態調整，不斷最佳化特例單議等配套機制，8月25日下午，國家醫保局組織開展按病種付費特例單議機制兩場專題座談，結合即將釋出的按病種付費3.0版分組方案，聽取地方醫保部門、醫療機構對完善特例單議機制的意見建議。與會人員圍繞強化管理，最佳化流程，提高效率等建言獻策，並普遍表示特例單議機制，在打消醫療機構收治疑難危重患者顧慮，支援臨床新藥耗新技術應用發揮了積極的作用。
+
+---
+
+### 2026-08-31 12:32:28  #MKT News
+
+Caitong Fuxin Fixed-Open Hybrid Fund will suspend trading from the afternoon open on Aug. 31, 2026 through the market close that day.
+
+---
+
+### 2026-08-31 12:31:52  #觀點
+
+摩根大通將龐巴迪目標價從295加元上調至350加元。
+
+---
+
+### 2026-08-31 12:31:35  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says tanker struck sea mines, caught fire during alleged illegal Strait of Hormuz transit】Aug 31 — Iranian state TV reported the Islamic Revolutionary Guard Corps said a VLCC struck two sea mines in the Strait of Hormuz, caught fire and stopped. The IRGC said the vessel was attempting an illegal transit of the southern Strait of Hormuz and warned ships must comply with its transit rules.
+
+---
+
+### 2026-08-31 12:31:25  #其他
+
+【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，茂名海事局釋出航行警告，8月31日至9月5日，每日13時至18時，南海部分海域進行射擊訓練，禁止進入。
+
+---
+
+### 2026-08-31 12:31:17  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Hits 13-Month High — The South Korean won traded around KRW 1,374 per dollar, reaching its strongest level since July 2025, amid continued dollar selling by major exporters. Month-end flows and strong semiconductor-led export growth highlighted a favorable trade backdrop, with August shipments forecast to rise more than 60% year-on-year and the trade surplus expected to exceed $30 billion. The won also benefited from the Bank of Korea's back-to-back rate hikes, which lifted its policy rate to 3%, while the central bank raised its 2026 growth forecast to 3.3% on stronger semiconductor exports and domestic demand. The won has gained roughly 5% against the dollar in August. However, hawkish comments from Federal Reserve Chair Kevin Warsh reinforced expectations for a September rate hike, supporting the dollar and US Treasury yields. At the same time, renewed US-Iran tensions pushed oil prices higher, adding to inflation and risk concerns.
+
+---
+
+### 2026-08-31 12:31:15  #MKT News
+
+【Navigation warning: South China Sea live-fire drills】Maoming Maritime Safety Administration posted a navigational warning on the China MSA website: live-fire shooting exercises will prohibit entry to parts of the South China Sea daily from Aug 31 to Sep 5, 13:00–18:00.
+
+---
+
+### 2026-08-31 12:31:03  #MKT News
+
+【5.2-magnitude earthquake strikes southern Philippines】The Philippine Institute of Volcanology and Seismology said a 5.2-magnitude quake occurred around 12:04 p.m. local time on Aug. 31 off the coast of Surigao del Norte, northern Mindanao, at a focal depth of 10 km. The agency said the event is not expected to cause damage.
+
+---
+
+### 2026-08-31 12:30:54  #國際
+
+【伊朗稱非法過海峽油輪觸雷起火】據伊朗國家電視臺今天（8月31日）報道，伊朗伊斯蘭革命衛隊表示，一艘超大型油輪在霍爾木茲海峽“被兩枚水雷擊中後起火併停止航行”。革命衛隊稱，這艘油輪當時正試圖“非法透過霍爾木茲海峽南部”。革命衛隊強調，船隻必須遵守其關於透過霍爾木茲海峽的規定。
+
+---
+
+### 2026-08-31 12:29:06  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Asian refiners step up purchases of Argentine Medanito crude】Asian refiners have increased purchases of Argentine Medanito crude after the Iran conflict disrupted Middle East supplies, traders said. Japanese and South Korean refineries have bought Medanito cargoes, with at least one shipment loaded earlier this month. Medanito is a WTI-like grade. Since the conflict began, U.S. crude sales into Asia for September loading have risen about 64%. Volumes of Argentine crude heading to Asia remain small versus other producers, but the buying highlights refiners’ push to diversify supplies and shore up energy security. Argentine government data show average crude exports this year of 215,000 bpd, mostly bound for the United States and Chile.
+
+---
+
+### 2026-08-31 12:28:06  #其他
+
+【上海鄉村全面振興發展指數連續四年領跑全國】8月31日，上海市農業農村委召開的新聞釋出會上介紹，近日，國家統計局根據2025年鄉村振興統計監測指標體系資料，採用主客觀結合的組合賦權法開展了各省級地區年度鄉村全面振興發展指數測算。根據反饋結果，2025年，上海鄉村全面振興發展總指數為84.4，連續第四年位居全國31個省區市首位，較2024年提升3.9。（澎湃新聞）
+
+---
+
+### 2026-08-31 12:27:32  #MKT News #Commodities #Industrial Metals #ALB.O #Impact bullish #002460.SZ
+
+【Energy storage drives lithium demand; TTANQT LITHIUM, Ganfeng post 1H profit highs】Rapid growth in the energy storage sector is boosting battery-metal demand and lifting lithium prices, translating into sizable profits for producers. China majors TTANQT LITHIUM and Ganfeng Lithium recorded 1H net profits at three-year highs. US-based Albemarle said global lithium demand through May rose about 45% YoY, outpacing supply growth. Australia’s PLS Group posted AUD 526 mln (USD 377 mln) profit for the 12 months to June 30, versus a loss a year earlier, and expects a supply shortfall and firm lithium prices in the coming months.
+
+---
+
+### 2026-08-31 12:27:15  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps said vessels transiting the Strait of Hormuz must strictly comply with rules issued by the IRGC Navy and urged shipping companies not to be deceived or provoked by US forces, warning against needlessly endangering vessels, assets or crew.
+
+---
+
+### 2026-08-31 12:26:59  #國際
+
+伊朗革命衛隊稱，這艘油輪當時正試圖非法透過霍爾木茲海峽南部。船隻必須遵守其霍爾木茲海峽通航規則。
+
+---
+
+### 2026-08-31 12:26:15  #國際
+
+伊朗革命衛隊稱，一艘超大型油輪在霍爾木茲海峽觸發兩枚水雷爆炸後起火，隨後已停航。
+
+---
+
+### 2026-08-31 12:26:07  #國際
+
+【人力資源社會保障部副部長吳秀章出席第14屆東盟與中日韓勞工部長會並訪問烏茲別克】8月26日至27日，人力資源社會保障部副部長吳秀章在泰國出席第十四屆東盟與中日韓勞工部長會併發言，宣介我國“投資於人”的新時代技能發展理念和成就。8月28日至29日，吳秀章訪問烏茲別克，與烏國家社會保障署署長奧拉約羅夫會談，就加強兩國社會保障領域合作進行交流。
+
+---
+
+### 2026-08-31 12:25:54  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-08-31 12:25:28  #國際
+
+【伊朗打擊阿聯酋基地美軍目標】據伊朗國家電視臺今天（8月31日）援引伊朗軍方宣告報道稱，伊朗軍隊發射無人機，襲擊了阿聯酋的一處空軍基地。伊朗軍方稱，此次襲擊的目標是美軍及美軍直升機在該基地的駐紮地點，以回應伊朗南部拉臘克島上伊朗伊斯蘭革命衛隊成員及平民遭襲遇害事件。（ CCTV國際時訊  ）
+
+---
+
+### 2026-08-31 12:25:13  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) said hours ago a supertanker attempting an unauthorized transit via the Strait of Hormuz southern route struck two sea mines, sparking a major fire and leaving the vessel dead in the water. The IRGC Navy warned any vessel violating Strait of Hormuz security regulations will face the same fate.
+
+---
+
+### 2026-08-31 12:23:10  #其他
+
+【StartLux 27B本地模型信通院測試比肩萬億引數旗艦，年內將推商業化方案】中國信通院最新MCP專項測試顯示，上海原點星輝（StartLux）的本地模型StartLux-V1.0-27B-Preview綜合效能位列第二。該模型以27B引數量超越DeepSeek-V4-Flash，與1.6萬億引數的DeepSeek-V4-Pro差距僅約1%，並在金融分析、瀏覽器自動化等Agent任務中居首。
+
+---
+
+### 2026-08-31 12:22:57  #MKT News #WTI #Impact bullish #Brent
+
+Iran's foreign ministry said it wishes to remind the UN secretary-general, the UN Security Council president and all states concerned that the sole cause of maritime insecurity in the Strait of Hormuz and the Persian Gulf is the illegal, aggressive actions of the US and Israeli regimes.
+
+---
+
+### 2026-08-31 12:22:14  #公司
+
+【明略科技-W上半年收入同比增長18.02%至約7.6億元 智慧體業務六倍激增】明略科技-W(02718)公佈2026年中期業績，收入約7.6億元，同比增長18.02%;毛利約3.9億元，同比增長8.31%;期內虧損6422.7萬元，同比收窄68.5%。其中，智慧體化服務業務收入同比增長約605.7%至1.71億元，是收入增長的主要驅動力。公司依託自主研發的AI智慧體，聚焦客戶社交媒體營銷核心需求，將AI能力從規劃策略生成延伸至內容製作及執行環節，以客戶關鍵業績指標的達成為核心交付導向，推動服務模式由過程輸出轉向結果驅動。
+
+---
+
+### 2026-08-31 12:21:53  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign ministry said the US attack on Larak Island was a clear violation of the UN Charter and urged the UN Security Council and Secretary-General to fulfil their duty to maintain international peace and security and to hold the aggressor accountable.
+
+---
+
+### 2026-08-31 12:20:22  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran foreign ministry says will respond firmly to any military aggression】Iran’s foreign ministry said its armed forces struck US bases in Jordan in retaliation for a US attack on Larak Island. The ministry said its forces will not hesitate to exercise their inherent right of self‑defense and will respond firmly and appropriately to any enemy military aggression. It added the US regime and all parties involved in planning or carrying out what it called illegal US actions, including the ongoing maritime blockade and economic warfare against Iran, will bear full responsibility for any new US aggression and its consequences.
+
+---
+
+### 2026-08-31 12:20:00  #國際
+
+伊朗外交部：美軍襲擊了拉爾克島部分割槽域，侵犯了伊朗主權和領土完整。我軍對約旦境內的美軍基地實施了毀滅性防禦打擊。我軍已襲擊位於約旦的美軍基地，這些基地曾是美國對我國發動軍事侵略的出發點。
+
+---
+
+### 2026-08-31 12:19:14  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Iran's foreign ministry said a US military strike on parts of Larak Island violated Iran's sovereignty and territorial integrity.
+
+---
+
+### 2026-08-31 12:18:39  #公司
+
+【中國建築等在廣州成立數智城服資源迴圈公司】企查查APP顯示，近日，廣州數智城服資源迴圈有限公司成立，法定代表人為吳奕帆，註冊資本為3000萬元，經營範圍包含再生資源銷售；資源迴圈利用服務技術諮詢；資源再生利用技術研發；生物質燃料加工等。企查查股權穿透顯示，該公司由閃電（廣東）環保回收科技有限公司、中國建築旗下中建城市運營管理有限公司等共同持股。
+
+---
+
+### 2026-08-31 12:18:05  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's foreign ministry said the US and parties supporting its military actions should bear full responsibility for the consequences of any escalation.
+
+---
+
+### 2026-08-31 12:17:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry said it will respond decisively to any further "enemy" military aggression.
+
+---
+
+### 2026-08-31 12:17:16  #國際
+
+【伊朗稱打擊位於阿聯酋的一空軍基地】伊朗媒體31日報道說，伊朗軍方稱當日使用無人機對位於阿聯酋的敏哈德空軍基地實施打擊。（新華社）
+
+---
+
+### 2026-08-31 12:17:13  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Iran's foreign ministry said a U.S. base in Jordan was used to launch and support attacks on Larak Island.
+
+---
+
+### 2026-08-31 12:16:56  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Iran's foreign ministry said its armed forces attacked US bases in Jordan in response to a US strike on Larak Island.
+
+---
+
+### 2026-08-31 12:16:34  #其他
+
+【國家主席習近平同吉爾吉斯斯坦總統扎帕羅夫舉行會談】當地時間8月31日上午，國家主席習近平同吉爾吉斯斯坦總統扎帕羅夫舉行會談。(新華社)
+
+---
+
+### 2026-08-31 12:16:18  #MKT News
+
+On the morning of Aug 31 local time, CHINA held talks with Kyrgyz President Zaparov.
+
+---
+
+### 2026-08-31 12:11:59  #MKT News
+
+Iranian media reported a 3.8-magnitude earthquake east of Tehran.
+
+---
+
+### 2026-08-31 12:09:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Tasnim news agency reported the Iranian military said it launched tens of drones at Al Minhad air base in the UAE.
+
+---
+
+### 2026-08-31 12:08:55  #其他
+
+【昆明終止磨憨鎮防汛Ⅱ級應急響應】記者從昆明市防汛抗旱指揮部辦公室和磨憨—磨丁經濟合作區應急指揮中心獲悉，磨憨鎮此輪強降雨過程已結束，鹽塘水庫水位回落至安全區間，險情得到有效控制。各相關單位正組織力量對受損供水、供電、通訊等基礎設施加緊搶修，受災區域生產生活秩序正有序恢復。經昆明市防汛抗旱指揮部會商研判，決定於8月31日8時終止磨憨鎮防汛Ⅱ級應急響應。雲南省消防救援總隊介紹，目前，昆明市消防救援支隊留守救援力量正有序開展清淤等工作。記者31日上午在磨憨鎮磨龍村委會看到，群眾正搭乘大巴從城區安置點有序回到家中。（新華社）
+
+---
+
+### 2026-08-31 12:07:56  #MKT News #Important #XAUUSD #Impact bullish #WTI #Brent
+
+Iranian state TV quoted the Iranian military as saying that earlier on Monday it used drones to strike Al Minhad Air Base in the UAE.
+
+---
+
+### 2026-08-31 12:07:14  #公司 #市場 #觀點 #國際
+
+【印度軟體股下跌 花旗警告前景嚴峻】週一，印度Nifty IT指數下跌最多達1.74%，部分回吐了上週五由Salesforce帶動的3.5%漲幅。花旗集團表示，在人工智慧帶來衝擊以及競爭加劇的背景下，軟體服務企業的前景依然艱難。 “從中期來看，人工智慧的影響是真實存在的，但發展速度可能因各種因素而異，”花旗分析師蘇倫德拉·戈亞爾在一份報告中寫道，“IT服務行業前景依舊嚴峻，應保持謹慎。” 他預計，未來一段時間內，IT服務行業的有機收入增長率仍將維持在個位數低位。 增長持續受到激烈競爭、AI驅動的生產力提升以及GCC地區更快增長等因素影響。 “IT服務領域的一個趨勢是客戶選擇利用人工智慧進行開發，從而更傾向於服務而非軟體；但截至目前，我們尚未看到太多這方面的證據。” Infosys股價下跌最多達2.4%；HCL Technologies Ltd下跌1.4%，Tata Consultancy Services下跌1.1%。
+
+---
+
+### 2026-08-31 12:06:47  #MKT News
+
+【Mossad drew up Puss in Boots plan to topple Iran; U.S. blocked it】Israel’s Hebrew-language television reported on Aug. 31 that Mossad drew up a secret plan called Puss in Boots aimed at undermining the Iranian regime by backing Kurdish insurgents, opening infiltration routes into Iran and fomenting domestic protests. The plan, prepared after a 12-day war in mid‑last year, was ultimately halted following opposition from the U.S. government; parts had been disclosed earlier by the New York Times.
+
+---
+
+### 2026-08-31 12:05:39  #MKT News #Hang Seng Index #Impact bearish #03988.HK #Impact bullish #00817.HK
+
+【HK midday: HSI down 0.71%; mainland banks rally】At the noon close the HSI was down 0.71% and the Hang Seng Tech Index down 1.03%. Mainland bank stocks led gains: Postal Savings Bank of China (01658.HK) up >7%, Bank of China (03988.HK) up >5% and hitting a record high, China Minsheng Banking (01988.HK) up >4%, Bank of Communications (03328.HK) up >3%. Coal names were active: Yankuang Energy (01171.HK) up >2%, China Coal Energy (01898.HK) up >1%. Liquid-cooling plays outperformed: AAC Technologies (02018.HK) up >6%, BYD Electronic (00285.HK) up >4%. Telecom, utilities, OLED and household-appliance sectors also showed buying. Property names fell sharply: China Jinmao (00817.HK) down >14%, Greentown China (03900.HK) down >12%, CHINA RES LAND (01109.HK) down >7%. Biotech, EV suppliers, building materials & cement, agriculture and power-equipment were among the worst-performing sectors.
+
+---
+
+### 2026-08-31 12:05:34  #其他
+
+【招商銀行副行長徐明傑：零售貸款風險仍處於上升形勢中 已採取更積極措施管控】招商銀行副行長兼首席風險官徐明傑在該行2026年中期業績交流會上表示，招行零售貸款上半年的不良貸款餘額是428.32億元，比年初增長了32.48億元。不良貸款率是1.16%，比年初上升了0.10個百分點。徐明傑分析，當前經濟結構轉型、房地產市場調整的背景下，部分客戶的還款能力和意願還是受到一定影響，疊加消費信貸市場共債風險，我們判斷零售貸款的風險仍處在上升形勢當中。我們也採取了更加積極的措施來管控零售貸款質量，一個是根據零售貸款的市場狀況及時調整了零售信貸的增長目標和發展策略，在考核和激勵方面，更加註重控制不良生產和強化風險化解。
+
+---
+
+### 2026-08-31 12:05:28  #MKT News #Market Themes #AI Revolution
+
+【OpenAI reportedly received warrants from SB Energy worth about $5.5 bln】The Wall Street Journal reports draft IPO filings show SoftBank-backed SB Energy granted OpenAI warrants with an estimated value of about $5.5 bln as part of efforts to secure OpenAI as a data‑center tenant; OpenAI is already an investor. SB Energy is preparing an IPO, expected to file as soon as this week and potentially list next month, targeting $5–7 bln in proceeds and working with bankers. Filings indicate SoftBank and OpenAI plan to be tenants of three data centers; a fourth site in Scurry County, Texas has 900 MW capacity and no identified tenant. Current data‑center customers are predominantly corporate investors, per the filings.
+
+---
+
+### 2026-08-31 12:05:24  #央行
+
+【五大部委聯手“重構”房地產，PMI指數回升！紅利低波ETF(512890)半日成交5.58億領跑 基金經理最新觀點出爐】8月31日，市場早盤集體走弱，滬指早盤跌0.20％，創指跌1.29％。在此背景下，紅利低波ETF華泰柏瑞（512890）逆勢漲0.84％，報1.194元，換手率1.68％，半日成交額5.58億元，居同類標的ETF首位。訊息面上，國家統計局釋出，8月份，製造業採購經理指數（PMI）為49.8％，比上月上升0.6個百分點，景氣水平回升；非製造業商務活動指數為49.0％，與上月持平；綜合PMI產出指數為49.5％，比上月上升0.2個百分點，我國經濟總體產出景氣水平有所改善。另外，8月28日，住建部、自然資源部、央行、金融監管總局、證監會五大部委在同日密集落地8份房地產檔案，構成“3份基礎性檔案＋5份配套辦法”的完整制度組合。中信建投指出，“828”房地產新政並非需求端的刺激或救市，而是透過現房銷售制、專案公司制、主辦銀行制以及個人住房貸款制度最佳化對房地產新發展模式進行了一次系統性制度重構。基金經理柳軍在半年報中表示，展望2026年三季度，紅利板塊的配置價值值得重點關注，短期與中期邏輯均具備堅實支撐。短期維度，市場波動中樞抬升、擾動因素增多，風格短期或進行再平衡。而經過2026年二季度的調整後，紅利板塊估值已逐步回落至合理區間，估值壓力得到充分釋放，當前已具備明確的逢低配置視窗機遇。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。
+
+---
+
+### 2026-08-31 12:04:46  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Drop Further — US natural gas prices fell to $2.87/MMBtu on Monday, extending their retreat from a five-week high as traders weighed the prospect of increased supply. Energy Transfer LP’s Hugh Brinson Pipeline in Texas is set to begin service on September 1 and will eventually be able to transport about 2.2 Bcf/d of natural gas from the Permian Basin to East Texas, which may increase domestic gas supplies in Erath, Louisiana. On top of that, output in the Lower 48 states averaged a record 111.4 bcfd so far in August, up from 110.7 bcfd in July. However, losses were capped by forecasts for warmer weather, with the Commodity Weather Group saying on Friday that above-average temperatures are expected across the eastern two-thirds of the US from September 2-11, keeping cooling demand elevated. Meanwhile, data showed gas demand from LNG export plants improved, as Cheniere Energy’s Corpus Christi facility and Freeport LNG in Texas resumed operations after maintenance.
+
+---
+
+### 2026-08-31 12:04:37  #其他
+
+【網易CC直播今日停運】8月31日，網易旗下CC直播正式停運。《CC直播》運營團隊此前發文稱，由於產品開發運營策略的調整，《CC直播》將於2026年8月31日15時終止運營。
+
+---
+
+### 2026-08-31 12:04:10  #公司
+
+【SB Energy向OpenAI提供55億美元認股權證，以爭取其資料中心租戶】8月31日，據報道，軟銀旗下資料中心及能源基礎設施公司SB Energy為爭取OpenAI成為其資料中心租戶，向OpenAI提供了價值約55億美元的認股權證。相關安排披露於SB Energy提交的IPO檔案草案。SB Energy今年1月已與OpenAI達成合作，OpenAI向其投資5億美元，並選擇由SB Energy建設和運營得州一座此前宣佈的12吉瓦資料中心園區。此外，OpenAI近期又與SB Energy簽署了俄亥俄州10吉瓦資料中心租賃協議，後者正籌備最早於下月進行IPO。
+
+---
+
+### 2026-08-31 12:03:48  #公司 #市場
+
+【儲存晶片廠商江波龍擬香港上市 融資不超過62.8億港元】中國儲存晶片廠商江波龍擬香港上市，融資不超過62.8億港元（8.01億美元），加入人工智慧硬體供應鏈企業赴港融資潮。根據江波龍週一釋出的上市檔案，公司計劃發行約2600萬股股份，發售價不超過每股240.6港元，較其上週五在深圳上市的A股收盤價折讓約45%。江波龍預計9月8日在香港掛牌上市。該公司A股今年以來已上漲約50%。媒體看到的交易條款顯示，若行使增發選擇權，募資規模最高可達到10.6億美元，對應公司市值最高約249億美元。江波龍計劃將募資所得用於支援晶片設計和先進儲存技術的研發。受強勁需求和儲存晶片價格上漲提振，該公司上半年營收同比增長逾一倍至241億元人民幣，淨利潤增長約700倍至106億元。
+
+---
+
+### 2026-08-31 12:02:11  #公司 #國際
+
+【MARC ALLEN PARICH中美聯泰大都會人壽董事任職資格獲批】國家金融監督管理總局上海監管局日前公告稱，核准MARC ALLEN PARICH中美聯泰大都會人壽保險有限公司董事的任職資格。
+
+---
+
+### 2026-08-31 12:01:46  #公司 #市場 #觀點 #國際
+
+【高盛將柴油利潤預期上調逾一倍 稱中東及俄烏戰爭令全球煉油市場趨緊】高盛集團警告稱，受中東戰爭及俄烏戰爭影響，全球煉油市場料將趨緊，該行將柴油生產利潤的預期提高一倍多。“中東和俄羅斯煉油廠遭襲情況增加，進一步限制了本已緊張的全球煉油產能，推動成品油利潤率創下新高，”分析師Yulia Zhestkova Grigsby和Daan Struyven在報告中寫道。“柴油仍然是此輪上漲的中心。”他們表示，煉油廠停產水平比季節性正常水平高出60%，儘管部分需求下降，但成品油庫存卻也在減少。明年，美國每桶柴油的利潤將比布倫特原油價格平均高出63美元，這個數字在歐盟將為49美元，高於此前分別預測的27美元和19美元。
+
+---
+
+### 2026-08-31 12:01:23  #公司
+
+【機構：透過霍爾木茲海峽商船數量降至每日5艘 】船舶追蹤機構克普勒公司8月31日釋出的資料顯示，由於擔心遭到襲擊，剛過去的這個週末透過霍爾木茲海峽的可見商船數量已降至每日5艘。路透社引述相關資料包道，8月29日到30日這個週末，通行海峽的船隻均為小型船舶，其中包括兩艘液化石油氣運輸船。不過，由於部分船隻關閉自動識別系統以規避襲擊，實際透過海峽的船舶數量可能多一些。（新華社）
 
 ---
 
@@ -15390,311 +15996,5 @@ Canada Budget Surplus Narrows in June — Canada’s federal surplus narrowed to
 ### 2026-08-28 23:17:44  #其他
 
 智利、阿根廷、玻利維亞與秘魯簽署戰略性礦產聯合宣言。
-
----
-
-### 2026-08-28 23:02:03  #Trading Economics #Markets #United States #Currency #Importance 1
-
-US Dollar Extends Rebound — The US dollar index rose to 99.5 on Friday, extending the rebound from the three-month low of 98.8 from August 21st, and tracking the surge in short-term Treasury yields after Fed Chairman Kevin Warsh signaled a firmer stance against inflation. The Fed Chairman stated that underlying inflation was not significantly lower in the last few months and added that the labor market appears to be at full employment. On top of that, Warsh stated that the Fed is tracking the PCE index as an inflation gauge, using stricter rhetoric than earlier suggestions that one of the newly created task forces could shift the Fed's target gauge. Rate futures reflected a swing to positions of a Fed rate hike next month. Also strengthening the dollar, annual revisions to nonfarm payrolls were well under recent amounts, indicating robust employment. In the meantime, signs of higher inflation in the Eurozone added to the consensus of an ECB rate hike, limiting the rebound for the DXY.
-
----
-
-### 2026-08-28 23:00:12  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Turkish Lira Drops by 0.98% — Top currency losers are Turkish Lira (-0.98%), Brazilian Real (-0.80%), Swedish Krona (-0.48%), Japanese Yen (-0.30%), Euro (-0.30%) and British Pound (-0.15%). Gains are led by South Korean Won (0.37%) and Dollar Index (0.26%).
-
----
-
-### 2026-08-28 22:56:57  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 0
-
-UK Gilt Yields Hold Above 5% as Investors Digest Warsh's Remarks — UK 10-year gilt yields remained slightly above 5% as investors weighed hawkish comments from Fed Chair Kevin Warsh against lower Brent crude prices, which eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, potentially making the BoE more cautious about tightening policy in the near term.
-
----
-
-### 2026-08-28 22:54:41  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Slips on Stronger US Dollar — The British pound fell toward $1.35, its weakest level since August 19, as hawkish Fed remarks supported the US dollar, while lower Brent crude prices eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, which could make the BoE more cautious about tightening policy in the near term.
-
----
-
-### 2026-08-28 22:54:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Apple Stock Price Hits 4-week High — Apple shares increased to 320.30 USD, the highest since July 2026. Over the past 4 weeks, Apple lost 5.4%, and in the last 12 months, it increased 37.82%.
-
----
-
-### 2026-08-28 22:52:52  #Trading Economics #Markets #Germany #stocks #Importance 1
-
-Allianz Stock Price Hits All-time High — Allianz shares increased to an all-time high of 453.00 EUR. Over the past 4 weeks, Allianz gained 5.72%, and in the last 12 months, it increased 25.33%.
-
----
-
-### 2026-08-28 22:50:39  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Microsoft Stock Price Hits 42-week High — Microsoft shares increased to 513.80 USD, the highest since November 2025. Over the past 4 weeks, Microsoft gained 31.42%, and in the last 12 months, it increased 1.29%.
-
----
-
-### 2026-08-28 22:49:48  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 0
-
-Bund Yields Rise to 15-Year High on Inflation Concerns — German 10-year Bund yields edged above 3.25%, touching their highest level since March 2011, as investors remained concerned about persistent inflationary pressures despite the recent decline in oil prices. Inflation data from France and Spain showed renewed price pressures in August, reinforcing expectations that the ECB could resume raising interest rates at its September meeting. Markets now price the ECB deposit rate at 2.80% by March next year, and around 2.90% by late 2027. Recent ECB minutes suggested officials saw another rate increase as likely necessary, while Reuters reported that policymakers are prepared to hike in September to contain the economic fallout from the Iran war, though they remain reluctant to signal further tightening beyond that. In the US, Fed Chair Kevin Warsh also struck a hawkish tone, warning that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.”
-
----
-
-### 2026-08-28 22:48:41  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Advances Further to Fresh Record — The DAX 40 extended early gains, rising 0.8% to close at a fresh record high of 26,570 on Friday, buoyed by autos stocks, while traders assessed Fed Chair Warsh's speech at the Jackson Hole Economic Symposium. Kevin Warsh struck a hawkish tone, noting that inflation remains elevated and has yet to make enough progress toward the 2% target. His remarks left the door open to tighter policy if inflation does not show clearer signs of easing. Meanwhile, lower oil prices and tech optimism continued to support market sentiment, with traders also monitoring developments in the Middle East. Auto stocks continued their strong upward trend ahead of the weekend. BMW shares led the index, gaining over 4% and benefiting from a more positive outlook from Citigroup. VW and Mercedes Benz Group climbed over 2% each. Utilities, chemical companies, banks, insurers and software firms also posted gains, while chipmaker Infineon Technologies lost ground (-0.6%). The index recorded a weekly rise of 1.7%.
-
----
-
-### 2026-08-28 22:45:33  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Slips as Hawkish Fed Tone Supports Dollar — The euro weakened to around $1.16, touching its lowest level since August 19, as investors turned to the US dollar following hawkish remarks from Federal Reserve Chair Kevin Warsh, despite European data pointing to renewed inflationary pressures. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.” Meanwhile, inflation data from France and Spain strengthened expectations for further ECB tightening. EU-harmonized inflation rose to 2.7% in France and 4.5% in Spain, the latter its highest since 2023. Markets now see the ECB deposit rate rising to 2.80% by March next year from 2.25% currently, with roughly a 60% chance of a hike to 3%. Recent ECB minutes and Reuters reports also pointed to a possible September hike, although policymakers remain reluctant to signal further tightening.
-
----
-
-### 2026-08-28 22:39:53  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Gives Back Gains on Warsh’s Hawkish Tone — Silver pared some of its gains to trade around $69 an ounce on Friday as investors digested hawkish-leaning remarks from Federal Reserve Chair Kevin Warsh. In his first major speech since taking the chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need to see clearer evidence that underlying price pressures are easing, otherwise the central bank still has “work to do.” He reiterated the Fed’s commitment to returning inflation to its 2% target, which he described as a “firm and fixed” goal, and said financial conditions are not currently restrictive. His closely watched remarks offered greater clarity on his economic and policy views after criticism that his limited communication strategy had left markets with little guidance on the near-term outlook. Following the speech, markets raised the probability of a September rate hike to near 50%, according to CME FedWatch, weighing on silver.
-
----
-
-### 2026-08-28 22:38:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Slips as Warsh’s Hawkish Tone Boosts Rate-Hike Bets — Gold prices fell toward $4,560 an ounce on Friday, their lowest level in a week, as investors digested what was perceived as hawkish commentary from Federal Reserve Chair Kevin Warsh. In his first major speech since becoming chair in May, Warsh warned that inflation is not meaningfully slowing and said policymakers need to be confident that underlying price pressures are easing; otherwise, the central bank still has “work to do.” He reiterated that the Fed remains committed to returning inflation to its 2% goal, which he described as a “firm and fixed” target, and said financial conditions are not currently restrictive. His closely watched remarks provided greater clarity on his economic and policy views after criticism that his more limited communication strategy had left markets with little guidance on the near-term outlook. Markets responded by raising the probability of a September rate hike to near 50%, according to CME FedWatch.
-
----
-
-### 2026-08-28 22:35:43  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Pare Gains After Warsh Speech — US stocks turned lower on Friday as tech shares trimmed yesterday's rally and Fed Chair Warsh's warning of high inflation strengthened bets for a rate hike. Marvell sank nearly 8%, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh stated that underlying inflation is not slowing and vowed to fight price growth until it converges to the 2% target in his speech at the Jackson Hole Economic Symposium. The Chairman also signaled that the labor market is consistent with full employment, driving traders to consider a rate hike by the central bank next month. Industrial stocks and pharmaceuticals pulled back, with Merck and GE Vernova down over 1.5% each.
-
----
-
-### 2026-08-28 22:35:14  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Market Firm as LNG Supply Risks Persist — European natural gas prices fluctuated above €65/MWh, their highest level since January 2023, amid concerns over global LNG supply after the Middle East conflict disrupted around one-fifth of global LNG flows and hindered Europe’s summer stockpiling. EU gas storage levels are currently around 63% full, the lowest seasonal level since 2009, well below historical averages. While the European Commission remains confident that substantial spare LNG import capacity and a storage target of 80% will be sufficient to meet winter demand, Europe is expected to face intense competition from Asia for available cargoes. Meanwhile, signs of improving flows through the Strait of Hormuz and discussions surrounding an Iran–Oman shipping arrangement have eased some concerns over immediate supply disruptions. Market attention is increasingly shifting toward the economic and sanctions-related consequences of the Iran situation rather than an imminent physical supply shock.
-
----
-
-### 2026-08-28 22:35:10  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Rises on Tight Supply — US gasoline futures rose to around $3.50 per gallon, reaching over a three-month high as tight gasoline supplies keep prices elevated. EIA data showed US gasoline inventories fell by 2.536 million barrels in the week ending August 21st, leaving inventories consistently below the five-year average in recent weeks. US refineries are already operating near maximum capacity, leaving limited room to rebuild inventories. Demand is providing additional support, with heavy driving expected over the Labor Day weekend. Elsewhere, geopolitical tensions have disrupted nearly 10% of global refinery capacity, with the Russia-Ukraine conflict adding to supply pressures. Attacks on Russian refineries have pushed refinery runs toward multi-year lows, while Russian gasoline production has fallen nearly 20% from a year earlier. However, oil flows through the Strait of Hormuz improved, as the proposed Iran-Oman corridor reduced perceived risks of tighter crude supplies.
-
----
-
-### 2026-08-28 22:35:04  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-Stocks in Germany Hit All-time High — DE40 increased to an all-time high of 26581.00 Index Points. Over the past 4 weeks, Germany Stock Market Index (DE40) gained 4.38%, and in the last 12 months, it increased 11.19%.
-
----
-
-### 2026-08-28 22:25:56  #央行 #美聯儲
-
-交易員預計美聯儲9月份加息的可能性約為50%。
-
----
-
-### 2026-08-28 22:25:43  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-Treasury Yields Rise as Warsh Warns on Inflation — The 10-year US Treasury yield climbed as high as 4.7% before paring gains after Fed Chair Kevin Warsh warned that inflation has not meaningfully slowed, signaling that policymakers may have “work to do” to bring price pressures back to the Fed’s 2% target. In his first major speech since taking the chair in May, Warsh reiterated that 2% inflation is a firm and fixed objective and said financial conditions are not currently restrictive. He also emphasized that interest rates remain the Fed’s “predominant tool” for achieving its mandate. He added that recent PCE and CPI data, while better than expected, do not indicate a meaningful improvement in underlying inflation trends. His closely watched remarks offered more clarity on his economic and policy views after criticism that his more limited communication strategy had left investors with little guidance on the near-term outlook. Money markets subsequently priced in a near 50% chance of a September rate hike, according to CME FedWatch.
-
----
-
-### 2026-08-28 22:23:06  #Trading Economics #Economy #India #Foreign Exchange Reserves #Importance 0
-
-India Forex Reserves Rise to Record — Foreign exchange reserves held at the Reserve Bank of India rose to a record high of $729.33 billion equivalent as of July 21st, 2026, following a large magnitude of dollar inflows to the Indian financial system. The RBI introduced special deposit programs for domestic banks by overseas Indian citizens in its latest effort to tame the rupee's decline. The measures garnered $74 billion of inflows since the introduction of the facilities. Foreign exchange reserves had plunged since March as the war in the Middle East lifted oil prices and pressured the rupee, driving the RBI to sell hard currency to defend local exchange rates.
-
----
-
-### 2026-08-28 22:20:17  #央行 #美聯儲
-
-【美聯儲主席沃什稱通脹並未放緩 誓言實現2%的目標】美聯儲主席凱文·沃什警告稱通脹並未真正放緩，並表示除非決策層確信已經如此否則就有“工作要做”。沃什在他5月出任央行掌門以來的首次長篇演講中重申，決策層將推動通脹率恢復其2%的目標。他表示這是一個堅定不移的目標。“我的標準是：我們必須確信基礎通脹明確並以充分的速度朝著我們的目標邁進。否則，我們就有工作要做。這是我們的職責，”沃什週五在懷俄明州傑克遜霍爾舉行的美聯儲年會上發表演講時說。
-
----
-
-### 2026-08-28 22:18:14  #Trading Economics #Economy #United States #Interest Rate #Importance 3
-
-Fed Chair Warsh Flags Inflation Risks — Federal Reserve Chairman Kevin Warsh flagged that underlying inflation is not slowing during his speech at the Jackson Hole Economic Symposium. The Chairman reiterated that the PCE price index remains the gauge to be targeted, clarifying doubts from market participants after he downplayed a strict inflation gauge and opted for a more flexible model touted by one of the task forces he created. The Federal Reserve left the federal funds rate unchanged at 3.50%–3.75% for a fifth consecutive meeting in July 2026, in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. Three FOMC members dissented for a rate hike. After the decision, Chairman Warsh downplayed the funds rate as the preferred tool to fight inflationary risks in favor of a smaller Fed balance sheet, and continued to criticize forward guidance.
-
----
-
-### 2026-08-28 22:16:04  #Trading Economics #Economy #United States #Michigan Inflation Expectations #Importance 1
-
-US Year-Ahead Inflation Expectations Revised Lower — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, were revised slightly down to 4% in August 2026 from the preliminary estimate of 4.3% and below July's 4.2%. The reading marked a third straight monthly decline and the lowest level since March. Longer-run inflation expectations, measured over a five-year horizon, held at 3.3% for a third consecutive month, in line with the earlier estimates.
-
----
-
-### 2026-08-28 22:13:22  #Trading Economics #Markets #Japan #currency #Importance 1
-
-Japanese Yen Hits 4-week Low — The Japanese Yen touched 159.84 against the USD, the lowest since July 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 2.23%, and in the last 12 months, it increased 8.71%.
-
----
-
-### 2026-08-28 22:09:03  #Trading Economics #Economy #United States #Consumer Confidence #Importance 1
-
-US Consumer Sentiment Weakens Despite Upward Revision — The University of Michigan’s consumer sentiment index was revised higher to 51.7 in August 2026, from a preliminary reading of 51.0. Despite the upward revision, sentiment fell about 6% from July and remained roughly 11% below its year-ago level, reflecting persistent concerns that inflation will remain elevated for the foreseeable future. Sentiment declined across all political groups, particularly among Republicans, while older, lower- and middle-income consumers and those without stock holdings saw sharper deterioration. Ongoing policy uncertainty, including the Iran conflict, has also fueled expectations of further gasoline price increases. Consumers are increasingly concerned about weakening economic conditions, with one-year business expectations falling 10% and the five-year outlook dropping 13%. Meanwhile, one-year inflation expectations eased to 4.0% from 4.2%, while long-run expectations held steady at 3.3% for a third consecutive month.
-
----
-
-### 2026-08-28 22:08:24  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-BP Stock Price Hits 5-week Low — BP shares decreased to 512.85 GBp, the lowest since July 2026. Over the past 4 weeks, BP lost 5.48%, and in the last 12 months, it increased 18.88%.
-
----
-
-### 2026-08-28 22:07:42  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 2
-
-US Nonfarm Payrolls Revised Down by 79K — The US economy added 79,000 fewer jobs in the 12 months through March 2026 than previously estimated, according to the Bureau of Labor Statistics’ preliminary benchmark revision, representing a downward adjustment of 0.1%. The revision was concentrated in several major sectors, with retail trade recording the largest reduction of 154,600 jobs. Private education and health services followed with a 96,000 downward revision, while wholesale trade was revised down by 86,200 and professional and business services by 76,000. Manufacturing payrolls were reduced by 67,000, while leisure and hospitality and mining and logging saw smaller downward adjustments of 33,000 and 6,000, respectively. However, several sectors recorded upward revisions. Transportation and warehousing led with an increase of 135,100 jobs, followed by government with 99,000, information with 87,000, financial activities with 85,000 and construction with 62,000.
-
----
-
-### 2026-08-28 22:06:07  #央行 #美聯儲
-
-【美聯儲主席沃什：經濟似乎已經走強】美聯儲主席沃什表示，美聯儲需要儘可能清晰、未經過濾的市場訊號；對經濟印象深刻，經濟似乎已經走強。
-
----
-
-### 2026-08-28 22:05:16  #央行 #美聯儲
-
-【美聯儲主席沃什：勞動力市場與充分就業相符】美聯儲主席沃什表示，認為勞動力市場與充分就業相符，通脹預期指標總體上看起來穩定。
-
----
-
-### 2026-08-28 22:04:24  #央行 #美聯儲
-
-【美聯儲主席沃什：通脹資料並未顯示通脹趨勢出現顯著改善】美聯儲主席沃什表示，通脹資料並未顯示通脹趨勢出現顯著改善；如果通脹率不能快速達到2%，就還有工作要做。
-
----
-
-### 2026-08-28 22:03:16  #經濟數據 #美國
-
-【美聯儲主席沃什：美聯儲2%的通脹目標是堅定且固定的】美聯儲主席沃什表示，美聯儲2%的通脹目標是堅定且固定的；實現價格穩定是美聯儲的職責 。
-
----
-
-### 2026-08-28 22:01:12  #Trading Economics #Economy #Chile #Unemployment Rate #Importance 0
-
-Chile Unemployment Rate Edges Higher — Chile’s unemployment rate rose to 9.5% in the May-July 2026 rolling quarter, slighly up from 9.4% in the previous period. The number of unemployed people increased 10.4%, driven by both those who had previously worked and first-time jobseekers. The participation and employment rates declined to 61.7% and 55.9%, respectively. Unemployment reached 10.3% among women, up 0.6 percentage points, and 8.9% among men, up 1 percentage point. The employment decline was driven by information and communications (-14.6%), education (-3.3%), and manufacturing (-2.7%). Meanwhile, the informal employment rate rose 0.5 percentage points to 26.5%.
-
----
-
-### 2026-08-28 22:00:59  #經濟數據 #美國
-
-美國2026年初步基準非農就業人數修訂下調7.9萬人。
-
----
-
-### 2026-08-28 22:00:25  #經濟數據 #美國
-
-美國8月一年期通脹率預期終值4%，預期4.40%，前值4.30%。
-
----
-
-### 2026-08-28 22:00:15  #經濟數據 #美國
-
-美國8月密歇根大學消費者信心指數終值為51.7，預估為51。
-
----
-
-### 2026-08-28 21:57:13  #Trading Economics #Economy #United States #Chicago PMI #Importance 1
-
-Chicago Business Activity Sinks in August — The Chicago Business Barometer plunged to 47.1 in August 2026 from 57.6 in July and missing market forecasts of 58.3. The latest data pointed to a renewed contraction in business activity and the steepest since December 2025. New orders declined sharply, dropping 15.4 points, but still above April's low. The production gauge slipped 8.8 points, recording its first and sizeable contraction since last December. Meanwhile, supplier deliveries eased 2.6 points, but remained in expansion for the 19th consecutive month. On a more positive note, employment rose 4.3 points, moving into positive territory for the first time in five months, although the improvement was marginal. On the price front, price pressures intensified. Prices paid jumped 3.8 points to their highest level since February 2022, with some firms reporting higher metal costs.
-
----
-
-### 2026-08-28 21:56:00  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Nears Record High After GDP Release — The S&P/TSX Composite Index inched higher to trade near 37,000 on Friday following the release of GDP data. Canada's GDP expanded at an annualized rate of 3.3% in the second quarter, the strongest pace in nearly two years, providing some buffer against economic risks from ongoing trade disputes with the US. Canada’s ambassador to Washington, Mark Wiseman, said on Thursday that Ottawa could not accept a trade deal unless it ensured the survival of a robust Canadian auto assembly and parts industry. Earlier this week, US President Trump threatened to raise tariffs on all Canadian cars, trucks, and automotive parts to 50% from January 1st, 2027, following the imposition of tariffs on a range of Canadian goods. Major banks traded higher after a largely positive batch of earnings reports, with RBC, TD Bank, Scotiabank, and CIBC, all of which beat expectations, gaining about 1% each. Tech stocks also extended gains following Nvidia’s strong results, with Shopify up more than 0.5%.
-
----
-
-### 2026-08-28 21:50:31  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Inches Up on Easing Inflation — The Ibovespa inched above the 175,000 mark on Friday, as fresh evidence of disinflation strengthened the outlook of lower rates by the BCB. Producer prices rose 1.94% from the previous year in July, slowing from a 2.47% increase in June, and the IGP-M fell from the previous month. Signs of easing inflationary pressures supported credit-sensitive stocks as yields softened. Financials advanced, with Bradesco up 1%, Banco do Brasil gaining more than 1%, and Santander rising nearly 2%. B3 gained nearly 2% after JPMorgan said emerging-market equity funds recorded higher inflows, with Latin America returning to positive territory. Brazil also recovered after four weeks of heavy outflows. Petrobras rose more than 0.5% after Bradesco BBI upgraded the stock to Outperform from Neutral.
-
----
-
-### 2026-08-28 21:46:54  #經濟數據 #美國
-
-【美國8月芝加哥PMI為47.1 預期57.9】美國8月芝加哥PMI為47.1，預期57.9，前值57.6。
-
----
-
-### 2026-08-28 21:40:06  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.08% Higher — The Dow Jones Index is picking up 45 points or 0.08 percent on Friday. Gains are led by Nike (1.09%), McDonalds (1.03%) and Amazon (0.89%). Biggest losers are Merck (-1.34%), Cisco Systems (-1.13%) and Alphabet (-0.53%).
-
----
-
-### 2026-08-28 21:32:33  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Mixed — US stocks were mixed on Friday as tech shares trimmed yesterday's rally, while broader sectors edged higher. The S&P 500 was flat, balancing the composition of a 150-point gain for the Dow and a 0.7% loss for the Nasdaq 100. Marvell sank nearly 8%, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh was due to speak at the Jackson Hole Economic Symposium amid a backdrop of uncertainty on the economy and division in the FOMC. Treasury yields held their surge since the start of quarter, with higher federal deficits and large corporate issuance combining with Warsh's signals that tighter financial conditions from secondary bond markets are natural and potentially act as a desired policy tool for the Fed.
-
----
-
-### 2026-08-28 21:29:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Extends Rally Into 7th Day — The Baltic Exchange’s dry bulk freight index rose 2.5% to 3,186 on Friday, extending its winning streak to seven sessions and reaching its highest level since June 2. The index measures freight rates for vessels carrying dry bulk commodities across the Capesize, Panamax and Supramax segments. Gains were broad-based, led by the bigger size segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for a seventh day, climbing 3.9% to its highest since June 2 at 5,336 points. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, gained for the sixth session, rising by 1% to a peak since June 2 at 2,315 points; and the supramax index edged up by 0.1% to 1,647 points. The benchmark index rose 12.1% for the week.
-
----
-
-### 2026-08-28 21:22:23  #Trading Economics #Markets #Austria #Stock Market #Importance 0
-
-Stocks in Austria Hit All-time High — ATX increased to an all-time high of 6781.00 Index Points. Over the past 4 weeks, Vienna Stock Exchange Austrian Traded Index gained 7.6%, and in the last 12 months, it increased 46.92%.
-
----
-
-### 2026-08-28 21:15:10  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Little Changed After GDP Data — Futures tracking Canadian stocks were little changed on Friday following the release of GDP data. Canada’s GDP expanded at an annualized rate of 3.3% in the second quarter, the strongest pace in nearly two years, adding to some buffer amid economic risks from trade disputes with the US. Canada’s ambassador to Washington, Mark Wiseman, said on Thursday that Ottawa could not accept a trade deal unless it ensured the survival of a robust Canadian auto assembly and parts industry. This week, US President Trump threatened on Monday to raise tariffs on all Canadian cars, trucks, and automotive parts to 50% from January 1st, 2027. The US also imposed 50% tariffs on selected Canadian goods on Saturday, including furniture, plastics, plywood, and electrical equipment, on top of existing duties on steel, lumber, and autos. Canada responded with retaliatory tariffs on about $20 billion of annual US imports. Concerns are that the trade tensions could derail the economic recovery.
-
----
-
-### 2026-08-28 20:38:21  #Trading Economics #Economy #Canada #GDP Growth Rate #Importance 2
-
-Canada’s Economy Accelerates in Q2 2026 — Canada’s economy expanded 0.8% in the second quarter of 2026, following an upwardly revised 0.1% increase in the previous three-month period, driven by stronger exports, household spending and business capital investment. Exports rose 3.6%, the largest increase since Q1 2023, led by a 27.0% jump in passenger cars and light trucks as Canadian auto production rebounded. Higher exports of metals, energy products, and industrial machinery and equipment also supported growth. Household spending rose 0.8%, led by higher spending on investment services, passenger vehicles and rent. Business investment strengthened, with engineering structures up 2.3% and machinery and equipment spending reaching its highest level since Q2 2024. Investment in computers and peripherals surged 16.7%, mainly due to higher imports of processing units used in data centres. On an annualized basis, the economy grew 3.3%, the fastest pace since Q3 2024 and broadly in line with market expectations of 3.4%.
-
----
-
-### 2026-08-28 20:36:30  #Trading Economics #Economy #Canada #Monthly GDP MoM #Importance 1
-
-Canada GDP Holds Steady in July — The Canadian GDP is expected to have remained unchanged from the previous month in July of 2026, according to a flash estimate. Preliminary evidence pointed to an increase in real estate, rental and leading, and professional, scientific, and technical services, which offset a decline in retail trade and manufacturing. The figure follows a 0.3% expansion in June, revised higher from a 0.2% increase.
-
----
-
-### 2026-08-28 20:30:35  #經濟數據 #加拿大
-
-【加拿大6月GDP同比增長2%】加拿大6月GDP同比增長2%，預期2%，前值1.7%。
-
----
-
-### 2026-08-28 20:22:20  #Trading Economics #Economy #Brazil #Producer Price Inflation MoM #Importance 1
-
-Brazil Producer Prices Extend Monthly Decline — Brazil’s producer prices fell 0.83% month-on-month in July 2026, extending a downwardly revised 0.81% decline in June and marking the sharpest monthly drop in more than a year. Eleven of the 24 industrial activities surveyed recorded price decreases. Petroleum refining and biofuels led the decline, falling 5.65%, followed by other chemicals (-4.49%) and extractive industries (-4.38%). Manufacturing industry prices fell 0.67% overall. In contrast, computers, electronic and optical products recorded the largest increase, at 11.37%. By major economic category, capital goods prices rose 2.75%, while intermediate goods fell 1.83% and consumer goods declined 0.10%. Within consumer goods, durable goods decreased 0.37%, while semi-durable and non-durable goods fell 0.05%. Producer prices rose 3.09% year-to-date and 1.94% over the 12 months through July.
-
----
-
-### 2026-08-28 20:01:15  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Heads for Weekly Loss — Crude oil fell below $83 a barrel on Friday, extending weekly losses to near 5%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed.
-
----
-
-### 2026-08-28 19:56:25  #Trading Economics #Markets #Commodity #Importance 0
-
-Palladium Climbs to Three-Month High — Palladium futures rose above $1,400 per ounce, reaching a three-month high amid stronger demand prospects. Tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply. In the near term, however, investment flows remain influential, as expectations of a Fed rate hike increased following the Fed's Chairman statement there was "work to do" in returning inflation to target, weighing on the non-yielding metal.
-
----
-
-### 2026-08-28 19:46:59  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Ease on Friday — US equity futures inched down on Friday as tech shares trimmed some of the prior session's rally, while lingering macroeconomic risks remained. Contracts for the S&P 500 and the Nasdaq 100 were 0.5% lower, while the Dow inched higher. Marvell sank nearly 8% premarket, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh was due to speak at the Jackson Hole Economic Symposium amid a backdrop of uncertainty on the economy and division in the FOMC. Treasury yields held their surge since the start of quarter, with higher federal deficits and large corporate issuance combining with Warsh's signals that tighter financial conditions from secondary bond markets are natural and potentially act as a desired policy tool for the Fed.
-
----
-
-### 2026-08-28 19:43:02  #Trading Economics #Economy #Brazil #Loan Growth #Importance 1
-
-Brazil Loan Growth Slows — The value of outstanding loans from the Brazilian financial sector edged up by 0.3% from the previous month, remaining at R$7.4 trillion in July 2026, slowing from a 0.7% increase in June. Loans extended to corporations fell 0.7%, remaining at R$2.7 trillion, while household lending edged up 0.8%, also remaining broadly unchanged at R$4.6 trillion. On an annual basis, total credit expanded 9.5%, down from the 9.7% growth recorded in June. Household lending continued to outpace corporate credit, rising 10.8% year-on-year, while lending to legal entities slowed further to 7.4% from 7.9%. Meanwhile, credit with free resources totaled R$4.2 trillion, broadly unchanged from the prior month, although the level edged 0.1% downward from the previous month and increased 7% from a year earlier. Stronger household credit with free resources (up 1%) offset a monthly decline of 1.9% in corporate lending. Nevertheless, both remained higher than a year earlier.
 
 ---
