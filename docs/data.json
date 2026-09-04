@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-05 04:18:59",
-  "count": 14128,
+  "updated": "2026-09-05 04:23:20",
+  "count": 14127,
   "items": [
+    {
+      "id": "te:markets:581408",
+      "time": "2026-09-05 04:19:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Lower Following Jobs Data — The S&P/TSX Composite Index shed 0.3% to close at 36,514 on Friday following the release of Canadian and US employment data. Employment in Canada declined by 41,700 in August, missing expectations for a 15,000 increase. The weak labor data could support a more dovish stance from the BoC. However, despite keeping rates unchanged on Wednesday, Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated. Meanwhile, US payrolls increased about three times the estimate, boosting expectations for a September Fed rate hike pressuring credit-sensitive stocks. Major banks posted losses, with TD Bank down 1% and Scotiabank shedding 0.9%. Gold prices declined, weighing on mining shares. Agnico Eagle lost 0.9%, Barrick shed 1.8%, and WPM retreated 0.9%. Technology stocks were mostly lower amid weakness among US hyperscalers, with Shopify edging lower and Constellation Software down 0.6%. In contrast, Celestica added 1.1%, tracking strength among chipmakers."
+    },
     {
       "id": "5078358",
       "time": "2026-09-05 04:16:14",
@@ -129418,27 +129430,6 @@
         "Brent"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps said Iranian fighters' control of the strategic Strait of Hormuz is complete and indisputable."
-    },
-    {
-      "id": "mkt:01a04a09-9813-7aab-917a-48c6306c4bd6",
-      "time": "2026-08-29 04:22:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Pentagon in talks with Venezuelan tycoon on major oil deal covering up to 17 fields: sources】Sources say the U.S. government is seeking significant stakes in Venezuelan oil reserves and the Pentagon is negotiating with energy investor Alejandro Betancourt on a deal covering up to 17 fields across Venezuela’s main producing regions, including the Orinoco heavy oil belt (Junín) and areas around Lake Maracaibo. Proposals under discussion would have the Pentagon’s Office of Strategic Capital (OSC) oversee investment and could include U.S. access via leases of up to 100 years. Washington currently effectively controls Venezuelan oil sales and has eased sanctions to allow U.S. firms to re-enter; with the U.S.-Iran war disrupting Middle East supply and lifting global energy prices, U.S. officials want to speed restoration of Venezuelan output. OSC lacks clear authority to hold project equity, and the plan is expected to provoke legal and political challenges in both the U.S. and Venezuela."
-    },
-    {
-      "id": "5066020",
-      "time": "2026-08-29 04:19:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國Pasqal Holding SA美國借殼上市首日漲95%，報19.11美元。"
     }
   ]
 }
