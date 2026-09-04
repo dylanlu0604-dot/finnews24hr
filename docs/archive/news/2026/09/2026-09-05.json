@@ -1,7 +1,186 @@
 {
   "date": "2026-09-05",
-  "count": 245,
+  "count": 264,
   "items": [
+    {
+      "id": "5078294",
+      "time": "2026-09-05 02:47:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們的利率本應維持在 1% 或者 0.5% 的水平。"
+    },
+    {
+      "id": "mkt:01a06dbe-e1ec-7118-84ac-e6446bede4e1",
+      "time": "2026-09-05 02:47:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $96.28/bbl, up $0.76, or 0.8%."
+    },
+    {
+      "id": "5078293",
+      "time": "2026-09-05 02:46:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶96.28美元，上漲76美分，漲幅0.8%。"
+    },
+    {
+      "id": "5078292",
+      "time": "2026-09-05 02:46:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們有權不與金融精英國家開展貿易。"
+    },
+    {
+      "id": "5078291",
+      "time": "2026-09-05 02:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西規劃部長：必須破除僅靠增加稅收就能實現財政調整的觀念。"
+    },
+    {
+      "id": "mkt:01a06dbe-09de-7118-84ac-dfa0c990c763",
+      "time": "2026-09-05 02:46:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "President Trump said the U.S. has the right to impose tariffs on countries like Switzerland."
+    },
+    {
+      "id": "mkt:01a06dbd-f363-7118-84ac-d5c93d9b1e85",
+      "time": "2026-09-05 02:46:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US destroyed all of Iran's advanced radar systems."
+    },
+    {
+      "id": "5078290",
+      "time": "2026-09-05 02:45:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普擬允許牧場主繞開大型肉類加工商 直接向消費者銷售牛肉】、美國總統特朗普表示，他將推出一項計劃，幫助農民和牧場主“加工自己的食品”，透過減少對大型肉類加工商的依賴來降低高企的牛肉價格。特朗普週五在橢圓形辦公室表示：“我們正在制定一項計劃，讓中小型和大型牧場主可以直接向消費者銷售產品，這樣他們就不必經過四大加工商和中間商。特朗普稱，將簽署相關行政令。此外，他還將簽署另一項命令，授權牧場主保護農村社群和牛群免受“墨西哥灰狼”侵害。他表示，這些灰狼給牧場主造成了數千萬美元損失，不僅危及牲畜，也威脅人員安全。"
+    },
+    {
+      "id": "5078289",
+      "time": "2026-09-05 02:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們有權對瑞士這類國家加徵關稅。"
+    },
+    {
+      "id": "mkt:01a06dbd-2fff-7118-84ac-cfa2646fd242",
+      "time": "2026-09-05 02:45:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump: There are no sea mines in the strait and a large amount of oil is spilling out."
+    },
+    {
+      "id": "mkt:01a06dbc-e5ca-7118-84ac-c10949277ef6",
+      "time": "2026-09-05 02:44:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said Russian President Putin does not intend to attack NATO territory."
+    },
+    {
+      "id": "mkt:01a06dbc-c170-7118-84ac-bc34f3841943",
+      "time": "2026-09-05 02:44:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the Iran situation is merely a military clash, not a war, and described it as trivial for the United States."
+    },
+    {
+      "id": "5078288",
+      "time": "2026-09-05 02:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和普京有溝通，他無意攻擊北約。"
+    },
+    {
+      "id": "mkt:01a06dbc-8c6c-7118-84ac-b547ded6f33e",
+      "time": "2026-09-05 02:44:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said there have been no exchanges of fire in Iran for several consecutive days."
+    },
+    {
+      "id": "5078287",
+      "time": "2026-09-05 02:44:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西規劃部長：政府內部並未討論過取消社保福利與最低工資掛鉤的機制。"
+    },
+    {
+      "id": "mkt:01a06dbc-49fa-7118-84ac-a9577efda7cc",
+      "time": "2026-09-05 02:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump: We have basically taken over Iran."
+    },
+    {
+      "id": "5078286",
+      "time": "2026-09-05 02:43:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海峽內沒有水雷。"
+    },
+    {
+      "id": "mkt:01a06dbb-dca8-7118-84ac-a78ac5b9f70c",
+      "time": "2026-09-05 02:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the country should be able to achieve 12%, 13%, 14% or 15% GDP growth, rather than remain at 2%, 3% or 4%."
+    },
+    {
+      "id": "5078285",
+      "time": "2026-09-05 02:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：數日以來沒有發生交火。"
+    },
     {
       "id": "5078284",
       "time": "2026-09-05 02:43:19",
