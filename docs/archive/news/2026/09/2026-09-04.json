@@ -1,7 +1,128 @@
 {
   "date": "2026-09-04",
-  "count": 2436,
+  "count": 2451,
   "items": [
+    {
+      "id": "mkt:01a06d12-c174-7118-84a9-a6e05fd5a1cb",
+      "time": "2026-09-04 23:39:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equity benchmarks closed mixed on Sep 4: Germany's DAX rose 44.63 pts (0.17%) to 26,052.20; UK's FTSE 100 was up 0.25 pts (0.00%) at 10,831.77; France's CAC 40 slipped 7.63 pts (0.09%) to 8,278.77; STOXX Europe 50 gained 11.86 pts (0.19%) to 6,394.45; Spain's IBEX 35 climbed 44.81 pts (0.22%) to 20,045.01; Italy's FTSE MIB dropped 139.97 pts (0.27%) to 52,105.50."
+    },
+    {
+      "id": "5078067",
+      "time": "2026-09-04 23:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達已記錄到伊朗向民用地區發射導彈，並確認由此造成的損失和人員傷亡。伊朗的所作所為明顯違反國際法，任何引述或解讀都改變不了這一事實。卡達將繼續開展外交努力，致力於緩和局勢並加強地區安全。"
+    },
+    {
+      "id": "mkt:01a06d12-43e1-7118-84a9-9af141f226bb",
+      "time": "2026-09-04 23:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry spokesperson said Qatar is not a party to the conflict and any attack on Qatari territory or its civilian infrastructure cannot be justified."
+    },
+    {
+      "id": "mkt:01a06d11-de0f-7118-84a9-964e4146062f",
+      "time": "2026-09-04 23:38:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Qatar foreign ministry spokesman said it is regrettable that, despite Qatar's letter to the UN documenting the attack on Ras Laffan, some still describe it as a \"so-called\" attack."
+    },
+    {
+      "id": "mkt:01a06d11-85dd-7118-84a9-8e03e4bb85d9",
+      "time": "2026-09-04 23:37:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar foreign ministry spokesman said Qatar's armed forces successfully intercepted missiles and drones launched by Iran, but that does not reduce the seriousness of the attack."
+    },
+    {
+      "id": "mkt:01a06d11-458e-7118-84a9-83a24f355207",
+      "time": "2026-09-04 23:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry spokesperson said the documents Iran cited are a security-risk assessment and acknowledge that attacks occurred on Qatari territory."
+    },
+    {
+      "id": "mkt:01a06d10-f9ef-7118-84a9-7b4cc9968ca4",
+      "time": "2026-09-04 23:37:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry spokesman said it had recorded Iran firing missiles into civilian areas and confirmed resulting damage and casualties."
+    },
+    {
+      "id": "5078066",
+      "time": "2026-09-04 23:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹格特煉油廠擬透過 IPO 募資最高 16 億美元。"
+    },
+    {
+      "id": "5078065",
+      "time": "2026-09-04 23:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "博洛尼亞機場：8月客流量達115萬人次，同比增長3.6%。"
+    },
+    {
+      "id": "mkt:01a06d10-17c8-7118-84a9-728144eba6d8",
+      "time": "2026-09-04 23:36:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Foreign Ministry: Ukrainian claim that \"Russian airspace is no longer safe\" distorts facts】Russia's Foreign Ministry said on the 4th that Ukraine's navigation notice alleging Russian airspace \"no longer safe\" distorts facts and misleads airspace users; Moscow has lodged a formal protest. The ministry said the Ukrainian statement poses a direct threat to civil aviation, that Russian authorities are coordinating with the International Civil Aviation Organization (ICAO) and have made an urgent appeal to the ICAO secretary-general, and that Russia remains committed to safeguarding civil aviation safety."
+    },
+    {
+      "id": "5078064",
+      "time": "2026-09-04 23:35:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄 “東部” 集團軍坦克部隊正在扎波羅熱地區摧毀烏克蘭武裝部隊的據點並打擊其人員。"
+    },
+    {
+      "id": "mkt:01a06d0f-b090-7118-84a9-6a060b9faea4",
+      "time": "2026-09-04 23:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Democrats urged the U.S. Postal Service to pause drafting new mail-voting rules, saying the move would undermine public confidence in the November midterm elections."
+    },
+    {
+      "id": "5078063",
+      "time": "2026-09-04 23:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic 自研支付技術佈局，或將蠶食 Stripe 的市場份額】近期招聘資訊顯示，Anthropic 正計劃自研更多賬單結算、欺詐檢測以及其他金融基礎設施，並評估哪些支付相關服務可以自主搭建，而不再依賴外部服務商。招聘資訊表明，Anthropic 尚未最終敲定，在支付、計費、稅務處理等領域，是繼續自研更多工具，還是持續採購外部服務商方案。其中一個計費方向的資深軟體工程師崗位，需要協助公司做技術選型：哪些業務基於外部服務商平臺繼續開發，哪些場景需要圍繞外部平臺搭建自身底層基礎模組。"
+    },
     {
       "id": "mkt:01a06d0f-34c4-7118-84a9-63cc0a03c724",
       "time": "2026-09-04 23:35:08",
@@ -41,6 +162,14 @@
         "WTI"
       ],
       "text": "RUSSIAN DEFENCE MINISTRY: tanks from the \"Eastern\" operational group are destroying Ukrainian armed forces' positions and personnel in the Zaporizhzhia region."
+    },
+    {
+      "id": "5078061",
+      "time": "2026-09-04 23:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院民主黨議員敦促美國郵政署停止推進新的郵寄選票新規，稱該新規將削弱民眾對11月選舉的信心。"
     },
     {
       "id": "mkt:01a06d0e-19cd-7118-84a9-481f88dfda41",
@@ -386,6 +515,16 @@
         "國際"
       ],
       "text": "日本MS&AD保險集團旗下美國子公司MS Transverse執行長表示，日本MS&AD保險集團擬進軍歐洲再保險經紀市場。"
+    },
+    {
+      "id": "5078036",
+      "time": "2026-09-04 23:06:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受俄烏和平預期影響，小麥價格逼近 7 月以來最差單週表現】STAG 國際公司分析師在週五的研報中寫道：“小麥期貨大幅下跌，似乎反映出市場基於俄烏談判有望取得更多實質性進展的預期，初步消化了一部分黑海地緣風險溢價。但普京近期的表態，幾乎沒有證據表明底層地緣政治風險已經出現實質性緩和。”由於戰事持續，黑海糧食航運量低於正常水平；襲擊還損毀了這條全球最重要糧食貿易通道上的多個港口與出口碼頭，亞洲至中東各地的採購方正爭相尋找穀物替代供應源。供應約束若長期延續，可能造成全球糧食供給收緊，推高食品成本。"
     },
     {
       "id": "te:economy:581359",
