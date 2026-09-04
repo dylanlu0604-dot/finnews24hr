@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-05 06:38:56",
-  "count": 14115,
+  "updated": "2026-09-05 06:42:51",
+  "count": 14116,
   "items": [
+    {
+      "id": "te:markets:581417",
+      "time": "2026-09-05 06:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Falls by 2.72% — Top commodity loser is Wheat (-2.72%). Gains are led by Palm Oil (0.51%)."
+    },
+    {
+      "id": "5078395",
+      "time": "2026-09-05 06:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 預計將於 9 月下旬公開 IPO 招股書，最早預計將於 10 月中旬啟動 IPO 路演推介。"
+    },
     {
       "id": "te:markets:581416",
       "time": "2026-09-05 06:35:17",
@@ -129282,17 +129301,6 @@
         "國際"
       ],
       "text": "【8月29日美股成交前20：英偉達跌超4%拖累股指 亞馬遜漲3.97%領跑七巨頭】週五美股成交額第1名英偉達收跌4.57%，成交430.54億美元。 美聯儲主席沃什發表鷹派講話後，交易員和策略師紛紛提高對美聯儲年內加息的押注。市場計入美聯儲年底前加息的機率升至57%。巴克萊經濟學家預計，美聯儲將在9月和12月加息。 英偉達投資的AI雲端計算服務商Lambda公司，已籌集約10億美元私募短期債務，資金用於採購算力晶片，服務其與微軟的合作專案。 第4名美光收跌0.27%，成交212.25億美元。 第5名微軟收漲1.68%，成交152.01億美元。 第6名亞馬遜漲3.97%，成交130.95億美元。 亞馬遜公司宣佈簽署了長期協議，從瑞典的四個風力發電場購買電力，以幫助滿足其在北歐國家資料中心擴容期間的電力需求。 第7名蘋果收漲1.63%，成交123.36億美元。"
-    },
-    {
-      "id": "te:markets:579261",
-      "time": "2026-08-29 06:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rallies by 7.47% — Top commodity gainers are Cocoa (7.47%), Wheat (3.13%) and Oat (2.47%). Biggest losers are Sugar (-3.51%) and Butter (-1.11%)."
     }
   ]
 }

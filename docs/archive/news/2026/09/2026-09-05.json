@@ -1,7 +1,26 @@
 {
   "date": "2026-09-05",
-  "count": 428,
+  "count": 430,
   "items": [
+    {
+      "id": "te:markets:581417",
+      "time": "2026-09-05 06:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Falls by 2.72% — Top commodity loser is Wheat (-2.72%). Gains are led by Palm Oil (0.51%)."
+    },
+    {
+      "id": "5078395",
+      "time": "2026-09-05 06:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 預計將於 9 月下旬公開 IPO 招股書，最早預計將於 10 月中旬啟動 IPO 路演推介。"
+    },
     {
       "id": "te:markets:581416",
       "time": "2026-09-05 06:35:17",
