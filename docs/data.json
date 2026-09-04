@@ -1,7 +1,152 @@
 {
-  "updated": "2026-09-04 14:40:36",
-  "count": 13410,
+  "updated": "2026-09-04 14:44:25",
+  "count": 13415,
   "items": [
+    {
+      "id": "mkt:01a06b28-d1bd-7118-8499-dc9cf9c86dc8",
+      "time": "2026-09-04 14:43:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian government spokesman said severe sanctions have affected national resource security and hindered project implementation."
+    },
+    {
+      "id": "te:economy:581161",
+      "time": "2026-09-04 14:43:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Hungary Retail Sales Hit 4-Month High — Retail sales in Hungary rose 4.9% year-on-year in July 2026, picking up from a seven-month low of 3% in the previous month. It marked the strongest annual growth since March, driven by faster increases in sales of food, beverages and tobacco (2.2% vs 1.8% in June) and non-food products (6.5% vs 5.1%). Within non-food items, sales accelerated at pharmaceutical, medical product and perfume stores (9.2%), book, computer and other industrial goods (5.9%), textile, clothing and footwear (5.4%), furniture and technical goods (5.2%), and industrial goods-type mixed (5.1%). Retail activity was also supported by a sharp rebound in fuel sales (8.1% vs -0.3%). On a seasonally adjusted monthly basis, retail activity rose 1%, recovering from a 0.4% decline in June."
+    },
+    {
+      "id": "5076990",
+      "time": "2026-09-04 14:43:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本央行行長植田和男將於10月6日在全國證券大會上發表演講。"
+    },
+    {
+      "id": "mkt:01a06b28-15ae-7118-8499-d0906e456aa1",
+      "time": "2026-09-04 14:43:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Jiji Press reports BOJ Governor UEDA will speak at the National Securities Conference on Oct. 6."
+    },
+    {
+      "id": "5076989",
+      "time": "2026-09-04 14:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：深入推進長三角一體化發展】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，推進上海與周邊地區的多方向協同發展。北翼加強長江口生態協同保護，共建長江口產業創新綠色發展協同區。西翼強化虹橋南北向輻射，發揮上海（長三角）國際科技創新中心引領作用，完善科創空間佈局。南翼統籌沿灣、跨灣通道建設，強化東方樞紐等樞紐聯動。東翼加快海洋經濟協同創新發展，推動上海港與其他港口合理分工，加強海洋生態環境共保聯治。"
+    },
+    {
+      "id": "mkt:01a06b27-913f-7118-8499-ca08fd55b4be",
+      "time": "2026-09-04 14:42:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【CPCA secretary-general Cui Dongshu: China's auto industry in 1H undergoing deep transformation and fierce competition for existing market】CPCA secretary-general Cui Dongshu says in 1H the Chinese auto industry is in deep transformation and intense competition for existing demand as NEV penetration rises. The sector shows revenue growth without profit and widening divergence: domestic OEMs still growing top line but at a slower pace and remain smaller than global peers; profits have concentrated with upstream battery leaders while downstream dealers face a severe survival crisis. Price wars and high inventories are intensifying cash-flow stress and supply-chain payment pressures, raising systemic risk. Cui notes a multi-dimensional deterioration across revenue, gross margin, expenses, net profit, inventory and cash flow, and highlights that overseas sales—where volumes and margins are higher—are the most important route to relief for most automakers."
+    },
+    {
+      "id": "mkt:01a06b27-40f1-7118-8499-c48c829ff77f",
+      "time": "2026-09-04 14:42:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT backs national high‑tech zones to focus on new AI tracks and strengthen SME support】The Ministry of Industry and Information Technology issued the AI SME Entrepreneurship Support Plan (2026–2028). It urges localities to leverage industry strengths to cultivate concentrated, high‑quality AI SME clusters. Qualified areas, including national AI innovation application pilot zones, are encouraged to build coordinated compute supply‑demand platforms, inclusive compute centres and other infrastructure/services to promote wider sharing of compute and data resources. The plan directs national high‑tech industrial development zones to prioritise new AI tracks and step up cultivation and support for SMEs."
+    },
+    {
+      "id": "5076988",
+      "time": "2026-09-04 14:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月4日：“農產品批發價格200指數”比昨天上升0.30個點】據農業農村部監測，9月4日“農產品批發價格200指數”為116.47，比昨天上升0.30個點，“菜籃子”產品批發價格指數為117.18，比昨天上升0.36個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.35元/公斤，比昨天下降0.5%；牛肉69.99元/公斤，比昨天上升0.7%；羊肉66.17元/公斤，比昨天上升1.0%；雞蛋10.83元/公斤，比昨天上升0.2%；白條雞17.23元/公斤，與昨天持平。重點監測的28種蔬菜平均價格為4.67元/公斤，比昨天上升0.6%；重點監測的6種水果平均價格為6.71元/公斤，比昨天上升0.6%。鯽魚19.92元/公斤，比昨天下降1.3%；鯉魚13.79元/公斤，比昨天下降2.1%；白鰱魚9.97元/公斤，比昨天下降2.2%；大帶魚40.40元/公斤，比昨天下降5.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是茄子、冬瓜、平菇、豆角和蒜薹，幅度分別為3.0%、2.8%、2.7%、2.6%和2.5%；價格降幅前五名的是大帶魚、白鰱魚、鯉魚、油菜和韭菜，幅度分別為5.1%、2.2%、2.1%、1.5%和1.4%。"
+    },
+    {
+      "id": "mkt:01a06b26-530a-7118-8499-bb01e52826cf",
+      "time": "2026-09-04 14:41:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT issues AI SME support plan, urges startups to join open-source ecosystem】The Ministry of Industry and Information Technology (MIIT) issued an AI SME Entrepreneurship Support Plan (2026-2028) directing expansion of an open-source startup ecosystem. MIIT will back growth of the national AI open-source community AtomGit and strengthen supply of high-quality open-source models, development frameworks, toolchains, datasets and services for AI startups. The plan encourages startups to contribute models, tools and datasets and promotes adoption of open-source foundation models and frameworks to lower R&D and product-innovation costs."
+    },
+    {
+      "id": "5076986",
+      "time": "2026-09-04 14:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：引導各類投資基金加強對優質開源專案的支援力度】工業和資訊化部辦公廳印發《人工智慧中小企業創業支援計劃（2026-2028年）》。其中指出，強化融資服務保障。充分發揮國家中小企業發展基金、國家人工智慧產業投資基金、國家積體電路產業投資基金引導作用，帶動社會資本設立一批聚焦人工智慧領域的早期風險投資基金和創業投資基金，構建覆蓋種子期、初創期、成長期的耐心資本支援體系。在優質中小企業梯度培育平臺融資專區增設人工智慧投融資專欄，開通“線上路演”功能，促進創投機構與創業企業高效對接。引導各類投資基金加強對優質開源專案的支援力度，形成良性發展的開源生態閉環。鼓勵各地聯合創業投資機構、孵化載體等，推動創業投資與算力供給、資料供給、中試孵化等資源統籌配置，探索算力入股、資料入股、投孵聯動等新型支援方式。"
+    },
+    {
+      "id": "5076984",
+      "time": "2026-09-04 14:40:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨稱兩名黨內官員已辭職。"
+    },
+    {
+      "id": "5076983",
+      "time": "2026-09-04 14:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨遭遇釣魚暗訪後，啟動內部調查。"
+    },
+    {
+      "id": "5076982",
+      "time": "2026-09-04 14:40:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【富士膠片推出富士龍超望遠定焦鏡頭新品】9月4日，富士膠片宣佈推出“富士龍XF400mmF4.5 R LM OIS WR鏡頭”，該鏡頭是適用於“X系列”無反數碼相機的超望遠鏡頭新品。它是一款超望遠定焦鏡頭，具備400mm焦距（等效35mm格式為609mm）與F4.5最大光圈，可提供高達5.5檔的影象防抖，鏡頭重量僅約1245g。"
+    },
+    {
+      "id": "mkt:01a06b25-8f34-7118-8499-b38903eb22a6",
+      "time": "2026-09-04 14:40:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT urges localities to back one‑person companies and super‑individuals using AI tools】China’s Ministry of Industry and Information Technology issued an AI SME Entrepreneurship Support Plan (2026‑2028). It urges local governments to provide tolerant support for micro entities—including one‑person companies and “super‑individuals”—that use AI tools for agile entrepreneurship. The plan calls for faster cultivation of AI‑native firms, support for open‑source core contributors and AI/agent developers to explore commercial paths, and backing for a cohort of high‑growth startups. It also directs encouragement of technical managers to offer discovery, selection, evaluation and commercialization services for AI tech, accelerate industrial application of promising results, and support research teams to found companies based on quality outcomes."
+    },
+    {
+      "id": "5076981",
+      "time": "2026-09-04 14:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工信部：鼓勵各地對依託智慧工具開展敏捷創業的“一人公司”、超級個體等微型主體給予包容支援】工業和資訊化部辦公廳印發《人工智慧中小企業創業支援計劃（2026-2028年）》的通知。鼓勵各地對依託智慧工具開展敏捷創業的“一人公司”、超級個體等微型主體給予包容支援。加快培育“智慧原生”企業，支援開源社群核心貢獻者、智慧體開發者等新興群體探索商業化路徑，支援一批具備高成長潛力的創業新銳。引導技術經理人面向人工智慧領域開展科技成果挖掘、篩選評價和轉化服務，推動具有產業化前景的科技成果加快商業應用，支援科研團隊等主體依託優質成果開展創業。"
+    },
     {
       "id": "5076980",
       "time": "2026-09-04 14:39:59",
@@ -123090,105 +123235,6 @@
         "XAUUSD"
       ],
       "text": "【CBA: Kevin Warsh faces four communication objectives at Jackson Hole】Commonwealth Bank of Australia FX strategist Samarra Hammoud says Fed chair Kevin Warsh's Jackson Hole remarks will aim to: restore market confidence in the Fed's commitment to curb inflation; allay fears of fiscal dominance; persuade markets that less reliance on forward guidance will not harm financial stability; and bolster confidence in Fed working groups. Hammoud calls the agenda ambitious and warns communication alone may be insufficient, advising market skepticism. Given Warsh's resistance to forward guidance, markets may view his inflation remarks as not sufficiently hawkish; that could put downside pressure on the USD."
-    },
-    {
-      "id": "te:economy:578951",
-      "time": "2026-08-28 14:44:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Sweden Business Confidence Hits 4-Year High — Sweden’s business confidence indicator climbed to 107.4 in July 2026 from a slightly upwardly revised 106.4 in the previous month, marking the highest level since June 2022. The increase points to a stronger-than-normal business mood, although changes across sectors remained small. Demand conditions were unchanged at -17, remaining broadly in line with the historical average, while companies reported a decline in employment over the past three months, with the net figure at -3. However, hiring plans strengthened (6 vs 4 in June), pointing to an increase in workforce levels over the next three months. Meanwhile, firms’ expectations for sales prices remained elevated, with the net figure edging up to 21 from 20, indicating that companies anticipate price increases to a greater extent than normal."
-    },
-    {
-      "id": "te:markets:578949",
-      "time": "2026-08-28 14:43:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natural Gas Rises on Middle East Uncertainty — UK natural gas prices rose toward 170 pence per therm on Friday, extending gains from the previous session and moving back toward their highest level since January 2023, as supply risks remain amid uncertainty over a Middle East peace deal. Prices jumped on Thursday after reports that President Trump was not interested in returning to the terms of a June deal with Iran. This reversed losses from earlier this week, which were driven by progress in talks between Pakistan and Iran to end the conflict and an agreement between Tehran and Oman on control and revenues tied to the Strait of Hormuz. The near-closure of the Strait has continued to disrupt LNG supplies from Qatar, while extreme summer heat-driven cooling demand diverted supplies from storage. These factors have left Europe scrambling to secure supplies, heightening fears that the region could enter the winter heating season with insufficient reserves. For the week, UK gas prices climbed 4%, their third straight weekly gain."
-    },
-    {
-      "id": "5064080",
-      "time": "2026-08-28 14:43:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：降嗶哩嗶哩ADR目標價至27美元，重申“增持“評級。"
-    },
-    {
-      "id": "5064079",
-      "time": "2026-08-28 14:43:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招銀國際：藥明生物目標價上調至60港元 維持“買入”評級】招銀國際釋出研報稱，藥明生物（02269）上半年業績強勁，全年收入增長指引亦上調至15%-18%，將藥明生物目標價由39港元上調至60港元，維持“買入”評級。該行上調藥明生物業績預測，預計2026年收入同比增長17.1%，經調整淨利潤同比增長16.5%，以反映上調的業績指引及積極的板塊需求展望。"
-    },
-    {
-      "id": "te:markets:578947",
-      "time": "2026-08-28 14:43:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Rises 0.4% This Week — The ASX 200 rose 54 points, or 0.6%, to close at 9,092 on Friday, halting a two-day losing streak as strength in commercial services, tech, healthcare, and energy minerals lifted sentiment. Traders looked ahead to next week’s key domestic releases in Australia, including Q2 GDP and July trade figures, while in main trading partner China, July PMI readings from both official and private surveys are due. Gains were capped, however, as U.S. stock futures traded mostly lower, with investors cautious ahead of Fed Chair Kevin Warsh’s Jackson Hole speech for signals on the rate path. Locally, concerns lingered that the cash rate may stay higher for longer after hotter-than-expected July inflation, fuelling bets on a hike at the next RBA meeting. Standouts included Xero (5.2%), PLS Group (3.8%), and Wisetech Global (3.1%). The big four banks rallied, while heavyweight BHP added 0.9%. For the week, markets rose 0.4%, marking the first gain in three weeks."
-    },
-    {
-      "id": "5064078",
-      "time": "2026-08-28 14:42:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.00%，成分股中，戈碧迦跌4.44%，則成電子跌3.12%，天力複合跌3.02%，萬源通跌2.37%。"
-    },
-    {
-      "id": "te:economy:578945",
-      "time": "2026-08-28 14:42:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Ireland 10Y Bond Yield Hits 12-1/2-year High — Ireland 10 Year Government Bond Yield increased to 3.44%, the highest since January 2014. Over the past 4 weeks, Ireland 10Y Bond Yield gained 9.12 basis points, and in the last 12 months, it increased 44.67 basis points."
-    },
-    {
-      "id": "mkt:01a0471a-fc98-7aab-9165-5706d737a017",
-      "time": "2026-08-28 14:42:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "MORGAN STANLEY cut its rating on the European paper and packaging sector to Underweight from Equal-Weight."
-    },
-    {
-      "id": "mkt:01a0471a-3817-7aab-9165-4e86c87ebb8a",
-      "time": "2026-08-28 14:41:35",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "South Korea's KOSPI ended a three-day winning streak and fell 1.8% for the week."
-    },
-    {
-      "id": "mkt:01a04719-fd3e-7aab-9165-41f5f7e084ab",
-      "time": "2026-08-28 14:41:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Norwegian King Harald V dies at 89】Norway's King Harald V died on Aug 28 after a more-than-week-long hospitalisation for a blood disorder, aged 89. He succeeded to the throne in January 1991 and had been hospitalised several times in recent years."
     }
   ]
 }
