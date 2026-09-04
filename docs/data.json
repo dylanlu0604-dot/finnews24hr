@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-04 10:20:35",
-  "count": 13327,
+  "updated": "2026-09-04 10:24:30",
+  "count": 13337,
   "items": [
+    {
+      "id": "mkt:01a06a3a-5974-7118-8495-4c2c293faf65",
+      "time": "2026-09-04 10:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said talks with U.S. Treasury Secretary Bessent were pleasant and that he briefed Bessent on Japan's efforts to secure fiscal sustainability while supporting economic growth."
+    },
+    {
+      "id": "mkt:01a06a3a-47d8-7118-8495-41b55720cde3",
+      "time": "2026-09-04 10:23:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said she had taken note of Prime Minister Sanae Takaichi's remarks that new government bond issuance could be close to ¥40 trillion."
+    },
+    {
+      "id": "5076655",
+      "time": "2026-09-04 10:23:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家醫保局：“十五五”期間將推動醫保醫療服務專案報銷目錄全國統一】在國務院新聞辦今天舉辦的新聞釋出會上，國家醫保局副局長李滔表示，當前，基本醫保藥品目錄已實現全國統一，但哪些醫療服務專案和醫用耗材能報銷，仍由各省自行確定。群眾就醫時，一些醫療服務專案可能在某些省份能報銷，在其他省份卻不能報銷。“十五五”期間，將著力推動醫療服務專案和醫用耗材報銷目錄全國統一，進一步縮小地區之間政策差異。"
+    },
+    {
+      "id": "5076654",
+      "time": "2026-09-04 10:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：一直很樂意與美國代表貝森特交談，並已向他解釋了日本為實現財政可持續性和增長所做的努力。"
+    },
+    {
+      "id": "5076653",
+      "time": "2026-09-04 10:22:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問辦公上線首月使用者數突破 3000萬，企業使用者佔比過半】9月4日，阿里旗下企業級通用Agent產品千問辦公上線滿一個月，使用者數突破3000 萬，企業使用者佔比過半。過去一個月，千問辦公共完成 120 個版本更新，平均一天迭代4次，累計更新上千個feature。期間，千問辦公推出國際版，全面進入全球市場。"
+    },
+    {
+      "id": "mkt:01a06a39-9dc7-7118-8495-3aaebda86913",
+      "time": "2026-09-04 10:22:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NHSA to push national unification of medical-service and consumable reimbursement lists during 15th Five-Year Plan】At a State Council press briefing today, National Healthcare Security Administration deputy director Li Tao said China’s basic medical insurance drug list is already nationally unified, but provinces still determine which medical service items and medical consumables are reimbursable. As a result, some services are reimbursed in some provinces but not others. During the 15th Five-Year Plan period the NHSA will push to unify reimbursement lists for medical services and consumables nationwide to narrow regional policy differences."
+    },
+    {
+      "id": "mkt:01a06a39-6379-7118-8495-362296a5fe64",
+      "time": "2026-09-04 10:22:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Wolong Electric Drive signs strategic cooperation with Shanghai Mufan Power; projects forecast to generate >700 mln yuan in orders over three years】On Sept. 3 Wolong Electric Drive signed a strategic cooperation agreement with Shanghai Mufan Power Technology; the partners expect cumulative orders of more than 700 million yuan over the next three years. Wolong’s Nanyang Explosion‑proof Group gas‑turbine generator is described as core distributed‑energy equipment. North American and Southeast Asian data‑center demand for on‑site generation is rising, and gas turbines—cited for faster payback, shorter construction cycles and rapid ability to plug power shortfalls—are identified as having broad application in data‑center deployments."
+    },
+    {
+      "id": "5076652",
+      "time": "2026-09-04 10:21:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：高市早苗的言論具有重大意義。"
+    },
+    {
+      "id": "mkt:01a06a38-9d79-7118-8495-2d1b63f6b622",
+      "time": "2026-09-04 10:21:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China COSCO Shipping says US official allegation that its merchant ships carry 'covert equipment' to collect intelligence is baseless】China COSCO Shipping Group said it has noted foreign media reports citing anonymous US officials alleging COSCO vessels carry ‘‘covert equipment’’ to intercept military communications and collect intelligence. The company said those allegations have no factual basis and it strongly rejects them. It said communications, navigation, security and operational equipment on its commercial ships are used for navigation safety, ship‑to‑shore contact and emergency response in normal commercial operations, and that there is no use of merchant vessels to eavesdrop on military communications or gather intelligence. China COSCO Shipping said it opposes misinformation that harms its brand or disrupts its international operations and reserves the right to seek legal protection of its reputation."
+    },
+    {
+      "id": "5076651",
+      "time": "2026-09-04 10:21:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月在被問及新政府債券發行規模是否會控制在40萬億日元左右時，表示注意到首相高市早苗的言論。"
+    },
+    {
+      "id": "5076650",
+      "time": "2026-09-04 10:21:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臥龍電驅：資料中心市場獲突破 慕帆動力合作專案未來三年訂單預計逾7億元】9月3日，臥龍電驅與上海慕帆動力科技簽署戰略合作協議。根據協議規劃，未來三年雙方預計訂單總額可達7億元以上。據介紹，臥龍電驅旗下臥龍電氣南陽防爆集團的燃氣輪發電機，是分散式能源領域的核心裝備。當前，北美及東南亞資料中心市場對發電裝置需求持續攀升，燃氣輪機組憑藉投資回報快、建設週期短、可快速彌補電力缺口等突出優勢，在資料中心場景中展現出廣闊應用空間。"
+    },
     {
       "id": "5076649",
       "time": "2026-09-04 10:19:55",
@@ -122424,18 +122524,6 @@
         "Importance 1"
       ],
       "text": "Hong Kong Stocks Edge Higher on Tech Gains — The Hang Seng Index edged up about 0.1% to 25,592 on Friday as strong global technology sentiment following Nvidia’s upbeat earnings and outlook provided support, while investors awaited Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole symposium later in the day. Nvidia’s results reinforced expectations for robust AI infrastructure demand, supporting Hong Kong’s tech-heavy market despite concerns over the sustainability of AI spending. Meanwhile, caution ahead of Warsh’s speech kept investors focused on clues about the Fed’s rate outlook. Among stocks, Meituan was also in focus ahead of its second-quarter results due later in the day, with investors watching margins amid intense competition and subsidies following its third consecutive quarterly loss in Q1. Tencent (1.7%), Kingboard Laminates (3.8%), MiniMax (3.1%), AIA Group (1.5%), and Xiaomi (1.5%) gained, while Akeso (-7.5%), Meituan (-0.9%), and Dongyue Group (-1.2%) declined."
-    },
-    {
-      "id": "te:markets:578871",
-      "time": "2026-08-28 10:23:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Nears 2-Month High on Tech Sector Boost — The TAIEX, Taiwan’s benchmark stock index, rose 373 points, or 0.8%, to 46,349 in Friday morning deals, gaining for the fourth consecutive session and tracking a rally on Wall Street overnight, buoyed by tech sectors following solid Nvidia earnings. The broader index reached its highest level since July 6, mainly supported by electronic technology, finance, technology services, and health technology. Electronic technology continued to rise, advancing 0.7%, following a rise in the tech sector on Wall Street on Thursday. TSMC, the world’s largest contract chipmaker and accounting for more than 40% of the market’s total value, gained 0.6%. Meanwhile, MediaTek climbed 1.9%, and Delta Electronics increased 2.2%. Nanya Technology, a major Taiwanese memory chip supplier, rose 0.2%. However, traders awaited a speech by Fed Chair Kevin Warsh at the Jackson Hole Symposium later today for guidance on the Fed’s monetary policy decision at its upcoming meeting."
     }
   ]
 }
