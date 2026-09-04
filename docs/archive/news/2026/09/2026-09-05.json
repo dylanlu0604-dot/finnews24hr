@@ -1,7 +1,17 @@
 {
   "date": "2026-09-05",
-  "count": 373,
+  "count": 374,
   "items": [
+    {
+      "id": "mkt:01a06e14-55ab-7118-84ae-41ade1a28857",
+      "time": "2026-09-05 04:20:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. official says the White House is not planning to hold an AI meeting in mid-September."
+    },
     {
       "id": "te:markets:581408",
       "time": "2026-09-05 04:19:35",
