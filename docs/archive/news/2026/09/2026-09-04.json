@@ -1,7 +1,133 @@
 {
   "date": "2026-09-04",
-  "count": 2423,
+  "count": 2436,
   "items": [
+    {
+      "id": "mkt:01a06d0f-34c4-7118-84a9-63cc0a03c724",
+      "time": "2026-09-04 23:35:08",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bild reports Saxony has found evidence of a new set of planned attacks targeting Germany's power grid."
+    },
+    {
+      "id": "mkt:01a06d0e-e1c0-7118-84a9-5dda82d17225",
+      "time": "2026-09-04 23:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC is exploring building more in-house payments and billing infrastructure."
+    },
+    {
+      "id": "5078062",
+      "time": "2026-09-04 23:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍缺乏反導攔截彈問題無法掩蓋】美國總統特朗普9月3日在社交媒體發帖，指責媒體沒有如實報道美國武器彈藥庫存情況。最近一段時間，美軍彈藥庫存頻頻被曝在伊朗戰事中大幅消耗，已處於嚴重短缺狀態。對此，白宮方面和五角大樓多次予以否認。不過媒體披露的資訊顯示，美國軍方人士已經對政府發出了警告。總檯軍事觀察員魏東旭指出，美軍反導系統攔截彈庫存不足是客觀事實，五角大樓和美國高層沒有辦法針對這個問題進行掩蓋和掩飾。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a06d0e-9035-7118-84a9-518a1d68e202",
+      "time": "2026-09-04 23:34:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: tanks from the \"Eastern\" operational group are destroying Ukrainian armed forces' positions and personnel in the Zaporizhzhia region."
+    },
+    {
+      "id": "mkt:01a06d0e-19cd-7118-84a9-481f88dfda41",
+      "time": "2026-09-04 23:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Interior Minister Dobrindt said he cannot rule out that the suspect had accomplices in the sabotage case."
+    },
+    {
+      "id": "5078060",
+      "time": "2026-09-04 23:33:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄外交部：烏有關“俄領空不再安全”說法是歪曲事實】俄羅斯外交部4日在官方網站釋出宣告說，烏克蘭方面發表的有關“俄羅斯領空不再安全”的航行通告歪曲事實、誤導俄空域使用者，俄方對此提出嚴正抗議。俄外交部在宣告中說，烏方言論對民用航空構成直接威脅，俄有關部門正與國際民用航空組織保持聯絡，並向國際民航組織秘書長髮出緊急呼籲。宣告說，俄羅斯始終堅定不移地保障民用航空安全。據烏克蘭國家通訊社1日報道，烏總統澤連斯基當天在夜間講話中警告國際航空公司，俄羅斯領空正變得危險。俄交通部長尼基京2日對此發表評論說，俄交通部正持續提升飛行安全和機場安保要求，俄方有能力應對一切威脅。(新華社）"
+    },
+    {
+      "id": "mkt:01a06d0d-fd8a-7118-84a9-47ab3aeaf69d",
+      "time": "2026-09-04 23:33:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's Interior Minister Dobrindt said operators of critical infrastructure must be enabled to carry out drone deterrence."
+    },
+    {
+      "id": "mkt:01a06d0d-86c1-7118-84a9-3eca53f20410",
+      "time": "2026-09-04 23:33:17",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Germany's Interior Minister Dobrindt said the number of attack incidents has increased and more are expected."
+    },
+    {
+      "id": "mkt:01a06d0d-6ec6-7118-84a9-320b05da9ab6",
+      "time": "2026-09-04 23:33:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran diplomat says Tehran's conditions must precede talks on reopening Strait of Hormuz】IRNA: Iran's chargé d'affaires in Cairo said Tehran's conditions must be met before any talks with Washington on reopening the Strait of Hormuz. He warned any strikes from US regional bases on Iranian infrastructure would be met with a response, and said the US has yet to recognise the resilience of the Iranian people."
+    },
+    {
+      "id": "5078059",
+      "time": "2026-09-04 23:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部節能與綜合利用司副司長羅曉麗：全面提升動力電池回收利用水平 激發產業發展動能】9月4日，2026世界動力電池大會動力電池回收利用體系建設與規範發展專題會在宜賓舉行，工業和資訊化部節能與綜合利用司副司長羅曉麗致辭表示，“十五五”時期，我國動力電池進入規模化退役階段，全面提升回收利用水平尤為重要。2025年，我國新能源汽車動力電池綜合利用量超過40萬噸，回收服務網點覆蓋300多個地市，回收網路的可及性、便利性持續提升。下一步，在動力電池回收利用方面，將逐步完善法規標準體系、強化全鏈條管理、加快技術模式創新，激發產業發展動能。"
+    },
+    {
+      "id": "5078058",
+      "time": "2026-09-04 23:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國媒體報道，在薩克森州發現針對德國電網新襲擊計劃的證據。"
+    },
+    {
+      "id": "mkt:01a06d0c-2d17-7118-84a9-283e8cb347e9",
+      "time": "2026-09-04 23:31:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "【Tanker market retreats overall; Russia-to-India freight remains firm】Mediterranean tanker freight has fallen sharply: broker Riverlake says a 140,000‑dwt Black Sea→Med voyage slid from about WS570 in mid‑August to WS280 by early September; cross‑Med rates are down roughly 100 WS points since late August and another broker pegs levels near WS200. By contrast, traders report freight for Urals from Novorossiysk to India holding at about $18–20m per voyage, supported by shipowners avoiding Russian Black Sea ports on security grounds, which has reduced available tonnage and underpinned India‑bound rates."
+    },
+    {
+      "id": "5078057",
+      "time": "2026-09-04 23:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "人工智慧企業Anthropic正探索自研更多內部支付與賬單結算基礎設施。"
+    },
     {
       "id": "5078056",
       "time": "2026-09-04 23:30:44",
