@@ -1,7 +1,79 @@
 {
   "date": "2026-09-04",
-  "count": 2399,
+  "count": 2407,
   "items": [
+    {
+      "id": "5078045",
+      "time": "2026-09-04 23:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟氣候機構：歐洲是全球變暖速度最快的大洲】今年夏季，歐洲多地遭遇高溫乾旱，河流水位持續走低，山火風險顯著上升。歐盟哥白尼氣候變化服務局副主任薩曼莎·伯吉斯在接受總檯記者採訪時表示，氣候變化正在成為極端天氣的“風險放大器”，而歐洲是全球變暖速度最快的大洲。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a06cfb-73d4-7118-84a9-053b03efb002",
+      "time": "2026-09-04 23:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Japan's Ministry of Defense plans a satellite launch in fiscal 2030 or later to test its space capabilities."
+    },
+    {
+      "id": "mkt:01a06cfa-df51-7118-84a8-fe24e249f97c",
+      "time": "2026-09-04 23:12:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan military says 48 terrorists killed in three days】Pakistan's Inter-Services Public Relations said on the 4th that security forces carried out multiple counterterror operations across Balochistan in the past three days, killing 48 terrorists."
+    },
+    {
+      "id": "5078044",
+      "time": "2026-09-04 23:12:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果開啟John Ternus時代 史上最龐大產品陣容蓄勢待發】過去15年的大部分時間裡，蘋果公司一直致力於完善現有產品線，並推出各種服務，以創造更多經常性收入。期間也出現了Apple Watch和AirPods等少數全新裝置類別，但蘋果並沒有源源不斷地推出新產品概念。這種局面即將改變，起點就是下週蘋果將於9月9日舉行的“驚喜閃耀”(Surprise and Shine)活動。新任執行長John Ternus屆時將登臺釋出最新款iPhone和Apple Watch，但這僅僅是開始。蘋果即將開啟公司歷史上規模最大的一輪裝置釋出潮，在2026年、2027年及以後推出一系列全新產品形態，並進軍多個全新的產品領域。過去五年來，蘋果一直在為這一系列產品進行準備，Ternus也宣揚一個創新新時代即將開啟。他週二在給員工的信中寫道，“想到我們接下來準備的一切，我感到無比興奮。下週我們將舉行一場大型釋出會，肯定會非常精彩。對於更遠的未來，我同樣充滿期待，其中既包括已經在開發中的那些令人驚歎的產品，也包括那些我們甚至還未曾想象過的產品。”"
+    },
+    {
+      "id": "mkt:01a06cf9-ba75-7118-84a8-f2eb5c3c782a",
+      "time": "2026-09-04 23:11:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Japan's Defence Ministry plans to partner with domestic firms to build test satellites in FY2027–29."
+    },
+    {
+      "id": "5078043",
+      "time": "2026-09-04 23:11:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦軍方說過去三天打死48名恐怖分子】巴基斯坦三軍新聞局4日發表宣告說，過去三天，巴安全部隊在該國西南部俾路支省各地開展多次反恐行動，共打死48名恐怖分子。宣告說，安全部隊在俾路支省默斯東地區開展行動，擊斃了6名恐怖分子，繳獲並銷燬了一批彈藥和簡易爆炸裝置。在奎達地區，安全部隊發現4處恐怖分子藏匿點，打死26名恐怖分子。在格拉德地區，安全部隊打死14名恐怖分子。此外，在錫比地區，安全部隊挫敗了恐怖分子襲擊當地警察局的圖謀，2名恐怖分子被擊斃。（新華社）"
+    },
+    {
+      "id": "mkt:01a06cf9-4487-7118-84a8-ea557d295020",
+      "time": "2026-09-04 23:11:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Allianz analyst: stable jobs and negative real wage growth complicate Fed rate decision】Charlie Ripley at Allianz Investment Management said in a note that August payrolls rose 162,000, a result that—despite monthly volatility—reinforces a pattern of weak jobs growth and low labor mobility. Wage growth slowed to a 3.09% YoY low; adjusted for inflation, real wages have turned negative. Ripley said consumers are feeling the squeeze and further Fed hikes risk over-tightening. He added the August report materially changed market odds for a September rate hike, but the outcome remains uncertain."
+    },
+    {
+      "id": "5078042",
+      "time": "2026-09-04 23:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "瓦羅普雷姆確認關停瑞士克雷西耶煉油廠。"
+    },
     {
       "id": "5078041",
       "time": "2026-09-04 23:10:07",
