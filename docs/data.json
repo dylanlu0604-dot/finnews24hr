@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-04 23:19:23",
+  "updated": "2026-09-04 23:23:28",
   "count": 14088,
   "items": [
+    {
+      "id": "mkt:01a06d03-e22b-7118-84a9-1ba84c40af0b",
+      "time": "2026-09-04 23:22:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【SBU struck in central Kyiv; US envoy Witkoff may alter Russia-Ukraine visit plan】Ukraine president ZELENSKIY said on the 4th that the Security Service of Ukraine (SBU) headquarters in central Kyiv was hit by a Russian military drone. Ukrainian media cited sources saying US presidential envoy Witkoff, who had planned visits to Russia and Ukraine, is considering alternative arrangements for the trip due to security concerns."
+    },
+    {
+      "id": "5078048",
+      "time": "2026-09-04 23:22:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "玻利維亞 8 月消費者價格環比上漲 1.1%， 同比上漲 5.02% 。"
+    },
+    {
+      "id": "5078047",
+      "time": "2026-09-04 23:21:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度孟買證券交易所（BSE）：自2026年9月7日起，收盤集合競價階段價格漲跌幅限制規則將擴充套件適用於股指期貨。"
+    },
     {
       "id": "mkt:01a06cff-c0ee-7118-84a9-10b98af44d00",
       "time": "2026-09-04 23:18:15",
@@ -128950,34 +128979,6 @@
         "國際"
       ],
       "text": "白宮官員向半島電視臺表示：美國海上封鎖已“全面實施”。"
-    },
-    {
-      "id": "te:markets:579190",
-      "time": "2026-08-28 23:21:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "New Zealand Dollar Slips as Hawkish Fed Tone Boosts US Dollar — The New Zealand dollar weakened toward $0.59, touching its lowest level since August 19, as investors favored the US dollar following Federal Reserve Chair Kevin Warsh’s first Jackson Hole speech, despite expectations that the Reserve Bank of New Zealand will continue tightening policy this year. In his first major speech since becoming Fed chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need to be confident that underlying price pressures are easing; otherwise, the central bank still has “work to do.” In New Zealand, economists widely expect the RBNZ to raise its cash rate by another 25 basis points at its September meeting, with around two-thirds anticipating at least one more hike. This could take the policy rate to 3% or higher by December. The outlook follows the RBNZ’s first rate increase in more than three years in July, when policymakers indicated that further tightening may be needed to bring inflation back to target."
-    },
-    {
-      "id": "5065740",
-      "time": "2026-08-28 23:21:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Wan 3.0登陸SkyProduction，限時免費三天再掀AI影片價格戰】崑崙萬維旗下AI平臺SkyProduction（天工工作臺）接入阿里巴巴最新影片生成模型Wan 3.0，並宣佈於8月28日至30日面向所有使用者限時免費開放。8月31日起恢復收費，價格低至0.05元/秒，一條30秒影片最低只需1.5元，創下全網影片模型最低價。（新浪科技）"
-    },
-    {
-      "id": "5065739",
-      "time": "2026-08-28 23:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卡達將對義大利愛迪生的液化天然氣供應的不可抗力暫停期延長至11月初】愛迪生公司在一份證實此前監管通知的宣告中表示，卡達能源公司已將對義大利愛迪生公司的液化天然氣供應不可抗力期限延長至11月初。此次延期額外波及五批原定運往義大利亞得里亞液化天然氣接收站的貨船。自4月至11月初，受影響的貨船累計達29批，對應天然氣量約38億立方米。截至8月28日，愛迪生公司已完成21批貨船的氣源替代，對應天然氣量約20億立方米。愛迪生公司稱將持續關注事態發展。注：愛迪生公司與卡達能源簽有一份25年期供氣合同，年供氣量64億立方米。"
     }
   ]
 }
