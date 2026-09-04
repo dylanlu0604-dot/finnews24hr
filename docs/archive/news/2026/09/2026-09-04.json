@@ -1,7 +1,34 @@
 {
   "date": "2026-09-04",
-  "count": 617,
+  "count": 620,
   "items": [
+    {
+      "id": "mkt:01a069d9-2c16-7118-8492-5d325af84586",
+      "time": "2026-09-04 08:37:15",
+      "tags": [
+        "MKT News",
+        "000001.SS",
+        "Impact bearish",
+        "000300.SS"
+      ],
+      "text": "【A-share turnover nears year-to-date low】Shanghai–Shenzhen combined turnover on Sept. 3 was 1.76 tln yuan, down from the prior session and close to the year-to-date low of 1.61 tln yuan recorded on April 7. The market has traded below its 20-day moving average (2.16 tln yuan) for 11 consecutive sessions."
+    },
+    {
+      "id": "5076471",
+      "time": "2026-09-04 08:35:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲3%。"
+    },
+    {
+      "id": "5076470",
+      "time": "2026-09-04 08:35:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京首個人形機器人資料訓練中心升級改造】記者從中關村石景山園管委會、區科委獲悉，該區機器人訓練中心一期正在實施技術能力提升改造，將在服貿會期間亮相。屆時，石景山區一、二、三期資料訓練中心將形成能力協同、體系貫通的融合發展態勢，實現從資料採集、模擬生成、模型訓練、本體驗證到應用落地的全鏈條閉環。（北京日報）"
+    },
     {
       "id": "te:markets:581073",
       "time": "2026-09-04 08:32:11",
