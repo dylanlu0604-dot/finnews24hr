@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-05 03:04:18",
-  "count": 14128,
+  "updated": "2026-09-05 03:08:15",
+  "count": 14132,
   "items": [
+    {
+      "id": "mkt:01a06dd1-6542-7118-84ad-5fa9707eb689",
+      "time": "2026-09-05 03:07:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US envoys will submit plan to Russia to end Russia-Ukraine conflict】On Sept 4, Trump said US envoys Witkoff and Kushner will submit to Russia a plan to end the Russia-Ukraine conflict. Earlier reports said the pair planned imminent visits to Russia and Ukraine."
+    },
+    {
+      "id": "mkt:01a06dcf-f0d5-7118-84ad-55b259a3af32",
+      "time": "2026-09-05 03:05:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump’s White House executive order signing ceremony has ended."
+    },
+    {
+      "id": "5078325",
+      "time": "2026-09-05 03:05:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部反壟斷司本週早些時候接到指示，暫停與加拿大政府的全部工作。"
+    },
+    {
+      "id": "5078324",
+      "time": "2026-09-05 03:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美特使將向俄羅斯提交結束俄烏衝突的方案】美國總統特朗普當地時間9月4日表示，美國特使威特科夫與庫什納將向俄羅斯提交結束俄烏衝突的方案。此前有訊息人士稱，威特科夫和庫什納計劃在近期訪問俄羅斯和烏克蘭。 (央視新聞)"
+    },
+    {
+      "id": "5078323",
+      "time": "2026-09-05 03:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束在橢圓形辦公室對記者的講話。"
+    },
+    {
+      "id": "5078322",
+      "time": "2026-09-05 03:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國司法部暫停與加拿大政府的合作。"
+    },
+    {
+      "id": "mkt:01a06dce-80c7-7118-84ad-48baaedfad98",
+      "time": "2026-09-05 03:04:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the U.S. Department of Justice Antitrust Division has suspended cooperation with the Canadian government."
+    },
+    {
+      "id": "5078321",
+      "time": "2026-09-05 03:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：誰在人工智慧領域取勝，誰就贏得未來。"
+    },
+    {
+      "id": "5078320",
+      "time": "2026-09-05 03:03:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及資料中心：不願看到機會被白白浪費。"
+    },
     {
       "id": "mkt:01a06dcc-e339-7118-84ad-435ef08e87ec",
       "time": "2026-09-05 03:02:19",
@@ -129415,50 +129489,6 @@
         "Impact bullish"
       ],
       "text": "Iranian President Pezeshkian said commitments include lifting fuel and petrochemical sanctions, unfreezing funds and resuming investment."
-    },
-    {
-      "id": "5065989",
-      "time": "2026-08-29 03:07:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：同時還包括資金解凍、恢復投資。"
-    },
-    {
-      "id": "5065988",
-      "time": "2026-08-29 03:07:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：相關承諾包括解除燃料及石化產品制裁。"
-    },
-    {
-      "id": "mkt:01a049c4-3522-7aab-9179-3a6597ac517d",
-      "time": "2026-08-29 03:06:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said the US must lift the blockade and sanctions, unfreeze Iranian funds, and force Israel to stop its aggression against Lebanon."
-    },
-    {
-      "id": "mkt:01a049c2-d192-7aab-9179-30c9155e40bd",
-      "time": "2026-08-29 03:04:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian President PEZESHKIAN said if four commitments are fulfilled, Iran will open waterways."
-    },
-    {
-      "id": "mkt:01a049c2-a820-7aab-9179-2e921767949c",
-      "time": "2026-08-29 03:04:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said an internal consensus has been reached on transit routes through the Strait of Hormuz."
     }
   ]
 }
