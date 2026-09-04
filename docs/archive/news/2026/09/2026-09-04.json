@@ -1,7 +1,116 @@
 {
   "date": "2026-09-04",
-  "count": 720,
+  "count": 730,
   "items": [
+    {
+      "id": "mkt:01a06a08-010b-7118-8493-66bcfb5877ec",
+      "time": "2026-09-04 09:28:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China stocks opened higher on Sept 4: China's Shanghai Composite up 0.34% at 3,955.55; Shenzhen Component up 0.74% at 13,725.65; CSI 300 up 0.50% at 4,575.32; ChiNext up 0.97% at 3,344.62; STAR 50 up 1.04% at 1,627.95."
+    },
+    {
+      "id": "5076537",
+      "time": "2026-09-04 09:28:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣板塊高開，翠微股份漲停】數字貨幣板塊高開，翠微股份漲停，楚天龍、四方精創、恆寶股份、艾融軟體、三未信安跟漲。"
+    },
+    {
+      "id": "mkt:01a06a07-9aac-7118-8493-5878ee81453e",
+      "time": "2026-09-04 09:27:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share AI application concept stocks rebounded; Cuiwei Co. hit the daily limit, Chutianlong rose over 8%, and Hanxin Technology, Luqiao Information, Airong Software, Zhongchuang Co. and LvMeng Technology also gained."
+    },
+    {
+      "id": "5076536",
+      "time": "2026-09-04 09:27:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股物理AI概念股走強 禾賽漲近7%】截至發稿，禾賽-W(02525.HK)漲6.95%，黑芝麻智慧(02533.HK)漲4%，迅策(03317.HK)漲3.37%，博泰車聯(02889.HK)漲2.31%。"
+    },
+    {
+      "id": "mkt:01a06a06-6c12-7118-8493-57b9bbf0bf82",
+      "time": "2026-09-04 09:26:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【New listing N Huahui surges 97%】Newly listed N Huahui rose about 97% on debut. Public filings show the company's nano sand-mill products have obtained European CE certification and that it has cooperative relationships with lithium-battery materials firms Hunan Yunneng, Wanrun New Energy, BTR and BYD, as well as major central SOEs including CNOOC."
+    },
+    {
+      "id": "5076535",
+      "time": "2026-09-04 09:26:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智慧駕駛概念集體高開 大眾交通2連板】智慧駕駛概念集體高開，大眾交通2連板，索菱股份漲停價開盤，金龍汽車、錦江線上、宜通世紀高開。"
+    },
+    {
+      "id": "5076534",
+      "time": "2026-09-04 09:26:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新股N華匯漲超97%】新股N華匯漲超97%；公開資料顯示，公司奈米砂磨機產品已取得歐洲CE認證；公司與湖南裕能、萬潤新能、貝特瑞、比亞迪、中海油等知名鋰電池材料企業和國內大型央企建立良好的合作關係。"
+    },
+    {
+      "id": "5076533",
+      "time": "2026-09-04 09:25:55",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.34％，深成指漲0.74％，創業板漲0.97％。"
+    },
+    {
+      "id": "mkt:01a06a05-6e53-7118-8493-4c242f036112",
+      "time": "2026-09-04 09:25:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share market opened higher: Shanghai Composite up 0.34%, Shenzhen Composite Index up 0.74%, ChiNext up 0.97%. Leading sectors: tourism and hotels, retail, precious metals."
+    },
+    {
+      "id": "te:economy:581086",
+      "time": "2026-09-04 09:25:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Vietnam Retail Sales Growth Accelerates in August — Retail sales in Vietnam rose by 14.9% year-on-year in August 2026, accelerating from a 14.5% increase in July and marking the strongest growth since January 2023. Retail sales of goods, which accounted for around three-quarters of total activity, grew 12.8% year-on-year in the first eight months, while accommodation and catering revenue climbed 16.4% and travel services jumped 17.1%. Sales of gems, precious metals and related products recorded the fastest growth among major retail categories, rising 28.1% over the same period, while sales of other goods and wood and construction materials also posted strong gains. Automobile sales were a notable exception, declining both month-on-month and year-on-year in August. On a monthly basis, total retail sales of goods and consumer services increased 1.6%. Overall, total retail sales reached VND5,235.5 trillion in the first eight months, up 13.3% year-on-year, while growth excluding price effects stood at 7.6%."
+    },
     {
       "id": "mkt:01a06a04-905e-7118-8493-425c6ec02d6e",
       "time": "2026-09-04 09:24:38",
