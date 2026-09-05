@@ -1,7 +1,20 @@
 {
   "date": "2026-09-05",
-  "count": 776,
+  "count": 777,
   "items": [
+    {
+      "id": "mkt:01a070d8-f5a9-7118-84b1-bfd416fbc0e0",
+      "time": "2026-09-05 17:14:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian steel producer Metinvest said a Russian ballistic missile strike on a steel mill in Ukraine's Dnipro region killed five people and suspended production."
+    },
     {
       "id": "5078650",
       "time": "2026-09-05 17:11:27",

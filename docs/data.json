@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-05 17:12:59",
-  "count": 14158,
+  "updated": "2026-09-05 17:16:52",
+  "count": 14157,
   "items": [
+    {
+      "id": "mkt:01a070d8-f5a9-7118-84b1-bfd416fbc0e0",
+      "time": "2026-09-05 17:14:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian steel producer Metinvest said a Russian ballistic missile strike on a steel mill in Ukraine's Dnipro region killed five people and suspended production."
+    },
     {
       "id": "5078650",
       "time": "2026-09-05 17:11:27",
@@ -129678,24 +129691,6 @@
         "國際"
       ],
       "text": "埃及米斯爾銀行（BANQUE MISR）在遭到美國製裁後發表宣告稱，重申完全遵守相關監管與法律框架，其阿聯酋分行將繼續向客戶提供銀行服務。該行正以最嚴肅認真的態度對待美國擬議規則制定通知，並對其進行全面審查。"
-    },
-    {
-      "id": "5066297",
-      "time": "2026-08-29 17:16:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭麗文向西藏災區捐款200萬新臺幣】據香港中評社報道，中國國民黨主席鄭麗文28日晚在社交媒體發文表示，她以個人名義捐贈新臺幣200萬元給西藏災區，希望略盡綿薄之力，衷心祈願災區搶救工作順利，讓受災同胞早日走過傷痛、重建家園。報道引述鄭麗文在社交媒體發文表示，此次的嚴重天災，造成重大傷亡，她深感不捨，謹代表中國國民黨向罹難者表達最深切的哀悼，向受災民眾及家屬致上最誠摯的關懷與慰問。（中新網）"
-    },
-    {
-      "id": "mkt:01a04ccd-0686-7aab-917d-960924d4c046",
-      "time": "2026-08-29 17:14:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "A deputy head of branch and corporate banking at the Export Development Bank of Iran said the bank will provide support to clients affected by the war; loan disbursements targeting support for SMEs and knowledge‑based firms have reached 180% of target."
     }
   ]
 }
