@@ -1,7 +1,47 @@
 {
   "date": "2026-09-06",
-  "count": 42,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:01a072a1-5581-7118-84b3-7deddc8fa404",
+      "time": "2026-09-06 01:32:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported an Iranian military commander warned that if Washington continues to enforce a maritime blockade, Iran will intensify strikes on US naval vessels in the region."
+    },
+    {
+      "id": "5078899",
+      "time": "2026-09-06 01:32:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府擬向居家照料子女的父母發放育兒補助。"
+    },
+    {
+      "id": "5078898",
+      "time": "2026-09-06 01:31:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗軍方指揮官警告稱，如果華盛頓繼續實施海上封鎖，伊朗將加大對該地區美國軍艦的打擊力度。"
+    },
+    {
+      "id": "mkt:01a0729f-de7b-7118-84b3-776966fd6444",
+      "time": "2026-09-06 01:31:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "GASSCO said the Åsgard gas field had an unplanned shutdown on Sept 5-6, cutting output by about 6.7 mln cubic metres per day."
+    },
     {
       "id": "mkt:01a0729e-8cb0-7118-84b3-6e3ed2582081",
       "time": "2026-09-06 01:29:48",
