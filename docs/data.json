@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-06 00:18:44",
-  "count": 14174,
+  "updated": "2026-09-06 00:22:46",
+  "count": 14175,
   "items": [
+    {
+      "id": "5078875",
+      "time": "2026-09-06 00:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外交部長：聲稱這樣規模的一座島嶼會對頭號核大國構成威脅，怎麼看都談不上嚴肅。古巴現在不是，也不可能成為美國國家安全或美國經濟的威脅。古巴不是敵人，也無意成為敵人。美國政府迫切需要為其針對我國民眾實施的惡劣政策尋找藉口。"
+    },
+    {
+      "id": "mkt:01a0725d-d379-7118-84b3-05645d281a02",
+      "time": "2026-09-06 00:19:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Russia says it struck freighter carrying Western-supplied military materiel to Ukraine】Sept. 5 — Russia's defence ministry said its forces struck a dry-cargo freighter at the port of Chernomorsk in Odesa region carrying Western-supplied military-technical materiel to Ukrainian armed forces. It also said strikes hit a Boryspil facility in Kyiv region that produces ammunition and explosives for Ukraine's security forces."
+    },
+    {
+      "id": "5078874",
+      "time": "2026-09-06 00:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱擊中一艘載有西方國家向烏提供軍事物資的乾貨船】9月5日，俄羅斯國防部通報稱，俄軍在敖德薩州切爾諾莫爾斯克港擊中一艘乾貨船，船上載有西方國家向烏克蘭武裝部隊提供的軍事技術物資。此外，俄軍還打擊了基輔州鮑里斯波爾的一家為烏克蘭強力部門生產彈藥和爆炸物的企業。（央視新聞）"
+    },
     {
       "id": "5078873",
       "time": "2026-09-06 00:12:10",
@@ -129777,25 +129805,6 @@
         "AI Revolution"
       ],
       "text": "【Sony and Warner sue Anthropic, accuse it of brazen IP theft】Sony Music and Warner Music subsidiaries filed suit against Anthropic in the US District Court for the Northern District of California on Friday evening, accusing the AI firm of \"one of the largest and most brazen intellectual property thefts in history,\" Axios reports. The complaint names Anthropic, CEO Dario Amodei and a co-founder as defendants."
-    },
-    {
-      "id": "5066502",
-      "time": "2026-08-30 00:20:43",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【索尼、華納起訴Anthropic，指控其公然竊取智慧財產權】幾家全球大型音樂出版商週五晚間提起重磅訴訟，稱該案是“史上規模最大、性質最為惡劣的持續性智慧財產權盜竊行為之一”。本次訴訟拉開序幕，一場圍繞音樂、人工智慧以及新技術時代智慧財產權保護的較量或將持續數年。原告訴狀（共48頁）寫道：“被告Anthropic及其創始人達里奧·阿莫代伊、本傑明·曼大規模非法透過種子下載、網頁爬取、下載受版權保護作品，以此開發、運營Anthropic的Claude系列人工智慧模型，並藉此攫取鉅額利潤。”原告還指控Anthropic盜版數千首受版權保護音樂作品，要求就每一項侵權作品索賠數十萬美元。這並非Anthropic首次被指控盜用內容訓練模型。2025年9月，該公司達成美國歷史上金額最高的版權和解，向作者與出版商支付15億美元。"
-    },
-    {
-      "id": "5066501",
-      "time": "2026-08-30 00:19:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "音樂出版商起訴Anthropic，指控其公然盜用受版權保護的音樂作品。"
     }
   ]
 }
