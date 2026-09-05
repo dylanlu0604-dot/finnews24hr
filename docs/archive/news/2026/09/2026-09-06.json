@@ -1,7 +1,23 @@
 {
   "date": "2026-09-06",
-  "count": 156,
+  "count": 158,
   "items": [
+    {
+      "id": "5078959",
+      "time": "2026-09-06 06:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認伊斯法罕核設施遭到襲擊】據伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊公共關係部門5日發表宣告，否認伊斯法罕核技術中心及核設施遭到襲擊，稱相關訊息純屬虛構。宣告說，在當前敏感局勢下散佈此類內容，是敵對勢力企圖製造緊張氣氛、擾亂輿論並引發民眾恐慌的行徑。（新華社）"
+    },
+    {
+      "id": "mkt:01a07396-01d8-7118-84b5-1c63701d6415",
+      "time": "2026-09-06 06:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies attack on Isfahan nuclear facilities】Iran’s Islamic Revolutionary Guard Corps public relations department said on the 5th it denied reports that the Isfahan Nuclear Technology Center and related nuclear facilities were attacked, calling the accounts fabricated and accusing hostile forces of trying to stoke tensions, disrupt public opinion and provoke public panic."
+    },
     {
       "id": "5078958",
       "time": "2026-09-06 05:50:44",
