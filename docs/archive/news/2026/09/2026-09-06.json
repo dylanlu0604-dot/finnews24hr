@@ -1,7 +1,132 @@
 {
   "date": "2026-09-06",
-  "count": 133,
+  "count": 148,
   "items": [
+    {
+      "id": "mkt:01a0737a-50fd-7118-84b4-fc7cfda9a196",
+      "time": "2026-09-06 05:29:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USHAKOV said Putin's meeting with Trump's special envoy was substantive, very frank and constructive."
+    },
+    {
+      "id": "mkt:01a07379-bb48-7118-84b4-f20562f2b58d",
+      "time": "2026-09-06 05:29:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USHAKOV said a series of plans have been drawn up for a peaceful settlement."
+    },
+    {
+      "id": "mkt:01a07379-7421-7118-84b4-ed924ad81d3e",
+      "time": "2026-09-06 05:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ushakov says US officials pledged to bring Putin’s assessment to talks in Kyiv as part of efforts to seek a lasting agreement to end the war."
+    },
+    {
+      "id": "mkt:01a07378-df3e-7118-84b4-e0612a8fa96f",
+      "time": "2026-09-06 05:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ushakov said both sides agreed that President Putin and President Trump will remain in contact."
+    },
+    {
+      "id": "mkt:01a07378-b5c7-7118-84b4-de31d34102c6",
+      "time": "2026-09-06 05:28:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian presidential aide USHAKOV said economic issues were also discussed."
+    },
+    {
+      "id": "mkt:01a07378-a2f0-7118-84b4-d070398636f7",
+      "time": "2026-09-06 05:28:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USHAKOV said Putin told Trump's envoy that Russia will achieve its goals and that the conflict's root causes need to be addressed."
+    },
+    {
+      "id": "mkt:01a07378-6b02-7118-84b4-cc4717503f79",
+      "time": "2026-09-06 05:27:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Ushakov said talks were productive."
+    },
+    {
+      "id": "5078953",
+      "time": "2026-09-06 05:27:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京已告知特朗普特使，俄羅斯將實現其目標，衝突根源必須得到解決。"
+    },
+    {
+      "id": "5078952",
+      "time": "2026-09-06 05:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：俄羅斯已提交其對前線局勢的評估。"
+    },
+    {
+      "id": "5078951",
+      "time": "2026-09-06 05:26:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京與特朗普特使的會談內容充實、十分坦誠且富有建設性。"
+    },
+    {
+      "id": "5078950",
+      "time": "2026-09-06 05:26:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：已就和平解決制定了一系列方案。"
+    },
+    {
+      "id": "5078949",
+      "time": "2026-09-06 05:26:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：談判取得了積極成效。"
+    },
+    {
+      "id": "5078948",
+      "time": "2026-09-06 05:26:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：我們還討論了經濟議題。"
+    },
+    {
+      "id": "5078947",
+      "time": "2026-09-06 05:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：雙方已達成一致，普京與特朗普將保持聯絡。"
+    },
+    {
+      "id": "5078946",
+      "time": "2026-09-06 05:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：美方已承諾將普京的評估意見帶到他們在基輔的會談中，以尋求達成結束戰爭的長期協議。"
+    },
     {
       "id": "5078945",
       "time": "2026-09-06 05:22:54",
