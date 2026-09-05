@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-05 17:24:35",
-  "count": 14156,
+  "updated": "2026-09-05 17:28:24",
+  "count": 14155,
   "items": [
+    {
+      "id": "mkt:01a070e3-c258-7118-84b1-cc03bc149d14",
+      "time": "2026-09-05 17:26:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huagong Technology: Huagong Zhengyuan 100G SFP112 optical module to debut at CIOE 2026】Huagong Technology said subsidiary Huagong Zhengyuan will demo a 100G SFP112 optical module at CIOE 2026. The module is aimed at 5G-A/6G wireless fronthaul and high‑bandwidth Ethernet data interconnects and is billed as the world’s smallest 100G package. SFP112 is compatible with the SFP+ MSA standard. Huagong said the SFP112 lets operators deploy more 100G ports in the same panel footprint versus QSFP28, with lower power and cost and materially higher port density and aggregate bandwidth."
+    },
     {
       "id": "mkt:01a070dc-5f27-7118-84b1-c0b6249cebd5",
       "time": "2026-09-05 17:18:05",
@@ -129671,22 +129681,6 @@
         "公司"
       ],
       "text": "【大港油田儲氣庫群週期注氣量突破20億立方米 再創歷史新高】從大港油田天津儲氣庫分公司獲悉，截至目前，大港油田儲氣庫群本輪注氣週期累計注氣量已超過20億立方米，完成整體注氣計劃的90%，較去年同期增長8%，週期注氣量再度重新整理歷史紀錄，為京津冀地區冬季天然氣保供蓄足“底氣”。"
-    },
-    {
-      "id": "5066301",
-      "time": "2026-08-29 17:25:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐尼日使館提醒中國公民和企業加強安全防範】據尼日當地媒體報道，8月29日凌晨，尼日首都尼亞美機場、市中心等多地遭遇襲擊。中國駐尼日使館再次提醒中國公民和在尼僑胞密切關注安全形勢，提高安全警惕，加強安防意識，提升安保措施，做好應急儲備，減少非必要外出，在公共場所切勿過多停留，避免夜間出行和單獨行動，遠離危險敏感區域。中資企業應切實加強安全措施，做好應急預案，在確保安全前提下開展工作，堅決杜絕戶外高風險作業，確保員工人身安全和企業財產安全。"
-    },
-    {
-      "id": "5066300",
-      "time": "2026-08-29 17:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列空襲約旦河西岸傑寧市致三人死亡】巴勒斯坦約旦河西岸傑寧市民政局28日說，以色列軍方當天空襲該市一處房屋，造成至少三名巴勒斯坦人死亡。"
     }
   ]
 }
