@@ -1,7 +1,20 @@
 {
   "date": "2026-09-06",
-  "count": 62,
+  "count": 63,
   "items": [
+    {
+      "id": "mkt:01a072af-fb44-7118-84b3-bb4b16c348b2",
+      "time": "2026-09-06 01:48:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Putin said he has ordered a pause in strikes on Kyiv for the next three days, saying Ukraine has sharply reduced attacks on Russian territory and that Moscow has not struck Kyiv since midnight."
+    },
     {
       "id": "5078908",
       "time": "2026-09-06 01:43:11",

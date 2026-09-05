@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-06 01:46:09",
-  "count": 14202,
+  "updated": "2026-09-06 01:50:01",
+  "count": 14201,
   "items": [
+    {
+      "id": "mkt:01a072af-fb44-7118-84b3-bb4b16c348b2",
+      "time": "2026-09-06 01:48:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Putin said he has ordered a pause in strikes on Kyiv for the next three days, saying Ukraine has sharply reduced attacks on Russian territory and that Moscow has not struck Kyiv since midnight."
+    },
     {
       "id": "5078908",
       "time": "2026-09-06 01:43:11",
@@ -130018,22 +130031,6 @@
         "其他"
       ],
       "text": "【尼日首都國際機場恢復正常運營】當地時間8月29日下午，尼日國家民航局釋出通告稱，位於首都尼亞美的迪奧裡·哈馬尼國際機場的航空運營已全面恢復正常。當地時間29日凌晨，尼亞美多地傳出密集槍聲和爆炸聲，地點包括迪奧裡·哈馬尼國際機場周邊以及總統府附近。尼日國防部29日晚些時候釋出公報說，首都尼亞美101號軍事基地一些士兵當天企圖發動兵變，目前局勢已得到控制。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04ea3-38f4-7118-83fa-f657acc6f483",
-      "time": "2026-08-30 01:48:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported Israeli settlers attacked Palestinians and damaged property in the West Bank towns of Burqa and Arraba."
-    },
-    {
-      "id": "mkt:01a04ea2-bc1e-7118-83fa-ea3c0f99d2d9",
-      "time": "2026-08-30 01:48:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli settlers attack Palestinians in Qusra as they install protective mesh; IDF fires tear gas, detains residents】In Qusra, six Palestinians installing metal protective mesh on a fourth house under construction were attacked by Israeli settlers after earlier settler incidents, including stone-throwing and incendiary attacks. The Israeli military arrived, fired tear gas into the house — wounding the homeowner — did not remove the settlers and arrested the six Palestinians; they were later released. Prime Minister NETANYAHU described the assailants as \"a small group of troublemakers,\" saying they had impeded IDF operations and damaged Israel's international standing."
     }
   ]
 }
