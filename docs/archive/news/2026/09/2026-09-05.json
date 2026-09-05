@@ -1,7 +1,31 @@
 {
   "date": "2026-09-05",
-  "count": 668,
+  "count": 671,
   "items": [
+    {
+      "id": "mkt:01a0700b-042a-7118-84b0-8faa0d9ac4ff",
+      "time": "2026-09-05 13:29:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine Vice President Sara Duterte posts bail; court lifts arrest warrant】Vice President Sara Duterte posted bail on Sept 5 and, after completion of procedures, the court lifted the previously issued arrest warrant, her lawyer confirmed."
+    },
+    {
+      "id": "5078576",
+      "time": "2026-09-05 13:28:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獨家 | 泡泡瑪特王寧到訪LVMH集團總部 贈送週年限量款Labubu】新浪科技獨家獲悉，近日，泡泡瑪特創始人王寧和LVMH集團主席兼CEO Bernard Arnault（貝爾納·阿爾諾）在法國巴黎LVMH集團總部會面，這也是二人首次會面，王寧還現場贈送阿爾諾一隻Labubu。據悉，王寧現場贈送阿爾諾的是Mega Labubu十週年紀念款，屬於全球限定發售款式。（新浪科技）"
+    },
+    {
+      "id": "5078575",
+      "time": "2026-09-05 13:27:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓副總統莎拉繳納保釋金 法院解除逮捕令】據菲律賓方面訊息，9月5日，菲律賓副總統莎拉·杜特爾特的律師證實，莎拉當天到法院繳納保釋金。在完成相關的保釋手續之後，法院解除了此前簽發的逮捕令。菲司法部以及副總統莎拉·杜特爾特的律師4日證實，當地法院已對莎拉·杜特爾特下達逮捕令。（央視新聞）"
+    },
     {
       "id": "5078574",
       "time": "2026-09-05 13:26:23",
