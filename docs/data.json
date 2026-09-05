@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-05 23:55:32",
-  "count": 14171,
+  "updated": "2026-09-05 23:59:38",
+  "count": 14170,
   "items": [
+    {
+      "id": "5078871",
+      "time": "2026-09-05 23:56:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打擊黎南部真主黨人員和設施】以色列國防軍5日發表宣告說，以軍4日晚對黎巴嫩南部的真主黨人員及相關基礎設施發動襲擊，以回應真主黨當天早些時候的無人機襲擊。（新華社）"
+    },
     {
       "id": "5078870",
       "time": "2026-09-05 23:36:00",
@@ -129752,23 +129760,6 @@
         "焦點"
       ],
       "text": "音樂出版商起訴Anthropic，指控其公然盜用受版權保護的音樂作品。"
-    },
-    {
-      "id": "mkt:01a04e3e-f70d-7aab-917f-4d5fcdea5831",
-      "time": "2026-08-29 23:59:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude-4.8 earthquake offshore eastern Chiba, Japan】Japan Meteorological Agency reported a magnitude-4.8 earthquake offshore eastern Chiba at about 00:17 local time on Aug. 30; focal depth approximately 30 km. Tremors were felt in Ibaraki prefecture and Tokyo."
-    },
-    {
-      "id": "5066500",
-      "time": "2026-08-29 23:57:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【嘉能可針對Radiant World相關風險敞口計提4.8億美元準備金】嘉能可集團針對其對鐵礦石貿易商Radiant World的風險敞口計提約4.8億美元準備金。Radiant World正深陷困境，外界質疑其向銀行提供偽造檔案。這筆準備金基本覆蓋嘉能可對Radiant World全部未結清淨風險敞口。"
     }
   ]
 }
