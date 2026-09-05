@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-05 23:59:38",
-  "count": 14170,
+  "updated": "2026-09-06 00:04:21",
+  "count": 14173,
   "items": [
+    {
+      "id": "mkt:01a0724e-1486-7118-84b2-f81d3aa64c83",
+      "time": "2026-09-06 00:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media reported a traffic accident in western Iran in which a fuel tanker exploded, killing 10."
+    },
+    {
+      "id": "mkt:01a0724d-8794-7118-84b2-f35b38d779e3",
+      "time": "2026-09-06 00:01:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IDF says it struck Hezbollah personnel and infrastructure in southern Lebanon】The Israeli Defense Forces (IDF) said on the 5th that on the evening of the 4th it struck Hezbollah personnel and related infrastructure in southern Lebanon in response to a Hezbollah drone attack earlier that day."
+    },
+    {
+      "id": "5078872",
+      "time": "2026-09-06 00:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗西部發生交通事故，油罐車爆炸致10人死亡。"
+    },
     {
       "id": "5078871",
       "time": "2026-09-05 23:56:16",
