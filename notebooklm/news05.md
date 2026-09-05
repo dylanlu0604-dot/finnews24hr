@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-06 04:20:26_
-_本檔包含 2651 則快訊，約 557083 字_
+_更新時間：2026-09-06 06:13:05_
+_本檔包含 2681 則快訊，約 557191 字_
+
+---
+
+### 2026-09-01 02:33:34  #國際
+
+航運追蹤機構TankerTrackers資料：過去28天，阿拉伯國家原油每日有692萬桶經由美國海軍封鎖線外運。其中，253萬桶/日來自阿曼灣沿岸石油終端；另外439萬桶/日經霍爾木茲海峽運出，主要轉運給在阿曼灣等候的其他油輪。
+
+---
+
+### 2026-09-01 02:32:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
+
+【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 1.88% to 960 yuan/gram; SHFE silver most-active contract fell 2.74% to 16,212 yuan/kg; SC crude oil most-active contract rose 3.06% to 637 yuan/barrel.
+
+---
+
+### 2026-09-01 02:32:28  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D closed the Aug 31 (Mon) evening session down 1.16% at 957.7 yuan/gram; silver T+D closed down 1.78% at 16,150 yuan/kg.
+
+---
+
+### 2026-09-01 02:30:51  #市場 #國際
+
+美國原油期貨收於每桶85.76美元，上漲2.36美元，漲幅2.83%。
+
+---
+
+### 2026-09-01 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Increases by 2.21% — Top crypto gainers are Ether (2.21%), XRP (1.74%) and Bitcoin (1.55%).
+
+---
+
+### 2026-09-01 02:30:03  #市場
+
+上期所原油期貨夜盤收漲3.06%，報637.20元人民幣/桶。滬金夜盤收跌1.88%，滬銀收跌2.74%。
+
+---
+
+### 2026-09-01 02:29:33  #國際
+
+伊朗外長阿拉格齊在吉爾吉斯斯坦舉行的上合峰會首日會後表示，全部會晤與會談“務實高效，擺脫了常規的繁文縟節”，各方探討了經濟及其他領域可開展合作的議題與方向。
+
+---
+
+### 2026-09-01 02:27:31  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Court records show more than 20 U.S. states have joined the Federal Trade Commission's lawsuit against Amazon (AMZN.O).
+
+---
+
+### 2026-09-01 02:26:40  #公司 #焦點 #國際
+
+法庭檔案顯示，美國已有超過20個州加入了美國聯邦貿易委員會針對亞馬遜公司的訴訟。
+
+---
+
+### 2026-09-01 02:26:29  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Court records show the U.S. Federal Trade Commission filed suit against Amazon (AMZN.O).
+
+---
+
+### 2026-09-01 02:25:45  #公司 #焦點 #國際
+
+法庭檔案顯示，美國聯邦貿易委員會起訴亞馬遜公司。
+
+---
+
+### 2026-09-01 02:25:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cotton Gains by 2.03% — Top commodity gainers are Cotton (2.03%), Cocoa (1.81%) and Sugar (1.31%). Biggest losers are Oat (-1.97%) and Canola (-1.34%).
+
+---
+
+### 2026-09-01 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 3.59% — Top commodity gainers are Lithium Carbonate (3.59%) and Silicon (0.86%). Biggest losers are Platinum (-3.36%), Titanium (-2.25%), Steel Rebar (-0.67%) and Gold (-0.47%).
+
+---
+
+### 2026-09-01 02:18:51  #國際
+
+美國醫療保險和醫療補助服務中心（CMS）：將為阿肯色州農村醫院提供資金，用於升級救護車、拓展遠端醫療服務並安裝應急發電機
+
+---
+
+### 2026-09-01 02:17:38  #MKT News
+
+【Birame Diop sworn in as ECOWAS Commission chair】Former Senegal defence minister Birame Diop was sworn in as chair of the Economic Community of West African States (ECOWAS) Commission in Abuja on Aug. 31 (local time).
+
+---
+
+### 2026-09-01 02:17:30  #市場 #焦點
+
+比特幣升破79000美元，日內漲1.77%。
+
+---
+
+### 2026-09-01 02:17:12  #國際
+
+特朗普政府宣佈撥款1.493億美元，用於在阿肯色州農村地區擴充套件遠端醫療，並增加專科護理和預防性篩查的可及性。
+
+---
+
+### 2026-09-01 02:16:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fars News reported Iran's transport minister said several pilots were attacked while conducting medicine-transport missions during the war.
+
+---
+
+### 2026-09-01 02:16:03  #其他
+
+【比拉梅·迪奧普就任新一屆西共體委員會主席】當地時間8月31日，塞內加爾武裝力量部前部長比拉梅·迪奧普在奈及利亞首都阿布賈宣誓就任新一屆西非國家經濟共同體（西共體）委員會主席。
+
+---
+
+### 2026-09-01 02:15:09  #國際
+
+美國交通部長達菲：特朗普政府即將宣佈大幅降低車輛燃油經濟性標準的訊息。
+
+---
+
+### 2026-09-01 02:15:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Rallies by 7.49% — Top commodity gainers are Methanol (7.49%), Natural Gas EU (4.95%), Propane (4.53%), Crude Oil WTI (2.65%) and Brent Crude Oil (2.59%).
+
+---
+
+### 2026-09-01 02:14:35  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+U.S. Transportation Secretary Duffy said the Trump administration will soon announce a substantial rollback of U.S. vehicle fuel-economy standards.
+
+---
+
+### 2026-09-01 02:09:38  #國際
+
+日本爭取SK海力士赴日建廠的計劃遭遇韓國政策層面阻礙。
+
+---
+
+### 2026-09-01 02:09:10  #MKT News #Market Themes #Chip Wars #Market Regions #Japan & APAC #SKHY.O #Impact mixed
+
+Nikkei reports Japan’s Miyagi prefecture is courting SK Hynix (SKHY.O) to build an advanced memory chip fab locally, but faces U.S. competition for the investment and South Korean concerns over technology leakage.
+
+---
+
+### 2026-09-01 02:08:36  #國際
+
+【美大峽谷國家公園山洪已致兩人死亡 超14人失聯】美國國家公園管理局8月31日證實，位於亞利桑那州的大峽谷國家公園8月29日突發山洪，已造成至少兩人死亡。目前仍有至少14人被該局列為可能失聯或下落不明人員。
+
+---
+
+### 2026-09-01 02:07:38  #公司 #國際
+
+【美國聯邦貿易委員會擬提起訴訟，指控亞馬遜欺騙廣告主】美國聯邦貿易委員會計劃於週一對亞馬遜提起訴訟，指控這家電商巨頭操縱商家在其零售平臺投放廣告的付費價格，七年間藉此獲取數百億美元收益。本次訴訟由20多個州跨黨派總檢察長聯合參與，將在西雅圖聯邦法院立案。聯邦貿易委員會官員稱，訴狀指控亞馬遜隱瞞廣告最低出價的調整行為，以此欺騙廣告投放商。這是該消費者保護監管機構針對亞馬遜發起的第三起重大案件。
+
+---
+
+### 2026-09-01 02:06:24  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
+
+Axios reports Trump is considering limited strikes on Iran to deter attacks in the Strait of Hormuz.
+
+---
+
+### 2026-09-01 02:05:45  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+【FTC plans suit accusing Amazon of manipulating ad prices, extracting tens of billions over seven years】The US Federal Trade Commission plans to file suit on Monday accusing Amazon of secretly manipulating ad-auction pricing since 2018 and deceiving advertisers, extracting tens of billions of dollars over seven years. The complaint, joined by more than 20 state attorneys general, will be filed in federal court in Seattle. FTC alleges Amazon changed its auction strategy by entering a hidden “soft floor” minimum above the second-highest bid, driving up advertiser payments; advertisers reportedly suffered billions in losses and states may seek recovery. Amazon operates the world’s third-largest digital ad platform; ad revenue was $68bn in 2025. This is the FTC’s third major case against Amazon — the company paid $2.5bn to settle a Prime-related suit last year and faces a separate antitrust trial next year.
+
+---
+
+### 2026-09-01 02:04:42  #其他
+
+The Trade Desk（TTD）股價漲幅迅速擴大至4%。
+
+---
+
+### 2026-09-01 02:04:18  #焦點 #國際
+
+特朗普正在考慮對伊朗進行有限打擊。
+
+---
+
+### 2026-09-01 02:03:42  #MKT News
+
+US Navy said the nuclear-powered submarine USS North Dakota completed maintenance and upgrades and rejoined the fleet ahead of schedule on Aug. 29, returning to operational status.
+
+---
+
+### 2026-09-01 02:03:31  #國際
+
+伊朗外長：美國必須迴歸諒解備忘錄，方能擺脫當前局勢。
+
+---
+
+### 2026-09-01 02:03:30  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) slid more than 3% to an intraday low.
+
+---
+
+### 2026-09-01 02:03:24  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Wall Street Journal reports U.S. Federal Trade Commission officials said they plan to file suit against Amazon (AMZN.O) on Monday.
+
+---
+
+### 2026-09-01 02:02:41  #公司 #焦點 #國際
+
+美國聯邦貿易委員會及二十餘州將指控亞馬遜透過操縱其零售平臺上的廣告價格謀取數十億美元收益。
+
+---
+
+### 2026-09-01 02:02:08  #公司 #市場 #焦點
+
+亞馬遜迅速擴大跌幅，下跌3.5%，創盤中新低。
+
+---
+
+### 2026-09-01 02:01:53  #國際
+
+美國聯邦貿易委員會將聯合20個州總檢察長共同提起該訴訟。
+
+---
+
+### 2026-09-01 02:01:27  #公司 #國際
+
+美國聯邦貿易委員會將於週一起訴亞馬遜。
+
+---
+
+### 2026-09-01 02:00:35  #公司 #焦點 #國際
+
+美國聯邦貿易委員會（FTC）擬提起訴訟，指控亞馬遜欺騙廣告投放商。
+
+---
+
+### 2026-09-01 01:59:10  #MKT News
+
+Poland said it intercepted a Russian reconnaissance aircraft in the Baltic Sea, Saudi broadcaster Al Arabiya reported.
+
+---
+
+### 2026-09-01 01:58:04  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Axios reports US President Trump asked Apple (AAPL.O) to rename Lake Ontario on its maps to "Lake America".
+
+---
+
+### 2026-09-01 01:57:23  #公司 #國際
+
+俄羅斯財長重返二十國集團（G20）會議，引發歐洲方面抗議。
+
+---
+
+### 2026-09-01 01:55:07  #國際
+
+海灣合作委員會（海合會）譴責伊朗對約旦發動襲擊，稱此類行動如若持續，將對地區安全與穩定構成直接威脅。
+
+---
+
+### 2026-09-01 01:54:28  #公司 #國際
+
+雪佛龍、印度石油天然氣公司、埃尼、通用電氣沃諾瓦以及Geopark公司正接近與委內瑞拉敲定最終能源協議。依據該國修訂後的油氣法，這些交易有望擴大石油產量、出口規模，並落地各類新能源專案。
+
+---
+
+### 2026-09-01 01:52:13  #國際
+
+美國國家颶風中心（NHC）表示，熱帶低壓已在墨西哥灣北部生成，德克薩斯州上部及路易斯安那州西南部部分海岸已生效熱帶風暴預警。
+
+---
+
+### 2026-09-01 01:50:55  #MKT News
+
+The Office of Iran's Supreme Leader said Iran will pardon, reduce sentences for, or re-sentence 2,577 convicts.
+
+---
+
+### 2026-09-01 01:48:54  #其他
+
+【東南歐國家代表開啟中國之行】第三屆東南歐9國（前）政要、青年領袖中國鄉村行活動31日在北京拉開帷幕。當天，20多名外賓深入走訪北京多地，感受鄉村振興的強勁動能及新興產業的蓬勃發展態勢。（新華社）
+
+---
+
+### 2026-09-01 01:48:33  #其他
+
+巴西大法官託福利暫停總統預選候選人雷南·桑托斯競選廣告投放。
+
+---
+
+### 2026-09-01 01:47:19  #MKT News
+
+Kyiv mayor said debris from a drone fell by the roadside in the Holosiivskyi district; emergency services have been dispatched to the scene.
+
+---
+
+### 2026-09-01 01:42:07  #MKT News
+
+Photos released by the Israeli Prime Minister's Office show Prime Minister Netanyahu meeting Mossad director Roman Gofman at Mossad headquarters.
+
+---
+
+### 2026-09-01 01:40:13  #國際
+
+伊朗武裝部隊總參謀部與哈塔姆‑安比亞中央總部：儘管部分地區國家作出保證，但美國仍利用其領土與領空對伊朗實施打擊，無視此前發出的警告。
+
+---
+
+### 2026-09-01 01:40:07  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Nikkei reports Japan is seeking to host the Secretariat of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).
+
+---
+
+### 2026-09-01 01:37:37  #MKT News #Market Themes #AI Revolution
+
+Nscale completed approximately $3 bln of financing for AI deployment projects in Ward and Madison counties, Texas.
+
+---
+
+### 2026-09-01 01:37:13  #公司 #國際
+
+隨著美國國家航空航天局南希·格蕾絲·羅曼空間望遠鏡發射升空，泰雷茲公司已實現太空在軌科學成像感測器數量突破1000臺。
+
+---
+
+### 2026-09-01 01:36:25  #其他
+
+Nscale：北卡羅來納州麥迪遜縣專案獲得最高12億美元貸款授信額度。
+
+---
+
+### 2026-09-01 01:36:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's armed forces warned they will deliver 'far beyond proportionate' retaliation against any attack launched using regional states' territory, airspace or waters. They said the US military has no choice but to withdraw from the region.
 
 ---
 
@@ -15900,161 +16236,5 @@ Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) relea
 ### 2026-08-30 06:15:04  #MKT News #Market Themes #The Trump Trade
 
 Finland's President Alexander Stubb said whether you like it or not, Trump is one of the most influential presidents in U.S. history; he will take action and is capable of delivering results.
-
----
-
-### 2026-08-30 06:10:37  #MKT News #DXY #Impact mixed #XAUUSD #WTI
-
-【Finnish president says Russia unlikely to attack NATO】Finnish President Alexander Stubb said he does not expect Russia to attack NATO, calling it "the world's most powerful military alliance," but urged NATO to prepare for worst-case scenarios. Stubb said Russian battlefield losses have outpaced recruitment and Moscow may mobilize additional forces this autumn, a move he warned would carry domestic political consequences. He added that, despite Russia’s increasingly complicated position, Moscow is unlikely to end the conflict solely because of economic hardship and that Russians can tolerate significant economic pain.
-
----
-
-### 2026-08-30 06:06:31  #國際
-
-芬蘭總統斯圖布談及特朗普：無論你喜不喜歡，特朗普都是美國歷史上最具影響力的總統之一。他會付諸行動，並且能夠推動事情落地。
-
----
-
-### 2026-08-30 06:02:47  #其他
-
-馬斯克旗下xAI的Grok機器人現已可在X平臺使用。
-
----
-
-### 2026-08-30 06:01:00  #國際
-
-美國加州一輛滿載藍帶啤酒的卡車失蹤，當地警方正在調查，認為這可能是一起規模更大的貨物盜竊案的一部分，涉案酒水價值約7萬美元。藍帶啤酒方表示此事屬實，並懸賞徵集線索，同時給卡車竊賊留出有限時間歸還車輛，承諾“不予追究”。
-
----
-
-### 2026-08-30 05:52:45  #焦點 #國際
-
-【伊朗副外長：未經協調任何船隻無法透過霍爾木茲海峽】伊朗外交部副部長加里巴巴迪29日表示，霍爾木茲海峽目前完全關閉。任何船隻如透過該海峽，均需要經過伊朗的協調和許可。加里巴巴迪說，伊朗武裝力量完全掌握霍爾木茲海峽的一切動向，美國方面有關船隻透過該海峽的說法“完全不屬實”。
-
----
-
-### 2026-08-30 05:48:52  #國際
-
-芬蘭總統斯圖布表示，俄羅斯不太可能冒險攻擊北約。
-
----
-
-### 2026-08-30 05:46:29  #MKT News #WTI #Impact bullish #Brent #Copper
-
-Prime Minister Carney said Canada’s economy grew at its strongest pace in three years in Q2; exports rose and business investment increased. He said plans to bolster the domestic economy and diversify international trade partners are working.
-
----
-
-### 2026-08-30 05:45:22  #公司 #國際
-
-【韓國10大券商二季度淨利近6萬億韓元 股價卻集體承壓】韓國主要證券公司今年第二季度實現創紀錄的近6萬億韓元利潤，但近期券商股卻表現疲軟。據韓國金融投資行業29日訊息，韓國10大券商（未來資產、韓國投資、三星、KB、NH、新韓、Meritz、Kiwoom、韓亞、大信）今年第二季度合併口徑淨利潤達到5.9362萬億韓元，較上一季度增長37%，同比增長141%。韓國主要券商業績表現穩健，但股價卻較為疲軟。韓國交易所證券業指數5月9日收於9804.97點，創下年內新高，隨後大幅回落。6月該指數跌至6400至7400點區間，7月進一步跌至4700至6400點區間，本月則在5000至5500點區間波動。
-
----
-
-### 2026-08-30 05:45:03  #MKT News
-
-【Top 10 South Korean brokers report nearly KRW 6tn Q2 net profit; shares under pressure】South Korea's 10 largest brokerage firms reported a record consolidated Q2 net profit of KRW 5.9362 trillion, up 37% QoQ and 141% YoY. Despite robust earnings, broker stocks have weakened: the KRX securities industry index peaked at 9,804.97 on May 9, then slid to 6,400–7,400 in June, 4,700–6,400 in July and has traded around 5,000–5,500 this month.
-
----
-
-### 2026-08-30 05:37:51  #國際
-
-【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。
-
----
-
-### 2026-08-30 05:31:11  #MKT News #Market Themes #The Trump Trade #CPNG.O #Impact bearish
-
-【Trump executed two Coupang trades in June as Seoul regulatory action fuels U.S.-South Korea dispute】YONHAP reports Trump’s financial disclosure shows he executed two trades in US-listed e-commerce firm Coupang Inc. in June via a money manager. The trades come amid rising U.S.-South Korea tensions over Seoul’s regulatory handling of a large-scale data breach at Coupang. In July, staff of the U.S. House Judiciary Committee issued an interim report accusing the South Korean government of “discriminatory attacks” on Coupang and other U.S.-owned firms, saying Coupang has been a sustained target.
-
----
-
-### 2026-08-30 05:20:40  #MKT News
-
-【Iraq official: Iraq seeks to be 'bridge' between Iran and US】Iraq's prime minister's security adviser Qasim al-Araji told Al Jazeera that Iraq maintains good relations with both Iran and the US and seeks to act as a bridge to broker an agreement safeguarding regional interests. He added Iran has stressed the need to clear extremist groups from Iraqi territory.
-
----
-
-### 2026-08-30 05:19:35  #其他
-
-馬斯克：市場普遍預估，2027年約15吉瓦的AI算力硬體即便生產出來，也無法在2027年投入執行。問題不只是獲取電力，還需要配套建設全部變壓器、佈線、液冷裝置、大型冷水機組以及複雜網路系統。
-
----
-
-### 2026-08-30 05:15:43  #國際
-
-受美國關稅壓力影響，通用汽車工會協議擬向加拿大汽車工廠投資11億加元。
-
----
-
-### 2026-08-30 05:08:57  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish #MU.O
-
-【SK Hynix open to US investment; sees global memory shortage through end-2030】SK Hynix said it is open to additional investment in the US semiconductor industry but has not made any decision. The company’s CEO forecast a global memory-chip shortage lasting through end-2030. SK Hynix is scouting global sites for R&D and testing; power supply, water resources and government incentives are key selection criteria. The company said it will consider any location that can provide sufficient infrastructure and signaled it hopes to deliver further positive developments for the US AI sector.
-
----
-
-### 2026-08-30 04:53:38  #國際
-
-伊拉克總理安全顧問：伊朗方面強調有必要將極端組織逐出伊拉克。
-
----
-
-### 2026-08-30 04:47:02  #國際
-
-伊拉克總理安全顧問：伊拉克尋求充當伊朗與美國之間的“橋樑”。
-
----
-
-### 2026-08-30 04:46:45  #MKT News
-
-Iraqi prime minister's security adviser Qasim al-Araji said Iraq seeks to act as a "bridge" between Iran and the United States.
-
----
-
-### 2026-08-30 04:42:56  #MKT News
-
-TASNIM News, citing Israeli broadcaster Kan, reported Riyadh pressed the U.S. for military action against Yemen's Houthi rebels, but Washington rejected the request.
-
----
-
-### 2026-08-30 04:35:56  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-【Explosions heard in Kyiv】Explosions were heard in Kyiv; air-raid sirens had sounded earlier.
-
----
-
-### 2026-08-30 04:35:33  #國際
-
-【烏克蘭首都基輔傳出爆炸聲】當地時間29日，烏克蘭首都基輔市內傳出爆炸聲。此前基輔拉響了防空警報。
-
----
-
-### 2026-08-30 04:32:15  #國際
-
-美國國家颶風中心表示，熱帶風暴卡琳娜強度增強，接近颶風級別，並繼續進入更有利的環境。
-
----
-
-### 2026-08-30 04:29:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iran's Press TV cited security sources saying reports of large volumes of oil being transported via the southern route of the Strait of Hormuz do not reflect reality. The report said allegations that the United States transports oil via the southern Hormuz route are a US tactic to lower energy prices.
-
----
-
-### 2026-08-30 04:28:45  #國際
-
-伊朗訊息人士：有關大量石油經由霍爾木茲海峽南線外運的說法與現場實際情況不符，這是美國為壓低能源價格而採取的手段。對方試圖取道南線通行，而我方維持海峽封鎖的相關行動仍在切實開展；違規船隻遭到打擊、油輪收到警告後轉向，都可以證明這一點。倘若南線大量運油的說法屬實，那為何美國仍在施壓促成協議、維持封鎖，同時美國國內汽油價格還在持續走高？
-
----
-
-### 2026-08-30 04:27:03  #MKT News
-
-【UAE central bank to inspect Banque Misr UAE branch after US sanctions】After the U.S. sanctioned Banque Misr’s UAE branch in an Iran-related action, the Central Bank of the UAE said it expects banks licensed in the UAE to “not expose the UAE financial system to reputational risk” or “abuse the UAE’s advanced financial infrastructure.” The central bank said it will carry out an emergency inspection of the local branch, reiterated that the branch is subject to UAE laws and regulations, and is “studying possible special measures” against the bank. The U.S. Treasury said the sanctions are part of intensified U.S. economic action targeting Iran and its international financial partners and will cut off the branch’s access to dollar transactions.
-
----
-
-### 2026-08-30 04:24:35  #MKT News #WTI #Impact bullish #Brent
-
-【Iran says Strait of Hormuz "completely closed"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is "completely closed" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario.
 
 ---

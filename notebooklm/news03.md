@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-06 04:20:26_
-_本檔包含 3306 則快訊，約 557310 字_
+_更新時間：2026-09-06 06:13:05_
+_本檔包含 3284 則快訊，約 556889 字_
+
+---
+
+### 2026-09-03 09:04:48  #公司 #觀點
+
+【中信證券：影片模型競爭轉向生產可用與商業兌現 AI劇成為率先形成規模消耗的應用場景】中信證券研報稱，影片模型競爭正由效果比拼轉向生產可用與商業兌現，AI劇成為率先形成規模消耗的應用場景。Seedance 2.5透過長時長生成、多模態參考和一致性編輯提高內容交付效率，番茄小說、創作者中心和製作機構承接IP開發與規模生產；紅果則依託免費內容、演算法分發及廣告電商變現建立商業回收出口，並透過稽核、分賬與投資政策推動內容供給精品化，位元組由此形成模型、內容、流量與變現相互協同的產業閉環。隨著內容供給快速擴張和投流資源趨於稀缺，AI劇的核心矛盾已由生產能力不足轉向有效供給不足，產業鏈價值有望進一步向具備高商業化效率、優質IP與精品製作能力、高質量語料資源，以及與紅果深度合作的公司集中。
+
+---
+
+### 2026-09-03 09:04:27  #市場
+
+【288股獲融資買入超億元，中際旭創穫買入24.49億元居首】A股9月2日共有3856只個股獲融資資金買入，有288股買入金額超億元。其中，中際旭創、長鑫科技、新易盛融資買入金額排名前三，分別獲買入24.49億元、13.96億元、11.07億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中中觸媒、超穎電子、樂惠國際融資買入額佔成交額比重排名前三，分別為32.3%、28.66%、27.85%。從融資淨買入金額來看，有11只個股獲融資淨買入超億元。其中，寧德時代、天孚通訊、中遠海控融資淨買入金額排名前三，分別獲淨買入2.75億元、2.16億元、2.08億元。
+
+---
+
+### 2026-09-03 09:03:41  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌5%，現報1871.00點。
+
+---
+
+### 2026-09-03 09:02:56  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 30-year government bond yield fell to 4.075%.
+
+---
+
+### 2026-09-03 09:02:46  #國際
+
+【李成鋼會見美中貿易全國委員會董事會代表團】9月2日上午，李成鋼國際貿易談判代表兼副部長會見美中貿易全國委員會董事會代表團，雙方就中美經貿關係等議題進行交流。（商務部）
+
+---
+
+### 2026-09-03 09:02:40  #MKT News #Important
+
+【Li Chenggang meets U.S.-China Business Council board delegation】On the morning of Sept. 2, Li Chenggang, China’s international trade representative and vice minister, met with a U.S.-China Business Council board delegation to discuss China-U.S. economic and trade relations.
+
+---
+
+### 2026-09-03 09:02:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D rose 1.67% to 951.5 yuan/gram in early trade on Sept 3; Shanghai Gold Exchange Silver T+D rose 2.31% to 15,980 yuan/kg.
+
+---
+
+### 2026-09-03 09:02:09  #MKT News #Market Regions #Greater China
+
+Taiwan Stock Exchange Weighted Index opened 249.19 points higher, or 0.54%, at 46,413.91 on Sept. 3 (Thursday).
+
+---
+
+### 2026-09-03 09:02:08  #市場 #國際
+
+日本30年期國債收益率下跌10個基點至4.065%。
+
+---
+
+### 2026-09-03 09:01:53  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Wall Street Journal reports U.S. Defense Secretary Hegseth will extend troop deployments in the Middle East through 2027, increasing strain on U.S. forces.
+
+---
+
+### 2026-09-03 09:01:03  #MKT News
+
+KYODO: Japan's ruling party secretary-general may remain in post amid a senior-level personnel reshuffle.
+
+---
+
+### 2026-09-03 09:00:53  #市場 #國際
+
+30年期日本國債收益率跌至4.075%。
+
+---
+
+### 2026-09-03 09:00:45  #公司
+
+【NBA重罰快船：罰沒未來5個首輪籤，罰款3000萬美元】當地時間9月2日，NBA宣佈，洛杉磯快船隊及球星科懷·倫納德因違反勞資協議中的工資帽規避規則受到處罰。聯盟獨立調查認定，快船曾幫助倫納德與Aspiration Partners、Boingo Wireless、Daktronics和Lockton Insurance等4家與球隊有業務往來的公司達成場外收入及代言安排，併為倫納德及其代表支付個人費用。NBA決定罰沒快船2029年至2033年連續5年的首輪選秀權，並處以3000萬美元罰款；球隊老闆史蒂夫·鮑爾默被禁參與聯盟及球隊事務1年。倫納德被罰70萬美元，其前經紀業務經理Dennis Robertson被禁止與NBA球隊及其關聯方開展相關業務5年。
+
+---
+
+### 2026-09-03 09:00:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+FTSE China A50 index futures opened 0.14% higher.
+
+---
+
+### 2026-09-03 09:00:11  #其他
+
+臺灣證交所加權股價指數開高0.3%報46,325.48。
+
+---
+
+### 2026-09-03 09:00:08  #市場 #焦點
+
+燃料油連續主力合約日內跌2%，現報3890.00元。
+
+---
+
+### 2026-09-03 09:00:04  #市場 #焦點
+
+焦煤連續主力合約日內跌2%，現報1666.00元。
+
+---
+
+### 2026-09-03 09:00:04  #市場 #焦點
+
+乙二醇連續主力合約日內漲2%，現報5892.00元。
+
+---
+
+### 2026-09-03 09:00:04  #市場 #焦點
+
+苯乙烯連續主力合約日內漲2%，現報9629.00元。
+
+---
+
+### 2026-09-03 09:00:04  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌4%，現報1888.00點。
+
+---
+
+### 2026-09-03 09:00:03  #市場
+
+【商品期貨開盤】集運指數歐線期貨連續跌4.54%，鈀連續漲3.04%，乙二醇連續漲2.99%，甲醇連續漲2.53%，上海原油連續漲2.42%。
+
+---
+
+### 2026-09-03 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.12%。
+
+---
+
+### 2026-09-03 08:56:35  #市場 #觀點 #國際
+
+【中金財富期貨：美國10年期國債收益率從盤中高位回落，黃金和美股也出現反彈行情】油價衝高回落後漲勢暫歇，通脹預期隨之降溫。美國10年期國債收益率從盤中高位回落，黃金和美股也出現反彈行情。但是需要注意的事，“替代方案”的紅海港口也被威脅，沙特原油出口暴跌，油價下行需要美伊之間達成一個較為靠譜的協議，否則地緣問題帶來的通脹壓力、債務風險等仍會反覆擾動市場，建議耐心等待黃金調整結束。
+
+---
+
+### 2026-09-03 08:56:09  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
+
+【A-share thermometer: combined turnover below 20-day average for 10th straight day】China's Shanghai and Shenzhen markets recorded combined turnover of 1.79 tln yuan on Sept. 2, down from the prior session and marking a tenth consecutive trading day below the 20-day moving average of 2.20 tln yuan, which has oscillated around that level since August. Turnover below the 20-day average—a proxy for aggregate institutional, speculative and retail participation—signals cooling market activity and softer sentiment.
+
+---
+
+### 2026-09-03 08:54:54  #其他
+
+【陝西省委書記趙一德會見省政府國際高階經濟顧問會議參會顧問】據陝西日報，9月2日，陝西省委書記趙一德在西安會見了省政府國際高階經濟顧問會議第十三屆會議參會顧問。趙一德說，希望各位顧問繼續以專業視角為陝西發展貢獻智慧力量，以資源優勢為陝西開放搭建橋樑紐帶，與陝西攜手在關鍵領域、重點行業打造一批企地合作標誌性成果，實現更寬領域、更高層次、更大範圍的共贏發展。我們將持續完善交流機制平臺、全力打造一流營商環境，為各位顧問履職賦能創造良好條件，為企業在陝投資興業提供優質保障。道達爾能源中國區主席俞永堅、贏創大中華區總裁兼定製化解決方案業務板塊亞太區負責人夏賦良先後發言，表示願積極投身陝西改革發展的火熱實踐，加強專案謀劃，拓展合作空間，推動更多優質企業走進陝西、投資陝西，共享新機遇、共創新未來。
+
+---
+
+### 2026-09-03 08:54:01  #其他
+
+【達喀爾青奧會火炬將於9月14日起在塞內加爾傳遞 】國際奧委會2日釋出訊息，2026年達喀爾青年奧林匹克運動會火炬傳遞活動將於9月14日起在塞內加爾境內舉行，持續至10月30日。據介紹，達喀爾青奧會火種將於9月10日在希臘雅典點燃，12日抵達塞內加爾首都達喀爾。火炬傳遞以“傳遞能量”為主題，行程覆蓋塞內加爾全部14個行政大區。
+
+---
+
+### 2026-09-03 08:53:28  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Holds Rebound — Silver traded above $65 an ounce on Thursday after rebounding in the previous session, as a pullback in the dollar and Treasury yields provided some relief. New York Fed Bank President John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month following Chair Kevin Warsh’s hawkish remarks on Friday. Elsewhere, oil prices halted their rally after President Donald Trump said the latest attacks on Iran would be short-lived while indicating that the US stands ready for further strikes, easing inflation concerns and providing additional support to precious metals.
+
+---
+
+### 2026-09-03 08:52:13  #MKT News
+
+A U.S. judge has barred the Environmental Protection Agency from sending California’s landmark vehicle emissions standards to the Republican-controlled Congress, blocking a potential repeal.
+
+---
+
+### 2026-09-03 08:51:01  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index fell 0.2% to around 64,200 while the broader Topix Index gained 0.7% to 4,110 in mixed trade on Thursday, with Japanese shares lacking clear direction as the yen suddenly strengthened amid speculation that authorities had conducted a rate check. A stronger yen weighs on the earnings outlook for Japan’s export-heavy industries and makes domestic assets more expensive for foreign investors. Meanwhile, equities found some support from a pullback in oil prices after President Donald Trump said the latest attacks on Iran would be short-lived. Global bond yields also retreated from recent highs as investors continued to assess the inflation and interest rate outlook. Among individual stocks, notable losses were recorded in tech firms such as Advantest (-1.6%), Fujikura (-1.2%) and Taiyo Yuden (-1.3%), while financial stocks gained, including Mitsubishi UFJ (1.5%), Sumitomo Mitsui (2.1%) and Mizuho Financial (1.5%).
 
 ---
 
@@ -19667,311 +19841,5 @@ Iranian media reported air-defense activity over eastern Tehran minutes ago.
 ### 2026-09-02 03:54:10  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Gilead Sciences Stock Price Hits 26-week High — Gilead Sciences shares increased to 149.62 USD, the highest since March 2026. Over the past 4 weeks, Gilead Sciences gained 13.95%, and in the last 12 months, it increased 32.6%.
-
----
-
-### 2026-09-02 03:52:01  #MKT News
-
-Iran’s health ministry said an attack on Kuhistak village in Hormozgan province killed multiple people, including a child, and wounded more than 50; local power and phone services have been cut.
-
----
-
-### 2026-09-02 03:50:02  #MKT News
-
-Iran's supreme leader said Iran and the axis of resistance have delivered an unforgettable lesson to U.S. enemies.
-
----
-
-### 2026-09-02 03:48:55  #國際
-
-【俄外交部：將對德國關閉俄駐波恩總領事館作出回應】俄羅斯外交部發言人扎哈羅娃1日表示，俄羅斯將對德國關閉俄駐波恩總領事館作出回應。據塔斯社報道，扎哈羅娃表示，德國方面為其舉措編造了一個藉口。德國外交部長瓦德富爾和內政部長多布林特1日在新聞釋出會上表示，俄羅斯應對8月上旬發生在德東部萊比錫機場的無人機襲擊未遂事件負責，決定於9月18日關閉俄羅斯駐波恩總領事館，同時終止與位於柏林的文化機構“俄羅斯之家”的相關合同。此外，德國將加強對俄公民的入境檢查，並加大對俄“影子艦隊”的施壓力度。（新華社）
-
----
-
-### 2026-09-02 03:48:38  #國際
-
-伊朗媒體：伊朗已啟動報復行動，已從伊朗境內發射導彈和無人機。
-
----
-
-### 2026-09-02 03:47:25  #國際
-
-【美軍襲擊已致伊朗霍爾木茲甘省2死多傷】伊朗霍爾木茲甘省政治與安全事務副省長表示，當地時間9月1日晚，錫裡克市一場婚禮儀式遭到襲擊，造成兩人死亡，多人受傷。9月1日晚，伊朗南部格什姆島及霍爾木茲海峽一帶傳出多次爆炸聲。美軍中央司令部表示，美國東部時間9月1日12時，美軍開始打擊伊朗境內伊斯蘭革命衛隊的目標。稍後，伊朗伊斯蘭革命衛隊發表宣告稱，數小時前，美國轟炸了伊朗南部沿海的多個地點，其中包括數個平民場所。宣告還說，伊朗伊斯蘭革命衛隊已開始對侵略者進行反擊，在第一次行動中，利用新型防空系統擊落了入侵美軍的MQ-9無人機。 (央視新聞)
-
----
-
-### 2026-09-02 03:43:14  #國際
-
-伊朗媒體：美國在阿巴茲市附近發動導彈襲擊。
-
----
-
-### 2026-09-02 03:41:56  #國際
-
-伊朗方面：約旦境內的穆卡達西空軍基地遭到猛烈打擊，多枚彈道導彈擊中該基地。
-
----
-
-### 2026-09-02 03:39:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Fars News, citing sources, reported several explosions were heard at a US base in Jordan.
-
----
-
-### 2026-09-02 03:37:19  #MKT News
-
-Iranian media quoted Khuzestan province deputy security chief saying a site near Ahvaz was struck by a missile attack carried out by a US‑backed terrorist group.
-
----
-
-### 2026-09-02 03:36:06  #國際
-
-特朗普：支援梅斯·米德爾頓參選得克薩斯州總檢察長。
-
----
-
-### 2026-09-02 03:35:36  #公司
-
-阿瓦頓與沙特阿美數字公司宣佈達成戰略合作伙伴關係，將在沙烏地阿拉伯及全球範圍內推動工業人工智慧落地發展。
-
----
-
-### 2026-09-02 03:33:44  #MKT News
-
-Iranian media, citing sources, say explosions were heard inside Jordan.
-
----
-
-### 2026-09-02 03:32:00  #公司 #國際
-
-亞馬遜旗下Zoox與Alphabet旗下Waymo將自動駕駛計程車服務擴充套件至更多美國城市。
-
----
-
-### 2026-09-02 03:30:39  #MKT News #Macro & Rates #US Economy
-
-US Treasury Deputy Secretary Aileen Brown said if G20 finance ministers cannot agree on a joint communique, the US will issue a chair's statement reflecting US priorities.
-
----
-
-### 2026-09-02 03:30:17  #MKT News
-
-U.S. Deputy Treasury Secretary Aileen Brown said trade-surplus and trade-deficit countries disagree on the challenges posed by global imbalances.
-
----
-
-### 2026-09-02 03:30:13  #MKT News
-
-U.S. Treasury Deputy Secretary Aileen Brown said parties still disagree on wording around sovereign debt restructuring and efforts to reduce global imbalances.
-
----
-
-### 2026-09-02 03:30:11  #MKT News #Macro & Rates
-
-US Treasury Deputy Secretary Aileen Brown said G20 countries are working on a joint communique, but it must reflect US interests.
-
----
-
-### 2026-09-02 03:29:57  #國際
-
-美國國家颶風中心（NHC）表示，颶風愛德華已在路易斯安那州約翰遜貝尤附近登陸。
-
----
-
-### 2026-09-02 03:29:44  #宏觀 #公司 #國際
-
-美國財政部副部長布朗：二十國集團（G20）成員國正全力推進聯合公報磋商，但公報內容必須契合美國利益。
-
----
-
-### 2026-09-02 03:29:35  #宏觀 #國際
-
-美國財政部副部長布朗：主權債務重組和削減全球失衡方面的措辭仍存在一些分歧。
-
----
-
-### 2026-09-02 03:29:26  #宏觀 #國際
-
-美國財政部副部長布朗：全球失衡帶來的挑戰方面，順差國與逆差國面臨的狀況存在差異。
-
----
-
-### 2026-09-02 03:29:10  #宏觀 #國際
-
-美國財政部布朗：若無法達成G20財長公報，美國將釋出反映美國優先事項的主席宣告。
-
----
-
-### 2026-09-02 03:28:45  #國際
-
-美國防長赫格塞思近期再度削減多名陸軍軍官的晉升名額。
-
----
-
-### 2026-09-02 03:22:53  #MKT News
-
-According to an internal memo, BofA (BAC.N) security team is fully cooperating with police and addressing ongoing safety and security issues at its offices and for employees.
-
----
-
-### 2026-09-02 03:22:48  #國際
-
-【美方評估：伊朗計劃擴大襲擊霍爾木茲海峽商船】美國評估認為伊朗正計劃擴大針對商船的襲擊。訊息人士稱，美軍打擊目標為伊朗經由霍爾木茲海峽轉運的武器與軍事裝備。
-
----
-
-### 2026-09-02 03:22:07  #國際
-
-一份內部備忘錄顯示：美國銀行安保團隊已全面投入配合警方調查，並持續保障銀行辦公場所及員工的安全與安保工作。
-
----
-
-### 2026-09-02 03:20:51  #國際
-
-市場資訊：德國曾考慮就萊比錫無人機襲擊事件援引北約第4條，但最終放棄該打算。德政府希望避免局勢進一步升級，為俄羅斯若發動更多襲擊時採取更強有力的應對手段留出餘地。
-
----
-
-### 2026-09-02 03:20:38  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran state TV cited a deputy governor saying a U.S. strike killed at least two people and injured several at a wedding near Sirik, Iran.
-
----
-
-### 2026-09-02 03:19:51  #國際
-
-伊朗媒體：美國對伊朗錫裡克附近的一場婚禮發動襲擊，造成至少兩人死亡，多人受傷。
-
----
-
-### 2026-09-02 03:19:18  #國際
-
-伊朗革命衛隊發表宣告稱，美國的打擊將“進一步收緊霍爾木茲海峽的封鎖”。
-
----
-
-### 2026-09-02 03:19:15  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said US attacks will only make a blockade of the Strait of Hormuz more entrenched.
-
----
-
-### 2026-09-02 03:19:07  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran says it fired missiles and drones at US bases】Iran said on Sept. 1 its armed forces had begun operations against the United States, firing missiles and drones at US bases and interests in the region; locations and targets were not immediately known. Multiple explosions were reported earlier near Qeshm Island and the Strait of Hormuz; no casualties or damage have been reported. US Central Command said at 12:00 ET on Sept. 1 US forces began strikes on Islamic Revolutionary Guard Corps targets inside Iran. Iran’s Armed Forces General Staff said it would deliver a devastating strike against US forces in response to US airstrikes on targets in Sistan and Baluchestan and Hormozgan provinces.
-
----
-
-### 2026-09-02 03:17:23  #國際
-
-聯合國世界衛生組織警告，加沙即將到來的雨季將對當地醫療體系構成威脅。
-
----
-
-### 2026-09-02 03:16:23  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Al Jazeera cited local Iranian officials saying a US strike on Jiroft airport caused no casualties and only minor damage.
-
----
-
-### 2026-09-02 03:16:06  #國際
-
-【伊朗方面稱擊落一架美國MQ-9無人機】據伊朗方面當地時間9月1日晚訊息，一架美國MQ-9無人機被伊朗新型防禦系統在霍梅恩上空擊落。霍梅恩位於伊朗中央省，距離伊朗重要城市阿拉克約70公里。（央視新聞）
-
----
-
-### 2026-09-02 03:14:31  #其他
-
-當地官員：美軍襲擊吉羅夫特機場，無人員傷亡，損毀程度輕微。
-
----
-
-### 2026-09-02 03:14:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The Islamic Revolutionary Guard Corps said a US strike would only strengthen security in the Strait of Hormuz, that Iran has begun retaliatory actions, and that in the first phase it used a new air-defence system to shoot down the US military's 50th advanced MQ-9 drone.
-
----
-
-### 2026-09-02 03:13:34  #國際
-
-美國一名官員表示，針對伊朗的襲擊仍在持續。
-
----
-
-### 2026-09-02 03:12:24  #市場 #國際
-
-【歐洲天然氣期貨價格升至2023年以來最高水平】隨著美國對伊朗發動新一輪打擊，歐洲天然氣基準期貨價格飆升至2023 年1月以來最高水平。作為歐洲天然氣基準的荷蘭近月期貨價格上漲5.9%，至每兆瓦時73.95歐元。
-
----
-
-### 2026-09-02 03:11:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Hormozgan provincial governor's office accused US hostile forces of a brutal incursion into Iranian territory, saying they struck a residential area in Kostak and again committed war crimes in Hormozgan Province.
-
----
-
-### 2026-09-02 03:10:34  #國際
-
-伊朗南部恰巴哈爾地區再次發生爆炸。
-
----
-
-### 2026-09-02 03:08:57  #其他
-
-訊息人士稱，颶風逼近期間，莫蒂瓦、埃克森美孚及道達爾能源位於東得克薩斯州的煉油廠產量維持不變。
-
----
-
-### 2026-09-02 03:08:38  #國際
-
-伊朗方面：今晚一套新型國家防禦系統首次完成測試，成功擊落一架美軍無人機。
-
----
-
-### 2026-09-02 03:07:56  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Mehr news agency reported tonight that Iran's new air-defense system conducted its first successful test, shooting down a US drone.
-
----
-
-### 2026-09-02 03:07:34  #宏觀 #國際
-
-美國與伊朗近期衝突襲擊事件增多後，美國國務院向中東地區各大使館釋出新的安全警報。
-
----
-
-### 2026-09-02 03:06:12  #國際
-
-俄羅斯大使館：德國有關莫斯科策劃萊比錫機場無人機襲擊未遂事件的說法“毫無依據、十分荒謬”，並指出這是一場挑釁，迎合了烏克蘭、“歐洲精英階層中的軍國主義派系以及軍火商”的利益。相關指控實施制裁是一次“前所未有的升級”，俄方“不會就此善罷甘休”。
-
----
-
-### 2026-09-02 03:05:11  #宏觀
-
-英國財政部副部長雷諾茲稱，緩解全球失衡是一項敏感議題，英國將審慎應對。
-
----
-
-### 2026-09-02 03:04:08  #MKT News #WTI #Impact bullish #Brent
-
-Saudi outlet Alhadath reports a US assessment that Iran had planned to expand attacks on commercial vessels.
-
----
-
-### 2026-09-02 03:03:55  #觀點
-
-【富國銀行加入摩根大通行列 對美股後市表現持謹慎看法】富國銀行成為本週第二家對美股轉趨謹慎的銀行。隨著市場進入歷史上表現最差的月份之一，加之中期選舉給人工智慧交易增添不確定性，富國對9月美股前景發出警告。由首席股票策略師Ohsung Kwon領銜的富國銀行分析師團隊表示，投資者越來越擔心AI投資熱潮能否持續，進入9月後市場將呈現“普遍謹慎”的情緒。團隊預計，圍繞AI基礎設施建設資本開支的擔憂將達到高點。不過，他們指出，經歷8月中旬拋售後，情緒指標仍是正面多於負面。
-
----
-
-### 2026-09-02 03:03:36  #MKT News #WTI #Impact bullish #Brent
-
-【Explosions reported across southern Iran; airport and Persian Gulf energy hub struck】Local time Sept. 1, multiple explosions were reported in southern Iran. Around 21:28 blasts were heard at Bandar Abbas port, Qeshm Island and Lavan Island. Iranian sources said U.S. forces struck Jiroft airport in Kerman province at about 21:40; Jiroft is roughly 200 km from the provincial capital Kerman. Later that evening explosions were also reported at Asaluyeh port, a major Persian Gulf energy hub.
-
----
-
-### 2026-09-02 03:03:24  #國際
-
-【伊朗多地再次傳出爆炸聲 機場和能源樞紐遭襲】據總檯記者訊息，當地時間9月1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。伊朗方面還有訊息稱，1日21時40分左右，美軍襲擊伊朗吉羅夫特機場。吉羅夫特位於伊朗克爾曼省，距離該省省會城市克爾曼200公里左右。據悉，當日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港也傳出爆炸聲。（央視新聞）
 
 ---

@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-06 04:20:26_
-_本檔包含 2636 則快訊，約 557372 字_
+_更新時間：2026-09-06 06:13:05_
+_本檔包含 2653 則快訊，約 557353 字_
+
+---
+
+### 2026-09-06 06:06:47  #國際
+
+克里姆林宮助手烏沙科夫：普京與威特科夫、庫什納的會談持續了3小時10分鐘。
+
+---
+
+### 2026-09-06 06:06:28  #國際
+
+克里姆林宮助手烏沙科夫：普京與美國特使的會談“極為坦率”，氣氛互信。
+
+---
+
+### 2026-09-06 06:06:19  #MKT News #Important
+
+Russian presidential aide USHAKOV said President Putin is prepared to cooperate with the US and pursue diplomatic means to resolve the Russia-Ukraine issue.
+
+---
+
+### 2026-09-06 06:02:10  #焦點 #國際
+
+克里姆林宮助手烏沙科夫：普京已準備同美方開展合作，尋求外交途徑解決俄烏問題。
+
+---
+
+### 2026-09-06 06:00:07  #國際
+
+【伊朗否認伊斯法罕核設施遭到襲擊】據伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊公共關係部門5日發表宣告，否認伊斯法罕核技術中心及核設施遭到襲擊，稱相關訊息純屬虛構。宣告說，在當前敏感局勢下散佈此類內容，是敵對勢力企圖製造緊張氣氛、擾亂輿論並引發民眾恐慌的行徑。（新華社）
+
+---
+
+### 2026-09-06 06:00:05  #MKT News
+
+【Iran denies attack on Isfahan nuclear facilities】Iran’s Islamic Revolutionary Guard Corps public relations department said on the 5th it denied reports that the Isfahan Nuclear Technology Center and related nuclear facilities were attacked, calling the accounts fabricated and accusing hostile forces of trying to stoke tensions, disrupt public opinion and provoke public panic.
+
+---
+
+### 2026-09-06 05:50:44  #國際
+
+【俄總統助理：普京與美總統特使會見超3小時】俄羅斯總統助理烏沙科夫6日凌晨說，俄總統普京5日晚在克里姆林宮與美國總統特朗普的特使威特科夫和女婿庫什納的會見超過3個小時，內容充實且“具有建設性”。（新華社）
+
+---
+
+### 2026-09-06 05:37:30  #MKT News
+
+【IRGC deputy navy political officer says 2–5 vessels 'punished' nightly in Strait of Hormuz in 10 days to Aug. 30】State news agency reported an IRGC deputy navy political officer said that during the 10 days ending Aug. 30 Iranian naval forces 'punished' 2–5 'violating' vessels each night in the Strait of Hormuz, and asserted U.S. strikes have 'not in the slightest' disrupted Iran's control of the area.
+
+---
+
+### 2026-09-06 05:34:43  #國際
+
+伊朗革命衛隊海軍官員稱，上個月霍爾木茲海峽每天都有船隻遭到打擊懲戒。
+
+---
+
+### 2026-09-06 05:32:35  #MKT News
+
+【Israeli broadcaster reports IDF plans partial pullback from southern Lebanon】Israeli public radio reported on the 5th that the IDF is preparing a partial withdrawal from southern Lebanon and will establish a narrower border security zone. The report says the IDF completed destruction of a Hezbollah tunnel beneath high ground near Nebetiyeh and has drafted a plan to pull back to positions closer to the Israel‑Lebanon border, reducing its controlled depth in southern Lebanon from about 10km to roughly 3–4km. The new deployment line, dubbed the "grey line", would replace the current "yellow line."
+
+---
+
+### 2026-09-06 05:31:31  #MKT News
+
+TASS: U.S. presidential special envoy Witkoff and Trump's son-in-law Kushner have left Moscow.
+
+---
+
+### 2026-09-06 05:31:22  #國際
+
+美國特使威特科夫、庫什納已離開莫斯科。
+
+---
+
+### 2026-09-06 05:30:30  #國際
+
+【以媒：以軍計劃部分撤出黎巴嫩南部】以色列公共廣播電臺5日報道說，以軍正準備部分撤出黎巴嫩南部，並計劃在黎以邊境沿線建立範圍更小的“安全區”。報道稱，以軍近日完成對黎南部奈拜提耶地區阿里塔希爾高地之下黎真主黨地道的摧毀行動，隨後制定上述調整部署計劃。以色列安全部門官員說，根據新計劃，以軍將撤至更靠近黎以邊境的位置，其在黎南部控制的區域縱深將由目前約10公里縮減至3至4公里。新的部署線被稱為“灰線”，將取代目前“黃線”。（新華社）
+
+---
+
+### 2026-09-06 05:29:50  #MKT News
+
+USHAKOV said Putin's meeting with Trump's special envoy was substantive, very frank and constructive.
+
+---
+
+### 2026-09-06 05:29:41  #其他
+
+市場資訊：威瑞森針對洛厄爾颶風免除相關費用，為夏威夷做好網路保障準備。
+
+---
+
+### 2026-09-06 05:29:12  #MKT News #Important
+
+USHAKOV said a series of plans have been drawn up for a peaceful settlement.
+
+---
+
+### 2026-09-06 05:28:54  #MKT News
+
+Ushakov says US officials pledged to bring Putin’s assessment to talks in Kyiv as part of efforts to seek a lasting agreement to end the war.
+
+---
+
+### 2026-09-06 05:28:16  #MKT News
+
+Ushakov said both sides agreed that President Putin and President Trump will remain in contact.
+
+---
+
+### 2026-09-06 05:28:05  #MKT News
+
+Russian presidential aide USHAKOV said economic issues were also discussed.
+
+---
+
+### 2026-09-06 05:28:00  #MKT News
+
+USHAKOV said Putin told Trump's envoy that Russia will achieve its goals and that the conflict's root causes need to be addressed.
+
+---
+
+### 2026-09-06 05:27:46  #MKT News #Important
+
+Ushakov said talks were productive.
+
+---
+
+### 2026-09-06 05:27:06  #國際
+
+克里姆林宮助手烏沙科夫：普京已告知特朗普特使，俄羅斯將實現其目標，衝突根源必須得到解決。
+
+---
+
+### 2026-09-06 05:26:58  #國際
+
+克里姆林宮助手烏沙科夫：俄羅斯已提交其對前線局勢的評估。
+
+---
+
+### 2026-09-06 05:26:55  #焦點 #國際
+
+克里姆林宮助手烏沙科夫：普京與特朗普特使的會談內容充實、十分坦誠且富有建設性。
+
+---
+
+### 2026-09-06 05:26:50  #其他 #焦點
+
+克里姆林宮助手烏沙科夫：已就和平解決制定了一系列方案。
+
+---
+
+### 2026-09-06 05:26:44  #其他 #焦點
+
+克里姆林宮助手烏沙科夫：談判取得了積極成效。
+
+---
+
+### 2026-09-06 05:26:38  #其他
+
+克里姆林宮助手烏沙科夫：我們還討論了經濟議題。
+
+---
+
+### 2026-09-06 05:26:34  #國際
+
+克里姆林宮助手烏沙科夫：雙方已達成一致，普京與特朗普將保持聯絡。
+
+---
+
+### 2026-09-06 05:26:29  #國際
+
+克里姆林宮助手烏沙科夫：美方已承諾將普京的評估意見帶到他們在基輔的會談中，以尋求達成結束戰爭的長期協議。
+
+---
+
+### 2026-09-06 05:22:54  #國際
+
+美國情報部門評估認為，伊朗正考慮在近期擴大襲擊行動，打擊目標包含美國與以色列相關目標。
+
+---
+
+### 2026-09-06 05:18:29  #國際
+
+哈馬斯領導人譴責以色列在約旦河西岸卡巴提亞鎮侵佔土地。
+
+---
+
+### 2026-09-06 05:11:50  #MKT News #XAUUSD #Impact bearish #DXY #WTI
+
+【Putin meets US presidential envoys; talks lasted about three hours】On the evening of Sept. 5, President Putin met with visiting US presidential envoys Witkoff and Kushner in talks that lasted about three hours. Putin said he had received requests via intelligence and diplomatic channels to stop airstrikes on Kyiv and has ordered strikes on Kyiv to cease; Kremlin spokesman Peskov earlier confirmed a three-day halt to strikes on Kyiv. Putin said Ukraine has sharply reduced strikes on Russian territory, including Moscow, and that Kyiv proposed a broader three-day ceasefire which Russia did not accept. Russia said it will take all measures to ensure the safety of US–Ukraine negotiations and mediators. Ukrainian President Zelenskiy said Ukraine will halt strikes on Moscow effective immediately through Sept. 7.
+
+---
+
+### 2026-09-06 05:10:16  #國際
+
+【普京會見美總統特使】當地時間9月5日晚，俄羅斯總統普京與到訪的美國總統特使威特科夫和庫什納舉行會談。會談在持續了大約3個小時後結束。普京表示，俄方透過情報和外交部門收到“停止空襲烏克蘭首都基輔”的請求，他已經下達命令，俄方對基輔的空襲已停止。普京還介紹說，烏方也大幅減少對俄領土（包括莫斯科）的襲擊。 普京還提到，烏方還提議實施為期三天的更廣泛停火，俄方並未同意。但俄方將盡一切努力確保美烏談判程序和談判調解人員的安全。 俄羅斯總統新聞秘書佩斯科夫當天早些時候證實，普京已經下令三天內不對基輔空襲。烏克蘭總統澤連斯基隨後表示，決定即刻起至9月7日停止對莫斯科實施打擊。 （CCTV國際時訊）
+
+---
+
+### 2026-09-06 05:10:16  #MKT News #Commodities #Energy #WTI
+
+Egypt's Foreign Ministry said Egypt's and Oman's foreign ministers discussed developments in the Strait of Hormuz and their potential impact on regional security and the global economy; both stressed safeguarding maritime navigation and ensuring uninterrupted trade and energy supplies.
+
+---
+
+### 2026-09-06 05:07:45  #MKT News #WTI #Impact bullish #XAUUSD
+
+Al Jazeera reported Israeli forces struck the outskirts of Rafid town in southern Syria.
+
+---
+
+### 2026-09-06 05:05:32  #國際
+
+埃及外交部：埃及外長和阿曼外交大臣呼籲維護海上航行安全，保障該水道貿易與能源物資持續流通。
+
+---
+
+### 2026-09-06 04:49:01  #國際
+
+俄羅斯總統普京與美國特使會晤時間長達三小時。
+
+---
+
+### 2026-09-06 04:47:25  #MKT News
+
+Dmitriev, aide to the Russian president, said the U.S. special envoy’s visit to Moscow is an important peace‑brokering visit.
+
+---
+
+### 2026-09-06 04:46:09  #國際
+
+俄羅斯總統助理德米特里耶夫：美國特使出訪莫斯科為“重要的和平斡旋訪問”。
+
+---
+
+### 2026-09-06 04:41:27  #MKT News
+
+【Isar Aerospace's rocket successfully launches】Isar Aerospace's "Spectrum" rocket lifted off from a Norwegian launch site carrying five small satellites and reached orbit roughly four minutes after liftoff. It was Isar's second launch attempt this year after prior delays from weather, technical issues and an errant vessel. The 28m vehicle can deliver about 1,000kg to LEO, substantially smaller than SpaceX rockets; Isar says the smaller size helps place satellites into specific orbits and differentiate its offering. The company completed a €270m ($313m) financing this year and is aiming to achieve the first commercial orbital launch from continental Europe.
+
+---
+
+### 2026-09-06 04:22:19  #其他
+
+德國初創企業Isar Aerospace表示，其無人太空火箭在挪威發射後成功進入軌道。
+
+---
+
+### 2026-09-06 04:22:14  #MKT News
+
+German startup Isar said its uncrewed launch vehicle successfully reached orbit after a launch from Norway.
 
 ---
 
@@ -15739,155 +15991,5 @@ Japan's finance minister Katayama said talks with U.S. Treasury Secretary Bessen
 ### 2026-09-04 10:23:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #DXY
 
 KATAYAMA, Japan's finance minister, said she had taken note of Prime Minister Sanae Takaichi's remarks that new government bond issuance could be close to ¥40 trillion.
-
----
-
-### 2026-09-04 10:23:13  #宏觀
-
-【國家醫保局：“十五五”期間將推動醫保醫療服務專案報銷目錄全國統一】在國務院新聞辦今天舉辦的新聞釋出會上，國家醫保局副局長李滔表示，當前，基本醫保藥品目錄已實現全國統一，但哪些醫療服務專案和醫用耗材能報銷，仍由各省自行確定。群眾就醫時，一些醫療服務專案可能在某些省份能報銷，在其他省份卻不能報銷。“十五五”期間，將著力推動醫療服務專案和醫用耗材報銷目錄全國統一，進一步縮小地區之間政策差異。
-
----
-
-### 2026-09-04 10:22:48  #國際
-
-日本財務大臣片山：一直很樂意與美國代表貝森特交談，並已向他解釋了日本為實現財政可持續性和增長所做的努力。
-
----
-
-### 2026-09-04 10:22:37  #其他
-
-【千問辦公上線首月使用者數突破 3000萬，企業使用者佔比過半】9月4日，阿里旗下企業級通用Agent產品千問辦公上線滿一個月，使用者數突破3000 萬，企業使用者佔比過半。過去一個月，千問辦公共完成 120 個版本更新，平均一天迭代4次，累計更新上千個feature。期間，千問辦公推出國際版，全面進入全球市場。
-
----
-
-### 2026-09-04 10:22:35  #MKT News #Market Regions #Greater China
-
-【NHSA to push national unification of medical-service and consumable reimbursement lists during 15th Five-Year Plan】At a State Council press briefing today, National Healthcare Security Administration deputy director Li Tao said China’s basic medical insurance drug list is already nationally unified, but provinces still determine which medical service items and medical consumables are reimbursable. As a result, some services are reimbursed in some provinces but not others. During the 15th Five-Year Plan period the NHSA will push to unify reimbursement lists for medical services and consumables nationwide to narrow regional policy differences.
-
----
-
-### 2026-09-04 10:22:20  #MKT News #Market Regions #Greater China #Commodities #Energy
-
-【Wolong Electric Drive signs strategic cooperation with Shanghai Mufan Power; projects forecast to generate >700 mln yuan in orders over three years】On Sept. 3 Wolong Electric Drive signed a strategic cooperation agreement with Shanghai Mufan Power Technology; the partners expect cumulative orders of more than 700 million yuan over the next three years. Wolong’s Nanyang Explosion‑proof Group gas‑turbine generator is described as core distributed‑energy equipment. North American and Southeast Asian data‑center demand for on‑site generation is rising, and gas turbines—cited for faster payback, shorter construction cycles and rapid ability to plug power shortfalls—are identified as having broad application in data‑center deployments.
-
----
-
-### 2026-09-04 10:21:32  #國際
-
-日本財務大臣片山：高市早苗的言論具有重大意義。
-
----
-
-### 2026-09-04 10:21:30  #MKT News
-
-【China COSCO Shipping says US official allegation that its merchant ships carry 'covert equipment' to collect intelligence is baseless】China COSCO Shipping Group said it has noted foreign media reports citing anonymous US officials alleging COSCO vessels carry ‘‘covert equipment’’ to intercept military communications and collect intelligence. The company said those allegations have no factual basis and it strongly rejects them. It said communications, navigation, security and operational equipment on its commercial ships are used for navigation safety, ship‑to‑shore contact and emergency response in normal commercial operations, and that there is no use of merchant vessels to eavesdrop on military communications or gather intelligence. China COSCO Shipping said it opposes misinformation that harms its brand or disrupts its international operations and reserves the right to seek legal protection of its reputation.
-
----
-
-### 2026-09-04 10:21:23  #國際
-
-日本財務大臣片山皋月在被問及新政府債券發行規模是否會控制在40萬億日元左右時，表示注意到首相高市早苗的言論。
-
----
-
-### 2026-09-04 10:21:12  #公司
-
-【臥龍電驅：資料中心市場獲突破 慕帆動力合作專案未來三年訂單預計逾7億元】9月3日，臥龍電驅與上海慕帆動力科技簽署戰略合作協議。根據協議規劃，未來三年雙方預計訂單總額可達7億元以上。據介紹，臥龍電驅旗下臥龍電氣南陽防爆集團的燃氣輪發電機，是分散式能源領域的核心裝備。當前，北美及東南亞資料中心市場對發電裝置需求持續攀升，燃氣輪機組憑藉投資回報快、建設週期短、可快速彌補電力缺口等突出優勢，在資料中心場景中展現出廣闊應用空間。
-
----
-
-### 2026-09-04 10:19:55  #其他
-
-【更多創新藥有望納入醫保報銷】國家醫保局副局長李滔4日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上說，繼續每年調整基本醫保藥品目錄，將更多符合條件的腫瘤、慢性病、罕見病、兒童疾病等重大疾病、重點領域的創新藥納入醫保報銷，並著力推動醫療服務專案和醫用耗材報銷目錄全國統一，進一步縮小地區之間政策差異。（新華社）
-
----
-
-### 2026-09-04 10:19:30  #MKT News #Important
-
-【More innovative drugs likely to be added to basic medical insurance reimbursement】NHSA Deputy Director Li Tao said on Aug 4 at a State Council Information Office briefing that the agency will continue annual adjustments to the basic medical insurance drug list and aim to add more eligible innovative drugs for cancer, chronic, rare and pediatric diseases to reimbursement. He said the NHSA will also push to unify reimbursement lists for medical service items and medical consumables nationwide to further narrow regional policy differences.
-
----
-
-### 2026-09-04 10:19:12  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said he will continue to fully explain the government's position to markets to safeguard credibility.
-
----
-
-### 2026-09-04 10:19:04  #公司 #國際
-
-【利用商船在境外收集情報？中遠海運回應美官員言論：沒有任何事實依據】9月3日，中國遠洋海運集團釋出宣告稱，公司注意到個別外媒援引美國匿名官員說法，稱中遠海運船舶搭載所謂“隱蔽裝置”，用於監聽軍事通訊和收集情報。上述言論沒有任何事實依據，公司對此堅決反對。公司運營船舶配備的通訊、導航、安全及運營相關裝置，均用於航行安全、船岸聯絡、應急響應等正常商業運營，不存在報道所稱利用商船監聽軍事通訊、收集情報等行為。中遠海運堅決反對任何以錯誤的資訊損害企業品牌形象、干擾企業國際化經營的行為，並保留依法維護企業聲譽的權利。
-
----
-
-### 2026-09-04 10:18:27  #國際
-
-日本財務大臣片山：我們已向各國領導人重申，我們的目標是確保財政可持續性。
-
----
-
-### 2026-09-04 10:18:25  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said he has reiterated to global leaders that Japan's goal is to ensure fiscal sustainability.
-
----
-
-### 2026-09-04 10:18:17  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister KATAYAMA said the government will work to steadily reduce the debt-to-GDP ratio.
-
----
-
-### 2026-09-04 10:17:54  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said she will not comment on specific levels.
-
----
-
-### 2026-09-04 10:17:53  #國際
-
-日本財務大臣片山：將致力於穩步降低債務佔GDP的比重。
-
----
-
-### 2026-09-04 10:17:32  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Japan's finance minister Katayama said she is closely monitoring Japan's bond market with a heightened sense of urgency.
-
----
-
-### 2026-09-04 10:17:23  #國際
-
-日本財務大臣片山：不就具體匯率水平置評。
-
----
-
-### 2026-09-04 10:17:12  #MKT News
-
-Japan's finance minister Katayama said interest-rate movements are influenced by a range of market factors.
-
----
-
-### 2026-09-04 10:17:10  #其他
-
-片山：高度重視收益率趨勢。
-
----
-
-### 2026-09-04 10:16:57  #國際
-
-日本財務大臣片山：收益率受多種因素影響。
-
----
-
-### 2026-09-04 10:16:31  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Retreat — The yield on the US 10-year Treasury note held around 4.76% on Friday after pulling back from three-year highs, as traders reduced bets on a Federal Reserve rate hike this month following dovish remarks from a central bank official. Fed Governor Christopher Waller said he would support keeping rates unchanged if price pressures continue to ease, adding that his next policy decision will be heavily influenced by August inflation data due next week. Traders now see roughly a 50% probability of a September rate hike, down from about 63% a day earlier. Investors are also awaiting Friday’s August jobs report for further clues on the Fed’s policy outlook. Meanwhile, oil prices were on track for a strong weekly gain amid ongoing hostilities in the Middle East and heightened uncertainty over shipping through the Strait of Hormuz, keeping inflationary risks in focus.
-
----
-
-### 2026-09-04 10:16:09  #其他
-
-【國家發展改革委推動109項重大工程加快實施】從國家發展改革委舉行的“十五五”規劃《綱要》重大工程建設推進會議上瞭解到，圍繞109項重大工程建設進展，國家發展改革委將加快推進在建專案實施，推動一批新專案儘早開工建設，進一步強化要素保障，壓實專案質量和安全管理責任，形成共同推進重大工程建設合力，為實現“十五五”良好開局提供有力支撐。
 
 ---

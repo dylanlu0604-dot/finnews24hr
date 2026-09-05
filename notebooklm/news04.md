@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-06 04:20:26_
-_本檔包含 2795 則快訊，約 557426 字_
+_更新時間：2026-09-06 06:13:05_
+_本檔包含 2790 則快訊，約 557189 字_
+
+---
+
+### 2026-09-02 03:52:01  #MKT News
+
+Iran’s health ministry said an attack on Kuhistak village in Hormozgan province killed multiple people, including a child, and wounded more than 50; local power and phone services have been cut.
+
+---
+
+### 2026-09-02 03:50:02  #MKT News
+
+Iran's supreme leader said Iran and the axis of resistance have delivered an unforgettable lesson to U.S. enemies.
+
+---
+
+### 2026-09-02 03:48:55  #國際
+
+【俄外交部：將對德國關閉俄駐波恩總領事館作出回應】俄羅斯外交部發言人扎哈羅娃1日表示，俄羅斯將對德國關閉俄駐波恩總領事館作出回應。據塔斯社報道，扎哈羅娃表示，德國方面為其舉措編造了一個藉口。德國外交部長瓦德富爾和內政部長多布林特1日在新聞釋出會上表示，俄羅斯應對8月上旬發生在德東部萊比錫機場的無人機襲擊未遂事件負責，決定於9月18日關閉俄羅斯駐波恩總領事館，同時終止與位於柏林的文化機構“俄羅斯之家”的相關合同。此外，德國將加強對俄公民的入境檢查，並加大對俄“影子艦隊”的施壓力度。（新華社）
+
+---
+
+### 2026-09-02 03:48:38  #國際
+
+伊朗媒體：伊朗已啟動報復行動，已從伊朗境內發射導彈和無人機。
+
+---
+
+### 2026-09-02 03:47:25  #國際
+
+【美軍襲擊已致伊朗霍爾木茲甘省2死多傷】伊朗霍爾木茲甘省政治與安全事務副省長表示，當地時間9月1日晚，錫裡克市一場婚禮儀式遭到襲擊，造成兩人死亡，多人受傷。9月1日晚，伊朗南部格什姆島及霍爾木茲海峽一帶傳出多次爆炸聲。美軍中央司令部表示，美國東部時間9月1日12時，美軍開始打擊伊朗境內伊斯蘭革命衛隊的目標。稍後，伊朗伊斯蘭革命衛隊發表宣告稱，數小時前，美國轟炸了伊朗南部沿海的多個地點，其中包括數個平民場所。宣告還說，伊朗伊斯蘭革命衛隊已開始對侵略者進行反擊，在第一次行動中，利用新型防空系統擊落了入侵美軍的MQ-9無人機。 (央視新聞)
+
+---
+
+### 2026-09-02 03:43:14  #國際
+
+伊朗媒體：美國在阿巴茲市附近發動導彈襲擊。
+
+---
+
+### 2026-09-02 03:41:56  #國際
+
+伊朗方面：約旦境內的穆卡達西空軍基地遭到猛烈打擊，多枚彈道導彈擊中該基地。
+
+---
+
+### 2026-09-02 03:39:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Fars News, citing sources, reported several explosions were heard at a US base in Jordan.
+
+---
+
+### 2026-09-02 03:37:19  #MKT News
+
+Iranian media quoted Khuzestan province deputy security chief saying a site near Ahvaz was struck by a missile attack carried out by a US‑backed terrorist group.
+
+---
+
+### 2026-09-02 03:36:06  #國際
+
+特朗普：支援梅斯·米德爾頓參選得克薩斯州總檢察長。
+
+---
+
+### 2026-09-02 03:35:36  #公司
+
+阿瓦頓與沙特阿美數字公司宣佈達成戰略合作伙伴關係，將在沙烏地阿拉伯及全球範圍內推動工業人工智慧落地發展。
+
+---
+
+### 2026-09-02 03:33:44  #MKT News
+
+Iranian media, citing sources, say explosions were heard inside Jordan.
+
+---
+
+### 2026-09-02 03:32:00  #公司 #國際
+
+亞馬遜旗下Zoox與Alphabet旗下Waymo將自動駕駛計程車服務擴充套件至更多美國城市。
+
+---
+
+### 2026-09-02 03:30:39  #MKT News #Macro & Rates #US Economy
+
+US Treasury Deputy Secretary Aileen Brown said if G20 finance ministers cannot agree on a joint communique, the US will issue a chair's statement reflecting US priorities.
+
+---
+
+### 2026-09-02 03:30:17  #MKT News
+
+U.S. Deputy Treasury Secretary Aileen Brown said trade-surplus and trade-deficit countries disagree on the challenges posed by global imbalances.
+
+---
+
+### 2026-09-02 03:30:13  #MKT News
+
+U.S. Treasury Deputy Secretary Aileen Brown said parties still disagree on wording around sovereign debt restructuring and efforts to reduce global imbalances.
+
+---
+
+### 2026-09-02 03:30:11  #MKT News #Macro & Rates
+
+US Treasury Deputy Secretary Aileen Brown said G20 countries are working on a joint communique, but it must reflect US interests.
+
+---
+
+### 2026-09-02 03:29:57  #國際
+
+美國國家颶風中心（NHC）表示，颶風愛德華已在路易斯安那州約翰遜貝尤附近登陸。
+
+---
+
+### 2026-09-02 03:29:44  #宏觀 #公司 #國際
+
+美國財政部副部長布朗：二十國集團（G20）成員國正全力推進聯合公報磋商，但公報內容必須契合美國利益。
+
+---
+
+### 2026-09-02 03:29:35  #宏觀 #國際
+
+美國財政部副部長布朗：主權債務重組和削減全球失衡方面的措辭仍存在一些分歧。
+
+---
+
+### 2026-09-02 03:29:26  #宏觀 #國際
+
+美國財政部副部長布朗：全球失衡帶來的挑戰方面，順差國與逆差國面臨的狀況存在差異。
+
+---
+
+### 2026-09-02 03:29:10  #宏觀 #國際
+
+美國財政部布朗：若無法達成G20財長公報，美國將釋出反映美國優先事項的主席宣告。
+
+---
+
+### 2026-09-02 03:28:45  #國際
+
+美國防長赫格塞思近期再度削減多名陸軍軍官的晉升名額。
+
+---
+
+### 2026-09-02 03:22:53  #MKT News
+
+According to an internal memo, BofA (BAC.N) security team is fully cooperating with police and addressing ongoing safety and security issues at its offices and for employees.
+
+---
+
+### 2026-09-02 03:22:48  #國際
+
+【美方評估：伊朗計劃擴大襲擊霍爾木茲海峽商船】美國評估認為伊朗正計劃擴大針對商船的襲擊。訊息人士稱，美軍打擊目標為伊朗經由霍爾木茲海峽轉運的武器與軍事裝備。
+
+---
+
+### 2026-09-02 03:22:07  #國際
+
+一份內部備忘錄顯示：美國銀行安保團隊已全面投入配合警方調查，並持續保障銀行辦公場所及員工的安全與安保工作。
+
+---
+
+### 2026-09-02 03:20:51  #國際
+
+市場資訊：德國曾考慮就萊比錫無人機襲擊事件援引北約第4條，但最終放棄該打算。德政府希望避免局勢進一步升級，為俄羅斯若發動更多襲擊時採取更強有力的應對手段留出餘地。
+
+---
+
+### 2026-09-02 03:20:38  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran state TV cited a deputy governor saying a U.S. strike killed at least two people and injured several at a wedding near Sirik, Iran.
+
+---
+
+### 2026-09-02 03:19:51  #國際
+
+伊朗媒體：美國對伊朗錫裡克附近的一場婚禮發動襲擊，造成至少兩人死亡，多人受傷。
+
+---
+
+### 2026-09-02 03:19:18  #國際
+
+伊朗革命衛隊發表宣告稱，美國的打擊將“進一步收緊霍爾木茲海峽的封鎖”。
+
+---
+
+### 2026-09-02 03:19:15  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps said US attacks will only make a blockade of the Strait of Hormuz more entrenched.
+
+---
+
+### 2026-09-02 03:19:07  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran says it fired missiles and drones at US bases】Iran said on Sept. 1 its armed forces had begun operations against the United States, firing missiles and drones at US bases and interests in the region; locations and targets were not immediately known. Multiple explosions were reported earlier near Qeshm Island and the Strait of Hormuz; no casualties or damage have been reported. US Central Command said at 12:00 ET on Sept. 1 US forces began strikes on Islamic Revolutionary Guard Corps targets inside Iran. Iran’s Armed Forces General Staff said it would deliver a devastating strike against US forces in response to US airstrikes on targets in Sistan and Baluchestan and Hormozgan provinces.
+
+---
+
+### 2026-09-02 03:17:23  #國際
+
+聯合國世界衛生組織警告，加沙即將到來的雨季將對當地醫療體系構成威脅。
+
+---
+
+### 2026-09-02 03:16:23  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Al Jazeera cited local Iranian officials saying a US strike on Jiroft airport caused no casualties and only minor damage.
+
+---
+
+### 2026-09-02 03:16:06  #國際
+
+【伊朗方面稱擊落一架美國MQ-9無人機】據伊朗方面當地時間9月1日晚訊息，一架美國MQ-9無人機被伊朗新型防禦系統在霍梅恩上空擊落。霍梅恩位於伊朗中央省，距離伊朗重要城市阿拉克約70公里。（央視新聞）
+
+---
+
+### 2026-09-02 03:14:31  #其他
+
+當地官員：美軍襲擊吉羅夫特機場，無人員傷亡，損毀程度輕微。
+
+---
+
+### 2026-09-02 03:14:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The Islamic Revolutionary Guard Corps said a US strike would only strengthen security in the Strait of Hormuz, that Iran has begun retaliatory actions, and that in the first phase it used a new air-defence system to shoot down the US military's 50th advanced MQ-9 drone.
+
+---
+
+### 2026-09-02 03:13:34  #國際
+
+美國一名官員表示，針對伊朗的襲擊仍在持續。
+
+---
+
+### 2026-09-02 03:12:24  #市場 #國際
+
+【歐洲天然氣期貨價格升至2023年以來最高水平】隨著美國對伊朗發動新一輪打擊，歐洲天然氣基準期貨價格飆升至2023 年1月以來最高水平。作為歐洲天然氣基準的荷蘭近月期貨價格上漲5.9%，至每兆瓦時73.95歐元。
+
+---
+
+### 2026-09-02 03:11:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Hormozgan provincial governor's office accused US hostile forces of a brutal incursion into Iranian territory, saying they struck a residential area in Kostak and again committed war crimes in Hormozgan Province.
+
+---
+
+### 2026-09-02 03:10:34  #國際
+
+伊朗南部恰巴哈爾地區再次發生爆炸。
+
+---
+
+### 2026-09-02 03:08:57  #其他
+
+訊息人士稱，颶風逼近期間，莫蒂瓦、埃克森美孚及道達爾能源位於東得克薩斯州的煉油廠產量維持不變。
+
+---
+
+### 2026-09-02 03:08:38  #國際
+
+伊朗方面：今晚一套新型國家防禦系統首次完成測試，成功擊落一架美軍無人機。
+
+---
+
+### 2026-09-02 03:07:56  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Mehr news agency reported tonight that Iran's new air-defense system conducted its first successful test, shooting down a US drone.
+
+---
+
+### 2026-09-02 03:07:34  #宏觀 #國際
+
+美國與伊朗近期衝突襲擊事件增多後，美國國務院向中東地區各大使館釋出新的安全警報。
+
+---
+
+### 2026-09-02 03:06:12  #國際
+
+俄羅斯大使館：德國有關莫斯科策劃萊比錫機場無人機襲擊未遂事件的說法“毫無依據、十分荒謬”，並指出這是一場挑釁，迎合了烏克蘭、“歐洲精英階層中的軍國主義派系以及軍火商”的利益。相關指控實施制裁是一次“前所未有的升級”，俄方“不會就此善罷甘休”。
+
+---
+
+### 2026-09-02 03:05:11  #宏觀
+
+英國財政部副部長雷諾茲稱，緩解全球失衡是一項敏感議題，英國將審慎應對。
+
+---
+
+### 2026-09-02 03:04:08  #MKT News #WTI #Impact bullish #Brent
+
+Saudi outlet Alhadath reports a US assessment that Iran had planned to expand attacks on commercial vessels.
+
+---
+
+### 2026-09-02 03:03:55  #觀點
+
+【富國銀行加入摩根大通行列 對美股後市表現持謹慎看法】富國銀行成為本週第二家對美股轉趨謹慎的銀行。隨著市場進入歷史上表現最差的月份之一，加之中期選舉給人工智慧交易增添不確定性，富國對9月美股前景發出警告。由首席股票策略師Ohsung Kwon領銜的富國銀行分析師團隊表示，投資者越來越擔心AI投資熱潮能否持續，進入9月後市場將呈現“普遍謹慎”的情緒。團隊預計，圍繞AI基礎設施建設資本開支的擔憂將達到高點。不過，他們指出，經歷8月中旬拋售後，情緒指標仍是正面多於負面。
+
+---
+
+### 2026-09-02 03:03:36  #MKT News #WTI #Impact bullish #Brent
+
+【Explosions reported across southern Iran; airport and Persian Gulf energy hub struck】Local time Sept. 1, multiple explosions were reported in southern Iran. Around 21:28 blasts were heard at Bandar Abbas port, Qeshm Island and Lavan Island. Iranian sources said U.S. forces struck Jiroft airport in Kerman province at about 21:40; Jiroft is roughly 200 km from the provincial capital Kerman. Later that evening explosions were also reported at Asaluyeh port, a major Persian Gulf energy hub.
+
+---
+
+### 2026-09-02 03:03:24  #國際
+
+【伊朗多地再次傳出爆炸聲 機場和能源樞紐遭襲】據總檯記者訊息，當地時間9月1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。伊朗方面還有訊息稱，1日21時40分左右，美軍襲擊伊朗吉羅夫特機場。吉羅夫特位於伊朗克爾曼省，距離該省省會城市克爾曼200公里左右。據悉，當日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港也傳出爆炸聲。（央視新聞）
 
 ---
 
@@ -16510,341 +16816,5 @@ Amazon Web Services (AWS) and Microsoft Azure (MSFT.O) to expand multi-cloud net
 ### 2026-09-01 02:33:54  #MKT News #Commodities #Energy #WTI #Impact bullish
 
 U.S. crude futures (WTI) settled at $85.76/bbl, up $2.36 or 2.83%.
-
----
-
-### 2026-09-01 02:33:34  #國際
-
-航運追蹤機構TankerTrackers資料：過去28天，阿拉伯國家原油每日有692萬桶經由美國海軍封鎖線外運。其中，253萬桶/日來自阿曼灣沿岸石油終端；另外439萬桶/日經霍爾木茲海峽運出，主要轉運給在阿曼灣等候的其他油輪。
-
----
-
-### 2026-09-01 02:32:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 1.88% to 960 yuan/gram; SHFE silver most-active contract fell 2.74% to 16,212 yuan/kg; SC crude oil most-active contract rose 3.06% to 637 yuan/barrel.
-
----
-
-### 2026-09-01 02:32:28  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed the Aug 31 (Mon) evening session down 1.16% at 957.7 yuan/gram; silver T+D closed down 1.78% at 16,150 yuan/kg.
-
----
-
-### 2026-09-01 02:30:51  #市場 #國際
-
-美國原油期貨收於每桶85.76美元，上漲2.36美元，漲幅2.83%。
-
----
-
-### 2026-09-01 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Increases by 2.21% — Top crypto gainers are Ether (2.21%), XRP (1.74%) and Bitcoin (1.55%).
-
----
-
-### 2026-09-01 02:30:03  #市場
-
-上期所原油期貨夜盤收漲3.06%，報637.20元人民幣/桶。滬金夜盤收跌1.88%，滬銀收跌2.74%。
-
----
-
-### 2026-09-01 02:29:33  #國際
-
-伊朗外長阿拉格齊在吉爾吉斯斯坦舉行的上合峰會首日會後表示，全部會晤與會談“務實高效，擺脫了常規的繁文縟節”，各方探討了經濟及其他領域可開展合作的議題與方向。
-
----
-
-### 2026-09-01 02:27:31  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Court records show more than 20 U.S. states have joined the Federal Trade Commission's lawsuit against Amazon (AMZN.O).
-
----
-
-### 2026-09-01 02:26:40  #公司 #焦點 #國際
-
-法庭檔案顯示，美國已有超過20個州加入了美國聯邦貿易委員會針對亞馬遜公司的訴訟。
-
----
-
-### 2026-09-01 02:26:29  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Court records show the U.S. Federal Trade Commission filed suit against Amazon (AMZN.O).
-
----
-
-### 2026-09-01 02:25:45  #公司 #焦點 #國際
-
-法庭檔案顯示，美國聯邦貿易委員會起訴亞馬遜公司。
-
----
-
-### 2026-09-01 02:25:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cotton Gains by 2.03% — Top commodity gainers are Cotton (2.03%), Cocoa (1.81%) and Sugar (1.31%). Biggest losers are Oat (-1.97%) and Canola (-1.34%).
-
----
-
-### 2026-09-01 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Gains by 3.59% — Top commodity gainers are Lithium Carbonate (3.59%) and Silicon (0.86%). Biggest losers are Platinum (-3.36%), Titanium (-2.25%), Steel Rebar (-0.67%) and Gold (-0.47%).
-
----
-
-### 2026-09-01 02:18:51  #國際
-
-美國醫療保險和醫療補助服務中心（CMS）：將為阿肯色州農村醫院提供資金，用於升級救護車、拓展遠端醫療服務並安裝應急發電機
-
----
-
-### 2026-09-01 02:17:38  #MKT News
-
-【Birame Diop sworn in as ECOWAS Commission chair】Former Senegal defence minister Birame Diop was sworn in as chair of the Economic Community of West African States (ECOWAS) Commission in Abuja on Aug. 31 (local time).
-
----
-
-### 2026-09-01 02:17:30  #市場 #焦點
-
-比特幣升破79000美元，日內漲1.77%。
-
----
-
-### 2026-09-01 02:17:12  #國際
-
-特朗普政府宣佈撥款1.493億美元，用於在阿肯色州農村地區擴充套件遠端醫療，並增加專科護理和預防性篩查的可及性。
-
----
-
-### 2026-09-01 02:16:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News reported Iran's transport minister said several pilots were attacked while conducting medicine-transport missions during the war.
-
----
-
-### 2026-09-01 02:16:03  #其他
-
-【比拉梅·迪奧普就任新一屆西共體委員會主席】當地時間8月31日，塞內加爾武裝力量部前部長比拉梅·迪奧普在奈及利亞首都阿布賈宣誓就任新一屆西非國家經濟共同體（西共體）委員會主席。
-
----
-
-### 2026-09-01 02:15:09  #國際
-
-美國交通部長達菲：特朗普政府即將宣佈大幅降低車輛燃油經濟性標準的訊息。
-
----
-
-### 2026-09-01 02:15:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Rallies by 7.49% — Top commodity gainers are Methanol (7.49%), Natural Gas EU (4.95%), Propane (4.53%), Crude Oil WTI (2.65%) and Brent Crude Oil (2.59%).
-
----
-
-### 2026-09-01 02:14:35  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-U.S. Transportation Secretary Duffy said the Trump administration will soon announce a substantial rollback of U.S. vehicle fuel-economy standards.
-
----
-
-### 2026-09-01 02:09:38  #國際
-
-日本爭取SK海力士赴日建廠的計劃遭遇韓國政策層面阻礙。
-
----
-
-### 2026-09-01 02:09:10  #MKT News #Market Themes #Chip Wars #Market Regions #Japan & APAC #SKHY.O #Impact mixed
-
-Nikkei reports Japan’s Miyagi prefecture is courting SK Hynix (SKHY.O) to build an advanced memory chip fab locally, but faces U.S. competition for the investment and South Korean concerns over technology leakage.
-
----
-
-### 2026-09-01 02:08:36  #國際
-
-【美大峽谷國家公園山洪已致兩人死亡 超14人失聯】美國國家公園管理局8月31日證實，位於亞利桑那州的大峽谷國家公園8月29日突發山洪，已造成至少兩人死亡。目前仍有至少14人被該局列為可能失聯或下落不明人員。
-
----
-
-### 2026-09-01 02:07:38  #公司 #國際
-
-【美國聯邦貿易委員會擬提起訴訟，指控亞馬遜欺騙廣告主】美國聯邦貿易委員會計劃於週一對亞馬遜提起訴訟，指控這家電商巨頭操縱商家在其零售平臺投放廣告的付費價格，七年間藉此獲取數百億美元收益。本次訴訟由20多個州跨黨派總檢察長聯合參與，將在西雅圖聯邦法院立案。聯邦貿易委員會官員稱，訴狀指控亞馬遜隱瞞廣告最低出價的調整行為，以此欺騙廣告投放商。這是該消費者保護監管機構針對亞馬遜發起的第三起重大案件。
-
----
-
-### 2026-09-01 02:06:24  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
-
-Axios reports Trump is considering limited strikes on Iran to deter attacks in the Strait of Hormuz.
-
----
-
-### 2026-09-01 02:05:45  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-【FTC plans suit accusing Amazon of manipulating ad prices, extracting tens of billions over seven years】The US Federal Trade Commission plans to file suit on Monday accusing Amazon of secretly manipulating ad-auction pricing since 2018 and deceiving advertisers, extracting tens of billions of dollars over seven years. The complaint, joined by more than 20 state attorneys general, will be filed in federal court in Seattle. FTC alleges Amazon changed its auction strategy by entering a hidden “soft floor” minimum above the second-highest bid, driving up advertiser payments; advertisers reportedly suffered billions in losses and states may seek recovery. Amazon operates the world’s third-largest digital ad platform; ad revenue was $68bn in 2025. This is the FTC’s third major case against Amazon — the company paid $2.5bn to settle a Prime-related suit last year and faces a separate antitrust trial next year.
-
----
-
-### 2026-09-01 02:04:42  #其他
-
-The Trade Desk（TTD）股價漲幅迅速擴大至4%。
-
----
-
-### 2026-09-01 02:04:18  #焦點 #國際
-
-特朗普正在考慮對伊朗進行有限打擊。
-
----
-
-### 2026-09-01 02:03:42  #MKT News
-
-US Navy said the nuclear-powered submarine USS North Dakota completed maintenance and upgrades and rejoined the fleet ahead of schedule on Aug. 29, returning to operational status.
-
----
-
-### 2026-09-01 02:03:31  #國際
-
-伊朗外長：美國必須迴歸諒解備忘錄，方能擺脫當前局勢。
-
----
-
-### 2026-09-01 02:03:30  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) slid more than 3% to an intraday low.
-
----
-
-### 2026-09-01 02:03:24  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Wall Street Journal reports U.S. Federal Trade Commission officials said they plan to file suit against Amazon (AMZN.O) on Monday.
-
----
-
-### 2026-09-01 02:02:41  #公司 #焦點 #國際
-
-美國聯邦貿易委員會及二十餘州將指控亞馬遜透過操縱其零售平臺上的廣告價格謀取數十億美元收益。
-
----
-
-### 2026-09-01 02:02:08  #公司 #市場 #焦點
-
-亞馬遜迅速擴大跌幅，下跌3.5%，創盤中新低。
-
----
-
-### 2026-09-01 02:01:53  #國際
-
-美國聯邦貿易委員會將聯合20個州總檢察長共同提起該訴訟。
-
----
-
-### 2026-09-01 02:01:27  #公司 #國際
-
-美國聯邦貿易委員會將於週一起訴亞馬遜。
-
----
-
-### 2026-09-01 02:00:35  #公司 #焦點 #國際
-
-美國聯邦貿易委員會（FTC）擬提起訴訟，指控亞馬遜欺騙廣告投放商。
-
----
-
-### 2026-09-01 01:59:10  #MKT News
-
-Poland said it intercepted a Russian reconnaissance aircraft in the Baltic Sea, Saudi broadcaster Al Arabiya reported.
-
----
-
-### 2026-09-01 01:58:04  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Axios reports US President Trump asked Apple (AAPL.O) to rename Lake Ontario on its maps to "Lake America".
-
----
-
-### 2026-09-01 01:57:23  #公司 #國際
-
-俄羅斯財長重返二十國集團（G20）會議，引發歐洲方面抗議。
-
----
-
-### 2026-09-01 01:55:07  #國際
-
-海灣合作委員會（海合會）譴責伊朗對約旦發動襲擊，稱此類行動如若持續，將對地區安全與穩定構成直接威脅。
-
----
-
-### 2026-09-01 01:54:28  #公司 #國際
-
-雪佛龍、印度石油天然氣公司、埃尼、通用電氣沃諾瓦以及Geopark公司正接近與委內瑞拉敲定最終能源協議。依據該國修訂後的油氣法，這些交易有望擴大石油產量、出口規模，並落地各類新能源專案。
-
----
-
-### 2026-09-01 01:52:13  #國際
-
-美國國家颶風中心（NHC）表示，熱帶低壓已在墨西哥灣北部生成，德克薩斯州上部及路易斯安那州西南部部分海岸已生效熱帶風暴預警。
-
----
-
-### 2026-09-01 01:50:55  #MKT News
-
-The Office of Iran's Supreme Leader said Iran will pardon, reduce sentences for, or re-sentence 2,577 convicts.
-
----
-
-### 2026-09-01 01:48:54  #其他
-
-【東南歐國家代表開啟中國之行】第三屆東南歐9國（前）政要、青年領袖中國鄉村行活動31日在北京拉開帷幕。當天，20多名外賓深入走訪北京多地，感受鄉村振興的強勁動能及新興產業的蓬勃發展態勢。（新華社）
-
----
-
-### 2026-09-01 01:48:33  #其他
-
-巴西大法官託福利暫停總統預選候選人雷南·桑托斯競選廣告投放。
-
----
-
-### 2026-09-01 01:47:19  #MKT News
-
-Kyiv mayor said debris from a drone fell by the roadside in the Holosiivskyi district; emergency services have been dispatched to the scene.
-
----
-
-### 2026-09-01 01:42:07  #MKT News
-
-Photos released by the Israeli Prime Minister's Office show Prime Minister Netanyahu meeting Mossad director Roman Gofman at Mossad headquarters.
-
----
-
-### 2026-09-01 01:40:13  #國際
-
-伊朗武裝部隊總參謀部與哈塔姆‑安比亞中央總部：儘管部分地區國家作出保證，但美國仍利用其領土與領空對伊朗實施打擊，無視此前發出的警告。
-
----
-
-### 2026-09-01 01:40:07  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Nikkei reports Japan is seeking to host the Secretariat of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).
-
----
-
-### 2026-09-01 01:37:37  #MKT News #Market Themes #AI Revolution
-
-Nscale completed approximately $3 bln of financing for AI deployment projects in Ward and Madison counties, Texas.
-
----
-
-### 2026-09-01 01:37:13  #公司 #國際
-
-隨著美國國家航空航天局南希·格蕾絲·羅曼空間望遠鏡發射升空，泰雷茲公司已實現太空在軌科學成像感測器數量突破1000臺。
-
----
-
-### 2026-09-01 01:36:25  #其他
-
-Nscale：北卡羅來納州麥迪遜縣專案獲得最高12億美元貸款授信額度。
-
----
-
-### 2026-09-01 01:36:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's armed forces warned they will deliver 'far beyond proportionate' retaliation against any attack launched using regional states' territory, airspace or waters. They said the US military has no choice but to withdraw from the region.
 
 ---
