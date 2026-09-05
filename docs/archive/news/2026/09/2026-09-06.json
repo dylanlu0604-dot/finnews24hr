@@ -1,7 +1,37 @@
 {
   "date": "2026-09-06",
-  "count": 114,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:01a07336-0626-7118-84b4-852d27691670",
+      "time": "2026-09-06 04:15:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said the country has raised oil export capacity to more than 3.0 mln barrels per day."
+    },
+    {
+      "id": "5078937",
+      "time": "2026-09-06 04:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示，伊拉克已將石油出口能力提升至每日300萬桶以上。"
+    },
+    {
+      "id": "5078936",
+      "time": "2026-09-06 04:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國初創公司Isar Aerospace的無人運載火箭從挪威發射基地發射升空。"
+    },
     {
       "id": "mkt:01a07330-bcb7-7118-84b4-7c71fbbc1c4a",
       "time": "2026-09-06 04:09:28",

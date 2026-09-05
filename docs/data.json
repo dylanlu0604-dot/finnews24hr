@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-06 04:12:30",
-  "count": 14213,
+  "updated": "2026-09-06 04:16:23",
+  "count": 14215,
   "items": [
+    {
+      "id": "mkt:01a07336-0626-7118-84b4-852d27691670",
+      "time": "2026-09-06 04:15:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said the country has raised oil export capacity to more than 3.0 mln barrels per day."
+    },
+    {
+      "id": "5078937",
+      "time": "2026-09-06 04:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示，伊拉克已將石油出口能力提升至每日300萬桶以上。"
+    },
+    {
+      "id": "5078936",
+      "time": "2026-09-06 04:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國初創公司Isar Aerospace的無人運載火箭從挪威發射基地發射升空。"
+    },
     {
       "id": "mkt:01a07330-bcb7-7118-84b4-7c71fbbc1c4a",
       "time": "2026-09-06 04:09:28",
@@ -130117,14 +130147,6 @@
         "其他"
       ],
       "text": "馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。"
-    },
-    {
-      "id": "mkt:01a04f27-5ab9-7118-83fb-96fcd1b3b78e",
-      "time": "2026-08-30 04:12:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Channel 12: Shin Bet says it urgently evacuated Netanyahu's eldest son from the U.S.】Channel 12 TV reported on 29, citing the Israel Security Agency (Shin Bet), that Shin Bet agents urgently evacuated Prime Minister Benjamin Netanyahu's eldest son Yair from Miami to Israel after assessing he faced a significant security threat. Shin Bet did not detail the threat. The report said agents were reassigned from President Isaac Herzog's New York detail to Miami to carry out the operation. Yair Netanyahu has long lived in Miami and is a prominent supporter of his father; his brother Avner lives in Israel."
     }
   ]
 }
