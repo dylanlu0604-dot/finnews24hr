@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-05 08:38:13",
+  "updated": "2026-09-05 09:57:00",
   "items": [
+    {
+      "id": "2026090509",
+      "date": "2026-09-05",
+      "run_hour": 9,
+      "started_at": "2026-09-05 09:56:45",
+      "finished_at": "2026-09-05 09:57:00",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 3,
+      "failure_count": 9,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "investrade"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "jin10",
+        "fx678",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉非農意外強勁、升息機率衝破五成 三大指數盡墨、記憶體股逆勢大漲 | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6598266",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-05"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-09-04",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=waTavkMSbBA! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. Ways to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-04",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "jin10 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "fx678",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-september-04-2026/",
+          "expected_date": "2026-09-04",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "westpac",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "westpac 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260905.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-05",
+          "actual_date": "2026-09-04"
+        }
+      ]
+    },
     {
       "id": "2026090508",
       "date": "2026-09-05",
