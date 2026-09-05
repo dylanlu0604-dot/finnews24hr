@@ -1,7 +1,396 @@
 {
   "date": "2026-09-05",
-  "count": 875,
+  "count": 919,
   "items": [
+    {
+      "id": "5078842",
+      "time": "2026-09-05 23:06:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海口：購房人擁有住房套數計算範圍從全省改為本市】海口市住房和城鄉建設局釋出關於促進房地產市場平穩健康發展若干措施的通知，推出七條樓市新政，涵蓋落戶購房、企業員工購房、多孩家庭增購、“以舊換新”、套數計算範圍調整等多項內容。其中提出，為滿足居民就業、求學、康養等住房需求，購房人擁有住房套數的計算範圍從全省改為本市。"
+    },
+    {
+      "id": "5078839",
+      "time": "2026-09-05 23:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI“Astra”模型所用技術引發安全隱患】OpenAI表示，其即將推出的Astra模型在程式碼編寫、電腦端應用操作等能力方面實現升級。但一名瞭解Astra研發情況的人士稱，一項提升模型效能的創新技術，會導致該模型以及同類模型更少暴露自身“思考過程”，增大識別其不良行為的監控難度。儘管該缺陷對Astra本身未必屬於重大問題，但這項技術已在OpenAI內部以及整個行業引發擔憂：倘若AI開發者採納並大幅強化該技術，或將難以防範近期入侵過OpenAI、Hugging Face等企業系統的失控AI。"
+    },
+    {
+      "id": "5078836",
+      "time": "2026-09-05 22:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度藥品監管機構：德里警方已就Abhayrab狂犬病疫苗一案逮捕四人。"
+    },
+    {
+      "id": "5078835",
+      "time": "2026-09-05 22:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度藥品監管機構釋出了關於狂犬病疫苗Abhayrab的宣告：有質量問題批次的產品未出口至任何其他國家。"
+    },
+    {
+      "id": "5078829",
+      "time": "2026-09-05 22:55:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府譴責蒙面反移民抗議者封鎖多佛港】英國政府譴責蒙面反移民抗議者，這些抗議者封鎖通往多佛港的道路，擾亂客運與貨運交通。港口所有通道曾臨時關閉，造成約4英里長的交通擁堵，之後道路恢復通行；警方持續處置這起公共秩序事件。"
+    },
+    {
+      "id": "5078828",
+      "time": "2026-09-05 22:54:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【對話復宏漢霖朱儁：AI不只是效率工具，還將成為重塑新藥研發的決定性力量】9月5日晚間訊息，2026年亞布力論壇夏季年會於9月4-6日在成都召開。會議期間，新浪科技與復宏漢霖執行董事、執行長朱儁博士開展對話。在AI對新藥研發的影響方面，朱儁認為，AI不止能縮短研發週期，還能夠成為新藥研發的決定性力量。（新浪科技）"
+    },
+    {
+      "id": "5078824",
+      "time": "2026-09-05 22:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電氣（NEC）：（量子計算機）開發週期過長，無法獲得投資回報。"
+    },
+    {
+      "id": "5078823",
+      "time": "2026-09-05 22:51:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【27家上市城農商行中報掃描：25家實現淨利增長 15家淨息差同比下降】隨著2026年半年報披露收官，A股27家上市城商行、農商行上半年業績情況已全部出爐。整體來看，上市城農商行上半年盈利保持增長，27家銀行中有25家歸母淨利潤實現同比增長，平均增速為5.23%。不過，營收表現分化較為明顯，平均增速為5.37%。"
+    },
+    {
+      "id": "5078822",
+      "time": "2026-09-05 22:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐巴林大使館釋出安全警報，敦促該地區美國公民“提高警惕”。"
+    },
+    {
+      "id": "mkt:01a0720c-7b50-7118-84b2-ea62dcf486d4",
+      "time": "2026-09-05 22:50:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi outlet Al-Hadath cites Yemeni military sources saying Yemeni armed forces continue to advance on the west-coast front."
+    },
+    {
+      "id": "mkt:01a0720c-1a67-7118-84b2-e42bfdbc0fea",
+      "time": "2026-09-05 22:49:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tanker-tracking firm Tankertrackers said a lifeboat was launched before a US military strike on the tanker NOXEN (formerly KYLO), suggesting the crew were not aboard and may have received advance warning."
+    },
+    {
+      "id": "5078821",
+      "time": "2026-09-05 22:49:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林與埃及兩國外交部長討論霍爾木茲海峽航運受阻問題。"
+    },
+    {
+      "id": "5078820",
+      "time": "2026-09-05 22:48:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川發生泥石流災害 消防救援人員趕赴現場開展救援】9月5日，受颱風“沙德爾”帶來的連日強降雨影響，江西吉安市遂川縣高坪鎮明坑村石下組發生泥石流災害，12棟房屋損毀，11人失聯。7時30分，吉安市消防救援支隊指揮中心立即調派4站9車45人、搜救犬2條，攜帶偵察、搜救、通訊等裝備，作為前突分隊快速趕赴災區。（央視新聞）"
+    },
+    {
+      "id": "5078819",
+      "time": "2026-09-05 22:46:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【研究：受高溫影響 德國水資源量減少】德國亥姆霍茲地球科學中心日前釋出的研究報告顯示，近幾個月以來，該國水資源量緊張情況進一步加重，高溫是造成這一現象的主要原因。據德新社5日報道，亥姆霍茲地球科學中心3日公佈了最新研究報告。該機構與德國航空航天中心、美國國家航空航天局合作，透過衛星資料監測地表及地下水資源量，以計算其變化。資料顯示，德國水資源量自2015年以來便呈現下降趨勢，今年6月的水資源量較長期平均水平減少約250億噸。（新華社）"
+    },
+    {
+      "id": "5078818",
+      "time": "2026-09-05 22:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電氣（NEC）已叫停自研量子計算機的研發工作。"
+    },
+    {
+      "id": "5078817",
+      "time": "2026-09-05 22:43:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【對話地平線餘凱：征程晶片量產突破1500萬，高興2秒鐘就翻篇了】9月5日晚間訊息，2026年亞布力論壇夏季年會於9月4-6日在成都舉辦。開幕會上，地平線創始人&CEO餘凱受邀擔任亞布力論壇新任理事。在與新浪科技溝通中，餘凱談及新任理事的感受時直言：“新晉理事，還是要聽理事會的，要多做貢獻”。 兩天前，地平線宣佈征程®智駕晶片量產突破1500萬，量產規模與市場份額領跑國內智駕晶片市場。據悉，目前地平線征程®智駕晶片已累計賦能800萬車主，與超40個品牌達成合作。 開幕式分享環節，餘凱坦言，“希望明年在國內汽車行業自動駕駛晶片市場超越英偉達，成為第一。” 對於征程®智駕晶片量產突破1500萬，餘凱在與新浪科技溝通中笑道：“高興了兩秒鐘，就過了、翻篇了，永遠在路上，有1500萬，就有2000萬”。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a07204-9b8a-7118-84b2-deb294fa2ced",
+      "time": "2026-09-05 22:41:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC expects Lowell to turn north on Sunday and to approach the western Hawaiian Islands on Monday; Hawaiian stakeholders should monitor developments closely."
+    },
+    {
+      "id": "5078816",
+      "time": "2026-09-05 22:40:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統說願暫停對莫斯科空中打擊】今天（9月5日），烏克蘭總統澤連斯基表示，剛剛與美國總統的代表通話，從當天這次通話開始，烏方願意遵守對參與談判程序城市實施空中打擊停火安排。從當天起至週一（9月7日），烏克蘭願意停止對莫斯科的襲擊，並希望俄羅斯方面也停止對基輔的襲擊。他同時說，明天在基輔舉行、由美國團隊參加的外交活動計劃已經確定，烏方正等待美國總統特使威特科夫和庫什納，並準備進行有實質內容的會談。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a07203-e982-7118-84b2-d7b0cf586bd6",
+      "time": "2026-09-05 22:40:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "NHC said Hurricane Karina is expected to rapidly weaken early next week."
+    },
+    {
+      "id": "5078815",
+      "time": "2026-09-05 22:37:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛分析師建議投資者把握近期股價回撥機會逢低佈局，5只“買入”評級標的：阿里巴巴、Burlington Stores（折扣服飾零售商）、Ulta Beauty（美妝零售）、Aecom（工程基建）、Viking Holdings（豪華郵輪）。"
+    },
+    {
+      "id": "5078814",
+      "time": "2026-09-05 22:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技部部長陰和俊訪問墨西哥並出席中國—墨西哥政府間常設委員會科技分委會第九次會議】據科技部訊息，2026年9月2日—4日，應墨西哥科學、人文、技術和創新部部長魯伊斯邀請，科技部部長陰和俊率團訪問墨西哥，並在墨西哥城共同主持召開中墨政府間常設委員會科技分委會第九次會議。會上，雙方回顧了科技分委會第八次會議以來取得的成效，交流了兩國科技發展戰略和政策，探討了下一步中墨科技創新合作的優先領域方向並達成共識。會後，雙方簽署《中華人民共和國科學技術部與墨西哥合眾國科學、人文、技術和創新部關於科技創新合作的諒解備忘錄》及科技分委會會議紀要。"
+    },
+    {
+      "id": "5078812",
+      "time": "2026-09-05 22:27:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【希臘飛行表演發生墜機2人死】今天（9月5日），在希臘塔納格拉空軍基地舉行的“雅典飛行周”活動上，一架希臘空軍的F-4E“鬼怪”Ⅱ型戰鬥機在飛行表演中墜毀。機上兩名飛行員未能彈射逃生，已確認死亡。事故原因正在調查中。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a071f5-823e-7118-84b2-cc4188938f62",
+      "time": "2026-09-05 22:25:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Zelenskiy said Ukraine, starting with the call, is prepared to honor an agreement to halt air strikes on cities taking part in talks. He said Ukraine is ready to stop strikes on Moscow from now through the end of Saturday and on Sunday and Monday, and hopes Russia will reciprocate by halting strikes on Kyiv."
+    },
+    {
+      "id": "mkt:01a071f5-2c0a-7118-84b2-c1c503404323",
+      "time": "2026-09-05 22:24:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he had just spoken by phone with the U.S. president's envoy and that they began talks with Russia today."
+    },
+    {
+      "id": "5078811",
+      "time": "2026-09-05 22:23:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱與美國總統特使通電話，將停止襲擊莫斯科三天】烏克蘭總統澤連斯基：我剛剛與美國總統特使通了電話。他們今天已經開始與俄方會談。從通話開始，我們準備遵守對參與談判程序的城市停止空襲的協議。從現在到週六結束，以及週日和週一，烏克蘭準備停止對莫斯科的空襲，我們也希望俄方對基輔採取同樣的措施。"
+    },
+    {
+      "id": "5078810",
+      "time": "2026-09-05 22:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯稱“和平委員會”報告“與事實不符”】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）5日發表宣告說，“和平委員會”日前關於加沙地帶局勢的一份報告內容“與事實不符”。哈馬斯呼籲該委員會保持客觀平衡立場。哈馬斯發言人哈齊姆·卡西姆在宣告中說，“和平委員會”在社交媒體上釋出的報告站在了“不利於巴勒斯坦人民及其抵抗運動”的立場，未能對當前局勢作出平衡全面的陳述。卡西姆呼籲“和平委員會”避免採取“以色列敘事”，不要釋出損害巴勒斯坦各方利益的內容。他強調，加沙地帶約兩百萬居民目前仍面臨停火協議屢遭違反、平民持續遭襲以及極為嚴峻的人道主義狀況。美國發起的“和平委員會”4日釋出報告稱，“哈馬斯接受了委員會的要求”，並稱加沙應在未來十年成為巴勒斯坦自治的典範，使以色列等各方確信巴勒斯坦的核心追求在於自由與繁榮，而非毀滅以色列。"
+    },
+    {
+      "id": "5078809",
+      "time": "2026-09-05 22:19:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊朗計劃在高流量車隊中擴大液化石油氣（LPG）與壓縮天然氣（CNG）的使用，同時佩澤希齊揚呼籲推行漸進、透明的能源改革，並出臺更有力的燃油節約措施。"
+    },
+    {
+      "id": "5078808",
+      "time": "2026-09-05 22:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚呼籲，在戰爭與制裁背景下加大打擊燃油走私力度、實施智慧化監控，並提升能源抗風險能力。"
+    },
+    {
+      "id": "5078807",
+      "time": "2026-09-05 22:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據訊息人士透露，美國國防部發言人肖恩·帕內爾是國防部長皮特·赫格塞思屬意的下一任陸軍部長人選，他是該職位的至少四位候選人之一。"
+    },
+    {
+      "id": "mkt:01a071ec-81be-7118-84b2-bc21fba476f9",
+      "time": "2026-09-05 22:15:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU sends Frontex patrol vessel to English Channel to support French migrant SAR】The European Border and Coast Guard Agency (Frontex) said it has for the first time deployed a patrol vessel to the English Channel to support French search-and-rescue operations for overloaded migrant boats. The vessel, provided by the Spanish Civil Guard, began operating this week near the French coast and will work with Frontex reconnaissance aircraft that have been deployed over the Channel since 2021. Frontex said the ship’s mandate is limited to supporting French SAR — not intercepting migrants — and will detect, identify and track small boats and relay real-time information to French authorities. Additional vessels from other EU member states are scheduled to join the operation in coming months."
+    },
+    {
+      "id": "5078803",
+      "time": "2026-09-05 22:11:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破96美元，日內漲超2.6%。"
+    },
+    {
+      "id": "5078795",
+      "time": "2026-09-05 22:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱摧毀伊朗革命衛隊三艘油輪】美國中央司令部今天（9月5日）發宣告稱，“在伊朗伊斯蘭革命衛隊向兩艘在地區水域巡邏的美軍艦船發射彈道導彈後，美國中央司令部部隊對三艘伊朗原油運輸船實施了打擊。” 宣告稱，“美軍一艘航空母艦和一艘導彈驅逐艦成功規避了伊朗方面多次發起的攻擊，沒有美國人員傷亡。在伊朗的攻擊失敗後，美軍打擊使哈爾克島海岸附近的革命衛隊原油運輸船‘唐尼’號、賈斯克附近的‘斯塔克1’號永久癱瘓。美軍還在阿曼灣徹底摧毀了空載的原油運輸船“凱洛”號（也被稱為“諾克森”號），在船員被指示棄船後，美軍對該船多個關鍵部位進行了打擊，使其無法運作。” （CCTV國際時訊）"
+    },
+    {
+      "id": "5078787",
+      "time": "2026-09-05 21:58:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：7月埃及M2廣義貨幣供應量同比增長17.5%。"
+    },
+    {
+      "id": "5078782",
+      "time": "2026-09-05 21:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊三艘伊朗油輪】美國中央司令部今天（9月5日）發宣告稱，“在伊朗伊斯蘭革命衛隊向兩艘在地區水域巡邏的美軍艦船發射彈道導彈後，美國中央司令部部隊對三艘伊朗原油運輸船實施了打擊。”（CCTV國際時訊）"
+    },
+    {
+      "id": "5078777",
+      "time": "2026-09-05 21:49:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳華科技與晉控電力簽署“雙碳”智慧體應用戰略合作協議】據佳華科技訊息，9月4日，太原能源低碳發展論壇“數智慧源發展平行論壇”舉辦。在成果釋出環節，佳華科技、晉控電力兩家上市公司正式簽署《“雙碳”智慧體應用戰略合作協議》，並另行簽署《“雙碳”智慧管控技術服務合同》。標誌著全國首個企業級“雙碳”智慧體規模化應用示範專案正式啟動，行業首創的“雙碳”智慧體訂閱制商業模式落地電力行業。"
+    },
+    {
+      "id": "5078776",
+      "time": "2026-09-05 21:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區政府將於近日舉辦天宮課堂 神舟二十三號乘組將與學生“天地對話”】香港特區政府發言人今日（5日）宣佈將於近日舉辦“天宮課堂·港澳專場”太空授課活動（“天宮課堂”），這將會是一次難能可貴的航天科學教育學習活動，讓學生實時觀看在太空獨特環境下進行的科學實驗示範，增進航天科學知識、激發學習興趣。學生也可向正在天宮空間站執行載人航天任務的神舟二十三號乘組三位航天員學習，從而建立志向、勇於探索，以進一步厚植愛國情懷，強化國民身份認同。（大灣區之聲）"
+    },
+    {
+      "id": "5078775",
+      "time": "2026-09-05 21:44:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱如有必要將摧毀伊朗石油船隊】美軍中央司令部司令布拉德·庫珀海軍上將表示，“向伊斯蘭革命衛隊傳遞的資訊要明確：如果你們向我們的兩艘艦艇開火，我們將施加更高的經濟代價——擊沉你們的 三艘艦艇”，並補充說，美國“將毫不猶豫地保衛美軍力量，如有必要，將摧毀伊朗有限且暴露的石油船隊”。"
+    },
+    {
+      "id": "mkt:01a071cd-cdc3-7118-84b2-b4450488b223",
+      "time": "2026-09-05 21:41:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "CENTCOM said the U.S. retaliated after Iran fired ballistic missiles at two U.S. Navy warships."
+    },
+    {
+      "id": "5078773",
+      "time": "2026-09-05 21:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱襲擊伊朗三艘原油運輸船】美軍中央司令部：9月5日，在伊朗伊斯蘭革命衛隊（IRGC）向兩艘在區域水域巡邏的美國海軍軍艦發射彈道導彈後，美國中央司令部部隊對三艘伊朗原油運輸船發動了襲擊。一艘美國航空母艦和一艘導彈驅逐艦成功躲過了伊朗多次無端襲擊。沒有美軍人員傷亡。在伊朗襲擊失敗後，中央司令部永久性地摧毀了伊朗伊斯蘭革命衛隊的原油運輸船“唐尼”號（M/T Downy）和“斯塔克1”號（M/T Stark 1）兩艘船，分別位於哈爾格島附近海域和賈斯克附近海域。美軍還在阿曼灣徹底摧毀了一艘空載原油運輸船“基洛”號（M/T Kylo，又稱“諾克森”號），在船員被命令棄船後，美軍擊中了該船的多個關鍵部位，使其無法航行。"
+    },
+    {
+      "id": "mkt:01a071cd-7ccc-7118-84b2-ac835531c721",
+      "time": "2026-09-05 21:41:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said US forces struck three Iranian crude tankers."
+    },
+    {
+      "id": "mkt:01a071c8-7fbb-7118-84b2-a3c9deb70d89",
+      "time": "2026-09-05 21:36:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【TankerTrackers: Iran NITC VLCC DOWNY attacked; in ballast, port-quarter engine room struck】Tanker-tracking firm TankerTrackers says satellite imagery shows Iran National Tanker Co (NITC) VLCC DOWNY was attacked today. The vessel was in ballast and not carrying oil. Imagery and AIS show multiple tugs active around the ship, concentrated on the aft port side, with activity beginning at about 12:45 Beijing time. The damage appears to be to the port-quarter engine room. Thermal imagery shows no visible fire or smoke. TankerTrackers notes this vessel type matches targets CENTCOM has used in past retaliatory strikes; the strike was likely caused by a US Hellfire missile."
+    },
+    {
+      "id": "te:markets:581419",
+      "time": "2026-09-05 21:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Surges by 6.02% — Top crypto gainers are Binance (6.02%), XRP (1.18%), Ether (0.13%) and Bitcoin (0.10%)."
+    },
+    {
+      "id": "mkt:01a071c3-0134-7118-84b2-9c792309a024",
+      "time": "2026-09-05 21:30:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says about 2,000 national grid nodes attacked but no widespread outages】Iran reported roughly 2,000 national grid nodes were attacked, but energy ministry staff prevented widespread or prolonged blackouts and restored supply quickly despite nearby attacks and explosions. The government said wartime resilience measures implemented since the start of the year have averted severe shortages of fuel, gasoline, medicine and other essentials."
+    },
+    {
+      "id": "5078755",
+      "time": "2026-09-05 21:27:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺集團董事長楊軍到杉杉科技調研】據海螺集團訊息，9月4日，海螺集團黨委書記、董事長楊軍一行赴杉杉科技臨港總部調研。杉杉股份副總經理、杉杉科技董事長李鳳鳳陪同調研。楊軍指出，當前行業競爭已從規模優勢比拼，轉向技術研發、全球佈局、成本管控協同發力的綜合實力較量。企業要始終將研發創新置於戰略核心，持續推進技術迭代與產品升級，打造不可替代的核心技術與產品優勢。要強化產業前瞻佈局，統籌推進原料佈局、產品研發、工藝革新全方位突破。要深化開放協同創新，構建高效完善的創新發展體系。要統籌穩健發展和合規經營，依託集團成熟海外合作優勢，穩步推進全球化佈局。要深耕精益管理，持續提升經營質效。"
+    },
     {
       "id": "5078748",
       "time": "2026-09-05 21:24:43",
