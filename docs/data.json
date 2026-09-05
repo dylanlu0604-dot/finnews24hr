@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-05 12:48:31",
-  "count": 14134,
+  "updated": "2026-09-05 12:52:23",
+  "count": 14131,
   "items": [
+    {
+      "id": "mkt:01a06fe5-d476-7118-84b0-5c7c730ea5ff",
+      "time": "2026-09-05 12:48:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Xinhua think tank releases Asia-Pacific community report】Xinhua's national high-end think tank released a report at an Asia-Pacific media forum in Shenzhen on the 5th, reviewing 37 years of APEC achievements and analysing cooperation opportunities and challenges under the current international environment. The report urges building an Asia‑Pacific community focused on openness, innovation and cooperation, calls on APEC economies to prioritise regional common interests to stabilise and upgrade the regional economy, and says APEC will work to strengthen foundations for shared prosperity and unlock long-term development potential."
+    },
     {
       "id": "5078560",
       "time": "2026-09-05 12:33:47",
@@ -129441,43 +129451,6 @@
         "其他"
       ],
       "text": "【中國自研遊戲分獲科隆展兩項大獎】8月28日晚間，2026年科隆遊戲展大獎（gamescomAwards）在德國揭曉，兩款中國自研遊戲獲獎。其中，網易自研遊戲《燕雲十六聲》斬獲“最佳移動遊戲”（BestMobileGame）大獎。成都日蝕邊緣工作室《湮滅之潮》摘得“最具史詩感”（TheMostEpicGame）大獎。"
-    },
-    {
-      "id": "mkt:01a04bdb-3018-7aab-917c-9c6dd109220f",
-      "time": "2026-08-29 12:50:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Iranian government said it will resolutely resist US sanctions and that diplomacy and defense are 'complementary and indivisible'."
-    },
-    {
-      "id": "5066225",
-      "time": "2026-08-29 12:49:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗政府誓言堅決對抗美國製裁，並稱外交與國防“互補且不可分割”。"
-    },
-    {
-      "id": "5066224",
-      "time": "2026-08-29 12:49:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年8月總票房破55億】據貓眼專業版資料，2026年8月總票房破55億，《歡迎來龍餐館》《蜘蛛俠：嶄新之日》《八仙！》分列8月票房榜前三位。"
-    },
-    {
-      "id": "5066223",
-      "time": "2026-08-29 12:48:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局：詞元市場需求呈現爆發式增長】2026中國國際大資料產業博覽會正在貴州貴陽舉辦。今天，國家資料局負責人在數博會上表示，當前大模型加速向千行百業深度落地，帶動我國詞元呼叫量快速攀升，市場需求呈現爆發式增長。國家資料局局長劉烈宏在詞元專題交流活動上表示，模型綜合能力越強，詞元生產的效率越高，輸出內容的邏輯性、準確性和質量也更優。詞元為人工智慧服務的計量、定價、交易和結算提供了重要的標尺。當前，詞元產業鏈條上已聚集算力租賃商、模型廠商、資料服務商、專業技術服務機構等多元主體，實踐中已演化出不同型別的“詞元工廠”形態。（央視新聞）"
     }
   ]
 }

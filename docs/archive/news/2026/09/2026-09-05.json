@@ -1,7 +1,17 @@
 {
   "date": "2026-09-05",
-  "count": 649,
+  "count": 650,
   "items": [
+    {
+      "id": "mkt:01a06fe5-d476-7118-84b0-5c7c730ea5ff",
+      "time": "2026-09-05 12:48:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Xinhua think tank releases Asia-Pacific community report】Xinhua's national high-end think tank released a report at an Asia-Pacific media forum in Shenzhen on the 5th, reviewing 37 years of APEC achievements and analysing cooperation opportunities and challenges under the current international environment. The report urges building an Asia‑Pacific community focused on openness, innovation and cooperation, calls on APEC economies to prioritise regional common interests to stabilise and upgrade the regional economy, and says APEC will work to strengthen foundations for shared prosperity and unlock long-term development potential."
+    },
     {
       "id": "5078560",
       "time": "2026-09-05 12:33:47",
