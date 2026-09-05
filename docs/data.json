@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-05 13:08:19",
+  "updated": "2026-09-05 13:12:14",
   "count": 14130,
   "items": [
+    {
+      "id": "5078567",
+      "time": "2026-09-05 13:09:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省應急指揮部針對遂川縣啟動突發地質災害二級應急響應】據江西省應急指揮部訊息，鑑於當前地質災害形勢，根據《江西省突發地質災害應急預案》規定，經研究，省應急指揮部決定自9月5日10時起啟動突發地質災害二級應急響應。要求各地各部門按照職責分工和預案規定，全力做好地質災害應急工作。"
+    },
+    {
+      "id": "5078566",
+      "time": "2026-09-05 13:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國談首日，企業代表：預溝通已經比較清楚，期待有好訊息】記者注意到，本輪到場談判的企業陣容涵蓋多家中藥與創新藥企，包括天士力、華潤三九、廣譽遠等中藥企業，雲頂新耀、再鼎醫藥等創新藥企，以及康哲藥業、齊魯製藥、信立泰、西安楊森等企業。本次既有新藥談判，也有續約談判。北京一家眼科藥企的工作人員介紹，他們企業已經多年參與國談，依舊願意到現場感受一線氛圍。“預溝通其實已經比較清楚了，整個流程也很清晰，就期待有好訊息了。”前述眼科企業工作人員表示，在報價策略上，很多企業最終定價還是要看老闆怎麼想。報價如果定得過高，就算談判成功，後續產品落地醫院也很難實現放量。（21財經）"
+    },
+    {
+      "id": "5078565",
+      "time": "2026-09-05 13:07:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深圳市房地產中介協會：8月深圳二手住宅錄得5108套 同比增長7.6%】據深圳市房地產中介協會統計資料，2026年8月二手房共計錄得5535套，環比下跌3.3%，同比上漲5.1%；二手住宅共計錄得5108套，環比下跌2.3%，同比上漲7.6%。8月份錄得量雖較7月份繼續小幅回落，但同比漲幅較上月進一步擴大，說明近期熱度雖有所降溫，但整體錄得量仍明顯高於去年同期水平，市場面依然穩固。"
+    },
     {
       "id": "5078564",
       "time": "2026-09-05 13:03:31",
@@ -129419,33 +129443,6 @@
         "Greater China"
       ],
       "text": "【National Data Administration: compute network deeply coupled with five infrastructure networks】At the Digital China Expo in Guiyang, the National Data Administration said China’s compute network is deeply coupled with five infrastructure networks — water, new power grids, next‑generation communications, urban underground pipe networks and logistics — forming an integrated system that mutually empowers operations. The agency said compute acts as the “brain,” enabling intelligent dispatch and improved renewable absorption in new power grids; collaborating with next‑gen communications to accelerate data flow, model training and applications; supporting basin‑level water forecasting and dynamic water allocation; enabling real‑time monitoring, risk warning and emergency linkage for urban lifeline systems (gas, drainage, heating); and linking logistics to lower costs and boost supply‑chain efficiency. It reported national intelligent compute capacity of 2.45 million PFLOPS (FP16) as of end‑July, with eight national compute hubs and three power‑compute coordination zones comprising over 85% of the country’s compute scale."
-    },
-    {
-      "id": "5066232",
-      "time": "2026-08-29 13:11:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯22220型核動力破冰船“楚科奇”號6日在位於聖彼得堡的波羅的海造船廠下水。"
-    },
-    {
-      "id": "5066231",
-      "time": "2026-08-29 13:11:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局：算力網與“五張網”形成深度耦合】2026數博會正在貴州貴陽舉辦。今天，國家資料局相關負責人在“數算一體 驅動未來”交流活動上表示，算力網與水網、新型電網、新一代通訊網、城市地下管網、物流網是深度耦合、相互賦能、協同支撐的有機整體。會上釋出的最新資料顯示，截至7月底，全國智算總規模達到245萬PFLOPS（FP16），八大國家算力樞紐、三個算電協同發展區已建成智算規模，佔全國比重超85%。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04bec-6f95-7aab-917c-a45109c96807",
-      "time": "2026-08-29 13:09:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US lawmaker urges impeachment of defense secretary over Iran war】Representative Yasamin Ansari urged Congress to impeach Secretary of Defense Pete Hegseth, blaming him and President Trump for a six-month military campaign against Iran she described as illegal. Ansari said a US airstrike hit a school, killing 120 children, and 18 US service members have died; she also cited record-high oil prices. She alleged Trump and his sons have profited through defense-technology firms that secured government contracts. Ansari said the campaign has failed to achieve its objectives, called for the war to end and for Hegseth to be impeached."
     }
   ]
 }
