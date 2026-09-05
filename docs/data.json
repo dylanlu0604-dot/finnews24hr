@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-05 17:16:52",
-  "count": 14157,
+  "updated": "2026-09-05 17:20:43",
+  "count": 14156,
   "items": [
+    {
+      "id": "mkt:01a070dc-5f27-7118-84b1-c0b6249cebd5",
+      "time": "2026-09-05 17:18:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China Securities Association: 150 securities firms posted H1 2026 net profit 138.66 bln yuan】China Securities Association said 150 securities firms’ unaudited H1 2026 results showed operating income of 329.81 bln yuan and net profit of 138.66 bln yuan. Revenue breakdown: securities investment gains (including fair value changes) 113.10 bln yuan, brokerage net income (including trading-seat rentals) 104.14 bln, net interest income 40.51 bln, asset management income 12.14 bln, underwriting and sponsorship 16.13 bln, investment advisory 5.10 bln, financial advisory 2.39 bln. As of June 30 total assets were 17.23 tln yuan, net assets 3.48 tln, net capital 2.59 tln; client settlement and margin balances 4.45 tln yuan; entrusted-managed principal 10.23 tln yuan."
+    },
+    {
+      "id": "5078651",
+      "time": "2026-09-05 17:17:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華工科技：華工正源100G SFP112光模組即將亮相CIOE 2026】華工科技子公司華工正源釋出預告，將在CIOE 2026現場動態展出100G SFP112光模組，面向5G-A/6G無線前傳及高頻寬乙太網資料互連場景，提供全球最小封裝的100G光模組方案。SFP112封裝相容SFP+MSA標準。對比傳統QSFP28方案，相同面板空間可部署更多100G埠，功耗和成本更低，密度和總頻寬提升顯著。"
+    },
     {
       "id": "mkt:01a070d8-f5a9-7118-84b1-bfd416fbc0e0",
       "time": "2026-09-05 17:14:21",
@@ -129667,30 +129687,6 @@
         "國際"
       ],
       "text": "【以色列空襲約旦河西岸傑寧市致三人死亡】巴勒斯坦約旦河西岸傑寧市民政局28日說，以色列軍方當天空襲該市一處房屋，造成至少三名巴勒斯坦人死亡。"
-    },
-    {
-      "id": "5066299",
-      "time": "2026-08-29 17:20:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑瑞股份：預計今年燃氣輪機及配套裝置訂單超200億元 2027年進入大批次交付期】記者今日從傑瑞股份獲悉，目前公司燃氣輪機訂單合同額已超25億美元，預計2026年集團燃氣輪機發電機組及配套裝置整體訂單額將超200億人民幣，行業景氣度至少延續至2031年。但受主機限制，大批次交付預計在2027年進行。“年底主機將大批次到位。”公司相關負責人表示，因為提前鎖定上游主機訂單，主機漲價對公司影響不大。（財聯社）"
-    },
-    {
-      "id": "mkt:01a04cd1-06cc-7aab-917d-99dcdd91151b",
-      "time": "2026-08-29 17:19:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Banque Misr said it will fully comply with applicable regulatory and legal requirements after being sanctioned by the United States. Its UAE branch will continue to provide banking services. The bank said it is treating the US proposed rulemaking notice with the utmost seriousness and is conducting a comprehensive review; it is reviewing the US Treasury notice and will contact the US Treasury for further information."
-    },
-    {
-      "id": "5066298",
-      "time": "2026-08-29 17:19:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及米斯爾銀行（BANQUE MISR）在遭到美國製裁後發表宣告稱，重申完全遵守相關監管與法律框架，其阿聯酋分行將繼續向客戶提供銀行服務。該行正以最嚴肅認真的態度對待美國擬議規則制定通知，並對其進行全面審查。"
     }
   ]
 }
