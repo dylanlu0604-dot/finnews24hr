@@ -1,7 +1,31 @@
 {
   "date": "2026-09-06",
-  "count": 117,
+  "count": 120,
   "items": [
+    {
+      "id": "mkt:01a07339-15fe-7118-84b4-9464feada2e1",
+      "time": "2026-09-06 04:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German startup Isar launched an unmanned space rocket from a Norwegian base."
+    },
+    {
+      "id": "mkt:01a07338-6912-7118-84b4-888818c09ce8",
+      "time": "2026-09-06 04:17:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it fired an interceptor missile at one of its own drones in the Gaza Strip after a misidentification. The incident is under review; no casualties reported."
+    },
+    {
+      "id": "5078938",
+      "time": "2026-09-06 04:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：在加沙地帶，因識別失誤，向己方無人機發射了攔截彈。"
+    },
     {
       "id": "mkt:01a07336-0626-7118-84b4-852d27691670",
       "time": "2026-09-06 04:15:15",

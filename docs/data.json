@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-06 04:16:23",
-  "count": 14215,
+  "updated": "2026-09-06 04:20:26",
+  "count": 14214,
   "items": [
+    {
+      "id": "mkt:01a07339-15fe-7118-84b4-9464feada2e1",
+      "time": "2026-09-06 04:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German startup Isar launched an unmanned space rocket from a Norwegian base."
+    },
+    {
+      "id": "mkt:01a07338-6912-7118-84b4-888818c09ce8",
+      "time": "2026-09-06 04:17:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it fired an interceptor missile at one of its own drones in the Gaza Strip after a misidentification. The incident is under review; no casualties reported."
+    },
+    {
+      "id": "5078938",
+      "time": "2026-09-06 04:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：在加沙地帶，因識別失誤，向己方無人機發射了攔截彈。"
+    },
     {
       "id": "mkt:01a07336-0626-7118-84b4-852d27691670",
       "time": "2026-09-06 04:15:15",
@@ -130108,45 +130132,6 @@
         "Brent"
       ],
       "text": "【Iran says Strait of Hormuz \"completely closed\"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is \"completely closed\" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario."
-    },
-    {
-      "id": "mkt:01a04f2d-8fa7-7118-83fb-a1a9b3e049ac",
-      "time": "2026-08-30 04:19:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran deputy foreign minister Gharibabadi said Iran's armed forces have full supervisory authority over all activity in the Strait of Hormuz, and U.S. claims about ships transiting the strait are entirely untrue."
-    },
-    {
-      "id": "mkt:01a04f2d-2030-7118-83fb-9999085b6713",
-      "time": "2026-08-30 04:19:12",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Musk said SpaceX and Tesla are racing to build an annual solar build capacity of 100 GW, but will still need natural gas over the next few years to supplement and start up solar generation. He said the bottleneck for gas-turbine production is casting blades and guide vanes; bringing casting in-house at SpaceX could bring turbines online up to 18 months faster, a potentially transformative improvement."
-    },
-    {
-      "id": "5066620",
-      "time": "2026-08-30 04:18:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴巴迪：伊朗武裝部隊對霍爾木茲海峽內的一切活動擁有完全管轄權，美方有關船隻通行海峽的說法完全不實。"
-    },
-    {
-      "id": "5066619",
-      "time": "2026-08-30 04:17:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。"
     }
   ]
 }
