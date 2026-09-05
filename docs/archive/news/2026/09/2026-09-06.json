@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 65,
+  "count": 67,
   "items": [
+    {
+      "id": "5078910",
+      "time": "2026-09-06 02:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：要求暫停對基輔打擊的請求是透過官方渠道提出的，俄羅斯並未與烏克蘭達成超過三天的停火協議。"
+    },
+    {
+      "id": "mkt:01a072ba-1c7e-7118-84b3-c97f015e2b6c",
+      "time": "2026-09-06 01:59:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Foreign Ministry condemned U.S. attacks on its vessels in the Persian Gulf and Sea of Oman, calling the strikes war crimes and saying they threaten maritime navigation safety."
+    },
     {
       "id": "5078909",
       "time": "2026-09-06 01:55:00",
