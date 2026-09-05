@@ -1,7 +1,37 @@
 {
   "date": "2026-09-05",
-  "count": 511,
+  "count": 514,
   "items": [
+    {
+      "id": "mkt:01a06f15-f253-7118-84af-151114d3f98e",
+      "time": "2026-09-05 09:01:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【August: China logistics demand stays in expansion; business climate improves further】The China Federation of Logistics and Purchasing released its August logistics business climate index, reporting demand remained in the expansion range and the index rose further. The overall index was 50.9 in August, up 0.5 percentage points month-on-month. Of 12 sub-indices, eight rose MoM. Business volume, new orders and employment indices have stayed in expansion for several consecutive months. By sector, business volume indices remained in expansion: rail 54.8, road 54.5, air 51.0, postal/express 68.8 and multimodal transport 54.2."
+    },
+    {
+      "id": "5078461",
+      "time": "2026-09-05 09:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月中國物流需求保持擴張 景氣水平進一步提升】中國物流與採購聯合會今日釋出8月份中國物流業景氣指數。物流需求保持擴張，景氣指數在擴張區間內繼續提升。 8月份，中國物流業景氣指數為50.9%，較上月上升0.5個百分點。12個分項指數中，有8項環比回升。其中，業務總量、新訂單和從業人員這三項指數，連續多月處於擴張區間。"
+    },
+    {
+      "id": "5078460",
+      "time": "2026-09-05 09:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民政部：西藏吉隆泥石流災害慈善捐贈超過6.6億元】今天（9月5日）是我國第十一個“中華慈善日”，今年慈善日的主題是“弘揚慈善文化 踐行慈善惠民”。近年來，慈善力量在救災、扶貧濟困等方面發揮了重要作用。西藏日喀則市吉隆縣泥石流災害發生後，民政部第一時間指導29家網際網路公開募捐服務平臺和有關慈善組織根據災區需要，有序開展救災捐贈。據不完全統計，截至目前，捐贈已超過6.6億元。其中，147萬人次透過網際網路公開募捐服務平臺，向有關公開募捐慈善專案捐贈5016萬元。“一方有難，八方支援”。“十四五”以來，社會各界已累計捐贈資金200多億元，支援各類重大自然災害應急救援和恢復重建工作。（央視新聞）"
+    },
     {
       "id": "5078459",
       "time": "2026-09-05 08:57:00",
