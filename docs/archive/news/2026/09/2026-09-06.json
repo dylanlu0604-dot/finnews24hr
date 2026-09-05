@@ -1,7 +1,224 @@
 {
   "date": "2026-09-06",
-  "count": 11,
+  "count": 36,
   "items": [
+    {
+      "id": "5078894",
+      "time": "2026-09-06 01:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本監管機構將加大對房地產放貸業務的審查力度。"
+    },
+    {
+      "id": "5078893",
+      "time": "2026-09-06 01:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本擬審查銀行面向海外非銀行放貸機構的貸款業務。"
+    },
+    {
+      "id": "mkt:01a07297-bf64-7118-84b3-562642a0fda8",
+      "time": "2026-09-06 01:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited security sources saying Israeli forces will withdraw behind the yellow line in southern Lebanon and redeploy 3–4 km from the Israeli border."
+    },
+    {
+      "id": "mkt:01a07295-b67c-7118-84b3-480a9ebe1e28",
+      "time": "2026-09-06 01:20:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Jazeera, citing security sources, says the Israeli military is considering establishing a new security zone in southern Lebanon closer to the Israeli border."
+    },
+    {
+      "id": "mkt:01a07294-b5ea-7118-84b3-405070627d5d",
+      "time": "2026-09-06 01:19:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Al Jazeera, citing security sources, says the Israeli military is preparing to scale down its forces in southern Lebanon after destroying tunnels in the Ali Tahir area."
+    },
+    {
+      "id": "mkt:01a07293-bd5b-7118-84b3-3ed5c891354d",
+      "time": "2026-09-06 01:17:59",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Greece's prime minister announced a plan to raise wages for workers and pensioners."
+    },
+    {
+      "id": "5078892",
+      "time": "2026-09-06 01:16:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理公佈方案，擬提高勞動者與養老金領取者的收入。"
+    },
+    {
+      "id": "mkt:01a0728f-7f79-7118-84b3-30d0dfe837a9",
+      "time": "2026-09-06 01:13:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin meets US presidential envoy Witkoff and Kushner in Kremlin on Ukraine】Russian President Vladimir Putin met visiting US presidential envoy Witkoff and Jared Kushner at the Kremlin on the 5th to discuss the Ukraine situation. Attending for Russia were presidential aide Ushakov and Kirill Dmitriev, CEO of the Russian Direct Investment Fund and presidential special representative for external economic and investment cooperation. US envoys arrived at Vnukovo by private plane at midday. The meeting was Putin’s eighth face-to-face with Witkoff and Kushner’s third participation in Ukraine mediation. Trump said US representatives would present a proposal during the Moscow visit; Kremlin spokesman Dmitry Peskov said \"it is too early to discuss a new plan to resolve the Ukraine crisis.\" US envoys are expected to proceed to Kyiv after Moscow."
+    },
+    {
+      "id": "mkt:01a0728c-badf-7118-84b3-29dc670579a8",
+      "time": "2026-09-06 01:10:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA reported Putin conveyed good wishes and gratitude to U.S. President Trump via Kushner and Witkov."
+    },
+    {
+      "id": "5078891",
+      "time": "2026-09-06 01:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鑽石聯賽總決賽中國女子標槍奪冠】當地時間9月5日晚、北京時間今天（9月6日）凌晨，在比利時布魯塞爾舉行的2026年世界田聯鑽石聯賽總決賽中，中國選手嚴子怡在女子標槍決賽中奪得冠軍。（CCTV國際時訊）"
+    },
+    {
+      "id": "5078890",
+      "time": "2026-09-06 01:04:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京透過庫什納與威特科夫向特朗普轉達美好祝願。"
+    },
+    {
+      "id": "mkt:01a07286-f854-7118-84b3-21cc1a193a3e",
+      "time": "2026-09-06 01:04:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: Putin said the situation he, Veitkov and Kushner must handle during talks at the Kremlin is \"very tricky\"."
+    },
+    {
+      "id": "5078889",
+      "time": "2026-09-06 01:01:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京稱，他與威特科夫、庫什納將在克里姆林宮談判中所要處理的局勢十分棘手。"
+    },
+    {
+      "id": "mkt:01a07282-04aa-7118-84b3-1e01d8a756ce",
+      "time": "2026-09-06 00:58:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kremlin: President Putin has begun meetings with U.S. special envoys Vikov and Kushner."
+    },
+    {
+      "id": "5078888",
+      "time": "2026-09-06 00:58:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗庫爾德斯坦省發生一起交通事故 已致10人死亡】當地時間5日，伊朗庫爾德斯坦省薩南達季附近發生交通事故，一輛油罐車在事故中爆炸，已造成10人死亡。（央視新聞）"
+    },
+    {
+      "id": "5078887",
+      "time": "2026-09-06 00:56:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "克里姆林宮：普京與美國特使威特科夫、庫什納開啟會晤。"
+    },
+    {
+      "id": "5078886",
+      "time": "2026-09-06 00:52:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破80000美元，日內漲0.43%。"
+    },
+    {
+      "id": "mkt:01a07278-5c00-7118-84b3-105ea022f023",
+      "time": "2026-09-06 00:48:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar, UAE ministers discuss easing regional tensions】Qatar's foreign ministry said its state minister held a phone call with the UAE state minister to exchange views on bilateral ties and recent regional developments. The ministry said they focused on lowering tensions and strengthening regional security and stability through diplomatic efforts and coordinated action."
+    },
+    {
+      "id": "5078885",
+      "time": "2026-09-06 00:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與阿聯酋兩國部長談及為緩和地區局勢所開展的相關努力。"
+    },
+    {
+      "id": "5078884",
+      "time": "2026-09-06 00:43:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：設在美國聯邦應急管理局總部的移民聽證會最早將於週二啟動。"
+    },
+    {
+      "id": "5078883",
+      "time": "2026-09-06 00:41:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府將在聯邦應急管理局（FEMA）總部舉辦移民聽證會。"
+    },
+    {
+      "id": "mkt:01a07272-51ef-7118-84b3-0845e72a3c7c",
+      "time": "2026-09-06 00:41:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【UK Maritime Trade Operations: multiple merchant vessels struck by 'disabling fire' in northern Arabian Gulf, Gulf of Oman】UK Maritime Trade Operations (UKMTO) said it received reports that multiple merchant vessels in the northern Arabian Gulf and the Gulf of Oman were struck by \"disabling fire\", describing the incidents as part of ongoing military activity in the area. UKMTO said it could not yet confirm casualties or environmental damage; investigations are ongoing."
+    },
+    {
+      "id": "5078882",
+      "time": "2026-09-06 00:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：SpaceX與特斯拉的董事正在資助學術研究，同時扶持一家商業企業，該企業正致力於推動MDMA（搖頭丸）輔助療法治療創傷後應激障礙獲得監管批准。"
+    },
+    {
+      "id": "5078881",
+      "time": "2026-09-06 00:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“共赴深圳之約 共創美好亞太”媒體合作行動釋出】5日在深圳開幕的亞太媒體高階論壇上，深圳市釋出“共赴深圳之約 共創美好亞太”媒體合作行動，涉及技術共享、內容共創、人才共育三方面。行動包括三個專案：建設亞太媒體數智深圳中心，與亞太媒體同行共享技術、共用成果，為數智化時代主流媒體系統性變革和轉型創新提供深圳解決方案；實施“看奇蹟·找答案”共創聯播計劃，邀請亞太媒體夥伴，以深圳為案例和範本，共同策劃創制客觀真實立體的內容產品，解析中國高質量發展密碼，探尋建設亞太共同體、促進共同繁榮的答案；設立亞太媒體青年研修基地，邀請亞太媒體從業者赴深圳開展研學參訪培訓，搭建亞太媒體從業者互學互鑑的機制平臺，促進亞太媒體青年溝通交流，為構建亞太共同體築牢青年根基、積蓄持久動能。（新華社）"
+    },
+    {
+      "id": "5078880",
+      "time": "2026-09-06 00:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【共繪上海合作組織更高質量發展新圖景——國際社會高度評價習近平主席出席2026年上海合作組織峰會】“站在關乎人類前途命運的十字路口，上海合作組織應該勇擔歷史責任，主動引領歷史航向。”9月1日，在2026年上海合作組織峰會上，習近平主席深刻闡明上合組織肩負的時代使命。國際社會高度評價習近平主席出席在吉爾吉斯斯坦首都比什凱克舉行的上海合作組織峰會並發表重要講話。多國人士表示，習近平主席的重要講話，在亞歐大陸凝聚起推動上合組織實現更高質量發展的共識與合力，激發起推進平等有序的世界多極化、推動完善全球治理的廣泛共鳴。（新華社）"
+    },
     {
       "id": "5078879",
       "time": "2026-09-06 00:33:09",
