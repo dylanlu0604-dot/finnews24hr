@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-05 21:06:50",
-  "count": 14153,
+  "updated": "2026-09-05 21:10:39",
+  "count": 14154,
   "items": [
+    {
+      "id": "mkt:01a071ad-eaf4-7118-84b2-8740832b45a9",
+      "time": "2026-09-05 21:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. military says it has shot down 300+ drug-trafficking drones at U.S.-Mexico border YTD】The U.S. military said on Sept. 4 it has shot down more than 300 drones operated by drug-trafficking groups along the U.S.-Mexico border this year. U.S. Northern Command said forces used kinetic and non-kinetic systems to support U.S. Customs and Border Protection, with more than 100 drones downed in August. The Army began using a Multi‑Mission High‑Energy Laser system in border operations on Aug. 24 and had used it to destroy 11 cartel drones as of Sept. 4."
+    },
+    {
+      "id": "5078737",
+      "time": "2026-09-05 21:06:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破91美元，日內漲超1.2%。"
+    },
     {
       "id": "5078731",
       "time": "2026-09-05 20:51:19",
@@ -129631,14 +129648,6 @@
         "AI Revolution"
       ],
       "text": "【Industry insiders: current humanoid robots roughly equivalent to a 3–4‑year‑old】A recent Aug. 22–26 competition fielded 2,056 robots from 666 teams across 16 countries; Cheng Hao, founder and CEO of Acceleration Evolution, said current robots are roughly at the capability level of a human 3–4 years old, but abilities can be rapidly replicated across units, which may speed on‑field progress. In real‑world deployment, continuous operating time, task success rate, degree of human assistance and cost‑benefit will be the hard commercial metrics. The 2026 Humanoid Robot Industry Development Report shows China shipped over 40,000 humanoid robots in 1H 2026, signalling a shift from pilot trials toward routine deployment and scaled commercialisation."
-    },
-    {
-      "id": "5066394",
-      "time": "2026-08-29 21:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭被解職防長稱將擔任義大利防長顧問】烏克蘭前國防部長米哈伊洛·費多羅夫28日說，他已接受邀請，將擔任義大利國防部長圭多·克羅塞託的顧問。費多羅夫在社交媒體上寫道，他將擔任克羅塞託的防務創新顧問，在“現代戰爭技術”等方面提供幫助，同時“感謝克羅塞託的信任和支援”。上月，任職僅6個月的費多羅夫被烏克蘭總統澤連斯基解除防長職務，引發烏多地大規模抗議。澤連斯基後又解除了與費多羅夫關係不睦的烏武裝部隊總司令亞歷山大·瑟爾斯基的職務。（新華社）"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
   "date": "2026-09-05",
-  "count": 868,
+  "count": 870,
   "items": [
+    {
+      "id": "mkt:01a071ad-eaf4-7118-84b2-8740832b45a9",
+      "time": "2026-09-05 21:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. military says it has shot down 300+ drug-trafficking drones at U.S.-Mexico border YTD】The U.S. military said on Sept. 4 it has shot down more than 300 drones operated by drug-trafficking groups along the U.S.-Mexico border this year. U.S. Northern Command said forces used kinetic and non-kinetic systems to support U.S. Customs and Border Protection, with more than 100 drones downed in August. The Army began using a Multi‑Mission High‑Energy Laser system in border operations on Aug. 24 and had used it to destroy 11 cartel drones as of Sept. 4."
+    },
+    {
+      "id": "5078737",
+      "time": "2026-09-05 21:06:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破91美元，日內漲超1.2%。"
+    },
     {
       "id": "5078731",
       "time": "2026-09-05 20:51:19",
