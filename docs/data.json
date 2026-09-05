@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-06 05:34:09",
-  "count": 14231,
+  "updated": "2026-09-06 05:37:56",
+  "count": 14232,
   "items": [
+    {
+      "id": "mkt:01a07381-5328-7118-84b5-115fa3b7623b",
+      "time": "2026-09-06 05:37:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC deputy navy political officer says 2–5 vessels 'punished' nightly in Strait of Hormuz in 10 days to Aug. 30】State news agency reported an IRGC deputy navy political officer said that during the 10 days ending Aug. 30 Iranian naval forces 'punished' 2–5 'violating' vessels each night in the Strait of Hormuz, and asserted U.S. strikes have 'not in the slightest' disrupted Iran's control of the area."
+    },
+    {
+      "id": "5078957",
+      "time": "2026-09-06 05:34:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍官員稱，上個月霍爾木茲海峽每天都有船隻遭到打擊懲戒。"
+    },
     {
       "id": "mkt:01a0737c-d58d-7118-84b5-0b92bbe471b3",
       "time": "2026-09-06 05:32:35",
@@ -130252,14 +130268,6 @@
         "MKT News"
       ],
       "text": "【Top 10 South Korean brokers report nearly KRW 6tn Q2 net profit; shares under pressure】South Korea's 10 largest brokerage firms reported a record consolidated Q2 net profit of KRW 5.9362 trillion, up 37% QoQ and 141% YoY. Despite robust earnings, broker stocks have weakened: the KRX securities industry index peaked at 9,804.97 on May 9, then slid to 6,400–7,400 in June, 4,700–6,400 in July and has traded around 5,000–5,500 this month."
-    },
-    {
-      "id": "5066628",
-      "time": "2026-08-30 05:37:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。"
     }
   ]
 }

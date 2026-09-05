@@ -1,7 +1,23 @@
 {
   "date": "2026-09-06",
-  "count": 153,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:01a07381-5328-7118-84b5-115fa3b7623b",
+      "time": "2026-09-06 05:37:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC deputy navy political officer says 2–5 vessels 'punished' nightly in Strait of Hormuz in 10 days to Aug. 30】State news agency reported an IRGC deputy navy political officer said that during the 10 days ending Aug. 30 Iranian naval forces 'punished' 2–5 'violating' vessels each night in the Strait of Hormuz, and asserted U.S. strikes have 'not in the slightest' disrupted Iran's control of the area."
+    },
+    {
+      "id": "5078957",
+      "time": "2026-09-06 05:34:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍官員稱，上個月霍爾木茲海峽每天都有船隻遭到打擊懲戒。"
+    },
     {
       "id": "mkt:01a0737c-d58d-7118-84b5-0b92bbe471b3",
       "time": "2026-09-06 05:32:35",
