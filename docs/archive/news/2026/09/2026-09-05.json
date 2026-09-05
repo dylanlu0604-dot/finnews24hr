@@ -1,7 +1,26 @@
 {
   "date": "2026-09-05",
-  "count": 477,
+  "count": 479,
   "items": [
+    {
+      "id": "5078435",
+      "time": "2026-09-05 08:18:37",
+      "tags": [
+        "宏觀",
+        "行業",
+        "資料",
+        "其他"
+      ],
+      "text": "【海南：1~8月，全省商品房（含安居房）網籤銷售面積516.75萬平方米，同比下降22%】據海南省官方提供的最新網籤系統資料，1~8月，全省商品房（含安居房）網籤銷售面積516.75萬平方米，同比下降22%；銷售金額880.48億元，同比下降21%。其中，8月單月全省商品房網籤銷售面積35.72萬平方米，同比下降28%；銷售金額49.91億元，同比下降43%。（中國房地產報）"
+    },
+    {
+      "id": "mkt:01a06eee-7648-7118-84ae-c5a0ff13a7e2",
+      "time": "2026-09-05 08:18:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigational warning: military live-fire exercises in Bohai Sea】China Maritime Safety Administration posted that Tangshan Maritime Safety Administration has issued a navigational warning: parts of the Bohai Sea will conduct military live-fire exercises from 00:00 on Sep 6 to 24:00 on Sep 7; entry to the affected waters is prohibited."
+    },
     {
       "id": "5078434",
       "time": "2026-09-05 08:16:13",
