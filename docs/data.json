@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-06 01:26:35",
-  "count": 14185,
+  "updated": "2026-09-06 01:30:32",
+  "count": 14190,
   "items": [
+    {
+      "id": "mkt:01a0729e-8cb0-7118-84b3-6e3ed2582081",
+      "time": "2026-09-06 01:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greek prime minister announced a €2.2 bln package of tax cuts and pay increases to be implemented in 2027."
+    },
+    {
+      "id": "5078897",
+      "time": "2026-09-06 01:29:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗里亞爾於週六跌至歷史新低，公開市場美元兌里亞爾匯率突破227萬里亞爾。"
+    },
+    {
+      "id": "5078896",
+      "time": "2026-09-06 01:28:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理公佈2027年減稅及加薪計劃，規模達22億歐元。"
+    },
+    {
+      "id": "mkt:01a0729c-f84d-7118-84b3-62a3b15297ae",
+      "time": "2026-09-06 01:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan to tighten scrutiny of banks' lending to overseas non-bank lenders, Nikkei reports."
+    },
+    {
+      "id": "5078895",
+      "time": "2026-09-06 01:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本計劃強化對銀行貸款的審查力度。"
+    },
+    {
+      "id": "mkt:01a0729b-934e-7118-84b3-5f9bd1e7b8d0",
+      "time": "2026-09-06 01:26:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's public broadcaster Kan, citing security sources, said the IDF's redeployment plan, named \"Grey Line\", will set up operational bases; the IDF's withdrawal plan has not yet received political approval."
+    },
     {
       "id": "5078894",
       "time": "2026-09-06 01:25:53",
@@ -129876,18 +129931,6 @@
         "MKT News"
       ],
       "text": "TASNIM NEWS: IRGC ground forces commander Kourmi said Iranians fear no power and accused the US of requesting a ceasefire and attending talks during a 12-day war only to later reverse course and overturn the negotiating table."
-    },
-    {
-      "id": "mkt:01a04e91-013e-7aab-917f-a05f97dba859",
-      "time": "2026-08-30 01:28:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IRGC official: US war not driven by Iran uranium enrichment】The IRGC's deputy political director told Fars News the US did not start the war over Iran's uranium enrichment. \"Those who believe the war stems from uranium enrichment do not correctly understand history,\" he said. \"Those who think if we stop enriching uranium there would be no war either lack accurate historical knowledge or proper analytical ability.\" He attributed the conflict to US aims to overthrow the Islamic Republic."
     }
   ]
 }
