@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 03:24:20",
-  "count": 14211,
+  "updated": "2026-09-06 03:28:17",
+  "count": 14209,
   "items": [
+    {
+      "id": "mkt:01a0730a-6e87-7118-84b4-41f309e65761",
+      "time": "2026-09-06 03:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MAGA Inc. files $10m donation to Paxton, first midterm contribution; Trump pledges $400-500m, PAC raised near $1bn】Politico reported a filing published Saturday shows Trump-linked super PAC MAGA Inc. will donate $10m to Ken Paxton's Senate campaign, marking the group's first midterm election contribution. Republicans had pressed Trump to deploy his campaign reserves to help Paxton in Texas. At a White House Oval Office briefing, Trump said he would commit possibly $400-500m to the midterms and that MAGA has raised close to $1bn and is under his control."
+    },
     {
       "id": "mkt:01a07304-65f8-7118-84b4-3f2116ae81bd",
       "time": "2026-09-06 03:21:03",
@@ -130081,39 +130089,6 @@
         "MKT News"
       ],
       "text": "Iran's deputy foreign minister said Qatar and Pakistan are exploring the possibility of resuming implementation of a memorandum of understanding."
-    },
-    {
-      "id": "mkt:01a04efe-06a7-7118-83fb-62d7a8253650",
-      "time": "2026-08-30 03:27:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact bearish",
-        "GBPUSD",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "【UK considers windfall tax on banks and oil firms】UK Chancellor Healy is weighing a windfall tax on banks and oil companies for her first budget. Treasury officials are discussing the measures as a way to plug a £4.7bn fiscal shortfall while avoiding direct increases in personal taxes. Healy is aiming for a low-key budget next month and for any unavoidable tax rises to be markedly smaller than those implemented under former chancellor Reeves."
-    },
-    {
-      "id": "5066612",
-      "time": "2026-08-30 03:24:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：波斯灣石油運輸量已恢復至戰前約70%水平。儘管伊朗石油出口依舊受限，但該情況幫助抑制了原油價格。"
-    },
-    {
-      "id": "mkt:01a04efb-3181-7118-83fb-5e62954f11e1",
-      "time": "2026-08-30 03:24:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU to act quickly on Spain's request for migration support】On Aug 29, EU commissioner for home affairs and migration Magnus Brunner said Spain has requested additional support — including the European Border and Coast Guard Agency (Frontex), Europol and the EU Agency for Asylum — to address a migration crisis. The Commission is processing the requests and will decide swiftly. Brunner said the immediate priority remains the rapid return of irregular migrants in the Spanish enclave of Ceuta, where thousands remain after a large late‑July mass crossing. Spain submitted the request on Aug 28."
     }
   ]
 }

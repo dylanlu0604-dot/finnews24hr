@@ -1,7 +1,15 @@
 {
   "date": "2026-09-06",
-  "count": 98,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:01a0730a-6e87-7118-84b4-41f309e65761",
+      "time": "2026-09-06 03:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MAGA Inc. files $10m donation to Paxton, first midterm contribution; Trump pledges $400-500m, PAC raised near $1bn】Politico reported a filing published Saturday shows Trump-linked super PAC MAGA Inc. will donate $10m to Ken Paxton's Senate campaign, marking the group's first midterm election contribution. Republicans had pressed Trump to deploy his campaign reserves to help Paxton in Texas. At a White House Oval Office briefing, Trump said he would commit possibly $400-500m to the midterms and that MAGA has raised close to $1bn and is under his control."
+    },
     {
       "id": "mkt:01a07304-65f8-7118-84b4-3f2116ae81bd",
       "time": "2026-09-06 03:21:03",
