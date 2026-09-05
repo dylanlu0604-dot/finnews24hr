@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-06 01:38:20",
-  "count": 14190,
+  "updated": "2026-09-06 01:42:16",
+  "count": 14198,
   "items": [
+    {
+      "id": "mkt:01a072a8-e962-7118-84b3-ab9badd3d1a1",
+      "time": "2026-09-06 01:41:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Witkoff thanked Putin for the ceasefire during their visit."
+    },
+    {
+      "id": "5078905",
+      "time": "2026-09-06 01:40:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫告訴普京：感謝您在我們訪問期間停火。"
+    },
+    {
+      "id": "mkt:01a072a8-90a8-7118-84b3-a0b506f530a9",
+      "time": "2026-09-06 01:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Witkoff told Putin that Trump sends his best wishes."
+    },
+    {
+      "id": "mkt:01a072a7-dfef-7118-84b3-9e06a602eb01",
+      "time": "2026-09-06 01:39:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said contacts of this kind are always beneficial and that cooperation with Witkoff and Kushner is convenient for Russia."
+    },
+    {
+      "id": "5078904",
+      "time": "2026-09-06 01:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫告訴普京：特朗普向你致以最誠摯的問候。"
+    },
+    {
+      "id": "5078903",
+      "time": "2026-09-06 01:38:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京對美國特使威特科夫與庫什納表示：與你們開展合作對我們而言是適宜的。"
+    },
+    {
+      "id": "mkt:01a072a6-2ba7-7118-84b3-95e3c8c52654",
+      "time": "2026-09-06 01:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says he will discuss all aspects of the Russia-Ukraine conflict with a US envoy today."
+    },
+    {
+      "id": "5078902",
+      "time": "2026-09-06 01:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：此類接觸總是有益的。"
+    },
+    {
+      "id": "mkt:01a072a5-f1ea-7118-84b3-8f9e99eb96cd",
+      "time": "2026-09-06 01:37:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan FSA to scrutinize bank lending to overseas non-bank lenders and real estate firms】Japan's Financial Services Agency will review whether domestic financial institutions are adequately assessing credit risks from lending to overseas non-bank lenders and real estate companies. The initiative will be included in the FSA's draft annual strategic priorities, to be finalised in June next year. The move responds to expanding overseas non-bank lending by major Japanese banks—non-bank financial intermediaries are increasing global activity and drawing more funding from Japanese banks—and to rising residential prices in major metropolitan areas that have prompted regional lenders to boost property-related loans. The FSA will also focus on investment and lending policies, project due diligence and risk management for data centers and similar facilities."
+    },
     {
       "id": "5078901",
       "time": "2026-09-06 01:37:00",
@@ -129930,15 +130002,6 @@
         "MKT News"
       ],
       "text": "【Israeli settlers attack Palestinians in Qusra as they install protective mesh; IDF fires tear gas, detains residents】In Qusra, six Palestinians installing metal protective mesh on a fourth house under construction were attacked by Israeli settlers after earlier settler incidents, including stone-throwing and incendiary attacks. The Israeli military arrived, fired tear gas into the house — wounding the homeowner — did not remove the settlers and arrested the six Palestinians; they were later released. Prime Minister NETANYAHU described the assailants as \"a small group of troublemakers,\" saying they had impeded IDF operations and damaged Israel's international standing."
-    },
-    {
-      "id": "5066557",
-      "time": "2026-08-30 01:41:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿聯酋央行：正研究涉事銀行的處置方案，將對銀行交易開展調查，調查重點聚焦美方宣告提及的相關企業。"
     }
   ]
 }
