@@ -1,7 +1,24 @@
 {
   "date": "2026-09-06",
-  "count": 111,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:01a0732c-96fb-7118-84b4-779e89a4271a",
+      "time": "2026-09-06 04:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meeting between Russian President Putin, U.S. presidential envoy Witkoff and Kushner concluded."
+    },
+    {
+      "id": "5078935",
+      "time": "2026-09-06 04:04:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與美國代表維特科夫和庫什納的會談結束。"
+    },
     {
       "id": "5078934",
       "time": "2026-09-06 04:00:55",

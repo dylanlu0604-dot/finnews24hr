@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-06 04:04:35",
-  "count": 14211,
+  "updated": "2026-09-06 04:08:33",
+  "count": 14212,
   "items": [
+    {
+      "id": "mkt:01a0732c-96fb-7118-84b4-779e89a4271a",
+      "time": "2026-09-06 04:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meeting between Russian President Putin, U.S. presidential envoy Witkoff and Kushner concluded."
+    },
+    {
+      "id": "5078935",
+      "time": "2026-09-06 04:04:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與美國代表維特科夫和庫什納的會談結束。"
+    },
     {
       "id": "5078934",
       "time": "2026-09-06 04:00:55",
@@ -130096,15 +130113,6 @@
         "MKT News"
       ],
       "text": "【Channel 12: Shin Bet says it urgently evacuated Netanyahu's eldest son from the U.S.】Channel 12 TV reported on 29, citing the Israel Security Agency (Shin Bet), that Shin Bet agents urgently evacuated Prime Minister Benjamin Netanyahu's eldest son Yair from Miami to Israel after assessing he faced a significant security threat. Shin Bet did not detail the threat. The report said agents were reassigned from President Isaac Herzog's New York detail to Miami to carry out the operation. Yair Netanyahu has long lived in Miami and is a prominent supporter of his father; his brother Avner lives in Israel."
-    },
-    {
-      "id": "5066618",
-      "time": "2026-08-30 04:07:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤突破2.9美元，日內漲幅0.9%。"
     }
   ]
 }
