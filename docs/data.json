@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-06 00:30:49",
+  "updated": "2026-09-06 00:34:50",
   "count": 14173,
   "items": [
+    {
+      "id": "5078879",
+      "time": "2026-09-06 00:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“亞太發展故事”全球多媒體傳播計劃啟動】5日在深圳開幕的亞太媒體高階論壇上，新華社聯合亞太媒體機構，共同策劃並啟動全球多媒體傳播計劃。據介紹，這項計劃將圍繞“亞太發展故事”主題深入採訪，透過國際媒體視角，創作出具有全球共鳴度的高品質新聞產品，推出一系列關於亞太區域創新、中小企業跨境合作、數字經濟互聯互通等主題的深度報道和新媒體產品，並推動在主流媒體平臺釋出，構建跨越太平洋的敘事橋樑。（新華社）"
+    },
+    {
+      "id": "5078878",
+      "time": "2026-09-06 00:32:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞太媒體高階論壇釋出深圳共識】亞太媒體高階論壇5日在廣東深圳開幕。論壇開幕式上，釋出了《亞太媒體高階論壇深圳共識》。共識指出，亞太經合組織（APEC）是亞太地區層級最高、領域最廣、最具影響力的經濟合作機制。APEC成立30多年來，從勾畫亞太自由貿易區藍圖到推動建設亞太共同體，引領亞太地區走在全球開放發展前列，助力亞太成為全球經濟最具活力的地區。我們願意深化對話交流、開展務實合作，為亞太地區繁榮發展作出更多貢獻。（新華社）"
+    },
     {
       "id": "5078877",
       "time": "2026-09-06 00:29:20",
@@ -129767,27 +129783,6 @@
         "MKT News"
       ],
       "text": "Independent U.S. Senator Bernie Sanders said an Uber driver told a colleague that after Trump's cuts to healthcare his monthly health-insurance premium rose by $400 and drug copays rose from $1 to as much as $90. Sanders said this is happening across the U.S. and called for Medicare for All."
-    },
-    {
-      "id": "5066509",
-      "time": "2026-08-30 00:33:59",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【Anthropic考慮允許股東在IPO中出售股份，摒棄SpaceX模式】Anthropic正擬定方案，計劃在其重磅IPO中允許現有股東出售部分股票，同時考慮上市後執行比常規更久的股份鎖定期。在IPO中安排老股二次出售，將讓Anthropic區別於今年另外兩家大型科技上市公司SpaceX與Cerebras，後兩者IPO階段不允許現有股東出售股份。而近年CoreWeave、Figma等大型科技企業IPO，則在發行新股的同時允許老股東出售股票。此次股票出售，將使Anthropic股東得以兌現過去數年間賬面積累的鉅額財富。該公司私募估值一路走高，今年5月已達到9650億美元。投行已討論過1.5萬億美元的IPO估值，略低於SpaceX的IPO定價估值。"
-    },
-    {
-      "id": "mkt:01a04e5c-6a69-7aab-917f-67b685bc9c37",
-      "time": "2026-08-30 00:31:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Bessent says US guided 130 million barrels through Strait of Hormuz; Iran speaker calls claim false】Iranian parliament speaker Ghalibaf dismissed U.S. Treasury official Bessent’s claim that the U.S. guided 130 million barrels of oil through the Strait of Hormuz in the past 14 days, calling the assertion false. Ghalibaf cited a June Moody’s survey saying the Iran war has cost U.S. taxpayers at least $132 billion, alleged trading firm Jane Street lost more than $130 million on a single futures roll after shorting oil, and said yields are “on fire,” referring to the recent spike in U.S. long-term Treasury yields."
     }
   ]
 }
