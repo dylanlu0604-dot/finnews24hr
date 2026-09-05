@@ -1,7 +1,743 @@
 {
   "date": "2026-09-05",
-  "count": 679,
+  "count": 761,
   "items": [
+    {
+      "id": "5078639",
+      "time": "2026-09-05 16:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架據信搭載美國特使威特科夫和庫什納的飛機在莫斯科降落。"
+    },
+    {
+      "id": "5078638",
+      "time": "2026-09-05 16:39:25",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【TCL創投董事長袁冰談AI產業泡沫：某種意義上是健康的】TCL創投董事長袁冰在亞布力論壇夏季年會談到，AI產業發展初期適度的泡沫，某種意義上是健康的，泡沫代表著行業活躍度。如果一個新興產業缺少活躍度，反而是更大的隱患。泡沫與冷靜發展在產業不同週期各有其價值，需要結合所處階段辯證看待。 他指出，對比中美同類AI企業，目前國內企業估值仍然偏低，未來還有充足的想象空間。雖然短期之內國內企業估值很難追上美國對標企業，但依託國內龐大的產業市場與技術發展基礎，長期來看估值具備向上的潛力。（睿見Economy）"
+    },
+    {
+      "id": "mkt:01a070b8-e806-7118-84b1-87a83a097912",
+      "time": "2026-09-05 16:39:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported a plane carrying US presidential envoy Witkoff and Trump's son-in-law Kushner landed in Moscow."
+    },
+    {
+      "id": "5078637",
+      "time": "2026-09-05 16:35:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國糧食企業年工業總產值超4萬億元】記者從5日在湖南省長沙市舉行的第八屆中國糧食交易大會瞭解到，我國糧食企業年工業總產值已超4萬億元。國家糧食和物資儲備局局長劉煥鑫介紹，截至目前，全國糧食企業達到2.4萬家，年實現工業總產值超4萬億元，三分之一以上省份產值超過千億元，全國共形成33個省級區域公用品牌、117個市縣級糧食區域公用品牌。我國糧食年產量持續穩定在6.5億噸以上，2024年、2025年連續兩年超過7億噸，2025年人均糧食佔有量達到508.9公斤，超過世界平均水平。糧食庫存總體處於較高水平，結構佈局不斷最佳化，可以有效滿足保供需要。全國糧食標準倉房完好倉容超過7.3億噸，具備低溫準低溫儲藏能力的倉容達到2.2億噸，佔全國糧食標準倉房完好倉容的30%。本屆大會從5日持續至7日，將現場展示全國優質特色糧油產品、智慧糧機裝置，並舉辦全國脫貧地區優質特色糧油產品展銷會。據瞭解，共有來自全國的3100多家糧油企業參展。（新華社）"
+    },
+    {
+      "id": "5078636",
+      "time": "2026-09-05 16:31:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【蘭州榆中官方通報“萵筍收購環節染色”：立案查處6家企業】9月5日，甘肅蘭州榆中縣農業農村局、榆中縣市場監管局釋出情況通報：針對網上反映的“萵筍收購環節染色”相關問題，榆中縣農業農村局、市場監管局近日對全縣53家蔬菜收購倉儲經營主體進行了聯合執法監督檢查，發現有6家企業在萵筍收購環節違法使用了果綠食品新增劑，即依法對其進行立案查處。同時，對其他蔬菜收購倉儲經營主體進行了集體約談警示。目前，榆中縣農業農村局聯合市場監管局對全縣域內的蔬菜種植、收購、運輸、銷售各環節正在開展全面深入排查，對發現的違法違規行為將堅決依法嚴肅查處，切實保障蔬菜供應安全放心。"
+    },
+    {
+      "id": "mkt:01a070b0-de37-7118-84b1-782e6dfb43a1",
+      "time": "2026-09-05 16:30:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC denies reported attack on Isfahan nuclear site】Iran’s Islamic Revolutionary Guard Corps public relations department denied social-media reports that US and Israeli hostile forces attacked the nuclear center and related facilities in Isfahan province, calling the claims fabricated, Fars News reported."
+    },
+    {
+      "id": "5078635",
+      "time": "2026-09-05 16:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國多佛港：此次事件影響多佛港和多佛鎮所有進出路線。"
+    },
+    {
+      "id": "5078634",
+      "time": "2026-09-05 16:27:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國多佛港稱，公共秩序事件影響航線。"
+    },
+    {
+      "id": "5078633",
+      "time": "2026-09-05 16:26:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證協：150家券商上半年淨利同比增超兩成 經紀、投資諮詢、利息收入增幅超五成】中證協最新發布2026年上半年度券商經營統計資料，未經審計財報顯示，150家券商合計實現營業收入3298.10億元，同比增長31.38%；實現淨利潤1386.64億元，同比增長23.50%。分業務看，代理買賣證券業務淨收入（含交易單元席位租賃）1041.35億元，同比大增51.27%；利息淨收入405.13億元，同比增長54.41%；投資諮詢業務淨收入50.96億元，同比增長57.24%，增幅居各業務之首。證券投資收益（含公允價值變動）1130.97億元，同比增長12.82%；證券承銷與保薦業務淨收入161.31億元，同比增長12.64%；資產管理業務淨收入121.42億元，同比增長6.97%；財務顧問業務淨收入23.90億元，同比增長8.59%。對比2025年同期，全行業營收、淨利雙升，經紀、利息、投諮詢三項業務增幅均超五成，上半年市場交投活躍度與槓桿資金水平同步抬升。"
+    },
+    {
+      "id": "mkt:01a070aa-4a52-7118-84b1-70b83a66dadf",
+      "time": "2026-09-05 16:23:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US intelligence: Iran 'more confident' after six months of hostilities】A US intelligence assessment says that more than six months after US military action against Iran, Tehran has grown more confident in its ability to strike US targets in the Middle East and appears intent on continuing confrontation at least through the US midterm elections in November. The report says Iran now has a clearer picture of its military capabilities and an increased appreciation of the strategic importance of the Strait of Hormuz. Despite sustained US military and economic pressure, there are no signs Iran seeks a deal; US officials warn further strikes on Iran would likely prompt retaliatory attacks on US bases and forces in the region. Some US officials assess Iran may try to prolong the conflict to November and judge US capacity for large-scale strikes is constrained by depleted munitions stockpiles."
+    },
+    {
+      "id": "5078632",
+      "time": "2026-09-05 16:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【方大特鋼鍊鋼廠智慧化安全管控系統投入使用】方大特鋼訊息，近日，方大特鋼鍊鋼廠加速推進智慧化安全管控體系建設，智慧鋼包烘烤系統、檢維修能源介質鎖定安全確認系統等多項智慧安全系統已陸續投入使用，以數字科技賦能安全生產。"
+    },
+    {
+      "id": "5078631",
+      "time": "2026-09-05 16:22:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列有條件釋放5名從黎巴嫩抓捕的平民】以色列依據一項與黎巴嫩政府達成的協議，於3日和4日共釋放5名從黎巴嫩抓捕的平民。黎巴嫩則同意協助尋找在數十年前黎巴嫩內戰中失蹤的猶太裔黎巴嫩公民。以色列透過紅十字國際委員會釋放了這5人。據悉，5人均為平民，其中包括2名敘利亞人。侯賽因·阿亞什被關押了大約三個月，他的兄弟穆罕默德·阿亞什4日到黎南部城市提爾迎接他。穆罕默德說，他希望“所有被關押在以色列監獄裡的人都能獲釋”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a070a5-a1e8-7118-84b1-692710004939",
+      "time": "2026-09-05 16:18:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Daqing oilfield Maokou formation in Sichuan‑Chongqing area annual gas output tops 1.001 bcm】Daqing Oilfield said as of Aug 31, 2026 cumulative natural gas production from the Maokou formation in its Sichuan‑Chongqing exploration area reached 1.001 bcm, surpassing 1 bcm for the first time. Company said the milestone reflects scaled-up development of the formation and bolsters China’s oil and gas supply and winter supply security."
+    },
+    {
+      "id": "5078629",
+      "time": "2026-09-05 16:17:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【大慶油田川渝探區茅口組年產氣首次突破10億立方米】從大慶油田獲悉，截至8月31日，大慶油田川渝探區2026年茅口組層位累計生產天然氣達10.01億立方米，首次突破10億立方米關口，標誌著該層位實現規模效益開發的重要跨越，為我國油氣穩定供應、冬季保供再添堅實底氣。"
+    },
+    {
+      "id": "5078628",
+      "time": "2026-09-05 16:15:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美情報評估：伊朗打出自信】美國情報部門釋出的最新評估報告顯示，美國對伊朗發起軍事行動6個多月來，伊朗對其打擊中東地區美軍目標的能力“更加自信”，同時似乎決意繼續與美國對抗，至少堅持到11月美國國會中期選舉。據美國《紐約時報》9月4日報道，多名美國官員看過情報部門最新評估報告後披露，這份報告顯示，歷經數月戰事後，伊朗更加清楚自身的“軍事實力”，也更確信霍爾木茲海峽的重要性。從目前情況看，伊朗雖然承受著美國軍事和經濟雙重壓力，但沒有跡象表明伊方有意與美國達成任何形式的協議。伊朗後續若再遭打擊，其反應或與先前相似，即對中東地區的美軍基地等目標發起反擊。一些美國官員認為，伊朗可能試圖將戰事至少拖延至11月美國國會中期選舉，且伊方認為美軍因武器庫存減少而難以展開大規模打擊。（新華社）"
+    },
+    {
+      "id": "mkt:01a070a2-3914-7118-84b1-63554d4750f1",
+      "time": "2026-09-05 16:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRNA: Iranian official says munitions used in US strike on wedding carry ID linked to Raytheon】IRNA reported the head of the Hormozgan provincial judiciary said casings from munitions used in a US strike on a wedding in Kuhestak bear military and government identification code 96214; the code, according to a US defense supply-chain database, is assigned exclusively to weapons manufacturer Raytheon."
+    },
+    {
+      "id": "5078627",
+      "time": "2026-09-05 16:05:03",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國今年迄今出口額7094億美元打破年度紀錄，預計12月初將達1萬億美元】韓國總統李在明週六在社交媒體上分享了一份韓國海關負責人的報告，顯示韓國今年迄今累計出口額已超過去年的年度紀錄。李在明在X上分享的報告稱，截至週六下午1點，韓國今年累計出口額已達7094億美元，超過了2025年創下的7093億美元的年度紀錄。韓國海關負責人在報告中表示：“儘管貿易環境充滿不確定性，包括日益抬頭的貿易保護主義、全球供應鏈重組以及中東局勢動盪，但我們的出口依然保持著顯著增長。如果目前的強勁出口勢頭能夠持續，預計到12月初，年度出口額將達到1萬億美元。”"
+    },
+    {
+      "id": "5078626",
+      "time": "2026-09-05 16:04:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破95美元，日內漲超0.8%。"
+    },
+    {
+      "id": "mkt:01a07099-2944-7118-84b1-5a9cd3ff911f",
+      "time": "2026-09-05 16:04:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Temporary ceasefire around Zaporizhzhia nuclear plant to repair external power lines】IAEA Director General Grossi said on Sept 5 that, after agency-mediated talks, a local temporary ceasefire was implemented around the Zaporizhzhia nuclear plant to enable repairs to damaged transmission lines and restore external power. The plant lost its last external connection on Aug 20 due to military activity and has since relied on emergency diesel generators to provide cooling power for six reactors and spent fuel pools. The IAEA warned diesel reserves are running low and said that if external grid power is not restored or additional fuel cannot be delivered, the plant risks a full-station blackout within days. Under the ceasefire, Ukrainian technicians will de-mine affected areas before beginning repairs; IAEA staff will monitor the work. Grossi said this is the seventh similar temporary ceasefire he has negotiated since the Russia-Ukraine conflict to reduce nuclear safety risks."
+    },
+    {
+      "id": "5078625",
+      "time": "2026-09-05 16:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站周邊實施臨時停火 以搶修外部供電線路】國際原子能機構總幹事格羅西9月5日表示，在該機構斡旋下，扎波羅熱核電站周邊再次實施區域性臨時停火，以便搶修受損輸電線路，恢復核電站外部供電。扎波羅熱核電站8月20日因軍事活動失去與最後一條外部輸電線路的連線，此後一直依靠應急柴油發電機為6座反應堆和存放使用過後核燃料的乏燃料池提供冷卻所需電力。國際原子能機構表示，目前核電站柴油儲備已經所剩不多，如果外部供電不能恢復或者無法及時運入更多燃料，未來數日內可能面臨全站斷電風險。根據臨時停火安排，烏克蘭技術人員將在完成相關區域排雷後開始維修輸電線路。國際原子能機構人員將對維修過程進行監測。格羅西表示，這是俄烏衝突以來他為降低扎波羅熱核電站核安全風險斡旋達成的第7次類似臨時停火。"
+    },
+    {
+      "id": "mkt:01a07093-8554-7118-84b1-5152f6a02a48",
+      "time": "2026-09-05 15:58:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Geological Survey reported a magnitude-4.4 earthquake 77 km east-southeast of La Tirana, Chile, with a focal depth of 109.4 km."
+    },
+    {
+      "id": "5078624",
+      "time": "2026-09-05 15:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：第三季度，隨著人工智慧需求持續增長，以及ICT產品進入下半年銷售旺季，預計運營將逐步加速增長。"
+    },
+    {
+      "id": "5078622",
+      "time": "2026-09-05 15:45:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中新“海上合作-2026”聯合演習開幕】中國和新加坡“海上合作-2026”聯合演習5日在廣東湛江某軍港開幕，兩國海軍參演官兵代表參加開幕式。此次聯演在湛江附近海空域舉行，雙方共派出2艘艦艇，中方參演艦艇為導彈護衛艦大理艦，新方參演兵力為“堅定”號護衛艦。演習分港岸、海上2個階段進行。港岸階段，中新雙方已於4日舉行了高層會見與籌劃研討，並組織了甲板招待會等活動，接下來還將圍繞潛水作業、潛艇搜尋和救援、水下醫學等內容開展專業交流。海上階段將於8日正式開始，進行通訊操演、海上補給、聯合對海打擊、聯合搜救等課目演練。這是中國和新加坡共同舉行的第5次海上聯合演習。近年來，兩國海軍在聯演聯訓等領域的交流合作呈現縱深式發展，持續增進雙方互信，促進務實合作。（新華社）"
+    },
+    {
+      "id": "5078621",
+      "time": "2026-09-05 15:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海今年前八月營收同比增長40%。"
+    },
+    {
+      "id": "5078620",
+      "time": "2026-09-05 15:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【肯亞一輛巴士與卡車相撞致5人死亡】當地時間9月5日，肯亞一輛小巴車與一輛拋錨卡車相撞，造成至少5人死亡、4人受傷。"
+    },
+    {
+      "id": "mkt:01a07083-87bb-7118-84b1-49458e2a98d1",
+      "time": "2026-09-05 15:41:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadath reported Yemeni armed forces said they destroyed Houthi reinforcements in southern Jarahi during a ground assault."
+    },
+    {
+      "id": "5078619",
+      "time": "2026-09-05 15:40:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度航空的所有者據悉計劃向該公司注入超過10億美元的新資金。"
+    },
+    {
+      "id": "5078618",
+      "time": "2026-09-05 15:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：仍需持續關注全球政治經濟局勢動盪帶來的影響。"
+    },
+    {
+      "id": "5078617",
+      "time": "2026-09-05 15:36:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：此次打擊行動是對真主黨未遂襲擊的回應。"
+    },
+    {
+      "id": "5078616",
+      "time": "2026-09-05 15:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：週五在黎巴嫩南部襲擊真主黨及其基礎設施。"
+    },
+    {
+      "id": "5078615",
+      "time": "2026-09-05 15:36:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻海8月營收同比增51.98%】鴻海精密8月營收同比增長51.98%。公司表示，目前公司對第三季度的業績能見度較上月有所提升，整體表現預計將高於市場預期。"
+    },
+    {
+      "id": "mkt:01a0707e-c2b1-7118-84b1-41a5d980b498",
+      "time": "2026-09-05 15:35:50",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "【Foxconn August revenue up 51.98% YoY】Foxconn reported August revenue rose 51.98% YoY. The company said visibility on Q3 results has improved versus a month ago and it expects overall performance to exceed market expectations."
+    },
+    {
+      "id": "mkt:01a07078-7b43-7118-84b1-3e137acc157a",
+      "time": "2026-09-05 15:28:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI calls for broader disclosure of AI alignment failures】OpenAI said it will expand the scope of disclosures on AI alignment failures, noting it saw early signs—before the Hugging Face incident—that agents were using the internet in unexpected ways. It said the AI community currently lacks standards for reporting misalignment observed during training, evaluation and deployment, and that some important cases fall outside traditional security incident definitions. OpenAI is developing a disclosure framework to be published in the coming weeks and is engaging with dozens of government regulators globally."
+    },
+    {
+      "id": "mkt:01a07071-aa0a-7118-84b1-3137787ffc1d",
+      "time": "2026-09-05 15:21:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "IAEA says a ceasefire has taken effect to allow repairs to power lines and restore external power to the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "5078614",
+      "time": "2026-09-05 15:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：停火已生效，以保障線路修復工作開展，恢復扎波羅熱核電站的場外供電。"
+    },
+    {
+      "id": "5078613",
+      "time": "2026-09-05 15:20:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出風暴潮橙色警報】國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮橙色警報。受今年第24號颱風“科羅旺”（熱帶風暴級）外圍的影響，預計：9月5日上午至6日上午，遼東灣沿海將出現40到80釐米的風暴增水，渤海灣沿海將出現50到80釐米的風暴增水，萊州灣沿海將出現30到70釐米的風暴增水。河北省秦皇島的風暴潮預警級別為橙色，遼寧省葫蘆島市和河北省唐山市的風暴潮預警級別為黃色，天津市、河北省滄州市和山東省濰坊市的風暴潮預警級別為藍色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急搶險工作，組織各類船隻回港避風，加固沿海漁業養殖水產設施和漁港設施，相關海上作業人員及時撤離；關閉沿海危險區域浴場和遊樂設施，禁止人員到海邊遊玩；加強沿海海堤、水閘等設施的巡查，薄弱地區和危險地區的海堤及時加固除險，必要時，相關人員撤離轉移到安全地帶。"
+    },
+    {
+      "id": "5078612",
+      "time": "2026-09-05 15:17:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI稱需要擴大對齊失範事件的披露範圍】OpenAI：針對模型能力發展的新階段，我們需要擴大對齊失範事件的披露範圍。目前，我們以及更廣泛的人工智慧行業，尚未建立明確標準，用以報告在訓練、評估以及部署階段出現的對齊失範問題。其中既包含不屬於傳統安全事件，但有助於理解人工智慧行為、預判未來風險的各類案例。我們正在搭建一套相關框架，將在未來數週對外公佈；與此同時，我們正就上述問題與全球數十家政府監管機構開展協作。"
+    },
+    {
+      "id": "5078611",
+      "time": "2026-09-05 15:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年中國農民豐收節金秋消費季活動啟動】2026年中國農民豐收節金秋消費季活動9月4日在上海市啟動。今年金秋消費季活動以“豐收開新局 實幹促振興”為主題。由農業農村部、商務部、文化和旅遊部、中央廣播電視總檯、國家林業和草原局、中華全國供銷合作總社共同發起。活動從9月啟動持續到11月底結束，將開展數商興農慶豐收、全國36個大中城市“菜籃子”產品消費促進、鄉村“小而美”文旅業態提升行動交流對接等重點活動。"
+    },
+    {
+      "id": "5078610",
+      "time": "2026-09-05 15:09:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中建集團黨組：堅決擁護黨中央決定】9月5日，中國建築集團有限公司黨組召開會議，通報中央紀委國家監委對中建集團黨組成員、副總經理陳勇涉嫌嚴重違紀違法進行紀律審查和監察調查的決定。中建集團黨組書記、董事長鄭學選主持會議並講話，黨組成員逐一表態發言，一致表示堅決擁護黨中央決定，堅決擁護中央紀委國家監委決定。"
+    },
+    {
+      "id": "5078609",
+      "time": "2026-09-05 15:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "克萊斯勒在美國召回 328,381輛汽車  ，原因是車輛行駛中後螺旋彈簧可能脫落，從而增加碰撞風險。"
+    },
+    {
+      "id": "5078608",
+      "time": "2026-09-05 15:05:01",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【玻利維亞西部一軍營爆炸 致至少2死59傷】玻利維亞警方4日晚說，該國西部比亞查市一處軍營當天發生爆炸，已造成至少2人死亡、59人受傷，另有7人失聯。玻利維亞國防部長埃內斯托·胡斯蒂尼亞諾當天在社交媒體上發文說，軍營內一處區域發生爆炸，傷者已被送往醫院救治，有關部門已啟動調查。（新華社）"
+    },
+    {
+      "id": "5078607",
+      "time": "2026-09-05 15:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南省委常委會召開會議：加強環境敏感區影視拍攝和實景演藝活動管理】會議研究部署依法治理影視外景拍攝和大型實景演藝活動相關生態環境問題，指出綠水青山、碧海藍天是海南最強優勢和最大本錢，要切實提高政治站位，把保護海南生態環境作為“國之大者”和底線要求，切實擔負起生態環境保護的政治責任。要堅決做到依法治理，堅持刀刃向內，深刻檢視監管履職存在的深層次問題，從嚴從實抓好整改整治，依法依規啟動追責問責；舉一反三在全省開展全面排查，及時發現和處置突出問題，堅決杜絕同類問題再次發生。要建立健全長效機制，聚焦監管短板開展小切口立法，最佳化完善法規標準體系、監管體系和政策支援體系；完善全鏈條閉環監管機制，壓實屬地管理、部門監管和企業主體責任，加強環境敏感區影視拍攝和實景演藝活動管理，嚴格前置審批和環境影響評價，加強事中事後監管，常態化開展沙灘垃圾治理，牢牢守住生態環境保護底線。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a07061-bf00-7118-84b1-288b4419e0d0",
+      "time": "2026-09-05 15:04:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "【US regulator probes Tesla \"Cyber Taxi\" safety certification】The U.S. National Highway Traffic Safety Administration (NHTSA) said on the 4th it opened an investigation on the 3rd into whether U.S. EV maker Tesla complied with Federal Motor Vehicle Safety Standards certification procedures for its driverless \"Cyber Taxi\". The probe will focus on the procedures and technical data Tesla used to certify the vehicle."
+    },
+    {
+      "id": "mkt:01a07060-308a-7118-84b1-242e444532b2",
+      "time": "2026-09-05 15:02:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact bullish"
+      ],
+      "text": "Li Auto (02015.HK) began first nationwide deliveries of its new-generation MEGA model today."
+    },
+    {
+      "id": "mkt:01a0705f-3bbc-7118-84b1-1f43957855d1",
+      "time": "2026-09-05 15:01:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Qijing GX7 initial deposits top 20,000 in 18 hours; deliveries due end-September】Sept 5 — Qijing Auto said initial small-deposit orders for the GX7 exceeded 20,000 units within 18 hours of opening presales. The GX7, co-developed by GAC and Huawei, is scheduled to begin deliveries at the end of September."
+    },
+    {
+      "id": "5078606",
+      "time": "2026-09-05 14:58:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【亞太媒體高階論壇在深圳舉辦 李書磊出席開幕式並發表主旨演講】亞太媒體高階論壇5日在廣東深圳開幕。中共中央政治局委員、中宣部部長李書磊出席開幕式並發表主旨演講。中共中央政治局委員、廣東省委書記黃坤明出席並致辭。與會嘉賓認為，習近平主席提出構建亞太共同體的重大主張，為共建開放型亞太經濟、推動亞太共同繁榮提供了重要指引。今年是亞太經合組織（APEC）“中國年”，中國將舉辦亞太經合組織第三十三次領導人非正式會議，相信在各方支援下，會議將取得豐碩成果，推動亞太合作邁上新臺階。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0705a-954c-7118-84b1-147f45aad355",
+      "time": "2026-09-05 14:56:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iranian tanker near Kharg Island hit by missile, Iranian media says】Iranian media reported a tanker near Kharg Island was struck by a missile; no casualties reported. Earlier Fars News said explosions were heard near Kharg Island but no smoke or flames were seen in the Persian Gulf and the cause is unclear. Kharg Island handles roughly 90% of Iran’s crude exports."
+    },
+    {
+      "id": "5078605",
+      "time": "2026-09-05 14:55:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美監管機構調查特斯拉“賽博計程車”安全認證】美國國家公路交通安全管理局4日宣佈，對美國電動汽車製造商特斯拉公司的無人駕駛“賽博計程車”啟動調查，審查其進行美國聯邦機動車輛安全標準認證的過程是否合規。該機構說，此次調查於3日啟動，重點審查特斯拉在對“賽博計程車”進行安全標準認證時所依據的程式和技術資料。（新華社）"
+    },
+    {
+      "id": "mkt:01a07057-eb15-7118-84b1-0ac1094855e7",
+      "time": "2026-09-05 14:53:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's SNN news agency reported an Iranian oil tanker near Kharg Island was struck by a missile; no casualties have been reported so far."
+    },
+    {
+      "id": "5078604",
+      "time": "2026-09-05 14:50:09",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【韓國出口額突破全年曆史紀錄 今年迄今達7094億美元】韓國海關署週六公佈，受全球對人工智慧晶片需求旺盛拉動，韓國今年迄今出口規模達到7094億美元，已超越去年全年的歷史紀錄。具體來看，今年1‑8月，半導體出口額達2810億美元，同比大增169.6%，佔韓國總出口的41%。全球頭部儲存晶片廠商三星電子與SK海力士均位於韓國。受人工智慧投資熱潮加劇晶片供給短缺影響，晶片價格大幅上漲，兩家企業從中獲益。韓國第二大出口商品乘用車，1‑8月海外出貨量同比下滑4%。"
+    },
+    {
+      "id": "mkt:01a07052-ff97-7118-84b1-0715d1540b58",
+      "time": "2026-09-05 14:48:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian media report explosions near Kharg Island】An agency reported on the 5th that explosions were heard near Iran's Kharg Island; the cause is unclear."
+    },
+    {
+      "id": "5078602",
+      "time": "2026-09-05 14:47:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗媒體：一艘伊朗油輪在哈爾克島附近遭到美國導彈襲擊】據伊朗媒體，伊朗哈爾克島附近的波斯灣海域傳來爆炸聲。報道表示，目前尚未釋出有關爆炸起因與來源的官方資訊。據另一家伊朗媒體報道，一艘伊朗油輪在哈爾克島附近遭到美國導彈襲擊。該媒體稱，遇襲的是一艘小型油輪，本次襲擊沒有造成人員傷亡。"
+    },
+    {
+      "id": "5078601",
+      "time": "2026-09-05 14:41:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗媒體，哈爾克島附近傳出爆炸聲，起因尚不明確。"
+    },
+    {
+      "id": "5078599",
+      "time": "2026-09-05 14:40:23",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "世界黃金協會2026年央行黃金儲備調查顯示，過去12個月，19%的央行提高了國內黃金儲備比例，或把儲備地點做了多元化配置，一年前該數字只有7%。"
+    },
+    {
+      "id": "mkt:01a0704a-e3b9-7118-84b0-f86a42a0e782",
+      "time": "2026-09-05 14:39:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Countries accelerate localization of gold reserves】Multiple countries are accelerating shifts in gold-reserve storage to reduce reliance on Western custodian systems. Since 2013 several central banks have repatriated overseas gold. The World Gold Council 2026 central bank survey shows 19% of central banks increased the share of gold held domestically or diversified storage locations in the past 12 months, up from 7% a year earlier, and the number of central banks storing gold in New York and London vaults continues to decline."
+    },
+    {
+      "id": "mkt:01a0704a-171e-7118-84b0-f2e657f9face",
+      "time": "2026-09-05 14:38:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【National satellite navigation reference-station network data authorized for commercial operation】China’s Ministry of Natural Resources and the National Data Bureau said at a Beijing meeting on Sept. 4 that the national satellite navigation and positioning reference-station network service data has been officially authorized for operation. The move — the first national-level public-data authorization in the spatio-temporal information infrastructure field — is intended to convert reference-station public data from underutilized public resources into compliant, tradable data assets and marks Beidou high-precision spatio-temporal data entering market-based operations."
+    },
+    {
+      "id": "mkt:01a07049-22e4-7118-84b0-efeb63beb9ac",
+      "time": "2026-09-05 14:37:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian outlet Fars News Agency reports several explosions minutes ago in waters off Kharg Island in the Persian Gulf; no smoke or flames observed and authorities have not provided an official explanation for the sounds."
+    },
+    {
+      "id": "5078598",
+      "time": "2026-09-05 14:37:06",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：英國運動服裝製造商CASTORE考慮出售。"
+    },
+    {
+      "id": "5078597",
+      "time": "2026-09-05 14:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局：以場景化、數智化推動氣象服務擴能提質】記者從日前舉行的全國氣象服務高質量發展大會上瞭解到，“十五五”時期，氣象部門將以氣象科技能力現代化和社會服務現代化為主線，推動以場景化、數智化為主要特徵的新時代現代化氣象服務體系提檔升級，提高氣象服務融合化、國際化水平，實現氣象服務擴能提質。為實現上述目標，氣象部門將重點在四個方面發力：突出需求牽引，深耕場景服務，推動提質增效；突出改革攻堅，完善體制機制，增強發展活力；突出科技賦能，堅持創新驅動，加速數智轉型；突出開放合作，統籌國內國際，參與全球治理。（新華社）"
+    },
+    {
+      "id": "5078596",
+      "time": "2026-09-05 14:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟境GX7預售18小時小訂突破2萬臺，9月底開啟交付】9月5日，啟境汽車公佈啟境GX7最新預售資料：新車開啟預售18小時，小訂數量已突破20000臺，該車由廣汽與華為聯合打造，將於9月底開啟交付。"
+    },
+    {
+      "id": "5078595",
+      "time": "2026-09-05 14:28:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銀基金迎來新任執行總裁，陳衛星正式上任】9月5日，中銀基金公告，陳衛星自9月4日起出任公司執行總裁，同時代任督察長。此前，陳衛星已代履執行總裁職責。履歷顯示，陳衛星曆任中國銀行總行金融市場總部（託管投資服務）助理總經理、中國銀行深圳市分行黨委委員、行長助理、副行長、中國銀行總行養老金金融部副總經理。2022年加入中銀基金，現任執行總裁、代履督察長。"
+    },
+    {
+      "id": "5078594",
+      "time": "2026-09-05 14:25:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長安汽車天樞領航推出全損置換等三項託底補償政策】目前，長安汽車釋出全棧自研智慧駕駛輔助解決方案“天樞領航”，宣佈為使用者提供全場景守護、全流程服務、全使用者可享以及事故損失、保費上漲、全損置換三項託底補償。據瞭解，長安汽車智慧技術產品研發累計投入225億元，團隊目前已達7500多人。"
+    },
+    {
+      "id": "mkt:01a0703e-8441-7118-84b0-e26405e982e0",
+      "time": "2026-09-05 14:25:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Russian forces carry out cluster strikes across multiple Ukrainian regions】Early on Sept 5 the Russian Defence Ministry said Russian forces used land-based high‑precision weapons and long‑range strike drones in cluster attacks across Ukraine. In Dnipropetrovsk Oblast they struck metallurgical plants supplying the defence industry, naming the Dnipropetrovsk metallurgical plant and the “Dnipro” plant — described as Ukraine’s largest military metal supplier. In Mykolaiv city and Mykolaiv Oblast they hit a logistics centre storing military supplies and the Mykolaivskaya substation. In Odesa Oblast they struck a logistics centre storing military materiel, and at Chornomorsk port they struck a dry‑cargo vessel loaded with Ukrainian weapons and military materiel."
+    },
+    {
+      "id": "5078593",
+      "time": "2026-09-05 14:21:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國衛星導航定位基準站網服務資料正式授權運營】自然資源部訊息，9月4日，由自然資源部、國家資料局聯合主辦的全國衛星導航定位基準站網服務資料授權運營工作推進會在京舉行。會上宣佈，全國衛星導航定位基準站網服務資料正式授權運營。這是國家層面首次在時空資訊基礎設施領域開展公共資料授權運營，將推動基準站網公共資料從尚未充分釋放價值的公共資源轉化為可以合規流通使用的資料資產，標誌著北斗高精度時空資料要素邁入市場化運營新階段。"
+    },
+    {
+      "id": "mkt:01a07039-669f-7118-84b0-dce35c4b7082",
+      "time": "2026-09-05 14:20:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korean YTD exports hit $709.4 bln, surpassing last year’s full-year record】Korea Customs Service said on Saturday year-to-date South Korean exports reached $709.4 bln, exceeding last year’s full-year record of $709.3 bln as a global surge in demand for AI chips lifted shipments. Customs said South Korea, Asia’s fourth-largest economy, is on track for $1 tln in annual exports, which would make it the fourth country after the US, China and Germany to hit that milestone. August exports rose 69% YoY, marking the 15th consecutive month of growth."
+    },
+    {
+      "id": "mkt:01a07036-811e-7118-84b0-d142eb8b76a7",
+      "time": "2026-09-05 14:16:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Emergency Management sends working group to Jiangxi Suichuan mudslide site】On Sept. 5 a mudflow and landslide struck Shixia group, Mingkeng Village, Gaoping Town, Suichuan County, Jiangxi. The National Disaster Reduction and Relief Commission and the Ministry of Emergency Management initiated level-4 national emergency responses for natural disasters and geological disasters and dispatched a working group to oversee rescue. The ministry ordered all-out search-and-rescue, verification of casualties and missing persons, nearby deployment of communications support and engineering rescue teams, and stepped-up hydrological and geological monitoring and early warning to prevent secondary disasters. The national production-safety rescue team’s emergency survey unit, carrying slope radar and other equipment, was sent to assist; local fire services deployed 41 vehicles and 224 personnel and communications and reconnaissance drones were airborne."
+    },
+    {
+      "id": "mkt:01a07035-24bb-7118-84b0-c92e1a073c5a",
+      "time": "2026-09-05 14:15:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Former PBOC deputy governor Zhu Min urges APAC digital and AI integration】Sept. 5, Shenzhen — Former PBOC deputy governor Zhu Min told an Asia‑Pacific media forum that APAC should accelerate digital and intelligent transformation and regional connectivity. He urged deeper cooperation on frontier technologies, stronger collaboration on artificial intelligence, promotion of the digital economy, expansion of digital public services and efforts to improve standards interoperability."
+    },
+    {
+      "id": "5078592",
+      "time": "2026-09-05 14:13:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部發布訊息表示，俄軍在基輔州布羅瓦里市擊中了電子偵察中心。"
+    },
+    {
+      "id": "5078591",
+      "time": "2026-09-05 14:10:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德黑蘭證券交易所指數上漲12萬點】德黑蘭證券交易所指數上漲12萬點，市場上95%的股票處於綠色區間，其中16.5%的股票處於買入價位。（注：綠色為上漲，紅色為下跌）"
+    },
+    {
+      "id": "5078590",
+      "time": "2026-09-05 14:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副外長就威特科夫、庫什納可能訪問莫斯科一事發表評論稱，美國應當顧及當前的實地局勢：目前戰場形勢正朝著不利於基輔的方向發展。"
+    },
+    {
+      "id": "5078589",
+      "time": "2026-09-05 14:09:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部排程江西省遂川縣高坪鎮泥石流災害救援處置工作】9月5日，江西省遂川縣高坪鎮明坑村石下組發生泥石流和山體滑坡，應急管理部立即排程部署搶險救援工作，要求全力搜救被困人員，核實核清傷亡失聯人數，就近調派通訊保障、工程搶險等隊伍裝備，儘快組織救援人員挺進災區，加強水文、地質災害監測預警，科學施救，嚴防次生災害發生。（央視新聞）"
+    },
+    {
+      "id": "5078588",
+      "time": "2026-09-05 14:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍對烏多地實施叢集打擊】當地時間9月5日，俄羅斯國防部通報，當日凌晨，俄聯邦武裝力量使用陸基高精度武器和遠端攻擊型無人機，對烏克蘭第聶伯羅彼得羅夫斯克州保障軍工企業所需的冶金廠、尼古拉耶夫市及尼古拉耶夫州和敖德薩州的物流中心和變電站實施叢集打擊。（央視新聞）"
+    },
+    {
+      "id": "5078587",
+      "time": "2026-09-05 14:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省啟動省級救災三級應急響應】8月29日以來，颱風“沙德爾”已造成江西省10個設區市56個縣（市、區，含功能區）16.15萬人受災，吉安等地災情較重。依據《江西省自然災害救助應急預案》，江西省防災減災救災委員會於9月5日12時啟動省級救災三級應急響應，要求江西省防災減災救災委員會有關成員單位和吉安市按照職能和任務分工，做好救災救助各項工作。（新華社）"
+    },
+    {
+      "id": "mkt:01a0702c-dcf7-7118-84b0-c46bd40f17f4",
+      "time": "2026-09-05 14:06:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tehran Stock Exchange main index rises 120,000 points to 6,624,000】Tehran Stock Exchange main index gained 120,000 points to 6,624,000; the value-weighted index rose about 32,000 points. Total market capitalization in rials reached roughly 19.3 tln Iranian rials for the first time, while dollar-denominated market cap slipped below $100bn. Retail flows into equities, rights issues and equity funds totaled about 1 tln rials, while fixed-income funds saw outflows of 2.2 tln rials. About 95% of stocks advanced and buy orders amounted to 16.5 tln rials."
+    },
+    {
+      "id": "5078586",
+      "time": "2026-09-05 14:03:43",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "土耳其將對高速公路及伊斯坦布林各大橋樑實施私有化。"
+    },
+    {
+      "id": "mkt:01a07028-8a63-7118-84b0-be94f6693ce4",
+      "time": "2026-09-05 14:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attack on Colombian barracks kills 2, wounds 5】Colombian President De la Espriella confirmed on the evening of the 4th that a barracks in Ocaña, Norte de Santander (northern Colombia) was attacked by anti-government armed groups, killing two soldiers and wounding five."
+    },
+    {
+      "id": "5078585",
+      "time": "2026-09-05 14:01:15",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【哥倫比亞一軍營遇襲致2死5傷】哥倫比亞總統德拉埃斯普列亞4日晚證實，哥倫比亞北部北桑坦德省奧卡尼亞市一處軍營當天遭到反政府武裝襲擊，已造成2名軍人死亡、5名軍人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:01a07027-b30d-7118-84b0-b4f57745c832",
+      "time": "2026-09-05 14:00:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian deputy foreign minister urges US to factor battlefield realities into Ukraine mediation】Russian Deputy Foreign Minister Ryabkov said on Sept. 5 that Washington should take battlefield realities into account in any mediation over Ukraine, and that the situation is moving in a direction unfavorable to Kyiv. He said the key question is whether the US is prepared to invest effort in finding a genuine solution that accounts for battlefield realities and the conflict's changing dynamics. Ryabkov said the Aug. 2025 Russia–US leaders' meeting in Anchorage and subsequent events show doubts persist over whether Washington can keep its stance within a rational framework and resist pressure from circumstances and parties opposed to mediation; those issues remain unresolved."
+    },
+    {
+      "id": "5078584",
+      "time": "2026-09-05 13:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄副外長呼籲美國在俄烏調解中考慮戰場現實】當地時間9月5日，俄羅斯副外長里亞布科夫在評論美國總統特使威特科夫和特朗普女婿庫什納可能訪俄一事時表示，美國政府在烏克蘭調解問題上應考慮到戰場上的實際情況，而當地局勢正朝著不利於基輔的方向發展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07025-9145-7118-84b0-a991833cd3ce",
+      "time": "2026-09-05 13:58:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hurricane Lowell strengthens to Category 5; Hawaii declares state of emergency】The National Hurricane Center said on the 4th Hurricane Lowell rapidly intensified to a Category 5 storm, with maximum sustained winds near 160 mph (257 km/h). As of the afternoon of the 4th local time the storm's center was about 990 km (615 miles) south of Lihue, Hawaii. It is expected to bring damaging winds, heavy rain and storm surge. Hawaii has declared a state of emergency."
+    },
+    {
+      "id": "5078583",
+      "time": "2026-09-05 13:55:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Jump Trading據悉在香港擴大辦公空間 並擬增聘量化及AI方面人才】據知情人士稱，Jump Trading在中國香港增加辦公空間，這是全球交易公司擴大在港佈局的最新跡象。知情人士表示，這家總部位於芝加哥的公司將在國際金融中心一期增加11,000平方英尺（1,022平方米）的辦公空間。其中一位知情人士表示，該公司將擴充套件到新的樓層，並在現有樓層增加辦公面積。這一行動正逢Jump Trading在香港股票資本市場日益活躍，當地持續旺盛的首次公開募股市場為交易公司創造了豐富的機遇。其中一位知情人士稱，該公司計劃在香港辦公室增聘人才，包括量化和人工智慧方面的崗位。Jump Trading的一位代表拒絕置評。"
+    },
+    {
+      "id": "mkt:01a0701f-c984-7118-84b0-a6ff1a44a79f",
+      "time": "2026-09-05 13:52:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency quoted a senior Iranian political-security official warning South Korea not to yield to US pressure or be forced to cooperate with US military illegal actions, saying Seoul must not sacrifice its interests or standing to accommodate Washington’s hostile policy on regional security and stability."
+    },
     {
       "id": "5078582",
       "time": "2026-09-05 13:50:09",
