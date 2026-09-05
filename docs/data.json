@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 00:26:48",
-  "count": 14174,
+  "updated": "2026-09-06 00:30:49",
+  "count": 14173,
   "items": [
+    {
+      "id": "5078877",
+      "time": "2026-09-06 00:29:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外交部長：古巴是野蠻資本主義之外的另一種選擇。美國政客忌憚的，正是存在這樣一種模式，有別於他們企圖強加給全世界的那套體系。"
+    },
     {
       "id": "5078876",
       "time": "2026-09-06 00:23:18",
@@ -129780,22 +129788,6 @@
         "Impact bearish"
       ],
       "text": "【Bessent says US guided 130 million barrels through Strait of Hormuz; Iran speaker calls claim false】Iranian parliament speaker Ghalibaf dismissed U.S. Treasury official Bessent’s claim that the U.S. guided 130 million barrels of oil through the Strait of Hormuz in the past 14 days, calling the assertion false. Ghalibaf cited a June Moody’s survey saying the Iran war has cost U.S. taxpayers at least $132 billion, alleged trading firm Jane Street lost more than $130 million on a single futures roll after shorting oil, and said yields are “on fire,” referring to the recent spike in U.S. long-term Treasury yields."
-    },
-    {
-      "id": "5066507",
-      "time": "2026-08-30 00:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩：以色列軍隊在黎巴嫩南部馬爾卡巴與拉卜塔拉辛兩鎮之間實施大規模爆炸。"
-    },
-    {
-      "id": "5066506",
-      "time": "2026-08-30 00:28:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦媒體：以色列猛烈炮擊加沙地帶南部汗尤尼斯城南部多地。"
     }
   ]
 }
