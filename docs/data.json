@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-05 20:25:56",
-  "count": 14166,
+  "updated": "2026-09-05 20:29:54",
+  "count": 14163,
   "items": [
+    {
+      "id": "mkt:01a07189-2f85-7118-84b2-683a3c8d73b9",
+      "time": "2026-09-05 20:26:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "【NICICO purchases from Kerman suppliers jump 131% YoY to 3.32 tln rials in first five months】National Iranian Copper Industries Company (NICICO) increased purchases from Kerman province local suppliers by 131% YoY to 3.3199 tln rials in the first five months of this year, compared with 1.4403 tln rials a year earlier, Fars News cited a comparative report from the Iranian Mining and Nonferrous Metals Commercial Services Company."
+    },
     {
       "id": "5078723",
       "time": "2026-09-05 20:22:10",
@@ -129729,38 +129740,6 @@
         "MKT News"
       ],
       "text": "【U.S. military to discipline sailor who jumped from USS Abraham Lincoln】The U.S. military plans to discipline a 19-year-old sailor who jumped from the USS Abraham Lincoln earlier this month, citing self-harm and unauthorized absence, U.S. media reported. The sailor jumped from the carrier on the 3rd and was rescued about an hour later. Military charges allege he violated regulations by deliberately feigning illness or injuring himself to avoid duty and by leaving his post without approval. The Lincoln began a planned deployment in November, was sent to the Middle East in January and is now en route back to the United States. The New York Times reported the carrier spent 272 days largely at sea with only brief resupply stops in Guam and Oman; about 5,000 crew members reportedly faced low morale and poor living conditions, and several sailors have reportedly suffered mental breakdowns and attempted to jump overboard."
-    },
-    {
-      "id": "5066372",
-      "time": "2026-08-29 20:29:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年度總票房破280億】據燈塔專業版資料，截至8月29日，2026年度大盤票房(含預售)突破280億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《歡迎來龍餐館》《八仙！》暫列年度票房前五名。"
-    },
-    {
-      "id": "mkt:01a04d7f-04f8-7aab-917e-7717fdee3331",
-      "time": "2026-08-29 20:29:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA reported President Putin met Belarusian President Lukashenko."
-    },
-    {
-      "id": "5066371",
-      "time": "2026-08-29 20:29:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國重要糧食產區三江平原糧運專線實現換軌升級】8月29日，由中鐵第五勘察設計院設計、中鐵二十二局承建的黑龍江省友寶鐵路正線換軌及站線大修工程進入收尾階段，工程將於8月30日完成全部作業任務。友（友誼）寶（寶清）鐵路是我國重要糧食主產區黑龍江省三江平原糧食及大宗商品專用運輸通道，於1998年投用。本次換軌及站線大修是黑龍江省深入實施新一輪千萬噸糧食增產計劃的關鍵配套工程，軌道線路升級後將大幅增強當地運輸承載能力，助力黑龍江省糧食外運提質增效。（新華社）"
-    },
-    {
-      "id": "5066367",
-      "time": "2026-08-29 20:27:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍打算處分“林肯”號跳海水兵】美國媒體報道，美國軍方打算處分那名本月初從“林肯”號航空母艦上跳海的水兵，理由是他“自傷”和“擅離職守”。據美國MS Now新聞頻道日前報道，這名19歲水兵本月3日從“林肯”號航母上跳海，約一小時後獲救。目前，軍方指控他違反軍規，“故意裝病或傷害自己，以逃避工作、職責或兵役”，以及在未獲批准的情況下擅自脫離崗位。（新華社）"
     }
   ]
 }

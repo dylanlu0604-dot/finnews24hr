@@ -1,7 +1,18 @@
 {
   "date": "2026-09-05",
-  "count": 859,
+  "count": 860,
   "items": [
+    {
+      "id": "mkt:01a07189-2f85-7118-84b2-683a3c8d73b9",
+      "time": "2026-09-05 20:26:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "【NICICO purchases from Kerman suppliers jump 131% YoY to 3.32 tln rials in first five months】National Iranian Copper Industries Company (NICICO) increased purchases from Kerman province local suppliers by 131% YoY to 3.3199 tln rials in the first five months of this year, compared with 1.4403 tln rials a year earlier, Fars News cited a comparative report from the Iranian Mining and Nonferrous Metals Commercial Services Company."
+    },
     {
       "id": "5078723",
       "time": "2026-09-05 20:22:10",
