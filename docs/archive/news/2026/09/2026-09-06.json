@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 99,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:01a07310-ec83-7118-84b4-4b6c72dc82f6",
+      "time": "2026-09-06 03:34:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said if Israel had not acted earlier, Iran would now possess a nuclear weapon capable of destroying Israel; he warned Tehran is trying again and is regrouping."
+    },
+    {
+      "id": "5078928",
+      "time": "2026-09-06 03:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡談及伊朗：倘若我們當初沒有對伊朗採取行動，如今伊朗就已經擁有旨在消滅我們的原子彈。現在他們會再度嘗試。他們正在捲土重來。"
+    },
     {
       "id": "mkt:01a0730a-6e87-7118-84b4-41f309e65761",
       "time": "2026-09-06 03:27:38",
