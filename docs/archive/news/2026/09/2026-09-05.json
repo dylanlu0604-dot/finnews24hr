@@ -1,7 +1,41 @@
 {
   "date": "2026-09-05",
-  "count": 789,
+  "count": 793,
   "items": [
+    {
+      "id": "mkt:01a070fa-3fc6-7118-84b1-f29fde9cc888",
+      "time": "2026-09-05 17:50:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NDRC allocates 20 mln yuan for Jiangxi post-flood emergency recovery】Heavy rains have caused flooding in parts of Jiangxi, including Nanchang and Ji'an. On Sept. 5 the National Commission for Disaster Reduction and the Ministry of Emergency Management activated a national level-4 disaster emergency response. Citing the national natural disaster relief emergency plan and provincial damage assessments, the National Development and Reform Commission urgently allocated 20 mln yuan of central budget investment to support Jiangxi’s post-flood emergency restoration, prioritizing repairs to damaged roads and water-conservancy infrastructure and emergency reconstruction of schools, hospitals and other public-service facilities to restore normal production and living order."
+    },
+    {
+      "id": "5078659",
+      "time": "2026-09-05 17:49:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：我們對烏克蘭的交通基礎設施設施進行了打擊。"
+    },
+    {
+      "id": "5078658",
+      "time": "2026-09-05 17:49:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：我們使用無人機對基輔西部郊區的一個物流中心進行了打擊。"
+    },
+    {
+      "id": "5078657",
+      "time": "2026-09-05 17:48:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委緊急安排2000萬元中央預算內投資支援江西暴雨洪澇災害災後應急恢復】受近期強降雨影響，江西省南昌、吉安等多地發生洪澇災害。9月5日，國家防減救災委、應急管理部啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和江西省災害損失情況，國家發展改革委緊急安排中央預算內投資2000萬元，支援江西省做好暴雨洪澇災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（國家發展改革委）"
+    },
     {
       "id": "mkt:01a070f5-8fc0-7118-84b1-eaabdd769d53",
       "time": "2026-09-05 17:45:36",
