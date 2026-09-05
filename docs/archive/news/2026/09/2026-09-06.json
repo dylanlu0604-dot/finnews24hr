@@ -1,7 +1,19 @@
 {
   "date": "2026-09-06",
-  "count": 82,
+  "count": 83,
   "items": [
+    {
+      "id": "mkt:01a072d1-acff-7118-84b4-06559a95f816",
+      "time": "2026-09-06 02:25:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry condemns US strike on Iranian tanker, warns US and allies will bear consequences】Iran’s foreign ministry on Saturday condemned a US strike on an Iranian oil tanker in the Persian Gulf and Gulf of Oman, calling it part of a sustained US military campaign including maritime blockade and economic warfare. Tehran said the attacks violated Article 2(4) of the UN Charter, posed a clear threat to international peace and commercial shipping, and vowed to defend its sovereignty and national interests. The ministry accused the US of \"state terrorism\" and warned that the consequences of continued US and allied aggressive, interventionist actions in the region would be borne by the United States and its partners."
+    },
     {
       "id": "5078919",
       "time": "2026-09-06 02:24:31",

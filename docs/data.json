@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-06 02:25:12",
-  "count": 14208,
+  "updated": "2026-09-06 02:29:03",
+  "count": 14207,
   "items": [
+    {
+      "id": "mkt:01a072d1-acff-7118-84b4-06559a95f816",
+      "time": "2026-09-06 02:25:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry condemns US strike on Iranian tanker, warns US and allies will bear consequences】Iran’s foreign ministry on Saturday condemned a US strike on an Iranian oil tanker in the Persian Gulf and Gulf of Oman, calling it part of a sustained US military campaign including maritime blockade and economic warfare. Tehran said the attacks violated Article 2(4) of the UN Charter, posed a clear threat to international peace and commercial shipping, and vowed to defend its sovereignty and national interests. The ministry accused the US of \"state terrorism\" and warned that the consequences of continued US and allied aggressive, interventionist actions in the region would be borne by the United States and its partners."
+    },
     {
       "id": "5078919",
       "time": "2026-09-06 02:24:31",
@@ -130076,24 +130088,6 @@
         "焦點"
       ],
       "text": "伊拉克石油部發言人表示，伊拉克庫爾德斯坦對土耳其傑伊漢港口的石油出口量約為每日15萬桶。"
-    },
-    {
-      "id": "mkt:01a04ec8-408e-7118-83fb-275e1b8c7f50",
-      "time": "2026-08-30 02:29:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NBC news crew attacked and beaten with sticks by Israeli settlers in the West Bank."
-    },
-    {
-      "id": "5066603",
-      "time": "2026-08-30 02:28:31",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美聯儲傑克遜霍爾年度會議核心要點】美聯儲主席沃什在主旨演講中著重強調，抑制通脹是央行的首要任務。歐元區政策制定者在會議間隙發表通脹風險警示，部分官員暗示9月有加息必要。英國央行行長貝利表示暫無加息緊迫性，稱第二輪通脹效應溫和、勞動力市場走弱，可以暫時觀望局勢。"
     }
   ]
 }
