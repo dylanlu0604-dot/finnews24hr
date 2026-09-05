@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-05 13:12:14",
+  "updated": "2026-09-05 13:16:09",
   "count": 14130,
   "items": [
+    {
+      "id": "5078568",
+      "time": "2026-09-05 13:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦部長：亞太繁榮依靠合作而非脅迫】巴基斯坦氣候變化與環境協調部國務部長謝茲拉·哈拉爾在亞非媒體高階論壇上表示：“亞太地區實現共同繁榮，需要依靠合作，而不是脅迫；需要依靠開放貿易，而不是設定壁壘；需要依靠對話，而不是分歧與對立”。（中國日報）"
+    },
     {
       "id": "5078567",
       "time": "2026-09-05 13:09:19",
@@ -129433,16 +129441,6 @@
         "國際"
       ],
       "text": "【加拿大原住民酋長反對安大略湖更名】美國總統特朗普8月27日簽署行政令，將美加邊境的安大略湖更名為“美國湖”，引發加拿大方面強烈不滿。28日，加拿大昆特灣部族酋長唐納德·馬拉克爾表示，安大略湖的名稱源自長期生活於此的原住民易洛魁人的語言，褻瀆原住民的語言和文化是不可接受的，他要求特朗普為此道歉。馬拉克爾還表示，美方的這一行為違反了《聯合國土著人民權利宣言》，該宣言要求尊重原住民的語言、文化、歷史及土地。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a04bf0-35f7-7aab-917c-ab9e136c5a84",
-      "time": "2026-08-29 13:13:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【National Data Administration: compute network deeply coupled with five infrastructure networks】At the Digital China Expo in Guiyang, the National Data Administration said China’s compute network is deeply coupled with five infrastructure networks — water, new power grids, next‑generation communications, urban underground pipe networks and logistics — forming an integrated system that mutually empowers operations. The agency said compute acts as the “brain,” enabling intelligent dispatch and improved renewable absorption in new power grids; collaborating with next‑gen communications to accelerate data flow, model training and applications; supporting basin‑level water forecasting and dynamic water allocation; enabling real‑time monitoring, risk warning and emergency linkage for urban lifeline systems (gas, drainage, heating); and linking logistics to lower costs and boost supply‑chain efficiency. It reported national intelligent compute capacity of 2.45 million PFLOPS (FP16) as of end‑July, with eight national compute hubs and three power‑compute coordination zones comprising over 85% of the country’s compute scale."
     }
   ]
 }
