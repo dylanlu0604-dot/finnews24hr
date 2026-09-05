@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-06 03:36:10",
-  "count": 14211,
+  "updated": "2026-09-06 03:40:13",
+  "count": 14207,
   "items": [
+    {
+      "id": "5078929",
+      "time": "2026-09-06 03:38:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍發表宣告稱，其已對三艘沿未經授權航線透過霍爾木茲海峽的船隻採取打擊行動。"
+    },
     {
       "id": "mkt:01a07310-ec83-7118-84b4-4b6c72dc82f6",
       "time": "2026-09-06 03:34:43",
@@ -130061,54 +130070,6 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希齊揚：落實諒解備忘錄可阻止美以在（本）地區製造動盪。"
-    },
-    {
-      "id": "mkt:01a04f09-54e6-7118-83fb-84fe244f21c9",
-      "time": "2026-08-30 03:40:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran deputy foreign minister says not in a hurry to reopen Strait of Hormuz】On Aug. 29, Iran’s deputy foreign minister said Iran and Oman have reached an understanding on transit arrangements for the Strait of Hormuz, but the accord will not be implemented automatically. He said the understanding will not take effect unless the US fulfills its obligations, and Iran is not in a hurry to reopen the strait."
-    },
-    {
-      "id": "5066613",
-      "time": "2026-08-30 03:39:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗副外長稱不急於重新開放霍爾木茲海峽】當地時間8月29日，伊朗副外長加里巴巴迪表示，伊朗已與阿曼就霍爾木茲海峽通行安排達成諒解，但該諒解不會自動進入執行階段。加里巴巴迪表示，除非美國履行其義務，否則伊朗與阿曼就霍爾木茲海峽達成的諒解不會進入執行階段，伊朗不急於重新開放霍爾木茲海峽。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04f07-4e8d-7118-83fb-7dcb36a29632",
-      "time": "2026-08-30 03:37:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said the Strait of Hormuz will not be reopened quickly if the US does not fulfill its commitments."
-    },
-    {
-      "id": "mkt:01a04f06-c44b-7118-83fb-7522c8a3fbe4",
-      "time": "2026-08-30 03:37:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said Tehran has made clear the steps the U.S. must take to return to the memorandum of understanding."
-    },
-    {
-      "id": "mkt:01a04f06-3f91-7118-83fb-6eeca160590b",
-      "time": "2026-08-30 03:36:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said Qatar and Pakistan are exploring the possibility of resuming implementation of a memorandum of understanding."
     }
   ]
 }
