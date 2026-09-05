@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 03:48:16",
+  "updated": "2026-09-06 03:52:11",
   "count": 14210,
   "items": [
+    {
+      "id": "mkt:01a0731f-ecad-7118-84b4-64d1ab906317",
+      "time": "2026-09-06 03:51:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Irish Prime Minister Micheál Martin will urge U.S. President Trump next Saturday to end the conflict with Iran, the Times reports."
+    },
     {
       "id": "mkt:01a0731a-d2f1-7118-84b4-5801d1c7345e",
       "time": "2026-09-06 03:45:32",
@@ -130093,15 +130101,6 @@
         "Impact mixed"
       ],
       "text": "【Warren accuses Trump of profiting-linked oil gains from US‑Iran war】Senator Elizabeth Warren accused President Trump of launching the US‑Iran war and said oil firms tied to him have profited. Democrats, citing Joint Economic Committee data and Trump’s financial disclosures through Q2 2026, said he continued trading oil and gas stocks during the conflict and that his disclosed energy holdings widened from a $13–46m range at the start of the year to $17–61m by mid‑August; the White House says Trump did not participate in the trades. Warren highlighted corporate results: ExxonMobil posted Q2 net income above $14.0bn, about double a year earlier, and Chevron’s Q2 profit rose roughly fourfold from the same period in 2025 to $12.1bn. She said ending the Iran war would lower gasoline prices."
-    },
-    {
-      "id": "5066615",
-      "time": "2026-08-30 03:48:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗副外長：伊阿達成霍爾木茲海峽共識，待美方履約後方可執行】伊朗副外長加里巴巴迪表示，伊朗與阿曼已就霍爾木茲海峽達成共識，但該共識要等到美國履行《伊斯蘭堡諒解備忘錄》項下承諾之後才會落地執行。加里巴巴迪週六稱：“霍爾木茲海峽目前仍處於關閉狀態，所有通行海峽的船隻都必須與伊朗方面協調。”他補充道：“我們會繼續採取防禦舉措，已做好應對任何局勢的準備。”談及卡達與巴基斯坦官員近期到訪伊朗，加里巴巴迪表示，訪問的目的是評估各方是否有可能恢復履行《伊斯蘭堡諒解備忘錄》中的各項承諾。"
     }
   ]
 }

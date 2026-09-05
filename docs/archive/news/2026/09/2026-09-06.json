@@ -1,7 +1,15 @@
 {
   "date": "2026-09-06",
-  "count": 106,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:01a0731f-ecad-7118-84b4-64d1ab906317",
+      "time": "2026-09-06 03:51:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Irish Prime Minister Micheál Martin will urge U.S. President Trump next Saturday to end the conflict with Iran, the Times reports."
+    },
     {
       "id": "mkt:01a0731a-d2f1-7118-84b4-5801d1c7345e",
       "time": "2026-09-06 03:45:32",
