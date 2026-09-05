@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-05 20:42:28",
+  "updated": "2026-09-05 20:46:31",
   "count": 14157,
   "items": [
+    {
+      "id": "mkt:01a07198-a368-7118-84b2-7f2822b46c98",
+      "time": "2026-09-05 20:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media lists denied reports over past 24 hours】Mehr News Agency says the following claims were denied in the past 24 hours: that Hatam al‑Anbiya headquarters announced a pre-emptive strike on a US base in Jordan; that the US Treasury reported the EU had joined sanctions on Iran; that US and Israeli forces attacked nuclear facilities in Isfahan; that IRGC personnel were besieged on Mount Ali Tahir; that the US has built a secret waterway in the Strait of Hormuz; and that a steel company in Zanjan province had its power cut for five months."
+    },
+    {
+      "id": "5078727",
+      "time": "2026-09-05 20:42:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中廣核山東招遠核電專案2號機組主體工程開工】9月5日，中廣核山東招遠核電專案2號機組啟動核島第一罐混凝土澆築，標誌著該機組主體工程正式開工，專案一期工程進入全面建設階段。 山東招遠核電專案是中廣核在全國佈局的第十個核電基地，專案一期規劃建設2臺機組，是我國首個配置冷卻塔的“華龍一號”核電專案。本次澆築的專案2號機組反應堆廠房筏基為半徑27米、高度3.7米的圓柱體，混凝土總澆築量約8800立方米，預計連續施工約60小時。"
+    },
     {
       "id": "5078724",
       "time": "2026-09-05 20:35:22",
@@ -129660,31 +129676,6 @@
         "其他"
       ],
       "text": "【尼日國防部稱首都一軍事基地發生未遂兵變 目前局勢已受控】當地時間8月29日11時20分，尼日國家電視臺播出尼國防部的一份宣告。尼國防部在宣告中稱，首都尼亞美101號軍事基地一些士兵當天企圖發動兵變，目前局勢已得到控制。宣告呼籲當地民眾保持冷靜，正常開展生產生活。尼國防部宣告稱，“叛亂軍人將部分同伴關押在尼亞美101空軍基地的營房內，並在尼亞美市的部分敏感地點開槍射擊，國防與安全部隊的迅速反應制止了這一動向，並逐步收復了對這些地點的控制”。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04d8e-a56e-7aab-917e-a196562de8b9",
-      "time": "2026-08-29 20:46:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Russia extends producers' export ban on diesel and marine fuel to Sept. 30】The Russian government extended to Sept. 30 an export ban for producers on diesel, marine fuel and gasoil, previously due to expire Aug. 31. The government said the move is intended to maintain stability in the domestic fuel market."
-    },
-    {
-      "id": "mkt:01a04d8c-234d-7aab-917e-9bf62ce966c7",
-      "time": "2026-08-29 20:43:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Alhadath reported Israel launched three airstrikes on Mansouri and Wadi Hujayl in southern Lebanon."
     }
   ]
 }

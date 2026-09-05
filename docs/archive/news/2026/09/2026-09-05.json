@@ -1,7 +1,23 @@
 {
   "date": "2026-09-05",
-  "count": 862,
+  "count": 864,
   "items": [
+    {
+      "id": "mkt:01a07198-a368-7118-84b2-7f2822b46c98",
+      "time": "2026-09-05 20:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media lists denied reports over past 24 hours】Mehr News Agency says the following claims were denied in the past 24 hours: that Hatam al‑Anbiya headquarters announced a pre-emptive strike on a US base in Jordan; that the US Treasury reported the EU had joined sanctions on Iran; that US and Israeli forces attacked nuclear facilities in Isfahan; that IRGC personnel were besieged on Mount Ali Tahir; that the US has built a secret waterway in the Strait of Hormuz; and that a steel company in Zanjan province had its power cut for five months."
+    },
+    {
+      "id": "5078727",
+      "time": "2026-09-05 20:42:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中廣核山東招遠核電專案2號機組主體工程開工】9月5日，中廣核山東招遠核電專案2號機組啟動核島第一罐混凝土澆築，標誌著該機組主體工程正式開工，專案一期工程進入全面建設階段。 山東招遠核電專案是中廣核在全國佈局的第十個核電基地，專案一期規劃建設2臺機組，是我國首個配置冷卻塔的“華龍一號”核電專案。本次澆築的專案2號機組反應堆廠房筏基為半徑27米、高度3.7米的圓柱體，混凝土總澆築量約8800立方米，預計連續施工約60小時。"
+    },
     {
       "id": "5078724",
       "time": "2026-09-05 20:35:22",
