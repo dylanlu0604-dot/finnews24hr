@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-06 02:17:27",
-  "count": 14206,
+  "updated": "2026-09-06 02:21:22",
+  "count": 14207,
   "items": [
+    {
+      "id": "mkt:01a072cc-db47-7118-84b3-fe2a0ec00ec2",
+      "time": "2026-09-06 02:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin says Russia has not discussed expanding ceasefire with Ukraine】RIA reported President Putin said Kyiv has called for a broader three-day ceasefire, but Russia has not discussed or agreed to one. He made the remark during a meeting with a U.S. envoy and Kushner."
+    },
+    {
+      "id": "mkt:01a072ca-104f-7118-84b3-f4bff65ff446",
+      "time": "2026-09-06 02:17:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Zelenskiy: Ukraine to halt strikes on Moscow through Sept 7】On the 5th Zelenskiy posted on social media that after a same-day call with US representatives, Ukraine will halt strikes on Moscow from now until Sept 7 and he said he hopes Russia will likewise cease attacks on Kyiv during the period."
+    },
+    {
+      "id": "5078917",
+      "time": "2026-09-06 02:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部譴責美襲擊伊朗油輪，警告後果自負】伊朗外交部週六譴責美國在波斯灣與阿曼灣襲擊伊朗油輪，稱其為戰爭罪，並警告華盛頓及其盟友必須為襲擊持續下去所引發的後果承擔責任。外交部在一份宣告中表示，此類襲擊屬於美國針對伊朗持續軍事行動的一部分，其中包括海上封鎖與經濟戰。宣告稱，這些打擊違反《聯合國憲章》第二條第四款，並且對國際和平與商業航運安全構成明確威脅。外交部表示，伊朗決心捍衛本國主權與國家利益，反抗其所稱的美國“國家恐怖主義”以及包括襲擊商業航運在內的侵略行為。德黑蘭警告，華盛頓及其盟友需要為美國在該地區繼續採取任何軍事行動所帶來的後果承擔責任。"
+    },
     {
       "id": "5078916",
       "time": "2026-09-06 02:16:14",
@@ -130059,22 +130088,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump to serve as honorary chair of Presidents Cup】US President Trump accepted an invitation from the PGA Tour and new commissioner Brian Rolapp to serve as honorary chair of the upcoming Presidents Cup at Medinah Country Club in Chicago and said he plans to attend."
-    },
-    {
-      "id": "5066598",
-      "time": "2026-08-30 02:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴克萊：AI模型公司每賺100美元 約35至40美元流向三大雲巨頭】巴克萊在報告中稱，AI模型公司每獲得100美元收入，其中約有35至40美元會以推理算力費用的形式流向三大雲巨頭，即亞馬遜AWS、微軟Azure和谷歌雲平臺（GCP）。在這部分收入中，雲服務商能夠獲得約10至20美元的營業利潤，對應約35%至45%的營業利潤率。報告指出，AI實驗室付費推理業務的利潤率已經大幅攀升，從2025年的低雙位數水平升至2026年的50%至65%甚至更高，調整後毛利率同比提升30至50個百分點。巴克萊分析師認為，實際利潤率可能甚至高於報告中的估算，但隨著前沿模型競爭加劇以及算力供給持續增加，利潤率預計將逐步回落。"
-    },
-    {
-      "id": "5066596",
-      "time": "2026-08-30 02:19:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐貝魯特大使館：真主黨既不願同黎巴嫩政府談判，也不願與美國、以色列對話，原因很簡單，該組織聽命於伊朗。"
     }
   ]
 }
