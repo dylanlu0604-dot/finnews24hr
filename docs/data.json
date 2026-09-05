@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 03:20:27",
+  "updated": "2026-09-06 03:24:20",
   "count": 14211,
   "items": [
+    {
+      "id": "mkt:01a07304-65f8-7118-84b4-3f2116ae81bd",
+      "time": "2026-09-06 03:21:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar PM, Lebanese PM discuss de-escalation and maritime security】Qatari prime minister and foreign minister Sheikh Mohammed spoke by phone with the Lebanese prime minister, urging calm amid rising regional tensions and discussing de-escalation measures and maritime security. Qatar reiterated support for diplomatic efforts to safeguard freedom of navigation and to pave the way for a comprehensive agreement toward durable regional peace, and reaffirmed backing for Lebanon's stability and territorial integrity."
+    },
     {
       "id": "5078927",
       "time": "2026-09-06 03:16:33",
@@ -130106,15 +130114,6 @@
         "Europe & UK"
       ],
       "text": "【EU to act quickly on Spain's request for migration support】On Aug 29, EU commissioner for home affairs and migration Magnus Brunner said Spain has requested additional support — including the European Border and Coast Guard Agency (Frontex), Europol and the EU Agency for Asylum — to address a migration crisis. The Commission is processing the requests and will decide swiftly. Brunner said the immediate priority remains the rapid return of irregular migrants in the Spanish enclave of Ceuta, where thousands remain after a large late‑July mass crossing. Spain submitted the request on Aug 28."
-    },
-    {
-      "id": "5066611",
-      "time": "2026-08-30 03:22:07",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國財政大臣希利：考慮對銀行與石油企業徵收暴利稅。"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-09-06",
-  "count": 97,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:01a07304-65f8-7118-84b4-3f2116ae81bd",
+      "time": "2026-09-06 03:21:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar PM, Lebanese PM discuss de-escalation and maritime security】Qatari prime minister and foreign minister Sheikh Mohammed spoke by phone with the Lebanese prime minister, urging calm amid rising regional tensions and discussing de-escalation measures and maritime security. Qatar reiterated support for diplomatic efforts to safeguard freedom of navigation and to pave the way for a comprehensive agreement toward durable regional peace, and reaffirmed backing for Lebanon's stability and territorial integrity."
+    },
     {
       "id": "5078927",
       "time": "2026-09-06 03:16:33",
