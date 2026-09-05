@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-05 08:29:18",
-  "count": 14089,
+  "updated": "2026-09-05 08:33:11",
+  "count": 14090,
   "items": [
+    {
+      "id": "5078442",
+      "time": "2026-09-05 08:31:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中加（拿大）舉行第5次國防部工作會晤】9月4日，中加（拿大）第5次國防部工作會晤在加舉行。雙方就共同關心的國際和地區問題坦誠深入交換意見，表達了加強兩軍務實交流合作的積極意願，增進了相互理解和信任。"
+    },
+    {
+      "id": "5078441",
+      "time": "2026-09-05 08:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻利維亞一軍營發生爆炸 已致2死59傷】當地時間9月4日，玻利維亞行政首府拉巴斯一處軍營發生爆炸。玻利維亞警察總局副局長羅赫爾·羅卡上校表示，爆炸已造成2人死亡、59人受傷，另有7人失蹤。（央視新聞）"
+    },
+    {
+      "id": "5078440",
+      "time": "2026-09-05 08:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華南等地降雨開始減弱 北方雨水發展多地明顯降溫】今天（9月5日），華南、江南降雨將明顯減弱，但地質災害具有滯後性，需警惕前期強降雨可能引發的次生災害。明後天，北方降雨發展，疊加冷空氣影響，8日前後多地氣溫將創立秋後新低，公眾請適時添衣，謹防感冒。（央視新聞）"
+    },
     {
       "id": "5078438",
       "time": "2026-09-05 08:28:25",
@@ -129043,25 +129067,6 @@
         "Brent"
       ],
       "text": "Venezuela's interim president Rodriguez said the oil agreement with the United States will add $209 billion to state finances."
-    },
-    {
-      "id": "mkt:01a04aec-ef69-7aab-917b-7898090188ad",
-      "time": "2026-08-29 08:30:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Venezuela's president said the country has reached a historic agreement with the United States that will have a major impact on its revival."
-    },
-    {
-      "id": "5066126",
-      "time": "2026-08-29 08:30:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯就石油協議向特朗普、魯比奧表達感謝。"
     }
   ]
 }
