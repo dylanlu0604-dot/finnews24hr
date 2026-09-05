@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-06 02:13:32_
-_本檔包含 2821 則快訊，約 557046 字_
+_更新時間：2026-09-06 04:20:26_
+_本檔包含 2826 則快訊，約 557325 字_
+
+---
+
+### 2026-09-04 10:15:55  #市場
+
+珀斯鑄幣廠8月份黃金銷量降至23,932盎司。
+
+---
+
+### 2026-09-04 10:15:33  #國際
+
+【我國牽頭提出的淨零碳城市國際標準在ISO成功立項】我國牽頭提出的《城市和社群可持續發展淨零碳城市 第2部分：原則與要素》國際標準提案，近日在國際標準化組織（ISO）成功立項。該標準聚焦能源、交通、建築、工業、農業、林業、土地利用、迴圈經濟、居住與工作環境等重點領域，從激勵機制、人才隊伍建設、技術支撐、社會文化適配、工具與方法等方面提供參考正規化，旨在為城市制定淨零碳策略提供系統性原則和要素指引，助力城市構建系統化淨零碳發展路徑。如：在能源領域，擬提出可再生能源消納配比規劃指引，協助城市明確清潔能源替代的時間表與路線圖；在交通領域，擬提出新能源充換電及氫能站點佈局指引，推動城市交通用能結構系統性重塑；在建築領域，擬提出綠色建材選型與圍護結構節能實施指引，從源頭降低建築全生命週期碳排放。該標準將作為全球城市碳中和工作落地的首份綜合性技術“操作手冊”，提供一套可衡量、可複製、可驗證的淨零碳行動框架，著力解決當前城市“有目標、無路徑”的治理難題，推動全球城市淨零碳建設從分散“個案”走向通用“正規化”。中國、加拿大、義大利、韓國、葡萄牙、蓋亞那等國專家將聯合開展標準研製工作。
+
+---
+
+### 2026-09-04 10:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: New Zealand Dollar Rises by 0.27% — Top currency gainer is New Zealand Dollar (0.27%). Biggest losers are Japanese Yen (-0.08%) and South Korean Won (-0.06%). Meanwhile Chinese Yuan was little changed.
+
+---
+
+### 2026-09-04 10:14:41  #市場
+
+珀斯鑄幣廠8月份白銀銷量降至333,880盎司。
+
+---
+
+### 2026-09-04 10:13:56  #其他
+
+片山：將適當控制全年的債券發行。
+
+---
+
+### 2026-09-04 10:13:37  #國際
+
+日本財務大臣片山：下一財年預算申請總額約為143萬億日元。
+
+---
+
+### 2026-09-04 10:13:35  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister KATAYAMA said the total budget request for the next fiscal year is about 143 tln yen.
+
+---
+
+### 2026-09-04 10:13:18  #公司 #觀點
+
+【花旗：料美團-W可應對持續宏觀及競爭挑戰 維持“買入”評級】花旗釋出研報稱，維持美團-W(03690)“買入”評級及目標價120港元。該行仍對管理層穩健執行、聚焦高質量及AI驅動增長保持信心，認為公司可應對持續的宏觀及競爭挑戰。
+
+---
+
+### 2026-09-04 10:13:03  #MKT News
+
+【Ganjiang records 2026 No.1 flood】Rain-driven water at the Ji'an hydrological station on midstream Ganjiang (Ji'an, Jiangxi) rose to the warning level of 50.50 m at 05:05 on Sept 4; under major-river flood numbering rules the event is designated Ganjiang 2026 No.1 flood.
+
+---
+
+### 2026-09-04 10:13:00  #宏觀
+
+【28個省份303個統籌地區實施政策範圍內住院分娩個人“無自付”】在國務院新聞辦今天舉辦的新聞釋出會上，國家醫保局副局長王文君表示，截至目前，生育保險參保人數達2.6億，22個省份193個統籌地區將靈活就業人員納入保障，28個省份303個統籌地區實施政策範圍內住院分娩個人“無自付”，所有省份均將適宜的輔助生殖技術納入支付範圍，全面實現分娩鎮痛納入醫保報銷。
+
+---
+
+### 2026-09-04 10:12:51  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #300750.SZ #Impact bullish
+
+【CATL starts online sales event; cells priced from 0.395 yuan/Wh】CATL opened an online Ningde Quality Global Open Month sales event on Sept. 3, running through Sept. 30. The company is offering procurement discounts exclusively via its official online mall: 314Ah cells from 0.395 yuan/Wh and 280Ah cells from 0.465 yuan/Wh. CATL said a major new product will be launched later in September.
+
+---
+
+### 2026-09-04 10:12:45  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【28 provinces, 303 pooling regions implement zero out‑of‑pocket inpatient childbirth under policy】At a State Council press briefing, National Healthcare Security Administration deputy director Wang Wenjun said maternity insurance now covers 260 million people. Twenty-two provinces (193 pooling regions) have extended coverage to flexibly employed workers. Twenty-eight provinces (303 pooling regions) have implemented zero out‑of‑pocket inpatient childbirth within policy scope. All provinces have included appropriate assisted reproductive technologies in payment scope, and labor analgesia is now fully reimbursable under medical insurance.
+
+---
+
+### 2026-09-04 10:12:14  #市場
+
+【 國盛證券：AI封裝升級驅動 TGV產業鏈迎黃金髮展期 】 國盛證券釋出研報稱，CoWoS已成為高階AI晶片的重要封裝方案，但仍存在產能不足、成本高、發熱翹曲等問題。CPO等新興應用亦有望拓展潛在應用空間。TGV打孔和孔內金屬化是玻璃基板製造的兩大核心技術難點。建議分三條主線關注：1)TGV精密加工，關注玻璃通孔加工及相關玻璃基板製造環節;2)核心裝置賣鏟人，重點關注TGV鐳射打孔、PVD種子層沉積、銅電鍍、CMP等關鍵工藝裝置;3)上游原片環節，關注具備玻璃原片研發、製造能力，並有望向半導體玻璃基板領域延伸的廠商。
+
+---
+
+### 2026-09-04 10:12:02  #宏觀 #公司 #國際
+
+【歐盟批評以色列“E1區”定居點建設破壞“兩國方案”】歐盟外交與安全政策高階代表卡婭·卡拉斯2日表示，以色列的“E1區”定居點建設專案將破壞“兩國方案”的前景。在歐盟成員國外長非正式會議後的新聞釋出會上，卡拉斯說，“E1區”定居點建設專案如同“在約旦河西岸插入一道楔子”，將進一步破壞“兩國方案”的前景。她還表示，定居者針對巴勒斯坦人的暴力事件仍在增加，很多時候沒有受到追究。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦建國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。以色列政府今年8月釋出了“E1區”定居點建設專案1234套住房的招標公告。（新華社）
+
+---
+
+### 2026-09-04 10:11:55  #國際
+
+韓國：美國在會談中提出晶片問題後，雙方正在討論。
+
+---
+
+### 2026-09-04 10:11:40  #其他
+
+【寧德時代線上商城推出“尊享”活動 電芯0.395元/Wh起】從寧德時代獲悉，9月3日，寧德時代正式開啟“‘寧德品質’全球開放月”線上商城尊享活動，面向客戶推出採購福利。活動持續至9月30日，期間314Ah電芯0.395元/Wh起，280Ah電芯0.465元/Wh起。此外，9月還有重磅新品即將上市。據悉，此次活動為寧德時代線上商城專屬，相關優惠權益僅在官方商城可享。
+
+---
+
+### 2026-09-04 10:11:24  #市場 #觀點
+
+【中信證券：供給偏緊狀況下 短期港口動力煤價或突破1000元/噸】中信證券研報稱，5月下旬山西礦難過後，安監趨於嚴格，6~7月份全國原煤產量同比下滑均在10ppts左右。我們預計年內政策力度和供給收縮效應具備持續性。而需求雖然同比趨弱，但季節性的需求脈衝釋放或同樣可支撐煤價走強。供給偏緊的狀況下，短期港口動力煤價或突破1000元/噸，產地優質主焦煤均價或達到3000元/噸，Q3/Q4均價中樞環比或繼續上移，板塊業績彈性或進一步放大，特別是冶金煤板塊Q3盈利環比或增長60%。
+
+---
+
+### 2026-09-04 10:10:41  #MKT News #00293.HK
+
+Cathay Pacific (00293.HK) said it will continue to review the timetable for resuming freighter services to Dubai and Riyadh.
+
+---
+
+### 2026-09-04 10:10:11  #市場 #焦點
+
+南向資金淨賣出額達40億港元。
+
+---
+
+### 2026-09-04 10:10:09  #MKT News
+
+【Maternity insurance aided 25.56 million in first seven months】The National Healthcare Security Administration said maternity insurance fund payouts totalled 78.42 bln yuan in the first seven months of the year, benefiting 25.56 million person-visits; maternity allowance payments amounted to 60.78 bln yuan and have been paid directly to individuals. During the 15th Five‑Year Plan period, authorities plan to push flexible employees, migrant workers and new‑form workers covered by employee medical insurance to also join maternity insurance, raise prenatal‑check coverage, aim to make inpatient childbirth within policy scope effectively zero out‑of‑pocket for individuals, and expand cross‑region direct settlement of maternity medical expenses.
+
+---
+
+### 2026-09-04 10:09:56  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
+
+【RBNZ assistant governor says December more likely for next rate hike】RBNZ Assistant Governor Silk said the bank is more likely to wait until December for its next rate increase. The RBNZ raised the OCR at a second consecutive meeting this week; Governor Breman said further hikes may be required but policymakers want time to assess the impact of earlier moves. “We have been clear that, based on the economic outlook, further rate increases may be necessary,” Silk said, adding the timing — October or December — is undecided but the latter is more likely on the current rate path. Swaps price a 31% chance of a 25bp October hike to 3% and a 100% probability of 3% by December. Silk reiterated the RBNZ has no pre-set tightening path.
+
+---
+
+### 2026-09-04 10:09:53  #其他
+
+【中國信通院報告：詞元重構算力計量與交易體系 推動算力定價向智慧服務定價轉變】中國資訊通訊研究院雲端計算與數字化研究所釋出《算力中心服務商分析報告（2026年）》，報告研判了2026年算力產業的五大熱點趨勢，算電協同升級為“以電強算、以算促電”的雙向賦能新正規化；超節點有效破解傳統叢集擴充套件效率低下的難題，從封閉專用走向靈活普惠；單機櫃功耗向40-120kW快速升級，液冷技術助力實現成本與能效雙優；中國算力平臺排程粒度躍遷至任務級，釋放算力價值；詞元重構算力計量與交易體系，推動算力定價向智慧服務定價轉變。
+
+---
+
+### 2026-09-04 10:09:41  #MKT News #00293.HK #Impact bearish
+
+Cathay Pacific (00293.HK) will cancel passenger flights to and from Dubai and Riyadh through Nov 30.
+
+---
+
+### 2026-09-04 10:09:40  #其他
+
+【今年前7個月生育保險惠及2556萬人次】國家醫保局副局長王文君4日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年前7個月，生育保險基金支出784.2億元，惠及2556萬人次，其中生育津貼支出607.8億元，全面實現直髮個人。“十五五”期間將大力推動參加職工醫保的靈活就業人員、農民工、新就業形態人員同步參加生育保險，合理提高產前檢查保障水平，推動基本實現政策範圍內住院分娩個人“無自付”，進一步擴大生育醫療相關費用異地直接結算範圍。（新華社）
+
+---
+
+### 2026-09-04 10:09:15  #國際
+
+韓國官員：韓國正在審查包括軍事支援在內的各種方案。
+
+---
+
+### 2026-09-04 10:09:07  #MKT News #Market Regions #Greater China
+
+【Medical insurance to consolidate universal coverage in 15th Five-Year Plan, expand employee enrolment and build long-term care system】During the 15th Five-Year Plan period China will continue to consolidate the foundation of universal medical insurance, optimize overall enrolment structure and expand employee insurance coverage for key groups including flexible workers, migrant workers and new-form employment. The plan calls for higher maternity medical protection: direct settlement of insured persons’ maternity medical expenses and direct payment of maternity allowances to individuals. Authorities will fully establish a long-term care insurance system, refine long-term care service policies and push to raise long-term care service capacity and standards.
+
+---
+
+### 2026-09-04 10:08:43  #國際
+
+韓國官員：霍爾木茲海峽對韓國經濟和安全至關重要。
+
+---
+
+### 2026-09-04 10:08:34  #MKT News #Important #Commodities #Industrial Metals
+
+China ferrosilicon futures most-active contract hit the daily limit, up 6% at 6,624 yuan/ton, the highest since October 2024.
+
+---
+
+### 2026-09-04 10:08:33  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #09888.HK #Impact bullish #02525.HK #02026.HK
+
+【Hong Kong autonomous-driving stocks rally after Tesla launches Cybercab】Hong Kong autonomous-driving shares rallied after Tesla on Sept 3 (local) launched its Cybercab in Austin. Youjia Innovation (02431.HK) rose over 10%, Hesai‑W (02525.HK) rose over 8%, Pony.ai‑W (02026.HK) rose over 7%, Baidu (09888.HK) rose over 5% and RoboSense (02498.HK) rose about 4%. Tesla said the driverless Cybercab, operating without a steering wheel, pedals or mirrors, has entered service in Austin and is designed to deliver higher utilization and take on more travel demand.
+
+---
+
+### 2026-09-04 10:08:29  #市場 #焦點
+
+矽鐵連續主力合約日內漲6%，現報6624.00元。
+
+---
+
+### 2026-09-04 10:08:25  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Asian Stocks Rise as Fed Rate Hike Bets Cool — Asian equity markets advanced on Friday as traders scaled back expectations for a Federal Reserve rate hike this month after Governor Christopher Waller said he would support keeping rates unchanged if price pressures continue to ease. Traders now see roughly even odds of a quarter-point Fed hike in September, down from about 70% earlier this week. Investors also continued to monitor sharp moves in the yen after the currency rallied strongly this week on expectations for more aggressive policy tightening by the Bank of Japan, while traders watched for signs of official intervention to support the Japanese currency. Shares in Japan, South Korea, China, and Hong Kong all gained, with technology stocks leading regional advances.
+
+---
+
+### 2026-09-04 10:08:16  #宏觀
+
+【“十五五”時期將持續夯實全民醫保基礎 推進醫保高質量發展】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹推進醫保高質量發展，更好服務中國式現代化建設有關情況。國家醫保局有關負責人介紹，“十四五”時期：我國建成了全世界最大的基本醫療保障網，參保率穩定在95%；基本醫保藥品目錄達3253種，新技術新專案納入報銷範圍，職工和居民醫保住院費用政策範圍內報銷比例分別達到80%和70%左右；支付方式改革、集採全面推開，全國所有統籌地區開展醫保基金與定點醫藥機構即時結算，跨省異地就醫直接結算率達到90%；醫保基金執行安全穩健，有力保障群眾就醫購藥報銷。“十五五”時期，醫保部門將持續夯實全民醫保基礎，不斷最佳化全民參保結構，擴大靈活就業人員、農民工、新就業形態人員等重點人群參加職工醫保規模。持續提升生育醫療保障水平，實現參保人員生育醫療費用直接結算和生育津貼直接發放至個人。全面建立長期護理保險制度，完善長護險服務政策，推動提升長護服務能力和水平。同時，醫保部門還將縱深推進支付方式改革，助力醫療機構提質增效；規範化制度化常態化開展藥品耗材集中帶量採購，全面推廣藥品比價小程式在定點藥店應用；規範醫保目錄管理，加大對創新藥械和創新服務支援力度，推動中國醫藥走出去；持續強化基金監管力度，加強基金全流程管理。此外，深化醫保領域“高效辦成一件事”，實現高頻事項“異地可辦，就近可辦”；全面深化應用刷臉支付、一碼支付、移動支付、信用支付，實現職工醫保個人賬戶共濟使用，推動醫保公共服務供給便利化多樣化，最佳化群眾醫保服務體驗。
+
+---
+
+### 2026-09-04 10:07:11  #其他
+
+【華為WATCH 6系列將於9月7日釋出】據華為終端訊息，華為WATCH 6系列將於9月7日釋出，預計搭載HarmonyOS 7、小藝AI，將推出WATCH 6和WATCH 6 Pro兩款型號。
+
+---
+
+### 2026-09-04 10:06:49  #國際
+
+日本神戶制鋼將於10月起上調所有鋼鐵產品價格。
+
+---
+
+### 2026-09-04 10:05:48  #國際
+
+韓國總統府發言人：預計李在明訪問法國期間將與法國就核電合作展開討論。
+
+---
+
+### 2026-09-04 10:05:13  #其他
+
+【時的科技首個eVTOL製造基地計劃年內竣工】9月4日，據時的科技訊息，其位於安徽省蕪湖市灣沚區的智造基地正加速建設，並計劃於2026年內竣工。該基地佔地約70畝，是時的科技首個eVTOL製造基地。建成後，將規劃建設兩條完整的eVTOL總裝產線。
+
+---
+
+### 2026-09-04 10:05:08  #公司
+
+【原鄭州發展投資集團有限公司監事會主席沈建焜接受審查調查】據鄭州市紀委監委訊息：原鄭州發展投資集團有限公司監事會主席、鄭州城市一卡通有限責任公司原董事長沈建焜涉嫌嚴重違紀違法，目前正接受鄭州市紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-09-04 10:05:04  #其他
+
+【傳媒、影視ETF領漲】文化傳媒與AI影片板塊漲超4%，多隻傳媒ETF漲超5%，影視ETF漲超4%。
 
 ---
 
@@ -16797,208 +17025,5 @@ A U.S. judge has barred the Environmental Protection Agency from sending Califor
 ### 2026-09-03 08:51:01  #Trading Economics #Markets #Japan #Stock Market #Importance 2
 
 Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index fell 0.2% to around 64,200 while the broader Topix Index gained 0.7% to 4,110 in mixed trade on Thursday, with Japanese shares lacking clear direction as the yen suddenly strengthened amid speculation that authorities had conducted a rate check. A stronger yen weighs on the earnings outlook for Japan’s export-heavy industries and makes domestic assets more expensive for foreign investors. Meanwhile, equities found some support from a pullback in oil prices after President Donald Trump said the latest attacks on Iran would be short-lived. Global bond yields also retreated from recent highs as investors continued to assess the inflation and interest rate outlook. Among individual stocks, notable losses were recorded in tech firms such as Advantest (-1.6%), Fujikura (-1.2%) and Taiyo Yuden (-1.3%), while financial stocks gained, including Mitsubishi UFJ (1.5%), Sumitomo Mitsui (2.1%) and Mizuho Financial (1.5%).
-
----
-
-### 2026-09-03 08:49:43  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-【Google wins key antitrust battle; ad business spared divestiture】A U.S. federal judge on Wednesday denied the Department of Justice's request to force divestiture of Alphabet's Google (GOOG.O) online advertising business. Judge Leonie Brinkema, who last year found Google had illegally monopolized the complex online advertising market, rejected the DOJ's argument that selling Google's ad exchange was the only way to curb its dominance and instead issued a two‑page order adopting alternative remedies to limit Google's ability to control publishers' use of its ad tech. The ruling is historically significant and effectively closes a nearly 20‑year chapter of antitrust risk for Google.
-
----
-
-### 2026-09-03 08:49:19  #其他
-
-【李成鋼與維德角經濟、貿易、工業和數字轉型部部長巴普蒂斯塔舉行視訊會議】據商務部訊息，9月1日，李成鋼國際貿易談判代表兼副部長與維德角經濟、貿易、工業和數字轉型部部長巴普蒂斯塔舉行視訊會議，雙方就深化兩國經貿合作等議題進行溝通和交流。
-
----
-
-### 2026-09-03 08:48:55  #Trading Economics #Economy #Singapore #Composite PMI #Importance 1
-
-Singapore Private Sector Expands Further — Singapore’s S&P Global PMI edged up to 59.4 in August 2026 from 59.2 in the previous month. The reading marked the strongest growth since May 2022, driven mainly by accelerated growth in new orders, which counterbalanced a weaker upturn in output that slowed to a 12-month low. Both capacity and input requirements increased as a result of greater volumes of incoming new work. Hiring activity picked up at a sharp rate, the strongest recorded since February. Still, firms were unable to keep pace with mounting workloads, as signalled by a steep rise in backlogged orders. Purchasing activity also increased. The lengthening of lead times was less severe than in July, despite ongoing supply-chain disruptions. On the cost front, both purchase prices and employment costs increased at elevated rates again in August. Lastly, business confidence rose to its highest level in four months amid upbeat projections for demand.
-
----
-
-### 2026-09-03 08:48:16  #公司 #國際
-
-【黃仁勳敦促G20加快AI應用，擴大資料中心等基礎設施建設】當地時間9月2日，英偉達CEO黃仁勳在美國北卡羅來納州舉行的G20會議上敦促各國加快AI應用，並擴大資料中心等基礎設施建設。他表示，各國都需要建設基礎設施以支援本國經濟，並將AI比作水、電等基礎設施，認為AI將成為“最大的平等化力量”。黃仁勳警告，一個國家最糟糕的結果就是被AI發展甩在後面，呼籲各國關注AI帶來的經濟增長潛力。他還主張對AI採取更有針對性的監管，只監管實際發生的危害，而非理論或假設性風險，並認為企業應承擔確保AI產品安全的主要責任。
-
----
-
-### 2026-09-03 08:47:34  #其他
-
-【受“沙德爾”影響福建多條道路中斷 搶通搶險持續推進】9月1日以來，福建寧德福鼎市遭遇強降雨天氣，區域性24小時累計雨量超過400毫米。暴雨導致部分道路積水嚴重、有房屋進水群眾受困。消防救援部門開展救援。受颱風 "沙德爾" 東北側偏東氣流和弱冷空氣共同影響，福建寧德的柘榮縣這兩天普降大暴雨到特大暴雨，當地多處國省道出現溜方、塌方險情，致使道路中斷，鄉鎮幹部和搶險人員緊急趕赴現場，加固排險工作正在持續推進。（央視）
-
----
-
-### 2026-09-03 08:47:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-【Two-exchange margin financing falls CNY5.464 bln】As of Sept 2, margin financing on the Shanghai Stock Exchange was CNY1.345 trillion, down CNY1.752 billion from the prior session; Shenzhen stood at CNY1.278 trillion, down CNY3.712 billion. Combined outstanding margin debt across the two exchanges was CNY2.623 trillion, down CNY5.464 billion on the day.
-
----
-
-### 2026-09-03 08:46:49  #其他
-
-【兩市融資餘額減少54.64億元】截至9月2日，上交所融資餘額報13450.09億元，較前一交易日減少17.52億元；深交所融資餘額報12780.65億元，較前一交易日減少37.12億元；兩市合計26230.74億元，較前一交易日減少54.64億元。
-
----
-
-### 2026-09-03 08:45:41  #其他
-
-【今年前8個月全國共新開國際航空貨運航線115條】記者今天（3日）從中國物流與採購聯合會瞭解到，今年以來，我國國際航空貨運網路持續織密，今年前八個月，全國共新開國際航空貨運航線115條。
-
----
-
-### 2026-09-03 08:44:39  #公司
-
-【Delivery Hero董事會支援優步收購要約，稱每股41.5歐元價格公平合理】當地時間9月2日，德國外賣平臺Delivery Hero管理委員會和監事會發布聯合宣告，一致支援優步（Uber）提出的收購要約，並建議股東接受。雙方認為每股41.50歐元的現金收購價公平合理，較5月8日前三個月成交量加權平均股價溢價約127%。優步目前持有Delivery Hero約24.77%股份，並透過相關金融工具持有11.74%的經濟權益，同時已獲得不可撤銷承諾，將取得另外16.68%股份，使其經濟權益超過53%。要約最低接受門檻為50%加1股，接受期將於11月5日24時（中歐時間）結束，交易預計於2027年下半年完成，仍需獲得反壟斷等監管批准。
-
----
-
-### 2026-09-03 08:42:23  #央行 #宏觀
-
-【澳大利亞儲備銀行就代幣化市場中結算服務的作用開展意見徵詢】澳大利亞儲備銀行釋出宣告表示，該行已啟動意見徵詢，探討儲備銀行資訊與轉賬系統在代幣化生態體系結算業務中可發揮的作用。本次徵詢旨在收集各界意見，研究澳大利亞儲備銀行的相關服務如何助力本國代幣化資產市場與私人貨幣發展壯大，同時持續維護金融安全、執行效率與金融穩定。意見徵詢截止日期為10月30日。澳儲行同時提及，其與財政部聯合出具的報告認為，澳大利亞零售支付系統可為家庭及企業提供良好服務，目前並無充分公共利益理由推出零售型央行數字貨幣。
-
----
-
-### 2026-09-03 08:41:13  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Gain as Dollar, Treasury Yields Retreat — Gold traded near $4,400 an ounce on Thursday after rebounding in the previous session, as a pullback in the dollar and Treasury yields provided some relief. New York Fed Bank President John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month following Chair Kevin Warsh’s hawkish remarks on Friday. Elsewhere, oil prices halted their rally after President Donald Trump said the latest attacks on Iran would be short-lived while indicating that the US stands ready for further strikes, easing inflation concerns and providing additional support to bullion.
-
----
-
-### 2026-09-03 08:40:42  #國際
-
-【韓國選擇由Naver牽頭的聯盟 開發專注於網路安全的人工智慧基礎模型】據韓國科學技術資訊通訊部宣告，韓國已選定由Naver Cloud牽頭的聯盟， 開發專攻網路安全領域的人工智慧基礎大模型。政府將從9月起向該聯盟提供256塊英偉達 B200 GPU，使用週期為 10 個月。 韓國計劃本月與該聯盟簽署協議，並啟動網路安全方向模型的研發工作。 本次遴選評估維度包含技術實力、開發經驗與方案規劃、專案可行性、市場潛力以及預期影響。
-
----
-
-### 2026-09-03 08:40:30  #Trading Economics #Economy #Vietnam #Manufacturing PMI #Importance 1
-
-Vietnam Manufacturing Growth Hits 6-Month High — The S&P Global Vietnam Manufacturing PMI rose to 53.3 in August 2026 from 52.9 in July, marking its highest level since February and signaling a further strengthening of factory activity. Manufacturing output expanded for a sixteenth consecutive month and at its fastest pace in more than two years. In addition, new orders grew at the strongest rate since October 2025, reflecting robust demand conditions. Meanwhile, employment declined for the fifth time in the past six months, as firms cited retirements and a reduced reliance on temporary workers. On the price front, input cost inflation eased from July's eleven-month high, while output price growth also moderated, extending a four-month trend of softer selling-price inflation. Business sentiment remained positive, though confidence eased slightly from July. Manufacturers remained optimistic about the outlook, supported by new product launches, capacity expansions, and expectations of stronger customer demand.
-
----
-
-### 2026-09-03 08:39:42  #市場 #國際
-
-韓國KOSPI指數漲幅收窄至0.49%，日經225指數轉跌。
-
----
-
-### 2026-09-03 08:38:18  #MKT News
-
-【Ding Xuexiang meets Russian President Putin in Vladivostok】On the evening of Sept 2 (local time), Ding Xuexiang, a member of the CPC Political Bureau Standing Committee and China’s vice premier, met with Russian President Putin in Vladivostok.
-
----
-
-### 2026-09-03 08:38:16  #宏觀 #市場 #國際
-
-【丁薛祥會見俄羅斯總統普京】當地時間9月2日晚，中共中央政治局常委、國務院副總理丁薛祥在符拉迪沃斯託克會見俄羅斯總統普京。
-丁薛祥首先轉達習近平主席對普京總統的親切問候。丁薛祥表示，在習近平主席和普京總統的戰略引領下，中俄新時代全面戰略協作夥伴關係持續走深走實。中俄關系之所以能夠在變亂交織的國際形勢中牢不可撼，關鍵在於兩國元首領航掌舵。8月31日，習近平主席同普京總統在上海合作組織比什凱克峰會期間再次會晤，為雙邊關係發展和兩國務實合作達成新的重要共識。中方願同俄方一道，落實好兩國元首重要共識，以紮實舉措深化雙方利益融合，加強投資和能源等重點領域合作，不斷築牢中俄關系向更高質量發展的基礎。
-丁薛祥指出，東方經濟論壇是亞太地區各國凝聚合作共識的重要平臺，今年論壇主題是“遠東－發展為了人民”，中俄兩國政府都將為民造福作為最大政績，始終把維護兩國和兩國人民根本利益、增進全人類福祉作為崇高追求。俄羅斯遠東地區活力迸發，機遇不斷湧現，中俄加強遠東開發合作前景廣闊、大有可為。雙方要繼續用好“東北－遠東”合作機制和有關政策支援，加強中國東北振興與俄羅斯遠東開發戰略對接，持續拓展共贏發展空間，進一步提升合作規模和水平，讓互利共贏的成果更多更好地惠及兩國人民。
-普京請丁薛祥轉達對習近平主席的誠摯問候，歡迎丁薛祥來俄出席第十一屆東方經濟論壇。普京表示，幾天前，我同習近平主席在上合組織峰會期間會晤，並就重要領域合作進行深入交流，這再次體現了元首外交對兩國關係的引領作用。今年是《俄中睦鄰友好合作條約》簽署25週年，在兩國共同努力下，俄中關係達到前所未有水平，各領域合作取得積極進展。俄方願同中方加強戰略協調合作，推動兩國關係邁上更高水平。（新華社）
-
----
-
-### 2026-09-03 08:37:45  #宏觀 #市場 #國際
-
-【丁薛祥會見俄羅斯總統普京】當地時間9月2日晚，中共中央政治局常委、國務院副總理丁薛祥在符拉迪沃斯託克會見俄羅斯總統普京。(新華社)
-
----
-
-### 2026-09-03 08:36:27  #Trading Economics #Economy #Hong Kong #Manufacturing PMI #Importance 1
-
-Hong Kong Private Sector Activity Contracts in August — The S&P Global Hong Kong SAR PMI fell to 49.5 in August 2026 from 51.0 in July, signaling a renewed deterioration in private sector business conditions after three consecutive months of expansion. Output and new orders both contracted for the first time since April, as higher prices and weaker domestic and global demand weighed on activity and sales. New export business also declined marginally, although demand from Mainland China edged higher. Meanwhile, input cost inflation accelerated to a three-month high, driven by higher raw material and staff costs, prompting firms to raise selling prices at the fastest pace since April 2023. Employment declined for a fifth consecutive month as weaker demand and spare capacity discouraged hiring. Looking ahead, business confidence weakened further, with firms increasingly pessimistic about the year-ahead outlook amid concerns over the domestic economy, US tariffs and geopolitical uncertainty.
-
----
-
-### 2026-09-03 08:34:12  #其他
-
-澳大利亞儲備銀行就代幣化生態系統開展的公眾諮詢將於10月30日截止。
-
----
-
-### 2026-09-03 08:33:51  #公司
-
-智中國際控股有限公司在香港暫停交易。
-
----
-
-### 2026-09-03 08:33:16  #其他
-
-【證券日報：業內預計中國8月份新增信貸、社融或同比少增】記者採訪多位業內專家，對當月新增信貸及社融資料等進行前瞻分析。綜合來看，業界普遍判斷：2026年8月份新增信貸、社融規模較2025年同期或少增。資料顯示，2025年8月份新增信貸規模為5900億元，社融增量為2.57萬億元。 從新增信貸來看，東方金誠首席宏觀分析師王青認為，受季節性因素等影響，8月份新增信貸有望達到4800億元左右。不過，在當前貸款“降速提質”的大背景下，當月新增信貸將出現約1100億元的同比少增。另外，當前債市收益率下行，企業債券融資對銀行貸款形成替代，再加上近期企業中長期貸款到期規模明顯上升，這也是8月份新增人民幣貸款延續同比少增的一個原因。 從社融增量來看，華源證券固收首席分析師廖志明預計，8月份社融增量2.23萬億元，同比少增；8月末社融增速為7.3%，環比回落0.1個百分點。
-
----
-
-### 2026-09-03 08:32:58  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Mitsubishi UFJ Financial Stock Price Hits 5-week High — Mitsubishi UFJ Financial shares increased to 3743.00 JPY, the highest since July 2026. Over the past 4 weeks, Mitsubishi UFJ Financial gained 7.61%, and in the last 12 months, it increased 66.14%.
-
----
-
-### 2026-09-03 08:32:41  #市場
-
-上海證交所上日融資餘額下跌0.1%至13,450.1億元。
-
----
-
-### 2026-09-03 08:31:04  #資料 #國際
-
-PMI資料顯示，日本服務業增速創五個月新高。
-
----
-
-### 2026-09-03 08:31:00  #資料 #國際
-
-越南8月標普全球越南製造業PMI 53.3，前值52.9。
-日本8月服務業PMI終值 52.5，前值52.3。日本8月綜合PMI終值 53.5，前值53.4。
-中國香港8月標普全球製造業PMI 49.5，前值51。
-
----
-
-### 2026-09-03 08:30:40  #經濟數據 #日本
-
-日本8月綜合PMI終值53.5，前值53.4。
-
----
-
-### 2026-09-03 08:30:19  #經濟數據 #日本
-
-日本8月服務業PMI終值52.5，前值52.3。
-
----
-
-### 2026-09-03 08:30:12  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Japan August composite PMI (final) 53.5, up from 53.4.
-
----
-
-### 2026-09-03 08:30:10  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong S&P Global manufacturing PMI for August 49.5, down from 51.0 previously; reading below 50 signals contraction in factory activity.
-
----
-
-### 2026-09-03 08:30:08  #MKT News
-
-Vietnam August S&P Global manufacturing PMI 53.3, prior 52.9.
-
----
-
-### 2026-09-03 08:30:06  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Japan August services PMI (final) 52.5, prior 52.3.
-
----
-
-### 2026-09-03 08:30:02  #MKT News #Important #USDJPY #Impact bullish #DXY #EURUSD #Impact bearish
-
-Japan 20-year government bond yield fell 7.0 bps to 3.815%.
-
----
-
-### 2026-09-03 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Services PMI (Aug) | actual 52.5 | previous 52.3
 
 ---

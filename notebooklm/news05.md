@@ -1,7 +1,505 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-06 02:13:32_
-_本檔包含 2604 則快訊，約 556011 字_
+_更新時間：2026-09-06 04:20:26_
+_本檔包含 2651 則快訊，約 557083 字_
+
+---
+
+### 2026-09-01 01:36:04  #其他
+
+Nscale：得克薩斯州沃德縣園區獲得18.5億美元貸款授信額度。
+
+---
+
+### 2026-09-01 01:33:49  #其他
+
+Nscale：設施建設資金將主要用於在兩個園區部署圖形處理器基礎設施及配套網路、儲存與液冷裝置。
+
+---
+
+### 2026-09-01 01:32:52  #其他
+
+Nscale為得克薩斯州沃德縣和北卡羅來納州麥迪遜縣的人工智慧部署專案完成了近30億美元融資。
+
+---
+
+### 2026-09-01 01:31:15  #MKT News
+
+Russian President Putin met Kazakh President Tokayev in Bishkek during the Shanghai Cooperation Organization summit.
+
+---
+
+### 2026-09-01 01:30:06  #MKT News
+
+Russian Defence Ministry said 180 Ukrainian drones were shot down across multiple regions within Russian territory on the day.
+
+---
+
+### 2026-09-01 01:29:26  #MKT News
+
+The UK Conservative Party said Chris Philp will remain Shadow Home Secretary.
+
+---
+
+### 2026-09-01 01:28:59  #國際
+
+俄羅斯國防部稱，當天共有180架烏克蘭無人機在俄羅斯聯邦各地被擊落。
+
+---
+
+### 2026-09-01 01:28:44  #國際
+
+俄羅斯總統普京在上合峰會間隙，會見哈薩克總統託卡耶夫。
+
+---
+
+### 2026-09-01 01:28:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian foreign minister Araghchi said US breaches of the Islamabad memorandum of understanding caused the current situation and that only if the US resumes fulfilling commitments signed by its president can the situation return to normal and the war end.
+
+---
+
+### 2026-09-01 01:27:20  #其他
+
+英國保守黨表態：克里斯·菲爾普繼續擔任影子內政大臣。
+
+---
+
+### 2026-09-01 01:26:32  #其他
+
+德州電力可靠性委員會（ERCOT）：預計用電需求將處於高位，峰值將落在8.5萬兆瓦至8.9萬兆瓦區間。
+
+---
+
+### 2026-09-01 01:26:13  #Trading Economics #Markets #commodity #Importance 0
+
+Palladium is down by 5.04% — Palladium decreased 5.04% to 1374 USD/t.oz
+
+---
+
+### 2026-09-01 01:25:48  #其他
+
+德州電力可靠性委員會（ERCOT）：本週，德州電網覆蓋的大部分割槽域氣溫將持續接近正常水平或高於正常水平。
+
+---
+
+### 2026-09-01 01:24:19  #MKT News #Market Themes #AI Revolution
+
+Market sources say Dragoneer plans to use stakes in OpenAI, SpaceX and other holdings to raise $2 billion for a new continuation fund intended to keep existing assets long-term.
+
+---
+
+### 2026-09-01 01:22:59  #其他
+
+市場資訊：比亞迪已接洽，有意接管加拿大斯特蘭蒂斯工廠。
+
+---
+
+### 2026-09-01 01:21:29  #MKT News
+
+A Swiss parliamentary committee said a final decision on capital requirements may not be made until 2027.
+
+---
+
+### 2026-09-01 01:21:00  #公司
+
+Dragoneer投資集團以OpenAI、SpaceX優質股權為籌碼，為新基金募資20億美元，擬延長存量資產持有周期。
+
+---
+
+### 2026-09-01 01:19:34  #央行 #國際
+
+週一（8月31日），美聯儲隔夜逆回購協議（RRP）使用規模為67.26億美元（交易對手4家），上個交易日報1.75億美元。
+
+---
+
+### 2026-09-01 01:19:21  #央行 #美聯儲
+
+美聯儲在固定利率逆回購操作中總計接納了4個對手方的67.26億美元。
+
+---
+
+### 2026-09-01 01:16:07  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $6.726 billion from four counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-09-01 01:15:15  #其他
+
+瑞士議會委員會：加強AT1資本對瑞銀而言將比目前成本更高。
+
+---
+
+### 2026-09-01 01:15:14  #MKT News
+
+IMF spokesperson says the IMF delegation to Senegal has made "substantial progress".
+
+---
+
+### 2026-09-01 01:14:36  #MKT News #UBSG.SW #Impact bearish
+
+Chair of a Swiss parliamentary committee said the outcome is not a victory for UBS but a solution serving Switzerland.
+
+---
+
+### 2026-09-01 01:14:33  #其他
+
+瑞士議會委員會主席：這不是瑞銀的勝利，而是一項服務於瑞士利益的解決方案。
+
+---
+
+### 2026-09-01 01:14:15  #MKT News
+
+Sources: IMF has completed its mission to Senegal and expects to achieve "positive progress".
+
+---
+
+### 2026-09-01 01:14:10  #其他
+
+國際貨幣基金組織發言人表示，赴塞內加爾工作組"已取得實質性進展"。
+
+---
+
+### 2026-09-01 01:14:01  #其他
+
+知情人士稱，國際貨幣基金組織代表團訪問塞內加爾後，預計將出現“積極進展”。
+
+---
+
+### 2026-09-01 01:11:18  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Lebanese news agency reported hostile drones struck Mansouri town and the Masha area in southern Lebanon in three consecutive attacks.
+
+---
+
+### 2026-09-01 01:10:17  #其他
+
+瑞士議會委員會：強化後的額外一級資本（AT1）將在危機銀行進入穩定階段時立即生效。
+
+---
+
+### 2026-09-01 01:09:59  #公司 #央行 #國際
+
+【沃什：“全球投資激增”塑造當前的二十國集團環境】“如果要我概括此刻的狀況，那就是全球投資激增，” 美聯儲主席凱文·沃什在北卡羅來納州阿什維爾舉行的二十國集團（G20）財長會議上致開幕辭時說。他還說，以往二十國集團會議的主題是“長期停滯”和“全球儲蓄過剩。”
+
+---
+
+### 2026-09-01 01:09:10  #MKT News #UBSG.SW #Impact mixed
+
+Swiss parliamentary committee said the proposal should not raise UBS’s common equity Tier 1 (CET1) costs but would affect its additional Tier 1 (AT1) capital.
+
+---
+
+### 2026-09-01 01:08:40  #國際
+
+美國航空宣佈推出特朗普賬戶匹配計劃。
+
+---
+
+### 2026-09-01 01:08:25  #MKT News #Market Themes #Commodities #Energy
+
+According to CNBC, U.S. President Trump will meet U.S. refiners and fuel distributors on Tuesday to discuss expanding refining capacity and lowering gasoline prices.
+
+---
+
+### 2026-09-01 01:08:22  #其他
+
+瑞士議會委員會：該提案不應讓瑞銀（UBS）增加更多核心一級資本（CET1）支出，而應增加額外一級資本（AT1）支出。
+
+---
+
+### 2026-09-01 01:08:14  #焦點 #國際
+
+特朗普將於週二會晤美國煉油商與燃料經銷商，討論擴大煉油產能及下調汽油價格。
+
+---
+
+### 2026-09-01 01:07:48  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
+
+Sources say a drone attack struck Kyiv; explosions were reported at the scene.
+
+---
+
+### 2026-09-01 01:04:58  #其他
+
+瑞士議會委員會：若觸發門檻被突破，將不得派發股息、不得開展股票回購，同時必須削減紅利發放。
+
+---
+
+### 2026-09-01 01:04:40  #MKT News
+
+Swiss parliamentary committee says if a capital trigger threshold is reached, dividends and capital returns must not be paid.
+
+---
+
+### 2026-09-01 01:03:52  #其他
+
+瑞士議會委員會：將透過上調觸發比例至約11%強化對AT1資本的支援。
+
+---
+
+### 2026-09-01 01:03:38  #宏觀 #國際
+
+美國財長貝森特：減債計劃可能還需數月才能出臺，且推出後將面臨重重障礙。
+
+---
+
+### 2026-09-01 01:03:19  #MKT News
+
+Swiss parliamentary committee will tighten AT1 capital requirements, raising the trigger trigger threshold to about 11%.
+
+---
+
+### 2026-09-01 01:02:46  #MKT News
+
+Israel's Channel 13 cites an Israeli assessment that an escalation of tensions between Iran and the US is unlikely to develop into direct military confrontation.
+
+---
+
+### 2026-09-01 01:02:03  #公司 #國際
+
+安永：安永美國分所投資1億美元，獎勵推動公司未來發展的員工。
+
+---
+
+### 2026-09-01 01:01:46  #其他
+
+瑞士議會委員會提議：（就瑞銀資本金）外國分支機構需50%核心一級資本支援，50%額外一級資本。
+
+---
+
+### 2026-09-01 01:01:41  #MKT News
+
+Swiss parliamentary committee proposes that capital requirements for UBS's overseas subsidiaries be split evenly, with 50% covered by common equity Tier 1 (CET1) and 50% by additional Tier 1 (AT1).
+
+---
+
+### 2026-09-01 01:00:50  #MKT News #UBS.N
+
+Swiss parliamentary committee has made a decision on UBS's capital requirements (UBS.N).
+
+---
+
+### 2026-09-01 01:00:38  #國際
+
+【以總理稱上節目千小時促美國打伊朗】在以色列第14頻道電視臺當地時間8月30日的一檔節目中，以色列總理內塔尼亞胡稱，自己反對伊朗已經快40年了，而讓美國也認識到應當反對伊朗花了很長時間，而之所以能做到這一點，是因為自己在美國電視節目上露面的時間多達近1000個小時，在美國產生了影響力。伊朗外長阿拉格齊8月31日在社交媒體平臺轉發這段節目影片，配文嘲諷內塔尼亞胡是“雙面人”：在希伯來語的語境中“公開吹噓自己如何愚弄美國為以色列而戰”，在英語的語境中則“對美國總統大加讚賞”，“真是一個狡猾的人”。（CCTV國際時訊）
+
+---
+
+### 2026-09-01 01:00:13  #其他
+
+瑞士議會委員會：已就瑞銀資本金要求做出決定。
+
+---
+
+### 2026-09-01 01:00:04  #MKT News
+
+U.S. Treasury Secretary Bessent said the U.S., during its G20 presidency, will prioritize stronger, more durable economic growth and is pushing a new growth agenda by attracting capital, cutting taxes and expanding its energy advantage.
+
+---
+
+### 2026-09-01 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.68%，滬銅收漲0.62%，滬鋁收漲0.23%，滬鋅收漲2.26%，滬鉛收跌1.17%，滬鎳收跌0.72%，滬錫收漲0.75%。氧化鋁夜盤收跌0.22%，鋁合金收跌0.06%。不鏽鋼夜盤收跌1.15%。
+
+---
+
+### 2026-09-01 00:58:52  #公司
+
+亞馬遜將於2026年10月1日起，在華盛頓州裁員121人。
+
+---
+
+### 2026-09-01 00:58:45  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon.com Inc (AMZN.O) will cut 121 jobs in Washington effective Oct. 1, 2026, a company notice said.
+
+---
+
+### 2026-09-01 00:56:25  #MKT News
+
+KATZ approved Chief of Staff Ayal Zmira’s recommendation to appoint Brig. Gen. Dodo Bar-Klipa as commander of the Central Command. He is slated to assume the post in 2027, timing contingent on assessments of the operational situation.
+
+---
+
+### 2026-09-01 00:55:27  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Israel Defense Forces said an airstrike in Gaza killed the head of Hamas's weapons-supply unit.
+
+---
+
+### 2026-09-01 00:55:19  #公司 #觀點
+
+【傑米·戴蒙和高盛CEO等商界領袖將出席G20峰會】摩根大通執行長傑米·戴蒙和高盛執行長蘇德巍預計將與來自加密貨幣、科技、製造業和醫療保健等行業的企業高管一同出席G20峰會。預計出席的其他高管還包括雅保執行長Kent Masters、3M執行長Bill Brown、禮來執行長David Ricks、Truist候任執行長Michael Lyons、花旗全球數字資產主管Ryan Rugg、金融科技初創公司Ramp執行長Eric Glyman，以及Circle總裁Heath Tarbert。
+
+---
+
+### 2026-09-01 00:55:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+TASNIM NEWS reported Israeli warplanes struck southern Lebanon, hitting the town of East Zoutar and areas near Kfar Rumman.
+
+---
+
+### 2026-09-01 00:52:55  #公司 #國際
+
+俄羅斯國防部稱，俄軍當晚打擊了基輔“西門物流”公司的倉庫設施，該處被用於組裝無人機。
+
+---
+
+### 2026-09-01 00:51:56  #MKT News
+
+Russia's Finance Ministry said Finance Minister Siluanov met U.S. Treasury Secretary Bessent on the sidelines of G20 meetings in the United States.
+
+---
+
+### 2026-09-01 00:50:55  #宏觀 #公司 #國際
+
+俄羅斯財政部表示，財長西盧阿諾夫與美國財長貝森特討論了俄美兩國在金融領域的合作，以及二十國集團（G20）框架下的互動。
+
+---
+
+### 2026-09-01 00:48:53  #公司 #市場
+
+芝加哥期權交易所全球市場股價跌幅快速擴大，下跌2.7%；芝加哥商業交易所集團股價續挫至日內低點；納斯達克集團與洲際交易所股價同步走弱。
+
+---
+
+### 2026-09-01 00:48:39  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Market sources say Microsoft (MSFT.O) is expanding strategic cooperation with Humain.
+
+---
+
+### 2026-09-01 00:45:27  #其他
+
+HUMAIN與微軟計劃聯合推出整合微軟365的HUMAIN ONE產品。
+
+---
+
+### 2026-09-01 00:44:40  #其他
+
+微軟與Human擴大戰略合作。
+
+---
+
+### 2026-09-01 00:42:24  #國際
+
+【衛星拍到美軍約旦空軍基地疑似損毀，美約稱攔截成功，伊朗宣稱重創目標】伊朗夜間彈道導彈齊射過後，衛星影像在約旦穆瓦法克‑薩爾蒂空軍基地觀測到一處新的暗色斑塊。哨兵‑2衛星的前後對比圖顯示，戰鬥機機庫附近疑似出現爆炸損毀痕跡。約旦與美國方面稱，幾乎全部導彈均遭攔截，未造成重大損失。伊朗則宣稱襲擊造成嚴重損毀。
+
+---
+
+### 2026-09-01 00:38:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says it shot down MQ-9 drone near Strait of Hormuz】Mehr news agency reported minutes ago that the IRGC Aerospace Force intercepted and shot down an MQ-9 drone east of the Strait of Hormuz using a new advanced air-defense system, which is under unified command of Iran's national integrated air-defense network.
+
+---
+
+### 2026-09-01 00:34:32  #公司
+
+蘋果公司菲爾·席勒卸任App Store及產品釋出會負責人職務。
+
+---
+
+### 2026-09-01 00:31:29  #國際
+
+烏克蘭總統澤連斯基稱，在美國特使與俄方溝通前，他已向美方特使通報了打擊情況及戰場局勢。
+
+---
+
+### 2026-09-01 00:31:26  #MKT News
+
+Ukraine's president Zelenskiy said he discussed ways to encourage Russia to engage in peace talks.
+
+---
+
+### 2026-09-01 00:31:16  #國際
+
+烏克蘭總統澤連斯基稱已就勸說俄羅斯開啟和平談判的相關途徑進行了討論。
+
+---
+
+### 2026-09-01 00:31:00  #MKT News
+
+Ukrainian President Zelenskiy said he briefed the US special envoy on attacks and battlefield conditions before communicating with Russia.
+
+---
+
+### 2026-09-01 00:30:12  #其他
+
+英國石油表示，其位於印第安納州惠廷的日加工量44萬桶煉油廠正在開展計劃內作業，該作業將在未來數天內持續進行。
+
+---
+
+### 2026-09-01 00:29:41  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps said it shot down an MQ-9 unmanned aerial vehicle east of the Strait of Hormuz.
+
+---
+
+### 2026-09-01 00:28:34  #國際
+
+伊朗最高領袖：再次告誡全體國民，切勿讓任何分歧矛盾在民眾之間滋生。
+
+---
+
+### 2026-09-01 00:28:22  #國際
+
+伊朗革命衛隊：在霍爾木茲海峽東部擊落一架MQ9無人機。
+
+---
+
+### 2026-09-01 00:23:57  #MKT News
+
+Press TV quoted Iranian President Pezeshkian saying Iran believes peace and security must extend across West Asia.
+
+---
+
+### 2026-09-01 00:22:57  #MKT News
+
+German Finance Minister Klingbeil said Russia's participation in the G20 would not signify that Germany-Russia relations have returned to "normal".
+
+---
+
+### 2026-09-01 00:22:44  #宏觀 #公司 #國際
+
+德國財政部長表示，即便俄羅斯出席二十國集團（G20）會議，對俄關係也不存在所謂“正常”狀態。
+
+---
+
+### 2026-09-01 00:22:37  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
+
+Punchbowl reports Zelenskiy will send his chief sanctions adviser to the US Congress this week to lobby House Democrats to support the Senate-passed Russia sanctions bill.
+
+---
+
+### 2026-09-01 00:22:35  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close Lower — European stocks closed firmly lower on Monday as higher oil prices consolidated expectations of more rate hikes by the European Central Bank. The Euro STOXX 50 fell 0.9% to 5,426 and the STOXX Europe 600 dropped 0.6% to 651. The US and Iran exchanged new strikes and drove oil prices to rise sharply. Higher energy prices had drove inflation in Germany, Spain, and France to pick up in August, with data from the Stocks in AI infrastructure booked sharp losses ahead of Broadcom, and Palo Alto earnings this week, maintaining volatility on the sector with ASML and Siemens Energy falling 2.9% and 5%, respectively. Industrials also pulled back with Airbus, Schneider, and Rheinmetall dropping between 4% and 2.75%. For August, the Euro STOXX 50 gained 1% and the STOXX Europe 600 added 0.3%, underperforming due to its higher exposure to UK miners and pharmaceutical companies.
+
+---
+
+### 2026-09-01 00:21:20  #國際
+
+伊朗總統：伊朗認為西亞全境必須實現和平與安全。
+
+---
+
+### 2026-09-01 00:17:40  #MKT News #Market Regions #Europe & UK
+
+German Finance Minister Klingbeil said barring journalists from attending the G20 meeting is unacceptable.
+
+---
+
+### 2026-09-01 00:17:35  #宏觀
+
+德國財政部長克林貝爾表示，記者被禁止出席G20會議是不可接受的。
+
+---
+
+### 2026-09-01 00:15:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Palladium Slips From Three-Month High — Palladium futures hovered near $1,380 per ounce, after reaching a three-month high, as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply.
 
 ---
 
@@ -15558,221 +16056,5 @@ Iran's Press TV cited security sources saying reports of large volumes of oil be
 ### 2026-08-30 04:24:35  #MKT News #WTI #Impact bullish #Brent
 
 【Iran says Strait of Hormuz "completely closed"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is "completely closed" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario.
-
----
-
-### 2026-08-30 04:19:40  #MKT News #WTI #Impact bullish #Brent
-
-Iran deputy foreign minister Gharibabadi said Iran's armed forces have full supervisory authority over all activity in the Strait of Hormuz, and U.S. claims about ships transiting the strait are entirely untrue.
-
----
-
-### 2026-08-30 04:19:12  #MKT News #TSLA.O #Impact bullish #Copper
-
-Musk said SpaceX and Tesla are racing to build an annual solar build capacity of 100 GW, but will still need natural gas over the next few years to supplement and start up solar generation. He said the bottleneck for gas-turbine production is casting blades and guide vanes; bringing casting in-house at SpaceX could bring turbines online up to 18 months faster, a potentially transformative improvement.
-
----
-
-### 2026-08-30 04:18:40  #焦點 #國際
-
-伊朗副外長加里巴巴迪：伊朗武裝部隊對霍爾木茲海峽內的一切活動擁有完全管轄權，美方有關船隻通行海峽的說法完全不實。
-
----
-
-### 2026-08-30 04:17:27  #其他
-
-馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。
-
----
-
-### 2026-08-30 04:12:54  #MKT News
-
-【Channel 12: Shin Bet says it urgently evacuated Netanyahu's eldest son from the U.S.】Channel 12 TV reported on 29, citing the Israel Security Agency (Shin Bet), that Shin Bet agents urgently evacuated Prime Minister Benjamin Netanyahu's eldest son Yair from Miami to Israel after assessing he faced a significant security threat. Shin Bet did not detail the threat. The report said agents were reassigned from President Isaac Herzog's New York detail to Miami to carry out the operation. Yair Netanyahu has long lived in Miami and is a prominent supporter of his father; his brother Avner lives in Israel.
-
----
-
-### 2026-08-30 04:07:56  #市場 #焦點
-
-美國天然氣暗盤突破2.9美元，日內漲幅0.9%。
-
----
-
-### 2026-08-30 04:03:56  #市場 #焦點
-
-紐約原油暗盤跌破83美元，日內跌超0.5%。
-
----
-
-### 2026-08-30 03:58:57  #其他
-
-SpaceX：今日凌晨將獵鷹重型火箭轉運至肯尼迪航天中心39A發射臺，火箭搭載NASA羅曼空間望遠鏡，發射任務進入最終準備階段。
-
----
-
-### 2026-08-30 03:56:54  #MKT News #Commodities #Energy #XOM.O #Impact bullish #CVX.O #WTI #Impact mixed
-
-【Warren accuses Trump of profiting-linked oil gains from US‑Iran war】Senator Elizabeth Warren accused President Trump of launching the US‑Iran war and said oil firms tied to him have profited. Democrats, citing Joint Economic Committee data and Trump’s financial disclosures through Q2 2026, said he continued trading oil and gas stocks during the conflict and that his disclosed energy holdings widened from a $13–46m range at the start of the year to $17–61m by mid‑August; the White House says Trump did not participate in the trades. Warren highlighted corporate results: ExxonMobil posted Q2 net income above $14.0bn, about double a year earlier, and Chevron’s Q2 profit rose roughly fourfold from the same period in 2025 to $12.1bn. She said ending the Iran war would lower gasoline prices.
-
----
-
-### 2026-08-30 03:48:55  #焦點 #國際
-
-【伊朗副外長：伊阿達成霍爾木茲海峽共識，待美方履約後方可執行】伊朗副外長加里巴巴迪表示，伊朗與阿曼已就霍爾木茲海峽達成共識，但該共識要等到美國履行《伊斯蘭堡諒解備忘錄》項下承諾之後才會落地執行。加里巴巴迪週六稱：“霍爾木茲海峽目前仍處於關閉狀態，所有通行海峽的船隻都必須與伊朗方面協調。”他補充道：“我們會繼續採取防禦舉措，已做好應對任何局勢的準備。”談及卡達與巴基斯坦官員近期到訪伊朗，加里巴巴迪表示，訪問的目的是評估各方是否有可能恢復履行《伊斯蘭堡諒解備忘錄》中的各項承諾。
-
----
-
-### 2026-08-30 03:45:22  #國際
-
-伊朗總統佩澤希齊揚：落實諒解備忘錄可阻止美以在（本）地區製造動盪。
-
----
-
-### 2026-08-30 03:40:06  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iran deputy foreign minister says not in a hurry to reopen Strait of Hormuz】On Aug. 29, Iran’s deputy foreign minister said Iran and Oman have reached an understanding on transit arrangements for the Strait of Hormuz, but the accord will not be implemented automatically. He said the understanding will not take effect unless the US fulfills its obligations, and Iran is not in a hurry to reopen the strait.
-
----
-
-### 2026-08-30 03:39:45  #焦點 #國際
-
-【伊朗副外長稱不急於重新開放霍爾木茲海峽】當地時間8月29日，伊朗副外長加里巴巴迪表示，伊朗已與阿曼就霍爾木茲海峽通行安排達成諒解，但該諒解不會自動進入執行階段。加里巴巴迪表示，除非美國履行其義務，否則伊朗與阿曼就霍爾木茲海峽達成的諒解不會進入執行階段，伊朗不急於重新開放霍爾木茲海峽。（央視新聞）
-
----
-
-### 2026-08-30 03:37:53  #MKT News #WTI #Impact bullish #Brent
-
-Iran's deputy foreign minister said the Strait of Hormuz will not be reopened quickly if the US does not fulfill its commitments.
-
----
-
-### 2026-08-30 03:37:18  #MKT News
-
-Iran's deputy foreign minister said Tehran has made clear the steps the U.S. must take to return to the memorandum of understanding.
-
----
-
-### 2026-08-30 03:36:44  #MKT News
-
-Iran's deputy foreign minister said Qatar and Pakistan are exploring the possibility of resuming implementation of a memorandum of understanding.
-
----
-
-### 2026-08-30 03:27:45  #MKT News #Market Regions #Europe & UK #FTSE100 #Impact bearish #GBPUSD #Brent #Impact mixed
-
-【UK considers windfall tax on banks and oil firms】UK Chancellor Healy is weighing a windfall tax on banks and oil companies for her first budget. Treasury officials are discussing the measures as a way to plug a £4.7bn fiscal shortfall while avoiding direct increases in personal taxes. Healy is aiming for a low-key budget next month and for any unavoidable tax rises to be markedly smaller than those implemented under former chancellor Reeves.
-
----
-
-### 2026-08-30 03:24:52  #國際
-
-市場資訊：波斯灣石油運輸量已恢復至戰前約70%水平。儘管伊朗石油出口依舊受限，但該情況幫助抑制了原油價格。
-
----
-
-### 2026-08-30 03:24:40  #MKT News #Market Regions #Europe & UK
-
-【EU to act quickly on Spain's request for migration support】On Aug 29, EU commissioner for home affairs and migration Magnus Brunner said Spain has requested additional support — including the European Border and Coast Guard Agency (Frontex), Europol and the EU Agency for Asylum — to address a migration crisis. The Commission is processing the requests and will decide swiftly. Brunner said the immediate priority remains the rapid return of irregular migrants in the Spanish enclave of Ceuta, where thousands remain after a large late‑July mass crossing. Spain submitted the request on Aug 28.
-
----
-
-### 2026-08-30 03:22:07  #其他 #焦點
-
-英國財政大臣希利：考慮對銀行與石油企業徵收暴利稅。
-
----
-
-### 2026-08-30 03:19:06  #MKT News #Market Regions #Emerging Markets
-
-Fars News cites Iran's agriculture minister saying Iran has, for the first time and despite difficult wartime conditions, achieved self-sufficiency in chicken meat and is moving toward exports.
-
----
-
-### 2026-08-30 03:16:57  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-【U.S. Embassy in Beirut: Hezbollah still refuses to negotiate disarmament with U.S. and Israel】U.S. Embassy in Beirut said Hezbollah remains unwilling to negotiate disarmament with the Lebanese government, the U.S. or Israel and is acting at Iran's direction. The embassy said it is already in dialogue with Beirut and that, should Hezbollah indicate readiness to hand over weapons, Washington could seek to narrow the parties' positions.
-
----
-
-### 2026-08-30 03:16:37  #央行 #宏觀 #國際
-
-【美擬切斷米斯爾銀行代理行服務，阿聯酋央行啟動專項回溯審查】阿聯酋央行於週六釋出宣告，宣佈對本國境內運營的米斯爾銀行各分行啟動一項特別緊急審查。就在一天前，美國財政部提出限制措施，指控該銀行與伊朗影子銀行網路存在關聯交易。本次審查將開展司法層面的深度回溯核查，覆蓋美方提及的相關時段，重點核查美方宣告點名企業的相關交易。宣告稱，米斯爾銀行阿聯酋分行必須遵守當地法律法規；持牌銀行不得讓阿聯酋金融體系蒙受“聲譽風險”。阿聯酋央行同時表示，如果美國走完相關法律程式後最終落地這項擬議專項措施，當局正研究該銀行在阿聯酋境內的處置備選方案。美國財政部週五提出，切斷米斯爾銀行阿聯酋分行獲取美國金融機構代理行服務的渠道，理由是該分行涉伊朗影子銀行網路相關交易。
-
----
-
-### 2026-08-30 03:06:32  #MKT News
-
-【U.S. National Park Service backs Trump 250-foot triumphal arch plan, flags skyline and view impacts】The U.S. National Park Service said on Friday it supports President Trump’s proposed 250-foot triumphal arch at the recommended site and scale, calling the design consistent with historical tradition and a visual focal point for the 250th anniversary. The agency found the project would cause adverse effects to views and the surrounding landscape — affecting dozens of historic properties including the Lincoln Memorial and Washington Monument — but identified those impacts as visual/skyline changes rather than physical damage.
-
----
-
-### 2026-08-30 03:05:35  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israel security agency confirms PM's eldest son faced security threat in US】On Aug. 29 Israel’s domestic security agency Shin Bet confirmed it had evacuated Prime Minister Benjamin Netanyahu’s eldest son, Yair, and his security detail from the United States after a “significant” security threat. Yair said on Aug. 24 that Iran had “tried to assassinate one of his sons” but did not identify which son or timing; subsequent reporting named Yair as the target while living in Florida.
-
----
-
-### 2026-08-30 03:04:59  #國際
-
-【以國家安全總局證實以總理長子在美國曾遭安全威脅】當地時間8月29日，以色列國家安全總局（辛貝特）證實，以總理內塔尼亞胡長子亞伊爾此前在美國時遭遇“重大”安全威脅，因此辛貝特決定緊急將他及其安保團隊一同撤離回以色列。內塔尼亞胡有兩個兒子。他24日接受採訪時聲稱，伊朗曾“試圖暗殺他的一個兒子”。不過，他沒有透露是哪個兒子，也未說明事發時間。隨後有訊息稱，內塔尼亞胡長子亞伊爾在美國佛羅里達州生活期間成為伊朗的“暗殺目標”。（央視新聞）
-
----
-
-### 2026-08-30 02:45:09  #MKT News
-
-Iraq's prime minister's security adviser Qassim al-Araji told Al Jazeera he is in talks with factions to limit weapons to state possession.
-
----
-
-### 2026-08-30 02:45:00  #其他 #焦點
-
-馬斯克計劃自研燃氣輪機葉片。燃氣輪機可為AI資料中心提供電力。
-
----
-
-### 2026-08-30 02:42:51  #MKT News #Commodities #Energy
-
-Market sources: Iraqi Kurdistan is exporting about 150,000 bpd of crude to Turkey's Ceyhan port.
-
----
-
-### 2026-08-30 02:32:03  #其他 #焦點
-
-伊拉克石油部發言人表示，伊拉克庫爾德斯坦對土耳其傑伊漢港口的石油出口量約為每日15萬桶。
-
----
-
-### 2026-08-30 02:29:01  #MKT News
-
-NBC news crew attacked and beaten with sticks by Israeli settlers in the West Bank.
-
----
-
-### 2026-08-30 02:28:31  #央行 #焦點 #國際
-
-【美聯儲傑克遜霍爾年度會議核心要點】美聯儲主席沃什在主旨演講中著重強調，抑制通脹是央行的首要任務。歐元區政策制定者在會議間隙發表通脹風險警示，部分官員暗示9月有加息必要。英國央行行長貝利表示暫無加息緊迫性，稱第二輪通脹效應溫和、勞動力市場走弱，可以暫時觀望局勢。
-
----
-
-### 2026-08-30 02:21:27  #MKT News #Market Themes #The Trump Trade
-
-【Trump to serve as honorary chair of Presidents Cup】US President Trump accepted an invitation from the PGA Tour and new commissioner Brian Rolapp to serve as honorary chair of the upcoming Presidents Cup at Medinah Country Club in Chicago and said he plans to attend.
-
----
-
-### 2026-08-30 02:20:32  #公司
-
-【巴克萊：AI模型公司每賺100美元 約35至40美元流向三大雲巨頭】巴克萊在報告中稱，AI模型公司每獲得100美元收入，其中約有35至40美元會以推理算力費用的形式流向三大雲巨頭，即亞馬遜AWS、微軟Azure和谷歌雲平臺（GCP）。在這部分收入中，雲服務商能夠獲得約10至20美元的營業利潤，對應約35%至45%的營業利潤率。報告指出，AI實驗室付費推理業務的利潤率已經大幅攀升，從2025年的低雙位數水平升至2026年的50%至65%甚至更高，調整後毛利率同比提升30至50個百分點。巴克萊分析師認為，實際利潤率可能甚至高於報告中的估算，但隨著前沿模型競爭加劇以及算力供給持續增加，利潤率預計將逐步回落。
-
----
-
-### 2026-08-30 02:19:18  #國際
-
-美國駐貝魯特大使館：真主黨既不願同黎巴嫩政府談判，也不願與美國、以色列對話，原因很簡單，該組織聽命於伊朗。
-
----
-
-### 2026-08-30 02:14:34  #國際
-
-特朗普接受邀請，出任新一屆總統盃高爾夫賽事名譽主席。
 
 ---
