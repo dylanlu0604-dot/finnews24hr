@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-06 00:22:46",
-  "count": 14175,
+  "updated": "2026-09-06 00:26:48",
+  "count": 14174,
   "items": [
+    {
+      "id": "5078876",
+      "time": "2026-09-06 00:23:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗媒體：自年初以來，90億美元石油收入被伊朗石油部置於央行支配之下。"
+    },
     {
       "id": "5078875",
       "time": "2026-09-06 00:20:24",
@@ -129787,24 +129796,6 @@
         "國際"
       ],
       "text": "巴勒斯坦媒體：以色列猛烈炮擊加沙地帶南部汗尤尼斯城南部多地。"
-    },
-    {
-      "id": "mkt:01a04e57-8434-7aab-917f-5e459d1b9764",
-      "time": "2026-08-30 00:25:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV said a circulated video shows Shahid Rajaee Port at Bandar Abbas, Iran, largely deserted as the US blockade continues."
-    },
-    {
-      "id": "mkt:01a04e54-c2c0-7aab-917f-50b12f74a54e",
-      "time": "2026-08-30 00:22:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Sony and Warner sue Anthropic, accuse it of brazen IP theft】Sony Music and Warner Music subsidiaries filed suit against Anthropic in the US District Court for the Northern District of California on Friday evening, accusing the AI firm of \"one of the largest and most brazen intellectual property thefts in history,\" Axios reports. The complaint names Anthropic, CEO Dario Amodei and a co-founder as defendants."
     }
   ]
 }
