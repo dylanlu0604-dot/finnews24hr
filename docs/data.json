@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-05 08:52:33",
-  "count": 14109,
+  "updated": "2026-09-05 08:56:24",
+  "count": 14110,
   "items": [
+    {
+      "id": "mkt:01a06f0f-2437-7118-84af-0ede1377bb00",
+      "time": "2026-09-05 08:54:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【WSJ: US used promise of NVIDIA chips to help broker Armenia-Azerbaijan preliminary peace deal】The Wall Street Journal reports U.S. negotiators leveraged a promise of NVIDIA (NVDA.O) AI chips to help secure last year’s preliminary Armenia‑Azerbaijan peace accord. To encourage Armenia’s participation, the U.S. expanded procurement approval authority for chips tied to an Armenian data‑center project. U.S. officials call the move “chip diplomacy.” The report says the Trump administration previously used AI hardware in talks with the UAE and Saudi Arabia, but this is the first publicly reported instance of such leverage to clinch a peace agreement and it has reportedly deepened ties between the White House and NVIDIA."
+    },
+    {
+      "id": "5078458",
+      "time": "2026-09-05 08:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍對先進武器庫存資訊洩密展開調查 多名高階軍官接受測謊】當地時間9月4日，央視記者獲悉，多名知情美國官員透露，在有關美國先進武器庫存的高度敏感機密資訊被媒體披露後，美軍展開大規模洩密調查。包括部分最高階別軍方官員在內的數十人於今年夏季接受測謊，其中包括美軍中央司令部部分官員及其他作戰司令部指揮官。訊息稱，特朗普對相關洩密事件感到憤怒。由於能夠接觸這些武器庫存機密資訊的人員範圍非常有限，調查人員一度擔心其中是否有人可能充當外國情報機構的線人。訊息人士稱，沒有人在用於判斷是否向媒體洩密的相關測謊問題中未透過測試。五角大樓表示，不對內部人員或調查事項發表評論，但強調將嚴肅調查所有涉及國家安全機密資訊的洩露事件。並非所有高階軍官都接受了測謊，例如美軍參謀長聯席會議主席丹·凱恩並未參加相關測試。（央視新聞）"
+    },
     {
       "id": "mkt:01a06f0c-68ae-7118-84af-06c4eb62e935",
       "time": "2026-09-05 08:51:19",
@@ -129221,14 +129242,6 @@
         "市場"
       ],
       "text": "【績優+滯漲的硬科技及高階製造業公司出爐，僅15家】市場上部分業績高速增長的公司，股價卻並未走出強勁的表現。據統計，硬科技及高階製造業中，近3年上半年均實現盈利，近3年上半年淨利潤同比增幅均不低於25%，2025年以來累計漲幅低於50%，且今年7月以來股價下跌的公司有15家，主要分佈於電子、電力裝置及計算機行業。從市場表現看，上述15家公司中，海天瑞聲2025年以來股價下跌，依米康、樂鑫科技等累計漲幅均低於5%。從成長性看，國軒高科、全志科技今年上半年淨利潤同比增幅均超過200%。"
-    },
-    {
-      "id": "5066132",
-      "time": "2026-08-29 08:55:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Sutjahyo辭去GOTO公司副董事職務。"
     }
   ]
 }
