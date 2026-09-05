@@ -1,7 +1,15 @@
 {
   "date": "2026-09-06",
-  "count": 162,
+  "count": 163,
   "items": [
+    {
+      "id": "mkt:01a073a6-cdd1-7118-84b5-2c0620a2f593",
+      "time": "2026-09-06 06:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USHAKOV: Putin met Trump's envoy Witkoff and Jared Kushner for over three hours】USHAKOV said Putin met Trump's special envoy Witkoff and son‑in‑law Jared Kushner at the Kremlin on the evening of the 5th for more than three hours; the talks were substantive and constructive. Moscow delivered a clear, comprehensive assessment of the situation, including developments during the special military operation, highlighted actual battlefield progress and said it is confident of achieving its stated objectives while stressing the need to remove all roots of the conflict. Russia reiterated willingness to pursue a political‑diplomatic solution and confirmed the two presidents will remain in direct contact."
+    },
     {
       "id": "5078962",
       "time": "2026-09-06 06:06:47",

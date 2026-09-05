@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 06:16:57",
+  "updated": "2026-09-06 06:20:50",
   "count": 14228,
   "items": [
+    {
+      "id": "mkt:01a073a6-cdd1-7118-84b5-2c0620a2f593",
+      "time": "2026-09-06 06:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USHAKOV: Putin met Trump's envoy Witkoff and Jared Kushner for over three hours】USHAKOV said Putin met Trump's special envoy Witkoff and son‑in‑law Jared Kushner at the Kremlin on the evening of the 5th for more than three hours; the talks were substantive and constructive. Moscow delivered a clear, comprehensive assessment of the situation, including developments during the special military operation, highlighted actual battlefield progress and said it is confident of achieving its stated objectives while stressing the need to remove all roots of the conflict. Russia reiterated willingness to pursue a political‑diplomatic solution and confirmed the two presidents will remain in direct contact."
+    },
     {
       "id": "5078962",
       "time": "2026-09-06 06:06:47",
@@ -130217,15 +130225,6 @@
         "其他"
       ],
       "text": "【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。"
-    },
-    {
-      "id": "5066636",
-      "time": "2026-08-30 06:16:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列能源部長稱，即便美國達成協議，以色列仍會再次打擊伊朗。"
     }
   ]
 }
