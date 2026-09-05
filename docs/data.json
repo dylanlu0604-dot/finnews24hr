@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-05 09:16:09",
-  "count": 14102,
+  "updated": "2026-09-05 09:20:02",
+  "count": 14100,
   "items": [
+    {
+      "id": "mkt:01a06f25-184a-7118-84af-2377a4cc3cdc",
+      "time": "2026-09-05 09:18:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Al Jazeera, citing shipping-data tracker TankerTrackers, says oil tankers and gas carriers carrying 7 million barrels of oil are preparing to transit the Strait of Hormuz under US escort."
+    },
+    {
+      "id": "mkt:01a06f23-17b9-7118-84af-1d5677ccbc03",
+      "time": "2026-09-05 09:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. military probes leak of advanced weapons inventory; senior officers polygraphed】On Sept. 4, U.S. officials said the military launched a large-scale leak investigation after highly sensitive classified information on its advanced weapons inventory was disclosed by the media. Dozens, including some of the most senior officers and personnel from U.S. Central Command and other combatant commands, underwent polygraph examinations this summer. Investigators briefly feared a possible foreign-intelligence mole because access to the inventory was tightly limited; sources say no one failed the polygraph questions used to determine whether they had leaked to the media. Trump is reported to be angry about the disclosures."
+    },
     {
       "id": "5078463",
       "time": "2026-09-05 09:06:06",
@@ -129142,45 +129163,6 @@
         "公司"
       ],
       "text": "【譽衡藥業放棄一款經典原研藥獨家推廣權 衛材中國：已與新合作方簽約】8月28日晚間，譽衡藥業公告稱，公司全資子公司天津譽衡博達科技有限公司已與衛材（中國）藥業有限公司簽署《終止協議》，雙方就天津博達不再獨家推廣甲鈷胺注射液（商品名：彌可保）及結算事宜進行了約定，合作關係已於今年6月29日正式解除。不過，衛材中國並沒有放棄甲鈷胺注射液在國內的市場。8月28日，衛材中國方面表示，目前彌可保針劑已經與新的合作方簽約，並已開始市場推廣。（每經）"
-    },
-    {
-      "id": "5066150",
-      "time": "2026-08-29 09:18:07",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "尼亞美訊息：當地時間29日凌晨，尼日首都尼亞美多個地區持續傳出槍聲和爆炸聲。目前，尼日政府和軍方尚未就事件原因及具體情況作出說明，有當地居民稱在尼亞美迪奧裡·哈馬尼國際機場附近聽到槍聲。（新華社）"
-    },
-    {
-      "id": "5066149",
-      "time": "2026-08-29 09:18:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“沙德爾”將深入內陸 南方多地高溫悶熱天氣將逐步縮減】週末兩天（8月29日至30日），“沙德爾”將繼續深入內陸，強度逐漸減弱，並與南下的冷空氣結合，陸續給江西、湖南、湖北、廣西、貴州、雲南、四川等地帶去降雨，局地或現大暴雨。此外，受冷渦影響，內蒙古、黑龍江等地部分地區也將出現明顯降雨。受降雨和冷空氣影響，南方多地高溫悶熱天氣將逐步縮減。而西北、華北等地將雨過天晴，最高氣溫回升，但最低氣溫降溫顯著，一早一晚涼意突出。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04b18-13d7-7aab-917b-b735b59f3132",
-      "time": "2026-08-29 09:17:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Expert: China property market to enter period of coexisting presale and sale‑on‑completion】Guangdong Housing Policy Research Center chief researcher Li Yujia said China will enter a transition period in which presales and sale‑on‑completion coexist; authorities will gradually raise presale thresholds and narrow the gap with sale‑on‑completion to reduce reform costs and pain and ultimately move to sale‑on‑completion. A regulatory Notice proposes a sponsor‑bank framework—each project designates one bank or a bank syndicate as sponsor to meet reasonable project financing and create sponsor–developer interest‑sharing and risk‑sharing links; allows pooled per‑unit land‑use rights to be pledged as collateral for development loans; and supports developers issuing equity, bonds and other instruments so loan disbursements align with project construction cycles."
-    },
-    {
-      "id": "5066148",
-      "time": "2026-08-29 09:16:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國機構：高溫與極端乾旱威脅歐洲多國森林健康】聯合國歐洲經濟委員會28日警告稱，歐盟國家及英國約半數領土正面臨乾旱威脅，降水嚴重不足已危及土壤溼度和森林健康。聯合國歐洲經濟委員會指出，在歐洲地區，破紀錄的夏季高溫和嚴重的乾旱情況正在加劇森林生態系統的壓力。持續乾旱，高溫，野火以及病蟲害正在導致該地區出現前所未有的森林枯死。（央視新聞）"
     }
   ]
 }

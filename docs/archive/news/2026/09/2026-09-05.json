@@ -1,7 +1,28 @@
 {
   "date": "2026-09-05",
-  "count": 517,
+  "count": 519,
   "items": [
+    {
+      "id": "mkt:01a06f25-184a-7118-84af-2377a4cc3cdc",
+      "time": "2026-09-05 09:18:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Al Jazeera, citing shipping-data tracker TankerTrackers, says oil tankers and gas carriers carrying 7 million barrels of oil are preparing to transit the Strait of Hormuz under US escort."
+    },
+    {
+      "id": "mkt:01a06f23-17b9-7118-84af-1d5677ccbc03",
+      "time": "2026-09-05 09:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. military probes leak of advanced weapons inventory; senior officers polygraphed】On Sept. 4, U.S. officials said the military launched a large-scale leak investigation after highly sensitive classified information on its advanced weapons inventory was disclosed by the media. Dozens, including some of the most senior officers and personnel from U.S. Central Command and other combatant commands, underwent polygraph examinations this summer. Investigators briefly feared a possible foreign-intelligence mole because access to the inventory was tightly limited; sources say no one failed the polygraph questions used to determine whether they had leaked to the media. Trump is reported to be angry about the disclosures."
+    },
     {
       "id": "5078463",
       "time": "2026-09-05 09:06:06",
