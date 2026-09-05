@@ -1,7 +1,44 @@
 {
   "date": "2026-09-05",
-  "count": 761,
+  "count": 765,
   "items": [
+    {
+      "id": "mkt:01a070bd-908f-7118-84b1-9f4514d5ec0e",
+      "time": "2026-09-05 16:44:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi outlet Hadas reported Iran said the crew of the attacked Iranian oil tanker were uninjured; material damage is being assessed."
+    },
+    {
+      "id": "mkt:01a070bc-d625-7118-84b1-9743190ce8ee",
+      "time": "2026-09-05 16:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Karina remains at hurricane strength in the central Pacific; Marie has weakened slightly while moving northwest."
+    },
+    {
+      "id": "5078640",
+      "time": "2026-09-05 16:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使史蒂夫·威特科夫和賈裡德·庫什納已抵達莫斯科，就結束俄烏衝突的提議進行會談。代表團預計將於週日抵達基輔。"
+    },
+    {
+      "id": "mkt:01a070ba-c48b-7118-84b1-8a9e468172d1",
+      "time": "2026-09-05 16:41:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a M3.3 earthquake at 16:28 on Sept. 5 at 37.87°N, 95.59°E in Haixi Prefecture, Qinghai; focal depth 10 km."
+    },
     {
       "id": "5078639",
       "time": "2026-09-05 16:39:53",

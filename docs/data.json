@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-05 16:41:44",
+  "updated": "2026-09-05 16:45:36",
   "count": 14164,
   "items": [
+    {
+      "id": "mkt:01a070bd-908f-7118-84b1-9f4514d5ec0e",
+      "time": "2026-09-05 16:44:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi outlet Hadas reported Iran said the crew of the attacked Iranian oil tanker were uninjured; material damage is being assessed."
+    },
+    {
+      "id": "mkt:01a070bc-d625-7118-84b1-9743190ce8ee",
+      "time": "2026-09-05 16:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Karina remains at hurricane strength in the central Pacific; Marie has weakened slightly while moving northwest."
+    },
+    {
+      "id": "5078640",
+      "time": "2026-09-05 16:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使史蒂夫·威特科夫和賈裡德·庫什納已抵達莫斯科，就結束俄烏衝突的提議進行會談。代表團預計將於週日抵達基輔。"
+    },
+    {
+      "id": "mkt:01a070ba-c48b-7118-84b1-8a9e468172d1",
+      "time": "2026-09-05 16:41:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a M3.3 earthquake at 16:28 on Sept. 5 at 37.87°N, 95.59°E in Haixi Prefecture, Qinghai; focal depth 10 km."
+    },
     {
       "id": "5078639",
       "time": "2026-09-05 16:39:53",
@@ -129716,42 +129753,6 @@
         "Greater China"
       ],
       "text": "【China debuts first vehicle-mounted mobile token compute factory】China’s first vehicle-mounted mobile token compute factory was unveiled, using domestically produced computation and energy-management systems to flexibly match AI compute demand and trial a compute‑and‑power coordination model aimed at increasing renewable offtake and cutting compute operating costs. The system is housed in a standardized 40‑foot container with all‑electric compute and cooling, integrated storage-compute-network design and electric tractor compatibility. It supports deployment of nine server racks, features an integrated power-and-communications quick‑connect interface and can network multiple units into a mobile compute cluster, commissioning on site in 6–8 hours. When renewable generation produces low‑price power, the units can relocate to substations near generation to increase renewable consumption and lower operating costs; developers estimate mobile access can cut overall costs by about 25%, enabling lower‑cost token services for downstream applications."
-    },
-    {
-      "id": "mkt:01a04cb0-7c13-7aab-917d-579647ac38d5",
-      "time": "2026-08-29 16:43:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's ambassador to Germany says Europe must accept reality of a strong Iran】IRNA reported Iran's ambassador to Germany, Majid Nili, said Tehran's steadfast resistance to recent military aggression underscores its strategic importance, defense capabilities and resilience. He said Europe must accept the reality of a strong Iran, and that Iran will continue to defend its national interests while pursuing dialogue and diplomacy grounded in mutual respect."
-    },
-    {
-      "id": "mkt:01a04caf-53c0-7aab-917d-4a2d2c2a66dd",
-      "time": "2026-08-29 16:42:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says regional US bases serve to protect Israel】On Aug. 28, Iran's foreign minister Araghchi said the war has shown US military bases in neighboring countries cannot secure those states and were established to protect Israel. He said Iran's strikes are retaliatory against US personnel and facilities, not attacks on surrounding governments, and that states without US bases have remained unharmed. \"Wherever US bases are located, during any US war against Iran they are legitimate targets for Iran.\""
-    },
-    {
-      "id": "5066286",
-      "time": "2026-08-29 16:42:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說周邊美軍基地只為保護以色列】當地時間8月28日，伊朗外長阿拉格齊表示，本次戰爭的結果證明，周邊國家境內的美軍基地根本無法維護這些國家的安全，這些美軍基地從設計之初就是為了“保護以色列”。伊朗對這些基地的打擊是對美軍侵略的回應，伊朗沒有攻擊周邊國家，只打擊美軍人員和設施，而沒有美軍基地的國家安然無恙。阿拉格齊強調，“無論美國基地設在哪裡，在美對伊朗開戰期間，都是伊朗合法的打擊目標。” （CCTV國際時訊）"
-    },
-    {
-      "id": "5066285",
-      "time": "2026-08-29 16:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【智慧機器人生態出海大會落地柳州 機器人產業加速佈局東盟海外市場】8月28日至29日，智慧機器人生態出海大會在柳州召開。本次大會聚焦機器人生態集聚與海外市場開拓，依託區位優勢搶抓東盟合作機遇，助推產業出海與新質生產力發展。大會完成東盟智慧機器人產業服務平臺合作備忘錄簽署，並落地多項合作簽約，訂單及專案覆蓋東盟、俄羅斯市場，涵蓋整機制造、核心零部件、新能源、顯示器件、智慧科技等領域。現場匯聚近40家企業及高職院校，展出工業、人形、特種、康養、農業、巡檢等6大類超100件機器人及智慧裝備產品。柳州擁有齊全的工業門類和豐富的應用場景，優必選、極目機器人等重點企業已落地，產品廣泛應用於汽車製造。獨特區位優勢為對接東盟提供天然條件。大會匯聚全國資源，依託共建面向東盟智慧機器人產業服務平臺，持續補齊創新、標準認證、跨境服務短板，助力國產機器人開拓全球市場，打造對外開放合作新高地。"
     }
   ]
 }
