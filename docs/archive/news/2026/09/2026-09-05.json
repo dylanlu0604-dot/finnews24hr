@@ -1,7 +1,499 @@
 {
   "date": "2026-09-05",
-  "count": 794,
+  "count": 851,
   "items": [
+    {
+      "id": "mkt:01a07177-bbf2-7118-84b2-64d5bce798ab",
+      "time": "2026-09-05 20:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ said attribution of the attempted drone attack at the airport is clear and supported by sufficient legal grounds."
+    },
+    {
+      "id": "5078711",
+      "time": "2026-09-05 20:06:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破95美元，日內漲超1.3%。"
+    },
+    {
+      "id": "mkt:01a07176-5c1c-7118-84b2-5af23b4459bb",
+      "time": "2026-09-05 20:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: Kremlin says it will brief media after Putin meets US presidential envoy Witkoff and Trump son-in-law Kushner."
+    },
+    {
+      "id": "5078710",
+      "time": "2026-09-05 20:04:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我對大眾汽車的扭虧協議表示歡迎，該企業在供應商行業間接支撐的崗位至少是自身崗位的十倍。"
+    },
+    {
+      "id": "5078709",
+      "time": "2026-09-05 20:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI聘用3人專注美國各州政策事務。"
+    },
+    {
+      "id": "5078708",
+      "time": "2026-09-05 20:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【初春遭遇罕見“熱浪” 悉尼釋出全面禁火令】澳大利亞悉尼5日遭遇初春反常高溫天氣，最高氣溫接近33攝氏度，較往年同期平均水平高出近13攝氏度。高溫與強風天氣疊加，當地已釋出全面禁火令，提醒民眾防範林火風險。據澳大利亞廣播公司5日報道，悉尼多數地區當天最高氣溫達到32至33攝氏度。悉尼9月前5天的日最高氣溫平均值達到26.4攝氏度，這是當地自19世紀50年代以來觀測到的最暖初春。（新華社）"
+    },
+    {
+      "id": "5078707",
+      "time": "2026-09-05 20:02:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美軍稱今年已在美墨邊境擊落300多架無人機】美國軍方4日說，今年以來，美軍已在美國和墨西哥邊境擊落300多架販毒集團的無人機。美軍北方司令部當天發表宣告說，今年以來，美軍使用“動能和非動能系統”共擊落300多架無人機，以支援美國海關與邊境保護局，其中8月擊落超過100架。美軍8月24日開始在邊境行動中使用“陸軍多用途高能鐳射”系統，截至9月4日已使用該系統擊落11架販毒集團的無人機。宣告說，這些無人機被認為與邊境非法活動有關，跨國犯罪組織利用無人機協助走私，並監視執法人員和軍方人員。美方沒有說明具體在美墨哪一側擊落上述無人機，也沒有點名涉及哪些犯罪組織。（新華社）"
+    },
+    {
+      "id": "5078704",
+      "time": "2026-09-05 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1425.3億元，航海裝備Ⅱ、廣告營銷板塊淨流入居前，個股中國船舶、協創資料淨流入最多。"
+    },
+    {
+      "id": "5078703",
+      "time": "2026-09-05 19:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京將會見美國總統特使】俄羅斯總統新聞秘書佩斯科夫5日表示，俄總統普京已下達命令，從當日午夜起的三晝夜內，暫停對基輔實施打擊。佩斯科夫稱，此次暫停打擊與在基輔籌備和舉行美方代表進行的接觸有關。佩斯科夫還表示，普京5日將會見美國總統特使威特科夫和庫什納。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0716d-7e2e-7118-84b2-52f6aa3c865e",
+      "time": "2026-09-05 19:56:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Interfax cited the Russian defence ministry as saying Russian forces struck two vessels carrying military cargo at Ukraine's Chornomorsk port and also struck a cargo ship near Odesa port."
+    },
+    {
+      "id": "5078701",
+      "time": "2026-09-05 19:54:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年國談首日議程於下午六點結束 通化金馬和東陽光藥董事長親自上陣】記者從2026年國家醫保目錄現場談判與商保創新藥目錄價格協商現場獲悉，國談首日談判協商議程於下午6時左右結束。記者注意到，在下午場，多家透過初審的GLP-1降糖藥的企業代表集中入場，或意味著該賽道迎來密集談判，具體包括信達生物的瑪仕度肽，輝瑞醫藥的埃諾格魯肽注射液等。而通化金馬的阿爾茨海默新藥琥珀酸安維吖啶片由董事長張玉富親自上陣談判協商，其在完成談判後離場時面帶笑容，東陽光藥董事長張英俊也率隊參加了現場談判協商。下午場最後離場的企業代表來自先聲藥業，公司失眠症新藥鹽酸達利雷生片在國談初審名單和商保創新藥初審名單內，此外還有急性缺血性腦卒中藥物依達拉奉右莰醇舌下片等透過初審。此外，記者注意到，下午場企業代表出場後整體神情相對嚴肅。（財聯社）"
+    },
+    {
+      "id": "5078700",
+      "time": "2026-09-05 19:54:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄方還襲擊了烏克蘭敖德薩港附近的貨船。"
+    },
+    {
+      "id": "5078699",
+      "time": "2026-09-05 19:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄羅斯襲擊了停泊在切爾諾莫爾斯克港的兩艘向烏克蘭運送軍事物資的船隻。"
+    },
+    {
+      "id": "5078698",
+      "time": "2026-09-05 19:51:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【普京下令停止打擊基輔3天】據俄羅斯總統新聞秘書佩斯科夫今天表示，俄羅斯總統普京已下令，自今天午夜起的三天內，不對基輔實施打擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a07167-158e-7118-84b2-4ab898d2351a",
+      "time": "2026-09-05 19:49:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said if Iran attacks Israel it will suffer heavy damage; he declined to elaborate."
+    },
+    {
+      "id": "5078697",
+      "time": "2026-09-05 19:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡表示，“如果伊朗攻擊我們，他們將遭受如此沉重的打擊，我不想詳細描述”。"
+    },
+    {
+      "id": "mkt:01a07166-d9a0-7118-84b2-46b6af1dca5f",
+      "time": "2026-09-05 19:49:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said Gaza will not be rebuilt unless it is first demilitarized, and Israel cannot disclose reconstruction plans because they are being discussed with U.S. counterparts."
+    },
+    {
+      "id": "5078695",
+      "time": "2026-09-05 19:48:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國家資料局局長劉烈宏赴內蒙古自治區調研資料要素市場化配置改革工作推進情況】國家資料局訊息，2026年9月1日至2日，國家資料局黨組書記、局長劉烈宏一行赴內蒙古自治區調研，前往中國聯通呼和浩特雲資料中心、中國移動呼和浩特資料中心、華為雲、優刻得、和林格爾叢集多雲算力資源監測與排程平臺、中金資料烏蘭察布零碳算力基地，以及內蒙古資料要素產業園、乳業國家技術創新中心、烏蘭察布職業學院數字智慧產業學院等，深入瞭解當地資料要素市場化配置改革工作推進情況。調研組瞭解到，作為國家“東數西算”工程重要樞紐節點，內蒙古自治區立足自身實際，充分用好政策、區位、能源資源疊加優勢，主動服務國家算力網路戰略，聚力推進全國一體化算力網建設、資料融合應用場景打造、資料產業培育壯大、資料要素賦能人工智慧創新、數字人才隊伍建設等重點工作，依託雄厚算力基礎設施開展詞元工廠建設，積極探索把能源算力資源優勢轉化為資料要素價值的新路徑，持續提升資料要素工作整體質效。"
+    },
+    {
+      "id": "5078694",
+      "time": "2026-09-05 19:47:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "佩斯科夫稱克里姆林宮已收到烏克蘭停火通知。"
+    },
+    {
+      "id": "mkt:01a07164-eea8-7118-84b2-3c5472642249",
+      "time": "2026-09-05 19:47:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TASS: A Kremlin spokesman said President Putin will meet U.S. envoys Vitekov and Kushner on Saturday. Putin has ordered a three-day halt to strikes on Kyiv to facilitate preparations for the U.S. delegation's arrival."
+    },
+    {
+      "id": "5078693",
+      "time": "2026-09-05 19:46:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "克林姆林宮發言人佩斯科夫稱：普京下令三天內不對基輔發動襲擊，以為美國代表團的到來做準備。"
+    },
+    {
+      "id": "5078692",
+      "time": "2026-09-05 19:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人稱，普京將於週六與美國特使威特科夫和庫什納舉行會談。"
+    },
+    {
+      "id": "5078691",
+      "time": "2026-09-05 19:44:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆釋出山洪黃色預警】新疆維吾爾自治區水利廳、氣象局2026年9月5日18時聯合釋出山洪災害氣象風險預警。根據降雨預報分析，預計2026年9月5日20時至6日20時：巴音郭楞蒙古自治州庫爾勒市、輪臺縣、焉耆回族自治縣、和靜縣；阿克蘇地區庫車市、拜城縣的區域性地區發生山洪災害可能性較大（黃色預警）。昌吉回族自治州昌吉市、呼圖壁縣；和田地區和田市、和田縣、洛浦縣的區域性地區可能發生山洪災害（藍色預警）。其他預報降水區域也可能因局地短歷時強降水引發山洪災害。新疆維吾爾自治區水利廳、氣象局提醒有關單位和部門緊盯河道（溝道）險段險情，做好局地暴雨洪水、山洪災害、中小河流洪水防禦等各項準備。（央視新聞）"
+    },
+    {
+      "id": "5078690",
+      "time": "2026-09-05 19:43:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：以色列的侵略行為與美國合作策劃，旨在向黎巴嫩當局施壓，迫使其執行目標明確的既定議程。"
+    },
+    {
+      "id": "mkt:01a0715e-9416-7118-84b2-32dc47d6c2ae",
+      "time": "2026-09-05 19:40:18",
+      "tags": [
+        "MKT News",
+        "000425.SZ",
+        "Impact bullish"
+      ],
+      "text": "【XCMG says gross margin to rise annually from 2026】XCMG told investors it is boosting profitability through a ‘stabilize, reduce, four-adjustments’ framework: stabilizing product pricing, cutting costs across procurement, R&D and production, and optimizing product, industry, market and customer structures. The company expects gross margins to increase year‑on‑year from 2026 and for an extended period thereafter."
+    },
+    {
+      "id": "5078689",
+      "time": "2026-09-05 19:37:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府稱多佛港已恢復通行。"
+    },
+    {
+      "id": "mkt:01a0715b-8291-7118-84b2-2d57f8f76797",
+      "time": "2026-09-05 19:36:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni military sources say armed forces are advancing toward Jabal Ras in the Hayis district south of Hodeidah."
+    },
+    {
+      "id": "5078687",
+      "time": "2026-09-05 19:33:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長盈精密：上半年人形機器人零元件交付量約86萬件 已超去年全年】長盈精密近日接受機構調研時表示，公司是海內外人形機器人頭部終端品牌的一級供應商（Tier1）。2025年全年，公司人形機器人零元件交付約69萬件，2026年上半年交付量約86萬件，已經超過去年全年，預計下半年和明年上半年的訂單增速會更快。"
+    },
+    {
+      "id": "5078686",
+      "time": "2026-09-05 19:30:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽省委書記梁言順調研核聚變能發展並主持召開座談會】據安徽日報，9月4日下午，安徽省委書記梁言順在合肥市調研核聚變能發展並主持召開座談會，強調要聚焦國家戰略需求，堅定發展信心，以強烈的責任感緊迫感加快前沿科技突破，奮力搶佔核聚變能發展戰略制高點。"
+    },
+    {
+      "id": "5078685",
+      "time": "2026-09-05 19:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱在該國東南部搗毀一恐怖組織團伙】當地時間9月5日，伊朗伊斯蘭革命衛隊表示，革命衛隊在伊朗東南部錫斯坦-俾路支斯坦省搗毀一個恐怖組織團伙，打死兩名恐怖分子。伊朗伊斯蘭革命衛隊稱，該團伙隸屬於美以，其企圖在美國發動戰爭時在該省實施恐怖襲擊，但恐怖襲擊尚未實施就被搗毀。"
+    },
+    {
+      "id": "mkt:01a07150-ff7b-7118-84b2-245f38fa5d34",
+      "time": "2026-09-05 19:25:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【NIO: 9,317 charging and battery-swap facilities built nationwide】NIO has built 9,317 charging and battery-swap facilities across China, comprising 4,067 battery-swap stations, 5,250 charging stations and 30,272 charging piles. On Sept. 5 NIO opened a battery-swap station at Huangshan Qimen Low-Carbon Sci-Tech Park, completing county-level swap coverage in Anhui (216 swap stations covering 104 counties) and marking full county-level swap coverage across the Yangtze River Delta (1,412 swap stations covering 303 counties); NIO says its swap stations and charging piles are the largest in the industry."
+    },
+    {
+      "id": "5078681",
+      "time": "2026-09-05 19:23:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川通報泥石流災害情況：失聯11人身份基本確認】據“遂川新聞”，9月5日，江西省吉安市遂川縣防汛抗旱指揮部發布情況通報：針對我縣高坪鎮明坑村石下組的泥石流災害，各級公安、武警、消防、應急、藍天等救援力量共41臺車224人趕赴現場救援，其中49名救援隊員已徒步抵達明坑村開展救援。目前已救出3人（其中2人身體狀況良好、1人死亡），11名失聯群眾身份資訊已基本確認。救援人員安全轉移了39名被困村民。"
+    },
+    {
+      "id": "5078680",
+      "time": "2026-09-05 19:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來汽車：在全國已累計建成充換電站9317座】蔚來汽車：9月5日，黃山祁門低碳科創園蔚來換電站上線，蔚來能源正式實現安徽換電縣縣通，這也意味著長三角地區全面實現換電縣縣通。蔚來能源在安徽已累計建成216座換電站，覆蓋全省104個區縣。 在長三角地區，蔚來能源已累計建成1,412座換電站，覆蓋303個區縣，打通長三角城市群高速換電網路。 截至目前，蔚來在全國已累計建成充換電站9,317座，其中換電站4,067座、充電站5,250座、充電樁30,272根，換電站、充電樁建設位居行業首位。"
+    },
+    {
+      "id": "5078679",
+      "time": "2026-09-05 19:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使表示，沒有計劃強迫巴勒斯坦人離開加沙。"
+    },
+    {
+      "id": "5078678",
+      "time": "2026-09-05 19:05:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西省省長盧東亮與有關央企和協會負責同志分別舉行工作會談】據山西日報，9月3日至5日，山西省委副書記、省長盧東亮與出席2026年太原能源低碳發展論壇的有關中央企業、中國有色金屬工業協會負責同志，分別舉行工作會談，就加強安全保供、推進能源轉型、深化省企合作進行深入交流。盧東亮說，希望中央企業把山西作為戰略佈局的重要支點，圍繞煤炭清潔高效利用、能源大基地建設、現代煤化工、新能源金屬、高階裝備製造、先進核技術應用、重大專項攻關和創新成果轉化、人工智慧+能源、生產性服務業賦能等方面深化合作，推動新技術、新裝備、新業態在晉示範應用，攜手打造綜合能源、綠色能源系統解決方案。山西將進一步開放應用場景、最佳化營商環境、加強要素保障，為企業在晉發展提供優質高效服務。"
+    },
+    {
+      "id": "5078677",
+      "time": "2026-09-05 19:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三峽水運新通道工程葛洲壩臨時碼頭主體完工】今天（9月5日），三峽水運新通道工程葛洲壩臨時碼頭陸域主體結構完工，標誌著工程物流轉運體系基本形成，為葛洲壩航運擴能後續船閘拆除、航道擴挖及新閘全面建設提供必要的物資轉運保障。葛洲壩臨時碼頭共佈置3個泊位，主要承擔建設期間棄渣運輸，鋼材、砂石、大型施工裝置等大宗物資裝卸、轉運及船舶停靠任務。"
+    },
+    {
+      "id": "mkt:01a07138-279b-7118-84b2-1c7358430c66",
+      "time": "2026-09-05 18:58:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Northern cold air becomes active; many areas to hit H2 lows】With typhoon impacts on land waning, southern weather will stabilise. Northern cold air has become active; as an upper-level trough shifts east, early next week the cold air will cross the Great Wall, bringing widespread rain and a sharp chill. China’s Central Meteorological Observatory forecasts that from tomorrow through the 9th light-to-moderate rain, locally heavy, will move west-to-east across central–eastern northwest China, North China and north–central Northeast China. Temperatures in the Huanghuai region and areas northward are expected to fall 4–6°C, with parts of Inner Mongolia dropping 8–10°C. Daytime highs and nighttime lows across the north will largely mark their lowest levels since H2; forecast temperature maps show the north shifting from yellow to green."
+    },
+    {
+      "id": "5078676",
+      "time": "2026-09-05 18:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟發言人表示“不應強制驅逐加沙人”，並稱“加沙是未來巴勒斯坦國家不可分割的一部分”。"
+    },
+    {
+      "id": "5078675",
+      "time": "2026-09-05 18:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟發言人表示，“我們反對任何試圖改變加沙地帶人口或領土的企圖”，並支援將加沙地帶與西岸地區在巴勒斯坦權力機構的領導下統一起來。"
+    },
+    {
+      "id": "5078674",
+      "time": "2026-09-05 18:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁赫股份摩洛哥雷諾專案透過客戶預驗收】據邁赫股份訊息，近日，由公司承建的摩洛哥雷諾焊裝生產線專案順利透過客戶預驗收。本次預驗收的摩洛哥雷諾專案涵蓋T1、T2兩條核心焊裝生產線，可實現4車型柔性化生產，全面適配車企多元化、定製化生產需求。"
+    },
+    {
+      "id": "mkt:01a0712e-0f5d-7118-84b2-15a9a2804a1f",
+      "time": "2026-09-05 18:47:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi broadcaster Al-Hadath, citing Yemeni military sources, said armed forces advanced toward Jabal Ras east of Hays in Yemen."
+    },
+    {
+      "id": "5078673",
+      "time": "2026-09-05 18:32:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門軍方訊息人士：武裝部隊部隊在荷臺達以南的哈伊斯戰線取得重大進展。"
+    },
+    {
+      "id": "5078672",
+      "time": "2026-09-05 18:32:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門軍方訊息：胡塞武裝位於焦夫的指揮中心遭轟炸，4名伊朗和黎巴嫩專家喪生。"
+    },
+    {
+      "id": "5078671",
+      "time": "2026-09-05 18:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門軍方訊息：武裝部隊成功阻止了胡塞武裝在多個戰線上的推進企圖。空軍在塔伊茲和荷臺達對胡塞武裝據點實施了一系列空襲。"
+    },
+    {
+      "id": "5078670",
+      "time": "2026-09-05 18:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊表示，在錫斯坦-俾路支斯坦省的一次聯合安全行動中，擊斃了一個恐怖組織的兩名成員。該恐怖組織與以色列和美國有關聯，並計劃在該省發動襲擊。"
+    },
+    {
+      "id": "mkt:01a07116-6787-7118-84b2-08f2cb3acfd0",
+      "time": "2026-09-05 18:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv reported the convoy carrying US presidential envoy Witkoff, Trump son-in-law Kushner and Dmitriev has left the airport en route to Moscow."
+    },
+    {
+      "id": "5078669",
+      "time": "2026-09-05 18:16:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲副總統莎拉繳納保釋金後獲釋】據當地媒體報道，菲律賓副總統莎拉·杜特爾特的律師5日證實，莎拉當天向菲大馬尼拉地區奎松市一家法院繳納了36萬比索（約合3.8萬元人民幣）的保釋金後獲釋。奎松市地區法院4日對莎拉下達逮捕令，認為莎拉涉嫌威脅僱傭他人謀殺菲總統馬科斯、菲前眾議長馬丁·羅穆亞爾德斯等人。（新華社）"
+    },
+    {
+      "id": "5078668",
+      "time": "2026-09-05 18:15:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角G60科創走廊九城市釋出低空安全聯合行動倡議】9月3日至9月5日，2026低空經濟發展大會在蕪湖舉行。長三角G60科創走廊九城市政府首次聯合釋出《長三角G60科創走廊城市低空安全聯合行動倡議》。其中明確，嚴守法規制度，落實實名登記、空域查詢、飛行審批，堅決杜絕黑飛；強化科技賦能，接入低空監管平臺，提升飛行器智慧安全能力。"
+    },
+    {
+      "id": "5078667",
+      "time": "2026-09-05 18:14:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【偉星股份：長期看服飾輔料行業集中度會逐漸提升】偉星股份近日接受機構調研時表示，服飾輔料產業呈現區域叢集但差異化發展的態勢，規模企業較少，集中度偏低，市場競爭特別是中低檔產品的競爭尤為激烈。長期來說，隨著國際訂單持續遷徙、行業競爭加劇，國際化佈局領先、綜合競爭力強的頭部企業更具優勢，服飾輔料行業的集中度也會逐漸提升。"
+    },
+    {
+      "id": "5078666",
+      "time": "2026-09-05 18:13:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“我這些年確實不安分”，俞敏洪談網紅企業家標籤：這並非壞事】“我這幾年特別不安分，一方面是個性不太安分；另一方面是尋找新發展機會的主動選擇。”9月5日，在2026亞布力論壇夏季年會開幕式上，新東方教育科技集團董事長俞敏洪這樣總結自己的近況。 他坦言，自己目前算是比較大的“企業家網紅”，依然參與各種直播和產品推廣，但他認為，這並非“壞事”，因為把個人聲譽和名聲押在上面，自然會對產品更加仔細、小心，並確保其品質。 他直言，東方甄選思考的痛點是食品安全，目前為止，公司自營品沒有一款有安全問題，因為背後做了周密的檢測。這個過程是比較繁瑣艱苦，但結果美好。我們的自營品已經贏得了客戶的高度信任，我認為這就是抓到痛點帶來的好處。（新京報）"
+    },
+    {
+      "id": "5078665",
+      "time": "2026-09-05 18:13:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區錫林郭勒盟行署原黨組成員、副盟長，錫林浩特市委原書記興安接受紀律審查和監察調查】中央紀委國家監委網站9月5日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區錫林郭勒盟行署原黨組成員、副盟長，錫林浩特市委原書記興安涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a0710e-6630-7118-84b2-04398122b0b8",
+      "time": "2026-09-05 18:12:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【US envoys Witkoff and Kushner arrive in Moscow with proposed plan to end Russia-Ukraine war】On Sept. 5 midday local time, air-traffic data showed a US government aircraft carrying presidential envoy Witkoff and Trump’s son-in-law Kushner entered Russian airspace and a motorcade reached Moscow’s Vnukovo airport. Trump confirmed on Sept. 4 the pair will visit Russia and Ukraine carrying a proposal to end the war. Speaking at the White House, Trump said the Ukraine crisis “must be resolved,” that he sent Witkoff and Kushner to Moscow and Kyiv “to see if something can be arranged,” and that it is “very possible” they will succeed."
+    },
+    {
+      "id": "5078664",
+      "time": "2026-09-05 18:10:54",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【塔塔將在印度海得拉巴建設大型AI資料中心，預計投資7000億盧比】據交易所檔案顯示，塔塔諮詢服務公司（TCS）旗下的HyperVault已獲得264英畝土地，將在海得拉巴開發一個最高1吉瓦（GW）算力的大型人工智慧資料中心園區。該公司在一份宣告中表示，HyperVault及其合作伙伴預計將投資至多7000億盧比（約合74億美元）用於建設和管理這一AI基礎設施。"
+    },
+    {
+      "id": "mkt:01a0710c-042b-7118-84b1-faf3837469ab",
+      "time": "2026-09-05 18:10:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Central Meteorological Observatory maintains blue typhoon warning at 18:00 on Sept 5】China's Central Meteorological Observatory maintained a blue typhoon warning at 18:00 on Sept 5, saying Tropical Storm Krovanh (No.24) was located at 17:00 about 25 km south of Naha in the Ryukyu Islands (26.0N, 127.7E). Maximum winds near the center were level 8 (20 m/s), central pressure 995 hPa, with a 7-level (gale) wind radius of 200–350 km."
+    },
+    {
+      "id": "5078663",
+      "time": "2026-09-05 18:08:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破91美元，日內漲超0.3%。"
+    },
+    {
+      "id": "5078662",
+      "time": "2026-09-05 18:02:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部與中國氣象局9月5日18時聯合釋出黃色地質災害氣象風險預警】預計，9月5日20時至6日20時，福建東部和南部、江西西南部、湖南東南部、廣東東北部、西藏南部、青海東北部、新疆中部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。"
+    },
+    {
+      "id": "5078661",
+      "time": "2026-09-05 17:57:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塔塔諮詢服務公司（TCS）：旗下HyperVault將在印度特倫甘納邦建設大規模人工智慧資料中心園區，已獲得264英畝土地，用於建設最高1吉瓦（GW）算力的資料中心。"
+    },
     {
       "id": "5078660",
       "time": "2026-09-05 17:54:22",
