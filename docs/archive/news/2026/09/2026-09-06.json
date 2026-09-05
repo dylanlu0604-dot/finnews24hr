@@ -1,7 +1,39 @@
 {
   "date": "2026-09-06",
-  "count": 67,
+  "count": 70,
   "items": [
+    {
+      "id": "mkt:01a072bd-a165-7118-84b3-d9eb1f02308a",
+      "time": "2026-09-06 02:03:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said the US must bear responsibility for the consequences of its aggressive actions in the region."
+    },
+    {
+      "id": "5078911",
+      "time": "2026-09-06 02:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊最高司令部：我方警告美國，如果繼續實施海上封鎖，我方將對該地區的美國軍事目標實施比以往更為猛烈的打擊。"
+    },
+    {
+      "id": "mkt:01a072bb-aebe-7118-84b3-d29e1e061a04",
+      "time": "2026-09-06 02:01:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it is determined to defend its sovereignty and national interests and will respond to hostile actions, including maritime blockades."
+    },
     {
       "id": "5078910",
       "time": "2026-09-06 02:00:32",

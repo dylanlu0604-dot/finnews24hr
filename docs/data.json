@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-06 02:01:58",
-  "count": 14198,
+  "updated": "2026-09-06 02:05:49",
+  "count": 14200,
   "items": [
+    {
+      "id": "mkt:01a072bd-a165-7118-84b3-d9eb1f02308a",
+      "time": "2026-09-06 02:03:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said the US must bear responsibility for the consequences of its aggressive actions in the region."
+    },
+    {
+      "id": "5078911",
+      "time": "2026-09-06 02:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊最高司令部：我方警告美國，如果繼續實施海上封鎖，我方將對該地區的美國軍事目標實施比以往更為猛烈的打擊。"
+    },
+    {
+      "id": "mkt:01a072bb-aebe-7118-84b3-d29e1e061a04",
+      "time": "2026-09-06 02:01:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it is determined to defend its sovereignty and national interests and will respond to hostile actions, including maritime blockades."
+    },
     {
       "id": "5078910",
       "time": "2026-09-06 02:00:32",
@@ -129991,18 +130023,6 @@
         "國際"
       ],
       "text": "特朗普接受邀請，出任新一屆總統盃高爾夫賽事名譽主席。"
-    },
-    {
-      "id": "mkt:01a04eb2-e80f-7118-83fb-152908f3e907",
-      "time": "2026-08-30 02:05:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israel conducts strikes in southern Lebanon】Lebanon’s National News Agency (NNA) reported Israeli forces destroyed a nursing home in Hula, southern Lebanon. NNA said an Israeli drone fired a guided missile at an open area between Jarmaq and Kfar Reman. Earlier Israeli artillery shelled the outskirts of Zawtar al-Gharbiyah, and there were reports of a large explosion between Markaba and Rabs al-Sarasin."
     }
   ]
 }
