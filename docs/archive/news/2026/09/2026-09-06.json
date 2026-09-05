@@ -1,7 +1,32 @@
 {
   "date": "2026-09-06",
-  "count": 159,
+  "count": 162,
   "items": [
+    {
+      "id": "5078962",
+      "time": "2026-09-06 06:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京與威特科夫、庫什納的會談持續了3小時10分鐘。"
+    },
+    {
+      "id": "5078961",
+      "time": "2026-09-06 06:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京與美國特使的會談“極為坦率”，氣氛互信。"
+    },
+    {
+      "id": "mkt:01a0739b-b6b4-7118-84b5-2761a0410c98",
+      "time": "2026-09-06 06:06:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russian presidential aide USHAKOV said President Putin is prepared to cooperate with the US and pursue diplomatic means to resolve the Russia-Ukraine issue."
+    },
     {
       "id": "5078960",
       "time": "2026-09-06 06:02:10",

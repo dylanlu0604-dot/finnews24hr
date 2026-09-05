@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-06 06:05:22",
-  "count": 14229,
+  "updated": "2026-09-06 06:09:16",
+  "count": 14231,
   "items": [
+    {
+      "id": "5078962",
+      "time": "2026-09-06 06:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京與威特科夫、庫什納的會談持續了3小時10分鐘。"
+    },
+    {
+      "id": "5078961",
+      "time": "2026-09-06 06:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮助手烏沙科夫：普京與美國特使的會談“極為坦率”，氣氛互信。"
+    },
+    {
+      "id": "mkt:01a0739b-b6b4-7118-84b5-2761a0410c98",
+      "time": "2026-09-06 06:06:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russian presidential aide USHAKOV said President Putin is prepared to cooperate with the US and pursue diplomatic means to resolve the Russia-Ukraine issue."
+    },
     {
       "id": "5078960",
       "time": "2026-09-06 06:02:10",
@@ -130231,14 +130256,6 @@
         "WTI"
       ],
       "text": "【Finnish president says Russia unlikely to attack NATO】Finnish President Alexander Stubb said he does not expect Russia to attack NATO, calling it \"the world's most powerful military alliance,\" but urged NATO to prepare for worst-case scenarios. Stubb said Russian battlefield losses have outpaced recruitment and Moscow may mobilize additional forces this autumn, a move he warned would carry domestic political consequences. He added that, despite Russia’s increasingly complicated position, Moscow is unlikely to end the conflict solely because of economic hardship and that Russians can tolerate significant economic pain."
-    },
-    {
-      "id": "5066634",
-      "time": "2026-08-30 06:06:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭總統斯圖布談及特朗普：無論你喜不喜歡，特朗普都是美國歷史上最具影響力的總統之一。他會付諸行動，並且能夠推動事情落地。"
     }
   ]
 }
