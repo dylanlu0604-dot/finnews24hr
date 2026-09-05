@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-05 17:44:01",
+  "updated": "2026-09-05 17:47:57",
   "count": 14158,
   "items": [
+    {
+      "id": "mkt:01a070f5-8fc0-7118-84b1-eaabdd769d53",
+      "time": "2026-09-05 17:45:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen August new-home sales 3,467 units】The Shenzhen Real Estate Brokerage Association reported new-home sales in Shenzhen at 3,467 units in August, down 23.0% MoM and up 4.8% YoY. Resale transactions were 5,108 units, down 2.3% MoM and up 7.6% YoY. Jan–Aug cumulative resale volume was about 48,400 units, up 4.7% YoY."
+    },
+    {
+      "id": "5078656",
+      "time": "2026-09-05 17:43:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天奇股份具身智慧機器人產業專案開工儀式舉行】據天奇股份訊息，9月5日，天奇股份具身智慧機器人產業專案開工儀式在惠山高新區舉行。該專案總投資超10億元，專案聚焦汽車智慧製造與具身智慧融合創新，規劃建設汽車裝備智慧製造基地和麵向汽車行業應用的機器人具身智慧系統研發中心。"
+    },
     {
       "id": "5078655",
       "time": "2026-09-05 17:43:24",
@@ -129696,22 +129712,6 @@
         "公司"
       ],
       "text": "【上海電氣與巴斯夫集團共商綠色低碳合作】上海電氣訊息，當地時間8月27日上午，上海電氣集團黨委書記、董事長吳磊帶隊赴德國拜訪巴斯夫集團，與巴斯夫全球採購部總裁馬蒂亞斯·多恩舉行會談，雙方圍繞“雙碳”目標下能源轉型、綠色技術創新、產業鏈協同等深入交換意見。"
-    },
-    {
-      "id": "mkt:01a04ce9-1e1d-7aab-917d-ab83c4e5f062",
-      "time": "2026-08-29 17:45:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AFP, citing a Niger security source, said the Republican Guard exchanged fire with rebels near the Republic Palace; fighting was ongoing."
-    },
-    {
-      "id": "5066305",
-      "time": "2026-08-29 17:44:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國足協：不與U23國足主帥安東尼奧續約為假訊息】中國足協29日釋出公告稱，近期網傳的中國足協不與U23國足主帥安東尼奧續約的傳言為虛假訊息。"
     }
   ]
 }

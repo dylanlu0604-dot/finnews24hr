@@ -1,7 +1,23 @@
 {
   "date": "2026-09-05",
-  "count": 787,
+  "count": 789,
   "items": [
+    {
+      "id": "mkt:01a070f5-8fc0-7118-84b1-eaabdd769d53",
+      "time": "2026-09-05 17:45:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen August new-home sales 3,467 units】The Shenzhen Real Estate Brokerage Association reported new-home sales in Shenzhen at 3,467 units in August, down 23.0% MoM and up 4.8% YoY. Resale transactions were 5,108 units, down 2.3% MoM and up 7.6% YoY. Jan–Aug cumulative resale volume was about 48,400 units, up 4.7% YoY."
+    },
+    {
+      "id": "5078656",
+      "time": "2026-09-05 17:43:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天奇股份具身智慧機器人產業專案開工儀式舉行】據天奇股份訊息，9月5日，天奇股份具身智慧機器人產業專案開工儀式在惠山高新區舉行。該專案總投資超10億元，專案聚焦汽車智慧製造與具身智慧融合創新，規劃建設汽車裝備智慧製造基地和麵向汽車行業應用的機器人具身智慧系統研發中心。"
+    },
     {
       "id": "5078655",
       "time": "2026-09-05 17:43:24",
