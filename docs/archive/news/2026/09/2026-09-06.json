@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 104,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a0731a-d2f1-7118-84b4-5801d1c7345e",
+      "time": "2026-09-06 03:45:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it struck three U.S. vessels in other waters; the U.S. has not confirmed."
+    },
+    {
+      "id": "5078931",
+      "time": "2026-09-06 03:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理米歇爾·馬丁將向特朗普施壓，要求結束伊朗衝突。"
+    },
     {
       "id": "5078930",
       "time": "2026-09-06 03:41:53",
