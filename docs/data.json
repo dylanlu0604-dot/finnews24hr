@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 06:24:46",
-  "count": 14228,
+  "updated": "2026-09-06 06:28:41",
+  "count": 14225,
   "items": [
+    {
+      "id": "5078963",
+      "time": "2026-09-06 06:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國商業火箭成功入軌，歐洲入局衛星發射競賽】德國初創企業伊薩爾航天（Isar Aerospace）週六在北極圈內的挪威發射場，將自家首枚火箭送入太空，歐洲距離實現本土衛星發射能力更進一步。這枚無人的“光譜號”（Spectrum）火箭，是歐洲大陸首枚完成入軌的商業發射飛行器。多個歐洲國家都希望在規模持續擴張的航天任務市場分得一杯羹。伊薩爾航天在社交平臺發文表示：“我們成功入軌！就此創造歐洲歷史。”伊薩爾航天從挪威航天港發射該火箭，計劃對外提供商業衛星發射服務。"
+    },
     {
       "id": "mkt:01a073a6-cdd1-7118-84b5-2c0620a2f593",
       "time": "2026-09-06 06:18:26",
@@ -130181,50 +130189,6 @@
         "國際"
       ],
       "text": "委內瑞拉政界各派均譴責與美國達成的石油協議。"
-    },
-    {
-      "id": "te:markets:579267",
-      "time": "2026-08-30 06:26:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Shaanxi Coal earnings above expectations at 0.55 CNY — Shaanxi Coal (601225) released earnings per share at 0.55 CNY, compared to market expectations of 0.47 CNY."
-    },
-    {
-      "id": "te:markets:579266",
-      "time": "2026-08-30 06:26:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Industrial Bank earnings below expectations at 0.75 CNY — Industrial Bank (601166) released earnings per share at 0.75 CNY, compared to market expectations of 0.89 CNY."
-    },
-    {
-      "id": "te:markets:579265",
-      "time": "2026-08-30 06:26:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) released earnings per share at 0.37 CNY, compared to market expectations of 0.32 CNY."
-    },
-    {
-      "id": "5066637",
-      "time": "2026-08-30 06:26:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。"
     }
   ]
 }
