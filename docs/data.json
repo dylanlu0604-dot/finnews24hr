@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-05 17:36:18",
-  "count": 14153,
+  "updated": "2026-09-05 17:40:08",
+  "count": 14154,
   "items": [
+    {
+      "id": "5078653",
+      "time": "2026-09-05 17:39:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月深圳新建商品房成交3467套】深圳市房地產中介協會發布最新資料顯示，8月份，深圳新建商品房成交3467套，環比下降23.0%，同比增長4.8%；深圳二手住宅錄得5108套，環比下降2.3%，同比增長7.6%。今年1-8月，深圳二手房累計錄得約4.84萬套，同比增長4.7%。"
+    },
+    {
+      "id": "mkt:01a070ee-9d58-7118-84b1-d647334412d6",
+      "time": "2026-09-05 17:38:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi satellite TV cites sources saying Yemeni armed forces have regained control of all areas of the Hays district in Hodeidah province."
+    },
     {
       "id": "5078652",
       "time": "2026-09-05 17:30:34",
@@ -129655,16 +129671,6 @@
         "公司"
       ],
       "text": "【中國足協：不與U23國足主帥安東尼奧續約為假訊息】中國足協29日釋出公告稱，近期網傳的中國足協不與U23國足主帥安東尼奧續約的傳言為虛假訊息。"
-    },
-    {
-      "id": "mkt:01a04ce4-01c7-7aab-917d-a6a91d144ba6",
-      "time": "2026-08-29 17:40:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Dagang Oilfield gas storage cluster injection cycle tops 2 bln cubic meters, sets record】The Tianjin gas-storage branch of Dagang Oilfield said cumulative injections in the current cycle have exceeded 2 bln cubic meters, reaching 90% of the overall injection plan and up 8% YoY, a new cycle high that strengthens winter gas supply for the Beijing-Tianjin-Hebei region."
     }
   ]
 }
