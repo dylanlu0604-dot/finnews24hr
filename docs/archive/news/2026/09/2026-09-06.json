@@ -1,7 +1,39 @@
 {
   "date": "2026-09-06",
-  "count": 148,
+  "count": 153,
   "items": [
+    {
+      "id": "mkt:01a0737c-d58d-7118-84b5-0b92bbe471b3",
+      "time": "2026-09-06 05:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli broadcaster reports IDF plans partial pullback from southern Lebanon】Israeli public radio reported on the 5th that the IDF is preparing a partial withdrawal from southern Lebanon and will establish a narrower border security zone. The report says the IDF completed destruction of a Hezbollah tunnel beneath high ground near Nebetiyeh and has drafted a plan to pull back to positions closer to the Israel‑Lebanon border, reducing its controlled depth in southern Lebanon from about 10km to roughly 3–4km. The new deployment line, dubbed the \"grey line\", would replace the current \"yellow line.\""
+    },
+    {
+      "id": "mkt:01a0737b-daac-7118-84b5-06a9ec924d92",
+      "time": "2026-09-06 05:31:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: U.S. presidential special envoy Witkoff and Trump's son-in-law Kushner have left Moscow."
+    },
+    {
+      "id": "5078956",
+      "time": "2026-09-06 05:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫、庫什納已離開莫斯科。"
+    },
+    {
+      "id": "5078955",
+      "time": "2026-09-06 05:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以軍計劃部分撤出黎巴嫩南部】以色列公共廣播電臺5日報道說，以軍正準備部分撤出黎巴嫩南部，並計劃在黎以邊境沿線建立範圍更小的“安全區”。報道稱，以軍近日完成對黎南部奈拜提耶地區阿里塔希爾高地之下黎真主黨地道的摧毀行動，隨後制定上述調整部署計劃。以色列安全部門官員說，根據新計劃，以軍將撤至更靠近黎以邊境的位置，其在黎南部控制的區域縱深將由目前約10公里縮減至3至4公里。新的部署線被稱為“灰線”，將取代目前“黃線”。（新華社）"
+    },
     {
       "id": "mkt:01a0737a-50fd-7118-84b4-fc7cfda9a196",
       "time": "2026-09-06 05:29:50",
@@ -9,6 +41,14 @@
         "MKT News"
       ],
       "text": "USHAKOV said Putin's meeting with Trump's special envoy was substantive, very frank and constructive."
+    },
+    {
+      "id": "5078954",
+      "time": "2026-09-06 05:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：威瑞森針對洛厄爾颶風免除相關費用，為夏威夷做好網路保障準備。"
     },
     {
       "id": "mkt:01a07379-bb48-7118-84b4-f20562f2b58d",

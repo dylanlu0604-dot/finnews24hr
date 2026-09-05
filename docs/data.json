@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-06 05:30:19",
-  "count": 14227,
+  "updated": "2026-09-06 05:34:09",
+  "count": 14231,
   "items": [
+    {
+      "id": "mkt:01a0737c-d58d-7118-84b5-0b92bbe471b3",
+      "time": "2026-09-06 05:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli broadcaster reports IDF plans partial pullback from southern Lebanon】Israeli public radio reported on the 5th that the IDF is preparing a partial withdrawal from southern Lebanon and will establish a narrower border security zone. The report says the IDF completed destruction of a Hezbollah tunnel beneath high ground near Nebetiyeh and has drafted a plan to pull back to positions closer to the Israel‑Lebanon border, reducing its controlled depth in southern Lebanon from about 10km to roughly 3–4km. The new deployment line, dubbed the \"grey line\", would replace the current \"yellow line.\""
+    },
+    {
+      "id": "mkt:01a0737b-daac-7118-84b5-06a9ec924d92",
+      "time": "2026-09-06 05:31:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: U.S. presidential special envoy Witkoff and Trump's son-in-law Kushner have left Moscow."
+    },
+    {
+      "id": "5078956",
+      "time": "2026-09-06 05:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫、庫什納已離開莫斯科。"
+    },
+    {
+      "id": "5078955",
+      "time": "2026-09-06 05:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以軍計劃部分撤出黎巴嫩南部】以色列公共廣播電臺5日報道說，以軍正準備部分撤出黎巴嫩南部，並計劃在黎以邊境沿線建立範圍更小的“安全區”。報道稱，以軍近日完成對黎南部奈拜提耶地區阿里塔希爾高地之下黎真主黨地道的摧毀行動，隨後制定上述調整部署計劃。以色列安全部門官員說，根據新計劃，以軍將撤至更靠近黎以邊境的位置，其在黎南部控制的區域縱深將由目前約10公里縮減至3至4公里。新的部署線被稱為“灰線”，將取代目前“黃線”。（新華社）"
+    },
     {
       "id": "mkt:01a0737a-50fd-7118-84b4-fc7cfda9a196",
       "time": "2026-09-06 05:29:50",
@@ -9,6 +41,14 @@
         "MKT News"
       ],
       "text": "USHAKOV said Putin's meeting with Trump's special envoy was substantive, very frank and constructive."
+    },
+    {
+      "id": "5078954",
+      "time": "2026-09-06 05:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：威瑞森針對洛厄爾颶風免除相關費用，為夏威夷做好網路保障準備。"
     },
     {
       "id": "mkt:01a07379-bb48-7118-84b4-f20562f2b58d",
@@ -130220,18 +130260,6 @@
         "國際"
       ],
       "text": "【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。"
-    },
-    {
-      "id": "mkt:01a04f6f-0937-7118-83fb-eaa5a8cf8fca",
-      "time": "2026-08-30 05:31:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "CPNG.O",
-        "Impact bearish"
-      ],
-      "text": "【Trump executed two Coupang trades in June as Seoul regulatory action fuels U.S.-South Korea dispute】YONHAP reports Trump’s financial disclosure shows he executed two trades in US-listed e-commerce firm Coupang Inc. in June via a money manager. The trades come amid rising U.S.-South Korea tensions over Seoul’s regulatory handling of a large-scale data breach at Coupang. In July, staff of the U.S. House Judiciary Committee issued an interim report accusing the South Korean government of “discriminatory attacks” on Coupang and other U.S.-owned firms, saying Coupang has been a sustained target."
     }
   ]
 }
