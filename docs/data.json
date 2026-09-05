@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 03:16:29",
-  "count": 14213,
+  "updated": "2026-09-06 03:20:27",
+  "count": 14211,
   "items": [
+    {
+      "id": "5078927",
+      "time": "2026-09-06 03:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達總理同黎巴嫩總理就地區局勢降溫、海上安全問題舉行磋商。"
+    },
     {
       "id": "mkt:01a072ff-7bc7-7118-84b4-34879d2b73bf",
       "time": "2026-09-06 03:15:40",
@@ -130107,38 +130115,6 @@
         "焦點"
       ],
       "text": "英國財政大臣希利：考慮對銀行與石油企業徵收暴利稅。"
-    },
-    {
-      "id": "mkt:01a04ef6-1aec-7118-83fb-52fd3dd51971",
-      "time": "2026-08-30 03:19:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Fars News cites Iran's agriculture minister saying Iran has, for the first time and despite difficult wartime conditions, achieved self-sufficiency in chicken meat and is moving toward exports."
-    },
-    {
-      "id": "mkt:01a04ef4-2186-7118-83fb-48c1cf0aac76",
-      "time": "2026-08-30 03:16:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【U.S. Embassy in Beirut: Hezbollah still refuses to negotiate disarmament with U.S. and Israel】U.S. Embassy in Beirut said Hezbollah remains unwilling to negotiate disarmament with the Lebanese government, the U.S. or Israel and is acting at Iran's direction. The embassy said it is already in dialogue with Beirut and that, should Hezbollah indicate readiness to hand over weapons, Washington could seek to narrow the parties' positions."
-    },
-    {
-      "id": "5066610",
-      "time": "2026-08-30 03:16:37",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美擬切斷米斯爾銀行代理行服務，阿聯酋央行啟動專項回溯審查】阿聯酋央行於週六釋出宣告，宣佈對本國境內運營的米斯爾銀行各分行啟動一項特別緊急審查。就在一天前，美國財政部提出限制措施，指控該銀行與伊朗影子銀行網路存在關聯交易。本次審查將開展司法層面的深度回溯核查，覆蓋美方提及的相關時段，重點核查美方宣告點名企業的相關交易。宣告稱，米斯爾銀行阿聯酋分行必須遵守當地法律法規；持牌銀行不得讓阿聯酋金融體系蒙受“聲譽風險”。阿聯酋央行同時表示，如果美國走完相關法律程式後最終落地這項擬議專項措施，當局正研究該銀行在阿聯酋境內的處置備選方案。美國財政部週五提出，切斷米斯爾銀行阿聯酋分行獲取美國金融機構代理行服務的渠道，理由是該分行涉伊朗影子銀行網路相關交易。"
     }
   ]
 }
