@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-05 17:01:16",
-  "count": 14158,
+  "updated": "2026-09-05 17:05:11",
+  "count": 14157,
   "items": [
+    {
+      "id": "mkt:01a070cc-c99e-7118-84b1-a849d9244bc5",
+      "time": "2026-09-05 17:01:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Zelenskiy said Russia struck Kyiv and Boryspil airports ahead of a US envoy's visit."
+    },
     {
       "id": "5078645",
       "time": "2026-09-05 16:58:23",
@@ -129678,27 +129690,6 @@
         "XAUUSD"
       ],
       "text": "【Iran scholar says US sanctions could backfire; some neighbors may seek to evade】After Iran security affairs chief Mohsen Rezaee said any future war would be \"different,\" Sultan Barakat, a public policy professor at Hamad bin Khalifa University, said Rezaee was issuing a warning to neighboring states rather than seeking deterrence. Barakat said many neighbors are sympathetic to Iran and that some are likely not to comply with US sanctions and will try to circumvent the new measures, adding Iran cannot afford an economic war with all partners. He warned US sanctions could \"seriously backfire\" on Washington, comparing potential fallout to threats to close the Strait of Hormuz."
-    },
-    {
-      "id": "5066294",
-      "time": "2026-08-29 17:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【近百家企業參展2026數博會“資料集市”】從國家資料局獲悉，近百家企業參展2026數博會期間舉行的“資料集市”活動。活動旨在推動資料產品、技術服務從成果展示轉向合作落地。（新華社）"
-    },
-    {
-      "id": "mkt:01a04cc0-c709-7aab-917d-8645db69397c",
-      "time": "2026-08-29 17:01:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said he will punish those responsible for a secondary explosion that followed a Russian strike on a warehouse in the Kyiv region."
     }
   ]
 }
