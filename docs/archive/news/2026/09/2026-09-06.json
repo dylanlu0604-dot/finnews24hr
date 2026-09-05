@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 102,
+  "count": 104,
   "items": [
+    {
+      "id": "5078930",
+      "time": "2026-09-06 03:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍稱，已在其他海域打擊三艘美國船隻。美方暫未予以證實。"
+    },
+    {
+      "id": "mkt:01a07316-4ffb-7118-84b4-547eab2c4f76",
+      "time": "2026-09-06 03:40:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it struck three vessels that transited the Strait of Hormuz via unauthorized routes."
+    },
     {
       "id": "5078929",
       "time": "2026-09-06 03:38:55",
