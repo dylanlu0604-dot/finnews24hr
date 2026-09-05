@@ -1,7 +1,34 @@
 {
   "date": "2026-09-06",
-  "count": 46,
+  "count": 49,
   "items": [
+    {
+      "id": "5078901",
+      "time": "2026-09-06 01:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：今日將（與美國特使）討論俄烏衝突的所有方面。"
+    },
+    {
+      "id": "5078900",
+      "time": "2026-09-06 01:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，如果美國繼續“騷擾”伊朗船隻，打擊行動可能會擴大。"
+    },
+    {
+      "id": "mkt:01a072a2-a048-7118-84b3-824b447b549a",
+      "time": "2026-09-06 01:34:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media reports an Iranian military commander warned that if the U.S. continues to \"harass\" Iranian vessels, the scope of attacks may widen."
+    },
     {
       "id": "mkt:01a072a1-5581-7118-84b3-7deddc8fa404",
       "time": "2026-09-06 01:32:50",

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-06 01:34:22",
+  "updated": "2026-09-06 01:38:20",
   "count": 14190,
   "items": [
+    {
+      "id": "5078901",
+      "time": "2026-09-06 01:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：今日將（與美國特使）討論俄烏衝突的所有方面。"
+    },
+    {
+      "id": "5078900",
+      "time": "2026-09-06 01:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，如果美國繼續“騷擾”伊朗船隻，打擊行動可能會擴大。"
+    },
+    {
+      "id": "mkt:01a072a2-a048-7118-84b3-824b447b549a",
+      "time": "2026-09-06 01:34:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media reports an Iranian military commander warned that if the U.S. continues to \"harass\" Iranian vessels, the scope of attacks may widen."
+    },
     {
       "id": "mkt:01a072a1-5581-7118-84b3-7deddc8fa404",
       "time": "2026-09-06 01:32:50",
@@ -129912,32 +129939,6 @@
         "其他"
       ],
       "text": "阿聯酋央行：正研究涉事銀行的處置方案，將對銀行交易開展調查，調查重點聚焦美方宣告提及的相關企業。"
-    },
-    {
-      "id": "5066556",
-      "time": "2026-08-30 01:37:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿聯酋央行表示，該行要求持牌運營的阿聯酋銀行“不得讓阿聯酋金融體系承受聲譽風險”。"
-    },
-    {
-      "id": "5066555",
-      "time": "2026-08-30 01:35:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "阿聯酋央行表示，將對埃及國家銀行在阿聯酋的分行開展專項緊急審查，其中包括對美國當局宣告提及時段開展司法深度回溯核查。"
-    },
-    {
-      "id": "mkt:01a04e96-5e0b-7aab-917f-b596f46a052c",
-      "time": "2026-08-30 01:34:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of the UAE said branches of Egyptian banks operating in the UAE must comply with UAE laws and regulations."
     }
   ]
 }
