@@ -1,7 +1,23 @@
 {
   "date": "2026-09-05",
-  "count": 493,
+  "count": 495,
   "items": [
+    {
+      "id": "mkt:01a06f05-5472-7118-84ae-e44169da8e21",
+      "time": "2026-09-05 08:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US judge allows Pentagon to fire three Stars and Stripes journalists】A U.S. federal judge, Trevor McFadden, on Sept. 4 denied a temporary restraining order sought by Stars and Stripes publisher Max Lederer, editor Eric Slavin and Middle East reporter Lara Colter, clearing the Pentagon to proceed with their dismissals. McFadden found the trio had not shown a likely violation of their First Amendment rights; he said Slavin and Colter’s comments were made in the course of official duties rather than as private citizens, and Lederer’s refusal to follow supervisors’ orders is not protected speech. The plaintiffs had sued the Pentagon alleging retaliation for supporting the paper’s editorial independence and related reporting."
+    },
+    {
+      "id": "5078448",
+      "time": "2026-09-05 08:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼喀拉喀託之子火山再噴發】今天（9月5日）凌晨，印尼喀拉喀託之子火山發生噴發，將火山灰噴至海拔15000米高空。火山灰監測機構隨後追蹤到火山灰以約74公里的時速向西移動。印尼地質研究機構提醒公眾不要在火山口3公里半徑範圍內進行任何活動。 （CCTV國際時訊）"
+    },
     {
       "id": "5078447",
       "time": "2026-09-05 08:39:23",
