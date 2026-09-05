@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-05 20:34:28",
-  "count": 14156,
+  "updated": "2026-09-05 20:38:28",
+  "count": 14157,
   "items": [
+    {
+      "id": "5078724",
+      "time": "2026-09-05 20:35:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車法國站第一回合獲季軍】9月5日，2026世界超級摩托車錦標賽（WSBK）法國站WorldSSP組別首場正賽在訥韋爾-馬尼庫爾賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯從杆位發車，最終以第三名完賽，登上領獎臺。"
+    },
+    {
+      "id": "mkt:01a07190-04f4-7118-84b2-7289f32c5a0e",
+      "time": "2026-09-05 20:34:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【France completes repatriation of national gold reserves】France completed repatriation of all official gold reserves to domestic custody earlier this year, fully clearing holdings kept in the US. Paris School of Economics professor Eric Monnet said the move standardized reserve quality and specs, generated financial returns that helped offset inflationary pressures from the Russia-Ukraine war, and highlighted sovereignty and asset-security concerns amid geopolitical shifts. Governments across Europe, South Asia, Southeast Asia and the Middle East are reassessing overseas custodial risk, and rising geopolitical and market uncertainty is prompting a new round of global gold reserve reallocations."
+    },
     {
       "id": "mkt:01a07189-2f85-7118-84b2-683a3c8d73b9",
       "time": "2026-09-05 20:26:50",
@@ -129667,16 +129685,6 @@
         "XAUUSD"
       ],
       "text": "Saudi outlet Alhadath reported Israel launched three airstrikes on Mansouri and Wadi Hujayl in southern Lebanon."
-    },
-    {
-      "id": "5066379",
-      "time": "2026-08-29 20:37:39",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【矽谷銀行破產後續：SVB FINANCIAL在與FDIC就17億美元索賠案的糾紛中敗訴】美國一位聯邦法官裁定，矽谷銀行的前母公司無權就其在聯邦存款保險公司接管這家破產銀行並保障其他儲戶資金時存放在該銀行的17億美元資金提出索賠。美國加州北區地方法院法官Beth Labson Freeman週五做出裁決，SVB Financial Trust在控股公司破產後接管了其債權，但由於前母公司的管理人員做出了直接導致銀行倒閉的決定，因此該信託公司無法收回現金。聯邦存款保險公司 (FDIC) 的論點成立，即銀行高管員的違規行為是造成該行損失的重大因素，並且信託機構應對他們的疏忽承擔責任。"
     }
   ]
 }
