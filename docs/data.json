@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-06 04:00:38",
-  "count": 14209,
+  "updated": "2026-09-06 04:04:35",
+  "count": 14211,
   "items": [
+    {
+      "id": "5078934",
+      "time": "2026-09-06 04:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：已打擊3艘與美國有關聯船隻及3艘油輪】當地時間5日晚，伊朗伊斯蘭革命衛隊海軍在一份宣告中稱，“美國軍隊出於霍爾木茲海峽被封鎖的絕望，襲擊伊朗三艘油輪，造成損失”。對此，伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽對三艘油輪以及三艘與美國有關聯的船隻進行了打擊。革命衛隊海軍警告稱，所有在波斯灣的船隻應避免在非法航道通行，否則其必將成為打擊目標。截至目前，美方暫未予以證實。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07328-967b-7118-84b4-69c214548026",
+      "time": "2026-09-06 04:00:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC naval force says it attacked three 'unauthorized' tankers in Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it attacked three tankers using 'unauthorized' routes in the Strait of Hormuz and three vessels linked to the United States in other areas. The IRGC navy warned all vessels operating in the Persian Gulf or the Strait of Hormuz not to be \"deceived\" by US forces and to avoid any suspicious attempts to transit 'unauthorized' waterways, saying such ships would otherwise become targets."
+    },
+    {
+      "id": "5078933",
+      "time": "2026-09-06 04:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍警告波斯灣及霍爾木茲海峽附近所有船隻，禁止開展“可疑活動”。"
+    },
     {
       "id": "5078932",
       "time": "2026-09-06 03:55:12",
@@ -130077,15 +130105,6 @@
         "焦點"
       ],
       "text": "美國天然氣暗盤突破2.9美元，日內漲幅0.9%。"
-    },
-    {
-      "id": "5066617",
-      "time": "2026-08-30 04:03:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤跌破83美元，日內跌超0.5%。"
     }
   ]
 }
