@@ -1,7 +1,28 @@
 {
   "date": "2026-09-05",
-  "count": 521,
+  "count": 523,
   "items": [
+    {
+      "id": "mkt:01a06f2a-3869-7118-84af-34d9973b9d7d",
+      "time": "2026-09-05 09:23:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【8th China-Russia Energy Business Forum opens; Ding Xuexiang reads Xi congratulatory letter and speaks】VLADIVOSTOK, Sept 4 — Ding Xuexiang, Politburo Standing Committee member and vice premier, attended the opening of the 8th China‑Russia Energy Business Forum, read a congratulatory letter from President Xi and delivered remarks. He said year‑to‑date China‑Russia energy trade has continued steady growth, major projects are progressing as planned, cooperation areas are expanding and a series of new practical outcomes have been achieved. He highlighted three takeaways for the partnership: top‑level leadership is its principal advantage; mutual benefit is the fundamental driver; and coordinated responses to challenges are a defining feature."
+    },
+    {
+      "id": "5078466",
+      "time": "2026-09-05 09:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞地方衛生部門在電視採訪中表示，爆炸已造成10至15人死亡。"
+    },
     {
       "id": "mkt:01a06f28-16fa-7118-84af-2e9f16d37b87",
       "time": "2026-09-05 09:21:33",
