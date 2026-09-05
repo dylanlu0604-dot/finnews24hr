@@ -1,7 +1,19 @@
 {
   "date": "2026-09-06",
-  "count": 113,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:01a07330-bcb7-7118-84b4-7c71fbbc1c4a",
+      "time": "2026-09-06 04:09:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran lawmaker says Iran used ballistic missiles against US warship, calls clash 'life-or-death'】Al Jazeera quoted a senior Iranian lawmaker and parliamentary National Security Commission spokesman saying Iran had used ballistic missiles to strike a US warship. He said Tehran and Washington are engaged in a \"life-or-death\" battle, accused US military action of violating international law and warned Iran may change its rules of engagement. He added the blockade should not exist, a memorandum of understanding has lapsed, and that Iran’s president offered to return to talks at the Bishkek summit four days ago but US officials ignored the offer and instead escalated the blockade."
+    },
     {
       "id": "mkt:01a0732c-96fb-7118-84b4-779e89a4271a",
       "time": "2026-09-06 04:04:57",
