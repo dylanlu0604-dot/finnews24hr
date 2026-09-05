@@ -1,7 +1,89 @@
 {
   "date": "2026-09-06",
-  "count": 87,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:01a072ff-7bc7-7118-84b4-34879d2b73bf",
+      "time": "2026-09-06 03:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports MAGA Inc., the super PAC aligned with Trump, has deployed US$10 mln to Texas — its first election-season expenditure this year."
+    },
+    {
+      "id": "5078926",
+      "time": "2026-09-06 03:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京對美國特使庫什納與威特科夫表示：調解工作的質量，以及對斡旋人員所寄予的信任，當然至關重要。我想告訴你們，與你們開展合作令我方感到踏實，在整個程序當中，我方的信任程度相當高。"
+    },
+    {
+      "id": "5078925",
+      "time": "2026-09-06 03:13:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普旗下“讓美國再次偉大”超級政治行動委員會（MAGA Inc.）向得克薩斯州投入1000萬美元，這是該機構本年度首次大選階段開支。"
+    },
+    {
+      "id": "mkt:01a072f4-ebb4-7118-84b4-2f9be73e9a8e",
+      "time": "2026-09-06 03:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Greece unveils €2.2bln 2027 support package】Greek Prime Minister Mitsotakis announced a €2.2bln (about $2.56bln) economic support package for 2027 to ease cost-of-living pressures. Measures focus on the self-employed, pensioners, farmers and large families and include raising the minimum wage from €920 to €1,000 effective January 2028. Authorities say the 2026 budget is expected to again exceed targets, providing headroom for subsidies and tax cuts; the government says the measures will not jeopardize public finances and will comply with EU budget rules."
+    },
+    {
+      "id": "5078924",
+      "time": "2026-09-06 02:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦紅新月會：以色列襲擊加沙城圖法赫社群，造成3人受傷。"
+    },
+    {
+      "id": "mkt:01a072e5-e78b-7118-84b4-24ff0a44c667",
+      "time": "2026-09-06 02:47:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Putin says Russia will seek to secure safety of U.S.-Ukraine talks; halts airstrikes on Kyiv under three-day ceasefire】On the evening of the 5th, President Putin met U.S. envoys at the Kremlin, outlined details of a three-day ceasefire and said Russia will seek to ensure the safety of U.S.-Ukraine negotiations and mediation personnel. Putin said Russian intelligence and diplomatic channels received a request to stop strikes on Kyiv and he ordered an immediate halt to airstrikes on the Ukrainian capital from midnight. He added Ukraine has sharply reduced attacks on Russian territory, including Moscow, by roughly an order of magnitude. Putin said Ukraine proposed a broader three-day ceasefire, which Russia did not accept."
+    },
+    {
+      "id": "5078923",
+      "time": "2026-09-06 02:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：在摧毀阿里·塔赫爾山脊地下隧道後，準備縮減黎巴嫩南部駐軍規模。"
+    },
+    {
+      "id": "5078922",
+      "time": "2026-09-06 02:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄方將努力確保美烏談判程序和調解人員安全】當地時間5日晚間，俄羅斯總統普京在克里姆林宮與美國總統特朗普的特使威特科夫和女婿庫什納舉行會談，介紹俄烏達成“三日停火”的細節，並表示俄方將努力確保美烏談判程序和調解人員安全。"
+    },
+    {
+      "id": "mkt:01a072e4-3c1a-7118-84b4-1c4c86b3ad58",
+      "time": "2026-09-06 02:45:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran analyst says Tehran has plan to push oil above $100/bbl】Ali Akbar Darelni of Tehran’s Strategic Research Center called a US strike on an Iranian tanker a major issue and said Iran will not leave it unanswered. He said the US maritime blockade and sanctions are putting severe pressure on Tehran, that Iran is preparing measures to break the blockade and retaliate more forcefully, and that Iran has plans to push oil prices above $100 per barrel."
+    },
     {
       "id": "mkt:01a072dd-4b61-7118-84b4-1044babc28d8",
       "time": "2026-09-06 02:38:20",

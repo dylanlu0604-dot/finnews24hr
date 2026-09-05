@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-06 02:40:40",
-  "count": 14210,
+  "updated": "2026-09-06 03:16:29",
+  "count": 14213,
   "items": [
+    {
+      "id": "mkt:01a072ff-7bc7-7118-84b4-34879d2b73bf",
+      "time": "2026-09-06 03:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports MAGA Inc., the super PAC aligned with Trump, has deployed US$10 mln to Texas — its first election-season expenditure this year."
+    },
+    {
+      "id": "5078926",
+      "time": "2026-09-06 03:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京對美國特使庫什納與威特科夫表示：調解工作的質量，以及對斡旋人員所寄予的信任，當然至關重要。我想告訴你們，與你們開展合作令我方感到踏實，在整個程序當中，我方的信任程度相當高。"
+    },
+    {
+      "id": "5078925",
+      "time": "2026-09-06 03:13:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普旗下“讓美國再次偉大”超級政治行動委員會（MAGA Inc.）向得克薩斯州投入1000萬美元，這是該機構本年度首次大選階段開支。"
+    },
+    {
+      "id": "mkt:01a072f4-ebb4-7118-84b4-2f9be73e9a8e",
+      "time": "2026-09-06 03:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Greece unveils €2.2bln 2027 support package】Greek Prime Minister Mitsotakis announced a €2.2bln (about $2.56bln) economic support package for 2027 to ease cost-of-living pressures. Measures focus on the self-employed, pensioners, farmers and large families and include raising the minimum wage from €920 to €1,000 effective January 2028. Authorities say the 2026 budget is expected to again exceed targets, providing headroom for subsidies and tax cuts; the government says the measures will not jeopardize public finances and will comply with EU budget rules."
+    },
+    {
+      "id": "5078924",
+      "time": "2026-09-06 02:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦紅新月會：以色列襲擊加沙城圖法赫社群，造成3人受傷。"
+    },
+    {
+      "id": "mkt:01a072e5-e78b-7118-84b4-24ff0a44c667",
+      "time": "2026-09-06 02:47:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Putin says Russia will seek to secure safety of U.S.-Ukraine talks; halts airstrikes on Kyiv under three-day ceasefire】On the evening of the 5th, President Putin met U.S. envoys at the Kremlin, outlined details of a three-day ceasefire and said Russia will seek to ensure the safety of U.S.-Ukraine negotiations and mediation personnel. Putin said Russian intelligence and diplomatic channels received a request to stop strikes on Kyiv and he ordered an immediate halt to airstrikes on the Ukrainian capital from midnight. He added Ukraine has sharply reduced attacks on Russian territory, including Moscow, by roughly an order of magnitude. Putin said Ukraine proposed a broader three-day ceasefire, which Russia did not accept."
+    },
+    {
+      "id": "5078923",
+      "time": "2026-09-06 02:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：在摧毀阿里·塔赫爾山脊地下隧道後，準備縮減黎巴嫩南部駐軍規模。"
+    },
+    {
+      "id": "5078922",
+      "time": "2026-09-06 02:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄方將努力確保美烏談判程序和調解人員安全】當地時間5日晚間，俄羅斯總統普京在克里姆林宮與美國總統特朗普的特使威特科夫和女婿庫什納舉行會談，介紹俄烏達成“三日停火”的細節，並表示俄方將努力確保美烏談判程序和調解人員安全。"
+    },
+    {
+      "id": "mkt:01a072e4-3c1a-7118-84b4-1c4c86b3ad58",
+      "time": "2026-09-06 02:45:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran analyst says Tehran has plan to push oil above $100/bbl】Ali Akbar Darelni of Tehran’s Strategic Research Center called a US strike on an Iranian tanker a major issue and said Iran will not leave it unanswered. He said the US maritime blockade and sanctions are putting severe pressure on Tehran, that Iran is preparing measures to break the blockade and retaliate more forcefully, and that Iran has plans to push oil prices above $100 per barrel."
+    },
     {
       "id": "mkt:01a072dd-4b61-7118-84b4-1044babc28d8",
       "time": "2026-09-06 02:38:20",
@@ -130057,61 +130139,6 @@
         "國際"
       ],
       "text": "【美擬切斷米斯爾銀行代理行服務，阿聯酋央行啟動專項回溯審查】阿聯酋央行於週六釋出宣告，宣佈對本國境內運營的米斯爾銀行各分行啟動一項特別緊急審查。就在一天前，美國財政部提出限制措施，指控該銀行與伊朗影子銀行網路存在關聯交易。本次審查將開展司法層面的深度回溯核查，覆蓋美方提及的相關時段，重點核查美方宣告點名企業的相關交易。宣告稱，米斯爾銀行阿聯酋分行必須遵守當地法律法規；持牌銀行不得讓阿聯酋金融體系蒙受“聲譽風險”。阿聯酋央行同時表示，如果美國走完相關法律程式後最終落地這項擬議專項措施，當局正研究該銀行在阿聯酋境內的處置備選方案。美國財政部週五提出，切斷米斯爾銀行阿聯酋分行獲取美國金融機構代理行服務的渠道，理由是該分行涉伊朗影子銀行網路相關交易。"
-    },
-    {
-      "id": "mkt:01a04eea-9925-7118-83fb-409311b6d62f",
-      "time": "2026-08-30 03:06:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. National Park Service backs Trump 250-foot triumphal arch plan, flags skyline and view impacts】The U.S. National Park Service said on Friday it supports President Trump’s proposed 250-foot triumphal arch at the recommended site and scale, calling the design consistent with historical tradition and a visual focal point for the 250th anniversary. The agency found the project would cause adverse effects to views and the surrounding landscape — affecting dozens of historic properties including the Lincoln Memorial and Washington Monument — but identified those impacts as visual/skyline changes rather than physical damage."
-    },
-    {
-      "id": "mkt:01a04ee9-ba21-7118-83fb-3caf2d18da9d",
-      "time": "2026-08-30 03:05:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israel security agency confirms PM's eldest son faced security threat in US】On Aug. 29 Israel’s domestic security agency Shin Bet confirmed it had evacuated Prime Minister Benjamin Netanyahu’s eldest son, Yair, and his security detail from the United States after a “significant” security threat. Yair said on Aug. 24 that Iran had “tried to assassinate one of his sons” but did not identify which son or timing; subsequent reporting named Yair as the target while living in Florida."
-    },
-    {
-      "id": "5066609",
-      "time": "2026-08-30 03:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以國家安全總局證實以總理長子在美國曾遭安全威脅】當地時間8月29日，以色列國家安全總局（辛貝特）證實，以總理內塔尼亞胡長子亞伊爾此前在美國時遭遇“重大”安全威脅，因此辛貝特決定緊急將他及其安保團隊一同撤離回以色列。內塔尼亞胡有兩個兒子。他24日接受採訪時聲稱，伊朗曾“試圖暗殺他的一個兒子”。不過，他沒有透露是哪個兒子，也未說明事發時間。隨後有訊息稱，內塔尼亞胡長子亞伊爾在美國佛羅里達州生活期間成為伊朗的“暗殺目標”。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a04ed7-0434-7118-83fb-32a7703db6f6",
-      "time": "2026-08-30 02:45:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's prime minister's security adviser Qassim al-Araji told Al Jazeera he is in talks with factions to limit weapons to state possession."
-    },
-    {
-      "id": "5066608",
-      "time": "2026-08-30 02:45:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克計劃自研燃氣輪機葉片。燃氣輪機可為AI資料中心提供電力。"
-    },
-    {
-      "id": "mkt:01a04ed4-e940-7118-83fb-29af4d108f4e",
-      "time": "2026-08-30 02:42:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources: Iraqi Kurdistan is exporting about 150,000 bpd of crude to Turkey's Ceyhan port."
     }
   ]
 }
