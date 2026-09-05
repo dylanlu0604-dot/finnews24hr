@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-05 16:49:27",
-  "count": 14161,
+  "updated": "2026-09-05 16:53:19",
+  "count": 14159,
   "items": [
+    {
+      "id": "5078641",
+      "time": "2026-09-05 16:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一伊朗油輪在哈爾克島附近遭美襲擊】當地時間5日上午，伊朗哈爾克島附近海域傳出數聲爆炸。伊朗方面訊息稱，一艘伊朗油輪在距離哈爾克島附近遭美軍導彈襲擊。當地訊息人士稱，事件無人員傷亡，油輪船員正在卸貨。相關機構正在就損失程度及具體細節展開調查。（央視新聞）"
+    },
     {
       "id": "mkt:01a070bd-908f-7118-84b1-9f4514d5ec0e",
       "time": "2026-09-05 16:44:26",
@@ -129703,30 +129711,6 @@
         "其他"
       ],
       "text": "【尼日總統府附近道路遭封鎖 國家電視臺已停播】當地時間8月29日早晨9時起，尼日國家電視臺已停止播出，尼亞美迪奧裡·哈馬尼國際機場關閉，通往總統府的道路已被封鎖。當天稍早時，尼日首都尼亞美多個地區傳出持續槍擊和爆炸聲。訊息人士稱，武裝分子襲擊了該市的迪奧裡·哈馬尼國際機場，並試圖突破總統府周邊安全警戒線。（央視）"
-    },
-    {
-      "id": "5066289",
-      "time": "2026-08-29 16:51:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國高階重型燃機實現自主可控 產業化國際化提速】近日，由我國自主研製的F級50兆瓦重型燃氣輪機啟運發往哈薩克。此次出口的重型燃氣輪機，是國內首個擁有完全自主智慧財產權的F級重型燃氣輪機。整機海外出口，標誌著我國高階重型燃機從技術國產化邁入產業化和國際化的新階段。重型燃氣輪機是高階裝備製造領域的核心關鍵裝備，也是新型電力系統的重要支撐裝備。相比同功率傳統火電機組，此次出口的F級50兆瓦重型燃機綜合優勢突出，整機由兩萬餘個精密零部件組成，單機每小時可發電7萬度以上，單臺機組每年能減少二氧化碳排放超50萬噸，具備高效節能、低碳清潔、啟停靈活的突出優勢，適配新型電力系統建設需求。"
-    },
-    {
-      "id": "mkt:01a04cb7-1af2-7aab-917d-6f7ca8a3ad42",
-      "time": "2026-08-29 16:51:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Niger government called for calm and said security forces are mobilizing to respond to attacks on the capital."
-    },
-    {
-      "id": "mkt:01a04cb6-7283-7aab-917d-61300dabcbf5",
-      "time": "2026-08-29 16:50:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zuoli Pharmaceutical says it will exceed 2,000 Wuling sleep-zone pharmacy rollout after deals with major chains】Zuoli Pharmaceutical told a conference call on the 28th it set an annual target to establish 2,000 Wuling sleep-zone flagship stores. The company has launched pilot Wuling sleep zones through partnerships with leading chains Yifeng, Kangbaijia and Yikang Pharmacy and expects to exceed the full-year target."
     }
   ]
 }
