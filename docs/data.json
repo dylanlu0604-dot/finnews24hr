@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-05 08:48:39",
-  "count": 14104,
+  "updated": "2026-09-05 08:52:33",
+  "count": 14109,
   "items": [
+    {
+      "id": "mkt:01a06f0c-68ae-7118-84af-06c4eb62e935",
+      "time": "2026-09-05 08:51:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Uruguay declares national sanitary emergency after highly pathogenic H5 avian influenza detected】On Sept. 4 Uruguay declared a national sanitary emergency after highly pathogenic H5 avian influenza was found in backyard poultry in Colonia province. The Ministry of Livestock, Agriculture and Fisheries said measures will restrict movement of backyard birds and poultry not in the official monitoring system, require backyard and free‑range flocks to be housed in covered, enclosed facilities, and suspend poultry markets, auctions and exhibitions nationwide."
+    },
+    {
+      "id": "5078457",
+      "time": "2026-09-05 08:50:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上海航交所：原油運價大幅上揚】據上海航交所，本週，美國能源資訊署(EIA)公佈資料顯示，截至2026年8月28日當週，美國除卻戰略儲備的商業原油庫存減少445.0萬桶至4.24億桶，降幅1.04%。美國國內原油產量增加1.9萬桶至1386.2萬桶/日，原油出口增加69.1萬桶/日至448.3萬桶/日，原油進口677.0萬桶/日，較前一週增加61.2萬桶/日。原油產品四周平均供應量為2044.9萬桶/日，較去年同期減少3.91%。美國商業原油庫存降幅遠高於市場此前約30萬桶的預期，是7月底以來首次出現如此明顯的庫存下降；煉廠開工率升至98%，創2018年8月以來最高水平，煉廠原油加工量增加約10.3萬桶/日。9月1日美軍對伊朗境內伊斯蘭革命衛隊目標發動了自7月以來規模最大的一輪軍事打擊，行動持續約六個半小時。伊朗隨後展開多國報復性反擊，對位於中東地區的美軍目標發動導彈與無人機聯合攻擊，地緣局勢緊張支撐油價。本週布倫特原油期貨價格高位上漲，週四報95.75美元/桶，較8月27日上漲7.34%。全球原油運輸市場VLCC型油輪運價高位上行。中國進口VLCC運輸市場運價大幅上揚。9月3日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報8413.38點，較8月27日上漲16.0%。"
+    },
+    {
+      "id": "mkt:01a06f0b-9df9-7118-84ae-f923bca85aa9",
+      "time": "2026-09-05 08:50:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【MacRumors: Apple foldable iPhone may be named iPhone Duo】MacRumors reports the long‑awaited foldable iPhone has been referred to as iPhone Ultra or iPhone Fold; another circulating name is iPhone Duo. There is no firm evidence Apple will adopt the name. Apple previously used Duo for its 1990s PowerBook Duo line; in this usage Duo would denote a dual‑screen device."
+    },
+    {
+      "id": "5078456",
+      "time": "2026-09-05 08:49:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上海航交所：本週三大船型運價不同程度上漲 遠東租金指數持續走高】據上海航交所，本週，國際幹散貨運輸市場三大船型市場運價均有不同程度上漲，遠東干散貨租金指數持續走高。分船型來看，海岬型船市場先揚後抑，臨近週末又再度反彈。巴拿馬型船市場，澳大利亞煤炭貨盤較好，印尼煤炭貨盤逐步釋放，受海岬型船市場火熱行情帶動，日租金繼續上行。超靈便型船市場，煤炭、鎳礦運輸需求疲軟，但北方出口鋼材成交顯著增加，支撐日租金小幅上漲。9月3日，上海航運交易所釋出的遠東干散貨租金指數為2592.35點，較上期（8月27日，下同）上漲13.7%。"
+    },
+    {
+      "id": "5078455",
+      "time": "2026-09-05 08:49:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海航交所：本週市場觀望情緒較濃 綜合指數小幅下跌】據上海航交所，本週，北方港口煤價連續上漲，市場觀望情緒較濃，貨盤釋放減少，臨近週末，煤炭採購熱度有所恢復，運輸市場小船型需求偏好，帶動進江航線運價回升，綜合指數小幅下跌。9月4日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1149.93點，較上期下跌1.6%。"
+    },
+    {
+      "id": "5078454",
+      "time": "2026-09-05 08:49:07",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【上海航交所：本週運輸市場總體穩定 不同航線走勢分化】據上海航交所，本週，中國出口集裝箱運輸市場總體穩定，不同航線因各自的供需基本面差異，出現分化走勢，綜合指數小幅上漲。據國家統計局最新發布的資料顯示，中國8月製造業PMI回升至49.8，製造業景氣度出現明顯改善，其中製造業生產指數和新訂單指數雙雙重返擴張區間，高技術製造業保持擴張態勢。9月4日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3590.05點，較上期上漲2.3%。"
+    },
+    {
+      "id": "5078453",
+      "time": "2026-09-05 08:48:31",
+      "tags": [
+        "觀點",
+        "央行"
+      ],
+      "text": "【美聯儲年底前加息機率超83%】有分析指出，就業資料向好本是經濟利好，但勞動力市場持續火熱，加劇市場對通脹反覆的擔憂，令美聯儲加息預期進一步升溫。芝商所美聯儲觀察工具的最新資料顯示，美聯儲9月加息的機率升至近60%，今年底前加息的機率超過83%。（央視財經）"
+    },
     {
       "id": "5078452",
       "time": "2026-09-05 08:47:29",
@@ -129165,26 +129229,6 @@
         "公司"
       ],
       "text": "市場訊息：Sutjahyo辭去GOTO公司副董事職務。"
-    },
-    {
-      "id": "mkt:01a04b00-a2e5-7aab-917b-97eb739ce500",
-      "time": "2026-08-29 08:52:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pentagon denies report Hegseth discussed 2028 presidential run】NBC on the 28th, citing two people familiar with the matter, reported Defense Secretary Hegseth recently discussed privately the possibility of a 2028 presidential bid. The Pentagon denied the report; a spokesperson said Hegseth will not run for president, his priority is leading the Defense Department, and other speculation is \"ridiculous.\""
-    },
-    {
-      "id": "mkt:01a04afd-97ee-7aab-917b-8db93f3ff1d6",
-      "time": "2026-08-29 08:48:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. says it continues maritime blockade of Iran, 82 merchant ships diverted】On Aug. 28 local time, U.S. Central Command said U.S. forces are continuing a maritime blockade of Iran. As of Aug. 28 CENTCOM said its forces had guided 82 merchant vessels to alter course, rendered three merchant ships unable to navigate, and boarded and inspected two vessels."
     }
   ]
 }
