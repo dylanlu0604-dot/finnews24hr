@@ -1,7 +1,31 @@
 {
   "date": "2026-09-07",
-  "count": 45,
+  "count": 48,
   "items": [
+    {
+      "id": "5079550",
+      "time": "2026-09-07 00:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：特朗普政府的工作重點是增加原油與成品油供應，而非限制美國石油出口。"
+    },
+    {
+      "id": "mkt:01a0778e-5ef2-7118-84ba-8a0412fbcb33",
+      "time": "2026-09-07 00:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The co‑leader of Germany's Choice party said the party secured a historic victory in the Saxony‑Anhalt election today and has a clear mandate to govern. The co‑leader said the party will open talks with all parties and offer cooperation to any willing partner, but will not abandon its values to gain power."
+    },
+    {
+      "id": "5079549",
+      "time": "2026-09-07 00:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "出口民調顯示，極右翼德國選擇黨在德國州選舉中支援率飆升。"
+    },
     {
       "id": "mkt:01a0778b-9b09-7118-84ba-872d3792268f",
       "time": "2026-09-07 00:27:12",

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-07 00:28:20",
-  "count": 14172,
+  "updated": "2026-09-07 00:32:21",
+  "count": 14173,
   "items": [
+    {
+      "id": "5079550",
+      "time": "2026-09-07 00:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：特朗普政府的工作重點是增加原油與成品油供應，而非限制美國石油出口。"
+    },
+    {
+      "id": "mkt:01a0778e-5ef2-7118-84ba-8a0412fbcb33",
+      "time": "2026-09-07 00:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The co‑leader of Germany's Choice party said the party secured a historic victory in the Saxony‑Anhalt election today and has a clear mandate to govern. The co‑leader said the party will open talks with all parties and offer cooperation to any willing partner, but will not abandon its values to gain power."
+    },
+    {
+      "id": "5079549",
+      "time": "2026-09-07 00:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "出口民調顯示，極右翼德國選擇黨在德國州選舉中支援率飆升。"
+    },
     {
       "id": "mkt:01a0778b-9b09-7118-84ba-872d3792268f",
       "time": "2026-09-07 00:27:12",
@@ -129833,25 +129857,6 @@
         "MKT News"
       ],
       "text": "Iranian Red Crescent said more than 7,250 people have been rescued from rubble caused by US and Israeli strikes since the outbreak of war on Feb. 28."
-    },
-    {
-      "id": "5067243",
-      "time": "2026-08-31 00:29:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩南部納巴蒂耶區亞赫馬爾沙基夫鎮郊外發生以色列引發的劇烈爆炸。"
-    },
-    {
-      "id": "mkt:01a05380-c687-7118-8401-6bd210467e74",
-      "time": "2026-08-31 00:29:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Israeli forces advance in southern Lebanon】Al Jazeera, citing Lebanon’s National News Agency (NNA), reported Israeli infantry advanced along the west bank of the Litani River while conducting demolitions along the Zawtar al‑Gharbiyeh riverbank. Israeli forces continued shelling residential areas south of the Litani and launched a new incursion into the residential area of Majdal Zoun. Shelling struck Mansouri village in the Tyre district and wooded areas near Ayta al‑Jabal and Beit Yahoun in the Bint Jbeil district. Fires from the bombardment spread into Haddatha’s residential area and burned nearby olive groves."
     }
   ]
 }
