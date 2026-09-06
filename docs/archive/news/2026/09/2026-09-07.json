@@ -1,7 +1,35 @@
 {
   "date": "2026-09-07",
-  "count": 198,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a0789f-9ed9-7118-84bc-d3f187e91688",
+      "time": "2026-09-07 05:28:41",
+      "tags": [
+        "MKT News",
+        "AMZN.O"
+      ],
+      "text": "Miami-Dade County sheriff said at least five people have been confirmed dead after an Amazon cargo plane ran off the runway and struck vehicles on a nearby road."
+    },
+    {
+      "id": "5079688",
+      "time": "2026-09-07 05:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：因故障飛機滯留，拉瓜迪亞機場抵達航班預計出現延誤。"
+    },
+    {
+      "id": "mkt:01a0789e-7014-7118-84bc-cf76bcf4c194",
+      "time": "2026-09-07 05:27:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israel will cut gasoline prices by 0.5 shekel per liter tonight, noting domestic petrol prices are falling while global prices rise. Iran earlier raised retail fuel prices for high-consumption users."
+    },
     {
       "id": "5079687",
       "time": "2026-09-07 05:24:51",

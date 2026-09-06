@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-07 05:25:25",
-  "count": 14201,
+  "updated": "2026-09-07 05:29:14",
+  "count": 14203,
   "items": [
+    {
+      "id": "mkt:01a0789f-9ed9-7118-84bc-d3f187e91688",
+      "time": "2026-09-07 05:28:41",
+      "tags": [
+        "MKT News",
+        "AMZN.O"
+      ],
+      "text": "Miami-Dade County sheriff said at least five people have been confirmed dead after an Amazon cargo plane ran off the runway and struck vehicles on a nearby road."
+    },
+    {
+      "id": "5079688",
+      "time": "2026-09-07 05:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：因故障飛機滯留，拉瓜迪亞機場抵達航班預計出現延誤。"
+    },
+    {
+      "id": "mkt:01a0789e-7014-7118-84bc-cf76bcf4c194",
+      "time": "2026-09-07 05:27:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israel will cut gasoline prices by 0.5 shekel per liter tonight, noting domestic petrol prices are falling while global prices rise. Iran earlier raised retail fuel prices for high-consumption users."
+    },
     {
       "id": "5079687",
       "time": "2026-09-07 05:24:51",
@@ -130058,18 +130086,6 @@
         "國際"
       ],
       "text": "【第24屆華盛頓中國文化節舉行】當日，第24屆華盛頓中國文化節在美國華盛頓舉行，活動現場人潮湧動，豐富的中國文化展示與精彩文藝表演交相輝映。（新華社）"
-    },
-    {
-      "id": "mkt:01a05491-42b4-7118-8402-bb7eb964c8bd",
-      "time": "2026-08-31 05:26:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US CENTCOM says 83 merchant vessels rerouted amid blockade of Iran】On Aug. 30 U.S. Central Command (CENTCOM) said a U.S. Navy destroyer, the Delbert D. Black, was operating in the Arabian Sea as the U.S. continues its blockade of Iran. CENTCOM said it had directed 83 merchant vessels to alter course, disabled three vessels and boarded and inspected two to ensure compliance with blockade measures."
     }
   ]
 }
