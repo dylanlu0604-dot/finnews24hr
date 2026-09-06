@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 09:22:56",
+  "updated": "2026-09-06 09:26:48",
   "count": 14273,
   "items": [
+    {
+      "id": "5079049",
+      "time": "2026-09-06 09:24:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西安口岸暑期出入境人員37.6萬人次】從陝西出入境邊防檢查總站（以下簡稱“陝西邊檢總站”）瞭解到，2026年暑期，西安口岸累計查驗出入境人員37.6萬人次，航班2400餘架次。其中，出入境外籍旅客8.3萬人次，同比增長13%；免簽入境外籍旅客2.9萬人次，同比增長18%。"
+    },
     {
       "id": "mkt:01a0744a-f4da-7118-84b5-adbb2e914247",
       "time": "2026-09-06 09:17:44",
@@ -130602,16 +130610,6 @@
         "其他"
       ],
       "text": "【厄瓜多宣佈全國進入紅色警戒狀態應對厄爾尼諾】當地時間8月29日，厄瓜多政府宣佈全國進入紅色警戒狀態，以應對厄爾尼諾現象可能帶來的影響。厄瓜多國家風險管理秘書處當天釋出決議，要求加強災害防範和應急響應，並協調各級政府提升風險應對能力。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a05046-372e-7118-83fc-5b05ef6a68cb",
-      "time": "2026-08-30 09:26:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI to cut model access to SpaceX's Cursor; Musk dismisses move】OpenAI said on the 28th it has notified SpaceX that it plans to terminate model access to SpaceX’s Cursor code editor, with a proposed end date of Nov. 12, 2026. OpenAI said the decision was based on “past experience,” citing prior breaches by companies linked to Elon Musk and concern SpaceX might not use the technology within service terms. Musk replied on X that he “couldn’t care less,” and called Altman and Brockman “completely untrustworthy” and accused them of having “stolen an open-source non-profit.”"
     }
   ]
 }
