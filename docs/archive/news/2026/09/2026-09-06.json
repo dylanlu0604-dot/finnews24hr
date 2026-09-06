@@ -1,7 +1,37 @@
 {
   "date": "2026-09-06",
-  "count": 266,
+  "count": 269,
   "items": [
+    {
+      "id": "5079052",
+      "time": "2026-09-06 09:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：特朗普加大金融制裁伊朗之際 仍有數十億美元經由美國的銀行流轉】隨著特朗普政府加緊對伊朗實施經濟打壓，在切斷伊朗政權與全球金融體系聯絡的行動中，美國自身的銀行體系卻暴露出一處出人意料的薄弱環節。 西方官員與研究人員表示，儘管美國法律管轄範圍內的主體幾乎被禁止參與所有與德黑蘭相關的金融活動，但每年仍有數十億美元伊朗資金經由美國銀行的清算賬戶流轉。 伊朗藉助與美國銀行保持業務往來的境外合作方得以使用上述賬戶。 特朗普政府近期向那些透過美國代理行賬戶處理伊朗美元交易的境外銀行發出警示，同時督促美國本土銀行加強對涉伊交易的核查力度。 但識別這類交易存在不小難度，伊朗會利用影子銀行及其他手段對交易進行偽裝。"
+    },
+    {
+      "id": "mkt:01a0745e-8956-7118-84b5-bb4dd1465e82",
+      "time": "2026-09-06 09:39:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【White House official: US, Russia discussed substantive plan for next steps in Ukraine talks】A White House official said on Saturday US and Russian officials discussed a \"substantive\" plan for next steps in negotiations to end Russia's military action in Ukraine, and that the plan will be announced in coming weeks. The official said Witkoff and Kushner met Putin to advance President Trump's peace agenda, with NSC, State and Treasury officials also participating, and that similarly productive talks are expected in Ukraine tomorrow."
+    },
+    {
+      "id": "5079051",
+      "time": "2026-09-06 09:35:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "白宮一名官員表示：特朗普特使維特科夫與庫什納會見普京總統，旨在推進特朗普總統實現俄烏衝突和平的施政目標。國家安全委員會、國務院以及財政部官員隨同二人與會，共同探討結束這場衝突的和平方案。雙方就後續步驟的實質性計劃展開磋商，相關計劃將在未來數週公佈，並期待明日在烏克蘭舉行同樣富有成效的會談。"
+    },
     {
       "id": "mkt:01a07455-b7c6-7118-84b5-b4c6237f24f1",
       "time": "2026-09-06 09:29:29",
