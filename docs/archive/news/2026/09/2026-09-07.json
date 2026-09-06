@@ -1,7 +1,23 @@
 {
   "date": "2026-09-07",
-  "count": 79,
+  "count": 81,
   "items": [
+    {
+      "id": "mkt:01a077c1-849b-7118-84bb-0b6b98ab9989",
+      "time": "2026-09-07 01:26:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said Trump has a record of accomplishing the impossible. He said the previous administration did not visit Russia; only the CIA director visited once."
+    },
+    {
+      "id": "5079588",
+      "time": "2026-09-07 01:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使庫什納談及俄羅斯：特朗普素有完成不可能之事的履歷。上一屆政府並未出訪俄羅斯，僅由中情局局長進行過一次訪問。"
+    },
     {
       "id": "5079585",
       "time": "2026-09-07 01:20:47",
