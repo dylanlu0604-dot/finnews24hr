@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-07 01:12:08",
-  "count": 14188,
+  "updated": "2026-09-07 01:16:00",
+  "count": 14187,
   "items": [
+    {
+      "id": "mkt:01a077b7-9a99-7118-84ba-fc24c8b6dcba",
+      "time": "2026-09-07 01:15:16",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【AfD posts large lead in Saxony‑Anhalt state election】Sept 6 — Exit poll in Saxony‑Anhalt state election shows Alternative for Germany (AfD) 44.5%, versus 20.8% in 2021; the CDU led by Merz falls to 18.5% from 37.1% in 2021. Initial seat projection for the 83‑seat state parliament gives AfD 39 seats, three short of an absolute majority. Other mainstream parties have ruled out joining an AfD‑led coalition, leaving AfD’s entry into the state government uncertain even if it becomes the largest party. AfD said it will seek cooperation with forces willing to implement its policies, stressing migration and domestic security as non‑negotiable priorities; leader Weidel said the party has a clear governing mandate and will engage with parties that share its policy positions."
+    },
     {
       "id": "5079578",
       "time": "2026-09-07 01:11:13",
@@ -129975,22 +129988,6 @@
         "國際"
       ],
       "text": "【特朗普敦促聯邦通訊委員會調查媒體民調、處罰全國廣播公司主持人】美國總統特朗普對媒體發起抨擊，要求美國聯邦通訊委員會調查新聞機構使用的民調，並處罰一名電視新聞主持人。特朗普對新聞媒體使用的“虛假民調”表達不滿，並將矛頭指向全國廣播公司《會見媒體》節目主持人克里斯滕·韋爾克，緣由是後者報道了特朗普背書共和黨候選人的相關情況。儘管美國憲法第一修正案保護新聞與言論自由，且聯邦通訊委員會對民調及新聞機構的管轄許可權有限，特朗普仍敦促聯邦通訊委員會主席認真對待他的投訴。"
-    },
-    {
-      "id": "mkt:01a053a9-b786-7118-8401-9583582af0f0",
-      "time": "2026-08-31 01:13:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two US shootings in Chicago and Trenton leave 3 dead, 18 injured】On Aug. 30 local time, shootings in Chicago and Trenton, New Jersey, killed three people and wounded 18. Chicago police said a park shooting at about 23:37 on Aug. 29 killed a 35-year-old man and injured nine; they said there may have been multiple shooters and no arrests have been made. Hours later a shooting in a residential area of Trenton killed two and injured nine. Authorities have released no suspect information and motives remain under investigation."
-    },
-    {
-      "id": "5067251",
-      "time": "2026-08-31 01:12:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國兩地接連發生槍擊事件 共致3死18傷】當地時間8月30日，美國芝加哥和新澤西州特倫頓接連發生兩起大規模槍擊事件，共造成3人死亡、18人受傷。"
     }
   ]
 }

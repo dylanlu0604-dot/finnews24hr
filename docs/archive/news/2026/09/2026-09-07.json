@@ -1,7 +1,20 @@
 {
   "date": "2026-09-07",
-  "count": 74,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:01a077b7-9a99-7118-84ba-fc24c8b6dcba",
+      "time": "2026-09-07 01:15:16",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【AfD posts large lead in Saxony‑Anhalt state election】Sept 6 — Exit poll in Saxony‑Anhalt state election shows Alternative for Germany (AfD) 44.5%, versus 20.8% in 2021; the CDU led by Merz falls to 18.5% from 37.1% in 2021. Initial seat projection for the 83‑seat state parliament gives AfD 39 seats, three short of an absolute majority. Other mainstream parties have ruled out joining an AfD‑led coalition, leaving AfD’s entry into the state government uncertain even if it becomes the largest party. AfD said it will seek cooperation with forces willing to implement its policies, stressing migration and domestic security as non‑negotiable priorities; leader Weidel said the party has a clear governing mandate and will engage with parties that share its policy positions."
+    },
     {
       "id": "5079578",
       "time": "2026-09-07 01:11:13",
