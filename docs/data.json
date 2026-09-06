@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-06 18:38:34",
-  "count": 14195,
+  "updated": "2026-09-06 18:42:23",
+  "count": 14197,
   "items": [
+    {
+      "id": "5079292",
+      "time": "2026-09-06 18:41:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股週一休市一日，金銀油交易提前結束】受美國勞動節假期影響，美國和加拿大股市將於9月7日（週一）休市一日。芝商所（CME）旗下貴金屬、美國原油期貨合約交易提前於北京時間8日02:30結束，股指期貨合約交易提前於北京時間8日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間8日01:30結束。敬請各位投資者留意。"
+    },
+    {
+      "id": "mkt:01a0764f-262c-7118-84b8-a267968cacf6",
+      "time": "2026-09-06 18:41:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "Market Regions",
+        "Wall Street (US)",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【US, Canada equities closed Sept. 7 for Labor Day; metals and oil trade end early】U.S. and Canadian equity markets will be closed on Sept. 7 (Monday) for Labor Day. CME precious metals and U.S. crude futures will close early at Beijing time Sept. 8 02:30; CME equity index futures will close early at Beijing time Sept. 8 01:00. ICE Brent crude futures will close early at Beijing time Sept. 8 01:30."
+    },
+    {
+      "id": "mkt:01a0764d-f7d3-7118-84b8-9e8b6cdf0ba3",
+      "time": "2026-09-06 18:40:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "TASS: LAVROV said Western accusations that Moscow was behind the drone strike in Leipzig, Germany effectively mark the start of an actual war."
+    },
+    {
+      "id": "5079291",
+      "time": "2026-09-06 18:38:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆泥石流災害發生以來 累計組織分流外籍人員3388人】記者6日從西藏自治區吉隆縣“8·26”泥石流災害應急救援指揮部瞭解到，吉隆泥石流災害發生以來，地方緊急開闢外籍人員出入境、物資轉運綠色通道，累計組織分流原計劃從吉隆口岸出境的外籍人員3388人，組織有回國意願的尼泊爾籍邊民365人出境，組織轉運尼泊爾籍車輛279輛、貨物103車安全出境。（新華社）"
+    },
     {
       "id": "5079290",
       "time": "2026-09-06 18:37:10",
@@ -130013,22 +130063,6 @@
         "MKT News"
       ],
       "text": "Saudi outlet Alhadath cites Iraq judiciary saying a deputy oil minister was sentenced to seven years in prison on corruption charges."
-    },
-    {
-      "id": "mkt:01a05242-cdb6-7118-83ff-1bde9cae1fce",
-      "time": "2026-08-30 18:41:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's navy commander said the enemy has gravely misjudged the determination of the Iranian people and armed forces."
-    },
-    {
-      "id": "mkt:01a05241-7a23-7118-83ff-14d97c99b8ef",
-      "time": "2026-08-30 18:40:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC measured a magnitude-3.0 earthquake at 18:32 on Aug 30 (Beijing time) in Weining County, Bijie, Guizhou, China (26.75°N, 104.20°E); depth 10 km."
     }
   ]
 }
