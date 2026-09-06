@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-06 21:25:03",
+  "updated": "2026-09-06 21:29:03",
   "count": 14186,
   "items": [
+    {
+      "id": "mkt:01a076e7-a082-7118-84b9-935eb59408cb",
+      "time": "2026-09-06 21:28:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Analyst: Iran targeting US carrier and destroyer a \"calculated significant escalation\"】Defense analyst Wolfgang Pustai said Iran's recent attack on US warships was a \"calculated escalation,\" noting Tehran targeted a guided‑missile destroyer and, notably, an aircraft carrier — the core pillar of US military operations against Iran. US forces successfully evaded the strike. Pustai called the attack a \"lucky opportunity\" for Iran and said that, had it succeeded, Washington would have faced questions over how, and whether, to continue the war. He described the episode as a \"very, very major\" development and said US retaliation would not be surprising."
+    },
+    {
+      "id": "5079401",
+      "time": "2026-09-06 21:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩議會議長：以色列事實證明並未遵守任何停火方案，且正在背棄各項協議與諒解共識。"
+    },
     {
       "id": "mkt:01a076e1-2e28-7118-84b9-89c0827d0192",
       "time": "2026-09-06 21:21:03",
@@ -129994,36 +130014,6 @@
         "其他"
       ],
       "text": "【特斯拉在中國香港、中國澳門推出更平價版Model 3】特斯拉已正式在中國香港、中國澳門市場推出配置簡化、售價更低的Model 3轎車版本。根據特斯拉官網資訊，這款新車型在中國香港的起售價為‌20.5萬港元（約合26150美元）‌，比此前在售的基礎版車型售價降低8.5%；在中國澳門的起售價為‌25.2萬澳門元（約合31200美元）‌。該版本對部分內外飾配置進行了刪減或降級，調整範圍涵蓋氛圍燈、內飾紡織面料、輪轂等部件，同時官方標稱的單次充電最大續航里程提升至572公里。"
-    },
-    {
-      "id": "5067118",
-      "time": "2026-08-30 21:28:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南磨憨緊急組織轉移8115人】記者8月30日從昆明市防汛抗旱指揮部辦公室和磨憨—磨丁經濟合作區應急指揮中心獲悉，受29日強降雨影響，磨憨鎮已緊急組織轉移8115人。相關部門緊急調撥各類救援物資運至集中安置點，各類生活物資保障到位，可滿足集中安置點群眾需求。（新華社）"
-    },
-    {
-      "id": "mkt:01a052d9-7611-7118-8400-055c082ed317",
-      "time": "2026-08-30 21:26:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK",
-        "Japan & APAC",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "WTI"
-      ],
-      "text": "【Next week preview: US August nonfarm payrolls, China August PMIs, G20 finance ministers & central bank governors meeting】Monday — China August official manufacturing PMI; Germany preliminary August CPI (MoM); Dallas Fed business activity index (Aug). G20 finance ministers and central bank governors meeting runs through Sept. 1. Tuesday — China August RatingDog manufacturing PMI; final Aug manufacturing PMIs for France, Germany, UK and euro area; euro area preliminary Aug CPI and July unemployment; UK Nationwide house prices (Aug MoM) and July mortgage approvals; Switzerland retail sales (Jul YoY). US final/flash PMIs, ISM manufacturing (Aug), JOLTs vacancies (Jul) and July construction spending. SCO heads-of-state council meeting. Corporate: NIO, Dell (post‑close). Wednesday — US weekly API and EIA crude inventories (week to Aug. 28); Australia Q2 GDP (YoY); US ADP payrolls (Aug) and July factory orders. RBNZ rate decision and policy statement. BOC rate decision; Governor Macklem and SDG Rogers hold policy press conference. Corporate: Broadcom (post‑close). Thursday — China August RatingDog services PMI; Swiss Aug CPI (MoM); final Aug services PMIs for France, Germany, UK and euro area; euro area July PPI (MoM). US Challenger layoffs (Aug), initial jobless claims (week to Aug. 29), July trade balance, final S&P Global services PMI (Aug) and ISM non‑manufacturing (Aug). EIA weekly natural gas storage (week to Aug. 28). Fed Beige Book release; Fed Governor WALLER interview. Friday — euro area July retail sales (MoM); Canada August employment. US August unemployment rate, seasonally adjusted nonfarm payrolls and average hourly earnings (YoY and MoM). August global supply‑chain pressure index. FOMC voter and Cleveland Fed president to open the “Fed Community” event. BOE Governor BAILEY speaks. Saturday — US Baker Hughes rig count (week to Sept. 4). ARAMCO publishes official crude selling prices around the 5th of the month."
     }
   ]
 }

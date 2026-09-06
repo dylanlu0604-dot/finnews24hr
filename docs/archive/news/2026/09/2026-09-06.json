@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 700,
+  "count": 702,
   "items": [
+    {
+      "id": "mkt:01a076e7-a082-7118-84b9-935eb59408cb",
+      "time": "2026-09-06 21:28:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Analyst: Iran targeting US carrier and destroyer a \"calculated significant escalation\"】Defense analyst Wolfgang Pustai said Iran's recent attack on US warships was a \"calculated escalation,\" noting Tehran targeted a guided‑missile destroyer and, notably, an aircraft carrier — the core pillar of US military operations against Iran. US forces successfully evaded the strike. Pustai called the attack a \"lucky opportunity\" for Iran and said that, had it succeeded, Washington would have faced questions over how, and whether, to continue the war. He described the episode as a \"very, very major\" development and said US retaliation would not be surprising."
+    },
+    {
+      "id": "5079401",
+      "time": "2026-09-06 21:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩議會議長：以色列事實證明並未遵守任何停火方案，且正在背棄各項協議與諒解共識。"
+    },
     {
       "id": "mkt:01a076e1-2e28-7118-84b9-89c0827d0192",
       "time": "2026-09-06 21:21:03",
