@@ -1,7 +1,27 @@
 {
   "date": "2026-09-07",
-  "count": 201,
+  "count": 203,
   "items": [
+    {
+      "id": "mkt:01a078a3-2e53-7118-84bc-dd9e084e1dec",
+      "time": "2026-09-07 05:32:35",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix accelerates 1c DRAM transition, leads South Korea HBM4E competition】Korean media and industry sources say SK Hynix is rapidly increasing production share of sixth‑generation 10nm‑class (1c) DRAM as 1c is slated to be the core chip for next‑generation HBM4E. With server and AI demand boosting high‑value memory, SK Hynix is accelerating process upgrades amid intensifying competition with Samsung Electronics and Micron. 1c market share rose from about 10% in Q1 to roughly 13% in Q2; industry estimates put it at ~24% in Q3, ~34% in Q4 and ~35% in Q1 next year, when 1c would surpass 1b (around 33%) to become the mainstream node."
+    },
+    {
+      "id": "5079689",
+      "time": "2026-09-07 05:29:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國有關部門證實，佛羅里達州邁阿密國際機場發生貨機衝出跑道事故，造成5人死亡，多人入院治療。"
+    },
     {
       "id": "mkt:01a0789f-9ed9-7118-84bc-d3f187e91688",
       "time": "2026-09-07 05:28:41",
