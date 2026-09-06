@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-06 18:31:02",
-  "count": 14193,
+  "updated": "2026-09-06 18:34:47",
+  "count": 14194,
   "items": [
+    {
+      "id": "5079287",
+      "time": "2026-09-06 18:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美總統特使抵達基輔】據烏克蘭媒體今天（9月6日）報道，美國總統特使威特科夫和庫什納已乘火車抵達烏克蘭首都基輔。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a07645-127b-7118-84b8-90cf9edd4c73",
+      "time": "2026-09-06 18:30:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's military said it struck the Ryazan refinery in Russia overnight."
+    },
     {
       "id": "5079286",
       "time": "2026-09-06 18:28:44",
@@ -130006,14 +130025,6 @@
         "WTI"
       ],
       "text": "Kremlin spokesman Peskov said Russian forces are conducting systematic strikes on Ukraine's military infrastructure. He said Ukraine's defeat is drawing nearer by the day and Kyiv is aware. Russian forces are advancing along the entire front, and the dynamics of the special military operation are highly favorable to Russia."
-    },
-    {
-      "id": "mkt:01a0523b-e8f3-7118-83ff-02450ac4d8c7",
-      "time": "2026-08-30 18:34:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic determination: at 18:32 on Aug 30 a magnitude-3.0 earthquake occurred near Weining county, Bijie, Guizhou (26.74 N, 104.19 E). Final magnitude pending formal rapid report."
     }
   ]
 }
