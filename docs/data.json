@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-07 00:40:23",
-  "count": 14174,
+  "updated": "2026-09-07 00:44:18",
+  "count": 14178,
   "items": [
+    {
+      "id": "mkt:01a0779a-c217-7118-84ba-be3d24390a8a",
+      "time": "2026-09-07 00:43:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. presidential envoy Witkoff said Russia and Ukraine should make concessions to end the war."
+    },
+    {
+      "id": "mkt:01a07799-7af7-7118-84ba-b3d688bba93d",
+      "time": "2026-09-07 00:42:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said President Trump hopes to establish a framework for comprehensive, lasting peace, not merely to end the current war in Ukraine."
+    },
+    {
+      "id": "mkt:01a07799-0943-7118-84ba-a96480a7d8b5",
+      "time": "2026-09-07 00:41:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said the land issue is the main obstacle and can only be resolved at the leadership level."
+    },
+    {
+      "id": "5079554",
+      "time": "2026-09-07 00:41:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "德國選擇黨聯合主席魏德爾：我們擁有明確的執政授權。"
+    },
+    {
+      "id": "mkt:01a07798-14d0-7118-84ba-a3ee3d830dd8",
+      "time": "2026-09-07 00:40:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. energy secretary says boosting supply, not export curbs, is path to lower fuel prices】U.S. Energy Secretary Wright said the Trump administration's priority is to increase crude and fuel supply rather than restrict U.S. oil exports. He said officials are considering measures to help consumers but currently favor maximizing output. Retail diesel hit a record high, with AAA reporting an average $5.90/gal on Saturday, and Wright called diesel supply \"challenging\", citing oil-shipping disruptions and reduced refining capacity from the war between Iran and Russia, plus drone strikes on Russian refineries and Moscow's diesel export ban."
+    },
     {
       "id": "mkt:01a07795-3493-7118-84ba-987c64c69e3a",
       "time": "2026-09-07 00:37:42",
@@ -129860,14 +129911,6 @@
         "MKT News"
       ],
       "text": "【Kremlin: Putin-Trump-Zelenskiy summit only to confirm pre-agreed outcomes】Kremlin spokesman Peskov said a summit between Russian President Putin, US President Trump and Ukrainian President Zelenskiy would be limited to confirming pre-agreed negotiation outcomes and is only possible for that purpose."
-    },
-    {
-      "id": "5067245",
-      "time": "2026-08-31 00:41:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列能源部長談及伊朗：倘若伊朗犯下錯誤，試圖重啟核計劃或彈道導彈計劃，即便伊朗與美國達成協議，我們也會發動打擊。"
     }
   ]
 }
