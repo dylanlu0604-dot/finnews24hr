@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-07 02:36:18",
-  "count": 14183,
+  "updated": "2026-09-07 02:40:22",
+  "count": 14184,
   "items": [
+    {
+      "id": "mkt:01a07803-1964-7118-84bb-6933597ff9dd",
+      "time": "2026-09-07 02:37:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. energy secretary says Iran nuclear deal may not be reached in near term】ABC News: U.S. Energy Secretary Wright said on Sunday a nuclear deal with Iran may not be achievable in the near term and the U.S. may need to take military action to address threats from Tehran. Wright said, There may not be a nuclear deal, and it may come down to destroying their ability to carry out a nuclear program. He added a deal might have to wait until Iran’s next government takes office and that the timing is uncertain."
+    },
+    {
+      "id": "5079643",
+      "time": "2026-09-07 02:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列部隊在橄欖收穫季來臨前，毀壞了約旦河西岸被佔領土瓦迪達烏克附近的橄欖樹。"
+    },
     {
       "id": "mkt:01a077ff-25d3-7118-84bb-65da1a2a4ced",
       "time": "2026-09-07 02:33:25",
@@ -129934,14 +129954,6 @@
         "國際"
       ],
       "text": "【佩斯科夫：俄美烏三方會晤需待協議最終敲定方可舉行】當地時間8月30日，俄羅斯總統新聞秘書佩斯科夫表示，俄總統普京、美國總統特朗普與烏克蘭總統澤連斯基之間的會晤，只有到需要最終敲定已有協議時才有可能舉行。他強調，關於烏克蘭問題的協議並非“原始交易”，而是一個涉及諸多細節的複雜過程。佩斯科夫還稱，俄羅斯對談判持開放態度，但目前尚不具備先決條件。（央視新聞）"
-    },
-    {
-      "id": "5067304",
-      "time": "2026-08-31 02:39:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月31日02時29分在新疆阿克蘇地區沙雅縣（北緯40.01度，東經83.68度）發生3.1級地震，震源深度30千米。"
     }
   ]
 }

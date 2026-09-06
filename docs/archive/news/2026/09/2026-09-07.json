@@ -1,7 +1,27 @@
 {
   "date": "2026-09-07",
-  "count": 109,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:01a07803-1964-7118-84bb-6933597ff9dd",
+      "time": "2026-09-07 02:37:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. energy secretary says Iran nuclear deal may not be reached in near term】ABC News: U.S. Energy Secretary Wright said on Sunday a nuclear deal with Iran may not be achievable in the near term and the U.S. may need to take military action to address threats from Tehran. Wright said, There may not be a nuclear deal, and it may come down to destroying their ability to carry out a nuclear program. He added a deal might have to wait until Iran’s next government takes office and that the timing is uncertain."
+    },
+    {
+      "id": "5079643",
+      "time": "2026-09-07 02:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列部隊在橄欖收穫季來臨前，毀壞了約旦河西岸被佔領土瓦迪達烏克附近的橄欖樹。"
+    },
     {
       "id": "mkt:01a077ff-25d3-7118-84bb-65da1a2a4ced",
       "time": "2026-09-07 02:33:25",
