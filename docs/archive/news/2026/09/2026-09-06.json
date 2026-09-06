@@ -1,7 +1,302 @@
 {
   "date": "2026-09-06",
-  "count": 723,
+  "count": 757,
   "items": [
+    {
+      "id": "5079515",
+      "time": "2026-09-06 23:51:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府週日再次向美國聯邦最高法院提交緊急上訴，謀求立即落地美國郵政局針對11月選舉的郵寄選票新規。"
+    },
+    {
+      "id": "mkt:01a0776a-e347-7118-84ba-0bd3859b4a11",
+      "time": "2026-09-06 23:51:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "An Islamic Revolutionary Guard Corps spokesman said the United States will pay a heavier price for its economic war against Iran."
+    },
+    {
+      "id": "mkt:01a07769-412f-7118-84ba-01fe8639c912",
+      "time": "2026-09-06 23:49:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing an informed source, said Zelensky discussed Ukraine's preparations to sustain fighting through the winter during talks; Kushner and Witkowski stressed they hope to secure a breakthrough before winter."
+    },
+    {
+      "id": "5079514",
+      "time": "2026-09-06 23:46:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：美國針對伊朗發動的經濟戰爭，將會讓美國付出更為沉重的代價。"
+    },
+    {
+      "id": "5079513",
+      "time": "2026-09-06 23:45:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基對美國特使威特科夫與庫什納表示：今天你們為我國首都民眾帶來的成效，甚至勝過愛國者防空系統。感謝你們，歡迎多來。我國民眾將因此得以多一些生存的機會。"
+    },
+    {
+      "id": "mkt:01a07763-dd1f-7118-84b9-fc0b8818a770",
+      "time": "2026-09-06 23:43:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Wright says U.S. Navy will continue escorting ships through Strait of Hormuz】U.S. Energy Secretary Wright said on Sunday U.S. Navy escort vessels are assisting tankers through the Strait of Hormuz and that escort operations are unlikely to end soon, calling them critical to maintaining crude flows. He said daily crude shipments via the strait currently exceed 9 mln bpd and — with more crude and products routed via pipelines and other corridors — regional oil transport has recovered to about two-thirds or more of pre-conflict levels. Last week Wright said roughly 17 mln barrels transited the strait on Monday. He added Iran continues to cause trouble but the U.S. Navy is winning the fight, and said unleaded gasoline prices could fall as the summer driving peak ends and federal blending adjustments increase supply."
+    },
+    {
+      "id": "mkt:01a0775b-42a8-7118-84b9-f7e80292b4f5",
+      "time": "2026-09-06 23:34:24",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) confirmed 27 Starlink satellites have completed on-orbit deployment."
+    },
+    {
+      "id": "5079512",
+      "time": "2026-09-06 23:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：確認27顆星鏈衛星完成在軌部署。"
+    },
+    {
+      "id": "5079511",
+      "time": "2026-09-06 23:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：當下，我們國家是中東最強大的力量，有人甚至認為實力不止於此。我要告誡我們的敵人，不要招惹我們。"
+    },
+    {
+      "id": "mkt:01a07753-e4d8-7118-84b9-ee27462892df",
+      "time": "2026-09-06 23:26:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lebanese state news agency reported an Israeli drone strike in southern Lebanon wounded multiple people."
+    },
+    {
+      "id": "mkt:01a07753-5553-7118-84b9-e0a4804a7aa6",
+      "time": "2026-09-06 23:25:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Netanyahu warned Iran would face unimaginable strikes if it attacked Israel and said Israel is determined to overthrow the Iranian regime."
+    },
+    {
+      "id": "5079510",
+      "time": "2026-09-06 23:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩媒體：以色列無人機襲擊黎巴嫩南部，造成數人受傷。"
+    },
+    {
+      "id": "5079509",
+      "time": "2026-09-06 23:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡談及伊朗：伊朗現政權的末日將近。該政權實力衰弱，正苟延殘喘、搖搖欲墜，而我們仍有一項決心要完成的使命。這終將改變中東格局與歷史走向。"
+    },
+    {
+      "id": "5079508",
+      "time": "2026-09-06 23:18:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）主席卡爾：美國聯邦通訊委員會或將很快釋出指引，禁止播出虛假民調。"
+    },
+    {
+      "id": "5079507",
+      "time": "2026-09-06 23:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥中部煙花爆炸致9死24傷】據墨西哥媒體6日報道，墨西哥中部墨西哥州聖瑪麗亞·坎切斯達鎮5日晚發生煙花爆炸事故，造成9人死亡、24人受傷。（新華社）"
+    },
+    {
+      "id": "5079506",
+      "time": "2026-09-06 23:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【反對移民者“堵路” 英國最繁忙渡輪港運營中斷】數百名反對移民者5日堵住通往英國多佛港的道路，導致交通堵塞，多佛港一度中斷運營。警方介入後道路當天晚些時候疏通，多佛港逐漸恢復運營。 社交媒體上的影片顯示，一些黑衣人手挽手堵住道路，高喊“停船”。英國國家高速公路局5日說，當天通往多佛港的所有道路均被堵住，造成了4英里（約合6.4公里）長的交通堵塞。多佛港運營方5日上午說，“由於正在發生的公共秩序事件”，停止所有進出港的交通。警方表示他們正在“與抗議者接觸”。（新華社）"
+    },
+    {
+      "id": "5079505",
+      "time": "2026-09-06 23:09:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基結束與美方代表首輪會談】當地時間9月6日，烏克蘭總統澤連斯基在基輔會見美國總統特使威特科夫和特朗普女婿庫什納，目前雙方首輪會談已結束，時長超三小時。據瞭解，德國、法國、英國的代表將參加第二輪會談。"
+    },
+    {
+      "id": "5079504",
+      "time": "2026-09-06 23:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源部長：霍爾木茲海峽石油日運量超900萬桶，已恢復至衝突前三分之二水平】美國能源部長克里斯·賴特表示，霍爾木茲海峽的石油運輸量日均超過900萬桶，加上替代管道的運力，總輸油量恢復至衝突前水平的三分之二及以上。他補充道：“伊朗方面仍在製造麻煩，但美國海軍正在打贏這場較量。”"
+    },
+    {
+      "id": "5079503",
+      "time": "2026-09-06 23:03:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場資訊：優步已向Atoms公司投資1億美元；Atoms已與優步展開談判，探討向優步提供其自動駕駛計程車相關技術。"
+    },
+    {
+      "id": "5079501",
+      "time": "2026-09-06 22:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡蘭尼克在其新企業 Atoms 研發自動駕駛計程車技術。"
+    },
+    {
+      "id": "5079500",
+      "time": "2026-09-06 22:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：優步聯合創始人卡蘭尼克擬重返網約車市場。"
+    },
+    {
+      "id": "5079497",
+      "time": "2026-09-06 22:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省一火山噴發】據印尼火山地質減災中心訊息，當地時間9月6日21時37分，位於該國東努沙登加拉省的伊裡萊沃託洛科火山噴發，火山灰柱高約500米，持續時間為32秒。印尼火山地質減災中心機構提醒當地居民和遊客不要進入火山口周邊2公里範圍，以及南、東南方向3公里範圍內的危險區域，並警惕熔岩崩塌、滑坡和火山碎屑流等風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07735-0cf7-7118-84b9-dbfc9e38cc0f",
+      "time": "2026-09-06 22:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US to withdraw air-defence systems from Iraqi Kurdistan by end-September, may relocate to Jordan, UK, Cyprus】Tasnim News Agency reported Iraq’s prime minister’s security adviser Qasim al-Araji said the US will withdraw its air-defence systems and remaining forces from the Iraqi Kurdish region before end-September. He said the US is fully prepared to withdraw under the agreement within the deadline, and US plans reportedly include relocating the systems to Jordan, the UK and Cyprus."
+    },
+    {
+      "id": "5079491",
+      "time": "2026-09-06 22:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風瑪麗將繼續在下加利福尼亞州和南加州沿海地區造成危險的海灘狀況，預計還將持續數日。"
+    },
+    {
+      "id": "mkt:01a07734-2b4e-7118-84b9-d65b3915c30e",
+      "time": "2026-09-06 22:51:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC says Marie will continue over the next few days to produce one to two days of large surf and hazardous seas along the Baja California and Southern California coasts."
+    },
+    {
+      "id": "5079490",
+      "time": "2026-09-06 22:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓強降雨天氣已致43人死亡】菲律賓民防局9月6日通報說，自8月初以來的強降雨天氣已導致上千萬人受到影響，災害已造成43人死亡、20人受傷，另有5人失蹤。（新華社）"
+    },
+    {
+      "id": "5079489",
+      "time": "2026-09-06 22:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心： 空軍預備役颶風偵察飛機實測確認，洛厄爾仍為三級颶風。"
+    },
+    {
+      "id": "5079487",
+      "time": "2026-09-06 22:49:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心對考艾島和尼豪島釋出熱帶風暴警報。"
+    },
+    {
+      "id": "mkt:01a07731-6e4e-7118-84b9-cec4b88bc249",
+      "time": "2026-09-06 22:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC said Karina is expected to weaken to a post-tropical storm tonight."
+    },
+    {
+      "id": "mkt:01a07728-f954-7118-84b9-c72446d7a59b",
+      "time": "2026-09-06 22:39:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US Energy Secretary wright said diesel supplies have remained severely strained."
+    },
+    {
+      "id": "5079473",
+      "time": "2026-09-06 22:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "賴特：美國軍方的首要目標是切斷伊朗能源出口。"
+    },
+    {
+      "id": "5079472",
+      "time": "2026-09-06 22:36:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "賴特：美國始終對與伊朗達成協議持開放態度。"
+    },
+    {
+      "id": "5079471",
+      "time": "2026-09-06 22:35:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "賴特稱俄羅斯煉油廠受損帶來柴油供應難題。"
+    },
+    {
+      "id": "5079466",
+      "time": "2026-09-06 22:34:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國能源部長賴特：柴油供應形勢一直很嚴峻。"
+    },
     {
       "id": "mkt:01a07722-730e-7118-84b9-ba1515513303",
       "time": "2026-09-06 22:32:21",
