@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-06 09:54:10",
-  "count": 14272,
+  "updated": "2026-09-06 09:58:06",
+  "count": 14270,
   "items": [
+    {
+      "id": "5079061",
+      "time": "2026-09-06 09:57:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：伊拉克8月石油出口量較衝突前下降36% 伊朗跌幅居首】海上航運追蹤機構TankerTrackers週六釋出報告稱：伊拉克8月石油出口量較美伊衝突爆發前的水平下降36%。 本次對比以衝突爆發前的1‑2月出口資料作為基準。伊朗跌幅居首，石油出口量下降100%；卡達與沙烏地阿拉伯緊隨其後，兩國出口量均下滑48%。 科威特8月石油出口同樣下跌36%，與伊拉克持平，在TankerTrackers統計的國家中並列第三位。 阿聯酋跌幅最小，石油出口量較戰前水平僅下降0.02%。"
+    },
+    {
+      "id": "5079060",
+      "time": "2026-09-06 09:55:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達暗盤漲超1%，現報233.1499美元。"
+    },
+    {
+      "id": "5079059",
+      "time": "2026-09-06 09:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無界動力張玉峰：具身智慧5年後有望對標成年人勞動能力】2026年亞布力論壇夏季年會於9月4-6日在成都召開。會議期間，新浪科技與無界動力創始人兼CEO張玉峰展開對話。他表示，如果將具身智慧與智慧駕駛行業做類比，當前的具身智慧大約處於2019年前後的自動駕駛階段。他預判5年後，具身智慧有機會達到一個成年人“面向勞動、能思考會勞動”的水平，並且可依賴、可信賴。在家庭場景方面，張玉峰認為，機器人達到成年人的能力大約需要5年時間，但這並不意味著5年後才能進家庭。“掃地機器人早早就進了家庭，把單一事情做得很好，它只需要泛化背景。最近大家想讓掃地機長出一個手臂，能泛化物體、撿襪子、撿積木。”他判斷，對於人形和半人形機器人，未來兩三年左右時間可以嘗試進入家庭，但需要3到5個殺手級技能。“比如把髒衣服拿到洗衣機裡、把乾淨的衣服拿出來晾上，這可能已經是一個殺手級應用。再比如把殘食倒掉、把盤子放進洗碗機......3到5個高頻剛需的事情，大機率兩三年內是可以做到的。”張玉峰說。（新浪科技）"
+    },
     {
       "id": "mkt:01a0746b-bbea-7118-84b5-cae52f9e2184",
       "time": "2026-09-06 09:53:32",
@@ -130566,58 +130592,6 @@
         "國際"
       ],
       "text": "【美國將收購委內瑞拉商界大亨貝坦考特旗下石油專案35%的股份】知情人士訊息報道，美國政府計劃收購委內瑞拉商人亞歷杭德羅・貝坦考特旗下北美藍色能源夥伴公司（North American Blue Energy Partners）35% 的非控股股權。美國還計劃取得按成本價採購該公司 20% 產量的優先權利。報道表示，五角大樓戰略資本辦公室計劃透過低價認股權證完成這筆投資，美國無需大額實際出資，即可獲得這家企業的股權。"
-    },
-    {
-      "id": "mkt:01a05061-577e-7118-83fc-87ccf3509cef",
-      "time": "2026-08-30 09:55:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Wall Street Journal reports the US will take a 35% stake in Venezuelan tycoon Betancourt’s oil project."
-    },
-    {
-      "id": "5066694",
-      "time": "2026-08-30 09:55:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金螳螂文化與洲明科技達成戰略合作 深耕數字展陳領域】據洲明科技訊息，近日，蘇州金螳螂文化發展股份有限公司（簡稱“金螳螂文化”）與洲明科技舉行戰略合作簽約儀式。雙方將在展覽展示、博物館、規劃館等領域展開深層次合作，深耕數字展陳領域。"
-    },
-    {
-      "id": "mkt:01a05060-e318-7118-83fc-799704aeccd1",
-      "time": "2026-08-30 09:55:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Venezuela's interim president Rodriguez said a 25-year energy agreement with the US aims to raise output to 1.5 mln bpd. He said Venezuela will retain sovereignty over its resources."
-    },
-    {
-      "id": "mkt:01a05060-65d4-7118-83fc-750e7e5c86c5",
-      "time": "2026-08-30 09:54:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix CEO says memory chip shortage likely to persist through end-2030】SK Hynix CEO Guo Luzheng said the global memory chip shortage is likely to persist through the end of 2030 and that oversupply risk is low because AI-era demand has made memory chips less of a standardized commodity. He said he sees no signs of oversupply or a pending memory downcycle as demand from AI customers remains strong. If AI demand has peaked or a new downturn occurs, he warned challenges could emerge but expects any future downcycle to be gradual — a slow demand decline or stabilization rather than a sharp fall."
-    },
-    {
-      "id": "5066693",
-      "time": "2026-08-30 09:54:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉對本國資源保有主權。"
     }
   ]
 }
