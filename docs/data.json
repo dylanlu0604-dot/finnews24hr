@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-07 00:32:21",
+  "updated": "2026-09-07 00:36:22",
   "count": 14173,
   "items": [
+    {
+      "id": "mkt:01a07791-0f48-7118-84ba-950684b17e8f",
+      "time": "2026-09-07 00:33:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary wright said the Trump administration is focused on boosting crude oil and fuel supplies, not on restricting U.S. oil exports."
+    },
     {
       "id": "5079550",
       "time": "2026-09-07 00:31:37",
@@ -129849,14 +129860,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：08月31日00時25分在新疆阿克蘇地區沙雅縣（北緯39.99度，東經83.49度）發生3.2級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:01a05384-4748-7118-8401-73fcacb03915",
-      "time": "2026-08-31 00:32:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Red Crescent said more than 7,250 people have been rescued from rubble caused by US and Israeli strikes since the outbreak of war on Feb. 28."
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
   "date": "2026-09-07",
-  "count": 48,
+  "count": 49,
   "items": [
+    {
+      "id": "mkt:01a07791-0f48-7118-84ba-950684b17e8f",
+      "time": "2026-09-07 00:33:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary wright said the Trump administration is focused on boosting crude oil and fuel supplies, not on restricting U.S. oil exports."
+    },
     {
       "id": "5079550",
       "time": "2026-09-07 00:31:37",
