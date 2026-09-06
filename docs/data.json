@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-06 09:15:09",
-  "count": 14271,
+  "updated": "2026-09-06 09:19:00",
+  "count": 14275,
   "items": [
+    {
+      "id": "mkt:01a0744a-f4da-7118-84b5-adbb2e914247",
+      "time": "2026-09-06 09:17:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "White House official said U.S. and Russian officials discussed substantive next-step plans for negotiations on the Russia-Ukraine conflict, with related plans to be announced in the coming weeks."
+    },
+    {
+      "id": "5079048",
+      "time": "2026-09-06 09:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員：美俄官員已就俄烏和談下一步推進的實質性方案進行了討論，相關安排將於未來幾周公布。"
+    },
+    {
+      "id": "mkt:01a0744a-0e07-7118-84b5-a4e72e7f2ead",
+      "time": "2026-09-06 09:16:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Hunan backs owner‑led renovation of old housing with fiscal subsidies】Hunan province issued a joint notice from its housing, natural resources and finance departments permitting owner‑led renovation of eligible aged housing on state‑owned land in urban (including county) built‑up areas, effective immediately for five years. Funding principle is owner contributions primary, fiscal subsidies secondary and social capital complementary; eligible projects may apply for relevant policy funds, social capital participation is supported, and policy banks and commercial lenders are encouraged to provide compliant medium‑ to long‑term, low‑interest special loans. Owners in financial hardship with no other housing can be temporarily accommodated through allocation of affordable housing during construction."
+    },
+    {
+      "id": "5079047",
+      "time": "2026-09-06 09:16:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國銀行的企業美元存款本月創歷史新高】行業週日公佈的資料顯示，隨著韓元兌美元匯率跌至近兩年低點，韓國各大銀行的企業美元存款本月創下歷史新高。 截至週四，韓國五大本土銀行美元存款餘額達769.8億美元，為2021年5月該統計口徑設立以來的最高值。 五大銀行分別為國民銀行、新韓銀行、韓亞銀行、友利銀行以及農協銀行。"
+    },
+    {
+      "id": "5079046",
+      "time": "2026-09-06 09:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞金至延安直達高鐵今日首發】今天（9月6日），江西瑞金至陝西延安間將首次開行直達高鐵。線路全長約1850公里，跨越贛、鄂、陝等地，執行時間約11小時32分，沿途連線瑞金、南昌、武漢、西安、延安等重要節點，串聯起沿線豐富的自然與人文文旅資源，在打通革命老區交通聯絡的同時，將地域文化、紅色記憶與旅途體驗相融合，讓旅客在出行途中便能感受沿線城市的歷史底蘊與發展活力。（央視新聞）"
+    },
     {
       "id": "5079045",
       "time": "2026-09-06 09:14:02",
@@ -130578,15 +130629,6 @@
         "國際"
       ],
       "text": "【利用特朗普講稿內容下注，提詞器操縱員被罰17.2萬美元】據美聯社報道，當地時間8月28日，美國商品期貨交易委員會公佈的和解協議顯示，前白宮提詞器操作員佩雷斯利用內部資訊在預測交易平臺Kalshi下注，被勒令上繳逾10萬美元非法獲利，並繳納6.5萬美元罰金。 和解協議還規定，佩雷斯被處以三年交易禁令。委員會查明，2025年12月至2026年2月期間，佩雷斯在預測交易市場押注特朗普演講中將會出現的詞句，從中獲利107500美元。 委員會發布通報稱：“佩雷斯的崗位可以接觸到尚未公開發表的總統演講稿，他盜用該資訊，違背自身受託保密義務。” 佩雷斯被要求全額退回全部非法所得，另需繳納65000美元民事罰款。委員會表示，這筆罰金已經予以減免，原因是他“高度配合調查”。 訊息人士透露，除了2月份的國情諮文演講外，調查人員還發現，佩雷斯在三個月的時間裡，對特朗普的十幾次演講下賭注。這些演講包括去年12月的一次重要演講、1月在瑞士達沃斯世界經濟論壇上的演講，以及3月某次榮譽勳章頒發儀式上的演講。 訊息人士還稱，在一些情況下，當特朗普臨時跳過演講稿中的部分內容時，佩雷斯會在演講進行期間撤回此前所下的部分賭注。（觀察者網）"
-    },
-    {
-      "id": "5066677",
-      "time": "2026-08-30 09:18:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國央行行長稱韓元韌性較強，能夠抵禦各類衝擊】韓國媒體週日報道，韓國央行行長申賢松在美國向媒體表示，即便美元指數走高，韓元已展現出較強韌性。談及韓國央行近期的預防性加息舉措，申賢松稱，匯率 “處於一定可控範圍內”，“我們已做好充分準備，能夠應對各類衝擊”。在被問及韓國對美投資承諾是否會給本幣帶來壓力時，申賢松表示該協議規模處於可控水平。這位央行行長還表示，韓國央行可以獨立執行貨幣政策，“美國加息並不代表我們就必須緊隨其後”。申賢松以央行行長身份首次出席傑克遜霍爾全球央行年會。"
     }
   ]
 }
