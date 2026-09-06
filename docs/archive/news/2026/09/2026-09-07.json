@@ -1,7 +1,27 @@
 {
   "date": "2026-09-07",
-  "count": 164,
+  "count": 166,
   "items": [
+    {
+      "id": "mkt:01a0783d-e12b-7118-84bc-3bf19c8e216d",
+      "time": "2026-09-07 03:41:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's National Oil Products Refining and Distribution Company general manager said the country faces an average daily gasoline shortfall of 10 mln liters, although consumption is unchanged year-on-year. Domestic quota prices will remain at 1,500 tomans for the first tier and 3,000 tomans for the second; gradual price adjustments will apply only to imported gasoline. A plan also requires government officials to refrain from using cars one day per week."
+    },
+    {
+      "id": "mkt:01a0783b-b6cf-7118-84bc-35c8beaca3ba",
+      "time": "2026-09-07 03:39:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Head of Iran's state oil products refining and distribution company said measures boosted gasoline output by 5%."
+    },
     {
       "id": "mkt:01a0783b-8cc0-7118-84bc-29c6d5a36f0e",
       "time": "2026-09-07 03:39:23",

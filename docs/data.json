@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-07 03:39:50",
-  "count": 14210,
+  "updated": "2026-09-07 03:43:47",
+  "count": 14211,
   "items": [
+    {
+      "id": "mkt:01a0783d-e12b-7118-84bc-3bf19c8e216d",
+      "time": "2026-09-07 03:41:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's National Oil Products Refining and Distribution Company general manager said the country faces an average daily gasoline shortfall of 10 mln liters, although consumption is unchanged year-on-year. Domestic quota prices will remain at 1,500 tomans for the first tier and 3,000 tomans for the second; gradual price adjustments will apply only to imported gasoline. A plan also requires government officials to refrain from using cars one day per week."
+    },
+    {
+      "id": "mkt:01a0783b-b6cf-7118-84bc-35c8beaca3ba",
+      "time": "2026-09-07 03:39:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Head of Iran's state oil products refining and distribution company said measures boosted gasoline output by 5%."
+    },
     {
       "id": "mkt:01a0783b-8cc0-7118-84bc-29c6d5a36f0e",
       "time": "2026-09-07 03:39:23",
@@ -130156,18 +130176,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera reported Iran's Islamic Revolutionary Guard Corps said the enemy is using \"psychological warfare\"."
-    },
-    {
-      "id": "mkt:01a05432-2ecf-7118-8402-390071434a71",
-      "time": "2026-08-31 03:42:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS cited preliminary information saying hostile drones struck Larak Island in Hormozgan province about one hour ago. Initial unofficial reports indicate two killed and two wounded."
     }
   ]
 }
