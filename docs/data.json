@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-06 14:13:07",
-  "count": 14294,
+  "updated": "2026-09-06 14:17:01",
+  "count": 14295,
   "items": [
+    {
+      "id": "5079141",
+      "time": "2026-09-06 14:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州一小型飛機墜毀致兩死兩傷 】一架小型飛機5日在美國加利福尼亞州弗雷斯諾市墜毀，造成機上兩名兒童死亡、兩名成年人重傷。據弗雷斯諾警方訊息，事故發生於當地時間13時50分左右，這架小型飛機在當地一條河流河岸附近墜毀並起火。消防人員迅速趕到現場滅火，阻止火焰蔓延至附近民房。（新華社）"
+    },
+    {
+      "id": "mkt:01a0755a-f7fa-7118-84b6-b2f0b17b5d46",
+      "time": "2026-09-06 14:14:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya TV reported Israeli defense minister said Israel will not withdraw forces from the Lebanese security zone until Hezbollah is disarmed."
+    },
     {
       "id": "5079140",
       "time": "2026-09-06 14:06:59",
@@ -130818,14 +130838,6 @@
         "國際"
       ],
       "text": "諮詢公司APK-Inform表示，8月20日至26日期間，烏克蘭主要穀物周出口量增加28%，達到24.09萬噸。"
-    },
-    {
-      "id": "mkt:01a05150-6fd9-7118-83fd-3a9b38b15f96",
-      "time": "2026-08-30 14:17:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Welcome to Long's Restaurant box office tops 1.9 bln yuan】Ticketing-platform real-time data show the film Welcome to Long's Restaurant has surpassed 1.9 billion yuan in box office receipts as of 14:11 on Aug. 30."
     }
   ]
 }
