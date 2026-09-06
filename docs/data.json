@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-06 13:25:21",
-  "count": 14299,
+  "updated": "2026-09-06 13:29:41",
+  "count": 14300,
   "items": [
+    {
+      "id": "mkt:01a0752f-ef27-7118-84b6-9d42e80b95cf",
+      "time": "2026-09-06 13:27:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI short-drama production prices plunge, industry consolidation underway】AI short-form drama production has surged this year as technical barriers fell and capacity expanded, driving per-minute production quotes down from ~5,000 yuan to several hundred yuan—approaching cost—while bespoke projects still command 10,000–20,000 yuan/min. With basic production no longer scarce, competition is shifting from output and price to content quality and market reach. Forecasts project China’s AI drama/animation market to exceed 40 bln yuan by 2026 (YoY growth ~138%); the overseas segment is expected to top $4 bln, or roughly 70% of the overseas micro short-form drama market."
+    },
+    {
+      "id": "mkt:01a0752e-ca18-7118-84b6-912257e624ed",
+      "time": "2026-09-06 13:26:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU opposes Israeli plan to expel Gaza residents】Sept 4 — The European Commission said it opposes Israeli national security minister Itamar Ben-Gvir's plan to expel about 1.86 mln Palestinians from the Gaza Strip. Spokesperson Christian Wigand said the EU rejects any attempt to alter Gaza's population composition or territorial status, that Gaza residents must not be forcibly displaced, and that Gaza is an indivisible part of a future Palestinian state."
+    },
+    {
+      "id": "5079131",
+      "time": "2026-09-06 13:24:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI短劇製作價格大跳水】今年以來，AI短劇迎來一輪爆發：技術門檻下降，大量從業者湧入，產能快速擴張，製作價格隨之“跳水”。同樣製作AI短劇，每分鐘報價從5000元跌至幾百元，逼近成本線；但定製短劇業務依舊可以達到每分鐘1萬‑2萬元。當“會製作”不再是稀缺能力，AI短劇行業競爭正從拼產量、拼價格，轉向拼內容、拼市場。資料顯示，預計2026年國內AI劇漫劇市場規模有望超400億元，同比增速138%。海外市場表現同樣亮眼，規模預計突破40億美元，佔海外微短劇整體規模近70%。 (央視財經)"
+    },
     {
       "id": "5079130",
       "time": "2026-09-06 13:23:17",
@@ -130844,22 +130870,6 @@
         "MKT News"
       ],
       "text": "Swiss media Blick reported a shooting at a party in Switzerland, with multiple victims reported."
-    },
-    {
-      "id": "5066745",
-      "time": "2026-08-30 13:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒披露“美國最後通牒”：漲軍費，不然就不支援馬島主權】據英國《每日電訊報》披露，美國方面威脅稱，如果英國首相伯納姆不增加國防開支，美國將反對英國對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權主張。英國《獨立報》將美方威脅稱作“最後通牒”。英國政府一名發言人則表示，政府對福克蘭群島的支援“堅定不移”，那裡將一直是“大不列顛的海外領土”。 《每日電訊報》28日報道稱，該方案是五角大樓正在擬定的多項舉措之一，目的是推動英國這個北約成員國履行軍費佔國內生產總值5%的承諾目標。 一名美國高階官員向《每日電訊報》透露，華盛頓正在評估各北約盟國對北約的履約情況，核查各國是否具備達成軍費目標的可行路徑，英國很可能會在此輪評估中受到“特別關注”。“英國擁有巨大潛力。因此我們會繼續努力，推動、促使英國實現國防開支的大幅加碼。”這名官員表示。 當被問及美國調整馬島立場的可能性時，該官員稱：“我可以說的是，各方溝通十分坦誠。為推動實現我們所期待的防務責任分擔，不會排除任何選項。”（環球網）"
-    },
-    {
-      "id": "5066744",
-      "time": "2026-08-30 13:26:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列對加沙塔爾哈瓦地區發動襲擊，造成兩人死亡。"
     }
   ]
 }
