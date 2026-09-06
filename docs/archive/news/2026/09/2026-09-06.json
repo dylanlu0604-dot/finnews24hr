@@ -1,7 +1,19 @@
 {
   "date": "2026-09-06",
-  "count": 283,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:01a07473-93f4-7118-84b5-d1ca43f5a7d5",
+      "time": "2026-09-06 10:02:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09866.HK",
+        "Impact bullish"
+      ],
+      "text": "NIO (09866.HK) said it has built 9,322 charging and battery-swap stations nationwide as of today, including 4,070 battery-swap stations, 5,252 charging stations and 30,280 charging piles, and has delivered over 120 mln battery swaps."
+    },
     {
       "id": "5079063",
       "time": "2026-09-06 10:00:37",
