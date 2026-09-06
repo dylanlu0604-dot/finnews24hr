@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-06 17:52:32",
-  "count": 14198,
+  "updated": "2026-09-06 17:56:17",
+  "count": 14196,
   "items": [
+    {
+      "id": "mkt:01a07621-f58d-7118-84b8-4bd0a424b6c4",
+      "time": "2026-09-06 17:52:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tehran Stock Exchange composite index tops 6.7 million points】Tehran Stock Exchange composite index rose 122,000 points to 6.723 million points. Retail investors put 36.17 tln rial into equities, subscription rights and equity funds, while 13.42 tln rial exited fixed-income funds; gold funds lost 7.18 tln rial of retail money. 89% of stocks advanced and buy orders worth 11.2 tln toman are queued to roll into tomorrow’s session."
+    },
     {
       "id": "mkt:01a07620-511a-7118-84b8-449774af426a",
       "time": "2026-09-06 17:50:24",
@@ -130017,33 +130025,6 @@
         "國際"
       ],
       "text": "美國聯合航空將於2027年3月27日恢復特拉維夫與舊金山之間的航班，每週三班。"
-    },
-    {
-      "id": "mkt:01a05218-e0c9-7118-83fe-df87fc20d660",
-      "time": "2026-08-30 17:55:57",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bullish"
-      ],
-      "text": "United Airlines (UAL.O) will resume service between Tel Aviv and San Francisco on March 27, 2027, operating three weekly flights."
-    },
-    {
-      "id": "5066995",
-      "time": "2026-08-30 17:55:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【冰島公投初步結果反對重啟入歐談判】冰島8月29日舉行全民公投，就是否重啟加入歐盟的談判進行表決。據冰島國家廣播公司8月30日報道，截至當地時間當天6點39分，也就是北京時間今天14點39分，初步計票結果顯示，約19萬選票中，52.5%反對重啟冰島加入歐盟的談判。目前計票工作仍在進行中。 冰島2009年申請加入歐盟並啟動相關談判。2013年，持疑歐立場的政府上臺後擱置談判。有分析認為，如果冰島最終加入歐盟，可能對歐洲的其他非歐盟國家產生示範效應。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5066994",
-      "time": "2026-08-30 17:55:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南京住房公積金異地貸款，範圍擴充套件至全國】8月29日，南京住房公積金管理中心釋出通知，進一步擴大住房公積金異地貸款範圍。通知全文如下： 為更好發揮住房公積金制度作用，進一步滿足購房人跨區域住房消費需求，現將住房公積金異地貸款範圍擴充套件至全國。全國範圍內的住房公積金繳存人，在南京市購房均可向南京住房公積金管理中心申請住房公積金貸款。本通知自2026年9月1日起施行。"
     }
   ]
 }

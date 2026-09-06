@@ -1,7 +1,15 @@
 {
   "date": "2026-09-06",
-  "count": 567,
+  "count": 568,
   "items": [
+    {
+      "id": "mkt:01a07621-f58d-7118-84b8-4bd0a424b6c4",
+      "time": "2026-09-06 17:52:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tehran Stock Exchange composite index tops 6.7 million points】Tehran Stock Exchange composite index rose 122,000 points to 6.723 million points. Retail investors put 36.17 tln rial into equities, subscription rights and equity funds, while 13.42 tln rial exited fixed-income funds; gold funds lost 7.18 tln rial of retail money. 89% of stocks advanced and buy orders worth 11.2 tln toman are queued to roll into tomorrow’s session."
+    },
     {
       "id": "mkt:01a07620-511a-7118-84b8-449774af426a",
       "time": "2026-09-06 17:50:24",
