@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-06 18:04:12",
-  "count": 14193,
+  "updated": "2026-09-06 18:08:00",
+  "count": 14191,
   "items": [
+    {
+      "id": "5079274",
+      "time": "2026-09-06 18:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【好想來回應多地嚴查“缺斤短兩”問題：全力配合 對涉事門店嚴肅整改處理】9月6日下午訊息，近期，趙一鳴、好想來等頭部量販零食品牌接連陷入“缺斤短兩”爭議。對此，好想來官方回應稱，我們已關注到相關報道並高度重視，將全力配合市場監督管理局的核查工作。好想來始終堅持以消費者為中心，對缺斤少兩行為零容忍，一經查實，將對涉事門店嚴肅整改處理。同時也歡迎媒體和廣大消費者持續監督。"
+    },
+    {
+      "id": "mkt:01a0762c-cb68-7118-84b8-5836bf7e2d4d",
+      "time": "2026-09-06 18:04:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "National Grid data show unit 1 at the Torness nuclear power station in the UK is offline."
+    },
+    {
+      "id": "mkt:01a0762c-91bc-7118-84b8-55055bac1b42",
+      "time": "2026-09-06 18:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's vice president Cevdet Yilmaz said the economic plan takes into account that the election will be held on schedule."
+    },
     {
       "id": "5079273",
       "time": "2026-09-06 18:02:22",
@@ -129957,50 +129985,6 @@
         "其他"
       ],
       "text": "中央氣象臺：今年第18號颱風“沙德爾”減弱後的熱帶低壓今天上午移入廣西境內後，風力進一步減弱，中央氣象臺於30日17時對其停止編號。不過，受“沙德爾”殘餘環流、季風槽和冷空氣的共同影響，南方多地仍有明顯降雨。"
-    },
-    {
-      "id": "mkt:01a05223-4614-7118-83fe-f2debc28db5d",
-      "time": "2026-08-30 18:07:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Haimeixing H1 2026 net profit 51.915 mln yuan; returns to profit】Haimeixing reported H1 2026 revenue of 3.073 billion yuan, up 84.64% YoY, and net profit attributable to shareholders of 51.915 million yuan, reversing a year-ago loss. Company attributed the turnaround to substantial order growth from new energy and AI-compute sectors and operational improvements."
-    },
-    {
-      "id": "mkt:01a05222-7f69-7118-83fe-ed6319020582",
-      "time": "2026-08-30 18:06:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【TankerTrackers: Avg 6.7 mln bpd of crude on vessels departed US naval blockade line over past seven days】TankerTrackers says that over the last full seven-day period crude cargoes on vessels departing a US naval blockade line averaged 6.7 mln barrels per day. The estimate uses AIS data plus hundreds of daily satellite images; it includes tankers that switched off AIS identified by imagery and vessels that only reactivated AIS several days after leaving the blockade line."
-    },
-    {
-      "id": "5067002",
-      "time": "2026-08-30 18:06:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "開源情報研究機構：據船舶自動識別系統（AIS）資料與數百張每日衛星影像的整合分析，過去整整七日，駛出美國海軍封鎖線的原油出口量日均達 670 萬桶。"
-    },
-    {
-      "id": "5067001",
-      "time": "2026-08-30 18:05:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺8月30日18時繼續釋出暴雨黃色預警 】預計，8月30日20時至31日20時，江蘇中南部、安徽中南部、湖北東南部、湖南東部和南部、江西北部和中西部、浙江西北部和東南部沿海、福建南部和東部沿海、臺灣島中南部、廣東中東部和西南部沿海、廣西東南部、海南島以及川西高原南部、雲南西部、西藏東南部、內蒙古東北部等地部分地區有大到暴雨，其中，江蘇中部、安徽南部、江西北部和西部、湖南南部、廣東東北部、海南島西部、福建東南部沿海、臺灣島南部等地部分地區有大暴雨，局地特大暴雨(250~350毫米);上述部分地區伴有短時強降水(最大小時降雨量20~50毫米，局地可超過70毫米)，局地有雷暴大風等強對流天氣。"
-    },
-    {
-      "id": "5067000",
-      "time": "2026-08-30 18:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀行全鏈條護航企業全球發展】作為外貿金融服務主渠道銀行，中國銀行依託覆蓋境外64個國家和地區的雄厚網路，以“融資+融智”雙輪驅動，提供全鏈條、系統化的金融賦能，近日在深圳舉辦海外綜合服務體系座談會及“揚帆出海 中行相伴”主題會議等系列活動，進一步明確將切實做好“網路相伴”“服務相伴”“生態相伴”。中行行長張輝表示，2026年上半年，中行境外機構稅前利潤貢獻保持在27%以上，境外自設機構數量居全球第二，實現對G20成員國、金磚五國、東盟十國以及21個APEC經濟體的全域覆蓋，在主要國際金融中心具備充分市場競爭力。（新華社）"
     }
   ]
 }
