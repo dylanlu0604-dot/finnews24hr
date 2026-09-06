@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-07 05:21:31",
-  "count": 14205,
+  "updated": "2026-09-07 05:25:25",
+  "count": 14201,
   "items": [
+    {
+      "id": "5079687",
+      "time": "2026-09-07 05:24:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.7美元，日內跌幅0.1%。"
+    },
+    {
+      "id": "mkt:01a07899-636e-7118-84bc-c494d95b322c",
+      "time": "2026-09-07 05:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz open until Feb. 28; accuses US-Israel action of disrupting shipping, lifting energy prices】Iran's foreign ministry spokesman Baghaei said the Strait of Hormuz remained open until Feb. 28 and that subsequent US and Israeli action against Iran has disrupted commercial shipping, idled tankers, interrupted trade and pushed up energy prices. He described Washington's campaign as an illegal and brutal war and said the US expects the world to pay while portraying Iran as the instigator."
+    },
     {
       "id": "5079686",
       "time": "2026-09-07 05:14:39",
@@ -130050,67 +130070,6 @@
         "XAUUSD"
       ],
       "text": "【US CENTCOM says 83 merchant vessels rerouted amid blockade of Iran】On Aug. 30 U.S. Central Command (CENTCOM) said a U.S. Navy destroyer, the Delbert D. Black, was operating in the Arabian Sea as the U.S. continues its blockade of Iran. CENTCOM said it had directed 83 merchant vessels to alter course, disabled three vessels and boarded and inspected two to ensure compliance with blockade measures."
-    },
-    {
-      "id": "5067386",
-      "time": "2026-08-31 05:24:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍中央司令部：已改變83艘商船航行路線】當地時間8月30日，美軍中央司令部表示，在美國繼續對伊朗實施封鎖之際，美國海軍“德爾伯特·D·布萊克”號驅逐艦在阿拉伯海執行任務。截至當天，美軍中央司令部已引導83艘商船改變航行路線、使3艘商船喪失航行能力，並登臨檢查了2艘商船，以確保其遵守相關封鎖要求。（央視新聞）"
-    },
-    {
-      "id": "5067385",
-      "time": "2026-08-31 05:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓秘密聘用高粉絲保守派退伍軍人擔任文職】五角大樓悄然任命數名擁有大量社交媒體粉絲的保守派退伍軍人擔任政府文職崗位，但幾乎未公開披露他們的具體工作內容，也未說明其是否領取薪酬。這批人員包括退役軍官羅布·馬內斯、庫爾特·施利希特以及托馬斯·安德森。以上三人均曾公開為防長赫格塞斯辯護，同時批評記者、職業官員以及其他反對特朗普政府的人士。部分網路意見人士加入了五角大樓高階軍事學院特別工作組。該工作組成立目的是核查軍事院校內所謂“有害”“覺醒派”意識形態問題。在走訪陸軍戰爭學院期間，他們就軍隊高層以及課程內容向學生與教授提出質詢。"
-    },
-    {
-      "id": "mkt:01a0548d-da41-7118-8402-b190556e8b1b",
-      "time": "2026-08-31 05:22:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "IRNA cited sources saying Israeli forces continue to violate the ceasefire, using white-phosphorus munitions in airstrikes on other areas of southern Lebanon."
-    },
-    {
-      "id": "mkt:01a0548d-be03-7118-8402-ac268a2b3d8b",
-      "time": "2026-08-31 05:22:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said AI is creating jobs in energy, data centers and startups. AI startups have attracted $400 billion in investment in the past six months alone."
-    },
-    {
-      "id": "5067384",
-      "time": "2026-08-31 05:22:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國就冰島歐盟公投發表宣告：尊重冰島人民的主權決定。"
-    },
-    {
-      "id": "5067383",
-      "time": "2026-08-31 05:21:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破85美元，日內漲超2.5%。"
     }
   ]
 }

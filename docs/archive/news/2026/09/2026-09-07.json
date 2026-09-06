@@ -1,7 +1,27 @@
 {
   "date": "2026-09-07",
-  "count": 196,
+  "count": 198,
   "items": [
+    {
+      "id": "5079687",
+      "time": "2026-09-07 05:24:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.7美元，日內跌幅0.1%。"
+    },
+    {
+      "id": "mkt:01a07899-636e-7118-84bc-c494d95b322c",
+      "time": "2026-09-07 05:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz open until Feb. 28; accuses US-Israel action of disrupting shipping, lifting energy prices】Iran's foreign ministry spokesman Baghaei said the Strait of Hormuz remained open until Feb. 28 and that subsequent US and Israeli action against Iran has disrupted commercial shipping, idled tankers, interrupted trade and pushed up energy prices. He described Washington's campaign as an illegal and brutal war and said the US expects the world to pay while portraying Iran as the instigator."
+    },
     {
       "id": "5079686",
       "time": "2026-09-07 05:14:39",
