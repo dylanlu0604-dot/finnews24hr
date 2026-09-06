@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-07 03:20:14",
-  "count": 14208,
+  "updated": "2026-09-07 03:24:11",
+  "count": 14210,
   "items": [
+    {
+      "id": "5079669",
+      "time": "2026-09-07 03:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：（衝出跑道的）是一架波音767-300貨機，該機從波多黎各聖胡安的路易斯·穆尼奧斯·馬林國際機場起飛。"
+    },
+    {
+      "id": "mkt:01a0782b-3b04-7118-84bc-03e477fa00a5",
+      "time": "2026-09-07 03:21:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA to investigate aircraft runway excursion at Miami International Airport."
+    },
+    {
+      "id": "5079668",
+      "time": "2026-09-07 03:21:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10貨幣走勢漲跌互現。"
+    },
+    {
+      "id": "5079667",
+      "time": "2026-09-07 03:21:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "在美國邁阿密機場衝出跑道的是亞馬遜貨運飛機。"
+    },
+    {
+      "id": "5079666",
+      "time": "2026-09-07 03:20:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我做這些是為了我們的國家，不是為我個人。我已經為美國在股票以及各類其他資產上賺取了數千億美元，並非為我自己。可我所做的一切，換來的卻是激進左派民主黨人的批評。這非常不公平，但又能怎麼辦呢。\n配圖：特朗普坐在橢圓形辦公室辦公桌前，面前多臺交易顯示屏，螢幕顯示：買入：英特爾20美元；當前價格 95美元。"
+    },
     {
       "id": "mkt:01a07828-7b11-7118-84bb-f95c09f7ac55",
       "time": "2026-09-07 03:18:33",
@@ -130141,36 +130182,6 @@
         "國際"
       ],
       "text": "市場資訊：美國今天襲擊了拉拉克島上的兩處伊朗導彈發射井。"
-    },
-    {
-      "id": "mkt:01a05420-0e08-7118-8402-1f434b47018b",
-      "time": "2026-08-31 03:23:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials told Al Jazeera that mine-clearance of the Strait of Hormuz international shipping lane is complete."
-    },
-    {
-      "id": "5067342",
-      "time": "2026-08-31 03:22:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：我軍已完成霍爾木茲海峽國際航運航道的排雷工作。"
-    },
-    {
-      "id": "mkt:01a0541f-1b59-7118-8402-10b6081819f3",
-      "time": "2026-08-31 03:21:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials told Al Jazeera that U.S. forces are closely monitoring the area and are prepared to protect free trade through the Strait of Hormuz."
     }
   ]
 }
