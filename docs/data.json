@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-07 03:08:26",
-  "count": 14202,
+  "updated": "2026-09-07 03:12:23",
+  "count": 14204,
   "items": [
+    {
+      "id": "5079661",
+      "time": "2026-09-07 03:10:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在社交賬號釋出圖片渲染哈爾克島遭襲，聚焦伊朗經濟惡化現狀】美國總統特朗普週日在社交媒體釋出一組圖片，展示伊朗不斷惡化的經濟狀況，還放出了襲擊伊朗石油出口關鍵樞紐哈爾克島的模擬畫面。其中一張配文“再見，哈爾克”的圖片描繪了對該島發起攻擊的場景。另外兩條帖子聚焦伊朗貨幣與通脹問題。一條寫道“伊朗貨幣已經徹底崩潰”，另一條稱“伊朗陷入惡性通貨膨脹”，配圖圖表顯示伊朗里亞爾匯率跌至約227萬里亞爾兌換一美元。"
+    },
+    {
+      "id": "5079660",
+      "time": "2026-09-07 03:08:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "一架貨機在邁阿密機場衝出跑道。"
+    },
+    {
+      "id": "5079659",
+      "time": "2026-09-07 03:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體上釋出三張圖片顯示，石油透過霍爾木茲海峽的流量已恢復到衝突前的水平。衝突前，每天有2000萬桶石油透過該海峽，現在這一數字已達到每天1800萬桶。"
+    },
     {
       "id": "mkt:01a0781e-9176-7118-84bb-d332866fe72c",
       "time": "2026-09-07 03:07:44",
@@ -130112,26 +130136,6 @@
         "焦點"
       ],
       "text": "德國總理默茨：德國人並不懶惰。但德國人均年工作時長比瑞士少200小時。我並不太想拿我們和其他國家作對比。但我認為我們必須達成共識，全體德國人是否願意真正投入更多工作？現在不少企業表示，如果將每週工時從35小時恢復至40小時，德國的大部分競爭力就能夠得以恢復。"
-    },
-    {
-      "id": "mkt:01a05414-e767-7118-8402-061ca6d36727",
-      "time": "2026-08-31 03:10:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "Amazon",
-        "Microsoft",
-        "NVDA.O",
-        "Impact mixed",
-        "MSFT.O",
-        "GOOGL.O"
-      ],
-      "text": "【Tech profits buoyed by >$160bn in AI-related valuation gains, may overstate AI strength】Financial Times reported large tech firms booked more than $160 billion of unexpected valuation gains last quarter from equity investments in other AI companies, lifting pre-tax profits. Alphabet, Amazon, NVIDIA and Microsoft said the accounting line \"other income\" was materially boosted by these one-off valuation gains. The gains largely reflect market enthusiasm for AI and could distort assessments of the AI ecosystem’s strength and cyclicality. Goldman Sachs' chief US equity strategist said investors are increasingly asking whether reported growth is demand-driven or, to some extent, misleading."
     }
   ]
 }
