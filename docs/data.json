@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07 01:04:10",
+  "updated": "2026-09-07 01:08:12",
   "count": 14186,
   "items": [
+    {
+      "id": "5079573",
+      "time": "2026-09-07 01:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使庫什納：世上沒有永恆的敵人，也沒有永恆的盟友。"
+    },
     {
       "id": "5079572",
       "time": "2026-09-07 01:01:02",
@@ -129967,19 +129975,6 @@
         "國際"
       ],
       "text": "歐洲央行執委會成員呼籲藉助智慧合約，將央行貨幣遷移至區塊鏈。"
-    },
-    {
-      "id": "mkt:01a053a4-670e-7118-8401-8e60ba086766",
-      "time": "2026-08-31 01:07:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Conflict enters fourth act; Iran’s Strait of Hormuz leverage at risk】CNN analyst Brett McGurk says the six‑month conflict has moved into a fourth phase and Iran’s leverage over the Strait of Hormuz is at risk of failing. Since mid‑July the US has re‑imposed sanctions on Iranian oil, re‑established a maritime blockade of Iranian ports and stepped up naval escorts to clear and protect commercial traffic; Bloomberg reports flows through the Strait have recovered to about two‑thirds of pre‑conflict levels. Attempts by Iran to interdict shipping with drones and sea mines have begun to lose effectiveness, leaving Iranian oil exports effectively constrained and pressure accumulating on Tehran rather than Washington. McGurk notes Iran could try to push prices higher to force concessions—particularly ahead of US midterms—but Gulf states do not back Iran’s claims to control the Strait. With the war entering a new phase, US objectives—sustain the blockade, secure commercial navigation and press Iran to abandon claims over the Strait and nuclear enrichment—are clearer and the situation is starting to favor Washington."
     }
   ]
 }
