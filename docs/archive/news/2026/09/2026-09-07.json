@@ -1,7 +1,23 @@
 {
   "date": "2026-09-07",
-  "count": 77,
+  "count": 79,
   "items": [
+    {
+      "id": "5079585",
+      "time": "2026-09-07 01:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使庫什納談及加沙：我們向加沙大量輸送援助物資，如今當地已躋身全球營養不良率最低的地區之列。我們有重建加沙的方案，這些事情需要時間。"
+    },
+    {
+      "id": "mkt:01a077bb-fb51-7118-84bb-02346360e38f",
+      "time": "2026-09-07 01:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. presidential envoy Witkoff said he first met Russian President Putin to ascertain his position, held pragmatic, in-depth talks, and relayed the discussions to Ukrainian President Zelensky; he said he is confident the matter can be properly resolved."
+    },
     {
       "id": "5079584",
       "time": "2026-09-07 01:19:15",

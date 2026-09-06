@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-07 01:20:00",
-  "count": 14188,
+  "updated": "2026-09-07 01:24:01",
+  "count": 14189,
   "items": [
+    {
+      "id": "5079585",
+      "time": "2026-09-07 01:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使庫什納談及加沙：我們向加沙大量輸送援助物資，如今當地已躋身全球營養不良率最低的地區之列。我們有重建加沙的方案，這些事情需要時間。"
+    },
+    {
+      "id": "mkt:01a077bb-fb51-7118-84bb-02346360e38f",
+      "time": "2026-09-07 01:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. presidential envoy Witkoff said he first met Russian President Putin to ascertain his position, held pragmatic, in-depth talks, and relayed the discussions to Ukrainian President Zelensky; he said he is confident the matter can be properly resolved."
+    },
     {
       "id": "5079584",
       "time": "2026-09-07 01:19:15",
@@ -129985,16 +130001,6 @@
         "其他"
       ],
       "text": "葉門武裝部隊：在胡塞自殺式快艇對紅海船隻發起襲擊之前將其摧毀。"
-    },
-    {
-      "id": "mkt:01a053b0-742c-7118-8401-9fb89518074c",
-      "time": "2026-08-31 01:21:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fars News reported Iran seized 2 million liters of smuggled diesel in the Persian Gulf, about 12,600 barrels."
     }
   ]
 }
