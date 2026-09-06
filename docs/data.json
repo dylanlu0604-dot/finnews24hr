@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-07 03:16:21",
-  "count": 14207,
+  "updated": "2026-09-07 03:20:14",
+  "count": 14208,
   "items": [
+    {
+      "id": "mkt:01a07828-7b11-7118-84bb-f95c09f7ac55",
+      "time": "2026-09-07 03:18:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he acted for the country, not himself, claiming he generated hundreds of billions of dollars in stock and other asset gains for the United States and calling ongoing criticism from left-wing Democrats unfair."
+    },
+    {
+      "id": "5079665",
+      "time": "2026-09-07 03:16:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：將對邁阿密國際機場發生的這起事件（飛機衝出跑道）展開調查。"
+    },
+    {
+      "id": "mkt:01a07826-a3f5-7118-84bb-f246eec8afa6",
+      "time": "2026-09-07 03:16:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said Iran reserves the right to respond to a U.S. military strike on a wedding in Kuhestak and warned that Americans should understand this."
+    },
     {
       "id": "5079664",
       "time": "2026-09-07 03:14:42",
@@ -130141,22 +130171,6 @@
         "Brent"
       ],
       "text": "U.S. officials told Al Jazeera that U.S. forces are closely monitoring the area and are prepared to protect free trade through the Strait of Hormuz."
-    },
-    {
-      "id": "5067341",
-      "time": "2026-08-31 03:20:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：我方部隊正密切監控該地區，並隨時準備保護霍爾木茲海峽的自由貿易暢通。"
-    },
-    {
-      "id": "5067340",
-      "time": "2026-08-31 03:19:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "問：如何解釋德國五分之一的年輕人考慮離開本國這一現象？ \n德國總理默茨：這也意味著還有五分之四的年輕人並不打算離開。"
     }
   ]
 }

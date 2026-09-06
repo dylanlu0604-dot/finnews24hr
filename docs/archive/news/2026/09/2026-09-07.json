@@ -1,7 +1,37 @@
 {
   "date": "2026-09-07",
-  "count": 148,
+  "count": 151,
   "items": [
+    {
+      "id": "mkt:01a07828-7b11-7118-84bb-f95c09f7ac55",
+      "time": "2026-09-07 03:18:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he acted for the country, not himself, claiming he generated hundreds of billions of dollars in stock and other asset gains for the United States and calling ongoing criticism from left-wing Democrats unfair."
+    },
+    {
+      "id": "5079665",
+      "time": "2026-09-07 03:16:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：將對邁阿密國際機場發生的這起事件（飛機衝出跑道）展開調查。"
+    },
+    {
+      "id": "mkt:01a07826-a3f5-7118-84bb-f246eec8afa6",
+      "time": "2026-09-07 03:16:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said Iran reserves the right to respond to a U.S. military strike on a wedding in Kuhestak and warned that Americans should understand this."
+    },
     {
       "id": "5079664",
       "time": "2026-09-07 03:14:42",
