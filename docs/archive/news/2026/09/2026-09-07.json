@@ -1,7 +1,31 @@
 {
   "date": "2026-09-07",
-  "count": 56,
+  "count": 60,
   "items": [
+    {
+      "id": "5079557",
+      "time": "2026-09-07 00:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Polymarket交易員：美伊近期外交會談可能性極低】鑑於美伊中東局勢近期升級，雙方已在霍爾木茲海峽針對油輪展開輪番報復性打擊，Polymarket平臺交易員目前預判美伊短期內不太可能舉行外交會晤；交易員評估，2026年9月30日前雙方舉行此類會談的機率為7%。"
+    },
+    {
+      "id": "mkt:01a0779d-6ea5-7118-84ba-c7e59a32ca5e",
+      "time": "2026-09-07 00:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said 59 vessels transited the Strait of Hormuz in the past 48 hours."
+    },
+    {
+      "id": "5079556",
+      "time": "2026-09-07 00:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國社民黨聯合領導人就薩安州選舉結果表態：這是對聯邦政府發出的訊號。"
+    },
     {
       "id": "mkt:01a0779a-c217-7118-84ba-be3d24390a8a",
       "time": "2026-09-07 00:43:45",
@@ -9,6 +33,14 @@
         "MKT News"
       ],
       "text": "U.S. presidential envoy Witkoff said Russia and Ukraine should make concessions to end the war."
+    },
+    {
+      "id": "5079555",
+      "time": "2026-09-07 00:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國社民黨聯合領導人就薩安州選舉表示：今晚是一個轉折點，許多人感到恐懼，這是一個令我感到悲傷的夜晚。"
     },
     {
       "id": "mkt:01a07799-7af7-7118-84ba-b3d688bba93d",
