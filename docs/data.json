@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-07 06:59:33",
-  "count": 14156,
+  "updated": "2026-09-07 07:03:52",
+  "count": 14141,
   "items": [
+    {
+      "id": "mkt:01a078f5-5309-7118-84bd-2d261db0c257",
+      "time": "2026-09-07 07:02:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【U.S. attack on Iranian vessels raises escalation risk; oil opens higher】Brent briefly rose about 0.8% at the open to above $95/bbl and WTI topped $90/bbl after a U.S. strike on Iranian tankers and Tehran’s announcement of a new exclusion zone outside the Strait of Hormuz heightened fears of prolonged energy transit disruption. The U.S. said it struck three Iranian tankers over the weekend, destroying one, in retaliation for Iran’s ballistic missile attack on a U.S. naval vessel. Iran’s top security official said a new exclusion zone will be set in coming days, starting from the U.S. naval blockade line and extending into parts of the Persian Gulf. U.S. Energy Secretary Wright said the U.S. Navy will not ease deployments in the Strait, including blocking Iranian oil exports and ensuring safe passage for other merchant vessels. Brent is up nearly 60% year-to-date; refined fuels such as diesel have risen more amid the Middle East conflict and the Russia‑Iran war."
+    },
+    {
+      "id": "5079712",
+      "time": "2026-09-07 07:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河出海口海圖正式出版】今天（9月7日），《平陸運河出海口》海圖向社會公開出版發行。同時，平陸運河入海口段沿海航標設定已全面完工，標誌著平陸運河航海安全保障體系從航道標識到海圖示註已全面就緒。（央視新聞）"
+    },
     {
       "id": "5079711",
       "time": "2026-09-07 06:55:39",
@@ -129475,160 +129496,6 @@
         "市場"
       ],
       "text": "【Radiant World風險發酵，嘉能可據悉計提4.8億美元撥備】8月31日訊息，據報道，嘉能可就其對鐵礦石貿易商Radiant World的敞口計提約4.8億美元撥備。Radiant World目前因涉嫌向銀行提供偽造檔案而陷入困境。"
-    },
-    {
-      "id": "5067452",
-      "time": "2026-08-31 07:03:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重研發強“內功”，頭部企業加碼培育創新動能】Wind資料顯示，截至8月30日22時，A股共有5550家上市公司披露2026年半年報。整體來看，A股上市公司研發投入規模與強度持續保持高位，研發投入超8100億元，研發強度達2.25%。科技敘事主線愈發清晰，新質生產力加快培育，頭部企業持續加碼技術創新，成為驅動產業升級的關鍵力量。不少龍頭公司研發投入遠高於同期淨利潤，以高強度研發投入加速技術成果轉化，構築長期競爭力。從“拼規模”到“拼技術”，從“拼儲備”到“拼創新”，A股頭部企業的研發投入圖譜日漸清晰。（中證報）"
-    },
-    {
-      "id": "5067451",
-      "time": "2026-08-31 07:03:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優地機器人：擬全球發售4500萬股H股】8月31日早間，優地機器人在港交所公告，公司擬全球發售45,000,000股H股，香港發售股份2,250,000股H股，國際發售股份42,750,000股H股；發售價不超每股19.55港元；預期股份將於2026年9月9日開始在香港聯交所買賣。"
-    },
-    {
-      "id": "5067450",
-      "time": "2026-08-31 07:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上市券商上半年業績創歷史最佳 “百億俱樂部”持續擴容】受益於市場交投活躍，上市券商交出一份歷史最佳的半年度成績單：43家上市券商上半年合計實現營業收入3647.1億元、歸母淨利潤1553.7億元，同比增幅均超過40%，“百億俱樂部”成員由去年同期的2家擴容至5家。從業務結構看：經紀與自營收入同比增幅均在50%左右，成為主要增長引擎；投行業務整體回暖但內部分化顯著，前五家券商佔據超五成市場份額，中小投行則在低基數下展現出較大彈性。（上海證券報）"
-    },
-    {
-      "id": "5067449",
-      "time": "2026-08-31 07:02:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "華潤置地上半年營收679億元人民幣，預估920.4億元人民幣。華潤置地上半年淨利潤98.4億元人民幣。"
-    },
-    {
-      "id": "5067448",
-      "time": "2026-08-31 07:02:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【公募QDII投資額度年內第二次發放 惠及數十家公募機構 全市場總額度增至1830億美元】時隔不到半年，合格境內機構投資者（QDII）投資額度再度迎來發放。8月28日，國家外匯管理局更新QDII投資額度審批情況，新增68.4億美元額度。其中，證券基金類機構新增額度37.2億美元。據瞭解，此次是今年QDII投資額度的第二次新增，兩次累計新增QDII投資額度超過120億美元。據統計，此次新增QDII投資額度68.4億美元后，全市場QDII投資總額度增長至1830億美元，覆蓋銀行、公募、保險等多類持牌機構。其中，證券基金類機構新增額度37.2億美元，相關機構QDII投資累計額度突破1010億美元。從公募機構獲批情況來看，本次擴容惠及數十家公募機構，易方達基金、華夏基金、景順長城基金、長城基金、華泰證券（上海）資管等約20家公募機構的獲批新增額度最高，均達到1億美元；南方基金、建信基金、安信基金、寶盈基金等多家公募機構也獲批不少新增額度。同時，鑫元基金首次獲批QDII投資額度，行業參與主體進一步豐富。（上海證券報）"
-    },
-    {
-      "id": "5067447",
-      "time": "2026-08-31 07:01:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【業績修復“溫差”明顯，息差企穩訊號清晰】42家A股上市銀行半年報披露收官。從整體表現來看，上市銀行盈利進一步修復，但回暖趨勢下的“溫差”比較明顯。大行改善，股份行承壓，城商行突圍，農商行企穩，各梯隊銀行演繹迥然不同的修復節奏。與此同時，多家上市銀行淨息差實現同比回升，企穩訊號清晰。在息差低位執行背景下，非息收入成為觀察銀行經營韌性的另一扇視窗。"
-    },
-    {
-      "id": "5067446",
-      "time": "2026-08-31 07:01:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：任何針對我們的攻擊都將遭到更猛烈、更具毀滅性的回擊。"
-    },
-    {
-      "id": "mkt:01a054e7-a204-7118-8403-bbdf3190bcfb",
-      "time": "2026-08-31 07:01:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps warned that enemy aggression and crimes will not weaken Iran's control of the Strait of Hormuz and that each hostile launch will be met with an increasingly strong response."
-    },
-    {
-      "id": "5067445",
-      "time": "2026-08-31 07:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國7月工業產出環比增長0.2%，7月工業產值同比增長3.6%。"
-    },
-    {
-      "id": "5067444",
-      "time": "2026-08-31 07:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "華潤置地：上半年毛利率25.4％，預估22.2％。"
-    },
-    {
-      "id": "mkt:01a054e6-e8ba-7118-8403-b394095d5137",
-      "time": "2026-08-31 07:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea July seasonally adjusted industrial production rose 0.2% MoM, below the 0.3% expected and down from June's 6.4% gain."
-    },
-    {
-      "id": "mkt:01a054e6-d46e-7118-8403-aca34e03f733",
-      "time": "2026-08-31 07:00:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "South Korea July industrial production YoY 3.6% (consensus 4.4%; June 5.8%)."
-    },
-    {
-      "id": "5067443",
-      "time": "2026-08-31 07:00:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "華潤置地：期末借貸額2711.8億元人民幣。"
-    },
-    {
-      "id": "mkt:01a054e6-b33e-7118-8403-a14624d10035",
-      "time": "2026-08-31 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production (MoM) (Jul) | actual 0.2% | consensus 0.3% | previous 6.40%"
-    },
-    {
-      "id": "mkt:01a054e6-b33b-7118-8403-99a1cf0558ba",
-      "time": "2026-08-31 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Industrial Production (YoY) (Jul) | actual 3.6% | consensus 4.4% | previous 5.80%"
-    },
-    {
-      "id": "5067442",
-      "time": "2026-08-31 06:59:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "華潤置地：淨負債率41％。"
-    },
-    {
-      "id": "mkt:01a054e6-7c8f-7118-8403-92e24a6c1df4",
-      "time": "2026-08-31 06:59:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian media cited the Islamic Revolutionary Guard Corps as saying it fired ballistic missiles at two US bases in Jordan in response to a US strike on Larak Island."
     }
   ]
 }
