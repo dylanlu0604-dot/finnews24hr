@@ -1,7 +1,20 @@
 {
   "date": "2026-09-07",
-  "count": 112,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:01a07809-d827-7118-84bb-72439bb91743",
+      "time": "2026-09-07 02:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported Iran's top security official said a restricted zone outside the Strait of Hormuz will be announced in the coming days. The zone will begin at the US Navy blockade line and extend into the Gulf region. Any vessel entering the new zone will be added to a sanctions list."
+    },
     {
       "id": "5079644",
       "time": "2026-09-07 02:41:23",

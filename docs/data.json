@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-07 02:44:17",
+  "updated": "2026-09-07 02:48:15",
   "count": 14183,
   "items": [
+    {
+      "id": "mkt:01a07809-d827-7118-84bb-72439bb91743",
+      "time": "2026-09-07 02:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported Iran's top security official said a restricted zone outside the Strait of Hormuz will be announced in the coming days. The zone will begin at the US Navy blockade line and extend into the Gulf region. Any vessel entering the new zone will be added to a sanctions list."
+    },
     {
       "id": "5079644",
       "time": "2026-09-07 02:41:23",
@@ -129937,14 +129950,6 @@
         "國際"
       ],
       "text": "美國財長貝森特和美聯儲主席沃什一同前往北卡阿什維爾出席G20財長會議。"
-    },
-    {
-      "id": "5067311",
-      "time": "2026-08-31 02:48:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗藉助小艇監控霍爾木茲海峽過往船隻】伊朗革命衛隊正使用小型快艇識別透過霍爾木茲海峽的船隻。近期一艘船隻取道阿曼航線穿越霍爾木茲海峽期間，一艘伊朗小艇開啟探照燈，在航行過程中讀取船體船名以識別該船。隨後伊朗軍方直呼該船船名，稱該船“已錄入其系統”並受到監控，勒令其停止通行，否則將採取行動。"
     }
   ]
 }
