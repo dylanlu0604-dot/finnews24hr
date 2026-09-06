@@ -1,7 +1,23 @@
 {
   "date": "2026-09-07",
-  "count": 156,
+  "count": 158,
   "items": [
+    {
+      "id": "5079670",
+      "time": "2026-09-07 03:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：邁阿密國際機場或將出現大規模延誤，部分航班可能取消。"
+    },
+    {
+      "id": "mkt:01a0782e-6b7c-7118-84bc-0d5ed4866b2c",
+      "time": "2026-09-07 03:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA said the aircraft that ran off the runway was a Boeing 767-300 freighter that had departed Luis Muñoz Marín International Airport in San Juan, Puerto Rico."
+    },
     {
       "id": "5079669",
       "time": "2026-09-07 03:22:20",
