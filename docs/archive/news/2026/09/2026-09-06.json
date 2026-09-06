@@ -1,7 +1,27 @@
 {
   "date": "2026-09-06",
-  "count": 384,
+  "count": 386,
   "items": [
+    {
+      "id": "5079138",
+      "time": "2026-09-06 13:52:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【9月錯峰遊正當時：機票低至1.5折，中高星酒店降幅可達五成以上】同程旅行特價機票榜顯示，9月份從上海、杭州、北京等地前往重慶、廣州、烏魯木齊、貴陽、西安、長沙、廈門、昆明等目的地的機票，普遍低至1.5折至2.3折。其中上海飛重慶低至兩三百元（不含稅），北京飛長沙三四百元（不含稅）。整體來看，9月錯峰出行的機票價格比中秋國慶假期便宜三到四成，相較9月30日最高點更是便宜了一半以上。酒店價格同樣大幅回落。同程旅行資料顯示，中秋假期前的酒店均價較8月下降了三四成，部分度假型酒店降幅可達五成以上。以某熱門二線城市的五星級酒店為例，9月錯峰價為700多元，國慶黃金週期間則上漲至1000至1470元。（澎湃）"
+    },
+    {
+      "id": "mkt:01a07544-28e4-7118-84b6-afb71d2f49e2",
+      "time": "2026-09-06 13:49:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches 'National Anti-Fraud AI' app】Guided by the Ministry of Public Security Criminal Investigation Bureau and developed by the Shanghai Municipal Public Security Bureau, the \"National Anti-Fraud AI\" mobile app was launched recently. The app integrates large language models, multimodal models and agent technologies; users can submit suspicious scenarios via phone and the app performs risk assessments, identifies scam patterns, pushes representative cases, deconstructs fraud tactics across text, voice and video, and provides detection and prevention guidance."
+    },
     {
       "id": "5079137",
       "time": "2026-09-06 13:44:25",
