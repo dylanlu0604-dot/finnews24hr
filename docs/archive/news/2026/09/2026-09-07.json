@@ -1,7 +1,19 @@
 {
   "date": "2026-09-07",
-  "count": 108,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:01a077ff-25d3-7118-84bb-65da1a2a4ced",
+      "time": "2026-09-07 02:33:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Energy Secretary Wright said a nuclear deal with Iran may be unattainable in the near term and the US still needs to take military action to counter threats from Tehran."
+    },
     {
       "id": "5079634",
       "time": "2026-09-07 02:20:07",
