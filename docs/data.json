@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-06 21:32:56",
-  "count": 14184,
+  "updated": "2026-09-06 21:36:52",
+  "count": 14186,
   "items": [
+    {
+      "id": "5079406",
+      "time": "2026-09-06 21:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國及歐洲多名高階官員正在參與特朗普特使與烏克蘭總統澤連斯基在基輔舉行的會談。英國國家安全顧問喬納森·鮑威爾（Jonathan Powell）也參與了會談，其他歐洲國家的國家安全顧問同樣出席。"
+    },
+    {
+      "id": "mkt:01a076eb-d231-7118-84b9-9c54d3e48342",
+      "time": "2026-09-06 21:32:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior UK and European officials joined talks in Kyiv between Trump's envoy and Ukrainian President Zelenskiy; UK national security adviser Jonathan Powell and other European national security advisers attended."
+    },
     {
       "id": "5079403",
       "time": "2026-09-06 21:28:53",
