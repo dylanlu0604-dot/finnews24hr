@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-07 05:13:47",
-  "count": 14210,
+  "updated": "2026-09-07 05:17:40",
+  "count": 14207,
   "items": [
+    {
+      "id": "5079686",
+      "time": "2026-09-07 05:14:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：霍爾木茲海峽在2月28日之前始終保持暢通，此後美以對伊朗發動襲擊。華盛頓在該地區挑起一場非法且殘暴的戰爭，擾亂商業航運正常運轉；油輪停航、貿易受阻、能源價格上漲。如今美國企圖讓全世界為這場由它一手造成的混亂買單，還把責任推給伊朗。按照華盛頓的說辭，這場由美國發起的戰爭，卻要被包裝成“伊朗行為給世界帶來的代價”。美國發動戰爭，卻想讓全世界來承擔後果，還把伊朗塑造成這場混亂的始作俑者。這完全是荒謬至極。"
+    },
     {
       "id": "mkt:01a0788e-c335-7118-84bc-bf3f3f1f7090",
       "time": "2026-09-07 05:10:16",
@@ -130118,52 +130127,6 @@
         "國際"
       ],
       "text": "美國中央司令部：截至8月30日，美國中央司令部部隊已迫使83艘商業船舶改道，癱瘓3艘船隻，並登檢2艘，確保各方遵守封鎖規定。"
-    },
-    {
-      "id": "mkt:01a05488-b597-7118-8402-a4f83712fce2",
-      "time": "2026-08-31 05:17:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish",
-        "Copper",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said AI is driving manufacturing reshoring to the U.S., reindustrializing the country after decades of offshoring. He said AI is creating new demand that is prompting market-driven investment in the aging power grid and sustainable energy, rather than relying on subsidies."
-    },
-    {
-      "id": "mkt:01a05488-813b-7118-8402-9e6052461d8e",
-      "time": "2026-08-31 05:17:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Explosions heard again on Larak Island, southern Iran】Iranian sources reported explosions were heard again on Larak Island in southern Iran in the early hours of Aug 31 local time. Iranian authorities have not yet issued a statement."
-    },
-    {
-      "id": "5067380",
-      "time": "2026-08-31 05:16:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部拉臘克島再次傳出爆炸聲】總檯記者當地時間8月31日凌晨從伊朗方面獲悉，該國南部拉臘克島再次傳出爆炸聲。伊朗官方暫未釋出相關宣告。（央視新聞）"
-    },
-    {
-      "id": "5067379",
-      "time": "2026-08-31 05:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美大峽谷國家公園突發山洪 超20人失聯】美國國家公園管理局30日說，位於亞利桑那州的大峽谷國家公園29日突發山洪，目前有超過20人被列為可能失聯或下落不明人員。（新華社）"
     }
   ]
 }
