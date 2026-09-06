@@ -1,7 +1,32 @@
 {
   "date": "2026-09-06",
-  "count": 715,
+  "count": 718,
   "items": [
+    {
+      "id": "mkt:01a07719-8152-7118-84b9-a80e43c25068",
+      "time": "2026-09-06 22:22:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US envoy concludes talks with Zelenskiy】Ukrainian president Zelenskiy said the first talks with US negotiating representatives have concluded. US presidential envoy Witkoff said he was encouraged by substantive discussions. Trump's son‑in‑law Kushner said the US team expects to make further progress."
+    },
+    {
+      "id": "5079450",
+      "time": "2026-09-06 22:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國談判代表庫什納稱美方團隊期待取得更多進展。"
+    },
+    {
+      "id": "5079449",
+      "time": "2026-09-06 22:21:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使維特科夫表示，他對實質性且重要的討論感到鼓舞。"
+    },
     {
       "id": "mkt:01a07712-d8d7-7118-84b9-a5a4d1346ae2",
       "time": "2026-09-06 22:15:18",
