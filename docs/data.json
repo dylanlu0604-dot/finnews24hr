@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-06 18:19:33",
-  "count": 14192,
+  "updated": "2026-09-06 18:23:19",
+  "count": 14191,
   "items": [
+    {
+      "id": "5079282",
+      "time": "2026-09-06 18:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，為回應無人機襲擊，已打擊真主黨武裝人員。"
+    },
+    {
+      "id": "mkt:01a0763a-f4d4-7118-84b8-7de4780984df",
+      "time": "2026-09-06 18:19:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv reports US presidential envoy Witkoff and Kushner arrived in Kyiv for peace talks."
+    },
     {
       "id": "5079281",
       "time": "2026-09-06 18:17:53",
@@ -129978,30 +129995,6 @@
         "MKT News"
       ],
       "text": "Turkey will hold a Strategic and Defense Committee meeting under the Mecca Agreement tomorrow, with foreign ministers, defense ministers and military chiefs from Saudi Arabia, Turkey and Pakistan expected to attend. Talks in Istanbul will cover international security and steps to deepen defense-industrial cooperation."
-    },
-    {
-      "id": "5067014",
-      "time": "2026-08-30 18:21:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油：擬出資42.05億元參與增資崑崙資本】中國石油公告稱，公司與中國石油集團、中油資本及崑崙資本於2026年8月28日訂立增資協議，將以42.05億元認購崑崙資本新增註冊資本41.27億元，與中國石油集團共同對崑崙資本進行原股東非同比例增資，中油資本放棄優先認繳出資權。本次增資總對價116.00億元，增資完成後公司持有崑崙資本32.16%股權，崑崙資本仍為中國石油集團控股附屬公司，不會成為公司控股或合併報表主體。本次交易構成關聯交易，僅需履行申報及公告義務。"
-    },
-    {
-      "id": "5067013",
-      "time": "2026-08-30 18:20:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "納真科技IPO獲港交所批准，將在香港上市。"
-    },
-    {
-      "id": "5067012",
-      "time": "2026-08-30 18:19:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：正在發射搭載NASA太空望遠鏡的獵鷹火箭。"
     }
   ]
 }

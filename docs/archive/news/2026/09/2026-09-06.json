@@ -1,7 +1,24 @@
 {
   "date": "2026-09-06",
-  "count": 583,
+  "count": 585,
   "items": [
+    {
+      "id": "5079282",
+      "time": "2026-09-06 18:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，為回應無人機襲擊，已打擊真主黨武裝人員。"
+    },
+    {
+      "id": "mkt:01a0763a-f4d4-7118-84b8-7de4780984df",
+      "time": "2026-09-06 18:19:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv reports US presidential envoy Witkoff and Kushner arrived in Kyiv for peace talks."
+    },
     {
       "id": "5079281",
       "time": "2026-09-06 18:17:53",
