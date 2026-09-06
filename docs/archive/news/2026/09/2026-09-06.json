@@ -1,7 +1,30 @@
 {
   "date": "2026-09-06",
-  "count": 249,
+  "count": 251,
   "items": [
+    {
+      "id": "5079040",
+      "time": "2026-09-06 09:06:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "據報道，美國財政部代理制裁主管吉恩·蘭格隨同維特科夫與庫什納一同出訪。蘭格參與了與普京特使基里爾·德米特里耶夫的預備會談，但並未出席同普京的會面。蘭格的到場，表明美國對俄製裁問題被納入了談判討論範疇。"
+    },
+    {
+      "id": "mkt:01a0743e-0e93-7118-84b5-8f44bc8b2f09",
+      "time": "2026-09-06 09:03:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA GPU rental rates mostly rise】As of Sept. 6, NVIDIA GPU rental rates: B200 $6.42/hour, +0.31% day, +5.94% week, +11.65% month; H200 $4.55/hour, -1.73% day, +2.48% week, -7.52% month; H100 $3.06/hour, +5.88% day, +6.62% week, +12.50% month; A100 $1.09/hour, +2.83% day, +5.83% week, +4.81% month; RTX5090 $0.63/hour, unchanged day-on-day, +18.87% week, +28.57% month."
+    },
     {
       "id": "5079039",
       "time": "2026-09-06 09:02:29",
