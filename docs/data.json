@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-06 09:58:06",
-  "count": 14270,
+  "updated": "2026-09-06 10:01:57",
+  "count": 14271,
   "items": [
+    {
+      "id": "5079063",
+      "time": "2026-09-06 10:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：截至今日，蔚來全國建成9,322座充換電站，其中換電站4,070座，充電站5,252座、充電樁30,280根，累計提供超1.2億次換電。"
+    },
+    {
+      "id": "5079062",
+      "time": "2026-09-06 09:57:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI應用研究主管：空間推理能力曾是人類遠超計算機的最後幾個方面之一，有了Astra之後，這種情況將不復存在。"
+    },
     {
       "id": "5079061",
       "time": "2026-09-06 09:57:05",
@@ -130583,15 +130599,6 @@
         "Brent"
       ],
       "text": "【Venezuela interim president: 25-year deal with U.S. oil firms aims to lift output to 1.5 mln bpd】Interim president Delcy Rodriguez said a deal with U.S. oil firms would cover 17 prospective fields and grant a 25-year production concession targeting 1.5 mln barrels/day. The government proposes a $69/bbl sale price, implying $19 of government profit per barrel, plus a 16% field-use royalty and a 34% income tax on operating oil companies. Caracas expects proceeds to be added to the $209 billion in profits announced earlier this week."
-    },
-    {
-      "id": "5066696",
-      "time": "2026-08-30 09:59:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國將收購委內瑞拉商界大亨貝坦考特旗下石油專案35%的股份】知情人士訊息報道，美國政府計劃收購委內瑞拉商人亞歷杭德羅・貝坦考特旗下北美藍色能源夥伴公司（North American Blue Energy Partners）35% 的非控股股權。美國還計劃取得按成本價採購該公司 20% 產量的優先權利。報道表示，五角大樓戰略資本辦公室計劃透過低價認股權證完成這筆投資，美國無需大額實際出資，即可獲得這家企業的股權。"
     }
   ]
 }
