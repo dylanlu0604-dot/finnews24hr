@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-07 06:43:40",
-  "count": 14164,
+  "updated": "2026-09-07 06:47:39",
+  "count": 14163,
   "items": [
+    {
+      "id": "5079707",
+      "time": "2026-09-07 06:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“姜健”號驅逐艦正式入列朝鮮海軍】據朝中社7日報道，“姜健”號驅逐艦入列儀式6日在朝鮮元山港舉行，朝鮮勞動黨總書記、國務委員長金正恩出席入列儀式。（新華社）"
+    },
+    {
+      "id": "mkt:01a078e5-bf94-7118-84bd-269b8817df55",
+      "time": "2026-09-07 06:45:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "North Korea has commissioned the destroyer \"Jiang Jian\" into its navy."
+    },
     {
       "id": "5079706",
       "time": "2026-09-07 06:36:02",
@@ -129683,37 +129699,6 @@
         "Impact bearish"
       ],
       "text": "【This week: US nonfarm payrolls, China PMIs, G20 finance chiefs and central bank governors meeting】Mon — China: Aug official manufacturing PMI. Germany: Aug CPI preliminary MoM. US: Aug Dallas Fed business index. G20 finance ministers and central bank governors meet through Sept 1. Tue — China: Aug RatingDog manufacturing PMI. Final Aug manufacturing PMIs for France, Germany, UK and eurozone. Eurozone: Aug CPI preliminary and Jul unemployment. US: final Aug S&P Global manufacturing PMI, Aug ISM manufacturing PMI, Jul JOLTs job openings, Jul construction spending MoM. UK Nationwide house prices MoM; Switzerland Jul real retail sales YoY; UK Jul bank mortgage approvals. SCO heads-of-state council meeting. Corporate: NIO and Dell report after US close. Wed — US weekly API and EIA crude inventories (week to Aug 28). Australia Q2 GDP YoY. US Aug ADP employment, Jul factory orders MoM. RBNZ policy decision and statement. BOC rate decision; Governor Macklem and Senior Deputy Governor Rogers hold policy briefing. Corporate: Broadcom after US close. Thu — China: Aug RatingDog services PMI. Final Aug services PMIs for France, Germany, UK and eurozone. Eurozone Jul PPI MoM; Switzerland Aug CPI MoM. US: Aug Challenger layoffs, weekly initial jobless claims (week to Aug 29), Jul trade balance, final Aug S&P Global services PMI, Aug ISM non-manufacturing PMI. US weekly EIA nat gas stocks (week to Aug 28). Fed releases Beige Book; Fed Governor Waller interview. Fri — Eurozone Jul retail sales MoM. Canada Aug employment. US Aug unemployment rate, Aug seasonally adjusted nonfarm payrolls, Aug average hourly earnings YoY and MoM. Aug global Supply Chain Pressure Index. FOMC voter and Cleveland Fed chair Hamak opens the Fed Community event; Bank of England Governor Bailey speaks. Sat — US weekly Baker Hughes rig count (week to Sept 4). ARAMCO publishes official selling prices around the 5th of each month."
-    },
-    {
-      "id": "mkt:01a054da-2bf4-7118-8403-7e87caecde1e",
-      "time": "2026-08-31 06:46:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS cited unconfirmed reports that the UAE has issued missile-attack alerts."
-    },
-    {
-      "id": "mkt:01a054d9-b7bf-7118-8403-74df62635171",
-      "time": "2026-08-31 06:45:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Data showed merchant vessel transits through the Strait of Hormuz fell to five per day over the weekend."
-    },
-    {
-      "id": "5067431",
-      "time": "2026-08-31 06:45:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "資料顯示，週末期間途經霍爾木茲海峽的大宗商品運輸船降至每日5艘。"
     }
   ]
 }
