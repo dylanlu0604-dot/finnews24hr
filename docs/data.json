@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-06 22:29:28",
+  "updated": "2026-09-06 22:33:30",
   "count": 14160,
   "items": [
+    {
+      "id": "mkt:01a07722-730e-7118-84b9-ba1515513303",
+      "time": "2026-09-06 22:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner: The Trump administration will spare no effort to end the war between Ukraine and Russia."
+    },
+    {
+      "id": "5079465",
+      "time": "2026-09-06 22:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府就郵寄選票問題向最高法院發起新申訴。"
+    },
+    {
+      "id": "mkt:01a07720-4319-7118-84b9-b623e0f7ec38",
+      "time": "2026-09-06 22:29:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASS reported that Russia said it struck a Ukrainian cargo ship in the Black Sea."
+    },
     {
       "id": "5079461",
       "time": "2026-09-06 22:28:46",
@@ -129732,34 +129760,6 @@
         "MKT News"
       ],
       "text": "CBS reports internal US government documents show the Trump administration, within 10 days, transferred more than 100 deportees from Afghanistan, Cuba, Nicaragua and other countries to eight African countries, expanding its third‑country deportation operations."
-    },
-    {
-      "id": "5067176",
-      "time": "2026-08-30 22:30:29",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【國泰海通：中國股市“金秋行情”仍有望延伸、擴散】國泰海通研報指出，自國泰海通策略在7月19日“擊球區”與8月“部署金秋”判斷以來，中國市場總體上呈現出企穩、修復與回升的態勢。往後看，我們認為中國股市的“金秋行情”仍有延伸的空間，核心動力來自不確定性預期的邊際收斂，推動市場風險偏好的修復：1）市場風險已經顯著下降。兩市成交收縮與波動收斂，表明市場拋售壓力明顯減小；資金流出的態勢基本緩和；股市反彈寬度明顯改善，價值發現功能逐步恢復。2）外部風險衝擊影響的觸峰，恐慌情緒退潮。儘管不是負面因素系統性消解，但當前諸如海外股市去槓桿、美債利率升高、美伊衝突等因素均在近期有所緩和或被主動“管理”波動；此外，美聯儲主席沃什鷹派的通脹治理表態也有利於打消市場顧慮。3）秋天國內經濟政策與資本市場政策支援性的立場，定價環境友好。發改委召開全國投資工作推進會，明確“加力加緊做好穩投資各項工作”；金融部門與住建部集體密集出“穩地產”舉措；證監會火線批覆16只創業板算力和金融科技ETF，以及對中國資產安全性的再次強調。以上舉措雖不能立即改變經濟軌跡，但對於穩定市場預期與活躍市場人氣具有關鍵作用，有利於進一步推動中國股市的“金秋行情”。"
-    },
-    {
-      "id": "mkt:01a05314-32ff-7118-8400-b3926b23c40f",
-      "time": "2026-08-30 22:30:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission spokesperson: Iceland remains a close partner of the EU."
-    },
-    {
-      "id": "5067173",
-      "time": "2026-08-30 22:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會發言人表示，冰島仍是歐盟的緊密夥伴。"
     }
   ]
 }
