@@ -1,7 +1,37 @@
 {
   "date": "2026-09-06",
-  "count": 580,
+  "count": 583,
   "items": [
+    {
+      "id": "5079281",
+      "time": "2026-09-06 18:17:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破92美元，日內漲超1%。"
+    },
+    {
+      "id": "mkt:01a07638-1a0c-7118-84b8-76a0cdc970db",
+      "time": "2026-09-06 18:16:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Re plans to raise 3.0 bln yuan to bolster core Tier-1 capital】Sept. 6 — China Re's board approved an issuance of domestic shares to specific investors to be subscribed in cash by the Ministry of Finance, targeting 3.0 bln yuan. Net proceeds will be used wholly to increase China Re's core Tier-1 capital. Issue price set at 1.33 yuan/share, a premium to recent H-share market levels, with about 2.256 bln shares proposed. The subscriber has committed to a long-term holding; size and final terms are subject to regulatory approval."
+    },
+    {
+      "id": "5079280",
+      "time": "2026-09-06 18:16:00",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點"
+      ],
+      "text": "【共增資3600億元 8家中央金融企業將補充資本】9月6日，中國工商銀行等8家中央金融企業分別釋出增資計劃，將補充核心一級資本。據統計，8家中央金融企業計劃共增資3600億元，有助於進一步增強穩健經營能力、抵禦風險能力和服務實體經濟能力。 當日，還有四家國有商業保險公司宣佈增資計劃。中國人保擬向特定物件財政部發行A股股票，計劃募集資金不超過150億元。財政部向中國人壽集團、中國太平分別注資350億元、70億元。中國再保擬由財政部以現金方式認購內資股，計劃募集資金30億元。（新華社）"
+    },
     {
       "id": "5079279",
       "time": "2026-09-06 18:14:59",
