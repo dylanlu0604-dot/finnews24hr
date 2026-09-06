@@ -1,7 +1,620 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-07 01:39:42_
-_本檔包含 2765 則快訊，約 553646 字_
+_更新時間：2026-09-07 04:46:37_
+_本檔包含 2845 則快訊，約 554627 字_
+
+---
+
+### 2026-09-07 04:44:34  #其他
+
+德國選擇黨領導人愛麗絲·魏德爾：我預計德國將舉行聯邦提前大選，現任總理會在聖誕節之前下臺。
+
+---
+
+### 2026-09-07 04:41:13  #MKT News
+
+Zelenskiy said Ukraine may prefer certain negotiation formats but that having no talks would be worse. He thanked U.S. Middle East envoy Witkoff and Trump son‑in‑law Kushner for their role in restarting talks. A U.S. team met with Russian leaders and with Zelenskiy today to discuss all options; Zelenskiy also held trilateral talks with European representatives and a meeting of national security advisers. He said Ukraine will do everything possible to revive negotiations.
+
+---
+
+### 2026-09-07 04:39:59  #MKT News
+
+Alternative for Germany (AfD) chair Alice Weidel said Germany needs good relations with Russia and, above all, with the United States. She noted the US is now sending envoys to Moscow to mediate between Moscow and Kyiv — a role she said could originally have been filled by Germany.
+
+---
+
+### 2026-09-07 04:38:07  #MKT News
+
+Alternative for Germany (AfD) chair Weidel, on the Russia-Ukraine conflict, said the party remains open to diplomatic channels and urged keeping lines of communication with Russia open to reach an understanding and find a peaceful resolution.
+
+---
+
+### 2026-09-07 04:33:34  #國際
+
+【伊朗將上調高用量使用者汽油價格】伊朗政府發言人莫哈傑拉尼週日表示，從下週二開始，伊朗將提高每月汽油用量超過110升的使用者的汽油價格。此舉旨在加大力度應對戰爭及美國嚴厲經濟制裁所帶來的問題。莫哈傑拉尼表示，包括110升在內的第一檔和第二檔配額價格將保持不變，但第三檔配額的價格將提高至每升10萬伊朗里亞爾，按照自由市場匯率計算約合4美分。伊朗汽油價格目前是全球最低水平之一。此前，政府曾討論提高汽油價格，但因擔心此舉可能引發新一輪抗議而推遲。2019年，伊朗就同一問題爆發了大規模抗議活動。莫哈傑拉尼表示，此次提高後的燃油價格只會影響每月需要使用超過110升汽油的消費者，調整是由於“當前形勢”。她補充說，其他駕車者仍可按每升1.5萬里亞爾的價格購買最多60升汽油，此外還可按每升3萬里亞爾的價格購買50升。
+
+---
+
+### 2026-09-07 04:33:19  #MKT News #Important #Commodities #Energy
+
+【Iran to raise gasoline price for heavy users from Tuesday】Iran will raise the gasoline price for consumers using more than 110 liters per month, effective Tuesday, government spokesman Mohajerani said. First- and second-tier quotas, including the 110‑liter band, will remain unchanged; the third-tier price will increase to 100,000 Iranian rials per liter (about $0.04 at the free-market exchange rate). Mohajerani said the adjustment, driven by the “current situation” including the war and US sanctions, will only affect monthly users above 110 liters. Other motorists can still buy up to 60 liters at 15,000 rials/liter and an additional 50 liters at 30,000 rials/liter. Iran’s gasoline remains among the cheapest globally; authorities previously delayed hikes over fears of sparking protests after 2019 unrest.
+
+---
+
+### 2026-09-07 04:31:00  #MKT News #EURUSD #Impact bearish #DAX
+
+Alice Weidel, chair of Alternative for Germany (AfD), said she expects the German CDU's support to fall below 20% soon, that the deeply unpopular Chancellor Merz will face problems, and that the CDU would consider replacing him.
+
+---
+
+### 2026-09-07 04:30:54  #MKT News
+
+Yemen's armed forces said they thwarted a Houthi attempt to infiltrate the Dabab front.
+
+---
+
+### 2026-09-07 04:29:29  #焦點 #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：美國對伊朗及其民眾的政策就是要實現完全控制，只想得到一批盲目服從命令的附庸，這就是美國一貫的訴求。
+
+---
+
+### 2026-09-07 04:24:22  #MKT News
+
+【Zelenskiy says meeting with Trump envoy Witkoff and Jared Kushner was substantive】Ukrainian President Zelenskiy said his meeting with Trump envoy Witkoff and Jared Kushner was highly substantive, with discussions focused on winter aid, security guarantees, and economic guarantees to underpin postwar reconstruction; Zelenskiy said Ukraine will also need to maintain a strong military and that territorial issues should be resolved at head-of-state level. Parties agreed to hold a new Ukraine–US–EU trilateral round of talks soon, venue not yet decided. Witkoff told media US talks with Russia had made important progress, that those views were passed to Ukraine, and that cooperation is crucial.
+
+---
+
+### 2026-09-07 04:20:29  #國際
+
+【澤連斯基稱與美特使等人的會晤“非常具有實質性”】據烏克蘭國家通訊社6日晚報道，烏克蘭總統澤連斯基在與美國總統特朗普的特使威特科夫和女婿庫什納會晤後向媒體表示，烏方與美方和歐洲國家代表當天討論了對烏越冬援助、安全保障等俄烏衝突涉及的議題，會談“非常具有實質性”。（新華社）
+
+---
+
+### 2026-09-07 04:16:34  #MKT News
+
+Kushner, Trump's son-in-law, said the Israeli government's conduct in Gaza was "somewhat irrational."
+
+---
+
+### 2026-09-07 04:16:13  #國際
+
+美國特使庫什納：以色列政府在加沙問題上的行事“有些不理智”。
+
+---
+
+### 2026-09-07 04:13:23  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+【Amazon cargo jet overruns runway at Miami, hits vehicles and catches fire】An Amazon (AMZN.O) Boeing 767-300 cargo jet overran the runway after landing at Miami International Airport around 14:00 local time on Sept. 6, the FAA said. The flight originated in San Juan, Puerto Rico. Video and on-site reports show the aircraft left airport grounds, struck multiple vehicles and caught fire. Miami-Dade Fire Rescue deployed roughly 60 apparatus and reported multiple injured; officials have not released a confirmed casualty count. Miami International has temporarily closed all runways and taxiways and implemented a ground stop; arrivals and departures are suspended. The cause of the runway excursion is unknown and under investigation.
+
+---
+
+### 2026-09-07 04:11:41  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Iran to sign Strait of Hormuz agreement with Oman】Iran said it will sign an agreement with Oman on a vessel-transit map for the Strait of Hormuz “in the coming days,” Supreme National Security Council secretary Rezai said. On U.S.-Iran talks, Rezai said the U.S. must win Iran’s trust to continue negotiations and called U.S. claims that the Strait of Hormuz is open “a pure lie.”
+
+---
+
+### 2026-09-07 04:11:16  #公司 #國際
+
+【美一貨機衝出跑道撞車起火】當地時間9月6日下午2點左右，美國亞馬遜公司一架貨運飛機在邁阿密國際機場衝出跑道，引發大規模緊急響應，機場暫停運營。美國聯邦航空局稱，這架波音767-300型貨機從波多黎各的聖胡安起飛，在邁阿密國際機場著陸後衝出跑道。現場影片顯示，這架大型貨機已衝出機場區域，撞上多輛車輛，起火燃燒。 邁阿密-戴德縣消防部門出動約60輛救援車輛趕赴現場，並報告稱現場發現多名傷者。 邁阿密國際機場已臨時關閉了所有跑道和滑行道，實施了地面停航，暫停航班進出港。 截至目前官方尚未公佈確認的傷亡人數。飛機衝出跑道的原因還不清楚。 （CCTV國際時訊）
+
+---
+
+### 2026-09-07 04:06:13  #公司
+
+亞馬遜：一架由21航空運營的亞馬遜航空貨機今日在嘗試降落在邁阿密國際機場時發生意外。正與地方當局及官員密切協作，以查明事件的準確經過。
+
+---
+
+### 2026-09-07 04:05:53  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) confirmed today that an Amazon aircraft operated by 21 Air was involved in an accident while landing at Miami International Airport.
+
+---
+
+### 2026-09-07 04:05:53  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) said it is working closely with local government and officials to ascertain details of the incident.
+
+---
+
+### 2026-09-07 04:05:06  #公司
+
+機場有關部門稱，一架亞馬遜貨機週日在邁阿密降落時衝出跑道，撞上地面車輛並起火。
+
+---
+
+### 2026-09-07 03:57:44  #其他
+
+葉門武裝部隊稱在塔伊茲上空擊落一架沙特“敵對”無人機。
+
+---
+
+### 2026-09-07 03:50:35  #國際
+
+【聯合國貿發會議報告：最不發達國家數字化可交付服務發展滯後】聯合國貿易和發展會議近日釋出最新《全球貿易更新》報告指出，服務貿易正在重塑全球貿易格局，但最不發達國家在數字貿易中日益邊緣化。報告顯示，過去十年，數字化可交付服務年均增長7.1%，目前已佔全球服務出口的56%。與此同時，最不發達國家在全球服務貿易中的份額降至0.6%，數字化可交付服務僅佔其服務出口的16%。報告認為，網路連線、數字支付基礎設施不足等，是制約這些最不發達國家參與數字貿易的主要障礙。報告呼籲加強數字基礎設施建設，幫助發展中經濟體，特別是最不發達國家能更充分地參與全球數字服務貿易。（央視新聞）
+
+---
+
+### 2026-09-07 03:50:04  #MKT News
+
+【UNCTAD: Least-developed countries lag in digital-deliverable services】UNCTAD says services trade is reshaping global commerce; digital-deliverable services grew 7.1% annually over the past decade and now account for 56% of global services exports. Least-developed countries’ share of global services trade has fallen to 0.6%, and digital-deliverable services represent just 16% of their services exports. UNCTAD identifies weak network connectivity and inadequate digital payments infrastructure as key constraints and calls for stepped-up digital infrastructure to help developing economies, particularly LDCs, integrate into global digital services trade.
+
+---
+
+### 2026-09-07 03:41:56  #MKT News #Commodities #Energy
+
+Iran's National Oil Products Refining and Distribution Company general manager said the country faces an average daily gasoline shortfall of 10 mln liters, although consumption is unchanged year-on-year. Domestic quota prices will remain at 1,500 tomans for the first tier and 3,000 tomans for the second; gradual price adjustments will apply only to imported gasoline. A plan also requires government officials to refrain from using cars one day per week.
+
+---
+
+### 2026-09-07 03:39:34  #MKT News #Commodities #Energy
+
+Head of Iran's state oil products refining and distribution company said measures boosted gasoline output by 5%.
+
+---
+
+### 2026-09-07 03:39:23  #MKT News
+
+The general manager of Iran's National Iranian Oil Products Refining and Distribution Company said the country is producing gasoline at maximum capacity and, unless new refineries are brought online, cannot increase output by even one liter.
+
+---
+
+### 2026-09-07 03:37:26  #MKT News
+
+Miami - Miami-Dade Fire Rescue said a Prime Air cargo plane overran the runway and struck multiple vehicles. Firefighters are assessing injuries; the number of people injured is unclear.
+
+---
+
+### 2026-09-07 03:34:15  #MKT News
+
+U.S. Transportation Secretary Duffy said Miami International Airport has suspended all operations after an Amazon cargo aircraft ran off the runway. Emergency crews are on site assessing the situation.
+
+---
+
+### 2026-09-07 03:30:44  #國際
+
+美國交通部長達菲：應急處置人員正在邁阿密國際機場勘查現場。
+
+---
+
+### 2026-09-07 03:30:34  #MKT News #BA.O #AMZN.O
+
+【Boeing 767 freighter slides off runway at Miami; FAA issues ground stop, major delays possible】A Boeing 767-300 freighter, suspected to be operated by Amazon (AMZN.O), slid off the runway at Miami International Airport on Sunday after departing Luis Muñoz Marín International Airport in San Juan, the FAA said. The FAA issued a ground stop for the airport; Transportation Secretary Duffy warned Miami International could face widespread delays and some cancellations.
+
+---
+
+### 2026-09-07 03:28:42  #公司 #國際
+
+【美聯邦航空管理局：隸屬亞馬遜的波音767貨機在邁阿密滑出跑道】一架屬於亞馬遜的飛機週日在邁阿密國際機場滑出跑道。美國聯邦航空管理局釋出宣告稱：“該航班於當地時間下午2時左右在邁阿密國際機場降落之後滑出跑道。這架波音767‑300型貨機從波多黎各聖胡安的路易斯·穆尼奧斯·馬林國際機場起飛。”美國聯邦航空管理局釋出警報，因跑道上出現故障飛機，機場已實施地面停飛指令。
+
+---
+
+### 2026-09-07 03:27:23  #國際
+
+美國交通部長達菲：邁阿密國際機場或將出現大規模延誤，部分航班可能取消。
+
+---
+
+### 2026-09-07 03:25:03  #MKT News
+
+FAA said the aircraft that ran off the runway was a Boeing 767-300 freighter that had departed Luis Muñoz Marín International Airport in San Juan, Puerto Rico.
+
+---
+
+### 2026-09-07 03:22:20  #國際
+
+美國聯邦航空管理局：（衝出跑道的）是一架波音767-300貨機，該機從波多黎各聖胡安的路易斯·穆尼奧斯·馬林國際機場起飛。
+
+---
+
+### 2026-09-07 03:21:34  #MKT News
+
+FAA to investigate aircraft runway excursion at Miami International Airport.
+
+---
+
+### 2026-09-07 03:21:31  #市場
+
+悉尼早盤交易中，美元兌G10貨幣走勢漲跌互現。
+
+---
+
+### 2026-09-07 03:21:24  #公司 #國際
+
+在美國邁阿密機場衝出跑道的是亞馬遜貨運飛機。
+
+---
+
+### 2026-09-07 03:20:03  #國際
+
+特朗普：我做這些是為了我們的國家，不是為我個人。我已經為美國在股票以及各類其他資產上賺取了數千億美元，並非為我自己。可我所做的一切，換來的卻是激進左派民主黨人的批評。這非常不公平，但又能怎麼辦呢。
+配圖：特朗普坐在橢圓形辦公室辦公桌前，面前多臺交易顯示屏，螢幕顯示：買入：英特爾20美元；當前價格 95美元。
+
+---
+
+### 2026-09-07 03:18:33  #MKT News #Market Themes #The Trump Trade
+
+Trump said he acted for the country, not himself, claiming he generated hundreds of billions of dollars in stock and other asset gains for the United States and calling ongoing criticism from left-wing Democrats unfair.
+
+---
+
+### 2026-09-07 03:16:58  #國際
+
+美國聯邦航空管理局：將對邁阿密國際機場發生的這起事件（飛機衝出跑道）展開調查。
+
+---
+
+### 2026-09-07 03:16:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Supreme National Security Council secretary said Iran reserves the right to respond to a U.S. military strike on a wedding in Kuhestak and warned that Americans should understand this.
+
+---
+
+### 2026-09-07 03:14:42  #國際
+
+伊朗國家安全委員會秘書雷扎伊：我方保留對美軍襲擊庫赫斯塔克一處婚禮現場實施回擊的權利，美國應當清楚這一點。
+
+---
+
+### 2026-09-07 03:14:10  #MKT News
+
+【French Communist Party leader Fabien Roussel announces 2027 presidential bid】On the evening of Sept. 6 local time, Fabien Roussel, national secretary of the French Communist Party, formally declared his candidacy for France's 2027 presidential election. He said he hopes to push change in France by proposing a political platform to "thoroughly change the status quo."
+
+---
+
+### 2026-09-07 03:13:54  #其他
+
+【法國共產黨全國書記魯塞爾宣佈參加2027年總統選舉】當地時間9月6日晚，法國共產黨全國書記法比安·魯塞爾正式宣佈參加2027年法國總統選舉。他表示，希望透過提出一項“徹底改變現狀的政治綱領”，推動法國發生變化。（央視新聞）
+
+---
+
+### 2026-09-07 03:13:51  #MKT News
+
+FAA says a cargo aircraft slid off the runway at Miami airport after landing.
+
+---
+
+### 2026-09-07 03:13:41  #MKT News #WTI #Impact bullish #Brent
+
+The secretary of Iran's Supreme National Security Council said the Strait of Hormuz is not a strait of war but a strait of Iranian power.
+
+---
+
+### 2026-09-07 03:13:19  #焦點 #國際
+
+美國聯邦航空管理局：一架貨運飛機在邁阿密機場降落之後滑出跑道。
+
+---
+
+### 2026-09-07 03:10:58  #國際
+
+【特朗普在社交賬號釋出圖片渲染哈爾克島遭襲，聚焦伊朗經濟惡化現狀】美國總統特朗普週日在社交媒體釋出一組圖片，展示伊朗不斷惡化的經濟狀況，還放出了襲擊伊朗石油出口關鍵樞紐哈爾克島的模擬畫面。其中一張配文“再見，哈爾克”的圖片描繪了對該島發起攻擊的場景。另外兩條帖子聚焦伊朗貨幣與通脹問題。一條寫道“伊朗貨幣已經徹底崩潰”，另一條稱“伊朗陷入惡性通貨膨脹”，配圖圖表顯示伊朗里亞爾匯率跌至約227萬里亞爾兌換一美元。
+
+---
+
+### 2026-09-07 03:08:58  #其他
+
+一架貨機在邁阿密機場衝出跑道。
+
+---
+
+### 2026-09-07 03:08:11  #國際
+
+特朗普在社交媒體上釋出三張圖片顯示，石油透過霍爾木茲海峽的流量已恢復到衝突前的水平。衝突前，每天有2000萬桶石油透過該海峽，現在這一數字已達到每天1800萬桶。
+
+---
+
+### 2026-09-07 03:07:44  #MKT News #XAUUSD #Impact bullish #DXY
+
+Iran's Supreme National Security Council secretary said Israel has already occupied parts of Lebanon and that he believes Lebanon will rise again; this time it will unleash massive fury and leave Israel with nothing.
+
+---
+
+### 2026-09-07 03:07:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Supreme National Security Council secretary said an agreement to demarcate a new shipping channel through the strategic waterway is expected to be signed in the coming days, with Iran to control vessel entry and exit.
+
+---
+
+### 2026-09-07 03:06:16  #MKT News
+
+Iran’s Supreme National Security Council secretary said Tehran has every reason not to trust the United States, will continue diplomacy and negotiations but reserves the right to remain skeptical. He accused Washington of falsely branding Iran untrustworthy and denied Iran has attacked other states, challenged political borders, or failed to meet its international commitments.
+
+---
+
+### 2026-09-07 03:05:14  #焦點 #國際
+
+【伊朗將宣佈霍爾木茲海峽禁區】伊朗最高國家安全委員會秘書雷扎伊當地時間9月6日晚表示，未來幾天，伊朗將宣佈霍爾木茲海峽區域的“禁區”——“禁區”將從美國海軍封鎖線起算，一直延伸至波斯灣內部分水域。任何進入“禁區”的船隻都將被列入伊朗的制裁名單。雷扎伊說，伊朗可以監測到美國船隻，也可以擊沉它們。而伊朗沒有擊沉美國船隻，是因為它們運載石油，一旦被擊沉將破壞環境。 雷扎伊還宣佈，伊朗與阿曼就霍爾木茲海峽船舶通行圖達成的協議“將於未來幾天內簽署”。
+
+---
+
+### 2026-09-07 03:04:27  #MKT News
+
+Iran's Supreme National Security Council secretary said claims that sanctions and an economic blockade have caused domestic shortages of basic goods are categorically false.
+
+---
+
+### 2026-09-07 03:03:39  #國際
+
+伊朗最高國家安全委員會秘書：我們完全有理由不信任美國。我們開展外交與談判，但我們有權持懷疑態度。如今美方宣稱伊朗不可信任，首先，這是謊言。我們屬於世界上最守信用的國家之一。原因在於，我們從未主動攻擊任何國家，從未挑戰他國政治邊界，並且履行了全部國際義務。
+
+---
+
+### 2026-09-07 03:03:04  #國際
+
+伊朗最高國家安全委員會秘書批評美國對伊朗的立場，稱只有伊朗順從美方要求，美國才會視伊朗為可信一方。
+
+---
+
+### 2026-09-07 03:02:37  #國際
+
+伊朗最高國家安全委員會秘書：劃定這條戰略航道新航運通道的協議預計將在未來數日內簽署，由伊朗負責管控船隻進出。此前達成的諒解協議缺少保障，調解方也無法保證協議落地執行。
+
+---
+
+### 2026-09-07 03:01:17  #國際
+
+以色列戰機空襲黎巴嫩提爾地區的曼蘇里與瓦迪茲布欽。
+
+---
+
+### 2026-09-07 02:58:09  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+Iran's Supreme National Security Council secretary said a map of shipping routes in the Strait of Hormuz agreed with Oman will be signed in the coming days.
+
+---
+
+### 2026-09-07 02:57:54  #國際
+
+伊朗最高國家安全委員會秘書：在美國不再威脅、也不攻擊伊朗的前提下，伊朗承諾維持霍爾木茲海峽通航。
+
+---
+
+### 2026-09-07 02:57:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iran's Supreme National Security Council secretary said the country is not only selling oil but the proceeds will be repatriated to Iran.
+
+---
+
+### 2026-09-07 02:56:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Supreme National Security Council secretary said Iran will only commit to keeping the Strait of Hormuz open if the US ceases threats or attacks.
+
+---
+
+### 2026-09-07 02:56:22  #國際
+
+伊朗最高國家安全委員會秘書：美國正耗費大量資金掩護五六艘船隻偷運通行，但這些船隻通常都會遭到打擊。我們尚未決定將其擊沉，因為船上裝載石油產品。一旦沉船，石油會汙染整個霍爾木茲海峽與波斯灣，這同樣會給我們帶來麻煩。不過，這些船隻無一能夠安然透過，最終都會遭受一定程度的損毀。
+
+---
+
+### 2026-09-07 02:56:08  #MKT News
+
+The secretary of Iran's Supreme National Security Council said the main flaw in the previous memorandum of understanding was placing excessive trust in mediators' assurances. Iran is pursuing diplomacy contingent on obtaining guarantees.
+
+---
+
+### 2026-09-07 02:55:55  #MKT News
+
+Iran's Supreme National Security Council secretary said the US must win Iran's trust if it wants to continue negotiations.
+
+---
+
+### 2026-09-07 02:55:34  #焦點 #國際
+
+伊朗最高國家安全委員會秘書：與阿曼商定的霍爾木茲海峽船舶航行通道圖將於未來幾日簽署。
+
+---
+
+### 2026-09-07 02:54:52  #國際
+
+伊朗最高國家安全委員會秘書：目前每天僅有七八艘船隻能夠通行海峽。美軍偶爾會護送五六艘船隻穿行阿曼附近海域，但這些船隻一般都會遭到針對，無法安然透過。
+
+---
+
+### 2026-09-07 02:54:34  #MKT News #Brent #Impact bullish #XAUUSD
+
+Secretary of Iran's Supreme National Security Council said 48 hours ago Iran conducted its first test launch of an anti-ship missile targeting destroyers over a US warship, saying the weapon inflicted "hell" on the Americans and forced them to flee.
+
+---
+
+### 2026-09-07 02:54:12  #國際
+
+伊朗最高國家安全委員會秘書：想要談判得以繼續，美國必須取得伊朗的信任。
+
+---
+
+### 2026-09-07 02:53:53  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Supreme National Security Council secretary said the US is attempting covert operations and spending significant funds to get 5-6 vessels through; such vessels are typically struck by Iran. He said Iran has not yet decided to sink those clandestine US ships because they carry oil and sinking them would cause regional environmental damage.
+
+---
+
+### 2026-09-07 02:52:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran’s Supreme National Security Council secretary said the Strait of Hormuz is completely closed, calling US President Trump’s claim that it remains open a blatant lie. He said that before the closure more than 100 vessels carried over 100 million tonnes of cargo daily; now no more than seven to eight vessels carrying Iran’s basic supplies are transiting.
+
+---
+
+### 2026-09-07 02:51:09  #國際
+
+伊朗最高國家安全委員會秘書：48小時前，我方首次在美軍軍艦上空試射一枚伊朗反艦導彈。這枚特殊導彈給美軍制造了一場“地獄”，美軍艦船隨即逃離。
+
+---
+
+### 2026-09-07 02:49:15  #國際
+
+伊朗最高國家安全委員會秘書：所謂美國經濟封鎖正在伊朗引發大規模饑荒的說法純屬彌天大謊。伊朗政府對此已經進行了長期研判與規劃，國內糧食以及生活必需品儲備充足。
+
+---
+
+### 2026-09-07 02:49:02  #國際
+
+伊朗最高國家安全委員會秘書：霍爾木茲海峽已經完全關閉，美國總統特朗普所稱海峽仍處於開放狀態的說法完全是謊言。
+
+---
+
+### 2026-09-07 02:48:04  #國際
+
+伊朗最高安全官員：未來幾日將在霍爾木茲海峽以外區域劃定禁限區，任何進入這片新海域的船隻都將被列入制裁名單。（航行）區域將從美國海軍封鎖線起始，延伸至波斯灣海域。
+
+---
+
+### 2026-09-07 02:45:06  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state media reported Iran's top security official said a restricted zone outside the Strait of Hormuz will be announced in the coming days. The zone will begin at the US Navy blockade line and extend into the Gulf region. Any vessel entering the new zone will be added to a sanctions list.
+
+---
+
+### 2026-09-07 02:41:23  #國際
+
+【賴特：美國或許無法同伊朗達成核協議】美國能源部長賴特週日在節目中表示，經過數月軍事衝突之後，即便特朗普總統一直謀求與伊朗締結核協議，但這份協議或許最終難以落地。當被問及是否有望達成核協議時，賴特稱：“有可能無法達成核協議。或許只能直接摧毀伊朗的核能力。核協議或許要等到伊朗下一屆政府上臺之後才有可能，現在我們完全無法預判。”被問到如果拿不到協議，美國打算如何阻止伊朗獲取核武器，賴特表示，美國已經透過轟炸行動重創了伊朗製造核武器的能力。
+
+---
+
+### 2026-09-07 02:37:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. energy secretary says Iran nuclear deal may not be reached in near term】ABC News: U.S. Energy Secretary Wright said on Sunday a nuclear deal with Iran may not be achievable in the near term and the U.S. may need to take military action to address threats from Tehran. Wright said, There may not be a nuclear deal, and it may come down to destroying their ability to carry out a nuclear program. He added a deal might have to wait until Iran’s next government takes office and that the timing is uncertain.
+
+---
+
+### 2026-09-07 02:36:26  #國際
+
+以色列部隊在橄欖收穫季來臨前，毀壞了約旦河西岸被佔領土瓦迪達烏克附近的橄欖樹。
+
+---
+
+### 2026-09-07 02:33:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Energy Secretary Wright said a nuclear deal with Iran may be unattainable in the near term and the US still needs to take military action to counter threats from Tehran.
+
+---
+
+### 2026-09-07 02:20:07  #其他
+
+【出口民調：極右翼德國選擇黨贏得東部薩安州選舉】德國東部薩克森-安哈爾特州（薩安州）6日舉行州議會選舉。當晚公佈的出口民調顯示，極右翼德國選擇黨（選擇黨）以44%至44.5%的得票率成為該州第一大黨。（新華社）
+
+---
+
+### 2026-09-07 02:18:53  #MKT News #XAUUSD #Impact bullish #DXY
+
+Israel's finance minister said Prime Minister NETANYAHU has ordered the evacuation of certain settlement outposts in the West Bank.
+
+---
+
+### 2026-09-07 02:18:06  #MKT News #Important
+
+CENTCOM spokesman Tim Hawkins told AP that earlier reports claiming Iran struck a U.S. unmanned vessel in the Strait of Hormuz were "completely false".
+
+---
+
+### 2026-09-07 02:16:47  #國際
+
+以色列總理內塔尼亞胡已下令撤離約旦河西岸部分定居點前哨據點。
+
+---
+
+### 2026-09-07 02:12:11  #國際
+
+【黎方稱以軍襲擊黎南部 致3人死亡】當地時間6日，黎巴嫩公共衛生部緊急行動中心發表宣告稱，當日，以色列國防軍使用無人機襲擊了黎南部納巴蒂耶地區的一個停車場，造成3人遇難。以色列方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-09-07 02:12:01  #MKT News
+
+【Trump administration again appeals to Supreme Court over mail‑in ballot restrictions】The Trump administration on Sunday asked the U.S. Supreme Court to intervene after a federal judge blocked new limits on mail‑in ballots ahead of the midterms. U.S. District Judge Indira Talwani extended an injunction barring the Postal Service from implementing an executive order by Trump affecting the November election. States have already begun sending ballots, leaving little time to change rules. This is the administration's third request to the high court; the Supreme Court has allowed the administration's plan to proceed but has not ruled on its legality. About one‑third of U.S. voters cast ballots by mail, so the dispute could materially affect control of Congress.
+
+---
+
+### 2026-09-07 02:11:59  #國際
+
+美方否認伊朗關於其在霍爾木茲海峽擊中一艘美軍無人艦艇的說法，稱該報道完全是謊言。
+
+---
+
+### 2026-09-07 02:11:18  #國際
+
+【A股縮量整理或臨近尾聲 機構看好9月中下旬行情】A股市場延續震盪整理格局。中東地緣政治擾動再起、10年期美債收益率上揚，對科技板塊形成壓制，風格再平衡仍是市場的主要特徵。券商策略展望報告認為，總體而言，海外市場系統性風險可控，但美債收益率波動與加息預期的反覆博弈，或對全球股市風險偏好形成擾動，成為短期波動的主要原因。但是，隨著半年報驗證A股企業盈利持續向好、科技板塊擁擠度逐步消化，市場底部支撐正不斷增強，A股市場進一步下行空間有限。展望後市，9月中下旬或成為反彈的重要時間視窗。
+
+---
+
+### 2026-09-07 02:06:11  #國際
+
+美國特使庫什納談及加沙：加沙的狀況已經糟糕了極長的時間。這片地方基本上是非政府組織與武裝勢力搭建起來的，長期以來都是一個反烏托邦式的區域。
+
+---
+
+### 2026-09-07 02:04:42  #國際
+
+特朗普在社交平臺釋出一張圖片，將伊朗地圖變成自己的頭像。
+
+---
+
+### 2026-09-07 02:02:06  #國際
+
+特朗普：月球屬於我們。
+
+---
+
+### 2026-09-07 01:58:16  #國際
+
+烏克蘭總統澤連斯基：感謝美國總統代表威特科夫與庫什納到訪基輔。我們已經開展多輪良好會談，今日還將繼續磋商。最重要的是為烏克蘭爭取一份體面、可靠且持久的和平。
+
+---
+
+### 2026-09-07 01:54:13  #國際
+
+烏克蘭總統澤連斯基：烏克蘭本國反導系統將於不久後投入使用。美方明年將提升愛國者反導導彈的產量。我們期盼衝突能夠結束（但願如此），但即便戰事結束，我們依舊需要這類武器。
+
+---
+
+### 2026-09-07 01:53:12  #國際
+
+特朗普釋出一張地圖，將新墨西哥州標註為“新美國”。
+
+---
+
+### 2026-09-07 01:47:33  #MKT News
+
+U.S. special envoy Witkoff said the U.S. has made roughly eight visits to Moscow, met with Putin and his team, and was treated respectfully. He said building relationships is essential to resolving such conflicts; without ties to both parties, the odds of a peaceful settlement are slim.
+
+---
+
+### 2026-09-07 01:45:48  #國際
+
+美國特使威特科夫：已經八次前往莫斯科會晤普京及其團隊，對方一直給予我們禮遇。
+
+---
+
+### 2026-09-07 01:45:44  #MKT News
+
+ZELENSKIY said without a strong battlefield posture and a solid Ukrainian position there would be nothing but an "ultimatum", but diplomatic options are now viable.
+
+---
+
+### 2026-09-07 01:45:16  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Ukraine's President Zelenskiy said he believed Ukraine had become stronger over the past year, that its forces had performed exceptionally and that this had opened opportunities for diplomacy.
+
+---
+
+### 2026-09-07 01:45:06  #國際
+
+美國特使威特科夫：對於解決此類衝突而言，各方關係至關重要。如果無法同衝突雙方建立溝通關係，那麼實現和平解決的可能性微乎其微。
+
+---
+
+### 2026-09-07 01:43:35  #國際
+
+烏克蘭總統澤連斯基：如果戰場沒有強勢姿態，烏克蘭不具備有力地位，迎來的只會是最後通牒，但如今外交途徑具備可行性。
+
+---
+
+### 2026-09-07 01:39:21  #國際
+
+【俄羅斯外長拉夫羅夫發出警告 稱德國正走向對俄宣戰】俄羅斯外交部長謝爾蓋·拉夫羅夫指責德國正走向與俄羅斯直接對抗，並批評柏林在萊比錫機場發生無人機事件後決定關閉部分外交機構。他說：“總體而言，從廣義上講，這有點像是一場真正戰爭的開始。”“我記得，在第二次世界大戰、偉大衛國戰爭爆發前，德國人也關閉了他們的外交使團，” 拉夫羅夫說，“他們又想要戰爭了。”
 
 ---
 
@@ -16560,137 +17173,5 @@ Philippine Business Confidence Turns Pessimistic — The Business Confidence Ind
 ### 2026-09-04 16:23:24  #Trading Economics #Economy #World #Food Price Index #Importance 2
 
 World Food Prices Highest Since 2022 — The FAO Food Price Index rose 1.9% to 133.3 points in August 2026, marking its second consecutive monthly increase and reaching its highest level since November 2022. The rise reflected broad-based increases across all commodity categories. Sugar prices recorded the biggest increase, jumping 11.9% to a new high since June 2025, amid growing concerns over the global sugar supply outlook in the 2026/27 season. Dairy prices went up 2.3%, driven by higher milk powder and cheese. Cereals rose 2.2% to May 2024-highs, supported by robust demand, weather-related concerns over crop prospects in key producing regions, and continued uncertainty surrounding Black Sea export flows. Meat cost increased 1% reflecting higher poultry, pig and ovine meat prices. Finally, cost for vegetable oils edged up 0.6% to its highest level since June 2022, amid higher world palm and soy oil prices, which more than offset lower quotations for sunflower and rapeseed oils.
-
----
-
-### 2026-09-04 16:21:02  #Trading Economics #Economy #Italy #Retail Sales MoM #Importance 1
-
-Italian Retail Sales Drop for 2nd Month — The value of retail sales in Italy decreased 0.4% month-on-month in July 2026, following a revised 0.2% fall in June and against market forecasts for a 0.2% increase. It marked the second consecutive monthly decline, amid lower sales of both food (-0.4% vs -0.6% in June) and non-food products (-0.4% vs 0.2%). On an annual basis, retail sales went up 0.8%, the smallest increase since September 2025, decelerating from a 3.1% rise in the previous month, as growth slowed for both food (0.3% vs 1.9%) and non-food (1.1% vs 4.0%) sales. Among non-food products, notable gains were recorded in sales of household appliances, radios, televisions, and tape recorders (6.1%) and other products (5.0%), though these were partly offset by a decline in footwear, leather goods, and travel goods (-2.8%). By distribution channel, retail sales increased at large retail outlets (1.6%) and in online commerce (2.4%).
-
----
-
-### 2026-09-04 16:15:44  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Extends Gains as Markets Await US Jobs Data — The British pound extended gains above $1.35 on Friday, rebounding from two-week lows as investors awaited fresh direction from US employment data due later in the day while continuing to digest signals from major central banks. Bank of England Chief Economist Huw Pill said on Thursday that raising interest rates now could reduce the risk of the central bank having to tighten policy more aggressively later to contain inflation, which has risen amid the fallout from the Iran war. Markets are now fully pricing in a BoE rate hike by year-end, with another increase expected by March 2027. Meanwhile, Federal Reserve Governor Christopher Waller said recent data showed signs of disinflation and that, if upcoming figures confirmed the trend, he would favor keeping interest rates unchanged at this month’s policy meeting. Markets responded swiftly, with futures pricing in roughly a 50% chance of a Fed rate hike this month, down from around 63% a day earlier.
-
----
-
-### 2026-09-04 16:10:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 2.12% — Top commodity losers are Oat (-2.12%), Canola (-1.17%) and Rapeseed (-1.16%).
-
----
-
-### 2026-09-04 16:08:14  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Gains for 2nd Day — The DAX 40 edged up 0.3% to around 26,070 on Friday after a slow start, extending modest gains for a second session. The automotive sector provided the main support, led by a 7% surge in Volkswagen shares following the board’s approval of its biggest restructuring plan in 89 years. The plan includes 50,000 job cuts and alternatives for four German plants, while also reducing the supervisory board’s influence on key decisions, where unions and Lower Saxony hold a majority. BMW and Volkswagen rose 1.7% and 1.1%, respectively. Other notable performers included Heidelberg Materials (2.3%), Infineon Technologies (1.5%) and Airbus (1.2%). Meanwhile, market participants continued to assess the outlook for the monetary policy, with the ECB expected to deliver a 25 bps rate hike next week. Developments in the Middle East also remained in focus. The index was set to decline about 1.9% this week.
-
----
-
-### 2026-09-04 16:07:56  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Underperforms — The FTSE MIB fell to around 52,000 on Friday, giving back some gains from the previous session and underperforming its regional peers, as losses among heavyweight financials weighed on the index. Shares of Monte dei Paschi di Siena fell around 0.6% after the lender received ECB approval to merge recently acquired Mediobanca (-0.6%) into the group, with investors weighing the integration of the two banks. Banca Generali also declined 0.2% despite reporting its best-ever net inflows for both August and the first eight months of the year. Other laggards included UniCredit (-1.6%), Intesa Sanpaolo (-0.5%), Banco BPM (-1.7%) and BPER Banca (-0.9%). On the flipside, technology stocks outperformed, with STMicroelectronics and Prysmian gaining 1.9% and 1.1%, respectively. On the data front, Italy’s retail sales unexpectedly fell 0.4% month-on-month in July, defying expectations for a 0.2% increase. For the week, the benchmark index is heading for a fourth consecutive decline.
-
----
-
-### 2026-09-04 16:06:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Aluminum at Over 3-Week High — Aluminum futures in the UK hovered around $3,310 per tonne, an over three-week high, amid continued supply tightness and declining inventories. The latest escalation in US-Iran hostilities has raised uncertainty over the potential return of aluminum supplies from the Persian Gulf. This came as LME inventories remained near a 36-year low, while SHFE inventories fell 3% from the previous week, underscoring tight conditions in the physical market. Meanwhile, the Alunorte plant in Brazil, the world’s largest alumina refinery outside China, temporarily cut production to 50% of capacity in August, though output was subsequently ramped back up to full capacity following a temporary terminal access agreement with its gas supplier. Some of the supply pressures could also be partly eased by planned capacity restarts and expansion projects among several producers, as well as increased Chinese exports, with shipments from the world’s largest producer rising 18.7% year-on-year in July.
-
----
-
-### 2026-09-04 16:05:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Drops by 2.56% — Top commodity loser is Lithium Carbonate (-2.56%). Gains are led by Silicon (1.09%) and Gold (0.26%).
-
----
-
-### 2026-09-04 16:04:22  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Flat as Markets Await US Jobs Data and ECB Meeting — The euro stabilized just above $1.16 on Friday as investors awaited fresh direction from US employment data due later in the day, while attention gradually shifted towards the European Central Bank’s September 10 meeting. Money markets continue to fully price in a 25-basis-point ECB rate hike to 2.5% next week, while also assigning an almost 100% probability to the deposit rate reaching 3% by June 2027, implying two further rate increases by mid-2027. On the economic data front, Germany’s factory orders rose 2.5% in July, easing from an upwardly revised 3.7% increase in June but comfortably exceeding market expectations of a 0.3% gain. Meanwhile, the dollar remained under pressure following dovish remarks from Federal Reserve Governor Christopher Waller, who said recent data showed signs of disinflation and that, if upcoming figures confirmed the trend, he would favor keeping interest rates unchanged at this month’s policy meeting.
-
----
-
-### 2026-09-04 16:00:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Drops by 1.35% — Top commodity losers are Natural Gas UK (-1.35%), Natural Gas EU (-1.25%), Heating Oil (-0.78%), Brent Oil (-0.57%) and Crude Oil (-0.48%).
-
----
-
-### 2026-09-04 15:55:02  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Extend Decline — The UK 10-year gilt yield fell further to 5.15% on Friday as investors awaited fresh direction from US employment data due later in the day while continuing to digest signals from major central banks. The global bond market found some relief on Thursday after Federal Reserve Governor Christopher Waller eased expectations of a near-term Fed rate hike, while the recent rally in oil prices also lost momentum. Gilt yields nevertheless remain elevated amid concerns over energy-driven inflation and the UK’s fiscal sustainability. Markets are now fully pricing in a Bank of England rate hike by year-end, with another increase expected by March 2027. BoE Chief Economist Huw Pill said raising interest rates now could reduce the risk of the central bank having to tighten policy more aggressively later to contain inflation, which has risen amid the fallout from the Iran war.
-
----
-
-### 2026-09-04 15:52:35  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Set for 4th Weekly Decline — The CAC 40 edged up 0.1% to around 8,293 on Friday, building on modest gains from the previous session as investors pared expectations for a Federal Reserve rate hike later this month. Federal Reserve Governor Christopher Waller indicated he could back a pause this month if inflation continues to ease, leading markets to scale back bets for a quarter-point rate hike to roughly even odds from about 70% earlier this week. On the economic front, final estimates showed France’s Construction PMI fell to 37.3 in August from 41.5 in July, pointing to a steeper downturn in the sector and marking the sharpest contraction since May 2020. On the corporate front, Legrand jumped 3.2% after Deutsche Bank raised its price target to €160 from €150, citing exceptionally strong organic growth momentum despite the company's significant exposure to the still-weak building sector. Over the week, the CAC 40 remains on course for a fourth consecutive weekly decline.
-
----
-
-### 2026-09-04 15:51:35  #Trading Economics #Markets #Greece #Stock Market #Importance 0
-
-Stocks in Greece Hit Near 17-year High — Athens General increased to 2704.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 2.77%, and in the last 12 months, it increased 32.92%.
-
----
-
-### 2026-09-04 15:47:46  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Bund Yields Edge Higher as Focus Shifts to US Jobs Data — Germany’s 10-year Bund yield edged higher to 3.36% on Friday after falling in the previous session, as investors awaited fresh direction from US employment data due later in the day, while attention gradually shifted towards the European Central Bank’s September 10 meeting. The global bond market found some relief on Thursday after Federal Reserve Governor Christopher Waller eased expectations of a near-term Fed rate hike, sending the dollar lower, while the recent rally in oil prices also lost some momentum. Bond yields, nevertheless, remain elevated amid persistent concerns over energy-driven inflation, higher interest rates and fiscal sustainability in countries including France and the UK. Money markets continue to fully price in a 25-basis-point ECB rate hike to 2.5% next week. Markets are also pricing in an almost 100% probability of the deposit rate reaching 3% by June 2027, implying two further rate increases by mid-2027.
-
----
-
-### 2026-09-04 15:47:22  #Trading Economics #Economy #Italy #Construction PMI #Importance 1
-
-Italy Construction Activity Falls to 4-Year Low — The S&P Global Italy Construction PMI fell to 41.7 in August 2026 from 49.1 in the previous month, marking its fastest fall since August 2022, as construction activity declined sharply amid a solid drop in new work. The downturn was concentrated in housing and commercial construction, while civil engineering activity fell only modestly. New orders declined for the fifth time in six months, with firms citing weaker demand, geopolitical uncertainty, permit delays, staff shortages, and the end of the National Recovery and Resilience Plan (PNRR). Purchasing activity fell at its fastest pace in over three and a half years, while supply-chain pressures intensified. Meanwhile, cost inflation eased to its softest pace since the start of the year. Employment continued to rise slightly, but subcontractor use fell sharply. Business confidence returned to positive territory, supported by strong order pipelines, though concerns over the PNRR's end and weaker investment persisted.
-
----
-
-### 2026-09-04 15:45:57  #Trading Economics #Economy #Slovakia #GDP Annual Growth Rate #Importance 1
-
-Slovakia GDP Growth Revises Slightly Higher — Slovakia’s economy grew by 0.8% year-on-year in the second quarter of 2026, slightly above the preliminary estimate but edging down from a 0.9% expansion in Q1. The largest positive contribution came from the wholesale and retail trade, transport, accommodation, and food service sectors, expanding 2.3% and accounting for 21.8% of total gross value added. Industry, representing 17.5% of GDP, recorded more modest growth of 0.3%. On the expenditure side, domestic demand was the main driver, with government consumption returning to growth (1.7% vs -0.4%), while household spending eased (0.6% vs 1.1%). Gross fixed capital formation fell 0.3%. Meanwhile, exports of goods and services increased 3.0%, while imports rose 3.7%, with the foreign trade balance reaching a surplus of more than EUR 0.5 billion, its highest positive value since the first quarter of 2024. On a seasonally adjusted quarterly basis, the economy expanded 0.2%, matching the pace recorded in the previous quarter.
-
----
-
-### 2026-09-04 15:44:50  #Trading Economics #Economy #France #Construction PMI #Importance 1
-
-French Construction Sector Suffers Setback — The S&P Global France Construction PMI slipped to 37.3 in August 2026 from 41.5 in July, signalling a faster contraction in construction activity across France, the sharpest since May 2020. Activity fell across all three construction categories, with residential and commercial construction recording the largest declines. New orders continued to fall, posting their fastest decline in four months and extending the downturn since April 2022. Firms cut jobs for the 28th month running, with the pace of reductions accelerating. Purchasing volumes declined as well, though the fall was the weakest in six months. Meanwhile, input cost inflation remained well above its survey average and picked up for the first time since April. Supply chain conditions remained challenging, but delivery delays eased to their lowest in six months. Lastly, French constructors grew more pessimistic about the year ahead, with expectations for business activity falling to their lowest since April.
-
----
-
-### 2026-09-04 15:42:40  #Trading Economics #Economy #Germany #Construction PMI #Importance 1
-
-Germany Construction Activity Hits 8-Month High — The S&P Global Germany Construction PMI Total Activity Index rose sharply to 48.7 from 42.1 in July, marking an eight-month high and the slowest contraction since the downturn began at the start of the year. The improvement was led by commercial construction, where activity increased for the first time in more than a year, while residential activity declined at a much slower pace. Business confidence also improved slightly. However, civil engineering returned to contraction after a slight increase in July, while new orders continued to fall as high prices and borrowing costs weighed on demand. Employment declined for a seventh consecutive month, with job losses accelerating to their fastest pace since April. Input cost inflation rose for the first time in four months, reversing July’s five-month low, while supplier delivery times lengthened. Looking ahead, constructors remained downbeat, citing weak new orders, high costs, squeezed incomes and Middle East war risks.
-
----
-
-### 2026-09-04 15:38:50  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Cautious, Set for Weekly Losses — European stocks were little changed on Friday, with both the STOXX 50 and STOXX 600 hovering around the flatline after posting modest gains in the previous session. Investors continued to assess the monetary policy outlook, with the ECB widely expected to raise borrowing costs by 25 basis points next week, while ongoing tensions in the Middle East continued to weigh on sentiment. Meanwhile, traders awaited the US jobs report due later in the day for further clues on the Fed’s next policy moves. Automakers were among the top performers, led by Volkswagen, which surged 5.3% after reaching a major turnaround agreement that helped avert an escalation with unions and shareholder Lower Saxony. Technology stocks also advanced, with ASML Holding rising 1% and Infineon gaining 1.3%. In contrast, chemical and financial stocks were among the biggest laggards, with UniCredit falling 1.5%. For the week, the STOXX 50 was down 1.6%, while the STOXX 600 declined 0.9%.
-
----
-
-### 2026-09-04 15:37:40  #Trading Economics #Economy #Euro Area #Construction PMI #Importance 1
-
-Eurozone Construction Downturn Accelerates in August — The S&P Global Eurozone Construction PMI fell to 43.0 in August 2026 from 44.3 in July, signaling a sharper contraction in construction activity. Total activity has now declined for 52 consecutive months, with the downturn led by steeper contractions in France and Italy, while Germany recorded its softest decline of 2026 so far. Housing saw the sharpest contraction, followed by commercial construction, while civil engineering also declined. Meanwhile, new orders fell at the fastest pace since April, prompting further job cuts and reductions in purchasing activity. Employment declined for a seventh month, with job shedding accelerating to a four-month high, although staffing in Italy rose for a second month. Cost pressures eased further, with input cost inflation falling to a six-month low, while subcontractor rate inflation reached its weakest since February. Looking ahead, business sentiment remained pessimistic at a three-month low, with French firms the most downbeat.
-
----
-
-### 2026-09-04 15:34:12  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Steady as Markets Await US Jobs Data — London’s FTSE 100 was little changed at around 10,830 points on Friday as investors adopted a cautious stance ahead of closely watched US jobs data. Bonds, meanwhile, found some relief after Federal Reserve Governor Christopher Waller eased expectations of a near-term rate hike, sending the dollar lower. In the UK, Bank of England Chief Economist Huw Pill argued that raising interest rates now could reduce the risk of the central bank having to tighten policy more aggressively later to contain inflation, which has risen amid the fallout from the Iran war. Mining stocks were among the weakest performers, with Anglo American, Rio Tinto, Glencore and Antofagasta each falling between 0.6% and 1%. Among individual movers, Barclays edged lower after announcing plans to more than double its banker headcount in its Singapore private-banking operation by 2030.
-
----
-
-### 2026-09-04 15:32:10  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.03% Higher — The FTSE 100 Index is gaining 3 points or 0.03 percent on Friday. Leading the gains are Barratt Redrow (1.85%), Vodafone (1.78%) and Halma (1.73%). Top losers are Experian (-3.60%), Coca-Cola (-1.44%) and British American Tobacco (-1.40%).
-
----
-
-### 2026-09-04 15:31:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.18% Higher — The DAX Index is picking up 48 points or 0.18 percent on Friday. Gains are led by Volkswagen (5.53%), Porsche Automobil (3.46%) and Infineon (1.71%). Biggest losers are Daimler Truck Holding AG (-1.16%), BASF (-0.92%) and Commerzbank (-0.87%).
 
 ---
