@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-06 09:07:20",
-  "count": 14264,
+  "updated": "2026-09-06 09:11:13",
+  "count": 14267,
   "items": [
+    {
+      "id": "mkt:01a07444-432f-7118-84b5-9e6841256dfa",
+      "time": "2026-09-06 09:10:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Al-Hadath reported Houthi forces launched missile and drone strikes on Taiz in Yemen."
+    },
+    {
+      "id": "5079041",
+      "time": "2026-09-06 09:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：比亞迪預計將在一週之內公佈其馬來西亞市場擴張計劃。"
+    },
+    {
+      "id": "mkt:01a07442-dd91-7118-84b5-92d42b6f7e2e",
+      "time": "2026-09-06 09:08:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Acting Treasury sanctions chief Gene Lange travelled with Witkoff and Kushner, attended a preparatory meeting with Putin envoy Kirill Dmitriev but did not join the meeting with Putin. Lange’s participation indicates U.S. sanctions were among the topics discussed."
+    },
     {
       "id": "5079040",
       "time": "2026-09-06 09:06:10",
