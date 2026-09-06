@@ -1,7 +1,17 @@
 {
   "date": "2026-09-07",
-  "count": 194,
+  "count": 195,
   "items": [
+    {
+      "id": "mkt:01a0788e-c335-7118-84bc-bf3f3f1f7090",
+      "time": "2026-09-07 05:10:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Rezaei, secretary of Iran's Supreme National Security Council, said proceeds from oil sales are all returned to Iran."
+    },
     {
       "id": "5079685",
       "time": "2026-09-07 05:02:58",
