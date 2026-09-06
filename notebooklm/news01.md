@@ -1,7 +1,733 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-06 22:33:30_
-_本檔包含 2698 則快訊，約 553841 字_
+_更新時間：2026-09-07 01:39:42_
+_本檔包含 2765 則快訊，約 553646 字_
+
+---
+
+### 2026-09-07 01:36:29  #MKT News
+
+Kushner said Putin has a different vision for Russia that could also be realized after the conflict ends.
+
+---
+
+### 2026-09-07 01:34:45  #國際
+
+美國特使庫什納談及俄烏衝突：普京對他的國家有著不同的訴求，而這些訴求在衝突結束之後同樣能夠得以實現。
+
+---
+
+### 2026-09-07 01:34:10  #MKT News #Brent #Impact bullish #DXY #XAUUSD
+
+Kushner said a new technocratic Palestinian government has been formed; it is neither the Palestinian Authority nor Hamas. He warned the government cannot be installed if armed factions remain. He added that realization is growing that Gaza's level of militarization exceeds prior understanding and that demilitarizing Gaza will not be easy.
+
+---
+
+### 2026-09-07 01:30:54  #MKT News
+
+Israel Broadcasting Corporation reported that after destroying Ali Taher’s tunnel, Israeli forces will withdraw from the "yellow line" and garrison the "gray line," 2–4 km from the Israeli border.
+
+---
+
+### 2026-09-07 01:27:58  #市場 #焦點
+
+奈飛暗盤漲超1%，現報79.2054美元。
+
+---
+
+### 2026-09-07 01:27:50  #MKT News
+
+Kushner said he had delivered large quantities of aid to Gaza, that malnutrition there is now among the lowest in the world, and that a plan to rebuild Gaza is in place, though reconstruction will take time.
+
+---
+
+### 2026-09-07 01:26:06  #MKT News
+
+Kushner said Trump has a record of accomplishing the impossible. He said the previous administration did not visit Russia; only the CIA director visited once.
+
+---
+
+### 2026-09-07 01:23:33  #國際
+
+美國特使庫什納談及俄羅斯：特朗普素有完成不可能之事的履歷。上一屆政府並未出訪俄羅斯，僅由中情局局長進行過一次訪問。
+
+---
+
+### 2026-09-07 01:20:47  #國際
+
+美國特使庫什納談及加沙：我們向加沙大量輸送援助物資，如今當地已躋身全球營養不良率最低的地區之列。我們有重建加沙的方案，這些事情需要時間。
+
+---
+
+### 2026-09-07 01:20:03  #MKT News
+
+U.S. presidential envoy Witkoff said he first met Russian President Putin to ascertain his position, held pragmatic, in-depth talks, and relayed the discussions to Ukrainian President Zelensky; he said he is confident the matter can be properly resolved.
+
+---
+
+### 2026-09-07 01:19:15  #國際
+
+美國特使庫什納談及加沙：將組建一個既不屬於巴勒斯坦民族權力機構、也不屬於哈馬斯的巴勒斯坦技術官僚新政府。如果武裝勢力存在，該政府就無法進駐。我們逐步瞭解到加沙軍事化的規模，其程度超乎想象，實現加沙非軍事化絕非易事。
+
+---
+
+### 2026-09-07 01:18:53  #國際
+
+美國特使威特科夫：我們先會見了俄羅斯總統普京，需要摸清他的立場。我們與他開展了務實深入的會談，並將相關情況告知了澤連斯基。我們有信心此事能夠得到妥善解決。
+
+---
+
+### 2026-09-07 01:15:16  #MKT News #DAX #Impact bearish #EURUSD #XAUUSD #Impact bullish
+
+【AfD posts large lead in Saxony‑Anhalt state election】Sept 6 — Exit poll in Saxony‑Anhalt state election shows Alternative for Germany (AfD) 44.5%, versus 20.8% in 2021; the CDU led by Merz falls to 18.5% from 37.1% in 2021. Initial seat projection for the 83‑seat state parliament gives AfD 39 seats, three short of an absolute majority. Other mainstream parties have ruled out joining an AfD‑led coalition, leaving AfD’s entry into the state government uncertain even if it becomes the largest party. AfD said it will seek cooperation with forces willing to implement its policies, stressing migration and domestic security as non‑negotiable priorities; leader Weidel said the party has a clear governing mandate and will engage with parties that share its policy positions.
+
+---
+
+### 2026-09-07 01:11:13  #其他
+
+【德國薩安州選舉極右翼政黨大幅領先】9月6日，德國東部薩克森-安哈爾特州（薩安州）舉行州議會選舉。最新出口民調顯示，極右翼的德國選擇黨得票率44.5%，較2021年的20.8%大幅躍升。德國總理默茨所在的基民盟得票率從2021年的37.1%驟降至18.5%。這對自2002年以來一直執掌該州的基民盟而言是一次重挫。 首輪議席預測顯示，薩安州議會共83席，德國選擇黨預計將獲得39席，距離單獨執政所需的絕對多數席位還差3席。由於德國其他傳統主流政黨此前均已排除加入由德國選擇黨領導的執政聯盟的可能性，如果目前的議席格局最終得到確認，該黨即使成為州議會第一大黨，能否進入州政府仍存在較大不確定性。 德國選擇黨方面表示，將向“所有希望推行更好政策的有生力量”伸出合作之手，同時強調移民和國內安全等議題是不可談判的底線。該黨領導人魏德爾稱，該黨擁有“明確的執政授權”，將與任何能在政策立場上找到共識的理性政黨展開對話。 與基民盟聯合執政的社民黨聯合主席、德國副總理兼財長克林拜爾表示，薩安州選舉結果是對聯邦政府的一個警示，值得聯邦政府反思其政策。 本月，德國東北部的梅克倫堡-前波莫瑞州也將舉行地方選舉，德國選擇黨的民調支援率也位居第一。（CCTV國際時訊）
+
+---
+
+### 2026-09-07 01:09:19  #MKT News
+
+Kushner said there are no permanent enemies and no permanent allies in the world.
+
+---
+
+### 2026-09-07 01:08:43  #MKT News #Market Regions #Europe & UK
+
+【Zelenskiy: Russia-Ukraine war unlikely to end soon】Ukrainian President Zelenskiy met in Kyiv with a US envoy and Jared Kushner on Sunday; national security chiefs from the UK, France and Germany later joined. Zelenskiy said the US, Ukraine and European partners agreed to hold another meeting, timing and venue to be determined. The US envoy said there had been progress in Moscow and new proposals were brought to Kyiv; Zelenskiy declined to detail them but said discussions also covered a post-war prosperity plan. He said territorial issues, including Russian demands for more of eastern Donbas, should be resolved at leader level. Zelenskiy said Ukraine is prepared for the conflict to extend into another harsh winter and is seeking allied support in a package that includes air-defence reinforcements and energy supplies, notably US LNG.
+
+---
+
+### 2026-09-07 01:05:19  #國際
+
+美國特使庫什納：世上沒有永恆的敵人，也沒有永恆的盟友。
+
+---
+
+### 2026-09-07 01:01:02  #其他
+
+【江西遂川一地存在滑坡風險 169人已全部安全轉移】受連日持續強降雨影響，江西遂川縣大汾鎮和坪村有山體開裂，存在滑坡風險。為確保群眾生命安全，當地連夜對存在隱患的三個村民小組共計87戶169名群眾進行緊急轉移。（央視新聞）
+
+---
+
+### 2026-09-07 00:57:27  #其他
+
+【寧夏釋出山洪災害藍色預警 多地釋出大霧橙色預警】據寧夏氣象部門訊息，6日20時至7日20時，全區陰有小到中雨（10～20毫米），靈武市東南部、利通區南部、紅寺堡區、鹽池縣、同心縣、海原縣、西吉縣有中到大雨（20～40毫米），其中鹽池縣、同心縣、紅寺堡區、海原縣、西吉縣的部分鄉鎮達50毫米以上，並伴有小時雨強10～30毫米的短時強降水。為此，寧夏回族自治區水利廳與寧夏回族自治區氣象局9月6日14時50分聯合釋出山洪災害氣象風險藍色預警（四級預警）。預計9月6日20時到7日20時，靈武市東南部、利通區南部、紅寺堡區、鹽池縣、同心縣、海原縣、西吉縣等地區可能發生山洪災害，請注意防範。（央視新聞）
+
+---
+
+### 2026-09-07 00:57:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran warns of 'faster, fiercer, more painful' response to US strikes】Iran parliament speaker Ghalibaf said Iran will adopt a higher-intensity military posture in a war with the US, warning any infringement on Iranian interests or security will receive a “faster, fiercer, more painful” response. He reiterated that future retaliation would no longer be proportional. Ghalibaf acknowledged Iran is under severe economic pressure from US-led comprehensive sanctions and isolation, citing sharp exchange-rate swings, inflation, unemployment and market management as fundamental challenges that have hit livelihoods. He said Tehran must boost domestic production and use technology to design short-term and permanent solutions.
+
+---
+
+### 2026-09-07 00:54:56  #MKT News
+
+【Yemen government forces, Houthi fighters clash; at least 117 killed】Clashes between Yemen government forces and Houthi fighters in Taiz and Hodeidah provinces entered a fourth day on the 6th, with medical sources saying at least 117 people have been killed. A senior medic attached to government troops on the western coastal front said 54 government soldiers have died since the fighting began on the 3rd and several more were wounded. Medical staff at a Houthi-controlled hospital in western Hodeidah reported 63 Houthi fatalities. Fighting remains active with no sign of abating.
+
+---
+
+### 2026-09-07 00:52:22  #市場 #國際
+
+【俄外交部 ：高市要求俄拆除紀念碑的言論“荒謬且無視歷史”】俄羅斯外交部發言人扎哈羅娃6日回應日本首相高市早苗要求俄拆除戰勝軍國主義日本的紀念碑言論時說，這如同要求“不要颳風和太陽停止發光”一樣荒謬，不要把無視本國曆史的“病”傳染給其他國家。俄遠東哈巴羅夫斯克市4日為一座紀念戰勝軍國主義日本的紀念碑舉行揭幕儀式。該紀念碑是俄目前最大的紀念戰勝軍國主義日本的紀念碑，由俄羅斯軍事歷史學會與哈巴羅夫斯克邊疆區政府合作建成。紀念碑中央是一尊15米高的蘇聯士兵雕像，代表擊敗日本關東軍主力的蘇聯紅軍。士兵手持長槍，旁邊一座繪有菊花圖案的界碑被砸成兩半。扎哈羅娃6日表示：“我們的領土由先輩守護下來，我們的歷史基於事實，我們的記憶鐫刻在紀念碑上。”扎哈羅娃特別指出，日本方面無視本國曆史，別把這種“病”傳染給其他國家。俄國家杜馬（議會下院）議員奧列格·馬特維切夫稱，二戰是以日本無條件投降結束的，哈巴羅夫斯克的紀念碑正是為此設立，在這一大背景下，日方要求拆除這座紀念碑“很可笑”。俄羅斯軍事歷史學會副主席奧夫西延科表示，該紀念碑上被搗毀的菊花圖案，正是軍國主義日本的象徵，如此設計紀念碑是正確和符合史實的。 (央視新聞)
+
+---
+
+### 2026-09-07 00:51:08  #MKT News
+
+【129 countries and regions to seek opportunities at 26th China investment and trade fair】The 26th China International Investment and Trade Fair will be held Sept. 8-11 in Xiamen, Fujian. The event has attracted participants from 129 countries and regions and 30 international organizations, with more than 1,200 government agencies and business delegations registered to attend.
+
+---
+
+### 2026-09-07 00:50:20  #其他
+
+德國基民盟秘書長關於薩安州選舉表態：不與極右翼和極左翼合作。
+
+---
+
+### 2026-09-07 00:48:57  #其他
+
+【129個國家和地區客商投洽會上尋商機】第二十六屆中國國際投資貿易洽談會將於9月8日至11日在福建廈門舉辦。本屆投洽會吸引了來自129個國家和地區、30個國際組織的1200多個政府官方機構、工商企業團組報名參會。（新華社）
+
+---
+
+### 2026-09-07 00:48:19  #MKT News
+
+Kushner, Trump’s son-in-law, said he is working with Hamas to advance its disarmament and has reached agreement with Israel on the end state for a Gaza plan.
+
+---
+
+### 2026-09-07 00:47:42  #其他
+
+英國海上貿易行動辦公室稱，過去48小時共有59艘船舶駛過霍爾木茲海峽。
+
+---
+
+### 2026-09-07 00:47:26  #國際
+
+【Polymarket交易員：美伊近期外交會談可能性極低】鑑於美伊中東局勢近期升級，雙方已在霍爾木茲海峽針對油輪展開輪番報復性打擊，Polymarket平臺交易員目前預判美伊短期內不太可能舉行外交會晤；交易員評估，2026年9月30日前雙方舉行此類會談的機率為7%。
+
+---
+
+### 2026-09-07 00:46:41  #MKT News
+
+UK Maritime Trade Operations said 59 vessels transited the Strait of Hormuz in the past 48 hours.
+
+---
+
+### 2026-09-07 00:45:36  #其他
+
+德國社民黨聯合領導人就薩安州選舉結果表態：這是對聯邦政府發出的訊號。
+
+---
+
+### 2026-09-07 00:43:45  #MKT News
+
+U.S. presidential envoy Witkoff said Russia and Ukraine should make concessions to end the war.
+
+---
+
+### 2026-09-07 00:43:45  #其他
+
+德國社民黨聯合領導人就薩安州選舉表示：今晚是一個轉折點，許多人感到恐懼，這是一個令我感到悲傷的夜晚。
+
+---
+
+### 2026-09-07 00:42:22  #MKT News
+
+Kushner said President Trump hopes to establish a framework for comprehensive, lasting peace, not merely to end the current war in Ukraine.
+
+---
+
+### 2026-09-07 00:41:53  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Ukrainian President Zelenskiy said the land issue is the main obstacle and can only be resolved at the leadership level.
+
+---
+
+### 2026-09-07 00:41:30  #其他 #焦點
+
+德國選擇黨聯合主席魏德爾：我們擁有明確的執政授權。
+
+---
+
+### 2026-09-07 00:40:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. energy secretary says boosting supply, not export curbs, is path to lower fuel prices】U.S. Energy Secretary Wright said the Trump administration's priority is to increase crude and fuel supply rather than restrict U.S. oil exports. He said officials are considering measures to help consumers but currently favor maximizing output. Retail diesel hit a record high, with AAA reporting an average $5.90/gal on Saturday, and Wright called diesel supply "challenging", citing oil-shipping disruptions and reduced refining capacity from the war between Iran and Russia, plus drone strikes on Russian refineries and Moscow's diesel export ban.
+
+---
+
+### 2026-09-07 00:37:42  #MKT News
+
+【Russian foreign ministry says Takaichi's call to remove victory monument 'absurd, ignores history'】Russian Foreign Ministry spokeswoman Zakharova on the 6th dismissed Japanese Prime Minister Takaichi Sanae's demand that Russia remove a monument commemorating the defeat of militarist Japan as 'absurd' and 'ignoring history', likening it to asking the wind not to blow or the sun to stop shining and saying the 'disease' of denying one's own history should not be spread to other countries.
+
+---
+
+### 2026-09-07 00:37:24  #其他
+
+【江西遂川縣明坑村泥石流災害現場道路已搶通】總檯記者從中國安能第二工程局瞭解到，從遂川縣明坑村通往石下組泥石流災害現場的道路於9月6日23時搶通。中國安能第二工程局共投入35名搶險隊員，5臺挖機、1臺裝載機，連續作業15小時，搶通了明坑村到石下組泥石流災害核心現場600米被泥石流沖毀的道路。災害發生後，救援人員從明坑村到災害現場只能徒步進入，道路搶通後，將極大縮短人員、裝置進入災害現場進行搶險救援的時間，為後續的人員搜救工作打下堅實基礎。（央視新聞）
+
+---
+
+### 2026-09-07 00:33:10  #MKT News #WTI #Impact bearish #Brent
+
+US Energy Secretary wright said the Trump administration is focused on boosting crude oil and fuel supplies, not on restricting U.S. oil exports.
+
+---
+
+### 2026-09-07 00:31:37  #國際
+
+美國能源部長賴特：特朗普政府的工作重點是增加原油與成品油供應，而非限制美國石油出口。
+
+---
+
+### 2026-09-07 00:30:14  #MKT News
+
+The co‑leader of Germany's Choice party said the party secured a historic victory in the Saxony‑Anhalt election today and has a clear mandate to govern. The co‑leader said the party will open talks with all parties and offer cooperation to any willing partner, but will not abandon its values to gain power.
+
+---
+
+### 2026-09-07 00:29:56  #其他
+
+出口民調顯示，極右翼德國選擇黨在德國州選舉中支援率飆升。
+
+---
+
+### 2026-09-07 00:27:12  #MKT News
+
+German poll shows far-right Alternative for Germany (AfD) at 44.5% support in Saxony-Anhalt state election.
+
+---
+
+### 2026-09-07 00:23:51  #其他
+
+市場資訊：東京證交所退市數量將連續第三年創下新高。
+
+---
+
+### 2026-09-07 00:20:51  #國際
+
+【烏克蘭結束與美特使第一階段會談 美方稱會談令人鼓舞】據烏克蘭國家通訊社6日報道，烏克蘭總統澤連斯基率領的談判團隊與美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團在基輔結束了第一階段會談。威特科夫在會後表示，此次會談“令人鼓舞”。當地時間17時許，雙方結束歷時3小時左右的第一階段會談。據外媒報道，威特科夫在會談後說，此次會談“務實、很重要，我們感到非常鼓舞”，他表示期待取得更多進展。（新華社）
+
+---
+
+### 2026-09-07 00:17:58  #MKT News
+
+The Trump administration on Sunday filed another appeal to the US Supreme Court seeking immediate enforcement of the US Postal Service's new mail-ballot rule for the November election.
+
+---
+
+### 2026-09-07 00:15:26  #國際
+
+伊朗警告，將對美國的襲擊做出“更迅速、更猛烈、更具殺傷力”的回擊。
+
+---
+
+### 2026-09-07 00:13:36  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Ukrainian President Zelenskiy said the conflict with Russia could continue through the winter.
+
+---
+
+### 2026-09-07 00:11:45  #其他
+
+德國基民盟秘書長：我們不會與極右翼極端分子合作。
+
+---
+
+### 2026-09-07 00:10:47  #其他
+
+【尼泊爾泥石流已致1353人死亡】據尼泊爾警方公佈的資料，截至當地時間9月6日20時，該國泥石流受災地區已發現1353具遇難者遺體。8月26日，尼泊爾邊境地區突發冰川崩塌引發嚴重泥石流災害，造成重大人員傷亡。（央視新聞）
+
+---
+
+### 2026-09-07 00:10:28  #MKT News
+
+U.S. presidential envoy Witkoff plans to visit Norway and Canada to discuss anti-ballistic missile weapons.
+
+---
+
+### 2026-09-07 00:10:22  #國際
+
+烏克蘭總統澤連斯基：計劃前往挪威、加拿大討論反導武器事宜。
+
+---
+
+### 2026-09-07 00:10:04  #其他
+
+【葉門政府軍與胡塞武裝交火造成至少117人死亡】葉門政府軍與胡塞武裝在塔伊茲省和荷臺達省持續交火6日進入第4天。據雙方醫療方面人士透露，此輪交火已造成至少117人死亡。（新華社）
+
+---
+
+### 2026-09-07 00:09:40  #其他
+
+德國選擇黨聯合領導人：不會為了執政而放棄我們的價值觀。
+
+---
+
+### 2026-09-07 00:09:20  #其他
+
+德國選擇黨聯合領導人：將向任何願意與我們合作的政黨伸出橄欖枝。
+
+---
+
+### 2026-09-07 00:08:44  #其他
+
+德國選擇黨聯合領導人就薩安州選舉表態：我們將與所有政黨展開對話。
+
+---
+
+### 2026-09-07 00:08:40  #其他
+
+德國選擇黨聯合領導人就薩安州選舉表態：我們擁有明確的執政授權。
+
+---
+
+### 2026-09-07 00:08:35  #其他
+
+德國選擇黨聯合領導人就薩安州選舉表示：今天取得了歷史性勝利。
+
+---
+
+### 2026-09-07 00:07:31  #國際
+
+烏克蘭總統澤連斯基：領土問題需要在領導層層面解決。
+
+---
+
+### 2026-09-07 00:07:21  #焦點 #國際
+
+烏克蘭總統澤連斯基：看來與俄羅斯的衝突將在冬季繼續。
+
+---
+
+### 2026-09-07 00:07:19  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
+
+U.S. presidential envoy Witkoff said the U.S. seeks a diplomatic, not military, resolution to the conflict.
+
+---
+
+### 2026-09-07 00:07:09  #國際
+
+烏克蘭總統澤連斯基：關注冬季防空、能源和美國液化天然氣專案。
+
+---
+
+### 2026-09-07 00:07:08  #MKT News
+
+Kushner said he hopes talks involving Ukraine, Russia and the US can resume in a trilateral format.
+
+---
+
+### 2026-09-07 00:06:48  #國際
+
+烏克蘭總統澤連斯基：A計劃是外交手段，B計劃是增強軍事實力。
+
+---
+
+### 2026-09-07 00:06:38  #國際
+
+烏克蘭總統澤連斯基：美國、烏克蘭和歐洲方面將再次舉行會議。
+
+---
+
+### 2026-09-07 00:06:27  #MKT News #Important
+
+Trump's son-in-law Kushner: US is constructing a "peace plan".
+
+---
+
+### 2026-09-07 00:06:24  #國際
+
+烏克蘭總統澤連斯基：美烏雙方團隊討論了防空導彈供應以及冬季援助一攬子方案。
+
+---
+
+### 2026-09-07 00:06:07  #國際
+
+烏克蘭總統澤連斯基：美烏兩國團隊討論了對基輔的安全保障、經濟保障以及繁榮計劃。
+
+---
+
+### 2026-09-07 00:05:27  #焦點 #國際
+
+烏克蘭總統澤連斯基：我們必須盡一切努力促成與俄羅斯的三方會談，要看俄方作何表態。
+
+---
+
+### 2026-09-07 00:05:23  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish #WTI
+
+U.S. presidential envoy Witkoff said he is optimistic about peace talks between Moscow and Kyiv.
+
+---
+
+### 2026-09-07 00:05:05  #國際
+
+烏克蘭總統澤連斯基：美烏雙方團隊討論了基輔的安全保障、經濟保障以及繁榮計劃。
+
+---
+
+### 2026-09-07 00:05:03  #MKT News
+
+Ukrainian President Zelenskiy said Americans and Europeans have noticed that Ukraine has become stronger.
+
+---
+
+### 2026-09-07 00:05:00  #國際
+
+烏克蘭總統澤連斯基：美歐方面已經注意到烏克蘭實力有所增強。
+
+---
+
+### 2026-09-07 00:04:51  #MKT News
+
+Ukraine President ZELENSKIY said Kyiv must make every effort to facilitate trilateral talks with Russia and pay close attention to Russia’s statements.
+
+---
+
+### 2026-09-07 00:03:56  #MKT News
+
+ZELENSKIY: US and Ukrainian teams discussed security and economic guarantees for Kyiv and a prosperity plan.
+
+---
+
+### 2026-09-07 00:03:53  #國際
+
+烏克蘭總統澤連斯基：與美方代表團的談判極具實質內容。
+
+---
+
+### 2026-09-07 00:03:39  #國際
+
+美國特使威特科夫：我們尋求透過外交途徑而非軍事手段解決俄烏這場衝突。
+
+---
+
+### 2026-09-07 00:03:33  #MKT News
+
+Ukrainian President Zelenskiy said U.S. and Ukrainian teams discussed air-defense missile supplies and winter support plans.
+
+---
+
+### 2026-09-07 00:03:26  #國際
+
+美國特使庫什納稱，美國正在著手製定一份“和平方案”。
+
+---
+
+### 2026-09-07 00:03:20  #國際
+
+美國特使庫什納稱，他希望談判能恢復為烏克蘭、俄羅斯、美國參與的三方框架。
+
+---
+
+### 2026-09-07 00:03:15  #國際
+
+美國特使威特科夫表示，他對在莫斯科與基輔舉行的和談持樂觀態度。
+
+---
+
+### 2026-09-07 00:03:10  #MKT News
+
+Ukraine President Zelenskiy said talks with the US team are very important and expressed hope a US peace-negotiation representative can return to Kyiv.
+
+---
+
+### 2026-09-07 00:02:52  #國際
+
+烏克蘭總統澤連斯基：希望美國和平談判代表重返基輔。
+
+---
+
+### 2026-09-07 00:02:25  #MKT News
+
+Exit poll in Saxony-Anhalt shows Chancellor MERZ's CDU at 18.5%.
+
+---
+
+### 2026-09-07 00:01:59  #其他
+
+德國民調顯示，極右翼選擇黨在薩克森-安哈爾特州選舉中支援率將達44.5%。
+
+---
+
+### 2026-09-07 00:01:38  #其他
+
+德國出口民調顯示，在薩克森-安哈爾特州選舉中，德國總理默茨所在的基民盟得票率預計為18.5%。
+
+---
+
+### 2026-09-07 00:01:06  #MKT News
+
+Yemen coast guard said it intercepted an oil tanker unloading unauthorized cargo at the Houthi-controlled Ras Isa port.
+
+---
+
+### 2026-09-06 23:51:58  #國際
+
+特朗普政府週日再次向美國聯邦最高法院提交緊急上訴，謀求立即落地美國郵政局針對11月選舉的郵寄選票新規。
+
+---
+
+### 2026-09-06 23:51:28  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+An Islamic Revolutionary Guard Corps spokesman said the United States will pay a heavier price for its economic war against Iran.
+
+---
+
+### 2026-09-06 23:49:41  #MKT News
+
+Axios, citing an informed source, said Zelensky discussed Ukraine's preparations to sustain fighting through the winter during talks; Kushner and Witkowski stressed they hope to secure a breakthrough before winter.
+
+---
+
+### 2026-09-06 23:46:11  #國際
+
+伊朗革命衛隊發言人：美國針對伊朗發動的經濟戰爭，將會讓美國付出更為沉重的代價。
+
+---
+
+### 2026-09-06 23:45:51  #國際
+
+烏克蘭總統澤連斯基對美國特使威特科夫與庫什納表示：今天你們為我國首都民眾帶來的成效，甚至勝過愛國者防空系統。感謝你們，歡迎多來。我國民眾將因此得以多一些生存的機會。
+
+---
+
+### 2026-09-06 23:43:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Wright says U.S. Navy will continue escorting ships through Strait of Hormuz】U.S. Energy Secretary Wright said on Sunday U.S. Navy escort vessels are assisting tankers through the Strait of Hormuz and that escort operations are unlikely to end soon, calling them critical to maintaining crude flows. He said daily crude shipments via the strait currently exceed 9 mln bpd and — with more crude and products routed via pipelines and other corridors — regional oil transport has recovered to about two-thirds or more of pre-conflict levels. Last week Wright said roughly 17 mln barrels transited the strait on Monday. He added Iran continues to cause trouble but the U.S. Navy is winning the fight, and said unleaded gasoline prices could fall as the summer driving peak ends and federal blending adjustments increase supply.
+
+---
+
+### 2026-09-06 23:34:24  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) confirmed 27 Starlink satellites have completed on-orbit deployment.
+
+---
+
+### 2026-09-06 23:32:02  #其他
+
+SpaceX：確認27顆星鏈衛星完成在軌部署。
+
+---
+
+### 2026-09-06 23:28:18  #國際
+
+以色列總理內塔尼亞胡：當下，我們國家是中東最強大的力量，有人甚至認為實力不止於此。我要告誡我們的敵人，不要招惹我們。
+
+---
+
+### 2026-09-06 23:26:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Lebanese state news agency reported an Israeli drone strike in southern Lebanon wounded multiple people.
+
+---
+
+### 2026-09-06 23:25:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Netanyahu warned Iran would face unimaginable strikes if it attacked Israel and said Israel is determined to overthrow the Iranian regime.
+
+---
+
+### 2026-09-06 23:24:39  #國際
+
+黎巴嫩媒體：以色列無人機襲擊黎巴嫩南部，造成數人受傷。
+
+---
+
+### 2026-09-06 23:23:21  #國際
+
+以色列總理內塔尼亞胡談及伊朗：伊朗現政權的末日將近。該政權實力衰弱，正苟延殘喘、搖搖欲墜，而我們仍有一項決心要完成的使命。這終將改變中東格局與歷史走向。
+
+---
+
+### 2026-09-06 23:18:42  #國際
+
+美國聯邦通訊委員會（FCC）主席卡爾：美國聯邦通訊委員會或將很快釋出指引，禁止播出虛假民調。
+
+---
+
+### 2026-09-06 23:12:39  #其他
+
+【墨西哥中部煙花爆炸致9死24傷】據墨西哥媒體6日報道，墨西哥中部墨西哥州聖瑪麗亞·坎切斯達鎮5日晚發生煙花爆炸事故，造成9人死亡、24人受傷。（新華社）
+
+---
+
+### 2026-09-06 23:10:59  #其他
+
+【反對移民者“堵路” 英國最繁忙渡輪港運營中斷】數百名反對移民者5日堵住通往英國多佛港的道路，導致交通堵塞，多佛港一度中斷運營。警方介入後道路當天晚些時候疏通，多佛港逐漸恢復運營。 社交媒體上的影片顯示，一些黑衣人手挽手堵住道路，高喊“停船”。英國國家高速公路局5日說，當天通往多佛港的所有道路均被堵住，造成了4英里（約合6.4公里）長的交通堵塞。多佛港運營方5日上午說，“由於正在發生的公共秩序事件”，停止所有進出港的交通。警方表示他們正在“與抗議者接觸”。（新華社）
+
+---
+
+### 2026-09-06 23:09:23  #國際
+
+【澤連斯基結束與美方代表首輪會談】當地時間9月6日，烏克蘭總統澤連斯基在基輔會見美國總統特使威特科夫和特朗普女婿庫什納，目前雙方首輪會談已結束，時長超三小時。據瞭解，德國、法國、英國的代表將參加第二輪會談。
+
+---
+
+### 2026-09-06 23:04:45  #國際
+
+【美能源部長：霍爾木茲海峽石油日運量超900萬桶，已恢復至衝突前三分之二水平】美國能源部長克里斯·賴特表示，霍爾木茲海峽的石油運輸量日均超過900萬桶，加上替代管道的運力，總輸油量恢復至衝突前水平的三分之二及以上。他補充道：“伊朗方面仍在製造麻煩，但美國海軍正在打贏這場較量。”
+
+---
+
+### 2026-09-06 23:03:05  #公司
+
+市場資訊：優步已向Atoms公司投資1億美元；Atoms已與優步展開談判，探討向優步提供其自動駕駛計程車相關技術。
+
+---
+
+### 2026-09-06 22:58:46  #其他
+
+卡蘭尼克在其新企業 Atoms 研發自動駕駛計程車技術。
+
+---
+
+### 2026-09-06 22:58:28  #其他
+
+市場訊息：優步聯合創始人卡蘭尼克擬重返網約車市場。
+
+---
+
+### 2026-09-06 22:56:01  #國際
+
+【印尼東努沙登加拉省一火山噴發】據印尼火山地質減災中心訊息，當地時間9月6日21時37分，位於該國東努沙登加拉省的伊裡萊沃託洛科火山噴發，火山灰柱高約500米，持續時間為32秒。印尼火山地質減災中心機構提醒當地居民和遊客不要進入火山口周邊2公里範圍，以及南、東南方向3公里範圍內的危險區域，並警惕熔岩崩塌、滑坡和火山碎屑流等風險。（央視新聞）
+
+---
+
+### 2026-09-06 22:52:40  #MKT News
+
+【US to withdraw air-defence systems from Iraqi Kurdistan by end-September, may relocate to Jordan, UK, Cyprus】Tasnim News Agency reported Iraq’s prime minister’s security adviser Qasim al-Araji said the US will withdraw its air-defence systems and remaining forces from the Iraqi Kurdish region before end-September. He said the US is fully prepared to withdraw under the agreement within the deadline, and US plans reportedly include relocating the systems to Jordan, the UK and Cyprus.
+
+---
+
+### 2026-09-06 22:51:53  #國際
+
+美國國家颶風中心表示，颶風瑪麗將繼續在下加利福尼亞州和南加州沿海地區造成危險的海灘狀況，預計還將持續數日。
+
+---
+
+### 2026-09-06 22:51:42  #MKT News
+
+NHC says Marie will continue over the next few days to produce one to two days of large surf and hazardous seas along the Baja California and Southern California coasts.
+
+---
+
+### 2026-09-06 22:50:53  #國際
+
+【菲律賓強降雨天氣已致43人死亡】菲律賓民防局9月6日通報說，自8月初以來的強降雨天氣已導致上千萬人受到影響，災害已造成43人死亡、20人受傷，另有5人失蹤。（新華社）
+
+---
+
+### 2026-09-06 22:50:46  #國際
+
+美國國家颶風中心： 空軍預備役颶風偵察飛機實測確認，洛厄爾仍為三級颶風。
+
+---
+
+### 2026-09-06 22:49:43  #國際
+
+美國國家颶風中心對考艾島和尼豪島釋出熱帶風暴警報。
+
+---
+
+### 2026-09-06 22:48:43  #MKT News
+
+NHC said Karina is expected to weaken to a post-tropical storm tonight.
+
+---
+
+### 2026-09-06 22:39:28  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+US Energy Secretary wright said diesel supplies have remained severely strained.
+
+---
+
+### 2026-09-06 22:37:15  #國際
+
+賴特：美國軍方的首要目標是切斷伊朗能源出口。
+
+---
+
+### 2026-09-06 22:36:30  #焦點 #國際
+
+賴特：美國始終對與伊朗達成協議持開放態度。
+
+---
+
+### 2026-09-06 22:35:26  #國際
+
+賴特稱俄羅斯煉油廠受損帶來柴油供應難題。
+
+---
+
+### 2026-09-06 22:34:33  #其他
+
+美國能源部長賴特：柴油供應形勢一直很嚴峻。
 
 ---
 
@@ -15966,329 +16692,5 @@ The FTSE 100 Index Opens 0.03% Higher — The FTSE 100 Index is gaining 3 points
 ### 2026-09-04 15:31:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 The DAX Index Opens 0.18% Higher — The DAX Index is picking up 48 points or 0.18 percent on Friday. Gains are led by Volkswagen (5.53%), Porsche Automobil (3.46%) and Infineon (1.71%). Biggest losers are Daimler Truck Holding AG (-1.16%), BASF (-0.92%) and Commerzbank (-0.87%).
-
----
-
-### 2026-09-04 15:30:10  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.01% Lower — The CAC 40 Index is falling 0.9 points. Losses were driven by Dassault Systemes (-3.38%), TotalEnergies SE (-1.45%) and Air Liquide (-1.15%). Biggest rises came from Legrand (3.30%), STMicroelectronics (2.24%) and Accor (2.23%).
-
----
-
-### 2026-09-04 15:23:01  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
-
-US Employment Expected to Bounce Back — The US economy is expected to have added 56K jobs in August 2026, marking a modest rebound after a surprising decline of 23K in July. The private sector is forecast to have accounted for 45K of those gains. Local government education employment is expected to recover and a rebound is also anticipated in the leisure and hospitality industry. However, these gains could be offset by the termination of Temporary Protected Status (TPS) for hundreds of thousands of Haitian immigrants, which has affected their work authorization and ability to remain employed. Meanwhile, the unemployment rate is expected to have remained unchanged at 4.1%, hovering near a one-year low. Average hourly earnings are projected to have increased 0.3% from the previous month and 3.0% from a year earlier, which would mark the weakest annual growth since May 2021. Overall, the report is expected to point to a relatively stable, albeit subdued, labor market.
-
----
-
-### 2026-09-04 15:19:42  #Trading Economics #Markets #Czech Republic #Stock Market #Importance 0
-
-Stocks in Czech Republic Hit All-time High — PX increased to an all-time high of 2821.00 Index Points. Over the past 4 weeks, Prague Stock Exchange gained 1.81%, and in the last 12 months, it increased 23.75%.
-
----
-
-### 2026-09-04 15:18:09  #Trading Economics #Economy #Slovakia #Retail Sales YoY #Importance 1
-
-Slovakia Retail Sales Edge Down in July — Retail sales in Slovakia edged down 0.1% year-on-year in July 2026, following a 2% increase in the previous month. This marked the first decline in three months, led by sales outside shops, stalls and markets (-11.8% vs -9.8% in June) and hypermarkets and supermarkets (-1.9% vs -0.4%), while sales of food, beverages and tobacco in specialized stores also fell (-1.6% vs -2.2%). In contrast, turnover increased at computer and ICT equipment stores (8.1% vs 25.3%), other household goods in specialized stores (3.3% vs 7.5%), automotive fuel in specialized stores (1.6% vs 0.3%), and goods for culture and recreation (0.3% vs 8.3%). Meanwhile, sales in stalls and markets dropped 16.9%, while other goods in specialized stores edged up 0.3%. On a seasonally adjusted monthly basis, retail trade rose 0.2% in July, following a 0.4% increase in June.
-
----
-
-### 2026-09-04 15:16:51  #Trading Economics #Economy #Czech Republic #Retail Sales YoY #Importance 1
-
-Czech Retail Sales Growth Accelerates in July — Retail sales in the Czech Republic grew by 4.8% year-on-year in July 2026, exceeding market expectations for a 4.5% gain and marking the fastest rise since March. The latest reading accelerated from a downwardly revised 3.4% increase in the previous month. Growth was broad-based, led by non-food goods, which rose 6.6%, while food sales increased by 2.7% and automotive fuel sales advanced by 4%. Among non-food categories, clothing and footwear sales climbed 8.8%, while pharmaceutical and medical goods rose 7.8%. Online and mail-order sales recorded the strongest increase, jumping 12.4%, while stores selling household products were the only category to post a decline. Meanwhile, sales of motor vehicles and repairs increased by 0.5% from a year earlier. On a seasonally adjusted monthly basis, retail sales rose by 0.6% in July, rebounding from a 0.1% decline in June.
-
----
-
-### 2026-09-04 15:16:10  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.29% Lower — The Shangai Composite Index fell 12 points or 0.29 percent on Friday to close at 3931 points. Leading the losses are Sanan Optoelectron (-4.68%), Aluminum Corporation of China (-1.63%) and Shanghai International Port (-1.45%). Top gainers were Poly Real Estate (3.54%), Yonyou Soft (3.23%) and Kweichow Moutai (2.62%).
-
----
-
-### 2026-09-04 15:15:38  #Trading Economics #Economy #Kazakhstan #Interest Rate #Importance 1
-
-Kazakhstan Unexpectedly Cuts Rates by 50 Bps to 16.25% — The National Bank of Kazakhstan (NBK) lowered its base rate by 50 bps to 16.25% at its September 2026 meeting, surprising markets that had widely expected policymakers to cut borrowing costs by 25 bps. The decision followed July’s 25 bps cut, as annual inflation eased for an eleventh consecutive month to 9.8% in August, marking the lowest reading since February 2025. The central bank has lowered rates by a total of 175 bps since June, bringing the policy rate to its lowest level since February 2025. However, the NBK noted that the external environment remains unstable amid high energy prices due to the ongoing conflict in the Middle East and increasing external inflationary pressures. The central bank revised its inflation forecast for 2027 to 6.5%-8.5% from 5.5%-7.5% previously due to rising external inflation and an increase in fiscal stimulus. “However, given intensifying inflationary factors and risks, the scope for further cuts is limited,” the regulator said.
-
----
-
-### 2026-09-04 15:15:35  #MKT News
-
-【Foreign Ministry: China pursues peaceful development, does not engage in military expansion】At a regular briefing, Foreign Ministry spokesperson Guo Jiakun responded to a Bloomberg question about Pacific island leaders' criticism that China did not give adequate prior notice of recent missile tests, saying Beijing has repeatedly set out its position. He reiterated that China pursues peaceful development, adheres to a defensive national defense policy and does not engage in military expansion, and said China is willing to work with South Pacific states to help maintain regional peace, stability and prosperity.
-
----
-
-### 2026-09-04 15:15:24  #觀點
-
-土耳其德尼茲銀行獲得花旗銀行 5000 萬美元社會貸款。
-
----
-
-### 2026-09-04 15:15:03  #市場
-
-達索系統股價下跌2.9%，位居法國CAC 40指數跌幅榜首位。
-
----
-
-### 2026-09-04 15:15:03  #市場
-
-【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約跌0.05%， 5年期主力合約跌0.06%， 2年期主力合約跌0.02%。
-
----
-
-### 2026-09-04 15:14:59  #國際
-
-烏克蘭副總理：提前發放歐盟烏克蘭貸款並非萬全之策。
-
----
-
-### 2026-09-04 15:14:58  #Trading Economics #Economy #Czech Republic #Inflation Rate #Importance 1
-
-Czechia Inflation Rate at 3-Month High — The annual inflation rate in the Czech Republic rose to 1.9% in August 2026 from 1.7% in the previous month, in line with market expectations, according to preliminary estimates. The reading marked the highest inflation rate since May, driven mainly by a stronger increase in prices for alcoholic beverages and tobacco (4.7% vs 3.7% in July), while inflation also rebounded for energy (2.3% vs -0.3%) and goods (0.2% vs -0.2%). Meanwhile, price growth eased for services (4.5% vs 4.7%), while deflation deepened for food and non-alcoholic beverages (-4.3% vs -3.1%). On a monthly basis, consumer prices eased 0.3% in August from a 0.6% increase in July.
-
----
-
-### 2026-09-04 15:14:18  #國際
-
-烏克蘭副總理：提前落實歐盟 900 億歐元貸款是一項融資方案。
-
----
-
-### 2026-09-04 15:13:40  #國際
-
-【外交部：中國堅持走和平發展道路，從不搞軍事擴張】9月4日，外交部發言人郭嘉昆主持例行記者會。 彭博社記者提提問，一些太平洋島國的領導人批評了中方最近進行的導彈試射活動，稱中方沒有事先進行充分通知。中方對此有何評論？ 郭嘉昆表示，關於試射活動，中方已經多次闡明立場。中國堅持走和平發展道路，堅定奉行防禦性國防政策，從不搞軍事擴張。中方願同南太國家一道，為維護南太地區和平穩定和發展繁榮貢獻力量。 （北京日報）
-
----
-
-### 2026-09-04 15:12:36  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-【Goldman raises Broadcom PT to $540, cites new AI customers as major revenue drivers】Goldman says Broadcom’s AI-driven growth over the next two years will come materially from new customers beyond Google — including ANTHROPIC, OpenAI and Meta — and has materially raised its 2028 revenue and earnings forecasts. Goldman now models fiscal 2027 and 2028 revenues at about $125bn and $240bn versus company guidance of >$115bn and >$230bn. A rising mix of custom AI chips should continue to pressure gross margins, but scale should keep operating margins roughly stable. Goldman maintains Buy, raising the PT from $525 to $540; upside scenario $756, downside $234. (Goldman Sachs report, Sept. 2)
-
----
-
-### 2026-09-04 15:12:17  #國際
-
-【外交部回應52名新加坡人涉嫌在華傳銷】今天，針對有關52名新加坡人涉嫌傳銷活動在廣西被捕的提問，外交部發言人郭嘉昆表示：中方依法查處在華外國公民違法犯罪案件，並充分保障當事人合法權利。進一步的訊息建議向中方主管部門詢問。（央視新聞）
-
----
-
-### 2026-09-04 15:12:01  #其他
-
-【第二屆聯合國 “一帶一路”峰會在新加坡舉辦，十餘項企業共建“一帶一路”可持續發展成果釋出】9月3日，以“互聯互通，共建美好世界”為主題的第二屆全球企業高質量共建“一帶一路”峰會在新加坡隆重舉行。本屆峰會由聯合國全球契約組織“可持續基礎設施建設助力‘一帶一路’，加速實現可持續發展目標”行動平臺（以下簡稱“一帶一路”行動平臺）、聯合國全球契約組織在華聯絡辦公室主辦，聯合國全球契約組織新加坡網路（UNGCNS）聯合主辦，包括中國國際投資促進會、中國友好和平發展基金會、中國電力企業聯合會、有一德基金會等在內的多家中外機構支援。（第一財經）
-
----
-
-### 2026-09-04 15:10:47  #其他
-
-標普道瓊斯指數將5只股票納入標普/澳交所200指數。
-
----
-
-### 2026-09-04 15:10:23  #MKT News #Important #Market Regions #Greater China
-
-【China opens national BeiDou reference-station network data to public for first time】The Ministry of Natural Resources said China’s satellite navigation and positioning reference-station network has entered authorized operation, marking the first public release of nationwide BeiDou reference-station service data.
-
----
-
-### 2026-09-04 15:10:10  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【China's defense ministry says any attempt to pursue independence by force is doomed to fail】On the afternoon of Sept. 4, China's Ministry of National Defense spokesperson Colonel Jiang Bin said recent Taiwanese defense reports exaggerate a "mainland threat" and serve as an excuse for the Democratic Progressive Party to stoke war anxiety. He reiterated that the PLA routinely conducts ships-and-aircraft combat-readiness patrols around Taiwan to carry out anti-secession and anti-interference operations to safeguard China's sovereignty and territorial integrity, and warned any attempt to pursue independence by force would fail.
-
----
-
-### 2026-09-04 15:09:59  #國際
-
-【美總統：英國“處於災難的邊緣” 移民和能源問題亟待解決】美國總統特朗普3日表示，英國“處於災難的邊緣”，其能源和移民等問題令人擔憂。另外，他迴避就馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場明確表態，再度批評英國在伊朗戰事上“不給力”。近年來，美英之間齟齬不斷。特朗普3日重申對英國的“熱愛”，但表示英國首相伯納姆領導的政府存在嚴重問題需要解決。“你們的國家（英國）正處於災難的邊緣，”特朗普說，英國有巨大的移民以及能源問題。按特朗普說法，移民正改變英國的面貌，如不予阻止英國將“不復存在”。（央視新聞）
-
----
-
-### 2026-09-04 15:09:37  #國際
-
-【中國零食熱銷海外 海味零食全球圈粉】今年前七個月，我國海鮮零食生產企業內銷、出口兩旺。走訪中發現，不同國家和地區消費者的口味偏好差異明顯，定製化研發、生產已成為零食出口企業的普遍共識。資料顯示，今年前七個月，山東省出口即食深加工食品貨值達52億元，主要銷往韓國、美國、俄羅斯、東盟、澳大利亞、歐盟等。其中澳大利亞等市場出口貨值同比增幅超過10%，部分市場最高增幅達50%。（央視財經）
-
----
-
-### 2026-09-04 15:09:31  #MKT News #Market Regions #Wall Street (US)
-
-【China snack exports firm as seafood snacks gain global traction】In the first seven months of the year Chinese seafood snack producers reported robust domestic and export sales. Exporters say differing regional taste profiles have made customized R&D and production standard practice. Shandong province exported 5.2 bln yuan of ready-to-eat deep-processed food in the period, primarily to South Korea, the US, Russia, ASEAN, Australia and the EU. Exports to markets such as Australia rose more than 10% YoY; some markets recorded increases up to 50%.
-
----
-
-### 2026-09-04 15:09:28  #MKT News #Market Regions #Greater China
-
-【China to send PLA ground force to Russia for ADMM-Plus humanitarian demining exercise Sept. 7-12】China's Ministry of National Defense said on Sept. 4 the People's Liberation Army Ground Force will deploy personnel to Russia to take part in an ASEAN Defense Ministers' Meeting-Plus (ADMM-Plus) humanitarian demining live exercise from Sept. 7-12. The multinational drill will practise clearance of areas contaminated by explosives, focusing on battlefield clearance, mechanical demining, use of mine-detection dogs and improvised explosive device (IED) clearance.
-
----
-
-### 2026-09-04 15:09:17  #其他 #焦點
-
-【我國北斗基準站服務資料首次向社會共享開放】記者今天（9月4日）從自然資源部瞭解到，我國衛星導航定位基準站網服務資料正式啟動授權運營，這也意味著全國北斗基準站一張網服務資料首次向社會共享開放。自然資源部表示，這次授權運營，按照安全可控、優質高效的原則，面向重點行業和市場主體開放，讓基準站公共資料合規流通起來，充分釋放時空資料要素的經濟社會價值。（央視）
-
----
-
-### 2026-09-04 15:08:09  #MKT News
-
-【China sends delegation to 2026 Asia‑Pacific defense chiefs meeting】China’s Defense Ministry spokesman Senior Col. Jiang Bin said on Sept. 4 that PLA Eastern Theater Command commander General Yang Zhibin led a delegation to Victoria, Canada to attend the 2026 Asia‑Pacific defense chiefs meeting co‑hosted by the Canadian Armed Forces and U.S. Indo‑Pacific Command. China delivered a plenary address outlining its position and actions to maintain regional peace and stability, proposed increased defense exchanges and cooperation among regional states, and held bilateral meetings with U.S., French and Singaporean delegates.
-
----
-
-### 2026-09-04 15:07:39  #公司 #市場
-
-大眾汽車集團股價最新上漲6.7%，正邁向2023年3月以來表現最佳的單日行情。
-
----
-
-### 2026-09-04 15:07:18  #公司
-
-市場訊息：華住集團計劃首次發行人民幣債券，籌集相當於5億美元的資金。
-
----
-
-### 2026-09-04 15:07:00  #其他
-
-【國防部批臺防務部門報告顛倒黑白】記者：日前，臺防務部門向民意機構提交“2026年大陸軍力報告書”和臺軍“五年兵力整建及施政計劃報告書”，渲染“大陸威脅”，指出解放軍常態化派遣艦機位臺島周邊執行戰備警巡與“侵擾”行動等，強調要提升“不對稱”戰力與防衛韌性。請問發言人有何評論？蔣斌：有關報告混淆是非、顛倒黑白，不過是民進黨當局販賣戰爭焦慮、“以武謀獨”所找的藉口。臺灣是中國領土不可分割的一部分，解放軍位臺島周邊常態組織戰備警巡，開展反分裂反干涉行動，維護國家主權和領土完整，是使命所繫、職責所在。祖國統一勢不可擋，任何“以武謀獨”的企圖都註定失敗。（央視軍事）
-
----
-
-### 2026-09-04 15:06:45  #其他
-
-【國防部：人民軍隊持續奮戰吉隆救援一線】記者：西藏日喀則市吉隆縣近日發生泥石流災害，請介紹解放軍和武警部隊參與搶險救災有關情況。蔣斌：近日，西藏日喀則市吉隆縣發生泥石流災害，造成重大人員傷亡、失聯。災害發生後，解放軍和武警部隊堅決貫徹習主席重要指示精神，第一時間啟動應急響應機制，全力支援地方搶險救災。截至9月3日，先後出動官兵726人、工程機械24臺、專業裝備60臺（套），動用直升機、無人機20餘架次，積極開展人員搜救、道路搶通、運輸投送、醫療防疫等工作，累計清理泥石流堆積體1.39萬餘方，向受災核心區空中投送救援力量77人、裝備物資1.23噸，為當地群眾和救援力量提供醫療服務900餘人次。人民至上、生命至上。人民軍隊持續奮戰在救援一線，爭分奪秒搜救失聯人員，最大限度減少人員傷亡。只要還有一線希望，我們就絕不放棄。（央視軍事）
-
----
-
-### 2026-09-04 15:06:24  #MKT News #SSE Composite #Impact bearish
-
-【A-shares close: Shanghai Composite down 0.30%; livestock sector surges】A-shares reversed early gains to close lower: Shanghai Composite -0.30%, Shenzhen Composite Index -0.79%, ChiNext Index -0.78%. Livestock sector led advances—pork, poultry, fisheries and feed names strong; Luoniushan, New Hope and Zhongshui Fishery hit limit-up. Grain names recovered from an early dip; Yasheng Group and Dunhuang Seed hit limit-up. Maritime equipment outperformed with China shipbuilding-related stocks leading; China Shipbuilding rose over 9%. Liquor stocks rallied on a yellow-wine theme; Guyue Longshan and Kuaijishan hit limit-up. Other notable gainers included tourism & hotels, beverages & food, digital currency, retail, film, building materials & cement, and AI applications. Technology stocks broadly pulled back; memory chips, MLCC, CPO, helium, lithography equipment, PCB, liquid-cooled servers and humanoid-robot names were among the worst performers. Turnover across Shanghai and Shenzhen reached 2.03 tln yuan, up roughly 271.8 bln yuan vs. the previous session; about 2,200 stocks advanced and 2,800 declined.
-
----
-
-### 2026-09-04 15:06:19  #其他
-
-法國農業部長宣佈將設立新基金以提振農業領域。
-
----
-
-### 2026-09-04 15:06:11  #國際
-
-【中方派員出席2026年度亞太國防軍司令會議】9月4日下午，國防部新聞發言人蔣斌大校就近期涉軍問題釋出訊息。記者：據報道，中國軍隊近日派員出席由加拿大和美國聯合舉辦的亞太國防軍司令會議。請予以證實並介紹相關情況。蔣斌：近日，中國人民解放軍東部戰區司令員楊志斌上將率團赴加拿大維多利亞出席由加國防軍和美軍太平洋總部聯合舉辦的2026年度亞太國防軍司令會議。其間，中方進行大會發言，介紹中國軍隊維護地區和平穩定的立場和成果，提議地區國家加強防務交流合作，攜手應對共同挑戰，並與美國、法國、新加坡等國參會代表舉行雙邊會議。
-
----
-
-### 2026-09-04 15:06:06  #其他
-
-【中老人道主義醫學救援聯演將舉行】9月4日下午，國防部新聞發言人蔣斌大校就近期涉軍問題釋出訊息。蔣斌：中老（撾）“和平列車－2026”人道主義醫學救援聯合演習將於9月在寮國舉行。此次演習以超強颱風災害國際人道主義聯合醫學救援為課題，重點開展聯合現場搜救、傷員轉運、衛生防疫、心理救援等課目演練，其間還將為寮國軍民開展醫療服務活動。這是兩軍第6次舉行該系列聯演，將進一步深化拓展災害醫學救援、熱帶病防治、傳染病防控等領域務實交流合作，提升兩軍衛勤聯合指揮、聯合救援、聯合防控能力，更好為地區國家和人民提供優質公共安全產品。
-
----
-
-### 2026-09-04 15:05:46  #國際
-
-美國國家公路交通安全管理局：克萊斯勒（FCA US, LLC）將在美國召回239,131輛汽車，原因是倒車影像無法顯示會縮小駕駛員的後方視野，從而增加碰撞風險。
-
----
-
-### 2026-09-04 15:05:17  #國際
-
-中方將赴俄羅斯參加實兵演習。（央視軍事）
-
----
-
-### 2026-09-04 15:05:10  #市場
-
-意法半導體股價延續週四漲勢，最新上漲4.7%。
-
----
-
-### 2026-09-04 15:05:05  #國際
-
-【上合組織持續拓展深化防務安全合作】9月4日下午，國防部新聞發言人蔣斌大校就近期涉軍問題釋出訊息。記者：近日，國家主席習近平出席在吉爾吉斯斯坦舉行的2026年上海合作組織峰會。今年恰逢上合組織成立25週年，請問上合組織成員國將如何進一步加強防務安全領域合作？蔣斌：習主席近日出席上海合作組織成員國元首理事會第二十六次會議並發表重要講話指出，中方願同各方踐行共同、綜合、合作、可持續的安全觀，將上海合作組織打造成踐行全球安全倡議的重要平臺。安全是發展的基石，和平是繁榮的源泉。上合組織成員國高度重視防務安全合作，多次組織國防部長會議、軍隊總參謀長會議，舉行“和平使命”反恐聯演、“和平號角”軍樂節，開展軍事醫學、軍事交通、軍事翻譯等領域專業交流，舉辦高階軍官研修班、中青年軍官交流、“上合組織+”青年智庫沙龍等活動。在國際形勢變亂交織之際，上合組織發揮穩定之錨作用，在維護地區安全穩定、應對各類威脅挑戰方面取得重要成就。(新華社)
-
----
-
-### 2026-09-04 15:05:01  #其他
-
-中老人道主義醫學救援聯演將舉行。（央視軍事）
-
----
-
-### 2026-09-04 15:04:56  #其他
-
-國防部批臺防務部門報告顛倒黑白。（央視軍事）
-
----
-
-### 2026-09-04 15:04:37  #其他
-
-法國農業部長宣佈推出一項規模超10億歐元的農民援助計劃。
-
----
-
-### 2026-09-04 15:04:07  #市場
-
-大眾汽車宣佈重組計劃後，股價上漲9.7%。
-
----
-
-### 2026-09-04 15:03:58  #其他
-
-希臘總理將宣佈進一步的經濟支援措施。
-
----
-
-### 2026-09-04 15:03:50  #公司
-
-檔案顯示，Oasis Management將其在SMS股份有限公司的持股比例從22.38%提升至24.65%。
-
----
-
-### 2026-09-04 15:03:17  #MKT News
-
-On Friday Sept. 4, China's Shanghai Composite Index closed down 11.97 points (-0.30%) at 3,930.12; Shenzhen Composite fell 108.15 points (-0.79%) to 13,516.97; CSI 300 Index slipped 4.53 points (-0.10%) to 4,548.05; ChiNext Index declined 26.0 points (-0.78%) to 3,286.55; STAR 50 Index dropped 33.81 points (-2.10%) to 1,577.36.
-
----
-
-### 2026-09-04 15:03:15  #MKT News
-
-【German bond yields set for fourth straight weekly rise】Germany's government bond yields are set to rise for a fourth straight week, the longest run since mid-July, as investors price central banks keeping policy restrictive amid resilient growth and persistent inflation. Renewed US-Iran hostilities have lifted Middle East supply risk and pushed oil toward its biggest weekly gain since mid-July. Germany's 10-year bund yield is up about 7.5 bps this week; the 2-year yield is up about 7 bps, its largest weekly rise since mid-July. Traders price the ECB deposit rate at 2.73% by December, implying roughly a 90% probability of another hike after September, and expect the policy rate to reach 3% by September next year.
-
----
-
-### 2026-09-04 15:03:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Ukraine's Ministry of Energy said Russia struck energy infrastructure in the Odesa region overnight.
-
----
-
-### 2026-09-04 15:02:33  #其他
-
-習近平向第八屆中俄能源商務論壇致賀信。（新華社）
-
----
-
-### 2026-09-04 15:02:23  #其他
-
-【寧德時代首席科學家吳凱：重卡電動化拐點將至】9月4日，在宜賓召開的2026世界動力電池大會上，寧德時代首席科學家吳凱表示，重卡電動化拐點將至，預計到2028年，重卡電動化率將提至50%。目前重卡電動化面臨四大問題，包括電動重卡價格是傳統重卡1.5倍，排隊充電時間在1個小時以上，車輛運輸效率低，同時對電網衝擊大，還有重卡對充電場地要求高。
-
----
-
-### 2026-09-04 15:02:13  #其他
-
-【ETF兩市成交額報4962.95億元，較昨日此時放量759.36億元】截至目前，ETF兩市成交額報4962.95億元，較昨日此時放量759.36億元，分型別來看，股票型ETF成交額1447.79億元，債券型ETF成交額2349.44億元，貨幣型ETF成交額437.7億元，商品型ETF成交額102.75億元，QDII型ETF成交額625.27億元。
-
----
-
-### 2026-09-04 15:01:49  #MKT News #Market Regions #Greater China
-
-【Shanghai, Shenzhen turnover CN¥2.03 trillion on Sept. 4; Zhongji Xuchuang tops single-stock turnover】Shanghai and Shenzhen bourses traded CN¥2.03 trillion on Sept. 4, up CN¥271.75 bln from the prior session. Shanghai turnover was CN¥938.26 bln (previous CN¥819.88 bln), volume 537 mln lots (prev. 497 mln). Shenzhen turnover was CN¥1,092.41 bln (previous CN¥939.03 bln), volume 678 mln lots (prev. 585 mln). Zhongji Xuchuang led single-stock turnover at CN¥17.38 bln, followed by Langchao Information CN¥13.71 bln, China Shipbuilding CN¥12.39 bln, Xinyisheng CN¥11.72 bln and Zhaoyi Innovation CN¥11.31 bln.
-
----
-
-### 2026-09-04 15:01:48  #市場
-
-維旺迪股價在公佈上半年業績後下跌6.1%。
-
----
-
-### 2026-09-04 15:01:48  #MKT News #DAX #Impact bearish #FTSE100
-
-European equities opened lower on Sept 4 — Germany's DAX 30 -5.55 pts (-0.02%) at 26,002.02; UK FTSE 100 -23.57 pts (-0.22%) at 10,807.95; France CAC 40 -16.84 pts (-0.20%) at 8,269.56; STOXX Europe 50 -15.94 pts (-0.25%) at 6,366.65; Spain IBEX 35 -49.43 pts (-0.25%) at 19,950.77; Italy FTSE MIB -160.97 pts (-0.31%) at 52,084.50.
 
 ---
