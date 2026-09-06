@@ -1,7 +1,40 @@
 {
   "date": "2026-09-06",
-  "count": 395,
+  "count": 399,
   "items": [
+    {
+      "id": "mkt:01a07571-87cb-7118-84b6-c22439f508a8",
+      "time": "2026-09-06 14:39:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US carrier USS Abraham Lincoln leaves Thailand after first full port visit in over 200 days】The US carrier USS Abraham Lincoln departed Thailand on Sept. 6, leaving Laem Chabang port at about 11:00 local time. The ship had entered Laem Chabang on Sept. 2 after more than 200 days at sea; media said it was the carrier's first full port visit since beginning deployment in November."
+    },
+    {
+      "id": "5079148",
+      "time": "2026-09-06 14:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼喀拉喀託之子火山持續噴發 四座機場臨時關閉】當地時間9月6日，印尼國家抗災署稱，印尼喀拉喀託之子火山持續噴發，火山灰擴散。受相關影響，雅加達的哈利姆·珀達納庫蘇馬國際機場、楠榜省的雷丁·印甸二世機場、萬丹省的布迪亞爾託機場和旁多克凱布機場等4座機場也臨時關閉。（央視新聞）"
+    },
+    {
+      "id": "5079147",
+      "time": "2026-09-06 14:37:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事日程表顯示存在“靜默期”內與銀行家會面的情況】最近幾個月，在美聯儲的靜默期內，兩名美聯儲理事會見了私營部門銀行官員或參加了他們舉辦的活動，而靜默期內此類會議受到限制。5月和6月的日曆顯示，主管監督的副主席Michelle Bowman在6月16日至17日聯邦公開市場委員會(FOMC)會議召開前一週，會見了馬薩諸塞州銀行家協會的負責人。美聯儲發言人表示，此次會議是為了Bowman在聯邦公開市場委員會會議後一週由該組織主辦的活動上發表公開演講做準備。"
+    },
+    {
+      "id": "5079146",
+      "time": "2026-09-06 14:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：美國“林肯”號航母離開泰國，結束其200多天以來首次完整靠港休整】據法新社報道，載有數千名士兵的美國“林肯”號航母於週日（9月6日）離開泰國。此前，該航母在海上航行200多天後，於當地時間9月2日駛入泰國林查班港，有媒體稱這是它自去年11月開啟部署以來的首次完整靠港休整。 報道稱，“林肯”號於當地時間6日上午11時許從林查班港離開。（環球網）"
+    },
     {
       "id": "5079145",
       "time": "2026-09-06 14:35:47",
