@@ -1,7 +1,21 @@
 {
   "date": "2026-09-06",
-  "count": 284,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a07478-169d-7118-84b5-df7b5d420f52",
+      "time": "2026-09-06 10:07:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) says its TeslaAI training data for the Cybertruck autonomous vehicle has exceeded the combined lifetime driving experience of 16,000 human drivers. The system is now operating in Austin, Texas, offering public shared rides described as safe, easy and economical."
+    },
     {
       "id": "mkt:01a07473-93f4-7118-84b5-d1ca43f5a7d5",
       "time": "2026-09-06 10:02:06",
