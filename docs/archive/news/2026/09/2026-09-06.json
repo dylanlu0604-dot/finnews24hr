@@ -1,7 +1,26 @@
 {
   "date": "2026-09-06",
-  "count": 276,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:01a0746b-bbea-7118-84b5-cae52f9e2184",
+      "time": "2026-09-06 09:53:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【TankerTrackers: Middle East crude exports down 39% in August vs early-2026 baseline】TankerTrackers said Middle East crude exports in August 2026 were 39% below the Jan-Feb baseline of 18.5 mln b/d. Exports hit a trough in May, down 67% versus the baseline, and the supply shortfall has narrowed to 7.2 mln b/d from 12.4 mln b/d."
+    },
+    {
+      "id": "5079058",
+      "time": "2026-09-06 09:52:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加關係緊張 加拿大一咖啡店將“美式咖啡”改名“加式咖啡”】8月下旬美加貿易談判破裂，美國宣佈對數百項加拿大商品加徵50%關稅，加拿大則宣佈將對美國商品實施“等額、對等”反制。隨著近期美加關係緊張，越來越多的加拿大民眾自發抹去生活中的“美式元素”，表達對美國的不滿和對加拿大的支援。近日，一家加拿大咖啡店釋出的影片在社交媒體上走紅，影片以加拿大國歌為背景音樂，咖啡店經理正在將店內選單上的“美式咖啡”修改為“加式咖啡”，他表示，這是一次“很小但是很必要的”更新。（央視新聞）"
+    },
     {
       "id": "5079057",
       "time": "2026-09-06 09:49:30",
