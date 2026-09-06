@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07 04:46:37",
+  "updated": "2026-09-07 04:50:31",
   "count": 14209,
   "items": [
+    {
+      "id": "mkt:01a0787a-925e-7118-84bc-ac9a9b10edef",
+      "time": "2026-09-07 04:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces said warplanes struck Houthi positions in Balhaf and south of Hodeidah."
+    },
     {
       "id": "5079682",
       "time": "2026-09-07 04:44:34",
@@ -130146,14 +130154,6 @@
         "國際"
       ],
       "text": "美國航空航天局：NASA與SpaceX正在調整該局Crew-13龍飛船載人任務前往國際空間站的發射日期，以解決龍飛船推進系統的氧化劑洩漏問題。"
-    },
-    {
-      "id": "5067375",
-      "time": "2026-08-31 04:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人稱，美國犯下“具有戰略意義的致命錯誤”。"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-09-07",
-  "count": 189,
+  "count": 190,
   "items": [
+    {
+      "id": "mkt:01a0787a-925e-7118-84bc-ac9a9b10edef",
+      "time": "2026-09-07 04:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces said warplanes struck Houthi positions in Balhaf and south of Hodeidah."
+    },
     {
       "id": "5079682",
       "time": "2026-09-07 04:44:34",
