@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-07 03:12:23",
-  "count": 14204,
+  "updated": "2026-09-07 03:16:21",
+  "count": 14207,
   "items": [
+    {
+      "id": "5079664",
+      "time": "2026-09-07 03:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會秘書雷扎伊：我方保留對美軍襲擊庫赫斯塔克一處婚禮現場實施回擊的權利，美國應當清楚這一點。"
+    },
+    {
+      "id": "mkt:01a07824-7735-7118-84bb-e8e52d9c4a47",
+      "time": "2026-09-07 03:14:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French Communist Party leader Fabien Roussel announces 2027 presidential bid】On the evening of Sept. 6 local time, Fabien Roussel, national secretary of the French Communist Party, formally declared his candidacy for France's 2027 presidential election. He said he hopes to push change in France by proposing a political platform to \"thoroughly change the status quo.\""
+    },
+    {
+      "id": "5079663",
+      "time": "2026-09-07 03:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國共產黨全國書記魯塞爾宣佈參加2027年總統選舉】當地時間9月6日晚，法國共產黨全國書記法比安·魯塞爾正式宣佈參加2027年法國總統選舉。他表示，希望透過提出一項“徹底改變現狀的政治綱領”，推動法國發生變化。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07824-2de5-7118-84bb-e27dbe81bca7",
+      "time": "2026-09-07 03:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA says a cargo aircraft slid off the runway at Miami airport after landing."
+    },
+    {
+      "id": "mkt:01a07824-05c5-7118-84bb-df4d24411e8b",
+      "time": "2026-09-07 03:13:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The secretary of Iran's Supreme National Security Council said the Strait of Hormuz is not a strait of war but a strait of Iranian power."
+    },
+    {
+      "id": "5079662",
+      "time": "2026-09-07 03:13:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：一架貨運飛機在邁阿密機場降落之後滑出跑道。"
+    },
     {
       "id": "5079661",
       "time": "2026-09-07 03:10:58",
@@ -130105,37 +130157,6 @@
         "其他"
       ],
       "text": "問：如何解釋德國五分之一的年輕人考慮離開本國這一現象？ \n德國總理默茨：這也意味著還有五分之四的年輕人並不打算離開。"
-    },
-    {
-      "id": "5067335",
-      "time": "2026-08-31 03:16:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行警告：如果半導體熱潮帶來的企業和家庭收入增長轉化為消費，通脹壓力可能會再次上升。"
-    },
-    {
-      "id": "mkt:01a05419-9e83-7118-8402-0f66caad5864",
-      "time": "2026-08-31 03:16:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nikkei 225",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【Bank of Korea warns chip boom could reignite inflation】The Bank of Korea warned the semiconductor boom could rekindle inflation if corporate and household income gains translate into consumption. It said rising semiconductor export prices have boosted purchasing power and that, if consumption accelerates, demand may exceed current supply capacity — a demand-side price pressure the central bank cited as one reason for its recent string of atypical consecutive rate hikes."
-    },
-    {
-      "id": "5067334",
-      "time": "2026-08-31 03:14:03",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "德國總理默茨：德國人並不懶惰。但德國人均年工作時長比瑞士少200小時。我並不太想拿我們和其他國家作對比。但我認為我們必須達成共識，全體德國人是否願意真正投入更多工作？現在不少企業表示，如果將每週工時從35小時恢復至40小時，德國的大部分競爭力就能夠得以恢復。"
     }
   ]
 }
