@@ -1,7 +1,23 @@
 {
   "date": "2026-09-07",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a0778b-9b09-7118-84ba-872d3792268f",
+      "time": "2026-09-07 00:27:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German poll shows far-right Alternative for Germany (AfD) at 44.5% support in Saxony-Anhalt state election."
+    },
+    {
+      "id": "5079545",
+      "time": "2026-09-07 00:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：東京證交所退市數量將連續第三年創下新高。"
+    },
     {
       "id": "5079544",
       "time": "2026-09-07 00:20:51",

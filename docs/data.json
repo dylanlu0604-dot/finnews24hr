@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-07 00:24:14",
-  "count": 14171,
+  "updated": "2026-09-07 00:28:20",
+  "count": 14172,
   "items": [
+    {
+      "id": "mkt:01a0778b-9b09-7118-84ba-872d3792268f",
+      "time": "2026-09-07 00:27:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German poll shows far-right Alternative for Germany (AfD) at 44.5% support in Saxony-Anhalt state election."
+    },
+    {
+      "id": "5079545",
+      "time": "2026-09-07 00:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：東京證交所退市數量將連續第三年創下新高。"
+    },
     {
       "id": "5079544",
       "time": "2026-09-07 00:20:51",
@@ -129836,19 +129852,6 @@
         "DXY"
       ],
       "text": "【Israeli forces advance in southern Lebanon】Al Jazeera, citing Lebanon’s National News Agency (NNA), reported Israeli infantry advanced along the west bank of the Litani River while conducting demolitions along the Zawtar al‑Gharbiyeh riverbank. Israeli forces continued shelling residential areas south of the Litani and launched a new incursion into the residential area of Majdal Zoun. Shelling struck Mansouri village in the Tyre district and wooded areas near Ayta al‑Jabal and Beit Yahoun in the Bint Jbeil district. Fires from the bombardment spread into Haddatha’s residential area and burned nearby olive groves."
-    },
-    {
-      "id": "mkt:01a0537c-e518-7118-8401-66c3cbd6262c",
-      "time": "2026-08-31 00:24:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UKMTO reported a tanker was struck by shelling 12 nautical miles north of Al Hassahab, Oman. No casualties or environmental impact reported."
     }
   ]
 }
