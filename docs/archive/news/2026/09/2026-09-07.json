@@ -1,7 +1,15 @@
 {
   "date": "2026-09-07",
-  "count": 161,
+  "count": 162,
   "items": [
+    {
+      "id": "mkt:01a07836-d7c2-7118-84bc-1b2bc92a5c9e",
+      "time": "2026-09-07 03:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said Miami International Airport has suspended all operations after an Amazon cargo aircraft ran off the runway. Emergency crews are on site assessing the situation."
+    },
     {
       "id": "5079672",
       "time": "2026-09-07 03:30:44",

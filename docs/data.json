@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07 03:32:04",
-  "count": 14210,
+  "updated": "2026-09-07 03:35:58",
+  "count": 14208,
   "items": [
+    {
+      "id": "mkt:01a07836-d7c2-7118-84bc-1b2bc92a5c9e",
+      "time": "2026-09-07 03:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said Miami International Airport has suspended all operations after an Amazon cargo aircraft ran off the runway. Emergency crews are on site assessing the situation."
+    },
     {
       "id": "5079672",
       "time": "2026-09-07 03:30:44",
@@ -130144,35 +130152,6 @@
         "DXY"
       ],
       "text": "TASNIM NEWS cited preliminary information saying hostile drones struck Larak Island in Hormozgan province about one hour ago. Initial unofficial reports indicate two killed and two wounded."
-    },
-    {
-      "id": "mkt:01a0542b-639a-7118-8402-3297106a8bd7",
-      "time": "2026-08-31 03:35:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News reported an explosion near Larak Island; cause unknown."
-    },
-    {
-      "id": "5067358",
-      "time": "2026-08-31 03:35:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "悉尼早盤交易中，美元兌G10主要貨幣匯率保持穩定。"
-    },
-    {
-      "id": "5067357",
-      "time": "2026-08-31 03:35:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：拉拉克島附近傳來爆炸聲，爆炸原因不明。"
     }
   ]
 }
