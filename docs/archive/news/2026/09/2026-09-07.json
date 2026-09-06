@@ -1,7 +1,55 @@
 {
   "date": "2026-09-07",
-  "count": 134,
+  "count": 139,
   "items": [
+    {
+      "id": "mkt:01a0781e-9176-7118-84bb-d332866fe72c",
+      "time": "2026-09-07 03:07:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said Israel has already occupied parts of Lebanon and that he believes Lebanon will rise again; this time it will unleash massive fury and leave Israel with nothing."
+    },
+    {
+      "id": "mkt:01a0781e-07ad-7118-84bb-ceda72a9fcc1",
+      "time": "2026-09-07 03:07:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said an agreement to demarcate a new shipping channel through the strategic waterway is expected to be signed in the coming days, with Iran to control vessel entry and exit."
+    },
+    {
+      "id": "mkt:01a0781d-3c33-7118-84bb-c3a535bffae5",
+      "time": "2026-09-07 03:06:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s Supreme National Security Council secretary said Tehran has every reason not to trust the United States, will continue diplomacy and negotiations but reserves the right to remain skeptical. He accused Washington of falsely branding Iran untrustworthy and denied Iran has attacked other states, challenged political borders, or failed to meet its international commitments."
+    },
+    {
+      "id": "5079658",
+      "time": "2026-09-07 03:05:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗將宣佈霍爾木茲海峽禁區】伊朗最高國家安全委員會秘書雷扎伊當地時間9月6日晚表示，未來幾天，伊朗將宣佈霍爾木茲海峽區域的“禁區”——“禁區”將從美國海軍封鎖線起算，一直延伸至波斯灣內部分水域。任何進入“禁區”的船隻都將被列入伊朗的制裁名單。雷扎伊說，伊朗可以監測到美國船隻，也可以擊沉它們。而伊朗沒有擊沉美國船隻，是因為它們運載石油，一旦被擊沉將破壞環境。 雷扎伊還宣佈，伊朗與阿曼就霍爾木茲海峽船舶通行圖達成的協議“將於未來幾天內簽署”。"
+    },
+    {
+      "id": "mkt:01a0781b-902f-7118-84bb-b91cc1b3be38",
+      "time": "2026-09-07 03:04:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said claims that sanctions and an economic blockade have caused domestic shortages of basic goods are categorically false."
+    },
     {
       "id": "5079657",
       "time": "2026-09-07 03:03:39",
