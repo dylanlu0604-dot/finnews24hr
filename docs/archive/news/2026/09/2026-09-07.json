@@ -1,7 +1,23 @@
 {
   "date": "2026-09-07",
-  "count": 191,
+  "count": 193,
   "items": [
+    {
+      "id": "mkt:01a07886-69bd-7118-84bc-b010c30f8d3e",
+      "time": "2026-09-07 05:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Financial Times: Europe has failed to curb Russia's \"hybrid warfare\"】Financial Times, citing Western defense and intelligence officials, reports Europe has failed to effectively deter Russia's \"hybrid warfare\" and must rapidly adopt new measures to curb Moscow's actions against NATO members or risk escalation with the Kremlin. Officials said a drone loaded with military-grade explosives targeting Leipzig/Halle airport was thwarted last month, highlighting Russia's willingness to strike below the Article 5 threshold and the breakdown of current deterrence. Western officials said responses require collective European action; a senior defense official said Europe has been far too weak at deterring provocations that do not trigger Article 5 and, while existing deterrence can prevent conventional or nuclear escalation, strategies to counter hybrid warfare must be rethought."
+    },
+    {
+      "id": "5079684",
+      "time": "2026-09-07 05:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國奧蘭多國際機場正在為邁阿密國際機場的處置工作提供支援，接收備降航班。"
+    },
     {
       "id": "5079683",
       "time": "2026-09-07 04:51:45",

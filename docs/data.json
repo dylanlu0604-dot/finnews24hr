@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-07 04:58:20",
-  "count": 14210,
+  "updated": "2026-09-07 05:02:12",
+  "count": 14209,
   "items": [
+    {
+      "id": "mkt:01a07886-69bd-7118-84bc-b010c30f8d3e",
+      "time": "2026-09-07 05:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Financial Times: Europe has failed to curb Russia's \"hybrid warfare\"】Financial Times, citing Western defense and intelligence officials, reports Europe has failed to effectively deter Russia's \"hybrid warfare\" and must rapidly adopt new measures to curb Moscow's actions against NATO members or risk escalation with the Kremlin. Officials said a drone loaded with military-grade explosives targeting Leipzig/Halle airport was thwarted last month, highlighting Russia's willingness to strike below the Article 5 threshold and the breakdown of current deterrence. Western officials said responses require collective European action; a senior defense official said Europe has been far too weak at deterring provocations that do not trigger Article 5 and, while existing deterrence can prevent conventional or nuclear escalation, strategies to counter hybrid warfare must be rethought."
+    },
+    {
+      "id": "5079684",
+      "time": "2026-09-07 05:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國奧蘭多國際機場正在為邁阿密國際機場的處置工作提供支援，接收備降航班。"
+    },
     {
       "id": "5079683",
       "time": "2026-09-07 04:51:45",
@@ -130138,30 +130154,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊發言人：此次行動（美軍轟炸伊朗南部島嶼）是特朗普政府在經濟戰爭背景下犯下的戰略性致命錯誤。該錯誤將使局勢轉而對策劃者不利，並會讓其付出沉重代價。敵人將在經濟與軍事兩個領域，為這一誤判承擔後果。"
-    },
-    {
-      "id": "mkt:01a05479-d3be-7118-8402-93fbfa215173",
-      "time": "2026-08-31 05:01:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA says an oxidizer leak in the propulsion system of SpaceX's Dragon is forcing an adjustment to the agency's Crew-13 launch date."
-    },
-    {
-      "id": "5067377",
-      "time": "2026-08-31 04:59:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空航天局：“載人13號任務”新目標發射日期確定後將另行公佈。"
-    },
-    {
-      "id": "5067376",
-      "time": "2026-08-31 04:59:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空航天局：NASA與SpaceX正在調整該局Crew-13龍飛船載人任務前往國際空間站的發射日期，以解決龍飛船推進系統的氧化劑洩漏問題。"
     }
   ]
 }
