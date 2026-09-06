@@ -1,7 +1,17 @@
 {
   "date": "2026-09-06",
-  "count": 699,
+  "count": 700,
   "items": [
+    {
+      "id": "mkt:01a076e1-2e28-7118-84b9-89c0827d0192",
+      "time": "2026-09-06 21:21:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil transit through the Strait of Hormuz averages 9 million barrels per day."
+    },
     {
       "id": "5079393",
       "time": "2026-09-06 21:20:25",

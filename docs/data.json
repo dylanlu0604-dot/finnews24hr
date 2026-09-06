@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-06 21:21:08",
-  "count": 14187,
+  "updated": "2026-09-06 21:25:03",
+  "count": 14186,
   "items": [
+    {
+      "id": "mkt:01a076e1-2e28-7118-84b9-89c0827d0192",
+      "time": "2026-09-06 21:21:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said oil transit through the Strait of Hormuz averages 9 million barrels per day."
+    },
     {
       "id": "5079393",
       "time": "2026-09-06 21:20:25",
@@ -130014,22 +130024,6 @@
         "WTI"
       ],
       "text": "【Next week preview: US August nonfarm payrolls, China August PMIs, G20 finance ministers & central bank governors meeting】Monday — China August official manufacturing PMI; Germany preliminary August CPI (MoM); Dallas Fed business activity index (Aug). G20 finance ministers and central bank governors meeting runs through Sept. 1. Tuesday — China August RatingDog manufacturing PMI; final Aug manufacturing PMIs for France, Germany, UK and euro area; euro area preliminary Aug CPI and July unemployment; UK Nationwide house prices (Aug MoM) and July mortgage approvals; Switzerland retail sales (Jul YoY). US final/flash PMIs, ISM manufacturing (Aug), JOLTs vacancies (Jul) and July construction spending. SCO heads-of-state council meeting. Corporate: NIO, Dell (post‑close). Wednesday — US weekly API and EIA crude inventories (week to Aug. 28); Australia Q2 GDP (YoY); US ADP payrolls (Aug) and July factory orders. RBNZ rate decision and policy statement. BOC rate decision; Governor Macklem and SDG Rogers hold policy press conference. Corporate: Broadcom (post‑close). Thursday — China August RatingDog services PMI; Swiss Aug CPI (MoM); final Aug services PMIs for France, Germany, UK and euro area; euro area July PPI (MoM). US Challenger layoffs (Aug), initial jobless claims (week to Aug. 29), July trade balance, final S&P Global services PMI (Aug) and ISM non‑manufacturing (Aug). EIA weekly natural gas storage (week to Aug. 28). Fed Beige Book release; Fed Governor WALLER interview. Friday — euro area July retail sales (MoM); Canada August employment. US August unemployment rate, seasonally adjusted nonfarm payrolls and average hourly earnings (YoY and MoM). August global supply‑chain pressure index. FOMC voter and Cleveland Fed president to open the “Fed Community” event. BOE Governor BAILEY speaks. Saturday — US Baker Hughes rig count (week to Sept. 4). ARAMCO publishes official crude selling prices around the 5th of the month."
-    },
-    {
-      "id": "5067115",
-      "time": "2026-08-30 21:24:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "冰島總理：我們將繼續與歐盟深化歐洲經濟區（EEA）關係。"
-    },
-    {
-      "id": "5067114",
-      "time": "2026-08-30 21:23:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟委員會正在制定一項法律，允許歐盟各國對透過Airbnb等平臺進行的短期住房租賃加以限制。"
     }
   ]
 }
