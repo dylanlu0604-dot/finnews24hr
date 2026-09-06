@@ -1,7 +1,15 @@
 {
   "date": "2026-09-07",
-  "count": 86,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:01a077cb-092c-7118-84bb-2f0a7f8c3d08",
+      "time": "2026-09-07 01:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said Putin has a different vision for Russia that could also be realized after the conflict ends."
+    },
     {
       "id": "5079590",
       "time": "2026-09-07 01:34:45",
