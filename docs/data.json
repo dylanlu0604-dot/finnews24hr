@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-07 01:31:51",
-  "count": 14194,
+  "updated": "2026-09-07 01:35:44",
+  "count": 14195,
   "items": [
+    {
+      "id": "5079590",
+      "time": "2026-09-07 01:34:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使庫什納談及俄烏衝突：普京對他的國家有著不同的訴求，而這些訴求在衝突結束之後同樣能夠得以實現。"
+    },
+    {
+      "id": "mkt:01a077c8-ea42-7118-84bb-215d0a0bc625",
+      "time": "2026-09-07 01:34:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Kushner said a new technocratic Palestinian government has been formed; it is neither the Palestinian Authority nor Hamas. He warned the government cannot be installed if armed factions remain. He added that realization is growing that Gaza's level of militarization exceeds prior understanding and that demilitarizing Gaza will not be easy."
+    },
     {
       "id": "mkt:01a077c5-ec5b-7118-84bb-1e574df2f02e",
       "time": "2026-09-07 01:30:54",
@@ -130034,14 +130054,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部：巴基斯坦外交部長、國防部長阿西夫以及陸軍參謀長阿西姆·穆尼爾將出席麥加協議委員會會議。"
-    },
-    {
-      "id": "5067256",
-      "time": "2026-08-31 01:32:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門武裝部隊：在胡塞自殺式快艇對紅海船隻發起襲擊之前將其摧毀。"
     }
   ]
 }
