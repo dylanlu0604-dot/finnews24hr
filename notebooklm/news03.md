@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-07 04:46:37_
-_本檔包含 3003 則快訊，約 554867 字_
+_更新時間：2026-09-07 06:51:39_
+_本檔包含 2993 則快訊，約 553624 字_
+
+---
+
+### 2026-09-03 14:56:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Nickel Rebounds from Over 1-Month Low — Nickel traded around $16,930 per tonne, rebounding from an over one-month low as potential production cuts at Indonesia’s largest nickel-processing hub raised concerns over a tightening supply outlook. Indonesia Morowali Industrial Park (IMIP) said El Niño-driven water shortages could reduce production by 30%-40% if new water sources are not secured, raising concerns over global availability. Some Chinese-backed nickel producers are also considering coordinated output cuts of around 30% at HPAL plants amid weak prices and rising operating costs, although no agreement has been reached. Indonesia’s tighter 2026 mining quota further points to lower ore availability, with the limit set at around 260-270 million tonnes vs 379 million tonnes in 2025. Meanwhile, elevated inventories and weak Chinese demand continued to weigh on prices, while higher imports of Philippine nickel ore into Indonesia could help offset tighter domestic supply.
+
+---
+
+### 2026-09-03 14:56:08  #MKT News #Important
+
+India's trade minister said final details of a US trade agreement will be published as soon as Washington can provide India tariff advantages relative to other trading partners.
+
+---
+
+### 2026-09-03 14:55:40  #焦點 #國際
+
+印度貿易部長：一旦美國能給予印度優於其他國家的關稅優勢，將立即公佈美印貿易協議最終細節。
+
+---
+
+### 2026-09-03 14:55:33  #國際
+
+印度貿易部長：一旦美國能夠給予印度相較於其他同行的關稅優惠，我們就會立即公佈美印貿易協議的最終細節。
+
+---
+
+### 2026-09-03 14:55:33  #MKT News
+
+【Ghana cocoa output may fall by more than one-third】Ghana Cocoa Marketing Company said adverse weather and disease are stressing trees and 2026/27 cocoa output could fall by more than one-third, exacerbating tightness in global chocolate raw material supply. Managing director Kofi Dogbe forecast production of 470,000–620,000 tonnes, versus about 760,000 tonnes last season. Dogbe’s range is below Bloomberg’s 650,000-tonne estimate last month.
+
+---
+
+### 2026-09-03 14:55:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Steel Holds Decline on Shrinking Margins — Steel rebar futures in China held their recent decline to around CNY 3,100 per ton in early September, as rising raw material costs deepened losses at steel mills, overshadowing stronger steel exports. Industry data showed that the average cost of hot metal and steel billets at major mills in Tangshan rose sharply this week, pushing average losses to more than CNY 100 per ton. China’s non-manufacturing PMI, which covers services and construction, also held steady at 49.0, matching July’s reading and remaining at its weakest level since December 2022. Meanwhile, China’s total steel exports rose 7.8% week-on-week to 2.55 million tons in the week to August 31, marking a third consecutive weekly increase and the highest level in nearly eight weeks. In August, steel prices rallied sharply as investors anticipated a recovery in demand due to seasonal factors ahead of the September peak construction season.
+
+---
+
+### 2026-09-03 14:54:45  #Trading Economics #Economy #Sweden #Services PMI #Importance 1
+
+Sweden Services Sector Growth Picks Up in August — The Services PMI in Sweden rose to 55.8 in August 2026 from a revised 54.3 in July and was above the average for the first eight months of the year (54.1). All sub-indices increased during the month, with business volume making the largest positive contribution to the rise in the services PMI, climbing to 57.5 from 54.2 in July. This was followed by order intake (56.2 vs 55.8), employment (47.9 vs 46.2), and delivery times (60.9 vs 60.1). Cost pressures also eased further, as the index for raw and intermediate goods prices fell to 61.6, the lowest in six months, from 66.4 in July. “The service sector strengthened in August, with a clear increase in business volume. However, service companies are still holding off on hiring new employees, and perhaps we need a longer period of stronger service-sector activity before employment picks up,” said Jörgen Kennemar, responsible for the PMI analysis. Meanwhile, the Composite PMI increased to 55.9 in August from 54.7 in the previous month.
+
+---
+
+### 2026-09-03 14:54:27  #市場 #央行 #國際
+
+【日元走強，干預風險縈繞警惕的交易員心頭】日元結束為期一個月的跌勢，最高上漲 1.1%，觸及 157.01，投資者聚焦各類有望提振該貨幣的因素。交易員開始質疑一種主流觀點，即日本央行加息節奏過慢難以支撐日元；日本最大養老金的相關訊息，也引發資金流向有望改善的猜測。投資者猜測日本或將再度實施匯市干預，尤其可能在銀周假期期間；市場同時密切關注美聯儲議息會議以及日本央行 9 月 18 日的政策決議。
+
+---
+
+### 2026-09-03 14:54:18  #公司 #國際
+
+空中客車歐洲公司：日本消防防災廳訂購首架空客H160直升機。
+
+---
+
+### 2026-09-03 14:54:00  #國際
+
+印尼盾漲幅擴大至0.5%，創5月以來新高。
+
+---
+
+### 2026-09-03 14:53:34  #MKT News #SIFANG.SZ #Impact bearish
+
+【Convertible bond priority subscription payment today; Sifang Technology opens at 10% limit down】Sifang Technology opened at the 10% limit down on Sept. 3 at 13.91 yuan, down 10.03%. Sept. 3 is the payment date for the original-shareholder priority subscription of the company's convertible bond; market participants say funds have been pulled from the underlying equity to participate in the priority subscription and payment, creating selling pressure. Sifang said under its convertible bond rules investors had to hold the stock on Sept. 2 to qualify for the priority allotment; they may sell shares today and still complete the priority subscription and payment. The company noted similar limit-down moves have been common in prior convertible bond issues.
+
+---
+
+### 2026-09-03 14:53:29  #公司 #市場
+
+【可轉債原股東配售今日繳款，四方科技一字板跌停，公司回應】9月3日，四方科技開盤一字跌停，跌停價為13.91元/股，跌幅為10.03%。訊息面上，9月3日是“四方轉債”可轉債發行原股東優先配售認購及繳款日。市場觀點認為，資金從正股撤出參與優先配售認購及繳款，造成較大拋壓。對此，四方科技方面回應，依據公司可轉債發行規則，參與原股東優先配售的投資者需要在9月2日持有上市公司股票，今天可以賣出股票後優先配售認購及繳款。從其他上市公司發行可轉債以往案例看，股價跌停屬於正常現象。（中證金牛座）
+
+---
+
+### 2026-09-03 14:53:11  #公司
+
+【中證協就券商併購示範實踐徵求行業意見】中國證券業協會近日向各券商下發通知，就《證券行業示範實踐第7號——證券公司併購（徵求意見稿）》徵求行業意見。示範實踐正文分為論證準備階段、併購交易階段、整合融合階段三章。在整合融合階段小結中，中證協提出三點建議：一是加強整體統籌，針對法人與系統切換、客戶遷移與子公司整合等重大專項工作，強化目標與過程管理，確保如期、無差錯達成工作目標；二是加強內外協調，針對整合融合難點堵點問題，做好監管機構等外部主體溝通有效解決和內部跨單位協調，確保問題及時解決；三是加強任務督導，以專項督辦、定期報告、專題會議等形式動態跟蹤任務進展，確保整合融合全過程有序、全方位覆蓋。（中證金牛座）
+
+---
+
+### 2026-09-03 14:53:11  #MKT News
+
+【China Securities Association opens consultation on draft M&A guidance for securities firms (Demonstrative Practice No.7)】The China Securities Association has circulated a draft titled Demonstrative Practice No.7 — Securities-firm M&A to brokerages for comment, framing M&A work in three stages: preparatory, transaction and post-deal integration. In the integration phase the association urges tighter project management for major tasks — legal/entity and IT/system cutovers, client migration and subsidiary consolidation — to ensure timely, error-free completion; stronger external and internal coordination, including proactive engagement with regulators to resolve integration bottlenecks and cross-unit coordination to clear issues promptly; and enhanced oversight through special task forces, regular reporting and dedicated meetings to dynamically track progress and secure orderly, end-to-end integration.
+
+---
+
+### 2026-09-03 14:53:06  #MKT News #USDJPY #Impact bearish
+
+USD/JPY fell below 157, down 1.07% intraday.
+
+---
+
+### 2026-09-03 14:52:27  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+【A-share 1H earnings season closes; STAR Market and ChiNext post outsized growth】China A-share 1H earnings season concluded, Shanghai and Shenzhen stock exchanges report: STAR Market companies posted revenue growth near 40% and net profit up 4.4x YoY; ChiNext companies reported revenue +22.3% YoY and net profit +32.7% YoY. Shanghai-listed real-economy firms increased R&D spending to over 475 billion yuan in 1H, up about 6.5% YoY; Shenzhen-listed real-economy firms’ R&D totaled 377.22 billion yuan, up 6.54% YoY.
+
+---
+
+### 2026-09-03 14:51:47  #公司 #市場
+
+【法院據悉支援Jefferies子公司訴求 頒佈Radiant World全球資產凍結令】據知情人士稱，Jefferies Financial Group Inc.的子公司已獲得針對Radiant World及其創始人Pinkesh Nahar的全球資產凍結令。英國高等法院下達的這一凍結令，是Radiant World債權人迄今為止的最大動作。Radiant World是全球最大鐵礦石貿易商之一，如今正面臨越來越多的法律糾紛。此前彭博新聞社報道稱，由於擔心Radiant World為獲取融資向銀行提供偽造檔案，數家頂級大宗商品企業已開始與該公司切割。法庭記錄顯示，Jefferies旗下公司管理的基金LAM Trade Finance Group II LLC上週在倫敦對Radiant World採取法律行動，其中包括申請禁制令。
+
+---
+
+### 2026-09-03 14:51:14  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+【European gas rally pauses as Trump comments raise hopes for Middle East supply restart】European natural gas rally paused after benchmark futures eased following a roughly 10% gain over the past three sessions. Markets were encouraged by Trump saying a new round of US strikes on Iran may "end quickly" and again asserting Washington "controls the Strait of Hormuz," which eased fears of a prolonged Middle East conflict that had lifted energy prices. Despite the pullback, European gas contracts remain more than double pre-war levels and seasonal gas storage for the coming winter is unusually low, raising the risk of intensified global competition for supplies if temperatures fall.
+
+---
+
+### 2026-09-03 14:50:46  #公司
+
+【滬深上市公司研發投入加碼 雙創板塊業績增長突出】A股上市公司半年報披露近日收官。記者從上海證券交易所、深圳證券交易所獲悉，上半年，滬深兩市上市公司積極鍛造新質生產力，研發投入持續加碼，科創板、創業板業績增長勢頭向好。作為資本市場重要成長板塊，科創板、創業板公司上半年業績增長明顯，其中科創板公司營收增速近40%，淨利潤增長4.4倍；創業板公司營收同比增長22.3%，淨利潤同比增長32.7%。研發投入規模和強度是觀察企業科技創新活力的重要指標。上半年，滬市實體類公司研發投入合計超4750億元，同比增長約6.5%。科創板公司研發投入合計1044億元，同比增長14.6%，研發強度中位數達12.6%，繼續保持高位。深市方面，實體類公司研發投入合計3772.19億元，同比增長6.54%。創業板公司研發投入合計1120.87億元，同比增長11.69%。創業板289家公司研發強度超10%，103家公司研發強度超20%。從絕對金額看，218家公司研發投入大於1億元，27家公司研發投入大於5億元，寧德時代、欣旺達、藍思科技等11家公司研發投入超過10億元。（新華社）
 
 ---
 
@@ -17941,181 +18055,5 @@ Japanese Yen Weakens to 1-Month Low — The Japanese yen depreciated past 160 pe
 ### 2026-09-02 10:48:27  #公司 #國際
 
 【中使館：泰國政府調整免簽入境停留期限不影響中泰雙邊免籤協定】據“中國駐泰國大使館”公眾號訊息，近日，泰國政府釋出公告，調整免簽入境停留期限，相關規定將於2026年9月15日起實施。中國駐泰國使館經向泰方有關部門瞭解核實，現提醒如下：一、泰方此次調整不影響中泰雙邊免籤協定。泰方取消的是此前面向包括中國在內的93個國家和地區實施的單方面停留期60日免籤政策。2024年3月1日起生效的《中華人民共和國政府與泰王國政府關於互免持普通護照人員簽證協定》繼續有效。二、根據有關協定，中國公民持有效護照赴泰仍可享受免籤待遇。自2026年9月15日起，以旅遊、探親及其他符合協定規定的事由，持公務普通護照、普通護照的中方人員仍可免簽入境泰國，單次停留不超過30日（每180日累計停留不超過90日）。三、免籤不等於無條件入境。擬入境泰國從事工作、學習、新聞報道、定居等須事先批准的活動以及擬在泰停留超過30日的，須在入境泰國前辦妥相應簽證。入境時請確保護照有效期符合泰方要求，並按規定完成泰國電子入境卡申報。請遵守泰國移民法律法規及獲准停留期限規定，切勿逾期居留或從事與入境事由不符的活動。
-
----
-
-### 2026-09-02 10:46:47  #其他
-
-【今年前7個月醫保共撥付即時結算資金9457.31億元】國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。國家醫保局有關負責人介紹，DRG/DIP結算清算提質增效。在即時結算方面，今年前7個月，全國醫保部門共撥付醫藥機構即時結算資金9457.31億元，佔本地月結算資金的95.51%；覆蓋定點醫藥機構75.22萬家，佔定點醫藥機構的90.17%。即時結算年度目標，即2026年底前實現即時結算資金佔本地醫保基金月結算資金的80%以上，開通即時結算定點醫療機構佔比達到80%以上的目標提前完成。在年度清算方面，2025年底啟動清算提質增效三年行動計劃，積極最佳化清算流程，大幅縮短清算週期。今年全國所有統籌地區在5月27日全面完成2025年度基金清算。預計2028年實現全國所有統籌地區3月底前完成上年度清算。
-
----
-
-### 2026-09-02 10:46:21  #公司 #市場
-
-【美容護理板塊逆勢拉昇 維琪科技30cm漲停】美容護理板塊盤中逆勢拉昇，維琪科技30cm漲停，芭薇股份、珈凱生物、丸美生物、登康口腔、拉芳家化等跟漲。
-
----
-
-### 2026-09-02 10:45:34  #MKT News
-
-【Alibaba updates flagship model Qwen3.8-Max】Alibaba upgraded its flagship model Qwen3.8-Max, reporting significant performance gains versus the prior version after targeted fine-tuning for programming (Coding) and professional office (Cowork) tasks. The model is now available via API on Alibaba’s Qianwen AI platform; Qianwen Office, Qoder and the Qianwen app were integrated at launch.
-
----
-
-### 2026-09-02 10:45:15  #公司
-
-【鼎犀智創完成Pre-A輪融資】AI新材料研發公司鼎犀智創（Rhinovate™）近日完成數億元Pre-A輪融資，本輪融資由鼎暉百孚領投，九合創投、彬復資本、龍芯創投、順禧基金、中關村資本跟投。本輪資金將重點用於RhinoMat材料科學基礎大模型及底層技術研發、多場景可編排AI智慧體與自主進化實驗室體系建設、碳基高效能材料放大驗證，持續沉澱核心技術與實驗資料。
-
----
-
-### 2026-09-02 10:44:50  #公司 #國際
-
-【棄美來港上市！菲律賓餐飲巨頭，為何押注香港？】菲律賓餐飲龍頭快樂蜂（Jollibee）9月1日宣佈重大戰略調整，集團將分拆國際業務並在香港上市，取代此前擬定的美國上市計劃。快樂蜂在提交予菲律賓證券交易所的檔案中指出，選擇香港是基於其在亞洲的深厚業務根基與品牌影響力，相信香港的市場生態及投資者結構更能契合其國際業務的長期增長需求。港交所（00388）能提供廣泛的全球及區域投資者資源，加上香港現有的亞洲消費品及餐飲上市公司體系，也為投資者評估快樂蜂國際時提供具參考價值的對標標的。快樂蜂主席陳覺中表示，香港是最符合集團國際業務特性、地理佈局及長期願景的市場。他同時宣佈，委任財務兼風險總監Richard  Shin出任快樂蜂國際行政總裁，領軍推進分拆上市程序，稱這是集團邁向下一階段發展的重要一步。（香港商報）
-
----
-
-### 2026-09-02 10:44:41  #其他
-
-【空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資】近日，空間智慧企業映界科技MirrorSpace完成超千萬元種子+輪融資，由海願資本（原紫金港資本）領投，全部老股東奇績創壇、松禾資本持續加註，創始人金依力出資超百萬元跟投。本輪資金將重點用於感知硬體的商業化交付、時空理解與記憶系統的迭代，以及時空世界模型的持續訓練。
-
----
-
-### 2026-09-02 10:44:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share cosmetics stocks traded higher after a choppy session; Weiqi Technology hit the daily limit, Bawei Co. rose over 9%, and Wanmei Biotech, Jiakai Biotech and Jinsheng New Materials also advanced.
-
----
-
-### 2026-09-02 10:43:41  #Trading Economics #Economy #Japan #Interest Rate #Importance 1
-
-BoJ Takata Urges Nimble Approach to Rate Hikes — Bank of Japan (BoJ) board member Hajime Takata urged a flexible, data-dependent approach to rate hikes, warning that inflation is edging closer to the 2% target and risks of overheating are rising. Addressing business leaders in Hokkaido, he described 2026 as a “regime change,” with policy no longer tied to a fixed pace but adjusting to domestic and global conditions. Takata, among the central bank’s more hawkish voices, had proposed lifting the benchmark rate to 1.25% at the July meeting, but the idea was rejected in an 8-1 vote, leaving the rate at 1%. Meanwhile, Governor Kazuo Ueda stressed that policymakers will continue raising rates as financial conditions remain accommodative, while weighing inflation risks against the cumulative impact of past moves. He said the board will scrutinise whether economic and price trends stay aligned with its baseline outlook and debate the risks at its next policy meeting.
-
----
-
-### 2026-09-02 10:43:08  #公司
-
-【匯川技術：下半年將加大變頻器、伺服等高價值優勢業務的資源投入】匯川技術(300124)8月31日在業績說明會上表示，公司下半年將把握AI產業投資、國產化率提升、中國裝置出海帶來的結構性市場機會，加大變頻器、伺服、PLC等高價值優勢業務的資源投入；持續推進AI、智慧機器人、數字能源等長期戰略業務佈局，同時收縮部分發展前景有限的低質業務，實現資源聚焦。
-
----
-
-### 2026-09-02 10:42:51  #MKT News #Important #Commodities #Energy
-
-U.S. Energy Secretary Wright arrived in Venezuela, saying President Trump’s energy diplomacy is producing new energy agreements that will open doors for U.S. firms and strengthen energy security across the hemisphere, restoring U.S. leadership in energy.
-
----
-
-### 2026-09-02 10:42:26  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1235億元。
-
----
-
-### 2026-09-02 10:42:01  #其他
-
-【國臺辦：祖國統一勢不可擋，民進黨搞再多無人機都是徒勞無益】9月2日上午，國臺辦舉行例行新聞釋出會。記者：近日，臺灣民意機構透過所謂“無人機產業發展方案”。有島內輿論擔憂，無人機也成為臺灣擴充軍備的重要專案。請問對此有何評論？國臺辦發言人張晗：民進黨當局要將民用產業軍工化，妄圖將無人機作為“謀獨拒統”的工具，純屬枉費心機。祖國統一勢不可擋，民進黨當局搞再多無人機，都是徒勞無益。（日月譚天）
-
----
-
-### 2026-09-02 10:40:02  #市場
-
-【主力資金：中際旭創淨賣出超22億】截至目前，今日主力資金淨流出437.26億；淨流入線纜部件及其他、碳纖維、軍民融合等板塊，其中線纜部件及其他板塊淨流入12.10億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出410.71億。
-  
-個股方面，遠東股份淨買入10.22億元位居首位，長城軍工、飛龍股份、中國巨石主力資金淨流入居前；中際旭創淨賣出22.27億元位居首位，長鑫科技、天孚通訊、新易盛淨流出額居前。
-
----
-
-### 2026-09-02 10:40:01  #其他
-
-【阿里更新旗艦模型Qwen3.8-Max，前端程式設計能力躍居全球第一】9月2日，阿里更新旗艦模型Qwen3.8-Max，效能較舊版本顯著提升。在針對程式設計（Coding）和專業辦公（Cowork）進行專項後訓練後，Qwen3.8-Max新版本整體效能增強。在聚焦前端程式設計能力（WebDev）的全球權威三方榜單CodeArena中，提升22分至1691分，領先Claude Opus5、Kimi K3等一眾模型，位居總榜第一。同時，CodeArena更新的模型價效比榜單（帕累託前沿）顯示，Qwen3.8-Max新版本每百萬Tokens綜合平均僅5美元。
-
----
-
-### 2026-09-02 10:39:40  #公司 #市場
-
-【磷化工板塊震盪走弱，新農股份跌停】磷化工板塊震盪走弱，新農股份跌停，金正大、江山股份、和邦生物、金誠信、雲天化、東方鐵塔等跟跌。
-
----
-
-### 2026-09-02 10:39:29  #Trading Economics #Economy #Fiji #Inflation Rate #Importance 1
-
-Fiji Inflation Hits Highest Since 2011 — Fiji's annual inflation accelerated to 7.6% in August 2026 from 5.7% in July, the highest inflation rate since December 2011, as food inflation accelerated to 9.5%, the highest since April 2024. Inflation also accelerated for housing (7.0% vs 6.1% in July) and miscellaneous goods and services (3.6% vs 2.7%), while rebounding for clothing and footwear (1.2% vs -0.3%) and furnishings, household equipment, and routine household maintenance (0.6% vs -0.6%). Meanwhile, inflation moderated for alcoholic beverages and tobacco (13.3% vs 14.3%), while remaining steady for transport prices (at 11.7%) and education (at 0.4%). Additionally, recreation and culture prices fell at a much softer pace (-0.7% vs -2.4%). On a monthly basis, the CPI edged down 0.1% in August, following a 1.1% drop in July, marking the second straight monthly decline.
-
----
-
-### 2026-09-02 10:39:20  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Hits Fresh 15-Year Peak — Australia’s 10-year government bond yield broke above 5.2%, reaching its highest level since July 2011, as surging oil prices fueled inflation concerns while stronger-than-expected economic growth reinforced expectations for an imminent interest rate hike. Australia’s economy expanded 0.4% quarter-on-quarter in Q2, beating forecasts for 0.3% growth, while annual growth accelerated to 2.1%, above expectations for 1.8%. The stronger figures suggested economic activity remains resilient despite the Reserve Bank's efforts to cool demand and curb persistent inflation. Markets raised the odds of a fourth rate hike at the September meeting after the GDP release to 57% from 48% previously, while a November hike is now more than fully priced in. The probability of another hike in Q1 2027 also rose to 82% from 62%. Meanwhile, escalating US-Iran tensions and the resulting rise in oil prices have also rekindled inflationary risks in major economies, pushing global bond yields higher.
-
----
-
-### 2026-09-02 10:37:52  #其他
-
-【2025年按病種付費人次已佔醫保出院總人次的91.8%】國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。這是繼2019年的1.0版分組，2024年2.0版分組方案之後的第三版分組方案和技術規範。按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”：2019年啟動按病組（DRG）付費國家試點，2020年啟動按病種分值（DIP）付費國家試點，2021年啟動醫保支付方式改革三年行動計劃，在試點基礎上加快改革擴面提質。經過三年試點和三年專項行動，按病種付費基本實現符合條件的統籌地區和醫療機構“全覆蓋”，2025年按病種付費的人次已佔醫保出院總人次的91.8%。患者個人負擔有所減輕：醫療機構住院費用結構更加合理從改革成效看，初步實現了醫、保、患三方共贏的局面。一是患者個人負擔有所減輕，2025年全國職工醫保、居民醫保次均住院費用分別較2024年下降4.73%、0.94%，28個省份住院患者自負費用的絕對額下降；二是醫療機構住院費用結構更加合理，2025年全國按病種付費病例發生的住院費用中藥耗費用佔比約37.49%，同比下降0.52個百分點，22個省份的住院總費用呈現“藥耗佔比下降、醫療服務費用佔比上升”的結構性變化；三是特例單議等機制有力保障了重症患者治療和創新技術、藥耗應用。特例單議機制目前已在全國普遍建立，2025年醫療機構申請特例單議病例267.4萬例，透過率86.9%，結算醫保基金約644.73億元，例均醫保基金支出約2.77萬元。同時，醫保基金執行總體平穩，2025年全國基本醫保基金總收入3.59萬億元，總支出約3萬億元。
-
----
-
-### 2026-09-02 10:37:46  #MKT News
-
-The National Healthcare Security Administration said case-based payments accounted for 91.8% of medical insurance inpatient discharges in 2025.
-
----
-
-### 2026-09-02 10:37:18  #其他
-
-【委內瑞拉首都附近國際機場恢復商業客運航班】委內瑞拉交通部長弗朗西斯科·加爾塞斯9月1日稱，邁克蒂亞西蒙·玻利瓦爾國際機場新建的臨時航站樓正式開始運營，以服務國內和國際航班。邁克蒂亞西蒙·玻利瓦爾國際機場位於委拉瓜伊拉州，距離首都加拉加斯市區直線20多公里。機場航站樓因6月24日地震造成結構性損壞後暫停使用。
-
----
-
-### 2026-09-02 10:36:51  #其他
-
-【國臺辦回應陸委會妄言所謂大陸“文化統戰”】9月2日上午，國臺辦舉行例行新聞釋出會。記者：近日，有綠營政客稱，臺灣民間團體“小義子漢服”以“推廣儒學與漢服文化”為名在端午節期間以孔廟為背景拍攝影片，併發布“2026海峽兩岸漢服家庭聯誼”等，疑具統戰色彩。陸委會副主委沈有忠對此稱，文化應是中性的，若中共利用文化作為政治工具或統戰工具，當然會駁斥。對此有何評論？國臺辦發言人張晗：中華文化是兩岸同胞共同的精神家園。島內民間團體致力於傳承弘揚中華文化，踴躍參與兩岸交流活動，恰恰證明了兩岸同根同源、同文同種。我們將同臺灣同胞一道，持續推進兩岸文化交流合作，共同弘揚中華文化，做中華文化的守護者、傳承者、弘揚者。統戰的本質是大團結大聯合，是交朋友、促團結，是求同存異、共謀發展。民進黨當局蓄意歪曲統戰本義本質，抹黑兩岸交流活動，恐嚇打壓參與兩岸交流活動的臺灣同胞，用心險惡。（日月譚天）
-
----
-
-### 2026-09-02 10:36:29  #MKT News #Market Regions #Greater China
-
-【September likely to see 2–3 typhoons make landfall or materially affect China】National Climate Center deputy director Gao Rong said on Sept 2 China is likely to see 2–3 typhoons make landfall or otherwise materially affect the country in September. A new typhoon may form within the next 10 days and could impact the southeast coast. Typhoon Shadhel in the South China Sea will turn west-southwest from Sept 3 and continue to affect South China and southern Jiangnan.
-
----
-
-### 2026-09-02 10:35:49  #其他
-
-【未來10天全國多地有高溫天氣】國家氣候中心副主任高榮2日預計，未來10天，9月5日前，新疆南部和東部、內蒙古西部、甘肅西部等地仍多高溫天氣，最高氣溫一般為35℃至37℃，南疆盆地局地可達40℃以上；5日以後，四川盆地東部、江南西部、華南北部等地氣溫回升，部分地區最高氣溫可達35℃以上。未來10天，前期南方多降雨，中期副熱帶高壓發展、南方降水減弱，後期北方有一次自西向東的降水過程。9月，預計有4次明顯降水天氣過程。(新華社)
-
----
-
-### 2026-09-02 10:35:45  #其他
-
-【9月預計有2至3個颱風登陸或明顯影響我國】國家氣候中心副主任高榮2日表示，9月預計將有2至3個颱風登陸或明顯影響我國。其中未來10天可能有1個新生成的颱風影響東南沿海地區。此外，在南海的颱風“沙德爾”3日起將逐漸轉向為西偏南方向移動，繼續影響華南、江南南部等地。（新華社）
-
----
-
-### 2026-09-02 10:34:35  #公司
-
-【鼎犀智創完成Pre-A輪融資】近日，AI新材料研發公司鼎犀智創（Rhinovate™）完成數億元Pre-A輪融資，本輪融資由鼎暉百孚領投，九合創投、彬復資本、龍芯創投、順禧基金、中關村資本跟投。本輪資金將重點用於RhinoMat材料科學基礎大模型及底層技術研發、多場景可編排AI智慧體與自主進化實驗室體系建設、碳基高效能材料放大驗證，持續沉澱核心技術與實驗資料。
-
----
-
-### 2026-09-02 10:34:16  #公司 #市場
-
-【化妝品板塊短線拉昇 維琪科技漲超10%】化妝品板塊短線拉昇，維琪科技漲超10%，諾斯貝爾、芭薇股份、珈凱生物、錦盛新材、丸美生物等跟漲。
-
----
-
-### 2026-09-02 10:34:10  #市場
-
-紐西蘭國債收益率曲線陡峭化，2年期國債收益率下跌6個基點至3.59%。
-
----
-
-### 2026-09-02 10:33:08  #其他
-
-【中央網信辦深入開展“清朗·整治AI應用亂象”專項行動第二階段工作】近期，中央網信辦組織開展“清朗·整治AI應用亂象”專項行動第二階段工作，聚焦利用AI製作釋出虛假資訊、傳播暴力低俗內容、假冒仿冒他人、侵害未成年人權益等突出問題，部署各地網信部門深入推進重點整治任務，督促網站平臺集中清理AI生成各類違法不良資訊，依法查處違規賬號和移動應用程式，有效遏制AI生成合成資訊內容亂象，推動AI應用服務健康有序發展。截至目前，累計清理違法違規資訊561萬餘條，查處賬號4.9萬餘個，處置違規網站、應用程式等2400餘個。下一步，網信部門將在總結專項行動治理成效的基礎上，進一步把握人工智慧發展趨勢和規律，密切關注AI生成合成內容新情況新風險，及時採取有效措施防範AI技術濫用惡用，持續為人工智慧創新發展營造良好環境。(中國網信網)
-
----
-
-### 2026-09-02 10:31:19  #MKT News #Market Regions #Greater China
-
-【China cyberspace regulator launches second phase of campaign to curb AI misuse】The Cyberspace Administration of China (CAC) has launched the second phase of a nationwide campaign targeting AI-generated disinformation, violent or obscene content, impersonation and harms to minors. CAC ordered local internet regulators to intensify removal of AI-generated illegal content on websites and mobile apps, investigate and sanction violating accounts and apps, and curb proliferation of synthetic content. To date authorities say they have removed about 5.61 mln illegal items, sanctioned roughly 49,000 accounts and taken action on over 2,400 websites/apps. CAC said it will summarize enforcement results, monitor new risks from AI-generated content, and take timely measures to prevent misuse while promoting orderly AI development.
 
 ---

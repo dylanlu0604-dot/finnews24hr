@@ -1,7 +1,266 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-07 04:46:37_
-_本檔包含 2845 則快訊，約 554627 字_
+_更新時間：2026-09-07 06:51:39_
+_本檔包含 2868 則快訊，約 553464 字_
+
+---
+
+### 2026-09-07 06:48:25  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.08%。
+
+---
+
+### 2026-09-07 06:45:27  #其他
+
+【“姜健”號驅逐艦正式入列朝鮮海軍】據朝中社7日報道，“姜健”號驅逐艦入列儀式6日在朝鮮元山港舉行，朝鮮勞動黨總書記、國務委員長金正恩出席入列儀式。（新華社）
+
+---
+
+### 2026-09-07 06:45:17  #MKT News
+
+North Korea has commissioned the destroyer "Jiang Jian" into its navy.
+
+---
+
+### 2026-09-07 06:36:02  #國際
+
+【美重啟穿梭外交 俄烏短暫停火 和平程序仍漫漫】9月5日到6日，美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團先後訪問莫斯科和基輔，並分別與俄羅斯總統普京和烏克蘭總統澤連斯基舉行會談。美特使訪問期間，俄烏分別宣佈暫停空襲對方首都三天。分析認為，俄烏局勢今後一段時期仍將維持“邊打邊談”的狀態，此次臨時停火安排與外交接觸為後續談判提供了基礎條件，但和平程序仍面臨諸多不確定性。（央視新聞）
+
+---
+
+### 2026-09-07 06:32:28  #市場 #焦點
+
+現貨黃金突破4430美元/盎司，日內跌0.02%。
+
+---
+
+### 2026-09-07 06:32:08  #國際
+
+阿拉伯國家聯盟負責人譴責以色列部長髮表的將巴勒斯坦人驅逐出加沙的言論。
+
+---
+
+### 2026-09-07 06:31:07  #MKT News
+
+Elevra Lithium: North American mine expansion project will lift average annual production to 373,000 tonnes.
+
+---
+
+### 2026-09-07 06:30:00  #MKT News
+
+【Armed assailant rushes Ohio gubernatorial candidate Amy Acton at campaign rally; multiple injured】Local time Sept. 6, an armed individual rushed at Ohio Democratic gubernatorial candidate Amy Acton during a campaign rally, knocking several people to the ground and injuring multiple attendees, her campaign said.
+
+---
+
+### 2026-09-07 06:28:59  #國際
+
+【美一州長候選人競選集會遭襲】當地時間9月6日，美國俄亥俄州州長競選集會發生意外。據民主黨候選人艾米·阿克頓競選團隊發表的宣告，集會上，一名攜帶武器者“突然撲向”阿克頓，將多人撞倒在地，造成多人受傷。宣告稱阿克頓“對執法部門的迅速果斷行動表示感謝”，並強調“這種暴力行為在俄亥俄州絕無容身之地”。 在11月中期選舉中將與阿克頓對陣的俄亥俄州共和黨州長候選人維韋克·拉馬斯瓦米的競選團隊稱這一事件“完全不可接受、絕不能容忍”。（CCTV國際時訊）
+
+---
+
+### 2026-09-07 06:16:00  #資料
+
+【週一（9月7日）重點關注財經事件和經濟資料】
+① 待定 中國8月外匯儲備；
+② 14:00 德國7月季調後工業產出月率；
+③ 14:00 英國8月Halifax季調後房價指數月率；
+④ 15:00 瑞士8月季調後失業率；
+⑤ 16:30 歐元區9月Sentix投資者信心指數；
+⑥ 17:00 歐元區第二季度GDP年率終值；
+⑦ 17:00 歐元區第二季度季調後就業人數季率終值。
+
+---
+
+### 2026-09-07 06:14:29  #市場
+
+現貨白銀跌破66美元/盎司，日內下跌0.3%。
+
+---
+
+### 2026-09-07 06:14:09  #市場
+
+日經指數期貨報66100點，現貨收盤報65020點。
+
+---
+
+### 2026-09-07 06:09:29  #市場 #焦點 #國際
+
+【受中東局勢緊張影響，油價小幅走高，納斯達克期貨走強】納斯達克合約小幅上漲；美伊在中東相互打擊油輪之後，原油期貨走強。美債合約走勢平穩，黃金與比特幣走弱；美元兌日元匯率基本持平，交投於156.25附近。
+
+---
+
+### 2026-09-07 06:05:12  #國際
+
+市場資訊：韓國總統李在明週日抵達法國尼斯，開始為期四天的訪問。他將前往巴黎，與法國總統馬克龍舉行雙邊峰會。
+
+---
+
+### 2026-09-07 06:04:51  #MKT News
+
+【South Korea's Lee arrives in France, to meet Macron in Paris】South Korea's Lee arrived in Nice on Sunday for a four-day visit. He will travel to Saint-Paul-de-Vence on Monday to co-host the Lumière Summit on the future of film with Macron, then undertake a two-day state visit to Paris beginning Tuesday.
+
+---
+
+### 2026-09-07 06:03:31  #MKT News #7203.T #Impact bullish
+
+【Toyota targets 40% rise in non-new-car operating profit to ¥3 trillion by FY2030】Toyota aims to boost operating profit from activities outside new-vehicle sales—including software updates and vehicle leasing—by about 40% to ¥3 trillion (≈$19.2 billion) by fiscal 2030, monetizing its global installed base of roughly 150 million Toyota vehicles to reduce reliance on new-car unit sales.
+
+---
+
+### 2026-09-07 06:02:41  #MKT News #Dow #Impact bearish #Nasdaq100 #Impact bullish
+
+U.S. equity index futures opened mixed on Monday; Dow futures down 0.3%, Nasdaq futures up 0.05%.
+
+---
+
+### 2026-09-07 06:01:53  #國際
+
+豐田計劃到2030年將日本國內二手車年銷量從當前約35萬輛提升至55萬輛。
+
+---
+
+### 2026-09-07 06:01:33  #市場 #焦點
+
+布倫特原油突破97美元/桶，日內漲0.75%。
+
+---
+
+### 2026-09-07 06:01:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude opened 0.9% higher, trading at $90.20/bbl; Brent crude up 0.7% at $95.00/bbl.
+
+---
+
+### 2026-09-07 06:01:20  #市場
+
+WTI原油日內漲1%，現報92.40美元/桶。
+
+---
+
+### 2026-09-07 06:01:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold opened about $10 lower on Monday, falling to a low of $4,419.7 per ounce.
+
+---
+
+### 2026-09-07 06:00:59  #其他
+
+豐田預計在2030財年將新車銷售以外業務的營業利潤提升約40%，達到3萬億日元。
+
+---
+
+### 2026-09-07 06:00:05  #市場 #焦點
+
+WTI原油失守91美元/桶，日內漲0.56%。
+
+---
+
+### 2026-09-07 05:59:17  #其他
+
+豐田目標截至2030財年將非汽車銷售業務利潤提升40%。
+
+---
+
+### 2026-09-07 05:59:03  #央行 #國際
+
+【美聯儲9月加息機率為58.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為41.7%，累計加息25個基點的機率為58.3%。美聯儲到10月維持利率不變的機率為30.1%，累計加息25個基點的機率為53.7%，累計加息50個基點的機率為16.1%。
+
+---
+
+### 2026-09-07 05:43:32  #MKT News
+
+Yemen armed forces said warplanes carried out more than 11 airstrikes on Houthi positions in Bayda province.
+
+---
+
+### 2026-09-07 05:38:49  #公司 #國際
+
+【美一貨機衝出跑道5人死亡】當地時間9月6日下午2點左右，美國亞馬遜公司一架從波多黎各聖胡安起飛的波音767-300型貨運飛機，在邁阿密國際機場著陸時衝出跑道，引發大規模緊急響應，機場暫停運營。事故目前已造成至少5人死亡。現場影片顯示，這架大型貨機衝出機場區域，撞上多輛車輛，起火燃燒。邁阿密-戴德縣消防部門出動約60輛救援車輛趕赴現場。 邁阿密國際機場已臨時關閉了所有跑道和滑行道，實施了地面停航，暫停航班進出港。飛機衝出跑道的原因還不清楚。（CCTV國際時訊）
+
+---
+
+### 2026-09-07 05:32:35  #MKT News #000660.KS #Impact bullish #005930.KS #Impact bearish
+
+【SK Hynix accelerates 1c DRAM transition, leads South Korea HBM4E competition】Korean media and industry sources say SK Hynix is rapidly increasing production share of sixth‑generation 10nm‑class (1c) DRAM as 1c is slated to be the core chip for next‑generation HBM4E. With server and AI demand boosting high‑value memory, SK Hynix is accelerating process upgrades amid intensifying competition with Samsung Electronics and Micron. 1c market share rose from about 10% in Q1 to roughly 13% in Q2; industry estimates put it at ~24% in Q3, ~34% in Q4 and ~35% in Q1 next year, when 1c would surpass 1b (around 33%) to become the mainstream node.
+
+---
+
+### 2026-09-07 05:29:31  #國際
+
+美國有關部門證實，佛羅里達州邁阿密國際機場發生貨機衝出跑道事故，造成5人死亡，多人入院治療。
+
+---
+
+### 2026-09-07 05:28:41  #MKT News #AMZN.O
+
+Miami-Dade County sheriff said at least five people have been confirmed dead after an Amazon cargo plane ran off the runway and struck vehicles on a nearby road.
+
+---
+
+### 2026-09-07 05:28:37  #國際
+
+美國聯邦航空管理局：因故障飛機滯留，拉瓜迪亞機場抵達航班預計出現延誤。
+
+---
+
+### 2026-09-07 05:27:24  #MKT News #WTI #Impact bullish #Brent
+
+Israeli Prime Minister NETANYAHU said Israel will cut gasoline prices by 0.5 shekel per liter tonight, noting domestic petrol prices are falling while global prices rise. Iran earlier raised retail fuel prices for high-consumption users.
+
+---
+
+### 2026-09-07 05:24:51  #市場 #焦點
+
+美銅暗盤跌破6.7美元，日內跌幅0.1%。
+
+---
+
+### 2026-09-07 05:21:53  #MKT News #WTI #Impact bullish #Brent
+
+【Iran says Strait of Hormuz open until Feb. 28; accuses US-Israel action of disrupting shipping, lifting energy prices】Iran's foreign ministry spokesman Baghaei said the Strait of Hormuz remained open until Feb. 28 and that subsequent US and Israeli action against Iran has disrupted commercial shipping, idled tankers, interrupted trade and pushed up energy prices. He described Washington's campaign as an illegal and brutal war and said the US expects the world to pay while portraying Iran as the instigator.
+
+---
+
+### 2026-09-07 05:14:39  #市場 #國際
+
+伊朗外交部發言人：霍爾木茲海峽在2月28日之前始終保持暢通，此後美以對伊朗發動襲擊。華盛頓在該地區挑起一場非法且殘暴的戰爭，擾亂商業航運正常運轉；油輪停航、貿易受阻、能源價格上漲。如今美國企圖讓全世界為這場由它一手造成的混亂買單，還把責任推給伊朗。按照華盛頓的說辭，這場由美國發起的戰爭，卻要被包裝成“伊朗行為給世界帶來的代價”。美國發動戰爭，卻想讓全世界來承擔後果，還把伊朗塑造成這場混亂的始作俑者。這完全是荒謬至極。
+
+---
+
+### 2026-09-07 05:10:16  #MKT News #Commodities #Energy
+
+Rezaei, secretary of Iran's Supreme National Security Council, said proceeds from oil sales are all returned to Iran.
+
+---
+
+### 2026-09-07 05:02:58  #其他
+
+市場資訊：德國極右翼政黨選擇黨預計將贏得州選舉，但無法取得多數席位。
+
+---
+
+### 2026-09-07 05:01:09  #MKT News
+
+【Financial Times: Europe has failed to curb Russia's "hybrid warfare"】Financial Times, citing Western defense and intelligence officials, reports Europe has failed to effectively deter Russia's "hybrid warfare" and must rapidly adopt new measures to curb Moscow's actions against NATO members or risk escalation with the Kremlin. Officials said a drone loaded with military-grade explosives targeting Leipzig/Halle airport was thwarted last month, highlighting Russia's willingness to strike below the Article 5 threshold and the breakdown of current deterrence. Western officials said responses require collective European action; a senior defense official said Europe has been far too weak at deterring provocations that do not trigger Article 5 and, while existing deterrence can prevent conventional or nuclear escalation, strategies to counter hybrid warfare must be rethought.
+
+---
+
+### 2026-09-07 05:00:42  #國際
+
+美國奧蘭多國際機場正在為邁阿密國際機場的處置工作提供支援，接收備降航班。
+
+---
+
+### 2026-09-07 04:51:45  #國際
+
+以色列無人機襲擊加沙城西部，造成人員傷亡。
+
+---
+
+### 2026-09-07 04:48:13  #MKT News
+
+Yemen's armed forces said warplanes struck Houthi positions in Balhaf and south of Hodeidah.
 
 ---
 
@@ -17059,119 +17318,5 @@ AGROFERT表示，由於天然氣和碳排放配額價格高企，其旗下AGF氮
 ### 2026-09-04 16:50:24  #公司
 
 【湖南裕能：股東津晟新材料減持比例達1.11%】湖南裕能公告稱，公司持股5%以上股東上海津晟新材料科技有限公司於2026年7月24日至9月3日期間，透過集中競價及大宗交易方式累計減持公司股份939.59萬股，佔公司總股本的1.11%。本次權益變動後，津晟新材料持有公司股份4962.44萬股，佔總股本比例由6.96%降至5.85%。本次減持符合此前披露的減持計劃，目前該減持計劃尚未實施完畢。
-
----
-
-### 2026-09-04 16:49:54  #公司
-
-【江航裝備：持股5%以上股東擬減持不超1%股份】江航裝備公告稱，公司持股5%以上股東國新資本有限公司因自身資金需求，擬透過集中競價方式減持公司股份不超過7,913,391股，佔公司總股本的1.00%，減持期間為2026年9月30日至2026年12月29日，減持價格根據市場價格走勢確定。截至公告披露日，國新資本持有公司股份45,993,043股，佔公司總股本的5.81%。本次減持不會導致公司控制權發生變更。
-
----
-
-### 2026-09-04 16:48:53  #其他
-
-【WPS多維表格釋出“靈感應用”：一句話，業務員便可搭建業務應用】9月4日下午訊息，近日，WPS多維表格新功能“靈感應用”釋出：使用者以自然語言描述業務需求，AI即可生成可直接使用、持續迭代的個性化業務應用，讓不懂程式碼的業務人員也能搭建自己的業務應用。（新浪科技）
-
----
-
-### 2026-09-04 16:48:33  #公司 #市場 #央行 #國際
-
-【一眾資管巨頭開始重建黃金頭寸 看好其估值便宜與對沖價值】在金價回落後，全球部分規模最大的資產管理公司已重建黃金頭寸，押注即便美聯儲在抗擊通脹方面採取更強硬立場，支撐黃金的長期因素仍將持續。歐洲最大資產管理公司Amundi SA買入黃金，預計金價將在年底前重返每盎司5000美元。今年早些時候，金價從歷史高位回落後，瑞士百達資產管理、Robeco Institutional Asset Management BV和富達國際的基金經理也重新增持了此前削減的黃金頭寸。“我們認為黃金價格便宜，是一種良好的對沖工具，而且流動性也不錯，”Amundi投資研究所跨資產策略主管Lorenzo Portelli表示。不過他說，上月買入後，在考慮進一步增持之前，公司還需要更清楚地瞭解美聯儲的利率路徑。這一觀點在對十多位資產管理人士的採訪中相當普遍，他們所在公司的資產管理規模合計達27萬億美元。所有受訪者無一例外，包括法巴資產管理和Manulife John Hancock Investments，最近幾周不是重新增持了黃金，就是維持看漲配置。不過，多位資產管理人士表示，金價要突破近期每盎司約4600美元的上限，過程不會一帆風順。美國國債收益率上升，以及市場加大押注美聯儲年底前至少加息一次，都在削弱對黃金的支撐。由於黃金本身不產生利息，在借貸成本上升時通常吸引力會下降。
-
----
-
-### 2026-09-04 16:48:19  #其他
-
-【住房城鄉建設部發布行業標準《住房公積金基礎資料標準》】近日，住房城鄉建設部發布行業標準《住房公積金基礎資料標準》：現批准《住房公積金基礎資料標準》為行業標準，編號為JGJ/T320-2026，自2026年9月30日起實施。原行業標準《住房公積金基礎資料標準》（JGJ/T320-2014）同時廢止。
-
----
-
-### 2026-09-04 16:47:34  #公司
-
-【覽翌航空完成超1億元Pre-A輪第三筆融資】記者從覽翌航空獲悉，公司近日成功完成超1億元Pre-A輪融資第三筆融資，本輪投資由武漢光谷交投、光谷產投、長江資本共同投資，這也是覽翌航空首筆單筆超億元融資。此次融資資金將重點支援覽翌航空載客級eVTOL LE200的研發、適航取證，以及在武漢東湖區的生產產能建設等工作。
-
----
-
-### 2026-09-04 16:47:20  #國際
-
-【德國海軍從戰艦試射以色列產彈道導彈】北約布林瑟姆盟軍聯合司令部近日釋出訊息稱，德國海軍從位於北大西洋的一艘導彈護衛艦上，成功試射了以色列產“遠端火炮武器系統”彈道導彈。這種導彈的射程超過500公里。該司令部還表示，北約3.0版本意味著歐洲正承擔更多責任，建立強大的能力。（央視新聞）
-
----
-
-### 2026-09-04 16:46:43  #其他
-
-【中柬公私領域對話機制第二次會議在金邊舉行】中柬公私領域對話機制第二次會議3日在金邊舉行。柬埔寨副首相兼發展理事會第一副主席孫佔託，中國駐柬埔寨大使汪文斌、公參薛東、柬埔寨中國商會會長林士強出席會議，柬方20多個部委70餘名官員和70餘家中資企業代表參會。（新華社）
-
----
-
-### 2026-09-04 16:46:19  #公司
-
-【明新旭騰：使用6000萬元閒置募集資金購買結構性存款】明新旭騰公告稱，公司使用6000萬元閒置募集資金購買中國農業銀行“匯利豐”2026年第6219期對公定製人民幣結構性存款產品，產品期限26天，起息日2026年9月4日，到期日2026年9月30日，預計年化收益率0.70%至1.90%，為保本浮動收益型。本次現金管理額度已經公司2025年年度股東會審議透過，授權使用不超過2億元閒置募集資金進行現金管理，期限12個月。截至公告披露日，公司閒置募集資金現金管理未到期餘額為1.80億元。
-
----
-
-### 2026-09-04 16:45:45  #其他
-
-華潤置地委任張欣為執行董事  。
-
----
-
-### 2026-09-04 16:45:33  #國際
-
-【以防長：以色列不會從黎巴嫩安全區撤軍】以色列國防部長卡茨4日表示，以軍近期控制黎巴嫩南部阿里·塔赫爾山脊的行動，是鞏固以軍在黎南部存在的重要一步。他同時稱，在真主黨被徹底解除武裝前，以色列不會從黎巴嫩境內“安全區”撤出。（央視新聞）
-
----
-
-### 2026-09-04 16:44:54  #國際
-
-【美特使將訪俄烏】據塔斯社今天（9月4日）援引訊息人士報道稱，美國總統特使威特科夫和庫什納將於9月5日至6日先訪問俄羅斯首都莫斯科，隨後前往烏克蘭首都基輔。（CCTV國際時訊）
-
----
-
-### 2026-09-04 16:44:28  #公司
-
-【武漢天源：部分募投專案延期 上半年淨利同比下滑】武漢天源公告稱，公司將可轉債募投專案“長葛市城北汙水處理廠及配套汙水管網工程專案”達到預定可使用狀態日期從2026年8月30日延長至2026年12月31日，本次延期不改變募投專案實施主體、投資總額和資金用途，不會對公司當前生產經營產生重大不利影響。2026年1-6月公司歸母淨利潤7702.25萬元，同比下降40.95%；扣非歸母淨利潤7084.93萬元，同比下降44.42%，業績下滑未對公司日常經營構成重大不利影響。
-
----
-
-### 2026-09-04 16:44:12  #其他
-
-【京東物流：吳昊不再擔任首席財務官】京東物流(02618.HK)公告，吳昊因將於京東集團擔任新的職務，現已提呈辭任本公司的首席財務官職務，茆俊已獲委任為本公司首席財務官，自2026年9月4日起生效。
-
----
-
-### 2026-09-04 16:43:00  #Trading Economics #Economy #Slovenia #Balance of Trade #Importance 1
-
-Slovenia Trade Gap Widens to Nearly 2-Year High — Slovenia recorded a trade deficit of EUR 1,580.3 million in July 2026, shifting from a surplus of EUR 479.1 million in the same month a year earlier. This marked the largest shortfall since October 2024, as import growth far outpaced exports. Imports surged 49.1% year-on-year to EUR 8,297.5 million, driven largely by increased purchases from both EU (+5.4%) and non-EU countries (+94.0%). Meanwhile, exports rose 11.3% to EUR 6,717.2 million, lifted by higher shipments to both EU (+8.6%) and non-EU markets (+13.6%). For the January–July period, Slovenia recorded a trade deficit of EUR 5,693.2 million, shifting from a surplus of EUR 3,681.6 million in the same period of the previous year, weighed down by a 6.2% drop in exports, compared with an 11.2% increase in imports.
-
----
-
-### 2026-09-04 16:42:07  #Trading Economics #Economy #United Kingdom #Construction PMI #Importance 1
-
-UK Construction Activity Drops More than Anticipated — The S&P Global UK Construction PMI eased to 44.3 in August of 2026 from 44.7 in the previous month, missing expectations of 45.5. Survey respondents noted fresh weakness in demand conditions from clients that caused a drop in new projects, especially in residential construction starts, amid lower risk sentiment as the war in the Middle East raises both energy prices and borrowing costs. The residential work index slumped to 37.6, while civil engineering activity dropped to 40.5 and commercial construction activity fell to 47.8. Consequently, aggregate construction firms reduced head counts. Input cost inflation picked up on larger transportation bills, raw material prices, and fuel costs. Looking ahead, companies were still upbeat for the year ahead due to expectations of new tender opportunities.
-
----
-
-### 2026-09-04 16:30:13  #Trading Economics #Economy #Taiwan #Foreign Exchange Reserves #Importance 1
-
-Taiwan Forex Reserves Edge Higher — Taiwan's foreign exchange reserves rose to USD 601.9 billion in July 2026 from USD 594.27 billion in the previous month. The increase was mainly due to returns from the investment and utilization of foreign exchange reserves, exchange rate fluctuations of major currencies against the US sollar. Additionally, the increase in reserves was also due to central bank operations aimed at maintaining stability in the foreign exchange market. Meanwhile, foreign investors' holdings of domestic stocks and bonds, valued at market prices, along with their New Taiwan Dollar deposits, totaled USD 1,861 billion, equivalent to approximately 309% of total foreign exchange reserves.
-
----
-
-### 2026-09-04 16:26:34  #Trading Economics #Economy #United Kingdom #New Passenger Car Registrations YoY #Importance 2
-
-UK New Car Registrations Rise for 9th Month — New car registrations in the UK rose 13.7% from the previous year to 94,236 units in August of 2026, picking up from the 11.7% rise in the earlier month, according to the Society of Motor Manufacturers and Traders (SMMT). It was a ninth consecutive period of growth, extending the market's recovery toward pre-pandemic levels. Plug-in hybrid electric vehicles registrations soared by 39.8% to 13,707, and battery electric vehicles rose by 27.7% to 28,063. In turn, hybrid electric vehicles rose by 26.3% to 11,940. These were enough to offset the 2.5% decline in petrol vehicles, which totaled 36,048.
-
----
-
-### 2026-09-04 16:24:57  #Trading Economics #Economy #Philippines #Business Confidence #Importance 0
-
-Philippine Business Confidence Turns Pessimistic — The Business Confidence Index in the Philippines turned negative at -20.3 in July 2026 from 0.0 in June, as firms grew more concerned about higher oil prices, renewed tensions in the Middle East, and persistent inflation. Current-month indicators weakened, with business activity falling to -0.1 from 8.3 in June, total orders to -0.7 from 5.4, and access to credit to -7.0 from -5.7. Financial conditions also deteriorated to -31.4 from -26.8, while capacity utilization fell to 68.6% from 73.9%. Meanwhile, three-month confidence eased to 3.7 from 18.8, while 12-month confidence declined to 29.4 from 42.4. Firms also lowered expectations for activity and orders, while fewer planned to hire amid softer growth. However, the expansion plans index rose to 20.8 from 18.7, signaling that more firms planned to expand next year. Twelve-month inflation expectations rose to 50.1 from 35.7.
-
----
-
-### 2026-09-04 16:23:24  #Trading Economics #Economy #World #Food Price Index #Importance 2
-
-World Food Prices Highest Since 2022 — The FAO Food Price Index rose 1.9% to 133.3 points in August 2026, marking its second consecutive monthly increase and reaching its highest level since November 2022. The rise reflected broad-based increases across all commodity categories. Sugar prices recorded the biggest increase, jumping 11.9% to a new high since June 2025, amid growing concerns over the global sugar supply outlook in the 2026/27 season. Dairy prices went up 2.3%, driven by higher milk powder and cheese. Cereals rose 2.2% to May 2024-highs, supported by robust demand, weather-related concerns over crop prospects in key producing regions, and continued uncertainty surrounding Black Sea export flows. Meat cost increased 1% reflecting higher poultry, pig and ovine meat prices. Finally, cost for vegetable oils edged up 0.6% to its highest level since June 2022, amid higher world palm and soy oil prices, which more than offset lower quotations for sunflower and rapeseed oils.
 
 ---

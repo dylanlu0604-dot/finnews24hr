@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-07 04:46:37_
-_本檔包含 2697 則快訊，約 554084 字_
+_更新時間：2026-09-07 06:51:39_
+_本檔包含 2697 則快訊，約 553097 字_
+
+---
+
+### 2026-09-04 16:49:54  #公司
+
+【江航裝備：持股5%以上股東擬減持不超1%股份】江航裝備公告稱，公司持股5%以上股東國新資本有限公司因自身資金需求，擬透過集中競價方式減持公司股份不超過7,913,391股，佔公司總股本的1.00%，減持期間為2026年9月30日至2026年12月29日，減持價格根據市場價格走勢確定。截至公告披露日，國新資本持有公司股份45,993,043股，佔公司總股本的5.81%。本次減持不會導致公司控制權發生變更。
+
+---
+
+### 2026-09-04 16:48:53  #其他
+
+【WPS多維表格釋出“靈感應用”：一句話，業務員便可搭建業務應用】9月4日下午訊息，近日，WPS多維表格新功能“靈感應用”釋出：使用者以自然語言描述業務需求，AI即可生成可直接使用、持續迭代的個性化業務應用，讓不懂程式碼的業務人員也能搭建自己的業務應用。（新浪科技）
+
+---
+
+### 2026-09-04 16:48:33  #公司 #市場 #央行 #國際
+
+【一眾資管巨頭開始重建黃金頭寸 看好其估值便宜與對沖價值】在金價回落後，全球部分規模最大的資產管理公司已重建黃金頭寸，押注即便美聯儲在抗擊通脹方面採取更強硬立場，支撐黃金的長期因素仍將持續。歐洲最大資產管理公司Amundi SA買入黃金，預計金價將在年底前重返每盎司5000美元。今年早些時候，金價從歷史高位回落後，瑞士百達資產管理、Robeco Institutional Asset Management BV和富達國際的基金經理也重新增持了此前削減的黃金頭寸。“我們認為黃金價格便宜，是一種良好的對沖工具，而且流動性也不錯，”Amundi投資研究所跨資產策略主管Lorenzo Portelli表示。不過他說，上月買入後，在考慮進一步增持之前，公司還需要更清楚地瞭解美聯儲的利率路徑。這一觀點在對十多位資產管理人士的採訪中相當普遍，他們所在公司的資產管理規模合計達27萬億美元。所有受訪者無一例外，包括法巴資產管理和Manulife John Hancock Investments，最近幾周不是重新增持了黃金，就是維持看漲配置。不過，多位資產管理人士表示，金價要突破近期每盎司約4600美元的上限，過程不會一帆風順。美國國債收益率上升，以及市場加大押注美聯儲年底前至少加息一次，都在削弱對黃金的支撐。由於黃金本身不產生利息，在借貸成本上升時通常吸引力會下降。
+
+---
+
+### 2026-09-04 16:48:19  #其他
+
+【住房城鄉建設部發布行業標準《住房公積金基礎資料標準》】近日，住房城鄉建設部發布行業標準《住房公積金基礎資料標準》：現批准《住房公積金基礎資料標準》為行業標準，編號為JGJ/T320-2026，自2026年9月30日起實施。原行業標準《住房公積金基礎資料標準》（JGJ/T320-2014）同時廢止。
+
+---
+
+### 2026-09-04 16:47:34  #公司
+
+【覽翌航空完成超1億元Pre-A輪第三筆融資】記者從覽翌航空獲悉，公司近日成功完成超1億元Pre-A輪融資第三筆融資，本輪投資由武漢光谷交投、光谷產投、長江資本共同投資，這也是覽翌航空首筆單筆超億元融資。此次融資資金將重點支援覽翌航空載客級eVTOL LE200的研發、適航取證，以及在武漢東湖區的生產產能建設等工作。
+
+---
+
+### 2026-09-04 16:47:20  #國際
+
+【德國海軍從戰艦試射以色列產彈道導彈】北約布林瑟姆盟軍聯合司令部近日釋出訊息稱，德國海軍從位於北大西洋的一艘導彈護衛艦上，成功試射了以色列產“遠端火炮武器系統”彈道導彈。這種導彈的射程超過500公里。該司令部還表示，北約3.0版本意味著歐洲正承擔更多責任，建立強大的能力。（央視新聞）
+
+---
+
+### 2026-09-04 16:46:43  #其他
+
+【中柬公私領域對話機制第二次會議在金邊舉行】中柬公私領域對話機制第二次會議3日在金邊舉行。柬埔寨副首相兼發展理事會第一副主席孫佔託，中國駐柬埔寨大使汪文斌、公參薛東、柬埔寨中國商會會長林士強出席會議，柬方20多個部委70餘名官員和70餘家中資企業代表參會。（新華社）
+
+---
+
+### 2026-09-04 16:46:19  #公司
+
+【明新旭騰：使用6000萬元閒置募集資金購買結構性存款】明新旭騰公告稱，公司使用6000萬元閒置募集資金購買中國農業銀行“匯利豐”2026年第6219期對公定製人民幣結構性存款產品，產品期限26天，起息日2026年9月4日，到期日2026年9月30日，預計年化收益率0.70%至1.90%，為保本浮動收益型。本次現金管理額度已經公司2025年年度股東會審議透過，授權使用不超過2億元閒置募集資金進行現金管理，期限12個月。截至公告披露日，公司閒置募集資金現金管理未到期餘額為1.80億元。
+
+---
+
+### 2026-09-04 16:45:45  #其他
+
+華潤置地委任張欣為執行董事  。
+
+---
+
+### 2026-09-04 16:45:33  #國際
+
+【以防長：以色列不會從黎巴嫩安全區撤軍】以色列國防部長卡茨4日表示，以軍近期控制黎巴嫩南部阿里·塔赫爾山脊的行動，是鞏固以軍在黎南部存在的重要一步。他同時稱，在真主黨被徹底解除武裝前，以色列不會從黎巴嫩境內“安全區”撤出。（央視新聞）
+
+---
+
+### 2026-09-04 16:44:54  #國際
+
+【美特使將訪俄烏】據塔斯社今天（9月4日）援引訊息人士報道稱，美國總統特使威特科夫和庫什納將於9月5日至6日先訪問俄羅斯首都莫斯科，隨後前往烏克蘭首都基輔。（CCTV國際時訊）
+
+---
+
+### 2026-09-04 16:44:28  #公司
+
+【武漢天源：部分募投專案延期 上半年淨利同比下滑】武漢天源公告稱，公司將可轉債募投專案“長葛市城北汙水處理廠及配套汙水管網工程專案”達到預定可使用狀態日期從2026年8月30日延長至2026年12月31日，本次延期不改變募投專案實施主體、投資總額和資金用途，不會對公司當前生產經營產生重大不利影響。2026年1-6月公司歸母淨利潤7702.25萬元，同比下降40.95%；扣非歸母淨利潤7084.93萬元，同比下降44.42%，業績下滑未對公司日常經營構成重大不利影響。
+
+---
+
+### 2026-09-04 16:44:12  #其他
+
+【京東物流：吳昊不再擔任首席財務官】京東物流(02618.HK)公告，吳昊因將於京東集團擔任新的職務，現已提呈辭任本公司的首席財務官職務，茆俊已獲委任為本公司首席財務官，自2026年9月4日起生效。
+
+---
+
+### 2026-09-04 16:43:00  #Trading Economics #Economy #Slovenia #Balance of Trade #Importance 1
+
+Slovenia Trade Gap Widens to Nearly 2-Year High — Slovenia recorded a trade deficit of EUR 1,580.3 million in July 2026, shifting from a surplus of EUR 479.1 million in the same month a year earlier. This marked the largest shortfall since October 2024, as import growth far outpaced exports. Imports surged 49.1% year-on-year to EUR 8,297.5 million, driven largely by increased purchases from both EU (+5.4%) and non-EU countries (+94.0%). Meanwhile, exports rose 11.3% to EUR 6,717.2 million, lifted by higher shipments to both EU (+8.6%) and non-EU markets (+13.6%). For the January–July period, Slovenia recorded a trade deficit of EUR 5,693.2 million, shifting from a surplus of EUR 3,681.6 million in the same period of the previous year, weighed down by a 6.2% drop in exports, compared with an 11.2% increase in imports.
+
+---
+
+### 2026-09-04 16:42:07  #Trading Economics #Economy #United Kingdom #Construction PMI #Importance 1
+
+UK Construction Activity Drops More than Anticipated — The S&P Global UK Construction PMI eased to 44.3 in August of 2026 from 44.7 in the previous month, missing expectations of 45.5. Survey respondents noted fresh weakness in demand conditions from clients that caused a drop in new projects, especially in residential construction starts, amid lower risk sentiment as the war in the Middle East raises both energy prices and borrowing costs. The residential work index slumped to 37.6, while civil engineering activity dropped to 40.5 and commercial construction activity fell to 47.8. Consequently, aggregate construction firms reduced head counts. Input cost inflation picked up on larger transportation bills, raw material prices, and fuel costs. Looking ahead, companies were still upbeat for the year ahead due to expectations of new tender opportunities.
+
+---
+
+### 2026-09-04 16:30:13  #Trading Economics #Economy #Taiwan #Foreign Exchange Reserves #Importance 1
+
+Taiwan Forex Reserves Edge Higher — Taiwan's foreign exchange reserves rose to USD 601.9 billion in July 2026 from USD 594.27 billion in the previous month. The increase was mainly due to returns from the investment and utilization of foreign exchange reserves, exchange rate fluctuations of major currencies against the US sollar. Additionally, the increase in reserves was also due to central bank operations aimed at maintaining stability in the foreign exchange market. Meanwhile, foreign investors' holdings of domestic stocks and bonds, valued at market prices, along with their New Taiwan Dollar deposits, totaled USD 1,861 billion, equivalent to approximately 309% of total foreign exchange reserves.
+
+---
+
+### 2026-09-04 16:26:34  #Trading Economics #Economy #United Kingdom #New Passenger Car Registrations YoY #Importance 2
+
+UK New Car Registrations Rise for 9th Month — New car registrations in the UK rose 13.7% from the previous year to 94,236 units in August of 2026, picking up from the 11.7% rise in the earlier month, according to the Society of Motor Manufacturers and Traders (SMMT). It was a ninth consecutive period of growth, extending the market's recovery toward pre-pandemic levels. Plug-in hybrid electric vehicles registrations soared by 39.8% to 13,707, and battery electric vehicles rose by 27.7% to 28,063. In turn, hybrid electric vehicles rose by 26.3% to 11,940. These were enough to offset the 2.5% decline in petrol vehicles, which totaled 36,048.
+
+---
+
+### 2026-09-04 16:24:57  #Trading Economics #Economy #Philippines #Business Confidence #Importance 0
+
+Philippine Business Confidence Turns Pessimistic — The Business Confidence Index in the Philippines turned negative at -20.3 in July 2026 from 0.0 in June, as firms grew more concerned about higher oil prices, renewed tensions in the Middle East, and persistent inflation. Current-month indicators weakened, with business activity falling to -0.1 from 8.3 in June, total orders to -0.7 from 5.4, and access to credit to -7.0 from -5.7. Financial conditions also deteriorated to -31.4 from -26.8, while capacity utilization fell to 68.6% from 73.9%. Meanwhile, three-month confidence eased to 3.7 from 18.8, while 12-month confidence declined to 29.4 from 42.4. Firms also lowered expectations for activity and orders, while fewer planned to hire amid softer growth. However, the expansion plans index rose to 20.8 from 18.7, signaling that more firms planned to expand next year. Twelve-month inflation expectations rose to 50.1 from 35.7.
+
+---
+
+### 2026-09-04 16:23:24  #Trading Economics #Economy #World #Food Price Index #Importance 2
+
+World Food Prices Highest Since 2022 — The FAO Food Price Index rose 1.9% to 133.3 points in August 2026, marking its second consecutive monthly increase and reaching its highest level since November 2022. The rise reflected broad-based increases across all commodity categories. Sugar prices recorded the biggest increase, jumping 11.9% to a new high since June 2025, amid growing concerns over the global sugar supply outlook in the 2026/27 season. Dairy prices went up 2.3%, driven by higher milk powder and cheese. Cereals rose 2.2% to May 2024-highs, supported by robust demand, weather-related concerns over crop prospects in key producing regions, and continued uncertainty surrounding Black Sea export flows. Meat cost increased 1% reflecting higher poultry, pig and ovine meat prices. Finally, cost for vegetable oils edged up 0.6% to its highest level since June 2022, amid higher world palm and soy oil prices, which more than offset lower quotations for sunflower and rapeseed oils.
 
 ---
 
@@ -16135,119 +16249,5 @@ India's trade minister said merchandise exports continued to grow in August.
 ### 2026-09-03 14:57:06  #其他
 
 【四川一次性擴崗補助政策“擴圍”，吸納青年就業最高可獲1500元/人補助】近日，四川4部門聯合印發《關於落實失業保險支援企業穩崗擴崗政策的通知》（以下簡稱《通知》），將現行一次性擴崗補助政策享受物件擴大至參保企業和社會組織，返還標準按國家規定上限頂格執行，即1500元/人。根據《通知》，參保企業上年度足額繳納失業保險費滿12個月且無歷史欠費，未裁員或裁員率不高於5.5%，30人以下的參保企業裁員率不高於參保職工總數20%的，可以按規定享受失業保險穩崗返還。大型企業按企業及其職工上年度實際繳納失業保險費的20%返還，中小微企業按40%返還，以單位形式參保的個體工商戶按60%返還。參保企業劃型、勞務派遣企業申領辦法仍按上年規定執行。社會組織、律師事務所、會計師事務所參照中小微企業實施。
-
----
-
-### 2026-09-03 14:56:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Nickel Rebounds from Over 1-Month Low — Nickel traded around $16,930 per tonne, rebounding from an over one-month low as potential production cuts at Indonesia’s largest nickel-processing hub raised concerns over a tightening supply outlook. Indonesia Morowali Industrial Park (IMIP) said El Niño-driven water shortages could reduce production by 30%-40% if new water sources are not secured, raising concerns over global availability. Some Chinese-backed nickel producers are also considering coordinated output cuts of around 30% at HPAL plants amid weak prices and rising operating costs, although no agreement has been reached. Indonesia’s tighter 2026 mining quota further points to lower ore availability, with the limit set at around 260-270 million tonnes vs 379 million tonnes in 2025. Meanwhile, elevated inventories and weak Chinese demand continued to weigh on prices, while higher imports of Philippine nickel ore into Indonesia could help offset tighter domestic supply.
-
----
-
-### 2026-09-03 14:56:08  #MKT News #Important
-
-India's trade minister said final details of a US trade agreement will be published as soon as Washington can provide India tariff advantages relative to other trading partners.
-
----
-
-### 2026-09-03 14:55:40  #焦點 #國際
-
-印度貿易部長：一旦美國能給予印度優於其他國家的關稅優勢，將立即公佈美印貿易協議最終細節。
-
----
-
-### 2026-09-03 14:55:33  #國際
-
-印度貿易部長：一旦美國能夠給予印度相較於其他同行的關稅優惠，我們就會立即公佈美印貿易協議的最終細節。
-
----
-
-### 2026-09-03 14:55:33  #MKT News
-
-【Ghana cocoa output may fall by more than one-third】Ghana Cocoa Marketing Company said adverse weather and disease are stressing trees and 2026/27 cocoa output could fall by more than one-third, exacerbating tightness in global chocolate raw material supply. Managing director Kofi Dogbe forecast production of 470,000–620,000 tonnes, versus about 760,000 tonnes last season. Dogbe’s range is below Bloomberg’s 650,000-tonne estimate last month.
-
----
-
-### 2026-09-03 14:55:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Steel Holds Decline on Shrinking Margins — Steel rebar futures in China held their recent decline to around CNY 3,100 per ton in early September, as rising raw material costs deepened losses at steel mills, overshadowing stronger steel exports. Industry data showed that the average cost of hot metal and steel billets at major mills in Tangshan rose sharply this week, pushing average losses to more than CNY 100 per ton. China’s non-manufacturing PMI, which covers services and construction, also held steady at 49.0, matching July’s reading and remaining at its weakest level since December 2022. Meanwhile, China’s total steel exports rose 7.8% week-on-week to 2.55 million tons in the week to August 31, marking a third consecutive weekly increase and the highest level in nearly eight weeks. In August, steel prices rallied sharply as investors anticipated a recovery in demand due to seasonal factors ahead of the September peak construction season.
-
----
-
-### 2026-09-03 14:54:45  #Trading Economics #Economy #Sweden #Services PMI #Importance 1
-
-Sweden Services Sector Growth Picks Up in August — The Services PMI in Sweden rose to 55.8 in August 2026 from a revised 54.3 in July and was above the average for the first eight months of the year (54.1). All sub-indices increased during the month, with business volume making the largest positive contribution to the rise in the services PMI, climbing to 57.5 from 54.2 in July. This was followed by order intake (56.2 vs 55.8), employment (47.9 vs 46.2), and delivery times (60.9 vs 60.1). Cost pressures also eased further, as the index for raw and intermediate goods prices fell to 61.6, the lowest in six months, from 66.4 in July. “The service sector strengthened in August, with a clear increase in business volume. However, service companies are still holding off on hiring new employees, and perhaps we need a longer period of stronger service-sector activity before employment picks up,” said Jörgen Kennemar, responsible for the PMI analysis. Meanwhile, the Composite PMI increased to 55.9 in August from 54.7 in the previous month.
-
----
-
-### 2026-09-03 14:54:27  #市場 #央行 #國際
-
-【日元走強，干預風險縈繞警惕的交易員心頭】日元結束為期一個月的跌勢，最高上漲 1.1%，觸及 157.01，投資者聚焦各類有望提振該貨幣的因素。交易員開始質疑一種主流觀點，即日本央行加息節奏過慢難以支撐日元；日本最大養老金的相關訊息，也引發資金流向有望改善的猜測。投資者猜測日本或將再度實施匯市干預，尤其可能在銀周假期期間；市場同時密切關注美聯儲議息會議以及日本央行 9 月 18 日的政策決議。
-
----
-
-### 2026-09-03 14:54:18  #公司 #國際
-
-空中客車歐洲公司：日本消防防災廳訂購首架空客H160直升機。
-
----
-
-### 2026-09-03 14:54:00  #國際
-
-印尼盾漲幅擴大至0.5%，創5月以來新高。
-
----
-
-### 2026-09-03 14:53:34  #MKT News #SIFANG.SZ #Impact bearish
-
-【Convertible bond priority subscription payment today; Sifang Technology opens at 10% limit down】Sifang Technology opened at the 10% limit down on Sept. 3 at 13.91 yuan, down 10.03%. Sept. 3 is the payment date for the original-shareholder priority subscription of the company's convertible bond; market participants say funds have been pulled from the underlying equity to participate in the priority subscription and payment, creating selling pressure. Sifang said under its convertible bond rules investors had to hold the stock on Sept. 2 to qualify for the priority allotment; they may sell shares today and still complete the priority subscription and payment. The company noted similar limit-down moves have been common in prior convertible bond issues.
-
----
-
-### 2026-09-03 14:53:29  #公司 #市場
-
-【可轉債原股東配售今日繳款，四方科技一字板跌停，公司回應】9月3日，四方科技開盤一字跌停，跌停價為13.91元/股，跌幅為10.03%。訊息面上，9月3日是“四方轉債”可轉債發行原股東優先配售認購及繳款日。市場觀點認為，資金從正股撤出參與優先配售認購及繳款，造成較大拋壓。對此，四方科技方面回應，依據公司可轉債發行規則，參與原股東優先配售的投資者需要在9月2日持有上市公司股票，今天可以賣出股票後優先配售認購及繳款。從其他上市公司發行可轉債以往案例看，股價跌停屬於正常現象。（中證金牛座）
-
----
-
-### 2026-09-03 14:53:11  #公司
-
-【中證協就券商併購示範實踐徵求行業意見】中國證券業協會近日向各券商下發通知，就《證券行業示範實踐第7號——證券公司併購（徵求意見稿）》徵求行業意見。示範實踐正文分為論證準備階段、併購交易階段、整合融合階段三章。在整合融合階段小結中，中證協提出三點建議：一是加強整體統籌，針對法人與系統切換、客戶遷移與子公司整合等重大專項工作，強化目標與過程管理，確保如期、無差錯達成工作目標；二是加強內外協調，針對整合融合難點堵點問題，做好監管機構等外部主體溝通有效解決和內部跨單位協調，確保問題及時解決；三是加強任務督導，以專項督辦、定期報告、專題會議等形式動態跟蹤任務進展，確保整合融合全過程有序、全方位覆蓋。（中證金牛座）
-
----
-
-### 2026-09-03 14:53:11  #MKT News
-
-【China Securities Association opens consultation on draft M&A guidance for securities firms (Demonstrative Practice No.7)】The China Securities Association has circulated a draft titled Demonstrative Practice No.7 — Securities-firm M&A to brokerages for comment, framing M&A work in three stages: preparatory, transaction and post-deal integration. In the integration phase the association urges tighter project management for major tasks — legal/entity and IT/system cutovers, client migration and subsidiary consolidation — to ensure timely, error-free completion; stronger external and internal coordination, including proactive engagement with regulators to resolve integration bottlenecks and cross-unit coordination to clear issues promptly; and enhanced oversight through special task forces, regular reporting and dedicated meetings to dynamically track progress and secure orderly, end-to-end integration.
-
----
-
-### 2026-09-03 14:53:06  #MKT News #USDJPY #Impact bearish
-
-USD/JPY fell below 157, down 1.07% intraday.
-
----
-
-### 2026-09-03 14:52:27  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-【A-share 1H earnings season closes; STAR Market and ChiNext post outsized growth】China A-share 1H earnings season concluded, Shanghai and Shenzhen stock exchanges report: STAR Market companies posted revenue growth near 40% and net profit up 4.4x YoY; ChiNext companies reported revenue +22.3% YoY and net profit +32.7% YoY. Shanghai-listed real-economy firms increased R&D spending to over 475 billion yuan in 1H, up about 6.5% YoY; Shenzhen-listed real-economy firms’ R&D totaled 377.22 billion yuan, up 6.54% YoY.
-
----
-
-### 2026-09-03 14:51:47  #公司 #市場
-
-【法院據悉支援Jefferies子公司訴求 頒佈Radiant World全球資產凍結令】據知情人士稱，Jefferies Financial Group Inc.的子公司已獲得針對Radiant World及其創始人Pinkesh Nahar的全球資產凍結令。英國高等法院下達的這一凍結令，是Radiant World債權人迄今為止的最大動作。Radiant World是全球最大鐵礦石貿易商之一，如今正面臨越來越多的法律糾紛。此前彭博新聞社報道稱，由於擔心Radiant World為獲取融資向銀行提供偽造檔案，數家頂級大宗商品企業已開始與該公司切割。法庭記錄顯示，Jefferies旗下公司管理的基金LAM Trade Finance Group II LLC上週在倫敦對Radiant World採取法律行動，其中包括申請禁制令。
-
----
-
-### 2026-09-03 14:51:14  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【European gas rally pauses as Trump comments raise hopes for Middle East supply restart】European natural gas rally paused after benchmark futures eased following a roughly 10% gain over the past three sessions. Markets were encouraged by Trump saying a new round of US strikes on Iran may "end quickly" and again asserting Washington "controls the Strait of Hormuz," which eased fears of a prolonged Middle East conflict that had lifted energy prices. Despite the pullback, European gas contracts remain more than double pre-war levels and seasonal gas storage for the coming winter is unusually low, raising the risk of intensified global competition for supplies if temperatures fall.
-
----
-
-### 2026-09-03 14:50:46  #公司
-
-【滬深上市公司研發投入加碼 雙創板塊業績增長突出】A股上市公司半年報披露近日收官。記者從上海證券交易所、深圳證券交易所獲悉，上半年，滬深兩市上市公司積極鍛造新質生產力，研發投入持續加碼，科創板、創業板業績增長勢頭向好。作為資本市場重要成長板塊，科創板、創業板公司上半年業績增長明顯，其中科創板公司營收增速近40%，淨利潤增長4.4倍；創業板公司營收同比增長22.3%，淨利潤同比增長32.7%。研發投入規模和強度是觀察企業科技創新活力的重要指標。上半年，滬市實體類公司研發投入合計超4750億元，同比增長約6.5%。科創板公司研發投入合計1044億元，同比增長14.6%，研發強度中位數達12.6%，繼續保持高位。深市方面，實體類公司研發投入合計3772.19億元，同比增長6.54%。創業板公司研發投入合計1120.87億元，同比增長11.69%。創業板289家公司研發強度超10%，103家公司研發強度超20%。從絕對金額看，218家公司研發投入大於1億元，27家公司研發投入大於5億元，寧德時代、欣旺達、藍思科技等11家公司研發投入超過10億元。（新華社）
 
 ---
