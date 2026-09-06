@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07 05:40:50",
+  "updated": "2026-09-07 05:44:44",
   "count": 14203,
   "items": [
+    {
+      "id": "mkt:01a078ad-375b-7118-84bc-e2a61d6b96ce",
+      "time": "2026-09-07 05:43:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen armed forces said warplanes carried out more than 11 airstrikes on Houthi positions in Bayda province."
+    },
     {
       "id": "5079690",
       "time": "2026-09-07 05:38:49",
@@ -130078,15 +130086,6 @@
         "MKT News"
       ],
       "text": "Iran's Mehr news agency, citing Arab sources, reported multiple explosions in the Aqaba region of southern Jordan."
-    },
-    {
-      "id": "5067390",
-      "time": "2026-08-31 05:41:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊媒稱伊朗朝霍爾木茲海峽美國艦船發射導彈。"
     }
   ]
 }
