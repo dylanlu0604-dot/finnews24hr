@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-07 06:51:39",
+  "updated": "2026-09-07 06:55:37",
   "count": 14163,
   "items": [
+    {
+      "id": "5079710",
+      "time": "2026-09-07 06:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法媒：法國前總統奧朗德可能參加明年大選】法國24電視臺5日報道稱，法國前總統奧朗德有可能在明年大選“捲土重來”。當下法國政壇各派競爭膠著，傳統中左翼缺乏代表，曾在執政時被認為是“法國最不受歡迎總統”的奧朗德，反而隨著近年來口碑回暖撿到了新的機會，有望在12月決定是否再次參選法國總統。（環球時報）"
+    },
+    {
+      "id": "5079709",
+      "time": "2026-09-07 06:51:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【拒絕將安大略湖改名為美洲湖，MapQuest使用量暴漲50倍】MapQuest因地圖示註決策迎來大規模使用者迴流。這款導航應用表示，在拒絕效仿谷歌與蘋果、不為美國使用者將“安大略湖”改名為“美洲湖”之後，其使用量暴漲至正常水平的約50倍。數十萬使用者下載MapQuest，截至8月30日，該應用在美國蘋果應用商店導航類榜單登頂，全部免費應用榜單位列第八。此次使用者激增發生在特朗普下達行政命令，在美國境內正式將安大略湖改名為美洲湖之後。"
+    },
+    {
+      "id": "te:markets:581422",
+      "time": "2026-09-07 06:51:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Trades Slightly Lower to Start the Week — New Zealand stocks dropped 21 points, or 0.2%, to 13,954 in Monday morning trade, after gaining in the previous session, tracking a decline on Wall Street on Friday amid expectations that the Fed would raise interest rates at its upcoming meeting following stronger-than-expected labor data. Traders were cautious ahead of China’s CPI and PPI data, as well as trade figures for August, due later this week. Investors also monitored developments in the Middle East conflict after Tehran said it had targeted oil tankers in response to US strikes. Traders also continued to assess Friday's statement from RBNZ Assistant Governor Karen Silk, which signaled that New Zealand’s central bank is more likely to wait until December before raising interest rates again. The tech, consumer discretionary, energy, and financial sectors mainly weighed on the index, with early losers including Ryman Healthcare (-1.0%), ANZ Group (-0.8%), Infratil (-0.8%), and Channel Infrastructure (-0.6%)."
+    },
     {
       "id": "5079708",
       "time": "2026-09-07 06:48:25",
@@ -129664,30 +129693,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：摧毀了位於約旦的美國侯賽因空軍基地和阿茲拉克空軍基地內敵方戰機的基礎設施與部署點。"
-    },
-    {
-      "id": "5067435",
-      "time": "2026-08-31 06:54:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達內政部提升安全威脅等級，敦促居民留在家中。"
-    },
-    {
-      "id": "5067434",
-      "time": "2026-08-31 06:53:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫表示，北約欲將北極打造成對抗俄羅斯的前線。"
-    },
-    {
-      "id": "5067433",
-      "time": "2026-08-31 06:52:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：侵略與罪行絕不能使敵人削弱伊朗對霍爾木茲海峽的控制，每一次開火都將招致更為沉重的回擊。"
     }
   ]
 }
