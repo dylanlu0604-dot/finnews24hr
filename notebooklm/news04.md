@@ -1,7 +1,433 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-06 06:13:05_
-_本檔包含 2790 則快訊，約 557189 字_
+_更新時間：2026-09-06 08:09:59_
+_本檔包含 2814 則快訊，約 558898 字_
+
+---
+
+### 2026-09-02 04:16:52  #焦點 #國際
+
+俄羅斯普京談烏克蘭衝突：俄羅斯將繼續打擊烏克蘭港口與能源設施。
+
+---
+
+### 2026-09-02 04:16:51  #MKT News #DELL.N #Impact bullish
+
+Dell (DELL.N) rose about 9% in after-hours trading.
+
+---
+
+### 2026-09-02 04:16:33  #國際
+
+俄羅斯總統普京談及烏克蘭衝突：俄羅斯已在烏克蘭東部牽制住大批敵方部隊。
+
+---
+
+### 2026-09-02 04:16:20  #市場 #焦點
+
+現貨白銀失守64美元/盎司，日內跌3.80%。
+
+---
+
+### 2026-09-02 04:16:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Putin said Russian forces are fighting in central Orikhiv, Ukraine.
+
+---
+
+### 2026-09-02 04:16:00  #國際
+
+一枚伊朗導彈擊中約旦亞喀巴地區。
+
+---
+
+### 2026-09-02 04:15:51  #Trading Economics #Markets #commodity #Importance 0
+
+EU Gas Hits 3-1/2-year High — EU Gas increased to 74.40 EUR/MWh, the highest since January 2023. Over the past 4 weeks, Natural Gas EU gained 29.09%, and in the last 12 months, it increased 133.65%.
+
+---
+
+### 2026-09-02 04:15:23  #市場 #焦點
+
+戴爾盤後股價漲幅擴大至9.6%。
+
+---
+
+### 2026-09-02 04:15:07  #國際
+
+俄羅斯總統普京就烏克蘭衝突表示：俄軍正在奧裡希夫市中心作戰。
+
+---
+
+### 2026-09-02 04:15:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Putin said Russia has encircled a large enemy force in eastern Ukraine.
+
+---
+
+### 2026-09-02 04:14:33  #國際
+
+俄羅斯總統普京：倘若有人妄圖吞併我們，那他們或將自食惡果。
+
+---
+
+### 2026-09-02 04:14:12  #其他
+
+約旦境內響起防空警報。
+
+---
+
+### 2026-09-02 04:14:05  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Jordan state TV reports air-raid sirens sounded across the country.
+
+---
+
+### 2026-09-02 04:14:02  #MKT News
+
+Putin said Russia had taken control of 270 sq km in the Donetsk region in August.
+
+---
+
+### 2026-09-02 04:13:53  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall Amid Tighter Financial Conditions — US stock indices closed lower on Tuesday on growing concerns that tighter financial conditions could weigh on economic growth. The S&P 500 fell 0.7%, the Dow lost 419 points and the Nasdaq 100 dropped 1.3%. US-Iran strikes in the Persian Gulf prolonged the suspension of energy exports from the region and heightened global inflation risks, reinforcing expectations that major central banks could resume rate hikes this year. Meanwhile, soaring in AI-related corporate debt issuance added to credit supply and pushed yields higher. Tech stocks led losses, with Micron down 2.6%, AMD falling 2.4%, Oracle and Palo Alto Networks each losing 5.2%, and Dell dropping 6.8%. Nvidia fell 1.5% despite a $35 billion computing deal between Lambda and Anthropic. Asset managers also declined, with Blackstone down 4.6% and KKR falling 3.1%.
+
+---
+
+### 2026-09-02 04:13:44  #國際
+
+伊朗週二晚間從伊朗中部的霍梅因發射導彈。
+
+---
+
+### 2026-09-02 04:12:55  #國際
+
+俄羅斯總統普京談烏克蘭衝突：8月俄羅斯已控制頓涅茨克地區270平方公里領土。
+
+---
+
+### 2026-09-02 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Palo Alto Networks earnings above expectations at 1.02 USD — Palo Alto Networks (PANW) released earnings per share at 1.02 USD, compared to market expectations of 0.97 USD.
+
+---
+
+### 2026-09-02 04:11:01  #MKT News #DELL.N
+
+Dell (DELL.N) reported fiscal 2027 Q2 storage revenue of $4.85 billion.
+
+---
+
+### 2026-09-02 04:10:45  #焦點 #國際
+
+蘋果地圖開始將安大略湖改稱為“美國湖”。
+
+---
+
+### 2026-09-02 04:10:19  #國際
+
+俄羅斯總統普京談及烏克蘭衝突：我確信敵方將持續潰敗。
+
+---
+
+### 2026-09-02 04:10:09  #MKT News
+
+Putin said Kushner and US presidential envoy Witkoff are welcome guests regarding the Ukraine conflict.
+
+---
+
+### 2026-09-02 04:10:06  #MKT News
+
+Putin said on the Ukraine conflict he believes the enemy will continue to collapse.
+
+---
+
+### 2026-09-02 04:10:06  #MKT News
+
+Putin, on the Ukraine conflict, said it is more comfortable to work with people they trust and that those people are close to US President Trump.
+
+---
+
+### 2026-09-02 04:09:53  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Dell Technologies earnings above expectations at 7.04 USD — Dell Technologies (DELL) released earnings per share at 7.04 USD, compared to market expectations of 4.86 USD.
+
+---
+
+### 2026-09-02 04:09:32  #MKT News
+
+Putin said on the Ukraine conflict that if any party can generate positive momentum, Russia would not oppose it.
+
+---
+
+### 2026-09-02 04:09:07  #公司 #市場 #國際
+
+斯托克指數：康士伯海事、法蘭克福機場集團、JD運動時尚、維也納伯格、巴卡弗羅斯特將於9月21日從歐洲斯托克600指數剔除。
+
+---
+
+### 2026-09-02 04:09:07  #MKT News #DELL.N
+
+Dell Technologies (DELL.N) expects adjusted EPS of $4.46 for fiscal 2027 Q3.
+
+---
+
+### 2026-09-02 04:08:40  #MKT News #DELL.N
+
+Dell (DELL.N) expects fiscal 2027 third-quarter revenue of $41.36 billion.
+
+---
+
+### 2026-09-02 04:08:37  #其他
+
+慧與、超微電腦跟隨戴爾股價走高。
+
+---
+
+### 2026-09-02 04:08:02  #國際
+
+【扎哈羅娃：在日部署“堤豐”導彈系統“不可接受”】俄羅斯外交部發言人扎哈羅娃1日表示，在日本領土上部署美國“堤豐”導彈系統對於俄羅斯來說“絕對不可接受”。（新華社）
+
+---
+
+### 2026-09-02 04:07:53  #國際
+
+俄羅斯總統普京談及烏克蘭衝突：庫什納與威特科夫是受歡迎的客人。
+
+---
+
+### 2026-09-02 04:07:38  #MKT News #DELL.N #Impact bullish
+
+Dell (DELL.N) Q2 fiscal 2027 net income $4.13 bln, vs $1.164 bln year-ago; consensus $2.95 bln.
+
+---
+
+### 2026-09-02 04:07:21  #國際
+
+俄羅斯總統普京談及烏克蘭衝突：如果有人能夠帶來積極勢頭，我們並不反對。
+
+---
+
+### 2026-09-02 04:07:14  #MKT News #DELL.N #Impact bullish
+
+Dell (DELL.N) said fiscal 2027 second-quarter revenue was $46.97 billion, up from $29.78 billion a year earlier, versus analysts' consensus of $44.95 billion.
+
+---
+
+### 2026-09-02 04:07:02  #國際
+
+俄羅斯總統普京談烏克蘭衝突：我們與自己信任的人打交道會自在得多，這些都是親近特朗普的人士。
+
+---
+
+### 2026-09-02 04:06:45  #國際
+
+俄羅斯總統普京談及烏克蘭衝突：任何談判都應當務實。
+
+---
+
+### 2026-09-02 04:06:41  #公司 #市場
+
+戴爾股價盤後上漲3%，此前該公司上調了財年營收預期。
+
+---
+
+### 2026-09-02 04:06:14  #公司 #市場 #國際
+
+諾基亞、恩吉集團將納入歐洲斯托克50指數。
+
+---
+
+### 2026-09-02 04:05:54  #其他
+
+戴爾：本財年營收預期1920億美元，此前指引區間1650‑1690億美元，市場預期1737.6億美元。第二財季AI最佳化伺服器營收164億美元，市場預期160.3億美元。
+
+---
+
+### 2026-09-02 04:05:51  #MKT News
+
+Russian President Putin said any negotiations on the Ukraine conflict should be concrete.
+
+---
+
+### 2026-09-02 04:05:35  #其他
+
+戴爾：本財年AI最佳化伺服器營收預期740億美元，實際已實現約600億美元。
+
+---
+
+### 2026-09-02 04:05:20  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. stocks fell on Sept 1 (Tuesday): the Dow Jones Industrial Average closed down 418.49 points, or 0.79%, at 52,767.41; the S&P 500 closed down 54.61 points, or 0.71%, at 7,631.53; the Nasdaq Composite closed down 271.11 points, or 1.03%, at 26,099.77.
+
+---
+
+### 2026-09-02 04:04:13  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
+
+According to Axios, Iran retaliated for a U.S. airstrike by launching ballistic missiles at a U.S. base in Jordan.
+
+---
+
+### 2026-09-02 04:03:29  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index rises on 1st】The dollar index, measuring the dollar against six major currencies, rose 0.25% to 99.677 at the New York FX close. EUR/USD 1.1590, down from 1.1616; GBP/USD 1.3514, down from 1.3550. USD/JPY 160.20, up from 159.80; USD/CHF 0.8118, up from 0.8083; USD/CAD 1.3894, up from 1.3855; USD/SEK 9.6188, up from 9.5767.
+
+---
+
+### 2026-09-02 04:03:27  #市場
+
+【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.677。 截至紐約匯市尾市，1歐元兌換1.1590美元，低於前一交易日的1.1616美元；1英鎊兌換1.3514美元，低於前一交易日的1.3550美元。 1美元兌換160.20日元，高於前一交易日的159.80日元；1美元兌換0.8118瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.3894加元，高於前一交易日的1.3855加元；1美元兌換9.6188瑞典克朗，高於前一交易日的9.5767瑞典克朗。
+
+---
+
+### 2026-09-02 04:02:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Global crude futures settle sharply higher】At the close, NYMEX October light crude futures rose $4.46 to settle at $90.22/bbl, up 5.2%. ICE Brent November futures rose $4.16 to settle at $94.65/bbl, up 4.6%.
+
+---
+
+### 2026-09-02 04:02:44  #MKT News #Market Themes #AI Revolution
+
+OpenAI said it strengthened the system-level tech stack for GPT-5.6, added an activation classifier, and expanded coverage against generic jailbreak attacks.
+
+---
+
+### 2026-09-02 04:02:22  #其他
+
+OpenAI：Astra模型先進網路安全成果初期將僅面向測試者群體開放使用。
+
+---
+
+### 2026-09-02 04:02:04  #其他
+
+OpenAI：在Hugging Face事件後，為大語言模型Astra實施了更強的安全防護措施。
+
+---
+
+### 2026-09-02 04:02:00  #其他
+
+OpenAI：計劃很快推出Astra模型，但其最頂尖的網路安全能力將受到更嚴格的訪問限制。
+
+---
+
+### 2026-09-02 04:01:47  #其他
+
+OpenAI：已於8月28日重啟此前暫停的大規模前沿強化學習訓練任務。
+
+---
+
+### 2026-09-02 04:01:38  #MKT News #Important #S&P500 #Impact bearish #DELL.N #MU.O
+
+【U.S. close: major indices fall; Dell down 7%】U.S. equities closed lower on Tuesday: the Dow Jones Industrial Average preliminarily fell 0.79%, the S&P 500 fell 0.70% and the Nasdaq fell 1.0%. Oracle (ORCL.N) dropped about 5%; Micron Technology (MU.O) and SK Hynix (SKHY.O) slid more than 2%; Apple (AAPL.O) rose 2% and Dell Technologies (DELL.N) fell 7%. The Nasdaq Golden Dragon China Index fell 0.34%; Gaotu (GOTU.N) rallied 13% while NIO (NIO.N) declined 4%.
+
+---
+
+### 2026-09-02 04:01:33  #其他
+
+OpenAI：與GPT-5.6版本相比， Astra大幅提升了網路安全能力。
+
+---
+
+### 2026-09-02 04:01:22  #其他
+
+OpenAI：將繼續暫時暫停部分規模較小的實驗性訓練專案執行。
+
+---
+
+### 2026-09-02 04:01:14  #其他
+
+OpenAI：已新增額外分層防護機制，以防Astra模型採取可能與對齊目標不符的行動。
+
+---
+
+### 2026-09-02 04:01:01  #其他
+
+OpenAI：針對GPT-5.6，我們改進了系統級堆疊的穩健性，具體措施包括新增啟用分類器，並擴大對通用越獄攻擊的覆蓋範圍。
+
+---
+
+### 2026-09-02 04:00:57  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+IRNA reported an Iranian military spokesman said there is no doubt the enemy will soon pay for its hostile actions and that the counterattack will be swift, devastating and large-scale.
+
+---
+
+### 2026-09-02 04:00:51  #市場
+
+WTI原油日內漲6%，現報90.92美元/桶。
+
+---
+
+### 2026-09-02 04:00:49  #其他
+
+OpenAI：Astra模型即將推出，附帶網路能力限制。
+
+---
+
+### 2026-09-02 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.79%，標普500指數跌0.71%，納指跌1.03%。Axon Enterprise跌8.52%，鏗騰電子跌7.60%，盈透證券跌7.01%，戴爾跌6.94%，CrowdStrike跌6.90%。“七姐妹”方面：蘋果漲2.61%，Meta Platforms漲1.08%，谷歌跌1.01%，微軟跌1.24%，英偉達跌1.51%，亞馬遜跌1.87%，特斯拉跌3.22%。
+
+---
+
+### 2026-09-02 04:00:25  #市場
+
+道瓊斯運輸平均指數下跌2.5%，至5月以來最低水平。
+
+---
+
+### 2026-09-02 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.34%】樂信跌17.61%，海川證券跌11.11%，信也科技跌9.67%，NXTT跌9.64%，巨龍線上跌6.00%。
+
+---
+
+### 2026-09-02 03:59:34  #市場
+
+【國際油價1日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.46美元，收於每桶90.22美元，漲幅為5.2%；11月交貨的倫敦布倫特原油期貨價格上漲4.16美元，收於每桶94.65美元，漲幅為4.6%。
+
+---
+
+### 2026-09-02 03:59:23  #其他
+
+【委內瑞拉首都附近國際機場恢復商業客運航班】委內瑞拉交通部長弗朗西斯科·加爾塞斯1日稱，邁克蒂亞西蒙·玻利瓦爾國際機場新建的臨時航站樓正式開始運營，以服務國內和國際航班。
+
+---
+
+### 2026-09-02 03:59:14  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Al Arabiya reported that, after reciprocal attacks between the US and Iran, residents of the Jordanian cities Mafraq and Azraq received warning messages.
+
+---
+
+### 2026-09-02 03:58:11  #國際
+
+美國財長貝森特：期待出席在曼谷舉辦的國際貨幣基金組織會議。
+
+---
+
+### 2026-09-02 03:57:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state TV said a U.S. strike killed at least 4 and seriously injured 35 at a wedding near Sirik; the U.S. had no immediate comment.
+
+---
+
+### 2026-09-02 03:56:30  #國際
+
+伊朗媒體：美國對伊朗錫裡克附近一處婚禮發動襲擊，造成至少四人死亡、三十五人重傷。
+
+---
+
+### 2026-09-02 03:54:13  #MKT News
+
+Iranian media reported air-defense activity over eastern Tehran minutes ago.
+
+---
+
+### 2026-09-02 03:54:10  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Gilead Sciences Stock Price Hits 26-week High — Gilead Sciences shares increased to 149.62 USD, the highest since March 2026. Over the past 4 weeks, Gilead Sciences gained 13.95%, and in the last 12 months, it increased 32.6%.
 
 ---
 
@@ -16534,287 +16960,5 @@ Sources say Ukraine has urgently requested €2 billion in military aid from the
 ### 2026-09-01 03:17:44  #國際
 
 【民調：特朗普支援率維持於歷史新低 33%】路透社與益普索聯合民調顯示，特朗普總統支援率維持在 33%，創下其政治生涯最低紀錄。民眾不滿主要集中在伊朗戰爭與生活成本問題：71% 受訪者不認可特朗普對生活成本問題的處理，僅 36% 民眾對這場戰爭持認可態度。 距離 11 月中期選舉臨近，46% 民主黨選民表示投票意願十分強烈，共和黨選民該佔比為 31%。 無黨派選民當中，36% 傾向投票支援國會民主黨候選人，22% 傾向共和黨候選人。
-
----
-
-### 2026-09-01 03:15:17  #國際
-
-特朗普在藥品定價協議釋出會上提及梯瓦製藥。
-
----
-
-### 2026-09-01 03:14:12  #國際
-
-路透社 / 益普索民調顯示：特朗普支援率維持在 33%，創下其政治生涯最低水平。
-
----
-
-### 2026-09-01 03:12:59  #國際
-
-特朗普：目前已有 26 家企業簽署參與該計劃，覆蓋製藥市場 90% 份額。
-
----
-
-### 2026-09-01 03:08:31  #國際
-
-特朗普：九家製藥企業承諾實行低價。
-
----
-
-### 2026-09-01 03:08:07  #焦點 #國際
-
-特朗普宣佈達成新的藥品定價協議。
-
----
-
-### 2026-09-01 03:07:07  #公司 #國際
-
-華納兄弟探索：HBO Max 將於 10 月 1 日在亞馬遜 Prime Video 與日本 Hulu 同步獨家上線。
-
----
-
-### 2026-09-01 03:04:36  #國際
-
-美國聯邦貿易委員會：委員會以 2‑0 投票表決，授權工作人員提交訴狀。
-
----
-
-### 2026-09-01 03:04:16  #公司
-
-Meta Platforms CEO扎克伯格：Meta Platforms(META.O)推出AI程式設計工具“Muse Code”。為Muse Code推出按月付費訂閱計劃。
-
----
-
-### 2026-09-01 03:03:29  #其他
-
-預測市場 Polymarket 完成融資，由 1789 領投，企業估值達 210 億美元。
-
----
-
-### 2026-09-01 03:02:50  #MKT News #META.O #Impact bullish
-
-Meta Platforms CEO Zuckerberg said Meta Platforms (META.O) has launched AI coding tool Muse Code.
-
----
-
-### 2026-09-01 03:02:16  #公司 #國際
-
-美國聯邦貿易委員會：聯邦貿易委員會與 22 個州總檢察長指控亞馬遜在其數字廣告競價定價中隱瞞不公平收費。
-
----
-
-### 2026-09-01 03:01:09  #公司 #國際
-
-美國聯邦貿易委員會：聯邦機構與多州起訴亞馬遜，指控其實施秘密廣告加價操作。
-
----
-
-### 2026-09-01 03:00:02  #市場
-
-恒指期貨夜盤收跌0.42%，報25345.19點，低水221.80點。
-
----
-
-### 2026-09-01 02:59:34  #MKT News
-
-U.S. approved the highest level of biofuel waivers for refiners since 2017.
-
----
-
-### 2026-09-01 02:59:15  #MKT News #Market Themes #AI Revolution
-
-【American AI Build launches multi-mln-dollar ad campaign as 61% of US adults oppose local data centers】American AI Build, backed by AI-industry billionaires, has launched a multi-mln-dollar advertising campaign to blunt rising US public opposition to new data centers. A survey found 61% of US adults oppose local data center construction; concerns cited include higher electricity prices, increased blackout risk and heavy water use. The group says curbs on data center investment would cost jobs and weaken US AI competitiveness. Supporters include venture capitalists Marc Andreessen, Ben Horowitz and OpenAI president Greg Brockman.
-
----
-
-### 2026-09-01 02:59:11  #國際
-
-美國環保署批准小型煉油廠豁免生物燃料法規，2025合規年度豁免額度總計17.6億個信用額度。
-
----
-
-### 2026-09-01 02:58:40  #公司 #國際
-
-美國聯邦貿易委員會聯合多州就廣告定價問題起訴亞馬遜，該案已提交西雅圖聯邦法院。
-
----
-
-### 2026-09-01 02:58:11  #國際
-
-美國向煉油廠授予2017年以來最高規模的生物燃料義務豁免。
-
----
-
-### 2026-09-01 02:56:29  #市場
-
-JBS股價跌至盤中低點。
-
----
-
-### 2026-09-01 02:56:06  #MKT News
-
-U.S. EPA approved full waivers for 18 applications, approved 50% waivers for 11 applications, denied 3 applications and found 2 ineligible.
-
----
-
-### 2026-09-01 02:56:04  #國際
-
-巴西已就關稅問題與美國舉行會談，並稱美方相關措施不公平。
-
----
-
-### 2026-09-01 02:55:54  #Trading Economics #Economy #Uruguay #Balance of Trade #Importance 1
-
-Uruguay Trade Deficit Widens in July — Uruguay’s trade deficit widened to $182.84 million in July 2026 from $54.12 million a year earlier. Imports rose 15.1% year-on-year to $1.19 billion. Purchases of intermediate goods increased 26.9%, driven by a 139.1% jump in oil and distillate imports, while electricity imports rose 62.5% and food and beverage imports increased 36.3%. Consumer goods imports rose 5.5%, with purchases of autos and other transport equipment up 21.7% and durable goods increasing 20.2%. Meanwhile, capital goods imports declined 1.9%. Exports rose 2.8% to $1.01 billion, as sales of manufactured goods grew 10.9%, while exports of primary products declined 9.6% and utilities fell 31.5%.
-
----
-
-### 2026-09-01 02:55:52  #MKT News
-
-U.S. EPA said it has issued decisions on 34 small-refinery waiver petitions filed by 34 refineries.
-
----
-
-### 2026-09-01 02:55:01  #國際
-
-美國環境保護署：已批准18份申請的全額豁免，批准11份申請的50%豁免，駁回3份申請，並判定2份申請不具備申請資格。
-
----
-
-### 2026-09-01 02:54:54  #國際
-
-美國環保署：宣佈就34家煉油商提交的34份單獨小型煉油廠豁免申請作出裁定，上述申請旨在請求豁免這些煉油廠2025合規年度的可再生燃料標準配額義務。
-
----
-
-### 2026-09-01 02:54:13  #其他
-
-多明尼加共和國維持基準利率5.25%。
-
----
-
-### 2026-09-01 02:53:48  #MKT News
-
-U.S. EPA said it has extended the compliance reporting deadline for the 2025 compliance year under the Renewable Fuel Standard (RFS) from Sept. 1, 2026 to Oct. 1, 2026.
-
----
-
-### 2026-09-01 02:53:33  #焦點 #國際
-
-歐盟委員會主席馮德萊恩：目前有10萬億歐元家庭儲蓄沉澱在銀行存款當中，並且歐洲有相當規模的儲蓄投向了歐洲大陸以外地區。歐洲現在必須調動這些儲蓄為本本土企業服務，這正是儲蓄與投資聯盟的目標。我們已經就證券化、銀行與保險投資、市場整合及其監管拿出相關提案。整套舉措合計有望釋放最高4700億歐元的新增投資。
-
----
-
-### 2026-09-01 02:52:56  #國際
-
-出於安全方面擔憂，歐盟暫停巴西牛肉進口。
-
----
-
-### 2026-09-01 02:52:46  #國際
-
-美國環保署：將2025合規年度可再生燃料標準（RFS）合規報告提交截止日期從2026年9月1日延長至2026年10月1日。
-
----
-
-### 2026-09-01 02:52:38  #國際
-
-伊朗革命衛隊官員稱：伊朗首要重心是構建威懾，戰爭或是談判均為後續選項。
-
----
-
-### 2026-09-01 02:52:03  #國際
-
-美國環保署宣佈延長2025合規年度可再生燃料標準合規報告截止期限。
-
----
-
-### 2026-09-01 02:52:00  #MKT News
-
-The US Environmental Protection Agency said it will extend the compliance-reporting deadline for the 2025 compliance year under the Renewable Fuel Standard.
-
----
-
-### 2026-09-01 02:50:55  #MKT News #Market Regions #Europe & UK
-
-European Commission says the EU will suspend imports of meat from Brazil from Thursday.
-
----
-
-### 2026-09-01 02:48:05  #國際
-
-特朗普政府正在測試網路安全與人工智慧工具，用於保障得克薩斯州供水系統安全。
-
----
-
-### 2026-09-01 02:47:45  #MKT News
-
-Al Arabiya TV reported Yemeni government drones struck Houthi positions, fortifications and vehicles in Bajim district, Saada province.
-
----
-
-### 2026-09-01 02:45:39  #MKT News #Commodities #Energy
-
-IRNA quoted Iran's energy minister as saying that, as power-generation expansion and electricity-demand management programs advance, Iran will soon achieve full self-sufficiency in electricity supply.
-
----
-
-### 2026-09-01 02:45:03  #市場
-
-布倫特原油期貨收於每桶90.49美元，上漲2.39美元，漲幅2.71%。
-
----
-
-### 2026-09-01 02:44:57  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $90.49 per barrel, up $2.39 or 2.71%.
-
----
-
-### 2026-09-01 02:43:05  #央行 #宏觀 #公司 #國際
-
-【俄美財長在G20會議期間罕見會晤 討論雙邊金融合作】據俄羅斯政府宣告，俄羅斯財政部長西盧安諾夫與美國財政部長貝森特在北卡羅來納州阿什維爾舉行的二十國集團會議期間會晤。宣告稱，兩國官員討論了雙邊金融合作以及G20框架下的合作。這也是自俄羅斯總統普京2022年對烏克蘭發動軍事行動以來，西盧安諾夫首次親自出席G20會議。此次會談標誌著美俄經濟團隊之間罕見的高層接觸。由於烏克蘭戰爭以及西方對俄羅斯實施的全面制裁，美俄關係依然緊張。西盧安諾夫出席本週在阿什維爾舉行的G20財長和央行行長會議引發歐洲官員反對。德國財政部長克林拜爾表示，他和他的同行拒絕與西盧安諾夫一起拍攝傳統的集體照。
-
----
-
-### 2026-09-01 02:42:59  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #MSFT.O
-
-Amazon Web Services (AWS) has launched a beta multi-cloud interconnect service linking AWS with Microsoft Azure, available from today in the US, Sydney (Australia) and Frankfurt (Germany).
-
----
-
-### 2026-09-01 02:40:57  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #Impact bullish #MSFT.O
-
-Amazon Web Services (AWS) and Microsoft Azure (MSFT.O) to expand multi-cloud networking cooperation.
-
----
-
-### 2026-09-01 02:40:56  #公司 #國際
-
-亞馬遜雲科技：AWS互聯服務，對接微軟Azure的多雲預覽版現已在美國東部、美國西部、亞太（悉尼）以及歐洲（法蘭克福）區域上線。
-
----
-
-### 2026-09-01 02:40:07  #MKT News
-
-【US, Russian finance ministers hold rare G20 meeting to discuss financial cooperation, Ukraine peace plan】US Treasury Secretary Bessent met Russian Finance Minister Siluanov at the G20 in Asheville, North Carolina, to discuss bilateral financial cooperation and coordination within the G20. Siluanov’s attendance was his first in-person G20 appearance since the 2022 Russia-Ukraine conflict. The meeting was a rare senior-level U.S.-Russia economic contact amid persistently tense relations; several European officials opposed Siluanov’s presence and Germany’s finance minister Klingbeil declined the traditional group photo. Bessent, who oversees US sanctions policy, and Siluanov also discussed Trump’s Ukraine peace plan, NBC reported; no breakthrough was reported and positions remain far apart.
-
----
-
-### 2026-09-01 02:39:39  #公司
-
-亞馬遜雲科技：亞馬遜雲科技與微軟Azure合作擴充套件多雲網路。
-
----
-
-### 2026-09-01 02:36:37  #市場 #國際
-
-美國前國會議員喬治·桑托斯將無法再在Kalshi預測市場平臺下注；該平臺因其涉嫌操縱有關本人是否出席本年度國情諮文演講的押注合約，已對他實施終身封禁。
-
----
-
-### 2026-09-01 02:33:54  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures (WTI) settled at $85.76/bbl, up $2.36 or 2.83%.
 
 ---

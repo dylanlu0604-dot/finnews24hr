@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-06 06:13:05_
-_本檔包含 2681 則快訊，約 557191 字_
+_更新時間：2026-09-06 08:09:59_
+_本檔包含 2704 則快訊，約 558806 字_
+
+---
+
+### 2026-09-01 03:15:17  #國際
+
+特朗普在藥品定價協議釋出會上提及梯瓦製藥。
+
+---
+
+### 2026-09-01 03:14:12  #國際
+
+路透社 / 益普索民調顯示：特朗普支援率維持在 33%，創下其政治生涯最低水平。
+
+---
+
+### 2026-09-01 03:12:59  #國際
+
+特朗普：目前已有 26 家企業簽署參與該計劃，覆蓋製藥市場 90% 份額。
+
+---
+
+### 2026-09-01 03:08:31  #國際
+
+特朗普：九家製藥企業承諾實行低價。
+
+---
+
+### 2026-09-01 03:08:07  #焦點 #國際
+
+特朗普宣佈達成新的藥品定價協議。
+
+---
+
+### 2026-09-01 03:07:07  #公司 #國際
+
+華納兄弟探索：HBO Max 將於 10 月 1 日在亞馬遜 Prime Video 與日本 Hulu 同步獨家上線。
+
+---
+
+### 2026-09-01 03:04:36  #國際
+
+美國聯邦貿易委員會：委員會以 2‑0 投票表決，授權工作人員提交訴狀。
+
+---
+
+### 2026-09-01 03:04:16  #公司
+
+Meta Platforms CEO扎克伯格：Meta Platforms(META.O)推出AI程式設計工具“Muse Code”。為Muse Code推出按月付費訂閱計劃。
+
+---
+
+### 2026-09-01 03:03:29  #其他
+
+預測市場 Polymarket 完成融資，由 1789 領投，企業估值達 210 億美元。
+
+---
+
+### 2026-09-01 03:02:50  #MKT News #META.O #Impact bullish
+
+Meta Platforms CEO Zuckerberg said Meta Platforms (META.O) has launched AI coding tool Muse Code.
+
+---
+
+### 2026-09-01 03:02:16  #公司 #國際
+
+美國聯邦貿易委員會：聯邦貿易委員會與 22 個州總檢察長指控亞馬遜在其數字廣告競價定價中隱瞞不公平收費。
+
+---
+
+### 2026-09-01 03:01:09  #公司 #國際
+
+美國聯邦貿易委員會：聯邦機構與多州起訴亞馬遜，指控其實施秘密廣告加價操作。
+
+---
+
+### 2026-09-01 03:00:02  #市場
+
+恒指期貨夜盤收跌0.42%，報25345.19點，低水221.80點。
+
+---
+
+### 2026-09-01 02:59:34  #MKT News
+
+U.S. approved the highest level of biofuel waivers for refiners since 2017.
+
+---
+
+### 2026-09-01 02:59:15  #MKT News #Market Themes #AI Revolution
+
+【American AI Build launches multi-mln-dollar ad campaign as 61% of US adults oppose local data centers】American AI Build, backed by AI-industry billionaires, has launched a multi-mln-dollar advertising campaign to blunt rising US public opposition to new data centers. A survey found 61% of US adults oppose local data center construction; concerns cited include higher electricity prices, increased blackout risk and heavy water use. The group says curbs on data center investment would cost jobs and weaken US AI competitiveness. Supporters include venture capitalists Marc Andreessen, Ben Horowitz and OpenAI president Greg Brockman.
+
+---
+
+### 2026-09-01 02:59:11  #國際
+
+美國環保署批准小型煉油廠豁免生物燃料法規，2025合規年度豁免額度總計17.6億個信用額度。
+
+---
+
+### 2026-09-01 02:58:40  #公司 #國際
+
+美國聯邦貿易委員會聯合多州就廣告定價問題起訴亞馬遜，該案已提交西雅圖聯邦法院。
+
+---
+
+### 2026-09-01 02:58:11  #國際
+
+美國向煉油廠授予2017年以來最高規模的生物燃料義務豁免。
+
+---
+
+### 2026-09-01 02:56:29  #市場
+
+JBS股價跌至盤中低點。
+
+---
+
+### 2026-09-01 02:56:06  #MKT News
+
+U.S. EPA approved full waivers for 18 applications, approved 50% waivers for 11 applications, denied 3 applications and found 2 ineligible.
+
+---
+
+### 2026-09-01 02:56:04  #國際
+
+巴西已就關稅問題與美國舉行會談，並稱美方相關措施不公平。
+
+---
+
+### 2026-09-01 02:55:54  #Trading Economics #Economy #Uruguay #Balance of Trade #Importance 1
+
+Uruguay Trade Deficit Widens in July — Uruguay’s trade deficit widened to $182.84 million in July 2026 from $54.12 million a year earlier. Imports rose 15.1% year-on-year to $1.19 billion. Purchases of intermediate goods increased 26.9%, driven by a 139.1% jump in oil and distillate imports, while electricity imports rose 62.5% and food and beverage imports increased 36.3%. Consumer goods imports rose 5.5%, with purchases of autos and other transport equipment up 21.7% and durable goods increasing 20.2%. Meanwhile, capital goods imports declined 1.9%. Exports rose 2.8% to $1.01 billion, as sales of manufactured goods grew 10.9%, while exports of primary products declined 9.6% and utilities fell 31.5%.
+
+---
+
+### 2026-09-01 02:55:52  #MKT News
+
+U.S. EPA said it has issued decisions on 34 small-refinery waiver petitions filed by 34 refineries.
+
+---
+
+### 2026-09-01 02:55:01  #國際
+
+美國環境保護署：已批准18份申請的全額豁免，批准11份申請的50%豁免，駁回3份申請，並判定2份申請不具備申請資格。
+
+---
+
+### 2026-09-01 02:54:54  #國際
+
+美國環保署：宣佈就34家煉油商提交的34份單獨小型煉油廠豁免申請作出裁定，上述申請旨在請求豁免這些煉油廠2025合規年度的可再生燃料標準配額義務。
+
+---
+
+### 2026-09-01 02:54:13  #其他
+
+多明尼加共和國維持基準利率5.25%。
+
+---
+
+### 2026-09-01 02:53:48  #MKT News
+
+U.S. EPA said it has extended the compliance reporting deadline for the 2025 compliance year under the Renewable Fuel Standard (RFS) from Sept. 1, 2026 to Oct. 1, 2026.
+
+---
+
+### 2026-09-01 02:53:33  #焦點 #國際
+
+歐盟委員會主席馮德萊恩：目前有10萬億歐元家庭儲蓄沉澱在銀行存款當中，並且歐洲有相當規模的儲蓄投向了歐洲大陸以外地區。歐洲現在必須調動這些儲蓄為本本土企業服務，這正是儲蓄與投資聯盟的目標。我們已經就證券化、銀行與保險投資、市場整合及其監管拿出相關提案。整套舉措合計有望釋放最高4700億歐元的新增投資。
+
+---
+
+### 2026-09-01 02:52:56  #國際
+
+出於安全方面擔憂，歐盟暫停巴西牛肉進口。
+
+---
+
+### 2026-09-01 02:52:46  #國際
+
+美國環保署：將2025合規年度可再生燃料標準（RFS）合規報告提交截止日期從2026年9月1日延長至2026年10月1日。
+
+---
+
+### 2026-09-01 02:52:38  #國際
+
+伊朗革命衛隊官員稱：伊朗首要重心是構建威懾，戰爭或是談判均為後續選項。
+
+---
+
+### 2026-09-01 02:52:03  #國際
+
+美國環保署宣佈延長2025合規年度可再生燃料標準合規報告截止期限。
+
+---
+
+### 2026-09-01 02:52:00  #MKT News
+
+The US Environmental Protection Agency said it will extend the compliance-reporting deadline for the 2025 compliance year under the Renewable Fuel Standard.
+
+---
+
+### 2026-09-01 02:50:55  #MKT News #Market Regions #Europe & UK
+
+European Commission says the EU will suspend imports of meat from Brazil from Thursday.
+
+---
+
+### 2026-09-01 02:48:05  #國際
+
+特朗普政府正在測試網路安全與人工智慧工具，用於保障得克薩斯州供水系統安全。
+
+---
+
+### 2026-09-01 02:47:45  #MKT News
+
+Al Arabiya TV reported Yemeni government drones struck Houthi positions, fortifications and vehicles in Bajim district, Saada province.
+
+---
+
+### 2026-09-01 02:45:39  #MKT News #Commodities #Energy
+
+IRNA quoted Iran's energy minister as saying that, as power-generation expansion and electricity-demand management programs advance, Iran will soon achieve full self-sufficiency in electricity supply.
+
+---
+
+### 2026-09-01 02:45:03  #市場
+
+布倫特原油期貨收於每桶90.49美元，上漲2.39美元，漲幅2.71%。
+
+---
+
+### 2026-09-01 02:44:57  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $90.49 per barrel, up $2.39 or 2.71%.
+
+---
+
+### 2026-09-01 02:43:05  #央行 #宏觀 #公司 #國際
+
+【俄美財長在G20會議期間罕見會晤 討論雙邊金融合作】據俄羅斯政府宣告，俄羅斯財政部長西盧安諾夫與美國財政部長貝森特在北卡羅來納州阿什維爾舉行的二十國集團會議期間會晤。宣告稱，兩國官員討論了雙邊金融合作以及G20框架下的合作。這也是自俄羅斯總統普京2022年對烏克蘭發動軍事行動以來，西盧安諾夫首次親自出席G20會議。此次會談標誌著美俄經濟團隊之間罕見的高層接觸。由於烏克蘭戰爭以及西方對俄羅斯實施的全面制裁，美俄關係依然緊張。西盧安諾夫出席本週在阿什維爾舉行的G20財長和央行行長會議引發歐洲官員反對。德國財政部長克林拜爾表示，他和他的同行拒絕與西盧安諾夫一起拍攝傳統的集體照。
+
+---
+
+### 2026-09-01 02:42:59  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #MSFT.O
+
+Amazon Web Services (AWS) has launched a beta multi-cloud interconnect service linking AWS with Microsoft Azure, available from today in the US, Sydney (Australia) and Frankfurt (Germany).
+
+---
+
+### 2026-09-01 02:40:57  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #Impact bullish #MSFT.O
+
+Amazon Web Services (AWS) and Microsoft Azure (MSFT.O) to expand multi-cloud networking cooperation.
+
+---
+
+### 2026-09-01 02:40:56  #公司 #國際
+
+亞馬遜雲科技：AWS互聯服務，對接微軟Azure的多雲預覽版現已在美國東部、美國西部、亞太（悉尼）以及歐洲（法蘭克福）區域上線。
+
+---
+
+### 2026-09-01 02:40:07  #MKT News
+
+【US, Russian finance ministers hold rare G20 meeting to discuss financial cooperation, Ukraine peace plan】US Treasury Secretary Bessent met Russian Finance Minister Siluanov at the G20 in Asheville, North Carolina, to discuss bilateral financial cooperation and coordination within the G20. Siluanov’s attendance was his first in-person G20 appearance since the 2022 Russia-Ukraine conflict. The meeting was a rare senior-level U.S.-Russia economic contact amid persistently tense relations; several European officials opposed Siluanov’s presence and Germany’s finance minister Klingbeil declined the traditional group photo. Bessent, who oversees US sanctions policy, and Siluanov also discussed Trump’s Ukraine peace plan, NBC reported; no breakthrough was reported and positions remain far apart.
+
+---
+
+### 2026-09-01 02:39:39  #公司
+
+亞馬遜雲科技：亞馬遜雲科技與微軟Azure合作擴充套件多雲網路。
+
+---
+
+### 2026-09-01 02:36:37  #市場 #國際
+
+美國前國會議員喬治·桑托斯將無法再在Kalshi預測市場平臺下注；該平臺因其涉嫌操縱有關本人是否出席本年度國情諮文演講的押注合約，已對他實施終身封禁。
+
+---
+
+### 2026-09-01 02:33:54  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures (WTI) settled at $85.76/bbl, up $2.36 or 2.83%.
 
 ---
 
@@ -16078,163 +16360,5 @@ According to Iceland's national broadcaster, partial results of a referendum on 
 ### 2026-08-30 08:10:41  #MKT News #Commodities #Energy
 
 【Putin says Russia retains leading position in global coal market】In a video address on Aug. 30 marking Miners’ Day, Putin said coal and other mineral resources remain a cornerstone of Russia’s economy and its sovereignty. He said Russia’s coal reserves are the world’s second-largest, coal exports rank third and coal production ranks sixth, and that despite a complex operating environment Russia continues to hold a leading position in global coal markets.
-
----
-
-### 2026-08-30 08:05:44  #MKT News
-
-【President Trump's Sunday schedule】20:00 Beijing time on Aug 30 — at the White House for administrative duties.
-
----
-
-### 2026-08-30 08:02:20  #公司 #市場 #國際
-
-【日內交易員正大批拋售韓國晶片槓桿 ETF】一項繁瑣的模擬交易課程，正成為韓國抑制投資者追捧高風險產品的有效手段。這類高風險產品已令該國規模達 4.3 萬億美元的股市劇烈波動。瞄準三星電子、SK 海力士晶片企業兩倍日收益的槓桿交易所交易基金，交易額已暴跌至 6 月峰值的 4%，即將迎來首次月度資金流出。據媒體情報整理的首爾上市產品資料顯示，掛鉤三星電子與 SK 海力士的單隻股票 ETF，8 月至今合計資金流出規模約 10 億美元，即將迎來成立以來首次月度大規模資金出逃。截至 8 月 27 日，上述 ETF 合計管理資產規模從 6 月末峰值 114 億美元縮水至 50 億美元。此次規模暴跌源於多輪全球科技股拋售潮，市場擔憂人工智慧行業高額投入以及商業化變現前景。媒體情報分析師辛麗貝卡表示：“監管機構持續收緊相關規則，短期內資金流出態勢或將延續。韓國監管當局的態度已經從支援這類產品，轉向主動加以約束。”交易熱度快速降溫，雖然讓希望逢高套現的存量投資者感到失望，但客觀上起到穩定市場的效果。韓國綜合股價指數波動率指標已從 6 月末 97 的峰值回落至約 50，創下四個月新低。韓國股市基準指數今年迄今累計上漲 61%，但仍較兩個月前創下的歷史高點低 25%。
-
----
-
-### 2026-08-30 07:51:28  #其他
-
-【金正恩表彰為強化國防力量作出突出貢獻的人員】據朝中社30日報道，朝鮮勞動黨總書記、國務委員長金正恩29日在勞動黨中央委員會本部會見主要國防科研機構科學家、研究員和幹部，表彰他們為強化國防力量作出突出貢獻。報道說，朝鮮國防科研部門遵循勞動黨九大提出的武裝力量現代化方針，創新開發出多項堪稱推動戰爭執行能力和強化遏制力的專利技術。金正恩親自向為加強國防力量作出突出貢獻的科學家、研究員和幹部授予朝鮮英雄稱號和金質獎章，以及一級國旗勳章、金日成勳章。金正恩高度評價朝鮮國防科研部門開發應用的創新性專利軍事科技成果，表示這些成果是推動朝軍武器戰鬥系統現代化程序的一次革命，他向國防科研團隊的努力和貢獻表示真誠的敬意。（新華社）
-
----
-
-### 2026-08-30 07:30:35  #國際
-
-【冰島就是否重啟入盟談判舉行公投】當日，冰島舉行全民公投，就是否重啟加入歐盟的談判進行表決。（新華社）
-
----
-
-### 2026-08-30 07:29:28  #國際
-
-日本對福井縣釋出最高階別暴雨預警。
-
----
-
-### 2026-08-30 07:28:50  #國際
-
-【據訊息人士透露，美國中央情報局局長在訪問莫斯科期間，試探性提議舉行特朗普‑普京‑澤連斯基三方峰會】據兩名瞭解內情的訊息人士透露，美國中央情報局局長約翰・拉特克利夫本週早些時候秘密出訪莫斯科，為推動結束俄烏戰爭，提議舉行特朗普總統、俄羅斯總統普京與烏克蘭總統澤連斯基三方會晤。訊息人士稱，拉特克利夫此次訪問的部分目的，是研判俄羅斯情報部門高層能否說服普京重啟由美國斡旋的俄烏談判。週五，美國官員向澤連斯基通報了拉特克利夫在莫斯科的會談情況以及舉辦三方峰會的提議。特朗普政府此前已經提出過該構想。澤連斯基表示支援，但遭到普京拒絕。媒體援引訊息人士的說法，拉特克利夫得出結論，俄羅斯聯邦安全域性局長博爾特尼科夫是可以推動重啟外交程序的建設性人物。
-
----
-
-### 2026-08-30 07:26:58  #國際
-
-訊息人士稱：美國中央情報局局長拉特克利夫在訪問莫斯科期間，提議舉辦特朗普‑普京‑澤連斯基三方峰會。
-
----
-
-### 2026-08-30 07:22:46  #其他
-
-【尼泊爾山洪已致675人遇難 2498人失聯】據尼泊爾國家減少災害風險管理局公佈的資料，截至當地時間29日18時30分，尼泊爾泥石流造成的死亡人數為675人，失聯人數升至2498人。（央視新聞）
-
----
-
-### 2026-08-30 07:19:56  #國際
-
-【改名風波再起 加拿大官員在安大略湖畔樹立標牌】當地時間8月29日，加拿大安大略省省長道格·福特在安大略湖畔一座公園內揭幕了一塊帶有“安大略湖”名稱的標牌，標牌上還寫著“現在和永遠”。福特表示，特朗普想要給安大略湖改名，是因為他不喜歡加拿大和安大略省捍衛自身的權益。福特稱，他想向特朗普傳達一個資訊，那就是加拿大人堅韌不拔、意志堅定。福特說，在特朗普出現之前，或很久之後，這片湖泊將一直叫作“安大略湖”。（央視新聞）
-
----
-
-### 2026-08-30 07:13:06  #公司
-
-【無保單理賠、大災互認 銀行業保險業保障災區應急金融需求】記者從金融監管總局瞭解到，自啟動保險業二級救災應急響應以來，各保險公司針對西藏吉隆縣泥石流災害，推出無保單理賠、無差別救援、大災互認等多項應急舉措。截至目前，保險業接報案初步估損金額近億元，銀行機構加大現鈔調配投放力度，提供應急保障現金2億元，發放普惠貸款1200多萬元，保障災區群眾應急金融需求。（央視新聞）
-
----
-
-### 2026-08-30 07:12:24  #國際
-
-【美國南卡羅來納州發生槍擊事件 致1死1傷】當地時間8月29日，美國南卡羅來納州哥倫比亞市警察局稱，當天上午，該市發生一起槍擊事件，導致兩名警察受傷，隨後其中一名警察死亡。相關部門正聯合調查這起事件。當地警察局表示，目前已無安全威脅，相關調查工作仍在進行中。（央視新聞）
-
----
-
-### 2026-08-30 07:08:45  #其他
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、算力運營服務年收入超八百億元，市場化率超九成 從儲存到智算，貴州靠什麼？
-2、中埃務實合作成果豐碩
-3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
-4、中吉政商界人士共話兩國商務投資合作新前景
-5、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
-
----
-
-### 2026-08-30 07:06:39  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、模速空間 創新點亮年輕事業
-2、未來之城 青年書寫智慧新篇
-3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
-4、中央黨校（國家行政學院）舉行秋季學期開學典禮 蔡奇出席並講話
-5、前7月機械工業生產實現較快增長
-6、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
-7、各方力量持續奮戰西藏吉隆救災一線 搶險救援工作緊張有序開展
-8、圖片報道
-9、分秒必爭 科學救援
-
----
-
-### 2026-08-30 07:03:58  #公司 #國際
-
-【特朗普的委內瑞拉石油交易依賴一位實力雄厚但頗具爭議的合作方】特朗普政府這項用於開發委內瑞拉龐大石油資源的協議十分特殊，美國政府將與一位影響力巨大、同時極具爭議的委內瑞拉商人展開合作。據四名瞭解該協議的知情人士透露，根據特朗普總統上週五晚間公佈的協議，美國將與亞歷杭德羅・貝坦庫爾特・洛佩斯開展合作，其家族掌控著委內瑞拉第二大私營石油企業北美藍色能源合夥公司。其中三名知情人士表示，聯邦政府預計將透過美國國防部戰略資本辦公室，為委內瑞拉相當一部分已探明石油儲量的開發提供支援，而貝坦庫爾特的公司將主導實際運營。該協議覆蓋委內瑞拉境內共計 17 處油田。委內瑞拉總統德爾西・羅德里格斯對該協議表示支援，並於上週五晚間發表宣告稱，該協議將 “對本國的復興產生重大影響”，可為政府帶來超 2000 億美元的稅收收入。
-
----
-
-### 2026-08-30 06:54:02  #國際
-
-市場資訊：特朗普的委內瑞拉石油協議高度依賴華盛頓說客亞歷杭德羅·洛佩斯。洛佩斯家族掌控委內瑞拉一家頭部石油生產企業。
-
----
-
-### 2026-08-30 06:44:28  #其他
-
-中央氣象臺8月30日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-08-30 06:41:33  #國際
-
-委內瑞拉政界各派均譴責與美國達成的石油協議。
-
----
-
-### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Shaanxi Coal earnings above expectations at 0.55 CNY — Shaanxi Coal (601225) released earnings per share at 0.55 CNY, compared to market expectations of 0.47 CNY.
-
----
-
-### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Industrial Bank earnings below expectations at 0.75 CNY — Industrial Bank (601166) released earnings per share at 0.75 CNY, compared to market expectations of 0.89 CNY.
-
----
-
-### 2026-08-30 06:26:43  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) released earnings per share at 0.37 CNY, compared to market expectations of 0.32 CNY.
-
----
-
-### 2026-08-30 06:26:35  #其他
-
-【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。
-
----
-
-### 2026-08-30 06:16:58  #焦點 #國際
-
-以色列能源部長稱，即便美國達成協議，以色列仍會再次打擊伊朗。
-
----
-
-### 2026-08-30 06:15:39  #國際
-
-芬蘭總統斯圖布談及俄羅斯：我不認為俄羅斯會因為當下實際出現的經濟狀況而結束這場衝突。絕不要低估俄羅斯人承受經濟困境的能力。回顧蘇聯時期就足以理解這一點。
-
----
-
-### 2026-08-30 06:15:04  #MKT News #Market Themes #The Trump Trade
-
-Finland's President Alexander Stubb said whether you like it or not, Trump is one of the most influential presidents in U.S. history; he will take action and is capable of delivering results.
 
 ---

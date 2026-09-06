@@ -1,7 +1,237 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-06 06:13:05_
-_本檔包含 3284 則快訊，約 556889 字_
+_更新時間：2026-09-06 08:09:59_
+_本檔包含 3251 則快訊，約 558585 字_
+
+---
+
+### 2026-09-03 09:17:45  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報5898.00元。
+
+---
+
+### 2026-09-03 09:17:24  #觀點
+
+【中信證券：尋找收入、利潤、現金流與資本回報同步改善而估值尚未充分反映的高質量、高景氣資產】中信證券研報稱，2026年半年報顯示，A股盈利週期進入加速修復階段，但“盈利改善”本身正在失去稀缺性，景氣擴散的廣度、盈利修復的質量以及市場定價的充分程度，正成為下一階段資產選擇的關鍵。當前資源、科技景氣領先，傳統行業盈利修復有所擴散，消費、製造整體仍處相對低位；但高增長並不等同於高質量，需要進一步驗證盈利“成色”。一是科技板塊重點關注利潤能否轉化為現金，尋找高增長與高盈利質量共振的資產，但對現金流壓力不能一票否決；二是“反內卷”不能僅以資本開支收縮或價格回升判斷，需要觀察供給紀律能否進一步傳導至盈利、現金流和資本回報改善；三是人民幣升值背景下，匯兌損失對盈利質量的影響難以避免，海外毛利率和定價能力成為識別高質量出海的重要線索；四是紅利投資應從高股息、高自由現金流進一步轉向分紅來源及可持續性，並從動態視角挖掘紅利新邏輯。估值層面，市場已開始為不同質量的盈利給予差異化定價，下一階段建議重點尋找收入、利潤、現金流與資本回報同步改善，而估值尚未充分反映的高質量、高景氣資產。
+
+---
+
+### 2026-09-03 09:17:24  #MKT News #Market Regions #Greater China
+
+【Yushu Technology wholly owned subsidiary registers in Chengdu】Sept 2, 2026 — Yushu Technology’s wholly owned unit, Chengdu Yuchen Technology Co., Ltd., completed business registration and established in Chengdu. Yushu and Chengdu city authorities will collaborate on R&D, pilot-production bases, scenario innovation, data services and industry‑education integration, co‑building with local firms to accelerate development of Chengdu’s embodied intelligence industry.
+
+---
+
+### 2026-09-03 09:17:11  #公司 #國際
+
+【美國推動G20採納人工智慧“輕監管”原則 獲所有成員國支援】美國商務部長霍華德·盧特尼克週三在特朗普政府於北卡羅來納州舉辦的科技與創新峰會閉幕後表示，這一框架已獲得二十國集團(G20)所有成員國支援。儘管這些原則不具法律約束力，但在全球人工智慧領導權競爭日趨激烈之際，G20成員國對其表示支援，仍顯示出各國在技術監管問題上的罕見合作。盧特尼克表示，讓所有參與國家達成一致是一項“極其艱鉅的工作”。這份名為《卡羅來納原則》的檔案呼籲G20國家在制定規則時採取針對特定行業的監管方式，避免設立新的人工智慧監管機構。檔案呼籲政府與私營部門加強合作，共同測試新興技術，同時將延遲採用突破性產品可能帶來的成本納入考量。這些原則將提交給即將召開的G20領導人峰會正式透過。
+
+---
+
+### 2026-09-03 09:16:21  #公司
+
+【宇樹科技全資子公司正式落子成都】據成都發布，2026年9月2日，宇樹科技全資子公司——成都宇辰科技有限公司完成工商註冊登記手續，正式落戶成都。宇樹科技與成都市將聚焦科技研發、中試基地、場景創新、資料服務、產教融合五大核心方向開展全方位、多層次深度合作，與成都本土企業生態共建，全力助推成都具身智慧產業高質量發展。
+
+---
+
+### 2026-09-03 09:16:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+【CITIC Securities maintains view Fed will hold rates in September】CITIC Securities said July US CPI rose 0.1% MoM and core CPI 0.2% MoM, both in line with expectations. The modest MoM CPI gain was led by a rebound in core goods and a pickup in core services, while a second consecutive monthly decline in energy partially offset upside pressure. July PPI YoY continued to decelerate. Although the US–Iran conflict creates uncertainty and risks to oil and inflation remain, overall US inflation upside appears controllable, so CITIC retains its view the Fed will keep policy rates unchanged in September.
+
+---
+
+### 2026-09-03 09:16:10  #公司
+
+【百事寶啟動北交所IPO輔導】證監會網站披露，浙江百事寶電器股份有限公司（簡稱“百事寶”）於2026年9月2日在浙江證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為浙商證券。公開資料顯示，百事寶立足於電力機械和器材製造業，是一家專業從事液壓電磁斷路器、直流接觸器、直流繼電器、過流保護器的設計、研發、製造、銷售的企業。
+
+---
+
+### 2026-09-03 09:15:49  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures opened the day session up 0.52% at 25,385, trading at a 74-point premium to the cash index.
+
+---
+
+### 2026-09-03 09:15:43  #市場
+
+【人民幣兌美元中間價報6.7807，較上日調高22點】人民幣兌美元中間價報6.7807，較上日調高22點。
+
+---
+
+### 2026-09-03 09:15:20  #市場
+
+人民幣兌美元中間價報6.7807元。
+
+---
+
+### 2026-09-03 09:15:03  #市場
+
+恒指期貨日盤開盤漲0.60%，報25405.00點，高水93.79點。
+
+---
+
+### 2026-09-03 09:15:00  #Trading Economics #Markets #Singapore #Stock Market #Importance 0
+
+Stocks in Singapore Hit All-time High — STI increased to an all-time high of 5776.00 Index Points. Over the past 4 weeks, FTSE Straits Times Index gained 2.35%, and in the last 12 months, it increased 33.92%.
+
+---
+
+### 2026-09-03 09:14:21  #公司
+
+三星人壽：正在考慮對多家公司進行股權投資。
+
+---
+
+### 2026-09-03 09:13:47  #MKT News
+
+【Venezuela acting president says elections to be held when 'ready'; no date】Acting President Delcy Rodríguez said at a press conference on Sept. 2 local time that elections will be held "when the country is ready" and "when the electoral process should be launched," but she did not provide a date.
+
+---
+
+### 2026-09-03 09:13:28  #公司
+
+【國盛智科：目前在手訂單飽滿 對下半年訂單趨勢保持信心】國盛智科(688558)9月1日在接受機構調研時表示，公司目前訂單情況良好，在手訂單飽滿，對下半年的訂單趨勢保持信心。2026年上半年，數控機床行業呈現“需求修復與結構性升級並行”的特徵，新興產業需求釋放，高景氣賽道拉動高精度數控機床需求。公司目前已在精密模具、風電、民用航空、半導體、人形機器人及新能源汽車六大行業形成定製化解決方案。公司對全年行業景氣度持謹慎樂觀態度。
+
+---
+
+### 2026-09-03 09:12:50  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
+
+Japan Private Sector Growth Revised Higher — Japan’s S&P Global Composite PMI Business Activity Index was at 53.5 in August 2026, up from a flash reading of 53.4 and July's 52.7. It marked a 17-month expansion streak in private-sector activity and the highest reading since February, led by another sharp rise in manufacturing output alongside firmer services growth. Total new orders climbed at one of the quickest rates in three years, signaling stronger underlying demand. Employment continued to edge higher as backlogs grew, underscoring persistent capacity pressures. On prices, input costs rose sharply across manufacturing and services, though inflation eased to its lowest since March. In contrast, selling prices increased at the fastest pace since the survey began in 2007, highlighting firms’ continued pass-through of higher costs to customers.
+
+---
+
+### 2026-09-03 09:12:24  #公司
+
+三星火災及海上保險公司：目前尚未就收購任何英國大型非壽險公司做出最終決定。
+
+---
+
+### 2026-09-03 09:11:49  #公司
+
+【廣州數智應急科技集團登記成立 含多項AI業務】企查查APP顯示，近日，廣州數智應急科技集團有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由廣州廣寬科技有限公司等共同持股。
+
+---
+
+### 2026-09-03 09:11:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Trump proposes renaming Strait of Hormuz; Sanders says it's a distraction from high fuel prices】US independent senator Bernie Sanders rebuked President Trump’s proposal to rename the Strait of Hormuz “Trump Strait,” calling it a distraction from an illegal US war in Iran that, he said, has pushed diesel to $5.69/gal and gasoline to $4.12/gal and urging an end to the conflict.
+
+---
+
+### 2026-09-03 09:11:25  #MKT News #Important #Commodities #Precious Metals
+
+Platinum front-month futures rose 2.00% intraday to 434.30 yuan/gram.
+
+---
+
+### 2026-09-03 09:10:57  #其他
+
+【委內瑞拉代總統稱將在準備就緒後舉行選舉】當地時間9月2日，委內瑞拉代總統德爾西·羅德里格斯表示，該國將在條件具備、時機成熟時舉行選舉，但未明確具體日期。羅德里格斯在新聞釋出會上說，當委內瑞拉“準備就緒”並且“屆時應當啟動選舉程序時”，選舉就會舉行。（央視新聞）
+
+---
+
+### 2026-09-03 09:10:57  #MKT News #Macro & Rates #Market Regions #Japan & APAC
+
+Japan 30-year government bond yield fell 10bps to 4.065%.
+
+---
+
+### 2026-09-03 09:10:52  #市場
+
+【經濟日報： 國際糧市風浪難撼中國飯碗 】國際糧價上漲，首當其衝的是高度依賴糧食進口的國家和地區。我國雖然是世界最大的糧食進口國，但糧食自給率很高，從源頭切斷了外部輸入性風險。我國構築起從生產、儲備到進口管理的全方位防線，完全有能力將外部風險控制在可接受範圍內，把中國飯碗牢牢端在自己手中。
+
+---
+
+### 2026-09-03 09:10:43  #市場 #焦點
+
+紐約期金突破4450美元/盎司，日內漲0.80%。
+
+---
+
+### 2026-09-03 09:10:19  #公司 #觀點
+
+【中信證券：AI重構證券投資決策入口 從資訊展示走向任務執行與資產經營】中信證券研報稱，證券AI應用正由早期的簡單問答，轉向系統性降低資訊處理、研究比較、組合診斷和投後跟蹤成本，推動證券平臺由行情展示和交易執行入口向投資任務執行及資產經營平臺演進。短期行業仍處於產品驗證和場景滲透階段，中長期競爭將由“能否接入模型”轉向“能否穩定完成投資任務、嵌入高頻工作流並形成商業閉環”。隨著底層模型逐步基礎設施化，行業壁壘將更多來自專業金融資料、投研流程產品化、高頻使用者入口、賬戶資產、產品供給和合規治理等複合能力，產業價值有望沿“投研任務入口—財富管理閉環—機構端基礎設施”三條路徑集中。投資策略方面，可圍繞決策入口、資產閉環和機構基礎設施三條主線配置。優先關注擁有高頻投資任務入口、專業金融資料和工具編排能力的金融資訊平臺；關注能夠把AI判斷連線到證券賬戶和客戶資產的財富管理閉環平臺；最後建議關注受益於金融行業相關IT建設需求的金融IT公司和數字化、財富管理能力領先的券商。
+
+---
+
+### 2026-09-03 09:09:44  #MKT News #Important #Commodities #Precious Metals
+
+SHFE silver main contract intraday gain widened to 2.00%, now 16,035.00 yuan/kg.
+
+---
+
+### 2026-09-03 09:08:26  #央行 #國際
+
+華僑銀行：日本央行在9月份加息可能是防止日元再次下滑所需的最低限度舉措；現預計該央行將於9月18日加息25個基點至1.25%。
+
+---
+
+### 2026-09-03 09:08:18  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose to $4,400/oz, up 0.29% intraday.
+
+---
+
+### 2026-09-03 09:08:00  #公司
+
+【AI算力公司Nscale簽約收入增至約1030億美元，或最快本月啟動IPO】9月3日，據報道，英國AI“新雲”服務商Nscale已向潛在投資者披露，其合同簽約收入增至約1030億美元，其中包括與Anthropic達成的450億美元算力協議。該公司由英偉達支援，最早可能於本月啟動IPO。
+
+---
+
+### 2026-09-03 09:07:52  #公司
+
+【陝西能源成立資本投資新公司】企查查APP顯示，近日，陝西陝能匯森資本投資有限公司成立，註冊資本10億元，經營範圍包含以自有資金從事投資活動；企業管理；企業管理諮詢；財務諮詢等。企查查股權穿透顯示，該公司由陝西能源全資持股。
+
+---
+
+### 2026-09-03 09:07:37  #市場 #焦點
+
+現貨黃金突破4400美元/盎司，日內漲0.28%。
+
+---
+
+### 2026-09-03 09:07:24  #公司 #觀點
+
+【摩根士丹利：新城控股估值存在明顯低估 公募REIT潛在上市可為催化劑】摩根士丹利表示，新城控股當前估值明顯低估了其流動性改善、業務及恢復分紅的潛力，預計四季度公募REIT上市將成為重要催化劑，建議投資者繼續增持。分析師Stephen Cheung等在報告中指出，新城控股管理層在業績釋出後的活動中釋放出積極訊號，包括住宅銷售、購物中心租賃、再融資以及資產處置等方面的指引，這進一步增強了其對新城復甦前景的信心。隨著流動性改善，公司有望恢復全年股息派發。公司目標為年底前完成首隻公募REIT上市。對新城控股評級為“增持”，股價目標17.60元；該股昨日收報11.94元。
+
+---
+
+### 2026-09-03 09:07:07  #央行 #美聯儲
+
+【中信證券：維持今年9月美聯儲維持利率不變的判斷】中信證券研報稱，美國7月CPI環比增速錄得0.1%，核心CPI環比為0.2%，均符合市場預期。7月美國CPI環比小幅上漲，主要由核心商品項環比反彈和核心服務項增速回升推動，同時能源價格連續第二個月下跌部分抵消了通脹上行壓力。7月美國PPI同比增速延續回落，整體美國通脹預期上行風險可控。當前美伊衝突前景仍存在較大不確定性，原油價格、美國通脹壓力上行風險尚存，但預計整體美國通脹壓力可控，維持今年9月美聯儲維持利率不變的判斷。
+
+---
+
+### 2026-09-03 09:06:59  #資料 #市場 #觀點 #央行 #國際
+
+【中信證券：維持今年9月美聯儲維持利率不變的判斷】 中信證券研報稱，美國7月CPI環比增速錄得0.1%，核心CPI環比為0.2%，均符合市場預期。7月美國CPI環比小幅上漲，主要由核心商品項環比反彈和核心服務項增速回升推動，同時能源價格連續第二個月下跌部分抵消了通脹上行壓力。7月美國PPI同比增速延續回落，整體美國通脹預期上行風險可控。當前美伊衝突前景仍存在較大不確定性，原油價格、美國通脹壓力上行風險尚存，但預計整體美國通脹壓力可控，維持今年9月美聯儲維持利率不變的判斷。
+
+---
+
+### 2026-09-03 09:06:42  #其他
+
+【溫州調整“五停”管控】據溫州釋出訊息，氣象部門預報，本輪強降雨過程基本結束，經市防指會商研判決定：1.所有中小學、幼兒園9月3日繼續停課；2.臨水臨崖風險路段、山區公交線路等不放心事項暫時繼續實施管控，其他事項經各地檢查、評估並確認安全後，均可有序解除“五停”管控措施；3.對於山區學校和進水受淹學校，在各地確保安全前提下，逐步有序恢復。各有關部門要壓緊壓實監管職責，從嚴落實各項安全措施，穩妥推進生產生活秩序恢復，確保社會面平穩有序。
+
+---
+
+### 2026-09-03 09:05:58  #市場
+
+【飛天茅臺、五糧液普五八代攜手領漲 青花郎、國窖1573重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒業11大單品9月3日的終端零售均價七漲三跌一平，上漲品種明顯佔優。上漲方面，飛天茅臺上漲4元，終端零售均價來到1790元，創下近一個月新高；五糧液普五八代上漲4元至811元，三連陰結束；五糧液1618上漲2元至830元，重新收復這一整十關口；青花汾20上漲3元至398元，連續兩日走強，價格抬升至本月高點；洋河夢之藍M6+上漲2元至614元，價格中樞走出高位下沿繼續溫和上移；古井貢古20大漲10元至552元，連續四日走強，一舉站上550元關口；習酒君品上漲3元至643元，亦錄得四連陽，繼續站穩整十關口。下跌方面，精品茅臺下跌3元至2452元，短暫平盤後再度回探；國窖1573下跌6元至886元，自近一個月次高位出現技術性回落；青花郎大跌9元至679元，連續兩日大幅回撥，跌破680元關口。持平方面，水晶劍南春終端零售均價維持在406元不變，連續兩日平盤，價盤繼續執行於高位區間下沿附近。
+
+今日11大單品的終端零售總價繼續抬升，次高階多品種延續強勢，高階酒內部漲跌互現，整體上漲數量明顯擴容。如果11大單品各取一瓶整體打包售賣，今日總售價為10061元，較昨日上漲10元，創下10天以來新高，萬元關口得到進一步鞏固。
+
+---
+
+### 2026-09-03 09:05:53  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌6%，現報1851.00點。
+
+---
+
+### 2026-09-03 09:05:51  #MKT News #Market Themes #AI Revolution
+
+【Citic Securities: Video-model competition shifts to production-readiness and monetization; AI drama first scalable consumption use case】Citic Securities says competition among video-generation models is moving from pure quality benchmarks to production-ready output and commercial monetization, with AI-generated drama emerging as the first large-scale consumption scenario. Seedance2.5 boosts delivery efficiency through long-duration generation, multimodal referencing and consistency editing; platforms such as Tomato Novel, creator centers and production studios are assuming IP development and mass production. Hongguo is building a commercial outlet via free content, algorithmic distribution and ad/e‑commerce monetization while using moderation, revenue-sharing and investment to upgrade supply; ByteDance is creating a closed loop across models, content, traffic and monetization. With content supply expanding and distribution/promotion resources becoming scarce, the core bottleneck has shifted from production capacity to effective supply, concentrating value toward firms with high commercialization efficiency, premium IP and production capabilities, high-quality corpora and deep partnerships with Hongguo.
 
 ---
 
@@ -19415,431 +19645,5 @@ Putin said Russia is preparing large-scale strikes on Ukraine's energy targets.
 ### 2026-09-02 04:17:15  #MKT News #WTI #Impact bullish #Brent
 
 On the Ukraine conflict, Putin said Russia continues strikes on Ukrainian ports and energy infrastructure.
-
----
-
-### 2026-09-02 04:16:52  #焦點 #國際
-
-俄羅斯普京談烏克蘭衝突：俄羅斯將繼續打擊烏克蘭港口與能源設施。
-
----
-
-### 2026-09-02 04:16:51  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) rose about 9% in after-hours trading.
-
----
-
-### 2026-09-02 04:16:33  #國際
-
-俄羅斯總統普京談及烏克蘭衝突：俄羅斯已在烏克蘭東部牽制住大批敵方部隊。
-
----
-
-### 2026-09-02 04:16:20  #市場 #焦點
-
-現貨白銀失守64美元/盎司，日內跌3.80%。
-
----
-
-### 2026-09-02 04:16:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said Russian forces are fighting in central Orikhiv, Ukraine.
-
----
-
-### 2026-09-02 04:16:00  #國際
-
-一枚伊朗導彈擊中約旦亞喀巴地區。
-
----
-
-### 2026-09-02 04:15:51  #Trading Economics #Markets #commodity #Importance 0
-
-EU Gas Hits 3-1/2-year High — EU Gas increased to 74.40 EUR/MWh, the highest since January 2023. Over the past 4 weeks, Natural Gas EU gained 29.09%, and in the last 12 months, it increased 133.65%.
-
----
-
-### 2026-09-02 04:15:23  #市場 #焦點
-
-戴爾盤後股價漲幅擴大至9.6%。
-
----
-
-### 2026-09-02 04:15:07  #國際
-
-俄羅斯總統普京就烏克蘭衝突表示：俄軍正在奧裡希夫市中心作戰。
-
----
-
-### 2026-09-02 04:15:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Putin said Russia has encircled a large enemy force in eastern Ukraine.
-
----
-
-### 2026-09-02 04:14:33  #國際
-
-俄羅斯總統普京：倘若有人妄圖吞併我們，那他們或將自食惡果。
-
----
-
-### 2026-09-02 04:14:12  #其他
-
-約旦境內響起防空警報。
-
----
-
-### 2026-09-02 04:14:05  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Jordan state TV reports air-raid sirens sounded across the country.
-
----
-
-### 2026-09-02 04:14:02  #MKT News
-
-Putin said Russia had taken control of 270 sq km in the Donetsk region in August.
-
----
-
-### 2026-09-02 04:13:53  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Fall Amid Tighter Financial Conditions — US stock indices closed lower on Tuesday on growing concerns that tighter financial conditions could weigh on economic growth. The S&P 500 fell 0.7%, the Dow lost 419 points and the Nasdaq 100 dropped 1.3%. US-Iran strikes in the Persian Gulf prolonged the suspension of energy exports from the region and heightened global inflation risks, reinforcing expectations that major central banks could resume rate hikes this year. Meanwhile, soaring in AI-related corporate debt issuance added to credit supply and pushed yields higher. Tech stocks led losses, with Micron down 2.6%, AMD falling 2.4%, Oracle and Palo Alto Networks each losing 5.2%, and Dell dropping 6.8%. Nvidia fell 1.5% despite a $35 billion computing deal between Lambda and Anthropic. Asset managers also declined, with Blackstone down 4.6% and KKR falling 3.1%.
-
----
-
-### 2026-09-02 04:13:44  #國際
-
-伊朗週二晚間從伊朗中部的霍梅因發射導彈。
-
----
-
-### 2026-09-02 04:12:55  #國際
-
-俄羅斯總統普京談烏克蘭衝突：8月俄羅斯已控制頓涅茨克地區270平方公里領土。
-
----
-
-### 2026-09-02 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Palo Alto Networks earnings above expectations at 1.02 USD — Palo Alto Networks (PANW) released earnings per share at 1.02 USD, compared to market expectations of 0.97 USD.
-
----
-
-### 2026-09-02 04:11:01  #MKT News #DELL.N
-
-Dell (DELL.N) reported fiscal 2027 Q2 storage revenue of $4.85 billion.
-
----
-
-### 2026-09-02 04:10:45  #焦點 #國際
-
-蘋果地圖開始將安大略湖改稱為“美國湖”。
-
----
-
-### 2026-09-02 04:10:19  #國際
-
-俄羅斯總統普京談及烏克蘭衝突：我確信敵方將持續潰敗。
-
----
-
-### 2026-09-02 04:10:09  #MKT News
-
-Putin said Kushner and US presidential envoy Witkoff are welcome guests regarding the Ukraine conflict.
-
----
-
-### 2026-09-02 04:10:06  #MKT News
-
-Putin said on the Ukraine conflict he believes the enemy will continue to collapse.
-
----
-
-### 2026-09-02 04:10:06  #MKT News
-
-Putin, on the Ukraine conflict, said it is more comfortable to work with people they trust and that those people are close to US President Trump.
-
----
-
-### 2026-09-02 04:09:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Dell Technologies earnings above expectations at 7.04 USD — Dell Technologies (DELL) released earnings per share at 7.04 USD, compared to market expectations of 4.86 USD.
-
----
-
-### 2026-09-02 04:09:32  #MKT News
-
-Putin said on the Ukraine conflict that if any party can generate positive momentum, Russia would not oppose it.
-
----
-
-### 2026-09-02 04:09:07  #公司 #市場 #國際
-
-斯托克指數：康士伯海事、法蘭克福機場集團、JD運動時尚、維也納伯格、巴卡弗羅斯特將於9月21日從歐洲斯托克600指數剔除。
-
----
-
-### 2026-09-02 04:09:07  #MKT News #DELL.N
-
-Dell Technologies (DELL.N) expects adjusted EPS of $4.46 for fiscal 2027 Q3.
-
----
-
-### 2026-09-02 04:08:40  #MKT News #DELL.N
-
-Dell (DELL.N) expects fiscal 2027 third-quarter revenue of $41.36 billion.
-
----
-
-### 2026-09-02 04:08:37  #其他
-
-慧與、超微電腦跟隨戴爾股價走高。
-
----
-
-### 2026-09-02 04:08:02  #國際
-
-【扎哈羅娃：在日部署“堤豐”導彈系統“不可接受”】俄羅斯外交部發言人扎哈羅娃1日表示，在日本領土上部署美國“堤豐”導彈系統對於俄羅斯來說“絕對不可接受”。（新華社）
-
----
-
-### 2026-09-02 04:07:53  #國際
-
-俄羅斯總統普京談及烏克蘭衝突：庫什納與威特科夫是受歡迎的客人。
-
----
-
-### 2026-09-02 04:07:38  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) Q2 fiscal 2027 net income $4.13 bln, vs $1.164 bln year-ago; consensus $2.95 bln.
-
----
-
-### 2026-09-02 04:07:21  #國際
-
-俄羅斯總統普京談及烏克蘭衝突：如果有人能夠帶來積極勢頭，我們並不反對。
-
----
-
-### 2026-09-02 04:07:14  #MKT News #DELL.N #Impact bullish
-
-Dell (DELL.N) said fiscal 2027 second-quarter revenue was $46.97 billion, up from $29.78 billion a year earlier, versus analysts' consensus of $44.95 billion.
-
----
-
-### 2026-09-02 04:07:02  #國際
-
-俄羅斯總統普京談烏克蘭衝突：我們與自己信任的人打交道會自在得多，這些都是親近特朗普的人士。
-
----
-
-### 2026-09-02 04:06:45  #國際
-
-俄羅斯總統普京談及烏克蘭衝突：任何談判都應當務實。
-
----
-
-### 2026-09-02 04:06:41  #公司 #市場
-
-戴爾股價盤後上漲3%，此前該公司上調了財年營收預期。
-
----
-
-### 2026-09-02 04:06:14  #公司 #市場 #國際
-
-諾基亞、恩吉集團將納入歐洲斯托克50指數。
-
----
-
-### 2026-09-02 04:05:54  #其他
-
-戴爾：本財年營收預期1920億美元，此前指引區間1650‑1690億美元，市場預期1737.6億美元。第二財季AI最佳化伺服器營收164億美元，市場預期160.3億美元。
-
----
-
-### 2026-09-02 04:05:51  #MKT News
-
-Russian President Putin said any negotiations on the Ukraine conflict should be concrete.
-
----
-
-### 2026-09-02 04:05:35  #其他
-
-戴爾：本財年AI最佳化伺服器營收預期740億美元，實際已實現約600億美元。
-
----
-
-### 2026-09-02 04:05:20  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. stocks fell on Sept 1 (Tuesday): the Dow Jones Industrial Average closed down 418.49 points, or 0.79%, at 52,767.41; the S&P 500 closed down 54.61 points, or 0.71%, at 7,631.53; the Nasdaq Composite closed down 271.11 points, or 1.03%, at 26,099.77.
-
----
-
-### 2026-09-02 04:04:13  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
-
-According to Axios, Iran retaliated for a U.S. airstrike by launching ballistic missiles at a U.S. base in Jordan.
-
----
-
-### 2026-09-02 04:03:29  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index rises on 1st】The dollar index, measuring the dollar against six major currencies, rose 0.25% to 99.677 at the New York FX close. EUR/USD 1.1590, down from 1.1616; GBP/USD 1.3514, down from 1.3550. USD/JPY 160.20, up from 159.80; USD/CHF 0.8118, up from 0.8083; USD/CAD 1.3894, up from 1.3855; USD/SEK 9.6188, up from 9.5767.
-
----
-
-### 2026-09-02 04:03:27  #市場
-
-【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.677。 截至紐約匯市尾市，1歐元兌換1.1590美元，低於前一交易日的1.1616美元；1英鎊兌換1.3514美元，低於前一交易日的1.3550美元。 1美元兌換160.20日元，高於前一交易日的159.80日元；1美元兌換0.8118瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.3894加元，高於前一交易日的1.3855加元；1美元兌換9.6188瑞典克朗，高於前一交易日的9.5767瑞典克朗。
-
----
-
-### 2026-09-02 04:02:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Global crude futures settle sharply higher】At the close, NYMEX October light crude futures rose $4.46 to settle at $90.22/bbl, up 5.2%. ICE Brent November futures rose $4.16 to settle at $94.65/bbl, up 4.6%.
-
----
-
-### 2026-09-02 04:02:44  #MKT News #Market Themes #AI Revolution
-
-OpenAI said it strengthened the system-level tech stack for GPT-5.6, added an activation classifier, and expanded coverage against generic jailbreak attacks.
-
----
-
-### 2026-09-02 04:02:22  #其他
-
-OpenAI：Astra模型先進網路安全成果初期將僅面向測試者群體開放使用。
-
----
-
-### 2026-09-02 04:02:04  #其他
-
-OpenAI：在Hugging Face事件後，為大語言模型Astra實施了更強的安全防護措施。
-
----
-
-### 2026-09-02 04:02:00  #其他
-
-OpenAI：計劃很快推出Astra模型，但其最頂尖的網路安全能力將受到更嚴格的訪問限制。
-
----
-
-### 2026-09-02 04:01:47  #其他
-
-OpenAI：已於8月28日重啟此前暫停的大規模前沿強化學習訓練任務。
-
----
-
-### 2026-09-02 04:01:38  #MKT News #Important #S&P500 #Impact bearish #DELL.N #MU.O
-
-【U.S. close: major indices fall; Dell down 7%】U.S. equities closed lower on Tuesday: the Dow Jones Industrial Average preliminarily fell 0.79%, the S&P 500 fell 0.70% and the Nasdaq fell 1.0%. Oracle (ORCL.N) dropped about 5%; Micron Technology (MU.O) and SK Hynix (SKHY.O) slid more than 2%; Apple (AAPL.O) rose 2% and Dell Technologies (DELL.N) fell 7%. The Nasdaq Golden Dragon China Index fell 0.34%; Gaotu (GOTU.N) rallied 13% while NIO (NIO.N) declined 4%.
-
----
-
-### 2026-09-02 04:01:33  #其他
-
-OpenAI：與GPT-5.6版本相比， Astra大幅提升了網路安全能力。
-
----
-
-### 2026-09-02 04:01:22  #其他
-
-OpenAI：將繼續暫時暫停部分規模較小的實驗性訓練專案執行。
-
----
-
-### 2026-09-02 04:01:14  #其他
-
-OpenAI：已新增額外分層防護機制，以防Astra模型採取可能與對齊目標不符的行動。
-
----
-
-### 2026-09-02 04:01:01  #其他
-
-OpenAI：針對GPT-5.6，我們改進了系統級堆疊的穩健性，具體措施包括新增啟用分類器，並擴大對通用越獄攻擊的覆蓋範圍。
-
----
-
-### 2026-09-02 04:00:57  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-IRNA reported an Iranian military spokesman said there is no doubt the enemy will soon pay for its hostile actions and that the counterattack will be swift, devastating and large-scale.
-
----
-
-### 2026-09-02 04:00:51  #市場
-
-WTI原油日內漲6%，現報90.92美元/桶。
-
----
-
-### 2026-09-02 04:00:49  #其他
-
-OpenAI：Astra模型即將推出，附帶網路能力限制。
-
----
-
-### 2026-09-02 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.79%，標普500指數跌0.71%，納指跌1.03%。Axon Enterprise跌8.52%，鏗騰電子跌7.60%，盈透證券跌7.01%，戴爾跌6.94%，CrowdStrike跌6.90%。“七姐妹”方面：蘋果漲2.61%，Meta Platforms漲1.08%，谷歌跌1.01%，微軟跌1.24%，英偉達跌1.51%，亞馬遜跌1.87%，特斯拉跌3.22%。
-
----
-
-### 2026-09-02 04:00:25  #市場
-
-道瓊斯運輸平均指數下跌2.5%，至5月以來最低水平。
-
----
-
-### 2026-09-02 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.34%】樂信跌17.61%，海川證券跌11.11%，信也科技跌9.67%，NXTT跌9.64%，巨龍線上跌6.00%。
-
----
-
-### 2026-09-02 03:59:34  #市場
-
-【國際油價1日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.46美元，收於每桶90.22美元，漲幅為5.2%；11月交貨的倫敦布倫特原油期貨價格上漲4.16美元，收於每桶94.65美元，漲幅為4.6%。
-
----
-
-### 2026-09-02 03:59:23  #其他
-
-【委內瑞拉首都附近國際機場恢復商業客運航班】委內瑞拉交通部長弗朗西斯科·加爾塞斯1日稱，邁克蒂亞西蒙·玻利瓦爾國際機場新建的臨時航站樓正式開始運營，以服務國內和國際航班。
-
----
-
-### 2026-09-02 03:59:14  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Al Arabiya reported that, after reciprocal attacks between the US and Iran, residents of the Jordanian cities Mafraq and Azraq received warning messages.
-
----
-
-### 2026-09-02 03:58:11  #國際
-
-美國財長貝森特：期待出席在曼谷舉辦的國際貨幣基金組織會議。
-
----
-
-### 2026-09-02 03:57:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian state TV said a U.S. strike killed at least 4 and seriously injured 35 at a wedding near Sirik; the U.S. had no immediate comment.
-
----
-
-### 2026-09-02 03:56:30  #國際
-
-伊朗媒體：美國對伊朗錫裡克附近一處婚禮發動襲擊，造成至少四人死亡、三十五人重傷。
-
----
-
-### 2026-09-02 03:54:13  #MKT News
-
-Iranian media reported air-defense activity over eastern Tehran minutes ago.
-
----
-
-### 2026-09-02 03:54:10  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Gilead Sciences Stock Price Hits 26-week High — Gilead Sciences shares increased to 149.62 USD, the highest since March 2026. Over the past 4 weeks, Gilead Sciences gained 13.95%, and in the last 12 months, it increased 32.6%.
 
 ---
