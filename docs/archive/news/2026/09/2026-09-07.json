@@ -1,7 +1,87 @@
 {
   "date": "2026-09-07",
-  "count": 122,
+  "count": 130,
   "items": [
+    {
+      "id": "mkt:01a07815-caea-7118-84bb-b03d36ed1120",
+      "time": "2026-09-07 02:58:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said a map of shipping routes in the Strait of Hormuz agreed with Oman will be signed in the coming days."
+    },
+    {
+      "id": "5079653",
+      "time": "2026-09-07 02:57:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書：在美國不再威脅、也不攻擊伊朗的前提下，伊朗承諾維持霍爾木茲海峽通航。"
+    },
+    {
+      "id": "mkt:01a07814-eaca-7118-84bb-ab8173a7cf07",
+      "time": "2026-09-07 02:57:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said the country is not only selling oil but the proceeds will be repatriated to Iran."
+    },
+    {
+      "id": "mkt:01a07814-416b-7118-84bb-a3400935e3ff",
+      "time": "2026-09-07 02:56:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said Iran will only commit to keeping the Strait of Hormuz open if the US ceases threats or attacks."
+    },
+    {
+      "id": "5079652",
+      "time": "2026-09-07 02:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書：美國正耗費大量資金掩護五六艘船隻偷運通行，但這些船隻通常都會遭到打擊。我們尚未決定將其擊沉，因為船上裝載石油產品。一旦沉船，石油會汙染整個霍爾木茲海峽與波斯灣，這同樣會給我們帶來麻煩。不過，這些船隻無一能夠安然透過，最終都會遭受一定程度的損毀。"
+    },
+    {
+      "id": "mkt:01a07813-f299-7118-84bb-9e6a5cf7f86d",
+      "time": "2026-09-07 02:56:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The secretary of Iran's Supreme National Security Council said the main flaw in the previous memorandum of understanding was placing excessive trust in mediators' assurances. Iran is pursuing diplomacy contingent on obtaining guarantees."
+    },
+    {
+      "id": "mkt:01a07813-c181-7118-84bb-92bea1b4a2da",
+      "time": "2026-09-07 02:55:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said the US must win Iran's trust if it wants to continue negotiations."
+    },
+    {
+      "id": "5079651",
+      "time": "2026-09-07 02:55:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書：與阿曼商定的霍爾木茲海峽船舶航行通道圖將於未來幾日簽署。"
+    },
     {
       "id": "5079650",
       "time": "2026-09-07 02:54:52",
