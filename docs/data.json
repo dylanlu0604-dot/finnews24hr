@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-06 22:13:12",
-  "count": 14167,
+  "updated": "2026-09-06 22:17:11",
+  "count": 14164,
   "items": [
+    {
+      "id": "mkt:01a07712-d8d7-7118-84b9-a5a4d1346ae2",
+      "time": "2026-09-06 22:15:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media lists reports denied over past 24 hours】Iranian media, citing Mehr News Agency, published a compilation of reports denied over the past 24 hours: denied claims that Turkmenistan and Kazakhstan halted rail shipments of Russian goods to Iran; denied reports that Israeli forces seized the strategic Mount Ali Taher in southern Lebanon."
+    },
+    {
+      "id": "5079442",
+      "time": "2026-09-06 22:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與美國特使接下來將同歐洲安全事務負責人舉行會晤。"
+    },
+    {
+      "id": "5079441",
+      "time": "2026-09-06 22:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與庫什納、維特科夫首輪會談結束。"
+    },
     {
       "id": "5079436",
       "time": "2026-09-06 21:58:41",
@@ -129773,68 +129797,6 @@
         "MKT News"
       ],
       "text": "【All contacted Chinese nationals in Nepal landslide relocated to safety】The Chinese Embassy in Nepal said all Chinese nationals contacted after the Nepal landslide had been relocated to safe areas as of local noon."
-    },
-    {
-      "id": "mkt:01a05307-bc76-7118-8400-935b9141864b",
-      "time": "2026-08-30 22:16:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Shanghai-listed firms 1H results: adjusted net profit growth fastest since 2022】Shanghai Stock Exchange said on Aug 30 that 2,318 Shanghai-listed companies have completed 2026 1H disclosures. Aggregate 1H revenue totaled 26.22 tln yuan, up 6.3% YoY; net profit was 2.82 tln yuan, up 17.6% YoY; core net profit (excluding non-recurring items) was 2.69 tln yuan, up 17.2% YoY — the fastest pace since 2022. About 80% of firms were profitable in 1H; 924 companies reported YoY profit growth, 339 saw profit rises exceeding 50%, and 142 returned to profit. SSE 180 members reported 17.87 tln yuan in revenue and 2.36 tln yuan in net profit, up 6.9% and 14.8% YoY, respectively."
-    },
-    {
-      "id": "5067156",
-      "time": "2026-08-30 22:16:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬市公司半年報交卷：扣非後淨利潤增速創2022年以來新高】8月30日晚，上交所釋出訊息稱，截至目前，滬市上市公司完成2026年半年報披露。資料顯示，2026年上半年，2318家滬市公司合計實現營業收入26.22萬億元，同比增長6.3%，淨利潤2.82萬億元，同比增長17.6%，扣非後淨利潤2.69萬億元，同比增長17.2%，增速創2022年以來新高。資料還顯示，今年上半年，近八成滬市公司實現盈利。其中，924家淨利潤同比增長，339家淨利潤增幅超50%，142家扭虧為盈。藍籌公司繼續發揮“壓艙石”作用，今年上半年，上證180公司實現營業收入17.87萬億元、淨利潤2.36萬億元，同比分別增長6.9%、14.8%。（證券時報）"
-    },
-    {
-      "id": "mkt:01a05306-ce35-7118-8400-8a1d3319a779",
-      "time": "2026-08-30 22:15:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi state TV reported the Yemeni navy intercepted a vessel carrying Iranian drone components bound for Houthi rebels."
-    },
-    {
-      "id": "mkt:01a05305-e2f3-7118-8400-86b689d8d4c0",
-      "time": "2026-08-30 22:14:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says he will use Venezuelan oil to refill U.S. Strategic Petroleum Reserve】Trump posted that he will use Venezuelan oil to fill the U.S. Strategic Petroleum Reserve, saying U.S. stocks have been largely depleted under President Biden and that the refill process will begin soon."
-    },
-    {
-      "id": "5067153",
-      "time": "2026-08-30 22:14:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中使館：尼泊爾泥石流災害中已取得聯絡的中方人員全部轉移至安全地區】據中國駐尼泊爾大使館8月30日訊息，截至當地時間當天中午，在尼泊爾泥石流災害中已取得聯絡的中方人員已全部轉移至安全地區。（新華社）"
-    },
-    {
-      "id": "5067150",
-      "time": "2026-08-30 22:13:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱將用委內瑞拉石油填滿美國戰略儲備】特朗普：關於委內瑞拉的石油，我接下來要做的一件事，就是將其用來重新填滿國家戰略石油儲備。由於‘瞌睡喬’拜登的無能，這些儲備幾乎已經被掏空了。‘重新注滿’的過程很快就會啟動，這可以說是委內瑞拉送給美國人民的一份禮物。"
     }
   ]
 }

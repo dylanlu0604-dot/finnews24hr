@@ -1,7 +1,31 @@
 {
   "date": "2026-09-06",
-  "count": 712,
+  "count": 715,
   "items": [
+    {
+      "id": "mkt:01a07712-d8d7-7118-84b9-a5a4d1346ae2",
+      "time": "2026-09-06 22:15:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media lists reports denied over past 24 hours】Iranian media, citing Mehr News Agency, published a compilation of reports denied over the past 24 hours: denied claims that Turkmenistan and Kazakhstan halted rail shipments of Russian goods to Iran; denied reports that Israeli forces seized the strategic Mount Ali Taher in southern Lebanon."
+    },
+    {
+      "id": "5079442",
+      "time": "2026-09-06 22:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與美國特使接下來將同歐洲安全事務負責人舉行會晤。"
+    },
+    {
+      "id": "5079441",
+      "time": "2026-09-06 22:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與庫什納、維特科夫首輪會談結束。"
+    },
     {
       "id": "5079436",
       "time": "2026-09-06 21:58:41",
