@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-06 17:44:51",
+  "updated": "2026-09-06 17:48:40",
   "count": 14198,
   "items": [
+    {
+      "id": "5079268",
+      "time": "2026-09-06 17:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科技部原副部長李萌：AI發展正朝著物理AI的方向收斂】9月6日，2026廈門科創產業與證券業發展大會暨金圓集團杯·金牛獎頒獎典禮在廈門舉行。科技部原副部長、原國家外國專家局局長、中國可持續發展研究會理事長李萌在論壇上表示，一個越來越清晰的共識是：能理解靜態問題未必是真正的智慧，能理解動態變化的物理因果才能產生真正的智慧。因此，物理AI應運而生，將人工智慧從數字世界帶向物理世界。"
+    },
+    {
+      "id": "5079267",
+      "time": "2026-09-06 17:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國紅十字會總會向江西調撥2000件救災物資】9月6日，針對颱風“沙德爾”對江西造成的嚴重影響，中國紅十字會總會啟動應急響應，結合當地救災救助需求，向江西受災地區調撥摺疊床、毛巾被等救災物資共2000件；中國紅十字基金會支援賑濟家庭箱600個，支援受災地區做好群眾轉移安置和生活保障工作。（央視新聞）"
+    },
     {
       "id": "5079266",
       "time": "2026-09-06 17:42:42",
@@ -130038,26 +130054,6 @@
         "US10Y"
       ],
       "text": "【Former Fed vice chair: KEVIN WARSH remarks reverse Fed's prior logic, default now is a rate hike】TIMIRAOS wrote KEVIN WARSH's remarks eased some market concerns about the Fed's anti-inflation strategy but set up a tougher test in three weeks. Two points in Warsh's speech point toward a possible September hike: he stopped short of calling current financial conditions restrictive, and summer's improvement in inflation did not convince him the trend is improving. Before Friday the Fed's default had been to hold unless data warranted action; former Fed vice chair Cohn said Warsh has flipped that logic — the default is now to raise unless incoming data show no need. Cohn said the decision will hinge on conditions before the September meeting, notably August CPI due Sept. 11; stronger data would weaken the case that inflation is returning to the Fed's 2% target and could prompt a hike, while softer data would argue against raising. A September hike could anger the White House if it comes weeks before the midterms; standing pat could reawaken the doubts Warsh sought to calm."
-    },
-    {
-      "id": "5066990",
-      "time": "2026-08-30 17:45:44",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通證券股份有限公司將興業銀行評級下調至中性】摩根大通證券股份有限公司分析師Katherine Lei之前的評級為超配。目標價18元人民幣，即上漲3.3%興業銀行在8月27日公佈的盈利低於預期，營收超過預期。"
-    },
-    {
-      "id": "5066989",
-      "time": "2026-08-30 17:45:15",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通證券股份有限公司將華夏銀行評級下調至低配】摩根大通證券股份有限公司分析師Katherine Lei之前的評級為中性。目標價4.80元人民幣，即下跌27%華夏銀行。訊息面上，華夏銀行在8月28日公佈的季度盈利和營收低於預期。"
     }
   ]
 }
