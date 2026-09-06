@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07 05:48:32",
-  "count": 14201,
+  "updated": "2026-09-07 05:52:24",
+  "count": 14197,
   "items": [
     {
       "id": "mkt:01a078ad-375b-7118-84bc-e2a61d6b96ce",
@@ -130033,43 +130033,6 @@
         "DXY"
       ],
       "text": "【Iran Revolutionary Guard says it fired missiles at US bases】Iran's Islamic Revolutionary Guard Corps (IRGC) said on social media in the early hours of the 31st that it fired missiles at US military bases."
-    },
-    {
-      "id": "mkt:01a054a7-e835-7118-8402-d16a5c645db1",
-      "time": "2026-08-31 05:51:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Iran's Press TV reports multiple explosions in Jordan, attributing them to an Iranian attack."
-    },
-    {
-      "id": "5067393",
-      "time": "2026-08-31 05:51:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月維持利率不變的機率為43.1%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為43.1%，累計加息25個基點的機率為56.9%。美聯儲到10月維持利率不變的機率為29.3%，累計加息25個基點的機率為52.5%，累計加息50個基點的機率為18.3%。"
-    },
-    {
-      "id": "5067392",
-      "time": "2026-08-31 05:51:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦境內美軍穆瓦法克·薩爾蒂空軍基地發生爆炸。"
-    },
-    {
-      "id": "mkt:01a054a5-8a8f-7118-8402-ca502acb449d",
-      "time": "2026-08-31 05:48:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gurman: Apple’s incoming CEO faces AI-era test in September】Bloomberg reporter Mark Gurman says Apple (AAPL.O)’s incoming CEO Ternus, due to take office on Sept. 1, has driven an ambitious product slate that includes a first foldable iPhone and a smart display that recognizes speakers and personalizes content. Gurman says the key market test will be a broad September rollout of a new Siri AI intended to compete with ChatGPT; given the high operating costs of such systems, Apple ultimately hopes to charge for the service or monetize via third‑party app integrations, but must overcome Siri’s long‑standing reputation for unreliability and limited usefulness. Early reviews of Siri AI are broadly positive."
     }
   ]
 }
