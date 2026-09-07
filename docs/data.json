@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-07 13:05:59",
-  "count": 14079,
+  "updated": "2026-09-07 13:09:51",
+  "count": 14082,
   "items": [
+    {
+      "id": "mkt:01a07a45-3080-7118-84c3-7ad460500e8a",
+      "time": "2026-09-07 13:09:09",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Omdia: Global XR headset shipments fall 39% in 1H 2026】Omdia data show global XR headset shipments fell 38.7% YoY to 1.9 mln units in 1H 2026. Adoption of XR glasses is increasing, but their small market base was insufficient to offset the headsets’ decline."
+    },
+    {
+      "id": "te:economy:581506",
+      "time": "2026-09-07 13:08:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Economic Index Highest Since 2014 — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, increased to 117.9 in July 2026 from a downwardly revised 116.2 in June, preliminary estimates showed. It was the highest level since January 2014, supported by the government’s record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict, while inflation remained close to the BOJ’s 2% target. Meanwhile, the unemployment rate declined to 2.4% in July, its lowest level since July 2025, pointing to resilient labor market conditions, although employment was at a four-month low. Consumer confidence also improved to a six-month high, amid households’ stronger views on overall livelihood."
+    },
+    {
+      "id": "5080218",
+      "time": "2026-09-07 13:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微分智飛完成數億元A2輪融資】9月7日，微分智飛（杭州）科技有限公司宣佈，公司已於近日完成A2輪數億元人民幣融資。本輪由普華資本領投，弘暉基金、長三角數智文化基金跟投，老股東五源資本、深創投、洪泰基金、華映資本、華控基金、長石資本、BV百度風投等追加投資。本輪融資後，公司將持續深耕單體與群體飛行智慧基座模型，加速面向真實場景的產品迭代與規模化交付。"
+    },
+    {
+      "id": "5080217",
+      "time": "2026-09-07 13:07:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據韓國媒體 ChosunBiz 的最新報道，SK海力士的 1c nm（第六代 10nm 級）DRAM 工藝 的產能份額正加速擴大，並有望在 2027 年第一季度 攀升至 35% 左右，首次超過 1b 工藝（約 33%），正式成為該公司的主流生產工藝。"
+    },
     {
       "id": "5080216",
       "time": "2026-09-07 13:05:12",
@@ -128833,18 +128874,6 @@
         "Importance 1"
       ],
       "text": "Estonian Q2 GDP Annual Growth Slows to 1.8% — The economy of Estonia advanced by 1.8% year-on-year in Q2 2026, slowing sharply from an upwardly revised 2.9% growth in Q1. The deceleration came as household spending (1.6% vs 3.8% in Q1) and government spending (0.5% vs 4.5%) both eased sharply. On the external front, exports of goods and services accelerated (2.7% vs 1.3% in Q1), though at a slower pace than imports, which accelerated to 4.3% from 1.1% in Q1. For the first time since the fourth quarter of 2024, net exports were negative. Meanwhile, gross fixed capital formation fell at a softer pace (-6.1% vs -10.6%). On the production side, the largest positive contributions came from manufacturing, which grew 6.5%, followed by agriculture, forestry, and fishing, which jumped 168.3% due to a low base effect last year, while the construction sector expanded 7.5%. On a seasonally adjusted quarterly basis, GDP grew by 0.3%, easing from a downwardly revised 1.0% increase in Q1."
-    },
-    {
-      "id": "te:economy:579384",
-      "time": "2026-08-31 13:06:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Housing Starts YoY",
-        "Importance 1"
-      ],
-      "text": "Japan Housing Starts Rise for 4th Month, Growth Slows — Japan’s housing starts increased 8.2% year-on-year in July 2026, slowing significantly from an 18.6% surge in the previous month. Still, the latest reading marked the fourth consecutive month of growth, surpassing market expectations of 7.9% growth. Owner-occupied homes rose just 0.4% (vs 15.7% in June), while rental housing growth eased markedly (10.0% vs 24.6%). In the meantime, built-for-sale homes continued to grow solidly (14.6% vs 14.2%). At the same time, starts of two-by-four homes fell further (-8.5% vs -7.4%), while prefabricated housing starts dropped 6.9%, reversing a 13.7% gain in June."
     }
   ]
 }
