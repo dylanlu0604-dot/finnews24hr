@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-08 04:19:57",
-  "count": 14102,
+  "updated": "2026-09-08 04:23:49",
+  "count": 14105,
   "items": [
+    {
+      "id": "mkt:01a07d87-ff65-7118-84d3-26e1f66daa30",
+      "time": "2026-09-08 04:20:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) holds press conference on a Boeing 767 Amazon Prime Air cargo jet that overran the runway at Miami International Airport; aircraft operated by Amazon (AMZN.O)."
+    },
+    {
+      "id": "5081522",
+      "time": "2026-09-08 04:20:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會召開新聞釋出會，通報亞馬遜Prime Air一架波音767貨機在邁阿密國際機場衝出跑道事件的最新情況。"
+    },
+    {
+      "id": "5081521",
+      "time": "2026-09-08 04:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部：印度加入保障6G網路安全的相關合作，商務部長盧特尼克與印度對應官員磋商6G發展前景。"
+    },
     {
       "id": "5081520",
       "time": "2026-09-08 04:18:45",
