@@ -1,7 +1,32 @@
 {
   "date": "2026-09-08",
-  "count": 119,
+  "count": 122,
   "items": [
+    {
+      "id": "mkt:01a07d68-836f-7118-84d2-fe48781e8dcb",
+      "time": "2026-09-08 03:46:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araqchi spoke by phone with the new secretary-general of the Organization of Islamic Cooperation (OIC)."
+    },
+    {
+      "id": "5081512",
+      "time": "2026-09-08 03:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗外長同伊斯蘭合作組織新任秘書長通電話。"
+    },
+    {
+      "id": "5081511",
+      "time": "2026-09-08 03:44:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【公募年內獲配定增近500億元，資金向高景氣行業集中】公募排排網資料顯示，按增發上市日統計，截至9月6日，今年以來共有27家公募機構參與93家公司股票定增，合計獲配金額達473.46億元，較2025年同期的176.20億元增長168.71%。按9月4日收盤價統計，參與定增的公募機構的平均浮盈比例為6.83%。"
+    },
     {
       "id": "mkt:01a07d63-ff45-7118-84d2-f7e858271b2d",
       "time": "2026-09-08 03:41:40",
