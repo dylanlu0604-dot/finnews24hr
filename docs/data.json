@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08 04:00:33",
-  "count": 14120,
+  "updated": "2026-09-08 04:04:27",
+  "count": 14112,
   "items": [
+    {
+      "id": "5081517",
+      "time": "2026-09-08 04:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶打死兩名巴勒斯坦武裝人員】以色列國防軍7日說，以軍近日在加沙地帶發動兩次空襲，分別打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）各一名武裝人員。 (央視新聞)"
+    },
     {
       "id": "mkt:01a07d74-75be-7118-84d3-12bbbe63067a",
       "time": "2026-09-08 03:59:39",
@@ -129077,101 +129085,6 @@
         "國際"
       ],
       "text": "被問及是否正在重新審視福克蘭群島相關立場時，特朗普表示自己一貫會審視各類立場，福克蘭群島問題也在其中。"
-    },
-    {
-      "id": "mkt:01a0596b-e9d3-7118-8420-f7fe55a5bcca",
-      "time": "2026-09-01 04:03:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he has ruled out using nuclear weapons against Iran."
-    },
-    {
-      "id": "5069452",
-      "time": "2026-09-01 04:03:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我已排除對伊朗使用核武器的可能性。"
-    },
-    {
-      "id": "mkt:01a0596a-d6cf-7118-8420-edc64a3b0c1d",
-      "time": "2026-09-01 04:02:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the US has substantial ammunition worldwide."
-    },
-    {
-      "id": "5069451",
-      "time": "2026-09-01 04:02:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們在全球各地儲備了大量彈藥。"
-    },
-    {
-      "id": "5069450",
-      "time": "2026-09-01 04:02:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望用委內瑞拉石油填滿戰略儲備。"
-    },
-    {
-      "id": "mkt:01a05969-b477-7118-8420-e2b98a6e6952",
-      "time": "2026-09-01 04:01:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he wants to replenish the Strategic Petroleum Reserve."
-    },
-    {
-      "id": "5069449",
-      "time": "2026-09-01 04:01:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將迅速補充戰略儲備。"
-    },
-    {
-      "id": "mkt:01a05969-a5bf-7118-8420-df958ac1e57e",
-      "time": "2026-09-01 04:01:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "NVIDIA",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bearish",
-        "TSLA.O",
-        "Impact bullish",
-        "BABA.N"
-      ],
-      "text": "【US close: major indexes lower, Tesla up >5%】US stocks closed lower on Monday: Dow -0.7%, S&P 500 -0.33%, Nasdaq -0.12%. Tesla (TSLA.O) +5.5%; NVIDIA (NVDA.O) +1%; SK Hynix (SKHY.O) +2%; SanDisk (SNDK.O) +5.5%. Nasdaq Golden Dragon Index -2.18%; Alibaba (BABA.N) -4%."
-    },
-    {
-      "id": "5069448",
-      "time": "2026-09-01 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.70%，標普500指數跌0.33%，納指跌0.12%。愛迪生國際跌23.08%，太平洋瓦電跌20.00%，怡安保險跌9.58%，HWM跌7.53%，Take-Two Interactive跌6.67%，Axon Enterprise跌5.69%。“七姐妹”方面：特斯拉漲5.51%，英偉達漲1.36%，蘋果跌0.89%，Meta Platforms跌0.98%，微軟跌1.22%，谷歌跌2.18%，亞馬遜跌2.50%。"
     }
   ]
 }
