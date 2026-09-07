@@ -1,7 +1,36 @@
 {
   "date": "2026-09-07",
-  "count": 403,
+  "count": 406,
   "items": [
+    {
+      "id": "5079843",
+      "time": "2026-09-07 08:58:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4460美元/盎司，日內跌0.38%。"
+    },
+    {
+      "id": "5079842",
+      "time": "2026-09-07 08:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國選定得州223億美元天然氣電廠作為首個美國投資專案】韓國經濟日報援引不願具名的政府訊息人士報道，韓國已選定美國得克薩斯州一項約223億美元燃氣發電廠專案，作為其3500億美元對美投資計劃下的首個落地專案。韓美雙方敲定專案最終造價約223億美元；美方最初要求投資250億美元，韓國方面最初考量金額為198億美元。該專案選址於得克薩斯州恩西納爾，總裝機容量6.3吉瓦，用於滿足人工智慧資料中心的電力需求。專案先建設1.4吉瓦燃氣輪機發電機組，後續再新增4.9吉瓦聯合迴圈發電產能。韓國政府計劃於週一向國會彙報該專案，完成國會報備與審批流程後，於本月正式公佈這一首個對美投資專案。"
+    },
+    {
+      "id": "te:markets:581440",
+      "time": "2026-09-07 08:55:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Rise as Week Begins — Australian shares rose 33 points or 0.4% to 9,039 on Monday morning deals, reversing weakness in the prior session amid solid gains in non-energy minerals, energy minerals, tech, and logistics. Sentiment improved as Asia-Pacific markets traded broadly higher amid signs that the Trump administration could seek to eliminate Iran’s ability to develop a nuclear weapon even without securing a formal agreement with Tehran. Locally, August services growth was revised higher amid improving confidence that came close to its level before the outbreak of war in the Middle East. However, gains were capped by caution ahead of key data due later this week in top trading partner China, notably August CPI and PPI, as well as trade performance. Meanwhile, Wall Street will be closed today for a holiday. Among early movers was mining giant BHP Group, which jumped 1.9%. Three of four big banks rose modestly, while Reece Ltd (2.3%), Bluescope Steel (2.0%), and Lynas Rare Earths (0.8%) also advanced."
+    },
     {
       "id": "5079841",
       "time": "2026-09-07 08:55:12",

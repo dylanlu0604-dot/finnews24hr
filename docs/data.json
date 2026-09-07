@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-07 08:55:45",
-  "count": 14127,
+  "updated": "2026-09-07 08:59:36",
+  "count": 14125,
   "items": [
+    {
+      "id": "5079843",
+      "time": "2026-09-07 08:58:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4460美元/盎司，日內跌0.38%。"
+    },
+    {
+      "id": "5079842",
+      "time": "2026-09-07 08:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國選定得州223億美元天然氣電廠作為首個美國投資專案】韓國經濟日報援引不願具名的政府訊息人士報道，韓國已選定美國得克薩斯州一項約223億美元燃氣發電廠專案，作為其3500億美元對美投資計劃下的首個落地專案。韓美雙方敲定專案最終造價約223億美元；美方最初要求投資250億美元，韓國方面最初考量金額為198億美元。該專案選址於得克薩斯州恩西納爾，總裝機容量6.3吉瓦，用於滿足人工智慧資料中心的電力需求。專案先建設1.4吉瓦燃氣輪機發電機組，後續再新增4.9吉瓦聯合迴圈發電產能。韓國政府計劃於週一向國會彙報該專案，完成國會報備與審批流程後，於本月正式公佈這一首個對美投資專案。"
+    },
+    {
+      "id": "te:markets:581440",
+      "time": "2026-09-07 08:55:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Rise as Week Begins — Australian shares rose 33 points or 0.4% to 9,039 on Monday morning deals, reversing weakness in the prior session amid solid gains in non-energy minerals, energy minerals, tech, and logistics. Sentiment improved as Asia-Pacific markets traded broadly higher amid signs that the Trump administration could seek to eliminate Iran’s ability to develop a nuclear weapon even without securing a formal agreement with Tehran. Locally, August services growth was revised higher amid improving confidence that came close to its level before the outbreak of war in the Middle East. However, gains were capped by caution ahead of key data due later this week in top trading partner China, notably August CPI and PPI, as well as trade performance. Meanwhile, Wall Street will be closed today for a holiday. Among early movers was mining giant BHP Group, which jumped 1.9%. Three of four big banks rose modestly, while Reece Ltd (2.3%), Bluescope Steel (2.0%), and Lynas Rare Earths (0.8%) also advanced."
+    },
     {
       "id": "5079841",
       "time": "2026-09-07 08:55:12",
@@ -129311,51 +129340,6 @@
         "其他"
       ],
       "text": "【中國信達等在北京新設企業管理中心】企查查APP顯示，近日，北京達增企業管理中心（有限合夥）成立，經營範圍包含企業管理；以自有資金從事投資活動；企業管理諮詢。企查查股權穿透顯示，該企業由中國信達等共同出資。"
-    },
-    {
-      "id": "5067585",
-      "time": "2026-08-31 08:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方表示，美軍對霍爾木茲海峽構成“迫在眉睫威脅”的伊朗伊斯蘭革命衛隊佈雷部隊採取了“有限、精準行動”。"
-    },
-    {
-      "id": "5067584",
-      "time": "2026-08-31 08:59:03",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：維持美聯儲9月會議按兵不動的基準判斷 等待資料指引】中信證券釋出研報稱，沃什本次Jackson Hole講話重點捍衛了美聯儲抗通脹的義務和決心，相比其在7月FOMC會議上的言論更為鷹派。市場對9月份加息的預期已顯著提高，但基於該行對美國通脹和經濟增長趨勢的預測，該行維持美聯儲9月會議按兵不動的基準判斷，未來通脹和就業資料至關重要。短期市場加息預期回暖推升美元，利空黃金，但中期長端實際利率下行仍支援金價上漲彈性。"
-    },
-    {
-      "id": "mkt:01a05553-69f6-7118-8404-d38a11243bf4",
-      "time": "2026-08-31 08:58:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【South Korea and U.S. discuss bolstering energy cooperation amid rising global uncertainty】YONHAP reports South Korea’s Ministry of Climate, Energy and Environment said on Monday that Second Vice Minister Lee Ho-hyeon met U.S. official Kokodrily in Seoul to discuss measures to secure energy supply chains and stabilize power supply. The sides exchanged views on energy security priorities, including grid resilience as electricity demand rises and energy storage capacity expands. Lee said securing supply chains and stable power is a pillar of industrial competitiveness and that the talks aim to help both countries address growing market uncertainty and deepen bilateral energy cooperation."
-    },
-    {
-      "id": "5067583",
-      "time": "2026-08-31 08:56:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏達電子：正結合伺服器算力等領域需求加強鉭電容市場開拓】宏達電子(300726)8月31日在互動平臺表示，AI伺服器算力提升帶來功耗大幅增加，對電源系統穩定性提出更高要求，從而帶來對具有高可靠性特點的鉭電容需求提升，公司已關注到這一趨勢，並正結合伺服器算力等領域需求加強市場開拓。"
-    },
-    {
-      "id": "5067582",
-      "time": "2026-08-31 08:56:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月28日355股獲融資買入超億元 中際旭創穫買入43.62億元居首】8月28日共有3521只個股獲融資資金買入，有355股買入金額超億元。其中，中際旭創、新易盛、勝宏科技融資買入金額排名前三，分別獲買入43.62億元、24.35億元、21.28億元。"
     }
   ]
 }
