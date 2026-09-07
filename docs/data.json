@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08 00:25:18",
-  "count": 14246,
+  "updated": "2026-09-08 00:29:13",
+  "count": 14245,
   "items": [
+    {
+      "id": "mkt:01a07caf-d995-7118-84d1-752f4d2ae90c",
+      "time": "2026-09-08 00:24:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's foreign minister said he spoke by phone with Pakistan's deputy prime minister and foreign minister to exchange views on bilateral cooperation, recent regional developments and efforts to strengthen regional security and stability."
+    },
     {
       "id": "mkt:01a07caf-30e7-7118-84d1-6a8f41b26f16",
       "time": "2026-09-08 00:24:11",
@@ -130313,22 +130321,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps said it shot down an MQ-9 unmanned aerial vehicle east of the Strait of Hormuz."
-    },
-    {
-      "id": "5069311",
-      "time": "2026-09-01 00:28:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：再次告誡全體國民，切勿讓任何分歧矛盾在民眾之間滋生。"
-    },
-    {
-      "id": "5069310",
-      "time": "2026-09-01 00:28:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：在霍爾木茲海峽東部擊落一架MQ9無人機。"
     }
   ]
 }

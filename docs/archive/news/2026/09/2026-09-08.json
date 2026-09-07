@@ -1,7 +1,15 @@
 {
   "date": "2026-09-08",
-  "count": 27,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a07caf-d995-7118-84d1-752f4d2ae90c",
+      "time": "2026-09-08 00:24:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's foreign minister said he spoke by phone with Pakistan's deputy prime minister and foreign minister to exchange views on bilateral cooperation, recent regional developments and efforts to strengthen regional security and stability."
+    },
     {
       "id": "mkt:01a07caf-30e7-7118-84d1-6a8f41b26f16",
       "time": "2026-09-08 00:24:11",
