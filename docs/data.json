@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-08 00:09:43",
-  "count": 14246,
+  "updated": "2026-09-08 00:13:38",
+  "count": 14247,
   "items": [
+    {
+      "id": "mkt:01a07ca4-a813-7118-84d1-505193d6d57f",
+      "time": "2026-09-08 00:12:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvia's prime minister said the government plans to impose a 300% tariff on grain imports from Russia and Belarus."
+    },
+    {
+      "id": "mkt:01a07ca4-6823-7118-84d1-484341fa34f4",
+      "time": "2026-09-08 00:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces say they shot down Saudi CH-4 armed reconnaissance drone over Al-Jawf】Houthi forces said they shot down a Saudi CH-4 armed reconnaissance drone over Al-Jawf province, Yemen. The group said the drone was conducting \"hostile operations\" and was downed using \"appropriate weapons.\" It is the second CH-4 the group says it has shot down in the past 12 hours and the fourth drone in the past 24 hours."
+    },
+    {
+      "id": "te:markets:581710",
+      "time": "2026-09-08 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.25% Higher — The FTSE MIB Index went up by 129 points or 0.25 percent on Monday to close at 52230 points. The rise was led by Lottomatica (8.65%), STMicroelectronics (4.11%) and Avio (2.95%). On the downside, the weakerst performers were Telecom Italia (-3.12%), Poste Italiane (-2.38%) and Snam (-2.01%)."
+    },
+    {
+      "id": "5081468",
+      "time": "2026-09-08 00:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩稱以色列襲擊黎南部已致27死69傷】黎巴嫩公共衛生部緊急行動中心7日公佈了過去三天以色列襲擊黎南部的初步傷亡情況，截至目前，襲擊已造成27人死亡、69人受傷，其中包括兒童、婦女和醫護人員。（央視新聞）"
+    },
+    {
+      "id": "5081467",
+      "time": "2026-09-08 00:11:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉脫維亞總理表示，該國政府計劃對來自俄羅斯和白俄羅斯的穀物徵收 300% 關稅。"
+    },
+    {
+      "id": "te:markets:581709",
+      "time": "2026-09-08 00:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.15% Lower — The DAX Index fell 40 points or 0.15 percent on Monday to close at 26007 points. Leading the losses are Munich RE (-2.88%), Qiagen NV (-2.79%) and Hannover Rueck (-2.69%). Top gainers were Infineon (6.40%), RWE (1.82%) and Commerzbank (1.64%)."
+    },
+    {
+      "id": "te:markets:581708",
+      "time": "2026-09-08 00:10:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.33% Higher — The CAC 40 Index gained 27 points or 0.33 percent on Monday to close at 8306 points. Gains were led by STMicroelectronics (3.78%), Schneider Electric (2.77%) and Legrand (2.36%). Biggest losers were Edenred (-2.69%), Dassault Systemes (-2.19%) and Michelin (-1.69%)."
+    },
+    {
+      "id": "5081466",
+      "time": "2026-09-08 00:09:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【卡達LNG運輸船罕見嘗試駛出霍爾木茲海峽 出口恢復訊號增強】一艘上月初在卡達裝載液化天然氣的運輸船正駛向霍爾木茲海峽，可能成為自7月以來首次可見的嘗試駛出這一關鍵水道的行動。根據船舶追蹤資料，Al Marrouna號週一正接近霍爾木茲海峽，並將巴基斯坦卡西姆港列為下一目的地，可能於週四抵達。目前尚不清楚該船是否會繼續穿越霍爾木茲海峽。兩個多月前另一艘卡達LNG運輸船遭襲後，類似航行已十分罕見。"
+    },
     {
       "id": "mkt:01a07ca1-4b22-7118-84d1-471cc0e0627d",
       "time": "2026-09-08 00:09:00",
@@ -130267,84 +130345,6 @@
         "Importance 0"
       ],
       "text": "Palladium Slips From Three-Month High — Palladium futures hovered near $1,380 per ounce, after reaching a three-month high, as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply."
-    },
-    {
-      "id": "mkt:01a05897-c8a3-7118-841d-46299caea394",
-      "time": "2026-09-01 00:12:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Strategic Petroleum Reserve (SPR) crude inventories fell about 3.1 mln barrels last week to 286.6 mln barrels."
-    },
-    {
-      "id": "te:markets:579649",
-      "time": "2026-09-01 00:12:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 3 points or 0.01 percent on Monday to close at 52613 points. The decline was led by Avio (-2.90%), Leonardo SpA (-2.14%) and Buzzi Unicem (-1.89%). On the upside, the strongest performers were Tenaris (2.95%), Saipem (2.44%) and Eni (2.26%)."
-    },
-    {
-      "id": "5069306",
-      "time": "2026-09-01 00:12:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "上週美國戰略石油儲備原油庫存減少約310萬桶，降至2.866億桶。"
-    },
-    {
-      "id": "5069305",
-      "time": "2026-09-01 00:11:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "預測市場平臺Kalshi向美國商品期貨交易委員會（CFTC）提交外匯永續合約上線申請。"
-    },
-    {
-      "id": "te:markets:579646",
-      "time": "2026-09-01 00:11:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Falls to Over One-Week Low — Platinum futures traded below $1,850 per ounce, reaching a more than one-week low as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility, supporting demand for hybrid vehicles, which use autocatalysts. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. The World Platinum Investment Council forecasts industrial demand to increase 9% in 2026, while emerging applications in hydrogen technologies, chips and AI data-centers could provide additional long-term demand. The metal also remains supported by a persistent supply deficit, limiting available metal."
-    },
-    {
-      "id": "te:markets:579645",
-      "time": "2026-09-01 00:11:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.17% Lower — The DAX Index fell 312 points or 1.17 percent on Monday to close at 26258 points. Leading the losses are Siemens Energy (-5.02%), Rheinmetall (-3.23%) and Vonovia (-2.92%)."
-    },
-    {
-      "id": "te:markets:579644",
-      "time": "2026-09-01 00:10:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.60% Lower — The CAC 40 Index dropped 50 points or 0.60 percent on Monday to close at 8351 points. Losses were led by Airbus (-2.86%), Safran (-2.30%) and STMicroelectronics (-2.06%). Offsetting the fall, top gainers were Stellantis NV (1.83%), Pernod Ricard (1.80%) and TotalEnergies SE (1.40%)."
     }
   ]
 }
