@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-08 06:42:23",
-  "count": 14084,
+  "updated": "2026-09-08 06:46:18",
+  "count": 14087,
   "items": [
+    {
+      "id": "mkt:01a07e0c-60bb-7118-84d3-a2bead9f7e21",
+      "time": "2026-09-08 06:45:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 manufacturing activity volume +0.8% QoQ; prior +3.6%."
+    },
+    {
+      "id": "mkt:01a07e0c-34d9-7118-84d3-9c8bd8e871d3",
+      "time": "2026-09-08 06:45:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Manufacturing Sales (Volume) (QoQ) (Q2) | actual 0.8% | previous 3.60%"
+    },
+    {
+      "id": "te:markets:581733",
+      "time": "2026-09-08 06:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.57% — Top crypto losers are XRP (-2.57%), Binance (-2.13%), Bitcoin (-1.91%) and Ether (-1.41%)."
+    },
+    {
+      "id": "5081571",
+      "time": "2026-09-08 06:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第二季度製造業銷售額環比增長3.1%。"
+    },
+    {
+      "id": "5081570",
+      "time": "2026-09-08 06:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多地重大專案建設提速提效】三季度是全年專案建設的黃金攻堅期。記者注意到，近期多地積極推進、部署重大專案建設相關工作。例如，據黑龍江省人民政府網站訊息，9月6日，黑龍江全省投資工作推進會議召開。會議要求，要多網協同、軟硬協同、場景協同推進“六張網”規劃建設，全力爭取重大專案納入國家盤子，加快啟動建設一批重點專案等。9月1日，四川省政府第77次常務會議召開。會議強調“抓好牽引性重大工程專案實施，確保完成全年目標任務、實現‘十五五’良好開局”。8月22日，山西召開省政府“重大專案建設年”工作推進會。（證券日報）"
+    },
+    {
+      "id": "5081569",
+      "time": "2026-09-08 06:43:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4450美元/盎司，日內跌0.58%。"
+    },
     {
       "id": "te:markets:581732",
       "time": "2026-09-08 06:40:16",
@@ -128770,33 +128824,6 @@
         "Brent"
       ],
       "text": "U.S. officials said U.S. oil firm NABEP will assume operations of some Venezuelan oilfields formerly run by Russian and other companies."
-    },
-    {
-      "id": "5069512",
-      "time": "2026-09-01 06:45:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：為有權使用 Claude Mythos 5 的合作方制定配套操作規範。"
-    },
-    {
-      "id": "te:markets:579675",
-      "time": "2026-09-01 06:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Increases by 2.05% — Top crypto gainers are Ether (2.05%), XRP (1.53%) and Bitcoin (1.26%)."
-    },
-    {
-      "id": "5069511",
-      "time": "2026-09-01 06:45:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：已要求所有對降低網路安全防護的預釋出模型開展測試的機構，承諾遵守一套最佳實踐準則。在落實最佳實踐後，已重啟外部網路安全評估。"
     }
   ]
 }
