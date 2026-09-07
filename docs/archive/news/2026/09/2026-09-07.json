@@ -1,7 +1,41 @@
 {
   "date": "2026-09-07",
-  "count": 822,
+  "count": 826,
   "items": [
+    {
+      "id": "mkt:01a07a35-68c2-7118-84c3-0a16c85296da",
+      "time": "2026-09-07 12:51:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "People familiar said UBS will require graduates and interns joining its Global Banking and Markets division in 2027 to demonstrate how they would use AI to boost performance and efficiency. The requirement signals AI is reshaping campus hiring at major European banks."
+    },
+    {
+      "id": "5080206",
+      "time": "2026-09-07 12:50:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐成為首批直聯中國理財網的外資銀行】9月7日，滙豐銀行（中國）有限公司宣佈，已完成與中國理財網的系統直聯，成為自《銀行保險機構資產管理產品資訊披露管理辦法》9月1日正式實施以來，首批與中國理財網實現直聯的外資銀行。"
+    },
+    {
+      "id": "5080205",
+      "time": "2026-09-07 12:50:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "嗶哩嗶哩-W(09626)釋出公告，於2026年9月4日，該公司斥資7.84億港元回購679.55萬股股份，每股回購價115.38港元。"
+    },
+    {
+      "id": "5080204",
+      "time": "2026-09-07 12:49:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏利亞洲與螞蟻健康簽署合作備忘錄】記者9月7日獲悉，宏利金融亞洲有限公司與螞蟻集團旗下螞蟻健康宣佈簽署合作備忘錄，將共同探索健康管理服務以及保險科技方面的創新合作。雙方計劃在備忘錄有效期內磋商並簽訂正式合作協議，將共同探索如何透過一體化的數字服務鏈路助力客戶的健康管理，包括數字化保險身份識別、預約掛號與就醫導診、健康管理服務，以及合作網路內醫院直付結算等功能。中宏保險是宏利與中國中化在中國內地設立的合資壽險公司，旗下擁有MOVE健康管理平臺。（介面新聞）"
+    },
     {
       "id": "5080203",
       "time": "2026-09-07 12:49:13",
