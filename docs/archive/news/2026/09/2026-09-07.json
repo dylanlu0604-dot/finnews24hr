@@ -1,7 +1,89 @@
 {
   "date": "2026-09-07",
-  "count": 931,
+  "count": 939,
   "items": [
+    {
+      "id": "mkt:01a07a6b-fe4a-7118-84c4-33df1c337920",
+      "time": "2026-09-07 13:51:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share cultural and media sector spiked briefly; Duzhe Media hit the daily limit. Longban Media and Sanrenxing had earlier hit limit-up; Fantuo Shuchuang, China Publishing and Rongxin Culture also rose."
+    },
+    {
+      "id": "5080277",
+      "time": "2026-09-07 13:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生益科技成交額達100億元】9月7日下午，生益科技成交額達100億元，現漲8.15%。"
+    },
+    {
+      "id": "5080276",
+      "time": "2026-09-07 13:50:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊短線拉昇，讀者傳媒漲停】文化傳媒板塊短線拉昇，讀者傳媒漲停，龍版傳媒、三人行此前封板，凡拓數創、中國出版、榮信文化跟漲。"
+    },
+    {
+      "id": "5080275",
+      "time": "2026-09-07 13:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：面對不確定性等風險 用大宗商品多元化】瑞銀表示，隨著投資者面臨新的通脹風險、地緣政治不確定性以及對能源和工業材料的結構性需求，大宗商品在多元化投資組合中可能發揮更大的作用。瑞銀認為，廣泛的大宗商品投資既能提供多元化，又能提供新的回報來源。"
+    },
+    {
+      "id": "mkt:01a07a6a-ae65-7118-84c4-2a9d09fa080b",
+      "time": "2026-09-07 13:50:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "005930.KS",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "【CINNO Research: 1H 2026 global AMOLED smartphone panel shipments +3.8% YoY】CINNO Research data show global AMOLED smartphone panel shipments were about 430 mln units in 1H 2026, up 3.8% YoY and beating expectations. The increase was led by stable procurement from Apple and Samsung, supported by their supply-chain advantages and stronger profitability. Facing market uncertainty, some Chinese panel makers front‑loaded future demand to maintain line utilization and hedge potential cost increases, lifting 1H volumes. More conservative consumer spending and longer replacement cycles have also driven a notable rise in phone repair demand, adding incremental shipments."
+    },
+    {
+      "id": "mkt:01a07a6a-a947-7118-84c4-21330b473cbf",
+      "time": "2026-09-07 13:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "GBPUSD"
+      ],
+      "text": "Germany July seasonally adjusted industrial production MoM and UK August Halifax seasonally adjusted house price index MoM due in 10 minutes."
+    },
+    {
+      "id": "5080274",
+      "time": "2026-09-07 13:48:51",
+      "tags": [
+        "宏觀",
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持中國人保“買入”評級，擬向財政部定向增發募資150億元，支援業務發展】東吳證券研報指出，中國人保擬向財政部定增募資150億元，壯大資本實力以支援未來業務發展。同日共有8家金融央企獲財政部注資，此前市場已有保險集團注資預期。認為定增對人保EPS/ROE等指標產生的攤薄影響預計有限，有助於維護公司股價穩定，而進一步壯大資本實力為長期穩定經營和業務發展提供有力支撐，預計業績增長將抵消攤薄影響。①以募資150億元計算，佔2026H1公司歸母淨資產約4.4%，預計對ROE影響有限。以當前20個交易日均價7.41元作為發行價計算，發行股數約20.2億股，對2026H1的EPS攤薄影響不到5%。②截至2026年中，公司綜合和核心償付能力充足率分別為246.6%和197.7%，預計注資完成後兩項償付能力充足率均將提升6.1pct。③上半年公司歸母淨利潤367億元，同比增長38.5%，中期每股股息0.11元，達到2025年全年股息的一半，同比增長46.7%，顯示出公司對股東回報的重視。該行預計2026-2028年公司歸母淨利潤為537/580/623億元，同比增速分別為+15%/+8%/+7%，當前公司市值對應2026EPEV0.8x、PB1.0x。維持“買入”評級。"
+    },
+    {
+      "id": "5080273",
+      "time": "2026-09-07 13:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京AI產投基金入股3D算力晶片研發商算苗科技】企查查APP顯示，近日，算苗科技（北京）有限公司發生工商變更，新增北京市人工智慧產業投資基金（有限合夥）等為股東，同時註冊資本增至134.96萬元。企查查資訊顯示，該公司成立於2022年，經營範圍包含：積體電路銷售；積體電路晶片設計及服務；積體電路晶片及產品製造；積體電路晶片及產品銷售等。公開資訊顯示，該公司是一家3D算力晶片研發商。"
+    },
     {
       "id": "mkt:01a07a68-83ec-7118-84c4-1a9e3417df93",
       "time": "2026-09-07 13:47:44",
