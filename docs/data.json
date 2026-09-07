@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-08 06:50:13",
-  "count": 14085,
+  "updated": "2026-09-08 06:54:08",
+  "count": 14084,
   "items": [
+    {
+      "id": "5081573",
+      "time": "2026-09-08 06:53:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【“H回A”案例持續湧現，人工智慧賽道相關企業正成為“回A”隊伍中新的增長極】近日，港股上市企業雲英谷科技股份有限公司釋出公告稱，已與廣發證券股份有限公司簽署A股輔導協議，正式啟動“回A”程序。值得注意的是，該公司於今年5月底登陸港交所，僅三個多月便籌劃“回A”，開啟“A+H”兩地上市戰略佈局。梳理發現，截至9月7日，年內已有15家港股上市公司披露“回A”相關進展。整體來看，這批企業普遍具備高研發投入、高技術壁壘、高成長預期的“三高”特徵。從行業分佈來看，醫療保健和資訊科技企業是本輪“回A”主力，其中，AI（人工智慧）賽道相關企業正成為“回A”隊伍中新的增長極。（證券日報）"
+    },
+    {
+      "id": "mkt:01a07e13-266d-7118-84d3-b6e46a5a337f",
+      "time": "2026-09-08 06:52:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand seasonally adjusted manufacturing activity rose 3.1% QoQ in Q2, up from 2.8% in Q1."
+    },
+    {
+      "id": "mkt:01a07e13-0c11-7118-84d3-a804987529cb",
+      "time": "2026-09-08 06:52:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Manufacturing Sales (Value) (QoQ) (Q2) | actual 3.1% | previous 2.80%"
+    },
+    {
+      "id": "5081572",
+      "time": "2026-09-08 06:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多線釋放強硬訊號 美軍基地因移動裝置陷“暴露”危機】當地時間6日至7日，伊朗在軍事、經濟、外交多個方面對美釋放強硬訊號。軍事上，伊朗首次在美軍戰艦上空試射新型反艦導彈，警告意味明顯；經濟上，在經濟部內部設立經濟戰爭指揮部；外交上，強調將全力維護伊國家利益。而美國方面，美軍駐中東基地位置資料因移動裝置暴露一事引發關注。有分析稱，儘管美軍方表示已在多款手機和電腦上禁用廣告跟蹤器，但禁令已存在多年而洩露不止，到底有多少人在違規，恐怕美軍自己都難以搞清。（央視新聞）"
+    },
     {
       "id": "mkt:01a07e0c-60bb-7118-84d3-a2bead9f7e21",
       "time": "2026-09-08 06:45:35",
@@ -128755,53 +128790,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室： 收到一則發生在阿曼海哈薩布以東 17 海里處的事件報告。"
-    },
-    {
-      "id": "mkt:01a05a07-8dcb-7118-8422-17aff34ba42b",
-      "time": "2026-09-01 06:53:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations said it had received a report of an incident 17 nautical miles east of Khasab, Oman."
-    },
-    {
-      "id": "5069515",
-      "time": "2026-09-01 06:52:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國最高法院允許白宮宴會廳改造專案繼續推進】美國最高法院8月31日裁定，允許白宮宴會廳改造專案繼續推進。最高法院當天以5比4的投票結果，透過了美國政府提出的緊急上訴，否決此前下級法院作出的暫停該專案地上部分施工的裁決。首席大法官約翰·羅伯茨與3名自由派大法官投了反對票。最高法院並未就白宮宴會廳改造專案的合法性作出實體裁判，但認為提起訴訟的美國文物保護組織國家歷史保護信託基金會可能不是適格的原告。裁決書說：“今天不對白宮東翼專案是否合法作出裁判。僅基於現有案卷材料認定，政府有較大可能證明該基金會不具備憲法第三條下的起訴資格。”（新華社）"
-    },
-    {
-      "id": "5069514",
-      "time": "2026-09-01 06:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：知情人士稱美國財長貝森特在G20會議間隙告訴俄羅斯財長西盧安諾夫，在戰爭結束之前無法與俄羅斯達成任何協議。"
-    },
-    {
-      "id": "mkt:01a05a05-28f7-7118-8422-0c952ed7b20e",
-      "time": "2026-09-01 06:51:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Sources said US Treasury Secretary Bessent told Russian Finance Minister Siluanov on the sidelines of the G20 that no agreement with Russia is possible until the war ends."
-    },
-    {
-      "id": "mkt:01a05a04-c4f9-7118-8422-02c725978988",
-      "time": "2026-09-01 06:50:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Insiders said U.S. Treasury Secretary Bessent told Russian Finance Minister Siluanov the United States will not provide economic assistance to Russia until the end of the war in Ukraine."
     }
   ]
 }
