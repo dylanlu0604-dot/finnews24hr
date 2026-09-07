@@ -1,7 +1,46 @@
 {
   "date": "2026-09-08",
-  "count": 260,
+  "count": 264,
   "items": [
+    {
+      "id": "5081607",
+      "time": "2026-09-08 07:29:05",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：兩融資金情緒仍然低迷】中信建投研報指出，微觀資金面方面，新成立偏股型基金110.7億份，股票型ETF資金淨流入80.4億元，其中雙創ETF資金流入157億元，TMT相關ETF資金流入80億元，紅利低波、金融地產等方向ETF資金有所流出；兩融資金淨流入-211.9億元，交易額佔比8.6%，環比有所下行，流入較多的行業主要有：機械裝置、建築材料、石油石化；7月私募證券投資基金備案數量和規模環比上行；1-7月保險公司保費收入4.29萬億元，累計同比增長1.9%；南向資金淨流入63.4億元，今年以來淨流入3348億元。"
+    },
+    {
+      "id": "5081606",
+      "time": "2026-09-08 07:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大對美等額反制關稅措施8日生效】據加拿大聯邦政府此前釋出的宣告，加方對美等額反制關稅將於加拿大當地時間9月8日正式生效。加拿大聯邦政府8月25日宣佈，將對價值276億加元，約合200億美元的美國商品加徵反制關稅，涉及鋼鋁、乳製品、家電、農業裝置等領域。加方表示，本次受反制關稅影響的美國商品總額與美方對加方加徵的50%關稅涉及商品價值相當，實現“等額、對等”反制。"
+    },
+    {
+      "id": "5081605",
+      "time": "2026-09-08 07:28:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾CPU傳再漲價10% 高通、聯發科趁隙搶攻IPC、IoT空缺】據報道，供應鏈人士透露，2025年底以降，英特爾（Intel）PC用CPU持續漲價，2026年10月5日，再傳出英特爾的PC CPU預估“再漲10%”。同時，毛利率偏低的Small Core產品線，恐走向EOL（End of Life），藉由縮減低毛利產品改善整體獲利，這些都是英特爾執行長陳立武的策略調整。而業界也估計，Arm陣營的高通（Qualcomm）、聯發科，將有機會搶進工業電腦（IPC）、物聯網（IoT）晶片領域。供應鏈業者表示，因整體供應鏈成本攀升及部分產品需求強勁，英特爾PC CPU自2025年底以來接連漲價，2026年第1季調漲約10%，7月再調漲部分消費級及伺服器級CPU，漲幅從數十美元至逾千美元。"
+    },
+    {
+      "id": "mkt:01a07e33-24ef-7118-84d4-21d400807699",
+      "time": "2026-09-08 07:27:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Canada's equal-value retaliatory tariffs on U.S. goods take effect Sep 8】Canada's retaliatory tariffs on U.S. imports take effect Sep 8 local time, Ottawa said. The measures target C$27.6 bln (~$20 bln) of U.S. goods, including steel and aluminum, dairy, appliances and agricultural equipment. Ottawa says the total value of affected U.S. goods matches the value of U.S. 50% tariffs on Canadian goods, calling the move \"equal, reciprocal\" retaliation."
+    },
     {
       "id": "mkt:01a07e30-db6a-7118-84d4-1f8ca9419332",
       "time": "2026-09-08 07:25:26",
