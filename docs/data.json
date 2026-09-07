@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-08 00:41:03",
-  "count": 14243,
+  "updated": "2026-09-08 00:44:56",
+  "count": 14245,
   "items": [
+    {
+      "id": "mkt:01a07cc1-46f9-7118-84d1-b4ddec3ce42f",
+      "time": "2026-09-08 00:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported 14 militants were killed across the Gaza Strip over the past week, including five Nukhba company commanders and five Nukhba platoon leaders."
+    },
+    {
+      "id": "mkt:01a07cc0-91ce-7118-84d1-aa9392fc1075",
+      "time": "2026-09-08 00:43:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it killed two militants linked to Hamas and Palestinian Islamic Jihad in the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a07cbf-6287-7118-84d1-a54cf9b04e90",
+      "time": "2026-09-08 00:41:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Yemen military air force commander says more air operations will support ground forces."
+    },
+    {
+      "id": "5081474",
+      "time": "2026-09-08 00:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲頂級運營商洽談成立衛星直連手機合資企業】據知情人士透露，歐洲最大的幾家移動運營商正在進行初步磋商，擬組建一個聯合體競標衛星頻譜，並提供直連手機服務，以在歐陸與埃隆·馬斯克的Starlink展開競爭。德國電信、法國Orange、沃達豐（Vodafone）和西班牙電信（Telefónica）將聯合競標歐盟提議為本土運營商預留的那部分頻段，該計劃旨在提升歐洲的主權衛星能力。關於該聯合體或競標計劃，目前尚未做出最終決定。為符合歐盟的提案要求，任何衛星運營商須由歐洲企業控股。"
+    },
     {
       "id": "mkt:01a07cbc-55e1-7118-84d1-9aed28003661",
       "time": "2026-09-08 00:38:32",
@@ -130290,22 +130324,6 @@
         "其他"
       ],
       "text": "HUMAIN與微軟計劃聯合推出整合微軟365的HUMAIN ONE產品。"
-    },
-    {
-      "id": "5069317",
-      "time": "2026-09-01 00:44:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟與Human擴大戰略合作。"
-    },
-    {
-      "id": "5069316",
-      "time": "2026-09-01 00:42:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【衛星拍到美軍約旦空軍基地疑似損毀，美約稱攔截成功，伊朗宣稱重創目標】伊朗夜間彈道導彈齊射過後，衛星影像在約旦穆瓦法克‑薩爾蒂空軍基地觀測到一處新的暗色斑塊。哨兵‑2衛星的前後對比圖顯示，戰鬥機機庫附近疑似出現爆炸損毀痕跡。約旦與美國方面稱，幾乎全部導彈均遭攔截，未造成重大損失。伊朗則宣稱襲擊造成嚴重損毀。"
     }
   ]
 }
