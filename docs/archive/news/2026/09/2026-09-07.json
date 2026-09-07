@@ -1,7 +1,99 @@
 {
   "date": "2026-09-07",
-  "count": 949,
+  "count": 959,
   "items": [
+    {
+      "id": "te:markets:581515",
+      "time": "2026-09-07 13:58:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Stock Price Hits 4-week Low — China Yangtze Power shares decreased to 27.78 CNY, the lowest since August 2026. Over the past 4 weeks, China Yangtze Power gained 0.18%, and in the last 12 months, it decreased 0.93%."
+    },
+    {
+      "id": "5080289",
+      "time": "2026-09-07 13:58:07",
+      "tags": [],
+      "text": "WTI原油日內漲超2％，現報91.07美元/桶。布倫特原油漲1.9％，報96.27美元/桶。"
+    },
+    {
+      "id": "5080288",
+      "time": "2026-09-07 13:57:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "輝瑞有限公司將停止Minipress XL的市場營銷與分銷業務。"
+    },
+    {
+      "id": "5080287",
+      "time": "2026-09-07 13:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬魯蒂鈴木將於2026年9月對部分車型提價，最高上調20,000盧比。"
+    },
+    {
+      "id": "mkt:01a07a71-8d02-7118-84c4-65f017110997",
+      "time": "2026-09-07 13:57:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European heatwave damages feed crops; corn and pasture shortages threaten livestock sector】Record-dry July in Ireland and extreme heat across Europe — including the UK’s hottest summer on record and one of France’s longest, strongest heatwaves — have severely damaged pastures and corn crops. Farmers are drawing down winter hay and silage stocks early as parched fields cut feed availability. Spot feed prices have surged, prompting some producers to consider culling herds. Heat stress is also reducing milk yields, with effects likely to transmit to processors and consumers."
+    },
+    {
+      "id": "5080286",
+      "time": "2026-09-07 13:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "維托爾：烏干達確認其新近命名的原油將於2027年初起可供出口。"
+    },
+    {
+      "id": "mkt:01a07a71-2c6d-7118-84c4-5dbde7c3b81e",
+      "time": "2026-09-07 13:57:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose more than 2% intraday to $91.07 per barrel; Brent crude gained 1.9% to $96.27 per barrel."
+    },
+    {
+      "id": "5080285",
+      "time": "2026-09-07 13:56:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "維托爾：烏干達國家石油公司(UNOC)指定維托爾負責銷售珀爾甜原油。"
+    },
+    {
+      "id": "5080284",
+      "time": "2026-09-07 13:56:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲1.66%。"
+    },
+    {
+      "id": "5080283",
+      "time": "2026-09-07 13:56:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "輝瑞有限公司將收到美國輝瑞公司1390萬美元一次性付款。"
+    },
     {
       "id": "em:qqyh_ozyh:202609073866604765",
       "time": "2026-09-07 13:54:59",
