@@ -1,7 +1,50 @@
 {
   "date": "2026-09-08",
-  "count": 238,
+  "count": 243,
   "items": [
+    {
+      "id": "5081591",
+      "time": "2026-09-08 07:13:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "鎧俠控股 8 月回購了價值 8000 億日元（合 51.9 億美元）股票，在向東京證券交易所披露相關資料的 468 家日本上市公司中，其回購規模位居首位。"
+    },
+    {
+      "id": "mkt:01a07e24-3b93-7118-84d4-0539571acf57",
+      "time": "2026-09-08 07:11:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Top suppliers raise prices as battery price surge accelerates】China’s lithium-battery sector has moved into the battery-cell segment: several leading suppliers have recently lifted product prices and smaller battery makers have followed, accelerating a new wave of battery-price increases. Interviews indicate the cell-price rise partly reflects higher costs from an adjustment to the battery consumption tax, while the deeper driver is a shift in industry supply-demand dynamics. Although producers broadly intend to pass on costs, execution is uneven; industry participants say the repricing is effectively a stress test that could prompt consolidation, force steep cost cuts and efficiency gains, and push competition toward vertical integration, higher-end products and globalization."
+    },
+    {
+      "id": "5081590",
+      "time": "2026-09-08 07:11:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雨藍色預警：山西、陝西、寧夏、四川等地部分地區有暴雨】中央氣象臺9月8日06時繼續釋出暴雨藍色預警：預計，9月8日08時至9日08時，山西南部、陝西中部、寧夏南部、甘肅東部、青海東部、四川盆地西部、雲南西南部等地部分地區有大雨，其中，山西西南部、陝西中部、寧夏南部、四川盆地西部等地部分地區有暴雨(50～90毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～40毫米，局地可超過60毫米），局地有雷暴大風等強對流天氣。"
+    },
+    {
+      "id": "5081589",
+      "time": "2026-09-08 07:11:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網傳“新疆一加氣站重度漏氣”，官方闢謠：系虛假捏造】近日，有網友在社交平臺釋出影片，影片內容為新疆阿勒泰布林津縣巨融能源加油加氣站出現管道開裂、重度漏氣情況，引發部分群眾恐慌情緒。事實究竟如何呢？發現該條影片後，布林津縣網信部門第一時間聯動當地住建部門開展核查處置。經布林津縣住建局實地核驗確認，布林津縣巨融能源加油加氣站站內油氣輸送管道及配套裝置設施執行正常、狀態完好，並未發生管道開裂、漏氣、滲漏等安全問題，網傳內容屬於虛假捏造，沒有任何事實依據。9月3日，布林津縣委網信辦透過官方公眾號“布林津網信”釋出闢謠宣告，迅速粉碎不實傳言，消除群眾顧慮。同時，網信部門將這條造謠影片下架，並對釋出該影片的網民進行了批評教育。"
+    },
+    {
+      "id": "5081588",
+      "time": "2026-09-08 07:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家頭部廠商密集上調產品價格 電池漲價潮加速蔓延】鋰電產業漲價風吹到了電池環節。近期，多家頭部廠商密集上調產品價格，中小電池企業相繼跟進漲價，新一輪電池漲價潮正在業內加速蔓延。證券時報記者採訪瞭解到，本輪電芯提價，表面上是電池消費稅調整帶來的成本抬升，而更深層次的驅動力，來自行業供需格局的變化。不過，雖然電池廠漲價意願強烈，實際落地情況卻呈現分化態勢。業內人士表示，此次價格調整更像一場壓力測試，或引發新一輪行業洗牌，更將倒逼企業極致降本增效，推動競爭焦點向一體化、高階化、全球化方向躍遷。"
+    },
     {
       "id": "5081587",
       "time": "2026-09-08 07:08:28",
