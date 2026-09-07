@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-07 08:17:10",
-  "count": 14124,
+  "updated": "2026-09-07 08:21:04",
+  "count": 14126,
   "items": [
+    {
+      "id": "5079807",
+      "time": "2026-09-07 08:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至282.08點。"
+    },
+    {
+      "id": "mkt:01a0793c-5372-7118-84bd-e61af8c7d306",
+      "time": "2026-09-07 08:19:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Citic Securities: China property sector to shift toward a manufacturing-style model】Citic Securities said in a research note the China property sector is likely to evolve toward a manufacturing-style model, prioritizing customized handovers and premium project development. The sector's consumer-service attributes will amplify product and service differentiation across developers. Product competitiveness will become a primary advantage; high-spec, high-standard new homes will stand materially above existing second‑hand stock. Citic recommends developers with experience in customized delivery and property companies able to provide optional fit-out/upgrade services."
+    },
+    {
+      "id": "5079806",
+      "time": "2026-09-07 08:19:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：AI景氣帶動漲價通脹，電子行業全面向好】中信證券研報稱，覆盤26Q2：整體看電子行業Q2業績表現亮眼，利潤增速遠超收入增速，其核心驅動力是AI需求帶來的全行業價格通脹，其中業績表現最好的是儲存及PCB/CCL，二者均是海外AI鏈與漲價鏈的交集，業績兌現度最高。分主線來看： 1）海外鏈：PCB/AI電源保持高景氣，AI PCB鏈26Q3拉貨力度邊際進一步增強。2）國產鏈：Fab/封測稼動率滿載且漲價節奏明確，國產算力/裝置仍處於強預期、弱現實階段，前瞻指標全面向好，訂單儲備充足；3）其他方向：消費電子的蘋果連結串列現相對亮眼，IC設計端有合封儲存業務的IC設計公司及自身新品放量邏輯的公司表現更佳。"
+    },
+    {
+      "id": "mkt:01a0793b-fb24-7118-84bd-db2a7e262059",
+      "time": "2026-09-07 08:19:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【CITIC Securities: Strong US payrolls offset Waller comments; markets await CPI】CITIC Securities says August US nonfarm payrolls rose far above expectations, led by leisure & hospitality and healthcare; local government education jobs rebounded. Private-sector goods-producing payrolls increased for a sixth month, possibly reflecting US data‑center construction demand; finance and information‑technology employment fell, which the note links to AI disruption. Unemployment held at 4.14% and the participation rate rose to 61.6% from 61.4%; participation for ages 45–54 continues to drift lower. The strong payrolls offset relatively dovish remarks from Fed Governor Waller; markets now price roughly a 60% chance of a September Fed rate hike. Attention shifts to August CPI due Sep. 11."
+    },
+    {
+      "id": "mkt:01a0793b-7430-7118-84bd-d7e0c6530315",
+      "time": "2026-09-07 08:18:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bearish",
+        "000300.SS",
+        "399001.SZ"
+      ],
+      "text": "【A-share turnover edges off year-to-date low; liquidity still below 20-day average】On Sept. 4 Shanghai and Shenzhen combined turnover was CNY 2.03 trln, up from the prior session and moving away from the April 7 year-to-date low of CNY 1.61 trln. It was the 12th consecutive session below the 20-day moving average (CNY 2.16 trln), indicating continued muted market liquidity and subdued trading sentiment."
+    },
+    {
+      "id": "5079805",
+      "time": "2026-09-07 08:18:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：維持保險行業“強於大市”評級】中信證券研報稱，本輪《中華人民共和國保險法》（以下簡稱《保險法》）修訂草案從法律層面對監管框架進行系統完善。對投資者而言，我們認為最直接影響是：草案擬刪除註冊資本20%保證金和財險自留保費上限等部分靜態約束，有望減少資本沉澱、最佳化承保槓桿，支援頭部保險公司提升資本使用效率和分紅能力。同時，我們預計償二代三期有望於2027年落地，系列監管政策有望從供給側改善行業生態，促進經營質效與股東回報提升，中長期發展趨勢向好，維持保險行業“強於大市”評級。"
+    },
+    {
+      "id": "te:markets:581432",
+      "time": "2026-09-07 08:17:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline on Fed Rate Hike Bets — Silver traded near $66 an ounce on Monday after losing more than 1% in the previous session, pressured by growing expectations of an imminent Federal Reserve interest rate hike following stronger-than-expected US jobs data last week. Data released Friday showed US nonfarm payrolls rose by 162,000 in August, following an upwardly revised increase of 23,000 in July and well above market expectations for a gain of 56,000. Meanwhile, the unemployment rate remained unchanged at 4.1%, while annual wage growth slowed to 3.1%, although the decline was smaller than economists had expected. Markets increased bets on a September Fed rate hike to roughly 60%, up from around 50% before the data release. Silver also remained under pressure from higher oil prices as the US and Iran exchanged strikes on ships over the weekend, stoking concerns about renewed inflationary pressures."
+    },
+    {
+      "id": "5079804",
+      "time": "2026-09-07 08:17:06",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：強勁非農抵消沃勒發言，市場靜待CPI】中信證券研報稱，2026年8月美國新增非農就業人數大幅高於預期，休閒酒店和醫療保健行業貢獻明顯，地方政府教育崗位人數反彈。私人部門結構上，商品生產部門連續第6 個月增加就業，或反映了美國資料中心建設的需求。金融和資訊科技行業就業人數下降反映了AI的衝擊。8月失業率維持在4.1%，取兩位小數為4.14%，勞動力參與率從61.4%回升至61.6%，45-54歲參與率的連續下滑仍需觀察。8月強勁非農資料和美聯儲理事Waller偏鴿發言對沖，市場再次定價9月加息機率為60%左右，接下來重點關注9月11日釋出的8月CPI。"
+    },
     {
       "id": "5079803",
       "time": "2026-09-07 08:16:13",
@@ -129245,73 +129333,6 @@
         "國際"
       ],
       "text": "【日本“進貢”醜聞發酵 福岡縣又一涉事官員考慮辭職】日本執政黨自由民主黨福岡縣分支機構逼迫成員“進貢”大額資金的醜聞持續發酵。據日本方面30日訊息，繼福岡縣議長藏內勇夫辭職後，另一名涉事官員、自民黨福岡縣支部聯合會會長松本國寬正考慮辭職。福岡縣前議長吉松源昭7月向媒體揭發自民黨這起醜聞。他自述，2020年6月出任縣議長前，其所屬的自民黨福岡縣議員團以各種名義向其索要金錢，包括黨派社交活動的打高爾夫球費用、住宿費、交通費和高階餐廳餐飲費等，共計約2000萬日元，約合84萬元人民幣。另有多名曾任該縣議長和副議長的人士透露，他們上任前也向該議員團“進貢”數百萬日元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608313859575823",
-      "time": "2026-08-31 08:19:19",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中金公司：沃什表態轉鷹 市場認可以短期鷹派換取長期穩定】中金公司研報表示，北京時間8月28日晚，美聯儲主席沃什在JacksonHole全球央行年會上發表主旨演講。整體看，沃什表態轉鷹，再次強調以PCE衡量的2%通脹目標，並重申美聯儲維護價格穩定的職責。市場也對此報以鷹派反應，2年利率跳升超過10bp，美元大漲，黃金大跌3%，CME期貨對9月加息的預期從35%跳升至58%。"
-    },
-    {
-      "id": "mkt:01a0552e-fedb-7118-8404-a43d24ed066c",
-      "time": "2026-08-31 08:18:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【China International Capital Co: Kevin Warsh turns hawkish; market accepts short-term hawkishness for longer-term stability】China International Capital Co said in a note that on Aug. 28 Beijing time Fed Chair Kevin Warsh used his Jackson Hole keynote to shift hawkish, reiterating a 2% PCE inflation target and the Fed’s duty to maintain price stability. Market reaction: 2-year U.S. Treasury yields jumped over 10bp, the dollar rallied, gold fell about 3%, and CME futures lifted the odds of a September rate hike from 35% to 58%. The move was not panic-driven: U.S. equity volatility was limited, 10-year UST rose roughly 4bp while 30-year UST declined, indicating markets are pricing a near-term hawkish impulse in exchange for longer-run stability."
-    },
-    {
-      "id": "em:jjsj_rbsj:202608313859574659",
-      "time": "2026-08-31 08:18:28",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本經濟資料全面超預期 日央行加息預期升溫】日本7月工業產出環比增長0.1%，好於預期的下降0.7%；零售銷售環比增長2.4%，同比增長4%，均大幅高於預期。製造商預計8月工業產出將增長6.4%，9月則回落4.2%。零售銷售無論環比還是同比均大幅反彈，表明消費者支出的表現好於6月的下滑所暗示的情況。這對於日本央行正在討論的國內需求能否持續成為推動通脹的動力而言具有重要意義。"
-    },
-    {
-      "id": "5067548",
-      "time": "2026-08-31 08:18:19",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金公司：沃什表態轉鷹 市場認可以短期鷹派換取長期穩定】中金公司研報表示，北京時間8月28日晚，美聯儲主席沃什在Jackson Hole全球央行年會上發表主旨演講。整體看，沃什表態轉鷹，再次強調以PCE衡量的2%通脹目標，並重申美聯儲維護價格穩定的職責。市場也對此報以鷹派反應，2年利率跳升超過10bp，美元大漲，黃金大跌3%，CME期貨對9月加息的預期從35%跳升至58%。不過鷹派的反應卻不是恐慌式的波動，美股波動有限，10年美債利率僅走高4bp，30年美債反而回落，表明市場認可以短期的鷹派換取長期的穩定。"
-    },
-    {
-      "id": "5067547",
-      "time": "2026-08-31 08:18:12",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數下跌 晶片股走弱 此前美聯儲主席沃什發表鷹派講話】韓國股市基準Kospi指數一度下跌3.6%，晶片股下跌，此前美聯儲主席凱文·沃什發表鷹派講話，誓言對抗通貨膨脹。三星和SK海力士對股指構成最大拖累，跌幅均超過3%。外國投資者在早盤交易中淨賣出Kospi股票，而散戶投資者則買入。Kosdaq小盤股指數下跌幅度一度達4%。"
-    },
-    {
-      "id": "5067546",
-      "time": "2026-08-31 08:17:20",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股大幅下跌，愛德萬測試股價下跌7.5%，軟銀集團下跌4.3%。"
     }
   ]
 }
