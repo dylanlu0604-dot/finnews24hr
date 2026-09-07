@@ -1,7 +1,180 @@
 {
-  "updated": "2026-09-07 09:27:10",
+  "updated": "2026-09-07 09:31:03",
   "count": 14124,
   "items": [
+    {
+      "id": "mkt:01a0797d-0c04-7118-84bf-17e5312f9359",
+      "time": "2026-09-07 09:30:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (Aug) | actual 7.8% | previous 2.1%"
+    },
+    {
+      "id": "mkt:01a0797c-d753-7118-84bf-0fecc7e664af",
+      "time": "2026-09-07 09:30:19",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Aug seasonally adjusted ANZ total job ads +2.5% MoM; prior +0.8%."
+    },
+    {
+      "id": "mkt:01a0797c-b55f-7118-84bf-035b77d0b14f",
+      "time": "2026-09-07 09:30:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (Aug) | actual 2.5% | previous 0.80%"
+    },
+    {
+      "id": "5079903",
+      "time": "2026-09-07 09:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞8月ANZ招聘廣告環比 2.5%，前值 0.8%。"
+    },
+    {
+      "id": "5079902",
+      "time": "2026-09-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.72%， 滬深300指數期貨連續漲0.57%， 中證500指數期貨連續漲0.80%， 上證50指數期貨連續漲0.36%。"
+    },
+    {
+      "id": "5079901",
+      "time": "2026-09-07 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.22%，成分股中，柏楚電子漲6.11%，瀾起科技漲3.89%，佰維儲存漲3.15%，生益電子漲3.08%。"
+    },
+    {
+      "id": "5079900",
+      "time": "2026-09-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.04%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5079899",
+      "time": "2026-09-07 09:29:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "CAPITAL RESEARCH：持有任天堂5.2%股份。"
+    },
+    {
+      "id": "5079898",
+      "time": "2026-09-07 09:29:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國極右翼政黨州選舉創歷史最佳成績 沉重打擊默茨及建制派】根據ARD播出的預測結果，德國選擇黨在東部的薩克森-安哈爾特州獲得44%的選票，意味著該黨支援率增加了逾一倍，領先長期執政的基督教民主聯盟，後者的得票率暴跌至17.5%。與此同時，這也意味著德國選擇黨距離在州議會取得過半數席位僅差3席。週一亞洲早盤交易時段，德國國債期貨小幅下跌。10年期德國國債期貨下跌2點，至122.17。此前兩個交易日累計上漲40點。Rabobank的全球策略師Michael Every在報告中寫道，“市場會不會開始考慮德國未來幾年出現第二次結構性轉變？”他表示，首先，德國永遠不會大規模舉債是否會變成正在大舉借債；其次，德國政局穩定會不會變成不穩定。"
+    },
+    {
+      "id": "mkt:01a0797c-01fb-7118-84be-fc8132ff004c",
+      "time": "2026-09-07 09:29:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share planting and forestry sector opened higher in the pre-open auction. Yasheng Group recorded a third consecutive daily limit-up; Pingtan Development, Hainan Rubber, Dunhuang Seed, Shennong Seed and Wanxiang Denong also advanced."
+    },
+    {
+      "id": "mkt:01a0797b-c162-7118-84be-f74986fa66df",
+      "time": "2026-09-07 09:29:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "China A-share storage chip sector opened higher in the pre-market call auction; Puran rose nearly 6%, Jingzhida nearly 5%, Montage Technology, Dapuwei and Juchen each up 3.8%, Huada Jiutian and Shenkeda also advanced."
+    },
+    {
+      "id": "5079897",
+      "time": "2026-09-07 09:29:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股儲存晶片板塊競價高開，普冉股份漲近6%，精智達漲近5%，瀾起科技、大普微、聚辰股份均漲3.8%，華大九天、深科達等跟漲。"
+    },
+    {
+      "id": "5079896",
+      "time": "2026-09-07 09:27:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊高開，亞盛集團3連板】種植業與林業板塊高開，亞盛集團3連板，平潭發展、海南橡膠、敦煌種業、神農種業、萬向德農跟漲。"
+    },
+    {
+      "id": "mkt:01a0797a-8847-7118-84be-ee76d94572e5",
+      "time": "2026-09-07 09:27:48",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share non-metallic materials sector opened higher in the opening auction; Changjiang Materials hit the daily limit-up in the auction, while Yuegui, Tianma New Materials, Shiying, Lianrui New Materials and Bingyang Technology also rose."
+    },
+    {
+      "id": "mkt:01a0797a-19e1-7118-84be-e697694fd1e8",
+      "time": "2026-09-07 09:27:20",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened higher by 12.39 points (0.32%) at 3,942.51 on Monday, Sept. 7; Shenzhen Composite opened higher by 88.05 points (0.65%) at 13,605.02; CSI 300 Index opened higher by 19.84 points (0.44%) at 4,567.89; ChiNext Index opened higher by 39.87 points (1.21%) at 3,326.42; STAR 50 Index opened higher by 19.22 points (1.22%) at 1,596.58."
+    },
+    {
+      "id": "mkt:01a0797a-1233-7118-84be-df6c639fa3ed",
+      "time": "2026-09-07 09:27:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Liquidity indicator: Market rates steady, PBOC continues liquidity injections】Early Sept. 7, DR007 was flat at 1.3726%. The PBOC conducted a CNY 500mln 7-day reverse repo, fully meeting primary dealers' demand, and executed CNY 500bln outright reverse repos. DR007 is treated as China’s short-end rate anchor; the spread versus the PBOC 7-day reverse repo signals funding conditions—a material DR007 premium implies tightness, parity or a discount implies ample liquidity."
+    },
+    {
+      "id": "5079895",
+      "time": "2026-09-07 09:26:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【非金屬材料板塊高開，長江材料漲停】非金屬材料板塊高開，長江材料漲停，粵桂股份、天馬新材、石英股份、聯瑞新材、秉揚科技跟漲。"
+    },
+    {
+      "id": "5079894",
+      "time": "2026-09-07 09:26:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【主要貨幣對走勢顯示日元行情正在好轉】外匯交易員對日元持有的看法日益樂觀，這一轉變首先體現在主要交叉貨幣對上。日元兌歐元、瑞士法郎和英鎊的升勢，很可能蔓延至美元兌日元匯率。實際干預與口頭干預的不斷出現，加上日本央行可能加息的前景，正在改善日元的整體環境。此外，日本政府養老金投資基金GPIF可能開始將更多資金匯回國內購買日本債券，這一可能性也隱隱在背後發酵。"
+    },
     {
       "id": "5079893",
       "time": "2026-09-07 09:26:14",
@@ -129191,170 +129364,6 @@
         "焦點"
       ],
       "text": "北證50日內跌幅達1.14%，成分股中，國子軟體跌5.29%，戈碧迦跌3.63%，艾融軟體跌2.81%，貝特瑞跌2.39%。"
-    },
-    {
-      "id": "5067666",
-      "time": "2026-08-31 09:30:57",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳大利亞央行：7月經季節調整後私營部門信貸環比增長0.6%。"
-    },
-    {
-      "id": "te:markets:579311",
-      "time": "2026-08-31 09:30:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Holds Gains on Hawkish Warsh Remarks — The dollar index traded around 99.6 on Monday after rising sharply in the previous session, as hawkish remarks from Federal Reserve Chair Kevin Warsh led traders to increase bets on an imminent interest rate hike. In his Jackson Hole address on Friday, Warsh warned that inflation is not slowing meaningfully and reaffirmed that policymakers remain committed to returning inflation to their 2% target. Markets are now pricing in around a 57% chance that the Fed will raise rates by 25 basis points in September, up sharply from about 40% a week ago. A surprise upward revision to the University of Michigan’s consumer sentiment index also provided support for the dollar. Investors now turn their attention to Friday’s August jobs report for greater clarity on the outlook for US monetary policy. Elsewhere, oil prices jumped after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, boosting safe-haven demand for the greenback."
-    },
-    {
-      "id": "5067665",
-      "time": "2026-08-31 09:30:30",
-      "tags": [
-        "資料",
-        "焦點"
-      ],
-      "text": "中國8月官方製造業PMI 49.8，預期49.6，前值49.2。"
-    },
-    {
-      "id": "5067664",
-      "time": "2026-08-31 09:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞二季度企業庫存季環比 -0.2%，前值 0.5%。\n澳大利亞二季度企業營業利潤季環比 1.8%，前值 -1.3%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608313859626536",
-      "time": "2026-08-31 09:30:06",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【統計局：中國8月官方製造業PMI為49.8% 比上月上升0.6個百分點】8月份，製造業採購經理指數（PMI）為49.8%，比上月上升0.6個百分點，景氣水平回升。從分類指數看，構成製造業PMI的5個分類指數中，生產指數、新訂單指數和供應商配送時間指數均高於臨界點；原材料庫存指數、從業人員指數低於臨界點。"
-    },
-    {
-      "id": "5067663",
-      "time": "2026-08-31 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.34%，成分股中，中控技術跌6.66%，盛科通訊跌4.12%，瀾起科技跌4.08%，生益電子跌3.79%。"
-    },
-    {
-      "id": "5067662",
-      "time": "2026-08-31 09:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.07%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "5067661",
-      "time": "2026-08-31 09:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.13%， 滬深300指數期貨連續跌0.86%， 中證500指數期貨連續跌1.16%， 上證50指數期貨連續跌0.81%。"
-    },
-    {
-      "id": "te:markets:579310",
-      "time": "2026-08-31 09:29:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Muted, Fifth Monthly Gain in Sight — Australian equities were little changed in early Monday trade, hovering near 9,090 after the prior session’s rise. Traders braced for a busy data slate, including Q2 business inventories, company gross profits, July private credit, and the monthly inflation gauge, with Q2 GDP and July trade figures due later this week. China’s July PMI readings were also awaited. Meanwhile, U.S. futures weakened after Fed Chair Warsh’s hawkish remarks bolstered bets on a September rate hike, while reports said the U.S. struck Iranian rocket launchers preparing to mine the Strait of Hormuz, ending weeks of calm. Declines in tech, industrials, and non-energy minerals nearly offset gains in financials and energy minerals. The big four banks rose 1.6%–2.2%, with Ampol Ltd. up 1.6% and Whitehaven Coal adding 1.5%. On the downside, BHP Group fell 1.7%, along with Northern Star Resources (-4.6%). Still, markets are on track for a fifth straight monthly gain, up about 1.4% so far, supported by bargain hunting."
-    },
-    {
-      "id": "5067660",
-      "time": "2026-08-31 09:29:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【黃金、有色金屬板塊多數低開，盛達資源跌10%】黃金、有色金屬板塊多數低開，盛達資源跌10%，曉程科技、湖南白銀、白銀有色、萊紳通靈紛紛低開。訊息面上，沃什在年會上明確重申2%通脹目標不會妥協，如果通脹回落速度不及預期，美聯儲仍會繼續收緊貨幣政策。"
-    },
-    {
-      "id": "5067659",
-      "time": "2026-08-31 09:29:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7582.00點。"
-    },
-    {
-      "id": "5067658",
-      "time": "2026-08-31 09:29:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7761.00點。"
-    },
-    {
-      "id": "5067657",
-      "time": "2026-08-31 09:28:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "韓華航空航天公司：與西班牙英德拉系統公司簽署K9自行火炮供應合同。"
-    },
-    {
-      "id": "te:markets:579309",
-      "time": "2026-08-31 09:28:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Rises on Fresh Middle East Fighting — European natural gas prices rose near €69/MWh, the highest level since January 2023, as renewed fighting in the Middle East raised concerns over further delays to LNG exports from the Persian Gulf. Iran said on Sunday that it had launched an attack on US air bases in Jordan, hours after US forces struck two Iranian launchers in the Strait of Hormuz, heightening fears of further disruptions to shipping through the key waterway. The disruptions have already constrained LNG exports from major Gulf producers such as Qatar, tightening supplies to Europe during the critical gas-storage refill season. European gas storage facilities were 63% full in the final week of August, well below historical averages and among the lowest levels recorded for this time of year. Although the European Commission has recently indicated there is no immediate concern over gas supplies or storage levels, the risk remains that intensified competition with Asia for supplies could push prices even higher."
-    },
-    {
-      "id": "5067656",
-      "time": "2026-08-31 09:28:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK集團董事長：SK海力士考慮在日本建合資工廠生產儲存晶片。"
-    },
-    {
-      "id": "5067655",
-      "time": "2026-08-31 09:28:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國中證滬深黃金股票指數開盤下跌5%。"
-    },
-    {
-      "id": "5067654",
-      "time": "2026-08-31 09:28:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲5%，現報5282.00元。"
-    },
-    {
-      "id": "5067653",
-      "time": "2026-08-31 09:27:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國滬深300地產指數開盤漲4%。"
     }
   ]
 }
