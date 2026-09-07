@@ -1,7 +1,48 @@
 {
   "date": "2026-09-08",
-  "count": 122,
+  "count": 126,
   "items": [
+    {
+      "id": "5081514",
+      "time": "2026-09-08 03:51:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼多座機場因火山噴發關閉 影響逾34萬旅客】據印度尼西亞交通部7日的訊息，受喀拉喀託之子火山噴發影響，雅加達主要機場蘇加諾-哈達國際機場等多座機場仍處於關閉狀態，大量旅客出行受到影響。根據印尼交通部7日公佈的最新資料，已有超過34萬旅客受到影響。目前尚無法確定受影響機場何時能夠全面恢復執行。（央視新聞）"
+    },
+    {
+      "id": "5081513",
+      "time": "2026-09-08 03:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍呼籲歐盟立法：15歲以下禁使用社交媒體】法國總統馬克龍呼籲歐盟委員會主席馮德萊恩制定一項全歐洲範圍的法律，禁止15歲以下兒童使用社交媒體。馬克龍還提議制定統一的規則，用於識別並規範那些可能使使用者產生依賴性的功能。此外，他還呼籲為數字平臺確立預設的安全性強制標準。"
+    },
+    {
+      "id": "mkt:01a07d6c-698e-7118-84d3-0bc575bbaa33",
+      "time": "2026-09-08 03:50:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【IAEA says Assad-era Syrian reactor capable of efficiently producing weapons-usable fissile material】IAEA Director‑General Rafael Grossi said on Monday a reactor built in Deir ez‑Zor during the Assad era was designed to efficiently produce fissile material directly usable for nuclear weapons. The IAEA, which inspected the site in August with cooperation from Syria’s new government, confirmed newly discovered cooling infrastructure consistent with a reactor, found previously concealed nuclear material now placed under IAEA safeguards, and has installed on‑site cameras; monitoring will continue as excavation proceeds."
+    },
+    {
+      "id": "mkt:01a07d6b-9d20-7118-84d3-00b0c64ec7b9",
+      "time": "2026-09-08 03:49:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Foreign Ministry said Foreign Minister Araghchi briefed the OIC's newly appointed secretary-general on the regional situation following US and Israeli military action against Iran, urging Islamic states to take unified, responsible measures to safeguard Iranian sovereignty. Araghchi invited the OIC secretary-general to visit Tehran as soon as possible."
+    },
     {
       "id": "mkt:01a07d68-836f-7118-84d2-fe48781e8dcb",
       "time": "2026-09-08 03:46:36",
