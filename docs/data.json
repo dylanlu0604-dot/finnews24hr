@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-08 06:54:08",
-  "count": 14084,
+  "updated": "2026-09-08 06:58:04",
+  "count": 14079,
   "items": [
+    {
+      "id": "te:markets:581734",
+      "time": "2026-09-08 06:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Lower, Extends Losses — New Zealand stocks fell 27 points, or 0.2%, to 13,916 in Tuesday morning deals, extending losses from the previous session, mainly weighed down by financials, materials, tech, and utilities. Traders were cautious ahead of China's trade data due later today, with China being New Zealand's top trade partner, as well as CPI and PPI data due later this week. Rising oil prices also pressured sentiment amid the escalating conflict in the Middle East, raising concerns over inflation and boosting bets that central banks would raise interest rates. However, a report from Moody's ratings agency capped the fall, saying New Zealand's economic recovery is underway but warning that several issues remain unresolved. Among the early losers were Summerset Group (-1.2%), Fletcher Building (-0.8%), ANZ Group (-0.7%), Vulcan Steel (-0.7%), Infratil (-0.5%), and Auckland International Airport (-0.5%)."
+    },
     {
       "id": "5081573",
       "time": "2026-09-08 06:53:29",
@@ -128735,61 +128747,6 @@
         "其他"
       ],
       "text": "Anthropic：在發生安全漏洞事件後，調派 150 名工程師負責安全工作。臨時調配工程師，將工作重心轉向安全事務。已暫停預釋出模型的網路安全測試。"
-    },
-    {
-      "id": "te:markets:579676",
-      "time": "2026-09-01 06:57:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Tracks Wall Street Lower — New Zealand stocks dropped 66 points, or 0.5%, to 13,851 in Tuesday morning deals, halting gains in the previous session and tracking a decline on Wall Street overnight as rising oil prices raised inflation concerns amid escalating Middle East tensions. Traders were cautious ahead of the RBNZ's monetary policy decision this week, with the market expecting the central bank to raise interest rates by 25 bps after raising them in May. Traders continued to assess the government's decision to delay fuel excise rises from January 1, 2027, ahead of the general election, which is scheduled to be held in November 2026. However, Monday's data capped the fall as August's business confidence remained at a historically strong level, though easing from July's five-month high. Industrials, consumer staples, and healthcare mainly weighed on the index, with the biggest laggards being Auckland International Airport (-2.2%), Ryman Healthcare (-1.4%), Meridian Energy (-1.3%), and A2 Milk (-1.1%)."
-    },
-    {
-      "id": "mkt:01a05a0a-3390-7118-8422-1b34785a7846",
-      "time": "2026-09-01 06:56:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said a tanker departing the Strait of Hormuz reported being struck by three unidentified aerial objects; no casualties or environmental impact were reported."
-    },
-    {
-      "id": "5069519",
-      "time": "2026-09-01 06:56:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic重新任命150名工程師。"
-    },
-    {
-      "id": "5069518",
-      "time": "2026-09-01 06:55:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：暫無人員傷亡或環境影響的相關報告。"
-    },
-    {
-      "id": "5069517",
-      "time": "2026-09-01 06:54:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：一艘油輪報告其在霍爾木茲海峽完成出海峽航行途中遭到三枚未知拋射物擊中。"
-    },
-    {
-      "id": "5069516",
-      "time": "2026-09-01 06:54:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室： 收到一則發生在阿曼海哈薩布以東 17 海里處的事件報告。"
     }
   ]
 }

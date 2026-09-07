@@ -1,7 +1,19 @@
 {
   "date": "2026-09-08",
-  "count": 212,
+  "count": 213,
   "items": [
+    {
+      "id": "te:markets:581734",
+      "time": "2026-09-08 06:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Lower, Extends Losses — New Zealand stocks fell 27 points, or 0.2%, to 13,916 in Tuesday morning deals, extending losses from the previous session, mainly weighed down by financials, materials, tech, and utilities. Traders were cautious ahead of China's trade data due later today, with China being New Zealand's top trade partner, as well as CPI and PPI data due later this week. Rising oil prices also pressured sentiment amid the escalating conflict in the Middle East, raising concerns over inflation and boosting bets that central banks would raise interest rates. However, a report from Moody's ratings agency capped the fall, saying New Zealand's economic recovery is underway but warning that several issues remain unresolved. Among the early losers were Summerset Group (-1.2%), Fletcher Building (-0.8%), ANZ Group (-0.7%), Vulcan Steel (-0.7%), Infratil (-0.5%), and Auckland International Airport (-0.5%)."
+    },
     {
       "id": "5081573",
       "time": "2026-09-08 06:53:29",
