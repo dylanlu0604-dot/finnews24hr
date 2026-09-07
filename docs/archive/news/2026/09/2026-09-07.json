@@ -1,7 +1,102 @@
 {
   "date": "2026-09-07",
-  "count": 434,
+  "count": 444,
   "items": [
+    {
+      "id": "5079868",
+      "time": "2026-09-07 09:11:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓比索兌美元跌至紀錄低點，1美元兌62.719比索。在所有亞洲新興市場貨幣兌美元均上漲的季度裡， 比索卻下跌。今年以來，披索已下跌6%，是該地區表現最差的貨幣。"
+    },
+    {
+      "id": "5079867",
+      "time": "2026-09-07 09:10:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲6%，現報15755.00元。"
+    },
+    {
+      "id": "mkt:01a0796a-173a-7118-84be-7fb6a6d3621e",
+      "time": "2026-09-07 09:09:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "The Philippine peso weakened to 62.719 per US dollar, an all-time low."
+    },
+    {
+      "id": "te:markets:581441",
+      "time": "2026-09-07 09:09:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Jumps as US-Iran Conflict Escalates — European natural gas prices jumped more than 4% to above €74/MWh on Monday, their highest level in more than three and a half years, amid escalating US-Iran tensions that could further disrupt energy supplies from the Persian Gulf. Iran said it had targeted oil tankers and several US-linked vessels and plans to establish a restricted maritime zone beyond the Strait of Hormuz in the coming days. This followed US strikes on Iranian oil tankers, which Washington said were carried out in retaliation for Tehran’s missile attacks on US Navy warships. The continuing tit-for-tat escalation is heightening concerns that Qatari LNG shipments to Europe could be delayed even further. Europe is approaching the end of its summer storage injection period, with gas storage facilities currently around 62% full, below the five-year seasonal average. This increases the risk of tighter competition for supplies, leaving the region more exposed to price spikes during the colder months."
+    },
+    {
+      "id": "5079866",
+      "time": "2026-09-07 09:08:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：加息預期又升溫，黃金還能拿嗎？】上週貴金屬面臨的環境是美國經濟韌性，油價高漲下的通脹隱憂以及超預期非農強化下的加息回升預期，CME資料顯示加息預期仍在升溫通道中。若9月FOMC果真加息，將標誌著自2024年以來寬鬆週期的政策基調發生根本逆轉。然後市場對9月加息預期仍然只在60%以上，這也意味著加息並未完全定價，或者說市場不敢“過度”定價，這可能源於加息並不能解決因地緣政治衝突導致的油價高企的問題，亦存在美債問題的掣肘。因此我們看到，上週環境對黃金雖然不利，但黃金反彈之勢並未完全結束。綜合來看，9月美聯儲議息會議存在較大不確定性，黃金或更加關注美國經濟和通脹資料的表現，價格表現可能亦會反覆。建議採取區間思維的靈活配置思路。（光大期貨）"
+    },
+    {
+      "id": "5079865",
+      "time": "2026-09-07 09:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【軍事打擊疊加經濟施壓 伊朗阿巴斯港居民生計艱難】自美國和以色列對伊朗發起軍事行動以來，伊朗南部阿巴斯港及其周邊沿海地區屢遭襲擊。美國還針對伊朗實施海上封鎖，進一步向伊朗施壓。許多依賴阿巴斯港謀生的當地民眾表示，安全形勢惡化和經濟壓力正嚴重衝擊他們的生計。（央視）"
+    },
+    {
+      "id": "mkt:01a07968-46ff-7118-84be-713253f9cdf9",
+      "time": "2026-09-07 09:07:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract down more than 2.00% intraday, trading at 15,982 yuan/kg."
+    },
+    {
+      "id": "5079864",
+      "time": "2026-09-07 09:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4450美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "5079863",
+      "time": "2026-09-07 09:07:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報3173.00元。"
+    },
+    {
+      "id": "5079862",
+      "time": "2026-09-07 09:07:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【廖岷會見國際投資機構調研團】2026年9月4日，財政部副部長廖岷在北京會見滙豐銀行、淡馬錫等國際投資機構代表組成的調研團，就宏觀經濟形勢和政策、中美經貿關係等議題交換意見。"
+    },
     {
       "id": "5079861",
       "time": "2026-09-07 09:07:07",
