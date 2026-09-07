@@ -1,7 +1,77 @@
 {
   "date": "2026-09-08",
-  "count": 213,
+  "count": 221,
   "items": [
+    {
+      "id": "5081577",
+      "time": "2026-09-08 07:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞國家統計局公佈：上月哥倫比亞通脹率為0.39%。"
+    },
+    {
+      "id": "5081576",
+      "time": "2026-09-08 07:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府統計機構資料顯示，截至上月，哥倫比亞年度通脹率為6.24%。"
+    },
+    {
+      "id": "5081575",
+      "time": "2026-09-08 07:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國第二季度GDP同比增長3.7%，與此前預期一致。"
+    },
+    {
+      "id": "5081574",
+      "time": "2026-09-08 07:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國第二季度GDP環比增長0.6%，與此前預期持平。"
+    },
+    {
+      "id": "mkt:01a07e19-dfda-7118-84d3-d237fbebdd44",
+      "time": "2026-09-08 07:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea Q2 final annualized GDP 3.7%; consensus 3.70%, prior 3.70%."
+    },
+    {
+      "id": "mkt:01a07e19-dc43-7118-84d3-cf440c249907",
+      "time": "2026-09-08 07:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Q2 GDP final QoQ 0.6% (consensus 0.6%, prior 0.6%)."
+    },
+    {
+      "id": "mkt:01a07e19-bab7-7118-84d3-c438e714e5e5",
+      "time": "2026-09-08 07:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | GDP Final (YoY) (Q2) | actual 3.7% | consensus 3.70% | previous 3.70%"
+    },
+    {
+      "id": "mkt:01a07e19-b7dd-7118-84d3-b91d87e2c608",
+      "time": "2026-09-08 07:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | GDP Quarterly Final (Q2) | actual 0.6% | consensus 0.6% | previous 0.6%"
+    },
     {
       "id": "te:markets:581734",
       "time": "2026-09-08 06:54:37",

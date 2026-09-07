@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-08 06:58:04",
-  "count": 14079,
+  "updated": "2026-09-08 07:02:37",
+  "count": 14081,
   "items": [
+    {
+      "id": "5081577",
+      "time": "2026-09-08 07:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞國家統計局公佈：上月哥倫比亞通脹率為0.39%。"
+    },
+    {
+      "id": "5081576",
+      "time": "2026-09-08 07:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府統計機構資料顯示，截至上月，哥倫比亞年度通脹率為6.24%。"
+    },
+    {
+      "id": "5081575",
+      "time": "2026-09-08 07:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國第二季度GDP同比增長3.7%，與此前預期一致。"
+    },
+    {
+      "id": "5081574",
+      "time": "2026-09-08 07:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國第二季度GDP環比增長0.6%，與此前預期持平。"
+    },
+    {
+      "id": "mkt:01a07e19-dfda-7118-84d3-d237fbebdd44",
+      "time": "2026-09-08 07:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea Q2 final annualized GDP 3.7%; consensus 3.70%, prior 3.70%."
+    },
+    {
+      "id": "mkt:01a07e19-dc43-7118-84d3-cf440c249907",
+      "time": "2026-09-08 07:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Q2 GDP final QoQ 0.6% (consensus 0.6%, prior 0.6%)."
+    },
+    {
+      "id": "mkt:01a07e19-bab7-7118-84d3-c438e714e5e5",
+      "time": "2026-09-08 07:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | GDP Final (YoY) (Q2) | actual 3.7% | consensus 3.70% | previous 3.70%"
+    },
+    {
+      "id": "mkt:01a07e19-b7dd-7118-84d3-b91d87e2c608",
+      "time": "2026-09-08 07:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | GDP Quarterly Final (Q2) | actual 0.6% | consensus 0.6% | previous 0.6%"
+    },
     {
       "id": "te:markets:581734",
       "time": "2026-09-08 06:54:37",
@@ -128692,61 +128762,6 @@
         "Importance 2"
       ],
       "text": "Australia Manufacturing Growth Confirmed at 6-Month High — The S&P Global Flash Australia Manufacturing PMI was confirmed at 52.0 in August 2026, unchanged from the preliminary estimate, matching July's reading and remaining at the highest level since January. A reading above 50 indicates growth, signalling a further modest improvement in the overall health of the sector. The latest figure was supported by a faster rise in new orders since January, amid renewed export growth."
-    },
-    {
-      "id": "mkt:01a05a0e-63d7-7118-8422-3150fefa99f8",
-      "time": "2026-09-01 07:01:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK BRC shop price index rose to 1.5% year-on-year in August from 0.9% in July."
-    },
-    {
-      "id": "mkt:01a05a0e-4ad7-7118-8422-29ef2b3fbc67",
-      "time": "2026-09-01 07:01:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BRC Shop Price Index (YoY) (Aug) | actual 1.5% | previous 0.90%"
-    },
-    {
-      "id": "5069522",
-      "time": "2026-09-01 07:01:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國8月BRC商店價格指數同比 1.5%，前值 0.9%。"
-    },
-    {
-      "id": "5069521",
-      "time": "2026-09-01 07:00:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞8月標普全球製造業PMI終值 52，前值52。"
-    },
-    {
-      "id": "mkt:01a05a0d-2f89-7118-8422-23a46d76f1c8",
-      "time": "2026-09-01 07:00:08",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "Australia August S&P Global Manufacturing PMI (final) 52, prior 52."
-    },
-    {
-      "id": "5069520",
-      "time": "2026-09-01 06:59:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：在發生安全漏洞事件後，調派 150 名工程師負責安全工作。臨時調配工程師，將工作重心轉向安全事務。已暫停預釋出模型的網路安全測試。"
     }
   ]
 }
