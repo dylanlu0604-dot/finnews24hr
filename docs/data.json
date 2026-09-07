@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-07 23:45:27",
+  "updated": "2026-09-07 23:49:27",
   "count": 14262,
   "items": [
+    {
+      "id": "5081456",
+      "time": "2026-09-07 23:48:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳或立法允許使用者關閉社媒演算法選項】澳大利亞通訊部長阿妮卡·韋爾斯9月7日說，澳大利亞或將透過新法律，要求網際網路公司允許使用者關閉演算法選項。這是繼未成年人社交媒體禁令之後，澳大利亞對社交媒體的又一項整治手段。 (CCTV國際時訊)"
+    },
+    {
+      "id": "te:markets:581700",
+      "time": "2026-09-07 23:47:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Ends at 1-Week High — The CAC 40 reversed early losses to close about 0.3% up at 8303 on Monday, its highest level in a week and ranking among the strongest performers across Europe. Technology provided the main support, led by STMicroelectronics (+4%) following a renewed enthusiasm for artificial intelligence after the launch of GPT-6 Astra by OpenAI, the startup's \" world's smartest \" model. Schneider Electric and Legrand also advanced solidly, rising 2.7% and 2.4%, respectively. TotalEnergies gained 1.5%, supported by higher oil prices and news that it had completed several major contractual and commercial milestones for the Papua LNG project. Meanwhile, geopolitical tensions and rising energy prices kept traders on edge, while expectations of further rate hikes and mounting political uncertainty in Europe weighed on sentiment."
+    },
+    {
+      "id": "te:markets:581699",
+      "time": "2026-09-07 23:45:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 4-week Low — Rice decreased to 13.84 USD/cwt, the lowest since August 2026. Over the past 4 weeks, Rice lost 1.31%, and in the last 12 months, it increased 22%."
+    },
     {
       "id": "5081455",
       "time": "2026-09-07 23:44:00",
@@ -130483,30 +130514,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：我已向威特科夫和庫什納通報了戰場局勢，俄方在戰場進展寥寥，且為此付出了慘重傷亡代價。"
-    },
-    {
-      "id": "5069288",
-      "time": "2026-08-31 23:48:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：（與美國總統特使）談到確定訪問烏克蘭的日期。"
-    },
-    {
-      "id": "5069287",
-      "time": "2026-08-31 23:46:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我與特朗普總統的代表史蒂夫·威特科夫和賈裡德·庫什納進行了愉快的電話交談。"
-    },
-    {
-      "id": "5069286",
-      "time": "2026-08-31 23:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部宣告：沙特、巴基斯坦與土耳其將透過國防工業合作，致力於提升本國國防能力。"
     }
   ]
 }
