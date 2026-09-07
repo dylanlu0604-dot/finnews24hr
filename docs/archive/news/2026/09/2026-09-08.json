@@ -1,7 +1,23 @@
 {
   "date": "2026-09-08",
-  "count": 112,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:01a07d5e-6663-7118-84d2-e14377813428",
+      "time": "2026-09-08 03:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament held an in-person session attended by more than 200 MPs to discuss domestic, regional and international issues and public livelihood matters."
+    },
+    {
+      "id": "5081507",
+      "time": "2026-09-08 03:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳位列英國國王主持的人工智慧行業會議嘉賓名單。"
+    },
     {
       "id": "5081506",
       "time": "2026-09-08 03:32:31",
