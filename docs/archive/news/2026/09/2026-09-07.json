@@ -1,7 +1,113 @@
 {
   "date": "2026-09-07",
-  "count": 882,
+  "count": 893,
   "items": [
+    {
+      "id": "mkt:01a07a5a-3250-7118-84c3-d21670401934",
+      "time": "2026-09-07 13:32:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share Shenzhen Composite rose more than 2% in afternoon trade; ChiNext gained over 3.5%; Shanghai Composite recovered into positive territory; STAR 50 Index added 2.75%. More than 3,300 stocks advanced across both bourses."
+    },
+    {
+      "id": "5080246",
+      "time": "2026-09-07 13:31:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【東方證券：維持安克創新“買入”評級，目標價154.17元】東方證券研報指出，安克創新Q2延續高增，新品日就月將，毛/淨利率延續提升，經營現金流大幅改善。充電儲能領銜增長，多元渠道拓展、全球佈局均進一步深化。多品類協同持續完善，德國IFA釋出新品。儲能：在歐洲市場相繼釋出SolarbankMaxAC、Solarbank4E5000Pro；與澳大利亞知名新能源分銷商OSW簽署3GWh新能源儲能戰略合作協議。智慧創新：透過S、E、C系列的分層產品佈局覆蓋不同使用者群體，在安防、清潔、創意列印、母嬰等領域持續推新。智慧影音：兩款新品於AnkerDay全球首發，均搭載公司首款神經網路存算一體Thus™AI音訊晶片。與Tomorrowland達成多年全球戰略合作伙伴關係，進一步拓展品牌與全球年輕消費群體的線下互動觸點，強化全球化品牌的一體化表達。德國IFA釋出AnkerMindBase，打造家庭AI資料中樞。該行維持預測2026-28年EPS分別5.71/7.01/8.43元，維持可比公司2026年27XPE，維持目標價154.17元，維持“買入”評級。"
+    },
+    {
+      "id": "5080245",
+      "time": "2026-09-07 13:31:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【東方證券：維持比亞迪“買入”評級，海外銷量繼續高增長】東方證券研報指出，比亞迪國內銷量持續環比改善，海外銷量繼續高增長。8月公司銷量44.03萬輛，同比增長17.8%，環比增長5.0%；1-8月累計銷量266.80萬輛，同比下降6.8%。8月公司海外銷量18.95萬輛再創新高，同比增長134.4%，環比增長4.9%，海外銷量佔比43.0%。在歐洲市場，公司新能源車型銷量在西班牙、義大利、英國等市場位居首位。公司海外閃充戰略、多動力車型投放及本地化生產佈局將有望持續助力公司海外銷量及市場份額提升，2026上半年公司海外業務營收首次超過國內，預計未來海外市場將成為公司核心增長極。國內銷量環比繼續改善，中高階車型銷售佔比提升將促進公司國內盈利能力修復。該行預測2026-2028年EPS分別為4.64、5.39、6.18元，維持可比公司2026年PE平均估值27倍，目標價為125.28元，維持“買入”評級。"
+    },
+    {
+      "id": "5080244",
+      "time": "2026-09-07 13:30:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.01%，現報13788.173點；上證指數漲0.10%，現報3933.912點；創業板指漲3.52%，現報3402.196點。"
+    },
+    {
+      "id": "5080243",
+      "time": "2026-09-07 13:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7760.80點。"
+    },
+    {
+      "id": "5080242",
+      "time": "2026-09-07 13:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【濟州航空月底開通仁川、大邱至桂林臨時航線】據報道，韓國濟州航空9月7日表示，本月底將開通仁川至桂林、大邱至桂林兩條不定期直飛航線，為期兩個月。仁川至桂林航班將從本月23日起每週執飛四班（週三、週四、週六、週日）；大邱至桂林航班將從24日起每週執飛兩班（週四、週日）。這兩條航線已確定將執行至10月24日，目前正在辦理11月的執行許可程式。"
+    },
+    {
+      "id": "mkt:01a07a58-5ea8-7118-84c3-cc027f7b441d",
+      "time": "2026-09-07 13:30:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share non-metallic materials sector rose in afternoon trade after intraday swings; Taili Technology gained over 17%, Changjiang Materials and Kuncai Technology earlier hit daily limit-ups, while Jinbo, Lianrui New Materials and Jinge New Materials also rallied."
+    },
+    {
+      "id": "mkt:01a07a58-5bbb-7118-84c3-c655f6d38d66",
+      "time": "2026-09-07 13:30:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran restricted zone in Strait of Hormuz may be tied to Oman deal, could raise shipping risk】Stephen Zunes, founding director of Middle East studies at the University of San Francisco, says Iran’s plan to designate a restricted zone in the Strait of Hormuz may be linked to a transit-channel agreement under negotiation with Oman. If an Oman deal is feasible and acceptable to the US, Iran could scale back enforcement; if not, Tehran appears prepared to enforce the zone, making US rejection of the pact more difficult. A designated restricted area would expand the patrol and policing area for US forces and could deter shipowners and insurers from transiting the waterway, raising risk premia, insurance costs or rerouting. Gulf neighbours have a direct interest; if an Iran‑Oman agreement materially boosts shipping throughput they may support it — including via transit fees — and Oman and other Gulf states have been consulting on shaping Oman's position."
+    },
+    {
+      "id": "5080241",
+      "time": "2026-09-07 13:29:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗確定國家利益委員會一名成員週一表示，伊朗必須立足實力開展談判，絕不投降。"
+    },
+    {
+      "id": "5080240",
+      "time": "2026-09-07 13:28:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股培育鑽石板塊午後異動拉昇，恆盛能源直線拉昇漲超8%，沃爾德、英諾鐳射均漲5.5%，四方達、力量鑽石、惠豐鑽石等跟漲。"
+    },
+    {
+      "id": "5080239",
+      "time": "2026-09-07 13:28:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【非金屬材料板塊震盪走高，太力科技漲超17%】非金屬材料板塊震盪走高，太力科技漲超17%，長江材料、坤彩科技此前漲停，金博股份、聯瑞新材、金戈新材跟漲。"
+    },
     {
       "id": "mkt:01a07a56-f36d-7118-84c3-be71f1f6d084",
       "time": "2026-09-07 13:28:33",
