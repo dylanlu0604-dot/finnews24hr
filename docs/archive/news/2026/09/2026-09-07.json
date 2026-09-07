@@ -1,7 +1,92 @@
 {
   "date": "2026-09-07",
-  "count": 861,
+  "count": 870,
   "items": [
+    {
+      "id": "5080231",
+      "time": "2026-09-07 13:20:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇被塞爾維亞進步黨推舉為總理候選人】塞爾維亞N1電視臺報道稱，塞爾維亞進步黨總委員會5日一致決定，推舉現任總統武契奇為該黨議會選舉名單領銜人和總理候選人。若該黨勝選，武契奇將出任塞爾維亞總理。 武契奇5日接受推舉，並表示將在完成近期國事活動和出訪後辭去總統職務、參加議會選舉。武契奇稱，他希望在10月的選舉中，在各城市和鄉鎮取得令人信服的勝利，實現最強優勢。（環球網）"
+    },
+    {
+      "id": "5080230",
+      "time": "2026-09-07 13:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西對馬來西亞和越南PET樹脂作出反傾銷終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第958號決議，對原產於馬來西亞和越南的PET樹脂（葡萄牙語：resina PET）作出反傾銷肯定性終裁，決定徵收為期5年的反傾銷稅，具體如下：馬來西亞生產商/出口商Recron (Malaysia) Sdn Bhd.為24.28美元/噸、馬來西亞其他生產商/出口商為116.50美元/噸，越南生產商/出口商Billion Industrial (Vietnam) Co., Ltd、Haosheng Vina Co. Ltd.、Stavian Chemical Joint Stock Company以及越南其他生產商/出口商均為160.87美元/噸。本案涉及南共市稅號3907.61.00項下的產品。本決議自發布之日起生效。"
+    },
+    {
+      "id": "mkt:01a07a4e-88b7-7118-84c3-9708d174b754",
+      "time": "2026-09-07 13:19:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "China A-share ChiNext index rose over 3% in afternoon trade; Sci‑Tech Innovation 50 Index up over 2%. Yuanjie Technology surged ~13%; ChangXin Technology climbed ~7%."
+    },
+    {
+      "id": "5080229",
+      "time": "2026-09-07 13:19:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【因美國勞動節 美股今日休市一日】受美國勞動節假期影響，美國和加拿大股市將於9月7日（週一）休市一日。芝商所旗下貴金屬、美國原油期貨合約交易提前於北京時間8日02:30結束，股指期貨合約交易提前於北京時間8日01:00結束。洲際交易所旗下布倫特原油期貨合約交易提前於北京時間8日01:30結束。"
+    },
+    {
+      "id": "5080228",
+      "time": "2026-09-07 13:18:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國能源部長：汽油價格即將回落】美國能源部長克里斯・賴特週日謹慎預判，汽油價格即將迎來回落，但並未作出明確、具體的承諾。美國加油站零售油價達到勞動節週末的歷史最高水平，距離中期選舉也已不足兩個月。就在他參加多個週日時政訪談節目的同一時期，會對整體經濟產生連鎖影響的柴油價格也創下歷史新高。他在節目中表示：“我認為油價下行是一個合乎情理的預期。”在該節目以及其他訪談節目中，賴特指出，隨著傳統夏季駕車出行季結束，美國汽油需求通常會在勞動節之後出現下滑。賴特稱：“汽油產量即將提升，而需求將會下降。所以，如果要做判斷，油價下跌的可能性要大於上漲。”"
+    },
+    {
+      "id": "5080227",
+      "time": "2026-09-07 13:18:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3％，上證指數跌0.16％，深證成指漲1.6％。元件、CPO、光通訊等板塊漲幅靠前。"
+    },
+    {
+      "id": "5080226",
+      "time": "2026-09-07 13:18:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西對涉華玻璃纖維徵收臨時反傾銷稅】近日，巴西外貿委員會管理執行委員會（GECEX）釋出2026年第960號決議，決定對原產於中國和埃及的玻璃纖維徵收不超過 6個月的臨時反傾銷稅，分別為中國211.78－456.44美元/噸、埃及243.42美元/噸。涉案產品的南共市稅號為7019.12.90。本決議自發布之日起生效。"
+    },
+    {
+      "id": "te:economy:581508",
+      "time": "2026-09-07 13:17:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Singapore Retail Sales Growth at 14-Month Low — Retail sales in Singapore grew by 1.5% year-on-year in July 2026, marking the softest rise since May 2025 and slowing from a 4% increase in the previous month. The slowdown was mainly driven by declines in sales for department stores (-3.5% vs -9.8% in June), food and alcohol (-5.1% vs -1.2%), optical goods and books (-2.2% vs 0%), and other goods (-4% vs 1.1%). At the same time, turnover growth moderated for motor vehicles, parts and accessories (1.4% vs 3.6%), cosmetics toiletries and medical goods (4.5% vs 8.7%), and computer and telecommunications equipment (5.1% vs 11.6%). In contrast, revenues accelerated for recreational goods (13.9% vs 7.6%) and watches and jewelry (11.1% vs 10.6%). Meanwhile, total retail sales, excluding motor vehicles, parts and accessories, rose by 1.5%, following a 4.1% gain in June. On a seasonally adjusted monthly basis, retail activity increased by 0.9%, the same pace as in the preceding period."
+    },
+    {
+      "id": "5080225",
+      "time": "2026-09-07 13:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中鋼協：8月下旬重點統計鋼鐵企業日產粗鋼188.5萬噸 環比下降4%】中國鋼鐵工業協會最新資料顯示，2026年8月下旬，重點統計鋼鐵企業共生產粗鋼2074萬噸，平均日產188.5萬噸，日產環比下降4.0%；生鐵1941萬噸，平均日產176.5萬噸，日產環比下降3.0%；鋼材2209萬噸，平均日產200.8萬噸，日產環比增長4.8%。據此估算，本旬全國日產粗鋼239萬噸、環比下降4.0%，日產生鐵214萬噸、環比下降3.0%，日產鋼材383萬噸、環比增長2.0%。"
+    },
     {
       "id": "mkt:01a07a4a-82b1-7118-84c3-8fa441660abf",
       "time": "2026-09-07 13:14:58",
