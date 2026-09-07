@@ -1,7 +1,200 @@
 {
-  "updated": "2026-09-07 14:00:02",
-  "count": 14186,
+  "updated": "2026-09-07 14:03:55",
+  "count": 14204,
   "items": [
+    {
+      "id": "mkt:01a07a76-9f06-7118-84c4-b123788ebf5c",
+      "time": "2026-09-07 14:03:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Perm Krai governor says a Ukrainian drone struck a residential building, killing one and wounding four."
+    },
+    {
+      "id": "5080297",
+      "time": "2026-09-07 14:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多地“十五五”規劃提就業影響評估，將新技術就業影響納入監測】近日，多地陸續公佈“十五五”就業、人力資源社會保障領域規劃，在就業方面作出新的政策安排。《四川省就業促進“十五五”規劃》提出，建立健全就業影響評估機制，完善就業失業監測預警和就業風險防控體系。《重慶市“十五五”人力資源和社會保障事業發展規劃（2026—2030年）》提出，優先支援吸納就業能力較強的政策、專案和生產力佈局，探索就業友好型人工智慧技術發展路徑；當天釋出的規劃解讀還提出，開展新增高質量就業崗位調查。上海、湖北等地近期公佈的“十五五”規劃中，也出現類似安排。上海提出，對重大政策制定、重大專案確定、重大生產力佈局開展崗位創造和失業風險評估；湖北提出健全就業影響評估和監測預警機制，積極應對人工智慧等新技術發展對就業的影響。從這些規劃看，與以往強調穩就業、擴崗位相比，“十五五”時期就業政策的關注點進一步前移：在產業和專案佈局時提前評估就業影響，加強崗位需求預測，同時關注人工智慧等新技術帶來的崗位結構和技能需求變化。（新京報）"
+    },
+    {
+      "id": "5080296",
+      "time": "2026-09-07 14:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯彼爾姆州州長稱，烏克蘭對該州一棟居民樓發動無人機襲擊，造成1人死亡、4人受傷。"
+    },
+    {
+      "id": "5080294",
+      "time": "2026-09-07 14:02:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4390美元/盎司，日內跌0.93%。"
+    },
+    {
+      "id": "mkt:01a07a75-b669-7118-84c4-aca01145b3c9",
+      "time": "2026-09-07 14:02:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Microsoft",
+        "Meta Platforms",
+        "Amazon",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【AirTrunk: U.S. tech giants' interest in Australian data centers far exceeds expectations】AirTrunk Operating Pty said U.S. tech giants, pressured by rising pushback at home, are increasingly targeting Australia for data‑center builds because of political stability, abundant renewable power, ample land and proximity to Asian population centers. Sabu Whitlow, AirTrunk’s vice president for energy and utilities, said interest from Google, Apple, Meta, Amazon and Microsoft has outstripped expectations over the past six to eight months and is likely to convert into firm commitments and investment in the coming months and years."
+    },
+    {
+      "id": "5080293",
+      "time": "2026-09-07 14:02:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50期貨下跌0.14%，德國DAX期貨下跌0.21%，英國富時期貨下跌0.12%。"
+    },
+    {
+      "id": "mkt:01a07a75-6cb2-7118-84c4-a3a226d217e5",
+      "time": "2026-09-07 14:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK Halifax seasonally adjusted house price index fell 0.2% MoM in August, versus +0.1% expected and 0.0% in July."
+    },
+    {
+      "id": "mkt:01a07a75-633a-7118-84c4-990632715fa0",
+      "time": "2026-09-07 14:01:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK Halifax seasonally adjusted house price index YoY -0.4% in August, versus +0.2% expected and +0.1% in July."
+    },
+    {
+      "id": "mkt:01a07a75-422e-7118-84c4-965de24161a5",
+      "time": "2026-09-07 14:01:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (YoY) (Aug) | actual -0.4% | consensus 0.2% | previous 0.1%"
+    },
+    {
+      "id": "mkt:01a07a75-4163-7118-84c4-8fa755d6ee85",
+      "time": "2026-09-07 14:01:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (MoM) (Aug) | actual -0.2% | consensus 0.1% | previous 0%"
+    },
+    {
+      "id": "5080292",
+      "time": "2026-09-07 14:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【蘅東光碟中股價創歷史新高】9月7日午後，蘅東光(920045)股價持續拉昇，盤中一度漲20%，最高價達到555.1元/股，創歷史新高（前復權）。"
+    },
+    {
+      "id": "mkt:01a07a74-9200-7118-84c4-82c774f1d0dd",
+      "time": "2026-09-07 14:00:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July industrial production YoY (working-day adjusted) -1.6%; prior -0.1%."
+    },
+    {
+      "id": "mkt:01a07a74-6dbf-7118-84c4-7b6da33fc5d1",
+      "time": "2026-09-07 14:00:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (Jul) | actual -1.6% | previous -0.10%"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609073866610748",
+      "time": "2026-09-07 14:00:30",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國7月季調後工業產出月率報-1.1%，預期0.1%，前值0.20%。"
+    },
+    {
+      "id": "5080291",
+      "time": "2026-09-07 14:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞第二季度 GDP 同比下降 0.4%；預計-0.4%。"
+    },
+    {
+      "id": "mkt:01a07a73-e042-7118-84c4-76475f3fb443",
+      "time": "2026-09-07 14:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Germany July seasonally adjusted industrial production MoM -1.1% vs +0.1% forecast; June +0.2%."
+    },
+    {
+      "id": "5080290",
+      "time": "2026-09-07 14:00:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月季調後工業產出月率 -1.1%，預期0.1%，前值0.20%。"
+    },
+    {
+      "id": "mkt:01a07a73-c669-7118-84c4-681ce551dfb7",
+      "time": "2026-09-07 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (Jul) | actual -1.1% | consensus 0.1% | previous 0.20%"
+    },
     {
       "id": "te:markets:581515",
       "time": "2026-09-07 13:58:19",
