@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-07 23:57:24",
-  "count": 14248,
+  "updated": "2026-09-08 00:01:48",
+  "count": 14242,
   "items": [
+    {
+      "id": "5081461",
+      "time": "2026-09-08 00:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破98關口，日內跌0.26%。"
+    },
     {
       "id": "5081460",
       "time": "2026-09-07 23:54:39",
@@ -130307,76 +130316,6 @@
         "其他"
       ],
       "text": "荷蘭聯合執政各政黨就2027年預算草案達成協議。"
-    },
-    {
-      "id": "mkt:01a0588d-938e-7118-841d-2ef768c55ea6",
-      "time": "2026-09-01 00:01:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Saudi Arabia, Pakistan, Turkey deepen Makkah Alliance defence cooperation, pledge de‑escalation】Saudi Arabia, Pakistan and Turkey agreed to deepen cooperation under the Makkah Alliance, pledging to strengthen deterrence, collective defence and defensive capabilities and to promote de‑escalation and restraint, the three countries said after the alliance's first political and defence strategy committee meeting. The pact covers defence-industrial cooperation, scaling up production capacity and technology development. The partners agreed to establish a secretariat in Saudi Arabia led by a secretary-general, with Pakistan to head the secretariat for an initial three‑year term. The three governments said they are committed to implementing the agreement to pursue regional peace and contribute to broader security."
-    },
-    {
-      "id": "mkt:01a0588c-3ea1-7118-841d-2678a203771d",
-      "time": "2026-08-31 23:59:41",
-      "tags": [
-        "MKT News",
-        "GOOG.O"
-      ],
-      "text": "Sources: Alphabet (GOOG.O) also participated in MediaTek's bond issuance."
-    },
-    {
-      "id": "5069301",
-      "time": "2026-08-31 23:59:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科：Alphabet亦參與本次債券發行。"
-    },
-    {
-      "id": "mkt:01a0588b-9f41-7118-841d-1e491541c7df",
-      "time": "2026-08-31 23:59:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "XLF",
-        "Impact bearish",
-        "JPM.O"
-      ],
-      "text": "Fed Chair Kevin Warsh said the U.S. will continue to pursue reform-driven bank regulation."
-    },
-    {
-      "id": "te:markets:579641",
-      "time": "2026-08-31 23:58:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Flat — The FTSE MIB closed flat at 52,613 on Monday as markets assessed the impact that new strikes between Iran and the US can have on the economy. Oil prices rose, supporting gains on energy stocks, including Tenaris (3%) and Saipem (2.3%). ENI added 2.3% after reports that it was close to signing final agreements in Venezuela. Stellantis gained 1.6% as Canada’s largest private-sector union, Unifor, was reportedly set to begin negotiations with the automaker following the US imposition of 50% tariffs on Canada. Financials remained mixed amid ongoing merger activity. MPS rose 1.5% despite pressure from Consob, which received another complaint concerning its takeover bids for Banco BPM (0.6%) and Generali-controlled (1.0%) Banca Generali. On the downside, defense stocks underperformed, led by Avio (-2.9%) and Leonardo (-2.2%) following news that defense contractor Noble Supply & Logistics had filed for bankruptcy. Utilities also weakened amid higher European gas prices."
-    },
-    {
-      "id": "5069300",
-      "time": "2026-08-31 23:58:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美國銀行業監管將繼續秉持改革導向。"
-    },
-    {
-      "id": "5069299",
-      "time": "2026-08-31 23:58:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報16168.00元。"
     }
   ]
 }
