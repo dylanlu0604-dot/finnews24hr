@@ -1,7 +1,671 @@
 {
   "date": "2026-09-08",
-  "count": 38,
+  "count": 108,
   "items": [
+    {
+      "id": "5081504",
+      "time": "2026-09-08 03:23:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲前眾議長因涉嫌防洪專案腐敗被執行逮捕令】據菲律賓媒體報道，菲律賓警方7日在大馬尼拉地區一家醫院，向涉嫌防洪專案腐敗的前眾議長、菲總統馬科斯的表弟馬丁·羅穆亞爾德斯送達逮捕令。（新華社）"
+    },
+    {
+      "id": "mkt:01a07d4f-0e6c-7118-84d2-cee0fefe4359",
+      "time": "2026-09-08 03:18:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported Iran's tax authority spokesman said tax revenue rose 55% year-on-year in the first five months of the year. (Under the Persian calendar, the eighth month is the fifth month of the year.)"
+    },
+    {
+      "id": "mkt:01a07d48-9439-7118-84d2-c4c1805b8a8a",
+      "time": "2026-09-08 03:11:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The General Staff of the Armed Forces of Ukraine said 181 combat engagements occurred on the Russia-Ukraine front on Sept. 7 as of 22:00 local time (03:00 Beijing time on Sept. 8)."
+    },
+    {
+      "id": "5081503",
+      "time": "2026-09-08 03:07:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會聯合多州就秘密廣告附加費機制起訴亞馬遜。"
+    },
+    {
+      "id": "mkt:01a07d44-8a32-7118-84d2-bacb737375ec",
+      "time": "2026-09-08 03:07:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia’s embassy in Vietnam said the navy training ship Perekop docked at Cam Ranh port on Sept. 7-8; the visit was described as aimed at further strengthening traditional Russia–Vietnam ties."
+    },
+    {
+      "id": "mkt:01a07d43-2ca3-7118-84d2-b128b19d4d69",
+      "time": "2026-09-08 03:05:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures fell 0.32% in the night session to 25,254, trading 159 points below the spot index."
+    },
+    {
+      "id": "mkt:01a07d40-c77e-7118-84d2-acf4e5525b9e",
+      "time": "2026-09-08 03:03:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Pakistan's president says that amid the current Middle East conflict the Pakistan Navy is ensuring continuity of critical maritime energy supplies through \"Operation Sea Guardian,\" safeguarding national energy security and an economic lifeline."
+    },
+    {
+      "id": "5081502",
+      "time": "2026-09-08 03:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：只有守護好歐盟的外部邊界，申根區才能得到最大限度維護，這需要所有成員國繼續在打擊人口販子和大規模非法移民的行動中各司其職。"
+    },
+    {
+      "id": "mkt:01a07d3f-acb7-7118-84d2-a5efb166e882",
+      "time": "2026-09-08 03:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said Turkey will continue to prioritize investment, employment, production and exports over the next three years."
+    },
+    {
+      "id": "5081501",
+      "time": "2026-09-08 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.33%，報25252.92點，低水160.20點。"
+    },
+    {
+      "id": "5081500",
+      "time": "2026-09-08 02:59:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈現已為奧地利航空航班提供高速、穩定的機上網路服務，乘客可在三萬英尺高空暢快刷影片、瀏覽網頁。"
+    },
+    {
+      "id": "mkt:01a07d3d-08b4-7118-84d2-9ec7f4c9cbbf",
+      "time": "2026-09-08 02:59:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Starlink is now providing Austrian Airlines with high-speed, reliable inflight internet service."
+    },
+    {
+      "id": "mkt:01a07d38-ea5d-7118-84d2-9042ee39bd84",
+      "time": "2026-09-08 02:54:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported the Yemen military said Houthi forces again used a ballistic missile to attack Mocha port."
+    },
+    {
+      "id": "mkt:01a07d38-d75d-7118-84d2-898de2ca33a0",
+      "time": "2026-09-08 02:54:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Al Arabiya sources say Yemeni Houthi forces launched a ballistic missile at an IDP camp in Raghwan district, Marib province, central Yemen."
+    },
+    {
+      "id": "5081499",
+      "time": "2026-09-08 02:48:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行設定比索官方匯率為 1 美元兌 16.9237 比索。"
+    },
+    {
+      "id": "mkt:01a07d2b-3a64-7118-84d2-832bc89e48c2",
+      "time": "2026-09-08 02:39:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Ardabil province governor said authorities are moving to fully operationalize the province's free-trade industrial zone, prioritizing infrastructure upgrades and expanded investment to spur local economic growth."
+    },
+    {
+      "id": "mkt:01a07d29-b061-7118-84d2-7c27e80af581",
+      "time": "2026-09-08 02:37:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed two Palestinian militants in Gaza Strip】The Israeli military said on the 7th it conducted two airstrikes in the Gaza Strip in recent days, killing one Hamas militant and one Palestinian Islamic Jihad militant."
+    },
+    {
+      "id": "5081498",
+      "time": "2026-09-08 02:35:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶打死兩名巴勒斯坦武裝人員】以色列國防軍7日說，以軍近日在加沙地帶發動兩次空襲，分別打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）各一名武裝人員。以軍發表宣告說，以軍6日在加沙地帶沙提地區發動空襲，打死傑哈德成員蘇卜希·哈德爾·阿薩姆·巴特里希。以軍稱，此人曾參與埋設爆炸裝置、襲擊在加沙地帶活動的以軍部隊。 宣告還說，以軍在上週發動的空襲中，打死哈馬斯“努赫巴”部隊成員艾哈邁德·福阿德·哈利勒·哈拉斯。以軍稱，此人也曾參與埋設爆炸裝置並襲擊以軍。宣告稱，兩人近期持續策劃針對以軍和以色列平民的襲擊，因此以軍對其實施打擊。（新華社）"
+    },
+    {
+      "id": "mkt:01a07d23-95c7-7118-84d2-72558c7808ae",
+      "time": "2026-09-08 02:31:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】As of 02:30, SHFE gold main contract closed down 0.04% at 954 yuan/gram; SHFE silver main contract closed up 0.74% at 16,143 yuan/kg; SC crude oil main contract closed up 1.73% at 700 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a07d23-3b29-7118-84d2-6dd41c333c94",
+      "time": "2026-09-08 02:30:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.09% at 951.3 yuan/gram in evening trade on Sep 7 (Monday); Silver T+D closed up 0.63% at 16,091 yuan/kg."
+    },
+    {
+      "id": "5081497",
+      "time": "2026-09-08 02:30:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【芬蘭完成芬俄邊境圍欄系統建設，未來或擴建】芬蘭7日宣佈，已完成芬蘭與俄羅斯邊境圍欄系統的建設，未來可能進一步擴大圍欄修建範圍。芬蘭邊防軍當日釋出公報說，這一圍欄系統旨在防止和延緩未經許可的越境活動。已建成圍欄總長約200公里，分佈在芬俄1300多公里邊境線上數十個地段。該系統包括高4.5米的圍欄、技術監控設施、道路網路以及沿圍欄設定的25米寬清障帶，總耗資約3.56億歐元。據芬蘭國家廣播公司報道，現有圍欄大部分集中在芬蘭東南部，少量分佈在更靠北地區。（新華社）"
+    },
+    {
+      "id": "te:markets:581724",
+      "time": "2026-09-08 02:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 1.95% — Top crypto losers are XRP (-1.95%), Binance (-1.75%), Bitcoin (-1.51%) and Ether (-0.97%)."
+    },
+    {
+      "id": "5081496",
+      "time": "2026-09-08 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.73%，報700.40元人民幣/桶。滬金夜盤收跌0.04%，滬銀收漲0.74%。"
+    },
+    {
+      "id": "te:markets:581723",
+      "time": "2026-09-08 02:25:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Slumps by 10.00% — Top commodity losers are Rice (-10%) and Coffee (-0.91%). Gains are led by Palm Oil (0.99%), Rubber (0.73%) and Rapeseed (0.64%)."
+    },
+    {
+      "id": "mkt:01a07d1b-967e-7118-84d2-67bf1464f958",
+      "time": "2026-09-08 02:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's defense ministry and government military spokesman issued a security warning asking civilians and vehicles to temporarily avoid five roads leading to al-Jawf and Marib provinces until further notice."
+    },
+    {
+      "id": "te:markets:581722",
+      "time": "2026-09-08 02:20:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 2.96% — Top commodity losers are Lithium Carbonate (-2.96%), Silicon (-1.37%) and Gold (-0.62%). Gains are led by Iron Ore CNY (1.03%) and Platinum (0.51%)."
+    },
+    {
+      "id": "5081495",
+      "time": "2026-09-08 02:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：伊朗議會國家安全與外交政策委員會討論了重新開放霍爾木茲海峽的條件，相關條件已轉達給伊朗外長阿拉格齊。"
+    },
+    {
+      "id": "mkt:01a07d18-a479-7118-84d2-59a3c7004273",
+      "time": "2026-09-08 02:19:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The IRGC said Iran's parliamentary National Security and Foreign Policy Committee discussed conditions for reopening the Strait of Hormuz and has conveyed those conditions to Foreign Minister Araghchi."
+    },
+    {
+      "id": "mkt:01a07d16-0e8d-7118-84d2-54c245628309",
+      "time": "2026-09-08 02:16:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's foreign minister said Russian forces are systematically using first-person-view (FPV) drones to attack civilians and that Kyiv will press the Organization for Security and Co-operation in Europe (OSCE) to invoke the \"Moscow Mechanism\" for an independent investigation."
+    },
+    {
+      "id": "te:markets:581721",
+      "time": "2026-09-08 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Rises by 3.23% — Top commodity gainers are Heating Oil (3.23%), Natural Gas UK (2.66%), Natural Gas EU (1.87%), Crude Oil (1.32%) and Brent Oil (1.09%). Biggest loser is Coking Coal (-0.73%)."
+    },
+    {
+      "id": "mkt:01a07d0f-dfe6-7118-84d2-4f4b0a311de3",
+      "time": "2026-09-08 02:09:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports a Yemeni military source said Saudi-backed fighters attempted an attack on Dhi Na'im in Bayda province, northeast of Sanaa, but suffered heavy losses."
+    },
+    {
+      "id": "mkt:01a07d0d-b930-7118-84d2-458297ecf27f",
+      "time": "2026-09-08 02:07:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran refinery startup to add 13 million liters/day gasoline, 3 million liters/day diesel】IRGC-run Sepahnews quoted Musaavi, deputy GM of HATAM Anbiya Oil & Gas Holding, saying the Mehr Persian Gulf Refinery coming online will raise Iran’s gasoline output by 13 million liters a day and diesel by 3 million liters a day."
+    },
+    {
+      "id": "5081494",
+      "time": "2026-09-08 01:56:36",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【“根本性脫節” — 德意志銀行策略師稱交易員錯估了美歐央行加息的力度】德意志銀行策略師Henry Allen認為，從價格面臨的上行壓力來分析，投資者低估了遏制通脹所需的加息幅度。他表示，一邊是對美聯儲和歐洲央行加息有限的展望，一邊卻是不斷攀升的通脹壓力，但這種“根本性脫節”看來無法持續。美國供應管理協會（ISM）上週四公佈的資料顯示，8月服務業原材料等價格漲幅達到了新冠疫情爆發後的水平，而當時美國CPI高達5%。“要麼通脹得下來，否則利率壓力就會繼續存在，” Allen在週一發表的研報中寫道。中東衝突的延宕持續推動石油和天然氣上漲，同時依然受阻的供應鏈和極端天氣也導致食品及金屬價格飆升。儘管美聯儲主席凱文·沃什上個月曾告誡說通脹並未出現實質性放緩，但互換市場仍預計美國央行2027年7月底前只會加息兩次。"
+    },
+    {
+      "id": "5081493",
+      "time": "2026-09-08 01:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：輸電線修復工作完成，扎波羅熱核電站今日重新接入電網。"
+    },
+    {
+      "id": "mkt:01a07d03-64cb-7118-84d2-3ecd460f1bee",
+      "time": "2026-09-08 01:56:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IAEA said the Zaporizhzhia nuclear power plant was reconnected to the grid today after power lines were successfully repaired."
+    },
+    {
+      "id": "mkt:01a07cfe-7130-7118-84d2-37a9419b5ed0",
+      "time": "2026-09-08 01:50:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA said Iran's ambassador to Russia, Kazem Jalali, said Iran and Russia finance ministers held a \"good and constructive\" meeting in Moscow on Monday local time."
+    },
+    {
+      "id": "mkt:01a07cfb-4ec2-7118-84d2-2d58e9a2ff8b",
+      "time": "2026-09-08 01:47:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil rose above $93/bbl, up 1.62% intraday."
+    },
+    {
+      "id": "5081492",
+      "time": "2026-09-08 01:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【鄭欽文戰勝斯維亞特克 晉級美網八強】在剛剛結束的2026年美國網球公開賽女單第四輪比賽中，中國選手鄭欽文以2:0戰勝六屆大滿貫冠軍、波蘭名將斯維亞特克，晉級八強。"
+    },
+    {
+      "id": "mkt:01a07cf9-d074-7118-84d2-22c8977122ce",
+      "time": "2026-09-08 01:45:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Hamas: Israeli clearing of Gaza rubble aimed at erasing \"war-crimes\" evidence】The Palestinian Islamic Resistance Movement (Hamas) said in a statement on the 7th local time that the Israeli government and military are attempting to clear, crush and remove rubble in the Gaza Strip to conceal crimes against Palestinians. Hamas said thousands of missing persons remain buried under the debris and that direct evidence proving Israel committed genocide over the past two years is buried there."
+    },
+    {
+      "id": "mkt:01a07cf6-6e93-7118-84d2-1e84dc04bdcb",
+      "time": "2026-09-08 01:41:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Canada must produce in the United States if it wants access to U.S. markets."
+    },
+    {
+      "id": "mkt:01a07cf6-06e7-7118-84d2-1288f1421881",
+      "time": "2026-09-08 01:41:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $97.31/bbl, up $1.03 or 1.1%."
+    },
+    {
+      "id": "mkt:01a07cf6-0234-7118-84d2-0d3b7a9381d3",
+      "time": "2026-09-08 01:41:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says the US will no longer sell products from Canadian aircraft maker Bombardier."
+    },
+    {
+      "id": "mkt:01a07cf5-4a9e-7118-84d2-055f3f546f6a",
+      "time": "2026-09-08 01:40:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran unveils new \"Qasim Bashir\" ballistic missile】Iran on the 7th unveiled a new ballistic missile named \"Qasim Bashir\". Tehran said the weapon offers longer range and higher accuracy, uses solid fuel and electro‑optical guidance, and carries a roughly half‑ton warhead; Iran described the debut as a shift from passive to active deterrence and said it sends a clear message to adversaries."
+    },
+    {
+      "id": "5081491",
+      "time": "2026-09-08 01:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：如果他們想要進入我們的市場，就必須在本土建廠。"
+    },
+    {
+      "id": "5081490",
+      "time": "2026-09-08 01:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國境內不再銷售龐巴迪產品。"
+    },
+    {
+      "id": "5081489",
+      "time": "2026-09-08 01:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯：以色列清理加沙廢墟旨在抹除“戰爭罪證”】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）當地時間7日發表宣告稱，以色列政府及軍方正試圖透過清理、粉碎和轉移加沙地帶的廢墟，來掩蓋其針對巴勒斯坦人犯下的罪行。宣告稱，廢墟之下仍掩埋著數千名失蹤者的遺體，以及能夠證明以色列“在過去兩年中犯下種族滅絕罪行”的直接物證。（央視新聞）"
+    },
+    {
+      "id": "5081488",
+      "time": "2026-09-08 01:37:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗公佈一款新型導彈】當地時間7日，伊朗公佈一款新型導彈。伊朗稱，該款名為“卡西姆·巴希爾”彈道導彈的亮相是該國國防戰略的一個里程碑。這款導彈射程更遠、精度更高，更象徵著伊朗“從被動威懾轉向主動威懾”。伊朗稱，“卡西姆·巴希爾”導彈採用固體燃料、光電制導和半噸重的彈頭，它向敵人發出明確的資訊：伊朗不再只是被動應對，而是主動防禦。（央視）"
+    },
+    {
+      "id": "5081487",
+      "time": "2026-09-08 01:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英首相與美總統通電話 討論俄烏衝突等議題】當地時間7日，英國首相府釋出訊息稱，英首相伯納姆當天與美國總統特朗普通電話。在烏克蘭問題上，雙方一致認為，應繼續推動實現停火。在中東問題上，伯納姆介紹了英國推動地區和平與安全的立場，並強調落實“兩國方案”、重新開放霍爾木茲海峽等問題的重要性。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07cf1-be9b-7118-84d1-fe707bfe3ec1",
+      "time": "2026-09-08 01:36:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanese National News Agency said Israeli warplanes struck Nabatieh al-Fawqa in southern Lebanon."
+    },
+    {
+      "id": "5081486",
+      "time": "2026-09-08 01:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月08日01時31分在雲南昭通市巧家縣附近（北緯27.01度，東經103.40度）發生4.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a07cee-040d-7118-84d1-f2ae2b8529c5",
+      "time": "2026-09-08 01:32:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $92 a barrel, up 1.57% on the day."
+    },
+    {
+      "id": "mkt:01a07ce6-3056-7118-84d1-e9a2a37c4045",
+      "time": "2026-09-08 01:24:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Zelenskiy: U.S. proposed Russia‑Ukraine \"winter de‑escalation\" plan; Russia open to talks】Axios reports Zelenskiy said a U.S. team is proposing temporary de‑escalation measures before and during winter to restart wider peace talks. The delegation — the U.S. Middle East special envoy and Jared Kushner — visited Kyiv after a three‑hour meeting with Putin in Moscow, Zelenskiy said. Washington signalled Russia may be willing to negotiate and floated measures covering energy and power infrastructure, grain shipments and oil and gas exports. The U.S. team will brief Trump and continue consultations with Ukraine and European partners. Zelenskiy said he hopes to restart diplomacy in September–October and that a U.S.‑Russia‑Ukraine trilateral meeting is possible but not yet decided."
+    },
+    {
+      "id": "mkt:01a07ce4-1f80-7118-84d1-e7dff6153926",
+      "time": "2026-09-08 01:22:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Rosatom says off-site power to the Zaporizhzhia nuclear plant has been restored via the Ferosplavna transmission line."
+    },
+    {
+      "id": "5081485",
+      "time": "2026-09-08 01:20:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能集團：扎波羅熱核電站已透過費羅斯普拉夫納輸電線恢復外部供電。"
+    },
+    {
+      "id": "5081484",
+      "time": "2026-09-08 01:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據烏克蘭方面報道，澤連斯基稱：美國正為烏克蘭提供一套獨立的 “冬季援助方案”。"
+    },
+    {
+      "id": "te:markets:581720",
+      "time": "2026-09-08 01:17:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Panama",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Panama Hit All-time High — BVPSI increased to an all-time high of 719.18 Index Points. Over the past 4 weeks, Bolsa de Valores de Panama General Index lost 0.58%, and in the last 12 months, it increased 36.04%."
+    },
+    {
+      "id": "mkt:01a07cde-5411-7118-84d1-da01ade969b5",
+      "time": "2026-09-08 01:15:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran first vice president says import gasoline subsidies to be phased out】Tasnim reported First Vice President Mohammad Reza Aref said the government will gradually phase out subsidies on imported gasoline; only about 15% of gasoline consumption is currently subject to the new pricing. The government has arranged for public transport vehicles to access gasoline at appropriate prices and approved a resolution prioritizing the retirement of aging vehicles and replacement with dual‑fuel and electric vehicles."
+    },
+    {
+      "id": "5081483",
+      "time": "2026-09-08 01:13:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所布倫特原油 11 月期貨結算價為每桶 97.00 美元。"
+    },
+    {
+      "id": "5081482",
+      "time": "2026-09-08 01:12:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴譴責美國封鎖造成 “創紀錄” 的經濟損失。"
+    },
+    {
+      "id": "mkt:01a07cda-bf0d-7118-84d1-d2021a7a231e",
+      "time": "2026-09-08 01:11:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuba condemned the U.S. embargo, saying it has caused 'record' economic losses."
+    },
+    {
+      "id": "mkt:01a07cd1-45e8-7118-84d1-cb9b29610ae3",
+      "time": "2026-09-08 01:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios: Ukrainian President Zelenskiy said on Monday the US is exploring whether Ukraine and Russia could take measures to ease the conflict over the winter and restart talks toward a broader peace agreement."
+    },
+    {
+      "id": "5081480",
+      "time": "2026-09-08 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.79%，滬銅收漲0.62%，滬鋁收漲0.43%，滬鋅收漲1.28%，滬鉛收跌0.59%，滬鎳收跌0.88%，滬錫收漲0.36%。氧化鋁夜盤收跌1.19%，鋁合金收平。不鏽鋼夜盤收跌0.47%。"
+    },
+    {
+      "id": "mkt:01a07cce-8448-7118-84d1-c0a784150ade",
+      "time": "2026-09-08 00:58:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UK prime minister speaks with Trump; discuss Ukraine ceasefire, reopening of Strait of Hormuz】UK prime minister held a phone call with US President Trump today, covering the economy, Ukraine and the Middle East. The prime minister congratulated Trump on recent US jobs data and said the UK economy is showing signs of positive growth. On Ukraine, the leaders agreed to continue efforts to secure a ceasefire to avoid further casualties; the prime minister reiterated support for Ukraine and recent US-led peace talks. On the Middle East, the prime minister said the UK is committed to regional peace and security, called for implementing a two-state solution, the reopening of the Strait of Hormuz, and stressed that Iran must never acquire nuclear weapons."
+    },
+    {
+      "id": "5081479",
+      "time": "2026-09-08 00:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI首席科學家稱AI或很快邁入自我進化階段 期望業界自願放緩開發】OpenAI首席科學家Jakub Pachocki警告，人工智慧正在以極快速度演進，以至於越來越難以為人類所理解和控制，並稱他期望AI實驗室將出於安全考慮自願放慢開發速度。Pachocki週日在一篇文章中寫道，在相對較短的時間內，AI模型已經能夠操作電腦、與人類及其他AI系統協作，並開展研究專案。他稱，用不了多久，這些模型還將能夠在沒有人類干預的情況下改進自身，這一過程被稱為“遞迴式自我改進”。“這是一個需要極度謹慎的時刻，”Pachocki寫道。“我擔心，沒有人為機器智慧持續快速提升所帶來的後果做好準備。”他寫道，開發者可以嘗試更嚴格地引導AI，使其與人類利益保持一致，也可以“在必要時放慢未來的開發速度”。他說：“我預計並希望，在建立共同安全門檻之前，自願放緩開發將成為普遍現象。”"
+    },
+    {
+      "id": "5081478",
+      "time": "2026-09-08 00:56:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國唐寧街： 關於烏克蘭問題，兩國領導人一致認為，需繼續推動實現停火，避免更多人員傷亡。伯納姆重申英國對烏克蘭的支援，以及對近期由美國主導的和平談判的支援。在中東問題上，伯納姆闡述英國致力於謀求地區和平與安全的立場，強調兩國方案、重新開放霍爾木茲海峽，以及確保伊朗永遠不會獲得核武器的重要性。兩位領導人期待不久後再次通話。"
+    },
+    {
+      "id": "5081477",
+      "time": "2026-09-08 00:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國唐寧街：英國首相伯納姆今日下午與美國總統特朗普通話。談及經濟議題，伯納姆對美國最新就業資料向特朗普表示祝賀，同時指出英國本國經濟顯現增長積極訊號。伯納姆稱，政府正在為英國營造更多向好態勢，相關工作已取得進展，但仍有更多工有待完成。"
+    },
+    {
+      "id": "mkt:01a07ccb-337d-7118-84d1-bf156cab9ad6",
+      "time": "2026-09-08 00:54:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A Downing Street spokesperson said the UK prime minister spoke by phone with US President Trump to discuss the economy, Ukraine and the Middle East."
+    },
+    {
+      "id": "5081476",
+      "time": "2026-09-08 00:53:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與伯納姆通電話。"
+    },
+    {
+      "id": "5081475",
+      "time": "2026-09-08 00:50:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲94美元，報14510美元/噸。LME期鋁收漲18美元，報3312美元/噸。LME期鋅收漲38美元，報3984美元/噸。LME期鉛收跌8美元，報1900美元/噸。LME期鎳收跌131美元，報16715美元/噸。LME期錫收漲275美元，報55141美元/噸。LME期鈷收跌1490美元，報44940美元/噸。"
+    },
+    {
+      "id": "te:economy:581719",
+      "time": "2026-09-08 00:47:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica Holds Deflationary Trend — Consumer prices in Costa Rica eased by 0.17% from the previous year in August of 2026, marking the softest deflation rate since the ongoing deflationary trend started in May of 2025 at -0.12%. The slowdown in the decline in prices took place despite a second consecutive monthly drop in the CPI (-0.11% vs -0.47% in July). Prices fell for transportation (-1.06%), contrary to global trends, as other Latin American economies are exposed to soaring fuel prices to a more immediate impact. In turn, prices soared for food and non-alcoholic beverages (1.01%)."
+    },
     {
       "id": "mkt:01a07cc1-46f9-7118-84d1-b4ddec3ce42f",
       "time": "2026-09-08 00:43:56",
