@@ -1,7 +1,41 @@
 {
   "date": "2026-09-08",
-  "count": 256,
+  "count": 260,
   "items": [
+    {
+      "id": "mkt:01a07e30-db6a-7118-84d4-1f8ca9419332",
+      "time": "2026-09-08 07:25:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Sources: Intel plans another 10% CPU price hike in early October】Supply-chain sources say Intel has been raising PC CPU prices over the past year and is tentatively planning a further 10% increase in early October. The move, despite a forecast modest decline in the PC market in 2027, signals a priority on boosting gross margins rather than sacrificing price for share. Suppliers warn that using low-margin thresholds to cull products could force some SKUs out of the market; any freed demand may create opportunities for Arm-based vendors such as MediaTek and Qualcomm, especially in industrial PC (IPC), edge computing and IoT where Arm SoCs offer higher integration and lower power consumption."
+    },
+    {
+      "id": "5081604",
+      "time": "2026-09-08 07:24:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普再度就美伊衝突發聲：勝利後全美油價將“斷崖式下跌”最終會跌至2美元以下】美國總統唐納德·特朗普（Donald Trump）今日在社交媒體平臺 Truth Social 上發表強硬言論，對正在進行的美伊衝突以及全球能源市場前景做出高調預測。特朗普稱，在美國贏得與伊朗的戰爭後，全球油價及全美零售汽油價格將迎來“斷崖式下跌”，最終甚至會跌破每加侖2美元關口。特朗普在帖文中寫道：“當我們贏得與伊朗的戰爭時，油價將會斷崖式下跌，就像其他所有東西都在下跌一樣（但跌得更多！）。油價將先降到每加侖3美元，最終會跌到2美元以下。這一切都將迅速發生，而且伊朗永遠不會擁有核武器。MAGA！”"
+    },
+    {
+      "id": "5081603",
+      "time": "2026-09-08 07:22:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲四大電信運營商據悉擬組建聯盟，競標衛星頻譜挑戰星鏈】9月8日，據報道，德國電信、Orange、沃達豐和西班牙電信正就組建聯盟進行初步洽談，計劃共同競標部分衛星頻譜並提供衛星直連手機服務，以挑戰馬斯克旗下星鏈在歐洲的市場地位。目前相關聯盟及競標計劃均未作最終決定。歐盟正考慮在即將進行的2GHz頻段拍賣中，為歐洲本土企業預留三分之一頻譜，並要求相關衛星運營商由歐洲企業持有多數股權；另一部分頻譜將面向國際企業開放。現有該頻段許可證將於2027年到期。"
+    },
+    {
+      "id": "5081602",
+      "time": "2026-09-08 07:21:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【上半年上市券商盈利能力迎系統性修復 ROE重回十年高位】2026年上半年，上市券商盈利能力迎來系統性修復，淨資產收益率（ROE）指標整體重回十年高位。其中，長江證券以8.39%領跑，分列其後的中信建投、招商證券、華安證券、廣發證券，ROE也均突破8%。機構觀點認為，在新一輪權益市場上行週期中，頭部券商的商業模式變革正迎來收穫期，有望驅動ROE持續回升。"
+    },
     {
       "id": "5081601",
       "time": "2026-09-08 07:19:22",
