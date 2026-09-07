@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-08 07:06:32",
-  "count": 14089,
+  "updated": "2026-09-08 07:10:24",
+  "count": 14090,
   "items": [
+    {
+      "id": "5081587",
+      "time": "2026-09-08 07:08:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：印尼首富家族將逾10億美元資產轉移至海外】據知情人士透露，印度尼西亞首富家族——哈託諾家族（Hartonos），已在海外投資至少14億美元，這標誌著他們從以往將財富留在國內的傳統做法發生了急劇轉變。該家族透過設在新加坡和倫敦的實體進行海外投資，其背後策略是在總統普拉博沃·蘇比安託的政策引發市場不安情緒升溫之際，將收入來源多元化至其他貨幣。哈託諾家族的海外轉移是印尼資本外流大趨勢的一部分——印尼正經歷一波投資者撤資潮，推動印尼盾跌至歷史低點，並引發股市拋售。"
+    },
+    {
+      "id": "5081586",
+      "time": "2026-09-08 07:08:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【把握債市回暖機遇 上市銀行金融投資穩中向好】A股上市銀行2026年半年報披露工作已收官，相關債券投資的成績單隨之揭曉。記者梳理42家上市銀行半年報發現，上半年銀行投資收益分化明顯。其中，農業銀行實現投資收益443.53億元，同比增長91.56%，另有30多家上市銀行投資收益同比下滑。同時，受益於上半年債市行情回暖，多數銀行的公允價值變動損益同比改善。（中國證券報）"
+    },
+    {
+      "id": "5081585",
+      "time": "2026-09-08 07:08:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證券行業上半年經營資料出爐 傳統業務與轉型業務同步回暖】近日，中國證券業協會發布了證券公司2026年上半年度經營資料。在市場交投持續活躍與資本市場改革紅利釋放的雙重驅動下，行業整體盈利能力較前幾年同期明顯提升，傳統經紀與信用業務明顯修復，投資諮詢、資產管理等轉型業務加速成長，券商業績增長驅動正趨於多元。與此同時，行業“強者恆強”格局持續深化，頭部券商利潤集中度進一步提升，中小券商突圍難度加大。分析人士認為，證券行業仍處於上行週期之中，但投資邏輯已從板塊普漲轉向精選個股，資本實力雄厚、業務結構均衡的頭部機構配置價值正持續凸顯。（中國證券報）"
+    },
+    {
+      "id": "5081584",
+      "time": "2026-09-08 07:07:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【洪灝：美債⻓端收益率失錨所醞釀的全球流動性重新定價是決定全球資本市場走勢的關鍵】蓮華資產管理公司首席投資官洪灝認為，美債⻓端收益率失錨所醞釀的全球流動性重新定價是決定全球資本市場走勢的關鍵。美債收益率繼續上升反映的不僅僅是通脹預期，由於油價飆升⽽居⾼不下的情況，美國財政⾚字問題和美元信⽤問題都是推⼿。他預計，在複雜的地緣政治和市場⻛險⾼企的情況下技術上過去⼏個⽉上漲的板塊的⾛勢很可能需要歇⼀歇。投資者很可能將在半導體硬體板塊中尋求短期公司盈利確定性的機會和能源板塊由於油價居⾼不下⽽帶來的相對確定性。軟體業和⼀些農業板塊這種在過去三個⽉⼤幅修復的板塊則很可能需要修養⽣息然後再議。"
+    },
+    {
+      "id": "te:economy:581735",
+      "time": "2026-09-08 07:07:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "South Korea Q2 GDP Growth Confirmed at 0.6% — South Korea’s economy was confirmed to have grown by 0.6% QoQ in the second quarter of 2026, matching preliminary estimates but easing from 1.8% growth in the first quarter, which was the strongest quarterly expansion since Q1 2021. GDP growth was mainly driven by robust exports, which offset downward pressure from the lingering conflict in the Middle East. Exports rose 1.3%, boosted by IT products such as semiconductors and machinery and equipment, while imports increased at a softer rate of 0.7%."
+    },
     {
       "id": "5081583",
       "time": "2026-09-08 07:05:48",
@@ -41,6 +87,15 @@
         "Important"
       ],
       "text": "United Kingdom | BRC Total Retail Sales (YoY) (Aug) | actual 0.7% | previous 1.3%"
+    },
+    {
+      "id": "em:jjsj_ygsj:202609083867177779",
+      "time": "2026-09-08 07:03:29",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國8月BRC同店零售銷售同比增長0.5%，前值1.00%。"
     },
     {
       "id": "mkt:01a07e1c-744e-7118-84d3-ebd76ddca122",
@@ -128788,52 +128843,6 @@
         "其他"
       ],
       "text": "【英國海事貿易行動辦公室：油輪在霍爾木茲海峽航行時遭拋射物襲擊】英國海事貿易行動辦公室稱，一艘油輪報告，8 月 31 日其在霍爾木茲海峽完成出海峽航行途中遭到三枚未知拋射物擊中。事件發生於阿曼哈薩布以東 17 海里處。暫無人員傷亡及環境影響報告。有關部門正在開展調查。"
-    },
-    {
-      "id": "5069530",
-      "time": "2026-09-01 07:10:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民日報：氣候變暖和吉隆縣泥石流災害有關係嗎？】這次泥石流災害是因為氣候變暖嗎？記者採訪了相關專家。受訪專家表示，此次災害與全球氣候變暖有關，氣候變暖導致冰川加速消融，冰川因素、地質地貌因素和氣候因素疊加是本次災害發生的主要誘因；而冰岩崩鏈生災害的複雜性及跨境聯動防控的特殊性，也讓高海拔地區防災減災工作面臨多重難題。中國科學院成都山地災害與環境研究所研究員聶勇介紹，近幾十年青藏高原冰湖整體擴張趨勢明顯，尤以我國南部邊境喜馬拉雅山區最為突出，該區域冰湖面積年均擴張率約1%，持續擴張的冰湖已成為高海拔地區最主要的地質災害隱患載體。（人民日報）"
-    },
-    {
-      "id": "te:economy:579678",
-      "time": "2026-09-01 07:09:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Shop Price Inflation",
-        "Importance 1"
-      ],
-      "text": "UK Shop Price Inflation Highest Since 2024 — UK shop price inflation accelerated to 1.5% year-on-year in August 2026 from 0.9% in July, reaching its highest level since February 2024 as rising energy, input, and commodity costs increasingly fed through to retail prices. Food inflation climbed to a four-month high of 2.8% from 2.2%, with particular pressure on ambient foods that are typically imported and processed. Meanwhile, non-food inflation rose sharply to 0.9% from 0.2%, also the highest since February 2024, as strong demand linked to the artificial intelligence boom pushed up prices for memory chips and storage used in consumer electronics. BRC Chief Executive Helen Dickinson said higher costs are beginning to filter through into prices. Broader UK consumer inflation also accelerated to a four-month high of 2.9% in July, while the Bank of England expects CPI inflation to peak at 3.2% in October and November and food inflation to reach 3.5% in December."
-    },
-    {
-      "id": "5069529",
-      "time": "2026-09-01 07:09:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【數千產品集中“換錨” 理財行業邁入相對收益時代】8月以來，已有數千只理財產品完成業績比較基準切換，多數產品告別“1.45%—2.55%（年化）”這類直觀的區間型業績比較基準，轉而採用掛鉤中債綜合指數、LPR等市場化指標的公式化業績比較基準。本輪調整中，貴陽銀行旗下“爽銀財富—週週寶”成為市場少見的樣本，該產品此前執行1.50%—2.60%的業績比較基準。自9月1日起，該產品取消業績比較基準。此輪理財產品集體“換錨”，核心驅動力來自9月1日起施行的《銀行保險機構資產管理產品資訊披露管理辦法》。當前，銀行理財加速向“固收+”轉型，權益、黃金等“+”類資產收益不確定性較高，傳統數值預期型業績比較基準難以適用。不過，掛鉤指數型業績比較基準抬高了普通投資者的認知門檻。為此，多家理財公司最佳化信披服務，在公示計算公式的同時，增加對標基準的走勢圖，並對複雜產品補充通俗化解讀，降低客戶理解難度。（中國證券報）"
-    },
-    {
-      "id": "5069528",
-      "time": "2026-09-01 07:09:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉脫維亞武裝部隊在X平臺發文稱，北約波羅的海空中警戒任務的戰機已進入待命出動狀態。"
-    },
-    {
-      "id": "5069526",
-      "time": "2026-09-01 07:07:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【東南鐵礦+光伏銀粉 兩大龍頭今日上市】9月1日，有兩隻新股上市，為創業板的貝特利（301697.SZ）和主機板的馬礦股份（601123.SH）。 貝特利是一家以客戶需求為導向、以創新研發為驅動的新材料企業，主營業務為電子材料和化工新材料的研發、生產與銷售，產品涵蓋導電材料、有機矽材料和塗層材料三大板塊。馬礦股份是一家長期從事鐵礦資源開發及綜合利用的企業，主營鐵礦石的採選、綜合利用及鐵精粉、鉬精礦的銷售，以及石灰石的開採和銷售，主要產品為鐵精粉、鉬精礦和石灰石。"
     }
   ]
 }
