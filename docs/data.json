@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08 04:31:30",
-  "count": 14113,
+  "updated": "2026-09-08 04:35:19",
+  "count": 14109,
   "items": [
+    {
+      "id": "5081529",
+      "time": "2026-09-08 04:34:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：不會在現場階段判定事故可能原因。"
+    },
     {
       "id": "mkt:01a07d90-2c9c-7118-84d3-40ef3ec0dd39",
       "time": "2026-09-08 04:29:55",
@@ -129022,56 +129030,6 @@
         "Impact mixed"
       ],
       "text": "ICE said it will begin trading from the Oct. 5 session new contracts for financial LNG, U.S. regional physical crude, Americas crude and options on U.S. crude futures."
-    },
-    {
-      "id": "5069461",
-      "time": "2026-09-01 04:35:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：由商人貝坦庫爾掌管的委內瑞拉石油公司計劃未來數年內向這個拉美國家部署 50 餘臺鑽井平臺。"
-    },
-    {
-      "id": "te:markets:579666",
-      "time": "2026-09-01 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.70% Lower — The Dow Jones Index decreased 374 points or 0.70 percent on Monday to close at 53186 points. The decline was led by Alphabet (-3.16%), Amazon (-2.45%) and Honeywell International (-1.90%). On the upside, the strongest performers were Chevron (2.33%), Walmart (1.73%) and Salesforce (1.72%)."
-    },
-    {
-      "id": "5069460",
-      "time": "2026-09-01 04:34:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所：自 10 月 5 日交易日起，美國洲際交易所期貨市場將掛牌金融型天然氣凝析液、美洲實物原油、美洲原油以及美國原油期貨與期權合約，供市場交易。"
-    },
-    {
-      "id": "5069459",
-      "time": "2026-09-01 04:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【牛津經濟研究院警告：加拿大對特朗普關稅的反擊將削弱經濟增長】牛津經濟研究院的一項研究顯示，加拿大針對美國關稅計劃實施的報復措施或許有助於保護部分國內製造商，但將推高成本，並使許多行業處境惡化。經濟學家Tony Stillo和Michael Davenport寫道：“加拿大新的報復性關稅將幫助部分行業，但損害大多數行業，並透過推高生產商和消費者的成本削弱全國經濟增長。”"
-    },
-    {
-      "id": "te:markets:579665",
-      "time": "2026-09-01 04:32:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls on Financials and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,270 on Monday, weighed down by losses in the financial and mining sectors. Renewed tensions in the Middle East fueled inflation concerns, while hawkish comments from Federal Reserve Chair Kevin Warsh strengthened expectations for a September rate hike. Major banks posted losses despite expectations for the BoC to hold rates on Wednesday, with TD Bank down 0.6% and BMO and Scotiabank losing 1.2%. Lower gold prices pressured miners, with Agnico Eagle falling 1.9%, Barrick losing 2.2% and WPM retreating 2%. Most tech stocks also declined, tracking losses among US hyperscalers, with Shopify sliding 3.8% and Constellation Software down 0.8%. In contrast, higher crude prices supported energy producers, with Canadian Natural up 2% and Suncor rising 1.8%. The TSX gained 1.3% in August, marking a fifth consecutive monthly gain."
     }
   ]
 }
