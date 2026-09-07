@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08 04:12:14",
-  "count": 14107,
+  "updated": "2026-09-08 04:16:06",
+  "count": 14103,
   "items": [
     {
       "id": "5081519",
@@ -128992,54 +128992,6 @@
         "AAPL.O"
       ],
       "text": "Apple (AAPL.O) said in court filings that new evidence was found on MacBooks OpenAI provided to the company on Aug. 21 and that the material is part of its trade-secrets lawsuit. Apple has asked a U.S. federal court to accelerate discovery in the case against OpenAI."
-    },
-    {
-      "id": "mkt:01a05976-7430-7118-8421-1c8336ece117",
-      "time": "2026-09-01 04:15:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "Apple Inc. (AAPL.O) alleges in a trade-secrets lawsuit against OpenAI that the defendant used Apple's proprietary information to train AI agents."
-    },
-    {
-      "id": "5069458",
-      "time": "2026-09-01 04:15:02",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "法律檔案顯示：蘋果指控，在針對 OpenAI 的商業秘密案中，被告任職於 OpenAI 期間獲取了電源轉換器電路原理圖。蘋果正請求美國聯邦法院加快推進針對 OpenAI 商業秘密案件的證據開示程式。蘋果表示，作為司法程式的一部分，OpenAI 於 8 月 21 日向蘋果提供的 MacBook 電腦中發現了新證據。"
-    },
-    {
-      "id": "mkt:01a05975-d9ad-7118-8421-13c25e7458d8",
-      "time": "2026-09-01 04:14:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "According to legal filings, Apple (AAPL.O) alleges in its trade-secret suit against OpenAI that the defendant accessed power-converter circuit schematics while working at OpenAI."
-    },
-    {
-      "id": "5069457",
-      "time": "2026-09-01 04:14:21",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "法律檔案顯示：蘋果稱在針對 OpenAI 的商業秘密案件中，被告利用蘋果專有資訊訓練人工智慧智慧體。"
     }
   ]
 }
