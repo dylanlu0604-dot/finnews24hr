@@ -1,7 +1,99 @@
 {
   "date": "2026-09-07",
-  "count": 939,
+  "count": 949,
   "items": [
+    {
+      "id": "em:qqyh_ozyh:202609073866604765",
+      "time": "2026-09-07 13:54:59",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【德銀：預計歐洲央行9月將加息 12月或再加一次】德意志銀行目前預計，歐洲央行將在9月加息的基礎上，於12月再加息25個基點，因持續的能源風險對通脹前景構成壓力。"
+    },
+    {
+      "id": "mkt:01a07a6e-c120-7118-84c4-56416f0b8735",
+      "time": "2026-09-07 13:54:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "France's finance minister said if there is no budget, interest rates will rise significantly."
+    },
+    {
+      "id": "mkt:01a07a6e-68c5-7118-84c4-4ed7d60fe7f0",
+      "time": "2026-09-07 13:54:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai stocks rose as much as 1.5% to 1,619.77, their highest level since mid‑August."
+    },
+    {
+      "id": "5080282",
+      "time": "2026-09-07 13:53:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "據當地媒體報道，印度尼西亞東部地區一個市場7日發生火災，造成11人死亡，其中包括6名兒童。（新華社）"
+    },
+    {
+      "id": "5080281",
+      "time": "2026-09-07 13:53:47",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【山西調查陽高縣生態環境監測資料造假】9月6日晚，總檯《財經調查》曝光，山西伯霖檢測有限公司在大同市陽高縣一危廢專案地下水監測中，存在透過干擾取樣、調換樣品、虛假監測、篡改或者偽造記錄等方式對生態環境監測資料弄虛作假的問題。據瞭解，山西伯霖檢測有限公司屬於環保重點監管物件，2026年6月公示危險廢物再生利用建設專案環評公眾參與公告，專案年處理各類廢塑膠化工桶5000噸，年產再生塑膠顆粒5000噸，改造閒置廠房作為生產及危廢貯存庫房。因生產廢水存在地下水汙染風險，環保部門要求在園區周邊村落佈設地下水監測井，定期開展地下水跟蹤監測。節目播出後，山西省生態環境廳與大同市高度重視。9月7日，針對曝光線索，省、市生態環境執法人員聯合市場監管、公安部門赴大同市陽高縣開展調查，並將儘快釋出官方通報。（央視財經）"
+    },
+    {
+      "id": "mkt:01a07a6d-f4f2-7118-84c4-471f05a24998",
+      "time": "2026-09-07 13:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On China’s A-share market, Shengyi Technology’s trading value hit 10.0 bln yuan; shares are currently up 8.15%."
+    },
+    {
+      "id": "mkt:01a07a6d-ec6e-7118-84c4-38903e4f69e5",
+      "time": "2026-09-07 13:53:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Paul Chan: Hong Kong emerging innovation hub; strong electronics, semiconductor exports and AI IPO demand】Hong Kong Financial Secretary Paul Chan said electronics and semiconductor exports are rising strongly and capital markets show robust demand for AI company listings, pointing to continued IPO activity and sector appetite. He said Hong Kong’s role as an international financial center and talent magnet complements the Greater Bay Area’s strengths in advanced manufacturing, commercialization and scaling; WIPO data ranks the Shenzhen‑Hong Kong‑Guangzhou cluster among the world’s leading innovation hubs, with a new ranking due tomorrow."
+    },
+    {
+      "id": "5080280",
+      "time": "2026-09-07 13:52:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部長萊斯屈爾重申：若無預算方案，利率將大幅攀升。"
+    },
+    {
+      "id": "5080279",
+      "time": "2026-09-07 13:52:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國指標股指上漲多達1.5%至1,619.77點，創8月中以來最高。"
+    },
+    {
+      "id": "5080278",
+      "time": "2026-09-07 13:52:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳茂波：香港是快速崛起創新高地 與大灣區城市優勢互補】香港財政司司長陳茂波出席香港科技園公司舉辦的“共創共投產業加速峰會”開幕禮致辭表示，香港的電子產品和半導體出口增長強勁，資本市場對人工智慧企業上市的需求熱烈。香港是國際金融中心，能吸引全球人才，亦是快速崛起的創新高地，令香港與大灣區城市形成“優勢互補”。大灣區城市在先進製造業、商業化和規模化方面擁有強大實力，根據世界智慧財產權組織相關資料，“深圳-香港-廣州”屬全球領先創新叢集。他提到，該組織明日將公佈新一年的排名，他說抱著堅定信心，拭目以待。"
+    },
     {
       "id": "mkt:01a07a6b-fe4a-7118-84c4-33df1c337920",
       "time": "2026-09-07 13:51:32",
