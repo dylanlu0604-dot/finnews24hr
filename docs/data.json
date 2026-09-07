@@ -1,7 +1,364 @@
 {
-  "updated": "2026-09-08 04:39:09",
-  "count": 14111,
+  "updated": "2026-09-08 06:15:10",
+  "count": 14104,
   "items": [
+    {
+      "id": "5081562",
+      "time": "2026-09-08 06:11:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國家運輸安全委員會：衝出跑道的波音貨機黑匣子已找到】當地時間9月7日，美國國家運輸安全委員會召開新聞釋出會，通報關於亞馬遜公司一架波音767-300型貨運飛機在邁阿密國際機場發生事故的最新情況。"
+    },
+    {
+      "id": "5081561",
+      "time": "2026-09-08 06:09:23",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【原油期貨維持漲幅，標普500期貨走低】美國股指期貨走勢分化，納斯達克小幅收漲，標普期貨下行；伊朗稱即將與阿曼達成霍爾木茲海峽航運管控協議後，WTI原油價格站穩每桶92美元上方。美債期貨略高於隔夜低點，黃金小幅走強，比特幣下跌。"
+    },
+    {
+      "id": "5081560",
+      "time": "2026-09-08 06:07:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約發生兩起槍擊事件 致2人受傷】當地時間9月7日，在美國紐約狂歡節遊行活動附近發生兩起獨立的槍擊事件，導致兩人受傷。（央視新聞）"
+    },
+    {
+      "id": "5081559",
+      "time": "2026-09-08 06:05:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息機率為60.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為39.6%，累計加息25個基點的機率為60.4%。美聯儲到10月維持利率不變的機率為29.1%，累計加息25個基點的機率為54.9%，累計加息50個基點的機率為16.1%。"
+    },
+    {
+      "id": "5081558",
+      "time": "2026-09-08 06:04:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨開盤上漲超1美元，報每桶92.54美元。"
+    },
+    {
+      "id": "5081557",
+      "time": "2026-09-08 06:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國南方司令部：美軍9月7日在東太平洋擊沉供油船隻】美國南方司令部在社交媒體平臺發文稱，美軍週一在東太平洋攔截並擊沉一處用於“支援海上非法毒品走私活動”的浮動加油站點。美國南方司令部表示，船隻沉沒前撤離的人員將移交厄瓜多當局。該船隻與販毒組織洛斯喬內羅斯存在關聯。"
+    },
+    {
+      "id": "mkt:01a07de3-cc06-7118-84d3-8e54582e6dc5",
+      "time": "2026-09-08 06:01:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold opened slightly higher on Tuesday and is trading at $4,413.7/oz."
+    },
+    {
+      "id": "mkt:01a07dde-48b4-7118-84d3-85e37d63c4a0",
+      "time": "2026-09-08 05:55:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Southern Command said U.S. forces in the eastern Pacific intercepted a floating fuel tanker used to resupply maritime drug trafficking and suspected of supporting Ecuador’s Los Choneros cartel; after transferring personnel off the vessel, U.S. forces sank it."
+    },
+    {
+      "id": "5081556",
+      "time": "2026-09-08 05:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：美軍在東太平洋擊沉一艘供油船隻。"
+    },
+    {
+      "id": "mkt:01a07ddb-78d6-7118-84d3-7db090c3f988",
+      "time": "2026-09-08 05:52:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran Supreme National Security Council secretary Rezaei said Washington has received clear signals from Iran's recent missile operations. He warned any economic warfare will be met with a response, and Iran will designate the area stretching from the Persian Gulf to the US maritime blockade line as a maritime exclusion zone. He said Iran's operational posture toward US warships and military bases has already undergone a fundamental adjustment."
+    },
+    {
+      "id": "5081555",
+      "time": "2026-09-08 05:51:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：近日，華盛頓已經收到伊朗新型導彈發出的明確警告。針對經濟戰，我方將在波斯灣直至封鎖圈範圍設立海上禁入區。針對美國軍艦與軍事基地的作戰姿態已完成根本性調整。"
+    },
+    {
+      "id": "mkt:01a07dd7-3878-7118-84d3-772339f1e5eb",
+      "time": "2026-09-08 05:47:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK to announce sanctions on Israeli West Bank settlements; move may anger Trump】Foreign Secretary Miliband will on Tuesday unveil a targeted sanctions mechanism aimed at Israeli settlements in the West Bank, sources said. The measures are described as focused on West Bank settlements and not intended to broadly affect UK‑Israel trade or security ties. UK diplomats have privately told US counterparts the steps are largely symbolic to blunt a possible reaction from Trump. The Burnham government is positioning itself as tougher on Israel than predecessor Starmer, a stance that could complicate relations with Trump."
+    },
+    {
+      "id": "5081554",
+      "time": "2026-09-08 05:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗指責加拿大屈從於美國壓力】在加拿大就地區安全與航行自由問題批評德黑蘭之後，伊朗外交部發言人巴加埃指責加拿大向美國的“脅迫”低頭。巴加埃表示，加拿大在支援伊朗眼中美國的軍事侵略與經濟施壓行為。他還稱衝突爆發之前霍爾木茲海峽一直處於安全狀態，指責渥太華歪曲地區局勢。巴蓋伊評價加拿大的立場是“戰略混亂，向脅迫屈服”。"
+    },
+    {
+      "id": "mkt:01a07dd3-850c-7118-84d3-6f9c66a86a5c",
+      "time": "2026-09-08 05:43:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say they struck Saudi military supply trucks with ballistic missiles】Yemen’s Houthi movement said on the 7th it launched ballistic missiles at Saudi military trucks transporting supplies from Saudi Arabia to a government-held base in Hadramawt province's Wadi A. Houthi-run Masirah TV released footage and said the missiles were manufactured by the group. The report gave no casualty figures."
+    },
+    {
+      "id": "5081553",
+      "time": "2026-09-08 05:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱向沙特軍用卡車發動彈道導彈襲擊】葉門胡塞武裝7日說，該組織當天對從沙烏地阿拉伯向葉門政府軍控制的哈德拉毛省瓦迪阿軍事基地運送軍用物資的軍用卡車發動彈道導彈襲擊。（新華社）"
+    },
+    {
+      "id": "5081552",
+      "time": "2026-09-08 05:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空軍一號已降落在安德魯斯聯合基地，特朗普正返回白宮。"
+    },
+    {
+      "id": "5081551",
+      "time": "2026-09-08 05:35:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國人權理事會第63屆會議開幕】當日，聯合國人權理事會第63屆會議在瑞士日內瓦開幕。（新華社）"
+    },
+    {
+      "id": "te:markets:581728",
+      "time": "2026-09-08 05:34:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits 4-week Low — Oat decreased to 308.50 USd/Bu, the lowest since August 2026. Over the past 4 weeks, Oat gained 8.53%, and in the last 12 months, it increased 15.37%."
+    },
+    {
+      "id": "5081550",
+      "time": "2026-09-08 05:29:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【EverBank與WaFd達成39億美元銀行合併交易】EverBank金融公司與WaFd公司達成價值39億美元的合併協議，將把大型數字消費銀行業務和在美國西部擁有實體網點的銀行整合到一起。根據週一釋出的宣告，EverBank將併入WaFd。合併完成後WaFd維持上市地位，並更名為EverBank。EverBank現任執行長格雷格·西布利將出任合併後新公司的執行長；WaFd執行長布倫特·比爾達奧爾將擔任合併機構的總裁。宣告顯示，EverBank投資方包括TIAA，以及Stone Point資本、華平投資、Reverence Capital Partners、Sixth Street、Bayview資產管理管理的基金，合計持有新公司約59.2%股份；WaFd原有股東持有約40.8%股份。"
+    },
+    {
+      "id": "5081549",
+      "time": "2026-09-08 05:29:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【關稅揣測攪動市場 倫敦期銅創出新高】有關美國總統特朗普擬將關稅擴大至精銅的揣測推動銅價上漲數週後，這一基本金屬在倫敦觸及紀錄高位。倫敦金屬交易所 (LME) 三個月基準期銅合約一度上漲0.8%至每噸14,533美元，打破了1月創下的紀錄。該合約週一收於每噸14,510美元。過去一年銅價上漲了17%，背後是長期存在的供需不匹配。全球老舊的大型銅礦難以滿足資料中心、可再生能源和電網的用銅需求，而這也是多頭數年來一直強調的看漲邏輯。"
+    },
+    {
+      "id": "5081548",
+      "time": "2026-09-08 05:28:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統穆罕默德·禮薩·阿雷夫週一表示，作為該國燃油定價體系改革的一部分，伊朗計劃逐步取消進口汽油補貼。"
+    },
+    {
+      "id": "5081547",
+      "time": "2026-09-08 05:27:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊：已在耶路撒冷東部的舒阿法特難民營和阿納塔鎮展開大規模行動。"
+    },
+    {
+      "id": "5081546",
+      "time": "2026-09-08 05:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示：巴西總統選舉首輪投票，盧拉支援率36%，弗拉維奧·博索納羅29%。"
+    },
+    {
+      "id": "5081545",
+      "time": "2026-09-08 05:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示：在巴西總統選舉模擬第二輪投票中，盧拉支援率41%，弗拉維奧·博索納羅支援率同為41%。"
+    },
+    {
+      "id": "5081544",
+      "time": "2026-09-08 05:16:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理國防部長：德黑蘭擁有打擊參與對伊朗實施經濟封鎖的美國軍艦的能力與技術。"
+    },
+    {
+      "id": "5081543",
+      "time": "2026-09-08 05:15:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.12%，報14651點。"
+    },
+    {
+      "id": "te:economy:581727",
+      "time": "2026-09-08 05:15:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Chile 10Y Bond Yield Hits 14-month High — Chile 10 Year Government Bond Yield increased to 5.75%, the highest since June 2025. Over the past 4 weeks, Chile 10Y Bond Yield gained 8.50 basis points, and in the last 12 months, it increased 18.00 basis points."
+    },
+    {
+      "id": "5081542",
+      "time": "2026-09-08 05:13:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空軍一號載著特朗普從新澤西起飛，結束在貝德敏斯特的停留，飛往安德魯斯聯合基地。"
+    },
+    {
+      "id": "5081541",
+      "time": "2026-09-08 05:08:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【GPT-6 Astra零失誤通關“我不是機器人” 驗證碼遊戲】OpenAI研究人員釋出影片，內容為GPT-6 Astra零失誤成功透過“我不是機器人”（CAPTCHA）驗證碼的全部48個遊戲關卡，這一結果引發了人們對這種驗證方式有效性的質疑。該AI模型完成了整套驗證流程，而不僅僅是透過其中的某個階段。CAPTCHA代表“完全自動化的公開圖靈測試，用於區分計算機和人”。它指的是各種身份驗證方法，透過提出對人來說簡單但對機器來說困難的挑戰，驗證使用者為人而不是機器人。然而，一款AI能夠成功完成如此複雜的一連串任務，表明隨著現代AI模型不斷進化，這類驗證機制背後的理念或許正在逐漸失去原有的優勢。"
+    },
+    {
+      "id": "5081540",
+      "time": "2026-09-08 05:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【NTSB主席嚴厲警告：安全建議必須落地，否則事故或將重演】美國國家運輸安全委員會（NTSB）主席詹妮弗·霍門迪，就邁阿密跑道致命事故發出嚴厲警告：提出的安全建議必須落實，否則同類事故還會再度上演。當被問及這類事故是否發生得過於頻繁時，霍門迪回應：“對國家運輸安全委員會而言，哪怕發生一起都算多。僅僅一起就夠了。有的事故造成人員死亡，也有的沒有出現人員死亡。但即便是僅僅一起事故，都是一場悲劇。”"
+    },
+    {
+      "id": "5081539",
+      "time": "2026-09-08 05:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱對伊海上封鎖已使94艘商船改變航向】當地時間9月7日，美軍中央司令部表示，截至當天，美軍在對伊朗的海上封鎖行動中已要求94艘商船改變航向，使3艘商船喪失航行能力，並登船檢查2艘船隻。（央視新聞）"
+    },
+    {
+      "id": "5081538",
+      "time": "2026-09-08 05:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2023年10月以來以軍襲擊已致黎巴嫩8948人死亡】當地時間9月7日晚，據黎巴嫩公共衛生部緊急行動中心公佈的資料，自3月2日以來，以色列襲擊造成的累計死亡人數已達4381人，受傷人數達12402人。該部門還表示，自2023年10月8日以來，以色列襲擊造成的總死亡人數已上升至8948人，受傷人數達30638人。（央視新聞）"
+    },
+    {
+      "id": "5081537",
+      "time": "2026-09-08 05:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西民調顯示，博索納羅在首輪選舉中支援率落後於現任總統盧拉。"
+    },
+    {
+      "id": "mkt:01a07da6-db7e-7118-84d3-648edc5ac1f9",
+      "time": "2026-09-08 04:54:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign ministry spokesman BAGHAEI said Canada's support for US Iran-related policy is essentially yielding to US pressure and damages Canada's diplomatic credibility."
+    },
+    {
+      "id": "5081536",
+      "time": "2026-09-08 04:53:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門北部胡塞控制區一所監獄遭空襲致7死7傷】據胡塞武裝控制的薩巴通訊社7日報道，沙特當天空襲了葉門北部焦夫省首府哈茲姆市一所監獄，造成7人死亡、7人受傷。（新華社）"
+    },
+    {
+      "id": "5081535",
+      "time": "2026-09-08 04:51:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：就在美國總統公然無視加拿大的主權與獨立，將整個加拿大視作美國一部分的同一天，加拿大外交部長與財政部長卻選擇進一步討好這個恃強凌弱的鄰國。此次，加方發表宣告針對伊朗，歪曲了有關本地區局勢的全部事實。這既不是“外交”，也算不上“負責任的治國施政”。這暴露的是戰略上的混亂，以及對強權恐嚇的屈從。而這種選擇，甚至也無法讓加拿大自身免遭美國的霸凌與侵略。"
+    },
+    {
+      "id": "mkt:01a07da2-6a49-7118-84d3-5d2905d70eda",
+      "time": "2026-09-08 04:49:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM says carrier USS George H.W. Bush continues blockade operations against Iran in the Arabian Sea."
+    },
+    {
+      "id": "5081534",
+      "time": "2026-09-08 04:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：喬治·布什號航母繼續在阿拉伯海支援對伊朗實施的封鎖。"
+    },
+    {
+      "id": "mkt:01a07d99-6312-7118-84d3-529ddc0b6a0e",
+      "time": "2026-09-08 04:39:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sources: Air-raid sirens sounded in Kyiv."
+    },
+    {
+      "id": "5081533",
+      "time": "2026-09-08 04:39:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
     {
       "id": "5081532",
       "time": "2026-09-08 04:38:24",
@@ -128615,434 +128972,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Rises by 0.60% — Top currency gainers are South Korean Won (0.60%), Polish Zloty (0.51%), Indian Rupee (0.39%), Euro (0.27%), Japanese Yen (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.29%)."
-    },
-    {
-      "id": "5069488",
-      "time": "2026-09-01 06:12:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "特朗普：提議出臺兩黨法案以挽救美國電影行業。"
-    },
-    {
-      "id": "5069487",
-      "time": "2026-09-01 06:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：國會應當透過面向娛樂行業的稅收激勵政策。"
-    },
-    {
-      "id": "5069486",
-      "time": "2026-09-01 06:10:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：波音公司與工程師工會同意於 9 月 8 日恢復合同談判。"
-    },
-    {
-      "id": "5069485",
-      "time": "2026-09-01 06:09:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國陸軍部長DAN DRISCOLL向特朗普遞交辭呈。"
-    },
-    {
-      "id": "5069484",
-      "time": "2026-09-01 06:03:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國SEC和CFTC第四次推遲對沖基金披露要求】美國證券交易委員會（SEC）和商品期貨交易委員會（CFTC）再次推遲對沖基金資訊披露新規，私人基金報告表（Form PF）提交截止日期延後至7月1日。該規則旨在幫助監管機構掌握私人基金在市場波動期間的持倉、槓桿和風險敞口，以識別交易對手風險、保證金壓力及潛在系統性風險。此次延期是監管機構第四次推遲相關要求。此前新增披露規則遭到私募基金行業反對，基金公司擔憂投資策略等敏感資訊洩露。今年4月，SEC和CFTC提出調整方案，計劃提高Form PF申報門檻，將私人基金資產管理規模門檻從1.5億美元提高至10億美元，但該方案尚未最終確定。"
-    },
-    {
-      "id": "mkt:01a059d8-ed5b-7118-8421-d65b4f86825a",
-      "time": "2026-09-01 06:03:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SEC and CFTC postpone hedge fund disclosure rules for fourth time】The SEC and CFTC again delayed new hedge fund disclosure requirements, moving the private fund report (Form PF) filing deadline to July 1; this is the fourth postponement. The rule aims to give U.S. regulators visibility on private funds’ positions, leverage and risk exposures during market stress to identify counterparty risk, margin pressure and potential systemic risk. The private fund industry has opposed the disclosures over worries about revealing sensitive investment strategies. In April the agencies proposed raising the Form PF reporting threshold from $150m to $1bn, but that change has not been finalized."
-    },
-    {
-      "id": "5069483",
-      "time": "2026-09-01 06:01:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月加息25個基點的機率為65.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為34.6%，累計加息25個基點的機率為65.4%。美聯儲到10月維持利率不變的機率為25.4%，累計加息25個基點的機率為57.2%，累計加息50個基點的機率為17.4%。"
-    },
-    {
-      "id": "mkt:01a059d6-53e3-7118-8421-c9cb34a340d5",
-      "time": "2026-09-01 06:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Army Secretary Dan Driscoll submits resignation; expected to leave within days】The Wall Street Journal reports US Army Secretary Dan Driscoll has submitted his resignation to President Trump and is expected to depart the Pentagon within days. He had clashed with Defense Secretary Pete Hegseth over the Army’s direction and the firing of several senior officers. Driscoll’s departure would leave the Army without any Senate-confirmed civilian or military leaders; since Hegseth dismissed former Army chief of staff Gen. Randy George, Gen. Christopher LaNeff has served as acting chief of staff."
-    },
-    {
-      "id": "5069482",
-      "time": "2026-09-01 06:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4500美元/盎司，日內漲0.42%。"
-    },
-    {
-      "id": "5069481",
-      "time": "2026-09-01 05:58:40",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什鷹派講話後 摩根大通交易員放棄短期內看漲美股的立場】在美聯儲主席沃什的鷹派講話推動市場加大年內加息押注後，摩根大通交易團隊放棄了短期內看漲美股的立場，未來幾週轉為“戰術性謹慎”。摩根大通美國市場情報主管Andrew Tyler領導的團隊認為利率前景的不確定性構成阻力，因此在美聯儲9月16日政策會議之前暫時放棄看漲立場。不過，他們預計整體市場仍將保持強韌，因為經濟資料和企業盈利等因素提供支撐。沃什上週五在傑克遜霍爾央行年會上表示，通脹壓力並未真正緩解。Tyler指出，如果美聯儲開始加息，交易員將難以判斷潛在加息週期的幅度和持續時間。與前任相比，沃什在利率政策方面提供的前瞻指引較少。Tyler週一在給客戶的報告中寫道：“我們正轉向戰術性謹慎/中性的觀點，也就是說，股市基本面仍然強勁，但短期因素可能令市場橫盤震盪。”Tyler認為，利率不確定性、9月季節性偏弱，以及人工智慧(AI)主題交易動能減弱，都是近期市場面臨的壓力，並稱目前股票淨倉位總體處於中性水平。"
-    },
-    {
-      "id": "mkt:01a059d1-e69b-7118-8421-c30ec5fd4606",
-      "time": "2026-09-01 05:55:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports U.S. Army Secretary Dan Driscoll has tendered his resignation to President Trump after long-standing disagreements with Defense Secretary Hegseth over the direction of Army reform and changes to senior officers; he is expected to depart within days."
-    },
-    {
-      "id": "5069480",
-      "time": "2026-09-01 05:54:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國陸軍部長辭職。"
-    },
-    {
-      "id": "mkt:01a059cc-e0af-7118-8421-bfa623b5447d",
-      "time": "2026-09-01 05:49:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "KYODO: Amid persistent yen weakness, Japan and U.S. finance ministers held talks."
-    },
-    {
-      "id": "5069479",
-      "time": "2026-09-01 05:47:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：美國財政部長與日本財務大臣片山皋月於二十國集團會議期間舉行會談。另一篇報道稱，貝森特還會見了日本央行行長植田和男。"
-    },
-    {
-      "id": "mkt:01a059c5-7ff0-7118-8421-b12439af74b0",
-      "time": "2026-09-01 05:41:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "TEVA.O",
-        "Impact bearish",
-        "SUN.O",
-        "BBIO.O"
-      ],
-      "text": "【US strikes drug-pricing deals with nine mid-sized pharma firms】The Trump administration on Monday reached drug-pricing agreements with nine mid-sized pharmaceutical companies after pressing them to join a broader pricing framework, expanding a \"most-favored-nation\" program previously agreed with 17 large manufacturers. The firms — Alcon, Astellas Pharma, BeiGene, BridgeBio Pharma, CSL, Kyowa Kirin, Sun Pharmaceutical, Teva Pharmaceutical Industries and UCB — committed to at least $19.6 billion of near-term U.S. manufacturing investment, the White House said. Some companies also donated active pharmaceutical ingredients to the government’s strategic stockpile."
-    },
-    {
-      "id": "5069478",
-      "time": "2026-09-01 05:35:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國宣佈投入 1.74 億美元，保障鎵供應鏈安全。"
-    },
-    {
-      "id": "mkt:01a059bd-5a1f-7118-8421-ac527689fe43",
-      "time": "2026-09-01 05:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA quoted Kremlin spokesman Peskov as saying that, given current circumstances, it is difficult to identify the best approach for Russia to participate in mediating the Iran dispute."
-    },
-    {
-      "id": "mkt:01a059b7-a2e9-7118-8421-a477c217ff73",
-      "time": "2026-09-01 05:26:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says the US Supreme Court has ruled in favor of building a White House banquet hall, with completion slated for summer 2028. He says funding will come from private patriotic donors and businesses and will not increase taxpayer burden."
-    },
-    {
-      "id": "5069477",
-      "time": "2026-09-01 05:26:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對最高法院作出支援白宮宴會廳專案的裁決感到滿意。"
-    },
-    {
-      "id": "5069476",
-      "time": "2026-09-01 05:25:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "據NBC記者：多名紐約市官員稱，一名女子手持至少一把刀具，在時代廣場附近第 43 街與第七大道交叉口刺傷至少兩人，隨後遭到警方槍擊。"
-    },
-    {
-      "id": "mkt:01a059b5-ac09-7118-8421-9ece40eb29fd",
-      "time": "2026-09-01 05:24:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Saudi tanker intercepted in southern Strait of Hormuz】Iranian sources reported early on Sept. 1 that the Saudi tanker \"Siddar\" was intercepted while transiting the southern channel of the Strait of Hormuz."
-    },
-    {
-      "id": "5069475",
-      "time": "2026-09-01 05:24:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一沙特油輪在霍爾木茲海峽南部航道遭到攔截】當地時間9月1日凌晨從伊朗方面獲悉，沙特油輪“西達爾”號在透過霍爾木茲海峽南部航道時被攔截。目前沙特官方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5069474",
-      "time": "2026-09-01 05:23:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國區域輸電組織PJM：受高溫高溼天氣影響，PJM 全部服務區域現行高溫天氣警報已延長至 9 月 3 日。該區域輸電組織管轄範圍內多地預計氣溫將超過 90 華氏度，且溼度較高，將推高電力需求。"
-    },
-    {
-      "id": "mkt:01a059b4-7378-7118-8421-96fdcc34a378",
-      "time": "2026-09-01 05:23:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Oxford study warns Canada's retaliatory tariffs may protect some manufacturers but drag on national growth】Oxford Economics says Canada's planned retaliatory tariffs on U.S. goods, due to take effect Sept. 8 and covering roughly C$27.5 billion of annual trade (about US$19.8 billion), will shelter some domestic manufacturers but raise costs and hurt most industries, weighing on national GDP by increasing producer and consumer costs. Ontario and Quebec face the biggest hit given concentrated manufacturing exposure; Atlantic provinces and British Columbia will also be pressured as higher prices and weaker household purchasing power dampen their service-led economies."
-    },
-    {
-      "id": "mkt:01a059b3-7fbc-7118-8421-892ca5662278",
-      "time": "2026-09-01 05:22:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. judge rules New York State cannot enforce $75 billion climate \"superfund\" law."
-    },
-    {
-      "id": "5069473",
-      "time": "2026-09-01 05:21:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官裁定，紐約州無法實施規模 750 億美元的氣候 “超級基金” 法案。"
-    },
-    {
-      "id": "5069472",
-      "time": "2026-09-01 05:17:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國前總理巴拉迪爾去世】據法國媒體8月31日報道，法國前總理巴拉迪爾當天去世，享年97歲。法國總統馬克龍當天在社交媒體發文悼念巴拉迪爾，並向其家屬表示慰問。巴拉迪爾於1973年至1974年在時任法國總統蓬皮杜任內擔任愛麗捨宮秘書長。他於1993年至1995年任法國總理。1995年，巴拉迪爾競選法國總統失利。（新華社）"
-    },
-    {
-      "id": "mkt:01a059af-88aa-7118-8421-8249d1ff4590",
-      "time": "2026-09-01 05:17:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Former French prime minister Edouard Balladur dies at 97】Former French prime minister Edouard Balladur died on August 31 aged 97, French media reported. President Macron posted condolences on social media. Balladur was Élysée secretary-general from 1973–74 under President Pompidou and served as prime minister from 1993–95; he lost the 1995 presidential election."
-    },
-    {
-      "id": "5069471",
-      "time": "2026-09-01 05:17:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.09%，報14689點。"
-    },
-    {
-      "id": "mkt:01a059ab-7b1c-7118-8421-7c5093dd73fb",
-      "time": "2026-09-01 05:13:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) says tanker Cedar has capacity of about 2 mln barrels of oil and suddenly switched on its automatic identification system (AIS) while transiting the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a059a8-9f1b-7118-8421-748d5c3fcde8",
-      "time": "2026-09-01 05:10:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said a Saudi tanker named Cedar was intercepted while transiting the southern route of the Strait of Hormuz."
-    },
-    {
-      "id": "5069470",
-      "time": "2026-09-01 05:08:00",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "週一（8月31日）紐約尾盤（9月1日北京時間04:59），離岸人民幣（CNH）兌美元報6.7179元，較上週五紐約尾盤跌129點，日內整體交投於6.7321-6.7175元區間，收復美聯儲主席沃什“放鷹日”的失地。8月份，離岸人民幣累計上漲0.50%，整體持續走高，19-24日加速上漲。"
-    },
-    {
-      "id": "5069469",
-      "time": "2026-09-01 05:07:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：莫蒂瓦與埃克森美孚正為東得克薩斯州煉油廠做準備，應對風暴可能帶來的強風與洪水。"
-    },
-    {
-      "id": "5069468",
-      "time": "2026-09-01 05:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報道：沙特油輪在霍爾木茲海峽南部航道遭攔截】大型沙特油輪Cedar號在途經霍爾木茲海峽南部航道時被攔截。一小時前，英國海事貿易行動辦公室稱收到一起涉及油輪的安全事件報告。Cedar 號油輪可裝載 200 萬桶原油，該船在穿越霍爾木茲海峽時開啟了船舶自動識別系統。"
-    },
-    {
-      "id": "5069467",
-      "time": "2026-09-01 05:05:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟全球流媒體首席Jean‑Briac Perrette申報，於 8 月 27 日以每股 28.96 美元的價格出售公司 126707 股 A 類普通股。"
-    },
-    {
-      "id": "mkt:01a059a1-b477-7118-8421-6f573791020b",
-      "time": "2026-09-01 05:02:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Sepah News, the media arm of Iran's Islamic Revolutionary Guard Corps, quoted Iran's deputy foreign minister responding to an overnight US strike on Larak Island. He said foreign forces must leave the region and should be taught a deep lesson so they do not repeat acts of aggression."
-    },
-    {
-      "id": "te:markets:579669",
-      "time": "2026-09-01 05:02:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Rises as Middle East Tensions Escalate — Brent crude oil climbed above $90 a barrel on Monday as tensions escalated in the Middle East. US forces struck two Iranian rocket launchers on Larak Island, marking a return to combat between the US and Iran after roughly a month. President Trump reportedly said, “We’re going to hit them very hard,” after Iran said it attacked two US bases in Jordan in response. Trump also extended military threats to Kharg Island, Iran’s main oil export terminal. Strikes on refineries in the Middle East and Russia have further constrained global refining capacity, pushing refined-product margins to new highs. The US SPR has been drawn close to minimum operational levels amid increased crude exports. Meanwhile, a supertanker caught fire after hitting two naval mines in the southern Strait of Hormuz, according to Iranian state media. Asian importers, including China, Japan and South Korea, have turned to suppliers as far away as Argentina to offset supply losses from the Middle East."
-    },
-    {
-      "id": "5069466",
-      "time": "2026-09-01 05:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京首個外賣包裝新規今日起正式實施】外賣包裝雖小，卻是關係消費習慣、城市治理與生態建設的大命題。作為全國首個專門針對餐飲外賣商戶綠色包裝使用的地方標準，由北京市市場監督管理局釋出的《餐飲外賣商戶綠色包裝使用指南》（DB11/T 2510-2026），於今日（1日）起正式實施。 (央視新聞)"
-    },
-    {
-      "id": "te:markets:579668",
-      "time": "2026-09-01 04:59:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Gains as Supply Risks Mount — Crude oil futures climbed above $86 a barrel on Monday as tensions escalated in the Middle East. US forces struck two Iranian rocket launchers on Larak Island, marking a return to combat between the US and Iran after roughly a month. President Trump reportedly said, “We’re going to hit them very hard,” after Iran said it attacked two US bases in Jordan in response. Trump also extended military threats to Kharg Island, Iran’s main oil export terminal. Strikes on refineries in the Middle East and Russia have further constrained global refining capacity, pushing refined-product margins to new highs. The US SPR has been drawn close to minimum operational levels amid increased crude exports. Meanwhile, a supertanker caught fire after hitting two naval mines in the southern Strait of Hormuz, according to Iranian state media. Asian importers, including China, Japan and South Korea, have turned to suppliers as far away as Argentina to offset supply losses from the Middle East."
-    },
-    {
-      "id": "5069465",
-      "time": "2026-09-01 04:57:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金8月份漲9.9%，白銀漲15.5%】週一（8月31日）紐約尾盤，現貨黃金跌0.18%，報4447.12美元/盎司，8月份累計上漲大約9.90%，8月25日亞太盤初曾達到4696.83美元。COMEX黃金期貨累漲9.50%，報4497.10美元/盎司。現貨白銀漲0.22%，報66.5273美元/盎司，8月份累漲15.50%。COMEX白銀期貨累漲15.02%，報67.205美元/盎司。COMEX銅期貨漲0.46%，報6.6895美元/磅，8月份累漲1.97%。現貨鉑金累漲8.99%，報1796.55美元/盎司；現貨鈀金累漲6.27%，報1363.90美元/盎司。"
-    },
-    {
-      "id": "5069464",
-      "time": "2026-09-01 04:55:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：將月度石油供應報告推遲至9月份釋出（原定8月31日披露）。一旦掌握資料，就會披露。"
-    },
-    {
-      "id": "mkt:01a05998-ebe7-7118-8421-61546ef7bf18",
-      "time": "2026-09-01 04:53:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian outlet Fars News reported Israeli forces used white phosphorus munitions in strikes on Kafr Raman and around the Ali Taher Heights."
-    },
-    {
-      "id": "mkt:01a05992-ef1e-7118-8421-594ba9f88379",
-      "time": "2026-09-01 04:46:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump calls question on ruling out use of nuclear weapons against Iran 'stupid'】Asked whether he would rule out using nuclear weapons against Iran, US President Trump called the question \"stupid\", said Iran \"has been completely defeated militarily\", and asked rhetorically, \"since I have defeated them, why would I use nuclear weapons on them?\""
-    },
-    {
-      "id": "5069463",
-      "time": "2026-09-01 04:46:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【五角大樓將Grok和ChatGPT納入軍事系統】美國國防部週一宣佈，已將Starshield AI的Grok政府版和OpenAI的ChatGPT引入非機密軍事用途，擴大了該部門平臺上人工智慧助手的數量。國防部在公告中表示，該部門人員將獲得“先進功能，包括深度思考推理、自適應推理模式（自動、快速和專家模式）、可定製工作空間、持久專案以及可重複使用的‘劇本’——這些劇本能夠捕捉並規模化傳遞機構知識”。國防部稱：“Starshield AI的Grok政府版能夠助力聯合部隊在多種作戰場景中更快、更精準地執行任務，涵蓋從面向採購專業人員的市場調研分析，到面向後勤人員的供應鏈管理等各個方面。”"
-    },
-    {
-      "id": "te:markets:579667",
-      "time": "2026-09-01 04:43:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises Following Election Polls — The Ibovespa rose 1% to close at 177,419 on Monday following new presidential election polls. The BTG/Nexus poll showed President Lula with 46% of voting intentions in a potential runoff versus 45% for Flávio Bolsonaro, a technical tie. Markets view Bolsonaro as more fiscally restrictive amid elevated domestic yields and weak business activity. The AtlasIntel/Bloomberg poll showed Lula with 47.1% and Bolsonaro with 42.6%, narrowing Lula’s lead to 4.5 percentage points from 6.3 points in July. General government gross debt rose to 82.5% of GDP in July. Still, the government targets a primary surplus of 0.1% of GDP in 2027. Finance Minister Durigan defended strengthening the current fiscal rule and said some social policies could cease to be “mandatory.” Major banks rose, led by Banco do Brasil, up 2.8%. Petrobras jumped 3.4% as oil prices rebounded. The Ibovespa fell 0.3% during August."
-    },
-    {
-      "id": "mkt:01a0598d-2332-7118-8421-51f357159e42",
-      "time": "2026-09-01 04:40:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Extreme weather disrupts water supply across Israel】Extreme weather forced five of six Mediterranean desalination plants to halt operations on Aug. 31 due to turbid seawater, the Israel Water Authority and local media said. The outages disrupted water supply nationwide; the authority ordered reduced freshwater deliveries to southern agriculture and suspended agricultural water in parts of the south. Jerusalem reported multiple neighborhood outages; authorities arranged alternative deliveries and public water points. Tel Aviv restricted park irrigation, beach showers and public tap usage."
-    },
-    {
-      "id": "5069462",
-      "time": "2026-09-01 04:39:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【極端天氣致以色列多地供水受影響】據以色列水務局和當地媒體8月31日訊息，由於極端天氣造成海水渾濁，以色列地中海沿岸6座海水淡化廠中有5座在當天停止執行，導致全國多地供水受到影響。（央視新聞）"
     }
   ]
 }
