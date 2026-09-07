@@ -1,7 +1,72 @@
 {
   "date": "2026-09-07",
-  "count": 870,
+  "count": 876,
   "items": [
+    {
+      "id": "mkt:01a07a52-b458-7118-84c3-ac3020efcd31",
+      "time": "2026-09-07 13:23:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says U.S. sanctions raise transaction costs, urges move away from crude dependence】The chairman of the Iran‑Russia Joint Chamber of Commerce told IRNA that U.S. sanctions are intended to raise the cost of Iran's economic transactions and that in a multipolar world a complete economic blockade is difficult. He said expanding shared economic ties can help counter these measures and urged reducing reliance on crude oil for foreign exchange by increasing exports of petrochemicals, refined products, industrial goods, technology services and agricultural produce. He also called for diversifying trade corridors — opening multiple land, sea and multimodal routes — and said development of regional corridors is essential."
+    },
+    {
+      "id": "mkt:01a07a52-964d-7118-84c3-a4a703395142",
+      "time": "2026-09-07 13:23:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Future Asset: Samsung HBM expansion to offset 2027 slowdown in general memory growth】Future Asset Securities analyst Kim Young-gun says Samsung Electronics’ expansion of HBM shipments for AI applications should offset a slowdown in general memory-chip growth in 2027. Samsung’s HBM shipment capacity and ASP are forecast to rise 57% and 49% in 2027, versus projected 16% and 20% growth for general memory chips. Future Asset expects Samsung earnings to be weighed by a stronger won against the dollar but remain broadly healthy; it cut Samsung’s 2026 operating profit forecast by 5.7% to 370.057 tln won and its 2027 forecast by 4.2% to 535.682 tln won."
+    },
+    {
+      "id": "mkt:01a07a51-81dd-7118-84c3-9d04d5131910",
+      "time": "2026-09-07 13:22:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share CPO sector rallied again in the afternoon, with Guangxun Technology touching the daily limit; earlier more than ten stocks, including Jianqiao Technology, Xingsen Technology and Mingpu Optics & Magnetics, hit limit-up. Zhongji Xuchuang rose nearly 10%, while Shijia Photon, Robotec and Taichen Guang also advanced."
+    },
+    {
+      "id": "5080234",
+      "time": "2026-09-07 13:22:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率上升7個基點至4.1%。"
+    },
+    {
+      "id": "5080233",
+      "time": "2026-09-07 13:21:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊震盪走高，光迅科技觸及漲停】CPO板塊震盪走高，光迅科技觸及漲停，此前劍橋科技、興森科技、銘普光磁等十餘股漲停，中際旭創漲近10%，仕佳光子、羅伯特科、太辰光跟漲。"
+    },
+    {
+      "id": "5080232",
+      "time": "2026-09-07 13:21:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以軍再襲加沙 包括兒童在內至少4人死亡】以色列軍隊6日繼續空襲加沙地帶，造成至少4人死亡，其中包括兩名兒童。加沙地帶最大醫療機構希法醫院的管理人員說，以軍當天空襲加沙城西部，擊中一輛汽車，造成一名男子及其8歲女兒死亡，另致6人受傷。以色列軍方發言人稱，這次襲擊的目標是一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員。加沙地帶醫務人員說，以軍6日晚些時候又在加沙城實施兩次襲擊：一名男子在加沙城東部一家電信公司附近遭襲死亡；以軍坦克在一所收留無家可歸人員的學校附近撞死一名7歲女童。（央視新聞）"
+    },
     {
       "id": "5080231",
       "time": "2026-09-07 13:20:23",
