@@ -1,7 +1,66 @@
 {
   "date": "2026-09-07",
-  "count": 1931,
+  "count": 1937,
   "items": [
+    {
+      "id": "5081455",
+      "time": "2026-09-07 23:44:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示：卡達液化天然氣船隻駛近霍爾木茲海峽，試圖駛出海峽。"
+    },
+    {
+      "id": "mkt:01a07c8a-059c-7118-84d1-2ea17aa17c99",
+      "time": "2026-09-07 23:43:35",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed mixed on Sep 7 (Mon): Germany DAX down 33.99 pts (-0.13%) at 26,014.39; UK FTSE 100 down 8.87 pts (-0.08%) at 10,822.22; France CAC 40 up 27.38 pts (+0.33%) at 8,306.15; Euro Stoxx 50 up 10.92 pts (+0.17%) at 6,403.85; Spain IBEX 35 down 33.35 pts (-0.17%) at 20,017.35; Italy FTSE MIB up 144.07 pts (+0.28%) at 52,244.50."
+    },
+    {
+      "id": "5081454",
+      "time": "2026-09-07 23:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1‑8 月交付量 475 架。1‑8 月飛機毛訂單為 1157 架，1‑8 月飛機淨訂單 1091 架。"
+    },
+    {
+      "id": "mkt:01a07c88-ee0c-7118-84d1-22bc0f35e5ad",
+      "time": "2026-09-07 23:42:23",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus said it delivered 57 aircraft in August and recorded 67 orders for the month."
+    },
+    {
+      "id": "5081453",
+      "time": "2026-09-07 23:41:42",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "空客：8月交付量57架，8月總訂單量67架。"
+    },
+    {
+      "id": "te:markets:581698",
+      "time": "2026-09-07 23:41:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Uranium Holds Near 6-Month High — Uranium futures in the US were at $90 per pound, remaining close to the over six-month high of $90.6 touched on August 26th amid risks to supply and strong demand. The outlook on yellowcake supply from Kazatomprom, the world's largest uranium producer, faced fresh uncertainty as its TQZ sulphuric acid plant faced delays, limiting capacity for leaching uranium. The producer also noted that demand was accelerating as large economies continued to invest in nuclear power to achieve decarbonization goals and limit exposure to volatile commodity markets due to geopolitical tension in Russia and the Middle East. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
+    },
     {
       "id": "5081452",
       "time": "2026-09-07 23:39:37",
