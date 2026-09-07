@@ -1,7 +1,25 @@
 {
   "date": "2026-09-08",
-  "count": 117,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:01a07d63-ff45-7118-84d2-f7e858271b2d",
+      "time": "2026-09-08 03:41:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Zaporizhzhia nuclear plant external power restored】On Sept 7 local time, the Zaporizhzhia nuclear plant said external power via the 330 kV Ferroalloy-1 line was restored. The plant returned to normal operating mode after repairs completed following a new silence regime implemented on Sept 5."
+    },
+    {
+      "id": "5081510",
+      "time": "2026-09-08 03:41:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【扎波羅熱核電站外部供電已恢復】當地時間9月7日，扎波羅熱核電站官方通報，該核電站已恢復330千伏“鐵合金-1”線路的外部電力供應。恢復供電後，扎波羅熱核電站系統已切換至正常執行模式。（央視新聞）"
+    },
     {
       "id": "mkt:01a07d62-b2d1-7118-84d2-eb157f1affcc",
       "time": "2026-09-08 03:40:15",
