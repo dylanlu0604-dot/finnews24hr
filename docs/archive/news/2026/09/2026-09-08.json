@@ -1,7 +1,18 @@
 {
   "date": "2026-09-08",
-  "count": 192,
+  "count": 193,
   "items": [
+    {
+      "id": "te:markets:581729",
+      "time": "2026-09-08 06:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Appreciates by 1.22% — Top currency gainers are Japanese Yen (1.22%), Norwegian Krone (0.48%), British Pound (0.14%) and Euro (0.09%). Biggest losers are Dollar Index (-0.27%), Swedish Krona (-0.27%) and Mexican Peso (-0.25%)."
+    },
     {
       "id": "5081562",
       "time": "2026-09-08 06:11:42",
