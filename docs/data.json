@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-07 08:44:10",
-  "count": 14122,
+  "updated": "2026-09-07 08:48:01",
+  "count": 14124,
   "items": [
+    {
+      "id": "mkt:01a07955-8580-7118-84be-17a090914893",
+      "time": "2026-09-07 08:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Mainland margin financing balances fall CNY 18.263 bln】As of Sept 4, margin financing on the Shanghai Stock Exchange was CNY 1,331.643 bln, down CNY 11.121 bln from the prior session; Shenzhen was CNY 1,269.132 bln, down CNY 7.142 bln. Combined margin balance across both exchanges stood at CNY 2,600.775 bln, down CNY 18.263 bln."
+    },
+    {
+      "id": "5079833",
+      "time": "2026-09-07 08:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六部門：支援經典名企做優做強，推動建設一批世界一流經典品牌】工業和資訊化部等六部門近日聯合印發《關於推動歷史經典產業高質量發展的意見》。意見提出，加快企業分類培育。支援經典名企做優做強，加快製造業單項冠軍企業培育，推動建設一批世界一流經典品牌。引導中小企業做精做深，鼓勵優質企業申請專精特新“小巨人”企業，支援將符合條件的企業納入省級中小企業發展專項資金支援範圍。支援工坊式、家族式企業引入現代生產技術和管理方式，加快提升工業設計能力，推動傳統工藝最佳化革新。"
+    },
+    {
+      "id": "5079832",
+      "time": "2026-09-07 08:47:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少182.63億元】截至9月4日，上交所融資餘額報13316.43億元，較前一交易日減少111.21億元；深交所融資餘額報12691.32億元，較前一交易日減少71.42億元；兩市合計26007.75億元，較前一交易日減少182.63億元。"
+    },
+    {
+      "id": "te:markets:581437",
+      "time": "2026-09-07 08:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Jump on Tech Boost — The Nikkei 225 Index jumped 2% to above 66,300 while the broader Topix Index gained 0.8% to 4,136 on Monday, with Japanese shares advancing for a second straight session as technology and artificial intelligence-linked stocks outperformed. The gains came as US chipmakers and memory stocks rallied on Friday amid improving sentiment toward the sector, although the broader market remained pressured by stronger-than-expected US jobs data that boosted expectations for a Federal Reserve rate hike this month. Markets also priced in a rate increase from the Bank of Japan at its September meeting as the country continues to grapple with persistent inflation and a weak yen. Top tech gainers included Kioxia Holdings (7.2%), SoftBank Group (6.1%), Advantest (2.6%), Fujikura (5.9%) and Tokyo Electron (5.3%). Meanwhile, financial and consumer stocks underperformed, with losses from Mitsubishi UFJ (-0.9%) and Nintendo (-2.2%)."
+    },
+    {
+      "id": "5079831",
+      "time": "2026-09-07 08:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六部門：推動歷史經典產業綠色低碳標準國際化 加快構建綠色低碳產業鏈供應鏈】工業和資訊化部等六部門印發《關於推動歷史經典產業高質量發展的意見》。其中提到，深化產業綠色化轉型。研發推廣生物降解材料、天然植物染料等綠色低碳新材料，支援企業開展鍋爐窯爐節能改造、清潔能源替代，逐步淘汰燃煤鍋爐窯爐。支援絲綢、茶葉、瓷器等企業開展產品碳足跡核算，並推動國際社會認可。推動歷史經典產業綠色低碳標準國際化，加快構建綠色低碳產業鏈供應鏈。"
+    },
     {
       "id": "5079830",
       "time": "2026-09-07 08:43:12",
@@ -129284,34 +129335,6 @@
         "Importance 2"
       ],
       "text": "Japanese Shares Drop on Hawkish Fed Bets — The Nikkei 225 Index dropped 1.4% to below 65,500 while the broader Topix Index fell 0.9% to 4,110 on Monday, giving back last week’s gains as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for a US rate hike in September. In his Jackson Hole address on Friday, Warsh warned that inflation is not slowing significantly and reiterated the Fed’s commitment to returning inflation to its 2% goal, while noting that financial conditions are not currently restrictive. Sentiment was also pressured by a jump in oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz. Domestically, data showed Japan’s industrial output unexpectedly increased in July, while retail sales growth exceeded forecasts. Technology stocks led the decline, with Advantest (-6%), Terra Drone (-15%), SoftBank Group (-3.3%), Tokyo Electron (-3%) and Ibiden Co (-3.6%) posting sharp losses."
-    },
-    {
-      "id": "mkt:01a05549-523b-7118-8404-cfdaa56f03d3",
-      "time": "2026-08-31 08:47:43",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Two-exchange margin financing down 6.162 bln yuan】As of Aug 28, margin financing on the Shanghai Stock Exchange was 1,342.944 bln yuan, down 6.131 bln from the prior trading day; Shenzhen was 1,278.973 bln yuan, down 0.031 bln. Combined margin financing totaled 2,621.917 bln yuan, a decline of 6.162 bln yuan."
-    },
-    {
-      "id": "5067576",
-      "time": "2026-08-31 08:46:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少61.63億元】截至8月28日，上交所融資餘額報13429.44億元，較前一交易日減少61.31億元；深交所融資餘額報12789.73億元，較前一交易日減少0.32億元；兩市合計26219.17億元，較前一交易日減少61.63億元。"
-    },
-    {
-      "id": "5067575",
-      "time": "2026-08-31 08:45:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博彙股份：Ⅲ類潤滑油基礎油市場拓展工作有序開展並已獲客戶認可】博彙股份(300839)8月31日在互動平臺表示，公司Ⅲ類潤滑油基礎油市場拓展工作有序開展並已獲得客戶認可，該類產品一般應用於高階機械裝置、化妝品和食品級等領域。"
     }
   ]
 }

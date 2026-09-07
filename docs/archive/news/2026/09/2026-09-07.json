@@ -1,7 +1,58 @@
 {
   "date": "2026-09-07",
-  "count": 389,
+  "count": 394,
   "items": [
+    {
+      "id": "mkt:01a07955-8580-7118-84be-17a090914893",
+      "time": "2026-09-07 08:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Mainland margin financing balances fall CNY 18.263 bln】As of Sept 4, margin financing on the Shanghai Stock Exchange was CNY 1,331.643 bln, down CNY 11.121 bln from the prior session; Shenzhen was CNY 1,269.132 bln, down CNY 7.142 bln. Combined margin balance across both exchanges stood at CNY 2,600.775 bln, down CNY 18.263 bln."
+    },
+    {
+      "id": "5079833",
+      "time": "2026-09-07 08:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六部門：支援經典名企做優做強，推動建設一批世界一流經典品牌】工業和資訊化部等六部門近日聯合印發《關於推動歷史經典產業高質量發展的意見》。意見提出，加快企業分類培育。支援經典名企做優做強，加快製造業單項冠軍企業培育，推動建設一批世界一流經典品牌。引導中小企業做精做深，鼓勵優質企業申請專精特新“小巨人”企業，支援將符合條件的企業納入省級中小企業發展專項資金支援範圍。支援工坊式、家族式企業引入現代生產技術和管理方式，加快提升工業設計能力，推動傳統工藝最佳化革新。"
+    },
+    {
+      "id": "5079832",
+      "time": "2026-09-07 08:47:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少182.63億元】截至9月4日，上交所融資餘額報13316.43億元，較前一交易日減少111.21億元；深交所融資餘額報12691.32億元，較前一交易日減少71.42億元；兩市合計26007.75億元，較前一交易日減少182.63億元。"
+    },
+    {
+      "id": "te:markets:581437",
+      "time": "2026-09-07 08:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Jump on Tech Boost — The Nikkei 225 Index jumped 2% to above 66,300 while the broader Topix Index gained 0.8% to 4,136 on Monday, with Japanese shares advancing for a second straight session as technology and artificial intelligence-linked stocks outperformed. The gains came as US chipmakers and memory stocks rallied on Friday amid improving sentiment toward the sector, although the broader market remained pressured by stronger-than-expected US jobs data that boosted expectations for a Federal Reserve rate hike this month. Markets also priced in a rate increase from the Bank of Japan at its September meeting as the country continues to grapple with persistent inflation and a weak yen. Top tech gainers included Kioxia Holdings (7.2%), SoftBank Group (6.1%), Advantest (2.6%), Fujikura (5.9%) and Tokyo Electron (5.3%). Meanwhile, financial and consumer stocks underperformed, with losses from Mitsubishi UFJ (-0.9%) and Nintendo (-2.2%)."
+    },
+    {
+      "id": "5079831",
+      "time": "2026-09-07 08:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六部門：推動歷史經典產業綠色低碳標準國際化 加快構建綠色低碳產業鏈供應鏈】工業和資訊化部等六部門印發《關於推動歷史經典產業高質量發展的意見》。其中提到，深化產業綠色化轉型。研發推廣生物降解材料、天然植物染料等綠色低碳新材料，支援企業開展鍋爐窯爐節能改造、清潔能源替代，逐步淘汰燃煤鍋爐窯爐。支援絲綢、茶葉、瓷器等企業開展產品碳足跡核算，並推動國際社會認可。推動歷史經典產業綠色低碳標準國際化，加快構建綠色低碳產業鏈供應鏈。"
+    },
     {
       "id": "5079830",
       "time": "2026-09-07 08:43:12",
