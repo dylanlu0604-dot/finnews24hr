@@ -1,7 +1,157 @@
 {
   "date": "2026-09-07",
-  "count": 828,
+  "count": 843,
   "items": [
+    {
+      "id": "5080212",
+      "time": "2026-09-07 13:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民調：李在明施政好評率37.4%創任內新低】據韓聯社，韓國民調機構Realmeter7日釋出的民調結果顯示，總統李在明的施政好評率降至37.4%，創就職以來的新低。受日刊《能源經濟新聞》委託，Realmeter於上月31日至本月4日對全國18週歲以上的2510人進行上述調查。結果顯示，李在明施政好評率較前一週下降1.5個百分點，為37.4%。差評率上升0.8個百分點，為59.5%，連續6周在誤差範圍之外高於好評率。"
+    },
+    {
+      "id": "mkt:01a07a3d-cdaf-7118-84c3-6a7246685c42",
+      "time": "2026-09-07 13:01:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan July coincident index preliminary MoM +1.7% (June +0.6%)."
+    },
+    {
+      "id": "mkt:01a07a3d-b064-7118-84c3-62b324b9f4c7",
+      "time": "2026-09-07 13:00:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (MoM) (Jul) | actual 1.7% | previous 0.6%"
+    },
+    {
+      "id": "mkt:01a07a3d-aeee-7118-84c3-5fa559887ed0",
+      "time": "2026-09-07 13:00:57",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July coincident index (preliminary) 120.6, expected 120.3; prior 118.5."
+    },
+    {
+      "id": "mkt:01a07a3d-91eb-7118-84c3-55299f82c2c4",
+      "time": "2026-09-07 13:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan leading economic index (preliminary) +1.7% MoM in July; prior 0.0%."
+    },
+    {
+      "id": "mkt:01a07a3d-901a-7118-84c3-4faf7639ba52",
+      "time": "2026-09-07 13:00:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (Jul) | actual 120.6 | consensus 120.3 | previous 118.5"
+    },
+    {
+      "id": "mkt:01a07a3d-72ac-7118-84c3-4693f8909000",
+      "time": "2026-09-07 13:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (MoM) (Jul) | actual 1.7% | previous 0%"
+    },
+    {
+      "id": "mkt:01a07a3d-6b4e-7118-84c3-3d14c31659da",
+      "time": "2026-09-07 13:00:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan July preliminary leading economic index 117.9 vs consensus 118; prior 116.5."
+    },
+    {
+      "id": "mkt:01a07a3d-51dc-7118-84c3-34853d949b72",
+      "time": "2026-09-07 13:00:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (Jul) | actual 117.9 | consensus 118 | previous 116.5"
+    },
+    {
+      "id": "mkt:01a07a3d-2b93-7118-84c3-294d83d6c6ce",
+      "time": "2026-09-07 13:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore July seasonally adjusted retail sales +0.9% MoM; June +1.0%."
+    },
+    {
+      "id": "mkt:01a07a3d-1eaf-7118-84c3-2027148974cf",
+      "time": "2026-09-07 13:00:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Singapore July retail sales YoY +1.5%, down from +4.0% in June."
+    },
+    {
+      "id": "mkt:01a07a3d-0eac-7118-84c3-1e434767ae9b",
+      "time": "2026-09-07 13:00:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Retail Sales SA (MoM) (Jul) | actual 0.9% | previous 1.00%"
+    },
+    {
+      "id": "mkt:01a07a3c-ff84-7118-84c3-15355d2b6911",
+      "time": "2026-09-07 13:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Retail Sales (YoY) (Jul) | actual 1.5% | previous 4.00%"
+    },
+    {
+      "id": "5080211",
+      "time": "2026-09-07 12:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度主權類財富基金聘任前 PAG 高管負責全球募資】印度準主權財富基金 —— 國家投資與基礎設施基金（NIIF）任命高拉夫吉特・辛格（Gauravjit Singh）負責全球募資工作，該機構希望藉此深化與海內外投資者的合作關係。該基金週一釋出宣告稱，辛格出任 NIIF 管理合夥人兼全球資本募集負責人。基金表示，辛格將著力維護現有投資者關係，同時拓展境內外機構投資者群體。此次任命之際，NIIF 正在擴大募資佈局，面向日本、歐洲等更多地區招攬投資者，押注印度基建熱潮將持續吸引海外長期資本。過去兩年，NIIF 拿到約 30 億美元新增投資承諾，是印度本土另類資產管理機構中募資規模靠前的機構。"
+    },
+    {
+      "id": "5080210",
+      "time": "2026-09-07 12:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超十家車企，掀起新一輪促銷戰】“金九銀十”剛至，車市又掀起了新一輪的促銷戰。9月7日，特斯拉宣佈，9月30日前下單並提現車，Model 3全系現金激勵5000元、Model Y全系激勵10000元，部分車型可疊加8000元保險補貼；疊加5年0息後Model 3售價22.25萬元起。不只是特斯拉，據記者不完全統計，已有超過十家車企在9月集中釋放購車權益，覆蓋新勢力、自主、合資與豪華品牌全陣營，主要促銷措施包括金融政策、現金直降、置換補貼、一口價等形式。（第一財經）"
+    },
     {
       "id": "5080209",
       "time": "2026-09-07 12:54:34",
