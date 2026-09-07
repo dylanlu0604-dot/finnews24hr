@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-07 09:19:28",
-  "count": 14119,
+  "updated": "2026-09-07 09:23:19",
+  "count": 14122,
   "items": [
+    {
+      "id": "mkt:01a07975-b6e8-7118-84be-c0c62486a12a",
+      "time": "2026-09-07 09:22:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC nets CNY4.5 bln withdrawal via reverse repos】The PBOC injected CNY0.5 bln via 7‑day reverse repos and CNY500 bln via outright reverse repos. With CNY5 bln of 7‑day reverse repos and CNY500 bln of outright reverse repos maturing, net open‑market liquidity drained CNY4.5 bln today."
+    },
+    {
+      "id": "5079886",
+      "time": "2026-09-07 09:21:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方Ａ：2026年上半年已實現玻璃基封裝載板試驗線全自動化裝置通線】京東方Ａ在投資者關係活動中表示，公司2024年投資9.93億元建設板級玻璃基封裝載板試驗線，並於2025年內完成主裝置搬入除錯，2026年上半年已實現全自動化裝置通線。該試驗線設計產能1,000片/月，目前已拉通高深寬比TGV開孔、深孔填銅、低應力金屬佈線、高層數壓合、高密度佈線、低應力切割等全流程工藝，具備完備玻璃載板製造能力。"
+    },
+    {
+      "id": "5079885",
+      "time": "2026-09-07 09:21:42",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a07974-f3cb-7118-84be-be4179da1061",
+      "time": "2026-09-07 09:21:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 5 billion yuan 7-day reverse repo today; bids 5 billion yuan, allotment 5 billion yuan, rate 1.40%, unchanged."
+    },
+    {
+      "id": "5079884",
+      "time": "2026-09-07 09:21:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報141120.00元。"
+    },
+    {
+      "id": "mkt:01a07974-a1ae-7118-84be-b1687008402e",
+      "time": "2026-09-07 09:21:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09903.HK",
+        "Impact bullish",
+        "09888.HK",
+        "03692.HK"
+      ],
+      "text": "Hong Kong equities opened with the Hang Seng Index up 0.01% and the Hang Seng TECH Index down 0.26%. Tianshu Zhixin (09903.HK) rose about 3.5%, Huahong Hongli (01347.HK) gained about 2%, and Baidu (09888.HK) and Hansoh Pharmaceutical (03692.HK) each advanced more than 1.8%."
+    },
+    {
+      "id": "mkt:01a07974-9cb0-7118-84be-afcd42900e56",
+      "time": "2026-09-07 09:21:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact mixed"
+      ],
+      "text": "Hong Kong markets opened mixed on Monday Sept 7: HSI opened up 2.10 pts (0.01%) at 25,652.97; Hang Seng Tech opened down 11.73 pts (0.26%) at 4,558.07; H-share index opened down 6.97 pts (0.08%) at 8,548.06; Red Chip index opened down 7.17 pts (0.17%) at 4,206.29."
+    },
+    {
+      "id": "5079883",
+      "time": "2026-09-07 09:21:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海洋經濟高質量發展人才對接活動將舉辦】自然資源部、人力資源和社會保障部將於9月16日在青島聯合舉辦“才聚藍海智創未來”海洋經濟高質量發展人才對接活動，旨在推動海洋經濟領域就業穩崗擴容提質。 活動設定海洋經濟高質量發展人才對接會和產才供需見面會兩大平行板塊，招聘單位在產才供需見面會現場設定展位，進行面對面交流對接，以實現人才與崗位的高效匹配。 活動邀請海洋領域中央企業、高新技術企業、專精特新企業等企業和科研院所與會對接人才需求，包括中國船舶集團、中國海油集團、中遠海運集團、招商局集團、中國交建集團、中國電建集團，自然資源部第二海洋研究所、天津海水淡化所、海洋資訊中心、第四海洋研究所等用人單位。截至目前，活動面向沿海11個省（區、市）徵集用人單位174家，提供崗位732個，人才需求數量超2000人。有關高層次人才、專業技術人才、高技能人才、創新創業人才、優秀應屆畢業生等均可參加對接活動。（自然資源部）"
+    },
+    {
+      "id": "5079882",
+      "time": "2026-09-07 09:20:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "深圳麥科田生物醫療技術股份有限公司開盤報10港元, IPO價15.42港元。"
+    },
+    {
+      "id": "mkt:01a07973-9565-7118-84be-a4e1d7f5365a",
+      "time": "2026-09-07 09:20:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chengdu targets sharp rise in national- and provincial-level specialized, refined, distinctive and innovative enterprises by 2028】Chengdu municipal party and government offices issued implementation guidance to optimize the city’s tech-innovation ecosystem. The plan pushes simultaneous advancement of tech innovation and commercialization, prioritizing firm cultivation, platform enablement, results conversion and factor support through organized innovation, systematized matchmaking and more efficient commercialization. Targets by 2028: a substantial increase in national- and provincial-level specialized, refined, distinctive and innovative enterprises; whole-society R&D intensity to reach 4.3% of GDP; and 30 high-value invention patents per 10,000 people."
+    },
+    {
+      "id": "5079881",
+      "time": "2026-09-07 09:20:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "矽鐵連續主力合約日內跌2%，現報6430.00元。"
+    },
+    {
+      "id": "5079880",
+      "time": "2026-09-07 09:20:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米18 Fold陶瓷特別版官宣】盧偉冰發文稱：小米18 Fold 陶瓷特別版 每片色彩，都獨一無二，為你特別準備 今晚7點見！"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609073866218183",
+      "time": "2026-09-07 09:19:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國非農資料總量強勁與結構裂痕並存 美聯儲9月加息懸念留待CPI揭曉】機構對下週資料的預判出現罕見對立。美銀證券預測8月核心CPI環比上漲0.22%，對應核心PCE約0.24%，年率升至3.4%，認為足以支援9月加息落地，8月CPI將是＂關鍵一戰＂；花旗則預測核心CPI環比僅增0.184%，年率降至2.3%——若成真，將是2021年4月以來最低年率讀數，足以令大多數官員選擇按兵不動。"
+    },
     {
       "id": "5079879",
       "time": "2026-09-07 09:18:52",
@@ -129205,92 +129329,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "5067644",
-      "time": "2026-08-31 09:22:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "香港恒生材料指數開盤下跌4%。"
-    },
-    {
-      "id": "5067643",
-      "time": "2026-08-31 09:22:24",
-      "tags": [
-        "央行",
-        "焦點"
-      ],
-      "text": "中國央行：今日開展50億元7天逆回購操作，投標量50億元，中標量50億元，操作利率為1.40%。同時，開展了4470億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5067642",
-      "time": "2026-08-31 09:22:14",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股內房股普遍高開，萬科企業高開8%】港股內房股普遍高開，萬科企業高開8%，融創中國高開14.8%，碧桂園高開14.7%。訊息面上，央行、金融監管總局於8月28日聯合釋出房地產信貸管理新規，將個人住房貸款期限上限由最長30年調整為最長不超過40年。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608313859607544",
-      "time": "2026-08-31 09:22:11",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展50億元7天期逆回購操作，操作利率為1.40%。同時，開展了4470億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5067641",
-      "time": "2026-08-31 09:22:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "五年期日本國債<JP5YTN=JBTC>收益率升至紀錄高點2.210%。"
-    },
-    {
-      "id": "5067640",
-      "time": "2026-08-31 09:22:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國東方航空港股開盤下跌1.7%。"
-    },
-    {
-      "id": "5067639",
-      "time": "2026-08-31 09:21:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "國航香港股份開盤下跌1.3%。"
-    },
-    {
-      "id": "5067638",
-      "time": "2026-08-31 09:21:34",
-      "tags": [],
-      "text": "港股恒指低開跌0.64％，國企指數跌0.55％，恒生科技指數跌0.42%。"
-    },
-    {
-      "id": "5067637",
-      "time": "2026-08-31 09:21:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：預計2026年全球光模組模擬晶片需求超100億元】中信證券研報認為，在AI算力旺盛需求的推動下，光模組終端持續放量、速率升級推動相關模擬晶片料號需求快速增長，海內外頭部廠商指引積極，測算2026年全球光模組模擬晶片需求超100億元，目前全球格局以海外龍頭為主導，國產化加速推進。2026年以來國內龍頭模擬公司光模組相關業務迎來快速放量，進而帶動業績快速增長。"
-    },
-    {
-      "id": "5067636",
-      "time": "2026-08-31 09:20:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率上升2.5個基點，至2.210%。"
     }
   ]
 }
