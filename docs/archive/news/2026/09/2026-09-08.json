@@ -1,7 +1,35 @@
 {
   "date": "2026-09-08",
-  "count": 19,
+  "count": 22,
   "items": [
+    {
+      "id": "5081469",
+      "time": "2026-09-08 00:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統：我們重申，墨西哥現在不是，將來也不會成為任何外國的殖民地或受保護國。我們自豪地作為一個自由、獨立且擁有主權的國家屹立於世。"
+    },
+    {
+      "id": "mkt:01a07ca7-d7ac-7118-84d1-64b680499d3c",
+      "time": "2026-09-08 00:16:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's president reiterated that Mexico is not, and will not become, a colony or protectorate of any foreign power, and affirmed Mexico's status as a free, independent, sovereign nation."
+    },
+    {
+      "id": "mkt:01a07ca5-8b27-7118-84d1-5d239e12a62b",
+      "time": "2026-09-08 00:13:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Lebanon says Israeli strikes on southern Lebanon have killed 27 and wounded 69】Lebanon’s Ministry of Public Health emergency operations center said on the 7th its preliminary casualty toll from Israeli strikes on southern Lebanon over the past three days stood at 27 dead and 69 injured, including children, women and medical personnel."
+    },
     {
       "id": "mkt:01a07ca4-a813-7118-84d1-505193d6d57f",
       "time": "2026-09-08 00:12:40",

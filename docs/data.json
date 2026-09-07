@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-08 00:13:38",
-  "count": 14247,
+  "updated": "2026-09-08 00:17:35",
+  "count": 14249,
   "items": [
+    {
+      "id": "5081469",
+      "time": "2026-09-08 00:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統：我們重申，墨西哥現在不是，將來也不會成為任何外國的殖民地或受保護國。我們自豪地作為一個自由、獨立且擁有主權的國家屹立於世。"
+    },
+    {
+      "id": "mkt:01a07ca7-d7ac-7118-84d1-64b680499d3c",
+      "time": "2026-09-08 00:16:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's president reiterated that Mexico is not, and will not become, a colony or protectorate of any foreign power, and affirmed Mexico's status as a free, independent, sovereign nation."
+    },
+    {
+      "id": "mkt:01a07ca5-8b27-7118-84d1-5d239e12a62b",
+      "time": "2026-09-08 00:13:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Lebanon says Israeli strikes on southern Lebanon have killed 27 and wounded 69】Lebanon’s Ministry of Public Health emergency operations center said on the 7th its preliminary casualty toll from Israeli strikes on southern Lebanon over the past three days stood at 27 dead and 69 injured, including children, women and medical personnel."
+    },
     {
       "id": "mkt:01a07ca4-a813-7118-84d1-505193d6d57f",
       "time": "2026-09-08 00:12:40",
@@ -130334,17 +130362,6 @@
         "宏觀"
       ],
       "text": "德國財政部長克林貝爾表示，記者被禁止出席G20會議是不可接受的。"
-    },
-    {
-      "id": "te:markets:579652",
-      "time": "2026-09-01 00:15:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Slips From Three-Month High — Palladium futures hovered near $1,380 per ounce, after reaching a three-month high, as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply."
     }
   ]
 }
