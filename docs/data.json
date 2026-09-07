@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-07 08:24:55",
-  "count": 14128,
+  "updated": "2026-09-07 08:28:43",
+  "count": 14130,
   "items": [
+    {
+      "id": "5079818",
+      "time": "2026-09-07 08:28:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉推出限時優惠政策，購買Model 3/Y現車享現金激勵5000元起】據特斯拉訊息，即日起至2026年9月30日（含）前下單並提車，Model 3全系現車享現金激勵5000元，Model Y全系現車享現金激勵10,000元。同時，Model 3部分車型還可申請享受8000元保險補貼。享受所有政策優惠後，Model 3售價222,500元起；Model Y售價253,500元起。"
+    },
+    {
+      "id": "5079817",
+      "time": "2026-09-07 08:27:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元上漲0.7%。"
+    },
+    {
+      "id": "5079816",
+      "time": "2026-09-07 08:27:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【經濟日報：17億塊晶片的喜與憂】7月份，我國規模以上工業企業積體電路產量達530億塊，相當於日均生產約17億塊晶片；今年前7個月，我國積體電路出口總額達2160億美元，同比增長99.5%，已超2025年全年2019億美元的出口總額。這組資料表明，中國積體電路產業正迎來新一輪高速增長。欣喜之餘，我們仍需清醒看到行業隱憂。憂在何處？產業深層矛盾尚待破解。技術壁壘與“卡脖子”風險猶存。儘管晶片產量與出口飆升，但高階晶片仍受制於國外技術封鎖，關鍵材料、裝置國產化率不足，產業鏈安全存在隱患。產業結構隱憂顯現。當前產能增長主要依賴儲存晶片與成熟製程，中低端晶片產能集中、存在重複建設問題，高階晶片產能不足、存在結構性緊缺。國際競爭壓力持續加劇。美國對華技術圍堵不斷升級，全球半導體格局重塑充滿不確定性，出口高增長能否持續面臨考驗。面對機遇與挑戰並存的格局，中國積體電路產業需從“量的積累”轉向“質的突破”。錨定高階，突破“卡脖子”瓶頸。要持續加大研發投入，把資源向關鍵核心技術傾斜，聚焦裝置、材料等薄弱環節集中攻關，用好新型舉國體制，推動單項技術突破向全鏈條能力躍升。"
+    },
+    {
+      "id": "5079815",
+      "time": "2026-09-07 08:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來三天北方降雨向東擴充套件 多地氣溫將創下半年來新低】今後三天（9月7日至9日），冷空氣將繼續影響北方，降雨將向東擴充套件，局地有暴雨。降雨的同時也將帶來降溫，其中北方降溫主要集中在今天至9日，南方9日至10日也將陸續迎來一波降溫。"
+    },
+    {
+      "id": "mkt:01a07942-1034-7118-84bd-f11e954b9b0f",
+      "time": "2026-09-07 08:26:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose 2.00% intraday."
+    },
+    {
+      "id": "5079814",
+      "time": "2026-09-07 08:24:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合指數大漲，晶片股延續漲勢】受上週 OpenAI 釋出新版 ChatGPT 模型 Astra 帶動，晶片股持續走高，韓國基準股指韓國綜合指數最大漲幅達 3.5%。SK 海力士與三星電子對指數拉動作用最大，兩隻個股漲幅均至少 4%。首爾 Timefolio 投資管理公司基金經理Kim Namho表示，韓國晶片企業上漲的核心驅動來自市場對 OpenAI 新模型的樂觀預期，該預期同樣推高了美國晶片股。早盤時段外資與本土基金淨買入韓國綜合指數成分股，散戶投資者則賣出。中小盤為主的韓國科斯達克指數最大漲幅 1.5%。"
+    },
     {
       "id": "mkt:01a07940-668e-7118-84bd-e9a8422fef62",
       "time": "2026-09-07 08:24:18",
@@ -129322,46 +129377,6 @@
         "國際"
       ],
       "text": "【“沙德爾”殘餘渦旋或再次發展加強 “班朗”未來對我國無影響】今年第18號颱風“沙德爾”減弱後的殘餘渦旋的中心昨天夜間從廣西壯族自治區梧州市岑溪市移入廣東省茂名市，今天（31日）早晨5點鐘其中心位於廣東省雷州市東部近海海面上，就是北緯20.7度、東經110.4度。預計，“沙德爾”殘餘渦旋今天白天將以每小時15—20公里的速度向偏南轉偏東方向移動，將與南海熱帶擾動合併後轉為東偏北方向移動，可能發展為熱帶低壓或編號颱風。今年第23號颱風 “班朗”（熱帶風暴級）的中心今天（31日）早晨5點鐘位於日本東京東偏南方向約2310公里的西北太平洋洋麵上，就是北緯36.2度，東經165.4度，中心附近最大風力8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑50—200公里。預計“班朗”將以每小時25—30公里的速度繼續向偏北方向快速移動，將逐漸變性為溫帶氣旋，未來對我國無影響。"
-    },
-    {
-      "id": "te:markets:579302",
-      "time": "2026-08-31 08:28:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline on Fed Rate Hike Bets — Gold traded around $4,460 an ounce on Monday after tumbling more than 3% in the previous session, as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for an imminent interest rate hike. In his Jackson Hole address on Friday, Warsh warned that inflation is not easing significantly and reaffirmed the central bank’s commitment to bringing inflation back to its 2% target, while noting that financial conditions are not currently restrictive. Markets are now pricing in around a 57% chance of a 25-basis-point Fed rate hike in September, up sharply from roughly 40% a week earlier. Gold also remained pressured by rising oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month."
-    },
-    {
-      "id": "5067556",
-      "time": "2026-08-31 08:27:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【8月31日新股提示：百邁科申購 電科思儀公佈中籤率】據交易所公告，百邁科今日申購，申購程式碼：920268，發行價格：17.1元/股。電科思儀公佈中籤率，為0.0181%。百邁科今日繳款。"
-    },
-    {
-      "id": "te:markets:579301",
-      "time": "2026-08-31 08:26:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Recruit Holdings Stock Price Hits All-time High — Recruit Holdings shares increased to an all-time high of 17830.00 JPY. Over the past 4 weeks, Recruit Holdings gained 35.38%, and in the last 12 months, it increased 106.73%."
-    },
-    {
-      "id": "5067555",
-      "time": "2026-08-31 08:25:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【索尼與華納起訴美國安特羅匹克公司大規模音樂侵權】據美國方面訊息，索尼音樂和華納音樂旗下子公司日前在美國加州北區聯邦地區法院起訴美國人工智慧公司安特羅匹克，指控其大規模侵犯音樂作品版權，並將相關作品用於訓練人工智慧模型。原告在訴狀中指控，安特羅匹克透過非法下載、網路抓取等方式，大規模獲取受版權保護的音樂作品，用於開發和運營人工智慧模型。原告稱，安特羅匹克的行為是“有史以來規模最大、最明目張膽的持續性智慧財產權盜竊行為之一”，並要求就每部被侵權的音樂作品支付最高15萬美元的賠償。對此，安特羅匹克表示不同意原告提出的指控。"
     }
   ]
 }
