@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-07 18:25:17",
-  "count": 14301,
+  "updated": "2026-09-07 18:29:16",
+  "count": 14297,
   "items": [
+    {
+      "id": "mkt:01a07b69-8425-7118-84cc-6ef8e4e77dde",
+      "time": "2026-09-07 18:28:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Societe Generale: US 10-year 5.5% a critical threshold; breach would pressure equity valuations】Alain Bokobza, head of global asset allocation at Societe Generale, says the US 10-year yield at 5.5% is a critical threshold: higher borrowing costs would outstrip earnings growth and begin to press equity valuations. He notes sizable global earnings upgrades this year have so far prevented a collapse in equity risk premia and that equities are not pricier than at the start of the year, but 5.5% is the level where further earnings revisions would likely be insufficient to sustain current valuations. Bokobza expects forthcoming Fed and ECB hikes to be modest and not aggressive enough to break the cycle or fully allay inflation concerns. J.P. Morgan’s Grace Peters and Barclays’ Emmanuel Cau have flagged a 5% 10-year yield as a psychologically significant level that could prompt stress in equity markets."
+    },
+    {
+      "id": "5081044",
+      "time": "2026-09-07 18:28:20",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【法興銀行：美債10年期收益率5.5%為臨界點 突破將施壓股市估值】法國興業銀行全球資產配置主管Alain Bokobza表示，10年期美債收益率5.5%是一個臨界點，更高的借貸成本將超過盈利增長，並開始對股票估值構成壓力。Bokobza指出，今年全球盈利預期大幅上調，使得即使收益率上升，股票風險溢價也未崩塌。他表示：“目前股票並不比年初更貴，但5.5%的收益率水平將是盈利上調不再足以支撐估值的臨界點，即股票開始受到衝擊的閾值。預計美聯儲和歐洲央行即將到來的加息將是溫和的，不太可能激進到打破當前經濟週期或平息通脹擔憂。”摩根大通的Grace Peters上週表示，10年期美債收益率達到5%將具有心理上的重大意義，可能引發股市的應激反應。巴克萊的Emmanuel Cau同樣認為，升至5%將使投資者對股市影響更加擔憂。"
+    },
+    {
+      "id": "5081043",
+      "time": "2026-09-07 18:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列8月份外匯儲備為2416.4億美元。"
+    },
+    {
+      "id": "mkt:01a07b69-1ed7-7118-84cc-651507f2aac6",
+      "time": "2026-09-07 18:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alice Weidel, co-leader of the Alternative for Germany (AfD), said no previous chancellor has been as unpopular as Chancellor Merz and that he has become a major burden hindering Germany's development."
+    },
+    {
+      "id": "te:markets:581647",
+      "time": "2026-09-07 18:27:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Eases Further from 3-1/2-Year High — Wheat fell below $7.20 per bushel, extending their retreat from a 3-1/2-year high of $7.67 on August 28, as traders assessed renewed diplomatic efforts to end the Russia-Ukraine war. US envoys held talks in Russia and Ukraine over the weekend, with discussions involving Ukrainian President Volodymyr Zelenskyy and senior European officials. The meetings raised hopes that a potential ceasefire could help restore disrupted Black Sea grain shipments, putting additional pressure on wheat prices. However, significant uncertainty remains, as repeated attacks by Russia and Ukraine on ports and commercial shipping sharply restricted grain exports from the region. Although wheat supplies remain available in the Black Sea, exporters continue to face difficulties moving cargoes to international markets. The disruption prompted Asian importers to seek alternative supplies, with trade sources reporting purchases of at least 500,000 metric tons of Australian and Argentine wheat in recent deals."
+    },
+    {
+      "id": "5081042",
+      "time": "2026-09-07 18:26:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華策影視：擬回購登出限制性股票減少註冊資本】華策影視公告稱，公司完成回購登出部分限制性股票後，總股本將由18.75億股減少至18.75億股，註冊資本將由18.75億元減少至18.75億元。根據相關規定，公司通知債權人自公告之日起45日內，有權要求公司清償債務或者提供相應的擔保，債權人需持相關證明檔案向公司提出書面請求。"
+    },
+    {
+      "id": "5081041",
+      "time": "2026-09-07 18:26:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威礦業公司 Nordic Mining ASA 獲環境署建議，獲批為期三年的尾礦處理臨時許可。"
+    },
+    {
+      "id": "5081040",
+      "time": "2026-09-07 18:25:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大族鐳射：控股股東及一致行動人合計解押1500萬股】大族鐳射公告稱，公司控股股東大族控股及一致行動人高雲峰於2026年9月4日辦理完成部分股份解除質押登記，其中大族控股解押615萬股，佔其所持股份4.07%、佔公司總股本0.60%；高雲峰解押885萬股，佔其所持股份9.19%、佔公司總股本0.86%；合計解押1500萬股，佔公司總股本1.46%。本次解押後，二者合計質押股份1.55億股，佔其所持股份比例62.83%、佔公司總股本比例15.09%，不存在平倉風險，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "5081039",
+      "time": "2026-09-07 18:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金埔園林：兩名股東減持計劃實施完成】金埔園林公告稱，公司股東南京高科新創投資有限公司、鎮江金麟企業管理中心（有限合夥）減持計劃已實施完成。其中高科新創於2026年8月26日至9月7日透過集中競價方式減持107.40萬股，佔公司總股本0.46%，減持均價9.24元/股，減持後不再持有公司股份；金麟合夥於2026年8月26日透過集中競價方式減持6.16萬股，佔公司總股本0.03%，減持均價9.19元/股，減持後持股31.59萬股，佔總股本0.14%。本次減持不會導致公司控制權發生變化。"
+    },
+    {
+      "id": "5081038",
+      "time": "2026-09-07 18:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格林達：2026年半年度每10股派發現金紅利0.65元】格林達公告稱，公司2026年半年度利潤分配方案以實施前總股本199,558,380股為基數，每股派發現金紅利0.065元（含稅），共計派發現金紅利1297.13萬元。股權登記日為2026年9月11日，除權（息）日及現金紅利發放日為2026年9月14日。本次分配方案已經2025年年度股東會授權，經公司第三屆董事會第十七次會議審議透過，無需再提交股東會審議。"
+    },
     {
       "id": "5081037",
       "time": "2026-09-07 18:24:40",
@@ -130708,130 +130799,6 @@
         "其他"
       ],
       "text": "【習近平會見烏茲別克總統米爾濟約耶夫】當地時間8月31日下午，國家主席習近平在比什凱克出席2026年上海合作組織峰會期間會見烏茲別克總統米爾濟約耶夫。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0575d-baa1-7118-8412-7b360d9ebfd6",
-      "time": "2026-08-31 18:29:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhiyang Innovation, Hangzhou Lingming Photonics sign strategic framework agreement】Zhiyang Innovation and Hangzhou Lingming Photonics have signed a strategic cooperation framework agreement, following a Feb 2026 strategic investment intent. The partnership moves from intent to product validation and technical collaboration; the firms will jointly advance R&D of LiDAR modules and solutions targeted at industry applications to accelerate integration of high-end sensing and AI into sector-specific use cases."
-    },
-    {
-      "id": "5068656",
-      "time": "2026-08-31 18:29:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智洋創新與靈明光子正式簽署戰略框架協議】近日，智洋創新與杭州靈明光子科技有限公司正式簽署《合作框架協議》。這是雙方繼2026年2月達成戰略投資合作意向後的又一重要進展，標誌著雙方合作正式從前期戰略意向邁入以產品驗證和技術協同為重點、面向行業應用落地的全新階段。根據協議，在前期驗證成果的基礎上，雙方將共同推進面向目標行業的鐳射雷達模組及解決方案研發，加速高階感知與人工智慧技術在行業場景中的融合應用。（人民財訊）"
-    },
-    {
-      "id": "5068655",
-      "time": "2026-08-31 18:29:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST信通：股票繼續被實施其他風險警示】ST信通公告稱，公司仍存在觸及《上海證券交易所股票上市規則》9.8.1條規定的其他風險警示情形，股票繼續被實施其他風險警示。公司為控股股東億陽集團違規擔保所致訴訟被司法劃扣及和解支付款項餘額1.10億元，控股股東尚未清償，間接控股股東和升集團未履行全額清償承諾，二者已被黑龍江證監局責令改正，需六個月內償還佔用資金。兩起違規擔保相關案件涉案本金合計2.83億元，公司已就恢復執行事項申請執行異議。公司將每月披露相關進展，目前生產經營正常。"
-    },
-    {
-      "id": "5068654",
-      "time": "2026-08-31 18:28:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【萬向德農：股票交易異常波動 提示相關風險】萬向德農公告稱，公司股票於2026年8月27日、28日、31日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。8月17日-8月31日公司股票累計漲幅78.48%，累計換手率111.26%，股價嚴重偏離基本面和合理估值區間，存在市場情緒過熱、非理性炒作及股價快速回落風險。2026年半年度公司實現營業收入9947.49萬元，同比下降15.14%；歸母淨利潤1380.16萬元，同比下降44.47%。經核查，公司及控股股東、實控人不存在應披露未披露的重大事項，生產經營正常。"
-    },
-    {
-      "id": "5068653",
-      "time": "2026-08-31 18:27:42",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【英偉達推出新一代高頻寬記憶體技術NVIDIA NVHBM 可為XPU提供更高的記憶體效能和效率】隨著AI智慧體和萬億引數工作負載日益成為主流，AI基礎設施的效能不僅取決於計算能力，還取決於計算、記憶體、儲存、網路和軟體如何作為統一系統進行協同設計。為幫助超大規模企業和 AI 創新者構建新一代半定製AI基礎架構，NVIDIA推出NVIDIA NVHBM技術，進一步擴充套件了NVIDIA NVLink Fusion技術方案。NVHBM是一種新一代高頻寬記憶體技術，可為XPU提供更高的記憶體效能和效率。該技術將由領先的記憶體合作伙伴完成驗證並提供，從而讓這種先進的記憶體能力惠及NVLink Fusion客戶。透過將記憶體控制器整合到3D HBM堆疊，而不是整合在XPU上，與標準HBM4E 相比，NVHBM可實現高達30% 的記憶體頻寬提升，將HBM功耗降低 15%，併為XPU計算 die 釋放多達25%的面積。"
-    },
-    {
-      "id": "te:economy:579526",
-      "time": "2026-08-31 18:27:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Retail Sales Rebound in July — North Macedonia’s retail sales advanced by 5.6% year-on-year in July 2026, rebounding from a 1.0% drop in the previous month. Activity strengthened in non-food products excluding fuel, jumping by 6.7% from 1.4%, and automotive fuel, rising by 13.2% from 2.5%, while trade in food, beverages, and tobacco was flat after falling by 4.2% in June. Moreover, retail trade excluding automotive fuel rebounded sharply, rising by 3.6% from a 1.1% drop."
-    },
-    {
-      "id": "5068652",
-      "time": "2026-08-31 18:27:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臻寶科技：2026年上半年營收4.84億元 同比增31.98%】臻寶科技公告稱，2026年1-6月實現營業收入4.84億元，同比增長31.98%；歸屬於上市公司股東的淨利潤1.07億元，同比增長25.74%；扣非淨利潤1.02億元，同比增長19.06%。研發投入4373.03萬元，同比增長65.05%，研發投入佔營收比例9.04%，同比提升1.81個百分點。2026年6月末公司淨資產29.26億元，總資產33.44億元，較上年末分別增長141.80%、106.59%，主要系公司2026年6月完成科創板IPO募資到位。持續督導期內未發現公司存在重大問題、重大違規事項，核心競爭力無重大不利變化，募集資金使用合規，控股股東及董監高無持股變動、質押凍結及減持情況。"
-    },
-    {
-      "id": "5068651",
-      "time": "2026-08-31 18:26:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【贛鋒鋰業：PPGS專案預計於2026年底前獲得批准】8月31日，贛鋒鋰業(002460)在業績說明會上表示，公司近期完成了對阿根廷鋰業的可轉債投資及有關PPGS專案整合一系列確定性關鍵協議的簽署。PPGS專案為全球前列的優質專案，資源稟賦良好，該專案已完成RIGI申請，預計於2026年底前獲得批准。專案建設進度取決於融資落地情況，融資完成後即可啟動。"
-    },
-    {
-      "id": "5068650",
-      "time": "2026-08-31 18:26:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工機械：累計回購股份耗資3.45億元 佔總股本0.31%】徐工機械公告稱，公司回購股份擬用於登出減少註冊資本，回購資金總額不低於3億元、不超過6億元，回購價格上限調整為14.80元/股，實施期限自2026年5月28日股東會審議透過之日起不超過十二個月。截至2026年8月31日，公司透過集中競價方式累計回購股份3680.64萬股，佔公司總股本的0.31%，最高成交價9.99元/股，最低成交價7.94元/股，成交總額3.45億元（不含交易費用）。後續公司將在回購期限內繼續實施回購方案。"
-    },
-    {
-      "id": "5068649",
-      "time": "2026-08-31 18:26:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息，國有石油巨頭沙特阿美正與多家銀行就同類貸款展開洽談。"
-    },
-    {
-      "id": "mkt:01a0575b-1d1f-7118-8412-770fc74d417b",
-      "time": "2026-08-31 18:26:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources: Saudi state oil giant ARAMCO is in talks with banks on a loan."
-    },
-    {
-      "id": "mkt:01a0575a-a214-7118-8412-6e6176a1bbad",
-      "time": "2026-08-31 18:25:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Saudi in talks to raise about USD 8 bln in loans amid Iran conflict】Saudi Arabia is in preliminary talks to raise at least USD 8 bln in new loans to ease fiscal strain from the Iran conflict, people familiar with the matter said. The National Debt Management Center (NDMC) has begun discussions with banks on a potential loan, and state oil company ARAMCO is holding separate, similar talks; both potential transactions are at an early stage and may not proceed."
-    },
-    {
-      "id": "5068648",
-      "time": "2026-08-31 18:25:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港懸掛一號風球】香港天文臺發出最新熱帶氣旋警報，一號戒備訊號現正生效。這表示有一熱帶氣旋，在香港約800公里內，可能影響香港。“沙德爾”的殘餘已在海南島東南沿岸海域再度增強為熱帶低氣壓。受“沙德爾”與東北季候風的共同影響，香港正普遍吹偏北風。受地形遮蔽，今晚及明早本港普遍吹強風的機會不大，一號戒備訊號會至少維持至明日（9月1日）中午12時。"
-    },
-    {
-      "id": "mkt:01a0575a-66a8-7118-8412-662471feb739",
-      "time": "2026-08-31 18:25:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hong Kong hoists No.1 tropical cyclone signal】Hong Kong Observatory issued a tropical cyclone warning and has hoisted the No.1 standby signal, effective now. The remnants of Typhoon Shadell have re-strengthened into a tropical depression off Hainan’s southeast coast and are within about 800 km of Hong Kong. Combined effects of Shadell’s remnants and the northeast monsoon are bringing generally northerly winds across Hong Kong. Terrain shielding makes widespread strong winds unlikely tonight and tomorrow morning. The No.1 signal will remain in force at least until 1200 HKT on Sept. 1."
     }
   ]
 }

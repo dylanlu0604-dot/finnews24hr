@@ -1,7 +1,98 @@
 {
   "date": "2026-09-07",
-  "count": 1474,
+  "count": 1484,
   "items": [
+    {
+      "id": "mkt:01a07b69-8425-7118-84cc-6ef8e4e77dde",
+      "time": "2026-09-07 18:28:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Societe Generale: US 10-year 5.5% a critical threshold; breach would pressure equity valuations】Alain Bokobza, head of global asset allocation at Societe Generale, says the US 10-year yield at 5.5% is a critical threshold: higher borrowing costs would outstrip earnings growth and begin to press equity valuations. He notes sizable global earnings upgrades this year have so far prevented a collapse in equity risk premia and that equities are not pricier than at the start of the year, but 5.5% is the level where further earnings revisions would likely be insufficient to sustain current valuations. Bokobza expects forthcoming Fed and ECB hikes to be modest and not aggressive enough to break the cycle or fully allay inflation concerns. J.P. Morgan’s Grace Peters and Barclays’ Emmanuel Cau have flagged a 5% 10-year yield as a psychologically significant level that could prompt stress in equity markets."
+    },
+    {
+      "id": "5081044",
+      "time": "2026-09-07 18:28:20",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【法興銀行：美債10年期收益率5.5%為臨界點 突破將施壓股市估值】法國興業銀行全球資產配置主管Alain Bokobza表示，10年期美債收益率5.5%是一個臨界點，更高的借貸成本將超過盈利增長，並開始對股票估值構成壓力。Bokobza指出，今年全球盈利預期大幅上調，使得即使收益率上升，股票風險溢價也未崩塌。他表示：“目前股票並不比年初更貴，但5.5%的收益率水平將是盈利上調不再足以支撐估值的臨界點，即股票開始受到衝擊的閾值。預計美聯儲和歐洲央行即將到來的加息將是溫和的，不太可能激進到打破當前經濟週期或平息通脹擔憂。”摩根大通的Grace Peters上週表示，10年期美債收益率達到5%將具有心理上的重大意義，可能引發股市的應激反應。巴克萊的Emmanuel Cau同樣認為，升至5%將使投資者對股市影響更加擔憂。"
+    },
+    {
+      "id": "5081043",
+      "time": "2026-09-07 18:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列8月份外匯儲備為2416.4億美元。"
+    },
+    {
+      "id": "mkt:01a07b69-1ed7-7118-84cc-651507f2aac6",
+      "time": "2026-09-07 18:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alice Weidel, co-leader of the Alternative for Germany (AfD), said no previous chancellor has been as unpopular as Chancellor Merz and that he has become a major burden hindering Germany's development."
+    },
+    {
+      "id": "te:markets:581647",
+      "time": "2026-09-07 18:27:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Eases Further from 3-1/2-Year High — Wheat fell below $7.20 per bushel, extending their retreat from a 3-1/2-year high of $7.67 on August 28, as traders assessed renewed diplomatic efforts to end the Russia-Ukraine war. US envoys held talks in Russia and Ukraine over the weekend, with discussions involving Ukrainian President Volodymyr Zelenskyy and senior European officials. The meetings raised hopes that a potential ceasefire could help restore disrupted Black Sea grain shipments, putting additional pressure on wheat prices. However, significant uncertainty remains, as repeated attacks by Russia and Ukraine on ports and commercial shipping sharply restricted grain exports from the region. Although wheat supplies remain available in the Black Sea, exporters continue to face difficulties moving cargoes to international markets. The disruption prompted Asian importers to seek alternative supplies, with trade sources reporting purchases of at least 500,000 metric tons of Australian and Argentine wheat in recent deals."
+    },
+    {
+      "id": "5081042",
+      "time": "2026-09-07 18:26:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華策影視：擬回購登出限制性股票減少註冊資本】華策影視公告稱，公司完成回購登出部分限制性股票後，總股本將由18.75億股減少至18.75億股，註冊資本將由18.75億元減少至18.75億元。根據相關規定，公司通知債權人自公告之日起45日內，有權要求公司清償債務或者提供相應的擔保，債權人需持相關證明檔案向公司提出書面請求。"
+    },
+    {
+      "id": "5081041",
+      "time": "2026-09-07 18:26:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威礦業公司 Nordic Mining ASA 獲環境署建議，獲批為期三年的尾礦處理臨時許可。"
+    },
+    {
+      "id": "5081040",
+      "time": "2026-09-07 18:25:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大族鐳射：控股股東及一致行動人合計解押1500萬股】大族鐳射公告稱，公司控股股東大族控股及一致行動人高雲峰於2026年9月4日辦理完成部分股份解除質押登記，其中大族控股解押615萬股，佔其所持股份4.07%、佔公司總股本0.60%；高雲峰解押885萬股，佔其所持股份9.19%、佔公司總股本0.86%；合計解押1500萬股，佔公司總股本1.46%。本次解押後，二者合計質押股份1.55億股，佔其所持股份比例62.83%、佔公司總股本比例15.09%，不存在平倉風險，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "5081039",
+      "time": "2026-09-07 18:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金埔園林：兩名股東減持計劃實施完成】金埔園林公告稱，公司股東南京高科新創投資有限公司、鎮江金麟企業管理中心（有限合夥）減持計劃已實施完成。其中高科新創於2026年8月26日至9月7日透過集中競價方式減持107.40萬股，佔公司總股本0.46%，減持均價9.24元/股，減持後不再持有公司股份；金麟合夥於2026年8月26日透過集中競價方式減持6.16萬股，佔公司總股本0.03%，減持均價9.19元/股，減持後持股31.59萬股，佔總股本0.14%。本次減持不會導致公司控制權發生變化。"
+    },
+    {
+      "id": "5081038",
+      "time": "2026-09-07 18:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格林達：2026年半年度每10股派發現金紅利0.65元】格林達公告稱，公司2026年半年度利潤分配方案以實施前總股本199,558,380股為基數，每股派發現金紅利0.065元（含稅），共計派發現金紅利1297.13萬元。股權登記日為2026年9月11日，除權（息）日及現金紅利發放日為2026年9月14日。本次分配方案已經2025年年度股東會授權，經公司第三屆董事會第十七次會議審議透過，無需再提交股東會審議。"
+    },
     {
       "id": "5081037",
       "time": "2026-09-07 18:24:40",
