@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-08 00:17:35",
-  "count": 14249,
+  "updated": "2026-09-08 00:21:28",
+  "count": 14248,
   "items": [
+    {
+      "id": "5081471",
+      "time": "2026-09-08 00:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席科學家Jakub Pachocki：呼籲對AI發展速度保持“極度謹慎”。"
+    },
+    {
+      "id": "5081470",
+      "time": "2026-09-08 00:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示：緯創GDS發行價為每股58.88美元。"
+    },
     {
       "id": "5081469",
       "time": "2026-09-08 00:16:18",
@@ -130336,32 +130352,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Close Lower — European stocks closed firmly lower on Monday as higher oil prices consolidated expectations of more rate hikes by the European Central Bank. The Euro STOXX 50 fell 0.9% to 5,426 and the STOXX Europe 600 dropped 0.6% to 651. The US and Iran exchanged new strikes and drove oil prices to rise sharply. Higher energy prices had drove inflation in Germany, Spain, and France to pick up in August, with data from the Stocks in AI infrastructure booked sharp losses ahead of Broadcom, and Palo Alto earnings this week, maintaining volatility on the sector with ASML and Siemens Energy falling 2.9% and 5%, respectively. Industrials also pulled back with Airbus, Schneider, and Rheinmetall dropping between 4% and 2.75%. For August, the Euro STOXX 50 gained 1% and the STOXX Europe 600 added 0.3%, underperforming due to its higher exposure to UK miners and pharmaceutical companies."
-    },
-    {
-      "id": "5069308",
-      "time": "2026-09-01 00:21:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：伊朗認為西亞全境必須實現和平與安全。"
-    },
-    {
-      "id": "mkt:01a0589c-b780-7118-841d-4dc7df23e400",
-      "time": "2026-09-01 00:17:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "German Finance Minister Klingbeil said barring journalists from attending the G20 meeting is unacceptable."
-    },
-    {
-      "id": "5069307",
-      "time": "2026-09-01 00:17:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "德國財政部長克林貝爾表示，記者被禁止出席G20會議是不可接受的。"
     }
   ]
 }
