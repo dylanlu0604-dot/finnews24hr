@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-08 04:08:23",
+  "updated": "2026-09-08 04:12:14",
   "count": 14107,
   "items": [
+    {
+      "id": "5081519",
+      "time": "2026-09-08 04:11:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭完成芬俄邊境圍欄系統建設 未來或擴建】芬蘭7日宣佈，已完成芬蘭與俄羅斯邊境圍欄系統的建設，未來可能進一步擴大圍欄修建範圍。芬蘭邊防軍當日釋出公報說，這一圍欄系統旨在防止和延緩未經許可的越境活動。已建成圍欄總長約200公里，分佈在芬俄1300多公里邊境線上數十個地段。該系統包括高4.5米的圍欄、技術監控設施、道路網路以及沿圍欄設定的25米寬清障帶，總耗資約3.56億歐元。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07d7e-d3ae-7118-84d3-1ee742b7fade",
+      "time": "2026-09-08 04:10:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's envoy to the IAEA warned US or Israeli strikes on Iran's IAEA-safeguarded peaceful nuclear facilities, if 'normalized', would have serious consequences. He said the Bushehr nuclear power plant meets all safety standards."
+    },
     {
       "id": "5081518",
       "time": "2026-09-08 04:05:20",
@@ -129020,26 +129040,6 @@
         "國際"
       ],
       "text": "法律檔案顯示：蘋果稱在針對 OpenAI 的商業秘密案件中，被告利用蘋果專有資訊訓練人工智慧智慧體。"
-    },
-    {
-      "id": "5069456",
-      "time": "2026-09-01 04:11:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "歡聚集團：更名為 YYFORCE，納斯達克股票程式碼變更為 YFOR，將於 2026 年 9 月 2 日正式生效。"
-    },
-    {
-      "id": "te:markets:579661",
-      "time": "2026-09-01 04:09:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall as Rising Oil Prices Fuel Inflation Fears — US stock indices closed mostly lower on Monday as higher oil prices added to inflation risks and reinforced expectations of a Federal Reserve rate hike. The S&P 500 fell 0.3%, the Nasdaq edged down 0.1% and the Dow shed 374 points. Oil prices gained traction after the US and Iran exchanged fresh strikes, following signals from both sides of blockades targeting tankers and vessels in the Persian Gulf that have prolonged the suspension of regional exports. Treasury yields rose across the curve, weighing on credit-sensitive stocks. Hyperscalers tumbled, with Alphabet down 2.1%, Microsoft losing 1.2% and Amazon shedding 2.5%. Financials also closed mostly lower, with Mastercard losing 1% and Goldman Sachs down 0.8%. In contrast, Nvidia gained 1.4% after announcing a $3.5 billion stake in MediaTek, expanding its exposure to global chip production and AI infrastructure. The S&P 500 rose 2.6% in August, while the Nasdaq 100 jumped 4.2% and the Dow gained 701 points."
     }
   ]
 }
