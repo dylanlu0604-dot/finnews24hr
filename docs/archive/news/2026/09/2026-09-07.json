@@ -1,7 +1,93 @@
 {
   "date": "2026-09-07",
-  "count": 893,
+  "count": 903,
   "items": [
+    {
+      "id": "mkt:01a07a5e-01ea-7118-84c3-e5e8bc42c3c1",
+      "time": "2026-09-07 13:36:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed up 775.14 points, or 1.67%, at 47,326.27 on Monday, Sept. 7."
+    },
+    {
+      "id": "5080254",
+      "time": "2026-09-07 13:36:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.09%，成分股中，源傑科技漲14.94%，生益電子漲11.51%，柏楚電子漲7.04%，拓荊科技漲5.69%。"
+    },
+    {
+      "id": "5080253",
+      "time": "2026-09-07 13:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國談第三日下午場：百濟神州、科倫博泰、羅氏、第一三共登場】今日13時許，2026年國家基本醫保藥品目錄談判競價及商保創新藥目錄價格協商第三日下午場開啟，記者在現場觀察到，科倫博泰、百濟神州、羅氏、阿斯利康、恆瑞醫藥、第一三共、諾華、皮爾法伯、賽諾菲、百時美施貴寶、輝瑞等國內外企業入場談判，談判企業約20家。"
+    },
+    {
+      "id": "5080252",
+      "time": "2026-09-07 13:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國臺灣證交所加權股價指數收高1.7%報47,326.27點。"
+    },
+    {
+      "id": "5080251",
+      "time": "2026-09-07 13:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【1.2億播放量創收80元？六連板龍版傳媒：收入來自《穿越1988》，上線時間晚系主因】針對市場廣泛爭議的“80元營收”及信披違規問題，藍鯨新聞今日致電龍版傳媒董秘辦。公司方面回應稱，公告中披露的“AI影片業務6月產生營收約80元”確定來自AI漫劇《穿越1988》，並解釋稱因該劇上線時間較晚，收入較低可以理解。（藍鯨新聞）"
+    },
+    {
+      "id": "te:economy:581509",
+      "time": "2026-09-07 13:35:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Highest Since 2018 — Japan's coincident economic index, a key gauge of current economic conditions based on indicators such as industrial production, employment, and retail sales, rose to 120.6 in July 2025 from a final 118.9 in June, preliminary data showed. It was the highest reading since October 2018, pointing to a solid recovery in economic activity, supported in part by government measures to curb fuel and oil price spikes amid Middle East tensions, as well as a new fiscal policy framework aimed at balancing growth with budget sustainability. Meanwhile, the Bank of Japan kept its short-term policy rate at 1.0% in July, its highest level since September 1995, while judging risks to economic activity to be broadly balanced."
+    },
+    {
+      "id": "mkt:01a07a5c-90dc-7118-84c3-deec9b0c99e1",
+      "time": "2026-09-07 13:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Nifty 50 index fell 0.5%."
+    },
+    {
+      "id": "5080250",
+      "time": "2026-09-07 13:34:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴西對華高壓鋼瓶發起反傾銷調查】據中國貿易救濟資訊網訊息，2026年9月4日，巴西發展、工業、貿易和服務部外貿秘書處釋出2026年第86號公告，應巴西國內企業MAT Equipamentos para Gases Ltda.於2026年1月30日提交的申請，對原產於中國的高壓鋼瓶發起反傾銷調查。本案涉及南共市稅號7311.00.00項下的產品。本案傾銷調查期為2024年10月至2025年9月，損害調查期為2020年10月至2025年9月。公告自發布之日起生效。"
+    },
+    {
+      "id": "5080249",
+      "time": "2026-09-07 13:33:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：預計8月份公司養雞業務實現扭虧為盈】溫氏股份近日在券商策略會、路演活動中表示，上半年，受中華土雞（黃羽肉雞）行情低迷影響，公司養雞業務小幅虧損約1億元。8月份以來，受旺季需求提升等因素影響，雞價快速回暖，近期達到約6.9元/斤。按照測算，預計8月份公司養雞業務實現扭虧為盈。（人民財訊）"
+    },
+    {
+      "id": "5080248",
+      "time": "2026-09-07 13:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【午後持續走高，多隻通訊、雙創ETF漲幅居前】午後科技板塊持續走高。通訊ETF華夏（515050）、通訊ETF國泰（515880）等多隻通訊ETF漲超6%，科創成長ETF廣發（588110）、科創成長ETF易方達（588020）等科創成長ETF漲超5%，創業板成長ETF華夏（159967）、創業板成長ETF易方達（159597）等創業板成長ETF漲幅居前。"
+    },
     {
       "id": "mkt:01a07a5a-3250-7118-84c3-d21670401934",
       "time": "2026-09-07 13:32:06",
