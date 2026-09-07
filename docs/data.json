@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-08 04:35:19",
-  "count": 14109,
+  "updated": "2026-09-08 04:39:09",
+  "count": 14111,
   "items": [
+    {
+      "id": "5081532",
+      "time": "2026-09-08 04:38:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至9月7日，中央司令部部隊已攔截改道94艘商船，使3艘船隻喪失航行能力，並登檢2艘船隻，確保相關船隻完全遵守封鎖要求。"
+    },
+    {
+      "id": "mkt:01a07d97-a47a-7118-84d3-49223a2f58f5",
+      "time": "2026-09-08 04:38:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Central Command said as of Sept. 7 it had forced 94 commercial vessels to divert, rendered three vessels inoperable and boarded and inspected two vessels to ensure compliance with applicable requirements."
+    },
+    {
+      "id": "5081531",
+      "time": "2026-09-08 04:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Everbank將與Wafd銀行合併，組建規模達750億美元的銀行。"
+    },
+    {
+      "id": "5081530",
+      "time": "2026-09-08 04:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普釋出“擴張版美國地圖”：南至中美洲 東至歐洲冰島】美國總統特朗普當地時間週一在社交平臺釋出了一張地圖，將美國國旗圖案覆蓋在美國、加拿大、墨西哥、中美洲大部分地區、格陵蘭島、冰島、古巴和牙買加等加勒比島嶼上。特朗普此前曾提出要取得加拿大、格陵蘭島和巴拿馬運河的主權，但此次地圖將墨西哥和部分加勒比國家納入其中較為少見。此前一天，特朗普還發布一張將新墨西哥州改標為“新美國”的地圖。"
+    },
     {
       "id": "5081529",
       "time": "2026-09-08 04:34:08",
@@ -129007,29 +129043,6 @@
         "國際"
       ],
       "text": "【極端天氣致以色列多地供水受影響】據以色列水務局和當地媒體8月31日訊息，由於極端天氣造成海水渾濁，以色列地中海沿岸6座海水淡化廠中有5座在當天停止執行，導致全國多地供水受到影響。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0598a-1a5b-7118-8421-4b1ef2124a69",
-      "time": "2026-09-01 04:36:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Wall Street Journal reports a Venezuelan oil company operated by businessman Betancourt plans to send more than 50 drilling rigs to Venezuela over the next few years."
-    },
-    {
-      "id": "mkt:01a05989-7b75-7118-8421-42f750909ba9",
-      "time": "2026-09-01 04:36:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "ICE said it will begin trading from the Oct. 5 session new contracts for financial LNG, U.S. regional physical crude, Americas crude and options on U.S. crude futures."
     }
   ]
 }
