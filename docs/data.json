@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-08 04:23:49",
-  "count": 14105,
+  "updated": "2026-09-08 04:27:41",
+  "count": 14109,
   "items": [
+    {
+      "id": "5081525",
+      "time": "2026-09-08 04:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：飛機滑出鋪裝路面（跑道）1300英尺。"
+    },
+    {
+      "id": "mkt:01a07d8c-e7e7-7118-84d3-3d668e385c16",
+      "time": "2026-09-08 04:26:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Israel's finance minister Smotrich said Israel will expel the UK ambassador tonight, accusing the UK government of \"anti-Semitism\" and of attacking Israel."
+    },
+    {
+      "id": "5081524",
+      "time": "2026-09-08 04:26:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：亞馬遜涉事貨機著陸時衝出跑道；該架航班從波多黎各飛來，是該機當日執行的第三趟飛行。飛機撞上一輛載有7人的廂式貨車，隨後又撞上一輛正在道路上行駛的豐田汽車。"
+    },
+    {
+      "id": "mkt:01a07d8a-bea4-7118-84d3-359d154d0efc",
+      "time": "2026-09-08 04:23:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's Prosecutor General Kravchenko resigned."
+    },
+    {
+      "id": "mkt:01a07d8a-ba32-7118-84d3-2a2150272ff3",
+      "time": "2026-09-08 04:23:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency reported Iran's acting defense minister Ebn-e Reza said Iran has the capability and technology to strike U.S. warships taking part in an economic blockade of Iran, and added \"you will witness the results.\""
+    },
+    {
+      "id": "5081523",
+      "time": "2026-09-08 04:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企牽頭參建的波黑重要高速公路隧道貫通】由中國路橋工程有限責任公司牽頭參建的波黑克瓦尼-布納段高速公路克瓦尼隧道7日順利貫通。波黑聯邦總理內爾明·尼克希奇表示，這是提升波黑交通連通性的關鍵一步。（新華社）"
+    },
     {
       "id": "mkt:01a07d87-ff65-7118-84d3-26e1f66daa30",
       "time": "2026-09-08 04:20:59",
@@ -128982,31 +129040,6 @@
         "Importance 1"
       ],
       "text": "TSX Falls on Financials and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,270 on Monday, weighed down by losses in the financial and mining sectors. Renewed tensions in the Middle East fueled inflation concerns, while hawkish comments from Federal Reserve Chair Kevin Warsh strengthened expectations for a September rate hike. Major banks posted losses despite expectations for the BoC to hold rates on Wednesday, with TD Bank down 0.6% and BMO and Scotiabank losing 1.2%. Lower gold prices pressured miners, with Agnico Eagle falling 1.9%, Barrick losing 2.2% and WPM retreating 2%. Most tech stocks also declined, tracking losses among US hyperscalers, with Shopify sliding 3.8% and Constellation Software down 0.8%. In contrast, higher crude prices supported energy producers, with Canadian Natural up 2% and Suncor rising 1.8%. The TSX gained 1.3% in August, marking a fifth consecutive monthly gain."
-    },
-    {
-      "id": "mkt:01a0597f-cd7f-7118-8421-3f3c990c22d1",
-      "time": "2026-09-01 04:25:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "President Trump said the US does not need their products and that cutting trade with that country would net the US $40 billion; finding a few more such countries would make the US a \"super money-making machine.\""
-    },
-    {
-      "id": "mkt:01a0597e-af13-7118-8421-362188356c2c",
-      "time": "2026-09-01 04:24:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Supreme Court stays lower-court injunctions; Trump cleared to resume White House ballroom work】The U.S. Supreme Court on Monday granted Donald Trump's request to stay two lower-court injunctions that had blocked most above-ground work on a 90,000 sq ft White House ballroom, with four justices dissenting. The lower courts had ruled Trump was likely to have violated the law; the high court's order is temporary but would likely allow completion of the bulk of construction before the underlying legal dispute is resolved. Government filings say the project is about 65% complete and is expected to finish in August 2028."
     }
   ]
 }
