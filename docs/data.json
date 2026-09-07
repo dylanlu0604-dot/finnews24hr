@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-08 00:05:48",
-  "count": 14241,
+  "updated": "2026-09-08 00:09:43",
+  "count": 14246,
   "items": [
+    {
+      "id": "mkt:01a07ca1-4b22-7118-84d1-471cc0e0627d",
+      "time": "2026-09-08 00:09:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi forces said they had just shot down a CH-4 armed reconnaissance drone belonging to Saudi Arabia over Al Jawf province."
+    },
+    {
+      "id": "5081465",
+      "time": "2026-09-08 00:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：葉門武裝部隊剛剛在焦夫省空域擊落一架執行敵對任務的沙特敵方 CH‑4 武裝偵察無人機。這是過去 12 小時內擊落的第二架該型號無人機，也是過去 24 小時內的第四架，我方使用適配武器將其擊落。"
+    },
+    {
+      "id": "te:markets:581707",
+      "time": "2026-09-08 00:07:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.07% Lower — The FTSE 100 Index decreased 7 points or 0.07 percent on Monday to close at 10824 points. The decline was led by Entain (-2.54%), Relx (-2.33%) and St. Jamess (-2.28%). On the upside, the strongest performers were Standard Life (1.98%), Centrica (1.70%) and Smiths (1.58%)."
+    },
+    {
+      "id": "5081464",
+      "time": "2026-09-08 00:07:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【法國總統候選人梅朗雄在呼籲債務清零後，怒斥歐洲央行加息】法國極左翼總統候選人讓-呂克·梅朗雄猛烈抨擊歐洲央行加息，強調此舉對經濟增長構成風險。梅朗雄提議透過登出法國央行和歐洲央行持有的部分法國國債，來應對法國龐大的債務問題。梅朗雄表示，歐洲央行持有大量法國政府債務，並提議登出歐央行持有的這部分債務，稱其”本質上是我們欠自己的債”。本週，法蘭克福的決策者們普遍預計將實施第二次加息以遏制通脹。在這一背景下，這位以言辭激烈著稱的政治人物著重強調了加息對經濟增長的風險。法國在今年上半年曾一度瀕臨衰退。"
+    },
+    {
+      "id": "te:markets:581706",
+      "time": "2026-09-08 00:06:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Higher — The FTSE MIB edged up 0.3% to 52,230 on Monday amid several macroeconomic developments. Talks over contributions from banks and energy firms to help fill the government’s budget shortfall continued over the weekend. Energy stocks outperformed, tracking higher oil prices, led by Tenaris (1.1%). Heavyweight financials were mixed, while the banking sector remained in focus ahead of Intesa’s shareholder meeting on Thursday to approve the capital increase for MPS’s takeover. Stellantis rose 0.4% while Canadian tariffs on US goods are set to take effect on Tuesday. Meanwhile, Italy recorded its hottest summer since 1950, pointing to increased demand for electricity used for cooling, although continued tensions in the Middle East threaten firms’ margins by pushing European gas prices higher. Snam fell 2.2%. Defense contractor Leonardo declined 0.5% after signing a production contract for the Brazilian army."
+    },
+    {
+      "id": "mkt:01a07c9e-8f01-7118-84d1-38554d7bfacb",
+      "time": "2026-09-08 00:06:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN experts say Israeli clearing of Gaza rubble could destroy evidence."
+    },
+    {
+      "id": "te:markets:581705",
+      "time": "2026-09-08 00:05:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Close Muted — European stock indices closed with small movements on Monday as markets continued to assess how the corporate sector will fare against higher interest rates, with the threat of higher budget deficits and political uncertainty lifting sovereign yields. The Euro STOXX 50 inched up by 0.1% to 6,399 and the STOXX Europe 600 was unchanged at 649.8. The German far-right AfD party won state elections in Saxony-Anhalt over the weekend, the party's first major victory, to extend the momentum of political fragmentation in Europe. Bund yields surged with the outlook of wider deficits combined with inflationary risks from soaring natural gas prices, as the European Central Bank is due to deliver its second rate hike of the year this week. Insurance stocks tumbled, with Munich Re down 3% while Allianz fell nearly 1%. Meanwhile, ASML gained 2.3% and Infineon soared 6.4% as strong signals by Korean chipmakers supported the sector."
+    },
     {
       "id": "5081463",
       "time": "2026-09-08 00:05:08",
@@ -130271,34 +130345,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.60% Lower — The CAC 40 Index dropped 50 points or 0.60 percent on Monday to close at 8351 points. Losses were led by Airbus (-2.86%), Safran (-2.30%) and STMicroelectronics (-2.06%). Offsetting the fall, top gainers were Stellantis NV (1.83%), Pernod Ricard (1.80%) and TotalEnergies SE (1.40%)."
-    },
-    {
-      "id": "mkt:01a05894-cd2f-7118-841d-393e0e9c75a5",
-      "time": "2026-09-01 00:09:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield rose above 4.75% for the first time since January 2025."
-    },
-    {
-      "id": "te:markets:579643",
-      "time": "2026-09-01 00:08:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Drops on Renewed Inflation Concerns — The CAC 40 fell 0.8% to close at 8,334 on Monday amid renewed inflationary pressures stemming from the US-Iran war. Oil prices rebounded as the US and Iran exchanged strikes for the first time in roughly a month, while fresh concerns over shipping through the Strait of Hormuz added to supply risks. Higher crude prices weighed on the index amid concerns over energy-driven inflation. Luxury stocks declined as risk aversion increased, with LVMH losing 1.1%, L’Oreal shedding 1%, and Hermes retreating 1.1%. Financials were mixed, with AXA down 1.2%. Industrials underperformed, led by Airbus (-2.9%) and Safran (-2.1%). Fitch Ratings affirmed France’s rating at ‘A+’ with a Stable Outlook. However, high and rising public debt, a challenging political and social environment, and weak potential growth are seen as constraints. Tech stocks tracked losses in the US, with Schneider Electric down 2.4% and STMicroelectronics losing 0.8%. In contrast, TotalEnergies gained 1.1% on higher oil prices."
     }
   ]
 }
