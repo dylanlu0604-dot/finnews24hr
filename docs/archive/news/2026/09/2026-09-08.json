@@ -1,7 +1,29 @@
 {
   "date": "2026-09-08",
-  "count": 127,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:01a07d74-75be-7118-84d3-12bbbe63067a",
+      "time": "2026-09-08 03:59:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O"
+      ],
+      "text": "【King Charles to host closed-door AI meeting; NVIDIA CEO Huang, DeepMind chair Hassabis invited】King Charles III will host a high-level closed-door artificial intelligence meeting this month at Dumfries House in Ayrshire, Scotland, Politico cited people familiar with the plans. About 30 industry figures have been invited, including NVIDIA (NVDA.O) CEO Jensen Huang and DeepMind chair Demis Hassabis; UK government ministers are also invited. Royal officials said the king will not present an AI policy agenda but intends to convene stakeholders to listen and encourage debate. The event is organised by the Ditchley Foundation."
+    },
+    {
+      "id": "5081516",
+      "time": "2026-09-08 03:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西首都舉行獨立日閱兵儀式】當地時間9月7日上午，巴西在首都巴西利亞舉行獨立日閱兵儀式。巴西總統盧拉、副總統阿爾克明以及參議院、眾議院和聯邦最高法院負責人等出席活動。（央視新聞）"
+    },
     {
       "id": "5081515",
       "time": "2026-09-08 03:55:11",

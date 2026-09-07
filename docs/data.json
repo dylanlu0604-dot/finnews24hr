@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-08 03:56:42",
-  "count": 14129,
+  "updated": "2026-09-08 04:00:33",
+  "count": 14120,
   "items": [
+    {
+      "id": "mkt:01a07d74-75be-7118-84d3-12bbbe63067a",
+      "time": "2026-09-08 03:59:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O"
+      ],
+      "text": "【King Charles to host closed-door AI meeting; NVIDIA CEO Huang, DeepMind chair Hassabis invited】King Charles III will host a high-level closed-door artificial intelligence meeting this month at Dumfries House in Ayrshire, Scotland, Politico cited people familiar with the plans. About 30 industry figures have been invited, including NVIDIA (NVDA.O) CEO Jensen Huang and DeepMind chair Demis Hassabis; UK government ministers are also invited. Royal officials said the king will not present an AI policy agenda but intends to convene stakeholders to listen and encourage debate. The event is organised by the Ditchley Foundation."
+    },
+    {
+      "id": "5081516",
+      "time": "2026-09-08 03:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西首都舉行獨立日閱兵儀式】當地時間9月7日上午，巴西在首都巴西利亞舉行獨立日閱兵儀式。巴西總統盧拉、副總統阿爾克明以及參議院、眾議院和聯邦最高法院負責人等出席活動。（央視新聞）"
+    },
     {
       "id": "5081515",
       "time": "2026-09-08 03:55:11",
@@ -129150,114 +129172,6 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收跌】道指跌0.70%，標普500指數跌0.33%，納指跌0.12%。愛迪生國際跌23.08%，太平洋瓦電跌20.00%，怡安保險跌9.58%，HWM跌7.53%，Take-Two Interactive跌6.67%，Axon Enterprise跌5.69%。“七姐妹”方面：特斯拉漲5.51%，英偉達漲1.36%，蘋果跌0.89%，Meta Platforms跌0.98%，微軟跌1.22%，谷歌跌2.18%，亞馬遜跌2.50%。"
-    },
-    {
-      "id": "mkt:01a05968-9eba-7118-8420-d394ab777519",
-      "time": "2026-09-01 04:00:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Supreme Court has allowed the Trump administration to continue construction of a White House ballroom while related litigation proceeds."
-    },
-    {
-      "id": "5069447",
-      "time": "2026-09-01 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.14%】逸仙電商跌10.20%，名創優品跌10.02%，樂信跌9.75%，世紀互聯跌7.71%，禾賽科技跌7.41%。"
-    },
-    {
-      "id": "mkt:01a05968-1b07-7118-8420-c975b169dd27",
-      "time": "2026-09-01 03:59:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XOM.N",
-        "Impact bullish",
-        "CVX.N"
-      ],
-      "text": "U.S. President Trump said ExxonMobil (XOM.N) and Chevron (CVX.N) will enter Venezuela."
-    },
-    {
-      "id": "5069446",
-      "time": "2026-09-01 03:59:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院允許特朗普政府在相關法律訴訟進行期間繼續修建白宮宴會廳。"
-    },
-    {
-      "id": "mkt:01a05967-6b67-7118-8420-c3f1575c3cc9",
-      "time": "2026-09-01 03:59:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said the deal is good for Venezuela."
-    },
-    {
-      "id": "5069445",
-      "time": "2026-09-01 03:58:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：埃克森美孚與雪佛龍將進入委內瑞拉。"
-    },
-    {
-      "id": "mkt:01a05966-df19-7118-8420-ba4cf3e2fc53",
-      "time": "2026-09-01 03:58:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Trump says U.S. may strike Iran, calls U.S. rates too high】At the White House on Monday, Trump said about 30 vessels transit the Strait of Hormuz each night and that a large volume of oil flows through the chokepoint. He warned the U.S. may strike Iran, signaling elevated geopolitical risk for oil markets. He added U.S. interest rates are currently too high and said he respects Fed Chair Kevin Warsh, who will do what he must."
-    },
-    {
-      "id": "mkt:01a05966-c944-7118-8420-b3800c5583aa",
-      "time": "2026-09-01 03:58:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said on Venezuela that the US has major oil companies operating in the country."
-    },
-    {
-      "id": "5069444",
-      "time": "2026-09-01 03:58:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及委內瑞拉：我們有大型石油企業正進駐當地。這對他們而言是一筆不錯的交易。"
-    },
-    {
-      "id": "mkt:01a05966-ba38-7118-8420-aacfa8f70520",
-      "time": "2026-09-01 03:58:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Trump: How Venezuela handles its relationship with OPEC is for Venezuela to decide."
-    },
-    {
-      "id": "5069443",
-      "time": "2026-09-01 03:57:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及委內瑞拉：該國如何應對石油輸出國組織，由他們自己決定。"
     }
   ]
 }
