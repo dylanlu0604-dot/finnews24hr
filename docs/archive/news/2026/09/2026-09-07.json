@@ -1,7 +1,27 @@
 {
   "date": "2026-09-07",
-  "count": 1943,
+  "count": 1945,
   "items": [
+    {
+      "id": "5081460",
+      "time": "2026-09-07 23:54:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "據悉德國正與 SEFE 以及 Uniper 商討儲氣設施相關援助事宜。"
+    },
+    {
+      "id": "te:markets:581701",
+      "time": "2026-09-07 23:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Monday — The FTSE 100 edged down on Monday, weighed down by weakness in major consumer stocks, with Unilever and BAT declining 1.4% and 1%, respectively. The losses were partly offset by gains in energy shares, as Shell and BP rose 1.1% and 1.3% alongside higher crude prices. Investor focus remained firmly on developments in the US-Iran conflict, with tensions persisting after reports that the US had struck three Iranian oil tankers following attacks on US warships. Energy Secretary Chris Wright also warned that a new nuclear agreement with Tehran may not be reached soon, suggesting Washington could instead focus on eliminating Iran’s nuclear capabilities. Meanwhile, domestic data showed UK house prices fell 0.2% in August, pushing annual prices into negative territory for the first time since November 2023, according to Lloyds."
+    },
     {
       "id": "5081459",
       "time": "2026-09-07 23:52:26",
