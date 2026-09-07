@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-08 00:37:06",
-  "count": 14241,
+  "updated": "2026-09-08 00:41:03",
+  "count": 14243,
   "items": [
+    {
+      "id": "mkt:01a07cbc-55e1-7118-84d1-9aed28003661",
+      "time": "2026-09-08 00:38:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOD.N",
+        "TEF.N",
+        "ORAN.N"
+      ],
+      "text": "Sources said major European telecom operators are in talks to form a joint venture to offer \"satellite direct-to-phone\" service; participants include Deutsche Telekom, Orange, Vodafone and Telefónica."
+    },
+    {
+      "id": "mkt:01a07cbb-a2c5-7118-84d1-94e5723c461d",
+      "time": "2026-09-08 00:37:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Mehr News Agency reported that Iran's parliamentary National Security and Foreign Policy Committee, with Foreign Minister Araghchi attending, discussed conditions under which Iran would reopen the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a07cbb-0b36-7118-84d1-8a5ba3e918b4",
+      "time": "2026-09-08 00:37:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President ZELENSKIY said Ukraine will hold meetings with partners soon to advance the joint anti-ballistic missile project FREYJA and further strengthen air-defence capabilities."
+    },
     {
       "id": "5081473",
       "time": "2026-09-08 00:35:57",
@@ -130274,18 +130306,6 @@
         "國際"
       ],
       "text": "【衛星拍到美軍約旦空軍基地疑似損毀，美約稱攔截成功，伊朗宣稱重創目標】伊朗夜間彈道導彈齊射過後，衛星影像在約旦穆瓦法克‑薩爾蒂空軍基地觀測到一處新的暗色斑塊。哨兵‑2衛星的前後對比圖顯示，戰鬥機機庫附近疑似出現爆炸損毀痕跡。約旦與美國方面稱，幾乎全部導彈均遭攔截，未造成重大損失。伊朗則宣稱襲擊造成嚴重損毀。"
-    },
-    {
-      "id": "mkt:01a058b0-395b-7118-841d-828238b107da",
-      "time": "2026-09-01 00:38:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says it shot down MQ-9 drone near Strait of Hormuz】Mehr news agency reported minutes ago that the IRGC Aerospace Force intercepted and shot down an MQ-9 drone east of the Strait of Hormuz using a new advanced air-defense system, which is under unified command of Iran's national integrated air-defense network."
     }
   ]
 }

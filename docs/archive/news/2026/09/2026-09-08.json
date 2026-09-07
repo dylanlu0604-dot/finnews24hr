@@ -1,7 +1,39 @@
 {
   "date": "2026-09-08",
-  "count": 31,
+  "count": 34,
   "items": [
+    {
+      "id": "mkt:01a07cbc-55e1-7118-84d1-9aed28003661",
+      "time": "2026-09-08 00:38:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOD.N",
+        "TEF.N",
+        "ORAN.N"
+      ],
+      "text": "Sources said major European telecom operators are in talks to form a joint venture to offer \"satellite direct-to-phone\" service; participants include Deutsche Telekom, Orange, Vodafone and Telefónica."
+    },
+    {
+      "id": "mkt:01a07cbb-a2c5-7118-84d1-94e5723c461d",
+      "time": "2026-09-08 00:37:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Mehr News Agency reported that Iran's parliamentary National Security and Foreign Policy Committee, with Foreign Minister Araghchi attending, discussed conditions under which Iran would reopen the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a07cbb-0b36-7118-84d1-8a5ba3e918b4",
+      "time": "2026-09-08 00:37:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President ZELENSKIY said Ukraine will hold meetings with partners soon to advance the joint anti-ballistic missile project FREYJA and further strengthen air-defence capabilities."
+    },
     {
       "id": "5081473",
       "time": "2026-09-08 00:35:57",
