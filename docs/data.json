@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08 04:16:06",
-  "count": 14103,
+  "updated": "2026-09-08 04:19:57",
+  "count": 14102,
   "items": [
+    {
+      "id": "5081520",
+      "time": "2026-09-08 04:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總檢察長克拉夫琴科辭職。"
+    },
     {
       "id": "5081519",
       "time": "2026-09-08 04:11:05",
@@ -128969,29 +128977,6 @@
         "The Trump Trade"
       ],
       "text": "【Supreme Court stays lower-court injunctions; Trump cleared to resume White House ballroom work】The U.S. Supreme Court on Monday granted Donald Trump's request to stay two lower-court injunctions that had blocked most above-ground work on a 90,000 sq ft White House ballroom, with four justices dissenting. The lower courts had ruled Trump was likely to have violated the law; the high court's order is temporary but would likely allow completion of the bulk of construction before the underlying legal dispute is resolved. Government filings say the project is about 65% complete and is expected to finish in August 2028."
-    },
-    {
-      "id": "mkt:01a05979-5c43-7118-8421-2f738d47d96e",
-      "time": "2026-09-01 04:18:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI criticized Europe’s lack of 'strategic autonomy,' saying that if Europe merely implements U.S. policy it cannot be a truly independent actor."
-    },
-    {
-      "id": "mkt:01a05977-66a7-7118-8421-23171f0117b7",
-      "time": "2026-09-01 04:16:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) said in court filings that new evidence was found on MacBooks OpenAI provided to the company on Aug. 21 and that the material is part of its trade-secrets lawsuit. Apple has asked a U.S. federal court to accelerate discovery in the case against OpenAI."
     }
   ]
 }
