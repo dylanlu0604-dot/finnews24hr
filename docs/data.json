@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-07 09:03:53",
+  "updated": "2026-09-07 09:07:56",
   "count": 14112,
   "items": [
+    {
+      "id": "5079861",
+      "time": "2026-09-07 09:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯大使抨擊針對俄對印石油銷售的 “施壓手段”】俄羅斯駐新德里大使表示，俄羅斯願意按照印度的能源需求，向印度供應足量石油，同時譴責美國擬加碼針對俄羅斯石油貿易的制裁計劃，稱其屬於 “施壓手段”。已故參議員林賽・格雷厄姆是烏克蘭的堅定支持者，由他起草的一項美國製裁法案規定，特朗普總統有權對俄羅斯原油、天然氣的五大進口國，以及協助俄羅斯規避能源制裁的五個主要國家徵收 100% 關稅。 俄羅斯駐印度大使傑尼斯・阿利波夫在接受亞洲國際新聞社採訪時表示：“我們願意向印度供應其所需的全部石油。遺憾的是，那些實施制裁和加徵關稅的國家選擇了施壓，而非開展坦誠合作，這使得這些國家無法在石油貿易上向印度提供比俄羅斯更優厚的條件。”"
+    },
+    {
+      "id": "5079860",
+      "time": "2026-09-07 09:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻遠電子、北京科創基金等新設加速成長創投基金】 企查查APP顯示，近日，北京翠湖加速成長創業投資基金合夥企業（有限合夥）成立，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該企業由鴻遠電子、北京市科技創新基金（有限合夥）等共同出資。"
+    },
+    {
+      "id": "5079859",
+      "time": "2026-09-07 09:05:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯迪克：公司OCA光學膠、AR減反膜產品已實現對國內部分摺疊屏終端機型的供貨】 斯迪克(300806)9月7日在互動平臺表示，摺疊屏及多折形態終端受到行業較高關注。公司OCA光學膠、AR減反膜產品已實現對國內部分摺疊屏終端機型的供貨。隨著下游終端產品不斷迭代，公司積極把握市場機會，持續深化與國內頭部終端客戶的業務合作，供貨情況隨客戶專案進度動態調整，具體供貨規模及市場份額屬於商業機密，公司不便對外披露。在顯示材料賽道，公司將繼續圍繞國產替代方向加大研發投入，緊跟終端形態演進趨勢，持續最佳化現有材料效能，積極拓展優質客戶資源。"
+    },
+    {
+      "id": "5079858",
+      "time": "2026-09-07 09:05:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【 高盛：首次覆蓋中際旭創H股並給予目標價3267港元 業績預測超市場預期 】 高盛首次覆蓋中際旭創H股並給予“買入”評級，12個月目標價為3267港元。該行2026及2027年的淨利潤預測較市場普遍預期分別高25%和42%，鑑於更高的收入和毛利潤率假設。分析師Verena Jeng等人在報告中表示，更高的預期反映了該行對以下方面的積極態度：中際旭創在矽光模組領域的領先地位、1.6T及以上解決方案的加速量產、穩定的供應鏈和多元化的生產基地，以及可控的共封裝光學(CPO)競爭。 重申A股的“買入”評級，維持目標價為2645元人民幣。"
+    },
+    {
+      "id": "mkt:01a07965-c7c7-7118-84be-6eabb437fc83",
+      "time": "2026-09-07 09:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active coke futures contract fell more than 2.00% intraday, currently 2,130.00 yuan/ton."
+    },
+    {
+      "id": "mkt:01a07964-6c5e-7118-84be-619039842797",
+      "time": "2026-09-07 09:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's Bathla Group in debt crisis seeks bridge funding】Bathla Group, an insolvent Australian property developer, has rippled through the country's property and private-credit markets. Administrator Teneo said talks with five lenders over bridge funding are ongoing and an outcome is expected Monday morning. The proposed financing would keep projects already funded by those five lenders under construction; other projects will cease on Monday. A A$2.3 bln funding shortfall has stalled 72 apartments and left contractors unpaid. The failure underscores vulnerabilities in Australia's A$144 bln private credit market."
+    },
+    {
+      "id": "mkt:01a07964-19ad-7118-84be-5bc413b1098a",
+      "time": "2026-09-07 09:03:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "South Korean won rises 1% against the US dollar."
+    },
+    {
+      "id": "mkt:01a07964-05b9-7118-84be-5378f679c8ab",
+      "time": "2026-09-07 09:03:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate futures fell more than 3%, trading at 142,100 yuan/ton."
+    },
     {
       "id": "mkt:01a07962-f523-7118-84be-49cb705b2acc",
       "time": "2026-09-07 09:02:03",
@@ -129147,76 +129222,6 @@
         "國際"
       ],
       "text": "【特朗普掌控委內瑞拉石油計劃引發“新殖民主義”擔憂】美國總統唐納德·特朗普直接控制委內瑞拉石油儲備的計劃，正引發外界警告：這個拉美國家可能淪為現代資源殖民地，類似於一個世紀前所謂的“香蕉共和國”。這種安排也可能為在當地經營的石油企業帶來長期風險。特朗普上週五晚表示，他已與委內瑞拉臨時總統德爾西·羅德里格斯達成協議，美國將“透過與私營企業合作”控制超過650億桶石油儲量。儘管目前公開細節仍然有限，但該計劃的規模和野心令人震驚。據一位美國官員透露，新設立的企業將獲得17個油田為期100年的特許經營權，其持有的已探明儲量規模將僅次於沙特阿美，位居全球第二。不過，重振委內瑞拉石油產業很可能需要私營部門的大規模投資。知情人士上週晚些時候表示，新的商業協議最快可能於本週達成。雪佛龍及其他美國能源企業正在商談擴大在委內瑞拉的業務，但相關談判與美國直接投資當地油田是分開的。媒體此前還報道稱，備受爭議的委內瑞拉石油富豪Alejandro Betancourt近期成為華盛頓與加拉加斯之間的重要中間人，目前正與美國國防部討論合作事宜。"
-    },
-    {
-      "id": "mkt:01a0555b-8884-7118-8405-3f3a433145f3",
-      "time": "2026-08-31 09:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SAMR unconditionally approves Yingfang Micro acquisition of Shanghai Xiaokeli Information Technology equity】China's State Administration for Market Regulation (SAMR) published its list of merger cases unconditionally approved for Aug 17-23, 2026. Cases include Shenzhen Guanghetong Wireless Co.'s acquisition of equity in Shenzhen Hangsheng Electronics Co. and Yingfang Micro's purchase of equity in Shanghai Xiaokeli Information Technology Co."
-    },
-    {
-      "id": "5067613",
-      "time": "2026-08-31 09:06:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊藤忠商事投資印度氨儲運碼頭業務】8月31日，伊藤忠商事宣佈，已從Aegis Vopak Terminals收購印度Aegis Terminal（Pipavav）部分股權，並參與其位於古吉拉特邦皮帕瓦夫港的氨儲運碼頭業務。該碼頭於8月10日建成並具備運營條件，是印度首個獨立氨儲存碼頭，配備一座容量約3.6萬噸（5.2萬立方米）的氨儲罐，以及裝卸貨設施、管道和卡車裝卸設施等配套物流基礎設施。"
-    },
-    {
-      "id": "5067612",
-      "time": "2026-08-31 09:05:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲3%，現報8173.00元。"
-    },
-    {
-      "id": "5067611",
-      "time": "2026-08-31 09:05:37",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：中資券商板塊迎來拐點 首選中金公司H股】花旗稱，中國券商板塊二季度表現強勁且淨資產收益率(ROE)持續改善，受資本管控、費率企穩及成交量回升等多重利好支撐，板塊迎來拐點。分析師Judy Zhang等人在報告中表示，該行覆蓋的中資券商在二季度實現了強勁的營業收入/稅後淨利潤增長，各業務板塊均展現出良好的增長勢頭；自營業務仍是核心收入驅動力，佔總收入的52%，主要受益於二季度中國股票市場表現優異以及債券市場的良好表現；預計所覆蓋券商的預測2026年ROE將達到約11%，支撐其2026年預測市淨率超過1倍，並意味著覆蓋的H股券商平均有約36%的股價上漲空間；在巨型IPO的支援下，預計股權融資的強勁勢頭將延續至2026年三季度。首選中金公司H股，因估值極具吸引力；強勁的三季度預測業績有望成為短期利好催化劑。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608313859596268",
-      "time": "2026-08-31 09:05:09",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：維持美聯儲9月按兵不動的基準判斷 未來通脹和就業資料至關重要】中信證券指出，美聯儲主席沃什8月28日在Jackson Hole會議發表講話。中信證券認為其講話內容比在7月FOMC會後的言論更為鷹派，但對貨幣政策執行的核心原則也做了適度澄清，情況並沒有變得更糟。市場對美聯儲9月份加息的預期已顯著提高，中信證券維持美聯儲9月按兵不動的基準判斷，未來通脹和就業資料至關重要。"
-    },
-    {
-      "id": "5067610",
-      "time": "2026-08-31 09:05:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲3%，現報3781.00元。"
-    },
-    {
-      "id": "5067609",
-      "time": "2026-08-31 09:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊藤忠商事在印度皮帕瓦武港投資氨進口儲罐業務。"
-    },
-    {
-      "id": "5067608",
-      "time": "2026-08-31 09:04:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲4%，現報4780.00元。"
     }
   ]
 }
