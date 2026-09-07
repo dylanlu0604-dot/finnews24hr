@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-08 00:29:13",
-  "count": 14245,
+  "updated": "2026-09-08 00:33:06",
+  "count": 14241,
   "items": [
+    {
+      "id": "mkt:01a07cb6-c24b-7118-84d1-84e556bdb02f",
+      "time": "2026-09-08 00:32:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "White House: Trump will never stop fighting for \"Made in America\"."
+    },
+    {
+      "id": "mkt:01a07cb5-80f2-7118-84d1-7ccc59b6ee33",
+      "time": "2026-09-08 00:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni Houthi movement said it used rocket artillery to strike Al-Yatmah in Al-Jawf province to pave the way for troop deployment, and that its forces have reached the outskirts of Dhi Na'im in Bayda province and are preparing to garrison."
+    },
     {
       "id": "mkt:01a07caf-d995-7118-84d1-752f4d2ae90c",
       "time": "2026-09-08 00:24:54",
@@ -130268,59 +130286,6 @@
         "公司"
       ],
       "text": "蘋果公司菲爾·席勒卸任App Store及產品釋出會負責人職務。"
-    },
-    {
-      "id": "5069314",
-      "time": "2026-09-01 00:31:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱，在美國特使與俄方溝通前，他已向美方特使通報了打擊情況及戰場局勢。"
-    },
-    {
-      "id": "mkt:01a058a9-50e6-7118-841d-7f9754512b0a",
-      "time": "2026-09-01 00:31:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's president Zelenskiy said he discussed ways to encourage Russia to engage in peace talks."
-    },
-    {
-      "id": "5069313",
-      "time": "2026-09-01 00:31:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱已就勸說俄羅斯開啟和平談判的相關途徑進行了討論。"
-    },
-    {
-      "id": "mkt:01a058a8-eb6f-7118-841d-730f933d7a02",
-      "time": "2026-09-01 00:31:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he briefed the US special envoy on attacks and battlefield conditions before communicating with Russia."
-    },
-    {
-      "id": "5069312",
-      "time": "2026-09-01 00:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油表示，其位於印第安納州惠廷的日加工量44萬桶煉油廠正在開展計劃內作業，該作業將在未來數天內持續進行。"
-    },
-    {
-      "id": "mkt:01a058a7-b8cb-7118-841d-6ed5a87525d4",
-      "time": "2026-09-01 00:29:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said it shot down an MQ-9 unmanned aerial vehicle east of the Strait of Hormuz."
     }
   ]
 }

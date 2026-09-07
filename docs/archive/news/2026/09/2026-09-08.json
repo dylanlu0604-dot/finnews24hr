@@ -1,7 +1,25 @@
 {
   "date": "2026-09-08",
-  "count": 28,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:01a07cb6-c24b-7118-84d1-84e556bdb02f",
+      "time": "2026-09-08 00:32:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "White House: Trump will never stop fighting for \"Made in America\"."
+    },
+    {
+      "id": "mkt:01a07cb5-80f2-7118-84d1-7ccc59b6ee33",
+      "time": "2026-09-08 00:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni Houthi movement said it used rocket artillery to strike Al-Yatmah in Al-Jawf province to pave the way for troop deployment, and that its forces have reached the outskirts of Dhi Na'im in Bayda province and are preparing to garrison."
+    },
     {
       "id": "mkt:01a07caf-d995-7118-84d1-752f4d2ae90c",
       "time": "2026-09-08 00:24:54",
