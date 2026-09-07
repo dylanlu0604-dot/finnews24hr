@@ -1,7 +1,36 @@
 {
   "date": "2026-09-08",
-  "count": 108,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:01a07d57-b49c-7118-84d2-d9bedac1b9a6",
+      "time": "2026-09-08 03:28:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "【Dollar index down on 7th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.27% to 98.914 at the New York close. EUR/USD 1.1624 (prev. 1.1611); GBP/USD 1.3542 (1.3514); USD/JPY 154.34 (156.22); USD/CHF 0.8095 (0.8102); USD/CAD 1.3815 (1.3839); USD/SEK 9.5935 (9.5775)."
+    },
+    {
+      "id": "5081505",
+      "time": "2026-09-08 03:28:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數7日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.27%，在匯市尾市收於98.914。截至紐約匯市尾市，1歐元兌換1.1624美元，高於前一交易日的1.1611美元；1英鎊兌換1.3542美元，高於前一交易日的1.3514美元。1美元兌換154.34日元，低於前一交易日的156.22日元；1美元兌換0.8095瑞士法郎，低於前一交易日的0.8102瑞士法郎；1美元兌換1.3815加元，低於前一交易日的1.3839加元；1美元兌換9.5935瑞典克朗，高於前一交易日的9.5775瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a07d55-2774-7118-84d2-d019f96e1bd9",
+      "time": "2026-09-08 03:25:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's deputy foreign minister Mushaan met Iraq's foreign minister Fuad Hussein in Cairo to discuss strengthening bilateral ties and recent regional developments."
+    },
     {
       "id": "5081504",
       "time": "2026-09-08 03:23:15",
