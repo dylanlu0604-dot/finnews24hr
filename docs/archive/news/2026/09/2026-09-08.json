@@ -1,7 +1,107 @@
 {
   "date": "2026-09-08",
-  "count": 221,
+  "count": 232,
   "items": [
+    {
+      "id": "5081583",
+      "time": "2026-09-08 07:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報金觀平：開闢國產晶片突圍新路徑】文章稱，9月7日，華為新一代晶片麒麟9050 Pro亮相。這是首款採用邏輯摺疊技術的高效能晶片，打破了傳統平面設計思路，實現了晶片效能和能效雙重升級，也為國產晶片產業突圍開闢出一條差異化創新路徑。一款國產高階晶片的迭代突破，絕非單一企業的孤軍奮戰，而是上下游產業鏈多年協同攻關的結果。也要清醒地看到，一款晶片的技術躍升，不代表我國晶片產業實現全面趕超。華為新一代麒麟晶片的實踐啟示我們，創新的道路從來不止一條。晶片領域的比拼早已不是單一產品、單一工藝的較量，而是產業生態、創新體系、協同能力的全方位博弈。在追趕先進工藝的同時，還可以在晶片架構、立體封裝、軟硬體協同最佳化等方向主動佈局，立足自身優勢開闢差異化競爭賽道。未來，推動我國晶片產業高質量發展，既要鼓勵龍頭企業攻堅高階產品，也要支援一大批專精特新中小企業補齊細分領域短板，構建大中小企業融通創新的產業格局。產學研協同發力，完善創新激勵機制，營造開放包容的市場環境，讓更多創新想法落地為實實在在的創新產品。"
+    },
+    {
+      "id": "5081582",
+      "time": "2026-09-08 07:04:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【9月8日隔夜要聞一覽】\n1、美國股市休市一日，道瓊斯指數期貨最終跌0.62%，標普500股指期貨跌0.17%，納斯達克100股指期貨漲0.13%。\n2、美國總統特朗普7日在社交媒體發文，威脅禁止加拿大飛機製造商龐巴迪公司在美銷售，除非該公司開始在美國生產。\n3、當地時間7日，伊朗公佈一款新型導彈。伊朗稱，該款名為“卡西姆·巴希爾”彈道導彈的亮相是該國國防戰略的一個里程碑。這款導彈射程更遠、精度更高，更象徵著伊朗“從被動威懾轉向主動威懾”。\n4、美國總統特使威特科夫7日在社交媒體發文稱，美國代表團日前對俄羅斯和烏克蘭的訪問取得了“實質性進展”，包括在安排後續三方會談方面取得了進展。\n5、美國總統特朗普在媒體平臺Truth Social上密集釋出了一系列含有AI生成圖片的帖子，其中包括聲稱自己透過股票和其他資產持倉為美國賺取了數千億美元。\n6、OpenAI首席科學家Jakub Pachocki警告，人工智慧正在以極快速度演進，以至於越來越難以為人類所理解和控制，並稱他期望AI實驗室將出於安全考慮自願放慢開發速度。\n7、德國電信、Orange、沃達豐和西班牙電信正就組建聯盟展開初步磋商，計劃聯合競標歐盟擬為本地運營商預留的衛星頻譜資源。該聯盟一旦成形，將直接與SpaceX的星鏈業務形成競爭。\n8、倫敦金屬交易所 （LME） 三個月基準期銅合約一度上漲0.8%至每噸14533美元，打破了1月創下的紀錄。上漲的主要原因是市場對特朗普持續擴大銅關稅的預期。"
+    },
+    {
+      "id": "mkt:01a07e1d-404b-7118-84d3-fba8b62da4a2",
+      "time": "2026-09-08 07:04:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK Aug BRC total retail sales YoY 0.7% (prev. 1.3%)."
+    },
+    {
+      "id": "mkt:01a07e1d-238b-7118-84d3-f2d460b88d62",
+      "time": "2026-09-08 07:03:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Total Retail Sales (YoY) (Aug) | actual 0.7% | previous 1.3%"
+    },
+    {
+      "id": "mkt:01a07e1c-744e-7118-84d3-ebd76ddca122",
+      "time": "2026-09-08 07:03:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Aug BRC same-store retail sales YoY 0.5%, prior 1.0%."
+    },
+    {
+      "id": "mkt:01a07e1c-58fb-7118-84d3-e10c6917778a",
+      "time": "2026-09-08 07:03:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Aug) | actual 0.5% | previous 1.00%"
+    },
+    {
+      "id": "5081581",
+      "time": "2026-09-08 07:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其總統埃爾多安表示將繼續加強與上合組織關係】土耳其總統埃爾多安7日表示，土耳其將繼續加強與上海合作組織的關係。根據土耳其總統府新聞宣告，埃爾多安在內閣會議後表示，土耳其是上合組織對話夥伴國，“近年來我們加強同多個地區性組織的關係，上合組織是其中尤為重要的一個”。埃爾多安指出，上合組織成員國在全球人口和經濟產出中佔有相當大的比重，“潛力巨大”。埃爾多安表示，在上週于吉爾吉斯斯坦首都比什凱克舉行的“上海合作組織+”會議上，他再次重申土耳其加強與上合組織成員國貿易的決心。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a07e1c-3629-7118-84d3-defa3c36421c",
+      "time": "2026-09-08 07:02:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Erdogan says Turkey to deepen ties with Shanghai Cooperation Organization】Turkish President Erdogan said on July 7 Turkey will deepen ties with the Shanghai Cooperation Organization (SCO), the presidential office said. Speaking after a cabinet meeting, Erdogan called Turkey an SCO dialogue partner and described the SCO as a particularly important regional body, noting its members account for a substantial share of global population and economic output and have “huge potential.” He said at last week’s SCO+ meeting in Bishkek he reaffirmed Turkey’s determination to boost trade with SCO member states."
+    },
+    {
+      "id": "5081580",
+      "time": "2026-09-08 07:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國零售商協會8月同店銷售額同比增長0.5%，7月該資料為同比增長1.0%。"
+    },
+    {
+      "id": "5081579",
+      "time": "2026-09-08 07:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國8月消費者支出同比增長2.1%，7月增速為同比2.0%。"
+    },
+    {
+      "id": "5081578",
+      "time": "2026-09-08 07:01:32",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國8月消費者信心指數為26%，7月曾觸及21個月新高30%。"
+    },
     {
       "id": "5081577",
       "time": "2026-09-08 07:01:07",
