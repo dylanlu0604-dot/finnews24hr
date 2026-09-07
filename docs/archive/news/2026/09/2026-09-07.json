@@ -1,7 +1,76 @@
 {
   "date": "2026-09-07",
-  "count": 1560,
+  "count": 1568,
   "items": [
+    {
+      "id": "5081107",
+      "time": "2026-09-07 18:55:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 沙特阿美基礎設施週一遭襲，目前正在評估受損情況。"
+    },
+    {
+      "id": "mkt:01a07b81-bb2d-7118-84cc-fee7ea01c701",
+      "time": "2026-09-07 18:54:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: a Saudi Aramco refinery was hit in a fresh round of strikes."
+    },
+    {
+      "id": "5081106",
+      "time": "2026-09-07 18:54:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 沙特阿美煉油廠遭遇新一輪襲擊。"
+    },
+    {
+      "id": "mkt:01a07b81-5bcd-7118-84cc-f79616f20a1a",
+      "time": "2026-09-07 18:54:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Atomic Energy Agency Director General GROSSI said Iran is a party to the Nuclear Non-Proliferation Treaty and must fulfill its obligations."
+    },
+    {
+      "id": "5081105",
+      "time": "2026-09-07 18:54:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣和通：出售上海廣翼100%股權完成交割】廣和通公告稱，公司及相關持股方合計向立訊精密出售上海廣翼智聯科技有限公司100%股權，本次交易交割條件已滿足，工商變更登記手續已完成，股權交割日為2026年9月4日。交易完成後，公司不再持有上海廣翼股權，上海廣翼及其下屬公司不再納入公司合併報表範圍，預計將最佳化公司本年經營表現，有利於公司整合資源聚焦主業、提升整體經營效率。"
+    },
+    {
+      "id": "mkt:01a07b81-2e77-7118-84cc-ea7c0d0591dc",
+      "time": "2026-09-07 18:54:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA Director General Grossi said Iran has told the agency it will not engage in dialogue until a broader agreement is reached."
+    },
+    {
+      "id": "mkt:01a07b80-1f6a-7118-84cc-e6d3f172ede3",
+      "time": "2026-09-07 18:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California Governor Newsom said Trump effectively awakened the country's immune system, prompting unprecedented voter turnout and record participation, and that Democrats have returned."
+    },
+    {
+      "id": "mkt:01a07b7f-92a1-7118-84cc-dcd2e043adcc",
+      "time": "2026-09-07 18:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government: Defence Procurement Committee approved capital procurement proposals totaling about 1.10 trillion rupees."
+    },
     {
       "id": "mkt:01a07b7f-72b6-7118-84cc-d3cfad9f558a",
       "time": "2026-09-07 18:52:24",
