@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08 06:46:18",
-  "count": 14087,
+  "updated": "2026-09-08 06:50:13",
+  "count": 14085,
   "items": [
     {
       "id": "mkt:01a07e0c-60bb-7118-84d3-a2bead9f7e21",
@@ -128802,28 +128802,6 @@
         "Brent"
       ],
       "text": "Insiders said U.S. Treasury Secretary Bessent told Russian Finance Minister Siluanov the United States will not provide economic assistance to Russia until the end of the war in Ukraine."
-    },
-    {
-      "id": "5069513",
-      "time": "2026-09-01 06:49:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：知情人士稱美國財政部貝森特告知俄羅斯財政部長西盧安諾夫，在俄烏衝突結束前，美國不會給予俄羅斯經濟方面的寬鬆待遇。"
-    },
-    {
-      "id": "mkt:01a05a03-30e7-7118-8421-fcf1043869dd",
-      "time": "2026-09-01 06:49:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials said U.S. oil firm NABEP will assume operations of some Venezuelan oilfields formerly run by Russian and other companies."
     }
   ]
 }
