@@ -1,7 +1,35 @@
 {
   "date": "2026-09-08",
-  "count": 114,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:01a07d62-b2d1-7118-84d2-eb157f1affcc",
+      "time": "2026-09-08 03:40:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Al Jazeera reports an Israeli strike on southern Lebanon killed at least one person and wounded 10."
+    },
+    {
+      "id": "5081509",
+      "time": "2026-09-08 03:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州一公園發生持刀傷人事件 多人受傷】當地時間9月7日，美國加州薩利納斯一公園附近6日傍晚發生一起大規模持刀傷人事件，造成四人受傷，其中一人傷勢危急。（央視新聞）"
+    },
+    {
+      "id": "5081508",
+      "time": "2026-09-08 03:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列襲擊黎巴嫩南部，造成至少1人死亡、10人受傷。"
+    },
     {
       "id": "mkt:01a07d5e-6663-7118-84d2-e14377813428",
       "time": "2026-09-08 03:35:33",
