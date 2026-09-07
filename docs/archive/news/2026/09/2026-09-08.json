@@ -1,7 +1,31 @@
 {
   "date": "2026-09-08",
-  "count": 1,
+  "count": 4,
   "items": [
+    {
+      "id": "5081463",
+      "time": "2026-09-08 00:05:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國專家稱，以色列清理加沙廢墟的行為可能銷燬 “證據”。"
+    },
+    {
+      "id": "5081462",
+      "time": "2026-09-08 00:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：將於美國東部時間週一下午 4 時，就邁阿密國際機場跑道偏出事件召開媒體簡報會。"
+    },
+    {
+      "id": "mkt:01a07c9a-ff45-7118-84d1-318422f4f2ae",
+      "time": "2026-09-08 00:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. National Transportation Safety Board (NTSB) said it will hold a media briefing at 4:00 p.m. ET on Monday regarding a runway excursion at Miami International Airport."
+    },
     {
       "id": "5081461",
       "time": "2026-09-08 00:00:01",

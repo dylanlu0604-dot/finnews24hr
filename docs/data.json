@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-08 00:01:48",
-  "count": 14242,
+  "updated": "2026-09-08 00:05:48",
+  "count": 14241,
   "items": [
+    {
+      "id": "5081463",
+      "time": "2026-09-08 00:05:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國專家稱，以色列清理加沙廢墟的行為可能銷燬 “證據”。"
+    },
+    {
+      "id": "5081462",
+      "time": "2026-09-08 00:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：將於美國東部時間週一下午 4 時，就邁阿密國際機場跑道偏出事件召開媒體簡報會。"
+    },
+    {
+      "id": "mkt:01a07c9a-ff45-7118-84d1-318422f4f2ae",
+      "time": "2026-09-08 00:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. National Transportation Safety Board (NTSB) said it will hold a media briefing at 4:00 p.m. ET on Monday regarding a runway excursion at Miami International Airport."
+    },
     {
       "id": "5081461",
       "time": "2026-09-08 00:00:01",
@@ -130275,47 +130299,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Drops on Renewed Inflation Concerns — The CAC 40 fell 0.8% to close at 8,334 on Monday amid renewed inflationary pressures stemming from the US-Iran war. Oil prices rebounded as the US and Iran exchanged strikes for the first time in roughly a month, while fresh concerns over shipping through the Strait of Hormuz added to supply risks. Higher crude prices weighed on the index amid concerns over energy-driven inflation. Luxury stocks declined as risk aversion increased, with LVMH losing 1.1%, L’Oreal shedding 1%, and Hermes retreating 1.1%. Financials were mixed, with AXA down 1.2%. Industrials underperformed, led by Airbus (-2.9%) and Safran (-2.1%). Fitch Ratings affirmed France’s rating at ‘A+’ with a Stable Outlook. However, high and rising public debt, a challenging political and social environment, and weak potential growth are seen as constraints. Tech stocks tracked losses in the US, with Schneider Electric down 2.4% and STMicroelectronics losing 0.8%. In contrast, TotalEnergies gained 1.1% on higher oil prices."
-    },
-    {
-      "id": "5069304",
-      "time": "2026-09-01 00:05:39",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "週一美國10年期國債收益率突破4.75%，為2025年1月以來首次；油價上漲推升市場對美聯儲加息的預期。"
-    },
-    {
-      "id": "5069303",
-      "time": "2026-09-01 00:04:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟365執行狀態公告：正在調查有關Exchange Online出問題的報告。"
-    },
-    {
-      "id": "mkt:01a05890-5e7d-7118-841d-30bcd1f58ab1",
-      "time": "2026-09-01 00:04:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "Microsoft 365 says it is investigating reports of issues affecting Exchange Online."
-    },
-    {
-      "id": "5069302",
-      "time": "2026-09-01 00:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭聯合執政各政黨就2027年預算草案達成協議。"
     }
   ]
 }
