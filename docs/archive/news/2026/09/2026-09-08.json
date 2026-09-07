@@ -1,7 +1,28 @@
 {
   "date": "2026-09-08",
-  "count": 198,
+  "count": 200,
   "items": [
+    {
+      "id": "te:markets:581731",
+      "time": "2026-09-08 06:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.96% — Top commodity losers are Lithium Carbonate (-2.96%), Silicon (-1.37%) and Gold (-0.54%). Gains are led by Iron Ore CNY (1.03%), Platinum (0.60%) and Copper (0.54%)."
+    },
+    {
+      "id": "mkt:01a07e02-edfc-7118-84d3-93059cf73680",
+      "time": "2026-09-08 06:35:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Tibo, head of product for OpenAI CODEX, said the company will perform a global reset of usage for all paid subscriptions, scheduled for about 6:00 p.m. Pacific Standard Time today (9:00 a.m. Beijing time Tuesday)."
+    },
     {
       "id": "te:markets:581730",
       "time": "2026-09-08 06:30:16",
