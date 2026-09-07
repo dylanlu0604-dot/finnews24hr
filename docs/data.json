@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08 04:04:27",
-  "count": 14112,
+  "updated": "2026-09-08 04:08:23",
+  "count": 14107,
   "items": [
+    {
+      "id": "5081518",
+      "time": "2026-09-08 04:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗錫裡克婚禮遭襲現場發現美武器殘骸】當地時間9月1日晚，美軍對伊朗南部多個城市發動大規模空襲，其中錫裡克市一處婚禮現場遭襲，造成數十人傷亡。近日，總檯記者來到錫裡克，探訪了當晚遭襲的婚禮現場。在襲擊發生後，當地居民蒐集到一些爆炸物和導彈殘骸。（央視新聞）"
+    },
     {
       "id": "5081517",
       "time": "2026-09-08 04:00:41",
@@ -129032,59 +129040,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Fall as Rising Oil Prices Fuel Inflation Fears — US stock indices closed mostly lower on Monday as higher oil prices added to inflation risks and reinforced expectations of a Federal Reserve rate hike. The S&P 500 fell 0.3%, the Nasdaq edged down 0.1% and the Dow shed 374 points. Oil prices gained traction after the US and Iran exchanged fresh strikes, following signals from both sides of blockades targeting tankers and vessels in the Persian Gulf that have prolonged the suspension of regional exports. Treasury yields rose across the curve, weighing on credit-sensitive stocks. Hyperscalers tumbled, with Alphabet down 2.1%, Microsoft losing 1.2% and Amazon shedding 2.5%. Financials also closed mostly lower, with Mastercard losing 1% and Goldman Sachs down 0.8%. In contrast, Nvidia gained 1.4% after announcing a $3.5 billion stake in MediaTek, expanding its exposure to global chip production and AI infrastructure. The S&P 500 rose 2.6% in August, while the Nasdaq 100 jumped 4.2% and the Dow gained 701 points."
-    },
-    {
-      "id": "mkt:01a0596f-e3ff-7118-8421-0c526cc079a6",
-      "time": "2026-09-01 04:08:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations said an incident occurred in the Indian Ocean involving a tanker and a military vessel; authorities are aware and an investigation is ongoing."
-    },
-    {
-      "id": "mkt:01a0596e-1db0-7118-8421-0240d0926c7a",
-      "time": "2026-09-01 04:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Asked whether he was reassessing his stance on the Falkland Islands, Trump said he will continually reassess various positions and that the Falklands was one of them."
-    },
-    {
-      "id": "5069455",
-      "time": "2026-09-01 04:05:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國海事貿易行動辦公室：英國海事貿易行動辦公室收到一份報告，印度洋發生一起涉及油輪與軍事力量的事件。建議各船舶參考最新海事安全資訊，密切關注不斷變化的作業環境。有關部門已獲悉此事，相關調查仍在進行。"
-    },
-    {
-      "id": "mkt:01a0596d-466c-7118-8420-fd43290c6163",
-      "time": "2026-09-01 04:05:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "Dow Jones Industrial Average closed down 373.85 points (-0.70%) at 53,186.14 on Aug 31 (Mon); S&P 500 closed down 25.42 points (-0.33%) at 7,686.34; Nasdaq Composite closed down 31.53 points (-0.12%) at 26,370.89."
-    },
-    {
-      "id": "5069454",
-      "time": "2026-09-01 04:04:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：英國存在諸多問題，但這些問題終將得到解決。"
-    },
-    {
-      "id": "5069453",
-      "time": "2026-09-01 04:04:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "被問及是否正在重新審視福克蘭群島相關立場時，特朗普表示自己一貫會審視各類立場，福克蘭群島問題也在其中。"
     }
   ]
 }
