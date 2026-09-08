@@ -1,7 +1,136 @@
 {
-  "updated": "2026-09-08 13:24:52",
-  "count": 14083,
+  "updated": "2026-09-08 13:28:44",
+  "count": 14092,
   "items": [
+    {
+      "id": "mkt:01a07f7c-f19e-7118-84dd-63011cd3b790",
+      "time": "2026-09-08 13:28:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Ukraine FM urges allies to intensify pressure on Russia, immediately supply more interceptors】Ukraine foreign minister Andrii Sybiha said a US presidential envoy had just departed when Russia launched another large-scale ballistic missile attack on Kyiv, damaging residential areas and killing at least two. He urged allies not to delay and called for immediate delivery of more interceptor missiles, saying each interceptor could save lives. Sybiha also urged European governments to follow Germany in closing Russia House cultural centers and to dismantle Russian influence networks while Moscow refuses to end the war, and he pressed allies to increase pressure on Russia."
+    },
+    {
+      "id": "te:markets:581859",
+      "time": "2026-09-08 13:27:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Stock Price Hits 12-week High — CNOOC shares increased to 25.68 HKD, the highest since June 2026. Over the past 4 weeks, CNOOC gained 9.66%, and in the last 12 months, it increased 27.41%."
+    },
+    {
+      "id": "5082093",
+      "time": "2026-09-08 13:26:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報93.31美元/桶。"
+    },
+    {
+      "id": "mkt:01a07f7a-c96b-7118-84dd-5fbc3fc39945",
+      "time": "2026-09-08 13:25:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "CPCA: Tesla exported 36,119 China-made vehicles in August."
+    },
+    {
+      "id": "mkt:01a07f7a-93f6-7118-84dd-52aaa6dbbdfb",
+      "time": "2026-09-08 13:25:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "159073.SS",
+        "Impact bullish",
+        "159031.SS",
+        "159033.SS"
+      ],
+      "text": "【China grain theme extends rally; 10 grain ETFs rise over 5%】China A-share grain theme extended its afternoon rally as 10 grain ETFs, including 159073, 159031 and 159033, rose more than 5%. Eight stocks heavily held by funds — notably Yasheng Group, COFCO Technology, COFCO Sugar and Sukon Agricultural Development — hit daily limit-up."
+    },
+    {
+      "id": "mkt:01a07f7a-8b62-7118-84dd-4b88077f918e",
+      "time": "2026-09-08 13:25:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Ministry of Energy said relevant departments are working to secure facilities and personnel and to maintain operational continuity."
+    },
+    {
+      "id": "mkt:01a07f7a-7762-7118-84dd-441a4e652f2b",
+      "time": "2026-09-08 13:25:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia's Energy Ministry said an attack caused fires at multiple facilities and temporarily halted operations at some sites."
+    },
+    {
+      "id": "5082092",
+      "time": "2026-09-08 13:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部表示，有關部門正在開展工作，以保障設施、人員安全，並維持運營的連續性。"
+    },
+    {
+      "id": "5082091",
+      "time": "2026-09-08 13:24:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，部分能源設施的運營已經停止。"
+    },
+    {
+      "id": "mkt:01a07f79-a09d-7118-84dd-38b547ae314a",
+      "time": "2026-09-08 13:24:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi Energy Ministry said energy and utility facilities in southern Saudi Arabia were attacked on Tuesday morning local time."
+    },
+    {
+      "id": "5082090",
+      "time": "2026-09-08 13:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，多個能源設施發生火災。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609083867919259",
+      "time": "2026-09-08 13:24:18",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【乘聯分會：8月乘用車出口同比增長77.8% 環比下降4.2%】根據乘聯資料，8月乘用車出口(含整車與CKD)88.8萬輛，同比增長77.8%，環比下降4.2%，佔乘用車廠商銷量38%(上月41%，2025年同期20%)。8月新能源車佔出口總量的58.4%，較同期大幅增加18個百分點。8月自主品牌出口達到78.0萬輛，同比增長82%；合資與豪華品牌出口10.8萬輛，同比增長53%。"
+    },
     {
       "id": "5082089",
       "time": "2026-09-08 13:23:56",
@@ -128767,34 +128896,6 @@
         "Nasdaq100"
       ],
       "text": "【US holdings turned positive over past 4 weeks; short-term rebound may fade】Global flows: North America saw net inflows (longs added, shorts covered); EMEA and APAC recorded small net outflows. US four-week holdings turned positive for the first time, sitting at the 37th percentile since 2015; Europe, Japan, China and Hong Kong remain overall neutral. Historically the S&P 500 typically rallies one week after the Jackson Hole central bank symposium but shows mean reversion in weeks three to four, implying risk of a short-lived rebound followed by divergent, slightly weaker performance over the next few weeks to one month. Buy-side in the US is concentrated in tech and consumer, with software outperforming semiconductors. Over last week’s five trading days, hedge funds increased short positions in tech and healthcare by ~3%. Hedge funds sold US healthcare and bought European healthcare; historically the two-region spread has an 86% chance of at least partial convergence within two months. (Source: JP Morgan)"
-    },
-    {
-      "id": "5070061",
-      "time": "2026-09-01 13:26:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：可持續安全不是透過對抗實現的，而是透過相互信任、尊重各國主權以及不干涉其內政來實現的。"
-    },
-    {
-      "id": "mkt:01a05b6e-308a-7118-842a-7e601f2ef4b3",
-      "time": "2026-09-01 13:25:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported that at the Shanghai Cooperation Organization summit the Iranian president said practical experience shows security and development are interlinked and inseparable."
-    },
-    {
-      "id": "te:economy:579829",
-      "time": "2026-09-01 13:25:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Indonesia Tourist Arrivals Rise 2.95% YoY — Foreign tourist arrivals to Indonesia rose 2.95% year-on-year to 1.52 million in July 2026, rebounding from a 2.15% decline in June as travel demand improved. The recovery highlighted stronger momentum in the tourism sector, supported by seasonal factors and easing constraints on mobility, after recent weakness in visitor flows. Arrivals increased from Malaysia (7.83%), Singapore (2.67%), China (8.45%), Japan (0.59%), the U.S. (1.63%), the Middle East (8.88%), and Australia (8.67%). In contrast, visitors dropped from East Timor (-1.49%), India (-6.72%), and South Korea (-12.13%). Arrivals from the EU also fell 1.35%, mainly from the UK (-2.21%), France (-5.02%), and the Netherlands (-3.51%). In the first seven months of the year, foreign tourist arrivals rose 5.23% from a year earlier to 8.95 million."
     }
   ]
 }

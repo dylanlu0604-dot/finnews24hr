@@ -1,7 +1,136 @@
 {
   "date": "2026-09-08",
-  "count": 962,
+  "count": 974,
   "items": [
+    {
+      "id": "mkt:01a07f7c-f19e-7118-84dd-63011cd3b790",
+      "time": "2026-09-08 13:28:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Ukraine FM urges allies to intensify pressure on Russia, immediately supply more interceptors】Ukraine foreign minister Andrii Sybiha said a US presidential envoy had just departed when Russia launched another large-scale ballistic missile attack on Kyiv, damaging residential areas and killing at least two. He urged allies not to delay and called for immediate delivery of more interceptor missiles, saying each interceptor could save lives. Sybiha also urged European governments to follow Germany in closing Russia House cultural centers and to dismantle Russian influence networks while Moscow refuses to end the war, and he pressed allies to increase pressure on Russia."
+    },
+    {
+      "id": "te:markets:581859",
+      "time": "2026-09-08 13:27:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Stock Price Hits 12-week High — CNOOC shares increased to 25.68 HKD, the highest since June 2026. Over the past 4 weeks, CNOOC gained 9.66%, and in the last 12 months, it increased 27.41%."
+    },
+    {
+      "id": "5082093",
+      "time": "2026-09-08 13:26:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報93.31美元/桶。"
+    },
+    {
+      "id": "mkt:01a07f7a-c96b-7118-84dd-5fbc3fc39945",
+      "time": "2026-09-08 13:25:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "CPCA: Tesla exported 36,119 China-made vehicles in August."
+    },
+    {
+      "id": "mkt:01a07f7a-93f6-7118-84dd-52aaa6dbbdfb",
+      "time": "2026-09-08 13:25:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "159073.SS",
+        "Impact bullish",
+        "159031.SS",
+        "159033.SS"
+      ],
+      "text": "【China grain theme extends rally; 10 grain ETFs rise over 5%】China A-share grain theme extended its afternoon rally as 10 grain ETFs, including 159073, 159031 and 159033, rose more than 5%. Eight stocks heavily held by funds — notably Yasheng Group, COFCO Technology, COFCO Sugar and Sukon Agricultural Development — hit daily limit-up."
+    },
+    {
+      "id": "mkt:01a07f7a-8b62-7118-84dd-4b88077f918e",
+      "time": "2026-09-08 13:25:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Ministry of Energy said relevant departments are working to secure facilities and personnel and to maintain operational continuity."
+    },
+    {
+      "id": "mkt:01a07f7a-7762-7118-84dd-441a4e652f2b",
+      "time": "2026-09-08 13:25:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia's Energy Ministry said an attack caused fires at multiple facilities and temporarily halted operations at some sites."
+    },
+    {
+      "id": "5082092",
+      "time": "2026-09-08 13:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部表示，有關部門正在開展工作，以保障設施、人員安全，並維持運營的連續性。"
+    },
+    {
+      "id": "5082091",
+      "time": "2026-09-08 13:24:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，部分能源設施的運營已經停止。"
+    },
+    {
+      "id": "mkt:01a07f79-a09d-7118-84dd-38b547ae314a",
+      "time": "2026-09-08 13:24:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi Energy Ministry said energy and utility facilities in southern Saudi Arabia were attacked on Tuesday morning local time."
+    },
+    {
+      "id": "5082090",
+      "time": "2026-09-08 13:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，多個能源設施發生火災。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609083867919259",
+      "time": "2026-09-08 13:24:18",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【乘聯分會：8月乘用車出口同比增長77.8% 環比下降4.2%】根據乘聯資料，8月乘用車出口(含整車與CKD)88.8萬輛，同比增長77.8%，環比下降4.2%，佔乘用車廠商銷量38%(上月41%，2025年同期20%)。8月新能源車佔出口總量的58.4%，較同期大幅增加18個百分點。8月自主品牌出口達到78.0萬輛，同比增長82%；合資與豪華品牌出口10.8萬輛，同比增長53%。"
+    },
     {
       "id": "5082089",
       "time": "2026-09-08 13:23:56",
