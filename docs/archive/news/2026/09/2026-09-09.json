@@ -1,7 +1,24 @@
 {
   "date": "2026-09-09",
-  "count": 121,
+  "count": 123,
   "items": [
+    {
+      "id": "mkt:01a08228-234f-7118-84f2-afce244524a9",
+      "time": "2026-09-09 01:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said a U.S. MILITARY unmanned underwater vehicle malfunctioned in the Middle East more than a day ago."
+    },
+    {
+      "id": "5083568",
+      "time": "2026-09-09 01:53:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員稱，美軍一架水下無人機一天多前在中東發生故障。"
+    },
     {
       "id": "mkt:01a08224-a93f-7118-84f2-a1c4eae4b6d1",
       "time": "2026-09-09 01:50:35",
