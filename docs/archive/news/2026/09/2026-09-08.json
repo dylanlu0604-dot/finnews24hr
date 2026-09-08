@@ -1,7 +1,171 @@
 {
   "date": "2026-09-08",
-  "count": 528,
+  "count": 545,
   "items": [
+    {
+      "id": "mkt:01a07ea8-48ab-7118-84d7-185921698b79",
+      "time": "2026-09-08 09:35:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share cultural and media sector extended gains; CITIC Publishing jumped over 18%. China Publishing and Reader Media hit the daily limit-up; Longban Media, Qitian Technology and Fengyuzhu also advanced."
+    },
+    {
+      "id": "5081774",
+      "time": "2026-09-08 09:35:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌3.5個基點，至2.895%。"
+    },
+    {
+      "id": "mkt:01a07ea7-f1c1-7118-84d7-12db99a2f8ad",
+      "time": "2026-09-08 09:35:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield fell 3.5 bps to 2.895%."
+    },
+    {
+      "id": "mkt:01a07ea7-e291-7118-84d7-0bdc3e8b3e8b",
+      "time": "2026-09-08 09:35:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share property sector briefly rallied; Wo Ai Wo Jia hit the daily limit-up. Shenwuye A, China Wuyi, Tefa Service, Zhonghua Enterprise and Zhongjiao Development also advanced."
+    },
+    {
+      "id": "mkt:01a07ea7-ca1c-7118-84d7-062dffea4e99",
+      "time": "2026-09-08 09:35:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said she will properly control full-year new bond issuance."
+    },
+    {
+      "id": "mkt:01a07ea7-7e57-7118-84d6-ffb5f2155175",
+      "time": "2026-09-08 09:35:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share retail sector opened sharply higher; Baida Group posted its fourth consecutive limit-up and Zhongbai Group its second. Zhejiang Dongri climbed over 6%; Central Department Store, Guofang Group and Xiangjiang Holdings also advanced."
+    },
+    {
+      "id": "mkt:01a07ea7-4f46-7118-84d6-f3407bd84a6d",
+      "time": "2026-09-08 09:34:49",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said she will step up efforts to secure funding to support cuts or exemptions of the consumption tax on food."
+    },
+    {
+      "id": "5081773",
+      "time": "2026-09-08 09:34:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皐月：將加大力度確保食品消費稅削減的資金來源。"
+    },
+    {
+      "id": "5081772",
+      "time": "2026-09-08 09:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不會依靠舉債來資助食品稅減免。"
+    },
+    {
+      "id": "5081771",
+      "time": "2026-09-08 09:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：三星超一半4nm產能被分配給HBM4晶片】三星電子計劃從今年第三季度開始大幅提升HBM4的供應量。為此，該公司自今年年中以來已大幅增加HBM4晶片的晶圓投入，以進行大規模量產。該晶片採用三星晶圓代工的4nm（SF4）工藝製造。據公司內部和外部訊息人士透露，截至上個月，三星電子4nm總產能的50%以上都分配給了HBM4晶片。 (zdnet)"
+    },
+    {
+      "id": "5081770",
+      "time": "2026-09-08 09:34:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊盤初強，我愛我家觸及漲停】房地產板塊盤初強，我愛我家觸及漲停，廣宇集團、深物業A、特發服務、國創高新、珠江股份、棲霞建設等跟漲。"
+    },
+    {
+      "id": "5081769",
+      "time": "2026-09-08 09:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊走高，中信出版漲超18%】文化傳媒板塊走高，中信出版漲超18%，中國出版、讀者傳媒漲停，龍版傳媒、旗天科技、風語築跟漲。"
+    },
+    {
+      "id": "5081768",
+      "time": "2026-09-08 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他農產品加工板塊異動拉昇】中糧科技、中糧糖業觸及漲停，保齡寶、歐福蛋業、一致魔芋、華資實業、永順泰跟漲。"
+    },
+    {
+      "id": "5081767",
+      "time": "2026-09-08 09:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億華通等在廣西成立動力科技公司】企查查APP顯示，近日，廣西億華通動力科技有限公司成立，經營範圍包含：水上運輸裝置零配件銷售；水上運輸裝置零配件製造；船用配套裝置製造；船舶銷售等。企查查股權穿透顯示，該公司由億華通等共同持股。"
+    },
+    {
+      "id": "5081766",
+      "time": "2026-09-08 09:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西渝高鐵全線控制性工程朱家山隧道貫通】今天（9月8日），陝西西安至重慶高速鐵路的全線控制性工程——朱家山隧道順利貫通。西渝高鐵是我國“八縱八橫”高鐵網的重要組成部分，正線全長739公里，設計時速350公里，全線預計2028年年底具備通車條件，通車後，重慶至西安由現在最快5小時左右縮短至2.5小時左右，極大便利沿線群眾出行。"
+    },
+    {
+      "id": "5081765",
+      "time": "2026-09-08 09:32:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬銅概念表現活躍 精藝股份觸及漲停】金屬銅概念表現活躍，精藝股份觸及漲停，北方銅業、江西銅業、西部礦業、銅陵有色跟漲。"
+    },
+    {
+      "id": "5081764",
+      "time": "2026-09-08 09:32:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.6%，報153.410。"
+    },
     {
       "id": "mkt:01a07ea4-5a79-7118-84d6-eeca06b99c51",
       "time": "2026-09-08 09:31:35",

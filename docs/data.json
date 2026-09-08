@@ -1,7 +1,171 @@
 {
-  "updated": "2026-09-08 09:32:28",
-  "count": 14095,
+  "updated": "2026-09-08 09:36:19",
+  "count": 14085,
   "items": [
+    {
+      "id": "mkt:01a07ea8-48ab-7118-84d7-185921698b79",
+      "time": "2026-09-08 09:35:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share cultural and media sector extended gains; CITIC Publishing jumped over 18%. China Publishing and Reader Media hit the daily limit-up; Longban Media, Qitian Technology and Fengyuzhu also advanced."
+    },
+    {
+      "id": "5081774",
+      "time": "2026-09-08 09:35:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌3.5個基點，至2.895%。"
+    },
+    {
+      "id": "mkt:01a07ea7-f1c1-7118-84d7-12db99a2f8ad",
+      "time": "2026-09-08 09:35:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield fell 3.5 bps to 2.895%."
+    },
+    {
+      "id": "mkt:01a07ea7-e291-7118-84d7-0bdc3e8b3e8b",
+      "time": "2026-09-08 09:35:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share property sector briefly rallied; Wo Ai Wo Jia hit the daily limit-up. Shenwuye A, China Wuyi, Tefa Service, Zhonghua Enterprise and Zhongjiao Development also advanced."
+    },
+    {
+      "id": "mkt:01a07ea7-ca1c-7118-84d7-062dffea4e99",
+      "time": "2026-09-08 09:35:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said she will properly control full-year new bond issuance."
+    },
+    {
+      "id": "mkt:01a07ea7-7e57-7118-84d6-ffb5f2155175",
+      "time": "2026-09-08 09:35:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share retail sector opened sharply higher; Baida Group posted its fourth consecutive limit-up and Zhongbai Group its second. Zhejiang Dongri climbed over 6%; Central Department Store, Guofang Group and Xiangjiang Holdings also advanced."
+    },
+    {
+      "id": "mkt:01a07ea7-4f46-7118-84d6-f3407bd84a6d",
+      "time": "2026-09-08 09:34:49",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said she will step up efforts to secure funding to support cuts or exemptions of the consumption tax on food."
+    },
+    {
+      "id": "5081773",
+      "time": "2026-09-08 09:34:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皐月：將加大力度確保食品消費稅削減的資金來源。"
+    },
+    {
+      "id": "5081772",
+      "time": "2026-09-08 09:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不會依靠舉債來資助食品稅減免。"
+    },
+    {
+      "id": "5081771",
+      "time": "2026-09-08 09:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：三星超一半4nm產能被分配給HBM4晶片】三星電子計劃從今年第三季度開始大幅提升HBM4的供應量。為此，該公司自今年年中以來已大幅增加HBM4晶片的晶圓投入，以進行大規模量產。該晶片採用三星晶圓代工的4nm（SF4）工藝製造。據公司內部和外部訊息人士透露，截至上個月，三星電子4nm總產能的50%以上都分配給了HBM4晶片。 (zdnet)"
+    },
+    {
+      "id": "5081770",
+      "time": "2026-09-08 09:34:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊盤初強，我愛我家觸及漲停】房地產板塊盤初強，我愛我家觸及漲停，廣宇集團、深物業A、特發服務、國創高新、珠江股份、棲霞建設等跟漲。"
+    },
+    {
+      "id": "5081769",
+      "time": "2026-09-08 09:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊走高，中信出版漲超18%】文化傳媒板塊走高，中信出版漲超18%，中國出版、讀者傳媒漲停，龍版傳媒、旗天科技、風語築跟漲。"
+    },
+    {
+      "id": "5081768",
+      "time": "2026-09-08 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他農產品加工板塊異動拉昇】中糧科技、中糧糖業觸及漲停，保齡寶、歐福蛋業、一致魔芋、華資實業、永順泰跟漲。"
+    },
+    {
+      "id": "5081767",
+      "time": "2026-09-08 09:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億華通等在廣西成立動力科技公司】企查查APP顯示，近日，廣西億華通動力科技有限公司成立，經營範圍包含：水上運輸裝置零配件銷售；水上運輸裝置零配件製造；船用配套裝置製造；船舶銷售等。企查查股權穿透顯示，該公司由億華通等共同持股。"
+    },
+    {
+      "id": "5081766",
+      "time": "2026-09-08 09:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西渝高鐵全線控制性工程朱家山隧道貫通】今天（9月8日），陝西西安至重慶高速鐵路的全線控制性工程——朱家山隧道順利貫通。西渝高鐵是我國“八縱八橫”高鐵網的重要組成部分，正線全長739公里，設計時速350公里，全線預計2028年年底具備通車條件，通車後，重慶至西安由現在最快5小時左右縮短至2.5小時左右，極大便利沿線群眾出行。"
+    },
+    {
+      "id": "5081765",
+      "time": "2026-09-08 09:32:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬銅概念表現活躍 精藝股份觸及漲停】金屬銅概念表現活躍，精藝股份觸及漲停，北方銅業、江西銅業、西部礦業、銅陵有色跟漲。"
+    },
+    {
+      "id": "5081764",
+      "time": "2026-09-08 09:32:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.6%，報153.410。"
+    },
     {
       "id": "mkt:01a07ea4-5a79-7118-84d6-eeca06b99c51",
       "time": "2026-09-08 09:31:35",
@@ -128678,260 +128842,6 @@
         "MKT News"
       ],
       "text": "【China's 2026 National Cybersecurity Awareness Week set for Sept. 14-20】A Sept. 1 press briefing in Beijing confirmed China’s 2026 National Cybersecurity Awareness Week will run Sept. 14-20 nationwide. A Cybersecurity Technology Summit opens the week on the morning of Sept. 14 at the Shandong International Convention and Exhibition Center; attendees will include relevant government departments, Hong Kong and Macau SAR representatives, cyber experts, and corporate and internet platform leaders, and organizers said a series of major cybersecurity outcomes will be released. On Sept. 15-16 organizers will hold 15 sub-forums, closed-door meetings and seminars focused on AI security governance, AI-enabled cybersecurity, protection of critical information infrastructure, open-source supply-chain security, cloud-service security, personal data protection, automotive data security, cybersecurity insurance, government information-system security management, electronic product data sanitization, cybersecurity industry-chain coordination, and cybersecurity awareness and literacy."
-    },
-    {
-      "id": "5069734",
-      "time": "2026-09-01 09:36:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌1.05%，現報3402.675點；上證指數跌0.05%，現報3984.155點；深證成指跌0.57%，現報13934.811點。"
-    },
-    {
-      "id": "mkt:01a05a9c-12be-7118-8425-29dc32560421",
-      "time": "2026-09-01 09:36:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00625.HK",
-        "Impact bearish"
-      ],
-      "text": "Xiyin-W (00625.HK) dropped more than 8% on its Hong Kong trading debut."
-    },
-    {
-      "id": "5069733",
-      "time": "2026-09-01 09:35:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【出版板塊持續走強，粵傳媒等多股漲停】出版板塊持續走強，粵傳媒、龍版傳媒、時代出版漲停，中文線上、南方傳媒、果麥文化、天舟文化、長江傳媒、新華傳媒等跟漲。"
-    },
-    {
-      "id": "5069732",
-      "time": "2026-09-01 09:35:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞10年期國債收益率升至2011年以來最高水平。"
-    },
-    {
-      "id": "5069731",
-      "time": "2026-09-01 09:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年全國科普月活動全面啟動】按照科普法關於“每年9月為全國科普月”的規定，中國科協聯合34家全民科學素質綱要實施工作辦公室成員單位，於9月1日起以“科技改變生活 創新贏得未來”為主題組織開展2026年全國科普月活動。全國科普月期間，各地各部門將踐行科普為民理念，立足科技賦能民生、科技服務基層，策劃推出一系列科普活動，重點打造共探高校星火館、百場科學大師劇綻放校園、“光影科學夢”影視資源全國科普場館巡映、“科普之光”全國科普月大型網路展播等特色活動，呈現全民共享的科普月盛宴。"
-    },
-    {
-      "id": "mkt:01a05a9b-4e4a-7118-8425-2544795fcb2e",
-      "time": "2026-09-01 09:35:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HarmonyOS Zhixing deliveries: August 42,101 units; YTD cumulative deliveries up 10.8% YoY."
-    },
-    {
-      "id": "5069730",
-      "time": "2026-09-01 09:35:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【化學制藥板塊盤初走弱，冀衡醫藥、神奇製藥雙雙跌停】化學制藥板塊盤初走弱，冀衡醫藥、神奇製藥雙雙跌停，譽衡藥業、中關村、鍵凱科技、ST南新、西點藥業、百利天恆等跟跌。"
-    },
-    {
-      "id": "mkt:01a05a9b-071f-7118-8425-1d0cd62a2219",
-      "time": "2026-09-01 09:35:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's August RatingDog Manufacturing PMI due in 10 minutes."
-    },
-    {
-      "id": "5069729",
-      "time": "2026-09-01 09:34:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲5%，現報3057.00元。"
-    },
-    {
-      "id": "5069728",
-      "time": "2026-09-01 09:34:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報1822.50點。"
-    },
-    {
-      "id": "mkt:01a05a9a-343d-7118-8425-17483a50de55",
-      "time": "2026-09-01 09:34:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kyiv city government said a Russian airstrike killed 3 and injured 5."
-    },
-    {
-      "id": "mkt:01a05a9a-1784-7118-8425-0a25557d14b1",
-      "time": "2026-09-01 09:34:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share tax-refund stores sector jumped in early trade; Maoye Commercial rose over 5%, with Baida Group, Nanning Department Store, Guangbai and Cuiwei also higher. MOFCOM and six other ministries issued implementation opinions to expand and upgrade goods consumption, targeting about 60 trillion yuan in total retail sales of consumer goods by 2030 and calling for continued growth in trillion-yuan categories such as autos, home appliances, communications equipment and textiles/apparel."
-    },
-    {
-      "id": "5069727",
-      "time": "2026-09-01 09:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭基輔市政當局稱，俄羅斯空襲造成基輔三人死亡、五人受傷。"
-    },
-    {
-      "id": "5069726",
-      "time": "2026-09-01 09:33:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲6%，現報5506.00元。"
-    },
-    {
-      "id": "5069725",
-      "time": "2026-09-01 09:33:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中信銀行股價創歷史新高】中信銀行盤中股價創歷史新高，現漲0.9%，報8.93元，總市值為4683.19億元。"
-    },
-    {
-      "id": "5069724",
-      "time": "2026-09-01 09:33:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【農業種植概念盤初異動拉昇，京糧控股、新賽股份雙雙漲停】農業種植概念盤初異動拉昇，京糧控股、新賽股份雙雙漲停，萬向德農、華綠生物、國投豐樂、神農種業、金健米業、蘇墾農發等跟漲。"
-    },
-    {
-      "id": "5069723",
-      "time": "2026-09-01 09:33:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天融信與河北出版傳媒集團等達成戰略合作 推動可信資料空間多場景落地】天融信訊息，8月27日至29日，由中國新聞出版研究院、中國出版協會聯合主辦的第十六屆中國國際數字出版博覽會在山東濟南舉辦。會上，河北出版傳媒集團“可信資料空間平臺”正式釋出並舉行戰略合作簽約儀式。天融信科技集團與河北紀元光電有限公司、河北新智資料研究院、河北科學技術出版社、河北教育出版社、河北移動多家單位完成戰略合作簽約，後續各方將依託各自資源優勢，在資料資源開發、場景應用等方面進一步深化合作。"
-    },
-    {
-      "id": "mkt:01a05a99-95cf-7118-8425-048e9db6bbba",
-      "time": "2026-09-01 09:33:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "The yield on Japan's 5-year government bond rose 4.5 bps to 2.25%."
-    },
-    {
-      "id": "mkt:01a05a99-7cbb-7118-8424-fd621df4dd0f",
-      "time": "2026-09-01 09:33:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Ministry of Finance will auction ¥2.5 trillion of 5-year government bonds on Sept. 8."
-    },
-    {
-      "id": "5069722",
-      "time": "2026-09-01 09:33:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業零售概念盤初走強，國芳集團漲停】商業零售概念盤初走強，國芳集團漲停，東百集團、新華百貨、中百集團、中央商場、茂業商業、三江購物等跟漲。"
-    },
-    {
-      "id": "5069721",
-      "time": "2026-09-01 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股農林牧漁板塊異動拉昇】福建金森、京糧控股觸及漲停，百洋股份、中糧科技、深糧控股、平潭發展、神農種業跟漲。"
-    },
-    {
-      "id": "5069720",
-      "time": "2026-09-01 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股農產品加工板塊異動拉昇】京糧控股觸及漲停，中糧科技、深糧控股、道道全、東方海洋、金龍魚、歐福蛋業跟漲。"
-    },
-    {
-      "id": "5069719",
-      "time": "2026-09-01 09:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "農業股反覆活躍，萬向德農6連板，新賽股份4連板，福建金森3連板，平潭發展、秋樂種業、永安林業跟漲。"
-    },
-    {
-      "id": "5069718",
-      "time": "2026-09-01 09:32:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年網安周將於9月14日至20日在全國舉行】今天（9月1日），2026年國家網路安全宣傳週新聞釋出會在北京舉行。記者從釋出會現場瞭解到，今年網安周的主題為“網路安全為人民 網路安全靠人民——智慧時代 網安護航”，將於9月14日至20日在全國範圍內統一舉行，由中央宣傳部、中央網信辦、教育部、工業和資訊化部、公安部、中國人民銀行、國家廣播電視總局、全國總工會、共青團中央、全國婦聯等十部門聯合舉辦。其中，開幕式、高峰論壇等重要活動在山東省濟南市舉辦。各地區、各部門也將組織本地區、本系統開展一系列網路安全宣傳週活動。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a05a98-bb0b-7118-8424-f32c745140aa",
-      "time": "2026-09-01 09:32:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia seasonally adjusted private-sector building approvals rose 6.0% YoY in July, down from 15.8% previously."
-    },
-    {
-      "id": "5069717",
-      "time": "2026-09-01 09:32:27",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【福建省政協經濟委員會原副主任嚴正接受審查調查】中央紀委國家監委網站9月1日通報，據福建省紀委監委訊息：福建省政協經濟委員會原副主任嚴正涉嫌嚴重違紀違法，目前正接受福建省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:01a05a98-a22e-7118-8424-e94b870ddda8",
-      "time": "2026-09-01 09:32:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share planting and forestry sector surged; Fujian Jinsen and Xinsai hit daily limit-up. Yong'an Forestry, Xuerong Bio, Xinnong Development, Honghui Fruit & Vegetable and Runnong Water-saving also advanced."
     }
   ]
 }
