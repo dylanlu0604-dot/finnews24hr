@@ -1,7 +1,111 @@
 {
   "date": "2026-09-08",
-  "count": 2216,
+  "count": 2227,
   "items": [
+    {
+      "id": "5083373",
+      "time": "2026-09-08 22:29:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：將與美國國家運輸安全委員會全面配合。"
+    },
+    {
+      "id": "mkt:01a0816c-af71-7118-84ee-132f395f8ebf",
+      "time": "2026-09-08 22:29:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BofA upgrades Brazil equities rating, citing room for rate cuts."
+    },
+    {
+      "id": "5083372",
+      "time": "2026-09-08 22:29:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：美國國家運輸安全委員會已抵達邁阿密機場開展調查。"
+    },
+    {
+      "id": "mkt:01a0816b-b7ab-7118-84ee-0d013271cb78",
+      "time": "2026-09-08 22:28:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian presidential aide USHAKOV said Putin told Trump the \"Russian threat\" narrative is a pretext for the EU to boost support for Ukraine and raise defence spending."
+    },
+    {
+      "id": "mkt:01a0816b-37a5-7118-84ee-055da63fd467",
+      "time": "2026-09-08 22:28:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister says Israel has no hostility toward the British people."
+    },
+    {
+      "id": "mkt:01a0816a-fc14-7118-84ed-fe40f7505776",
+      "time": "2026-09-08 22:27:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israel's foreign minister said Israel will take action against other countries that act against its interests."
+    },
+    {
+      "id": "5083371",
+      "time": "2026-09-08 22:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部長： 以色列將對與其作對的其他國家採取行動。"
+    },
+    {
+      "id": "mkt:01a0816a-2f00-7118-84ed-f0fa316f50a6",
+      "time": "2026-09-08 22:26:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields resumed rising; 2-year yield climbed to an intraday high of 4.39%."
+    },
+    {
+      "id": "5083370",
+      "time": "2026-09-08 22:26:13",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【彭清華出席朝鮮駐華使館國慶78週年招待會】全國人大常委會副委員長彭清華8日出席朝鮮駐華使館舉行的國慶78週年招待會。在熱情友好的氛圍中，彭清華同朝鮮駐華大使李龍男分別致辭，一致表示將貫徹落實兩黨兩國最高領導人共識，推動中朝關係高水平發展。(新華社)"
+    },
+    {
+      "id": "mkt:01a08169-7a8a-7118-84ed-ebced8bfa821",
+      "time": "2026-09-08 22:26:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister said Israel will withdraw British staff from a Gaza aid center."
+    },
+    {
+      "id": "5083369",
+      "time": "2026-09-08 22:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部長：以色列將關閉位於東耶路撒冷的英國領事館。"
+    },
     {
       "id": "mkt:01a08169-4455-7118-84ed-e164884a73ec",
       "time": "2026-09-08 22:25:54",
