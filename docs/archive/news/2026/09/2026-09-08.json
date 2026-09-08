@@ -1,7 +1,182 @@
 {
   "date": "2026-09-08",
-  "count": 1061,
+  "count": 1079,
   "items": [
+    {
+      "id": "5082153",
+      "time": "2026-09-08 14:06:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國工作與養老金大臣麥克法登：外交大臣將於今日晚些時候就被佔領約旦河西岸以色列定居點相關措施發表宣告。"
+    },
+    {
+      "id": "5082152",
+      "time": "2026-09-08 14:06:24",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：9月車市有望延續環比修復態勢】乘聯分會發文稱，隨著“反內卷”工作的持續深入，9月車市有望延續環比修復態勢，在高基數效應消退後，同比降幅將明顯收窄。從乘用車消費特徵來看，當前市場呈現以下核心特徵：一是高油價繼續抑制燃油車的需求，“油電替代”加速，新能源滲透率在65%以上高位執行，消費者購車決策中用車成本的權重持續上升；二是換購需求擠壓首購需求，B級及以上高階車型需求旺盛，但A級和A00級經濟型電動車受複雜因素影響持續萎縮；三是以智駕驅動的新消費需求正在形成，消費者對AI智駕功能的關注度快速提升，技術體驗正成為繼續航和補能之後的第三大購車決策因素；四是A級車市場的純電動化趨勢明顯，高油價下單車快充技術的提升將有效拉動A級電動車的銷量。"
+    },
+    {
+      "id": "mkt:01a07f9f-cf84-7118-84de-a1f5e6d85504",
+      "time": "2026-09-08 14:06:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia struck critical infrastructure in the Kyiv region."
+    },
+    {
+      "id": "5082151",
+      "time": "2026-09-08 14:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯襲擊了烏克蘭基輔地區的關鍵基礎設施。"
+    },
+    {
+      "id": "mkt:01a07f9f-a822-7118-84de-9d8ba295a130",
+      "time": "2026-09-08 14:06:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish",
+        "TSM.N"
+      ],
+      "text": "ASML (ASML.O): TSMC (TSM.N) plans to deploy ASML's High-NA lithography in mass production at advanced nodes starting in 2030."
+    },
+    {
+      "id": "5082150",
+      "time": "2026-09-08 14:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥：臺積電計劃從2030年起將阿斯麥的高數值孔徑技術應用於先進製程節點的大規模量產。"
+    },
+    {
+      "id": "te:economy:581873",
+      "time": "2026-09-08 14:05:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Moves Near 2011 Highs — Australia’s 10-year government bond yield traded around 5.2%, near its highest level since mid-2011 as markets increasingly priced in further tightening by the Reserve Bank amid persistent inflation pressures. RBA Assistant Governor Sarah Hunter said policymakers have limited tolerance for inflation remaining elevated and could raise rates for a fourth time this year if price pressures prove stronger than expected. Markets now see a 68% chance of a 25-basis-point hike to 4.60% at the September 29 meeting, up from below 10% a month ago, while the odds of rates reaching 4.85% next year have climbed to 60%. The hawkish repricing widened the 10-year yield’s premium over US Treasuries to 43 basis points, the most in three months. Still, fresh surveys pointed to growing pressure on the economy from higher borrowing costs, fuel prices and the weakening housing market. NAB’s business conditions index fell to a six-year low in August, while consumer sentiment weakened sharply in September."
+    },
+    {
+      "id": "mkt:01a07f9f-03dc-7118-84de-91974a29f2ac",
+      "time": "2026-09-08 14:05:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) said transition to larger 12-inch photomasks is expected to further improve wafer-fab production efficiency, lower chip manufacturing costs and remove stitching constraints."
+    },
+    {
+      "id": "5082149",
+      "time": "2026-09-08 14:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASML：向更大尺寸的12英寸掩模版過渡，預計將進一步提升晶圓廠生產效率、降低晶片製造成本，並消除拼接限制。"
+    },
+    {
+      "id": "5082148",
+      "time": "2026-09-08 14:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合指數回吐最高2.5%的漲幅，目前持平。"
+    },
+    {
+      "id": "mkt:01a07f9e-9e1b-7118-84de-8cf6bc7eb5a2",
+      "time": "2026-09-08 14:04:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O"
+      ],
+      "text": "TSMC said it aims to complete a 12-inch mask pilot production line by 2031."
+    },
+    {
+      "id": "5082147",
+      "time": "2026-09-08 14:04:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比全球市場媒體辦公室：上半年阿布扎比全球市場有效牌照數量攀升至近1.4萬張。"
+    },
+    {
+      "id": "mkt:01a07f9e-4e53-7118-84de-80bde4c6a4c9",
+      "time": "2026-09-08 14:04:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish",
+        "TSM.N"
+      ],
+      "text": "ASML (ASML.O) and TSMC (TSM.N) launched an initiative to lead the industry transition to large-format photomasks for High-NA EUV."
+    },
+    {
+      "id": "5082146",
+      "time": "2026-09-08 14:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥控股公司：臺積電與阿斯麥宣佈啟動合作倡議，率先推動行業向高數值孔徑極紫外光刻所用的大尺寸光掩模過渡。"
+    },
+    {
+      "id": "mkt:01a07f9d-b1c4-7118-84de-7bd6b5c6f84f",
+      "time": "2026-09-08 14:03:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish",
+        "INTC.O"
+      ],
+      "text": "Intel's foundry unit is partnering with ASML to accelerate industrialization of High-NA EUV (high numerical aperture extreme ultraviolet) lithography."
+    },
+    {
+      "id": "5082145",
+      "time": "2026-09-08 14:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾代工服務與ASML達成合作，加速高數值孔徑極紫外光刻技術實現產業落地。"
+    },
+    {
+      "id": "5082144",
+      "time": "2026-09-08 14:03:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經225指數跌幅擴大至1% 韓國綜指轉跌】日經225指數跌幅擴大至1%，現報65732.07點。韓國綜指轉跌，此前一度漲近2.5%。"
+    },
+    {
+      "id": "5082143",
+      "time": "2026-09-08 14:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：目標是在2031年前建成12英寸掩模中試生產線。"
+    },
     {
       "id": "mkt:01a07f9c-876e-7118-84de-70cbff94cc7b",
       "time": "2026-09-08 14:02:39",
