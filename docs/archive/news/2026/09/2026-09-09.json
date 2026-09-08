@@ -1,7 +1,19 @@
 {
   "date": "2026-09-09",
-  "count": 301,
+  "count": 302,
   "items": [
+    {
+      "id": "te:markets:582149",
+      "time": "2026-09-09 04:44:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises With Broad Gains — The Ibovespa rose 1.2% to close at 187,367 points on Tuesday following Monday’s holiday, posting broad-based gains. Petrobras rose 2.1% as oil prices surged following attacks on energy infrastructure in Saudi Arabia amid renewed hostilities in the Middle East. Banks also performed well, Bradesco rose 1.8% and Itaú advanced 1.2%, as the Focus survey released Tuesday continued to project lower inflation, raising the prospect of further interest-rate cuts. Meanwhile, a BTG/Nexus poll pointed to a technical tie between Flávio Bolsonaro and President Lula in a potential presidential runoff, although Flávio moved into a numerical lead of one percentage point. On Monday, a Quaest poll also showed the two tied at 41% in a second-round scenario. Flávio Bolsonaro is viewed by markets as more fiscally restrictive amid elevated yields and weak business activity. Sabesp gained 1.1% after brokerages raised their price targets following a meeting with the company’s management."
+    },
     {
       "id": "mkt:01a082c0-7929-7118-84f4-9f5b96406a2d",
       "time": "2026-09-09 04:40:46",

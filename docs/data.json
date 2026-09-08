@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-09 04:42:17",
-  "count": 13897,
+  "updated": "2026-09-09 04:46:20",
+  "count": 13891,
   "items": [
+    {
+      "id": "te:markets:582149",
+      "time": "2026-09-09 04:44:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises With Broad Gains — The Ibovespa rose 1.2% to close at 187,367 points on Tuesday following Monday’s holiday, posting broad-based gains. Petrobras rose 2.1% as oil prices surged following attacks on energy infrastructure in Saudi Arabia amid renewed hostilities in the Middle East. Banks also performed well, Bradesco rose 1.8% and Itaú advanced 1.2%, as the Focus survey released Tuesday continued to project lower inflation, raising the prospect of further interest-rate cuts. Meanwhile, a BTG/Nexus poll pointed to a technical tie between Flávio Bolsonaro and President Lula in a potential presidential runoff, although Flávio moved into a numerical lead of one percentage point. On Monday, a Quaest poll also showed the two tied at 41% in a second-round scenario. Flávio Bolsonaro is viewed by markets as more fiscally restrictive amid elevated yields and weak business activity. Sabesp gained 1.1% after brokerages raised their price targets following a meeting with the company’s management."
+    },
     {
       "id": "mkt:01a082c0-7929-7118-84f4-9f5b96406a2d",
       "time": "2026-09-09 04:40:46",
@@ -126872,76 +126884,6 @@
         "DXY"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it fired ballistic missiles at a US base in Jordan."
-    },
-    {
-      "id": "5071685",
-      "time": "2026-09-02 04:45:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發表宣告稱，已使用彈道導彈打擊了位於約旦境內的美軍基地。"
-    },
-    {
-      "id": "5071684",
-      "time": "2026-09-02 04:45:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們已做好談判準備，不希望衝突陷入凍結狀態。"
-    },
-    {
-      "id": "5071683",
-      "time": "2026-09-02 04:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗一婚禮因美軍襲擊4死50傷】據伊朗國家電視臺報道，當地時間9月1日晚，伊朗南部霍爾木茲甘省錫裡克地區遭美軍襲擊，一場婚禮上至少4人死亡，其中包括一名4歲兒童，此外還有大約50人受傷，包括35人重傷。美方對此暫無回應。（CCTV國際時訊）"
-    },
-    {
-      "id": "5071682",
-      "time": "2026-09-02 04:43:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI伺服器銷量激增帶動戴爾業績預期上調，盤後股價走高】受人工智慧算力伺服器需求暴漲推動，戴爾科技大幅上調全年營收預期，上調幅度達250億美元，盤後股價大幅拉昇。截至2027年1月的財年總營收預計約1920億美元，其中AI伺服器業務營收740億美元。該公司5月給出的預期為1670億美元，分析師平均預期為1738億美元。AI伺服器營收預期較上一年度增長兩倍。該財年調整後每股收益預期25.50美元，分析師平均預期為19.10美元。戴爾收盤報425美元，盤後漲超10%。"
-    },
-    {
-      "id": "te:markets:580180",
-      "time": "2026-09-02 04:43:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Extends Winning Streak to Ten Sessions — The Ibovespa rose 1.3% to close at 179,722 on Tuesday, extending its winning streak to ten sessions amid renewed expectations for continued Selic easing. Brazil’s GDP grew more than expected in 2Q26, driven mainly by agriculture, while the detailed breakdown was weaker, signaling that economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that interest rates have already done much of the work, leaving room for further Selic cuts. Major banks advanced, with Banco do Brasil up 2.3%, Bradesco 1.2% and Itaú 0.9%. B3 gained 2.5% despite lower broker estimates, as its buy recommendation was maintained. Petrobras jumped 4.1%, tracking higher oil prices and benefiting from another monthly production record in July. Casas Bahia surged 36.4%, bringing its two-session gain to 125% after confirming the anticipation of effects from its judicial reorganization filing."
-    },
-    {
-      "id": "mkt:01a05eb6-40ef-7118-8445-70efd2dffce2",
-      "time": "2026-09-02 04:43:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Putin said he does not want the conflict to stalemate and is prepared to enter negotiations."
-    },
-    {
-      "id": "mkt:01a05eb5-c636-7118-8445-6c3294ee92e4",
-      "time": "2026-09-02 04:42:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Putin said reports of a new Russian mobilization are unfounded."
     }
   ]
 }
