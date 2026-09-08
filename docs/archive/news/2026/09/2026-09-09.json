@@ -1,7 +1,15 @@
 {
   "date": "2026-09-09",
-  "count": 312,
+  "count": 313,
   "items": [
+    {
+      "id": "mkt:01a082cd-01d2-7118-84f4-ae78453989c2",
+      "time": "2026-09-09 04:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【80th UN General Assembly closes; Bangladesh foreign minister sworn in as next UNGA president】The 80th UN General Assembly held its closing session on the 8th. Outgoing president Annalena Baerbock spoke; Bangladesh foreign minister Khalil Rahman was sworn in as the next UNGA president and received the gavel from Baerbock."
+    },
     {
       "id": "5083678",
       "time": "2026-09-09 04:53:35",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-09 04:54:13",
-  "count": 13878,
+  "updated": "2026-09-09 04:58:10",
+  "count": 13875,
   "items": [
+    {
+      "id": "mkt:01a082cd-01d2-7118-84f4-ae78453989c2",
+      "time": "2026-09-09 04:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【80th UN General Assembly closes; Bangladesh foreign minister sworn in as next UNGA president】The 80th UN General Assembly held its closing session on the 8th. Outgoing president Annalena Baerbock spoke; Bangladesh foreign minister Khalil Rahman was sworn in as the next UNGA president and received the gavel from Baerbock."
+    },
     {
       "id": "5083678",
       "time": "2026-09-09 04:53:35",
@@ -126692,41 +126700,6 @@
         "XAUUSD"
       ],
       "text": "【Iran says it struck US Marine camp on Jordan's Gulf of Aqaba with heavy ballistic missiles】Iran's Islamic Revolutionary Guard Corps said early today it fired heavy ballistic missiles at a US Marine Corps camp on Jordan's Gulf of Aqaba coast, claiming it destroyed several key facilities and attack helicopters and caused numerous US casualties. The IRGC said the retaliation was continuing."
-    },
-    {
-      "id": "5071693",
-      "time": "2026-09-02 04:57:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京談及日本：我們究竟對日本做過什麼？我們什麼都沒做。俄日關係惡化百分之百是日本政府的過錯。"
-    },
-    {
-      "id": "5071692",
-      "time": "2026-09-02 04:56:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "戴爾營運長：公司全年運營費用率約為營收的8%，為該公司42年歷史上最低水平。"
-    },
-    {
-      "id": "5071691",
-      "time": "2026-09-02 04:54:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "戴爾首席財務官：在客戶解決方案集團業務中，將繼續平衡客戶需求與供應可得性，以實現盈利性份額增長。"
-    },
-    {
-      "id": "mkt:01a05ec0-4675-7118-8446-0924e742cb51",
-      "time": "2026-09-02 04:54:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API Cushing crude stocks +150k bbl in week to Aug 28; prior +995k bbl."
     }
   ]
 }
