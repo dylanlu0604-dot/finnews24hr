@@ -1,7 +1,118 @@
 {
   "date": "2026-09-08",
-  "count": 2204,
+  "count": 2216,
   "items": [
+    {
+      "id": "mkt:01a08169-4455-7118-84ed-e164884a73ec",
+      "time": "2026-09-08 22:25:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli foreign minister says Israel will close the UK consulate in East Jerusalem."
+    },
+    {
+      "id": "mkt:01a08168-c523-7118-84ed-dde935605506",
+      "time": "2026-09-08 22:25:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it will release within minutes important news on the capture of naval personnel in the Strait of Hormuz."
+    },
+    {
+      "id": "5083368",
+      "time": "2026-09-08 22:25:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率恢復上漲，觸及2年高點4.39%。"
+    },
+    {
+      "id": "mkt:01a08168-6f80-7118-84ed-d3229b8a6385",
+      "time": "2026-09-08 22:25:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England governor BAILEY said rising youth unemployment is concerning."
+    },
+    {
+      "id": "mkt:01a08168-6338-7118-84ed-cd69be1c9763",
+      "time": "2026-09-08 22:24:56",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Bank of England Governor Bailey said he sees some signs of a productivity rebound, but they are not necessarily concentrated in AI-related industries."
+    },
+    {
+      "id": "mkt:01a08167-dfda-7118-84ed-c1b0df552411",
+      "time": "2026-09-08 22:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Palestinian presidential office said on the 8th it welcomed the United Kingdom's announcement of sanctions targeting Israeli settlements in the West Bank."
+    },
+    {
+      "id": "5083367",
+      "time": "2026-09-08 22:24:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【普京與特朗普通話 討論烏克蘭危機等問題】俄羅斯總統普京與美國總統特朗普當天通電話，通話持續一小時，雙方討論了烏克蘭危機等問題。（新華社）"
+    },
+    {
+      "id": "mkt:01a08167-9216-7118-84ed-bee8570e24d1",
+      "time": "2026-09-08 22:24:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister said UK sanctions will also inflict economic damage on Palestinians."
+    },
+    {
+      "id": "mkt:01a08166-f222-7118-84ed-b26ca361af5b",
+      "time": "2026-09-08 22:23:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said the labor market is cooling and hiring rates are falling."
+    },
+    {
+      "id": "5083365",
+      "time": "2026-09-08 22:23:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦對英國制裁約旦河西岸以色列定居點表示歡迎】巴勒斯坦總統府8日發表宣告，對英國宣佈對約旦河西岸以色列定居點採取的制裁措施表示歡迎。宣告稱，禁止定居點產品進口以及英國政府宣佈的其他相關措施是“朝著正確方向邁出的一步”，完全符合國際法和國際合法性決議。此舉向外界發出了明確訊號，即國際社會不會容忍以色列繼續擴大定居點、強佔土地以及驅逐巴勒斯坦平民的行為。宣告表示，此舉重申了以色列在巴勒斯坦領土上建立定居點的非法性，並強調了對定居點罪行和定居者暴力的責任人追責的必要性。巴方認為，這是對抗以色列定居點體系及其侵犯巴勒斯坦人民權利的重要一步。（央視新聞）"
+    },
+    {
+      "id": "5083364",
+      "time": "2026-09-08 22:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方天然氣公司旗下 Nicor Gas 就 2026 年費率案達成和解，基礎費率年營收將增加 8200 萬美元。"
+    },
+    {
+      "id": "5083363",
+      "time": "2026-09-08 22:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國蓋特威克機場、曼徹斯特機場和斯坦斯特德機場均受空中交通管制技術故障影響。"
+    },
     {
       "id": "mkt:01a08165-426b-7118-84ed-a944f583227b",
       "time": "2026-09-08 22:21:31",
