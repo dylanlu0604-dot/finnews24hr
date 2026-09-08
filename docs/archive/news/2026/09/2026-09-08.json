@@ -1,7 +1,170 @@
 {
   "date": "2026-09-08",
-  "count": 511,
+  "count": 528,
   "items": [
+    {
+      "id": "mkt:01a07ea4-5a79-7118-84d6-eeca06b99c51",
+      "time": "2026-09-08 09:31:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic has reportedly abandoned its $6 billion bid to acquire Decart."
+    },
+    {
+      "id": "5081763",
+      "time": "2026-09-08 09:31:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊短線拉昇，中京電子漲停】印製電路板板塊短線拉昇，中京電子漲停，本川智慧、迅捷興、滿坤科技、逸豪新材、一博科技等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a07ea3-bfdf-7118-84d6-e7337b4c7515",
+      "time": "2026-09-08 09:30:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.09% higher. Hejin Convertible Bond, Haomei Convertible Bond, Zyi Convertible Bond 2, Jushen Convertible Bond and Jincheng Convertible Bond led gains, up 5.50%, 2.86%, 1.81%, 1.72% and 1.62% respectively. Wanxun Convertible Bond, Tianmai Convertible Bond, Daotong Convertible Bond, Outong Convertible Bond and Dazhong Convertible Bond led losses, down 2.40%, 1.34%, 1.29%, 1.20% and 0.99% respectively."
+    },
+    {
+      "id": "mkt:01a07ea3-b8d8-7118-84d6-db4a83a372da",
+      "time": "2026-09-08 09:30:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan plans to issue ¥2.5 trillion of 5-year government bonds with a 2.2% coupon."
+    },
+    {
+      "id": "mkt:01a07ea3-760b-7118-84d6-d4bbcb06c2bd",
+      "time": "2026-09-08 09:30:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's Ministry of Finance will auction 700 billion yen of 20-year government bonds on Sept. 15."
+    },
+    {
+      "id": "5081762",
+      "time": "2026-09-08 09:30:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.09%。合金轉債、豪美轉債、Z逸轉2、炬申轉債、金誠轉債漲幅居前，分別漲5.50%、2.86%、1.81%、1.72%、1.62%。萬訊轉債、天脈轉債、道通轉債、歐通轉債、大中轉債跌幅居前，分別跌2.40%、1.34%、1.29%、1.20%、0.99%。"
+    },
+    {
+      "id": "mkt:01a07ea3-1e8b-7118-84d6-c88daf361344",
+      "time": "2026-09-08 09:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share planting and forestry sector opened sharply higher in the opening auction; Zhongbai Group recorded a second consecutive daily limit-up. COFCO Sugar and Dunhuang Seed opened up more than 9%; Hainan Rubber, Wanxiang Denong, Pingtan Development and Xinsai Co. also advanced."
+    },
+    {
+      "id": "5081761",
+      "time": "2026-09-08 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞8月NAB商業信心指數 -8，前值-6。澳大利亞8月NAB商業景氣指數 -1，前值4。"
+    },
+    {
+      "id": "mkt:01a07ea3-090f-7118-84d6-c12b0ce02a4b",
+      "time": "2026-09-08 09:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia August NAB business conditions index -1, previous 4."
+    },
+    {
+      "id": "mkt:01a07ea3-013e-7118-84d6-b9ce3715e702",
+      "time": "2026-09-08 09:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia August NAB business confidence index -8, prior -6."
+    },
+    {
+      "id": "5081760",
+      "time": "2026-09-08 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5081759",
+      "time": "2026-09-08 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.21%， 滬深300指數期貨連續跌0.07%， 中證500指數期貨連續漲0.12%， 上證50指數期貨連續漲0.10%。"
+    },
+    {
+      "id": "mkt:01a07ea2-e744-7118-84d6-b528c3c2ad0f",
+      "time": "2026-09-08 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Aug) | actual -1 | previous 4"
+    },
+    {
+      "id": "mkt:01a07ea2-e740-7118-84d6-ac111b43b2cd",
+      "time": "2026-09-08 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Aug) | actual -8 | previous -6"
+    },
+    {
+      "id": "mkt:01a07ea2-cf88-7118-84d6-a091e580a69d",
+      "time": "2026-09-08 09:29:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DBS: Miniso core profit may be hit by slower overseas growth and margin dilution from direct stores】DBS Group Research says Miniso’s 2026-27 core profit could be pressured by slower-than-expected overseas sales growth and larger-than-expected margin dilution as the company shifts to directly operated stores. Miniso’s latest guidance is more cautious and reflects a European restructuring that will close about 100-110 underperforming distributor-run stores. Analysts cut 2026-27 core profit forecasts by 23-32%; profitability may remain weighed down by the overseas direct-store transition and rising selling expenses. DBS lowers its ADR target from $20 to $12 but maintains a buy rating, noting market concern over margins may already be reflected in the share price."
+    },
+    {
+      "id": "mkt:01a07ea1-7024-7118-84d6-9b494ca9fe62",
+      "time": "2026-09-08 09:28:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share sugar-substitute concept stocks surged in the opening auction. Hongmian and Yasheng Group opened at the daily limit; Sanyuan Bio, Huazi Industrial and Baolingbao opened more than 6% higher; Huakang and Bailong Chuangyuan also advanced."
+    },
+    {
+      "id": "5081756",
+      "time": "2026-09-08 09:28:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農產品加工板塊高開，播恩集團3連板】農產品加工板塊高開，播恩集團3連板，中糧糖業、道道全、華資實業、保齡寶、金健米業跟漲。"
+    },
     {
       "id": "mkt:01a07ea0-8503-7118-84d6-9276c963a7ee",
       "time": "2026-09-08 09:27:24",
