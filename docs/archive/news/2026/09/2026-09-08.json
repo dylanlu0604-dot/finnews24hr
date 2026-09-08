@@ -1,7 +1,76 @@
 {
   "date": "2026-09-08",
-  "count": 2272,
+  "count": 2281,
   "items": [
+    {
+      "id": "5083408",
+      "time": "2026-09-08 22:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本愛知縣遭受破紀錄暴雨】9月8日，日本愛知縣遭受破紀錄暴雨。據愛知縣政府當天釋出的訊息，截至目前，縣內各地方政府共報告了4名傷者，均為輕傷。（央視新聞）"
+    },
+    {
+      "id": "5083407",
+      "time": "2026-09-08 22:53:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：加拿大貿易戰將使美國通脹上升 0.02 個百分點。"
+    },
+    {
+      "id": "mkt:01a08181-5ccc-7118-84ee-93bfc29b521a",
+      "time": "2026-09-08 22:52:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said he expects the trade dispute with Canada can be overcome, and said Carney should \"stop campaign mode\"."
+    },
+    {
+      "id": "5083406",
+      "time": "2026-09-08 22:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：認為加拿大貿易爭端將會得到解決。"
+    },
+    {
+      "id": "mkt:01a08180-f1d1-7118-84ee-8af197fabe57",
+      "time": "2026-09-08 22:51:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. has not yet confirmed a statement by the IRGC Navy."
+    },
+    {
+      "id": "mkt:01a08180-3541-7118-84ee-81a0f286b059",
+      "time": "2026-09-08 22:50:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy says it has captured a US unmanned submarine near the entrance to the Strait of Hormuz; the IRGC says the vessel remains under its control and will release images later."
+    },
+    {
+      "id": "5083405",
+      "time": "2026-09-08 22:50:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特談及加拿大相關舉措：卡尼應當 “停止競選造勢”。"
+    },
+    {
+      "id": "5083404",
+      "time": "2026-09-08 22:50:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恒大汽車：董事會會議改期至2026年9月16日】恒大汽車(00708.HK)在港公告，董事會宣佈，批准本集團截至2024年及2025年12月31日止年度的年度業績以及本集團截至2025年6月30日止六個月的中期業績的董事會會議已改期至2026年9月16日（星期三）。公司股票將繼續暫停買賣。"
+    },
     {
       "id": "mkt:01a0817f-9580-7118-84ee-7860c604d5c1",
       "time": "2026-09-08 22:50:17",
@@ -78,6 +147,15 @@
         "Energy"
       ],
       "text": "U.S. natural gas futures fell more than 3.00% intraday to $2.885/MMBtu."
+    },
+    {
+      "id": "em:qqyh_ozlc:202609083868373593",
+      "time": "2026-09-08 22:46:19",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【高盛將澳大利亞央行加息時間預期從11月提前至9月】高盛經濟學家表示，在澳大利亞央行副行長AndrewHauser和首席經濟學家SarahHunter發表被認為“略微偏鷹”的講話後，他們已將澳大利亞央行加息時間預測從11月提前至9月。在週二講話之前，高盛認為9月加息的機率為45%，但當時該行仍更傾向於央行11月行動高盛表示，最新一輪偏鷹派表態，加上該行大宗商品團隊上調油價預測，9月成為最可能的加息時點。高盛稱：“我們預計澳大利亞央行委員會將採取先發制人的緊縮措施，以避免落後於形勢。11月進一步加息也存在實質性風險。”"
     },
     {
       "id": "5083397",
