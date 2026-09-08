@@ -1,7 +1,259 @@
 {
   "date": "2026-09-08",
-  "count": 1036,
+  "count": 1061,
   "items": [
+    {
+      "id": "mkt:01a07f9c-876e-7118-84de-70cbff94cc7b",
+      "time": "2026-09-08 14:02:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China A-share oil and gas exploration and services sector extended gains, led by Zhongman Petroleum which rose more than 8%; Sinopec Oilfield Service, Xinchao Energy, Tongyuan Petroleum and Keli Co. also advanced."
+    },
+    {
+      "id": "mkt:01a07f9c-7519-7118-84de-6e78233ecb6c",
+      "time": "2026-09-08 14:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【26th China International Fair for Investment and Trade opens in Xiamen; CIPS zone debuts】China’s 26th International Fair for Investment and Trade opened in Xiamen. The financial exhibition doubled in floor area and exhibitor count. A dedicated CIPS (Renminbi cross‑border payment system) zone was introduced for the first time. A new zone for advanced productive forces was added, highlighting AI and the low‑altitude economy. The fair will hold more than 40 priority investment promotion events and nearly 100 supporting activities, including capital matchmaking and targeted roadshows. A cloud-based online platform aggregates investment projects, corporate financing and industrial capital, using digital intelligence to streamline project and capital matching."
+    },
+    {
+      "id": "te:markets:581869",
+      "time": "2026-09-08 14:02:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Firms on Dollar Weakness, Reserve Boost — The Indonesian rupiah strengthened below IDR 17,650 per U.S. dollar on Tuesday, reversing prior losses as broad dollar weakness supported the currency, while yen gains on expectations of more aggressive BoJ tightening and continued carry-trade unwinding reinforced the broader FX move. Domestically, sentiment was buoyed after Finance Minister Purbaya Yudhi Sadewa voiced confidence that GDP growth would remain solid in Q3 and Q4 despite recent natural disasters, stressing that the state budget faced no significant risks. Stronger external buffers also lent support, with August forex reserves hitting a five-month high. However, upside was capped by inflation concerns, as local media reported Bank Indonesia and the government stepped up joint market interventions to rein in volatile food prices, amid annual inflation of 3.19% in August. Investors also stayed cautious ahead of August consumer confidence data due Wednesday, followed by retail sales later in the week."
+    },
+    {
+      "id": "5082142",
+      "time": "2026-09-08 14:02:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5920.00元。"
+    },
+    {
+      "id": "5082141",
+      "time": "2026-09-08 14:02:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數(TOPIX)下跌1.23%，報4,075.14點。"
+    },
+    {
+      "id": "5082140",
+      "time": "2026-09-08 14:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3951.00元。"
+    },
+    {
+      "id": "5082139",
+      "time": "2026-09-08 14:02:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合指數（KOSPI）轉跌，抹去了早盤2.5%的漲幅。"
+    },
+    {
+      "id": "mkt:01a07f9b-de16-7118-84de-678ee300e868",
+      "time": "2026-09-08 14:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi military spokesman said the group will announce plans to carry out large-scale military operations deep inside Saudi territory."
+    },
+    {
+      "id": "5082138",
+      "time": "2026-09-08 14:01:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.2%，德國DAX指數期貨下跌0.2%，富時指數期貨下跌0.24%。"
+    },
+    {
+      "id": "5082137",
+      "time": "2026-09-08 14:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲4%，現報4985.00元。"
+    },
+    {
+      "id": "mkt:01a07f9b-74c3-7118-84de-5e8efa473e57",
+      "time": "2026-09-08 14:01:29",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Economists are divided on whether the ECB needs a period of policy restraint. Economists expect the central bank to raise its key policy rate for a second time since the outbreak of the war, taking the rate to the upper bound of the neutral range."
+    },
+    {
+      "id": "5082136",
+      "time": "2026-09-08 14:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油氣開採及服務板塊持續走高，中曼石油漲超8%】油氣開採及服務板塊持續走高，中曼石油漲超8%，石化油服、新潮能源、通源石油、科力股份跟漲。"
+    },
+    {
+      "id": "5082135",
+      "time": "2026-09-08 14:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲4%，現報6160.00元。"
+    },
+    {
+      "id": "mkt:01a07f9a-7a06-7118-84de-50dff5583a5f",
+      "time": "2026-09-08 14:00:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba launches QoderWake 1.0】Alibaba has launched QoderWake 1.0, a digital-employee product. Users supply a one-sentence job description and QoderWake generates a role document; after user edits, configures and confirms the document, the system instantiates a digital employee that understands job responsibilities, collaboration relationships and work permissions. The product currently includes 10 built-in roles, including frontend and backend engineers, product manager, content operations, data analyst, project administrator and UI designer."
+    },
+    {
+      "id": "5082134",
+      "time": "2026-09-08 14:00:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月季調後進口月率 -5.7%，預期-0.9%，前值4.40%。德國7月季調後出口月率 -0.8%，預期0.1%，前值0.90%。"
+    },
+    {
+      "id": "mkt:01a07f9a-5ddb-7118-84de-4c94d5117fba",
+      "time": "2026-09-08 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July seasonally adjusted imports fell 5.7% MoM, vs -0.9% expected; June +4.4%."
+    },
+    {
+      "id": "mkt:01a07f9a-5045-7118-84de-4105a8b5710b",
+      "time": "2026-09-08 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany July seasonally adjusted trade surplus €21.3bn, vs. consensus €15.9bn; June revised down to €15.3bn from €15.4bn."
+    },
+    {
+      "id": "mkt:01a07f9a-4f67-7118-84de-3fa44e46f873",
+      "time": "2026-09-08 14:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July seasonally adjusted exports MoM -0.8% (exp +0.1%; prior +0.9%)."
+    },
+    {
+      "id": "5082133",
+      "time": "2026-09-08 14:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國7月季調後貿易帳 213億歐元，預期159億歐元，前值由154億歐元修正為153億歐元。"
+    },
+    {
+      "id": "mkt:01a07f9a-2d80-7118-84de-355b6fa23430",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Imports SA (MoM) (Jul) | actual -5.7% | consensus -0.9% | previous 4.40%"
+    },
+    {
+      "id": "mkt:01a07f9a-2d7d-7118-84de-2d94b5875a79",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Exports SA (MoM) (Jul) | actual -0.8% | consensus 0.1% | previous 0.90%"
+    },
+    {
+      "id": "mkt:01a07f9a-2d7a-7118-84de-27cfd148aee7",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Trade Balance SA (Jul) | actual 21300000000B | consensus 15900000000B | previous 15400000000B"
+    },
+    {
+      "id": "5082132",
+      "time": "2026-09-08 13:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人稱，該組織將宣佈深入沙烏地阿拉伯領土開展大規模軍事行動。"
+    },
+    {
+      "id": "mkt:01a07f99-e31a-7118-84de-1ae8f423f36e",
+      "time": "2026-09-08 13:59:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Saudi Arabia government data show real GDP contracted 4.7% YoY in Q2."
+    },
+    {
+      "id": "5082131",
+      "time": "2026-09-08 13:59:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米18 Fold首銷較上代大摺疊同比增長310%】9月8日，小米集團副總裁、小米集團CMO許斐發文表示，小米18 Fold萬元檔旗艦首銷較上代大摺疊同比增長310%。"
+    },
     {
       "id": "5082130",
       "time": "2026-09-08 13:58:54",

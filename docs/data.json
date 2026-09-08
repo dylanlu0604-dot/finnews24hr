@@ -1,7 +1,259 @@
 {
-  "updated": "2026-09-08 13:59:48",
-  "count": 14098,
+  "updated": "2026-09-08 14:03:38",
+  "count": 14100,
   "items": [
+    {
+      "id": "mkt:01a07f9c-876e-7118-84de-70cbff94cc7b",
+      "time": "2026-09-08 14:02:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China A-share oil and gas exploration and services sector extended gains, led by Zhongman Petroleum which rose more than 8%; Sinopec Oilfield Service, Xinchao Energy, Tongyuan Petroleum and Keli Co. also advanced."
+    },
+    {
+      "id": "mkt:01a07f9c-7519-7118-84de-6e78233ecb6c",
+      "time": "2026-09-08 14:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【26th China International Fair for Investment and Trade opens in Xiamen; CIPS zone debuts】China’s 26th International Fair for Investment and Trade opened in Xiamen. The financial exhibition doubled in floor area and exhibitor count. A dedicated CIPS (Renminbi cross‑border payment system) zone was introduced for the first time. A new zone for advanced productive forces was added, highlighting AI and the low‑altitude economy. The fair will hold more than 40 priority investment promotion events and nearly 100 supporting activities, including capital matchmaking and targeted roadshows. A cloud-based online platform aggregates investment projects, corporate financing and industrial capital, using digital intelligence to streamline project and capital matching."
+    },
+    {
+      "id": "te:markets:581869",
+      "time": "2026-09-08 14:02:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Firms on Dollar Weakness, Reserve Boost — The Indonesian rupiah strengthened below IDR 17,650 per U.S. dollar on Tuesday, reversing prior losses as broad dollar weakness supported the currency, while yen gains on expectations of more aggressive BoJ tightening and continued carry-trade unwinding reinforced the broader FX move. Domestically, sentiment was buoyed after Finance Minister Purbaya Yudhi Sadewa voiced confidence that GDP growth would remain solid in Q3 and Q4 despite recent natural disasters, stressing that the state budget faced no significant risks. Stronger external buffers also lent support, with August forex reserves hitting a five-month high. However, upside was capped by inflation concerns, as local media reported Bank Indonesia and the government stepped up joint market interventions to rein in volatile food prices, amid annual inflation of 3.19% in August. Investors also stayed cautious ahead of August consumer confidence data due Wednesday, followed by retail sales later in the week."
+    },
+    {
+      "id": "5082142",
+      "time": "2026-09-08 14:02:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5920.00元。"
+    },
+    {
+      "id": "5082141",
+      "time": "2026-09-08 14:02:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數(TOPIX)下跌1.23%，報4,075.14點。"
+    },
+    {
+      "id": "5082140",
+      "time": "2026-09-08 14:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3951.00元。"
+    },
+    {
+      "id": "5082139",
+      "time": "2026-09-08 14:02:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合指數（KOSPI）轉跌，抹去了早盤2.5%的漲幅。"
+    },
+    {
+      "id": "mkt:01a07f9b-de16-7118-84de-678ee300e868",
+      "time": "2026-09-08 14:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi military spokesman said the group will announce plans to carry out large-scale military operations deep inside Saudi territory."
+    },
+    {
+      "id": "5082138",
+      "time": "2026-09-08 14:01:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.2%，德國DAX指數期貨下跌0.2%，富時指數期貨下跌0.24%。"
+    },
+    {
+      "id": "5082137",
+      "time": "2026-09-08 14:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲4%，現報4985.00元。"
+    },
+    {
+      "id": "mkt:01a07f9b-74c3-7118-84de-5e8efa473e57",
+      "time": "2026-09-08 14:01:29",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Economists are divided on whether the ECB needs a period of policy restraint. Economists expect the central bank to raise its key policy rate for a second time since the outbreak of the war, taking the rate to the upper bound of the neutral range."
+    },
+    {
+      "id": "5082136",
+      "time": "2026-09-08 14:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油氣開採及服務板塊持續走高，中曼石油漲超8%】油氣開採及服務板塊持續走高，中曼石油漲超8%，石化油服、新潮能源、通源石油、科力股份跟漲。"
+    },
+    {
+      "id": "5082135",
+      "time": "2026-09-08 14:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲4%，現報6160.00元。"
+    },
+    {
+      "id": "mkt:01a07f9a-7a06-7118-84de-50dff5583a5f",
+      "time": "2026-09-08 14:00:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba launches QoderWake 1.0】Alibaba has launched QoderWake 1.0, a digital-employee product. Users supply a one-sentence job description and QoderWake generates a role document; after user edits, configures and confirms the document, the system instantiates a digital employee that understands job responsibilities, collaboration relationships and work permissions. The product currently includes 10 built-in roles, including frontend and backend engineers, product manager, content operations, data analyst, project administrator and UI designer."
+    },
+    {
+      "id": "5082134",
+      "time": "2026-09-08 14:00:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月季調後進口月率 -5.7%，預期-0.9%，前值4.40%。德國7月季調後出口月率 -0.8%，預期0.1%，前值0.90%。"
+    },
+    {
+      "id": "mkt:01a07f9a-5ddb-7118-84de-4c94d5117fba",
+      "time": "2026-09-08 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July seasonally adjusted imports fell 5.7% MoM, vs -0.9% expected; June +4.4%."
+    },
+    {
+      "id": "mkt:01a07f9a-5045-7118-84de-4105a8b5710b",
+      "time": "2026-09-08 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany July seasonally adjusted trade surplus €21.3bn, vs. consensus €15.9bn; June revised down to €15.3bn from €15.4bn."
+    },
+    {
+      "id": "mkt:01a07f9a-4f67-7118-84de-3fa44e46f873",
+      "time": "2026-09-08 14:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July seasonally adjusted exports MoM -0.8% (exp +0.1%; prior +0.9%)."
+    },
+    {
+      "id": "5082133",
+      "time": "2026-09-08 14:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國7月季調後貿易帳 213億歐元，預期159億歐元，前值由154億歐元修正為153億歐元。"
+    },
+    {
+      "id": "mkt:01a07f9a-2d7a-7118-84de-27cfd148aee7",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Trade Balance SA (Jul) | actual 21300000000B | consensus 15900000000B | previous 15400000000B"
+    },
+    {
+      "id": "mkt:01a07f9a-2d80-7118-84de-355b6fa23430",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Imports SA (MoM) (Jul) | actual -5.7% | consensus -0.9% | previous 4.40%"
+    },
+    {
+      "id": "mkt:01a07f9a-2d7d-7118-84de-2d94b5875a79",
+      "time": "2026-09-08 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Exports SA (MoM) (Jul) | actual -0.8% | consensus 0.1% | previous 0.90%"
+    },
+    {
+      "id": "5082132",
+      "time": "2026-09-08 13:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人稱，該組織將宣佈深入沙烏地阿拉伯領土開展大規模軍事行動。"
+    },
+    {
+      "id": "mkt:01a07f99-e31a-7118-84de-1ae8f423f36e",
+      "time": "2026-09-08 13:59:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Saudi Arabia government data show real GDP contracted 4.7% YoY in Q2."
+    },
+    {
+      "id": "5082131",
+      "time": "2026-09-08 13:59:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米18 Fold首銷較上代大摺疊同比增長310%】9月8日，小米集團副總裁、小米集團CMO許斐發文表示，小米18 Fold萬元檔旗艦首銷較上代大摺疊同比增長310%。"
+    },
     {
       "id": "5082130",
       "time": "2026-09-08 13:58:54",
@@ -128734,245 +128986,6 @@
         "公司"
       ],
       "text": "葛蘭素史克公司第二階段試驗資料積極，將推進候選疫苗研發。"
-    },
-    {
-      "id": "5070107",
-      "time": "2026-09-01 14:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "維理塔斯資本擬以每股940便士收購Bodycote。"
-    },
-    {
-      "id": "mkt:01a05b90-9b2b-7118-842b-74c782f4f1ce",
-      "time": "2026-09-01 14:03:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【U.S. battery storage additions hit record in Q2; 2026 additions projected at 71 GWh】U.S. battery storage additions reached a record 20.2 GWh in Q2, the Solar Energy Industries Association and Benchmark Mineral Intelligence said, and full-year additions are projected at 71 GWh in 2026. SEIA said more than 74% of Q2 capacity was built in states won by Trump in the 2024 presidential election; Arizona added 6.2 GWh, a single-state, single-quarter U.S. record. One GWh of storage roughly meets the annual electricity needs of 750,000 U.S. households. The report said new battery manufacturing plants are entering production in multiple states, including Ohio, Tennessee and Texas."
-    },
-    {
-      "id": "mkt:01a05b90-5606-7118-842b-6f6fa54dd465",
-      "time": "2026-09-01 14:03:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine reports attack on Kyiv; 8 dead, 5 injured】Ukraine's State Emergency Service said Russian forces struck Kyiv on Sept. 1, killing eight and injuring five, including three children. The agency said the attacks hit civilian infrastructure and residential areas: two fires broke out in Darnytskyi district; a non-residential building in Holosiivskyi district suffered a 40 sq m fire that was extinguished; and a drone struck a residential block in Solomianskyi district, causing partial damage to the building."
-    },
-    {
-      "id": "5070105",
-      "time": "2026-09-01 14:02:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里、上汽等入股垣信衛星】天眼查App顯示，近日，上海垣信衛星科技有限公司發生工商變更，新增杭州阿里創業投資有限公司、上海汽車集團金控管理有限公司等為股東，同時，註冊資本由約21.4億人民幣增至約24.8億人民幣。該公司成立於2018年3月，法定代表人為張琦，經營範圍含衛星通訊服務、衛星導航服務、地理遙感資訊服務等，現由上海聯和投資有限公司及上述新增股東等共同持股。"
-    },
-    {
-      "id": "mkt:01a05b90-1621-7118-842b-640baed529f8",
-      "time": "2026-09-01 14:02:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Alphabet",
-        "005930.KS",
-        "Impact bullish",
-        "NVDA.O",
-        "Impact bearish",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "【South Korean media: Samsung memory division allocates about 70% of capacity to LTAs through 2031】South Korean media report Samsung's memory division has allocated roughly 70% of its capacity through 2031 to long-term agreements (LTAs), with major clients including NVIDIA, Microsoft and Google. An AI-driven surge in HBM demand is crowding out traditional DRAM supply and intensifying shortages; even large LTA customers reportedly cannot secure their full contracted volumes, sending spot HBM prices sharply higher."
-    },
-    {
-      "id": "5070104",
-      "time": "2026-09-01 14:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "美卓與芬蘭地質調查局簽署協議，將為芬蘭地質調查局MinTek部門位於奧圖昆普的新試驗廠提供選礦廠裝置。"
-    },
-    {
-      "id": "5070103",
-      "time": "2026-09-01 14:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥汽車統計網站Bilstatistik.dk彙編的資料顯示，8月份特斯拉在丹麥的新註冊量同比增長104%。"
-    },
-    {
-      "id": "mkt:01a05b8f-3817-7118-842b-5e7953e078f4",
-      "time": "2026-09-01 14:01:47",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Stoxx Europe 50 futures down 0.09%; Germany DAX futures down 0.25%; France CAC 40 futures up 0.14%; UK FTSE 100 futures down 0.40%."
-    },
-    {
-      "id": "5070102",
-      "time": "2026-09-01 14:01:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.09%，德國DAX指數期貨下跌0.25%，法國CAC 40指數期貨上漲0.14%，富時指數期貨下跌0.4%。"
-    },
-    {
-      "id": "5070101",
-      "time": "2026-09-01 14:01:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信金融資產：將聚焦房地產風險化解、上市公司紓困等重點領域，主動出擊】中信金融資產舉行2026年中期業績釋出會，總裁李子民在展望全年業績時表示，下半年，外部環境和挑戰依然嚴峻，情況複雜多變，同樣充滿不確定性。公司要做的就是保持戰略定力，聚焦打造行業標杆目標，繼續做難而正確的事，用內部自身的確定性來應對外部的不確定性。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:579837",
-      "time": "2026-09-01 14:00:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Equities Close 0.9% Lower — New Zealand stocks lost 130 points, or 0.9%, to close at 13,787 on Tuesday, touching their lowest level since August 17 and erasing gains in the previous session, mainly weighed down by industrials, real estate, consumer discretionary, and consumer staples. The broader index tracked a decline on Wall Street overnight as rising oil prices raised inflation concerns amid escalating Middle East tensions. Traders were cautious ahead of the RBNZ's monetary policy decision this week, with the market expecting the central bank to raise interest rates by 25 bps after raising them in May. Traders continued to assess the government's decision to delay fuel excise rises from January 1, 2027, ahead of the general election, which is scheduled to be held in November 2026. Among the top decliners were Auckland International Airport (-3.2%), Ebos Group (-1.9%), A2 Milk (-1.6%), Infratil (-1.1%), and Contact Energy (-0.8%)."
-    },
-    {
-      "id": "5070100",
-      "time": "2026-09-01 14:00:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零跑汽車釋出 8 月交付資料，全球交付 103129 臺，連續兩月突破 10 萬臺，再創歷史新高】零跑汽車釋出 8 月交付資料，全球交付 103129 臺，連續兩月突破 10 萬臺，再創歷史新高。 旗下產品矩陣全線走強，上牌量穩居中國新能源第三、全球新能源第四。依託全域自研深度自制，零跑半年度財報表現亮眼，實現連續三個半年度盈利，同時與一汽達成多領域戰略合作，海外市場成為第二增長曲線，品牌全球化加速推進。 9 月 16 日將舉辦年度技術釋出會，推出世界模型輔助駕駛等前沿技術；持續踐行 “科技普惠、好而不貴” 產品理念，深化全球化佈局，驅動品牌向上。"
-    },
-    {
-      "id": "5070099",
-      "time": "2026-09-01 14:00:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【我國難選鐵礦資源綜合利用取得重要突破】我國是全球最大的鐵礦石消費國，鐵礦石消耗量佔全球半數以上，對外依存度高，資源定價權和供應鏈安全長期面臨挑戰。為了擺脫這種局面，中國科學院過程工程研究所經過二十餘年持續攻關，在國際上首次突破了難選鐵礦高效利用的核心技術瓶頸。基於該技術建成的全球最大難選鐵礦磁化焙燒工程也在今天（9月1日）竣工驗收。（央視新聞）"
-    },
-    {
-      "id": "5070098",
-      "time": "2026-09-01 14:00:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國8月Nationwide房價指數月率 0.2%，預期0.10%，前值由0.10%修正為-0.1%。"
-    },
-    {
-      "id": "mkt:01a05b8d-cf63-7118-842b-54dfbb5d33b6",
-      "time": "2026-09-01 14:00:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK Nationwide house price index MoM (Aug) +0.2% vs +0.10% expected; July revised to -0.1% from +0.10%."
-    },
-    {
-      "id": "mkt:01a05b8d-ce87-7118-842b-4cb2892e57f0",
-      "time": "2026-09-01 14:00:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK Nationwide house price index August YoY +1.6% (expected +2.0%); July revised down to +1.4% from +1.8%."
-    },
-    {
-      "id": "5070097",
-      "time": "2026-09-01 14:00:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國7月實際零售銷售月率 -3.4%，預期0.4%，前值-0.7%。"
-    },
-    {
-      "id": "mkt:01a05b8d-c3a1-7118-842b-439bd577cbf8",
-      "time": "2026-09-01 14:00:12",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany July real retail sales YoY -2.5%, prior -0.2%."
-    },
-    {
-      "id": "mkt:01a05b8d-c33e-7118-842b-3aedfff0bef1",
-      "time": "2026-09-01 14:00:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Germany July real retail sales MoM -3.4% (est 0.4%, prior -0.7%)."
-    },
-    {
-      "id": "mkt:01a05b8d-b424-7118-842b-3552ca8b7c44",
-      "time": "2026-09-01 14:00:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (YoY) (Aug) | actual 1.6% | consensus 2% | previous 1.80%"
-    },
-    {
-      "id": "mkt:01a05b8d-b420-7118-842b-2f3c1fd89df0",
-      "time": "2026-09-01 14:00:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (MoM) (Aug) | actual 0.2% | consensus 0.10% | previous 0.10%"
-    },
-    {
-      "id": "mkt:01a05b8d-a858-7118-842b-1e888a750258",
-      "time": "2026-09-01 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Retail Sales (YoY) (Jul) | actual -2.5% | previous -0.2%"
-    },
-    {
-      "id": "mkt:01a05b8d-a85d-7118-842b-2448d3885506",
-      "time": "2026-09-01 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Retail Sales (MoM) (Jul) | actual -3.4% | consensus 0.4% | previous -0.7%"
     }
   ]
 }
