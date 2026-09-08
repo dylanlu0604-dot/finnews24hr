@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-08 13:44:23",
-  "count": 14087,
+  "updated": "2026-09-08 13:48:15",
+  "count": 14086,
   "items": [
+    {
+      "id": "mkt:01a07f8e-99aa-7118-84dd-bbeed2a34540",
+      "time": "2026-09-08 13:47:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures rose $1 to $98/bbl after Saudi Arabia's energy ministry said energy facilities and utilities were attacked by Yemen's Houthi militants."
+    },
+    {
+      "id": "5082117",
+      "time": "2026-09-08 13:46:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量238億元。"
+    },
+    {
+      "id": "5082116",
+      "time": "2026-09-08 13:45:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫院板塊短線拉昇，澳洋健康漲停】醫院板塊短線拉昇，澳洋健康漲停，光正眼科、普瑞眼科、國際醫學、美年健康、何氏眼科等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a07f8d-124f-7118-84dd-b497f2057b18",
+      "time": "2026-09-08 13:45:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "【TrendForce: Early buying lifts 2026 smartphone output; raises full-year forecast to 1.07 bln units】TrendForce said in its latest industry survey that global smartphone production in Q2 2026 reached 275 million units, down 8% YoY but outperforming earlier forecasts. The firm cited two drivers: consumer front-loading driven by fears that sustained memory-chip price increases will push device prices higher in 2027, and inventory replenishment by brands that had cut production amid earlier memory-cost spikes. TrendForce raised its 2026 full-year production forecast to 1.07 billion units from 1.05 billion, narrowing the expected YoY decline from 16% to 14%."
+    },
+    {
+      "id": "5082115",
+      "time": "2026-09-08 13:44:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "創新藥概念午後拉昇，亞太藥業直線漲停，百普塞斯漲超10%，萬邦醫藥、皓元醫藥漲超6%。"
+    },
+    {
+      "id": "5082114",
+      "time": "2026-09-08 13:44:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報9016.00元。"
+    },
+    {
+      "id": "5082113",
+      "time": "2026-09-08 13:44:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：提前購機帶動2026年智慧手機生產總量優於預期，上修全年產量至10.7億支】根據TrendForce集邦諮詢最新手機產業調查，2026年第二季全球智慧手機生產總量達2.75億支，較去年同期下降8%，下降幅度較原先預測收斂，整體表現優於市場預期。TrendForce集邦諮詢分析，本季表現優於預期主要由兩項因素帶動：其一，部分消費者擔憂儲存器漲價持續推升整機成本，促使2027年新機售價再一波調升，因而選擇提前購機；其二，部分品牌先前因儲存器成本上漲而過度下調生產計劃，如今隨市況回穩而進行回補調整。在上述效應帶動下，TrendForce集邦諮詢將2026年全年智慧手機生產總量預測由原先的10.5億支上修至10.7億支，年減幅度也由16%收斂至14%。"
+    },
+    {
+      "id": "5082112",
+      "time": "2026-09-08 13:44:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
     {
       "id": "te:economy:581862",
       "time": "2026-09-08 13:43:42",
@@ -13,6 +91,18 @@
         "Importance 0"
       ],
       "text": "Ireland 10Y Bond Yield Hits 12-year High — Ireland 10 Year Government Bond Yield increased to 3.56%, the highest since December 2013. Over the past 4 weeks, Ireland 10Y Bond Yield gained 18.49 basis points, and in the last 12 months, it increased 63.91 basis points."
+    },
+    {
+      "id": "te:economy:581863",
+      "time": "2026-09-08 13:43:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Portugal 10Y Bond Yield Hits 35-month High — Portugal 10 Year Government Bond Yield increased to 3.76%, the highest since October 2023. Over the past 4 weeks, Portugal 10Y Bond Yield gained 20.82 basis points, and in the last 12 months, it increased 66.20 basis points."
     },
     {
       "id": "mkt:01a07f8a-6f6d-7118-84dd-aea7496e12b2",
@@ -128751,92 +128841,6 @@
         "GBPUSD"
       ],
       "text": "UK Aug Nationwide house price index MoM due in 10 minutes."
-    },
-    {
-      "id": "5070084",
-      "time": "2026-09-01 13:48:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車印度公司：8月總銷量為65796輛。"
-    },
-    {
-      "id": "5070083",
-      "time": "2026-09-01 13:48:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行板塊反覆活躍 中國銀行、建設銀行等多股創歷史新高】銀行板塊反覆活躍，中國銀行、建設銀行、成都銀行、江蘇銀行均創歷史新高，其中中國銀行A+H股總市值站上2萬億元，郵儲銀行、西安銀行、民生銀行、江陰銀行、西安銀行等漲幅靠前。"
-    },
-    {
-      "id": "5070082",
-      "time": "2026-09-01 13:47:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：呼籲建立上合組織銀行、建立聯合出口保險和投資聯盟，並組建能源聯盟，以加強該組織在經濟方面的作用。"
-    },
-    {
-      "id": "5070081",
-      "time": "2026-09-01 13:47:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "東山精密成交額超100億元，現跌超5%。"
-    },
-    {
-      "id": "mkt:01a05b81-dc9a-7118-842b-0b4192d4a7f5",
-      "time": "2026-09-01 13:47:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS: Iran's central bank governor said that although the public is feeling inf pressure, Iran has not entered hyperinflation and he judges the likelihood of it occurring to be low."
-    },
-    {
-      "id": "5070080",
-      "time": "2026-09-01 13:46:58",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛集團CEO：AI應用將顯著提高生產力 未來5-10年美經濟增速將更高】高盛集團執行長大衛·所羅門（David Solomon）最新表示，隨著人工智慧（AI）在企業和更廣泛的經濟領域中得到更廣泛的應用，未來五到十年美國經濟可能會以更高的速度增長。所羅門在接受最新採訪時表示，美國經濟目前處於建設性發展階段，這得益於消費者的韌性、強勁的盈利增長和大規模的投資週期。展望未來，所羅門表示，人工智慧的應用可以顯著提高生產力。所羅門表示，他不能斷言每一項人工智慧投資都會獲得回報，並指出一定會有贏家和輸家。但他表示，這項技術的更廣泛應用可能會帶來“生產力激增”，並使美國有機會實現“更高水平的根本性增長”。"
-    },
-    {
-      "id": "mkt:01a05b80-7f0c-7118-842b-03334e5684c0",
-      "time": "2026-09-01 13:45:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver climbed above $67/oz, up 0.69% on the day."
-    },
-    {
-      "id": "5070079",
-      "time": "2026-09-01 13:45:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報959.00元。"
-    },
-    {
-      "id": "5070078",
-      "time": "2026-09-01 13:45:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報67.66美元/盎司。"
-    },
-    {
-      "id": "5070077",
-      "time": "2026-09-01 13:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "蔚來港股跌超10%，公司2026年8月交付35,836輛汽車，同比增長14.5%。"
     }
   ]
 }
