@@ -1,7 +1,86 @@
 {
   "date": "2026-09-09",
-  "count": 198,
+  "count": 206,
   "items": [
+    {
+      "id": "mkt:01a08264-6e48-7118-84f3-787b03df7757",
+      "time": "2026-09-09 03:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. consumer credit rose $18.06 bln in July versus $11.65 bln expected; June revised to $14.56 bln from $14.17 bln."
+    },
+    {
+      "id": "mkt:01a08264-3fac-7118-84f3-7466901d8f42",
+      "time": "2026-09-09 03:00:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US Treasury imposes new sanctions on Iran's aviation sector】On the 8th (local time) the US Treasury announced a new round of sanctions on 36 entities targeting Iran's aviation sector and related firms as part of stepped-up economic pressure. The measures are intended to further constrain Mahan Air's operations and extend to other Iranian carriers, as well as alleged shell companies, foreign intermediaries and transshipment networks said to facilitate acquisition of US-origin aircraft and sensitive technology."
+    },
+    {
+      "id": "mkt:01a08264-3dfd-7118-84f3-6ec55cc0d01a",
+      "time": "2026-09-09 03:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Consumer Credit (Jul) | actual 18060000000B | consensus 11650000000B | previous 14172999999.999998B"
+    },
+    {
+      "id": "5083618",
+      "time": "2026-09-09 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.24%，報25286.94點，低水30.24點。"
+    },
+    {
+      "id": "5083617",
+      "time": "2026-09-09 02:59:20",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國財政部對伊朗航空業實施新一輪制裁】當地時間8日，美國財政部宣佈對伊朗實施新一輪制裁，共涉及36個制裁物件，重點針對伊朗航空業及相關企業。此舉是美國進一步加大對伊朗經濟壓力的一部分。美國財政部表示，此次行動旨在進一步限制伊朗馬漢航空公司的運營，並將制裁範圍擴大至伊朗其他航空公司。此次制裁還涉及多家被指為伊朗提供支援的幌子公司、外國中間商以及轉運網路。美方稱，伊朗透過這些渠道獲取美國原產飛機和敏感技術。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08262-b2d6-7118-84f3-63c7d22e85dc",
+      "time": "2026-09-09 02:58:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRGC spokesman said at dawn the force seized what it described as the US Navy's most advanced unmanned submarine (2025) in the Strait of Hormuz, claiming no advanced technology can penetrate its surveillance layer and asserting control of the Persian Gulf belongs to its tech youth."
+    },
+    {
+      "id": "5083616",
+      "time": "2026-09-09 02:56:48",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國財政部擴大國債回購在即 華爾街料單次規模最高100億美元】在8月份美國財政部宣佈擬將長期國債回購規模至少擴大一倍後，華爾街利率策略師預計，財政部將把回購規模提高至每次最多100億美元。摩根士丹利策略師表示，根據財政部現有現金餘額管理政策，假設不透過增發短期國庫券籌集額外資金，財政部本季度剩餘七次長期國債回購操作中，每次回購規模最高可能達到100億美元。"
+    },
+    {
+      "id": "5083615",
+      "time": "2026-09-09 02:56:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：凌晨俘獲美軍2025年最先進無人潛艇一事表明，任何先進技術都無法突破我們在霍爾木茲海峽的多層監視體系。波斯灣的主導權屬於我國年輕技術人員。"
+    },
     {
       "id": "mkt:01a08260-c4e0-7118-84f3-5b5807f49902",
       "time": "2026-09-09 02:56:14",
