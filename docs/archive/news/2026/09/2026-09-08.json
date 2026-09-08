@@ -1,7 +1,192 @@
 {
   "date": "2026-09-08",
-  "count": 2109,
+  "count": 2129,
   "items": [
+    {
+      "id": "5083315",
+      "time": "2026-09-08 22:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "網路晶片生產商Celero Communications按超過30億美元估值融資2.75億美元，用於滿足AI資料中心改善效率的需求。本次融資由谷歌母公司Alphabet風投資本部門CapitalG、Atreides Management、Valor Equity Partners領投。"
+    },
+    {
+      "id": "5083314",
+      "time": "2026-09-08 22:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家電網資料顯示，該國哈特爾普爾1號核反應堆在停機後恢復併網發電。"
+    },
+    {
+      "id": "5083313",
+      "time": "2026-09-08 22:03:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "百思買股價下跌約2%，此前D.A.戴維森將其評級下調至中性。"
+    },
+    {
+      "id": "5083312",
+      "time": "2026-09-08 22:03:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX佔納指權重料獲提升 或迎來逾百億美元被動淨買盤】SpaceX股價近期持續窄幅波動，但隨著納斯達克100指數本月晚些時候進行季度再平衡，新一輪買盤可能很快到來。關鍵在於兩個因素：一是這一科技股權重較高的指數在編制方法中有一項較少受到關注的規則；二是埃隆·馬斯克這家衛星和太空探索公司的股東鎖定期分批到期，而這些鎖定期此前一直限制著可交易股份數量。納斯達克公司在確定成分股權重時，會根據公司市值進行計算，但採用已發行股份總數，或自由流通股數量的三倍，兩者取較低值。這意味著，如果一隻股票的自由流通股 —— 排除內部人士持股或仍處於鎖定期的股份 —— 比例較低，那麼其全部市值不會都被計入指數權重計算。"
+    },
+    {
+      "id": "5083311",
+      "time": "2026-09-08 22:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊漲幅擴大 SK海力士漲超6%】美股儲存板塊漲幅擴大，SK海力士漲超6%，閃迪漲超2%。"
+    },
+    {
+      "id": "mkt:01a08153-e11e-7118-84ec-dd1e26f6e61e",
+      "time": "2026-09-08 22:02:32",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) up more than 6%."
+    },
+    {
+      "id": "5083310",
+      "time": "2026-09-08 22:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，標普500指數期貨跌0.42%，納斯達克100指數期貨跌0.33%。"
+    },
+    {
+      "id": "mkt:01a08153-b0a2-7118-84ec-d6fc073f9aac",
+      "time": "2026-09-08 22:02:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazilian Association of Motor Vehicle Manufacturers (ANFAVEA) said August auto sales fell 1.6% MoM from July, while production rose 6.8% MoM."
+    },
+    {
+      "id": "5083309",
+      "time": "2026-09-08 22:02:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.02%，現報52871.520點；納指跌0.49%，現報26377.684點；標普500指數跌0.44%，現報7684.820點。"
+    },
+    {
+      "id": "mkt:01a08153-6246-7118-84ec-cf4b41ccc714",
+      "time": "2026-09-08 22:02:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Revenue slump, war risks revive Iran fuel‑supply concerns】Iran raised the retail price for gasoline above the rationed 110‑liter allowance, doubling the cost for excess fuel to 100,000 rials per liter from 50,000; the price for the first 110 liters remains unchanged. Officials framed the move as part of months-long deliberations to curb subsidy costs amid falling government revenue and sustained economic pressure from US sanctions and a US naval blockade of Iranian ports. Tehran noted domestic pump prices remain among the world’s lowest. Parliament speaker Ghalibaf said Iran’s current gasoline output can meet demand if consumption is rational, urged conservation and said industry—rather than households—bears part of the responsibility for high consumption."
+    },
+    {
+      "id": "5083308",
+      "time": "2026-09-08 22:01:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "DYNE THERAPEUTICS料創2025年1月以來最大單日跌幅，最新下跌22%。"
+    },
+    {
+      "id": "mkt:01a08152-992e-7118-84ec-c037a2538d77",
+      "time": "2026-09-08 22:01:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US Conference Board Employment Trends Index 108.53 for August; prior reading revised to 107.76 from 107.71."
+    },
+    {
+      "id": "5083307",
+      "time": "2026-09-08 22:01:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月諮商會就業趨勢指數 108.53，前值由107.71修正為107.76。"
+    },
+    {
+      "id": "5083306",
+      "time": "2026-09-08 22:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：任命安德烈·洛朗熱（André Loranger）為新任英國國家統計學家。"
+    },
+    {
+      "id": "mkt:01a08152-7c29-7118-84ec-bf9361204172",
+      "time": "2026-09-08 22:01:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Aug) | actual 108.53 | previous 107.71"
+    },
+    {
+      "id": "5083305",
+      "time": "2026-09-08 22:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西8月汽車產量增至271160輛。"
+    },
+    {
+      "id": "5083304",
+      "time": "2026-09-08 22:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西8月份汽車出口量增至39791輛。"
+    },
+    {
+      "id": "5083303",
+      "time": "2026-09-08 21:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【被“圈入美國版圖” 冰島外長召見美大使表達不滿】冰島外交部8日宣佈，冰島外交部長索爾傑爾迪·卡特琳·貢納爾斯多蒂爾7日召見美國駐冰島大使比利·朗，就美國總統特朗普發帖將冰島“圈入美國版圖”一事表達不滿。特朗普7日在“真實社交”平臺上釋出一張“地圖”，顯示美國國旗的紅白條紋覆蓋了墨西哥、加勒比地區、加拿大以及格陵蘭島和冰島等，並標註文字“美利堅合眾國”。據冰島國家廣播局報道，冰島外長向美國大使明確表達了冰島立場，即上述帖文“十分不合適”。（新華社）"
+    },
+    {
+      "id": "mkt:01a08151-464c-7118-84ec-b7905c84f7b6",
+      "time": "2026-09-08 21:59:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said risks to food price inflation are tilted to the upside."
+    },
+    {
+      "id": "5083302",
+      "time": "2026-09-08 21:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中期選舉臨近，紐森呼籲民主黨：硬氣起來，丟掉自以為是的姿態】數月來，民主黨將“共和黨和特朗普推高生活成本”作為中期選舉核心論點，爭奪選民選票。分析認為，若共和黨因伊朗問題等議題逐漸失勢，而特朗普又無法動員這些選民投票，民主黨可能迎來一波強勁浪潮。加州州長加文·紐森已成為民主黨內批評特朗普最激烈的人物之一。隨著其可能競選總統的猜測升溫，他正四處籌款，力圖在州一級幫助更多民主黨人勝選。在9月7日播出的節目中，紐森在談及中期選舉的策略時表示：“我認為民主黨人需要硬氣起來，丟掉那種自以為是、故作高深的姿態，不要只想在智力上取勝，因為對手的手段非常殘酷。”他表示，去年慘敗之後必須作出改變，“這也是我調整社交媒體策略的原因。繼續做下去，抓住我們應得的選票。”（紅星新聞）"
+    },
     {
       "id": "mkt:01a0814f-d6ba-7118-84ec-aa63af7eb5c6",
       "time": "2026-09-08 21:58:08",

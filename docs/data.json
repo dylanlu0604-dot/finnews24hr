@@ -1,7 +1,192 @@
 {
-  "updated": "2026-09-08 21:59:33",
-  "count": 13994,
+  "updated": "2026-09-08 22:05:15",
+  "count": 14002,
   "items": [
+    {
+      "id": "5083315",
+      "time": "2026-09-08 22:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "網路晶片生產商Celero Communications按超過30億美元估值融資2.75億美元，用於滿足AI資料中心改善效率的需求。本次融資由谷歌母公司Alphabet風投資本部門CapitalG、Atreides Management、Valor Equity Partners領投。"
+    },
+    {
+      "id": "5083314",
+      "time": "2026-09-08 22:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家電網資料顯示，該國哈特爾普爾1號核反應堆在停機後恢復併網發電。"
+    },
+    {
+      "id": "5083313",
+      "time": "2026-09-08 22:03:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "百思買股價下跌約2%，此前D.A.戴維森將其評級下調至中性。"
+    },
+    {
+      "id": "5083312",
+      "time": "2026-09-08 22:03:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX佔納指權重料獲提升 或迎來逾百億美元被動淨買盤】SpaceX股價近期持續窄幅波動，但隨著納斯達克100指數本月晚些時候進行季度再平衡，新一輪買盤可能很快到來。關鍵在於兩個因素：一是這一科技股權重較高的指數在編制方法中有一項較少受到關注的規則；二是埃隆·馬斯克這家衛星和太空探索公司的股東鎖定期分批到期，而這些鎖定期此前一直限制著可交易股份數量。納斯達克公司在確定成分股權重時，會根據公司市值進行計算，但採用已發行股份總數，或自由流通股數量的三倍，兩者取較低值。這意味著，如果一隻股票的自由流通股 —— 排除內部人士持股或仍處於鎖定期的股份 —— 比例較低，那麼其全部市值不會都被計入指數權重計算。"
+    },
+    {
+      "id": "5083311",
+      "time": "2026-09-08 22:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊漲幅擴大 SK海力士漲超6%】美股儲存板塊漲幅擴大，SK海力士漲超6%，閃迪漲超2%。"
+    },
+    {
+      "id": "mkt:01a08153-e11e-7118-84ec-dd1e26f6e61e",
+      "time": "2026-09-08 22:02:32",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) up more than 6%."
+    },
+    {
+      "id": "5083310",
+      "time": "2026-09-08 22:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，標普500指數期貨跌0.42%，納斯達克100指數期貨跌0.33%。"
+    },
+    {
+      "id": "mkt:01a08153-b0a2-7118-84ec-d6fc073f9aac",
+      "time": "2026-09-08 22:02:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazilian Association of Motor Vehicle Manufacturers (ANFAVEA) said August auto sales fell 1.6% MoM from July, while production rose 6.8% MoM."
+    },
+    {
+      "id": "5083309",
+      "time": "2026-09-08 22:02:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.02%，現報52871.520點；納指跌0.49%，現報26377.684點；標普500指數跌0.44%，現報7684.820點。"
+    },
+    {
+      "id": "mkt:01a08153-6246-7118-84ec-cf4b41ccc714",
+      "time": "2026-09-08 22:02:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Revenue slump, war risks revive Iran fuel‑supply concerns】Iran raised the retail price for gasoline above the rationed 110‑liter allowance, doubling the cost for excess fuel to 100,000 rials per liter from 50,000; the price for the first 110 liters remains unchanged. Officials framed the move as part of months-long deliberations to curb subsidy costs amid falling government revenue and sustained economic pressure from US sanctions and a US naval blockade of Iranian ports. Tehran noted domestic pump prices remain among the world’s lowest. Parliament speaker Ghalibaf said Iran’s current gasoline output can meet demand if consumption is rational, urged conservation and said industry—rather than households—bears part of the responsibility for high consumption."
+    },
+    {
+      "id": "5083308",
+      "time": "2026-09-08 22:01:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "DYNE THERAPEUTICS料創2025年1月以來最大單日跌幅，最新下跌22%。"
+    },
+    {
+      "id": "5083307",
+      "time": "2026-09-08 22:01:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月諮商會就業趨勢指數 108.53，前值由107.71修正為107.76。"
+    },
+    {
+      "id": "mkt:01a08152-992e-7118-84ec-c037a2538d77",
+      "time": "2026-09-08 22:01:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US Conference Board Employment Trends Index 108.53 for August; prior reading revised to 107.76 from 107.71."
+    },
+    {
+      "id": "5083306",
+      "time": "2026-09-08 22:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：任命安德烈·洛朗熱（André Loranger）為新任英國國家統計學家。"
+    },
+    {
+      "id": "mkt:01a08152-7c29-7118-84ec-bf9361204172",
+      "time": "2026-09-08 22:01:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Aug) | actual 108.53 | previous 107.71"
+    },
+    {
+      "id": "5083305",
+      "time": "2026-09-08 22:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西8月汽車產量增至271160輛。"
+    },
+    {
+      "id": "5083304",
+      "time": "2026-09-08 22:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西8月份汽車出口量增至39791輛。"
+    },
+    {
+      "id": "5083303",
+      "time": "2026-09-08 21:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【被“圈入美國版圖” 冰島外長召見美大使表達不滿】冰島外交部8日宣佈，冰島外交部長索爾傑爾迪·卡特琳·貢納爾斯多蒂爾7日召見美國駐冰島大使比利·朗，就美國總統特朗普發帖將冰島“圈入美國版圖”一事表達不滿。特朗普7日在“真實社交”平臺上釋出一張“地圖”，顯示美國國旗的紅白條紋覆蓋了墨西哥、加勒比地區、加拿大以及格陵蘭島和冰島等，並標註文字“美利堅合眾國”。據冰島國家廣播局報道，冰島外長向美國大使明確表達了冰島立場，即上述帖文“十分不合適”。（新華社）"
+    },
+    {
+      "id": "mkt:01a08151-464c-7118-84ec-b7905c84f7b6",
+      "time": "2026-09-08 21:59:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said risks to food price inflation are tilted to the upside."
+    },
+    {
+      "id": "5083302",
+      "time": "2026-09-08 21:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中期選舉臨近，紐森呼籲民主黨：硬氣起來，丟掉自以為是的姿態】數月來，民主黨將“共和黨和特朗普推高生活成本”作為中期選舉核心論點，爭奪選民選票。分析認為，若共和黨因伊朗問題等議題逐漸失勢，而特朗普又無法動員這些選民投票，民主黨可能迎來一波強勁浪潮。加州州長加文·紐森已成為民主黨內批評特朗普最激烈的人物之一。隨著其可能競選總統的猜測升溫，他正四處籌款，力圖在州一級幫助更多民主黨人勝選。在9月7日播出的節目中，紐森在談及中期選舉的策略時表示：“我認為民主黨人需要硬氣起來，丟掉那種自以為是、故作高深的姿態，不要只想在智力上取勝，因為對手的手段非常殘酷。”他表示，去年慘敗之後必須作出改變，“這也是我調整社交媒體策略的原因。繼續做下去，抓住我們應得的選票。”（紅星新聞）"
+    },
     {
       "id": "mkt:01a0814f-d6ba-7118-84ec-aa63af7eb5c6",
       "time": "2026-09-08 21:58:08",
@@ -127759,109 +127944,6 @@
         "Importance 3"
       ],
       "text": "US Manufacturing Growth Slows in August — The ISM Manufacturing PMI fell to 54.6 in August 2026 from July’s near four-year high of 55.6, below market expectations of 55.2. The reading nevertheless marked the eighth consecutive month of expansion in manufacturing activity, although growth moderated as new orders slowed sharply to 53.7 from 56.7. Production growth was broadly stable at 58.3, compared with 58.5 in July, while employment growth eased to 51.2 from 52.8, pointing to a softer pace of job creation in the sector. Meanwhile, manufacturers continued to highlight rising costs, supply-chain disruptions and heightened uncertainty, with tariffs and the Middle East conflict adding further pressure. The Prices Index remained elevated at 71.1, while the Supplier Deliveries Index rose to 59.3, signaling continued supply-chain delays. The Backlog of Orders Index fell sharply to 51.8, while the Imports Index declined to 52.5, suggesting weaker order pipelines and import activity."
-    },
-    {
-      "id": "5071273",
-      "time": "2026-09-01 22:05:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：西南航空與波蘭航空開啟合作。"
-    },
-    {
-      "id": "5071272",
-      "time": "2026-09-01 22:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：在羧基麥芽糖鐵注射液（INJECTAFER）的標籤中增加黑框警告，以說明低磷血癥風險。"
-    },
-    {
-      "id": "5071271",
-      "time": "2026-09-01 22:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：超過10個歐盟國家願意為黎巴嫩任務提供支援。"
-    },
-    {
-      "id": "te:economy:580095",
-      "time": "2026-09-01 22:03:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Offers",
-        "Importance 3"
-      ],
-      "text": "US Job Openings Below Forecasts — Job openings in the US increased by 89,000 to 7.271 million in July 2026 from a downwardly revised 7.182 million in June, below market expectations of 7.30 million. The number of job openings increased in durable goods manufacturing (+76,000), health care and social assistance (+54,000), wholesale trade (+50,000), and construction (+28,000). On the other hand, job openings fell in transportation, warehousing, and utilities (-67,000) and professional and business services (-65,000). Regionally, openings rose in the Midwest (84,000) and the West (135,000), but fell in the Northeast (-28,000), and the South (-102,000). Over the month, hires and total separations both changed little at 5.1 million. Within separations, quits (3.1 million) and layoffs and discharges (1.7 million) were little changed."
-    },
-    {
-      "id": "5071270",
-      "time": "2026-09-01 22:02:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "Waymo：將付費無人駕駛計程車業務拓展至美國丹佛、San Diego、以及Tampa。"
-    },
-    {
-      "id": "5071269",
-      "time": "2026-09-01 22:01:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "GOPRO股票恢復交易後上漲78%。"
-    },
-    {
-      "id": "5071268",
-      "time": "2026-09-01 22:01:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在ISM製造業和JOLTS職位空缺資料公佈後維持漲勢；10年期國債收益率日內漲1.2個基點，報4.77%。"
-    },
-    {
-      "id": "5071267",
-      "time": "2026-09-01 22:01:10",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "市場訊息：雪佛龍公司即將就委內瑞拉奧裡諾科河帶兩處油田的收購達成協議。"
-    },
-    {
-      "id": "5071266",
-      "time": "2026-09-01 22:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘭達收購Untuckit品牌及其業務運營。"
-    },
-    {
-      "id": "5071265",
-      "time": "2026-09-01 22:00:21",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國7月營建支出月率 -0.5%，預期0%，前值由-0.10%修正為0%。美國7月JOLTs職位空缺 727.1萬人，預期730萬人，前值由735.9萬人修正為718.2萬人。"
-    },
-    {
-      "id": "5071264",
-      "time": "2026-09-01 22:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月ISM製造業物價支付指數 71.1，預期70.5，前值71.1。美國8月ISM就業指數 51.2，預期53，前值52.8。美國8月ISM新訂單指數 53.7，前值56.7。美國8月ISM產出指數 58.3，前值58.5。"
-    },
-    {
-      "id": "5071263",
-      "time": "2026-09-01 22:00:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALAT：大規模生產預計將於2026年底在聯想位於利雅得的製造工廠啟動。"
     }
   ]
 }
