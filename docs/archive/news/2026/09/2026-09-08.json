@@ -1,7 +1,84 @@
 {
   "date": "2026-09-08",
-  "count": 939,
+  "count": 947,
   "items": [
+    {
+      "id": "te:markets:581858",
+      "time": "2026-09-08 13:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Increases by 0.67% — Top currency gainers are Japanese Yen (0.67%) and South Korean Won (0.31%). Biggest losers are New Zealand Dollar (-0.32%) and Dollar Index (-0.12%). Meanwhile, Euro and British Pound were little changed."
+    },
+    {
+      "id": "5082079",
+      "time": "2026-09-08 13:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創A股成交額超200億元】9月8日下午，中際旭創A股成交額超200億元，現漲1.35%。"
+    },
+    {
+      "id": "5082078",
+      "time": "2026-09-08 13:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯稱打擊烏克蘭喬爾諾莫爾斯克港口及燃料油輪】俄羅斯國防部表示，俄軍對烏克蘭喬爾諾莫爾斯克港口設施以及一艘運載燃料的油輪實施打擊。俄國防部在社交平臺釋出宣告稱，俄軍夜間動用陸、海、空基精確武器以及遠端無人機發動大規模打擊。基輔市及基輔州的軍用貨運、物流與物資集散中心同樣遭到襲擊。"
+    },
+    {
+      "id": "mkt:01a07f6f-daed-7118-84dd-11949dfdf363",
+      "time": "2026-09-08 13:13:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CPCA: China's August new-energy vehicle domestic retail penetration 65.2%."
+    },
+    {
+      "id": "5082077",
+      "time": "2026-09-08 13:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡的目標是實際GDP增長率達到2%至4%。"
+    },
+    {
+      "id": "mkt:01a07f6f-c22b-7118-84dd-0db2ff19a2fe",
+      "time": "2026-09-08 13:13:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sri Lanka's Ceylon Petroleum Corporation top executive said the company is testing a Saharan blended crude alongside WTI and Siberian Light to diversify refinery feedstock sources."
+    },
+    {
+      "id": "mkt:01a07f6f-2de5-7118-84dd-0027d6ee2277",
+      "time": "2026-09-08 13:13:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A top executive at Sri Lanka's Ceylon Petroleum Corporation said the company is seeking a foreign joint-venture partner able to secure crude supplies to support an expansion of refining capacity."
+    },
+    {
+      "id": "mkt:01a07f6f-1116-7118-84dc-f826552af879",
+      "time": "2026-09-08 13:13:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A top executive at Sri Lanka's Ceylon Petroleum Corporation said the company plans to double refining capacity to 100,000 barrels per day within four years."
+    },
     {
       "id": "5082076",
       "time": "2026-09-08 13:12:16",
