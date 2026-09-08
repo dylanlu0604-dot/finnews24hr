@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-08 23:10:49",
-  "count": 14105,
+  "updated": "2026-09-08 23:14:56",
+  "count": 14097,
   "items": [
+    {
+      "id": "5083439",
+      "time": "2026-09-08 23:12:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "威茲航空：英國國家航空交通服務局（NATS）再次發生技術故障，導致英國航空網路出現大面積中斷，對此“極為失望”。"
+    },
+    {
+      "id": "5083438",
+      "time": "2026-09-08 23:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "威茲航空：作為關鍵國家基礎設施的運營方，不應屢次導致航空系統陷入癱瘓，英國國家航空交通服務局（NATS）現有體制根本難堪其任。"
+    },
+    {
+      "id": "5083437",
+      "time": "2026-09-08 23:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "威茲航空：對英國空中交通管制故障深感失望。"
+    },
+    {
+      "id": "mkt:01a08192-7a9a-7118-84ef-8fb31a3ea099",
+      "time": "2026-09-08 23:10:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【New York Fed 1-year inflation expectation dips; unemployment‑rise probability highest since Apr 2020】New York Fed Center for Microeconomic Data August 2026 consumer expectations survey (Aug 3–31): median 1-year inflation expectation fell to 3.58% from 3.63%; short- and long-term inflation expectations unchanged. Median 1-year house‑price growth expectation down 0.2ppt to 3.0%, led by Northeast respondents. One‑year gasoline price expectation rose 1.7ppt to 4.6%; food to 5.3% (+0.3ppt); medical to 9.1% (+0.2ppt); college costs to 6.1% (+0.3ppt); rent to 6.6% (+0.7ppt). Median 1-year income growth expectation edged up 0.1ppt to 2.9%. Average probability that the unemployment rate will be higher in one year rose 1.6ppt to 44.4%, the highest since April 2020."
+    },
+    {
+      "id": "5083436",
+      "time": "2026-09-08 23:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：華盛頓不希望當前發生任何可能破壞約旦河西岸穩定的事件，我們不會效仿英國在約旦河西岸問題上的做法。"
+    },
     {
       "id": "5083435",
       "time": "2026-09-08 23:09:53",
@@ -128820,120 +128868,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：G20 將設立債務重組技術研究小組。"
-    },
-    {
-      "id": "5071372",
-      "time": "2026-09-01 23:14:32",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行曼恩：自上次貨幣政策委員會會議至本次會議，我們觀察到經濟活動有所走強。"
-    },
-    {
-      "id": "mkt:01a05d89-02b5-7118-843c-eb13987279d0",
-      "time": "2026-09-01 23:14:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's energy minister said Israel will ensure normal water supply to all households."
-    },
-    {
-      "id": "mkt:01a05d88-efd4-7118-843c-e02c409eac54",
-      "time": "2026-09-01 23:14:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Israel's energy minister has approved construction of two additional seawater desalination plants."
-    },
-    {
-      "id": "5071371",
-      "time": "2026-09-01 23:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：以色列將保障所有家庭供水穩定，該國正加大加利利海地下水井的抽水量。"
-    },
-    {
-      "id": "mkt:01a05d88-e08a-7118-843c-da2c360e9985",
-      "time": "2026-09-01 23:14:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli energy minister said that, amid shutdowns of desalination plants, Israel is increasing pumping from wells and the Sea of Galilee."
-    },
-    {
-      "id": "5071370",
-      "time": "2026-09-01 23:13:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：批准再新建兩座海水淡化廠。"
-    },
-    {
-      "id": "mkt:01a05d88-2c1c-7118-843c-d312a952098a",
-      "time": "2026-09-01 23:13:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said she wants to accelerate the sovereign debt restructuring process."
-    },
-    {
-      "id": "mkt:01a05d88-167c-7118-843c-cb7e0bf68fec",
-      "time": "2026-09-01 23:13:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "TD Securities says increased US Treasury buybacks of long-dated securities are expected to reduce the 10‑year US Treasury term premium by about 5 bps."
-    },
-    {
-      "id": "5071369",
-      "time": "2026-09-01 23:12:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：希望加快主權債務重組程序。"
-    },
-    {
-      "id": "mkt:01a05d87-a971-7118-843c-c3e4f04ce7ff",
-      "time": "2026-09-01 23:12:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said several low-income countries may need debt restructuring."
-    },
-    {
-      "id": "5071368",
-      "time": "2026-09-01 23:12:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：幾個低收入國家可能需要債務重組。"
-    },
-    {
-      "id": "5071367",
-      "time": "2026-09-01 23:12:06",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【道明證券：美財政部加碼長債回購料使10年期期限溢價下降約5個基點】道明證券表示，美國財政部計劃將10年至30年期國債回購規模“至少提高一倍”，如果每次操作的最高回購規模為40億美元，可能令10年期國債期限溢價下降約5個基點。道明證券利率策略師Molly Brooks在一份研究報告中表示：“如果財政部將每次回購操作的最高規模提高至40億美元，每季度可進一步減少180億美元的長端國債供給。我們估計，這將使期限溢價下降約5個基點”。Brooks稱，目前期限溢價已下降約13個基點，“這表明部分市場參與者可能預期回購規模會更大，或者長期國債拍賣規模可能下降”。Brooks表示，縮減長端國債拍賣規模將更符合財政部“定期且可預測”的發債策略，並稱，如果偏離這一可預測模式，反而可能推高期限溢價，並抵消減少長端供給帶來的好處。"
-    },
-    {
-      "id": "5071366",
-      "time": "2026-09-01 23:11:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗議會國家安全委員會批准了霍爾木茲海峽法案中涉及賠償的相關條款。"
     }
   ]
 }
