@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-09 02:10:41",
-  "count": 14000,
+  "updated": "2026-09-09 02:14:30",
+  "count": 13990,
   "items": [
+    {
+      "id": "5083577",
+      "time": "2026-09-09 02:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱美軍一架水下無人機在中東發生故障】一名美國官員稱，一架美軍無人機在中東地區執行水域偵察任務期間發生故障。該官員稱，發生故障的是一款較老型號的無人機，機上並未搭載任何涉密聲吶或雷達裝置，於一天多以前發了故障。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08239-a06e-7118-84f2-c921f1653cf5",
+      "time": "2026-09-09 02:13:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBC reports U.S. Trade Representative Greer and Canadian Foreign Minister LeBlanc will speak today."
+    },
+    {
+      "id": "5083576",
+      "time": "2026-09-09 02:13:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾與加拿大美加貿易事務部長勒布朗將於今日發表講話。"
+    },
     {
       "id": "5083575",
       "time": "2026-09-09 02:08:42",
@@ -127704,133 +127728,6 @@
         "Impact bearish"
       ],
       "text": "French President Macron said France fully supports Germany and backs new European sanctions measures."
-    },
-    {
-      "id": "mkt:01a05e2d-725a-7118-8441-fef6b7653f80",
-      "time": "2026-09-02 02:13:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to IRNA, US forces struck Jiroft airport in southeastern Iran."
-    },
-    {
-      "id": "5071539",
-      "time": "2026-09-02 02:13:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱，美軍襲擊了伊朗東南部的吉羅夫特機場。"
-    },
-    {
-      "id": "5071538",
-      "time": "2026-09-02 02:13:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將就降低失衡的途徑交換意見。"
-    },
-    {
-      "id": "mkt:01a05e2c-a34c-7118-8441-f1088c646092",
-      "time": "2026-09-02 02:12:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "President Trump said the aircraft carrier USS Washington is fully loaded with munitions, ready and 'can flatten Iran at any time'."
-    },
-    {
-      "id": "5071537",
-      "time": "2026-09-02 02:12:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic：Claude Fable 5.1 現已登陸亞馬遜雲科技、谷歌雲以及微軟 Azure。"
-    },
-    {
-      "id": "5071536",
-      "time": "2026-09-02 02:12:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：我們尚未發現 Mythos 5.1 與 Fable 5.1 防護機制存在高危級別越獄漏洞的證據。"
-    },
-    {
-      "id": "mkt:01a05e2b-9811-7118-8441-ed6fd487c601",
-      "time": "2026-09-02 02:11:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC launched Enterprise Frontier Security (EFS), an enterprise product combining zero-data-retention privacy guarantees with enhanced defenses against malicious AI use."
-    },
-    {
-      "id": "mkt:01a05e2b-85b1-7118-8441-e68e28b48164",
-      "time": "2026-09-02 02:11:45",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran is attempting to rebuild radar systems because they cannot see anything, and that the US waited until the systems were nearly complete before striking."
-    },
-    {
-      "id": "5071535",
-      "time": "2026-09-02 02:11:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普：如果伊朗反擊，我們將以更強的力量打擊它。今日對伊朗的打擊規模非常大，如果伊朗再犯錯誤，這個國家將被徹底抹除。伊朗（各種不當行為）簡直停不下來，他們又瘋又蠢。伊朗試圖重建雷達，因為他們什麼都看不見。我們一直等到他們快建好了才出手打擊。"
-    },
-    {
-      "id": "mkt:01a05e2b-662d-7118-8441-d93c4a3fe929",
-      "time": "2026-09-02 02:11:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC says Fable 5.1 outperforms Fable 5 and, by lowering inference intensity, can deliver comparable or superior performance at lower cost."
-    },
-    {
-      "id": "mkt:01a05e2b-13c1-7118-8441-d7615e1985b6",
-      "time": "2026-09-02 02:11:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said Iran's misconduct simply won't stop and called Iran crazy and stupid."
-    },
-    {
-      "id": "5071534",
-      "time": "2026-09-02 02:10:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：希望就全球失衡開展 “有實質意義的討論”。希望就何為過度失衡達成共識。"
-    },
-    {
-      "id": "mkt:01a05e2a-c2e6-7118-8441-cb4b4ed116e7",
-      "time": "2026-09-02 02:10:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic's Fable 5.1 excels on complex, long-duration tasks; its research capabilities offer an early view of how future AI models are likely to accelerate scientific progress."
     }
   ]
 }
