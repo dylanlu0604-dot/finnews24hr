@@ -1,7 +1,79 @@
 {
   "date": "2026-09-08",
-  "count": 1607,
+  "count": 1616,
   "items": [
+    {
+      "id": "5082795",
+      "time": "2026-09-08 18:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "坦尚尼亞統計局：8月坦尚尼亞通脹率同比為4.3%。"
+    },
+    {
+      "id": "mkt:01a0807e-0323-7118-84e6-eaeb71df4203",
+      "time": "2026-09-08 18:08:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Traders said the Reserve Bank of India sold dollars in the onshore foreign-exchange market on Tuesday to support the rupee."
+    },
+    {
+      "id": "5082794",
+      "time": "2026-09-08 18:07:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洲明科技與電子標準院達成戰略合作】洲明科技訊息，9月7日，中國電子技術標準化研究院（簡稱“電子標準院”）與洲明科技簽署戰略合作協議。雙方將聚焦以Micro LED為代表的新型顯示領域，在標準研製方面深化合作。"
+    },
+    {
+      "id": "5082793",
+      "time": "2026-09-08 18:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "穩定幣發行商Circle將以 4 億美元股票跨境支付平臺Tazapay。"
+    },
+    {
+      "id": "mkt:01a0807c-d7da-7118-84e6-e66a445a050d",
+      "time": "2026-09-08 18:07:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China International Capital Co chairman Chen Liang meets Oman Financial Services Authority executive president Salmi】China International Capital Co (CICC) chairman Chen Liang met with Oman Financial Services Authority executive president Salmi to discuss strengthening China‑Oman capital‑market cooperation; the parties agreed on multiple cooperation measures."
+    },
+    {
+      "id": "5082792",
+      "time": "2026-09-08 18:06:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司董事長陳亮會見阿曼金融服務管理局執行總裁薩爾米】近日，中金公司董事長陳亮會見阿曼金融服務管理局執行總裁薩爾米（Abdullah Bin Salem Al Salmi）一行，雙方就加強中阿資本市場合作等議題進行深入交流，並達成多項合作共識。"
+    },
+    {
+      "id": "mkt:01a0807b-f342-7118-84e6-dfacb2e62591",
+      "time": "2026-09-08 18:06:41",
+      "tags": [
+        "MKT News",
+        "02723.HK",
+        "Impact bullish",
+        "09888.HK"
+      ],
+      "text": "【HKEX Tech 100 to add Shenyan Intelligent (02723.HK) and Baidu Group‑W (09888.HK)】Shenyan Intelligent (02723.HK) and Baidu Group‑W (09888.HK) have met Southbound Stock Connect eligibility and HKEX’s fast‑inclusion criteria. Both will be added to the HKEX Tech 100 Index and the HKEX Tech & US Tech 100 Index after market close on Sept. 11, 2026, with changes effective Sept. 14, 2026."
+    },
+    {
+      "id": "5082791",
+      "time": "2026-09-08 18:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華中藥業股份有限公司原董事長劉玉亭接受審查調查】據中央紀委國家監委駐中國兵器工業集團有限公司紀檢監察組、湖北省紀委監委訊息，華中藥業股份有限公司原黨委書記、董事長劉玉亭涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國兵器工業集團有限公司紀檢監察組紀律審查和湖北省十堰市監察委員會監察調查。"
+    },
     {
       "id": "5082790",
       "time": "2026-09-08 18:05:28",
@@ -120,6 +192,15 @@
         "Impact bullish"
       ],
       "text": "According to an HKEX filing, Tencent Holdings (00700.HK) repurchased 230,000 shares on Sept. 8 for HK$100.4 mln."
+    },
+    {
+      "id": "5082778",
+      "time": "2026-09-08 18:02:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣價格升至三年高點 交易商爭相補充庫存】歐洲天然氣價格升至三年新高。隨著冬季臨近，交易商爭相補充天然氣庫存，同時等待伊朗與阿曼就霍爾木茲海峽航運達成協議的具體細節。歐洲基準天然氣期貨週二一度上漲3.4%，升至2023年1月以來最高水平。儘管德黑蘭表示與阿曼協議即將達成，其中將包括一條臨時安全航線，但美國週末襲擊伊朗油輪後將作何反應，目前對交易員而言仍不明朗，船隻遇襲風險依然很高。沙烏地阿拉伯能源設施遭襲也給市場增添了更多不確定性，推動油價上漲。Timera Energy分析師在一份報告中寫道，“歐洲天然氣市場在庫存異常偏低的情況下進入冬季，應對進一步供應或需求衝擊的餘地有限。歐洲正在透過推高價格，與亞洲爭奪LNG供應。”截至阿姆斯特丹時間上午11:50，歐洲天然氣基準荷蘭近月期貨上漲2.4%，至每兆瓦時75.10歐元。"
     },
     {
       "id": "5082777",
