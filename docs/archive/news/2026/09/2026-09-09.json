@@ -1,7 +1,140 @@
 {
   "date": "2026-09-09",
-  "count": 429,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:01a08340-119e-7118-84f6-1d1c581c2e67",
+      "time": "2026-09-09 07:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Reuters Tankan manufacturing business conditions diffusion index for September 21, previous 18."
+    },
+    {
+      "id": "mkt:01a08340-0d4f-7118-84f6-10ca20b78603",
+      "time": "2026-09-09 07:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea August unemployment rate 2.7%, down from 2.8% in July."
+    },
+    {
+      "id": "5083753",
+      "time": "2026-09-09 07:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國8月失業率 2.7%，前值2.80%。"
+    },
+    {
+      "id": "mkt:01a0833f-f044-7118-84f6-0ed9320acfe5",
+      "time": "2026-09-09 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (Sep) | actual 21 | previous 18"
+    },
+    {
+      "id": "mkt:01a0833f-f03f-7118-84f6-0070c2f56653",
+      "time": "2026-09-09 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Unemployment Rate (Aug) | actual 2.7% | previous 2.80%"
+    },
+    {
+      "id": "mkt:01a0833f-a378-7118-84f5-fb82a20384ae",
+      "time": "2026-09-09 06:59:40",
+      "tags": [
+        "MKT News",
+        "ROKU.O",
+        "Impact bearish",
+        "FOXA.O"
+      ],
+      "text": "Semafor: U.S. Department of Justice to closely scrutinize Fox's $22 bln acquisition of Roku."
+    },
+    {
+      "id": "mkt:01a0833e-e31e-7118-84f5-f4b92f05d420",
+      "time": "2026-09-09 06:58:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "The White House said it will impose a 50% ad valorem tariff on certain products imported from Canada."
+    },
+    {
+      "id": "mkt:01a0833e-98a4-7118-84f5-eaa98ce3a913",
+      "time": "2026-09-09 06:58:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says it struck US base in Jordan】Iran's Islamic Revolutionary Guard Corps said on Sept 9 it fired ballistic missiles at a US base in Azraq, Jordan, saying the strike was retaliation for a US attack on an Iranian tanker."
+    },
+    {
+      "id": "mkt:01a0833e-9340-7118-84f5-e532fe88d68a",
+      "time": "2026-09-09 06:58:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: goods imported before Sept. 29, 2026 that have not been consumed or withdrawn from warehouses will remain subject to a 50% tariff."
+    },
+    {
+      "id": "mkt:01a0833e-214e-7118-84f5-de0221c424f9",
+      "time": "2026-09-09 06:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says certain Canadian alcoholic beverages are prohibited from import into the U.S.; measure applies to goods imported at or after 00:01 ET on Sept 29, 2026."
+    },
+    {
+      "id": "5083752",
+      "time": "2026-09-09 06:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊打擊約旦美軍基地】伊朗伊斯蘭革命衛隊今天（9月9日）發表宣告稱，已發射彈道導彈打擊了位於約旦阿茲拉克的一處美軍基地，以報復美國對伊朗油輪的襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "5083751",
+      "time": "2026-09-09 06:57:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮：本公告中列入進口禁令的相關產品，若在 2026 年 9 月 29 日前已經進口，但尚未申報內銷或自保稅倉庫提取內銷的，仍適用 50% 的關稅稅率。2026 年 9 月 29 日前已進口，但尚未辦理內銷申報或自保稅倉庫提取的產品，仍適用 50% 關稅。"
+    },
+    {
+      "id": "mkt:01a0833d-121e-7118-84f5-d1ea7abb99a6",
+      "time": "2026-09-09 06:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USD/CAD was virtually unchanged in short-term trade at 1.3783."
+    },
+    {
+      "id": "te:economy:582160",
+      "time": "2026-09-09 06:56:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Thailand Consumer Morale Highest in 6 Months — The University of the Thai Chamber of Commerce's Consumer Confidence Index climbed to 53.2 in August 2026 from July’s 51.8. It was the third consecutive month of increases and the highest reading since February, helped by the government's co-payment scheme, steady interest rates, and higher prices for key agricultural products, which boosted purchasing power. Thanavath Phonvichai, the university’s president, said planned energy-sector reforms could help sustain growth after the consumer subsidy scheme ends on Sept. 30. The expected passage of the 2027 budget would also lead to public spending supporting the economy after September, he added."
+    },
     {
       "id": "5083750",
       "time": "2026-09-09 06:55:46",

@@ -1,7 +1,140 @@
 {
-  "updated": "2026-09-09 06:56:58",
-  "count": 13822,
+  "updated": "2026-09-09 07:03:00",
+  "count": 13823,
   "items": [
+    {
+      "id": "mkt:01a08340-119e-7118-84f6-1d1c581c2e67",
+      "time": "2026-09-09 07:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Reuters Tankan manufacturing business conditions diffusion index for September 21, previous 18."
+    },
+    {
+      "id": "5083753",
+      "time": "2026-09-09 07:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國8月失業率 2.7%，前值2.80%。"
+    },
+    {
+      "id": "mkt:01a08340-0d4f-7118-84f6-10ca20b78603",
+      "time": "2026-09-09 07:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea August unemployment rate 2.7%, down from 2.8% in July."
+    },
+    {
+      "id": "mkt:01a0833f-f044-7118-84f6-0ed9320acfe5",
+      "time": "2026-09-09 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (Sep) | actual 21 | previous 18"
+    },
+    {
+      "id": "mkt:01a0833f-f03f-7118-84f6-0070c2f56653",
+      "time": "2026-09-09 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Unemployment Rate (Aug) | actual 2.7% | previous 2.80%"
+    },
+    {
+      "id": "mkt:01a0833f-a378-7118-84f5-fb82a20384ae",
+      "time": "2026-09-09 06:59:40",
+      "tags": [
+        "MKT News",
+        "ROKU.O",
+        "Impact bearish",
+        "FOXA.O"
+      ],
+      "text": "Semafor: U.S. Department of Justice to closely scrutinize Fox's $22 bln acquisition of Roku."
+    },
+    {
+      "id": "mkt:01a0833e-e31e-7118-84f5-f4b92f05d420",
+      "time": "2026-09-09 06:58:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "The White House said it will impose a 50% ad valorem tariff on certain products imported from Canada."
+    },
+    {
+      "id": "mkt:01a0833e-98a4-7118-84f5-eaa98ce3a913",
+      "time": "2026-09-09 06:58:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says it struck US base in Jordan】Iran's Islamic Revolutionary Guard Corps said on Sept 9 it fired ballistic missiles at a US base in Azraq, Jordan, saying the strike was retaliation for a US attack on an Iranian tanker."
+    },
+    {
+      "id": "mkt:01a0833e-9340-7118-84f5-e532fe88d68a",
+      "time": "2026-09-09 06:58:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: goods imported before Sept. 29, 2026 that have not been consumed or withdrawn from warehouses will remain subject to a 50% tariff."
+    },
+    {
+      "id": "mkt:01a0833e-214e-7118-84f5-de0221c424f9",
+      "time": "2026-09-09 06:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says certain Canadian alcoholic beverages are prohibited from import into the U.S.; measure applies to goods imported at or after 00:01 ET on Sept 29, 2026."
+    },
+    {
+      "id": "5083752",
+      "time": "2026-09-09 06:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊打擊約旦美軍基地】伊朗伊斯蘭革命衛隊今天（9月9日）發表宣告稱，已發射彈道導彈打擊了位於約旦阿茲拉克的一處美軍基地，以報復美國對伊朗油輪的襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "5083751",
+      "time": "2026-09-09 06:57:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮：本公告中列入進口禁令的相關產品，若在 2026 年 9 月 29 日前已經進口，但尚未申報內銷或自保稅倉庫提取內銷的，仍適用 50% 的關稅稅率。2026 年 9 月 29 日前已進口，但尚未辦理內銷申報或自保稅倉庫提取的產品，仍適用 50% 關稅。"
+    },
+    {
+      "id": "mkt:01a0833d-121e-7118-84f5-d1ea7abb99a6",
+      "time": "2026-09-09 06:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USD/CAD was virtually unchanged in short-term trade at 1.3783."
+    },
+    {
+      "id": "te:economy:582160",
+      "time": "2026-09-09 06:56:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Thailand Consumer Morale Highest in 6 Months — The University of the Thai Chamber of Commerce's Consumer Confidence Index climbed to 53.2 in August 2026 from July’s 51.8. It was the third consecutive month of increases and the highest reading since February, helped by the government's co-payment scheme, steady interest rates, and higher prices for key agricultural products, which boosted purchasing power. Thanavath Phonvichai, the university’s president, said planned energy-sector reforms could help sustain growth after the consumer subsidy scheme ends on Sept. 30. The expected passage of the 2027 budget would also lead to public spending supporting the economy after September, he added."
+    },
     {
       "id": "5083750",
       "time": "2026-09-09 06:55:46",
@@ -126073,139 +126206,6 @@
         "國際"
       ],
       "text": "美國財政部發布二十國集團 (G20)主席國宣告。"
-    },
-    {
-      "id": "5071799",
-      "time": "2026-09-02 07:02:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國8月消費者價格指數同比上漲3.1%，高於此前預期的3.2%。"
-    },
-    {
-      "id": "5071798",
-      "time": "2026-09-02 07:01:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【蘋果公佈新CEO特努斯薪酬方案】蘋果發文稱，CEO特努斯的年薪上調至300萬美元。董事會人事與薪酬委員會同時於交接日向特努斯授予一筆按比例折算的限制性股票單位（RSU）獎勵，對應其2026財年擔任執行長的任職期間。該按比例折算限制性股票單位獎勵目標價值為250萬美元。人事與薪酬委員會還批准向特努斯授予一筆目標價值5500萬美元的年度股權獎勵，將於2027財年發放。該股權獎勵的75%為業績掛鉤型限制性股票單位，解鎖條件取決於蘋果相對標普500指數其他成分公司的股東總回報表現；剩餘25%為時間掛鉤型限制性股票單位，分四年、每半年等額解鎖，每次解鎖12.5%，該解鎖規則與蘋果2027財年向其他高管發放的時間掛鉤限制性股票單位獎勵保持一致。"
-    },
-    {
-      "id": "mkt:01a05f33-9a84-7118-8448-48a9042f31ca",
-      "time": "2026-09-02 07:00:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea Aug CPI MoM +0.2% (consensus +0.3%); Jul -0.2%."
-    },
-    {
-      "id": "mkt:01a05f33-8a2f-7118-8448-430fa2d6da3f",
-      "time": "2026-09-02 07:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia August AIG/PwC Manufacturing Performance Index -16.6; prior -19.6."
-    },
-    {
-      "id": "mkt:01a05f33-88c0-7118-8448-3adc0a15304b",
-      "time": "2026-09-02 07:00:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia AIG construction performance index for August -6.9, previous -40.6."
-    },
-    {
-      "id": "mkt:01a05f33-8889-7118-8448-35af70f05fea",
-      "time": "2026-09-02 07:00:07",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "South Korea Aug CPI YoY 3.1% vs 3.2% expected; prev 2.8%."
-    },
-    {
-      "id": "mkt:01a05f33-6ae7-7118-8448-1eb924dba570",
-      "time": "2026-09-02 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | CPI (MoM) (Aug) | actual 0.2% | consensus 0.3% | previous -0.20%"
-    },
-    {
-      "id": "mkt:01a05f33-6aeb-7118-8448-2be5594ab003",
-      "time": "2026-09-02 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | CPI (YoY) (Aug) | actual 3.1% | consensus 3.2% | previous 2.80%"
-    },
-    {
-      "id": "mkt:01a05f33-6ae9-7118-8448-21d0d756a0d3",
-      "time": "2026-09-02 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PCI (construction) (Aug) | actual -6.9 | previous -40.6"
-    },
-    {
-      "id": "mkt:01a05f33-6ae5-7118-8448-114530d6a619",
-      "time": "2026-09-02 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PMI (manufacturing) (Aug) | actual -16.6 | previous -19.6"
-    },
-    {
-      "id": "mkt:01a05f32-8e95-7118-8448-0d3fa14c1127",
-      "time": "2026-09-02 06:59:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Trump said the US is the world’s largest, most powerful economy and will remain so; other countries should emulate US policy by cutting taxes, reducing regulation and, where feasible, pursuing \"aggressive drilling\". Growth, growth, growth."
-    },
-    {
-      "id": "te:markets:580189",
-      "time": "2026-09-02 06:58:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Muted Ahead of RBNZ Rate Decision — New Zealand stocks were almost flat, trading around 13,789 in Wednesday morning trade, after retreating in the previous session and remaining at their lowest level since August 17, touched a day earlier, ahead of the RBNZ's monetary policy decision later today. The market expects the central bank to raise interest rates by 25 bps after raising rates in May. Caution also prevailed as rising oil prices raised inflation concerns and reinforced expectations of an interest rate hike amid escalating Middle East tensions. Gains in communication services, industrials, and financials offset declines in tech sectors, consumer staples, and consumer discretionary. On the data front, New Zealand's building permits fell 4.3% month-on-month in July, after declining 3.7% in June. Bankers Investment rose 1.5%, Ebos Group climbed 0.9%, while A2 Milk and Fletcher Building fell 0.7% and 0.5%, respectively."
-    },
-    {
-      "id": "mkt:01a05f31-78eb-7118-8448-01e966278132",
-      "time": "2026-09-02 06:57:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he had a productive and positive dialogue at today's G20 finance ministers meeting."
     }
   ]
 }
