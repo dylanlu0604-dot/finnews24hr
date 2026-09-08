@@ -1,7 +1,236 @@
 {
   "date": "2026-09-08",
-  "count": 545,
+  "count": 570,
   "items": [
+    {
+      "id": "te:markets:581783",
+      "time": "2026-09-08 09:39:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Hit 3-Week High — The benchmark KOSPI climbed more than 1% to around 7,095 on Tuesday, reaching a three-week high, as renewed optimism over AI-driven semiconductor demand continued to lift tech stocks. Samsung Electronics and SK hynix rose more than 1% and 3%, respectively. Expectations for stronger memory demand were reinforced by Samsung's 39.4% DRAM market share in Q2 and forecasts of critically tight supply as hyperscalers ramp up AI infrastructure spending. Other notable performers included SK Square (3.0%), Doosan Enerbility (3.3%), SK Inc. (1.2%), and Hanmi Semiconductor (4.8%). Additionally, South Korea's economic backdrop remained supportive, with August exports rising 68.7% year-on-year as semiconductor shipments surged more than 200%, while Q2 GDP expanded 0.6% quarter-on-quarter. Meanwhile, escalating Middle East tensions pushed Brent crude higher, raising inflation concerns and the risk of tighter global monetary policy."
+    },
+    {
+      "id": "mkt:01a07eab-9d69-7118-84d7-55afb44014dc",
+      "time": "2026-09-08 09:39:31",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "KATAYAMA said Japan's FX policy stance has not changed since the Japan-U.S. joint intervention."
+    },
+    {
+      "id": "mkt:01a07eab-6f63-7118-84d7-4b74508c1e77",
+      "time": "2026-09-08 09:39:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share fertilizer sector jumped in early trade; Lutianhua hit the daily limit-up, with Kingenta, Chitianhua, Limin, Xin'an and Liuguo Chemical also advancing."
+    },
+    {
+      "id": "5081790",
+      "time": "2026-09-08 09:39:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【泰國對原產於中國的熱鍍鋅冷軋板捲髮起第一次反傾銷日落複審調查】9月3日，泰國商業部外貿廳釋出公告稱，應泰國國內企業的申請，對原產於中國的熱鍍鋅冷軋板捲髮起第一次反傾銷日落複審調查。案件調查期間，反傾銷措施持續有效，自2026年9月9日起生效，期限不超過1年。公告自發布之日起生效。"
+    },
+    {
+      "id": "mkt:01a07eab-0e9f-7118-84d7-443df4818642",
+      "time": "2026-09-08 09:38:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said she will closely coordinate with U.S. counterparts to ensure orderly functioning of the foreign-exchange market."
+    },
+    {
+      "id": "5081789",
+      "time": "2026-09-08 09:38:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO板塊短線拉昇，劍橋科技觸及漲停】CPO板塊短線拉昇，劍橋科技觸及漲停，興森科技、中京電子漲停，迅捷興漲超11%，亞康股份、華盛昌、武漢凡谷跟漲。"
+    },
+    {
+      "id": "5081788",
+      "time": "2026-09-08 09:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震安科技等成立新公司，含新型金屬功能材料業務】企查查APP顯示，近日，東莞熱碼科技有限公司成立，經營範圍包含：金屬製品研發；有色金屬合金製造；有色金屬鑄造；有色金屬壓延加工；新型金屬功能材料銷售等。企查查股權穿透顯示，該公司由震安科技等共同持股。"
+    },
+    {
+      "id": "mkt:01a07eaa-e553-7118-84d7-3fe268a7c7da",
+      "time": "2026-09-08 09:38:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: Over half of Samsung's 4nm capacity allocated to HBM4】Samsung Electronics plans to sharply increase HBM4 supply from Q3 and has boosted wafer starts for HBM4 since mid-year to support mass production. Sources say more than 50% of Samsung Foundry's 4nm (SF4) capacity was allocated to HBM4 as of last month."
+    },
+    {
+      "id": "5081787",
+      "time": "2026-09-08 09:38:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將與美國密切溝通，以實現外匯市場有序執行。"
+    },
+    {
+      "id": "5081786",
+      "time": "2026-09-08 09:38:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達支援的Firmus與OpenAI簽署馬來西亞資料中心容量協議。"
+    },
+    {
+      "id": "5081785",
+      "time": "2026-09-08 09:38:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：自日美聯合干預以來，外匯立場未變。"
+    },
+    {
+      "id": "mkt:01a07eaa-7593-7118-84d7-3202213839ad",
+      "time": "2026-09-08 09:38:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share liquid-cooled server sector opened lower; Zhongshi Technology fell over 10%, with Haorsai, Gaolan, Kstar, Dayuan Pump and Jinfu Technology also trading down."
+    },
+    {
+      "id": "te:markets:581781",
+      "time": "2026-09-08 09:38:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Trade Notably Lower — Australian shares slipped 55 points or 0.6% to 8,956 in early Tuesday trade, extending weakness from the prior muted session. Sentiment was pressured by a sharp fall in U.S. futures as Wall Street prepared for a shortened week against the backdrop of the Middle East war and rising trade frictions between Canada and the U.S. Locally, consumer confidence dropped in September for the first time since June, hit by higher fuel costs and renewed fears of further rate hikes. Traders also grew cautious ahead of China’s August trade data due later today. Losses were led by tech services, financials, retail, and transport, though gains in non-energy minerals and consumer durables helped cushion declines. The big four banks fell between 0.7% and 1.4%, while BHP Group (-0.6%), Fortescue (-1.6%), and Bluescope Steel (-5.5%) underperformed. In contrast, Greatland Resources rose 1.1% and AMP Ltd. added 0.6%."
+    },
+    {
+      "id": "5081784",
+      "time": "2026-09-08 09:38:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農化製品板塊短線拉昇，瀘天化漲停】農化製品板塊短線拉昇，瀘天化漲停，金正大、赤天化、利民股份、新安股份、六國化工跟漲。"
+    },
+    {
+      "id": "5081783",
+      "time": "2026-09-08 09:37:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山：所有額外預算只可用於核心必要事項。"
+    },
+    {
+      "id": "5081782",
+      "time": "2026-09-08 09:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天機智慧完成B++輪戰略融資，螞蟻集團、SOFINA聯合領投】9月8日，據高鵠資本訊息，近日，廣東天機智慧系統有限公司宣佈完成B++輪戰略融資。本輪融資由螞蟻集團、SOFINA（Sofina Asia Private Ltd.）聯合領投，高榕創投、騰訊等老股東繼續跟投，高鵠資本擔任獨家財務顧問。新一輪資金將主要投入技術研發、規模化量產及全球市場佈局，持續完善核心技術與產品平臺，提升面向全球客戶的交付和服務能力。"
+    },
+    {
+      "id": "5081781",
+      "time": "2026-09-08 09:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對具體匯率水平置評。"
+    },
+    {
+      "id": "mkt:01a07ea9-c175-7118-84d7-2e9b20c9f4bb",
+      "time": "2026-09-08 09:37:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will not comment on specific FX levels."
+    },
+    {
+      "id": "5081780",
+      "time": "2026-09-08 09:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米18 Fold開啟預售】9月8日，小米手機發文稱，小米18 Fold預售已開啟，9月10日正式開售，首發搭載玄戒O3。"
+    },
+    {
+      "id": "5081779",
+      "time": "2026-09-08 09:36:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "PCB概念股再度拉昇，中京電子、興森科技2連板，迅捷興漲超10%，華正新材、超聲電子、崇達技術漲超6%。"
+    },
+    {
+      "id": "5081778",
+      "time": "2026-09-08 09:36:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山：不可否認，日本直到現在都依賴額外預算。"
+    },
+    {
+      "id": "5081777",
+      "time": "2026-09-08 09:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek擴招約150人】DeepSeek正重點面向2-10年資深工程師，招聘約150人。崗位方向涵蓋服務端開發工程師、Agent 彈性計算研發工程師等。（科創板日報）"
+    },
+    {
+      "id": "5081776",
+      "time": "2026-09-08 09:36:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摩爾執行緒跌超10%】摩爾執行緒開盤走低，跌超10%。"
+    },
+    {
+      "id": "5081775",
+      "time": "2026-09-08 09:36:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部阿富汗事務特使嶽曉勇赴巴基斯坦和沙特磋商】2026年8月30日至9月5日，外交部阿富汗事務特使嶽曉勇赴巴基斯坦和沙特磋商，與兩國主管官員就共同關心的問題深入交換意見。"
+    },
+    {
+      "id": "mkt:01a07ea8-7ecf-7118-84d7-2142b788b5d7",
+      "time": "2026-09-08 09:36:06",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said he will engage fully with markets and the public to enhance the credibility of Japan's fiscal policy."
+    },
     {
       "id": "mkt:01a07ea8-48ab-7118-84d7-185921698b79",
       "time": "2026-09-08 09:35:52",
