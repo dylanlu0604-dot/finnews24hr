@@ -1,7 +1,210 @@
 {
   "date": "2026-09-08",
-  "count": 1098,
+  "count": 1119,
   "items": [
+    {
+      "id": "5082181",
+      "time": "2026-09-08 14:14:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：下調兗礦能源AH股目標價，下調2026至28年淨利潤預測】華泰證券發表報告指，兗礦能源第二季歸母淨利潤環比下降，主要因第一季確認出售鑫泰公司股權帶來的28.43億元一次性收益，而扣非口徑盈利環比明顯改善。整體中期業績符合該行此前預期，主要受第二季煤炭及煤化工板塊量價齊升帶動。該行看好下半年煤炭供需偏緊背景下煤價中樞有望維持較高水平，以及油煤比價改善帶來的煤化工盈利彈性；同時，優質電力資產注入有望開啟長期增長空間。考慮到濟三電力電廠機組關停以及資產注入尚未交割、安監趨嚴及自產煤成本壓降不及預期等因素，該行下調兗礦能源2026至2028年歸母淨利潤預測至187.91億、139.84億及143.74億元，分別下調3%、7%及9%。該行維持對其“買入”評級，並將H股目標價由22.46港元下調至16.02港元，A股目標價由29.64元下調至26.78元。"
+    },
+    {
+      "id": "mkt:01a07fa7-2212-7118-84de-f1cf67bf457f",
+      "time": "2026-09-08 14:14:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03347.HK",
+        "Impact mixed"
+      ],
+      "text": "【HSBC cuts Tigermed PT 7.2% to HKD55.4, keeps buy rating】HSBC cut Tigermed (03347.HK) PT 7.2% to HKD55.4, lowered its A‑share PT to CNY71.5 and kept a buy rating. The bank raised 2026–28 revenue forecasts 2–11% after stronger new order bookings it expects to convert to revenue over the next 6–9 months. It trimmed gross‑margin forecasts by 69–294bps citing weaker consumer clinical‑trial orders and FX headwinds, and cut recurring net‑profit forecasts by 13% while raising 2027–28 recurring profit forecasts 2–11%. HSBC said 1H2026 revenue beat expectations but recurring net profit missed owing to lower ASPs in consumer trials and currency pressure; robust H1 new bookings underpin its upbeat 2026–28 revenue and recurring‑margin outlook. A new employee share plan implies recurring net profit in 2028 could be about 240% higher than 2025, supporting margin recovery."
+    },
+    {
+      "id": "5082180",
+      "time": "2026-09-08 14:14:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭氣化計劃第一階段收到7份申請。阿達尼集團與印度國家電力公司（NTPC）均為該煤炭氣化計劃首輪申報企業。"
+    },
+    {
+      "id": "mkt:01a07fa6-c3bd-7118-84de-e9be15fb3465",
+      "time": "2026-09-08 14:13:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple signs long-term NAND supply agreement with Kioxia; deal may lack price cap】According to the Korea Economic Forum, Apple (AAPL.O) and Japan’s Kioxia have signed a long-term NAND flash supply agreement. The report says the contract could run 3–5 years and may not include a price cap. If confirmed, the deal would suggest Apple is prioritizing guaranteed NAND supply over additional cost compression despite its strong bargaining position in memory pricing."
+    },
+    {
+      "id": "5082179",
+      "time": "2026-09-08 14:13:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數收盤下跌1%，報8920.80點。"
+    },
+    {
+      "id": "5082178",
+      "time": "2026-09-08 14:13:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.03%，成分股中，三協電機跌6.39%，艾融軟體跌4.39%，曙光數創跌2.92%，萬源通跌2.89%。"
+    },
+    {
+      "id": "mkt:01a07fa6-77a0-7118-84de-e78ac5a6dbea",
+      "time": "2026-09-08 14:13:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB likely to hike again this week but cautious on further action】The ECB is expected to raise its key rate on Thursday, marking a second increase since the outbreak of the US‑Iran war, but officials are likely to signal caution on further tightening as higher borrowing costs could curtail activity. Eurozone annual inflation rose to 3.3% in August, a near three‑year high and well above the ECB’s 2% target. Policymakers see no clear second‑round effects yet from the war‑linked closure of the Strait of Hormuz and the energy price spike, but warned prolonged conflict and sustained high energy prices would raise the risk of wage pressure and labour action, and that household heating costs should jump as winter approaches. President Lagarde is expected to stress that rates are not on a preset path and that further hikes are not inevitable, though she is unlikely to rule out additional action; some economists now see a third hike in December as possible."
+    },
+    {
+      "id": "5082177",
+      "time": "2026-09-08 14:13:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Arm釋出第二代移動終端計運算元系統Arm CSS for Mobile 2】9月8日，Arm在上海舉行Arm Everywhere China大會，併發布第二代移動終端計運算元系統Arm CSS for Mobile 2，在單一計算平臺中實現對智慧體AI和AI原生圖形技術的支援。介面新聞在釋出現場瞭解到，新平臺整合Arm Mali G2-Ultra NX GPU和C2 CPU叢集。其中，Mali G2-Ultra NX首次在Mali GPU中加入專用神經網路加速器，使圖形處理和神經網路計算可以在同一GPU處理管線中執行。Arm稱，在神經網路圖形場景下，其每瓦效能最高可提升4倍，現有遊戲效能較上一代最高提升14%。Arm執行副總裁兼首席商務官Will Abbey披露，目前，其全球合作伙伴累計出貨的基於Arm技術的晶片已超過3500億顆。（介面新聞記者 徐美慧）"
+    },
+    {
+      "id": "5082176",
+      "time": "2026-09-08 14:13:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工板塊區域性異動】航天長峰觸及漲停，航發科技、北方長龍、長城軍工、內蒙一機、北化股份等漲幅居前。"
+    },
+    {
+      "id": "5082175",
+      "time": "2026-09-08 14:13:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果與鎧俠簽署NAND長期供應協議 或不設價格上限】蘋果公司與日本鎧俠（Kioxia）簽署了一項NAND快閃記憶體的長期供應協議（LTA），報告對記憶體市場的推測表明，這份合同的期限為三到五年，並且可能沒有價格上限。這意味著，在記憶體價格談判中擁有巨大議價能力的蘋果公司，正將確保NAND快閃記憶體的穩定供應量置於壓縮成本之上。"
+    },
+    {
+      "id": "5082174",
+      "time": "2026-09-08 14:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股跌超11%】智譜港股跌11.44%，報901.50港元。"
+    },
+    {
+      "id": "5082173",
+      "time": "2026-09-08 14:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾與阿斯麥推進高NA EUV量產，已處理超100萬片晶圓】9月8日，英特爾晶圓代工（Intel Foundry）與阿斯麥（ASML）宣佈，雙方正持續推進高數值孔徑（High NA）極紫外光刻（EUV）技術的量產應用。英特爾目前已透過早期裝置認證、研發及部分量產環節處理超過100萬片晶圓，高NA EUV已用於英特爾酷睿Ultra 3系列處理器“Panther Lake”部分層的量產。英特爾表示，採用高NA EUV的英特爾18A製程產品效能達到或超過使用傳統0.33數值孔徑EUV光刻平臺的同類層。雙方還將繼續推動光罩從目前的6英寸向6×12英寸大尺寸光罩過渡，同時透過光罩拼接技術，讓客戶在現有6英寸光罩條件下獲得高NA EUV的部分優勢。"
+    },
+    {
+      "id": "5082172",
+      "time": "2026-09-08 14:12:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【萊檬生物完成近2億元B輪融資，中信建投資本領投】近日，廣州市萊檬生物科技有限公司宣佈完成總額近2億元人民幣的B輪融資。本輪由中信建投資本擔任領投方，渝富資本、湖北農發及運城產投等機構跟投。本輪融資將用於加速全國產能佈局、持續加碼研發投入、深化產業鏈協同、加速國際化程序、最佳化治理與資本結構。"
+    },
+    {
+      "id": "5082171",
+      "time": "2026-09-08 14:11:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲5%，現報9104.00元。"
+    },
+    {
+      "id": "mkt:01a07fa4-f124-7118-84de-d82bc35d8445",
+      "time": "2026-09-08 14:11:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Methanol front-month futures hit the daily limit, rising 6.03% to 3,359 yuan/ton."
+    },
+    {
+      "id": "5082170",
+      "time": "2026-09-08 14:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯證實本國能源設施遭到襲擊，多處地點發生火災。"
+    },
+    {
+      "id": "5082169",
+      "time": "2026-09-08 14:11:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報5982.00元。"
+    },
+    {
+      "id": "5082168",
+      "time": "2026-09-08 14:11:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3359.00元。"
+    },
+    {
+      "id": "te:economy:581876",
+      "time": "2026-09-08 14:11:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "German Trade Surplus Largest in Two Years — Germany’s trade surplus widened to €21.3 billion in July 2026 from €15.4 billion in June, exceeding expectations of a rise to €16 billion and marking the largest trade surplus since August 2024, as exports fell less sharply than imports. Exports went down 0.8% month-on-month to €138.2 billion, compared to expectations of a flat reading, as sales to EU countries declined 1.6%, while shipments to third countries edged up 0.2%, supported by a 19.1% jump in exports to the US. Exports to China fell 9.5%, while those to the UK declined 7.2%. Meanwhile, imports dropped 5.7% to €116.9 billion, as imports from EU countries fell 6.1%, while those from third countries decreased 5.3%, led by a 7.5% decline in imports from China."
+    },
+    {
+      "id": "5082167",
+      "time": "2026-09-08 14:11:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率下跌6.5個基點，至4.025%。"
+    },
+    {
+      "id": "te:economy:581875",
+      "time": "2026-09-08 14:10:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "German Export Drops 0.8% in July — Germany's exports decreased 0.8% month-on-month to €138.2 billion in July 2026, following a 0.9% increase in the previous month and compared with market expectations for no change. Shipments to EU member states declined 1.6% to €78 billion, mainly due to a 2.8% decrease in exports to the euro area (€53.9 billion), while exports to non-euro area countries increased 1.1% to €24.1 billion. Exports to third countries rose 0.2% to €60.2 billion, as stronger demand from the US (+19.1%) more than offset declines in exports to China (-9.5%) and the UK (-7.2%). For the January-July period, German exports increased 4% from the same period a year earlier, totaling €954.2 billion."
+    },
     {
       "id": "mkt:01a07fa3-f35f-7118-84de-d67878fa0386",
       "time": "2026-09-08 14:10:46",
