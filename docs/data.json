@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-08 13:28:44",
-  "count": 14092,
+  "updated": "2026-09-08 13:32:39",
+  "count": 14095,
   "items": [
+    {
+      "id": "5082100",
+      "time": "2026-09-08 13:31:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3913.00元。"
+    },
+    {
+      "id": "5082099",
+      "time": "2026-09-08 13:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報6100.00元。"
+    },
+    {
+      "id": "mkt:01a07f7f-3331-7118-84dd-6ae61e4d22fe",
+      "time": "2026-09-08 13:30:37",
+      "tags": [
+        "MKT News",
+        "NOVN.SW",
+        "Impact bearish"
+      ],
+      "text": "【Novartis Phase III DM1 drug del-desiran fails primary endpoint】Novartis said its Phase III HARBOR study of del-desiran in myotonic dystrophy type 1 (DM1) failed to meet the primary endpoint; video hand-opening time (vHOT) showed no statistically significant improvement versus placebo. The company reported signals of clinical activity in secondary and exploratory analyses and said safety was overall consistent with prior data. Novartis will analyze the full dataset and consult regulators to determine next steps."
+    },
+    {
+      "id": "te:markets:581860",
+      "time": "2026-09-08 13:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.71% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.71% increase."
+    },
+    {
+      "id": "5082098",
+      "time": "2026-09-08 13:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3298.00元。"
+    },
+    {
+      "id": "5082097",
+      "time": "2026-09-08 13:29:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "有色金屬板塊午後再度衝高，北方銅業封板漲停，西部礦業漲超7%，華新科技、江西銅業漲超6%，雲南銅業、高能環境、華錫有色等跟漲。"
+    },
+    {
+      "id": "5082096",
+      "time": "2026-09-08 13:28:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股生物技術板塊午後拉昇，劑泰科技漲近13%，百奧賽圖漲超8%，雲頂新耀、基石藥業漲超4%。"
+    },
+    {
+      "id": "5082095",
+      "time": "2026-09-08 13:28:28",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：8月比亞迪新能源乘用車出口184446輛 特斯拉中國出口36119輛】乘聯分會發布資料，8月新能源乘用車出口51.8萬輛，同比增長154.7%，環比下降5.0%。佔乘用車出口58.4%，較去年同期增長18個百分點；其中純電動佔新能源出口的63.4%(去年同期66.0%)。8月新能源出口方面優秀的企業是：比亞迪(184,446輛)、吉利汽車(69,910輛)、奇瑞汽車(68,431輛)、特斯拉中國(36,119輛)、長安汽車(28,323輛)、上汽乘用車(24,991輛)、零跑汽車(18,255輛)、上汽通用五菱(17,376輛)。"
+    },
+    {
+      "id": "5082094",
+      "time": "2026-09-08 13:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克預計2026年糧食收成將高於平均水平。"
+    },
     {
       "id": "mkt:01a07f7c-f19e-7118-84dd-63011cd3b790",
       "time": "2026-09-08 13:28:09",
@@ -128837,65 +128917,6 @@
         "Emerging Markets"
       ],
       "text": "India's Nifty 50 erased intraday losses and traded up 0.01%."
-    },
-    {
-      "id": "5070065",
-      "time": "2026-09-01 13:31:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY 50指數抹去盤中跌幅，最新上漲0.01%。"
-    },
-    {
-      "id": "mkt:01a05b72-f89c-7118-842a-88296dcaef22",
-      "time": "2026-09-01 13:30:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Ukrainian attack on Russia's Belgorod region killed one person, the local acting governor said."
-    },
-    {
-      "id": "5070064",
-      "time": "2026-09-01 13:30:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2026年國家基本公共衛生服務經費人均財政補助標準增至99元】為指導各地做好2026年基本公共衛生服務工作，國家衛生健康委、財政部、國家中醫藥局、國家疾控局今天釋出《關於做好2026年基本公共衛生服務工作的通知》。《通知》指出，2026年，基本公共衛生服務經費人均財政補助標準為99元，要求各地足額落實並規範管理使用經費，提升基本公共衛生服務均等化水平。"
-    },
-    {
-      "id": "5070063",
-      "time": "2026-09-01 13:30:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王春光出任東風康明斯發動機有限公司常務副總經理】據康明斯中國訊息，9月1日，王春光正式就任東風康明斯發動機有限公司（以下簡稱：東風康明斯）常務副總經理，全面負責東風康明斯的業務、運營及經營業績。原東風康明斯常務副總經理黃海濤出任康明斯中國合作伙伴關係戰略執行總監。"
-    },
-    {
-      "id": "5070062",
-      "time": "2026-09-01 13:30:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音回應推薦影片問題：正加急排查】大量抖音使用者反映被推送養生、AI短劇等不喜歡無關內容，彷彿“誤入中老年頻道”。甚至有使用者選擇“不感興趣”還被繼續推送，懷疑係統推薦演算法異常。“抖音推薦難看”也登上熱搜。 9月1日，抖音客服回應稱，已收到使用者反饋，平臺十分重視。目前在加急排查，具體原因請耐心等待，使用者可重啟APP嘗試恢復。（梨影片）"
-    },
-    {
-      "id": "mkt:01a05b71-3b71-7118-842a-82c2ea28f8d0",
-      "time": "2026-09-01 13:29:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Market Regions",
-        "Wall Street (US)",
-        "Greater China",
-        "Europe & UK",
-        "Japan & APAC",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100"
-      ],
-      "text": "【US holdings turned positive over past 4 weeks; short-term rebound may fade】Global flows: North America saw net inflows (longs added, shorts covered); EMEA and APAC recorded small net outflows. US four-week holdings turned positive for the first time, sitting at the 37th percentile since 2015; Europe, Japan, China and Hong Kong remain overall neutral. Historically the S&P 500 typically rallies one week after the Jackson Hole central bank symposium but shows mean reversion in weeks three to four, implying risk of a short-lived rebound followed by divergent, slightly weaker performance over the next few weeks to one month. Buy-side in the US is concentrated in tech and consumer, with software outperforming semiconductors. Over last week’s five trading days, hedge funds increased short positions in tech and healthcare by ~3%. Hedge funds sold US healthcare and bought European healthcare; historically the two-region spread has an 86% chance of at least partial convergence within two months. (Source: JP Morgan)"
     }
   ]
 }

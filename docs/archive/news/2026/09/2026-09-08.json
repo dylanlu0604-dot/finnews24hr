@@ -1,7 +1,87 @@
 {
   "date": "2026-09-08",
-  "count": 974,
+  "count": 983,
   "items": [
+    {
+      "id": "5082100",
+      "time": "2026-09-08 13:31:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3913.00元。"
+    },
+    {
+      "id": "5082099",
+      "time": "2026-09-08 13:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報6100.00元。"
+    },
+    {
+      "id": "mkt:01a07f7f-3331-7118-84dd-6ae61e4d22fe",
+      "time": "2026-09-08 13:30:37",
+      "tags": [
+        "MKT News",
+        "NOVN.SW",
+        "Impact bearish"
+      ],
+      "text": "【Novartis Phase III DM1 drug del-desiran fails primary endpoint】Novartis said its Phase III HARBOR study of del-desiran in myotonic dystrophy type 1 (DM1) failed to meet the primary endpoint; video hand-opening time (vHOT) showed no statistically significant improvement versus placebo. The company reported signals of clinical activity in secondary and exploratory analyses and said safety was overall consistent with prior data. Novartis will analyze the full dataset and consult regulators to determine next steps."
+    },
+    {
+      "id": "te:markets:581860",
+      "time": "2026-09-08 13:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.71% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.71% increase."
+    },
+    {
+      "id": "5082098",
+      "time": "2026-09-08 13:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3298.00元。"
+    },
+    {
+      "id": "5082097",
+      "time": "2026-09-08 13:29:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "有色金屬板塊午後再度衝高，北方銅業封板漲停，西部礦業漲超7%，華新科技、江西銅業漲超6%，雲南銅業、高能環境、華錫有色等跟漲。"
+    },
+    {
+      "id": "5082096",
+      "time": "2026-09-08 13:28:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股生物技術板塊午後拉昇，劑泰科技漲近13%，百奧賽圖漲超8%，雲頂新耀、基石藥業漲超4%。"
+    },
+    {
+      "id": "5082095",
+      "time": "2026-09-08 13:28:28",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：8月比亞迪新能源乘用車出口184446輛 特斯拉中國出口36119輛】乘聯分會發布資料，8月新能源乘用車出口51.8萬輛，同比增長154.7%，環比下降5.0%。佔乘用車出口58.4%，較去年同期增長18個百分點；其中純電動佔新能源出口的63.4%(去年同期66.0%)。8月新能源出口方面優秀的企業是：比亞迪(184,446輛)、吉利汽車(69,910輛)、奇瑞汽車(68,431輛)、特斯拉中國(36,119輛)、長安汽車(28,323輛)、上汽乘用車(24,991輛)、零跑汽車(18,255輛)、上汽通用五菱(17,376輛)。"
+    },
+    {
+      "id": "5082094",
+      "time": "2026-09-08 13:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克預計2026年糧食收成將高於平均水平。"
+    },
     {
       "id": "mkt:01a07f7c-f19e-7118-84dd-63011cd3b790",
       "time": "2026-09-08 13:28:09",
