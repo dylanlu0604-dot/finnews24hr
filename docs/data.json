@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-08 08:36:38",
-  "count": 14120,
+  "updated": "2026-09-08 08:40:34",
+  "count": 14119,
   "items": [
+    {
+      "id": "5081693",
+      "time": "2026-09-08 08:39:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國廣電與中國傳媒大學簽署戰略合作協議】據中國廣電訊息，9月7日，中國廣電與中國傳媒大學簽署戰略合作協議。根據協議，雙方將圍繞新型廣電網路建設、人工智慧創新融合應用、行業人才培養等重點領域深化合作。"
+    },
+    {
+      "id": "5081692",
+      "time": "2026-09-08 08:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國竹產業年產值超5200億】福建南平一家企業研發出一款竹材料無人機。它的翼展超2.5米，整機才7公斤重，平飛時速可達百公里，還能持續飛行一小時以上，效能直接拉滿！更厲害的是，它的蒙皮原料，全是以前沒人要、直接廢棄的竹青竹皮下腳料。造無人機只是“小試牛刀”，如今，小竹子還在解鎖更多新賽道。製鞋企業找上門定製竹纖維鞋底，海上光伏工程也開始批次應用竹基平臺，低碳又耐用。我國是竹資源大國，2025年竹產業年產值超5200億元。在“以竹代塑”倡議推動下，竹材料正加速進入低空經濟、海洋經濟、生物製藥、半導體封裝等多個領域。（央視財經）"
+    },
+    {
+      "id": "5081691",
+      "time": "2026-09-08 08:38:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【最大暗物質探測器LZ捕獲一例高能異常訊號，尚無法確認來自暗物質】位於美國南達科他州桑福德的地下研究設施LZ暗物質探測器是目前全球最大的暗物質直接探測專案，由39個機構聯合參與。研究團隊在梳理2023年3月至2024年4月間累計220天有效執行資料時，發現了一例可能是暗物質粒子、但無法用已知背景解釋的事件。該結果於近日在日本召開的TeV粒子天體物理學會議上公佈，論文已提交《物理評論快報》。（科技日報）"
+    },
+    {
+      "id": "5081690",
+      "time": "2026-09-08 08:38:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天融信中標國家管網集團網路安全釣魚大模型及智慧體採購專案】據天融信訊息，近日，天融信成功中標國家管網集團網路安全釣魚大模型及智慧體採購專案。專案按照《關於國家管網集團網路安全智慧化建設專案可行性研究報告的批覆》要求，建設網路安全釣魚大模型及智慧體：部署天問大模型，AI精準識別、動態防禦各類釣魚郵件；依託釣魚郵件檢測智慧體，精準檢測、高效研判釣魚行為；實現大模型/智慧體與現有安全防護體系標準化介面對接，構建智慧高效、持續進化的安全防護體系，築牢網路安全防線。"
+    },
+    {
+      "id": "5081689",
+      "time": "2026-09-08 08:37:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本債券出現2023年以來最大兩月外資流出規模】日本財務省初步投資組合流向資料顯示，6‑7月海外投資者合計拋售4.03萬億日元日本國債，創下2023年初以來最大的兩個月外資流出紀錄。週二公佈的資料顯示，6月外資拋售日本國債2.4萬億日元，7月繼續拋售1.63萬億日元。6月流出規模部分受季度債券到期兌付因素推高。7月，日本投資者減持美國、義大利主權債券，同時買入德國與法國主權債券。"
+    },
     {
       "id": "5081688",
       "time": "2026-09-08 08:35:37",
@@ -129116,70 +129158,6 @@
         "Importance 2"
       ],
       "text": "Gold Pressured by Fed Rate Hike Bets — Gold traded around $4,460 an ounce on Tuesday, hovering near two-week lows as rising oil prices and hawkish remarks from Federal Reserve Chair Kevin Warsh strengthened expectations for a US rate hike this month. Oil prices advanced for a second straight session after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan. Higher energy costs stoked inflation concerns, strengthening the case for a near-term Fed rate increase, which is typically negative for bullion. Meanwhile, Chair Warsh said the Fed would “have work to do” without clearer evidence that inflation is moving back toward its 2% target. Markets are now pricing in a more than 65% chance of a September hike, up from around 36% before his remarks. Despite the recent decline, gold still gained about 10% in August after the US Treasury announced plans to double liquidity-support buybacks of longer-dated bonds, reviving the so-called debasement trade."
-    },
-    {
-      "id": "te:economy:579708",
-      "time": "2026-09-01 08:40:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Thailand Manufacturing Sector Remains Solid — Thailand’s S&P Global Manufacturing PMI fell to 53.8 in August 2026 from a seven-month high of 54.2 in the previous month, but remained firmly in expansion territory for a sixteenth straight month. Manufacturing output continued to grow strongly, recording its second-fastest increase of the year as solid demand and new customer acquisitions supported production. New orders also rose at a robust pace, extending the current expansion streak to sixteen months. Meanwhile, employment edged lower, adding to capacity pressures across the sector. On the pricing front, input cost inflation remained broadly stable, while output price inflation softened to a five-month low. Business confidence strengthened further, reaching its highest level since January, with manufacturers citing improving sales pipelines, upcoming product launches, and growing optimism about future demand."
-    },
-    {
-      "id": "te:economy:579707",
-      "time": "2026-09-01 08:39:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Taiwan Manufacturing Growth Remains Solid — The S&P Global Taiwan Manufacturing PMI edged down to 54.7 in August 2026 from 55.1 in July, marking its softest reading in five months but remaining firmly in expansion territory. Output increased for the ninth consecutive month, while new orders rose at a rapid pace despite moderating from July. New export orders expanded at a faster rate, supported by stronger demand from key markets including the US, Europe, mainland China, Japan, India and Southeast Asia. Employment increased only marginally for the second month in a row, contributing to a sharper accumulation of backlogs. Purchasing activity remained strong, although supplier shortages led to a deterioration in delivery times. Input cost inflation accelerated for the first time in four months, driven by higher raw material prices and stronger demand for AI-related products, while output price inflation eased to a six-month low. Business confidence improved from July's three-month low, on expectations of sustained market demand.."
-    },
-    {
-      "id": "mkt:01a05a66-be14-7118-8423-af121c22ca39",
-      "time": "2026-09-01 08:37:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin fixed-open mixed fund will suspend trading from market open on Sept 1, 2026 until 10:30 that day."
-    },
-    {
-      "id": "te:economy:579705",
-      "time": "2026-09-01 08:37:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Philippines Factory Growth Strongest Since 2016 — The S&P Global Philippines Manufacturing PMI rose to 54.9 in August 2026 from 51.8 in July, marking the fourth consecutive month of growth and the strongest improvement in factory conditions since December 2016. New orders increased at the fastest pace in six months, while new export orders returned to growth for the first time in six months. Manufacturing output also expanded at its fastest rate since December 2016, and firms increased purchasing activity at the fastest pace in six months, while inventories of purchases rose for the first time since February despite supplier delays. Employment increased for the first time in five months, with job creation reaching its strongest pace in 21 months. Meanwhile, input cost pressures eased notably from July, while output inflation slowed to its weakest in six months. Business confidence surged to its highest level since November 2024, supported by expansion plans, new product launches and expectations of stronger orders and customer wins."
-    },
-    {
-      "id": "5069628",
-      "time": "2026-09-01 08:36:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死哈馬斯一名後勤指揮官 】以色列國防軍8月31日發表宣告稱，以軍當天早些時候在加沙城薩布拉地區開展行動，打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）加沙城後勤與補給部門指揮官奧馬爾·薩拉傑。 宣告稱，薩拉傑負責向加沙城地區的哈馬斯武裝人員供應武器，此次針對薩拉傑的行動旨在消除相關威脅。 以軍還聲稱，近期哈馬斯一直在推動針對以軍和以色列平民的襲擊，“系統性違反”停火協議。"
-    },
-    {
-      "id": "te:economy:579704",
-      "time": "2026-09-01 08:36:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Indonesia Manufacturing PMI Falls Back Into Contraction — Indonesia's S&P Global Manufacturing PMI slipped to 49.8 in August 2026 from July's five-month high of 50.2, signalling a mild deterioration in factory activity. Output and employment fell in five of the past six surveys, with the latest decline in output tied to stronger competition and higher goods prices. Demand conditions were broadly neutral, while backlogs rose for a second month, though at a slower pace. Purchasing activity stabilised after five months of contraction. Supplier delivery times lengthened slightly, with delays only marginally worse than July. On the cost side, price pressures continued to ease, yet input costs and output charges remained historically elevated, reflecting higher raw material and supplier prices often passed on to customers. Finally, business confidence strengthened to a seven-month high, supported by expectations of firmer demand and stable market conditions that could underpin higher production over the next year."
     }
   ]
 }
