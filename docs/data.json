@@ -1,7 +1,80 @@
 {
-  "updated": "2026-09-09 02:29:52",
-  "count": 13970,
+  "updated": "2026-09-09 02:33:42",
+  "count": 13969,
   "items": [
+    {
+      "id": "mkt:01a0824a-9dc5-7118-84f2-f6480b907e01",
+      "time": "2026-09-09 02:32:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $93.03 a barrel, up $1.55 or 1.69%."
+    },
+    {
+      "id": "mkt:01a0824a-8be7-7118-84f2-edd796fa2d27",
+      "time": "2026-09-09 02:31:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.77% at 946.83 yuan/gram in Tuesday (Sept 8) evening trade; silver T+D closed down 0.46% at 16,119.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0824a-8971-7118-84f2-e2875dfb4a70",
+      "time": "2026-09-09 02:31:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 0.70% to 949 yuan/gram, SHFE silver most-active contract fell 0.25% to 16,157 yuan/kg, and SC crude oil most-active contract rose 1.62% to 715 yuan/barrel."
+    },
+    {
+      "id": "5083585",
+      "time": "2026-09-09 02:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶93.03美元，上漲1.55美元，漲幅1.69%。"
+    },
+    {
+      "id": "5083584",
+      "time": "2026-09-09 02:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "貿易商稱，巴基斯坦國有機構已釋出招標，採購並進口75萬噸小麥。"
+    },
+    {
+      "id": "te:markets:582133",
+      "time": "2026-09-09 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates by 2.96% — Top crypto gainers are XRP (2.96%), Binance (1.77%) and Ether (0.37%). Biggest loser is Bitcoin (-0.48%)."
+    },
+    {
+      "id": "5083583",
+      "time": "2026-09-09 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.62%，報714.70元人民幣/桶。滬金夜盤收跌0.70%，滬銀收跌0.25%。"
+    },
     {
       "id": "te:markets:582132",
       "time": "2026-09-09 02:25:15",
@@ -127428,95 +127501,6 @@
         "XAUUSD"
       ],
       "text": "Iranian media reported new explosions at the ports of Asaluyeh and Bandar Lengeh in Hormozgan province."
-    },
-    {
-      "id": "5071556",
-      "time": "2026-09-02 02:33:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "WTI 10月原油期貨收漲4.46美元，漲幅5.20%，報90.22美元/桶。中東Abu Dhabi Murban原油期貨漲7.30%，報105.64美元/桶。NYMEX 10月天然氣期貨收報2.9040美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.1351美元/加侖，NYMEX 10月取暖油期貨收報4.6773美元/加侖。"
-    },
-    {
-      "id": "mkt:01a05e3e-3b62-7118-8442-8eac8d9d7c38",
-      "time": "2026-09-02 02:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Iranian media Fars News reports an explosion was heard in Asaluyeh, a major natural gas hub on the Persian Gulf coast."
-    },
-    {
-      "id": "5071555",
-      "time": "2026-09-02 02:31:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社：海灣沿岸關鍵天然氣樞紐阿薩盧耶傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:01a05e3d-83ab-7118-8442-86e7ce8bb5d6",
-      "time": "2026-09-02 02:31:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude oil futures settled at $90.22/bbl, up $4.46, or 5.20%."
-    },
-    {
-      "id": "mkt:01a05e3d-7d03-7118-8442-7fdf332cc424",
-      "time": "2026-09-02 02:31:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】At the 02:30 night session close, the Shanghai gold most-active contract fell 2.07% to 941 yuan/gram; the Shanghai silver most-active contract fell 3.14% to 15,749 yuan/kg; the SC crude oil most-active contract rose 7.93% to 688 yuan/barrel."
-    },
-    {
-      "id": "mkt:01a05e3c-cc16-7118-8442-725777fc1936",
-      "time": "2026-09-02 02:30:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D late session on Sept 1 (Tue) closed down 2.14% at 938.5 yuan/gram; silver T+D closed down 3.24% at 15,711 yuan/kg."
-    },
-    {
-      "id": "te:markets:580163",
-      "time": "2026-09-02 02:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 2.27% — Top crypto losers are XRP (-2.27%), Ether (-2.10%) and Bitcoin (-2.05%)."
-    },
-    {
-      "id": "5071554",
-      "time": "2026-09-02 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲7.93%，報687.70元人民幣/桶。滬金夜盤收跌2.07%，滬銀收跌3.14%。"
     }
   ]
 }

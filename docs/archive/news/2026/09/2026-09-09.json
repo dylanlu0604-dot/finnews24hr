@@ -1,7 +1,80 @@
 {
   "date": "2026-09-09",
-  "count": 146,
+  "count": 153,
   "items": [
+    {
+      "id": "mkt:01a0824a-9dc5-7118-84f2-f6480b907e01",
+      "time": "2026-09-09 02:32:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $93.03 a barrel, up $1.55 or 1.69%."
+    },
+    {
+      "id": "mkt:01a0824a-8be7-7118-84f2-edd796fa2d27",
+      "time": "2026-09-09 02:31:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.77% at 946.83 yuan/gram in Tuesday (Sept 8) evening trade; silver T+D closed down 0.46% at 16,119.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0824a-8971-7118-84f2-e2875dfb4a70",
+      "time": "2026-09-09 02:31:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 0.70% to 949 yuan/gram, SHFE silver most-active contract fell 0.25% to 16,157 yuan/kg, and SC crude oil most-active contract rose 1.62% to 715 yuan/barrel."
+    },
+    {
+      "id": "5083585",
+      "time": "2026-09-09 02:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶93.03美元，上漲1.55美元，漲幅1.69%。"
+    },
+    {
+      "id": "5083584",
+      "time": "2026-09-09 02:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "貿易商稱，巴基斯坦國有機構已釋出招標，採購並進口75萬噸小麥。"
+    },
+    {
+      "id": "te:markets:582133",
+      "time": "2026-09-09 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates by 2.96% — Top crypto gainers are XRP (2.96%), Binance (1.77%) and Ether (0.37%). Biggest loser is Bitcoin (-0.48%)."
+    },
+    {
+      "id": "5083583",
+      "time": "2026-09-09 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.62%，報714.70元人民幣/桶。滬金夜盤收跌0.70%，滬銀收跌0.25%。"
+    },
     {
       "id": "te:markets:582132",
       "time": "2026-09-09 02:25:15",
