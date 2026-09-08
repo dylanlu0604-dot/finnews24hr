@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-09 02:45:22",
-  "count": 13973,
+  "updated": "2026-09-09 02:49:12",
+  "count": 13975,
   "items": [
+    {
+      "id": "mkt:01a08259-a9ba-7118-84f3-231a1d1b6e11",
+      "time": "2026-09-09 02:48:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Danube at Budapest falls to record low of 1 cm】Hungary's water authority monitoring data showed the Danube at Budapest plunged to a new historic low of 1 cm on the 8th (local time). The extreme low has severely disrupted river navigation, with exposed riverbed debris threatening traffic, and Hungary's only nuclear plant, Paks, briefly facing shutdown risk due to cooling-water constraints. Water specialists attribute the fall to extreme drought across the Danube basin; at the end of July the Budapest gauge read 27 cm, already below the prior record of 33 cm set on Oct. 25, 2018."
+    },
+    {
+      "id": "5083598",
+      "time": "2026-09-09 02:48:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "5083597",
+      "time": "2026-09-09 02:48:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "5083596",
+      "time": "2026-09-09 02:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗哈爾格島發生爆炸。"
+    },
+    {
+      "id": "te:economy:582136",
+      "time": "2026-09-09 02:47:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Drop as Election Race Tightens — Brazil’s 10-year government bond yield fell to arround 14.21% from a near one-month high of 14.90% reached on August 14th, following the release of new polls on the 2026 presidential election. The polls showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential October runoff. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that the effects of monetary tightening are increasingly visible, potentially leaving room for further Selic cuts."
+    },
+    {
+      "id": "5083595",
+      "time": "2026-09-09 02:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多瑙河布達佩斯段水位再創新低：一釐米】據匈牙利水務部門監測資料，當地時間8日，多瑙河布達佩斯段水位急劇下降，降至新的歷史低點——1釐米。低水位嚴重影響多瑙河航運，河床中的物品也對水上交通構成直接威脅，匈牙利唯一核電站，保克什核電站也因低水位一度面臨停運風險。水務專家將低水位歸因於多瑙河流域極端乾旱天氣。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08257-97e5-7118-84f3-193e1952b1b0",
+      "time": "2026-09-09 02:46:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iranian state media reported the joint military command said that if Iranian vessels are attacked it would \"deal a heavy blow\" to US interests in the Middle East."
+    },
+    {
+      "id": "5083594",
+      "time": "2026-09-09 02:45:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方聯合指揮部表示，若伊朗船隻遭到襲擊，將\"嚴厲打擊\"美國在中東地區的利益。"
+    },
     {
       "id": "5083593",
       "time": "2026-09-09 02:44:39",
@@ -127480,59 +127558,6 @@
         "國際"
       ],
       "text": "法爾斯通訊社：伊朗稱美國襲擊了霍爾木茲甘省南部的庫赫斯塔克。"
-    },
-    {
-      "id": "5071562",
-      "time": "2026-09-02 02:48:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷外長：將以更具體的外交行動維護馬島主權】阿根廷外交部長巴勃羅·基爾諾8月31日晚表示，將以更具體的外交行動和更有效的手段維護阿根廷對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。據悉，阿政府內閣會議1日將討論涉及馬島的問題。（新華社）"
-    },
-    {
-      "id": "mkt:01a05e4d-3d52-7118-8442-c99beb3ef4cf",
-      "time": "2026-09-02 02:48:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's embassy in Germany called Germany's claim that Moscow was involved in an attempted drone attack on Leipzig airport baseless and absurd."
-    },
-    {
-      "id": "5071561",
-      "time": "2026-09-02 02:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯大使館：德國稱莫斯科策劃萊比錫機場無人機襲擊未遂事件的說法毫無依據且十分荒謬。"
-    },
-    {
-      "id": "te:markets:580165",
-      "time": "2026-09-02 02:46:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil is up by 5% — Brent Crude Oil increased 5% to 95.019 USD/Bbl"
-    },
-    {
-      "id": "mkt:01a05e4b-66fe-7118-8442-c3656c965b3e",
-      "time": "2026-09-02 02:46:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK deputy finance minister Reynolds said, as a general principle, free trade is preferable to erecting barriers."
-    },
-    {
-      "id": "mkt:01a05e4b-2050-7118-8442-becb04bcc63b",
-      "time": "2026-09-02 02:46:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Financial Secretary to the Treasury Reynolds said reducing global imbalances is a sensitive issue and that the UK will respond appropriately."
     }
   ]
 }
