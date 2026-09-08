@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09 02:25:58",
-  "count": 13980,
+  "updated": "2026-09-09 02:29:52",
+  "count": 13970,
   "items": [
     {
       "id": "te:markets:582132",
@@ -127517,104 +127517,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲7.93%，報687.70元人民幣/桶。滬金夜盤收跌2.07%，滬銀收跌3.14%。"
-    },
-    {
-      "id": "mkt:01a05e3b-815d-7118-8442-6c269bd1ae17",
-      "time": "2026-09-02 02:29:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News reported the governor of Asaluyeh county said explosions were heard in the county."
-    },
-    {
-      "id": "mkt:01a05e3b-7949-7118-8442-67910ae25607",
-      "time": "2026-09-02 02:29:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude rose sharply; WTI breached $89/bbl, up 4.22% intraday, while Brent hit $94/bbl, up 4.07% on the day."
-    },
-    {
-      "id": "5071553",
-      "time": "2026-09-02 02:29:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗武裝部隊發起決定性行動，回擊美國這一恐怖主義敵人。美國在該地區的基地及利益將成為伊朗導彈與無人機的打擊目標。"
-    },
-    {
-      "id": "mkt:01a05e3a-fbfd-7118-8442-5ed3a255809e",
-      "time": "2026-09-02 02:28:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iran's armed forces said they have launched a decisive operation in response to the United States and that U.S. bases and interests in the region will be targeted by Iranian missiles and drones."
-    },
-    {
-      "id": "5071552",
-      "time": "2026-09-02 02:28:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破77000美元，日內跌2.27%。"
-    },
-    {
-      "id": "5071551",
-      "time": "2026-09-02 02:27:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院透過臨時撥款法案 以避免政府“停擺”】當地時間9月1日，美國國會眾議院透過一項聯邦政府臨時撥款法案，以避免10月1日發生政府“停擺”，並將法案送交美國總統特朗普簽署。聯邦政府當前撥款預算在9月30日到期。8月8日，美國國會參議院以90票贊成、6票反對的結果透過一項聯邦政府臨時撥款法案，以讓大部分聯邦政府機構在當前資金支援水平下運轉至12月11日。（央視新聞）"
-    },
-    {
-      "id": "5071550",
-      "time": "2026-09-02 02:27:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達呼籲美伊重返談判 外交解決危機】卡達外交部發言人馬吉德·安薩里當地時間9月1日在多哈舉行的例行記者會上表示，地區局勢再次升級不符合任何一方利益，呼籲有關各方保持理性、重返談判軌道。安薩里表示，如果霍爾木茲海峽問題持續得不到解決，並將海峽關閉狀態正常化，將導致局勢進一步升級。安薩里表示，卡達正與地區和國際夥伴繼續開展外交斡旋，與阿曼、巴基斯坦等斡旋夥伴的磋商仍在進行。卡方正推動透過外交方式解決霍爾木茲海峽危機，確保海峽恢復開放和航行自由。 (央視新聞)"
-    },
-    {
-      "id": "5071549",
-      "time": "2026-09-02 02:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普稱美國新一輪打擊目標為伊朗雷達系統。"
-    },
-    {
-      "id": "mkt:01a05e39-2264-7118-8442-5103a739434e",
-      "time": "2026-09-02 02:26:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms CEO Mark Zuckerberg said countries should not restrict open-weight AI models."
-    },
-    {
-      "id": "5071548",
-      "time": "2026-09-02 02:26:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "扎克伯格在二十國集團技術會議上表示，各國不應限制開放權重人工智慧模型。"
     }
   ]
 }
