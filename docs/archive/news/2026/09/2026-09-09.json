@@ -1,7 +1,33 @@
 {
   "date": "2026-09-09",
-  "count": 362,
+  "count": 365,
   "items": [
+    {
+      "id": "mkt:01a082eb-f493-7118-84f5-21083d3bae23",
+      "time": "2026-09-09 05:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Supreme Court denied Missouri's request to use a Republican-drawn congressional district map in the November midterm elections."
+    },
+    {
+      "id": "5083713",
+      "time": "2026-09-09 05:27:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們干預日元匯率時，我掌握充分內情。充分洞悉日本央行及政策制定者的動向。"
+    },
+    {
+      "id": "5083712",
+      "time": "2026-09-09 05:27:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我掌握非對稱資訊，如今我就是莊家。（談及日元）想和我對賭儘管來，我掌握資訊。"
+    },
     {
       "id": "5083711",
       "time": "2026-09-09 05:24:57",
