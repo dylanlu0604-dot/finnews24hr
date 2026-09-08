@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-09 04:34:21",
-  "count": 13916,
+  "updated": "2026-09-09 04:38:17",
+  "count": 13905,
   "items": [
+    {
+      "id": "5083669",
+      "time": "2026-09-09 04:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "Liv Golf在美國新澤西州申請破產。"
+    },
+    {
+      "id": "te:markets:582148",
+      "time": "2026-09-09 04:34:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.17% Lower — The Dow Jones Index dropped 627 points or 1.17 percent on Tuesday to close at 52788 points. Losses were led by Amgen (-10.15%), Salesforce (-3.94%) and Home Depot (-2.32%)."
+    },
     {
       "id": "te:markets:582147",
       "time": "2026-09-09 04:32:44",
@@ -126995,126 +127015,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：烏克蘭襲擊造成的損失相當於俄羅斯GDP的1%。"
-    },
-    {
-      "id": "mkt:01a05eb1-492c-7118-8445-5209d2b6c810",
-      "time": "2026-09-02 04:37:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tavanir CEO said multiple sites on the power grid in Iran's Hormozgan province were attacked; the company is working to restore outages and reconnect users within the next hour."
-    },
-    {
-      "id": "5071674",
-      "time": "2026-09-02 04:37:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：（出口影響）目前情況並不危急，我們將作出回應。"
-    },
-    {
-      "id": "5071673",
-      "time": "2026-09-02 04:36:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭襲擊影響了俄羅斯出口。"
-    },
-    {
-      "id": "mkt:01a05eb0-7c7c-7118-8445-4a29a14967b4",
-      "time": "2026-09-02 04:36:59",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Putin said Russia will respond."
-    },
-    {
-      "id": "mkt:01a05eb0-6ae3-7118-8445-415c61e20a91",
-      "time": "2026-09-02 04:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin: This is not serious."
-    },
-    {
-      "id": "mkt:01a05eb0-6a59-7118-8445-3f2c3ab52a65",
-      "time": "2026-09-02 04:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said Ukraine's attack inflicted actual losses on the United States."
-    },
-    {
-      "id": "5071672",
-      "time": "2026-09-02 04:36:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：烏克蘭領導層是否享有（打擊）豁免權？\n俄羅斯總統普京：我們不實施這類打擊，是因為我們還需要保留談判物件，前提是他們願意謀求和平。"
-    },
-    {
-      "id": "mkt:01a05eaf-b2e9-7118-8445-31e04810139f",
-      "time": "2026-09-02 04:36:07",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Putin: Russia's conditions for the earlier Black Sea grain deal were not met."
-    },
-    {
-      "id": "mkt:01a05eaf-4be1-7118-8445-2cd2577f52b9",
-      "time": "2026-09-02 04:35:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said decrees aimed at protecting infrastructure do not imply nationalization of the assets concerned."
-    },
-    {
-      "id": "5071671",
-      "time": "2026-09-02 04:35:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京談及亞美尼亞：如果亞美尼亞認為境內不需要俄羅斯軍事基地，我們明天就可以撤走。但亞美尼亞做好相應準備了嗎？倘若已經準備妥當，我們不會強行留下。但如果亞美尼亞民眾希望本國保留俄羅斯軍事力量，那我們就會駐守於此。"
-    },
-    {
-      "id": "te:markets:580179",
-      "time": "2026-09-02 04:35:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.79% Lower — The Dow Jones Index dropped 418 points or 0.79 percent on Tuesday to close at 52768 points. Losses were led by Sherwin-Williams (-2.63%), Goldman Sachs (-2.52%) and Nike (-2.46%). Offsetting the fall, top gainers were Apple (2.58%), Chevron (2.33%) and J&J (2.14%)."
-    },
-    {
-      "id": "5071670",
-      "time": "2026-09-02 04:34:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：John Ternus獲授按比例計算的限制性股票單位獎勵，2026財年目標價值250萬美元。"
-    },
-    {
-      "id": "mkt:01a05eae-3683-7118-8445-21cb21cf3d54",
-      "time": "2026-09-02 04:34:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) said in an SEC filing that Executive Chair Cook's annual salary will be set at $2.0m effective Sept. 26, 2026, and he was approved for a FY2027 annual equity award with a target value of $45.0m."
     }
   ]
 }

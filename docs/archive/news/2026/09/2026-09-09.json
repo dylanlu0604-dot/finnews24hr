@@ -1,7 +1,27 @@
 {
   "date": "2026-09-09",
-  "count": 298,
+  "count": 300,
   "items": [
+    {
+      "id": "5083669",
+      "time": "2026-09-09 04:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "Liv Golf在美國新澤西州申請破產。"
+    },
+    {
+      "id": "te:markets:582148",
+      "time": "2026-09-09 04:34:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.17% Lower — The Dow Jones Index dropped 627 points or 1.17 percent on Tuesday to close at 52788 points. Losses were led by Amgen (-10.15%), Salesforce (-3.94%) and Home Depot (-2.32%)."
+    },
     {
       "id": "te:markets:582147",
       "time": "2026-09-09 04:32:44",
