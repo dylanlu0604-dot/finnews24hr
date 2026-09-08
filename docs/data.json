@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-09 04:58:10",
-  "count": 13875,
+  "updated": "2026-09-09 05:02:10",
+  "count": 13874,
   "items": [
+    {
+      "id": "5083680",
+      "time": "2026-09-09 05:01:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：利率未來走勢將逐次會議評估。"
+    },
+    {
+      "id": "5083679",
+      "time": "2026-09-09 05:00:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行維持基準利率在4.5%不變；預期為4.50%。"
+    },
     {
       "id": "mkt:01a082cd-01d2-7118-84f4-ae78453989c2",
       "time": "2026-09-09 04:54:28",
@@ -126667,39 +126685,6 @@
         "DXY"
       ],
       "text": "The IRGC Aerospace Force released footage showing Iran launch ballistic missiles toward Jordan, saying the strikes were part of tonight's retaliatory action against US bases. Reported primary targets were Jordan's Muwaffaq Salti Air Base and Titin camp."
-    },
-    {
-      "id": "5071695",
-      "time": "2026-09-02 05:01:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美所謂精確打擊導彈易傷平民】總部位於英國的衝突觀察組織“空戰”在接受美聯社採訪時表示，他們對美以伊戰爭首日、也就是今年2月28日美軍對伊朗南部拉梅爾德市一次襲擊進行調查後發現，美軍在實戰中或首次使用了洛克希德-馬丁公司的最新一代“精確打擊導彈”。“空戰”組織指出，這種導彈會在空中爆炸並大範圍釋放彈丸，極易造成大量平民傷亡。伊朗方面稱，美軍本次襲擊造成包含7名兒童在內的至少21名平民死亡。美聯社報道稱，美軍承認向伊朗境內發射了“精確打擊導彈”，但否認襲擊拉梅爾德地區。不過，有至少6名武器專家在受訪時表示，當地的彈孔痕跡符合遭“精確打擊導彈”襲擊的特徵。 （CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:580181",
-      "time": "2026-09-02 05:00:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Inventories Resume Drawdown — US crude oil inventories fell by 2.6 million barrels in the week ending August 28th, according to the American Petroleum Institute (API), following a 4.2 million-barrel increase in the previous week. Commercial crude inventories excluding the SPR have declined by just over 48 million barrels over the past 20 weeks, while total US crude inventories are up 3.1 million barrels year-to-date. Another 3.1 million barrels left the SPR, bringing total reserves to 286.6 million barrels, within the generally accepted operational minimum of 250-300 million barrels. US crude production rose to 13.843 million bpd in the week ending August 21st from 13.830 million bpd, up 461,000 bpd year-on-year. Meanwhile, gasoline inventories increased by 300,000 barrels after falling 3.2 million barrels the previous week, while distillate stocks declined by 300,000 barrels following a 500,000-barrel draw. Cushing inventories rose by 200,000 barrels after increasing by 1 million barrels previously."
-    },
-    {
-      "id": "mkt:01a05ec4-77a1-7118-8446-109b4574bf85",
-      "time": "2026-09-02 04:58:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says it struck US Marine camp on Jordan's Gulf of Aqaba with heavy ballistic missiles】Iran's Islamic Revolutionary Guard Corps said early today it fired heavy ballistic missiles at a US Marine Corps camp on Jordan's Gulf of Aqaba coast, claiming it destroyed several key facilities and attack helicopters and caused numerous US casualties. The IRGC said the retaliation was continuing."
     }
   ]
 }
