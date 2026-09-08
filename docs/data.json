@@ -1,7 +1,238 @@
 {
-  "updated": "2026-09-08 18:21:43",
-  "count": 14238,
+  "updated": "2026-09-08 18:25:32",
+  "count": 14256,
   "items": [
+    {
+      "id": "mkt:01a0808c-abae-7118-84e7-6dde2c4b4364",
+      "time": "2026-09-08 18:24:57",
+      "tags": [
+        "MKT News",
+        "BSX.N",
+        "Impact bearish"
+      ],
+      "text": "Boston Scientific (BSX.N) fell 6.1% in pre-market trading after the company confirmed a cybersecurity incident that has disrupted its global operations."
+    },
+    {
+      "id": "mkt:01a0808c-7799-7118-84e7-62471cf98fef",
+      "time": "2026-09-08 18:24:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "UK government says a general licence will allow Azerbaijan's Shah Deniz gas field to continue operating."
+    },
+    {
+      "id": "5082842",
+      "time": "2026-09-08 18:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本監管機構警惕利率上升給銀行帶來的風險】日本金融監管機構正密切關注銀行是否妥善管理利率上升給各項業務帶來的風險，涉及債券持倉、企業貸款以及超長期抵押貸款等各個方面。日本金融廳長官Yutaka Ito在接受採訪時表示，該機構已經充分掌握金融機構的資產狀況，目前正在審查其風險管理情況。“如果發現不足，我們將敦促其採取整改措施。”"
+    },
+    {
+      "id": "5082841",
+      "time": "2026-09-08 18:24:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：通用許可證將允許亞塞拜然沙赫德尼茲氣田繼續運營。"
+    },
+    {
+      "id": "mkt:01a0808b-9894-7118-84e7-5f83d0ab120e",
+      "time": "2026-09-08 18:23:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "UK government expands restrictions on Iran's financial, trade and aviation sectors."
+    },
+    {
+      "id": "5082840",
+      "time": "2026-09-08 18:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：擴大對金融、貿易及航空領域的限制措施。"
+    },
+    {
+      "id": "mkt:01a0808b-616e-7118-84e7-53dd36bb625c",
+      "time": "2026-09-08 18:23:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "HSBC says its baseline assumption is that flows through the Strait of Hormuz will partially and gradually recover, and that new Gulf pipelines will increase export capacity."
+    },
+    {
+      "id": "mkt:01a0808b-2686-7118-84e7-4ff0008f01db",
+      "time": "2026-09-08 18:23:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "UK government says it will further expand its powers to sanction vessels linked to Iran."
+    },
+    {
+      "id": "5082839",
+      "time": "2026-09-08 18:23:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行表示，其基準情景假設霍爾木茲海峽的航運流量將逐步部分恢復，同時新的海灣輸油管道將提升出口運力。"
+    },
+    {
+      "id": "5082838",
+      "time": "2026-09-08 18:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：該法案將進一步擴大我們制裁船舶的權力。"
+    },
+    {
+      "id": "5082837",
+      "time": "2026-09-08 18:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國警方已逮捕涉嫌實施一系列電網破壞活動的嫌疑人。"
+    },
+    {
+      "id": "5082836",
+      "time": "2026-09-08 18:23:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：根據該立法，對伊朗的貿易禁令範圍擴大，新增了更多商品、技術與服務類別。"
+    },
+    {
+      "id": "5082835",
+      "time": "2026-09-08 18:22:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珠免集團：康格投資擬受讓海投公司96.28%股權】珠免集團公告，珠海康格投資有限公司擬以非公開協議方式受讓珠海華髮集團有限公司直接或間接持有的珠海投資控股有限公司96.28%股權，交易完成後將透過海投公司間接持有公司44.95%股權，成為公司間接控股股東；本次收購已取得現階段必要授權和批准，尚待履行經營者集中審查等程式。"
+    },
+    {
+      "id": "mkt:01a0808a-b533-7118-84e7-410b67aa2d71",
+      "time": "2026-09-08 18:22:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "UK government says under the legislation it is expanding trade bans on Iran to additional goods, technologies and services."
+    },
+    {
+      "id": "mkt:01a0808a-9e69-7118-84e7-3f3b07fa012a",
+      "time": "2026-09-08 18:22:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "HSBC raised its 2027 Brent crude forecast to $85/bbl from $65/bbl and lifted its long-term assumption for 2028 onwards to $75/bbl."
+    },
+    {
+      "id": "5082834",
+      "time": "2026-09-08 18:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西監管機構批准味好美收購聯合利華食品業務。"
+    },
+    {
+      "id": "5082833",
+      "time": "2026-09-08 18:22:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將2027年布倫特油價預測從每桶65美元上調至每桶85美元，並將2028年起的長期油價假設從每桶原預測值上調至每桶75美元。"
+    },
+    {
+      "id": "mkt:01a0808a-72f2-7118-84e7-36407514fc12",
+      "time": "2026-09-08 18:22:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Market sources: The UK government will propose legislation aimed at addressing Iran's nuclear activities and other hostile actions."
+    },
+    {
+      "id": "5082832",
+      "time": "2026-09-08 18:22:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "英國政府：將出臺立法，以打擊伊朗核活動及伊朗其他敵對活動。"
+    },
+    {
+      "id": "5082831",
+      "time": "2026-09-08 18:22:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普稱，在美國贏得與伊朗的戰爭後，全球油價及全美零售汽油價格將迎來“斷崖式下跌”，最終甚至會跌破每加侖2美元關口。\n2、特朗普與伯納姆通電話。談及經濟議題，伯納姆對美國最新就業資料向特朗普表示祝賀，同時指出英國本國經濟顯現增長積極訊號。伯納姆稱，政府正在為英國營造更多向好態勢，相關工作已取得進展，但仍有更多工有待完成。\n3、特朗普：美國境內不再銷售龐巴迪產品。如果他們想要進入我們的市場，就必須在本土建廠。\n4、美國總統特朗普當地時間週一在社交平臺釋出了一張地圖，將美國國旗圖案覆蓋在美國、加拿大、墨西哥、中美洲大部分地區、格陵蘭島、冰島、古巴和牙買加等加勒比島嶼上。\n5、俄羅斯總統新聞秘書佩斯科夫表示，俄羅斯不排除重啟與美國和烏克蘭三方會談，但地點和時機尚難確定。\n6、白宮：特朗普將於週二下午1點簽署行政命令。\n7、日本尋求9月下旬高市早苗與特朗普會談。\n8、美國總統特朗普將於美國東部時間週二上午10:35出席鋼鐵行業相關活動。"
+    },
+    {
+      "id": "mkt:01a0808a-0d23-7118-84e7-2cce9cc4198e",
+      "time": "2026-09-08 18:22:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Qatar's Foreign Ministry said keeping the Strait of Hormuz open is vital for Qatar and all countries in the region."
+    },
+    {
+      "id": "mkt:01a08089-c7cb-7118-84e7-263bb09da6d9",
+      "time": "2026-09-08 18:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the current \"neither at war nor at peace\" status in the region is unacceptable."
+    },
+    {
+      "id": "5082830",
+      "time": "2026-09-08 18:21:36",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "滙豐銀行將2026年布倫特原油價格預測從之前的每桶80美元上調至每桶90美元，其中預計2026年第四季度布倫特原油價格為每桶95美元。"
+    },
+    {
+      "id": "5082829",
+      "time": "2026-09-08 18:21:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈犀互娛宣佈將停運《旅行青蛙·中國旅行》】9月8日，靈犀互娛旗下游戲《旅行青蛙·中國之旅》釋出公告稱，由於IP授權合作到期，《旅行青蛙·中國之旅》將於2026年12月8日正式停止運營。自今日下午2時起，遊戲關閉全平臺的下載入口。"
+    },
+    {
+      "id": "5082828",
+      "time": "2026-09-08 18:21:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "波士頓科學遭遇網路攻擊後，或將無法達成業績預期 。波士頓科學盤前股價下跌4.1%。"
+    },
     {
       "id": "mkt:01a08089-38ba-7118-84e7-1a226f651834",
       "time": "2026-09-08 18:21:11",
@@ -129962,71 +130193,6 @@
         "公司"
       ],
       "text": "Softcare 股東擬配售約 5000 萬美元股份。"
-    },
-    {
-      "id": "5070744",
-      "time": "2026-09-01 18:25:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中英科技股價大跌，公司回應：下游對覆銅板需求整體正常，目前沒有收到漲價通知】對於股價大跌，中英科技方面回應中國證券報記者，股價受多重因素影響，公司主要涉及高頻覆銅板領域，高速覆銅板還在研發中。下游PCB產業對覆銅板需求整體比較正常，電子布、銅箔屬於公司的原材料，採購成本整體可控。公司覆銅板價格會根據市場情況進行調整，目前公司沒有可以對外披露的9月份產品價格變動的資訊，未來價格存在不確定性。具體情況以實際銷售及公告內容為準。（中證報）"
-    },
-    {
-      "id": "5070743",
-      "time": "2026-09-01 18:24:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪榕生物：為全資子公司提供6750萬元擔保】雪榕生物公告稱，公司為全資子公司廣東雪榕與農業銀行的2000萬元流動資金借款提供連帶責任保證，本次使用2026年度擔保額度6750萬元，屬於已審議的擔保額度範圍。截至公告日，公司及子公司累計審批對外擔保額度26.58億元，實際擔保餘額10.68億元，佔2025年度經審計總資產、淨資產比例分別為29.66%、70.59%，無逾期擔保及涉訴擔保情形。"
-    },
-    {
-      "id": "te:economy:580031",
-      "time": "2026-09-01 18:24:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Industrial Output Growth Eases in July — North Macedonia’s industrial production increased 1.3% year-on-year in July 2026, slowing sharply from 6.5% in the previous month. Output growth eased in manufacturing (3.4% vs 7.9% in June), particularly for food products, textiles, wearing apparel, and other transport equipment, while declines deepened in mining and quarrying (-5.9% vs -3.8%) and electricity, gas, steam and air conditioning supply (-19.5% vs -8.2%). By industrial grouping, production fell for capital goods (-2.9% vs 8.6%) and durable consumer goods (-9.9% vs 8.6%), while the decline in energy deepened (-22.2% vs -11.1%). Output of intermediate goods excluding energy also slowed (9.2% vs 11.7%). In contrast, output of non-durable consumer goods rose faster (3.1% vs 2.0%). In the January-July period, industrial output increased 0.9% from the corresponding period a year earlier."
-    },
-    {
-      "id": "5070742",
-      "time": "2026-09-01 18:23:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傲農生物：收到行政處罰事先告知書，擬罰250萬元】傲農生物公告，公司此前因涉嫌資訊披露違法違規於2026年4月22日收到中國證監會《立案告知書》。近日，公司及相關當事人收到福建證監局《行政處罰事先告知書》，擬對公司責令改正、給予警告並處250萬元罰款，並對吳有林、彭江、蘇明城、楊州分別處140萬元、105萬元、50萬元、20萬元罰款。"
-    },
-    {
-      "id": "te:economy:580030",
-      "time": "2026-09-01 18:23:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Total Vehicle Sales",
-        "Importance 1"
-      ],
-      "text": "Spain Car Sales Reach Highest August Level Since 2019 — Spain’s new passenger car registrations rose 11.8% year-on-year to 68,544 units in August 2026, marking the strongest August since 2019. Sales returned to growth despite the holiday period, supported by strong demand for electrified vehicles, which accounted for more than a quarter of the market. Rental registrations posted the strongest growth, rising 32% to 2,268 units, followed by business sales, which increased 13.1% to 27,167 units. Private registrations rose 9.9% to 39,109 units. Year to date, 818,201 new passenger cars have been registered, up 6.3% from a year earlier. Electrified vehicle registrations, including BEVs and PHEVs, jumped 27% in August to 18,967 units, giving them a 27.7% market share. So far this year, 185,340 electrified vehicles have been sold, up 34.1% year-on-year and accounting for 22.6% of total registrations."
-    },
-    {
-      "id": "5070740",
-      "time": "2026-09-01 18:22:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果官網更新：約翰 · 特努斯正式擔任蘋果執行長。"
-    },
-    {
-      "id": "5070739",
-      "time": "2026-09-01 18:21:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "GOPRO盤前股價漲幅擴大至100%。"
     }
   ]
 }
