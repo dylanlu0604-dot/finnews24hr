@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-09 05:02:10",
-  "count": 13874,
+  "updated": "2026-09-09 05:06:11",
+  "count": 13879,
   "items": [
+    {
+      "id": "5083684",
+      "time": "2026-09-09 05:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：伊朗對相關報道表示關注，並就韓國在霍爾木茲海峽的角色相關報道尋求解釋。"
+    },
+    {
+      "id": "mkt:01a082d6-f0fd-7118-84f4-bdc92094ac91",
+      "time": "2026-09-09 05:05:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chile's central bank said it will take necessary measures to ensure expected inflation reaches 3% within two years."
+    },
+    {
+      "id": "5083683",
+      "time": "2026-09-09 05:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：韓法雙方討論了為霍爾木茲海峽安全提供支援，並未談及兵力部署。"
+    },
+    {
+      "id": "te:economy:582150",
+      "time": "2026-09-09 05:03:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "El Salvador Inflation Picks Up in August — Annual inflation in El Salvador accelerated to 3.19% in August 2026 from 2.49% in July, the highest reading since July 2023. Price growth accelerated for food and non-alcoholic beverages (3.65% vs 2.49%), alcoholic beverages and tobacco (2.62% vs 2.11%), health (0.54% vs 0.39%), transport (2.91% vs 2.57%), communications (8.23% vs 4.95%), and miscellaneous goods and services (2.14% vs 1.96%). Clothing and footwear inflation increased to 2.62% from 2.11%. Meanwhile, inflation moderated for education (3.30% vs 3.65%). Deflation was recorded in housing and utilities (-0.32% vs 0.05%), and recreation and culture (-0.91% vs -0.90%). Inflation for furniture and household goods remained unchanged at 1.90%, while restaurant and hotel prices were unchanged at a flat inflation reading."
+    },
+    {
+      "id": "mkt:01a082d5-55e6-7118-84f4-b14901176e13",
+      "time": "2026-09-09 05:03:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Chile's central bank kept its policy rate unchanged at 4.50%, in line with market expectations."
+    },
+    {
+      "id": "5083682",
+      "time": "2026-09-09 05:03:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：經濟前景仍面臨高度不確定性，將做出必要決策，確保通脹預期在兩年週期內達到 3%。預計本國經濟將在 2027 年逐步好轉，不排除當前經濟疲軟態勢持續的可能性。"
+    },
+    {
+      "id": "5083681",
+      "time": "2026-09-09 05:02:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）將調查從里根國家機場（DCA）起飛、遭遇鳥擊的西南航空航班。"
+    },
     {
       "id": "5083680",
       "time": "2026-09-09 05:01:33",
@@ -126665,26 +126728,6 @@
         "Impact bullish"
       ],
       "text": "The Wall Street Journal, citing sources, says Google (GOOG.O) will release the GEMINI 3.8 Flash AI model this week."
-    },
-    {
-      "id": "5071696",
-      "time": "2026-09-02 05:03:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：預計到2030年人工智慧將佔資料中心總需求的75%。"
-    },
-    {
-      "id": "mkt:01a05ec8-806f-7118-8446-1dd7b194761a",
-      "time": "2026-09-02 05:03:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "The IRGC Aerospace Force released footage showing Iran launch ballistic missiles toward Jordan, saying the strikes were part of tonight's retaliatory action against US bases. Reported primary targets were Jordan's Muwaffaq Salti Air Base and Titin camp."
     }
   ]
 }
