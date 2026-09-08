@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-08 13:36:28",
-  "count": 14092,
+  "updated": "2026-09-08 13:40:19",
+  "count": 14089,
   "items": [
+    {
+      "id": "5082109",
+      "time": "2026-09-08 13:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特多處能源設施遭襲起火】據沙特能源部今天（9月8日）釋出的訊息，該國多處能源設施及公用設施遭到葉門胡塞武裝襲擊，多處地點起火，部分設施的運營暫時中斷。沙特能源部稱，正努力確保設施安全、人員平安及運營的連續性。 沙特領導的葉門聯軍今天早些時候稱，胡塞武裝襲擊了沙特阿卜哈、海米斯穆謝特、奈季蘭和吉贊等地的民用及經濟設施，造成73人受傷。聯軍稱，將對胡塞武裝的襲擊作出堅決回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a07f86-dff4-7118-84dd-936ec913dc43",
+      "time": "2026-09-08 13:39:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia told Alhadath it will not treat attacks on its territory or resources lightly and will deal with them under international law; it demanded the Houthis cease all escalation and actions that threaten maritime navigation safety."
+    },
+    {
+      "id": "5082108",
+      "time": "2026-09-08 13:37:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【首批8只北交所三個月持有期主題基金獲批】9月8日，記者從基金公司處獲悉，首批8只北交所三個月持有期主題基金獲批。8家基金管理人包括華夏基金、匯添富基金、易方達基金、南方基金、嘉實基金、東財基金、富國基金和中信建投基金。（上證報）"
+    },
+    {
+      "id": "mkt:01a07f85-543f-7118-84dd-88e6d35a5f7b",
+      "time": "2026-09-08 13:37:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【GF Securities: Industry business conditions improving; top-tier brokers widen divergence】GF Securities says securities-sector activity is improving while profitability is increasingly concentrated among top firms. Forty-two listed brokerages reported combined operating revenue of 364.0 bln yuan in H1 2026, up 44.5% YoY, and net profit attributable to shareholders of 154.7 bln yuan, up 49.3% YoY. Q2 net profit alone was 94.0 bln yuan, up 82% YoY and 55% QoQ; quarterly credit impairment jumped 662% YoY to 4.3 bln yuan. By business line in H1, investment gains (incl. fair value) +48% YoY, brokerage +54%, net interest +52%, investment banking +24%, and asset-management net income +24%. Market turnover rose while commission rates continued to fall; product scale and mix improved and buy-side advisory accelerated transformation. Brokerage revenues for the 42 firms totaled 98.4 bln yuan, +54% YoY. New public fund issuance rose 27% YoY; 15 fund houses reported combined net profit of 11.9 bln yuan, +35% YoY. Private fund filings in the first seven months reached 709.4 bln yuan, +67% YoY. Asset-management revenue for the 42 firms was 27.3 bln yuan, +24% YoY, with clear dispersion in growth rates. Investment view: sector is undervalued and underweight positions retain defensive qualities with upside; corporate earnings recovery underpins a gradual market rebound, internationalisation offers a second growth vector, and easing industry policy could provide catalysts. GF notes Q3 may see market volatility and wider broker profit dispersion; greater exposure to tech-innovation increases earnings upside potential."
+    },
     {
       "id": "mkt:01a07f84-020b-7118-84dd-85572360f944",
       "time": "2026-09-08 13:35:52",
@@ -128820,70 +128862,6 @@
         "XAUUSD"
       ],
       "text": "【Vance: U.S. prioritizes keeping commercial shipping through Strait of Hormuz open】U.S. Vice President Vance said Washington’s current priority is ensuring commercial traffic can transit the Strait of Hormuz. In a Fox News interview he said Sunday’s U.S. strike on Larak Island was intended to prevent Iran from laying sea mines in the strait. He accused Iran’s leadership of trying to choke oil and gas exports, called the tactic strategically unwise and “really crazy,” and said Washington had expected Tehran might take such steps."
-    },
-    {
-      "id": "5070074",
-      "time": "2026-09-01 13:40:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Manus恢復獨立運營】9月1日，Manus宣佈已正式恢復獨立運營。該公司表示，創始團隊將繼續領導公司，堅定不移地致力於產品創新，併為全球使用者推進通用AI代理的發展。對於部分使用者而言，此次過渡需要備份和恢復資料，並應對訪問的臨時中斷。"
-    },
-    {
-      "id": "mkt:01a05b79-fb9c-7118-842a-c3db134d91fc",
-      "time": "2026-09-01 13:38:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【Zhipu says next‑gen base model will scale but limit active parameters; per‑token inference cost down 80% after 100k‑chip deployment; GLM‑6.0 to pursue \"self‑evolution\"】At an Aug. 31 H1 2026 results briefing, Zhipu AI founder Tang Jie rejected criticism that the firm only performs fine‑tuning and said the next‑generation base model will expand in size while explicitly controlling activated parameters to avoid slower inference and higher costs. Zhipu said it has deployed scaled inference on roughly 100,000 Chinese chips, cutting per‑token inference cost about 80% since the start of the year. GLM‑5.3‑Flash is the company’s first model to run entirely on domestic chip clusters under large real‑world traffic; end‑to‑end service performance is about 3x the initial hardware baseline. Tang said GLM‑6.0 will target “self‑evolution,” with the primary research challenge being the model’s ability to judge when to stop and when to self‑correct rather than simply increasing parameter count."
-    },
-    {
-      "id": "te:markets:579834",
-      "time": "2026-09-01 13:38:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Holds Near IDR 17,730 as Markets Weigh Domestic, Global Cues — The Indonesian rupiah traded near IDR 17,730 per U.S. dollar on the first trading day of September, little changed from the prior session, as traders weighed mixed domestic signals. Annual inflation accelerated to 3.19% in August from July’s three-month low of 2.28%, slightly above expectations but still within Bank Indonesia’s target range. On the external front, Indonesia posted a narrow trade surplus in July, beating estimates for a deficit and ending a two-month run of trade gaps, as exports grew more than anticipated. Meanwhile, newly appointed Bank Indonesia Governor Destry Damayanti said stability and economic growth would be priorities, adding that closer policy coordination with the government would not compromise the central bank’s independence. Fiscal execution remained firm through July, with revenue up 21.3% y/y and spending rising 18.2%. Globally, the dollar index steadied after hawkish remarks from Chair Kevin Warsh and higher oil prices."
-    },
-    {
-      "id": "5070073",
-      "time": "2026-09-01 13:37:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外長在比什凱克會見伊朗外長。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609013861371472",
-      "time": "2026-09-01 13:37:14",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行管委雷恩表示，地緣衝突可能導致通脹居高不下，歐洲央行在通脹壓力問題上“絕不能掉以輕心”。"
-    },
-    {
-      "id": "mkt:01a05b78-3928-7118-842a-b9fc484fee57",
-      "time": "2026-09-01 13:36:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Vice President Vance misspeaks, says 'celebrate' 25th anniversary of 9/11; corrects to 'commemorate'】On Aug. 31 local time, US Vice President Vance, during a speech referring to the Sept. 11 attacks, said “we are about to celebrate the 25th anniversary of 9/11” and immediately corrected himself to “commemorate.”"
-    },
-    {
-      "id": "5070072",
-      "time": "2026-09-01 13:36:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星顯示器擬大幅提升蘋果可摺疊OLED顯示屏產量 每月供應量或達100萬片】三星顯示器公司將從本月起大幅提升其為蘋果摺疊屏手機生產的有機發光二極體（OLED）顯示屏的產量。該公司已於上月開始小規模量產，出貨量約為20萬至30萬片，其計劃從本月起將供應量擴大至每月100萬片以上。 根據月度產量預測，三星顯示器今年預計將量產700多萬塊蘋果可摺疊OLED顯示屏，接近最初公佈的800萬塊的目標。 (ZDNET Korea)"
     }
   ]
 }
