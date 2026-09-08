@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-08 13:52:07",
-  "count": 14089,
+  "updated": "2026-09-08 13:55:57",
+  "count": 14100,
   "items": [
+    {
+      "id": "mkt:01a07f95-dec6-7118-84dd-feaebcb5957f",
+      "time": "2026-09-08 13:55:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【First eight BSE three‑month holding‑period thematic funds approved; issuance imminent】China’s Beijing Stock Exchange (BSE) has approved the first eight actively managed, open‑end thematic funds with a three‑month holding‑period mechanism, clearing the way for near‑term issuance. Managers include Huaxia, Huitianfu, E Fund, Southern Asset Management, Harvest, East Money, Fullgoal and CITIC JianTou. The products target high‑quality, innovative small‑and‑mid‑caps on the BSE. Compared with earlier two‑year periodic open thematic funds, these require only a three‑month minimum holding before investors can redeem, materially shortening investor lock‑up and increasing allocation flexibility. Industry participants say the funds expand public mutual fund access to the BSE, should prompt fund managers to boost BSE research and product allocation, and may introduce incremental and institutional medium‑to‑long‑term capital that supports market liquidity."
+    },
+    {
+      "id": "mkt:01a07f95-af56-7118-84dd-f14782009355",
+      "time": "2026-09-08 13:55:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tehran index tops 7,093,000; 92% of stocks higher】IRNA: Tehran Stock Exchange main index rose 183,000 points to 7,093,000; equal‑weight index gained over 43,000 points to 1,945,000. Retail inflows of 344 bln toman into stocks and equity funds; 92% of listings higher. Orders totaling 24.4 tln toman remained pending execution."
+    },
+    {
+      "id": "5082127",
+      "time": "2026-09-08 13:54:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港交所行政總裁陳翊庭：中國資產迎來歷史性重估】香港交易所集團行政總裁陳翊庭表示，越來越多國際投資者開展分散化配置，將目光投向增長潛力更為確定的中國市場，中國資產迎來歷史性重估。香港交易所將圍繞四大戰略打造多元資產生態圈，發揮連線中國與世界的重要橋樑作用。 (中證報)"
+    },
+    {
+      "id": "mkt:01a07f94-69e8-7118-84dd-eaceac362f85",
+      "time": "2026-09-08 13:53:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland's civil aviation authority said Lublin Airport, which was temporarily closed due to military aviation activity, has resumed operations."
+    },
+    {
+      "id": "5082126",
+      "time": "2026-09-08 13:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭盧布林機場在因軍用航空活動而暫時關閉後已恢復運營。"
+    },
+    {
+      "id": "mkt:01a07f93-f5ff-7118-84dd-e1e8a176e891",
+      "time": "2026-09-08 13:53:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose more than $2 intraday to $93.65/bbl."
+    },
+    {
+      "id": "5082125",
+      "time": "2026-09-08 13:53:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報5864.00元。"
+    },
+    {
+      "id": "mkt:01a07f93-1bb0-7118-84dd-dea941923d44",
+      "time": "2026-09-08 13:52:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Xiaomi (01810.HK) CMO Xu Fei: Xiaomi 18 Fold initial sales in ¥10k segment up 310% YoY】Xiaomi CMO Xu Fei said the Xiaomi 18 Fold posted strong initial demand. Data disclosed by Xiaomi senior vice president and China president Wang Xiaoyan at a China core customers meeting showed initial sales in the ¥10k price tier rose 310% YoY versus the prior-generation large foldable."
+    },
+    {
+      "id": "5082124",
+      "time": "2026-09-08 13:52:21",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：8月新能源乘用車生產152.8萬輛，同比增長19.2%】乘聯分會資料顯示，8月新能源乘用車生產達到152.8萬輛，同比增長19.2%，環比增長5.0%。1-8月累計新能源乘用車生產達到975.8萬輛，同比增長9.8%。"
+    },
+    {
+      "id": "5082123",
+      "time": "2026-09-08 13:52:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨<CLc1>上漲逾2美元，至每桶93.65美元。"
+    },
+    {
+      "id": "5082122",
+      "time": "2026-09-08 13:52:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報5167.00元。"
+    },
+    {
+      "id": "5082121",
+      "time": "2026-09-08 13:52:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【矽谷AI獨角獸轉投阿里千問：Perplexity基於Qwen3.8打造本地Agent】據美國科技媒體Siliconangle報道，矽谷AI獨角獸公司Perplexity新推出一款本地Agent產品Portable Computer，採用的正是阿里最新開源模型Qwen3.8-27B。在英偉達DGX Spark硬體上，Perplexity特意最佳化了PPLX 27B系列演算法，讓Qwen模型能更好地在本地硬體上幫助使用者完成檔案處理、資料分析和程式設計等工作。"
+    },
+    {
+      "id": "5082120",
+      "time": "2026-09-08 13:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍稱凌晨對烏多地發動大規模打擊】俄羅斯國防部9月8日通報，當天凌晨，俄軍使用陸基、空基、海基高精度武器和遠端攻擊型無人機發動大規模打擊，擊中參與無人機和巡航導彈生產儲存的烏國防工業綜合體設施，基輔市和基輔州內軍用物資物流中心，敖德薩州切爾諾莫爾斯克港內用於解除安裝軍用貨物的設施和1艘為烏軍運輸燃料和潤滑油的油輪。"
+    },
     {
       "id": "5082119",
       "time": "2026-09-08 13:51:29",
@@ -128858,22 +128977,6 @@
         "國際"
       ],
       "text": "伊朗央行行長赫馬蒂：關於伊朗經濟崩潰的說法毫無根據。"
-    },
-    {
-      "id": "5070087",
-      "time": "2026-09-01 13:54:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額超200億元，現漲1.64%。"
-    },
-    {
-      "id": "5070086",
-      "time": "2026-09-01 13:53:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同仁堂國際：姬廣飛不再擔任公司董事長職務，任命李江由聯席總裁接任公司董事長】9月1日，同仁堂國際釋出公告稱，經公司董事會決議：姬廣飛因工作需要調整，不再擔任同仁堂國際董事長職務；任命李江由聯席總裁接任同仁堂國際董事長。"
     }
   ]
 }
