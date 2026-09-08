@@ -1,7 +1,190 @@
 {
-  "updated": "2026-09-08 09:00:51",
-  "count": 14108,
+  "updated": "2026-09-08 09:04:45",
+  "count": 14114,
   "items": [
+    {
+      "id": "5081725",
+      "time": "2026-09-08 09:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智光電氣等成立新能源投資公司】企查查APP顯示，近日，廣東智衡新能源投資有限公司成立，經營範圍包含：新興能源技術研發；自然科學研究和試驗發展；新材料技術研發；節能管理服務；儲能技術服務等。企查查股權穿透顯示，該公司由智光電氣等共同持股。"
+    },
+    {
+      "id": "5081724",
+      "time": "2026-09-08 09:03:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【龐巴迪回應特朗普銷售禁令威脅：美國業務帶動數萬個就業崗位】當地時間9月7日，針對美國總統特朗普威脅禁止龐巴迪在美國銷售飛機、要求其在美國生產的言論，龐巴迪發表宣告稱，公司是美國航空航天業的重要參與者，在美國多個州設有業務，並透過自身業務及供應鏈創造數萬個就業崗位。龐巴迪表示，公司供應鏈涉及47個州約2800家美國企業，每年採購額超過25億美元；其飛機大量採用美國製造的發動機、航空電子裝置等關鍵部件。公司稱，將繼續投資美國員工、客戶及運營所在社群，並計劃擴大在美防務業務和服務網路。"
+    },
+    {
+      "id": "te:economy:581774",
+      "time": "2026-09-08 09:02:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Japan Current Account Surplus Tops Estimates — Japan’s current account surplus rose to JPY 2,988.9 billion in July 2026 from JPY 2,586.3 billion in the same month a year earlier, exceeding market expectations for a JPY 2,870 billion surplus. The increase was supported by a larger primary income surplus, which climbed to JPY 4,289.6 billion from JPY 4,053.9 billion a year before, while the services deficit narrowed to JPY 512.9 billion from JPY 771.1 billion and the secondary income deficit shrank to JPY 387.9 billion from JPY 508.9 billion. Meanwhile, the goods deficit widened to JPY 399.9 billion from JPY 187.7 billion, as exports rose 24.1%, supported by strong demand for AI-related electronics, but imports grew faster at 25.9%, driven partly by higher crude oil purchases. In the first half of 2026, Japan recorded a JPY 17.43 trillion current account surplus, up from JPY 14.23 trillion in the same period a year earlier."
+    },
+    {
+      "id": "mkt:01a07e89-e1b4-7118-84d6-0a8b3d0b2a1d",
+      "time": "2026-09-08 09:02:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened up 77.57 points, or 0.16%, at 47,403.84 points on Tuesday, Sept. 8."
+    },
+    {
+      "id": "mkt:01a07e89-b3f4-7118-84d6-054f5dad8a3c",
+      "time": "2026-09-08 09:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.53% to 955.54 yuan/gram in early trade on Sept 8; silver T+D gained 1.41% to 16,217.0 yuan/kg."
+    },
+    {
+      "id": "5081723",
+      "time": "2026-09-08 09:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍佰集團投資成立新材料公司】企查查APP顯示，近日，河南省美鈦新材料有限公司成立，經營範圍包含：新材料技術研發；新材料技術推廣服務；基礎化學原料製造（不含危險化學品等許可類化學品的製造）等。企查查股權穿透顯示，該公司由龍佰集團全資持股。"
+    },
+    {
+      "id": "5081722",
+      "time": "2026-09-08 09:01:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報66.81美元/盎司。"
+    },
+    {
+      "id": "mkt:01a07e88-c53e-7118-84d5-fd557ce951b2",
+      "time": "2026-09-08 09:01:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan 5-year government bond yield fell 2bps to 2.230%; 30-year yield fell 4bps to 3.980%."
+    },
+    {
+      "id": "5081721",
+      "time": "2026-09-08 09:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌4個基點，至3.980%。5年期日本國債收益率下跌2.0個基點，至2.230%。"
+    },
+    {
+      "id": "mkt:01a07e88-39ca-7118-84d5-f109eced0082",
+      "time": "2026-09-08 09:00:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened 0.04% higher."
+    },
+    {
+      "id": "mkt:01a07e87-c55e-7118-84d5-eab17c11ccca",
+      "time": "2026-09-08 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's main futures contracts opened mixed. Asphalt, methanol and 20# rubber rose over 2%; LPG, palm oil and low-sulfur fuel oil (LU) were near 2% higher; soybean No.1, general rubber and lithium carbonate gained more than 1%. On the downside, soda ash fell over 2%; ethylene glycol (EG), glass, container shipping (Europe route), ferrosilicon, caustic soda and silicomanganese declined more than 1%."
+    },
+    {
+      "id": "5081720",
+      "time": "2026-09-08 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報47,335.24。"
+    },
+    {
+      "id": "mkt:01a07e87-b492-7118-84d5-e4088c72f916",
+      "time": "2026-09-08 09:00:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Canadian aerospace firm Bombardier says the US aerospace industry benefits from trade and exports and remains one of the country’s largest export sectors, continuing to run a trade surplus. Bombardier says it is a major contributor, supporting tens of thousands of jobs across the US."
+    },
+    {
+      "id": "5081719",
+      "time": "2026-09-08 09:00:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報67.42美元/盎司。"
+    },
+    {
+      "id": "5081718",
+      "time": "2026-09-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5717.00元。"
+    },
+    {
+      "id": "5081717",
+      "time": "2026-09-08 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】純鹼連續跌2.66%，瀝青連續漲2.50%，低硫燃料油連續漲2.11%，甲醇連續漲2.05%，20號膠連續漲1.97%。"
+    },
+    {
+      "id": "5081716",
+      "time": "2026-09-08 09:00:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "龐巴迪：我們的供應鏈包括2800家美國公司。"
+    },
+    {
+      "id": "5081715",
+      "time": "2026-09-08 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.05%。"
+    },
+    {
+      "id": "5081714",
+      "time": "2026-09-08 08:59:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "龐巴迪公司就特朗普的帖子發表宣告稱，重視與美國公司和員工的合作關係。此前美國總統特朗普在社交媒體 Truth Social 上發表了針對加拿大龐巴迪公司的嚴厲警告，聲稱如果龐巴迪不在美國本土建廠製造，就將禁止其在美國市場銷售飛機。"
+    },
     {
       "id": "5081713",
       "time": "2026-09-08 08:59:01",
@@ -128930,132 +129113,6 @@
         "觀點"
       ],
       "text": "【中信證券：反轉訊號確認，關注四大主題方向】中信證券研報表示，上週市場在高位分化整固後止跌回升，風格再度切換。上證指數收漲1.20%，此前轉弱的大盤藍籌重新走強，低位小盤補漲接棒。創業板指跌3.42%領跌全場；科創50僅微漲0.52%；此前獨立領漲的通訊上週回吐最重，農林牧漁、煤炭、非銀金融領漲。日均成交額繼續縮量至1.99萬億元，ETF資金先抄底後止盈、融資轉向百億級淨買入，低位反攻初步落地。市場行情處於活躍板塊間主題輪動的資金博弈階段，聚焦敘事、事件、業績高確定性主題。從催化因素和時序上看，AI液冷、測試裝置、算力新技術、消費電子新品的主題熱情有望升溫。結合市場環境、催化因素以及綜合量化指標研判，建議關注上述四大主題方向。"
-    },
-    {
-      "id": "5069665",
-      "time": "2026-09-01 09:02:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲4%，現報4926.00元。"
-    },
-    {
-      "id": "mkt:01a05a7c-db48-7118-8423-eb73cc566318",
-      "time": "2026-09-01 09:02:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan 2-year government bond yield rose 2.5 bps to 1.77%, the highest since April 1995."
-    },
-    {
-      "id": "5069664",
-      "time": "2026-09-01 09:02:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年暑期檔電影票房超124億元 】國家電影局9月1日釋出資料，2026年暑期檔電影票房為124.98億元。《功夫女足》《歡迎來龍餐館》《八仙！》位列前三位。"
-    },
-    {
-      "id": "5069663",
-      "time": "2026-09-01 09:02:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲3%，現報5922.00元。"
-    },
-    {
-      "id": "5069662",
-      "time": "2026-09-01 09:02:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲4%，現報4884.00元。"
-    },
-    {
-      "id": "5069661",
-      "time": "2026-09-01 09:01:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯發科股價上漲9.9%，先前英偉達投資35億美元。"
-    },
-    {
-      "id": "mkt:01a05a7c-8a08-7118-8423-e758380ccd4b",
-      "time": "2026-09-01 09:01:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index (TAIEX) opened 220.11 points higher, or 0.48 percent, at 46,348.58 on Tuesday, Sept. 1."
-    },
-    {
-      "id": "5069660",
-      "time": "2026-09-01 09:01:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上漲2.5個基點至1.77%，創1995年4月以來新高。"
-    },
-    {
-      "id": "mkt:01a05a7b-e449-7118-8423-d9c7028337b8",
-      "time": "2026-09-01 09:01:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange (SGE) gold T+D opened 0.72% lower at 961.99 yuan/gram in early trade on Tuesday, Sept. 1; SGE silver T+D opened 0.98% lower at 16,281.0 yuan/kg."
-    },
-    {
-      "id": "mkt:01a05a7b-e265-7118-8423-d33a4661c021",
-      "time": "2026-09-01 09:01:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "Xiaomi Auto said August deliveries continued to exceed 30,000 vehicles."
-    },
-    {
-      "id": "5069659",
-      "time": "2026-09-01 09:00:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲4%，現報3028.00元。"
-    },
-    {
-      "id": "5069658",
-      "time": "2026-09-01 09:00:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報5405.00元。"
-    },
-    {
-      "id": "5069657",
-      "time": "2026-09-01 09:00:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1392.92美元/盎司。"
     }
   ]
 }
