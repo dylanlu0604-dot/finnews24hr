@@ -1,7 +1,101 @@
 {
   "date": "2026-09-09",
-  "count": 188,
+  "count": 198,
   "items": [
+    {
+      "id": "mkt:01a08260-c4e0-7118-84f3-5b5807f49902",
+      "time": "2026-09-09 02:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio arrived in Barranquilla, Colombia, to begin a Latin America trip, CNN reports."
+    },
+    {
+      "id": "mkt:01a08260-042e-7118-84f3-5058dc6c65cb",
+      "time": "2026-09-09 02:55:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $97.92/bbl, up $0.92 (+0.95%)."
+    },
+    {
+      "id": "5083614",
+      "time": "2026-09-09 02:54:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部賈斯克海岸附近傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a0825f-5353-7118-84f3-4a61094286ba",
+      "time": "2026-09-09 02:54:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to an intraday low of $4,360/oz, down 1.06% on the day."
+    },
+    {
+      "id": "5083613",
+      "time": "2026-09-09 02:54:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長：已決定從聯邦國防軍庫存中向烏克蘭提供急需的PAC-2攔截導彈。"
+    },
+    {
+      "id": "5083612",
+      "time": "2026-09-09 02:53:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶97.92美元，上漲0.92美元，漲幅0.95%。"
+    },
+    {
+      "id": "mkt:01a0825e-7553-7118-84f3-45ee4d5f3b2f",
+      "time": "2026-09-09 02:53:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fars News reported explosions in Iran’s Jask region. Local sources said the blasts originated offshore near the Sang-e Siyah area."
+    },
+    {
+      "id": "5083611",
+      "time": "2026-09-09 02:53:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋航空：英國空域因英國國家空中交通服務公司（NATS）空管技術問題，航班出現延誤。"
+    },
+    {
+      "id": "5083610",
+      "time": "2026-09-09 02:52:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌1.06%。"
+    },
+    {
+      "id": "5083609",
+      "time": "2026-09-09 02:52:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌1.06%。"
+    },
     {
       "id": "5083608",
       "time": "2026-09-09 02:52:14",
