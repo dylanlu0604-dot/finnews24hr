@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-05 09:57:00",
+  "updated": "2026-09-08 08:55:14",
   "items": [
+    {
+      "id": "2026090808",
+      "date": "2026-09-08",
+      "run_hour": 8,
+      "started_at": "2026-09-08 08:54:55",
+      "finished_at": "2026-09-08 08:55:14",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 4,
+      "failure_count": 8,
+      "success_sources": [
+        "jin10",
+        "fx678",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "cnyes",
+        "taishin",
+        "cathay",
+        "edwardjones",
+        "nomura",
+        "factset",
+        "investrade",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cnyes 日期不符：頁面最新日期是 2026-09-05，預期日期是 2026-09-08",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-05"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-09-07，預期日期是 2026-09-08",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-07"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "edwardjones 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-07",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-09-07，預期日期是 2026-09-08",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-07"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-07",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/229417",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202609080526562469.shtml",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "investrade",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "investrade 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-07",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/09/WBC_MorningReport08Sep2026.pdf",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260908.pdf",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-09-07，預期日期是 2026-09-08",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-07"
+        }
+      ]
+    },
     {
       "id": "2026090509",
       "date": "2026-09-05",
