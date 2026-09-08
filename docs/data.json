@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-09 02:06:50",
-  "count": 14012,
+  "updated": "2026-09-09 02:10:41",
+  "count": 14000,
   "items": [
+    {
+      "id": "5083575",
+      "time": "2026-09-09 02:08:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國金融科技公司Ramp正在洽談新一輪融資，估值600億美元。"
+    },
     {
       "id": "mkt:01a08232-23b2-7118-84f2-c74224008d4b",
       "time": "2026-09-09 02:05:18",
@@ -127822,123 +127831,6 @@
         "AI Revolution"
       ],
       "text": "Anthropic's Fable 5.1 excels on complex, long-duration tasks; its research capabilities offer an early view of how future AI models are likely to accelerate scientific progress."
-    },
-    {
-      "id": "5071533",
-      "time": "2026-09-02 02:10:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 5.1 現已可用於發現軟體漏洞，預計很快開放科學家註冊通道。"
-    },
-    {
-      "id": "mkt:01a05e29-6e11-7118-8441-c1774825f167",
-      "time": "2026-09-02 02:09:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC says cache-read costs using Fable 5.1 are 75% lower than with Fable 5."
-    },
-    {
-      "id": "5071532",
-      "time": "2026-09-02 02:09:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：我們最佳化了防護機制，降低 Claude Fable 5.1 與 Claude Mythos 5.1 的誤報率。"
-    },
-    {
-      "id": "te:markets:580159",
-      "time": "2026-09-02 02:09:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper is down by 2% — Copper decreased 2% to 6.4614 USD/Lbs"
-    },
-    {
-      "id": "5071531",
-      "time": "2026-09-02 02:09:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic：EFS 將在 Claude 程式碼版、企業版、平臺版以及亞馬遜 Bedrock、谷歌、微軟平臺上獲得支援。企業級前沿安全防護方案不收取費用。"
-    },
-    {
-      "id": "5071530",
-      "time": "2026-09-02 02:08:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：將於 2026 年秋季推出企業級前沿安全防護方案。"
-    },
-    {
-      "id": "mkt:01a05e28-4237-7118-8441-bd8402e0a699",
-      "time": "2026-09-02 02:08:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC released Claude Fable 5.1 and Claude MYTHOS 5.1."
-    },
-    {
-      "id": "5071529",
-      "time": "2026-09-02 02:08:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 宣佈推出企業級前沿安全防護方案，具備零資料留存與濫用檢測功能。"
-    },
-    {
-      "id": "5071528",
-      "time": "2026-09-02 02:07:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 5.1 已全面開放使用，而 Mythos 5.1 僅可透過我方可信訪問計劃獲取。"
-    },
-    {
-      "id": "mkt:01a05e27-d7ed-7118-8441-b3add9fafeca",
-      "time": "2026-09-02 02:07:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Trump said today's strike on Iran was very large and warned that if Iran makes another mistake the country would be completely wiped out."
-    },
-    {
-      "id": "5071527",
-      "time": "2026-09-02 02:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic ：Claude Fable 5.1 針對常規工作負載，定價較 Fable 5 下調 25%。"
-    },
-    {
-      "id": "mkt:01a05e27-b1b4-7118-8441-ac10382ce02f",
-      "time": "2026-09-02 02:07:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said airlines, insurers and other relevant parties should note Russian airspace will become dangerous due to Ukrainian drones. He said Ukraine is not threatening civil aviation, but there will be drones in the air and parties should take full note."
-    },
-    {
-      "id": "5071526",
-      "time": "2026-09-02 02:06:56",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "Anthropic：推出 Claude Fable 5.1 與 Claude Mythos 5.1。"
     }
   ]
 }
