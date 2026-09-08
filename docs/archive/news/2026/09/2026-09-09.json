@@ -1,7 +1,68 @@
 {
   "date": "2026-09-09",
-  "count": 349,
+  "count": 356,
   "items": [
+    {
+      "id": "mkt:01a082e5-ce40-7118-84f5-1e111f04ed3f",
+      "time": "2026-09-09 05:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's president says he will participate responsibly in efforts to stabilize the region."
+    },
+    {
+      "id": "mkt:01a082e5-518a-7118-84f5-1450f56d6a51",
+      "time": "2026-09-09 05:21:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) director Mark Stevens reported the sale of 1.02 mln NVIDIA common shares in transactions executed Sept. 3-4 at $227.25–$234.04 per share."
+    },
+    {
+      "id": "5083705",
+      "time": "2026-09-09 05:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：市場並非有效，市場由人主導，而人會犯錯。"
+    },
+    {
+      "id": "5083704",
+      "time": "2026-09-09 05:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國商務部長盧特尼克將前往墨西哥，參與貿易對話。"
+    },
+    {
+      "id": "5083703",
+      "time": "2026-09-09 05:18:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞總統：該國需要美國在雷達、飛機及其他領域提供援助以打擊犯罪。"
+    },
+    {
+      "id": "mkt:01a082e2-b903-7118-84f5-0836f3fd432d",
+      "time": "2026-09-09 05:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian president said after meeting US Secretary of State Rubio that Colombia seeks to be Washington's primary partner in counternarcotics operations."
+    },
+    {
+      "id": "5083702",
+      "time": "2026-09-09 05:17:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞總統：哥倫比亞希望成為美國打擊毒品販運方面的首要盟友。"
+    },
     {
       "id": "mkt:01a082e2-17f6-7118-84f5-0513a14f4d48",
       "time": "2026-09-09 05:17:30",
