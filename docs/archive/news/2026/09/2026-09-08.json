@@ -1,7 +1,183 @@
 {
   "date": "2026-09-08",
-  "count": 1079,
+  "count": 1098,
   "items": [
+    {
+      "id": "mkt:01a07fa3-f35f-7118-84de-d67878fa0386",
+      "time": "2026-09-08 14:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 40-year bond yield fell 6.5 bps intraday to 4.025%."
+    },
+    {
+      "id": "5082166",
+      "time": "2026-09-08 14:10:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本Terra Drone贏得政府合同後，瞄準防務領域業務增長。"
+    },
+    {
+      "id": "5082165",
+      "time": "2026-09-08 14:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥贏得臺積電和三星承諾，使用其新一代EUV光刻機。"
+    },
+    {
+      "id": "5082164",
+      "time": "2026-09-08 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：滬股通板塊淨流入超59億】截至目前，今日主力資金淨流入17.67億；淨流入滬股通、週期股、國企改革等板塊，其中滬股通板塊淨流入59.87億；淨流出TMT、機器人概念、騰訊概念等板塊，其中TMT板塊淨流出70.20億。\n  \n個股方面，中際旭創淨買入14.22億元位居首位，摩爾執行緒、興森科技、紫金礦業主力資金淨流入居前；寧德時代淨賣出11.99億元位居首位，海康威視、京東方Ａ、紫光股份淨流出額居前。"
+    },
+    {
+      "id": "mkt:01a07fa3-4659-7118-84de-cc598f7b0156",
+      "time": "2026-09-08 14:10:01",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "Samsung plans to deploy ASML (ASML.O)'s leading-edge lithography equipment in DRAM production around 2028."
+    },
+    {
+      "id": "5082163",
+      "time": "2026-09-08 14:09:46",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "英飛凌科技股份公司股價在早盤交易中下跌2.5%，此前摩根士丹利將其股票評級從增持下調至持平。"
+    },
+    {
+      "id": "5082162",
+      "time": "2026-09-08 14:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【茅臺部分直營店上調飛天及公斤茅臺售價，精品暫不調整】9月8日，有市場訊息稱，部分茅臺直營店已對包括53度 500ml飛天茅臺、公斤茅臺等在內的多款產品進行提價。有茅臺直營店向新浪財經《酒業內參》透露，今日，店內500ml飛天茅臺售價已提升至1766元/瓶，高於i茅臺1639元/瓶的售價，公斤茅臺價格也上調至3291元/瓶。不過，該直營店表示，精品茅臺暫未跟隨本輪提價。（酒業內參）"
+    },
+    {
+      "id": "5082161",
+      "time": "2026-09-08 14:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳機場口岸APEC成員經濟體外籍客流突破百萬人次】截至9月6日，今年以來經深圳機場口岸入出境，來自APEC成員經濟體的外國人超100.8萬人次，同比增長31.1%，較去年提前65天達到百萬量級，創歷史同期新高。 作為粵港澳大灣區重要國際交通樞紐之一，深圳寶安國際機場目前已與APEC成員經濟體中的15個國家（地區）開通了直航客運航線，外籍客流始終保持高位執行。"
+    },
+    {
+      "id": "5082160",
+      "time": "2026-09-08 14:09:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "TERRA DRONE CEO：快速擴大生產規模比打造最佳無人機更重要，確保無人機防禦供應鏈至關重要。"
+    },
+    {
+      "id": "mkt:01a07fa2-7fe1-7118-84de-c41f2b5956c7",
+      "time": "2026-09-08 14:09:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【HKEX CEO Chen Yiting says Chinese assets entering historic re-rating】HKEX CEO Chen Yiting said rising international diversification into China is driving a historic re‑rating of Chinese assets. He noted Hong Kong secondary trading has stayed elevated this year: average daily spot turnover in the first eight months exceeded HKD 280 billion, up 14% YoY. Shanghai‑Shenzhen‑Hong Kong Stock Connect has run smoothly and derivatives markets remain active. On the primary market, 104 companies listed in Hong Kong through end‑August, raising over HKD 340 billion—already above 2025’s full‑year total. International cornerstone investor participation in Hong Kong IPOs is at multi‑year highs, with long‑term capital from the Middle East, Europe, North America and other APAC regions increasing."
+    },
+    {
+      "id": "mkt:01a07fa2-324b-7118-84de-bc017e63badb",
+      "time": "2026-09-08 14:08:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi rebels say will carry out deep strikes inside Saudi Arabia】Yahya Saree, spokesman for Yemen's Houthi rebels, said on Sept. 8 the group will soon announce \"broad military operations deep inside Saudi territory.\""
+    },
+    {
+      "id": "5082159",
+      "time": "2026-09-08 14:08:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【連跌6日，智譜股價跌破1000港元】9月8日，智譜小幅低開後震盪走弱，盤中一度跌11%，股價跌破1000港元大關，最低觸及906港元/股。截至發稿，智譜跌10.36%，報912.5港元/股，成交額超60億港元。值得一提的是，這已經是智譜9月1日小幅收跌後，連續第6個交易日下跌，跌幅超20%。 訊息面上，8月31日，智譜釋出2026年半年度業績。公司上半年實現收入9.54億元人民幣，同比增長399.7%，超過2025年全年營收規模；期內虧損20.72億元，同比收窄12.1%。 此前，摩根大通、瑞銀、高盛等機構均給出超50億元的全年營收預測，此次智譜披露的上半年營收意味著，其下半年需完成40億至75億元營收才能匹配上述預期，因此引發市場對其營收不達預期的質疑。 分業務來看，報告期內，智譜開放平臺及API業務收入8.25億元，同比增長超過27倍，佔總收入約86.5%，去年同期為15.2%，提升71.3個百分點。同時，該業務毛利率提升至24.6%，較去年同期提升約25個百分點，較去年全年提升約6個百分點。相比之下，本地化部署收入1.29億元，同比下降20.5%，佔比由84.8%降至13.5%。（上海證券報）"
+    },
+    {
+      "id": "5082158",
+      "time": "2026-09-08 14:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大禹節水等成立科技公司，含AI行業應用系統整合業務】企查查APP顯示，近日，榆林禹澤農水科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；農業機械服務；農業生產託管服務；農業專業及輔助性活動等。企查查股權穿透顯示，該公司由大禹節水等共同持股。"
+    },
+    {
+      "id": "5082157",
+      "time": "2026-09-08 14:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣達：8月銷售額4,239.7億元臺幣，8月營收變動+177.5％。"
+    },
+    {
+      "id": "mkt:01a07fa1-3f44-7118-84de-b2f88cb89d2a",
+      "time": "2026-09-08 14:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK work and pensions secretary says the foreign secretary will later today make a statement on measures relating to Israeli settlements in the West Bank."
+    },
+    {
+      "id": "5082156",
+      "time": "2026-09-08 14:07:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿斯麥與臺積電推動高NA EUV光罩向12英寸升級，計劃2031年建立試產線】9月8日，荷蘭光刻機製造商阿斯麥（ASML）與臺積電宣佈成立行業合作計劃，推動高數值孔徑（High NA）極紫外光刻（EUV）光罩從目前的6英寸向12英寸升級，以提高晶圓廠生產效率、降低晶片製造成本並消除拼接限制。雙方計劃於2031年建立12英寸光罩試產線，並推動12英寸高NA EUV光刻系統於2033年進入先進製程量產。臺積電預計自2030年起在先進製程大規模生產中採用ASML高NA技術。"
+    },
+    {
+      "id": "5082155",
+      "time": "2026-09-08 14:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱將對沙特縱深打擊】葉門胡塞武裝發言人葉海亞·薩雷亞今天（9月8日）表示，胡塞武裝即將宣佈“在沙特境內縱深地帶展開廣泛軍事行動”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5082154",
+      "time": "2026-09-08 14:07:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報5217.00元。"
+    },
+    {
+      "id": "mkt:01a07fa0-a45a-7118-84de-a84add257385",
+      "time": "2026-09-08 14:07:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent extended gains, each up more than 1% intraday, trading at $91.65/bbl and $96.72/bbl respectively."
+    },
     {
       "id": "5082153",
       "time": "2026-09-08 14:06:51",
