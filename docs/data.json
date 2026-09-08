@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-08 08:32:36",
-  "count": 14124,
+  "updated": "2026-09-08 08:36:38",
+  "count": 14120,
   "items": [
+    {
+      "id": "5081688",
+      "time": "2026-09-08 08:35:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於美國東部時間週二上午10:35出席鋼鐵行業相關活動。"
+    },
+    {
+      "id": "5081687",
+      "time": "2026-09-08 08:34:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經指數收復早前失地，現漲0.1%，報66440.89點。"
+    },
+    {
+      "id": "5081686",
+      "time": "2026-09-08 08:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊海上交鋒升級 霍爾木茲海峽博弈白熱化】美軍中央司令部表示，截至當地時間9月7日，美軍在對伊朗的海上封鎖行動中已要求94艘商船改變航向，使3艘商船喪失航行能力，並登船檢查2艘船隻。伊朗最高國家安全委員會秘書雷扎伊表示，未來幾天，伊朗將宣佈霍爾木茲海峽區域的“禁區”。日前，美國和伊朗在霍爾木茲海峽向對方船隻發動攻擊，美伊海上交鋒再度升級。（央視新聞）"
+    },
+    {
+      "id": "5081685",
+      "time": "2026-09-08 08:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a07e6e-c7a3-7118-84d5-b2a88cdedfe7",
+      "time": "2026-09-08 08:33:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Witnesses reported explosions in Kyiv, Ukraine."
+    },
+    {
+      "id": "5081684",
+      "time": "2026-09-08 08:33:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著銅價創歷史新高 亞洲銅相關股票上漲】亞洲銅類股票走高。此前，在持續數週的上漲行情推動下，銅價創下歷史新高，市場預期特朗普將對精煉金屬進口徵收關稅。倫敦金屬交易所三個月期期貨價格一度上漲0.8%，觸及每噸14,533美元，隨後漲幅收窄。受供需關係支撐，該金屬今年已上漲17%。市場仍在計入初級銅進口被加徵關稅的可能性，銅價因此走高。在澳大利亞市場，Capstone Copper股價上漲高達2%，Sandfire Resources股價上漲0.6%。日本市場，住友金屬礦業上漲2.4%，三菱材料上漲1.6%，JX先進金屬上漲3.7%。"
+    },
     {
       "id": "mkt:01a07e6d-8623-7118-84d5-acd0a241f6b0",
       "time": "2026-09-08 08:31:41",
@@ -129127,115 +129180,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Manufacturing PMI Falls Back Into Contraction — Indonesia's S&P Global Manufacturing PMI slipped to 49.8 in August 2026 from July's five-month high of 50.2, signalling a mild deterioration in factory activity. Output and employment fell in five of the past six surveys, with the latest decline in output tied to stronger competition and higher goods prices. Demand conditions were broadly neutral, while backlogs rose for a second month, though at a slower pace. Purchasing activity stabilised after five months of contraction. Supplier delivery times lengthened slightly, with delays only marginally worse than July. On the cost side, price pressures continued to ease, yet input costs and output charges remained historically elevated, reflecting higher raw material and supplier prices often passed on to customers. Finally, business confidence strengthened to a seven-month high, supported by expectations of firmer demand and stable market conditions that could underpin higher production over the next year."
-    },
-    {
-      "id": "mkt:01a05a65-638e-7118-8423-a418d9ff33ec",
-      "time": "2026-09-01 08:36:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan Q2 corporate capex rises, may prompt upward GDP revision】Japan firms increased capital spending in Q2, signalling resilience to the Middle East conflict and raising the likelihood of an upward GDP revision. Data published Tuesday showed capital expenditure excluding software rose 2.9% quarter-on-quarter in the three months to end-June. Capex including software was up 1.6% YoY versus economists' forecast for a 0.3% decline. Sales rose 5.9% YoY and profits jumped 24.6%, well above expectations. The results could prompt an upward revision to Q2 GDP due Sep 8."
-    },
-    {
-      "id": "te:economy:579703",
-      "time": "2026-09-01 08:35:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "South Korea Manufacturing Growth Eases in August — The S&P Global South Korea Manufacturing PMI fell to 52.3 in August 2026 from 53.1 in July, signaling a modest but still above-average expansion in the manufacturing sector. Output and new orders increased for the eighth and ninth consecutive months, respectively, although the pace of growth softened. Export orders rose at the fastest pace since November 2020, supported by stronger demand from major trading partners across Asia, Europe and North America. Employment increased for the fifth time in six months, while material shortages and supply chain disruptions continued to constrain production and push backlogs higher. Meanwhile, input cost inflation eased for a fourth straight month to its slowest pace since November 2025, while output price inflation fell to a seven-month low. Business confidence also improved to a three-month high, with firms citing bullish sales expectations and opportunities arising from new technology products and services."
-    },
-    {
-      "id": "5069627",
-      "time": "2026-09-01 08:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【優步申請運營首爾自動駕駛計程車平臺】韓國經濟日報援引未具名業內訊息報道，優步已提交首爾市政府招標申請，謀求運營自動駕駛出行平臺。中標企業將獲准在其平臺上運營首爾自動駕駛計程車業務，期限至少兩年，對接多家企業投放的自動駕駛計程車，為乘客提供叫車服務。報道稱，這是優步這類全球出行服務商首次申請參與韓國自動駕駛業務。"
-    },
-    {
-      "id": "te:economy:579702",
-      "time": "2026-09-01 08:34:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Manufacturing PMI Revised Slightly Lower — The S&P Global Japan Manufacturing PMI was revised lower to 54.9 in August 2026 from the preliminary estimate of 55.1, after a final reading of 54.5 in the previous month, marking the eighth consecutive month of expansion in factory activity. Still, it was the strongest growth in the manufacturing sector since April and the second-steepest since January 2022, as firms recorded the fastest increase in new export business since January 2018. Meanwhile, employment rose solidly at the fastest pace since February 2028. Purchasing activity rose to the greatest extent since April 2022, while suppliers' delivery times further lengthened, partly due to disruptions stemming from the war in the Middle East. On the price front, input prices rose, driven by higher raw material and oil prices, as well as a weak yen. As a result, output prices continued to rise sharply. Finally, business sentiment improved to a six-month high, supported by expectations of higher sales."
-    },
-    {
-      "id": "5069626",
-      "time": "2026-09-01 08:34:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國華電捐款2000萬元支援西藏搶險救災】8月31日，中國華電向西藏自治區捐贈2000萬元，支援災區搶險救災、物資保障和災後重建等工作。此外，中國華電組織所屬西藏公司、金上公司第一時間啟動應急響應，統籌蘇窪龍水電站、日喀則桑珠孜光伏電站、昌都昂多光伏電站、瓊結風電專案等水電廠及新能源場站，對電站裝置、大壩、邊坡、輸電線路等重點部位開展全覆蓋、拉網式安全隱患排查，全力確保電力安全穩定供應。"
-    },
-    {
-      "id": "5069625",
-      "time": "2026-09-01 08:34:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國外匯交易中心（CFETS）：8月31日人民幣匯率指數報101.87。"
-    },
-    {
-      "id": "mkt:01a05a63-094f-7118-8423-9ffc10b327ff",
-      "time": "2026-09-01 08:33:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish",
-        "CNH",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【India Q2 GDP 7.8% y/y, beats forecasts despite Middle East conflict】India's National Statistical Office said GDP grew 7.8% year-on-year in the quarter to June, above expectations, matching the Jan–Mar quarter and roughly in line with 7.7% growth for the fiscal year to March. Authorities said oil-price spikes and US tariffs weighed on trade with a major export destination, but on a gross value added basis financial services, real estate and IT led with 12.1% growth; manufacturing rose 9.2% (vs 8.3% a year earlier) and electricity, gas and other utilities increased 8.9%."
-    },
-    {
-      "id": "mkt:01a05a62-7d55-7118-8423-9034fdc1819c",
-      "time": "2026-09-01 08:33:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "5-year JGB yield rose 2 bps to a record 2.225%."
-    },
-    {
-      "id": "5069624",
-      "time": "2026-09-01 08:32:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國核心政策高官、總統政策室長金容範辭任】韓國總統府青瓦臺訊息，韓國總統李在明於週二批准政策首席秘書金容範辭職。金容範已於週一提出辭呈，該崗位主要負責統籌政府經濟及國內政策議程。他是政府多項標誌性政策舉措的核心設計者。此次卸任發生在李在明 2025 年 6 月就職以來首次大規模內閣改組之後，本次改組涉及財政、國土、法務、國防等多個部門。任職期間，金容範因倉促推出掛鉤三星電子與 SK 海力士的單一股票槓桿交易所交易基金而飽受批評。該類產品 5 月推出，初衷是吸引散戶資金流入韓國本土股市，但後續加劇市場劇烈波動，監管機構隨之強化投資者保護規則。他曾提議利用人工智慧熱潮帶來的超額稅收收入設立 “國民分紅”，該提議引發社會廣泛討論，也令市場揣測政府將如何處置這筆意外財稅收益。金容範後續表示，該方案意在分配超額稅收，並非動用企業利潤。總統府暫未公佈金容範的辭職原因，也尚未公佈繼任人選。"
-    },
-    {
-      "id": "5069623",
-      "time": "2026-09-01 08:32:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：A股上半年企業匯兌損益達1070億元 侵蝕出海企業利潤】中金公司稱，A股上半年企業匯兌損益達1070億元，匯兌損益對歸母淨利潤佔比為5.5%，為近十年來最高水平，對於非金融企業尤其是出海企業利潤有一定侵蝕。分析師黃凱松等在報告中指出，上半年人民幣升值背景下A股非金融匯兌損益規模快速增長，其中家電、機械上半年匯兌損益佔營業收入分別為1.1%和1.0%。受上游原材料行業和AI需求推動，2026年二季度A股盈利同比增長25.7%，為近5年最高的單季盈利增速。A股二季度盈利表現分化明顯，在單季度盈利增速達到20%的情況下仍有40%的行業盈利同比下滑。二季度業績同比增速前五的行業為非銀金融、計算機、有色金屬、電子及基礎化工，降幅前五的為農林牧漁、建築、建材、食品飲料及汽車。板塊也有分化，科創板、創業板和主機板非金融分別增長103.5%、40.8%和15.1%。"
     }
   ]
 }
