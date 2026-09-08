@@ -1,7 +1,2972 @@
 {
   "date": "2026-09-08",
-  "count": 1781,
+  "count": 2109,
   "items": [
+    {
+      "id": "mkt:01a0814f-d6ba-7118-84ec-aa63af7eb5c6",
+      "time": "2026-09-08 21:58:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Ramsden said communications in April and July drew a positive market response."
+    },
+    {
+      "id": "5083301",
+      "time": "2026-09-08 21:57:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想汽車引入第三家電池供應商 中創新航上車理想i6】從多位產業人士處瞭解到，頭部新勢力品牌理想汽車，將引入第三家動力電池供應商——中創新航。按理想汽車的初步構想，中創新航將率先上車理想的純電車。另有知情人士表示，理想i6或將是首款搭載中創新航產品的車型。（36氪）"
+    },
+    {
+      "id": "mkt:01a0814f-41de-7118-84ec-a58a89a87aad",
+      "time": "2026-09-08 21:57:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "LI.O",
+        "Impact bullish"
+      ],
+      "text": "【Li Auto to add third battery supplier Zhongchuang Xinhang; expected on Li i6】Industry sources say Li Auto will add Zhongchuang Xinhang as a third power-battery supplier. Under Li’s preliminary plan Zhongchuang Xinhang will first supply batteries for its pure-electric model, and sources say the Li Auto i6 may be the first vehicle fitted with its cells."
+    },
+    {
+      "id": "mkt:01a0814e-5782-7118-84ec-9ca3fbeb1711",
+      "time": "2026-09-08 21:56:30",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) invited bids for a 2 GW renewable energy project in New Mexico."
+    },
+    {
+      "id": "mkt:01a0814e-0a77-7118-84ec-94bf52549f32",
+      "time": "2026-09-08 21:56:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs moved forward its expectation for the Reserve Bank of Australia's rate increase to September from November."
+    },
+    {
+      "id": "5083300",
+      "time": "2026-09-08 21:55:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文釋出新墨西哥州 2 吉瓦可再生能源專案招標書（RFP）。"
+    },
+    {
+      "id": "5083299",
+      "time": "2026-09-08 21:55:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將澳大利亞儲備銀行加息預期從 11 月提前至 9 月。"
+    },
+    {
+      "id": "5083298",
+      "time": "2026-09-08 21:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股盤初，主要行業ETF漲跌不一，能源業ETF、半導體ETF漲超1%，醫療業ETF跌近2%。"
+    },
+    {
+      "id": "mkt:01a0814d-4a18-7118-84ec-8d662b3dd743",
+      "time": "2026-09-08 21:55:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Canada's prime minister Carney said reducing reliance on the US economy will incur 'some cost.'"
+    },
+    {
+      "id": "te:markets:582078",
+      "time": "2026-09-08 21:54:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Canada Retaliatory Tariffs Take Effect — The S&P/TSX Composite Index fell more than 0.5% to trade below 36,500 on Tuesday as Canada’s retaliatory tariffs on US goods took effect. The counter-tariffs cover $20 billion of US goods, with duties ranging from 15% to 50% on products including steel, furniture, clothing and electronics. The US tariffs implemented last month targeted sectors including wine, furniture, dairy products, cement, clothing, fishing rods and hockey equipment, covering $20 billion, or 5%, of Canadian exports to the US. Meanwhile, US President Trump said on Monday that Bombardier (-3%) would not be allowed to sell its planes in the US unless it started manufacturing in the country. Saputo shed about 0.5%, while Dorel lost more than 0.5%. Also weighing on the TSX, crude prices climbed after Saudi Arabia reported attacks that halted operations at several energy facilities. Fears of energy disruptions and energy-driven inflation increased rate hike expectations in Canada and the US, weighing on major banks."
+    },
+    {
+      "id": "5083297",
+      "time": "2026-09-08 21:54:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Bloom Energy（BE）一度上漲超9.56%，報277.06美元，創7月6日以來盤中新高，該公司股票被納入標普500指數。"
+    },
+    {
+      "id": "5083296",
+      "time": "2026-09-08 21:54:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾華一款肌肉紊亂疾病晚期試驗失敗，部分藥企開發商股價下跌。SAREPTA THERAPEUTICS下跌11.4%，DYNE THERAPEUTICS下跌22%。"
+    },
+    {
+      "id": "5083295",
+      "time": "2026-09-08 21:52:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（9月4日，非農就業報告發布當天）擔保隔夜融資利率（SOFR）報3.65%，之前一天報3.66%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5083294",
+      "time": "2026-09-08 21:51:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道稱，Cerberus（瑟伯勒斯）即將收購 Goodwin 防務部門，Goodwin 股價隨之大幅飆升，當日漲幅一度達到 5.5%。"
+    },
+    {
+      "id": "5083293",
+      "time": "2026-09-08 21:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝利：我收到關於使用個人 PARS 的大量積極反饋。"
+    },
+    {
+      "id": "5083292",
+      "time": "2026-09-08 21:50:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中京電子：股票交易異常波動 相關業務佔比較低】中京電子公告稱，公司股票連續3個交易日（2026年9月4日、9月7日、9月8日）日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司2026年半年度淨虧損8984.96萬元，靜態市盈率381.87倍，顯著高於PCB行業81.61倍的平均水平。近期市場關注的9-11階高階HDI產品、儲存相關產品，分別佔2026年半年度營業收入比例不到1%、不到5%，短期內不會對公司經營業績產生重大影響。公司向特定物件發行股票事項尚需完成發行程式。經核查，公司不存在應披露而未披露的重大事項，控股股東、實控人在異常波動期間未買賣公司股票。"
+    },
+    {
+      "id": "5083291",
+      "time": "2026-09-08 21:50:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7天6板！4家機構扎堆買入】9月8日，集泰股份再度漲停，報收8.72元/股，漲幅9.96%，全天換手率達35.75%，成交額11.43億元，振幅達11.94%。該股在近7個交易日內錄得6個漲停板，1個跌停板。集泰股份龍虎榜資料顯示，龍虎榜買入前五中，四家機構專用席位包攬買一至買四，四家機構席位合計買入金額約1.18億元，賣出金額4728.48萬元，合計淨買入7103.91萬元。（上海證券報微信公眾號）"
+    },
+    {
+      "id": "5083290",
+      "time": "2026-09-08 21:49:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "古德溫股價上漲 3.5%，此前有報道稱其或將與私募股權公司Cerberus達成交易  。"
+    },
+    {
+      "id": "te:markets:582077",
+      "time": "2026-09-08 21:49:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Aluminum Hits 4-week High — Aluminum increased to 3348.00 USD/T, the highest since August 2026. Over the past 4 weeks, Aluminum gained 0.32%, and in the last 12 months, it increased 27.29%."
+    },
+    {
+      "id": "te:markets:582076",
+      "time": "2026-09-08 21:48:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Rio Tinto Stock Price Hits 11-week High — Rio Tinto shares increased to 7808.00 GBp, the highest since June 2026. Over the past 4 weeks, Rio Tinto gained 3.86%, and in the last 12 months, it increased 69.33%."
+    },
+    {
+      "id": "5083288",
+      "time": "2026-09-08 21:47:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Cerberus即將收購Goodwin防務業務 估值約10億英鎊】知情人士透露，由美國國防部副部長範伯格創立的Cerberus即將收購Goodwin的防務業務，有望數日之內敲定交易。知情人士補充，該業務板塊在這筆交易中的估值約10億英鎊，但同時提醒談判仍存在變數，交易尚未最終落定。本次交易是Goodwin戰略評估工作的一環，公司計劃出售機械工程板塊的核心資產，該板塊包含Goodwin鑄鋼、Goodwin國際、諾雷瓦、伊薩特以及泵業等多項業務資產。"
+    },
+    {
+      "id": "mkt:01a08145-9bde-7118-84ec-86ab392a5a97",
+      "time": "2026-09-08 21:46:57",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD traded little changed in the near term."
+    },
+    {
+      "id": "mkt:01a08145-3cb4-7118-84ec-781126e61b08",
+      "time": "2026-09-08 21:46:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Bank of England Governor Bailey said he wants to dispel the perception that the Bank has a secret plan and will raise interest rates unconditionally."
+    },
+    {
+      "id": "te:markets:582074",
+      "time": "2026-09-08 21:45:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Linde Stock Price Hits 28-week Low — Linde shares decreased to 407.00 EUR, the lowest since February 2026. Over the past 4 weeks, Linde lost 3.12%, and in the last 12 months, it increased 1.99%."
+    },
+    {
+      "id": "5083287",
+      "time": "2026-09-08 21:45:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我想要澄清一個誤解，即我們並無無條件加息的秘密計劃。"
+    },
+    {
+      "id": "5083286",
+      "time": "2026-09-08 21:45:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西法院暫停Sigma Lithium公司旗下礦山的運營許可，致使其美股大跌11.4%。"
+    },
+    {
+      "id": "mkt:01a08143-e408-7118-84ec-73000b10627f",
+      "time": "2026-09-08 21:45:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bailey said the market-implied Bank Rate curve reflects investors' concerns about further rises in energy prices."
+    },
+    {
+      "id": "mkt:01a08143-a133-7118-84ec-6eaf642bed72",
+      "time": "2026-09-08 21:44:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel is approaching a decisive moment to confront the \"octopus\", referring to Iran and its regional allies."
+    },
+    {
+      "id": "mkt:01a08143-5a4a-7118-84ec-6111feef03e6",
+      "time": "2026-09-08 21:44:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla, 10+ automakers roll out price incentives; industry says demand-supply adjustment, not price war】Tesla China on Sept. 7 launched a limited-time in-stock incentive: orders taken and delivered by Sept. 30 qualify for a 5,000 yuan cash rebate on Model 3 variants and a 10,000 yuan rebate on Model Y variants; rebates can be combined with five-year 0% financing. Over the past two weeks more than ten brands across luxury, joint-venture, domestic and new-energy segments have offered time-limited purchase incentives — including in-stock cash rebates, insurance subsidies, zero-interest finance and enhanced trade-in offers. CPCA secretary-general Cui Dongshu said these measures are market actions to rebalance supply and demand during the key September sales window, describing them as pulse sales and inventory-clearance efforts rather than the start of a broad price war."
+    },
+    {
+      "id": "5083285",
+      "time": "2026-09-08 21:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：私募股權公司Cerberus據悉接近達成以10億英鎊收購Goodwin防務部門的交易。"
+    },
+    {
+      "id": "mkt:01a08142-d0ed-7118-84ec-58b933a63f94",
+      "time": "2026-09-08 21:43:54",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) pared gains to below 3% after earlier rising more than 8%."
+    },
+    {
+      "id": "mkt:01a08142-70a6-7118-84ec-53212de06cf4",
+      "time": "2026-09-08 21:43:30",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said inf risks are skewed to the upside."
+    },
+    {
+      "id": "5083284",
+      "time": "2026-09-08 21:43:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：通脹面臨上行風險。"
+    },
+    {
+      "id": "5083283",
+      "time": "2026-09-08 21:43:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行格林：貨幣政策委員會內部對通脹走勢存在不同看法 。"
+    },
+    {
+      "id": "5083282",
+      "time": "2026-09-08 21:43:07",
+      "tags": [
+        "行業"
+      ],
+      "text": "【8月汽車銷量前十已無燃油車】9月8日，懂車帝援引的乘聯分會零售銷量資料顯示，2026年8月全國乘用車零售銷量排行榜前十車型全部為新能源車，傳統燃油車無一上榜。具體來看，吉利星願以39651輛的零售銷量居首，零跑A10（30652輛）、特斯拉Model Y（29260輛）分列二三位，比亞迪元UP（22958輛）、特斯拉Model 3（20787輛）、長安啟源Q05（17349輛）、理想i6（16979輛）、比亞迪海豚（16829輛）、小米SU7（16518輛）、五菱繽果Pro（14695輛）分列其後。（第一財經）"
+    },
+    {
+      "id": "5083281",
+      "time": "2026-09-08 21:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通漲幅收窄至不足3%，此前一度漲超8%。"
+    },
+    {
+      "id": "5083280",
+      "time": "2026-09-08 21:42:20",
+      "tags": [
+        "行業"
+      ],
+      "text": "【特斯拉等十餘個品牌降價促銷，專家：車企調節供需，而非價格戰】特斯拉降價再度引發市場對“車市價格戰”的猜測。在乘聯分會秘書長崔東樹看來，降價促銷是車企調節供需平衡的市場行為，而非惡性價格戰。他指出，9月處於“金九銀十”關鍵銷售視窗，各品牌集中促銷更多是“脈衝式”的視窗衝刺，目的在於沖銷量、清庫存，而非全面價格戰的開端。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a08140-afeb-7118-84ec-48298becff8a",
+      "time": "2026-09-08 21:41:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【ThunderSoft, Chuneng Auto sign strategic cooperation agreement】Chinese software firm ThunderSoft said on Sept. 8 it signed a strategic cooperation agreement with Chuneng Auto to deepen collaboration on production transfer and manufacturing coordination, product upgrades and flexible manufacturing, and market expansion and long-term cooperation. The partners will focus on ThunderSoft's intelligent cockpit OS and other core products to accelerate smart-technology iteration in new-energy vehicles (NEVs)."
+    },
+    {
+      "id": "5083279",
+      "time": "2026-09-08 21:41:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "索拉里能源基礎設施股價上漲14.7%，此前該公司上調了2026財年核心利潤預期。"
+    },
+    {
+      "id": "5083278",
+      "time": "2026-09-08 21:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科創達與楚能汽車達成戰略合作】中科創達訊息，9月8日，中科創達與楚能汽車舉行戰略合作簽約儀式。雙方將圍繞生產承接與製造協同、產品升級與柔性製造、市場拓展與長期協作三大方向展開深度合作，以智慧座艙OS等核心產品為抓手，共同推進新能源汽車智慧技術的更新迭代。"
+    },
+    {
+      "id": "te:markets:582072",
+      "time": "2026-09-08 21:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.86% Lower — The Dow Jones Index is losing 462 points. Losses were led by Amgen (-7.30%), Salesforce (-4.46%) and J&J (-2.45%). Offsetting the fall, top gainers were Chevron (1.96%), Caterpillar (1.73%) and Nvidia (0.19%)."
+    },
+    {
+      "id": "te:markets:582071",
+      "time": "2026-09-08 21:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Jumps After Holiday — The Ibovespa jumped more than 1.5% to trade close to 188,000 on Tuesday following Monday’s holiday, posting broad-based gains. Petrobras rose more than 1.5% as oil prices surged following attacks on energy infrastructure in Saudi Arabia amid renewed hostilities in the Middle East. Vale gained about 2% as iron ore prices in China rose, driven by lower shipments and expectations of a seasonal recovery in Chinese demand. Meanwhile, a BTG/Nexus poll pointed to a technical tie between Flávio Bolsonaro and President Lula in a potential presidential runoff, although Flávio moved into a numerical lead of one percentage point. On Monday, a Quaest poll also showed the two tied at 41% in a second-round scenario. Flávio Bolsonaro is viewed by markets as more fiscally restrictive amid elevated yields and weak business activity. Major banks gained, with Itaú up more than 2% and Bradesco adding more than 1.5%. Utilities rose as well, with Axia gaining nearly 2%. WEG and Rede D’Or both rose about 2%."
+    },
+    {
+      "id": "5083277",
+      "time": "2026-09-08 21:40:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5742.00元。"
+    },
+    {
+      "id": "5083276",
+      "time": "2026-09-08 21:40:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5742.00元。"
+    },
+    {
+      "id": "5083275",
+      "time": "2026-09-08 21:40:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿維安卡航空從巴西擔保基金與擔保管理局（ABGF）獲得了一筆首創融資，用於支付通用電氣航空位於巴西的維修車間的維護、修理與大修（MRO）服務。"
+    },
+    {
+      "id": "5083274",
+      "time": "2026-09-08 21:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1375.00美元/盎司。"
+    },
+    {
+      "id": "5083273",
+      "time": "2026-09-08 21:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1375.00美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0813f-22c7-7118-84ec-44dc3ed95b7c",
+      "time": "2026-09-08 21:39:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oracle (ORCL.N) shares rose nearly 6%."
+    },
+    {
+      "id": "5083272",
+      "time": "2026-09-08 21:39:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破78000美元，日內跌1.51%。"
+    },
+    {
+      "id": "mkt:01a0813e-6f38-7118-84ec-391a42b2cc49",
+      "time": "2026-09-08 21:39:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the rise in UK mortgage rates has been almost the largest among G7 countries."
+    },
+    {
+      "id": "5083271",
+      "time": "2026-09-08 21:38:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孟凡利出席第二十六屆中國國際投資貿易洽談會 會見福建省省長趙龍和部分企業家】9月8日，第二十六屆中國國際投資貿易洽談會在福建廈門開幕。廣東省委副書記、省長孟凡利出席開幕式，會見福建省省長趙龍，並在會議前後分別與中國遠洋海運集團總經理林戟、瑞幸咖啡聯合創始人兼執行長郭謹一、博楓集團董事長布魯斯·弗拉特等舉行工作會談，就進一步深化合作進行深入交流。（南方+）"
+    },
+    {
+      "id": "5083270",
+      "time": "2026-09-08 21:38:35",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "英國央行行長貝利：英國抵押貸款利率的升幅幾乎大於七國集團（G7）中的任何其他國家。"
+    },
+    {
+      "id": "5083269",
+      "time": "2026-09-08 21:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【茶顏悅色接連關停兩大子品牌】9月7日晚間，茶顏悅色官方公眾號釋出長文，宣佈旗下子品牌 “晝夜詩酒茶・藝文小酒館”（下稱“晝夜小酒館”）將在10月31日前陸續關閉全部門店，並回應了近期社交媒體上一些關於關店的討論。這是繼7月底“小神閒茶館”全線撤店後，今年茶顏家族第二個宣佈退場的子品牌，其多品牌矩陣正在以肉眼可見的速度收縮。（國際金融報）"
+    },
+    {
+      "id": "5083268",
+      "time": "2026-09-08 21:38:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "濱水純水集團（EVERPURE）股價上漲2.5%，此前該公司將於9月21日正式納入標普500指數。"
+    },
+    {
+      "id": "5083267",
+      "time": "2026-09-08 21:37:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "通用磨坊公司股價下跌2%，此前該公司重申了2027財年的全年財務預期。"
+    },
+    {
+      "id": "te:markets:582070",
+      "time": "2026-09-08 21:37:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Bounces Back — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, rose about 0.3% to 3,584 points on Tuesday, following a 1.4% decrease in the prior session. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, rebounded by 0.4% to 6,313 points; and the supramax index went up 0.7% to 1,693 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, was down for a third day, falling 0.7% to 2,414 points."
+    },
+    {
+      "id": "5083266",
+      "time": "2026-09-08 21:37:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文股價延續漲勢，分析師在財報釋出前持樂觀態度。"
+    },
+    {
+      "id": "mkt:01a0813c-d0c7-7118-84ec-33b17dda7643",
+      "time": "2026-09-08 21:37:21",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England deputy governor Ramsden said he is satisfied with policy but remains very concerned about upside inf risks."
+    },
+    {
+      "id": "5083265",
+      "time": "2026-09-08 21:37:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合天然食品公司股價在第四季度利潤超出市場預期後上漲5.3%。"
+    },
+    {
+      "id": "5083264",
+      "time": "2026-09-08 21:36:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "菲利普莫里斯公司股價上漲1.4%，此前該公司僅因匯率因素上調了2026財年的每股收益預期。"
+    },
+    {
+      "id": "5083263",
+      "time": "2026-09-08 21:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞民航局8日表示，一架載有5人的直升機當天在馬來西亞沙撈越州龍巴朗機場附近墜毀。目前機上人員傷亡情況不明。 據馬來西亞民航局發表的宣告，該局當天15時58分接到飛行資訊服務部門報告，獲悉這起事故。失事直升機當時在執行醫療飛行服務任務，機上包括飛行員在內共有5人。 沙撈越州警察總監穆罕默德·扎伊納爾·阿卜杜拉表示，相關部門目前正在展開搜救行動，並對事故原因進行調查。（新華社）"
+    },
+    {
+      "id": "5083262",
+      "time": "2026-09-08 21:35:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "伊奧尼斯製藥公司的心臟藥物後期臨床試驗失敗，公司股價下跌7%。"
+    },
+    {
+      "id": "te:markets:582069",
+      "time": "2026-09-08 21:35:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Start Week Lower — US equities were lower on Tuesday as higher energy prices dented the outlook on margins and lifted risks of higher interest rates. The S&P 500 and Nasdaq 100 were 0.4% down, and the Dow fell nearly 1%. New strikes between the US and Iran prolonged expectations on suspended fuel exports from the Persian Gulf, while attacks from Houthi forces damaged Saudi energy infrastructure and dented their capacity. Borrowing costs for US companies were also lifted by hawkish signs from the Bank of Japan and likely selling of US Treasury securities by Japan to support the yen. Credit-sensitive hyperscalers were firmly lower, with Microsoft and Alphabet down 1%, while Amazon fell 1% ahead of its sterling bond offer. AI companies have increasingly borrowed in foreign currencies as dollar bond markets already face soaring AI-debt supply. In turn, Oracle gained 5% ahead of its earnings this week."
+    },
+    {
+      "id": "mkt:01a0813b-5f28-7118-84ec-2976f4153970",
+      "time": "2026-09-08 21:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's defense minister said the country is procuring about 1,000 missiles from allied countries."
+    },
+    {
+      "id": "mkt:01a0813b-508f-7118-84ec-2262ad913e61",
+      "time": "2026-09-08 21:35:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's foreign minister Wadephul said anyone advocating leaving the EU is endangering freedom, prosperity and security."
+    },
+    {
+      "id": "mkt:01a0813b-2d22-7118-84ec-18713f13a548",
+      "time": "2026-09-08 21:35:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON official said the U.S. believes its allies can and will lead Ukraine's self-defense."
+    },
+    {
+      "id": "5083261",
+      "time": "2026-09-08 21:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷SE - \"NOVA\"運載火箭首飛計劃於2027年初進行。"
+    },
+    {
+      "id": "5083260",
+      "time": "2026-09-08 21:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓高階官員：美國認為盟友能夠且將會主導烏克蘭的自衛行動。"
+    },
+    {
+      "id": "mkt:01a0813a-9e18-7118-84ec-10bc2aea94f2",
+      "time": "2026-09-08 21:34:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "At the open on Sept. 8 (Tue), the Dow Jones Industrial Average fell 464.30 points (-0.87%) to 52,949.95; the S&P 500 opened down 10.50 points (-0.14%) at 7,707.86; the Nasdaq Composite opened up 21.41 points (+0.08%) at 26,528.40."
+    },
+    {
+      "id": "5083259",
+      "time": "2026-09-08 21:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：將強硬回應匈牙利驅逐俄外交人員】俄羅斯外交部發言人扎哈羅娃8日說，俄方將對匈牙利驅逐10名俄外交人員作出強硬回應。俄新社援引扎哈羅娃的話報道，針對匈牙利驅逐10名俄羅斯外交人員一事，俄方回應將“強硬且令匈方痛苦”。她沒有具體說明俄方將作出何種回應。俄聯邦委員會（議會上院）副主席科薩切夫表示，任何驅逐行為都是不友好的，這樣的“集體”驅逐更是極其不友好的對抗性舉動，是公開的挑戰，必然引發俄方對等回應。（新華社）"
+    },
+    {
+      "id": "mkt:01a0813a-65a3-7118-84ec-0f041b99dd71",
+      "time": "2026-09-08 21:34:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England deputy governor Ramsden said global inflation dynamics are tilted toward upside risks."
+    },
+    {
+      "id": "5083258",
+      "time": "2026-09-08 21:34:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "保時捷股份公司收購美國航天公司斯托克航天的部分股權。"
+    },
+    {
+      "id": "5083257",
+      "time": "2026-09-08 21:34:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "IONQ公司上調全年營收展望後股價上漲11.3%。"
+    },
+    {
+      "id": "5083256",
+      "time": "2026-09-08 21:34:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行拉姆登：全球通脹形勢面臨的通脹上行風險要大得多。"
+    },
+    {
+      "id": "mkt:01a08139-eeda-7118-84ec-00f17501a8be",
+      "time": "2026-09-08 21:34:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "African Development Bank launches $5.1 billion program to address energy and fertilizer shocks."
+    },
+    {
+      "id": "5083255",
+      "time": "2026-09-08 21:34:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：確認突尼西亞評級為「B-」，展望穩定。"
+    },
+    {
+      "id": "mkt:01a08139-7839-7118-84eb-fb57bd9da9a9",
+      "time": "2026-09-08 21:33:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange issued a regulatory letter to Sanrenxing concerning outbound investment matters."
+    },
+    {
+      "id": "5083254",
+      "time": "2026-09-08 21:33:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "波士頓科學公司股價下跌2%，此前該公司表示，網路攻擊將影響其第三季度及2026財年的淨銷售額增長和調整後每股收益指引。"
+    },
+    {
+      "id": "5083253",
+      "time": "2026-09-08 21:33:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "布魯姆能源股價上漲7.8%，此前該公司確認將於9月21日正式納入標普500指數。"
+    },
+    {
+      "id": "mkt:01a08138-ddfe-7118-84eb-f036e8b8b79d",
+      "time": "2026-09-08 21:33:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England deputy governor Ramsden said he had gained confidence in inf from the labour market."
+    },
+    {
+      "id": "mkt:01a08138-d887-7118-84eb-e880842f0001",
+      "time": "2026-09-08 21:33:01",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Deputy Governor Ramsden said UK wage levels are lower than the Bank expected before the conflict."
+    },
+    {
+      "id": "mkt:01a08138-9d32-7118-84eb-e3b925d7ba7b",
+      "time": "2026-09-08 21:32:46",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) rose more than 7%, its largest one-day gain since Aug. 4."
+    },
+    {
+      "id": "5083252",
+      "time": "2026-09-08 21:32:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "龐巴迪股價開盤下跌7.2%，創兩週多來最大跌幅。"
+    },
+    {
+      "id": "5083250",
+      "time": "2026-09-08 21:32:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價上漲6.1%；諾斯蘭資本將其評級從“與大盤持平”上調至“跑贏大盤”。"
+    },
+    {
+      "id": "mkt:01a08138-4c85-7118-84eb-dfa044489dc8",
+      "time": "2026-09-08 21:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Deputy Governor Ramsden said UK domestic inflation is relatively subdued."
+    },
+    {
+      "id": "mkt:01a08138-3987-7118-84eb-d4929ecb19e4",
+      "time": "2026-09-08 21:32:20",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US defense official says the US must prepare for a prolonged conflict in Ukraine."
+    },
+    {
+      "id": "5083249",
+      "time": "2026-09-08 21:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫迪總理：UPI（統一支付介面）應延伸至銀行服務尚未覆蓋的地區。"
+    },
+    {
+      "id": "5083248",
+      "time": "2026-09-08 21:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【每年可提供約32億度清潔電力 申能新疆托里135萬千瓦風電專案竣工】9月8日，申能新疆塔城托里縣135萬千瓦風電專案竣工，標誌著申能深耕新疆新能源賽道、打造區域綜合能源基地的戰略佈局落地見效，滬疆能源合作邁上新臺階。申能新疆塔城托里縣135萬千瓦風電專案是“十五五”以來新疆投產的首個百萬千瓦級風電專案，也是新疆塔城單期容量最大、上海國企走出去建設的單期容量最大風電專案，裝機總容量為135萬千瓦，儲能容量135兆瓦/270兆瓦時。每年可提供約32億度清潔電力，節約標準煤約97萬噸，減少二氧化碳排放量約200萬噸，按一畝樹林每天吸收二氧化碳67千克折算，減排能力相當於在戈壁上植造了一片8.2萬畝森林，相較於傳統能源專案，具備顯著的節能降耗、生態環保效益。（上觀）"
+    },
+    {
+      "id": "5083247",
+      "time": "2026-09-08 21:31:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "D-WAVE QUANTUM 上漲超過 11%；RIGETTI 上漲超過 10%。"
+    },
+    {
+      "id": "te:markets:582068",
+      "time": "2026-09-08 21:31:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuit Stock Price Hits 4-week Low — Intuit shares decreased to 321.64 USD, the lowest since August 2026. Over the past 4 weeks, Intuit lost 3.52%, and in the last 12 months, it decreased 51.91%."
+    },
+    {
+      "id": "5083246",
+      "time": "2026-09-08 21:31:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空公司：為此，漢莎貨運已於上週一，即2026年9月7日簽署協議，收購盧格航空貨運處理有限公司100%股權。"
+    },
+    {
+      "id": "5083245",
+      "time": "2026-09-08 21:31:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空公司：漢莎貨運簽署收購LUG航空貨運處理有限公司協議，夯實未來增長基礎設施。"
+    },
+    {
+      "id": "mkt:01a08137-24f3-7118-84eb-ceed61c05b2d",
+      "time": "2026-09-08 21:31:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq Golden Dragon China Index opened down more than 1%; Baidu (BIDU.O) fell over 7%."
+    },
+    {
+      "id": "5083244",
+      "time": "2026-09-08 21:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROIVANT SCIENCES 股價開盤飆升 16%，創下新紀錄。"
+    },
+    {
+      "id": "5083243",
+      "time": "2026-09-08 21:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "受納入標普500指數提振，BLOOM ENERGY股價上漲7.5%。"
+    },
+    {
+      "id": "5083242",
+      "time": "2026-09-08 21:30:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.15%，現報11987.29點。英偉達漲1.21%，博通漲2.10%，美光漲1.98%，英特爾漲7.19%，AMD漲3.11%，高通漲6.46%，臺積電漲2.56%，阿斯麥漲3.68%。"
+    },
+    {
+      "id": "5083241",
+      "time": "2026-09-08 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.77%，標普500指數跌0.09%，納指漲0.09%。安進跌6.70%，HWM跌6.31%，英特爾漲7.03%，高通漲6.31%。“七姐妹”方面：特斯拉漲1.35%，英偉達漲1.25%，Meta Platforms漲0.24%，蘋果跌0.78%，谷歌跌0.92%，亞馬遜跌1.06%，微軟跌1.26%。"
+    },
+    {
+      "id": "mkt:01a08136-c813-7118-84eb-c2c8ecd9153e",
+      "time": "2026-09-08 21:30:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "QCOM.O",
+        "Impact bullish",
+        "INTC.O",
+        "ASML.O"
+      ],
+      "text": "At the U.S. open, the Dow fell 0.7%, the S&P 500 fell 0.1% and the Nasdaq rose 0.08%. Qualcomm (QCOM.O) jumped 5% after announcing a multi-generation product collaboration with Amazon (AMZN.O). Intel (INTC.O) rose 6% on reports it will raise CPU prices by about 10%. ASML (ASML.O) gained 3.8% and TSMC (TSM.N) added 2.4% after the companies launched cooperation on high-NA EUV photomasks."
+    },
+    {
+      "id": "5083240",
+      "time": "2026-09-08 21:30:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "安進股價下跌7%，創下自2025年6月以來最大單日跌幅。"
+    },
+    {
+      "id": "te:markets:582067",
+      "time": "2026-09-08 21:30:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amgen Stock Price Hits 4-week Low — Amgen shares decreased to 407.08 USD, the lowest since August 2026. Over the past 4 weeks, Amgen gained 0.05%, and in the last 12 months, it increased 43.85%."
+    },
+    {
+      "id": "te:markets:582066",
+      "time": "2026-09-08 21:30:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Micron Technology Stock Price Hits 9-week High — Micron Technology shares increased to 1038.00 USD, the highest since July 2026. Over the past 4 weeks, Micron Technology gained 16.03%, and in the last 12 months, it increased 688.92%."
+    },
+    {
+      "id": "5083239",
+      "time": "2026-09-08 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，百度跌8.06%，燃石醫學跌6.84%，金山雲跌5.03%，逸仙電商跌3.38%，小馬智行跌2.72%。"
+    },
+    {
+      "id": "5083238",
+      "time": "2026-09-08 21:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：應致力於提升信貸、儲蓄和投資在印度金融科技市場的份額。"
+    },
+    {
+      "id": "te:markets:582065",
+      "time": "2026-09-08 21:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Abbott Stock Price Hits 4-week Low — Abbott shares decreased to 106.72 USD, the lowest since August 2026. Over the past 4 weeks, Abbott gained 2.48%, and in the last 12 months, it decreased 18.51%."
+    },
+    {
+      "id": "mkt:01a08135-d9b9-7118-84eb-bcf6231fb5a4",
+      "time": "2026-09-08 21:29:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England MPC member Greene said he is concerned about the persistence of high oil prices and that they could trigger second‑round effects."
+    },
+    {
+      "id": "mkt:01a08135-cb2a-7118-84eb-b0180eaf5dc8",
+      "time": "2026-09-08 21:29:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said he does not believe the conflict will escalate."
+    },
+    {
+      "id": "mkt:01a08135-9685-7118-84eb-aeed1be89d05",
+      "time": "2026-09-08 21:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada Prime Minister Carney said he will impose necessary retaliatory tariffs to protect domestic industry."
+    },
+    {
+      "id": "mkt:01a08135-87b3-7118-84eb-a708a90daf3b",
+      "time": "2026-09-08 21:29:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Prime Minister Carney said he will take all necessary measures to support the economy amid a U.S.-Canada trade dispute."
+    },
+    {
+      "id": "mkt:01a08135-5925-7118-84eb-98434e31388d",
+      "time": "2026-09-08 21:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Prime Minister Modi said India aims to connect its payment system with other countries."
+    },
+    {
+      "id": "mkt:01a08135-2390-7118-84eb-901e5d165e80",
+      "time": "2026-09-08 21:28:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Automatic Data Processing (ADP) confirmed Amazon Web Services (AWS) as its cloud services provider."
+    },
+    {
+      "id": "5083237",
+      "time": "2026-09-08 21:28:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADP 確認將 AWS 作為其雲服務供應商。"
+    },
+    {
+      "id": "mkt:01a08134-e9f5-7118-84eb-8b8ca0edaeb3",
+      "time": "2026-09-08 21:28:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "NATO Secretary General Rutte said countries have no choice but to step up support for Ukraine."
+    },
+    {
+      "id": "5083236",
+      "time": "2026-09-08 21:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交部：召見塞爾維亞駐英國代辦。"
+    },
+    {
+      "id": "5083235",
+      "time": "2026-09-08 21:28:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "ADP 與亞馬遜雲科技（AWS）達成合作  。"
+    },
+    {
+      "id": "5083234",
+      "time": "2026-09-08 21:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：統一支付介面（UPI）應致力於與更多國家的支付系統完成整合。"
+    },
+    {
+      "id": "mkt:01a08132-cf0a-7118-84eb-86d187e9e95e",
+      "time": "2026-09-08 21:26:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Taylor said policymakers must guard against sustained energy-price increases that alter wage- and price‑setting; if that occurs monetary policy would need to respond forcefully, though current evidence is limited."
+    },
+    {
+      "id": "5083233",
+      "time": "2026-09-08 21:26:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行泰勒：需警惕持續能源漲價改變薪資與定價機制的風險；政策需強力應對，但目前相關證據不足。"
+    },
+    {
+      "id": "mkt:01a08132-1b6a-7118-84eb-7956ae9fd195",
+      "time": "2026-09-08 21:25:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of England governor Bailey said Ukrainian attacks on Russian refineries have also pushed up refined-product costs."
+    },
+    {
+      "id": "5083232",
+      "time": "2026-09-08 21:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年中國與其他金磚成員國貿易指數釋出】8日，由海關總署編制的2025年中國與其他金磚成員國貿易指數在第二十六屆中國國際投資貿易洽談會上釋出。指數以金磚國家領導人首次會晤的2009年為基期，2025年上升至334.14，較2024年提升32.64，實現連續10年向上攀升。中國與其他金磚成員國貿易指數由貿易規模、貿易結構、貿易創新和貿易潛力四項指標構成，2025年上述指標值分別達到295.31、188.15、396.24和456.88。資料顯示，2025年中國與其他金磚成員國有進出口記錄的企業數量首次突破30萬家，同比增加8.8%；進出口7.47萬億元，同比增長3.4%，佔當年中國外貿總值的16.4%。（新華社）"
+    },
+    {
+      "id": "mkt:01a08131-8195-7118-84eb-7411fb8a3ff4",
+      "time": "2026-09-08 21:25:00",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Taylor said he does not believe external shocks will undermine the basic case for cutting rates once uncertainty subsides."
+    },
+    {
+      "id": "5083231",
+      "time": "2026-09-08 21:24:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行泰勒：我不認為外部衝擊會在不確定性消退後，否定下調利率的基本面邏輯。"
+    },
+    {
+      "id": "5083230",
+      "time": "2026-09-08 21:24:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍版傳媒：股票交易異常波動 9月9日起停牌核查】龍版傳媒公告稱，公司股票8月31日至9月7日連續6個交易日漲停，9月8日上漲9.12%，8月31日-9月8日累計漲幅約93.47%，先後3次觸及股票交易異常波動情形，股價累計漲幅偏離基本面，存在非理性炒作風險。經申請，公司股票將於2026年9月9日開市起停牌，自披露核查公告後復牌。經核查，公司生產經營正常，2026年上半年歸母淨利潤7867.80萬元，同比下降34.46%；AI影片業務對業績無顯著影響；不存在應披露未披露重大事項，相關主體近期無買賣公司股票行為。公司最新滾動市盈率45.41倍，顯著高於行業17.92倍的水平，外部流通盤較小，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:01a08130-feb1-7118-84eb-6cdbf2bd1618",
+      "time": "2026-09-08 21:24:26",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Taylor said keeping interest rates at a modestly restrictive level can help provide a buffer against external risks."
+    },
+    {
+      "id": "5083229",
+      "time": "2026-09-08 21:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會（MPC）成員泰勒：我認為將銀行利率維持在適度緊縮水平，可為抵禦外部風險提供保障。"
+    },
+    {
+      "id": "mkt:01a08130-3a56-7118-84eb-65bad5e32915",
+      "time": "2026-09-08 21:23:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan, US and Australia launch 'Eastern Shield' exercise across multiple Japanese sites】The Japan–US–Australia 'Eastern Shield' joint exercise began Aug. 8 across Hokkaido, Kagoshima and other Japanese locations and will run through Aug. 24, Kagoshima prefectural authorities said. About 3,700 personnel are participating. At Japan Maritime Self-Defense Force Kanoya Air Base, the drills will reuse the 'Tiefeng' medium-range missile system and HIMARS high-mobility rocket launchers for anti-ship training following their deployment in the Japan–US 'Brave Shield' exercises in June–July. The U.S. deployed 'Tiefeng' and HIMARS to Kanoya in June; 'Tiefeng' is scheduled to transfer to U.S. bases in Japan after the exercise. The drills have prompted domestic concern and opposition in Japan."
+    },
+    {
+      "id": "5083228",
+      "time": "2026-09-08 21:23:22",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行行長貝利：美伊戰爭已推高能源價格，未來能源價格可能進一步上漲。"
+    },
+    {
+      "id": "mkt:01a0812f-e0ad-7118-84eb-5b6e86960b90",
+      "time": "2026-09-08 21:23:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Bank of England Governor Bailey said the US-Iran war has driven up energy prices and could push them higher."
+    },
+    {
+      "id": "mkt:01a0812f-7f42-7118-84eb-57f7a283004e",
+      "time": "2026-09-08 21:22:48",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "Ukraine's defense minister urged allies to transfer \"Patriot\" air-defense missile systems from their inventories to Ukraine."
+    },
+    {
+      "id": "te:economy:582061",
+      "time": "2026-09-08 21:22:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Angola",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Angola inflation Rate Keeps Cooling — The annual inflation rate in Angola fell further to 8.78% in August 2026 from 9.33% in July, marking the lowest since April 2015 and extending the downward trend observed since mid-2024. The moderation in inflation has been attributed mainly to the relative stability of the kwanza and improvements in the domestic supply of essential goods. Price growth eased for several CPI categories, including food & non-alcoholic beverages (9.94% vs 10.40% in July); clothing & footwear (6.20% vs 6.30%); housing & utilities (8.24% vs 10.17%); miscellaneous goods & services (6.02% vs 6.38%) and education (19.33% vs 25.24%). Meanwhile, prices increased slightly faster for alcoholic beverages & tobacco (9.02% vs 8.61%) and transportation (3.67% vs 3.65%). On a monthly basis, the CPI rose by 0.59%, slowing from a 0.75% increase in the prior month."
+    },
+    {
+      "id": "5083227",
+      "time": "2026-09-08 21:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長： 烏克蘭敦促盟國從庫存中調撥愛國者導彈運抵烏方。"
+    },
+    {
+      "id": "mkt:01a0812e-fc74-7118-84eb-4a2988862901",
+      "time": "2026-09-08 21:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's defense minister said allies need to make necessary decisions before November."
+    },
+    {
+      "id": "5083226",
+      "time": "2026-09-08 21:22:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：改革推進步伐將會加快。"
+    },
+    {
+      "id": "mkt:01a0812e-2c1d-7118-84eb-466412ab5f2d",
+      "time": "2026-09-08 21:21:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fuao Co.: Wuhan capacity ramp, Q3 mass production and December air-suspension line to support H2 operations】Fuao Co. said at its Sept. 8, 2026 interim results briefing that Wuhan factory capacity ramp-up, Q3 mass production of parts for the AITO M8, in‑year mass supply of fully active dampers and a second air‑suspension production line scheduled for commissioning in December are expected to provide positive support to H2 operations. The company warned industry competition remains complex and that volatile downstream vehicle demand and customer production schedule adjustments could still weigh on near‑term results; it said it is premature to say the recent earnings decline has been fundamentally reversed."
+    },
+    {
+      "id": "mkt:01a0812e-2911-7118-84eb-3aeeece6c3a9",
+      "time": "2026-09-08 21:21:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Ukraine's defense minister said fiscal decisions to support Ukraine are needed now."
+    },
+    {
+      "id": "5083225",
+      "time": "2026-09-08 21:21:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "烏克蘭國防部長：現在亟需出臺支援烏克蘭的財政決議。"
+    },
+    {
+      "id": "5083224",
+      "time": "2026-09-08 21:20:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3379.00元。"
+    },
+    {
+      "id": "5083223",
+      "time": "2026-09-08 21:20:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3379.00元。"
+    },
+    {
+      "id": "5083222",
+      "time": "2026-09-08 21:19:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "遊戲驛站股價盤前上漲1.6%，此前公佈第二季度業績。"
+    },
+    {
+      "id": "mkt:01a0812c-6244-7118-84eb-36adc8597e7d",
+      "time": "2026-09-08 21:19:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Modi said fintech is vital to India’s goal of joining the ranks of developed countries."
+    },
+    {
+      "id": "5083221",
+      "time": "2026-09-08 21:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "DELLPHI‑305 三期臨床試驗達到主要終點。（注： 這是一項正在進行的 3 期臨床試驗，旨在評估 tarlatamab 聯合度伐利尤單抗（durvalumab）對比單獨使用度伐利尤單抗治療廣泛期小細胞肺癌（ES-SCLC）一線維持治療的療效與安全性。  ）"
+    },
+    {
+      "id": "5083220",
+      "time": "2026-09-08 21:19:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "開雲集團與信誠品牌有限公司合作，在印度推出“開雲世代獎”。"
+    },
+    {
+      "id": "mkt:01a0812c-12a4-7118-84eb-2abfb72b3d6e",
+      "time": "2026-09-08 21:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's defense minister says the window to stop Russia is limited."
+    },
+    {
+      "id": "5083219",
+      "time": "2026-09-08 21:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：金融科技對實現發達國家目標至關重要。"
+    },
+    {
+      "id": "5083218",
+      "time": "2026-09-08 21:18:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Ameren Corporation：根據美國證券交易委員會（SEC）備案檔案，該公司已申報發行次級附屬票據，發行規模未披露。"
+    },
+    {
+      "id": "5083217",
+      "time": "2026-09-08 21:18:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【布魯姆能源因納入標普 500 指數股價上漲】燃料電池製造商布魯姆能源即將於 9 月 21 日納入標普 500 指數，其股票（程式碼：BE）漲幅超 6%。布魯姆能源是人工智慧資料中心建設浪潮的主要受益方，該股今年累計漲幅約 190%。"
+    },
+    {
+      "id": "5083216",
+      "time": "2026-09-08 21:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "Virtuix向美國海軍MWR自由專案交付首套Omni One系統。"
+    },
+    {
+      "id": "mkt:01a0812a-5652-7118-84eb-25700a952ddb",
+      "time": "2026-09-08 21:17:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Germany's defense minister said Berlin will continue to supply Ukraine with drones and long-range munitions."
+    },
+    {
+      "id": "5083215",
+      "time": "2026-09-08 21:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI稱，計劃在今年年底前開始部署與博通開發的AI晶片Jalapeño，同時與英偉達、AMD及其他合作伙伴的加速器協同推進。"
+    },
+    {
+      "id": "5083214",
+      "time": "2026-09-08 21:15:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富奧股份：武漢工廠產能釋放等因素將對下半年經營形成正向支撐】富奧股份(000030)在9月8日召開的2026年半年度業績說明會上表示，下半年，武漢工廠產能釋放、問界M8配套產品三季度量產、全主動減振器年內量產供貨、第二條空氣懸架產線於12月建成投產等因素，預計將對公司經營形成正向支撐。目前，外部行業競爭環境依然複雜，下游整車需求波動及客戶排產調整等因素，仍可能對公司短期經營產生一定影響，現階段尚難斷言業績下滑態勢已得到根本性扭轉。"
+    },
+    {
+      "id": "5083213",
+      "time": "2026-09-08 21:15:39",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛上調油價預測：霍爾木茲海峽航運風險加劇，極端情景下布油或衝擊120美元 】受中東地緣政治衝突持續升級影響，高盛（Goldman Sachs）最新上調原油價格預測。該行警告，若霍爾木茲海峽及紅海地區的航運襲擊進一步加劇，布倫特原油價格可能飆升至每桶120美元。在週一晚間釋出的研究報告中，基於中東航運中斷將延續至2027年的新基準假設，將2026年12月布倫特原油價格預測上調5美元至每桶85美元（此前預測為80美元）。同時，該行設定了更為悲觀的極端情景：若中東原油出口因持續緊張局勢而長期面臨瓶頸，120美元/桶的油價可能在2027年成為常態。"
+    },
+    {
+      "id": "5083212",
+      "time": "2026-09-08 21:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長：將向烏克蘭提供 PAC‑2 導彈。"
+    },
+    {
+      "id": "5083211",
+      "time": "2026-09-08 21:14:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本名古屋1小時降雨逾百毫米破紀錄】今天（9月8日），日本愛知縣名古屋市等地遭遇強降雨。在截至下午4點50分的一小時內，名古屋市降雨量達101.5毫米，重新整理1890年有相關記錄以來的最高值。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:582058",
+      "time": "2026-09-08 21:14:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lumber Hits Nine-Month Low — Lumber futures fell below $555 per thousand board feet, reaching its lowest level in nine months, as retaliatory tariffs from Canada on US goods took effect, weighing down demand. Ottawa had announced counter-tariffs of 25% on US lumber and 50% on Plywood following US tariffs on several lumber-related goods. US forestry groups have long accused Canada of distorting the market, as 94% of Canadian forestland is publicly owned compared to 58% privately owned in the US, allowing Canadian lumber to be sold at a lower price. The fallout is hitting the forest sector of both countries, as selling lumber prices went up immediately after the news, pushing demand lower. Fall is usually a time for renovations, however, elevated prices weighs on the sector. Meanwhile, US housing remains subdued, with lumber-intensive single-family construction spending falling 3.2% in July, while elevated mortgage rates continue to weigh on homeownership."
+    },
+    {
+      "id": "te:economy:582057",
+      "time": "2026-09-08 21:14:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Used Car Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Used-Car Prices Fall for Second Month — The Manheim Used Vehicle Value Index, a widely followed gauge of wholesale used-vehicle prices in the US, fell 0.9% month-on-month in August 2026, marking a second consecutive monthly decline. On a yearly basis, price growth slowed to 0.4%, the weakest pace since December 2025, as resilience in EV and compact-car prices was offset by continued declines in pickups and SUVs. Cox Automotive Chief Economist Jeremy Robb said depreciation was stronger in July and early August before easing toward the end of the month. While younger vehicle cohorts saw greater depreciation, older and more affordable cars held up better, with nine- and 10-year-old vehicles remaining about six percentage points above their long-term averages, underscoring steady demand for affordable used cars. Used retail sales continued to strengthen through August, while retail days’ supply fell to 44 days from 46 at the end of July. Stronger demand and tighter supply continued to support dealer purchases from Manheim."
+    },
+    {
+      "id": "5083210",
+      "time": "2026-09-08 21:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚旗下先鋒自然資源擬收購 21 億美元高階票據。"
+    },
+    {
+      "id": "5083209",
+      "time": "2026-09-08 21:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日美澳聯合演習在日本多地啟動】據日本鹿兒島縣當地媒體報道，由日本、美國和澳大利亞共同參加的“東方之盾”聯合演習8日在日本北海道、鹿兒島縣等地啟動，將持續至24日。相關動向引發日本國內擔憂與反對。報道說，日美澳共派出約3700人參加演習。在海上自衛隊鹿屋航空基地，繼今年6月至7月日美“勇敢之盾”聯合演習之後，將再次使用“堤豐”中導系統和“海馬斯”高機動性火箭炮系統實施反艦作戰訓練。（新華社）"
+    },
+    {
+      "id": "5083208",
+      "time": "2026-09-08 21:12:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金力永磁：預計2027年底公司磁材產能將達到6萬噸/年】金力永磁9月8日晚披露投資者關係活動記錄表。公司當日在接受機構調研時表示，公司於2025年中啟動包頭三期“年產2萬噸高效能稀土永磁材料綠色智造專案”。目前，該專案主要工程主體基本完工，生產裝置將按計劃分批次安裝，產能將分批逐步釋放，預計2027年底公司磁材產能將達到6萬噸/年。"
+    },
+    {
+      "id": "5083207",
+      "time": "2026-09-08 21:12:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚子公司宣佈全盤債務收購要約。"
+    },
+    {
+      "id": "5083206",
+      "time": "2026-09-08 21:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十六屆中蒙新聞論壇在呼和浩特舉辦】由中華全國新聞工作者協會和蒙古國記者協會共同主辦、內蒙古自治區人民政府新聞辦公室承辦的第十六屆中蒙新聞論壇8日在內蒙古自治區呼和浩特市舉辦。（新華社）"
+    },
+    {
+      "id": "te:markets:582056",
+      "time": "2026-09-08 21:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "L'Oréal Stock Price Hits 4-week High — L'Oréal shares increased to 393.77 EUR, the highest since August 2026. Over the past 4 weeks, L'Oréal gained 0.8%, and in the last 12 months, it decreased 1.19%."
+    },
+    {
+      "id": "5083205",
+      "time": "2026-09-08 21:09:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國家電網董事長張智剛會見馬來西亞國家能源公司董事長丹斯里·阿卜杜勒·拉扎克】9月8日，中國國家電網公司董事長張智剛在公司總部會見馬來西亞國家能源公司董事長丹斯里·阿卜杜勒·拉扎克。雙方表示，要在過去良好合作的基礎上，秉持開放合作理念，加強技術研究，開展技術交流，推動技術進步，在特高壓輸電技術、電網執行技術、數字化和人工智慧應用等方面深化合作，助力碳減排目標，實現可持續發展。"
+    },
+    {
+      "id": "5083204",
+      "time": "2026-09-08 21:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙‑天空之舞將要約收購及交換要約延期至 9 月 18 日。"
+    },
+    {
+      "id": "5083203",
+      "time": "2026-09-08 21:09:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全國豬肉價格連續4週上漲 豬肉價格上漲原因找到了】近期，在北京批發市場走訪瞭解到，受需求增長拉動，豬肉價格溫和回升。資料顯示，9月8日，北京新發地市場白條豬批發平均價為每公斤14元，比8月1日上漲12%。據介紹，豬肉價格上漲，一方面是因為天氣逐漸轉涼、肉類消費增加，另外，能繁母豬存欄量的下降也帶來了豬價上漲的預期。北京新發地市場分析師劉通判斷，從總體上來看，回升的態勢比較溫和，由於毛豬的存欄量仍然比較充足，所以後期肉價的漲勢也不會太大。從全國來看，全國豬肉價格和生豬價格也是呈現回升走勢。據農業農村部監測，9月份第1周全國生豬價格為每公斤11.59元，環比上漲0.3%，豬肉價格為每公斤21.23元，環比上漲0.2%，生豬價格和豬肉價格均是連續4週上漲。（央視財經）"
+    },
+    {
+      "id": "5083202",
+      "time": "2026-09-08 21:08:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三人行：擬聯合設立資料中心投資合夥企業】三人行公告稱，公司擬與全資子公司時代智算、中聯資料集團下屬投資平臺匯鑫富共同設立北京眾聯雲港壹號企業管理合夥企業（有限合夥）。該合夥企業總認繳出資額2.33億元，其中公司認繳1.40億元佔比60%，時代智算認繳4650萬元佔比20%，匯鑫富認繳4650萬元佔比20%。合夥企業定位為資料中心專項投資運營平臺，首期將投資北京房山資料中心專案。本次投資與同日披露的時代智算2.85億元增資專案合計4.71億元，佔公司最近一期經審計淨資產的17.29%，無需提交股東會審議。"
+    },
+    {
+      "id": "5083201",
+      "time": "2026-09-08 21:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：375 萬份認股權證於發行時即可歸屬。"
+    },
+    {
+      "id": "5083200",
+      "time": "2026-09-08 21:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體8日報道，伊朗陸軍防空部隊在霍爾木茲海峽上空擊落一架美軍MQ-1無人機。（新華社）"
+    },
+    {
+      "id": "5083199",
+      "time": "2026-09-08 21:06:12",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "高通股價盤前上漲10.1%，此前該公司宣佈將與亞馬遜合作開發人工智慧資料中心專用晶片。"
+    },
+    {
+      "id": "5083198",
+      "time": "2026-09-08 21:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：該協議允許烏克蘭採購愛國者導彈相關產品。"
+    },
+    {
+      "id": "5083197",
+      "time": "2026-09-08 21:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "馮德萊恩：歡迎就烏克蘭愛國者導彈豁免事宜達成協議。"
+    },
+    {
+      "id": "5083196",
+      "time": "2026-09-08 21:04:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "恩橋公司任命米歇爾・哈雷登斯為執行長，格雷格・埃貝爾將卸任。"
+    },
+    {
+      "id": "te:economy:582053",
+      "time": "2026-09-08 21:03:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Holds Near One-Month High — Switzerland's 10-year government bond yield traded near 0.42%, remaining near the highest level since late July, amid inflation concerns. Swiss inflation doubled in August as tensions in the Middle East persisted over the month, increasing inflation concerns amid higher global energy prices, although its effects are expected to be temporary as electricity prices will drop around 4% starting next year, weighing on inflation in the following months. Meanwhile, quarterly economic growth was confirmed at 1.5%, its highest level in nearly five years, as a weaker swiss franc supported exports and helped lift the trade surplus to a record high, while a trade deal removing all tariffs on goods bound for China also provides support. On the monetary policy front, a Swiss Bankers Association survey showed that all bankers expect the SNB to keep its policy rate at 0% by year-end. Markets anticipated the first rate hike in June 2027, while most economists expect the first hike in early 2028."
+    },
+    {
+      "id": "5083195",
+      "time": "2026-09-08 21:02:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅賓漢（Robinhood）：自9月8日起，將足球賽事合約引流至Crypto.COM預測市場執行。"
+    },
+    {
+      "id": "5083194",
+      "time": "2026-09-08 21:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【喜茶重啟加盟】9月7日，喜茶GO小程式悄然重新上線“我要成為合夥人”申請入口，此次重啟低調又謹慎。除開放入口外，喜茶GO小程式同步更新了配套的申請須知，須知中增設了多項風險提示：提醒申請人理性評估、審慎投資、如實完整填報資料；明確提交申請不等於確立合作關係，喜茶可在任意稽核環節駁回不符合標準的申請。這是自2025年2月喜茶以“拒絕無意義規模內卷”為由正式暫停新加盟申請以來，官方申請渠道首次恢復開放。（21財經）"
+    },
+    {
+      "id": "5083193",
+      "time": "2026-09-08 21:02:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前漲超4%】阿斯麥美股盤前漲超4%，現報1783.877美元。"
+    },
+    {
+      "id": "5083192",
+      "time": "2026-09-08 21:02:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "卡林黃金宣佈獲得ELECTRUM黃金勘探公司2150萬美元戰略投資，並與加通貝祥達成850萬美元私募配售協議。"
+    },
+    {
+      "id": "5083191",
+      "time": "2026-09-08 21:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森與康寧協議有效期為 2027 年至 2032 年。"
+    },
+    {
+      "id": "5083190",
+      "time": "2026-09-08 21:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通認股權證行權價每股 161.26 美元，2036 年到期。"
+    },
+    {
+      "id": "5083189",
+      "time": "2026-09-08 21:01:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通向亞馬遜發行最多 2500 萬股認股權證。"
+    },
+    {
+      "id": "5083188",
+      "time": "2026-09-08 21:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月8日，全球基金淨賣出12.3億印度盧比的印度股票。"
+    },
+    {
+      "id": "5083187",
+      "time": "2026-09-08 21:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月8日，印度國內基金淨買入135億印度盧比的印度股票。"
+    },
+    {
+      "id": "5083186",
+      "time": "2026-09-08 21:00:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶市委書記袁家軍、市長陳新武會見聯想集團董事長楊元慶一行】據“重慶釋出”，9月8日下午，市委書記袁家軍，市委副書記、市長陳新武會見了聯想集團董事長兼CEO楊元慶一行。聯想集團執行副總裁、中國區總裁劉軍，副總裁戴京彤、楊青、王凌雲，市領導劉尚進、鄭向東參加。袁家軍代表市委、市政府歡迎楊元慶一行來渝深化合作，感謝聯想集團對重慶經濟社會發展的支援。袁家軍說，習近平總書記來渝視察時，賦予重慶奮力打造新時代西部大開發重要戰略支點、內陸開放綜合樞紐“兩大定位”，標定了重慶在中國式現代化發展全域性中的奮鬥座標。當前，全市上下深化落實習近平總書記重要講話重要指示精神，縱深推進國家重大戰略走深走實，做大做強“33618”現代製造業叢集體系，加快打造人工智慧創新應用高地，持續營造一流產業生態，紮實推動“十五五”開好局起好步。希望聯想集團繼續深耕重慶，不斷深化高階製造、人工智慧發展等方面務實合作，努力實現更高水平互利共贏。楊元慶感謝重慶市長期以來對聯想集團發展的關心支援，並對現代化新重慶建設取得的成績表示祝賀。他說，重慶工業基礎堅實，智慧製造領域積累了多年經驗，是聯想集團在中國重要的製造基地。集團將進一步堅定在渝發展信心，深度融入重慶產業體系和創新體系，積極發揮自身在智慧製造、AI應用領域的經驗優勢，更好賦能重慶相關產業智慧化轉型，助力重慶高質量發展。聯想集團，有關區和市有關部門負責人參加。"
+    },
+    {
+      "id": "5083185",
+      "time": "2026-09-08 21:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報5863.00元。"
+    },
+    {
+      "id": "5083184",
+      "time": "2026-09-08 21:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報1082.00元。"
+    },
+    {
+      "id": "5083183",
+      "time": "2026-09-08 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1687.00元。"
+    },
+    {
+      "id": "5083182",
+      "time": "2026-09-08 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3347.00元。"
+    },
+    {
+      "id": "5083181",
+      "time": "2026-09-08 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】對二甲苯連續漲2.62%，焦煤連續漲2.39%，短纖連續漲2.37%，集運指數歐線期貨連續漲2.26%，甲醇連續漲2.13%。"
+    },
+    {
+      "id": "5083180",
+      "time": "2026-09-08 20:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "9月4日聯邦基金有效利率為3.63%，與9月3日持平。"
+    },
+    {
+      "id": "5083179",
+      "time": "2026-09-08 20:59:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI算力租賃商Nebius股價盤前上漲2%，此前Palantir將其列為優選主權人工智慧基礎設施合作伙伴。"
+    },
+    {
+      "id": "5083178",
+      "time": "2026-09-08 20:59:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超2%】超威半導體美股盤前漲超2%，現報487.2美元。"
+    },
+    {
+      "id": "5083177",
+      "time": "2026-09-08 20:59:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高通美股盤前漲超5%】高通美股盤前漲超5%，現報178.58美元。"
+    },
+    {
+      "id": "5083176",
+      "time": "2026-09-08 20:59:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "康寧股價盤前上漲5%。"
+    },
+    {
+      "id": "5083175",
+      "time": "2026-09-08 20:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森與康寧達成協議，截至2032年將合作擴大寬頻覆蓋並建設人工智慧基礎設施。"
+    },
+    {
+      "id": "5083174",
+      "time": "2026-09-08 20:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森與康寧宣佈簽署數十億美元多年期供應協議，用於寬頻擴張與下一代人工智慧基礎設施建設。"
+    },
+    {
+      "id": "5083173",
+      "time": "2026-09-08 20:59:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "丹格特煉油廠（Dangote Refinery）執行長表示，即便美伊戰爭結束，全球煉油高利潤率的局面仍將在中期內持續。"
+    },
+    {
+      "id": "5083172",
+      "time": "2026-09-08 20:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新石器無人配送車落地韓國濟州島酒店度假村】9月8日訊息，介面新聞獲悉，新石器無人配送車近日在韓國濟州島Campertree酒店度假村投入運營，用於園區內行李、餐食及日常用品配送。此次專案由新石器韓國本地合作伙伴NT1參與運營。2025年7月，新石器曾與仁川市政府、仁川自由經濟區簽署自動駕駛試點意向書，並在當地開展示範運營。NT1方面表示，目前正研究在濟州島建設無人配送車本地組裝廠。"
+    },
+    {
+      "id": "5083171",
+      "time": "2026-09-08 20:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森與康寧達成光纖合作協議。"
+    },
+    {
+      "id": "te:markets:582050",
+      "time": "2026-09-08 20:57:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Steady Near Two-Week Low — The Swiss franc traded near $0.81, its lowest level since August 19th, amid inflation concerns. Swiss inflation doubled in August as tensions in the Middle East persisted over the month, increasing inflation concerns amid higher global energy prices, although its effects are expected to be temporary as electricity prices will drop around 4% starting next year, weighing on inflation in the following months. Meanwhile, quarterly economic growth was confirmed at 1.5%, its highest level in nearly five years, as a weaker swiss franc supported exports and helped lift the trade surplus to a record high, while a trade deal removing all tariffs on goods bound for China also provides support. On the monetary policy front, a Swiss Bankers Association survey showed that all bankers expect the SNB to keep its policy rate at 0% by year-end. Markets anticipated the first rate hike in June 2027, while most economists expect the first hike in early 2028."
+    },
+    {
+      "id": "5083170",
+      "time": "2026-09-08 20:57:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【糖業股大漲，上市公司回應】9月8日，糖產業指數大漲5.94%，粵桂股份、中糧糖業漲停。訊息面上，據多家媒體報道，全球第二產糖國泰國的糖產量在新榨季可能至少下降17%，全球糖供應面臨的壓力或將進一步加大。某糖產業頭部上市公司人士回應稱，北半球今年的榨季還沒有開始，泰國和我國甘蔗榨季時間基本一致，因此目前還不好做出判斷。“一般而言，甘蔗榨季是從當年11月份到第二年的2月份、3月份，榨好的糖第二年銷售。”粵桂股份方面回應稱。近期糖價有一定的反彈，但前期跌了很多。當前屬於糖企當年銷售的尾聲。“食糖從原材料角度看，北方原材料主要是甜菜，主要分佈在東北、新疆等地。南方原材料主要是甘蔗，廣東、廣西、雲南等地都有種植。國內食糖基本為自產自銷，且需要進口一部分食糖。國內糖價會受到國際糖價的影響，但價格並不完全同步。”有上市公司高管表示。（中證金牛座）"
+    },
+    {
+      "id": "5083169",
+      "time": "2026-09-08 20:56:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價盤前上漲5.1%。"
+    },
+    {
+      "id": "5083168",
+      "time": "2026-09-08 20:56:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Bitmine過去一週增持28,086枚以太坊後，其以太坊持倉已達593萬枚。"
+    },
+    {
+      "id": "5083167",
+      "time": "2026-09-08 20:56:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰測控：31.91萬股限制性股票9月11日上市流通】華峰測控公告稱，公司2025年限制性股票激勵計劃首次授予部分第一個歸屬期股份完成登記，本次歸屬股份共31.9148萬股，佔歸屬前總股本比例約0.16%，涉及激勵物件164人，股票來源為公司定向發行A股普通股，上市流通日期為2026年9月11日。本次歸屬後公司總股本增至20111.74萬股，不會對公司控制權產生影響。"
+    },
+    {
+      "id": "5083166",
+      "time": "2026-09-08 20:56:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Holtec擬IPO籌資9億美元，估值衝刺100億】核能供應商Holtec Nuclear Corp.正尋求透過在美國進行IPO籌集高達9億美元的資金，當下各大公司正試圖利用資料中心日益增長的電力需求獲利。 根據週二提交給美國證券交易委員會(SEC)的一份檔案，Holtec計劃以每股15至18美元的價格發行5000萬股股票。 按該發行價區間上限計算，基於其檔案中列出的流通股數量，Holtec的市值將達到約102億美元。"
+    },
+    {
+      "id": "5083165",
+      "time": "2026-09-08 20:56:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰測控：股東芯華控股詢價轉讓初步定價328.94元/股】華峰測控公告稱，公司股東天津芯華投資控股有限公司詢價轉讓經機構投資者詢價後，初步確定轉讓價格為328.94元/股。本次參與報價的機構投資者共33家，有效認購股份數量328.60萬股，有效認購倍數1.5倍，擬轉讓股份已獲全額認購，初步確定21家機構投資者為受讓方，擬受讓股份總數220.88萬股。本次詢價轉讓為非公開轉讓，受讓方受讓股份後6個月內不得轉讓，最終結果以中登公司上海分公司辦理結果為準，不涉及公司控制權變更。"
+    },
+    {
+      "id": "te:markets:582049",
+      "time": "2026-09-08 20:54:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Strengthens — The Canadian dollar strengthened to around 1.38 per USD in September, largely reflecting broad US dollar weakness. Meanwhile, Canada’s retaliatory tariffs on US goods took effect after Prime Minister Mark Carney’s government failed to reach a deal with Washington last month. The counter-tariffs cover $20 billion of US goods, with duties ranging from 15% to 50% on products including steel, furniture, clothing and electronics. The tariffs imposed last month targeted $20 billion, or 5%, of Canadian exports to the US, including wine, furniture, dairy products, cement, clothing, fishing rods and hockey equipment. Firmer crude prices, which typically support the loonie given Canada’s status as a major oil exporter, have provided an additional tailwind. Further upside risks to oil prices remain as Iran threatens to strike regional energy infrastructure in response to US actions. Energy-driven inflation concerns could also lead to tighter BoC policy."
+    },
+    {
+      "id": "5083164",
+      "time": "2026-09-08 20:53:53",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率走低，跌至5.22%，較日內高點回落6個基點左右。"
+    },
+    {
+      "id": "5083163",
+      "time": "2026-09-08 20:53:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬潤科技：擬對控股子公司萬潤半導體增資1.3億元】萬潤科技公告稱，公司擬對控股子公司湖北長江萬潤半導體技術有限公司增資擴股並引入戰略投資者，本次擬增資合計1.30億元，其中公司以現金方式非公開協議增資1億元，其餘股東放棄優先認繳權；剩餘3000萬元透過產權交易機構公開掛牌引入戰略投資者，增資價格不低於1.14元/每1元註冊資本，最終以公開掛牌結果為準，公司增資價格與公開掛牌結果同股同價。本次募集資金主要用於研發投入及經營週轉，增資完成後公司仍為萬潤半導體控股股東。本次公開掛牌摘牌方尚未確定，交易能否順利完成存在不確定性。"
+    },
+    {
+      "id": "5083162",
+      "time": "2026-09-08 20:53:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST嶺南：2025年營收1.12億元 淨虧損23.36億元】*ST嶺南公告稱，2025年營業收入1.12億元，同比下降86.99%；歸屬於上市公司股東的淨虧損23.36億元，虧損同比增加137.29%。2026年1-6月營業收入0.58億元，同比減少67.44%；歸屬於上市公司股東的淨虧損2.84億元，虧損同比擴大121.35%。“嶺南轉債”無法按期兌付本息，公司主體及“嶺南轉債”信用等級均被下調為C。公司股票被實施退市風險警示併疊加其他風險警示，2026年9月7日收盤價為0.98元/股，存在因股價低於面值被終止上市的風險。公司涉嫌轉包工程被立案調查。"
+    },
+    {
+      "id": "5083161",
+      "time": "2026-09-08 20:53:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【GSK啟動六部分美元債券發行，為Nuvalent收購案融資】葛蘭素史克正在推銷美元債券，以幫助為其106億美元收購美國生物技術公司Nuvalent Inc.的過橋融資進行再融資。此前該製藥商已完成了35億歐元（約合41億美元）的歐元計價債券發行。據知情人士透露，此次發行分為六個期限批次，從3年到30年不等，其中最長期限債券的初始價格談判較美國國債溢價約1.1個百分點。"
+    },
+    {
+      "id": "5083160",
+      "time": "2026-09-08 20:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國最佳化營商環境創新實踐案例釋出】8日，第二十六屆中國國際投資貿易洽談會同期舉辦第四屆營商環境論壇，論壇釋出了2026年全國最佳化營商環境創新實踐案例。國家發展和改革委員會法規司副司長、一級巡視員於文濤在論壇上介紹了具體創新實踐案例，包括山東省開展政策“直達快享”改革，推動惠企政策兌現提質增效；浙江省金華市打造“政策找人”數字服務新生態，推動惠企政策精準直達快享；河北省打造“掃碼入企”智慧化監管平臺，規範入企行政檢查；四川省創新涉企智慧監管模式，以“無事不擾”護航企業安心經營；黑龍江省強化政府合同履約智慧監管，持續增強企業發展信心；海南省構建政府合同誠信履約監測機制，打造誠信政府；上海市以清朗網路空間護航營商環境持續最佳化；福建省深入整治涉企侵權網路亂象，營造良好營商網路環境；廣東省深化12345熱線平臺“即接即辦”改革，打造政務服務“總客服”新標杆；重慶市創新打造“民呼我為”平臺，構建“企呼我應”服務新生態。（新華社）"
+    },
+    {
+      "id": "5083159",
+      "time": "2026-09-08 20:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【12國發表聯合宣告 限制與約旦河西岸以色列定居點商品貿易】當地時間9月8日，法國外交部長巴羅表示，法國將停止與巴勒斯坦被佔領土上的以色列定居點進行商品貿易。法國與英國、加拿大、丹麥、西班牙、芬蘭、愛爾蘭、冰島、挪威、波蘭、葡萄牙和瑞典等11國當天發表聯合宣告，就限制與以色列定居點的商品貿易作出相關承諾。聯合宣告稱，約旦河西岸局勢正在迅速惡化，定居者暴力和定居點擴張達到前所未有的程度。法國、英國和加拿大將提出國家層面的措施，禁止與定居點進行商品貿易。（央視新聞）"
+    },
+    {
+      "id": "5083158",
+      "time": "2026-09-08 20:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國天眼構建世界最大中性氫星系樣本庫】記者從中國科學院國家天文臺獲悉，由國家天文臺姜鵬團隊牽頭的中國天眼FAST中性氫巡天專案（FASHI），釋出第二期資料集FASHI DR2，構建起當今世界規模最大的中性氫星系樣本庫，相關成果9月8日發表在學術期刊。中性氫是宇宙古老的基礎物質，被視作星系的“建築原料”，它發出的21釐米輻射訊號，能夠穿透星際塵埃，傳遞宇宙深處資訊。此次釋出的資料集共捕捉到15.6萬個中性氫星系，巡天覆蓋近半個天穹。樣本數量是此前國際巡天望遠鏡的5倍，相較首期資料的近4倍，再次重新整理世界紀錄。（新華社）"
+    },
+    {
+      "id": "5083156",
+      "time": "2026-09-08 20:48:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球航運規則面臨瓦解風險 18國海事主管機構發出警告】國際航運管理機構警告稱，地緣政治動盪以及日益壯大的“影子船隊”正在衝擊現有航運秩序，全球航運規則正面臨瓦解的風險。全球18個主要航運國家海事主管機構組成的政策協調組織——協商航運組織(CSG)週二在一份聯合宣告中指出，全球超過80%的貿易透過海運完成，數十年來，保障航行自由以及商船中立地位的國際規則一直為全球航運業提供保護。但如今，這些基本原則正遭到削弱，給全球貿易帶來嚴重風險。宣告稱，“如果沒有海運貿易，供應鏈將四分五裂，全球經濟也將如我們所知的那樣突然陷入停滯。”"
+    },
+    {
+      "id": "5083155",
+      "time": "2026-09-08 20:48:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旭升集團：儲能產品下半年有望持續放量 具身智慧相關業務向小批次交付推進】旭升集團總經理徐旭東在今天下午舉行的2026年半年度業績說明會上表示，公司目前已覆蓋北美及國內知名儲能頭部客戶，並圍繞相關專案持續推進產品開發、驗證及量產交付，客戶和產品呈多元化發展，今年下半年有望持續放量。目前，公司具身智慧相關業務實現收入整體規模仍較小，但增速非常快；從進展看，公司已從前期研發和樣件階段逐步向小批次交付推進。"
+    },
+    {
+      "id": "5083154",
+      "time": "2026-09-08 20:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【暑期出境長線遊需求延後至中秋、國慶，北美、澳新等地訂單增長顯著】記者從旅行社、線上旅遊平臺處瞭解到，中秋、國慶假期出境長線遊預訂程序顯著加快，不少原計劃在9月中旬完成銷售的長線遊團組已經售罄。受高溫、國際局勢等多重因素影響，大量境內遊客出行需求從暑期延後至中秋、國慶假期。與此同時，“請3休13”的拼假模式激發更多遊客的出遊熱情。目前，長線遊目的地中，歐洲熱度保持高位。旅行社資料顯示，歐洲遊預訂佔比接近整體出遊總量一半，赴歐出遊人數同比增長達140%；北美、澳新的出遊及租車訂單增速顯著，北美出遊人數同比增幅高達480%。紐西蘭、加拿大多倫多等地自駕需求同比增長約七成。（北京商報）"
+    },
+    {
+      "id": "5083153",
+      "time": "2026-09-08 20:47:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【勝宏科技全員每月底薪漲300元，加班費跟漲】9月8日，記者從多位員工處獲悉，勝宏科技自9月起全體員工每月底薪上漲300元，隨著底薪調整，加班費也有所上漲。部分員工估算，月薪整體將上漲700元以上。對於此次調整的原因，勝宏科技在通知中提及，主要是為了回饋全體員工辛勤付出。（紅星新聞）"
+    },
+    {
+      "id": "5083152",
+      "time": "2026-09-08 20:47:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收復跌幅；收益率小幅逼近日內低點。"
+    },
+    {
+      "id": "te:markets:582048",
+      "time": "2026-09-08 20:45:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies Near $66 Ahead of US Inflation Data — Silver traded cautiously around $66 an ounce on Tuesday as investors weighed expectations of a Federal Reserve rate hike against a weaker dollar ahead of key US inflation data later this week. Rising oil prices also renewed concerns over inflation. Oil extended gains to multi-week highs amid escalating Middle East tensions after Yemen’s Iran-backed Houthis attacked energy facilities and cities in Saudi Arabia, a key US ally. Meanwhile, Friday’s stronger-than-expected jobs report pointed to a strengthening labor market, prompting traders to price in roughly a 60% chance of a Fed rate hike at the September meeting. While silver is traditionally seen as an inflation hedge, higher interest rates tend to reduce the appeal of the non-yielding asset. Investors now await producer price data on Thursday and consumer inflation figures on Friday for further clues on the Fed’s policy outlook."
+    },
+    {
+      "id": "5083151",
+      "time": "2026-09-08 20:44:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿斯麥在荷蘭建設第二座產業園 相當於50個歐洲足球場並可容納2萬員工】阿斯麥控股開始在荷蘭建設第二座產業園區，這對荷蘭政府而言是一項利好。此前，荷蘭政府承諾數十億資金，以說服這家科技公司繼續在本土擴張。阿斯麥週二在宣告中表示，其即將在埃因霍溫建設的新園區最終佔地面積將相當於約50個歐洲足球場，可容納最多2萬名員工。園區一期工程將於2029年完工。"
+    },
+    {
+      "id": "5083150",
+      "time": "2026-09-08 20:43:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建發汽車與九識智慧簽訂300臺無人物流車框架採購協議】9月7日，建發股份全資子公司建發汽車與九識智慧舉行戰略合作框架協議簽約儀式，正式達成深度業務合作，並同步簽訂300臺無人物流車框架採購協議。此次簽約標誌著雙方在智慧裝備商業化落地、智慧物流場景規模化運營領域的合作邁入實質性落地階段。"
+    },
+    {
+      "id": "te:markets:582047",
+      "time": "2026-09-08 20:43:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Steady Ahead of Key US Inflation Data — Gold prices traded cautiously around $4,400 an ounce on Tuesday, caught between rising bets on a Federal Reserve rate hike and a softer dollar ahead of key US inflation data later this week. A further rise in oil prices also renewed inflation concerns. Oil extended gains to multi-week highs amid escalating Middle East tensions after Yemen’s Iran-backed Houthis attacked energy facilities and cities in Saudi Arabia, a key US ally. Meanwhile, Friday’s stronger-than-expected jobs report pointed to a strengthening labor market, prompting traders to price in about a 60% chance of a Fed rate hike at the September meeting. While gold is traditionally viewed as a hedge against inflation, higher interest rates tend to weigh on the appeal of the non-yielding asset. Investors now await producer price data on Thursday and consumer price figures on Friday for further clues on the Fed’s policy outlook."
+    },
+    {
+      "id": "5083149",
+      "time": "2026-09-08 20:42:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交易商協會對東方金誠予以警告 涉違反評級獨立性要求等】交易商協會公告，經查，東方金誠國際信用評估有限公司（以下簡稱“東方金誠”）作為銀行間債券市場信用評級機構，存在以下違反銀行間債券市場相關自律管理規定的行為：一是違反評級獨立性要求，營銷人員在某專案中多次參與發行人為獲取高信用級別而組織的資產整合商議，所籌劃的資產整合方案明確影響了評級結果；二是部分模型指標打分理由相互矛盾，不充分、不客觀；三是未嚴格執行內控制度中關於營銷制度、客戶信用風險監控處置的要求，合規監督機制落實不到位；四是盡職調查訪談混淆評級物件，部分記錄錯誤、相互套用，對部分評級指標未按自律規則要求充分蒐集必要資訊。根據銀行間債券市場相關自律規定，經自律處分會議審議決定，對東方金誠予以警告；責令其針對本次事件中暴露出的營銷合規管理、盡職調查等方面問題進行全面深入的整改。"
+    },
+    {
+      "id": "5083148",
+      "time": "2026-09-08 20:41:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海市政府與中國電信在滬簽署“十五五”戰略合作協議】上海市人民政府與中國電信集團有限公司今天（9月8日）在滬簽署“十五五”戰略合作協議。根據協議，雙方將建立全方位戰略合作關係，依託上海科技創新、產業集聚、營商環境等綜合優勢，發揮中國電信建設網路強國、科技強國、數字中國和維護網信安全的重要作用，共建“智雲上海”城市資訊化服務品牌，建設全球領先的新型資訊基礎設施，推動前沿技術創新佈局，以數字技術牽引現代化產業體系建設，提升超大城市治理智慧化水平，助力上海加快建成具有世界影響力的社會主義現代化國際大都市。"
+    },
+    {
+      "id": "5083147",
+      "time": "2026-09-08 20:41:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勤上股份：子公司擬對參股公司同比例增資不超2000萬元】勤上股份公告稱，公司全資子公司勤上光電持有參股公司廣東勤上40%股權，擬與廣東勤上控股股東晶豐置業對廣東勤上進行同比例現金增資，其中勤上光電擬增資金額不超過2000萬元，晶豐置業擬增資不超過3000萬元，增資資金擬12個月內分期到位。本次增資後，廣東勤上註冊資本增至36803.75萬元，各股東持股比例不變。本次交易構成關聯交易，未構成重大資產重組，已經公司董事會審議透過，尚需工商管理部門登記備案。"
+    },
+    {
+      "id": "5083146",
+      "time": "2026-09-08 20:40:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗：儲存晶片擠壓手機市場 但三星表現將優於大多廠商】瑞穗證券的一份報告指出，儲存晶片價格上漲擠壓全球手機市場，在此大環境下，三星電子的表現有望優於絕大多數手機廠商；與此同時，三星半導體業務則從相同的供應短缺局面中持續獲益。 這家日本券商預測，2026年全球智慧手機出貨量為11.5億部，同比下滑9%；預計三星出貨量基本持平，維持在2.4億部。 瑞穗表示，三星與蘋果在獲取儲存晶片貨源方面處境相對有利，並且產品結構更加偏向旗艦機型。兩家企業擁有更大空間消化成本上漲，或是透過調價將成本轉嫁給消費者。"
+    },
+    {
+      "id": "5083145",
+      "time": "2026-09-08 20:40:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "米利班德：英國歡迎法國、加拿大加入針對定居點的相關行動。"
+    },
+    {
+      "id": "5083144",
+      "time": "2026-09-08 20:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "米利班德：英國希望以色列在加沙和約旦河西岸均採取新的處理方式。"
+    },
+    {
+      "id": "5083143",
+      "time": "2026-09-08 20:39:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：今天我們與廣泛國際聯盟中的其他國家協同行動。"
+    },
+    {
+      "id": "5083142",
+      "time": "2026-09-08 20:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德：我們將繼續根據以色列政府的行動對其進行評估。"
+    },
+    {
+      "id": "5083141",
+      "time": "2026-09-08 20:36:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞太經合組織能源工作組第72次會議在北京成功舉辦】9月8日，亞太經合組織能源工作組第72次會議在北京召開。中國國家能源局副局長汪劍波出席會議並致辭。汪劍波強調，APEC合作的生命力在於各經濟體共同參與。中方始終秉持開放包容理念，舉辦APEC“中國年”能源領域系列活動，並非單向展示自身實踐，而是搭建多邊對話平臺，推動各經濟體充分分享實踐經驗、相互借鑑，將各方智慧凝聚為合作成果。希望各經濟體本著求同存異精神，坦誠交換意見，凝聚政策共識，立足能源領域，積極應對全球能源格局調整與技術變革對亞太發展提出的新議題，為增進亞太地區全體人民福祉貢獻更多能源力量。（國家能源局）"
+    },
+    {
+      "id": "te:markets:582046",
+      "time": "2026-09-08 20:36:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip on US-Canada Trade War — Futures tracking Canada’s stock market slipped on Tuesday as Canada’s retaliatory tariffs on US goods took effect. The counter-tariffs cover $20 billion of US goods, with duties ranging from 15% to 50% on products including steel, furniture, clothing and electronics. The US tariffs implemented last month targeted sectors including wine, furniture, dairy products, cement, clothing, fishing rods and hockey equipment, covering $20 billion, or 5%, of Canadian exports to the US. Meanwhile, US President Trump said on Monday that Bombardier would not be allowed to sell its planes in the US unless it started manufacturing in the country. Also weighing on the TSX, crude prices climbed after Saudi Arabia reported attacks that halted operations at several energy facilities. Fears of prolonged energy disruptions and resulting energy-driven inflation increased rate hike expectations in Canada and the US, pressuring credit-sensitive stocks such as major banks."
+    },
+    {
+      "id": "5083140",
+      "time": "2026-09-08 20:35:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中塑股份：首次公開發行股票並在創業板上市提示投資風險】中塑股份公告稱，公司首次公開發行股票並在創業板上市申請已獲證監會同意註冊，本次發行1233.29萬股新股，發行價55.28元/股，對應2025年扣非後攤薄靜態市盈率22.20倍，低於行業及可比公司平均市盈率，但仍存在股價下跌風險。本次發行採用戰略配售、網下發行、網上發行相結合的方式，申購日為2026年9月10日，預計募集資金總額6.82億元，淨額約5.95億元，低於募集資金需求金額。"
+    },
+    {
+      "id": "5083139",
+      "time": "2026-09-08 20:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鄭中設計：控股股東減持比例觸及1%整數倍】鄭中設計公告稱，公司控股股東亞泰一兆於2026年8月6日至9月7日透過集中競價、大宗交易方式合計減持公司股份282.07萬股，佔公司總股本的0.92%。本次權益變動後，亞泰一兆及其一致行動人合計持有公司股份16014.42萬股，佔公司總股本比例由52.92%降至52.00%，權益變動觸及1%整數倍。本次減持符合此前披露的減持計劃，該計劃尚未實施完畢。"
+    },
+    {
+      "id": "5083138",
+      "time": "2026-09-08 20:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "米利班德：英國將否決助長佔領行為的軍售許可。"
+    },
+    {
+      "id": "5083137",
+      "time": "2026-09-08 20:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：湯加內亞富西北 26 公里處發生 5.3 級地震。"
+    },
+    {
+      "id": "5083136",
+      "time": "2026-09-08 20:34:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "格芯獲得美商務部至多3.75億美元晶片研發資助。"
+    },
+    {
+      "id": "5083135",
+      "time": "2026-09-08 20:34:39",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨跌0.81%，標普500指數期貨跌0.25%，納指期貨漲0.07%。\n②德國DAX指數漲0.07%，英國富時100指數漲0.02%，法國CAC40指數跌0.05%，歐洲斯托克50指數漲0.06%。\n③WTI原油漲2.40%，報93.68美元/桶。布倫特原油漲1.59%，報98.54美元/桶。\n④傳日本央行計劃在9月上調利率至1.25%。\n⑤沙特多處能源設施遭襲起火。\n⑥超強厄爾尼諾逼近，世界糧食計劃署：將加劇全球突發性糧食不安全問題。\n⑦阿斯麥盤前漲超2%，公司計劃與主要客戶合作，開發能夠生產最先進晶片製造裝置的新方案，以滿足英偉達等公司設計的大型資料中心晶片需求。\n⑧美股油氣股盤前集體上漲，其中，Equinor、英國石油漲超3%，殼牌、巴西石油公司、道達爾漲超2%，埃尼石油、森科能源、埃克森美孚漲超1%。胡塞武裝稱對沙特阿美及空軍基地發動了報復性打擊。\n⑨甲骨文股價盤前上漲5%，勢創6月底以來新高，聯博集團分析師Mark Moerdler維持甲骨文買入評級，維持目標價325美元。"
+    },
+    {
+      "id": "5083133",
+      "time": "2026-09-08 20:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "外長聯合宣告：在定居者暴力與定居點擴張達到空前水平之際，約旦河西岸局勢正急劇惡化。"
+    },
+    {
+      "id": "5083132",
+      "time": "2026-09-08 20:33:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "各國外長聯合宣告：以色列在約旦河西岸的行動破壞了兩國方案的可能性。"
+    },
+    {
+      "id": "5083131",
+      "time": "2026-09-08 20:33:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "前谷歌、IBM、微軟及惠普研究科學家丹尼爾·弗裡德曼教授以傑出量子科學家身份加入Quantum X Labs。"
+    },
+    {
+      "id": "5083130",
+      "time": "2026-09-08 20:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：將擴大現行人權制裁法的適用範圍，以便能更迅速地用於遏制定居點擴張，包括E1開發專案。"
+    },
+    {
+      "id": "5083129",
+      "time": "2026-09-08 20:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "各國外長宣告指出：以色列必須立即停止擴建定居點並停止擴大民事行政管轄權，同時必須確保對定居者暴力行為追究責任。"
+    },
+    {
+      "id": "5083128",
+      "time": "2026-09-08 20:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大、丹麥、芬蘭、法國、冰島、愛爾蘭、挪威、波蘭、葡萄牙、西班牙、瑞典和英國外長就“兩國方案”發表聯合宣告：計劃對被視為違反國際法的定居點實施貨物貿易限制。"
+    },
+    {
+      "id": "5083127",
+      "time": "2026-09-08 20:31:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國外交大臣米利班德表示：將制裁那些為定居點擴張提供建築、基礎設施、融資或房地產等特定服務的公司和個人。"
+    },
+    {
+      "id": "5083126",
+      "time": "2026-09-08 20:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "核能公司HGP計劃以12億美元估值進行SPAC交易。"
+    },
+    {
+      "id": "5083125",
+      "time": "2026-09-08 20:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：英國將推出新的全面制裁制度，並設有適當的宗教豁免條款。"
+    },
+    {
+      "id": "5083124",
+      "time": "2026-09-08 20:31:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：英國將對來自被佔領土非法定居點的商品實施進口禁令。"
+    },
+    {
+      "id": "5083123",
+      "time": "2026-09-08 20:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川高坪鎮泥石流災害已致12人遇難 仍有1人失聯】江西遂川縣高坪鎮明坑村石下組9月5日凌晨4時許發生泥石流災害。截至目前，災害已造成12人遇難，仍有1人失聯（後續排查新增）。 (央視新聞)"
+    },
+    {
+      "id": "5083122",
+      "time": "2026-09-08 20:29:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德：英國政府認同約旦河西岸部分地區存在對巴勒斯坦人的種族清洗行為。"
+    },
+    {
+      "id": "5083121",
+      "time": "2026-09-08 20:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "米利班德：以色列行動意在破壞兩國方案。"
+    },
+    {
+      "id": "5083120",
+      "time": "2026-09-08 20:28:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國出版：股價短期波動較大 市盈率高於行業水平】中國出版公告稱，公司股票於2026年9月4日、9月7日連續兩個交易日收盤價格漲幅偏離值累計超20%，9月8日再次漲停，股價短期波動較大。截至2026年9月8日，公司股價較8月7日漲幅達33.52%，滾動市盈率25.34倍，高於所屬新聞和出版業17.92倍的行業滾動市盈率。公司主營業務未發生變化，生產經營正常。2026年上半年營收19.18億元，同比下降8.58%；歸母淨利潤1543.07萬元，同比下降88.39%；扣非歸母淨虧損5961.22萬元，同比下降186.44%。"
+    },
+    {
+      "id": "5083119",
+      "time": "2026-09-08 20:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "Orion宣佈與一家全球大型超大規模資料中心運營商達成又一項數百萬美元級別的資料中心合作；此前，該公司在啟動首個數百萬美元級別的專案後，迅速獲得了新訂單。"
+    },
+    {
+      "id": "5083118",
+      "time": "2026-09-08 20:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：E1方案意味著製造一系列事實，使兩國解決方案無法實現。"
+    },
+    {
+      "id": "5083117",
+      "time": "2026-09-08 20:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：金礦企業Solidcore擬回購最高價值12億美元股份。"
+    },
+    {
+      "id": "5083116",
+      "time": "2026-09-08 20:26:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府： 在反恐制裁制度下新增一項認定。  根據全球人權制裁製度，另新增5項列名。"
+    },
+    {
+      "id": "5083115",
+      "time": "2026-09-08 20:26:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國將對猶太人定居點實施新制裁】據英國媒體報道，英國外交大臣米利班德預計將於今天（9月8日）宣佈調整英國的中東政策，對約旦河西岸的猶太人定居點採取新的制裁措施，包括禁止進口在約旦河西岸巴勒斯坦被佔領土上的猶太人定居點生產的商品。對此，以色列總統赫爾佐格今天釋出影片宣告，聲稱這是英國政府的“嚴重誤判”，是“站在歷史錯誤一邊的決定”。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5083114",
+      "time": "2026-09-08 20:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：正對伊朗實施重大經濟制裁。"
+    },
+    {
+      "id": "5083113",
+      "time": "2026-09-08 20:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德：我們的爭論並非針對以色列人民，而是針對其政府的行為。"
+    },
+    {
+      "id": "5083112",
+      "time": "2026-09-08 20:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德表示：“今天標誌著一種新方針的開端，那就是要敢於對不公發聲，並採取行動。”"
+    },
+    {
+      "id": "5083111",
+      "time": "2026-09-08 20:25:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中無人機：實控人一致行動人減持0.1843%股份 計劃實施完畢】中無人機公告稱，公司實際控制人的一致行動人中航一期基金減持計劃期限屆滿，已實施完畢。減持期間為2026年6月8日至2026年9月7日，中航一期基金透過集中競價方式累計減持公司股份124.43萬股，佔公司總股本的0.1843%，減持價格區間為45.00~47.91元/股，減持總金額為5778.28萬元。本次減持後，中航一期基金持有公司股份582.97萬股，佔總股本的0.8637%。"
+    },
+    {
+      "id": "5083110",
+      "time": "2026-09-08 20:24:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "BAJAJ FINANCE收購 TrueFan AI 5% 股份。"
+    },
+    {
+      "id": "te:markets:582044",
+      "time": "2026-09-08 20:24:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "GlaxoSmithKline Stock Price Hits 16-week Low — GlaxoSmithKline shares decreased to 1801.00 GBp, the lowest since May 2026. Over the past 4 weeks, GlaxoSmithKline lost 6.41%, and in the last 12 months, it increased 20.99%."
+    },
+    {
+      "id": "5083109",
+      "time": "2026-09-08 20:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：全面落實兩國方案是本屆政府政策的核心指引。"
+    },
+    {
+      "id": "5083108",
+      "time": "2026-09-08 20:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國計劃斥資35億泰銖刺激國內旅遊】泰國旅遊和體育部長Surasak Phancharoenworakul表示，政府計劃動用約35億泰銖（1.063億美元）政府借款資金推出新的國內旅遊刺激措施，從11月1日起提供100萬個補貼名額。根據擬議的“Thai Tiew Thai Plus”計劃，遊客每入住酒店一晚可獲得固定的1500泰銖補貼，每人最多補貼五晚。"
+    },
+    {
+      "id": "5083107",
+      "time": "2026-09-08 20:22:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST惠倫：涉及決議效力確認訴訟 法院已立案】ST惠倫公告稱，公司近日收到東莞市第三人民法院送達的法律文書，法院已受理趙劍華訴公司決議效力確認糾紛一案，公司為被告。原告訴請確認公司2026年6月24日第五屆董事會第十一次會議《關於改選公司第五屆董事會董事長的議案》決議不成立，確認該決議中選舉邢越為董事長、趙劍華不再擔任董事長的內容不具法律效力，訴訟費由公司承擔。公司稱本次董事會召集、表決均符合規定，決議合法有效。本案尚未開庭審理，判決結果存在不確定性，對公司利潤的影響暫無法估計。"
+    },
+    {
+      "id": "5083106",
+      "time": "2026-09-08 20:22:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國貨航：國風投創新基金減持0.31%股份 減持期限屆滿】國貨航公告稱，公司股東國風投創新投資基金股份有限公司減持計劃期限屆滿，於2026年6月9日至9月8日透過集中競價交易方式累計減持公司股份37,603,039股，佔公司總股本的0.31%，減持價格區間為4.36元/股-4.92元/股，減持均價4.48元/股。本次減持前，國風投創新基金持有公司股份55,733,158股，佔比0.46%；減持後持有18,130,119股，佔比0.15%。本次減持未導致公司控制權變更，未對公司治理及持續經營產生重大影響。"
+    },
+    {
+      "id": "5083105",
+      "time": "2026-09-08 20:22:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電科思儀：9月10日創業板上市 發行價16元/股】電科思儀公告稱，公司發行的人民幣普通股股票將於2026年9月10日在深圳證券交易所創業板上市。本次首次公開發行股票數量為10206.9432萬股，佔發行後總股本的11.00%，全部為新股，無老股轉讓，發行後總股本為92790.3932萬股，發行價格為16.00元/股。本次發行價對應2025年扣非前後孰低歸母淨利潤攤薄後市盈率為44.81倍，低於行業及可比公司平均市盈率，仍存在股價下跌風險，敬請投資者理性投資、注意風險。"
+    },
+    {
+      "id": "5083104",
+      "time": "2026-09-08 20:22:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九安醫療：股東三和公司持股比例被動稀釋至25%】九安醫療公告稱，公司持股5%以上股東石河子三和股權投資合夥企業（有限合夥）因公司股票期權激勵計劃激勵物件自主行權導致總股本增加，持股比例被動稀釋。2025年9月27日至2026年9月4日期間，三和公司持股數量不變，為11654.45萬股，持股比例從25.07%被動減少至25.00%，變動比例為-0.07%。截至本報告書籤署日，三和公司所持股份中2176萬股處於質押狀態，佔公司總股本比例4.67%；三和公司暫無未來12個月內增持或減持公司股份的明確計劃。"
+    },
+    {
+      "id": "5083103",
+      "time": "2026-09-08 20:22:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德：英國與以色列將繼續在共同國家安全利益上合作。"
+    },
+    {
+      "id": "5083102",
+      "time": "2026-09-08 20:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣米利班德：英國正在制裁黎巴嫩真主黨的融資機構\" Al-Qard Al Hassan  \"。"
+    },
+    {
+      "id": "5083101",
+      "time": "2026-09-08 20:21:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰化學：36億元專案取得部分用地不動產權證書】華峰化學公告，公司此前披露擬投資36億元建設年產20萬噸高效能低碳化數智化氨綸新材料擴建專案。近日，公司已辦理專案部分用地相關手續，並取得《中華人民共和國不動產權證書》，涉及面積10.98萬㎡、45669.11㎡；尚有部分土地未取得，公司將持續推進專案進展。"
+    },
+    {
+      "id": "5083100",
+      "time": "2026-09-08 20:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德：我要對任何質疑以色列生存權的人說，你們錯了。"
+    },
+    {
+      "id": "5083099",
+      "time": "2026-09-08 20:20:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼臨時關停近2000家供餐廚房】印度尼西亞國家營養局局長蘇達約諾7日宣佈，該局已在印尼多地臨時關停1999家參與供應免費營養餐的廚房，原因是這些廚房未按規定向衛生部登記並接受強制性衛生消殺檢查。印尼國家營養局承諾會“嚴肅處理”相關事件。該局表示，食物中毒事件大多緣於食物儲存不當和配送延遲。（新華社）"
+    },
+    {
+      "id": "5083098",
+      "time": "2026-09-08 20:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國國防部表示將派遣調查小組評估霍爾木茲海峽的情況。"
+    },
+    {
+      "id": "5083097",
+      "time": "2026-09-08 20:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德就以色列和巴勒斯坦問題發表宣告。"
+    },
+    {
+      "id": "5083096",
+      "time": "2026-09-08 20:17:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【翔宇醫療與浙江省中醫院共建腦機介面康復診療中心】翔宇醫療訊息，9月6日，浙江省中醫院“靈樞·腦機介面康復診療中心”正式啟用。作為此次中心建設的核心合作伙伴，翔宇醫療深度參與專案落地。儀式現場，翔宇醫療與浙江省中醫院簽約，正式確立深度戰略合作關係，雙方將共同探索腦機介面技術在臨床康復領域的創新應用與成果轉化。"
+    },
+    {
+      "id": "5083095",
+      "time": "2026-09-08 20:17:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟執委會主席馮德萊恩：下一筆32億歐元的撥款將使烏克蘭能夠更好地保護其領空，抵禦俄羅斯的無差別攻擊。"
+    },
+    {
+      "id": "5083094",
+      "time": "2026-09-08 20:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟執委會主席馮德萊恩：我與北約秘書長一道，歡迎成員國就豁免烏克蘭採購\"愛國者\"防空系統關鍵產品達成協議。"
+    },
+    {
+      "id": "5083093",
+      "time": "2026-09-08 20:16:19",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗一項指數顯示：美國企業盈利上調持續時間創五年來最長 料利好美股】隨著通脹風險高企，美國企業強勁的盈利前景正在為美股提供支撐。花旗集團一項指數顯示，美國企業盈利預期已連續第21周出現上調多於下調的情況，為2021年9月以來持續時間最長的一輪上調。"
+    },
+    {
+      "id": "5083092",
+      "time": "2026-09-08 20:15:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內跌1.04%。"
+    },
+    {
+      "id": "5083091",
+      "time": "2026-09-08 20:14:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【阿聯酋啟動替代物流通道應對霍爾木茲海峽受阻】阿聯酋外貿國務部長薩尼·澤尤迪8日表示，面對霍爾木茲海峽通行受阻帶來的挑戰，阿聯酋已啟動多條替代物流通道，並加快東海岸港口建設，相關舉措將納入阿國家長期戰略佈局。 澤尤迪當天在阿布扎比舉行的一場論壇上說，今年以來，本地區的地緣政治局勢發生深刻變化，對全球供應鏈構成“更直接、更嚴重的挑戰”。霍爾木茲海峽航運受阻後，阿聯酋迅速採取措施保障貿易暢通，啟動連線阿拉伯灣、紅海和阿曼灣的區域物流通道。此外，阿聯酋還與阿曼合作，透過蘇哈爾港和杜庫姆港中轉運往阿聯酋的貨物。 他還說，阿聯酋正在加快豪爾費坎、富查伊拉和迪巴等東海岸港口的建設，並投運新的能源管道，將本國能源資源與國際市場連線。(新華社)"
+    },
+    {
+      "id": "5083090",
+      "time": "2026-09-08 20:14:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【女子停止捐款後遭公益機構電話催捐，聯合國兒童基金會稱非涉事機構】9月8日，聯合國兒童基金會發布微博稱，聯合國兒童基金會已注意到，近日在網上的一段影片中，一名網友表示在取消捐款後接到某公益機構的來電。該影片中提及的公益機構並非聯合國兒童基金會。聯合國兒童基金會珍視每一位支持者，尊重始終是我們秉持的重要原則。據九派新聞報道，近日，四川一單親媽媽發影片稱，自己在慈善機構停止月捐後，不到一個月便接到電話催捐，引發關注。在影片中，劉女士稱，她堅持多年在北京某基金會進行月捐，由於近期生意不景氣，上個月深思熟慮後，取消了月捐。其稱，取消月捐不到一個月，就接到來自基金會的電話，詢問停止捐贈的原因，對方聽到她稱“沒錢了”之後，還發出笑聲。報道稱，記者注意到，劉女士並未在影片中明確透露具體是哪家公益機構，僅表示是“某基金會”。9月7日，有網傳訊息稱，該涉事機構為“聯合國兒童基金會”。"
+    },
+    {
+      "id": "5083089",
+      "time": "2026-09-08 20:13:45",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【豫能控股：擬設孫公司投建100MW風力發電專案】豫能控股公告稱，公司全資子公司豫能新能源擬出資1.24億元設立全資孫公司豫能汝州綜合能源有限公司，由該孫公司投建豫能汝州100MW風力發電專案，專案動態總投資額4.12億元，資本金比例30%，其餘資金透過銀行貸款解決。專案已列入河南省2025年煤電機組改造升級新能源專案實施方案，已獲汝州市發改委核准，相關審批手續正在辦理，建設工期12個月。"
+    },
+    {
+      "id": "5083088",
+      "time": "2026-09-08 20:13:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫能控股：擬對全資子公司魯山抽蓄增資3.4億元】豫能控股公告稱，鑑於全資子公司魯山豫能抽水蓄能有限公司公開掛牌未徵求到合格投資者，為滿足專案建設資金需求，公司擬使用自有資金對其增資3.4億元。本次增資完成後，魯山抽蓄註冊資本將從9.6億元增至13億元，公司仍持有其100%股權，合併報表範圍不變，不會對公司未來財務狀況及經營成果造成不利影響。本次增資不構成關聯交易及重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "5083087",
+      "time": "2026-09-08 20:13:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鑫元基金董事長獲聘為南京銀行副行長】9月8日，南京銀行釋出公告稱，聘任龍藝為南京銀行副行長（職業經理人），任期自監管機構核准其任職資格之日起至第十屆董事會屆滿之日止。資料顯示，龍藝現任鑫元基金董事長。"
+    },
+    {
+      "id": "5083086",
+      "time": "2026-09-08 20:13:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）倫敦可可期貨<LCCc2>跌幅超過5%，跌至每噸公噸4287英鎊。"
+    },
+    {
+      "id": "5083085",
+      "time": "2026-09-08 20:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英力士：截至9月6日當週，巴扎德油田在北海福蒂斯原油混合油中佔比21%。"
+    },
+    {
+      "id": "5083084",
+      "time": "2026-09-08 20:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾總理表示，該國需清償1.956萬億西非法郎（合34.9億美元）的欠款。"
+    },
+    {
+      "id": "5083083",
+      "time": "2026-09-08 20:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫能控股：子公司擬轉讓河南創投19.0476%股權】豫能控股公告稱，公司控股子公司南陽鴨河口發電有限責任公司擬將所持河南創業投資股份有限公司19.0476%股權轉讓給河南創新投資集團有限公司，轉讓價格為1.14億元。因受讓方系公司控股股東河南投資集團有限公司全資子公司，本次交易構成關聯交易。該事項已經公司董事會審議透過，無需提交股東會審議，不構成重大資產重組。本次交易以2025年12月31日為評估基準日，評估增值率12.66%，定價合理。"
+    },
+    {
+      "id": "5083082",
+      "time": "2026-09-08 20:11:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST賽為：實控人周勇800萬股股份將被司法強制執行】*ST賽為公告稱，公司控股股東、實際控制人周勇收到南山法院《協助執行通知書》，因借款合同糾紛未履行生效法律文書義務，其持有的公司800萬股股份（佔公司總股本1.05%，佔其持股總數12.42%）將被司法強制變現。本次強制執行期間為2026年9月9日至2026年12月8日，透過集中競價或大宗交易方式進行，價格按市場價格確定。截至公告披露日，周勇持有公司股份6443.61萬股，佔總股本8.44%。本次執行不會導致公司實控人變更，不會對公司治理、股權結構及持續經營產生重大影響，股份變動實際情況以最終法院執行為準。"
+    },
+    {
+      "id": "5083081",
+      "time": "2026-09-08 20:11:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：湯加內亞富東南偏南22公里處發生5.2級地震。"
+    },
+    {
+      "id": "5083080",
+      "time": "2026-09-08 20:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Moonwalk生物科學完成7000萬美元B輪融資。"
+    },
+    {
+      "id": "5083079",
+      "time": "2026-09-08 20:09:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【讀者傳媒：股票交易異常波動 無應披露未披露重大事項】讀者傳媒公告稱，公司股票於2026年9月4日、9月7日、9月8日連續三個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東讀者出版集團有限公司核實，截至公告披露日，不存在應披露而未披露的重大資訊，公司主營業務及基本面未發生重大變化，目前生產經營活動正常，敬請廣大投資者理性投資、注意投資風險。"
+    },
+    {
+      "id": "5083078",
+      "time": "2026-09-08 20:08:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【標普：SK海力士或將於第四季度宣佈40萬億韓元股票回購計劃】標普全球市場情報表示，受AI儲存晶片景氣紅利推動，韓國兩大晶片企業創造創紀錄的股東回報，SK海力士或將於第四季度宣佈新一輪最高40萬億韓元（摺合280億美元）的股票回購計劃。 標普亞太股票股息預測負責人Mohammad Hassan在接受採訪時稱：“我們預計第四季度還將有更多回購方案對外公佈。” 他表示：“新一輪迴購規模下限或為20萬億韓元，也有可能再度達到40萬億韓元。”他補充道，即便實施新一輪大規模回購，SK海力士依舊有能力派發“可觀、豐厚的股息”。"
+    },
+    {
+      "id": "5083077",
+      "time": "2026-09-08 20:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "Strategy公司8月31日至9月7日期間未買賣比特幣。"
+    },
+    {
+      "id": "5083076",
+      "time": "2026-09-08 20:07:29",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【英特爾美股盤前漲超5%】英特爾美股盤前漲超5%，公司擬上調PC端CPU價格10%。"
+    },
+    {
+      "id": "5083075",
+      "time": "2026-09-08 20:07:12",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：盈利修復擴面，等待“量”的接力】中信建投釋出研報指出，26H1全A歸母淨利潤累計同比增長18.6%，營收累計同比增7.1%，剪刀差擴大至11.5pct，顯示本輪修復由價格和利潤率驅動。行業景氣“擴面”與“分化”並行，二級行業利潤正增比例升至56%，但高增與深度負增兩端同時增厚，K型分化加劇，高景氣集中於AI科技、資源漲價和金融三條主線。ROE回升至6.87%由銷售淨利率主導，週轉率尚未改善；資本開支同比微增，“反內卷”約束下的供給收縮是漲價鏈盈利可持續的重要保障；出海利潤增量顯著，境外毛利率提升至19.6%。行業配置上，電子、有色金屬、非銀金融、通訊、煤炭、基礎化工等形成量價共振、供需改善，醫藥兼具升檔潛力與出海優勢；汽車、家電、工程機械當期業績偏弱，但供需格局最佳化與出海放量構成左側線索。"
+    },
+    {
+      "id": "5083074",
+      "time": "2026-09-08 20:07:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：2026年第二季度期間，威脅行為者利用人工智慧代理在不到6小時內執行大規模憑證竊取。"
+    },
+    {
+      "id": "5083073",
+      "time": "2026-09-08 20:06:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科倫博泰生物：POLARIS-1的2期部分取得陽性中期結果】科倫博泰生物(06990.HK)在港公告，本公司的合作方WindwardBioAG已公佈SKB378/WIN378（一款靶向胸腺基質淋巴細胞生成素(TSLP)的全人源超長效單克隆抗體）用於治療哮喘的POLARIS-1臨床試驗2期部分取得陽性的中期結果。POLARIS-1的3期部分亦已啟動。"
+    },
+    {
+      "id": "5083072",
+      "time": "2026-09-08 20:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：作廢211.59萬股未歸屬限制性股票】寧德時代公告稱，公司第四屆董事會第十九次會議審議透過作廢部分已授予尚未歸屬的限制性股票議案。其中2022年激勵計劃因11名激勵物件離職、1名激勵物件2025年度個人績效考核不達標，合計作廢57234股；2023年激勵計劃因6名激勵物件離職、2023-2025年累計營收11866.31億元未達12900億元的第三個歸屬期公司業績考核目標，合計作廢2058700股。本次作廢事項無需提交股東會審議，不會對公司財務狀況和經營成果產生實質性影響。"
+    },
+    {
+      "id": "5083071",
+      "time": "2026-09-08 20:06:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Strategy公司獲批提高數字信貸證券回購規模。"
+    },
+    {
+      "id": "5083070",
+      "time": "2026-09-08 20:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫能科：子公司擬1億元參投新興科技領域股權投資基金】協鑫能科公告稱，公司全資子公司鑫未來（蘇州）產業投資有限公司作為有限合夥人，擬以自有資金認繳出資1億元，參與認購天津礪思星深股權投資合夥企業（有限合夥）份額。該基金首次募集規模為17.40億元，主要投向新興科技相關領域，執行事務合夥人為天津礪思明棠企業管理諮詢合夥企業（有限合夥），基金管理人為海南礪思私募基金管理有限公司。目前基金處於募集階段，尚需辦理變更登記及基金備案手續，本次投資不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5083069",
+      "time": "2026-09-08 20:05:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨人網路：控股股東一致行動人減持計劃屆滿 減持2.82%股份】巨人網路公告稱，公司控股股東的一致行動人騰澎投資減持計劃期限屆滿，於2026年7月16日—9月7日透過集中競價、大宗交易方式合計減持公司股份5359.7161萬股，佔公司總股本的2.8201%。本次減持後，騰澎投資及其一致行動人巨人投資合計持股佔公司總股本的37.1565%，本次減持未導致公司控制權發生變化。"
+    },
+    {
+      "id": "5083067",
+      "time": "2026-09-08 20:05:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電路：擬定增募資不超43.67億元投建AI算力專案】深南電路公告稱，公司擬向不超過35名特定物件發行A股股票，發行數量不超過發行前總股本的30%，定價基準日為發行期首日，發行價格不低於定價基準日前20個交易日公司股票交易均價的80%，認購股份自發行結束之日起6個月內不得轉讓。本次擬募集資金總額不超過43.67億元，其中36.00億元用於無錫深南電路AI算力電子電路產品專案，7.67億元用於補充流動資金。本次發行尚需深交所稽核透過及中國證監會同意註冊。"
+    },
+    {
+      "id": "5083066",
+      "time": "2026-09-08 20:04:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "協鑫能科：全資子公司鑫未來擬出資1億元參與認購礪思星深基金份額，該基金首次募集規模17.4億元，主要投向新興科技領域，公司出資佔比5.75%。"
+    },
+    {
+      "id": "5083065",
+      "time": "2026-09-08 20:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法國呼籲歐盟開徵新稅，以籌集600億歐元。"
+    },
+    {
+      "id": "5083064",
+      "time": "2026-09-08 20:04:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技部副部長張光軍會見平方公里陣列天文臺（SKAO）總幹事傑西卡·登浦西】據科技部訊息，2026年9月4日，科技部副部長張光軍在京會見平方公里陣列天文臺（SKAO）總幹事傑西卡·登浦西、理事會主席菲利波·澤爾比一行。雙方就平方公里陣列射電望遠鏡（SKA）進展情況及涉及SKAO發展的重要議題進行了深入交流。"
+    },
+    {
+      "id": "5083063",
+      "time": "2026-09-08 20:03:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天元股份：擬出售不超40萬股已回購股份】天元股份公告稱，公司董事會同意在公告披露之日起15個交易日後的6個月內（2026年10月9日至2027年4月8日，禁止視窗期除外），以集中競價方式出售已回購股份不超過40萬股，約佔公司當前總股本的0.23%，所得資金用於補充流動資金。本次出售未變更原回購方案，不會導致公司控制權及總股本發生變化，出售價格與回購價格的差額計入或衝減資本公積，不影響當期損益。本次出售計劃實施存在不確定性。"
+    },
+    {
+      "id": "5083062",
+      "time": "2026-09-08 20:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【品渥食品：擬登出99.63萬股回購股份並減少註冊資本】品渥食品公告稱，公司審議透過將回購專用賬戶中996,252股股份用途由員工持股計劃或股權激勵變更為登出並減少註冊資本。本次登出完成後，公司股本總數將由1億股變更為99,003,748股，註冊資本由1億元變更為99,003,748元。債權人自公告披露之日起45日內，有權憑有效債權證明檔案要求公司清償債務或提供相應擔保。"
+    },
+    {
+      "id": "5083061",
+      "time": "2026-09-08 20:03:26",
+      "tags": [
+        "公司",
+        "焦點",
+        "原創"
+      ],
+      "text": "【獨家 | 茅臺停產中秋文創禮盒，此前已連續售賣4年】9月8日，新浪財經《酒業內參》從多方獨家獲悉，茅臺今年確定不再生產含有“貴州茅臺酒”的中秋文創禮盒。該訊息亦得到了經銷商的證實：“確實沒有發行，手裡只有往年的中秋文創禮盒產品。”對於該情況，茅臺方面暫無明確回應。據公開資訊顯示，茅臺自2022年起首次發行中秋文創禮盒，隨後4年每逢中秋均會推出，禮盒往往包括貴州茅臺酒、茶具及酒具等。（酒業內參）"
+    },
+    {
+      "id": "5083060",
+      "time": "2026-09-08 20:03:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROBINHOOD股價盤前漲幅延續至2%。"
+    },
+    {
+      "id": "5083059",
+      "time": "2026-09-08 20:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，“網紅券商”Robinhood與Crypto.com達成協議。"
+    },
+    {
+      "id": "5083058",
+      "time": "2026-09-08 20:02:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲與埃森哲成立新部門，助力部署智慧體AI。谷歌雲將為埃森哲培訓多達1000名現場工程師。"
+    },
+    {
+      "id": "5083057",
+      "time": "2026-09-08 20:02:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.25%，至3584點。"
+    },
+    {
+      "id": "5083056",
+      "time": "2026-09-08 20:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "STRIVE：截至2026年9月4日，比特幣持倉增至24,531枚。"
+    },
+    {
+      "id": "5083055",
+      "time": "2026-09-08 20:01:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大至9月4日全國經濟信心指數 51.8，前值51.7。"
+    },
+    {
+      "id": "5083054",
+      "time": "2026-09-08 20:00:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天元股份：擬以集中競價方式出售部分已回購股份】天元股份公告稱，公司第四屆董事會第十四次會議審議透過《關於以集中競價方式出售部分已回購股份計劃的議案》，具體內容詳見公司同日披露的相關預披露公告。本次會議應到董事7人，實到董事7人，表決結果為同意7票、反對0票、棄權0票。"
+    },
+    {
+      "id": "5083053",
+      "time": "2026-09-08 20:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "FRONTIER POWER USA 宣佈組建世界級領導團隊，以擴大美國長時儲能業務規模。"
+    },
+    {
+      "id": "5083052",
+      "time": "2026-09-08 19:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月4日擔保隔夜融資利率為3.65%，而9月3日為3.66%。"
+    },
+    {
+      "id": "5083051",
+      "time": "2026-09-08 19:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾總理：本國國內欠款達1.96萬億非洲金融共同體法郎。"
+    },
+    {
+      "id": "5083050",
+      "time": "2026-09-08 19:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【i茅臺：6款飛天茅臺銷售規則調整 每日兩場次常態化售賣】貴州茅臺旗下i茅臺9月8日官微訊息，將飛天53%vol 500ml貴州茅臺酒(帶杯)2019—2024銷售規則調整。自9月9日起，以上6款產品由當月9日、19日、29日投放售賣調整為常態化投放售賣，每日9:00與20:00兩個場次均可購買。"
+    },
+    {
+      "id": "5083049",
+      "time": "2026-09-08 19:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西最高法院大法官門東薩裁定暫停聯邦警察總長羅德里格斯的職務。"
+    },
+    {
+      "id": "5083048",
+      "time": "2026-09-08 19:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【乾照光電：持股5%以上股東擬減持不超3%股份】乾照光電公告稱，合計持有公司股份5591.28萬股（佔公司現總股本的6.08%，佔剔除回購專用賬戶股份後總股本的6.17%）的股東和君正德基金，計劃自公告披露之日起15個交易日後的3個月內，以集中競價及大宗交易方式合計減持公司股份不超過2717.04萬股，即不超過公司總股本比例的3%。其中集中競價方式減持不超1%，大宗交易方式減持不超2%。減持原因為資金需求，股份來源為協議轉讓取得的股份。本次減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "5083047",
+      "time": "2026-09-08 19:54:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST萃華：2026年9月8日收到終止上市事先告知書】*ST萃華公告，公司於2026年9月8日收到深交所《終止上市事先告知書》。因未在法定期限內披露2025年年度報告，且在退市風險警示之日起兩個月內仍未披露過半數董事保證真實、準確、完整的2025年年度報告，公司觸及股票終止上市情形，深交所擬決定終止公司股票上市交易。"
+    },
+    {
+      "id": "te:markets:582041",
+      "time": "2026-09-08 19:46:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sanofi Stock Price Hits 4-week Low — Sanofi shares decreased to 74.71 EUR, the lowest since August 2026. Over the past 4 weeks, Sanofi lost 0.61%, and in the last 12 months, it decreased 7.06%."
+    },
+    {
+      "id": "te:markets:582039",
+      "time": "2026-09-08 19:16:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pull Back — US equity futures were firmly lower on Tuesday after a long weekend, as higher energy prices dented the outlook on margins and lifted risks of higher interest rates. Contracts for the S&P 500 and Nasdaq 100 were 0.5% down, and those for the Dow fell nearly 1%. New strikes between the US and Iran prolonged expectations on suspended fuel exports from the Persian Gulf, while attacks from Houthi forces damaged Saudi energy infrastructure and dented their capacity. Borrowing costs for US companies were also lifted by hawkish signs from the Bank of Japan and likely selling of US Treasury securities by Japan to support the yen. Credit-sensitive hyperscalers were firmly lower, with Microsoft and Alphabet down 1%, while Amazon fell 1% ahead of its sterling bond offer. AI companies have increasingly borrowed in foreign currencies as dollar bond markets already face soaring AI-debt supply. In turn, Oracle gained 4.5% ahead of its earnings this week."
+    },
+    {
+      "id": "te:economy:582038",
+      "time": "2026-09-08 19:12:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Annual Inflation Accelerates — Chile’s annual inflation rate accelerated to 4.1% in August 2026 from 3.5% in the previous month. The acceleration was mainly driven by higher price growth for food, which increased to 4.6% from 4.0%, and transport, which accelerated sharply to 6.8% from 4.6%. Inflation for recreation, sport, and culture also picked up, rising to 6.4% from 4.4%. Meanwhile, inflation stood at 3.4% for housing and utilities, at 6.6% for restaurants and lodging and 5.9% for education, while deflation in clothing and footwear eased to 4.0% from 4.8%. In contrast, the decline in prices for insurance and financial services accelerated to 3.6% from 3.4%. On a monthly basis, consumer prices rose 0.6%, following a 0.1% increase in July. Core consumer prices, which excludes food and energy, rose 0.4% over the month, unchanged from July."
+    },
+    {
+      "id": "te:economy:582037",
+      "time": "2026-09-08 19:10:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Treasury Yield Highest Since 2023 — The yield on the US 10-year Treasury note topped 4.8% on Tuesday, the highest since October 2023, as traders returned from a long weekend to a week packed with key economic data that could help shape expectations for the Fed’s next moves. The CPI and PPI reports due this week are expected to provide further clues on inflationary pressures, particularly those linked to rising energy costs. Headline inflation is expected to remain steady at 3.4%, while the core rate is forecast to slow slightly to 2.4%. Meanwhile, both headline and core producer prices are expected to accelerate, reaching 5.3% and 4.6%, respectively. Oil prices have also continued to rise amid ongoing strikes in the Middle East, exacerbating concerns over supply disruptions. Markets are currently pricing in roughly a 58% chance of a 25bps rate hike by the Fed next week. Meanwhile, Tuesday’s three-year Treasury auction kicks off a busy stretch of government debt issuance."
+    },
+    {
+      "id": "te:economy:582036",
+      "time": "2026-09-08 19:05:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Albania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Albania Inflation Eases in August — The annual inflation rate in Albania fell to 3.2% in August 2026 from 3.4% in the previous month. Prices eased for food and non-alcoholic beverages (2.8% vs 3.5% in July), housing & utilities (3.7% vs 4.1%), furnishings & household equipment (2.8% vs 3.3%), miscellaneous goods & services (2.8% vs 3.1%), alcoholic beverages & tobacco (2.4% vs 3%), health (1.8% vs 1.9%), recreation & culture (5.4% vs 6%), and restaurants & hotels (2.3% vs 2.7%). Also, cost fell further for clothing & footwear (-3.2% vs -1.8%) and communications (-1% vs -0.9%). On the other hand, prices accelerated for transport (12% vs 8%). On a monthly basis, consumer prices went up 0.1%, after a 0.2% gain in July."
+    },
     {
       "id": "mkt:01a080a9-1d31-7118-84e7-e89943f2da07",
       "time": "2026-09-08 18:56:01",
