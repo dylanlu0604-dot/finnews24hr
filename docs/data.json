@@ -1,7 +1,90 @@
 {
-  "updated": "2026-09-09 07:49:05",
-  "count": 13829,
+  "updated": "2026-09-09 07:52:54",
+  "count": 13826,
   "items": [
+    {
+      "id": "mkt:01a0836f-95f6-7118-84f6-b788739b2626",
+      "time": "2026-09-09 07:52:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan M3 money supply YoY 1.4% in August, unchanged from prior 1.4%."
+    },
+    {
+      "id": "mkt:01a0836f-8045-7118-84f6-ac7f6fe9f7af",
+      "time": "2026-09-09 07:51:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan M2 money supply YoY 2.0% in August, down from 2.2% previously."
+    },
+    {
+      "id": "mkt:01a0836f-7794-7118-84f6-a07956218e71",
+      "time": "2026-09-09 07:51:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (Aug) | actual 1.2% | previous 1.40%"
+    },
+    {
+      "id": "mkt:01a0836f-60c8-7118-84f6-9be51e14da6d",
+      "time": "2026-09-09 07:51:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M2 Money Supply (YoY) (Aug) | actual 2% | previous 2.20%"
+    },
+    {
+      "id": "5083824",
+      "time": "2026-09-09 07:50:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek宣佈明日下調Flash系列API價格】據DeepSeek開放平臺公告，DeepSeek將於北京時間9月10日12時起下調Flash系列模型呼叫價格。其中，快取命中、快取未命中及輸出價格最高降幅分別為60%、33.33%和11.11%。"
+    },
+    {
+      "id": "5083823",
+      "time": "2026-09-09 07:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗20枚導彈打擊約旦美軍基地 】據約旦武裝部隊當地時間今天（9月9日）凌晨發表的宣告，過去幾小時內，約旦遭到來自伊朗境內的導彈襲擊。宣告說，約旦防空系統對20枚彈道導彈實施攔截，其中18枚被成功攔截並摧毀，另有2枚導彈落在“遠離人口聚居區的空曠地帶”。（ CCTV國際時訊   ）"
+    },
+    {
+      "id": "5083822",
+      "time": "2026-09-09 07:49:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic 研究員因擔憂 AI “失控” 離職】一名 Anthropic 公司研究員出於擔憂，選擇離開人工智慧行業。他認為該實驗室及其競爭對手正競相研發人類無法掌控的 AI 系統，這也表明頭部 AI 企業內部的安全顧慮正不斷加劇。專門透過海量資料訓練新型 AI 模型的研究員雅各布・考克森於週二表示，他將離開這家公司，原因是不想參與全行業爭相研發可自我迭代 AI 系統的競賽。他擔心這類系統可能徹底失控並毀滅人類。這位 27 歲的英國籍研究員曾主修數學。他稱，業內許多同行如今會用 “決戰時刻” 和 “終局” 這類詞彙，來描述走向可自我改進模型的發展趨勢。考克森稱：“按照當前態勢，很多極端推演場景都有可能成真，到明年年底情況或許就會失控。” 他還補充道，各家企業以及中國新興 AI 企業之間相互競爭時，安全層面的取捨權衡不可避免。"
+    },
+    {
+      "id": "5083821",
+      "time": "2026-09-09 07:48:50",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【減少消費糾紛，經營更規範！消費治理模式迎來重大轉變】近日，市場監管總局印發通知，全面啟動“放心消費”主體培育工作，明確到2030年，全國放心消費集聚區達5000個以上，重點領域放心消費單元廣泛覆蓋，“放心消費在中國”品牌基本形成，消費者獲得感明顯增強。當前，人民群眾對品質生活、放心消費的期盼越來越高，但部分領域仍存在供給短板、糾紛多發、經營不規範等痛點堵點，迫切需要從經營者供給端發力，推動消費治理關口前移。市場監管總局決定在全國範圍內開展放心消費主體培育工作，以“小切口”帶動消費環境“大提升”，推動消費治理從“事後維權”向“事前預防”轉變，從“政府主導”向“社會共治”轉變。（央視）"
+    },
+    {
+      "id": "mkt:01a0836c-9c1f-7118-84f6-9655c04b3865",
+      "time": "2026-09-09 07:48:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reports Anthropic researcher Jacob Coxon has decided to leave the AI industry, citing concern that firms are racing to develop uncontrollable, self‑improving systems."
+    },
     {
       "id": "5083820",
       "time": "2026-09-09 07:48:06",
@@ -126114,121 +126197,6 @@
         "國際"
       ],
       "text": "日本央行行長植田和男：資料與展望報告中的預測一致。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202609023862078356",
-      "time": "2026-09-02 07:52:35",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行行長植田和男稱，市場已反映出9月加息的強烈可能性，對市場日常波動不予置評。"
-    },
-    {
-      "id": "mkt:01a05f63-454f-7118-8449-3325d08c4e75",
-      "time": "2026-09-02 07:52:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said the G20 meeting is a good opportunity to deepen participants' understanding of the importance of coordinated FX intervention."
-    },
-    {
-      "id": "mkt:01a05f62-be3b-7118-8449-2f0cb0c25ed0",
-      "time": "2026-09-02 07:51:41",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Governor UEDA declined to comment on day-to-day market moves, saying markets have already priced in a strong likelihood of a September rate hike."
-    },
-    {
-      "id": "em:jjsj_rbsj:202609023862059132",
-      "time": "2026-09-02 07:51:27",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本8月基礎貨幣同比下降15.7%，前值-13.80%。"
-    },
-    {
-      "id": "5071853",
-      "time": "2026-09-02 07:51:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：就市場定價反映9月加息機率極高一事，不對每日市場波動置評。"
-    },
-    {
-      "id": "5071852",
-      "time": "2026-09-02 07:50:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：對9月份會議決議不予置評。"
-    },
-    {
-      "id": "mkt:01a05f61-b536-7118-8449-2750d61493e4",
-      "time": "2026-09-02 07:50:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
-    },
-    {
-      "id": "mkt:01a05f61-9725-7118-8449-1c03dd2201a6",
-      "time": "2026-09-02 07:50:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan monetary base YoY -15.7% in August, prior -13.8%."
-    },
-    {
-      "id": "mkt:01a05f61-7e8c-7118-8449-15d67bc16a1d",
-      "time": "2026-09-02 07:50:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Base money growth rate (YoY) (Aug) | actual -15.7% | previous -13.80%"
-    },
-    {
-      "id": "mkt:01a05f61-7078-7118-8449-0ba89fe549ad",
-      "time": "2026-09-02 07:50:16",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Japan's finance minister Katayama told the G20 that US-Japan foreign-exchange intervention is consistent with G7 commitments."
-    },
-    {
-      "id": "5071851",
-      "time": "2026-09-02 07:50:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本8月基礎貨幣同比 -15.7%，前值 -13.8%。"
-    },
-    {
-      "id": "5071850",
-      "time": "2026-09-02 07:50:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皐月：不對具體匯率水平置評。"
     }
   ]
 }
