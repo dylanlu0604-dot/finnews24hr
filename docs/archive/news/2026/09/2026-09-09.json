@@ -1,7 +1,19 @@
 {
   "date": "2026-09-09",
-  "count": 365,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:01a082ee-eb62-7118-84f5-2f6028f47c9c",
+      "time": "2026-09-09 05:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bessent said he has a sound basis for judgment when we intervene in the yen."
+    },
     {
       "id": "mkt:01a082eb-f493-7118-84f5-21083d3bae23",
       "time": "2026-09-09 05:28:16",

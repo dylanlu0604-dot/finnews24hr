@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-09 05:29:53",
-  "count": 13904,
+  "updated": "2026-09-09 05:33:47",
+  "count": 13900,
   "items": [
+    {
+      "id": "mkt:01a082ee-eb62-7118-84f5-2f6028f47c9c",
+      "time": "2026-09-09 05:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bessent said he has a sound basis for judgment when we intervene in the yen."
+    },
     {
       "id": "mkt:01a082eb-f493-7118-84f5-21083d3bae23",
       "time": "2026-09-09 05:28:16",
@@ -126903,51 +126915,6 @@
         "Magnificent 7"
       ],
       "text": "【Apple’s new CEO Ternus set for $58m fiscal‑2027 pay package】Apple told the SEC that John Ternus’ fiscal‑2027 compensation package is valued at about $58m; Tim Cook’s package as executive chairman is about $47m. The filing, submitted on Ternus’ first day in the role, shows Ternus’ annual base salary at $3m and a target stock award of $55m for 2027. In 2026 he will receive pro‑rata RSUs worth roughly $2.5m. Seventy‑five percent of Ternus’ stock award is tied to Apple’s performance versus S&P 500 constituent companies; the remaining 25% are time‑based units that vest semiannually. Cook’s base salary will fall from $3m to $2m and his 2027 target equity award is $45m, with only half of his award performance‑tied to S&P 500 relative performance."
-    },
-    {
-      "id": "5071713",
-      "time": "2026-09-02 05:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國空襲伊朗南部電信和網際網路基礎設施】週二美軍發動的打擊嚴重損毀了伊朗南部霍爾木茲省部分地區的電話與網際網路基礎設施。襲擊破壞了霍爾木茲省錫裡克沿海區域附近的多處通訊塔與設施，造成固定電話、移動通訊以及網際網路服務中斷。"
-    },
-    {
-      "id": "5071712",
-      "time": "2026-09-02 05:32:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱軍方對美國駐巴林基地發動大規模無人機襲擊。"
-    },
-    {
-      "id": "mkt:01a05ee3-1703-7118-8446-526d07bd8900",
-      "time": "2026-09-02 05:32:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Iranian media Fars News reported Iran's military launched a drone attack on a US military base in Bahrain."
-    },
-    {
-      "id": "5071711",
-      "time": "2026-09-02 05:32:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們有意向歐洲出售天然氣，現在就可以恢復供氣。他們只需要按下按鈕，也就是下定決心按下這個按鈕。但懾於美國的制裁，他們沒有這個膽量。"
-    },
-    {
-      "id": "5071710",
-      "time": "2026-09-02 05:30:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：注意到儲存產品在人工智慧應用中的使用率正顯著提升。"
     }
   ]
 }
