@@ -1,7 +1,98 @@
 {
   "date": "2026-09-09",
-  "count": 450,
+  "count": 460,
   "items": [
+    {
+      "id": "te:economy:582161",
+      "time": "2026-09-09 07:09:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Reuters Tankan Index",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturers' Mood Highest Since 2021 — The Reuters Tankan index for Japanese manufacturers increased for the second straight month to +21 in September 2026 from +18 in the previous month, marking the highest reading since December 2021."
+    },
+    {
+      "id": "5083764",
+      "time": "2026-09-09 07:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國航班處理系統發生故障 超千次航班被取消 】英國全國空中交通管理局航班處理系統8日下午發生嚴重故障，導致全英多個機場大量航班被取消或延誤。當日，包括倫敦希思羅機場、愛丁堡機場、曼徹斯特機場在內的多個主要機場航班受到影響。據航班追蹤網站“24小時飛行雷達網站”的資料顯示，截至當日傍晚，全英一度有12個主要機場運營受到影響。英國媒體對網站資料的分析顯示，全英有超1000次航班被取消。當日晚間，全國空中交通管理局表示已實施修復措施並解決系統問題，正盡全力應對航班積壓問題。"
+    },
+    {
+      "id": "5083763",
+      "time": "2026-09-09 07:08:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：對加拿大商品的進口禁令將在約三週後生效。"
+    },
+    {
+      "id": "5083762",
+      "time": "2026-09-09 07:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國擬禁止進口部分加拿大乳製品和汽車】美國擬禁止進口部分加拿大乳製品和汽車。白宮公佈了兩項與加拿大貿易有關的總統令文字。"
+    },
+    {
+      "id": "5083761",
+      "time": "2026-09-09 07:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌加元持穩於1.3782，白宮宣佈新貿易措施。"
+    },
+    {
+      "id": "mkt:01a08347-2067-7118-84f6-44ece2f39fc4",
+      "time": "2026-09-09 07:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A senior Trump administration official said the U.S. will ban imports from Canada of dairy products, most alcoholic beverages and motorcycles under Section 338."
+    },
+    {
+      "id": "5083760",
+      "time": "2026-09-09 07:07:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：特朗普已簽署一系列與對加拿大貿易舉措相關的公告。"
+    },
+    {
+      "id": "5083759",
+      "time": "2026-09-09 07:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：將依據《1930年關稅法》第338條款，禁止進口加拿大乳製品、大部分酒精飲品及摩托車。"
+    },
+    {
+      "id": "5083758",
+      "time": "2026-09-09 07:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍證實摧毀5艘伊朗原油運輸船 】美軍中央司令部8日在社交媒體發文證實，美軍當天摧毀5艘伊朗原油運輸船。帖文稱，伊朗伊斯蘭革命衛隊過去兩天兩次使用彈道導彈襲擊一艘美國海軍軍艦，但軍艦成功避開襲擊，沒有美方人員受傷。"
+    },
+    {
+      "id": "5083757",
+      "time": "2026-09-09 07:06:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026服貿會今日開幕】2026年中國國際服務貿易交易會9月9日至13日在北京石景山區首鋼園舉辦。"
+    },
     {
       "id": "5083756",
       "time": "2026-09-09 07:05:57",

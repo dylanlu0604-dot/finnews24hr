@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-09 07:06:50",
-  "count": 13825,
+  "updated": "2026-09-09 07:10:41",
+  "count": 13829,
   "items": [
+    {
+      "id": "5083764",
+      "time": "2026-09-09 07:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國航班處理系統發生故障 超千次航班被取消 】英國全國空中交通管理局航班處理系統8日下午發生嚴重故障，導致全英多個機場大量航班被取消或延誤。當日，包括倫敦希思羅機場、愛丁堡機場、曼徹斯特機場在內的多個主要機場航班受到影響。據航班追蹤網站“24小時飛行雷達網站”的資料顯示，截至當日傍晚，全英一度有12個主要機場運營受到影響。英國媒體對網站資料的分析顯示，全英有超1000次航班被取消。當日晚間，全國空中交通管理局表示已實施修復措施並解決系統問題，正盡全力應對航班積壓問題。"
+    },
+    {
+      "id": "te:economy:582161",
+      "time": "2026-09-09 07:09:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Reuters Tankan Index",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturers' Mood Highest Since 2021 — The Reuters Tankan index for Japanese manufacturers increased for the second straight month to +21 in September 2026 from +18 in the previous month, marking the highest reading since December 2021."
+    },
+    {
+      "id": "5083763",
+      "time": "2026-09-09 07:08:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：對加拿大商品的進口禁令將在約三週後生效。"
+    },
+    {
+      "id": "5083762",
+      "time": "2026-09-09 07:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國擬禁止進口部分加拿大乳製品和汽車】美國擬禁止進口部分加拿大乳製品和汽車。白宮公佈了兩項與加拿大貿易有關的總統令文字。"
+    },
+    {
+      "id": "5083761",
+      "time": "2026-09-09 07:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌加元持穩於1.3782，白宮宣佈新貿易措施。"
+    },
+    {
+      "id": "mkt:01a08347-2067-7118-84f6-44ece2f39fc4",
+      "time": "2026-09-09 07:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A senior Trump administration official said the U.S. will ban imports from Canada of dairy products, most alcoholic beverages and motorcycles under Section 338."
+    },
+    {
+      "id": "5083760",
+      "time": "2026-09-09 07:07:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：特朗普已簽署一系列與對加拿大貿易舉措相關的公告。"
+    },
+    {
+      "id": "5083759",
+      "time": "2026-09-09 07:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府高階官員：將依據《1930年關稅法》第338條款，禁止進口加拿大乳製品、大部分酒精飲品及摩托車。"
+    },
+    {
+      "id": "5083758",
+      "time": "2026-09-09 07:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍證實摧毀5艘伊朗原油運輸船 】美軍中央司令部8日在社交媒體發文證實，美軍當天摧毀5艘伊朗原油運輸船。帖文稱，伊朗伊斯蘭革命衛隊過去兩天兩次使用彈道導彈襲擊一艘美國海軍軍艦，但軍艦成功避開襲擊，沒有美方人員受傷。"
+    },
+    {
+      "id": "5083757",
+      "time": "2026-09-09 07:06:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026服貿會今日開幕】2026年中國國際服務貿易交易會9月9日至13日在北京石景山區首鋼園舉辦。"
+    },
     {
       "id": "5083756",
       "time": "2026-09-09 07:05:57",
@@ -126159,62 +126250,6 @@
         "國際"
       ],
       "text": "日本外務省：正在訪問奧地利的外務大臣 茂木敏充  與奧地利外長貝婭特·邁因爾-賴辛格會談，一致同意加強在機器人技術、人工智慧等尖端技術領域以及經濟安全保障領域等廣泛領域的合作，此外，還將在國際舞臺上與2027年起擔任聯合國安理會非常任理事國的奧地利展開協作。"
-    },
-    {
-      "id": "te:economy:580196",
-      "time": "2026-09-02 07:09:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index Manufacturing",
-        "Importance 1"
-      ],
-      "text": "Australia Manufacturing Contraction Eases — Australia’s Ai Group Industry Index for manufacturing remained in contraction in August, albeit at a softer pace, rising to -16.6 from July’s upwardly revised -19.3. The sector remained under pressure as lower domestic demand, rising input costs, heavier compliance burdens, supply chain challenges, and stronger competition from imports squeezed margins. Upstream industries showed improvement: chemicals increased activity due to new construction projects, despite rising input and material costs, market uncertainty, and staff shortages, while metals also recorded an improvement, concentrated in project-driven work. Downstream, machinery and equipment deteriorated amid lower orders, while food and beverage was the weakest sector, with demand weakened by adverse weather, rising input costs, and supply delays, alongside limited capacity to pass costs on to price-sensitive customers."
-    },
-    {
-      "id": "5071806",
-      "time": "2026-09-02 07:09:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科研團隊首次實現高光譜相機實時解析】高光譜成像能透過物質特有的光譜資訊識別材質和成分，是遙感監測、工業檢測等領域的重要技術。近日，北京理工大學科研團隊首創片上光譜計算新方法，將原本依賴大型伺服器完成的光譜解析整合到便攜裝置中，實現高光譜資訊的現場實時處理。相關成果近日發表於國際學術期刊《科學》。"
-    },
-    {
-      "id": "te:economy:580195",
-      "time": "2026-09-02 07:09:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index Construction",
-        "Importance 1"
-      ],
-      "text": "Australia Construction Bounces Back — The Ai Group Industry Index for Australia’s construction sector jumped to -6.9 in August 2026 from a revised -43.8 in the previous month, marking its highest reading since January and signalling a sharp improvement in conditions. However, businesses continued to report uncertainty stemming from taxation changes and the Federal Budget, as well as volatility in energy markets, with some respondents finding it difficult to forecast demand. Cost pressures also remained elevated, with businesses citing higher supplier prices, fuel levies, and raw material and energy costs. Labour shortages continued to constrain activity, particularly due to a lack of skilled trades, difficulties sourcing and retaining staff, and increased competition for workers amid a low-unemployment environment."
-    },
-    {
-      "id": "5071805",
-      "time": "2026-09-02 07:08:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：預計很快將對另一家銀行實施制裁。"
-    },
-    {
-      "id": "5071804",
-      "time": "2026-09-02 07:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：向友方與敵對各方表明，伊朗政權的時代已經“終結”。"
-    },
-    {
-      "id": "5071803",
-      "time": "2026-09-02 07:07:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報和音：共同推動中吉命運共同體建設走深走實】當前，國際形勢變亂交織，中吉加強合作將為維護地區和平穩定發展注入更多正能量。作為上海合作組織創始成員國，兩國共同推動落實好天津峰會成果，推動上海合作組織發展邁上新臺階，為推動構建上海合作組織命運共同體注入新動力。中方支援吉方在國際和地區事務中發揮更大作用，願同吉方在聯合國框架內進一步加強協作，共同踐行四大全球倡議，反對霸權主義和強權政治，堅持真正的多邊主義，維護國際公平正義，推動構建更加公正合理的全球治理體系。扎帕羅夫總統表示，習近平主席提出的四大全球倡議有助於各國攜手應對共同挑戰，構建更加公正穩定的國際秩序。吉方願同中方在聯合國、上海合作組織、中國—中亞機制、世界人工智慧合作組織等多邊平臺密切協調，共同維護世界和平穩定。"
     }
   ]
 }
