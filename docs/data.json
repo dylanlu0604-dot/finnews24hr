@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-08 13:21:00",
-  "count": 14085,
+  "updated": "2026-09-08 13:24:52",
+  "count": 14083,
   "items": [
+    {
+      "id": "5082089",
+      "time": "2026-09-08 13:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：沙烏地阿拉伯南部地區多個能源設施與公用事業設施於週二上午遇襲。"
+    },
+    {
+      "id": "mkt:01a07f77-e51f-7118-84dd-338efd7cba12",
+      "time": "2026-09-08 13:22:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Russian forces launch large-scale strikes on Ukraine】The Russian Defence Ministry said early on Sept 8 Russian forces used land-, air- and sea-launched precision weapons and long-range attack drones in large-scale strikes on Ukraine. Targets included defence-industrial complex facilities involved in drone and cruise-missile production and storage; military logistics hubs in Kyiv city and Kyiv region; and facilities at Chornomorsk port in Odesa region used to unload military cargo, plus an oil tanker transporting fuel and lubricants for Ukrainian forces. Ukraine’s emergency service reported strikes on Kyiv killed 2 and injured 7."
+    },
+    {
+      "id": "mkt:01a07f77-3d47-7118-84dd-2d10ea79a124",
+      "time": "2026-09-08 13:21:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share healthcare services sector rallied briefly; Aopumai jumped over 10%, with Baiaosaitu, Haoyuan Pharmaceutical, Chengdu Xiandao, Boji Pharmaceutical and Yinuosi also higher."
+    },
+    {
+      "id": "5082088",
+      "time": "2026-09-08 13:21:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從“全覆蓋”到“自主化” 我國教材體系建設進入新階段】從教育部獲悉，目前，我國已全面完成中國原創性哲學社會科學教材建設總體佈局，實現哲學社會科學全部29個一級學科的全覆蓋，力爭2030年建成中國自主教材體系。（央視）"
+    },
+    {
+      "id": "5082087",
+      "time": "2026-09-08 13:20:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫療服務板塊短線拉昇，奧浦邁漲超10%】醫療服務板塊短線拉昇，奧浦邁漲超10%，百奧賽圖、皓元醫藥、成都先導、博濟醫藥、益諾思等跟漲。"
+    },
+    {
+      "id": "5082086",
+      "time": "2026-09-08 13:20:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "5082085",
       "time": "2026-09-08 13:20:15",
@@ -128737,85 +128795,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Tourist Arrivals Rise 2.95% YoY — Foreign tourist arrivals to Indonesia rose 2.95% year-on-year to 1.52 million in July 2026, rebounding from a 2.15% decline in June as travel demand improved. The recovery highlighted stronger momentum in the tourism sector, supported by seasonal factors and easing constraints on mobility, after recent weakness in visitor flows. Arrivals increased from Malaysia (7.83%), Singapore (2.67%), China (8.45%), Japan (0.59%), the U.S. (1.63%), the Middle East (8.88%), and Australia (8.67%). In contrast, visitors dropped from East Timor (-1.49%), India (-6.72%), and South Korea (-12.13%). Arrivals from the EU also fell 1.35%, mainly from the UK (-2.21%), France (-5.02%), and the Netherlands (-3.51%). In the first seven months of the year, foreign tourist arrivals rose 5.23% from a year earlier to 8.95 million."
-    },
-    {
-      "id": "te:economy:579828",
-      "time": "2026-09-01 13:23:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Dutch Factory Growth Slows to 5-Month Low — The Nevi Netherlands Manufacturing PMI fell slightly to 53.8 in August 2026 from 54.4 in July, marking its lowest level since March. Growth in both output and new orders moderated during the month, although both remained elevated by historical standards. A strong rise in export sales, the most marked in more than four years, helped cushion the slowdown in total order-book growth. Employment declined for the first time in four months, largely reflecting voluntary staff departures that were not replaced, while outstanding workloads increased for a fourth month. Purchasing activity growth slowed to its weakest pace since March, while input lead times lengthened again, amid ongoing disruptions from the Middle East conflict. Meanwhile, both input and charge inflation eased to their lowest levels since February. Lastly, manufacturers remained optimistic about future growth, but the level of confidence weakened from July’s seven-month high and slipped below its long-run average."
-    },
-    {
-      "id": "mkt:01a05b6b-b842-7118-842a-726c89c35899",
-      "time": "2026-09-01 13:23:01",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran's president told the Iranian Students' News Agency that if the US restores its commitments under the June memorandum of understanding, Iran will respond immediately."
-    },
-    {
-      "id": "mkt:01a05b6b-4c6e-7118-842a-6cc72d6abefc",
-      "time": "2026-09-01 13:22:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02048.HK",
-        "Impact bullish"
-      ],
-      "text": "E-House China Holdings (02048.HK) shares jumped 120% to a near five-month high after the company returned to profit in 1H and won approval of an overseas debt restructuring plan by a large majority."
-    },
-    {
-      "id": "5070060",
-      "time": "2026-09-01 13:22:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量534億元。"
-    },
-    {
-      "id": "5070059",
-      "time": "2026-09-01 13:22:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚表示：一旦美國恢復履行6月諒解備忘錄中的承諾，伊朗將立即作出對等回應。"
-    },
-    {
-      "id": "5070058",
-      "time": "2026-09-01 13:21:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【VAST完成約30億元B和B+輪融資，經緯創投領投】9月1日，VAST宣佈完成B輪和B+輪融資，合計約30億人民幣，由經緯創投領投，完美世界、藍色游標、芯動能投資、延趣遊戲、中科創達、廣電投資、三七互娛等一線產業資本，鼎暉VGC、中金資本、CMC資本、洪泰基金、三正健康投資、中平資本、福建產投基金、福創投、卓源亞洲、江西金控等一線財投聯合參投，老股東達晨財智、春華資本、四三九九、慕華科創、綠洲資本、渶策資本、華控基金持續超額追投。"
-    },
-    {
-      "id": "5070057",
-      "time": "2026-09-01 13:21:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "蔚來汽車港股跌超8%，公司2026年8月交付35,836輛汽車，同比增長14.5%。"
-    },
-    {
-      "id": "5070056",
-      "time": "2026-09-01 13:21:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達70億港元。"
     }
   ]
 }

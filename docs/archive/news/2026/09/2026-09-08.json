@@ -1,7 +1,65 @@
 {
   "date": "2026-09-08",
-  "count": 956,
+  "count": 962,
   "items": [
+    {
+      "id": "5082089",
+      "time": "2026-09-08 13:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：沙烏地阿拉伯南部地區多個能源設施與公用事業設施於週二上午遇襲。"
+    },
+    {
+      "id": "mkt:01a07f77-e51f-7118-84dd-338efd7cba12",
+      "time": "2026-09-08 13:22:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Russian forces launch large-scale strikes on Ukraine】The Russian Defence Ministry said early on Sept 8 Russian forces used land-, air- and sea-launched precision weapons and long-range attack drones in large-scale strikes on Ukraine. Targets included defence-industrial complex facilities involved in drone and cruise-missile production and storage; military logistics hubs in Kyiv city and Kyiv region; and facilities at Chornomorsk port in Odesa region used to unload military cargo, plus an oil tanker transporting fuel and lubricants for Ukrainian forces. Ukraine’s emergency service reported strikes on Kyiv killed 2 and injured 7."
+    },
+    {
+      "id": "mkt:01a07f77-3d47-7118-84dd-2d10ea79a124",
+      "time": "2026-09-08 13:21:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share healthcare services sector rallied briefly; Aopumai jumped over 10%, with Baiaosaitu, Haoyuan Pharmaceutical, Chengdu Xiandao, Boji Pharmaceutical and Yinuosi also higher."
+    },
+    {
+      "id": "5082088",
+      "time": "2026-09-08 13:21:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從“全覆蓋”到“自主化” 我國教材體系建設進入新階段】從教育部獲悉，目前，我國已全面完成中國原創性哲學社會科學教材建設總體佈局，實現哲學社會科學全部29個一級學科的全覆蓋，力爭2030年建成中國自主教材體系。（央視）"
+    },
+    {
+      "id": "5082087",
+      "time": "2026-09-08 13:20:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫療服務板塊短線拉昇，奧浦邁漲超10%】醫療服務板塊短線拉昇，奧浦邁漲超10%，百奧賽圖、皓元醫藥、成都先導、博濟醫藥、益諾思等跟漲。"
+    },
+    {
+      "id": "5082086",
+      "time": "2026-09-08 13:20:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "5082085",
       "time": "2026-09-08 13:20:15",
