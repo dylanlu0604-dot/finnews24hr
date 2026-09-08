@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-08 13:55:57",
-  "count": 14100,
+  "updated": "2026-09-08 13:59:48",
+  "count": 14098,
   "items": [
+    {
+      "id": "5082130",
+      "time": "2026-09-08 13:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里釋出QoderWake 1.0】9月8日訊息，阿里釋出數字員工產品QoderWake 1.0。據介紹，使用者一句話描述崗位需求，QoderWake可生成一份角色文件，使用者修改、配置和確認後，即可生成一個理解工作職責、協作關係、工作許可權等資訊的數字員工。目前，QoderWake已內建前端、後端、產品經理、內容運營、資料分析師、專案管理員、UI設計師等10個崗位。"
+    },
+    {
+      "id": "mkt:01a07f99-11ea-7118-84de-1517f839a666",
+      "time": "2026-09-08 13:58:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Ukraine says Russian strike on Kyiv kills at least two】Ukraine’s interior ministry said a Russian attack on Kyiv overnight killed at least two people and wounded 10. President Vladimir Putin had earlier ordered a three-day pause in air strikes on the capital through Sept. 8. U.S. envoys Witkoff and Kushner flew from Moscow to Kyiv at the weekend to discuss ending the war. Kyiv’s mayor said drones and ballistic missiles struck residential and industrial areas and an educational institution."
+    },
+    {
+      "id": "te:markets:581866",
+      "time": "2026-09-08 13:57:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Dollar Hovers Near Multi-Month Highs — The Australian dollar hovered above $0.72, near multi-month highs as increasingly hawkish signals from the Reserve Bank boosted expectations for another rate hike this month. RBA Assistant Governor Sarah Hunter said the board has little tolerance for inflation remaining above target for an extended period and may need to raise interest rates further if price pressures prove stronger than expected. Markets now price around a 69% chance of a 25-basis-point hike to 4.60% at the September 29 meeting, up sharply from less than 10% a month ago, while a November move is fully priced in. The currency also benefited from broad US dollar weakness and extended gains against the euro, which slipped to a near two-year low. However, domestic headwinds limited further gains, with NAB business conditions falling to a six-year low in August and consumer sentiment declining sharply in September amid concerns over higher borrowing costs, fuel prices and the weakening housing market."
+    },
+    {
+      "id": "5082129",
+      "time": "2026-09-08 13:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三隻松鼠成立超鮮標籤品牌管理公司】企查查APP顯示，近日，安徽超鮮標籤品牌管理有限公司成立，經營範圍包含：食品銷售；食品網際網路銷售；酒類經營；餐飲服務；城市配送運輸服務（不含危險貨物）等。企查查股權穿透顯示，該公司由三隻松鼠全資持股。"
+    },
+    {
+      "id": "5082128",
+      "time": "2026-09-08 13:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企在喬治亞投資的首個新能源專案開工】由四川能源國際投資有限責任公司投資的伊梅列季風電專案7日在喬治亞首都第比利斯舉行開工儀式，標誌著中企在喬治亞投資的首個新能源專案正式開工。喬治亞經濟與可持續發展部能源政策與投資專案司司長阿拉比澤在致辭中說，喬治亞近年來用電量穩定增長，開發本土能源資源是喬治亞能源領域的首要優先事項。伊梅列季風電專案等專案的實施將提高綠色能源在喬治亞能源結構中的佔比，促進喬治亞實現能源獨立。（新華社）"
+    },
+    {
+      "id": "mkt:01a07f97-24df-7118-84de-0a4184d6bb97",
+      "time": "2026-09-08 13:56:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shanghai crude (SC) main contract rose 4.00% intraday to 716.40 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a07f97-23b8-7118-84de-056e8a135c7b",
+      "time": "2026-09-08 13:56:46",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley cut its target price for ASML's European-listed shares to €1,700 from €1,930."
+    },
     {
       "id": "mkt:01a07f95-dec6-7118-84dd-feaebcb5957f",
       "time": "2026-09-08 13:55:23",
@@ -128901,82 +128973,6 @@
         "Important"
       ],
       "text": "Germany | Retail Sales (MoM) (Jul) | actual -3.4% | consensus 0.4% | previous -0.7%"
-    },
-    {
-      "id": "5070096",
-      "time": "2026-09-01 13:59:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【三星儲存器業務部門將2031年前約70%的產能分配給長約訂單】AI建設熱潮引爆HBM需求，並排擠傳統DRAM供給、加劇記憶體缺貨。韓媒報道，三星的儲存器業務部門已將2031年前約70%的產能分配給長約訂單（long-term agreements，簡稱LTAs），主要簽約客戶包括英偉達，微軟及谷歌等大型科技公司。然而，HBM搶貨情況相當激烈，就連這些大型科技公司都無法取得合約約定的全部供貨量，使現貨價格進一步飆升。 (財聯社)"
-    },
-    {
-      "id": "5070095",
-      "time": "2026-09-01 13:58:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼財長：1-7月預算赤字佔GDP的0.91%。"
-    },
-    {
-      "id": "5070094",
-      "time": "2026-09-01 13:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦副總理兼外長伊沙克·達爾在與伊朗外長阿拉格齊會談時表示，對話與外交是促進和平的關鍵，美伊雙方落實伊斯蘭堡諒解備忘錄，仍是當前唯一可行的前進道路。"
-    },
-    {
-      "id": "5070093",
-      "time": "2026-09-01 13:57:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神田真人連任亞洲開發銀行行長 任期5年】亞洲開發銀行9月1日釋出訊息稱，在近日結束的選舉中，亞洲開發銀行（亞行）現任行長神田真人獲得亞行理事會成員一致投票支援，連任亞行行長。其新一屆任期為5年，自2026年11月24日起生效。神田真人於2024年11月27日首次當選亞行第11任行長，並於2025年2月24日正式履職，接替前任行長淺川雅嗣，完成其剩餘任期。"
-    },
-    {
-      "id": "5070092",
-      "time": "2026-09-01 13:57:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "赫馬蒂：我想告訴美國總統，伊朗擁有充足的外匯儲備。"
-    },
-    {
-      "id": "5070091",
-      "time": "2026-09-01 13:56:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗央行行長赫馬蒂：我們擁有一些不便透露具體細節的資源，我們準備向市場注入 20 億美元的外匯。"
-    },
-    {
-      "id": "5070090",
-      "time": "2026-09-01 13:56:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗央行行長赫馬蒂：伊朗外匯欠款的徵收工作正在進行中，除了現有的國內儲備外，伊朗的外匯儲備充足。"
-    },
-    {
-      "id": "5070089",
-      "time": "2026-09-01 13:56:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【儒意電影成立澳洲發行廠牌寰映發行】9月1日，儒意電影正式宣佈成立澳洲本土電影發行廠牌寰映發行。首部發行專案鎖定影片《歡迎來龍餐館》，將於2026年9月11日正式登陸澳大利亞、紐西蘭院線。"
-    },
-    {
-      "id": "5070088",
-      "time": "2026-09-01 13:56:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗央行行長赫馬蒂：關於伊朗經濟崩潰的說法毫無根據。"
     }
   ]
 }
