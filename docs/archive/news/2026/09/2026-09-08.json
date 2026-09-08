@@ -1,7 +1,200 @@
 {
   "date": "2026-09-08",
-  "count": 2183,
+  "count": 2204,
   "items": [
+    {
+      "id": "mkt:01a08165-426b-7118-84ed-a944f583227b",
+      "time": "2026-09-08 22:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli foreign minister says most Israelis support settlements and oppose a Palestinian state."
+    },
+    {
+      "id": "te:economy:582086",
+      "time": "2026-09-08 22:21:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Hits Two-Year High — Canada’s 10-year government bond yield rose to 3.80% in September, the highest in over two years, after Canada’s retaliatory tariffs on US goods took effect and raised inflation risks. The counter-tariffs cover $20 billion of US goods, with duties ranging from 15% to 50% on products including steel, furniture, clothing and electronics. US tariffs imposed last month targeted $20 billion, or 5%, of Canadian exports to the US. Higher import prices increased inflationary pressures, while the escalating trade war reduced demand for Canadian bonds as safe-haven assets. Energy-driven inflation also boosted rate hike expectations. The BoC held its key rate at 2.25%, noting that inflation risks had increased while new tariffs had made the growth outlook more uncertain. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
+    },
+    {
+      "id": "mkt:01a08164-caaa-7118-84ed-a54c0518f04a",
+      "time": "2026-09-08 22:21:01",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said economic activity has shown reasonable resilience but remains weak by historical standards."
+    },
+    {
+      "id": "5083362",
+      "time": "2026-09-08 22:20:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【林紅紅會見美國惠普公司首席法務官兼總法律顧問朱莉·雅各布斯】9月8日，中國貿促會副會長林紅紅在京會見美國惠普公司首席法務官兼總法律顧問朱莉·雅各布斯一行。雙方圍繞服務外資企業在華髮展、深化產業鏈供應鏈國際合作、參與2026年APEC系列工商界活動等議題進行交流。（中國貿促）"
+    },
+    {
+      "id": "mkt:01a08164-9a7a-7118-84ed-9d6b2494e452",
+      "time": "2026-09-08 22:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister said the UK sanctions measures conflict with laws in several U.S. states."
+    },
+    {
+      "id": "mkt:01a08164-761e-7118-84ed-976bfe3cd8c9",
+      "time": "2026-09-08 22:20:39",
+      "tags": [
+        "MKT News",
+        "HPQ.O"
+      ],
+      "text": "【China Council for the Promotion of International Trade vice chairman Lin Honghong meets HP Inc. general counsel Julie Jacobs】Sept 8, Beijing — China Council for the Promotion of International Trade (CCPIT) vice chairman Lin Honghong met HP Inc. chief legal officer and general counsel Julie Jacobs. Discussions covered support for foreign-invested firms operating in China, deepening international industrial and supply-chain cooperation, and HP's participation in the business events strand of APEC 2026."
+    },
+    {
+      "id": "5083361",
+      "time": "2026-09-08 22:20:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：經濟活動一直保持相當韌性，但以歷史標準衡量仍處於疲軟水平。"
+    },
+    {
+      "id": "mkt:01a08164-279b-7118-84ed-894b189bfdbf",
+      "time": "2026-09-08 22:20:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor BAILEY said he did not think the U.K. economy was on the edge of recession and that recent data looked slightly stronger."
+    },
+    {
+      "id": "5083360",
+      "time": "2026-09-08 22:20:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：最新資料看起來略為強勁。"
+    },
+    {
+      "id": "5083359",
+      "time": "2026-09-08 22:19:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我認為我們並未處於經濟衰退的邊緣。"
+    },
+    {
+      "id": "5083358",
+      "time": "2026-09-08 22:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱普京與特朗普的會談富有建設性。"
+    },
+    {
+      "id": "mkt:01a08163-75b5-7118-84ed-84d8938c2e23",
+      "time": "2026-09-08 22:19:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's foreign minister said the UK's move left Israel with no choice but to respond."
+    },
+    {
+      "id": "5083357",
+      "time": "2026-09-08 22:19:23",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球最大主權財富基金擬大幅減持美債】“挪威主權財富基金”是全球規模最大的主權基金，據多家外媒日前披露，該基金的管理機構“挪威銀行投資管理基金”日前應詢致函挪威財政部，就“挪威主權財富基金”下步投資方向提出建議。其中一條重要建議就是將政府債券在該基金所持有的債券投資組合中所佔的比例從目前的70%下調至50%，而美國國債將成為主要減持物件之一。訊息稱，目前“挪威主權財富基金”所持有的美債總額約2150億美元。“挪威銀行投資管理基金”計劃將美債持有量大幅削減近800億美元，美債的配置比例也將從34.1%降至21.9%。“挪威主權財富基金”目前資產管理規模約2.34萬億美元。作為美國國債重要的長期穩定海外投資者，“挪威主權財富基金”計劃大規模減持，所釋放的訊號意義重大。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08162-fe40-7118-84ed-7cf632fadaeb",
+      "time": "2026-09-08 22:19:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister said the UK's move was driven by domestic politics."
+    },
+    {
+      "id": "mkt:01a08162-d756-7118-84ed-717987540c80",
+      "time": "2026-09-08 22:18:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister said UK-announced sanctions clearly interfere with Israel's upcoming election."
+    },
+    {
+      "id": "mkt:01a08162-4c2d-7118-84ed-69b7595d69ed",
+      "time": "2026-09-08 22:18:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin: Putin told U.S. President Trump which measures the U.S. could take to end the conflict more quickly."
+    },
+    {
+      "id": "mkt:01a08162-2ba8-7118-84ed-60287429977d",
+      "time": "2026-09-08 22:18:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump, Putin hold one-hour call focused on ending Ukraine conflict】Kremlin said Russian President Putin and US President Trump held a one-hour phone call. Trump focused on efforts to end the Ukraine conflict quickly; both leaders commented on a US envoy's visit. Moscow said Russia has no hostile plans toward Europe. Putin expressed support for restoring US-Russia relations, discussed a prisoner exchange, and provided a Russian assessment of the battlefield, outlining measures the US could take to help end the conflict faster."
+    },
+    {
+      "id": "mkt:01a08162-2590-7118-84ed-59ebcb826736",
+      "time": "2026-09-08 22:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Putin and U.S. President Trump discussed a prisoner swap."
+    },
+    {
+      "id": "mkt:01a08162-11ab-7118-84ed-539e5d289616",
+      "time": "2026-09-08 22:18:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Kremlin says Putin supports the idea of restoring US-Russia relations."
+    },
+    {
+      "id": "mkt:01a08161-e3b5-7118-84ed-4d872a5c3f1a",
+      "time": "2026-09-08 22:17:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Kremlin says Russia has no hostile plans toward Europe."
+    },
     {
       "id": "mkt:01a08161-bc00-7118-84ed-458ecff54a41",
       "time": "2026-09-08 22:17:40",
@@ -9,6 +202,14 @@
         "MKT News"
       ],
       "text": "Kremlin: US President Trump and Russian President Putin discussed and evaluated the results of a US special envoy's visits to Moscow and Kyiv."
+    },
+    {
+      "id": "5083356",
+      "time": "2026-09-08 22:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部長薩爾：英國外交大臣今日作出的指控“純屬誹謗”，且不實。"
     },
     {
       "id": "5083355",
