@@ -1,7 +1,66 @@
 {
-  "updated": "2026-09-09 05:33:47",
-  "count": 13900,
+  "updated": "2026-09-09 05:37:47",
+  "count": 13903,
   "items": [
+    {
+      "id": "mkt:01a082f2-5394-7118-84f5-466ee11fdab4",
+      "time": "2026-09-09 05:35:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadath reports Jordanian air defenses intercepted a salvo of Iranian missiles."
+    },
+    {
+      "id": "mkt:01a082f2-09ea-7118-84f5-38b52f39007e",
+      "time": "2026-09-09 05:34:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS, citing unofficial reports, said explosions were heard in Jordan after Iran launched missile strikes."
+    },
+    {
+      "id": "5083716",
+      "time": "2026-09-09 05:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：憑藉 3% 的國內生產總值增速，我們能夠依靠經濟增長化解債務上升問題。在某個時間點，必須重新審視移民議題。"
+    },
+    {
+      "id": "5083715",
+      "time": "2026-09-09 05:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大對美反制關稅正式生效】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效。加方對鋼鐵、乳製品、農用裝置、紙漿及電子產品等美國進口商品開始徵收等額反制關稅。 加拿大和美國的貿易談判8月下旬宣告破裂，美國對價值200億美元的加拿大商品徵收50%的關稅。（新華社）"
+    },
+    {
+      "id": "mkt:01a082f1-59ae-7118-84f5-3327e5308c96",
+      "time": "2026-09-09 05:34:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【BESSENT on yen: If you want to bet against me, go ahead】U.S. Treasury Secretary BESSENT said of the yen that anyone who wants to bet against him should go ahead, saying he has relevant information and a strong read on what the Bank of Japan and policymakers will do."
+    },
+    {
+      "id": "5083714",
+      "time": "2026-09-09 05:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：約旦境內響起空襲警報，並有攔截行動的相關報道。"
+    },
     {
       "id": "mkt:01a082ee-eb62-7118-84f5-2f6028f47c9c",
       "time": "2026-09-09 05:31:30",
@@ -126887,34 +126946,6 @@
         "國際"
       ],
       "text": "福特汽車支付230萬美元，了結美國平等就業機會委員會提出的種族騷擾相關指控。"
-    },
-    {
-      "id": "5071714",
-      "time": "2026-09-02 05:37:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京談及烏克蘭局勢：我毫不懷疑敵人終將崩潰。問題只在於時間。這類問題向來十分棘手，最好不要給出，甚至不要試圖給出具體時間表，因為戰爭殘酷，事態難以預判。"
-    },
-    {
-      "id": "mkt:01a05ee6-32a3-7118-8446-63bc2d5d1daf",
-      "time": "2026-09-02 05:35:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says it launched drone strike on US base in Bahrain】Iran’s military public relations department said in the 29th phase of “Thunder” operations it used a large number of attack drones to strike Sheikh Isa Airbase in Bahrain, calling the facility one of the Persian Gulf’s most important and sensitive US bases. Tehran said the base conducts helicopter and drone component maintenance and hosts reconnaissance aircraft, and framed the strike as a response to “enemy attacks” on southern Iran. The military warned of “severe retaliation” against related parties; the US and Bahrain have not yet confirmed or responded."
-    },
-    {
-      "id": "mkt:01a05ee5-5ae5-7118-8446-5eaeb2db9bcb",
-      "time": "2026-09-02 05:34:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "【Apple’s new CEO Ternus set for $58m fiscal‑2027 pay package】Apple told the SEC that John Ternus’ fiscal‑2027 compensation package is valued at about $58m; Tim Cook’s package as executive chairman is about $47m. The filing, submitted on Ternus’ first day in the role, shows Ternus’ annual base salary at $3m and a target stock award of $55m for 2027. In 2026 he will receive pro‑rata RSUs worth roughly $2.5m. Seventy‑five percent of Ternus’ stock award is tied to Apple’s performance versus S&P 500 constituent companies; the remaining 25% are time‑based units that vest semiannually. Cook’s base salary will fall from $3m to $2m and his 2027 target equity award is $45m, with only half of his award performance‑tied to S&P 500 relative performance."
     }
   ]
 }

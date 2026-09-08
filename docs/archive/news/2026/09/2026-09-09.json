@@ -1,7 +1,66 @@
 {
   "date": "2026-09-09",
-  "count": 366,
+  "count": 372,
   "items": [
+    {
+      "id": "mkt:01a082f2-5394-7118-84f5-466ee11fdab4",
+      "time": "2026-09-09 05:35:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadath reports Jordanian air defenses intercepted a salvo of Iranian missiles."
+    },
+    {
+      "id": "mkt:01a082f2-09ea-7118-84f5-38b52f39007e",
+      "time": "2026-09-09 05:34:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS, citing unofficial reports, said explosions were heard in Jordan after Iran launched missile strikes."
+    },
+    {
+      "id": "5083716",
+      "time": "2026-09-09 05:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：憑藉 3% 的國內生產總值增速，我們能夠依靠經濟增長化解債務上升問題。在某個時間點，必須重新審視移民議題。"
+    },
+    {
+      "id": "5083715",
+      "time": "2026-09-09 05:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大對美反制關稅正式生效】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效。加方對鋼鐵、乳製品、農用裝置、紙漿及電子產品等美國進口商品開始徵收等額反制關稅。 加拿大和美國的貿易談判8月下旬宣告破裂，美國對價值200億美元的加拿大商品徵收50%的關稅。（新華社）"
+    },
+    {
+      "id": "mkt:01a082f1-59ae-7118-84f5-3327e5308c96",
+      "time": "2026-09-09 05:34:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【BESSENT on yen: If you want to bet against me, go ahead】U.S. Treasury Secretary BESSENT said of the yen that anyone who wants to bet against him should go ahead, saying he has relevant information and a strong read on what the Bank of Japan and policymakers will do."
+    },
+    {
+      "id": "5083714",
+      "time": "2026-09-09 05:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：約旦境內響起空襲警報，並有攔截行動的相關報道。"
+    },
     {
       "id": "mkt:01a082ee-eb62-7118-84f5-2f6028f47c9c",
       "time": "2026-09-09 05:31:30",
