@@ -1,7 +1,75 @@
 {
   "date": "2026-09-09",
-  "count": 538,
+  "count": 545,
   "items": [
+    {
+      "id": "mkt:01a08372-c07c-7118-84f6-cb6677c50f9f",
+      "time": "2026-09-09 07:55:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan broad money supply YoY 4.4% in August, unchanged from the prior reading of 4.4%."
+    },
+    {
+      "id": "mkt:01a08372-a124-7118-84f6-c4cd1da073d5",
+      "time": "2026-09-09 07:55:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Broadest Liquidity (YoY) (Aug) | actual 4.4% | previous 4.4%"
+    },
+    {
+      "id": "te:markets:582177",
+      "time": "2026-09-09 07:55:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Losses as Oil Prices Rise — Gold held around $4,350 an ounce on Wednesday after sliding for two straight sessions, pressured by rising oil prices that heightened inflation concerns and strengthened expectations for interest rate hikes. Oil prices continued to climb after US forces destroyed five Iranian crude tankers near Kharg Island, the country’s main oil export hub, in retaliation for attempted missile attacks on a US warship. Investors also braced for key US inflation readings this week for further signals on the Federal Reserve’s next policy move. Markets are currently pricing in roughly a 60% chance of a 25-basis-point rate hike next week. Although gold is widely considered a hedge against inflation, higher interest rates can reduce demand for the non-yielding asset by increasing the appeal of interest-bearing investments. Meanwhile, gold posted strong gains in August, supported by increased investment and hedging demand, along with continued central bank purchases, particularly from China."
+    },
+    {
+      "id": "5083826",
+      "time": "2026-09-09 07:55:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國選定220億美元天然氣專案，作為該貿易協定下首個投資專案】韓國已確定將美國得克薩斯州一處燃氣發電專案，作為去年達成的一項貿易協議項下的首個對美投資專案。此前數月，雙方圍繞韓方投資承諾的落實進度產生摩擦，此舉或將有助於緩和這對盟友之間的緊張關係。據韓聯社及其他韓國媒體報道，該專案位於得州恩西納爾，投資額約220億美元，總裝機容量6.3吉瓦。專案將先建成1.4吉瓦燃氣輪機發電機組，後續再新增4.9吉瓦聯合迴圈發電產能，用於滿足人工智慧資料中心激增的電力需求。韓國政府暫未披露專案細節，並於週一表示，在完成包括向韓國國會彙報在內的流程前，不會對外發布任何訊息。媒體報道稱，韓國政府將於9月17日向國會彙報投資談判情況，最早可能在9月18日簽署諒解備忘錄（MOU）。"
+    },
+    {
+      "id": "5083825",
+      "time": "2026-09-09 07:53:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1355.00美元/盎司。"
+    },
+    {
+      "id": "mkt:01a08370-ed68-7118-84f6-bda23a6d5088",
+      "time": "2026-09-09 07:53:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Jordan says 20 ballistic missiles fired from Iranian territory intercepted; 18 destroyed, two landed in open areas】Jordan Armed Forces said in an early-morning statement that missiles originating from Iranian territory struck Jordan in recent hours. Jordanian air-defence systems intercepted 20 ballistic missiles fired toward Jordanian territory, destroying 18; two fell in sparsely populated open areas. The military said it acted under established procedures to protect airspace and civilians. Monitoring, tracking and assessment operations are ongoing."
+    },
+    {
+      "id": "em:jjsj_rbsj:202609093868645143",
+      "time": "2026-09-09 07:52:39",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月貨幣供應M2同比增長2%，前值2.20%。"
+    },
     {
       "id": "mkt:01a0836f-95f6-7118-84f6-b788739b2626",
       "time": "2026-09-09 07:52:03",
