@@ -1,7 +1,885 @@
 {
   "date": "2026-09-09",
-  "count": 206,
+  "count": 291,
   "items": [
+    {
+      "id": "mkt:01a082b2-343d-7118-84f4-81b40c706dcf",
+      "time": "2026-09-09 04:25:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's state broadcaster IRIB said the U.S. attacked a second tanker in waters near Jask."
+    },
+    {
+      "id": "5083664",
+      "time": "2026-09-09 04:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺（IRIB）：美國襲擊了賈斯克水域附近第二艘油輪。"
+    },
+    {
+      "id": "mkt:01a082b1-925b-7118-84f4-7cf6bdede842",
+      "time": "2026-09-09 04:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "London Heathrow Airport: flight operations have resumed, but further disruption is expected."
+    },
+    {
+      "id": "mkt:01a082b0-5a2a-7118-84f4-7752ccd5d737",
+      "time": "2026-09-09 04:23:10",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Air traffic control services at London Heathrow Airport have begun to resume."
+    },
+    {
+      "id": "mkt:01a082ae-8a1b-7118-84f4-6ac1fa203d74",
+      "time": "2026-09-09 04:21:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【WSJ: Iran reportedly attacks U.S. naval vessels again; U.S. officials warn of missile upgrades】The Wall Street Journal, citing U.S. officials, reported Iran on Monday again struck U.S. naval vessels—the second maritime action against U.S. forces in three days—though the U.S. military has not acknowledged the incident. U.S. officials say recent strikes suggest Iran may be deploying more capable missiles; Tehran claims it used newly fielded missiles with advanced guidance. Analysts cited by the report say some Iranian missiles carry electro‑optical seekers for image-based tracking of moving targets. The U.S. previously struck three Iranian oil tankers over attacks on U.S. ships; U.S. policymakers are pursuing blockade and sanctions to compel Tehran, but officials say Iran continues to strengthen its threat to U.S. warships."
+    },
+    {
+      "id": "mkt:01a082ad-86c6-7118-84f4-67a659f85c78",
+      "time": "2026-09-09 04:20:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【EU says Israeli expansion of West Bank settlements undermines two-state prospects】EU foreign-policy chief Kallas said all EU member states agree Israeli settlements in the West Bank violate international law and that Israel’s expansion of settlements is undermining prospects for a two-state solution. Twelve countries, including the UK, France and Canada, issued a joint statement committing to restrictions on trade in goods originating from Israeli settlements."
+    },
+    {
+      "id": "5083663",
+      "time": "2026-09-09 04:19:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）徵集方案，以加速月面技術研發。"
+    },
+    {
+      "id": "te:markets:582146",
+      "time": "2026-09-09 04:19:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Gains on Supply Disruption Fears — Brent crude settled around $98 and kept climbing after reports claimed explosions had been heard in an area of Kharg. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
+    },
+    {
+      "id": "te:markets:582145",
+      "time": "2026-09-09 04:17:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Hits Six-Week High — Crude oil climbed back to $94 a barrel on Tuesday, the highest in six weeks, amid growing concerns over potential supply disruptions. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
+    },
+    {
+      "id": "5083662",
+      "time": "2026-09-09 04:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟稱以色列擴張約旦河西岸定居點破壞“兩國方案”前景】歐盟外交與安全政策高階代表卡拉斯8日在社交媒體發文稱，所有歐盟成員國一致認為，約旦河西岸的以色列定居點違反國際法。以色列政府在約旦河西岸的定居點擴張正在破壞“兩國方案”的前景。卡拉斯重申，歐盟仍堅定致力於支援基於“兩國方案”的全面、公正和持久和平。英國、法國、加拿大等12國當天發表聯合宣告，就限制與以色列定居點的商品貿易作出相關承諾。（央視新聞）"
+    },
+    {
+      "id": "5083661",
+      "time": "2026-09-09 04:13:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Snap 首席商務官莫漢（Mohan）將於年底離職。 任命羅南・哈里斯（Ronan Harris）擔任首席商務官。"
+    },
+    {
+      "id": "te:markets:582142",
+      "time": "2026-09-09 04:10:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stocks Fall Amid Rising Energy Prices — US stock indices closed lower on Tuesday as higher energy prices dented the outlook for corporate margins and increased the risk of higher interest rates. Traders are also awaiting key inflation data due later this week. The S&P 500 fell 0.6%, the Nasdaq lost 0.3%, and the Dow shed 628 points. New strikes between the US and Iran raised concerns over prolonged disruptions to fuel exports from the Persian Gulf, while Houthi attacks damaged Saudi energy infrastructure and reduced its capacity. Borrowing costs for US companies also rose amid hawkish signals from the Bank of Japan and likely Japanese sales of US Treasuries to support the yen. Credit-sensitive software stocks declined, with Microsoft losing 1.1%, Palantir down 2.3%, and Amazon shedding 0.6% ahead of its sterling bond offering. AI companies have increasingly borrowed in foreign currencies as dollar bond markets face a surge in AI-related debt supply. Meanwhile, Oracle gained 2.4% ahead of earnings this week."
+    },
+    {
+      "id": "5083660",
+      "time": "2026-09-09 04:10:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "StoneX：上調美國 2026 年大豆產量預估至 45.47 億蒲式耳（此前為 44.70 億蒲式耳），單產維持在每英畝 53.0 蒲式耳。上調美國 2026 年玉米產量預估至 162.07 億蒲式耳（此前為 161.60 億蒲式耳），將單產下調至每英畝 182.9 蒲式耳（此前為 184.8 蒲式耳）。"
+    },
+    {
+      "id": "5083659",
+      "time": "2026-09-09 04:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦歡迎12國擬限制與以色列定居點商品貿易】巴勒斯坦總統府8日表示，歡迎法國、英國、加拿大等12國外長有關擬限制與約旦河西岸以色列定居點商品貿易的聯合宣告。據巴勒斯坦通訊社報道，巴勒斯坦總統府發表宣告說，此舉是追究定居點活動責任的重要步驟，體現了對在歐洲層面採取類似措施的支援。（央視新聞）"
+    },
+    {
+      "id": "5083658",
+      "time": "2026-09-09 04:09:04",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息：花旗集團最快將於今年，為日本企業提供跨境匯款服務，該服務採用基於區塊鏈的代幣化存款。"
+    },
+    {
+      "id": "mkt:01a082a1-ebfa-7118-84f4-5d5daf7b0538",
+      "time": "2026-09-09 04:07:24",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said capital allocation may focus on increased dividends and share buybacks."
+    },
+    {
+      "id": "mkt:01a082a1-0152-7118-84f4-5151924b7e79",
+      "time": "2026-09-09 04:06:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil rises on the 8th】At the close, NYMEX October light sweet crude gained $1.55 to $93.03/bbl, up 1.69%; ICE Brent November added $0.92 to $97.92/bbl, up 0.95%."
+    },
+    {
+      "id": "5083657",
+      "time": "2026-09-09 04:06:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離】當地時間8日晚，伊朗伊斯蘭革命衛隊就美軍襲擊伊朗油輪事件發出緊急警告。革命衛隊警告稱，鑑於美軍襲擊伊朗多艘油輪的罪惡行徑，伊朗警告所有停泊在科威特和巴林港口的油輪船員，由於這些港口收留了美軍，因此無論油輪停泊在錨地還是港口，船員都應立即離開，因為其將成為襲擊目標。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a082a0-223c-7118-84f4-4b2c87785e6d",
+      "time": "2026-09-09 04:05:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed lower on Tuesday, Sept. 8: Dow Jones Industrial Average fell 626.72 points (-1.17%) to 52,787.53; S&P 500 lost 44.98 points (-0.58%) to 7,673.62; Nasdaq Composite dropped 85.58 points (-0.32%) to 26,421.41."
+    },
+    {
+      "id": "5083656",
+      "time": "2026-09-09 04:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：資本配置或將側重提高股息與股票回購。"
+    },
+    {
+      "id": "5083655",
+      "time": "2026-09-09 04:03:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：公司資產負債表上現金持續增加。"
+    },
+    {
+      "id": "mkt:01a0829e-6906-7118-84f4-40318813c74f",
+      "time": "2026-09-09 04:03:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Market Regions",
+        "Wall Street (US)",
+        "INTC.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish",
+        "IQ.O"
+      ],
+      "text": "【US stocks close lower; Intel jumps 9%】US equities closed lower on Tuesday: Dow Jones Industrial Average fell 1.1%, S&P 500 down 0.58%, Nasdaq down 0.32%. Nvidia (NVDA.O) fell 2%, Qualcomm (QCOM.O) rose 3%, Intel (INTC.O) jumped 9%, SK Hynix (SKHY.O) gained 4.8%. Nasdaq Golden Dragon China Index slipped 1.7%; iQIYI (IQ.O) surged nearly 12%, Baidu (BIDU.O) dropped 7%."
+    },
+    {
+      "id": "5083654",
+      "time": "2026-09-09 04:02:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價8日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲1.55美元，收於每桶93.03美元，漲幅為1.69%；11月交貨的倫敦布倫特原油期貨價格上漲92美分，收於每桶97.92美元，漲幅為0.95%。"
+    },
+    {
+      "id": "5083653",
+      "time": "2026-09-09 04:02:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍表示，作為對美軍襲擊伊朗油輪的回應，相關船隻將成為打擊目標。"
+    },
+    {
+      "id": "mkt:01a0829c-2d10-7118-84f4-3a3b428f3ba9",
+      "time": "2026-09-09 04:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran IRGC threatens strikes on tankers at Kuwaiti, Bahraini ports】Sepahnews, an IRGC-affiliated outlet, reported the IRGC Navy said it will warn all oil tankers berthed or at anchor in Kuwaiti and Bahraini ports to evacuate crew immediately and warned those vessels would be strike targets in retaliation for US attacks on Iranian tankers. The statement accused Kuwait and Bahrain of supporting US actions and called them complicit."
+    },
+    {
+      "id": "5083652",
+      "time": "2026-09-09 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.17%，標普500指數跌0.58%，納指跌0.31%。HWM跌10.70%，安進跌10.08%，史賽克跌8.83%，GoDaddy跌8.31%，億客行跌7.91%。“七姐妹”方面：特斯拉漲3.98%，谷歌漲0.01%，Meta Platforms跌0.54%，亞馬遜跌0.60%，微軟跌1.16%，蘋果跌1.17%，英偉達跌1.99%。"
+    },
+    {
+      "id": "5083651",
+      "time": "2026-09-09 04:00:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗伊斯蘭革命衛隊海軍警告，停靠在駐有美軍的科威特、巴林港口附近的所有油輪船員撤離。"
+    },
+    {
+      "id": "5083650",
+      "time": "2026-09-09 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.75%】燃石醫學跌8.22%，百度跌6.97%，MAAS跌7.16%，好未來跌4.68%，億咖通科技跌4.76%。"
+    },
+    {
+      "id": "te:markets:582141",
+      "time": "2026-09-09 03:59:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chubb Stock Price Hits 7-week Low — Chubb shares decreased to 336.64 USD, the lowest since July 2026. Over the past 4 weeks, Chubb lost 3.27%, and in the last 12 months, it increased 21.63%."
+    },
+    {
+      "id": "5083649",
+      "time": "2026-09-09 03:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府提議針對中等規模企業簡化納稅制度。"
+    },
+    {
+      "id": "mkt:01a08299-ebe2-7118-84f4-30c127d62951",
+      "time": "2026-09-09 03:58:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Sepahnews, a media outlet affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC), questioned the U.S. claim that an unmanned submersible suffered equipment failures, asking if the vehicle indeed lacked sonar and other key systems why it was operating in the Strait of Hormuz. The IRGC said U.S. emphasis on ageing equipment and the absence of sensitive gear appears aimed at downplaying the incident."
+    },
+    {
+      "id": "5083648",
+      "time": "2026-09-09 03:56:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國官員訪問剛果（金） 評估埃博拉疫情應對情況】當地時間9月8日，聯合國人道事務協調廳表示，剛果（金）東部埃博拉疫情持續蔓延，目前已造成超過3200人死亡。聯合國人道主義協調員達米安·馬瑪8日開始對剛果（金）北基伍省進行為期4天的訪問，評估疫情應對和人道主義形勢。"
+    },
+    {
+      "id": "mkt:01a08297-3e1a-7118-84f4-2a844ddec996",
+      "time": "2026-09-09 03:55:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.13% to 98.787 on 8th】The dollar index, which measures the US dollar against six major currencies, fell 0.13% to 98.787. At the New York FX close: EUR/USD 1.1629 (prev. 1.1624); GBP/USD 1.3547 (prev. 1.3542); USD/JPY 153.61 (prev. 154.34); USD/CHF 0.8090 (prev. 0.8095); USD/CAD 1.3781 (prev. 1.3815); USD/SEK 9.5816 (prev. 9.5935)."
+    },
+    {
+      "id": "5083647",
+      "time": "2026-09-09 03:54:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數8日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.13%，在匯市尾市收於98.787。截至紐約匯市尾市，1歐元兌換1.1629美元，高於前一交易日的1.1624美元；1英鎊兌換1.3547美元，高於前一交易日的1.3542美元。1美元兌換153.61日元，低於前一交易日的154.34日元；1美元兌換0.8090瑞士法郎，低於前一交易日的0.8095瑞士法郎；1美元兌換1.3781加元，低於前一交易日的1.3815加元；1美元兌換9.5816瑞典克朗，低於前一交易日的9.5935瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a08294-56c1-7118-84f4-26560e87737f",
+      "time": "2026-09-09 03:52:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Wall Street Journal, citing US officials, reported Iran launched an attack on US Navy vessels on Monday; the US military has not publicly confirmed. Iran earlier this weekend fired ballistic missiles at a US aircraft carrier and a guided‑missile destroyer. US officials said the attack caused no damage and that repeated recent Iranian attempts to strike US naval assets have raised concern about possible use of more advanced weapons."
+    },
+    {
+      "id": "5083646",
+      "time": "2026-09-09 03:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：伊朗對美國海軍艦艇發動未公開的第二次襲擊】據美國官員透露，繼上週末向美軍航空母艦和驅逐艦發射導彈之後，伊朗於週一對美國海軍艦艇發動了一場未被美方公開承認的襲擊。官員稱，襲擊沒有造成任何美國艦船受損。但伊朗近期屢次嘗試打擊美軍海上力量，引發各方警惕。"
+    },
+    {
+      "id": "5083645",
+      "time": "2026-09-09 03:49:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（9月8日）紐約尾盤，ICE阿拉比卡咖啡期貨跌3.22%，咖啡“C”期貨跌1.91%。紐約可可期貨跌4.22%，報5927美元/噸。芝加哥WCE雙低油菜籽期貨漲2.27%。ICE棉花期貨漲0.07%。"
+    },
+    {
+      "id": "mkt:01a0828f-283a-7118-84f4-1ebe1de79ad5",
+      "time": "2026-09-09 03:46:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Turkey's Foreign Ministry said Turkey strongly condemned Houthi attacks on Saudi Arabia."
+    },
+    {
+      "id": "5083644",
+      "time": "2026-09-09 03:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：土耳其強烈譴責胡塞武裝對沙烏地阿拉伯發動襲擊。"
+    },
+    {
+      "id": "5083643",
+      "time": "2026-09-09 03:45:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "博通CEO：可鎖定 2027 年晶片供應，目前正在敲定 2028 年的供應。"
+    },
+    {
+      "id": "mkt:01a0828e-29d6-7118-84f4-15efac79711e",
+      "time": "2026-09-09 03:45:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) CEO said the company can secure chip supply for 2027 and is currently securing supply for 2028."
+    },
+    {
+      "id": "5083642",
+      "time": "2026-09-09 03:39:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士稱美導彈襲擊哈爾克島附近的伊朗油輪】當地時間8日晚，總檯記者自伊朗方面獲悉，一艘伊朗油輪在距離哈爾克島4英里處遭到美軍導彈襲擊。當地訊息人士稱，事件中無人傷亡，油輪船員正在撤離。相關部門正在調查有關事件的具體情況。目前伊朗官方及美國方面暫無訊息。（央視新聞）"
+    },
+    {
+      "id": "te:economy:582140",
+      "time": "2026-09-09 03:39:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Argentina Manufacturing Output Falls in July — Argentina’s manufacturing output fell 4.9% year-on-year in July 2026, extending a 2.6% decline in the first seven months of the year. Twelve of the 16 manufacturing divisions posted annual declines. The steepest falls came from other equipment, appliances and instruments (-31.4%), machinery and equipment (-26.7%), clothing, leather and footwear (-15.9%), textiles (-13.0%), non-metallic mineral products (-12.6%), tobacco products (-12.3%), rubber and plastic products (-9.1%), furniture and other manufacturing (-9.1%), metal products (-8.4%), motor vehicles and auto parts (-5.4%), chemicals (-1.3%), and food and beverages (-0.5%). Meanwhile, output increased in petroleum refining (8.1%), wood, paper and printing (7.1%), other transport equipment (2.6%), and basic metals (1.6%). On a seasonally adjusted monthly basis, manufacturing output fell 5.0% in July, while the trend-cycle index declined 0.9%."
+    },
+    {
+      "id": "5083641",
+      "time": "2026-09-09 03:38:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬薩諸塞州州長簽署資料中心相關行政令，要求專案須獲得地方批准。"
+    },
+    {
+      "id": "mkt:01a08286-be73-7118-84f4-0f5f0fd64db2",
+      "time": "2026-09-09 03:37:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fox News, citing U.S. senior officials, reported the U.S. military struck targets near Hormuz Island and Jask, including Iranian oil tankers. Officials said the strikes are part of a broader campaign to economically squeeze Iran, with a strategy that includes sinking or disabling Iranian crude tankers."
+    },
+    {
+      "id": "5083640",
+      "time": "2026-09-09 03:37:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯新聞援引美國官員訊息：美軍對哈爾克島附近目標實施打擊。美方打擊目標包括伊朗油輪。"
+    },
+    {
+      "id": "5083639",
+      "time": "2026-09-09 03:36:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部哈爾克島傳出爆炸聲】總檯記者當地時間8日從伊朗方面獲悉，有訊息稱該國南部哈爾克島部分地區傳出數次爆炸聲。此外，當地時間當天21時45分左右，伊朗南部賈斯克地區傳出爆炸聲。目前伊朗官方暫無訊息披露。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a08285-7270-7118-84f4-063d635c01ef",
+      "time": "2026-09-09 03:36:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta Platforms (META.O) launches personal AI agent Muse; top tier $100/month】Meta Platforms (META.O) launched Muse, a personal AI agent for tasks such as scheduling, form‑filling and home camera monitoring. Muse is powered by Meta’s Muse Spark base models and is offered as a free tier plus $20/month and $100/month subscription plans. Meta AI head Alexander Wang said Muse runs in an isolated environment on Meta’s compute infrastructure, will not read actual passwords or payment data, and will request confirmation before performing sensitive actions; users may opt in to allow Meta to use interaction data for model training after removal of key personal identifiers. Meta said it is exploring commerce and in‑agent transaction monetization as it faces AI safety and privacy scrutiny and pressure on AI returns; CEO Mark Zuckerberg has framed personal AI agents as a future product and revenue priority."
+    },
+    {
+      "id": "5083638",
+      "time": "2026-09-09 03:32:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：油輪在哈爾克島錨地附近遭到美軍投射物擊中。該事件未造成人員傷亡，油輪船員目前正在撤離。"
+    },
+    {
+      "id": "mkt:01a08281-4437-7118-84f3-faa4e495a41b",
+      "time": "2026-09-09 03:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iranian media says U.S. missile strike hits tanker near Kharg Island】Iranian media reported a small Iranian tanker was struck by a missile fired by U.S. forces about 4 nm from Kharg Island, within the Kharg anchorage. Local sources said there were no casualties and crew are evacuating. Authorities are assessing damage and investigating the incident; further updates expected."
+    },
+    {
+      "id": "5083637",
+      "time": "2026-09-09 03:31:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：伊朗油輪在距哈爾克島 4 英里處遭到美軍導彈襲擊。"
+    },
+    {
+      "id": "5083636",
+      "time": "2026-09-09 03:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局解除飛往巴爾的摩 - 華盛頓國際機場（BWI）航班的地面停飛指令。"
+    },
+    {
+      "id": "te:economy:582139",
+      "time": "2026-09-09 03:25:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Credit",
+        "Importance 1"
+      ],
+      "text": "US Consumer Credit Rises in July — Total US consumer credit rose $18.06 billion in July 2026, following a $14.55 billion increase in June and beating forecasts for an $11.7 billion gain. Revolving credit, which includes credit card debt, increased $2.80 billion, pointing to stronger short-term consumer borrowing. Meanwhile, nonrevolving credit, which includes auto and student loans, rose $15.26 billion."
+    },
+    {
+      "id": "5083635",
+      "time": "2026-09-09 03:21:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國7月消費者信貸增長超預期 非迴圈信貸大增】美國7月消費者信貸增長超預期，非迴圈信貸創三年來最大增長。美聯儲週二公佈的資料顯示，未償還消費者信貸總額增加181億美元，6月資料經修正後為增加146億美元。汽車貸款和學費貸款等非迴圈信貸7月增加153億美元。與此同時，信用卡及其他迴圈信貸餘額增加28億美元。該報告不含抵押貸款。儘管物價居高不下，美國消費者支出今年總體仍保持韌性。不過，近幾個月物價增速超越工資增速，可能促使部分美國人依賴信貸來維持支出。"
+    },
+    {
+      "id": "mkt:01a08275-bba1-7118-84f3-f2f5c6cd4bb1",
+      "time": "2026-09-09 03:19:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "i24 reporter says the Jerusalem Post has learned the US is currently attacking Iranian oil tankers."
+    },
+    {
+      "id": "5083634",
+      "time": "2026-09-09 03:18:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "八家發行人於美國投資級債券市場出售382億美元債券，融資金額創2026年第三高。"
+    },
+    {
+      "id": "5083633",
+      "time": "2026-09-09 03:14:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "I24 新聞援引美方訊息：美國正在襲擊伊朗油輪。"
+    },
+    {
+      "id": "mkt:01a0826f-d884-7118-84f3-edf96ca95212",
+      "time": "2026-09-09 03:12:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI launches ChatGPT Images 2.5, boosts speed and editing precision】OpenAI has released a new image engine, ChatGPT Images 2.5, saying generation speed is up to 50% faster and fidelity for people and pets is improved. The update adds precise editing controls — users can specify edit locations via sketches or region selection instead of relying solely on text — and enables photo-to-style conversion, logo design and tattoo modification. OpenAI says the tool is intended to increase user participation in the creative process. The upgrade has renewed disputes over AI image copyright and creator rights, with observers questioning whether training used artists’ works and flagging potential impacts on the traditional creative industry."
+    },
+    {
+      "id": "mkt:01a0826f-c990-7118-84f3-e1965c1c01b8",
+      "time": "2026-09-09 03:12:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK National Air Traffic Services (NATS) said its system issue has been resolved, operations have returned to normal and it is working to clear the backlog of flights."
+    },
+    {
+      "id": "5083632",
+      "time": "2026-09-09 03:11:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國國家空管公司（NATS）：系統故障現已解決，目前執行正常，正全力疏導積壓航班。"
+    },
+    {
+      "id": "5083631",
+      "time": "2026-09-09 03:07:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "eBay 股價走高，在高盛會議上 eBay 執行長發表講話後，午後交易時段最新上漲 1.5%。"
+    },
+    {
+      "id": "mkt:01a0826a-1e69-7118-84f3-d858cda9d509",
+      "time": "2026-09-09 03:06:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury said investment funds bought $49.59 billion of 2-year Treasuries maturing Aug. 31, 2028, in the latest two-week reporting period, versus $54.11 billion in the prior period."
+    },
+    {
+      "id": "mkt:01a0826a-164b-7118-84f3-d0c80fbda021",
+      "time": "2026-09-09 03:06:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Treasury: In the latest two-week reporting period, foreign investors bought $8.749 bln of 5-year Treasuries maturing Aug. 31, 2031, versus $6.623 bln in the prior month."
+    },
+    {
+      "id": "mkt:01a08269-ffc0-7118-84f3-c8006ca63177",
+      "time": "2026-09-09 03:06:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "The U.S. Treasury said foreign investors bought $9.838 billion of 2-year U.S. Treasury notes maturing Aug. 31, 2028, in the latest two-week reporting period, versus $6.51 billion in the prior period."
+    },
+    {
+      "id": "5083630",
+      "time": "2026-09-09 03:06:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車股價跌4.5%，至盤中低點。"
+    },
+    {
+      "id": "mkt:01a08269-ecf8-7118-84f3-c5585516a96f",
+      "time": "2026-09-09 03:06:15",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury said in its latest two‑week report that investment funds bought $52.012 billion of 5‑year U.S. Treasuries due Aug. 31, 2031, versus $52.774 billion in the prior month."
+    },
+    {
+      "id": "mkt:01a08269-d1f0-7118-84f3-b9f4cc9db4d3",
+      "time": "2026-09-09 03:06:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury said investment funds bought $30.569 bln of 7-year Treasuries due Aug. 31, 2033 in the latest biweekly reporting period, versus $31.104 bln a month earlier."
+    },
+    {
+      "id": "mkt:01a08269-c952-7118-84f3-b60c22880dee",
+      "time": "2026-09-09 03:06:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Department: In the latest biweekly reporting period, foreign investors bought $6.786bn of seven-year Treasuries maturing Aug. 31, 2033, up from $5.242bn in the prior reporting period."
+    },
+    {
+      "id": "5083629",
+      "time": "2026-09-09 03:05:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7103元，較週一夜盤收盤漲7點。成交量330.48億美元。"
+    },
+    {
+      "id": "5083628",
+      "time": "2026-09-09 03:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：推出Muse AI智慧體。Muse將在美國透過iOS、Android以及Muse.ai平臺推出，並將很快登陸AI智慧眼鏡。今年晚些時候，Meta將推出Muse Confidential VM（機密虛擬機器）。"
+    },
+    {
+      "id": "mkt:01a08268-9d55-7118-84f3-ad51fdf8c6f1",
+      "time": "2026-09-09 03:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's national statistics agency INDEC said industrial production fell 4.9% year-on-year in July."
+    },
+    {
+      "id": "5083627",
+      "time": "2026-09-09 03:04:43",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：境外投資者在最新雙週報告期買入 98.38 億美元 2 年期國債（2028 年 8 月 31 日到期），上月買入規模為 65.10 億美元。"
+    },
+    {
+      "id": "5083626",
+      "time": "2026-09-09 03:04:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：投資基金在最新雙週報告期買入 520.12 億美元 5 年期國債（2031 年 8 月 31 日到期），上月買入規模為 527.74 億美元。"
+    },
+    {
+      "id": "5083625",
+      "time": "2026-09-09 03:04:18",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：境外投資者在最新雙週報告期買入 87.49 億美元 5 年期國債（2031 年 8 月 31 日到期），上月買入規模為 66.23 億美元。"
+    },
+    {
+      "id": "5083624",
+      "time": "2026-09-09 03:04:13",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：投資基金在最新雙週報告期買入 305.69 億美元 7 年期國債（2033 年 8 月 31 日到期），上月買入規模為 311.04 億美元。"
+    },
+    {
+      "id": "5083623",
+      "time": "2026-09-09 03:04:01",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：境外投資者在最新雙週報告期買入 67.86 億美元 7 年期國債（2033 年 8 月 31 日到期），上月買入規模為 52.42 億美元。"
+    },
+    {
+      "id": "mkt:01a08267-de48-7118-84f3-a636af075e18",
+      "time": "2026-09-09 03:04:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) shares rose intraday, now up more than 1%."
+    },
+    {
+      "id": "5083622",
+      "time": "2026-09-09 03:03:57",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：投資基金在最新雙週報告期買入 495.9 億美元 2 年期國債（2028 年 8 月 31 日到期），上月買入規模為 541.07 億美元。"
+    },
+    {
+      "id": "mkt:01a08267-414f-7118-84f3-9eb44de4ee23",
+      "time": "2026-09-09 03:03:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O): Muse will launch in the US on iOS, Android and the Muse.ai platform, and will soon be available on AI smart glasses."
+    },
+    {
+      "id": "mkt:01a08267-3ad9-7118-84f3-93bf9fea4ec1",
+      "time": "2026-09-09 03:03:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) will launch Muse Confidential VM, a confidential virtual machine, later this year."
+    },
+    {
+      "id": "mkt:01a08266-a959-7118-84f3-8f272ae5b4e9",
+      "time": "2026-09-09 03:02:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) launched Muse, an AI agent."
+    },
+    {
+      "id": "5083621",
+      "time": "2026-09-09 03:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "eBay 執行長表示，人工智慧是業務實實在在的利好，“ Magical Listings ” 功能取得良好成效。"
+    },
+    {
+      "id": "mkt:01a08265-ccaf-7118-84f3-8077057aac64",
+      "time": "2026-09-09 03:01:44",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.22% in the night session to 25,281, trading 36 points below the cash index."
+    },
+    {
+      "id": "5083620",
+      "time": "2026-09-09 03:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計局：7 月工業產值同比下降 4.9%。"
+    },
+    {
+      "id": "5083619",
+      "time": "2026-09-09 03:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月消費信貸 180.6億美元，預期116.5億美元，前值由141.73億美元修正為145.6億美元。"
+    },
     {
       "id": "mkt:01a08264-6e48-7118-84f3-787b03df7757",
       "time": "2026-09-09 03:00:14",

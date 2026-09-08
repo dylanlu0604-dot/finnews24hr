@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 03:01:11",
+  "updated": "2026-09-09 04:26:30",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -4978,9 +4978,9 @@
               "title": "美國7月消費信貸(億美元)",
               "importance": 1,
               "previous": "141.73",
-              "forecast": "130",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "116.5",
+              "actual": "180.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184445",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -31994,9 +31994,9 @@
       "title": "美國7月消費信貸(億美元)",
       "importance": 1,
       "previous": "141.73",
-      "forecast": "130",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "116.5",
+      "actual": "180.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184445",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
