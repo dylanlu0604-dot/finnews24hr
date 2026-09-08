@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-08 09:24:34",
-  "count": 14105,
+  "updated": "2026-09-08 09:28:27",
+  "count": 14103,
   "items": [
+    {
+      "id": "mkt:01a07ea0-8503-7118-84d6-9276c963a7ee",
+      "time": "2026-09-08 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on Tuesday Sep 8, China's Shanghai Composite rose 0.07% to 3,935.55; Shenzhen Composite rose 0.06% to 13,782.86; CSI 300 index rose 0.02% to 4,575.99; ChiNext fell 0.13% to 3,394.35; STAR 50 fell 0.08% to 1,614.19."
+    },
+    {
+      "id": "5081755",
+      "time": "2026-09-08 09:27:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊高開，亞盛集團4連板】種植業與林業板塊高開，亞盛集團4連板，敦煌種業、海南橡膠、萬向德農、平潭發展、新賽股份跟漲。"
+    },
+    {
+      "id": "mkt:01a07ea0-22a1-7118-84d6-8cc68693ddbb",
+      "time": "2026-09-08 09:26:58",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Liquidity gauge: market rates ease】Sept. 8 morning DR007 fell to 1.3719%. The PBOC conducted a 1 bln yuan 7‑day reverse repo, fully meeting primary dealers' demand. DR007 is a short-term money-market rate and is treated as China’s short‑end rate anchor; the spread between DR007 and the PBOC 7‑day reverse‑repo (policy) rate signals funding tightness—DR007 materially above the policy rate implies money‑market stress and may prompt PBOC liquidity injection, while DR007 at or below the policy rate indicates ample funding."
+    },
+    {
+      "id": "5081754",
+      "time": "2026-09-08 09:26:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月FF EAI機器人本體銷售及出貨量達158臺】據Faraday Future訊息，8月FF EAI機器人本體銷售及出貨量再創單月新高，達到158臺。自2月啟動交付以來，截至8月底，機器人累計銷售及出貨量已達到552臺。"
+    },
+    {
+      "id": "mkt:01a07e9e-f2ed-7118-84d6-80895c4a915c",
+      "time": "2026-09-08 09:25:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact mixed"
+      ],
+      "text": "China A-shares opened: Shanghai Composite up 0.07%, Shenzhen Composite Index up 0.06%, ChiNext Index down 0.13%."
+    },
+    {
+      "id": "5081753",
+      "time": "2026-09-08 09:25:30",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指漲0.07％，深成指漲0.06％，創業板跌0.13％。"
+    },
+    {
+      "id": "5081752",
+      "time": "2026-09-08 09:25:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic據悉將放棄對DeCart價值60億美元的收購。"
+    },
+    {
+      "id": "5081751",
+      "time": "2026-09-08 09:25:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌5個基點至3.970%。"
+    },
+    {
+      "id": "mkt:01a07e9d-b8c6-7118-84d6-7988ebc858ad",
+      "time": "2026-09-08 09:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver climbed above $67/oz, gaining 1.29% on the day."
+    },
     {
       "id": "5081750",
       "time": "2026-09-08 09:23:37",
@@ -128919,120 +129012,6 @@
         "市場"
       ],
       "text": "【AI影片板塊持續活躍 競業達3連板】AI影片板塊持續活躍，歡瑞世紀、中廣天擇2連板，競業達3連板，掌閱科技、龍版傳媒等個股大幅高開。"
-    },
-    {
-      "id": "mkt:01a05a94-b151-7118-8424-756b1dbb70c5",
-      "time": "2026-09-01 09:28:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "300251.SZ",
-        "Impact bullish"
-      ],
-      "text": "A-share AI corpus concept stocks extended gains. Mango Excellent Media and Zhongguang Tianze hit the daily limit; iReader Technology rose over 9% and Shanghai Film climbed more than 5%. Other names including Zhongwen Online, TRS Information Technology and Tianyu Digital Technology also advanced."
-    },
-    {
-      "id": "5069705",
-      "time": "2026-09-01 09:27:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通下調李寧評級至中性，目標價12港元。"
-    },
-    {
-      "id": "mkt:01a05a93-e7c5-7118-8424-6fac4c68a7a7",
-      "time": "2026-09-01 09:27:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite opened down 6.42 points (-0.16%) at 3,979.88 on Sept. 1; Shenzhen Composite opened up 2.42 points (+0.02%) at 14,017.42; CSI 300 opened down 6.35 points (-0.14%) at 4,618.73; ChiNext opened down 3.36 points (-0.10%) at 3,435.32; China STAR 50 opened down 4.50 points (-0.27%) at 1,679.89."
-    },
-    {
-      "id": "mkt:01a05a93-6170-7118-8424-65ce06e59489",
-      "time": "2026-09-01 09:26:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "New listings: N Beiteli rose over 218%; N Ma Kuang rose over 245%."
-    },
-    {
-      "id": "5069704",
-      "time": "2026-09-01 09:26:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選在天津成立機器人公司 含多項AI業務】企查查APP顯示，近日，天津優必選機器人有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由優必選全資持股。"
-    },
-    {
-      "id": "5069703",
-      "time": "2026-09-01 09:26:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【短劇概念大幅高開 芒果超媒等多股競價漲停】早盤短劇概念繼續大幅高開，芒果超媒、歡瑞世紀、中廣天擇、大晟文化競價漲停，掌閱科技、德才股份、中文線上漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a05a92-c759-7118-8424-59a0e12828b3",
-      "time": "2026-09-01 09:26:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "At the open A-shares: Shanghai Composite -0.16%, Shenzhen Composite Index +0.02%, ChiNext -0.10%. Leading gainers: AI training data, cinema chains, oilfield services & engineering, glass and fiberglass."
-    },
-    {
-      "id": "5069702",
-      "time": "2026-09-01 09:25:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貝特利上市首日開盤大漲超218%】貝特利上市首日開盤漲218.18%，現報38.5元，該股發行價為12.1元。按開盤價計算，投資者中一簽（500股）浮盈約1.32萬元。"
-    },
-    {
-      "id": "5069701",
-      "time": "2026-09-01 09:25:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【馬礦股份上市首日開盤大漲超245％ 貝特利上市首日大漲超218％】馬礦股份上市首日開盤漲245.86％，現報23元，該股發行價為6.65元。按開盤價計算，投資者中一簽（500股）浮盈約8175元。貝特利上市首日開盤漲218.18％，現報38.5元，該股發行價為12.1元。按開盤價計算，投資者中一簽（500股）浮盈約1.32萬元。"
-    },
-    {
-      "id": "5069700",
-      "time": "2026-09-01 09:25:27",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.16％，深成指漲0.02％，創業板跌0.1％。"
-    },
-    {
-      "id": "mkt:01a05a91-6f75-7118-8424-52af390f9d5e",
-      "time": "2026-09-01 09:24:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong shares opened lower on Tuesday: Hang Seng Index (HSI) down 151.27 points (-0.59%) at 25,415.72; Hang Seng Tech Index down 28.75 points (-0.62%) at 4,591.12; Hang Seng China Enterprises Index (HSCEI) down 53.86 points (-0.63%) at 8,459.32; Hang Seng China Red-chip Index down 1.33 points (-0.03%) at 4,169.03."
     }
   ]
 }
