@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-09 07:22:17",
-  "count": 13830,
+  "updated": "2026-09-09 07:26:08",
+  "count": 13834,
   "items": [
+    {
+      "id": "5083794",
+      "time": "2026-09-09 07:24:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI程式設計創企Cognition AI融資20億美元，估值達480億美元】AI程式設計初創公司Cognition AI當地時間9月8日宣佈，已在E輪融資中籌集20億美元，估值達到480億美元。本輪融資由新投資者a16z和Accel領投，現有投資者 Founders Fund、General Catalyst和 Avenir參投。Cognition AI表示，自5月上一輪融資以來，其年化收入已從4.92億美元增至近9億美元。"
+    },
+    {
+      "id": "5083793",
+      "time": "2026-09-09 07:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Meta推出其首款個人智慧體Muse】當地時間9月8日，Meta推出其首款個人智慧體Muse，能主動幫助使用者實現目標並提出建議。Muse正在美國面向iOS、Android和muse.ai使用者推出，並將很快登陸AI眼鏡。今年晚些時候，Meta還將推出Muse Confidential VM，屆時整個虛擬機器（包括使用者的個人資料以及與Muse的對話）都將使用僅由使用者持有的金鑰進行加密。"
+    },
+    {
+      "id": "5083792",
+      "time": "2026-09-09 07:24:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【港交所集團行政總裁陳翊庭：國際長線基金正加速配置中國資產】9月8日，港交所集團行政總裁陳翊庭在“HKEX中國機遇論壇”開幕致辭時表示：“我們看到越來越多的國際投資者開始分散投資，將目光投向增長潛力更為確定的中國，中國資產迎來了歷史性重估。”陳翊庭稱，香港資本市場的國際吸引力也在不斷增強。今年來自東南亞、中東地區的發行人，陸續選擇香港作為上市地點。同時，今年全球前五大IPO當中，有3家選擇來香港上市，透過香港融資平臺對接國際資本，進一步支援其在全球的業務發展。隨著人民幣國際化持續推進，國際投資者對於人民幣資產配置和風險管理的需求也在不斷增長。港交所不斷豐富離岸人民幣產品的生態，為全球投資者提供更多元化的人民幣投資和風險管理選擇。"
+    },
+    {
+      "id": "te:markets:582168",
+      "time": "2026-09-09 07:24:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Hits 3-Month High as US Strikes Iranian Tankers — Crude oil rose above $94 a barrel on Wednesday, scaling three-month highs after the US struck several Iranian tankers near Kharg Island, a major crude export hub. The attacks heightened geopolitical tensions and raised concerns about further disruptions to global oil supplies. A US official said the strikes came in response to an attempted missile attack on a US warship. Tehran retaliated by launching ballistic missiles toward Jordan and warning vessels in the Persian Gulf, urging tanker crews near Kuwaiti and Bahraini ports to “immediately abandon their vessels.” Iran-backed Houthi militants also attacked energy infrastructure in southern Saudi Arabia, including the 400,000-barrel-a-day Jazan refinery. Meanwhile, stronger Chinese oil demand is pushing up prices for African, Canadian and Latin American crude as disruptions in the Strait of Hormuz force refiners to look farther afield for alternative supplies."
+    },
+    {
+      "id": "5083791",
+      "time": "2026-09-09 07:23:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：尚未聽說加拿大可能採取報復措施。"
+    },
+    {
+      "id": "te:economy:582167",
+      "time": "2026-09-09 07:23:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "South Korea Jobless Rate Falls to 2.7% in August — South Korea’s seasonally adjusted unemployment rate fell to 2.7% in August 2026 from 2.8% in the previous month. The economy added 184,000 jobs during the month, marking the highest growth in five months, bringing total employment to 29.15 million 28.96 million a year earlier."
+    },
+    {
+      "id": "5083790",
+      "time": "2026-09-09 07:22:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國官員：特朗普正在考慮針對龐巴迪的選項方案】一名美國官員表示，在美國宣佈對加拿大采取額外貿易舉措後，特朗普總統正在研究針對龐巴迪飛機的選項方案。該官員稱，龐巴迪並未被列入任何專項公告。"
+    },
+    {
+      "id": "te:markets:582165",
+      "time": "2026-09-09 07:22:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Nears $100 as US Strikes Iranian Tankers — Brent crude rose above $99 a barrel on Wednesday, reaching a near seven-week high and edging closer to the key $100 mark after the US struck several Iranian tankers near Kharg Island, a major crude export hub. The attacks heightened geopolitical tensions and raised concerns about further disruptions to global oil supplies. A US official said the strikes came in response to an attempted missile attack on a US warship. Tehran retaliated by launching ballistic missiles toward Jordan and warning vessels in the Persian Gulf, urging tanker crews near Kuwaiti and Bahraini ports to “immediately abandon their vessels.” Iran-backed Houthi militants also attacked energy infrastructure in southern Saudi Arabia, including the 400,000-barrel-a-day Jazan refinery. Meanwhile, stronger Chinese oil demand is pushing up prices for African, Canadian and Latin American crude as disruptions in the Strait of Hormuz force refiners to look farther afield for alternative supplies."
+    },
+    {
+      "id": "5083789",
+      "time": "2026-09-09 07:22:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6G商用將啟動 高成長6G概念股梳理】工業和資訊化部9月7日印發《資訊通訊行業發展“十五五”規劃》，首次明確“適時啟動6G商用”。9月8日6G概念逆市走強，多隻個股漲停。資料寶統計，A股市場有36只6G概念股。從機構關注度來看，天孚通訊有24家機構評級，數量居首。亨通光電、中興通訊、太辰光等個股有10多家機構評級，華工科技、華測導航、海格通訊等個股有5家以上機構評級。未來增長潛力方面，根據機構一致預測，共15只6G概念股今明兩年淨利增速均超30%。其中，天孚通訊、太辰光、海格通訊、劍橋科技等個股今明兩年淨利增速有望超過50%。股價表現方面，9月初至今，15只高成長6G概念股平均上漲0.65%，強於主要指數同期表現。其中，劍橋科技大漲近19%居首，天通股份、長江通訊、通宇通訊等個股也小幅上漲。"
+    },
+    {
+      "id": "5083788",
+      "time": "2026-09-09 07:21:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中老“和平列車-2026”聯合演習進入混編聯合訓練階段】昨天，中老“和平列車-2026”人道主義醫學救援聯合演習進入混編聯合訓練階段。雙方在寮國永珍南站冒酷暑、搶時效，僅用半天時間完成二級救治機構醫療帳篷及衛生列車功能車廂展開，為後續全流程合練打牢基礎。（央視）"
+    },
     {
       "id": "5083787",
       "time": "2026-09-09 07:20:25",
@@ -126192,59 +126285,6 @@
         "國際"
       ],
       "text": "【特朗普提名高雄出任下一任美國海軍部長】當地時間9月1日，美國總統特朗普宣佈，提名高雄（越南裔）出任下一任美國海軍部長。特朗普敦促參議院儘快確認提名。（央視）"
-    },
-    {
-      "id": "5071828",
-      "time": "2026-09-02 07:24:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK集團董事長：與鎧俠開展合作是可選方向】據日本《朝日新聞》援引週二的採訪報道，SK集團會長崔泰源表示，與鎧俠控股開展聯合生產，是兩家晶片企業可以考慮的合作選項之一。崔泰源稱，SK海力士正考慮在日本建設工廠。他表示鎧俠具備諸多優勢，兩家企業可在聯合生產、研發以及供應鏈等領域展開合作。他同時提到，如果雙方無法找到可行的合作模式，SK海力士或將減持其持有的鎧俠間接股份。"
-    },
-    {
-      "id": "mkt:01a05f49-9215-7118-8448-93ebfefe327e",
-      "time": "2026-09-02 07:24:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Korea core inflation at 3+ year high, increases pressure on Bank of Korea to tighten】Statistics Korea on Wednesday showed August CPI YoY +3.1% (July +2.8%), below economists' median +3.2%. Core inflation excluding food and energy accelerated to 3.4% from 2.6%, the highest since May 2023, signaling persistent underlying price pressure beyond energy and reinforcing the Bank of Korea's case for further tightening."
-    },
-    {
-      "id": "mkt:01a05f49-744f-7118-8448-8d931e51e00e",
-      "time": "2026-09-02 07:24:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IRGC says it struck Jordan's Prince Hassan air base, destroyed RQ-4 and MQ-9 drones】In the early hours of the 2nd (local time), the IRGC Aerospace Force said it attacked Jordan's Prince Hassan Air Base in retaliation for US actions, destroying multiple RQ-4 and MQ-9 drones, killing several pilots and crew members and damaging multiple US technical facilities."
-    },
-    {
-      "id": "5071827",
-      "time": "2026-09-02 07:23:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長表示，與鎧俠合作是可行的方案之一。"
-    },
-    {
-      "id": "5071826",
-      "time": "2026-09-02 07:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱襲擊約旦哈桑王子空軍基地 摧毀多架無人機】當地時間2日凌晨，伊朗伊斯蘭革命衛隊發表宣告稱，為報復美軍行為，伊朗伊斯蘭革命衛隊航空航天部隊對位於約旦的哈桑王子空軍基地發動攻擊，摧毀了多架RQ-4和MQ-9無人機，並打死了多名飛行員和機組人員，美軍的多個技術設施也遭到破壞。"
-    },
-    {
-      "id": "5071825",
-      "time": "2026-09-02 07:22:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【併購重組市場活躍度穩步提升 交易邏輯轉向產業價值整合】A股併購重組市場活躍度穩步提升。權威資料顯示，今年前7個月，A股市場披露資產重組方案1425單，其中重大資產重組78單。在業內人士看來，此輪併購重組市場回暖，在交易數量提升的同時，交易邏輯逐步轉向產業價值整合，交易質量導向顯著增強，推動資本市場與產業升級形成正向迴圈。從併購交易目的看，今年以來超過六成交易圍繞主業橫向整合、產業鏈縱向補鏈展開。以高階裝備、生物醫藥、新能源等為代表的先進製造產業併購保持活躍，企業透過併購重組實現產業鏈上下游整合，完善產業矩陣，打造新的業績增長曲線。（上證報）"
     }
   ]
 }
