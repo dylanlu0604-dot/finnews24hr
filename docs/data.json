@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-08 08:52:23",
-  "count": 14117,
+  "updated": "2026-09-08 08:56:22",
+  "count": 14121,
   "items": [
+    {
+      "id": "te:markets:581771",
+      "time": "2026-09-08 08:54:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index gained 0.4% to trade above 66,700, while the broader Topix Index fell 0.6% to around 4,100 on Tuesday, with Japanese shares lacking clear direction as the yen extended gains to reach its strongest level since February. A stronger yen weighs on earnings prospects for Japan’s export-oriented industries while making Japanese assets more expensive for overseas investors. Markets were also preparing for an expected Bank of Japan rate hike, supported by strong economic data showing July wages rose at their fastest pace since 1997 and second-quarter GDP growth was revised higher. Meanwhile, elevated oil prices following renewed US-Iran fighting kept inflation risks and interest rate concerns firmly in focus. Among individual stocks, SoftBank Group (4.1%), Advantest (1.4%) and Fujikura (91.1%) posted notable gains, while Taiyo Yuden (-5.4%), Ibiden Co (-2.4%) and Murata Manufacturing (-4.8%) recorded sharp declines."
+    },
+    {
+      "id": "5081710",
+      "time": "2026-09-08 08:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "景旺電子開始評估投資者對其香港上市的需求。"
+    },
+    {
+      "id": "5081709",
+      "time": "2026-09-08 08:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：GPT-6驗證算力軍備競賽升溫 高速光互聯持續受益】中國銀河證券釋出研究報告稱，近日，OpenAI正式釋出GPT-6 Astra，並稱其為目前全球最智慧、且對齊程度最高的模型。GPT-6 Astra在數學能力、網路安全與計算機操作表現上有顯著提升。OpenAI表示，雖然Astra的單Token價格更高，但由於其能夠以更少的輸出Token完成複雜任務，在一些場景下，實際完成一個任務的成本反而低於此前模型。未來企業不會只關注token單價，而會關注完成一次任務需要付出的總成本，AI行業最終會從token定價轉向任務成本衡量。"
+    },
+    {
+      "id": "mkt:01a07e80-639b-7118-84d5-d80ec439af89",
+      "time": "2026-09-08 08:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv city officials said Russian air strikes damaged two residential buildings."
+    },
+    {
+      "id": "mkt:01a07e80-17de-7118-84d5-d274d51ad258",
+      "time": "2026-09-08 08:51:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares rose a further 5.7%."
+    },
+    {
+      "id": "5081708",
+      "time": "2026-09-08 08:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市官員稱，兩棟居民樓在俄羅斯空襲中受損。"
+    },
     {
       "id": "mkt:01a07e7f-6d13-7118-84d5-cc0200fb4e67",
       "time": "2026-09-08 08:51:15",
@@ -129115,22 +129171,6 @@
         "其他"
       ],
       "text": "【 自然資源部工作組在吉隆災區持續開展遙感影像解譯工作 】 8月28日夜間，自然資源部發布西藏吉隆冰崩泥石流災害災前、災後衛星對比影像，為災區災情研判、風險防控、科學救援提供了權威空天資料支撐。8月29日，自然資源部工作組持續在吉隆災區開展高精度遙感影像解譯與隱患複核工作，以科技手段精準排查次生地質災害風險，全力保障搶險救援安全推進。（中國礦業報社 ）"
-    },
-    {
-      "id": "5069641",
-      "time": "2026-09-01 08:55:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飛天茅臺、青花郎大漲 精品茅臺、五糧液普五八代回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月1日中國白酒業11大單品五漲四跌兩平，上漲品種略佔上風。上漲方面，飛天茅臺大幅上漲7元，終端零售均價來到1789元，平近一個月最高位；國窖1573上漲2元至887元，錄得三連陽，價格中樞明顯上移；古井貢古20上漲1元至536元，連續兩日回升，前期六連跌的壓力基本緩解；習酒君品上漲4元至639元，二連陽價格重新靠近640元關口；青花郎上漲6元至696元，連續三天大幅走強，進一步逼近700元大關。下跌方面，精品茅臺下跌3元至2455元，前一日強勢反彈後技術性回落；五糧液普五八代大跌7元至809元，震盪幅度擴大；五糧液1618下跌1元至829元，高位橫盤後小幅回落，暫時跌破830元價位；水晶劍南春下跌2元至406元，前期高位執行後回探至區間下沿。持平方面，青花汾20終端零售均價為390元，前一日上漲後價盤鞏固；洋河夢之藍M6+保持605元不變，連續兩日平盤。\n\n今日11大單品的終端零售總價繼續小幅抬升，頂端酒內部漲跌互現，次高階部分品種延續反彈。如果11大單品各取一瓶整體打包售賣，今日總售價為10041元，較昨日上漲7元，創8天以來新高，萬元關口得到進一步鞏固。"
-    },
-    {
-      "id": "5069640",
-      "time": "2026-09-01 08:54:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國新辦介紹中國—東盟經貿合作情況】國務院新聞辦公室將於2026年9月1日（星期二）上午9時舉行新聞釋出會，請商務部副部長鄢東，廣西壯族自治區黨委常委、副主席盧新寧，中國貿促會副會長林紅紅介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況，並答記者問。"
     }
   ]
 }

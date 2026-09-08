@@ -1,7 +1,63 @@
 {
   "date": "2026-09-08",
-  "count": 433,
+  "count": 439,
   "items": [
+    {
+      "id": "te:markets:581771",
+      "time": "2026-09-08 08:54:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Struggle as Yen Strengthens — The Nikkei 225 Index gained 0.4% to trade above 66,700, while the broader Topix Index fell 0.6% to around 4,100 on Tuesday, with Japanese shares lacking clear direction as the yen extended gains to reach its strongest level since February. A stronger yen weighs on earnings prospects for Japan’s export-oriented industries while making Japanese assets more expensive for overseas investors. Markets were also preparing for an expected Bank of Japan rate hike, supported by strong economic data showing July wages rose at their fastest pace since 1997 and second-quarter GDP growth was revised higher. Meanwhile, elevated oil prices following renewed US-Iran fighting kept inflation risks and interest rate concerns firmly in focus. Among individual stocks, SoftBank Group (4.1%), Advantest (1.4%) and Fujikura (91.1%) posted notable gains, while Taiyo Yuden (-5.4%), Ibiden Co (-2.4%) and Murata Manufacturing (-4.8%) recorded sharp declines."
+    },
+    {
+      "id": "5081710",
+      "time": "2026-09-08 08:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "景旺電子開始評估投資者對其香港上市的需求。"
+    },
+    {
+      "id": "5081709",
+      "time": "2026-09-08 08:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：GPT-6驗證算力軍備競賽升溫 高速光互聯持續受益】中國銀河證券釋出研究報告稱，近日，OpenAI正式釋出GPT-6 Astra，並稱其為目前全球最智慧、且對齊程度最高的模型。GPT-6 Astra在數學能力、網路安全與計算機操作表現上有顯著提升。OpenAI表示，雖然Astra的單Token價格更高，但由於其能夠以更少的輸出Token完成複雜任務，在一些場景下，實際完成一個任務的成本反而低於此前模型。未來企業不會只關注token單價，而會關注完成一次任務需要付出的總成本，AI行業最終會從token定價轉向任務成本衡量。"
+    },
+    {
+      "id": "mkt:01a07e80-639b-7118-84d5-d80ec439af89",
+      "time": "2026-09-08 08:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv city officials said Russian air strikes damaged two residential buildings."
+    },
+    {
+      "id": "mkt:01a07e80-17de-7118-84d5-d274d51ad258",
+      "time": "2026-09-08 08:51:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares rose a further 5.7%."
+    },
+    {
+      "id": "5081708",
+      "time": "2026-09-08 08:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市官員稱，兩棟居民樓在俄羅斯空襲中受損。"
+    },
     {
       "id": "mkt:01a07e7f-6d13-7118-84d5-cc0200fb4e67",
       "time": "2026-09-08 08:51:15",
