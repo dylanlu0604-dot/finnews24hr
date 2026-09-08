@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-09 02:14:30",
-  "count": 13990,
+  "updated": "2026-09-09 02:18:19",
+  "count": 13983,
   "items": [
+    {
+      "id": "5083578",
+      "time": "2026-09-09 02:17:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "布倫特原油今日觸及每桶99美元，創六週新高。美國汽油價格在勞工節創下4.15美元每加侖的紀錄。美國多家銀行警告，若衝突升級，油價可能漲至120至150美元區間。"
+    },
+    {
+      "id": "te:markets:582128",
+      "time": "2026-09-09 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Spikes by 5.00% — Top commodity gainers are Methanol (5%), Natural Gas UK (5%), Natural Gas EU (4.30%), Crude Oil (0.95%) and Brent Oil (0.09%). Biggest loser is Natural gas (-2.36%)."
+    },
     {
       "id": "5083577",
       "time": "2026-09-09 02:13:47",
@@ -127636,98 +127655,6 @@
         "國際"
       ],
       "text": "據美國紐約聯儲資料，上個交易日（8月31日）擔保隔夜融資利率（SOFR）報3.68%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
-    },
-    {
-      "id": "mkt:01a05e31-5a7c-7118-8442-2965442c7d0f",
-      "time": "2026-09-02 02:18:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Semafor reported Meta Platforms (META.O) disabled camera functions on some smart glasses that had been tampered with."
-    },
-    {
-      "id": "5071542",
-      "time": "2026-09-02 02:17:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗多地再次傳出爆炸聲】當地時間1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a05e30-8c0e-7118-8442-274e0cc9cc67",
-      "time": "2026-09-02 02:17:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Trump: Iran 'crazy and stupid'; will be wiped out if it strikes again】President Trump told Fox News the Iran deal was worthless and he had given Iran many chances. He called Iran \"crazy and stupid,\" said the US carried out a \"very large\" strike today, and warned that if Iran attacks again the country \"will be wiped out,\" adding the US would hit back harder if Iran retaliates. Trump said Iran was trying to rebuild radar because \"they can't see anything,\" and that US forces waited until the systems were nearly rebuilt before striking."
-    },
-    {
-      "id": "5071541",
-      "time": "2026-09-02 02:16:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：如果盟友提出要求，烏克蘭準備暫停對俄羅斯的無人機襲擊。烏克蘭將考慮在莫斯科舉行的未來會談。"
-    },
-    {
-      "id": "mkt:01a05e2f-b991-7118-8442-1d460742541b",
-      "time": "2026-09-02 02:16:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Macron said France must stand united in supporting Ukraine and will continue to play its role."
-    },
-    {
-      "id": "mkt:01a05e2f-6b85-7118-8442-1228f5b84182",
-      "time": "2026-09-02 02:16:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine would consider holding future talks in Moscow."
-    },
-    {
-      "id": "mkt:01a05e2f-4e19-7118-8442-0e151e6c5794",
-      "time": "2026-09-02 02:15:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine is prepared to pause drone strikes on Russia if requested by allies."
-    },
-    {
-      "id": "te:markets:580160",
-      "time": "2026-09-02 02:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Spikes by 8.67% — Top commodity gainers are Natural Gas UK (8.67%), Heating Oil (5.68%), Natural Gas EU (5.50%), Crude Oil WTI (4.89%) and Brent Crude Oil (4.29%). Biggest loser is Natural gas (-0.51%)."
-    },
-    {
-      "id": "mkt:01a05e2e-719d-7118-8442-02a364050a28",
-      "time": "2026-09-02 02:14:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "French President Macron said France fully supports Germany and backs new European sanctions measures."
     }
   ]
 }

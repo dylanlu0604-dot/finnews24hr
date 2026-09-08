@@ -1,7 +1,26 @@
 {
   "date": "2026-09-09",
-  "count": 136,
+  "count": 138,
   "items": [
+    {
+      "id": "5083578",
+      "time": "2026-09-09 02:17:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "布倫特原油今日觸及每桶99美元，創六週新高。美國汽油價格在勞工節創下4.15美元每加侖的紀錄。美國多家銀行警告，若衝突升級，油價可能漲至120至150美元區間。"
+    },
+    {
+      "id": "te:markets:582128",
+      "time": "2026-09-09 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Spikes by 5.00% — Top commodity gainers are Methanol (5%), Natural Gas UK (5%), Natural Gas EU (4.30%), Crude Oil (0.95%) and Brent Oil (0.09%). Biggest loser is Natural gas (-2.36%)."
+    },
     {
       "id": "5083577",
       "time": "2026-09-09 02:13:47",
