@@ -1,7 +1,82 @@
 {
   "date": "2026-09-08",
-  "count": 995,
+  "count": 1002,
   "items": [
+    {
+      "id": "te:economy:581862",
+      "time": "2026-09-08 13:43:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Ireland 10Y Bond Yield Hits 12-year High — Ireland 10 Year Government Bond Yield increased to 3.56%, the highest since December 2013. Over the past 4 weeks, Ireland 10Y Bond Yield gained 18.49 basis points, and in the last 12 months, it increased 63.91 basis points."
+    },
+    {
+      "id": "mkt:01a07f8a-6f6d-7118-84dd-aea7496e12b2",
+      "time": "2026-09-08 13:42:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News Agency reports Yemen Armed Forces spokesman Brig. Gen. Yahya Saree said the forces will at 09:30 Sana'a time Tuesday (14:30 Beijing) issue a statement on large-scale military operations inside Saudi Arabia."
+    },
+    {
+      "id": "5082111",
+      "time": "2026-09-08 13:42:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾華股價在TRADEGATE平臺上較昨日蘇黎世收盤價下跌5.1%。"
+    },
+    {
+      "id": "te:markets:581861",
+      "time": "2026-09-08 13:42:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1.1% Lower, Falls for 2nd Session — New Zealand stocks dropped 150 points, or 1.1%, to close at 13,793 on Tuesday, down for the second straight session, mainly weighed down by materials, technology, energy, and utilities. Rising oil prices also pressured sentiment amid the escalating conflict in the Middle East, raising concerns over inflation and boosting bets that central banks would raise interest rates. Caution also prevailed ahead of China’s consumer and producer price data due on Wednesday, amid persistently weak domestic demand. However, a report from Moody’s ratings agency capped the fall, saying New Zealand’s economic recovery is underway but warning that several issues remain unresolved. Fresh data from China, New Zealand’s top trading partner, showed that China’s export growth remained robust in August. Among the biggest laggards were Gentrack Group (-5.1%), Mercury NZ (-2.5%), ANZ Group (-2.4%), Mainfreight (-2.3%), Fletcher Building (-2.3%), Channel Infrastructure (-1.4%), and Infratil (-1.1%)."
+    },
+    {
+      "id": "mkt:01a07f89-d64f-7118-84dd-a1df728e147f",
+      "time": "2026-09-08 13:42:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【State Street Global Advisors: ECB may signal open-ended stance on Thursday】Konrad Kleinfeld at State Street Global Advisors said the ECB could pair a widely expected rate rise on Thursday with an intentionally open-ended signal. Markets should focus less on the September decision itself than on whether a 2.50% deposit facility rate will be regarded as sufficiently restrictive or whether the ECB will preserve room for a December move. LSEG money-market data show traders have fully priced in a 25bp hike on Thursday, taking the deposit rate to 2.50%."
+    },
+    {
+      "id": "5082110",
+      "time": "2026-09-08 13:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川泥石流已致5人遇難】記者從江西遂川高坪鎮明坑村泥石流災害救援現場獲悉，截至8日13時，5日凌晨發生的泥石流災害現場已經發現5具遇難者遺體，仍有7人失聯。（新華社）"
+    },
+    {
+      "id": "mkt:01a07f87-e446-7118-84dd-98061925b366",
+      "time": "2026-09-08 13:40:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Multiple Saudi energy facilities attacked, fires reported】Saudi energy ministry said on Sept. 8 that multiple energy and utility sites were attacked by Yemen’s Houthi rebels, triggering fires and temporarily disrupting operations at some facilities. The Saudi-led coalition said earlier the Houthis struck civilian and economic infrastructure in Abha, Khamis Mushait, Najran and Jizan, injuring 73 people, and vowed a firm response."
+    },
     {
       "id": "5082109",
       "time": "2026-09-08 13:39:18",

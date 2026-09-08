@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-08 13:40:19",
-  "count": 14089,
+  "updated": "2026-09-08 13:44:23",
+  "count": 14087,
   "items": [
+    {
+      "id": "te:economy:581862",
+      "time": "2026-09-08 13:43:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Ireland 10Y Bond Yield Hits 12-year High — Ireland 10 Year Government Bond Yield increased to 3.56%, the highest since December 2013. Over the past 4 weeks, Ireland 10Y Bond Yield gained 18.49 basis points, and in the last 12 months, it increased 63.91 basis points."
+    },
+    {
+      "id": "mkt:01a07f8a-6f6d-7118-84dd-aea7496e12b2",
+      "time": "2026-09-08 13:42:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News Agency reports Yemen Armed Forces spokesman Brig. Gen. Yahya Saree said the forces will at 09:30 Sana'a time Tuesday (14:30 Beijing) issue a statement on large-scale military operations inside Saudi Arabia."
+    },
+    {
+      "id": "5082111",
+      "time": "2026-09-08 13:42:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾華股價在TRADEGATE平臺上較昨日蘇黎世收盤價下跌5.1%。"
+    },
+    {
+      "id": "te:markets:581861",
+      "time": "2026-09-08 13:42:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1.1% Lower, Falls for 2nd Session — New Zealand stocks dropped 150 points, or 1.1%, to close at 13,793 on Tuesday, down for the second straight session, mainly weighed down by materials, technology, energy, and utilities. Rising oil prices also pressured sentiment amid the escalating conflict in the Middle East, raising concerns over inflation and boosting bets that central banks would raise interest rates. Caution also prevailed ahead of China’s consumer and producer price data due on Wednesday, amid persistently weak domestic demand. However, a report from Moody’s ratings agency capped the fall, saying New Zealand’s economic recovery is underway but warning that several issues remain unresolved. Fresh data from China, New Zealand’s top trading partner, showed that China’s export growth remained robust in August. Among the biggest laggards were Gentrack Group (-5.1%), Mercury NZ (-2.5%), ANZ Group (-2.4%), Mainfreight (-2.3%), Fletcher Building (-2.3%), Channel Infrastructure (-1.4%), and Infratil (-1.1%)."
+    },
+    {
+      "id": "mkt:01a07f89-d64f-7118-84dd-a1df728e147f",
+      "time": "2026-09-08 13:42:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【State Street Global Advisors: ECB may signal open-ended stance on Thursday】Konrad Kleinfeld at State Street Global Advisors said the ECB could pair a widely expected rate rise on Thursday with an intentionally open-ended signal. Markets should focus less on the September decision itself than on whether a 2.50% deposit facility rate will be regarded as sufficiently restrictive or whether the ECB will preserve room for a December move. LSEG money-market data show traders have fully priced in a 25bp hike on Thursday, taking the deposit rate to 2.50%."
+    },
+    {
+      "id": "5082110",
+      "time": "2026-09-08 13:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川泥石流已致5人遇難】記者從江西遂川高坪鎮明坑村泥石流災害救援現場獲悉，截至8日13時，5日凌晨發生的泥石流災害現場已經發現5具遇難者遺體，仍有7人失聯。（新華社）"
+    },
+    {
+      "id": "mkt:01a07f87-e446-7118-84dd-98061925b366",
+      "time": "2026-09-08 13:40:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Multiple Saudi energy facilities attacked, fires reported】Saudi energy ministry said on Sept. 8 that multiple energy and utility sites were attacked by Yemen’s Houthi rebels, triggering fires and temporarily disrupting operations at some facilities. The Saudi-led coalition said earlier the Houthis struck civilian and economic infrastructure in Abha, Khamis Mushait, Najran and Jizan, injuring 73 people, and vowed a firm response."
+    },
     {
       "id": "5082109",
       "time": "2026-09-08 13:39:18",
@@ -128762,106 +128837,6 @@
         "公司"
       ],
       "text": "蔚來港股跌超10%，公司2026年8月交付35,836輛汽車，同比增長14.5%。"
-    },
-    {
-      "id": "mkt:01a05b7e-eda4-7118-842a-f9eea72c2423",
-      "time": "2026-09-01 13:43:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China's most-active lithium carbonate futures contract plunged 2.00% intraday to 157,280 yuan/ton, after earlier trading more than 1% higher."
-    },
-    {
-      "id": "mkt:01a05b7e-d9a8-7118-842a-f30022a50bcb",
-      "time": "2026-09-01 13:43:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "601398.SS",
-        "Impact bullish"
-      ],
-      "text": "【ICBC hits record high】ICBC shares rose more than 1% to 8.17 yuan per share, marking a record high."
-    },
-    {
-      "id": "mkt:01a05b7e-67b8-7118-842a-eff185da9b53",
-      "time": "2026-09-01 13:43:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "TASNIM NEWS reported Iran's central bank governor said claims that Iran is on the verge of economic collapse are incorrect. He said Tehran is continuing to recover receivables and foreign-exchange sources, has domestic reserves and other resources it cannot disclose for various reasons, and told the US president Iran's foreign-exchange holdings are sufficient."
-    },
-    {
-      "id": "5070076",
-      "time": "2026-09-01 13:43:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲1%，現報950.00元。"
-    },
-    {
-      "id": "mkt:01a05b7d-d362-7118-842a-e705d7cb4b0b",
-      "time": "2026-09-01 13:42:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Manus resumes independent operations】Sept 1 — Manus said it has formally resumed independent operations. The founding team will remain in charge and will continue product innovation and to advance general-purpose AI agents for global users. The company said some users must back up and restore data and may experience temporary access interruptions during the transition."
-    },
-    {
-      "id": "5070075",
-      "time": "2026-09-01 13:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三柏碩成立智遠科技公司 含多項AI相關業務】企查查APP顯示，近日，上海柏碩智遠科技有限公司成立，經營範圍包含人工智慧公共服務平臺技術諮詢服務；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；軟體開發等。企查查股權穿透顯示，該公司由三柏碩全資持股。"
-    },
-    {
-      "id": "mkt:01a05b7c-e0e4-7118-842a-dbc355383d8e",
-      "time": "2026-09-01 13:41:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "09866.HK",
-        "Impact bearish"
-      ],
-      "text": "Nio-SW (09866.HK) shares fell more than 9%, hitting a more-than-one-year low; the company delivered 35,836 vehicles in Aug 2026, up 14.5% YoY."
-    },
-    {
-      "id": "mkt:01a05b7c-419a-7118-842a-d271931270bc",
-      "time": "2026-09-01 13:41:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude briefly slipped about $0.60, trading at $85.48/bbl and $90.42/bbl respectively."
-    },
-    {
-      "id": "mkt:01a05b7c-3212-7118-842a-c9f0bba77b1c",
-      "time": "2026-09-01 13:41:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Vance: U.S. prioritizes keeping commercial shipping through Strait of Hormuz open】U.S. Vice President Vance said Washington’s current priority is ensuring commercial traffic can transit the Strait of Hormuz. In a Fox News interview he said Sunday’s U.S. strike on Larak Island was intended to prevent Iran from laying sea mines in the strait. He accused Iran’s leadership of trying to choke oil and gas exports, called the tactic strategically unwise and “really crazy,” and said Washington had expected Tehran might take such steps."
     }
   ]
 }
