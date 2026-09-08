@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-08 13:48:15",
-  "count": 14086,
+  "updated": "2026-09-08 13:52:07",
+  "count": 14089,
   "items": [
+    {
+      "id": "5082119",
+      "time": "2026-09-08 13:51:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新設新質生產力專區 第二十六屆投洽會今天開幕】今天，第二十六屆中國國際投資貿易洽談會（簡稱“投洽會”）在廈門國際博覽中心正式開幕。本屆大會以“擴大雙向投資 共促全球發展”為永久主題，來自129個國家和地區的客商將在此展開為期四天的投資對接和專案洽談。作為“投資中國”的標誌性平臺，本屆投洽會圍繞“投資中國”“中國投資”“國際投資”三大板塊展開，首次設立芬蘭與沙烏地阿拉伯“雙主賓國”、廣東與青海“雙主賓省”。本屆投洽會金融展區面積與展商數量雙雙翻倍，CIPS（人民幣跨境支付系統）專區首次落地，新設新質生產力專區，聚焦人工智慧、低空經濟等前沿領域。本屆投洽會期間，將舉辦40多項重點投資促進活動，配套開展包括資本對接、專場路演在內的近100場活動。“雲上投洽會”平臺，匯聚招商專案、企業融資、產業資金等資源，透過數智賦能實現找專案更便利、找資本更高效。"
+    },
+    {
+      "id": "mkt:01a07f91-34f2-7118-84dd-d359792c207c",
+      "time": "2026-09-08 13:50:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Ukrainian Air Force said Russia launched dozens of missiles and 166 drones in an overnight attack on Ukraine."
+    },
+    {
+      "id": "mkt:01a07f90-fddb-7118-84dd-cb9811cdf66d",
+      "time": "2026-09-08 13:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted trade balance for July due in 10 minutes."
+    },
+    {
+      "id": "5082118",
+      "time": "2026-09-08 13:49:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油期貨價格漲2.13%，報93.430美元/桶；布倫特原油期貨價格漲1.10%，報98.069美元/桶。"
+    },
+    {
+      "id": "mkt:01a07f8f-286f-7118-84dd-c3ada28f7f77",
+      "time": "2026-09-08 13:48:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share private hospitals sector surged in afternoon trade; Aoyang Health hit the daily trading limit, while Guangzheng Ophthalmology, Purui Ophthalmology, International Medical, Meinian Health and Heshi Ophthalmology also advanced."
+    },
     {
       "id": "mkt:01a07f8e-99aa-7118-84dd-bbeed2a34540",
       "time": "2026-09-08 13:47:26",
@@ -128821,26 +128874,6 @@
         "公司"
       ],
       "text": "【同仁堂國際：姬廣飛不再擔任公司董事長職務，任命李江由聯席總裁接任公司董事長】9月1日，同仁堂國際釋出公告稱，經公司董事會決議：姬廣飛因工作需要調整，不再擔任同仁堂國際董事長職務；任命李江由聯席總裁接任同仁堂國際董事長。"
-    },
-    {
-      "id": "5070085",
-      "time": "2026-09-01 13:50:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【環球晶董事長：未來兩年矽晶圓產業有望呈現雙位數百分比成長】環球晶董事長徐秀蘭今日上午出席2026晶鏈高峰論壇，她在受訪時表示，在未來兩年，矽晶圓產業呈現雙位數百分比成長值得期待，原因是客戶都在做大規模擴廠，即使是還沒有擴廠之前的舊廠，也投入去瓶頸工作，因為要能縮短時間，提早增加出貨量，預計未來矽晶圓量與價方面都會有所改進。"
-    },
-    {
-      "id": "mkt:01a05b84-79e5-7118-842b-1182c1c1f347",
-      "time": "2026-09-01 13:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD"
-      ],
-      "text": "UK Aug Nationwide house price index MoM due in 10 minutes."
     }
   ]
 }
