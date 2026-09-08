@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-09 04:38:17",
-  "count": 13905,
+  "updated": "2026-09-09 04:42:17",
+  "count": 13897,
   "items": [
+    {
+      "id": "mkt:01a082c0-7929-7118-84f4-9f5b96406a2d",
+      "time": "2026-09-09 04:40:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: An adviser to Iraq's prime minister said Iraq must have full sovereignty over its airspace and must not host any foreign armed forces on its territory."
+    },
     {
       "id": "5083669",
       "time": "2026-09-09 04:36:05",
@@ -126934,87 +126942,6 @@
         "WTI"
       ],
       "text": "Putin said reports of a new Russian mobilization are unfounded."
-    },
-    {
-      "id": "5071681",
-      "time": "2026-09-02 04:41:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：目前現有在用伺服器中，大部分仍為第14代或更早的舊型號，我們認為未來將迎來規模可觀、潛力持久的伺服器更新換代機遇。"
-    },
-    {
-      "id": "5071680",
-      "time": "2026-09-02 04:41:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京對俄羅斯新一輪動員傳言的回應：純屬無稽之談。"
-    },
-    {
-      "id": "5071679",
-      "time": "2026-09-02 04:41:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "百勝餐飲集團：亞倫·鮑威爾辭去必勝客執行長一職，自2026年9月1日起生效。"
-    },
-    {
-      "id": "mkt:01a05eb4-1dbf-7118-8445-67f084a80621",
-      "time": "2026-09-02 04:40:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. crude inventories fell 2.593 mln barrels in the week to Aug. 28, versus an expected draw of 0.82 mln barrels; prior week showed a 4.199 mln-barrel build."
-    },
-    {
-      "id": "5071678",
-      "time": "2026-09-02 04:40:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：目前的增長大部分來自現有客戶，這些客戶仍在持續更新升級其資料中心，以支撐傳統工作負載。"
-    },
-    {
-      "id": "mkt:01a05eb3-f332-7118-8445-5811dad138fa",
-      "time": "2026-09-02 04:40:46",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (Aug.28) | actual -2593000M | consensus -820000M | previous 4199000M"
-    },
-    {
-      "id": "5071677",
-      "time": "2026-09-02 04:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾營運長：需求正擴充套件至新雲、主權雲及企業客戶；客戶數量已突破6500家。"
-    },
-    {
-      "id": "5071676",
-      "time": "2026-09-02 04:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國上週API原油庫存減少260萬桶】美國石油協會（API）資料顯示，上週，美國API原油庫存 -260萬桶，之前一週 +420萬桶。上週API庫欣原油庫存 +20萬桶，前值 +100萬桶。上週API成品油汽油庫存 +30萬桶（前值 -320萬桶）、餾分油庫存 -30萬桶（前值 -50萬桶）。"
-    },
-    {
-      "id": "5071675",
-      "time": "2026-09-02 04:38:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭襲擊造成的損失相當於俄羅斯GDP的1%。"
     }
   ]
 }

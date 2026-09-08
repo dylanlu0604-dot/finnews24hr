@@ -1,7 +1,15 @@
 {
   "date": "2026-09-09",
-  "count": 300,
+  "count": 301,
   "items": [
+    {
+      "id": "mkt:01a082c0-7929-7118-84f4-9f5b96406a2d",
+      "time": "2026-09-09 04:40:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: An adviser to Iraq's prime minister said Iraq must have full sovereignty over its airspace and must not host any foreign armed forces on its territory."
+    },
     {
       "id": "5083669",
       "time": "2026-09-09 04:36:05",
