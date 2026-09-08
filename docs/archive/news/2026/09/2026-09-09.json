@@ -1,7 +1,26 @@
 {
   "date": "2026-09-09",
-  "count": 165,
+  "count": 167,
   "items": [
+    {
+      "id": "5083593",
+      "time": "2026-09-09 02:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統本週將訪問印度出席金磚國家峰會。"
+    },
+    {
+      "id": "te:markets:582135",
+      "time": "2026-09-09 02:41:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as as Hormuz Risks Mount — Brent topped $99 a barrel on Tuesday before paring gains to around $97.6 amid growing concerns over supply disruptions. The US and Iran exchanged strikes over the weekend, escalating tensions in the Middle East. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish sentiment, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz, potentially making tanker traffic through the critical oil chokepoint even more challenging. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
+    },
     {
       "id": "5083592",
       "time": "2026-09-09 02:39:03",

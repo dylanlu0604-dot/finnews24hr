@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-09 02:41:29",
-  "count": 13974,
+  "updated": "2026-09-09 02:45:22",
+  "count": 13973,
   "items": [
+    {
+      "id": "5083593",
+      "time": "2026-09-09 02:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統本週將訪問印度出席金磚國家峰會。"
+    },
+    {
+      "id": "te:markets:582135",
+      "time": "2026-09-09 02:41:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as as Hormuz Risks Mount — Brent topped $99 a barrel on Tuesday before paring gains to around $97.6 amid growing concerns over supply disruptions. The US and Iran exchanged strikes over the weekend, escalating tensions in the Middle East. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish sentiment, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz, potentially making tanker traffic through the critical oil chokepoint even more challenging. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
+    },
     {
       "id": "5083592",
       "time": "2026-09-09 02:39:03",
@@ -127514,36 +127533,6 @@
         "Europe & UK"
       ],
       "text": "UK Financial Secretary to the Treasury Reynolds said reducing global imbalances is a sensitive issue and that the UK will respond appropriately."
-    },
-    {
-      "id": "mkt:01a05e48-94b4-7118-8442-b416d8cb890a",
-      "time": "2026-09-02 02:43:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister's Office said Prime Minister Netanyahu met today with Democratic Republic of the Congo President Félix Tshisekedi; they agreed to strengthen economic and security ties."
-    },
-    {
-      "id": "te:markets:580164",
-      "time": "2026-09-02 02:43:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 28870.00 Index Points, the lowest since August 2026. Over the past 4 weeks, US 100 Tech Index gained 0.43%, and in the last 12 months, it increased 24.41%."
-    },
-    {
-      "id": "mkt:01a05e47-6545-7118-8442-a8c489bb130d",
-      "time": "2026-09-02 02:42:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Venezuela's National Assembly has backed an oil deal reached with the United States."
     }
   ]
 }
