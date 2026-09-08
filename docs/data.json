@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-09 04:50:14",
-  "count": 13885,
+  "updated": "2026-09-09 04:54:13",
+  "count": 13878,
   "items": [
+    {
+      "id": "5083678",
+      "time": "2026-09-09 04:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第80屆聯大閉幕 孟加拉國外長就任下屆聯大主席】第80屆聯合國大會8日舉行閉幕會。第80屆聯大主席安娜萊娜·貝爾伯克致辭，孟加拉國外長卡利勒·拉赫曼宣誓就任下一屆聯大主席，並從貝爾伯克手中接過聯大議事槌。貝爾伯克說，第80屆聯大工作重點是聯合國改革、捍衛《聯合國憲章》、促進發展以及下一任聯合國秘書長遴選，同時開啟了人工智慧管理這一全球性議題的討論。第80屆聯大共召集18場高階別會議，開展26項政府間程序，舉行116次聯大正式全體會議，透過317項決議。聯合國秘書長古特雷斯在現場講話中說，第80屆聯大是在人類面臨武裝衝突不斷、國際體系缺陷導致不公與貧困等複雜挑戰背景下召開的。在當今動盪時代，所有國家必須團結起來，共同努力尋求出路。拉赫曼在閉幕會後的記者見面會上表示，多邊主義正面臨前所未有的挑戰，同時世界也面臨前所未有的機會，尤其在新技術領域。第81屆聯大擔負著重大責任，他將直面挑戰並抓住機會，重視合作與對話，盡最大努力尋求共識。 (央視新聞)"
+    },
+    {
+      "id": "5083677",
+      "time": "2026-09-09 04:53:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【OpenAI內部模型88小時暴力攻克千禧年數學難題】當地時間週二，OpenAI公佈了對千禧年數學難題之一——納維-斯托克斯方程相關問題的解決方案。該方程式用於描述空氣、水和血液等流體的運動。OpenAI還首次透露，該問題解決的背後是一款能力顯著強於GPT-6 Astra的下一代內部模型。圖表顯示，在一組精選開放數學問題上，這款內部模型透過率最高接近48%，約為Astra最高表現的近3倍。OpenAI表示，這項數學突破耗費了數百萬美元的運算成本。研究團隊調動了約1萬個協同AI智慧體，在首批智慧體啟動約88小時後便得出解答。OpenAI研究顯示，三維流體運動可能在有限時間內產生奇點，導致方程對流體作為連續介質的描述出現崩潰。此前，紐約大學數學家Tristan Buckmaster與Anthropic研究員Levent Alpöge剛剛發表了一項針對相關流體動力學方程的AI輔助研究。Buckmaster隨後發表宣告質疑，OpenAI是在聽聞其研究後才著手處理該問題，並採用了他們耗時數月開發的罕見研究方法。OpenAI對此表示，其團隊在對方公開研究前未透過任何方式接觸其工作，也未訪問任何具體使用者資料，並稱雙方的證明方法存在顯著差異。"
+    },
+    {
+      "id": "mkt:01a082ca-d7ce-7118-84f4-a021be423e13",
+      "time": "2026-09-09 04:52:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to $4,350/oz intraday, down 1.37% on the day."
+    },
+    {
+      "id": "5083676",
+      "time": "2026-09-09 04:50:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價跌1%，紐約期銅漲超1.3%一度逼近6.9美元關口】週二（9月8日）紐約尾盤，現貨黃金跌1.06%，報4357.62美元/盎司，亞太時段衝高回落、北京時間12:05重新整理日高至4442.96美元，至01:04這段時間大致持平——交投於4400美元附近，之後持續下挫。現貨白銀跌0.68%，報65.7189美元/盎司。COMEX銅期貨漲1.36%，報6.7735美元/磅，長週末歸來持續上揚、21:19達到6.8730美元，隨後回吐部分漲幅，再度逼近8月6日頂部6.96美元。在美股時段交易的費城金銀指數收跌0.40%，在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌0.71%。在美股時段交易的原材料指數收跌0.47%，金屬與礦業指數收漲0.86%。"
+    },
+    {
+      "id": "5083675",
+      "time": "2026-09-09 04:50:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4350美元/盎司，日內跌1.33%。"
+    },
+    {
+      "id": "5083674",
+      "time": "2026-09-09 04:50:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4350美元/盎司，日內跌1.33%。"
+    },
+    {
+      "id": "5083673",
+      "time": "2026-09-09 04:49:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4390美元/盎司，日內跌1.95%。"
+    },
+    {
+      "id": "5083672",
+      "time": "2026-09-09 04:49:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4390美元/盎司，日內跌1.95%。"
+    },
+    {
+      "id": "5083671",
+      "time": "2026-09-09 04:49:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4400美元/盎司，日內跌1.92%。"
+    },
+    {
+      "id": "5083670",
+      "time": "2026-09-09 04:49:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4400美元/盎司，日內跌1.92%。"
+    },
     {
       "id": "te:markets:582149",
       "time": "2026-09-09 04:44:16",
@@ -126636,184 +126727,6 @@
         "Brent"
       ],
       "text": "U.S. API Cushing crude stocks +150k bbl in week to Aug 28; prior +995k bbl."
-    },
-    {
-      "id": "mkt:01a05ec0-3c79-7118-8446-04187c7331c9",
-      "time": "2026-09-02 04:54:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "API: U.S. crude oil brought online +294,000 b/d in week to Aug. 28; prior -88,000 b/d."
-    },
-    {
-      "id": "mkt:01a05ec0-2a11-7118-8445-fb75e5b60713",
-      "time": "2026-09-02 04:54:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Aug.28) | actual 150000M | previous 995000M"
-    },
-    {
-      "id": "mkt:01a05ec0-1859-7118-8445-f5391721eab1",
-      "time": "2026-09-02 04:54:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. refined product imports -226,000 b/d in the week to Aug. 28, versus +254,000 b/d the prior week."
-    },
-    {
-      "id": "mkt:01a05ec0-14e5-7118-8445-ea9d6d03d962",
-      "time": "2026-09-02 04:54:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Aug.28) | actual 294000M | previous -88000M"
-    },
-    {
-      "id": "mkt:01a05ebf-fe5e-7118-8445-e1c794478ab1",
-      "time": "2026-09-02 04:53:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API crude imports for the week to Aug. 28: 242,000 barrels, prior -462,000 barrels."
-    },
-    {
-      "id": "mkt:01a05ebf-fa9b-7118-8445-dd4f60d2e748",
-      "time": "2026-09-02 04:53:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (Aug.28) | actual -226000M | previous 254000M"
-    },
-    {
-      "id": "mkt:01a05ebf-d6ca-7118-8445-d03bf1c9cfa6",
-      "time": "2026-09-02 04:53:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (Aug.28) | actual 242000M | previous -462000M"
-    },
-    {
-      "id": "mkt:01a05ebf-c24b-7118-8445-cbe3501226c9",
-      "time": "2026-09-02 04:53:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API heating oil stocks for week to Aug 28: -350,000 barrels; prior -43,000 barrels."
-    },
-    {
-      "id": "mkt:01a05ebf-a58c-7118-8445-c1e6d34d58bc",
-      "time": "2026-09-02 04:53:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (Aug.28) | actual -350000M | previous -43000M"
-    },
-    {
-      "id": "mkt:01a05ebf-a0af-7118-8445-b849c851ad54",
-      "time": "2026-09-02 04:53:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. gasoline inventories fell 265,000 bbl in the week to Aug. 28 vs. -1.25m bbl expected; prior -459,000 bbl."
-    },
-    {
-      "id": "mkt:01a05ebf-774d-7118-8445-b2f6b6d9de9e",
-      "time": "2026-09-02 04:53:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "API U.S. gasoline stocks for week to Aug. 28: +348k barrels vs. -2.40 mln expected; prior -3.201 mln."
-    },
-    {
-      "id": "mkt:01a05ebf-7442-7118-8445-aee5d1c31204",
-      "time": "2026-09-02 04:53:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Aug.28) | actual -265000M | consensus -1250000M | previous -459000M"
-    },
-    {
-      "id": "mkt:01a05ebf-528e-7118-8445-a4cb90545442",
-      "time": "2026-09-02 04:53:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Aug.28) | actual 348000M | consensus -2400000M | previous -3201000M"
-    },
-    {
-      "id": "5071690",
-      "time": "2026-09-02 04:52:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：已對約旦亞喀巴灣附近的美軍海軍陸戰隊基地蒂丁營地實施大規模彈道導彈打擊，此次襲擊造成美軍重大人員傷亡，摧毀多處關鍵設施以及攻擊直升機。"
-    },
-    {
-      "id": "mkt:01a05ebe-13d0-7118-8445-98a47f7a9703",
-      "time": "2026-09-02 04:51:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it \"killed a large number of US service members\" in the attack."
-    },
-    {
-      "id": "5071689",
-      "time": "2026-09-02 04:51:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊表示，其報復行動將繼續。"
-    },
-    {
-      "id": "5071688",
-      "time": "2026-09-02 04:50:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭境內的任何軍事設施，無論是英國的還是其他國家的，對我們而言都是合法打擊目標。"
     }
   ]
 }
