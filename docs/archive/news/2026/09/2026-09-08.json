@@ -1,7 +1,135 @@
 {
   "date": "2026-09-08",
-  "count": 489,
+  "count": 502,
   "items": [
+    {
+      "id": "5081750",
+      "time": "2026-09-08 09:23:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲0.08%。"
+    },
+    {
+      "id": "5081749",
+      "time": "2026-09-08 09:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【陸慷會見加拿大議會加中議會協會代表團】9月7日，中共中央對外聯絡部副部長陸慷在北京會見加拿大議會加中議會協會共同主席羅耶、吉尼亞克率領的加中議會協會代表團。陸慷介紹了“十五五”規劃有關內容，並強調，在中加兩國領導人戰略引領下，中加關係轉圜向好，受到兩國各界普遍歡迎。中方願與加方共同落實好兩國領導人重要共識，拓展各領域務實合作和人文交流，積極推動構建中加新型戰略伙伴關係。中聯部願與加中議會協會和加議會各政黨開展更多交流對話，增進中加相互理解和信任。加方表示，今年1月卡尼總理成功訪華後，兩國各領域交流合作取得積極進展。加方願同中方進一步加強對華經貿合作和人文交流，攜手應對氣候變化、人工智慧等全球性挑戰，共同維護多邊主義的國際秩序。加方並對中國西藏吉隆遭受泥石流災害表達慰問。"
+    },
+    {
+      "id": "mkt:01a07e9b-eddc-7118-84d6-774ca623e120",
+      "time": "2026-09-08 09:22:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese 20-year government bond yield fell 4 bps to 3.705%."
+    },
+    {
+      "id": "5081748",
+      "time": "2026-09-08 09:22:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯創達：CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨】匯創達(300909)9月8日在互動平臺表示，公司CCS模組業務上半年保持增長態勢，相關財務資料已體現在半年報中。目前CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨，訂單情況受客戶排產節奏影響存在階段性波動。"
+    },
+    {
+      "id": "5081747",
+      "time": "2026-09-08 09:22:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "江波龍電子港股上市首日開盤報236港元，與招股價持平。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609083867604727",
+      "time": "2026-09-08 09:21:57",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a07e9b-62fd-7118-84d6-69f5b3be9612",
+      "time": "2026-09-08 09:21:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09901.HK",
+        "Impact bullish",
+        "03993.HK",
+        "00688.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong open: Hang Seng Index down 0.63%, Hang Seng Tech Index down 0.56%. New Oriental (09901.HK) and China Molybdenum (03993.HK) up over 2%; China Overseas Development (00688.HK) down more than 2%."
+    },
+    {
+      "id": "5081746",
+      "time": "2026-09-08 09:21:47",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.63％，國企指數跌0.72％，恒生科技指數跌0.56%。"
+    },
+    {
+      "id": "mkt:01a07e9a-f650-7118-84d6-67999f25be83",
+      "time": "2026-09-08 09:21:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's HSI opened down 161.05 points (-0.63%) at 25,252.07 on Tuesday, Sept. 8; Hang Seng TECH opened down 25.18 points (-0.56%) at 4,502.53; HSCEI opened down 60.92 points (-0.72%) at 8,368.81; Hang Seng Red Chip Index opened down 4.53 points (-0.11%) at 4,171.92."
+    },
+    {
+      "id": "5081745",
+      "time": "2026-09-08 09:20:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率<JP20YTN=JBTC>下跌4.0個基點，至3.705%。"
+    },
+    {
+      "id": "5081744",
+      "time": "2026-09-08 09:20:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a07e9a-4436-7118-84d6-5db9a535c203",
+      "time": "2026-09-08 09:20:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo today for 10 billion yuan; bids totaled 10 billion yuan and allotment was 10 billion yuan at a 1.40% rate, unchanged."
+    },
+    {
+      "id": "5081743",
+      "time": "2026-09-08 09:20:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【蜜雪冰城、瑞幸供應商唯可鮮啟動北交所IPO輔導】證監會網站披露，山東唯可鮮食品集團股份有限公司於2026年9月7日在山東證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為國金證券。"
+    },
     {
       "id": "te:economy:581778",
       "time": "2026-09-08 09:19:22",
