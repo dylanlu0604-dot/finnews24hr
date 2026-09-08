@@ -1,7 +1,129 @@
 {
   "date": "2026-09-09",
-  "count": 175,
+  "count": 188,
   "items": [
+    {
+      "id": "5083608",
+      "time": "2026-09-09 02:52:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
+    },
+    {
+      "id": "5083607",
+      "time": "2026-09-09 02:52:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0825c-75b9-7118-84f3-3ac638fb15de",
+      "time": "2026-09-09 02:51:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose about $1 intraday, trading at $91.30/bbl and $96.65/bbl respectively."
+    },
+    {
+      "id": "5083606",
+      "time": "2026-09-09 02:50:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅延續。"
+    },
+    {
+      "id": "5083605",
+      "time": "2026-09-09 02:50:31",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗哈爾克島聽到爆炸聲，標普500指數跌至盤中低點。"
+    },
+    {
+      "id": "mkt:01a0825b-80b3-7118-84f3-347eeeda4a99",
+      "time": "2026-09-09 02:50:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fars News reported explosions heard near Kharg Island. The sounds were reported from the direction of the Persian Gulf, but no smoke or fire was observed at sea. No official confirmation yet."
+    },
+    {
+      "id": "mkt:01a0825b-0bab-7118-84f3-2923178cabc0",
+      "time": "2026-09-09 02:49:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold broke below $4,370/oz, down 0.86% intraday."
+    },
+    {
+      "id": "5083604",
+      "time": "2026-09-09 02:49:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
+    },
+    {
+      "id": "5083603",
+      "time": "2026-09-09 02:49:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
+    },
+    {
+      "id": "5083602",
+      "time": "2026-09-09 02:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5083601",
+      "time": "2026-09-09 02:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5083600",
+      "time": "2026-09-09 02:48:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5083599",
+      "time": "2026-09-09 02:48:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "mkt:01a08259-a9ba-7118-84f3-231a1d1b6e11",
       "time": "2026-09-09 02:48:29",

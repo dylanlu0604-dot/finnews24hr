@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-09 02:49:12",
-  "count": 13975,
+  "updated": "2026-09-09 02:53:07",
+  "count": 13978,
   "items": [
+    {
+      "id": "5083608",
+      "time": "2026-09-09 02:52:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
+    },
+    {
+      "id": "5083607",
+      "time": "2026-09-09 02:52:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0825c-75b9-7118-84f3-3ac638fb15de",
+      "time": "2026-09-09 02:51:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose about $1 intraday, trading at $91.30/bbl and $96.65/bbl respectively."
+    },
+    {
+      "id": "5083606",
+      "time": "2026-09-09 02:50:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅延續。"
+    },
+    {
+      "id": "5083605",
+      "time": "2026-09-09 02:50:31",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗哈爾克島聽到爆炸聲，標普500指數跌至盤中低點。"
+    },
+    {
+      "id": "mkt:01a0825b-80b3-7118-84f3-347eeeda4a99",
+      "time": "2026-09-09 02:50:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fars News reported explosions heard near Kharg Island. The sounds were reported from the direction of the Persian Gulf, but no smoke or fire was observed at sea. No official confirmation yet."
+    },
+    {
+      "id": "mkt:01a0825b-0bab-7118-84f3-2923178cabc0",
+      "time": "2026-09-09 02:49:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold broke below $4,370/oz, down 0.86% intraday."
+    },
+    {
+      "id": "5083604",
+      "time": "2026-09-09 02:49:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
+    },
+    {
+      "id": "5083603",
+      "time": "2026-09-09 02:49:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
+    },
+    {
+      "id": "5083602",
+      "time": "2026-09-09 02:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5083601",
+      "time": "2026-09-09 02:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5083600",
+      "time": "2026-09-09 02:48:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5083599",
+      "time": "2026-09-09 02:48:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "mkt:01a08259-a9ba-7118-84f3-231a1d1b6e11",
       "time": "2026-09-09 02:48:29",
@@ -127456,108 +127578,6 @@
         "AI Revolution"
       ],
       "text": "【ANTHROPIC releases Fable 5.1 — coding/science gains; 75% cut to re‑call token price; customer cloud hosting option】ANTHROPIC released Fable 5.1, saying the model improves performance on programming and scientific tasks while lowering enterprise operating costs. The model is positioned for long, complex software tasks — including full-application development and code review — and expands scientific capabilities such as experimental design, result simulation and reading complex charts and tables. Enterprise token pricing remains unchanged from Fable 5, but Anthropic cut pricing for re-invoking already-processed context by 75% — a usage segment that can exceed half of tokens in long-text or complex workflows — which Anthropic says should materially lower overall inference costs. Fable 5.1 also upgrades its safety classifier to better detect risky instructions and reduce false positives, targeting safer use in cybersecurity and bio-related applications. Anthropic plans to allow enterprise customers to store strongest-model data on their own cloud infrastructure rather than Anthropic servers, while continuing to apply safety checks."
-    },
-    {
-      "id": "te:markets:580167",
-      "time": "2026-09-02 02:51:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Rises on Escalating Middle East Tensions — Brent futures rose to near $95 a barrel on Tuesday, the highest since late July, after the US military launched new strikes against Iranian targets around the Strait of Hormuz following attacks on two oil tankers in the critical shipping route. US President Donald Trump also threatened a significantly larger response if Tehran retaliates. A senior Iranian military source said Tehran’s response would be “many times greater,” warning that bases across the region could quickly come under Iranian fire. The escalation threatens to prolong the conflict and further disrupt crude exports from the region. Meanwhile, a major Ukrainian drone attack on Russia’s Ust-Luga oil export terminal in the Baltic Sea sparked a fire, as Ukraine continues to target Russian refineries and energy infrastructure."
-    },
-    {
-      "id": "mkt:01a05e4f-77c1-7118-8442-e9f6b0a8be95",
-      "time": "2026-09-02 02:51:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Video】Iran has begun strikes on US military bases; footage shows missiles being launched from the city of Kermanshah."
-    },
-    {
-      "id": "5071566",
-      "time": "2026-09-02 02:50:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯表示，德國基於萊比錫相關指控實施制裁屬於前所未有的升級舉動，俄方不會就此善罷甘休。"
-    },
-    {
-      "id": "te:markets:580166",
-      "time": "2026-09-02 02:50:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Rises on Escalating Middle East Tensions — Crude oil futures rose to near $90.5 a barrel on Tuesday, the highest since late July, after the US military launched new strikes against Iranian targets around the Strait of Hormuz following attacks on two oil tankers in the critical shipping route. US President Donald Trump also threatened a significantly larger response if Tehran retaliates. A senior Iranian military source said Tehran’s response would be “many times greater,” warning that bases across the region could quickly come under Iranian fire. The escalation threatens to prolong the conflict and further disrupt crude exports from the region. Meanwhile, a major Ukrainian drone attack on Russia’s Ust-Luga oil export terminal in the Baltic Sea sparked a fire, as Ukraine continues to target Russian refineries and energy infrastructure."
-    },
-    {
-      "id": "5071565",
-      "time": "2026-09-02 02:50:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗重要能源樞紐港遭美軍襲擊】據伊朗法爾斯通訊社報道，當地時間9月1日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港傳出爆炸聲。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a05e4e-e56f-7118-8442-e601c5f047cf",
-      "time": "2026-09-02 02:50:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "The Russian embassy in Germany said sanctions imposed by Germany over the Leipzig incident are an \"unprecedented escalation\" and that Russia will not leave them unanswered."
-    },
-    {
-      "id": "5071564",
-      "time": "2026-09-02 02:50:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗綜合防空系統在中央省霍梅因上空攔截並摧毀美軍無人機。"
-    },
-    {
-      "id": "mkt:01a05e4e-3e33-7118-8442-da4590705636",
-      "time": "2026-09-02 02:49:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $94.65/bbl, up $4.16 (+4.6%)."
-    },
-    {
-      "id": "mkt:01a05e4e-29d8-7118-8442-d09102d2a7a3",
-      "time": "2026-09-02 02:49:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's embassy in Germany called Berlin's accusations over the Leipzig incident \"a provocation\" intended to serve the interests of militarist forces in Ukraine and Europe and of arms manufacturers."
-    },
-    {
-      "id": "5071563",
-      "time": "2026-09-02 02:49:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "法爾斯通訊社：伊朗稱美國襲擊了霍爾木茲甘省南部的庫赫斯塔克。"
     }
   ]
 }
