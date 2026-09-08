@@ -1,7 +1,85 @@
 {
   "date": "2026-09-08",
-  "count": 983,
+  "count": 991,
   "items": [
+    {
+      "id": "mkt:01a07f84-020b-7118-84dd-85572360f944",
+      "time": "2026-09-08 13:35:52",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Taiwan Weighted Index closed down 220.49 points, or 0.47%, at 47,105.78 on Tuesday, Sept. 8."
+    },
+    {
+      "id": "5082107",
+      "time": "2026-09-08 13:35:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低0.5%報47,105.78。"
+    },
+    {
+      "id": "5082106",
+      "time": "2026-09-08 13:34:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "CRO概念板塊持續走高，雅本化學、近岸蛋白、奧浦邁漲超10%，百奧賽圖、皓元醫藥、萬邦醫藥、博騰股份、康希諾跟漲。"
+    },
+    {
+      "id": "mkt:01a07f82-a610-7118-84dd-7a34d8890ec7",
+      "time": "2026-09-08 13:34:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【Shanghai Stock Exchange to further optimize Shanghai‑Hong Kong Stock Connect to meet global investors' demand】At HKEX’s China Opportunities Forum in Shanghai on Sept. 8, Shanghai Stock Exchange international cooperation director Zhang Bin said the exchange will introduce more flexible, targeted measures to attract long-term capital and step up outreach to sovereign wealth funds and other long‑horizon investors. Under coordinated guidance from the securities regulators in both markets, the exchange will push to include REITs in the Stock Connect beyond existing stocks and ETFs, actively promote inclusion of RMB stock trading counters, and solicit international investor input to explore optimizations in trading mechanisms, eligible instruments and investor thresholds."
+    },
+    {
+      "id": "5082105",
+      "time": "2026-09-08 13:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興發集團、興福電子等成立投資公司】企查查APP顯示，近日，湖北興發投資有限公司成立，經營範圍包含：以自有資金從事投資活動；企業管理諮詢；財務諮詢；融資諮詢服務。企查查股權穿透顯示，該公司由興發集團、興福電子等共同持股。"
+    },
+    {
+      "id": "5082104",
+      "time": "2026-09-08 13:33:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3328.00元。"
+    },
+    {
+      "id": "mkt:01a07f81-7d2c-7118-84dd-761f2c11bfaf",
+      "time": "2026-09-08 13:33:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China's crude complex futures main contracts rallied: SC crude rose 3.12% to 710 yuan/bbl, low-sulfur fuel oil (LU) gained 3.32% to 5,133 yuan/ton, fuel oil climbed 2.71% to 3,902 yuan/ton and asphalt advanced 3.22% to 5,167 yuan/ton."
+    },
+    {
+      "id": "5082101",
+      "time": "2026-09-08 13:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所張斌：將持續最佳化滬港通互聯互通機制 滿足全球投資者配置中國市場需求和訴求】9月8日，HKEX中國機遇論壇2026在上海舉行。上交所國際合作部總監張斌在論壇上表示，中國市場已經成為國際資金配置的必選項，上交所將提供更多靈活性、針對性、差異性的舉措鼓勵長線資金入市，推動健全更加有利於中長期資金入市的政策環境，增進與境外主權基金、長線資本的推介溝通力度。張斌表示，後續，上交所將在兩地證監會的統籌指導下，在已經覆蓋股票、ETF等產品標的的基礎上，進一步推動REITs產品納入互聯互通機制，豐富互聯互通投資標的型別；同時，積極推動人民幣股票交易櫃檯納入互聯互通機制；此外，積極聽取國際投資者的意見建議，探索更多其他在交易機制、標的範圍、投資者門檻方面的最佳化舉措，滿足全球投資者配置中國市場的需求和訴求。（上證報）"
+    },
     {
       "id": "5082100",
       "time": "2026-09-08 13:31:07",

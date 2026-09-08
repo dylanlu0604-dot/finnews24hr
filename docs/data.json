@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-08 13:32:39",
-  "count": 14095,
+  "updated": "2026-09-08 13:36:28",
+  "count": 14092,
   "items": [
+    {
+      "id": "mkt:01a07f84-020b-7118-84dd-85572360f944",
+      "time": "2026-09-08 13:35:52",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Taiwan Weighted Index closed down 220.49 points, or 0.47%, at 47,105.78 on Tuesday, Sept. 8."
+    },
+    {
+      "id": "5082107",
+      "time": "2026-09-08 13:35:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低0.5%報47,105.78。"
+    },
+    {
+      "id": "5082106",
+      "time": "2026-09-08 13:34:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "CRO概念板塊持續走高，雅本化學、近岸蛋白、奧浦邁漲超10%，百奧賽圖、皓元醫藥、萬邦醫藥、博騰股份、康希諾跟漲。"
+    },
+    {
+      "id": "mkt:01a07f82-a610-7118-84dd-7a34d8890ec7",
+      "time": "2026-09-08 13:34:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【Shanghai Stock Exchange to further optimize Shanghai‑Hong Kong Stock Connect to meet global investors' demand】At HKEX’s China Opportunities Forum in Shanghai on Sept. 8, Shanghai Stock Exchange international cooperation director Zhang Bin said the exchange will introduce more flexible, targeted measures to attract long-term capital and step up outreach to sovereign wealth funds and other long‑horizon investors. Under coordinated guidance from the securities regulators in both markets, the exchange will push to include REITs in the Stock Connect beyond existing stocks and ETFs, actively promote inclusion of RMB stock trading counters, and solicit international investor input to explore optimizations in trading mechanisms, eligible instruments and investor thresholds."
+    },
+    {
+      "id": "5082105",
+      "time": "2026-09-08 13:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興發集團、興福電子等成立投資公司】企查查APP顯示，近日，湖北興發投資有限公司成立，經營範圍包含：以自有資金從事投資活動；企業管理諮詢；財務諮詢；融資諮詢服務。企查查股權穿透顯示，該公司由興發集團、興福電子等共同持股。"
+    },
+    {
+      "id": "5082104",
+      "time": "2026-09-08 13:33:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3328.00元。"
+    },
+    {
+      "id": "mkt:01a07f81-7d2c-7118-84dd-761f2c11bfaf",
+      "time": "2026-09-08 13:33:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China's crude complex futures main contracts rallied: SC crude rose 3.12% to 710 yuan/bbl, low-sulfur fuel oil (LU) gained 3.32% to 5,133 yuan/ton, fuel oil climbed 2.71% to 3,902 yuan/ton and asphalt advanced 3.22% to 5,167 yuan/ton."
+    },
+    {
+      "id": "5082101",
+      "time": "2026-09-08 13:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所張斌：將持續最佳化滬港通互聯互通機制 滿足全球投資者配置中國市場需求和訴求】9月8日，HKEX中國機遇論壇2026在上海舉行。上交所國際合作部總監張斌在論壇上表示，中國市場已經成為國際資金配置的必選項，上交所將提供更多靈活性、針對性、差異性的舉措鼓勵長線資金入市，推動健全更加有利於中長期資金入市的政策環境，增進與境外主權基金、長線資本的推介溝通力度。張斌表示，後續，上交所將在兩地證監會的統籌指導下，在已經覆蓋股票、ETF等產品標的的基礎上，進一步推動REITs產品納入互聯互通機制，豐富互聯互通投資標的型別；同時，積極推動人民幣股票交易櫃檯納入互聯互通機制；此外，積極聽取國際投資者的意見建議，探索更多其他在交易機制、標的範圍、投資者門檻方面的最佳化舉措，滿足全球投資者配置中國市場的需求和訴求。（上證報）"
+    },
     {
       "id": "5082100",
       "time": "2026-09-08 13:31:07",
@@ -128806,117 +128884,6 @@
         "公司"
       ],
       "text": "【三星顯示器擬大幅提升蘋果可摺疊OLED顯示屏產量 每月供應量或達100萬片】三星顯示器公司將從本月起大幅提升其為蘋果摺疊屏手機生產的有機發光二極體（OLED）顯示屏的產量。該公司已於上月開始小規模量產，出貨量約為20萬至30萬片，其計劃從本月起將供應量擴大至每月100萬片以上。 根據月度產量預測，三星顯示器今年預計將量產700多萬塊蘋果可摺疊OLED顯示屏，接近最初公佈的800萬塊的目標。 (ZDNET Korea)"
-    },
-    {
-      "id": "5070071",
-      "time": "2026-09-01 13:36:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜回應“只會後訓練”質疑：下一代基座模型已在推進 GLM-6.0瞄準“自進化”】在8月31日晚間舉辦的2026年半年度業績溝通會上，有分析師提出市場對智譜 “只會後訓練” 的質疑，詢問公司近期在引數規模上相對剋制的原因。智譜創始人唐傑表示，下一代模型依舊會擴大基座規模，同時會對啟用引數做管控，避免推理速度下滑和成本上升。算力層面，智譜披露，已實現10萬級國產晶片規模化推理，單位Token推理成本較年初下降80%。GLM‑5.3‑Flash是智譜首款在超大規模真實流量下全面依託國產晶片叢集提供服務的模型。公司稱，對比同一硬體的初始基線，該模型端到端服務效能提升3倍。唐傑將未來GLM-6.0的一個方向概括為自進化，“這是一個很大的挑戰，最大的問題是這個模型能自己判斷自己什麼時候停止，什麼時候糾正自己，這是最大的問題，而不是簡單地把模型訓練大，在未來模型中，這是作為重點研究的”。 (每經)"
-    },
-    {
-      "id": "mkt:01a05b77-dc25-7118-842a-b2b87f91d0b2",
-      "time": "2026-09-01 13:36:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan's TAIEX closed up 820.25 points, or 1.78%, at 46,948.72 on Tuesday, Sept 1."
-    },
-    {
-      "id": "mkt:01a05b77-4954-7118-842a-ab58ead88340",
-      "time": "2026-09-01 13:35:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Ex-US ambassador says US economic pressure won't force Iran to change behavior】The Trump administration has stepped up economic pressure on Iran and is threatening military strikes, former US ambassador to Tunisia Joey R. Hood said in an interview. Hood said Trump \"is clearly aware of the limits of military strikes\" but warned sanctions will not suddenly change Tehran's behavior. He noted it took two years of US sanctions to bring Iran to the negotiating table and produce the 2015 nuclear deal. Hood added the current environment differs: Washington has fewer allied partners and Tehran views US aims as \"regime change\", making a 2015-style outcome unlikely."
-    },
-    {
-      "id": "mkt:01a05b77-0101-7118-842a-a2dd657c86c9",
-      "time": "2026-09-01 13:35:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Multiple banks launch 40-year mortgages; some require borrowers be under 35】Maximum mortgage term extended from 30 to 40 years; implementation varies by lender. Many banks say they have not yet received internal operational notices and are awaiting guidance, but several have already begun offering 40-year loans. Some joint-stock banks cap borrower age plus loan term at 75 years, effectively limiting 40-year loans to borrowers aged 35 or younger. A state-owned bank staffer said the longer term reduces monthly repayment pressure but increases total interest expense. A bank relationship manager implementing the change said existing 30-year borrowers can apply to move to 40 years; converting a 1 mln yuan loan from 30 to 40 years reduces annual principal repayments by about 7,000 yuan."
-    },
-    {
-      "id": "5070070",
-      "time": "2026-09-01 13:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家銀行落地40年房貸 有銀行稱辦40年房貸需35歲以下】房貸最長期限從30年延至40年，政策落地後各家銀行進展不一。據悉，多數銀行尚未收到內部操作通知，仍在等待指引。但已有銀行明確可辦理40年期貸款，部分股份制銀行設定借款人年齡加貸款年限不超過75歲的上限條件。已落地的某國有銀行工作人員表示，期限拉長意味著每月還款壓力減輕，但總利息支出隨之增加。已落地新政的銀行客戶經理介紹，以前貸了30年的客戶也可以申請改為40年，100萬貸款從30年改為40年，月供本金部分每年可少還7000元。（一財）"
-    },
-    {
-      "id": "5070069",
-      "time": "2026-09-01 13:35:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高1.8%報46,948.72。"
-    },
-    {
-      "id": "5070068",
-      "time": "2026-09-01 13:34:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【石油化工板塊午後繼續下行 昊華科技跌超7%】石油化工板塊午後繼續下行，昊華科技跌超7%，桐昆股份、新鳳鳴等跟跌。"
-    },
-    {
-      "id": "mkt:01a05b76-608d-7118-842a-9cd9e2d1f6fb",
-      "time": "2026-09-01 13:34:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "LSEG data show the US 10-year Treasury yield rose to 4.786%, its highest level since January 2025."
-    },
-    {
-      "id": "5070067",
-      "time": "2026-09-01 13:34:07",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【道明證券：沃什轉鷹短期內將打擊金價 年底前或跌至4200美元/盎司】美聯儲主席沃什對美聯儲利率政策的態度轉鷹影響了黃金的上漲走勢。道明證券商品研究主管Bart Melek最新指出，這種立場可能在短期內對黃金構成重大不利影響。Melek最新分析稱，市場將此解讀為美聯儲更有可能在9月和12月提高政策利率，這與沃什講話前的預期大相徑庭。而這一講話也導致的短期利率上升和美元走強，並使得金價下跌。他強調，由於近期美國財政部干預美國債券市場長期利率，金融環境有所放鬆，交易員推高了黃金價格。因此，黃金價格可能會回吐近期的部分漲幅，並在年底前跌至4200至4700美元/盎司交易區間的下限。不過，他也補充稱，一旦通脹趨於穩定，美聯儲將有信心逐步解除緊縮政策，以實現其充分就業的目標，從而支援道明證券設定的2027年Q3的金價目標，即國際金價上漲至每盎司5350美元。"
-    },
-    {
-      "id": "5070066",
-      "time": "2026-09-01 13:33:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率升至4.786%，創2025年1月以來新高。"
-    },
-    {
-      "id": "mkt:01a05b74-d513-7118-842a-95ec79f51e99",
-      "time": "2026-09-01 13:32:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's Nifty 50 erased intraday losses and traded up 0.01%."
     }
   ]
 }
