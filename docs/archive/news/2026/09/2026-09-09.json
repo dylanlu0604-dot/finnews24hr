@@ -1,7 +1,60 @@
 {
   "date": "2026-09-09",
-  "count": 481,
+  "count": 487,
   "items": [
+    {
+      "id": "5083787",
+      "time": "2026-09-09 07:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國韓華海洋被指定為泰國海軍護衛艦專案的首選競標者。"
+    },
+    {
+      "id": "5083786",
+      "time": "2026-09-09 07:19:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒炒作“中國機器人準備參戰”，專家：存在明顯誇大事實和技術誤讀傾向】“從舞池到戰場：中國為人形機器人參戰做準備”，英國路透社7日以此為題發表長篇報道，渲染“中國人形機器人未來可能走向戰場”，文章隨即引發多家外媒跟進炒作。8日接受《環球時報》記者採訪的軍事專家表示，相關報道存在明顯誇大事實和技術誤讀傾向，本質上是將中國正常開展的前沿軍事技術預研、理論探討和技術測試，曲解為所謂“機器人部隊即將成軍”，是又一種“中國軍事威脅論”敘事。還有專家表示，美歐一些國家早已將包括人形機器人在內的智慧無人裝備投入戰場測試甚至實際使用，唯獨面對中國人形機器人的發展大肆炒作軍事用途，這種“無腦擔憂中國”的心理邏輯和“大蒜威脅美國安全”如出一轍。（環球網）"
+    },
+    {
+      "id": "5083785",
+      "time": "2026-09-09 07:19:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "私募股權投資機構 CVC任命託德·西西斯基與彼得·拉特蘭為聯合執行長，將於2028年第一季度生效。"
+    },
+    {
+      "id": "mkt:01a08351-827f-7118-84f6-62cee1ee3c26",
+      "time": "2026-09-09 07:19:12",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【Samsung, ASML to co-develop next-generation High-NA EUV mask blanks】Samsung Electronics will partner with ASML to co-develop High-NA extreme ultraviolet (EUV) lithography mask blanks, Seoul Economic Daily reports. The collaboration targets an industry shift from 6‑inch to 12‑inch mask blanks used since the 1980s; Samsung aims to be first to establish DRAM mass production on High‑NA EUV and plans to deploy the technology in DRAM from 2028. Samsung also intends to extend High‑NA EUV to 1.4nm advanced logic to support foundry expansion. High‑NA EUV offers a numerical aperture roughly 66% higher than conventional EUV, enabling finer circuit patterning; replacing 6‑inch masks with 12‑inch blanks is intended to raise fab throughput and reduce chip manufacturing costs."
+    },
+    {
+      "id": "5083784",
+      "time": "2026-09-09 07:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普已經彌補了美墨加協定中的許多缺陷。"
+    },
+    {
+      "id": "5083783",
+      "time": "2026-09-09 07:18:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【AI模型加速迭代 AI基礎設施需求再受關注】日前，OpenAI釋出新一代人工智慧（AI）模型GPT-6 Astra，進一步提升模型操作電腦、執行復雜任務的能力。英偉達執行長黃仁勳隨後在社交平臺上表示，“通用人工智慧（AGI）已經到來”，引發市場關注。伴隨新模型釋出，A股算力硬體板塊、韓國儲存晶片龍頭走強，AI基礎設施需求再受關注。機構認為，模型能力提升正在拓展AI的應用空間，企業和使用者也更加重視使用成本與投入產出比。隨著模型加快進入實際工作流程，算力需求、任務執行效率和商業化進展成為觀察產業發展的重要線索。（中國證券報）"
+    },
     {
       "id": "5083782",
       "time": "2026-09-09 07:17:31",
