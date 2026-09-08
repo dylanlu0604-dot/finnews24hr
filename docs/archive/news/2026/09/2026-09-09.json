@@ -1,7 +1,40 @@
 {
   "date": "2026-09-09",
-  "count": 291,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a082b6-2041-7118-84f4-93f4208f9939",
+      "time": "2026-09-09 04:29:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. officials said U.S. forces struck multiple Iranian tankers linked to the Islamic Revolutionary Guard Corps in response to repeated missile-attack attempts on U.S. Navy ships."
+    },
+    {
+      "id": "5083665",
+      "time": "2026-09-09 04:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：作為對多起針對美國海軍艦艇的導彈襲擊未遂事件的回應，美軍打擊了多艘與伊斯蘭革命衛隊（IRGC）有關聯的伊朗油輪。"
+    },
+    {
+      "id": "mkt:01a082b5-c6f6-7118-84f4-8c62ca08bdb2",
+      "time": "2026-09-09 04:29:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude intraday gains widened to 2.00%, trading at $97.69/bbl."
+    },
     {
       "id": "mkt:01a082b2-343d-7118-84f4-81b40c706dcf",
       "time": "2026-09-09 04:25:11",

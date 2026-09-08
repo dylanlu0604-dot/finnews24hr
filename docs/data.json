@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-09 04:26:22",
+  "updated": "2026-09-09 04:30:20",
   "count": 13923,
   "items": [
+    {
+      "id": "mkt:01a082b6-2041-7118-84f4-93f4208f9939",
+      "time": "2026-09-09 04:29:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. officials said U.S. forces struck multiple Iranian tankers linked to the Islamic Revolutionary Guard Corps in response to repeated missile-attack attempts on U.S. Navy ships."
+    },
+    {
+      "id": "5083665",
+      "time": "2026-09-09 04:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：作為對多起針對美國海軍艦艇的導彈襲擊未遂事件的回應，美軍打擊了多艘與伊斯蘭革命衛隊（IRGC）有關聯的伊朗油輪。"
+    },
+    {
+      "id": "mkt:01a082b5-c6f6-7118-84f4-8c62ca08bdb2",
+      "time": "2026-09-09 04:29:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude intraday gains widened to 2.00%, trading at $97.69/bbl."
+    },
     {
       "id": "mkt:01a082b2-343d-7118-84f4-81b40c706dcf",
       "time": "2026-09-09 04:25:11",
@@ -127155,30 +127188,6 @@
         "其他"
       ],
       "text": "OpenAI：在籌備釋出Astra模型之際，我們致力於讓能力持續增強的人工智慧做到安全可控，並實現廣泛可用。Astra在網路安全能力方面取得重大進展，達到了我們《準備度框架》中的關鍵閾值。我們對外公開該模型的評估方式、防護措施如何隨模型能力同步迭代，以及我們將持續鑽研改進的方向。"
-    },
-    {
-      "id": "5071663",
-      "time": "2026-09-02 04:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊下屬媒體：伊朗在近期衝突中針對美軍基地及陣地發動了規模最大的一輪導彈齊射。此次打擊此前伊朗已發出警告，美國一旦發動襲擊，伊朗將作出數倍力度的反擊。本次齊射的主要打擊目標後續將正式公佈。"
-    },
-    {
-      "id": "5071662",
-      "time": "2026-09-02 04:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我從多個機構獲取特別軍事行動的進展情報，由此形成了相當客觀的戰況圖景。"
-    },
-    {
-      "id": "mkt:01a05ea8-8ac8-7118-8444-fc77cc14c1c0",
-      "time": "2026-09-02 04:28:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said he is receiving information from multiple agencies on progress of the special military operation and that \"a fairly objective overall picture is now taking shape.\""
     }
   ]
 }
