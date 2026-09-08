@@ -1,7 +1,90 @@
 {
-  "updated": "2026-09-09 07:37:37",
-  "count": 13823,
+  "updated": "2026-09-09 07:41:27",
+  "count": 13828,
   "items": [
+    {
+      "id": "5083808",
+      "time": "2026-09-09 07:39:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦稱，伊朗導彈襲擊後未出現人員傷亡。"
+    },
+    {
+      "id": "mkt:01a08364-0fef-7118-84f6-80bc51532d00",
+      "time": "2026-09-09 07:39:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Jordan said its air-defense system intercepted and destroyed 18 of 20 missiles launched by Iran, with the other two falling away from population centers; no casualties were reported after the Iranian missile strike."
+    },
+    {
+      "id": "mkt:01a08363-f579-7118-84f6-7a756e77cebf",
+      "time": "2026-09-09 07:39:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Germany's populist party had a significant night, is rising, and is fed up with immigration laws he said have seriously harmed Germany."
+    },
+    {
+      "id": "5083807",
+      "time": "2026-09-09 07:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦方面表示，防空系統攔截並摧毀了伊朗發射的20枚導彈中的18枚，剩餘兩枚落在遠離人口中心的區域。"
+    },
+    {
+      "id": "5083806",
+      "time": "2026-09-09 07:38:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：德國民粹主義政黨剛剛度過了一個非常重要的夜晚。"
+    },
+    {
+      "id": "5083805",
+      "time": "2026-09-09 07:37:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國調整對加拿大部分產品從價關稅適用範圍】當地時間9月8日，美國總統特朗普簽署公告，宣佈調整對加拿大部分產品徵收50%額外從價關稅的適用範圍，相關調整將於9月15日起生效。公告稱，美國政府此前認定，加拿大在機動車領域採取的相關措施對美國商業構成歧視，並對美國商業造成負擔。為抵消相關影響，美國此前決定對加拿大部分產品加徵50%的額外從價關稅。美國政府表示，在評估相關關稅措施的實施效果後認為，調整50%額外關稅所覆蓋的產品範圍，同樣能夠抵消美國商業受到的負擔或不利影響，並更符合公共利益。根據最新公告，美國將對部分加拿大產品適用50%的額外從價關稅，同時取消部分加拿大產品此前適用的50%額外關稅。具體涉及的產品以公告所附清單為準。新的關稅適用範圍將於美國東部時間9月15日凌晨0時01分起正式實施。"
+    },
+    {
+      "id": "mkt:01a08362-9d65-7118-84f6-728b582586dc",
+      "time": "2026-09-09 07:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tung Chee-hwa dies aged 89, office says】Tung Chee-hwa’s office said in a statement early on Sept. 9 that the former vice chairman of the CPPCC and Hong Kong’s first chief executive died peacefully in hospital on the evening of Sept. 8, 2026, at about 10:00 p.m., surrounded by family. He was 89."
+    },
+    {
+      "id": "mkt:01a08362-49da-7118-84f6-68e73d9cf187",
+      "time": "2026-09-09 07:37:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Jordanian authorities said Iran fired 20 ballistic missiles into Jordanian territory."
+    },
+    {
+      "id": "5083804",
+      "time": "2026-09-09 07:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦稱伊朗向其領土發射了20枚彈道導彈。"
+    },
     {
       "id": "5083803",
       "time": "2026-09-09 07:34:21",
@@ -126142,43 +126225,6 @@
         "Japan & APAC"
       ],
       "text": "Japan's finance minister Katayama said debt expansion is a global trend and described Japan's fiscal policy as aimed at achieving growth while maintaining fiscal sustainability."
-    },
-    {
-      "id": "mkt:01a05f57-78f8-7118-8448-d8ddf00da85d",
-      "time": "2026-09-02 07:39:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Governor Ueda said he met with U.S. Treasury Secretary Bessent but declined to comment on the content of their discussions."
-    },
-    {
-      "id": "mkt:01a05f57-7583-7118-8448-d5e2c4ba33f6",
-      "time": "2026-09-02 07:39:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Japan Governor UEDA said he discussed with other central banks the need, given shifts in the global environment, to strengthen communication to implement appropriate monetary policy and secure price stability."
-    },
-    {
-      "id": "5071842",
-      "time": "2026-09-02 07:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "日經新聞報道，豐田將推遲推出美國製造的電動汽車。"
-    },
-    {
-      "id": "mkt:01a05f55-ed0f-7118-8448-ced784b64e4b",
-      "time": "2026-09-02 07:37:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM News, citing Arab sources, reported at least four explosions in Bahrain and attributed them to an Iranian attack."
     }
   ]
 }
