@@ -1,7 +1,152 @@
 {
-  "updated": "2026-09-08 09:40:11",
-  "count": 14099,
+  "updated": "2026-09-08 09:44:07",
+  "count": 14100,
   "items": [
+    {
+      "id": "mkt:01a07eaf-11e3-7118-84d7-7ab780272474",
+      "time": "2026-09-08 09:43:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "China EV Leaders",
+        "00992.HK",
+        "Impact bearish",
+        "01810.HK",
+        "02015.HK"
+      ],
+      "text": "Hang Seng TECH Index fell more than 1% in early trade; HSI down 0.68%. Lenovo Group (00992.HK) dropped over 4.5%, Xiaomi Group (01810.HK) down about 3%, Li Auto (02015.HK) and Leapmotor (09863.HK) each off more than 2%."
+    },
+    {
+      "id": "mkt:01a07eae-641a-7118-84d7-73c970684280",
+      "time": "2026-09-08 09:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: Flights to and from Indonesia's capital Jakarta have resumed after a volcanic eruption closed the airport for two days and grounded nearly 3,000 flights."
+    },
+    {
+      "id": "5081799",
+      "time": "2026-09-08 09:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國富人壽擬增資5.4億元】近日，國富人壽釋出的公告顯示，公司擬增資4.5億股，每股單價1.20元，合計增資5.4億元。公告顯示，此次參與國富人壽增資的均為其現有股東，其中，廣州唯品會資訊科技有限公司認購5000萬股；廣西投資集團金融控股有限公司認購4億股。此次變更註冊資本事項尚待國家金融監督管理總局廣西監管局批准後生效。"
+    },
+    {
+      "id": "5081798",
+      "time": "2026-09-08 09:42:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4482.040點；恒生指數現跌0.669%。"
+    },
+    {
+      "id": "5081797",
+      "time": "2026-09-08 09:42:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6G概念震盪走強 武漢凡谷漲停】6G概念震盪走強，武漢凡谷漲停，廣哈通訊漲超17%，盛路通訊、通宇通訊、三維通訊跟漲。"
+    },
+    {
+      "id": "5081796",
+      "time": "2026-09-08 09:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "HMM贏得淡水河谷的4.7萬億韓元長期運輸合同。"
+    },
+    {
+      "id": "mkt:01a07ead-9fb1-7118-84d7-6946ac06ebd2",
+      "time": "2026-09-08 09:41:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister KATAYAMA said she will continue to work to maintain orderly functioning of the FX market."
+    },
+    {
+      "id": "5081795",
+      "time": "2026-09-08 09:41:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5081794",
+      "time": "2026-09-08 09:41:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州交通建設集團有限公司原黨委書記、董事長汪金育被查】據貴州省紀委監委訊息：貴州交通建設集團有限公司原黨委書記、董事長汪金育涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5081793",
+      "time": "2026-09-08 09:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿根廷對原產於中國的發動機用冷卻液泵或水泵啟動反傾銷日落合併情勢變遷複審調查】9月4日，阿根廷經濟部發布2026年第1459號公告，應阿根廷生產商VMGSA申請，對原產於中國的發動機用冷卻液泵或水泵啟動反傾銷第三次日落複審調查，同時啟動情勢變遷複審調查。本案傾銷調查期為2025年6月至2026年5月，損害調查期為2023年1月至2026年5月。涉案產品流量在2立方米/小時至18立方米/小時之間、重量在0.5千克/件至18千克/件之間，用於汽車、卡車、貨車、多功能車、農業裝置、拖拉機、船隻、發電機組、移動裝置和其他固定火花點火或壓縮發動機，不包括鐵路、航空用以及下列品牌的發動機用冷卻液泵：起亞、三菱、卡特彼勒、躍進、克萊斯勒、康明斯、道依茨和鈴木。涉案產品的南共市稅號為8413.30.90。案件調查期間，暫停對涉案產品徵收反傾銷稅。公告自發布之日起生效。"
+    },
+    {
+      "id": "5081792",
+      "time": "2026-09-08 09:40:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：正與美國就外匯市場保持密切溝通。"
+    },
+    {
+      "id": "mkt:01a07eac-846f-7118-84d7-659d7b5a0a40",
+      "time": "2026-09-08 09:40:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share CPO sector extended yesterday's gains; Jianqiao Technology, Xingsen Technology and Zhongjing Electronics hit the daily limit, Xunjiexing rose over 11%, and Yakang, Huashengchang and Wuhan Fangu advanced."
+    },
+    {
+      "id": "te:markets:581784",
+      "time": "2026-09-08 09:40:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "TE Metals Index Hits 4-week High — TE Metals Index increased to 7122.00 Index Points, the highest since August 2026. Over the past 4 weeks, TE Metals Index gained 0.74%, and in the last 12 months, it increased 33.5%."
+    },
+    {
+      "id": "5081791",
+      "time": "2026-09-08 09:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：抵押貸款機構必須透過與銀行溝通來了解利率上升的風險，這一點至關重要。"
+    },
+    {
+      "id": "mkt:01a07eac-3bc2-7118-84d7-5826e463634b",
+      "time": "2026-09-08 09:40:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said mortgage lenders should understand the risk of higher interest rates through communication with banks."
+    },
     {
       "id": "te:markets:581783",
       "time": "2026-09-08 09:39:31",
@@ -128837,140 +128982,6 @@
         "Important"
       ],
       "text": "South Korea's budget minister said the government has proposed a KRW 26 trillion earmarked special budget for the semiconductor industry in 2027."
-    },
-    {
-      "id": "5069750",
-      "time": "2026-09-01 09:43:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【投資收益超3900億元 全國社保基金2025年年報釋出】9月1日，全國社會保障基金理事會發布的2025年度報告顯示，2025年，全國社會保障基金投資收益額為3906.72億元，投資收益率為13.22%。基金自成立以來的年均投資收益率為7.62%，累計投資收益額為22916.79億元。"
-    },
-    {
-      "id": "5069749",
-      "time": "2026-09-01 09:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國預算部長官：提議在2027年撥款2.6萬億韓元用於晶片產業特別預算。"
-    },
-    {
-      "id": "5069748",
-      "time": "2026-09-01 09:43:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "mkt:01a05aa2-4996-7118-8425-65c62b3315f0",
-      "time": "2026-09-01 09:43:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Newly listed stock N Ma Mining surged more than 300%."
-    },
-    {
-      "id": "5069747",
-      "time": "2026-09-01 09:42:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "快手科技股價上漲4.05%，報34.94港元。"
-    },
-    {
-      "id": "5069746",
-      "time": "2026-09-01 09:42:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【數字貨幣概念震盪拉昇 恆寶股份漲停】數字貨幣概念震盪拉昇，恆寶股份漲停，四方精創、翠微股份、拉卡拉、楚天龍跟漲。"
-    },
-    {
-      "id": "5069745",
-      "time": "2026-09-01 09:42:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊震盪走強 茂業商業等漲停】零售板塊震盪走強，茂業商業、國芳集團等多股漲停，供銷大集、百大集團、中百集團等跟漲。"
-    },
-    {
-      "id": "5069744",
-      "time": "2026-09-01 09:42:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易居企業控股漲近11% 上半年淨利潤同比扭虧為盈】截至發稿，易居企業控股(02048.HK)漲10.71%。該公司釋出截至2026年6月30日止六個月業績，其中收入8.13億元，同比減少35.54%；公司擁有人應占利潤4524.5萬元，去年同期則取得虧損2.98億元。"
-    },
-    {
-      "id": "mkt:01a05aa1-682a-7118-8425-5bd457cb0314",
-      "time": "2026-09-01 09:42:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share AI intelligent-agent sector rallied; Zhongwen Online jumped over 9%, Bangyan Technology and Leo Co. climbed more than 8%, with Chuling Information, Dashi Intelligent, Wanxing Technology and Qingmu Technology also advancing. The MIIT General Office issued a notice launching a special action to cultivate AI application service providers, saying it will explore procurement models such as first-purchase–first-use and risk compensation and increase procurement of large models, intelligent agents and token-related services to raise industry model and AI quality and efficiency."
-    },
-    {
-      "id": "5069743",
-      "time": "2026-09-01 09:41:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞10年期國債收益率升至5.18%，為2011年以來最高水平。"
-    },
-    {
-      "id": "mkt:01a05aa0-2137-7118-8425-5763b4e0f4f6",
-      "time": "2026-09-01 09:40:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's budget minister says the 2027 budget will be 821 trillion won."
-    },
-    {
-      "id": "5069742",
-      "time": "2026-09-01 09:40:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國預算部長官：2027年預算為821萬億韓元。"
-    },
-    {
-      "id": "mkt:01a05a9f-ffb6-7118-8425-4a9927392533",
-      "time": "2026-09-01 09:40:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00625.HK",
-        "Impact bearish"
-      ],
-      "text": "Xiyin-W (00625.HK) down more than 10%."
-    },
-    {
-      "id": "mkt:01a05a9f-c183-7118-8425-4214c2bd400e",
-      "time": "2026-09-01 09:40:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "601939.SS",
-        "Impact bullish",
-        "601988.SS",
-        "601998.SS"
-      ],
-      "text": "China Construction Bank, Bank of China and CITIC Bank A-H shares all hit record highs in early trade."
     }
   ]
 }
