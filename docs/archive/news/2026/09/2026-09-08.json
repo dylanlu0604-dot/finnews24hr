@@ -1,7 +1,123 @@
 {
   "date": "2026-09-08",
-  "count": 2281,
+  "count": 2293,
   "items": [
+    {
+      "id": "mkt:01a08187-0501-7118-84ee-bc98d4f1e53d",
+      "time": "2026-09-08 22:58:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said U.S. commerce secretary Lutnick \"has some flaws\" but is performing very well overall."
+    },
+    {
+      "id": "5083413",
+      "time": "2026-09-08 22:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：盧特尼克“有一些缺點”，但總體來說非常優秀。"
+    },
+    {
+      "id": "te:economy:582096",
+      "time": "2026-09-08 22:57:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Brazil Auto Sales Slip in August — Brazil’s new-vehicle sales fell 1.6% month over month to 275,100 units in August 2026, following a 2.6% increase in July. August had two fewer business days. Light-vehicle sales totaled 263,100 units, with passenger cars up 0.2% to 213,100, while light commercial vehicles fell 5.5% to 50,000. Heavy-vehicle sales totaled 12,000 units, as truck sales slumped 14.1% to 10,000 and bus sales dropped 9.4% to 2,000. Electrified vehicles reached a record 24.4% share, including a record 25,900 fully electric vehicles. Average daily sales were 13,100 units, the second-highest level this year, behind May’s 13,700. Year to date, sales reached 1.975 million units, up 18.4% year-on-year. The 2 million-unit mark was reached in early September, one month earlier than in 2025."
+    },
+    {
+      "id": "mkt:01a08185-8550-7118-84ee-b3bb3c73df49",
+      "time": "2026-09-08 22:56:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says it seized 'world's most advanced' US UUV at Strait of Hormuz; US not yet confirmed】Iran's Islamic Revolutionary Guard Corps Navy said early today it captured a US unmanned underwater vehicle (UUV) at the entrance to the Strait of Hormuz and brought it into Iran. The IRGC described the craft as \"one of the world's most advanced intelligent unmanned submarines,\" said it was delivered to the US Navy in 2025, and said it was seized in a \"complex\" facility. The IRGC said it will publish photos within hours. The US has not confirmed the claim."
+    },
+    {
+      "id": "5083412",
+      "time": "2026-09-08 22:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國空軍連續三場聯訓展現全域作戰能力】中國空軍近期與泰國、埃及、阿聯酋三國分別進行了三場聯合訓練，展示了其在不同地理和氣候條件下的作戰能力。其中，與阿聯酋的“獵鷹盾牌-2026”聯訓中，雙方深入交流了幻影2000-9戰機的特點，並展示了包括A330空中加油機和C17運輸機在內的遠端保障體系。此外，中國還向埃及派出多型軍機參加航展，展示了國產航空裝備的國際化前景。這些聯合訓練不僅提升了中國空軍的遠端投送和全域作戰能力，也為國際社會提供了直觀的參考。（央視新聞）"
+    },
+    {
+      "id": "5083411",
+      "time": "2026-09-08 22:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普重申伊朗永遠不會擁有核武器。"
+    },
+    {
+      "id": "mkt:01a08184-5fbb-7118-84ee-adc8299212ae",
+      "time": "2026-09-08 22:55:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump reiterated that the blockade of Iran is \"very effective\"."
+    },
+    {
+      "id": "mkt:01a08184-4613-7118-84ee-a72a0060028e",
+      "time": "2026-09-08 22:55:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's Islamic Revolutionary Guard Corps navy says it seized a US unmanned submarine】The Islamic Revolutionary Guard Corps navy said on the 8th local time that at dawn its forces seized an advanced US military autonomous unmanned submarine at the entrance to the Strait of Hormuz following a complex intelligence and operational action. The statement said related images will be released in the coming hours."
+    },
+    {
+      "id": "5083410",
+      "time": "2026-09-08 22:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申對伊朗的封鎖“非常有效”。"
+    },
+    {
+      "id": "te:markets:582095",
+      "time": "2026-09-08 22:55:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 33-month Low — Stryker shares decreased to 279.13 USD, the lowest since November 2023. Over the past 4 weeks, Stryker lost 19.06%, and in the last 12 months, it decreased 28.74%."
+    },
+    {
+      "id": "5083409",
+      "time": "2026-09-08 22:55:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方稱捕獲一艘美國無人潛艇】當地時間8日，伊朗伊斯蘭革命衛隊海軍發表宣告稱，其部隊於當天黎明時分在霍爾木茲海峽入口處，透過一次複雜的情報和作戰行動，成功捕獲了一艘美國軍隊最先進的智慧無人潛艇。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08183-5f60-7118-84ee-99a6a4513b39",
+      "time": "2026-09-08 22:54:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump reiterated that Iran will never possess nuclear weapons."
+    },
     {
       "id": "5083408",
       "time": "2026-09-08 22:53:32",

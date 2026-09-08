@@ -1,7 +1,123 @@
 {
-  "updated": "2026-09-08 22:54:54",
+  "updated": "2026-09-08 22:58:53",
   "count": 14075,
   "items": [
+    {
+      "id": "mkt:01a08187-0501-7118-84ee-bc98d4f1e53d",
+      "time": "2026-09-08 22:58:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said U.S. commerce secretary Lutnick \"has some flaws\" but is performing very well overall."
+    },
+    {
+      "id": "5083413",
+      "time": "2026-09-08 22:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：盧特尼克“有一些缺點”，但總體來說非常優秀。"
+    },
+    {
+      "id": "te:economy:582096",
+      "time": "2026-09-08 22:57:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Brazil Auto Sales Slip in August — Brazil’s new-vehicle sales fell 1.6% month over month to 275,100 units in August 2026, following a 2.6% increase in July. August had two fewer business days. Light-vehicle sales totaled 263,100 units, with passenger cars up 0.2% to 213,100, while light commercial vehicles fell 5.5% to 50,000. Heavy-vehicle sales totaled 12,000 units, as truck sales slumped 14.1% to 10,000 and bus sales dropped 9.4% to 2,000. Electrified vehicles reached a record 24.4% share, including a record 25,900 fully electric vehicles. Average daily sales were 13,100 units, the second-highest level this year, behind May’s 13,700. Year to date, sales reached 1.975 million units, up 18.4% year-on-year. The 2 million-unit mark was reached in early September, one month earlier than in 2025."
+    },
+    {
+      "id": "mkt:01a08185-8550-7118-84ee-b3bb3c73df49",
+      "time": "2026-09-08 22:56:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says it seized 'world's most advanced' US UUV at Strait of Hormuz; US not yet confirmed】Iran's Islamic Revolutionary Guard Corps Navy said early today it captured a US unmanned underwater vehicle (UUV) at the entrance to the Strait of Hormuz and brought it into Iran. The IRGC described the craft as \"one of the world's most advanced intelligent unmanned submarines,\" said it was delivered to the US Navy in 2025, and said it was seized in a \"complex\" facility. The IRGC said it will publish photos within hours. The US has not confirmed the claim."
+    },
+    {
+      "id": "5083412",
+      "time": "2026-09-08 22:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國空軍連續三場聯訓展現全域作戰能力】中國空軍近期與泰國、埃及、阿聯酋三國分別進行了三場聯合訓練，展示了其在不同地理和氣候條件下的作戰能力。其中，與阿聯酋的“獵鷹盾牌-2026”聯訓中，雙方深入交流了幻影2000-9戰機的特點，並展示了包括A330空中加油機和C17運輸機在內的遠端保障體系。此外，中國還向埃及派出多型軍機參加航展，展示了國產航空裝備的國際化前景。這些聯合訓練不僅提升了中國空軍的遠端投送和全域作戰能力，也為國際社會提供了直觀的參考。（央視新聞）"
+    },
+    {
+      "id": "5083411",
+      "time": "2026-09-08 22:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普重申伊朗永遠不會擁有核武器。"
+    },
+    {
+      "id": "mkt:01a08184-5fbb-7118-84ee-adc8299212ae",
+      "time": "2026-09-08 22:55:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump reiterated that the blockade of Iran is \"very effective\"."
+    },
+    {
+      "id": "mkt:01a08184-4613-7118-84ee-a72a0060028e",
+      "time": "2026-09-08 22:55:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's Islamic Revolutionary Guard Corps navy says it seized a US unmanned submarine】The Islamic Revolutionary Guard Corps navy said on the 8th local time that at dawn its forces seized an advanced US military autonomous unmanned submarine at the entrance to the Strait of Hormuz following a complex intelligence and operational action. The statement said related images will be released in the coming hours."
+    },
+    {
+      "id": "5083410",
+      "time": "2026-09-08 22:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申對伊朗的封鎖“非常有效”。"
+    },
+    {
+      "id": "te:markets:582095",
+      "time": "2026-09-08 22:55:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 33-month Low — Stryker shares decreased to 279.13 USD, the lowest since November 2023. Over the past 4 weeks, Stryker lost 19.06%, and in the last 12 months, it decreased 28.74%."
+    },
+    {
+      "id": "5083409",
+      "time": "2026-09-08 22:55:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方稱捕獲一艘美國無人潛艇】當地時間8日，伊朗伊斯蘭革命衛隊海軍發表宣告稱，其部隊於當天黎明時分在霍爾木茲海峽入口處，透過一次複雜的情報和作戰行動，成功捕獲了一艘美國軍隊最先進的智慧無人潛艇。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08183-5f60-7118-84ee-99a6a4513b39",
+      "time": "2026-09-08 22:54:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump reiterated that Iran will never possess nuclear weapons."
+    },
     {
       "id": "5083408",
       "time": "2026-09-08 22:53:32",
@@ -128504,109 +128620,6 @@
         "其他"
       ],
       "text": "貝森特：尚不清楚G20財長是否會採取必要措施以實現更高增長。"
-    },
-    {
-      "id": "5071348",
-      "time": "2026-09-01 22:58:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投集團與中國聯通簽署戰略合作協議】9月1日，國家電投集團與中國聯通簽署戰略合作協議。雙方將以本次簽署戰略合作協議為契機，充分發揮各自優勢，在算電協同、人工智慧、基礎通訊、算力服務等方面務實合作，共同推動我國算力產業高質量發展。"
-    },
-    {
-      "id": "5071347",
-      "time": "2026-09-01 22:58:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：G20部長們希望實現更強勁增長。"
-    },
-    {
-      "id": "5071346",
-      "time": "2026-09-01 22:58:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：預計各方都會在伊朗問題上與我們立場保持一致。"
-    },
-    {
-      "id": "5071345",
-      "time": "2026-09-01 22:57:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "多鄰國股價上漲5.8%，此前Evercore ISI將其評級從“與大盤持平”上調至“跑贏大盤”。"
-    },
-    {
-      "id": "5071344",
-      "time": "2026-09-01 22:57:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：我認為日本正在為經濟採取正確的舉措。"
-    },
-    {
-      "id": "5071343",
-      "time": "2026-09-01 22:57:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：鋰生產商雅寶公司在智利申請工資調解，從而推遲了罷工的可能性。"
-    },
-    {
-      "id": "5071342",
-      "time": "2026-09-01 22:57:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆稱將公佈公共服務公有化管控的十年計劃。"
-    },
-    {
-      "id": "te:markets:580119",
-      "time": "2026-09-01 22:56:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Canola Hits 3-year High — Canola increased to 839.40 CAD/T, the highest since July 2023. Over the past 4 weeks, Canola gained 10.27%, and in the last 12 months, it increased 32.95%."
-    },
-    {
-      "id": "te:markets:580118",
-      "time": "2026-09-01 22:56:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Rapeseed Hits 5-week High — Rapeseed increased to 555.00 EUR/T, the highest since July 2026. Over the past 4 weeks, Rapeseed gained 5.98%, and in the last 12 months, it increased 18.29%."
-    },
-    {
-      "id": "5071341",
-      "time": "2026-09-01 22:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院議長約翰遜推動臨時撥款法案 避免政府停擺】美國眾議院議長邁克·約翰遜及共和黨領導人於週二發表講話，與此同時，議員們正準備審議一項已在參議院透過的臨時撥款法案，該法案旨在趕在9月30日截止日期前避免又一次政府停擺。 這項持續決議案若獲透過，將把政府資金支援延長至12月11日。參議院已於本月早些時候推動了這項措施。該持續決議案還包括一項條款，暫時叫停白宮的一項預算規定，該規定原本會賦予政治任命官員在聯邦撥款分配方面更大的權力。 共和黨人預計還將著手處理其他關鍵優先事項。"
-    },
-    {
-      "id": "5071340",
-      "time": "2026-09-01 22:56:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆表示，企業接入電網耗時過長。"
-    },
-    {
-      "id": "5071339",
-      "time": "2026-09-01 22:56:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州全面啟動國家資料領域國際合作試點，探索資料跨境流動新方案】9月1日，國家資料領域國際合作廣州試點啟動會暨南沙“國際數港”建設工作推進會在南沙召開。會議現場，省、市、區及港澳代表共同啟動試點，標誌著粵港澳資料協同邁出關鍵一步，資料跨境流動有了“廣州方案”。廣州市政務服務和資料管理局資料要素流通處處長葉毅超受訪表示，廣州特色就是發揮粵港澳大灣區核心引擎作用，以南沙為樞紐，推動穗港澳三地協同，共建粵港澳資料合作先行區。（21財經）"
     }
   ]
 }
