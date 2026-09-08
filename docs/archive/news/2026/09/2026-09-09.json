@@ -1,7 +1,54 @@
 {
   "date": "2026-09-09",
-  "count": 141,
+  "count": 146,
   "items": [
+    {
+      "id": "te:markets:582132",
+      "time": "2026-09-09 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.22% — Top commodity losers are Cocoa (-4.22%) and Coffee (-1.91%). Gains are led by Rubber (3.20%), Wheat (1.90%) and Canola (1.82%)."
+    },
+    {
+      "id": "5083582",
+      "time": "2026-09-09 02:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長稱，未來12-18個月的重點是擴大使用者規模，包括提高新使用者留存率。"
+    },
+    {
+      "id": "mkt:01a08241-e4d2-7118-84f2-d891841f9d07",
+      "time": "2026-09-09 02:22:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Postal Service inspector general plans an independent review of whistleblower allegations that USPS officials planned to restrict mail-in ballots."
+    },
+    {
+      "id": "5083581",
+      "time": "2026-09-09 02:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：歷經47年制裁後，美國代表以色列向伊朗開戰。後果對美國而言堪稱災難，包括其全球地位受損。在制裁與戰爭均無法達成目標後，華盛頓的新方案竟是更多制裁。這當真？"
+    },
+    {
+      "id": "mkt:01a08241-2825-7118-84f2-d62f8d721da8",
+      "time": "2026-09-09 02:21:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iranian foreign minister Araghchi said after 47 years of sanctions, the US, acting through Israel, has waged war on Iran. The conflict has inflicted catastrophic consequences for the US, including damage to its global standing. Having failed to achieve its aims through sanctions and war, Washington's \"new plan\" is more sanctions — really?"
+    },
     {
       "id": "5083580",
       "time": "2026-09-09 02:20:58",

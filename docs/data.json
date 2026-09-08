@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-09 02:22:09",
-  "count": 13982,
+  "updated": "2026-09-09 02:25:58",
+  "count": 13980,
   "items": [
+    {
+      "id": "te:markets:582132",
+      "time": "2026-09-09 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.22% — Top commodity losers are Cocoa (-4.22%) and Coffee (-1.91%). Gains are led by Rubber (3.20%), Wheat (1.90%) and Canola (1.82%)."
+    },
+    {
+      "id": "5083582",
+      "time": "2026-09-09 02:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "Reddit執行長稱，未來12-18個月的重點是擴大使用者規模，包括提高新使用者留存率。"
+    },
+    {
+      "id": "mkt:01a08241-e4d2-7118-84f2-d891841f9d07",
+      "time": "2026-09-09 02:22:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Postal Service inspector general plans an independent review of whistleblower allegations that USPS officials planned to restrict mail-in ballots."
+    },
+    {
+      "id": "5083581",
+      "time": "2026-09-09 02:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：歷經47年制裁後，美國代表以色列向伊朗開戰。後果對美國而言堪稱災難，包括其全球地位受損。在制裁與戰爭均無法達成目標後，華盛頓的新方案竟是更多制裁。這當真？"
+    },
+    {
+      "id": "mkt:01a08241-2825-7118-84f2-d62f8d721da8",
+      "time": "2026-09-09 02:21:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iranian foreign minister Araghchi said after 47 years of sanctions, the US, acting through Israel, has waged war on Iran. The conflict has inflicted catastrophic consequences for the US, including damage to its global standing. Having failed to achieve its aims through sanctions and war, Washington's \"new plan\" is more sanctions — really?"
+    },
     {
       "id": "5083580",
       "time": "2026-09-09 02:20:58",
@@ -127568,80 +127615,6 @@
         "公司"
       ],
       "text": "扎克伯格在二十國集團技術會議上表示，各國不應限制開放權重人工智慧模型。"
-    },
-    {
-      "id": "5071547",
-      "time": "2026-09-02 02:25:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗軍方表示，其對巴林和科威特將 “不再保持克制”，並稱 “報復禮物即將送達”。"
-    },
-    {
-      "id": "mkt:01a05e37-ed5f-7118-8442-48984e2895d3",
-      "time": "2026-09-02 02:25:18",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【US Congress passes stopgap funding bill to avert government shutdown】US Congress passed a stopgap appropriations bill to avert an Oct. 1 government shutdown, funding the government through Dec. 11. The House approved the measure 370-48 after the Senate had already cleared it; the bill has been sent to President Trump and has White House support. Lawmakers have passed none of the 12 annual appropriations for the new fiscal year, requiring this continuing resolution. The measure postpones disputes over Pentagon budget increases and Republican proposals to cut social programs until after the midterm elections. House Republicans also plan to delay consideration of a separate $95bn Iran emergency funding bill, and a proposal to add $350bn to the Pentagon’s base budget has been pushed to the autumn."
-    },
-    {
-      "id": "te:markets:580162",
-      "time": "2026-09-02 02:25:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Rallies by 7.45% — Top commodity gainers are Palm Oil (7.45%) and Canola (3.68%). Biggest losers are Cocoa (-3.87%), Cotton (-1.82%) and Lumber (-1.58%)."
-    },
-    {
-      "id": "5071546",
-      "time": "2026-09-02 02:23:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗發射導彈。"
-    },
-    {
-      "id": "mkt:01a05e36-874e-7118-8442-43b01160e007",
-      "time": "2026-09-02 02:23:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News Agency reported Iran launched missiles and drones at enemy positions."
-    },
-    {
-      "id": "5071545",
-      "time": "2026-09-02 02:23:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國東部一變電站發現多個爆炸裝置】德國東部勃蘭登堡州一座變電站1日發現多個爆炸裝置。當地能源企業負責人當天表示，相關破壞行為導致變電站附近延施瓦爾德燃煤電廠一臺機組突然停運。（新華社）"
-    },
-    {
-      "id": "mkt:01a05e35-f15f-7118-8442-3eb928b2bce7",
-      "time": "2026-09-02 02:23:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran warns Bahrain and Kuwait, 'gifts are on the way'】The Iranian military said it will no longer show restraint toward Bahrain and Kuwait and that \"gifts are on the way,\" issuing the warning after US strikes on Islamic Revolutionary Guard Corps (IRGC) targets. Iran has been accused of attacks on commercial shipping and US forces. US President Trump warned any Iranian retaliation would provoke a stronger US response."
     }
   ]
 }
