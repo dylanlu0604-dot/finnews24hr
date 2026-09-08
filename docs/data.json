@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-08 23:06:53",
-  "count": 14097,
+  "updated": "2026-09-08 23:10:49",
+  "count": 14105,
   "items": [
+    {
+      "id": "5083435",
+      "time": "2026-09-08 23:09:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "空中客車：開羅航空訂購15架空客A320neo飛機。"
+    },
+    {
+      "id": "mkt:01a08191-32ff-7118-84ef-86fac93d659c",
+      "time": "2026-09-08 23:09:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "BondBloxx Investment Management said the Federal Reserve's September rate decision is a coin flip."
+    },
+    {
+      "id": "5083434",
+      "time": "2026-09-08 23:09:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟與加拿大計劃達成一份意義深遠的協議，以加強雙邊夥伴關係】歐盟和加拿大正致力於構建全新的全方位夥伴關係，合作涵蓋貿易、安全等各個領域。這兩個跨大西洋夥伴力圖組建新聯盟，對沖由美國和中國主導的全球大國政治格局。據瞭解籌備工作的訊息人士稱，歐盟最高行政長官、歐盟委員會主席馮德萊恩預計將於9月16日在法國斯特拉斯堡發表盟情諮文時公佈該計劃。加拿大總理馬克·卡尼將出席這場演講，並於次日向歐洲議員發表講話。"
+    },
+    {
+      "id": "te:economy:582102",
+      "time": "2026-09-08 23:09:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Inflation Expectations Remain Elevated — US consumers’ median one-year inflation expectations were unchanged at 3.6% in August 2026s, according to the Federal Reserve Bank of New York’s Survey of Consumer Expectations. However, expected price growth for gas rose 1.7 percentage points to 4.6%, while food expectations increased 0.3 percentage point to 5.3%. Medical-care price expectations rose 0.2 percentage point to 9.1%. Expectations for college education costs increased 0.3 percentage point to 6.1%, while rent expectations climbed 0.7 percentage point to 6.6%. Meanwhile, the five-year-ahead measure was unchanged at 3%, while three-year-ahead expectations edged down 0.1 percentage point to 3.2%. Elsewhere, median expectations for one-year-ahead earnings growth increased slightly to 2.9%. Concerns about the labour market also intensified, with the mean probability that unemployment will be higher in a year rising 1.6 percentage points to 44.4%, the highest level since April 2020."
+    },
+    {
+      "id": "mkt:01a08190-26f8-7118-84ef-7fd770a8d709",
+      "time": "2026-09-08 23:08:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EZJ.L",
+        "Impact bearish"
+      ],
+      "text": "EasyJet said a failure in the UK air traffic control system caused flight delays across Europe and forced cancellation of some services."
+    },
+    {
+      "id": "mkt:01a0818f-ddc3-7118-84ef-73100666b8b9",
+      "time": "2026-09-08 23:08:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he expects the economy will draw more people back into the labor force."
+    },
+    {
+      "id": "5083432",
+      "time": "2026-09-08 23:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計經濟將促使更多人重返勞動力市場。"
+    },
+    {
+      "id": "5083431",
+      "time": "2026-09-08 23:07:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：薪資上漲，但由於供給擴張，不會引發通脹。"
+    },
+    {
+      "id": "mkt:01a0818e-c2a6-7118-84ef-69c8e2075dd2",
+      "time": "2026-09-08 23:06:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio concluded his remarks."
+    },
+    {
+      "id": "5083430",
+      "time": "2026-09-08 23:06:39",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍8日發表宣告稱，當天凌晨在霍爾木茲海峽入口處捕獲一艘美軍智慧無人潛航器。（新華社）"
+    },
+    {
+      "id": "5083429",
+      "time": "2026-09-08 23:06:28",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部週二制裁27家伊朗航空公司以及若干其他實體。此次行動將所有尚未遭到制裁的伊朗航空公司納入打擊範圍，並警告與這些航司開展業務的企業，它們可能被剝奪全球金融體系的准入資格。"
+    },
     {
       "id": "mkt:01a0818e-05d6-7118-84ef-6768330ece0f",
       "time": "2026-09-08 23:06:03",
@@ -128824,32 +128934,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗議會國家安全委員會批准了霍爾木茲海峽法案中涉及賠償的相關條款。"
-    },
-    {
-      "id": "5071365",
-      "time": "2026-09-01 23:10:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家安全委員會發言人： 委員會批准了《霍爾木茲海峽可持續安全與進步戰略行動》法案第二條第 5 款，該條款要求為航道通行潛在風險提供銀行擔保與保險保障。法案第六條亦獲透過，該條明確了服務費與保險費率的確定機制及執行條例。"
-    },
-    {
-      "id": "5071364",
-      "time": "2026-09-01 23:09:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部：印度財長與美國財長承諾在關鍵礦產等多個領域深化印美關係。"
-    },
-    {
-      "id": "5071363",
-      "time": "2026-09-01 23:08:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部：印度財政部長邀請美國財長貝森特於今年晚些時候赴新德里出席經濟與金融夥伴關係相關活動。"
     }
   ]
 }
