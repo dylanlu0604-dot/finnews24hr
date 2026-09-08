@@ -1,7 +1,157 @@
 {
-  "updated": "2026-09-09 05:06:11",
-  "count": 13879,
+  "updated": "2026-09-09 05:10:06",
+  "count": 13889,
   "items": [
+    {
+      "id": "5083693",
+      "time": "2026-09-09 05:09:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（9月8日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7068元，較週一紐約尾盤漲24點，日內整體交投於6.7115-6.7061元區間。"
+    },
+    {
+      "id": "5083692",
+      "time": "2026-09-09 05:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普指示政府採購剔除加拿大產品】美國總統特朗普當地時間9月8日在社交媒體平臺發帖，再次指責加拿大“多年來一直在佔美國的便宜”，並稱加拿大在向美國施加“貿易騙局”。特朗普稱，“加拿大聯邦及各省政府，禁止美國中小企業進入加拿大的政府採購市場。可與此同時，加拿大卻可以充分進入規模龐大的美國政府採購市場，包括美國各州的政府採購。從現在起，沒有互惠就別想進入我們的市場！我特此指示美國總務管理局會同美國貿易代表辦公室，採取一切必要措施，將加拿大原產產品從總務管理局的多重授予採購計劃中移除，除非加拿大恢復對美國農民和企業的全面公平互惠。”特朗普在帖文中稱，“這些採購涉及的年貿易額超過500億美元。這事兒早該被之前的政府切斷了，就像我當年做的那樣，可結果卻被‘瞌睡喬’拜登恢復了。” (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a082da-64b5-7118-84f4-e17f50d9f5a4",
+      "time": "2026-09-09 05:09:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said after meeting Colombia's president that security and prosperity are the primary priorities in U.S.-Colombia relations."
+    },
+    {
+      "id": "mkt:01a082da-629c-7118-84f4-de713c5722f4",
+      "time": "2026-09-09 05:09:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish",
+        "BX.N"
+      ],
+      "text": "【Alphabet-Blackstone $5bn AI data-center project Project Braid delayed】People familiar said Alphabet (GOOG.O) and Blackstone (BX.N)’s $5bn AI cloud project Project Braid has encountered data-center construction delays. The project, backed by Blackstone’s $5bn investment and intended to lease Google AI-chip compute to customers in 2027, had planned for developer Crusoe to build a Cheyenne, Wyoming site; Alphabet canceled that arrangement, took over the build and refiled permits after losing confidence in Crusoe’s ability to deliver. Crusoe has been involved in OpenAI and ORACLE’s Texas “Stargate” facility. Another planned site is stalled by a shortage of required transformers. Sources said AI data-center development is being constrained by power-equipment supply bottlenecks and permitting delays. Project Braid’s head said the programme is proceeding and aims to provide 500 MW of compute capacity next year."
+    },
+    {
+      "id": "5083691",
+      "time": "2026-09-09 05:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：安全與繁榮是美哥關係的首要議題。"
+    },
+    {
+      "id": "5083690",
+      "time": "2026-09-09 05:08:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "“新債王”岡拉克：美國收益率將繼續上升。美聯儲基準利率應提高50個基點。美國2年期收益率與聯邦基金利率不同步。"
+    },
+    {
+      "id": "mkt:01a082d9-87ce-7118-84f4-d04c3fd483b6",
+      "time": "2026-09-09 05:08:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)"
+      ],
+      "text": "GUNDLACH says U.S. 2-year yield is not tracking the federal funds rate."
+    },
+    {
+      "id": "mkt:01a082d9-571d-7118-84f4-ca602dfca459",
+      "time": "2026-09-09 05:07:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Gundlach says the Federal Reserve's policy rate should be raised by 50 bps."
+    },
+    {
+      "id": "5083689",
+      "time": "2026-09-09 05:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：應規避全球 30 年期債券的風險敞口。"
+    },
+    {
+      "id": "mkt:01a082d8-f2af-7118-84f4-c2377dd5b574",
+      "time": "2026-09-09 05:07:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Gundlach said investors should avoid 30-year bonds globally and that U.S. yields will continue to rise."
+    },
+    {
+      "id": "5083688",
+      "time": "2026-09-09 05:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞與美國簽署民用核合作諒解備忘錄（MOU）。"
+    },
+    {
+      "id": "5083687",
+      "time": "2026-09-09 05:06:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：韓國在霍爾木茲海峽所扮演角色的相關評估，與美韓投資談判並無關聯。"
+    },
+    {
+      "id": "5083686",
+      "time": "2026-09-09 05:06:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國與哥倫比亞進入前所未有的合作階段。"
+    },
+    {
+      "id": "te:economy:582151",
+      "time": "2026-09-09 05:06:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Central Bank Holds Key Rate at 4.5% — Chile’s central bank unanimously kept its benchmark interest rate unchanged at 4.5% in September, citing heightened uncertainty from the Middle East conflict, rising oil prices and persistent global inflation risks. Oil has approached $100 a barrel, while copper prices climbed above $6.50 a pound. Domestically, economic activity remained weaker than expected in the second quarter and early third quarter, accompanied by slowing domestic demand, job losses and a higher unemployment rate. Headline inflation rose to 4.1% in August, driven by volatile components, while core inflation held at 3.3%. Inflation expectations remain anchored at 3% over two years. The central bank said monetary policy would continue to be assessed meeting by meeting, with risks from the conflict and the possibility of a more prolonged domestic slowdown requiring close monitoring."
+    },
+    {
+      "id": "5083685",
+      "time": "2026-09-09 05:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 執行長：向資料中心垂直整合能夠加強對基礎設施的掌控。"
+    },
     {
       "id": "5083684",
       "time": "2026-09-09 05:05:34",
@@ -126669,65 +126819,6 @@
         "國際"
       ],
       "text": "市場資訊：美國今日將釋出G20主席宣告，而非聯合公報。"
-    },
-    {
-      "id": "mkt:01a05ecc-9881-7118-8446-3322dae81a86",
-      "time": "2026-09-02 05:07:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Wall Street Journal sources say Google (GOOG.O) employees in internal coding-tool tests favored Gemini 3.8 Flash over Claude Opus."
-    },
-    {
-      "id": "mkt:01a05ecc-903f-7118-8446-2f44277c6293",
-      "time": "2026-09-02 05:07:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal, citing sources, reports Google (GOOG.O) has increased resource allocation to reinforcement learning."
-    },
-    {
-      "id": "5071698",
-      "time": "2026-09-02 05:07:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "Dropbox使用者賬戶遭駭客入侵，股價下跌4%。"
-    },
-    {
-      "id": "5071697",
-      "time": "2026-09-02 05:07:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌最早可能於週三釋出 Gemini 3.8 Flash AI模型。"
-    },
-    {
-      "id": "mkt:01a05ecb-f3d3-7118-8446-214667186f9b",
-      "time": "2026-09-02 05:06:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "The Wall Street Journal, citing sources, says Google (GOOG.O) will release the GEMINI 3.8 Flash AI model this week."
     }
   ]
 }
