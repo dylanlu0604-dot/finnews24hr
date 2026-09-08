@@ -1,7 +1,31 @@
 {
   "date": "2026-09-09",
-  "count": 346,
+  "count": 349,
   "items": [
+    {
+      "id": "mkt:01a082e2-17f6-7118-84f5-0513a14f4d48",
+      "time": "2026-09-09 05:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports US Commerce Secretary Lutnick is expected to meet Wednesday local time with Mexican President sheinbaum and Mexico's economy minister EBRARD to discuss trade issues, including US tariffs on Mexican autos and metal products."
+    },
+    {
+      "id": "5083701",
+      "time": "2026-09-09 05:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.10%，報14578點。"
+    },
+    {
+      "id": "5083700",
+      "time": "2026-09-09 05:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。"
+    },
     {
       "id": "5083699",
       "time": "2026-09-09 05:12:44",

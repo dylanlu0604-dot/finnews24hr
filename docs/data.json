@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-09 05:14:03",
-  "count": 13895,
+  "updated": "2026-09-09 05:17:58",
+  "count": 13893,
   "items": [
+    {
+      "id": "mkt:01a082e2-17f6-7118-84f5-0513a14f4d48",
+      "time": "2026-09-09 05:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports US Commerce Secretary Lutnick is expected to meet Wednesday local time with Mexican President sheinbaum and Mexico's economy minister EBRARD to discuss trade issues, including US tariffs on Mexican autos and metal products."
+    },
+    {
+      "id": "5083701",
+      "time": "2026-09-09 05:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.10%，報14578點。"
+    },
+    {
+      "id": "5083700",
+      "time": "2026-09-09 05:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。"
+    },
     {
       "id": "5083699",
       "time": "2026-09-09 05:12:44",
@@ -126828,50 +126852,6 @@
         "其他"
       ],
       "text": "約旦方面稱，三枚彈道導彈落在了遠離人口聚居區的偏遠地帶。"
-    },
-    {
-      "id": "mkt:01a05ed5-d947-7118-8446-43a9a106cecc",
-      "time": "2026-09-02 05:17:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Two US officials said Iran's attack on Jordanian facilities has caused no US casualties to date."
-    },
-    {
-      "id": "5071705",
-      "time": "2026-09-02 05:17:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名美國官員表示，伊朗襲擊約旦境內設施目前未造成美方人員傷亡。"
-    },
-    {
-      "id": "5071704",
-      "time": "2026-09-02 05:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦軍方表示，約旦防空部隊攔截了進入該國領空的13枚彈道導彈中的10枚。"
-    },
-    {
-      "id": "5071702",
-      "time": "2026-09-02 05:14:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色起源火星軌道器相關合同最高價值約7億美元。"
-    },
-    {
-      "id": "mkt:01a05ed2-dd61-7118-8446-3ee9ecb1e450",
-      "time": "2026-09-02 05:14:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Jordan's military said it intercepted and destroyed 10 missiles; three fell in remote areas."
     }
   ]
 }
