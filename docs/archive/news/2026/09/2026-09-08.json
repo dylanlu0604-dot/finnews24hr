@@ -1,7 +1,60 @@
 {
   "date": "2026-09-08",
-  "count": 462,
+  "count": 468,
   "items": [
+    {
+      "id": "5081729",
+      "time": "2026-09-08 09:08:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報5684.00元。"
+    },
+    {
+      "id": "mkt:01a07e8e-a31b-7118-84d6-1e8a7499c83c",
+      "time": "2026-09-08 09:07:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kang Yi meets acting director of UN Statistics Division】On Sept 7, China's National Bureau of Statistics Director Kang Yi met visiting Acting Director of the UN Statistics Division Shantanu Mukherjee to discuss the China–UN Statistical Capacity Development Trust Fund project and the development of the UN Global Centre for Statistical Big Data and Data Science."
+    },
+    {
+      "id": "mkt:01a07e8e-9e3a-7118-84d6-15daa43f037d",
+      "time": "2026-09-08 09:07:50",
+      "tags": [
+        "MKT News",
+        "09868.HK"
+      ],
+      "text": "【XPeng activates humanoid robot production line】XPeng Group (09868.HK) said its robot production line is operational; an advanced general-purpose humanoid robot completed automated final assembly and autonomously rolled off the line."
+    },
+    {
+      "id": "5081728",
+      "time": "2026-09-08 09:06:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【布倫特原油邁向100美元 伊朗稱接近與阿曼就霍爾木茲海峽管理敲定協議】油價接近每桶100美元，交易員密切關注伊朗與阿曼就管理霍爾木茲海峽通航問題的協議細節。布倫特原油期貨在過去兩個交易日上漲1.6%，WTI原油價格則站上每桶92美元。伊朗方面表示，該協議即將達成，並將包括一項船隻透過霍爾木茲海峽的臨時安全路線，引發了人們對美國將如何回應的疑問。德黑蘭警告稱，船隻靠近阿曼一帶將面臨攻擊風險。自2月底衝突爆發以來，布倫特已飆升超過30%，儘管仍遠低於4月末觸及的每桶126美元高點。布倫特11月合約變動不大，報每桶96.96美元；WTI 10月合約較上週五收盤價上漲0.9%，至每桶92.33美元。美國市場週一逢假日休市。"
+    },
+    {
+      "id": "5081727",
+      "time": "2026-09-08 09:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小鵬機器人生產線正式啟用】9月8日，據小鵬汽車訊息，小鵬機器人生產線正式啟用，高階通用人形機器人完成自動化總裝並自主走下產線。"
+    },
+    {
+      "id": "5081726",
+      "time": "2026-09-08 09:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古阿拉善左旗兩車相撞，造成5人死亡】記者9月8日從內蒙古自治區阿拉善盟阿拉善左旗有關部門獲悉，9月7日19時左右，阿拉善左旗一場區內一上坡測試卡車因制動失控溜車，與跟車收集資料的商務車相撞。截至7日23時左右，事故造成商務車內5人死亡。目前，當地已啟動善後處置工作，事故詳細原因正在調查中。（新華社）"
+    },
     {
       "id": "5081725",
       "time": "2026-09-08 09:03:43",

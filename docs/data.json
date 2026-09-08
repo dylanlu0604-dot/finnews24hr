@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-08 09:04:45",
+  "updated": "2026-09-08 09:08:41",
   "count": 14114,
   "items": [
+    {
+      "id": "5081729",
+      "time": "2026-09-08 09:08:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報5684.00元。"
+    },
+    {
+      "id": "mkt:01a07e8e-a31b-7118-84d6-1e8a7499c83c",
+      "time": "2026-09-08 09:07:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kang Yi meets acting director of UN Statistics Division】On Sept 7, China's National Bureau of Statistics Director Kang Yi met visiting Acting Director of the UN Statistics Division Shantanu Mukherjee to discuss the China–UN Statistical Capacity Development Trust Fund project and the development of the UN Global Centre for Statistical Big Data and Data Science."
+    },
+    {
+      "id": "mkt:01a07e8e-9e3a-7118-84d6-15daa43f037d",
+      "time": "2026-09-08 09:07:50",
+      "tags": [
+        "MKT News",
+        "09868.HK"
+      ],
+      "text": "【XPeng activates humanoid robot production line】XPeng Group (09868.HK) said its robot production line is operational; an advanced general-purpose humanoid robot completed automated final assembly and autonomously rolled off the line."
+    },
+    {
+      "id": "5081728",
+      "time": "2026-09-08 09:06:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【布倫特原油邁向100美元 伊朗稱接近與阿曼就霍爾木茲海峽管理敲定協議】油價接近每桶100美元，交易員密切關注伊朗與阿曼就管理霍爾木茲海峽通航問題的協議細節。布倫特原油期貨在過去兩個交易日上漲1.6%，WTI原油價格則站上每桶92美元。伊朗方面表示，該協議即將達成，並將包括一項船隻透過霍爾木茲海峽的臨時安全路線，引發了人們對美國將如何回應的疑問。德黑蘭警告稱，船隻靠近阿曼一帶將面臨攻擊風險。自2月底衝突爆發以來，布倫特已飆升超過30%，儘管仍遠低於4月末觸及的每桶126美元高點。布倫特11月合約變動不大，報每桶96.96美元；WTI 10月合約較上週五收盤價上漲0.9%，至每桶92.33美元。美國市場週一逢假日休市。"
+    },
+    {
+      "id": "5081727",
+      "time": "2026-09-08 09:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小鵬機器人生產線正式啟用】9月8日，據小鵬汽車訊息，小鵬機器人生產線正式啟用，高階通用人形機器人完成自動化總裝並自主走下產線。"
+    },
+    {
+      "id": "5081726",
+      "time": "2026-09-08 09:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古阿拉善左旗兩車相撞，造成5人死亡】記者9月8日從內蒙古自治區阿拉善盟阿拉善左旗有關部門獲悉，9月7日19時左右，阿拉善左旗一場區內一上坡測試卡車因制動失控溜車，與跟車收集資料的商務車相撞。截至7日23時左右，事故造成商務車內5人死亡。目前，當地已啟動善後處置工作，事故詳細原因正在調查中。（新華社）"
+    },
     {
       "id": "5081725",
       "time": "2026-09-08 09:03:43",
@@ -129059,60 +129112,6 @@
         "市場"
       ],
       "text": "臺灣證交所加權股價指數上漲1%至46,604.36點。"
-    },
-    {
-      "id": "mkt:01a05a82-70db-7118-8423-f68c95e6de14",
-      "time": "2026-09-01 09:08:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China summer box office totaled 12.498 bln yuan in 2026】China's 2026 summer box office totaled 12.498 bln yuan, with 340 mln admissions; box office and admissions rose 4.45% and 5.86% YoY, respectively, the National Film Administration said. Domestic films made up 71.71% of revenue. Screenings reached a record 38.51 mln and average ticket price fell to 36.74 yuan, the lowest summer level since 2022. Top five films: Kung Fu Women's Soccer 2.315 bln yuan, Welcome to Long Restaurant 1.951 bln, Eight Immortals 1.846 bln, Spider-Man: A New Day 1.539 bln, Odyssey 603 mln yuan."
-    },
-    {
-      "id": "5069670",
-      "time": "2026-09-01 09:08:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中指研究院：8月百城新房價格環比上漲0.15%】中指研究院的最新資料顯示，8月樓市進入傳統淡季，上海、杭州、成都、天津等部分重點城市仍有優質樓盤入市，帶動百城新房價格環比繼續結構性上漲，百城新建住宅均價為17255元/平方米，環比上漲0.15%，同比上漲2.04%。一線城市新建住宅價格環比上漲0.39%，同比上漲5.30%，其中上海、北京、廣州環比分別上漲0.53%、0.25%、0.13%，新房價格上漲仍主要來自於新入市高價樓盤帶動。二線城市環比上漲0.09%，同比上漲1.74%。三四線代表城市環比下跌0.12%，同比下跌2.29%。"
-    },
-    {
-      "id": "5069669",
-      "time": "2026-09-01 09:07:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【米陽出任第一太平戴維斯中國區市場研究部負責人】9月1日，第一太平戴維斯（Savills）宣佈，米陽（Yang Mi）與朱建輝（Jacky Zhu）於2026年9月1日起正式加入公司。米陽出任中國區市場研究部負責人、高階董事，朱建輝出任華東區市場研究部負責人、高階董事。米陽全面負責中國區市場研究部的戰略規劃與業務創新，直接向第一太平戴維斯中國區執行長吳允燊（Eddie Ng）彙報；朱建輝向米陽彙報。"
-    },
-    {
-      "id": "5069668",
-      "time": "2026-09-01 09:07:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東將防汛Ⅳ級應急響應調整為防風Ⅳ級應急響應】鑑於颱風“沙德爾”減弱後的殘餘渦旋再次加強為颱風（熱帶風暴級），9月1日白天移入南海東北部海面，自西向東影響我省海域。根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部決定於9月1日9時將防汛Ⅳ級應急響應調整為防風Ⅳ級應急響應。"
-    },
-    {
-      "id": "5069667",
-      "time": "2026-09-01 09:06:42",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛副董事長Kaplan：傾向於認為美聯儲9月將加息】高盛集團副董事長Robert Kaplan表示，如果沒有意外情況，他傾向於美聯儲9月會加息，但仍會保持開放態度。這位前達拉斯聯儲行長在接受媒體採訪時稱，他傾向於認為9月會議將加息。他還表示，未來幾年美國通脹率有望趨近2%。"
-    },
-    {
-      "id": "5069666",
-      "time": "2026-09-01 09:05:25",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：反轉訊號確認，關注四大主題方向】中信證券研報表示，上週市場在高位分化整固後止跌回升，風格再度切換。上證指數收漲1.20%，此前轉弱的大盤藍籌重新走強，低位小盤補漲接棒。創業板指跌3.42%領跌全場；科創50僅微漲0.52%；此前獨立領漲的通訊上週回吐最重，農林牧漁、煤炭、非銀金融領漲。日均成交額繼續縮量至1.99萬億元，ETF資金先抄底後止盈、融資轉向百億級淨買入，低位反攻初步落地。市場行情處於活躍板塊間主題輪動的資金博弈階段，聚焦敘事、事件、業績高確定性主題。從催化因素和時序上看，AI液冷、測試裝置、算力新技術、消費電子新品的主題熱情有望升溫。結合市場環境、催化因素以及綜合量化指標研判，建議關注上述四大主題方向。"
     }
   ]
 }
