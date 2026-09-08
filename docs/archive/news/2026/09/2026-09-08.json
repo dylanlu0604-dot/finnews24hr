@@ -1,7 +1,47 @@
 {
   "date": "2026-09-08",
-  "count": 429,
+  "count": 433,
   "items": [
+    {
+      "id": "mkt:01a07e7f-6d13-7118-84d5-cc0200fb4e67",
+      "time": "2026-09-08 08:51:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Jensen Huang responds to H100 rental price rise】Reports say NVIDIA (NVDA.O) H100 training-chip rental rates rose 22% this month to $3.28/hour. NVIDIA CEO Jensen Huang said: \"NVIDIA's compute resources are tradable, durable and have very high rental value; they are an efficient income-generating asset.\""
+    },
+    {
+      "id": "5081707",
+      "time": "2026-09-08 08:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲多國對德國選擇黨贏得州議會選舉發出警告】當地時間9月7日凌晨，德國薩克森-安哈爾特州（薩安州）議會選舉官方初步統計結果出爐。極右翼政黨德國選擇黨以43.8%的得票率在此次選舉中居首位。德國總理默茨所在的基民盟以17.2%的得票率位居第二。7日，歐洲多國對德國選擇黨贏得州議會選舉一事發出警告，稱“極右翼的威脅”正在整個歐洲蔓延。西班牙首相 桑切斯：昨天（6日）在德國薩安州所發生的事，是一個警告，也是一次證實，警告我們極右翼的威脅正在歐洲和世界範圍內蔓延。法國外長巴羅7日也發文表示，德國選擇黨在薩安州取得壓倒性勝利，顯示極右翼浪潮正在歐洲不斷蔓延。法國及歐洲國家必須抵制極右翼思想正常化，同時，也必須正視推動此類政黨崛起的民眾失望和憤怒。（央視）"
+    },
+    {
+      "id": "5081706",
+      "time": "2026-09-08 08:49:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都響起強烈爆炸聲】據新華社，8日凌晨3時30分至33分，記者在烏克蘭首都基輔市聽到兩輪密集的爆炸聲。烏克蘭空軍在社交媒體發文稱，俄軍導彈和無人機正在向基輔州和基輔市方向移動。"
+    },
+    {
+      "id": "5081705",
+      "time": "2026-09-08 08:48:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌2.5個基點，至2.905%。"
+    },
     {
       "id": "5081704",
       "time": "2026-09-08 08:47:43",
