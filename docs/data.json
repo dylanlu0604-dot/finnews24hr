@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-09 05:37:47",
+  "updated": "2026-09-09 05:41:39",
   "count": 13903,
   "items": [
+    {
+      "id": "5083719",
+      "time": "2026-09-09 05:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列i24News：約旦防空部隊正在攔截一波伊朗導彈。"
+    },
+    {
+      "id": "5083718",
+      "time": "2026-09-09 05:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：在此之後，我無意參選任何公職。"
+    },
+    {
+      "id": "5083717",
+      "time": "2026-09-09 05:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：開放邊境政策的弊端，是引發了充滿對立的移民之爭。"
+    },
     {
       "id": "mkt:01a082f2-5394-7118-84f5-466ee11fdab4",
       "time": "2026-09-09 05:35:14",
@@ -126918,34 +126942,6 @@
         "Energy"
       ],
       "text": "Russian President Putin said late last night Ukraine attempted to strike three refineries but failed because the sites are now protected. He said that does not mean attacks are impossible, but current defenses are substantially different."
-    },
-    {
-      "id": "5071716",
-      "time": "2026-09-02 05:41:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們僅剩約10%的煉油廠尚待修復，我們絕不能讓已經修復完畢的煉油廠再遭到打擊。正因如此，各方需要開展合作。"
-    },
-    {
-      "id": "mkt:01a05ee9-84ce-7118-8446-6f9f96805ce3",
-      "time": "2026-09-02 05:39:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian military said on Press TV that radar systems at US and Bahraini air bases were targeted in a concentrated wave of drone strikes."
-    },
-    {
-      "id": "5071715",
-      "time": "2026-09-02 05:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車支付230萬美元，了結美國平等就業機會委員會提出的種族騷擾相關指控。"
     }
   ]
 }
