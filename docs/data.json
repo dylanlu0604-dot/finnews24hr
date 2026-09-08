@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-08 09:16:40",
-  "count": 14110,
+  "updated": "2026-09-08 09:20:38",
+  "count": 14106,
   "items": [
+    {
+      "id": "te:economy:581778",
+      "time": "2026-09-08 09:19:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Consumer Confidence MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Consumer Sentiment Sinks in September — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index plunged 5.2% mom to 84.4 in September 2026, reversing a 6.0% rise the prior month and marking its first decline since June, as higher fuel prices and concerns over further rate hikes weighed on confidence. Views of household finances weakened sharply, with assessments of finances over the past year tumbling 9.2% to 72.6, while expectations for the next 12 months slipped 3.8% to 94.5. Economic sentiment deteriorated, with the one-year outlook down 4.0% to 79.5 and the five-year measure declining 4.5% to 85.8. The gauge of whether it was a good time to buy major household items dropped 4.8% to 89.3, while unemployment expectations rose 2.8% to 139.4. Westpac economist Matthew Hassan said the strong July CPI reading increases the likelihood of a future rate hike, but the RBA is unlikely to act on a single monthly inflation reading given the series’ volatility, with the next CPI update due a day after the policy meeting."
+    },
+    {
+      "id": "mkt:01a07e98-21a5-7118-84d6-50632995c66a",
+      "time": "2026-09-08 09:18:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump Tuesday schedule (Beijing time)】Beijing time (UTC+8): Sep 8 20:00 — White House, handling administrative affairs; 22:35 — South Lawn, attending \"American Steel\" event; Sep 9 01:00 — Oval Office, sign an executive order; 02:00, 03:00, 05:00 — Oval Office policy meetings."
+    },
+    {
+      "id": "mkt:01a07e97-1670-7118-84d6-4f40a08a2556",
+      "time": "2026-09-08 09:17:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【CITIC Securities: Beijing Stock Exchange in base-building phase, awaiting incremental catalysts】CITIC Securities says the Beijing Stock Exchange (BSE) is in a base-building phase awaiting incremental inflows. Valuation and sentiment bottoms were reconfirmed in a late‑August retest and Sept. 2 volume validated willingness of new capital to enter. H1 double‑digit growth and a sharp rise in contract liabilities provide fundamental support; buybacks, accelerated stake purchases and stronger demand for recent listings are improving capital structure. Further upside depends on three catalysts: rollout of index products (BSE 50 ETF and three‑month lock‑up thematic funds) with turnover sustained above CNY20 bln; potential policy measures around the BSE’s fifth anniversary on Nov. 15; and broader confirmation that secondary-market support for recent listings is durable, which would reinforce primary IPO demand and secondary performance. Tactical guidance: favor cyclical growth and valuation-repair themes, buy on dips and scale in while tracking volume and policy signals for opportunistic adds."
+    },
+    {
+      "id": "mkt:01a07e96-544b-7118-84d6-456ddb1ed4f5",
+      "time": "2026-09-08 09:16:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.42% at 25,240, trading at a 189-point discount to the spot index."
+    },
     {
       "id": "5081741",
       "time": "2026-09-08 09:15:30",
@@ -128998,85 +129041,6 @@
         "公司"
       ],
       "text": "央行公告稱，開展50億元人民幣七天期逆回購操作，利率1.40%，與上次持平。"
-    },
-    {
-      "id": "mkt:01a05a8d-b79a-7118-8424-37f5587c839e",
-      "time": "2026-09-01 09:20:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Market Regions",
-        "Japan & APAC",
-        "Nasdaq100",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【AI demand lifts South Korea's Aug exports; data bolsters Bank of Korea hawkish stance】South Korea's August exports jumped, led by AI-driven chip shipments, reinforcing the Bank of Korea's recent hawkish stance. Customs data released Tuesday showed exports up 72.5% YoY after working-day adjustment, imports up 22.5%, and a trade surplus of $34.7 bln; unadjusted exports rose 68.7% YoY versus July's revised 63.0% increase. Semiconductors were the main driver; higher energy costs and geopolitical strain pressured other sectors but external demand remained resilient, supporting last week's second consecutive 25bp BOK rate hike."
-    },
-    {
-      "id": "5069690",
-      "time": "2026-09-01 09:20:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【第23屆中國—東盟博覽會將在廣西南寧舉辦】國務院新聞辦公室今天上午舉行新聞釋出會，商務部、廣西壯族自治區、中國貿促會相關負責人介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況。據介紹，第23屆中國—東盟博覽會將於今年9月17日—21日在廣西南寧舉辦，主題是“共享3.0機遇，共創美好生活”，將聚焦自貿區建設促進區域經濟高質量增長，展示中國—東盟經貿合作的新成果、新亮點。"
-    },
-    {
-      "id": "mkt:01a05a8c-3df7-7118-8424-28784de290b3",
-      "time": "2026-09-01 09:18:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "German government bond futures fell to their lowest level since 2011; French government bond futures hit a record low."
-    },
-    {
-      "id": "5069689",
-      "time": "2026-09-01 09:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一批重大合作專案紮實推進，中國同東盟新興領域合作實效顯著】今天，國新辦舉行新聞釋出會，介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況。會上介紹，投資合作持續提升。截至2026年7月，中國同東盟累計雙向投資額和中國企業在東盟累計完成工程承包營業額均超過5150億美元。一批重大合作專案紮實推進，馬來西亞東海岸鐵路專案進度超94%，印尼雅萬高鐵累計傳送旅客數量超1500萬人次，中老500千伏聯網工程正式落地。中國同東盟新興領域合作實效顯著，雙方互為投資最活躍合作伙伴的地位進一步鞏固。"
-    },
-    {
-      "id": "5069688",
-      "time": "2026-09-01 09:18:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數抹去此前跌幅，目前上漲0.1%，報66357.58點。"
-    },
-    {
-      "id": "te:markets:579733",
-      "time": "2026-09-01 09:17:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Nears 5-Month High — US heating oil prices rose to around $4.45 per gallon, nearing a five-month high and leaving prices about 80% higher than a year earlier, as US distillate inventories remain well below seasonal norms. Distillate stocks fell by 2.2 million barrels to 103.4 million barrels in the week ending August 21, their lowest August level in comparable records and about 14% below the five-year average. The drawdown comes as demand is set to strengthen in the coming months, with winter heating needs and seasonal farming activity in both hemispheres likely to lift consumption. At the same time, Middle East conflict has disrupted refined-fuel flows through the Strait of Hormuz, while Russia’s diesel export restrictions and attacks on its refining infrastructure are further tightening global supplies. Strong demand is encouraging US refiners to raise output and exports, but additional shipments remain insufficient to offset supply disruptions elsewhere, keeping the refined-fuel market tight."
-    },
-    {
-      "id": "5069687",
-      "time": "2026-09-01 09:17:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北銀行資產規模突破7000億元】湖北銀行披露2026年上半年經營業績顯示，截至6月末，該行資產規模突破7000億元，達7045.6億元，較年初增長13.4%，並連續三年站上千億級新臺階。上半年，該行實現淨利潤20.5億元，同比增長38.1%。"
-    },
-    {
-      "id": "5069686",
-      "time": "2026-09-01 09:17:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲5%，現報5455.00元。"
     }
   ]
 }

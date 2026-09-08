@@ -1,7 +1,50 @@
 {
   "date": "2026-09-08",
-  "count": 485,
+  "count": 489,
   "items": [
+    {
+      "id": "te:economy:581778",
+      "time": "2026-09-08 09:19:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Consumer Confidence MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Consumer Sentiment Sinks in September — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index plunged 5.2% mom to 84.4 in September 2026, reversing a 6.0% rise the prior month and marking its first decline since June, as higher fuel prices and concerns over further rate hikes weighed on confidence. Views of household finances weakened sharply, with assessments of finances over the past year tumbling 9.2% to 72.6, while expectations for the next 12 months slipped 3.8% to 94.5. Economic sentiment deteriorated, with the one-year outlook down 4.0% to 79.5 and the five-year measure declining 4.5% to 85.8. The gauge of whether it was a good time to buy major household items dropped 4.8% to 89.3, while unemployment expectations rose 2.8% to 139.4. Westpac economist Matthew Hassan said the strong July CPI reading increases the likelihood of a future rate hike, but the RBA is unlikely to act on a single monthly inflation reading given the series’ volatility, with the next CPI update due a day after the policy meeting."
+    },
+    {
+      "id": "mkt:01a07e98-21a5-7118-84d6-50632995c66a",
+      "time": "2026-09-08 09:18:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump Tuesday schedule (Beijing time)】Beijing time (UTC+8): Sep 8 20:00 — White House, handling administrative affairs; 22:35 — South Lawn, attending \"American Steel\" event; Sep 9 01:00 — Oval Office, sign an executive order; 02:00, 03:00, 05:00 — Oval Office policy meetings."
+    },
+    {
+      "id": "mkt:01a07e97-1670-7118-84d6-4f40a08a2556",
+      "time": "2026-09-08 09:17:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【CITIC Securities: Beijing Stock Exchange in base-building phase, awaiting incremental catalysts】CITIC Securities says the Beijing Stock Exchange (BSE) is in a base-building phase awaiting incremental inflows. Valuation and sentiment bottoms were reconfirmed in a late‑August retest and Sept. 2 volume validated willingness of new capital to enter. H1 double‑digit growth and a sharp rise in contract liabilities provide fundamental support; buybacks, accelerated stake purchases and stronger demand for recent listings are improving capital structure. Further upside depends on three catalysts: rollout of index products (BSE 50 ETF and three‑month lock‑up thematic funds) with turnover sustained above CNY20 bln; potential policy measures around the BSE’s fifth anniversary on Nov. 15; and broader confirmation that secondary-market support for recent listings is durable, which would reinforce primary IPO demand and secondary performance. Tactical guidance: favor cyclical growth and valuation-repair themes, buy on dips and scale in while tracking volume and policy signals for opportunistic adds."
+    },
+    {
+      "id": "mkt:01a07e96-544b-7118-84d6-456ddb1ed4f5",
+      "time": "2026-09-08 09:16:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.42% at 25,240, trading at a 189-point discount to the spot index."
+    },
     {
       "id": "5081741",
       "time": "2026-09-08 09:15:30",
