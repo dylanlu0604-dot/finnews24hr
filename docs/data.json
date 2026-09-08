@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-08 23:14:56",
-  "count": 14097,
+  "updated": "2026-09-08 23:18:54",
+  "count": 14102,
   "items": [
+    {
+      "id": "5083448",
+      "time": "2026-09-08 23:17:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀擬與投資者會面，考慮大規模發行債券】軟銀集團將在紐約與投資者舉行會面，試探市場對美元垃圾債券發行的認購意願，為其人工智慧領域投資籌措資金。該公司正考慮透過垃圾債券募資100‑200億美元，其中可能包含歐元債券部分，此舉或將對美國高收益債券指數產生影響。軟銀已向人工智慧企業投入數百億美元，推高了資產負債表槓桿水平，市場擔憂其AI相關風險敞口過高。公司如今希望獲取長期債務，對現有債務壓力進行再融資。"
+    },
+    {
+      "id": "5083447",
+      "time": "2026-09-08 23:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們希望歐洲表現得更好，我們支援盟友。"
+    },
+    {
+      "id": "mkt:01a08198-2bfb-7118-84ef-b4c42708ab9e",
+      "time": "2026-09-08 23:17:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Union and Canada are working to forge a new comprehensive partnership covering trade, security and other areas."
+    },
+    {
+      "id": "5083446",
+      "time": "2026-09-08 23:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：俄羅斯沒有忘記日本軍國主義】俄羅斯總統新聞秘書佩斯科夫8日就日本要求俄拆除戰勝軍國主義日本的紀念碑一事表示，俄羅斯並沒有忘記日本軍國主義，沒有忘記在與日本軍國主義鬥爭中所獲得的勝利。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08196-e9c7-7118-84ef-ae774696569d",
+      "time": "2026-09-08 23:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Ukraine has a way out."
+    },
+    {
+      "id": "5083445",
+      "time": "2026-09-08 23:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗、烏克蘭戰事結束後，石油供應將十分充足。"
+    },
+    {
+      "id": "mkt:01a08196-d001-7118-84ef-a74f5d72d42c",
+      "time": "2026-09-08 23:15:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli authorities said they foiled a Hamas-linked network plotting attacks and arrested more than 30 suspects."
+    },
+    {
+      "id": "5083444",
+      "time": "2026-09-08 23:15:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會對洪堡商戶服務公司採取執法行動。"
+    },
+    {
+      "id": "5083443",
+      "time": "2026-09-08 23:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：烏克蘭存在可行出路。"
+    },
+    {
+      "id": "5083442",
+      "time": "2026-09-08 23:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：在耶路撒冷和約旦河西岸逮捕30餘名嫌疑人。"
+    },
+    {
+      "id": "mkt:01a08195-da47-7118-84ef-9afe8eb977dd",
+      "time": "2026-09-08 23:14:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Europe does not want to participate in the Russia-Ukraine conflict."
+    },
+    {
+      "id": "5083441",
+      "time": "2026-09-08 23:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：歐洲方面不願就俄烏問題開展接觸。"
+    },
+    {
+      "id": "mkt:01a08195-c2e2-7118-84ef-96c3c1bdee69",
+      "time": "2026-09-08 23:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the war in Ukraine cannot be stopped without dialogue with Russia."
+    },
+    {
+      "id": "5083440",
+      "time": "2026-09-08 23:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：若不與俄羅斯對話，就無法結束俄烏衝突。"
+    },
     {
       "id": "5083439",
       "time": "2026-09-08 23:12:50",
@@ -128781,93 +128900,6 @@
         "國際"
       ],
       "text": "市場訊息：普京與埃爾多安的會晤已經結束，時長約 1.5 小時。"
-    },
-    {
-      "id": "5071377",
-      "time": "2026-09-01 23:18:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Simkus：9月加息一次恐怕還不夠】歐洲央行管委Gediminas Simkus表示，即使歐洲央行下週加息，也不足以讓通脹回到目標水平。這位立陶宛央行官員在週二刊發的Econostream Media採訪中表示，“目前所有可獲得的資料都讓我認為，我們很可能會加息，而且9月這次加息恐怕還不夠。”Simkus指出，天然氣期貨價格上漲、農產品價格走高，以及歐洲經濟表現強於預期，都表明消費者價格前景正在進一步上行。Simkus表示，“這應該會促使通脹預測發生變化，從而需要利率路徑略微上移，以確保中期通脹維持在2%。”他表示，“總體而言，通脹環境已經增強，因此支援加息的理由相當明確。”"
-    },
-    {
-      "id": "mkt:01a05d8b-c9d8-7118-843d-056600c47a58",
-      "time": "2026-09-01 23:17:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Brandenburg's interior minister said damage to the power grid occurred adjacent to a power-plant substation in Germany, causing one generating unit at the plant to trip offline."
-    },
-    {
-      "id": "5071376",
-      "time": "2026-09-01 23:17:07",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特在二十國集團（G20）“債務重組”會議的公開講話結束。"
-    },
-    {
-      "id": "mkt:01a05d8b-3750-7118-843c-ff9bba17f810",
-      "time": "2026-09-01 23:16:39",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "UK Prime Minister Burnham said he is committed to cutting welfare spending."
-    },
-    {
-      "id": "te:economy:580123",
-      "time": "2026-09-01 23:16:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Mexico Factory Activity Weakens — The S&P Global Mexico Manufacturing PMI fell to 49.8 in August 2026 from 51.3 in the prior month, signaling a renewed deterioration in operating conditions. A reduction in factory output weighed most, marking the steepest contraction in eight months as firms reported subdued market conditions, material shortages and shipping delays linked to the conflict in the Middle East. Demand also weakened, as new order growth slowed from recent peaks, reflecting a fall in new export orders at the quickest pace in 2026 so far. As a response, manufacturers trimmed their purchasing activity, marking the first reduction in three months. Stocks of purchases also fell, while fineshed goods inventories rose slitghly. In turn, cost pressures continued to moderate, as the input cost inflation slipped to a five-month low, although still elevated amid US tariff and Middle East uncertainty. Looking ahead, sentiment turned pessimistic, with firms citing concerns over general market uncertainty."
-    },
-    {
-      "id": "mkt:01a05d8a-d81e-7118-843c-f5ac42c46687",
-      "time": "2026-09-01 23:16:15",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England MPC member Mann said economic activity strengthened between the previous and current MPC meetings."
-    },
-    {
-      "id": "5071375",
-      "time": "2026-09-01 23:16:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：我致力於削減福利開支。"
-    },
-    {
-      "id": "5071374",
-      "time": "2026-09-01 23:15:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：任命希利是看重其防務履歷。"
-    },
-    {
-      "id": "5071373",
-      "time": "2026-09-01 23:15:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：G20 將設立債務重組技術研究小組。"
     }
   ]
 }
