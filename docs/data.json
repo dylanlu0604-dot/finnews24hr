@@ -1,7 +1,516 @@
 {
-  "updated": "2026-09-09 05:41:39",
-  "count": 13903,
+  "updated": "2026-09-09 06:56:58",
+  "count": 13822,
   "items": [
+    {
+      "id": "5083750",
+      "time": "2026-09-09 06:55:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署公告，調整機動車相關加徵額外關稅的加拿大商品範圍。"
+    },
+    {
+      "id": "mkt:01a0833b-b864-7118-84f5-c9edbce0134a",
+      "time": "2026-09-09 06:55:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House said it is barring certain Canadian products from entering the U.S., taking action against ongoing discriminatory treatment of U.S. businesses in the alcoholic beverages sector."
+    },
+    {
+      "id": "5083749",
+      "time": "2026-09-09 06:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：將對部分加拿大商品徵收50%的從價關稅。自9月29日起禁止進口特定加拿大汽車。"
+    },
+    {
+      "id": "mkt:01a08339-2d9b-7118-84f5-c4647e644741",
+      "time": "2026-09-09 06:52:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【Bessent: Trump administration would accelerate deficit-cut plan if Democrats win midterms】Treasury Secretary Bessent said if Democrats win control of either chamber in the Nov. 3 midterm elections, the Trump administration will seek to push Congress to pass a plan to reduce the federal budget deficit by year-end. He said he is working with OMB Director Vought on a fiscal consolidation plan expected to lower the federal deficit. Bessent added that a Democratic victory would force acceleration of the effort during the lame-duck window between the Nov. 3 election and the Jan. 3, 2027 start of the new Congress, roughly two months."
+    },
+    {
+      "id": "5083748",
+      "time": "2026-09-09 06:51:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國禁止進口部分加拿大酒精飲料。"
+    },
+    {
+      "id": "5083747",
+      "time": "2026-09-09 06:51:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮釋出關於加拿大關稅範圍的公告。"
+    },
+    {
+      "id": "5083746",
+      "time": "2026-09-09 06:51:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國修改對加拿大產品徵收關稅的範圍。"
+    },
+    {
+      "id": "mkt:01a08333-b0d1-7118-84f5-be880a36ccf8",
+      "time": "2026-09-09 06:46:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media said Iran's Islamic Revolutionary Guard Corps (IRGC) struck a U.S. military base in Jordan, calling the attack retaliation for U.S. strikes related to attacks on an Iranian oil tanker."
+    },
+    {
+      "id": "5083745",
+      "time": "2026-09-09 06:45:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體：伊朗革命衛隊稱襲擊了其口中位於約旦的美軍基地，約旦方面暫未立即證實。伊朗革命衛隊表示，此次襲擊是對美國打擊伊朗油輪的報復。"
+    },
+    {
+      "id": "te:markets:582159",
+      "time": "2026-09-09 06:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Higher in Morning Trade — New Zealand stocks advanced 17 points, or 0.1%, to 13,810 in Wednesday morning trade, erasing losses from the previous two sessions, supported by gains in communication services, utilities, technology, and real estate. A report from Moody’s ratings agency continued to lift sentiment, saying New Zealand’s economic recovery is underway, though warning that several issues remain unresolved. However, a downbeat session on Wall Street overnight capped the gains, as rising oil prices amid the escalating conflict in the Middle East raised concerns over inflation and boosted bets that central banks would raise interest rates. Caution also prevailed ahead of China’s consumer and producer price data later today, amid persistently weak domestic demand. Among the early gainers were Gentract Group (2.1%), Sanford (1.8%), Mercury NZ (1.4%), Contact Energy (0.7%), and F&C Investment Trust (0.5%)."
+    },
+    {
+      "id": "te:markets:582158",
+      "time": "2026-09-09 06:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Increases by 1.64% — Top crypto gainers are Binance (1.64%) and XRP (1.39%). Biggest losers are Bitcoin (-0.77%) and Ether (-0.26%)."
+    },
+    {
+      "id": "5083744",
+      "time": "2026-09-09 06:42:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）： 報告顯示該船隻遭到盤查接觸，系該區域正在進行的軍事活動的一部分。"
+    },
+    {
+      "id": "mkt:01a0832e-d323-7118-84f5-b2a2d8838fbf",
+      "time": "2026-09-09 06:41:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO reported the vessel was affected by ongoing military activity in the area."
+    },
+    {
+      "id": "mkt:01a0832e-ba44-7118-84f5-ac5aded81dac",
+      "time": "2026-09-09 06:41:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO received reports concerning commercial vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "5083743",
+      "time": "2026-09-09 06:40:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：收到一則涉及霍爾木茲海峽商船的相關報告。"
+    },
+    {
+      "id": "5083742",
+      "time": "2026-09-09 06:40:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：對約旦的阿茲拉克基地發動重型彈道導彈打擊，以此報復針對伊朗油輪的襲擊。宣告稱，本次打擊目標包括維修機庫、戰機整備區、戰鬥機掩體以及停放 F-35、F-16 和 F-15 戰機的區域，造成重大損毀。"
+    },
+    {
+      "id": "te:markets:582157",
+      "time": "2026-09-09 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.29% — Top commodity losers are Cocoa (-4.29%) and Coffee (-1.95%). Gains are led by Rubber (3.20%), Canola (2.27%) and Wheat (1.99%)."
+    },
+    {
+      "id": "mkt:01a0832d-5094-7118-84f5-a749baca77fb",
+      "time": "2026-09-09 06:39:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it struck US F-35, F-16 and F-15 maintenance, preparation and deployment areas and aircraft shelters in the Middle East."
+    },
+    {
+      "id": "mkt:01a0832b-38cb-7118-84f5-9dc08afae5d8",
+      "time": "2026-09-09 06:37:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc preliminarily recorded a magnitude-4.2 earthquake at 06:32 on Sep 9 off Yilan County, Taiwan; final magnitude subject to formal bulletin."
+    },
+    {
+      "id": "5083741",
+      "time": "2026-09-09 06:36:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國首架 F-35A “閃電 II” 戰機已在美國完成首飛。"
+    },
+    {
+      "id": "5083740",
+      "time": "2026-09-09 06:35:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“打折買票”難保穩賺，公募定增投資策略生變】今年以來A股市場交投活躍，再融資市場持續升溫，公募基金參與定增的熱情明顯提升。截至9月6日，公募合計獲配金額超過470億元，較去年同期增長超過160%。不過，與資金大舉湧入形成鮮明對比的是，近期部分熱門定增專案出現價格倒掛。江波龍等科技股定增專案一度因發行價格高於二級市場價格引發市場熱議，“打折買股票”並不能穩賺不賠。市場高位震盪、行業輪動加快、定增折價普遍收窄，正在改變這一傳統策略的投資邏輯，機構比拼的重心回到對行業景氣、個股價值以及組合管理能力的判斷上。（中證報）"
+    },
+    {
+      "id": "te:markets:582156",
+      "time": "2026-09-09 06:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silicon Gains by 1.91% — Top commodity gainers are Silicon (1.91%), Iron Ore CNY (1.36%) and Copper (1.34%). Biggest losers are Gold (-1.15%), Platinum (-1.10%) and Silver (-0.81%)."
+    },
+    {
+      "id": "5083739",
+      "time": "2026-09-09 06:35:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月09日06時32分在臺灣宜蘭縣海域附近（北緯24.42度，東經122.49度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a08327-f9fa-7118-84f5-9322590e20ce",
+      "time": "2026-09-09 06:33:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Treasury Secretary Bessent challenges yen shorts, says he is the market maker】US Treasury Secretary Bessent challenged traders attempting to short the yen, saying when he judges markets he effectively holds \"inside information\" and asymmetric information. He recalled past interventions, including July 31 when he joined the Japanese government in buying yen; the currency initially rallied but then partially retraced as traders pointed to limited FX purchase funds available to the US Treasury. Bessent said he now functions as the market maker and therefore has a strong read on how the Japanese government, the Bank of Japan and other policymakers would act in any intervention, adding traders are free to try to go against him."
+    },
+    {
+      "id": "mkt:01a08327-f288-7118-84f5-88dc7a058254",
+      "time": "2026-09-09 06:33:48",
+      "tags": [
+        "MKT News",
+        "Nikkei 225"
+      ],
+      "text": "Market sources say Japan is expected to reshuffle its cabinet on Sept. 17."
+    },
+    {
+      "id": "te:markets:582155",
+      "time": "2026-09-09 06:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 6.01% — Top commodity gainers are Natural Gas EU (6.01%), Natural Gas UK (5%), Propane (3.64%), Crude Oil (3.04%) and Brent Oil (2.21%). Biggest loser is Natural gas (-2.54%)."
+    },
+    {
+      "id": "5083738",
+      "time": "2026-09-09 06:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本內閣改組定於 9 月 17 日舉行。"
+    },
+    {
+      "id": "5083737",
+      "time": "2026-09-09 06:28:29",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月9日隔夜要聞一覽】\n1、美國中央司令部：9月8日摧毀5艘伊朗原油運輸船。此前兩天，伊朗革命衛隊兩度使用彈道導彈瞄準一艘美國海軍戰艦。該美軍戰艦成功規避伊朗的襲擊企圖，並繼續在該區域水域巡邏，無美方人員受傷。\n2、美國國務卿魯比奧：伊朗每一次試圖襲擊美國海軍艦船，其油輪都將遭到打擊。\n3、加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。\n4、特朗普指示政府採購剔除加拿大產品。\n5、伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離。\n6、OpenAI內部模型88小時暴力攻克千禧年數學難題。\n7、國際油價8日上漲。紐約商品交易所10月交貨的輕質原油期貨價格上漲1.55美元，收於每桶93.03美元，漲幅為1.69%；11月交貨的倫敦布倫特原油期貨價格上漲92美分，收於每桶97.92美元，漲幅為0.95%。\n8、英國空管系統再現故障，僅希思羅就有逾80個航班取消、約200個航班延誤。\n9、富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率。"
+    },
+    {
+      "id": "5083736",
+      "time": "2026-09-09 06:27:46",
+      "tags": [
+        "宏觀",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:40 紐西蘭聯儲助理主席Karen Silk講話；\n② 09:30 中國8月CPI和PPI；\n③ 可能釋出 中國1至8月社會融資規模增量、新增人民幣貸款，8月M2等貨幣供應；\n④ 時間待定 巴黎太空峰會，SpaceX、Blue Origin等美企取消參會；\n⑤ 時間待定 美國財政部長債回購翻倍料將生效，美國共和黨首屆中期選舉大會（特朗普將發表演講）；\n⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；\n⑦ 次日01:00 蘋果2026秋季新品釋出會（iPhone Fold首秀+iPhone 18 Pro雙機），歐洲央行管委兼德國央行行長Nagel講話。"
+    },
+    {
+      "id": "5083735",
+      "time": "2026-09-09 06:21:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公募權益類基金維持高倉位，有色金屬獲資金增配】最新資料顯示，公募權益類基金繼續維持較高權益倉位，行業配置則呈現結構性調整特徵。在電子仍佔據第一大重倉行業的同時，有色金屬獲得較明顯主動增持。多家公募機構認為，近期有色金屬板塊雖然有所波動，但資源品價格維持高位、供給約束及企業盈利兌現等因素仍對基本面形成支撐，後續不同金屬品種的行情或進一步分化。（上證報）"
+    },
+    {
+      "id": "5083734",
+      "time": "2026-09-09 06:21:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：OpenAI 還為 ChatGPT Work 推出全新企業外掛，可在常用商業應用中拓展 Astra 的瀏覽器使用能力。"
+    },
+    {
+      "id": "5083733",
+      "time": "2026-09-09 06:20:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：OpenAI 的 GPT-6 ASTRA 現已登陸亞馬遜 Bedrock。"
+    },
+    {
+      "id": "5083732",
+      "time": "2026-09-09 06:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國就俄烏衝突舉行了 “實質性” 會談。俄方會談 “重啟接觸”，但仍有待推進的工作。"
+    },
+    {
+      "id": "5083731",
+      "time": "2026-09-09 06:16:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：於 9 月 8 日摧毀 5 艘伊朗原油運輸船。此前兩天，伊朗伊斯蘭革命衛隊兩度使用彈道導彈瞄準一艘美國海軍戰艦。該美軍戰艦成功規避伊朗的襲擊企圖，並繼續在該區域水域巡邏，無美方人員受傷。"
+    },
+    {
+      "id": "te:markets:582154",
+      "time": "2026-09-09 06:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.77% — Top currency gainers are Brazilian Real (0.77%), Norwegian Krone (0.48%) and Japanese Yen (0.39%). Biggest losers are New Zealand Dollar (-0.38%), Dollar Index (-0.35%) and Indian Rupee (-0.26%). Meanwhile Euro was little changed."
+    },
+    {
+      "id": "mkt:01a08315-1cc2-7118-84f5-8143e7234bb9",
+      "time": "2026-09-09 06:13:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran loses oil tankers whenever it attempts to attack U.S. naval vessels."
+    },
+    {
+      "id": "5083730",
+      "time": "2026-09-09 06:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗每一次試圖襲擊美國海軍艦船，其油輪都將遭到打擊。"
+    },
+    {
+      "id": "5083729",
+      "time": "2026-09-09 06:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：哥倫比亞身處 “美洲之盾” 體系，這點十分重要。"
+    },
+    {
+      "id": "5083728",
+      "time": "2026-09-09 06:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普希望與哥倫比亞達成關稅相關協議。"
+    },
+    {
+      "id": "mkt:01a0830e-3c7e-7118-84f5-7b3601d225a9",
+      "time": "2026-09-09 06:05:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US Secretary of State Rubio said Trump wants to reach an agreement with Colombia on tariffs."
+    },
+    {
+      "id": "5083727",
+      "time": "2026-09-09 06:02:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息機率為59.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為40.6%，累計加息25個基點的機率為59.4%。美聯儲到10月維持利率不變的機率為29.8%，累計加息25個基點的機率為54.4%，累計加息50個基點的機率為15.8%。"
+    },
+    {
+      "id": "5083726",
+      "time": "2026-09-09 06:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報66.31美元/盎司。"
+    },
+    {
+      "id": "5083725",
+      "time": "2026-09-09 06:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內跌0.05%。"
+    },
+    {
+      "id": "5083724",
+      "time": "2026-09-09 06:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內跌0.88%。"
+    },
+    {
+      "id": "5083723",
+      "time": "2026-09-09 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報94.29美元/桶。"
+    },
+    {
+      "id": "mkt:01a08308-263a-7118-84f5-75f74ab0ae67",
+      "time": "2026-09-09 05:59:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRGC-affiliated outlet Sepahnews reported Iranian missiles successfully breached Jordanian air-defense systems."
+    },
+    {
+      "id": "mkt:01a08307-1b08-7118-84f5-69a7abcaf7df",
+      "time": "2026-09-09 05:57:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Sepahnews, the media arm of the Islamic Revolutionary Guard Corps (IRGC), says Iran's hardline response is ongoing."
+    },
+    {
+      "id": "mkt:01a08306-0881-7118-84f5-65b3ee7e0a11",
+      "time": "2026-09-09 05:56:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sepahnews, an outlet affiliated with the Islamic Revolutionary Guard Corps, reported Iran launched missile strikes on US military targets inside Jordan."
+    },
+    {
+      "id": "mkt:01a08300-b42d-7118-84f5-5f8c0361b213",
+      "time": "2026-09-09 05:50:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Wall Street eyes Bessent Treasury buyback; analysts say cap could be $10bn】US Treasury Secretary Bessent is set to announce the next round of long-term Treasury buybacks; markets are focused on whether the program will expand and the debt-management signal it conveys. Wrightson ICAP senior economist Crandall says a single buyback of $5–6bn is reasonable though larger operations remain possible. Morgan Stanley analysts put a financing-constrained single-operation cap near $10bn; at that level, quarterly net issuance of >20‑year Treasuries could fall about 55%. Bloomberg strategist Feigen says a larger-than-expected buyback would likely be read as a stronger policy signal and could push long yields lower in the short term, but the absolute size would still be limited versus the overall Treasury market. Barclays strategists Pradhan and Hu expect the Treasury may use open-ended wording such as \"at least $4bn each time\" to retain flexibility. Market focus will be on announced size, frequency and forward guidance; the 30‑year swap spread may more directly price supply changes."
+    },
+    {
+      "id": "5083722",
+      "time": "2026-09-09 05:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理動員全民“上場”應對加美貿易戰】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效後，加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。卡尼以冰球運動為比喻說：“每當我們選擇購買加拿大商品、在加拿大境內旅行時，我們都在傳遞一個訊號——在這個國家，沒有人在看臺上（觀望），4000萬名加拿大人全都在冰面上（拼搏）。”（新華社）"
+    },
+    {
+      "id": "mkt:01a082fb-8d9a-7118-84f5-5186d4006075",
+      "time": "2026-09-09 05:45:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Carney urges national unity after Canada’s retaliatory measures against US tariffs take effect】After Canada’s retaliatory measures against U.S. tariffs took effect in the early hours of the 8th, Prime Minister Carney delivered a national video address calling for unity. He said Canada will accept economic costs to reduce dependence on the U.S., but those costs are small compared with the price of inaction. Carney reiterated that U.S. negotiators made last‑minute demands that would harm Canadian sovereignty and core industries, prompting Canada to abandon the agreement and implement countermeasures."
+    },
+    {
+      "id": "5083721",
+      "time": "2026-09-09 05:43:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特在講話中描述“民主黨人在2026年中期選舉中獲勝”情況下（共和黨總統特朗普）的財政計劃。"
+    },
+    {
+      "id": "5083720",
+      "time": "2026-09-09 05:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：白宮預算主管Vought和我正在研究降低（預算）赤字的計劃。我們必須在跛腳鴨國會期快速推動財政方案落地。"
+    },
+    {
+      "id": "mkt:01a082f8-7450-7118-84f5-4a07ab89adf0",
+      "time": "2026-09-09 05:41:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi outlet Hadas said television footage captured a large number of Iranian missiles being intercepted over southern Syria."
+    },
     {
       "id": "5083719",
       "time": "2026-09-09 05:39:00",
@@ -125697,1251 +126206,6 @@
         "MKT News"
       ],
       "text": "Trump said he had a productive and positive dialogue at today's G20 finance ministers meeting."
-    },
-    {
-      "id": "mkt:01a05f30-080c-7118-8447-ff20ee0decb9",
-      "time": "2026-09-02 06:56:18",
-      "tags": [
-        "MKT News",
-        "VLO.O"
-      ],
-      "text": "Sources said Valero's Port Arthur, Texas refinery suffered a partial power outage."
-    },
-    {
-      "id": "5071797",
-      "time": "2026-09-02 06:56:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（各方）在阿什維爾G20峰會期間進行了富有成效、氛圍積極的多輪會談。"
-    },
-    {
-      "id": "mkt:01a05f2f-b306-7118-8447-f173e1c959e0",
-      "time": "2026-09-02 06:55:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the Senate should promptly confirm his nominees so he can continue the outstanding work of the past four months."
-    },
-    {
-      "id": "5071796",
-      "time": "2026-09-02 06:55:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：對約旦哈桑王子空軍基地記憶體放美軍RQ‑4以及MQ‑9遠端無人機的機庫發動大規模彈道導彈打擊。多架無人機被毀，多名美軍飛行員與技術人員身亡，多處軍事設施起火。"
-    },
-    {
-      "id": "mkt:01a05f2f-7c2b-7118-8447-ecd8b7eb20d9",
-      "time": "2026-09-02 06:55:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump nominated Hung Cao as the next secretary of the Navy, calling him a true warrior."
-    },
-    {
-      "id": "5071795",
-      "time": "2026-09-02 06:54:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase聯合創始人弗雷德·埃爾薩姆正尋求獲得委內瑞拉至少三座油田的控制權。"
-    },
-    {
-      "id": "5071794",
-      "time": "2026-09-02 06:53:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：很高興提名Hung Cao出任下一任海軍部長。"
-    },
-    {
-      "id": "5071793",
-      "time": "2026-09-02 06:52:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美防長再將7名軍官列為整肅目標，此前心生不滿的陸軍部長辭職】美國國防部長皮特·赫格塞思已經解僱或阻止80餘名將官晉升。這場人事清洗波及大約10%的美軍高階軍官，且未見收手跡象。多名知情及退役軍方官員透露，近日，赫格塞思又把矛頭對準7名陸軍軍官。陸軍高層評審委員會已經選定這7人晉升少將。官員表示，赫格塞思拒絕解釋背後考量，造成五角大樓內部分裂，也引發國會諸多議員不滿。最新公開表達反對意見的是陸軍部長丹尼爾·P·德里斯科爾，他已於近日辭職。軍方官員稱，赫格塞思的清洗行動並非源於軍官履職表現不佳，而是國防部長推動的更大布局：打造一支在高層層面契合其政治與意識形態理念的軍隊。"
-    },
-    {
-      "id": "5071792",
-      "time": "2026-09-02 06:50:54",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:00 韓國8月CPI；\n② 時間待定 SEMICON Taiwan國際半導體展；\n③ 09:30 日本央行審議委員高田創講話；\n④ 09:30 澳大利亞二季度GDP；\n⑤ 10:00 紐西蘭聯儲釋出官方現金利率（OCR）和貨幣政策宣告；；\n⑥ 11:00 紐西蘭聯儲發主席Breman舉行新聞釋出會；\n⑦ 15:10 歐洲央行管委Wunsch講話；\n⑧ 20:15 美國8月ADP就業人數（小非農）；\n⑨ 21:45 加拿大央行公佈利率決定；\n⑩ 22:00 美國7月耐用品訂單終值，7月工廠訂單；\n⑪ 22:30 美國能源資訊署（EIA）釋出\n⑫ 次日02:00 美聯儲釋出褐皮書；\n⑬ 美股盤後 博通、Snowflake、C3.ai、惠與（HPE）釋出業績報告。"
-    },
-    {
-      "id": "te:economy:580187",
-      "time": "2026-09-02 06:50:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "New Zealand Building Permits Drop 4.3% in July — Building consents for new dwellings in New Zealand fell 4.3% month-on-month in July 2026, following an upwardly revised 3.7% drop in June, marking the fourth decline so far this year. A total of 3,579 new dwellings were consented, including 1,769 stand-alone houses, 1,567 townhouses, 196 apartments, and 47 retirement village units."
-    },
-    {
-      "id": "mkt:01a05f2a-93ee-7118-8447-e507366002f0",
-      "time": "2026-09-02 06:50:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said temporarily elevated energy prices will fall as energy recedes and larger real-wage gains will also decline; economic growth is the most important factor for bond yields."
-    },
-    {
-      "id": "mkt:01a05f2a-53e6-7118-8447-dd1aeb548de0",
-      "time": "2026-09-02 06:50:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. embassy in Qatar issues security alert citing risk of escalation】On the evening of Sept. 1 local time the U.S. embassy in Qatar issued a security alert saying Middle East tensions have left the security environment complex and unpredictable and that an escalation is possible. It warned U.S. citizens in the region to remain vigilant and flagged possible flight cancellations, airspace closures and travel disruptions, advising travelers to monitor airport and airline operations."
-    },
-    {
-      "id": "mkt:01a05f29-25f8-7118-8447-d09e8201c8b9",
-      "time": "2026-09-02 06:48:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Interior Ministry issued a potential-threat alert, urging citizens and residents to proceed to the nearest safe location."
-    },
-    {
-      "id": "5071791",
-      "time": "2026-09-02 06:47:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美駐卡達使館釋出安全警報 稱存在局勢升級可能】美國駐卡達使館當地時間9月1日晚釋出安全警報稱，由於中東地區局勢緊張，當前安全環境仍然複雜，存在不可預見的局勢升級可能。使館提醒目前身處中東地區的美國公民保持高度警惕，並注意可能出現的航班取消、空域關閉以及旅行中斷等情況。警報建議計劃往返中東地區的美國公民密切關注機場和航空公司的執行資訊。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a05f26-b35c-7118-8447-cbb56909335c",
-      "time": "2026-09-02 06:46:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand July building consents YoY 10.1% vs prior 32.1%."
-    },
-    {
-      "id": "mkt:01a05f26-99c3-7118-8447-c0c236675f72",
-      "time": "2026-09-02 06:46:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Building Permits (YoY) (Jul) | actual 10.1% | previous 32.1%"
-    },
-    {
-      "id": "mkt:01a05f25-cb97-7118-8447-b81c6b0ff7d4",
-      "time": "2026-09-02 06:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand July building consents MoM -4.3%; prior revised from -3.6% to -3.7%."
-    },
-    {
-      "id": "te:markets:580186",
-      "time": "2026-09-02 06:45:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 2.71% — Top crypto losers are XRP (-2.71%), Ether (-2.45%) and Bitcoin (-1.85%)."
-    },
-    {
-      "id": "mkt:01a05f25-b0ff-7118-8447-b6fa522a665e",
-      "time": "2026-09-02 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Building Permits (MoM) (Jul) | actual -4.3% | previous -3.60%"
-    },
-    {
-      "id": "mkt:01a05f25-3c16-7118-8447-ae1babba8c27",
-      "time": "2026-09-02 06:44:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "MPC.O",
-        "Impact bullish"
-      ],
-      "text": "【White House: refiners seek to expand capacity; Venezuelan low-cost crude to enter market in November】White House deputy press secretary Taylor Rogers said after a closed-door meeting with oil executives including Chevron and Marathon that refiners want to expand capacity and President Trump pressed for lower pump prices. Exxon did not attend; the meeting focused on refining rather than drilling. Rogers said Venezuelan crude is already being shipped to Texas and Louisiana and that low-cost barrels should start entering the market in November, with millions of barrels expected by early next year if schedules hold."
-    },
-    {
-      "id": "5071790",
-      "time": "2026-09-02 06:43:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍對伊朗新一輪打擊6個半小時】美國中央司令部今天（9月2日）最新發宣告稱，已完成一輪針對伊朗軍事目標的打擊行動。在持續約6個半小時的行動中，美軍“打擊了伊朗伊斯蘭革命衛隊的目標，包括防空陣地、雷達系統、海上資產與設施、佈雷能力以及通訊站點”。宣告稱，“此次打擊是在伊朗伊斯蘭革命衛隊近期企圖襲擊霍爾木茲海峽的商業航運以及美國軍人之後進行的。目前有超過5萬名美軍人員在中東各地執行任務，他們保持高度警惕、具備致命打擊能力，並準備好繼續執行由總統特朗普下達的作戰指令。” （CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:580185",
-      "time": "2026-09-02 06:40:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Soars by 7.45% — Top commodity gainers are Palm Oil (7.45%) and Canola (3.43%). Biggest losers are Cocoa (-3.85%), Cotton (-1.73%) and Lumber (-1.05%)."
-    },
-    {
-      "id": "mkt:01a05f20-0ee6-7118-8447-a15cd9ec799e",
-      "time": "2026-09-02 06:38:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's finance minister met U.S. Treasury Secretary Scott Bessent at the G20. He said Canada's Plan A is to strengthen domestic economic capacity and expand overseas trade ties, and that Ottawa will continue to advance measures to implement the plan."
-    },
-    {
-      "id": "5071789",
-      "time": "2026-09-02 06:37:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國中央司令部：完成對伊朗境內革命衛隊目標的打擊】美國中央司令部部隊於9月1日完成一輪針對伊朗軍事目標的打擊行動。美軍打擊了伊朗革命衛隊的多處目標，包括防空陣地、雷達系統、海上相關設施與裝備、佈雷能力相關設施以及通訊站點。此次打擊，是針對伊朗革命衛隊近期企圖襲擊霍爾木茲海峽商船以及美方軍事人員所作出的回應。目前有超過5萬名美軍部署在中東各地，保持高度戒備，具備作戰能力，隨時準備繼續執行美國總統下達的作戰指令。"
-    },
-    {
-      "id": "5071788",
-      "time": "2026-09-02 06:36:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：超過5萬名美軍駐紮在中東。"
-    },
-    {
-      "id": "5071787",
-      "time": "2026-09-02 06:36:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：打擊了伊朗的佈雷能力和通訊設施。"
-    },
-    {
-      "id": "te:markets:580184",
-      "time": "2026-09-02 06:35:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 3.72% — Top commodity losers are Silver (-3.72%), Gold (-2.56%) and Platinum (-2.55%). Gains are led by Iron Ore (3.41%) and Lithium Carbonate (0.95%)."
-    },
-    {
-      "id": "5071786",
-      "time": "2026-09-02 06:34:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍結束對伊朗的最新一輪打擊。"
-    },
-    {
-      "id": "mkt:01a05f1b-62c3-7118-8447-9b154412cc9b",
-      "time": "2026-09-02 06:33:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Shipping data show Chevron's crude exports from Venezuela fell to 286,000 b/d in August; Venezuelan crude exports carried by trading firms were essentially unchanged at 597,000 b/d."
-    },
-    {
-      "id": "mkt:01a05f1a-87b0-7118-8447-956c06750a86",
-      "time": "2026-09-02 06:32:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Shipping data show Venezuela's oil exports to the US fell to 553,000 b/d in August; exports to India and Europe increased."
-    },
-    {
-      "id": "mkt:01a05f1a-232a-7118-8447-89076766a634",
-      "time": "2026-09-02 06:32:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Venezuela's oil exports in August were essentially unchanged at 1.17 mln b/d."
-    },
-    {
-      "id": "5071785",
-      "time": "2026-09-02 06:31:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，雪佛龍8月在委內瑞拉原油出口量降至28.6萬桶/日。"
-    },
-    {
-      "id": "5071784",
-      "time": "2026-09-02 06:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，8月貿易商承運的委內瑞拉石油出口量幾乎沒有變化，維持在每日59.7萬桶。"
-    },
-    {
-      "id": "5071783",
-      "time": "2026-09-02 06:31:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，8月委內瑞拉對美石油出口降至每日55.3萬桶。"
-    },
-    {
-      "id": "5071782",
-      "time": "2026-09-02 06:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，8月份委內瑞拉對印度和歐洲的石油出口有所增加。"
-    },
-    {
-      "id": "5071781",
-      "time": "2026-09-02 06:31:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "航運資料及檔案顯示，委內瑞拉8月石油出口總量基本持平，維持在每日117萬桶。"
-    },
-    {
-      "id": "5071780",
-      "time": "2026-09-02 06:30:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特多個美軍基地發生爆炸】當地時間9月2日凌晨，科威特軍方稱遭伊朗襲擊，防空系統正在攔截敵對空中目標。科威特當地訊息人士稱，多個美軍基地發生爆炸。（央視新聞）"
-    },
-    {
-      "id": "te:markets:580183",
-      "time": "2026-09-02 06:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Surges by 8.67% — Top commodity gainers are Natural Gas UK (8.67%), Heating Oil (7.07%), Crude Oil WTI (6.06%) and Brent Crude Oil (5.47%). Biggest loser is Methanol (-1.35%)."
-    },
-    {
-      "id": "5071779",
-      "time": "2026-09-02 06:29:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：必須確保人工智慧帶來的生產效率提升能夠普惠惠及各方。"
-    },
-    {
-      "id": "mkt:01a05f17-630b-7118-8447-85dc04a16446",
-      "time": "2026-09-02 06:29:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Postal Service says it is reviewing concerns from senators and a whistleblower about proposed restrictions on mail-in voting."
-    },
-    {
-      "id": "5071778",
-      "time": "2026-09-02 06:29:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政署表示，正在就參議員與舉報人針對擬議郵寄投票限制提出的擔憂展開審查。"
-    },
-    {
-      "id": "mkt:01a05f17-02f1-7118-8447-7aecdb023676",
-      "time": "2026-09-02 06:28:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said AI companies have done a very poor job explaining themselves to the American public."
-    },
-    {
-      "id": "5071777",
-      "time": "2026-09-02 06:28:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們已看到人工智慧正在創造更多就業崗位。"
-    },
-    {
-      "id": "5071776",
-      "time": "2026-09-02 06:28:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特：（美國）人工智慧公司在向美國民眾解釋自身方面做得非常糟糕。"
-    },
-    {
-      "id": "5071775",
-      "time": "2026-09-02 06:27:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：人工智慧可能具有變革性。"
-    },
-    {
-      "id": "5071774",
-      "time": "2026-09-02 06:27:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：日本再通脹已經取得成功，現在需要政策轉向。"
-    },
-    {
-      "id": "mkt:01a05f15-4398-7118-8447-77ba48f9b799",
-      "time": "2026-09-02 06:27:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said now is the time for Japan's Prime Minister Takaichi's economic policies."
-    },
-    {
-      "id": "5071773",
-      "time": "2026-09-02 06:26:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：日本如今已是全球最具活力的經濟體之一。"
-    },
-    {
-      "id": "mkt:01a05f15-07b5-7118-8447-6a387f13346f",
-      "time": "2026-09-02 06:26:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said one of Iran’s best allies is the media, which he said immediately publishes all the lies Iran tells. He added there are no sea mines in the strait and the two tankers did not strike sea mines."
-    },
-    {
-      "id": "mkt:01a05f14-25e5-7118-8447-666f48a83fef",
-      "time": "2026-09-02 06:25:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says multiple US bases in Kuwait hit by blasts】Early on Sept. 2 local time, Kuwait’s military said it had been attacked by Iran and that air-defence systems were intercepting hostile aerial targets. Iran state television, citing Kuwaiti local sources, reported “multiple US bases exploded.”"
-    },
-    {
-      "id": "5071772",
-      "time": "2026-09-02 06:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談及伊朗：伊朗革命衛隊內部要麼發生內訌，要麼民眾起來反對他們，要麼他們就會坐到談判桌前，尋求一份自己能夠信守的協議。"
-    },
-    {
-      "id": "5071770",
-      "time": "2026-09-02 06:24:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特：二十國集團所有成員應保持密切溝通，推動人工智慧進入生產力落地階段。"
-    },
-    {
-      "id": "5071769",
-      "time": "2026-09-02 06:23:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷外長：將以更具體的外交行動維護馬島主權】阿根廷外交部長巴勃羅·基爾諾8月31日晚表示，將以更具體的外交行動和更有效的手段維護阿根廷對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。據悉，阿政府內閣會議1日將討論涉及馬島的問題。 (央視新聞)"
-    },
-    {
-      "id": "5071768",
-      "time": "2026-09-02 06:23:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特：已與二十國集團成員討論美國為提升人工智慧彈性所採取的措施。"
-    },
-    {
-      "id": "mkt:01a05f11-10db-7118-8447-5e37eca55523",
-      "time": "2026-09-02 06:22:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said interest rates will fall after we get through this phase."
-    },
-    {
-      "id": "mkt:01a05f10-dda4-7118-8447-560e078ffbec",
-      "time": "2026-09-02 06:22:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said capital spending will translate into higher productivity and significantly reduce inf pressure."
-    },
-    {
-      "id": "5071767",
-      "time": "2026-09-02 06:21:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：AI領域的投入長期會起到抑制通脹的效果。"
-    },
-    {
-      "id": "5071766",
-      "time": "2026-09-02 06:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：資本支出將轉化為生產率，會起到極強的抗通脹作用。"
-    },
-    {
-      "id": "mkt:01a05f0f-d258-7118-8447-48d602ffbeb4",
-      "time": "2026-09-02 06:21:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iranian President Pezeshkian, Parliament Speaker Ghalibaf and the central bank governor have acknowledged Iran faces economic problems, and that Iran’s economic collapse is only a matter of time."
-    },
-    {
-      "id": "5071765",
-      "time": "2026-09-02 06:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：利率會在我們渡過當前這輪通脹週期後下調。"
-    },
-    {
-      "id": "mkt:01a05f0e-da55-7118-8447-418e92150b08",
-      "time": "2026-09-02 06:20:03",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Treasury Secretary Bessent said Iran cannot obtain dollars and is in a death struggle."
-    },
-    {
-      "id": "5071764",
-      "time": "2026-09-02 06:19:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗無法獲得美元，正處於垂死掙扎之中。"
-    },
-    {
-      "id": "5071763",
-      "time": "2026-09-02 06:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗有可能會加大武力打擊行動。"
-    },
-    {
-      "id": "5071762",
-      "time": "2026-09-02 06:18:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗正處於破產程序的加速階段。"
-    },
-    {
-      "id": "mkt:01a05f0d-433a-7118-8447-3915fce544de",
-      "time": "2026-09-02 06:18:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said two vessels in the Strait of Hormuz were not struck by sea mines."
-    },
-    {
-      "id": "5071761",
-      "time": "2026-09-02 06:17:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：昨日有1700萬桶原油完成（從中東地區）外運。"
-    },
-    {
-      "id": "5071760",
-      "time": "2026-09-02 06:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗並未控制霍爾木茲海峽，控制權在我們手中。"
-    },
-    {
-      "id": "5071759",
-      "time": "2026-09-02 06:16:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗並不掌控霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:01a05f0a-eac4-7118-8447-343f87011a52",
-      "time": "2026-09-02 06:15:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. is creating private-sector job opportunities."
-    },
-    {
-      "id": "5071758",
-      "time": "2026-09-02 06:15:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：正在創造私營部門就業崗位。"
-    },
-    {
-      "id": "5071757",
-      "time": "2026-09-02 06:15:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波音公司擬向日本防衛省提案AI無人機。"
-    },
-    {
-      "id": "mkt:01a05f0a-8724-7118-8447-2a16ad9a7fe6",
-      "time": "2026-09-02 06:15:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the lowest-income quartile is experiencing real wage growth."
-    },
-    {
-      "id": "5071756",
-      "time": "2026-09-02 06:15:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：隨著能源價格回落，實際工資將會出現大幅增長。"
-    },
-    {
-      "id": "te:markets:580182",
-      "time": "2026-09-02 06:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 0.64% — Top currency gainers are Brazilian Real (0.64%) and Dollar Index (0.22%). Biggest losers are South Korean Won (-0.58%), Swiss Franc (-0.38%), New Zealand Dollar (-0.37%), Japanese Yen (-0.27%), British Pound (-0.23%) and Euro (-0.19%)."
-    },
-    {
-      "id": "5071755",
-      "time": "2026-09-02 06:14:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：能源價格目前只是暫時性走高，後續將會回落。"
-    },
-    {
-      "id": "5071754",
-      "time": "2026-09-02 06:14:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：收入最低四分之一群體現已出現實際工資增長。"
-    },
-    {
-      "id": "mkt:01a05f09-78db-7118-8447-2607cff4c91c",
-      "time": "2026-09-02 06:14:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the top priority is achieving higher economic growth."
-    },
-    {
-      "id": "5071753",
-      "time": "2026-09-02 06:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談及債券收益率：最重要的是實現更高水平的經濟增長。"
-    },
-    {
-      "id": "mkt:01a05f09-0624-7118-8447-1b37dff5f0d0",
-      "time": "2026-09-02 06:13:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said allies have confirmed support for an 'economic pariah' campaign against Iran and that the U.S. will pursue any entities supporting the Iranian regime."
-    },
-    {
-      "id": "mkt:01a05f08-470d-7118-8447-159dbe6edbd0",
-      "time": "2026-09-02 06:12:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iranian crude stored at sea is currently minimal."
-    },
-    {
-      "id": "mkt:01a05f08-4445-7118-8447-097c844b9ebc",
-      "time": "2026-09-02 06:12:52",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. will close any channels used to transfer funds to Iran."
-    },
-    {
-      "id": "5071751",
-      "time": "2026-09-02 06:12:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破91美元/桶，日內漲0.87%。"
-    },
-    {
-      "id": "5071750",
-      "time": "2026-09-02 06:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗目前海上原油數量極少。"
-    },
-    {
-      "id": "5071749",
-      "time": "2026-09-02 06:11:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗目前海上浮儲原油僅剩約3000萬桶。"
-    },
-    {
-      "id": "5071748",
-      "time": "2026-09-02 06:11:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍隊稱，在伊朗發動襲擊後，科威特防空部隊目前正在應對敵方無人機攻擊。"
-    },
-    {
-      "id": "mkt:01a05f06-783d-7118-8447-06b7a7b8c891",
-      "time": "2026-09-02 06:10:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent met with Russia's finance minister, who is not under sanctions."
-    },
-    {
-      "id": "5071747",
-      "time": "2026-09-02 06:10:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：許多盟友表示將在伊朗問題上採取一切必要措施。"
-    },
-    {
-      "id": "mkt:01a05f06-4887-7118-8446-f834a2e613b5",
-      "time": "2026-09-02 06:10:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said many allies have indicated they will take all necessary measures to address the Iran issue."
-    },
-    {
-      "id": "5071746",
-      "time": "2026-09-02 06:10:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已就伊朗問題與俄羅斯進行了極低調的會談。"
-    },
-    {
-      "id": "mkt:01a05f05-dde7-7118-8446-f014ebb10a14",
-      "time": "2026-09-02 06:10:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's military says the country's air defenses are currently responding to drone attacks from Iran."
-    },
-    {
-      "id": "5071745",
-      "time": "2026-09-02 06:08:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特：已會晤未受制裁的俄羅斯財政部長。"
-    },
-    {
-      "id": "5071744",
-      "time": "2026-09-02 06:08:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：若雙方不對話，俄烏衝突無法解決。"
-    },
-    {
-      "id": "5071743",
-      "time": "2026-09-02 06:07:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已與加拿大財長討論了人工智慧與全球失衡問題。"
-    },
-    {
-      "id": "mkt:01a05f03-5d68-7118-8446-eccdd05d0294",
-      "time": "2026-09-02 06:07:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US Treasury Secretary Bessent discussed AI and global imbalances with Canada's finance minister."
-    },
-    {
-      "id": "5071742",
-      "time": "2026-09-02 06:07:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國加州總檢察長稱，萊茵集團與美國內政部達成的這項交易涉嫌違反《外大陸架土地法》。"
-    },
-    {
-      "id": "5071741",
-      "time": "2026-09-02 06:05:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：已與加拿大方面開展富有成效的磋商。"
-    },
-    {
-      "id": "5071740",
-      "time": "2026-09-02 06:05:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：當前貿易領域存在一種不可持續的平衡狀態。"
-    },
-    {
-      "id": "5071739",
-      "time": "2026-09-02 06:05:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國加州總檢察長就美國內政部與萊茵集團12.2億美元海上風電租約回購事宜，發出起訴意向通知書。"
-    },
-    {
-      "id": "5071738",
-      "time": "2026-09-02 06:02:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜雲科技：美國聯邦選舉委員會向數字競選防護組織（DDC）授予特殊許可，允許其為符合條件的聯邦競選團隊提供網路安全支援。"
-    },
-    {
-      "id": "5071737",
-      "time": "2026-09-02 06:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺9月2日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "mkt:01a05efe-8a04-7118-8446-e654ec653b6b",
-      "time": "2026-09-02 06:02:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent: Growth is the foundation of sustained prosperity."
-    },
-    {
-      "id": "5071736",
-      "time": "2026-09-02 06:01:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報64.71美元/盎司。"
-    },
-    {
-      "id": "mkt:01a05efd-b286-7118-8446-da5c31bd2107",
-      "time": "2026-09-02 06:01:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said debt distress could hinder firms' investment in employees and longer-term initiatives."
-    },
-    {
-      "id": "5071735",
-      "time": "2026-09-02 06:00:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：債務困境會阻礙企業對員工和自身未來發展進行投資。"
-    },
-    {
-      "id": "mkt:01a05efd-5d08-7118-8446-d7ace44eab90",
-      "time": "2026-09-02 06:00:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services (AWS) is expanding its digital campaign-defense program for the 2026 US election, offering more than 20 free or low-cost cybersecurity services."
-    },
-    {
-      "id": "5071734",
-      "time": "2026-09-02 06:00:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜雲科技（AWS）：擴圍2026年美國大選“捍衛數字競選”服務，免費或低價提供超20項網路安全服務。"
-    },
-    {
-      "id": "mkt:01a05efd-2896-7118-8446-cf8dec229849",
-      "time": "2026-09-02 06:00:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "WTI crude opened slightly lower Wednesday; spot gold opened slightly higher."
-    },
-    {
-      "id": "mkt:01a05efc-607a-7118-8446-c64a5302546b",
-      "time": "2026-09-02 05:59:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said growth is the foundation of lasting prosperity. G20 discussions emphasized the abundance of resources."
-    },
-    {
-      "id": "5071733",
-      "time": "2026-09-02 05:59:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特：二十國集團會談已凸顯出資源十分充足。"
-    },
-    {
-      "id": "5071732",
-      "time": "2026-09-02 05:59:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：經濟增長是實現長期可持續繁榮的基礎條件。"
-    },
-    {
-      "id": "5071731",
-      "time": "2026-09-02 05:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：滿足於“不及預期的低速增長”的日子已經一去不復返。"
-    },
-    {
-      "id": "5071730",
-      "time": "2026-09-02 05:57:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗無人機打擊巴林美軍基地】當地時間今天（9月2日）凌晨，伊朗軍隊發表宣告稱， 為回應敵方對伊朗南部地區的侵略，數小時前，伊朗軍隊對位於巴林的謝赫伊薩美軍基地的雷達設施和集結中心發動了大規模無人機打擊。伊朗軍隊將對敵方的罪惡行徑予以毀滅性、廣泛回擊，對侵略者進行嚴厲報復。（CCTV國際時訊）"
-    },
-    {
-      "id": "5071729",
-      "time": "2026-09-02 05:54:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡：以方抓獲哈馬斯內部安全機構負責人】色列總理內塔尼亞胡1日發表宣告說，以國家安全總局（辛貝特）和以國防軍當天在加沙地帶實施行動，一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階成員在其住所附近被抓獲。內塔尼亞胡稱，被抓獲人員是哈馬斯內部安全機構負責人，也是哈馬斯最高層領導人之一。此人曾負責藏匿和轉移被扣押的以色列人員、掩護哈馬斯高階成員，並參與哈馬斯軍事力量建設以及恢復其相關能力的行動。（新華社）"
-    },
-    {
-      "id": "mkt:01a05ef7-1866-7118-8446-b97c49afda10",
-      "time": "2026-09-02 05:54:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu says Israel captured head of Hamas internal security】Prime Minister Netanyahu said on the 1st that Shin Bet and the Israel Defense Forces conducted an operation in the Gaza Strip and captured a senior Hamas member near his residence. Netanyahu identified the detainee as head of Hamas’s internal security organ and a senior leader who was responsible for concealing and moving detained Israeli personnel, sheltering senior Hamas figures, and participating in building and restoring the group’s military capabilities."
-    },
-    {
-      "id": "mkt:01a05ef6-b6af-7118-8446-b68c2ad45281",
-      "time": "2026-09-02 05:53:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 presidency said it supports the IMF strengthening analytical tools to improve surveillance of policies that drive global economic imbalances."
-    },
-    {
-      "id": "5071728",
-      "time": "2026-09-02 05:53:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "通用電氣航空獲得美國海軍價值28.7億美元合同，為17種F414發動機部件提供後勤保障服務。"
-    },
-    {
-      "id": "5071727",
-      "time": "2026-09-02 05:53:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍或為防伊朗轉移“黑鷹”直升機】近日有訊息稱，在約旦某處美軍基地附近拍到美軍用拖車裝載兩架“黑鷹”直升機駛離的畫面。有分析指出，這有可能是美軍為預防伊朗反擊而做出的舉動。還有分析稱，由於在約旦的美軍基地此前就曾遭伊朗打擊，此次用拖車裝載的“黑鷹”可能本身就已無法飛行。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a05ef6-52bd-7118-8446-ac90d531f58b",
-      "time": "2026-09-02 05:53:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 presidency statement: G20 economies recognize that excessive, persistent imbalances pose risks and may cause distortions and adverse spillovers."
-    },
-    {
-      "id": "mkt:01a05ef5-afee-7118-8446-a6d9f5d01ca4",
-      "time": "2026-09-02 05:52:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DELL.N",
-        "Impact mixed"
-      ],
-      "text": "Dell (DELL.N) chief operating officer said the company is facing sporadic CPU and hard-drive shortages and is seeing increased use of its storage products in AI workloads."
-    },
-    {
-      "id": "mkt:01a05ef5-2a5d-7118-8446-9afe95043cd7",
-      "time": "2026-09-02 05:52:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N) chief operating officer said demand for AI agents is reshaping data centers and their underlying infrastructure, and expects AI to account for 75% of all data-center demand by 2030."
-    },
-    {
-      "id": "5071726",
-      "time": "2026-09-02 05:51:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團主席國宣告：支援國際貨幣基金組織完善分析工具，以加強對推動全球失衡的相關政策的監測。"
-    },
-    {
-      "id": "5071725",
-      "time": "2026-09-02 05:50:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團主席國宣告：二十國集團經濟體認同，過度且持續的失衡會帶來風險，可能引發扭曲效應，併產生負面溢位效應。"
-    },
-    {
-      "id": "mkt:01a05ef3-ff67-7118-8446-92f70cc93812",
-      "time": "2026-09-02 05:50:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 presidency said promoting growth is a key priority for G20 economies and pledged to address growth barriers, including regulatory and administrative burdens."
-    },
-    {
-      "id": "mkt:01a05ef3-dce7-7118-8446-89fd567ee01d",
-      "time": "2026-09-02 05:50:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 presidency statement: G20 finance ministers urged countries to avoid unnecessary export restrictions to ensure the normal functioning of supply chains."
-    },
-    {
-      "id": "5071724",
-      "time": "2026-09-02 05:50:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團主席宣告：推動增長是二十國集團各經濟體的核心優先事項，各方正共同努力消除增長障礙，包括監管負擔與行政負擔。"
-    },
-    {
-      "id": "5071723",
-      "time": "2026-09-02 05:50:15",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "二十國集團主席國宣告：二十國集團財長敦促各國避免不必要的出口限制，以保障供應鏈正常運轉。"
-    },
-    {
-      "id": "mkt:01a05ef3-38b2-7118-8446-8368e549065f",
-      "time": "2026-09-02 05:49:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "G20 presidency statement: G20 expressed concern about continued disruptions to energy trade and pressure on freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "5071722",
-      "time": "2026-09-02 05:49:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "二十國集團主席國宣告表示，二十國集團對能源貿易持續受阻及霍爾木茲海峽通航安全問題表示關切。"
-    },
-    {
-      "id": "mkt:01a05ef2-c88c-7118-8446-7ff6d1d5de5c",
-      "time": "2026-09-02 05:49:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "G20 presidency said the global economy remains resilient amid multiple shocks, including ongoing wars and conflicts."
-    },
-    {
-      "id": "5071721",
-      "time": "2026-09-02 05:48:15",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "二十國集團主席國宣告稱，全球經濟在多重衝擊（包括當前持續的戰爭與衝突）面前仍保持韌性。"
-    },
-    {
-      "id": "5071720",
-      "time": "2026-09-02 05:48:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "霍爾木茲省副省長：美軍對錫裡克地區庫赫斯塔克一處婚禮現場發動襲擊，受傷人數已上升至68人。"
-    },
-    {
-      "id": "5071719",
-      "time": "2026-09-02 05:46:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織稱，霍爾木茲海峽若被封鎖，將使能源衝擊風險維持在高位。"
-    },
-    {
-      "id": "5071718",
-      "time": "2026-09-02 05:45:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織表示，2026年全球經濟增長前景趨於穩固，增速約為3%。"
-    },
-    {
-      "id": "5071717",
-      "time": "2026-09-02 05:43:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京談及烏克蘭問題：沒有人在對我們施加壓力，但我們各方朋友的立場是，所有人都希望儘快結束這場衝突，最好透過和平方式。我們瞭解這一立場，對此十分尊重，這份態度是真誠的。"
-    },
-    {
-      "id": "mkt:01a05eeb-e7b2-7118-8446-752da8ae387d",
-      "time": "2026-09-02 05:41:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian President Putin said late last night Ukraine attempted to strike three refineries but failed because the sites are now protected. He said that does not mean attacks are impossible, but current defenses are substantially different."
     }
   ]
 }
