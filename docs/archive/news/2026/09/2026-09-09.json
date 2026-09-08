@@ -1,7 +1,34 @@
 {
   "date": "2026-09-09",
-  "count": 138,
+  "count": 141,
   "items": [
+    {
+      "id": "5083580",
+      "time": "2026-09-09 02:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政總局監察長表示，計劃對舉報人關於郵寄選票限制計劃的指控進行獨立審查。"
+    },
+    {
+      "id": "te:markets:582130",
+      "time": "2026-09-09 02:20:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Rises by 2.18% — Top commodity gainers are Copper (2.18%) and Silicon (1.91%). Biggest losers are Lithium Carbonate (-0.51%) and Gold (-0.45%)."
+    },
+    {
+      "id": "5083579",
+      "time": "2026-09-09 02:17:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇：塞爾維亞將於10月25日舉行議會選舉】當地時間9月8日晚，塞爾維亞總統武契奇在參加塞爾維亞國家廣播電視臺直播新聞節目時表示，他已經收到塞爾維亞政府提交的關於解散國民議會的提案，並將於9日12時正式簽署解散國民議會和舉行選舉的相關檔案，提前議會選舉將於10月25日舉行。"
+    },
     {
       "id": "5083578",
       "time": "2026-09-09 02:17:37",

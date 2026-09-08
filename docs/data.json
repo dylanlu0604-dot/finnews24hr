@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-09 02:18:19",
-  "count": 13983,
+  "updated": "2026-09-09 02:22:09",
+  "count": 13982,
   "items": [
+    {
+      "id": "5083580",
+      "time": "2026-09-09 02:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政總局監察長表示，計劃對舉報人關於郵寄選票限制計劃的指控進行獨立審查。"
+    },
+    {
+      "id": "te:markets:582130",
+      "time": "2026-09-09 02:20:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Rises by 2.18% — Top commodity gainers are Copper (2.18%) and Silicon (1.91%). Biggest losers are Lithium Carbonate (-0.51%) and Gold (-0.45%)."
+    },
+    {
+      "id": "5083579",
+      "time": "2026-09-09 02:17:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇：塞爾維亞將於10月25日舉行議會選舉】當地時間9月8日晚，塞爾維亞總統武契奇在參加塞爾維亞國家廣播電視臺直播新聞節目時表示，他已經收到塞爾維亞政府提交的關於解散國民議會的提案，並將於9日12時正式簽署解散國民議會和舉行選舉的相關檔案，提前議會選舉將於10月25日舉行。"
+    },
     {
       "id": "5083578",
       "time": "2026-09-09 02:17:37",
@@ -127615,46 +127642,6 @@
         "XAUUSD"
       ],
       "text": "【Iran warns Bahrain and Kuwait, 'gifts are on the way'】The Iranian military said it will no longer show restraint toward Bahrain and Kuwait and that \"gifts are on the way,\" issuing the warning after US strikes on Islamic Revolutionary Guard Corps (IRGC) targets. Iran has been accused of attacks on commercial shipping and US forces. US President Trump warned any Iranian retaliation would provoke a stronger US response."
-    },
-    {
-      "id": "5071544",
-      "time": "2026-09-02 02:21:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國指認俄涉萊比錫機場襲擊 關閉俄駐波恩總領館 】德國政府1日稱，俄羅斯應對8月上旬發生在德東部萊比錫機場的無人機襲擊未遂事件負責，並宣佈關閉俄羅斯駐波恩總領事館。德國內政部長多布林特當天在新聞釋出會上說，此次襲擊所涉爆炸物和引爆技術與此前俄羅斯在其他“混合行動”和對烏戰事中使用的相似。襲擊顯示出專業特徵，而具體實施者為“低層級特工”。德國外交部長瓦德富爾在同一場合說，德方已召見俄羅斯駐德國大使，並決定於9月18日關閉俄羅斯駐波恩總領事館，同時終止與位於柏林的文化機構“俄羅斯之家”的相關合同。此外，德國將加強對俄公民的入境檢查，並加大對俄“影子艦隊”的施壓力度。（新華社）"
-    },
-    {
-      "id": "te:markets:580161",
-      "time": "2026-09-02 02:20:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore Gains by 3.41% — Top commodity gainers are Iron Ore (3.41%) and Lithium Carbonate (0.95%). Biggest losers are Silver (-3.01%), Gold (-2.25%) and Platinum (-2.01%)."
-    },
-    {
-      "id": "mkt:01a05e32-eb37-7118-8442-324cd93b76ea",
-      "time": "2026-09-02 02:19:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said, when asked which Iranian targets were struck tonight, that a large number of radar facilities were hit."
-    },
-    {
-      "id": "5071543",
-      "time": "2026-09-02 02:18:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據美國紐約聯儲資料，上個交易日（8月31日）擔保隔夜融資利率（SOFR）報3.68%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
     }
   ]
 }
