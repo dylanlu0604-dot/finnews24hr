@@ -1,7 +1,56 @@
 {
   "date": "2026-09-08",
-  "count": 2257,
+  "count": 2262,
   "items": [
+    {
+      "id": "5083396",
+      "time": "2026-09-08 22:45:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.885美元/百萬英熱。"
+    },
+    {
+      "id": "te:economy:582093",
+      "time": "2026-09-08 22:43:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Production Nears 7-Year High — Brazil’s vehicle production increased 6.8% month-on-month to 271.2 thousand units in August 2026, accelerating from a 3.1% increase in July and reaching the highest monthly output since October 2019. Light vehicle production reached 257.5 thousand units, with passenger cars up 9.5% to 214.9 thousand units and light commercial vehicles down 2% to 42.6 thousand units. Heavy vehicle production totaled 13.6 thousand units, with trucks down 2.8% to 11.8 thousand units and buses declining 13.1% to 1.86 thousand units. Production rose 9.4% year-on-year. In the first eight months of 2026, output totaled about 1.9 million units, up 8.5% year-on-year. Despite the strong growth, two-thirds of the additional 150,000 vehicles produced this year were SKD and CKD models, imported in parts and assembled in Brazil."
+    },
+    {
+      "id": "5083394",
+      "time": "2026-09-08 22:43:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國大眾集團欲靠軍工需求擺脫困境】為應對美國關稅政策、市場低迷等因素帶來的衝擊，德國汽車巨頭大眾集團7日宣佈，將其位於德國西北部奧斯納布呂克市的一家工廠出售給總部設在以色列的一家投資企業以及德國下薩克森州政府。這家工廠將從生產汽車改為製造軍工產品。"
+    },
+    {
+      "id": "mkt:01a08178-f981-7118-84ee-5f03f5ff68db",
+      "time": "2026-09-08 22:43:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England governor Bailey said he hopes that when the UK hosts next year’s G20, the summit will deliver higher-quality discussions on global imbalances."
+    },
+    {
+      "id": "te:markets:582092",
+      "time": "2026-09-08 22:42:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Extends Gains — US gasoline futures traded above $3.29 a gallon, extending gains near a two-week high as refineries face increasing pressure from energy supply disruptions. Attacks were reported at several energy facilities in Saudi Arabia by Iran-backed Houthi militants, while a Russian refinery in the Perm region was also targeted by Ukraine. At the same time, US refineries are operating near full capacity, with some bringing forward seasonal fall maintenance to keep production levels elevated. Meanwhile, EIA data showed US gasoline inventories fell by 1.173 million barrels in the week ending August 28th, marking continued drawdowns in recent weeks. As a result, pump prices reached a record Labor Day average of $4.15 a gallon, despite easing demand following the end of the summer driving season, athough further relief could come from the seasonal switch to the cheaper winter-blend. Meanwhile, Iran stated it had made progress with Oman on a temporary safe-passage route through the Strait of Hormuz."
+    },
     {
       "id": "5083393",
       "time": "2026-09-08 22:41:08",
