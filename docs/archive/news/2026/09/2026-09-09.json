@@ -1,7 +1,43 @@
 {
   "date": "2026-09-09",
-  "count": 294,
+  "count": 298,
   "items": [
+    {
+      "id": "te:markets:582147",
+      "time": "2026-09-09 04:32:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Broad Losses — The S&P/TSX Composite Index fell 1.1% to close at 36,123, pressured by financial, industrial and tech stocks. Canada’s retaliatory tariffs on US goods took effect, covering $20 billion of imports, with duties ranging from 15% to 50% on steel, furniture, clothing and electronics. The US tariffs introduced last month covered $20 billion, or 5%, of Canadian exports. President Trump said Monday that Bombardier (-1.5%) would not be allowed to sell planes in the US unless it began manufacturing there. Financials also came under pressure as oil prices climbed amid an escalation in the US-Iran war, raising concerns over energy disruptions and inflation and boosting rate-hike bets. RBC fell 1.1% and TD Bank 1.2%. Tech stocks tracked losses among US hyperscalers and other credit-sensitive software companies, with Shopify tumbling 7.8% and Constellation Software falling 5.6%. Enbridge added 0.5% after saying CEO Greg Ebel will retire by late 2026 and ?be succeeded by Michele Harradence."
+    },
+    {
+      "id": "5083668",
+      "time": "2026-09-09 04:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員透露美軍打擊哈爾克島附近伊朗目標】當地時間9月8日自美國方面獲悉，美軍打擊了伊朗哈爾克島和港口城市賈斯克附近的目標。有匿名美國高階官員表示，打擊目標包括伊朗油輪。當地時間8日晚，伊朗方面訊息稱，一艘伊朗油輪在距離哈爾克島4英里處遭到美軍導彈襲擊。當地訊息人士稱，事件中無人傷亡，油輪船員正在撤離。相關部門正在調查有關事件的具體情況。（央視新聞）"
+    },
+    {
+      "id": "5083667",
+      "time": "2026-09-09 04:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：指示美國總務管理局（GSA）與美國貿易代表辦公室（USTR）協作，採取一切必要措施，將原產於加拿大的產品移出美國總務管理局的多項授予計劃表。除非加拿大為美國農戶與企業恢復充分、公平的對等互惠待遇。"
+    },
+    {
+      "id": "5083666",
+      "time": "2026-09-09 04:30:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國希思羅機場：空中交通管制服務開始恢復。航班已恢復，但預計仍會有干擾。"
+    },
     {
       "id": "mkt:01a082b6-2041-7118-84f4-93f4208f9939",
       "time": "2026-09-09 04:29:28",

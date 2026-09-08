@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-09 04:30:20",
-  "count": 13923,
+  "updated": "2026-09-09 04:34:21",
+  "count": 13916,
   "items": [
+    {
+      "id": "te:markets:582147",
+      "time": "2026-09-09 04:32:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Broad Losses — The S&P/TSX Composite Index fell 1.1% to close at 36,123, pressured by financial, industrial and tech stocks. Canada’s retaliatory tariffs on US goods took effect, covering $20 billion of imports, with duties ranging from 15% to 50% on steel, furniture, clothing and electronics. The US tariffs introduced last month covered $20 billion, or 5%, of Canadian exports. President Trump said Monday that Bombardier (-1.5%) would not be allowed to sell planes in the US unless it began manufacturing there. Financials also came under pressure as oil prices climbed amid an escalation in the US-Iran war, raising concerns over energy disruptions and inflation and boosting rate-hike bets. RBC fell 1.1% and TD Bank 1.2%. Tech stocks tracked losses among US hyperscalers and other credit-sensitive software companies, with Shopify tumbling 7.8% and Constellation Software falling 5.6%. Enbridge added 0.5% after saying CEO Greg Ebel will retire by late 2026 and ?be succeeded by Michele Harradence."
+    },
+    {
+      "id": "5083668",
+      "time": "2026-09-09 04:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員透露美軍打擊哈爾克島附近伊朗目標】當地時間9月8日自美國方面獲悉，美軍打擊了伊朗哈爾克島和港口城市賈斯克附近的目標。有匿名美國高階官員表示，打擊目標包括伊朗油輪。當地時間8日晚，伊朗方面訊息稱，一艘伊朗油輪在距離哈爾克島4英里處遭到美軍導彈襲擊。當地訊息人士稱，事件中無人傷亡，油輪船員正在撤離。相關部門正在調查有關事件的具體情況。（央視新聞）"
+    },
+    {
+      "id": "5083667",
+      "time": "2026-09-09 04:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：指示美國總務管理局（GSA）與美國貿易代表辦公室（USTR）協作，採取一切必要措施，將原產於加拿大的產品移出美國總務管理局的多項授予計劃表。除非加拿大為美國農戶與企業恢復充分、公平的對等互惠待遇。"
+    },
+    {
+      "id": "5083666",
+      "time": "2026-09-09 04:30:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國希思羅機場：空中交通管制服務開始恢復。航班已恢復，但預計仍會有干擾。"
+    },
     {
       "id": "mkt:01a082b6-2041-7118-84f4-93f4208f9939",
       "time": "2026-09-09 04:29:28",
@@ -127079,115 +127115,6 @@
         "AAPL.O"
       ],
       "text": "Apple (AAPL.O) said in an SEC filing that Executive Chair Cook's annual salary will be set at $2.0m effective Sept. 26, 2026, and he was approved for a FY2027 annual equity award with a target value of $45.0m."
-    },
-    {
-      "id": "5071669",
-      "time": "2026-09-02 04:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：John Ternus獲批准2027財年年度股權獎勵目標價值為5500萬美元。"
-    },
-    {
-      "id": "mkt:01a05ead-7644-7118-8445-1ef846799047",
-      "time": "2026-09-02 04:33:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "SEC filing shows Apple (AAPL.O) approved a fiscal 2027 annual equity award for new CEO Ternus with a target value of $55 million."
-    },
-    {
-      "id": "5071668",
-      "time": "2026-09-02 04:33:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：蒂姆·庫克年薪定為200萬美元，自2026年9月26日起生效。"
-    },
-    {
-      "id": "mkt:01a05ead-2885-7118-8445-12ae28ad010f",
-      "time": "2026-09-02 04:33:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Putin says Ukraine talks frozen; orders readiness to strike Ukrainian energy infrastructure】At a Sept. 2 press conference after a Kyrgyzstan visit, Russian President Putin said negotiations on Ukraine are frozen. He said Russian forces have been ordered to prepare to carry out large-scale strikes on Ukrainian energy infrastructure and warned there would be a response if Russian factories are hit. Putin added U.S. presidential envoy Witkoff and Jared Kushner remain welcome in Russia and that contacts between Russian and U.S. intelligence services continue."
-    },
-    {
-      "id": "5071667",
-      "time": "2026-09-02 04:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：蒂姆·庫克獲批2027財年股權激勵計劃目標價值為4500萬美元。"
-    },
-    {
-      "id": "5071666",
-      "time": "2026-09-02 04:32:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：John Ternus薪酬上調至300萬美元。"
-    },
-    {
-      "id": "mkt:01a05eac-81e9-7118-8445-0971f322214d",
-      "time": "2026-09-02 04:32:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "SEC filings show Apple (AAPL.O) new CEO Ternus' annual salary has been raised to $3.0 million, effective Sept. 1, 2026."
-    },
-    {
-      "id": "te:markets:580178",
-      "time": "2026-09-02 04:32:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Drops on Higher Global Yields — The S&P/TSX Composite Index fell 1.2% to close at 35,826 on Tuesday amid rising global bond yields. Renewed Middle East hostilities lifted oil prices and prompted markets to reassess expectations for central bank rate hikes. The BoC is expected to leave rates unchanged on Wednesday, while Canada’s 10-year yield reached a near two-week high. Financial stocks declined, with TD Bank and BMO down 0.9% and National Bank losing 1.5%. Higher yields also weighed on gold prices, pressuring miners. Agnico Eagle fell 4.4%, Barrick and WPM declined 3.6% and Franco-Nevada shed 2.7%. Tech stocks extended losses, tracking weakness on Wall Street amid soaring AI-related corporate debt issuance. Shopify fell 4.7%, Constellation Software lost 2.8% and Celestica dropped 2.1%. In contrast, energy stocks gained, with Canadian Natural rising 3.7%, Suncor and Cenovus up 3.5% and Imperial Oil adding 3%."
-    },
-    {
-      "id": "5071665",
-      "time": "2026-09-02 04:31:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：烏克蘭問題談判程序處於凍結狀態】當地時間9月2日凌晨，俄羅斯總統普京在結束對吉爾吉斯斯坦的訪問之前舉行記者會。針對當前烏克蘭問題的談判程序，普京指出，任何談判都應具備實質性內容，目前烏克蘭問題談判程序處於凍結狀態。普京還表示，美國總統特使威特科夫和女婿庫什納在俄羅斯始終是受歡迎的人，俄方樂於與他們合作。提及前線戰況時，普京指出，俄軍已接到指示，準備對烏克蘭能源設施實施大規模打擊。他稱：“他們打擊我們的工廠，將會得到回應。”在評論不久前美國中情局局長到訪莫斯科時，普京表示，俄美情報部門之間的接觸始終存在，即便在冷戰最艱難的時期也未曾中斷。"
-    },
-    {
-      "id": "mkt:01a05eab-ea9a-7118-8445-0304fd8c21ab",
-      "time": "2026-09-02 04:31:59",
-      "tags": [
-        "MKT News",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) Maps has started changing the label for Lake Ontario: U.S. users will see Lake of the Americas, Canadian users will continue to see Lake Ontario, and international users may see both names."
-    },
-    {
-      "id": "5071664",
-      "time": "2026-09-02 04:31:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：在籌備釋出Astra模型之際，我們致力於讓能力持續增強的人工智慧做到安全可控，並實現廣泛可用。Astra在網路安全能力方面取得重大進展，達到了我們《準備度框架》中的關鍵閾值。我們對外公開該模型的評估方式、防護措施如何隨模型能力同步迭代，以及我們將持續鑽研改進的方向。"
     }
   ]
 }
