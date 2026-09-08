@@ -1,7 +1,170 @@
 {
   "date": "2026-09-08",
-  "count": 2293,
+  "count": 2309,
   "items": [
+    {
+      "id": "mkt:01a0818a-6ae3-7118-84ef-01cb62b7b527",
+      "time": "2026-09-08 23:02:07",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Boeing delivered 51 aircraft in August."
+    },
+    {
+      "id": "mkt:01a0818a-5b75-7118-84ee-fd2209a8b990",
+      "time": "2026-09-08 23:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed: five-year inflation expectations in August unchanged at 3%."
+    },
+    {
+      "id": "5083419",
+      "time": "2026-09-08 23:01:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：8月三年期通脹預期為3.2%，7月為3.3%。"
+    },
+    {
+      "id": "mkt:01a08189-efdf-7118-84ee-f446b598b70c",
+      "time": "2026-09-08 23:01:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "New York Fed: three-year inflation expectations for August 3.2%, down from 3.3% in July."
+    },
+    {
+      "id": "mkt:01a08189-ca68-7118-84ee-e9b828ed67bf",
+      "time": "2026-09-08 23:01:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed: August labor market outlook 'mixed'."
+    },
+    {
+      "id": "5083418",
+      "time": "2026-09-08 23:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普講話後，加元回吐漲幅。"
+    },
+    {
+      "id": "mkt:01a08189-ab9f-7118-84ee-e5750e24edf1",
+      "time": "2026-09-08 23:01:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "New York Fed: In August, consumers expected gasoline prices to rise."
+    },
+    {
+      "id": "mkt:01a08189-8027-7118-84ee-dbef81801f77",
+      "time": "2026-09-08 23:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "As of the 23:00 close, China's most-active domestic futures contracts were mixed: methanol up nearly 4% and caustic soda up about 2%; coking coal, PVC, p-xylene, propylene, PTA and synthetic rubber rose over 1%. On the downside, Soybean No.2 fell 1%, while asphalt and palm oil were down nearly 1%."
+    },
+    {
+      "id": "mkt:01a08189-439d-7118-84ee-d25263fff433",
+      "time": "2026-09-08 23:00:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "New York Fed says expectations that the unemployment rate will rise have strengthened."
+    },
+    {
+      "id": "mkt:01a08189-038c-7118-84ee-cc8dc648c738",
+      "time": "2026-09-08 23:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Aug NY Fed 1-year inflation expectations 3.58%, vs 3.63% prior."
+    },
+    {
+      "id": "te:markets:582098",
+      "time": "2026-09-08 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 1.03% — Top currency gainers are Brazilian Real (1.03%), Japanese Yen (0.23%), British Pound (0.08%) and Euro (0.07%). Biggest losers are Dollar Index (-0.37%) and New Zealand Dollar (-0.29%)."
+    },
+    {
+      "id": "5083417",
+      "time": "2026-09-08 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】甲醇連續漲3.93%，焦煤連續漲1.73%，PVC連續漲1.63%，PTA連續漲1.52%，短纖連續漲1.26%。"
+    },
+    {
+      "id": "mkt:01a08188-130e-7118-84ee-c07fcdce7c9a",
+      "time": "2026-09-08 22:59:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent reiterated his inflation view, saying the recent surge in energy prices is only a short-term issue."
+    },
+    {
+      "id": "5083416",
+      "time": "2026-09-08 22:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特重申通脹方面存在短期能源價格飆升。"
+    },
+    {
+      "id": "5083415",
+      "time": "2026-09-08 22:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普講話後，加元回吐當日漲幅。"
+    },
     {
       "id": "mkt:01a08187-0501-7118-84ee-bc98d4f1e53d",
       "time": "2026-09-08 22:58:24",
@@ -9,6 +172,15 @@
         "MKT News"
       ],
       "text": "President Trump said U.S. commerce secretary Lutnick \"has some flaws\" but is performing very well overall."
+    },
+    {
+      "id": "5083414",
+      "time": "2026-09-08 22:58:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商務部撥付1億美元資金後，Quantinuum股價上漲4.5%，D-Wave量子計算股價上漲9.3%。"
     },
     {
       "id": "5083413",
