@@ -1,7 +1,46 @@
 {
   "date": "2026-09-08",
-  "count": 468,
+  "count": 472,
   "items": [
+    {
+      "id": "mkt:01a07e92-1b98-7118-84d6-2632bd2fa76c",
+      "time": "2026-09-08 09:11:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【First-tier Chinese cities record six straight monthly residential rent increases; popular Shanghai listings move quickly】China Index Academy data show average residential rents in China's first-tier cities have risen MoM for six consecutive months since March. In Shanghai, rents rose across districts in August, led by Jinshan, Minhang, Putuo, Pudong New Area and Xuhui; average residential rent was 84.39 yuan/sq m/month in August, up 0.61% MoM and 1.25% YoY. Shenzhen also posted a sixth straight MoM increase: August average rent 83.05 yuan/sq m/month, up 0.27% MoM but down 0.11% YoY. Districts with MoM gains in Shenzhen included Guangming, Bao'an, Nanshan, Futian and Longgang; only Guangming, Bao'an and Futian showed YoY growth."
+    },
+    {
+      "id": "5081731",
+      "time": "2026-09-08 09:11:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺、精品茅臺逆勢小漲 五糧液普五八代、國窖1573回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月8日中國白酒業11大單品的終端零售均價三漲七跌一平，下跌品種顯著佔優，跌幅也明顯領先。贏家漲幅均微弱，飛天茅臺上漲1元至1791元，前期三連跌後價盤企穩；精品茅臺小漲1元至2459元，二連陽價格延續溫和修復；青花汾20上漲1元至391元，二連漲重上390元關口。下跌方面，五糧液普五八代下跌6元至814元，三連漲告終；國窖1573下跌6元至880元，M型震盪後破位下行，價格再度回探至進入9月以來低點；洋河夢之藍M6+下跌5元至609元，自30天高位回撥已連續三天收陰；古井貢古20下跌4元至529元，三連跌繼續走弱，價格進一步下探9月以來最低點；習酒君品下跌3元至638元，前期衝高後持續下滑，迄今也是三連跌；青花郎下跌3元至686元，短線回撥幅度繼續擴大，價盤進一步遠離690元關口；水晶劍南春下跌2元至409元，二連陽後小幅回落。持平方面，五糧液1618終端零售均價維持在830元，前一日收復整十關口後價盤暫時趨穩。\n\n今日11大單品的終端零售總價繼續回落，高階與次高階酒品多數走弱，且賣盤量能有所擴大。如果11大單品各取一瓶整體打包售賣，今日總售價為10036元，較昨日大幅下跌26元，創下8天以來新低。總價在9月5日創下階段性高點後已連續三日回落，但目前仍固守在萬元整數關口上方。"
+    },
+    {
+      "id": "5081730",
+      "time": "2026-09-08 09:10:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【一線城市住宅租金“六連漲”，上海熱門房源要“拼手速”】中指研究院資料顯示，自今年3月起，一線城市的平均住宅租金已連續6個月環比上漲。在租房市場相對較熱的上海，8月各轄區住宅租金普遍上漲，其中金山、閔行、普陀、浦東新區、徐匯等轄區租金漲幅較為突出。截至今年8月，上海住宅平均租金為84.39元/平方米/月，當月環比上漲0.61%，同比上漲1.25%。深圳租房市場也實現“六連漲”，不過同比還未轉正。8月，深圳住宅平均租金為83.05元/平方米/月，環比上漲0.27%，同比下跌0.11%；其中，光明、寶安、南山、福田、龍崗等區環比均上漲，同比僅光明、寶安、福田上漲。（第一財經）"
+    },
+    {
+      "id": "te:markets:581776",
+      "time": "2026-09-08 09:08:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Under Pressure from Rate Hike Bets — Gold traded near $4,400 an ounce on Tuesday after falling in the previous session, pressured by expectations that major central banks will raise interest rates this month as elevated oil prices heighten inflation concerns. Markets are currently pricing in around a 60% probability that the US Federal Reserve will deliver a 25-basis-point rate hike next week following strong jobs data, with upcoming inflation figures expected to offer further clues. The European Central Bank and Bank of Japan are also widely expected to raise rates this month. Meanwhile, investors continued to monitor developments in the Middle East as renewed US-Iran fighting pushed oil prices higher. At the same time, gold could receive support from investment and hedging demand, with central bank purchases and the so-called debasement trade remaining key drivers for the precious metal."
+    },
     {
       "id": "5081729",
       "time": "2026-09-08 09:08:00",
