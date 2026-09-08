@@ -1,7 +1,50 @@
 {
   "date": "2026-09-09",
-  "count": 160,
+  "count": 165,
   "items": [
+    {
+      "id": "5083592",
+      "time": "2026-09-09 02:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic與大型科技倡導組織ITI斷絕往來。"
+    },
+    {
+      "id": "mkt:01a08250-e9eb-7118-84f3-116983b0f471",
+      "time": "2026-09-09 02:38:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Axios reported ANTHROPIC will leave the Information Technology Industry Council (ITI) after ITI-backed legislation sought to restrict foreign access to U.S. chips; ANTHROPIC opposes that policy direction."
+    },
+    {
+      "id": "5083591",
+      "time": "2026-09-09 02:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "eBay執行長：汽車業務的年化營收規模已迅速達到數億美元。"
+    },
+    {
+      "id": "5083590",
+      "time": "2026-09-09 02:37:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "eBay執行長在高盛會議上表示，汽車業務和直播成為公司新的增長引擎。"
+    },
+    {
+      "id": "5083589",
+      "time": "2026-09-09 02:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：面向開發者，我們將在API中推出兩款新模型，GPT‑IMAGE‑2.5 FLARE與GPT‑IMAGE‑2.5 SUNBURST。"
+    },
     {
       "id": "te:markets:582134",
       "time": "2026-09-09 02:37:00",

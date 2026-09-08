@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-09 02:37:34",
+  "updated": "2026-09-09 02:41:29",
   "count": 13974,
   "items": [
+    {
+      "id": "5083592",
+      "time": "2026-09-09 02:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic與大型科技倡導組織ITI斷絕往來。"
+    },
+    {
+      "id": "mkt:01a08250-e9eb-7118-84f3-116983b0f471",
+      "time": "2026-09-09 02:38:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Axios reported ANTHROPIC will leave the Information Technology Industry Council (ITI) after ITI-backed legislation sought to restrict foreign access to U.S. chips; ANTHROPIC opposes that policy direction."
+    },
+    {
+      "id": "5083591",
+      "time": "2026-09-09 02:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "eBay執行長：汽車業務的年化營收規模已迅速達到數億美元。"
+    },
+    {
+      "id": "5083590",
+      "time": "2026-09-09 02:37:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "eBay執行長在高盛會議上表示，汽車業務和直播成為公司新的增長引擎。"
+    },
+    {
+      "id": "5083589",
+      "time": "2026-09-09 02:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：面向開發者，我們將在API中推出兩款新模型，GPT‑IMAGE‑2.5 FLARE與GPT‑IMAGE‑2.5 SUNBURST。"
+    },
     {
       "id": "te:markets:582134",
       "time": "2026-09-09 02:37:00",
@@ -127501,50 +127544,6 @@
         "Energy"
       ],
       "text": "Venezuela's National Assembly has backed an oil deal reached with the United States."
-    },
-    {
-      "id": "5071560",
-      "time": "2026-09-02 02:41:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉議員投票支援與美國達成能源協議。"
-    },
-    {
-      "id": "mkt:01a05e46-1586-7118-8442-a3172181dc10",
-      "time": "2026-09-02 02:40:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "NewsNation, citing White House officials, said President Trump has concluded a meeting with oil and gas industry executives."
-    },
-    {
-      "id": "5071559",
-      "time": "2026-09-02 02:39:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報95.02美元/桶。"
-    },
-    {
-      "id": "mkt:01a05e43-e2b4-7118-8442-980a44a577a4",
-      "time": "2026-09-02 02:38:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Mexico's main stock index fell 1.5%."
-    },
-    {
-      "id": "5071558",
-      "time": "2026-09-02 02:37:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指下跌 1.5%。"
     }
   ]
 }
