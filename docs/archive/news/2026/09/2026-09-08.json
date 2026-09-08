@@ -1,7 +1,86 @@
 {
   "date": "2026-09-08",
-  "count": 2241,
+  "count": 2250,
   "items": [
+    {
+      "id": "5083388",
+      "time": "2026-09-08 22:37:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國國家空中交通服務公司（NATS）空管部門：目前航班仍可起飛，空域保持開放，但系統恢復需要一定時間。"
+    },
+    {
+      "id": "5083387",
+      "time": "2026-09-08 22:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大延長聯邦汽油消費稅減免政策。"
+    },
+    {
+      "id": "5083386",
+      "time": "2026-09-08 22:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "法律諮詢網站顯示： 新澤西州未能解釋批准威廉姆斯管道專案的緣由。"
+    },
+    {
+      "id": "5083385",
+      "time": "2026-09-08 22:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "受英國機場空中交通管制問題的影響，愛爾蘭都柏林機場也受到波及。"
+    },
+    {
+      "id": "5083384",
+      "time": "2026-09-08 22:35:55",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【Wrightson：本週美債回購料高於最低規模 不排除提高至原先的四或五倍】Wrightson ICAP資深經濟學家Lou Crandall在一份報告中表示，美國財政部可能將10年至30年期國債的回購規模提高到此前公佈的40億美元最低額度以上。財政部“週三上午可能不願意只做最低規模”，Crandall寫道，“如果這麼做，可能會在9月10年期國債拍賣前僅幾個小時、以及30年期國債拍賣前一天引發不利的市場反應。這顯然不符合財政部長貝森特的計劃”。Wrightson上週認為，40億至60億美元都在合理範圍內，但現在看來，50億至60億美元是可能的討論起點，不過Crandall並未排除更大規模的可能性。"
+    },
+    {
+      "id": "5083383",
+      "time": "2026-09-08 22:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500 Healthcare指數醫療保健板塊料創一年多來最大單日跌幅，最新下跌2.1%。"
+    },
+    {
+      "id": "mkt:01a08171-af0c-7118-84ee-42bf7b071be3",
+      "time": "2026-09-08 22:35:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canada's trade minister said Canada is negotiating with Poland to sell nuclear-energy technology and liquefied natural gas."
+    },
+    {
+      "id": "5083382",
+      "time": "2026-09-08 22:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大商務部長：加拿大正洽談向波蘭出售核電技術與液化天然氣。"
+    },
+    {
+      "id": "te:markets:582091",
+      "time": "2026-09-08 22:34:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Consolidate Near 18 Cents — US sugar futures eased toward 18 cents per pound after reaching near 1½-year highs in early September, as the market moved into consolidation.Prices are facing some pressure from India, where measures to increase domestic sugar availability could reduce import requirements and weaken international demand. However, the downside is being limited by expectations of tighter global supplies in the 2026/27 season. The International Sugar Organization forecasts a deficit of around 200,000 tonnes, compared with a surplus of 1.1 million tonnes in 2025/26, while global production is expected to decline 1% to 180.1 million tonnes. Weather risks are also increasing, with a strengthening El Niño potentially bringing drier conditions to parts of South and Southeast Asia. Thailand’s sugar production is expected to fall by at least 17% to below 10 million tonnes, while below-normal monsoon rainfall in India is adding to concerns over Asian output."
+    },
     {
       "id": "mkt:01a08170-b308-7118-84ee-3c53a97a8f1c",
       "time": "2026-09-08 22:34:01",

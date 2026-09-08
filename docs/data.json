@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-08 22:34:33",
-  "count": 14067,
+  "updated": "2026-09-08 22:38:43",
+  "count": 14071,
   "items": [
+    {
+      "id": "5083388",
+      "time": "2026-09-08 22:37:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國國家空中交通服務公司（NATS）空管部門：目前航班仍可起飛，空域保持開放，但系統恢復需要一定時間。"
+    },
+    {
+      "id": "5083387",
+      "time": "2026-09-08 22:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大延長聯邦汽油消費稅減免政策。"
+    },
+    {
+      "id": "5083386",
+      "time": "2026-09-08 22:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "法律諮詢網站顯示： 新澤西州未能解釋批准威廉姆斯管道專案的緣由。"
+    },
+    {
+      "id": "5083385",
+      "time": "2026-09-08 22:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "受英國機場空中交通管制問題的影響，愛爾蘭都柏林機場也受到波及。"
+    },
+    {
+      "id": "5083384",
+      "time": "2026-09-08 22:35:55",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【Wrightson：本週美債回購料高於最低規模 不排除提高至原先的四或五倍】Wrightson ICAP資深經濟學家Lou Crandall在一份報告中表示，美國財政部可能將10年至30年期國債的回購規模提高到此前公佈的40億美元最低額度以上。財政部“週三上午可能不願意只做最低規模”，Crandall寫道，“如果這麼做，可能會在9月10年期國債拍賣前僅幾個小時、以及30年期國債拍賣前一天引發不利的市場反應。這顯然不符合財政部長貝森特的計劃”。Wrightson上週認為，40億至60億美元都在合理範圍內，但現在看來，50億至60億美元是可能的討論起點，不過Crandall並未排除更大規模的可能性。"
+    },
+    {
+      "id": "5083383",
+      "time": "2026-09-08 22:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500 Healthcare指數醫療保健板塊料創一年多來最大單日跌幅，最新下跌2.1%。"
+    },
+    {
+      "id": "mkt:01a08171-af0c-7118-84ee-42bf7b071be3",
+      "time": "2026-09-08 22:35:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canada's trade minister said Canada is negotiating with Poland to sell nuclear-energy technology and liquefied natural gas."
+    },
+    {
+      "id": "5083382",
+      "time": "2026-09-08 22:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大商務部長：加拿大正洽談向波蘭出售核電技術與液化天然氣。"
+    },
+    {
+      "id": "te:markets:582091",
+      "time": "2026-09-08 22:34:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Consolidate Near 18 Cents — US sugar futures eased toward 18 cents per pound after reaching near 1½-year highs in early September, as the market moved into consolidation.Prices are facing some pressure from India, where measures to increase domestic sugar availability could reduce import requirements and weaken international demand. However, the downside is being limited by expectations of tighter global supplies in the 2026/27 season. The International Sugar Organization forecasts a deficit of around 200,000 tonnes, compared with a surplus of 1.1 million tonnes in 2025/26, while global production is expected to decline 1% to 180.1 million tonnes. Weather risks are also increasing, with a strengthening El Niño potentially bringing drier conditions to parts of South and Southeast Asia. Thailand’s sugar production is expected to fall by at least 17% to below 10 million tonnes, while below-normal monsoon rainfall in India is adding to concerns over Asian output."
+    },
     {
       "id": "mkt:01a08170-b308-7118-84ee-3c53a97a8f1c",
       "time": "2026-09-08 22:34:01",
@@ -128480,47 +128559,6 @@
         "國際"
       ],
       "text": "市場訊息：美國銀行副總裁埃琳·皮亞琴蒂在時報廣場遇刺身亡。"
-    },
-    {
-      "id": "5071313",
-      "time": "2026-09-01 22:38:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞銀在瑞士資本新規博弈中暫獲支援】瑞士議員委員會近日投票支援一項折中方案，允許瑞銀（UBS）以發行債券的方式滿足新資本要求的一半，另一半則需透過增發股權來完成。這意味著瑞銀可大幅降低籌資成本，被市場視為階段性勝利。不過，該方案仍需瑞士議會兩院最終表決，尚未塵埃落定。2023年瑞銀緊急收購瑞信後，瑞士政府著手修訂針對系統重要性銀行的資本規則，擬要求瑞銀持有遠高於當前的資本，以防範其美、英大型子公司一旦崩盤拖累整個集團。瑞銀則堅決反對加碼，認為瑞信倒閉源於商業模式失敗和治理薄弱，而非資本不足。瑞銀計劃採用的AT1債券（應急可轉債）本為銀行提供額外損失緩衝，但此類工具爭議不斷——瑞士當局在救助瑞信時直接將170億美元AT1債券減記至零，持有人蒙受鉅額損失，多起訴訟至今未了結。"
-    },
-    {
-      "id": "5071312",
-      "time": "2026-09-01 22:36:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英力股份：公司已生產聯想多款AI PC結構件產品】英力股份在互動平臺表示，公司已生產聯想多款AI PC結構件產品，目前已承接惠普AI PC結構件訂單。當前AI PC產品在客戶新機型中的滲透率、定價情況，屬於客戶機型規劃及商業敏感資訊，公司不便對外披露。"
-    },
-    {
-      "id": "5071311",
-      "time": "2026-09-01 22:36:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農烏克蘭農業遊說組織UCAB：烏克蘭8月食品出口環比下降41.5%，至215萬噸。"
-    },
-    {
-      "id": "5071310",
-      "time": "2026-09-01 22:36:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【君逸數碼：未收到任何關於華為超節點業務借殼上市的相關資訊】9月1日，君逸數碼在互動平臺回覆投資者提問時表示，光宏精密作為公司控股子公司，其生產經營情況良好，產能正按計劃逐步釋放。公司正積極推進光宏精密一期擴產專案，目前正按預定計劃平穩推進，部分產線已進入試執行階段，以有效緩解現有訂單交付壓力。對於公司和華為超節點合作，君逸數碼錶示，公司與華為於2026年7月9日聯合釋出了君逸昇騰超節點智算中心（240P），目前該專案正處於籌建階段。此外，公司未收到任何關於華為超節點業務借殼上市的相關資訊。"
-    },
-    {
-      "id": "5071309",
-      "time": "2026-09-01 22:35:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數下跌0.3%；納斯達克100指數下跌1%。"
     }
   ]
 }
