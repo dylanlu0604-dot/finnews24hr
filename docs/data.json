@@ -1,7 +1,195 @@
 {
-  "updated": "2026-09-08 22:05:15",
-  "count": 14002,
+  "updated": "2026-09-08 22:10:18",
+  "count": 14018,
   "items": [
+    {
+      "id": "5083332",
+      "time": "2026-09-08 22:09:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國對伊朗實施新制裁。"
+    },
+    {
+      "id": "mkt:01a0815a-04e2-7118-84ed-072e6e40fa89",
+      "time": "2026-09-08 22:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury announced a new round of Iran-related sanctions."
+    },
+    {
+      "id": "5083331",
+      "time": "2026-09-08 22:09:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至9月6日，歐盟2026/27年度棕櫚油進口量為49萬噸，上年同期為60萬噸。"
+    },
+    {
+      "id": "5083330",
+      "time": "2026-09-08 22:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國允許逐步停止部分民用航空相關交易。"
+    },
+    {
+      "id": "5083329",
+      "time": "2026-09-08 22:08:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部第37號許可證允許逐步停止某些行動。"
+    },
+    {
+      "id": "mkt:01a08159-9284-7118-84ec-f90b501d54d4",
+      "time": "2026-09-08 22:08:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury issued a general license regarding Iran."
+    },
+    {
+      "id": "5083328",
+      "time": "2026-09-08 22:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出 AlphaGenome Atlas 資料庫，用於預測人類基因組變異。"
+    },
+    {
+      "id": "5083327",
+      "time": "2026-09-08 22:08:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行拉姆登：量化緊縮影響的預估小幅上調，目前尚不清楚這反映的是量化緊縮多實施了一年，還是預估精度有所提升。"
+    },
+    {
+      "id": "mkt:01a08158-f2ad-7118-84ec-f5d88df3a4f4",
+      "time": "2026-09-08 22:08:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran parliamentary committee sets allocation for Strait of Hormuz revenues】A spokesman for Iran’s parliament National Security and Foreign Policy Committee said revenues from the Strait of Hormuz, outside the annual budget, will be used to issue consumer commodity vouchers; bolster national defense and infrastructure with priority for war-affected provinces, strategic islands and maritime facilities; strengthen air defenses; and improve welfare for armed forces personnel."
+    },
+    {
+      "id": "5083326",
+      "time": "2026-09-08 22:07:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部向伊朗頒發通用許可證。"
+    },
+    {
+      "id": "5083325",
+      "time": "2026-09-08 22:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒曝日本政府隱瞞美軍基地汙染資訊】據日本共同社8日報道，在日本沖繩縣因當地美軍基地周邊檢測出有機氟化合物（PFAS）而申請進入基地調查但遭美方拒絕一事中，日本防衛省去年12月公佈美方答覆時，隱瞞了美方曾表示“強烈推測汙染來源於基地”這一內容。報道稱，沖繩縣美軍嘉手納基地、普天間機場等周邊地區此前曾檢測出PFAS。為查明汙染源，沖繩縣自2016年以來先後4次向美方申請進入基地調查，但均未獲許可。2025年12月，日本防衛省對外公佈美方答覆時稱，美方以“缺少明確表明美軍基地是汙染源的樣本調查資料”等為由拒絕了申請。（新華社）"
+    },
+    {
+      "id": "5083324",
+      "time": "2026-09-08 22:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀美林沙烏地阿拉伯分部將為 13 只證券開展做市業務。"
+    },
+    {
+      "id": "5083323",
+      "time": "2026-09-08 22:07:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長拉姆斯登：量化緊縮對收益率的影響仍主要處於背景層面。"
+    },
+    {
+      "id": "5083322",
+      "time": "2026-09-08 22:07:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至9月6日，歐盟2026/27年度大麥出口量為165萬噸，上年同期出口量為272萬噸。"
+    },
+    {
+      "id": "5083321",
+      "time": "2026-09-08 22:07:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【格芯敲定3.75億美元量子計算補貼 量子新勢力同步獲資金】美國晶片製造商格芯週二宣佈，已與美國商務部《晶片法案》研發辦公室敲定一項最終協議，獲得3.75億美元研發資助，以加快其量子技術解決方案(QTS)業務的發展軌跡。格芯該項業務旨在幫助擴大美國國內基於量子計算的半導體制造規模，並鞏固美國處於全球“下一代計算革命”最前沿陣地——即在量子計算技術領域的絕對領先地位。幾乎同一時間， 美國本土的三大量子計算新生代勢力——Rigetti Computing股價盤初交易時間段大漲近10%、 D-Wave Quantum同樣大漲近10%，Quantinuum股價上漲超5%，三家量子計算新銳公司在週二也宣佈已經與美國商務部簽署最終協議，獲得1億美元資金，用於加速研發專案，以應對超導量子計算機相關大規模擴充套件和發展過程中的關鍵技術挑戰。"
+    },
+    {
+      "id": "5083320",
+      "time": "2026-09-08 22:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至9月6日，歐盟2026/27年度軟小麥出口量為492萬噸，去年同期為497萬噸。"
+    },
+    {
+      "id": "5083319",
+      "time": "2026-09-08 22:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，俄羅斯在白天的襲擊致烏克蘭首都兩人遇難。"
+    },
+    {
+      "id": "mkt:01a08157-921b-7118-84ec-ecfc9ec29505",
+      "time": "2026-09-08 22:06:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises as capesize rates lift】The Baltic Dry Index (BDI) rose 9 points (0.25%) to 3,584 on Tuesday, driven by gains in capesize freight. The Capesize Index (BCI) climbed 27 pts (0.4%) to 6,313; capesize daily earnings increased $242 to $53,570. The Panamax Index (BPI) fell 17 pts (-0.7%) to 2,414, with panamax daily earnings down $154 to $21,724. The Supramax Index (BSI) gained 11 pts (0.7%) to 1,693, and the Handysize Index (BHSI) rose 7 pts to 913."
+    },
+    {
+      "id": "5083318",
+      "time": "2026-09-08 22:05:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利新掌門首站赴黔】據《貴州日報》報道，9月7日，貴州省委書記徐麟在貴陽會見吉利控股集團執行長、吉利汽車董事會主席安聰慧一行。"
+    },
+    {
+      "id": "mkt:01a08156-75a4-7118-84ec-e3b8a9ec1bda",
+      "time": "2026-09-08 22:05:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England deputy governor Ramsden said rising frequency of supply shocks could push up prices."
+    },
+    {
+      "id": "5083317",
+      "time": "2026-09-08 22:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前8月長三角地區進出口規模創歷史同期新高】從上海海關獲悉，今年前8月，長三角地區實現進出口13.16萬億元，同比增長18.8%，佔全國進出口總值的37.8%，規模創歷史同期新高。"
+    },
+    {
+      "id": "5083316",
+      "time": "2026-09-08 22:04:53",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "英國央行副總裁拉姆斯登：供應衝擊頻率增加可能導致物價逐步攀升。"
+    },
     {
       "id": "5083315",
       "time": "2026-09-08 22:03:48",
@@ -127884,66 +128072,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍襲擊了PIVDENNYI港的一艘貨船。"
-    },
-    {
-      "id": "5071276",
-      "time": "2026-09-01 22:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼能源部將9月上半月4,100千卡熱值等級煤炭基準價格定為每噸65.06美元。將9月上半月5,300千卡熱值等級煤炭基準價格定為每噸95.05美元。"
-    },
-    {
-      "id": "te:economy:580101",
-      "time": "2026-09-01 22:08:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "US Manufacturing Activity Revised Higher: S&P Global — The S&P Global US Manufacturing PMI was at 53.9 for a third consecutive month in August of 2026, revised higher from the flash estimate of 53.2, and aligned with the initial market expectations. Both output and new order growth eased in the period. Surveyees noted higher cost levels, with input inflation remaining well above the historical levels due to tariff uncertainties and the war in the Middle East, forcing companies to raise their charges. These developments drove firms to cite muted client appetite, resulting in the slowdown for new business. Still, higher production environments had manufacturers raise their purchasing activity for the eighth month running. Looking ahead, companies remained optimistic about their business, underpinning another period of employment growth."
-    },
-    {
-      "id": "te:economy:580100",
-      "time": "2026-09-01 22:08:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Quits",
-        "Importance 1"
-      ],
-      "text": "US Job Quits Fall in July — The number of workers voluntarily leaving their jobs in the United States decreased by 157,000 to 3.06 million in July 2026, from a revised 3.21 million in the prior month. Quits fell primarily in accommodation and food services (-86,000); professional and business services (-77,000) and other services (-49,000). By region, quits declined in the West (-265,000) and the Northeast (-22,000) but increase in the Midwest (+114,000) and the South (+16,000). The quits rate edged down to 1.9% from 2%, remaining near its lowest level since 2020 and signaling continued reluctance among workers to quit."
-    },
-    {
-      "id": "5071275",
-      "time": "2026-09-01 22:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至8月30日，歐盟2026/27年度軟小麥出口量為416萬噸，上年同期為432萬噸。"
-    },
-    {
-      "id": "5071274",
-      "time": "2026-09-01 22:06:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：拉美智慧手機市場第二季度同比下降12%】根據Omdia的最新分析，拉丁美洲智慧手機市場在2026年第二季度（2Q2026）同比下降12%，至3030萬部。DRAM與NAND成本上漲傳導至零售價格，對入門級裝置的需求衝擊最為沉重。供應商與渠道商在第一季度曾透過前置發貨和庫存緩衝部分緩解了這一影響。這些保護措施在第二季度有所減弱，市場低端面臨的壓力進一步暴露，而中端、高階與旗艦細分市場則仍保持相對韌性。"
-    },
-    {
-      "id": "te:economy:580097",
-      "time": "2026-09-01 22:05:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Business Confidence",
-        "Importance 3"
-      ],
-      "text": "US Manufacturing Growth Slows in August — The ISM Manufacturing PMI fell to 54.6 in August 2026 from July’s near four-year high of 55.6, below market expectations of 55.2. The reading nevertheless marked the eighth consecutive month of expansion in manufacturing activity, although growth moderated as new orders slowed sharply to 53.7 from 56.7. Production growth was broadly stable at 58.3, compared with 58.5 in July, while employment growth eased to 51.2 from 52.8, pointing to a softer pace of job creation in the sector. Meanwhile, manufacturers continued to highlight rising costs, supply-chain disruptions and heightened uncertainty, with tariffs and the Middle East conflict adding further pressure. The Prices Index remained elevated at 71.1, while the Supplier Deliveries Index rose to 59.3, signaling continued supply-chain delays. The Backlog of Orders Index fell sharply to 51.8, while the Imports Index declined to 52.5, suggesting weaker order pipelines and import activity."
     }
   ]
 }
