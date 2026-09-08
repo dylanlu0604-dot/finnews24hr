@@ -1,7 +1,92 @@
 {
   "date": "2026-09-08",
-  "count": 1709,
+  "count": 1718,
   "items": [
+    {
+      "id": "5082871",
+      "time": "2026-09-08 18:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST華西：公司1076.5萬元訴訟一審已受理】*ST華西公告，公司因債權確認糾紛向棗陽市人民法院提起訴訟，請求確認對棗陽安能生物質發電有限公司享有破產債權1076.5萬元，且債權性質為建設工程款優先債權；目前一審法院已受理該案，案件正在一審過程中。"
+    },
+    {
+      "id": "5082870",
+      "time": "2026-09-08 18:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博敏電子：實控人合計持股比例降至15%】博敏電子公告稱，公司控股股東、實控人徐緩、謝小梅（一致行動人）因公司實施股權激勵總股本增加被動稀釋，疊加主動減持，合計持股比例由17.78%降至15.00%。其中謝小梅透過集中競價減持645.35萬股，佔總股本1.00%，已完成減持計劃；徐緩透過大宗交易減持885.08萬股，佔總股本1.37%，其不超2%的減持計劃仍在進行中。本次權益變動不涉及實控人變更。"
+    },
+    {
+      "id": "mkt:01a08099-3ff5-7118-84e7-9e884c2426ee",
+      "time": "2026-09-08 18:38:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Saudi-backed offensive on al-Jawf framed as wider Saudi–Iran regional contest, ex-US diplomat says】Nabil Huri, former US diplomat and head of the US mission to Yemen, said al-Jawf province on the Saudi border is a key focus of a Saudi-backed offensive because it functions as a logistics corridor to the internationally recognised Yemeni government. Huri warned the fighting is not solely a Yemeni civil war but part of a broader regional contest that aligns the US, Israel and some Gulf states against Iran and its allied \"axis of resistance\", including Hamas, Hezbollah and the Houthi movement."
+    },
+    {
+      "id": "mkt:01a08099-302a-7118-84e7-966ac87329f3",
+      "time": "2026-09-08 18:38:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "LAVROV said Russia and Saudi Arabia will continue close coordination within the OPEC+ framework and agree on common positions."
+    },
+    {
+      "id": "5082869",
+      "time": "2026-09-08 18:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫：俄羅斯和沙烏地阿拉伯將繼續在OPEC+框架內密切協調，並將就共同方針達成一致。"
+    },
+    {
+      "id": "5082868",
+      "time": "2026-09-08 18:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方航空：向特定物件發行A股股票申請獲證監會同意註冊批覆】南方航空9月8日公告，向特定物件發行A股股票申請獲得中國證監會同意註冊批覆。"
+    },
+    {
+      "id": "5082867",
+      "time": "2026-09-08 18:37:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【永和股份：789.47萬股限售股將於9月15日上市流通】永和股份公告稱，公司向特定物件發行股票中控股股東童建國認購的7,894,736股限售股將於2026年9月15日解除限售並上市流通，佔公司總股本的1.55%，本次解除限售後該部分股份無剩餘限售股。截至核查意見出具日，公司總股本為510,818,723股，其中回購專用證券賬戶持有4,163,480股。保薦機構中信證券對本次限售股上市流通事項無異議。"
+    },
+    {
+      "id": "mkt:01a08097-ad04-7118-84e7-89d37f753aed",
+      "time": "2026-09-08 18:36:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiaomi Group (01810.HK) repurchased 3.0 mln Class B shares for HK$82.0 mln on Sept 8."
+    },
+    {
+      "id": "5082866",
+      "time": "2026-09-08 18:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "小米集團於9月8日以8,200萬港元回購300萬股B類股。"
+    },
     {
       "id": "te:markets:582024",
       "time": "2026-09-08 18:36:32",
