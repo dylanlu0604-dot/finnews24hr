@@ -1,7 +1,27 @@
 {
   "date": "2026-09-09",
-  "count": 119,
+  "count": 121,
   "items": [
+    {
+      "id": "mkt:01a08224-a93f-7118-84f2-a1c4eae4b6d1",
+      "time": "2026-09-09 01:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported US officials said they are focusing efforts to ensure freedom of navigation in the Red Sea."
+    },
+    {
+      "id": "mkt:01a08222-c316-7118-84f2-9859985da81e",
+      "time": "2026-09-09 01:48:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency quoted Sanaa sources saying Saudi Arabia carried out more than 135 airstrikes on Yemen over the past three days, and that Houthi forces foiled a Saudi-backed force's attempt to mass near the Yatma market area in Al-Jawf province."
+    },
     {
       "id": "mkt:01a0821d-a1b8-7118-84f2-967000e6d504",
       "time": "2026-09-09 01:42:55",

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-09 01:47:40",
+  "updated": "2026-09-09 01:51:34",
   "count": 14016,
   "items": [
+    {
+      "id": "mkt:01a08224-a93f-7118-84f2-a1c4eae4b6d1",
+      "time": "2026-09-09 01:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported US officials said they are focusing efforts to ensure freedom of navigation in the Red Sea."
+    },
+    {
+      "id": "mkt:01a08222-c316-7118-84f2-9859985da81e",
+      "time": "2026-09-09 01:48:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency quoted Sanaa sources saying Saudi Arabia carried out more than 135 airstrikes on Yemen over the past three days, and that Houthi forces foiled a Saudi-backed force's attempt to mass near the Yatma market area in Al-Jawf province."
+    },
     {
       "id": "mkt:01a0821d-a1b8-7118-84f2-967000e6d504",
       "time": "2026-09-09 01:42:55",
@@ -127967,22 +127987,6 @@
         "國際"
       ],
       "text": "美國眾議院獲得足夠票數，透過將政府資金維持至 12 月 11 日、避免政府停擺的法案，投票仍在進行。"
-    },
-    {
-      "id": "5071514",
-      "time": "2026-09-02 01:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉議員擴大負責遴選最高法院大法官的委員會職權，此舉是與反對派談判的一部分。"
-    },
-    {
-      "id": "5071513",
-      "time": "2026-09-02 01:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "殼牌美國油品業務：Equilon Enterprises 簽署協議，將其在 Tri Star Energy 的股權從 33% 提升至 100%。"
     }
   ]
 }
