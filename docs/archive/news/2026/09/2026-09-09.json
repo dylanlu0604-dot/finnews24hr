@@ -1,7 +1,40 @@
 {
   "date": "2026-09-09",
-  "count": 128,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:01a08232-23b2-7118-84f2-c74224008d4b",
+      "time": "2026-09-09 02:05:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US says Iran 'captured' underwater drone had malfunctioned and carried no sensitive data】In response to the IRGC's claim it had captured a US underwater drone, a US official told CNN a US military unmanned underwater vehicle malfunctioned during a reconnaissance mission just over a day earlier. The official said the craft was an older model that had not collected sensitive data and carried no classified sonar or radar, and that the loss resulted from the malfunction rather than an Iranian action. US operations in the area continue."
+    },
+    {
+      "id": "5083574",
+      "time": "2026-09-09 02:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞總統：將於10月25日舉行議會提前選舉。"
+    },
+    {
+      "id": "mkt:01a08231-cf6f-7118-84f2-be65e8b953ca",
+      "time": "2026-09-09 02:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian president says early parliamentary elections will be held on Oct. 25."
+    },
+    {
+      "id": "5083573",
+      "time": "2026-09-09 02:02:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Reddit執行長表示，上一季度平臺新增10億條帖子與評論，約佔平臺總內容庫的4%。"
+    },
     {
       "id": "mkt:01a0822c-24da-7118-84f2-b554de16703c",
       "time": "2026-09-09 01:58:46",

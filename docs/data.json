@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-09 02:03:00",
-  "count": 14018,
+  "updated": "2026-09-09 02:06:50",
+  "count": 14012,
   "items": [
+    {
+      "id": "mkt:01a08232-23b2-7118-84f2-c74224008d4b",
+      "time": "2026-09-09 02:05:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US says Iran 'captured' underwater drone had malfunctioned and carried no sensitive data】In response to the IRGC's claim it had captured a US underwater drone, a US official told CNN a US military unmanned underwater vehicle malfunctioned during a reconnaissance mission just over a day earlier. The official said the craft was an older model that had not collected sensitive data and carried no classified sonar or radar, and that the loss resulted from the malfunction rather than an Iranian action. US operations in the area continue."
+    },
+    {
+      "id": "5083574",
+      "time": "2026-09-09 02:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞總統：將於10月25日舉行議會提前選舉。"
+    },
+    {
+      "id": "mkt:01a08231-cf6f-7118-84f2-be65e8b953ca",
+      "time": "2026-09-09 02:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian president says early parliamentary elections will be held on Oct. 25."
+    },
+    {
+      "id": "5083573",
+      "time": "2026-09-09 02:02:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Reddit執行長表示，上一季度平臺新增10億條帖子與評論，約佔平臺總內容庫的4%。"
+    },
     {
       "id": "mkt:01a0822c-24da-7118-84f2-b554de16703c",
       "time": "2026-09-09 01:58:46",
@@ -127906,105 +127939,6 @@
         "國際"
       ],
       "text": "Anthropic：推出 Claude Fable 5.1 與 Claude Mythos 5.1。"
-    },
-    {
-      "id": "5071525",
-      "time": "2026-09-02 02:06:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭並未威脅民用航空，但空中將會出現無人機，各方應予以充分留意。"
-    },
-    {
-      "id": "5071524",
-      "time": "2026-09-02 02:06:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭澤連斯基：航空公司、保險公司及其他相關方應當知悉，受烏克蘭無人機影響，俄羅斯領空將存在危險。"
-    },
-    {
-      "id": "mkt:01a05e26-7640-7118-8441-a1a2d26826af",
-      "time": "2026-09-02 02:06:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "The U.S. House passed a short-term federal funding bill (continuing resolution) to avert a government shutdown ahead of Oct. 1; the measure has been sent to President Trump for signature."
-    },
-    {
-      "id": "5071523",
-      "time": "2026-09-02 02:05:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國眾議院透過聯邦臨時撥款法案，避免 10 月 1 日政府停擺，法案將送交特朗普簽署。"
-    },
-    {
-      "id": "mkt:01a05e25-71a6-7118-8441-9caba926f503",
-      "time": "2026-09-02 02:05:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said if Iran retaliates, the US will strike it with greater force."
-    },
-    {
-      "id": "5071522",
-      "time": "2026-09-02 02:04:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌4%，現報1323.06美元/盎司。"
-    },
-    {
-      "id": "5071521",
-      "time": "2026-09-02 02:04:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：海峽附近的阿巴斯港與格什姆島再次傳出爆炸聲，拉萬島也傳來爆炸聲。"
-    },
-    {
-      "id": "mkt:01a05e24-cedb-7118-8441-97b45c6b5a56",
-      "time": "2026-09-02 02:04:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "US President Trump said any agreement with Iran is worthless and that he has given Iran many chances."
-    },
-    {
-      "id": "5071520",
-      "time": "2026-09-02 02:04:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與伊朗達成的協議一文不值；已經給過伊朗諸多機會。"
-    },
-    {
-      "id": "mkt:01a05e23-ef87-7118-8441-8dcef2b4cd65",
-      "time": "2026-09-02 02:03:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Hill reported a White House official said a press briefing will be held Thursday afternoon local time — the first since July 23."
     }
   ]
 }
