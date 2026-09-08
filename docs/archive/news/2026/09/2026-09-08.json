@@ -1,7 +1,196 @@
 {
   "date": "2026-09-08",
-  "count": 2309,
+  "count": 2332,
   "items": [
+    {
+      "id": "mkt:01a0818e-05d6-7118-84ef-6768330ece0f",
+      "time": "2026-09-08 23:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said wages are rising but have not triggered inflation, and labor supply is expanding."
+    },
+    {
+      "id": "mkt:01a0818d-ffae-7118-84ef-59a06fbfe039",
+      "time": "2026-09-08 23:06:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio says Venezuela's oil fields will resume production."
+    },
+    {
+      "id": "5083428",
+      "time": "2026-09-08 23:05:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "易捷航空：英國空中交通管制系統故障導致歐洲各地航班延誤，有些航班無法運營。"
+    },
+    {
+      "id": "mkt:01a0818d-b113-7118-84ef-565c4fb8e4dc",
+      "time": "2026-09-08 23:05:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The EU and Canada plan to reach a wide-ranging agreement to strengthen cooperation."
+    },
+    {
+      "id": "5083427",
+      "time": "2026-09-08 23:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟與加拿大擬達成一項影響深遠的協議，以強化雙邊夥伴關係。"
+    },
+    {
+      "id": "mkt:01a0818d-7900-7118-84ef-4fb171d060d1",
+      "time": "2026-09-08 23:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will not take the same action as the UK did today on the West Bank issue and declined to comment further."
+    },
+    {
+      "id": "5083426",
+      "time": "2026-09-08 23:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "達能股價延續漲勢，最高上漲3.1%。"
+    },
+    {
+      "id": "mkt:01a0818c-901a-7118-84ef-46adc66e7f7a",
+      "time": "2026-09-08 23:04:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary BESSENT signaled the imminent rollout of a government modernization initiative."
+    },
+    {
+      "id": "5083425",
+      "time": "2026-09-08 23:04:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特暗示即將推出一項政府現代化舉措。"
+    },
+    {
+      "id": "mkt:01a0818c-7818-7118-84ef-3ab693144ed9",
+      "time": "2026-09-08 23:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the United States does not want any instability currently in the West Bank."
+    },
+    {
+      "id": "mkt:01a0818c-5d74-7118-84ef-34c0da097f94",
+      "time": "2026-09-08 23:04:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump touts the stock market and economic data."
+    },
+    {
+      "id": "mkt:01a0818c-32b1-7118-84ef-2f5e70180c61",
+      "time": "2026-09-08 23:04:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Secretary of State Rubio says Venezuela's oil market is dominated by Russia and Iran."
+    },
+    {
+      "id": "5083424",
+      "time": "2026-09-08 23:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普吹捧股市和經濟資料。"
+    },
+    {
+      "id": "mkt:01a0818c-11a3-7118-84ef-24e2bf227f60",
+      "time": "2026-09-08 23:03:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the government will release news next week."
+    },
+    {
+      "id": "5083423",
+      "time": "2026-09-08 23:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流災害遇難人數升至1365人】根據尼泊爾警方公佈的最新資料，截至當地時間9月8日20時，尼泊爾泥石流災害造成的遇難人數升至1365人。8月26日，尼泊爾邊境地區突發冰川崩塌引發嚴重泥石流災害，造成重大人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0818b-8aef-7118-84ef-1a0a0fb397f4",
+      "time": "2026-09-08 23:03:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "New York Fed: In August, survey respondents' assessments of both current and future personal financial situations deteriorated."
+    },
+    {
+      "id": "mkt:01a0818b-366a-7118-84ef-10b61fcbe26a",
+      "time": "2026-09-08 23:02:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he hopes to secure firm trade agreements with Colombia, Ecuador and Peru during his visit."
+    },
+    {
+      "id": "5083422",
+      "time": "2026-09-08 23:02:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：8月消費者預計未來汽油價格將走高。"
+    },
+    {
+      "id": "5083421",
+      "time": "2026-09-08 23:02:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲：美國8月五年期通脹預期維持3%不變。"
+    },
+    {
+      "id": "5083420",
+      "time": "2026-09-08 23:02:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：8月民眾對失業率走高的預期達到2020年4月以來最高水平。"
+    },
+    {
+      "id": "mkt:01a0818a-ba15-7118-84ef-0d9f8bfa8aa7",
+      "time": "2026-09-08 23:02:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhongchuang Xinhang signs deal to establish Hefei research institute】Hefei Daily reports that on Sept 8 Changfeng county government signed a cooperation agreement with Zhongchuang Xinhang to launch the Zhongchuang Xinhang Hefei Research Institute. The project will build a pilot production line, R&D laboratories and a testing center to carry out R&D and experimental testing for lithium batteries and related products."
+    },
     {
       "id": "mkt:01a0818a-6ae3-7118-84ef-01cb62b7b527",
       "time": "2026-09-08 23:02:07",
@@ -83,6 +272,24 @@
         "Greater China"
       ],
       "text": "As of the 23:00 close, China's most-active domestic futures contracts were mixed: methanol up nearly 4% and caustic soda up about 2%; coking coal, PVC, p-xylene, propylene, PTA and synthetic rubber rose over 1%. On the downside, Soybean No.2 fell 1%, while asphalt and palm oil were down nearly 1%."
+    },
+    {
+      "id": "em:qqyh_mlc:202609083868384360",
+      "time": "2026-09-08 23:00:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國8月紐約聯儲1年通脹預期為3.58%，前值3.63%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609083868384360",
+      "time": "2026-09-08 23:00:53",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月紐約聯儲1年通脹預期為3.58%，前值3.63%。"
     },
     {
       "id": "mkt:01a08189-439d-7118-84ee-d25263fff433",
