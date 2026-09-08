@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-09 02:33:42",
-  "count": 13969,
+  "updated": "2026-09-09 02:37:34",
+  "count": 13974,
   "items": [
+    {
+      "id": "te:markets:582134",
+      "time": "2026-09-09 02:37:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Nears Six-Week High — Crude oil topped $94 a barrel on Tuesday before paring gains to around $92.75, trading near six-week highs amid growing concerns over supply disruptions. The US and Iran exchanged strikes over the weekend, escalating tensions in the Middle East. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish sentiment, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz, potentially making tanker traffic through the critical oil chokepoint even more challenging. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
+    },
+    {
+      "id": "5083588",
+      "time": "2026-09-09 02:36:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國空管系統技術故障致大批航班取消】當地時間9月8日，英國空中交通管制系統出現技術故障，導致英國多地機場航班執行受嚴重影響。倫敦所有機場現已關閉，禁止航班抵達，至少持續至當晚11時。據悉，當天英國境內約有600個航班被取消。倫敦希思羅機場是受影響最嚴重的機場之一。根據航班追蹤網站FlightAware的資料，截至當地時間18時50分，希思羅機場已有156個出港航班被取消，另有186個出港航班延誤。英國航空公司是該機場受影響最嚴重的航空公司之一。"
+    },
+    {
+      "id": "mkt:01a0824e-5b52-7118-84f3-0a9c82274296",
+      "time": "2026-09-09 02:36:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said Images 2.5 is now available to all ChatGPT, ChatGPT Work and Codex users on desktop, mobile and web."
+    },
+    {
+      "id": "mkt:01a0824e-37cf-7118-84f3-0125875b37d5",
+      "time": "2026-09-09 02:35:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches ChatGPT Images 2.5."
+    },
+    {
+      "id": "5083587",
+      "time": "2026-09-09 02:35:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Images 2.5現已面向所有ChatGPT、ChatGPT Work以及Codex使用者開放，支援桌面端、移動端和網頁端。"
+    },
+    {
+      "id": "5083586",
+      "time": "2026-09-09 02:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會擬開放更多無線頻譜，用於太空層面的更高速寬頻服務。"
+    },
+    {
+      "id": "mkt:01a0824d-9325-7118-84f2-fb8eaced25a1",
+      "time": "2026-09-09 02:35:16",
+      "tags": [
+        "MKT News",
+        "SATS.O",
+        "Impact bullish"
+      ],
+      "text": "The U.S. Federal Communications Commission proposed opening additional wireless spectrum to enable faster broadband services delivered from space."
+    },
     {
       "id": "mkt:01a0824a-9dc5-7118-84f2-f6480b907e01",
       "time": "2026-09-09 02:32:03",
@@ -127480,27 +127545,6 @@
         "市場"
       ],
       "text": "墨西哥主要股指下跌 1.5%。"
-    },
-    {
-      "id": "5071557",
-      "time": "2026-09-02 02:37:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破95美元/桶，日內漲4.98%。"
-    },
-    {
-      "id": "mkt:01a05e40-bf9f-7118-8442-90c6709eadad",
-      "time": "2026-09-02 02:34:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media reported new explosions at the ports of Asaluyeh and Bandar Lengeh in Hormozgan province."
     }
   ]
 }
