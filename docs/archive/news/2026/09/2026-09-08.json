@@ -1,7 +1,139 @@
 {
   "date": "2026-09-08",
-  "count": 1767,
+  "count": 1781,
   "items": [
+    {
+      "id": "mkt:01a080a9-1d31-7118-84e7-e89943f2da07",
+      "time": "2026-09-08 18:56:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said Houthi militants attempted to shift their internal Yemeni problems onto Saudi Arabia and have opened a door that cannot be closed."
+    },
+    {
+      "id": "mkt:01a080a8-98bf-7118-84e7-e29baa1ea0b3",
+      "time": "2026-09-08 18:55:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi foreign minister said the Houthi movement's recent escalation is part of its provocations and that the group often resorts to violence in difficult times."
+    },
+    {
+      "id": "5082924",
+      "time": "2026-09-08 18:55:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，日本要求俄羅斯拆除二戰紀念碑的呼籲不太可能被考慮。"
+    },
+    {
+      "id": "mkt:01a080a7-ebbc-7118-84e7-d93a35d3f172",
+      "time": "2026-09-08 18:54:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CINNO Research: September global LCD TV panel decline narrowed; Q4 to weaken then stabilise】CINNO Research said global LCD TV panels fell slightly in September with a narrowed rate of decline and pronounced size-based divergence. Brands’ year-end sales pushes and promotional restocking briefly lifted demand; high‑generation fabs kept utilization high and Q3 shipments rose steadily. The supply‑demand balance remains loose and near‑term prices face downward pressure. With upstream material costs under strain, some panel makers may cut utilization in early Q4 to shore up prices; overall panel prices are expected to weaken initially in Q4 then stabilise."
+    },
+    {
+      "id": "5082922",
+      "time": "2026-09-08 18:54:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：9月全球LCD TV面板跌勢收窄 四季度或呈先弱後穩走勢】CINNO Research發文稱，今年9月，全球LCD TV面板預計整體小幅回落、跌勢收窄，尺寸結構性分化特徵顯著。受品牌年終業績衝量及大促備貨拉動，短期需求回暖；供給端高世代線稼動率維持高位執行，三季度出貨規模穩步增長。當前供需寬鬆格局未發生實質扭轉，短期價格仍存下行壓力；上游原材料成本承壓下面板廠四季度初或下修稼動穩價，整體價格預計呈先弱後穩走勢。"
+    },
+    {
+      "id": "5082921",
+      "time": "2026-09-08 18:54:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄方回應匈牙利驅逐10名俄外交官】俄羅斯外交部發言人扎哈羅娃9月8日對媒體表示，將就匈牙利驅逐俄外交官作出強硬回應。她指出，相關反制措施將針對匈牙利的仇俄遊說集團。9月8日，匈牙利外長安妮塔·歐爾班宣佈驅逐10名俄羅斯外交官，同時表示，此舉不意味著斷交，布達佩斯仍願與莫斯科保持必要對話。（央視新聞）"
+    },
+    {
+      "id": "te:markets:582030",
+      "time": "2026-09-08 18:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Closes at Near 3-Month Low — India’s BSE Sensex finished about 0.7% down at 75,577.6 on Tuesday, a level last seen in June and marking the second session of losses. The ongoing rally in oil prices and escalating hostilities in the Middle East continued to weigh on market sentiment, while concerns persisted over volatility stemming from the new closing-auction pricing mechanism. Banking heavyweights were among the key drags, led by a 2% decline in ICICI Bank, while Axis Bank and HDFC Bank fell 1.7% and 1.1%, respectively. Reliance Industries and UltraTech Cement declined 1.2% each. On the upside, Indian defense companies such as BEL (1.5%) rose after the government gave an initial approval for about $11 billion of proposed military purchases."
+    },
+    {
+      "id": "5082920",
+      "time": "2026-09-08 18:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "MATAS空頭持倉0.49%，由WORLDQUANT持有。"
+    },
+    {
+      "id": "mkt:01a080a6-9796-7118-84e7-d2a2f82b8cbd",
+      "time": "2026-09-08 18:53:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC deputy commander says Iranian forces fully control Strait of Hormuz】State media reported the IRGC deputy commander said Iranian armed forces fully control the Strait of Hormuz. He said fighters are fully deployed across southern Iran and Persian Gulf islands and are ready to assert Iranian authority over the key waterway."
+    },
+    {
+      "id": "5082919",
+      "time": "2026-09-08 18:53:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "PHARVARIS的3期臨床試驗達到全部主要及次要終點。"
+    },
+    {
+      "id": "mkt:01a080a6-5560-7118-84e7-c8d339e26cc8",
+      "time": "2026-09-08 18:52:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "HSBC views US equities as undervalued, but a spike in bond yields represents the largest downside risk to the market."
+    },
+    {
+      "id": "5082918",
+      "time": "2026-09-08 18:52:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源卓鎂：控股股東減持計劃實施完畢 合計減持1.50%股份】星源卓鎂公告稱，公司控股股東寧波源星雄控股有限公司減持計劃已實施完畢，其於2026年8月31日、9月7日透過大宗交易方式合計減持公司股份168.00萬股，佔公司總股本的1.50%，減持均價分別為28.39元/股、30.25元/股。本次減持後，源星雄持有公司股份6598.20萬股，佔總股本比例為58.91%；公司控股股東、實際控制人及其一致行動人合計持股比例從70.00%下降至68.62%。本次權益變動不會導致公司控制權發生變更。"
+    },
+    {
+      "id": "5082917",
+      "time": "2026-09-08 18:52:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石基資訊：發行股份購買資產標的已完成過戶】石基資訊公告稱，公司擬以發行股份方式購買上海雲鑫、張育宏、張偉合計持有的思迅軟體13.50%股權，交易對價2.16億元，發行價格6.52元/股，對應發行股份3314.05萬股，佔發行後總股本的1.20%。本次交易不構成重大資產重組、關聯交易及重組上市，已完成全部決策審批程式，標的資產過戶手續已辦理完畢。後續公司將辦理新增股份登記上市、工商變更等事項。"
+    },
+    {
+      "id": "mkt:01a080a5-cd4b-7118-84e7-c2a5db22e739",
+      "time": "2026-09-08 18:52:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Foreign Minister Lavrov said the Houthi attack on Saudi Arabia is counterproductive, that resolving the issue by military means is unacceptable, and that it will have a negative impact on the global economy."
+    },
     {
       "id": "5082916",
       "time": "2026-09-08 18:51:42",
