@@ -1,7 +1,1553 @@
 {
-  "updated": "2026-09-09 23:51:04",
-  "count": 13581,
+  "updated": "2026-09-10 02:04:02",
+  "count": 13579,
   "items": [
+    {
+      "id": "mkt:01a08755-ed9d-7118-850e-fd04fc29261c",
+      "time": "2026-09-10 02:02:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo to support Apple Pencil."
+    },
+    {
+      "id": "mkt:01a08755-eb1e-7118-850e-f18778d3f1f0",
+      "time": "2026-09-10 02:02:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo to feature a 5.4-inch external display."
+    },
+    {
+      "id": "mkt:01a08755-eafb-7118-850e-ed659d21e1e2",
+      "time": "2026-09-10 02:02:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo unfolds to a 7.6-inch Super Retina XDR display, about 50% larger than the iPhone 18 Pro Max."
+    },
+    {
+      "id": "5085656",
+      "time": "2026-09-10 02:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 支援 Apple Pencil。"
+    },
+    {
+      "id": "5085655",
+      "time": "2026-09-10 02:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 的外屏尺寸為 5.4 英寸。"
+    },
+    {
+      "id": "5085654",
+      "time": "2026-09-10 02:00:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 展開後配備 7.6 英寸超視網膜 XDR 顯示屏，面積比 iPhone 18 Pro Max 大 50%。"
+    },
+    {
+      "id": "mkt:01a08753-2d1c-7118-850e-e2bf91cf3c1b",
+      "time": "2026-09-10 01:59:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo will feature the largest display ever in an iPhone."
+    },
+    {
+      "id": "5085653",
+      "time": "2026-09-10 01:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 的顯示屏是 iPhone 有史以來尺寸最大的螢幕。"
+    },
+    {
+      "id": "mkt:01a08752-5141-7118-850e-d88297c468f0",
+      "time": "2026-09-10 01:58:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo, when unfolded, is the thinnest iPhone to date."
+    },
+    {
+      "id": "5085652",
+      "time": "2026-09-10 01:58:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：展開狀態下的 iPhone Duo 為史上最薄 iPhone。"
+    },
+    {
+      "id": "mkt:01a0874f-2b07-7118-850e-d595e53b4bb8",
+      "time": "2026-09-10 01:55:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) announced a foldable iPhone called iPhone Duo."
+    },
+    {
+      "id": "mkt:01a0874f-0175-7118-850e-ce135081e2e9",
+      "time": "2026-09-10 01:54:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): foldable iPhone will feature two cameras."
+    },
+    {
+      "id": "5085651",
+      "time": "2026-09-10 01:54:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：摺疊款 iPhone 將配備雙攝像頭。"
+    },
+    {
+      "id": "mkt:01a0874e-26e6-7118-850e-c2c3e84f015d",
+      "time": "2026-09-10 01:54:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) announces iPhone will adopt a foldable design."
+    },
+    {
+      "id": "5085650",
+      "time": "2026-09-10 01:53:57",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果釋出摺疊款 iPhone，命名為iPhone Duo。"
+    },
+    {
+      "id": "mkt:01a0874c-b90f-7118-850e-becbc2d4f994",
+      "time": "2026-09-10 01:52:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): Pre-orders open today for Apple Watch Series 12 and Apple Watch Ultra 4; both launch on Sept. 18."
+    },
+    {
+      "id": "mkt:01a0874c-3cb9-7118-850e-b002b865567b",
+      "time": "2026-09-10 01:51:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) holds Apple Watch Series 12 base price at $399 and Apple Watch Ultra 4 at $799."
+    },
+    {
+      "id": "5085649",
+      "time": "2026-09-10 01:51:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：Apple Watch Series 12 與 Apple Watch Ultra 4 今日開啟預購，9 月 18 日正式發售。 Apple Watch Series 12 起售價維持 399 美元不變，Apple Watch Ultra 4 售價依舊為 799 美元。"
+    },
+    {
+      "id": "mkt:01a0874b-dce6-7118-850e-ab973afc6bf4",
+      "time": "2026-09-10 01:51:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O): Live Rewind and Siri Recap to debut in beta in late 2026, initially supporting English."
+    },
+    {
+      "id": "mkt:01a0874b-8f24-7118-850e-a587be224fc2",
+      "time": "2026-09-10 01:51:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): Audio-intelligence features on the Apple Watch Series are enabled by the new S11 chip."
+    },
+    {
+      "id": "5085648",
+      "time": "2026-09-10 01:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：“Live Rewind”與“Siri Recap” 功能將於 2026 年晚些時候推出測試版，首發支援英語。"
+    },
+    {
+      "id": "5085647",
+      "time": "2026-09-10 01:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：Apple Watch Series能夠搭載音訊智慧功能，得益於全新 S11 晶片。"
+    },
+    {
+      "id": "5085646",
+      "time": "2026-09-10 01:48:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委兼德國央行行長Nagel：AI將成為歐洲未來的“試金石”。"
+    },
+    {
+      "id": "mkt:01a08748-6794-7118-850e-9a00a9b13b38",
+      "time": "2026-09-10 01:47:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) said its audio intelligence feature will not identify speakers."
+    },
+    {
+      "id": "mkt:01a08748-4534-7118-850e-96f0f65c5adc",
+      "time": "2026-09-10 01:47:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launched an audio intelligence feature that adds sound-recognition capabilities to the Apple Watch."
+    },
+    {
+      "id": "mkt:01a08748-0ea2-7118-850e-8f74eb10ca70",
+      "time": "2026-09-10 01:47:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) says its audio intelligence feature will not create or store audio files."
+    },
+    {
+      "id": "5085645",
+      "time": "2026-09-10 01:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：音訊智慧功能不會建立或儲存音訊檔案，不會識別說話者身份。"
+    },
+    {
+      "id": "mkt:01a08747-b219-7118-850e-85d98b0f8e4c",
+      "time": "2026-09-10 01:46:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) introduces \"Siri Recap\", a feature that can summarize conversations."
+    },
+    {
+      "id": "mkt:01a08747-9461-7118-850e-7854471f41a5",
+      "time": "2026-09-10 01:46:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launched \"Live Rewind\", a feature that can transcribe the most recent 15 seconds of audio."
+    },
+    {
+      "id": "5085644",
+      "time": "2026-09-10 01:46:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：蘋果推出“Siri Recap”功能，用於總結對話內容。"
+    },
+    {
+      "id": "mkt:01a08747-4f25-7118-850e-7277270cf34d",
+      "time": "2026-09-10 01:46:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple launches iPhone 18 Pro series with 2nm A20 Pro chip, variable aperture; Pro $1,199, Pro Max $1,299】Apple (AAPL.O) unveiled the iPhone 18 Pro and iPhone 18 Pro Max, running iOS 27 and Apple Intelligence/Siri AI. Both phones use the A20 Pro chip built on a 2nm process; Apple says memory bandwidth is up 50% versus the A19 Pro, the 7‑core GPU is up to 40% faster, and a dual 16‑core Neural Engine doubles AI performance. A next‑generation heat spreader boosts sustained performance by as much as 40%. Imaging is upgraded with a 48MP fused main sensor and Apple’s first variable aperture (six laser‑cut blades) plus professional camera controls and expanded video features including ProRes RAW, Apple Log 2 and Genlock. Apple says the iPhone 18 Pro Max delivers the largest battery improvement in iPhone history; the eSIM model supports up to 45 hours of video playback. Storage ranges 256GB–2TB. US pricing: iPhone 18 Pro from $1,199; Pro Max from $1,299. Preorders begin Sept. 12, on sale Sept. 18."
+    },
+    {
+      "id": "5085643",
+      "time": "2026-09-10 01:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：推出“Live Rewind”功能，可轉錄最近 15 秒音訊。"
+    },
+    {
+      "id": "5085642",
+      "time": "2026-09-10 01:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果宣佈推出音訊智慧功能。"
+    },
+    {
+      "id": "mkt:01a0873f-5056-7118-850e-6e7571a337f6",
+      "time": "2026-09-10 01:37:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): AirPods 5 can reduce noise by up to 50% versus AirPods 4."
+    },
+    {
+      "id": "mkt:01a0873e-f0c7-7118-850e-61b6ecde0e9e",
+      "time": "2026-09-10 01:37:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launched the Apple Watch Series 12 and Apple Watch Ultra 4."
+    },
+    {
+      "id": "5085641",
+      "time": "2026-09-10 01:37:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果釋出 Apple Watch Series 12 與 Apple Watch Ultra 4。"
+    },
+    {
+      "id": "mkt:01a0873e-6b72-7118-850e-5e998451162d",
+      "time": "2026-09-10 01:36:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): AirPods 5 open for pre‑order today; scheduled to go on sale on Sept 18."
+    },
+    {
+      "id": "5085640",
+      "time": "2026-09-10 01:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：AirPods 5 今日開啟預售，9 月 18 日正式發售。"
+    },
+    {
+      "id": "5085639",
+      "time": "2026-09-10 01:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：AirPods 5配備同類領先的開放式主動降噪功能。配備額外功能並支援無線充電的AirPods 5售價將從149美元起。"
+    },
+    {
+      "id": "mkt:01a0873d-c973-7118-850e-551fbc898ffc",
+      "time": "2026-09-10 01:36:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) prices AirPods 5 from $149; new model adds features and supports wireless charging."
+    },
+    {
+      "id": "mkt:01a0873d-434b-7118-850e-480d06b37adf",
+      "time": "2026-09-10 01:35:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): AirPods 5 to feature class-leading open-fit active noise cancellation."
+    },
+    {
+      "id": "5085638",
+      "time": "2026-09-10 01:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果釋出AirPods 5 售價129美元】9月9日晚間訊息，在2026蘋果秋季釋出會上，蘋果釋出新款 AirPods 5 。新款 AirPods 5 的音質更加豐富細膩，並且能夠適應更多不同的耳形。此外，AirPods 5 的主動降噪功能也得到了提升，降噪效果比 AirPods 4 提升了 50%。通透模式也得到了改進，讓使用者能夠更自然地聆聽外部聲音。"
+    },
+    {
+      "id": "mkt:01a0873c-d451-7118-850e-42a86cd70cf9",
+      "time": "2026-09-10 01:35:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): AirPods 5 base model starts at $129."
+    },
+    {
+      "id": "mkt:01a08739-e7c2-7118-850e-399c1b2a50b7",
+      "time": "2026-09-10 01:31:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launched AirPods 5."
+    },
+    {
+      "id": "mkt:01a08739-7c97-7118-850e-31abbe206f91",
+      "time": "2026-09-10 01:31:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O): iPhone Pro orders open Sept 12; shipments begin Sept 18."
+    },
+    {
+      "id": "5085637",
+      "time": "2026-09-10 01:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果釋出 AirPods 5。"
+    },
+    {
+      "id": "mkt:01a08738-e0b4-7118-850e-29479346ee79",
+      "time": "2026-09-10 01:30:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple sets iPhone 18 Pro series prices from $1,199】Apple (AAPL.O) announced pricing for the iPhone 18 Pro series: iPhone 18 Pro starts at $1,199 and iPhone 18 Pro Max starts at $1,299. For comparison, iPhone 17 Pro launched at $1,099 (8,999 yuan) and iPhone 17 Pro Max at $1,199 (9,999 yuan)."
+    },
+    {
+      "id": "5085636",
+      "time": "2026-09-10 01:30:10",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果公佈iPhone 18 Pro系列價格：1199美元起】蘋果公佈iPhone 18 Pro系列價格，iPhone 18 Pro起售價為1199美元，iPhone 18 Pro Max起售價為1299美元。（作為對比，iPhone 17 Pro起售價為1099美元/8999元人民幣，iPhone 17 Pro Max起售價為1199美元/9999元人民幣） iPhone Pro 機型 9 月 12 日開啟預訂，9 月 18 日起發貨。"
+    },
+    {
+      "id": "mkt:01a08738-454a-7118-850e-27245691a0ef",
+      "time": "2026-09-10 01:30:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) introduces iPhone Handoff, allowing two iPhones to share the same phone number."
+    },
+    {
+      "id": "5085635",
+      "time": "2026-09-10 01:29:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果推出“iPhone Handoff”功能，支援在兩臺 iPhone 上共用同一個手機號碼。"
+    },
+    {
+      "id": "5085634",
+      "time": "2026-09-10 01:28:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱已打擊俄羅斯亞馬爾 - 涅涅茨自治區的天然氣設施。"
+    },
+    {
+      "id": "mkt:01a08736-6751-7118-850e-1ffccb130147",
+      "time": "2026-09-10 01:28:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio was awarded the Red Cross Medal by Ecuadorian President Daniel Noboa."
+    },
+    {
+      "id": "mkt:01a08735-f25e-7118-850e-1032e822705b",
+      "time": "2026-09-10 01:27:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) will support the SynthID synthetic-content identification standard to identify images generated or edited by AI."
+    },
+    {
+      "id": "5085633",
+      "time": "2026-09-10 01:26:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：將支援 Synth ID 標準，用於識別 AI 生成或經過編輯的影象。"
+    },
+    {
+      "id": "mkt:01a08734-f5e1-7118-850e-0a99b6be69f3",
+      "time": "2026-09-10 01:26:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) launches Apple Reference Image standard to verify a photo’s authenticity at the time of capture."
+    },
+    {
+      "id": "5085632",
+      "time": "2026-09-10 01:26:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：推出“Apple Reference Image”（蘋果參考影象）標準，用於證明照片在拍攝時的真實性。"
+    },
+    {
+      "id": "mkt:01a08734-be48-7118-850e-0049584b1817",
+      "time": "2026-09-10 01:26:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Costa, president of the Council of the EU, said the bloc has sought a lasting peace in Ukraine, but Russia does not want to end the war."
+    },
+    {
+      "id": "mkt:01a08732-f7ce-7118-850d-f9f2739ff889",
+      "time": "2026-09-10 01:24:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Council President Costa said it is time to stop the Russia‑Ukraine war and achieve peace."
+    },
+    {
+      "id": "5085631",
+      "time": "2026-09-10 01:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果：iPhone 18 Pro與iPhone 18 Pro Max電池續航大幅提升】9月9日晚間訊息，在2026蘋果秋季釋出會上，蘋果表示，iPhone 18 Pro與iPhone 18 Pro Max電池續航大幅提升，是“歷年來最好電池續航提升”。其中，iPhone 18 Pro單次充電可以續航24小時；iPhone 18 Pro Max單次充電可續航30小時。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a08730-f4c7-7118-850d-f30e094194d6",
+      "time": "2026-09-10 01:22:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone 18 Pro features a 48MP fused main camera and supports a variable aperture."
+    },
+    {
+      "id": "5085630",
+      "time": "2026-09-10 01:21:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone 18 Pro 配備 4800 萬畫素融合主攝，支援可變光圈。"
+    },
+    {
+      "id": "mkt:01a0872f-a46a-7118-850d-e9ed2b791ec8",
+      "time": "2026-09-10 01:20:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) shares hit an intraday low, down 1.4%."
+    },
+    {
+      "id": "5085629",
+      "time": "2026-09-10 01:19:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone 18 Pro Max 創下 iPhone 史上最大續航提升幅度。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609103869672829",
+      "time": "2026-09-10 01:19:31",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週三使用規模為4.32億美元（交易對手6家），上個交易日報6.26億美元。"
+    },
+    {
+      "id": "mkt:01a0872e-89bf-7118-850d-e56d5f3e0295",
+      "time": "2026-09-10 01:19:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) says the iPhone 18 Pro Max delivers the largest battery-life improvement in iPhone history."
+    },
+    {
+      "id": "5085628",
+      "time": "2026-09-10 01:19:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價跌至盤中低點，下挫1.5%。"
+    },
+    {
+      "id": "5085627",
+      "time": "2026-09-10 01:18:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（9月9日），美聯儲隔夜逆回購協議（RRP）使用規模為4.32億美元（交易對手6家），上個交易日報6.26億美元。"
+    },
+    {
+      "id": "5085626",
+      "time": "2026-09-10 01:17:59",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "紐約銅價、倫敦銅價雙雙創歷史新高。"
+    },
+    {
+      "id": "mkt:01a0872c-fca3-7118-850d-d93a85e0f453",
+      "time": "2026-09-10 01:17:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): A20 chip uses an improved vapor-chamber heat-spreader for cooling."
+    },
+    {
+      "id": "5085625",
+      "time": "2026-09-10 01:17:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：A20 晶片採用改良版均熱板散熱方案。"
+    },
+    {
+      "id": "mkt:01a0872c-ba93-7118-850d-d3abee01d82d",
+      "time": "2026-09-10 01:17:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): A20 Pro chip will use custom packaging similar to Mac chips to improve thermal performance."
+    },
+    {
+      "id": "mkt:01a0872c-6ac9-7118-850d-c91593b55a02",
+      "time": "2026-09-10 01:17:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $432 mln from six counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5085624",
+      "time": "2026-09-10 01:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：A20 Pro 晶片將採用與 Mac 晶片類似的定製封裝工藝，以改善散熱表現。"
+    },
+    {
+      "id": "mkt:01a0872b-fa40-7118-850d-c01adfd7e14b",
+      "time": "2026-09-10 01:16:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O): A20 chip will feature two neural engines totaling 32 cores, boosting on-device AI performance."
+    },
+    {
+      "id": "5085623",
+      "time": "2026-09-10 01:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果： A20 晶片將配備兩個神經網路引擎，合計 32 核，提升端側人工智慧效能。"
+    },
+    {
+      "id": "mkt:01a0872b-aa2b-7118-850d-b81d0ab762f4",
+      "time": "2026-09-10 01:16:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): A20 Pro chip features seven GPU cores."
+    },
+    {
+      "id": "5085622",
+      "time": "2026-09-10 01:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：A20 Pro 晶片搭載七核GPU。"
+    },
+    {
+      "id": "mkt:01a0872b-6e5a-7118-850d-b4c2bda9c9e3",
+      "time": "2026-09-10 01:16:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): A20 Pro chip will use a six-core CPU with two 'desktop-class' ultra-large cores and four efficiency cores."
+    },
+    {
+      "id": "5085621",
+      "time": "2026-09-10 01:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：A20 Pro 將配備六核 CPU，包含兩枚 “桌面級” 超大核與四枚能效核。"
+    },
+    {
+      "id": "mkt:01a0872a-9452-7118-850d-acc9d3a91fd5",
+      "time": "2026-09-10 01:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) released the A20 Pro chip built on 2nm process technology."
+    },
+    {
+      "id": "5085620",
+      "time": "2026-09-10 01:14:57",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果釋出基於 2 奈米工藝的 A20 Pro 晶片。"
+    },
+    {
+      "id": "5085619",
+      "time": "2026-09-10 01:14:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果：新版 Siri 將不在歐盟與中國上線。"
+    },
+    {
+      "id": "mkt:01a08729-e9fc-7118-850d-a02a8a85fc45",
+      "time": "2026-09-10 01:14:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor said a drone crashed onto vacant ground near a 16-storey residential building in the Desnianskyi district, igniting several cars."
+    },
+    {
+      "id": "5085617",
+      "time": "2026-09-10 01:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國民航局：政府已要求英國民航局對 9 月 8 日的系統癱瘓事件開展獨立調查。"
+    },
+    {
+      "id": "mkt:01a08727-76c4-7118-850d-9e3f54a578cd",
+      "time": "2026-09-10 01:11:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU Council president Costa said a new approach is needed for the next long-term EU budget."
+    },
+    {
+      "id": "te:economy:582495",
+      "time": "2026-09-10 01:11:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to Near 3-Year High — The yield on the 10-year US Treasury note rose toward 4.85% on Wednesday, the highest since October of 2023, after the Treasury Department tripled the buyback on notes and bonds to take place tomorrow. The department will purchase $6 billion in off-the-run securities, compared with Secretary Bessent's earlier announcement that buybacks would at least double to $4 billion, among the multiple moves by Washington to supress long-maturity yields. Yields on the long-end of the curve have surged this year as high oil prices due to the war in Iran raised underlying inflation, risking a rate hike by the Federal Reserve in upcoming meetings. This was magnified by record-setting corporate debt supply, with AI companies issuing north of $1.5 trillion in new issuance. On top of that, pressure on the Japanese yen drove Tokyo to repeatedly sell Treasury securities to defend the currency. Still, yields on the 10-year note recouped some gains after the fresh auction stopped-through 1.5bps."
+    },
+    {
+      "id": "5085616",
+      "time": "2026-09-10 01:11:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟理事會主席科斯塔：歐盟將持續支援烏克蘭，所需多久便支援多久。我們需要為下一期歐洲長期預算制定新方案。"
+    },
+    {
+      "id": "mkt:01a08726-b078-7118-850d-957f2b17b776",
+      "time": "2026-09-10 01:10:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "EU Council President Costa said the EU will continue to support Ukraine for as long as necessary."
+    },
+    {
+      "id": "mkt:01a08726-3507-7118-850d-89c775d5e0fd",
+      "time": "2026-09-10 01:10:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) senior analyst Gurman said Apple's new CEO Ternus frames the ideal AI device as needing extensive network connectivity, strong model capability, a high-quality display, a premium camera, advanced processors, all-day battery life and seamless multi-device integration. Gurman said Ternus is effectively arguing the iPhone meets those criteria and is the ideal device for the AI era."
+    },
+    {
+      "id": "5085615",
+      "time": "2026-09-10 01:08:24",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果釋出 iPhone 18 Pro 與 iPhone 18 Pro Max。"
+    },
+    {
+      "id": "mkt:01a08724-60ee-7118-850d-80c13a6471b3",
+      "time": "2026-09-10 01:08:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) announced the launch of the iPhone 18 Pro and iPhone 18 Pro Max."
+    },
+    {
+      "id": "5085614",
+      "time": "2026-09-10 01:03:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率拍賣後漲幅收窄，最新上漲 3.26 個基點，報 4.837%。"
+    },
+    {
+      "id": "mkt:01a0871f-a2f5-7118-850d-7825bde4ad7a",
+      "time": "2026-09-10 01:03:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury yield pulled back after the auction but has since risen 3.26 bps to 4.837%."
+    },
+    {
+      "id": "mkt:01a0871f-1c49-7118-850d-70b8c4c98b3f",
+      "time": "2026-09-10 01:02:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O)'s new CEO Ternus opened the company's product launch event."
+    },
+    {
+      "id": "5085613",
+      "time": "2026-09-10 01:02:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣390億美元10年期國債，得標利率4.834%，投標倍數2.71。"
+    },
+    {
+      "id": "5085612",
+      "time": "2026-09-10 01:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.828美元/百萬英熱。"
+    },
+    {
+      "id": "5085611",
+      "time": "2026-09-10 01:00:10",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果摺疊屏 iPhone 釋出會開啟，特納斯登臺。"
+    },
+    {
+      "id": "5085610",
+      "time": "2026-09-10 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.81%，滬銅收漲0.71%，滬鋁收漲0.37%，滬鋅收漲1.22%，滬鉛收跌0.34%，滬鎳收漲1.04%，滬錫收漲1.53%。氧化鋁夜盤收跌0.72%，鋁合金收漲0.36%。不鏽鋼夜盤收漲0.44%。"
+    },
+    {
+      "id": "5085609",
+      "time": "2026-09-10 00:58:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic研究員辭職 警告稱人工智慧巨頭在“拿人類生命作賭注”】Anthropic PBC一名人工智慧研究員辭職，並呼籲其他員工也重新思考自己的工作意義。他表示，Anthropic及其主要競爭對手OpenAI在全力追求一種可能給人類帶來存亡風險的技術過程中採取了不負責任的做法。過去三年曾先後在Anthropic和OpenAI工作的Jacob Coxon週二晚間在社交媒體發文警告，這兩家公司正在推進能夠“自我改進”的AI模型，而這些模型最終可能變得強大到人類無法控制。Coxon在帖子中寫道：“他們正徑直奔向能夠自我改進的超級智慧，而且是拿人類的生命作賭注。不要低估這項技術的力量。這些系統很快就會擁有超越人類的能力，可以入侵任何東西、一夜之間徹底改變任何領域，並獲得真正的權力和資源。”Coxon稱，開發AI的團隊“真心認為，到2030年前後，它可能會殺死我們所有人”。Anthropic現任員工Evan Hubinger對此回應稱，他和公司其他人的確擔心這種情形。他在X平臺寫道：“我個人認為，未來十年內發生這種情況的機率超過10%。”"
+    },
+    {
+      "id": "5085608",
+      "time": "2026-09-10 00:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "在約翰・特納斯即將登臺的幾分鐘前，蒂姆・庫克悄然加入蘋果高層前排陣營。"
+    },
+    {
+      "id": "5085607",
+      "time": "2026-09-10 00:55:03",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯財政部長西盧安諾夫表示，俄羅斯正在考慮將預算規則中的油價基準設定為50美元/桶。"
+    },
+    {
+      "id": "5085606",
+      "time": "2026-09-10 00:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲59美元，報14768美元/噸。LME期鋁收漲16美元，報3357美元/噸。LME期鋅收漲30美元，報4052美元/噸。LME期鉛收平，報1914美元/噸。LME期鎳收漲29美元，報16897美元/噸。LME期錫收漲356美元，報55218美元/噸。LME期鈷收跌750美元，報42940美元/噸。"
+    },
+    {
+      "id": "5085605",
+      "time": "2026-09-10 00:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【八國發表聯合宣告 歡迎英國限制與以非法定居點貿易】當地時間9日，埃及、卡達、約旦、阿聯酋、印尼、巴基斯坦、土耳其和沙特八國外長髮表聯合宣告，歡迎英國政府決定禁止進口來自以色列在約旦河西岸所建定居點的商品，並限制英國企業為定居點提供部分服務。（央視新聞）"
+    },
+    {
+      "id": "5085604",
+      "time": "2026-09-10 00:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國官員證實，伯納姆與戴蒙將於週三在倫敦會面。"
+    },
+    {
+      "id": "te:markets:582494",
+      "time": "2026-09-10 00:46:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Eases From Two-Week High — US gasoline futures fell below $3.20 a gallon after rising to a two-week high, amid a reduced outlook for gasoline demand. Energy Secretary Wright stated that slowing demand following the end of the summer driving season could help rebuild inventories, which remain 6% below the five-year average, while US refineries are operating near full capacity, with some delaying seasonal fall maintenance to keep production levels elevated. Similarly, China, the world’s biggest crude importer, increased crude imports in August as refiners boosted production amid depleting inventories, offering some relief to a tight global refining market. However, gasoline demand in China is set to fall 8.7% in 2026, accelerating the elimination of excess refining capacity. Meanwhile, tensions in the Middle East intensified as the US military carried out strikes on Iranian tankers. Adding to the pressure, Ukraine attacked an energy facility in Russia’s Arctic for the first time."
+    },
+    {
+      "id": "5085603",
+      "time": "2026-09-10 00:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國對國際原子能機構撤銷敘利亞 “不遵守規定” 認定表示歡迎。"
+    },
+    {
+      "id": "5085602",
+      "time": "2026-09-10 00:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓巴拉望省近海一客輪起火】據當地海警訊息，當地時間9月9日，菲律賓巴拉望省附近海域一艘載有上百人的客輪起火，截至當天21時有28人獲救。訊息說，事故發生在距該省科倫鎮約1.2海里的海域，事發時船上據信載有117名乘客和17名船員。海警於18時45分獲悉險情後啟動搜救和應急處置。救援工作仍在進行中。（央視新聞）"
+    },
+    {
+      "id": "5085601",
+      "time": "2026-09-10 00:36:03",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利首席投資官建議用能源股進行對沖 同時迴避30年期美國國債】摩根士丹利的Mike Wilson表示，擔心利率和油價上漲的投資者，應偏向質量更高的美國股票，並利用能源股進行投資組合對沖，同時避開30年期美國國債。Wilson週三接受採訪時表示：“別自欺欺人了，標普500仍然是全球質量最高的股票市場。所以如果你很緊張，那就持有標普500。”他補充稱：“不要持有長期債券。過去五年，長期債券的表現簡直是一場災難。”  Wilson對能源股的看好，也凸顯了這一行業的雙重作用。原油價格反彈一方面加劇了通脹擔憂，並對美國國債構成壓力；另一方面，石油公司股價自6月以來明顯跑贏大盤。從6月1日至週二，標普500能源指數上漲13%，遠高於標普500指數同期1%的漲幅。作為摩根士丹利首席美國股票策略師和首席投資官的Wilson還指出，美國國內能源生產能夠在一定程度上隔絕歐洲和日本所面臨的供應衝擊。"
+    },
+    {
+      "id": "5085600",
+      "time": "2026-09-10 00:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱打擊了烏克蘭尼古拉耶夫港的設施。"
+    },
+    {
+      "id": "5085599",
+      "time": "2026-09-10 00:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：霍爾木茲海峽有油輪遭襲擊的相關報道。"
+    },
+    {
+      "id": "5085598",
+      "time": "2026-09-10 00:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：埃及與巴林外交部長呼籲地區局勢降溫。"
+    },
+    {
+      "id": "5085597",
+      "time": "2026-09-10 00:31:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta收購瑞典人工智慧初創企業 Stilla.AI。"
+    },
+    {
+      "id": "5085596",
+      "time": "2026-09-10 00:29:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐維也納國際組織代表團：該決議會助推 “整個防擴散體系進一步遭到侵蝕，並最終瓦解”。"
+    },
+    {
+      "id": "5085595",
+      "time": "2026-09-10 00:27:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員押注歐洲央行和英國央行將加息四次 油價飆升加劇通脹擔憂】交易員正在加大對歐洲央行和英國央行加息的押注，因為能源價格上漲可能令通脹在未來一年難以消退。互換市場目前顯示，交易員預計歐洲央行到2027年12月將加息約90個基點，為本輪緊縮週期中最高。這意味著政策制定者在此期間可能需加息三次，每次25個基點，並有60%的機率進行第四次加息。互換市場顯示，預計英國央行同期加息幅度也大致相當，將推動利率升至2025年2月以來最高。歐洲和英國均高度依賴進口石油，尤其是天然氣，因此經濟容易受到價格飆升的衝擊。市場普遍預計歐洲央行將在週四會議上加息。互換市場的變動凸顯市場對伊朗戰爭引發通脹飆升的擔憂。"
+    },
+    {
+      "id": "5085594",
+      "time": "2026-09-10 00:27:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：賈斯克南部附近海域傳來爆炸聲。"
+    },
+    {
+      "id": "5085593",
+      "time": "2026-09-10 00:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "外交官稱，國際原子能機構理事會決議獲 23 票贊成、3 票反對、8 票棄權透過。"
+    },
+    {
+      "id": "5085592",
+      "time": "2026-09-10 00:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "西非中央銀行維持主要貸款利率不變，為 3.0%。"
+    },
+    {
+      "id": "5085591",
+      "time": "2026-09-10 00:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐維也納國際組織代表團：國際原子能機構理事會的決議帶有 “偏見” 且屬於 “政治操弄”。"
+    },
+    {
+      "id": "5085590",
+      "time": "2026-09-10 00:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨與歐盟理事會主席科斯塔準備向記者發表講話。"
+    },
+    {
+      "id": "5085589",
+      "time": "2026-09-10 00:21:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "外交官訊息：國際原子能機構（IAEA）由 35 國組成的理事會透過決議，就伊朗違反防擴散義務一事將其上報聯合國安理會。"
+    },
+    {
+      "id": "5085588",
+      "time": "2026-09-10 00:20:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計，2026 年第四季度中東原油停產量均值為 570 萬桶 / 日。"
+    },
+    {
+      "id": "5085586",
+      "time": "2026-09-10 00:19:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）稱，8 月中東原油停產規模從 7 月的 500 萬桶 / 日升至 670 萬桶 / 日。"
+    },
+    {
+      "id": "5085585",
+      "time": "2026-09-10 00:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "加州總檢察長羅布・邦塔宣佈，就《瀕危物種法》修訂事宜對特朗普政府提起兩項訴訟。"
+    },
+    {
+      "id": "5085584",
+      "time": "2026-09-10 00:17:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計，美國將延續對伊朗出口的封鎖，相關制裁會限制伊朗石油出口並壓低其產量。"
+    },
+    {
+      "id": "5085583",
+      "time": "2026-09-10 00:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）表示已於 9 月 3 日完成短期能源展望（STEO）預測模型的資料錄入；該預測並未納入近期中東局勢相關事件。"
+    },
+    {
+      "id": "5085582",
+      "time": "2026-09-10 00:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部長羅林斯：專注於當前職務，不考慮未來可能的參選。"
+    },
+    {
+      "id": "te:markets:582490",
+      "time": "2026-09-10 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.58% Lower — The FTSE MIB Index fell 302 points or 0.58 percent on Wednesday to close at 51875 points. Leading the losses are Leonardo SpA (-3.75%), Fincantieri (-3.61%) and Poste Italiane (-2.79%). Top gainers were Eni (1.91%), Diasorin (0.52%) and Recordati (0.29%)."
+    },
+    {
+      "id": "5085581",
+      "time": "2026-09-10 00:11:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部長羅林斯：部分食品成本在過去兩年有所下降。"
+    },
+    {
+      "id": "te:markets:582488",
+      "time": "2026-09-10 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.66% Lower — The DAX Index dropped 431 points or 1.66 percent on Wednesday to close at 25576 points. Losses were led by Rheinmetall (-4.11%), Siemens (-3.27%) and Infineon (-3.18%)."
+    },
+    {
+      "id": "te:markets:582487",
+      "time": "2026-09-10 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 2.03% Lower — The CAC 40 Index decreased 169 points or 2.03 percent on Wednesday to close at 8149 points. The decline was led by Kering (-4.73%), Capgemini (-4.17%) and Saint-Gobain (-4.07%)."
+    },
+    {
+      "id": "5085580",
+      "time": "2026-09-10 00:10:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國民航局（CAA）：9 月 8 日英國國家空中交通服務局（NATS）技術故障引發的航班延誤與取消，大機率屬於 “特殊情況”。旅客不太可能就 9 月 8 日航班中斷獲得賠償。"
+    },
+    {
+      "id": "5085579",
+      "time": "2026-09-10 00:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）估算，2026 年迄今全球石油庫存減少 4 億桶，庫存將持續下降至年底。"
+    },
+    {
+      "id": "5085578",
+      "time": "2026-09-10 00:09:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官員：如有必要，伊朗已準備好與美國展開更激烈的戰爭。若美國發動襲擊，伊朗將升級打擊行動。伊朗視這場戰爭關乎自身存亡，除戰鬥外別無選擇。"
+    },
+    {
+      "id": "5085577",
+      "time": "2026-09-10 00:08:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報96.75美元/桶。"
+    },
+    {
+      "id": "te:markets:582486",
+      "time": "2026-09-10 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.38% Lower — The FTSE 100 Index fell 150 points or 1.38 percent on Wednesday to close at 10662 points. Leading the losses are Auto Trader (-4.74%), Burberry (-3.94%) and The Sage Group (-3.92%)."
+    },
+    {
+      "id": "5085576",
+      "time": "2026-09-10 00:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究人員稱 OpenAI 智慧體繞過網路限制】獨立研究人員表示，OpenAI 的 AI 智慧體在超過 10 個網站上開展未經授權的通訊，突破了原本僅允許其讀取網頁內容的限制。部分調查人員發現相關活動波及 20 餘個網站，但無法核實全部說法。OpenAI 稱正在開展更廣泛的審查，暫未發現其他事件的嚴重程度與規模能與 Hugging Face 事件相當。該研究結果引發了外界對 AI 智慧體管控與監督問題的擔憂。"
+    },
+    {
+      "id": "5085575",
+      "time": "2026-09-10 00:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）在《短期能源展望》（STEO）中預計，隨著霍爾木茲海峽 “輸油量逐步增加”，中東石油產量將在未來數月上升。中東石油出口面臨的部分限制或將持續至 2026 年底。"
+    },
+    {
+      "id": "5085574",
+      "time": "2026-09-10 00:05:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源CEO：未來五年，道達爾能源將向安哥拉多家合作方旗下各類專案合計投資 100 億美元。"
+    },
+    {
+      "id": "5085573",
+      "time": "2026-09-10 00:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國 9 月石油產量均值為 1396 萬桶 / 日，8 月為 1388 萬桶 / 日；10 月產量均值預計為 1395 萬桶 / 日。"
+    },
+    {
+      "id": "5085572",
+      "time": "2026-09-10 00:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國 9 月天然氣產量均值為 1239 億立方英尺 / 日，8 月為 1237 億立方英尺 / 日；10 月產量均值預計達 1242 億立方英尺 / 日。"
+    },
+    {
+      "id": "te:markets:582481",
+      "time": "2026-09-10 00:03:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls to 7-Week Low — The FTSE 100 fell more than 1% to a seven-week low on Wednesday as Brent crude surged to $101 a barrel, its highest level since May, amid renewed fighting in the Middle East. The US destroyed five Iranian crude-carrying tankers following an attempted strike on a US Navy warship, while Tehran fired missiles towards Jordan and warned vessels in the Persian Gulf. Energy stocks were among the few gainers, with Shell up 0.2% and BP rising 0.7%. Aberdeen Group edged lower after earlier gaining more than 2% following the appointment of Torbjörn Magnusson as chairman, subject to regulatory approval. Elsewhere, financials, consumer staples, industrials and materials came under heavy selling pressure. HSBC fell nearly 2%, while Unilever and BAT dropped 1.6% and 1.3%, respectively. Rolls-Royce declined 2.5%, Rio Tinto fell 1.5% and Glencore lost 1%. AstraZeneca was also under pressure, falling 1.8%."
+    },
+    {
+      "id": "5085571",
+      "time": "2026-09-10 00:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年美國石油產量為 1383 萬桶 / 日，此前預測值 1380 萬桶 / 日；預計 2027 年產量 1426 萬桶 / 日（此前預測值 1415 萬桶 / 日）。"
+    },
+    {
+      "id": "te:markets:582480",
+      "time": "2026-09-10 00:03:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Finishes at Over 1-Month Low — The DAX 40 deepened losses to close about 1.7% lower at 25,554 on Wednesday, a level last seen in late July, tracking its European peers. The escalation in the Middle East has pushed crude oil prices higher, bringing Brent crude above $100 a barrel, its highest level since last July, further fueling inflation concerns on the eve of the ECB's decision. The central bank is all but certain to raise interest rates from 2.25% to 2.5% on Thursday, with traders focused on the future policy path. Almost all sectors faced pressure, particularly energy-intensive industrials, techs, banks, financials and autos. Defense stocks Rheinmetall and Renk slipped 3.8% and 3.1%, respectively, amid profit-taking. Other top losers included MTU Aero Engines (-3%), Siemens (-2.9%), Heidelberg Materials (-2.8%) and Infineon Technologies (-2.6%). Beiersdorf dropped 2.6% after Deutsche Bank downgraded the stock from “Hold” to “Sell\". RWE (1.6%, Qiagen NV (0.4%), SAP (0.4%) and Bayer (0.2%) were the only gainers."
+    },
+    {
+      "id": "5085570",
+      "time": "2026-09-10 00:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年美國天然氣產量為 1117 億立方英尺 / 日，此前預測值 1112 億立方英尺 / 日；預計 2027 年產量 1159 億立方英尺 / 日（此前預測值 1160 億立方英尺 / 日）。"
+    },
+    {
+      "id": "5085569",
+      "time": "2026-09-10 00:03:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年美國石油需求為 2060 萬桶 / 日，此前預測值 2060 萬桶 / 日；預計 2027 年需求 2080 萬桶 / 日（此前預測值 2080 萬桶 / 日）。"
+    },
+    {
+      "id": "5085568",
+      "time": "2026-09-10 00:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年美國天然氣需求量為 922 億立方英尺 / 日，此前預測值 920 億立方英尺 / 日；預計 2027 年需求量 943 億立方英尺 / 日（此前預測值 948 億立方英尺 / 日）。"
+    },
+    {
+      "id": "5085567",
+      "time": "2026-09-10 00:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年全球石油需求為 1.026 億桶 / 日，此前預測值 1.027 億桶 / 日；預計 2027 年需求 1.05 億桶 / 日（此前預測值 1.05 億桶 / 日）。"
+    },
+    {
+      "id": "5085566",
+      "time": "2026-09-10 00:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年西德克薩斯中質原油（WTI）均價為每桶 84.65 美元，此前預測值為每桶 80.88 美元；2027 年預測價每桶 69.74 美元（此前預測值每桶 65.39 美元）。"
+    },
+    {
+      "id": "5085565",
+      "time": "2026-09-10 00:01:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計 2026 年布倫特原油均價為每桶 91.01 美元，此前預測值為每桶 86.81 美元；2027 年預測價每桶 73.74 美元（此前預測值每桶 69.39 美元）。"
+    },
+    {
+      "id": "te:markets:582479",
+      "time": "2026-09-10 00:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Decline — European stocks closed sharply lower on Wednesday as the ongoing surge in energy price consolidated concerns that inflation could dent demand and drive the ECB to deliver multiple rate hikes this year. The Euro STOXX 50 fell 1.7% to 6,304 and the STOXX Europe 600 fell 1.5% to 640. Strikes between the US and Iran intensified halfway through the week and pushed back expectations of when fuel exports through the Middle East may be somewhat normalized. Brent crude passed $100 per barrel, while regional natural gas benchmarks rose to their highest since 2022. The ECB is due to raise rates by 25bps tomorrow, and potentially give hints on whether it sees more tightening to be warranted. Rate sensitive sector declined sharply, with Santander, ING, Deutsche Bank, and Allianz dropping 2% due to risks on credit demand. Industrials also fell with Schneider Electric, Siemens, Rheinmetall, and Safran falling more than 3%."
+    },
+    {
+      "id": "te:markets:582476",
+      "time": "2026-09-09 23:55:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Fall to Over 1-Week Low — Soybeans eased to $12.90 a bushel, their lowest level in more than a week, as traders turned their attention to Friday’s US Department of Agriculture supply-and-demand forecasts for an indication of weather damage to Midwest crops. The USDA’s latest assessment showed that 58% of soybean crops were rated good to excellent, unchanged from the previous week and above expectations for a one-point decline. Despite the weaker prices, Chinese demand for US soybeans provided underlying support. On Wednesday, the USDA reported export sales of 340,000 metric tons of soybeans to China for delivery in 2026/27, alongside another 100,000 tons sold to unknown destinations. Rising oil prices have also supported soybeans, which are widely used in biofuel production, with Brent crude recently surpassing $100 a barrel. Soybeans reached $13.10 a bushel on September 1, their highest level since December 2023, amid concerns over US yields and Black Sea supply disruptions."
+    },
+    {
+      "id": "5085564",
+      "time": "2026-09-09 23:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗常駐聯合國代表：伊朗不存在任何未申報的核材料或核活動。在這方面對伊朗提出的任何相關預期都不切實際且無法接受。保障監督協定的執行受到強加給伊朗的戰爭影響。這場戰爭並非由伊朗發起，伊朗對此不承擔責任。只要戰爭狀態持續，就無法期待在常規條件下全面執行《全面保障監督協定》，包括向國際原子能機構提供資訊及允許核查人員准入。倘若戰爭徹底、永久結束，將為國際原子能機構的核查活動鋪平道路。”"
+    },
+    {
+      "id": "te:markets:582475",
+      "time": "2026-09-09 23:50:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls Ahead of ECB Rate Decision — The FTSE MIB fell 0.5% to 51,875 on Wednesday ahead of ECB's meeting tomorrow, which could weigh on credit demand for investment in defense, AI and energy transition. Heavyweight financials declined as eurozone sovereign yields rose to multi-year highs while markets widely expect a rate hike by the ECB, weighing on the bank's balance sheets. Adding to the pressure, talk of taxing banks' profits intensified as governments seek aid for budget deficits. Asset managers were also affected, with Azimut and Banca Mediolanum falling over 1.5%. Defense stocks Leonardo (-4%) and Fincantieri (-3.6%) led losses on the index. STMicroelectronics fell 1.1%. Stellantis declined 2.2%, as China's growing electric-truck market pressures Western manufactures. Luxury stocks also declined amid weak demand from China and lower spending due to the war in the Middle East. Attacks intensified in the region, lifting brent prices above $100. Conversely, energy stocks outperformed."
+    },
     {
       "id": "mkt:01a086dc-aca7-7118-850b-91a68eaa292e",
       "time": "2026-09-09 23:50:04",
@@ -122469,1393 +124015,6 @@
         "SHEL.N"
       ],
       "text": "Shell (SHEL.N) announced it will acquire a 30% stake in the Conifer project."
-    },
-    {
-      "id": "5073884",
-      "time": "2026-09-03 02:01:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：整體就業僅小幅增長，其中3個轄區就業溫和增長，4個轄區就業小幅增長，另有5個轄區就業無變化。"
-    },
-    {
-      "id": "5073883",
-      "time": "2026-09-03 02:01:23",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：自7月初以來，經濟活動溫和擴張。"
-    },
-    {
-      "id": "5073882",
-      "time": "2026-09-03 02:01:17",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：未來數月整體展望偏樂觀，但各領域情緒分化，受訪機構報告稱，能源價格走高、政策變動及國際衝突帶來的影響已導致不確定性加劇。"
-    },
-    {
-      "id": "5073881",
-      "time": "2026-09-03 02:01:08",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：八個轄區物價溫和上漲，其中兩個轄區物價漲幅適中，一個轄區物價漲幅小幅，一個轄區物價大幅上漲。"
-    },
-    {
-      "id": "mkt:01a06347-8468-7118-846a-e7768d2813c6",
-      "time": "2026-09-03 02:00:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk said Grok Bot has launched an Android version."
-    },
-    {
-      "id": "mkt:01a06345-0ff1-7118-846a-d8b46770c7de",
-      "time": "2026-09-03 01:57:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US and Venezuela sign oil project agreements】Acting Venezuelan president Delcy Rodríguez met US Energy Secretary Wright on Sept. 2 and the two sides signed multiple oil cooperation agreements. Venezuela and US firms including Chevron agreed to oil expansion projects. President Trump has said the US obtained majority control of more than 65 bln barrels of Venezuela’s proved oil reserves. Rodríguez said the pacts will run 25 years, aim to lift crude output to 1.5 mln bpd and preserve Venezuela’s sovereign rights over its natural resources."
-    },
-    {
-      "id": "mkt:01a06344-bb74-7118-846a-d1587dacacb3",
-      "time": "2026-09-03 01:57:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Bessent says Treasury buybacks aim to restore price equilibrium, free bank balance-sheet space】U.S. Treasury Secretary Bessent said Treasury buybacks will target long-dated, less-liquid Treasuries to \"eliminate a bad outcome,\" push prices back toward equilibrium and free up bank balance-sheet space. She added she knows what Japan plans to do."
-    },
-    {
-      "id": "5073880",
-      "time": "2026-09-03 01:55:08",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國和委內瑞拉簽署石油專案協議】當地時間9月2日，委內瑞拉代總統羅德里格斯會見美國能源部長賴特。會見後，兩國正式簽署多項合作協議。據悉，委內瑞拉政府與美國雪佛龍石油公司等多家企業就石油擴建專案簽署協議。（央視新聞）"
-    },
-    {
-      "id": "5073879",
-      "time": "2026-09-03 01:54:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Grok機器人現已推出安卓版本。"
-    },
-    {
-      "id": "mkt:01a0633e-0a87-7118-846a-ce7a0a158ba1",
-      "time": "2026-09-03 01:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve to release Beige Book on economic conditions in 10 minutes."
-    },
-    {
-      "id": "5073878",
-      "time": "2026-09-03 01:49:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普會見美國旅遊業高管。"
-    },
-    {
-      "id": "mkt:01a0633c-f9db-7118-846a-c0afa70cb23b",
-      "time": "2026-09-03 01:48:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Commerce Secretary Lutnick said Canada's Liberal Party is using the trade war to gain leverage in its election campaign."
-    },
-    {
-      "id": "5073877",
-      "time": "2026-09-03 01:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：加拿大自由黨正借貿易戰謀取選舉利益。"
-    },
-    {
-      "id": "mkt:01a0633b-15d9-7118-846a-b87c1f0f7ede",
-      "time": "2026-09-03 01:46:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he knows what Japan intends to do."
-    },
-    {
-      "id": "mkt:01a0633a-3464-7118-846a-b05822d6540c",
-      "time": "2026-09-03 01:45:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US Commerce Secretary Lutnick said tariffs on chips are intended to boost US semiconductor production."
-    },
-    {
-      "id": "5073876",
-      "time": "2026-09-03 01:45:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我清楚日方的（財政）計劃。"
-    },
-    {
-      "id": "5073875",
-      "time": "2026-09-03 01:45:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：回購操作讓銀行有空間在拍賣中增持債券。"
-    },
-    {
-      "id": "5073874",
-      "time": "2026-09-03 01:45:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：晶片關稅旨在提升美國晶片產量。"
-    },
-    {
-      "id": "mkt:01a06339-47ed-7118-846a-afdc22f7bd6e",
-      "time": "2026-09-03 01:44:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury is repurchasing longer-dated, illiquid Treasuries; the buybacks are intended to eliminate \"bad outcomes\"."
-    },
-    {
-      "id": "5073873",
-      "time": "2026-09-03 01:43:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：回購操作能夠釋放銀行資產負債表空間。"
-    },
-    {
-      "id": "5073872",
-      "time": "2026-09-03 01:43:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我可以嘗試推動價格迴歸均衡水平。"
-    },
-    {
-      "id": "5073871",
-      "time": "2026-09-03 01:43:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特：回購國債的目標是消除“不良結果”。"
-    },
-    {
-      "id": "mkt:01a06337-acbe-7118-846a-a1cba46f08b0",
-      "time": "2026-09-03 01:43:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Commerce Secretary Lutnick said Anthropic has resolved its differences with the current administration."
-    },
-    {
-      "id": "5073870",
-      "time": "2026-09-03 01:43:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：回購流動性欠佳的長期債券。"
-    },
-    {
-      "id": "mkt:01a06336-f913-7118-846a-99334dc277d9",
-      "time": "2026-09-03 01:42:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese News Agency reported an enemy airstrike struck Ali Taher Heights."
-    },
-    {
-      "id": "5073869",
-      "time": "2026-09-03 01:42:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "Waymo聯合太平洋投資管理公司、黑石完成30億美元首筆債務融資。"
-    },
-    {
-      "id": "5073868",
-      "time": "2026-09-03 01:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：Anthropic已與本屆政府化解分歧。"
-    },
-    {
-      "id": "5073867",
-      "time": "2026-09-03 01:40:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報704.40元。"
-    },
-    {
-      "id": "5073866",
-      "time": "2026-09-03 01:39:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：呼籲其他國家採用美國人工智慧技術。"
-    },
-    {
-      "id": "5073865",
-      "time": "2026-09-03 01:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：虛假資訊助長了針對人工智慧資料中心的反對聲音。"
-    },
-    {
-      "id": "5073864",
-      "time": "2026-09-03 01:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：英國本應迎來人工智慧蓬勃發展，卻在能源問題上態度消極。"
-    },
-    {
-      "id": "5073863",
-      "time": "2026-09-03 01:37:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特聲稱：美國即將迎來一輪生產力大幅增長。"
-    },
-    {
-      "id": "5073862",
-      "time": "2026-09-03 01:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：10月1日後，特朗普賬戶開戶數量或將達到約7000萬個。"
-    },
-    {
-      "id": "5073861",
-      "time": "2026-09-03 01:31:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱美方近期多場交戰“均告失敗”】伊朗伊斯蘭革命衛隊副總司令伊扎迪2日表示，在近期的軍事衝突中，敵方投入的裝備規模超過伊方10倍，但未能實現其既定目標，尤其是在霍爾木茲方向及近期多場交戰中的目標“均告失敗”。（央視新聞）"
-    },
-    {
-      "id": "5073860",
-      "time": "2026-09-03 01:29:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：人工智慧企業需要向公眾闡釋其能為民眾帶來何種益處，我會給人工智慧行業的對外溝通打D‑的分數。"
-    },
-    {
-      "id": "5073859",
-      "time": "2026-09-03 01:27:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷外長：必須掌握一切可用手段以實現對馬島主權】阿根廷外交部長巴勃羅·基爾諾2日表示，阿根廷必須掌握一切可用手段，以實現對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。（新華社）"
-    },
-    {
-      "id": "5073858",
-      "time": "2026-09-03 01:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：人工智慧企業對各社群的訴求置若罔聞。"
-    },
-    {
-      "id": "5073857",
-      "time": "2026-09-03 01:23:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "白宮表示，委內瑞拉協議所產原油或將在11月注入美國戰略石油儲備。"
-    },
-    {
-      "id": "5073856",
-      "time": "2026-09-03 01:23:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：受700億美元關稅退款影響，本年度預算缺口有所擴大。"
-    },
-    {
-      "id": "5073855",
-      "time": "2026-09-03 01:23:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：防空部隊單日擊落238架烏克蘭無人機。"
-    },
-    {
-      "id": "5073854",
-      "time": "2026-09-03 01:22:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾告知共和黨議員，牛肉進口相關舉措屬於臨時性質。"
-    },
-    {
-      "id": "5073853",
-      "time": "2026-09-03 01:22:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們將重新恢復關稅。"
-    },
-    {
-      "id": "5073852",
-      "time": "2026-09-03 01:21:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：正致力於降低美國預算赤字佔國內生產總值的比重。"
-    },
-    {
-      "id": "5073851",
-      "time": "2026-09-03 01:20:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：感謝美國總統特朗普所做的協同努力。"
-    },
-    {
-      "id": "5073850",
-      "time": "2026-09-03 01:18:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團：這份為期25年並可延期的協議，授予埃尼集團胡寧5區塊的獨家運營商地位。"
-    },
-    {
-      "id": "5073849",
-      "time": "2026-09-03 01:17:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團：在委內瑞拉簽署戰略合同，成為巨型油田胡寧5號的作業方。"
-    },
-    {
-      "id": "5073848",
-      "time": "2026-09-03 01:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：雪佛龍、埃尼無論順境逆境都一直與委內瑞拉同在。"
-    },
-    {
-      "id": "5073847",
-      "time": "2026-09-03 01:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉現已具備投資監管框架。"
-    },
-    {
-      "id": "5073846",
-      "time": "2026-09-03 01:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉經濟很快將會復甦。"
-    },
-    {
-      "id": "5073845",
-      "time": "2026-09-03 01:15:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（9月2日），美聯儲隔夜逆回購協議（RRP）使用規模為5.25億美元（交易對手1家），上個交易日報7.25億美元。"
-    },
-    {
-      "id": "5073843",
-      "time": "2026-09-03 01:14:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特： 特朗普政府在委內瑞拉的使命是為委內瑞拉人民帶來和平、自由、機遇與繁榮。"
-    },
-    {
-      "id": "te:economy:580571",
-      "time": "2026-09-03 01:13:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Rises to Near 3-Year High — The yield on the 10-year US Treasury note rose past 4.8% in September, the highest since October of 2023, amid the risk of higher rates by the Federal Reserve, soaring supply of corporate debt, and concerns of a higher federal deficit. The US and Iran reignited strikes against each other and prolonged the period of halted energy supply from GCC countries. The resulting jump in oil and product prices added inflationary risks as multiple FOMC members flagging the possibility of a rate hike by the Federal Reserve this month, including Chairman Warsh and regional Fed presidents. Meanwhile, estimates that AI companies raised $1.5 trillion in debt this year limited primary dealers' allocation for government securities, also lifting yields. Lastly, Treasuries came under pressure on reports that Japan could intervene on the yen to cap its fresh rebound. The jump in yields was extended despite Treasury Secretary Bessent announcing an increase in the buyback of long-term securities."
-    },
-    {
-      "id": "5073842",
-      "time": "2026-09-03 01:13:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：今天我們憑藉重要的能源交易創造歷史。"
-    },
-    {
-      "id": "5073841",
-      "time": "2026-09-03 01:11:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：委內瑞拉是我們的周邊區域，使命是為該國帶來和平、自由與繁榮。"
-    },
-    {
-      "id": "5073840",
-      "time": "2026-09-03 01:09:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：委內瑞拉能源交易規模達數百億美元。"
-    },
-    {
-      "id": "5073839",
-      "time": "2026-09-03 01:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：與委內瑞拉簽署的協議對委內瑞拉人民的和平與繁榮至關重要。"
-    },
-    {
-      "id": "5073838",
-      "time": "2026-09-03 01:08:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：今天是“委內瑞拉轉型”程序中具有歷史意義的一天。"
-    },
-    {
-      "id": "5073837",
-      "time": "2026-09-03 01:02:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國弗吉尼亞州一所小學發生槍擊事件，1人受傷，學生已疏散。"
-    },
-    {
-      "id": "5073836",
-      "time": "2026-09-03 01:01:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Aspect Energy董事長：將依據與委內瑞拉達成的協議，在未來數年開發多個油氣田。"
-    },
-    {
-      "id": "5073835",
-      "time": "2026-09-03 01:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部強烈譴責美軍襲擊伊朗民用基礎設施】當地時間9月2日，伊朗外交部發表宣告，強烈譴責美國對伊朗發動軍事行動，稱美方襲擊了該國胡齊斯坦、錫斯坦-俾路支斯坦、霍爾木茲甘和克爾曼等省的多個非軍事區域及碼頭、通訊設施等民用基礎設施，造成人員傷亡和財產損失。（央視新聞）"
-    },
-    {
-      "id": "5073834",
-      "time": "2026-09-03 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.08%，滬銅收漲0.26%，滬鋁收漲0.73%，滬鋅收跌0.47%，滬鉛收跌0.53%，滬鎳收漲1.47%，滬錫收跌0.70%。氧化鋁夜盤收跌0.73%，鋁合金收漲0.81%。不鏽鋼夜盤收漲0.44%。"
-    },
-    {
-      "id": "5073833",
-      "time": "2026-09-03 00:59:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長發言人：秘書長對美國襲擊伊朗造成人員傷亡的相關報道表示關切。"
-    },
-    {
-      "id": "5073832",
-      "time": "2026-09-03 00:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們將推翻伊朗政權，該政權必將垮臺。我們所有體系都在為推翻這一政權而運轉。"
-    },
-    {
-      "id": "5073831",
-      "time": "2026-09-03 00:58:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯莫斯科市長：週三又有三架飛向莫斯科的無人機被擊落。"
-    },
-    {
-      "id": "5073830",
-      "time": "2026-09-03 00:56:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "GE Vernova首席可持續發展官羅傑·馬泰拉表示，委內瑞拉相關協議專案將需要1000名工人。"
-    },
-    {
-      "id": "5073829",
-      "time": "2026-09-03 00:55:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴里克黃金正考慮將北美黃金業務的首次公開募股推遲至2027年。"
-    },
-    {
-      "id": "5073828",
-      "time": "2026-09-03 00:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列能源部長科恩表示，以色列供水正在恢復正常。"
-    },
-    {
-      "id": "5073827",
-      "time": "2026-09-03 00:54:12",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【市場監管總局：深化“幽靈外賣”專項整治工作】記者2日從國家市場監督管理總局瞭解到，近日召開的全國市場監管執法稽查工作暨查處“幽靈外賣”違法行為座談會明確，將繼續深化“幽靈外賣”專項整治，協同推進掃黑除惡、打擊電詐等專項工作。（央視新聞）"
-    },
-    {
-      "id": "5073826",
-      "time": "2026-09-03 00:53:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "OpenAI創始人奧特曼、美國商務部長盧特尼克出席二十國集團創新部長級會議並發表講話。"
-    },
-    {
-      "id": "5073825",
-      "time": "2026-09-03 00:52:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI創始人奧特曼：人工智慧將是全球商業史上規模最大的繁榮。"
-    },
-    {
-      "id": "5073824",
-      "time": "2026-09-03 00:50:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局(FAA)暫緩空管人員加薪，同步推進排班制度改革談判。"
-    },
-    {
-      "id": "5073823",
-      "time": "2026-09-03 00:50:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團執行長表示，將於明日開鑽委內瑞拉石油協議的第一口油井。"
-    },
-    {
-      "id": "5073822",
-      "time": "2026-09-03 00:49:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃尼集團執行長表示，美國的支援對（集團在）委內瑞拉取得進展起到 “至關重要” 的作用。"
-    },
-    {
-      "id": "5073821",
-      "time": "2026-09-03 00:49:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團執行長表示，新協議為委內瑞拉開啟“全新未來”。"
-    },
-    {
-      "id": "5073820",
-      "time": "2026-09-03 00:48:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼執行長克勞迪奧·德斯卡爾齊表示，委內瑞拉石油協議是進一步開發的第一步。"
-    },
-    {
-      "id": "5073819",
-      "time": "2026-09-03 00:46:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國鑄幣局正式推出印有特朗普頭像的1美元硬幣】當地時間9月2日，美國鑄幣局正式推出印有特朗普頭像的1美元硬幣。 (央視財經)"
-    },
-    {
-      "id": "5073818",
-      "time": "2026-09-03 00:43:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉政府與Aspect控股集團簽署石油專案協議。"
-    },
-    {
-      "id": "5073817",
-      "time": "2026-09-03 00:42:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉電力公司Corpoelec、通用電氣旗下GE Vernova與委國有石油公司PDVSA簽署電力專案合作協議。"
-    },
-    {
-      "id": "5073816",
-      "time": "2026-09-03 00:41:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "富時羅素：Entain和Persimmon將調出富時100指數，調入富時250指數。"
-    },
-    {
-      "id": "5073815",
-      "time": "2026-09-03 00:40:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "富時羅素：易捷航空和伊薩卡能源將在2026年9月季度稽核後納入富時100指數。"
-    },
-    {
-      "id": "5073814",
-      "time": "2026-09-03 00:39:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉政府與普里馬韋拉簽署石油專案協議。"
-    },
-    {
-      "id": "te:markets:580570",
-      "time": "2026-09-03 00:38:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Drops as ECB Hike Bets Rise — The CAC 40 fell 0.3% to 8,281 on Wednesday, its lowest level in more than a month. As eurozone inflation rose to 3.3% and energy costs surged, markets increasingly priced in another rate hike later this month. In France, the state budget deficit widened to EUR 145.9 billion in January–July 2026 from EUR 142 billion a year earlier. Revenues rose 3.3% year-on-year to EUR 204.72 billion, while expenditures increased 4.8% to EUR 328.1 billion. Meanwhile, oil prices remained elevated as conflicts in the Middle East persisted. Luxury stocks closed mixed, with LVMH down 1.3% and Hermes losing 0.7%, while L’Oreal added 1.5% and Kering gained 1%. Industrial stocks mostly fell, with Schneider Electric down 0.5%, Safran losing 0.9% and Thales declining 0.6%. Financials were also mostly lower, with AXA down 0.9%. In contrast, TotalEnergies rose 0.9% on higher energy prices. STMicroelectronics rose 3.3%, with President and CFO Lorenzo Grandi set to address investors at Citi’s Global TMT Conference."
-    },
-    {
-      "id": "5073813",
-      "time": "2026-09-03 00:36:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國足額繳納今年聯合國會費。（CCTV國際時訊）"
-    },
-    {
-      "id": "5073812",
-      "time": "2026-09-03 00:36:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉政府與義大利埃尼石油公司簽署石油擴建專案協議。"
-    },
-    {
-      "id": "5073811",
-      "time": "2026-09-03 00:36:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗衛生部長表示，美國空襲已造成18人死亡，108人受傷。"
-    },
-    {
-      "id": "mkt:01a062f8-4ac0-7118-8469-4daac33326db",
-      "time": "2026-09-03 00:33:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Coder launches Coder Agent Relay; SpaceXAI named inaugural partner."
-    },
-    {
-      "id": "5073810",
-      "time": "2026-09-03 00:33:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍與委內瑞拉政府簽署石油協議。"
-    },
-    {
-      "id": "mkt:01a062f8-17b7-7118-8469-42a807f58edf",
-      "time": "2026-09-03 00:33:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary wright and Venezuelan interim president RODRIGUEZ jointly witnessed the signing of an oil agreement between the U.S. and Venezuela."
-    },
-    {
-      "id": "5073809",
-      "time": "2026-09-03 00:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行業保險業做好西藏吉隆泥石流災害金融服務工作】記者9月2日從國家金融監督管理總局獲悉，針對西藏吉隆泥石流災害，目前保險業初步估損金額4.5億元，正抓緊推進理賠等服務工作；銀行機構加大現鈔調配投放力度，提供應急保障現金超2億元，保障災區現金支取、外幣兌換等金融需求。（新華社）"
-    },
-    {
-      "id": "mkt:01a062f6-e2d0-7118-8469-3c9a13619e11",
-      "time": "2026-09-03 00:32:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Al Jazeera cited Iran's Islamic Revolutionary Guard Corps deputy commander as saying the forces would 'respond resolutely to any enemy action'."
-    },
-    {
-      "id": "5073808",
-      "time": "2026-09-03 00:32:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Snowflake盤後財報公佈前，股價下跌4.1%。"
-    },
-    {
-      "id": "mkt:01a062f4-5156-7118-8469-34cd4c85b01a",
-      "time": "2026-09-03 00:29:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Iran's first vice president Arif said leveraging emerging technologies has continuously strengthened national defense capabilities during the Ramadan war. He said AI development is a national strategic priority and one of the state's top priorities."
-    },
-    {
-      "id": "mkt:01a062f3-c657-7118-8469-2e23c6500bee",
-      "time": "2026-09-03 00:28:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Refinitiv: an exchange-rate tracking site shows the Iranian rial hit a record low, trading above 2.2 mln rials per USD."
-    },
-    {
-      "id": "5073807",
-      "time": "2026-09-03 00:28:32",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "追蹤網站資料顯示：伊朗貨幣兌美元跌至歷史新低，超220萬里亞爾兌1美元。"
-    },
-    {
-      "id": "te:markets:580568",
-      "time": "2026-09-03 00:28:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Fluctuates — US gasoline futures traded near $3.13 a gallon, after a five-session winning streak, after Tuesday’s meeting between President Trump, Energy Secretary Wright, and US refiners. Talks focused on fuel-blending quotas, with refiners arguing that it was contributing to higher fuel prices as corn and soybeans surged to nearly three-year highs. President Trump also urged refiners to build more refineries. Meanwhile, oil flows through the Strait of Hormuz have also continued despite escalating tensions. Still, EIA data showed US gasoline inventories fell 1.173 million barrels in the week ending August 28th, reflecting continued draw backs in recent weeks while US refiners are operating at 98%, its highest level since August 2018, with several facilities delaying maintenance to keep production elevated. Heavy driving over the Labor Day weekend is also providing support. At the same time, Ukrainian strikes on Russian refining infrastructure pushed refinery runs to multi-year lows."
-    },
-    {
-      "id": "te:economy:580567",
-      "time": "2026-09-03 00:27:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Unemployment Rate Edges Higher — Russia’s unemployment rate edged up to 2.3% in July 2026 from 2.2% in June, reaching its highest level since April 2025. The labor force aged 15 and over totaled 76.4 million people, including 74.7 million employed and 1.7 million unemployed. Registered unemployment remained low at around 0.3 million people, or 0.4% of the labor force. On a yearly basis, the unemployment rate rose to 2.3% from 2.2% in July 2025. The number of unemployed increased by 4.8%, while employment fell by 0.5%. Despite the slight rise in unemployment, labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors amid military mobilization following Russia’s invasion of Ukraine in February 2022 and sustained emigration. Authorities expect labor constraints to persist, projecting a shortfall of around 3.1 million workers by 2030."
-    },
-    {
-      "id": "mkt:01a062ef-7b3d-7118-8469-2447d1e04c5c",
-      "time": "2026-09-03 00:24:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russian strike injures 13 in Kyiv; attacks on capital continue nearly a week】Ukraine's State Emergency Service said a Russian strike injured 13 people, and that attacks on the capital have continued for nearly a week, with multiple districts in Kyiv struck again today."
-    },
-    {
-      "id": "5073806",
-      "time": "2026-09-03 00:23:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：各企業董事會清楚全球環境充滿不確定性。"
-    },
-    {
-      "id": "mkt:01a062ed-9afa-7118-8469-1e50eb2789d1",
-      "time": "2026-09-03 00:22:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Bahrain condemned Iran's 'heinous' attack on a Saudi oil tanker in the Strait of Hormuz, the Bahrain News Agency said."
-    },
-    {
-      "id": "5073805",
-      "time": "2026-09-03 00:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Delivery Hero股價漲至當日高點，漲幅1.2%。"
-    },
-    {
-      "id": "5073804",
-      "time": "2026-09-03 00:21:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：科技與人工智慧領域併購交易勢頭強勁。"
-    },
-    {
-      "id": "5073803",
-      "time": "2026-09-03 00:19:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "Delivery Hero：該收購交易有望加快創新程序。"
-    },
-    {
-      "id": "mkt:01a062ea-abbf-7118-8469-149fea450c8d",
-      "time": "2026-09-03 00:19:01",
-      "tags": [
-        "MKT News",
-        "UBER.N",
-        "Impact mixed",
-        "DHER.DE",
-        "Impact bullish"
-      ],
-      "text": "Sources: Delivery Hero board recommends shareholders accept Uber (UBER.N) acquisition offer."
-    },
-    {
-      "id": "5073802",
-      "time": "2026-09-03 00:18:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Delivery Hero董事會建議股東接受優步的收購要約。"
-    },
-    {
-      "id": "5073801",
-      "time": "2026-09-03 00:17:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步與Delivery Hero交易預計2027年下半年完成交割，Delivery Hero董事會稱優步的收購報價公允、充分。"
-    },
-    {
-      "id": "5073800",
-      "time": "2026-09-03 00:17:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：併購交易規模有望突破2021年曆史高位。"
-    },
-    {
-      "id": "5073799",
-      "time": "2026-09-03 00:16:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：企業董事會正圍繞增長議題展開討論。"
-    },
-    {
-      "id": "te:markets:580566",
-      "time": "2026-09-03 00:15:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Lower — European stock indices closed with little movement on Wednesday, remaining at a one-month low amid persistent pressure from soaring borrowing costs. The Euro STOXX 50 fell 0.1% to 6,363 and the STOXX Europe 600 dropped 0.2% to 646. Renewed fighting in the Middle East continued to put upward pressure on oil prices, stoking inflation concerns and raising expectations of tighter monetary policy. The bond sell-off also intensified, with linger maturity European government bond yields climbing to multi-decade highs in many economies. Utilities booked sharp losses as European natural gas prices rose further, with Enel and Iberdrola dropping 2.6% and 1.2%, respectively. Consumer discretionary was also under pressure with Inditex and LVMH down 2% and 2.5%. Meanwhile, Volkswagen sank almost 4% as it will leave the STOXX 50 index, to be replaced by Nokia, which has recently surged amid the global rally for AI infrastructure this year."
-    },
-    {
-      "id": "5073798",
-      "time": "2026-09-03 00:15:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：併購與IPO業務儲備專案持續增加。"
-    },
-    {
-      "id": "mkt:01a062e6-a5e8-7118-8469-0c6f2f5a0bb5",
-      "time": "2026-09-03 00:14:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian foreign ministry summons German chargé over anti-Russia measures】Russia's foreign ministry said on the 2nd it summoned Germany's chargé d'affaires in Moscow over the German government's anti-Russia actions and statements on the 1st, and denied German allegations of Russian involvement in the Leipzig airport incident. The ministry said Berlin used the allegation as a pretext to close Russia's consulate in Bonn and the Russian House in Berlin and warned it would respond forcefully. President Putin on the 1st said Germany had no evidence linking Russia to the incident and that the accusations were tied to German domestic politics."
-    },
-    {
-      "id": "mkt:01a062e6-0dc6-7118-8469-0017732702e2",
-      "time": "2026-09-03 00:13:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese news agency reported the UAE foreign ministry condemned Iran's attacks on Bahrain, Kuwait, Jordan and Iraqi Kurdistan, calling them serious violations of sovereignty."
-    },
-    {
-      "id": "te:markets:580565",
-      "time": "2026-09-03 00:13:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Inches Lower — The FTSE MIB edged down 0.2% to 51,792 on Wednesday, as traders assessed corporate developments against escalating tensions in the Middle East as the US carried out further strikes on Iran. Utilities remain under selling pressure as European gas prices continue to climb and European countries grapple with low natural gas stockpiles ahead of winter. Heavyweight financials were mixed while focus remains in merger talks. Intesa Sanpaolo (-0.2%) stated it does not expect its takeover bid of MPS (-0.2%) to be hampered by defence bids, in an answer to Consob. Meanwhile, a council meeting in Siena added pressure on the shares from the Ministry of Economy and Finance to defende MPS's integrity, and adding that its headquarters must remain in the region. Commerzbank's CEO has confirmed direct talks were underway with UniCredit (0.5%). On the upside, tech stocks outperformed, with STMicroelectronics adding (3.3%) after Citigroup confirmed its buy recommendation of the stock. Prysmian added 1.7%."
-    },
-    {
-      "id": "te:markets:580564",
-      "time": "2026-09-03 00:12:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.24% Lower — The FTSE MIB Index fell 123 points or 0.24 percent on Wednesday to close at 51792 points. Leading the losses are Lottomatica (-10.42%), Italgas (-3.46%) and Stellantis N.V. (-2.64%). Top gainers were STMicroelectronics (3.33%), Amplifon (2.55%) and Prysmian (2.24%)."
-    },
-    {
-      "id": "te:markets:580563",
-      "time": "2026-09-03 00:11:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.50% Lower — The DAX Index dropped 131 points or 0.50 percent on Wednesday to close at 25839 points. Losses were led by Zalando (-5.21%), Volkswagen (-3.83%) and Porsche Automobil (-3.39%). Offsetting the fall, top gainers were Qiagen NV (2.31%), Commerzbank (1.70%) and Rheinmetall (1.20%)."
-    },
-    {
-      "id": "te:markets:580562",
-      "time": "2026-09-03 00:10:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.26% Lower — The CAC 40 Index decreased 21 points or 0.26 percent on Wednesday to close at 8281 points. The decline was led by Renault (-3.96%), Stellantis NV (-2.57%) and Vinci (-2.19%). On the upside, the strongest performers were STMicroelectronics (3.67%), Eurofins Scientific SE (1.79%) and L'Oréal (1.62%)."
-    },
-    {
-      "id": "5073797",
-      "time": "2026-09-03 00:09:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋強烈譴責伊朗對巴林、科威特、約旦及伊拉克庫爾德地區的襲擊。"
-    },
-    {
-      "id": "5073796",
-      "time": "2026-09-03 00:08:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所1月期鉛參考收盤價為每噸1864美元。"
-    },
-    {
-      "id": "mkt:01a062e0-55d6-7118-8468-fba9a7f9debe",
-      "time": "2026-09-03 00:07:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Traders said Russian ESPO blend for November delivery rose to a premium of $7–10/bbl over ICE Brent."
-    },
-    {
-      "id": "te:markets:580561",
-      "time": "2026-09-03 00:07:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.28% Lower — The FTSE 100 Index fell 30 points or 0.28 percent on Wednesday to close at 10759 points. Leading the losses are JD Sports Fashion (-3.86%), Kingfisher (-3.04%) and Experian (-2.86%). Top gainers were Endeavour (2.54%), Intercontinental Hotels (1.86%) and Standard Chartered (1.84%)."
-    },
-    {
-      "id": "5073795",
-      "time": "2026-09-03 00:06:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，受買家積極採購推動，11月裝船的俄羅斯ESPO混合原油較ICE布倫特原油的升水飆升至每桶7-10美元。"
-    },
-    {
-      "id": "mkt:01a062dd-11db-7118-8468-f07723bf6f2c",
-      "time": "2026-09-03 00:04:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat: Russian corporate profits fell 13.3% YoY in January–June to 11.7 tln rubles."
-    },
-    {
-      "id": "5073794",
-      "time": "2026-09-03 00:03:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯統計局表示，今年1-6月俄羅斯企業利潤同比下降13.3%，至11.7萬億盧布。"
-    },
-    {
-      "id": "mkt:01a062db-3976-7118-8468-ed4969d1422a",
-      "time": "2026-09-03 00:02:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat said Russia's retail sales rose 5.3% YoY in July."
-    },
-    {
-      "id": "5073793",
-      "time": "2026-09-03 00:01:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國家統計局公佈：7月失業率為2.3%。"
-    },
-    {
-      "id": "5073792",
-      "time": "2026-09-03 00:01:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國家統計局資料顯示，7月俄羅斯零售額同比增長5.3%。"
-    },
-    {
-      "id": "mkt:01a062da-db1b-7118-8468-e3d0e8d2bbca",
-      "time": "2026-09-03 00:01:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat said Russia's unemployment rate was 2.3% in July."
-    },
-    {
-      "id": "5073791",
-      "time": "2026-09-03 00:01:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國家統計局公佈資料顯示，6月俄羅斯實際工資同比增長3.4%。"
-    },
-    {
-      "id": "mkt:01a062da-be2b-7118-8468-df88896d1b7a",
-      "time": "2026-09-03 00:01:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's economy ministry said July GDP rose 0.6% YoY; June was revised up to +1.7% YoY from a preliminary +1.1%."
-    },
-    {
-      "id": "5073790",
-      "time": "2026-09-03 00:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯經濟部：俄羅斯7月國內生產總值同比增長0.6%，前一個月經修正後同比增長1.7%（6月最初預估為同比增長1.1%）。"
-    },
-    {
-      "id": "5073789",
-      "time": "2026-09-03 00:01:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯經濟部：1-7月俄羅斯國內生產總值同比增長0.6%。"
-    },
-    {
-      "id": "te:markets:580556",
-      "time": "2026-09-03 00:01:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Sterling Slides to Two-Week Low on Risk Aversion — The British pound fell to $1.35, hovering near a two-week low, as investors moved away from riskier assets amid concerns over the economic impact of the energy shock triggered by renewed hostilities in the Middle East. Meanwhile, investors digested Prime Minister Andy Burnham’s speech to the House of Commons, in which he reaffirmed the government’s commitment to fiscal responsibility and reducing debt, while saying the early budget date was intended to curb speculation. Chancellor John Healey is expected to deliver his first major speech in the role as soon as next week. Markets continue to price in a 25-basis-point BoE rate hike by year-end, with expectations reinforced by accelerating UK shop-price inflation. In the US, markets are pricing in a 66% probability of a September Fed hike following hawkish remarks from Fed Chair Kevin Warsh and higher oil prices."
-    },
-    {
-      "id": "mkt:01a062da-56ab-7118-8468-d73eff39b452",
-      "time": "2026-09-03 00:01:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat said Russian retail sales rose 5.4% YoY in January–July."
-    },
-    {
-      "id": "5073788",
-      "time": "2026-09-03 00:01:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：截至8月31日當週，俄羅斯周度消費者通縮率為0.01%（此前一週通脹率為0.01%）。"
-    },
-    {
-      "id": "5073787",
-      "time": "2026-09-03 00:00:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：7月失業率為2.3%，前一個月經初步統計為2.2%。"
-    },
-    {
-      "id": "5073786",
-      "time": "2026-09-03 00:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：7月俄羅斯零售額同比增長5.3%，前值為同比增長7.3%。"
-    },
-    {
-      "id": "5073785",
-      "time": "2026-09-03 00:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：1-7月俄羅斯零售額同比增長5.4%。"
-    },
-    {
-      "id": "mkt:01a062d9-e36e-7118-8468-cfc47d21ea56",
-      "time": "2026-09-03 00:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat: For the week ended Aug 31, consumer prices fell 0.01% week-on-week (prior week +0.01%)."
-    },
-    {
-      "id": "te:economy:580555",
-      "time": "2026-09-03 00:00:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Canada 10Y Bond Yield traded above 3.8 percent — Canada 10Y Bond Yield rose above 3.8, according to over-the-counter interbank yield quotes for this government bond maturity."
-    },
-    {
-      "id": "5073784",
-      "time": "2026-09-03 00:00:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯統計局：上半年俄羅斯實際工資同比上漲6.5%。"
-    },
-    {
-      "id": "5073783",
-      "time": "2026-09-03 00:00:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯統計局：6月俄羅斯實際工資同比上漲3.4%，前值為同比上漲4.5%。"
-    },
-    {
-      "id": "5073782",
-      "time": "2026-09-03 00:00:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：俄羅斯第二季度資本投資同比下降6.6%，第一季度為同比下降14.3%。"
-    },
-    {
-      "id": "5073781",
-      "time": "2026-09-02 23:59:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【白宮官員：特朗普今日將會見美國航空等企業高管】據一名白宮官員透露，美國總統特朗普今天將與多家旅遊業公司高管會面，包括美國航空、希爾頓、萬豪、美高梅國際酒店、凱撒控股以及洲際酒店。這名官員表示，特朗普還將會見Hard Rock、Booking Holdings、嘉年華、Raffles & Fairmont以及Venetian的高管。該官員稱，特朗普將與這些企業討論旅遊業增長以及夏季旅遊季。"
-    },
-    {
-      "id": "5073780",
-      "time": "2026-09-02 23:59:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【盧特尼克：Anthropic已重新站到特朗普政府認可立場】美國商務部長盧特尼克表示，在經歷數月對峙之後，特朗普政府如今重新信任人工智慧企業Anthropic。當被問及是否信任Anthropic執行長達里奧·阿莫代伊時，盧特尼克表示：“我們信任Anthropic。他們按我們的要求完成了相關工作，現已重新站到正確立場。所以答案是：是的。”"
-    },
-    {
-      "id": "te:markets:580554",
-      "time": "2026-09-02 23:58:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Euro Holds Near Two-Week Low on Risk Aversion — The euro remained little changed just below $1.16, hovering near a two-week low, as investors moved away from riskier assets amid concerns over the economic impact of the energy shock from renewed hostilities in the Middle East. Brent crude climbed to fresh six-week highs as traders weighed persistent risks to supply against signs that oil was still reaching global markets. Meanwhile, Eurozone inflation data released earlier this week showed price growth at its highest level in nearly three years, reinforcing expectations for further ECB tightening. Money markets are now pricing in almost a 100% probability of a rate hike next week, with another increase by year-end also seen as likely. ECB policymakers Olli Rehn and Martin Kocher warned that a prolonged conflict and rising inflation risks could warrant further tightening. In the US, markets are pricing in a 66% probability of a September rate hike following hawkish remarks from Fed Chair Kevin Warsh and a renewed rise in oil prices."
-    },
-    {
-      "id": "te:markets:580553",
-      "time": "2026-09-02 23:58:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Pare Losses — US stocks recovered on Wednesday, trimming losses from the week amid a rebound for heavyweight tech stocks. The S&P 500 and the Dow rose 0.5% each, while the Nasdaq 100 remained slightly below the flatline. Technology companies and banks led the gains after the rise in bond yields in recent sessions had hampered the outlook on credit-sensitive industries. Meta jumped 2.5% and Wells Fargo surged 3%. Meanwhile, Nvidia jumped by nearly 5% on reports it is approaching the acquisition of Hugging Face for $14 billion. On top of that, Dell soared up to 10% in the session after beating its earnings and raising its revenue guidance. On the other hand, Palo Alto Networks sank 7% despite beating earnings estimates. Broadcom reports after the bell. Still, fresh strikes between Iran and the US maintained expectations of low energy supply from the Middle East in the near term, supporting yields across the curve."
-    },
-    {
-      "id": "te:economy:580552",
-      "time": "2026-09-02 23:57:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Hits Two-Year High — Canada’s 10-year government bond yield rose to 3.8% in September, an over two-year high, after the BoC highlighted upside risks to inflation. The BoC kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased while new tariffs had made the growth outlook more uncertain. It left the future path for monetary policy open, saying it would adjust policy as needed. Oil prices remained elevated amid supply disruptions stemming from the escalating Middle East conflict, adding to inflationary pressures and hawkish expectations for central banks. Meanwhile, markets are pricing in a nearly 66% chance of a 25-bps Fed rate hike later this month, up sharply from around 40% last week."
-    },
-    {
-      "id": "mkt:01a062d7-5822-7118-8468-c6e84d7fbd30",
-      "time": "2026-09-02 23:57:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's state oil company said Norway, at its request, detained a Russian vessel."
-    },
-    {
-      "id": "5073779",
-      "time": "2026-09-02 23:57:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所1月期銅參考收盤價為每噸14325美元。"
-    },
-    {
-      "id": "5073778",
-      "time": "2026-09-02 23:57:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭國家石油天然氣公司（Naftogaz）稱，挪威應該公司請求扣押一艘俄羅斯船隻。"
-    },
-    {
-      "id": "mkt:01a062d6-eeff-7118-8468-bdcac0933a23",
-      "time": "2026-09-02 23:57:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reported US Commerce Secretary Lutnick said ANTHROPIC is \"back on the right side\" and is cooperating with the Trump administration."
-    },
-    {
-      "id": "5073777",
-      "time": "2026-09-02 23:56:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "受行業整合浪潮推動，ONEOK以逾44億美元收購Brazos Midstream位於二疊紀盆地的天然氣設施。"
-    },
-    {
-      "id": "te:markets:580550",
-      "time": "2026-09-02 23:54:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Extends Losses as Oil Prices Rise — London’s FTSE 100 extended the previous session’s losses, falling 0.3% to 10,760 on Wednesday and reaching its lowest level in two weeks. The decline came even as gilt losses eased following Prime Minister Andy Burnham’s efforts to reassure markets that the government remains committed to fiscal discipline. Yields, however, remain elevated, as oil prices continued to climb amid escalating conflict in the Middle East. Experian, Reckitt Benckiser and London Stock Exchange Group were among the biggest drags, falling 2.9% to 2.4%. In contrast, miners Endeavour, Fresnillo, Antofagasta and Anglo American surged on higher metal prices, while InterContinental Hotels and Standard Chartered gained almost 2% each. In corporate news, BP appointed Ian Tyler as chair following the surprise departure of Albert Manifold earlier this year. Meanwhile, Ryanair cut its full-year 2027 traffic outlook and warned that European short-haul fares could rise “materially” if elevated oil prices persist."
-    },
-    {
-      "id": "mkt:01a062d2-7ecc-7118-8468-b7c3cf889f4f",
-      "time": "2026-09-02 23:52:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Energy Secretary Wright arrived at Venezuela's Miraflores presidential palace."
-    },
-    {
-      "id": "5073776",
-      "time": "2026-09-02 23:52:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特抵達米拉弗洛雷斯宮（委內瑞拉總統府）。"
-    },
-    {
-      "id": "5073775",
-      "time": "2026-09-02 23:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥金融情報局（UIF）局長：2026年已凍結超17000個賬戶，已加強與銀行的合作，打擊洗錢活動。"
     }
   ]
 }
