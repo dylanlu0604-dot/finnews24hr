@@ -1,7 +1,150 @@
 {
-  "updated": "2026-09-09 09:20:19",
-  "count": 13733,
+  "updated": "2026-09-09 09:24:16",
+  "count": 13731,
   "items": [
+    {
+      "id": "5083950",
+      "time": "2026-09-09 09:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "勒布朗：正在與美國貿易代表格里爾聯絡。"
+    },
+    {
+      "id": "5083949",
+      "time": "2026-09-09 09:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗：加拿大正在評估美國最新的關稅措施。"
+    },
+    {
+      "id": "mkt:01a083c2-8c07-7118-84f8-0b0ac129a04a",
+      "time": "2026-09-09 09:22:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【Skyworth Digital signs three-year smart-home partnership with Google Asia Pacific】Shenzhen Skyworth Digital signed a smart-home cooperation agreement with Google Asia Pacific Pte. Ltd. Under a three-year strategic partnership the company will act as an authorized smart-home partner and smart-home service distributor, collaborating on products and services built on the Google Home platform and Gemini AI large-model capabilities. The agreement brings Skyworth into Google’s smart-home cooperation network and is intended to support the company’s global AI/ecosystem rollout and expansion into European markets."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609093868919241",
+      "time": "2026-09-09 09:22:23",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "5083948",
+      "time": "2026-09-09 09:21:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a083c1-86fd-7118-84f8-04ff26fcd7d3",
+      "time": "2026-09-09 09:21:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09626.HK",
+        "Impact bullish",
+        "00992.HK",
+        "03231.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng +0.04%, Hang Seng Tech +0.10%. Bilibili (09626.HK) +2.7%, Lenovo Group (00992.HK) +1.88%. Youdi Robotics (03231.HK) jumped more than 142% at its IPO open."
+    },
+    {
+      "id": "5083947",
+      "time": "2026-09-09 09:21:29",
+      "tags": [],
+      "text": "港股恒指高開漲0.04％，國企指數跌0.03％，恒生科技指數漲0.1%。"
+    },
+    {
+      "id": "mkt:01a083c1-5371-7118-84f7-fe2ac4d4bcd4",
+      "time": "2026-09-09 09:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC said the 7-day reverse repo operation on Sept 9, 2026 amounted to zero, citing demand from primary dealers in open market operations."
+    },
+    {
+      "id": "5083946",
+      "time": "2026-09-09 09:21:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股優地機器人上市首日開盤大漲超142%】港股優地機器人上市首日開盤漲142.21%，現報35.00元，該股發行價為14.45元。"
+    },
+    {
+      "id": "mkt:01a083c1-43cf-7118-84f7-f2da3a38191d",
+      "time": "2026-09-09 09:21:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan plans to issue 3 tln yen in short-term government bonds."
+    },
+    {
+      "id": "5083945",
+      "time": "2026-09-09 09:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿達尼（Adani）旗下能源部門與 MSEDCL 簽署了為期 25 年的購電協議，將向MSEDCL供應 2500 兆瓦實時競價電力。"
+    },
+    {
+      "id": "mkt:01a083c0-f28e-7118-84f7-ed4e8220cdbb",
+      "time": "2026-09-09 09:20:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's Ministry of Finance will auction ¥2.5 trillion of short-term Treasury bills on Sept. 16."
+    },
+    {
+      "id": "mkt:01a083c0-c930-7118-84f7-e06537a02e90",
+      "time": "2026-09-09 09:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US National Weather Service said from Wednesday through Friday local time at least 24 locations in California could record record-high overnight lows."
+    },
+    {
+      "id": "5083944",
+      "time": "2026-09-09 09:20:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米汽車：澎程N90 Max探索版屬小型專用客車，私家車使用者新車上牌前需上線檢測】9月8日，針對工信部公告中顯示小米澎程N90 Max探索版屬於“插電式增程混合動力文化生活服務車”，小米汽車發文解釋稱，這是依據國標要求在工信部公告中的標準名稱，車輛型別屬於小型專用客車。對於私家車使用者而言，實際使用中的差異只有新車註冊登記前需到機動車安全技術檢驗機構進行上線檢測，檢測內容涵蓋外觀、燈光、尾氣、剎車、座椅結構、輪胎尺寸、車輛長寬引數、稱重及環保等專案。上牌所需時間視現場情況而定，費用較小型普通客車增加了上線檢測費。至於其他方面與日常使用相關的政策要求，也均與小型普通客車一致。"
+    },
+    {
+      "id": "mkt:01a083c0-2a3d-7118-84f7-df2360edd76d",
+      "time": "2026-09-09 09:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China Aug CPI y/y due in 10 minutes."
+    },
     {
       "id": "mkt:01a083bf-22ea-7118-84f7-d6c8a865b6f0",
       "time": "2026-09-09 09:18:56",
@@ -125112,169 +125255,6 @@
         "市場"
       ],
       "text": "【焦炭期權今天正式上市交易】今天（2日），焦炭期權正式在大連商品交易所上市交易。焦炭是鋼鐵冶煉、煤化工產業不可或缺的核心基礎原料。焦炭期權上市後，將與焦炭期貨、焦煤期貨及期權、鐵礦石期貨及期權形成工具協同，構建更全面覆蓋鋼鐵原燃料的風險管理工具體系，更好滿足產業鏈企業精細化、組合式的價格避險需求。"
-    },
-    {
-      "id": "5072017",
-      "time": "2026-09-02 09:24:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為新款非凡探索手錶將搭載鴻蒙7】9月2日，華為終端官宣華為WATCH Ultimate 2非凡探索的新款產品，其將搭載HarmonyOS 7，並在專項運動體驗、戶外安全工具、代謝健康監測、鴻蒙智慧互動維度實現最佳化升級。"
-    },
-    {
-      "id": "mkt:01a05fb6-98b5-7118-844c-385386234c4c",
-      "time": "2026-09-02 09:23:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【BNZ: RBNZ to hike 25bps at each meeting until cash rate reaches 4%】BNZ says a September RBNZ hike is effectively certain and that the central bank will signal further tightening until the cash rate reaches or exceeds neutral; RBNZ’s published implied peak is about 3.5%. BNZ’s baseline is 25bps hikes at every meeting, taking the cash rate to 4.0% by May 2027. Downside risks include a sharper slowdown from a potential El Niño-driven recession, election-related delayed rebound and a broader global asset-price correction; upside risk is structurally persistent inflation that may ignore policy moves. BNZ cites RBNZ’s July wording that policy “may still need to further reduce monetary stimulus” and expects inflation to remain above target through mid-2027, forecasting Sep-quarter YoY CPI at 3.7% versus RBNZ’s 3.3%."
-    },
-    {
-      "id": "5072016",
-      "time": "2026-09-02 09:22:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓首席商務官拉格·烏德將於2027年1月卸任。"
-    },
-    {
-      "id": "mkt:01a05fb6-272a-7118-844c-3442feb620e3",
-      "time": "2026-09-02 09:22:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China-Egypt trade up 18.7% in Jan–Jul, Customs says】China's trade with Egypt reached 95.19 bln yuan in the first seven months, up 18.7% YoY, China's customs authority said. Imports of Egyptian agricultural products rose 82.6% YoY and made up 41.7% of China's imports from Egypt; Egypt is now China's largest source of frozen strawberries and the third-largest source of flax. China's exports of electromechanical goods to Egypt were 51.53 bln yuan, up 23.9% YoY and accounting for 56.9% of its exports to Egypt."
-    },
-    {
-      "id": "5072015",
-      "time": "2026-09-02 09:22:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海關總署：前7個月我國對埃及進出口同比增長18.7%】海關總署今天（2日）釋出的最新統計資料顯示，今年前7個月，我國對埃及進出口951.9億元，同比增長18.7%。其中，我國進口埃及農產品同比增長82.6%，佔同期我國自埃及進口總值的41.7%，埃及已是我國冷凍草莓進口第一大來源地、亞麻進口第三大來源地。前7個月，我國對埃及出口機電產品515.3億元，同比增長23.9%，佔同期我國對埃及出口總值的56.9%。中埃兩國資源互補，依託共建“一帶一路”合作，實現雙向互利共贏。"
-    },
-    {
-      "id": "mkt:01a05fb5-c2c5-7118-844c-2ee3dec47439",
-      "time": "2026-09-02 09:22:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan's 2-year bond yield rose 3.0 bps to 1.830%, the highest level since April 1995."
-    },
-    {
-      "id": "5072014",
-      "time": "2026-09-02 09:22:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本兩年期國債收益率上漲3個基點，報1.830%，創1995年4月以來新高。"
-    },
-    {
-      "id": "mkt:01a05fb5-907f-7118-844c-213641759098",
-      "time": "2026-09-02 09:22:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wenzhou raises flood-control emergency response to Level I】Per Wenzhou’s Flood, Typhoon and Drought Emergency Plan, the city’s flood-control headquarters decided after assessment to raise the flood-control emergency response to Level I effective 09:00 on Sept. 2."
-    },
-    {
-      "id": "mkt:01a05fb5-588e-7118-844c-1c9281522238",
-      "time": "2026-09-02 09:21:55",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong equities opened lower on Sep 2: HSI down 48.91 pts (-0.19%) at 25,280.82; Hang Seng Tech Index down 18.66 pts (-0.41%) at 4,532.22; Hang Seng China Enterprises Index (HSCEI) down 15.39 pts (-0.18%) at 8,447.25; Hang Seng Red Chip Index down 8.28 pts (-0.20%) at 4,129.92."
-    },
-    {
-      "id": "5072013",
-      "time": "2026-09-02 09:21:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠5,985.0億元人民幣。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202609023862357982",
-      "time": "2026-09-02 09:21:40",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年9月2日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "5072012",
-      "time": "2026-09-02 09:21:30",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.19％，國企指數跌0.18％，恒生科技指數跌0.41%。"
-    },
-    {
-      "id": "mkt:01a05fb4-ef2d-7118-844c-178eabf85bd5",
-      "time": "2026-09-02 09:21:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bearish",
-        "02259.HK"
-      ],
-      "text": "Hong Kong market opened lower: HSI down 0.19%, Hang Seng Tech down 0.41%. Biopharma stocks led gains while gold stocks plunged; Zijin Gold International (02259.HK) fell more than 4%."
-    },
-    {
-      "id": "mkt:01a05fb4-96cb-7118-844c-0deedb5cf678",
-      "time": "2026-09-02 09:21:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC said based on primary dealers' demand in open market operations, the 7-day reverse repo on Sept 2, 2026 was set at zero."
-    },
-    {
-      "id": "5072011",
-      "time": "2026-09-02 09:21:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月2日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:01a05fb4-5c37-7118-844c-031f852c2a5f",
-      "time": "2026-09-02 09:20:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said he is not, contrary to ABC's fake-news report, trying to force Iran back to the negotiating table. He said he does not care whether Iran signs a deal that would be worthless to them and that he prefers the current situation: we almost completely control the Strait of Hormuz and their economy has completely collapsed; Iran is merely reaching an inevitable end."
-    },
-    {
-      "id": "mkt:01a05fb4-0645-7118-844b-ff008e62e0ad",
-      "time": "2026-09-02 09:20:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wenzhou (Zhejiang) raises flood emergency response to Level I】Wenzhou, Zhejiang recorded area-averaged rainfall of 143.8 mm in the past 24 hours. Forecasts call for heavy to very heavy rain today and showers with localized moderate-to-heavy rain tomorrow. Under the city’s flood-control emergency plan, the Wenzhou flood-control command raised the emergency response to Level I effective 09:00 on Sep 2. Local governments and relevant departments were instructed to implement flood-control measures."
     }
   ]
 }

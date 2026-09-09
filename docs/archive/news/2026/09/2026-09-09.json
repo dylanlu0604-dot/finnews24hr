@@ -1,7 +1,150 @@
 {
   "date": "2026-09-09",
-  "count": 702,
+  "count": 717,
   "items": [
+    {
+      "id": "5083950",
+      "time": "2026-09-09 09:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "勒布朗：正在與美國貿易代表格里爾聯絡。"
+    },
+    {
+      "id": "5083949",
+      "time": "2026-09-09 09:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗：加拿大正在評估美國最新的關稅措施。"
+    },
+    {
+      "id": "mkt:01a083c2-8c07-7118-84f8-0b0ac129a04a",
+      "time": "2026-09-09 09:22:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【Skyworth Digital signs three-year smart-home partnership with Google Asia Pacific】Shenzhen Skyworth Digital signed a smart-home cooperation agreement with Google Asia Pacific Pte. Ltd. Under a three-year strategic partnership the company will act as an authorized smart-home partner and smart-home service distributor, collaborating on products and services built on the Google Home platform and Gemini AI large-model capabilities. The agreement brings Skyworth into Google’s smart-home cooperation network and is intended to support the company’s global AI/ecosystem rollout and expansion into European markets."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609093868919241",
+      "time": "2026-09-09 09:22:23",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "5083948",
+      "time": "2026-09-09 09:21:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a083c1-86fd-7118-84f8-04ff26fcd7d3",
+      "time": "2026-09-09 09:21:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09626.HK",
+        "Impact bullish",
+        "00992.HK",
+        "03231.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng +0.04%, Hang Seng Tech +0.10%. Bilibili (09626.HK) +2.7%, Lenovo Group (00992.HK) +1.88%. Youdi Robotics (03231.HK) jumped more than 142% at its IPO open."
+    },
+    {
+      "id": "5083947",
+      "time": "2026-09-09 09:21:29",
+      "tags": [],
+      "text": "港股恒指高開漲0.04％，國企指數跌0.03％，恒生科技指數漲0.1%。"
+    },
+    {
+      "id": "mkt:01a083c1-5371-7118-84f7-fe2ac4d4bcd4",
+      "time": "2026-09-09 09:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC said the 7-day reverse repo operation on Sept 9, 2026 amounted to zero, citing demand from primary dealers in open market operations."
+    },
+    {
+      "id": "5083946",
+      "time": "2026-09-09 09:21:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股優地機器人上市首日開盤大漲超142%】港股優地機器人上市首日開盤漲142.21%，現報35.00元，該股發行價為14.45元。"
+    },
+    {
+      "id": "mkt:01a083c1-43cf-7118-84f7-f2da3a38191d",
+      "time": "2026-09-09 09:21:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan plans to issue 3 tln yen in short-term government bonds."
+    },
+    {
+      "id": "5083945",
+      "time": "2026-09-09 09:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿達尼（Adani）旗下能源部門與 MSEDCL 簽署了為期 25 年的購電協議，將向MSEDCL供應 2500 兆瓦實時競價電力。"
+    },
+    {
+      "id": "mkt:01a083c0-f28e-7118-84f7-ed4e8220cdbb",
+      "time": "2026-09-09 09:20:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's Ministry of Finance will auction ¥2.5 trillion of short-term Treasury bills on Sept. 16."
+    },
+    {
+      "id": "mkt:01a083c0-c930-7118-84f7-e06537a02e90",
+      "time": "2026-09-09 09:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US National Weather Service said from Wednesday through Friday local time at least 24 locations in California could record record-high overnight lows."
+    },
+    {
+      "id": "5083944",
+      "time": "2026-09-09 09:20:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米汽車：澎程N90 Max探索版屬小型專用客車，私家車使用者新車上牌前需上線檢測】9月8日，針對工信部公告中顯示小米澎程N90 Max探索版屬於“插電式增程混合動力文化生活服務車”，小米汽車發文解釋稱，這是依據國標要求在工信部公告中的標準名稱，車輛型別屬於小型專用客車。對於私家車使用者而言，實際使用中的差異只有新車註冊登記前需到機動車安全技術檢驗機構進行上線檢測，檢測內容涵蓋外觀、燈光、尾氣、剎車、座椅結構、輪胎尺寸、車輛長寬引數、稱重及環保等專案。上牌所需時間視現場情況而定，費用較小型普通客車增加了上線檢測費。至於其他方面與日常使用相關的政策要求，也均與小型普通客車一致。"
+    },
+    {
+      "id": "mkt:01a083c0-2a3d-7118-84f7-df2360edd76d",
+      "time": "2026-09-09 09:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China Aug CPI y/y due in 10 minutes."
+    },
     {
       "id": "mkt:01a083bf-22ea-7118-84f7-d6c8a865b6f0",
       "time": "2026-09-09 09:18:56",
