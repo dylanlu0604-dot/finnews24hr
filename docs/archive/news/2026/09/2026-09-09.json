@@ -1,7 +1,150 @@
 {
   "date": "2026-09-09",
-  "count": 1185,
+  "count": 1201,
   "items": [
+    {
+      "id": "5084276",
+      "time": "2026-09-09 13:38:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣概念震盪下挫 翠微股份逼近跌停】午後數字貨幣概念震盪下挫，翠微股份逼近跌停，楚天龍、科藍軟體、天融信、東信和平、四方精創、恆寶股份等跌幅靠前。"
+    },
+    {
+      "id": "mkt:01a084ac-62f5-7118-84fe-106375b7b5a5",
+      "time": "2026-09-09 13:38:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple event preview: first foldable iPhone starts at $2,000; iPhone 18 Pro line gains upgrades】New Apple CEO John Ternus will make his public debut at the product event, his first opportunity to present strategic direction. Reported pricing: Apple plans to raise iPhone 18 Pro and 18 Pro Max prices by about $100 each, after taking measures to offset higher chip costs. Apple’s first foldable, reportedly named iPhone Duo, would start at $2,000 for a 256GB base model with higher-capacity variants up to roughly $3,000; availability as early as October and offered in white and deep blue. iPhone 18 Pro line will largely retain iPhone 17 Pro styling but adds new lenses and pro-grade imaging software, a smaller Dynamic Island, A20 Pro chipset, a redesigned vapor chamber for better thermal control, and a mechanical aperture on larger models to improve low-light and depth control. Apple Watch Series 12 and Ultra 4 will get new colorways; Series 12 will reintroduce a ceramic case and Ultra 4 will offer longer battery life. Apple plans an entry-level AirPods 5 with substantially upgraded active noise cancellation. Additional rumored launches include a Home hub for smart-home control, a faster-processor Apple TV and new HomePod mini, plus expected formal release dates for iOS 27, iPadOS 27, macOS Golden Gate, tvOS 27, watchOS 27 and visionOS 27. Items reportedly delayed or not launching at this event: standard iPhone 18 pushed to next spring; in-ear AirPods deferred to next year; MacBook Pro with M6 and a new iMac possible before year-end; OLED-touch MacBook Pro late this year or early next; OLED iPad mini expected by end-October."
+    },
+    {
+      "id": "te:economy:582274",
+      "time": "2026-09-09 13:38:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Estonia Trade Deficit Narrows Slightly in July — Estonia’s trade deficit narrowed slightly to EUR 430 million in July 2026 from EUR 444 million in July 2025. Year-on-year, exports climbed 3% to EUR 1,457 million, driven by higher shipments to non-EU countries (+13%), while exports to EU countries were unchanged. Export growth was led by optical, measuring, and precision instruments (+15%), machinery and mechanical appliances (+13%), raw materials and products of the chemical industry (+13%), and miscellaneous manufactured articles (+11%). Meanwhile, imports increased 2% to EUR 1,886 million, supported by higher purchases from EU countries (+3%) and non-EU countries (+4%). Import growth was driven by wood and articles of wood (+17%), optical, measuring, and precision instruments (+13%), base metals and articles of base metals (+12%), and raw materials and products of the chemical industry (+10%). In January-July, the country recorded a trade deficit of EUR 2,324 million, compared with EUR 2,351 million in the same period of 2025."
+    },
+    {
+      "id": "5084275",
+      "time": "2026-09-09 13:37:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體、通訊、人工智慧等多隻科技ETF午後翻綠】多隻半導體ETF、科創半導體ETF、人工智慧ETF 、通訊ETF等科技類ETF午後翻綠，早盤曾一度走強。"
+    },
+    {
+      "id": "5084274",
+      "time": "2026-09-09 13:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞總統表示，將於今日確定 10 月 25 日為選舉日。"
+    },
+    {
+      "id": "5084273",
+      "time": "2026-09-09 13:37:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲0.81%。"
+    },
+    {
+      "id": "5084272",
+      "time": "2026-09-09 13:36:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以官員：已通知英方其駐耶路撒冷領事館必須關閉】據路透社9日訊息，一名以色列官員和一名知情人士透露，以色列已通知英方，英國駐耶路撒冷領事館必須關閉，該領事館的外交官將在30天內失去認證資格。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a084ab-51a9-7118-84fe-098817679da3",
+      "time": "2026-09-09 13:36:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel tells UK its consulate in Jerusalem must close】Reuters on the 9th cited an Israeli official and an informed source saying Israel has notified the UK that its consulate in Jerusalem must close and that the consulate’s diplomats will lose accreditation within 30 days."
+    },
+    {
+      "id": "mkt:01a084aa-ac28-7118-84fe-07d6e6f2c628",
+      "time": "2026-09-09 13:36:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said units from its Southern Command remain deployed in the area under the agreement and will continue operations to eliminate all threats."
+    },
+    {
+      "id": "mkt:01a084aa-89be-7118-84fd-fe3500a55988",
+      "time": "2026-09-09 13:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it will continue decisive operations to degrade terrorist groups' capabilities in the Gaza Strip and to thwart any attempts to rebuild capabilities or use weapons intended to harm IDF soldiers."
+    },
+    {
+      "id": "mkt:01a084aa-29f2-7118-84fd-f50c90ef67fb",
+      "time": "2026-09-09 13:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX closed up 77.58 points, or 0.16%, at 47,183.36 on Sep 9."
+    },
+    {
+      "id": "mkt:01a084aa-2601-7118-84fd-ea42f0c2ab89",
+      "time": "2026-09-09 13:35:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said yesterday (Tuesday) it and the Israel Security Agency carried out precision strikes in multiple areas of the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a084a9-d7a9-7118-84fd-e1f6fcc2a534",
+      "time": "2026-09-09 13:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces and the Shin Bet dismantled three weapons storage facilities and one rocket-launch pit that had been used to fire rockets into Israeli territory during the war."
+    },
+    {
+      "id": "5084271",
+      "time": "2026-09-09 13:35:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.2%報47,183.36。"
+    },
+    {
+      "id": "5084270",
+      "time": "2026-09-09 13:35:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【階躍星辰入股芯紀微半導體公司】企查查APP顯示，芯紀微（上海）半導體有限公司近日發生工商變更，新增上海階躍星辰智慧科技股份有限公司為股東，同時註冊資本增至111.11萬元。企查查資訊顯示，該公司成立於2026年6月，經營範圍包含：積體電路晶片設計及服務；半導體器件專用裝置製造；軟體開發；積體電路設計等。"
+    },
+    {
+      "id": "5084269",
+      "time": "2026-09-09 13:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最新PISA測評結果公佈 中國內地學生表現居前列】經濟合作與發展組織（經合組織）當地時間8日釋出2025年國際學生評估專案（PISA）結果。中國北京、上海、江蘇和浙江四省市與新加坡學生在科學、數學和閱讀三大領域的綜合表現處於所有參測國家和經濟體最高水平。此次評估共有來自91個國家和經濟體的超過76萬名15歲學生參加，代表全球約3300萬名同齡學生。報告顯示，在首次引入的計算思維問題解決能力評估中，中國澳門學生平均得分572分，新加坡為563分，北京、上海、江蘇和浙江為560分，均高於經合組織國家500分的平均水平。"
+    },
     {
       "id": "mkt:01a084a9-2cfb-7118-84fd-dd5cfb580a6d",
       "time": "2026-09-09 13:34:34",
