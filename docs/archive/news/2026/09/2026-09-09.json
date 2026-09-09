@@ -1,7 +1,144 @@
 {
   "date": "2026-09-09",
-  "count": 1925,
+  "count": 1941,
   "items": [
+    {
+      "id": "mkt:01a085d7-c318-7118-8506-50532ebce6af",
+      "time": "2026-09-09 19:05:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A German government spokesman said Germany has postponed a planned phone call with U.S. President Trump that was scheduled for the 9/11 anniversary; no new date has been set."
+    },
+    {
+      "id": "5085052",
+      "time": "2026-09-09 19:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人：德國政府推遲原定於9·11紀念日當天與特朗普的通話，目前尚未敲定新的通話日期。"
+    },
+    {
+      "id": "mkt:01a085d7-443f-7118-8506-4896bd12c08b",
+      "time": "2026-09-09 19:04:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shengu Group IPO allotment numbers announced — 304,781 winning numbers】Shengu Group published online allotment results for its IPO: 304,781 winning numbers were drawn. Each winning number entitles subscription to 500 A-shares, totaling 152.39 mln A-shares allocated."
+    },
+    {
+      "id": "5085051",
+      "time": "2026-09-09 19:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "嗶哩嗶哩宣佈完成5億美元市場化可轉換優先票據發行、同期股權配售及同期Delta回購交易。"
+    },
+    {
+      "id": "5085050",
+      "time": "2026-09-09 19:03:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金馬遊樂：向特定物件發行股票申請獲深交所稽核透過】金馬遊樂公告，公司向特定物件發行股票申請已獲深交所上市稽核中心稽核透過，深交所將按規定報中國證監會履行註冊程式。本次發行尚需獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "5085049",
+      "time": "2026-09-09 19:03:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海國際能源交易中心釋出關於低硫燃料油期權合約上市掛牌基準價的通知。"
+    },
+    {
+      "id": "mkt:01a085d6-77a5-7118-8506-43395d823dab",
+      "time": "2026-09-09 19:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shanghai International Energy Exchange issued a notice setting the benchmark listing price for low-sulfur fuel oil options contracts."
+    },
+    {
+      "id": "5085048",
+      "time": "2026-09-09 19:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警圓滿完成2026年北太平洋公海漁業執法巡航任務】9月9日上午，由中國海警長山艦和五虎艦組成的艦艇編隊圓滿完成2026年北太平洋公海漁業執法巡航任務，順利返港。這是中國海警在北太平洋公海開展的第11次巡航。此次巡航歷時45天，航程19800餘海里，航時2100餘小時。巡航期間，中國海警艦艇編隊根據聯合國大會相關決議、《北太平洋公海漁業資源養護和管理公約》等規定，加大公海漁業法律法規和養護管理措施宣傳，加強作業漁船巡查監管，做好區域漁業管理註冊漁船資訊核對。共觀察記錄各國漁船95艘，登臨檢查20艘，直升機公海飛行執法7架次，有效履行了公海執法職責，維護了北太平洋漁業生產秩序。作為海洋漁業大國和《北太平洋公海漁業資源養護和管理公約》成員國，中國海警派艦艇赴北太平洋開展漁業執法巡航，對中國參與全球海洋治理、保護公海漁業資源具有重要意義。下步，中國海警將持續深入開展公海漁業執法巡航，積極履行公約義務，為有效維護公海漁業生產秩序發揮應有作用。"
+    },
+    {
+      "id": "5085047",
+      "time": "2026-09-09 19:03:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所釋出關於熱軋卷板期權、不鏽鋼期權合約上市掛牌基準價的通知。"
+    },
+    {
+      "id": "mkt:01a085d5-e68e-7118-8506-3858c7a66599",
+      "time": "2026-09-09 19:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Shanghai Futures Exchange (SHFE) issued a notice setting listing reference (benchmark) prices for hot-rolled coil and stainless-steel options contracts."
+    },
+    {
+      "id": "5085046",
+      "time": "2026-09-09 19:02:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所表示，新的倫敦金屬交易所熱軋卷板上海現金結算鋼材期貨將於2026年10月27日星期二掛牌上市。"
+    },
+    {
+      "id": "5085045",
+      "time": "2026-09-09 19:02:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國關鍵礦產公司達成協議，將與Nova Resources合併，並收購位於阿拉巴馬州歷史悠久的麥卡利斯特鉭礦及選礦廠。"
+    },
+    {
+      "id": "5085044",
+      "time": "2026-09-09 19:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：控股股東及一致行動人持股比例被動稀釋3.32%】江波龍公告稱，因公司向特定物件發行A股股票、發行H股並上市，總股本增加，公司控股股東、實控人蔡華波及一致行動人蔡麗江持股數量不變，合計持股比例由41.78%被動稀釋至38.46%，被動稀釋比例合計3.32%，觸及1%整數倍及5%整數倍。本次權益變動為被動稀釋，不涉及股份減持，不觸及要約收購，不會導致公司控股股東、實控人發生變化。"
+    },
+    {
+      "id": "mkt:01a085d5-2b0d-7118-8506-3721df3c900a",
+      "time": "2026-09-09 19:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine CPI rose 8.1% YoY in August, matching the 8.1% forecast."
+    },
+    {
+      "id": "5085043",
+      "time": "2026-09-09 19:02:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港IPO新股優地機器人上市首日大漲超153%，創港股新股機器人賽道首日漲幅紀錄。"
+    },
+    {
+      "id": "5085042",
+      "time": "2026-09-09 19:01:44",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "燧原科技：股票將於2026年9月11日在上海證券交易所科創板上市。"
+    },
     {
       "id": "5085041",
       "time": "2026-09-09 19:01:16",
