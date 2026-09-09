@@ -1,7 +1,616 @@
 {
   "date": "2026-09-09",
-  "count": 572,
+  "count": 640,
   "items": [
+    {
+      "id": "te:economy:582184",
+      "time": "2026-09-09 08:51:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Indonesia Car Sales Rise 32.4% in August — New car sales in Indonesia surged 32.4% year-on-year to a five-month high of 81,756 units in August 2026, following a 33.3% jump in July and marking the fifth consecutive month of expansion, according to data from the Association of Indonesian Automotive Industries (GAIKINDO). Gaikindo previously targeted domestic new car sales to reach 850,000 units in 2026. That figure represents a 5.8% increase from the 2025 total of 803,687 units. On a monthly basis, car sales edged up 0.8%."
+    },
+    {
+      "id": "mkt:01a083a5-0eb7-7118-84f7-656e762d963a",
+      "time": "2026-09-09 08:50:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Iran says it launched heavy strike on US base in Jordan】The Islamic Revolutionary Guard Corps' Aerospace Force said early on Sept. 9 local time it launched a heavy missile strike on a US military base in Jordan in retaliation for a US attack on an Iranian oil tanker. The statement said the ballistic missile strike hit maintenance and deployment hangars and fighter shelters for F-35, F-16 and F-15 aircraft, causing heavy damage, and warned its continued vigilance and combat readiness will persist until the aggression stops."
+    },
+    {
+      "id": "5083898",
+      "time": "2026-09-09 08:50:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海關總署公告2026年第134號（關於進口約旦牛皮和羊皮檢疫和衛生要求的公告）】根據我國法律法規及中華人民共和國海關總署（以下稱中方）和約旦雜湊姆王國農業部關於約旦雜湊姆王國牛皮和羊皮輸華的檢疫和衛生要求的規定，即日起，允許符合要求的約旦牛羊皮進口。"
+    },
+    {
+      "id": "5083897",
+      "time": "2026-09-09 08:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱猛烈打擊約旦美軍基地 】伊朗伊斯蘭革命衛隊當地時間今天（9月9日）凌晨發表宣告稱，為報復美國對伊朗油輪的侵略性攻擊，革命衛隊航空航天部隊對位於約旦的美軍基地實施了猛烈的導彈打擊。在此次彈道導彈打擊行動中，美軍F-35、F-16、F-15戰鬥機的維護與部署機庫及戰鬥機掩體均被擊中，使敵人遭受了重創。宣告強調，伊朗武裝部隊針對敵人的警惕與果敢戰鬥，正使侵略者日益陷入絕望，直至其侵略行徑徹底停止。"
+    },
+    {
+      "id": "5083896",
+      "time": "2026-09-09 08:49:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾誠健華首款雙抗ADC獲批臨床，用於治療前列腺癌等實體瘤】9月9日，諾誠健華宣佈，公司自主研發的靶向PSMA和STEAP1的雙抗ADC新藥ICP-B381獲國家藥品監督管理局（NMPA）藥品審評中心（CDE）批准開展臨床試驗，用於治療前列腺癌等實體瘤。這是公司首款雙抗ADC獲批臨床，也是公司第三款ADC創新藥進入臨床。"
+    },
+    {
+      "id": "5083895",
+      "time": "2026-09-09 08:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "鎧俠：計劃凍結當前NAND快閃記憶體價格以維持AI需求。"
+    },
+    {
+      "id": "5083894",
+      "time": "2026-09-09 08:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "鎧俠CEO：告訴員工不要推動大幅提高記憶體價格。"
+    },
+    {
+      "id": "5083893",
+      "time": "2026-09-09 08:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥預計2026年石油出口平均價格為每桶78.4美元，預計2027年石油平均出口價格每桶61.8美元。"
+    },
+    {
+      "id": "mkt:01a083a2-d0ec-7118-84f7-5b393676241f",
+      "time": "2026-09-09 08:48:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【Combined margin financing balances at Shanghai and Shenzhen up CNY 1.914 bln】As of Sept 8, Shanghai exchange margin financing balance stood at CNY 1,339.946 bln, up CNY 0.499 bln from the previous trading day; Shenzhen exchange at CNY 1,274.271 bln, up CNY 1.415 bln; combined CNY 2,614.217 bln, up CNY 1.914 bln."
+    },
+    {
+      "id": "5083892",
+      "time": "2026-09-09 08:47:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "鎧俠CEO否認與SK海力士建立更緊密聯絡的可能性。"
+    },
+    {
+      "id": "5083891",
+      "time": "2026-09-09 08:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽：持續支援中國建造（安徽）網際網路平臺建設】安徽省住房和城鄉建設廳近日印發《安徽省城市更新“十五五”規劃》，規劃提出，持續支援中國建造（安徽）網際網路平臺建設。深化建築資訊模型（BIM）、物聯網等技術在改造專案中的整合應用，大力發展智慧建造，培育現代化建築產業鏈，推動建築業“走出去”。推動智慧建造與建築工業協同發展，構建涵蓋科研、設計、生產加工、施工裝配、運營等全產業鏈的智慧建造產業體系。推廣智慧升降機、智慧遠端操控塔式起重機等智慧建造裝備，推動自動化施工機械、建築機器人、無人機、3D列印等裝置整合創新應用。"
+    },
+    {
+      "id": "5083890",
+      "time": "2026-09-09 08:47:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加19.14億元】截至9月8日，上交所融資餘額報13399.46億元，較前一交易日增加4.99億元；深交所融資餘額報12742.71億元，較前一交易日增加14.15億元；兩市合計26142.17億元，較前一交易日增加19.14億元。"
+    },
+    {
+      "id": "5083889",
+      "time": "2026-09-09 08:46:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《安徽省城市更新“十五五”規劃》印發 到2030年城市更新行動取得重要進展】安徽省住房和城鄉建設廳近日印發《安徽省城市更新“十五五”規劃》，規劃提出，到2030年，城市更新行動取得重要進展，現代化城市體系日臻完善，新舊動能創新轉換，宜居程度不斷增強，綠色轉型成效顯著，安全保障更加牢固，文化遺產有效保護，治理水平大幅提高，城市功能品質活力整體躍升。到2035年，城市更新體制機制更加完善，創新、宜居、美麗、韌性、文明、智慧的現代化人民城市基本建成。"
+    },
+    {
+      "id": "5083888",
+      "time": "2026-09-09 08:46:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【易居企業控股：向美國紐約南區破產法院提交認可境外主要程式、認可境外代表及若干相關濟助核證呈請】9月9日早間，易居企業控股在港交所公告，Alexander Lawson於2026年9月8日（現行東部時間）以其作為公司正式授權境外代表的身份（公司正在進行一項涉及開曼計劃的名為“關於易居（中國）企業控股有限公司”的境外重組程式），根據美國法典第11篇第15章（《破產法典》）為公司向美國紐約南區破產法院提交了自願濟助呈請及認可境外主要程式、認可境外代表及若干相關濟助之核證呈請。《破產法典》第15章為一項境外重組計劃於美國獲得承認及執行的機制。公司提交其第15章案件，以尋求承認開曼程式及執行開曼計劃。公司的第15章呈請及於第15章案件中提交核證呈請乃根據開曼計劃、香港計劃及公司債務重組計劃作出。截至本公告日期，公司的業務營運維持正常，且公司擬於該等計劃完成後繼續持續經營。"
+    },
+    {
+      "id": "5083887",
+      "time": "2026-09-09 08:45:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海電氣與懷柔實驗室簽署戰略合作協議】9月8日下午，上海電氣與懷柔實驗室正式簽署戰略合作協議。根據協議，雙方將圍繞“雙碳”戰略下的能源裝備技術攻關、新型電力系統建設、重大示範專案落地等方向開展深入合作。"
+    },
+    {
+      "id": "5083886",
+      "time": "2026-09-09 08:45:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9月9日新股提示：世紀數碼申購 洛軸股份、百邁科上市】據交易所公告，世紀數碼今日申購，申購程式碼：920229，發行價格：15.67元/股。洛軸股份、百邁科今日上市。沈鼓集團公佈中籤率，為0.047%。世紀數碼今日繳款。"
+    },
+    {
+      "id": "5083885",
+      "time": "2026-09-09 08:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍回應無人潛航器被伊朗捕獲：系“故障裝置”】美軍中央司令部發言人蒂姆·霍金斯8日表示，伊朗所稱在霍爾木茲海峽捕獲的美軍無人潛航器一天多前就發生了“故障”，且未攜帶任何敏感資料或機密裝置。伊朗伊斯蘭革命衛隊8日發表宣告稱，當天凌晨在霍爾木茲海峽入口處捕獲一艘美軍智慧無人潛航器。該潛航器採用較為先進的水下裝備技術，於2025年交付美軍。革命衛隊隨後公佈該潛航器相關資訊顯示，該裝備為美國大型自主水下航行器，長約5.8米、重近3噸，可在水下持續執行最長10天，最大潛深可達6000米。該潛航器可用於執行水下偵察監視、海床測繪、水雷探測、支援反潛作戰等任務。（新華社）"
+    },
+    {
+      "id": "5083884",
+      "time": "2026-09-09 08:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西班牙休達地方政府稱當地“瀕臨崩潰”】當地時間8日，西班牙飛地休達地方政府長官比瓦斯在布魯塞爾與歐盟官員舉行會談。比瓦斯稱休達“瀕臨崩潰”，同時敦促歐盟對摩洛哥採取強硬行動，並向休達提供邊境安全和人道主義援助。當天，比瓦斯在布魯塞爾會見多位歐盟委員會委員和歐洲議會議員時表示，目前仍有數千名非法越境者滯留休達，休達當地局勢“無法維持”，已經“瀕臨崩潰”。比瓦斯呼籲歐盟幫助休達遣返非法移民，並提供資金用於邊境基礎設施建設，以應對大規模移民湧入引發的人道主義危機。比瓦斯還要求歐盟庇護機構和歐盟邊境與海岸警衛局在休達設立“常駐機制”。"
+    },
+    {
+      "id": "mkt:01a0839e-5717-7118-84f7-56e6c3b23a95",
+      "time": "2026-09-09 08:43:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TRUMP to headline RNC midterm event Sept. 9-10; dozens of competitive Republicans expected to skip】TRUMP has called the RNC’s Sept. 9-10 midterm gathering an “unprecedented” rally, but the party faces headwinds from an unpopular Iran war and falling TRUMP approval. CBS News says dozens of Republicans in tight races nationwide are expected to sit out. GOP leaders and TRUMP allies will stage a two-day event in downtown Dallas with off-site donor activity focused on domestic energy; loyal donors are buying tickets while many contested candidates are reallocating time and funds back to their districts and states."
+    },
+    {
+      "id": "5083883",
+      "time": "2026-09-09 08:43:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華宇軟體與廣西資料集團舉行座談交流 共推資料要素領域合作】據華宇軟體公眾號，近日，北京華宇軟體股份有限公司與廣西資料集團有限公司（簡稱“廣西資料集團”）舉行座談交流會。下一步，雙方將結合自身資源與能力，重點在資料要素基礎設施、公共資料授權運營，以及司法資料融合應用等場景加強溝通對接。"
+    },
+    {
+      "id": "5083882",
+      "time": "2026-09-09 08:42:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部預計2026年和2027年石油產量將達到180萬桶/日。"
+    },
+    {
+      "id": "5083881",
+      "time": "2026-09-09 08:42:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀：晶片繁榮趨勢未變 儲存短缺料持續至明年】根據瑞銀集團基於半導體行業協會的資料釋出的報告，7月份全球晶片銷售額環比下降9.8%。其中，儲存銷售額環比下降16.3%，而剔除儲存器後的積體電路銷售額則增長了0.9%。瑞銀表示：“我們現在預計，DRAM和NAND的供應短缺狀況將持續到2027年。”"
+    },
+    {
+      "id": "te:markets:582183",
+      "time": "2026-09-09 08:41:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Wobble in Early Trade — The Nikkei 225 Index traded flat around 65,270 in early Wednesday trading, showing little direction as investors weighed rising oil prices that fueled inflation concerns and increased expectations for interest rate hikes. Oil prices continued to climb after US forces destroyed five Iranian crude tankers near Kharg Island in retaliation for attempted missile attacks on a US warship. Investors also kept a close watch on the yen after the currency strengthened to its highest level in nearly seven months. US Treasury Secretary Scott Bessent said he has “good insight” into the Bank of Japan’s plans to support the currency, warning traders against betting against him. Among individual stocks, SoftBank Group gained 3.9%, Fujikura rose 7.9% and Lasertec advanced 5.6%, while Nintendo fell 2.8%, Recruit Holdings dropped 2.9% and Fast Retailing declined 2.4%."
+    },
+    {
+      "id": "5083880",
+      "time": "2026-09-09 08:41:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥預算提案：預計2027年底關鍵利率為6.0%。"
+    },
+    {
+      "id": "5083879",
+      "time": "2026-09-09 08:41:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥預算提案：預計2026年底關鍵利率將達到6.5%。"
+    },
+    {
+      "id": "te:economy:582182",
+      "time": "2026-09-09 08:40:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Motorbike Sales",
+        "Importance 1"
+      ],
+      "text": "Indonesia Motorbike Sales Rise 3.18% in August — Motorbike sales in Indonesia increased 3.18% year-on-year to 596,461 units in August 2026, slowing from an 8.3% rise in the previous month. The Association of Indonesian Motorcycle Industry (AISI) expects sales to remain relatively stable at around 6.4 million to 6.7 million units this year. Last year, motorbike sales climbed 1.3% to 6.4 million units, within the target range of 6.4 million to 6.7 million units set by AISI. However, the growth rate was slightly slower than the 1.5% increase recorded in 2024. On a monthly basis, motorbike sales fell 6.2% in August, reversing sharply from a 23.0% surge in July."
+    },
+    {
+      "id": "5083878",
+      "time": "2026-09-09 08:40:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市政府召開常務會議 研究“十五五”時期應急體系建設等事項 大力推進貨車新能源化 加快充電、加氫站點建設】昨天下午，市政府召開常務會議，落實市委工作部署，研究北京市“十五五”時期應急體系建設等事項。市委副書記、市長殷勇主持會議。會議強調，深入覆盤總結防汛工作，不斷改進最佳化應對措施，提升氣象預報預警和水庫河道調蓄、值班值守、重點人員提前轉移安置等方面工作，增強應對處置能力。從嚴抓好火災防範，強化人員密集場所風險排查整治，嚴管電動腳踏車“進樓入戶”充電、邊營業邊施工、違規切割動火作業等行為。深化生產安全事故防範，抓好特種裝置、建築施工等重點行業領域安全風險管理。健全多災種綜合監測預警和應急聯動機制，做好地質災害等各類災害防範應對。會議研究城市綜合交通體系發展工作時指出，要強化系統思維，綜合施策、標本兼治，構建以慢行系統為主體、軌道交通為骨幹、地面公交為保障、多種出行方式為補充，安全、便捷、高效、綠色、經濟、包容、韌性的現代化綜合交通體系。更好發揮軌道交通骨幹作用，以站城融合理念打造職住商服平衡的活力中心。打造高效便捷通勤網路，提升跨區域通勤效率。大力推進貨車新能源化，加快充電、加氫站點建設，推動交通行業綠色轉型。強化科技賦能，以城市安全為重要內容深化智慧城市建設。（北京日報）"
+    },
+    {
+      "id": "mkt:01a08398-f530-7118-84f7-4ad34812d9cb",
+      "time": "2026-09-09 08:37:14",
+      "tags": [
+        "MKT News",
+        "USO",
+        "Impact bullish",
+        "BNO",
+        "Impact bearish"
+      ],
+      "text": "【Crude ETF holdings: USO posts third straight large increase】Sept 8 — WTI nominal exposure via USO ~22.846 mln barrels, up 2.518 mln barrels on the day (third consecutive large increase). Brent futures exposure via BNO ~6.516 mln barrels, down 0.174 mln barrels on the day."
+    },
+    {
+      "id": "5083877",
+      "time": "2026-09-09 08:36:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【膜爾新材再獲數千萬元Pre-A輪融資】9月9日，膜爾新材（MOL Advance）宣佈於5個月內相繼完成兩筆，每筆數千萬元人民幣的融資，兩筆投資先後由邦勤創投、河南匯融格物投資。兩輪募集的資金將用於公司超高精度過濾膜、過濾器的研發、市場拓展及生態構建。"
+    },
+    {
+      "id": "mkt:01a08397-eec7-7118-84f7-45eff87499c2",
+      "time": "2026-09-09 08:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's finance ministry, in its budget proposal, projects USD/MXN at 18.0 by end-2027."
+    },
+    {
+      "id": "5083876",
+      "time": "2026-09-09 08:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【田永龍被曝進入騰訊CEO辦公室，向姚順雨彙報，官方暫無回應】據媒體報道，騰訊AI領域近期出現新的人事變動。田永龍已進入騰訊CEO/總裁辦公室，其職務為“混元多模態負責人”，直接向騰訊大模型負責人姚順雨彙報。今年7 月24日，騰訊宣佈混元多模態模型部門與大語言模型部門合併，成立基礎模型部，統一由騰訊首席 AI 科學家姚順雨管理，以進一步提升模型研發和協同效率，探索全模態模型的智慧上限。據悉，在這一架構調整中，田永龍加入該團隊，負責VLM（視覺語言模型）方向。對此訊息，新浪科技向騰訊官方進行求證，截至發稿暫無回應。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a08396-b9ac-7118-84f7-3b2082a1b7e4",
+      "time": "2026-09-09 08:34:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Mexico's finance ministry budget proposal forecasts an average price of $61.8 per barrel for its oil export blend in 2027."
+    },
+    {
+      "id": "5083875",
+      "time": "2026-09-09 08:34:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預算提案顯示，墨西哥財政部預計2027年該國石油出口混合均價為每桶61.8美元。"
+    },
+    {
+      "id": "5083874",
+      "time": "2026-09-09 08:34:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部預算提案顯示，預計2027年末通脹率為3.0%。"
+    },
+    {
+      "id": "mkt:01a08393-052d-7118-84f7-354115e27e2d",
+      "time": "2026-09-09 08:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Shipbuilding sector in decade-long upcycle】CITIC Securities says the shipbuilding sector is in a decade-long upcycle, driven by fleet replacement and tighter environmental regulations. External shocks have created divergence across vessel segments and uneven rotation. Elevated tanker freight rates have triggered an ordering surge: new tanker orders have risen sharply since November 2025 and full-year tanker orders are expected to remain high. CITIC sees bulk carrier orders potentially becoming the next growth driver. Leading indicators: new-build price index for August was 186.34, YoY +0.04%, MoM +0.46%, up five consecutive months, underscoring a supply-tight, seller’s market and supporting a constructive view on the sector."
+    },
+    {
+      "id": "mkt:01a08392-b0c6-7118-84f7-2b4d409f09e6",
+      "time": "2026-09-09 08:30:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dongwu Securities: China storage test-equipment market could reach 15.5 bln yuan in 2027】Dongwu Securities forecasts China’s storage test-equipment market may expand to 15.5 bln yuan in 2027 from 4.8 bln yuan in 2026, a ~223% YoY rise, driven by capacity expansion at Changxin and Changcun and rising per-unit value of high-end DRAM and HBM testers. It estimates domestic localization for storage testers was only about 8–10% in 2025; with overseas vendors’ delivery times lengthening, Dongwu says domestic equipment suppliers could rapidly replace imports after technical breakthroughs."
+    },
+    {
+      "id": "5083873",
+      "time": "2026-09-09 08:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：日本投資者轉向國內債券的程序是漸進的。"
+    },
+    {
+      "id": "5083872",
+      "time": "2026-09-09 08:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中創新航合肥研究院正式落地】9月8日下午，長豐縣政府與中創新航在合肥市政務中心簽署合作協議，中創新航合肥研究院正式落地。該專案建設內容包括中試線、研發實驗室、實驗測試中心，將開展鋰電池及相關產品的研發與實驗測試業務。中創新航董事長劉靜瑜透露，合肥研究院將建成體系完備的綜合性研發平臺，未來將引進超2000名研發人才。"
+    },
+    {
+      "id": "5083871",
+      "time": "2026-09-09 08:29:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中際旭創連漲三日重回萬億市值 機構：剛剛起步】A股市場再次見證了“光模組一哥”的王者歸來。9月8日，中際旭創股價收報902.37元/股，漲幅0.44%，市值重回萬億元大關。“這不僅僅是股價的反彈，這是市場對AI算力確定性的一次重新定價。”一位長期跟蹤AI板塊的基金經理對記者表示，高盛剛給出了2645元的目標價，這一目標價對應的潛在漲幅近200%。這意味著在他們眼裡，現在的中際旭創才剛剛起步。"
+    },
+    {
+      "id": "5083870",
+      "time": "2026-09-09 08:29:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：上半年國有大行量穩、價升、質優、回報加碼，配置價值凸顯】華泰證券研報稱，息差回升帶動銀行半年報延續修復，大行表現亮眼。2026年上半年上市銀行營收、淨利潤同比+7.4%、+3.0%，國有大行量穩、價升、質優、回報加碼，配置價值凸顯。重點關注：息差企穩回升帶動利息淨收入持續修復；非息整體降速、內部表現分化；規模情結淡化，信貸增速放緩，零售投放仍承壓；對公資產質量穩中向好，關注零售風險。"
+    },
+    {
+      "id": "5083869",
+      "time": "2026-09-09 08:28:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【東吳證券：國記憶體儲測試機市場空間有望由2026年的48億元增至2027年的155億元】東吳證券指出，隨著長鑫、長存持續擴產，疊加高階DRAM、HBM測試裝置價值量顯著提升，東吳證券最新測算國記憶體儲測試機市場空間有望由2026年的48億元增至2027年的155億元，同比增長約223%；2025年國記憶體儲測試機國產化率僅約8%—10%， 海外龍頭交期拉長，東吳證券認為國產裝置商技術突破後有望快速替代。"
+    },
+    {
+      "id": "5083868",
+      "time": "2026-09-09 08:28:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌0.5個基點，至2.880%。"
+    },
+    {
+      "id": "5083867",
+      "time": "2026-09-09 08:28:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昨日ETF資金整體淨流入39.78億元】據同花順iFinD資料顯示，2026年9月8日，ETF資金整體淨流入39.78億元，股票型淨流出26.05億元，寬基型淨流出40.94億元。當日ETF資金淨流入榜單排名前3依次為：5年地債（159972）淨流入10.01億元，華夏中證AAA科技創新公司債ETF（551550）淨流入8.88億元，南方上證基準做市公司債ETF（511070）淨流入7.00億元。"
+    },
+    {
+      "id": "5083866",
+      "time": "2026-09-09 08:26:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：推理側及基礎設施算力需求有望保持高景氣】中信建投研報指出，9月3日，OpenAI釋出新一代旗艦模型GPT-6 Astra，進一步強化複雜推理、程式碼生成、網頁瀏覽、計算機操作及Agent自主執行能力，並支援文件、表格、PPT等複雜工作流，API上下文視窗約105萬Token。博通FY2026 Q3實現營收295.9億美元，同比增長86%，其中AI半導體收入167億美元，同比增長221%，主要受定製AI加速器及高速網路需求驅動；Q4預計AI半導體收入217億美元，同比增長236%。中信建投認為，大模型能力持續升級疊加海外雲廠商資本開支擴張，推理側及基礎設施算力需求有望保持高景氣，繼續看好晶片、光模組、交換機及PCB等AI算力核心環節。"
+    },
+    {
+      "id": "5083865",
+      "time": "2026-09-09 08:25:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "任天堂股價下跌3.7%。"
+    },
+    {
+      "id": "mkt:01a0838d-9702-7118-84f7-26c2d6794e31",
+      "time": "2026-09-09 08:24:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US military says intercepted floating fuel station in eastern Pacific】On the 8th local time, US Southern Command said Joint Task Force–Western Hemisphere (JTF‑WHEM) intercepted a vessel in the eastern Pacific that was supplying fuel to illicit maritime drug-trafficking operations. Intelligence linked the ship to Ecuadorian criminal group Los Choneros. Persons removed from the vessel were handed to Ecuadorian authorities. After clearing the ship and disembarking the crew, US forces sank the vessel."
+    },
+    {
+      "id": "5083864",
+      "time": "2026-09-09 08:24:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少1.43噸】截至2026年09月08日，全球最大的黃金ETF SPDR Gold Trust持倉量為1050.63噸，較前一個交易日減少1.43噸。"
+    },
+    {
+      "id": "5083863",
+      "time": "2026-09-09 08:24:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：看好具身智慧向工廠落地】華泰證券研報稱，看好具身智慧向工廠落地。9月2—3日組織了2026年秋季策略會，會上圍繞具身智慧如何落地進入工廠展開交流。華泰證券發現，隨著人形機器人本體能力趨於成熟，行業競爭的重心正從硬體轉向場景開發與生態分工：1.無序零件分揀、料箱搬運等機械臂難以完成的工序成為核心需求，而本體廠缺乏人力和資源逐家交付，外部開發者正成為產業鏈新的一環。2.資料側來看，非侵入式腦機介面取得突破，可能改變具身智慧的資料來源。3.“場景智慧”可能是一條更為現實的打破工業具身落地不可能三角的路徑，作業系統、全模態採集與資料平臺、能夠實現跨構型部署的基座模型的價值有望凸顯。"
+    },
+    {
+      "id": "5083862",
+      "time": "2026-09-09 08:24:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥部長預計，2027年墨西哥公共財政赤字將佔GDP的3.9%。"
+    },
+    {
+      "id": "mkt:01a0838d-0195-7118-84f7-1daf9c6b035d",
+      "time": "2026-09-09 08:24:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【A-shares liquidity gauge: turnover edges up】Sept 8 — Combined Shanghai and Shenzhen turnover CNY1.96trn, a modest rise from the prior trading day. This is the 14th consecutive session below the 20-day moving average (CNY2.10trn), leaving market liquidity and sentiment muted."
+    },
+    {
+      "id": "5083861",
+      "time": "2026-09-09 08:24:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博祿國際任命羅蘭·楊森為首席商務官】當地時間9月8日，全球聚烯烴生產商博祿國際宣佈任命羅蘭·楊森（Roland Janssen）為公司首席商務官，該任命將於2026年10月1日生效。在此次履新前，他擔任博祿國際全球銷售和市場部高階副總裁。楊森將常駐博祿國際位於維也納的總部。他將接替Stefan Doboczky，後者已決定離開公司，尋求新的職業發展機會。"
+    },
+    {
+      "id": "5083860",
+      "time": "2026-09-09 08:24:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：龍頭連鎖藥店業績向好，已有公司重啟擴張】中信證券研報認為，連鎖藥店行業門店出清持續，結構分化，龍頭藥店優勢明顯。2025年行業整體運營指標有所修復。從上市公司2026年半年報來看，龍頭連鎖業績向好，已有公司重啟擴張。當下，龍頭連鎖藥店估值價效比突出，維持連鎖藥店行業“強於大市”評級。"
+    },
+    {
+      "id": "5083859",
+      "time": "2026-09-09 08:23:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌1.0個基點，至2.225%。"
+    },
+    {
+      "id": "5083858",
+      "time": "2026-09-09 08:23:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升0.5個基點，至3.710%。"
+    },
+    {
+      "id": "5083857",
+      "time": "2026-09-09 08:23:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：拿地可能成為品質開發關鍵環節 土地市場景氣度可能進一步分化】中信證券研報稱，過去20年，房企拿地的成功關鍵在於人棄我取，這種逆週期操作的背後一般是更通暢的融資渠道。但未來，相信隨著開發端的精品化和定製化，地塊位置和規劃條件的重要性，會逐漸壓過拿地時間點的重要性。中信證券認為，拿地可能成為品質開發的關鍵環節，土地市場的景氣度可能進一步分化。"
+    },
+    {
+      "id": "5083856",
+      "time": "2026-09-09 08:23:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部預測，2026年墨西哥經濟增速為1%至2%， 2027年增速將為1.5%至2.5%。"
+    },
+    {
+      "id": "5083854",
+      "time": "2026-09-09 08:20:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約秘書長呼籲各國“挖掘更多潛力”援烏】北約秘書長呂特8日在“烏克蘭防務聯絡小組”線上會議上呼籲各國加大對烏克蘭的軍事支援力度。呂特稱，在今年7月的北約安卡拉峰會上，北約各國承諾於年內向烏克蘭提供價值700億歐元的軍事裝備等支援。他稱，各國必須“挖掘更多潛力”支援烏克蘭。當天的會議上，德國防長皮斯托裡烏斯表示，德國將從本國庫存中向烏克蘭提供“愛國者”防空導彈，此外德國將加大空對空導彈的供應力度，並繼續向烏克蘭提供無人機和遠端彈藥。英國國防大臣斯特里廷表示，英國將向烏克蘭的防空援助計劃投入1億英鎊。"
+    },
+    {
+      "id": "5083853",
+      "time": "2026-09-09 08:20:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2026國談第五日：商保創新藥目錄價格協商開始 多家藥企攜核藥、CAR-T新藥等重磅藥物進場】今日八時許，2026年國家基本醫保藥品目錄談判競價及商保創新藥目錄價格協商第五日正式開啟，記者現場瞭解到，今日是今年國談的最後一日，將密集進行商保創新藥目錄價格協商，基本醫保目錄談判競價已於昨日上午完成。阿斯利康、賽諾菲、科濟藥業子公司愷興生命、遠大、恆潤達生、精準生物等企業代表陸續進入談判會場。今年商保創新藥目錄價格協商共有62個藥品通用名申報，58個透過形式審查，其中目錄外57個、目錄內1個，罕見病、腫瘤、神經系統疾病仍是申報主力，合計佔比約七成，恆潤達生的雷尼基奧侖賽注射液、精準生物的普基奧侖賽注射液兩款CAR-T新藥首次嘗試“闖關”。（財聯社）"
+    },
+    {
+      "id": "mkt:01a08389-160a-7118-84f7-1276874c479a",
+      "time": "2026-09-09 08:19:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesian Automotive Industry Association (Gaikindo) reported Indonesia's August auto sales rose 32.4% YoY."
+    },
+    {
+      "id": "mkt:01a08388-9070-7118-84f7-0f8654faabc8",
+      "time": "2026-09-09 08:19:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Nasdaq100"
+      ],
+      "text": "【Anthropic researcher quits, warns industry is racing toward 'out-of-control' self‑improving AI】An Anthropic researcher, Jacob Coxon, has said he is leaving the AI industry, citing refusal to participate in a sector-wide race to develop self‑improving systems that he fears could get out of control. Coxon, who works on training large models with massive datasets, said colleagues now use terms like “crunchtime” and “endgame” to describe progress toward self‑improvement. He warned the sector is moving toward its most aggressive scenarios and said the situation could be out of control by the end of next year, adding that competitive pressure between firms makes safety compromises likely."
+    },
+    {
+      "id": "5083852",
+      "time": "2026-09-09 08:18:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "易居（中國）企業控股：茲通告 Alexander Lawson 於 2026 年 9 月 8 日（美國東部時間），以本公司正式授權境外代表（“境外代表”）身份（本公司正在開展一項涉及開曼方案、案名為 “關於易居（中國）企業控股有限公司” 的境外重組程式（“開曼程式”）），依據《美國法典》第 11 編第 15 章（《破產法典》），代表本公司向美國紐約南區破產法院（“法院”）提交自願救濟申請書以及核證申請書，申請內容包括：(I) 承認境外主要程式、(II) 認可境外代表、(III) 多項相關救濟（合稱 “核證申請書”）。《破產法典》第 15 章是境外重組方案在美國獲得承認與執行的機制。本公司提起第 15 章案件，旨在申請承認開曼程式並執行開曼方案。為此，核證申請書請求法院依據《破產法典》第 1517 條作出裁定，認定開曼程式屬於境外主要程式；依據《破產法典》第 1520 條授予相關救濟，並執行該方案、開曼程式以及在開曼程式中作出的各項裁定。"
+    },
+    {
+      "id": "te:markets:582181",
+      "time": "2026-09-09 08:16:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Recruit Holdings Stock Price Hits 4-week Low — Recruit Holdings shares decreased to 15420.00 JPY, the lowest since August 2026. Over the past 4 weeks, Recruit Holdings lost 4.27%, and in the last 12 months, it increased 85.26%."
+    },
+    {
+      "id": "te:markets:582180",
+      "time": "2026-09-09 08:16:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sony Stock Price Hits 4-week Low — Sony shares decreased to 3605.00 JPY, the lowest since August 2026. Over the past 4 weeks, Sony lost 3.96%, and in the last 12 months, it decreased 14.28%."
+    },
+    {
+      "id": "5083851",
+      "time": "2026-09-09 08:16:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.5%，德國DAX指數期貨下跌0.4%，英國富時指數期貨下跌0.3%。"
+    },
+    {
+      "id": "5083850",
+      "time": "2026-09-09 08:15:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：船舶行業正處於十年維度的上行景氣週期】中信建投證券研報稱，船舶行業正處於十年維度的上行景氣週期，存量運力迭代更新疊加環保政策趨嚴，為行業核心支撐邏輯。受到外部事件影響，細分船型景氣分化、輪動節奏不一。當前油運運價高企，刺激油輪迎來下單潮，新船訂單自2025年11月起連續高增，全年油輪訂單有望維持高位；展望後市，散貨船訂單或將接力成為下一階段景氣主線。從邊際資料來看，新船方面，8月新船價格指數186.34，同比+0.04%，環比+0.46%，連續5個月回升，充分印證行業屬於供需偏緊的賣方市場，看好板塊後續行情。"
+    },
+    {
+      "id": "5083849",
+      "time": "2026-09-09 08:15:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部長向國會提交預算方案。"
+    },
+    {
+      "id": "5083848",
+      "time": "2026-09-09 08:15:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數上漲1%。"
+    },
+    {
+      "id": "te:markets:582179",
+      "time": "2026-09-09 08:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hitachi Stock Price Hits 5-week Low — Hitachi shares decreased to 5151.00 JPY, the lowest since July 2026. Over the past 4 weeks, Hitachi lost 8.29%, and in the last 12 months, it increased 29.63%."
+    },
     {
       "id": "mkt:01a08381-39d1-7118-84f7-019c49636089",
       "time": "2026-09-09 08:11:19",
