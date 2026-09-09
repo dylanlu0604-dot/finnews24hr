@@ -1,7 +1,112 @@
 {
   "date": "2026-09-09",
-  "count": 1722,
+  "count": 1735,
   "items": [
+    {
+      "id": "mkt:01a085a6-8a62-7118-8504-5a3d0a1804db",
+      "time": "2026-09-09 18:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic dissolves Serbia's National Assembly, sets snap election for Oct 25】President Vucic announced on Sept 9 that he has dissolved the National Assembly and scheduled a snap parliamentary election for Oct 25. The prime minister proposed dissolution on Sept 7 after a special government meeting. Under the constitution the president may dissolve the assembly on the government's proposal and set the election date. The current assembly was elected in Dec 2023 and has served fewer than three years."
+    },
+    {
+      "id": "5084910",
+      "time": "2026-09-09 18:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇宣佈解散國民議會並確認提前選舉日期】當地時間9月9日，塞爾維亞總統武契奇宣佈解散國民議會，並決定於10月25日舉行提前議會選舉。塞爾維亞總理馬楚特7日在政府特別會議後發表講話，提出解散議會，以提前舉行議會選舉。根據塞爾維亞憲法，總統可根據政府提出的建議解散國民議會，並同時確定議會選舉日期。按照慣例，塞爾維亞議會選舉每四年舉行一次。本屆議會於2023年12月選舉產生，至今尚不足三年。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a085a6-1ed8-7118-8504-534e221d22fe",
+      "time": "2026-09-09 18:10:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of India reportedly uses FX swaps to mop up $115bn surplus liquidity】Reserve Bank of India has executed short-term FX sell-buy swaps to withdraw excess rupee liquidity, selling dollars to banks and buying rupees with agreed future repurchase dates; some contracts mature in October. The operations reduce rupee liquidity while leaving the RBI with a forward dollar obligation. Three-month onshore USD/INR forward yields rose 17bp to 2.97%, six-month yields rose 11bp. Banking-system surplus liquidity has jumped to about 11 tln rupees (~$115bn) after the RBI’s recent capital-raising plan, depressing banks’ funding costs and which could exacerbate inflation risk. Bond and FX traders are monitoring after the RBI stepped up temporary liquidity-draining operations."
+    },
+    {
+      "id": "mkt:01a085a5-ab5d-7118-8504-4b47ae97246f",
+      "time": "2026-09-09 18:10:21",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "SK Hynix said it has not decided on selling its equity in its Chongqing plant."
+    },
+    {
+      "id": "5084909",
+      "time": "2026-09-09 18:10:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克 100 期貨跌幅擴大至 0.5%。"
+    },
+    {
+      "id": "5084908",
+      "time": "2026-09-09 18:10:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞通訊部長：馬中人工智慧合作為馬帶來切實利好】馬來西亞通訊部長法赫米·法齊勒8日表示，與中國在人工智慧領域的合作為馬來西亞人工智慧技術應用和人才培養帶來切實利好。法赫米當日在吉隆坡參加活動時說，馬中兩國在人工智慧領域的合作持續推動馬來西亞相關行業發展，在技術落地和創造就業方面成效顯著。他提到，中國科技企業華為計劃為馬來西亞培養人工智慧專業人才，並發展多家本地合作伙伴。“這一舉措切實增強馬來西亞本土人工智慧能力，與我們已有的基礎設施、半導體、製造業和數字服務等基礎形成良好互補。”法赫米說，中方的人工智慧專業能力與馬來西亞及東盟地區的產業需求精準對接，促進了務實合作和成果轉化，“將人工智慧能力轉化為實實在在的經濟價值”。法赫米還表示，樂見中方倡議成立的世界人工智慧合作組織，期待與中方繼續深化合作。（新華社）"
+    },
+    {
+      "id": "5084907",
+      "time": "2026-09-09 18:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：歐洲機車租賃商對利潤率與需求壓力具備韌性。"
+    },
+    {
+      "id": "5084906",
+      "time": "2026-09-09 18:09:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：塞爾維亞總統正式確定 10 月 25 日舉行提前選舉。"
+    },
+    {
+      "id": "5084905",
+      "time": "2026-09-09 18:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：尚未就出售重慶工廠股權作出決定。"
+    },
+    {
+      "id": "5084904",
+      "time": "2026-09-09 18:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石藥集團：SYH9102注射液獲中國臨床試驗批准，每月給藥一次】石藥集團公告，公司開發的戈舍瑞林緩釋注射液（SYH9102注射液）已獲中華人民共和國國家藥品監督管理局批准，可在中國開展臨床試驗；本次獲批的臨床適應症為用於實體瘤患者，該產品每月給藥一次。"
+    },
+    {
+      "id": "mkt:01a085a2-fa06-7118-8504-454bb7a7b831",
+      "time": "2026-09-09 18:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The head of Iran's Civil Aviation Organization said the US's new round of sanctions on Iranian carriers is merely a continuation of a failed policy. He said the measures may raise carriers' operating costs and make it harder to meet some demand, but so far have not disrupted Iran's domestic flight network and will not be able to do so in future."
+    },
+    {
+      "id": "5084903",
+      "time": "2026-09-09 18:07:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：千禧資管計劃設立雅典辦公室。"
+    },
+    {
+      "id": "5084902",
+      "time": "2026-09-09 18:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京醫藥：2026年半年度每股派0.09元】南京醫藥公告，2026年半年度權益分派每股派發現金紅利0.09元（含稅），共計派發現金紅利1.18億元；股權登記日為2026/9/16，除權（息）日和現金紅利發放日為2026/9/17。權益分派實施後，“南藥轉債”轉股價格由4.95元/股調整為4.86元/股。"
+    },
     {
       "id": "mkt:01a085a2-01c8-7118-8504-38fa11b06399",
       "time": "2026-09-09 18:06:21",
