@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-09 23:42:57",
-  "count": 13588,
+  "updated": "2026-09-09 23:47:01",
+  "count": 13581,
   "items": [
+    {
+      "id": "5085562",
+      "time": "2026-09-09 23:44:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多瑙河布達佩斯段水位降至0釐米】布達佩斯水務部門當地時間9月9日在社交媒體表示，當天，多瑙河布達佩斯段水位降至0釐米，但這並不意味著多瑙河中沒有水。布達佩斯水務部門表示，“0釐米”這一讀數，並不代表河流的深度。位於布達佩斯維加多廣場的水位標尺設有0釐米刻度，該數值對應的海拔是94.97米（以波羅的海海平面為基準）。布達佩斯水務部門指出，0釐米意味著多瑙河的水面恰好處於這一海拔高度。將零水位定在這一位置是因為其與多瑙河布達佩斯段歷史上的枯水位對齊——此基準設定於1943年，依據1834年枯水期記錄到的最低水位。因此，即便多瑙河水位顯示負值，也不意味多瑙河已乾涸。 (央視新聞)"
+    },
+    {
+      "id": "5085561",
+      "time": "2026-09-09 23:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國得克薩斯州民主黨在共和黨全國代表大會召開前夕接待多位全國性政黨領袖。"
+    },
     {
       "id": "5085560",
       "time": "2026-09-09 23:41:46",
@@ -123825,98 +123841,6 @@
         "市場"
       ],
       "text": "倫敦金屬交易所1月期鋅參考收盤價為每噸3941美元。"
-    },
-    {
-      "id": "5073769",
-      "time": "2026-09-02 23:45:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Fairwind專案僅限政府機構及可信合作伙伴參與。"
-    },
-    {
-      "id": "5073768",
-      "time": "2026-09-02 23:45:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Fairwind專案合作伙伴包括埃森哲、麥肯錫、帕洛阿爾託網路。"
-    },
-    {
-      "id": "te:markets:580549",
-      "time": "2026-09-02 23:44:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BlackRock Stock Price Hits 4-week Low — BlackRock shares decreased to 1120.00 USD, the lowest since August 2026. Over the past 4 weeks, BlackRock lost 0.46%, and in the last 12 months, it increased 2%."
-    },
-    {
-      "id": "te:markets:580548",
-      "time": "2026-09-02 23:44:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Gains on BoC Hike Bets — The Canadian dollar strengthened to 1.385 per USD after the Bank of Canada stressed that there are significant upside risks to inflation. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. It left the future path for monetary policy open, saying it would adjust policy as needed. Oil prices, a major Canadian export, remained elevated amid supply disruptions stemming from the escalating Middle East conflict. Rising energy costs continue to fuel inflationary pressures and hawkish expectations for central banks. Canadian government bond yields moved higher across the curve."
-    },
-    {
-      "id": "mkt:01a062cb-05f9-7118-8468-a28801c40c6b",
-      "time": "2026-09-02 23:44:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launched a network defense program targeting partners and government agencies."
-    },
-    {
-      "id": "5073767",
-      "time": "2026-09-02 23:44:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "新澤西州提請美國最高法院裁定：各州是否有權對Kalshi及其他預測市場平臺上的體育博彩業務實施監管。"
-    },
-    {
-      "id": "mkt:01a062ca-94ce-7118-8468-98745ac2d77f",
-      "time": "2026-09-02 23:43:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) launched GEMINI 3.8 Flash inference model."
-    },
-    {
-      "id": "5073766",
-      "time": "2026-09-02 23:43:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "Google Gemini：最新的Gemini 3.8 Flash模型今日起面向Pro及Ultra使用者開放。Gemini 3.8 Flash效能進一步增強，能夠輸出更可靠、更全面的回覆，既可針對日常話題給出可落地的建議，也可勝任文字分析、複雜程式設計等深度任務。"
-    },
-    {
-      "id": "5073765",
-      "time": "2026-09-02 23:43:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出Fairwind網路防禦專案。"
     }
   ]
 }
