@@ -1,7 +1,42 @@
 {
   "date": "2026-09-10",
-  "count": 226,
+  "count": 230,
   "items": [
+    {
+      "id": "mkt:01a08784-d0f2-7118-8510-180f68db6ba3",
+      "time": "2026-09-10 02:53:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says may hold bilateral meeting with Putin】On Sept 9 local time, President Trump said he had a good conversation with Russian President Putin and may hold a bilateral meeting."
+    },
+    {
+      "id": "mkt:01a08784-0451-7118-8510-1299014e800e",
+      "time": "2026-09-10 02:52:51",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact mixed",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) climbed to an intraday high of 0.74% after earlier falling nearly 2%."
+    },
+    {
+      "id": "5085696",
+      "time": "2026-09-10 02:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國認為厄瓜多蘊藏 “巨大” 經濟機遇。"
+    },
+    {
+      "id": "5085695",
+      "time": "2026-09-10 02:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：可能與俄羅斯舉行雙邊會晤】當地時間9月9日，美國總統特朗普表示，與俄羅斯總統普京進行了很好的交談，可能會舉行雙邊會晤。（央視新聞）"
+    },
     {
       "id": "mkt:01a08782-13c7-7118-8510-0bbd3a9ea2b6",
       "time": "2026-09-10 02:50:43",
