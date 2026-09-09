@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-10 05:32:54",
-  "count": 13528,
+  "updated": "2026-09-10 05:36:50",
+  "count": 13529,
   "items": [
+    {
+      "id": "5085865",
+      "time": "2026-09-10 05:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧稱，他目前沒有計劃參加2028年總統競選，但不排除未來參選的可能性。"
+    },
+    {
+      "id": "5085864",
+      "time": "2026-09-10 05:34:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全會議副主席梅德韋傑夫：沒有必要進行（戰爭）動員。"
+    },
+    {
+      "id": "mkt:01a08817-04ac-7118-8512-891d6325a3ff",
+      "time": "2026-09-10 05:33:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Brazil's minister of planning and budget said the government will assess by the end of the month whether to cancel the diesel subsidy of 1.12 reais per liter or extend it."
+    },
     {
       "id": "mkt:01a08816-09d8-7118-8512-87dbaa2a140e",
       "time": "2026-09-10 05:32:20",
@@ -123531,22 +123557,6 @@
         "MKT News"
       ],
       "text": "【Nscale says contract backlog reaches $103 bln after $45 bln Anthropic deal】The Information reports Nscale told potential investors its contract backlog is about $103.0 bln after securing a $45.0 bln compute agreement with Anthropic. Documents show Nscale had disclosed roughly $51.0 bln of contracted revenue before the Anthropic deal; the backlog rose further with the Anthropic order and other AI customer contracts. Average contract length is about 5.7 years, implying an annualized run-rate of roughly $18.0 bln, but the filings do not specify expected revenue recognition. Nscale plans an IPO as early as this month."
-    },
-    {
-      "id": "mkt:01a0640d-1bd1-7118-846e-debdcab84a29",
-      "time": "2026-09-03 05:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge has blocked the Trump administration from enforcing its latest executive order restricting birthright citizenship."
-    },
-    {
-      "id": "5074048",
-      "time": "2026-09-03 05:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官阻止特朗普政府執行最新一項限制出生地公民權的行政令。"
     }
   ]
 }
