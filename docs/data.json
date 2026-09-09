@@ -1,7 +1,263 @@
 {
-  "updated": "2026-09-09 09:32:10",
-  "count": 13733,
+  "updated": "2026-09-09 09:36:04",
+  "count": 13726,
   "items": [
+    {
+      "id": "mkt:01a083ce-480c-7118-84f8-f383ae38e9b9",
+      "time": "2026-09-09 09:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NBS: electronic circuit manufacturing prices +3.5% MoM; VR equipment +1.9%】The National Bureau of Statistics said on a MoM basis industrial transformation and upgrading lifted demand and prices as new growth drivers accelerated and the intelligence and green content of industry rose. Electronic circuit manufacturing prices were up 3.5% MoM, virtual reality equipment manufacturing up 1.9%, service-consumption robot manufacturing up 0.3%; biomass fuel processing and comprehensive utilization of waste resources each rose 0.3%."
+    },
+    {
+      "id": "5083985",
+      "time": "2026-09-09 09:35:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊走低，出版傳媒跌停】文化傳媒板塊走低，出版傳媒跌停，三人行、中信出版、讀客文化、中國出版紛紛走低。"
+    },
+    {
+      "id": "mkt:01a083ce-06fe-7118-84f8-eff8bfd7bb0c",
+      "time": "2026-09-09 09:35:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share alternative sweetener sector extended gains; Yasheng Group recorded a fifth consecutive daily limit-up, COFCO Technology and Hongmian posted second straight limit-ups, Huakang hit the daily limit, and Baolingbao and Huazi Industrial also rose."
+    },
+    {
+      "id": "5083984",
+      "time": "2026-09-09 09:35:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊持續走強，大港股份漲停】半導體板塊持續走強，大港股份漲停，和林微納、優迅股份、芯原股份、鍇威特、海光資訊、先鋒精科等跟漲。"
+    },
+    {
+      "id": "mkt:01a083cd-cea8-7118-84f8-e76c78b610d5",
+      "time": "2026-09-09 09:34:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【China PPI MoM turns from -0.7% to +0.4% as input costs lift industrial prices】The National Bureau of Statistics said China’s PPI shifted from a 0.7% MoM decline last month to a 0.4% MoM increase. Imported input costs — notably higher international crude oil and non‑ferrous metal prices — pushed up domestic sector prices: oil extraction +10.4% MoM, refined petroleum products manufacturing +4.1%, organic chemical raw materials manufacturing +0.9%, and non‑ferrous metal smelting and rolling +0.8%. Those four industries together contributed roughly 0.31 percentage points to the PPI MoM rise."
+    },
+    {
+      "id": "te:markets:582197",
+      "time": "2026-09-09 09:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "SSE Commodity Index Hits 8-week Low — SSE Commodity Index decreased to 6997.00 Index Points, the lowest since July 2026. Over the past 4 weeks, SSE Consume Commodity Index lost 7.61%, and in the last 12 months, it decreased 22.31%."
+    },
+    {
+      "id": "5083983",
+      "time": "2026-09-09 09:34:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報9858.00元。"
+    },
+    {
+      "id": "te:economy:582196",
+      "time": "2026-09-09 09:34:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Inflation Above Forecasts — China’s producer inflation accelerated to 3.8% yoy in August 2026, up from July’s three-month low of 3.5% and surpassing market estimates of 3.7%. On a monthly basis, producer prices rose 0.4%, recovering from a 0.7% drop in July. In the first eight months of the year, producer prices rose 2.0%, faster than the 1.8% gain in the previous period."
+    },
+    {
+      "id": "5083982",
+      "time": "2026-09-09 09:34:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【糧食概念板塊衝高，亞盛集團、中糧科技漲停】糧食概念板塊衝高，亞盛集團、中糧科技漲停，敦煌種業、克明食品、輝豐股份、國投豐樂、新賽股份跟漲。"
+    },
+    {
+      "id": "te:economy:582195",
+      "time": "2026-09-09 09:34:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "China Inflation Rate Accelerates as Expected — China’s annual inflation accelerated to 0.8% in August 2026 from July's six-month low of 0.5%, in line with market expectations. Monthly, consumer prices increased 0.4%, topping forecasts of a 0.3% gain and reversing a 0.1% drop in July. It also marked the highest monthly reading since February."
+    },
+    {
+      "id": "5083981",
+      "time": "2026-09-09 09:34:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內跌0.42%。"
+    },
+    {
+      "id": "5083980",
+      "time": "2026-09-09 09:34:15",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：全國CPI同比上漲0.8% 主要是受能源價格漲幅擴大影響】國家統計局表示，從同比看，全國CPI上漲0.8%，漲幅比上月擴大0.3個百分點，主要是受能源價格漲幅擴大影響。能源價格漲幅由上月的0.6%擴大至本月的4.1%，影響CPI同比上漲約0.28個百分點，對CPI的上拉影響比上月增加約0.24個百分點。其中，汽油價格上漲9.3%，漲幅擴大8.3個百分點。（國家統計局）"
+    },
+    {
+      "id": "mkt:01a083cd-1581-7118-84f8-dfbc6bdc8d12",
+      "time": "2026-09-09 09:34:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【NBS: China CPI up 0.8% YoY as energy gains widen】The National Bureau of Statistics said China’s CPI rose 0.8% YoY, 0.3 percentage points higher than last month, mainly due to larger energy price increases. Energy inflation rose from 0.6% to 4.1%, adding about 0.28 percentage points to CPI YoY—roughly 0.24 ppt more than the prior month. Gasoline prices jumped 9.3%, with the rise widening 8.3 ppt."
+    },
+    {
+      "id": "mkt:01a083cc-5976-7118-84f8-d7f89fda5f03",
+      "time": "2026-09-09 09:33:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China NBS: Pork prices up 1.3% MoM in August】China's National Bureau of Statistics said on a MoM basis in August fresh vegetable prices rose 5.5% (widening 4.2 ppt from July) after hot, rainy weather and seasonal replanting; egg prices swung from -2.1% to +2.4% MoM as summer laying-hen downtime reduced supply; pork rose 1.3% MoM amid fewer hog slaughters. The three items together pushed CPI MoM up about 0.12 percentage point."
+    },
+    {
+      "id": "5083979",
+      "time": "2026-09-09 09:33:20",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：豬肉價格8月環比上漲1.3%】國家統計局：從環比看，食品中，受高溫多雨天氣以及應季蔬菜換茬等影響，鮮菜價格上漲5.5%，漲幅比上月擴大4.2個百分點；受蛋雞夏季歇伏、生豬出欄減少等因素影響，雞蛋價格由上月下降2.1%轉為上漲2.4%，豬肉價格上漲1.3%；上述三項合計影響CPI環比上漲約0.12個百分點。（國家統計局）"
+    },
+    {
+      "id": "mkt:01a083cc-29b0-7118-84f8-cb09ee27413b",
+      "time": "2026-09-09 09:33:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened 3.37 points higher (+0.09%) at 3,943.92 on Wednesday Sept. 9. China's Shenzhen Composite Index opened 85.73 points higher (+0.63%) at 13,788.94. China's ChiNext Index opened 38.51 points higher (+1.15%) at 3,398.22. China's STAR 50 Index opened 17.20 points higher (+1.08%) at 1,608.20."
+    },
+    {
+      "id": "5083978",
+      "time": "2026-09-09 09:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：有色金屬材料及電線類價格上漲19.8%】國家統計局資料顯示，工業生產者購進價格中，有色金屬材料及電線類價格上漲19.8%，燃料動力類價格上漲9.8%，化工原料類價格上漲9.5%，紡織原料類價格上漲3.8%，黑色金屬材料類價格上漲0.3%；建築材料及非金屬類價格下降3.2%，農副產品類價格下降0.5%。"
+    },
+    {
+      "id": "5083977",
+      "time": "2026-09-09 09:32:49",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "國家統計局：從環比看，受算力需求快速增長等因素影響，行動電話機、平板電腦、資料儲存裝置價格分別上漲2.3%、2.1%和2.1%，合計拉動CPI上漲約0.03個百分點。"
+    },
+    {
+      "id": "mkt:01a083cb-c4ea-7118-84f8-c23870c96281",
+      "time": "2026-09-09 09:32:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Bureau of Statistics said on a MoM basis that, driven by rapid growth in computing-power demand, prices of mobile phones, tablets and data-storage devices rose 2.3%, 2.1% and 2.1% respectively, collectively adding about 0.03 percentage point to CPI."
+    },
+    {
+      "id": "mkt:01a083cb-6788-7118-84f8-bd9bbc824d06",
+      "time": "2026-09-09 09:32:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "HSTECH",
+        "Impact bullish",
+        "HSCEI"
+      ],
+      "text": "HSI opened down 25.46 pts (-0.10%) at 25,291.72 on Sept 9. Hang Seng Tech Index opened up 4.42 pts (+0.10%) at 4,459.27. Hang Seng China Enterprises Index (HSCEI) opened down 13.08 pts (-0.16%) at 8,384.24. Red-chip index opened up 0.13 pts (0.00%) at 4,237.47."
+    },
+    {
+      "id": "mkt:01a083cb-35cd-7118-84f8-b071c3e0cef1",
+      "time": "2026-09-09 09:32:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share CPO sector rose in early trade; Benchuan Intelligent jumped over 12%, Huagong Technology hit the daily limit, and Tianyang New Materials, Yangtze Optical Fibre & Cable (YOFC) and Youxun Co. also advanced."
+    },
+    {
+      "id": "mkt:01a083cb-2c26-7118-84f8-a963fcc37572",
+      "time": "2026-09-09 09:32:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump will speak at the Republican National Committee midterm convention on Wednesday at 9:15 p.m. ET (Thursday 09:15 Beijing time)."
+    },
+    {
+      "id": "5083976",
+      "time": "2026-09-09 09:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念盤初走強，華工科技漲停】CPO概念盤初走強，華工科技漲停，德科立、蘅東光、光庫科技、新易盛、長芯博創、天孚通訊等跟漲。"
+    },
+    {
+      "id": "5083975",
+      "time": "2026-09-09 09:31:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長飛光纖光纜港股漲超13%】長飛光纖光纜港股漲13.26%，報193.40港元。隔夜美股光通訊板塊大漲，Lumentum漲超11%，康寧漲超7%，Coherent漲超7%。"
+    },
+    {
+      "id": "5083974",
+      "time": "2026-09-09 09:31:45",
+      "tags": [],
+      "text": "【國家統計局：8月份居民消費價格同比上漲0.8％】國家統計局：8月份，受國際市場價格變動、食品價格季節性上漲等因素影響，居民消費價格指數（CPI）環比由上月下降0.1％轉為上漲0.4％，同比漲幅回升至0.8％；扣除食品和能源價格的核心CPI同比漲幅回升至1.0％。"
+    },
     {
       "id": "mkt:01a083ca-c9e8-7118-84f8-a7d66e75095c",
       "time": "2026-09-09 09:31:40",
@@ -230,6 +486,15 @@
         "市場"
       ],
       "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.46%， 中證500指數期貨連續漲0.45%， 上證50指數期貨連續漲0.21%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093868929083",
+      "time": "2026-09-09 09:30:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：8月CPI同比上漲0.8% PPI同比上漲3.8%】2026年8月份，全國居民消費價格同比上漲0.8%。其中，城市上漲0.8%，農村上漲0.7%；食品價格下降1.4%，非食品價格上漲1.2%；消費品價格上漲0.8%，服務價格上漲0.8%。1—8月平均，全國居民消費價格比上年同期上漲0.9%。2026年8月份，全國工業生產者出廠價格同比上漲3.8%，環比上漲0.4%。工業生產者購進價格同比上漲5.8%，環比上漲0.3%。1—8月平均，工業生產者出廠價格比上年同期上漲2.0%，工業生產者購進價格上漲3.2%。"
     },
     {
       "id": "5083962",
@@ -124958,327 +125223,6 @@
         "USDJPY"
       ],
       "text": "Bank of Japan policy board member Takata said the BOJ needs to closely monitor developments in long-term interest rates and communicate effectively with markets."
-    },
-    {
-      "id": "5072060",
-      "time": "2026-09-02 09:36:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "軍工板塊區域性異動，內蒙一機2連板，建設工業直線漲停，北方長龍漲超10%，長城軍工、天秦裝備、成飛整合跟漲。"
-    },
-    {
-      "id": "5072059",
-      "time": "2026-09-02 09:36:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股地面兵裝Ⅲ板塊異動拉昇】內蒙一機觸及漲停，北方長龍、長城軍工、天秦裝備、捷強裝備、中兵紅箭、國科軍工跟漲。"
-    },
-    {
-      "id": "5072058",
-      "time": "2026-09-02 09:36:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股地面兵裝Ⅱ板塊異動拉昇】內蒙一機觸及漲停，北方長龍、長城軍工、天秦裝備、捷強裝備、中兵紅箭、國科軍工跟漲。"
-    },
-    {
-      "id": "5072057",
-      "time": "2026-09-02 09:35:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【農業板塊回撥 華綠生物跌超8%】農業板塊回撥，華綠生物跌超8%，神農種業、秋樂種業、登海種業等紛紛下跌。"
-    },
-    {
-      "id": "te:economy:580238",
-      "time": "2026-09-02 09:35:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "GDP Growth Rate",
-        "Importance 3"
-      ],
-      "text": "Australia Q2 GDP Growth Above Estimates — The Australian economy grew 0.4% qoq in Q2 2026, accelerating from a 0.3% expansion in Q1, which had marked the slowest increase in a year. The latest result also exceeded market expectations of a 0.3% rise."
-    },
-    {
-      "id": "mkt:01a05fc2-28a0-7118-844d-02c0fe2c8ce8",
-      "time": "2026-09-02 09:35:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan policy board member Takata said the central bank needs to change its current stance of encouraging higher underlying inflation and demonstrate to markets its determination to prevent price increases."
-    },
-    {
-      "id": "5072056",
-      "time": "2026-09-02 09:35:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：有必要密切關注長期利率的走勢，並與市場進行有效溝通。"
-    },
-    {
-      "id": "mkt:01a05fc1-ed9f-7118-844c-fc89e6a4b204",
-      "time": "2026-09-02 09:35:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "FTSE China A50 index futures fell more than 1%."
-    },
-    {
-      "id": "5072055",
-      "time": "2026-09-02 09:35:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:01a05fc1-d8ee-7118-844c-f16a5d1a434d",
-      "time": "2026-09-02 09:35:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share defense stocks extended gains; Inner Mongolia First Machinery surged over 8% intraday, while Beifang Changlong, Great Wall Military, Tianqin Equipment, Jieqiang Equipment and Zhongbing Hongjian also advanced."
-    },
-    {
-      "id": "em:qqyh_rbyh:202609023862410488",
-      "time": "2026-09-02 09:35:27",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行審議委員高田創表示，必須密切關注日本與其他國家貨幣政策立場分化可能導致外匯市場劇烈波動的風險。"
-    },
-    {
-      "id": "mkt:01a05fc1-b954-7118-844c-eb5a78876bcf",
-      "time": "2026-09-02 09:35:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan policy board member Takata said policy rates need to be raised closer to neutral."
-    },
-    {
-      "id": "5072054",
-      "time": "2026-09-02 09:35:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "高田創：日本央行需要靈活地進行加息。"
-    },
-    {
-      "id": "te:markets:580237",
-      "time": "2026-09-02 09:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Surges to Record High — US heating oil prices surged past $4.70 per gallon in early September, hitting a fresh record and leaving prices about 100% higher than a year earlier, driven by tightening distillate supplies. Industry data showed that US distillate inventories fell by 300,000 barrels in the week ending August 28, adding to evidence of increasingly constrained supplies ahead of the winter heating season. Tightness is also evident across the broader refined-fuel market, with US diesel futures reaching a 52-month high and the diesel crack spread climbing to a record level. Meanwhile, US refinery utilization has remained at or above 95% for 12 consecutive weeks, leaving limited spare capacity to replenish inventories or offset further disruptions. Supply risks remained elevated amid renewed tensions between the US and Iran, raising concerns over oil flows through the Strait of Hormuz, while Ukrainian attacks on Russian refineries have further constrained global refining capacity."
-    },
-    {
-      "id": "mkt:01a05fc1-8155-7118-844c-e4969e3c518c",
-      "time": "2026-09-02 09:35:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan policy board member Takata said authorities must closely monitor the risk that divergence between Japan's monetary policy stance and those of other countries could trigger sharp volatility in foreign exchange markets."
-    },
-    {
-      "id": "te:markets:580236",
-      "time": "2026-09-02 09:35:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Hong Kong Hit 5-week Low — HK50 decreased to 25089.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 3.23%, and in the last 12 months, it decreased 0.68%."
-    },
-    {
-      "id": "5072053",
-      "time": "2026-09-02 09:35:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：需將政策利率上調至更接近中性利率的水平。"
-    },
-    {
-      "id": "5072052",
-      "time": "2026-09-02 09:34:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：重要的是要密切關注日本與其他國家貨幣政策立場分化可能導致外匯市場劇烈波動的風險。"
-    },
-    {
-      "id": "5072051",
-      "time": "2026-09-02 09:34:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7491.80點。"
-    },
-    {
-      "id": "5072050",
-      "time": "2026-09-02 09:34:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【事關特醫食品 兩項國家標準今起實施】今天（2日）起，國家衛生健康委、市場監管總局聯合釋出的食品安全國家標準《特殊醫學用途配方食品通則》和《腫瘤全營養配方食品》正式實施。這兩項食品安全國家標準，將對特醫食品的創新研發、註冊監管、產業發展等產生重大影響。（央視新聞）"
-    },
-    {
-      "id": "5072049",
-      "time": "2026-09-02 09:34:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院安委辦聯合交通運輸部、農業農村部部署加強水上運輸和漁業船舶安全風險防範工作】應急管理部訊息，日前，國務院安委會辦公室聯合交通運輸部、農業農村部召開影片排程會議，分析當前水上安全形勢和風險挑戰，深入推進“海洋漁船安全生產專項整治”和“商漁共治”行動。會議強調，各地區各部門要強化責任落實，沿海省區市安委會辦公室要強化協調監督，農業農村、海洋漁業部門要落實好“以港管船管人”等責任，港航部門要加強對轄區內航運企業安全監管，海事部門要盯好各自轄區水域船舶動態，鄉鎮政府要加強對鄉鎮船舶非法載人管控。要嚴格監管執法，重拳出擊開展“打非治違”，對航運企業主要負責人、船東船長實施“一案雙罰”，強力推進行刑銜接，及時公佈典型案例，強化警示震懾。要著力防範化解水上重大安全風險，加強對客運碼頭、渡口、漁港等重點場所和客滾船、旅遊船、渡船、海上超10人作業漁船等重點船舶的排查，嚴禁“帶病”出海作業，科學統籌引導商漁船分流作業，積極推進漁船“減船轉產”和老舊客船更新改造。要嚴肅開展事故調查，既要查技術原因，又要查清管理問題，依法依規追究地方黨政領導、部門負責人和船東、船長的責任。要做好惡劣天氣防災避險，嚴格落實預警措施，加強對錨泊避風船舶的盯控。"
-    },
-    {
-      "id": "mkt:01a05fc0-9d27-7118-844c-db53d3b35331",
-      "time": "2026-09-02 09:34:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "China's ChiNext Index falls more than 2%."
-    },
-    {
-      "id": "5072048",
-      "time": "2026-09-02 09:34:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "希音港股跌幅超過3%。"
-    },
-    {
-      "id": "mkt:01a05fc0-7599-7118-844c-d72dbadead0c",
-      "time": "2026-09-02 09:34:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Takata said he sees 2026 as the start of a new phase, in which rate increases would not follow a fixed pace."
-    },
-    {
-      "id": "5072047",
-      "time": "2026-09-02 09:33:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：認為2026年標誌著一個新階段的開始，屆時加息將不會以固定步伐進行。"
-    },
-    {
-      "id": "em:jjsj_ozsj:202609023862434352",
-      "time": "2026-09-02 09:33:47",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "【澳大利亞第二季度GDP同比增長2.1%】澳大利亞第二季度GDP同比增長2.1%，預期為1.8%，前值為2.50%；澳大利亞第二季度GDP環比增長0.4%，預期為0.3%，前值為0.30%。"
-    },
-    {
-      "id": "5072046",
-      "time": "2026-09-02 09:33:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：中東壓力或將價格推高至目標以上。"
-    },
-    {
-      "id": "5072045",
-      "time": "2026-09-02 09:33:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報7645.00點。"
-    },
-    {
-      "id": "mkt:01a05fbf-e1a9-7118-844c-cff91208e326",
-      "time": "2026-09-02 09:33:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "09866.HK",
-        "Impact bearish"
-      ],
-      "text": "NIO-SW (09866.HK) has fallen for consecutive sessions and is currently down more than 5%."
-    },
-    {
-      "id": "mkt:01a05fbf-adc4-7118-844c-c36708447d94",
-      "time": "2026-09-02 09:33:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Takata said the BOJ needs to flexibly raise interest rates after assessing the buffer capacity of domestic financial conditions and reviewing overseas developments."
-    },
-    {
-      "id": "5072044",
-      "time": "2026-09-02 09:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞三年期國債收益率上升10個基點至4.82%。"
-    },
-    {
-      "id": "5072043",
-      "time": "2026-09-02 09:33:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：需要採取靈活的政策策略。"
-    },
-    {
-      "id": "5072042",
-      "time": "2026-09-02 09:32:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.00%，現報3325.546點；上證指數跌0.65%，現報3954.192點；深證成指跌1.45%，現報13671.049點。"
     }
   ]
 }

@@ -1,7 +1,263 @@
 {
   "date": "2026-09-09",
-  "count": 760,
+  "count": 786,
   "items": [
+    {
+      "id": "mkt:01a083ce-480c-7118-84f8-f383ae38e9b9",
+      "time": "2026-09-09 09:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NBS: electronic circuit manufacturing prices +3.5% MoM; VR equipment +1.9%】The National Bureau of Statistics said on a MoM basis industrial transformation and upgrading lifted demand and prices as new growth drivers accelerated and the intelligence and green content of industry rose. Electronic circuit manufacturing prices were up 3.5% MoM, virtual reality equipment manufacturing up 1.9%, service-consumption robot manufacturing up 0.3%; biomass fuel processing and comprehensive utilization of waste resources each rose 0.3%."
+    },
+    {
+      "id": "5083985",
+      "time": "2026-09-09 09:35:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊走低，出版傳媒跌停】文化傳媒板塊走低，出版傳媒跌停，三人行、中信出版、讀客文化、中國出版紛紛走低。"
+    },
+    {
+      "id": "mkt:01a083ce-06fe-7118-84f8-eff8bfd7bb0c",
+      "time": "2026-09-09 09:35:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share alternative sweetener sector extended gains; Yasheng Group recorded a fifth consecutive daily limit-up, COFCO Technology and Hongmian posted second straight limit-ups, Huakang hit the daily limit, and Baolingbao and Huazi Industrial also rose."
+    },
+    {
+      "id": "5083984",
+      "time": "2026-09-09 09:35:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊持續走強，大港股份漲停】半導體板塊持續走強，大港股份漲停，和林微納、優迅股份、芯原股份、鍇威特、海光資訊、先鋒精科等跟漲。"
+    },
+    {
+      "id": "mkt:01a083cd-cea8-7118-84f8-e76c78b610d5",
+      "time": "2026-09-09 09:34:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【China PPI MoM turns from -0.7% to +0.4% as input costs lift industrial prices】The National Bureau of Statistics said China’s PPI shifted from a 0.7% MoM decline last month to a 0.4% MoM increase. Imported input costs — notably higher international crude oil and non‑ferrous metal prices — pushed up domestic sector prices: oil extraction +10.4% MoM, refined petroleum products manufacturing +4.1%, organic chemical raw materials manufacturing +0.9%, and non‑ferrous metal smelting and rolling +0.8%. Those four industries together contributed roughly 0.31 percentage points to the PPI MoM rise."
+    },
+    {
+      "id": "te:markets:582197",
+      "time": "2026-09-09 09:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "SSE Commodity Index Hits 8-week Low — SSE Commodity Index decreased to 6997.00 Index Points, the lowest since July 2026. Over the past 4 weeks, SSE Consume Commodity Index lost 7.61%, and in the last 12 months, it decreased 22.31%."
+    },
+    {
+      "id": "5083983",
+      "time": "2026-09-09 09:34:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報9858.00元。"
+    },
+    {
+      "id": "te:economy:582196",
+      "time": "2026-09-09 09:34:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Inflation Above Forecasts — China’s producer inflation accelerated to 3.8% yoy in August 2026, up from July’s three-month low of 3.5% and surpassing market estimates of 3.7%. On a monthly basis, producer prices rose 0.4%, recovering from a 0.7% drop in July. In the first eight months of the year, producer prices rose 2.0%, faster than the 1.8% gain in the previous period."
+    },
+    {
+      "id": "5083982",
+      "time": "2026-09-09 09:34:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【糧食概念板塊衝高，亞盛集團、中糧科技漲停】糧食概念板塊衝高，亞盛集團、中糧科技漲停，敦煌種業、克明食品、輝豐股份、國投豐樂、新賽股份跟漲。"
+    },
+    {
+      "id": "te:economy:582195",
+      "time": "2026-09-09 09:34:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "China Inflation Rate Accelerates as Expected — China’s annual inflation accelerated to 0.8% in August 2026 from July's six-month low of 0.5%, in line with market expectations. Monthly, consumer prices increased 0.4%, topping forecasts of a 0.3% gain and reversing a 0.1% drop in July. It also marked the highest monthly reading since February."
+    },
+    {
+      "id": "5083981",
+      "time": "2026-09-09 09:34:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內跌0.42%。"
+    },
+    {
+      "id": "5083980",
+      "time": "2026-09-09 09:34:15",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：全國CPI同比上漲0.8% 主要是受能源價格漲幅擴大影響】國家統計局表示，從同比看，全國CPI上漲0.8%，漲幅比上月擴大0.3個百分點，主要是受能源價格漲幅擴大影響。能源價格漲幅由上月的0.6%擴大至本月的4.1%，影響CPI同比上漲約0.28個百分點，對CPI的上拉影響比上月增加約0.24個百分點。其中，汽油價格上漲9.3%，漲幅擴大8.3個百分點。（國家統計局）"
+    },
+    {
+      "id": "mkt:01a083cd-1581-7118-84f8-dfbc6bdc8d12",
+      "time": "2026-09-09 09:34:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【NBS: China CPI up 0.8% YoY as energy gains widen】The National Bureau of Statistics said China’s CPI rose 0.8% YoY, 0.3 percentage points higher than last month, mainly due to larger energy price increases. Energy inflation rose from 0.6% to 4.1%, adding about 0.28 percentage points to CPI YoY—roughly 0.24 ppt more than the prior month. Gasoline prices jumped 9.3%, with the rise widening 8.3 ppt."
+    },
+    {
+      "id": "mkt:01a083cc-5976-7118-84f8-d7f89fda5f03",
+      "time": "2026-09-09 09:33:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China NBS: Pork prices up 1.3% MoM in August】China's National Bureau of Statistics said on a MoM basis in August fresh vegetable prices rose 5.5% (widening 4.2 ppt from July) after hot, rainy weather and seasonal replanting; egg prices swung from -2.1% to +2.4% MoM as summer laying-hen downtime reduced supply; pork rose 1.3% MoM amid fewer hog slaughters. The three items together pushed CPI MoM up about 0.12 percentage point."
+    },
+    {
+      "id": "5083979",
+      "time": "2026-09-09 09:33:20",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：豬肉價格8月環比上漲1.3%】國家統計局：從環比看，食品中，受高溫多雨天氣以及應季蔬菜換茬等影響，鮮菜價格上漲5.5%，漲幅比上月擴大4.2個百分點；受蛋雞夏季歇伏、生豬出欄減少等因素影響，雞蛋價格由上月下降2.1%轉為上漲2.4%，豬肉價格上漲1.3%；上述三項合計影響CPI環比上漲約0.12個百分點。（國家統計局）"
+    },
+    {
+      "id": "mkt:01a083cc-29b0-7118-84f8-cb09ee27413b",
+      "time": "2026-09-09 09:33:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened 3.37 points higher (+0.09%) at 3,943.92 on Wednesday Sept. 9. China's Shenzhen Composite Index opened 85.73 points higher (+0.63%) at 13,788.94. China's ChiNext Index opened 38.51 points higher (+1.15%) at 3,398.22. China's STAR 50 Index opened 17.20 points higher (+1.08%) at 1,608.20."
+    },
+    {
+      "id": "5083978",
+      "time": "2026-09-09 09:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：有色金屬材料及電線類價格上漲19.8%】國家統計局資料顯示，工業生產者購進價格中，有色金屬材料及電線類價格上漲19.8%，燃料動力類價格上漲9.8%，化工原料類價格上漲9.5%，紡織原料類價格上漲3.8%，黑色金屬材料類價格上漲0.3%；建築材料及非金屬類價格下降3.2%，農副產品類價格下降0.5%。"
+    },
+    {
+      "id": "5083977",
+      "time": "2026-09-09 09:32:49",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "國家統計局：從環比看，受算力需求快速增長等因素影響，行動電話機、平板電腦、資料儲存裝置價格分別上漲2.3%、2.1%和2.1%，合計拉動CPI上漲約0.03個百分點。"
+    },
+    {
+      "id": "mkt:01a083cb-c4ea-7118-84f8-c23870c96281",
+      "time": "2026-09-09 09:32:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Bureau of Statistics said on a MoM basis that, driven by rapid growth in computing-power demand, prices of mobile phones, tablets and data-storage devices rose 2.3%, 2.1% and 2.1% respectively, collectively adding about 0.03 percentage point to CPI."
+    },
+    {
+      "id": "mkt:01a083cb-6788-7118-84f8-bd9bbc824d06",
+      "time": "2026-09-09 09:32:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "HSTECH",
+        "Impact bullish",
+        "HSCEI"
+      ],
+      "text": "HSI opened down 25.46 pts (-0.10%) at 25,291.72 on Sept 9. Hang Seng Tech Index opened up 4.42 pts (+0.10%) at 4,459.27. Hang Seng China Enterprises Index (HSCEI) opened down 13.08 pts (-0.16%) at 8,384.24. Red-chip index opened up 0.13 pts (0.00%) at 4,237.47."
+    },
+    {
+      "id": "mkt:01a083cb-35cd-7118-84f8-b071c3e0cef1",
+      "time": "2026-09-09 09:32:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share CPO sector rose in early trade; Benchuan Intelligent jumped over 12%, Huagong Technology hit the daily limit, and Tianyang New Materials, Yangtze Optical Fibre & Cable (YOFC) and Youxun Co. also advanced."
+    },
+    {
+      "id": "mkt:01a083cb-2c26-7118-84f8-a963fcc37572",
+      "time": "2026-09-09 09:32:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump will speak at the Republican National Committee midterm convention on Wednesday at 9:15 p.m. ET (Thursday 09:15 Beijing time)."
+    },
+    {
+      "id": "5083976",
+      "time": "2026-09-09 09:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念盤初走強，華工科技漲停】CPO概念盤初走強，華工科技漲停，德科立、蘅東光、光庫科技、新易盛、長芯博創、天孚通訊等跟漲。"
+    },
+    {
+      "id": "5083975",
+      "time": "2026-09-09 09:31:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長飛光纖光纜港股漲超13%】長飛光纖光纜港股漲13.26%，報193.40港元。隔夜美股光通訊板塊大漲，Lumentum漲超11%，康寧漲超7%，Coherent漲超7%。"
+    },
+    {
+      "id": "5083974",
+      "time": "2026-09-09 09:31:45",
+      "tags": [],
+      "text": "【國家統計局：8月份居民消費價格同比上漲0.8％】國家統計局：8月份，受國際市場價格變動、食品價格季節性上漲等因素影響，居民消費價格指數（CPI）環比由上月下降0.1％轉為上漲0.4％，同比漲幅回升至0.8％；扣除食品和能源價格的核心CPI同比漲幅回升至1.0％。"
+    },
     {
       "id": "mkt:01a083ca-c9e8-7118-84f8-a7d66e75095c",
       "time": "2026-09-09 09:31:40",
@@ -230,6 +486,15 @@
         "市場"
       ],
       "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.46%， 中證500指數期貨連續漲0.45%， 上證50指數期貨連續漲0.21%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093868929083",
+      "time": "2026-09-09 09:30:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：8月CPI同比上漲0.8% PPI同比上漲3.8%】2026年8月份，全國居民消費價格同比上漲0.8%。其中，城市上漲0.8%，農村上漲0.7%；食品價格下降1.4%，非食品價格上漲1.2%；消費品價格上漲0.8%，服務價格上漲0.8%。1—8月平均，全國居民消費價格比上年同期上漲0.9%。2026年8月份，全國工業生產者出廠價格同比上漲3.8%，環比上漲0.4%。工業生產者購進價格同比上漲5.8%，環比上漲0.3%。1—8月平均，工業生產者出廠價格比上年同期上漲2.0%，工業生產者購進價格上漲3.2%。"
     },
     {
       "id": "5083962",
