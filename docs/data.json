@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-10 02:55:43",
-  "count": 13569,
+  "updated": "2026-09-10 02:59:41",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a08789-5675-7118-8510-30e38bba3877",
+      "time": "2026-09-10 02:58:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reports Pakistan's ambassador to Russia said that despite recent regional tensions he believes the US and Iran will reach a better consensus soon."
+    },
+    {
+      "id": "mkt:01a08788-03b5-7118-8510-2f419350bcfa",
+      "time": "2026-09-10 02:57:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian military said it struck natural gas facilities in Russia's Siberia, targets about 3,000 km from Ukraine; President Zelenskiy praised the attacks."
+    },
+    {
+      "id": "5085700",
+      "time": "2026-09-10 02:56:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，其打擊了位於俄羅斯境內、距離 3000 公里的西伯利亞天然氣設施，澤連斯基對此次襲擊表示讚許。"
+    },
+    {
+      "id": "mkt:01a08787-0a2b-7118-8510-21a465881433",
+      "time": "2026-09-10 02:56:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent and U.S. crude futures settled at their highest levels since May 22."
+    },
     {
       "id": "mkt:01a08784-d0f2-7118-8510-180f68db6ba3",
       "time": "2026-09-10 02:53:43",
@@ -123906,14 +123951,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.48%，報25375.08點，高水63.87點。"
-    },
-    {
-      "id": "5073929",
-      "time": "2026-09-03 02:58:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通投行聯席負責人：併購交易業務有望迎來創紀錄年份。"
     }
   ]
 }
