@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-10 04:40:43",
-  "count": 13541,
+  "updated": "2026-09-10 04:44:46",
+  "count": 13534,
   "items": [
+    {
+      "id": "te:markets:582506",
+      "time": "2026-09-10 04:42:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips on Political Risks and Inflation Fears — The Ibovespa fell 0.9% to close at 185,629 on Wednesday amid renewed political risks in Brazil and escalating Middle East hostilities. Supreme Court Justice Flávio Dino ordered the reinstatement of Federal Police chief Andrei Rodrigues, granting an emergency request a day after Justice André Mendonça mandated his removal. Mendonça, who is overseeing a sprawling fraud investigation into failed lender Banco Master, had accused the Federal Police of illegally surveilling him and other public officials. The crisis reflects Brazil’s wider political polarization ahead of the October presidential election. Meanwhile, intensifying Middle East hostilities pushed oil prices higher, rekindling inflation fears. Major banks posted losses, with Itaú down 2% and Bradesco losing 2.4%. Utilities also closed lower, with Axia down 1.9%. WEG (-1.8%) and Ambev (-1.5%) also weighed on the index. Petrobras rose 0.7% on higher oil prices."
+    },
+    {
+      "id": "5085821",
+      "time": "2026-09-10 04:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我現在並且仍然對取締德國選擇黨的程式能否成功持懷疑態度。我們當然可以反覆對此進行審查，但在我看來，這件事的門檻非常高。我也不相信取締該政黨就能解決其德國選民所關心的那些問題。"
+    },
     {
       "id": "5085820",
       "time": "2026-09-10 04:38:40",
@@ -123598,90 +123618,6 @@
         "國際"
       ],
       "text": "美國商務部長盧特尼克：美國不會進一步放寬出口管制。"
-    },
-    {
-      "id": "5074011",
-      "time": "2026-09-03 04:43:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "慧與CEO：預計伺服器需求將維持異常高位，慧與的潛在訂單規模仍數倍於現有待交付訂單。"
-    },
-    {
-      "id": "5074010",
-      "time": "2026-09-03 04:43:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國芝加哥商業交易所集團（CME Group）：美國天然氣期貨流通合約創歷史新高。9月1日當天，基準Henery Hub天然氣期貨未平倉合約達到180.7萬手，突破2024年11月所創歷史最高記錄180.1萬手合約。"
-    },
-    {
-      "id": "te:markets:580586",
-      "time": "2026-09-03 04:43:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Jumps to Near Four-Month High — The Ibovespa jumped 3% to close at 185,205 on Wednesday, nearing a four-month high after a new election poll showed President Lula and Senator Flávio Bolsonaro in a technical tie. Both candidates recorded 42% and 41% of voting intentions, respectively, in a potential runoff. Markets view Bolsonaro as more fiscally restrictive amid elevated yields and weak business activity. Bond yields fell after GDP data showed a contraction in consumer spending, while industrial production rebounded less than expected. Financials rallied, with Banco do Brasil up 4.9% and Itaú 3.8%. B3 gained 3.8% after tax assessments totaling R$2.2 billion were canceled. Utilities also gained, Axia rose 3.4% and Sabesp 4.2%. Vale gained 3.2% despite lower iron ore prices, while Petrobras added 2.8% as oil rebounded. Magazine Luiza jumped 16.9% on a Mercado Livre partnership, while Azzas surged 11.3% after agreeing to split its businesses into two listed companies."
-    },
-    {
-      "id": "5074009",
-      "time": "2026-09-03 04:42:58",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲主席佈雷曼：部分企業在定價方面表現出剋制。"
-    },
-    {
-      "id": "mkt:01a063dc-3df8-7118-846d-f72bb7d4c10e",
-      "time": "2026-09-03 04:42:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ chair Breman said he does not want opportunistic price manipulation to occur."
-    },
-    {
-      "id": "mkt:01a063db-8e6b-7118-846d-ef4b53146846",
-      "time": "2026-09-03 04:42:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) revised its fiscal 2027 first-quarter outlook and now expects Microsoft 365 Commercial cloud revenue to grow about 17% YoY on a constant-currency basis."
-    },
-    {
-      "id": "5074008",
-      "time": "2026-09-03 04:42:02",
-      "tags": [
-        "央行"
-      ],
-      "text": "紐西蘭聯儲主席佈雷曼：不希望出現投機性定價行為。"
-    },
-    {
-      "id": "mkt:01a063da-5bc3-7118-846d-e475b5af8a18",
-      "time": "2026-09-03 04:40:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Attorney General Branch said the Justice Department is working with X to track cybercriminals who this week attempted to target hundreds of thousands of X users."
-    },
-    {
-      "id": "5074007",
-      "time": "2026-09-03 04:40:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "慧與CEO：供應受限持續影響慧與滿足客戶增長需求的能力。"
     }
   ]
 }

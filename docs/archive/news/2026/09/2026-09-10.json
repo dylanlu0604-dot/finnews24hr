@@ -1,7 +1,27 @@
 {
   "date": "2026-09-10",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "te:markets:582506",
+      "time": "2026-09-10 04:42:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips on Political Risks and Inflation Fears — The Ibovespa fell 0.9% to close at 185,629 on Wednesday amid renewed political risks in Brazil and escalating Middle East hostilities. Supreme Court Justice Flávio Dino ordered the reinstatement of Federal Police chief Andrei Rodrigues, granting an emergency request a day after Justice André Mendonça mandated his removal. Mendonça, who is overseeing a sprawling fraud investigation into failed lender Banco Master, had accused the Federal Police of illegally surveilling him and other public officials. The crisis reflects Brazil’s wider political polarization ahead of the October presidential election. Meanwhile, intensifying Middle East hostilities pushed oil prices higher, rekindling inflation fears. Major banks posted losses, with Itaú down 2% and Bradesco losing 2.4%. Utilities also closed lower, with Axia down 1.9%. WEG (-1.8%) and Ambev (-1.5%) also weighed on the index. Petrobras rose 0.7% on higher oil prices."
+    },
+    {
+      "id": "5085821",
+      "time": "2026-09-10 04:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我現在並且仍然對取締德國選擇黨的程式能否成功持懷疑態度。我們當然可以反覆對此進行審查，但在我看來，這件事的門檻非常高。我也不相信取締該政黨就能解決其德國選民所關心的那些問題。"
+    },
     {
       "id": "5085820",
       "time": "2026-09-10 04:38:40",
