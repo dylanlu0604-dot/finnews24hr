@@ -1,7 +1,136 @@
 {
   "date": "2026-09-09",
-  "count": 867,
+  "count": 880,
   "items": [
+    {
+      "id": "5084033",
+      "time": "2026-09-09 10:07:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行會議紀要：經濟不確定性加劇，保有政策空間仍至關重要。"
+    },
+    {
+      "id": "mkt:01a083ea-e9fd-7118-84fa-27beb598c9d5",
+      "time": "2026-09-09 10:06:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT minutes: further monetary easing outside of crisis conditions is likely to deliver limited additional benefits."
+    },
+    {
+      "id": "5084032",
+      "time": "2026-09-09 10:05:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅箔/覆銅板概念持續走強，華正新材漲停】銅箔/覆銅板概念持續走強，華正新材漲停，逸豪新材、海星股份、北方銅業、南亞新材、方邦股份、同宇新材等跟漲。"
+    },
+    {
+      "id": "mkt:01a083e9-c9f8-7118-84fa-1e64749ca0b0",
+      "time": "2026-09-09 10:05:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "BOT meeting minutes: monetary policy should remain accommodative."
+    },
+    {
+      "id": "5084031",
+      "time": "2026-09-09 10:05:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行會議紀要：貨幣政策應維持寬鬆。"
+    },
+    {
+      "id": "mkt:01a083e9-8a75-7118-84fa-15ee289f7945",
+      "time": "2026-09-09 10:05:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China releases 11 new occupations, 23 new job types】China's Ministry of Human Resources and Social Security and other agencies on Sept 9 released 11 new occupations and 23 new job types and adjusted six existing occupations, including agricultural product broker. New occupations include ship shore-based management engineering technicians, embodied-intelligence robot application technicians and sports data analysts; new job types include community workers, low-altitude logistics operators and retrofit designers for elder-friendly modifications. The release contains five digital occupations and three green occupations, raising China's cumulative totals to 113 digital occupations and 142 green occupations. Modern services entries cited include sustainable development planner, airport airspace inspection officer, intelligent agent developer, incense artisan, smart furniture installer and fresh-cut flower processor. Since 2019 China has issued eight batches totalling 121 new occupations."
+    },
+    {
+      "id": "mkt:01a083e9-803e-7118-84fa-0d6ed475f57e",
+      "time": "2026-09-09 10:05:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "EWZ.O",
+        "Impact bullish"
+      ],
+      "text": "Morning trade: E Fund's Brazil ETF rose as much as 6%, Hua Xia's Brazil ETF gained over 3%, leading ETF-market advances. São Paulo's Ibovespa has climbed 12.64% since Aug. 19."
+    },
+    {
+      "id": "mkt:01a083e8-c3ba-7118-84fa-03d9f902f4c5",
+      "time": "2026-09-09 10:04:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-shares non-metallic materials sector rose after volatile trading; Sanxiang New Materials hit the daily limit, with Liliang Diamond, Lianrui New Materials, Jingge New Materials, Shiying Co. and Ping An Electric also higher."
+    },
+    {
+      "id": "5084030",
+      "time": "2026-09-09 10:04:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行會議紀要顯示：2026年第二季度銀行體系整體貸款規模同比增長2.0%。"
+    },
+    {
+      "id": "5084029",
+      "time": "2026-09-09 10:04:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行會議紀要：泰國貸款質量整體保持穩定。"
+    },
+    {
+      "id": "mkt:01a083e8-534e-7118-84f9-f9951346bc6d",
+      "time": "2026-09-09 10:03:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BOT meeting minutes said the Thai baht moved in line with regional peers."
+    },
+    {
+      "id": "mkt:01a083e8-058e-7118-84f9-f0eff802e7b0",
+      "time": "2026-09-09 10:03:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares rent-sale parity sector pulled back; Wo Ai Wo Jia fell over 8%, Shilianhang fell over 4%, while Huafa, Sanxiang Impression, Chengtou Holdings, Shibei Gaoxin and Binjiang Group also declined."
+    },
+    {
+      "id": "5084028",
+      "time": "2026-09-09 10:03:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業銀行新疆維吾爾自治區分行原副行長劉喜文接受審查調查】中央紀委國家監委網站9月9日通報，據中央紀委國家監委駐中國農業銀行紀檢監察組、山東省紀委監委訊息：中國農業銀行新疆維吾爾自治區分行原黨委委員、副行長劉喜文涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業銀行紀檢監察組紀律審查和山東省菏澤市監委監察調查。"
+    },
     {
       "id": "5084027",
       "time": "2026-09-09 10:03:11",
