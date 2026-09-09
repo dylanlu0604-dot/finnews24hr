@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-09 22:42:11",
-  "count": 13648,
+  "updated": "2026-09-09 22:46:29",
+  "count": 13635,
   "items": [
+    {
+      "id": "5085500",
+      "time": "2026-09-09 22:43:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "費埃哲公司股價上漲高達4.3%，創盤中新高。"
+    },
+    {
+      "id": "mkt:01a0869f-093c-7118-850a-857b480a83ab",
+      "time": "2026-09-09 22:42:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME three‑month copper hit a fresh high at $14,782/ton, up 0.5% on the day."
+    },
+    {
+      "id": "5085499",
+      "time": "2026-09-09 22:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所三個月期銅<CMCU3>升至每噸14782美元的歷史新高，最新漲幅為0.5%。"
+    },
+    {
+      "id": "5085498",
+      "time": "2026-09-09 22:42:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摺疊屏iPhone起售價或超14000元】根據美銀證券機構預測，全新摺疊屏iPhone起售價將達2099美元，摺合人民幣約14080元，直接登頂史上最貴iPhone。常規Pro系列機型同樣迎來大幅調價，單臺漲幅在150至200美元區間，是近幾年iPhone Pro系列最大漲價幅度。本次釋出會還將亮相多款全新產品，同時推送iOS27正式版系統。業內人士分析，本輪儲存晶片價格大幅上漲壓力空前，蘋果只能透過供應鏈最佳化疊加產品漲價的方式，對沖、分攤硬體成本壓力，抵消部分漲價帶來的經營壓力。（央視財經）"
+    },
     {
       "id": "5085497",
       "time": "2026-09-09 22:41:19",
@@ -124295,175 +124332,6 @@
         "國際"
       ],
       "text": "麥克勒姆：通脹面臨的更大問題在於中東局勢，油價將維持高位多久以及會攀升至何種程度。"
-    },
-    {
-      "id": "5073685",
-      "time": "2026-09-02 22:45:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥克勒姆：能源價格高企加劇通脹風險。"
-    },
-    {
-      "id": "5073684",
-      "time": "2026-09-02 22:45:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：優步將停止在奈及利亞的運營。"
-    },
-    {
-      "id": "5073683",
-      "time": "2026-09-02 22:45:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥克勒姆：加拿大反制關稅對通脹的影響不大。"
-    },
-    {
-      "id": "5073682",
-      "time": "2026-09-02 22:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：美國東海岸餾分油庫存上週降至歷史低位。"
-    },
-    {
-      "id": "mkt:01a06294-c7fd-7118-8466-fe012d40cb3c",
-      "time": "2026-09-02 22:45:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. East Coast distillate inventories fell last week to their lowest on record."
-    },
-    {
-      "id": "mkt:01a06294-5fc1-7118-8466-f393875be3de",
-      "time": "2026-09-02 22:44:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC Governor MACKLEM said inf data will guide policy decisions."
-    },
-    {
-      "id": "mkt:01a06294-2748-7118-8466-ec571008ae84",
-      "time": "2026-09-02 22:44:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "BOC Governor Macklem said elevated energy prices are intensifying spillover risks."
-    },
-    {
-      "id": "te:markets:580527",
-      "time": "2026-09-02 22:44:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Holds Near 3-Year Peak — Wheat traded near $7.65 per bushel, holding near the highest level since early February 2023 as Russia-Ukraine tensions continue to escalate. The market remains affected by growing sensitivity to war-risk premiums and speculative positionings following soaring prices due to persistent attacks from Ukraine and Russia, who account for more than a quarter of global exports, on commercial vessels that continue to threaten global supplies. Additionally, Russia has suspended the floating export duty on wheat through the end of 2026, as its wheat exports fell more than 50% in August compared to last year, and while able to use its Baltic port, limited capacity remains a long-term issue. Ukraine's wheat exports also fell substantially, by 34% year-to-date, while the UAC expects further disruptions on its ports. Turkey's president stated a mechanism was needed to permanently ensure the safety of maritime transit, while Russia's foreign minister stated he was no grounds for such a deal."
-    },
-    {
-      "id": "mkt:01a06293-d897-7118-8466-e542e253cff5",
-      "time": "2026-09-02 22:44:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Bank of Canada governor Macklem said there is no clear solution yet to the Middle East conflict."
-    },
-    {
-      "id": "mkt:01a06293-cbb9-7118-8466-dc3a6c52d665",
-      "time": "2026-09-02 22:44:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "International Brotherhood of Teamsters said Amazon (AMZN.O) truck drivers' union launched a one-day unfair labor practice strike at the DJT6 Riverside facility."
-    },
-    {
-      "id": "te:markets:580526",
-      "time": "2026-09-02 22:44:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AT&T Stock Price Hits 17-week High — AT&T shares increased to 26.35 USD, the highest since May 2026. Over the past 4 weeks, AT&T gained 11.62%, and in the last 12 months, it decreased 9.33%."
-    },
-    {
-      "id": "mkt:01a06293-020d-7118-8466-d10ab6af0c9f",
-      "time": "2026-09-02 22:43:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC Governor Macklem said risks are changing and the bank is prepared to adjust monetary policy as needed."
-    },
-    {
-      "id": "5073681",
-      "time": "2026-09-02 22:43:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥克勒姆：風險正在變化，我們準備根據需要調整貨幣政策。"
-    },
-    {
-      "id": "mkt:01a06292-c4a7-7118-8466-ca7da55f6fec",
-      "time": "2026-09-02 22:43:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "EU foreign policy chief says there is broad support for an EU entry visa ban targeting former Russian combatants and for tougher visa restrictions on Russian tourists."
-    },
-    {
-      "id": "mkt:01a06292-37ca-7118-8466-c095cf46ab32",
-      "time": "2026-09-02 22:42:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC Governor Macklem said inflation is mainly concentrated in gasoline and oil prices."
-    },
-    {
-      "id": "5073680",
-      "time": "2026-09-02 22:42:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥克勒姆：通脹高度集中於汽油和石油價格。"
-    },
-    {
-      "id": "mkt:01a06292-003b-7118-8466-bf085c9d45fe",
-      "time": "2026-09-02 22:42:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Canada Governor Macklem said inflation is too high."
     }
   ]
 }
