@@ -1,7 +1,64 @@
 {
   "date": "2026-09-09",
-  "count": 2385,
+  "count": 2391,
   "items": [
+    {
+      "id": "5085538",
+      "time": "2026-09-09 23:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥 8 月正規就業崗位新增 3.83 萬個。"
+    },
+    {
+      "id": "5085537",
+      "time": "2026-09-09 23:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新羅西斯克糧食碼頭在無人機襲擊中受損。"
+    },
+    {
+      "id": "mkt:01a086be-698a-7118-850b-13849e480953",
+      "time": "2026-09-09 23:17:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Novorossiysk grain terminal damaged in drone attack."
+    },
+    {
+      "id": "mkt:01a086be-03b3-7118-850b-0e51d2bda2d0",
+      "time": "2026-09-09 23:16:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【EU draft to slow carbon-market emissions cuts】A draft by European Parliament rapporteur Peter Liese, due Friday, would smooth ETS reductions over the next decade, cutting the emissions cap by 3.4% annually in the early 2030s versus the European Commission's 3.7% proposal, and applying a 2.3% linear reduction factor in the later period compared with the Commission's 1.7% target for 2036. The adjustment would ease near-term pressure on weak European industry; high-emission producers such as chemicals warn that higher decarbonisation costs weaken EU competitiveness with the US and could prompt plant closures."
+    },
+    {
+      "id": "mkt:01a086bc-fa76-7118-850b-035fa7c4a8f7",
+      "time": "2026-09-09 23:15:26",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. long-dated swap spreads pared gains after an adjustment to the Treasury repo program."
+    },
+    {
+      "id": "5085536",
+      "time": "2026-09-09 23:14:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率繼續上行至 4.8507%，創 2023 年 11 月以來新高。"
+    },
     {
       "id": "te:economy:582468",
       "time": "2026-09-09 23:13:26",

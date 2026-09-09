@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-09 23:14:41",
-  "count": 13612,
+  "updated": "2026-09-09 23:18:41",
+  "count": 13609,
   "items": [
+    {
+      "id": "5085538",
+      "time": "2026-09-09 23:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥 8 月正規就業崗位新增 3.83 萬個。"
+    },
+    {
+      "id": "5085537",
+      "time": "2026-09-09 23:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新羅西斯克糧食碼頭在無人機襲擊中受損。"
+    },
+    {
+      "id": "mkt:01a086be-698a-7118-850b-13849e480953",
+      "time": "2026-09-09 23:17:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Novorossiysk grain terminal damaged in drone attack."
+    },
+    {
+      "id": "mkt:01a086be-03b3-7118-850b-0e51d2bda2d0",
+      "time": "2026-09-09 23:16:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【EU draft to slow carbon-market emissions cuts】A draft by European Parliament rapporteur Peter Liese, due Friday, would smooth ETS reductions over the next decade, cutting the emissions cap by 3.4% annually in the early 2030s versus the European Commission's 3.7% proposal, and applying a 2.3% linear reduction factor in the later period compared with the Commission's 1.7% target for 2036. The adjustment would ease near-term pressure on weak European industry; high-emission producers such as chemicals warn that higher decarbonisation costs weaken EU competitiveness with the US and could prompt plant closures."
+    },
+    {
+      "id": "mkt:01a086bc-fa76-7118-850b-035fa7c4a8f7",
+      "time": "2026-09-09 23:15:26",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. long-dated swap spreads pared gains after an adjustment to the Treasury repo program."
+    },
+    {
+      "id": "5085536",
+      "time": "2026-09-09 23:14:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率繼續上行至 4.8507%，創 2023 年 11 月以來新高。"
+    },
     {
       "id": "te:economy:582468",
       "time": "2026-09-09 23:13:26",
@@ -124057,83 +124114,6 @@
         "市場"
       ],
       "text": "倫敦金屬交易所（LME）三個月期鋁上漲至每噸3291美元，創8月13日以來新高，最新漲幅為0.2%。"
-    },
-    {
-      "id": "5073731",
-      "time": "2026-09-02 23:18:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：海外分行超容許限額的臨時透支若5日內未結清，將不再要求就該類透支進行申報。"
-    },
-    {
-      "id": "te:markets:580536",
-      "time": "2026-09-02 23:18:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Eases from Record High — Copper futures were at $6.5 per pound on Wednesday, holding most of the pullback from the record-high of $6.7 on August 25th, as macroeconomic headwinds momentarily offset the impact of supply shortages. Long-term bond yields surged as energy prices rebounded and markets took heed of widening public deficits, hurting the outlook for broad manufacturing and driving base metal price to ease. Still, fresh escalation to the war in the Middle East prolonged pressure on global supply of sulfuric acid, triggering shortages of the key material for copper refiners. This was magnified by lingering concerns that the US presidential administration is could impose tariffs on unprocessed copper goods triggered a surge in buying to front-load deliveries. Consequently, backwardation curves steepened both in major Western copper exchanges."
-    },
-    {
-      "id": "mkt:01a062b2-bbf7-7118-8467-ff8daa73275a",
-      "time": "2026-09-02 23:17:55",
-      "tags": [
-        "MKT News",
-        "DAL.O"
-      ],
-      "text": "Delta Air Lines said it will make matching donations for eligible employees' children equal to the $1,000 federal payment made to accounts linked to Trump."
-    },
-    {
-      "id": "5073730",
-      "time": "2026-09-02 23:17:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯會見義大利埃尼集團高管。"
-    },
-    {
-      "id": "5073729",
-      "time": "2026-09-02 23:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達漲超4%。"
-    },
-    {
-      "id": "5073728",
-      "time": "2026-09-02 23:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "達美航空：達美將按照聯邦政府向特朗普相關賬戶繳納的1000美元款項的金額，為符合條件的員工子女等額配捐。"
-    },
-    {
-      "id": "5073727",
-      "time": "2026-09-02 23:15:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧迪：馬丁·桑德接任銷售與營銷部門負責人。"
-    },
-    {
-      "id": "5073726",
-      "time": "2026-09-02 23:15:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧迪：馬爾科·舒伯特將出任大眾集團北美區域擴大管理委員會成員。"
-    },
-    {
-      "id": "mkt:01a062b0-41d5-7118-8467-f20110fa5c17",
-      "time": "2026-09-02 23:15:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Serbia to hold early parliamentary elections on Oct. 25】Serbian sources said on the 2nd (local time) that Serbia will hold early parliamentary elections on Oct. 25. President Vucic is expected to dissolve the National Assembly and formally call the vote within days."
     }
   ]
 }
