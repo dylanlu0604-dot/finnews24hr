@@ -1,7 +1,292 @@
 {
   "date": "2026-09-09",
-  "count": 1771,
+  "count": 1801,
   "items": [
+    {
+      "id": "mkt:01a085b4-9fcc-7118-8505-27f141caaafa",
+      "time": "2026-09-09 18:26:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Kremlin says Nord Stream pipeline can resume operations immediately."
+    },
+    {
+      "id": "mkt:01a085b4-77ea-7118-8505-1cc3d88243ce",
+      "time": "2026-09-09 18:26:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israel says it destroyed multiple Gaza weapons storage sites and a rocket launch site】The Israel Defense Forces (IDF) and Shin Bet said on the 9th that the IDF carried out airstrikes on the 8th in Gaza, destroying three weapons storage facilities used by Hamas and Palestinian Islamic Jihad (PIJ) and one rocket-launch site used to fire into Israel. The facilities held dozens of weapons and military items, including rockets and Kalashnikov rifles. The IDF said it had recently observed militants visiting the depots to use the weapons to bolster control and conduct operations in Gaza."
+    },
+    {
+      "id": "mkt:01a085b4-7085-7118-8505-12f15974681f",
+      "time": "2026-09-09 18:26:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin says prisoner swaps between Russia and the United States remain on the agenda."
+    },
+    {
+      "id": "mkt:01a085b4-545e-7118-8505-0a8c7b76bf87",
+      "time": "2026-09-09 18:26:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Kremlin says Europe faces a difficult situation and cannot replenish gas storage before winter."
+    },
+    {
+      "id": "mkt:01a085b4-3cd0-7118-8505-0437eeee4fd0",
+      "time": "2026-09-09 18:26:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iran says it will respond decisively to U.S. attacks】Iran’s foreign ministry condemned what it called U.S. attacks on Iranian tankers, saying U.S. actions threaten regional security and that U.S. vessels and bases have been subjected to defensive strikes; Tehran warned it will respond decisively to any U.S. military attack. An IRGC spokesman said no advanced technology can penetrate Iran’s multilayer surveillance in the Strait of Hormuz."
+    },
+    {
+      "id": "te:economy:582386",
+      "time": "2026-09-09 18:26:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Netherlands 10Y Bond Yield Hits 15-year High — Netherlands 10 Year Government Bond Yield increased to 3.49%, the highest since May 2011. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 20.51 basis points, and in the last 12 months, it increased 65.51 basis points."
+    },
+    {
+      "id": "mkt:01a085b4-34d2-7118-8504-f91092499693",
+      "time": "2026-09-09 18:26:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Kremlin said Europe is buying natural gas on spot markets at prices higher than Russian gas, harming its own interests."
+    },
+    {
+      "id": "5084948",
+      "time": "2026-09-09 18:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中重科技：常州津泓、沈惠萍擬減持公司不超過3%股份】中重科技公告，江蘇國茂一致行動人常州津泓、沈惠萍擬於2026年10月12日至2027年1月11日，透過集中競價和大宗交易方式合計減持不超過1902.77萬股，佔公司總股本的3%。其中，常州津泓擬減持不超過570.83萬股，佔0.90%；沈惠萍擬減持不超過1331.94萬股，佔2.10%。"
+    },
+    {
+      "id": "5084947",
+      "time": "2026-09-09 18:26:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄美之間的囚犯交換問題一直處於議程之中。希望由美國調解的與烏克蘭的談判能儘快重啟。不會公開討論和平協議的潛在內容。"
+    },
+    {
+      "id": "5084946",
+      "time": "2026-09-09 18:25:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：北溪管道可立即恢復輸氣運營。歐洲目前處境艱難，到冬季前將無法完成天然氣儲備補充。歐洲人在現貨市場以高於俄羅斯天然氣的價格採購天然氣，此舉正在損害自身利益。若歐洲從俄羅斯採購天然氣，可獲得更低價氣源。俄羅斯將對匈牙利驅逐10名俄羅斯外交官一事作出“適當”回應"
+    },
+    {
+      "id": "mkt:01a085b3-c474-7118-8504-f08ce6ce2100",
+      "time": "2026-09-09 18:25:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Russia has not discussed raising taxes."
+    },
+    {
+      "id": "mkt:01a085b3-b490-7118-8504-e8c4b4d6656c",
+      "time": "2026-09-09 18:25:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Kremlin says Russia will make an 'appropriate' response to Hungary's expulsion of 10 Russian diplomats."
+    },
+    {
+      "id": "mkt:01a085b3-8a0e-7118-8504-e2d8196aec0f",
+      "time": "2026-09-09 18:25:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said it hopes U.S.-mediated talks with Ukraine will resume soon."
+    },
+    {
+      "id": "5084945",
+      "time": "2026-09-09 18:25:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，不會公開討論和平協議的潛在內容。"
+    },
+    {
+      "id": "5084944",
+      "time": "2026-09-09 18:25:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱摧毀加沙多處武器儲存設施和火箭彈發射陣地】以色列國防軍和以色列國家安全總局（辛貝特）9日發表聯合宣告說，以軍8日在加沙地帶多處發動空襲，摧毀三處巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）的武器儲存設施，以及一處曾用於向以色列境內發射火箭彈的發射陣地。宣告說，上述武器儲存設施記憶體放有數十件不同型別的武器和軍事裝備，包括火箭彈和卡拉什尼科夫步槍等。以軍近期發現哈馬斯武裝人員前往這些武器儲存設施，使用其中的武器加強其在加沙地帶的控制並開展行動。宣告還說，以軍將繼續採取行動削弱加沙地帶武裝組織的能力，阻止其重建軍事能力或使用武器襲擊以軍人員。根據有關協議，以軍南方司令部部隊目前仍部署在加沙地帶相關地區。（新華社）"
+    },
+    {
+      "id": "mkt:01a085b3-6a61-7118-8504-df4388de2583",
+      "time": "2026-09-09 18:25:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Kremlin says Europe could pay less for natural gas if it buys from Russia."
+    },
+    {
+      "id": "mkt:01a085b3-5709-7118-8504-d0f8ea769720",
+      "time": "2026-09-09 18:25:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says it will not publicly discuss potential elements of a peace settlement."
+    },
+    {
+      "id": "mkt:01a085b3-3480-7118-8504-c93435ff1275",
+      "time": "2026-09-09 18:25:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) shares rose more than 4% in pre-market trading."
+    },
+    {
+      "id": "5084943",
+      "time": "2026-09-09 18:25:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空執行長奧萊利：英國國家空中交通服務局（NATS）告知我們，此次問題與2023年的故障成因相同，是一份錯誤飛行計劃中出現了重複的機場條目，進而導致系統崩潰。"
+    },
+    {
+      "id": "5084942",
+      "time": "2026-09-09 18:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空執行長奧萊利表示：這將造成250萬至300萬英鎊的直接損失，其中包括旅客照料權益及乘客賠償款項。"
+    },
+    {
+      "id": "5084941",
+      "time": "2026-09-09 18:24:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空執行長奧利裡：我們預計今日將有30架次航班取消。"
+    },
+    {
+      "id": "mkt:01a085b2-d02a-7118-8504-c17cda4d4021",
+      "time": "2026-09-09 18:24:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says no advanced technology can penetrate Strait of Hormuz surveillance】State news agency reported on the 9th that Islamic Revolutionary Guard Corps spokesman Muhibbi said on the evening of the 8th that no advanced technology can penetrate Iran's multi-layer surveillance system in the Strait of Hormuz. He said Iranian forces captured what he described as the US military's most advanced unmanned submersible earlier that day, saying the incident demonstrates Iran's multi-layer monitoring capability, and asserted control of the Persian Gulf rests with Iran's tech-savvy youth."
+    },
+    {
+      "id": "5084940",
+      "time": "2026-09-09 18:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱任何先進技術都無法突破其海峽監控體系】據伊朗學生通訊社9日報道，伊朗伊斯蘭革命衛隊發言人穆赫比8日晚表示，任何先進技術都無法突破伊朗在霍爾木茲海峽的多層監控體系。穆赫比說，伊方當天凌晨捕獲美軍最先進的無人潛航器，這顯示伊方具備對霍爾木茲海峽實施多層監控的能力，並稱“波斯灣的主導權屬於我們的科技青年”。伊朗伊斯蘭革命衛隊8日發表宣告稱，當天凌晨在霍爾木茲海峽入口處捕獲一艘美軍智慧無人潛航器。美軍中央司令部發言人蒂姆·霍金斯8日表示，伊朗所稱在霍爾木茲海峽捕獲的美軍無人潛航器一天多前就發生了“故障”，且未攜帶任何敏感資料或機密裝置。(新華社)"
+    },
+    {
+      "id": "5084939",
+      "time": "2026-09-09 18:24:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部宣告警告，美國的打擊行動將給該地區帶來局勢升級的後果。"
+    },
+    {
+      "id": "mkt:01a085b1-e2ef-7118-8504-b80953531fa4",
+      "time": "2026-09-09 18:23:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said it would respond decisively to any attack by the U.S. military."
+    },
+    {
+      "id": "5084938",
+      "time": "2026-09-09 18:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：9月9日回購15.25萬股H股股份】復星醫藥公告稱，公司於2026年9月9日透過香港聯交所回購152,500股H股普通股，佔回購前已發行股份（不含庫存股）的0.03%，每股回購價區間為17.16港元至17.26港元，回購總金額為262.98萬港元，所回購股份擬持作庫存股份。本次回購所用授權於2026年6月16日審議透過，授權可回購股份總數為5409.72萬股，截至本次回購完成累計已回購77.40萬股，佔授權透過日已發行股份（不含庫存股）的0.14%。本次回購後30天為新股發行及庫存股處置暫止期，至2026年10月9日。"
+    },
+    {
+      "id": "5084937",
+      "time": "2026-09-09 18:23:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗誓言對任何美國軍事襲擊作出“決定性”回應。"
+    },
+    {
+      "id": "mkt:01a085b1-58bd-7118-8504-b7712c08098a",
+      "time": "2026-09-09 18:23:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said US warships and bases were hit in defensive strikes."
+    },
+    {
+      "id": "5084936",
+      "time": "2026-09-09 18:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西新增 66 億雷亞爾信貸額度，用於燃料補貼。"
+    },
     {
       "id": "5084935",
       "time": "2026-09-09 18:22:38",
@@ -121,6 +406,15 @@
         "公司"
       ],
       "text": "【廣百股份：與關聯方廣百展貿簽訂合作經營協議】廣百股份公告稱，公司與控股股東嶺南集團控股子公司廣百展貿簽訂《合作經營協議》，就兩處合計7645.68平方米物業開展合作經營，合作期為2026年10月16日至2036年10月15日。公司委託廣百展貿經營管理上述物業，年基礎委託管理費360萬元、年基本運營費500萬元，合同期內兩項基礎費用合計8600萬元，另設超額提成機制。本次交易構成關聯交易，已經公司董事會審議透過，無需提交股東會審議，不構成重大資產重組。"
+    },
+    {
+      "id": "5084927",
+      "time": "2026-09-09 18:19:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【精藝股份：股價異動 無應披露未披露重大事項】精藝股份公告稱，公司股票於2026年9月8日、9月9日連續兩個交易日收盤價格漲幅累計偏離21.17%，屬於股票交易異常波動情形。經核查，公司前期披露資訊無需更正補充，未發現對股價有較大影響的未公開重大資訊，近期經營情況正常，公司及控股股東不存在應披露而未披露的重大事項，控股股東、實控人在異動期間未買賣公司股票。截至2026年9月9日，公司動態市盈率367.05倍、靜態市盈率-55.74倍，與同行業平均水平差異較大，股價存在下跌風險。公司主營業務為銅加工，銅價上漲將提高資金佔用成本，對經營不存在利好。"
     },
     {
       "id": "5084926",
