@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10 02:59:41",
-  "count": 13572,
+  "updated": "2026-09-10 03:04:07",
+  "count": 13573,
   "items": [
+    {
+      "id": "5085705",
+      "time": "2026-09-10 03:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：所有四起事件都發生在由同一評估合作方搭建的網路安全評估過程中。"
+    },
+    {
+      "id": "5085704",
+      "time": "2026-09-10 03:02:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：已與大都會鐵路公司（METR）簽署協議，將對克勞德（Claude）大模型安全事件展開獨立調查。"
+    },
+    {
+      "id": "5085703",
+      "time": "2026-09-10 03:01:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "人工智慧公司Anthropic：已確認一起發生於2026年1月的第四起安全事件，涉及Claude Opus 4.6的早期版本。我們已通知所有受影響方。"
+    },
+    {
+      "id": "mkt:01a0878c-4382-7118-8510-3d51d488afea",
+      "time": "2026-09-10 03:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures closed the night session down 0.89% at 24,982, trading 293 points below the cash index."
+    },
+    {
+      "id": "5085702",
+      "time": "2026-09-10 03:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼首席財務官稱郵輪持續售罄，儘管客房數量增加50%但運力利用率仍保持高位。"
+    },
+    {
+      "id": "5085701",
+      "time": "2026-09-10 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.90%，報24980.16點，低水294.80點。"
+    },
     {
       "id": "mkt:01a08789-5675-7118-8510-30e38bba3877",
       "time": "2026-09-10 02:58:39",
@@ -123906,51 +123958,6 @@
         "MKT News"
       ],
       "text": "US government backs OpenAI in copyright dispute with publishers, the Wall Street Journal reports."
-    },
-    {
-      "id": "mkt:01a06380-8a33-7118-846c-3fdca700170b",
-      "time": "2026-09-03 03:02:43",
-      "tags": [
-        "MKT News",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) launched Muse Spark 1.3 in Muse Code and the Meta Model API."
-    },
-    {
-      "id": "5073932",
-      "time": "2026-09-03 03:01:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱對伊朗的新一輪打擊不會“持續太久”】美國總統特朗普當地時間9月2日在白宮對記者表示，美國對伊朗的新一輪打擊行動不會“持續太久”。特朗普說，1日的襲擊“非常猛烈”，美方隨時準備再對伊朗進行一次打擊。美軍中央司令部1日在社交媒體釋出訊息說，美軍已完成對伊朗軍事目標的新一輪打擊，目標包括伊朗伊斯蘭革命衛隊的防空陣地、雷達系統、海事資產與設施、佈雷能力以及通訊站點。伊朗伊斯蘭革命衛隊1日宣佈已開始回應美方當天的襲擊，並稱擊落一架美軍MQ-9無人機。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a0637f-4360-7118-846c-3243468edb08",
-      "time": "2026-09-03 03:01:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.45% at 25,367, trading 56 points above the cash index."
-    },
-    {
-      "id": "5073931",
-      "time": "2026-09-03 03:00:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Thoma Bravo 旗下的 Proofpoint 正洽談收購 Varonis。"
-    },
-    {
-      "id": "5073930",
-      "time": "2026-09-03 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.48%，報25375.08點，高水63.87點。"
     }
   ]
 }
