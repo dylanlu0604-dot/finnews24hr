@@ -1,7 +1,66 @@
 {
-  "updated": "2026-09-09 13:47:13",
-  "count": 13663,
+  "updated": "2026-09-09 13:51:06",
+  "count": 13664,
   "items": [
+    {
+      "id": "mkt:01a084b7-746c-7118-84fe-4a801ddd194e",
+      "time": "2026-09-09 13:50:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The mayor of Novorossiysk, Russia, said a Ukrainian attack on the city killed four people."
+    },
+    {
+      "id": "mkt:01a084b7-2f2b-7118-84fe-4381e050c821",
+      "time": "2026-09-09 13:49:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan Justice Ministry says enforcement actions against the North Caspian Operating Company oil consortium are ongoing."
+    },
+    {
+      "id": "5084282",
+      "time": "2026-09-09 13:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽集團表態：堅決不造“速成車” 只下“笨功夫”】近日，廣汽集團對外表態，堅決不造“速成車”，只下“笨功夫”。8月下旬，四部門聯合開展為期一年的生產一致性與質量提升專項行動，本質正是對“速成造車”亂象的糾偏。對此，廣汽集團官方明確表態：造車不趕工期、不壓驗證，每一輛車都要經得起時間考驗。廣汽集團稱，此次並非應對監管的臨時動作，而是廣汽近30年發展歷程中一以貫之的立身原則。（南方都市報）"
+    },
+    {
+      "id": "5084281",
+      "time": "2026-09-09 13:48:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.02%。"
+    },
+    {
+      "id": "5084280",
+      "time": "2026-09-09 13:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "海特真露：自10月16日起關閉益山工廠，計劃將該工廠產能轉移至旗下全州工廠。"
+    },
+    {
+      "id": "te:markets:582275",
+      "time": "2026-09-09 13:46:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Snaps 2-Session Losing Streak, Ends 0.2% Higher” — New Zealand stocks climbed 27 points, or 0.2%, to close at 13,819 on Wednesday, halting losses from the previous two sessions, buoyed by gains in financials, utilities, and communication services. Tuesday’s report from Moody’s ratings agency continued to support sentiment, saying New Zealand’s economic recovery is underway, though warning that several issues remain unresolved. However, a downbeat session on Wall Street overnight limited the gains, as rising oil prices amid the escalating conflict in the Middle East raised concerns over inflation and boosted bets that central banks would raise interest rates. Fresh data from China, New Zealand’s top trading partner, also capped the index, as consumer and producer price pressures continued to rise amid higher oil prices. Among the top movers were Sanford (1.6%), Mercury NZ (1.4%), Contact Energy (1.2%), Mainfreight (0.9%), Infratil (0.8%), ANZ Group (0.7%), Delegat Group (0.7%), and A2 Milk (0.5%)."
+    },
     {
       "id": "mkt:01a084b3-597d-7118-84fe-384a3657f422",
       "time": "2026-09-09 13:45:41",
@@ -124559,61 +124618,6 @@
         "其他"
       ],
       "text": "納格爾：德國政府目前的支出一定是例外情況。"
-    },
-    {
-      "id": "5072400",
-      "time": "2026-09-02 13:50:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委兼德國央行行長納格爾：德國必須接受在一定時期內出現赤字上升。"
-    },
-    {
-      "id": "mkt:01a060ab-1546-7118-8453-4eec41fb183f",
-      "time": "2026-09-02 13:50:19",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Medvedev says German arms firms should be targeted】RIA reports Russian Security Council Deputy Chairman Medvedev wrote on social media that Germany \"deserves to be hit directly\" and that targets should include all German companies producing military equipment for Kyiv, adding strikes could extend to other locations in Berlin and calling the German leadership \"neo-Nazi\" and extremely Russophobic. German police said on Aug. 5 a worker at Leipzig/Halle airport found a drone carrying explosives in the cargo aviation security area. Germany on Tuesday blamed Russia without providing evidence; the Russian embassy in Berlin called the incident a hastily fabricated provocation."
-    },
-    {
-      "id": "5072399",
-      "time": "2026-09-02 13:48:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現代汽車股價下跌5.7%，報377500韓元。"
-    },
-    {
-      "id": "mkt:01a060a8-d226-7118-8453-4495c9ac7fda",
-      "time": "2026-09-02 13:47:51",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ECB Governing Council member Nagel said uncertainty is substantial and the current situation is unsettling."
-    },
-    {
-      "id": "mkt:01a060a8-880d-7118-8453-3f1b1e10abf6",
-      "time": "2026-09-02 13:47:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "ECB executive board member Nagel said he would be cautious about any guidance beyond September."
     }
   ]
 }

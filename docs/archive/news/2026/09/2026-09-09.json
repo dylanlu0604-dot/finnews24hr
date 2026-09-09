@@ -1,7 +1,66 @@
 {
   "date": "2026-09-09",
-  "count": 1209,
+  "count": 1215,
   "items": [
+    {
+      "id": "mkt:01a084b7-746c-7118-84fe-4a801ddd194e",
+      "time": "2026-09-09 13:50:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The mayor of Novorossiysk, Russia, said a Ukrainian attack on the city killed four people."
+    },
+    {
+      "id": "mkt:01a084b7-2f2b-7118-84fe-4381e050c821",
+      "time": "2026-09-09 13:49:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan Justice Ministry says enforcement actions against the North Caspian Operating Company oil consortium are ongoing."
+    },
+    {
+      "id": "5084282",
+      "time": "2026-09-09 13:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽集團表態：堅決不造“速成車” 只下“笨功夫”】近日，廣汽集團對外表態，堅決不造“速成車”，只下“笨功夫”。8月下旬，四部門聯合開展為期一年的生產一致性與質量提升專項行動，本質正是對“速成造車”亂象的糾偏。對此，廣汽集團官方明確表態：造車不趕工期、不壓驗證，每一輛車都要經得起時間考驗。廣汽集團稱，此次並非應對監管的臨時動作，而是廣汽近30年發展歷程中一以貫之的立身原則。（南方都市報）"
+    },
+    {
+      "id": "5084281",
+      "time": "2026-09-09 13:48:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.02%。"
+    },
+    {
+      "id": "5084280",
+      "time": "2026-09-09 13:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "海特真露：自10月16日起關閉益山工廠，計劃將該工廠產能轉移至旗下全州工廠。"
+    },
+    {
+      "id": "te:markets:582275",
+      "time": "2026-09-09 13:46:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Snaps 2-Session Losing Streak, Ends 0.2% Higher” — New Zealand stocks climbed 27 points, or 0.2%, to close at 13,819 on Wednesday, halting losses from the previous two sessions, buoyed by gains in financials, utilities, and communication services. Tuesday’s report from Moody’s ratings agency continued to support sentiment, saying New Zealand’s economic recovery is underway, though warning that several issues remain unresolved. However, a downbeat session on Wall Street overnight limited the gains, as rising oil prices amid the escalating conflict in the Middle East raised concerns over inflation and boosted bets that central banks would raise interest rates. Fresh data from China, New Zealand’s top trading partner, also capped the index, as consumer and producer price pressures continued to rise amid higher oil prices. Among the top movers were Sanford (1.6%), Mercury NZ (1.4%), Contact Energy (1.2%), Mainfreight (0.9%), Infratil (0.8%), ANZ Group (0.7%), Delegat Group (0.7%), and A2 Milk (0.5%)."
+    },
     {
       "id": "mkt:01a084b3-597d-7118-84fe-384a3657f422",
       "time": "2026-09-09 13:45:41",
