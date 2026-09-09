@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-10 05:48:39",
+  "updated": "2026-09-10 05:52:36",
   "count": 13534,
   "items": [
+    {
+      "id": "5085872",
+      "time": "2026-09-10 05:51:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用材料公司執行長：2027年將是該公司的“大年”，預計2027年之後公司將實現強勁增長。"
+    },
+    {
+      "id": "mkt:01a08826-517c-7118-8512-ae10dd75d178",
+      "time": "2026-09-10 05:50:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【12 countries propose trade limits on West Bank settlements; Israeli paper signals 'sanctions era'】On the 8th, foreign ministers from 12 countries including the UK, France and Canada issued a joint statement proposing restrictions on trade in goods from Israeli settlements in the West Bank, urged Israel to stop settlement expansion, hold settlers accountable for violence and investigate allegations against the Israeli military. Israel’s Haaretz commented Western allies have moved from verbal criticism to substantive action, calling it the start of a 'sanctions era' that it said would outlast changes in Israel’s government."
+    },
+    {
+      "id": "5085871",
+      "time": "2026-09-10 05:49:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊海上“報復迴圈”加劇 特朗普預告戰事將終結 伊朗開出條件】近日，美軍頻頻打擊伊朗油輪等目標，雙方不斷報復性回擊。9日，伊朗譴責美軍襲擊該國船隻，稱已回以打擊，襲擊2艘美國軍艦和8艘油輪等目標。美方隨後發文否認其海軍艦艇被伊朗襲擊。同日，美國總統特朗普稱，他預計對伊戰事將於今年11月美國中期選舉後結束。與此同時，受伊朗戰事導致全球庫存消耗的影響，美國能源資訊署上調了今明兩年油價預測。（央視新聞）"
+    },
     {
       "id": "5085870",
       "time": "2026-09-10 05:47:35",
@@ -123578,33 +123604,6 @@
         "MKT News"
       ],
       "text": "The Wall Street Journal reports new details of the Trump administration's civil-nuclear cooperation agreement with Saudi Arabia have prompted concerns about nuclear proliferation risk."
-    },
-    {
-      "id": "5074052",
-      "time": "2026-09-03 05:51:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：我們預計未來兩年將向這些客戶交付價值約 3500 億美元的人工智慧半導體產品。"
-    },
-    {
-      "id": "5074051",
-      "time": "2026-09-03 05:49:22",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "巴基斯坦財政部：透過雙檔歐洲債券交易發行 30 億美元，獲得近 600 億美元認購訂單。"
-    },
-    {
-      "id": "mkt:01a06418-9204-7118-846e-ee0f9e87cdd0",
-      "time": "2026-09-03 05:48:46",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO expects that even if product-mix shifts reduce gross margins, the company can maintain its operating margin."
     }
   ]
 }
