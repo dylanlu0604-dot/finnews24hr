@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-10 07:54:16",
-  "count": 13540,
+  "updated": "2026-09-10 07:58:23",
+  "count": 13542,
   "items": [
+    {
+      "id": "5085968",
+      "time": "2026-09-10 07:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9家公司披露定增進展】Wind資料顯示，9月10日，A股共9家公司釋出定增相關公告。其中2家定增預案獲股東大會透過，6家定增預案獲交易所透過，1家定增預案獲證監會透過。今年以來，已有134家公司公告定增方案已完成，46家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。"
+    },
+    {
+      "id": "te:markets:582527",
+      "time": "2026-09-10 07:56:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies Ahead of US Inflation Data — Gold held steady near $4,400 an ounce on Thursday, retaining gains from the previous session as investors cautiously awaited key US inflation readings that could provide further insight into the Federal Reserve’s next policy move. The US producer price index report for August is due later today, followed by the consumer inflation report on Friday. The metal found support from a weaker dollar, as well as continued demand for its long-term hedging appeal despite near-term pressure from higher oil prices and bond yields. Oil prices climbed to multi-month highs as the US-Iran conflict intensified, stoking inflation concerns and strengthening expectations for near-term rate hikes. US Treasury yields also moved higher after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, disappointing some investors who had expected a more substantial increase."
+    },
+    {
+      "id": "5085967",
+      "time": "2026-09-10 07:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞士水電站爆炸致兩人重傷不治身亡 】瑞士南部提契諾州一座水電站9日發生爆炸，兩名傷者已不治身亡。提契諾州警方發表宣告說，這是一起嚴重的工傷事故。聯合報警中心接到水電站火災報警後，警察、消防員和緊急救援人員趕赴現場，進行滅火和區域安全處置工作。事發時，現場有兩名工人，均為瑞士公民，年齡分別為55歲和18歲。爆炸致兩人受重傷，不幸身亡。警方說，事故還對建築結構造成嚴重損壞。事故原因正在進一步調查中。"
+    },
+    {
+      "id": "5085966",
+      "time": "2026-09-10 07:55:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【電詐活動日益猖獗，馬來西亞官員提出引入鞭刑打擊電詐】面對日益猖獗的電信網路詐騙活動，馬來西亞警方及部分官員提出效仿鄰國新加坡，對詐騙分子施以鞭刑。就在去年年底，新加坡修訂新法，加大電信網路詐騙懲處力度，違規者最高可被判24記鞭刑。 據馬來西亞《星報》9月8日報道，馬來西亞總理府法律及制度改革部長阿莎麗娜當天表示，她完全支援馬來西亞皇家警察方面提出的建議，即對電信網路詐騙犯實施更為嚴厲的刑罰，其中包括鞭刑。（環球網）"
+    },
+    {
+      "id": "5085965",
+      "time": "2026-09-10 07:54:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲3個基點，至3.985%。"
+    },
+    {
+      "id": "5085964",
+      "time": "2026-09-10 07:53:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價延續漲勢，伊朗稱準備迎接更激烈衝突】中東多地爆發敵對行動後，伊朗表態已做好應對更激烈戰爭的準備，油價繼續上漲，市場愈發擔憂霍爾木茲海峽的能源輸送將遭遇更嚴重中斷。西德克薩斯中質原油（WTI）交投於每桶97美元附近，前一交易日大漲3.3%，創下一週最大單日漲幅。布倫特原油自7月以來首次收於100美元上方。伊朗一名高階官員稱，面對美國海上封鎖，伊朗無意退讓；若美國持續襲擊伊朗領土，伊朗將升級打擊行動。過去一週戰火重燃，打破此前一段相對平靜期，推高油價。美國總統特朗普預計，這場戰爭要等到11月中期選舉結束後才會落幕，在此之前汽油價格難以明顯回落。這表明這場已進入第七個月的衝突，短期內幾乎沒有緩和跡象。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609103869864137",
+      "time": "2026-09-10 07:52:26",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至9月4日當週外資買進日股6900億日元，前值358億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609103869862893",
+      "time": "2026-09-10 07:51:57",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至9月4日當週外資買進日債4496億日元，前值5091億日元。"
+    },
     {
       "id": "mkt:01a08895-ab8e-7118-8513-a95b0c164562",
       "time": "2026-09-10 07:51:45",
@@ -123601,59 +123672,6 @@
         "市場"
       ],
       "text": "【日韓股市開盤】日經225指數上午開盤報64724.81點，漲幅0.62％。韓國綜合股價指數（KOSPI）開盤上漲1.3％，至6650.33點。"
-    },
-    {
-      "id": "te:markets:580608",
-      "time": "2026-09-03 07:56:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Positive Session — US stock futures were little changed on Thursday after the major averages advanced in the previous session, snapping a three-day losing streak. In regular trading on Wednesday, the Dow rose 0.56%, the S&P 500 gained 0.46% and the Nasdaq Composite climbed 0.45%. Ten of the 11 S&P sectors finished higher, led by materials, communication services and health care. The gains came as the recent rally in oil prices and bond yields that had pressured equities throughout the week showed signs of easing. In corporate news, Broadcom fell about 1% after issuing a lower-than-expected revenue forecast for Q4, while Hewlett Packard Enterprise tumbled more than 5% despite beating earnings and revenue estimates for Q3. In contrast, Snowflake soared 23% after the software company smashed estimates amid growing adoption of its AI products. Investors now look ahead to more earnings reports on Thursday from Ciena, Zscaler and DocuSign, among others."
-    },
-    {
-      "id": "5074136",
-      "time": "2026-09-03 07:56:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：銀行業是亞洲人工智慧領域的贏家之一。"
-    },
-    {
-      "id": "5074135",
-      "time": "2026-09-03 07:56:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港特區政府舉行儀式紀念中國人民抗日戰爭勝利】9月3日，香港特區政府在香港大會堂紀念花園舉行官方儀式，紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利81週年。香港特區行政長官李家超、特區政府高層官員、司法人員、行政會議成員、立法會議員、退伍軍人團體、區議會、其他界別社會人士、制服團隊及青年代表等出席紀念儀式。紀念儀式包括奏唱國歌、升旗禮、警察步槍儀仗隊鳴槍致敬、全體出席者默哀及鞠躬致敬等。（央視）"
-    },
-    {
-      "id": "5074134",
-      "time": "2026-09-03 07:55:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地學研究中心（GFZ）：南桑威奇群島地區發生6.05級地震。"
-    },
-    {
-      "id": "5074133",
-      "time": "2026-09-03 07:55:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：AI開啟服務消費市場空間】當前，我國服務消費進入擴容升級快車道。資料顯示，今年前7個月，我國服務零售額增長5.0%，快於商品零售額增速3.9個百分點。消費結構正從商品消費主導向服務消費主導轉變。商務部等8部門印發的《關於加快“人工智慧+消費”發展的實施意見》，明確推動人工智慧（AI）與居家、養老、文旅、餐飲、教育等服務深度融合，培育消費新增長點。這既是順應消費升級趨勢的必然要求，更是釋放內需潛力的關鍵引擎。創新應用場景，啟用消費需求。聚焦文旅、養老、托育、家政、醫療、教育等重點領域，加快發展智慧原生應用，拓展體驗消費、個性化消費、情感消費等服務消費新場景。加強虛擬現實、增強現實等技術應用，打造數字演藝、互動展覽、虛擬街區等沉浸式數字消費新場景。"
-    },
-    {
-      "id": "5074132",
-      "time": "2026-09-03 07:55:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率下跌7個基點至4.095%。"
     }
   ]
 }
