@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-10 05:20:49",
-  "count": 13524,
+  "updated": "2026-09-10 05:24:54",
+  "count": 13525,
   "items": [
+    {
+      "id": "mkt:01a0880c-b993-7118-8512-6c3907081a09",
+      "time": "2026-09-10 05:22:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News quoted the Hormozgan provincial government as saying explosion noises on Qeshm Island originated from the sea."
+    },
+    {
+      "id": "mkt:01a0880b-d5f1-7118-8512-60b587f4975f",
+      "time": "2026-09-10 05:21:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Emergency slide on Trump’s jet deploys after operator error】Local time Sept. 9, an emergency slide on the jet referred to as Air Force One unexpectedly deployed as President Trump arrived for a Republican midterms rally in Dallas. Trump waited about 20 minutes on a helicopter before speaking on the tarmac; he said staff were \"inspecting the emergency slide to ensure equipment is working properly\" and that they \"would raise the slide.\" Sources told media the slide deployed due to operator error. Under procedure, a deployed emergency slide must be removed and sent for repair; the slide was subsequently dismantled and taken away. The aircraft is a Boeing passenger jet gifted to Trump by Qatar last year and has been used by him since July."
+    },
+    {
+      "id": "5085855",
+      "time": "2026-09-10 05:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗霍爾木茲甘省省長辦公室表示，格什姆島爆炸聲響來自海上。"
+    },
+    {
+      "id": "5085854",
+      "time": "2026-09-10 05:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：格什姆島與錫裡克地區發生多起爆炸。"
+    },
     {
       "id": "te:economy:582509",
       "time": "2026-09-10 05:20:02",
@@ -123481,31 +123515,6 @@
         "MKT News"
       ],
       "text": "Broadcom (AVGO.O) is up 2.85% in US after-hours trading after tumbling more than 6% immediately post-earnings."
-    },
-    {
-      "id": "5074043",
-      "time": "2026-09-03 05:22:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟稱以色列“E1區”定居點建設破壞“兩國方案”】歐盟外交與安全政策高階代表卡婭·卡拉斯2日表示，以色列的“E1區”定居點建設專案將破壞“兩國方案”的前景。在歐盟成員國外長非正式會議後的新聞釋出會上，卡拉斯說，“E1區”定居點建設專案如同“在約旦河西岸插入一道楔子”，將進一步破壞“兩國方案”的前景。她還表示，定居者針對巴勒斯坦人的暴力事件仍在增加，很多時候沒有受到追究。（央視新聞）"
-    },
-    {
-      "id": "5074042",
-      "time": "2026-09-03 05:22:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "博通股價在財報電話會議期間轉漲，此前一度跌超6%。"
-    },
-    {
-      "id": "5074041",
-      "time": "2026-09-03 05:21:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：預計第四季度基礎設施軟體業務營收將穩定在約 87 億美元。"
     }
   ]
 }
