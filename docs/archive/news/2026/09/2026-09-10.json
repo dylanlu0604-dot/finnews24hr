@@ -1,7 +1,61 @@
 {
   "date": "2026-09-10",
-  "count": 213,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:01a0877e-c93e-7118-850f-e9b401a80415",
+      "time": "2026-09-10 02:47:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi-led coalition says Houthi forces attack multiple sites in southern Saudi Arabia】The Saudi-led coalition said on Sept. 9 Houthi forces used ballistic missiles and drones to strike the southern Saudi cities of Khamis Mushayt, Abha and Jizan. Earlier the Houthis said Saudi warplanes carried out dozens of airstrikes across Marib, Jawf and Taiz provinces in Yemen."
+    },
+    {
+      "id": "5085691",
+      "time": "2026-09-10 02:46:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西：週三早些時候釋出的行政令所設立的柴油補貼，初始標準為每升 1 雷亞爾。"
+    },
+    {
+      "id": "mkt:01a0877d-2a6e-7118-850f-e51c70ed389f",
+      "time": "2026-09-10 02:45:22",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "U.S. commercial space startup Vast said the mission is planned for 2027 and will be transported by SpaceX (SPCX.O)'s Dragon spacecraft and launched on a Falcon 9 rocket."
+    },
+    {
+      "id": "5085690",
+      "time": "2026-09-10 02:45:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲空間局與瓦斯特公司簽署協議，將執行希臘史上首次宇航員任務。該任務是歐洲空間局與美國國家航空航天局合作開展的第六次國際空間站私人宇航員任務。該任務計劃於 2027 年開展，由SpaceX提供運輸服務，使用搭載在獵鷹 9 號火箭上的龍飛船執行。"
+    },
+    {
+      "id": "5085689",
+      "time": "2026-09-10 02:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱南部多地再遭胡塞武裝襲擊】沙特領導的多國聯軍稱，葉門胡塞武裝當地時間9月9日使用彈道導彈和無人機襲擊了沙特南部城市海米斯穆謝特、艾卜哈和吉贊。胡塞武裝當天早些時候發訊息稱，沙特戰機對葉門馬裡卜省、焦夫省和塔伊茲省的多個地區發動數十次空襲。（央視新聞）"
+    },
+    {
+      "id": "5085688",
+      "time": "2026-09-10 02:43:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉簽署法令，每升汽油的 PIS/PASEP 及 COFINS 稅下調 0.63 雷亞爾。"
+    },
     {
       "id": "mkt:01a0877b-1f24-7118-850f-de1724e0b997",
       "time": "2026-09-10 02:43:08",
