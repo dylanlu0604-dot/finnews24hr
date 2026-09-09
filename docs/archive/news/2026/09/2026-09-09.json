@@ -1,7 +1,57 @@
 {
   "date": "2026-09-09",
-  "count": 2403,
+  "count": 2408,
   "items": [
+    {
+      "id": "5085548",
+      "time": "2026-09-09 23:29:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "瑞士政府：與歐盟同類制裁保持一致。相關措施將於 9 月 10 日生效。同時禁止向蘇丹出售用於金礦開採與黃金提煉的特定物資。"
+    },
+    {
+      "id": "mkt:01a086c9-c442-7118-850b-41ce01e03d9b",
+      "time": "2026-09-09 23:29:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss government bans exports to Sudan of certain goods used in gold mining and refining."
+    },
+    {
+      "id": "5085547",
+      "time": "2026-09-09 23:28:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士政府：已禁止採購和進口源自蘇丹的黃金。"
+    },
+    {
+      "id": "mkt:01a086c8-e17f-7118-850b-3e68b33bf901",
+      "time": "2026-09-09 23:28:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss government has banned purchases and imports of gold originating in Sudan."
+    },
+    {
+      "id": "5085546",
+      "time": "2026-09-09 23:28:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜談及Wiwynn對美國得州製造業設施投資16億美元：工廠擴建將創造將近1000個就業崗位。滿負荷運轉時將達到4000名僱員。"
+    },
     {
       "id": "mkt:01a086c6-b04f-7118-850b-3297c98ec993",
       "time": "2026-09-09 23:26:03",

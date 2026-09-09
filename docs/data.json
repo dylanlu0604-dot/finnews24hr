@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-09 23:26:48",
-  "count": 13600,
+  "updated": "2026-09-09 23:30:49",
+  "count": 13596,
   "items": [
+    {
+      "id": "5085548",
+      "time": "2026-09-09 23:29:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "瑞士政府：與歐盟同類制裁保持一致。相關措施將於 9 月 10 日生效。同時禁止向蘇丹出售用於金礦開採與黃金提煉的特定物資。"
+    },
+    {
+      "id": "mkt:01a086c9-c442-7118-850b-41ce01e03d9b",
+      "time": "2026-09-09 23:29:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss government bans exports to Sudan of certain goods used in gold mining and refining."
+    },
+    {
+      "id": "5085547",
+      "time": "2026-09-09 23:28:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士政府：已禁止採購和進口源自蘇丹的黃金。"
+    },
+    {
+      "id": "mkt:01a086c8-e17f-7118-850b-3e68b33bf901",
+      "time": "2026-09-09 23:28:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss government has banned purchases and imports of gold originating in Sudan."
+    },
+    {
+      "id": "5085546",
+      "time": "2026-09-09 23:28:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜談及Wiwynn對美國得州製造業設施投資16億美元：工廠擴建將創造將近1000個就業崗位。滿負荷運轉時將達到4000名僱員。"
+    },
     {
       "id": "mkt:01a086c6-b04f-7118-850b-3297c98ec993",
       "time": "2026-09-09 23:26:03",
@@ -123959,87 +124009,6 @@
         "國際"
       ],
       "text": "德國政府發言人表示，德國總理默茨在通話中向烏克蘭總統澤連斯基通報了萊比錫機場遭遇混合襲擊一事。"
-    },
-    {
-      "id": "5073748",
-      "time": "2026-09-02 23:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "GE Vernova簽署協議，助力修復委內瑞拉電網；該協議項下專案將在未來六個月內落地。"
-    },
-    {
-      "id": "te:economy:580542",
-      "time": "2026-09-02 23:30:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 11 bps — Majority of government bonds yields are higher on Wednesday. Top losers are Brazil 10Y (-11bps). Gains are led by Germany 10Y (3.90bps), Japan 10Y (2.22bps) and US 10Y (0.80bps)."
-    },
-    {
-      "id": "mkt:01a062bd-ad8b-7118-8468-41b4ea20e553",
-      "time": "2026-09-02 23:29:52",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【Denmarks Nationalbank intervenes again to defend euro peg】Danmarks Nationalbank intervened in FX markets for the second time since June to support the weak Danish krone, net buying DKK5.6bn ($870m) in August, its FX, liquidity and monthly balance sheet report said. The krone has slid to record lows versus the euro since the currency's 1999 launch, touching 7.4761 DKK per euro on Aug. 7. Continued exchange-rate pressure could force the central bank to raise borrowing costs, though several analysts say their baseline does not expect imminent rate action. Danmarks Nationalbank ordinarily follows ECB rate moves but could set policy independently if FX intervention proves insufficient to stabilise the currency."
-    },
-    {
-      "id": "5073747",
-      "time": "2026-09-02 23:29:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：就德國反俄舉動召見德國駐俄臨時代辦】俄羅斯外交部2日在社交媒體釋出訊息說，當天就德國政府1日的反俄舉動和言論召見德國駐俄臨時代辦。（新華社）"
-    },
-    {
-      "id": "5073746",
-      "time": "2026-09-02 23:29:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【代表預計OPEC+將維持10月產量政策不變】據兩位OPEC+代表透露，核心OPEC+成員在本週末的會議上可能堅持下個月原油產量配額保持不變的計劃。由沙特和俄羅斯牽頭的一個小組本月名義上完成了2023年暫停的產量恢復，儘管伊朗戰爭阻止了中東國家在現實中實施這些增產措施。"
-    },
-    {
-      "id": "mkt:01a062bd-1613-7118-8468-3bb008a5b2bf",
-      "time": "2026-09-02 23:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia summons German chargé d'affaires over Berlin's anti‑Russia moves】Russia's foreign ministry said it summoned the German chargé d'affaires in Moscow over German government actions and statements it described as anti‑Russia. Moscow denied German accusations of Russian involvement in the Leipzig airport incident, said Berlin used those claims as a pretext to close the Russian consulate in Bonn and the Russian House in Berlin, and warned it will respond firmly."
-    },
-    {
-      "id": "5073745",
-      "time": "2026-09-02 23:28:34",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【荷蘭將86噸黃金儲備存放地從美加轉至倫敦 以便在危機時期快速動用】荷蘭央行已將價值約120億美元的黃金儲備從紐約和渥太華轉移至倫敦，稱此舉的理由是擔憂全球地緣政治動盪加劇。今年3月至8月間，荷蘭央行將約86噸黃金轉移至倫敦，佔其原先存放在美國和加拿大黃金儲備的四分之一以上。倫敦目前存放著荷蘭近三分之一的黃金儲備，為佔比最大的存放地。荷蘭央行行長Olaf Sleijpen週三在宣告中表示：“透過此次轉移，我們提高了黃金儲備的可交易性。我們預計永遠不會需要動用這些儲備，但確實需要增強自身韌性和準備程度。”倫敦擁有全球流動性最強的黃金市場，每週都有價值數千億美元的黃金易手。正因如此，各國央行長期以來一直將英國央行作為黃金託管機構，在那裡可迅速大規模買賣黃金，也可出借黃金以籌集美元。"
-    },
-    {
-      "id": "5073744",
-      "time": "2026-09-02 23:27:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭部長稱，烏方正在修建地下燃料儲存網路。"
-    },
-    {
-      "id": "5073743",
-      "time": "2026-09-02 23:27:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌高管：法院駁回美國司法部拆分相關工具的提案，我方對此深表欣慰，這些工具助力中小企業觸達新客戶並實現業務增長。"
     }
   ]
 }
