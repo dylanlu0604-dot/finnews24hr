@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-09 22:33:54",
-  "count": 13653,
+  "updated": "2026-09-09 22:38:04",
+  "count": 13651,
   "items": [
+    {
+      "id": "5085492",
+      "time": "2026-09-09 22:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：美國學區可直接將這些保護條款納入微軟客戶協議，使其具備合同強制執行力。"
+    },
+    {
+      "id": "mkt:01a08699-c3bb-7118-850a-5dfe745fa60c",
+      "time": "2026-09-09 22:36:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【European gas tops €80/MWh, highest in over three years】European natural gas exceeded €80 per MWh for the first time, with benchmark futures up as much as 6.8% to €80.98 — the highest since January 2023. Prices have roughly doubled since the start of the Middle East war, though remain below the peaks seen in the earlier energy crisis. Sustained high gas costs could add to inflationary pressure and, with winter demand expected to rise, risk broader economic strain across the region."
+    },
+    {
+      "id": "5085491",
+      "time": "2026-09-09 22:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：根據協議，科技公司必須向教育工作者和家長提供透明度，並用通俗易懂的語言解釋其工具的運作方式。"
+    },
+    {
+      "id": "5085490",
+      "time": "2026-09-09 22:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟相關協議確保科技公司不得利用學生資料訓練人工智慧，學生資訊永遠不得被追蹤，且人工智慧在沒有人類監督的情況下不得做出決策。"
+    },
+    {
+      "id": "5085489",
+      "time": "2026-09-09 22:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉稱巴西必須應對最高法院的制度危機。"
+    },
+    {
+      "id": "5085488",
+      "time": "2026-09-09 22:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門透過社交平臺發文表示，阿卜哈的危警報已經解除。"
+    },
+    {
+      "id": "5085487",
+      "time": "2026-09-09 22:34:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行前首席經濟學家、現任損保研究所Plus執行經濟學家龜田誠策（Seisaku Kameda）表示：美國財長貝森特把市場（對日本央行利率政策的）預期推得太遠了。一些投資者甚至定價了加息50個基點或連續加息的可能性。這些預期看起來過高，可能需要被下調。過高的預期帶來了風險，如果日本央行未能兌現，可能引發日元重新走弱。"
+    },
+    {
+      "id": "mkt:01a08697-29d5-7118-850a-4c23f0ab48d9",
+      "time": "2026-09-09 22:34:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense: alert in Khamis Mushait governorate lifted."
+    },
+    {
+      "id": "5085486",
+      "time": "2026-09-09 22:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，哈米斯穆沙伊特的危險已經解除。"
+    },
+    {
+      "id": "5085484",
+      "time": "2026-09-09 22:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度銀行：銀行工會聯合論壇已發出罷工通知，罷工時間為9月11日、9月28日至30日，並自10月26日起開啟無限期連續罷工。"
+    },
+    {
+      "id": "5085483",
+      "time": "2026-09-09 22:32:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣價格三年多來首次升破80歐元/兆瓦時】歐洲天然氣價格三年多來首次升破每兆瓦時80歐元。持續高企的價格可能進一步推升通脹，並使歐洲面臨更廣泛危機的風險。基準天然氣期貨一度上漲6.8%，至每兆瓦時80.98歐元，為2023年1月以來最高水平。儘管價格仍遠低於能源危機期間的峰值，但自中東戰爭爆發以來已上漲逾一倍。隨著冬季需求料將上升，天然氣價格進一步受擠壓的風險也在增加，並可能演變為更廣泛的經濟問題。"
+    },
+    {
+      "id": "5085482",
+      "time": "2026-09-09 22:32:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "戴姆勒卡車控股公司：其發動機擬整合入波蘭軍備集團旗下企業為波蘭武裝力量生產的軍用車輛中。"
+    },
     {
       "id": "5085481",
       "time": "2026-09-09 22:32:20",
@@ -334,6 +442,18 @@
         "其他"
       ],
       "text": "Arixa Capital 貸款發放規模突破 90 億美元。"
+    },
+    {
+      "id": "mkt:01a08698-e9e1-7118-850a-51092aebe7d0",
+      "time": "2026-09-09 22:19:40",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "S&P500"
+      ],
+      "text": "【Baltic Dry Index rises as freight rates climb across vessel classes】The Baltic Dry Index rose 36 points, or 1%, to 3,620 on Wednesday. The Capesize index (BCI) gained 87 points, +1.4%, to 6,400; Capesize daily earnings rose $788 to $54,538 (≈150,000 dwt; typically carry iron ore and coal). The Panamax index (BPI) was unchanged at 2,414; Panamax daily earnings rose $1 to $21,725 (60,000–70,000 dwt; typically carry coal or grain). The Supramax index (BSI) added 11 points, +0.7%, to 1,704. The Handysize index (BHSI) rose 9 points to 922."
     },
     {
       "id": "5085457",
@@ -124368,137 +124488,6 @@
         "國際"
       ],
       "text": "歐盟外交政策負責人：外長們將繼續討論使用被凍結俄羅斯資產的問題。"
-    },
-    {
-      "id": "5073672",
-      "time": "2026-09-02 22:37:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：部分歐盟國防部長提出動用被凍結的俄羅斯資產。"
-    },
-    {
-      "id": "mkt:01a0628d-be33-7118-8466-a5a80babdeea",
-      "time": "2026-09-02 22:37:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Italian oil major ENI plans to significantly increase oil production in Venezuela."
-    },
-    {
-      "id": "5073671",
-      "time": "2026-09-02 22:36:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利埃尼集團計劃大幅提高委內瑞拉石油產量。"
-    },
-    {
-      "id": "5073670",
-      "time": "2026-09-02 22:36:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀚藍環境：披露併購重組稽核問詢函回覆】瀚藍環境公告稱，公司擬發行股份及支付現金購買南海高質量發展基金100%財產份額、支付現金購買粵豐環保7.22%股份，最終實現對粵豐環保100%控股，同時擬向不超過35名特定投資者發行股份募集配套資金不超過12億元。公司已就上交所出具的本次交易稽核問詢函逐項落實回覆並公開披露，本次交易尚需上交所稽核透過及證監會同意註冊後方可實施，存在不確定性。"
-    },
-    {
-      "id": "5073669",
-      "time": "2026-09-02 22:36:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京為俄羅斯烏多坎陰極銅工廠舉行投產啟動儀式。"
-    },
-    {
-      "id": "mkt:01a0628c-3518-7118-8466-9c11513695c0",
-      "time": "2026-09-02 22:35:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico president sheinbaum said EBRARD traveled to the US to seek an agreement on tariffs for autos and steel."
-    },
-    {
-      "id": "5073668",
-      "time": "2026-09-02 22:35:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西基準股指BOVESPA <.BVSP>上漲約3%，突破185,000點。"
-    },
-    {
-      "id": "mkt:01a0628b-cc87-7118-8466-9316eb6ce28d",
-      "time": "2026-09-02 22:35:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "RIA cited the Russian Defence Ministry as saying it struck a cargo ship at Chornomorsk port in Ukraine."
-    },
-    {
-      "id": "5073667",
-      "time": "2026-09-02 22:35:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心預測，洛厄爾颶風在未來幾天內將保持強颶風強度。"
-    },
-    {
-      "id": "5073666",
-      "time": "2026-09-02 22:35:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：與億萬富翁烏斯馬諾夫有關聯的俄羅斯遠東最大銅礦烏多坎的運營商，在火災造成延誤後，啟動了面向亞洲的銅陰極生產。"
-    },
-    {
-      "id": "mkt:01a0628b-6897-7118-8466-88497b260c77",
-      "time": "2026-09-02 22:34:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Xuguang Electronics, NAURA Technology, Kema Technology sign three-way strategic cooperation】On Sept. 2 in Suzhou, listed companies Xuguang Electronics, NAURA Technology and Kema Technology signed a three‑party strategic cooperation agreement to build a semiconductor collaborative‑innovation ecosystem and accelerate domestic substitution of high‑end aluminum nitride (AlN) materials and semiconductor equipment. Xuguang plans to expand AlN powder capacity from 500 tons to 1,000 tons by 2027, targeting high‑end products serving semiconductor equipment and compute hardware."
-    },
-    {
-      "id": "5073665",
-      "time": "2026-09-02 22:34:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯襲擊了烏克蘭切爾諾莫斯克港的一艘貨船。"
-    },
-    {
-      "id": "mkt:01a0628b-17e5-7118-8466-85218471fd58",
-      "time": "2026-09-02 22:34:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio urged international partners to immediately halt normal business relations with the Nicaraguan government."
-    },
-    {
-      "id": "5073664",
-      "time": "2026-09-02 22:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河“三大樞紐”船閘執行方案獲得批覆】記者從廣西壯族自治區交通運輸廳瞭解到，9月1日，廣西壯族自治區交通運輸廳正式批覆平陸運河馬道、企石、青年“三大樞紐”船閘執行方案。該方案的批覆，築牢了平陸運河“三大樞紐”船閘依法合規運營、安全有序執行的制度根基，標誌著平陸運河即將進入全線通航新階段。平陸運河馬道、企石、青年“三大樞紐”是運河航運控制性核心工程，承擔水位銜接、船舶過閘通行等核心功能，是保障全線航運暢通的“咽喉樞紐”。（央視新聞）"
-    },
-    {
-      "id": "5073663",
-      "time": "2026-09-02 22:34:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "AST SPACEMOBILE股價延續漲勢，漲幅達13%，創6月以來最大單日漲幅。"
     }
   ]
 }

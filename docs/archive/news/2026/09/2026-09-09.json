@@ -1,7 +1,115 @@
 {
   "date": "2026-09-09",
-  "count": 2312,
+  "count": 2325,
   "items": [
+    {
+      "id": "5085492",
+      "time": "2026-09-09 22:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：美國學區可直接將這些保護條款納入微軟客戶協議，使其具備合同強制執行力。"
+    },
+    {
+      "id": "mkt:01a08699-c3bb-7118-850a-5dfe745fa60c",
+      "time": "2026-09-09 22:36:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【European gas tops €80/MWh, highest in over three years】European natural gas exceeded €80 per MWh for the first time, with benchmark futures up as much as 6.8% to €80.98 — the highest since January 2023. Prices have roughly doubled since the start of the Middle East war, though remain below the peaks seen in the earlier energy crisis. Sustained high gas costs could add to inflationary pressure and, with winter demand expected to rise, risk broader economic strain across the region."
+    },
+    {
+      "id": "5085491",
+      "time": "2026-09-09 22:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：根據協議，科技公司必須向教育工作者和家長提供透明度，並用通俗易懂的語言解釋其工具的運作方式。"
+    },
+    {
+      "id": "5085490",
+      "time": "2026-09-09 22:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟相關協議確保科技公司不得利用學生資料訓練人工智慧，學生資訊永遠不得被追蹤，且人工智慧在沒有人類監督的情況下不得做出決策。"
+    },
+    {
+      "id": "5085489",
+      "time": "2026-09-09 22:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉稱巴西必須應對最高法院的制度危機。"
+    },
+    {
+      "id": "5085488",
+      "time": "2026-09-09 22:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門透過社交平臺發文表示，阿卜哈的危警報已經解除。"
+    },
+    {
+      "id": "5085487",
+      "time": "2026-09-09 22:34:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行前首席經濟學家、現任損保研究所Plus執行經濟學家龜田誠策（Seisaku Kameda）表示：美國財長貝森特把市場（對日本央行利率政策的）預期推得太遠了。一些投資者甚至定價了加息50個基點或連續加息的可能性。這些預期看起來過高，可能需要被下調。過高的預期帶來了風險，如果日本央行未能兌現，可能引發日元重新走弱。"
+    },
+    {
+      "id": "mkt:01a08697-29d5-7118-850a-4c23f0ab48d9",
+      "time": "2026-09-09 22:34:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense: alert in Khamis Mushait governorate lifted."
+    },
+    {
+      "id": "5085486",
+      "time": "2026-09-09 22:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，哈米斯穆沙伊特的危險已經解除。"
+    },
+    {
+      "id": "5085484",
+      "time": "2026-09-09 22:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度銀行：銀行工會聯合論壇已發出罷工通知，罷工時間為9月11日、9月28日至30日，並自10月26日起開啟無限期連續罷工。"
+    },
+    {
+      "id": "5085483",
+      "time": "2026-09-09 22:32:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣價格三年多來首次升破80歐元/兆瓦時】歐洲天然氣價格三年多來首次升破每兆瓦時80歐元。持續高企的價格可能進一步推升通脹，並使歐洲面臨更廣泛危機的風險。基準天然氣期貨一度上漲6.8%，至每兆瓦時80.98歐元，為2023年1月以來最高水平。儘管價格仍遠低於能源危機期間的峰值，但自中東戰爭爆發以來已上漲逾一倍。隨著冬季需求料將上升，天然氣價格進一步受擠壓的風險也在增加，並可能演變為更廣泛的經濟問題。"
+    },
+    {
+      "id": "5085482",
+      "time": "2026-09-09 22:32:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "戴姆勒卡車控股公司：其發動機擬整合入波蘭軍備集團旗下企業為波蘭武裝力量生產的軍用車輛中。"
+    },
     {
       "id": "5085481",
       "time": "2026-09-09 22:32:20",
@@ -334,6 +442,18 @@
         "其他"
       ],
       "text": "Arixa Capital 貸款發放規模突破 90 億美元。"
+    },
+    {
+      "id": "mkt:01a08698-e9e1-7118-850a-51092aebe7d0",
+      "time": "2026-09-09 22:19:40",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "S&P500"
+      ],
+      "text": "【Baltic Dry Index rises as freight rates climb across vessel classes】The Baltic Dry Index rose 36 points, or 1%, to 3,620 on Wednesday. The Capesize index (BCI) gained 87 points, +1.4%, to 6,400; Capesize daily earnings rose $788 to $54,538 (≈150,000 dwt; typically carry iron ore and coal). The Panamax index (BPI) was unchanged at 2,414; Panamax daily earnings rose $1 to $21,725 (60,000–70,000 dwt; typically carry coal or grain). The Supramax index (BSI) added 11 points, +0.7%, to 1,704. The Handysize index (BHSI) rose 9 points to 922."
     },
     {
       "id": "5085457",
