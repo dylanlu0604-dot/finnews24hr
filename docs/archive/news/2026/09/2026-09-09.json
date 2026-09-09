@@ -1,7 +1,47 @@
 {
   "date": "2026-09-09",
-  "count": 1226,
+  "count": 1229,
   "items": [
+    {
+      "id": "mkt:01a084c1-4b2c-7118-84fe-7d992256bb32",
+      "time": "2026-09-09 14:00:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equity futures slipped; Euro Stoxx 50 futures down 0.37%, DAX futures down 0.42%, FTSE 100 futures down 0.41%."
+    },
+    {
+      "id": "5084290",
+      "time": "2026-09-09 13:59:26",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【OpenAI稱正與三星合作開發下一代晶片，並深化合作】OpenAI表示正深化與三星電子的合作，在半導體和企業級AI服務等領域拓展與這家韓國科技巨頭的聯絡。OpenAI韓國區總經理Harrison Kim週三在首爾舉行的新聞釋出會上表示：“在與三星電子的合作中，我們進展最顯著且獲得認可最多的領域之一，就是針對我們正在研發的下一代晶片所開展的聯合生產與研究。”但他未透露更多細節。Kim還表示，三星電子是“全球範圍內應用 ChatGPT 規模最大的企業之一”，並指出該公司在韓國及海外的員工都在研發、市場營銷和銷售等工作中使用了 ChatGPT。Kim 表示，隨著實現更快速、更復雜計算所需的晶片技術不斷升級，儲存晶片的需求也將持續增長，這使得與韓國半導體供應商的合作成為 OpenAI 當地辦事處的優先事項。"
+    },
+    {
+      "id": "mkt:01a084bf-4ce2-7118-84fe-71d86795ba7b",
+      "time": "2026-09-09 13:58:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "01378.HK",
+        "Impact bullish",
+        "02259.HK",
+        "00358.HK"
+      ],
+      "text": "Hong Kong non-ferrous metal stocks rallied in afternoon trade: China Hongqiao (01378.HK) rose over 4%, Zijin Gold International (02259.HK) gained nearly 4%, while Aluminum Corp of China (02600.HK), China Nonferrous Mining (01258.HK), Zijin Mining (02899.HK), Jiangxi Copper (00358.HK) and Shandong Gold (01787.HK) each advanced more than 2%."
+    },
     {
       "id": "5084289",
       "time": "2026-09-09 13:57:27",

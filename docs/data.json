@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-09 13:58:55",
-  "count": 13652,
+  "updated": "2026-09-09 14:02:45",
+  "count": 13648,
   "items": [
+    {
+      "id": "mkt:01a084c1-4b2c-7118-84fe-7d992256bb32",
+      "time": "2026-09-09 14:00:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equity futures slipped; Euro Stoxx 50 futures down 0.37%, DAX futures down 0.42%, FTSE 100 futures down 0.41%."
+    },
+    {
+      "id": "5084290",
+      "time": "2026-09-09 13:59:26",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【OpenAI稱正與三星合作開發下一代晶片，並深化合作】OpenAI表示正深化與三星電子的合作，在半導體和企業級AI服務等領域拓展與這家韓國科技巨頭的聯絡。OpenAI韓國區總經理Harrison Kim週三在首爾舉行的新聞釋出會上表示：“在與三星電子的合作中，我們進展最顯著且獲得認可最多的領域之一，就是針對我們正在研發的下一代晶片所開展的聯合生產與研究。”但他未透露更多細節。Kim還表示，三星電子是“全球範圍內應用 ChatGPT 規模最大的企業之一”，並指出該公司在韓國及海外的員工都在研發、市場營銷和銷售等工作中使用了 ChatGPT。Kim 表示，隨著實現更快速、更復雜計算所需的晶片技術不斷升級，儲存晶片的需求也將持續增長，這使得與韓國半導體供應商的合作成為 OpenAI 當地辦事處的優先事項。"
+    },
+    {
+      "id": "mkt:01a084bf-4ce2-7118-84fe-71d86795ba7b",
+      "time": "2026-09-09 13:58:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "01378.HK",
+        "Impact bullish",
+        "02259.HK",
+        "00358.HK"
+      ],
+      "text": "Hong Kong non-ferrous metal stocks rallied in afternoon trade: China Hongqiao (01378.HK) rose over 4%, Zijin Gold International (02259.HK) gained nearly 4%, while Aluminum Corp of China (02600.HK), China Nonferrous Mining (01258.HK), Zijin Mining (02899.HK), Jiangxi Copper (00358.HK) and Shandong Gold (01787.HK) each advanced more than 2%."
+    },
     {
       "id": "5084289",
       "time": "2026-09-09 13:57:27",
@@ -124455,67 +124495,6 @@
         "國際"
       ],
       "text": "日本央行官員講話後，日元兌美元走強。"
-    },
-    {
-      "id": "mkt:01a060b5-5f78-7118-8453-b2ee6cf02725",
-      "time": "2026-09-02 14:01:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European Stoxx 50 futures down 0.36%, Germany's DAX futures down 0.46% and the UK's FTSE 100 futures down 0.37%."
-    },
-    {
-      "id": "5072416",
-      "time": "2026-09-02 14:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：上調零跑汽車評級至“買入”，風險回報已轉趨吸引】瑞銀髮表研報，將零跑汽車的投資評級由“中性”上調至“買入”，認為風險回報已轉趨吸引，維持目標價50港元。該行指出，多項上行催化劑有望浮現，包括銷量動能加速、9月技術釋出會，以及第二品牌與策略合作的潛在進展能見度提升。"
-    },
-    {
-      "id": "5072415",
-      "time": "2026-09-02 14:01:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "斯托克50期貨<STXEc1>下跌0.36%，德國DAX期貨<FDXc1>下跌0.46%，富時期貨<FFIc1>下跌0.37%。"
-    },
-    {
-      "id": "5072414",
-      "time": "2026-09-02 14:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬斯克預告10天后釋出Grok 4.7模型】馬斯克在X平臺釋出推文，預告將會在10天后釋出Grok 4.7模型。Grok 4.7模型引數規模達到2.1萬億，相比較Grok 4.6（1.5萬億）增漲40%。"
-    },
-    {
-      "id": "mkt:01a060b4-ad67-7118-8453-accc1ba7605b",
-      "time": "2026-09-02 14:00:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Global aluminium producer reportedly offers Japanese buyers Q4 premium down 18% QoQ】Two sources in quarterly pricing talks said on Wednesday a global aluminium producer offered Japanese buyers a $325/tonne premium for primary aluminium for Oct-Dec, an 18% decline from the current quarter. The premium is paid over LME spot. Another global producer last week submitted a preliminary $310/tonne offer, down 22% QoQ."
-    },
-    {
-      "id": "5072413",
-      "time": "2026-09-02 14:00:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "BP集團：伊恩·泰勒被任命為董事長。"
-    },
-    {
-      "id": "5072412",
-      "time": "2026-09-02 13:59:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市釋出森林（草原）火險橙色預警】重慶市森林草原防滅火指揮部、重慶市應急管理局、重慶市林業局、重慶市氣象局2026年9月2日12時聯合釋出“森林草原火險橙色預警訊號”。重慶兩江新區、大渡口、沙坪壩、九龍坡、南岸、北碚、巴南、高新區、潼南、合川、銅梁、大足、榮昌、永川、璧山、江津、綦江、萬盛、南川、長壽、涪陵、墊江、豐都、梁平、忠縣、萬州、開州、雲陽、奉節、巫溪、巫山、武隆、彭水、石柱、黔江等35個區縣已出現高森林草原火險氣象等級。預計9月2日到9日上述區縣仍將持續高或極高森林草原火險氣象等級，發生森林草原火災的風險高。"
     }
   ]
 }
