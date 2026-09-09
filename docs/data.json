@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10 06:55:32",
-  "count": 13537,
+  "updated": "2026-09-10 06:59:33",
+  "count": 13531,
   "items": [
     {
       "id": "5085895",
@@ -123586,60 +123586,6 @@
         "Copper"
       ],
       "text": "Australia August S&P Global Composite PMI (final) 52.7, prior 52.5."
-    },
-    {
-      "id": "te:markets:580601",
-      "time": "2026-09-03 06:59:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Muted in Morning Trade — New Zealand stocks were almost flat, trading around 13,937 in Thursday morning deals, after gaining in the previous session, as gains in consumer staples, real estate, and financials offset declines in energy, consumer discretionary, and healthcare. Traders continued to assess Wednesday’s RBNZ monetary policy decision to hike interest rates by 25 bps. The RBNZ signaled its determination to return price growth to its 1% to 3% target range. However, rising oil prices limited the gains amid heightened inflation concerns and reinforced expectations of an interest rate hike amid escalating Middle East tensions. Meanwhile, an upbeat session on Wall Street overnight lifted sentiment, buoyed by solid gains in heavyweight technology stocks. On the data front, New Zealand’s terms of trade continued to fall, with exports rising less than imports. Delegat Group advanced 1.3%, Chorus gained 0.9%, and A2 Milk rose 0.6%, while Fletcher Building and Fisher & Paykel fell 1.0% and 0.3%, respectively."
-    },
-    {
-      "id": "5074074",
-      "time": "2026-09-03 06:58:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家券商科創投資收益加速釋放】科創投資正成為影響券商業績的關鍵變數之一。隨著越來越多優質科技企業登陸資本市場，券商正積極透過旗下另類子公司、私募子公司開展科創投資，深度佈局科創領域。相關半年報資料顯示，43家A股上市券商中，有36家券商的另類子公司、34家券商的私募子公司實現盈利。（證券日報）"
-    },
-    {
-      "id": "mkt:01a06458-a761-7118-846f-5933b5321b15",
-      "time": "2026-09-03 06:58:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tropical Storm Shadell makes third landfall】Tropical Storm Shadell, the 18th named storm this year, made its third landfall near Gulei in Zhangpu County, Zhangzhou, Fujian province, China at about 06:30 on the 3rd; maximum winds near the center were 23 m/s (Beaufort scale 9) and central pressure was 985 hPa."
-    },
-    {
-      "id": "mkt:01a06457-ea98-7118-846f-5724c8d7a1cb",
-      "time": "2026-09-03 06:57:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s Mehr news agency, citing Arab sources, reported five explosions on Yemen’s west coast. Sources said the Yemeni army and Houthi forces fired ballistic missiles at Saudi-backed militant positions in Ibb province in southwestern Yemen."
-    },
-    {
-      "id": "5074073",
-      "time": "2026-09-03 06:57:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【報道：摩根大通向Jane Street減少發放用於債券交易的貸款】據報道，隨著Jane Street進軍債券市場與摩根大通形成直接競爭，摩根大通去年大幅削減了向前者發放的用於債券交易的貸款。知情人士稱，上述降幅約佔Jane Street在各行的固收融資總額的5%，對其2025年的收入沒有實質性影響。"
-    },
-    {
-      "id": "mkt:01a06457-16f5-7118-846f-49b813cd4cce",
-      "time": "2026-09-03 06:57:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【House Republicans Press Trump on Duty-Free Beef and Canada Trade Frictions】House Republicans are increasingly unhappy with Trump’s trade agenda and are preparing to press the White House directly, Axios reports. With midterms approaching, members singled out expanded duty-free beef imports and a potential trade confrontation with Canada as threats to domestic industry and district jobs. Trump hosted several Republican lawmakers at the White House Wednesday; Iowa Rep. Zach Nunn said beef will be on the agenda, and Michigan Rep. Bill Huizenga said he plans to raise the Canada issue."
     }
   ]
 }
