@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-09 08:00:34",
-  "count": 13801,
+  "updated": "2026-09-09 08:04:27",
+  "count": 13792,
   "items": [
+    {
+      "id": "mkt:01a08379-ceb1-7118-84f6-e51478e1a501",
+      "time": "2026-09-09 08:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flashlight Capital seeks shareholder registers for five Samsung Group subsidiaries to advance an action against S-1 Corp."
+    },
+    {
+      "id": "mkt:01a08378-91f2-7118-84f6-dc921b84e4be",
+      "time": "2026-09-09 08:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 98.53 points, or 0.15%, at 65,170.80 on Wednesday, Sept. 9."
+    },
+    {
+      "id": "mkt:01a08378-3a36-7118-84f6-d6545342a906",
+      "time": "2026-09-09 08:01:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【U.S. bans some Canadian imports, widens 50% tariff list】The White House said President Trump will ban imports of Canadian alcoholic beverages, certain dairy products and large motorcycles effective Sept. 29, citing Section 338 of the Tariff Act of 1930. The administration also said it will extend existing 50% tariffs to dozens of additional Canadian goods — including some steel and aluminum products, furniture and paper — effective Sept. 15. The White House noted the ban blocks market access for affected Canadian goods, rather than merely raising prices as a tariff would."
+    },
+    {
+      "id": "te:markets:582178",
+      "time": "2026-09-09 08:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline — Silver traded around $65.5 an ounce on Wednesday after sliding for two straight sessions, pressured by rising oil prices that heightened inflation concerns and strengthened expectations for interest rate hikes. Oil prices continued to climb after US forces destroyed five Iranian crude tankers near Kharg Island, the country’s main oil export hub, in retaliation for attempted missile attacks on a US warship. Investors also braced for key US inflation readings this week for further signals on the Federal Reserve’s next policy move. Markets are currently pricing in roughly a 60% chance of a 25-basis-point rate hike next week. Although precious metals are widely considered a hedge against inflation, higher interest rates can reduce demand for non-yielding assets by increasing the appeal of interest-bearing investments. Meanwhile, silver continued to find support from robust industrial demand, particularly from the solar energy and electrification sectors."
+    },
+    {
+      "id": "5083836",
+      "time": "2026-09-09 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.3%，至6972.87點。"
+    },
+    {
+      "id": "5083835",
+      "time": "2026-09-09 08:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數跌破99】美元指數跌破99，日內跌0.3922%。"
+    },
+    {
+      "id": "5083834",
+      "time": "2026-09-09 08:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報65087.22點，跌幅0.28％。韓國綜合股價指數（KOSPI）開盤上漲0.3％，至6972.87點。"
+    },
+    {
+      "id": "5083833",
+      "time": "2026-09-09 08:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報99.44美元/桶。"
+    },
+    {
+      "id": "5083832",
+      "time": "2026-09-09 08:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞將投資24億澳元用於提升防空和導彈防禦能力。"
+    },
     {
       "id": "5083831",
       "time": "2026-09-09 07:59:25",
@@ -125787,179 +125871,6 @@
         "國際"
       ],
       "text": "日本財務大臣片山皋月：G20會議上沒有人反對日本的外匯立場。"
-    },
-    {
-      "id": "5071877",
-      "time": "2026-09-02 08:04:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：正以極高的緊迫感監控債市形勢。"
-    },
-    {
-      "id": "mkt:01a05f6e-18fb-7118-844a-20089d57f1be",
-      "time": "2026-09-02 08:04:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said interest rates are determined by the market based on various factors."
-    },
-    {
-      "id": "5071876",
-      "time": "2026-09-02 08:04:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報64760.65點。"
-    },
-    {
-      "id": "mkt:01a05f6d-d3d1-7118-844a-1ccd4a200b80",
-      "time": "2026-09-02 08:03:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she would not comment specifically on the benchmark JGB yield reaching 3%."
-    },
-    {
-      "id": "mkt:01a05f6d-cd5c-7118-844a-154186805c85",
-      "time": "2026-09-02 08:03:46",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Governor Ueda: when reviewing policy we will also consider upside risks to prices."
-    },
-    {
-      "id": "5071875",
-      "time": "2026-09-02 08:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財政大臣片山：利率由市場依據多種因素決定。"
-    },
-    {
-      "id": "mkt:01a05f6d-a545-7118-844a-0a389fbee732",
-      "time": "2026-09-02 08:03:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Odessa official said Russia struck Odessa, damaging infrastructure."
-    },
-    {
-      "id": "5071874",
-      "time": "2026-09-02 08:03:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山就基準日本國債收益率觸及3%的提問表示：不會對具體點位置評。"
-    },
-    {
-      "id": "mkt:01a05f6d-6618-7118-844a-062e076a38ea",
-      "time": "2026-09-02 08:03:20",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Bank of Japan Governor UEDA said the central bank has raised its policy rate five times so far and needs to carefully assess the possible cumulative impact on the economy."
-    },
-    {
-      "id": "5071873",
-      "time": "2026-09-02 08:02:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4320美元/盎司，日內跌0.19%。"
-    },
-    {
-      "id": "mkt:01a05f6c-d619-7118-8449-fccde7c9eb53",
-      "time": "2026-09-02 08:02:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Russia's Deputy Foreign Minister Grushko said Moscow will respond to Germany's closure of the Russian consulate in Bonn."
-    },
-    {
-      "id": "5071872",
-      "time": "2026-09-02 08:02:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將密切關注過去加息累積的影響。"
-    },
-    {
-      "id": "5071871",
-      "time": "2026-09-02 08:01:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：制定政策時會考慮物價上漲的風險。"
-    },
-    {
-      "id": "mkt:01a05f6c-1d73-7118-8449-f35b52c8e4ef",
-      "time": "2026-09-02 08:01:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 1,058.52 points, or 1.60%, at 65,156.82 on Wednesday, Sept. 2."
-    },
-    {
-      "id": "mkt:01a05f6c-12b5-7118-8449-efb801491cad",
-      "time": "2026-09-02 08:01:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "Korea's KOSPI opened down 190.62 points, or 2.79%, at 6,645.18 on Wednesday, Sept. 2. SK Hynix and Samsung Electronics were each down 3%."
-    },
-    {
-      "id": "5071870",
-      "time": "2026-09-02 08:01:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：金融環境依然寬鬆。"
-    },
-    {
-      "id": "5071869",
-      "time": "2026-09-02 08:00:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。海力士股價下跌3%。"
-    },
-    {
-      "id": "5071868",
-      "time": "2026-09-02 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.1%，至6625.47點。"
     }
   ]
 }

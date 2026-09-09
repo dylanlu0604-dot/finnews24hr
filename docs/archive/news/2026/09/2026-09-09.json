@@ -1,7 +1,91 @@
 {
   "date": "2026-09-09",
-  "count": 550,
+  "count": 559,
   "items": [
+    {
+      "id": "mkt:01a08379-ceb1-7118-84f6-e51478e1a501",
+      "time": "2026-09-09 08:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flashlight Capital seeks shareholder registers for five Samsung Group subsidiaries to advance an action against S-1 Corp."
+    },
+    {
+      "id": "mkt:01a08378-91f2-7118-84f6-dc921b84e4be",
+      "time": "2026-09-09 08:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 98.53 points, or 0.15%, at 65,170.80 on Wednesday, Sept. 9."
+    },
+    {
+      "id": "mkt:01a08378-3a36-7118-84f6-d6545342a906",
+      "time": "2026-09-09 08:01:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【U.S. bans some Canadian imports, widens 50% tariff list】The White House said President Trump will ban imports of Canadian alcoholic beverages, certain dairy products and large motorcycles effective Sept. 29, citing Section 338 of the Tariff Act of 1930. The administration also said it will extend existing 50% tariffs to dozens of additional Canadian goods — including some steel and aluminum products, furniture and paper — effective Sept. 15. The White House noted the ban blocks market access for affected Canadian goods, rather than merely raising prices as a tariff would."
+    },
+    {
+      "id": "te:markets:582178",
+      "time": "2026-09-09 08:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline — Silver traded around $65.5 an ounce on Wednesday after sliding for two straight sessions, pressured by rising oil prices that heightened inflation concerns and strengthened expectations for interest rate hikes. Oil prices continued to climb after US forces destroyed five Iranian crude tankers near Kharg Island, the country’s main oil export hub, in retaliation for attempted missile attacks on a US warship. Investors also braced for key US inflation readings this week for further signals on the Federal Reserve’s next policy move. Markets are currently pricing in roughly a 60% chance of a 25-basis-point rate hike next week. Although precious metals are widely considered a hedge against inflation, higher interest rates can reduce demand for non-yielding assets by increasing the appeal of interest-bearing investments. Meanwhile, silver continued to find support from robust industrial demand, particularly from the solar energy and electrification sectors."
+    },
+    {
+      "id": "5083836",
+      "time": "2026-09-09 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.3%，至6972.87點。"
+    },
+    {
+      "id": "5083835",
+      "time": "2026-09-09 08:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數跌破99】美元指數跌破99，日內跌0.3922%。"
+    },
+    {
+      "id": "5083834",
+      "time": "2026-09-09 08:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報65087.22點，跌幅0.28％。韓國綜合股價指數（KOSPI）開盤上漲0.3％，至6972.87點。"
+    },
+    {
+      "id": "5083833",
+      "time": "2026-09-09 08:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報99.44美元/桶。"
+    },
+    {
+      "id": "5083832",
+      "time": "2026-09-09 08:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞將投資24億澳元用於提升防空和導彈防禦能力。"
+    },
     {
       "id": "5083831",
       "time": "2026-09-09 07:59:25",
