@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-10 02:23:58",
-  "count": 13545,
+  "updated": "2026-09-10 02:27:56",
+  "count": 13539,
   "items": [
+    {
+      "id": "mkt:01a0876c-a9cd-7118-850f-4fde4f2d7eb2",
+      "time": "2026-09-10 02:27:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AAPL.O"
+      ],
+      "text": "【Apple (AAPL.O) prices iPhone 18 in China: iPhone 18 Pro from 9,999 yuan; Pro Max 10,999 yuan; Duo 15,999 yuan】Apple (AAPL.O) set mainland China retail prices for its new iPhone lineup: iPhone 18 Pro from 9,999 yuan, iPhone 18 Pro Max from 10,999 yuan and iPhone Duo from 15,999 yuan."
+    },
+    {
+      "id": "te:markets:582499",
+      "time": "2026-09-10 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Drops by 2.95% — Top commodity losers are Wheat (-2.95%) and Oat (-2.07%). Gains are led by Rubber (2.94%), Sugar (1.38%) and Cotton (1.10%)."
+    },
     {
       "id": "5085666",
       "time": "2026-09-10 02:21:00",
@@ -123619,82 +123640,6 @@
         "DXY"
       ],
       "text": "【Trump says US prepared to strike Iran again; claims control of Strait of Hormuz】US President Trump told US travel industry executives at the White House on Wednesday that the Iranian regime \"is falling apart\" and said the US is prepared to strike Iran again, adding such an action \"won't last long.\" He also said \"we completely control the Strait of Hormuz,\" that \"millions of barrels of oil\" are exported daily from there, and expressed hope US retail gasoline prices would fall."
-    },
-    {
-      "id": "mkt:01a0635f-e52a-7118-846b-b3da242386b4",
-      "time": "2026-09-03 02:27:03",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. President Trump said on the Russia-Ukraine conflict that they must stop the fighting."
-    },
-    {
-      "id": "5073918",
-      "time": "2026-09-03 02:26:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：待我們為達成和平協議做好準備後，將舉行與普京的峰會。"
-    },
-    {
-      "id": "5073917",
-      "time": "2026-09-03 02:26:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：只要我願意，普京會再次舉行峰會。"
-    },
-    {
-      "id": "mkt:01a0635e-d573-7118-846b-af37622d7995",
-      "time": "2026-09-03 02:25:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he hopes to hold a summit with Russia's President Putin once the U.S. is ready to reach a Ukraine peace agreement."
-    },
-    {
-      "id": "5073916",
-      "time": "2026-09-03 02:25:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及俄烏衝突：他們必須結束這場衝突。"
-    },
-    {
-      "id": "te:markets:580575",
-      "time": "2026-09-03 02:25:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.28% — Top commodity losers are Cocoa (-4.28%), Coffee (-3.91%) and Cotton (-3.28%). Gains are led by Sugar (1.91%)."
-    },
-    {
-      "id": "mkt:01a0635d-ac59-7118-846b-a77db04a37d3",
-      "time": "2026-09-03 02:24:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he hopes retail gasoline prices will fall."
-    },
-    {
-      "id": "mkt:01a0635d-72f8-7118-846b-9a9b4a6d7346",
-      "time": "2026-09-03 02:24:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "President Trump raised the issue of oil price gouging in a meeting with oil and gas top executives."
     }
   ]
 }

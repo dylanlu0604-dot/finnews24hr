@@ -1,7 +1,28 @@
 {
   "date": "2026-09-10",
-  "count": 171,
+  "count": 173,
   "items": [
+    {
+      "id": "mkt:01a0876c-a9cd-7118-850f-4fde4f2d7eb2",
+      "time": "2026-09-10 02:27:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AAPL.O"
+      ],
+      "text": "【Apple (AAPL.O) prices iPhone 18 in China: iPhone 18 Pro from 9,999 yuan; Pro Max 10,999 yuan; Duo 15,999 yuan】Apple (AAPL.O) set mainland China retail prices for its new iPhone lineup: iPhone 18 Pro from 9,999 yuan, iPhone 18 Pro Max from 10,999 yuan and iPhone Duo from 15,999 yuan."
+    },
+    {
+      "id": "te:markets:582499",
+      "time": "2026-09-10 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Drops by 2.95% — Top commodity losers are Wheat (-2.95%) and Oat (-2.07%). Gains are led by Rubber (2.94%), Sugar (1.38%) and Cotton (1.10%)."
+    },
     {
       "id": "5085666",
       "time": "2026-09-10 02:21:00",
