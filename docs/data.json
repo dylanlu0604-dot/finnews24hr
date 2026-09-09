@@ -1,7 +1,149 @@
 {
-  "updated": "2026-09-09 09:55:51",
-  "count": 13703,
+  "updated": "2026-09-09 09:59:49",
+  "count": 13707,
   "items": [
+    {
+      "id": "5084017",
+      "time": "2026-09-09 09:58:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "航運板塊快速拉昇，海通發展直線漲停，國航遠洋漲近10%，招商輪船、中遠海能、鳳凰航運、海峽股份跟漲。"
+    },
+    {
+      "id": "mkt:01a083e3-c480-7118-84f9-b42700f5ba75",
+      "time": "2026-09-09 09:58:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300413.SZ",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China A-share online gaming sector plunged, led by Dasheng Culture which fell more than 8.5%; Mango Excellent Media, Baina Qiancheng and Shanghai Film dropped over 6%; Xinghui Entertainment, Caesar Culture and Simei Media fell more than 4%."
+    },
+    {
+      "id": "5084016",
+      "time": "2026-09-09 09:58:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊短線拉昇，大有能源漲停】煤炭開採加工板塊短線拉昇，大有能源漲停，雲煤能源、鄭州煤電、盤江股份、陝西黑貓、山煤國際等紛紛走高。"
+    },
+    {
+      "id": "5084015",
+      "time": "2026-09-09 09:58:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮公佈對加拿大關稅行動細則：加拿大酒類乳製品列入進口禁令】美國白宮釋出關於加拿大關稅行動的情況說明。宣告指出，為應對加拿大持續加劇的對美商業歧視，特朗普總統依據《1930年關稅法》第338條簽署五項公告，對部分加拿大產品實施進口禁令並調整此前關稅措施。鑑於加拿大在酒類和乳製品領域持續存在歧視行為，美方採取針對性措施：（第11046號公告）禁止進口加拿大酒類及其他受338條款50%關稅約束的產品；（第11047號公告）禁止進口加拿大乳製品及其他受338條款50%關稅約束的產品。同時，為減輕美企負擔併兼顧公共利益，美方對7月20日措施作出調整，包括移除部分產品（如岩鹽、水泥）和新增產品（如全地形車及更多乳製品）。上述338條款關稅適用於所有受管制商品，不論其是否具備美墨加協定（USMCA）原產地資格，且與232條款關稅疊加徵收。進口禁令自2026年9月29日起生效，產品調整自9月15日起生效。"
+    },
+    {
+      "id": "te:economy:582213",
+      "time": "2026-09-09 09:58:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "China Food Prices Fall for 5th Month — China’s food prices declined 1.4% year-on-year in August 2026, easing from a 1.5% drop in the previous month. While marking the fifth consecutive month of contraction, the latest decline was the mildest in the sequence. Prices fell further for fresh fruit (-0.5% vs -1.1% in July), edible oils (-1.3% vs -1.1%), and dairy products (-1.4% vs -1.5%). Fresh vegetable prices also dropped 2.8%, reversing a 0.3% increase in July. Pork prices, a key component of China’s food basket, continued to decline (-11.8% vs -13.9%), reflecting abundant supply and subdued demand. In contrast, egg prices accelerated (15.0% vs 14.4%)."
+    },
+    {
+      "id": "5084014",
+      "time": "2026-09-09 09:58:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農林牧漁板塊震盪拉昇，新農開發等漲停】農林牧漁板塊震盪拉昇，新農開發、亞盛集團漲停，新賽股份、敦煌種業、中糧糖業等跟漲。"
+    },
+    {
+      "id": "mkt:01a083e3-1060-7118-84f9-ac9091fe2afa",
+      "time": "2026-09-09 09:58:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Most US workers fear displacement in AI era】A recent Educational Testing Service (ETS) survey found 54% of US workers feel unprepared for new jobs over the next decade versus 49% globally. Seventy-five percent said they lack a clear understanding of what jobs will look like in 2035. Fifty-eight percent said they fear being displaced in the future workforce; the rate rises to 74% for tech workers and 73% for financial‑services staff. ETS identified consistent causes across markets: limited experience with emerging technologies such as AI, automation and data tools, and limited exposure to innovation systems increasingly used in modern work. Some respondents also worried newly acquired skills could become obsolete shortly after learning."
+    },
+    {
+      "id": "mkt:01a083e2-4199-7118-84f9-a2aac4c056d0",
+      "time": "2026-09-09 09:57:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share culture and media sector extended losses. Ciwen Media, Sanrenxing and Chuban Media were locked at the daily limit-down; CITIC Publishing and Huanrui Century hit the limit-down. Reader Media slid more than 9%; Yue Media, China Kechuan and Times Publishing fell about 9%."
+    },
+    {
+      "id": "mkt:01a083e1-ac8a-7118-84f9-9e40099a3a5b",
+      "time": "2026-09-09 09:56:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Data showed six commercial vessels transited the Strait of Hormuz on Tuesday, below the roughly 12-vessel ten-day average."
+    },
+    {
+      "id": "5084013",
+      "time": "2026-09-09 09:56:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，週二有六艘大宗商品運輸船透過霍爾木茲海峽，而10日平均水平約為12艘。"
+    },
+    {
+      "id": "te:markets:582211",
+      "time": "2026-09-09 09:55:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Marches Toward 4-Month High — The Australian dollar edged above $0.72, moving toward a four-month high as increasingly hawkish signals from the Reserve Bank continued to reinforce expectations for another rate hike this month. Deputy Governor Andrew Hauser said late Tuesday that the central bank will debate the case for higher rates at its September meeting, citing persistently high inflation and upside risks. Assistant Governor Sarah Hunter also said the RBA has little tolerance for stronger inflation and may need to raise rates for a fourth time this year. The central bank has already increased its cash rate three times in 2026 as surging oil prices linked to the Gulf conflict pushed inflation higher. Markets are now pricing a 74% probability of a 25-basis-point hike at the September 29 meeting, up sharply from less than 10% a month ago, while a November move is fully priced in. Elsewhere, stronger trade data from China also supported the Chinese-proxy Aussie, with China being Australia’s largest trading partner."
+    },
+    {
+      "id": "5084012",
+      "time": "2026-09-09 09:55:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中老鐵路今年前8個月傳送跨境旅客24.4萬人次 同比增長超50%】從國鐵昆明局瞭解到，今年前8個月，中老鐵路累計開行國際旅客列車972列，傳送跨境旅客達24.4萬人次，較2025年同期增長超50%。"
+    },
+    {
+      "id": "5084011",
+      "time": "2026-09-09 09:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個百米水深油氣原位擴容平臺正式投用】記者今天（9日）從中國海油獲悉，隨著恩平24-2油田第一口擴容調整井順利投產，我國首個百米水深級油氣原位擴容平臺正式投入使用，為海上老油田挖潛增效開闢了新路徑。（央視新聞）"
+    },
+    {
+      "id": "5084010",
+      "time": "2026-09-09 09:55:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "mkt:01a083df-8e96-7118-84f9-9539f993c9f3",
       "time": "2026-09-09 09:54:21",
@@ -124882,108 +125024,6 @@
         "國際"
       ],
       "text": "【美國“林肯”號航母停靠泰國港口】美國海軍航空母艦“林肯”號在海上航行200多天後，於當地時間2日上午駛入泰國林查班港。泰國官員稱，“林肯”號將與其他美國海軍艦艇一同停靠泰國，進行為期五天的休整和恢復。（央視新聞）"
-    },
-    {
-      "id": "5072105",
-      "time": "2026-09-02 09:59:32",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【中國鐵路通訊訊號集團有限公司原黨委副書記徐宗祥被開除黨籍】中央紀委國家監委網站9月2日通報，據中央紀委國家監委駐國務院國資委紀檢監察組、湖南省紀委監委訊息：日前，經中央紀委國家監委批准，中央紀委國家監委駐國務院國資委紀檢監察組和湖南省邵陽市監委對中國鐵路通訊訊號集團有限公司原黨委副書記、總經理徐宗祥嚴重違紀違法問題進行了立案審查調查。經查，徐宗祥喪失理想信念，背棄初心使命，參加迷信活動；罔顧中央八項規定精神，借用管理和服務物件車輛，公車私用，借為兒子操辦婚宴之機斂財；違背組織原則，不如實報告個人有關事項，違規為他人謀取人事方面利益並收受財物；廉潔底線失守，違規持有非上市公司股份並獲利，利用職務影響為親屬經營活動提供幫助，由他人支付應由本人支付的費用，違規收受禮金、購物卡，接受可能影響公正執行公務的娛樂活動安排，搞權色交易；違反生活紀律；違反國家法律法規，辦理和使用虛假身份證件；將公權力異化為謀取私利的工具，大肆收錢斂財，退而不休，利用職務便利在企業經營、專案承攬等方面為他人謀利，並非法收受鉅額財物。徐宗祥嚴重違反黨的政治紀律、中央八項規定精神、組織紀律、廉潔紀律、生活紀律，構成嚴重職務違法並涉嫌受賄、利用影響力受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經國務院國資委黨委研究，決定給予徐宗祥開除黨籍處分；經中央紀委國家監委駐國務院國資委紀檢監察組研究，決定按規定取消其享受的待遇；收繳其違紀違法所得；湖南省邵陽市監委將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5072104",
-      "time": "2026-09-02 09:58:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4290美元/盎司，日內跌0.89%。"
-    },
-    {
-      "id": "mkt:01a05fd6-b783-7118-844d-df94533773e2",
-      "time": "2026-09-02 09:58:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose over 1%; component Keli Co. rose over 11%."
-    },
-    {
-      "id": "mkt:01a05fd6-8c68-7118-844d-d3f726e458a7",
-      "time": "2026-09-02 09:58:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【BOJ hawk Takata says flexible rate hikes needed amid domestic financial and external developments】BOJ board member Takata said the bank should flexibly raise interest rates after assessing domestic financial conditions and overseas developments. He urged shifting away from the current stance that promotes higher potential inflation and said the BOJ should demonstrate determination to prevent inflation from deviating upward from expectations. Takata was the lone dissenter in July when the BOJ left the short-term rate at 1%; he had advocated raising it to 1.25% to counter inflation risk from external demand shocks."
-    },
-    {
-      "id": "te:markets:580255",
-      "time": "2026-09-02 09:58:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Hits 4-week Low — Copper decreased to 6.42 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Copper lost 1.48%, and in the last 12 months, it increased 41.3%."
-    },
-    {
-      "id": "mkt:01a05fd6-70a4-7118-844d-c9f5ad312259",
-      "time": "2026-09-02 09:58:04",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "【SK Group chairman Choi considers Japan memory fab, flags possible joint production with Kioxia】SK Group chairman Choi Tae-won said the company is considering building a new memory-chip fab in Japan and may pursue joint production with Kioxia, the Japanese NAND flash maker in which SK Hynix holds a stake. He said SK would be willing to partner if SK Hynix can be included in Kioxia’s future strategic plan and identified joint production, R&D and shared supply chains as possible cooperation areas, adding that SK would end its investment in Kioxia if no form of cooperation can be established. Citing booming AI-driven data-center demand, Choi said there is a 20–30% shortfall in data-center storage semiconductors and called Japan—with its concentration of equipment, materials and parts suppliers—an attractive candidate for overseas capacity on risk and cultural grounds."
-    },
-    {
-      "id": "5072103",
-      "time": "2026-09-02 09:57:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.08%，成分股中，科力股份漲11.58%，同惠電子漲4.87%，星圖測控漲4.36%，天工股份漲3.57%。"
-    },
-    {
-      "id": "5072102",
-      "time": "2026-09-02 09:57:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“本源悟空”真機實現相干量子路由系統 破解QRAM擴充套件難題】記者從安徽省量子計算晶片重點實驗室獲悉，本源量子聯合中國科學技術大學、合肥綜合性國家科學中心人工智慧研究院等科研團隊，在“本源悟空”自主超導量子計算機上成功研發出面向桶式QRAM （量子隨機存取儲存器）的“相干量子路由系統”，相當於為資料中心架設了“快速路”，有效解決了QRAM擴充套件的行業難題。相關論文已發表於國際物理期刊《Physical Review X》。（科創板日報）"
-    },
-    {
-      "id": "5072101",
-      "time": "2026-09-02 09:56:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓比索兌美元跌至62.571的歷史新低。"
-    },
-    {
-      "id": "mkt:01a05fd4-9e89-7118-844d-c4d7b38d5bee",
-      "time": "2026-09-02 09:56:04",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Philippine peso weakened to a record low of 62.571 per US dollar."
     }
   ]
 }
