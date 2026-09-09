@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-10 03:04:07",
-  "count": 13573,
+  "updated": "2026-09-10 03:08:07",
+  "count": 13577,
   "items": [
+    {
+      "id": "mkt:01a08791-7e0b-7118-8510-6e6b37e49f24",
+      "time": "2026-09-10 03:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said it could not identify a single root cause, but found biased reasoning behavior in its production models has declined over time."
+    },
+    {
+      "id": "5085713",
+      "time": "2026-09-10 03:07:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果iPhone 18 Pro國行售價9999元起，iPhone 18 Pro Max國行售價10999元起，9月12日開啟預購，18日發售】9月9日晚間訊息，蘋果公司在其秋季釋出會上釋出iPhone 18 Pro和iPhone 18 Pro Max。蘋果官網顯示，6.3英寸顯示屏的iPhone 18 Pro國行起售價為9999元，提供四個儲存版本：256GB售價9,999元、512GB售價11,999元、1TB售價15,499元、2TB售價20,499元。6.9英寸的iPhone 18 Pro Max國行起售價為10,999元，提供四個儲存版本：256GB售價10,999元、512GB售價12,999元、1TB售價16,499元、2TB售價21,499元。均有四色可選：勃艮第酒紅色、冰川藍色、銀色、黑色。新款將在9月12日晚8點接受預購，於9月18日正式發售。蘋果官網顯示，每位顧客限購 2 部 iPhone 18 Pro 和 2 部 iPhone 18 Pro Max。所有機型將在獲得批准後發售。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a08791-291b-7118-8510-66a770099294",
+      "time": "2026-09-10 03:07:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC investigated the training process to determine whether it can identify root causes of some biased reasoning exhibited by Claude MYTHOS 5 in related incidents."
+    },
+    {
+      "id": "mkt:01a08790-876a-7118-8510-5cebe634d504",
+      "time": "2026-09-10 03:06:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple raises China prices for iPhone 17, iPhone 17e and iPhone Air by 800 yuan】Apple's China online store shows new starting prices: iPhone 17 from 6,799 yuan, iPhone 17e from 5,299 yuan and iPhone Air from 8,799 yuan, each 800 yuan above launch price."
+    },
+    {
+      "id": "5085712",
+      "time": "2026-09-10 03:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：已展開調查訓練，以確認能否找出Claude Mythos 5在相關事件中出現部分偏見推理問題的根本原因。"
+    },
+    {
+      "id": "mkt:01a0878f-cf6a-7118-8510-524b86e09db7",
+      "time": "2026-09-10 03:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic said mismatched behavior observed in cybersecurity incidents is unlikely to surface in ordinary usage scenarios."
+    },
+    {
+      "id": "5085709",
+      "time": "2026-09-10 03:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：認為網路安全事件中出現的目標錯位行為不太可能在AI常規使用場景中發生。"
+    },
+    {
+      "id": "mkt:01a0878d-f69a-7118-8510-4e5aa111a92e",
+      "time": "2026-09-10 03:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: all incidents involved a single Claude instance; Claude never attempted to coordinate with other agents."
+    },
+    {
+      "id": "5085708",
+      "time": "2026-09-10 03:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：所有事件僅涉及一個克勞德（Claude）例項，克勞德從未嘗試與其他智慧體進行協同。"
+    },
+    {
+      "id": "5085707",
+      "time": "2026-09-10 03:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Mythos 5試圖向 PYPI 軟體包倉庫上傳惡意軟體包。"
+    },
+    {
+      "id": "mkt:01a0878d-95c6-7118-8510-40d1b7feb887",
+      "time": "2026-09-10 03:03:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic said the four incidents all occurred during cybersecurity assessments built by the same evaluation partner."
+    },
     {
       "id": "5085705",
       "time": "2026-09-10 03:02:34",
@@ -123897,67 +123994,6 @@
         "其他"
       ],
       "text": "委內瑞拉代總統羅德里格斯：委內瑞拉石油工人及相關企業準備儘快開工。"
-    },
-    {
-      "id": "5073936",
-      "time": "2026-09-03 03:07:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：波音公司今年早些時候就多項安全違規行為向美國聯邦航空管理局繳納 310 萬美元罰款，其中部分違規與阿拉斯加航空艙門塞脫落事件相關。"
-    },
-    {
-      "id": "5073935",
-      "time": "2026-09-03 03:07:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國國內對委內瑞拉相關協議 “普遍持肯定態度”。"
-    },
-    {
-      "id": "mkt:01a06384-28b0-7118-846c-4ce241b3f333",
-      "time": "2026-09-03 03:06:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reported Israel warned the UK it would take a 'significant response' if the UK imposes sanctions over West Bank settlements."
-    },
-    {
-      "id": "5073934",
-      "time": "2026-09-03 03:06:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：雙方的共同目標是為委內瑞拉吸引大規模投資。"
-    },
-    {
-      "id": "5073933",
-      "time": "2026-09-03 03:05:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國與委內瑞拉人民世代為夥伴。"
-    },
-    {
-      "id": "te:markets:580578",
-      "time": "2026-09-03 03:04:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Costco Wholesale Stock Price Hits 5-week Low — Costco Wholesale shares decreased to 925.73 USD, the lowest since July 2026. Over the past 4 weeks, Costco Wholesale lost 2.95%, and in the last 12 months, it decreased 2.51%."
-    },
-    {
-      "id": "mkt:01a06382-238a-7118-846c-45661e05a054",
-      "time": "2026-09-03 03:04:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US government backs OpenAI in copyright dispute with publishers, the Wall Street Journal reports."
     }
   ]
 }
