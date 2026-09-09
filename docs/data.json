@@ -1,7 +1,114 @@
 {
-  "updated": "2026-09-09 09:47:59",
-  "count": 13713,
+  "updated": "2026-09-09 09:51:50",
+  "count": 13709,
   "items": [
+    {
+      "id": "5084006",
+      "time": "2026-09-09 09:50:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【其他酒類板塊短線拉昇，古越龍山漲停】其他酒類板塊短線拉昇，古越龍山漲停，會稽山、金楓酒業、張裕A跟漲。"
+    },
+    {
+      "id": "5084005",
+      "time": "2026-09-09 09:50:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣跨境支付系統與11家外資銀行簽約】昨天，人民幣跨境支付系統與11家外資銀行直接參與者簽約，首次覆蓋盧安達、土耳其、烏茲別克等國家，人民幣跨境支付系統全球服務能力進一步提升。此次簽約後，人民幣跨境支付系統進一步擴容，截至目前，人民幣跨境支付系統參與者分佈全球133個國家和地區，業務覆蓋192個國家和地區。南非第一蘭特銀行資金總監穆齊·馬武索：透過成為人民幣跨境支付系統直接參與者，銀行可以提供更快捷、更透明的跨境人民幣結算支付服務，減少對多重中間環節的依賴。此外，人民幣跨境支付系統跨境保函產品也正式釋出，便利銀行間、銀行企業間開展跨境擔保業務，進一步豐富人民幣跨境應用場景。（央視新聞）"
+    },
+    {
+      "id": "5084004",
+      "time": "2026-09-09 09:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【墨西哥對原產於中國的鋁條杆型材作出反傾銷終裁】9月4日，墨西哥經濟部發布公告，對原產於中國的成品和半成品鋁條杆型材作出反傾銷肯定性終裁，決定正式徵收反傾銷稅，稅額為1.58美元/千克。涉案產品的TIGIE稅號為7604.10.02、7604.10.99、7604.29.01、7604.29.02和7604.29.99。措施自公告發布次日起生效。"
+    },
+    {
+      "id": "mkt:01a083db-80e0-7118-84f9-8299d5b332de",
+      "time": "2026-09-09 09:49:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House issued a statement on Canada’s tariff action."
+    },
+    {
+      "id": "5084003",
+      "time": "2026-09-09 09:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，特朗普曾向一些白宮助手贈送了4.5萬美元。"
+    },
+    {
+      "id": "5084002",
+      "time": "2026-09-09 09:49:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊區域性走高，百大集團漲停】零售板塊區域性走高，百大集團漲停，中百集團、愛嬰室、益民集團、寧波中百跟漲。"
+    },
+    {
+      "id": "5084001",
+      "time": "2026-09-09 09:49:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量67億元。"
+    },
+    {
+      "id": "mkt:01a083da-ac0c-7118-84f9-7eaea3c443f8",
+      "time": "2026-09-09 09:49:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-shares copper cable and high-speed connector sector strengthened; Zhaolong Interconnect hit the daily limit, while Xinya Electronics, Yangtze Optical Fibre & Cable, Huiyuan Communications and Sanfu Co. were earlier locked at the upper limit. Hengtong Optic‑Electric, Weike Technology and Hengdong Optics also advanced."
+    },
+    {
+      "id": "mkt:01a083da-aaa6-7118-84f9-70e812268682",
+      "time": "2026-09-09 09:49:00",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China Index Research Institute: August Beijing, Shanghai new and second‑hand home sales remained active】China Index Research Institute said Beijing and Shanghai relaxed housing policies in August. Beijing second‑hand residential transactions totaled 14,000 units, up 3.9% YoY; Shanghai second‑hand transactions remained elevated, up 16.3% YoY. New‑home transaction area in Beijing was roughly flat YoY in August; Shanghai new‑home sales area rose 16.0% YoY. The institute said activity reflects marginal improvement in supply–demand; prices remain in an adjustment channel and new‑home inventory is still relatively high, so the sustainability of the market recovery is uncertain."
+    },
+    {
+      "id": "5084000",
+      "time": "2026-09-09 09:48:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：8月京滬新房、二手房成交均保持一定活躍度】8月，京滬樓市政策相繼最佳化。中指研究院統計，8月北京二手商品住宅成交1.4萬套，同比增長3.9%；上海二手商品房成交規模保持高位，同比增長16.3%；新房方面，8月北京新建商品住宅成交面積與去年同期基本持平，上海同比增長16.0%。中指研究院指數研究部總經理曹晶晶認為，京滬樓市更多體現為成交保持活躍、供需關係邊際改善下的修復，價格仍處調整通道，新房庫存規模仍處相對高位，市場修復的持續性仍有待觀察。"
+    },
+    {
+      "id": "mkt:01a083d9-8897-7118-84f9-6be50fb442a3",
+      "time": "2026-09-09 09:47:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01191.HK",
+        "Impact bullish",
+        "06869.HK",
+        "01729.HK"
+      ],
+      "text": "Hong Kong-listed optical-communications stocks extended multi-day gains. Haiguang Xinzhen (01191.HK) continued yesterday’s rally, rising as much as 30% intraday; Yangtze Optical Fibre & Cable (06869.HK) jumped over 13%; Huiju Technology (01729.HK) gained about 8%; Zhongji Xuchuang (03308.HK) rose roughly 4%; Huahong Hongli (01347.HK) and Cambridge Technology (06166.HK) each added around 3%."
+    },
     {
       "id": "5083999",
       "time": "2026-09-09 09:47:21",
@@ -124931,154 +125038,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold touched $4,300/oz, down 0.67% intraday."
-    },
-    {
-      "id": "5072092",
-      "time": "2026-09-02 09:51:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Dropbox表示，在8月份的駭客攻擊中，約有5000個賬戶遭到入侵。"
-    },
-    {
-      "id": "5072091",
-      "time": "2026-09-02 09:51:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4300美元/盎司，日內跌0.66%。"
-    },
-    {
-      "id": "mkt:01a05fd0-38c6-7118-844d-9d8ca519e9ed",
-      "time": "2026-09-02 09:51:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan policy board member Takata said the Middle East conflict is unlikely to cause a slowdown in the Japanese economy."
-    },
-    {
-      "id": "5072090",
-      "time": "2026-09-02 09:51:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4350美元/盎司，日內跌1.11%。"
-    },
-    {
-      "id": "5072089",
-      "time": "2026-09-02 09:51:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行委員高田創：中東衝突不太可能導致日本經濟下滑。"
-    },
-    {
-      "id": "mkt:01a05fcf-4378-7118-844d-967ca93d538f",
-      "time": "2026-09-02 09:50:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Wright says 17 mln barrels transited Strait of Hormuz on Monday; Kpler tracking shows no oil cargoes】Per Reuters, US Energy Secretary Wright said 17 mln barrels of crude transited the Strait of Hormuz on Monday, the highest flow since Iran-related conflict disrupted shipping. That contrasts with preliminary vessel-tracking from Kpler, which showed only five bulk carriers transited on Monday and recorded no oil cargoes. Vessels with transponders turned off would not appear in Kpler’s data. Wright has previously said Hormuz flows exceed ship-tracking firms’ records."
-    },
-    {
-      "id": "mkt:01a05fcf-3443-7118-844d-8c2c15d7ea3d",
-      "time": "2026-09-02 09:50:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Australian growth unexpectedly accelerates; RESERVE BANK OF AUSTRALIA rate-hike odds rise】Australia's economy unexpectedly accelerated in Q2, strengthening the case for further tightening by the RESERVE BANK OF AUSTRALIA. The Australian Bureau of Statistics reported Q2 GDP +0.4% QoQ (consensus 0.3%) and +2.1% YoY (consensus 1.8%). The prints suggest prior RBA measures to curb inflation have not materially slowed activity. GDP will be a key input ahead of the RBA's Sep 28–29 meeting. NAB economist Sally Auld, after stronger-than-expected inflation, now expects a September hike and said the risk of a further November increase \"leans to the upside.\" The RBA held rates unchanged for a second straight meeting last month after three hikes from Feb–May."
-    },
-    {
-      "id": "mkt:01a05fcf-21b7-7118-844d-8188c65c4de2",
-      "time": "2026-09-02 09:50:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "RBNZ to announce interest rate decision and Monetary Policy Statement in 10 minutes."
-    },
-    {
-      "id": "5072088",
-      "time": "2026-09-02 09:49:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊震盪反彈 遠東股份、太陽電纜雙雙漲停】早盤電網裝置板塊震盪反彈，遠東股份、太陽電纜漲停，揚電科技、神馬電力、漢纜股份、億能電力、燦能電力等跟漲。"
-    },
-    {
-      "id": "te:markets:580253",
-      "time": "2026-09-02 09:49:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tencent Holdings Stock Price Hits 5-week Low — Tencent Holdings shares decreased to 435.60 HKD, the lowest since July 2026. Over the past 4 weeks, Tencent Holdings lost 10.89%, and in the last 12 months, it decreased 27.23%."
-    },
-    {
-      "id": "mkt:01a05fce-4f23-7118-844d-7d4017c4ba57",
-      "time": "2026-09-02 09:49:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US military rebuts wedding airstrike claim, says it does not target civilians】Axios reported Iranian state media said a US airstrike struck a wedding in Kuhestak, killing at least four and wounding 35. CENTCOM spokesman Captain Tim Hawkins said he was aware of the reports, which originate with Iranian state media, and added that, unlike the Islamic Revolutionary Guard Corps (IRGC), US forces would never target civilians."
-    },
-    {
-      "id": "5072087",
-      "time": "2026-09-02 09:48:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "AI手機概念表現活躍，道明光學漲停，格林精密、福日電子、傳音控股跟漲。"
-    },
-    {
-      "id": "mkt:01a05fce-0045-7118-844d-779ae585ecb9",
-      "time": "2026-09-02 09:48:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "SSE Composite"
-      ],
-      "text": "A-share power-grid equipment sector rebounded in short-term trading; Yuandong hit the daily limit, Taiyang Cable gained over 8%, and Yangdian Technology, Shenma Power, Yikun Electric and Hangdian also rose. China’s National Energy Administration held a new-grid construction deployment meeting, calling for faster approval and construction of major grid projects, including transmission corridors."
-    },
-    {
-      "id": "te:markets:580251",
-      "time": "2026-09-02 09:48:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Drop on Rallying Oil Prices — Asian equity markets fell sharply on Wednesday, tracking Wall Street lower as a surge oil prices heightened concerns over inflation and imminent interest rate hikes. Global bond yields also rallied on mounting inflation worries, expectations of monetary tightening and worsening fiscal conditions, pressuring equities further. Tech-heavy indexes in South Korea and Japan dropped about 3%, leading regional declines. Shares in Australia, China and Hong Kong also slumped."
-    },
-    {
-      "id": "5072086",
-      "time": "2026-09-02 09:48:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量657億元。"
     }
   ]
 }
