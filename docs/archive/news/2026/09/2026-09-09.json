@@ -1,7 +1,72 @@
 {
   "date": "2026-09-09",
-  "count": 2418,
+  "count": 2426,
   "items": [
+    {
+      "id": "mkt:01a086d1-92bc-7118-850b-875ffa64c2bd",
+      "time": "2026-09-09 23:37:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on Sept 9: Germany’s DAX30 fell 408.73 pts (-1.57%) to 25,584.19; UK’s FTSE 100 slid 142.34 pts (-1.32%) to 10,669.32; France’s CAC 40 dropped 161.31 pts (-1.94%) to 8,156.67; Euro Stoxx 50 declined 100.42 pts (-1.57%) to 6,312.75; Spain’s IBEX 35 fell 305.77 pts (-1.53%) to 19,691.33; Italy’s FTSE MIB eased 307.97 pts (-0.59%) to 51,869.50."
+    },
+    {
+      "id": "mkt:01a086d0-02b4-7118-850b-79ad2869e678",
+      "time": "2026-09-09 23:36:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Fox News, Trump administration officials said increasing the size of Treasury buybacks is part of an ongoing strategy."
+    },
+    {
+      "id": "5085558",
+      "time": "2026-09-09 23:36:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府官員：本次回購公告是在此前相關強化舉措基礎上推出。"
+    },
+    {
+      "id": "5085557",
+      "time": "2026-09-09 23:35:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府官員關於回購公告的表態：回購規模上調屬於現行政策安排的一部分。"
+    },
+    {
+      "id": "mkt:01a086ce-fe68-7118-850b-77ec4a61797c",
+      "time": "2026-09-09 23:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey, Pakistan, Saudi Arabia, the UAE, Qatar, Egypt, Jordan and Indonesia welcomed the UK decision to ban imports of goods from illegal settlements in the West Bank."
+    },
+    {
+      "id": "mkt:01a086ce-4109-7118-850b-699a55f9b5b0",
+      "time": "2026-09-09 23:34:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 4-month Treasury auction as of Sept 9: percentage of awards at the stop-out yield 37.41% (prior 76.38%)."
+    },
+    {
+      "id": "5085556",
+      "time": "2026-09-09 23:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：希望美國在鋼鐵、鋁、汽車方面降低關稅。"
+    },
     {
       "id": "mkt:01a086ce-29dd-7118-850b-644bc4ccdb6b",
       "time": "2026-09-09 23:34:13",
@@ -17,6 +82,14 @@
         "MKT News"
       ],
       "text": "US 4-month Treasury auction on Sept 9: stop-out yield 3.895%, prior 3.86%."
+    },
+    {
+      "id": "5085555",
+      "time": "2026-09-09 23:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、巴基斯坦、沙烏地阿拉伯、阿聯酋、卡達、埃及、約旦、印度尼西亞發表聯合宣告，對英國禁止進口約旦河西岸非法定居點產品的決定表示歡迎。"
     },
     {
       "id": "mkt:01a086ce-0a96-7118-850b-57f147260b5f",

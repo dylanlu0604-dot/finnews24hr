@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-09 23:34:55",
-  "count": 13592,
+  "updated": "2026-09-09 23:38:59",
+  "count": 13594,
   "items": [
+    {
+      "id": "mkt:01a086d1-92bc-7118-850b-875ffa64c2bd",
+      "time": "2026-09-09 23:37:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on Sept 9: Germany’s DAX30 fell 408.73 pts (-1.57%) to 25,584.19; UK’s FTSE 100 slid 142.34 pts (-1.32%) to 10,669.32; France’s CAC 40 dropped 161.31 pts (-1.94%) to 8,156.67; Euro Stoxx 50 declined 100.42 pts (-1.57%) to 6,312.75; Spain’s IBEX 35 fell 305.77 pts (-1.53%) to 19,691.33; Italy’s FTSE MIB eased 307.97 pts (-0.59%) to 51,869.50."
+    },
+    {
+      "id": "mkt:01a086d0-02b4-7118-850b-79ad2869e678",
+      "time": "2026-09-09 23:36:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Fox News, Trump administration officials said increasing the size of Treasury buybacks is part of an ongoing strategy."
+    },
+    {
+      "id": "5085558",
+      "time": "2026-09-09 23:36:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府官員：本次回購公告是在此前相關強化舉措基礎上推出。"
+    },
+    {
+      "id": "5085557",
+      "time": "2026-09-09 23:35:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普政府官員關於回購公告的表態：回購規模上調屬於現行政策安排的一部分。"
+    },
+    {
+      "id": "mkt:01a086ce-fe68-7118-850b-77ec4a61797c",
+      "time": "2026-09-09 23:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey, Pakistan, Saudi Arabia, the UAE, Qatar, Egypt, Jordan and Indonesia welcomed the UK decision to ban imports of goods from illegal settlements in the West Bank."
+    },
+    {
+      "id": "mkt:01a086ce-4109-7118-850b-699a55f9b5b0",
+      "time": "2026-09-09 23:34:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 4-month Treasury auction as of Sept 9: percentage of awards at the stop-out yield 37.41% (prior 76.38%)."
+    },
+    {
+      "id": "5085556",
+      "time": "2026-09-09 23:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：希望美國在鋼鐵、鋁、汽車方面降低關稅。"
+    },
     {
       "id": "mkt:01a086ce-29dd-7118-850b-644bc4ccdb6b",
       "time": "2026-09-09 23:34:13",
@@ -17,6 +82,14 @@
         "MKT News"
       ],
       "text": "US 4-month Treasury auction on Sept 9: stop-out yield 3.895%, prior 3.86%."
+    },
+    {
+      "id": "5085555",
+      "time": "2026-09-09 23:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、巴基斯坦、沙烏地阿拉伯、阿聯酋、卡達、埃及、約旦、印度尼西亞發表聯合宣告，對英國禁止進口約旦河西岸非法定居點產品的決定表示歡迎。"
     },
     {
       "id": "mkt:01a086ce-0a96-7118-850b-57f147260b5f",
@@ -123900,59 +123973,6 @@
         "其他"
       ],
       "text": "穆迪評級：將奈及利亞銀行B3長期存款評級展望由穩定調整為正面。"
-    },
-    {
-      "id": "5073758",
-      "time": "2026-09-02 23:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：塞爾維亞預算修訂凸顯政策組合面臨的政治風險。"
-    },
-    {
-      "id": "mkt:01a062c5-c9eb-7118-8468-84f11ee2e25f",
-      "time": "2026-09-02 23:38:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Iran says seized 382,000 liters of smuggled diesel in northern Persian Gulf】Iranian border forces detained a foreign tug and seized 382,000 liters of smuggled diesel, arresting 11 foreign nationals, state broadcaster IRIB reported. Khuzestan province border units, acting on an intelligence tip, formed rapid-response teams based in Abadan and intercepted the vessel inside Iranian territorial waters, IRIB said."
-    },
-    {
-      "id": "5073757",
-      "time": "2026-09-02 23:38:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗說在波斯灣北部查獲38.2萬升走私燃油】據伊朗媒體2日報道，伊朗邊防部隊日前在波斯灣北部海域扣押一艘涉嫌走私燃油的外國拖船，查獲38.2萬升柴油，並逮捕11名外國籍嫌疑人。（新華社）"
-    },
-    {
-      "id": "5073756",
-      "time": "2026-09-02 23:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊會見議會議員薩拉布。"
-    },
-    {
-      "id": "5073755",
-      "time": "2026-09-02 23:36:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談及伊朗與俄羅斯：遺憾的是，就伊朗問題而言，我們與俄羅斯對局勢的看法並不一致。"
-    },
-    {
-      "id": "mkt:01a062c2-755f-7118-8468-7978e5c878a3",
-      "time": "2026-09-02 23:35:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "German government spokesman said Chancellor Merz pledged to Ukrainian President Zelenskiy that Ukraine can rely on Germany for firm, sustained civilian and military support."
     }
   ]
 }
