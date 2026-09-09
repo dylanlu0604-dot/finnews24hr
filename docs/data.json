@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10 07:05:41",
-  "count": 13529,
+  "updated": "2026-09-10 07:09:42",
+  "count": 13533,
   "items": [
+    {
+      "id": "5085908",
+      "time": "2026-09-10 07:08:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【iPhoneDuo充電5分鐘看影片5小時】9月10日凌晨1點，備受關注的蘋果秋季釋出會啟幕，蘋果CEO約翰・特努斯（John Ternus）會上釋出首款摺疊屏iPhone Duo，四個記憶體版本售價15999元起，頂配價格為26499元。 從釋出會上獲悉，iPhone Duo支援快速充電，約20分鐘最多可充至50%的電量，充電5分鐘，最多可在外屏上觀看5小時影片。"
+    },
+    {
+      "id": "5085907",
+      "time": "2026-09-10 07:07:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "UBS將中國移動A股評級上調至買進，目標價113元。"
+    },
+    {
+      "id": "5085906",
+      "time": "2026-09-10 07:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國考慮加入美國主導的霍爾木茲海峽海上聯盟】韓國東亞日報援引匿名政府官員訊息稱，若韓國向霍爾木茲海峽部署軍事裝備，其主要考慮的方式是加入美國主導的海上聯盟，以此提供軍事支援。韓國政府計劃在 10 月或 11 月完成對潛在部署方案的評估。韓國優先考慮美方主導的行動，原因是英法牽頭的另一項多國任務尚未全面投入執行；韓國可能先加入美國主導的行動，後續再與英法牽頭的多國任務開展合作。韓國正在評估可部署裝備，包括 P-8 海上巡邏機以及爆炸物處理小隊。報道稱，韓國總統府表示，霍爾木茲海峽兵力部署的時間與形式尚未確定。"
+    },
+    {
+      "id": "te:economy:582520",
+      "time": "2026-09-10 07:05:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "RICS House Price Balance",
+        "Importance 1"
+      ],
+      "text": "UK House Price Balance Improves to 5-Month High — The RICS UK Residential Market Survey showed that the house price balance improved to -28% in August 2026 from an upwardly revised -29% in July, reaching a five-month high as the market showed signs of stabilizing. The net balance for new buyer enquiries rose to -19%, its strongest reading since January, while sales expectations improved to -3% from -13%. RICS said activity indicators have become progressively less negative, although any recovery remains fragile. Property prices are still expected to fall over the next three months but stabilize over a 12-month horizon. London reported the weakest price balance, while Northern Ireland remained the strongest market. Rental market tenant demand and fewer properties from landlords pushed the three-month rent expectations balance to +44% from +33%. RICS warned that prospects for higher interest rates or heavier property taxation after October’s budget could weigh on prices."
+    },
+    {
+      "id": "mkt:01a0886b-69df-7118-8513-36b78686b76f",
+      "time": "2026-09-10 07:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports U.S. Democratic Senator John Fetterman will appear via video at the Republican convention in Dallas to introduce Pennsylvania Republican Senator David McCormick. The unusual cross-party appearance, reflecting a close bipartisan relationship between the two senators, is likely to spur further speculation about Fetterman's political future."
+    },
+    {
+      "id": "5085905",
+      "time": "2026-09-10 07:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普核心顧問擔憂：對伊朗戰爭或將持續至其任期結束】美國官員稱，白宮高階顧問已私下向特朗普總統提出，對伊朗戰爭有可能拖至他任期剩餘階段，這與特朗普公開表態的速勝說法相悖。官員表示，在總統辦公室與戰情室的討論中，副總統 JD・萬斯、國務卿馬可・魯比奧等人向總統談到，在封鎖及其他軍事手段下，德黑蘭方面或將持續抵抗美方施壓，衝突有可能延續至 2029 年 1 月就職日之後。這場閉門討論發生之際，特朗普週三對記者表示，戰爭將在 11 月中期選舉結束後 “立刻” 終止，“因為他們撐不了多久了”。"
+    },
     {
       "id": "mkt:01a08869-29a8-7118-8513-2f9e0e10ed23",
       "time": "2026-09-10 07:03:08",
@@ -9,6 +61,14 @@
         "MKT News"
       ],
       "text": "Wall Street Journal reports US officials say senior White House advisers raised with Trump the possibility that the war could drag on through the end of his term."
+    },
+    {
+      "id": "5085904",
+      "time": "2026-09-10 07:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾能源部長稱將在路演中推出109個石油區塊。"
     },
     {
       "id": "5085902",
@@ -123530,35 +123590,6 @@
         "國際"
       ],
       "text": "【美國南方司令部：擊沉在東太平洋攔截的船隻】美國南方司令部：9 月 2 日，遵照美國南方司令部指揮官弗朗西斯・L・多諾萬將軍的指令，並與厄瓜多政府協同合作，西半球聯合特遣部隊（JTF‑WHEM）在東太平洋國際水域，成功攔截一艘充當海上浮動加油站、為非法海上毒品走私活動提供支援的船隻。情報證實，該船為暴力販毒恐怖組織 “洛斯喬內羅斯” 提供作業支援。從 “聖安東尼奧” 號兩棲船塢運輸艦（LPD‑17）出動的美國海軍陸戰隊與海軍人員，對該船實施攔截、登船、搜查及清艙作業，全程未發生意外。船上人員被安全移交厄瓜多當局。完成相關處置後，美軍將該船擊沉。此次攔截打掉了販毒分子物流鏈條上的關鍵節點，助力美洲反卡特爾聯盟（A3C）與西半球聯合特遣部隊瓦解販毒恐怖組織網路的目標。美國國防部與美洲反卡特爾聯盟將堅定不移執行任務，打擊西半球販毒恐怖分子，守護本國國土安全。"
-    },
-    {
-      "id": "5074085",
-      "time": "2026-09-03 07:09:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、從荒蕪沙漠到產業叢集——中埃經貿合作建起優質“樣板間”\n2、國家能源區域性署新型電網建設重大任務\n3、太空算力雲實現常態化在軌算力服務\n4、中央網信辦深入整治AI應用亂象 累計清理違法違規資訊五百六十一萬餘條\n5、福馬“小三通”暑期客運量創復航以來新高 同比增長約26%\n6、有關部門和專家解讀《物流網建設實施方案》 推動從“布點暢線”向“成鏈成網”轉型升級（經濟聚焦·“六張網”這樣建）\n7、北交所設立五年來支援超三百家企業上市 最佳化職能，服務創新型中小企業\n8、三部門釋出《汽車行業境外競爭行為與合規建設指引》\n9、創新推出全新對接機制 東博會首設東盟國家需求展\n10、貴州推動非常規天然氣增儲上產\n11、59項強制性國家標準9月起實施。"
-    },
-    {
-      "id": "5074084",
-      "time": "2026-09-03 07:09:11",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同埃及總統塞西會談\n2、習近平和彭麗媛同埃及總統塞西夫婦共同參觀大埃及博物館\n3、習近平圓滿結束對埃及的國事訪問\n4、習近平致電祝賀挪威國王哈康八世即位\n5、《平“語”近人——習近平喜歡的典故》（阿拉伯語版）在埃及主流媒體播出。"
-    },
-    {
-      "id": "mkt:01a06460-ec61-7118-846f-8abc47170420",
-      "time": "2026-09-03 07:07:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "F.O",
-        "Impact mixed"
-      ],
-      "text": "【Ford sets 100,000 first-year sales target for $30,000 electric pickup】Ford is targeting more than 100,000 units in the first year of production for its new Fathom electric pickup, priced from about $30,000, with a planned launch next year and production on a new assembly line in Louisville, Kentucky. The goal is unusually aggressive—so far only Tesla has hit similar volumes in the US—and Wall Street analysts and some Ford dealers question demand. After the $7,500 federal tax credit was phased out, US EV sales have fallen: MotorIntelligence reports EVs made up 5.7% of US auto sales in August versus 10.3% a year earlier, with volumes down 48% YoY."
     }
   ]
 }

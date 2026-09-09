@@ -1,7 +1,59 @@
 {
   "date": "2026-09-10",
-  "count": 462,
+  "count": 469,
   "items": [
+    {
+      "id": "5085908",
+      "time": "2026-09-10 07:08:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【iPhoneDuo充電5分鐘看影片5小時】9月10日凌晨1點，備受關注的蘋果秋季釋出會啟幕，蘋果CEO約翰・特努斯（John Ternus）會上釋出首款摺疊屏iPhone Duo，四個記憶體版本售價15999元起，頂配價格為26499元。 從釋出會上獲悉，iPhone Duo支援快速充電，約20分鐘最多可充至50%的電量，充電5分鐘，最多可在外屏上觀看5小時影片。"
+    },
+    {
+      "id": "5085907",
+      "time": "2026-09-10 07:07:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "UBS將中國移動A股評級上調至買進，目標價113元。"
+    },
+    {
+      "id": "5085906",
+      "time": "2026-09-10 07:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國考慮加入美國主導的霍爾木茲海峽海上聯盟】韓國東亞日報援引匿名政府官員訊息稱，若韓國向霍爾木茲海峽部署軍事裝備，其主要考慮的方式是加入美國主導的海上聯盟，以此提供軍事支援。韓國政府計劃在 10 月或 11 月完成對潛在部署方案的評估。韓國優先考慮美方主導的行動，原因是英法牽頭的另一項多國任務尚未全面投入執行；韓國可能先加入美國主導的行動，後續再與英法牽頭的多國任務開展合作。韓國正在評估可部署裝備，包括 P-8 海上巡邏機以及爆炸物處理小隊。報道稱，韓國總統府表示，霍爾木茲海峽兵力部署的時間與形式尚未確定。"
+    },
+    {
+      "id": "te:economy:582520",
+      "time": "2026-09-10 07:05:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "RICS House Price Balance",
+        "Importance 1"
+      ],
+      "text": "UK House Price Balance Improves to 5-Month High — The RICS UK Residential Market Survey showed that the house price balance improved to -28% in August 2026 from an upwardly revised -29% in July, reaching a five-month high as the market showed signs of stabilizing. The net balance for new buyer enquiries rose to -19%, its strongest reading since January, while sales expectations improved to -3% from -13%. RICS said activity indicators have become progressively less negative, although any recovery remains fragile. Property prices are still expected to fall over the next three months but stabilize over a 12-month horizon. London reported the weakest price balance, while Northern Ireland remained the strongest market. Rental market tenant demand and fewer properties from landlords pushed the three-month rent expectations balance to +44% from +33%. RICS warned that prospects for higher interest rates or heavier property taxation after October’s budget could weigh on prices."
+    },
+    {
+      "id": "mkt:01a0886b-69df-7118-8513-36b78686b76f",
+      "time": "2026-09-10 07:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports U.S. Democratic Senator John Fetterman will appear via video at the Republican convention in Dallas to introduce Pennsylvania Republican Senator David McCormick. The unusual cross-party appearance, reflecting a close bipartisan relationship between the two senators, is likely to spur further speculation about Fetterman's political future."
+    },
+    {
+      "id": "5085905",
+      "time": "2026-09-10 07:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普核心顧問擔憂：對伊朗戰爭或將持續至其任期結束】美國官員稱，白宮高階顧問已私下向特朗普總統提出，對伊朗戰爭有可能拖至他任期剩餘階段，這與特朗普公開表態的速勝說法相悖。官員表示，在總統辦公室與戰情室的討論中，副總統 JD・萬斯、國務卿馬可・魯比奧等人向總統談到，在封鎖及其他軍事手段下，德黑蘭方面或將持續抵抗美方施壓，衝突有可能延續至 2029 年 1 月就職日之後。這場閉門討論發生之際，特朗普週三對記者表示，戰爭將在 11 月中期選舉結束後 “立刻” 終止，“因為他們撐不了多久了”。"
+    },
     {
       "id": "mkt:01a08869-29a8-7118-8513-2f9e0e10ed23",
       "time": "2026-09-10 07:03:08",
@@ -9,6 +61,14 @@
         "MKT News"
       ],
       "text": "Wall Street Journal reports US officials say senior White House advisers raised with Trump the possibility that the war could drag on through the end of his term."
+    },
+    {
+      "id": "5085904",
+      "time": "2026-09-10 07:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾能源部長稱將在路演中推出109個石油區塊。"
     },
     {
       "id": "5085902",
