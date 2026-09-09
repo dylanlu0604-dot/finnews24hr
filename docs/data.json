@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-09 13:39:27",
+  "updated": "2026-09-09 13:43:23",
   "count": 13673,
   "items": [
+    {
+      "id": "5084277",
+      "time": "2026-09-09 13:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展成立房地產顧問公司】企查查APP顯示，近日，上海保潤和家房地產顧問有限公司成立，法定代表人為高煥，經營範圍包含：房地產諮詢；房地產經紀；非居住房地產租賃；市場營銷策劃；企業管理諮詢；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由保利發展間接全資持股。"
+    },
+    {
+      "id": "mkt:01a084af-9d48-7118-84fe-2fb70e53a2b2",
+      "time": "2026-09-09 13:41:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Several China A-share tech ETFs — semiconductor, STAR Market semiconductor, AI and communications ETFs — turned negative in the afternoon after earlier intraday gains."
+    },
+    {
+      "id": "mkt:01a084ae-fe67-7118-84fe-25233190ada9",
+      "time": "2026-09-09 13:40:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share digital-currency sector slid again in the afternoon; Cuiwei neared its limit-down, with Chutianlong, Kelan Software, Tianrongxin, Dongxin Heping, Sifang Jingchuang and Hengbao also falling."
+    },
+    {
+      "id": "mkt:01a084ae-730a-7118-84fe-1a9c4ef4e30c",
+      "time": "2026-09-09 13:40:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan: 10-year US Treasury auction may need price concession】JP Morgan strategists said in a note the US Treasury's $39 bln 10-year auction on Wednesday may need to offer price concessions to be fully absorbed, citing weaker fundamental and near-term valuation support. TRADEWEB DATA showed the 10-year Treasury yield fell 1.2bps in Asian trade to 4.790%."
+    },
     {
       "id": "5084276",
       "time": "2026-09-09 13:38:27",
@@ -124652,43 +124701,6 @@
         "國際"
       ],
       "text": "星鏈：Starlink Mobile正攜手4iG集團在歐洲拓展業務。該服務將首先在匈牙利和阿爾巴尼亞推出，提供應用程式和即時通訊功能，為偏遠地區的更多使用者提供網路連線。隨後，Starlink Mobile的下一代服務V2將擴充套件至黑山和北馬其頓，利用我們全球通用的統一頻譜，直接為行動電話使用者提供高速寬頻服務。"
-    },
-    {
-      "id": "5072390",
-      "time": "2026-09-02 13:42:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "匈牙利4IG集團與SpaceX就星鏈移動解決方案簽署協議。"
-    },
-    {
-      "id": "mkt:01a060a3-35de-7118-8453-0aa9f752d1f4",
-      "time": "2026-09-02 13:41:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two Turkish merchant ships collide near Istanbul; one vessel, 10 crew lose contact】Istanbul provincial government said two Turkish-flagged merchant vessels collided in the Sea of Marmara near Silivri at about 03:00 local time (08:00 Beijing) on Wednesday. The chemical tanker Alsu, en route to Aegean port Aliağa, and the bulk carrier Tugberk Imamoglu, bound for Black Sea port Karadeniz Ereğli, collided. Coast guard vessels and helicopters are conducting search-and-rescue operations. Authorities reported no obvious damage to Alsu but have lost contact with Tugberk Imamoglu and its 10 crew. Search efforts are ongoing."
-    },
-    {
-      "id": "5072389",
-      "time": "2026-09-02 13:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法拉第未來機器人在中東完成首單6臺交付】法拉第未來（FaradayFuture，簡稱“FF”）日前介紹，機器人中東業務近日正式啟航，完成了中東首筆訂單的銷售和交付，共交付6臺機器人（2臺人形、4臺四足），標誌著FFEAI機器人業務在中東市場實現從0到1的突破，同時，團隊也正在加緊推進更多訂單落地。"
-    },
-    {
-      "id": "mkt:01a060a2-0982-7118-8453-02eaa3db9f75",
-      "time": "2026-09-02 13:40:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Deutsche Bank: Short-term bets on US Treasury curve steepening face headwinds】Deutsche Bank strategists say hawkish signals from Fed Chair Kevin Warsh at Jackson Hole could be reflected at the September meeting, and potential additional US Treasury intervention may make direct long-end steepening positions vulnerable over the coming weeks. Still, on a longer-term, structural horizon they prefer rising term premia and curve-steepening trades, citing weak fundamentals and the view that large-scale fiscal consolidation remains unlikely."
     }
   ]
 }

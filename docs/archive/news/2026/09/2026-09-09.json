@@ -1,7 +1,56 @@
 {
   "date": "2026-09-09",
-  "count": 1201,
+  "count": 1205,
   "items": [
+    {
+      "id": "5084277",
+      "time": "2026-09-09 13:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展成立房地產顧問公司】企查查APP顯示，近日，上海保潤和家房地產顧問有限公司成立，法定代表人為高煥，經營範圍包含：房地產諮詢；房地產經紀；非居住房地產租賃；市場營銷策劃；企業管理諮詢；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由保利發展間接全資持股。"
+    },
+    {
+      "id": "mkt:01a084af-9d48-7118-84fe-2fb70e53a2b2",
+      "time": "2026-09-09 13:41:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Several China A-share tech ETFs — semiconductor, STAR Market semiconductor, AI and communications ETFs — turned negative in the afternoon after earlier intraday gains."
+    },
+    {
+      "id": "mkt:01a084ae-fe67-7118-84fe-25233190ada9",
+      "time": "2026-09-09 13:40:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share digital-currency sector slid again in the afternoon; Cuiwei neared its limit-down, with Chutianlong, Kelan Software, Tianrongxin, Dongxin Heping, Sifang Jingchuang and Hengbao also falling."
+    },
+    {
+      "id": "mkt:01a084ae-730a-7118-84fe-1a9c4ef4e30c",
+      "time": "2026-09-09 13:40:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan: 10-year US Treasury auction may need price concession】JP Morgan strategists said in a note the US Treasury's $39 bln 10-year auction on Wednesday may need to offer price concessions to be fully absorbed, citing weaker fundamental and near-term valuation support. TRADEWEB DATA showed the 10-year Treasury yield fell 1.2bps in Asian trade to 4.790%."
+    },
     {
       "id": "5084276",
       "time": "2026-09-09 13:38:27",
