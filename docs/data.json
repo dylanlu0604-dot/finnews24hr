@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-10 07:50:14",
+  "updated": "2026-09-10 07:54:16",
   "count": 13540,
   "items": [
+    {
+      "id": "mkt:01a08895-ab8e-7118-8513-a95b0c164562",
+      "time": "2026-09-10 07:51:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors bought ¥690 billion of Japanese stocks in the week to Sept. 4, versus ¥35.8 billion in the prior week."
+    },
+    {
+      "id": "mkt:01a08895-7fd8-7118-8513-a454f56bc3d5",
+      "time": "2026-09-10 07:51:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Sep.4) | actual 690000000000B | previous 35800000000B"
+    },
+    {
+      "id": "5085963",
+      "time": "2026-09-10 07:51:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本9月4日當週外資淨買進日本股票 6900億日元，前值 358億日元。日本9月4日當週淨買進國外股票 -4816億日元，前值 358億日元。日本9月4日當週淨買進國外股票 -4816億日元，前值 358億日元。日本9月4日當週淨買進國外債券 1119億日元，前值 -8240億日元。"
+    },
+    {
+      "id": "mkt:01a08895-2cc6-7118-8513-9bba9356f98d",
+      "time": "2026-09-10 07:51:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's net purchases of foreign equities in the week to Sept. 4 were -¥481.6bn, versus +¥35.8bn in the prior week."
+    },
+    {
+      "id": "mkt:01a08895-2246-7118-8513-9174e606d17d",
+      "time": "2026-09-10 07:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In Japan, foreign investors bought JGBs worth 449.6 bln yen in the week to Sept. 4, down from 509.1 bln yen the prior week."
+    },
+    {
+      "id": "mkt:01a08895-033f-7118-8513-8d1e3565473f",
+      "time": "2026-09-10 07:51:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Sep.4) | actual -481600000000B | previous 35800000000B"
+    },
+    {
+      "id": "mkt:01a08895-026b-7118-8513-87ea12ce916c",
+      "time": "2026-09-10 07:51:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's net purchases of foreign bonds in the week to Sept. 4 were 111.9 bln yen, compared with net sales of 824.0 bln yen in the prior week."
+    },
+    {
+      "id": "mkt:01a08895-00f1-7118-8513-7848ab9650c8",
+      "time": "2026-09-10 07:51:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Sep.4) | actual 449600000000B | previous 509100000000B"
+    },
+    {
+      "id": "mkt:01a08894-d228-7118-8513-73810ac3ab08",
+      "time": "2026-09-10 07:50:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Sep.4) | actual 111900000000B | previous -824000000000B"
+    },
+    {
+      "id": "5085962",
+      "time": "2026-09-10 07:50:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【OpenAI ：推動實施全國強制性人工智慧安全監管要求】OpenAI 表示，正推動出臺全國性強制性人工智慧安全監管要求，並補充稱，在美國國會採取行動前，這家 ChatGPT 開發商將繼續支援各州層面的人工智慧立法。OpenAI 在一篇部落格文章中稱：“今天，我們宣佈支援加州四項法案：SB 813，用於搭建獨立安全評估的整體配套機制；AB 1405，針對 AI 審計師標準；SB 1119，未成年人保護；AB 1864，防範藉助人工智慧產生的生物威脅。”"
+    },
+    {
+      "id": "5085961",
+      "time": "2026-09-10 07:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伍德賽德能源國際業務營運長Daniel Kalms將離職】9月10日，伍德賽德能源公司在一份宣告中表示，執行副總裁兼國際業務營運長Daniel Kalms計劃離開公司。該公司表示，現任伍德賽德美洲灣地區副總裁的Paa-Joe Akoto-Ampaw已被任命為代理執行副總裁兼國際業務營運長。公司目前正在為執行副總裁兼營運長一職開展招聘工作。"
+    },
     {
       "id": "mkt:01a08893-b3ba-7118-8513-688bd5c1842b",
       "time": "2026-09-10 07:49:36",
@@ -123544,121 +123654,6 @@
         "國際"
       ],
       "text": "日本30年期國債收益率下跌7個基點至4.095%。"
-    },
-    {
-      "id": "mkt:01a06489-a4ec-7118-846f-ff89731c5cc4",
-      "time": "2026-09-03 07:52:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. military escorts 40 commercial vessels carrying 18 mln barrels through Strait of Hormuz; intercepts missile, repels drone attacks】U.S. military on Tuesday escorted 40 commercial vessels carrying about 18 mln barrels of oil through the Strait of Hormuz, a wartime high, CNN cited two U.S. officials. The operation used air, sea and space assets to blunt Iranian attacks on shipping, repelled multiple drone strikes and intercepted and destroyed an anti-ship cruise missile, officials said. The action occurred amid a new round of U.S.-Iran confrontation and aligns with the Trump administration’s priorities to strike targets near the strait, escort commercial traffic and maintain a maritime blockade of Iranian ports as part of a broader “maximum pressure” campaign. Officials do not expect a rapid resolution, and energy firms remain wary of routing tankers through the strait despite U.S. escorts."
-    },
-    {
-      "id": "5074131",
-      "time": "2026-09-03 07:51:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的】中信建投研報指出，1H26上市銀行營收大個位數增長，利潤穩定小個位數釋放，趨勢向好。信貸大個位數增長，資產端降幅趨緩+負債成本最佳化下，淨息差邊際企穩，淨利息收入提速。中收穩定小個位數增長，上市銀行核心營收能力趨勢向好。其他非息存在一定分化，主因兌現浮盈選擇不同。資產質量表觀穩定，地產風險加速出清，零售風險仍在自然暴露。部分銀行選擇在政策尚未退坡、財務資源相對充裕的視窗期加速出清地產風險，有利於未來的業績彈性。部分銀行中期分紅方案落地，國有大行分紅率統一提升1pct，紅利屬性進一步提高。展望全年，上市銀行營收、利潤有望延續向好趨勢，基本面企穩。目前銀行板塊以對沖市場為主，建議選擇兼顧基本面優異且保持行業領先、股息率紮實的標的。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609033863354447",
-      "time": "2026-09-03 07:51:34",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至8月28日當週買進外國債券-8240億日元，前值由-19784億日元修正為-19768億日元。"
-    },
-    {
-      "id": "mkt:01a06488-ecdd-7118-846f-f457a1906fe0",
-      "time": "2026-09-03 07:51:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan's net purchases of foreign stocks were 35.8 bln yen in the week to Aug. 28; the prior reading was revised from -869.0 bln yen to -861.7 bln yen."
-    },
-    {
-      "id": "mkt:01a06488-be5d-7118-846f-ee758bd856e5",
-      "time": "2026-09-03 07:51:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Aug.28) | actual 35800000000B | previous -869000000000B"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609033863354164",
-      "time": "2026-09-03 07:51:17",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至8月28日當週外資買進日股358億日元，前值由-7641億日元修正為-7634億日元。"
-    },
-    {
-      "id": "5074130",
-      "time": "2026-09-03 07:50:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至8月28日當週買進外國債券 -8240億日元，前值由-19784億日元修正為-19768億日元。日本至8月28日當週外資買進日股 358億日元，前值由-7641億日元修正為-7634億日元。日本至8月28日當週外資買進日債 5091億日元，前值4352億日元。日本至8月28日當週買進外國股票 358億日元，前值由-8690億日元修正為-8617億日元。"
-    },
-    {
-      "id": "mkt:01a06488-47e6-7118-846f-e01436d36d32",
-      "time": "2026-09-03 07:50:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Foreign investors net bought ¥509.1bn of JGBs in the week to Aug. 28, up from ¥435.2bn the prior week."
-    },
-    {
-      "id": "mkt:01a06488-21a6-7118-846f-de1bdf934d2c",
-      "time": "2026-09-03 07:50:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Aug.28) | actual 509100000000B | previous 435200000000B"
-    },
-    {
-      "id": "mkt:01a06487-fa29-7118-846f-d554d7a03477",
-      "time": "2026-09-03 07:50:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan net sold foreign bonds JPY 824 bln in the week to Aug. 28; the prior week's net sale was revised to JPY 1,976.8 bln from JPY 1,978.4 bln."
-    },
-    {
-      "id": "mkt:01a06487-cc77-7118-846f-ca8ffd7e9d7a",
-      "time": "2026-09-03 07:50:16",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Foreign investors bought JPY 35.8 bln of Japanese equities in the week to Aug. 28; the prior figure was revised from net selling of JPY 764.1 bln to net selling of JPY 763.4 bln."
     }
   ]
 }
