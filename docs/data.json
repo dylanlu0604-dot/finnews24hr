@@ -1,7 +1,312 @@
 {
-  "updated": "2026-09-09 09:28:14",
-  "count": 13728,
+  "updated": "2026-09-09 09:32:10",
+  "count": 13733,
   "items": [
+    {
+      "id": "mkt:01a083ca-c9e8-7118-84f8-a7d66e75095c",
+      "time": "2026-09-09 09:31:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "National Bureau of Statistics: China’s producer price index (PPI) for August rose 0.4% month-on-month, reversing July’s 0.7% decline, and climbed 3.8% year-on-year. NBS cited pass-through from higher international commodity prices and stronger demand in some sectors tied to domestic industrial upgrading."
+    },
+    {
+      "id": "5083973",
+      "time": "2026-09-09 09:31:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀Magic9系列新品將於9月28日釋出】榮耀官宣，榮耀Magic盛典暨榮耀Magic9系列新品釋出會定檔9月28日，將在北京舉行。"
+    },
+    {
+      "id": "5083972",
+      "time": "2026-09-09 09:31:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：2026年8月份工業生產者出廠價格同比上漲3.8% 環比上漲0.4%】2026年8月份，全國工業生產者出廠價格同比上漲3.8%，環比上漲0.4%。工業生產者購進價格同比上漲5.8%，環比上漲0.3%。1—8月平均，工業生產者出廠價格比上年同期上漲2.0%，工業生產者購進價格上漲3.2%。"
+    },
+    {
+      "id": "mkt:01a083ca-5679-7118-84f8-99ce822473ba",
+      "time": "2026-09-09 09:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China National Bureau of Statistics: August CPI up 0.8% YoY】China's August CPI rose 0.8% YoY; month-on-month it turned to +0.4% from -0.1% in July, driven by international price swings and seasonal food-price increases. Core CPI (ex food and energy) rose 1.0% YoY."
+    },
+    {
+      "id": "mkt:01a083ca-1b82-7118-84f8-94d5c98555ef",
+      "time": "2026-09-09 09:30:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China August PPI MoM +0.4%; prior -0.7%."
+    },
+    {
+      "id": "5083971",
+      "time": "2026-09-09 09:30:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有色·銅概念反覆活躍 精藝股份2連板】有色·銅概念反覆活躍，精藝股份2連板，北方銅業、銅陵有色、雲南銅業、江西銅業、金田股份跟漲。"
+    },
+    {
+      "id": "mkt:01a083c9-fd82-7118-84f8-8ff83cc5a2a5",
+      "time": "2026-09-09 09:30:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (MoM) (Aug) | actual 0.4% | previous -0.7%"
+    },
+    {
+      "id": "5083970",
+      "time": "2026-09-09 09:30:44",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：8月全國CPI同比上漲0.8%，環比上漲0.4%】國家統計局資料顯示，8月全國CPI同比上漲0.8%，環比上漲0.4%。1—8月平均，全國CPI比上年同期上漲0.9%。"
+    },
+    {
+      "id": "mkt:01a083c9-e14b-7118-84f8-86b14241bc35",
+      "time": "2026-09-09 09:30:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK"
+      ],
+      "text": "【Tencent Hunyuan team change: ex-OpenAI researcher Tian Yonglong named head of Hunyuan multimodal, reports to Yao Shunyu】Former OpenAI researcher Tian Yonglong has joined the office of Tencent’s CEO and president as Head of Hunyuan Multimodal, reporting directly to Yao Shunyu, head of Tencent’s large-model program."
+    },
+    {
+      "id": "5083969",
+      "time": "2026-09-09 09:30:38",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國8月CPI月率 0.4%，預期0.3%，前值-0.1%。"
+    },
+    {
+      "id": "5083968",
+      "time": "2026-09-09 09:30:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國8月PPI年率 3.8%，預期3.6%，前值3.50%。"
+    },
+    {
+      "id": "5083967",
+      "time": "2026-09-09 09:30:24",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國8月CPI年率 0.8%，預期0.8%，前值0.50%。"
+    },
+    {
+      "id": "mkt:01a083c9-9a31-7118-84f8-7eec8cd4ff95",
+      "time": "2026-09-09 09:30:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "XAUUSD"
+      ],
+      "text": "China August CPI rose 0.4% MoM, versus 0.3% expected and -0.1% in July."
+    },
+    {
+      "id": "mkt:01a083c9-99d3-7118-84f8-72134e0f0696",
+      "time": "2026-09-09 09:30:22",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "China August producer prices (PPI) YoY 3.8% vs. 3.6% expected; July 3.5%."
+    },
+    {
+      "id": "mkt:01a083c9-8ce9-7118-84f8-6f03de96ce31",
+      "time": "2026-09-09 09:30:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China August CPI YoY 0.8% (expected 0.8%), prior 0.5%."
+    },
+    {
+      "id": "mkt:01a083c9-7db4-7118-84f8-60bbc4f7976a",
+      "time": "2026-09-09 09:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (MoM) (Aug) | actual 0.4% | consensus 0.3% | previous -0.1%"
+    },
+    {
+      "id": "mkt:01a083c9-7d4e-7118-84f8-589d75b4bc06",
+      "time": "2026-09-09 09:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fiber-optic concept stocks opened higher in the pre-market call auction; Huamai Technology posted a third consecutive limit-up, while Sanfu Co., Changyingtong, Hengdongguang, Dekeli and Delong Laser also rose."
+    },
+    {
+      "id": "mkt:01a083c9-73aa-7118-84f8-5385698ee84e",
+      "time": "2026-09-09 09:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (YoY) (Aug) | actual 3.8% | consensus 3.6% | previous 3.50%"
+    },
+    {
+      "id": "mkt:01a083c9-73a9-7118-84f8-4ed765b5e452",
+      "time": "2026-09-09 09:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (YoY) (Aug) | actual 0.8% | consensus 0.8% | previous 0.50%"
+    },
+    {
+      "id": "5083966",
+      "time": "2026-09-09 09:30:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.13%。豐茂轉債、本川轉債、振26轉債、鼎通轉債、華懋轉債漲幅居前，分別漲30.00%、10.39%、2.30%、1.98%、1.94%。天源轉債、銀輪轉債、惠城轉債、福新轉債、普聯轉債跌幅居前，分別跌1.36%、1.00%、0.83%、0.63%、0.62%。"
+    },
+    {
+      "id": "5083965",
+      "time": "2026-09-09 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.01%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5083964",
+      "time": "2026-09-09 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.08%，成分股中，芯原股份漲2.73%，源傑科技漲2.57%，拓荊科技漲2.19%，瀾起科技漲2.17%。"
+    },
+    {
+      "id": "5083963",
+      "time": "2026-09-09 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.46%， 中證500指數期貨連續漲0.45%， 上證50指數期貨連續漲0.21%。"
+    },
+    {
+      "id": "5083962",
+      "time": "2026-09-09 09:29:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "農業股集體調整，播恩集團一字跌停，萬向德農、登海種業、康農種業、海南橡膠、秋樂種業跌幅居前。"
+    },
+    {
+      "id": "5083961",
+      "time": "2026-09-09 09:29:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊混元團隊更迭：前OpenAI研究員田永龍成為混元多模態負責人 向姚順雨彙報】記者獲悉，OpenAI前研究員田永龍已進入騰訊CEO/總裁辦公室，其職務為“混元多模態負責人”，直接向騰訊大模型負責人姚順雨彙報。 （澎湃新聞）"
+    },
+    {
+      "id": "5083960",
+      "time": "2026-09-09 09:29:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“豐茂轉債”盤中臨時停牌】深交所公告，“豐茂轉債”（123283）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "5083959",
+      "time": "2026-09-09 09:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗：“當美國準備好進行接觸時，我國政府將本著誠意和建設性的態度，努力建立一種更加安全、互利共贏且充分尊重加拿大主權的貿易關係。”"
+    },
+    {
+      "id": "mkt:01a083c7-bfe0-7118-84f8-47f551e3913c",
+      "time": "2026-09-09 09:28:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "ETFs opened mixed. ChiNext enhanced ETF led gains, up 20.03%; Japan TOPIX ETF +2.51%; Shenzhen Growth ETF +2.20%. Grain/food ETF was the worst performer, down 2.36%."
+    },
+    {
+      "id": "te:markets:582194",
+      "time": "2026-09-09 09:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Ease — US natural gas prices fell below $2.90/MMBtu, retreating from eight-week highs, as abundant domestic supplies and solid production weighed on the market. US gas inventories were 5.2% above the five-year seasonal average as of August 28, while output across the Lower 48 rose to 112.9 bcfd so far in September from August’s monthly high of 112.2 bcfd, reinforcing the supply overhang. These supply-side factors offset support from stronger demand. Forecasts for above-average temperatures across the US South through September 17 are expected to keep air-conditioning demand elevated, supporting natural gas consumption in the power sector. At the same time, gas flows to the nine major LNG export plants increased to 18.1 bcfd in September from 17.2 bcfd in August. Demand for US LNG from Europe and Asia has also risen sharply as buyers seek to replace disrupted Middle Eastern supplies and replenish inventories ahead of the winter heating season."
+    },
+    {
+      "id": "5083958",
+      "time": "2026-09-09 09:27:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光纖概念延續漲勢，華脈科技3連板，三孚股份、長盈通、衡東光、德科立、天孚通訊紛紛高開。"
+    },
+    {
+      "id": "mkt:01a083c7-4974-7118-84f8-389f5dd0d58e",
+      "time": "2026-09-09 09:27:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share new listing N Baimaike rose 92.1% to 32.86 yuan, from an issue price of 17.10 yuan."
+    },
     {
       "id": "mkt:01a083c7-2738-7118-84f8-32a35da30031",
       "time": "2026-09-09 09:27:41",
@@ -124974,251 +125279,6 @@
         "焦點"
       ],
       "text": "創業板指跌2.00%，現報3325.546點；上證指數跌0.65%，現報3954.192點；深證成指跌1.45%，現報13671.049點。"
-    },
-    {
-      "id": "5072041",
-      "time": "2026-09-02 09:32:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨<LCOc1>上漲超2%，報每桶96.58美元，逼近六週高位。"
-    },
-    {
-      "id": "5072040",
-      "time": "2026-09-02 09:31:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“震裕轉02”盤中臨時停牌】深交所公告，“震裕轉02”（123282）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "mkt:01a05fbe-2be2-7118-844c-bc066416359c",
-      "time": "2026-09-02 09:31:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China government bond futures open】China government bond futures opened lower: 2-year (TS) down 1bp, 5-year (TF) down 2bps, 10-year (T) down 3bps, 30-year (TL) down 14bps."
-    },
-    {
-      "id": "5072039",
-      "time": "2026-09-02 09:31:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞標普/ASX 200指數在GDP資料公佈後跌幅擴大至1.2%。"
-    },
-    {
-      "id": "mkt:01a05fbe-0455-7118-844c-b6a0a8770e42",
-      "time": "2026-09-02 09:31:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【Stock index futures open lower】Main contracts: CSI 300 futures (IF) down 0.88%, SSE 50 futures (IH) down 0.64%, CSI 500 futures (IC) down 1.52%, CSI 1000 futures (IM) down 1.48%."
-    },
-    {
-      "id": "5072038",
-      "time": "2026-09-02 09:31:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "零售股延續漲勢，國芳集團4連板，茂業商業2連板，國光連鎖、東百集團、紅旗連鎖、永輝超市跟漲。"
-    },
-    {
-      "id": "5072037",
-      "time": "2026-09-02 09:30:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數下跌1%至46,472.19點。"
-    },
-    {
-      "id": "5072036",
-      "time": "2026-09-02 09:30:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.18%。微導轉債、聯瑞轉債、惠城轉債、泰坦轉債、集智轉債跌幅居前，分別跌4.69%、2.97%、2.60%、2.46%、2.32%。震裕轉02、恆逸轉2、明新轉債、天壕轉債、貴燃轉債漲幅居前，分別漲30.00%、3.92%、2.90%、1.49%、1.39%。"
-    },
-    {
-      "id": "5072035",
-      "time": "2026-09-02 09:30:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1303.50美元/盎司。"
-    },
-    {
-      "id": "5072034",
-      "time": "2026-09-02 09:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞第二季度GDP同比增長2.1%；預計1.8%。"
-    },
-    {
-      "id": "5072033",
-      "time": "2026-09-02 09:30:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4504.230點；恒生指數現跌0.272%。"
-    },
-    {
-      "id": "mkt:01a05fbc-e87d-7118-844c-aa37606bf90c",
-      "time": "2026-09-02 09:30:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia Q2 GDP QoQ +0.4% vs +0.3% expected; prior +0.3%."
-    },
-    {
-      "id": "mkt:01a05fbc-e689-7118-844c-a6b73f06bd44",
-      "time": "2026-09-02 09:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia Q2 GDP YoY 2.1% (est. 1.8%); prior 2.5%."
-    },
-    {
-      "id": "5072032",
-      "time": "2026-09-02 09:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞第二季度GDP環比增長0.4% 預估為0.3%。"
-    },
-    {
-      "id": "5072031",
-      "time": "2026-09-02 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.10%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "5072030",
-      "time": "2026-09-02 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.46%，成分股中，華虹宏力跌3.73%，盛科通訊跌2.59%，芯原股份跌2.29%，生益電子跌2.15%。"
-    },
-    {
-      "id": "5072029",
-      "time": "2026-09-02 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.01%， 滬深300指數期貨連續跌0.62%， 中證500指數期貨連續跌1.04%， 上證50指數期貨連續跌0.44%。"
-    },
-    {
-      "id": "mkt:01a05fbc-c19e-7118-844c-996c52f1dba6",
-      "time": "2026-09-02 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | GDP (YoY) (Q2) | actual 2.1% | consensus 1.8% | previous 2.50%"
-    },
-    {
-      "id": "mkt:01a05fbc-c197-7118-844c-93c37c35b934",
-      "time": "2026-09-02 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | GDP (QoQ) (Q2) | actual 0.4% | consensus 0.3% | previous 0.30%"
-    },
-    {
-      "id": "mkt:01a05fbc-8d6f-7118-844c-89714b1a7bff",
-      "time": "2026-09-02 09:29:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share coal sector extended gains; Zhengzhou Coal & Power and Yunmei Energy hit daily trading limits, Baotailong jumped over 5%, while Antai Group, Dayou Energy, Shanghai Energy and Yankuang Energy also rose."
-    },
-    {
-      "id": "5072028",
-      "time": "2026-09-02 09:29:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股人工相關概念股走弱 海致科技集團跌超5%】截至發稿，海致科技集團(02706.HK)跌5.24%，芯碁微裝(09630.HK)跌2.67%，瀾起科技(06809.HK)跌2.66%，迅策(03317.HK)跌2.61%。"
-    },
-    {
-      "id": "5072027",
-      "time": "2026-09-02 09:29:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "煤炭板塊逆勢走強，鄭州煤電、雲煤能源競價漲停，寶泰隆、安泰集團、大有能源、上海能源漲超5%。"
-    },
-    {
-      "id": "te:economy:580235",
-      "time": "2026-09-02 09:29:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Approaches 3-Year High — The yield on the US 10-year Treasury note climbed above 4.8% on Wednesday, moving toward its highest level since October 2023 as surging oil prices intensified inflation concerns and reinforced expectations for an imminent Federal Reserve interest rate hike. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Meanwhile, Fed Chair Kevin Warsh’s commitment to combating inflation strengthened bets for a rate increase, with markets now pricing in around a 70% chance of a move this month. Fed Governor Michael Barr also said on Tuesday that the central bank should be prepared to raise interest rates if inflation fails to ease. Attention now turns to the ADP employment report due Wednesday and nonfarm payrolls on Friday for further clues on the Fed’s policy path."
-    },
-    {
-      "id": "mkt:01a05fbc-135a-7118-844c-80ed65ea1909",
-      "time": "2026-09-02 09:29:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "ISRAELI MILITARY says sirens sounded in Kfar Yuval warning of hostile aircraft infiltration."
-    },
-    {
-      "id": "5072026",
-      "time": "2026-09-02 09:28:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，卡法尤瓦爾地區已響起針對敵方航空器滲透的防空警報。"
-    },
-    {
-      "id": "5072025",
-      "time": "2026-09-02 09:28:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊音樂計劃發行美元債券，所得資金將用於債務再融資及回購股票。"
     }
   ]
 }
