@@ -1,7 +1,81 @@
 {
   "date": "2026-09-09",
-  "count": 2325,
+  "count": 2333,
   "items": [
+    {
+      "id": "5085497",
+      "time": "2026-09-09 22:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率升至6.85% 創逾一年來最高】美國抵押貸款利率上週升至一年多來最高水平，自2月底伊朗戰爭爆發以來持續穩步上升。美國抵押貸款銀行家協會(MBA)週三公佈的資料顯示，截至9月4日當週，30年期抵押貸款的合同利率上升6個基點，至6.85%。不過，前五年固定、之後可調利率的抵押貸款利率降至6.13%。"
+    },
+    {
+      "id": "5085496",
+      "time": "2026-09-09 22:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：自11月1日起，微軟將向美國所有學區開放其人工智慧安全與隱私標準中規定的防護服務。"
+    },
+    {
+      "id": "5085495",
+      "time": "2026-09-09 22:40:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI的CEO山姆奧特曼：11月5號和6號我請假，因為要去玩時光之笛重置版。"
+    },
+    {
+      "id": "mkt:01a0869c-3ebe-7118-850a-7c6fa199f987",
+      "time": "2026-09-09 22:39:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium up 2.00% intraday at $1,375.23/oz."
+    },
+    {
+      "id": "mkt:01a0869c-192a-7118-850a-74705add23ee",
+      "time": "2026-09-09 22:39:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Vale CFO says iron ore supply and demand are in balance."
+    },
+    {
+      "id": "5085493",
+      "time": "2026-09-09 22:38:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "民主黨參議員敦促達美航空在空服員工會組織活動中保持中立。"
+    },
+    {
+      "id": "mkt:01a0869b-0e85-7118-850a-6866c2640bd8",
+      "time": "2026-09-09 22:38:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【BESSENT publicly pressures Bank of Japan to tighten, claims \"asymmetric information\"】U.S. Treasury Secretary BESSENT publicly pressured the Bank of Japan to tighten policy, saying he possesses “asymmetric information” about the BOJ’s next move and calling himself the “bookie.” Speaking at a Texas university, the former hedge-fund trader said he broadly knows what “Japanese policymakers” plan but gave no specifics. Markets are pricing a 25bp BOJ hike next week; the comments increase pressure on Governor Ueda to signal a sufficiently hawkish path or risk volatility and erasure of recent yen gains. Last week BESSENT urged Japanese officials to “do the right thing” on rates. The remarks underscore unusually direct U.S. involvement in Japanese policy; Japan is the largest foreign holder of U.S. Treasuries. In late July he coordinated a joint intervention with Japan’s finance minister—the first since 1998—to support the yen."
+    },
+    {
+      "id": "mkt:01a0869a-4af1-7118-850a-67f2ab7b31a7",
+      "time": "2026-09-09 22:37:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O"
+      ],
+      "text": "AFT (American Federation of Teachers), UFT (United Federation of Teachers) and Microsoft unveiled National AI Security and Privacy Standards to protect students, families and educators. Microsoft said the agreement bars tech firms from using student data to train AI, forbids tracking of student information and requires human oversight for any AI decision-making."
+    },
     {
       "id": "5085492",
       "time": "2026-09-09 22:37:05",

@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-09 22:38:04",
-  "count": 13651,
+  "updated": "2026-09-09 22:42:11",
+  "count": 13648,
   "items": [
+    {
+      "id": "5085497",
+      "time": "2026-09-09 22:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率升至6.85% 創逾一年來最高】美國抵押貸款利率上週升至一年多來最高水平，自2月底伊朗戰爭爆發以來持續穩步上升。美國抵押貸款銀行家協會(MBA)週三公佈的資料顯示，截至9月4日當週，30年期抵押貸款的合同利率上升6個基點，至6.85%。不過，前五年固定、之後可調利率的抵押貸款利率降至6.13%。"
+    },
+    {
+      "id": "5085496",
+      "time": "2026-09-09 22:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：自11月1日起，微軟將向美國所有學區開放其人工智慧安全與隱私標準中規定的防護服務。"
+    },
+    {
+      "id": "5085495",
+      "time": "2026-09-09 22:40:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI的CEO山姆奧特曼：11月5號和6號我請假，因為要去玩時光之笛重置版。"
+    },
+    {
+      "id": "mkt:01a0869c-3ebe-7118-850a-7c6fa199f987",
+      "time": "2026-09-09 22:39:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium up 2.00% intraday at $1,375.23/oz."
+    },
+    {
+      "id": "mkt:01a0869c-192a-7118-850a-74705add23ee",
+      "time": "2026-09-09 22:39:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Vale CFO says iron ore supply and demand are in balance."
+    },
+    {
+      "id": "5085493",
+      "time": "2026-09-09 22:38:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "民主黨參議員敦促達美航空在空服員工會組織活動中保持中立。"
+    },
+    {
+      "id": "mkt:01a0869b-0e85-7118-850a-6866c2640bd8",
+      "time": "2026-09-09 22:38:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【BESSENT publicly pressures Bank of Japan to tighten, claims \"asymmetric information\"】U.S. Treasury Secretary BESSENT publicly pressured the Bank of Japan to tighten policy, saying he possesses “asymmetric information” about the BOJ’s next move and calling himself the “bookie.” Speaking at a Texas university, the former hedge-fund trader said he broadly knows what “Japanese policymakers” plan but gave no specifics. Markets are pricing a 25bp BOJ hike next week; the comments increase pressure on Governor Ueda to signal a sufficiently hawkish path or risk volatility and erasure of recent yen gains. Last week BESSENT urged Japanese officials to “do the right thing” on rates. The remarks underscore unusually direct U.S. involvement in Japanese policy; Japan is the largest foreign holder of U.S. Treasuries. In late July he coordinated a joint intervention with Japan’s finance minister—the first since 1998—to support the yen."
+    },
+    {
+      "id": "mkt:01a0869a-4af1-7118-850a-67f2ab7b31a7",
+      "time": "2026-09-09 22:37:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O"
+      ],
+      "text": "AFT (American Federation of Teachers), UFT (United Federation of Teachers) and Microsoft unveiled National AI Security and Privacy Standards to protect students, families and educators. Microsoft said the agreement bars tech firms from using student data to train AI, forbids tracking of student information and requires human oversight for any AI decision-making."
+    },
     {
       "id": "5085492",
       "time": "2026-09-09 22:37:05",
@@ -124390,104 +124464,6 @@
         "MKT News"
       ],
       "text": "Bank of Canada Governor Macklem said inflation is too high."
-    },
-    {
-      "id": "5073679",
-      "time": "2026-09-02 22:41:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行行長麥克勒姆：通貨膨脹率過高。"
-    },
-    {
-      "id": "5073678",
-      "time": "2026-09-02 22:41:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞爾維亞將提前舉行議會選舉】據塞爾維亞廣播電視臺2日報道，塞爾維亞將於10月25日提前舉行議會選舉。報道說，預計塞爾維亞總統武契奇將在未來幾天內解散國民議會並宣佈舉行議會選舉。（新華社）"
-    },
-    {
-      "id": "5073677",
-      "time": "2026-09-02 22:40:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：各方廣泛支援對俄羅斯前作戰人員實施歐盟簽證入境禁令，並對俄羅斯遊客施加更嚴格的簽證限制。"
-    },
-    {
-      "id": "te:markets:580523",
-      "time": "2026-09-02 22:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures Fall — Cocoa futures eased to below $6,300 per tonne, extending their retreat from recent one-year highs, amid the dollar strength, profit-taking and signs of improving supplies. Latest data showed Ivory Coast farmers shipped 2.14 MMT of cocoa to ports through August 30, 19% more than a year earlier. The country also plans to boost processing capacity to 1.3 MMT in 2026/27 from 650,000 MT. Meanwhile, ICE inventories climbed to a two-year high of 3,411,776 bags as of September 1. Still, concerns over West African cocoa supply persisted as heavy rainfall and high humidity increased disease risks and weakened pod development, threatening production from both the current and next crops. A strong El Niño could delay the rains and extend dry spells across major West African producers, with stronger Harmattan winds placing additional stress on crops."
-    },
-    {
-      "id": "5073676",
-      "time": "2026-09-02 22:39:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾在現貨交易中兌美元升值1%。"
-    },
-    {
-      "id": "5073675",
-      "time": "2026-09-02 22:39:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人卡拉斯：擬為烏克蘭糧食倉儲提供支援。"
-    },
-    {
-      "id": "mkt:01a0628f-b08d-7118-8466-b4e0c06fbe2d",
-      "time": "2026-09-02 22:39:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "kallas said some EU defense ministers have proposed using frozen Russian assets."
-    },
-    {
-      "id": "5073674",
-      "time": "2026-09-02 22:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5620只基金產品平均盈利投資者佔比為79.14%】2026年基金半年報收官，“盈利投資者數量佔比”指標首度亮相。一隻基金到底有多少投資者賺了錢，這個問題有了可參考的標尺。盈利投資者數量佔比，計算的是，指標計算期間“淨收益不小於零”的投資者佔這一期間持有過基金份額的投資者的比例。簡單來說，它表示的是這隻基金在這段時間裡，有多少比例的持有人，在扣除各類費用後真正賺到了錢。資料顯示，截至2026年8月31日，5620只已披露該指標的基金產品，平均盈利投資者佔比為79.14%。其中，盈利投資者數量佔比超過80%的有3867只；也有992只產品的盈利佔比在50%以下。（央視財經）"
-    },
-    {
-      "id": "mkt:01a0628f-7706-7118-8466-aca92742fe1d",
-      "time": "2026-09-02 22:39:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU high representative for foreign affairs and security policy kallas said the EU will continue negotiating the use of frozen Russian assets."
-    },
-    {
-      "id": "te:economy:580522",
-      "time": "2026-09-02 22:38:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Stocks Fall for 1st Time in 5 Weeks — Stocks of crude oil in the US declined by 4.45 million barrels in the last week of August 2026, the first fall in five weeks, following a 0.095 million barrels rise in the previous period and much higher than forecasts of a 1.1 million draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 0.08 million barrels in the week. Refinery crude runs went up by 0.103 million barrels per day. Gasoline stocks fell by 1.173 million barrels, less than forecasts for a 1.173 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, rose for the first time in five weeks by 0.796 million barrels, compared to expectations for a 1.3 million-barrel drop."
-    },
-    {
-      "id": "5073673",
-      "time": "2026-09-02 22:38:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：外長們將繼續討論使用被凍結俄羅斯資產的問題。"
     }
   ]
 }
