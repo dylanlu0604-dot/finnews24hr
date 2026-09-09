@@ -1,7 +1,173 @@
 {
   "date": "2026-09-09",
-  "count": 1907,
+  "count": 1925,
   "items": [
+    {
+      "id": "5085041",
+      "time": "2026-09-09 19:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "烏克蘭 8 月消費者價格同比上漲 8.1%；預計+8.1%。"
+    },
+    {
+      "id": "5085040",
+      "time": "2026-09-09 19:01:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【迅捷興：簡易程式定增事項正在推進】 迅捷興公告，股票於2026年9月7日、2026年9月8日、2026年9月9日連續三個交易日收盤價格漲幅偏離值累計達到30%。公司正在推進以簡易程式向特定物件發行股票事項，尚需上海證券交易所發行上市稽核並報經中國證券監督管理委員會註冊；NPCF RCC新材料結合FPS細線路減成法等新技術仍處於技術交流和送樣階段。"
+    },
+    {
+      "id": "5085039",
+      "time": "2026-09-09 19:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "來福車與Waymo達成合作，將在納什維爾推出自動駕駛計程車服務。"
+    },
+    {
+      "id": "5085038",
+      "time": "2026-09-09 19:00:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【第二屆智慧財產權執法國際交流大會將在長沙舉辦】9月10日至11日，由市場監管總局與世界智慧財產權組織（WIPO）聯合主辦的第二屆智慧財產權執法國際交流大會將在湖南長沙舉辦。大會將釋出“2025—2026年中國智慧財產權行政執法十大案例”，全國侵權假冒偽劣商品集中銷燬行動也將在大會上啟動，展現我國智慧財產權執法取得的豐碩成果。（央視新聞）"
+    },
+    {
+      "id": "5085037",
+      "time": "2026-09-09 19:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至9月4日當週MBA30年期固定抵押貸款利率 6.85%，前值6.79%。\n美國至9月4日當週MBA抵押貸款再融資活動指數 687.3，前值732.6。\n美國至9月4日當週MBA抵押貸款申請活動指數 240.6，前值247.3。\n美國至9月4日當週MBA抵押貸款購買指數 157.5，前值157.8。"
+    },
+    {
+      "id": "mkt:01a085d3-5512-7118-8506-2f12abee7187",
+      "time": "2026-09-09 19:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. MBA mortgage purchase index for the week ended Sept. 4 fell to 157.5 from 157.8."
+    },
+    {
+      "id": "mkt:01a085d3-459d-7118-8506-265f4f93d644",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate for week ended Sep 4 at 6.85%, prior 6.79%."
+    },
+    {
+      "id": "mkt:01a085d3-451c-7118-8506-1f48391dee1a",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage refinance index for week ended Sep 4: 687.3, prior 732.6."
+    },
+    {
+      "id": "mkt:01a085d3-4519-7118-8506-162e8517905d",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage applications index for the week ended Sept. 4 was 240.6, down from 247.3 the prior week."
+    },
+    {
+      "id": "mkt:01a085d3-1f3d-7118-8506-0ae86d1626b9",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Sep.4) | actual 687.3 | previous 732.6"
+    },
+    {
+      "id": "mkt:01a085d3-1f1f-7118-8506-030b702e3566",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Sep.4) | actual 240.6 | previous 247.3"
+    },
+    {
+      "id": "mkt:01a085d3-1f0a-7118-8505-ff664419edb2",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Sep.4) | actual 157.5 | previous 157.8"
+    },
+    {
+      "id": "mkt:01a085d3-1f06-7118-8505-f7eebc98b323",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Sep.4) | actual 6.85% | previous 6.79%"
+    },
+    {
+      "id": "5085036",
+      "time": "2026-09-09 18:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：股東及一致行動人14.06%股份被司法凍結】文科股份公告，公司持股5%以上股東李從文及其一致行動人深圳市文科控股有限公司所持股份被司法凍結、司法再凍結。2026年9月8日，李從文8434.4萬股、深圳市文科控股有限公司817.38萬股被凍結，合計9251.78萬股，佔公司總股本14.06%，佔各自所持股份比例100.00%，凍結至2029年9月7日。"
+    },
+    {
+      "id": "5085035",
+      "time": "2026-09-09 18:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達強烈譴責伊朗再次襲擊約旦，此舉公然違反國際法、《聯合國憲章》以及睦鄰友好原則。"
+    },
+    {
+      "id": "5085034",
+      "time": "2026-09-09 18:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：09月09日18時51分在河南濟源市（北緯35.07度，東經112.24度）發生3.6級地震，震源深度9千米。"
+    },
+    {
+      "id": "5085033",
+      "time": "2026-09-09 18:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "DP World：與GulfCap Africa簽署股東協議，正式確立合資企業關係，共同推進規劃中的222公頃經濟特區專案。預計將創造超過2萬個直接及間接就業崗位；該專案開發預計還將為肯亞供應商和服務提供商創造機遇。"
+    },
+    {
+      "id": "mkt:01a085d1-28a8-7118-8505-edb745ce79aa",
+      "time": "2026-09-09 18:57:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Panama-flagged tanker struck by drone in Iraqi territorial waters】A Panama-flagged tanker was struck by a drone on the 9th in Iraqi territorial waters while in a ship-to-ship transfer zone, security and maritime sources said. The strike ignited a fire and caused partial hull damage; the vessel was carrying crude oil. There were no casualties. Rescue teams and maritime patrol forces have secured the ship and are assessing damage. An investigation is under way; Iraqi authorities have not commented."
+    },
     {
       "id": "5085032",
       "time": "2026-09-09 18:57:30",

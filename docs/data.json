@@ -1,7 +1,173 @@
 {
-  "updated": "2026-09-09 18:58:07",
-  "count": 13905,
+  "updated": "2026-09-09 19:01:56",
+  "count": 13895,
   "items": [
+    {
+      "id": "5085041",
+      "time": "2026-09-09 19:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "烏克蘭 8 月消費者價格同比上漲 8.1%；預計+8.1%。"
+    },
+    {
+      "id": "5085040",
+      "time": "2026-09-09 19:01:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【迅捷興：簡易程式定增事項正在推進】 迅捷興公告，股票於2026年9月7日、2026年9月8日、2026年9月9日連續三個交易日收盤價格漲幅偏離值累計達到30%。公司正在推進以簡易程式向特定物件發行股票事項，尚需上海證券交易所發行上市稽核並報經中國證券監督管理委員會註冊；NPCF RCC新材料結合FPS細線路減成法等新技術仍處於技術交流和送樣階段。"
+    },
+    {
+      "id": "5085039",
+      "time": "2026-09-09 19:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "來福車與Waymo達成合作，將在納什維爾推出自動駕駛計程車服務。"
+    },
+    {
+      "id": "5085038",
+      "time": "2026-09-09 19:00:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【第二屆智慧財產權執法國際交流大會將在長沙舉辦】9月10日至11日，由市場監管總局與世界智慧財產權組織（WIPO）聯合主辦的第二屆智慧財產權執法國際交流大會將在湖南長沙舉辦。大會將釋出“2025—2026年中國智慧財產權行政執法十大案例”，全國侵權假冒偽劣商品集中銷燬行動也將在大會上啟動，展現我國智慧財產權執法取得的豐碩成果。（央視新聞）"
+    },
+    {
+      "id": "5085037",
+      "time": "2026-09-09 19:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至9月4日當週MBA30年期固定抵押貸款利率 6.85%，前值6.79%。\n美國至9月4日當週MBA抵押貸款再融資活動指數 687.3，前值732.6。\n美國至9月4日當週MBA抵押貸款申請活動指數 240.6，前值247.3。\n美國至9月4日當週MBA抵押貸款購買指數 157.5，前值157.8。"
+    },
+    {
+      "id": "mkt:01a085d3-5512-7118-8506-2f12abee7187",
+      "time": "2026-09-09 19:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. MBA mortgage purchase index for the week ended Sept. 4 fell to 157.5 from 157.8."
+    },
+    {
+      "id": "mkt:01a085d3-459d-7118-8506-265f4f93d644",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate for week ended Sep 4 at 6.85%, prior 6.79%."
+    },
+    {
+      "id": "mkt:01a085d3-451c-7118-8506-1f48391dee1a",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage refinance index for week ended Sep 4: 687.3, prior 732.6."
+    },
+    {
+      "id": "mkt:01a085d3-4519-7118-8506-162e8517905d",
+      "time": "2026-09-09 19:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage applications index for the week ended Sept. 4 was 240.6, down from 247.3 the prior week."
+    },
+    {
+      "id": "mkt:01a085d3-1f3d-7118-8506-0ae86d1626b9",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Sep.4) | actual 687.3 | previous 732.6"
+    },
+    {
+      "id": "mkt:01a085d3-1f0a-7118-8505-ff664419edb2",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Sep.4) | actual 157.5 | previous 157.8"
+    },
+    {
+      "id": "mkt:01a085d3-1f1f-7118-8506-030b702e3566",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Sep.4) | actual 240.6 | previous 247.3"
+    },
+    {
+      "id": "mkt:01a085d3-1f06-7118-8505-f7eebc98b323",
+      "time": "2026-09-09 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Sep.4) | actual 6.85% | previous 6.79%"
+    },
+    {
+      "id": "5085036",
+      "time": "2026-09-09 18:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：股東及一致行動人14.06%股份被司法凍結】文科股份公告，公司持股5%以上股東李從文及其一致行動人深圳市文科控股有限公司所持股份被司法凍結、司法再凍結。2026年9月8日，李從文8434.4萬股、深圳市文科控股有限公司817.38萬股被凍結，合計9251.78萬股，佔公司總股本14.06%，佔各自所持股份比例100.00%，凍結至2029年9月7日。"
+    },
+    {
+      "id": "5085035",
+      "time": "2026-09-09 18:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達強烈譴責伊朗再次襲擊約旦，此舉公然違反國際法、《聯合國憲章》以及睦鄰友好原則。"
+    },
+    {
+      "id": "5085034",
+      "time": "2026-09-09 18:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：09月09日18時51分在河南濟源市（北緯35.07度，東經112.24度）發生3.6級地震，震源深度9千米。"
+    },
+    {
+      "id": "5085033",
+      "time": "2026-09-09 18:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "DP World：與GulfCap Africa簽署股東協議，正式確立合資企業關係，共同推進規劃中的222公頃經濟特區專案。預計將創造超過2萬個直接及間接就業崗位；該專案開發預計還將為肯亞供應商和服務提供商創造機遇。"
+    },
+    {
+      "id": "mkt:01a085d1-28a8-7118-8505-edb745ce79aa",
+      "time": "2026-09-09 18:57:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Panama-flagged tanker struck by drone in Iraqi territorial waters】A Panama-flagged tanker was struck by a drone on the 9th in Iraqi territorial waters while in a ship-to-ship transfer zone, security and maritime sources said. The strike ignited a fire and caused partial hull damage; the vessel was carrying crude oil. There were no casualties. Rescue teams and maritime patrol forces have secured the ship and are assessing damage. An investigation is under way; Iraqi authorities have not commented."
+    },
     {
       "id": "5085032",
       "time": "2026-09-09 18:57:30",
@@ -126616,273 +126782,6 @@
         "國際"
       ],
       "text": "歐盟多布羅夫斯基斯與科列茨基將在電話會談中討論資金支援與改革事宜。"
-    },
-    {
-      "id": "5073159",
-      "time": "2026-09-02 19:01:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "人工智慧初創企業 Wonderful 估值達到 50 億美元。"
-    },
-    {
-      "id": "5073158",
-      "time": "2026-09-02 19:01:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燧原科技：科創板IPO網上發行最終中籤率0.02455315%】燧原科技(688801.SH)公告稱，公司首次公開發行股票並在科創板上市網上發行申購情況及中籤率公佈，本次發行股份數量為4303.5173萬股，發行價142.18元/股。網上發行有效申購戶數703.2045萬戶，有效申購股數420.66億股。因網上發行初步有效申購倍數超100倍，啟動回撥機制，將344.3萬股從網下回撥至網上。回撥後，網上最終發行1032.85萬股，最終中籤率0.02455315%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609023862900761",
-      "time": "2026-09-02 19:01:32",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國MBA抵押貸款申請指數上週上升0.8%。"
-    },
-    {
-      "id": "5073157",
-      "time": "2026-09-02 19:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE‑100指數收盤下跌1%，報174776.60點。"
-    },
-    {
-      "id": "mkt:01a061c7-7018-7118-845c-a219960961dd",
-      "time": "2026-09-02 19:00:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【BOC decision imminent; Canadian data roundup】July CPI YoY 3.0% (June 2.8%), MoM +0.5%, SA MoM +0.3%. Core CPI ex-gas stable at 2.2% YoY (third month). Gasoline +25.7% YoY. Median CPI YoY 2.0% (June 1.9%); trimmed mean 1.9% (unchanged). Industrial product prices July MoM +0.6%, YoY +12.4%; ex-energy & petroleum MoM -0.2%; energy & petroleum MoM +6.4%. Raw materials prices July MoM -2.2%, YoY +18.1%; ex-crude energy MoM -1.5% YoY +16.7%; crude energy products MoM -3.6%. Q2 GDP QoQ +0.8%; Q1 revised to +0.1% from 0.0%. Q2 growth driven by exports, household consumption and business investment. Labour: July employment +75k (+0.4% MoM) to 21.215 mln; unemployment 6.4% (-0.1ppt). Average hourly wages YoY +2.8% (June 3.3%). Retail: advance indicator points to July retail sales MoM -0.8%. June retail sales MoM +0.6% to C$74.3 bln; Q2 nominal retail sales QoQ +2.2%, real volumes +0.4%. Trade: June goods exports +0.4% MoM to C$77.5 bln; imports +0.2% to C$73.6 bln; trade surplus C$3.9 bln (May C$3.7 bln), fourth consecutive surplus. BOC Q2 surveys: business confidence slipped after three quarters of improvement; firms expecting a recession in the next 12 months rose to 17% from 9%; firms raised input-price, selling-price and inflation expectations. Consumer survey shows a slight rise in the share expecting 12-month inflation >3%; 2- and 5-year inflation expectations edged up."
-    },
-    {
-      "id": "5073156",
-      "time": "2026-09-02 19:00:54",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：債券收益率上行成為 9 月全球股市主要風險】摩根大通的格蕾絲・彼得斯表示，在股市迎來歷史表現偏弱的 9 月之際，債券收益率走高對全球股票構成重大風險。彼得斯認為，美股與歐股今年仍存在進一步上行空間，但她提醒，在 11 月美國中期選舉等風險事件來臨前，市場仍可能出現 5%‑8% 的回撥；該回撥屬於良性回撤，並非結構性崩盤。"
-    },
-    {
-      "id": "mkt:01a061c6-d1d7-7118-845c-99fa6c6bfe39",
-      "time": "2026-09-02 19:00:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "US MBA mortgage refinance index for week ended Aug 28: 732.6, prior 740.8."
-    },
-    {
-      "id": "mkt:01a061c6-ce6d-7118-845c-96909bd9a797",
-      "time": "2026-09-02 19:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US MBA mortgage purchase index for week ended Aug 28: 157.8, prior 154.4."
-    },
-    {
-      "id": "mkt:01a061c6-cd94-7118-845c-8c57337e7414",
-      "time": "2026-09-02 19:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【JP Morgan: US Treasury yields rising to 5% could pose risk to equities】JP Morgan's global head of investment strategy Grace Peters said rising bond yields are a key risk to global equities. She still expects further upside for US and European stocks this year but warned a 5–8% pullback is possible as US midterms approach in November, calling it a healthy correction rather than structural strain. Markets fear oil-driven inflation could push the 10-year UST yield to around 4.8% and toward the 5% threshold seen as adverse for equities; the 30-year yield is at a 19-year high. Traders increasingly price that policymakers may be forced to tighten further, which could push yields back toward levels seen before US Treasury Secretary Bessent expanded buyback operations to curb long-term borrowing costs."
-    },
-    {
-      "id": "mkt:01a061c6-cd2c-7118-845c-83d6724c859f",
-      "time": "2026-09-02 19:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y"
-      ],
-      "text": "US MBA mortgage applications activity index 247.3 in the week ended Aug 28, up from 245.3 the prior week."
-    },
-    {
-      "id": "mkt:01a061c6-cd2b-7118-845c-7853aa97a7cd",
-      "time": "2026-09-02 19:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. MBA 30-year fixed mortgage rate for the week ending Aug 28 at 6.79%, up 1bp from 6.78%."
-    },
-    {
-      "id": "5073155",
-      "time": "2026-09-02 19:00:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月28日當週MBA抵押貸款申請活動指數週環比 0.8%，前值 -1%。"
-    },
-    {
-      "id": "mkt:01a061c6-9989-7118-845c-6f6d803c6d50",
-      "time": "2026-09-02 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Aug.28) | actual 732.6 | previous 740.8"
-    },
-    {
-      "id": "mkt:01a061c6-99b1-7118-845c-74f1cfcdef96",
-      "time": "2026-09-02 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Aug.28) | actual 157.8 | previous 154.4"
-    },
-    {
-      "id": "mkt:01a061c6-9966-7118-845c-5a8ddd880668",
-      "time": "2026-09-02 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Aug.28) | actual 247.3 | previous 245.3"
-    },
-    {
-      "id": "mkt:01a061c6-9972-7118-845c-6007bc2260e7",
-      "time": "2026-09-02 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Aug.28) | actual 6.79% | previous 6.78%"
-    },
-    {
-      "id": "5073154",
-      "time": "2026-09-02 18:59:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首都機場客流較去年提前16天突破5000萬人次】記者從北京首都國際機場獲悉，截至9月2日，首都機場今年旅客吞吐量已突破5000萬人次，較去年提前16天。剛剛結束的民航暑運（7月1日至8月31日）期間，首都機場旅客吞吐量超1400萬人次，日均22.6萬人次，同比增長近13%。目前，首都機場航線網路已覆蓋全球57個國家的217個航點。近期首都機場還將開通至布加勒斯特、薩格勒布、雷克雅未克航線，為旅客提供豐富便捷的出行選擇。（新華社）"
-    },
-    {
-      "id": "5073153",
-      "time": "2026-09-02 18:59:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST卓然：立案調查進展 或觸及重大違法強制退市】*ST卓然公告稱，公司及實際控制人張錦紅因涉嫌資訊披露違法違規等事項被中國證監會立案，現已初步查明公司披露的部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形。若後續經中國證監會行政處罰認定的事實觸及相關上市規則規定的重大違法強制退市情形，公司股票將被實施重大違法強制退市。截至本公告披露日，中國證監會的調查尚在進行中，公司將積極配合調查並履行資訊披露義務。"
-    },
-    {
-      "id": "mkt:01a061c6-1efa-7118-845c-51ae57b380b8",
-      "time": "2026-09-02 18:59:28",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Barclays raises Dell (DELL.N) price target to $603 from $550."
-    },
-    {
-      "id": "mkt:01a061c5-c341-7118-845c-4c541c093890",
-      "time": "2026-09-02 18:59:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission Executive Vice‑President Dombrovskis will hold a phone call with Ukraine's prime minister next week."
-    },
-    {
-      "id": "5073151",
-      "time": "2026-09-02 18:59:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "9月1日海外投資者淨買入176億印度盧比的印度股票。"
-    },
-    {
-      "id": "mkt:01a061c5-a3e1-7118-845c-408140fd0c37",
-      "time": "2026-09-02 18:58:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【CHINA says it will work with regional states to safeguard international shipping lanes】On Sept. 2 in Cairo, Egyptian President Sisi met with CHINA. CHINA said it supports building a new Middle East security architecture based on a common, comprehensive, cooperative and sustainable security concept, that long-term stability depends on development, and that it is willing to work with regional countries to safeguard international shipping lanes, advance development cooperation, promote alignment of regional interests, and gradually build mutual trust to remove sources of conflict."
-    },
-    {
-      "id": "5073150",
-      "time": "2026-09-02 18:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官員多布羅夫斯基斯將與烏克蘭總理科列茨基於下週舉行電話會談。"
-    },
-    {
-      "id": "mkt:01a061c5-64ae-7118-845c-3ae71eba798c",
-      "time": "2026-09-02 18:58:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said NATO's unity is unwavering and its support for Ukraine is unequivocal."
-    },
-    {
-      "id": "mkt:01a061c5-38b9-7118-845c-30523999cc99",
-      "time": "2026-09-02 18:58:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary General Rutte said forces are working around the clock to ensure readiness and safeguard public safety."
-    },
-    {
-      "id": "5073149",
-      "time": "2026-09-02 18:58:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：我們正夜以繼日地工作，確保做好一切準備，保障民眾安全。"
-    },
-    {
-      "id": "mkt:01a061c5-0d87-7118-845c-2ba358064325",
-      "time": "2026-09-02 18:58:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "NATO Secretary-General Rutte: \"malicious activity\" against our territory has increased."
-    },
-    {
-      "id": "5073148",
-      "time": "2026-09-02 18:58:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：針對北約領土的“惡意活動”有所增加。"
     }
   ]
 }
