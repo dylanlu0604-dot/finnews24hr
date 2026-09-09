@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-09 23:30:49",
-  "count": 13596,
+  "updated": "2026-09-09 23:34:55",
+  "count": 13592,
   "items": [
+    {
+      "id": "mkt:01a086ce-29dd-7118-850b-644bc4ccdb6b",
+      "time": "2026-09-09 23:34:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-month Treasury auction Sept. 9 — bid-cover ratio 2.73, prior 2.78."
+    },
+    {
+      "id": "mkt:01a086ce-1f62-7118-850b-5a306342b75d",
+      "time": "2026-09-09 23:34:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-month Treasury auction on Sept 9: stop-out yield 3.895%, prior 3.86%."
+    },
+    {
+      "id": "mkt:01a086ce-0a96-7118-850b-57f147260b5f",
+      "time": "2026-09-09 23:34:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.9) | actual 2.73 | previous 2.78"
+    },
+    {
+      "id": "mkt:01a086cd-f31a-7118-850b-4cbd08aef3db",
+      "time": "2026-09-09 23:33:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.9) | actual 3.895% | previous 3.86%"
+    },
+    {
+      "id": "5085554",
+      "time": "2026-09-09 23:33:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊通社（IRNA）：巴基斯坦國防部長重申恪守與沙烏地阿拉伯、土耳其簽署的聯合防禦協議。"
+    },
+    {
+      "id": "5085553",
+      "time": "2026-09-09 23:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊通社（IRNA）：巴基斯坦國防部長希望沙烏地阿拉伯與葉門之間的問題能夠得到持久解決。"
+    },
+    {
+      "id": "5085552",
+      "time": "2026-09-09 23:32:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.895%，投標倍數2.73。"
+    },
+    {
+      "id": "5085551",
+      "time": "2026-09-09 23:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機襲擊俄羅斯別爾哥羅德州，造成 1 人死亡、1 人受傷。"
+    },
+    {
+      "id": "5085550",
+      "time": "2026-09-09 23:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.84%，報25528.61點。法國股指初步收跌2.01%，義大利股指初步收跌0.86%、銀行指數跌0.85%，英國股指初步收跌1.41%。"
+    },
+    {
+      "id": "5085549",
+      "time": "2026-09-09 23:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌1.57%，報639.41點。歐元區STOXX 50指數初步收跌1.82%，報6297.45點。富時泛歐績優300指數初步收跌1.55%，報2554.12點。"
+    },
     {
       "id": "5085548",
       "time": "2026-09-09 23:29:48",
@@ -123869,146 +123953,6 @@
         "Europe & UK"
       ],
       "text": "German government spokesman said Chancellor Merz pledged to Ukrainian President Zelenskiy that Ukraine can rely on Germany for firm, sustained civilian and military support."
-    },
-    {
-      "id": "5073754",
-      "time": "2026-09-02 23:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國政府發言人表示，德國總理默茨向澤連斯基保證，烏克蘭可以相信德國會堅定地繼續向其提供民用與軍事支援。"
-    },
-    {
-      "id": "5073753",
-      "time": "2026-09-02 23:34:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【追覓將在IFA展示百餘款產品，ECHO系列家庭服務機器人將亮相】9月2日晚間訊息，IFA 2026期間，追覓將集中展示覆蓋超過16個品類的百餘款產品及多項首創技術，涵蓋智慧清潔、生活環境電器、個人護理、擦窗和小廚電等多個家庭場景。追覓還將首次集中呈現由全域感知系統、家庭通用模型和智慧控制系統構成的三大物理AI技術底座，並展示處於研發階段的ECHO系列家庭服務機器人。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a062c1-d0e3-7118-8468-769bca88eeb4",
-      "time": "2026-09-02 23:34:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 4-month Treasury auction stop-out yield 3.855% as of Sept. 2; prior 3.75%."
-    },
-    {
-      "id": "mkt:01a062c1-aa4a-7118-8468-693de457c92e",
-      "time": "2026-09-02 23:34:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.2) | actual 3.855% | previous 3.75%"
-    },
-    {
-      "id": "mkt:01a062c1-a31f-7118-8468-67a9119106c8",
-      "time": "2026-09-02 23:34:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. 4-month Treasury auction to Sep 2 — share awarded at the stop-out yield 76.38% vs 34.83% previously."
-    },
-    {
-      "id": "mkt:01a062c1-7d8c-7118-8468-5b5cd1bb2ea4",
-      "time": "2026-09-02 23:34:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury auction to Sept. 2 — bid-cover ratio 2.78; previous 3.09."
-    },
-    {
-      "id": "te:markets:580545",
-      "time": "2026-09-02 23:33:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rebounds From Two-Week Lows — Silver rose above $65 an ounce in afternoon trading Wednesday, recovering from two-week lows as the US dollar and Treasury yields pulled back from recent highs. Investors are awaiting US payrolls data on Friday for further clues on the Federal Reserve’s policy path. Oil prices hovered around six-week highs as traders weighed elevated supply risks from ongoing Middle East hostilities against signs that crude was still reaching the market. Meanwhile, the latest ADP report showed US private businesses added 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Markets now price in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool."
-    },
-    {
-      "id": "mkt:01a062c1-422c-7118-8468-559d498c293f",
-      "time": "2026-09-02 23:33:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.2) | actual 2.78 | previous 3.09"
-    },
-    {
-      "id": "5073752",
-      "time": "2026-09-02 23:33:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "GE Vernova股價上漲至2.2%，創盤中新高。"
-    },
-    {
-      "id": "5073751",
-      "time": "2026-09-02 23:32:30",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.855%，投標倍數2.78。"
-    },
-    {
-      "id": "te:markets:580543",
-      "time": "2026-09-02 23:31:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds From One-Month Low as Dollar Retreats — Gold rose above $4,360 an ounce in afternoon trading Wednesday, recovering from a near one-month low touched earlier, as the USD and Treasury yields pulled back from recent highs, while investors await US payrolls data due Friday for further clues on the Federal Reserve’s policy path. Oil prices hit fresh six-week highs as traders weighed elevated supply risks from ongoing Middle East hostilities against signs that crude was still reaching the market. Meanwhile, the latest ADP report showed US private businesses added 38,000 jobs in August, the weakest increase since January and below expectations of 47,000, pointing to a broader cooling in the labor market. Markets now price in a 66% chance of a September Fed hike, up from around 40% a week ago, according to the CME FedWatch Tool. Elsewhere, the Dutch central bank said it had transferred 86 metric tons of gold from New York and Ottawa to London over the past six months to improve tradability and strengthen crisis preparedness."
-    },
-    {
-      "id": "5073750",
-      "time": "2026-09-02 23:31:24",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.21%，歐洲斯托克指數下跌0.16%，歐元區藍籌股指數下跌0.09%。英國富時100指數下跌0.26%，德國DAX指數下跌0.49%，法國CAC 40指數下跌0.21%，西班牙IBEX指數下跌0.2%。"
-    },
-    {
-      "id": "mkt:01a062be-d3b3-7118-8468-4eec3dbfd094",
-      "time": "2026-09-02 23:31:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A German government spokesman said Chancellor Merz told Ukrainian President Zelenskiy in a phone call about a mixed attack on Leipzig Airport."
-    },
-    {
-      "id": "5073749",
-      "time": "2026-09-02 23:30:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國政府發言人表示，德國總理默茨在通話中向烏克蘭總統澤連斯基通報了萊比錫機場遭遇混合襲擊一事。"
     }
   ]
 }
