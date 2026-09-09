@@ -1,7 +1,49 @@
 {
   "date": "2026-09-10",
-  "count": 528,
+  "count": 533,
   "items": [
+    {
+      "id": "mkt:01a08893-b3ba-7118-8513-688bd5c1842b",
+      "time": "2026-09-10 07:49:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sen. Fetterman appears at GOP convention, says he will cooperate with Trump】Pennsylvania Democratic Sen. John Fetterman recorded a video for the Dallas GOP midterm convention in which he implicitly criticized his party and called for cooperation with former President Trump. He described himself as a common-sense Democrat who rejects extremism, expressed support for Republican Senate candidate Dave McCormick, called his Jan. 2025 Mar-a-Lago meeting with Trump positive and described Trump as kind and pleasant, said he backs Trump’s AI initiatives and that he will work with Trump to defend the US steel industry."
+    },
+    {
+      "id": "5085960",
+      "time": "2026-09-10 07:48:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【赴港上市與回A節奏提速 雙向奔赴料持續】今年以來，A股與港股雙向奔赴的節奏越來越密。一邊是A股硬科技、消費製造類龍頭集中登陸港交所發行H股，成為港股IPO市場的重要供給之一；另一邊是港股AI、機器人、創新藥等科創企業加速推進回A申報，制度優勢打通了未盈利企業的迴歸路徑。南開大學金融學教授田利輝表示，“A+H”持續擴容，這種雙向流動打破了市場分割，促進了監管規則與資訊披露標準深度接軌，定價權的雙向傳導有助於縮小跨境估值差異，提升中國資產的整體定價效率。這不僅提升了中國資產在全球配置中的權重，更為構建規範、透明、開放、有活力、有韌性的中國特色現代資本市場體系提供了重要實踐樣本。市場普遍預期，在當前的政策環境下，“A+H”雙平臺上市將進入常態化擴容的全新發展階段。（證券時報）"
+    },
+    {
+      "id": "5085958",
+      "time": "2026-09-10 07:46:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤下跌0.27點。"
+    },
+    {
+      "id": "5085957",
+      "time": "2026-09-10 07:46:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1.3%。"
+    },
+    {
+      "id": "5085956",
+      "time": "2026-09-10 07:45:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告顯示北京位列世界旅遊城市綜合排名第五】9月9日，由世界旅遊城市聯合會主辦的2026世界旅遊合作與發展大會在京舉行。會上釋出的《世界旅遊城市發展報告（2025-2026）》顯示，北京位列世界旅遊城市綜合排名第五。報告從城市知名度、產業景氣度、城市智慧度等6個維度，對全球100個旅遊城市進行綜合評估。北京綜合排名第五，在城市智慧度、旅遊安全度兩個單項榜單中均排名第二，反映出北京在文化資源、國際交往、智慧治理和安全保障等方面的綜合優勢。（新華社）"
+    },
     {
       "id": "5085955",
       "time": "2026-09-10 07:44:27",
