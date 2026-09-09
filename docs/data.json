@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-10 03:08:07",
-  "count": 13577,
+  "updated": "2026-09-10 03:12:09",
+  "count": 13576,
   "items": [
+    {
+      "id": "5085720",
+      "time": "2026-09-10 03:11:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "華特迪士尼股價下跌0.6%。"
+    },
+    {
+      "id": "5085718",
+      "time": "2026-09-10 03:10:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍爆炸物處理部隊（EOD）與特種作戰艇員隊（SWCC）協助清理霍爾木茲海峽的水雷。"
+    },
+    {
+      "id": "5085716",
+      "time": "2026-09-10 03:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：目前尚未找到單一根本原因，但我們確實發現，隨著時間推移，我們生產模型中的偏差推理現象已有所減少。"
+    },
     {
       "id": "mkt:01a08791-7e0b-7118-8510-6e6b37e49f24",
       "time": "2026-09-10 03:07:34",
@@ -9,6 +33,14 @@
         "MKT News"
       ],
       "text": "ANTHROPIC said it could not identify a single root cause, but found biased reasoning behavior in its production models has declined over time."
+    },
+    {
+      "id": "5085714",
+      "time": "2026-09-10 03:07:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "華特迪士尼首席財務官表示，公司希望繼續實現兩位數收益增長。"
     },
     {
       "id": "5085713",
@@ -123949,51 +123981,6 @@
         "市場"
       ],
       "text": "芝商所亨利港天然氣期貨持倉量創下新高。"
-    },
-    {
-      "id": "mkt:01a06387-3df1-7118-846c-5c3471b5fc40",
-      "time": "2026-09-03 03:10:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures up 3.00% intraday at $2.993/MMBtu."
-    },
-    {
-      "id": "5073939",
-      "time": "2026-09-03 03:09:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超3.00%，現報2.992美元/百萬英熱。"
-    },
-    {
-      "id": "5073938",
-      "time": "2026-09-03 03:09:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉將與雪佛龍、埃尼集團合作開發新建石油專案。"
-    },
-    {
-      "id": "mkt:01a06386-2637-7118-846c-5143a798fb54",
-      "time": "2026-09-03 03:08:50",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "The FAA said Boeing (BA.N) paid a $3.1 million fine earlier this year for safety violations, some of which were linked to an Alaska Airlines cabin door plug incident."
-    },
-    {
-      "id": "5073937",
-      "time": "2026-09-03 03:08:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉石油工人及相關企業準備儘快開工。"
     }
   ]
 }
