@@ -1,7 +1,43 @@
 {
   "date": "2026-09-10",
-  "count": 400,
+  "count": 404,
   "items": [
+    {
+      "id": "5085867",
+      "time": "2026-09-10 05:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：（除霍爾木茲海峽）另有每日300萬至500萬桶原油透過旁路管道輸送。"
+    },
+    {
+      "id": "mkt:01a0881c-23f0-7118-8512-9f5fa7291061",
+      "time": "2026-09-10 05:39:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Medvedev, deputy chairman of the Russian Federation Security Council, said there is no need to initiate wartime mobilization."
+    },
+    {
+      "id": "mkt:01a0881a-ae2c-7118-8512-93a5a43a10a6",
+      "time": "2026-09-10 05:37:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said air-raid sirens sounded across multiple areas in northern Israel earlier after reports of hostile aircraft intrusion; the incident was later confirmed to be a false alarm."
+    },
+    {
+      "id": "5085866",
+      "time": "2026-09-10 05:36:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長：霍爾木茲原油日流量略低於1100萬桶。"
+    },
     {
       "id": "5085865",
       "time": "2026-09-10 05:35:50",
