@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-09 09:16:20",
-  "count": 13735,
+  "updated": "2026-09-09 09:20:19",
+  "count": 13733,
   "items": [
+    {
+      "id": "mkt:01a083bf-22ea-7118-84f7-d6c8a865b6f0",
+      "time": "2026-09-09 09:18:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "MU.O",
+        "WDC.O"
+      ],
+      "text": "Kioxia denies any intention to cooperate with SK Hynix and commits to tempering chip price increases."
+    },
+    {
+      "id": "5083943",
+      "time": "2026-09-09 09:17:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會計劃於9日對亞馬遜航空公司的飛行員進行質詢。"
+    },
+    {
+      "id": "5083942",
+      "time": "2026-09-09 09:17:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆受災群眾陸續返鄉復產】西藏吉隆泥石流災害發生後，部分村莊群眾因次生災害風險被轉移安置。在完成房屋安全和地質災害風險排查後，吉隆鎮安置點的群眾正陸續返鄉。（央視）"
+    },
+    {
+      "id": "5083941",
+      "time": "2026-09-09 09:16:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度國家證券交易所下調IPO價格區間，無緣印度最大上市交易】據知情人士透露，印度國家證券交易所（NSE）已下調籌備已久的首次公開發行（IPO）價格區間，還可能縮減發售股份規模，使其原本有望成為印度史上最大規模上市的計劃落空。不願具名的訊息人士稱，本次IPO發行價區間大機率定為每股1700至1785盧比，低於此前推介的2000至2100盧比區間。訊息人士表示，由於部分股東不願在降價後出售股份，發售股權比例或將由原定6%縮減至總股本約5.5%。按擬定價格區間上限測算，出售5.5%股權可募資約2430億盧比（合26億美元），低於現代汽車印度公司2024年IPO募資的2790億盧比（該募資規模為印度史上最高）。據此計算，NSE估值最高可達4.42萬億盧比（合466億美元），而此前目標估值最高為5.26萬億盧比。"
+    },
+    {
+      "id": "5083940",
+      "time": "2026-09-09 09:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科創達與楚能汽車達成戰略合作】9月8日，中科創達與楚能汽車達成戰略合作。雙方將圍繞生產承接與製造協同、產品升級與柔性製造、市場拓展與長期協作三大方向展開深度合作，以智慧座艙OS等核心產品為抓手，持續提升產品的市場適應度與競爭力。"
+    },
     {
       "id": "mkt:01a083bc-0df1-7118-84f7-cbdd90d08c90",
       "time": "2026-09-09 09:15:34",
@@ -26,6 +74,14 @@
         "市場"
       ],
       "text": "人民幣兌美元中間價報6.7769元，較上日調高35點。"
+    },
+    {
+      "id": "5083937",
+      "time": "2026-09-09 09:15:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西省省長趙剛會見正泰集團董事長南存輝一行並出席有關簽約儀式】據陝西日報，9月7日，陝西省省長趙剛在西安會見了正泰集團董事長南存輝一行，共同出席陝西省政府與正泰集團戰略合作協議、咸陽市政府與正泰集團有關專案合作框架協議簽約儀式並見籤。副省長李九紅代表省政府與正泰集團簽約。根據協議，陝西省將與正泰集團進一步深化政企合作，強化協同創新和產業協作，努力實現共贏發展。"
     },
     {
       "id": "mkt:01a083bb-b45b-7118-84f7-c60036f6da37",
@@ -125219,85 +125275,6 @@
         "MKT News"
       ],
       "text": "【Wenzhou (Zhejiang) raises flood emergency response to Level I】Wenzhou, Zhejiang recorded area-averaged rainfall of 143.8 mm in the past 24 hours. Forecasts call for heavy to very heavy rain today and showers with localized moderate-to-heavy rain tomorrow. Under the city’s flood-control emergency plan, the Wenzhou flood-control command raised the emergency response to Level I effective 09:00 on Sep 2. Local governments and relevant departments were instructed to implement flood-control measures."
-    },
-    {
-      "id": "mkt:01a05fb3-a883-7118-844b-f5b04e17f901",
-      "time": "2026-09-02 09:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Australia Q2 GDP YoY due in 10 minutes."
-    },
-    {
-      "id": "5072010",
-      "time": "2026-09-02 09:19:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港首家機器人全自主零售店正式運營】香港首家機器人全自主零售店於9月1日正式運營，透過實體店向市民提供與具身智慧應用的互動視窗。（新華社）"
-    },
-    {
-      "id": "mkt:01a05fb2-ea0b-7118-844b-ea2eed821ed0",
-      "time": "2026-09-02 09:19:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China small-balance cash product yield snapshot】7-day annualized yields: Tencent Licaitong (Huoqi+) 0.7020%–1.1340%; WeChat Lingqiantong 0.8700%–1.1010%; Alipay Yu’e Bao 0.8690%–1.0650%."
-    },
-    {
-      "id": "5072009",
-      "time": "2026-09-02 09:18:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率升至3.895%，創1996年以來最高水平。"
-    },
-    {
-      "id": "5072008",
-      "time": "2026-09-02 09:17:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【 10年期美國國債收益率升至2023年底以來的最高水平 】 由於油價上漲帶來通脹壓力，美國10年期國債收益率升至2023年底以來的最高水平。收益率小幅上升1個基點至4.81%。布倫特原油期貨上漲約2%，有望連續第三個交易日走高。"
-    },
-    {
-      "id": "5072007",
-      "time": "2026-09-02 09:16:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇省政府發文：落實帶薪休假 增加中小型演唱會】 據蘇州釋出，8月31日，江蘇省政府辦公廳印發關於緊抓當前提質增效推動經濟持續向新向優向好發展若干政策措施的通知，其中提到，面向全省0—3歲嬰幼兒家庭發放健康服務消費券；落實職工帶薪休假制度；增加中小型演唱會、本地音樂節頻次。"
-    },
-    {
-      "id": "mkt:01a05fb0-9132-7118-844b-e1b4068aa2b9",
-      "time": "2026-09-02 09:16:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【ASB: RBNZ September hike near-certain; peak rate likely slightly below market pricing】ASB Bank says markets have almost fully priced a 25bp RBNZ hike, leaving limited scope for a hawkish surprise. ASB still expects at least one more rate increase by year-end, with a terminal rate around 3.3%, slightly below current market pricing. If realised, that could prompt modest dovish re-pricing in front-end NZ yields and weigh on the NZD. ASB notes tightening financial conditions—including a stronger trade-weighted NZD and higher swap rates—that the RBNZ is likely to cite, reducing the case for an especially hawkish statement. With two-way risks to medium-term inflation, money and rates markets will remain highly sensitive to NZ data in the months ahead regardless of Wednesday's outcome."
-    },
-    {
-      "id": "mkt:01a05fb0-5ddc-7118-844b-da2b54208661",
-      "time": "2026-09-02 09:16:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "WTI",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Iran strikes continue; South Korean stocks under pressure】South Korean stocks opened sharply lower on Wednesday as continued U.S. and Iranian military strikes lifted oil prices. U.S. major indexes fell overnight. Inflation concerns sparked a government bond sell-off, pushing the 10-year U.S. Treasury yield to its highest level since January last year. In Seoul, most stocks opened down: Samsung Electronics −3.26%, SK Hynix −3.01%, Hyundai Motor −3.87%, Doosan Enerbility −3.32%, Shinsegae Group −6.08%, Samsung Biologics −1.32%."
     }
   ]
 }
