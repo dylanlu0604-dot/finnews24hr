@@ -1,7 +1,62 @@
 {
   "date": "2026-09-09",
-  "count": 2430,
+  "count": 2436,
   "items": [
+    {
+      "id": "mkt:01a086dc-aca7-7118-850b-91a68eaa292e",
+      "time": "2026-09-09 23:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "EIA will publish its monthly Short-Term Energy Outlook in 10 minutes."
+    },
+    {
+      "id": "mkt:01a086dc-784c-7118-850b-88f2f0906384",
+      "time": "2026-09-09 23:49:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's permanent representative to the UN said Iran will be prepared to facilitate IAEA verification activities once the war ends."
+    },
+    {
+      "id": "5085563",
+      "time": "2026-09-09 23:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：一旦戰爭局勢結束，將為國際原子能機構的核查活動創造條件。"
+    },
+    {
+      "id": "te:markets:582474",
+      "time": "2026-09-09 23:49:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls Amid Middle East Tensions — The CAC 40 fell 1.9% to close at 8,162 on Wednesday, reversing the previous session’s gains and hitting its lowest level since July as Middle East tensions escalated. Oil prices remained elevated after the US and Iran exchanged strikes near the Strait of Hormuz, heightening inflation concerns and reinforcing expectations that the ECB will raise interest rates by 25 basis points at Thursday’s policy meeting. Domestically, industrial production fell 0.4% month-over-month in July, missing expectations for a 0.3% increase. Losses were broad-based, with industrial and luxury stocks weighing heavily on the index. Airbus fell 2.2% after cutting its long-term demand outlook for single-aisle aircraft in China. Safran shed 3.2%, Thales retreated 3%, Legrand fell 3.8%, and Schneider Electric dropped 3.3%. Luxury stocks also declined amid increased risk aversion, with LVMH falling 3% to its lowest level since November 2020, Hermès shedding 2.2%, and Kering tumbling 4.7%."
+    },
+    {
+      "id": "te:markets:582473",
+      "time": "2026-09-09 23:48:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Falls to 2-Week Low — Wheat fell to $7.10 a bushel, their lowest level in two weeks, as traders weighed diplomatic efforts to end Russia’s war in Ukraine against continued disruption to Black Sea exports. Profit-taking following a strong rally also contributed to the decline. Prices had reached $7.70 on August 28, marking a three-and-a-half-year high, before easing. Ukraine struck targets at the Russian port of Novorossiysk, including a naval base and an oil-loading terminal, renewing concerns over disruptions to Black Sea trade. President Volodymyr Zelenskiy said the attack targeted several facilities, while traders cited unconfirmed reports that grain infrastructure may also have been damaged. However, attention shifted back to diplomacy after the Kremlin said it hoped US-mediated talks would resume soon and identified Abu Dhabi as its preferred venue for negotiations. The prospect of renewed talks helped ease some of the market’s supply concerns."
+    },
     {
       "id": "5085562",
       "time": "2026-09-09 23:44:37",
@@ -17,6 +72,15 @@
         "國際"
       ],
       "text": "市場訊息：美國得克薩斯州民主黨在共和黨全國代表大會召開前夕接待多位全國性政黨領袖。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609093869655076",
+      "time": "2026-09-09 23:42:45",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國財政部宣佈長債回購上限60億美元 失望情緒籠罩市場】美國財政部宣佈，根據擴大後的國債回購計劃，財政部在首次操作中將購買最多60億美元長期政府債券。在財長貝森特公開談及回購規模可能超過40億美元后，部分交易商已上調對週四回購操作的預測。"
     },
     {
       "id": "5085560",
