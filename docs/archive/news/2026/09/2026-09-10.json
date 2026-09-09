@@ -1,7 +1,33 @@
 {
   "date": "2026-09-10",
-  "count": 356,
+  "count": 359,
   "items": [
+    {
+      "id": "mkt:01a087f7-d18b-7118-8512-14053375fbeb",
+      "time": "2026-09-10 04:59:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to The Information, OpenAI has told some commercial partners it will stop accepting ads on ChatGPT for AI image- and audio-generation products that compete with ChatGPT's capabilities."
+    },
+    {
+      "id": "5085842",
+      "time": "2026-09-10 04:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI切斷Adobe等企業在ChatGPT投放部分競品AI產品廣告】OpenAI通知部分商業合作伙伴，不再允許在ChatGPT內投放影象、音訊生成類產品廣告，這類產品與OpenAI自身功能構成直接競爭。這項新規此前並未對外披露，也尚未更新至OpenAI官方廣告政策頁面，令包括Adobe在內的現有廣告主猝不及防，Adobe就銷售上述生成式AI產品。倘若該禁令進一步擴大到其他競品品類，這項新政策或將壓縮OpenAI潛在廣告收入。OpenAI此前向投資者給出十分激進的廣告業務增長預期，廣告被視作挖掘海量非付費使用者商業價值的核心手段。"
+    },
+    {
+      "id": "5085841",
+      "time": "2026-09-10 04:57:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI切斷Adobe及其他合作方在圖片產品內投放廣告的許可權。"
+    },
     {
       "id": "mkt:01a087ec-217e-7118-8512-0823e3f2351f",
       "time": "2026-09-10 04:46:34",

@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-10 04:56:47",
-  "count": 13543,
+  "updated": "2026-09-10 05:00:47",
+  "count": 13541,
   "items": [
+    {
+      "id": "mkt:01a087f7-d18b-7118-8512-14053375fbeb",
+      "time": "2026-09-10 04:59:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to The Information, OpenAI has told some commercial partners it will stop accepting ads on ChatGPT for AI image- and audio-generation products that compete with ChatGPT's capabilities."
+    },
+    {
+      "id": "5085842",
+      "time": "2026-09-10 04:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI切斷Adobe等企業在ChatGPT投放部分競品AI產品廣告】OpenAI通知部分商業合作伙伴，不再允許在ChatGPT內投放影象、音訊生成類產品廣告，這類產品與OpenAI自身功能構成直接競爭。這項新規此前並未對外披露，也尚未更新至OpenAI官方廣告政策頁面，令包括Adobe在內的現有廣告主猝不及防，Adobe就銷售上述生成式AI產品。倘若該禁令進一步擴大到其他競品品類，這項新政策或將壓縮OpenAI潛在廣告收入。OpenAI此前向投資者給出十分激進的廣告業務增長預期，廣告被視作挖掘海量非付費使用者商業價值的核心手段。"
+    },
+    {
+      "id": "5085841",
+      "time": "2026-09-10 04:57:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI切斷Adobe及其他合作方在圖片產品內投放廣告的許可權。"
+    },
     {
       "id": "mkt:01a087ec-217e-7118-8512-0823e3f2351f",
       "time": "2026-09-10 04:46:34",
@@ -123675,61 +123701,6 @@
         "Importance 0"
       ],
       "text": "Brent Rises as US-Iran Hostilities Escalate — Brent rebounded to trade over $95 a barrel on Wednesday, extending a two-session rally that lifted prices to a six-week high. Renewed hostilities between the US and Iran rose of disruptions risks to Middle East crude exports. The US completed a wave of strikes against Iran on Tuesday, according to US Central Command. Iran’s state media reported that the Revolutionary Guard retaliated by targeting US military positions in Jordan, Kuwait, Bahrain, Iraq and the UAE. US President Donald Trump also indicated he was not interested in negotiating with Iran. Meanwhile, US Energy Secretary Chris Wright said more than 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest level since the war began in late February. Before the war, about 20 million barrels per day of crude and petroleum products passed through the strait. However, tanker traffic remains below its 10-day average, with Kpler reporting only four tanker crossings on Tuesday."
-    },
-    {
-      "id": "mkt:01a063ec-8dfb-7118-846e-2df3f33f307a",
-      "time": "2026-09-03 05:00:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's foreign exchange reserves stood at $442.3 bln in August, up from $427.95 bln previously."
-    },
-    {
-      "id": "5074018",
-      "time": "2026-09-03 05:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國8月外匯儲備 4423億美元，前值4279.5億美元。"
-    },
-    {
-      "id": "mkt:01a063ec-67cd-7118-846e-252ff78598d3",
-      "time": "2026-09-03 05:00:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Foreign Exchange Reserves (Aug) | actual 442300000000B | previous 427950000000B"
-    },
-    {
-      "id": "mkt:01a063eb-76df-7118-846e-1893d3755dbb",
-      "time": "2026-09-03 04:59:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "AVGO.O",
-        "Impact bearish",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Broadcom Q4 guidance below estimates; AI-chip growth under pressure】Broadcom (AVGO.O) forecast Q4 revenue of $34.8bn, below analysts' average $35.1bn and well under some expectations above $36bn, indicating AI-driven revenue may be ramping slower than investors expected. NVIDIA's strong guidance last week had boosted market demand assumptions for AI chips. Broadcom is rolling out custom AI processors to challenge NVIDIA; the business has won some large customers but remains at an early stage. Competitors Marvell and MediaTek, both supported by NVIDIA, add competitive pressure. Broadcom shares fell about 6% in after-hours trading."
-    },
-    {
-      "id": "te:markets:580589",
-      "time": "2026-09-03 04:58:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Gains as US-Iran Hostilities Escalate — Crude oil rebounded to trade over $90.50 a barrel on Wednesday, extending a two-session rally that lifted prices to a six-week high. Renewed hostilities between the US and Iran rose of disruptions risks to Middle East crude exports. The US completed a wave of strikes against Iran on Tuesday, according to US Central Command. Iran’s state media reported that the Revolutionary Guard retaliated by targeting US military positions in Jordan, Kuwait, Bahrain, Iraq and the UAE. US President Donald Trump also indicated he was not interested in negotiating with Iran. Meanwhile, US Energy Secretary Chris Wright said more than 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest level since the war began in late February. Before the war, about 20 million barrels per day of crude and petroleum products passed through the strait. However, tanker traffic remains below its 10-day average, with Kpler reporting only four tanker crossings on Tuesday."
     }
   ]
 }
