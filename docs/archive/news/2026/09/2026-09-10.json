@@ -1,7 +1,74 @@
 {
   "date": "2026-09-10",
-  "count": 219,
+  "count": 226,
   "items": [
+    {
+      "id": "mkt:01a08782-13c7-7118-8510-0bbd3a9ea2b6",
+      "time": "2026-09-10 02:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he will seek to provide Ecuador an additional US$45 mln in security funding and additional equipment."
+    },
+    {
+      "id": "5085694",
+      "time": "2026-09-10 02:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價轉漲。"
+    },
+    {
+      "id": "5085693",
+      "time": "2026-09-10 02:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國將向國會申請 4500 萬美元，用於追加對厄瓜多的援助。"
+    },
+    {
+      "id": "mkt:01a08780-d5d5-7118-8510-07aaa81e05f6",
+      "time": "2026-09-10 02:49:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says U.S.-Iran war will end immediately after midterms】Trump said he will not change U.S. strategy toward Iran for the midterm elections and is not currently seeking negotiations with Tehran, though talks remain possible later. He said the U.S. now seeks to resolve more than the nuclear issue, with an agenda that would include items that were \"impossible to put on the table\" three months ago, and added that \"this war will end immediately after our election.\" On energy, he said oil prices will fall sharply after the midterms and he will push gasoline below $2/gal, though that may take longer. He tied any return of oil to above $100/bbl to preventing Iran from obtaining nuclear weapons and described Iran's economy and domestic situation as very poor."
+    },
+    {
+      "id": "5085692",
+      "time": "2026-09-10 02:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：在該地區，厄瓜多是美國最好的盟友。"
+    },
+    {
+      "id": "mkt:01a08780-2202-7118-850f-fbbc1c0db5ed",
+      "time": "2026-09-10 02:48:36",
+      "tags": [
+        "MKT News",
+        "PETR4.SA",
+        "Impact mixed"
+      ],
+      "text": "Brazilian President LULA signed a decree cutting the combined PIS/PASEP and COFINS tax on gasoline by BRL0.63 per litre."
+    },
+    {
+      "id": "mkt:01a0877f-753d-7118-850f-f17d0b422585",
+      "time": "2026-09-10 02:47:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazil said an executive order issued earlier on Wednesday will set a diesel subsidy initially at 1 real per liter."
+    },
     {
       "id": "mkt:01a0877e-c93e-7118-850f-e9b401a80415",
       "time": "2026-09-10 02:47:08",

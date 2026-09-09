@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-10 02:47:48",
-  "count": 13561,
+  "updated": "2026-09-10 02:51:44",
+  "count": 13567,
   "items": [
+    {
+      "id": "mkt:01a08782-13c7-7118-8510-0bbd3a9ea2b6",
+      "time": "2026-09-10 02:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he will seek to provide Ecuador an additional US$45 mln in security funding and additional equipment."
+    },
+    {
+      "id": "5085694",
+      "time": "2026-09-10 02:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價轉漲。"
+    },
+    {
+      "id": "5085693",
+      "time": "2026-09-10 02:50:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國將向國會申請 4500 萬美元，用於追加對厄瓜多的援助。"
+    },
+    {
+      "id": "mkt:01a08780-d5d5-7118-8510-07aaa81e05f6",
+      "time": "2026-09-10 02:49:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says U.S.-Iran war will end immediately after midterms】Trump said he will not change U.S. strategy toward Iran for the midterm elections and is not currently seeking negotiations with Tehran, though talks remain possible later. He said the U.S. now seeks to resolve more than the nuclear issue, with an agenda that would include items that were \"impossible to put on the table\" three months ago, and added that \"this war will end immediately after our election.\" On energy, he said oil prices will fall sharply after the midterms and he will push gasoline below $2/gal, though that may take longer. He tied any return of oil to above $100/bbl to preventing Iran from obtaining nuclear weapons and described Iran's economy and domestic situation as very poor."
+    },
+    {
+      "id": "5085692",
+      "time": "2026-09-10 02:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：在該地區，厄瓜多是美國最好的盟友。"
+    },
+    {
+      "id": "mkt:01a08780-2202-7118-850f-fbbc1c0db5ed",
+      "time": "2026-09-10 02:48:36",
+      "tags": [
+        "MKT News",
+        "PETR4.SA",
+        "Impact mixed"
+      ],
+      "text": "Brazilian President LULA signed a decree cutting the combined PIS/PASEP and COFINS tax on gasoline by BRL0.63 per litre."
+    },
+    {
+      "id": "mkt:01a0877f-753d-7118-850f-f17d0b422585",
+      "time": "2026-09-10 02:47:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazil said an executive order issued earlier on Wednesday will set a diesel subsidy initially at 1 real per liter."
+    },
     {
       "id": "mkt:01a0877e-c93e-7118-850f-e9b401a80415",
       "time": "2026-09-10 02:47:08",
@@ -123835,18 +123902,6 @@
         "Importance 1"
       ],
       "text": "Brazil 10-Year Yield Falls After Election Poll — Brazil’s 10-year government bond yield fell to 14.45% from a near one-month high of 14.90% reached on August 14, following the release of the Genial/Quaest poll on the 2026 presidential election. The poll showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential October runoff, with Lula receiving 42% of voting intentions versus 41% for Bolsonaro. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that the effects of monetary tightening are increasingly visible, potentially leaving room for further Selic cuts."
-    },
-    {
-      "id": "mkt:01a06373-8bc9-7118-846c-223fcc69ea0b",
-      "time": "2026-09-03 02:48:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $95.63 per barrel, up $0.98, or 1.04%."
     }
   ]
 }
