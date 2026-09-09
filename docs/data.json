@@ -1,7 +1,368 @@
 {
-  "updated": "2026-09-10 05:56:33",
-  "count": 13532,
+  "updated": "2026-09-10 06:51:21",
+  "count": 13538,
   "items": [
+    {
+      "id": "5085894",
+      "time": "2026-09-10 06:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞武器庫爆炸致過渡政府國防部14人死亡】敘利亞過渡政府國防部9日晚發表宣告說，敘西北部伊德利卜省一個用於儲存武器和戰爭遺留物的臨時倉庫當天發生爆炸，造成14名過渡政府國防部人員死亡，另有包括平民在內的10餘人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:01a0885c-7744-7118-8513-10489d652ef5",
+      "time": "2026-09-10 06:49:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at Idlib weapons depot kills 14 transitional government defense personnel】Syria’s Transitional Government defense ministry said a temporary weapons and explosive-remnant storage site in Idlib province in northwest Syria exploded on the evening of the 9th, killing 14 ministry personnel and injuring more than 10 people, including civilians. The ministry said it immediately coordinated with authorities to secure and handle the site; an investigation into the cause is ongoing."
+    },
+    {
+      "id": "mkt:01a0885c-321c-7118-8513-0cd47069cde4",
+      "time": "2026-09-10 06:48:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ADBE.O",
+        "Impact bearish"
+      ],
+      "text": "【OpenAI tightens ChatGPT ad policy, restricts ads for rival image and audio generators】According to The Information, OpenAI has told some commercial partners it will no longer accept ads for image- and audio-generation products because they compete with OpenAI’s own features. The change was not previously reported and does not appear in OpenAI’s published ad policy, catching advertisers including Adobe off guard. If extended to other competing products, the restriction could constrain OpenAI’s potential ad revenue; OpenAI had earlier told investors it expected aggressive ad growth and views advertising as a key way to monetize its large non-paying user base."
+    },
+    {
+      "id": "5085893",
+      "time": "2026-09-10 06:47:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：胡塞武裝是獨立行為體。"
+    },
+    {
+      "id": "te:markets:582516",
+      "time": "2026-09-10 06:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 4.12% — Top crypto losers are Binance (-4.12%), XRP (-1.93%), Ether (-1.17%) and Bitcoin (-0.57%)."
+    },
+    {
+      "id": "5085892",
+      "time": "2026-09-10 06:44:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西淡水河谷：尚未就任何新債券發行做出決定。"
+    },
+    {
+      "id": "5085891",
+      "time": "2026-09-10 06:44:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國考慮加入由美國主導的霍爾木茲海峽海上聯盟。"
+    },
+    {
+      "id": "mkt:01a08856-2881-7118-8513-038d699790a0",
+      "time": "2026-09-10 06:42:22",
+      "tags": [
+        "MKT News",
+        "ET.N"
+      ],
+      "text": "【Energy Transfer to move primary listing from New York to Texas】Energy Transfer LP plans to shift its primary listing from the New York Stock Exchange to the Texas Stock Exchange, with the move expected as early as next month. At about $75 billion market cap, this would be the largest U.S. corporate primary-listing migration to Texas to date. The Texas Stock Exchange has so far attracted several ETF listings and is seeking to win more corporate listings from NYSE and Nasdaq."
+    },
+    {
+      "id": "te:markets:582515",
+      "time": "2026-09-10 06:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Gains by 2.94% — Top commodity gainers are Rubber (2.94%), Lumber (1.40%) and Sugar (1.32%). Biggest losers are Wheat (-2.60%) and Oat (-1.14%)."
+    },
+    {
+      "id": "5085890",
+      "time": "2026-09-10 06:38:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌黑石投資的CruxAI 資料中心專案延期】由谷歌、黑石投資支援的Crux AI獲得50億美元資金，受專案失敗、基礎設施短缺、得州凍結新建資料中心政策影響，其資料中心建設出現延期，凸顯AI行業高速擴張背後實體基礎設施約束愈發突出。Crux AI表示，2027年實現500兆瓦算力容量的目標仍在推進，但高管評估各專案按期交付機率目前僅約50%，而三年前該機率為90%。"
+    },
+    {
+      "id": "mkt:01a08850-703f-7118-8512-ffdcfa1c80be",
+      "time": "2026-09-10 06:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada to pitch C$ tens of billions in projects including data centers, LNG and battery plant】Canada will present 167 projects valued at several tens of billions of Canadian dollars to global institutional investors next week at a Canada Investment Summit hosted by CARNEY at the Four Seasons Toronto. The pipeline covers data centers, advanced manufacturing, LNG, port infrastructure and dozens of mining projects. Listed opportunities include minority-stake sales such as satellite operator Telesat Corp. and a multibillion-CAD Ontario battery factory backed by a Volkswagen unit."
+    },
+    {
+      "id": "5085889",
+      "time": "2026-09-10 06:35:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【事關金融強國建設，重要釋出會今天下午3時舉行】國務院新聞辦公室將於今天（10日）下午3時舉行“開局起步‘十五五’”系列主題新聞釋出會，請中國人民銀行副行長陸磊，金融監管總局副局長叢林，中國證監會副主席李超，國家外匯局新聞發言人、副局長李斌介紹金融領域貫徹落實“十五五”規劃、推動金融強國建設有關情況，並答記者問。（央視新聞）"
+    },
+    {
+      "id": "te:markets:582514",
+      "time": "2026-09-10 06:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 2.75% — Top commodity gainers are Platinum (2.75%), Silver (2.37%) and Gold (1.07%). Biggest losers are Iron Ore CNY (-0.87%), Steel Rebar (-0.74%) and Lithium Carbonate (-0.68%)."
+    },
+    {
+      "id": "te:markets:582511",
+      "time": "2026-09-10 06:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Soars by 5.11% — Top commodity gainers are Natural Gas UK (5.11%), Heating Oil (5.05%), Natural Gas EU (4.55%), Crude Oil (4.31%) and Brent Oil (4.12%). Biggest losers are Natural gas (-3.80%), Methanol (-3.58%) and Ethanol (-1.09%)."
+    },
+    {
+      "id": "mkt:01a0884a-c4bf-7118-8512-f2af115875a2",
+      "time": "2026-09-10 06:29:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【State Council to hold 3:00pm Beijing briefing on finance measures under 15th Five-Year Plan】The State Council Information Office will hold a press briefing today (10th) at 3:00pm Beijing time on implementing the 15th Five-Year Plan and measures to build China into a financial power. Speakers will include PBOC Deputy Governor Lu Lei; Deputy Director of the National Financial Regulatory Administration Cong Lin; CSRC Vice Chairman Li Chao; and SAFE spokesperson and deputy director Li Bin."
+    },
+    {
+      "id": "5085888",
+      "time": "2026-09-10 06:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特主導聯軍稱葉門胡塞武裝再次襲擊沙特多地】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基9日說，葉門胡塞武裝當天使用彈道導彈和無人機對沙特多地發動襲擊。馬利基在社交媒體上發表宣告說，此次遭襲城市包括海米斯穆謝特、艾卜哈、賈贊等地。宣告譴責葉門胡塞武裝持續針對沙特國家資產和基礎設施發動“惡劣襲擊”，表示多國聯軍將作出回應。（新華社）"
+    },
+    {
+      "id": "mkt:01a08846-91ce-7118-8512-eb91abdf290b",
+      "time": "2026-09-10 06:25:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi militants vow harsh retaliation after Saudi air strikes】Houthi spokesman Yahya said Saudi warplanes carried out 54 airstrikes across multiple Yemeni provinces in the past 12 hours, causing widespread damage to residential areas and civilian infrastructure. He warned the group will deliver a harsh, decisive response and said Riyadh will not escape the consequences of its actions."
+    },
+    {
+      "id": "mkt:01a08841-460c-7118-8512-e23ce85c7d57",
+      "time": "2026-09-10 06:19:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US official: Trump administration seeks more drug-pricing agreements】Mehmet Oz, head of the US Centers for Medicare & Medicaid Services (CMS), said the Trump administration is seeking additional voluntary drug-pricing agreements with pharmaceutical companies. Officials have announced more than 20 such deals so far, Oz said, and more are in the works. The agreements vary, but companies typically agree to lower prices charged to public health programs and to launch new drugs at prices comparable with other developed countries in exchange for tariff relief."
+    },
+    {
+      "id": "5085887",
+      "time": "2026-09-10 06:19:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上證報頭版文章：中國資產“確定性”築牢資本市場內在穩定性】近期，市場對“流動性”的討論有所升溫。從全球市場看，以美債為代表的多國國債收益率飆升，引發市場對流動性擠壓的普遍擔憂；從A股市場看，近兩天成交額有所縮減，有聲音解讀為市場流動性趨緊的訊號。多位市場專家接受採訪認為，當前A股流動性仍處於健康區間，從長期看，中國經濟及政策穩定性、科技創新加快引領產業格局變遷以及全球市場對中國資產安全性的認可，都將推動A股獨立定價能力進一步夯實。"
+    },
+    {
+      "id": "te:markets:582510",
+      "time": "2026-09-10 06:14:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 0.35% — Top currency losers are Brazilian Real (-0.35%), Indian Rupee (-0.28%) and New Zealand Dollar (-0.25%). Gains are led by Norwegian Krone (0.33%), Japanese Yen (0.30%), Euro (0.10%) and British Pound (0.06%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5085886",
+      "time": "2026-09-10 06:09:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國與波蘭簽署40億美元對外軍事融資貸款擔保協議。"
+    },
+    {
+      "id": "mkt:01a08837-ec65-7118-8512-dfa551f58a89",
+      "time": "2026-09-10 06:09:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Press TV reported multiple explosions at Saudi King Fahd Air Base."
+    },
+    {
+      "id": "mkt:01a08836-5620-7118-8512-d5b35bd410df",
+      "time": "2026-09-10 06:07:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY — 74% of economists say Japan's total budget requests for fiscal 2027 have heightened market concerns about fiscal discipline."
+    },
+    {
+      "id": "mkt:01a08834-4a6c-7118-8512-cf8a8c8bd2c7",
+      "time": "2026-09-10 06:05:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Reuters survey: 62% of economists expect the Bank of Japan to raise its policy rate to at least 1.75% by Q2 2027; a prior survey had expected a terminal rate of 1.50%."
+    },
+    {
+      "id": "5085885",
+      "time": "2026-09-10 06:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本計劃到2031財年研發可探測潛艇的無人機。"
+    },
+    {
+      "id": "mkt:01a08833-7cba-7118-8512-c59cde74af48",
+      "time": "2026-09-10 06:04:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Reuters survey: 97% of economists expect the Bank of Japan to raise its policy rate to 1.25% at the Sept. 18 meeting, versus 57% in the August survey."
+    },
+    {
+      "id": "5085884",
+      "time": "2026-09-10 06:04:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息機率為60.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為39.8%，累計加息25個基點的機率為60.2%。美聯儲到10月維持利率不變的機率為28.3%，累計加息25個基點的機率為54.3%，累計加息50個基點的機率為17.3%。"
+    },
+    {
+      "id": "5085883",
+      "time": "2026-09-10 06:02:32",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "調查顯示：62%經濟學家預計日本央行將在2027年第二季度將利率上調至至少1.75%，前次調查預期為1.50%。"
+    },
+    {
+      "id": "5085881",
+      "time": "2026-09-10 06:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：74%經濟學家認為日本2027財年預算申請總額加劇了對財政紀律的擔憂。"
+    },
+    {
+      "id": "5085880",
+      "time": "2026-09-10 06:02:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "調查顯示：82%經濟學家認為，美日聯合外匯干預以及美國財長貝森特的言論降低了日本央行加息的政治障礙。"
+    },
+    {
+      "id": "5085879",
+      "time": "2026-09-10 06:01:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內跌0.26%。"
+    },
+    {
+      "id": "mkt:01a08830-58d0-7118-8512-bbc50da5740d",
+      "time": "2026-09-10 06:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened 0.5% higher on Thursday, trading at $94.85/bbl."
+    },
+    {
+      "id": "5085878",
+      "time": "2026-09-10 06:00:43",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【共和黨中期選舉大會今晚達拉斯啟幕，特朗普、萬斯登臺造勢】當地時間今晚，首屆共和黨中期選舉大會在得克薩斯州達拉斯拉開直播帷幕。今年11月的國會控制權爭奪進入關鍵階段，美國總統特朗普、副總統萬斯以及共和黨核心候選人將登臺，在中期選舉前舉辦這場史無前例、為期兩晚的黃金時段活動。"
+    },
+    {
+      "id": "5085877",
+      "time": "2026-09-10 06:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報97.31美元/桶。"
+    },
+    {
+      "id": "5085876",
+      "time": "2026-09-10 06:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破97美元/桶，日內漲1.31%。"
+    },
+    {
+      "id": "5085875",
+      "time": "2026-09-10 06:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報67.94美元/盎司。"
+    },
+    {
+      "id": "5085874",
+      "time": "2026-09-10 05:58:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人發表宣告：對七名厄瓜多前官員實施制裁。"
+    },
+    {
+      "id": "mkt:01a0882e-0da7-7118-8512-b1b52b5f85ce",
+      "time": "2026-09-10 05:58:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI said US Secretary of State Rubio's lies cannot replace facts. He said Ansar Allah (the Houthi movement) is an independent actor that will decide its own actions, will accept no one's orders and is not a proxy for anyone."
+    },
     {
       "id": "5085873",
       "time": "2026-09-10 05:54:06",
@@ -123291,298 +123652,6 @@
         "其他"
       ],
       "text": "市場訊息：Palo Alto Networks按5億美元（現金+股票）收購Console。"
-    },
-    {
-      "id": "5074071",
-      "time": "2026-09-03 06:50:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國土安全部長所乘飛機因發動機故障緊急降落】當地時間9月2日，一架搭載美國國土安全部長馬克韋恩·馬林的海岸警衛隊飛機在華盛頓里根國家機場緊急降落。據悉，飛機右側發動機出現故障。機上共有14人，最終飛機安全著陸，未造成人員受傷。（央視新聞）"
-    },
-    {
-      "id": "5074070",
-      "time": "2026-09-03 06:47:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：豐田將把美國產電動漢蘭達 SUV 的上市時間從 2026 年下半年推遲至 2027 年或更晚。"
-    },
-    {
-      "id": "5074069",
-      "time": "2026-09-03 06:46:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "有關官員稱，俄羅斯空襲損毀了烏克蘭敖德薩的一棟多層居民樓。"
-    },
-    {
-      "id": "5074068",
-      "time": "2026-09-03 06:46:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭第二季度經季節性調整出口量環比增長 6.4%，紐西蘭第二季度經季節性調整進口價格環比上漲 13.8%。"
-    },
-    {
-      "id": "5074067",
-      "time": "2026-09-03 06:46:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭第二季度貿易條件指數環比下降 9.0%，紐西蘭第二季度經季節性調整出口價格環比上漲 3.5%."
-    },
-    {
-      "id": "te:markets:580599",
-      "time": "2026-09-03 06:45:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 1.46% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.46% decrease."
-    },
-    {
-      "id": "5074066",
-      "time": "2026-09-03 06:40:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【專家：人民幣“偏強執行、雙向波動”或是主基調】9月2日，人民幣對美元匯率小幅下跌。拉長時間看，今年以來，人民幣對美元匯率整體保持上漲。專家表示，人民幣匯率走強並非單一因素推動，而是美元回撥、國內出口保持較快增長、企業結匯需求釋放以及匯率預期改善共同作用的結果。展望後市，市場對人民幣適度升值仍持相對積極態度，“偏強執行、雙向波動”或是主基調。（中證報）"
-    },
-    {
-      "id": "te:markets:580598",
-      "time": "2026-09-03 06:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Drops by 4.96% — Top commodity losers are Butter (-4.96%), Cocoa (-4.37%) and Coffee (-3.92%). Gains are led by Sugar (1.86%)."
-    },
-    {
-      "id": "te:markets:580597",
-      "time": "2026-09-03 06:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.19% — Top commodity losers are Lithium Carbonate (-2.19%), Iron Ore CNY (-1.72%) and Iron Ore (-1.62%). Gains are led by Silver (2.13%) and Gold (1.39%)."
-    },
-    {
-      "id": "5074065",
-      "time": "2026-09-03 06:33:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【從“對沖”走向“保險” 焦炭期權開啟精細化風控新空間】9月2日，焦炭期權上市。相較於焦炭期貨解決“有沒有工具對沖”的問題，期權帶給煤焦鋼產業鏈的核心變化在於風險管理方式進一步從“鎖價格”走向“管風險”。業內人士表示，焦炭期權上市後，企業不僅可以繼續利用期貨管理方向性價格風險，還能透過不同執行價格、期限和組合策略，對採購、庫存、銷售以及極端行情風險進行更精細的管理。不過，期權並非簡單的“升級版期貨”，其非線性收益結構也對企業的專業能力、內部風控和考核機制提出了更高要求。（中證報）"
-    },
-    {
-      "id": "5074064",
-      "time": "2026-09-03 06:32:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聚焦進攻主線 夯實防禦底倉 百億級私募二季度末重倉股揭曉】隨著A股上市公司2026年半年報完成披露，百億級證券私募的二季度持倉圖譜完整浮出水面。據第三方機構私募排排網統計，截至二季度末，55家百億級私募現身264家上市公司前十大流通股東名單，合計持股市值達913.51億元（同一家上市公司被多傢俬募持倉時，在統計中會被重複計算；持股市值按照第二季度末的收盤價計算）。從調倉結構來看，百億級私募新進個股多達134只，增持29只，減持僅25只。一端是科技製造方向的集中加倉，另一端是存量倉位的精細再平衡。（中證報）"
-    },
-    {
-      "id": "te:markets:580596",
-      "time": "2026-09-03 06:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Gains by 3.32% — Top commodity gainers are Natural gas (3.32%), Naphtha (3.01%), Propane (3%), Brent Oil (0.72%) and Crude Oil (0.51%). Biggest losers are Coking Coal (-2.69%) and Gasoline (-1.23%)."
-    },
-    {
-      "id": "5074063",
-      "time": "2026-09-03 06:29:04",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【9月3日隔夜要聞一覽】\n1、美國總統特朗普當地時間9月2日在白宮對記者表示，美國對伊朗的新一輪打擊行動不會“持續太久”。\n2、美聯儲褐皮書：美國經濟小幅溫和擴張，消費分化，關稅推升成本壓力。\n3、國際油價2日上漲。紐約商品交易所10月交貨的輕質原油期貨價格上漲79美分，收於每桶91.01美元，漲幅為0.88%；11月交貨的倫敦布倫特原油期貨價格上漲98美分，收於每桶95.63美元，漲幅為1.04%。\n4、美國財長貝森特：我們將重新恢復關稅。\n5、Meta釋出更強大AI模型，聲稱進一步縮小了與競爭對手差距。\n6、美國鑄幣局正式推出印有特朗普頭像的1美元硬幣。\n7、伊朗貨幣兌美元跌至歷史新低，超220萬里亞爾兌1美元。\n8、特朗普：蘋果地圖剛剛宣佈，已將安大略湖更名為美國湖。至此，谷歌地圖與蘋果地圖之間這項至關重要的更名工作已經完成、正式生效且具備約束力。\n9、美國法官阻止特朗普政府執行最新一項限制出生地公民權的行政令。"
-    },
-    {
-      "id": "mkt:01a0643b-ec93-7118-846f-4096b01ed9c1",
-      "time": "2026-09-03 06:27:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. judge blocks Trump executive order limiting birthright citizenship】On Sept 2, U.S. District Judge Deborah Boardman in Maryland issued a preliminary injunction preventing the Trump administration from enforcing a new executive order that sought to deny automatic U.S. citizenship to newborns whose parents are neither U.S. citizens nor lawful permanent residents. Trump signed the order after returning to the White House in January 2025. The U.S. Supreme Court on June 30 had ruled to overturn the order."
-    },
-    {
-      "id": "5074062",
-      "time": "2026-09-03 06:26:36",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 08:30 日本8月綜合、服務業PMI終值，越南8月製造業PMI；\n② 09:00 澳洲聯儲負責金融系統的助理主席Brad Jones講話；\n③ 09:30 澳大利亞7月商品及服務貿易帳；\n④ 09:45 中國8月RatingDog服務業、綜合PMI；\n⑤ 10:05 越南8月進出口與貿易餘額；\n⑥ 13:00 印度8月綜合、服務業PMI終值；\n⑦ 13:15 澳洲聯儲負責經濟的助理主席Andrea Brischetto講話；\n⑧ 14:30 瑞士8月CPI；\n⑨ 15:50 法國8月綜合、服務業PMI終值；\n⑩ 15:55 德國8月綜合、服務業PMI終值；\n⑪ 16:00 歐元區8月綜合、服務業PMI終值；\n⑫ 16:30 英國8月綜合、服務業PMI終值；\n⑬ 17:00 歐元區7月PPI；\n⑭ 時間待定 特斯拉舉行Cybercab釋出會；\n⑮ 20:30 美國8月29日當週首次申請失業救濟人數、7月貿易帳、二季度非農生產力終值，加拿大7月貿易帳；美聯儲理事沃勒在Reuters Next談論通脹前景等問題；\n⑯ 21:45 美國8月標普全球服務業、綜合PMI終值；\n⑰ 22:00 美國8月ISM非製造業指數；\n⑱ 23:00 英國央行首席經濟學家Huw Pill講話；\n⑲ 次日03:00 美國克利夫蘭聯儲主席 Beth Hammack講話；\n⑳ 次日03:55 美國芝加哥聯儲主席Austan Goolsbee講話。"
-    },
-    {
-      "id": "5074061",
-      "time": "2026-09-03 06:25:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“自研+併購”雙輪驅動，國產半導體裝置進入2.0階段】預計2026至2030年全球12英寸矽片的年均複合增長率約9%，中國市場則會達到15%；國產裝置材料及零部件的市場佔有率快速提升，產業進入2.0階段；精益製造或是邁入高質量發展的關鍵路徑之一……在近日於無錫舉行的第十四屆半導體裝置材料及核心部件展（CSEAC 2026）之半導體產業CEO論壇上，多家上市公司高管及業內人士，就發展國產半導體裝置材料建言獻策。 資料顯示，到2028年，全球新建資料中心基礎設施投資將超過4萬億美元，其中半導體支出將達到2.8萬億美元。全球邏輯和儲存晶片廠加速擴產，直接帶動半導體裝置、材料需求大幅增長，加強自研成為國產半導體裝置商實現後來居上的首要選擇，併購發展則成為上市公司做大做強的“快速通道”。（上證報）"
-    },
-    {
-      "id": "5074060",
-      "time": "2026-09-03 06:25:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美法官叫停特朗普政府關於“出生公民權”的最新行政令】當地時間9月2日，美國馬里蘭州聯邦地區法院法官德博拉·博德曼釋出初步禁令，阻止特朗普政府執行一項新的行政令。該行政令旨在限制有資格獲得“出生公民權”的人數。特朗普2025年1月重返白宮後簽署行政令，規定父母均非美國公民或合法永久居民的新生兒不能自動獲得美國公民身份。今年6月30日，美國最高法院作出裁決，推翻了這一行政令。（央視新聞）"
-    },
-    {
-      "id": "5074059",
-      "time": "2026-09-03 06:22:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃色預警！“復活”颱風“沙德爾”今晨將再登陸】中央氣象臺9月3日6時釋出颱風黃色預警：今年第18號颱風“沙德爾”已於今天（3日）早晨加強為強熱帶風暴級，早晨5點鐘其中心位於福建漳浦縣南偏東方約50公里的近海海面上，就是北緯23.7度、東經117.8度，中心附近最大風力有10級（25米/秒），中心最低氣壓為985百帕，七級風圈半徑60~300公里。預計，“沙德爾”將以每小時20~25公里的速度向偏西方向移動，即將於今天（3日）早晨在福建漳浦到東山一帶沿海登陸（23~25米/秒，9~10級，熱帶風暴級或強熱帶風暴級），登陸後將逐漸減弱。"
-    },
-    {
-      "id": "mkt:01a06436-04ff-7118-846f-3904c8dabb52",
-      "time": "2026-09-03 06:20:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House press office: U.S. Vice President Vance will attend a briefing for the first time following Levitt's departure."
-    },
-    {
-      "id": "5074058",
-      "time": "2026-09-03 06:16:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京二手房單週成交量等指標“回暖”】一系列樓市新政落地後，北京二手房、新房市場活躍度均有所提升，單週成交量等指標“回暖”。近日，記者走訪北京西城區、豐臺區等地的多家地產中介門店瞭解到，自8月中下旬以來，地產中介門店的接待量、電話諮詢量都有明顯增加。北京市8月初發布新一輪樓市新政，非京籍家庭購買五環內商品住房的社保或個稅繳納年限由2年調減為1年，同時提升公積金貸款額度、擴大“帶押過戶”範圍。（上證報）"
-    },
-    {
-      "id": "5074057",
-      "time": "2026-09-03 06:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：萬斯將於明日下午 1 點召開新聞釋出會。"
-    },
-    {
-      "id": "te:markets:580595",
-      "time": "2026-09-03 06:15:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 1.17% — Top currency gainers are Brazilian Real (1.17%), South Korean Won (1.15%) and Japanese Yen (0.90%). Biggest losers are New Zealand Dollar (-0.73%), British Pound (-0.25%) and Dollar Index (-0.10%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "5074056",
-      "time": "2026-09-03 06:13:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【社保險資一二級市場齊加碼，長期資金投資重心轉向“硬科技”】社保基金、保險資金最新重倉股資料顯示，社保基金重倉“硬科技”市值佔比由一季度的7.62%升至12.62%，保險資金這一佔比由2.89%升至5.02%。在受訪人士看來，在政策引導與配置需求雙重驅動下，長期資金正加快向科技創新領域集聚，一、二級市場佈局同步加碼。（上證報）"
-    },
-    {
-      "id": "mkt:01a0642e-33d8-7118-846f-36980077b3a5",
-      "time": "2026-09-03 06:12:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semafor reports Florida Republican Rep. Brian Mast is also a candidate to succeed Driscoll as U.S. Army secretary."
-    },
-    {
-      "id": "mkt:01a0642d-3ed8-7118-846f-2b05baba196d",
-      "time": "2026-09-03 06:11:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semafor reports Sean Parnell has emerged as a leading contender for U.S. Army secretary."
-    },
-    {
-      "id": "5074055",
-      "time": "2026-09-03 06:08:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：肖恩・帕內爾（Sean Parnell）成為美國陸軍部長的頭號候選人。"
-    },
-    {
-      "id": "mkt:01a0642a-04ce-7118-846f-26e5bc9960d8",
-      "time": "2026-09-03 06:07:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Japanese firms consider selling strategic holdings to offset surge in financing costs】A survey of 30 Japanese non-financial companies shows firms are considering selling strategic shareholdings and other assets to offset the highest financing costs in a generation. Respondents also cited plans to increase overseas borrowing and to bring forward financing. Rising funding costs have begun to curb investment decisions; Toyota and Tohoku Electric say refinancing yen‑denominated bonds could raise their annual interest expense by more than 30%."
-    },
-    {
-      "id": "mkt:01a06426-39a3-7118-846f-1b139fcad2f2",
-      "time": "2026-09-03 06:03:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DHS secretary's plane makes emergency landing after engine fire; no injuries】A U.S. Coast Guard Gulfstream C-37A carrying Department of Homeland Security Secretary Markwayne Mullin made an emergency landing at Reagan National Airport on Wednesday after its right engine malfunctioned and caught fire. Mullin and several senior DHS officials aboard were uninjured."
-    },
-    {
-      "id": "mkt:01a06425-f04f-7118-846f-15210919f9ca",
-      "time": "2026-09-03 06:03:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US envoy meets UAE security adviser in Sardinia as UAE suspends Iran trade amid tanker attacks】Axios reports U.S. presidential envoy Steve Vitekov met last weekend in Sardinia with UAE national security adviser Tahnoun bin Zayed Al Nahyan to discuss next steps on Iran; the meeting was not disclosed by the White House. The talks come as the Trump administration pushes to reopen Strait of Hormuz shipping lanes and intensify economic pressure on Iran. The UAE has suspended trade, commercial and financial ties with Iran after a rise in Islamic Revolutionary Guard attacks on UAE National Oil Company tankers transiting the Strait; bilateral trade reached $28 bln in 2024 and Dubai has been a key re‑export hub. Sources say an Iranian delegation visited Abu Dhabi on Aug. 11 seeking to ease ties, request food and medicine access and ask the UAE not to comply with U.S. sanctions; the UAE refused. The U.S. is assembling an interagency task force to coordinate further economic pressure on Iran."
-    },
-    {
-      "id": "5074054",
-      "time": "2026-09-03 06:01:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月加息25個基點的機率為62.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為37.7%，累計加息25個基點的機率為62.3%。美聯儲到10月維持利率不變的機率為27.2%，累計加息25個基點的機率為55.5%，累計加息50個基點的機率為17.2%。"
-    },
-    {
-      "id": "mkt:01a06420-8867-7118-846f-098d9aa0c3a5",
-      "time": "2026-09-03 05:57:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【U.S. media: Saudi civil nuclear deal could allow up to 20% uranium enrichment】The Wall Street Journal reports new details of a Trump administration civil-nuclear agreement with Saudi Arabia, submitted to U.S. Congress last week, outline a roadmap under which Saudi Arabia could, after further consultations, pursue domestic uranium enrichment up to about 20%. That enrichment level could fuel small modular reactors but would raise the risk of diversion to military use. Scott Rock, a former DOE official and vice chair of the Nuclear Threat Initiative, said the level is defensible for civilian use but that reaching it would mean most of the work toward producing weapons-grade material is already done."
-    },
-    {
-      "id": "mkt:01a0641f-cf61-7118-846f-0408fb25a749",
-      "time": "2026-09-03 05:56:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios, citing sources, reported U.S. Middle East envoy Witkoff met over the weekend with the UAE national security adviser to discuss next steps on Iran."
     }
   ]
 }
