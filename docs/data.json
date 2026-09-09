@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-09 08:04:27",
-  "count": 13792,
+  "updated": "2026-09-09 08:08:17",
+  "count": 13784,
   "items": [
+    {
+      "id": "mkt:01a0837e-0617-7118-84f6-f5bbe8978f8b",
+      "time": "2026-09-09 08:07:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xi Jinping sent a congratulatory message to North Korean leader Kim Jong Un on the 78th anniversary of the country's founding."
+    },
+    {
+      "id": "mkt:01a0837c-6942-7118-84f6-e8739ca6a064",
+      "time": "2026-09-09 08:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI traded above 7,000, up 0.70% intraday."
+    },
+    {
+      "id": "5083840",
+      "time": "2026-09-09 08:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平就朝鮮國慶78週年向朝鮮最高領導人金正恩致賀電。 （新華社）"
+    },
+    {
+      "id": "5083839",
+      "time": "2026-09-09 08:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報8,951點。"
+    },
+    {
+      "id": "5083838",
+      "time": "2026-09-09 08:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建發汽車與九識智慧簽署戰略合作框架協議】9月7日，建發股份全資子公司建發汽車與九識智慧戰略合作框架協議簽約儀式在廈門舉行，雙方正式達成深度業務合作，並同步簽訂300臺無人物流車框架採購協議。"
+    },
+    {
+      "id": "5083837",
+      "time": "2026-09-09 08:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：9月8日，在南方司令部的指導下，聯合特遣部隊西半球（JTF-WHEM）部隊成功攔截了一個位於東太平洋的浮動加油站，該加油站支援海上非法毒品販執行動。情報確認該船隻與洛斯喬內羅斯暴力毒品恐怖組織有關。從船隻上移除的個人已被移交給厄瓜多當局。在清理船隻並讓船員下船後，美國部隊將其擊沉。JTF-WHEM繼續開展精準且專業的行動，以瓦解西半球毒品販運的物流網路。"
+    },
     {
       "id": "mkt:01a08379-ceb1-7118-84f6-e51478e1a501",
       "time": "2026-09-09 08:03:13",
@@ -125740,137 +125788,6 @@
         "其他"
       ],
       "text": "【查理・柯克謀殺案嫌疑人被要求接受死刑審判】猶他州一名法官於週二裁定，針對被控殺害政治評論員查理・柯克的男子的謀殺案可以繼續審理，檢方指控的罪名可對該嫌疑人適用死刑。法官表示，檢方已提供充分合理依據，支援對泰勒・羅賓遜提起加重謀殺罪指控，其涉嫌於一年前在一處大學校園戶外活動現場槍擊柯克。23歲的羅賓遜若被定罪，可能被判處死刑，其目前尚未作出答辯。猶他縣第四地區法院法官託尼・F・格拉夫作出該裁定。此前7月曾舉行為期一週的聽證會，檢方當庭出示針對羅賓遜的各項證據，其中包括監控錄影，檢方稱錄影記錄了槍擊發生當日他在猶他谷大學校園內的行動軌跡。"
-    },
-    {
-      "id": "5071885",
-      "time": "2026-09-02 08:07:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：9月均衡配置 重視機構低配品種】中信建投研報稱，展望9月，市場仍處存量博弈、結構性行情佔優的環境，配置上：建議一方面保留AI算力、有色、創新藥及部分出海製造等景氣持續驗證方向；另一方面重視機構低配品種，關注銀行、保險、證券等兼具高股息防禦屬性方向，電池、工業金屬、能源金屬、基礎化工等兼具盈利改善的方向和鋼鐵、生豬養殖等週期拐點漸進的方向。"
-    },
-    {
-      "id": "mkt:01a05f71-a21f-7118-844a-50cacaec4537",
-      "time": "2026-09-02 08:07:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she is closely monitoring conditions in the Japanese government bond market."
-    },
-    {
-      "id": "mkt:01a05f71-87c5-7118-844a-4947f060302f",
-      "time": "2026-09-02 08:07:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said he considers the overall budget request to be at a reasonable level."
-    },
-    {
-      "id": "5071884",
-      "time": "2026-09-02 08:07:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家海洋預報臺9月2日08時釋出風暴潮藍色警報：受今年第18號颱風“沙德爾”（熱帶風暴級）的影響，預計：9月2日上午至3日上午，福建寧德到廣東揭陽沿海將出現20到70釐米的風暴增水。上述岸段將不會出現達到當地藍色警戒潮位的高潮位，風暴潮預警級別為藍色。"
-    },
-    {
-      "id": "5071883",
-      "time": "2026-09-02 08:06:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行行長植田和男：貨幣條件仍然寬鬆，因此我們希望繼續加息】日本央行行長植田和男稱，貨幣政策思路沒有大變化。我們迄今已累計五次上調政策利率，因此我們需要仔細審視累計影響將對經濟產生何種作用。貨幣條件仍然寬鬆，因此我們希望繼續加息。將在考慮物價上行風險的情況下討論貨幣政策。希望在下次會議上討論經濟情景實現的可能性是否提高，以及通脹風險是否加大。"
-    },
-    {
-      "id": "mkt:01a05f70-78f9-7118-844a-40fdb37893ee",
-      "time": "2026-09-02 08:06:41",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei Index hit 65,000 points, down 2.20% intraday."
-    },
-    {
-      "id": "5071882",
-      "time": "2026-09-02 08:06:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報91.13美元/桶。"
-    },
-    {
-      "id": "5071881",
-      "time": "2026-09-02 08:06:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報95.61美元/桶。"
-    },
-    {
-      "id": "5071880",
-      "time": "2026-09-02 08:06:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌1.1%，報8,969點。"
-    },
-    {
-      "id": "mkt:01a05f6f-951d-7118-844a-3a8493d7783b",
-      "time": "2026-09-02 08:05:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she will implement appropriate debt management measures and maintain close communication with markets."
-    },
-    {
-      "id": "mkt:01a05f6f-8697-7118-844a-3519daa619de",
-      "time": "2026-09-02 08:05:39",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "UEDA, governor of the Bank of Japan, said he hopes to discuss at the next meeting whether the likelihood that the BOJ's economic scenarios will be realized has increased and whether inf risks have risen."
-    },
-    {
-      "id": "mkt:01a05f6f-1ade-7118-844a-2d9adc6956fe",
-      "time": "2026-09-02 08:05:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan Governor UEDA said monetary conditions remain accommodative and he hopes to continue raising interest rates."
-    },
-    {
-      "id": "5071879",
-      "time": "2026-09-02 08:04:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【績優超跌智慧駕駛概念股出爐】9月1日，A股智慧駕駛概念股明顯異動，其中浙江世寶、埃泰克、大明電子等漲停，伯特利、科隆新材等大幅上漲。智慧駕駛領域一直備受機構關注，8月以來，17只概念股獲得機構調研，其中水晶光電、藍思科技、德賽西威的機構調研家數均超100家，華陽集團、大華股份、豪威集團、中科創達、四維圖新的機構調研家數居前。從上半年業績來看，上半年淨利潤規模超1億元且同比增長超20%幅度的概念股有11只。結合股價表現來看，上半年業績高增長的智慧駕駛概念股中，金龍汽車、亞太股份、星網宇達、安潔科技的最新股價已較年內高點回撤超35%。"
-    },
-    {
-      "id": "5071878",
-      "time": "2026-09-02 08:04:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：G20會議上沒有人反對日本的外匯立場。"
     }
   ]
 }
