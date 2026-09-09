@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-09 22:58:30",
-  "count": 13609,
+  "updated": "2026-09-09 23:02:30",
+  "count": 13612,
   "items": [
+    {
+      "id": "mkt:01a086af-c7eb-7118-850a-c953247868b1",
+      "time": "2026-09-09 23:01:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China's domestic futures main contracts were mixed. Styrene (EB) and benzene rose over 5%; fuel oil and propylene gained over 4%; ethylene glycol (EG) climbed over 3%; polypropylene (monthly average) and asphalt advanced near 3%. On the downside, coke fell more than 2%; coking coal dropped nearly 2%; glass, rapeseed oil and palm oil declined over 1%."
+    },
+    {
+      "id": "mkt:01a086af-c6a5-7118-850a-c1fdeb0ad019",
+      "time": "2026-09-09 23:01:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK 5-year gilt yield rose to 4.7861%, its highest since September 2023, up 10 bps intraday."
+    },
+    {
+      "id": "te:markets:582466",
+      "time": "2026-09-09 23:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Rises by 0.50% — Top currency gainers are Japanese Yen (0.50%), Norwegian Krone (0.41%), Euro (0.20%) and British Pound (0.16%). Biggest losers are Brazilian Real (-0.31%) and Dollar Index (-0.14%)."
+    },
+    {
+      "id": "5085525",
+      "time": "2026-09-09 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】苯乙烯連續漲5.55%，燃料油連續漲4.70%，乙二醇連續漲3.72%，瀝青連續漲2.99%，甲醇連續漲2.70%，短纖連續漲2.65%，聚丙烯連續漲2.53%，低硫燃料油連續漲2.30%。"
+    },
+    {
+      "id": "5085524",
+      "time": "2026-09-09 22:59:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【野村稱單一大型投資者斥資逾3億美元買入AI相關看漲期權】野村證券資料顯示，一位大型投資者近日花費至少3.15億美元期權溢價，集中買入多隻人工智慧（AI）相關資產的看漲期權。該買家在9月4日和9月8日大量買入AMD、Bloom Energy、Coreweave、SK海力士、Roundhill Memory ETF、英特爾及SNDK的看漲期權。野村證券指出，這些頭寸均在靈活市場（Block Trade）中進行，例如9月4日買入2.2萬份2027年1月到期、行權價為105.01美元的英特爾看漲期權，並於9月8日追加買入1.5萬份行權價為115.01美元的同類合約。背景方面，今年7月下旬，因面臨追加保證金要求，曾被稱為“AI先知”的對沖基金Situational Awareness曾被迫拋售包括Bloom Energy和英特爾在內的部分股票持倉。"
+    },
+    {
+      "id": "mkt:01a086ae-91a8-7118-850a-b93ff39103da",
+      "time": "2026-09-09 22:59:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Loopholes in UK ban on imports from Israeli West Bank settlements】The UK will ban imports of goods produced in Israeli settlements in the occupied West Bank and create new powers to sanction individuals and firms that \"support, assist or profit from\" settlement activity. Practical enforcement gaps, however, limit near-term market impact. UK and Israel have a free trade agreement with bilateral trade of roughly £6 billion a year by 2025; official data show UK imports recorded from Palestine over the past four quarters totaled only about £6 million—equivalent to roughly 0.1% of projected UK‑Israel trade even if all were settlement goods. Origin identification is a key problem: settlement products are often incorporated into Israeli supply chains and exported as Israeli goods; one investigation found about one-sixth of Israeli fresh produce bound for Europe contains settlement-origin items. The UK requires importers seeking tariff preferences to declare code Y864 and give an origin postcode, but false declarations are difficult for customs to trace. The sanctions phraseology also leaves open questions for public contracting: an Al Jazeera review found roughly £2.1 billion of UK public-sector contracts awarded to 17 firms linked to settlements, with Motorola Solutions–related entities accounting for more than £1.7 billion, mostly via UK subsidiary Airwave Solutions. The government has not clarified whether designated firms would face contract termination or restructuring."
+    },
+    {
+      "id": "5085523",
+      "time": "2026-09-09 22:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽伯勒斯資本擬以 16 億美元出售 Tenet 股權。"
+    },
+    {
+      "id": "5085522",
+      "time": "2026-09-09 22:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團亮相服貿會：展示多項人工智慧和國際化業務進展】2026年中國國際服務貿易交易會在北京首鋼園開幕，美團集中展示新一代萬億引數大模型LongCat-2.0、AI經營工作臺CatPaw，以及“智慧掌櫃”“袋鼠管家”“小團”等多項AI應用，呈現AI技術如何走進商家經營和消費場景。目前，“智慧掌櫃”已服務全國超過130萬家餐飲商家，“小團”累計響應超過7億次使用者需求。"
+    },
+    {
+      "id": "mkt:01a086ad-0deb-7118-850a-b649ee46cbfb",
+      "time": "2026-09-09 22:58:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Key EU lawmakers on carbon reform are considering more gradual emissions-reduction measures."
+    },
     {
       "id": "5085521",
       "time": "2026-09-09 22:57:31",
@@ -124017,61 +124104,6 @@
         "觀點"
       ],
       "text": "摩根士丹利認為，如果塞內加爾以非洲金融共同體法郎計價的債務未被納入重組範圍，該國歐元債券仍將面臨\"大幅下行空間\"。"
-    },
-    {
-      "id": "mkt:01a062a3-3888-7118-8467-bbef525dd355",
-      "time": "2026-09-02 23:00:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "As of 23:00 local close, China's front-month futures were mixed. Coke and coking coal fell over 2%; caustic soda, fuel oil and low-sulfur fuel oil (LU) dropped more than 1%. Ethylene glycol (EG) gained over 3%, methanol nearly 3%, and styrene (EB) and benzene rose more than 2%."
-    },
-    {
-      "id": "te:markets:580535",
-      "time": "2026-09-02 23:00:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Increases by 1.13% — Top currency gainers are South Korean Won (1.13%), Brazilian Real (0.93%) and Japanese Yen (0.90%). Biggest losers are New Zealand Dollar (-0.80%), Dollar Index (-0.15%) and British Pound (-0.09%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "5073714",
-      "time": "2026-09-02 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】乙二醇連續漲3.30%，甲醇連續漲2.95%，苯乙烯連續漲2.40%，焦炭連續跌2.38%，焦煤連續跌2.03%。"
-    },
-    {
-      "id": "5073713",
-      "time": "2026-09-02 23:00:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國原油產量升至1386.2萬桶/日，追平歷史紀錄。"
-    },
-    {
-      "id": "mkt:01a062a1-4ac2-7118-8467-b76d98e17541",
-      "time": "2026-09-02 22:58:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Canada Senior Deputy Governor Rogers said markets are currently undergoing a repricing of risk rather than a liquidity squeeze."
-    },
-    {
-      "id": "5073712",
-      "time": "2026-09-02 22:58:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行委員羅傑斯：我們目前看到的是風險重新定價，而非流動性枯竭的情況。"
     }
   ]
 }
