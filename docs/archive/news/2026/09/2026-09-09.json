@@ -1,7 +1,101 @@
 {
   "date": "2026-09-09",
-  "count": 1247,
+  "count": 1257,
   "items": [
+    {
+      "id": "5084309",
+      "time": "2026-09-09 14:13:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.1%，報8911.40點。"
+    },
+    {
+      "id": "mkt:01a084cb-a6b6-7118-84fe-bf2ff4f343f8",
+      "time": "2026-09-09 14:12:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's drone unit commander said Ukrainian forces carried out a nighttime attack on military vessels at the Russian naval base in Novorossiysk."
+    },
+    {
+      "id": "mkt:01a084cb-89e3-7118-84fe-b74d71c1c72c",
+      "time": "2026-09-09 14:12:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Juneyao Airlines expects Q3 gross margin to improve markedly from Q2】At its 2026 interim results briefing Juneyao Airlines said Q2 gross margins were negative, driven by an unexpected spike in jet-fuel prices. The company said China domestic average jet-fuel procurement prices have retreated from this year’s peak entering Q3, and with summer peak-season demand and year-on-year higher load factor it expects Q3 gross margins to improve substantially versus Q2."
+    },
+    {
+      "id": "mkt:01a084cb-26d5-7118-84fe-ae774b50aea3",
+      "time": "2026-09-09 14:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange to launch after-hours equity trading on Sept. 14."
+    },
+    {
+      "id": "5084308",
+      "time": "2026-09-09 14:11:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星宇股份勸退應屆生處分多人續：當地確認公司有HR總監崗位】近日，深陷“批次勸退畢業生”爭議風波中的星宇股份，再被曝出“並無人力資源總監崗位披露出來，給予免職處理的俞志明或為‘背鍋俠’”。9月8日，常州國家高新技術產業開發區（新北區）人力資源和社會保障局工作人員表示，“我們調查過，星宇股份有人力資源總監崗位，俞志明是退休返聘人員，所以61歲還在職。”"
+    },
+    {
+      "id": "5084307",
+      "time": "2026-09-09 14:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝力量總司令部稱，烏克蘭昨夜襲擊了俄羅斯新羅西斯克海軍基地的軍用船隻。"
+    },
+    {
+      "id": "te:economy:582277",
+      "time": "2026-09-09 14:10:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Norway Producer Inflation Hits Near 4-Year High — Producer prices in Norway soared by 30.1% year-on-year in August 2026, accelerating from 23.4% in the previous month. It marked the highest reading since September 2022, driven by broad-based increases across major sub-indices, including extraction of oil and natural gas (52.1% vs 38.2% in July), manufacturing (7.9% vs 6.4%), electricity, gas and steam (57.9% vs 41%), and energy goods (53.2% vs 39.8%). Excluding energy goods, producer price growth edged up to 5.4% from 5.3% in July. By market, producer prices in the domestic market rose to 11.9% from 10%, while export market prices climbed to 41.4% from 31%. On a monthly basis, producer price growth eased to 4.7% in August from a four-month high of 8.9% in July."
+    },
+    {
+      "id": "5084306",
+      "time": "2026-09-09 14:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉祥航空：預計三季度毛利率將較二季度明顯改善】吉祥航空在9月9日召開的2026年半年度業績說明會上表示，公司二季度毛利率為負，主要因航油價格超預期衝高所致。進入三季度，國內航油綜合採購均價自年內高位回落，疊加暑運旺季需求釋放、客座率同比提升，公司預計三季度毛利率將較二季度明顯改善。"
+    },
+    {
+      "id": "mkt:01a084ca-4a4b-7118-84fe-a419ccb56307",
+      "time": "2026-09-09 14:10:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "DeepSeek plans to start an IPO on China’s STAR Market this year; founder Liang Wenfeng said he hopes proceeds, via employee-incentive schemes, will help startups retain talent. The company has engaged CITIC Securities to prepare the domestic listing."
+    },
+    {
+      "id": "5084305",
+      "time": "2026-09-09 14:10:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：人工智慧板塊淨流出超139億】截至目前，今日主力資金淨流出145.13億；淨流入5G、CPO概念、海上風電等板塊，其中5G板塊淨流入102.99億；淨流出人工智慧、轉融券標的、融資融券等板塊，其中人工智慧板塊淨流出139.20億。\n  \n個股方面，華工科技淨買入21.25億元位居首位，亨通光電、中天科技、長飛光纖主力資金淨流入居前；長鑫科技淨賣出14.70億元位居首位，興森科技、兆易創新、夏農芯創淨流出額居前。"
+    },
     {
       "id": "5084304",
       "time": "2026-09-09 14:09:54",

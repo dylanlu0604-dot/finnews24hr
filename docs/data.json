@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-09 14:10:36",
+  "updated": "2026-09-09 14:14:31",
   "count": 13644,
   "items": [
+    {
+      "id": "5084309",
+      "time": "2026-09-09 14:13:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.1%，報8911.40點。"
+    },
+    {
+      "id": "mkt:01a084cb-a6b6-7118-84fe-bf2ff4f343f8",
+      "time": "2026-09-09 14:12:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's drone unit commander said Ukrainian forces carried out a nighttime attack on military vessels at the Russian naval base in Novorossiysk."
+    },
+    {
+      "id": "mkt:01a084cb-89e3-7118-84fe-b74d71c1c72c",
+      "time": "2026-09-09 14:12:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Juneyao Airlines expects Q3 gross margin to improve markedly from Q2】At its 2026 interim results briefing Juneyao Airlines said Q2 gross margins were negative, driven by an unexpected spike in jet-fuel prices. The company said China domestic average jet-fuel procurement prices have retreated from this year’s peak entering Q3, and with summer peak-season demand and year-on-year higher load factor it expects Q3 gross margins to improve substantially versus Q2."
+    },
+    {
+      "id": "mkt:01a084cb-26d5-7118-84fe-ae774b50aea3",
+      "time": "2026-09-09 14:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange to launch after-hours equity trading on Sept. 14."
+    },
+    {
+      "id": "5084308",
+      "time": "2026-09-09 14:11:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星宇股份勸退應屆生處分多人續：當地確認公司有HR總監崗位】近日，深陷“批次勸退畢業生”爭議風波中的星宇股份，再被曝出“並無人力資源總監崗位披露出來，給予免職處理的俞志明或為‘背鍋俠’”。9月8日，常州國家高新技術產業開發區（新北區）人力資源和社會保障局工作人員表示，“我們調查過，星宇股份有人力資源總監崗位，俞志明是退休返聘人員，所以61歲還在職。”"
+    },
+    {
+      "id": "5084307",
+      "time": "2026-09-09 14:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝力量總司令部稱，烏克蘭昨夜襲擊了俄羅斯新羅西斯克海軍基地的軍用船隻。"
+    },
+    {
+      "id": "te:economy:582277",
+      "time": "2026-09-09 14:10:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Norway Producer Inflation Hits Near 4-Year High — Producer prices in Norway soared by 30.1% year-on-year in August 2026, accelerating from 23.4% in the previous month. It marked the highest reading since September 2022, driven by broad-based increases across major sub-indices, including extraction of oil and natural gas (52.1% vs 38.2% in July), manufacturing (7.9% vs 6.4%), electricity, gas and steam (57.9% vs 41%), and energy goods (53.2% vs 39.8%). Excluding energy goods, producer price growth edged up to 5.4% from 5.3% in July. By market, producer prices in the domestic market rose to 11.9% from 10%, while export market prices climbed to 41.4% from 31%. On a monthly basis, producer price growth eased to 4.7% in August from a four-month high of 8.9% in July."
+    },
+    {
+      "id": "5084306",
+      "time": "2026-09-09 14:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉祥航空：預計三季度毛利率將較二季度明顯改善】吉祥航空在9月9日召開的2026年半年度業績說明會上表示，公司二季度毛利率為負，主要因航油價格超預期衝高所致。進入三季度，國內航油綜合採購均價自年內高位回落，疊加暑運旺季需求釋放、客座率同比提升，公司預計三季度毛利率將較二季度明顯改善。"
+    },
+    {
+      "id": "mkt:01a084ca-4a4b-7118-84fe-a419ccb56307",
+      "time": "2026-09-09 14:10:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "DeepSeek plans to start an IPO on China’s STAR Market this year; founder Liang Wenfeng said he hopes proceeds, via employee-incentive schemes, will help startups retain talent. The company has engaged CITIC Securities to prepare the domestic listing."
+    },
+    {
+      "id": "5084305",
+      "time": "2026-09-09 14:10:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：人工智慧板塊淨流出超139億】截至目前，今日主力資金淨流出145.13億；淨流入5G、CPO概念、海上風電等板塊，其中5G板塊淨流入102.99億；淨流出人工智慧、轉融券標的、融資融券等板塊，其中人工智慧板塊淨流出139.20億。\n  \n個股方面，華工科技淨買入21.25億元位居首位，亨通光電、中天科技、長飛光纖主力資金淨流入居前；長鑫科技淨賣出14.70億元位居首位，興森科技、兆易創新、夏農芯創淨流出額居前。"
+    },
     {
       "id": "5084304",
       "time": "2026-09-09 14:09:54",
@@ -124369,95 +124463,6 @@
         "Impact bearish"
       ],
       "text": "【Nagel: ECB to raise rates next week; cautious on further moves】ECB Governing Council member and Bundesbank president Joachim Nagel said the ECB will raise rates next week but remains cautious about subsequent hikes. In a Wednesday interview he said markets currently assign a better-than-95% probability to a rate increase at the September meeting and that market pricing is broadly accurate. He declined to provide guidance beyond the September meeting, citing volatile oil and gas prices, turbulent financial markets and high uncertainty. Inflation remains far above the medium-term target; June projections show inflation would only return to 2% in the medium term if rates are higher."
-    },
-    {
-      "id": "5072439",
-      "time": "2026-09-02 14:14:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "習近平致電祝賀挪威國王哈康八世即位。（新華社）"
-    },
-    {
-      "id": "te:economy:580332",
-      "time": "2026-09-02 14:13:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Norway Current Account Surplus Largest in Over 3 Years — Norway’s current account recorded a surplus of NOK 279 billion in the second quarter of 2026, marking the largest surplus since the first quarter of 2023 and widening from NOK 185 billion in the corresponding period of the previous year. The increase was largely driven by a bigger surplus in the goods account, which expanded to NOK 242.5 billion from NOK 149 billion, while the services account deficit narrowed to NOK 10.3 billion from NOK 17.7 billion. At the same time, the shortfall in current transfers (secondary income) declined to NOK 12.5 billion from NOK 20.4 billion. On the other hand, surplus in the compensation of employees and investment income (primary income) decreased to NOK 59.3 billion from NOK 74.1 billion a year ago."
-    },
-    {
-      "id": "5072438",
-      "time": "2026-09-02 14:13:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌1%，報8978.40點。"
-    },
-    {
-      "id": "5072437",
-      "time": "2026-09-02 14:12:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰訊WorkBuddy宣佈開放平臺上線】9月2日下午訊息，騰訊WorkBuddy宣佈開放平臺（open.WorkBuddy.cn）正式上線，首批引入超百家生態夥伴，面向智慧硬體、行業應用與開發者等開放底層Agent能力。釋出會現場，騰訊雲副總裁、騰訊CodeBuddy & WorkBuddy負責人劉毅表示，“真正的生產力從來不取決於一個工具有多強，而取決於它能連線多少能力、走進多少場景。我們希望把WorkBuddy打造成面向Agent時代的作業系統，不是做一個更強的工具，而是做一個能承載所有工具的平臺。”（新浪科技）"
-    },
-    {
-      "id": "5072436",
-      "time": "2026-09-02 14:12:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【繞開霍爾木茲海峽 卡達、阿聯酋LNG貨物轉向船對船轉運】船舶追蹤機構Vortexa和Kpler的資料顯示，近幾周，3批分別在卡達和阿聯酋裝載的液化天然氣（LNG）貨物在霍爾木茲海峽以外透過船對船（STS）方式完成轉運，隨後分別運往印度和日本。其中，希臘航運公司GasLog控制的LNG運輸船於8月底在阿曼近海與“GasLog Savannah”號完成船對船轉運。第二批貨物涉及由卡達能源公司控制的“Al Rekayyat”號LNG運輸船。該船於7月初在霍爾木茲海峽附近遭到拋射物襲擊，並於8月中旬在阿聯酋東海岸與另一艘卡達LNG運輸船“Tembek”號完成船對船轉運。Kpler資料顯示，這批最初在拉斯拉凡裝載的LNG貨物隨後由“Tembek”號運往印度達赫吉碼頭，並於8月31日抵達。第三批貨物來自阿聯酋。由阿布扎比國家石油公司（ADNOC）控制的“Mraweh”號LNG運輸船於8月初從達斯島裝載LNG，隨後於8月中旬在阿曼近海、霍爾木茲海峽以外海域與“LNG Enugu”號完成船對船轉運。"
-    },
-    {
-      "id": "mkt:01a060bf-2e17-7118-8453-e49e22fa6603",
-      "time": "2026-09-02 14:12:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait fire department said a residential area in the capital caught fire after being struck by an Iranian drone; the blaze has been brought under control."
-    },
-    {
-      "id": "5072435",
-      "time": "2026-09-02 14:11:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一輛汽車在伊朗東北部城市馬什哈德衝入一場支援伊朗政府和武裝部隊的集會，造成4人死亡，10人受傷。目前尚無跡象表明這起事件具有政治動機，當局將其定性為交通事故。"
-    },
-    {
-      "id": "5072434",
-      "time": "2026-09-02 14:11:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2198億元。"
-    },
-    {
-      "id": "te:markets:580331",
-      "time": "2026-09-02 14:11:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "UK Gas Hits 3-1/2-year High — UK Gas increased to 180.11 GBp/thm, the highest since January 2023. Over the past 4 weeks, Natural Gas UK gained 27.34%, and in the last 12 months, it increased 130.19%."
-    },
-    {
-      "id": "5072433",
-      "time": "2026-09-02 14:10:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【ICE在紐約州大肆抓捕移民遭質疑】美國國土安全部長馬克韋恩·馬林9月1日宣佈，其下屬的聯邦移民與海關執法局(ICE)在紐約州實施了為期約一個月的執法行動，已逮捕2197人。這一被捕人數與過往數月相比明顯上升。雖然國土安全部宣稱本次“爛蘋果行動”重點打擊重罪犯，但主政紐約州的民主黨人對此提出質疑。（新華社）"
     }
   ]
 }
