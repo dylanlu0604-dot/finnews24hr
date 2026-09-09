@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-09 09:24:16",
-  "count": 13731,
+  "updated": "2026-09-09 09:28:14",
+  "count": 13728,
   "items": [
+    {
+      "id": "mkt:01a083c7-2738-7118-84f8-32a35da30031",
+      "time": "2026-09-09 09:27:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong: HSI opened Sep 9 up 10.95 pts (+0.04%) at 25,328.13; Hang Seng TECH opened up 4.42 pts (+0.10%) at 4,459.27; HSCEI (H-share index) opened down 2.23 pts (-0.03%) at 8,395.09; Hang Seng Red Chip Index opened up 7.32 pts (+0.17%) at 4,244.66."
+    },
+    {
+      "id": "mkt:01a083c6-d635-7118-84f8-2f8ea7ad14a4",
+      "time": "2026-09-09 09:27:21",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) said evidence indicates the pilots considered aborting the landing in the Boeing (BA.N) 767 crash in Miami."
+    },
+    {
+      "id": "5083957",
+      "time": "2026-09-09 09:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，證據顯示，在邁阿密發生的波音767墜機事故中，飛行員曾考慮過中止著陸。"
+    },
+    {
+      "id": "5083956",
+      "time": "2026-09-09 09:26:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【嬰童概念大幅高開 悅心健康、愛嬰室一字漲停】早盤嬰童概念大幅高開，悅心健康、愛嬰室一字漲停，澳洋健康、孩子王、貝因美、倍加潔、金髮拉比等跟漲。"
+    },
+    {
+      "id": "5083955",
+      "time": "2026-09-09 09:25:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【百邁科上市首日開盤大漲超92%】百邁科上市首日開盤漲92.16%，現報32.86元，該股發行價為17.1元。"
+    },
+    {
+      "id": "5083954",
+      "time": "2026-09-09 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲0.34%。"
+    },
+    {
+      "id": "mkt:01a083c5-1d1a-7118-84f8-25fc0582507f",
+      "time": "2026-09-09 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened higher: Shanghai Composite +0.09%, Shenzhen Composite +0.63%, ChiNext +1.15%. Newly listed stock N Luozhou jumped more than 70% at the open."
+    },
+    {
+      "id": "5083953",
+      "time": "2026-09-09 09:25:20",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.09％，深成指漲0.63％，創業板漲1.15％。"
+    },
+    {
+      "id": "mkt:01a083c4-5673-7118-84f8-189cd09162ec",
+      "time": "2026-09-09 09:24:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "7203.T",
+        "Impact bearish",
+        "7201.T",
+        "7267.T"
+      ],
+      "text": "【Japan's big three post double-digit YoY drops in August China sales】As of Sept 9, Toyota, Nissan and Honda reported August China new-vehicle sales, all down double-digit YoY. Toyota sold 118,400 units in August, down 22.8% YoY and the seventh consecutive month below year-ago levels. Nissan sold 28,275 units, down 51.9% YoY and near-halved; this is Nissan's fifth straight month of YoY decline. Honda sold 26,749 units, down 49.9% YoY and near-halved; Honda has been below year-ago levels for 31 consecutive months. Analysts say intensifying price competition among Chinese EV makers is shifting demand toward lower-priced EVs and away from Japanese automakers' internal-combustion models."
+    },
+    {
+      "id": "mkt:01a083c4-4d6e-7118-84f8-10372269a523",
+      "time": "2026-09-09 09:24:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Liquidity gauge: market rates rebound toward policy rate】Early Sept. 9, DR007 rebounded to 1.3900%, closing in on the 1.4% policy rate. The PBOC conducted no reverse repos today, recording zero injections and zero withdrawals. DR007 is a short-term money-market rate that reflects funding conditions; the spread versus the PBOC 7-day reverse repo (policy rate) signals market tightness—a sizable DR007 premium over the policy rate may indicate cash scarcity and prompt PBOC liquidity action, while a lower DR007 implies ample funding."
+    },
+    {
+      "id": "5083952",
+      "time": "2026-09-09 09:24:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代等在廈門成立創投基金，出資額50億元】企查查APP顯示，近日，廈門時代怡遠創業投資基金合夥企業（有限合夥）成立，出資額約50億元，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動。企查查股權穿透顯示，該企業由寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司等共同出資。"
+    },
+    {
+      "id": "5083951",
+      "time": "2026-09-09 09:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信重工在山西成立特種材料科技公司】企查查APP顯示，近日，中信重工（山西）特種材料科技有限公司成立，經營範圍包含：黑色金屬鑄造；有色金屬鑄造；模具製造；金屬製品銷售；模具銷售等。企查查股權穿透顯示，該公司由中信重工全資持股。"
+    },
     {
       "id": "5083950",
       "time": "2026-09-09 09:23:32",
@@ -125102,159 +125219,6 @@
         "其他"
       ],
       "text": "騰訊音樂計劃發行美元債券，所得資金將用於債務再融資及回購股票。"
-    },
-    {
-      "id": "mkt:01a05fba-e2eb-7118-844c-7de0a1d727a7",
-      "time": "2026-09-02 09:27:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "Sept 2 open: China's Shanghai Composite Index opened down 16.82 pts, -0.42 pct, at 3,963.07; Shenzhen Composite Index opened down 140.20 pts, -1.01 pct, at 13,732.18; CSI 300 Index opened down 29.93 pts, -0.65 pct, at 4,581.51; ChiNext Index opened down 45.76 pts, -1.35 pct, at 3,347.68; STAR 50 Index opened down 24.00 pts, -1.46 pct, at 1,623.53."
-    },
-    {
-      "id": "5072024",
-      "time": "2026-09-02 09:27:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "華昌化工復牌漲停，公司控股股東將變更為蘇州宣力。"
-    },
-    {
-      "id": "mkt:01a05fba-6b8a-7118-844c-777cbe79af26",
-      "time": "2026-09-02 09:27:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huachang Chemical resumed trading and hit the daily limit; its controlling shareholder will change to Suzhou Xuanli."
-    },
-    {
-      "id": "mkt:01a05fba-1120-7118-844c-6a1bb98c25f5",
-      "time": "2026-09-02 09:27:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Newly listed N Gelin opened 124% higher. Company filings show it focuses on R&D, production and sales of flavors and fragrances."
-    },
-    {
-      "id": "mkt:01a05fb9-f42f-7118-844c-61371c1f64ee",
-      "time": "2026-09-02 09:26:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "A-share oilfield services & engineering sector opened higher; Keli Co. jumped more than 14%, Tongyuan Petroleum rose over 5%, with Huibopu, Beiken Energy, Zhongman Petroleum, Qianneng Hengxin and Haiyou Engineering also advancing. US CENTCOM said it successfully carried out a wave of strikes against Iranian military targets on Sept. 1."
-    },
-    {
-      "id": "5072023",
-      "time": "2026-09-02 09:26:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "油氣股開盤領漲，科力股份漲近15%，通源石油、中曼石油、惠博普、貝肯能源、潛能恆信等紛紛高開。"
-    },
-    {
-      "id": "5072022",
-      "time": "2026-09-02 09:26:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普否認試圖逼迫伊朗重返談判桌】當地時間9月1日，美國總統特朗普表示，他並未像美國媒體所報道的那樣，試圖逼迫伊朗重返談判桌，並稱自己並不在意伊朗是否簽署一份“毫無價值的協議”。特朗普表示，他更滿意美國目前所處的局面，並宣稱美方已經“幾乎完全控制”霍爾木茲海峽——這與他此前“完全控制霍爾木茲海峽”的說法略有不同，而伊朗經濟正在“徹底崩潰”。特朗普稱，伊朗只是在拖延“不可避免的結局”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a05fb9-7f0a-7118-844c-5ee2985dfc15",
-      "time": "2026-09-02 09:26:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Institutions expect RBNZ to hike 25bps in Sept; year‑end OCR seen near 3% or higher】Major banks and a Reuters survey expect the RBNZ to raise the OCR by 25bps in September. ASB projects a peak OCR around 3.3%; Westpac sees the OCR at about 3% by year‑end with a peak near 3.3%. CITIGROUP expects a 25bp move and says the RBNZ would still need three further hikes to return the OCR to neutral. A Reuters survey likewise forecasts 25bps in September, with over two‑thirds of respondents anticipating at least one more hike and year‑end OCR of 3% or higher. ANZ expects 25bps in September and likely another hike in October, saying the November election is unlikely to prevent a return to neutral. BNZ forecasts 25bps in September followed by 25bp increases at each meeting through May 2027, taking the OCR to a 4% peak. ING notes its May economic forecasts implied a year‑end OCR of about 3% and a flat path next year. Brown Brothers Harriman supports a 25bp move and flags scope for further tightening given inflation remaining above target and stronger domestic growth."
-    },
-    {
-      "id": "5072021",
-      "time": "2026-09-02 09:25:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌6%，現報302.00元。"
-    },
-    {
-      "id": "mkt:01a05fb9-106b-7118-844c-51560f2a9fd5",
-      "time": "2026-09-02 09:25:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China A-share market opened lower: Shanghai Composite down 0.42% at the open, Shenzhen Composite down 1.01% and ChiNext down 1.35%. Leading gainers were oilfield services and engineering, grain, coal and gas sectors."
-    },
-    {
-      "id": "5072020",
-      "time": "2026-09-02 09:25:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【格林生物上市首日開盤大漲超124%】格林生物上市首日開盤漲124.08%，現報59元，該股發行價為26.33元。按開盤價計算，投資者中一簽（500股）浮盈約1.63萬元。"
-    },
-    {
-      "id": "5072019",
-      "time": "2026-09-02 09:25:12",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.42％，深成指跌1.01％，創業板跌1.35％。"
-    },
-    {
-      "id": "mkt:01a05fb8-1f03-7118-844c-4971a93b3291",
-      "time": "2026-09-02 09:24:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Coke options begin trading on Dalian Commodity Exchange】Today the Dalian Commodity Exchange launched trading in coke options. Coke, a core feedstock for steel smelting and the coal-chemical sector, will now be hedged alongside existing coke futures, coking-coal futures and options, and iron-ore futures and options, creating a more comprehensive risk-management toolkit for steel raw materials and better meeting industry demand for refined, portfolio-style price hedging."
-    },
-    {
-      "id": "mkt:01a05fb7-e7f9-7118-844c-4771ddb2e47d",
-      "time": "2026-09-02 09:24:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "01787.HK",
-        "Impact bearish",
-        "03330.HK",
-        "02259.HK"
-      ],
-      "text": "Hong Kong-listed gold miners opened lower: Shandong Gold (01787.HK), Lingbao Gold (03330.HK) and Zijin Gold International (02259.HK) fell more than 4%; Tongguan Gold (00340.HK), Zhaojin Mining (01818.HK), Zijin Mining (02899.HK) and Chifeng Gold (06693.HK) also declined."
-    },
-    {
-      "id": "5072018",
-      "time": "2026-09-02 09:24:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【焦炭期權今天正式上市交易】今天（2日），焦炭期權正式在大連商品交易所上市交易。焦炭是鋼鐵冶煉、煤化工產業不可或缺的核心基礎原料。焦炭期權上市後，將與焦炭期貨、焦煤期貨及期權、鐵礦石期貨及期權形成工具協同，構建更全面覆蓋鋼鐵原燃料的風險管理工具體系，更好滿足產業鏈企業精細化、組合式的價格避險需求。"
     }
   ]
 }

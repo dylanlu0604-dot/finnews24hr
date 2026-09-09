@@ -1,7 +1,124 @@
 {
   "date": "2026-09-09",
-  "count": 717,
+  "count": 729,
   "items": [
+    {
+      "id": "mkt:01a083c7-2738-7118-84f8-32a35da30031",
+      "time": "2026-09-09 09:27:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong: HSI opened Sep 9 up 10.95 pts (+0.04%) at 25,328.13; Hang Seng TECH opened up 4.42 pts (+0.10%) at 4,459.27; HSCEI (H-share index) opened down 2.23 pts (-0.03%) at 8,395.09; Hang Seng Red Chip Index opened up 7.32 pts (+0.17%) at 4,244.66."
+    },
+    {
+      "id": "mkt:01a083c6-d635-7118-84f8-2f8ea7ad14a4",
+      "time": "2026-09-09 09:27:21",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) said evidence indicates the pilots considered aborting the landing in the Boeing (BA.N) 767 crash in Miami."
+    },
+    {
+      "id": "5083957",
+      "time": "2026-09-09 09:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，證據顯示，在邁阿密發生的波音767墜機事故中，飛行員曾考慮過中止著陸。"
+    },
+    {
+      "id": "5083956",
+      "time": "2026-09-09 09:26:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【嬰童概念大幅高開 悅心健康、愛嬰室一字漲停】早盤嬰童概念大幅高開，悅心健康、愛嬰室一字漲停，澳洋健康、孩子王、貝因美、倍加潔、金髮拉比等跟漲。"
+    },
+    {
+      "id": "5083955",
+      "time": "2026-09-09 09:25:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【百邁科上市首日開盤大漲超92%】百邁科上市首日開盤漲92.16%，現報32.86元，該股發行價為17.1元。"
+    },
+    {
+      "id": "5083954",
+      "time": "2026-09-09 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲0.34%。"
+    },
+    {
+      "id": "mkt:01a083c5-1d1a-7118-84f8-25fc0582507f",
+      "time": "2026-09-09 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened higher: Shanghai Composite +0.09%, Shenzhen Composite +0.63%, ChiNext +1.15%. Newly listed stock N Luozhou jumped more than 70% at the open."
+    },
+    {
+      "id": "5083953",
+      "time": "2026-09-09 09:25:20",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.09％，深成指漲0.63％，創業板漲1.15％。"
+    },
+    {
+      "id": "mkt:01a083c4-5673-7118-84f8-189cd09162ec",
+      "time": "2026-09-09 09:24:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "7203.T",
+        "Impact bearish",
+        "7201.T",
+        "7267.T"
+      ],
+      "text": "【Japan's big three post double-digit YoY drops in August China sales】As of Sept 9, Toyota, Nissan and Honda reported August China new-vehicle sales, all down double-digit YoY. Toyota sold 118,400 units in August, down 22.8% YoY and the seventh consecutive month below year-ago levels. Nissan sold 28,275 units, down 51.9% YoY and near-halved; this is Nissan's fifth straight month of YoY decline. Honda sold 26,749 units, down 49.9% YoY and near-halved; Honda has been below year-ago levels for 31 consecutive months. Analysts say intensifying price competition among Chinese EV makers is shifting demand toward lower-priced EVs and away from Japanese automakers' internal-combustion models."
+    },
+    {
+      "id": "mkt:01a083c4-4d6e-7118-84f8-10372269a523",
+      "time": "2026-09-09 09:24:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Liquidity gauge: market rates rebound toward policy rate】Early Sept. 9, DR007 rebounded to 1.3900%, closing in on the 1.4% policy rate. The PBOC conducted no reverse repos today, recording zero injections and zero withdrawals. DR007 is a short-term money-market rate that reflects funding conditions; the spread versus the PBOC 7-day reverse repo (policy rate) signals market tightness—a sizable DR007 premium over the policy rate may indicate cash scarcity and prompt PBOC liquidity action, while a lower DR007 implies ample funding."
+    },
+    {
+      "id": "5083952",
+      "time": "2026-09-09 09:24:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代等在廈門成立創投基金，出資額50億元】企查查APP顯示，近日，廈門時代怡遠創業投資基金合夥企業（有限合夥）成立，出資額約50億元，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動。企查查股權穿透顯示，該企業由寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司等共同出資。"
+    },
+    {
+      "id": "5083951",
+      "time": "2026-09-09 09:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信重工在山西成立特種材料科技公司】企查查APP顯示，近日，中信重工（山西）特種材料科技有限公司成立，經營範圍包含：黑色金屬鑄造；有色金屬鑄造；模具製造；金屬製品銷售；模具銷售等。企查查股權穿透顯示，該公司由中信重工全資持股。"
+    },
     {
       "id": "5083950",
       "time": "2026-09-09 09:23:32",
