@@ -1,7 +1,150 @@
 {
-  "updated": "2026-09-10 02:31:53",
-  "count": 13552,
+  "updated": "2026-09-10 02:35:49",
+  "count": 13559,
   "items": [
+    {
+      "id": "mkt:01a08773-3254-7118-850f-c03375307635",
+      "time": "2026-09-10 02:34:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said he may negotiate with Iran."
+    },
+    {
+      "id": "5085685",
+      "time": "2026-09-10 02:34:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我們無意達成協議。"
+    },
+    {
+      "id": "mkt:01a08772-eb4a-7118-850f-b8b40dc4331e",
+      "time": "2026-09-10 02:34:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Trump says the United States is not seeking to reach an agreement."
+    },
+    {
+      "id": "5085684",
+      "time": "2026-09-10 02:34:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：談判有可能進行。"
+    },
+    {
+      "id": "mkt:01a08772-95ba-7118-850f-b4af6a604aff",
+      "time": "2026-09-10 02:33:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said his actions extend far beyond the nuclear deal."
+    },
+    {
+      "id": "5085683",
+      "time": "2026-09-10 02:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我所做的遠不止一份核協議。"
+    },
+    {
+      "id": "mkt:01a08771-eb50-7118-850f-ad0b20918627",
+      "time": "2026-09-10 02:33:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "TRUMP says the Iran conflict will end immediately once the midterm elections conclude."
+    },
+    {
+      "id": "5085682",
+      "time": "2026-09-10 02:32:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：中期選舉後伊朗戰爭將立刻終止。"
+    },
+    {
+      "id": "mkt:01a08771-ad41-7118-850f-a1a091abe294",
+      "time": "2026-09-10 02:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, speaking on Iran, said he will consult with Israel on sanctions targeting West Bank settlements."
+    },
+    {
+      "id": "5085681",
+      "time": "2026-09-10 02:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與以色列商討針對約旦河西岸定居點實施的制裁事宜。"
+    },
+    {
+      "id": "5085680",
+      "time": "2026-09-10 02:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特：房利美與房地美髮行的所有抵押貸款支援證券、全部信用風險轉移產品以及各類證券化產品，除 FICO 評分外，今後還將附帶 VantageScore 評分。"
+    },
+    {
+      "id": "mkt:01a08770-92f4-7118-850f-9d1527562983",
+      "time": "2026-09-10 02:31:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.73% at 954.09 yuan/gram in Wednesday late trade; silver T+D rose 2.59% to 16,520.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a08770-91c2-7118-850f-951a4e6cb31b",
+      "time": "2026-09-10 02:31:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 0.62% to 956 yuan/gram; Shanghai silver main contract rose 2.40% to 16,529 yuan/kg; SC crude oil main contract rose 7.00% to 773 yuan/barrel."
+    },
+    {
+      "id": "5085679",
+      "time": "2026-09-10 02:31:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報96.05美元/桶。NYMEX 10月天然氣期貨收報2.8220美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.2106美元/加侖，NYMEX 10月取暖油期貨收報4.8010美元/加侖。"
+    },
     {
       "id": "mkt:01a08770-5981-7118-850f-8c4548e60ce6",
       "time": "2026-09-10 02:31:22",
@@ -123685,66 +123828,6 @@
         "國際"
       ],
       "text": "特朗普：大選前三十天內將開展多場競選造勢活動。"
-    },
-    {
-      "id": "mkt:01a06367-500f-7118-846b-e02400c26413",
-      "time": "2026-09-03 02:35:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Persian Gulf Strait Management Authority said it has completed updating the \"Non-Compliant Vessel (NCV) list\" on its website."
-    },
-    {
-      "id": "5073926",
-      "time": "2026-09-03 02:34:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西稅務上訴法院推翻對巴西石油公司34億雷亞爾的罰款。"
-    },
-    {
-      "id": "mkt:01a06366-5782-7118-846b-dbb8e9ec48b0",
-      "time": "2026-09-03 02:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Global Mail cites sources saying Ukrainian President Zelenskiy plans to visit Canada next week, but the trip is not yet finalized."
-    },
-    {
-      "id": "te:markets:580576",
-      "time": "2026-09-03 02:34:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Hits Three-Week High — The Brazilian real strengthened to around 5.10 per USD in September, reaching a three-week high following the release of the Genial/Quaest poll on the 2026 presidential election. The poll showed President Lula and Senator Senator Flávio Bolsonaro in a technical tie in a potential October runoff, with Lula receiving 42% of voting intentions versus 41% for Bolsonaro. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. On the other hand, industrial production rose 0.2% month-on-month in July, rebounding after two consecutive monthly declines."
-    },
-    {
-      "id": "5073925",
-      "time": "2026-09-03 02:33:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基計劃於下週訪問加拿大，但此次行程尚未最終確定。"
-    },
-    {
-      "id": "mkt:01a06364-f31e-7118-846b-d640c2406b03",
-      "time": "2026-09-03 02:32:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump on Venezuela: I do not think they are ready to hold elections yet."
-    },
-    {
-      "id": "5073924",
-      "time": "2026-09-03 02:32:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及委內瑞拉局勢：我認為該國目前還未做好舉行選舉的準備。"
     }
   ]
 }
