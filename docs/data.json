@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-09 19:09:38",
-  "count": 13881,
+  "updated": "2026-09-09 19:13:26",
+  "count": 13872,
   "items": [
+    {
+      "id": "5085067",
+      "time": "2026-09-09 19:12:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿為特：擬出資3000萬元設立全資子公司】阿為特9月9日公告，公司擬以自有資金在上海市寶山區設立全資子公司，註冊資本為3,000萬元人民幣。子公司的名稱、註冊地址、經營範圍等相關資訊以市場監督管理部門最終核定為準。"
+    },
+    {
+      "id": "5085066",
+      "time": "2026-09-09 19:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆表示，尊重福克蘭群島居民選擇作為英國屬地的權利。"
+    },
+    {
+      "id": "5085065",
+      "time": "2026-09-09 19:12:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中泰證券：擬以1億元（含）-2億元（含）回購公司股份】中泰證券公告，擬使用自有資金以集中競價交易方式回購公司股份，回購金額為1億元（含）-2億元（含），價格不超過8.4元/股（含），回購股份將全部用於登出並減少公司註冊資本，期限為股東會審議透過回購方案之日起12個月內。"
+    },
+    {
+      "id": "5085064",
+      "time": "2026-09-09 19:12:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST龍大：控股股東0.55%股份將被司法拍賣】ST龍大公告稱，公司收到成都鐵路運輸中級法院相關文書，控股股東藍潤髮展持有的752.85萬股公司股份將被司法拍賣，佔藍潤髮展所持股份比例為4.21%，佔公司總股本比例為0.55%，拍賣時間為2026年10月15日10時至10月16日10時（延時除外），拍賣平臺為淘寶網。若本次拍賣股份全部成交併完成過戶，藍潤髮展持股比例將由13.13%降至12.57%，仍為公司第一大股東，不會導致公司實際控制權變更。本次司法拍賣結果尚存在不確定性，公司目前經營情況正常。"
+    },
+    {
+      "id": "mkt:01a085dd-be53-7118-8506-6badbb60657d",
+      "time": "2026-09-09 19:11:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Satellite imagery shows large-scale construction on Machkush Mountain near Iran's Natanz nuclear facility; CSIS analysts say the underground works are \"very likely\" intended to provide secure shelter for Iran's nuclear program."
+    },
+    {
+      "id": "5085063",
+      "time": "2026-09-09 19:11:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人表示，如果敵方打擊我方2個目標，我們將打擊對方20個目標。"
+    },
+    {
+      "id": "mkt:01a085dc-f4cd-7118-8506-62d3978bf54a",
+      "time": "2026-09-09 19:10:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Israel launched strikes in southern Lebanon; shelling and air strikes reported across multiple areas."
+    },
+    {
+      "id": "5085062",
+      "time": "2026-09-09 19:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "納坦茲核設施附近的馬什庫什山區域新衛星影象顯示當地正在開展大規模建設活動。戰略與國際研究中心分析師稱，該地下設施“大機率”是為伊朗核專案打造的一處安全庇護場所。"
+    },
+    {
+      "id": "mkt:01a085dc-c130-7118-8506-5f46828e98d7",
+      "time": "2026-09-09 19:10:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps spokesman said that if an enemy attacks two of its targets, the IRGC will retaliate against 20 targets."
+    },
+    {
+      "id": "5085061",
+      "time": "2026-09-09 19:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相表示，將對北海油氣採取務實方針。"
+    },
     {
       "id": "5085060",
       "time": "2026-09-09 19:08:18",
@@ -126471,190 +126562,6 @@
         "國際"
       ],
       "text": "美國地質調查局：南桑威奇群島地區發生5.2級地震。"
-    },
-    {
-      "id": "mkt:01a061d2-d66c-7118-845d-367bc82187bf",
-      "time": "2026-09-02 19:13:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK Prime Minister Burnham said the budget date was brought forward to shorten the window for speculation."
-    },
-    {
-      "id": "5073196",
-      "time": "2026-09-02 19:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆： 我們提前確定預算公佈日期，以縮短市場猜測週期。"
-    },
-    {
-      "id": "mkt:01a061d2-b39c-7118-845d-2d8fd2cf23af",
-      "time": "2026-09-02 19:13:13",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK Prime Minister Burnham said market turbulence stems from the Conservative government's record of steadily increasing debt."
-    },
-    {
-      "id": "mkt:01a061d1-b1f1-7118-845d-257846814ace",
-      "time": "2026-09-02 19:12:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On Sept. 2 local time, Ukrainian President Zelenskiy signed a decree appointing Sviatoslav Tsaits as commander of the Ukrainian Ground Forces."
-    },
-    {
-      "id": "5073195",
-      "time": "2026-09-02 19:11:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：市場動盪源於保守黨不斷舉債的執政記錄。"
-    },
-    {
-      "id": "mkt:01a061d1-6477-7118-845d-1d5df6f1bcc1",
-      "time": "2026-09-02 19:11:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【PBOC publishes Q2 2026 payment system operating data】The PBOC released Q2 2026 payment-system data. As of end-Q2 China had 115.66 bln bank accounts; 125.0 mln corporate accounts (86.80 mln basic deposit accounts) and 15.53 bln personal accounts. In Q2 banks processed 2.1684 tln non-cash transactions worth 1,698.40 tln yuan. Bills activity totaled 26.82 mln transactions, value 22.22 tln yuan — checks 8.91 mln, 10.32 tln yuan; commercial-paper actual settlements 17.87 mln, 11.86 tln yuan. Shanghai Bills Exchange e-commercial draft system recorded 3.84 mln acceptances worth 12.96 tln yuan and 6.07 mln discounts worth 10.95 tln yuan."
-    },
-    {
-      "id": "5073194",
-      "time": "2026-09-02 19:11:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾華集團：高效口服BTK抑制劑瑞米布替尼在III期RMS臨床試驗中顯著降低複發率 安全性表現良好】諾華集團今日宣佈，瑞米布替尼用於復發型多發性硬化（RMS）的III期試驗REMODEL-1/-2取得積極的頂線結果。瑞米布替尼是一種高選擇性、高效的口服布魯頓酪氨酸激酶（BTK）抑制劑；與特立氟胺相比，其在降低年化複發率（ARR）和炎性腦部病灶方面展現出優效性，同時具有良好的安全性特徵。REMODEL試驗結果表明，在兩項針對成人復發型多發性硬化（RMS）患者開展的III期試驗中，瑞米布替尼均顯著降低了年化複發率。"
-    },
-    {
-      "id": "mkt:01a061d0-f3aa-7118-845d-16207d839334",
-      "time": "2026-09-02 19:11:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign ministry urged all parties to remain calm, halt escalation, respect international law and return to negotiations."
-    },
-    {
-      "id": "5073193",
-      "time": "2026-09-02 19:11:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國人民銀行公佈2026年第二季度支付體系執行總體情況】截至二季度末，全國共開立銀行賬戶1156.58億戶。開立單位銀行賬戶1.25億戶，其中，基本存款賬戶8679.59萬戶；開立個人銀行賬戶155.32億戶。二季度，全國銀行共辦理非現金支付業務21683.93億筆，金額1698.40萬億元。二季度，全國共發生票據業務2682.23萬筆，金額22.22萬億元。其中，支票業務891.35萬筆，金額10.32萬億元；實際結算商業匯票業務1786.52萬筆，金額11.86萬億元。二季度，上海票據交易所電子商業匯票系統5承兌383.68萬筆，金額12.96萬億元；貼現606.59萬筆，金額10.95萬億元"
-    },
-    {
-      "id": "5073192",
-      "time": "2026-09-02 19:11:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【三鑫醫療：簽訂募集資金監管協議】三鑫醫療公告稱，公司向不特定物件發行可轉換公司債券募集資金總額5.30億元，扣除發行費用後募集資金淨額5.22億元，資金已於2026年8月10日到位。公司及全資二級子公司江西呈圖康已開立募集資金專項賬戶，公司會同保薦機構國金證券分別與中信銀行南昌分行、工商銀行南昌支行、華夏銀行南昌分行簽訂三方監管協議，另與江西呈圖康、工商銀行南昌支行、國金證券簽訂四方監管協議，對募集資金存放和使用進行監督。"
-    },
-    {
-      "id": "mkt:01a061d0-a45d-7118-845d-0c992bbc14b7",
-      "time": "2026-09-02 19:10:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Saudi Foreign Ministry reiterated the need to halt escalation and urged respect for the safety and stability of international navigation."
-    },
-    {
-      "id": "5073191",
-      "time": "2026-09-02 19:10:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九州一軌：回購股份減持139.79萬股，佔0.93%後提前終止計劃】九州一軌公告，公司回購專用證券賬戶原計劃減持不超過150.29萬股，佔總股本1%。截至2026年9月2日，累計減持139.79萬股，佔總股本0.93%，減持均價為55.71元/股，尚未減持10.5萬股。公司決定提前終止本次回購股份減持計劃，剩餘股份不再減持。"
-    },
-    {
-      "id": "mkt:01a061d0-80c6-7118-845d-03e908a3dcd0",
-      "time": "2026-09-02 19:10:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi Foreign Ministry said Iran attacked the Saudi vessel Sidr in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a061d0-5511-7118-845c-f9539b85e876",
-      "time": "2026-09-02 19:10:38",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Saudi foreign ministry said it condemns Iranian attacks on Jordan, Bahrain and Kuwait and supports measures those countries take to ensure their security."
-    },
-    {
-      "id": "5073190",
-      "time": "2026-09-02 19:10:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯外交部稱，伊朗襲擊了沙特在霍爾木茲海峽的“錫德爾”號油輪。"
-    },
-    {
-      "id": "5073189",
-      "time": "2026-09-02 19:10:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶兩江投資集團原黨委委員、副總經理段燦東被“雙開”】中央紀委國家監委網站9月2日通報，據重慶市紀委監委訊息：經重慶市委批准，重慶市紀委監委對重慶兩江投資集團原黨委委員、副總經理段燦東嚴重違紀違法問題進行了立案審查調查。經查，段燦東喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查，搞迷信活動；廉潔底線失守，違規收受禮品、禮金，透過民間借貸獲取大額回報，接受可能影響公正執行公務的旅遊安排；進行統計造假；私慾膨脹，將公權力異化為謀取私利的工具，利用職務便利以及職權或者地位形成的便利條件，為他人在工程承攬、資金撥付、行政審批等方面謀利，並非法收受鉅額財物。段燦東嚴重違反黨的政治紀律、廉潔紀律、工作紀律、生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經重慶市紀委常委會會議研究，決定給予段燦東開除黨籍處分；由重慶市監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "te:economy:580470",
-      "time": "2026-09-02 19:09:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Applications",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Applications Hold Muted Momentum — The volume of mortgage applications in the US inched higher by 0.8% on the last week of August 2026, paring the 1.0% drop in the previous week, according to data compiled by the Mortgage Bankers Association. The result was aligned with muted movements in benchmark mortgage rates, with the 30-year benchmark fixed mortgage rate inching 1bps higher to 4.79%, despite the persistent pressure on long-term Treasury securities. Application volumes to refinance a mortgage, which are more sensitive to short-term changes in interest rates, inched down by 1.1%. In turn, applications for a mortgage to purchase a new home rose by 2.2%."
-    },
-    {
-      "id": "mkt:01a061cf-9983-7118-845c-f56e2816d33f",
-      "time": "2026-09-02 19:09:50",
-      "tags": [
-        "MKT News",
-        "Copper"
-      ],
-      "text": "India Commerce and Industry Minister Goyal said India will sign more free-trade agreements with countries worldwide to secure supplies of critical minerals."
-    },
-    {
-      "id": "5073188",
-      "time": "2026-09-02 19:09:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度部長： 印度將在全球達成更多關鍵礦產相關自貿協定。"
     }
   ]
 }
