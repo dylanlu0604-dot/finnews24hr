@@ -1,7 +1,56 @@
 {
   "date": "2026-09-10",
-  "count": 161,
+  "count": 166,
   "items": [
+    {
+      "id": "mkt:01a08761-e895-7118-850f-332674f61b3e",
+      "time": "2026-09-10 02:15:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo starts at $1,999, with storage options from 256GB to 2TB."
+    },
+    {
+      "id": "te:markets:582497",
+      "time": "2026-09-10 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Gains by 4.68% — Top commodity gainers are Heating Oil (4.68%), Natural Gas EU (4.14%), Natural Gas UK (3.95%), Brent Oil (3.54%) and Crude Oil (3.34%). Biggest losers are Natural gas (-3.28%), Gasoline (-1.61%) and Methanol (-1.56%)."
+    },
+    {
+      "id": "mkt:01a08760-4dd5-7118-850f-2ca3b99dc9b0",
+      "time": "2026-09-10 02:13:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump is expected to depart on Air Force One for Dallas, Texas, to attend a Republican midterm campaign event. The White House said former press secretary Leavitt will accompany him and will speak at the event."
+    },
+    {
+      "id": "mkt:01a0875f-3f0a-7118-850f-2053507c0689",
+      "time": "2026-09-10 02:12:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo will be equipped with one fusion camera and one telephoto lens."
+    },
+    {
+      "id": "5085664",
+      "time": "2026-09-10 02:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 將配備一枚融合攝像頭和一枚長焦鏡頭。"
+    },
     {
       "id": "mkt:01a0875d-f621-7118-850f-18126d81694a",
       "time": "2026-09-10 02:11:17",

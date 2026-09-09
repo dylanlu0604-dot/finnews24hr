@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-10 02:12:00",
-  "count": 13575,
+  "updated": "2026-09-10 02:16:02",
+  "count": 13569,
   "items": [
+    {
+      "id": "mkt:01a08761-e895-7118-850f-332674f61b3e",
+      "time": "2026-09-10 02:15:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo starts at $1,999, with storage options from 256GB to 2TB."
+    },
+    {
+      "id": "te:markets:582497",
+      "time": "2026-09-10 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Gains by 4.68% — Top commodity gainers are Heating Oil (4.68%), Natural Gas EU (4.14%), Natural Gas UK (3.95%), Brent Oil (3.54%) and Crude Oil (3.34%). Biggest losers are Natural gas (-3.28%), Gasoline (-1.61%) and Methanol (-1.56%)."
+    },
+    {
+      "id": "mkt:01a08760-4dd5-7118-850f-2ca3b99dc9b0",
+      "time": "2026-09-10 02:13:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump is expected to depart on Air Force One for Dallas, Texas, to attend a Republican midterm campaign event. The White House said former press secretary Leavitt will accompany him and will speak at the event."
+    },
+    {
+      "id": "mkt:01a0875f-3f0a-7118-850f-2053507c0689",
+      "time": "2026-09-10 02:12:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo will be equipped with one fusion camera and one telephoto lens."
+    },
+    {
+      "id": "5085664",
+      "time": "2026-09-10 02:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 將配備一枚融合攝像頭和一枚長焦鏡頭。"
+    },
     {
       "id": "mkt:01a0875d-f621-7118-850f-18126d81694a",
       "time": "2026-09-10 02:11:17",
@@ -123866,108 +123915,6 @@
         "國際"
       ],
       "text": "特朗普：加拿大比越南更難對付。"
-    },
-    {
-      "id": "5073901",
-      "time": "2026-09-03 02:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：加拿大行事愈發有恃無恐。"
-    },
-    {
-      "id": "te:markets:580572",
-      "time": "2026-09-03 02:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Rises by 4.30% — Top commodity gainers are Methanol (4.30%), Germany Natural Gas THE (1.90%), Natural Gas UK (1.77%), Crude Oil (1.30%) and Brent Oil (1.22%). Biggest losers are Coking Coal (-2.69%) and Gasoline (-0.64%)."
-    },
-    {
-      "id": "5073900",
-      "time": "2026-09-03 02:14:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部網站顯示，美國發布修訂後的委內瑞拉通用許可證，授權涉及委內瑞拉產煤炭的特定活動。"
-    },
-    {
-      "id": "mkt:01a06353-cbbc-7118-846b-29562c37cfa3",
-      "time": "2026-09-03 02:13:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said Canada has been taking advantage of the United States for decades."
-    },
-    {
-      "id": "5073899",
-      "time": "2026-09-03 02:13:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平圓滿結束對埃及的國事訪問】當地時間9月2日晚，國家主席習近平結束對埃及的國事訪問。離開開羅時，埃及總統塞西夫婦到機場送行。（央視新聞）"
-    },
-    {
-      "id": "5073898",
-      "time": "2026-09-03 02:13:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談加拿大：幾十年來一直在佔美國便宜。"
-    },
-    {
-      "id": "5073897",
-      "time": "2026-09-03 02:13:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申對加拿大銀行政策的批評。"
-    },
-    {
-      "id": "5073896",
-      "time": "2026-09-03 02:12:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：加拿大在航空業方面佔了航空公司的便宜。"
-    },
-    {
-      "id": "mkt:01a06352-9b70-7118-846b-204a60a083db",
-      "time": "2026-09-03 02:12:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the Iranian regime is growing weaker."
-    },
-    {
-      "id": "5073895",
-      "time": "2026-09-03 02:12:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "預測市場平臺Kalshi關閉體育傷病投注市場。"
-    },
-    {
-      "id": "5073894",
-      "time": "2026-09-03 02:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們與巴西關係良好。"
     }
   ]
 }
