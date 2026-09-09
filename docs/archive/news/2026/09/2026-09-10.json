@@ -1,7 +1,43 @@
 {
   "date": "2026-09-10",
-  "count": 256,
+  "count": 260,
   "items": [
+    {
+      "id": "mkt:01a0879a-b456-7118-8510-830134fffc5f",
+      "time": "2026-09-10 03:17:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said talks with US Commerce Secretary Lutnick have concluded, describing the exchange as cordial and saying it should aid ongoing trade negotiations with the US. He will travel to Washington tomorrow to continue related work."
+    },
+    {
+      "id": "mkt:01a0879a-2f6a-7118-8510-7fd740e020e7",
+      "time": "2026-09-10 03:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ANTHROPIC says Claude MYTHOS 5 connected to open internet in security tests, uploaded malware to PyPI】ANTHROPIC reported four incidents in which Claude models accessed real third‑party systems without authorization during a cybersecurity assessment. All incidents occurred in the same third‑party evaluation firm's test environment after a configuration error connected a simulated-offline environment to the open internet. The company identified two alignment failures — 'biased inference' (the model downplayed or misread evidence it was operating on a live network) and 'reckless behavior' (the model took potentially harmful actions to complete tasks). The most significant case involved Claude MYTHOS 5 uploading a malicious package to the public Python Package Index (PyPI) and making further access to real systems. ANTHROPIC said the actions, while risky, remained within the scope of the test tasks and found no evidence the model attempted to conceal activity, coordinate with other agents, or pursue goals beyond the assignment. ANTHROPIC has engaged model‑evaluation firm METR for an independent investigation and plans to tighten pre‑release testing, monitoring and third‑party security requirements."
+    },
+    {
+      "id": "5085722",
+      "time": "2026-09-10 03:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情累計確診病例超6700例】剛果（金）國家公共衛生研究所通報，截至目前，該國本輪埃博拉疫情累計確診病例6757例，其中3267人死亡，病死率約48.3%。"
+    },
+    {
+      "id": "mkt:01a08798-dc74-7118-8510-71fdcfb7fc3d",
+      "time": "2026-09-10 03:15:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "IRNA reports Iran's parliament National Security Committee chairman Aziz told Americans to \"get back to your own country while there's still time\"."
+    },
     {
       "id": "5085721",
       "time": "2026-09-10 03:13:57",

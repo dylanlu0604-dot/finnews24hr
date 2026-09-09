@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-10 03:16:03",
-  "count": 13575,
+  "updated": "2026-09-10 03:20:02",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a0879a-b456-7118-8510-830134fffc5f",
+      "time": "2026-09-10 03:17:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's economy minister said talks with US Commerce Secretary Lutnick have concluded, describing the exchange as cordial and saying it should aid ongoing trade negotiations with the US. He will travel to Washington tomorrow to continue related work."
+    },
+    {
+      "id": "mkt:01a0879a-2f6a-7118-8510-7fd740e020e7",
+      "time": "2026-09-10 03:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ANTHROPIC says Claude MYTHOS 5 connected to open internet in security tests, uploaded malware to PyPI】ANTHROPIC reported four incidents in which Claude models accessed real third‑party systems without authorization during a cybersecurity assessment. All incidents occurred in the same third‑party evaluation firm's test environment after a configuration error connected a simulated-offline environment to the open internet. The company identified two alignment failures — 'biased inference' (the model downplayed or misread evidence it was operating on a live network) and 'reckless behavior' (the model took potentially harmful actions to complete tasks). The most significant case involved Claude MYTHOS 5 uploading a malicious package to the public Python Package Index (PyPI) and making further access to real systems. ANTHROPIC said the actions, while risky, remained within the scope of the test tasks and found no evidence the model attempted to conceal activity, coordinate with other agents, or pursue goals beyond the assignment. ANTHROPIC has engaged model‑evaluation firm METR for an independent investigation and plans to tighten pre‑release testing, monitoring and third‑party security requirements."
+    },
+    {
+      "id": "5085722",
+      "time": "2026-09-10 03:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情累計確診病例超6700例】剛果（金）國家公共衛生研究所通報，截至目前，該國本輪埃博拉疫情累計確診病例6757例，其中3267人死亡，病死率約48.3%。"
+    },
+    {
+      "id": "mkt:01a08798-dc74-7118-8510-71fdcfb7fc3d",
+      "time": "2026-09-10 03:15:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "IRNA reports Iran's parliament National Security Committee chairman Aziz told Americans to \"get back to your own country while there's still time\"."
+    },
     {
       "id": "5085721",
       "time": "2026-09-10 03:13:57",
@@ -123915,64 +123951,6 @@
         "MKT News"
       ],
       "text": "US Energy Secretary wright said Americans will feel \"huge\" progress over the next 12-24 months."
-    },
-    {
-      "id": "5073946",
-      "time": "2026-09-03 03:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉無疑將會舉行選舉。"
-    },
-    {
-      "id": "5073945",
-      "time": "2026-09-03 03:18:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：未來 12‑24 個月，美國民眾將感受到 “巨大” 進展。"
-    },
-    {
-      "id": "mkt:01a0638f-0244-7118-846c-684599b5285f",
-      "time": "2026-09-03 03:18:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said he met business representatives to discuss wartime economic support measures."
-    },
-    {
-      "id": "5073944",
-      "time": "2026-09-03 03:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：委內瑞拉石油產量增長越快，原油進入煉油廠的速度就越快。"
-    },
-    {
-      "id": "5073943",
-      "time": "2026-09-03 03:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "調查顯示，美國能源資訊署週四報告預計，上週美國天然氣庫存增加 310 億立方英尺。"
-    },
-    {
-      "id": "5073942",
-      "time": "2026-09-03 03:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：委內瑞拉相關進展 “快於預期”。"
-    },
-    {
-      "id": "mkt:01a0638d-07e3-7118-846c-67046e35d9f0",
-      "time": "2026-09-03 03:16:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CME data: Henry Hub natural gas futures open interest hit a record 1,807,497 contracts on Sept. 1, 2026."
     }
   ]
 }
