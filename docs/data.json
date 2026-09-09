@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-09 23:10:39",
-  "count": 13614,
+  "updated": "2026-09-09 23:14:41",
+  "count": 13612,
   "items": [
+    {
+      "id": "te:economy:582468",
+      "time": "2026-09-09 23:13:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to 3-Year High After Buyback — The yield on the 10-year US Treasury note rose to 4.85% on Wednesday, the highest since October of 2023, after the Treasury Department tripled the buyback on notes and bonds to take place tomorrow. The department will purchase $6 billion in off-the-run securities, compared with Secretary Bessent's earlier announcement that buybacks would at least double to $4 billion, among the multiple moves by Washington to supress long-maturity yields. Yields in the long-end of the curve have surged this year as high oil prices due to the war in Iran raised underlying inflation, risking a rate hike by the Federal Reserve in upcoming meetings. This was magnified by record-setting bond supply from corporate debt, with AI companies issuing north of $1.5 trillion in new issuance. On top of that, pressure on the Japanese yen drove Tokyo to repeatedly sell Treasury securities to defend the currency."
+    },
+    {
+      "id": "5085535",
+      "time": "2026-09-09 23:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德・馬丁獲 13.2 億美元合同，推進澳大利亞聯合空戰管理系統專案。"
+    },
+    {
+      "id": "5085534",
+      "time": "2026-09-09 23:10:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國 2 年期國債收益率觸及 2023 年 11 月以來高點 4.717%，當日上漲 12 個基點。"
+    },
+    {
+      "id": "5085533",
+      "time": "2026-09-09 23:10:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "彭博美元指數在美國財政部債券回購計劃公佈後收窄跌幅。"
+    },
     {
       "id": "5085532",
       "time": "2026-09-09 23:09:09",
@@ -124097,65 +124134,6 @@
         "MKT News"
       ],
       "text": "【Serbia to hold early parliamentary elections on Oct. 25】Serbian sources said on the 2nd (local time) that Serbia will hold early parliamentary elections on Oct. 25. President Vucic is expected to dissolve the National Assembly and formally call the vote within days."
-    },
-    {
-      "id": "5073725",
-      "time": "2026-09-02 23:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐羅普能源（Europower Enerji）：與一家日本企業簽署價值3700萬美元的合同，將為烏克蘭供應電力變壓器。"
-    },
-    {
-      "id": "5073724",
-      "time": "2026-09-02 23:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【葉國富喊話名創樂園店業績要對標泡泡瑪特，泡泡瑪特暫無回應】9月2日晚間訊息，據悉，在名創優品2026年中期業績會上，名創優品集團創始人葉國富表示，“只要商圈裡同時有名創樂園店和泡泡瑪特，名創樂園店的業績就要超過對方。他一個月幹300萬，我們幹300萬；他幹200萬，我們幹200萬。”葉國富表示，他從東北市場調研回來，看到很多門店位置都不錯，特別以哈爾濱百盛購物中心為例，名創優品在該商場有兩家面對面門店，業績表現均優於競品，這增強了他對大店模式的信心。對此訊息，泡泡瑪特方面暫無回應。（新浪科技）"
-    },
-    {
-      "id": "5073723",
-      "time": "2026-09-02 23:12:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本推進宙斯盾系統搭載艦建造工作】81年前的今天，日本在“密蘇里”號軍艦上籤署投降書，而現在，日本首相高市早苗上臺以來，日本不斷加快擴軍步伐，加速推動“再軍事化”。據美國“動力”網站近日報道，日本海上自衛隊新型“宙斯盾系統搭載艦”綜合主桅杆已經安裝完成。專家表示，日本借“反導防禦”之名，行進攻性擴軍之實，突破和平憲法束縛的野心愈發不加掩飾。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a062ad-6306-7118-8467-efab9a3a3b30",
-      "time": "2026-09-02 23:12:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BoC Governor Macklem's press conference has ended."
-    },
-    {
-      "id": "mkt:01a062ad-2f9b-7118-8467-e5585123a3f4",
-      "time": "2026-09-02 23:11:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Bank of Canada Governor Macklem said trade policy is unlikely to return to its pre-Trump state."
-    },
-    {
-      "id": "mkt:01a062ac-a45d-7118-8467-d89d74092411",
-      "time": "2026-09-02 23:11:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Alhadath quoted President Trump saying the US must not let Iran acquire nuclear weapons because, he warned, Iran would use them and \"half the world would be destroyed.\" He said the US controls the Strait of Hormuz and that \"yesterday we destroyed 28 boats and vessels of Iran's Islamic Revolutionary Guard Corps.\""
     }
   ]
 }

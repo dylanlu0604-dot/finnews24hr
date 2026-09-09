@@ -1,7 +1,44 @@
 {
   "date": "2026-09-09",
-  "count": 2381,
+  "count": 2385,
   "items": [
+    {
+      "id": "te:economy:582468",
+      "time": "2026-09-09 23:13:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to 3-Year High After Buyback — The yield on the 10-year US Treasury note rose to 4.85% on Wednesday, the highest since October of 2023, after the Treasury Department tripled the buyback on notes and bonds to take place tomorrow. The department will purchase $6 billion in off-the-run securities, compared with Secretary Bessent's earlier announcement that buybacks would at least double to $4 billion, among the multiple moves by Washington to supress long-maturity yields. Yields in the long-end of the curve have surged this year as high oil prices due to the war in Iran raised underlying inflation, risking a rate hike by the Federal Reserve in upcoming meetings. This was magnified by record-setting bond supply from corporate debt, with AI companies issuing north of $1.5 trillion in new issuance. On top of that, pressure on the Japanese yen drove Tokyo to repeatedly sell Treasury securities to defend the currency."
+    },
+    {
+      "id": "5085535",
+      "time": "2026-09-09 23:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德・馬丁獲 13.2 億美元合同，推進澳大利亞聯合空戰管理系統專案。"
+    },
+    {
+      "id": "5085534",
+      "time": "2026-09-09 23:10:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國 2 年期國債收益率觸及 2023 年 11 月以來高點 4.717%，當日上漲 12 個基點。"
+    },
+    {
+      "id": "5085533",
+      "time": "2026-09-09 23:10:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "彭博美元指數在美國財政部債券回購計劃公佈後收窄跌幅。"
+    },
     {
       "id": "5085532",
       "time": "2026-09-09 23:09:09",
