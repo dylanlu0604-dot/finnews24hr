@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 07:42:12",
+  "updated": "2026-09-10 07:46:15",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -7868,9 +7868,9 @@
               "title": "英國8月三個月RICS房價指數",
               "importance": 1,
               "previous": "-30",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "-31",
+              "actual": "-28",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184467",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -34878,9 +34878,9 @@
       "title": "英國8月三個月RICS房價指數",
       "importance": 1,
       "previous": "-30",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "-31",
+      "actual": "-28",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184467",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
