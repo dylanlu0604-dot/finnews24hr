@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-10 05:00:47",
-  "count": 13541,
+  "updated": "2026-09-10 05:04:48",
+  "count": 13540,
   "items": [
+    {
+      "id": "5085843",
+      "time": "2026-09-10 05:01:18",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【耶倫等經濟學家向法庭陳述：特朗普關稅越權】前美聯儲主席、美國財政部長珍妮特·耶倫與近50名經濟學家共同向上訴法院表示，特朗普不當利用了“國際收支”條款來為今年早些時候的一輪全球關稅辯護。經濟學家們指出，若接受政府的這套說辭，將賦予總統過大的權力。"
+    },
     {
       "id": "mkt:01a087f7-d18b-7118-8512-14053375fbeb",
       "time": "2026-09-10 04:59:20",
@@ -123680,27 +123690,6 @@
         "市場"
       ],
       "text": "週三（9月2日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7180元，較週二紐約尾盤漲41點，日內整體交投於6.7267-6.7161元區間。日線圖上，離岸人民幣8月20日以來持續高位窄幅震盪，8月24日曾漲至6.7128元。"
-    },
-    {
-      "id": "5074019",
-      "time": "2026-09-03 05:02:20",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【RBC稱財政部回購計劃並非“完全白費”】加拿大皇家銀行資本市場（RBC Capital Markets）的策略師表示，美國財政部擴大回購的計劃對長期國債仍具有“正面效應”，儘管30年期收益率已回升至該部門上月宣佈回購計劃前的大致水平。策略師在週三釋出的研究報告中指出，長端收益率大體上跟隨油價上漲而走高，而長端掉期利差自回購計劃宣佈以來一直維持漲幅，因此該計劃“並非完全白費”。"
-    },
-    {
-      "id": "te:markets:580590",
-      "time": "2026-09-03 05:01:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises as US-Iran Hostilities Escalate — Brent rebounded to trade over $95 a barrel on Wednesday, extending a two-session rally that lifted prices to a six-week high. Renewed hostilities between the US and Iran rose of disruptions risks to Middle East crude exports. The US completed a wave of strikes against Iran on Tuesday, according to US Central Command. Iran’s state media reported that the Revolutionary Guard retaliated by targeting US military positions in Jordan, Kuwait, Bahrain, Iraq and the UAE. US President Donald Trump also indicated he was not interested in negotiating with Iran. Meanwhile, US Energy Secretary Chris Wright said more than 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest level since the war began in late February. Before the war, about 20 million barrels per day of crude and petroleum products passed through the strait. However, tanker traffic remains below its 10-day average, with Kpler reporting only four tanker crossings on Tuesday."
     }
   ]
 }
