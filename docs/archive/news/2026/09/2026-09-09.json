@@ -1,7 +1,167 @@
 {
   "date": "2026-09-09",
-  "count": 658,
+  "count": 675,
   "items": [
+    {
+      "id": "5083922",
+      "time": "2026-09-09 09:03:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據報道，谷歌週二宣佈調整其在歐洲的搜尋結果展示方式，以滿足歐盟反壟斷監管機構的要求。"
+    },
+    {
+      "id": "5083921",
+      "time": "2026-09-09 09:02:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3476.00元。"
+    },
+    {
+      "id": "5083920",
+      "time": "2026-09-09 09:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【 多項新技術將首發首秀 2026年服貿會今日開幕 】 2026年中國國際服務貿易交易會將於今天在北京正式開幕。多場論壇及推介活動今天舉辦，還有多項新技術新成果首發首秀。 為期5天的2026年服貿會今天在北京首鋼園開幕，全球服務貿易峰會也將在今天上午舉行。此外，今天還將舉辦2026電子商務大會、數字貿易發展趨勢和前沿論壇等3場主題論壇。本屆服貿會以“全球服務、互惠共享”為主題，設定主題展和九大專題展，展會期間，多項新技術將首發首秀。"
+    },
+    {
+      "id": "te:markets:582188",
+      "time": "2026-09-09 09:02:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Subdued Ahead of China Data — Australian shares steadied on Wednesday morning, hovering near 8,910 after Tuesday’s sharp drop to a six-week low. Bargain hunting in non-energy minerals, energy stocks, and tech helped offset weakness in healthcare, commercial services, and financials. Sentiment remained fragile as oil prices surged and global inflation worries deepened, with local business confidence slipping to a three-month low in August and consumer sentiment sliding in September. Meanwhile, U.S. futures weakened after Wall Street’s overnight losses, driven by escalating Middle East tensions following attacks on Saudi energy facilities. On the trade front, China logged robust exports and imports in August, with trade surplus topping USD 800 billion so far this year. Miners led gains, with BHP up 2.2%, while Woodside Energy rose 2.3% and Santos added 1.4%. In contrast, three of the four big banks eased between 0.1% and 1%. Traders now await CPI and PPI data from main trading partner China later today."
+    },
+    {
+      "id": "5083919",
+      "time": "2026-09-09 09:01:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利：海底撈大股東出售股份可能會在短期內對市場情緒造成壓力，直到投資者重拾對公司盈利前景的信心，並且確信不會再有進一步的資產剝離。    維持對公司的增持評級，目標價為16.50港元。"
+    },
+    {
+      "id": "mkt:01a083af-2e25-7118-84f7-a49445f9e5a4",
+      "time": "2026-09-09 09:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "On Sept 9 (Wednesday) the Taiwan Weighted Index opened up 279.2 points, or 0.59%, at 47,384.98."
+    },
+    {
+      "id": "mkt:01a083af-0c97-7118-84f7-9f4216b7a5d3",
+      "time": "2026-09-09 09:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.27% higher."
+    },
+    {
+      "id": "te:markets:582187",
+      "time": "2026-09-09 09:01:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise on Tech Gains — The Nikkei 225 Index climbed 0.6% to above 65,600, while the broader Topix Index advanced 0.4% to 4,066 on Wednesday, recovering from the previous session’s losses as technology stocks led the rebound. Investors also welcomed private-sector data showing Japanese manufacturers’ sentiment improved for a second consecutive month in September, supported by solid demand for semiconductors and data centers. Meanwhile, rising oil prices continued to fuel inflation concerns and strengthen expectations for higher interest rates. Markets also kept a close eye on the yen after the currency rose to its strongest level in nearly seven months. Technology and artificial intelligence-related stocks posted notable gains, with SoftBank Group rising 2.8%, Fujikura up 8.7%, Lasertec gaining 4.2%, Ibiden Co advancing 1.6% and Furukawa Electric surging 11.1%."
+    },
+    {
+      "id": "5083918",
+      "time": "2026-09-09 09:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "海底撈1620萬股大宗交易成交價為每股10.62港元。"
+    },
+    {
+      "id": "mkt:01a083ae-4c13-7118-84f7-97e77f37e201",
+      "time": "2026-09-09 09:00:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) gold T+D fell 1.24% in early trade on Wednesday, Sept 9, to 942.29 yuan/gram; SGE silver T+D fell 0.95% to 16,040 yuan/kg."
+    },
+    {
+      "id": "5083917",
+      "time": "2026-09-09 09:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報47,142.74。"
+    },
+    {
+      "id": "5083916",
+      "time": "2026-09-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3463.00元。"
+    },
+    {
+      "id": "5083915",
+      "time": "2026-09-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6186.00元。"
+    },
+    {
+      "id": "5083914",
+      "time": "2026-09-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5137.00元。"
+    },
+    {
+      "id": "5083913",
+      "time": "2026-09-09 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報5865.00元。"
+    },
+    {
+      "id": "5083912",
+      "time": "2026-09-09 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.21%。"
+    },
+    {
+      "id": "5083911",
+      "time": "2026-09-09 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】甲醇連續漲5.49%，集運指數歐線期貨連續漲3.61%，上海原油連續漲3.44%，鈀連續跌2.64%，對二甲苯連續漲2.48%，PTA連續漲2.41%，燃料油連續漲2.39%，丁二烯橡膠連續漲2.19%，丙烯連續漲2.13%。"
+    },
     {
       "id": "5083910",
       "time": "2026-09-09 08:59:38",
