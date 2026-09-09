@@ -1,7 +1,108 @@
 {
-  "updated": "2026-09-09 23:02:30",
-  "count": 13612,
+  "updated": "2026-09-09 23:06:36",
+  "count": 13617,
   "items": [
+    {
+      "id": "mkt:01a086b3-7635-7118-850a-ef1d8cdd5eae",
+      "time": "2026-09-09 23:05:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold fell $36 intraday to $4,397.64/oz."
+    },
+    {
+      "id": "5085530",
+      "time": "2026-09-09 23:04:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，閃送跌7.71%，HTT跌6.04%，世紀互聯跌5.63%，愛奇藝跌5.35%，阿特斯跌3.89%。"
+    },
+    {
+      "id": "5085529",
+      "time": "2026-09-09 23:04:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其伊斯坦布林銀行指數跌2.5%，創9月2日以來最大盤中跌幅。"
+    },
+    {
+      "id": "5085528",
+      "time": "2026-09-09 23:04:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在回購公告發布後走高；10 年期美債收益率最新上漲 3.06 個基點，報 4.835%。"
+    },
+    {
+      "id": "5085527",
+      "time": "2026-09-09 23:03:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債價格跌幅擴大，兩年期英債收益率漲10個基點、報4.69%。"
+    },
+    {
+      "id": "mkt:01a086b2-4baa-7118-850a-e5746a1ca427",
+      "time": "2026-09-09 23:03:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury yield rose 3.06 bps to 4.835%."
+    },
+    {
+      "id": "mkt:01a086b2-2326-7118-850a-dcd1c86fb914",
+      "time": "2026-09-09 23:03:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasuries fell after the U.S. Treasury disclosed the size of its Treasury buybacks."
+    },
+    {
+      "id": "mkt:01a086b0-f467-7118-850a-d242e73c6f3d",
+      "time": "2026-09-09 23:02:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US Treasury sets long-term buyback size】The US Treasury will repurchase up to $6 bln of long-term Treasuries on Thursday. The Treasury had previously said single long-term buybacks would be at least doubled to $4 bln until Nov. 4."
+    },
+    {
+      "id": "5085526",
+      "time": "2026-09-09 23:01:53",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部將於週四回購至多60億美元的較長期債券。"
+    },
     {
       "id": "mkt:01a086af-c7eb-7118-850a-c953247868b1",
       "time": "2026-09-09 23:01:01",
@@ -124069,41 +124170,6 @@
         "國際"
       ],
       "text": "日本三菱重工與NEC聯合研發防務無人機。"
-    },
-    {
-      "id": "mkt:01a062a6-90a0-7118-8467-c07bf6ccc7fd",
-      "time": "2026-09-02 23:04:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "BOC Governor Macklem said if inflation is judged to be a problem, multiple rate hikes may be required."
-    },
-    {
-      "id": "5073717",
-      "time": "2026-09-02 23:04:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行行長麥克勒姆：如果我們認為通脹構成問題，可能需要多次加息。"
-    },
-    {
-      "id": "5073716",
-      "time": "2026-09-02 23:03:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳將AI比作水電等公用事業 呼籲G20加快應用促進增長】英偉達執行長黃仁勳呼籲二十國集團成員國加快採用人工智慧以促進經濟增長，並敦促全球主要經濟體擴大資料中心和其他基礎設施建設，為人工智慧發展提供支援。“每個國家都需要建設基礎設施，從而支援本國經濟發展，”黃仁勳週三在北卡羅來納州一場美國為G20成員舉辦的科技活動上表示。黃仁勳執掌的公司正處於AI熱潮的中心，他將這項技術比作水、電和其他公用事業，稱“這是偉大的平衡器”。"
-    },
-    {
-      "id": "5073715",
-      "time": "2026-09-02 23:02:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利認為，如果塞內加爾以非洲金融共同體法郎計價的債務未被納入重組範圍，該國歐元債券仍將面臨\"大幅下行空間\"。"
     }
   ]
 }

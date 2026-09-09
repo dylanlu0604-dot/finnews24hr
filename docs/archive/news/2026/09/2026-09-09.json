@@ -1,7 +1,108 @@
 {
   "date": "2026-09-09",
-  "count": 2368,
+  "count": 2377,
   "items": [
+    {
+      "id": "mkt:01a086b3-7635-7118-850a-ef1d8cdd5eae",
+      "time": "2026-09-09 23:05:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold fell $36 intraday to $4,397.64/oz."
+    },
+    {
+      "id": "5085530",
+      "time": "2026-09-09 23:04:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，閃送跌7.71%，HTT跌6.04%，世紀互聯跌5.63%，愛奇藝跌5.35%，阿特斯跌3.89%。"
+    },
+    {
+      "id": "5085529",
+      "time": "2026-09-09 23:04:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其伊斯坦布林銀行指數跌2.5%，創9月2日以來最大盤中跌幅。"
+    },
+    {
+      "id": "5085528",
+      "time": "2026-09-09 23:04:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在回購公告發布後走高；10 年期美債收益率最新上漲 3.06 個基點，報 4.835%。"
+    },
+    {
+      "id": "5085527",
+      "time": "2026-09-09 23:03:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債價格跌幅擴大，兩年期英債收益率漲10個基點、報4.69%。"
+    },
+    {
+      "id": "mkt:01a086b2-4baa-7118-850a-e5746a1ca427",
+      "time": "2026-09-09 23:03:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury yield rose 3.06 bps to 4.835%."
+    },
+    {
+      "id": "mkt:01a086b2-2326-7118-850a-dcd1c86fb914",
+      "time": "2026-09-09 23:03:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasuries fell after the U.S. Treasury disclosed the size of its Treasury buybacks."
+    },
+    {
+      "id": "mkt:01a086b0-f467-7118-850a-d242e73c6f3d",
+      "time": "2026-09-09 23:02:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US Treasury sets long-term buyback size】The US Treasury will repurchase up to $6 bln of long-term Treasuries on Thursday. The Treasury had previously said single long-term buybacks would be at least doubled to $4 bln until Nov. 4."
+    },
+    {
+      "id": "5085526",
+      "time": "2026-09-09 23:01:53",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部將於週四回購至多60億美元的較長期債券。"
+    },
     {
       "id": "mkt:01a086af-c7eb-7118-850a-c953247868b1",
       "time": "2026-09-09 23:01:01",
