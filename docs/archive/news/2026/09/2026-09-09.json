@@ -1,7 +1,64 @@
 {
   "date": "2026-09-09",
-  "count": 1215,
+  "count": 1221,
   "items": [
+    {
+      "id": "5084286",
+      "time": "2026-09-09 13:53:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲1.02%。"
+    },
+    {
+      "id": "5084285",
+      "time": "2026-09-09 13:53:26",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊短線拉昇，湖南黃金漲超8%】貴金屬板塊短線拉昇，湖南黃金漲超8%，中金黃金、曉程科技、恆邦股份跟漲。"
+    },
+    {
+      "id": "5084284",
+      "time": "2026-09-09 13:53:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4399.06美元/盎司。"
+    },
+    {
+      "id": "mkt:01a084b8-fa24-7118-84fe-5ffa3be76190",
+      "time": "2026-09-09 13:51:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share steel sector rose in afternoon trade; Hegang Resources advanced over 7.5%, while Jinling Mining, Anyang Steel, Baodi Mining and Hainan Mining also gained."
+    },
+    {
+      "id": "mkt:01a084b8-bcef-7118-84fe-530946f7802a",
+      "time": "2026-09-09 13:51:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about 1% intraday to $4,398.91/oz."
+    },
+    {
+      "id": "5084283",
+      "time": "2026-09-09 13:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK海力士工會成員將於下週針對一項此前遭否決的臨時薪資協議再次進行投票。訊息人士稱，此次投票將從下週二開始，為期兩天。"
+    },
     {
       "id": "mkt:01a084b7-746c-7118-84fe-4a801ddd194e",
       "time": "2026-09-09 13:50:10",

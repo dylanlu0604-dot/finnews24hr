@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-09 13:51:06",
-  "count": 13664,
+  "updated": "2026-09-09 13:55:01",
+  "count": 13656,
   "items": [
+    {
+      "id": "5084286",
+      "time": "2026-09-09 13:53:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲1.02%。"
+    },
+    {
+      "id": "5084285",
+      "time": "2026-09-09 13:53:26",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊短線拉昇，湖南黃金漲超8%】貴金屬板塊短線拉昇，湖南黃金漲超8%，中金黃金、曉程科技、恆邦股份跟漲。"
+    },
+    {
+      "id": "5084284",
+      "time": "2026-09-09 13:53:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4399.06美元/盎司。"
+    },
+    {
+      "id": "mkt:01a084b8-fa24-7118-84fe-5ffa3be76190",
+      "time": "2026-09-09 13:51:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share steel sector rose in afternoon trade; Hegang Resources advanced over 7.5%, while Jinling Mining, Anyang Steel, Baodi Mining and Hainan Mining also gained."
+    },
+    {
+      "id": "mkt:01a084b8-bcef-7118-84fe-530946f7802a",
+      "time": "2026-09-09 13:51:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about 1% intraday to $4,398.91/oz."
+    },
+    {
+      "id": "5084283",
+      "time": "2026-09-09 13:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK海力士工會成員將於下週針對一項此前遭否決的臨時薪資協議再次進行投票。訊息人士稱，此次投票將從下週二開始，為期兩天。"
+    },
     {
       "id": "mkt:01a084b7-746c-7118-84fe-4a801ddd194e",
       "time": "2026-09-09 13:50:10",
@@ -124492,132 +124549,6 @@
         "市場"
       ],
       "text": "【算力租賃概念區域性回暖 大位科技漲停】午後算力租賃概念區域性回暖，大位科技漲停，此前競業達4連板，揚電科技、品高股份、東方材料、銅牛資訊、行雲科技跟漲。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609023862673547",
-      "time": "2026-09-02 13:54:41",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行管委兼德國央行行長納格爾稱，德國必須接受在一定時期內出現赤字上升。"
-    },
-    {
-      "id": "5072407",
-      "time": "2026-09-02 13:54:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，美國昨晚發動的一些空襲是從科威特發起的。"
-    },
-    {
-      "id": "mkt:01a060ae-72f6-7118-8453-7ad56638a230",
-      "time": "2026-09-02 13:54:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Nagel said Germany's current government spending must be treated as an exception."
-    },
-    {
-      "id": "5072406",
-      "time": "2026-09-02 13:53:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲企業級Agent協作平臺“萬有無界”開啟公測】今日，阿里雲旗下企業級人與Agent協作平臺“萬有無界”開啟公測。萬有無界是一個多角色Agent協作工作臺。與讓單一AI Agent大包大攬不同，它把一件複雜的事拆解給多位有不同職責的Agent——在“專案空間”裡組織成員和資產，透過群聊讓多位Agent圍繞同一個任務接力推進，過程中的產出沉澱到資產庫，成為企業可複用的數字資產。（阿里雲）"
-    },
-    {
-      "id": "mkt:01a060ad-ce41-7118-8453-70f05936f147",
-      "time": "2026-09-02 13:53:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Alibaba Cloud launches public beta of enterprise human-Agent collaboration platform \"Wanyou Wujie\"】Alibaba Cloud has begun public beta of Wanyou Wujie, an enterprise-grade human-Agent collaboration workspace. The multi-role platform decomposes complex tasks across multiple Agents with distinct responsibilities, organizes members and assets in project spaces, enables Agent handoffs via group chat, and saves outputs to an asset library as reusable enterprise digital assets."
-    },
-    {
-      "id": "5072405",
-      "time": "2026-09-02 13:53:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱襲擊了黎巴嫩南部城鎮的真主黨目標。"
-    },
-    {
-      "id": "mkt:01a060ad-b1a1-7118-8453-6cc02f270332",
-      "time": "2026-09-02 13:53:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member Nagel said Germany must accept higher fiscal deficits for a period."
-    },
-    {
-      "id": "5072404",
-      "time": "2026-09-02 13:52:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及南西奈發生巴士事故，造成16人死亡，28人受傷。"
-    },
-    {
-      "id": "mkt:01a060ad-19fa-7118-8453-6642b82c2b6c",
-      "time": "2026-09-02 13:52:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Tehran bourse opens sharply lower; composite index down 145,000 points, 81% of stocks fall】IRNA reported the Tehran Stock Exchange composite index plunged 145,000 points within minutes of the open, breaching the 6.5 mln level to 6.438 mln points. The equal‑weight index fell 41,000 points. About 81% of listed stocks were trading lower."
-    },
-    {
-      "id": "mkt:01a060ac-9700-7118-8453-5df3aef07ebf",
-      "time": "2026-09-02 13:51:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "People familiar with the matter said a global aluminium producer is seeking a $325/tonne premium for Oct–Dec in talks with Japanese buyers, down 18% from the current quarter."
-    },
-    {
-      "id": "mkt:01a060ac-500b-7118-8453-50b9d9b10cdb",
-      "time": "2026-09-02 13:51:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【286-ton Busan-registered tug capsizes off Busan; one rescued, search ongoing】A 286-ton Busan-registered tug capsized off Busan at about 13:30 local time on the 2nd with eight people aboard. One person has been rescued; the Korea Coast Guard is conducting search-and-rescue operations. South Korea's President Lee and Prime Minister Han ordered all available resources to be deployed to the scene."
-    },
-    {
-      "id": "5072403",
-      "time": "2026-09-02 13:51:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：真主黨昨晚向駐黎巴嫩部隊發射了兩架無人機。"
-    },
-    {
-      "id": "5072402",
-      "time": "2026-09-02 13:51:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國釜山附近海域一艘載有8人的船隻傾覆】據韓國海警部門訊息，當地時間2日13時30分左右，一艘286噸級釜山籍拖船在釜山附近海域傾覆。據悉，船上載有8人，截至目前已有1人獲救。韓國海警部門正在事故現場進行搜救。韓國總統李在明及總理韓聖淑先後指示有關部門動用一切可用資源全力展開搜救工作。（央視新聞）"
-    },
-    {
-      "id": "5072401",
-      "time": "2026-09-02 13:51:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "納格爾：德國政府目前的支出一定是例外情況。"
     }
   ]
 }
