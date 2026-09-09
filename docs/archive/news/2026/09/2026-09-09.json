@@ -1,7 +1,59 @@
 {
   "date": "2026-09-09",
-  "count": 2391,
+  "count": 2396,
   "items": [
+    {
+      "id": "5085541",
+      "time": "2026-09-09 23:21:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區債券收益率繼續走高；德國 10 年期國債收益率 上升 7 個基點至 3.431%，創 2011 年以來新高。"
+    },
+    {
+      "id": "5085540",
+      "time": "2026-09-09 23:20:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美元指數在回購公告發布後收復失地，最新上漲 0.1%，報 98.88。"
+    },
+    {
+      "id": "mkt:01a086c1-bfdb-7118-850b-1eff54535a9a",
+      "time": "2026-09-09 23:20:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish",
+        "FLEX.O"
+      ],
+      "text": "Amazon and contract manufacturer Flex said they will expand an advanced manufacturing facility in Texas, a move expected to create nearly 1,000 jobs and strengthen the U.S. supply chain."
+    },
+    {
+      "id": "5085539",
+      "time": "2026-09-09 23:20:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：未來數月，將在得克薩斯州推出更多勞動力發展專案。"
+    },
+    {
+      "id": "te:economy:582472",
+      "time": "2026-09-09 23:19:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Portugal 10Y Bond Yield Hits 9-year High — Portugal 10 Year Government Bond Yield increased to 3.79%, the highest since April 2017. Over the past 4 weeks, Portugal 10Y Bond Yield gained 27.32 basis points, and in the last 12 months, it increased 71.00 basis points."
+    },
     {
       "id": "5085538",
       "time": "2026-09-09 23:17:58",
