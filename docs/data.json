@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-09 09:40:01",
-  "count": 13720,
+  "updated": "2026-09-09 09:44:02",
+  "count": 13717,
   "items": [
+    {
+      "id": "5083995",
+      "time": "2026-09-09 09:43:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念反覆走強 匯源通訊漲停】光纖概念反覆走強，匯源通訊漲停，此前華脈科技3連板，兆龍互連漲超10%，長飛光纖、長盈通、永鼎股份、亨通光電漲超5%。"
+    },
+    {
+      "id": "mkt:01a083d5-6d84-7118-84f9-4b52ca94648e",
+      "time": "2026-09-09 09:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says South Korea's 2027 budget strengthens fiscal metrics, but gains may be temporary."
+    },
+    {
+      "id": "5083994",
+      "time": "2026-09-09 09:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股海光芯正漲近30%】港股海光芯正漲近30%，訊息面上，9月7日，公司與格羅方德建立長期戰略合作，推進6.4T NPO產品工程落地及規模化量產；公司已量產交付400G、800G光模組，並推進1.6T產品商業化。"
+    },
+    {
+      "id": "5083993",
+      "time": "2026-09-09 09:41:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【車百會研究院理事長張永偉：智慧汽車產業鏈能力正加速向機器人、低空飛行器遷移】9月9日，車百會研究院理事長張永偉在聚合智慧產業發展大會（2026）上表示，當下，智慧汽車產業鏈能力正加速向機器人、低空飛行器遷移，電機、熱管理、晶片材料等領域的融合路徑已逐步得到驗證。汽車產業向具身智慧產業遷移已成為必然趨勢，如果哪家車企放棄了這種融合，可能會讓自身喪失在產業中創造新價值的能力；對於具身智慧企業而言，如果放棄與汽車產業的融合，其產業化速度和節奏則會變慢，汽車產業可為具身智慧產業提供絕佳的應用空間。"
+    },
+    {
+      "id": "mkt:01a083d4-0658-7118-84f9-4583424e4d4d",
+      "time": "2026-09-09 09:41:45",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share communications equipment sector rose in early trade. Dingxin Communications hit the daily limit (limit-up). Zhaolong Interconnect gained over 10%. Huiyuan Communication, Dongfang Communication and Guanghatong also advanced."
+    },
+    {
+      "id": "5083992",
+      "time": "2026-09-09 09:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股節假日概念股走弱 海底撈跌超11%】截至發稿，海底撈(06862.HK)跌11.07%，同程旅遊(00780.HK)跌4.08%，頤海國際(01579.HK)跌2.64%。"
+    },
+    {
+      "id": "mkt:01a083d2-e1f8-7118-84f9-382d50b59d4f",
+      "time": "2026-09-09 09:40:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share agrochemical sector extended gains; Jinzhengda and Lutianhua locked at the daily limit, while Guangkang Biochemical, Zhejiang Nong Co., Xianda Co., Hebang Bio and Chitianhua also rose."
+    },
+    {
+      "id": "mkt:01a083d2-c6b9-7118-84f9-3238fc83a025",
+      "time": "2026-09-09 09:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt and Jordan welcomed the UK government's decision to ban trade in goods and services linked to Israeli illegal settlements in the occupied Palestinian territories."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093869004214",
+      "time": "2026-09-09 09:39:47",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：8月CPI同比上漲0.8% 主要是受能源價格漲幅擴大影響】國家統計局城市司首席統計師董莉娟解讀2026年8月份CPI和PPI資料稱，從同比看，全國CPI上漲0.8%，漲幅比上月擴大0.3個百分點，主要是受能源價格漲幅擴大影響。能源價格漲幅由上月的0.6%擴大至本月的4.1%，影響CPI同比上漲約0.28個百分點，對CPI的上拉影響比上月增加約0.24個百分點。"
+    },
     {
       "id": "mkt:01a083d2-04c1-7118-84f9-2e9f8b4549ec",
       "time": "2026-09-09 09:39:34",
@@ -202,6 +283,15 @@
         "Importance 2"
       ],
       "text": "China Producer Inflation Above Forecasts — China’s producer inflation accelerated to 3.8% yoy in August 2026, up from July’s three-month low of 3.5% and surpassing market estimates of 3.7%. On a monthly basis, producer prices rose 0.4%, recovering from a 0.7% drop in July. In the first eight months of the year, producer prices rose 2.0%, faster than the 1.8% gain in the previous period."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093868992231",
+      "time": "2026-09-09 09:34:34",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：黃金飾品價格由上月下降2.6%轉為上漲7.6%】國家統計局城市司首席統計師董莉娟表示，從環比看，全國CPI由上月下降0.1%轉為上漲0.4%。受國際市場價格變動影響，國內汽油價格由上月下降10.7%轉為上漲7.2%，影響CPI環比上漲約0.21個百分點；黃金飾品價格由上月下降2.6%轉為上漲7.6%，影響CPI環比上漲約0.04個百分點。"
     },
     {
       "id": "5083982",
@@ -125026,134 +125116,6 @@
         "NVIDIA"
       ],
       "text": "【SK Biopharmaceuticals to deploy 128 NVIDIA B200 GPUs for AI drug R&D; 17 bln won annual subscription via SK Telecom cluster】SK Biopharmaceuticals said on the 2nd it will acquire 128 NVIDIA B200 GPUs, AI accelerators to support AI-driven drug discovery and development. The devices will be provisioned via SK Telecom-built domestic data cluster HAEIN under a 17 billion won contract structured as an annual subscription, supplying the company with AI infrastructure. SK Biopharmaceuticals said it will apply AI across stages from candidate discovery to development and open innovation; if fully leveraged, AI could shorten experiments and analysis and accelerate a process that typically takes more than 10 years."
-    },
-    {
-      "id": "mkt:01a05fc9-79bd-7118-844d-56fcc71d5418",
-      "time": "2026-09-02 09:43:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share planting and forestry sector slipped in early trade; Hualv Bio fell more than 10%, with Dunhuang Seed, Guotou Fengle, Qiule Seed, Kangnong Seed and Denghai Seed also declining."
-    },
-    {
-      "id": "te:markets:580243",
-      "time": "2026-09-02 09:43:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Slide on Middle East Risks — The benchmark KOSPI slipped more than 3% to around 6,630 on Wednesday, reversing gains from the previous session, as escalating US-Iran hostilities pushed oil prices higher and weighed on global risk sentiment. Brent crude climbed above $95 per barrel while WTI rose above $90, raising concerns over energy costs and inflation amid risks of disruptions to oil flows through the Strait of Hormuz. Additionally, the US 10-year Treasury yield climbed to its highest level since January 2025, adding pressure on equities and technology stocks. Samsung Electronics and SK hynix fell more than 2% and nearly 3%, respectively. Notable declines were also recorded in SK Square (-5.2%), Hyundai Motor (-4.1%), LG Energy Solution (-3.0%), Hanwha Aerospace (-1.9%), Doosan Enerbility (-3.4%), and Kia Corporation (-3.8%). South Korea’s annual inflation rose to 3.1% in August from 2.8% in July, although the government estimated price growth at around 2.5% excluding a temporary mobile-bill base effect."
-    },
-    {
-      "id": "5072078",
-      "time": "2026-09-02 09:42:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【種植業與林業板塊盤初下挫 華綠生物跌超10%】種植業與林業板塊盤初下挫，華綠生物跌超10%，敦煌種業、國投豐樂、秋樂種業、康農種業、登海種業跟跌。"
-    },
-    {
-      "id": "mkt:01a05fc7-b3d9-7118-844d-4ae72df58992",
-      "time": "2026-09-02 09:41:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Takata said rising overseas interest rates could push Japan's neutral rate above market expectations and should be monitored."
-    },
-    {
-      "id": "te:economy:580241",
-      "time": "2026-09-02 09:41:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Japan 10-Year Yield Scales 30-Year Highs — Japan’s 10-year government bond yield climbed above 3% on Wednesday, reaching its highest level since 1996 as surging oil prices heightened inflation concerns and strengthened expectations for imminent interest rate hikes. Japan’s deteriorating fiscal outlook, amid the Takaichi administration’s plans for massive spending and tax cuts, also fueled the surge in domestic bond yields. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Higher energy costs exacerbate import-driven inflation in Japan given its reliance on oil imports. Meanwhile, the Bank of Japan is increasingly expected to raise interest rates this month, with US Treasury Secretary Scott Bessent urging BOJ Governor Kazuo Ueda to take “decisive” monetary steps to combat yen weakness."
-    },
-    {
-      "id": "5072077",
-      "time": "2026-09-02 09:41:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化肥板塊震盪走弱，紅四方觸及跌停】化肥板塊震盪走弱，紅四方觸及跌停，潞化科技、瀘天化、農大科技、赤天化、冠農股份、金正大等跟跌。"
-    },
-    {
-      "id": "mkt:01a05fc7-5eb7-7118-844d-467a893048e0",
-      "time": "2026-09-02 09:41:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan policy board member Takata warned that if overseas price-boosting factors emerge, Japanese inflation could rise by more than expected."
-    },
-    {
-      "id": "5072076",
-      "time": "2026-09-02 09:41:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員高田創：需關注海外利率上升可能推高日本中性利率至超出市場預期水平的風險。"
-    },
-    {
-      "id": "5072075",
-      "time": "2026-09-02 09:41:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱打擊巴林美軍基地】伊朗軍方2日表示，已對位於巴林境內的美軍空軍基地發動打擊。 伊朗媒體援引軍方訊息報道稱：“數小時前，伊朗伊斯蘭共和國軍隊使用無人機對巴林謝赫伊薩空軍基地的雷達設施和美軍集結地點發動了密集打擊。”"
-    },
-    {
-      "id": "5072074",
-      "time": "2026-09-02 09:41:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國兩艘瀕海戰鬥艦抵達關塔那摩】當地時間8月31日至9月1日，美國海軍兩艘瀕海戰鬥艦抵達位於古巴關塔那摩灣的美國海軍基地，但並未說明兩艘戰艦此次部署的具體目的或任務內容。美軍此次部署正值美古關係趨於緊張之際，有推測稱，美國正有意加強其在加勒比地區的軍事存在與監視活動。 (央視新聞)"
-    },
-    {
-      "id": "5072073",
-      "time": "2026-09-02 09:40:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【南京銀行股價創歷史新高】南京銀行盤中股價創歷史新高，現漲0.08%，報11.93元，總市值為1473.74億元。"
-    },
-    {
-      "id": "5072072",
-      "time": "2026-09-02 09:40:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "高田創：人工智慧需求要求轉變思維模式。"
-    },
-    {
-      "id": "mkt:01a05fc5-f18b-7118-844d-3fe0efc539b7",
-      "time": "2026-09-02 09:40:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan 10-year government bond yield rose 2 bps to 3.010%, its highest level since September 1996."
     }
   ]
 }
