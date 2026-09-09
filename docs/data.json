@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-10 05:08:47",
-  "count": 13540,
+  "updated": "2026-09-10 05:12:47",
+  "count": 13535,
   "items": [
+    {
+      "id": "mkt:01a08803-7c07-7118-8512-34148fce44d0",
+      "time": "2026-09-10 05:12:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media said it was unclear whether the explosions originated at sea or on Qeshm Island."
+    },
+    {
+      "id": "5085848",
+      "time": "2026-09-10 05:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：格什姆島傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:01a08802-c0ca-7118-8512-29f0f6aac0e4",
+      "time": "2026-09-10 05:11:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media report explosions heard on Qeshm Island."
+    },
+    {
+      "id": "te:markets:582508",
+      "time": "2026-09-10 05:10:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $101 as US-Iran Conflict Escalates — Brent crude rose above $101.5 a barrel on Wednesday for the first time since May, driven by escalating US-Iran tensions. US officials reported that Iran attempted to attack Navy ships on Monday after targeting an aircraft carrier with ballistic missiles over the weekend, in a previously undisclosed wave of attacks. Meanwhile, Iranian state media said a US missile targeted a small oil tanker four miles from Kharg Island on Tuesday. The war broadened this week after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, forcing a temporary halt to some operations. The attacks came after the US military struck three Iranian oil tankers on Saturday in retaliation for Iranian ballistic missile attacks on two Navy warships. Adding to upwards pressures on prices, US crude inventories fell by 0.3 million barrels last week. Meanwhile, Ukrainian drones hit infrastructure in Novorossiysk, Russia’s key oil terminal in the Black Sea, on Wednesday."
+    },
+    {
+      "id": "5085847",
+      "time": "2026-09-10 05:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密蘇里州共和黨繪製的國會選區地圖遭到挑戰，挑戰者請求美國最高法院阻止其在11月中期選舉中使用。"
+    },
+    {
+      "id": "5085846",
+      "time": "2026-09-10 05:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：一名軍方助理意外觸發空軍一號的充氣應急滑梯。"
+    },
+    {
+      "id": "mkt:01a08800-bdae-7118-8512-21bf5b0d0840",
+      "time": "2026-09-10 05:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A military aide on Air Force One accidentally deployed an inflatable emergency slide while President Trump was aboard, sources said."
+    },
     {
       "id": "5085845",
       "time": "2026-09-10 05:07:34",
@@ -123563,136 +123631,6 @@
         "公司"
       ],
       "text": "博通CEO：預計 Anthropic 將於 2027 年再部署 5 吉瓦算力的谷歌 TPU 8I 版本。2028 年，我們有望實現新增 10 吉瓦的交付規模。"
-    },
-    {
-      "id": "5074028",
-      "time": "2026-09-03 05:11:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：未來數年內，每年將交付數百億顆 TPU。"
-    },
-    {
-      "id": "mkt:01a063f6-78a0-7118-846e-63e1c3fb98c6",
-      "time": "2026-09-03 05:11:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said he expects large-scale volume production and deliveries of a Meta Platforms (META.O)-customized MTIA accelerator to begin in Q4."
-    },
-    {
-      "id": "mkt:01a063f6-6388-7118-846e-5b36c76e57a4",
-      "time": "2026-09-03 05:11:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said FY2026 AI-business revenue guidance raised to $58.0 bln from $56.0 bln, implying 186% YoY growth."
-    },
-    {
-      "id": "mkt:01a063f5-9858-7118-846e-57223d0a1501",
-      "time": "2026-09-03 05:10:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said he expects to scale up large shipments of TPU v8I to Google (GOOG.O) in Q4."
-    },
-    {
-      "id": "5074027",
-      "time": "2026-09-03 05:10:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：將 2026 財年人工智慧業務營收指引從 560 億美元上調至 580 億美元，同比增長 186%。"
-    },
-    {
-      "id": "mkt:01a063f5-697a-7118-846e-4c663045928b",
-      "time": "2026-09-03 05:10:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【G20 members adopt Carolina Principles backing US 'light-touch' AI regulation】G20 members on Wednesday unanimously adopted a US‑proposed framework called the Carolina Principles, endorsing sector‑specific, differentiated regulation for AI and other emerging technologies. The framework calls for testing regimes to weigh the costs of delaying deployment and for stronger public‑private cooperation on technology trials. U.S. Commerce Secretary Lutnick said the adoption was an important win for the Trump administration and Silicon Valley; White House tech adviser Michael Kratsios said the U.S. message was to promote global economic growth and innovation. The principles will be submitted for formal adoption by leaders at the G20 summit in Doral, Florida in December, hosted by Trump."
-    },
-    {
-      "id": "5074026",
-      "time": "2026-09-03 05:09:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：預計第四季度將大規模量產交付 Meta 定製版 MTIA 加速器。"
-    },
-    {
-      "id": "mkt:01a063f4-b5ce-7118-846e-429bdbdaa044",
-      "time": "2026-09-03 05:09:36",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company is currently shipping TPU version 8I, ahead of MediaTek's V8T version."
-    },
-    {
-      "id": "5074025",
-      "time": "2026-09-03 05:09:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：預計第四季度將加快向 Anthropic 交付 Ironwood 晶片。"
-    },
-    {
-      "id": "mkt:01a063f4-6012-7118-846e-3e6c18c0e319",
-      "time": "2026-09-03 05:09:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company expects to accelerate shipments to ANTHROPIC in Q4."
-    },
-    {
-      "id": "5074024",
-      "time": "2026-09-03 05:09:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：同時預計第四季度將加大向谷歌批次交付 TPU 8I 版本產品。"
-    },
-    {
-      "id": "mkt:01a063f4-00dd-7118-846e-30755ab194a0",
-      "time": "2026-09-03 05:08:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "AVGO.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company began shipping next-generation TPU v8i to Google (GOOG.O) this quarter."
     }
   ]
 }

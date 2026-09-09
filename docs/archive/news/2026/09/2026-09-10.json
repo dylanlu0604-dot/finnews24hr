@@ -1,7 +1,75 @@
 {
   "date": "2026-09-10",
-  "count": 364,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:01a08803-7c07-7118-8512-34148fce44d0",
+      "time": "2026-09-10 05:12:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media said it was unclear whether the explosions originated at sea or on Qeshm Island."
+    },
+    {
+      "id": "5085848",
+      "time": "2026-09-10 05:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：格什姆島傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:01a08802-c0ca-7118-8512-29f0f6aac0e4",
+      "time": "2026-09-10 05:11:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media report explosions heard on Qeshm Island."
+    },
+    {
+      "id": "te:markets:582508",
+      "time": "2026-09-10 05:10:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $101 as US-Iran Conflict Escalates — Brent crude rose above $101.5 a barrel on Wednesday for the first time since May, driven by escalating US-Iran tensions. US officials reported that Iran attempted to attack Navy ships on Monday after targeting an aircraft carrier with ballistic missiles over the weekend, in a previously undisclosed wave of attacks. Meanwhile, Iranian state media said a US missile targeted a small oil tanker four miles from Kharg Island on Tuesday. The war broadened this week after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, forcing a temporary halt to some operations. The attacks came after the US military struck three Iranian oil tankers on Saturday in retaliation for Iranian ballistic missile attacks on two Navy warships. Adding to upwards pressures on prices, US crude inventories fell by 0.3 million barrels last week. Meanwhile, Ukrainian drones hit infrastructure in Novorossiysk, Russia’s key oil terminal in the Black Sea, on Wednesday."
+    },
+    {
+      "id": "5085847",
+      "time": "2026-09-10 05:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密蘇里州共和黨繪製的國會選區地圖遭到挑戰，挑戰者請求美國最高法院阻止其在11月中期選舉中使用。"
+    },
+    {
+      "id": "5085846",
+      "time": "2026-09-10 05:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：一名軍方助理意外觸發空軍一號的充氣應急滑梯。"
+    },
+    {
+      "id": "mkt:01a08800-bdae-7118-8512-21bf5b0d0840",
+      "time": "2026-09-10 05:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A military aide on Air Force One accidentally deployed an inflatable emergency slide while President Trump was aboard, sources said."
+    },
     {
       "id": "5085845",
       "time": "2026-09-10 05:07:34",
