@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-08 10:00:14",
+  "updated": "2026-09-09 09:03:43",
   "items": [
+    {
+      "id": "2026090909",
+      "date": "2026-09-09",
+      "run_hour": 9,
+      "started_at": "2026-09-09 09:03:25",
+      "finished_at": "2026-09-09 09:03:43",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 6,
+      "failure_count": 6,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉升息疑慮升溫 油價逼近100美元 道瓊重挫近630點 費半逆升1.3% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6601226",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-09"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-09-08，預期日期是 2026-09-09",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-09",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-09-08，預期日期是 2026-09-09",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-09-04，預期日期是 2026-09-08",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-04"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/229514",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-09"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202609090525092462.shtml",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-09"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-september-08-2026/",
+          "expected_date": "2026-09-08",
+          "actual_date": "2026-09-08"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/08/WBC_MorningReport09Sep2026.pdf",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-09"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260909.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-09",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-09-08，預期日期是 2026-09-09",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-09",
+          "actual_date": "2026-09-08"
+        }
+      ]
+    },
     {
       "id": "2026090809",
       "date": "2026-09-08",
