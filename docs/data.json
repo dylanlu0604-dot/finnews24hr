@@ -1,7 +1,138 @@
 {
-  "updated": "2026-09-09 19:13:26",
-  "count": 13872,
+  "updated": "2026-09-09 19:17:17",
+  "count": 13870,
   "items": [
+    {
+      "id": "mkt:01a085e2-3c91-7118-8506-95a6a8592e55",
+      "time": "2026-09-09 19:16:31",
+      "tags": [
+        "MKT News",
+        "6723.T",
+        "Impact mixed"
+      ],
+      "text": "【Renesas Electronics issues further price-increase notice】Renesas Electronics will adjust product prices, with new prices effective Jan 1, 2027. The company previously issued a price increase in March that took effect July 1. Renesas cited ongoing structural cost pressures in raw materials, energy, advanced packaging, manufacturing capacity and global logistics."
+    },
+    {
+      "id": "mkt:01a085e1-f957-7118-8506-8be0e008c390",
+      "time": "2026-09-09 19:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham says sanctions on Israel demonstrate the UK's leadership on the international stage."
+    },
+    {
+      "id": "mkt:01a085e1-a79d-7118-8506-87b1d9b8f9f4",
+      "time": "2026-09-09 19:15:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Angolan finance minister said the government hopes, if conditions allow, to return to the European bond market in 2027. He said Angola will seek to keep oil production above 1 million barrels per day, but expects 2027 output to be slightly below current levels."
+    },
+    {
+      "id": "5085075",
+      "time": "2026-09-09 19:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉預計將把2027年預算中的油價假設從目前的每桶61美元上調。"
+    },
+    {
+      "id": "5085074",
+      "time": "2026-09-09 19:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉石油部長表示，安哥拉計劃將石油產量維持在每日100萬桶以上，預計2027年石油產量將略低於當前水平。"
+    },
+    {
+      "id": "mkt:01a085e0-9d68-7118-8506-7e797e8d61f9",
+      "time": "2026-09-09 19:14:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran to set up new maritime \"sanctions area\"】An Islamic Revolutionary Guard Corps spokesman said on the 9th Iran will establish a new maritime \"sanctions area\" beginning at Chabahar port and extending into parts of the Gulf of Oman and the Arabian Sea; coordinates will be announced later."
+    },
+    {
+      "id": "5085073",
+      "time": "2026-09-09 19:14:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞薩電子再發漲價函】近日，功率大廠瑞薩電子宣佈對產品價格體系進行調整，新價格將於2027年1月1日起正式生效。今年3月，該廠也曾釋出漲價通知，並於今年7月1日生效。瑞薩在此次通知中提到，目前行業仍面臨原材料、能源、先進封裝、製造產能以及全球物流等方面的結構性成本上漲。"
+    },
+    {
+      "id": "5085072",
+      "time": "2026-09-09 19:14:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱將設立新的海上“制裁區域”】伊朗伊斯蘭革命衛隊發言人9日表示，伊朗將設立新的海上“制裁區域”，該區域從恰巴哈爾港開始，延伸到阿曼灣和阿拉伯海部分海域。座標另行公佈。（新華社）"
+    },
+    {
+      "id": "mkt:01a085e0-00d6-7118-8506-7293b520f269",
+      "time": "2026-09-09 19:14:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "In the past few hours Iran launched a drone at an oil tanker near Iraq and launched another drone at an oil tanker near the UAE."
+    },
+    {
+      "id": "te:economy:582398",
+      "time": "2026-09-09 19:13:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Fall Most in 1 Month — The volume of mortgage applications in the US fell by 2.7% in the first week of September, the sharpest decline in a little over one month, according to data compiled by the Mortgage Bankers Association. The result was aligned with the sharp increase in mortgage rates in the period, with that on the benchmark 30-year fixed rate averaging a 15-month high of 6.58%. Yields on longer maturity Treasury securities soared at the turn of the month as high energy prices, elevated debt supply, and widening deficits limited exposure to duration in fixed income. Consequently, 8.5% of all applications were adjustable-rate mortgages, the largest ratio since June last year. Applications to refinance a mortgage, which are more sensitive to short-term changes in interest rates, fell by 6%. In turn, applications for a mortgage to buy a home were nearly flat."
+    },
+    {
+      "id": "5085071",
+      "time": "2026-09-09 19:13:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、俄羅斯總統普京與美國總統特朗普8日通電話，重點討論解決烏克蘭問題。普京在通話中指出美方可採取哪些措施推動儘早結束特別軍事行動。\n2、美國總統特朗普簽署公告，宣佈調整對加拿大部分產品徵收50%額外從價關稅的適用範圍，相關調整將於9月15日起生效。\n3、一名美國官員表示，在美國宣佈對加拿大采取額外貿易舉措後，特朗普總統正在研究針對龐巴迪飛機的選項方案。\n4、特朗普政府高階官員：美國在過去幾日與加拿大部長勒布朗進行了會談。\n5、特朗普指示政府採購剔除加拿大產品。\n6、特朗普重申對伊朗的封鎖“非常有效”。\n7、特朗普：美國商務部長盧特尼克“有一些缺點”，但總體來說非常優秀。\n8、根據特朗普政府公佈的財務披露檔案，唐納德·特朗普向其行政助理娜塔莉·哈普（Natalie Harp）以及另外兩名年輕、忠誠的白宮僱員各贈予了45000美元的現金。"
+    },
+    {
+      "id": "5085070",
+      "time": "2026-09-09 19:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：過去數小時內，伊朗向伊拉克附近的一艘油輪以及阿聯酋附近的另一艘油輪發射無人機。"
+    },
+    {
+      "id": "5085069",
+      "time": "2026-09-09 19:13:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月8日海外投資者淨買入印度股票72.7億印度盧比。"
+    },
+    {
+      "id": "5085068",
+      "time": "2026-09-09 19:13:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相安迪·伯納姆在首相質詢環節表示：我們不會放棄迪戈加西亞基地；我們將始終尊重福克蘭群島作為英國屬地的權利，並將堅持不懈地捍衛這一權利。"
+    },
     {
       "id": "5085067",
       "time": "2026-09-09 19:12:53",
@@ -126421,147 +126552,6 @@
         "國際"
       ],
       "text": "【亞洲最大可可加工商警告：厄爾尼諾或導致全球可可市場再現供應缺口】亞洲最大的可可加工商表示，隨著厄爾尼諾現象不斷增強，威脅主要可可產區的產量，全球可可市場可能在三年來首次出現供應短缺。馬來西亞可可加工企業源宗集團執行長Tay表示，2026-2027年度全球可可市場預計將出現30萬至40萬噸的供應缺口，相比之下，上一年可可供應過剩約10萬噸，農作物面臨的天氣風險預計將與需求趨穩同時出現。可可期貨價格已連續六個月上漲，本週觸及去年10月以來最高水平。預計供應趨緊將進一步推動價格上漲。Tay預計，到12月可可期貨價格可能升至每噸約8000美元，目前約為6500美元。"
-    },
-    {
-      "id": "5073210",
-      "time": "2026-09-02 19:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：本屆政府將堅持財政規則。"
-    },
-    {
-      "id": "5073209",
-      "time": "2026-09-02 19:17:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆： 我們正採取行動降低債務規模。"
-    },
-    {
-      "id": "5073208",
-      "time": "2026-09-02 19:16:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨迅速收窄部分跌幅。"
-    },
-    {
-      "id": "5073207",
-      "time": "2026-09-02 19:16:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：因交易價格溢價 9月2日起臨時停牌】納指ETF嘉實公告稱，2026年9月1日，本基金二級市場收盤價為2.108元，收盤時基金份額參考淨值（IOPV）為1.8705元，二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。為保護投資者利益，本基金將於2026年9月2日開市起停牌，自2026年9月2日10:30起復牌，停牌期間贖回業務照常辦理。若2026年9月2日溢價幅度未有效回落，基金管理人有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
-    },
-    {
-      "id": "5073206",
-      "time": "2026-09-02 19:16:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：因交易價格溢價將臨時停牌】納指科技ETF景順公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月2日，基金二級市場收盤價為2.774元，收盤時基金份額參考淨值為2.2345元。基金將於2026年9月3日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
-    },
-    {
-      "id": "5073205",
-      "time": "2026-09-02 19:16:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：因交易價格溢價 9月3日起臨時停牌】納指ETF嘉實公告稱，旗下嘉實納斯達克100交易型開放式指數證券投資基金（QDII）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月2日，該基金二級市場收盤價為2.084元，收盤時基金份額參考淨值（IOPV）為1.8456元。為保護投資者利益，基金將於2026年9月3日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若9月3日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施警示風險。"
-    },
-    {
-      "id": "5073204",
-      "time": "2026-09-02 19:16:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指ETF國泰(513100)將於2026年9月3日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:01a061d5-2949-7118-845d-43cafb220fe2",
-      "time": "2026-09-02 19:15:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK Prime Minister Burnham said the government will stick to its fiscal rules."
-    },
-    {
-      "id": "5073203",
-      "time": "2026-09-02 19:15:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "美、布兩油日內均跌超1%，現分別報88.48美元/桶和93.44美元/桶。"
-    },
-    {
-      "id": "mkt:01a061d5-078e-7118-845d-3dfe46cc62e0",
-      "time": "2026-09-02 19:15:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Both WTI and Brent slid more than 1% intraday; WTI $88.48/bbl, Brent $93.44/bbl."
-    },
-    {
-      "id": "5073202",
-      "time": "2026-09-02 19:15:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國天楹：控股股東及一致行動人持股比例升至25%】中國天楹公告稱，2026年8月12日至2026年9月1日期間，公司控股股東南通乾創透過集中競價方式增持公司股份623.93萬股，佔公司總股本的0.26%，一致行動人嚴聖軍、南通坤德未增持。本次權益變動後，南通乾創及其一致行動人合計持有公司股份59700.8245萬股，持股比例由24.74%上升至25.00%，變動觸及5%刻度的整數倍。本次增持為履行此前披露的增持計劃，該增持計劃尚未實施完畢。"
-    },
-    {
-      "id": "5073201",
-      "time": "2026-09-02 19:15:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "HUMAIN：攜手共進，HUMAIN與SLB致力於加速能源企業智慧部署。"
-    },
-    {
-      "id": "5073200",
-      "time": "2026-09-02 19:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗的雷扎伊：“這般徒勞掙扎之下，你們非但無法掙脫自己親手造就的地獄深淵，很快還將看到，伊朗在戰場、外交以及反擊經濟封鎖方面的全新戰略，會將你們的根基徹底摧毀。”"
-    },
-    {
-      "id": "5073199",
-      "time": "2026-09-02 19:14:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華住集團：暑期酒店接待人次超7200萬 入境遊客同比增長近55%】9月2日，華住集團披露資料顯示，今年暑期（7月1日—8月26日），華住旗下品牌酒店總體接待人次超7200萬，日均接待人次超126萬；整體入住率保持85%以上高位，8月19日達到接待峰值，全國酒店入住率超97%。入境遊增長亮眼，旗下酒店累計接待入境遊客同比增長近55%。"
-    },
-    {
-      "id": "5073198",
-      "time": "2026-09-02 19:13:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "休曼（HUMAIN）與斯倫貝謝（SLB）開展合作，推進能源領域的工業人工智慧技術發展。"
-    },
-    {
-      "id": "5073197",
-      "time": "2026-09-02 19:13:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：南桑威奇群島地區發生5.2級地震。"
     }
   ]
 }
