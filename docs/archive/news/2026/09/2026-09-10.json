@@ -1,7 +1,59 @@
 {
   "date": "2026-09-10",
-  "count": 150,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:01a08758-3978-7118-850f-08d83104c99f",
+      "time": "2026-09-10 02:05:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo usable in a partially folded state."
+    },
+    {
+      "id": "5085659",
+      "time": "2026-09-10 02:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 支援半摺疊使用。"
+    },
+    {
+      "id": "mkt:01a08757-32b6-7118-850f-00b908f260bd",
+      "time": "2026-09-10 02:03:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition in Yemen said on Wednesday Houthi forces used ballistic missiles and drones to strike the Saudi cities Khamis Mushait, Abha and Jizan."
+    },
+    {
+      "id": "5085658",
+      "time": "2026-09-10 02:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 將支援多應用分視窗同時執行，提升生產力。"
+    },
+    {
+      "id": "5085657",
+      "time": "2026-09-10 02:03:14",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特領導的葉門聯軍稱，胡塞武裝於週三使用彈道導彈和無人機襲擊了沙特的海米斯穆謝特、艾卜哈以及吉贊等城市。"
+    },
     {
       "id": "mkt:01a08755-ed9d-7118-850e-fd04fc29261c",
       "time": "2026-09-10 02:02:30",

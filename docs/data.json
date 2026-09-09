@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10 02:04:02",
-  "count": 13579,
+  "updated": "2026-09-10 02:08:00",
+  "count": 13575,
   "items": [
+    {
+      "id": "mkt:01a08758-3978-7118-850f-08d83104c99f",
+      "time": "2026-09-10 02:05:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): iPhone Duo usable in a partially folded state."
+    },
+    {
+      "id": "5085659",
+      "time": "2026-09-10 02:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 支援半摺疊使用。"
+    },
+    {
+      "id": "mkt:01a08757-32b6-7118-850f-00b908f260bd",
+      "time": "2026-09-10 02:03:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition in Yemen said on Wednesday Houthi forces used ballistic missiles and drones to strike the Saudi cities Khamis Mushait, Abha and Jizan."
+    },
+    {
+      "id": "5085658",
+      "time": "2026-09-10 02:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone Duo 將支援多應用分視窗同時執行，提升生產力。"
+    },
+    {
+      "id": "5085657",
+      "time": "2026-09-10 02:03:14",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特領導的葉門聯軍稱，胡塞武裝於週三使用彈道導彈和無人機襲擊了沙特的海米斯穆謝特、艾卜哈以及吉贊等城市。"
+    },
     {
       "id": "mkt:01a08755-ed9d-7118-850e-fd04fc29261c",
       "time": "2026-09-10 02:02:30",
@@ -123914,107 +123966,6 @@
         "國際"
       ],
       "text": "美國財政部頒發多種委內瑞拉通用許可證。"
-    },
-    {
-      "id": "5073888",
-      "time": "2026-09-03 02:07:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌海洋作業公司收購美洲灣一處勘探區塊30%權益。"
-    },
-    {
-      "id": "5073886",
-      "time": "2026-09-03 02:06:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國批准就委內瑞拉部分煤炭投資開展談判。"
-    },
-    {
-      "id": "5073885",
-      "time": "2026-09-03 02:06:11",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美聯儲褐皮書重要資訊一覽：美國經濟小幅溫和擴張，消費分化，關稅推升成本壓力】\n1、整體經濟：12個轄區中8個小幅至溫和增長，較前三輪明顯改善；假日消費拉動支出，高收入群體消費強勁，中低收入群體價格敏感。\n2、就業市場：整體持平，8個轄區招聘無變化；企業多為補崗而非擴招，熟練工短缺；AI對就業影響有限，薪資增速回歸\"正常\"。\n3、物價壓力：絕大多數轄區物價溫和上漲；關稅成本是共同主題，企業開始向消費者轉嫁，但零售、餐飲等行業因客戶敏感而猶豫；能源和保險成本持續擠壓利潤。\n4、行業分化：製造業5個增長、6個收縮；銀行業穩定向好，信用卡和商業貸款需求上升；住宅地產多數走弱；農業基本持平，能源需求持平或小幅回落。\n5、轄區亮點：費城從收縮轉為增長；聖路易斯因政府停擺結束和假日銷售回暖；紐約仍溫和收縮；達拉斯銀行業表現突出但前景謹慎。\n6、未來展望：多數機構預計未來數月小幅至溫和增長，對前景持溫和樂觀態度。"
-    },
-    {
-      "id": "mkt:01a0634c-611a-7118-846b-15ed1723e977",
-      "time": "2026-09-03 02:05:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Fed's Beige Book: Outlook broadly positive but uncertainty rising】The Fed's Beige Book said US economic activity expanded modestly since early July; 10 of 12 districts reported slight-to-moderate growth and two were flat. Consumer spending edged up but price sensitivity increased; high-end consumption remained firm while auto sales weakened amid softer confidence, higher gasoline prices and rising financing costs. Manufacturing rebounded in most districts, with several citing strong defense- and data-center-related orders. Employment growth slowed, with overall payrolls only slightly higher; labor demand was stronger in manufacturing and construction but weaker in retail and hospitality. Most districts reported moderate price increases, with cost pressure from energy, transportation, raw materials and tariffs. Firms expect a generally positive near-term outlook but flagged uncertainty from energy prices, policy and international conflicts."
-    },
-    {
-      "id": "mkt:01a0634c-337d-7118-846b-0cf1ce9b1faf",
-      "time": "2026-09-03 02:05:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "FED'S BEIGE: Since early July, economic activity has expanded modestly."
-    },
-    {
-      "id": "mkt:01a0634c-332f-7118-846b-0512d9607e0f",
-      "time": "2026-09-03 02:05:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "FED'S BEIGE: Overall outlook for the next few months is positive, but sentiment is mixed across sectors; respondents report increased uncertainty about the impact of rising energy prices."
-    },
-    {
-      "id": "mkt:01a0634c-3313-7118-846a-f89370114a6f",
-      "time": "2026-09-03 02:05:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "FED'S BEIGE: Prices rose moderately in eight Fed districts, modestly in two, slightly in one and markedly in one."
-    },
-    {
-      "id": "mkt:01a0634c-2d47-7118-846a-f598b5b0f59e",
-      "time": "2026-09-03 02:05:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "FED'S BEIGE: Overall employment ticked up. Three Federal Reserve districts reported modest increases, four reported slight increases, and five reported no change."
-    },
-    {
-      "id": "mkt:01a0634b-f825-7118-846a-ef1005f5e3c5",
-      "time": "2026-09-03 02:05:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "SHEL.N"
-      ],
-      "text": "Shell (SHEL.N) announced it will acquire a 30% stake in the Conifer project."
     }
   ]
 }
