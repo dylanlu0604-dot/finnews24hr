@@ -1,7 +1,35 @@
 {
   "date": "2026-09-10",
-  "count": 210,
+  "count": 213,
   "items": [
+    {
+      "id": "mkt:01a0877b-1f24-7118-850f-de1724e0b997",
+      "time": "2026-09-10 02:43:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $101.21/bbl, up $3.29 or 3.36%."
+    },
+    {
+      "id": "mkt:01a08778-de5b-7118-850f-d528ae22d8e8",
+      "time": "2026-09-10 02:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Putin hopes to reach an agreement on Ukraine."
+    },
+    {
+      "id": "5085687",
+      "time": "2026-09-10 02:40:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部官員：基準情景下，該國 2026 年經濟增速預期為 1.4%。"
+    },
     {
       "id": "5085686",
       "time": "2026-09-10 02:38:39",

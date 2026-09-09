@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-10 02:39:50",
-  "count": 13556,
+  "updated": "2026-09-10 02:43:46",
+  "count": 13555,
   "items": [
+    {
+      "id": "mkt:01a0877b-1f24-7118-850f-de1724e0b997",
+      "time": "2026-09-10 02:43:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $101.21/bbl, up $3.29 or 3.36%."
+    },
+    {
+      "id": "mkt:01a08778-de5b-7118-850f-d528ae22d8e8",
+      "time": "2026-09-10 02:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Putin hopes to reach an agreement on Ukraine."
+    },
+    {
+      "id": "5085687",
+      "time": "2026-09-10 02:40:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部官員：基準情景下，該國 2026 年經濟增速預期為 1.4%。"
+    },
     {
       "id": "5085686",
       "time": "2026-09-10 02:38:39",
@@ -123765,44 +123793,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude futures settled at $95.63 per barrel, up $0.98, or 1.04%."
-    },
-    {
-      "id": "mkt:01a0636e-617f-7118-846c-1ef130736e83",
-      "time": "2026-09-03 02:42:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "The three major U.S. stock indexes were little changed."
-    },
-    {
-      "id": "mkt:01a0636d-2f78-7118-846c-129db7b4d660",
-      "time": "2026-09-03 02:41:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump finished remarks at the White House."
-    },
-    {
-      "id": "mkt:01a0636c-d693-7118-846c-0ceaf9fae4eb",
-      "time": "2026-09-03 02:41:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he was speaking off the cuff when asked how serious he was about renaming the strait."
-    },
-    {
-      "id": "mkt:01a0636b-e20e-7118-846c-05a8668d4b9c",
-      "time": "2026-09-03 02:40:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump concluded his speech at the White House."
     }
   ]
 }
