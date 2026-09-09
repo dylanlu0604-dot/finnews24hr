@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-10 02:35:49",
-  "count": 13559,
+  "updated": "2026-09-10 02:39:50",
+  "count": 13556,
   "items": [
+    {
+      "id": "5085686",
+      "time": "2026-09-10 02:38:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 310 億立方英尺。"
+    },
+    {
+      "id": "mkt:01a08774-6bbe-7118-850f-cfb1b9ab22d1",
+      "time": "2026-09-10 02:35:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said gasoline prices will take more time to come down."
+    },
     {
       "id": "mkt:01a08773-3254-7118-850f-c03375307635",
       "time": "2026-09-10 02:34:28",
@@ -123782,52 +123803,6 @@
         "MKT News"
       ],
       "text": "Trump concluded his speech at the White House."
-    },
-    {
-      "id": "mkt:01a0636b-0db9-7118-846b-f87924a52ef9",
-      "time": "2026-09-03 02:39:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said the stock market has not been affected, could have been higher, and asserted that stocks will rise."
-    },
-    {
-      "id": "mkt:01a0636a-aca3-7118-846b-f758f17c980c",
-      "time": "2026-09-03 02:38:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The New York Times reports documents and training videos show hundreds of Department of Homeland Security (DHS) federal agents have been scheduled for a weeks-long intensive operation to investigate whether non-citizens are among registered voters nationwide, despite no evidence of widespread election fraud."
-    },
-    {
-      "id": "5073928",
-      "time": "2026-09-03 02:38:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "記者：您將霍爾木茲海峽更名為“特朗普海峽”的想法有多認真？\n\n特朗普：我只是隨口一說。"
-    },
-    {
-      "id": "mkt:01a06369-164e-7118-846b-ef4bcb9f697b",
-      "time": "2026-09-03 02:37:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump will travel to Alaska to campaign for incumbent Senator Dan Sullivan."
-    },
-    {
-      "id": "5073927",
-      "time": "2026-09-03 02:36:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大選前三十天內將開展多場競選造勢活動。"
     }
   ]
 }

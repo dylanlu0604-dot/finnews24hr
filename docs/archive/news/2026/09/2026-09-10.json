@@ -1,7 +1,28 @@
 {
   "date": "2026-09-10",
-  "count": 208,
+  "count": 210,
   "items": [
+    {
+      "id": "5085686",
+      "time": "2026-09-10 02:38:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 310 億立方英尺。"
+    },
+    {
+      "id": "mkt:01a08774-6bbe-7118-850f-cfb1b9ab22d1",
+      "time": "2026-09-10 02:35:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said gasoline prices will take more time to come down."
+    },
     {
       "id": "mkt:01a08773-3254-7118-850f-c03375307635",
       "time": "2026-09-10 02:34:28",
