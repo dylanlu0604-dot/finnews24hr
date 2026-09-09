@@ -1,7 +1,31 @@
 {
   "date": "2026-09-10",
-  "count": 371,
+  "count": 374,
   "items": [
+    {
+      "id": "5085849",
+      "time": "2026-09-10 05:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府指控加州大學伯克利分校法學院在招生中偏袒黑人申請者。"
+    },
+    {
+      "id": "mkt:01a08806-0f6a-7118-8512-42d977aef8fb",
+      "time": "2026-09-10 05:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning and budget minister said the new measures will impose a fiscal cost of about 5 bln reais for diesel; gasoline and ethanol tax cuts will cost about 2 bln reais."
+    },
+    {
+      "id": "mkt:01a08805-ea16-7118-8512-3cc2af6c363c",
+      "time": "2026-09-10 05:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning and budget minister said two diesel subsidies will be implemented by month-end. A BRL1.00/liter subsidy will be added on top of a BRL1.12/liter subsidy."
+    },
     {
       "id": "mkt:01a08803-7c07-7118-8512-34148fce44d0",
       "time": "2026-09-10 05:12:04",

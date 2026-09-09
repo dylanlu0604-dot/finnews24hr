@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-10 05:12:47",
-  "count": 13535,
+  "updated": "2026-09-10 05:16:48",
+  "count": 13524,
   "items": [
+    {
+      "id": "5085849",
+      "time": "2026-09-10 05:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府指控加州大學伯克利分校法學院在招生中偏袒黑人申請者。"
+    },
+    {
+      "id": "mkt:01a08806-0f6a-7118-8512-42d977aef8fb",
+      "time": "2026-09-10 05:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning and budget minister said the new measures will impose a fiscal cost of about 5 bln reais for diesel; gasoline and ethanol tax cuts will cost about 2 bln reais."
+    },
+    {
+      "id": "mkt:01a08805-ea16-7118-8512-3cc2af6c363c",
+      "time": "2026-09-10 05:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning and budget minister said two diesel subsidies will be implemented by month-end. A BRL1.00/liter subsidy will be added on top of a BRL1.12/liter subsidy."
+    },
     {
       "id": "mkt:01a08803-7c07-7118-8512-34148fce44d0",
       "time": "2026-09-10 05:12:04",
@@ -123492,145 +123516,6 @@
         "公司"
       ],
       "text": "博通CEO：2027 年，我們已落實供應鏈保障，人工智慧業務營收有望翻倍至約 1150 億美元。"
-    },
-    {
-      "id": "mkt:01a063fb-47c1-7118-846e-92854116d994",
-      "time": "2026-09-03 05:16:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company is working with OpenAI to develop a third-generation XPU."
-    },
-    {
-      "id": "mkt:01a063fa-f7be-7118-846e-8faea8c8da21",
-      "time": "2026-09-03 05:16:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said OpenAI is expected to deploy more than 5 GW of Jelapeno and its next-generation XPUs by 2028."
-    },
-    {
-      "id": "5074036",
-      "time": "2026-09-03 05:16:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：公司仍按計劃將於 28 財年第四季度實現 GAAP 會計準則下盈利。"
-    },
-    {
-      "id": "5074035",
-      "time": "2026-09-03 05:15:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：預計到 2028 年 Meta 將實現 3 吉瓦的部署規模。"
-    },
-    {
-      "id": "mkt:01a063fa-71b9-7118-846e-805997de9492",
-      "time": "2026-09-03 05:15:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said OpenAI's Jalapeno project is proceeding as planned and is expected to deploy 1.3 GW in 2027."
-    },
-    {
-      "id": "5074034",
-      "time": "2026-09-03 05:15:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：從現在至 2027 年底，我們將向 Meta 交付三代 MTIA 加速器。"
-    },
-    {
-      "id": "mkt:01a063f9-b7e6-7118-846e-7e867f085f93",
-      "time": "2026-09-03 05:15:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) chief executive said ANTHROPIC is expected to be the company's largest XPU customer in 2027 and to remain so in 2028."
-    },
-    {
-      "id": "mkt:01a063f9-aabe-7118-846e-765127c65071",
-      "time": "2026-09-03 05:15:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company will have a clear line of sight to supply an additional 10 GW by 2028."
-    },
-    {
-      "id": "5074033",
-      "time": "2026-09-03 05:14:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：我們正與 OpenAI 合作開發第三代 XPU。"
-    },
-    {
-      "id": "5074032",
-      "time": "2026-09-03 05:14:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：2028 年，我們預計 OpenAI 將部署超過 5 吉瓦算力的 Jalapeno 及其下一代 XPU 產品。"
-    },
-    {
-      "id": "5074031",
-      "time": "2026-09-03 05:14:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：OpenAI 的 Jalapeno 專案按計劃將於 2027 年完成 1.3 吉瓦的部署。"
-    },
-    {
-      "id": "mkt:01a063f8-933b-7118-846e-6f8bb5d281e9",
-      "time": "2026-09-03 05:13:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO expects ANTHROPIC to deploy an additional 5GW of Google's TPU v8i in 2027."
-    },
-    {
-      "id": "5074030",
-      "time": "2026-09-03 05:13:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：Anthropic 有望在 2027 年成為我們最大的 XPU 客戶，並在 2028 年維持這一地位。"
-    },
-    {
-      "id": "5074029",
-      "time": "2026-09-03 05:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：預計 Anthropic 將於 2027 年再部署 5 吉瓦算力的谷歌 TPU 8I 版本。2028 年，我們有望實現新增 10 吉瓦的交付規模。"
     }
   ]
 }
