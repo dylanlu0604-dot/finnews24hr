@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-09 13:55:01",
-  "count": 13656,
+  "updated": "2026-09-09 13:58:55",
+  "count": 13652,
   "items": [
+    {
+      "id": "5084289",
+      "time": "2026-09-09 13:57:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量612億元。"
+    },
+    {
+      "id": "mkt:01a084bc-9583-7118-84fe-6d7e2085b607",
+      "time": "2026-09-09 13:55:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share precious metals sector surged in the afternoon; Hunan Gold hit the daily limit, with Xiaocheng Technology, Zhongjin Gold, Zijin Mining and Hengbang Co. also rallying."
+    },
+    {
+      "id": "5084288",
+      "time": "2026-09-09 13:55:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金概念午後異動拉昇 萊紳通靈漲停】黃金概念午後異動拉昇，萊紳通靈漲停，湖南黃金、招金黃金、曼卡龍、紫金礦業、華鈺礦業跟漲。"
+    },
+    {
+      "id": "5084287",
+      "time": "2026-09-09 13:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年國家基本醫保藥品目錄談判競價協商收官】9月5日—9月8日，國家醫保局組織開展2026年國家基本醫保藥品目錄現場談判競價，上百家內外資企業現場參與，124個目錄外藥品入圍談判競價環節，一些社會關注的腫瘤、罕見病、慢性病，以及兒童用藥等重點領域創新藥參與談判，並有望納入醫保目錄。同時，商業健康保險創新藥品目錄調整工作也同步開展，12個藥品入圍現場價格協商。2026年國家醫保藥品目錄和商保創新藥目錄預計將於今年11月釋出，2027年1月1日起正式施行。"
+    },
+    {
+      "id": "mkt:01a084bb-a886-7118-84fe-6173d6a182f9",
+      "time": "2026-09-09 13:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's negotiations and competitive-bidding consultations for the 2026 national basic medical insurance drug list have concluded."
+    },
     {
       "id": "5084286",
       "time": "2026-09-09 13:53:28",
@@ -124466,89 +124516,6 @@
         "其他"
       ],
       "text": "【重慶市釋出森林（草原）火險橙色預警】重慶市森林草原防滅火指揮部、重慶市應急管理局、重慶市林業局、重慶市氣象局2026年9月2日12時聯合釋出“森林草原火險橙色預警訊號”。重慶兩江新區、大渡口、沙坪壩、九龍坡、南岸、北碚、巴南、高新區、潼南、合川、銅梁、大足、榮昌、永川、璧山、江津、綦江、萬盛、南川、長壽、涪陵、墊江、豐都、梁平、忠縣、萬州、開州、雲陽、奉節、巫溪、巫山、武隆、彭水、石柱、黔江等35個區縣已出現高森林草原火險氣象等級。預計9月2日到9日上述區縣仍將持續高或極高森林草原火險氣象等級，發生森林草原火災的風險高。"
-    },
-    {
-      "id": "mkt:01a060b2-87c8-7118-8453-a4d055379918",
-      "time": "2026-09-02 13:58:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH says Indonesian financial firms are prepared to withstand the impact of higher funding costs in 2027."
-    },
-    {
-      "id": "5072411",
-      "time": "2026-09-02 13:57:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碧澄能源完成數億元C1輪融資】9月2日，碧澄能源宣佈完成數億元C1輪融資，由中海基金領投，成都交通投資集團、兗礦資本跟投。"
-    },
-    {
-      "id": "5072410",
-      "time": "2026-09-02 13:57:55",
-      "tags": [],
-      "text": "【尼泊爾泥石流已致1118人死亡 4858人失聯】尼泊爾警方2日在社交媒體發文，截至當地時間當天早8時，該國泥石流受災地區已發現1118具遇難者遺體，另有4858人失聯。（新華社）"
-    },
-    {
-      "id": "5072409",
-      "time": "2026-09-02 13:57:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：印尼金融企業需做好應對2027年融資成本上升衝擊的準備。"
-    },
-    {
-      "id": "mkt:01a060b1-1f01-7118-8453-9957d1b25d57",
-      "time": "2026-09-02 13:56:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israeli Defense Forces (IDF) said its troops will continue operations in the area and will not allow terrorists there to advance or attack Israeli soldiers."
-    },
-    {
-      "id": "mkt:01a060b0-d462-7118-8453-973ec1d0314b",
-      "time": "2026-09-02 13:56:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it struck Hezbollah infrastructure in the Nabatieh area of southern Lebanon in response to the attack."
-    },
-    {
-      "id": "mkt:01a060b0-6840-7118-8453-88c322d34dea",
-      "time": "2026-09-02 13:56:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said soldiers fired and shot down one drone; no Israeli casualties reported."
-    },
-    {
-      "id": "mkt:01a060b0-0a76-7118-8453-8358de77649b",
-      "time": "2026-09-02 13:55:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israel Defense Forces said Hezbollah fired two explosive-laden drones at Israeli soldiers inside the security zone; the IDF subsequently struck Hezbollah targets."
-    },
-    {
-      "id": "5072408",
-      "time": "2026-09-02 13:55:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念區域性回暖 大位科技漲停】午後算力租賃概念區域性回暖，大位科技漲停，此前競業達4連板，揚電科技、品高股份、東方材料、銅牛資訊、行雲科技跟漲。"
     }
   ]
 }

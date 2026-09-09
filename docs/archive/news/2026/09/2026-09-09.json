@@ -1,7 +1,57 @@
 {
   "date": "2026-09-09",
-  "count": 1221,
+  "count": 1226,
   "items": [
+    {
+      "id": "5084289",
+      "time": "2026-09-09 13:57:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量612億元。"
+    },
+    {
+      "id": "mkt:01a084bc-9583-7118-84fe-6d7e2085b607",
+      "time": "2026-09-09 13:55:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share precious metals sector surged in the afternoon; Hunan Gold hit the daily limit, with Xiaocheng Technology, Zhongjin Gold, Zijin Mining and Hengbang Co. also rallying."
+    },
+    {
+      "id": "5084288",
+      "time": "2026-09-09 13:55:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金概念午後異動拉昇 萊紳通靈漲停】黃金概念午後異動拉昇，萊紳通靈漲停，湖南黃金、招金黃金、曼卡龍、紫金礦業、華鈺礦業跟漲。"
+    },
+    {
+      "id": "mkt:01a084bb-a886-7118-84fe-6173d6a182f9",
+      "time": "2026-09-09 13:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's negotiations and competitive-bidding consultations for the 2026 national basic medical insurance drug list have concluded."
+    },
+    {
+      "id": "5084287",
+      "time": "2026-09-09 13:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年國家基本醫保藥品目錄談判競價協商收官】9月5日—9月8日，國家醫保局組織開展2026年國家基本醫保藥品目錄現場談判競價，上百家內外資企業現場參與，124個目錄外藥品入圍談判競價環節，一些社會關注的腫瘤、罕見病、慢性病，以及兒童用藥等重點領域創新藥參與談判，並有望納入醫保目錄。同時，商業健康保險創新藥品目錄調整工作也同步開展，12個藥品入圍現場價格協商。2026年國家醫保藥品目錄和商保創新藥目錄預計將於今年11月釋出，2027年1月1日起正式施行。"
+    },
     {
       "id": "5084286",
       "time": "2026-09-09 13:53:28",
