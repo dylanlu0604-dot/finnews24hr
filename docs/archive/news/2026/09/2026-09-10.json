@@ -1,7 +1,19 @@
 {
   "date": "2026-09-10",
-  "count": 404,
+  "count": 405,
   "items": [
+    {
+      "id": "mkt:01a0881f-8f69-7118-8512-a559dd290864",
+      "time": "2026-09-10 05:42:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported on the 10th that explosions were heard in waters off Qeshm Island in southern Iran and in Sirik and surrounding areas."
+    },
     {
       "id": "5085867",
       "time": "2026-09-10 05:39:36",
