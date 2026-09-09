@@ -1,7 +1,191 @@
 {
   "date": "2026-09-10",
-  "count": 173,
+  "count": 194,
   "items": [
+    {
+      "id": "mkt:01a08770-5981-7118-850f-8c4548e60ce6",
+      "time": "2026-09-10 02:31:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures (WTI) settled at $96.05/bbl, up $3.02 or 3.25%."
+    },
+    {
+      "id": "5085678",
+      "time": "2026-09-10 02:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與俄羅斯的普京進行了一次很好的交談。"
+    },
+    {
+      "id": "mkt:01a08770-4a02-7118-850f-879425229810",
+      "time": "2026-09-10 02:31:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said he may hold a bilateral meeting with Russia."
+    },
+    {
+      "id": "mkt:01a08770-0d24-7118-850f-7b8bf077a1df",
+      "time": "2026-09-10 02:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had a good conversation with Russian President Putin."
+    },
+    {
+      "id": "5085677",
+      "time": "2026-09-10 02:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雙邊會晤有可能舉行。"
+    },
+    {
+      "id": "5085676",
+      "time": "2026-09-10 02:30:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京想達成協議。"
+    },
+    {
+      "id": "5085675",
+      "time": "2026-09-10 02:30:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：恢復自由浮動匯率制度是可取的，但需要降低通脹以及滿足其他相關條件。"
+    },
+    {
+      "id": "mkt:01a0876f-637f-7118-850f-704e889ddbcf",
+      "time": "2026-09-10 02:30:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he is confident the Air Force One gifted by Qatar is secure."
+    },
+    {
+      "id": "mkt:01a0876f-3c13-7118-850f-6f37227335ce",
+      "time": "2026-09-10 02:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says oil prices will fall sharply after U.S. midterm elections."
+    },
+    {
+      "id": "te:markets:582500",
+      "time": "2026-09-10 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.64% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.64% decrease."
+    },
+    {
+      "id": "5085674",
+      "time": "2026-09-10 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲7.00%，報773.10元人民幣/桶。滬金夜盤收漲0.62%，滬銀收漲2.40%。"
+    },
+    {
+      "id": "5085673",
+      "time": "2026-09-10 02:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會把汽油價格降到 2 美元以下。"
+    },
+    {
+      "id": "5085672",
+      "time": "2026-09-10 02:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及汽油價格：還需要稍長一段時間。"
+    },
+    {
+      "id": "mkt:01a0876e-a8f1-7118-850f-61f3eb21d595",
+      "time": "2026-09-10 02:29:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the economy is very strong and that his administration will explain this."
+    },
+    {
+      "id": "5085671",
+      "time": "2026-09-10 02:29:23",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：中期選舉之後油價將會下跌。"
+    },
+    {
+      "id": "5085670",
+      "time": "2026-09-10 02:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及汽油價格：絕不能讓伊朗擁有核武器。"
+    },
+    {
+      "id": "5085669",
+      "time": "2026-09-10 02:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：經濟勢頭十分強勁，我們接下來會對此作出說明。"
+    },
+    {
+      "id": "mkt:01a0876d-e4da-7118-850f-5a6ea947fa1d",
+      "time": "2026-09-10 02:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said they inspected the aircraft's evacuation slide because they wanted to ensure everything worked perfectly."
+    },
+    {
+      "id": "mkt:01a0876d-a339-7118-850f-5692c8e84532",
+      "time": "2026-09-10 02:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he was inspecting the slide on the Qatar-donated \"Air Force One\" and that checking the inflatable slide takes about 15 minutes."
+    },
+    {
+      "id": "5085668",
+      "time": "2026-09-10 02:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正檢查卡達贈送的“空軍一號”上的滑梯。檢查充氣滑梯大約需要十五分鐘。"
+    },
+    {
+      "id": "5085667",
+      "time": "2026-09-10 02:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：伊朗海軍剛剛釋放出明確訊號，波斯灣的安全與穩定由伊朗掌控。對於其餘各方勢力，趁現在還來得及，保全剩餘裝備並撤離回國，專心守衛你們自己的邊境！"
+    },
     {
       "id": "mkt:01a0876c-a9cd-7118-850f-4fde4f2d7eb2",
       "time": "2026-09-10 02:27:20",

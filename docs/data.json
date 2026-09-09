@@ -1,7 +1,191 @@
 {
-  "updated": "2026-09-10 02:27:56",
-  "count": 13539,
+  "updated": "2026-09-10 02:31:53",
+  "count": 13552,
   "items": [
+    {
+      "id": "mkt:01a08770-5981-7118-850f-8c4548e60ce6",
+      "time": "2026-09-10 02:31:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures (WTI) settled at $96.05/bbl, up $3.02 or 3.25%."
+    },
+    {
+      "id": "5085678",
+      "time": "2026-09-10 02:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與俄羅斯的普京進行了一次很好的交談。"
+    },
+    {
+      "id": "mkt:01a08770-4a02-7118-850f-879425229810",
+      "time": "2026-09-10 02:31:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said he may hold a bilateral meeting with Russia."
+    },
+    {
+      "id": "mkt:01a08770-0d24-7118-850f-7b8bf077a1df",
+      "time": "2026-09-10 02:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had a good conversation with Russian President Putin."
+    },
+    {
+      "id": "5085677",
+      "time": "2026-09-10 02:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雙邊會晤有可能舉行。"
+    },
+    {
+      "id": "5085676",
+      "time": "2026-09-10 02:30:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京想達成協議。"
+    },
+    {
+      "id": "5085675",
+      "time": "2026-09-10 02:30:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：恢復自由浮動匯率制度是可取的，但需要降低通脹以及滿足其他相關條件。"
+    },
+    {
+      "id": "mkt:01a0876f-637f-7118-850f-704e889ddbcf",
+      "time": "2026-09-10 02:30:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he is confident the Air Force One gifted by Qatar is secure."
+    },
+    {
+      "id": "mkt:01a0876f-3c13-7118-850f-6f37227335ce",
+      "time": "2026-09-10 02:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says oil prices will fall sharply after U.S. midterm elections."
+    },
+    {
+      "id": "te:markets:582500",
+      "time": "2026-09-10 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.64% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.64% decrease."
+    },
+    {
+      "id": "5085674",
+      "time": "2026-09-10 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲7.00%，報773.10元人民幣/桶。滬金夜盤收漲0.62%，滬銀收漲2.40%。"
+    },
+    {
+      "id": "5085673",
+      "time": "2026-09-10 02:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會把汽油價格降到 2 美元以下。"
+    },
+    {
+      "id": "5085672",
+      "time": "2026-09-10 02:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及汽油價格：還需要稍長一段時間。"
+    },
+    {
+      "id": "mkt:01a0876e-a8f1-7118-850f-61f3eb21d595",
+      "time": "2026-09-10 02:29:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the economy is very strong and that his administration will explain this."
+    },
+    {
+      "id": "5085671",
+      "time": "2026-09-10 02:29:23",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：中期選舉之後油價將會下跌。"
+    },
+    {
+      "id": "5085670",
+      "time": "2026-09-10 02:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及汽油價格：絕不能讓伊朗擁有核武器。"
+    },
+    {
+      "id": "5085669",
+      "time": "2026-09-10 02:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：經濟勢頭十分強勁，我們接下來會對此作出說明。"
+    },
+    {
+      "id": "mkt:01a0876d-e4da-7118-850f-5a6ea947fa1d",
+      "time": "2026-09-10 02:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said they inspected the aircraft's evacuation slide because they wanted to ensure everything worked perfectly."
+    },
+    {
+      "id": "mkt:01a0876d-a339-7118-850f-5692c8e84532",
+      "time": "2026-09-10 02:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he was inspecting the slide on the Qatar-donated \"Air Force One\" and that checking the inflatable slide takes about 15 minutes."
+    },
+    {
+      "id": "5085668",
+      "time": "2026-09-10 02:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正檢查卡達贈送的“空軍一號”上的滑梯。檢查充氣滑梯大約需要十五分鐘。"
+    },
+    {
+      "id": "5085667",
+      "time": "2026-09-10 02:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：伊朗海軍剛剛釋放出明確訊號，波斯灣的安全與穩定由伊朗掌控。對於其餘各方勢力，趁現在還來得及，保全剩餘裝備並撤離回國，專心守衛你們自己的邊境！"
+    },
     {
       "id": "mkt:01a0876c-a9cd-7118-850f-4fde4f2d7eb2",
       "time": "2026-09-10 02:27:20",
@@ -123561,85 +123745,6 @@
         "國際"
       ],
       "text": "特朗普談及委內瑞拉局勢：我認為該國目前還未做好舉行選舉的準備。"
-    },
-    {
-      "id": "mkt:01a06363-d327-7118-846b-c8e80417bbf7",
-      "time": "2026-09-03 02:31:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $91.01/bbl, up $0.79 or 0.88%."
-    },
-    {
-      "id": "mkt:01a06363-d154-7118-846b-c35645e73f53",
-      "time": "2026-09-03 02:31:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.86% to 948 yuan/gram; SHFE silver main contract rose 1.06% to 15,886 yuan/kg; SC crude oil main contract rose 2.57% to 695 yuan/barrel."
-    },
-    {
-      "id": "5073923",
-      "time": "2026-09-03 02:31:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國將與其他國家採取同等的電影補貼措施。"
-    },
-    {
-      "id": "5073922",
-      "time": "2026-09-03 02:30:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶91.01美元，上漲79美分，漲幅0.88%。"
-    },
-    {
-      "id": "5073921",
-      "time": "2026-09-03 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲2.57%，報694.70元人民幣/桶。滬金夜盤收漲0.86%，滬銀收漲1.06%。"
-    },
-    {
-      "id": "5073920",
-      "time": "2026-09-03 02:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我已與奈飛就好萊塢行業現狀展開溝通。"
-    },
-    {
-      "id": "5073919",
-      "time": "2026-09-03 02:28:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗戰爭持續時間：選舉不會對我造成影響。第一，我本人不參選，但我的政黨參與競選，我會為本黨提供助力。不過我認為，本黨認同我們絕不允許伊朗擁有核武器這一立場。"
-    },
-    {
-      "id": "mkt:01a06360-dfaf-7118-846b-bd7f478c467a",
-      "time": "2026-09-03 02:28:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump says US prepared to strike Iran again; claims control of Strait of Hormuz】US President Trump told US travel industry executives at the White House on Wednesday that the Iranian regime \"is falling apart\" and said the US is prepared to strike Iran again, adding such an action \"won't last long.\" He also said \"we completely control the Strait of Hormuz,\" that \"millions of barrels of oil\" are exported daily from there, and expressed hope US retail gasoline prices would fall."
     }
   ]
 }
