@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-10 05:04:48",
+  "updated": "2026-09-10 05:08:47",
   "count": 13540,
   "items": [
+    {
+      "id": "5085845",
+      "time": "2026-09-10 05:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府交通部成立全新太空專項工作組。"
+    },
+    {
+      "id": "mkt:01a087ff-4495-7118-8512-1d49ca5a5d44",
+      "time": "2026-09-10 05:07:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio says he has no plans to run in 2028, keeps options open】Secretary of State Rubio told MSNBC he currently has \"no plans\" to run for president in 2028 but did not rule out a future bid, saying he is \"100% focused\" on his current job. Rubio, who is also serving as acting national security adviser to President Trump, has privately told associates the same and said he enjoys the secretary of state role and is keeping his options open. As Republicans seek post‑Trump leadership, Rubio and Vice President Vance are being viewed as potential contenders."
+    },
+    {
+      "id": "5085844",
+      "time": "2026-09-10 05:06:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "福克斯營運長表示，公司預計2027年有線和廣播業務的發行收入將實現增長。"
+    },
+    {
+      "id": "te:markets:582507",
+      "time": "2026-09-10 05:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Hits Highest Since May on US-Iran War — Crude oil rose to about $96.70 a barrel on Wednesday, its highest level since May, driven by escalating US-Iran tensions. US officials reported that Iran attempted to attack Navy ships on Monday after targeting an aircraft carrier with ballistic missiles over the weekend, in a previously undisclosed wave of attacks. Meanwhile, Iranian state media said a US missile targeted a small oil tanker four miles from Kharg Island on Tuesday. The war broadened this week after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, forcing a temporary halt to some operations. The attacks came after the US military struck three Iranian oil tankers on Saturday in retaliation for Iranian ballistic missile attacks on two Navy warships. Adding to upwards pressures on prices, US crude inventories fell by 0.3 million barrels last week. Meanwhile, Ukrainian drones hit infrastructure in Novorossiysk, Russia’s key oil terminal in the Black Sea, on Wednesday."
+    },
     {
       "id": "5085843",
       "time": "2026-09-10 05:01:18",
@@ -123658,38 +123693,6 @@
         "GOOG.O"
       ],
       "text": "Broadcom (AVGO.O) CEO said the company began shipping next-generation TPU v8i to Google (GOOG.O) this quarter."
-    },
-    {
-      "id": "5074023",
-      "time": "2026-09-03 05:08:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：全新谷歌 TPU 效能與英偉達 Vera Rubin 持平或更優。"
-    },
-    {
-      "id": "5074022",
-      "time": "2026-09-03 05:07:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：本季度，我們已開始向谷歌量產交付下一代 TPU 8I 版本產品。"
-    },
-    {
-      "id": "5074021",
-      "time": "2026-09-03 05:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦調查局：正在調查數百萬美國駕照資訊因資料洩露遭曝光的相關報道。"
-    },
-    {
-      "id": "5074020",
-      "time": "2026-09-03 05:05:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（9月2日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7180元，較週二紐約尾盤漲41點，日內整體交投於6.7267-6.7161元區間。日線圖上，離岸人民幣8月20日以來持續高位窄幅震盪，8月24日曾漲至6.7128元。"
     }
   ]
 }

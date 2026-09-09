@@ -1,7 +1,42 @@
 {
   "date": "2026-09-10",
-  "count": 360,
+  "count": 364,
   "items": [
+    {
+      "id": "5085845",
+      "time": "2026-09-10 05:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府交通部成立全新太空專項工作組。"
+    },
+    {
+      "id": "mkt:01a087ff-4495-7118-8512-1d49ca5a5d44",
+      "time": "2026-09-10 05:07:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio says he has no plans to run in 2028, keeps options open】Secretary of State Rubio told MSNBC he currently has \"no plans\" to run for president in 2028 but did not rule out a future bid, saying he is \"100% focused\" on his current job. Rubio, who is also serving as acting national security adviser to President Trump, has privately told associates the same and said he enjoys the secretary of state role and is keeping his options open. As Republicans seek post‑Trump leadership, Rubio and Vice President Vance are being viewed as potential contenders."
+    },
+    {
+      "id": "5085844",
+      "time": "2026-09-10 05:06:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "福克斯營運長表示，公司預計2027年有線和廣播業務的發行收入將實現增長。"
+    },
+    {
+      "id": "te:markets:582507",
+      "time": "2026-09-10 05:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Hits Highest Since May on US-Iran War — Crude oil rose to about $96.70 a barrel on Wednesday, its highest level since May, driven by escalating US-Iran tensions. US officials reported that Iran attempted to attack Navy ships on Monday after targeting an aircraft carrier with ballistic missiles over the weekend, in a previously undisclosed wave of attacks. Meanwhile, Iranian state media said a US missile targeted a small oil tanker four miles from Kharg Island on Tuesday. The war broadened this week after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, forcing a temporary halt to some operations. The attacks came after the US military struck three Iranian oil tankers on Saturday in retaliation for Iranian ballistic missile attacks on two Navy warships. Adding to upwards pressures on prices, US crude inventories fell by 0.3 million barrels last week. Meanwhile, Ukrainian drones hit infrastructure in Novorossiysk, Russia’s key oil terminal in the Black Sea, on Wednesday."
+    },
     {
       "id": "5085843",
       "time": "2026-09-10 05:01:18",
