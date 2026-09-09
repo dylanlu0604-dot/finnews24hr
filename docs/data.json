@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-09 22:50:35",
-  "count": 13629,
+  "updated": "2026-09-09 22:54:33",
+  "count": 13621,
   "items": [
+    {
+      "id": "mkt:01a086a8-f732-7118-850a-9b659482ed8b",
+      "time": "2026-09-09 22:53:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK 2-year gilt yield rose to 4.698%, the highest since March 23, up 10 bps on the day."
+    },
+    {
+      "id": "5085517",
+      "time": "2026-09-09 22:53:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜 Leo 專案向阿麗亞娜空間公司訂購 6 次阿麗亞娜 64 型火箭發射服務。"
+    },
+    {
+      "id": "mkt:01a086a8-8fab-7118-850a-947c9125d45e",
+      "time": "2026-09-09 22:53:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Financial Times reports CIA Director John Ratcliffe is preparing to play a larger role in Russia-Ukraine negotiations."
+    },
+    {
+      "id": "5085516",
+      "time": "2026-09-09 22:52:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率上漲10個基點，升至4.698%，創3月23日以來新高。"
+    },
+    {
+      "id": "5085515",
+      "time": "2026-09-09 22:52:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "艾伯維高管在電話會議上表示，強勁的資產負債表和充足的長期增長空間讓公司可以同時考察早期和晚期業務發展機會。"
+    },
+    {
+      "id": "5085514",
+      "time": "2026-09-09 22:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國中情局局長拉特克利夫準備在俄烏談判中承擔更重要角色。"
+    },
+    {
+      "id": "5085513",
+      "time": "2026-09-09 22:50:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【首屆國際太空峰會在巴黎開幕 美航天企業取消行程】為期兩天的首屆國際太空峰會9日在法國巴黎開幕。多國領導人和政府官員、國際組織代表，以及來自航天機構和企業界人士參會，就太空事業快速發展背景下的相關科技、經濟與治理等議題展開討論。本次峰會由法國和德國共同主辦。據法國政府網站介紹，峰會目標是就太空事業領域所面臨的問題和挑戰促成國際對話。來自近120個國家和地區的代表團受邀與會。據官方日程，峰會主要聚焦三大議題：一是空間科技與探索的國際路徑；二是全球太空經濟；三是安全與治理，呼籲透過對話、防禦和夥伴關係確保空間安全。另據多家法國媒體援引美國《政治報》的報道說，由於美國政府施壓，太空探索技術公司和藍色起源公司等美航天企業取消峰會行程。峰會大使、法國宇航員托馬斯·佩斯凱就此對法國媒體說，太空事業受到了地緣政治干擾。（新華社）"
+    },
+    {
+      "id": "5085512",
+      "time": "2026-09-09 22:50:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國天地一體化降水觀測體系成熟落地】記者9日從中國氣象局瞭解到，颱風“白海豚”活動期間，風雲三號G星搭載的降水測量雷達與全國地基天氣雷達網協同觀測在臺風監測實戰中發揮關鍵作用，精準捕捉到“白海豚”的精細三維降水結構，顯示我國天地一體化降水觀測體系成熟落地，在氣象防災減災中發揮作用。中國氣象局氣象探測中心主任張鵬表示，“白海豚”活動期間，風雲三號G星利用搭載的雙頻降水測量雷達，清晰抓取到颱風外圍螺旋雨帶完整結構，精準探測到颱風系統最強瞬時降水可達100毫米每小時，風暴回波頂最高高度約10公里，完整解析出颱風內部降水強度、空間分佈等核心細節，為颱風強度研判、路徑預報、短臨預警及防災減災決策，提供高精度、立體化的關鍵觀測支撐。（新華社）"
+    },
+    {
+      "id": "mkt:01a086a5-d88c-7118-850a-8e11ed0046ef",
+      "time": "2026-09-09 22:50:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "The U.S. Treasury will announce in 10 minutes the maximum amount planned for repurchase of 10- to 20-year Treasuries."
+    },
     {
       "id": "5085511",
       "time": "2026-09-09 22:49:39",
@@ -124105,170 +124185,6 @@
         "Impact bullish"
       ],
       "text": "Impax Asset Management says the US Treasury may implement larger, more frequent buybacks of long-term Treasuries."
-    },
-    {
-      "id": "mkt:01a0629d-1d76-7118-8467-6418727efe03",
-      "time": "2026-09-02 22:54:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "The EIA said U.S. Midwest refinery utilization rose to a record high last week."
-    },
-    {
-      "id": "mkt:01a0629c-d4f5-7118-8467-5b3d4bd8b553",
-      "time": "2026-09-02 22:54:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Impax Asset Management said US Treasury market volatility may rise around upcoming US inflation and employment data."
-    },
-    {
-      "id": "5073702",
-      "time": "2026-09-02 22:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：上週美國中西部煉油廠產能利用率升至歷史新高。"
-    },
-    {
-      "id": "5073701",
-      "time": "2026-09-02 22:53:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本電氣（NEC）有意在製造業開展收購。"
-    },
-    {
-      "id": "mkt:01a0629c-6261-7118-8467-512ad86b658f",
-      "time": "2026-09-02 22:53:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Impax Asset Management said the September Federal Reserve rate decision is a 'real coin toss'."
-    },
-    {
-      "id": "5073700",
-      "time": "2026-09-02 22:53:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行高階副行長卡羅琳·羅傑斯表示，貨幣政策的制定從來不會僅基於單一風險或單一資料。"
-    },
-    {
-      "id": "mkt:01a0629b-a5b1-7118-8467-4ae5ca30457d",
-      "time": "2026-09-02 22:52:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. refinery utilization rose last week to the highest level since August 2018."
-    },
-    {
-      "id": "5073699",
-      "time": "2026-09-02 22:52:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：上週美國煉油廠產能利用率升至2018年8月以來的最高水平。"
-    },
-    {
-      "id": "5073698",
-      "time": "2026-09-02 22:52:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞典外交部：召見俄羅斯駐斯德哥爾摩大使，抗議在德國萊比錫機場的破壞企圖。"
-    },
-    {
-      "id": "5073697",
-      "time": "2026-09-02 22:52:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊在德黑蘭會見了哈馬斯高階官員巴塞姆·納伊姆及其他哈馬斯成員。"
-    },
-    {
-      "id": "5073696",
-      "time": "2026-09-02 22:52:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "加拿大央行行長麥克勒姆：新的美國關稅將對第四季度經濟增長產生壓力。"
-    },
-    {
-      "id": "mkt:01a0629b-3d4f-7118-8467-455a56333ecf",
-      "time": "2026-09-02 22:52:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "BOC Governor Macklem said new US tariffs will weigh on Q4 economic growth."
-    },
-    {
-      "id": "mkt:01a0629b-1411-7118-8467-3ca94e98cd49",
-      "time": "2026-09-02 22:52:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sweden's foreign ministry summoned Russia's ambassador in Stockholm to protest an attempted sabotage at Leipzig airport in Germany."
-    },
-    {
-      "id": "5073695",
-      "time": "2026-09-02 22:51:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奇瑞汽車：全面落實合規指引，將在海外市場建立科學定價體系】9月2日，奇瑞汽車發文表示，將按照《汽車行業境外競爭行為與合規建設指引》，恪守“依法合規、公平競爭、互利共贏”的基本原則，在海外市場建立科學定價體系，規範終端價格與促銷行為，真實開展品牌宣傳，自覺維護全球汽車市場競爭秩序；同時持續深耕境外本地化能力建設，完善海外質量管理與售後服務網路，嚴守合規紅線，推動供應鏈綠色低碳轉型，深度融入東道國產業與社會發展。"
-    },
-    {
-      "id": "mkt:01a0629a-bae0-7118-8467-36b73948e4d8",
-      "time": "2026-09-02 22:51:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi met senior Hamas official Bassem Naim and other Hamas members in Tehran."
-    },
-    {
-      "id": "5073694",
-      "time": "2026-09-02 22:51:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【非凡領越：進一步收購李寧公司股份，總代價約2.28億港元】9月2日晚間，非凡領越在港交所公告，於2026年9月2日，收購方（公司全資附屬公司非凡中國發展有限公司）透過聯交所於公開市場上進一步收購合共17,253,500股李寧公司股份。於本公告日期，收購股份佔李寧公司已發行股份總數約0.67%。收購事項之代價總額約為228,207,000港元（不含印花稅及相關開支），而每股收購股份的平均價格約為13.23港元。完成收購事項後，收購方將持有454,410,043股李寧公司股份（佔於本公告日期李寧公司已發行股份總數約17.58%）。"
-    },
-    {
-      "id": "mkt:01a06299-e8ea-7118-8467-2b96a7927b0d",
-      "time": "2026-09-02 22:50:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Canada Governor Macklem said the Canadian economy is developing steadily amid a new phase of trade disputes."
     }
   ]
 }
