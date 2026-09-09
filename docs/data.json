@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-10 07:21:45",
+  "updated": "2026-09-10 07:25:47",
   "count": 13539,
   "items": [
+    {
+      "id": "5085931",
+      "time": "2026-09-10 07:24:49",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月10日隔夜要聞一覽】\n1、美國總統特朗普表示，他預計對伊朗的戰事將於今年11月美國中期選舉後結束。特朗普在回答記者提問時說：“我們不尋求（與伊朗談判），選舉一結束，這場戰爭立馬就會終結。”\n2、美國總統特朗普表示，與俄羅斯總統普京進行了很好的交談，可能會舉行雙邊會晤。\n3、美國財政部宣佈，根據擴大後的國債回購計劃，財政部在首次操作中將購買最多60億美元長期政府債券。\n4、沙特領導的多國聯軍稱，葉門胡塞武裝當地時間9月9日使用彈道導彈和無人機襲擊了沙特南部城市海米斯穆謝特、艾卜哈和吉贊。\n5、蘋果公司在其秋季釋出會上推出首款摺疊屏旗艦手機iPhone Duo。蘋果官網顯示，該機國行起售價為15999元，提供星光白和夜空雙色可選。蘋果官網顯示，該機型將在獲得批准後發售。根據蘋果秋季釋出會，該機型僅支援eSIM。\n6、銅價在倫敦和紐約雙雙升至紀錄新高。倫敦金屬交易所（LME）基準3個月期銅一度升至每噸14858.50美元，紐約商品交易所銅價也升至紀錄新高每盎司6.894美元。\n7、紐約商品交易所10月交貨的輕質原油期貨價格上漲3.02美元，收於每桶96.05美元，漲幅為3.25%；11月交貨的倫敦布倫特原油期貨價格上漲3.29美元，收於每桶101.21美元，漲幅為3.36%。\n8、交易員正在加大對歐洲央行和英國央行加息的押注，互換市場目前顯示，交易員預計歐洲央行到2027年12月將加息約90個基點，為本輪緊縮週期中最高。這意味著政策制定者在此期間可能需加息三次，每次25個基點，並有60%的機率進行第四次加息。\n9、美國能源資訊署（EIA）9月9日釋出最新《短期能源展望》（STEO），大幅上調未來兩年布倫特原油價格預測。"
+    },
+    {
+      "id": "5085930",
+      "time": "2026-09-10 07:24:09",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率螺旋式攀升 幕後的對沖操作推波助瀾】隨著美債收益率挺升，債券投資者爭相採取保護措施，但這反而可能加劇收益率漲勢，幕後的對沖操作正在放大市場波動。市場對通脹的憂慮，加上財政赤字日益膨脹，其影響遠遠蓋過美國財政部擴大國債回購計劃(旨在控制借貸成本)帶來的效果，美國基準長債收益率處於或接近多年高點。收益率可能進一步攀升的前景，促使交易員買進選擇權，以保護其投資組合。近期值得注意的選擇權動向包括一筆押注30年期美債收益率升至約5.7%的大型部位，較目前水準高出近半個百分點。隨著收益率上升，在這些選擇權交易中站在另一邊的交易商，也必須積極對沖自身部位。他們往往會賣出期貨，或進行支付固定利率的掉期交易，這類部位會隨利率上升而增值。這種所謂的凸性對沖(convexity hedging)或德爾塔對沖(delta hedging)，可能在收益率上升之際進一步推高掉期利率，從而放大整體市場走勢。"
+    },
+    {
+      "id": "te:markets:582523",
+      "time": "2026-09-10 07:23:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Extends Rally on Intensifying US-Iran War — Brent crude climbed to around $102 per barrel on Thursday, hitting its highest level since May as the intensifying conflict between the US and Iran raised concerns over further disruptions to energy supplies from the Middle East. Iran said it was ready for a more intense conflict, vowing to resist the US naval blockade and warning that it would intensify its attacks if American forces continued strikes on Iranian territory. Meanwhile, President Donald Trump predicted that the conflict would not end until after the November midterm elections and said significant relief in gasoline prices was unlikely before then, signaling limited prospects for near-term de-escalation. Hostilities intensified over the past week following roughly a month of relative calm, with both sides stepping up attacks. The conflict broadened after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, prompting a temporary suspension of some operations."
+    },
+    {
+      "id": "5085929",
+      "time": "2026-09-10 07:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic 研究員Jacob Coxon放棄股權後離職】Anthropic 研究員雅各布・考克森（Jacob Coxon）向媒體透露，出於對人工智慧安全問題的擔憂，他在股權即將歸屬的兩個月前選擇離職。這一爆料令考克森此次在 AI 實驗室引發全網熱議的辭職事件受到更高關注，他提出的核心觀點是 AI 技術有可能導致人類滅絕。考克森週三接受採訪時稱：“抬高 Anthropic 的估值對我而言已經沒有任何好處…… 我在股權歸屬前就離開了公司。”他在 X 平臺釋出的離職帖閱讀量現已超 1.15 億次，帖文寫道：“投身 AI 研發的從業者真心相信，這項技術有可能在本十年末奪走所有人的生命。這並非營銷噱頭。”已有其他 AI 研究員（尤其是谷歌的研究員）出於安全考量辭職，但這些人都是工作多年後離職，且股權大機率已完成歸屬。考克森表示，他僅在 Anthropic 任職四個月，而該公司員工需要滿六個月，股權才會歸屬。他仍持有前僱主 OpenAI 的股權。"
+    },
+    {
+      "id": "te:markets:582522",
+      "time": "2026-09-10 07:22:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Extends Rally on Intensifying US-Iran War — Crude oil climbed above $97 per barrel on Thursday, reaching its highest level since May as the intensifying conflict between the US and Iran raised concerns over further disruptions to energy supplies from the Middle East. Iran said it was ready for a more intense conflict, vowing to resist the US naval blockade and warning that it would intensify its attacks if American forces continued strikes on Iranian territory. Meanwhile, President Donald Trump predicted that the conflict would not end until after the November midterm elections and said significant relief in gasoline prices was unlikely before then, signaling limited prospects for near-term de-escalation. Hostilities intensified over the past week following roughly a month of relative calm, with both sides stepping up attacks. The conflict broadened after Iran-backed Houthi militants attacked several energy facilities in Saudi Arabia, prompting a temporary suspension of some operations."
+    },
     {
       "id": "5085928",
       "time": "2026-09-10 07:20:29",
@@ -123595,52 +123647,6 @@
         "公司"
       ],
       "text": "自動駕駛公司PlusAI（智加科技）將透過與 Yorkville 特殊目的收購公司合併實現上市。"
-    },
-    {
-      "id": "5074102",
-      "time": "2026-09-03 07:25:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將前往阿拉斯加為丹·沙利文助選。"
-    },
-    {
-      "id": "5074101",
-      "time": "2026-09-03 07:24:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美債收益率升高不改A股內在穩定性】受美伊衝突升級、美債收益率持續走高等因素影響，近期國際資本市場出現明顯調整。當地時間9月1日，美股三大指數承壓，納指收跌1.03%，費城半導體指數盤中一度跌逾3%；9月2日，亞洲市場同樣受到影響，韓國綜合指數、日經225指數分別下跌3.99%和2.85%。相比之下，A股市場展現出較強韌性。截至9月2日收盤，上證指數下跌0.97%，跌幅明顯低於日韓市場。科創板、創業板雖然有所調整，但整體波動仍處於合理範圍。記者採訪多位市場人士瞭解到，美債收益率主要透過資金流動、估值調整及市場情緒影響權益資產。當前美債收益率抬升對A股實際影響有限，投資者應避免因短期擾動產生情緒性錯殺。"
-    },
-    {
-      "id": "5074100",
-      "time": "2026-09-03 07:24:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【長債收益率持續走高 海外債市掀拋售潮】近期，美國、日本、英國、德國等主要經濟體長債收益率持續走高，海外債市遭遇了一場跨越國界的拋售“風暴”。分析人士認為，這背後，是多重因素交織所致，包括中東地緣衝突再度升級，市場對通脹的擔憂顯著上升，財政問題、供需失衡等長期約束持續擾動。更值得關注的是，全球資產定價的基準正在整體上移。全球無風險利率中樞的系統性抬升，令各類資產估值正面臨一次重新校準，全球資產配置也將進入一個“高利率，高波動”的新階段。（上海證券報）"
-    },
-    {
-      "id": "5074099",
-      "time": "2026-09-03 07:24:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美法官稱無需拆分谷歌廣告技術壟斷業務】一名聯邦法官週三拒絕拆分谷歌的廣告技術業務，給這家搜尋巨頭再一次喘息之機，儘管多家法院裁定其在網路經濟關鍵領域存在壟斷地位。弗吉尼亞州亞歷山德里亞市的美國地區法官萊奧妮・M・布林克瑪（ Leonie M. Brinkema）曾於 2025 年 4 月裁定，谷歌在部分網路廣告銷售市場構成壟斷。但她在最新裁決書中表示，駁回政府提出的拆分企業、開放部分平臺的訴求。布林克瑪稱，她將採納 “行為性救濟措施”。法官的完整裁決書以及上述救濟措施的細節將保密兩週。"
-    },
-    {
-      "id": "mkt:01a0646f-8edb-7118-846f-a1062896f752",
-      "time": "2026-09-03 07:23:47",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "According to Saudi broadcaster Al Arabiya, Yemeni government forces said Houthi militants fired 10 ballistic missiles toward Taiz and Hodeidah."
     }
   ]
 }
