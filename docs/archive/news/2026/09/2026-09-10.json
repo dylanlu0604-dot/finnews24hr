@@ -1,7 +1,54 @@
 {
   "date": "2026-09-10",
-  "count": 167,
+  "count": 171,
   "items": [
+    {
+      "id": "5085666",
+      "time": "2026-09-10 02:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "iPhoneDuo國行15999元起。"
+    },
+    {
+      "id": "mkt:01a08766-cc2f-7118-850f-4555451e428c",
+      "time": "2026-09-10 02:20:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple launches first foldable iPhone Duo from $1,999】Apple unveiled the iPhone Duo, its first foldable iPhone, with US pricing from $1,999. The handset has a 7.6-inch internal display — the largest iPhone screen to date — and a 5.4-inch external display whose area Apple says is roughly 90% of the iPhone 18 Pro; both panels support ProMotion, always-on display and up to 3,000 nits peak outdoor brightness. The device uses a grade-5 titanium chassis and a precision hinge of more than 100 components, carries an IP68 dust/water rating, and integrates Touch ID into the side button. It is powered by a 2nm A20 Pro chip and a custom heat spreader; Apple says sustained performance is up to 35% higher than the iPhone 17 Pro and the phone supports split-screen operation of two apps. Imaging includes 48MP main and 48MP ultrawide cameras; the fold form factor enables using the rear cameras for selfies with external-screen live preview. The phone uses a dual-battery architecture and, when using the outer screen, supports up to 44 hours of video playback. Available in Starlight and Midnight, storage options are 256GB, 512GB, 1TB and 2TB. US pre-orders begin Oct. 16, on-sale Oct. 23; China and more than 70 other markets are in the initial launch."
+    },
+    {
+      "id": "te:markets:582498",
+      "time": "2026-09-10 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 3.33% — Top commodity gainers are Platinum (3.33%), Silver (3.28%) and Gold (1.45%). Biggest losers are Iron Ore CNY (-0.87%), Steel Rebar (-0.74%) and Lithium Carbonate (-0.68%)."
+    },
+    {
+      "id": "mkt:01a08765-a339-7118-850f-3a3c1d6cf28b",
+      "time": "2026-09-10 02:19:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple's launch event has concluded."
+    },
     {
       "id": "5085665",
       "time": "2026-09-10 02:15:49",

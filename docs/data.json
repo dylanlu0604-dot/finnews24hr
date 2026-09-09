@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-10 02:20:01",
-  "count": 13558,
+  "updated": "2026-09-10 02:23:58",
+  "count": 13545,
   "items": [
+    {
+      "id": "5085666",
+      "time": "2026-09-10 02:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "iPhoneDuo國行15999元起。"
+    },
+    {
+      "id": "mkt:01a08766-cc2f-7118-850f-4555451e428c",
+      "time": "2026-09-10 02:20:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple launches first foldable iPhone Duo from $1,999】Apple unveiled the iPhone Duo, its first foldable iPhone, with US pricing from $1,999. The handset has a 7.6-inch internal display — the largest iPhone screen to date — and a 5.4-inch external display whose area Apple says is roughly 90% of the iPhone 18 Pro; both panels support ProMotion, always-on display and up to 3,000 nits peak outdoor brightness. The device uses a grade-5 titanium chassis and a precision hinge of more than 100 components, carries an IP68 dust/water rating, and integrates Touch ID into the side button. It is powered by a 2nm A20 Pro chip and a custom heat spreader; Apple says sustained performance is up to 35% higher than the iPhone 17 Pro and the phone supports split-screen operation of two apps. Imaging includes 48MP main and 48MP ultrawide cameras; the fold form factor enables using the rear cameras for selfies with external-screen live preview. The phone uses a dual-battery architecture and, when using the outer screen, supports up to 44 hours of video playback. Available in Starlight and Midnight, storage options are 256GB, 512GB, 1TB and 2TB. US pre-orders begin Oct. 16, on-sale Oct. 23; China and more than 70 other markets are in the initial launch."
+    },
+    {
+      "id": "te:markets:582498",
+      "time": "2026-09-10 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 3.33% — Top commodity gainers are Platinum (3.33%), Silver (3.28%) and Gold (1.45%). Biggest losers are Iron Ore CNY (-0.87%), Steel Rebar (-0.74%) and Lithium Carbonate (-0.68%)."
+    },
+    {
+      "id": "mkt:01a08765-a339-7118-850f-3a3c1d6cf28b",
+      "time": "2026-09-10 02:19:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple's launch event has concluded."
+    },
     {
       "id": "5085665",
       "time": "2026-09-10 02:15:49",
@@ -123648,176 +123695,6 @@
         "Energy"
       ],
       "text": "President Trump raised the issue of oil price gouging in a meeting with oil and gas top executives."
-    },
-    {
-      "id": "5073915",
-      "time": "2026-09-03 02:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申希望降低零售汽油價格。"
-    },
-    {
-      "id": "5073914",
-      "time": "2026-09-03 02:22:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：昨日向石油行業高管提及哄抬油價問題。"
-    },
-    {
-      "id": "mkt:01a0635b-cf6f-7118-846b-9276ba2b2cad",
-      "time": "2026-09-03 02:22:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he is controlling the Strait of Hormuz."
-    },
-    {
-      "id": "5073913",
-      "time": "2026-09-03 02:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗戰爭：別指望戰爭會持續太久。"
-    },
-    {
-      "id": "mkt:01a0635a-d54e-7118-846b-8898a73e9203",
-      "time": "2026-09-03 02:21:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump says he is prepared to carry out another strike against Iran."
-    },
-    {
-      "id": "5073912",
-      "time": "2026-09-03 02:21:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：準備對伊朗發動再一次攻擊。"
-    },
-    {
-      "id": "mkt:01a0635a-9d56-7118-846b-8413c080ce30",
-      "time": "2026-09-03 02:21:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump said the US fully controls the Strait of Hormuz and exports millions of barrels of oil through it each day."
-    },
-    {
-      "id": "5073911",
-      "time": "2026-09-03 02:21:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "派拉蒙股價飆升至盤中高點6.1%。"
-    },
-    {
-      "id": "5073910",
-      "time": "2026-09-03 02:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正在管控霍爾木茲海峽。"
-    },
-    {
-      "id": "5073909",
-      "time": "2026-09-03 02:20:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基計劃下週訪問加拿大。"
-    },
-    {
-      "id": "mkt:01a0635a-1892-7118-846b-7af127ed042c",
-      "time": "2026-09-03 02:20:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump says oil prices will fall."
-    },
-    {
-      "id": "5073908",
-      "time": "2026-09-03 02:20:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "華納兄弟探索股價迅速上漲0.9%。"
-    },
-    {
-      "id": "5073907",
-      "time": "2026-09-03 02:20:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：伊朗當時正試圖建造可佈設水雷的火箭，我們將其摧毀了。"
-    },
-    {
-      "id": "mkt:01a06359-b5b6-7118-846b-747fd2590b2a",
-      "time": "2026-09-03 02:20:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "President Trump said Iran tried to build a rocket to deploy sea mines and that the U.S. destroyed it."
-    },
-    {
-      "id": "5073906",
-      "time": "2026-09-03 02:20:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：油價將會回落。"
-    },
-    {
-      "id": "te:markets:580574",
-      "time": "2026-09-03 02:20:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.19% — Top commodity losers are Lithium Carbonate (-2.19%), Iron Ore CNY (-1.72%) and Silicon (-1.49%). Gains are led by Silver (1.60%) and Gold (1.12%)."
-    },
-    {
-      "id": "mkt:01a06359-7d23-7118-846b-6f6e2af54ce5",
-      "time": "2026-09-03 02:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said the renewed strike operations against Iran will not last long."
     }
   ]
 }
