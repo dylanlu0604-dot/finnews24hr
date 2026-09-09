@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-09 09:04:41",
-  "count": 13743,
+  "updated": "2026-09-09 09:08:33",
+  "count": 13734,
   "items": [
+    {
+      "id": "5083927",
+      "time": "2026-09-09 09:07:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國總統特使威特科夫披露 從持有加密貨幣權益的實體獲逾1億美元收入】據最近提交的一份財務披露報告，美國總統唐納德·特朗普特使史蒂夫·威特科夫2025年從一家控股公司獲得1.07億美元收入。這家控股公司持有由威特科夫與特朗普等人共同創立的加密貨幣公司股份。在烏克蘭和中東衝突的談判中扮演關鍵角色的威特科夫，並未申報其控股公司旗下基礎資產的價值和收益。他從World Liberty Financial LLC中獲得了多少收益，該檔案並未具體說明。World Liberty是家發行穩定幣並曾出售另一種代幣的公司。"
+    },
+    {
+      "id": "5083926",
+      "time": "2026-09-09 09:06:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【清華大學楊振寧高等研究院揭牌，翁帆出席儀式併發言】9月5日，清華大學楊振寧高等研究院揭牌儀式在大禮堂舉行。清華大學校長李路明院士，副校長王亞愚，原校長、高等研究院原院長顧秉林院士，高等研究院院長段文暉院士，楊振寧夫人翁帆女士，物理系主任翟薈教授等出席儀式。儀式上，王亞愚宣讀了“清華大學高等研究院”更名為“清華大學楊振寧高等研究院”（簡稱“高研院”）的決定。王亞愚表示，高研院的制度基因、前沿探索及人才培養模式已經深深融入了清華物理學科的體系中。今天，以楊振寧先生之名命名高等研究院，既是學校對這位世紀大師的崇高致敬，更是將這份自由探索、唯真求實的學術基因固化下來，傳承下去。顧秉林、翁帆、段文暉分別發言，回顧了楊振寧先生建立高研院的崢嶸歲月。"
+    },
+    {
+      "id": "5083925",
+      "time": "2026-09-09 09:05:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度《經濟時報》報道，JSW 集團與大眾汽車簽署印度業務非約束性諒解備忘錄。  JSW和大眾汽車計劃在2026年底前達成具有約束力的印度業務收購協議。"
+    },
+    {
+      "id": "5083924",
+      "time": "2026-09-09 09:04:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅日藥業：血必淨注射液被納入國際膿毒症指南屬實，暫無海外銷售】紅日藥業9月9日在互動平臺表示，媒體報道的血必淨注射液被納入《拯救膿毒症運動（SSC）國際膿毒症指南》屬實，血必淨注射液系國內獲批的中藥二類新藥，用於膿毒症及多器官功能障礙綜合徵相關治療。血必淨注射液目前暫無海外銷售。血必淨注射液的國際化是一個長期系統工程，目前仍處於學術鋪墊、國際認證等早期階段，距離正式在海外市場商業化銷售還有距離。"
+    },
+    {
+      "id": "5083923",
+      "time": "2026-09-09 09:04:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北摩高科：子公司京瀚禹RISC-V神經網路晶片已取得專利，暫無應用產品】北摩高科9月9日在互動平臺表示，公司子公司京瀚禹的RISC-V神經網路晶片已取得專利，應用場景較廣，但暫未有應用產品。敬請投資者謹慎決策，注意投資風險。"
+    },
     {
       "id": "5083922",
       "time": "2026-09-09 09:03:58",
@@ -125242,134 +125284,6 @@
         "公司"
       ],
       "text": "【李飛飛團隊成立的World Labs釋出新一代世界模型Atlas】人工智慧公司World Labs宣佈推出新一代“世界模型”Atlas。公司稱，Atlas是世界上第一個多模態世界模型，能夠以畫素級精確的相機控制生成影象和影片幀，並將其在 3D 中重建。 李飛飛發文表示，團隊今天實現了一個重大里程碑。她表示，Atlas能夠生成具有畫素級精確相機控制的幀，從僅一張輸入影象重建大型場景，透過重新構圖影片來模擬時空，從一張或多張輸入影象原生輸出3D空間，將多個姿態影象組合成一致的3D世界，以及更多功能。這是有史以來最佳的相機條件世界模型，為從VFX到機器人學的眾多潛在應用場景開啟了大門。 World Labs由著名AI科學家、斯坦福大學教授李飛飛參與創立，公司此前已推出3D世界生成產品Marble。"
-    },
-    {
-      "id": "mkt:01a05fa8-2889-7118-844b-b3ad03bf37d0",
-      "time": "2026-09-02 09:07:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China fuel oil front-month contract surged 8.00% intraday to 4,115 yuan/ton."
-    },
-    {
-      "id": "5071995",
-      "time": "2026-09-02 09:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第十五屆中國智慧財產權年會將於9月8日至9日在北京舉行】記者從國家智慧財產權局瞭解到，第十五屆中國智慧財產權年會媒體吹風會將於今天上午舉行。據瞭解，第十五屆中國智慧財產權年會將於9月8日至9日在北京舉行，圍繞“奮力推動‘十五五’智慧財產權事業高質量發展”主題，聚焦智慧財產權保護和運用、人工智慧等前沿領域、企業創新發展以及國際交流合作等重點內容展開。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a05fa7-972f-7118-844b-adfd0ee1ff79",
-      "time": "2026-09-02 09:06:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【15th China Intellectual Property Annual Conference set for Sept. 8-9 in Beijing】The 15th China Intellectual Property Annual Conference will be held in Beijing on Sept. 8-9. The event’s agenda centers on promoting high-quality development of intellectual property under the 15th Five-Year Plan, with emphasis on IP protection and commercialization, artificial intelligence and other frontier technologies, corporate innovation, and international exchange and cooperation."
-    },
-    {
-      "id": "mkt:01a05fa6-ebcc-7118-844b-a51cfbc3f00a",
-      "time": "2026-09-02 09:06:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Container shipping index (Europe route) front-month contract rose more than 10.00% intraday to 2,015.5 points."
-    },
-    {
-      "id": "5071994",
-      "time": "2026-09-02 09:06:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲8%，現報4115.00元。"
-    },
-    {
-      "id": "5071993",
-      "time": "2026-09-02 09:06:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲11%，現報2035.00點。"
-    },
-    {
-      "id": "5071992",
-      "time": "2026-09-02 09:05:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4351.94美元/盎司。"
-    },
-    {
-      "id": "5071991",
-      "time": "2026-09-02 09:05:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1748.00元。"
-    },
-    {
-      "id": "5071990",
-      "time": "2026-09-02 09:05:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌5%，現報305.20元。"
-    },
-    {
-      "id": "mkt:01a05fa6-482d-7118-844b-9de9823cd017",
-      "time": "2026-09-02 09:05:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Most-active benzene futures contract hit the daily limit-up, rising 6% to 8,495 yuan/ton."
-    },
-    {
-      "id": "mkt:01a05fa6-4683-7118-844b-9640e50db414",
-      "time": "2026-09-02 09:05:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese embassy in New Zealand comments on US-New Zealand plan for deep-water port in Cook Islands】The embassy said it has noted reports that the US and New Zealand plan to build a deep-water port on a former military base in the Cook Islands and that the partners say the project is intended to support development of the Cook Islands, particularly its northern islands. China reiterated its long-standing position that its practical cooperation with Pacific island states — including on infrastructure, poverty reduction and climate adaptation — aims to help those states address real challenges and achieve sustainable development, not to engage in geopolitical competition. It said international cooperation should not be directed at third parties and should help maintain regional peace and stability, and urged parties to work with Pacific island states on the basis of mutual respect, openness and inclusivity to support their development goals."
-    },
-    {
-      "id": "mkt:01a05fa6-1341-7118-844b-8a73b0f85e89",
-      "time": "2026-09-02 09:05:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY reached its highest level since July 31, touching 160.31."
-    },
-    {
-      "id": "5071989",
-      "time": "2026-09-02 09:05:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌4%，現報425.25元。"
-    },
-    {
-      "id": "5071988",
-      "time": "2026-09-02 09:05:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲6%，現報6545.00元。"
     }
   ]
 }
