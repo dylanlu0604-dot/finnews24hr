@@ -1,7 +1,143 @@
 {
   "date": "2026-09-09",
-  "count": 1339,
+  "count": 1353,
   "items": [
+    {
+      "id": "mkt:01a084e9-a6ce-7118-84ff-bcd33d7e33a1",
+      "time": "2026-09-09 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Industrial Production (MoM) (Jul) | actual -0.4% | consensus 0.2% | previous 0.10%"
+    },
+    {
+      "id": "5084368",
+      "time": "2026-09-09 14:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“9·11”檔案披露“毒空氣” 與官方當時說法矛盾】2001年“9·11”襲擊事件25週年前夕，紐約市政府8日首次公佈的襲擊發生後空氣質量檔案顯示，有議員警告世貿中心遺址周邊空氣中存在有害物質，而美國環保署和紐約市官員當時稱空氣“安全”。（央視新聞）"
+    },
+    {
+      "id": "5084367",
+      "time": "2026-09-09 14:44:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報4010.00元。"
+    },
+    {
+      "id": "mkt:01a084e8-d735-7118-84ff-b2b1edc43ce9",
+      "time": "2026-09-09 14:44:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Analysis: U.S.-Canada trade war escalates on three fronts】CNBC reports the White House has escalated the U.S.-Canada trade dispute with three measures: broadening the list of goods subject to 50% tariffs; specifying that Section 232 tariffs will be imposed in addition to those duties; and upgrading some items currently facing 50% tariffs to outright import bans. Tariff stacking is likely to matter most for steel, aluminium and other metal products. Officials appear to be invoking bans because the underlying law bars tariffs above 50% but permits import prohibitions. No estimate has been released of the trade volume affected. The move represents a clear escalation—the Trump administration has not previously used trade law to ban imports from a major trading partner and neighbour."
+    },
+    {
+      "id": "mkt:01a084e8-17ad-7118-84ff-a902b18499a5",
+      "time": "2026-09-09 14:43:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Beijing housing measures one month on: new projects offering 11% discounts, resale bargaining narrows】Beijing’s Aug. 7 housing measures have been in effect one month. Market checks show near-suburban new projects increasingly discounting to boost sales—some promoting 11% off (selling at 89% of list) and a few drawing pre-opening queues near total inventory. Resale transaction pace has accelerated and owners’ bargaining room has narrowed, signalling a clear market warming. Data from HeShuo show Beijing new-home and resale transaction volumes rose 8.5% and 2.3% respectively versus the month before the measures. Centaline Research Center reports August resale online signings in Beijing at 13,853 units, down 1.3% MoM but up about 4.1% YoY, marking six consecutive months above the 13,000-unit threshold; on Aug. 31 single-day signings hit 852. Industry participants say the measures are gradually unlocking first-time and upgrade demand. Transactions are expected to continue recovering through the seasonal September–October period, but the rebound is likely to remain uneven."
+    },
+    {
+      "id": "5084366",
+      "time": "2026-09-09 14:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Safe Bulkers股票在雅典交易所臨時停牌。"
+    },
+    {
+      "id": "5084365",
+      "time": "2026-09-09 14:42:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比跌破1美元兌95.20盧比後回升至95.11。"
+    },
+    {
+      "id": "mkt:01a084e7-7449-7118-84ff-a540d03ff73b",
+      "time": "2026-09-09 14:42:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Trader: Reserve Bank of India may sell dollars to curb Indian rupee depreciation."
+    },
+    {
+      "id": "5084364",
+      "time": "2026-09-09 14:42:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱：印度央行可能正在拋售美元以阻止盧比貶值。"
+    },
+    {
+      "id": "mkt:01a084e6-7e3a-7118-84ff-9c9b52251347",
+      "time": "2026-09-09 14:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's central bank governor said subscriptions for the country's first foreign-exchange (FX) investment fund will begin next week. The fund is intended to attract FX resources and channel them into financing economic activity and FX-earning projects."
+    },
+    {
+      "id": "mkt:01a084e6-7815-7118-84ff-906370257728",
+      "time": "2026-09-09 14:41:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【IDF says airstrikes destroyed three weapons depots and a rocket-launch site in Gaza】The Israel Defense Forces said on the 9th that airstrikes on the 8th hit three weapons depots and an underground rocket-launch site in the Gaza Strip. The IDF said the depots belonged to Hamas and Palestinian Islamic Jihad and stored dozens of weapons, including rockets and assault rifles. Recent reconnaissance allegedly observed militants entering the depots, and the underground launch site was previously used to fire rockets into Israel."
+    },
+    {
+      "id": "5084363",
+      "time": "2026-09-09 14:41:18",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：新城發展營運正恢復正常，維持“增持”評級】摩根士丹利發表研報，在更新新城發展的風險回報分析後，維持“增持”評級，基於資產淨值(NAV)折讓40%及淨負債的綜合估值法，目標價2.3港元，並繼續視為首選股份。該行指出，新城發展營運正恢復正常，投資物業價值釋放及住宅發展業務拖累減少，是看好該股的主要論點。大摩分別下調新城發展2026年至28年各年核心盈測分別10%、4%及5%，以反映利息開支上升，但部分被銷售及行政開支節省優於預期所抵銷。"
+    },
+    {
+      "id": "5084362",
+      "time": "2026-09-09 14:41:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC亞太媒體團掃貨影石，現場下單Luna Ultra】近日，作為亞太經合組織（APEC）“中國年”系列活動的重要組成部分，亞太媒體高階論壇媒體團離深前打卡多家深企。在影石沉浸式體驗Luna Ultra等多款智慧影像產品後，媒體團現場開啟“掃貨模式”。據瞭解，雲臺相機等智慧影像產品成為外國遊客眼中的“新深圳手信”。影石華強北門店資料顯示，高峰時外國消費者佔比達到70%。海關最新資料顯示，深圳攝影攝像相關產品出口保持較快增長，前七個月數字照相機出口73億元，同比增長58.7%。（新浪科技）"
+    },
+    {
+      "id": "5084361",
+      "time": "2026-09-09 14:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱襲擊加沙地帶三個武器庫和一處火箭彈發射陣地】以色列國防軍當地時間9日發表宣告稱，以軍8日對加沙地帶實施了空襲，摧毀了三個武器庫及一處火箭彈發射陣地。宣告稱，被摧毀的武器庫屬於巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）。這些設施內儲存包括火箭彈和突擊步槍在內的數十件武器。近期以軍曾偵察到哈馬斯武裝人員進入上述武器庫。此外，8日的空襲還清除了一個地下火箭彈發射陣地，以軍稱該地此前曾被用於向以色列境內發射火箭彈。（央視新聞）"
+    },
     {
       "id": "5084360",
       "time": "2026-09-09 14:40:43",
