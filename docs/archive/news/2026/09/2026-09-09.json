@@ -1,7 +1,97 @@
 {
   "date": "2026-09-09",
-  "count": 686,
+  "count": 696,
   "items": [
+    {
+      "id": "mkt:01a083bc-0df1-7118-84f7-cbdd90d08c90",
+      "time": "2026-09-09 09:15:34",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.15% at 25,268, trading 49 points below spot."
+    },
+    {
+      "id": "5083939",
+      "time": "2026-09-09 09:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7769，較上日調高35點】人民幣兌美元中間價報6.7769，較上日調高35點。"
+    },
+    {
+      "id": "5083938",
+      "time": "2026-09-09 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7769元，較上日調高35點。"
+    },
+    {
+      "id": "mkt:01a083bb-b45b-7118-84f7-c60036f6da37",
+      "time": "2026-09-09 09:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange will suspend derivatives night trading on September 23, the day before a public holiday."
+    },
+    {
+      "id": "5083936",
+      "time": "2026-09-09 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.24%，報25286.28點，低水30.90點。"
+    },
+    {
+      "id": "5083935",
+      "time": "2026-09-09 09:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國極右翼政黨贏得地方選舉 社會分歧加深】德國東部薩克森-安哈爾特州（薩安州）議會選舉6日晚結束。極右翼政黨德國選擇黨以明顯優勢成為第一大黨。近年來，從東部多個州的地方選舉到聯邦層面的政治博弈，德國選擇黨的支援率持續上升。經濟和社會問題，是此次選舉中德國民眾反覆提及的關鍵詞。近年來，德國經濟增長乏力，能源和生活成本上升，相關爭論不斷加劇。薩安州位於德國東部，人口約210萬，經濟體量較小，長期面臨居民收入偏低、人口持續外流等問題，對經濟現狀的焦慮導致德國東部民眾對主流政黨嚴重不信任，這為極右翼勢力壯大提供了土壤。"
+    },
+    {
+      "id": "5083934",
+      "time": "2026-09-09 09:14:17",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部續發50年超長期特別國債350億元】財政部計劃於今天（9日）第二次續發行2026年超長期特別國債（三期）。本次續發行國債為50年期固定利率附息債，總額350億元，票面利率與之前發行的同期國債相同，為2.52%。（央視新聞）"
+    },
+    {
+      "id": "5083933",
+      "time": "2026-09-09 09:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所9月23日（節假日前）將暫停衍生品夜間交易。"
+    },
+    {
+      "id": "mkt:01a083b9-b8e6-7118-84f7-b93c5f1de624",
+      "time": "2026-09-09 09:13:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SAP.DE",
+        "Impact bearish",
+        "MSFT.O",
+        "ORCL.O"
+      ],
+      "text": "【Bernstein: Incremental ERP spend shifting to AI-native firms】Gartner projects the global ERP market will rise from $65.3bn in 2024 to $126.1bn in 2030, but Bernstein says new spending will concentrate on AI agents. From 2026–2030, simple AI-agent ERP is forecast to grow 66.3% and advanced/autonomous AI-agent ERP 95.0%, while traditional ERP excluding generative AI is expected to shrink 30.1%. Bernstein says AI-native vendors are targeting high-friction workflows—financial close, accounts payable, revenue recognition, purchase requisitions and HR services—without replacing SAP or Oracle. By controlling the UI, workflow orchestration and task execution they can capture the fastest-growing, highest-monetization segments of the ERP market. Bernstein expects incumbents to retain transaction data, permissions, audit and compliance layers while AI-native firms handle top-layer interaction and execution, pointing to a coexistence model. The report flags a long-term risk to SAP, Oracle and Microsoft of ERP moving to the backend and being accessed via external AI agents."
+    },
+    {
+      "id": "mkt:01a083b9-08dd-7118-84f7-b185f5fdab0c",
+      "time": "2026-09-09 09:12:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to issue another CNY30 mln in culture and tourism consumption subsidies】Guangdong will issue an additional CNY30 mln in culture and tourism consumption subsidies as part of the 2026 Golden Autumn culture and tourism season; the program runs through Oct. 31, 2026 and targets demand over the Mid‑Autumn and National Day holiday periods."
+    },
     {
       "id": "5083932",
       "time": "2026-09-09 09:11:15",

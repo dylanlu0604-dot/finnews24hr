@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-09 09:12:26",
+  "updated": "2026-09-09 09:16:20",
   "count": 13735,
   "items": [
+    {
+      "id": "mkt:01a083bc-0df1-7118-84f7-cbdd90d08c90",
+      "time": "2026-09-09 09:15:34",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.15% at 25,268, trading 49 points below spot."
+    },
+    {
+      "id": "5083939",
+      "time": "2026-09-09 09:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7769，較上日調高35點】人民幣兌美元中間價報6.7769，較上日調高35點。"
+    },
+    {
+      "id": "5083938",
+      "time": "2026-09-09 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7769元，較上日調高35點。"
+    },
+    {
+      "id": "mkt:01a083bb-b45b-7118-84f7-c60036f6da37",
+      "time": "2026-09-09 09:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange will suspend derivatives night trading on September 23, the day before a public holiday."
+    },
+    {
+      "id": "5083936",
+      "time": "2026-09-09 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.24%，報25286.28點，低水30.90點。"
+    },
+    {
+      "id": "5083935",
+      "time": "2026-09-09 09:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國極右翼政黨贏得地方選舉 社會分歧加深】德國東部薩克森-安哈爾特州（薩安州）議會選舉6日晚結束。極右翼政黨德國選擇黨以明顯優勢成為第一大黨。近年來，從東部多個州的地方選舉到聯邦層面的政治博弈，德國選擇黨的支援率持續上升。經濟和社會問題，是此次選舉中德國民眾反覆提及的關鍵詞。近年來，德國經濟增長乏力，能源和生活成本上升，相關爭論不斷加劇。薩安州位於德國東部，人口約210萬，經濟體量較小，長期面臨居民收入偏低、人口持續外流等問題，對經濟現狀的焦慮導致德國東部民眾對主流政黨嚴重不信任，這為極右翼勢力壯大提供了土壤。"
+    },
+    {
+      "id": "5083934",
+      "time": "2026-09-09 09:14:17",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部續發50年超長期特別國債350億元】財政部計劃於今天（9日）第二次續發行2026年超長期特別國債（三期）。本次續發行國債為50年期固定利率附息債，總額350億元，票面利率與之前發行的同期國債相同，為2.52%。（央視新聞）"
+    },
+    {
+      "id": "5083933",
+      "time": "2026-09-09 09:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所9月23日（節假日前）將暫停衍生品夜間交易。"
+    },
+    {
+      "id": "mkt:01a083b9-b8e6-7118-84f7-b93c5f1de624",
+      "time": "2026-09-09 09:13:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SAP.DE",
+        "Impact bearish",
+        "MSFT.O",
+        "ORCL.O"
+      ],
+      "text": "【Bernstein: Incremental ERP spend shifting to AI-native firms】Gartner projects the global ERP market will rise from $65.3bn in 2024 to $126.1bn in 2030, but Bernstein says new spending will concentrate on AI agents. From 2026–2030, simple AI-agent ERP is forecast to grow 66.3% and advanced/autonomous AI-agent ERP 95.0%, while traditional ERP excluding generative AI is expected to shrink 30.1%. Bernstein says AI-native vendors are targeting high-friction workflows—financial close, accounts payable, revenue recognition, purchase requisitions and HR services—without replacing SAP or Oracle. By controlling the UI, workflow orchestration and task execution they can capture the fastest-growing, highest-monetization segments of the ERP market. Bernstein expects incumbents to retain transaction data, permissions, audit and compliance layers while AI-native firms handle top-layer interaction and execution, pointing to a coexistence model. The report flags a long-term risk to SAP, Oracle and Microsoft of ERP moving to the backend and being accessed via external AI agents."
+    },
+    {
+      "id": "mkt:01a083b9-08dd-7118-84f7-b185f5fdab0c",
+      "time": "2026-09-09 09:12:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to issue another CNY30 mln in culture and tourism consumption subsidies】Guangdong will issue an additional CNY30 mln in culture and tourism consumption subsidies as part of the 2026 Golden Autumn culture and tourism season; the program runs through Oct. 31, 2026 and targets demand over the Mid‑Autumn and National Day holiday periods."
+    },
     {
       "id": "5083932",
       "time": "2026-09-09 09:11:15",
@@ -125208,90 +125298,6 @@
         "Impact bearish"
       ],
       "text": "【Iran strikes continue; South Korean stocks under pressure】South Korean stocks opened sharply lower on Wednesday as continued U.S. and Iranian military strikes lifted oil prices. U.S. major indexes fell overnight. Inflation concerns sparked a government bond sell-off, pushing the 10-year U.S. Treasury yield to its highest level since January last year. In Seoul, most stocks opened down: Samsung Electronics −3.26%, SK Hynix −3.01%, Hyundai Motor −3.87%, Doosan Enerbility −3.32%, Shinsegae Group −6.08%, Samsung Biologics −1.32%."
-    },
-    {
-      "id": "5072006",
-      "time": "2026-09-02 09:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：“一點也不關心”伊朗是否簽署協議。"
-    },
-    {
-      "id": "5072005",
-      "time": "2026-09-02 09:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7829元，下調20.00點。"
-    },
-    {
-      "id": "mkt:01a05faf-9c7c-7118-844b-d17b031965f1",
-      "time": "2026-09-02 09:15:39",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng futures opened the day session down 0.17% at 25,130, trading about 200 points below the cash index."
-    },
-    {
-      "id": "5072004",
-      "time": "2026-09-02 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.17%，報25128.70點，低水201.03點。"
-    },
-    {
-      "id": "5072003",
-      "time": "2026-09-02 09:14:59",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【天目先導啟動IPO輔導】證監會網站披露，溧陽天目先導電池材料科技股份有限公司於2026年9月1日在江蘇證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。"
-    },
-    {
-      "id": "5072002",
-      "time": "2026-09-02 09:14:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內漲5%，現報8527.00元。"
-    },
-    {
-      "id": "5072001",
-      "time": "2026-09-02 09:14:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "嘉藝控股有限公司在香港暫停交易。"
-    },
-    {
-      "id": "5072000",
-      "time": "2026-09-02 09:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我更喜歡我們現在的立場。"
-    },
-    {
-      "id": "5071999",
-      "time": "2026-09-02 09:13:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：並未試圖強迫伊朗回到談判桌前。"
-    },
-    {
-      "id": "mkt:01a05fac-c9de-7118-844b-cfb702546756",
-      "time": "2026-09-02 09:12:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tianmu Xiandao files IPO counseling registration with CSRC】CSRC website shows Liyang Tianmu Xiandao Battery Materials Technology Co., Ltd. filed IPO counseling registration with the Jiangsu bureau on Sept. 1, 2026 to pursue an initial public offering; sponsor is CITIC Securities. The counseling filing says no single shareholder holds more than 10pct and the company has no controlling shareholder. Luo Fei directly holds 2.34pct, controls 19.08pct via holding platforms, and directly and indirectly controls 21.42pct, making him the company’s actual controller."
     }
   ]
 }
