@@ -1,7 +1,733 @@
 {
   "date": "2026-09-10",
-  "count": 260,
+  "count": 335,
   "items": [
+    {
+      "id": "5085820",
+      "time": "2026-09-10 04:38:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通給予SK海力士超配評級，目標價245美元。"
+    },
+    {
+      "id": "5085818",
+      "time": "2026-09-10 04:38:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方強調政治外交是伊核問題出路】9月9日，國際原子能機構（IAEA）理事會審議伊朗核問題。中國常駐國際原子能機構代表李松大使發言闡述中方立場。李松指出，去年6月以來，美國、以色列兩次軍事打擊伊朗接受國際原子能機構保障監督的和平核設施，對伊朗與機構之間的保障監督合作造成嚴重障礙，對《不擴散核武器條約》機制構成嚴重打擊，是導致伊朗與機構合作至今無法迴歸正軌的根本原因。 李松強調，在理事會搞政治對抗解決不了伊核問題，強行透過決議只會激化矛盾，提交安理會沒有出路。伊朗核問題的歷史沿革充分證明，政治外交解決才是伊朗核問題出路。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a087e3-cae2-7118-8511-8d997f32f18e",
+      "time": "2026-09-10 04:37:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Blackstone-backed energy company Kinetik is weighing strategic options, including a potential sale."
+    },
+    {
+      "id": "mkt:01a087e2-da78-7118-8511-8047e2550bde",
+      "time": "2026-09-10 04:36:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy stopped in Iceland en route to Canada and met Iceland's foreign minister."
+    },
+    {
+      "id": "5085816",
+      "time": "2026-09-10 04:36:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "Kinetik盤後上漲5%。"
+    },
+    {
+      "id": "5085814",
+      "time": "2026-09-10 04:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在前往加拿大途中短暫停留冰島，與冰島外交部長舉行會面。"
+    },
+    {
+      "id": "te:markets:582505",
+      "time": "2026-09-10 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.67% Lower — The Dow Jones Index fell 355 points or 0.67 percent on Wednesday to close at 52431 points. Leading the losses are Alphabet (-2.92%), P&G (-2.01%) and Nike (-1.99%). Top gainers were IBM (3.49%), Chevron (1.87%) and JPMorgan (0.48%)."
+    },
+    {
+      "id": "5085812",
+      "time": "2026-09-10 04:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團投資的Kinetik公司正評估各類方案，其中包含出售選項。"
+    },
+    {
+      "id": "5085811",
+      "time": "2026-09-10 04:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院駁回了阻止密蘇里州共和黨支援的選民選區劃分方案的申請。"
+    },
+    {
+      "id": "mkt:01a087dc-b604-7118-8511-7aca3ef1a257",
+      "time": "2026-09-10 04:29:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said current refining capacity is a bigger problem than crude oil supply."
+    },
+    {
+      "id": "5085807",
+      "time": "2026-09-10 04:26:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：當前煉油行業面臨的問題比原油本身更為嚴峻。"
+    },
+    {
+      "id": "mkt:01a087d5-7e12-7118-8511-7523a582373c",
+      "time": "2026-09-10 04:21:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's foreign minister urged the international community after the Sumy incident to take further action: strengthen Ukraine's ability to close its airspace, curb Russia's capacity to manufacture weapons, and increase pressure on resources supporting Russia's war effort."
+    },
+    {
+      "id": "mkt:01a087d5-65f9-7118-8511-6a3bc5e2bd32",
+      "time": "2026-09-10 04:21:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine's foreign minister said Russia deliberately used drones to strike a shopping center in Sumy, killing at least two people and wounding 20."
+    },
+    {
+      "id": "te:markets:582504",
+      "time": "2026-09-10 04:21:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Lower on Trade War and Inflation Concerns — The S&P/TSX Composite Index fell 0.6% to close at 35,907 on Wednesday after the US expanded trade restrictions on Canada. The US banned imports of numerous alcoholic beverages, motorcycles and dairy products, following 50% tariffs imposed last month on about $20 billion of Canadian goods and retaliatory tariffs from Canada. Saputo lost 0.7%, Canada Packers shed 3.1%, and BRP fell 4%. Meanwhile, intensifying Middle East hostilities pushed oil prices higher, rekindling inflation fears ahead of Friday’s US CPI data. Banks came under pressure amid increased rate-hike expectations, with RBC and TD Bank down 0.9%, BMO losing 1.3%, and CIBC shedding 1.5%. Miners gained on higher gold prices, with Agnico Eagle adding 0.7%, Barrick rising 1.2%, and WPM up 1.4%. Lithium Americas jumped 6.5% after J.P. Morgan initiated coverage with an “overweight” rating."
+    },
+    {
+      "id": "mkt:01a087d3-fdb3-7118-8511-6530d1ed12a5",
+      "time": "2026-09-10 04:20:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENB.O",
+        "Impact mixed"
+      ],
+      "text": "Canada's energy-transport leader Enbridge will acquire energy services firm Tallgrass's crude oil business for $2.55 billion in cash."
+    },
+    {
+      "id": "mkt:01a087d3-e0d4-7118-8511-5e37db3daab7",
+      "time": "2026-09-10 04:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Sept. 4 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a087d2-8c51-7118-8511-50d2d5681fde",
+      "time": "2026-09-10 04:18:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "According to an SEC filing, Amazon (AMZN.O) has issued £4.25 billion of sterling-denominated bonds in four tranches, with coupons ranging from 5.200% to 6.650%."
+    },
+    {
+      "id": "5085792",
+      "time": "2026-09-10 04:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗：我們認為，沒有任何一方給予伊朗的東西能夠改變當前局勢與現狀。伊朗持續向海軍艦船發動襲擊；一旦他們襲擊我方艦船，就要付出油輪受損的代價。他們沒能擊中我方艦船，但已經損失了五艘油輪。昨晚他們又損失五艘，四艘受損，一艘沉沒。他們將持續為此付出代價。與此同時，我們會繼續在經濟上遏制伊朗。"
+    },
+    {
+      "id": "mkt:01a087d1-8348-7118-8511-4a2adccbe8aa",
+      "time": "2026-09-10 04:17:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Congressional Budget Office (CBO) projects the US budget deficit for August at $168 billion."
+    },
+    {
+      "id": "5085791",
+      "time": "2026-09-10 04:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：發行42.5億英鎊債券，分四個批次，票面利率介於5.200%至6.650%之間。"
+    },
+    {
+      "id": "5085788",
+      "time": "2026-09-10 04:16:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大安橋公司擬以25.5億美元現金收購Tallgrass原油業務。"
+    },
+    {
+      "id": "mkt:01a087cf-e9b1-7118-8511-41ee29c23156",
+      "time": "2026-09-10 04:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Moldovan government spokesman said Zelenskiy's trip to Norway on Tuesday was delayed after authorities closed airspace due to a drone alert. Flight restrictions were lifted after a Russian drone crashed in Moldovan territory."
+    },
+    {
+      "id": "5085785",
+      "time": "2026-09-10 04:15:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國會預算辦公室預估8月聯邦預算赤字為1680億美元。"
+    },
+    {
+      "id": "5085783",
+      "time": "2026-09-10 04:13:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "摩爾多瓦政府發言人：因釋出無人機警報關閉空域，烏克蘭總統澤連斯基原定於週二動身前往挪威的行程推遲。俄羅斯無人機墜落在摩爾多瓦境內後，飛行限制已被解除。"
+    },
+    {
+      "id": "5085781",
+      "time": "2026-09-10 04:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "摩托羅拉解決方案董事會批准將股票回購計劃增加20億美元，擴大公司的股票回購授權額度。"
+    },
+    {
+      "id": "5085779",
+      "time": "2026-09-10 04:10:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "摩托羅拉：董事會批准將股票回購計劃規模擴大20億美元。"
+    },
+    {
+      "id": "mkt:01a087cb-021b-7118-8511-3a6de7f7c9d1",
+      "time": "2026-09-10 04:10:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it remains focused on shipping security in the Strait of Hormuz and blamed military aggression by the U.S. and Israel for the deterioration of regional sea-lane security. It said that while complying with international law it has taken necessary defensive measures to safeguard its security and national interests."
+    },
+    {
+      "id": "mkt:01a087ca-62cf-7118-8511-311398225cc7",
+      "time": "2026-09-10 04:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say a board controlled by Venezuela’s opposition will cease oversight of U.S. refiner Citgo Petroleum as early as this month."
+    },
+    {
+      "id": "mkt:01a087c9-5698-7118-8511-2f8be562162f",
+      "time": "2026-09-10 04:08:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Tehran categorically rejects allegations of interference in Yemen, supports intra‑Yemen dialogue conducted under an established roadmap, and stressed the necessity of preserving Yemen's unity and territorial integrity."
+    },
+    {
+      "id": "5085777",
+      "time": "2026-09-10 04:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：要在經濟上“扼殺”伊朗，針對伊朗油輪的襲擊行動將會持續。"
+    },
+    {
+      "id": "te:markets:582503",
+      "time": "2026-09-10 04:08:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Wall Street Slips on Higher Yields — US stock indices closed lower on Wednesday as higher yields weighed on corporate margins and consumer demand. The S&P 500 fell 0.5%, the Nasdaq lost 0.3%, and the Dow shed 405 points. Oil prices rose further as US-Iran strikes escalated, reducing the likelihood of a near-term resumption of Middle Eastern oil exports and adding to inflation concerns ahead of the Fed’s meeting next week. Risks that higher borrowing costs could weigh on equities increased amid higher rates on debt raised by AI hyperscalers for data-center development. The US Treasury tripled the initial size of its next buyback of longer-dated debt, disappointing investors who had expected a larger increase. Alphabet fell 2.3% after announcing a $15.1 billion buildout in Finland, while Amazon dropped 1.8% after another sterling financing round. Meta jumped 6.5% on a new AI agent. Apple shed 0.3% despite unveiling a foldable iPhone. Gains in chipmakers helped limit Nasdaq losses, Micron added 2.7% and AMD rose 3%."
+    },
+    {
+      "id": "mkt:01a087c8-83c6-7118-8511-2423a865dffa",
+      "time": "2026-09-10 04:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry said it rejects and condemns all false and baseless allegations against Iran contained in the final statement of the Arab League's 166th foreign ministers' meeting."
+    },
+    {
+      "id": "mkt:01a087c4-aeea-7118-8511-1c16ebc25cd0",
+      "time": "2026-09-10 04:03:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed lower on Wednesday, Sept. 9: Dow Jones Industrial Average fell 404.99 points (-0.77%) to 52,381.08; S&P 500 dropped 37.03 points (-0.48%) to 7,636.49; Nasdaq Composite declined 168.07 points (-0.64%) to 26,253.34."
+    },
+    {
+      "id": "5085773",
+      "time": "2026-09-10 04:02:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價上漲6.6%，創7月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a087c3-d674-7118-8511-16a01bfbf10f",
+      "time": "2026-09-10 04:02:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Greater China",
+        "Star Stocks",
+        "Apple",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "SKHY.O",
+        "Impact bullish",
+        "AAPL.O",
+        "Impact bearish",
+        "META.O"
+      ],
+      "text": "【US close: major indices lower, SK Hynix up 7%】US stocks closed lower Wednesday: Dow -0.77%, S&P 500 -0.48%, Nasdaq -0.64%. Apple (AAPL.O) -0.2%; SK Hynix (SKHY.O) +7%; AMD (AMD.O) +3%; Meta Platforms (META.O) +6.5%. Nasdaq Golden Dragon China Index -2.08%; Alibaba (BABA.N) -2.8%; iQIYI (IQ.O) -5%."
+    },
+    {
+      "id": "5085772",
+      "time": "2026-09-10 04:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾執行長表示，人工智慧正在開拓“極其廣闊”的開發空間，並大幅加速新功能與新效能的落地。"
+    },
+    {
+      "id": "5085771",
+      "time": "2026-09-10 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.77%，標普500指數跌0.48%，納指跌0.64%。Casey’跌14.24%，VRT跌9.65%，特許通訊跌8.13%，康卡斯特跌6.61%，庫珀醫療跌6.22%，Shopify跌5.45%。“七姐妹”方面：Meta Platforms漲6.55%，特斯拉跌0.10%，蘋果跌0.28%，微軟跌0.47%，英偉達跌0.91%，亞馬遜跌1.78%，谷歌跌2.09%。"
+    },
+    {
+      "id": "mkt:01a087c1-eec8-7118-8511-0b27ca1e6ddb",
+      "time": "2026-09-10 04:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's first vice president said Iran will firmly defend its right to the peaceful use of nuclear energy."
+    },
+    {
+      "id": "5085770",
+      "time": "2026-09-10 04:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基隨後在奧斯陸會見斯托雷，商討歐洲防空合作事宜，強調烏克蘭總統面臨持續的安全風險。"
+    },
+    {
+      "id": "5085769",
+      "time": "2026-09-10 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.08%】閃送跌12.23%，天演藥業跌6.88%，HTT跌5.66%，小馬智行跌5.71%，愛奇藝跌5.12%。"
+    },
+    {
+      "id": "5085768",
+      "time": "2026-09-10 03:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威首相約斯托雷：烏克蘭總統澤連斯基的專機從摩爾多瓦起飛前往奧斯陸途中，險些遭到無人機襲擊。"
+    },
+    {
+      "id": "5085767",
+      "time": "2026-09-10 03:58:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯索契港口發生大規模火災，據稱遭烏克蘭無人機襲擊。"
+    },
+    {
+      "id": "mkt:01a087bf-ab5f-7118-8511-04cd0a4644d7",
+      "time": "2026-09-10 03:58:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Azizi, chairman of Iran’s parliamentary National Security Commission, said the IAEA Board of Governors’ anti‑Iran resolution—adopted without global consensus—exposed the body’s dependence and contradictions, and that Iran will take practical measures to defend its national interests."
+    },
+    {
+      "id": "5085766",
+      "time": "2026-09-10 03:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統：伊朗稱堅定維護和平利用核能權利。"
+    },
+    {
+      "id": "5085765",
+      "time": "2026-09-10 03:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾執行長表示，老舊裝置達到使用極限後，PC更新需求將得到釋放。"
+    },
+    {
+      "id": "mkt:01a087bd-9f04-7118-8510-fecc85e9dfdd",
+      "time": "2026-09-10 03:55:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Sources: Pakistan urges Iran to rein in Houthi forces】Pakistan has warned Iran to restrain Yemen’s Houthi militants after a rise in Houthi attacks on Saudi Arabia, conveying the message on behalf of Riyadh, sources in Saudi, Pakistan and Iran told Refinitiv. Islamabad’s defence ties with Saudi Arabia and Turkey gave the warning added weight; Pakistan delivered the message to Tehran within 24 hours, urging Iran to use its influence to halt strikes on Saudi territory. An Iranian official confirmed Pakistan relayed the warning on Tuesday and said Tehran replied that Iran does not control the Houthis; two other Iranian sources told Refinitiv that Tehran last week ordered Houthi strikes, pledged additional funding and weapons, and sent IRGC commanders to Yemen to coordinate operations. Saudi, Pakistani and Turkish military delegations met in Riyadh to coordinate a response and agreed Saudi forces would not enter Yemen; any action would be launched from Saudi territory."
+    },
+    {
+      "id": "mkt:01a087bc-474c-7118-8510-f4cc0c037cd4",
+      "time": "2026-09-10 03:54:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesman for Yemen's Houthi armed group said Saudi Arabia continues to rely on false narratives and baseless claims to mislead international opinion and is pursuing policies of extortion."
+    },
+    {
+      "id": "mkt:01a087bc-2a3d-7118-8510-e801fdc013e4",
+      "time": "2026-09-10 03:54:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Houthi spokesman said the Saudi regime should stop committing crimes and escalating tensions and should actively respond to calls for peace."
+    },
+    {
+      "id": "5085764",
+      "time": "2026-09-10 03:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：若委內瑞拉代總統羅德里格斯出席聯合國會議，願與其會面。"
+    },
+    {
+      "id": "mkt:01a087ba-aa62-7118-8510-e5a49e2c3371",
+      "time": "2026-09-10 03:52:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) analyst Gulman said Apple's tech-specs page appears to show the iPhone 18 Pro uses a C2 modem, while the iPhone 18 Pro Max continues to use a Qualcomm modem."
+    },
+    {
+      "id": "5085760",
+      "time": "2026-09-10 03:46:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：不認為有任何一方在軍事上支援伊朗。"
+    },
+    {
+      "id": "5085758",
+      "time": "2026-09-10 03:46:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員敦促美軍撤離海灣地區，稱“趁還來得及，保全剩餘裝備撤回本土，專注守衛你們自己的邊境”。"
+    },
+    {
+      "id": "mkt:01a087b4-d906-7118-8510-d80e7dae9818",
+      "time": "2026-09-10 03:46:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TPG Capital is working with JP Morgan bankers to explore a possible sale of medical-payments software company Lyric for about $5 billion, sources said."
+    },
+    {
+      "id": "mkt:01a087b4-cbf2-7118-8510-d28c5606ddee",
+      "time": "2026-09-10 03:46:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump: Iran conflict to end after US midterms; oil to fall thereafter】On Sept. 9 at Andrews Joint Base, President Trump said he expects the conflict with Iran to end after the U.S. midterm elections in November, saying the U.S. is not seeking negotiations and that Iran cannot sustain the fight. He also said Iran is attempting to influence the vote to install softer leadership and pursue nuclear weapons. On oil, Trump said prices will take longer than the midterms to ease but insisted they will fall sharply once the conflict ends."
+    },
+    {
+      "id": "5085756",
+      "time": "2026-09-10 03:45:52",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "市場資訊：美國大型私募股權投資機構TPG正聯合摩根大通銀行團隊，探討以50億美元出售醫療支付軟體企業Lyric。"
+    },
+    {
+      "id": "5085755",
+      "time": "2026-09-10 03:43:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特呼籲參議院透過《加密貨幣明晰法案》。"
+    },
+    {
+      "id": "5085751",
+      "time": "2026-09-10 03:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普登機前空軍一號放下應急滑梯】特朗普是在安德魯斯聯合基地準備搭乘“空軍一號”專機前往達拉斯參加共和黨中期選舉集會時對媒體發表講話。據美國媒體報道，特朗普抵達時，“空軍一號”的應急滑梯因“測試”處於放下的狀態，導致特朗普的行程延誤。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5085750",
+      "time": "2026-09-10 03:39:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗戰爭中期選舉後結束】美國總統特朗普當地時間9月9日下午對媒體表示，他預計對伊朗的戰事將於今年11月美國中期選舉後結束。特朗普在回答記者提問時說：“我們不尋求（與伊朗談判），選舉一結束，這場戰爭立馬就會終結。因為他們撐不下去了。他們現在拼命想影響選舉結果，好讓我們選出一群軟弱無能的人上臺，然後對他們放任不管，讓他們擁有核武器。”"
+    },
+    {
+      "id": "mkt:01a087ad-80aa-7118-8510-ccee2ac8d1ac",
+      "time": "2026-09-10 03:38:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple fall event: foldable iPhone from 15,999 yuan; iPhone 18 Pro gets 2nm A20 Pro chip】Apple introduced iPhone 18 Pro/Pro Max and a foldable iPhone Duo. iPhone 18 Pro series features the A20 Pro chip on a 2nm process and a new-generation C2 modem; Pro adds a variable-aperture main camera and enhanced video functions; Pro charges to up to 50% in ~15 minutes; Pro Max video playback up to 43 hours. Pricing: iPhone 18 Pro from 9,999 yuan, Pro Max from 10,999 yuan. Preorders Sept. 12; on sale Sept. 18. The foldable iPhone Duo uses the A20 Pro, has a 7.6-inch inner nano-texture display (and a 5.4-inch outer screen), both with ProMotion, always-on display and up to 3,000 nits outdoor brightness. Camera system: dual 48MP main and ultra-wide, fold design supports rear-camera selfies and outer-screen live preview; inner screen uses an under‑display FaceTime camera. Battery: outer-screen playback up to 44 hours, inner-screen up to 31 hours. Hardware: titanium body, IP68, side-mounted Touch ID, 254g weight, Apple Pencil support, eSIM only. Price starts at 15,999 yuan. Preorders Oct. 16; on sale Oct. 23. Other products: AirPods 5 claims up to 50% noise reduction versus AirPods 4 (base 999 yuan; wireless charging 1,149 yuan). Apple Watch Series 12 from 2,999 yuan and Ultra 4 from 6,499 yuan, with always-on Siri, Audio Intelligence and Live Rewind. No standard iPhone 18 was announced. Apple’s online store shows iPhone 17, 17e and Air configurations are listed about 800 yuan higher than their original launch prices."
+    },
+    {
+      "id": "te:markets:582502",
+      "time": "2026-09-10 03:37:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 4-week High — IBM shares increased to 241.20 USD, the highest since August 2026. Over the past 4 weeks, IBM gained 1.82%, and in the last 12 months, it decreased 6.34%."
+    },
+    {
+      "id": "mkt:01a087ab-e022-7118-8510-c049db18ff19",
+      "time": "2026-09-10 03:36:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Starlink's next-generation Router4 features a Wi‑Fi7 chip, promises higher peak speeds and coverage up to 3,500 sq ft (325 sq m); aimed at streaming, gaming and general household use, rolling out soon in select regions."
+    },
+    {
+      "id": "5085746",
+      "time": "2026-09-10 03:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈：新一代星鏈路由器峰值速度更快，覆蓋面積最高可達3500平方英尺（325平方米）。第四代路由器是首款搭載Wi‑Fi 7晶片組的星鏈路由器，專為流媒體、遊戲及日常使用打造。即將在部分地區上線。"
+    },
+    {
+      "id": "mkt:01a087a7-c965-7118-8510-bf6d52c402c7",
+      "time": "2026-09-10 03:31:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent futures settle above $101】ICE Brent Nov futures settled at $101.21/bbl, up $3.29 (3.36%). NYMEX Oct WTI settled at $96.05/bbl, up $3.02 (3.25%)."
+    },
+    {
+      "id": "5085740",
+      "time": "2026-09-10 03:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價9日顯著上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲3.02美元，收於每桶96.05美元，漲幅為3.25%；11月交貨的倫敦布倫特原油期貨價格上漲3.29美元，收於每桶101.21美元，漲幅為3.36%。"
+    },
+    {
+      "id": "mkt:01a087a4-8a05-7118-8510-b333cc9701a4",
+      "time": "2026-09-10 03:28:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index edges up on the 9th】The dollar index, measuring the dollar against six major currencies, rose 0.03% to 98.817 at the New York close on the 9th. EUR/USD 1.1630 (prior 1.1629); GBP/USD 1.3546 (1.3547); USD/JPY 153.60 (153.61); USD/CHF 0.8103 (0.8090); USD/CAD 1.3806 (1.3781); USD/SEK 9.6009 (9.5816)."
+    },
+    {
+      "id": "5085736",
+      "time": "2026-09-10 03:27:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數9日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.03%，在匯市尾市收於98.817。截至紐約匯市尾市，1歐元兌換1.1630美元，高於前一交易日的1.1629美元；1英鎊兌換1.3546美元，低於前一交易日的1.3547美元。1美元兌換153.60日元，低於前一交易日的153.61日元；1美元兌換0.8103瑞士法郎，高於前一交易日的0.8090瑞士法郎；1美元兌換1.3806加元，高於前一交易日的1.3781加元；1美元兌換9.6009瑞典克朗，高於前一交易日的9.5816瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a087a2-9c76-7118-8510-add8af361b8a",
+      "time": "2026-09-10 03:26:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH: Tariff escalation highlights risks to Canada; limited short-term impact."
+    },
+    {
+      "id": "mkt:01a087a2-817b-7118-8510-a383411ca710",
+      "time": "2026-09-10 03:26:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim news agency cited Houthi-affiliated Masirah TV reporting Saudi warplanes launched large-scale airstrikes across multiple Yemeni provinces. Over the past several hours Taiz, Al Jawf, Marib, Hodeidah, Saada and Al Bayda were struck by at least 70 airstrikes."
+    },
+    {
+      "id": "5085732",
+      "time": "2026-09-10 03:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：關稅上調凸顯加拿大面臨的風險，短期影響有限。"
+    },
+    {
+      "id": "5085731",
+      "time": "2026-09-10 03:25:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "恩橋（Enbridge）股價下跌0.2%。"
+    },
+    {
+      "id": "mkt:01a0879f-bcf8-7118-8510-9aceaa122981",
+      "time": "2026-09-10 03:23:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENB.O",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Sources said Canada's energy-transport leader Enbridge is close to agreeing a deal for a major U.S. oil pipeline."
+    },
+    {
+      "id": "mkt:01a0879e-635a-7118-8510-911a682bd119",
+      "time": "2026-09-10 03:21:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Senator Blumenthal pressed OpenAI CEO Altman on security safeguards and issues involving Hugging Face."
+    },
+    {
+      "id": "mkt:01a0879d-f60f-7118-8510-889203d8b7d8",
+      "time": "2026-09-10 03:21:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Saudi forces used artillery and drones to strike Houthi-controlled areas of Yemen’s northern Saada province."
+    },
+    {
+      "id": "5085727",
+      "time": "2026-09-10 03:20:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "加拿大恩橋公司即將敲定一條美國大型輸油管道的相關交易。"
+    },
+    {
+      "id": "5085726",
+      "time": "2026-09-10 03:20:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員布盧門撒爾就安全防護措施以及Hugging Face攻擊事件質詢OpenAI創始人奧特曼，要求其作出回應。"
+    },
     {
       "id": "mkt:01a0879a-b456-7118-8510-830134fffc5f",
       "time": "2026-09-10 03:17:37",
