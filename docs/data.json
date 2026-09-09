@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-10 02:16:02",
-  "count": 13569,
+  "updated": "2026-09-10 02:20:01",
+  "count": 13558,
   "items": [
+    {
+      "id": "5085665",
+      "time": "2026-09-10 02:15:49",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果：iPhone Duo起售價為1999美元，提供256GB至2TB儲存容量。iPhone Duo 將於 10 月 16 日開啟預售，10 月 23 日正式開售。"
+    },
     {
       "id": "mkt:01a08761-e895-7118-850f-332674f61b3e",
       "time": "2026-09-10 02:15:35",
@@ -123807,114 +123818,6 @@
         "DXY"
       ],
       "text": "US President Trump said the renewed strike operations against Iran will not last long."
-    },
-    {
-      "id": "mkt:01a06359-623e-7118-846b-64373cc1b847",
-      "time": "2026-09-03 02:19:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. President Trump said Iran is attempting to rebuild radar and missile systems."
-    },
-    {
-      "id": "5073905",
-      "time": "2026-09-03 02:19:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：伊朗當時正試圖重建雷達與導彈系統。"
-    },
-    {
-      "id": "5073904",
-      "time": "2026-09-03 02:19:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：對伊朗的新一輪打擊行動不會持續太久。"
-    },
-    {
-      "id": "mkt:01a06358-e5f8-7118-846b-5a3654813000",
-      "time": "2026-09-03 02:19:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said U.S. relations with Brazil are good."
-    },
-    {
-      "id": "mkt:01a06358-5339-7118-846b-5170e094bd01",
-      "time": "2026-09-03 02:18:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says U.S. does not need Canadian lumber."
-    },
-    {
-      "id": "te:economy:580573",
-      "time": "2026-09-03 02:18:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Paraguay Annual Inflation Eases in August — Paraguay’s annual inflation eased to 1.5% in August 2026 from 1.6% in July, remaining well below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.5%), education (6.0%), furniture and household goods (1.8%), healthcare (1.7%), and housing and utilities (1.7%). These increases were partly offset by a 0.5% decline in food and non-alcoholic beverages. On a monthly basis, consumer prices were unchanged in August, following a 0.1% decline in July."
-    },
-    {
-      "id": "mkt:01a06357-9681-7118-846b-493fe71a8451",
-      "time": "2026-09-03 02:17:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump declined to say when asked whether he would arm Iranian civilians."
-    },
-    {
-      "id": "mkt:01a06357-409e-7118-846b-4230ce996c08",
-      "time": "2026-09-03 02:17:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA concludes state visit to Egypt】CHINA concluded a state visit to Egypt on Sept 2 local time; President Sisi and his wife saw him off at Cairo airport."
-    },
-    {
-      "id": "5073903",
-      "time": "2026-09-03 02:17:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談加拿大：不需要他們的木材。"
-    },
-    {
-      "id": "mkt:01a06356-be8c-7118-846b-3aec469daf9d",
-      "time": "2026-09-03 02:17:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Canada is acting with impunity."
-    },
-    {
-      "id": "mkt:01a06356-210a-7118-846b-30811824339b",
-      "time": "2026-09-03 02:16:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury authorizes certain activities involving coal sourced from Venezuela."
-    },
-    {
-      "id": "5073902",
-      "time": "2026-09-03 02:16:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：加拿大比越南更難對付。"
     }
   ]
 }
