@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-10 06:51:21",
-  "count": 13538,
+  "updated": "2026-09-10 06:55:32",
+  "count": 13537,
   "items": [
+    {
+      "id": "5085895",
+      "time": "2026-09-10 06:54:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏軍工設施和港口等目標 烏稱實施縱深打擊】俄羅斯國防部9日通報稱，俄軍當天繼續對烏克蘭的軍工設施及用於軍事目的的港口、船隻和物流中心進行打擊。同一天，烏克蘭軍方通報稱，烏軍在俄羅斯境內實施了一次縱深打擊。（央視新聞）"
+    },
     {
       "id": "5085894",
       "time": "2026-09-10 06:49:16",
@@ -123632,26 +123640,6 @@
         "The Trump Trade"
       ],
       "text": "【House Republicans Press Trump on Duty-Free Beef and Canada Trade Frictions】House Republicans are increasingly unhappy with Trump’s trade agenda and are preparing to press the White House directly, Axios reports. With midterms approaching, members singled out expanded duty-free beef imports and a potential trade confrontation with Canada as threats to domestic industry and district jobs. Trump hosted several Republican lawmakers at the White House Wednesday; Iowa Rep. Zach Nunn said beef will be on the agenda, and Michigan Rep. Bill Huizenga said he plans to raise the Canada issue."
-    },
-    {
-      "id": "te:economy:580600",
-      "time": "2026-09-03 06:55:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Terms of Trade",
-        "Importance 1"
-      ],
-      "text": "New Zealand Terms of Trade Falls More Than Expected — New Zealand’s merchandise terms of trade dropped 9.0% quarter-on-quarter in the three months to June 2026, following a dowanwardly revised 1.9% fall in the prior quarter and coming in worse than expectations of a 2.2% decline. The deterioration reflected higher relative export prices, with export prices rising 3.5% compared with a 13.8% jump in import prices. In value terms, export values rose 6.7% to $21.2 billion as export volumes increased 6.4%, while import values grew 7.1% to $22.8 billion despite import volumes falling 2.1%."
-    },
-    {
-      "id": "5074072",
-      "time": "2026-09-03 06:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Palo Alto Networks按5億美元（現金+股票）收購Console。"
     }
   ]
 }
