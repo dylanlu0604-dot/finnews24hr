@@ -1,7 +1,100 @@
 {
   "date": "2026-09-10",
-  "count": 387,
+  "count": 397,
   "items": [
+    {
+      "id": "mkt:01a08816-09d8-7118-8512-87dbaa2a140e",
+      "time": "2026-09-10 05:32:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Semafor reported AI researcher Andrew Tulloch is leaving Meta Platforms (META.O)."
+    },
+    {
+      "id": "5085863",
+      "time": "2026-09-10 05:32:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源部長：柴油價格下跌反而構成 “更大挑戰”。"
+    },
+    {
+      "id": "5085862",
+      "time": "2026-09-10 05:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI研究員安德魯·圖洛克即將離開Meta。"
+    },
+    {
+      "id": "5085861",
+      "time": "2026-09-10 05:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報101.84美元/桶。"
+    },
+    {
+      "id": "5085860",
+      "time": "2026-09-10 05:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長稱，未來幾周汽油價格將會下降。"
+    },
+    {
+      "id": "mkt:01a08814-a28b-7118-8512-78081b5aaca4",
+      "time": "2026-09-10 05:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian state media reports multiple areas of Sirik were struck by artillery shelling."
+    },
+    {
+      "id": "5085859",
+      "time": "2026-09-10 05:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：錫裡克多個地區遭到炮彈襲擊。"
+    },
+    {
+      "id": "5085858",
+      "time": "2026-09-10 05:30:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗方面稱格什姆島傳出爆炸聲】伊朗方面當天凌晨稱，該國格什姆島傳出巨大爆炸聲。目前尚不清楚爆炸聲是來自海上，還是島內發生了爆炸事件。當地有關部門尚未就此事發表正式宣告。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08813-ae23-7118-8512-751b73ec3361",
+      "time": "2026-09-10 05:29:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli military says \"enemy aircraft intrusion\" alerts sounded across multiple areas in northern Israel; situation under review."
+    },
+    {
+      "id": "5085857",
+      "time": "2026-09-10 05:29:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鐵塔公司：定價發行16億美元2031年、2033年、2036年到期高階無抵押票據，發債所得資金將用於償還6億美元2026年期票據、償還信貸額度，以及用作企業一般用途。"
+    },
     {
       "id": "5085856",
       "time": "2026-09-10 05:24:16",
