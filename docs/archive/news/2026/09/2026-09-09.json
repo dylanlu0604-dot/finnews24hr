@@ -1,7 +1,53 @@
 {
   "date": "2026-09-09",
-  "count": 2377,
+  "count": 2381,
   "items": [
+    {
+      "id": "5085532",
+      "time": "2026-09-09 23:09:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝商所集團宣佈傑克・託賓（Jack Tobin）將於 2027 年 3 月出任首席財務官。"
+    },
+    {
+      "id": "mkt:01a086b6-6f6a-7118-850a-fa65756431e8",
+      "time": "2026-09-09 23:08:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan advises cutting US equity net longs, flags two external risks】JP Morgan says US economic and corporate fundamentals remain intact but expects markets could stay choppy over the next 2–3 weeks. Broad indexes may avoid a clear pullback, yet greater volatility at the sector and stock level is likely. The bank recommends reducing net long US equity exposure and considering dollar-neutral or market-neutral strategies to limit market beta. Near term, watch two external variables: whether the US‑Iran situation moves toward a deal or continues to escalate and lift oil prices, and whether the US‑Canada trade dispute intensifies. (JP Morgan report, Sept. 8)"
+    },
+    {
+      "id": "5085531",
+      "time": "2026-09-09 23:06:58",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部週四擬回購至多60億美元長期國債】美國財政部表示，根據擴大後的國債回購計劃，財政部在首次操作中將購買最多60億美元長期政府債券，此舉顯示出財長貝森特遏制近期借貸成本上升的決心。這一最高規模是財政部最初向投資者公佈的20億美元的三倍。該部門在8月19日的意外宣佈放棄原先計劃，將把此類回購操作的規模“至少提高一倍”。"
+    },
+    {
+      "id": "mkt:01a086b4-c82e-7118-850a-f3c2bf601e74",
+      "time": "2026-09-09 23:06:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Dollar index (DXY) briefly rose about 0.20 to 98.64."
+    },
     {
       "id": "mkt:01a086b3-7635-7118-850a-ef1d8cdd5eae",
       "time": "2026-09-09 23:05:03",
