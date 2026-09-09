@@ -1,7 +1,96 @@
 {
   "date": "2026-09-09",
-  "count": 809,
+  "count": 818,
   "items": [
+    {
+      "id": "5083999",
+      "time": "2026-09-09 09:47:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念板塊持續走高，兆龍互連20cm漲停】光纖概念板塊持續走高，兆龍互連20cm漲停，長飛光纖、匯源通訊、三孚股份等此前封板，亨通光電、唯科科技、蘅東光跟漲。"
+    },
+    {
+      "id": "5083998",
+      "time": "2026-09-09 09:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微納核芯完成10億元C1輪融資】9月9日，AI晶片公司杭州微納核芯電子科技有限公司宣佈完成10億元C1輪融資，優勢資本、元昊投資、金浦投資、陽光人壽、元禾璞華、德聯資本、寬橋恆松、厚雪資本等投資機構和美格智慧、恆旭資本、華勤技術、知名大模型公司等產業投資方共同支援，並有多名老股東持續加碼。"
+    },
+    {
+      "id": "mkt:01a083d7-b973-7118-84f9-64999613cde5",
+      "time": "2026-09-09 09:45:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01879.HK",
+        "Impact bullish",
+        "00522.HK",
+        "03631.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor equipment shares jumped in early trade: Xizhi Technology-P (01879.HK) rose more than 18%, ASMPT (00522.HK) nearly 7%, Tianyue Advanced (03631.HK) over 3%; Tianyu Semiconductor (02658.HK) and peers also advanced."
+    },
+    {
+      "id": "te:markets:582205",
+      "time": "2026-09-09 09:45:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Oil Prices Climb — The dollar index steadied around 98.8 on Wednesday, pausing its recent decline as rising oil prices intensified inflation concerns and strengthened expectations for a Federal Reserve rate hike. Oil prices extended their gains after US forces destroyed five Iranian crude tankers near Kharg Island in retaliation for attempted missile attacks on a US warship. Investors are also awaiting key US inflation data this week, which could provide further clues on the Federal Reserve’s policy outlook ahead of next week’s meeting. Markets are currently pricing in roughly a 60% chance of a 25-basis-point Fed rate hike following stronger-than-expected jobs data released Friday. The European Central Bank and Bank of Japan are likewise expected to tighten monetary policy this month. Meanwhile, the dollar remained pressured against the yen after Treasury Secretary Scott Bessent warned traders against betting on further weakness in the Japanese currency."
+    },
+    {
+      "id": "5083997",
+      "time": "2026-09-09 09:45:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視傳媒板塊走低，慈文傳媒逼近跌停】影視傳媒板塊走低，慈文傳媒逼近跌停，歡瑞世紀、中視傳媒、百納千成跟跌。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093869024933",
+      "time": "2026-09-09 09:44:37",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：產業轉型升級帶動部分行業需求增加、價格上漲】國家統計局城市司首席統計師董莉娟解讀2026年8月份CPI和PPI資料稱，從環比看，全國PPI由上月下降0.7%轉為上漲0.4%。本月PPI環比執行的主要特點：一是輸入性因素影響國內相關行業價格上漲。國際原油及有色金屬價格上行帶動國內相關行業價格上漲。"
+    },
+    {
+      "id": "5083996",
+      "time": "2026-09-09 09:44:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會副會長林紅紅會見卡達外貿事務國務大臣艾哈邁德一行】9月8日，中國貿促會副會長林紅紅在京會見卡達外貿事務國務大臣艾哈邁德一行。雙方就促進貿易投資合作、加強新興產業領域合作、推動產業鏈供應鏈融合、深化區域協調發展等議題進行交流。"
+    },
+    {
+      "id": "mkt:01a083d6-0f22-7118-84f9-5edce94bffbb",
+      "time": "2026-09-09 09:43:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A top executive at Japan's Mitsui O.S.K. Lines said that despite strong freight rates, the company has no plans to expand its oil tanker fleet."
+    },
+    {
+      "id": "mkt:01a083d5-d275-7118-84f9-506362fd254a",
+      "time": "2026-09-09 09:43:43",
+      "tags": [
+        "MKT News",
+        "XianfengJingke.SZ",
+        "Impact bullish",
+        "XuguangElectronics.SZ",
+        "LuweiOptoelectronics.SZ"
+      ],
+      "text": "China A-share lithography-equipment sector surged in fast trade; Xianfeng Jingke rose nearly 9% and Xuguang Electronics climbed more than 6%. Luwei Optoelectronics, Sitake, Hongtian Co. and Xinqi Microassembly also advanced."
+    },
     {
       "id": "5083995",
       "time": "2026-09-09 09:43:18",

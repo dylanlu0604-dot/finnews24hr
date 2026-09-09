@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-09 09:44:02",
-  "count": 13717,
+  "updated": "2026-09-09 09:47:59",
+  "count": 13713,
   "items": [
+    {
+      "id": "5083999",
+      "time": "2026-09-09 09:47:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念板塊持續走高，兆龍互連20cm漲停】光纖概念板塊持續走高，兆龍互連20cm漲停，長飛光纖、匯源通訊、三孚股份等此前封板，亨通光電、唯科科技、蘅東光跟漲。"
+    },
+    {
+      "id": "5083998",
+      "time": "2026-09-09 09:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微納核芯完成10億元C1輪融資】9月9日，AI晶片公司杭州微納核芯電子科技有限公司宣佈完成10億元C1輪融資，優勢資本、元昊投資、金浦投資、陽光人壽、元禾璞華、德聯資本、寬橋恆松、厚雪資本等投資機構和美格智慧、恆旭資本、華勤技術、知名大模型公司等產業投資方共同支援，並有多名老股東持續加碼。"
+    },
+    {
+      "id": "mkt:01a083d7-b973-7118-84f9-64999613cde5",
+      "time": "2026-09-09 09:45:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01879.HK",
+        "Impact bullish",
+        "00522.HK",
+        "03631.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor equipment shares jumped in early trade: Xizhi Technology-P (01879.HK) rose more than 18%, ASMPT (00522.HK) nearly 7%, Tianyue Advanced (03631.HK) over 3%; Tianyu Semiconductor (02658.HK) and peers also advanced."
+    },
+    {
+      "id": "te:markets:582205",
+      "time": "2026-09-09 09:45:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Oil Prices Climb — The dollar index steadied around 98.8 on Wednesday, pausing its recent decline as rising oil prices intensified inflation concerns and strengthened expectations for a Federal Reserve rate hike. Oil prices extended their gains after US forces destroyed five Iranian crude tankers near Kharg Island in retaliation for attempted missile attacks on a US warship. Investors are also awaiting key US inflation data this week, which could provide further clues on the Federal Reserve’s policy outlook ahead of next week’s meeting. Markets are currently pricing in roughly a 60% chance of a 25-basis-point Fed rate hike following stronger-than-expected jobs data released Friday. The European Central Bank and Bank of Japan are likewise expected to tighten monetary policy this month. Meanwhile, the dollar remained pressured against the yen after Treasury Secretary Scott Bessent warned traders against betting on further weakness in the Japanese currency."
+    },
+    {
+      "id": "5083997",
+      "time": "2026-09-09 09:45:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視傳媒板塊走低，慈文傳媒逼近跌停】影視傳媒板塊走低，慈文傳媒逼近跌停，歡瑞世紀、中視傳媒、百納千成跟跌。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609093869024933",
+      "time": "2026-09-09 09:44:37",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：產業轉型升級帶動部分行業需求增加、價格上漲】國家統計局城市司首席統計師董莉娟解讀2026年8月份CPI和PPI資料稱，從環比看，全國PPI由上月下降0.7%轉為上漲0.4%。本月PPI環比執行的主要特點：一是輸入性因素影響國內相關行業價格上漲。國際原油及有色金屬價格上行帶動國內相關行業價格上漲。"
+    },
+    {
+      "id": "5083996",
+      "time": "2026-09-09 09:44:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會副會長林紅紅會見卡達外貿事務國務大臣艾哈邁德一行】9月8日，中國貿促會副會長林紅紅在京會見卡達外貿事務國務大臣艾哈邁德一行。雙方就促進貿易投資合作、加強新興產業領域合作、推動產業鏈供應鏈融合、深化區域協調發展等議題進行交流。"
+    },
+    {
+      "id": "mkt:01a083d6-0f22-7118-84f9-5edce94bffbb",
+      "time": "2026-09-09 09:43:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A top executive at Japan's Mitsui O.S.K. Lines said that despite strong freight rates, the company has no plans to expand its oil tanker fleet."
+    },
+    {
+      "id": "mkt:01a083d5-d275-7118-84f9-506362fd254a",
+      "time": "2026-09-09 09:43:43",
+      "tags": [
+        "MKT News",
+        "XianfengJingke.SZ",
+        "Impact bullish",
+        "XuguangElectronics.SZ",
+        "LuweiOptoelectronics.SZ"
+      ],
+      "text": "China A-share lithography-equipment sector surged in fast trade; Xianfeng Jingke rose nearly 9% and Xuguang Electronics climbed more than 6%. Luwei Optoelectronics, Sitake, Hongtian Co. and Xinqi Microassembly also advanced."
+    },
     {
       "id": "5083995",
       "time": "2026-09-09 09:43:18",
@@ -124990,132 +125079,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超5000億元，較上日此時縮量657億元。"
-    },
-    {
-      "id": "5072085",
-      "time": "2026-09-02 09:47:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻纖概念震盪拉昇 山東玻纖、九鼎新材雙雙漲停】玻纖概念震盪拉昇，山東玻纖、九鼎新材雙雙漲停，中國巨石、中材科技、長海股份、國際復材跟漲。"
-    },
-    {
-      "id": "5072084",
-      "time": "2026-09-02 09:46:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行高田創：即使現在也需要對深度負實際利率進行修正。"
-    },
-    {
-      "id": "5072083",
-      "time": "2026-09-02 09:45:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃氣板塊直線拉昇】燃氣板塊直線拉昇，貴州燃氣漲停，天壕能源、水發燃氣、百川能源、凱添燃氣、國新能源等紛紛走高。"
-    },
-    {
-      "id": "5072082",
-      "time": "2026-09-02 09:45:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北交所合格投資者突破1100萬戶 是開市時近三倍】北交所迎來宣佈設立五週年。記者瞭解到，截至目前，合格投資者超1100萬戶，是開市時的近三倍，超3000只公募基金參與市場，今年以來日均成交約200億元，市場基礎進一步夯實。北交所現有上市公司339家，總市值約8400億元，其中國家級專精特新“小巨人”企業佔比超六成，市場品牌認可度持續提升。 (財聯社記者 林堅)"
-    },
-    {
-      "id": "te:markets:580248",
-      "time": "2026-09-02 09:45:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AIA Stock Price Hits 4-week High — AIA shares increased to 76.45 HKD, the highest since August 2026. Over the past 4 weeks, AIA Group lost 3.82%, and in the last 12 months, it increased 4.5%."
-    },
-    {
-      "id": "5072081",
-      "time": "2026-09-02 09:45:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta收購Manus交易已撤銷，創始團隊恢復實控權】兩位知情人士表示，Meta併購Manus專案的交易已正式撤銷。9月1日，人工智慧體（AI Agent）應用Manus在其官網宣佈，已正式恢復獨立運營，其創始團隊將繼續領導公司。此時距Meta宣佈收購Manus運營主體蝴蝶效應公司剛滿八個月，距其被中國國家發展改革委要求撤銷該交易剛過四個月。（財經雜誌）"
-    },
-    {
-      "id": "mkt:01a05fcb-01f1-7118-844d-6c03f4e250bd",
-      "time": "2026-09-02 09:45:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share gas sector surged, led by Guizhou Gas which hit the daily limit; Tianhao Energy, Shuifa Gas, Baichuan Energy, Kaitian Gas and Guoxin New Energy also climbed."
-    },
-    {
-      "id": "te:markets:580246",
-      "time": "2026-09-02 09:45:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Advances on Rising US-Iran Hostilities — European natural gas prices rose further to €75/MWh on Wednesday, the highest level since January 2023, as rising hostilities between the US and Iran heightened fears of a prolonged disruption to LNG supplies from the Persian Gulf. Iran struck back at US military bases in Jordan, Kuwait and Bahrain following the latest US attacks on Iranian targets near the Strait of Hormuz, which President Trump said were in response to Iranian mine-laying attempts in the waterway and an earlier attack on a US base in Jordan. The escalation comes as LNG flows through the strait were almost at a standstill, tightening supplies and forcing European buyers to compete more aggressively for alternative cargoes as they prepare for the winter heating season. With European gas storage levels still below their usual seasonal levels, an extended disruption would leave the region more exposed to sharper price volatility once colder weather arrives."
-    },
-    {
-      "id": "mkt:01a05fca-c3c0-7118-844d-606e39c438a6",
-      "time": "2026-09-02 09:45:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share property sector dipped intraday; Wo Ai Wo Jia and Tefa Services tumbled more than 8%, with Huayuan Holdings and Shilianhang among the largest decliners."
-    },
-    {
-      "id": "te:markets:580245",
-      "time": "2026-09-02 09:45:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Yangtze Power Stock Price Hits 4-week High — China Yangtze Power shares increased to 28.50 CNY, the highest since August 2026. Over the past 4 weeks, China Yangtze Power lost 1.96%, and in the last 12 months, it increased 1.86%."
-    },
-    {
-      "id": "5072080",
-      "time": "2026-09-02 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股燃氣Ⅲ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
-    },
-    {
-      "id": "5072079",
-      "time": "2026-09-02 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股燃氣Ⅱ板塊異動拉昇】貴州燃氣觸及漲停，凱添燃氣、美能能源、水發燃氣、特瑞斯、首華燃氣、天壕能源跟漲。"
-    },
-    {
-      "id": "mkt:01a05fca-2cf5-7118-844d-5bd3dfe526e4",
-      "time": "2026-09-02 09:44:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA"
-      ],
-      "text": "【SK Biopharmaceuticals to deploy 128 NVIDIA B200 GPUs for AI drug R&D; 17 bln won annual subscription via SK Telecom cluster】SK Biopharmaceuticals said on the 2nd it will acquire 128 NVIDIA B200 GPUs, AI accelerators to support AI-driven drug discovery and development. The devices will be provisioned via SK Telecom-built domestic data cluster HAEIN under a 17 billion won contract structured as an annual subscription, supplying the company with AI infrastructure. SK Biopharmaceuticals said it will apply AI across stages from candidate discovery to development and open innovation; if fully leveraged, AI could shorten experiments and analysis and accelerate a process that typically takes more than 10 years."
     }
   ]
 }
