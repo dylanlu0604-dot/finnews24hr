@@ -1,7 +1,85 @@
 {
   "date": "2026-09-09",
-  "count": 1941,
+  "count": 1950,
   "items": [
+    {
+      "id": "5085060",
+      "time": "2026-09-09 19:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Wipro、CrowdStrike推出CISO指揮中心。"
+    },
+    {
+      "id": "5085059",
+      "time": "2026-09-09 19:08:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Chewy股價盤前上漲2.2%，此前該公司公佈的第二季度利潤與營收均超出市場預期。"
+    },
+    {
+      "id": "5085058",
+      "time": "2026-09-09 19:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人在被問及特朗普對德國地方選舉的言論時表示：我們通常不會對國家元首及政府首腦的言論發表評論。"
+    },
+    {
+      "id": "5085057",
+      "time": "2026-09-09 19:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據協議，D-Wave量子公司股票按每股14.093美元發行。"
+    },
+    {
+      "id": "te:economy:582394",
+      "time": "2026-09-09 19:06:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US Mortgage Rates Hit 15-Month High — The average contract rate for a 30-year fixed mortgage in the US rose to 6.85% in the week ended September 4, its highest level since June 2025, according to the Mortgage Bankers Association. The increase followed a rise in Treasury yields as renewed Middle East tensions fueled inflation concerns, while stronger US labor-market data reinforced expectations for a September rate hike. Mortgage rates have risen nearly 80 basis points since the US and Israel began strikes against Iran in late February. Meanwhile, total mortgage applications fell 2.7%, reversing a 0.8% increase the previous week. Refinancing applications dropped 6.2%, while purchase applications edged down 0.2%."
+    },
+    {
+      "id": "5085056",
+      "time": "2026-09-09 19:06:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週50只基金開啟募集 權益基金佔比超六成】近期，公募基金髮行持續推進，權益產品穩居募集主力，REITs時隔5周再迎新發。公募排排網資料顯示，按認購起始日統計，本週（2026年9月7日-9月13日）全市場共計有50只基金開啟募集，其中權益基金佔到32只，佔比64%，穩居發行主力位置。從投資型別來看，上述新發基金中股票型基金數量達30只，混合型基金8只，債券型基金8只，FOF基金3只。此外，本週有1只REITs發行，這也是時隔5周之後REITs再度開啟募集。"
+    },
+    {
+      "id": "5085055",
+      "time": "2026-09-09 19:05:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯影醫療：2027—2028年整體收入有望維持目前增長態勢】在9月9日的半年度業績會上，聯影醫療(688271)首席財務官王建保在回覆未來收入、利潤增速問題時分析，展望2027—2028年，國內裝置更新、高階升級疊加海外多產品線放量，整體收入有望維持目前的增長態勢。公司利潤受高研發、海外前置投入擾動，剔除匯兌等階段性因素後，核心利潤增速將向收入增速靠攏。"
+    },
+    {
+      "id": "5085054",
+      "time": "2026-09-09 19:05:32",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【16天！長三角史上最長中秋國慶假期運輸方案來了】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角史上最長、為期16天的中秋國慶假期運輸方案近日出臺，鐵路部門在啟用圖定60對高峰線的基礎上，計劃增開304對臨時旅客列車，努力滿足廣大旅客假期出行需要。（央視新聞）"
+    },
+    {
+      "id": "5085053",
+      "time": "2026-09-09 19:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沈鼓集團中籤號出爐：共有30.48萬個】沈鼓集團披露首次公開發行股票網上中籤結果，中籤號碼共有304,781個，每個中籤號碼只能認購500股沈鼓集團A股股票。"
+    },
     {
       "id": "mkt:01a085d7-c318-7118-8506-50532ebce6af",
       "time": "2026-09-09 19:05:04",

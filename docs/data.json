@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-09 19:05:47",
-  "count": 13890,
+  "updated": "2026-09-09 19:09:38",
+  "count": 13881,
   "items": [
+    {
+      "id": "5085060",
+      "time": "2026-09-09 19:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Wipro、CrowdStrike推出CISO指揮中心。"
+    },
+    {
+      "id": "5085059",
+      "time": "2026-09-09 19:08:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Chewy股價盤前上漲2.2%，此前該公司公佈的第二季度利潤與營收均超出市場預期。"
+    },
+    {
+      "id": "5085058",
+      "time": "2026-09-09 19:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人在被問及特朗普對德國地方選舉的言論時表示：我們通常不會對國家元首及政府首腦的言論發表評論。"
+    },
+    {
+      "id": "5085057",
+      "time": "2026-09-09 19:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據協議，D-Wave量子公司股票按每股14.093美元發行。"
+    },
+    {
+      "id": "te:economy:582394",
+      "time": "2026-09-09 19:06:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US Mortgage Rates Hit 15-Month High — The average contract rate for a 30-year fixed mortgage in the US rose to 6.85% in the week ended September 4, its highest level since June 2025, according to the Mortgage Bankers Association. The increase followed a rise in Treasury yields as renewed Middle East tensions fueled inflation concerns, while stronger US labor-market data reinforced expectations for a September rate hike. Mortgage rates have risen nearly 80 basis points since the US and Israel began strikes against Iran in late February. Meanwhile, total mortgage applications fell 2.7%, reversing a 0.8% increase the previous week. Refinancing applications dropped 6.2%, while purchase applications edged down 0.2%."
+    },
+    {
+      "id": "5085056",
+      "time": "2026-09-09 19:06:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週50只基金開啟募集 權益基金佔比超六成】近期，公募基金髮行持續推進，權益產品穩居募集主力，REITs時隔5周再迎新發。公募排排網資料顯示，按認購起始日統計，本週（2026年9月7日-9月13日）全市場共計有50只基金開啟募集，其中權益基金佔到32只，佔比64%，穩居發行主力位置。從投資型別來看，上述新發基金中股票型基金數量達30只，混合型基金8只，債券型基金8只，FOF基金3只。此外，本週有1只REITs發行，這也是時隔5周之後REITs再度開啟募集。"
+    },
+    {
+      "id": "5085055",
+      "time": "2026-09-09 19:05:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯影醫療：2027—2028年整體收入有望維持目前增長態勢】在9月9日的半年度業績會上，聯影醫療(688271)首席財務官王建保在回覆未來收入、利潤增速問題時分析，展望2027—2028年，國內裝置更新、高階升級疊加海外多產品線放量，整體收入有望維持目前的增長態勢。公司利潤受高研發、海外前置投入擾動，剔除匯兌等階段性因素後，核心利潤增速將向收入增速靠攏。"
+    },
+    {
+      "id": "5085054",
+      "time": "2026-09-09 19:05:32",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【16天！長三角史上最長中秋國慶假期運輸方案來了】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角史上最長、為期16天的中秋國慶假期運輸方案近日出臺，鐵路部門在啟用圖定60對高峰線的基礎上，計劃增開304對臨時旅客列車，努力滿足廣大旅客假期出行需要。（央視新聞）"
+    },
+    {
+      "id": "5085053",
+      "time": "2026-09-09 19:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沈鼓集團中籤號出爐：共有30.48萬個】沈鼓集團披露首次公開發行股票網上中籤結果，中籤號碼共有304,781個，每個中籤號碼只能認購500股沈鼓集團A股股票。"
+    },
     {
       "id": "mkt:01a085d7-c318-7118-8506-50532ebce6af",
       "time": "2026-09-09 19:05:04",
@@ -126577,171 +126655,6 @@
         "國際"
       ],
       "text": "印度部長： 印度將在全球達成更多關鍵礦產相關自貿協定。"
-    },
-    {
-      "id": "mkt:01a061cf-13af-7118-845c-ed941b0e452e",
-      "time": "2026-09-02 19:09:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "The Dutch central bank has transferred 86 tonnes of gold from New York and Ottawa to London to improve tradability."
-    },
-    {
-      "id": "5073187",
-      "time": "2026-09-02 19:09:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【茂業商業：股票交易異常波動 上半年營收降26.43%】茂業商業公告稱，公司股票於2026年9月1日、9月2日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經核查，公司及控股股東、實際控制人不存在應披露而未披露的重大事項，董監高及控股股東一致行動人在異常波動期間未買賣公司股票。公司2026年上半年實現營業收入9.29億元，同比下降26.43%；扣非後淨虧損1.22億元，同比下降415.79%。公司目前生產經營正常，敬請投資者注意交易風險。"
-    },
-    {
-      "id": "5073186",
-      "time": "2026-09-02 19:08:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同星科技：截至8月末累計回購股份1.26%】同星科技公告稱，截至2026年8月31日，公司透過集中競價交易方式累計回購股份213.41萬股，佔公司總股本的1.26%，最高成交價34.04元/股，最低成交價27.60元/股，成交總金額為6842.22萬元（不含交易費用）。本次回購股份擬用於實施員工持股計劃或股權激勵，回購資金總額不低於6000萬元、不超過1.20億元，回購價格不超過57.01元/股。公司後續將根據市場情況在回購期限內繼續實施本次回購計劃。"
-    },
-    {
-      "id": "5073185",
-      "time": "2026-09-02 19:08:50",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "荷蘭央行已將86噸黃金從紐約和渥太華轉運至倫敦，以提升黃金的可交易性。"
-    },
-    {
-      "id": "mkt:01a061ce-b121-7118-845c-e68dac2655ae",
-      "time": "2026-09-02 19:08:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India will sign free-trade agreements with the Gulf Cooperation Council (GCC) and Israel once regional conditions stabilize, Commerce and Industry Minister Goyal said."
-    },
-    {
-      "id": "5073184",
-      "time": "2026-09-02 19:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度部長：待地區局勢穩定後，印度將推進與海灣合作委員會、以色列的自貿協定。"
-    },
-    {
-      "id": "5073183",
-      "time": "2026-09-02 19:07:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國船舶：下屬子公司聯合簽訂逾10億美元造船合同】中國船舶(600150.SH)公告稱，公司控股子公司廣船國際聯合中國船舶工業貿易有限公司於2026年9月1日與某知名船東簽訂10艘8200車LNG雙燃料動力汽車運輸船新造船合同，總金額逾10億美元。合同採用美元支付，預期2029年至2031年間交付。公司表示，該合同履行期較長，將對當期利潤不構成重大影響，但有利於提高中長期市場競爭力和盈利能力。"
-    },
-    {
-      "id": "5073182",
-      "time": "2026-09-02 19:07:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【萬盛股份：泰國基地已於6月初試生產，正處於產能爬坡、客戶匯入及認證階段】萬盛股份(603010)9月2日在2026年半年度業績說明會上表示，公司泰國基地按規劃推進，已於2026年6月初試生產，目前運營整體平穩，正處於產能爬坡、客戶匯入及認證階段。專案投產初期，受裝置除錯、產能利用率尚未到位、海外客戶認證週期等因素影響，2026年上半年暫未形成盈利貢獻。後續基地產能釋放節奏，將受海外市場需求、國際貿易政策、地緣環境、客戶拓展進度等多重外部因素制約，存在較大不確定性。"
-    },
-    {
-      "id": "mkt:01a061cd-9b99-7118-845c-dcf36965caec",
-      "time": "2026-09-02 19:07:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's central bank said it is preparing measures to promote timely identification of risks, citing a high share of high-cost credit products in household debt."
-    },
-    {
-      "id": "mkt:01a061cd-99cd-7118-845c-d62c986dc2d5",
-      "time": "2026-09-02 19:07:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's central bank said the measures also aim to promote gradual capital accumulation and to provide borrowers with more sustainable credit conditions."
-    },
-    {
-      "id": "te:economy:580468",
-      "time": "2026-09-02 19:07:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Rate",
-        "Importance 2"
-      ],
-      "text": "US Mortgage Rates Edge Higher Toward One-Year Highs — The average contract rate for a 30-year fixed mortgage in the US edged up to 6.79% in the week ended August 28, from 6.78% the previous week, remaining close to the one-year highs reached in late July, according to the Mortgage Bankers Association. The increase followed a rise in Treasury yields as renewed Middle East tensions stoked inflation concerns, while hawkish comments from Federal Reserve Chair Kevin Warsh reinforced expectations for a September rate hike. Mortgage rates have climbed nearly 70bp since the US and Israel began strikes against Iran in late February. Total mortgage applications rose 0.8%, rebounding after two consecutive weekly declines, with purchase applications up 2.2%. Refinancing applications, however, fell 1.1%."
-    },
-    {
-      "id": "5073181",
-      "time": "2026-09-02 19:07:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭首相： 今日將與法國簽署量子技術、半導體領域多項諒解備忘錄。"
-    },
-    {
-      "id": "mkt:01a061cd-50b9-7118-845c-cc4b7befb615",
-      "time": "2026-09-02 19:07:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Commerce Secretary Lutnick said Canada is showing disrespect to the United States."
-    },
-    {
-      "id": "5073180",
-      "time": "2026-09-02 19:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克稱加拿大對美國“不尊重”。"
-    },
-    {
-      "id": "5073179",
-      "time": "2026-09-02 19:06:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【21家公募上半年“吃罰單”】隨著2026年公募基金中報披露結束，所有公募基金的管理人、託管人及相關從業人員上半年受調查或處罰等情況也被披露。記者統計發現，在163家公募機構當中（含有券商及券商資管），包括長信、先鋒、國聯安、江信、湘財、淳厚、東方等多家機構在內的21家公募基金上半年有相關記錄。從披露內容來看，有的僅限於管理人受到調查或處罰，但也有部分公司出現管理人、高管以及相關從業人員被調查或處罰的情況。受調查或處罰的原因，大多涉及投資運作、人員管理、資訊披露等，也有部分因廉潔從業問題被立案調查。（每經）"
-    },
-    {
-      "id": "5073178",
-      "time": "2026-09-02 19:06:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府宣佈設立新的首相暨內閣辦公室。"
-    },
-    {
-      "id": "mkt:01a061cb-f31c-7118-845c-c22bcc3e1b80",
-      "time": "2026-09-02 19:05:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact mixed",
-        "CSI300"
-      ],
-      "text": "【Aug A-share new accounts 2.3973 mln, down 10.0% YoY】Shanghai Stock Exchange data: Aug 2026 new A-share accounts opened 2.3973 mln, down 10.0% YoY from 2.6503 mln in Aug 2025; Jan–Aug 2026 cumulative new accounts 25.214 mln, up 46.0% YoY."
-    },
-    {
-      "id": "5073177",
-      "time": "2026-09-02 19:05:48",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【8月A股新開戶239.73萬戶】據上交所資料，2026年8月A股新開戶239.73萬戶，同比去年8月265.03萬戶下降10.0%；2026年前8個月已累計新開2521.4萬戶，同比增長46.0%。"
     }
   ]
 }
