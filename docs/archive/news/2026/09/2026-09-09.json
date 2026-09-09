@@ -1,7 +1,200 @@
 {
   "date": "2026-09-09",
-  "count": 1836,
+  "count": 1857,
   "items": [
+    {
+      "id": "5084994",
+      "time": "2026-09-09 18:42:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東誠藥業：貝米肝素鈉注射液上市申請獲受理】東誠藥業公告，2026年9月9日，公司全資子公司煙臺東誠北方製藥有限公司收到國家藥品監督管理局核准簽發的貝米肝素鈉注射液上市許可申請《受理通知書》，申請事項為境內生產藥品註冊上市許可，規格0.2ml:3500AⅩaIU，受理號CYHS2602247，決定予以受理。該產品國內僅原研上市，無仿製藥上市，2025年國內全終端醫院銷售額為3億元。"
+    },
+    {
+      "id": "5084993",
+      "time": "2026-09-09 18:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮頻施壓 史密森學會秘書長宣佈辭職】美國史密森學會秘書長倫尼·邦奇8日宣佈辭職。白宮曾稱史密森學會旗下博物館“過度強調美國蓄奴歷史、未能頌揚美國成就”，對該機構多次施壓。邦奇2019年6月上任，是史密森學會首名非洲裔秘書長。他8日宣佈懷著“複雜情感”辭職，預計今年年底前正式離職。（央視新聞）"
+    },
+    {
+      "id": "5084992",
+      "time": "2026-09-09 18:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金融管理局透過貼現視窗向銀行提供2000萬港元貸款。"
+    },
+    {
+      "id": "mkt:01a085c1-31bd-7118-8505-8713fb66ea00",
+      "time": "2026-09-09 18:40:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FRAIT said there was no reason to adjust interest rates this month."
+    },
+    {
+      "id": "5084991",
+      "time": "2026-09-09 18:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員：歐盟委員會透過了公共採購法案。"
+    },
+    {
+      "id": "5084990",
+      "time": "2026-09-09 18:40:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：通脹達標風險偏上行。"
+    },
+    {
+      "id": "5084987",
+      "time": "2026-09-09 18:40:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：不對未來任何政策舉措作出承諾。"
+    },
+    {
+      "id": "5084986",
+      "time": "2026-09-09 18:40:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：市場利率上行源於其他因素，而非預期中的政策變動。"
+    },
+    {
+      "id": "5084985",
+      "time": "2026-09-09 18:39:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：我認為本月沒有理由調整利率。"
+    },
+    {
+      "id": "5084984",
+      "time": "2026-09-09 18:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "銀湖資本仍將是合併後的賽捷思（Cegid）與西萊（Silae）集團的控股股東。"
+    },
+    {
+      "id": "5084983",
+      "time": "2026-09-09 18:39:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員：歐盟委員會透過保障性住房一攬子方案。"
+    },
+    {
+      "id": "mkt:01a085c0-082f-7118-8505-7aefc7d77da5",
+      "time": "2026-09-09 18:39:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Foreign Ministry said attacks on Iranian commercial vessels are a serious escalation of tensions and threaten regional and international peace and security."
+    },
+    {
+      "id": "5084982",
+      "time": "2026-09-09 18:39:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜尋求透過發行首批英鎊債券籌集至少30億英鎊。"
+    },
+    {
+      "id": "te:economy:582388",
+      "time": "2026-09-09 18:39:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Portugal Trade Deficit Narrows in July as Exports Outpace Imports — Portugal’s trade deficit narrowed to €3.05 billion in July 2026, from €3.45 billion a year earlier. Exports increased 6.5% to €7.40 billion, driven by a 46.6% surge in fuels and lubricants, amid higher energy prices and renewed escalation in the US-Iran war. Exports also rose for industrial supplies (8.1%) and machinery and other capital goods (12.5%), while transport equipment fell 9.3%, mainly due to lower passenger-car sales. Exports to Spain rose 11%, while shipments to the UK and Netherlands fell 10.3% and 12.1%, respectively. Imports increased just 0.6%, led by a 42.7% rise in fuels and lubricants and a 10.2% increase in machinery and other capital goods. Imports of industrial supplies declined 14.2%, mainly due to chemicals. Imports rose from France (25.6%), Spain (4.3%), and Nigeria (584.8%), but plunged from Ireland (81.2%). For the first seven months of 2026, however, Portugal’s trade deficit widened to €21.35 billion, from €18.87 billion a year earlier."
+    },
+    {
+      "id": "mkt:01a085bf-ce63-7118-8505-70cfe024518d",
+      "time": "2026-09-09 18:38:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said the attack on the US base in Jordan was part of its legitimate right of self-defense."
+    },
+    {
+      "id": "5084981",
+      "time": "2026-09-09 18:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿根廷卡法亞特以西 53 公里處發生 5.0 級地震。"
+    },
+    {
+      "id": "5084980",
+      "time": "2026-09-09 18:38:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然堂AI廣告被指冒犯女性、製造容貌焦慮，客服回應：已第一時間處置】9月9日訊息，近日，據媒體報道，自然堂官方旗艦店授權賬號“自然堂官方旗艦店緊緻肽精華水”釋出的多個影片，用AI生成逐漸枯萎的花朵、緩慢變形的蘑菇等，搭配“這就是縱慾過度的女人，法令紋深，用冰敷，臉垮下垂，用冰敷”旁白，推廣旗下緊緻抗皺柔膚水產品。對此情況，自然堂官方旗艦店的客服回應稱，“相關問題我們已經第一時間進行處置。”"
+    },
+    {
+      "id": "mkt:01a085bf-733f-7118-8505-6a27f4510937",
+      "time": "2026-09-09 18:38:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 10-year gilt yield climbed to a one-week high of 5.215%."
+    },
+    {
+      "id": "mkt:01a085bf-67f1-7118-8505-67fe66e2f50b",
+      "time": "2026-09-09 18:38:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Fitch says European rolling-stock leasing companies have shown resilience despite margin and demand pressures."
+    },
+    {
+      "id": "5084979",
+      "time": "2026-09-09 18:38:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【至少三分之一美聯儲官員對減少政策會議次數持開放態度】至少三分之一的美聯儲官員已表示，他們會考慮減少召開議息會議的頻率，這為作為美聯儲新任主席的凱文·沃什推動其提出的最大規模結構性改革之一提供了初步契機。這一想法是否會在近期被採納仍不確定。美聯儲的政策委員會尚未商定任何細節。一些對此持開放態度的官員也表示，他們希望看到對潛在利弊進行更深入的分析，並研究是否應將這一調整與美聯儲溝通策略的其他潛在改革一併推進。克利夫蘭聯儲行長貝絲·哈馬克，堪薩斯城聯儲行長傑弗裡·施密德和費城聯儲行長安娜·保爾森等六位地區聯儲行長近日表示，對減少聯邦公開市場委員會(FOMC)的政策會議次數持開放態度。"
+    },
+    {
+      "id": "mkt:01a085bf-4ffd-7118-8505-5878843fc224",
+      "time": "2026-09-09 18:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India added five currencies to its retail foreign-exchange platform, including the euro and pound sterling."
+    },
     {
       "id": "5084978",
       "time": "2026-09-09 18:38:00",

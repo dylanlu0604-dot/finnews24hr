@@ -1,7 +1,200 @@
 {
-  "updated": "2026-09-09 18:38:49",
-  "count": 13902,
+  "updated": "2026-09-09 18:42:43",
+  "count": 13910,
   "items": [
+    {
+      "id": "5084994",
+      "time": "2026-09-09 18:42:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東誠藥業：貝米肝素鈉注射液上市申請獲受理】東誠藥業公告，2026年9月9日，公司全資子公司煙臺東誠北方製藥有限公司收到國家藥品監督管理局核准簽發的貝米肝素鈉注射液上市許可申請《受理通知書》，申請事項為境內生產藥品註冊上市許可，規格0.2ml:3500AⅩaIU，受理號CYHS2602247，決定予以受理。該產品國內僅原研上市，無仿製藥上市，2025年國內全終端醫院銷售額為3億元。"
+    },
+    {
+      "id": "5084993",
+      "time": "2026-09-09 18:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮頻施壓 史密森學會秘書長宣佈辭職】美國史密森學會秘書長倫尼·邦奇8日宣佈辭職。白宮曾稱史密森學會旗下博物館“過度強調美國蓄奴歷史、未能頌揚美國成就”，對該機構多次施壓。邦奇2019年6月上任，是史密森學會首名非洲裔秘書長。他8日宣佈懷著“複雜情感”辭職，預計今年年底前正式離職。（央視新聞）"
+    },
+    {
+      "id": "5084992",
+      "time": "2026-09-09 18:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金融管理局透過貼現視窗向銀行提供2000萬港元貸款。"
+    },
+    {
+      "id": "mkt:01a085c1-31bd-7118-8505-8713fb66ea00",
+      "time": "2026-09-09 18:40:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FRAIT said there was no reason to adjust interest rates this month."
+    },
+    {
+      "id": "5084991",
+      "time": "2026-09-09 18:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員：歐盟委員會透過了公共採購法案。"
+    },
+    {
+      "id": "5084990",
+      "time": "2026-09-09 18:40:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：通脹達標風險偏上行。"
+    },
+    {
+      "id": "5084987",
+      "time": "2026-09-09 18:40:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：不對未來任何政策舉措作出承諾。"
+    },
+    {
+      "id": "5084986",
+      "time": "2026-09-09 18:40:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：市場利率上行源於其他因素，而非預期中的政策變動。"
+    },
+    {
+      "id": "5084985",
+      "time": "2026-09-09 18:39:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：我認為本月沒有理由調整利率。"
+    },
+    {
+      "id": "5084984",
+      "time": "2026-09-09 18:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "銀湖資本仍將是合併後的賽捷思（Cegid）與西萊（Silae）集團的控股股東。"
+    },
+    {
+      "id": "5084983",
+      "time": "2026-09-09 18:39:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員：歐盟委員會透過保障性住房一攬子方案。"
+    },
+    {
+      "id": "mkt:01a085c0-082f-7118-8505-7aefc7d77da5",
+      "time": "2026-09-09 18:39:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Foreign Ministry said attacks on Iranian commercial vessels are a serious escalation of tensions and threaten regional and international peace and security."
+    },
+    {
+      "id": "5084982",
+      "time": "2026-09-09 18:39:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜尋求透過發行首批英鎊債券籌集至少30億英鎊。"
+    },
+    {
+      "id": "te:economy:582388",
+      "time": "2026-09-09 18:39:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Portugal Trade Deficit Narrows in July as Exports Outpace Imports — Portugal’s trade deficit narrowed to €3.05 billion in July 2026, from €3.45 billion a year earlier. Exports increased 6.5% to €7.40 billion, driven by a 46.6% surge in fuels and lubricants, amid higher energy prices and renewed escalation in the US-Iran war. Exports also rose for industrial supplies (8.1%) and machinery and other capital goods (12.5%), while transport equipment fell 9.3%, mainly due to lower passenger-car sales. Exports to Spain rose 11%, while shipments to the UK and Netherlands fell 10.3% and 12.1%, respectively. Imports increased just 0.6%, led by a 42.7% rise in fuels and lubricants and a 10.2% increase in machinery and other capital goods. Imports of industrial supplies declined 14.2%, mainly due to chemicals. Imports rose from France (25.6%), Spain (4.3%), and Nigeria (584.8%), but plunged from Ireland (81.2%). For the first seven months of 2026, however, Portugal’s trade deficit widened to €21.35 billion, from €18.87 billion a year earlier."
+    },
+    {
+      "id": "mkt:01a085bf-ce63-7118-8505-70cfe024518d",
+      "time": "2026-09-09 18:38:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said the attack on the US base in Jordan was part of its legitimate right of self-defense."
+    },
+    {
+      "id": "5084981",
+      "time": "2026-09-09 18:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿根廷卡法亞特以西 53 公里處發生 5.0 級地震。"
+    },
+    {
+      "id": "5084980",
+      "time": "2026-09-09 18:38:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然堂AI廣告被指冒犯女性、製造容貌焦慮，客服回應：已第一時間處置】9月9日訊息，近日，據媒體報道，自然堂官方旗艦店授權賬號“自然堂官方旗艦店緊緻肽精華水”釋出的多個影片，用AI生成逐漸枯萎的花朵、緩慢變形的蘑菇等，搭配“這就是縱慾過度的女人，法令紋深，用冰敷，臉垮下垂，用冰敷”旁白，推廣旗下緊緻抗皺柔膚水產品。對此情況，自然堂官方旗艦店的客服回應稱，“相關問題我們已經第一時間進行處置。”"
+    },
+    {
+      "id": "mkt:01a085bf-733f-7118-8505-6a27f4510937",
+      "time": "2026-09-09 18:38:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 10-year gilt yield climbed to a one-week high of 5.215%."
+    },
+    {
+      "id": "mkt:01a085bf-67f1-7118-8505-67fe66e2f50b",
+      "time": "2026-09-09 18:38:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Fitch says European rolling-stock leasing companies have shown resilience despite margin and demand pressures."
+    },
+    {
+      "id": "5084979",
+      "time": "2026-09-09 18:38:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【至少三分之一美聯儲官員對減少政策會議次數持開放態度】至少三分之一的美聯儲官員已表示，他們會考慮減少召開議息會議的頻率，這為作為美聯儲新任主席的凱文·沃什推動其提出的最大規模結構性改革之一提供了初步契機。這一想法是否會在近期被採納仍不確定。美聯儲的政策委員會尚未商定任何細節。一些對此持開放態度的官員也表示，他們希望看到對潛在利弊進行更深入的分析，並研究是否應將這一調整與美聯儲溝通策略的其他潛在改革一併推進。克利夫蘭聯儲行長貝絲·哈馬克，堪薩斯城聯儲行長傑弗裡·施密德和費城聯儲行長安娜·保爾森等六位地區聯儲行長近日表示，對減少聯邦公開市場委員會(FOMC)的政策會議次數持開放態度。"
+    },
+    {
+      "id": "mkt:01a085bf-4ffd-7118-8505-5878843fc224",
+      "time": "2026-09-09 18:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India added five currencies to its retail foreign-exchange platform, including the euro and pound sterling."
+    },
     {
       "id": "5084978",
       "time": "2026-09-09 18:38:00",
@@ -126748,121 +126941,6 @@
         "公司"
       ],
       "text": "【愛迪特：兩一致行動股東合計持股比例降至5%】愛迪特公告稱，公司合計持股5%以上的一致行動股東蘇州君聯欣康創業投資合夥企業（有限合夥）、康拓有限公司（HEALTH ADVANCE LIMITED），於2026年8月7日至2026年9月1日期間透過集中競價、大宗交易方式合計減持144.963萬股，佔公司總股本的0.9717%。本次減持後，二者合計持有公司股份745.9528萬股，佔總股本比例降至5.0000%，權益變動觸及1%及5%的整數倍。本次減持符合此前披露的減持計劃，目前減持計劃尚未實施完畢，不會導致公司控制權變更。"
-    },
-    {
-      "id": "5073106",
-      "time": "2026-09-02 18:42:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臺積電季度晶片製造裝置需求今年幾乎翻倍】臺積電聯席營運長侯永清今日表示，隨著公司擴大產能以滿足人工智慧需求，其對晶片製造裝置的需求較去年年底以來幾乎翻了一倍。侯永清稱，公司已將季度裝置採購預估提高至去年12月預測水平的約1.9倍。這是人工智慧開發商需求旺盛以及全球資料中心大規模擴建進一步推高晶片需求的最新跡象。臺積電目前還面臨缺乏有經驗建築工人的問題，公司正試圖在中國臺灣地區及海外建設並配備約20座工廠，其擴張力度在公司歷史上前所未有。過去，臺積電通常同時推進4至5座新廠房的建設。侯永清表示：“目前幾乎是在以過去4到5倍的速度追趕，但依然無法滿足需求。”"
-    },
-    {
-      "id": "5073105",
-      "time": "2026-09-02 18:42:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【節卡機器人回應專利訴訟：未收到正式法律文書】針對有媒體報道稱，美國泰瑞達公司位於丹麥的子公司泰瑞達機器人對節卡機器人德國子公司 JAKA Robotics (Germany) GmbH 提起專利訴訟，節卡機器人方面表示，截至本宣告日，公司尚未收到上述案件的正式法律文書。基於完整技術溯源與專利比對分析，節卡機器人認為不存在侵犯對方專利權的情形。公司充分尊重智慧財產權，同時也會堅定維護公司合法權益不受侵害。針對本次訴訟，公司已啟動法律應對程式。"
-    },
-    {
-      "id": "5073104",
-      "time": "2026-09-02 18:41:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【競業達：股票交易異常波動 智慧體業務佔比極低】競業達公告稱，公司股票連續兩個交易日收盤價格漲幅偏離值累計達23.10%，屬於股票交易異常波動情形。截至2026年9月2日，公司股票連續4個交易日漲停，累計漲幅46.41%，靜態市盈率539.15倍、滾動市盈率-98.88倍，顯著高於行業水平。2026年上半年公司實現營業收入1.12億元，同比下降5.10%；淨虧損7436.69萬元，同比下降291.82%。公司智慧體相關業務收入占上半年營收比重不足1%，對業績無重大影響，主營業務未發生重大變化，不存在應披露未披露重大事項。股東江源東已於2026年8月31日完成減持231.38萬股，佔總股本1%。"
-    },
-    {
-      "id": "5073103",
-      "time": "2026-09-02 18:41:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新希望：投資發展總監王普松辭職】新希望公告稱，公司董事會於2026年9月1日收到投資發展總監王普松的書面辭職報告，王普松因個人原因申請辭去公司高階管理人員職務，辭職後不再擔任公司任何職務，辭職報告自送達公司董事會之日起生效。公司已對其負責工作的交接作出妥善安排，不會對公司日常生產經營產生不利影響。截至本公告披露之日，王普松持有公司股票360,000股，其中無限售條件股票90,000股，有限售條件股票270,000股。"
-    },
-    {
-      "id": "5073102",
-      "time": "2026-09-02 18:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伯克希爾仍認為合適時會在日本發債融資。"
-    },
-    {
-      "id": "5073101",
-      "time": "2026-09-02 18:40:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿貝爾表示，他願意參與跟東京海上控股的交易，但拒絕對具體潛在交易置評。"
-    },
-    {
-      "id": "5073100",
-      "time": "2026-09-02 18:40:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "滙豐銀行聘用高盛前董事總經理皮埃爾・維安達茲。"
-    },
-    {
-      "id": "te:markets:580461",
-      "time": "2026-09-02 18:40:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "European Gas Climbs to 2023 High on Supply Fears — European natural gas prices climbed further to around €74.5 per megawatt hour on Wednesday, after touching their highest intraday level since January 2023, as traders assessed the latest US-Iran attacks. Growing uncertainty over traffic through the Strait of Hormuz heightened supply concerns and weighed on sentiment. UK gas prices also surged as high as 184 pence per therm, reaching a 43-month high. The US said it had launched overnight airstrikes on targets in Iran, prompting retaliation from Tehran in the most serious escalation between the two countries in weeks. Iran’s Islamic Revolutionary Guard Corps warned that the US strikes would further restrict traffic through the Strait of Hormuz, a key energy route through which roughly a fifth of global LNG typically passes. Gas prices rose despite expectations of weaker demand, as strong wind power generation reduces the need for gas-fired electricity generation."
-    },
-    {
-      "id": "te:markets:580460",
-      "time": "2026-09-02 18:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "LVMH Stock Price Hits Near 6-year Low — LVMH shares decreased to 436.15 EUR, the lowest since November 2020. Over the past 4 weeks, LVMH lost 10.26%, and in the last 12 months, it decreased 16.1%."
-    },
-    {
-      "id": "5073099",
-      "time": "2026-09-02 18:39:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【翰宇藥業：坪山分公司第二次透過FDA現場檢查】翰宇藥業公告，坪山分公司於2026年6月18日至26日接受美國FDA cGMP常規監督檢查，近日收到FDA簽發的EIR報告，檢查結論為VAI（Voluntary Action Indicated，自願整改），質量管理體系符合美國FDA cGMP要求。此次為坪山分公司繼2023年7-8月首次透過FDA批准前檢查（PAI）後第二次接受FDA檢查並順利透過。"
-    },
-    {
-      "id": "5073098",
-      "time": "2026-09-02 18:39:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交控科技：推動低空業務逐步實現規模化落地和業績兌現】在9月2日的業績會上，對於軌交企業扎堆佈局空軌新業務，但多數業務仍處於試點、研發階段的現象，交控科技董事長郜春海認為，低空經濟“研發熱、落地慢”是行業由技術驗證邁向產業化初期的階段性現象，行業正進入分化期。業務商業化除產品成熟外，還受空域管理、合規審批、基礎設施、安全監管及客戶預算等因素制約。交控航空已形成“研發+產品+整合+運營”體系。公司現有技術和產品可根據不同應用場景實現快速複製和部署。公司將繼續重點推進新技術匯入、產品標準化、運營閉環和跨區域複製，優先發展封閉空間、城市治理等需求明確、價值可量化的應用場景，推動低空業務逐步實現規模化落地和業績兌現。"
-    },
-    {
-      "id": "5073097",
-      "time": "2026-09-02 18:39:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國電信股份公司股價在管理層變動後走低，目前跌幅為0.9%。"
-    },
-    {
-      "id": "5073096",
-      "time": "2026-09-02 18:39:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：兩艘油輪試圖穿越海峽時觸雷起火】伊朗伊斯蘭革命衛隊2日發表宣告說，兩艘油輪當天在霍爾木茲海峽相關海域觸雷爆炸，目前正在燃燒。 宣告說，數小時前，兩艘油輪“在美軍慫恿下”撤離船員，並將船隻交由美方人員控制，以透過“非法航線”，隨後在駛入雷區後觸雷爆炸。 宣告說，伊朗伊斯蘭革命衛隊海軍此前已就船隻透過佈雷航道發出警告。對於不按伊方規定的“合法航線”航行、將船隻交由“敵方”控制的航運公司，伊方已制定額外懲罰措施，並將很快實施。（新華社）"
     }
   ]
 }
