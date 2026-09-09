@@ -1,7 +1,78 @@
 {
   "date": "2026-09-09",
-  "count": 2396,
+  "count": 2403,
   "items": [
+    {
+      "id": "mkt:01a086c6-b04f-7118-850b-3297c98ec993",
+      "time": "2026-09-09 23:26:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury updates buyback program, indicating long-term Treasury buybacks of at least $4 bln."
+    },
+    {
+      "id": "5085545",
+      "time": "2026-09-09 23:24:21",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通市值逼近萬億美元大關 美銀看好其“稀缺性溢價”】美銀證券分析師Ebrahim Poonawala表示，摩根大通市值正在逼近1萬億美元大關，達到這一里程碑可能會吸引新的投資者，帶來“稀缺性溢價”。“隨著摩根大通即將躋身僅有少數成員的萬億美元市值俱樂部，投資者低估了其相對同業的估值溢價進一步擴大的潛力，”Poonawala在報告中寫道。他表示，目前躋身這一行列的11只標普500指數成分股的遠期市盈率中值為20.7倍，而摩根大通為14.1倍。摩根大通可能會受益，因為它可能成為“科技行業之外唯一一家市值達1萬億美元、而市盈率僅在15倍左右的公司”，這會吸引“不同型別的投資者”。"
+    },
+    {
+      "id": "mkt:01a086c4-0042-7118-850b-2db1159cc459",
+      "time": "2026-09-09 23:23:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "JD.O",
+        "Impact bullish"
+      ],
+      "text": "【Horizon Robotics' Journey 6P chosen for JD Logistics L4 delivery vehicle; CEO sees up to 1 mln units in three years】At JD's 2026 Global Technology Explorers Conference on Sept 9, Horizon founder and CEO Yu Kai said the company's Journey 6P autonomous driving compute solution has been selected as the designated compute provider for JD Logistics' L4 \"Lone Wolf\" sixth-generation Plus delivery vehicle, supplying automotive-grade autonomous driving compute. Yu said joint deployments of unmanned logistics vehicles could reach 1 million units within three years."
+    },
+    {
+      "id": "5085544",
+      "time": "2026-09-09 23:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯過去 12 小時對葉門 6 個省份發動 54 次空襲。"
+    },
+    {
+      "id": "5085543",
+      "time": "2026-09-09 23:22:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報773.10元。"
+    },
+    {
+      "id": "5085542",
+      "time": "2026-09-09 23:22:16",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部更新回購安排，長期回購操作規模顯示為至少40億美元。"
+    },
+    {
+      "id": "mkt:01a086c3-1496-7118-850b-2052ef6d1b04",
+      "time": "2026-09-09 23:22:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Euro-area bond yields extended gains; German 10-year Bund yield rose 7 bps to 3.431%, the highest since 2011."
+    },
     {
       "id": "5085541",
       "time": "2026-09-09 23:21:49",

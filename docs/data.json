@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-09 23:22:41",
-  "count": 13605,
+  "updated": "2026-09-09 23:26:48",
+  "count": 13600,
   "items": [
+    {
+      "id": "mkt:01a086c6-b04f-7118-850b-3297c98ec993",
+      "time": "2026-09-09 23:26:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury updates buyback program, indicating long-term Treasury buybacks of at least $4 bln."
+    },
+    {
+      "id": "5085545",
+      "time": "2026-09-09 23:24:21",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通市值逼近萬億美元大關 美銀看好其“稀缺性溢價”】美銀證券分析師Ebrahim Poonawala表示，摩根大通市值正在逼近1萬億美元大關，達到這一里程碑可能會吸引新的投資者，帶來“稀缺性溢價”。“隨著摩根大通即將躋身僅有少數成員的萬億美元市值俱樂部，投資者低估了其相對同業的估值溢價進一步擴大的潛力，”Poonawala在報告中寫道。他表示，目前躋身這一行列的11只標普500指數成分股的遠期市盈率中值為20.7倍，而摩根大通為14.1倍。摩根大通可能會受益，因為它可能成為“科技行業之外唯一一家市值達1萬億美元、而市盈率僅在15倍左右的公司”，這會吸引“不同型別的投資者”。"
+    },
+    {
+      "id": "mkt:01a086c4-0042-7118-850b-2db1159cc459",
+      "time": "2026-09-09 23:23:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "JD.O",
+        "Impact bullish"
+      ],
+      "text": "【Horizon Robotics' Journey 6P chosen for JD Logistics L4 delivery vehicle; CEO sees up to 1 mln units in three years】At JD's 2026 Global Technology Explorers Conference on Sept 9, Horizon founder and CEO Yu Kai said the company's Journey 6P autonomous driving compute solution has been selected as the designated compute provider for JD Logistics' L4 \"Lone Wolf\" sixth-generation Plus delivery vehicle, supplying automotive-grade autonomous driving compute. Yu said joint deployments of unmanned logistics vehicles could reach 1 million units within three years."
+    },
+    {
+      "id": "5085544",
+      "time": "2026-09-09 23:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯過去 12 小時對葉門 6 個省份發動 54 次空襲。"
+    },
+    {
+      "id": "5085543",
+      "time": "2026-09-09 23:22:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報773.10元。"
+    },
+    {
+      "id": "5085542",
+      "time": "2026-09-09 23:22:16",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部更新回購安排，長期回購操作規模顯示為至少40億美元。"
+    },
+    {
+      "id": "mkt:01a086c3-1496-7118-850b-2052ef6d1b04",
+      "time": "2026-09-09 23:22:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Euro-area bond yields extended gains; German 10-year Bund yield rose 7 bps to 3.431%, the highest since 2011."
+    },
     {
       "id": "5085541",
       "time": "2026-09-09 23:21:49",
@@ -123969,123 +124040,6 @@
         "國際"
       ],
       "text": "谷歌高管：法院駁回美國司法部拆分相關工具的提案，我方對此深表欣慰，這些工具助力中小企業觸達新客戶並實現業務增長。"
-    },
-    {
-      "id": "5073742",
-      "time": "2026-09-02 23:25:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：既然我們已將其置於美國掌控之下，我們是否應當將霍爾木茲海峽改名為特朗普海峽？？？就像美國本身一樣，這裡將會變得前所未有的炙手可熱。"
-    },
-    {
-      "id": "5073741",
-      "time": "2026-09-02 23:25:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "保時捷控股公司：新架構將於2026年10月1日正式生效。"
-    },
-    {
-      "id": "5073740",
-      "time": "2026-09-02 23:24:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所1月期鎳參考收盤價為每噸16784美元。"
-    },
-    {
-      "id": "mkt:01a062b8-f0c9-7118-8468-342199c4b991",
-      "time": "2026-09-02 23:24:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump proposes renaming Strait of Hormuz 'Trump Strait'】US President Trump said the US 'now controls' the Strait of Hormuz and asked whether its name should be changed to 'Trump Strait'."
-    },
-    {
-      "id": "5073739",
-      "time": "2026-09-02 23:24:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "保時捷控股公司：本次重組涉及解散現有歐洲區域以及海外與新興市場區域的中央事業部。"
-    },
-    {
-      "id": "te:markets:580540",
-      "time": "2026-09-02 23:24:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "T-Mobile Us Stock Price Hits 6-week High — T-Mobile Us shares increased to 187.51 USD, the highest since July 2026. Over the past 4 weeks, T-Mobile Us gained 5.86%, and in the last 12 months, it decreased 25.81%."
-    },
-    {
-      "id": "te:markets:580539",
-      "time": "2026-09-02 23:24:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Back to $95 — Brent swung between small gains and losses to trade near $95 a barrel on Wednesday, following a two-session rally that had lifted prices to a six-week high. Traders continued to weigh elevated supply risks stemming from ongoing hostilities in the Middle East against signs that crude supplies were still reaching the market. US Energy Secretary Chris Wright said 17 million barrels of oil transited the Strait of Hormuz on Monday, the highest daily volume since the war began. Kpler data showed that 4 commodity vessels transited Hormuz on Tuesday, down from 10 on Monday. The US carried out further strikes on Iran and Washington threatened more devastating attacks. Iranian media reported strikes on multiple targets near the Strait of Hormuz and Iran said it had targeted US assets in Bahrain, Jordan, Kuwait and Iraq. The latest attacks, which began early this week and were the first in nearly a month, have complicated efforts to end the conflict."
-    },
-    {
-      "id": "5073738",
-      "time": "2026-09-02 23:24:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "保時捷控股公司：未來銷售區域數量將從五個縮減至四個。"
-    },
-    {
-      "id": "5073737",
-      "time": "2026-09-02 23:24:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "保時捷控股公司：德國本土市場將劃入歐洲區域。"
-    },
-    {
-      "id": "mkt:01a062b8-4a28-7118-8468-2aadbc59e85a",
-      "time": "2026-09-02 23:23:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【BOC governor Macklem: inflation risks rising; multiple rate hikes possible if needed】Macklem said inflation remains too high in Canada, concentrated in gasoline and energy prices. He identified developments in the Middle East — and how long and how far oil prices stay elevated — as the main upside risk and said the BOC will closely monitor inflation data and act accordingly. The central bank’s tolerance for high inflation is limited; if inflation is judged persistent, multiple rate hikes may be required, though rate increases are not the only response and the BOC is prepared to adjust policy as needed. He said the Canadian economy is holding up amid a new phase of trade tensions, but recent U.S. tariff measures will weigh on Q4 growth. Macklem also noted spillovers from higher global bond yields into Canada and said those effects will be factored into policy decisions; if policy fails to meet its objectives, markets will reprice."
-    },
-    {
-      "id": "5073736",
-      "time": "2026-09-02 23:23:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室收到經核實的報告，一艘油輪遭遇安全事件，造成兩人傷亡。目前暫無環境影響相關報告。"
-    },
-    {
-      "id": "5073735",
-      "time": "2026-09-02 23:23:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：伊朗當時距離擁有核武器僅剩兩週時間。倘若他們擁有核武器，以色列將會覆滅，中東地區也將陷入毀滅，他們還會襲擊美國本土城市。就因為他們行事瘋狂。"
     }
   ]
 }
