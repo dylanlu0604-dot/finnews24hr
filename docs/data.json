@@ -1,7 +1,157 @@
 {
-  "updated": "2026-09-11 02:30:22",
-  "count": 13669,
+  "updated": "2026-09-11 02:34:25",
+  "count": 13679,
   "items": [
+    {
+      "id": "5088122",
+      "time": "2026-09-11 02:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：過去30天伊朗石油裝載量約為每日20萬桶，低於1月/2月的每日180萬桶。"
+    },
+    {
+      "id": "5088121",
+      "time": "2026-09-11 02:33:41",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部金融犯罪執法局釋出舉報公告，徵集有關非法資助伊朗行為的線索。"
+    },
+    {
+      "id": "mkt:01a08c98-c198-7118-8533-7cda14cc413d",
+      "time": "2026-09-11 02:33:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury posts a new round of Iran-related sanctions on its website."
+    },
+    {
+      "id": "5088120",
+      "time": "2026-09-11 02:33:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：一名美國公民同意支付143萬美元，就其在2019至2021年間39次明顯違反美國對伊朗制裁規定的行為達成民事責任和解。"
+    },
+    {
+      "id": "5088119",
+      "time": "2026-09-11 02:33:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：關於伊朗許可申請的更新宣告假定將予以拒絕；將拒絕大多數未決的與伊朗相關的申請。"
+    },
+    {
+      "id": "5088118",
+      "time": "2026-09-11 02:33:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部宣佈對支援伊朗在中東代理人的實體實施新制裁，其中包括伊拉克企業高管。"
+    },
+    {
+      "id": "5088117",
+      "time": "2026-09-11 02:33:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布與伊朗相關的新制裁措施。"
+    },
+    {
+      "id": "5088116",
+      "time": "2026-09-11 02:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所10月WTI原油期貨結算價為每桶102.48美元。漲6.43美元，漲幅6.69%。"
+    },
+    {
+      "id": "5088115",
+      "time": "2026-09-11 02:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所10月汽油期貨結算價為每加侖3.3932美元。"
+    },
+    {
+      "id": "5088114",
+      "time": "2026-09-11 02:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所10月柴油期貨結算價為每加侖5.0575美元。"
+    },
+    {
+      "id": "5088113",
+      "time": "2026-09-11 02:30:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所10月天然氣期貨結算價為每百萬英熱單位2.8340美元。"
+    },
+    {
+      "id": "mkt:01a08c96-4a14-7118-8533-73cd54d4266e",
+      "time": "2026-09-11 02:30:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures settled at $102.48/bbl, up $6.43 (+6.69%)."
+    },
+    {
+      "id": "mkt:01a08c96-28e1-7118-8533-6b93db1785db",
+      "time": "2026-09-11 02:30:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed down 1.42% at 939.73 yuan/gram in the Sept. 10 evening session; Silver T+D closed down 5.0% at 15,550 yuan/kg."
+    },
+    {
+      "id": "5088112",
+      "time": "2026-09-11 02:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀宣佈對其現金收購要約債務證券的參考收益率和總對價。"
+    },
+    {
+      "id": "te:markets:582898",
+      "time": "2026-09-11 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 3.08% — Top crypto losers are XRP (-3.08%), Binance (-1.59%), Bitcoin (-1.54%) and Ether (-0.31%)."
+    },
+    {
+      "id": "5088111",
+      "time": "2026-09-11 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲6.19%，報816.00元人民幣/桶。滬金夜盤收跌1.46%，滬銀收跌5.07%。"
+    },
     {
       "id": "mkt:01a08c94-4901-7118-8533-60998e9bfad5",
       "time": "2026-09-11 02:28:43",
@@ -124748,76 +124898,6 @@
         "WTI"
       ],
       "text": "Kyiv mayor says debris from a drone fell near a shop in the Darnytskyi district, with possible casualties."
-    },
-    {
-      "id": "mkt:01a0688b-b147-7118-848f-4baeaac44254",
-      "time": "2026-09-04 02:33:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Vance: Fed should cut rates; inf data support the move】U.S. Vice President Vance said the Fed should cut rates, saying that, based on inf data, a Fed cut would be \"appropriate and responsible\" and that current data support the Fed taking such action."
-    },
-    {
-      "id": "5076047",
-      "time": "2026-09-04 02:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車集團：監事會批准集團全面未來發展規劃。"
-    },
-    {
-      "id": "mkt:01a0688a-0e85-7118-848f-46732dd58d40",
-      "time": "2026-09-04 02:31:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session front-month contracts close】As of the 02:30 close, SHFE gold front-month contract rose 2.03% to 971 yuan/gram; SHFE silver front-month contract rose 2.88% to 16,419 yuan/kg; SC crude oil front-month contract fell 1.78% to 679 yuan/barrel."
-    },
-    {
-      "id": "5076046",
-      "time": "2026-09-04 02:31:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 10月原油期貨收報91.30美元/桶。NYMEX 10月天然氣期貨收報2.9130美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.1349美元/加侖，NYMEX 10月取暖油期貨收報4.5936美元/加侖。"
-    },
-    {
-      "id": "mkt:01a06889-df7f-7118-848f-38cc1f3220fc",
-      "time": "2026-09-04 02:31:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 1.75% at 968.71 yuan/gram in the night session on Sept 3. Silver T+D closed up 1.85% at 16,280 yuan/kg."
-    },
-    {
-      "id": "mkt:01a06889-d2a3-7118-848f-33b858ef5f6d",
-      "time": "2026-09-04 02:30:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $91.30/bbl, up $0.29, or 0.32%."
     }
   ]
 }
