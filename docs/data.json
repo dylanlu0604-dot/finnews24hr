@@ -1,7 +1,125 @@
 {
-  "updated": "2026-09-10 22:25:19",
-  "count": 13610,
+  "updated": "2026-09-10 22:29:18",
+  "count": 13619,
   "items": [
+    {
+      "id": "5087835",
+      "time": "2026-09-10 22:28:11",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華爾街警告美國AI債務擴張對美國債形成壓力】目前，越來越多華爾街機構警告稱，美國AI債務擴張已經開始對美國國債市場形成競爭性壓力。據摩根大通Michael Cembalest估算，2026年迄今五大超大規模雲端計算企業加上英偉達的債務發行規模約為3200億美元（含資料中心租賃特殊目的載體），其中長久期部分摺合十年期等價規模約3030億美元，相當於同期美國財政部新增長久期借款的68%。高盛固定收益信貸交易員、投資級信用專家Jeffrey Papai在最新報告中警告稱，在年內已累計約3000億美元AI相關債券發行之後，2026年第四季度供給將顯著放緩，為AI信用利差提供短暫喘息視窗。然而這一緩和極為短暫，預計2027年超大規模雲端計算企業及晶片廠商的債券發行規模將較2026年再增約40%，達到約3400億美元，屆時市場將面臨更大沖擊。其核心假設包括：2027年超大規模雲端計算企業資本開支約9300億美元；債務融資佔資本開支比例從2026年的約30%升至37.5%；美元融資佔比從約80%降至70%；高階晶片債務從2026年的約350億美元增至500億至750億美元。（券商中國）"
+    },
+    {
+      "id": "mkt:01a08bb6-eaff-7118-852e-71c60f0ca8be",
+      "time": "2026-09-10 22:26:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "House Democrats wrote to the U.S. auto safety regulator urging action on misuse of Tesla's Autopilot and Full Self-Driving (FSD) features, citing videos that appear to show drivers sleeping while vehicles were in motion."
+    },
+    {
+      "id": "mkt:01a08bb6-9819-7118-852e-6a4e237c144e",
+      "time": "2026-09-10 22:26:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "A Houthi armed group spokesman said operations will stop once attacks on Yemen cease and the blockade is lifted."
+    },
+    {
+      "id": "5087834",
+      "time": "2026-09-10 22:26:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人表示，當對葉門的襲擊停止且封鎖解除時，其軍事行動將會停止。"
+    },
+    {
+      "id": "5087833",
+      "time": "2026-09-10 22:25:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院民主黨議員致信美國汽車安全監管機構，要求其採取行動解決特斯拉Autopilot及全自動駕駛功能被濫用的問題，並援引了駕駛員睡覺的影片作為證據。"
+    },
+    {
+      "id": "5087832",
+      "time": "2026-09-10 22:25:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗支援的葉門胡塞武裝發言人表示，當前行動僅限於特定目標，屬於防禦性質。"
+    },
+    {
+      "id": "mkt:01a08bb5-ce6b-7118-852e-65adcfa11c26",
+      "time": "2026-09-10 22:25:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Yemen's Houthi movement spokesman said current operations are limited to specific targets and are defensive."
+    },
+    {
+      "id": "5087831",
+      "time": "2026-09-10 22:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5927.00元。"
+    },
+    {
+      "id": "mkt:01a08bb5-8a8f-7118-852e-5eefcb05f150",
+      "time": "2026-09-10 22:25:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A spokesman for Yemen's Houthi movement said freedom of navigation and international trade in the Red Sea and Bab al-Mandeb remain safe and unimpeded."
+    },
+    {
+      "id": "5087830",
+      "time": "2026-09-10 22:25:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗支援的葉門胡塞武裝發言人表示，紅海及曼德海峽的航行自由與國際貿易仍保持安全暢通，未受中斷。"
+    },
+    {
+      "id": "5087829",
+      "time": "2026-09-10 22:24:42",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元錄得兩週來最佳單日表現，生產者物價指數與油價走勢強化美聯儲政策預期】美國生產者物價報告顯示通脹壓力上升、油價走高後，美元大幅走強，兩項因素共同推升市場對美聯儲今年加息的預期。彭博美元即期指數週四一度上漲 0.4%，創下 8 月 28 日以來最大盤中漲幅。美國勞工統計局週四公佈的資料顯示，剔除食品與能源的核心生產者物價指數上月上漲 0.2%，7 月資料修正後為上漲 0.3%。整體 PPI 同比上漲 5.4%，為三個月最大漲幅，受能源價格上漲推動，能源價格暫無回落跡象。受美伊衝突持續升級影響，布倫特原油週四飆升至每桶 105 美元。美國國債收益率上行，全球各國收益率同步走高。蒙特利爾銀行首席外匯策略師馬克・麥考密克表示，油價走高預示 “未來數月通脹壓力將持續存在”。他稱，市場低估了通脹水平及其對利率、美元強勢以及投資者風險偏好的影響。“今夏市場主流觀點是經濟軟著陸，風險偏好保持樂觀。一旦美聯儲相關表態導致市場情緒惡化，美元將進一步走強，且金融環境大機率會在秋季趨於收緊。”"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870877637",
+      "time": "2026-09-10 22:23:39",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：通脹粘性凸顯 歐央行持續收緊貨幣政策】歐洲央行9月貨幣政策會議將歐元區三大關鍵利率統一上調25個基點，為年內第二次加息。歐洲央行行長拉加德在會後新聞釋出會上明確表示，中東地緣衝突持續發酵，不斷推升能源價格，引發持續性通脹壓力，導致歐元區通脹長期偏離2%的政策目標。本次加息決議，彰顯歐央行堅守物價穩定、推動通脹中期迴歸目標的核心政策立場。"
+    },
     {
       "id": "5087828",
       "time": "2026-09-10 22:22:38",
@@ -124307,35 +124425,6 @@
         "市場"
       ],
       "text": "【中國關鍵航天人才年薪達百萬級別】今年以來，我國商業航天產業邁入火箭密集發射、加速攻堅的新階段。隨著液體可回收火箭等技術路線進入關鍵研製期，行業人才需求持續走高，特別是液體火箭發動機、可回收火箭研發等核心崗位，呈現出爆發式增長態勢，多地企業展開人才“爭奪戰”。有商業航天企業負責人介紹：“我們公司開放了近200個崗位，缺口最突出的是液體可回收火箭的研發人才，一些關鍵人才的年薪可以達到百萬級別。”資料顯示，2026年1月到7月，商業航天相關職位數同比上漲21.2%，平均招聘月薪近兩萬元。其中，液體可回收火箭相關職位數同比上漲75.6%。（央視財經）"
-    },
-    {
-      "id": "mkt:01a067ac-2366-7118-8489-ebf0312e1cb6",
-      "time": "2026-09-03 22:28:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. media: Trump urged Army secretary to stay through midterms】The Washington Post reported on Aug. 2 that President Trump urged recently resigned Army Secretary Daniel Driscoll to remain in office through the November midterm elections; the White House request’s rationale was unclear. People familiar with the matter said Driscoll told Trump at the White House last week he intended to resign and expressed concern that Defense Secretary Hegseth was weakening the Army."
-    },
-    {
-      "id": "5075849",
-      "time": "2026-09-03 22:27:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【維多利亞的秘密業績超預期，但投資者仍嫌不夠】維多利亞的秘密（Victoria’s Secret）交出了一份強勁的季度成績單，但投資者卻期望看到更多。在截至8月1日的財季中，公司淨銷售額同比增長10%。儘管業績符合公司此前的預期區間，但略低於分析師的預期，且增速較上一季度（淨銷售額增長15%）有所放緩。不過，公司每股收益超出了分析師的預期，並上調了全年的銷售額及調整後營業利潤目標。銷售增速的放緩似乎引發了投資者的擔憂，導致該股週四早盤下跌約12%。值得注意的是，在本週三收盤前，該股年內累計漲幅仍高達57%。儘管如此，分析師們認為無需對此過度擔憂。研究公司GlobalData的常務董事尼爾·桑德斯（Neil Saunders）在給客戶的一份報告中寫道：“這是維多利亞的秘密又一個強勁的季度，進一步凸顯了其復甦的韌性。”Jefferies分析師科裡·塔洛（Corey Tarlowe）則表示，股價的下跌可能更多是因為投資者的預期過高，而非公司實際公佈的業績表現不佳。"
-    },
-    {
-      "id": "mkt:01a067aa-6f71-7118-8489-e578d816a8a0",
-      "time": "2026-09-03 22:26:57",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "【German defense minister Pistorius to meet U.S. counterpart Hegseth in Washington; to attend F-35 rollout】German defense minister Pistorius will visit Washington this month to meet U.S. defense secretary Hegseth and attend the rollout for Germany’s F-35 procurement. The meeting reverses an earlier refusal by Hegseth to receive Pistorius and comes amid U.S.-German strains over Iran and the Ukraine war, a dynamic that heightens the visit’s geopolitical and defense-sector significance."
     }
   ]
 }
