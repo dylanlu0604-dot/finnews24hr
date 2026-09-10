@@ -1,7 +1,43 @@
 {
   "date": "2026-09-10",
-  "count": 2524,
+  "count": 2528,
   "items": [
+    {
+      "id": "5087896",
+      "time": "2026-09-10 23:09:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：資料智慧體可接入經許可的資料來源。"
+    },
+    {
+      "id": "mkt:01a08bde-146f-7118-852f-39fe6d7e1b8b",
+      "time": "2026-09-10 23:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House to send $500 ACA refunds to nearly 1 million ahead of midterms; cost ~$500m】The Trump administration said it will send $500 payments to nearly 1 million Americans it says were overcharged buying coverage on federal Affordable Care Act exchanges. The White House said the checks will be mailed in October, before midterm elections, and attributed the payments to a surplus accumulated during the Biden administration while accusing higher premiums of producing excess user charges. The refunds are estimated by the White House to cost about $500 million. The payments could exacerbate public concerns about inflation and the expanding budget deficit and public debt. Trump has long sought to repeal the ACA and has proposed directly subsidizing individuals to buy insurance rather than paying insurers."
+    },
+    {
+      "id": "te:markets:582870",
+      "time": "2026-09-10 23:09:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand at Over 1-Week Low — The South African rand traded around 16.2 per USD, its lowest since late August, pressured by elevated oil prices and a firmer dollar amid rising bets of a Fed rate hike next week. Risk sentiment remained fragile as escalating Middle East hostilities raised fears of a prolonged conflict, sending energy prices higher and clouding the inflation outlook. South Africa's inflation rate eased to 4.3% in July from 5% in June, but higher fuel prices are expected to rekindle price pressures. Meanwhile, recent data underscored the economy’s fragile footing. Mining production plunged a more-than-expected 7.5% in July, while manufacturing output unexpectedly rebounded 1.1% after a 1.8% decline in June. Separately, South Africa's GDP contracted 0.2% in Q2, ending a six-quarter expansion streak. Against this backdrop, the SARB faces a delicate balancing act later this month, weighing the need to keep inflation on track toward its target against the need to support a weakening economy."
+    },
+    {
+      "id": "5087895",
+      "time": "2026-09-10 23:09:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【速騰聚創最佳化機器人業務佈局，聚焦機器人核心零部件業務】速騰聚創釋出公告，擬以總現金代價人民幣5,987.8萬元出售集團具身機器人整機相關業務及資產。因買方由公司董事會主席兼首席科學家邱純鑫博士控制35%，本次交易構成香港聯交所《上市規則》第14A章項下的關連交易。此次交易是速騰聚創最佳化機器人業務佈局和資源配置、強化核心業務運營的重要調整。"
+    },
     {
       "id": "5087894",
       "time": "2026-09-10 23:07:08",
