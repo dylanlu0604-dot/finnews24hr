@@ -1,7 +1,85 @@
 {
   "date": "2026-09-10",
-  "count": 2495,
+  "count": 2503,
   "items": [
+    {
+      "id": "mkt:01a08bd5-fdad-7118-852f-0cab4906003e",
+      "time": "2026-09-10 23:00:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, Chinese most-active futures were mostly higher. Fuel oil and low-sulfur fuel oil (LU) gained over 3%; glass rose more than 2%. Asphalt, benzene, soybean meal, soybean No.2 and plastics are up over 1% month-to-date on average. On the downside, iron ore and 20# rubber fell over 1%, while general rubber contracts slipped nearly 1%."
+    },
+    {
+      "id": "mkt:01a08bd5-d16c-7118-852f-04ad6fe7ba75",
+      "time": "2026-09-10 23:00:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "IMF says the energy shock from the Middle East war is not over; global debt pressures are rising and the disinflation process has stalled."
+    },
+    {
+      "id": "mkt:01a08bd5-bfd7-7118-852e-f8f0cc6490cc",
+      "time": "2026-09-10 23:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF: Global economic growth is still projected to reach about 3% in 2026, but risks remain elevated."
+    },
+    {
+      "id": "mkt:01a08bd5-9354-7118-852e-f5cd402dc30d",
+      "time": "2026-09-10 23:00:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "IMF said global inf expectations have risen but remain stable over the long term."
+    },
+    {
+      "id": "te:markets:582868",
+      "time": "2026-09-10 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Depreciates by 0.95% — Top currency losers are Norwegian Krone (-0.95%), Swedish Krona (-0.71%), Australian Dollar (-0.68%), Japanese Yen (-0.22%) and British Pound (-0.14%). Gains are led by Brazilian Real (0.46%) and Dollar Index (0.09%). Meanwhile Euro was little changed."
+    },
+    {
+      "id": "5087879",
+      "time": "2026-09-10 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲3.58%，低硫燃料油連續漲3.22%，玻璃連續漲2.08%，瀝青連續漲1.77%，豆粕連續漲1.21%。"
+    },
+    {
+      "id": "mkt:01a08bd5-1e1b-7118-852e-eb7990357f15",
+      "time": "2026-09-10 22:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls as larger-vessel rates slide】The Baltic Dry Index fell on Thursday, dragged by weaker rates for larger vessels. BDI declined 99 points (-2.73%) to 3,521. Capesize index (BCI) dropped 278 points (-4.3%) to 6,122; capesize daily earnings fell $2,522 to $52,016 (around 150,000 dwt; typically carries iron ore and coal). Panamax index (BPI) slipped 5 points (-0.2%) to 2,409; panamax daily earnings fell $41 to $21,684 (about 60–70,000 dwt; typically coal or grains). Supramax index (BSI) rose 9 points (0.5%) to 1,713. Handysize index (BHSI) rose 9 points to 931."
+    },
+    {
+      "id": "5087878",
+      "time": "2026-09-10 22:59:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數（BDI）較前一交易日下跌99點，或2.73%，報3521點。"
+    },
     {
       "id": "5087877",
       "time": "2026-09-10 22:55:31",

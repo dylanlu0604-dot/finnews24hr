@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-10 22:57:28",
-  "count": 13611,
+  "updated": "2026-09-10 23:01:29",
+  "count": 13604,
   "items": [
+    {
+      "id": "mkt:01a08bd5-fdad-7118-852f-0cab4906003e",
+      "time": "2026-09-10 23:00:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, Chinese most-active futures were mostly higher. Fuel oil and low-sulfur fuel oil (LU) gained over 3%; glass rose more than 2%. Asphalt, benzene, soybean meal, soybean No.2 and plastics are up over 1% month-to-date on average. On the downside, iron ore and 20# rubber fell over 1%, while general rubber contracts slipped nearly 1%."
+    },
+    {
+      "id": "mkt:01a08bd5-d16c-7118-852f-04ad6fe7ba75",
+      "time": "2026-09-10 23:00:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "IMF says the energy shock from the Middle East war is not over; global debt pressures are rising and the disinflation process has stalled."
+    },
+    {
+      "id": "mkt:01a08bd5-bfd7-7118-852e-f8f0cc6490cc",
+      "time": "2026-09-10 23:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF: Global economic growth is still projected to reach about 3% in 2026, but risks remain elevated."
+    },
+    {
+      "id": "mkt:01a08bd5-9354-7118-852e-f5cd402dc30d",
+      "time": "2026-09-10 23:00:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "IMF said global inf expectations have risen but remain stable over the long term."
+    },
+    {
+      "id": "te:markets:582868",
+      "time": "2026-09-10 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Depreciates by 0.95% — Top currency losers are Norwegian Krone (-0.95%), Swedish Krona (-0.71%), Australian Dollar (-0.68%), Japanese Yen (-0.22%) and British Pound (-0.14%). Gains are led by Brazilian Real (0.46%) and Dollar Index (0.09%). Meanwhile Euro was little changed."
+    },
+    {
+      "id": "5087879",
+      "time": "2026-09-10 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲3.58%，低硫燃料油連續漲3.22%，玻璃連續漲2.08%，瀝青連續漲1.77%，豆粕連續漲1.21%。"
+    },
+    {
+      "id": "mkt:01a08bd5-1e1b-7118-852e-eb7990357f15",
+      "time": "2026-09-10 22:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls as larger-vessel rates slide】The Baltic Dry Index fell on Thursday, dragged by weaker rates for larger vessels. BDI declined 99 points (-2.73%) to 3,521. Capesize index (BCI) dropped 278 points (-4.3%) to 6,122; capesize daily earnings fell $2,522 to $52,016 (around 150,000 dwt; typically carries iron ore and coal). Panamax index (BPI) slipped 5 points (-0.2%) to 2,409; panamax daily earnings fell $41 to $21,684 (about 60–70,000 dwt; typically coal or grains). Supramax index (BSI) rose 9 points (0.5%) to 1,713. Handysize index (BHSI) rose 9 points to 931."
+    },
+    {
+      "id": "5087878",
+      "time": "2026-09-10 22:59:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數（BDI）較前一交易日下跌99點，或2.73%，報3521點。"
+    },
     {
       "id": "5087877",
       "time": "2026-09-10 22:55:31",
@@ -124247,138 +124325,6 @@
         "國際"
       ],
       "text": "烏克蘭國家石油天然氣公司：俄羅斯襲擊了烏克納夫塔生產設施。"
-    },
-    {
-      "id": "5075902",
-      "time": "2026-09-03 23:01:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報67.43美元/盎司。"
-    },
-    {
-      "id": "mkt:01a067c9-3bd7-7118-848a-cc7a3af3def3",
-      "time": "2026-09-03 23:00:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China's most-active onshore futures contracts closed mostly higher at 23:00. LPG up nearly 4%; benzene and styrene (EB) up more than 2%; propylene, coking coal and polypropylene up over 1%; rapeseed oil down nearly 1%."
-    },
-    {
-      "id": "mkt:01a067c9-04c3-7118-848a-c1f153eaed12",
-      "time": "2026-09-03 23:00:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "【Trump says U.S. ammunition stockpile virtually unlimited, production at unprecedented levels】President Trump said the U.S. holds virtually unlimited stocks of medium- and high-grade ammunition, far exceeding what could be used in this war or in any other potential conflict (he added the latter is extremely unlikely). He said U.S. ammunition production is at unprecedented levels."
-    },
-    {
-      "id": "5075901",
-      "time": "2026-09-03 23:00:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "使用者報告顯示，美國使用者使用OpenAI、Claude、Grok、Cursor服務時均出現問題。"
-    },
-    {
-      "id": "te:markets:581017",
-      "time": "2026-09-03 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Rises by 2.07% — Top currency gainers are Japanese Yen (2.07%), Swedish Krona (0.67%), Swiss Franc (0.52%), Euro (0.26%) and British Pound (0.23%). Biggest loser is Dollar Index (-0.58%)."
-    },
-    {
-      "id": "5075900",
-      "time": "2026-09-03 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續漲3.83%，苯乙烯連續漲2.16%，焦煤連續漲1.15%，聚丙烯連續漲1.13%，燃料油連續漲0.93%。"
-    },
-    {
-      "id": "5075899",
-      "time": "2026-09-03 22:59:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：我們的彈藥產能達到歷史空前水平】美國總統特朗普在社交平臺發文：對於那些拒絕如實報道我方伊朗軍事行動的叛國者，我們手握近乎無限的中高階彈藥，其數量遠遠超出本次行動乃至其他任何戰爭所需（發生其他戰爭的可能性微乎其微）。除此之外，我們的彈藥產能達到歷史空前水平。我們正在儲備物資，為一切可能出現的突發狀況做好準備。目前這些彈藥留歸美國自用，暫不對外出售，但很快就會恢復向盟國供貨。同時特此告知：拜登政府無償向烏克蘭提供的彈藥，規模遠超我們在伊朗戰場上的消耗量。美國向烏克蘭及北約無償撥付了數千億美元物資，這筆開銷本應由歐洲承擔 —— 當初只要向歐洲提出要求，他們本就該出錢。不過，儘管為時已晚，我們仍會追討這筆款項！"
-    },
-    {
-      "id": "5075898",
-      "time": "2026-09-03 22:59:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【使館通報中國公民在菲被羈押期間離世：向菲方提出嚴正交涉】9月1日，一名中國公民在菲律賓移民局拘留所被羈押等待遣返期間不幸離世。中國駐菲律賓大使館對此深感震驚和痛惜，已第一時間向菲方提出嚴正交涉。需要強調的是，中國使館此前已提醒菲拘留所，該中國公民身患嚴重基礎疾病，健康狀況存在較大風險，明確要求菲拘留所予以高度重視，密切關注其身體狀況，並及時採取必要的醫療救治措施。中國使館已要求菲方立即對事件展開全面、公正的調查，儘快查明事實真相，並向使館作出全面、客觀的通報。對於調查發現的失職、瀆職行為，必須嚴肅追究有關人員責任。生命安全是最基本的人權。無論何種身份、是否處於羈押狀態，生命和基本人道權益都應得到保障。中方敦促菲方立即採取有效措施，確保被羈押人員獲得必要的醫療保障和人道主義待遇，堅決防止類似悲劇再次發生。（中國僑網）"
-    },
-    {
-      "id": "5075897",
-      "time": "2026-09-03 22:59:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞7月份出口額為46.91億美元；預計為47.5億美元。"
-    },
-    {
-      "id": "5075896",
-      "time": "2026-09-03 22:59:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：另特此對外說明，拜登政府曾無償向烏克蘭提供大量彈藥，規模遠超我們在伊朗軍事行動中的彈藥消耗量。美國向烏克蘭及北約無償提供了數千億美元的援助，這筆開銷本理應由歐洲承擔 —— 只要當時提出要求，歐洲本就該出資。儘管時機已晚，但我們仍會追討這筆資金！"
-    },
-    {
-      "id": "5075895",
-      "time": "2026-09-03 22:59:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：針對那些拒絕如實報道我方伊朗軍事行動的叛國分子：我們手握近乎無限的中高階彈藥，其數量遠遠超過本次行動，也遠超其他任何可能爆發戰爭（發生機率極低）的消耗需求。此外，我國彈藥產能達到歷史前所未有的水平。我們正在進行物資儲備，為一切潛在突發狀況做好預案。這批彈藥將留歸美國自用，暫不對外銷售，但面向盟友的彈藥出口業務很快將會恢復。"
-    },
-    {
-      "id": "5075894",
-      "time": "2026-09-03 22:58:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱美國將把新式軍火留給自己，而不是出售。"
-    },
-    {
-      "id": "mkt:01a067c7-928e-7118-848a-b9e2eb24f437",
-      "time": "2026-09-03 22:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said those repeatedly claiming the United States lacks ammunition are 100% wrong and amount to treason, adding they would rather see the U.S. lose a war the country could easily win than see him prevail."
-    },
-    {
-      "id": "5075893",
-      "time": "2026-09-03 22:58:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國正以前所未有的規模生產軍火。"
-    },
-    {
-      "id": "5075892",
-      "time": "2026-09-03 22:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：那些不斷強調我們沒有彈藥(他們完全錯了！)的人和媒體，實際上是在叛國。他們這樣做是因為他們寧願看到美國輸掉一場我們很容易贏的戰爭，也不願看到我贏！"
     }
   ]
 }
