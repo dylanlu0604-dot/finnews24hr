@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-10 23:05:30",
-  "count": 13603,
+  "updated": "2026-09-10 23:09:37",
+  "count": 13593,
   "items": [
+    {
+      "id": "5087894",
+      "time": "2026-09-10 23:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織定於9月21日啟動阿根廷專案的第三輪評估。"
+    },
+    {
+      "id": "5087893",
+      "time": "2026-09-10 23:06:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：在ChatGPT Work中推出資料智慧體。"
+    },
+    {
+      "id": "5087892",
+      "time": "2026-09-10 23:05:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國民銀行與Shamal Holding合作，為迪拜在建期房住宅專案提供一體化購房融資解決方案。"
+    },
+    {
+      "id": "5087891",
+      "time": "2026-09-10 23:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "發那科計劃在電氣元件、傢俱等行業廣泛推廣自動化焊接系統。"
+    },
     {
       "id": "5087890",
       "time": "2026-09-10 23:04:33",
@@ -124164,147 +124197,6 @@
         "Precious Metals"
       ],
       "text": "Shanghai silver main contract rose more than 3%, trading at 16,448 yuan per kilogram."
-    },
-    {
-      "id": "mkt:01a067d1-5bd3-7118-848b-57dd7644cb46",
-      "time": "2026-09-03 23:09:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England chief economist Pill said the war in Iran has not shaken long-term expectations."
-    },
-    {
-      "id": "5075917",
-      "time": "2026-09-03 23:09:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行首席經濟學家皮爾：伊朗戰爭並未使長期預期脫離錨定。"
-    },
-    {
-      "id": "mkt:01a067d1-43e4-7118-848b-4e9dc947c991",
-      "time": "2026-09-03 23:09:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russia-appointed authorities said a Ukrainian drone struck a passenger bus in Horlivka in Russian-controlled Donetsk region, killing one civilian and wounding five."
-    },
-    {
-      "id": "mkt:01a067d0-c919-7118-848b-4589134151c0",
-      "time": "2026-09-03 23:08:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver rises about 3% intraday to $67.28/oz."
-    },
-    {
-      "id": "5075916",
-      "time": "2026-09-03 23:08:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報67.31美元/盎司。"
-    },
-    {
-      "id": "5075915",
-      "time": "2026-09-03 23:08:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4550美元/盎司，日內漲3.07%。"
-    },
-    {
-      "id": "5075914",
-      "time": "2026-09-03 23:08:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4500美元/盎司，日內漲2.56%。"
-    },
-    {
-      "id": "mkt:01a067cf-cb30-7118-848b-391ece101b38",
-      "time": "2026-09-03 23:07:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google (GOOG.O) launches WeatherNext 3 AI model."
-    },
-    {
-      "id": "mkt:01a067cf-8ec4-7118-848b-351f0f042d48",
-      "time": "2026-09-03 23:07:30",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England chief economist Pill said he does not believe labour-market slack rules out second-round effects."
-    },
-    {
-      "id": "5075913",
-      "time": "2026-09-03 23:07:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：正在排查 ChatGPT 與 Codex 普遍報錯增多問題。"
-    },
-    {
-      "id": "mkt:01a067ce-e169-7118-848b-2e6e5b475942",
-      "time": "2026-09-03 23:06:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Venezuelan opposition leader questions oil deal terms but backs US cooperation】Opposition leader Machado did not directly condemn a major oil agreement between Venezuela’s interim authorities and the Trump administration, but questioned whether acting president Rodriguez has the authority to negotiate it. Machado said the agreement’s scope remains unclear, including who will sign it, who will provide financing and guarantees, and how Venezuelans will benefit. She said Venezuela’s resources belong to its people, not Rodriguez’s \"illegal regime,\" but did not call for the deal to be scrapped. Machado described the United States as a natural partner for developing Venezuela’s energy resources and urged strong, mutually beneficial partnerships between the two countries, companies, investors and workers."
-    },
-    {
-      "id": "mkt:01a067ce-dbfb-7118-848b-26e443c885dd",
-      "time": "2026-09-03 23:06:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of England chief economist Pill said that if the Bank does not raise rates, markets may begin to expect a cut in the policy rate."
-    },
-    {
-      "id": "mkt:01a067ce-78ef-7118-848b-186aa1d140c8",
-      "time": "2026-09-03 23:06:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. stocks opened higher and extended gains: Nasdaq Composite up 1.0%, Dow Jones Industrial Average up nearly 1.0%, S&P 500 up 0.73%."
-    },
-    {
-      "id": "mkt:01a067cd-f872-7118-848b-162e2e02022d",
-      "time": "2026-09-03 23:05:46",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England's chief economist Pill said there is reason to believe that, in the current environment, the strength of second-round effects will exceed expectations from the 'golden age' of inf targeting."
     }
   ]
 }
