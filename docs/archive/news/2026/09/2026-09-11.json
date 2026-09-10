@@ -1,7 +1,27 @@
 {
   "date": "2026-09-11",
-  "count": 287,
+  "count": 289,
   "items": [
+    {
+      "id": "mkt:01a08ca6-f396-7118-8533-dbbeecbad6bd",
+      "time": "2026-09-11 02:49:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel on heightened alert today, fearing an Iranian response; northern residents received notices instructing them to \"be prepared for explosions\"."
+    },
+    {
+      "id": "mkt:01a08ca5-70be-7118-8533-d1756e233105",
+      "time": "2026-09-11 02:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Algeria closes airspace to UAE-registered aircraft】Late on Sept. 10 local time, Algeria’s defense ministry said it will ban UAE-registered civilian and military aircraft, including inbound and outbound flights, from Algerian airspace from 0000 on Sept. 11. Commercial civilian services to and from Algiers’ Houari Boumediene International Airport are exempt and may continue operating until end-2026, when existing contracts expire. Earlier the foreign ministry said Algeria had severed diplomatic relations with the UAE effective immediately."
+    },
     {
       "id": "5088129",
       "time": "2026-09-11 02:46:01",

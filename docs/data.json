@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-11 02:46:50",
-  "count": 13682,
+  "updated": "2026-09-11 02:50:59",
+  "count": 13674,
   "items": [
+    {
+      "id": "mkt:01a08ca6-f396-7118-8533-dbbeecbad6bd",
+      "time": "2026-09-11 02:49:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel on heightened alert today, fearing an Iranian response; northern residents received notices instructing them to \"be prepared for explosions\"."
+    },
+    {
+      "id": "mkt:01a08ca5-70be-7118-8533-d1756e233105",
+      "time": "2026-09-11 02:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Algeria closes airspace to UAE-registered aircraft】Late on Sept. 10 local time, Algeria’s defense ministry said it will ban UAE-registered civilian and military aircraft, including inbound and outbound flights, from Algerian airspace from 0000 on Sept. 11. Commercial civilian services to and from Algiers’ Houari Boumediene International Airport are exempt and may continue operating until end-2026, when existing contracts expire. Earlier the foreign ministry said Algeria had severed diplomatic relations with the UAE effective immediately."
+    },
     {
       "id": "5088129",
       "time": "2026-09-11 02:46:01",
@@ -124872,94 +124892,6 @@
         "其他"
       ],
       "text": "大眾汽車：這對應約 310 億歐元的營業利潤，2027‑2031 規劃期內投資規模為 1350 億歐元。"
-    },
-    {
-      "id": "mkt:01a0689b-c7d5-7118-848f-bef2c82d24fd",
-      "time": "2026-09-04 02:50:34",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bullish"
-      ],
-      "text": "Volkswagen targets a 9% return on sales (operating margin) by 2030."
-    },
-    {
-      "id": "5076064",
-      "time": "2026-09-04 02:50:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：核心財務目標是到 2030 年實現 9% 的銷售營業回報率。"
-    },
-    {
-      "id": "mkt:01a0689b-5a12-7118-848f-b619d4893103",
-      "time": "2026-09-04 02:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "2026 FOMC voting member and Cleveland Fed President Hamak will deliver opening remarks in 10 minutes at the \"Fed Community\" event."
-    },
-    {
-      "id": "mkt:01a0689b-1b39-7118-848f-aa4614cc3aff",
-      "time": "2026-09-04 02:49:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's State Organization for Marketing of Oil (SOMO) says Iraq has lost nearly $80 billion since the Iran–Iraq war."
-    },
-    {
-      "id": "5076062",
-      "time": "2026-09-04 02:49:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車：監事會要求集團管理委員會制定一套方案，搭建大眾汽車集團的先進決策機制與集團架構。"
-    },
-    {
-      "id": "mkt:01a0689a-98f6-7118-848f-a0b9473cbaf2",
-      "time": "2026-09-04 02:49:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Volkswagen: Supervisory Board asked the Group Executive Board to develop an advanced decision‑making model and group structure for the Volkswagen Group."
-    },
-    {
-      "id": "mkt:01a0689a-29d6-7118-848f-9a64f562b738",
-      "time": "2026-09-04 02:48:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A survey forming the basis of Volkswagen's 2030 strategic plan indicates the Volkswagen Group will trim its workforce by about 50,000 positions."
-    },
-    {
-      "id": "5076061",
-      "time": "2026-09-04 02:48:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車：作為 2030 戰略規劃依據的調研設想在集團範圍內開展人力調整，擬裁減約 5 萬個崗位。"
-    },
-    {
-      "id": "mkt:01a06899-5304-7118-848f-96d0a2e0f73c",
-      "time": "2026-09-04 02:47:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Brent crude futures settled at $95.52/bbl, down $0.11, or 0.12%."
-    },
-    {
-      "id": "5076059",
-      "time": "2026-09-04 02:47:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克國家石油銷售組織（SOMO）總幹事：自伊朗衝突爆發以來，伊拉克損失近 800 億美元。"
     }
   ]
 }
