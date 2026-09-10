@@ -1,7 +1,80 @@
 {
   "date": "2026-09-11",
-  "count": 531,
+  "count": 541,
   "items": [
+    {
+      "id": "mkt:01a08d9e-d4df-7118-8536-95fdcd9bd4a4",
+      "time": "2026-09-11 07:19:51",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【U.S. Treasury Secretary Bessent clarifies \"I'm the house\" remark, says measures not for election】U.S. Treasury Secretary Bessent said on Thursday his recent, atypical moves—viewed as aimed at lowering yields, including an expanded bond repo facility and a rare yen intervention—were partly a response to Iranian actions he said were trying to use bond yields or oil prices to create economic problems for the U.S. He said, \"I’m not doing this for the election.\" Bessent clarified a comment two days earlier that \"I’m the house\" in the context of Japan and the yen, saying he was not issuing a challenge to traders, did not mean he is always right, but wanted to signal he has superior information and to provide markets a reasoned framework to avoid panic."
+    },
+    {
+      "id": "5088365",
+      "time": "2026-09-11 07:19:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟推進資料中心擴張，計劃將算力擴大兩倍】9月11日，據報道，微軟計劃將資料中心容量擴大逾兩倍，此舉有望幫助該公司緩解算力短缺問題。此前，由於算力不足，微軟不得不拒接部分人工智慧（AI）和雲服務業務。報道稱，到2032年，微軟遍佈全球的資料中心網路容量將超過38吉瓦，高於目前約12吉瓦的水平。這一路線圖包括微軟自有和租賃的資料中心設施，但不包括從CoreWeave等所謂新型雲服務商租用的算力。報道稱，微軟目前約12吉瓦的資料中心容量中，只有約2吉瓦集中於AI專用晶片。到2032年，在微軟計劃投入執行的38吉瓦容量中，這一比例預計將升至約三分之一。"
+    },
+    {
+      "id": "5088364",
+      "time": "2026-09-11 07:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府住房事務負責人強調削減監管以助力購房者】美國住房和城市發展部部長斯科特・特納週四表示，特朗普政府正試圖透過削減監管，幫助美國人提升購房承受能力。但他並未談及債券收益率攀升推高借貸成本帶來的影響。特納在達拉斯舉行的共和黨中期大會間隙接受採訪時稱：“總統上任時作出承諾，政府全體人員也以此為目標，要降低住房成本，其中關鍵一環就是監管環境，減少繁文縟節，精簡官僚流程。”"
+    },
+    {
+      "id": "mkt:01a08d9e-13be-7118-8536-8d74fba5d6a5",
+      "time": "2026-09-11 07:19:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President LULA said the country needs to discuss term limits for Supreme Court justices, saying no one should serve 40 years on the bench."
+    },
+    {
+      "id": "mkt:01a08d9d-2cbc-7118-8536-84fac1693e59",
+      "time": "2026-09-11 07:18:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says he does not regret striking Iran's nuclear capabilities】Fox News reported President Trump defended his decision to strike Iran's nuclear capabilities, saying he would make the same choice again despite concerns the action could affect the midterm elections."
+    },
+    {
+      "id": "5088363",
+      "time": "2026-09-11 07:17:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燧原科技將正式登陸科創板 國產AI晶片四小龍齊聚資本市場】9月11日，燧原科技將正式登陸科創板，至此，摩爾執行緒、沐曦股份、壁仞科技、燧原科技四家國產算力晶片企業（又稱“AI晶片四小龍”）齊聚資本市場，意味著這四家公司已完成初步的技術驗證和資本化，競爭步入新階段。北京社科院研究員王鵬向證券時報記者分析，在國內AI算力供需缺口持續拉大、國產替代的剛性需求背景下，“四小龍”進入營收高速增長階段，但盈利拐點仍待觀察。未來要進行的是系統性比拼：規模化交付能力，支撐大規模智算叢集落地；軟硬體全棧適配效率，快速完成主流大模型、行業場景的適配調優；以年為單位快速迭代產品；在特定行業、特定算力場景建立專屬優勢等。能率先把研發投入、產品效能、軟體生態和客戶訂單串成一條持續盈利的商業鏈條的公司，方能真正在行業站穩腳跟。"
+    },
+    {
+      "id": "5088362",
+      "time": "2026-09-11 07:17:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年服貿會首設出海服務專區 中企重新定義出海標準】在首鋼園2號館2層，與往年單純的展臺展示不同，今年這裡增加了出海服務推介路演專區，律師事務所、會計師事務所、人力資源服務公司、物流公司、廣告營銷公司、商務諮詢公司、銀行輪番上陣，向前來逛展的企業推介自身服務。從產品出海到全球化經營，中企需要應對更長鏈條、更多維度的風險防控，這是今年服貿會首設出海服務專區的重要緣由，也為中外出海服務企業提供了合作、發展機遇。從“走出去”到“走得穩”，中企依託專業服務機構走得越來越遠；與此同時，在創新引領下，更多“無先例可循”的出海新場景擺在中國企業面前，中國企業正與專業服務機構一道，重新定義屬於自己的出海標準。"
+    },
+    {
+      "id": "5088361",
+      "time": "2026-09-11 07:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我們需要討論最高法院大法官的任期限制問題，沒有人應當在最高法院任職40年。"
+    },
     {
       "id": "5088360",
       "time": "2026-09-11 07:15:46",
@@ -83,6 +156,23 @@
         "國際"
       ],
       "text": "美國司法部正在調查快船隊與科懷·倫納德的交易。"
+    },
+    {
+      "id": "5088349",
+      "time": "2026-09-11 07:10:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、開創“大金磚合作”高質量發展新局面（和音）\n2、國際打擊電信網路詐騙聯盟成立大會舉行 王小洪出席並致辭\n3、何立峰出席礦業國際合作部長論壇暨2026中國國際礦業大會開幕式並在天津調研\n4、加快建設金融強國 服務經濟高質量發展（權威釋出·開局起步“十五五”）到2035年，基本建成具有高度適應性、競爭力、普惠性的中國特色現代金融體系\n5、在第二十六屆投洽會，看中國與世界的“雙向奔赴” 擴大雙向投資 共促全球發展\n6、前8月4.99億人次出入境 免簽入境外國人同比上升26.8%\n7、9月起，國家標準為人工與智慧客服協同劃定清晰邊界 AI客服，如何更好服務消費者（探訪）\n8、運輸和商務服務專題展新參展企業佔比過半 服貿會上看“人享其行、物暢其流”（探館服貿會）\n9、“中歐北極快航”進入常態化運營階段（經濟聚焦）\n10、以高質量發展扛牢建設航空強國的使命擔當\n11、湖北武漢東湖高新區構建光電子資訊產業叢集，相關企業超1.6萬家 助更多中國企業被世界看見\n12、啟雲方為電子資訊產業提供全流程解決方案 持續深耕工業軟體國產化道路\n13、小米智慧家電工廠平均每6.5秒下線一臺空調 為智慧製造裝上“智慧大腦”\n14、中國信科持續加強創新 讓資料在海底光纜中跑得更快、更遠、更可靠\n15、銳科鐳射產品深度嵌入工業製造各環節 以自主研發賦能產業發展。"
+    },
+    {
+      "id": "5088348",
+      "time": "2026-09-11 07:10:18",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平對山東青島市北海造船廠一貨輪火災事故作出重要指示強調 深入排查整治各類火災隱患 落實落細防範措施 堅決遏制重特大事故發生 李強作出批示\n2、習近平將赴印度出席金磚國家領導人第十八次會晤\n3、推動金磚合作實現大發展、展現大作為——寫在習近平主席出席金磚國家領導人第十八次會晤之際\n4、努力培養擔當民族復興大任的時代新人——習近平總書記的節日祝賀和誠摯問候激勵廣大教師和教育工作者培根鑄魂、潛心育人\n5、丁薛祥出席第十六次亞太經合組織能源部長會議開幕式並致辭\n6、堅持以正確政績觀高質量推進國防和軍隊現代化——軍隊開展樹立和踐行正確政績觀學習教育取得明顯成效\n7、國辦印發《關於加強中小企業回款難問題治理有關工作的通知》\n8、擰緊擰實安全責任鏈條（今日談）。"
     },
     {
       "id": "5088347",
