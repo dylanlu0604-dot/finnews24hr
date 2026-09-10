@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-11 05:02:08",
-  "count": 13620,
+  "updated": "2026-09-11 05:05:58",
+  "count": 13619,
   "items": [
+    {
+      "id": "5088285",
+      "time": "2026-09-11 05:04:23",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國際金價跌1.9%，白銀跌5.4%，紐約銅跌超5.2%】週四（9月10日）紐約尾盤，現貨黃金跌1.91%，報4314.82美元/盎司，亞太時段保持微幅上漲狀態、北京時間14:00重新整理日高至4434.67美元，隨後震盪下行，歐洲央行宣佈加息之後出現一波V形行情——20:39跌至4324.23美元。現貨白銀跌5.43%，報63.60美元/盎司。COMEX銅期貨跌5.24%，報6.5275美元/磅，關於特朗普關稅的媒體訊息出爐後，18:00出現一波短線跳在美股時段交易的費城金銀指數收跌3.56%，報397.07點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌2.87%，報2775.85點。在美股時段交易的原材料指數收跌2.11%，金屬與礦業指數收跌3.47%——跳空低開之後持續低位窄幅震盪。State Street金屬與礦業ETF收跌3.71%，報114.77美元。"
+    },
+    {
+      "id": "5088284",
+      "time": "2026-09-11 05:04:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將暫停 200 美元專業版訂閱服務。"
+    },
+    {
+      "id": "mkt:01a08d21-19a8-7118-8535-7ae4ff244d41",
+      "time": "2026-09-11 05:02:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) plans to expand data-center capacity to 38 GW, roughly three times its current size."
+    },
     {
       "id": "5088283",
       "time": "2026-09-11 05:01:18",
@@ -124462,41 +124491,6 @@
         "市場"
       ],
       "text": "週四（9月3日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7175元，較週三紐約尾盤漲5點，日內整體交投於6.7207-6.7162元區間。"
-    },
-    {
-      "id": "5076276",
-      "time": "2026-09-04 05:05:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "SentinelOne 藉助 OpenAI 網路安全模型擴充套件 Wayfinder 產品。"
-    },
-    {
-      "id": "te:markets:581053",
-      "time": "2026-09-04 05:04:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Extends on Supply Disruptions — Crude oil prices rose above $91.50 a barrel on Thursday, extending a six-week high as Iran continued strikes against US Gulf allies. Kuwait’s armed forces said the kingdom was facing “ongoing Iranian aggression” as its air defenses engaged missiles and drones. Iran retaliated after US strikes on Tuesday by targeting US regional allies Jordan and Bahrain. Six commodity vessels transited the Strait of Hormuz on Wednesday, down from 11 on Tuesday and compared with a 10-day average of nearly 13. Japan’s Mitsui O.S.K. Lines, the world’s largest tanker operator, expects disruptions at the Strait of Hormuz to persist longer than previously anticipated, with no normalization by year-end following this week’s renewed escalation in hostilities. Damaged refineries in the Middle East and Russia, along with insufficient capacity elsewhere to offset supply disruptions, are likely to keep global fuel prices elevated into next year."
-    },
-    {
-      "id": "5076275",
-      "time": "2026-09-04 05:03:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Sophos 將在託管風險服務中接入 OpenAI GPT 模型。"
-    },
-    {
-      "id": "5076274",
-      "time": "2026-09-04 05:02:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "露露樂蒙高管：營收表現弱於預期，需額外開展季節性清庫存。"
     }
   ]
 }
