@@ -1,7 +1,122 @@
 {
-  "updated": "2026-09-10 14:05:00",
-  "count": 13577,
+  "updated": "2026-09-10 14:08:56",
+  "count": 13580,
   "items": [
+    {
+      "id": "5086487",
+      "time": "2026-09-10 14:08:08",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【美儲存股逆勢大漲，高盛振臂高呼：最壞時期已過去 資金或正重新進場】美東時間週三，儘管美股三大指數集體走低，但儲存晶片股卻逆勢走高，而這背後的原因之一，可能是高盛的最新客戶報告。高盛在最新報告中向客戶表示，他們認為，儲存晶片行業下行週期最糟糕的階段或許已經結束。"
+    },
+    {
+      "id": "5086486",
+      "time": "2026-09-10 14:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府官員：印度政府將按月追蹤食糖產量，以最佳化政策制定。"
+    },
+    {
+      "id": "5086485",
+      "time": "2026-09-10 14:07:49",
+      "tags": [],
+      "text": "【DeepSeek V4.1 Flash模型正式釋出】9月10日，DeepSeek正式釋出DeepSeek V4.1 Flash模型。這是公司全新模型結構系列中的最小尺寸的模型，具備原生多模態視覺理解能力。據介紹，新一代模型大幅減少了KV Cache快取的大小，與上一代模型相比，對HBM的需求減少到1/4，對SSD的需求減少到1/8。在Agent使用場景中，快取命中的費用往往佔比較高，對KV Cache的壓縮大幅降低了Agent類任務的使用成本。"
+    },
+    {
+      "id": "mkt:01a089ed-c9cc-7118-851c-2dc418742a3f",
+      "time": "2026-09-10 14:07:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News Arabia reported Houthi forces fired two ballistic missiles at Zuqar Island in the southern Red Sea."
+    },
+    {
+      "id": "te:markets:582598",
+      "time": "2026-09-10 14:07:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Positive Open — European equity markets were poised to open higher on Thursday as investors prepared for the European Central Bank’s upcoming policy decision, with the central bank widely expected to deliver its second 25 basis point rate hike of the year. Traders also turned their attention to key US inflation data that could cement expectations for a Federal Reserve rate increase next week. Meanwhile, markets continued to contend with elevated oil prices amid the intensifying conflict between the US and Iran, fueling inflation concerns and reinforcing expectations for near-term rate hikes. Elsewhere, investors will monitor Germany’s final August inflation figures, along with July industrial production data from Italy and Spain. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures gained 0.3% and 0.1%, respectively."
+    },
+    {
+      "id": "5086484",
+      "time": "2026-09-10 14:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“AI對齊專家”入駐OpenAI董事會，立即警告AI失控風險及災難性後果】在社會各界對人工智慧（AI）技術安全問題的擔憂日益升溫之際，OpenAI宣佈任命Paul Christiano加入其非營利基金會董事會和安全委員會。Christiano則毫不含糊地談到了人工智慧超級智慧時代所面臨的風險。Christiano週三就起“新角色”發表了一份冗長的宣告，談到了人工智慧構成的威脅，並警告說，人類即將失去對人工智慧系統的控制權。他寫道：“如果我們構建超級智慧時缺乏更完善的協調機制，我預計我們將永久失去對它的控制。如果這種情況發生，那麼大多數人可能會喪命。”"
+    },
+    {
+      "id": "5086483",
+      "time": "2026-09-10 14:06:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【消費者稱洋河夢之藍放地庫14年只剩空瓶，廠家回應】9月9日，江蘇淮安的朱先生反映，他2012年買了8箱第一代洋河夢之藍白酒，2025年年底開箱用酒時，發現有的酒只剩空瓶，有的只剩半瓶，洋河股份媒介資源部工作人員表示，出現這種情況的原因有很多，正在和消費者積極溝通。"
+    },
+    {
+      "id": "mkt:01a089ed-2633-7118-851c-26dbd557ed86",
+      "time": "2026-09-10 14:06:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Chongqing to build data-token trading service platform, explore trading standards and settlement rules】Chongqing’s draft Action Plan for Developing a Data-Token Economy (2026–2028), published for public comment, proposes creating a data-token trading service platform offering trusted aggregation, unified access, metering and settlement services. The plan calls for layered token products (generic base, industry-specific, scenario-limited), an industrial token zone linked to industry trusted data spaces, and pilots for end-to-end services covering data rights confirmation, registration, pricing, measurement, notarization and delivery. It proposes developing token trading standards and settlement rules, including standardized metering/accounting for model calls and dataset use, and urges SOEs to put data assets on balance sheets and explore token property-right confirmation to form priceable, tradable token asset pools."
+    },
+    {
+      "id": "5086482",
+      "time": "2026-09-10 14:06:31",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【重慶：支援金融機構探索“算力銀行”“詞元券+詞元貸”等新模式 創新資料基礎設施領域不動產投資信託基金模式】《重慶市培育發展詞元經濟行動計劃（2026—2028年）（公開徵求意見稿）》公開徵求意見。其中提到，深化“產業大腦”與“金融大腦”雙向賦能，依託“智融惠暢”工程和科技金融“長江領航計劃”，迭代“股貸債保擔租”全週期金融工具箱。支援金融機構探索“算力銀行”“詞元券+詞元貸”等新模式，創新資料基礎設施領域不動產投資信託基金模式。鼓勵金融機構圍繞算力基礎設施、高價值詞後設資料集建設、智慧體叢集構建、場景應用示範等創新金融產品。"
+    },
+    {
+      "id": "5086481",
+      "time": "2026-09-10 14:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府已要求各工廠在節日期間以“合理價格”銷售食糖。"
+    },
+    {
+      "id": "te:economy:582596",
+      "time": "2026-09-10 14:06:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "German Inflation Rate Confirmed at 4-Month High — Germany's annual inflation rate accelerated to 2.9% in August 2026, confirming preliminary estimates, up from 2.8% in July. It was the highest reading since April, driven by a sharp rise in energy inflation to 10.5% from 8.3%, as renewed Middle East tensions pushed oil prices higher. On a monthly basis, consumer prices rose 0.2% in August, easing from a 0.8% gain in July. The EU-harmonized inflation rate also accelerated to 2.9%, its highest level in four months and well above the European Central Bank's 2.0% target."
+    },
+    {
+      "id": "mkt:01a089eb-e85a-7118-851c-1ba2f16ca56f",
+      "time": "2026-09-10 14:05:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【DeepSeek launches V4.1 Flash model】Sept 10 — DeepSeek launched its V4.1 Flash model, the smallest in its new architecture series, with native multimodal visual understanding. The company said the model sharply reduces KV cache size: HBM requirements drop to one-quarter and SSD requirements to one-eighth versus the prior generation. DeepSeek added that KV cache compression materially lowers operating costs for agent-style workloads, where cache-hit costs are a significant share of expenses."
+    },
+    {
+      "id": "5086480",
+      "time": "2026-09-10 14:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：加強監測質量管理，監測站點人為干擾自動識別率達到80%以上】上海市人民政府印發《美麗上海建設“十五五”規劃》，其中提到，強化數字賦能。健全現代化生態環境監測體系。健全天空地海一體化監測網路，加快產管用全過程數智化轉型。推進自動監測網路數智化升級改造，推動衛星遙感、無人機組網等技術應用，提升環境汙染智慧預報預警能力。加強監測質量管理，監測站點人為干擾自動識別率達到80%以上。"
+    },
     {
       "id": "5086479",
       "time": "2026-09-10 14:04:19",
@@ -66,6 +181,15 @@
         "Impact mixed"
       ],
       "text": "【Institutions' forecasts and market bets diverge; Sep 25bp hike shifts from tail risk to main trade】Prediction market Polymarket prices a Sep 25bp Fed hike at 54%; rate derivatives imply 63.6% — roughly a 10pp gap but same direction. Resilient employment, rising oil-driven inf risk and a hawkish Fed tilt have moved a Sep hike from tail risk to the primary market scenario. More than 50% odds do not guarantee a hike: markets still assign 36–47% probability of no change and any Fed decision could trigger re-pricing. Friday's inf release will be decisive; a REUTERS SURVEY shows 70% of economists expect no hike, underlining the lack of consensus between institutional forecasts and trading markets."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609103870459991",
+      "time": "2026-09-10 14:02:44",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【德國8月CPI終值同比上漲2.9% 符合預期】9月10日，德國聯邦統計局釋出的資料顯示，德國8月CPI終值同比上漲2.9%，預期為2.9%；8月CPI終值環比上漲0.2%，預期為0.2%。"
     },
     {
       "id": "5086475",
@@ -123784,113 +123908,6 @@
         "其他"
       ],
       "text": "【水利部針對江西啟動洪水防禦Ⅳ級應急響應】據預報，9月3日至5日，江西中部南部將有大到暴雨，其中西南部區域性將有大暴雨；贛江上中游及支流湘水、桃江等河流可能發生超警洪水。9月3日8時至4日8時，江西贛州、吉安等地發生山洪災害的可能性大。根據《水利部水旱災害防禦應急響應工作規程》，水利部於9月3日12時針對江西啟動洪水防禦Ⅳ級應急響應。指導督促江西省水利廳密切監視颱風“沙德爾”影響態勢，加強雨水情監測預報預警，強化值班值守和會商研判，突出抓好中小河流洪水和山洪災害防禦等各項工作，落實“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，落實臨災預警“叫應”機制，提前轉移危險區人員，確保人民群眾生命財產安全；緊盯病險水庫、中小水庫、薄弱堤段、險工險段等高風險部位，加密巡查頻次，預置搶險力量，及時妥善處置突發險情；保障城市河"
-    },
-    {
-      "id": "5074630",
-      "time": "2026-09-03 14:08:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金辰股份在南通成立半導體裝置新公司】企查查APP顯示，近日，辰光微電半導體裝置（南通）有限公司成立，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；電子專用裝置製造等。企查查股權穿透顯示，該公司由金辰股份全資持股。"
-    },
-    {
-      "id": "mkt:01a065e2-2b61-7118-8477-5352bbe5ea9a",
-      "time": "2026-09-03 14:08:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.DE",
-        "Impact bearish"
-      ],
-      "text": "Shares of Broadcom listed in Frankfurt fell 2% after its Q4 revenue forecast missed expectations."
-    },
-    {
-      "id": "5074629",
-      "time": "2026-09-03 14:08:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "博通其在法蘭克福上市的股票在第四財季營收預測不及預期後下跌2%。"
-    },
-    {
-      "id": "mkt:01a065e1-9ec8-7118-8477-486baf073975",
-      "time": "2026-09-03 14:08:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung to add 1,612 Korean machines at Vietnam semiconductor back-end plant】Samsung Electronics will introduce 1,612 units of Korean equipment into its semiconductor back-end plant in Vietnam’s Thai Nguyen province. In an environmental permit filing with Vietnamese authorities, Samsung Vietnam Semiconductor (SVS) confirmed the equipment import plan and registered a total investment of $4.08 billion."
-    },
-    {
-      "id": "5074628",
-      "time": "2026-09-03 14:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部就挪威扣押俄羅斯船隻一事表示：這是海盜行為。"
-    },
-    {
-      "id": "mkt:01a065e1-1fcd-7118-8477-425002b79024",
-      "time": "2026-09-03 14:07:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reported the Russian Foreign Ministry called Norway's seizure of a Russian vessel an act of piracy."
-    },
-    {
-      "id": "mkt:01a065e0-7163-7118-8477-3900838e2be3",
-      "time": "2026-09-03 14:06:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "REUTERS SURVEY: Short bets against the Indonesian rupiah fell to their lowest level since early August 2025."
-    },
-    {
-      "id": "mkt:01a065e0-053a-7118-8477-3631665e44c2",
-      "time": "2026-09-03 14:06:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "REUTERS SURVEY: Bearish sentiment toward the Philippine peso reached its strongest level since late May."
-    },
-    {
-      "id": "te:economy:580742",
-      "time": "2026-09-03 14:06:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Private Sector Grows for First Time in 6 Months — Russia’s S&P Global Composite PMI rose to 50.6 in August 2026 from 49.6 in the previous month, marking the highest reading since February and signalling the first expansion in private-sector activity in six months. The upturn was driven by a renewed increase in services activity, which offset a further decline in manufacturing output. However, demand conditions remained subdued, with new orders continuing to fall, albeit at only a fractional pace. Weak demand also weighed on employment, prompting another round of job shedding across the private sector as firms reduced headcounts amid a further decline in outstanding business. On the price front, overall input-cost inflation eased in August, while output charges across both manufacturers and service providers rose at faster rates. Meanwhile, business confidence improved, with optimism about the private-sector outlook rising to its highest level since March."
-    },
-    {
-      "id": "mkt:01a065df-5c92-7118-8477-2c9c861e5e3e",
-      "time": "2026-09-03 14:05:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reuters survey: long positions in the South Korean won reached their highest level since January 2013."
-    },
-    {
-      "id": "mkt:01a065df-2a46-7118-8477-20f1b4463cff",
-      "time": "2026-09-03 14:05:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine says Odesa struck again; 17 injured, including three children】Odesa military administration head Lysak said early on Sept 3 local time the city was hit by a Russian strike at dawn, wounding 17 people, including three children; all have received medical treatment. The strike damaged a high-rise apartment building and several vehicles."
     }
   ]
 }
