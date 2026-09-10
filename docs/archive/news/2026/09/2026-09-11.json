@@ -1,7 +1,38 @@
 {
   "date": "2026-09-11",
-  "count": 403,
+  "count": 406,
   "items": [
+    {
+      "id": "mkt:01a08d11-1372-7118-8535-662da5f82524",
+      "time": "2026-09-11 04:45:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fatah official doubts Palestinian Legislative Council election will proceed in November】Fatah Central Committee Secretary-General Jibril Rajoub said on the evening of the 10th he doubted the Palestinian Legislative Council election scheduled for November would be held as planned and called for a national dialogue before the vote to reach consensus on the electoral mechanism."
+    },
+    {
+      "id": "te:markets:582909",
+      "time": "2026-09-11 04:43:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Rise on Election Outlook — The Ibovespa rose 1.4% to close at 188,269 on Thursday, erasing earlier losses as the market priced in a higher probability of a change in power in October’s presidential election. Recent polls have shown Flávio Bolsonaro gaining ground in the presidential race, while the shift in odds on Polymarket added further momentum to the move on Thursday. Markets associate a potential Flávio Bolsonaro victory with expectations of greater fiscal austerity, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Gains were broad-based, with major banks posting sharp advances: Itaú rose 1.8%, Bradesco gained 3.9%, and Banco do Brasil added 2.8%. Utilities also closed higher, with Sabesp up 2.2%. Rede D’Or (+3.1%) also outperformed. Petrobras rose 1.4% on higher oil prices, while Vale shed 1.1% as iron ore prices fell."
+    },
+    {
+      "id": "mkt:01a08d0e-a10e-7118-8535-5cf0c03e1c29",
+      "time": "2026-09-11 04:42:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【ANTHROPIC discloses dangerous Claude use cases; says Iran-linked account drafted US naval attack targets】ANTHROPIC said it blocked attempts by some researchers to use its Claude AI model for tasks that could \"support biological weapons development\", according to a detailed report. The report lists five cases, including one on enhancing transmission of a mosquito-borne disease. The company said it could not conclusively determine whether the cases were linked to a weapons program but blocked the activity and notified authorities and industry partners. ANTHROPIC also reported Claude being used for surveillance, fraud, conventional-weapons research and propaganda, and said it had identified and banned influence-operation accounts, including three linked to Iran; one Iran-linked actor used Claude to draft suggested attack targets against US naval forces in the region."
+    },
     {
       "id": "5088244",
       "time": "2026-09-11 04:36:51",
