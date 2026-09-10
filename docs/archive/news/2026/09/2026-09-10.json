@@ -1,7 +1,98 @@
 {
   "date": "2026-09-10",
-  "count": 1807,
+  "count": 1817,
   "items": [
+    {
+      "id": "mkt:01a08acf-ff06-7118-8524-6a7dd9bc30fd",
+      "time": "2026-09-10 18:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bond market on edge ahead of ECB decision; German 10-year hits highest since 2011】Euro-area government bond yields held near multi-year highs on Thursday as investors awaited the European Central Bank policy decision. Analysts expect a 25bp hike, no fresh guidance and a reiteration of data dependence. Germany’s 10-year yield rose 0.5bp to 3.44% after touching 3.4514%, its highest since April 2011. Some market participants say rate-hike expectations may be overdone because energy-driven growth drag could help curb inflation; they warn that a dovish ECB tone could send borrowing costs sharply lower. Traders price the ECB deposit rate at 2.74% by December, up from 2.25% today—implying two more 25bp hikes—and expect 3.10% by Sept 2027, fully pricing a third hike and implying roughly a 40% chance of a fourth. A strategist at a German commercial bank, Erik Liem, said Lagarde’s response to recent bond moves will be watched closely and that even a small dovish hint could have a large market impact today."
+    },
+    {
+      "id": "mkt:01a08acf-9fec-7118-8524-6151c3190eb4",
+      "time": "2026-09-10 18:14:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Data show Asia's jet fuel spot market is trading at its widest discount to benchmarks in about two and a half years."
+    },
+    {
+      "id": "5087152",
+      "time": "2026-09-10 18:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車李想：馬赫VLA 2.0開始陸續推送至已交付AD Max車型】9月10日，理想汽車CEO李想發文透露，馬赫VLA 2.0從今天開始陸續推送至已交付AD Max的車型，覆蓋近百萬車主。"
+    },
+    {
+      "id": "5087151",
+      "time": "2026-09-10 18:12:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【期螺震盪偏弱，市場低價資源出貨有所增加，整體需求不佳】9月10日，國內鋼材市場弱勢下跌，唐山遷安普方坯出廠含稅下調10報3030元/噸。期螺震盪偏弱，市場低價資源出貨有所增加，整體需求不佳，全天成交不及上一交易日。9月10日，螺紋鋼期貨主力合約收3146元/噸，較上一個交易日跌0.57%，DIF向下靠近DEA，RSI三線指標位於52-59，處於布林帶中軌與上軌之間執行。9月10日，中天鋼鐵出臺9月中旬價格，高線、盤螺價格上調30元/噸。此外，寶鋼股份上調10月價格，熱軋、酸洗、普冷、熱鍍鋅等基價上調200元/噸；厚板、焊管、線材、棒材基價上調100元/噸。（我的鋼鐵網）"
+    },
+    {
+      "id": "mkt:01a08acd-56c0-7118-8524-5cd0ebe0c0d9",
+      "time": "2026-09-10 18:11:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) said remaining performance obligations under contracts for its Semiconductor Solutions and Infrastructure Software segments totaled about $179.2 billion as of Aug. 2."
+    },
+    {
+      "id": "5087150",
+      "time": "2026-09-10 18:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通：截至8月2日，半導體解決方案與基礎設施軟體板塊合同項下剩餘履約義務金額約為1792億美元。"
+    },
+    {
+      "id": "5087149",
+      "time": "2026-09-10 18:11:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海合晶：持股5%以上股東擬減持不超1%股份】上海合晶公告稱，公司持股5%以上股東河南京港股權投資基金管理有限公司-河南興港融創創業投資發展基金（有限合夥）持有公司股份1.85億股，佔公司總股本27.70%，股份來源為IPO前取得且已上市流通。該股東因自身資金需求，計劃於2026年10月12日至2027年1月9日期間，透過集中競價或大宗交易方式減持公司股份不超過669.20萬股，即不超過公司總股本的1%。減持期間如遇除權除息事項，擬減持股份數量將相應調整。本次減持不會導致公司控制權發生變更，減持數量、時間和價格存在不確定性。"
+    },
+    {
+      "id": "mkt:01a08acc-f3f8-7118-8524-540ee82015fd",
+      "time": "2026-09-10 18:11:22",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "【SFC holds asset management industry seminar】The Securities and Futures Commission (SFC) held a seminar at its Hong Kong headquarters on asset management industry developments, outlining recent regulatory and market developments and reiterating Hong Kong's role in global asset management. Wu Jiali, executive director of the SFC's Investment Products Division, said direct engagement with the industry is central to the SFC's approach, improving policy transparency and supervisory efficiency, supporting market stability and investor protection, and helping firms clarify compliance expectations. The SFC said it will continue active engagement as market structures evolve through financial innovation and shifting market dynamics."
+    },
+    {
+      "id": "5087148",
+      "time": "2026-09-10 18:11:19",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中國鋁業：擬回購登出21.26萬股限制性股票】中國鋁業公告稱，因2021年限制性股票激勵計劃中1名激勵物件死亡、2名主動離職、3名出現其他退出情形，公司擬對上述6名激勵物件已獲授但尚未解除限售的合計212,580股限制性股票進行回購登出，預計2026年9月15日完成登出。調整後首次授予限制性股票回購價為2.45元/股，預留授予回購價為1.61元/股。本次回購登出完成後，公司剩餘股權激勵限制性股票7,452,874股，總股本將變更為17,154,758,747股。"
+    },
+    {
+      "id": "mkt:01a08acc-b7e1-7118-8524-4a13110c0b0b",
+      "time": "2026-09-10 18:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria accuses Israel PM NETANYAHU of illegal entry】Syria's transitional government on Sept. 9 accused Israel's prime minister NETANYAHU of illegally entering Syrian territory, saying the visit violated Syrian sovereignty and threatened regional stability. Speaking from Mount Hermon in the Israeli-occupied Golan Heights, NETANYAHU said the Israeli military had achieved \"absolute control\" over large areas of southern Syria and did not say Israel was \"close to defeating Iran.\" Defence Minister Katz said Israel would not withdraw from Syria. Israel seized most of the Golan Heights in the 1967 war and has long refused to return it; after Syria's December 2024 political upheaval Israel occupied the Golan buffer zone and Mount Hermon and has continued strikes inside Syria."
+    },
     {
       "id": "mkt:01a08acc-8a7d-7118-8524-4177cf10f80c",
       "time": "2026-09-10 18:10:55",

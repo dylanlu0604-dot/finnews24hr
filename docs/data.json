@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-10 18:11:29",
-  "count": 13633,
+  "updated": "2026-09-10 18:15:16",
+  "count": 13629,
   "items": [
+    {
+      "id": "mkt:01a08acf-ff06-7118-8524-6a7dd9bc30fd",
+      "time": "2026-09-10 18:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bond market on edge ahead of ECB decision; German 10-year hits highest since 2011】Euro-area government bond yields held near multi-year highs on Thursday as investors awaited the European Central Bank policy decision. Analysts expect a 25bp hike, no fresh guidance and a reiteration of data dependence. Germany’s 10-year yield rose 0.5bp to 3.44% after touching 3.4514%, its highest since April 2011. Some market participants say rate-hike expectations may be overdone because energy-driven growth drag could help curb inflation; they warn that a dovish ECB tone could send borrowing costs sharply lower. Traders price the ECB deposit rate at 2.74% by December, up from 2.25% today—implying two more 25bp hikes—and expect 3.10% by Sept 2027, fully pricing a third hike and implying roughly a 40% chance of a fourth. A strategist at a German commercial bank, Erik Liem, said Lagarde’s response to recent bond moves will be watched closely and that even a small dovish hint could have a large market impact today."
+    },
+    {
+      "id": "mkt:01a08acf-9fec-7118-8524-6151c3190eb4",
+      "time": "2026-09-10 18:14:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Data show Asia's jet fuel spot market is trading at its widest discount to benchmarks in about two and a half years."
+    },
+    {
+      "id": "5087152",
+      "time": "2026-09-10 18:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車李想：馬赫VLA 2.0開始陸續推送至已交付AD Max車型】9月10日，理想汽車CEO李想發文透露，馬赫VLA 2.0從今天開始陸續推送至已交付AD Max的車型，覆蓋近百萬車主。"
+    },
+    {
+      "id": "5087151",
+      "time": "2026-09-10 18:12:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【期螺震盪偏弱，市場低價資源出貨有所增加，整體需求不佳】9月10日，國內鋼材市場弱勢下跌，唐山遷安普方坯出廠含稅下調10報3030元/噸。期螺震盪偏弱，市場低價資源出貨有所增加，整體需求不佳，全天成交不及上一交易日。9月10日，螺紋鋼期貨主力合約收3146元/噸，較上一個交易日跌0.57%，DIF向下靠近DEA，RSI三線指標位於52-59，處於布林帶中軌與上軌之間執行。9月10日，中天鋼鐵出臺9月中旬價格，高線、盤螺價格上調30元/噸。此外，寶鋼股份上調10月價格，熱軋、酸洗、普冷、熱鍍鋅等基價上調200元/噸；厚板、焊管、線材、棒材基價上調100元/噸。（我的鋼鐵網）"
+    },
+    {
+      "id": "mkt:01a08acd-56c0-7118-8524-5cd0ebe0c0d9",
+      "time": "2026-09-10 18:11:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) said remaining performance obligations under contracts for its Semiconductor Solutions and Infrastructure Software segments totaled about $179.2 billion as of Aug. 2."
+    },
+    {
+      "id": "5087150",
+      "time": "2026-09-10 18:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通：截至8月2日，半導體解決方案與基礎設施軟體板塊合同項下剩餘履約義務金額約為1792億美元。"
+    },
+    {
+      "id": "5087149",
+      "time": "2026-09-10 18:11:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海合晶：持股5%以上股東擬減持不超1%股份】上海合晶公告稱，公司持股5%以上股東河南京港股權投資基金管理有限公司-河南興港融創創業投資發展基金（有限合夥）持有公司股份1.85億股，佔公司總股本27.70%，股份來源為IPO前取得且已上市流通。該股東因自身資金需求，計劃於2026年10月12日至2027年1月9日期間，透過集中競價或大宗交易方式減持公司股份不超過669.20萬股，即不超過公司總股本的1%。減持期間如遇除權除息事項，擬減持股份數量將相應調整。本次減持不會導致公司控制權發生變更，減持數量、時間和價格存在不確定性。"
+    },
+    {
+      "id": "mkt:01a08acc-f3f8-7118-8524-540ee82015fd",
+      "time": "2026-09-10 18:11:22",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "【SFC holds asset management industry seminar】The Securities and Futures Commission (SFC) held a seminar at its Hong Kong headquarters on asset management industry developments, outlining recent regulatory and market developments and reiterating Hong Kong's role in global asset management. Wu Jiali, executive director of the SFC's Investment Products Division, said direct engagement with the industry is central to the SFC's approach, improving policy transparency and supervisory efficiency, supporting market stability and investor protection, and helping firms clarify compliance expectations. The SFC said it will continue active engagement as market structures evolve through financial innovation and shifting market dynamics."
+    },
+    {
+      "id": "5087148",
+      "time": "2026-09-10 18:11:19",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中國鋁業：擬回購登出21.26萬股限制性股票】中國鋁業公告稱，因2021年限制性股票激勵計劃中1名激勵物件死亡、2名主動離職、3名出現其他退出情形，公司擬對上述6名激勵物件已獲授但尚未解除限售的合計212,580股限制性股票進行回購登出，預計2026年9月15日完成登出。調整後首次授予限制性股票回購價為2.45元/股，預留授予回購價為1.61元/股。本次回購登出完成後，公司剩餘股權激勵限制性股票7,452,874股，總股本將變更為17,154,758,747股。"
+    },
+    {
+      "id": "mkt:01a08acc-b7e1-7118-8524-4a13110c0b0b",
+      "time": "2026-09-10 18:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria accuses Israel PM NETANYAHU of illegal entry】Syria's transitional government on Sept. 9 accused Israel's prime minister NETANYAHU of illegally entering Syrian territory, saying the visit violated Syrian sovereignty and threatened regional stability. Speaking from Mount Hermon in the Israeli-occupied Golan Heights, NETANYAHU said the Israeli military had achieved \"absolute control\" over large areas of southern Syria and did not say Israel was \"close to defeating Iran.\" Defence Minister Katz said Israel would not withdraw from Syria. Israel seized most of the Golan Heights in the 1967 war and has long refused to return it; after Syria's December 2024 political upheaval Israel occupied the Golan buffer zone and Mount Hermon and has continued strikes inside Syria."
+    },
     {
       "id": "mkt:01a08acc-8a7d-7118-8524-4177cf10f80c",
       "time": "2026-09-10 18:10:55",
@@ -124174,136 +124265,6 @@
         "公司"
       ],
       "text": "【九洲藥業：全資子公司獲5mg、10mg藥品註冊證書】九洲藥業公告，公司全資子公司九洲生物醫藥（台州）有限公司近日收到國家藥品監督管理局核准簽發的枸櫞酸坦度螺酮片《藥品註冊證書》，規格為5mg、10mg，批准文號為國藥準字H20265796、國藥準字H20265797，有效期至2031年9月1日。"
-    },
-    {
-      "id": "te:markets:580915",
-      "time": "2026-09-03 18:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South African Rand Shows Resilience — The South African rand traded around 16.1 per USD, approaching its highest level since March, helped by a softer dollar and higher prices for key precious metals, inlcluding gold and PGMs. Developments in the Middle East continued to influence global risk sentiment, with investors assessing the implications for inflation and the path of interest rates. Despite the uncertain global backdrop, the rand has shown uncharacteristic resilience this year, with volatility remaining relatively subdued despite the oil price shock, the war in the Middle East and changes in US Federal Reserve policy. In South Africa, higher petrol and diesel prices have already taken effect, following the latest monthly adjustment, as the Middle East crisis keeps international oil prices elevated and adds to inflationary pressures. South Africa's inflation rate fell to 4.3% in July from 5% in June, but higher fuel prices could reverse some of that progress, complicating the central bank's decisions."
-    },
-    {
-      "id": "5075297",
-      "time": "2026-09-03 18:14:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先導基電：全資子公司擬1.50億元出售參股公司10%份額】先導基電公告稱，公司全資子公司池州萬業擬將其持有的參股公司蘇州中晶智芯半導體合夥企業（有限合夥）10%出資份額，分別轉讓給南京銓益（4%）、南京元富（3%）、南京帝元（3%），轉讓價款合計1.50億元。本次交易賬面成本1億元，溢價50%，採用分期付款方式。交易完成後池州萬業不再持有中晶智芯份額，預計產生收益約5000萬元。本次交易不構成關聯交易及重大資產重組，已經公司董事會審議透過，無需提交股東會審議，尚需完成份額轉讓登記，能否成功實施存在不確定性。"
-    },
-    {
-      "id": "mkt:01a066c3-3592-7118-8480-f3f8ce33b991",
-      "time": "2026-09-03 18:14:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "CSI300",
-        "STAR50"
-      ],
-      "text": "【FOF 1H holdings: gold core; tech and manufacturing top reallocation themes】Chinese public funds' 2026 mid-year filings show FOFs holding large core positions in gold and broad-market ETFs such as CSI 300 and STAR 50. FOFs increased allocations in 1H to sector ETFs — notably telecoms, semiconductors, power-grid equipment and nonferrous metals — which were the primary sources of incremental exposure. The prevailing positioning pairs stable base allocations in gold, broad ETFs and fixed income with directional industry-ETF bets."
-    },
-    {
-      "id": "5075296",
-      "time": "2026-09-03 18:14:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國元信託成立科技公司 含積體電路晶片相關業務】企查查APP顯示，近日，合肥騰鑠科技有限公司成立，法定代表人為葛名川，註冊資本為9億元，經營範圍包含：積體電路設計；積體電路晶片及產品製造；積體電路晶片及產品銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由安徽國元信託有限責任公司全資持股。"
-    },
-    {
-      "id": "5075295",
-      "time": "2026-09-03 18:14:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡交易所：富時羅素表示，在9月季度稽核後，海峽時報指數成分股將無變動。"
-    },
-    {
-      "id": "mkt:01a066c2-c1a9-7118-8480-ee994f2159c4",
-      "time": "2026-09-03 18:13:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German business daily Handelsblatt reports European Central Bank executive board member Schnabel may leave early to join the International Monetary Fund."
-    },
-    {
-      "id": "5075294",
-      "time": "2026-09-03 18:13:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務委員諶貽琴2日至3日在天津調研養老服務工作】國務委員諶貽琴2日至3日在天津調研養老服務工作。她強調，要深入學習貫徹習近平總書記重要指示精神，按照黨中央、國務院決策部署，深化養老服務改革發展，推動養老服務擴容提質增效，讓廣大老年人安享幸福晚年。諶貽琴強調，要堅持惠民生和促消費緊密結合，推進實施向中度以上失能老年人發放養老服務消費補貼專案，豐富適老化產品和服務供給，培育養老服務消費新增長點，不斷增進老年人福祉。（新華社）"
-    },
-    {
-      "id": "5075293",
-      "time": "2026-09-03 18:13:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "Dustin正在調查一起“嚴重”的資訊科技安全事件。"
-    },
-    {
-      "id": "5075292",
-      "time": "2026-09-03 18:12:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：歐洲央行（ECB）的施納貝爾即將調往國際貨幣基金組織（IMF）。"
-    },
-    {
-      "id": "5075291",
-      "time": "2026-09-03 18:12:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相安迪·伯納姆與法國總統馬克龍在唐寧街舉行雙邊會談。"
-    },
-    {
-      "id": "5075290",
-      "time": "2026-09-03 18:12:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "Fractal Analytics稱瑞典分公司已於7月15日解散。"
-    },
-    {
-      "id": "te:markets:580914",
-      "time": "2026-09-03 18:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Edges Up as Dollar Weakness Offers Support — The euro edged back above $1.16, pausing its recent selloff as a sharp rally in the yen weighed on the US dollar and easing oil prices offered some relief. The yen strengthened on growing expectations of a Bank of Japan rate hike and the possibility of official intervention, triggering broad-based dollar weakness. Meanwhile, Brent crude retreated from six-week highs after US President Donald Trump said the renewed US military campaign in Iran would not last long. The euro nevertheless remains near a two-week low amid concerns over energy-driven inflation, higher interest rates and fiscal sustainability in countries including France and the UK. Money markets continue to fully price in a 25-basis-point ECB rate hike to 2.5% next week. Markets are also pricing in an almost 100% probability of a 3% deposit rate by June 2027, implying two further rate increases by mid-2027."
-    },
-    {
-      "id": "5075289",
-      "time": "2026-09-03 18:11:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南華期貨：9月3日回購13.35萬股H股股份】南華期貨公告稱，公司於2026年9月3日透過香港聯交所回購13.35萬股H股股份，佔事件前已發行股份（不含庫存股）的0.0867%，每股回購價區間為6.6港元-6.805港元，回購總金額為89.66萬港元，所購股份擬持作庫存股。本次回購所用授權於2026年7月16日獲批，授權可回購股份總數為1076.59萬股，截至2026年9月3日累計已回購230.9萬股，佔授權獲批日已發行股份（不含庫存股）的2.1447%。回購後30天內暫不得發行新股或處置庫存股。"
-    },
-    {
-      "id": "5075288",
-      "time": "2026-09-03 18:11:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安道麥A：董事長秦恆德因工作安排辭職】安道麥A公告稱，公司董事會近日收到秦恆德的辭職通知，秦恆德因先正達集團工作安排，辭去公司董事、董事長、董事會審計委員會委員職務，辭職後將不再擔任公司及子公司任何職務。在股東大會選舉新任董事前，秦恆德仍需按規定履行董事及審計委員會相關職責。本次辭職不會導致董事會成員低於法定最低人數，不影響董事會正常運作，公司將盡快完成新任董事、董事長及審計委員會委員的補選。截至公告日，秦恆德未持有公司股份，無未履行的公開承諾。"
     }
   ]
 }
