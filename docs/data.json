@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-11 04:23:02",
-  "count": 13633,
+  "updated": "2026-09-11 04:26:59",
+  "count": 13634,
   "items": [
+    {
+      "id": "te:markets:582904",
+      "time": "2026-09-11 04:26:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Slide on Inflation Fears — The S&P/TSX Composite Index fell 1.1% to close at 35,506 on Thursday, as rising oil prices and higher bond yields added to inflationary pressures. Oil prices jumped as fears of prolonged energy supply disruptions intensified following the biggest wave of attacks on shipping in the Strait of Hormuz by Washington and Tehran on Wednesday. Global yields moved higher on concerns over prolonged inflation, weighing on equities. Falling gold prices pressured miners, with Agnico Eagle losing 2.8%, Barrick shedding 2.3%, and WPM falling 3.7%. Copper prices also declined, dragging Hudbay down 7.3% and Capstone 9.3%. Enbridge shed 3.7% after announcing it would buy Tallgrass Energy’s crude oil business, acquiring a majority stake in the Pony Express Pipeline and other assets."
+    },
+    {
+      "id": "5088227",
+      "time": "2026-09-11 04:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：發放 5000 美元款項無需國會批准。"
+    },
+    {
+      "id": "5088225",
+      "time": "2026-09-11 04:25:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率漲15個基點，報4.58%。"
+    },
+    {
+      "id": "mkt:01a08cfe-9983-7118-8535-216e01adc991",
+      "time": "2026-09-11 04:24:50",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "ORACLE (ORCL.N) expects Q2 cloud revenue to increase 46%–70% YoY, or roughly 65%–71% on a constant-currency basis."
+    },
+    {
+      "id": "5088223",
+      "time": "2026-09-11 04:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：8 月下旬空頭頭寸較 8 月中旬上升 2.4%。"
+    },
+    {
+      "id": "5088222",
+      "time": "2026-09-11 04:23:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：船長報告，在其位置以北 6 海里處，看到四枚不明射彈擊中兩艘不明船隻，其中一艘起火，另一艘狀況不明。"
+    },
+    {
+      "id": "mkt:01a08cfd-c95e-7118-8535-1c6fb728e06d",
+      "time": "2026-09-11 04:23:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent and WTI top $100 as wider Middle East conflict sparks supply fears】Oil jumped more than 6% on Thursday as Middle East tensions raised supply concerns, sending both Brent and WTI futures above $100. November Brent settled up $6.42, or 6.34%, at $107.63/bbl; October WTI rose $6.43, or 6.69%, to $102.48/bbl — the highest close since May 19 and the biggest one-day gain in nearly two months. Sources said Houthi forces took control of Yemen’s Mocha port on Thursday, a move that could further threaten Red Sea shipping. Recent tanker attacks in the Gulf have also constrained traffic through the Strait of Hormuz. Masabuni, head of business development at XS.com, said Houthi strikes on Saudi energy facilities introduce a new risk vector that could extend disruptions from Iran and the Strait of Hormuz to regional export routes, production sites and other energy infrastructure."
+    },
+    {
+      "id": "5088221",
+      "time": "2026-09-11 04:23:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "GasBuddy：美國全國柴油均價首次突破每加侖 6 美元。"
+    },
+    {
+      "id": "5088216",
+      "time": "2026-09-11 04:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：收到一份報告，兩艘船隻在阿曼海塞卜以西 4 海里處發生事故。"
+    },
+    {
+      "id": "5088215",
+      "time": "2026-09-11 04:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文第一財季資本支出285億美元，市場預估為198億美元。"
+    },
     {
       "id": "5088213",
       "time": "2026-09-11 04:21:21",
@@ -124504,87 +124598,6 @@
         "其他"
       ],
       "text": "騰訊音樂：本次公開發行包括5億美元2031年到期票面利率5.050%票據，以及5億美元2036年到期票面利率5.650%票據。"
-    },
-    {
-      "id": "5076237",
-      "time": "2026-09-04 04:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國銀行抽調資深銀行家，強化對 “人工智慧生態系統” 的業務聚焦】美國銀行正調動部分資深投行業務骨幹，進一步聚焦幾乎各個行業內大量企業，這類企業在人工智慧落地推進過程中，可能存在融資、併購諮詢以及其他相關業務需求。該行週四一份內部備忘錄顯示，銀行指派格雷格・納班、吉爾・施瓦茨與雷・伍德 “跨各行業小組開展工作”，加深與 “人工智慧生態系統” 客戶的業務聯絡，該生態覆蓋經濟領域中範圍持續擴大的各類主體。全球投行主席卡里姆・阿塞夫與全球投行業務負責人法伊茲・艾哈邁德在備忘錄中寫道：“人工智慧的發展，帶動技術、基建、電力以及數字生態領域出現前所未有的投資熱潮。數以百家企業身處這一輪建設的供應鏈與價值鏈當中，覆蓋工業、電力、能源、地產、金融服務等諸多領域。”二人補充稱，其中不少企業為私募控股企業以及中型企業。"
-    },
-    {
-      "id": "mkt:01a068f3-b079-7118-8490-bcd0e450acdb",
-      "time": "2026-09-04 04:26:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "VOW3.DE",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【Volkswagen to cut about 50,000 jobs, close four European plants in major restructuring】Volkswagen Group will launch a comprehensive restructuring to cut roughly 50,000 jobs and close four plants, calling it the most far-reaching transformation in the group's history. The move follows protracted talks with management, unions and the Lower Saxony state government. The supervisory board confirmed about 500,000 units of excess production capacity in Europe. Emden, Zwickau, Hanover and Neckarsulm currently have no competitive follow-on production projects over the next 5–8 years; the group said it is exploring alternative uses. The cuts will include management positions. CEO Oliver Blume had earlier proposed a larger package of up to 100,000 job cuts and up to four plant closures."
-    },
-    {
-      "id": "5076236",
-      "time": "2026-09-04 04:25:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美司法部施壓各州擴大上報非法移民資訊】美國司法部2日公佈一份法律意見，要求接受兩項聯邦福利專案資金的各州擴大上報非法移民資訊給國土安全部，否則可能面臨資金削減等嚴重後果。訊息稱，這一做法意在施壓各州配合聯邦政府移民執法行動。此前，只有負責運營相關福利專案的州政府機構有上報義務。美國共和黨籍總統特朗普2025年1月再度入主白宮後，不斷收緊移民政策，加大對非法移民的驅逐力度，導致黨派對立激化。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a068f2-da68-7118-8490-b705e91b92ca",
-      "time": "2026-09-04 04:25:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI pledged $1 bln to subsidize access to Daybreak, and to fund training, technical support and partnerships."
-    },
-    {
-      "id": "mkt:01a068f2-bd4e-7118-8490-aee8b97a43f0",
-      "time": "2026-09-04 04:25:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches Daybreak program for frontline defenders."
-    },
-    {
-      "id": "5076234",
-      "time": "2026-09-04 04:25:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將投入10億美元，用於提供補貼性的Daybreak訪問許可權、培訓、技術支援與合作。"
-    },
-    {
-      "id": "5076233",
-      "time": "2026-09-04 04:25:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI推出面向前線防禦人員的Daybreak工具。"
-    },
-    {
-      "id": "mkt:01a068f0-8257-7118-8490-a27588bb4120",
-      "time": "2026-09-04 04:23:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【VANCE says US investigating attack on Iranian wedding】At a WHITE HOUSE press briefing on the 3rd, VANCE said the US is investigating a recent attack on an Iranian wedding, has no definitive information and is skeptical of Iranian media reports; he added that \"sometimes these things happen.\""
-    },
-    {
-      "id": "5076231",
-      "time": "2026-09-04 04:23:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱正在對伊朗婚禮遭襲事件進行調查】美國副總統萬斯3日在白宮記者會上表示，美方正在對日前伊朗一場婚禮遭襲事件進行調查。萬斯在回答記者提問時稱，“有時難免會發生這樣的事”，美方目前對這一事件“尚無任何確切資訊”，美方正在進行調查。他同時表示，對伊朗媒體的報道持“懷疑態度”。萬斯還說，只要霍爾木茲海峽的船隻遇襲事件繼續發生，美國就不會與伊朗進行談判。據伊朗媒體1日報道，美軍當天夜間對伊朗南部多地發動襲擊，波及霍爾木茲甘省庫赫斯塔克一場婚禮活動現場，已造成4人死亡、50人受傷。（新華社）"
     }
   ]
 }

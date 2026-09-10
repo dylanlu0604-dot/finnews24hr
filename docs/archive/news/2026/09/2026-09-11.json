@@ -1,7 +1,101 @@
 {
   "date": "2026-09-11",
-  "count": 383,
+  "count": 393,
   "items": [
+    {
+      "id": "te:markets:582904",
+      "time": "2026-09-11 04:26:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Slide on Inflation Fears — The S&P/TSX Composite Index fell 1.1% to close at 35,506 on Thursday, as rising oil prices and higher bond yields added to inflationary pressures. Oil prices jumped as fears of prolonged energy supply disruptions intensified following the biggest wave of attacks on shipping in the Strait of Hormuz by Washington and Tehran on Wednesday. Global yields moved higher on concerns over prolonged inflation, weighing on equities. Falling gold prices pressured miners, with Agnico Eagle losing 2.8%, Barrick shedding 2.3%, and WPM falling 3.7%. Copper prices also declined, dragging Hudbay down 7.3% and Capstone 9.3%. Enbridge shed 3.7% after announcing it would buy Tallgrass Energy’s crude oil business, acquiring a majority stake in the Pony Express Pipeline and other assets."
+    },
+    {
+      "id": "5088227",
+      "time": "2026-09-11 04:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：發放 5000 美元款項無需國會批准。"
+    },
+    {
+      "id": "5088225",
+      "time": "2026-09-11 04:25:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率漲15個基點，報4.58%。"
+    },
+    {
+      "id": "mkt:01a08cfe-9983-7118-8535-216e01adc991",
+      "time": "2026-09-11 04:24:50",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "ORACLE (ORCL.N) expects Q2 cloud revenue to increase 46%–70% YoY, or roughly 65%–71% on a constant-currency basis."
+    },
+    {
+      "id": "5088223",
+      "time": "2026-09-11 04:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：8 月下旬空頭頭寸較 8 月中旬上升 2.4%。"
+    },
+    {
+      "id": "5088222",
+      "time": "2026-09-11 04:23:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：船長報告，在其位置以北 6 海里處，看到四枚不明射彈擊中兩艘不明船隻，其中一艘起火，另一艘狀況不明。"
+    },
+    {
+      "id": "mkt:01a08cfd-c95e-7118-8535-1c6fb728e06d",
+      "time": "2026-09-11 04:23:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent and WTI top $100 as wider Middle East conflict sparks supply fears】Oil jumped more than 6% on Thursday as Middle East tensions raised supply concerns, sending both Brent and WTI futures above $100. November Brent settled up $6.42, or 6.34%, at $107.63/bbl; October WTI rose $6.43, or 6.69%, to $102.48/bbl — the highest close since May 19 and the biggest one-day gain in nearly two months. Sources said Houthi forces took control of Yemen’s Mocha port on Thursday, a move that could further threaten Red Sea shipping. Recent tanker attacks in the Gulf have also constrained traffic through the Strait of Hormuz. Masabuni, head of business development at XS.com, said Houthi strikes on Saudi energy facilities introduce a new risk vector that could extend disruptions from Iran and the Strait of Hormuz to regional export routes, production sites and other energy infrastructure."
+    },
+    {
+      "id": "5088221",
+      "time": "2026-09-11 04:23:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "GasBuddy：美國全國柴油均價首次突破每加侖 6 美元。"
+    },
+    {
+      "id": "5088216",
+      "time": "2026-09-11 04:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：收到一份報告，兩艘船隻在阿曼海塞卜以西 4 海里處發生事故。"
+    },
+    {
+      "id": "5088215",
+      "time": "2026-09-11 04:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文第一財季資本支出285億美元，市場預估為198億美元。"
+    },
     {
       "id": "5088213",
       "time": "2026-09-11 04:21:21",
