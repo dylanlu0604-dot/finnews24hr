@@ -1,7 +1,81 @@
 {
   "date": "2026-09-11",
-  "count": 245,
+  "count": 253,
   "items": [
+    {
+      "id": "mkt:01a08c94-4901-7118-8533-60998e9bfad5",
+      "time": "2026-09-11 02:28:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "The Chilean Copper Commission said Collahuasi mine’s copper output rose 12.3% YoY in July to 38,400 tonnes."
+    },
+    {
+      "id": "5088110",
+      "time": "2026-09-11 02:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（COCHILCO）：智利科亞瓦西銅礦7月銅產量同比增長12.3%，至3.84萬噸。"
+    },
+    {
+      "id": "mkt:01a08c93-85ae-7118-8533-5dd8bfe70053",
+      "time": "2026-09-11 02:27:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "The Chilean Copper Commission (Cochilco) said Escondida's July copper output fell 22.1% YoY to 89,400 tonnes."
+    },
+    {
+      "id": "5088109",
+      "time": "2026-09-11 02:27:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NSE縮減印度IPO規模，凸顯估值擔憂加劇】按交易量計算全球最大的衍生品交易所運營商印度國家證券交易所有限公司（NSE）已縮減其首次公開募股（IPO）規模——從1.489億股壓縮至1.2644億股，這表明投資者對於是否願意以該公司尋求的估值參與認購，其擔憂情緒正在上升。"
+    },
+    {
+      "id": "5088108",
+      "time": "2026-09-11 02:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（COCHILCO）資料顯示，智利埃斯康迪達銅礦7月銅產量同比下降22.1%，至8.94萬噸。"
+    },
+    {
+      "id": "mkt:01a08c93-29f3-7118-8533-50ebc32302b8",
+      "time": "2026-09-11 02:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said OpenAI CEO Sam Altman met with major electric utilities to discuss measures to protect the power grid."
+    },
+    {
+      "id": "5088107",
+      "time": "2026-09-11 02:27:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥全部地區第二季度經濟活動均實現增長。"
+    },
+    {
+      "id": "5088106",
+      "time": "2026-09-11 02:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI執行長Sam Altman 會見了頂級電力公用事業公司，討論保護電網的方法。"
+    },
     {
       "id": "te:markets:582897",
       "time": "2026-09-11 02:25:02",

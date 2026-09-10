@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-11 02:26:07",
+  "updated": "2026-09-11 02:30:22",
   "count": 13669,
   "items": [
+    {
+      "id": "mkt:01a08c94-4901-7118-8533-60998e9bfad5",
+      "time": "2026-09-11 02:28:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "The Chilean Copper Commission said Collahuasi mine’s copper output rose 12.3% YoY in July to 38,400 tonnes."
+    },
+    {
+      "id": "5088110",
+      "time": "2026-09-11 02:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（COCHILCO）：智利科亞瓦西銅礦7月銅產量同比增長12.3%，至3.84萬噸。"
+    },
+    {
+      "id": "mkt:01a08c93-85ae-7118-8533-5dd8bfe70053",
+      "time": "2026-09-11 02:27:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "The Chilean Copper Commission (Cochilco) said Escondida's July copper output fell 22.1% YoY to 89,400 tonnes."
+    },
+    {
+      "id": "5088109",
+      "time": "2026-09-11 02:27:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NSE縮減印度IPO規模，凸顯估值擔憂加劇】按交易量計算全球最大的衍生品交易所運營商印度國家證券交易所有限公司（NSE）已縮減其首次公開募股（IPO）規模——從1.489億股壓縮至1.2644億股，這表明投資者對於是否願意以該公司尋求的估值參與認購，其擔憂情緒正在上升。"
+    },
+    {
+      "id": "5088108",
+      "time": "2026-09-11 02:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業委員會（COCHILCO）資料顯示，智利埃斯康迪達銅礦7月銅產量同比下降22.1%，至8.94萬噸。"
+    },
+    {
+      "id": "mkt:01a08c93-29f3-7118-8533-50ebc32302b8",
+      "time": "2026-09-11 02:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said OpenAI CEO Sam Altman met with major electric utilities to discuss measures to protect the power grid."
+    },
+    {
+      "id": "5088107",
+      "time": "2026-09-11 02:27:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥全部地區第二季度經濟活動均實現增長。"
+    },
+    {
+      "id": "5088106",
+      "time": "2026-09-11 02:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI執行長Sam Altman 會見了頂級電力公用事業公司，討論保護電網的方法。"
+    },
     {
       "id": "te:markets:582897",
       "time": "2026-09-11 02:25:02",
@@ -124744,78 +124818,6 @@
         "Impact bullish"
       ],
       "text": "U.S. crude futures settled at $91.30/bbl, up $0.29, or 0.32%."
-    },
-    {
-      "id": "te:markets:581047",
-      "time": "2026-09-04 02:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Appreciates largely by 8.14% — Top crypto gainers are XRP (8.14%), Bitcoin (4.74%), Binance (4.68%) and Ether (4.55%)."
-    },
-    {
-      "id": "5076045",
-      "time": "2026-09-04 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.78%，報678.60元人民幣/桶。滬金夜盤收漲2.03%，滬銀收漲2.88%。"
-    },
-    {
-      "id": "mkt:01a06888-1195-7118-848f-2cf90bb36391",
-      "time": "2026-09-04 02:29:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he did not know whether the UK had the capability to take action in the Falkland Islands."
-    },
-    {
-      "id": "mkt:01a06887-7164-7118-848f-2152a87354fa",
-      "time": "2026-09-04 02:28:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Vice President Vance said he is confident the U.S. can ensure homeland security after Iran's attempted cyberattacks."
-    },
-    {
-      "id": "5076044",
-      "time": "2026-09-04 02:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：英國當時並未出手幫我。"
-    },
-    {
-      "id": "mkt:01a06886-cc4b-7118-848f-1e7b4ed3e11a",
-      "time": "2026-09-04 02:27:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the UK did not come to his aid."
-    },
-    {
-      "id": "5076043",
-      "time": "2026-09-04 02:27:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列防長威脅讓伊朗回到石器時代】以色列國防部長卡茨9月3日在國防部舉行的一場活動上威脅稱，如果伊朗對以色列發動襲擊，以色列將擺脫所有限制和束縛，打擊包括能源設施在內的伊朗所有基礎設施，“讓伊朗回到石器時代和黑暗之中”。卡茨表示，“以色列在防禦和進攻兩方面都已為各種可能性做好準備，以軍也已準備好執行這些任務。” 另據以色列國防部長辦公室證實，卡茨當天與以軍總參謀長扎米爾及其他高階軍事和安全官員舉行了一場多戰線安全評估會議。（CCTV國際時訊）"
-    },
-    {
-      "id": "5076042",
-      "time": "2026-09-04 02:27:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談伊朗發動的網路攻擊企圖：對本土安全充滿信心。"
     }
   ]
 }
