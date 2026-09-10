@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-11 05:17:44",
+  "updated": "2026-09-11 05:21:37",
   "count": 13627,
   "items": [
+    {
+      "id": "mkt:01a08d2e-bb60-7118-8535-aad4089518c3",
+      "time": "2026-09-11 05:17:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain News Agency said Bahrain's foreign minister spoke by phone with the UAE's deputy prime minister and foreign minister to discuss bilateral relations and coordination on regional and international issues."
+    },
     {
       "id": "5088295",
       "time": "2026-09-11 05:16:17",
@@ -124558,18 +124566,6 @@
         "公司"
       ],
       "text": "Adobe的戴維・瓦德瓦尼宣佈將離開這家軟體公司，此前執掌 Adobe創意與生產力業務板塊。"
-    },
-    {
-      "id": "mkt:01a06923-27d1-7118-8490-fc53e3ffa8ae",
-      "time": "2026-09-04 05:18:26",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Alhadath, citing sources, reports heavy clashes between Yemeni government forces and Houthi forces in southern Hodeidah province."
     }
   ]
 }

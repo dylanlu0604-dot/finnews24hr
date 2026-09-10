@@ -1,7 +1,15 @@
 {
   "date": "2026-09-11",
-  "count": 438,
+  "count": 439,
   "items": [
+    {
+      "id": "mkt:01a08d2e-bb60-7118-8535-aad4089518c3",
+      "time": "2026-09-11 05:17:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain News Agency said Bahrain's foreign minister spoke by phone with the UAE's deputy prime minister and foreign minister to discuss bilateral relations and coordination on regional and international issues."
+    },
     {
       "id": "5088295",
       "time": "2026-09-11 05:16:17",
