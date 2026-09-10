@@ -1,7 +1,238 @@
 {
-  "updated": "2026-09-10 09:35:08",
-  "count": 13543,
+  "updated": "2026-09-10 09:39:00",
+  "count": 13556,
   "items": [
+    {
+      "id": "5086133",
+      "time": "2026-09-10 09:38:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念盤初活躍 太極實業漲停】早盤儲存晶片概念活躍，太極實業漲停，深科技、德邦科技、德明利、普冉股份、佰維儲存跟漲。"
+    },
+    {
+      "id": "5086132",
+      "time": "2026-09-10 09:38:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊區域性拉昇，中國出版觸及漲停】文化傳媒板塊區域性拉昇，中國出版觸及漲停，出版傳媒、中信出版、讀者傳媒紛紛上揚。"
+    },
+    {
+      "id": "5086131",
+      "time": "2026-09-10 09:38:04",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "增一行：政府為緩解生活成本上漲衝擊出臺的措施，實際上可能會提振需求，推高通脹。"
+    },
+    {
+      "id": "5086130",
+      "time": "2026-09-10 09:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦美國空軍基地遭襲中有約8架F-15戰機受輕微損傷，已恢復服役。"
+    },
+    {
+      "id": "mkt:01a088f6-c832-7118-8515-d5cdb3ef4254",
+      "time": "2026-09-10 09:37:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share planting and forestry sector opened sharply lower; Xinsai Co. slid more than 8%, Shennong Seed fell over 7%, and Nongfa Seed, Dunhuang Seed, Wanxiang Denong and Hainan Rubber each declined more than 5%."
+    },
+    {
+      "id": "5086129",
+      "time": "2026-09-10 09:37:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5182.00元。"
+    },
+    {
+      "id": "mkt:01a088f6-6a79-7118-8515-cdae169418a1",
+      "time": "2026-09-10 09:37:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan policy board member Masu said the pace and timing of rate hikes will be decided based on the probability of the baseline forecast being realized and related risks, and that he will monitor oil prices, AI-driven demand and exchange-rate volatility."
+    },
+    {
+      "id": "mkt:01a088f6-22bb-7118-8515-c624cd7ed6a7",
+      "time": "2026-09-10 09:37:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bank of Japan policy board member Masu said the impact of rising oil prices may be a \"persistent trend.\""
+    },
+    {
+      "id": "5086128",
+      "time": "2026-09-10 09:37:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "增一行：油價上漲的影響可能是“持久趨勢”。"
+    },
+    {
+      "id": "5086127",
+      "time": "2026-09-10 09:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：需要更多加息才能完成正常化。"
+    },
+    {
+      "id": "5086126",
+      "time": "2026-09-10 09:36:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "增一行：市場擔憂中東衝突引發的成本上漲可能會整體推升物價，使物價上漲成為趨勢。"
+    },
+    {
+      "id": "mkt:01a088f5-a08a-7118-8515-be2b71463012",
+      "time": "2026-09-10 09:36:33",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BOJ policy board member MASU said people worry cost increases from the Middle East conflict may push up overall prices."
+    },
+    {
+      "id": "mkt:01a088f5-8f75-7118-8515-b2c4e202e532",
+      "time": "2026-09-10 09:36:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ policymaker Masu said rising fuel and chemical prices may be a one-off shock, but could spread to broader price pressures via distribution costs."
+    },
+    {
+      "id": "5086125",
+      "time": "2026-09-10 09:36:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首年採購需求量約1926萬件 第七批國家組織醫用耗材集採開標】第七批國家組織高值醫用耗材集中帶量採購開標大會今天（10日）在天津舉行，此次集採聚焦消化介入領域，一批消化道檢查、手術常用的一次性醫用耗材將被納入集採。今天上午7:30起，企業已經開始進場遞交報價材料。根據國家組織高值醫用耗材聯合採購辦公室釋出的資訊，本次集採涵蓋23種耗材，包括消化道球囊擴張導管，食道、腸道、膽道、胰管支架，消化道導絲，取石網籃、冷切及熱切圈套器，止血夾、組織切開刀等。首年採購需求量約1926萬件，採購週期至2029年12月31日。"
+    },
+    {
+      "id": "mkt:01a088f5-24dc-7118-8515-aaf1eea1f002",
+      "time": "2026-09-10 09:36:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "MASU, a Bank of Japan policy board member, said the most important priority is to avoid underlying inflation running significantly above 2%."
+    },
+    {
+      "id": "mkt:01a088f5-0961-7118-8515-a09c5910dfd2",
+      "time": "2026-09-10 09:35:55",
+      "tags": [
+        "MKT News",
+        "300503.SZ",
+        "Impact bearish"
+      ],
+      "text": "China A-share foldable-screen concept stocks tumbled; Yian Technology fell over 10%, with Jingyan Technology, Yashi Optoelectronics, Lens Technology, Laibao Hi‑Tech and Changxin Technology also declining."
+    },
+    {
+      "id": "5086124",
+      "time": "2026-09-10 09:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西遂川高坪鎮泥石流災害共造成13人遇難】從江西遂川高坪鎮明坑村泥石流災害救援現場獲悉，隨著最後一名失聯人員被找到，截至10日9時，5日凌晨發生的泥石流災害共造成13人遇難。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a088f4-dfc1-7118-8515-9d35cd8d36f1",
+      "time": "2026-09-10 09:35:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "CBS reported multiple U.S. military aircraft were damaged in an attack on Jordan's Muwaffaq Salti Air Base."
+    },
+    {
+      "id": "5086123",
+      "time": "2026-09-10 09:35:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【代糖概念板塊區域性活躍，中糧科技觸及漲停】代糖概念板塊區域性活躍，中糧科技觸及漲停，紅棉股份此前封板，中化國際、聖泉集團跟漲。"
+    },
+    {
+      "id": "te:economy:582540",
+      "time": "2026-09-10 09:35:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "Australia Inflation Expectations Remain Elevated — Australia’s consumer inflation expectations stood at 4.9% in September 2026, matching August’s pace amid persistent price pressures. The outlook was reinforced by July data showing trimmed mean CPI stayed elevated at 3.6% year-on-year, unchanged from June and well above the Reserve Bank’s 2–3% target range. Meanwhile, RBA Deputy Governor Andrew Hauser said policymakers would consider whether further tightening is warranted at their September meeting, while Assistant Governor Sarah Hunter stressed the bank has limited tolerance for stronger inflation pressures."
+    },
+    {
+      "id": "5086122",
+      "time": "2026-09-10 09:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "增一行：燃料和化工產品價格上漲可能是一次性衝擊，但可能透過分銷成本對價格產生更廣泛影響。"
+    },
+    {
+      "id": "5086121",
+      "time": "2026-09-10 09:35:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5086120",
+      "time": "2026-09-10 09:34:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【摺疊屏概念震盪下挫 宜安科技跌超10%】早盤摺疊屏概念震盪下挫，宜安科技跌超10%，精研科技、亞世光電、藍思科技、萊寶高科、長信科技等跟跌。"
+    },
+    {
+      "id": "5086119",
+      "time": "2026-09-10 09:34:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭板塊區域性活躍 雲煤能源3連板】煤炭板塊區域性活躍，雲煤能源3連板，大有能源觸及漲停，鄭州煤電、遼寧能源、寶泰隆跟漲。"
+    },
     {
       "id": "5086118",
       "time": "2026-09-10 09:34:29",
@@ -123529,103 +123760,6 @@
         "Importance 1"
       ],
       "text": "Dollar Eases as Yen Strengthens — The dollar index slipped to around 99.5 on Thursday, extending losses from the previous session, as a sharp yen rally weighed on the greenback amid speculation that authorities had conducted a rate check and could intervene again to support the Japanese currency. In the US, New York Fed's John Williams said there is evidence that inflation continues to ease as the impact of tariffs fades, while higher energy prices have yet to spill over into other services. Data on Wednesday also showed that US private employment growth slowed in August. Still, markets are pricing in around a two-thirds chance of a Fed rate hike later this month. Investors now look ahead to weekly jobless claims data on Thursday ahead of Friday’s August payrolls report for further guidance. Elsewhere, oil prices halted their rally after President Trump said the latest attacks on Iran would be short-lived, easing inflation concerns and reducing safe-haven demand for the greenback."
-    },
-    {
-      "id": "5074278",
-      "time": "2026-09-03 09:38:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念延續反彈 鳴志電器封漲停】人形機器人概念延續反彈，鳴志電器封漲停，豐光精密、明新旭騰、斯萊克、斯菱智驅、兆威機電等跟漲。"
-    },
-    {
-      "id": "mkt:01a064ea-56a2-7118-8472-101e28b756ae",
-      "time": "2026-09-03 09:37:54",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares ground armament sector pulled back; Beifang Changlong fell over 6%, while Tianqin Equipment, Jieqiang Equipment, Ganhua Kegong and Jianshe Industrial also declined."
-    },
-    {
-      "id": "te:markets:580643",
-      "time": "2026-09-03 09:37:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 8822.00 JPY. Over the past 4 weeks, Mizuho Financial gained 8.41%, and in the last 12 months, it increased 83.88%."
-    },
-    {
-      "id": "mkt:01a064ea-2f33-7118-8472-09a15ed08a86",
-      "time": "2026-09-03 09:37:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Kuwait News Agency, alarms sounded nationwide."
-    },
-    {
-      "id": "5074277",
-      "time": "2026-09-03 09:37:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元匯率上漲0.3%，至158.27。"
-    },
-    {
-      "id": "5074276",
-      "time": "2026-09-03 09:36:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【地面兵裝板塊持續走低】地面兵裝板塊持續走低，北方長龍跌超6%，天秦裝備、捷強裝備、甘化科工、建設工業等跟跌。"
-    },
-    {
-      "id": "5074275",
-      "time": "2026-09-03 09:36:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股黃金股走強 潼關黃金漲超5%】截至發稿，潼關黃金(00340.HK)漲5.15%，紫金黃金國際(00815.HK)漲3.48%，中國黃金國際(02099.HK)漲3.06%，山東黃金(01787.HK)漲2.73%。"
-    },
-    {
-      "id": "5074274",
-      "time": "2026-09-03 09:36:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特軍方：目前正在應對導彈和無人機威脅。"
-    },
-    {
-      "id": "5074273",
-      "time": "2026-09-03 09:36:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.06%，成分股中，同惠電子跌4.36%，科力股份跌4.09%，天工股份跌3.65%，五新智慧跌3.25%。"
-    },
-    {
-      "id": "5074272",
-      "time": "2026-09-03 09:35:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電網裝置板塊延續強勢 太陽電纜2連板】電網裝置板塊延續昨日強勢，太陽電纜2連板，望變電氣、泓淋電力、百利電氣、金盤科技、漢纜股份跟漲。"
-    },
-    {
-      "id": "5074271",
-      "time": "2026-09-03 09:35:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7616.40點。"
     }
   ]
 }
