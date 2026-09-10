@@ -1,7 +1,152 @@
 {
   "date": "2026-09-10",
-  "count": 731,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:01a088f0-0ae1-7118-8515-638e29e0d369",
+      "time": "2026-09-10 09:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "036460.KS",
+        "Impact bullish"
+      ],
+      "text": "【Yuanta: Korea Gas to benefit as overseas profit contribution rises】Yuanta Securities Korea projects Korea Gas’s consolidated operating profit will rise 14% in 2026 to 2.404 trillion won, with overseas operations accounting for 25% of profit versus 15% in 2025. Production ramps at its LNG fields in Canada and Mozambique are cited as the primary profit drivers. Yuanta initiates coverage with an upgrade and a PT of 47,000 won."
+    },
+    {
+      "id": "mkt:01a088ef-ed99-7118-8515-5dfcb8b1bfcb",
+      "time": "2026-09-10 09:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share ports and shipping sector opened higher in the opening auction, led by Nanjing Port which hit a second consecutive daily limit-up; peers including Haitong Development, Guohang Yuanyang, China Merchants Shipping, China Merchants Nanyou and Lianyungang also rose."
+    },
+    {
+      "id": "5086105",
+      "time": "2026-09-10 09:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.04%，現報3320.080點；上證指數跌0.28%，現報3940.398點；深證成指跌0.75%，現報13620.215點。"
+    },
+    {
+      "id": "5086104",
+      "time": "2026-09-10 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.03%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5086103",
+      "time": "2026-09-10 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.65%， 滬深300指數期貨連續跌0.61%， 中證500指數期貨連續跌0.64%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "5086102",
+      "time": "2026-09-10 09:29:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至46,709.58點。"
+    },
+    {
+      "id": "5086101",
+      "time": "2026-09-10 09:28:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3573.00元。"
+    },
+    {
+      "id": "5086100",
+      "time": "2026-09-10 09:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "昆明警方通報鮮花餅吐痰事件。"
+    },
+    {
+      "id": "mkt:01a088ee-30e5-7118-8515-57a69237c6a5",
+      "time": "2026-09-10 09:28:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan 10-year government bond yield rose 4.5 bps to 2.925%."
+    },
+    {
+      "id": "mkt:01a088ee-1a66-7118-8515-4c3638171989",
+      "time": "2026-09-10 09:28:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "At the open on Sep 10, China's Shanghai Composite Index fell 0.31% to 3,939.09; Shenzhen Composite Index fell 0.60% to 13,641.18; CSI 300 Index fell 0.49% to 4,550.19; ChiNext Index fell 0.91% to 3,324.33; SSE STAR 50 Index fell 0.67% to 1,569.46."
+    },
+    {
+      "id": "5086099",
+      "time": "2026-09-10 09:27:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "旅遊板塊延續漲勢，桂林旅遊4連板，雲南旅遊、西域旅遊、張家界、陝西旅遊、華天酒店紛紛高開。"
+    },
+    {
+      "id": "5086098",
+      "time": "2026-09-10 09:27:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升4.5個基點至2.925%。"
+    },
+    {
+      "id": "5086097",
+      "time": "2026-09-10 09:27:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊高開，南京港2連板】港口航運板塊高開，南京港2連板，海通發展、國航遠洋、招商輪船、招商南油、連雲港跟漲。"
+    },
+    {
+      "id": "mkt:01a088ec-f1c9-7118-8515-40347b239a2a",
+      "time": "2026-09-10 09:27:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he must win the upcoming midterm elections to defend the gains his administration has made."
+    },
+    {
+      "id": "5086096",
+      "time": "2026-09-10 09:27:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰禾智慧成立科技發展公司，含AI相關業務】企查查APP顯示，近日，泰禾智慧（珠海橫琴）科技發展有限公司成立，經營範圍包含：軟體銷售；人工智慧基礎軟體開發；物聯網技術研發；資訊系統整合服務等。企查查股權穿透顯示，該公司由泰禾智慧全資持股。"
+    },
     {
       "id": "mkt:01a088ec-acc2-7118-8515-3a8707c701b4",
       "time": "2026-09-10 09:26:47",

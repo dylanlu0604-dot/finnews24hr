@@ -1,7 +1,152 @@
 {
-  "updated": "2026-09-10 09:27:17",
-  "count": 13548,
+  "updated": "2026-09-10 09:31:13",
+  "count": 13545,
   "items": [
+    {
+      "id": "mkt:01a088f0-0ae1-7118-8515-638e29e0d369",
+      "time": "2026-09-10 09:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "036460.KS",
+        "Impact bullish"
+      ],
+      "text": "【Yuanta: Korea Gas to benefit as overseas profit contribution rises】Yuanta Securities Korea projects Korea Gas’s consolidated operating profit will rise 14% in 2026 to 2.404 trillion won, with overseas operations accounting for 25% of profit versus 15% in 2025. Production ramps at its LNG fields in Canada and Mozambique are cited as the primary profit drivers. Yuanta initiates coverage with an upgrade and a PT of 47,000 won."
+    },
+    {
+      "id": "mkt:01a088ef-ed99-7118-8515-5dfcb8b1bfcb",
+      "time": "2026-09-10 09:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share ports and shipping sector opened higher in the opening auction, led by Nanjing Port which hit a second consecutive daily limit-up; peers including Haitong Development, Guohang Yuanyang, China Merchants Shipping, China Merchants Nanyou and Lianyungang also rose."
+    },
+    {
+      "id": "5086105",
+      "time": "2026-09-10 09:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.04%，現報3320.080點；上證指數跌0.28%，現報3940.398點；深證成指跌0.75%，現報13620.215點。"
+    },
+    {
+      "id": "5086104",
+      "time": "2026-09-10 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.03%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5086103",
+      "time": "2026-09-10 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.65%， 滬深300指數期貨連續跌0.61%， 中證500指數期貨連續跌0.64%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "5086102",
+      "time": "2026-09-10 09:29:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至46,709.58點。"
+    },
+    {
+      "id": "5086101",
+      "time": "2026-09-10 09:28:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3573.00元。"
+    },
+    {
+      "id": "5086100",
+      "time": "2026-09-10 09:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "昆明警方通報鮮花餅吐痰事件。"
+    },
+    {
+      "id": "mkt:01a088ee-30e5-7118-8515-57a69237c6a5",
+      "time": "2026-09-10 09:28:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan 10-year government bond yield rose 4.5 bps to 2.925%."
+    },
+    {
+      "id": "mkt:01a088ee-1a66-7118-8515-4c3638171989",
+      "time": "2026-09-10 09:28:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "At the open on Sep 10, China's Shanghai Composite Index fell 0.31% to 3,939.09; Shenzhen Composite Index fell 0.60% to 13,641.18; CSI 300 Index fell 0.49% to 4,550.19; ChiNext Index fell 0.91% to 3,324.33; SSE STAR 50 Index fell 0.67% to 1,569.46."
+    },
+    {
+      "id": "5086099",
+      "time": "2026-09-10 09:27:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "旅遊板塊延續漲勢，桂林旅遊4連板，雲南旅遊、西域旅遊、張家界、陝西旅遊、華天酒店紛紛高開。"
+    },
+    {
+      "id": "5086098",
+      "time": "2026-09-10 09:27:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升4.5個基點至2.925%。"
+    },
+    {
+      "id": "5086097",
+      "time": "2026-09-10 09:27:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊高開，南京港2連板】港口航運板塊高開，南京港2連板，海通發展、國航遠洋、招商輪船、招商南油、連雲港跟漲。"
+    },
+    {
+      "id": "mkt:01a088ec-f1c9-7118-8515-40347b239a2a",
+      "time": "2026-09-10 09:27:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he must win the upcoming midterm elections to defend the gains his administration has made."
+    },
+    {
+      "id": "5086096",
+      "time": "2026-09-10 09:27:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰禾智慧成立科技發展公司，含AI相關業務】企查查APP顯示，近日，泰禾智慧（珠海橫琴）科技發展有限公司成立，經營範圍包含：軟體銷售；人工智慧基礎軟體開發；物聯網技術研發；資訊系統整合服務等。企查查股權穿透顯示，該公司由泰禾智慧全資持股。"
+    },
     {
       "id": "mkt:01a088ec-acc2-7118-8515-3a8707c701b4",
       "time": "2026-09-10 09:26:47",
@@ -123499,179 +123644,6 @@
         "國際"
       ],
       "text": "【韓國電力公司要求三星預防20萬億韓元電費，SK海力士預防5萬億韓元】韓國電力公司（KEPCO）已提議三星電子預付20萬億韓元（約合150億美元）的電費，用於支付其電網擴建專案直至2031年。一份KEPCO內部檔案稱，KEPCO還提議SK海力士預付5萬億韓元。KEPCO在一份宣告中表示，已向包括三星和SK海力士在內的主要電力使用者提出了預付款方案，但參與方、利率、付款金額和付款期限等細節尚未最終確定。韓國電力公司（KEPCO）表示，這項提議旨在幫助滿足半導體和人工智慧資料中心專案日益增長的投資需求，同時為企業新建工廠提供更穩定的電力供應保障。KEPCO將利用這筆資金為晶片製造廠建設輸電和變電站網路，並向企業支付高於兩年期韓國國債收益率的利息。"
-    },
-    {
-      "id": "5074257",
-      "time": "2026-09-03 09:31:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4562.380點；恒生指數現漲0.794%。"
-    },
-    {
-      "id": "mkt:01a064e3-42ee-7118-8471-c22ad56ebaa7",
-      "time": "2026-09-03 09:30:10",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia July goods and services trade balance A$1.923 bln; forecast A$1.45 bln; prior A$1.929 bln."
-    },
-    {
-      "id": "mkt:01a064e3-3b3c-7118-8471-b8580cef3e7f",
-      "time": "2026-09-03 09:30:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia July exports fell 3.3% m/m; prior +9.6%."
-    },
-    {
-      "id": "mkt:01a064e3-379d-7118-8471-b567408d4aa1",
-      "time": "2026-09-03 09:30:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Australia July imports MoM -2.5%, prior -0.2%."
-    },
-    {
-      "id": "5074254",
-      "time": "2026-09-03 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "5074253",
-      "time": "2026-09-03 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.67%， 滬深300指數期貨連續漲0.39%， 中證500指數期貨連續漲0.68%， 上證50指數期貨連續漲0.33%。"
-    },
-    {
-      "id": "5074252",
-      "time": "2026-09-03 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.05%，成分股中，國博電子漲2.33%，晶合整合漲1.83%，源傑科技漲1.73%，生益電子漲1.71%。"
-    },
-    {
-      "id": "mkt:01a064e3-1dca-7118-8471-acc393332420",
-      "time": "2026-09-03 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Exports (MoM) (Jul) | actual -3.3% | previous 9.60%"
-    },
-    {
-      "id": "mkt:01a064e3-1dc3-7118-8471-a0267cf196f9",
-      "time": "2026-09-03 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Imports (MoM) (Jul) | actual -2.5% | previous -0.20%"
-    },
-    {
-      "id": "mkt:01a064e3-1db2-7118-8471-981111aeaa7b",
-      "time": "2026-09-03 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Goods and Services Trade Balance (Jul) | actual 1923000000B | consensus 1450000000B | previous 1929000000B"
-    },
-    {
-      "id": "mkt:01a064e2-a648-7118-8471-94bc7772d9e8",
-      "time": "2026-09-03 09:29:30",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share gold miners opened higher. Hunan Gold, Xingye Silver & Tin, Hunan Silver and Zhongjin Gold each rose over 2%; Zhaojin Gold, Chifeng Gold, Shanjin International and Shandong Gold also advanced."
-    },
-    {
-      "id": "5074251",
-      "time": "2026-09-03 09:29:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“強達轉債”盤中臨時停牌】深交所公告，“強達轉債”（123284）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5074250",
-      "time": "2026-09-03 09:29:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【加拿大央行：美國關稅威脅衝擊加經濟復甦前景】加拿大銀行（央行）2日宣佈將基準利率維持在2.25%不變。自2025年10月底以來，加拿大一直保持基準利率不變。 加拿大銀行當天在新聞公報中表示，加拿大經濟在第二季度復甦，但面臨很高不確定性。美國的新關稅和進一步採取關稅行動的威脅對加拿大經濟復甦的可持續性構成風險。 加拿大銀行說，由於中東衝突仍在持續，而且霍爾木茲海峽的重新開放進展甚微，通脹上行風險增加。油價處於高位的時間越長，價格傳導到其他商品和服務的風險就越大。 加拿大銀行預計，美國新關稅和加拿大的報復性關稅也將推高一些企業的成本，並可能隨時間推移而影響消費價格。(新華社)"
-    },
-    {
-      "id": "mkt:01a064e2-25a0-7118-8471-8d3f62187eae",
-      "time": "2026-09-03 09:28:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Maduro seeks dismissal of U.S. indictment on immunity grounds】On Sept. 2, lawyers for Venezuelan President Nicolás Maduro filed a motion in the U.S. District Court for the Southern District of New York seeking dismissal of the fourth superseding indictment against him on grounds of immunity. Judge Alvin K. Hellerstein scheduled a hearing for Nov. 17, 2026. The defense submitted a legal memorandum, a declaration by Pollak and multiple attachments, including a Jan. 3, 2026 decision from Venezuela’s Supreme Court Constitutional Chamber, a United Socialist Party document and two Italian court rulings. The filing does not constitute dismissal; prosecutors will respond and the judge will decide whether the immunity claim can bar the U.S. charges."
-    },
-    {
-      "id": "mkt:01a064e1-acfd-7118-8471-820202b306e4",
-      "time": "2026-09-03 09:28:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "China's Shanghai Composite opened up 11.41 points (+0.29%) at 3,952.79 on Sept 3; Shenzhen Composite opened up 99.52 points (+0.73%) at 13,711.07; CSI 300 Index opened up 22.96 points (+0.50%) at 4,570.91; ChiNext Index opened up 29.85 points (+0.90%) at 3,342.09; STAR 50 Index opened up 16.92 points (+1.05%) at 1,634.52."
-    },
-    {
-      "id": "5074248",
-      "time": "2026-09-03 09:28:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "旅遊板塊延續漲勢，雲南旅遊2連板，西藏旅遊、凱撒旅業、西域旅遊、南京商旅、君亭酒店紛紛高開。"
-    },
-    {
-      "id": "5074247",
-      "time": "2026-09-03 09:28:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【風華高科：目前訂單飽滿 產能利用率保持在較高水平】風華高科近日在券商策略會上表示，公司目前訂單飽滿，產能利用率保持在較高水平，公司將根據自身規劃和市場需求推進主營產品MLCC、片式電阻器和電感器等產品高階化轉型，加快產品結構調整。"
-    },
-    {
-      "id": "mkt:01a064e1-4c5a-7118-8471-7e68c0660d56",
-      "time": "2026-09-03 09:28:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fenghua Advanced Technology: orders full; capacity utilization high】At a broker strategy meeting, Fenghua Advanced Technology said orders are full and capacity utilization remains at a high level. The company said it will, based on its own plans and market demand, accelerate product-mix upgrades and push high-end transformation of core MLCC, chip resistor and inductor lines."
     }
   ]
 }
