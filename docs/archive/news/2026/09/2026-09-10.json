@@ -1,7 +1,83 @@
 {
   "date": "2026-09-10",
-  "count": 2477,
+  "count": 2486,
   "items": [
+    {
+      "id": "5087871",
+      "time": "2026-09-10 22:52:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北省委書記關志鷗會見百度集團創始人李彥宏】據“湖北釋出”訊息，9月10日下午，湖北省委書記關志鷗在武漢會見百度集團創始人、董事長兼執行長李彥宏。關志鷗說，希望百度集團持續深耕湖北，在人工智慧、時空地理資訊等領域加大雙方合作力度，實現互利共贏、共同發展。湖北將堅持“有呼必應、無事不擾”，著力打造一流營商環境，為百度集團在鄂發展創造良好條件。"
+    },
+    {
+      "id": "5087870",
+      "time": "2026-09-10 22:51:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利AVIO公司股價下跌9.58%後再次自動停牌。"
+    },
+    {
+      "id": "5087869",
+      "time": "2026-09-10 22:51:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將勞斯萊斯的評級上調至a-，展望穩定。"
+    },
+    {
+      "id": "5087868",
+      "time": "2026-09-10 22:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國運通擬發行 5 億美元信用卡資產支援證券（ABS）。"
+    },
+    {
+      "id": "5087867",
+      "time": "2026-09-10 22:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【立陶宛擬修憲取消核武器部署禁令】據立陶宛媒體報道，立陶宛議會計劃於今年冬季推進憲法修正案，刪除現行憲法中禁止在本國領土部署大規模殺傷性武器的條款。"
+    },
+    {
+      "id": "5087866",
+      "time": "2026-09-10 22:49:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊一步步滑向持久戰 美高層據報道告誡特朗普戰爭或拖至2029年】伊朗和美國恐將邁入一場曠日持久的戰爭，儘管當前敵對行動的強度較低，但短期內也幾乎看不到停火或中東能源流動恢復正常的跡象。媒體週三援引一名伊朗高階官員報道稱，儘管經濟代價不斷上升，德黑蘭領導層仍決心繼續作戰，因為他們將這場衝突視為事關生存的威脅。該官員表示，伊朗已經能夠重建導彈能力，如果華盛頓加大打擊力度，伊朗也將升級對美國及海灣地區目標的襲擊。媒體援引美國官員報道稱，包括副總統JD·萬斯和國務卿馬爾科·盧比奧在內的白宮高階顧問已告訴總統唐納德·特朗普，這場戰爭可能會持續到他本屆任期結束，即2029年1月。這場衝突已陷入某種僵局，包括霍爾木茲海峽控制權以及伊朗核計劃在內的關鍵問題仍未解決。特朗普一再表示，這場戰爭的目的是阻止德黑蘭製造核武器。不過，自2025年6月以色列和美國襲擊伊朗龐大的核設施以來，國際原子能機構一直無法核實伊朗接近武器級濃縮鈾庫存的狀況或所在位置。"
+    },
+    {
+      "id": "5087865",
+      "time": "2026-09-10 22:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰森食品首席財務官在巴克萊會議上表示：美國牛群正在重建，但重建速度慢於以往復蘇週期中的水平。"
+    },
+    {
+      "id": "te:markets:582865",
+      "time": "2026-09-10 22:48:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Falls Toward Three-Week Low — Palladium futures fell below $1,315 an ounce, heading toward their lowest level since mid-August, as the metal remained influenced by near-term investment flows. Heightened economic uncertainty stemming from the conflict in the Middle East has raised expectations of monetary tightening across major economies, weighing on demand for the non-yielding metal. The ECB hiked its policy rate at its September meeting, while a rise in US producer inflation led investors to increase bets on a Fed rate hike at its meeting next week. Meanwhile, UBS forecasts a market surplus for palladium, as increased recycling and weaker consumption of catalytic converters are expected to more than offset lower mining output compared with last year. On the other hand, Russian palladium exports to China doubled in the first seven months of the year."
+    },
+    {
+      "id": "5087864",
+      "time": "2026-09-10 22:48:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI數字人主播月成本僅3000元 AI把短劇成本打下來了】本屆服貿會，AI數字內容出海成為最大亮點之一。如今，中國數字內容跑出了輕量化、低成本、全天候的出海新正規化。AI數字人主播實現了多語種自動適配海外市場，業內人士介紹，一套7*24小時不間斷推銷的數字人系統，一個月的成本僅需兩三千元。除了AI數字人，AI生成的短劇熱度十分火爆。有企業負責人表示，“用AIGC來完成一部劇，跟傳統的真人拍攝相比降低了80%的成本。”資料顯示，今年前7個月我國服務出口總額17732.3億元，同比增長17.1%。以前是賣產品，現在是輸出解決方案和文化體驗。從數字人到AI短劇，中國服務正在全球價值鏈上加速攀升！（央視財經）"
+    },
     {
       "id": "mkt:01a08bc9-9578-7118-852e-d82e40cba077",
       "time": "2026-09-10 22:47:19",
