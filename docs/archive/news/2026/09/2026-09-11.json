@@ -1,7 +1,31 @@
 {
   "date": "2026-09-11",
-  "count": 294,
+  "count": 296,
   "items": [
+    {
+      "id": "mkt:01a08caf-822e-7118-8533-fe9372c74cf0",
+      "time": "2026-09-11 02:58:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath, citing Israeli sources, reports dozens of Hezbollah fighters' bodies were found in the Ali Tahir tunnel."
+    },
+    {
+      "id": "mkt:01a08cac-a9e9-7118-8533-f743aade61b1",
+      "time": "2026-09-11 02:55:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said he discussed escalating tensions with Saudi Arabia's foreign minister."
+    },
     {
       "id": "mkt:01a08cab-d124-7118-8533-eb7ad6b00424",
       "time": "2026-09-11 02:54:25",

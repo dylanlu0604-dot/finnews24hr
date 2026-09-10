@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-11 02:54:56",
-  "count": 13675,
+  "updated": "2026-09-11 02:59:12",
+  "count": 13674,
   "items": [
+    {
+      "id": "mkt:01a08caf-822e-7118-8533-fe9372c74cf0",
+      "time": "2026-09-11 02:58:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath, citing Israeli sources, reports dozens of Hezbollah fighters' bodies were found in the Ali Tahir tunnel."
+    },
+    {
+      "id": "mkt:01a08cac-a9e9-7118-8533-f743aade61b1",
+      "time": "2026-09-11 02:55:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said he discussed escalating tensions with Saudi Arabia's foreign minister."
+    },
     {
       "id": "mkt:01a08cab-d124-7118-8533-eb7ad6b00424",
       "time": "2026-09-11 02:54:25",
@@ -124876,30 +124900,6 @@
         "MKT News"
       ],
       "text": "World Bank: Uruguay and the World Bank have launched a $350 mln performance-based loan."
-    },
-    {
-      "id": "mkt:01a068a3-9f8d-7118-848f-cb03061e48b4",
-      "time": "2026-09-04 02:59:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said southern Lebanon's Ali Tahir Heights no longer pose a threat to Israel and that Israeli forces have eliminated a large number of militants there."
-    },
-    {
-      "id": "5076072",
-      "time": "2026-09-04 02:56:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車：監事會將作出決議，把審批許可權限定在對集團整體具有重大影響的事項，並相應調整審批閾值，對標 DAX 成分股企業的通行公司治理慣例。"
-    },
-    {
-      "id": "mkt:01a0689f-fc9b-7118-848f-c47ee6dc696f",
-      "time": "2026-09-04 02:55:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Crusoe and Jane Street signed an approximately $13 billion cloud-computing agreement."
     }
   ]
 }
