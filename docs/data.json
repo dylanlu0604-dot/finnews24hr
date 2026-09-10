@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-10 13:45:03",
-  "count": 13548,
+  "updated": "2026-09-10 13:49:01",
+  "count": 13552,
   "items": [
+    {
+      "id": "5086449",
+      "time": "2026-09-10 13:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第七批耗材集採首輪報價結束】9月10日13時，第七批國家組織醫用耗材集中帶量採購首輪報價結束，產生直接擬中選企業。根據採購規則，首輪報價未中選的企業，有機會根據採購規則進行第二輪“復活”報價，以適宜價格供應臨床。第二輪“復活”報價13時30分開始，14時30分左右進行第二輪報價唱標。（新華社）"
+    },
+    {
+      "id": "mkt:01a089dc-057c-7118-851b-4595de19ad19",
+      "time": "2026-09-10 13:48:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share fertilizer sector plunged; Lutianhua hit the daily limit-down. Nongda Technology, Kingenta, Tianhe, Chitianhua, Luhua Technology and Hongsifang all fell over 5%."
+    },
+    {
+      "id": "mkt:01a089db-f9ee-7118-851b-3eb04a8a60f3",
+      "time": "2026-09-10 13:48:09",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "BOJ policy board member on future rate-hike pace: next week's rate decision is unknown; the bank will decide subsequent actions on a meeting-by-meeting basis."
+    },
+    {
+      "id": "5086448",
+      "time": "2026-09-10 13:47:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "在被問及未來加息步伐時，增一行表示尚不清楚下週將做出何種利率決定；至於後續會議，將視具體情況逐次決定應對之策。"
+    },
+    {
+      "id": "5086447",
+      "time": "2026-09-10 13:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼簽署兩項總值600萬里亞爾的礦業特許權協議。"
+    },
+    {
+      "id": "te:markets:582595",
+      "time": "2026-09-10 13:45:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Under Pressure After Bearish MPOB Data — Malaysian palm oil futures fell around 1.3% to MYR 4,900 per tonne, extending their recent drop to a one-week low. Sentiment was pressured after Malaysian Palm Oil Board data showed inventories rose 7.48% mom in August to an eight-month high of 2.82 million tonnes. Meanwhile, exports fell 7.5% to 1.29 million tonnes, with production adding 1.39% to 1.82 million tonnes, reinforcing concerns over ample supply. Risk appetite was further weighed by weaker edible oil prices in Dalian and Chicago and a stronger ringgit. In India, heavy edible oil buying has congested major ports, delaying vessel unloading by up to 10 days as storage tanks overflow, potentially curbing near-term import demand. Still, losses were capped by elevated crude oil prices, with Brent breaching US$100 a barrel amid renewed Middle East tensions, boosting palm oil’s appeal as a biodiesel feedstock. Dry weather across Southeast Asia also fueled concerns over yields following fires and haze in Borneo and Sumatra."
+    },
+    {
+      "id": "5086446",
+      "time": "2026-09-10 13:45:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行贈一行：將在9月會議上進行深入討論。"
+    },
     {
       "id": "5086445",
       "time": "2026-09-10 13:44:03",
@@ -123592,38 +123655,6 @@
         "國際"
       ],
       "text": "俄羅斯副總理諾瓦克：一旦煉油廠完成維護，俄羅斯將開始增加石油產量。"
-    },
-    {
-      "id": "mkt:01a065ce-a4e9-7118-8476-a32551793d71",
-      "time": "2026-09-03 13:47:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Six ships transited Strait of Hormuz on Wednesday】Refinitiv, citing Kpler vessel-tracking data, said just six commodity carriers transited the Strait of Hormuz on Wednesday, down from 11 the prior day and below the roughly 13-vessel 10-day average. The count comprised one VLGC, two long-range fuel oil tankers, one Supramax and one Panamax tanker entering from the Gulf of Oman, and one fully laden VLGC exiting into the Gulf of Oman. Totals may change as some ships switch off AIS. In the Bab al-Mandeb, 31 commodity carriers transited on Wednesday, the highest since Aug. 24 and above the 10-day average of 25; Tuesday saw 17 transits."
-    },
-    {
-      "id": "5074608",
-      "time": "2026-09-03 13:46:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4851.00元。"
-    },
-    {
-      "id": "te:markets:580740",
-      "time": "2026-09-03 13:45:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Firms Amid Weaker Dollar, New BI Governor’s Pledge — The Indonesian rupiah traded below IDR 17,700 per U.S. dollar on Thursday, strengthening for a second straight session as the dollar index extended its slide. The greenback was pressured by a sharp yen rally amid speculation of Japanese intervention following a rate check. Domestically, Destry Damayanti was sworn in Wednesday as Bank Indonesia’s first female governor, vowing responsive policy to balance stability and growth. She also raised the 2027 growth outlook to 5.2%-6%, with the upper end marking the strongest pace since 2012. A narrow trade surplus in July also lent support, as stronger non-oil and gas exports helped offset a surge in imports, particularly fuel. Gains were capped, however, by caution ahead of next week's foreign exchange reserves and consumer confidence data. Meanwhile, inflationary pressures intensified, with August headline inflation accelerating from July's three-month low on higher food prices and core inflation climbing to its highest since March 2023."
     }
   ]
 }
