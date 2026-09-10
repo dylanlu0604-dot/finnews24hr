@@ -1,7 +1,123 @@
 {
   "date": "2026-09-10",
-  "count": 1181,
+  "count": 1193,
   "items": [
+    {
+      "id": "5086428",
+      "time": "2026-09-10 13:31:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Kimi啟動企業合作伙伴計劃】據月之暗面訊息，9月10日，公司正式啟動Kimi企業合作伙伴計劃：與各行各業的IT服務商、整合商夥伴共建前線部署工程師（Forward Deployed Engineer，FDE）隊伍，深入客戶現場，幫助企業把AI真正部署到核心業務中。目前已有軟體資訊服務、雲端計算、基礎設施、通訊等多個行業的企業簽約加入這項計劃。"
+    },
+    {
+      "id": "mkt:01a089cc-d3f2-7118-851a-f5b0ad3aede6",
+      "time": "2026-09-10 13:31:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share grain sector pulled back; COFCO Sugar hit the daily limit-down, Yasheng Group and Xinsai approached limit-down. Nongfa Seed, Wanxiang Denong, Hainan Rubber, Shennong Seed and Denghai Seed also declined."
+    },
+    {
+      "id": "5086427",
+      "time": "2026-09-10 13:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯與印度簽署協議，將交付105架伊爾-114-300噴氣式飛機。"
+    },
+    {
+      "id": "5086426",
+      "time": "2026-09-10 13:31:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積前八月累計銷售額3.39萬億元臺幣，同比增長39.3%。"
+    },
+    {
+      "id": "mkt:01a089cc-3c86-7118-851a-ea99349bc8c3",
+      "time": "2026-09-10 13:30:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N"
+      ],
+      "text": "TSMC (TSM.N) reported August revenue of NTD 514.8 billion."
+    },
+    {
+      "id": "mkt:01a089cc-2177-7118-851a-e782059a286b",
+      "time": "2026-09-10 13:30:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Front-month palm oil futures opened lower at the midday session and extended losses to 2.22% on the day, last at 10,077 yuan/ton."
+    },
+    {
+      "id": "5086425",
+      "time": "2026-09-10 13:30:27",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "臺積電8月銷售額5,148.0億元臺幣，同比增長53.3％。"
+    },
+    {
+      "id": "mkt:01a089cb-a797-7118-851a-da295e46f61f",
+      "time": "2026-09-10 13:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell 1.0% intraday to $98.57/bbl."
+    },
+    {
+      "id": "5086424",
+      "time": "2026-09-10 13:30:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "TELENOR旗下子公司KNL與丹麥武裝部隊達成框架協議。"
+    },
+    {
+      "id": "5086423",
+      "time": "2026-09-10 13:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報5028.00元。"
+    },
+    {
+      "id": "5086422",
+      "time": "2026-09-10 13:29:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯沃羅涅日州州長稱，該州遭遇無人機襲擊，造成一名女性死亡。"
+    },
+    {
+      "id": "mkt:01a089ca-fe12-7118-851a-d5788c48735f",
+      "time": "2026-09-10 13:29:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil down 1.00% intraday, trading at $93.28/bbl."
+    },
     {
       "id": "5086421",
       "time": "2026-09-10 13:26:40",
