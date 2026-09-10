@@ -1,7 +1,3099 @@
 {
   "date": "2026-09-10",
-  "count": 1422,
+  "count": 1764,
   "items": [
+    {
+      "id": "mkt:01a08ac0-f209-7118-8523-fad98e7578ac",
+      "time": "2026-09-10 17:58:15",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish",
+        "CHU.N"
+      ],
+      "text": "【China Unicom expects H2 eSIM phone market to expand 20-fold to over 20 mln units】Apple at its autumn launch unveiled its first foldable iPhone Duo, adopting an eSIM-only design globally. At its 2026 partners conference China Unicom said domestic eSIM phone sales were 1 mln units in 1H 2026 and it expects H2 volume to rise 20-fold to exceed 20 mln units. After issuing 300k eSIM-specific benefits in 1H, China Unicom plans to distribute 8 mln such benefits in H2."
+    },
+    {
+      "id": "5087111",
+      "time": "2026-09-10 17:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【矽業分會：本週上下游觀望為主，矽片價格暫穩執行】中國有色金屬工業協會矽業分會訊息，據安泰科統計，本週矽片價格暫穩執行。其中，N型G10L單晶矽片（182*183.75mm/130μm）成交均價在1.01元/片，N型G12R單晶矽片（182*210mm/130μm）成交均價在1.03元/片，N型G12單晶矽片（210*210mm/130μm）成交均價在1.15元/片，均與上週持平。據調研瞭解，本週下游電池片和元件價格較上週持平，其中電池片主流價格0.29-0.31元/W，元件主流價格0.69-0.71元/W，暫無明顯變化。展望後市：當前矽片市場仍處於供應寬鬆、需求疲軟疊加政策預期推動的博弈狀態，短期內，矽片市場大機率維持偏弱執行態勢。後續需關注矽片供需關係，以及原材料多晶矽價格的變化情況對矽片市場的影響。"
+    },
+    {
+      "id": "5087110",
+      "time": "2026-09-10 17:57:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利聯合聖保羅銀行股東批准為收購帕斯基銀行發行新股。"
+    },
+    {
+      "id": "te:economy:582737",
+      "time": "2026-09-10 17:57:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Oman",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Oman Inflation Accelerates to Three-Month High — Oman’s annual inflation rate rose to 3.4% in August 2026, up from 3.2% in July and reaching its highest level since May. The acceleration was driven primarily by a sharp increase in transport prices, which climbed 8.5% year-on-year, compared with 6.5% in July, as fuel costs rose amid higher crude prices and escalating US-Iran tensions. Additional upward pressure came from miscellaneous goods and services, where inflation accelerated to 6.1% from 5.3%. Meanwhile, food inflation eased slightly to 7.0% from 7.3% but remained elevated. Price growth was unchanged for restaurants and hotels at 3.6%, as well as for furnishings, household equipment and routine household maintenance at 3.1%. By contrast, housing and utilities prices fell for a second consecutive month, declining 0.6%. On a monthly basis, consumer prices decreased 0.3% in August, following a 0.7% increase in July."
+    },
+    {
+      "id": "5087109",
+      "time": "2026-09-10 17:56:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯通控股：338.53萬元募集資金被凍結】匯通控股公告稱，公司在中國銀行合肥高新技術產業開發區支行開立的募集資金賬戶被凍結338.53萬元，系與崑山鴻永盛模具有限公司的買賣合同糾紛，對方提起訴訟並申請財產保全所致，該案件為非重大訴訟案件，尚未開庭審理。截至公告披露日，該募集資金賬戶餘額3088.74萬元，被凍結資金佔賬戶餘額10.96%，佔公司最近一期經審計歸母淨資產的0.22%，佔最近一期經審計貨幣資金的1.21%。本次凍結與募投專案無關，不會對募投專案實施產生重大不利影響，公司將透過協商調解、司法應訴等途徑推動糾紛辦結。"
+    },
+    {
+      "id": "5087108",
+      "time": "2026-09-10 17:56:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜機場集團執行長：我們預計到2026年底客流量將達到7000萬人次，創歷史紀錄。"
+    },
+    {
+      "id": "5087107",
+      "time": "2026-09-10 17:56:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福瑞泰克J6B方案開啟規模化交付】福瑞泰克宣佈基於地平線征程6B晶片開發的行泊一體域控制器方案正式進入量產階段，率先實現行業首批J6B方案的大規模量產交付。據瞭解，J6B方案定位為新一代全球化平臺，核心聚焦智慧駕駛輔助主流市場，支援一體機和小域控多形態部署。功能方面，該方案覆蓋AEB、ACC、LKA等十餘項主動安全功能，同時具備APA與RPA泊車能力，兼顧行車與泊車兩大場景需求。（新浪科技）"
+    },
+    {
+      "id": "5087106",
+      "time": "2026-09-10 17:56:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海立股份：擬回購B股股份 金額不超450萬美元】海立股份公告稱，公司擬以集中競價交易方式回購境內上市外資股（B股），回購資金總額不低於225萬美元（含）、不高於450萬美元（含），資金來源為自有資金，回購價格不超過0.840美元/股（含）。按回購價格上限測算，擬回購股份數量為267.86萬股~535.71萬股，佔公司總股本的0.25%~0.50%。回購股份將全部用於登出並減少註冊資本，回購期限自股東會審議透過本次回購方案之日起不超過12個月。本次回購方案尚需提交公司股東會審議，公司董事、高階管理人員、控股股東未來3個月、6個月內無減持計劃。"
+    },
+    {
+      "id": "5087105",
+      "time": "2026-09-10 17:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昊海生物科技：9月10日回購4.8萬股H股股份】昊海生物科技公告稱，公司於2026年9月10日透過香港聯交所回購H股股份48000股，每股回購價區間為16.47港元-16.76港元，回購總金額為795745港元，佔有關事件前已發行H股股份的0.0213%。本次回購股份擬登出，截至2026年9月10日尚未登出。公司回購授權於2026年5月29日獲批，可回購H股總數上限為3478034股，截至目前已累計回購807500股，佔授權獲批日已發行H股的2.3217%。本次回購後新股發行等事項暫止期至2026年10月10日。"
+    },
+    {
+      "id": "5087104",
+      "time": "2026-09-10 17:55:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福華尚緯：擬出資4000萬元參與設立股權投資合夥企業】福華尚緯公告稱，公司擬與四川鼎祥股權投資基金有限公司、深圳天德私募股權基金管理有限公司共同出資設立共青城天祥七期創業投資合夥企業（有限合夥），基金認繳規模5000萬元，其中公司作為有限合夥人認繳4000萬元，佔比80%。該基金重點投向新能源、新材料賽道，由深圳天德私募股權基金管理有限公司擔任基金管理人。本次投資不構成關聯交易及重大資產重組，無需提交股東會審議。目前基金尚處於籌備設立階段，合夥協議尚未簽署，後續需完成基金業協會備案，實施存在一定不確定性。"
+    },
+    {
+      "id": "5087103",
+      "time": "2026-09-10 17:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洛陽鉬業：為多家下屬子公司新增擔保 總額357.11億元】洛陽鉬業公告稱，公司直接或透過全資子公司為上海董禾商貿、海南鉬興商貿、洛陽鼎鴻貿易、洛陽欒川鉬業集團鎢業、洛鉬欒川鉬業集團銷售等多家全資子公司提供擔保，本次新增擔保均在2025年年度股東會審議透過的年度擔保預計額度內，擔保方式為保證，無反擔保。截至公告日，公司對外擔保總額為357.11億元，佔最近一期經審計淨資產的43.32%，不存在對外擔保逾期情形。"
+    },
+    {
+      "id": "mkt:01a08abe-9c8a-7118-8523-f1638b133858",
+      "time": "2026-09-10 17:55:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior military adviser to Iran's armed forces commander said U.S. belligerent actions have accelerated a shift in the balance of power toward the East."
+    },
+    {
+      "id": "5087102",
+      "time": "2026-09-10 17:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新農開發：控股股東稱無應披露未披露重大事項】新農開發公告稱，公司收到控股股東新疆塔里木農墾集團有限公司針對股票交易異常波動的問詢函回覆，控股股東經自查確認，截至目前不存在影響公司股票交易異常波動的重大事項，不存在其他應披露而未披露的重大資訊，包括但不限於股份發行、併購重組、債務重組、業務重組、資產剝離和資產注入等重大事項。"
+    },
+    {
+      "id": "mkt:01a08abe-15d3-7118-8523-ee43a745e641",
+      "time": "2026-09-10 17:55:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Qatar foreign ministry said the Qatari PM, who also serves as foreign minister, spoke by phone with the Saudi foreign minister to discuss efforts to de-escalate the regional situation and ease tensions."
+    },
+    {
+      "id": "5087101",
+      "time": "2026-09-10 17:55:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基石資本陶濤：基於AI普惠，中國AI應用產業正產生世界級爆款消費品】9月10日，由證券時報社主辦的“2026金融機構年會暨證券業投資銀行論壇”在深圳舉行。基石資本合夥人陶濤在主題演講中表示，當前我國致力於拓展AI的廣度，即降低社會使用AI的成本，最大限度實現AI的普惠，透過降低使用門檻，激發AI+的創新，使得AI技術能夠廣泛應用於社會各個層面。陶濤談到，基於AI普惠，中國的AI應用產業將極大提升個人和企業的產出效率，中國的AI應用產業正產生一系列的世界級的爆款消費品。AI最終一定會從“螢幕裡的智慧”走向“物理世界裡的生產力”。當大模型進入機器人、智慧汽車、各類消費級的AI硬體、醫院、養老院、餐飲、文娛、工廠礦山、能源、科研和企業運營時，從“AI晶片/算力—高速互聯—模型—具身智慧—智慧裝備—AI硬體—行業應用”之間的產業協同不斷深化和商業場景不斷拓展的飛輪正在發生。（證券時報）"
+    },
+    {
+      "id": "mkt:01a08abc-e1c6-7118-8523-e0c433806d58",
+      "time": "2026-09-10 17:53:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Senate subcommittee opens probe into OpenAI over July Hugging Face breach as congressional AI risk concerns rise】Axios reported a Republican-led Senate subcommittee on disaster management has opened an investigation into OpenAI's handling of the July Hugging Face breach, saying the probe is a response to OpenAI's recent internal investigation findings. Missouri Republican Senator Josh Hawley, chair of the subcommittee, wrote to CEO Sam Altman that an increasing number of AI experts are warning of existential risk and cited three Anthropic researchers who publicly said the probability of AI killing all humans within the next decade exceeds 10%. The Hugging Face breach prompted OpenAI to slow model releases and has heightened industry warnings about AI-enabled cyberattacks."
+    },
+    {
+      "id": "5087100",
+      "time": "2026-09-10 17:53:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "大西洋航運控股（新加坡）：300英尺駁船將在上海建造，造價320萬美元，預計2027年第一季度交付。"
+    },
+    {
+      "id": "5087099",
+      "time": "2026-09-10 17:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海立股份：擬以225萬美元-450萬美元回購公司股份】海立股份公告，擬以集中競價交易方式回購B股股份，回購金額不低於225萬美元（含）、不高於450萬美元（含），回購價格不超過0.840美元/股（含），回購股份將用於減少公司註冊資本。回購方案尚需提交股東會審議。"
+    },
+    {
+      "id": "5087098",
+      "time": "2026-09-10 17:52:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超86萬中小學教師有研究生學歷】近年來，在中小學專任教師中，具有碩博士學歷的老師數量快速增加。 整體來看，具有研究生學歷的中小學教師已經超過了85萬人。根據教育部更新至2024年的教育統計資料，第一財經梳理發現，中小學專任教師中，擁有博士研究生學歷超過5900（5910）人，擁有碩士研究生學歷的超過85萬（855634）人，兩者合計來看，擁有研究生學歷超過86萬人。 近年來，名校碩博士到中小學尤其是中學任教的情況越來越多。北京、上海、深圳、廣州、杭州等大城市以及經濟發達城市、經濟強縣的重點中學中，更是出現名校博士扎堆聚集的現象。例如根據深圳中學簡介，深中有博士教師100餘人，清華、北大畢業的教師150餘人，哈佛、麻省理工、牛津、劍橋等境外頂尖名校畢業的教師100餘人，正高階教師、特級教師、競賽金牌教練、名班主任30餘人。（一財）"
+    },
+    {
+      "id": "5087097",
+      "time": "2026-09-10 17:51:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE敏感指數 <.BSESN> 指示性水平上漲0.87%，扭轉盤前競價時0.18%的跌勢。"
+    },
+    {
+      "id": "5087096",
+      "time": "2026-09-10 17:50:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魚躍醫療：首次回購股份58.86萬股 成交金額1499.86萬元】魚躍醫療公告稱，公司回購股份方案已經董事會審議透過，擬使用2.00億元-4.00億元自有資金以集中競價方式回購A股股份，回購價格不超過40元/股，用於股權激勵或員工持股計劃，回購期限為董事會審議透過之日起12個月內。2026年9月10日，公司首次回購股份588,639股，佔總股本的0.0587%，最高成交價25.67元/股，最低成交價25.38元/股，成交總金額1499.86萬元（不含交易費用）。公司後續將根據市場情況推進回購計劃。"
+    },
+    {
+      "id": "mkt:01a08ab9-d82a-7118-8523-d8028b2fc724",
+      "time": "2026-09-10 17:50:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【If Democrats flip midterms they plan to target Defense Secretary Hegseth】Politico reports U.S. congressional Democrats say that if they win control in November’s midterms they will make Defense Secretary Hegseth a primary target. They are planning public hearings, investigations and potential subpoenas into Iran war policy, war-crime allegations, Pentagon contracting and alleged purges of senior officers; some Democrats may push for House impeachment. Hegseth is described as a polarizing figure who has drawn protests, including from some Republicans. These probes, if initiated, could disrupt Pentagon leadership and oversight of defense contracting."
+    },
+    {
+      "id": "5087095",
+      "time": "2026-09-10 17:50:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北摩高科：向特定物件發行股票獲中國證監會同意註冊批覆】北摩高科公告，公司於近日收到中國證監會出具的同意向特定物件發行股票註冊的批覆，批覆自同意註冊之日起12個月內有效。公司將根據批覆檔案及股東會授權，在規定期限內辦理本次發行相關事宜。"
+    },
+    {
+      "id": "5087094",
+      "time": "2026-09-10 17:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天股份：兩家全資子公司完成工商變更並換髮營業執照】海天股份公告稱，公司全資子公司四川海天新材料有限公司因日常經營需要變更經營範圍，全資子公司四川海脈智控科技有限公司因日常經營需要變更法定代表人為費偉，兩家子公司均已取得四川天府新區智慧城市執行局換髮的《營業執照》。本次工商變更為子公司日常經營管理需要，不會導致公司主營業務發生重大變化，不會對公司未來經營發展產生不利影響。"
+    },
+    {
+      "id": "mkt:01a08ab9-71cb-7118-8523-d7d3b860e9b8",
+      "time": "2026-09-10 17:50:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "According to an HKEX filing, Tencent Holdings (00700.HK) repurchased 235,000 shares on Sept 10, spending HK$100.3 mln."
+    },
+    {
+      "id": "5087093",
+      "time": "2026-09-10 17:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所檔案披露，騰訊9月10日回購23.5萬股，涉資1.003億港元。"
+    },
+    {
+      "id": "5087092",
+      "time": "2026-09-10 17:49:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【星宇股份又出錯，外包報酬支付總額“約2.44萬億元”！公司昨天剛致歉】在星宇股份2024年年報中，公司勞務外包支付報酬總額標註為243526388.49萬元，摺合約2.44萬億元。而星宇股份2024年全年營業收入僅132.5億元，外包費用數值超過公司全年營收約183.75倍，明顯違背商業常識。與之相對於的是，該筆外包工時總數863.82萬小時。"
+    },
+    {
+      "id": "mkt:01a08ab9-3028-7118-8523-cd4778f362c8",
+      "time": "2026-09-10 17:49:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UN climate affairs head says the EU's \"hellish heat\" is exacerbating inf pressures."
+    },
+    {
+      "id": "5087091",
+      "time": "2026-09-10 17:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：9月10日回購129萬股H股股份】復星醫藥公告稱，2026年9月10日，公司於港交所回購129.00萬股H股股份，每股回購價區間為16.40港元-16.87港元，回購總金額為2141.46萬港元，所購股份擬持作庫存股份。公司回購授權於2026年6月16日獲透過，授權可回購股份總數為5409.72萬股，截至目前累計回購206.40萬股，佔授權透過當日已發行股份（不含庫存股）的0.38%。本次回購後新股發行、庫存股再出售或轉讓的暫止期截至2026年10月10日。"
+    },
+    {
+      "id": "5087090",
+      "time": "2026-09-10 17:49:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "匈牙利財政部長：匈牙利國債收益率下跌表明投資者信心迴歸。"
+    },
+    {
+      "id": "5087089",
+      "time": "2026-09-10 17:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國氣候事務負責人表示，歐盟今夏遭遇的“酷熱地獄”正在加劇通脹壓力。"
+    },
+    {
+      "id": "5087088",
+      "time": "2026-09-10 17:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦：尚未決定就胡塞武裝襲擊沙特作出軍事回應】巴基斯坦外交部發言人薩賈德·海德爾·汗10日表示，巴基斯坦強烈譴責葉門胡塞武裝襲擊沙烏地阿拉伯，但巴方目前尚未決定就此事作出軍事回應，巴方將在“時機成熟”時採取行動。沙烏地阿拉伯、土耳其、巴基斯坦三國8月7日簽署《麥加共同防務協議》。協議規定，對三國中任何一國的武裝攻擊將被視為對三國全體的攻擊。"
+    },
+    {
+      "id": "5087087",
+      "time": "2026-09-10 17:48:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦欣生殖攜手季維智院士 擬打造一體化再生醫學轉化平臺】錦欣生殖9月9日釋出“有關擬發展聚焦女性健康的轉化平臺之業務”更新公告，公告顯示，錦欣集團與季維智教授簽訂研究合作備忘錄，雙方同意探索生殖與發育生物學、再生醫學、疾病模型及轉化醫學等領域的合作，初步關注領域包括卵巢早衰、卵巢功能減退以及其他生殖及女性健康相關疾病，同時，在具備科學理據情況下，非人靈長類動物模型可作為特定研究專案的一部分予以考慮。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a08ab7-f0c1-7118-8523-c24cb5462969",
+      "time": "2026-09-10 17:48:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Rosneft's Ryazan refinery hit by drone, halts operations; repairs may take weeks】Two industry sources told Reuters Rosneft's Ryazan refinery stopped operating after a drone strike on Sept. 6. Primary crude distillation units CDU-6 and CDU-4 are offline; CDU-6 caught fire. CDU-6 has annual processing capacity of 8 mln t (about 160,000 bpd), roughly half the plant's capacity; CDU-4 is 4 mln t/yr. CDU-3 has been under maintenance since mid‑May. Sources said repairs to the damaged units could take several weeks."
+    },
+    {
+      "id": "te:economy:582732",
+      "time": "2026-09-10 17:48:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Mining Production",
+        "Importance 1"
+      ],
+      "text": "South Africa Mining Output Falls More Than Expected — Mining production in South Africa plunged by 7.5% year-on-year in July 2026, after an upwardly revised 4.3% drop in June and worse than analysts' forecasts of a 2.8% slump. The latest decline extended South Africa’s mining downturn to three consecutive months and was the sharpest since February 2025. The industry continues to face structural constraints, including logistics bottlenecks, high operating costs, ageing mines and weaker demand for some commodities like iron ore and coal. Output declined across almost all categories, with platinum group metals (PGMs) (-13.5%), coal (-7.5%) and iron ore (-8%) making the largest negative contributions. On a seasonally adjusted monthly basis, mining production shrank by 1.9%, after a downwardly revsied 0.1% increase in the month before. Mining production slipped by 5.5% in the three months ended July 2026 compared with the previous three months."
+    },
+    {
+      "id": "5087086",
+      "time": "2026-09-10 17:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【攜程美食林十週年慶典在新加坡聖淘沙名勝世界啟幕】近日，攜程美食林十週年慶典暨2027全球高階餐廳榜單釋出活動在新加坡聖淘沙名勝世界舉行。過去十年間，攜程美食林已覆蓋全球66個國家和地區、400餘個旅行目的地，收錄超14000家榜單餐廳，地理覆蓋躋身全球前三。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a08ab7-99a0-7118-8523-bb4def69e68b",
+      "time": "2026-09-10 17:48:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan says no decision yet on military response to Houthi attack on Saudi Arabia】Pakistan strongly condemned the Houthi attack on Saudi Arabia but has not decided on a military response, Foreign Ministry spokesman Sajjad Haider Khan said on the 10th. Asked how Pakistan would meet obligations under the Mecca mutual defence agreement, he said Islamabad would act \"when the time is right.\""
+    },
+    {
+      "id": "5087085",
+      "time": "2026-09-10 17:48:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡交易所有限公司：8月證券市場總成交額同比攀升29%，達到433億新元。"
+    },
+    {
+      "id": "mkt:01a08ab7-59c5-7118-8523-b6039fbef635",
+      "time": "2026-09-10 17:47:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year gilt yield hit 5.295%, the highest level since 2007."
+    },
+    {
+      "id": "mkt:01a08ab6-f451-7118-8523-a8f651f5db78",
+      "time": "2026-09-10 17:47:20",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【ECB preview: 25bp hike to 2.50% fully priced; Lagarde's press conference to set tone】ECB is expected to raise the deposit rate 25bps to 2.50% — the move is already fully priced; markets will treat President Lagarde's press conference as the main source of new information. Eurozone headline inflation accelerated to 3.3% YoY in August, with energy and geopolitics pushing gas to the highest levels since 2022; core and services inflation are continuing to slow, while economic activity has shown surprising resilience. The hike will put the deposit rate at the top of the ECB's estimated neutral range. Statement language is unlikely to change materially; meeting-by-meeting, data-dependent wording and the current risk-balance framing are expected to remain. Lagarde's tone is the critical market pivot: a hawkish tone would underline a persistent energy shock, upside inflation risks and scope for further tightening; a dovish tone would stress easing core/services inflation and risks of over-tightening via tighter financial conditions. Prognosis for forecasts: markets expect upward revisions to growth; inflation outlooks diverge — Goldman Sachs sees modest 2026 downside but brings 2027 headline inflation up to 2.7% (core 2.6%); UniCredit leans hawkish; MUFG flags 2026 revisions and warns forecasts may be outdated. Key policy question is whether September marks the end of the hiking cycle — MUFG and ING lean terminal in September, while Goldman Sachs, Wells Fargo and UniCredit see material upside risk if energy prices remain high; most banks do not expect an explicit commitment to further hikes. Market pricing implies ~48bps more tightening by year-end and ~85bps by end-2027; a dovish Lagarde could prompt downshifts in tightening expectations and pressure the euro, while a hawkish signal would be needed to support EUR. Near-term risk: US CPI and the FOMC could quickly re-center market attention and dominate EUR/USD and global rates moves."
+    },
+    {
+      "id": "5087084",
+      "time": "2026-09-10 17:47:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新交所 8 月證券市場總成交額為 432.7 億新加坡元。"
+    },
+    {
+      "id": "mkt:01a08ab6-4711-7118-8523-a740df9b9984",
+      "time": "2026-09-10 17:46:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister KATZ said any Iranian strike would set Iran back decades and undermine the stability of its regime. The Israeli military is on high alert and prepared to conduct operations."
+    },
+    {
+      "id": "5087083",
+      "time": "2026-09-10 17:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠大控股等成立商貿公司】企查查APP顯示，近日，遠大天一商貿（浙江）有限公司成立，法定代表人為許朝陽，註冊資本5000萬元，經營範圍包含食用農產品批發；食用農產品零售；國內貿易代理；金屬材料銷售；木材銷售；金屬礦石銷售等。企查查股權穿透顯示，該公司由遠大控股全資子公司遠大物產集團有限公司、上海正和信誠企業管理有限公司共同持股。"
+    },
+    {
+      "id": "mkt:01a08ab5-aaad-7118-8523-9b6e4ff3bbe8",
+      "time": "2026-09-10 17:45:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel defense minister KATZ warned that if Iran launches any attack, Israel will destroy Iranian energy facilities."
+    },
+    {
+      "id": "5087082",
+      "time": "2026-09-10 17:45:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "港交所披露資料顯示，摩根大通公司於9月4日將其持有的寧德時代H股<3750.HK>空頭頭寸從4.21%降至3.40%。"
+    },
+    {
+      "id": "5087081",
+      "time": "2026-09-10 17:45:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛豬：今年國慶中秋假期長線遊領漲 小眾體驗預訂火熱】9月10日，飛豬釋出《2026中秋、國慶出遊風向標》。預訂資料顯示，長線遊目的地一路領漲，小眾體驗與“鬆弛感”成為假期出行關鍵詞。由於中秋不調休，且與國慶假期僅間隔三天，“請3休13”的拼假公式進一步釋放了長線遊需求。"
+    },
+    {
+      "id": "5087080",
+      "time": "2026-09-10 17:45:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通公司於9月4日減持寧德時代H股，持倉從7.51%降至6.76%。"
+    },
+    {
+      "id": "5087079",
+      "time": "2026-09-10 17:44:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐人神：2026年8月生豬銷量49.23萬頭，同比增長21.22%】唐人神公告，2026年8月生豬銷量49.23萬頭，其中商品豬27.03萬頭、仔豬22.19萬頭；2025年8月銷量40.61萬頭，同比增長21.22%，環比增長22.38%。銷售收入合計4.1億元，同比下降39.92%，環比增長31.69%；2026年累計銷量361.65萬頭，累計銷售收入35.68億元。"
+    },
+    {
+      "id": "5087078",
+      "time": "2026-09-10 17:44:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【帝國石油美股盤前跌超23%】帝國石油美股盤前跌超23%，現報100.844美元。"
+    },
+    {
+      "id": "mkt:01a08ab3-84fc-7118-8523-94327a3eee4b",
+      "time": "2026-09-10 17:43:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "UK government says Houthi movement bears sole responsibility for the crisis in Yemen."
+    },
+    {
+      "id": "5087077",
+      "time": "2026-09-10 17:43:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "根據港交所檔案，摩根大通集團於9月4日將持有的國泰航空<0293.HK>好倉比例從10.51%降至3.79%。"
+    },
+    {
+      "id": "5087076",
+      "time": "2026-09-10 17:42:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾普信：下屬控股公司涉侵害植物新品種權訴訟】諾普信公告稱，公司下屬控股公司盈江縣旺悅莓農業有限公司收到雲南省昆明市中級人民法院傳票，涉及侵害植物新品種權糾紛，原告為雲南美鳴農業有限公司，主張賠償經濟損失及維權合理開支共計2000萬元。目前案件一審已立案並排期開庭，盈江旺悅莓對原告訴訟主張不予認可，將積極應訴。本次訴訟預計不會對公司日常生產經營產生重大影響，對公司本期及期後損益的影響具有不確定性。"
+    },
+    {
+      "id": "5087075",
+      "time": "2026-09-10 17:42:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【閩東電力：股票交易異常波動 無應披露未披露重大事項】閩東電力公告稱，公司2026年9月9日、9月10日連續2個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查並向控股股東、實際控制人徵詢，公司主營業務經營正常，內外部經營環境未發生重大變化，不存在處於籌劃階段的重大事項，未發現需澄清的媒體報道或市場傳聞，前期披露資訊無需更正補充，控股股東及實控人在異常波動期間未買賣公司股票。公司指定資訊披露媒體為《證券時報》《中國證券報》《證券日報》及巨潮資訊網，敬請投資者理性投資、注意風險。"
+    },
+    {
+      "id": "5087074",
+      "time": "2026-09-10 17:42:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Palantir：與英偉達合作，將主權人工智慧引入關鍵供應鏈，首先從英偉達自身運營開始。"
+    },
+    {
+      "id": "5087073",
+      "time": "2026-09-10 17:42:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國成功發射遙感五十三號01-03星、遙感五十六號01-03星】9月10日17時00分，我國在酒泉衛星發射中心使用長征四號乙運載火箭，成功將遙感五十三號01-03星、遙感五十六號01-03星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。遙感五十三號01-03星、遙感五十六號01-03星主要用於科學試驗、國土資源普查、農產品估產和防災減災等領域。這次任務是長征系列運載火箭的第666次飛行。（新華社）"
+    },
+    {
+      "id": "mkt:01a08ab2-433c-7118-8523-8fcace47515a",
+      "time": "2026-09-10 17:42:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China successfully launches Yaogan-53 01-03 and Yaogan-56 01-03 satellites】At 17:00 on Sept 10 a Long March 4B rocket launched from the Jiuquan Satellite Launch Center successfully placed remote-sensing satellites Yaogan-53 01-03 and Yaogan-56 01-03 into their designated orbits. The satellites are tasked with scientific experiments, land-resource surveys, crop-yield estimation and disaster prevention/mitigation. The mission was the 666th flight of the Long March rocket series."
+    },
+    {
+      "id": "5087072",
+      "time": "2026-09-10 17:41:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：胡塞武裝對葉門 “危機” 承擔全部責任。"
+    },
+    {
+      "id": "mkt:01a08ab1-761c-7118-8523-872566ef6ccb",
+      "time": "2026-09-10 17:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NBS issues revised Measures for Classifying Statistical Units; statistics to follow location of economic activity from 2027】On Sept. 10 the National Bureau of Statistics published revised Measures for Classifying Statistical Units and Specific Handling, effective Jan. 1, 2027. The revision replaces the prior “on-site” statistical principle with a “location of economic activity” principle and adds definitions for “location of economic activity” and rules for identifying a unit’s “primary location of main economic activity.” Where a unit has multiple locations, the primary location is normally the site with the largest share of operating revenue (wholesale and retail use gross margin). For new-economy cases, units conducting economic activity on internet platforms will be counted under the location-of-economic-activity principle; online and offline activities follow the same statistical standard."
+    },
+    {
+      "id": "5087071",
+      "time": "2026-09-10 17:41:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局公佈新版《統計單位劃分及具體處理辦法》 2027年起按照經營活動發生地原則統計】9月10日，國家統計局公佈修訂後的《統計單位劃分及具體處理辦法》，2027年1月1日起實施。《辦法》修改了統計單位的統計原則，將原有的“按照在地原則進行統計”明確為“按照經營活動發生地原則進行統計”。新增對“經營活動發生地”具體內涵和“主要經營活動的發生地”判定辦法的規定。具體來看，經營活動發生地是指統計單位開展經營活動的場所。存在多處經營活動發生地的，原則上將營業收入（批發和零售業採用毛利）份額最高的場所確定為主要經營活動的發生地。對於新經濟業態，《辦法》規定，在網際網路平臺開展經濟活動的單位，按照“經營活動發生地原則”進行統計，線上活動與線下活動遵循相同的統計原則。"
+    },
+    {
+      "id": "mkt:01a08ab1-33c8-7118-8523-7b220d995c02",
+      "time": "2026-09-10 17:41:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai finance official said the EV committee has agreed to raise the consumption tax on imported electric vehicles."
+    },
+    {
+      "id": "mkt:01a08ab0-feeb-7118-8523-7462dd59e041",
+      "time": "2026-09-10 17:40:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources say the Ryazan refinery in Russia has been offline since a drone strike on Sept. 6."
+    },
+    {
+      "id": "5087070",
+      "time": "2026-09-10 17:40:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部官員：電動汽車委員會同意提高進口電動汽車的消費稅。"
+    },
+    {
+      "id": "5087069",
+      "time": "2026-09-10 17:40:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可前石油業務主管亞歷克斯·比爾德在英國法院對賄賂指控表示不認罪。"
+    },
+    {
+      "id": "5087068",
+      "time": "2026-09-10 17:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入45.51億港元】港股通（滬）方面，騰訊控股、長飛光纖光纜分別獲淨買入8.19億港元、3.31億港元；智譜淨賣出額居首，金額為8.90億港元；港股通（深）方面，中國海洋石油、長飛光纖光纜分別獲淨買入2.27億港元、7654.64萬港元；中芯國際淨賣出額居首，金額為6.33億港元。"
+    },
+    {
+      "id": "5087067",
+      "time": "2026-09-10 17:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，俄羅斯梁贊煉油廠自9月6日遭無人機襲擊以來一直處於停工狀態。"
+    },
+    {
+      "id": "5087066",
+      "time": "2026-09-10 17:39:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率上升至4.867%，為近三年來最高水平，美國2年期國債收益率上升至4.449%，為2024年7月以來最高水平。"
+    },
+    {
+      "id": "5087065",
+      "time": "2026-09-10 17:39:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率升至15年新高3.451%。"
+    },
+    {
+      "id": "mkt:01a08aaf-9578-7118-8523-6e80f5f19f94",
+      "time": "2026-09-10 17:39:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield rose to 4.867%, its highest in nearly three years; the 2-year yield climbed to 4.449%, the highest since July 2024."
+    },
+    {
+      "id": "5087064",
+      "time": "2026-09-10 17:39:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國30年期國債收益率<FR30YT=RR>攀升2.5個基點，升至2003年12月以來最高水平5.0847%。"
+    },
+    {
+      "id": "5087063",
+      "time": "2026-09-10 17:39:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【利比亞民族統一政府外交與國際合作部條法司司長祖海爾在京簽署國際調解院公約】2026年9月10日，利比亞民族統一政府外交與國際合作部條法司司長祖海爾在京簽署國際調解院公約。外交部條法司司長齊大海在簽署儀式前會見祖海爾。（外交部）"
+    },
+    {
+      "id": "5087062",
+      "time": "2026-09-10 17:38:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "日月光投控<3711.TW>旗下子公司向迅得機械取得機器裝置，交易金額10.5億臺幣。"
+    },
+    {
+      "id": "5087061",
+      "time": "2026-09-10 17:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱沙特阿美考慮出售橡膠生產商阿朗新科。"
+    },
+    {
+      "id": "mkt:01a08aae-55b1-7118-8523-60e40cbf423b",
+      "time": "2026-09-10 17:37:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi forces near control of strategic Bab al‑Mandeb Strait】Four Yemeni government sources said Houthi forces are close to full control of coastal towns along the Bab al‑Mandeb, including the historic ports of Mocha and Dhubab, and are pushing to seize Yemen’s entire Red Sea coastline. If the narrow strait is blocked, after Iran effectively closed the Strait of Hormuz, Gulf oil producers—particularly Saudi Arabia—would see major seaborne shipping routes disrupted."
+    },
+    {
+      "id": "5087060",
+      "time": "2026-09-10 17:37:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【禹洲集團：2026年8月合約銷售金額3.96億元】禹洲集團公告，2026年8月本集團合約銷售金額為人民幣3.96億元，銷售面積27246平方米，平均銷售價格為每平方米人民幣14523元。2026年前八個月累計銷售金額為人民幣36.39億元，累計銷售面積27.29萬平方米，平均銷售價格為每平方米人民幣13340元。"
+    },
+    {
+      "id": "5087059",
+      "time": "2026-09-10 17:36:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禹洲集團：累計合約銷售額36.4億元人民幣。"
+    },
+    {
+      "id": "5087058",
+      "time": "2026-09-10 17:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所披露，9月4日，貝萊德所持中興通訊H股<0763.HK>的多頭持倉比例從5.95%提升至6.46%。"
+    },
+    {
+      "id": "mkt:01a08aac-a51b-7118-8523-5ad30117a4d4",
+      "time": "2026-09-10 17:36:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's 30-year government bond yield rose 2bps to 3.8981%, the highest since April 2011."
+    },
+    {
+      "id": "5087057",
+      "time": "2026-09-10 17:36:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國30年期國債收益率觸及2011年4月以來新高，報3.8981%，上漲2個基點。"
+    },
+    {
+      "id": "5087056",
+      "time": "2026-09-10 17:35:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞強烈譴責強迫巴勒斯坦人遷離加沙的言論】馬來西亞外交部10日發表宣告，強烈譴責以色列政府官員近期關於強迫巴勒斯坦人離開加沙地帶的言論，以及以方對被佔領約旦河西岸地區巴勒斯坦人實施的系統性暴力行為。宣告說，馬來西亞堅決反對任何企圖強迫巴勒斯坦人離開家園或將其重新安置至其他地區的行為。以色列定居者肆意殺害、恐嚇巴勒斯坦人，破壞巴勒斯坦人財產並強迫其遷離，這些行為嚴重違反國際法和國際人道法。宣告強調，加沙地帶是巴勒斯坦被佔領土不可分割的一部分，反對任何改變加沙人口及領土結構的行為。馬來西亞堅定支援巴勒斯坦人民建立以1967年邊界為基礎、以東耶路撒冷為首都的獨立巴勒斯坦國。(新華社)"
+    },
+    {
+      "id": "5087055",
+      "time": "2026-09-10 17:35:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：海曲泊帕乙醇胺片獲得藥品註冊批准】恆瑞醫藥公告，近日，公司收到國家藥品監督管理局（簡稱“國家藥監局”）的通知，批准公司自主研發的1 類創新藥海曲泊帕乙醇胺片新增兩項適應症。"
+    },
+    {
+      "id": "5087053",
+      "time": "2026-09-10 17:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安恆資訊：收到中國電信現金分紅款1215.34萬元】安恆資訊公告稱，公司持有中國電信A股7567.5萬股股份，根據中國電信2026年中期利潤分配方案，可分得現金紅利1215.3405萬元。近日公司已全額收到該筆分紅款，將其確認為投資收益，預計增加公司2026年度淨利潤1215.3405萬元，佔公司最近一個會計年度經審計歸母淨利潤絕對值的21.14%。"
+    },
+    {
+      "id": "5087052",
+      "time": "2026-09-10 17:35:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST寧科：國泰海通出具2026年半年度持續督導意見】ST寧科公告稱，財務顧問國泰海通就湖南新合新收購公司事項出具2026年半年度持續督導意見。本次權益變動後，湖南新合新持有公司3.57億股股份，佔總股本22.10%，為控股股東，實控人變更為劉喜榮，相關股份已完成過戶。2026年上半年，收購人與公司均依法規範運作，收購人無違反公開承諾情形，未提議調整公司主營業務，除終止技改專案、變更對外投資主體外無重大資產處置或重組計劃，公司董監高、章程、員工聘用、分紅政策均未發生重大變動。"
+    },
+    {
+      "id": "5087051",
+      "time": "2026-09-10 17:35:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "廣汽集團：傳祺M8累計交付已突破50萬臺。"
+    },
+    {
+      "id": "5087050",
+      "time": "2026-09-10 17:34:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "武田藥品工業株式會社：武田宣佈研發部門總裁安迪·普拉姆計劃退休，將於2027年6月正式生效。"
+    },
+    {
+      "id": "5087049",
+      "time": "2026-09-10 17:34:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "HD現代重工將投資1萬億韓元用於未來發動機和SMR業務。"
+    },
+    {
+      "id": "5087048",
+      "time": "2026-09-10 17:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國足協撤回對詹尼·因凡蒂諾競選連任國際足聯主席的支援。"
+    },
+    {
+      "id": "mkt:01a08aaa-930c-7118-8523-5516371c2bdb",
+      "time": "2026-09-10 17:33:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "GAC Group said cumulative deliveries of its Trumpchi M8 model have surpassed 500,000 units."
+    },
+    {
+      "id": "5087047",
+      "time": "2026-09-10 17:33:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國批准為電動汽車設定分級消費稅稅率的方案。"
+    },
+    {
+      "id": "5087046",
+      "time": "2026-09-10 17:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能國際：完成發行15億元科技創新公司債券】華能國際公告稱，公司面向專業投資者公開發行面值不超過400億元的公司債券已獲證監會同意註冊，近日完成2026年面向專業投資者公開發行科技創新公司債券（第二期）發行。本期債券擬發行規模不超過15億元，設10年期品種一、15年期品種二，其中品種一實際發行額15億元，發行利率1.95%，品種二取消發行。募集資金扣除發行費用後擬用於償還有息債務、補充流動資金、專案投資及運營等生產性支出。"
+    },
+    {
+      "id": "5087045",
+      "time": "2026-09-10 17:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報66.54美元/盎司。"
+    },
+    {
+      "id": "mkt:01a08aa9-c890-7118-8523-4f891c6d7019",
+      "time": "2026-09-10 17:32:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $66.60/oz."
+    },
+    {
+      "id": "5087044",
+      "time": "2026-09-10 17:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會核准5家機構合格境外投資者資格】9月10日，中國證監會網站釋出批覆，核准五銳集團（新加坡）有限公司、勝諾國際貿易有限公司、奧普蒂姆斯商品有限責任公司、詩董國際有限公司和睿量資產管理（香港）有限公司合格境外投資者資格。"
+    },
+    {
+      "id": "5087043",
+      "time": "2026-09-10 17:32:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：將依法開展價格監督檢查，查處價格違法行為，維護良好市場價格秩序】國家發展改革委有關負責同志就《關於重要工業品低價無序競爭成本核算有關事項的通知》答記者問。為確保《通知》落實到位，將重點做好三方面工作。一是加強市場監測。聚焦低價無序競爭問題突出的重要工業品生產領域，密切監測相關價格、成本等市場變化情況，及時發現問題線索。二是加強行業自律。指導有關機構探索制定行業成本核算團體標準，為經營者依法合規經營提供參考，進一步規範行業競爭秩序。三是加強監管執法。適時對問題突出的經營者開展提醒告誡，必要時開展成本調查，核算相關成本，引導經營者自覺規範價格行為。依法開展價格監督檢查，查處價格違法行為，維護良好市場價格秩序。"
+    },
+    {
+      "id": "mkt:01a08aa8-ade9-7118-8523-46939a7f7d62",
+      "time": "2026-09-10 17:31:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "0883.HK",
+        "0981.HK",
+        "Impact bearish"
+      ],
+      "text": "Southbound funds net bought CNY4.551bn today. Via Shanghai Stock Connect, Tencent Holdings and Yangtze Optical Fibre and Cable led inflows at HKD819m and HKD331m respectively; Zhipu posted the largest net outflow at HKD890m. Via Shenzhen Stock Connect, CNOOC and Yangtze Optical Fibre and Cable had net inflows of HKD227m and HKD77m; SMIC recorded the largest net outflow at HKD633m."
+    },
+    {
+      "id": "mkt:01a08aa8-ad36-7118-8523-398865b526cd",
+      "time": "2026-09-10 17:31:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Oman official selling price for November-loading crude set at $119.30/bbl."
+    },
+    {
+      "id": "5087042",
+      "time": "2026-09-10 17:31:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華海藥業：股東周明華質押1300萬股公司股份】華海藥業公告稱，公司5%以上股東周明華本次質押1300萬股公司股份，佔其所持股份比例5.79%，佔公司總股本比例0.87%，質押用途為上海國際醫學中心有限公司的融資提供質押擔保，質權人為平安銀行股份有限公司上海分行。周明華持有公司股份2.24億股，佔公司總股本14.99%；本次質押完成後，其累計質押股份5800萬股，佔其所持股份25.84%，佔公司總股本3.87%。"
+    },
+    {
+      "id": "5087041",
+      "time": "2026-09-10 17:31:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅本化學：首次回購股份78萬股 成交金額402.52萬元】雅本化學公告稱，公司回購股份方案為使用自有及自籌資金，以不低於2500萬元且不超過5000萬元、不超過6.89元/股的價格集中競價回購股份，用於員工持股計劃或股權激勵，回購期限自董事會審議透過之日起不超過6個月。2026年9月10日，公司首次回購股份78萬股，佔總股本的0.0810%，最高成交價5.20元/股，最低成交價5.13元/股，成交總金額402.52萬元（不含交易費用）。後續公司將在回購期限內繼續推進回購計劃。"
+    },
+    {
+      "id": "mkt:01a08aa8-6174-7118-8523-301b96a87e6a",
+      "time": "2026-09-10 17:31:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Pakistan says no immediate military response to Houthi attacks; will act under Mecca Agreement when 'time comes'】Pakistan said on Thursday it is not discussing a military response to Houthi attacks on Saudi Arabia but will act under the Mecca Agreement \"when the time comes\", foreign ministry spokesman Sajjad Haider Khan said at a weekly briefing. The joint defence pact signed last month with Saudi Arabia and Turkey says an attack on any of the three states will be treated as an attack on all. Khan’s comments followed Houthi strikes this week on Saudi cities and energy infrastructure that Reuters said have opened a second front in the Middle East. Islamabad has warned Iran to restrain its Houthi ally and condemned the attacks but gave no detail on how it might fulfil obligations under the pact."
+    },
+    {
+      "id": "te:economy:582726",
+      "time": "2026-09-10 17:31:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Croatia Producer Prices at 3-Month High — Producer prices in Croatia increased by 6.2% year-on-year in August 2026, accelerating from 4.9% in the previous month and marking the highest reading since May. Costs in mining and quarrying advanced sharply (28.7% vs 13.9% in July), reflecting higher prices in the extraction of crude petroleum and natural gas (54.1% vs 19.5%). Additionally, manufacturing prices continued to rise (5.6% vs 4.3%), particularly for the manufacture of coke and refined petroleum (59.6% vs 38.7%), basic metals (6.2% vs 3.6%), chemicals and chemical products (6.0% vs 5.2%), wearing apparel (2.1% vs 1.5%), and wood and wood products, except furniture, articles of straw and plaiting materials (6.5% vs 6.1%). Prices for electricity, gas, steam and air conditioning supply also edged higher (5.6% vs 5.4%). On a monthly basis, producer prices rose 1.3% in August, recovering from a 0.2% fall in the previous month."
+    },
+    {
+      "id": "mkt:01a08aa7-ffcb-7118-8523-28b8ad54fe8d",
+      "time": "2026-09-10 17:31:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AliExpress launches heavy-item delivery in US; US merchants using platform fulfillment more than double MoM】AliExpress said its platform fulfillment service 'Platform Fulfillment' has launched heavy-item delivery in the US as part of accelerated localization. The number of US merchants using the service more than doubled month-on-month in August versus July. Platform Fulfillment, launched in June, currently covers the US, Poland, France, Spain and Mexico; the Germany site is scheduled to go live mid-September."
+    },
+    {
+      "id": "5087040",
+      "time": "2026-09-10 17:30:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財務總監郭珮瑛擬明年離任 滙豐控股已著手遴選繼任者】滙豐控股表示，財務總監郭珮瑛計劃於2027年離任，公司已啟動對繼任者的遴選。這家英國銀行週四在一份宣告中表示，郭珮瑛卸任後將擔任集團行政總裁的顧問，參與“持續推進的戰略專案”，並確保職責順利交接。滙豐沒有說明她離職的原因。郭珮瑛在宣告中表示，“目前滙豐在財務和戰略層面都處於穩健狀態，對我的職業生涯而言，2027年是迎接新的領導崗位機會、並在不同環境中運用自身經驗的合適時機。”滙豐表示，將同時考慮內部和外部人選擔任下一任財務總監。郭珮瑛正式卸任財務總監的日期將在“適時”確認，但最遲不會晚於公司明年的年度股東大會。"
+    },
+    {
+      "id": "5087039",
+      "time": "2026-09-10 17:30:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利債務管理局：匈牙利發行12個月短期國庫券，平均收益率為5.07%，前次拍賣平均收益率為5.15%。"
+    },
+    {
+      "id": "te:economy:582725",
+      "time": "2026-09-10 17:30:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Greece Industrial Output Falls in July — Industrial output in Greece declined by 1.2% from the previous year in July 2026, reversing from an upwardly revised 1.2% increase in June. The downturn was driven by sharp contractions in electricity supply (-12.4% vs -3.9%), and water supply (-4.0% vs -2.6%) declined. Mining and quarrying also remained in contraction, declining 3.5% (vs. -4.3%). Manufacturing, however, remained in positive territory, although growth eased (1.9% vs 2.6%). Notable growth was recorded in computers, electronic and optical products (13.6%), machinery and equipment (7.3%), printing and reproduction of recorded products (6.4%), and motor vehicles, trailers and semi-trailers (5.1%), while wood and wood products (-7.0%) and leather and related products (-6.2%) saw the sharpest declines. On a seasonally adjusted monthly basis, industrial activity declined further to -1.7% from -0.3% in the previous month."
+    },
+    {
+      "id": "mkt:01a08aa7-92fc-7118-8523-27a485664316",
+      "time": "2026-09-10 17:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Statistics South Africa: July gold production fell 7.4% YoY; total mining output fell 7.5% YoY; platinum group metal production fell 13.5% YoY."
+    },
+    {
+      "id": "5087038",
+      "time": "2026-09-10 17:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非7月礦業產量環比下降1.9%。"
+    },
+    {
+      "id": "te:economy:582724",
+      "time": "2026-09-10 17:30:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits 19-year High — UK 10 Year Government Bond Yield increased to 5.29%, the highest since August 2007. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 31.67 basis points, and in the last 12 months, it increased 68.00 basis points."
+    },
+    {
+      "id": "5087037",
+      "time": "2026-09-10 17:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非7月礦業總產出同比下降7.5% 。"
+    },
+    {
+      "id": "5087036",
+      "time": "2026-09-10 17:29:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非統計局資料顯示：南非7月黃金產量同比下降7.4%。"
+    },
+    {
+      "id": "5087035",
+      "time": "2026-09-10 17:29:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人人影視復活後又下架，人人影視首頁已無海外影視劇】近日，人人影視向老使用者發出的“歡迎老使用者迴歸”郵件宣告迴歸一事引發關注。但迴歸不到一個月，“人人影視分享精彩”已在蘋果app store、安卓應用商店等渠道檢索不到，無法下載。 9月10日，記者發現，“人人影視分享精彩”首頁及app內資源已基本沒有海外影視作品，目前首頁中的推薦內容為2012年至2018年左右的國產影視劇。 此前，“人人影視分享精彩”曾推出付費會員服務，月會員25元，季度會員60元，年會員175元。但目前該app內已經沒有相關服務。（中新經緯）"
+    },
+    {
+      "id": "5087034",
+      "time": "2026-09-10 17:29:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英法加等國擬製裁約旦河西岸以色列定居點 美總統避談立場】據美國方面訊息，美國總統特朗普9日對記者表示，他已知悉英國、法國和加拿大等國擬對約旦河西岸以色列定居點實施經濟限制措施。但當被問及美國對此是持反對態度還是保持中立時，特朗普並未直接表態，迴避了這一問題，只是稱他會和以色列方面談談，以瞭解他們的想法。有訊息稱，美國此次反應“格外低調”。（央視新聞）"
+    },
+    {
+      "id": "5087033",
+      "time": "2026-09-10 17:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "李在明：我特別欣賞能與馬克龍總統進行一對一的午餐會面，這讓我們能夠自由而真誠地交流。這也是一個機會，讓我們深入討論國際社會面臨的各種問題以及兩國之間的合作。"
+    },
+    {
+      "id": "mkt:01a08aa5-ce8c-7118-8523-1a38d521e3e7",
+      "time": "2026-09-10 17:28:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KYODO reports Japan's cabinet will approve a tax reform outline on Sept. 15."
+    },
+    {
+      "id": "5087032",
+      "time": "2026-09-10 17:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百花醫藥：選舉陳銀愷為董事長 聘任錢樹綱為總經理】百花醫藥公告稱，公司第十屆董事會第一次會議審議透過多項議案：選舉陳銀愷為第十屆董事會董事長；聘任錢樹綱為公司總經理，趙雲池為常務副總經理、黃輝為執行總經理、夏燕為副總經理，楊金華為財務負責人，趙琴琴為董事會秘書，孟磊為證券事務代表；同時審議透過董事會各專門委員會成員組成及部分治理制度制定、修訂、廢止的議案。上述人員任期均至第十屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "5087031",
+      "time": "2026-09-10 17:28:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶合整合：公司產能利用率維持高位 四期專案正在進行無塵室裝修】晶合整合(688249)在科創板2026年半年度半導體制造、裝置及材料行業集體業績說明會上表示，公司當前產能利用率維持高位，訂單充足，下游需求整體符合公司前期經營預期。目前，四期專案正在進行無塵室的裝修，擴產工作穩步推進中，公司將隨著擴產計劃的安排進行裝置採買。"
+    },
+    {
+      "id": "5087030",
+      "time": "2026-09-10 17:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內蒙古興安盟首批綠色甲醇銷往歐洲】9月10日，內蒙古興安盟舉行首批綠色甲醇發運儀式。本次發運是金風科技生物質耦合綠氫制145萬噸綠色甲醇專案的首次商業化成果交付，標誌著專案正式邁入規模化商業運營階段。（新華社）"
+    },
+    {
+      "id": "5087029",
+      "time": "2026-09-10 17:27:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科金財中標上海銀行高程式碼智慧體工作站建設專案】中科金財訊息，近日，中科金財中標上海銀行對公授信智慧化提升與智慧化基礎能力建設專案之高程式碼智慧體工作站建設採購專案。此次中標，是中科金財本體智慧體在商業銀行核心業務場景的一次創新性落地實踐。"
+    },
+    {
+      "id": "5087028",
+      "time": "2026-09-10 17:27:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司將公開競聘執行長職位  。"
+    },
+    {
+      "id": "5087027",
+      "time": "2026-09-10 17:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本內閣將於9月15日批准稅制改革綱要。"
+    },
+    {
+      "id": "mkt:01a08aa3-a4f2-7118-8523-10e15f246b65",
+      "time": "2026-09-10 17:26:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jinghe Integration: capacity utilization high; Phase‑4 cleanroom fit‑out under way】At a Sept. 10 STAR Market 2026 H1 semiconductor sector briefing, Jinghe Integration said capacity utilization remains high and orders are sufficient, with downstream demand broadly in line with prior guidance. Phase‑4 cleanroom fit‑out is under way and capacity expansion is progressing steadily; equipment purchases will follow the expansion timetable."
+    },
+    {
+      "id": "mkt:01a08aa3-91e5-7118-8523-09fd90723e92",
+      "time": "2026-09-10 17:26:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Israeli media: Houthi capture of Mocha could reshape regional balance】Israeli outlet the Jerusalem Post reported on Thursday that Houthi forces seized the Red Sea port city of Mocha. Mocha lies at the northern approach to the Bab al-Mandeb Strait; Houthi control moves Iran-backed fighters closer to a key chokepoint, raising the risk to Red Sea shipping and energy transit. The capture, while not unexpected, may broaden Tehran’s leverage in the region despite Iranian setbacks elsewhere and increase geopolitical uncertainty that could disrupt energy markets and shipping liquidity. Former US president Trump said on the 9th he expected US‑Iran tensions to ease after the US midterms and for oil to fall; the Mocha offensive could challenge that view. The Yemeni government’s loss highlights that the long-running conflict still has potential to alter regional dynamics."
+    },
+    {
+      "id": "5087024",
+      "time": "2026-09-10 17:26:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，目前有3700萬歐元透過隔夜貸款工具拆入，另有19711.6億歐元存放在隔夜存款工具。"
+    },
+    {
+      "id": "mkt:01a08aa3-6c61-7118-8523-0381a57c060e",
+      "time": "2026-09-10 17:26:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran may reverse-engineer captured U.S. unmanned submersible】Iran’s consulate in Hyderabad posted on social media early on the 9th (local time) that \"tomorrow morning our reverse engineers will hold an unboxing ceremony,\" attaching an image of a Diving-LD unmanned submersible matching one the Islamic Revolutionary Guard Corps has displayed as a spoil, Xinhua reported. Reuters said the post appeared more a taunt than a technical claim, but the capture gives Iran an opportunity to examine and potentially reverse-engineer a U.S. unmanned submersible, an outcome the report said would embarrass the Pentagon."
+    },
+    {
+      "id": "5087023",
+      "time": "2026-09-10 17:25:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【iPhoneDuo黃牛代搶炒至9.9萬】9月10日，蘋果首款摺疊屏手機iPhone Duo釋出後，記者查詢閒魚等二手交易平臺發現，已有多名商家上線iPhone Duo首發代搶服務，有黃牛標價高達9.9萬元。 記者詢問多位商家發現，iPhone Duo加價普遍已炒至5000元左右，最低加價也在1000元以上，目前黃牛端1TB、2TB版的行情價仍在上調，不少黃牛以“第一天拿到現貨”招攬買家，部分消費者預約搶購的定金已炒至800元左右，“跑單不退”。（第一財經）"
+    },
+    {
+      "id": "mkt:01a08aa3-05f2-7118-8522-feb2e92dabcc",
+      "time": "2026-09-10 17:25:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Huasheng Tiancheng, Moonshot AI launch Kimi Moon Mission; to form AI innovation team】Huasheng Tiancheng and Moonshot AI launched the Kimi Moon Mission, forming a full-chain partnership spanning model capability, compute infrastructure, industry deployment and global delivery to scale enterprise AgenticAI. Huasheng will provide compute support for the Kimi model; partners will pursue MaaS and token business cooperation, target government, financial, telecoms and smart manufacturing clients, and expand into overseas enterprise AI markets. The firms will set up a joint industry AI innovation team and build a dual technical stack combining the Kimi model with Huasheng’s compute base."
+    },
+    {
+      "id": "5087022",
+      "time": "2026-09-10 17:25:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST明誠：控股子公司擬508.80萬元購買關聯方商業房產】ST明誠公告稱，公司控股子公司湖北清碧智慧運營管理有限公司擬向關聯方武漢清能瑾誠置業有限公司購買武漢市洪山區清江錦城K8地塊5號樓2層8項商業房地產，總建築面積633.44㎡，交易對價508.80萬元，資金來源為子公司自有資金，需在2026年12月31日前全額付清。本次交易構成關聯交易，不構成重大資產重組，無需提交股東會審議。交易以2026年2月10日為評估基準日，評估值即為交易對價，過去12個月公司未與該關聯方發生關聯交易，也未與其他關聯人發生購買資產類交易。"
+    },
+    {
+      "id": "mkt:01a08aa2-8776-7118-8522-f2277921b8fd",
+      "time": "2026-09-10 17:25:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman Sachs: Shareholder returns set to become a new driver for South Korean equities】Goldman Sachs said in a Sept. 9 report that shareholder returns are likely to increasingly drive South Korean equity performance, complementing earnings growth and helping reverse perceptions of weak corporate capital returns. Policy moves — a “corporate value enhancement” plan, dividend tax incentives and proposed tax changes for buybacks — are shifting from voluntary disclosure toward substantive incentives and stronger accountability for capital allocation and payouts. On fundamentals, consensus earnings and free cash flow forecasts have been revised up while corporate balance sheets retain ample cash, supporting larger dividends and buybacks without materially pressuring capex or balance-sheet quality. Buybacks and treasury-stock cancellations are accelerating and high-dividend opportunities are broadening. Goldman expects aggregate dividends plus buybacks to rise sharply in 2026–27, lifting total shareholder return to roughly 9% in 2026 and about 14% in 2027."
+    },
+    {
+      "id": "5087021",
+      "time": "2026-09-10 17:25:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【支援中小公募發展的第二批攤餘成本債基即將上報，初步名單有13家公募】從業內獲悉，支援中小公募規範健康發展的第二批攤餘成本債基，基金公司於9月11日前後即可上報。一家中小公募內部人士確認了這一訊息，稱他所在的公司擬於9月11日上報。他提供的名單顯示，第二批產品會有13家基金公司上報。其中，博遠基金、瑞達基金、中海基金、泰信基金、博道基金、匯泉基金6家公募，對應的託管行為興業銀行；恆越基金、泉果基金、蘇新基金、匯百川基金4家公募，對應的託管行是浦發銀行；益民基金、東方阿爾法基金和東財基金3家公募，對應的託管行分別為中信銀行、招商銀行、江蘇銀行。該公募人士表示，目前瞭解到只是初步名單，最終名單不排除有一定出入。第一批15只攤餘成本債基於8月14日上報，均為63個月封閉式債券基金。（證券時報）"
+    },
+    {
+      "id": "5087020",
+      "time": "2026-09-10 17:24:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東興證券：A股股票將連續停牌直至終止上市】東興證券公告稱，中金公司擬透過向東興證券、信達證券全體A股換股股東發行A股股票的方式，換股吸收合併兩家公司。經向上交所申請，公司A股股票自2026年9月15日（A股異議股東現金選擇權申報首日）開市起連續停牌，不再交易，2026年9月14日為最後一個交易日。公司將於現金選擇權申報截止日次一交易日向上交所申請終止上市，股票繼續停牌直至終止上市。"
+    },
+    {
+      "id": "mkt:01a08aa1-95a0-7118-8522-e8ef9eb79fd7",
+      "time": "2026-09-10 17:24:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【BofA: Jet fuel surge may keep forward air fares elevated through year‑end holiday peak】Brent crude topped $102/bbl on Thursday, the highest intraday level since May 22, after global crude rose above $100/bbl. BofA Asia‑Pacific transport research head Nathan Gee said the recent rise in jet fuel could keep forward air fares elevated through the year‑end holiday peak by extending airline cost pressure. Airlines report strong recent demand; Cathay Pacific said demand remained robust last month. Jeffrey Goh, managing director at Alton Aviation Consultancy, warned that if oil continues higher, travel demand will eventually soften because carriers cannot indefinitely pass costs to passengers."
+    },
+    {
+      "id": "5087019",
+      "time": "2026-09-10 17:23:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞塞拜然外交部表示，兩名亞塞拜然公民在黑海貨輪遭無人機襲擊事件中身亡。"
+    },
+    {
+      "id": "5087018",
+      "time": "2026-09-10 17:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗或“逆向開發”美軍無人潛航器】“明天上午，我們的逆向工程師將舉行拆箱儀式！”當地時間9日凌晨，伊朗駐印度海得拉巴總領事館在社交媒體釋出訊息，配圖是一艘“潛水-LD”型無人潛航器，是伊朗伊斯蘭革命衛隊戰利品的“同款”。按路透社說法，這條訊息更多是在嘲諷美國，但捕獲美軍無人潛航器的確給伊朗提供了研究和可能進行“逆向工程”的機會，令五角大樓受挫。（新華社）"
+    },
+    {
+      "id": "5087017",
+      "time": "2026-09-10 17:23:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華勝天成：與月之暗面啟動“Kimi登月計劃” 將聯合成立AI創新團隊】華勝天成官微訊息，近日，華勝天成與月之暗面啟動“Kimi登月計劃”，雙方將構建“模型能力+算力底座+行業落地+全球交付”的全鏈條合作體系，推動企業級Agentic AI在關鍵行業及海內外市場的規模化商用。此次合作中，華勝天成將為Kimi提供算力支撐，共同拓展政企及商業客戶，推進MaaS及Token業務合作；雙方將共同推進Kimi大模型在政府、金融、運營商與通訊、智慧製造等行業的落地應用，並進一步拓展全球企業級AI市場；雙方將聯合成立行業AI創新團隊，構建“Kimi大模型+華勝算力底座”的雙向技術體系。"
+    },
+    {
+      "id": "5087016",
+      "time": "2026-09-10 17:22:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【小馬智行：海外部署規劃已拓展至超過4000輛Robotaxi】據小馬智行9月10日訊息，公司海外部署規劃已拓展至超過4000輛Robotaxi，其中包括與Uber合作在歐洲部署超過2000輛車輛的明確計劃。根據公司規劃，小馬智行將在2026年底前將全球車隊規模擴充套件至超過3500輛Robotaxi，業務覆蓋全球20餘座城市。在海外市場，小馬智行透過共建車隊模式拓展業務，9月10日，小馬智行在克羅埃西亞首都薩格勒布開啟全無人Robotaxi載客測試。本次啟動的載客測試路線全長22公里，串聯Verne總部與位於薩格勒布主要商務區的弗拉尼奧·圖季曼機場。未來數月內，全無人駕駛運營路線將持續拓展，最終目標將實現對薩格勒布運營區域的全覆蓋。"
+    },
+    {
+      "id": "5087015",
+      "time": "2026-09-10 17:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計劃旨在降低對俄羅斯醫用放射性同位素的依賴。"
+    },
+    {
+      "id": "mkt:01a08a9f-9224-7118-8522-e79b0e905fc0",
+      "time": "2026-09-10 17:21:48",
+      "tags": [
+        "MKT News",
+        "6981.T"
+      ],
+      "text": "【Murata to discontinue select consumer and automotive MLCC series; customers must respond by end‑2027】Murata Manufacturing, the MLCC market leader, has notified customers it will begin product-line optimization in fiscal 2026, discontinuing specific MLCC part numbers in its consumer-standard and automotive series and reallocating capacity. Affected series include GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG and ZRA. Customers were asked to submit written confirmation by end‑2027 and place final orders by March 31, 2028."
+    },
+    {
+      "id": "te:economy:582720",
+      "time": "2026-09-10 17:21:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "South Africa Logs Widest Current Account Gap Since 2015 — South Africa posted a current account deficit of ZAR 205.5 billion in Q2 2026, the widest since Q4 2015, compared to a surplus of ZAR 181.6 billion in the previous period. The quarter was the first to fully capture the impact of the war in Iran, which pushed up energy prices and import costs. The trade surplus narrowed sharply to ZAR 146.4 billion from ZAR 428.8 billion in Q1, as the value of merchandise imports far outpaced that of merchandise and net gold exports. The increase in the import bill was driven largely by an 82% surge in the value of crude oil imports, reflecting South Africa’s high reliance on imported fuel. Concurrently, the shortfall on the services, income and current transfer account widened sharply to ZAR 351.9 billion from ZAR 247.2 billion, mainly attributed to a substantial increase in the primary income deficit. As a ratio of GDP, the country's current account balance shifted to a deficit of 2.6% in Q2 from a surplus of 2.3% in Q1."
+    },
+    {
+      "id": "te:economy:582719",
+      "time": "2026-09-10 17:21:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malta",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Malta Industrial Production Rebounds to 3-Month High — Malta’s industrial production rose by 2.2% year-on-year in July 2026, rebounding from a downwardly revised 2.3% fall in the previous month. This marked the highest reading since April, mainly driven by a recovery in the manufacturing sector (0.7% vs -2.2% in June), as higher production of wood, paper products, and printing (+29.5%) and other manufacturing (+2.4%) offset declines in rubber, plastic, and other non-metallic mineral products (-7.0%), and computer, electronic, and optical products and motor vehicles (-5.1%). By industrial grouping, output recovered in energy production (22.8% vs -3.5%), consumer goods (8.9% vs -7.4%), consumer durable goods (1.4% vs -14.9%), and consumer non-durable goods (9.7% vs -6.5%). In contrast, production dropped further in capital goods (-9.0% vs -0.9%), while activity fell in intermediate goods (-3.2% vs 2.6%). On a seasonally adjusted monthly basis, industrial production grew by 1.9% in July, following an upwardly revised 0.2% increase in June."
+    },
+    {
+      "id": "mkt:01a08a9f-51ac-7118-8522-daf1940ef5cf",
+      "time": "2026-09-10 17:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Overseas pays CNY2.55 bln for Shenzhen Futian Xiangmihu residential plot after 250 bids; 125% premium】A Shenzhen subsidiary of China Overseas won tender B401-0151 in Futian’s Xiangmihu for CNY2.55 bln after 250 offline bidding rounds, a 125% premium to the CNY1.131 bln starting price. The plot, converted from commercial (C1) to residential class R2 and formerly part of the Antuoshan 10-06 plan, covers 5,848 sqm with a floor area ratio of 3.1, gross floor area of ~26,002 sqm (residential 24,722 sqm). Winning floor price about CNY98,100/sq m. Seven developers, including CHINA RES LAND and China Merchants Shekou, participated."
+    },
+    {
+      "id": "5087014",
+      "time": "2026-09-10 17:21:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤下跌 0.7%，報 5689.75 點。"
+    },
+    {
+      "id": "5087013",
+      "time": "2026-09-10 17:20:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率<FR30YT=RR>攀升1個基點至4.3443%，創下2008年10月以來新高。"
+    },
+    {
+      "id": "mkt:01a08a9e-53a3-7118-8522-d7b6e0f656d1",
+      "time": "2026-09-10 17:20:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France 10-year bond yield reached 4.3443%, its highest level since October 2008, up 1bp on the day."
+    },
+    {
+      "id": "5087012",
+      "time": "2026-09-10 17:19:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川成渝：向特定物件發行A股股票申請獲上交所受理】四川成渝公告，公司向特定物件發行A股股票申請於2026年9月10日獲上交所受理。上交所認為公司報送的募集說明書及相關申請檔案齊備、符合法定形式，決定予以受理並依法稽核。本次發行尚需經上交所稽核透過，並獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "5087011",
+      "time": "2026-09-10 17:19:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST美克：預重整工作正在推進中】ST美克公告，截至 2026 年 9 月 9 日，美克國際家居用品股份有限公司（以下稱“美克家居”或“公司”）及子公司到期未償還的借款及商業承兌匯票餘額共計114,305.25萬元（其中：金融機構有息借款107,036.93萬元，商業承兌匯票7,268.32萬元），佔公司最近一期經審計歸屬於上市公司股東淨資產的184.25%。自前次債務逾期公告披露日（2026 年 7 月 10 日）以來，公司及子公司新增到期未償還的借款及商業承兌匯票 7,551.12 萬元，佔公司最近一期經審計歸屬於上市公司股東淨資產的 12.17%。公司預重整工作正在推進中，公司及預重整輔助機構正與各金融機構就債務逾期事項的化解方案進行溝通協商。"
+    },
+    {
+      "id": "5087010",
+      "time": "2026-09-10 17:19:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，新加坡燃料庫存升至6月以來最高水平。"
+    },
+    {
+      "id": "5087009",
+      "time": "2026-09-10 17:18:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：因二級市場價格大幅溢價 9月11日起臨時停牌】納指ETF嘉實公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月10日，基金二級市場收盤價為2.099元，收盤時基金份額參考淨值為1.8666元。為保護投資者利益，基金將於2026年9月11日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若9月11日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5087008",
+      "time": "2026-09-10 17:18:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：二級市場交易價格出現較大幅度溢價】納指ETF易方達公告稱，基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。2026年9月10日，基金二級市場收盤價為2.028元，收盤時基金份額參考淨值（IOPV）為1.8500元。若2026年9月11日二級市場交易價格溢價幅度未有效回落，基金有權透過向深圳證券交易所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5087007",
+      "time": "2026-09-10 17:17:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Palantir與英偉達聯合推出主權AI供應鏈系統，率先應用於英偉達自身運營】Palantir與英偉達宣佈達成合作，將人工智慧能力引入關鍵供應鏈領域，首批應用將從英偉達自身的複雜運營體系開始。雙方將把英偉達的Nemotron開源模型整合進Palantir的Foundry和人工智慧平臺（AIP），旨在提升供應鏈的透明度、識別潛在瓶頸，並實現運營決策的自動化。英偉達表示，其Vera Rubin機架包含約130萬個零部件，對算力、記憶體、網路和機械元件的協同要求極高，該系統將幫助團隊更早發現約束條件、更快評估替代方案，並基於端到端生產影響進行物料分配。Palantir執行長Alex Karp稱，該主權AI棧能夠在保護專有資料的前提下，提供超越前沿模型的運營智慧。雙方還計劃將這一聯合架構推廣至製造、醫療、農業及政府等複雜行業，幫助更多企業構建更具韌性的供應鏈體系。"
+    },
+    {
+      "id": "mkt:01a08a9b-f5b9-7118-8522-cdaf1d392a38",
+      "time": "2026-09-10 17:17:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's central bank governor Varga said the bank is prepared to gradually lower its inflation target."
+    },
+    {
+      "id": "5087006",
+      "time": "2026-09-10 17:17:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：將維持審慎且紀律嚴明的政策框架。"
+    },
+    {
+      "id": "mkt:01a08a9b-8909-7118-8522-c35439fab6e5",
+      "time": "2026-09-10 17:17:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian lawmaker Somayeh Rafiei said Iran can take \"special measures\" in response to International Atomic Energy Agency (IAEA) resolutions and may consider action."
+    },
+    {
+      "id": "5087005",
+      "time": "2026-09-10 17:17:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：準備逐步下調通脹目標。"
+    },
+    {
+      "id": "mkt:01a08a9b-33fe-7118-8522-bba9ceba3614",
+      "time": "2026-09-10 17:17:02",
+      "tags": [
+        "MKT News",
+        "QTEC.O"
+      ],
+      "text": "Invesco Nasdaq Technology ETF said it will be suspended from market open on Sept. 11, 2026 and will resume trading at 10:30 on Sept. 11, 2026. Redemptions will be processed as usual during the suspension."
+    },
+    {
+      "id": "5087004",
+      "time": "2026-09-10 17:16:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF大成：二級市場交易價格大幅溢價 提示風險】納斯達克100ETF大成公告稱，2026年9月10日，本基金二級市場收盤價為1.796元，收盤時基金份額參考淨值（IOPV）為1.6604元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年9月11日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5087003",
+      "time": "2026-09-10 17:16:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本光電與日本 Activation Capital 達成戰略合作。"
+    },
+    {
+      "id": "5087002",
+      "time": "2026-09-10 17:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所：李淳對李寧的多頭持倉升至 19.04%。"
+    },
+    {
+      "id": "mkt:01a08a9a-6f08-7118-8522-b14b388bfcbe",
+      "time": "2026-09-10 17:16:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Association for Listed Companies releases 2026 cash dividend rankings】The China Association for Listed Companies published its 2026 cash dividend rankings, comprising three 100-company sublists ranked by: total cash dividends over the past three years, dividend payout ratio over the past five years, and dividend yield over the past three years. The lists incorporate adjustments for capital-market compliance, integrity and abnormal dividend practices."
+    },
+    {
+      "id": "5087001",
+      "time": "2026-09-10 17:15:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率<DE2YT=RR>上漲1個基點，升至3.4482%，創2011年4月以來新高。"
+    },
+    {
+      "id": "mkt:01a08a9a-059a-7118-8522-aab9a2aa8308",
+      "time": "2026-09-10 17:15:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Germany's 10-year government bond yield rose to 3.4482%, the highest since April 2011."
+    },
+    {
+      "id": "5087000",
+      "time": "2026-09-10 17:15:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安陽鋼鐵：擬開展合計2.50億元融資租賃業務】安陽鋼鐵公告稱，公司擬以鍊鐵廠高爐熱風爐煙氣脫硫脫硝裝置、一煉軋作業部2800mm機組矯直機升級改造裝置等作為租賃物，透過售後回租、直租（含直轉回）方式與貴州省黔晟融資租賃有限公司開展融資租賃業務。融資金額合計2.50億元，其中售後回租額度2億元，直租（含直轉回）額度0.5億元，融資期限不超過36個月，具體以雙方簽訂的《融資租賃合同》約定為準。該事項已經公司2026年第十二次臨時董事會審議透過。"
+    },
+    {
+      "id": "5086999",
+      "time": "2026-09-10 17:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【擁抱“十五五” 共謀新發展 “國家發展改革委與美在華跨國企業高層圓桌會”在京舉行】9月10日上午，以“擁抱‘十五五’  共謀新發展”為主題的“國家發展改革委與美在華跨國企業高層圓桌會”在京成功舉行。國家發展改革委副主任周海兵，北京市常務副市長夏林茂等出席活動並致辭。中國美國商會、美中貿易全國委員會和60餘家美在華跨國企業代表近百人參會。 會議指出，中美經貿關係本質是互利共贏，推動中美加強互利合作符合兩國和世界利益。“十五五”時期，中國將持續推進高水平對外開放，為外資企業在華投資興業提供政策保障。歡迎包括美國企業在內的外資企業深耕中國，擁抱“十五五”發展機遇，在互利互惠中實現更大發展，為兩國和世界人民帶來實實在在的福祉。希望美在華跨國企業發揮橋樑紐帶作用，以此次圓桌會為契機，深挖雙方合作潛力，促進更多務實合作落地。（國家發改委）"
+    },
+    {
+      "id": "mkt:01a08a98-be50-7118-8522-a7c44b9be40a",
+      "time": "2026-09-10 17:14:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Dalian Commodity Exchange said recent international conditions are complex and volatile and commodities, particularly ethylene glycol (MEG), have seen large price swings. It urged member firms to monitor market dynamics, tighten risk controls and guide market participants to trade rationally and in compliance."
+    },
+    {
+      "id": "5086998",
+      "time": "2026-09-10 17:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "大商所：近期國際形勢複雜多變，大宗商品特別是乙二醇等品種波動較大。請各會員單位關注市場動態，加強風險管理，引導市場參與者理性合規交易。"
+    },
+    {
+      "id": "5086997",
+      "time": "2026-09-10 17:13:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【物產金輪：回購股份實施完成，累計回購465.95萬股】物產金輪公告，公司此前擬以自有資金回購股份，回購價格不超過人民幣14元/股，回購資金總額不低於人民幣3000萬元（含）且不超過人民幣6000萬元（含），用於維護公司價值及股東權益所必需，後續可調整用於股權激勵或員工持股計劃。截至2026年9月9日，公司累計回購465.95萬股，佔總股本2.0953%，最高成交價為人民幣13.51元/股，最低成交價為人民幣12.12元/股，成交總金額為人民幣5998.56萬元（不含交易費用），回購方案已實施完畢。"
+    },
+    {
+      "id": "5086996",
+      "time": "2026-09-10 17:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【競價257輪 中海25.5億摘取深圳福田一“迷你”地塊】深圳今日出讓一宗位於福田核心區香蜜湖板塊的涉宅用地，地塊規劃建築面積26002平方米。這是8.28新政後，深圳進行的首場宅地土拍，該地塊吸引了中海、華潤置地、中鐵、深振業等7家競買人參與競價。經過257輪競價，該地塊最終被中海以25.5億元的價格競得，成交樓面價98069元/平方米，溢價率125.46%，剔除配建面積後，住宅樓面價103147元/平方米。據中指院資料，這一成交樓面價重新整理了深圳涉宅用地成交樓面價TOP2位置。"
+    },
+    {
+      "id": "5086994",
+      "time": "2026-09-10 17:12:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【小馬智行與Verne在薩格勒布開啟全無人Robotaxi載客測試】9月10日，小馬智行與自動駕駛出行服務公司Verne聯合宣佈，已在克羅埃西亞首都薩格勒布公開道路上正式啟動全無人駕駛Robotaxi載客測試。這是歐洲範圍內首次實現該領域的突破，也標誌著小馬智行在海外市場的全無人商業化佈局已取得了實質性進展。"
+    },
+    {
+      "id": "5086993",
+      "time": "2026-09-10 17:12:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百川股份：控股股東鄭鐵江部分股份被質押】百川股份公告稱，公司接到控股股東鄭鐵江通知，獲悉其所持公司部分股份被質押。鄭鐵江、王亞娟夫婦合計持股7450.24萬股，佔公司總股本10.31%；本次質押前累計質押3700萬股，本次質押後累計質押4500萬股，佔其所持股份比例60.40%，佔公司總股本比例6.23%。本次質押融資不涉及用於滿足上市公司生產經營相關需求，質押股份未負擔重大資產重組等業績補償義務。"
+    },
+    {
+      "id": "5086992",
+      "time": "2026-09-10 17:12:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "李寧增持李寧股份，多頭持倉由 19.22% 升至 19.96%。"
+    },
+    {
+      "id": "5086991",
+      "time": "2026-09-10 17:11:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數<.NSEI>下跌0.1%。"
+    },
+    {
+      "id": "5086990",
+      "time": "2026-09-10 17:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中上協釋出2026年上市公司現金分紅榜單】9月10日，中上協釋出2026年上市公司現金分紅榜單。中上協表示，2026年上市公司現金分紅榜單設定分紅總額、股利支付率和股息率三個子榜單，分別以近三年現金分紅總額、近五年股利支付率、近三年股息率為評價指標，結合資本市場誠信合規、異常分紅等因素進行調整，每個榜單各100家公司。"
+    },
+    {
+      "id": "5086989",
+      "time": "2026-09-10 17:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟迪環境：子公司合加新能源被申請破產重整獲受理】啟迪環境公告稱，湖北省咸寧市人民法院裁定受理鞍山鍋爐廠有限公司、江蘇華星東方電力環保科技有限公司對公司全資子公司啟迪合加新能源汽車有限公司的破產重整申請。合加新能源不能清償到期債務且明顯缺乏清償能力，符合重整條件；其作為獨立法人，母公司預重整不阻礙本次破產重整申請受理。合加新能源共有48條終本執行資訊，涉及標的額4.87億元。"
+    },
+    {
+      "id": "5086988",
+      "time": "2026-09-10 17:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合種植園：8月棕櫚仁總產量為6756噸。"
+    },
+    {
+      "id": "mkt:01a08a95-065f-7118-8522-9ac31f211ed3",
+      "time": "2026-09-10 17:10:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell 1.00% intraday to $67.25/oz."
+    },
+    {
+      "id": "5086986",
+      "time": "2026-09-10 17:09:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁仔食品：控股股東、實際控制人及一致行動人持股比例被動增至47.31%】勁仔食品公告，公司累計回購股份1009.9萬股用於登出，登出股份佔登出前總股本的2.24%。登出完成後，控股股東、實際控制人周勁松及其一致行動人李冰玉合計持股比例由46.23%被動增加至47.31%，權益變動觸及1%整數倍，持股數量未發生變化，不涉及增持或減持。"
+    },
+    {
+      "id": "5086985",
+      "time": "2026-09-10 17:09:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST啟環：法院受理全資子公司破產重整，涉48條終本執行】*ST啟環公告，湖北省咸寧市中級人民法院裁定受理鞍山鍋爐廠有限公司、江蘇華星東方電力環保科技有限公司對公司全資子公司啟迪合加新能源汽車有限公司的破產重整申請。合加新能源共有48條終本執行資訊，涉及標的額達4.87億元。"
+    },
+    {
+      "id": "5086984",
+      "time": "2026-09-10 17:09:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報67.27美元/盎司。"
+    },
+    {
+      "id": "5086982",
+      "time": "2026-09-10 17:09:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福鞍股份：持股5%以上股東合計減持達2.89%】福鞍股份公告稱，公司持股5%以上股東中科（遼寧）實業有限公司於2026年8月25日至9月10日期間，透過集中競價、大宗交易方式累計減持公司股份926.55萬股，佔公司總股本的2.89%。本次權益變動後，中科實業及其一致行動人福鞍控股有限公司、吳迪合計持股比例由50.00%降至47.11%，觸及49%、48%兩個1%刻度。本次變動未違反相關承諾，未觸發強制要約收購義務。"
+    },
+    {
+      "id": "5086981",
+      "time": "2026-09-10 17:09:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "香港交易所資訊顯示，摩根大通（JPMorgan）在中際旭創H股的持股比例於09月07日從13.44%升至14.01%，購買的平均股價為1144.5338港元。"
+    },
+    {
+      "id": "5086980",
+      "time": "2026-09-10 17:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦加尼玻璃廠 1.5 兆瓦太陽能專案投產。"
+    },
+    {
+      "id": "5086979",
+      "time": "2026-09-10 17:08:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對金蝶國際的多頭持倉比例降至8.73%】據香港交易所披露，貝萊德（BlackRock）對金蝶國際軟體集團有限公司的多頭持倉比例於2026年9月4日從9.8%降至8.73%。"
+    },
+    {
+      "id": "5086978",
+      "time": "2026-09-10 17:08:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據港交所披露檔案，渣打集團於9月9日回購總計353,611股股份，總斥資800萬英鎊。"
+    },
+    {
+      "id": "5086977",
+      "time": "2026-09-10 17:07:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通對舜宇光學科技的多頭持倉比例降至4.67%】據香港交易所披露，摩根大通（JPMorgan）對舜宇光學科技(集團)有限公司的多頭持倉比例於2026年9月4日從5.09%降至4.67%，交易的平均股價為70.4443港元。"
+    },
+    {
+      "id": "5086976",
+      "time": "2026-09-10 17:07:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工商銀行：2026年第四期無固定期限資本債券發行完畢】工商銀行公告稱，經相關監管機構批准，公司2026年無固定期限資本債券（第四期）（債券通）已於近日在全國銀行間債券市場發行完畢。本期債券於2026年9月8日簿記建檔，9月10日完成發行，發行規模為200億元，前5年票面利率為1.86%，每5年調整一次，在第5年及之後的每個付息日附發行人有條件贖回權。本期債券募集資金將用於補充本行其他一級資本。"
+    },
+    {
+      "id": "5086975",
+      "time": "2026-09-10 17:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對濰柴動力的多頭持倉比例降至6.77%】據香港交易所披露，貝萊德（BlackRock）對濰柴動力股份有限公司 - H股的多頭持倉比例於2026年9月4日從7.33%降至6.77%。"
+    },
+    {
+      "id": "5086974",
+      "time": "2026-09-10 17:07:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對海爾智家的多頭持倉比例降至7.88%】據香港交易所披露，貝萊德（BlackRock）對海爾智家股份有限公司 - H股的多頭持倉比例於2026年9月4日從8.06%降至7.88%。"
+    },
+    {
+      "id": "5086973",
+      "time": "2026-09-10 17:07:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀集團對海底撈的多頭持倉比例降至63.96%】據香港交易所披露，瑞銀集團（UBS）對海底撈國際控股有限公司的多頭持倉比例於2026年9月8日從68.61%降至63.96%，交易的平均股價為10.62港元。"
+    },
+    {
+      "id": "5086972",
+      "time": "2026-09-10 17:06:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻CEO韓歆毅：8小時之外的智慧體爆發是必然趨勢】在2026 Inclusion外灘大會上，為加快智慧服務生態發展，支付寶宣佈設立“智慧體湧現獎”，每年投入1000萬，尋找有用、有趣的生活智慧服務，年度大獎獎金100萬元。9月10日起，在支付寶內右滑對阿寶說“智慧體湧現獎”，即可瞭解賽事、報名參賽，普通使用者也可參與“許願”想要的智慧服務。開發者作品入圍後不僅可獲得現金獎勵，適合面向市場的成熟作品還可接入阿寶，為10億使用者提供服務，開展持續經營。螞蟻集團CEO韓歆毅認為，8小時之外的智慧體爆發是必然趨勢。支付寶表示，希望透過智慧體湧現獎，促成以“智慧服務供給”滿足“碎片化生活需求”的供需迴圈，在小程式生態之外，構建面向AI時代的智慧體生態。（新浪科技）"
+    },
+    {
+      "id": "5086971",
+      "time": "2026-09-10 17:06:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對寧德時代的多頭持倉比例降至5.85%】據香港交易所披露，貝萊德（BlackRock）對寧德時代新能源科技股份有限公司 - H股的多頭持倉比例於2026年9月4日從6.07%降至5.85%，交易的平均股價為570.1397港元。"
+    },
+    {
+      "id": "5086970",
+      "time": "2026-09-10 17:06:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東建工：新增累計訴訟仲裁涉案金額16.75億元】廣東建工公告稱，2026年4月8日至本公告日，公司及下屬公司累計新增訴訟、仲裁案件共771件，涉案金額合計16.75億元，佔公司2025年經審計歸母淨資產絕對值的11.62%。其中主動提起訴訟、仲裁案件69件，金額合計4.70億元；作為被告的案件702件，金額合計12.05億元。不存在單項涉案金額佔最近一期經審計淨資產絕對值10%以上且超1000萬元的重大訴訟仲裁事項，部分案件尚未開庭或結案，對利潤的影響存在不確定性。"
+    },
+    {
+      "id": "5086969",
+      "time": "2026-09-10 17:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "馮德萊恩稱，歐盟需要布羅莫式的產業領軍企業。"
+    },
+    {
+      "id": "5086968",
+      "time": "2026-09-10 17:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI正面臨共和黨主導的參議院對Hugging Face資料洩露的調查。"
+    },
+    {
+      "id": "5086967",
+      "time": "2026-09-10 17:05:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤下跌 0.5%，報 1705.52 點。"
+    },
+    {
+      "id": "mkt:01a08a90-a527-7118-8522-915d7041aaf1",
+      "time": "2026-09-10 17:05:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI faces a Republican-led Senate probe into a Hugging Face data leak."
+    },
+    {
+      "id": "mkt:01a08a90-73ee-7118-8522-8c9810004b51",
+      "time": "2026-09-10 17:05:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRGC-affiliated Sepah News reported Houthi forces, after seizing the strategic port of Mocha, are advancing toward the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5086966",
+      "time": "2026-09-10 17:04:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝鼓動力：發行股份購買資產暨關聯交易事項推進中】陝鼓動力公告稱，公司擬透過發行股份方式購買陝西秦風氣體股份有限公司少數股東合計持有的36.06%股權，本次交易構成關聯交易，不構成重大資產重組及重組上市。公司股票因籌劃本次交易於2026年6月29日開市起停牌，7月13日開市起復牌。截至本公告披露日，公司及相關各方正積極推進本次交易各項工作，後續將在相關工作完成後再次召開董事會審議相關事項。本次交易尚需公司董事會、股東會審議及有權監管機構批准，能否獲批及獲批時間存在不確定性。"
+    },
+    {
+      "id": "5086965",
+      "time": "2026-09-10 17:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟拍賣279.2萬現貨碳排放配額，成交價格為每噸85.16歐元。"
+    },
+    {
+      "id": "mkt:01a08a8f-daf2-7118-8522-837da56ba67c",
+      "time": "2026-09-10 17:04:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Palantir",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "CSCO.O",
+        "Impact bullish",
+        "NVDA.O",
+        "PLTR.O"
+      ],
+      "text": "Cisco said it will partner with Palantir and NVIDIA to build a secure AI factory to simplify enterprise AI deployment."
+    },
+    {
+      "id": "5086964",
+      "time": "2026-09-10 17:04:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【信達證券：A股股票將連續停牌直至終止上市】信達證券公告稱，中金公司擬透過向信達證券、東興證券全體A股換股股東發行A股股票的方式，換股吸收合併兩家公司。經申請，公司A股股票自2026年9月15日開市起連續停牌，不再交易，2026年9月14日為最後一個交易日。現金選擇權申報截止日次一交易日公司將申請終止上市，股票繼續停牌直至終止上市。終止上市後，公司股東所持A股股票將按確定的換股比例轉換為中金公司本次發行的A股股票並在上交所上市流通。"
+    },
+    {
+      "id": "5086963",
+      "time": "2026-09-10 17:04:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局釋出一批誠信計量典型案例】記者今天瞭解到，市場監管總局釋出一批誠信計量典型案例，聚焦智慧監管、信用監管、機制創新、協同共治、行業自律、民生保障等，構建全鏈條誠信計量監管體系，守護人民群眾消費權益，護航服務業高質量發展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08a8f-8a14-7118-8522-7f1bf2c28c8e",
+      "time": "2026-09-10 17:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【General Office of the State Council to explore using SME \"specialized, refined, distinctive and innovative\" evaluations for credit enhancement, push lenders to boost support for quality SMEs】The General Office of the State Council issued a notice on easing SME receivables stress. It says large firms that demonstrably shorten payable terms or cut payable volumes will get stepped-up financing support, including preferential access to loans and bond issuance. Commercial banks are urged, under risk-control conditions, to back large firms in replacing payables with loan or bond financing so they can pay upstream and downstream SMEs in cash promptly. The notice also directs exploring use of SME specialized, refined, distinctive and innovative development evaluation results as credit enhancement to steer financial institutions to increase support for high-quality SMEs."
+    },
+    {
+      "id": "5086962",
+      "time": "2026-09-10 17:04:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行總裁瓦爾加：在全球不確定性下，需對實質利率保持充足緩衝。"
+    },
+    {
+      "id": "mkt:01a08a8f-6f9e-7118-8522-70eac8e64f45",
+      "time": "2026-09-10 17:04:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Palantir",
+        "NVDA.O",
+        "Impact bullish",
+        "PLTR.N"
+      ],
+      "text": "NVIDIA (NVDA.O) and Palantir (PLTR.N) have built an AI technology stack for complex supply-chain operations."
+    },
+    {
+      "id": "5086961",
+      "time": "2026-09-10 17:04:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST華誼：完成登出5066.90萬份股票期權】ST華誼公告稱，因2024年股票期權激勵計劃首次及預留授予第一個行權期行權條件未達成、部分激勵物件離職不符合參與資格，公司登出該激勵計劃部分股票期權5066.90萬份，已於2026年9月10日完成登出登記手續。本次登出的股票期權尚未行權，登出後不會對公司股本造成影響。"
+    },
+    {
+      "id": "5086960",
+      "time": "2026-09-10 17:04:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興福電子：大基金二期減持計劃屆滿 減持1%股份】興福電子公告稱，公司持股5%以上股東國家積體電路產業投資基金二期股份有限公司減持計劃時間區間屆滿。2026年6月17日至2026年7月6日，該股東透過集中競價方式累計減持公司股份360萬股，佔公司總股本的1.00%。本次減持前，其持有公司股份2500萬股，佔總股本6.94%；減持後持有2140萬股，佔總股本5.94%。本次減持符合相關法律法規及此前披露的減持計劃要求。"
+    },
+    {
+      "id": "5086959",
+      "time": "2026-09-10 17:03:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐控股集團財務總監郭珮瑛將於2027年離任。"
+    },
+    {
+      "id": "5086958",
+      "time": "2026-09-10 17:03:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衢州發展：持股5%以上股東股份被輪候凍結】衢州發展公告稱，公司持股5%以上股東新湖集團所持公司5.04億股股份被司法輪候凍結，佔公司總股本的5.93%，佔其直接持股比例100%，凍結起始日為2026年9月8日，凍結期限36個月（自轉為正式凍結之日起計算），凍結申請人為杭州市拱墅區人民法院，凍結原因為擔保債務（涉擔保本金餘額1349.96萬元）。新湖集團及其一致行動人累計凍結及司法標記股份（含本次）共23.62億股，佔其所持公司股份的100%，佔公司總股本的27.76%。"
+    },
+    {
+      "id": "5086957",
+      "time": "2026-09-10 17:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與帕蘭提爾打造面向複雜供應鏈運營的人工智慧技術棧。"
+    },
+    {
+      "id": "5086956",
+      "time": "2026-09-10 17:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "Palantir：富士通正大力投資，與 Palantir 攜手打造 FDE 能力，以賦能日本及全球客戶。"
+    },
+    {
+      "id": "5086955",
+      "time": "2026-09-10 17:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仙琚製藥：參股公司弘琚小貸擬退出小額貸款行業】仙琚製藥公告，仙居弘琚小額貸款有限公司（簡稱“弘琚小貸”）系公司的參股公司，公司持有其30%股權。近日，公司收到弘琚小貸的相關通知，弘琚小貸擬向相關監管部門申請退出小額貸款行業，並在獲得監管部門批准後，弘琚小貸的股東擬將同比例減資。弘琚小貸此次退出小額貸款經營資質和減少註冊資本不會對公司合併報表範圍和整體經營情況產生重大影響。"
+    },
+    {
+      "id": "5086954",
+      "time": "2026-09-10 17:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST康佳A：推進主動終止上市事項 股票已停牌】*ST康佳A公告稱，公司擬以股東會決議方式主動撤回A、B股股票在深交所的上市交易，終止上市後申請轉入退市板塊轉讓，該事項尚需2026年第二次臨時股東會審議。公司股票已於2026年9月4日開市起停牌，直至深交所公告終止上市決定後5個交易日內摘牌。公司將於2026年9月14日召開臨時股東會審議相關議案，目前正推進終止上市相關事項。若主動終止上市事項未獲股東會審議透過，公司將申請股票自股東會決議公告後復牌。"
+    },
+    {
+      "id": "5086953",
+      "time": "2026-09-10 17:02:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理辦公室（DMO）表示，本次2030年期國債拍賣的中標價格較二級市場尾差為0.9個基點。"
+    },
+    {
+      "id": "5086952",
+      "time": "2026-09-10 17:02:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理辦公室發售50億英鎊2030年到期、票面利率4.625%的金邊債券，投標倍數為3.24倍。"
+    },
+    {
+      "id": "5086951",
+      "time": "2026-09-10 17:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與Palantir宣佈展開合作，將主權人工智慧引入供應鏈領域。"
+    },
+    {
+      "id": "5086950",
+      "time": "2026-09-10 17:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐首席財務官 Pam Kaur 將於 2027 年離任。"
+    },
+    {
+      "id": "5086949",
+      "time": "2026-09-10 17:01:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煜邦電力：計松濤減持計劃屆滿，實際減持0股】煜邦電力公告，董事、副總裁計松濤原擬於2026年6月10日至2026年9月9日期間透過集中競價方式減持不超過62400股、佔公司總股本不超過0.0186%的股份，實際未減持，減持計劃時間區間屆滿。截至公告披露日，計松濤持有公司股份24.99萬股，佔總股本0.07%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870630951",
+      "time": "2026-09-10 17:01:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：將在9月14日至9月17日開展隔夜逆回購操作 每日操作量不超過6000億元】為更好匹配銀行體系短期流動性需求，中國人民銀行將在9月14日至9月17日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過6000億元。"
+    },
+    {
+      "id": "5086948",
+      "time": "2026-09-10 17:01:18",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "中國人民銀行：將在9月14日至9月17日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過6000億元。"
+    },
+    {
+      "id": "5086947",
+      "time": "2026-09-10 17:01:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟在歐洲能源交易所現貨拍賣碳配額，成交價 85.16 歐元 / 噸 。"
+    },
+    {
+      "id": "5086946",
+      "time": "2026-09-10 17:00:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院辦公廳印發《關於加強中小企業回款難問題治理有關工作的通知》】日前，國務院辦公廳印發《關於加強中小企業回款難問題治理有關工作的通知》（以下簡稱《通知》），對依法治理中小企業回款難問題作出部署。一是健全行業賬款支付規則。各行業主管部門將及時支付賬款要求嵌入行業管理並強化落實。制定完善本行業領域結算支付管理規定，明確賬期起算節點、賬款支付方式及流程、貨物和服務檢驗驗收（或工程竣工結算）標準及期限、最長付款期限等關鍵要素。釋出大型企業及時支付倡議，引導大型企業特別是龍頭企業帶頭髮布並踐行自貨物、工程、服務交付之日起60日內以現金方式向中小企業支付賬款的承諾。二是加強大型企業支付行為監管。建立健全大型企業賬款監測機制。對故意拉長賬期的大型企業，多部門開展聯合約談並督促整改。嚴格反不正當競爭執法，對大型企業濫用優勢地位故意拉長賬期的惡劣行為，查實後依法依規處罰。細化完善上市公司資訊披露規則，要求應付賬款達到一定規模的上市公司披露主要賬款支付方式、平均賬期、商業匯票和電子憑證開立情況等事項。發揮央企國企及時支付表率作用，中央企業對中小企業全部採用現金支付，對大型企業保持合理的現金支付比例。三是規範管理非現金支付工具。壓減電子憑證最長付款期限至6個月，電子憑證服務平臺不得新開立付款期限超過6個月的電子憑證，商業銀行、商業保理公司不得為付款期限超過6個月的電子憑證提供融資。從嚴監管電子憑證服務平臺，電子憑證服務平臺要嚴格落實各項合規要求並將經營資料接入上海票據交易所，由上海票據交易所跨機構、全口徑監測大型企業商業匯票和電子憑證開立情況。四是強化資金傳導效能和融資支援。政府採購專案全額採用現金支付，將及時支付情況納入政府採購專案監管範圍；加強政府投資專案資金監管，業主單位優先採用現金支付並推動專案總承包單位及時向分包單位支付不低於同等比例的現金。支援大型企業透過貸款、發債融資置換應付賬款，及時向上下游中小企業支付現金。《通知》強調，各地區各有關部門要加強工作配合、強化上下聯動，壓實責任持續推進，堅持引導糾正與執法追責並舉，推動中小企業回款難問題整體好轉，營造大中小企業融通發展、互利共贏的良好生態。"
+    },
+    {
+      "id": "5086945",
+      "time": "2026-09-10 17:00:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【習近平對山東青島市北海造船廠一貨輪火災事故作出重要指示】9月10日11時15分許，山東青島市北海造船有限公司一艘外籍貨輪靠港維修期間起火，造成重大人員傷亡。事故發生後，中共中央總書記、國家主席、中央軍委主席習近平高度重視並作出重要指示指出，山東青島市北海造船廠一貨輪發生火災，造成重大人員傷亡。要抓緊搜救失聯人員，妥善做好善後安撫等工作，並儘快查明事故原因，依法嚴肅追究責任。習近平強調，各地區各有關部門要深刻汲取教訓，深入排查整治各類火災隱患，落實落細防範措施，堅決遏制重特大事故發生，切實維護人民群眾生命財產安全。(新華社)"
+    },
+    {
+      "id": "5086944",
+      "time": "2026-09-10 17:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美成功聯合偵破一起跨國涉毒案件】記者今天從公安部獲悉，近日，中國公安部和美國聯邦調查局（FBI）成功聯合偵破一起跨國制販合成大麻素類物質前體案件。據瞭解，2026年5月初，美方向中方通報2名中國公民邢某某、宋某某涉案線索。經查，該線索關聯我國內在偵的一起案件，公安部決定併案調查。8月中旬，公安部組織河北等地警方統一開展收網行動，抓獲包括邢、宋在內的涉案人員21名，繳獲一批可用於製毒的非列管前體化學品。前期，美方已在其境內抓獲2名美籍涉毒犯罪嫌疑人，該2人購買非列管前體化學品後在美製成毒品並向美多家聯邦及州立監獄在押囚犯分銷。（央視新聞）"
+    },
+    {
+      "id": "te:markets:582713",
+      "time": "2026-09-10 17:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Drops by 0.28% — Top currency losers are Norwegian Krone (-0.28%) and Indian Rupee (-0.28%). Gains are led by British Pound (0.07%). Meanwhile, Japanese Yen, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "5086943",
+      "time": "2026-09-10 17:00:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農業銀行：擬召開2026年第二次臨時股東會】農業銀行公告稱，公司擬於2026年9月29日召開2026年度第二次臨時股東會，採用現場投票與上海證券交易所網路投票相結合的方式，網路投票交易系統投票時間為當日9:15-9:25、9:30-11:30、13:00-15:00，網際網路投票平臺時間為當日9:15-15:00。本次會議審議包括2026年度中期利潤分配方案、向特定物件發行A股股票方案、引入中國菸草總公司及其子公司作為戰略投資者等15項議案，其中2、4、6、7、8、9號為特別決議議案。"
+    },
+    {
+      "id": "5086942",
+      "time": "2026-09-10 17:00:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富臨精工：更新定增問詢函回覆及募集說明書等申請檔案】富臨精工公告稱，公司此前收到深交所下發的向特定物件發行股票稽核問詢函，已完成問題回覆並更新募集說明書等申請檔案。因披露2026年半年度報告，公司會同中介機構將稽核問詢函回覆和募集說明書等申請檔案的財務資料更新至2026年6月30日，相關內容已在巨潮資訊網披露。本次向特定物件發行股票事項尚需透過深交所稽核並獲得中國證監會同意註冊後方可實施，能否透過稽核及註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5086941",
+      "time": "2026-09-10 16:59:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國5年期國債收益率升至4.822%的三年高位，日內上漲2個基點。"
+    },
+    {
+      "id": "5086940",
+      "time": "2026-09-10 16:59:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中國證監會：2025年全國社保基金投資收益率達到13.2%】9月10日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹金融領域貫徹落實“十五五”規劃、推動金融強國建設有關情況，並答記者問。中國證監會副主席李超介紹，2025年，全國社保基金投資收益率達到了13.2%。（新華社）"
+    },
+    {
+      "id": "5086939",
+      "time": "2026-09-10 16:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Anthropic研究員警示AI毀滅人類之際 美國國會推進AI安全立法】國會尚未復會返回華盛頓，但一名即將離職的Anthropic研究員發出的一系列嚴峻AI安全警示，令部分議員受到強烈震動。這名研究員稱：“認真研發人工智慧的從業者真心相信，到本十年末，AI有可能毀滅全人類。”訊息人士表示，由美國明尼蘇達州民主黨參議員埃米・克洛布查爾、得州共和黨參議員泰德・克魯茲以及參議院多數黨領袖約翰・圖恩共同起草的AI安全法案，是2027年前有望落地的唯一可行方案，該法案最早可能於下週提交。克洛布查爾發表宣告稱，她正推動達成兩黨共識，制定“設立合理監管底線、應對AI系統帶來風險的法案……顯然我們必須立刻行動，不能等待。”克魯澤在社交平臺X發文，稱他正與克洛布查爾、圖恩一同起草法案，應對涉及生物、核威脅的AI災難性風險。前沿AI實驗室與民間倡導組織已經就尚未公開的法案草案，向國會幕僚反饋意見。 儘管這項參議院兩黨法案在幕後獲得越來越多支援，但進步派議員已經亮出立場，主張採取更嚴格的監管方案。"
+    },
+    {
+      "id": "5086938",
+      "time": "2026-09-10 16:58:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST納川：子公司江蘇納川被申請移送破產審查】*ST納川公告稱，公司孫公司江蘇納川管材有限公司收到江蘇省泗陽縣人民法院相關文書，經申請執行人申請，法院將江蘇納川作為被執行人的案件移送破產審查。該案件源於此前的勞動爭議糾紛，此前法院已裁定凍結江蘇納川銀行存款47991.60元或同等價值財產，並查封其名下三部車輛。若江蘇納川進入破產程式，將對公司本期或期後利潤造成一定影響。"
+    },
+    {
+      "id": "5086937",
+      "time": "2026-09-10 16:58:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢嘉數智：控股股東擬向實控人協議轉讓28.1%股份】漢嘉數智公告稱，公司控股股東城建集團與實控人岑政平、歐薇舟夫婦簽署股份轉讓協議，約定城建集團向岑政平轉讓公司股份3183.36萬股（佔總股本14.10%），向歐薇舟轉讓3160.34萬股（佔總股本14.00%），轉讓價9.50元/股，轉讓價款合計6.03億元。本次轉讓為同一控制下內部轉讓，完成後公司控股股東變更為岑政平、歐薇舟夫婦，實控人不變。因受讓方為中國香港籍自然人，本次轉讓適用外國投資者戰略投資相關規定，且符合規定條件。"
+    },
+    {
+      "id": "5086936",
+      "time": "2026-09-10 16:57:52",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【國家發改委：對涉嫌低價無序競爭的經營者進行提醒告誡，必要時組織開展成本調查】國家發改委釋出關於重要工業品低價無序競爭成本核算有關事項的通知。其中提出，國家發展改革委、市場監管總局聚焦低價無序競爭問題突出的重要工業品生產領域，對涉嫌低價無序競爭的經營者進行提醒告誡，必要時組織開展成本調查，核算經營者相關成本。成本核算原則上以經營者生產特定產品的個別成本為基礎。在無法核算個別成本時，參考該產品的行業平均成本並考慮一定下浮幅度進行核算。"
+    },
+    {
+      "id": "5086935",
+      "time": "2026-09-10 16:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：8月營收變動+44.1％。"
+    },
+    {
+      "id": "5086934",
+      "time": "2026-09-10 16:57:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：8月銷售額641.8億元臺幣。"
+    },
+    {
+      "id": "5086933",
+      "time": "2026-09-10 16:56:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<RYA.I>執行長：從2月到7月，平均票價逐月下降；自7月以來，票價僅小幅回升。"
+    },
+    {
+      "id": "5086932",
+      "time": "2026-09-10 16:56:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天和防務：更新向特定物件發行股票相關申請檔案】天和防務公告稱，公司向特定物件發行股票申請已於2026年8月20日獲得中國證監會同意註冊批覆。鑑於公司已於2026年8月27日披露2026年半年度報告，公司會同相關中介機構對募集說明書等相關申請檔案中涉及的財務資料及其他變動事項進行了更新，相關檔案已同日披露。公司將根據該事項進展及時履行資訊披露義務，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5086931",
+      "time": "2026-09-10 16:55:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報102.24美元/桶。"
+    },
+    {
+      "id": "5086930",
+      "time": "2026-09-10 16:55:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展：32.66億元競得東莞南城一宗住宅地塊】保利發展公告稱，公司透過招拍掛方式獲得東莞市南城區東莞大道北側住宅地塊，用地面積6.78萬平方米，規劃容積率面積14.24萬平方米，公司需支付價款32.66億元，權益比例100%。"
+    },
+    {
+      "id": "5086929",
+      "time": "2026-09-10 16:55:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展：2026年8月簽約金額150.13億元，同比下降16.67%】保利發展公告，2026年8月實現簽約面積78.33萬平方米，同比下降16.67%；簽約金額150.13億元，同比下降16.67%。2026年1-8月實現簽約面積788.25萬平方米，同比下降12.27%；簽約金額1650.42億元，同比下降8.92%。"
+    },
+    {
+      "id": "5086928",
+      "time": "2026-09-10 16:54:59",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【交通銀行：財政部收購事項持續督導期已屆滿】交通銀行公告稱，財務顧問國泰海通就財政部收購公司事項出具持續督導總結報告，本次收購完成後，財政部持有公司股份309.43億股，佔總股本35.02%，成為控股股東。持續督導期為2025年3月31日至2026年6月17日，目前督導期限已屆滿，督導職責完結。督導期內，收購人依法履行報告和公告義務，未發現損害上市公司利益、違反公開承諾及已公告後續計劃的情形。"
+    },
+    {
+      "id": "5086927",
+      "time": "2026-09-10 16:54:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "Scanway SA 與波蘭國家研究與開發中心（NCBR）簽署多光譜相機研究專案的聯合融資協議。"
+    },
+    {
+      "id": "5086926",
+      "time": "2026-09-10 16:54:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普盟友支援的企業正收購烏克蘭無人機公司】由黑水公司創始人、特朗普總統盟友埃裡克・普林斯投資支援的一家無人機企業正在收購烏克蘭頂尖戰場機器人廠商之一。這是烏克蘭龐大無人機行業開啟整合的早期訊號。Swarmer公司最初在烏克蘭創立，如今總部落戶得克薩斯州奧斯汀。該公司宣佈，將透過現金加股票的交易收購Ratel Robotics，交易估值最高可達2.24億美元，是該行業規模最大的併購案之一。Ratel主營無人地面車輛；Swarmer開發人工智慧軟體，可實現多架空中無人機叢集協同作戰。Swarmer同時還獲得了與前谷歌執行長埃裡克・施密特相關的投資主體的資金支援。這筆交易發生之際，美國投資者與防務企業正加大對烏克蘭的佈局。烏克蘭經過戰場驗證的無人機技術獲得了西方的關注。"
+    },
+    {
+      "id": "5086925",
+      "time": "2026-09-10 16:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常鋁股份：齊魯財金與濟新產發交割期限延至180個工作日】常鋁股份公告，公司此前披露控股股東齊魯財金擬將所持2.31億股（佔總股本22.38%）轉讓給濟新產發，控制權擬發生變更。近日雙方簽署補充協議，將股份交割期限由原協議簽訂後90日延長至180個工作日，協議經雙方各自國資監管部門批准、同意後生效。"
+    },
+    {
+      "id": "5086924",
+      "time": "2026-09-10 16:53:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷克總理表示，在能源價格高企的背景下，歐盟應當暫停歐盟碳交易體系（ETS1），並推遲推行二期碳交易體系（ETS2）。"
+    },
+    {
+      "id": "5086923",
+      "time": "2026-09-10 16:53:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2026年iPhone Duo市佔近25%，蘋果首款摺疊機帶動供應鏈升級】Apple（蘋果）正式推出首款摺疊手機iPhone Duo，採用書本式內折設計，搭載7.6英寸內螢幕、5.4英寸外螢幕。TrendForce集邦諮詢估計，2026年iPhone Duo出貨量約500萬支，將可助力Apple在摺疊手機市場取得約24.8%市佔率。"
+    },
+    {
+      "id": "5086922",
+      "time": "2026-09-10 16:52:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國人工智慧安全法案最早或於下週提交。"
+    },
+    {
+      "id": "5086921",
+      "time": "2026-09-10 16:50:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金聯創：上調視窗即將開啟，預計本輪零售價上調幅度或至400元/噸附近】本週原油整體呈現上行走勢，周度均價環比上漲。據金聯創測算，截至9月10日第九個工作日，參考原油品種均價為92.87美元/桶，變化率為5.89%，國內汽柴油零售價應上調330元/噸。根據“十個工作日”原則，本輪調價視窗為9月11日24時。受美伊局勢升級影響，預計本輪零售價上調幅度或至400元/噸附近。綜合判斷，若衝突進一步蔓延擴大，不排除下週國際油價持續衝高，國內成品油零售價將迎上調，訊息面對油市形成利好支撐。"
+    },
+    {
+      "id": "5086920",
+      "time": "2026-09-10 16:50:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞安航空<RYA.I>執行長：若當前狀況持續，預計今冬歐洲將有更多航空公司倒閉；但這存在一定變數。"
+    },
+    {
+      "id": "5086919",
+      "time": "2026-09-10 16:49:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港廉政公署：起訴港交所前副總裁涉嫌不遵照《防賄條例》就貪汙調查提交財產宣告】9月10日，香港特區廉政公署公告稱，昨日（9月9日）落案起訴一名香港交易及結算所有限公司（港交所）前副總裁，控告他涉嫌在一宗正在進行的貪汙調查中，不遵照廉署根據《防止賄賂條例》獲法庭命令而發出的通知書，就其個人財產等資料提交法定宣告。湯寶衡，39歲，港交所前副總裁，被控一項不遵照根據《防止賄賂條例》第14(1)條所發出的通知書辦理罪名，違反《防止賄賂條例》第14(4)條。他獲准予保釋，明日（9月11日）在東區裁判法院答辯。"
+    },
+    {
+      "id": "5086918",
+      "time": "2026-09-10 16:49:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國證監會：前8個月共罰沒98.4億元】在今天（9月10日）國新辦舉行的新聞釋出會上，證監會相關負責人介紹，今年前8個月查辦證券期貨違法案件644件，罰沒98.4億元，透過各類方式為投資者挽回損失51.5億元。中國證券監督管理委員會副主席李超介紹，聚焦欺詐發行、財務造假、操縱市場、內幕交易等重大違法行為，著力在“打準、打疼”上下功夫，提高監管執法威懾力。加快推動健全資本市場法律制度體系，完善投資者保護制度機制，讓投資者切實感受到市場的公平正義。（央視新聞）"
+    },
+    {
+      "id": "5086917",
+      "time": "2026-09-10 16:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山金國際：完成註冊資本變更登記及章程備案】山金國際公告稱，因回購股份登出，公司總股本由27.77億股變更為27.73億股，註冊資本由27.77億元變更為27.73億元。近日公司已完成本次註冊資本變更的工商登記及《公司章程》備案手續，取得換髮的營業執照，其餘登記事項未發生變化。"
+    },
+    {
+      "id": "5086916",
+      "time": "2026-09-10 16:47:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 由黑水公司創始人、特朗普盟友埃裡克・普林斯投資支援的一家無人機企業，正在收購烏克蘭頂尖戰地機器人製造商之一。"
+    },
+    {
+      "id": "5086915",
+      "time": "2026-09-10 16:47:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國聯邦金融監管局：對伊朗塞帕銀行德國分行提出賠償索賠。"
+    },
+    {
+      "id": "te:economy:582707",
+      "time": "2026-09-10 16:46:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Industrial Production Falls to 5-Month Low — Bulgaria’s industrial production fell 6.8% year-on-year in July 2026, deepening from a 2.5% decline in June. Manufacturing output contracted (-7.3% vs 1.4% in June), driven mainly by declines in fabricated metal products, except machinery and equipment (-29.5%), leather and related products (-25.9%), other transport equipment (-23.3%), textiles (-14.3%), chemicals and chemical products (-11.2%), other non-metallic mineral products (-9.8%), and motor vehicles, trailers and semi-trailers (-9.7%). Mining and quarrying activity also remained weak (-36.1% vs -49.0%). In contrast, electricity, gas, steam and air conditioning supply advanced (16.7% vs 8.7%). By main industrial grouping, output fell in investment goods (-9.1% vs 7.2%) and consumer durables (-7.4% vs 0.1%), while contraction deepened in intermediate goods (-11.3% vs -9.9%). Meanwhile, energy goods accelerated (10.0% vs 5.5%). On a monthly basis, industrial production fell 3.0% in July from a 0.1% drop in June."
+    },
+    {
+      "id": "5086914",
+      "time": "2026-09-10 16:45:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂：中國快遞業進入成熟階段，有意義的行業整合短期或不會發生】里昂發表中國快遞業報告，認為進入成熟階段，預期2027年行業件量增長維持中高單位數，反內卷將繼續抑制激進價格競爭；龍頭如中通、圓通料表現較佳，較低線營運商如韻達在重奪市佔方面或面對更多挑戰。由於各營運商均錄得盈利及正自由現金流，有意義的行業整合短期或不會發生。隨著中國件量增長放緩，海外擴張對維持增長動能愈見關鍵；極兔是唯一具備海外基因的中國經濟型包裹營運商；國際及供應鏈業務亦成為順豐控股第二增長引擎。"
+    },
+    {
+      "id": "5086913",
+      "time": "2026-09-10 16:45:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首個3D原生城市世界模型ABot-Earth 0.7釋出】9月10日，高德釋出全球首個3D原生城市世界模型ABot-Earth 0.7。據介紹，ABot-Earth 0.7支援從星球到街景的一體化全尺寸AI生成，從而構建起目前覆蓋範圍最廣的數字地球，覆蓋超過196個國家和地區。“大模型理解語言，高德空間智慧理解世界。”高德CEO郭寧認為，ABot-Earth 0.7核心價值是讓Earth從一個只能瀏覽的數字地球，變成了高德空間智慧理解真實世界的入口。"
+    },
+    {
+      "id": "5086912",
+      "time": "2026-09-10 16:45:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞安航空<RYA.I>執行長：我認為明年夏季歐洲短途航線不太可能出現大幅運力削減，但燃油附加費或將徵收。"
+    },
+    {
+      "id": "5086911",
+      "time": "2026-09-10 16:44:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仙琚製藥：放棄參股公司萃澤醫藥增資優先認購權】仙琚製藥公告稱，公司持有參股公司浙江萃澤醫藥科技有限公司32.1957%股權，萃澤醫藥擬新增註冊資本42.0264萬元，由浙江浙資仙安藥鑫股權投資合夥企業（有限合夥）以2000萬元現金認購。公司基於發展戰略及研發定位，決定放棄本次增資優先認繳出資權，完成後持股比例將降至31.4512%，不會對公司財務及經營產生重大影響。"
+    },
+    {
+      "id": "5086910",
+      "time": "2026-09-10 16:44:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川雙馬：首次回購公司股份49.99萬股，支付1060.46萬元】四川雙馬公告，公司擬以不低於人民幣5000萬元（含）且不超過人民幣1億元（含）回購股份，回購價格不超過人民幣36元/股，用於維護公司價值及股東權益。2026年9月10日，公司首次回購49.99萬股，佔總股本的0.07%，成交價21.08元/股至21.3元/股，成交總金額為人民幣1060.46萬元（不含交易費用）。"
+    },
+    {
+      "id": "5086909",
+      "time": "2026-09-10 16:44:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆星科技：公司及全資子公司籤協議約定補償300萬元】恆星科技公告，公司及全資子公司河南恆星鋼纜股份有限公司、鞏義市恆星金屬製品有限公司與陽光新能源開發股份有限公司簽訂《專案補償、電費收取協議》，約定陽光新能源補償公司生產經營損失300萬元；該事項預計增加本年度利潤總額300萬元，最終資料以會計師事務所審計結果為準。"
+    },
+    {
+      "id": "5086908",
+      "time": "2026-09-10 16:44:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶合整合：公司28nm邏輯工藝平臺已匯入客戶樣品流片驗證】9月10日下午，晶合整合(688249)在科創板2026年半年度半導體制造、裝置及材料行業集體業績說明會上表示，目前公司28nm邏輯工藝平臺已匯入客戶樣品流片驗證，正在進行各項工藝效能指標的最佳化。"
+    },
+    {
+      "id": "5086907",
+      "time": "2026-09-10 16:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦：部分武裝部隊人員在沙特從事培訓及相關後勤工作】當地時間10日，巴基斯坦外交部發言人在新聞釋出會上表示，目前已有部分巴基斯坦武裝部隊人員在沙烏地阿拉伯從事培訓及相關後勤工作。這是巴基斯坦官方首次確認這一資訊。發言人表示，巴基斯坦與沙特長期保持雙邊關係和防務合作。根據《麥加共同防務協議》，雙方及有關國家將進一步推進相關防務合作安排。發言人稱，《麥加共同防務協議》是一項框架性協議，後續還需要在協議框架下制定具體程式、機制和合作架構。有訊息稱，隨著葉門胡塞武裝近期加大對沙特的襲擊，巴基斯坦方面警告，如果衝突蔓延至沙特境內，巴基斯坦與沙特、土耳其簽署的防務協議可能啟動，巴方甚至可能介入葉門戰事。（央視新聞）"
+    },
+    {
+      "id": "5086906",
+      "time": "2026-09-10 16:43:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【緯德資訊：2026年股票期權授予登記完成】緯德資訊公告稱，公司2026年股票期權激勵計劃授予登記手續已完成，授予登記完成日為2026年9月10日，授予登記數量77萬份。本次激勵物件共14人，含技術骨幹4人、業務骨幹3人、管理骨幹3人，不包括獨立董事、外籍員工及持股5%以上股東、實控人及其親屬。本次授予登記的人員名單及權益數量與2026年8月11日披露的相關內容一致。"
+    },
+    {
+      "id": "5086905",
+      "time": "2026-09-10 16:43:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，或提高煉油廠開工率，以滿足節日期間的燃油需求。"
+    },
+    {
+      "id": "5086904",
+      "time": "2026-09-10 16:43:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長久物流：完成登出全資子公司廣東長久新能源科技有限公司】長久物流公告稱，公司為最佳化資源配置、降低管理成本，決定對全資子公司廣東長久新能源科技有限公司予以登出，該登出事項無需提交董事會及股東會批准，不涉及關聯交易，不構成重大資產重組。近日，長久新科已完成登出登記手續，後續不再納入公司合併財務報表範圍，本次登出不會對公司整體業務發展及盈利產生重大影響，不存在損害公司及股東利益的情形。"
+    },
+    {
+      "id": "5086903",
+      "time": "2026-09-10 16:42:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藥明康德：可轉債轉股新增269.31萬股H股】藥明康德公告稱，因2027年到期的人民幣67.80億元美元結算零息可轉換債券轉股，公司於2026年9月10日新增發行2,693,131股H股普通股，佔變動前已發行股份（不含庫存股）的0.51%，每股轉股價為153港元。本次變動後，公司已發行股份（不含庫存股）總數為532,980,617股，庫存股為20,148,900股，已發行股份總數為553,129,517股。"
+    },
+    {
+      "id": "5086902",
+      "time": "2026-09-10 16:42:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率上漲2個基點至4.72%，為2023年11月以來最高水平。"
+    },
+    {
+      "id": "5086901",
+      "time": "2026-09-10 16:42:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，目前煉油廠開工率約為產能的105%。"
+    },
+    {
+      "id": "5086900",
+      "time": "2026-09-10 16:42:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞海事工程師聯盟：必和必拓勞務外包子公司運營服務（生產與維護部門）僱傭礦工提起集體訴訟索賠。"
+    },
+    {
+      "id": "5086899",
+      "time": "2026-09-10 16:42:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新炬網路：股票交易異常波動 無應披露未披露重大事項】新炬網路公告稱，公司股票於2026年9月8日、9日、10日連續三個交易日收盤價格跌幅偏離值累計達到20%，屬於股票交易異常波動情形。經公司自查並向實際控制人孫星炎、孫正暘、孫正晗核實，截至公告披露日，公司經營活動一切正常，業務及內外部經營環境未發生重大變化，不存在應披露而未披露的重大資訊。敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "5086898",
+      "time": "2026-09-10 16:42:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟確認，歐盟網路安全域性（ENISA）已獲得訪問“MYTHOS 5”的許可權，目前正對其進行測試。歐盟網路安全域性已獲准訪問OpenAI最新模型GPT-6 Astra。"
+    },
+    {
+      "id": "5086897",
+      "time": "2026-09-10 16:41:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "證監會核准睿量資產管理（香港）有限公司（RL Asset Management (HK) Limited）合格境外投資者資格。"
+    },
+    {
+      "id": "5086896",
+      "time": "2026-09-10 16:41:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，帕尼帕特煉油廠產能750萬噸/年的原油裝置已在歷經35天的停廠檢修後重啟。"
+    },
+    {
+      "id": "5086895",
+      "time": "2026-09-10 16:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仙壇股份：8月雞肉產品銷售收入5.48億元 同比增6.15%】仙壇股份公告稱，2026年8月實現雞肉產品銷售收入5.48億元，銷售數量6.25萬噸，同比分別增長6.15%、4.20%，環比分別增長1.28%、3.00%。其中，家禽飼養加工行業雞肉產品銷售收入4.48億元，銷售數量5.57萬噸，同比分別下降3.51%、0.73%；食品加工行業雞肉產品銷售收入1.00億元，銷售數量0.68萬噸，同比分別增長92.34%、75.79%。食品加工板塊增長主要系調理品產能逐步釋放。"
+    },
+    {
+      "id": "5086894",
+      "time": "2026-09-10 16:40:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華福證券總裁蔣松榮：“三投聯動”是賦能科創發展與券商轉型的時代課題】9月10日，由證券時報社主辦的“2026金融機構年會暨證券業投資銀行論壇”在深圳舉行。華福證券總裁蔣松榮在主題演講中表示，在科創驅動產業升級、資本市場創新發展的時代背景下，“三投聯動”成為證券行業共同關注的命題。在蔣松榮看來，券商的投研、投資、投行三大業務牌照，具備覆蓋企業全生命週期的服務優勢，使“三投聯動”成為賦能科創產業發展、推動自身轉型破局的重要路徑。蔣松榮表示，第一，科創企業在中早期更需要股權資本支援，傳統金融服務與中小科創企業的適配性不足；第二，券商依託投研、投資、投行協同聯動，將“單點業務合作”升級為“全週期服務”，深度服務科創企業發展；第三，賦能科創企業發展，還需要在考核機制、同業協同、產業賦能等方面下大力氣，做有耐心、有溫度、有專業度的資本夥伴。（證券時報）"
+    },
+    {
+      "id": "te:economy:582701",
+      "time": "2026-09-10 16:40:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Slovenia Industrial Production Picks Up in July — Industrial production in Slovenia rose 2% year-on-year in July 2026, accelerating from 1.7% in the previous month. Activity expanded in manufacturing, rising 4.5% following a 2.5% increase in the prior month. Still, mining output plunged 29.4%, although at a slower pace than the 48.5% decline in June, while activity in utilities' supply reversed, falling 13.9% after a 5.1% increase. By product types, investments products rose 15.7%, accelerating from a 6.9% increase, while consumer product output rebounded (3.9% vs -3.9%), reflecting higher production of both durable (4.3% vs -4.7%) and non-durable (3.4% vs -3.7%) consumer goods. In contrast, production of energy products plunged 16.5%, while raw material output fell 1.4%. On a monthly basis, industrial production rose 1.4%, rebounding from a 2% drop in the prior month."
+    },
+    {
+      "id": "5086893",
+      "time": "2026-09-10 16:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小熊電器：股東景行振興泰牛1號私募質押30萬股】小熊電器公告稱，公司股東景行振興泰牛1號私募證券投資基金本次質押股份30萬股，本次質押前其質押股份數量為300萬股，質押後為330萬股，佔其所持股份比例為22.87%，佔公司總股本比例為2.12%。該股東合計持股1443.17萬股，持股比例9.26%。本次質押股份不存在負擔重大資產重組等業績補償義務，已質押股份及未質押股份均無限售和凍結、標記情況。"
+    },
+    {
+      "id": "5086892",
+      "time": "2026-09-10 16:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新天綠能：8月輸售氣量同比降21.96%】新天綠能公告稱，2026年8月公司及子公司按合併報表口徑完成輸/售氣量26202.51萬立方米，同比減少21.96%；其中售氣量21377.84萬立方米，同比減少25.49%，代輸氣量4824.67萬立方米，同比減少1.28%。截至2026年8月31日，累計完成輸/售氣量276794.30萬立方米，同比減少21.46%；其中售氣量243027.95萬立方米，同比減少23.85%，代輸氣量33766.35萬立方米，同比增加1.46%。"
+    },
+    {
+      "id": "5086891",
+      "time": "2026-09-10 16:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝再襲沙特多地 沙特主導聯軍稱將回應】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基9日說，葉門胡塞武裝當天使用彈道導彈和無人機對沙特多地發動襲擊。馬利基在社交媒體上發表宣告說，此次遭襲城市包括海米斯穆謝特、艾卜哈、賈贊等地。宣告譴責葉門胡塞武裝持續針對沙特國家資產和基礎設施發動“惡劣襲擊”，表示多國聯軍將作出回應。此前一天，多國聯軍發表宣告稱，葉門胡塞武裝當天對沙特艾卜哈、賈贊、奈季蘭等城市的民用和經濟設施發動襲擊，造成包括婦女和兒童在內的73名平民受傷。（新華社）"
+    },
+    {
+      "id": "5086890",
+      "time": "2026-09-10 16:38:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海市市場監督管理局：“營商夥伴計劃”促成合作意向71個，涉及意向金額約4.06億元】9月10日，上海市市場監督管理局舉行“共營・共贏營商夥伴計劃”新聞通氣會，向社會集中通報該計劃啟動以來的整體推進情況、先行實踐成果與下一階段工作部署。這項計劃是上海市場監管部門推動監管職能向“服務+發展”深度轉型的重要改革舉措，旨在以產業鏈協同賦能新質生產力發展，為上海“2+3+6+6”現代化產業體系提供製度支撐。目前“夥伴計劃”已在全市鋪開，各區立足產業稟賦打造特色方案，先行先試成效初步顯現。截至目前，全市已有13個區啟動了16個產業鏈“營商夥伴計劃”，1455家企業參與“產業生態聯盟”，受聘96名產業聯絡官，完成聯絡對接事項284項，舉辦伙伴開放日活動48次，參與企業2448家，召開企業圓桌會57次，參與企業1143家，收集企業反映的問題259個，已解決問題240個，另外19個問題正在推進解決中。此外，透過“營商夥伴計劃”促成合作意向71個，涉及意向金額（據不完全統計）4.06億元，以“政企產”三位一體“共營”的產業營商環境促成“共贏”的產業發展局面正在加速形成。（上海市場監管）"
+    },
+    {
+      "id": "5086889",
+      "time": "2026-09-10 16:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 富士膠片商業創新預計 2029 年 10 月前後上市。"
+    },
+    {
+      "id": "5086888",
+      "time": "2026-09-10 16:36:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<程式碼:RYA.I>執行長表示：如果燃油價格持續維持當前高位，未來一兩年市場上將出現大量閒置飛機。"
+    },
+    {
+      "id": "5086887",
+      "time": "2026-09-10 16:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯成股份：2026年上半年營收同比下降33.94%】匯成股份公告稱，2026年上半年公司主營業務收入同比下降33.94%，歸屬於上市公司股東淨利潤同比下降63.13%，經營業績存在一定波動。保薦機構已提請公司管理層關注業績及主要財務指標變動情況，推動採取應對措施改善。公司於2026年9月7日聘請興業證券擔任2026年度向特定物件發行股票的保薦機構，原保薦機構未完成的持續督導工作由興業證券承接。"
+    },
+    {
+      "id": "5086886",
+      "time": "2026-09-10 16:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二十三屆中國住博會將於10月15日至17日在京舉辦】第二十三屆中國國際住宅產業暨建築工業化產品與裝置博覽會將於今年10月15日至10月17日在北京首鋼國際會展中心舉辦，主題為“科技創新好房子 綠色低碳好生活”。據悉，第二十三屆中國住博會參展單位覆蓋開發、設計、施工、運維，以及材料和裝置設施等多個領域的頭部企業，將展示住房城鄉建設領域科技創新頂級成果，以及國內外最新技術和產品。展會將秉持行業科技前沿引導、產業創新全面帶動、技術產品精品薈萃的辦展理念，持續打造住建領域科技與產業發展最高水平的交流展示平臺。（新華社）"
+    },
+    {
+      "id": "5086885",
+      "time": "2026-09-10 16:36:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：累計回購124.15萬股，價格26.5元/股~28.8元/股，支付3390.19萬元】中研股份公告，公司此前擬以5000萬元~1億元回購股份，回購價格不超過48.94元/股，用於維護公司價值及股東權益。截至2026年9月9日，公司已累計回購股份124.15萬股，佔總股本的1.02%，成交價格區間為26.5元/股~28.8元/股，已支付總金額3390.19萬元。"
+    },
+    {
+      "id": "5086884",
+      "time": "2026-09-10 16:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "芯智控股：2026年8月核心業務收入為2810萬港元。"
+    },
+    {
+      "id": "5086883",
+      "time": "2026-09-10 16:35:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空執行長：如果無法在2030年前為勞達航空（Lauda）機隊引進新的空客飛機，我們將不得不改用波音飛機進行替換。"
+    },
+    {
+      "id": "5086882",
+      "time": "2026-09-10 16:34:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普跌】Lumentum跌0.49%，康寧跌0.57%，Coherent跌0.49%，應用光電跌0.62%，Ciena漲0.18%，博通跌0.40%，邁威爾科技跌0.49%。"
+    },
+    {
+      "id": "5086881",
+      "time": "2026-09-10 16:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<RYA.I>執行長：與空中客車建立合作關係符合我們的戰略利益。"
+    },
+    {
+      "id": "5086880",
+      "time": "2026-09-10 16:34:14",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【小摩：國有內銀派息比率有提升空間，首選中行及建行】摩根大通預期國有銀行未來兩年將實現中高單位數的收入增長，以及穩定至放緩的貸款增長；相對10年期國債，目前國有銀行H股股息息差平均約200個基點、A股約224個基點，均接近其10年均值216/229個基點，因此料派息比率仍有進一步提升的空間。該行重申對覆蓋範圍內所有國有銀行的“增持”評級，其中中國銀行及建設銀行為首選。"
+    },
+    {
+      "id": "5086879",
+      "time": "2026-09-10 16:33:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港交易所檔案顯示，滙豐控股9月9日在其他交易所合計回購1萬股股份，耗資154764.75英鎊。"
+    },
+    {
+      "id": "5086878",
+      "time": "2026-09-10 16:33:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海泰新光：普奧達、傑萊特完成減持215.78萬股，佔1.80%】海泰新光公告，實際控制人的一致行動人普奧達、傑萊特於2026年6月23日至2026年9月10日透過集中競價和大宗交易方式合計減持公司股份215.78萬股，佔公司總股本的1.80%，減持計劃實施完畢。其中，普奧達減持183.93萬股，佔1.5343%；傑萊特減持31.85萬股，佔0.2657%。截止減持後，普奧達、傑萊特持股比例分別為11.2188%、0.7971%。"
+    },
+    {
+      "id": "5086877",
+      "time": "2026-09-10 16:33:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<RYA.I>執行長：我們希望用新的空客飛機擴大勞達航空機隊；但目前空客訂單已滿。"
+    },
+    {
+      "id": "5086876",
+      "time": "2026-09-10 16:33:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港交易所一位前副總裁被香港廉政公署起訴。"
+    },
+    {
+      "id": "5086874",
+      "time": "2026-09-10 16:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港置地本財年基礎利潤 228.5 億港元，市場預期 232.4 億港元。"
+    },
+    {
+      "id": "5086873",
+      "time": "2026-09-10 16:32:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲維股份：重大資產重組仍在推進 尚未簽署正式協議】雲維股份公告稱，公司正在推進發行股份及支付現金購買資產暨關聯交易的重大資產重組事項，此前因交易相關方需就交易條款等進一步決策，無法在首次董事會決議公告後6個月內發出股東大會通知，已多次披露進展公告。截至目前，交易各方尚未簽署正式交易協議，本次交易尚需履行必要內部決策程式並經有權監管機構批准後方可實施，最終能否實施存在重大不確定性。"
+    },
+    {
+      "id": "5086872",
+      "time": "2026-09-10 16:32:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破102美元/桶，日內漲0.82%。"
+    },
+    {
+      "id": "5086871",
+      "time": "2026-09-10 16:32:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石化油服：擬收購墨西哥DS公司50%股權暨追加投資】石化油服公告稱，公司下屬國工公司及國工墨西哥子公司擬以400萬美元收購墨西哥DS公司50%股權及CEE項下EBANO專案0.01%權益，收購完成後將間接持有EBANO專案55%權益，墨西哥DS公司將納入合併報表範圍。公司擬向EBANO專案提供總額不超過2.12億美元的追加投資。本次交易尚需公司股東會及境內外相關部門批准，存在審批交割、匯率波動、跨境運營等風險。同時公司擬調整為全資子公司和合營公司提供的擔保額度。"
+    },
+    {
+      "id": "5086870",
+      "time": "2026-09-10 16:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上市僅一年的特斯拉Model Y L頻現車尾下沉，換彈簧後問題仍存】上市一年的特斯拉Model Y L，正集中收到部分車主關於車尾下沉的投訴。多位車主反映，車輛後輪與輪眉之間的間隙逐漸縮小，從剛提車時伸入四指有餘，到“差不多隻有三指”，甚至“伸入二指都勉強”。部分車輛同時出現減震變硬、透過坑窪路面容易觸底、車身左右晃動或跑偏等情況。特斯拉服務中心為部分車輛更換了後懸架彈簧。部分車主向介面新聞表示，維修後車輛的行駛表現有所改善，但也有車主在換用售後所稱的改進型彈簧數月後，再次發現車尾下沉。（介面）"
+    },
+    {
+      "id": "5086869",
+      "time": "2026-09-10 16:32:16",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局：將就美團收購北京麥芽田網路科技有限公司股權事項進行公開聽證】國家市場監督管理總局定於2026年9月18日9時在國家市場監督管理總局四層雲飛揚廳舉行聽證會，對美團收購北京麥芽田網路科技有限公司股權案附條件承諾方案是否能有效解決競爭關注一事進行公開聽證。"
+    },
+    {
+      "id": "5086868",
+      "time": "2026-09-10 16:31:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大眾汽車估計裁員和工廠關閉的成本為160億歐元。"
+    },
+    {
+      "id": "5086867",
+      "time": "2026-09-10 16:31:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【當升科技：公司已具備新型硫化物固態電解質規模化供應能力】9月10日下午，當升科技在2026年半年度業績說明會上表示，公司固態電解質開發進展順利，產品持續迭代開發，新型硫化物固態電解質具有超高離子電導率、高空氣穩定性等特點，已具備規模化供應能力，多款新型固態電解質產品已透過頭部客戶驗證並實現小批次應用。此外，公司固態電解質材料產業化專案正常推進中，將根據市場發展趨勢、客戶需求分階段實施。"
+    },
+    {
+      "id": "5086866",
+      "time": "2026-09-10 16:31:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文遠知行獲西班牙首張L4級自動駕駛乘用車運營牌照】9月10日，文遠知行WeRide與國際出行服務巨頭Uber、Moove Cars集團旗下自動駕駛業務部門AVOMO聯合宣佈，在馬德里政府的支援下，三方正式獲得西班牙交通總局（DGT）依據ES-AV框架頒發的西班牙首張L4級自動駕駛乘用車運營牌照，獲准在公共道路開展車輛部署。這標誌著西班牙首次在國家層面為L4級Robotaxi開放准入，也為歐洲自動駕駛商業化樹立了新的監管標杆。西班牙首個商業化Robotaxi服務邁過關鍵監管門檻，進入上線衝刺階段。"
+    },
+    {
+      "id": "5086865",
+      "time": "2026-09-10 16:30:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【依託自研大模型 美圖秀秀全新上線AI助手】美圖秀秀全新上線AI助手功能。據介紹，AI助手是一個修圖Agent，本次更新依託美圖自研大模型，以自然語言為核心互動入口，使用者可直接體驗“所說即所得”的智慧修圖流程。（新浪科技）"
+    },
+    {
+      "id": "5086864",
+      "time": "2026-09-10 16:30:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元9月10日16:30收盤報6.7062，較上一交易日上漲17點。"
+    },
+    {
+      "id": "5086863",
+      "time": "2026-09-10 16:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "極氪：極氪獵裝8月全球交付持續破萬，累計銷量超40萬。"
+    },
+    {
+      "id": "5086862",
+      "time": "2026-09-10 16:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高獎勵500萬元，北京市朝陽區釋出2026年度文商旅體展扶持政策】據“北京朝陽”微信公眾號訊息，近日，2026年度《北京市朝陽區關於進一步促進文商旅體展融合發展擴大消費的若干扶持措施》釋出，圍繞“聚流量、強融合、國際化”三大方向，推出八項具體舉措，覆蓋演藝、文博、賽事、會展、入境消費、傳播推廣、融合創新及重大專案等領域。 新版扶持政策全方位覆蓋文商旅體展各業態，進一步豐富城市消費場景，以更大力度啟用城市消費新動能。 演藝經濟方面，朝陽區繼續支援大型演唱會、音樂節及精品演出，對國際知名、國內一流演藝活動給予分梯次資金獎勵。 文博藝術領域，對年度售票達3萬人次及以上的優質展覽提供專項支援。 賽事動能方面，支援重大體育賽事，根據觀賽規模和參賽人數，對非職業聯賽給予相應獎勵，實現以賽興城、以賽促旅。 會展方面，會展能級提升成為亮點。對首次在朝陽區舉辦的世界商展100強或UFI認證展會專案，根據首次落地層級（北京首展或境內首展）給予不同檔次資金支援。 入境消費方面，為助力入境消費擴容，對組織境外遊客在朝陽區住宿的旅行社、接待入境過夜遊客的住宿企業，以及推廣朝陽區酒店產品的線上旅遊平臺，均按年度業績排名給予獎勵。"
+    },
+    {
+      "id": "5086861",
+      "time": "2026-09-10 16:30:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗姿股份：控股股東部分股份解除質押及質押展期】朗姿股份公告稱，公司近日接到控股股東、實際控制人申東日函告，獲悉其所持公司部分股份解除質押、部分股份質押展期。本次質押展期後，申東日持有公司股份2.12億股，佔公司總股本47.82%；質押股份數量為6084萬股，佔其所持股份比例28.76%，佔公司總股本比例13.75%。公司實際控制人及其一致行動人不存在股份凍結、標記情況，質押股份不存在平倉風險或被強制過戶風險，本次事項不會導致公司實際控制權發生變更。"
+    },
+    {
+      "id": "5086860",
+      "time": "2026-09-10 16:29:46",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【全國人大常委會將推進位制定備案審查專門法律】記者從日前在廣東省廣州市舉行的2026年部分地方備案審查工作座談會暨備案審查工作培訓班獲悉，全國人大常委會將按照2026年度立法工作計劃安排，深入研究論證制定備案審查專門法律，統籌研究透過立法將人大、政府、監委、法院、檢察院等有關方面的備案審查制度整合起來，構建統一協調、覆蓋全面的制度體系。（新華社）"
+    },
+    {
+      "id": "5086859",
+      "time": "2026-09-10 16:29:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅能化：2026年9月10日發行股份購買資產獲原則同意】甘肅能化公告，公司此前於2026年9月1日審議透過發行股份購買資產暨關聯交易相關議案；2026年9月10日收到控股股東甘肅能源化工投資集團有限公司批覆，原則同意總體方案。相關事項尚需公司股東會審議透過、深圳證券交易所稽核透過及中國證券監督管理委員會同意註冊後方可實施。"
+    },
+    {
+      "id": "5086858",
+      "time": "2026-09-10 16:29:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州規劃：終止重大資產重組相關主體股票買賣核查完成】蘇州規劃公告稱，公司就終止發行股份及支付現金購買資產並募集配套資金事項，披露相關主體買賣股票情況的專項核查意見。自查期間為2025年11月7日至2026年8月28日，核查範圍內4名自然人存在買賣公司股票行為，相關主體均承諾交易繫個人獨立投資決策、不涉及內幕交易，若被認定為違規將上繳交易收益；法人主體均無買賣股票行為。除控股股東等持有的2594.01萬股首發前限售股於2026年7月17日解禁外，無其他買賣情形。律師核查認為上述買賣行為不構成內幕交易。"
+    },
+    {
+      "id": "5086857",
+      "time": "2026-09-10 16:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【里昂：蘋果iPhone Duo首年銷量若達2000萬部，料每股盈利升約5%】里昂發表報告指，蘋果推出可摺疊iPhone Duo，512GB版本售價2199美元，接近該行先前假設；若首年銷售2000萬部，可帶動每股盈利提升約5%，主要來自定價。報告指，Duo入門價為1999美元(256GB版本)，較Android可摺疊機平均售價1100至1300美元有顯著溢價，料512GB版本或最暢銷。該行對2027財年iPhone出貨量預測為2.75億部，假設可摺疊機出貨2000萬部、並有75%蠶食普通iPhone，則2027財年每股盈利可提升5%。該行認為高階市場仍然健康，可摺疊機帶來新穎形態，加上新Siri AI具潛力，並相信蘋果有能力抵禦或緩解成本壓力，對股份維持正面，維持“跑贏大市”評級及目標價355美元。"
+    },
+    {
+      "id": "5086856",
+      "time": "2026-09-10 16:29:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST湘郵：副總裁王林波因個人原因辭職】*ST湘郵9月10日公告，公司董事會於2026年9月9日收到公司副總裁王林波提交的書面辭職報告。王林波因個人原因，申請辭去其所擔任的公司副總裁職務，辭職后王林波將不再擔任公司任何職務。根據《公司法》及《公司章程》等相關規定，王林波的書面辭職報告自送達公司董事會之日起生效。"
+    },
+    {
+      "id": "te:markets:582698",
+      "time": "2026-09-10 16:25:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Methanol Hits Near 5-year High — Methanol increased to 3900.00 CNY/T, the highest since October 2021. Over the past 4 weeks, Methanol gained 34.93%, and in the last 12 months, it increased 50.6%."
+    },
+    {
+      "id": "te:economy:582696",
+      "time": "2026-09-10 16:19:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Namibia Inflation Rate Quickens 2-1/2-Year High of 5% — Namibia’s annual inflation rate climbed to 5% in August 2026, the highest since February 2024, accelerating from 4.4% in each of the previous two months. The pickup was driven mainly by a sharp increase in transportation costs, with inflation in the category jumping to 13.2% from 9.3% in July, owing to fuels (25.1% vs 15.5%). Significant price pressures also came from hotels, cafés and restaurants (6.2% vs 6.2%); health (5% vs 4.8%); food & non-alcoholic beverages (4% vs 3.7%) and housing & utlities (4.3% vs 4.8%). By contrast, prices fell further for communication (-1.1% vs -1%). On a monthly basis, the CPI rose by 0.6%, after a 0.1% increase in the prior month."
+    },
+    {
+      "id": "te:economy:582695",
+      "time": "2026-09-10 16:16:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "Italy Industrial Output Rebounds More than Expected — Italy’s industrial production rose 0.7% month-on-month in July 2026, rebounding from a revised 1.1% drop in June and beating market forecasts for a 0.3% gain. Output rebounded for consumer goods (2.1% vs -0.5% in June), intermediate goods (0.5% vs -0.8%), and capital goods (0.2% vs -2.0%). Meanwhile, energy production fell 0.9%, reversing a 0.2% increase in the previous month. On a yearly basis, industrial output was unchanged, following a 0.6% fall in June and outperforming market expectations for a 0.6% drop. Energy production rose sharply (6.4% vs 0.9%), while smaller declines were seen in intermediate goods (-0.8% vs -1%) and consumer goods (-1.2% vs -3.2%). Capital goods edged down 0.1%, following a 0.8% increase previously. Among sectors, the energy sector recorded the strongest annual increase, rising 7.6%, followed closely by the production of basic pharmaceutical products and pharmaceutical preparations, which increased 7.4%."
+    },
+    {
+      "id": "te:economy:582694",
+      "time": "2026-09-10 16:14:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Construction Output Moderates in July — Construction output in Bulgaria rose 4.9% year-on-year in July 2026, following an upwardly revised 5.6% gain in the previous month. Growth moderated across most segments, notably in building construction (9.5% vs 10.8% in June) and specialized construction activities (-0.2% vs 0.7%). In contrast, civil engineering growth accelerated to 5.0% from 4.4% in the previous. On a seasonally adjusted monthly basis, construction output declined 0.6% from 1.7% rise in the previous month, with declines across all segments. The monthly contraction was driven by declines in building construction (-0.4% vs 1.5%), civil engineering (-0.5% vs 0.0%), and specialized construction activities (-0.8% vs 3.1%)."
+    },
+    {
+      "id": "te:markets:582692",
+      "time": "2026-09-10 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Falls by 1.45% — Top commodity losers are Palm Oil (-1.45%), Oat (-1%) and Canola (-0.83%). Gains are led by Sugar (0.77%) and Rice (0.71%)."
+    },
+    {
+      "id": "te:markets:582690",
+      "time": "2026-09-10 16:05:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 1.99% — Top commodity losers are Platinum (-1.99%), Silicon (-1.36%) and Iron Ore CNY (-1.02%). Gains are led by Gold (0.21%)."
+    },
+    {
+      "id": "te:economy:582687",
+      "time": "2026-09-10 16:00:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Moldova Inflation Rate Hits 9-Month High — The annual inflation rate in Moldova rose to 7.0% in August 2026 from 6.3% in the previous month, marking the highest level since November 2025. Prices of non-food products accelerated (8.2% vs 6.6% in July), driven by strong increases in fuels and motor fuels, footwear, clothing, construction materials, and medicines. At the same time, price growth in services rose further (8.1% vs 7.4%), supported by increases in passenger transport, regulated tariffs for electricity supply, drinking water supply and sewage services, and public catering. Meanwhile, inflation for food products moderated to 4.7% from 5.2%, despite notable increases in eggs, wheat flour and bread, milk and dairy products, vegetables, vegetable oil, fruits, and meat, meat preparations and canned goods. On a monthly basis, consumer prices edged up 0.2% in August, rebounding from a 0.1% decline in the prior month."
+    },
+    {
+      "id": "te:markets:582686",
+      "time": "2026-09-10 16:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 1.39% — Top commodity losers are Heating Oil (-1.39%) and Natural gas (-1.09%). Gains are led by Natural Gas EU (0.51%) and Crude Oil (0.16%). Meanwhile Brent Oil was little changed."
+    },
+    {
+      "id": "te:markets:582685",
+      "time": "2026-09-10 15:56:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Hits Fresh July Lows Ahead of ECB Rate Decision — Frankfurt’s DAX 40 index edged lower to 25,510 points on Thursday, touching its lowest level since late July, as oil prices continued to rise and investors awaited the European Central Bank’s policy decision later in the day. Markets have fully priced in a 25-basis-point interest-rate hike, which would mark the ECB’s second increase this year and lift the key deposit rate to 2.50%. With the move largely anticipated, investors are instead focusing on the ECB’s updated economic forecasts and President Christine Lagarde’s press conference for further clues on the future path of monetary policy. Markets currently expect two rate hikes this year, with the deposit rate projected to reach around 3.1% by late 2027. Among individual stocks, RWE (+1.7%), Porsche AG (+1.0%), DHL (+0.8%) and MTU Aero Engines (+0.4%) gained following positive comments from US investment bank JPMorgan."
+    },
+    {
+      "id": "te:markets:582684",
+      "time": "2026-09-10 15:56:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises Ahead of ECB Decision — The FTSE MIB rose to around 52,000 on Thursday, recouping losses from the previous session, as markets focused on the ECB’s monetary policy decision later in the day. The central bank is widely expected to raise rates by 25bps, with attention turning to ECB President Christine Lagarde’s guidance on the policy outlook. Markets will particularly watch for signals on whether further rate hikes may be warranted as rising oil prices add to inflationary pressures. Utility stocks outperformed as European gas prices remained around a three-year high. Snam rose nearly 2%, while its peers Enel, Italgas, Terna, A2A and Hera rose between 0.2% and 1.3%. Financial stocks were also mostly in the green, including UniCredit (+0.6%), Intesa Sanpaolo (+0.9%), Unipol Gruppo (+0.6%), Banca Mediolanum (+0.7%), and MPS (+0.9%)."
+    },
+    {
+      "id": "te:markets:582682",
+      "time": "2026-09-10 15:50:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound Before ECB Decision — The CAC 40 rose 0.3% to 8,179 on Thursday, rebounding from a near three-month low in the previous session as investors awaited the European Central Bank's interest rate decision later in the day. While the ECB is widely expected to deliver a 25 bps rate hike, investors remain focused on policymakers' guidance regarding the future path of monetary policy. Risk sentiment also remained fragile as oil prices stayed elevated after Iran signaled its readiness for a more intense conflict, while US President Donald Trump said the war was unlikely to end before the November midterm elections. Among individual stocks, L'Oréal (-0.3%), Dassault Systèmes (-1.1%), and Pernod Ricard (-1.0%) were among the biggest drags on the index. In contrast, TotalEnergies gained 0.6%, reaching its highest level since May, as higher crude prices continued to support energy shares."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870541676",
+      "time": "2026-09-10 15:48:52",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行陸磊：央行將完善存款準備金制度 更加靈活精準開展公開市場操作】9月10日，在國新辦新聞釋出會上，中國人民銀行副行長陸磊表示，“十五五”時期，人民銀行將持續健全基礎貨幣投放機制，完善存款準備金制度，更加靈活精準開展公開市場操作，不斷健全市場化利率形成、調控和傳導機制，增強政策利率引導作用，引導短端貨幣市場利率圍繞政策利率更加平穩執行。"
+    },
+    {
+      "id": "te:markets:582679",
+      "time": "2026-09-10 15:46:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Trades at 7-Week Low — The FTSE 100 hovered around the flatline on Thursday, remaining near seven-week lows, while oil prices were broadly steady, with Brent crude still above $100 a barrel as Iran warned it was prepared for a more intense conflict. Associated British Foods was the standout decliner, falling more than 9% after the Primark owner reported weaker-than-expected sales and announced plans to fully demerge the discount clothing retailer from the group by December 2027. The move highlights the increasingly disparate nature of AB Foods’ businesses. Elsewhere, Unilever fell 0.5%, Rio Tinto declined 1% and Glencore lost 0.5%, while Rolls-Royce and GSK also traded lower. Energy stocks provided some support, with BP gaining 0.5% and Shell edging higher. Meanwhile, investors were focused on the European Central Bank, which was expected to deliver another 25-basis-point interest-rate hike later in the day."
+    },
+    {
+      "id": "te:markets:582678",
+      "time": "2026-09-10 15:46:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Extends Gains — Nickel traded around $16,850 per tonne, extending gains from the previous session and tracking broader strength across industrial metals. Copper prices remained near fresh record highs, reinforcing the continued strength seen across the industrial metals sector. Battery-sector demand also showed signs of improvement, with recycled nickel sulphate production rising nearly 6% month-on-month in August, driven by stronger ternary cathode precursor demand and a relatively high share of high-nickel products. Meanwhile, elevated nickel inventories and subdued stainless steel demand continued to cap the upside, keeping gains in check despite the broader recovery across metals. Rising rate-hike expectations also weighed on dollar-priced commodities."
+    },
+    {
+      "id": "te:markets:582676",
+      "time": "2026-09-10 15:42:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Edge Up, ECB Awaited — European stocks edged higher on Thursday, with the STOXX 600 gaining around 0.2% and the STOXX 50 also up 0.2%, following losses of more than 1% in the previous session. Investors await the ECB’s monetary policy decision later in the day, with markets widely expecting a 25bps rate hike. The focus will be on ECB President Christine Lagarde’s guidance on the policy outlook, particularly whether policymakers signal that further rate increases could be needed as inflationary pressures intensify. Surging energy prices have complicated the outlook, with Brent crude trading above $101 a barrel. Banking stocks were among the stronger performers, with Societe Generale rising around 1.6%, Deutsche Bank gaining 1.3% and Banco Santander adding 0.7%. In contrast, the tech sector was under pressure, with ASML losing 1.1%. SAP was among the biggest decliners, falling around 3%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870534919",
+      "time": "2026-09-10 15:36:47",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：提升貨幣政策的溝通和預期管理水平】中國人民銀行副行長陸磊9月10日在國新辦“開局起步‘十五五’”系列主題新聞釋出會上表示，要構建科學穩健的貨幣政策體系和覆蓋全面的宏觀審慎管理體系，做好逆週期和跨週期調節，保持好社會融資規模、貨幣供應量增長同經濟增長和價格總水平預期目標相匹配。“為此，要健全市場化利率形成、調控和傳導機制，發揮市場在匯率形成中的決定性作用，增強人民幣匯率彈性，保持人民幣匯率在合理均衡水平上的基本穩定。”他說。"
+    },
+    {
+      "id": "te:economy:582668",
+      "time": "2026-09-10 15:33:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Slovakia Construction Output Accelerates in July — Slovakia’s construction output rose by 2.3% year-on-year in July 2026, accelerating from a five-month low of a 1.0% increase in the previous month. While it remained the second-slowest growth rate recorded this year, construction output reached almost EUR 805 million, exceeding EUR 800 million for the first time this year, largely driven by stronger domestic activity (4.7% vs 1.1% in June), with increased output for new construction (4.9% vs 2.8%) and repair and maintenance work (5.0% vs -1.6%). By type of construction, building activity increased 6.5% (vs 2.7%), while civil engineering output rose 1.1% (-1.9%). Meanwhile, construction output abroad fell 13.5% (vs -0.1%), marking the third-largest decline this year and significantly limiting the overall growth in the sector. On a seasonally adjusted monthly basis, construction output increased 1.9% in July. In the first seven months of 2026, construction activity increased 8.2% compared with the same period a year earlier."
+    },
+    {
+      "id": "te:markets:582666",
+      "time": "2026-09-10 15:32:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.02% Lower — The FTSE 100 Index is losing 2 points. Losses were led by Associated British Foods (-8.32%), Pearson (-2.61%) and Endeavour (-2.37%). Offsetting the fall, top gainers were Whitbread (2.16%), Aberdeen Group (1.77%) and ICG (1.30%)."
+    },
+    {
+      "id": "te:markets:582663",
+      "time": "2026-09-10 15:31:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.06% Higher — The DAX Index is up by 15 points or 0.06 percent on Thursday. Top gainers are RWE (1.99%), Fresenius (1.23%) and Munich RE (1.17%). Biggest losses came from SAP (-2.62%), Adidas (-1.88%) and Bayer (-1.06%)."
+    },
+    {
+      "id": "te:markets:582661",
+      "time": "2026-09-10 15:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.27% Higher — The CAC 40 Index is gaining 22 points or 0.27 percent on Thursday. Leading the gains are Edenred (1.71%), Orange (1.69%) and Societe Generale (1.44%). Top losers are Pernod Ricard (-1.17%), ArcelorMittal (-1.10%) and Dassault Systemes (-0.92%)."
+    },
+    {
+      "id": "te:economy:582660",
+      "time": "2026-09-10 15:29:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Austria Industrial Output Falls to Lowest Since 2024 — Austria’s industrial production fell by 1.1% year-on-year in July 2026, following flat readings in the previous two months. This marked the lowest reading since December 2024, as growth slowed sharply in the construction sector (0.5% vs 5.6% in June). Moreover, production declined further in the industrial sector (-1.6% vs -1.5%). Among the main industrial groupings, activity moderated in consumer durables (11.4% vs 12.4%), while production fell at a faster pace for consumer non-durables (-16.3% vs -7.0%). Capital goods also fell to 0.6% from a 0.1% gain. In contrast, the decline in energy production slowed (-4.2% vs -4.6%), while production increased in intermediate goods (5.8% vs 0.5%). On a seasonally adjusted monthly basis, industrial output dropped by 0.2% in July, following a 0.5% growth in the preceding period."
+    },
+    {
+      "id": "te:economy:582656",
+      "time": "2026-09-10 15:22:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Inflation Expected to Accelerate — US producer prices are expected to rise 0.4% month-over-month in August 2026, marking the strongest increase in three months after remaining unchanged in July, signalling a renewed acceleration in producer-level inflation. Core producer prices, which exclude the more volatile food and energy components, are forecast to rise 0.3% mom, accelerating from the 0.2% increase recorded in July. On an annual basis, headline PPI inflation is expected to accelerate to 5.3%, up from 4.7% in July, while core producer inflation is projected to increase to 4.6% from 4.2%."
+    },
+    {
+      "id": "te:economy:582655",
+      "time": "2026-09-10 15:18:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Inflation Confirmed at 3-Month High — The annual inflation rate in the Czech Republic rose to 1.9% in August 2026, confirming preliminary estimates and up from 1.7% in July. The latest reading also marked the highest inflation rate since May, mainly driven by faster price growth in transport, which accelerated to 9.6% from 6.6% in July. Within the category, fuels and lubricants surged 26.2% year-on-year (vs 16.8%), with average diesel prices reaching their highest level since October 2022. Housing inflation also remained elevated at 5.4%, with rents rising 6.1% and prices for materials and services for minor repairs and maintenance increasing 5.4%. Meanwhile, food and non-alcoholic beverages recorded deeper deflation, with prices falling 4.3% after a 3.1% decline in the previous month. Additionally, electricity prices fell 11.2% and natural gas 4.8%. On a monthly basis, consumer prices grew by 0.3% in August, easing from a 0.6% gain in the preceding period."
+    },
+    {
+      "id": "te:economy:582654",
+      "time": "2026-09-10 15:17:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Industrial Production",
+        "Importance 2"
+      ],
+      "text": "Turkey Industrial Output Falls Again in July — Industrial production in Turkey fell 0.3% year-on-year in July 2026, easing from a downwardly revised 1.3% drop in June, but marking the third consecutive month of decline. Output fell further in mining and quarrying, by 3.8% following a 1.4% decline in June, while electricity, gas, steam, and air-conditioning supply decreased 5.6% after rising 1.1% previously. Offsetting these declines, manufacturing activity rebounded 0.3% (vs. -1.4%), as output recovered for the manufacture of tobacco products (1.1% vs. -2.8%), leather and related products (0.2% vs. -3.1%), computer, electronic and optical products (4.4% vs. -5.6%), and machinery and equipment (0.8% vs. -7.6%). Output growth also picked up for textiles (4.5% vs. 1.3%) and other non-metallic mineral products (4.0% vs. 1.8%). On a monthly basis, industrial production dropped 1%, following an upwardly revised 0.2% gain in June."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870519654",
+      "time": "2026-09-10 15:16:50",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行陸磊：“十五五”時期將完善金融統計、支付、國庫、現金服務體系】在國新辦新聞釋出會上，中國人民銀行副行長陸磊表示，“十五五”時期，人民銀行將全面夯實央行履職基礎，持續最佳化金融基礎設施和中央銀行服務體系，提升中央銀行金融服務質效，完善金融統計、支付、國庫、現金服務體系。"
+    },
+    {
+      "id": "te:markets:582653",
+      "time": "2026-09-10 15:16:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.43% Lower — The Shangai Composite Index dropped 17 points or 0.43 percent on Thursday to close at 3934 points. Losses were led by Jiangsu Hengrui (-4.00%), Hengli Petrochemical (-3.61%) and BAIC BluePark (-2.63%). Offsetting the fall, top gainers were Datang Intl (3.26%), Bank Of Nanjing (3.08%) and SAIC Motor (2.29%)."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870516683",
+      "time": "2026-09-10 15:14:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行陸磊：“十五五”時期將發展人民幣離岸市場 豐富離岸人民幣流動性供給】9月10日，在國新辦新聞釋出會上，中國人民銀行副行長陸磊表示，“十五五”時期，將著力以開放促改革發展，推進金融高水平對外開放。為此我們推進人民幣國際化，加強金融基礎設施跨境互聯互通，發展人民幣離岸市場，豐富離岸人民幣流動性供給。"
+    },
+    {
+      "id": "te:markets:582652",
+      "time": "2026-09-10 15:12:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 4-week Low — SAP shares decreased to 176.78 EUR, the lowest since August 2026. Over the past 4 weeks, SAP lost 1.89%, and in the last 12 months, it decreased 19.34%."
+    },
+    {
+      "id": "te:markets:582648",
+      "time": "2026-09-10 15:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "TotalEnergies SE Stock Price Hits 15-week High — TotalEnergies SE shares increased to 78.89 EUR, the highest since May 2026. Over the past 4 weeks, TotalEnergies SE gained 4.18%, and in the last 12 months, it increased 49.17%."
+    },
+    {
+      "id": "te:markets:582647",
+      "time": "2026-09-10 15:04:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Recover to End Higher — Japan’s Nikkei 225 and Topix indexes each gained 0.2% on Thursday, closing at 65,271 and 4,055, respectively, reversing earlier declines and ending a two-session losing streak. Equities found some relief as the recent surge in oil prices and global bond yields lost momentum, easing pressure on risk assets despite persistent concerns over inflation and higher interest rates. However, the Bank of Japan remains widely expected to raise borrowing costs next week, with board member Kazuyuki Masu indicating that the central bank will keep tightening policy and reduce monetary support as underlying inflation approaches its 2% target. Investors also remained focused on the yen, which climbed to its strongest level in nearly seven months, raising concerns over earnings for Japan’s export-oriented companies. Technology and banking stocks drove the recovery, led by gains in Kioxia Holdings (1.9%), Advantest (3.3%), Taiyo Yuden (4.8%), Mitsubishi UFJ (1.7%) and Sumitomo Mitsui (1.5%)."
+    },
+    {
+      "id": "te:markets:582643",
+      "time": "2026-09-10 14:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Pressured by Declining Profit Margins — Steel rebar futures traded around CNY 3,105 per ton, hovering close to two-week lows as profitability across China’s steel industry continued to deteriorate. Industry data showed that only around 30% of steelmakers were profitable as of September 4, down from 32.5% a week earlier and 61% during the same period last year. Meanwhile, China’s blast furnace utilization rate declined 0.48 percentage point week-on-week to 89.08%, while average daily pig iron production fell by 5,200 mt to 2.4028 million mt. Despite the weak fundamentals, investors expect steel consumption to improve on seasonal demand amid the peak construction period in September. In other news, China Mineral Resources Group, the country’s state-owned iron ore importer, has reportedly instructed several steel mills to avoid purchasing Rio Tinto Group’s Pilbara Blend ore."
+    },
+    {
+      "id": "te:markets:582642",
+      "time": "2026-09-10 14:49:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Moves Higher Amid Supply Worries — UK natural gas prices rose to 200 pence per therm on Thursday for the first time since the end of 2022, amid rising concerns over the region’s gas supply outlook. European gas inventories remain below historical norms as escalating attacks in the Middle East continue to disrupt LNG shipments through the Strait of Hormuz, a critical route handling roughly 20% of global gas flows, mainly from Qatar. In the latest development, Iran said it had struck more than a dozen vessels attempting to pass through the strait and warned that it would step up attacks if Washington continued strikes on its territory, heightening fears of deeper and more prolonged supply disruptions. Meanwhile, maintenance in Norway and lower Algerian flows to Italy are also limiting pipeline supplies to Europe. These supply risks come as Europe nears the end of its summer storage injection season, threatening to further intensify competition for global gas supplies during the winter."
+    },
     {
       "id": "5086557",
       "time": "2026-09-10 14:44:03",
