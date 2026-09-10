@@ -1,7 +1,140 @@
 {
-  "updated": "2026-09-11 07:47:58",
-  "count": 13598,
+  "updated": "2026-09-11 07:51:53",
+  "count": 13603,
   "items": [
+    {
+      "id": "mkt:01a08dbb-5fd5-7118-8537-0a02f213c03e",
+      "time": "2026-09-11 07:51:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Bessent rejects claims he's at odds with Fed chair Warsh, calls it \"nonsense\"】U.S. Treasury Secretary Bessent rejected claims his actions in the Treasury market conflict with Fed Chair Kevin Warsh, calling the characterization \"nonsense.\" Warsh said in July markets should price without Fed policy guidance, adding market participants are learning to focus on the game itself rather than the referee. Bessent said investors have not demanded an extra risk premium for long-term Treasuries and dismissed related concerns as \"unfounded noise.\" Since the U.S. began military action against Iran, investors have pushed Treasury yields higher: the 10-year yield was below 4% on Feb. 28, the day before the U.S.'s first strike, and rose to 4.96% by Thursday evening, while the 30-year yield sits near its highest level since 2007."
+    },
+    {
+      "id": "5088403",
+      "time": "2026-09-11 07:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普暗示選舉可能限制伊朗局勢升級】美國總統唐納德·特朗普表示，即將到來的選舉可能會影響美國是否“全面”介入伊朗，同時他堅稱對這場衝突沒有遺憾。特朗普還聲稱美國控制著霍爾木茲海峽，並表示美軍在一夜之間摧毀了那裡的22艘船隻。"
+    },
+    {
+      "id": "mkt:01a08dba-fa34-7118-8537-03177032c159",
+      "time": "2026-09-11 07:50:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan Q3 BSI for large manufacturers 7.6, prior -1.8."
+    },
+    {
+      "id": "5088402",
+      "time": "2026-09-11 07:50:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國10年期國債期貨跌至2022年10月以來的最低水平。"
+    },
+    {
+      "id": "mkt:01a08dba-d644-7118-8536-fd2ba2a0af36",
+      "time": "2026-09-11 07:50:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | BSI On Large Enterprises Business Conditions (Manufacturing) (Q3) | actual 7.6 | previous -1.8"
+    },
+    {
+      "id": "5088401",
+      "time": "2026-09-11 07:50:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月生產者價格環比下降0.2%; 預估為0%；日本8月生產者價格同比增長7.6%; 預估為+7.4%。"
+    },
+    {
+      "id": "mkt:01a08dba-a380-7118-8536-f6a9a8b211c0",
+      "time": "2026-09-11 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan August domestic corporate goods price index (CGPI) MoM -0.2% (consensus 0.0%; July +0.1%)."
+    },
+    {
+      "id": "mkt:01a08dba-a1f1-7118-8536-e99ba57ce352",
+      "time": "2026-09-11 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan August domestic corporate goods price index (CGPI) YoY +7.6% vs +7.4% expected, +7.2% prior."
+    },
+    {
+      "id": "mkt:01a08dba-778c-7118-8536-da2c2458e890",
+      "time": "2026-09-11 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (YoY) (Aug) | actual 7.6% | consensus 7.40% | previous 7.20%"
+    },
+    {
+      "id": "mkt:01a08dba-7792-7118-8536-e301db8d2e7b",
+      "time": "2026-09-11 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (MoM) (Aug) | actual -0.2% | consensus 0.00% | previous 0.10%"
+    },
+    {
+      "id": "5088400",
+      "time": "2026-09-11 07:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗戰爭將在中期選舉後結束】美國總統唐納德·特朗普重申，他預計與伊朗的戰爭將在中期選舉“之後不久”結束，他表示德黑蘭“深陷困境”。 特朗普還聲稱伊朗的導彈儲備已被基本消滅，同時承認該國將保留一定的導彈能力。"
+    },
+    {
+      "id": "5088399",
+      "time": "2026-09-11 07:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金斯瑞生物科技：擬折讓4.7%配售7712.6萬股股份，淨籌約23.27億港元】9月11日早間，金斯瑞生物科技在港交所公告，於2026年9月11日（於交易時段前），公司與配售代理訂立配售協議。據此，公司同意委任配售代理及配售代理有條件同意，根據配售協議所載條款及條件，盡力促使合共不少於六名承配人認購77,126,000股配售股份。預計配售股份將向不少於6名承配人（彼等應為專業投資者、機構投資者或其他投資者（連同彼等各自最終實益擁有人，均為獨立第三方）配售。預期概無承配人將在緊隨配售事項完成後成為主要股東。配售價為每股30.50港元，較股份於2026年9月10日（即最後交易日）在聯交所所報收市價每股32.00港元折讓約4.7%。假設所有配售股份均獲配售，配售事項所得款項總額預計約為2,352.3百萬港元，配售事項所得款項淨額（扣除配售佣金及其他相關費用，其中包括專業費用）預計約為2,327.1百萬港元，相當於每股配售股份之估計淨髮行價約30.17港元。"
+    },
+    {
+      "id": "5088398",
+      "time": "2026-09-11 07:47:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用汽車今年以來巴西產量同比勁增20%】通用汽車南美總裁Thomas Owsianski表示，通用汽車今年1-8月巴西產量同比增長20%，並預計繼續擴大當地市場份額，今年在巴西的汽車銷量預計達到320萬輛。Owsianski表示，通用汽車的市場份額較去年提升，公司有能力在各個細分市場展開競爭。通用汽車還考慮透過其與上汽集團和廣西汽車集團的合資企業，在巴西推出一款小型電動車。"
+    },
     {
       "id": "5088397",
       "time": "2026-09-11 07:46:17",
@@ -124304,80 +124437,6 @@
         "公司"
       ],
       "text": "據報道，巴西礦業巨頭淡水河谷（Vale S.A.）已決定擱置其關鍵礦物子公司——淡水河谷基本金屬（Vale Base Metals）的首次公開募股（IPO）計劃。這一決定終止了此前包括組建投資銀行團及與潛在投資者舉行預備會議在內的上市籌備工作。"
-    },
-    {
-      "id": "5076420",
-      "time": "2026-09-04 07:51:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "住友商事：將於2027年4月9日登出相當於已發行股份總數1.0%的庫存股。"
-    },
-    {
-      "id": "mkt:01a069af-7fbb-7118-8491-f2895233b476",
-      "time": "2026-09-04 07:51:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Venezuela's oil minister Henao said Chevron's production in Venezuela will reach 300,000 b/d by year-end."
-    },
-    {
-      "id": "5076419",
-      "time": "2026-09-04 07:51:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【獨家 | 西貝通知離職員工：補償金需拖至2028年，賈國龍稱“現在不能及時給”】近日，多位西貝離職員工向《BUG》欄目爆料稱，2025年年終獎、離職補償金、退股回購款並未按原協議約定時間發放。今年7月底，西貝通知員工更改協議，新方案調整為：2025年年終獎，於2026年年底前分5次支付，每次20%，有利息約定的，2026年7月1日前執行原約定，之後執行年息8%；離職補償尚有部分金額未支付，自2026年7月1日起按年8%計息，2027年上半年支付15%，下半年支付15%，2028年上半年支付25%，下半年支付25%；股權轉讓價款尚有部分金額未支付，自2026年7月1日起按年8%計息，2028年12月31日前再根據業務恢復情況分期支付。一位員工透露，在協議更改前，西貝創始人賈國龍給離職員工開了一個線上會議進行說明，“他說要相信公司能緩過來，但是現在不能及時給，要等到2028年再給。”截至發稿，針對協議變更一事，西貝方面暫無回應。"
-    },
-    {
-      "id": "5076418",
-      "time": "2026-09-04 07:51:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4480美元/盎司，日內漲0.14%。"
-    },
-    {
-      "id": "5076417",
-      "time": "2026-09-04 07:50:47",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：醫療器械行業季度業績改善明顯，關注長線佈局機會】中信建投研報指出，截至26Q2，醫療器械已經連續四個季度實現正增長，並且四年來首個季度實現歸母淨利潤正增長，展現出行業良好的業績恢復趨勢。25年器械行業整體利潤端大幅下滑，主要受IVD行業集採、醫療服務價格調整等多項政策以及低值耗材部分公司一次性減值計提和匯兌損益等影響。展望後續行業發展，隨著耗材集採對行業的影響逐步出清，創新產品落地後的商業化兌現以及國產企業加速海外業務落地，醫療器械行業有望開啟新一輪的良性發展週期。"
-    },
-    {
-      "id": "5076416",
-      "time": "2026-09-04 07:50:37",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【物價上漲 日本家庭支出連續第八個月下滑】受日用品成本走高促使消費者削減非必需消費影響，日本家庭支出連續第八個月出現回落。日本總務省週五公佈資料，經通脹調整後的7月家庭支出同比下降3.6%，經濟學家此前預期為下降1.6%；經季節調整後，家庭支出較6月上漲0.5%。住房修繕、租金以及汽車相關開支下滑拖累整體指數走低。儘管政府出臺舉措壓制能源成本，但食品等日用品物價持續走高，家庭仍承壓，消費支出因此長期走弱。7月生鮮食品價格同比上漲7%，加工食品漲幅回落至3%。根據日本帝國資料庫公司公佈，7月計劃漲價的商品數量同比上升近22%，該趨勢還將延續。受中東衝突推高原油、石腦油價格以及日元貶值影響，預計8月調價商品數量將大增83%，9月漲價潮還會再度來襲。"
-    },
-    {
-      "id": "5076415",
-      "time": "2026-09-04 07:49:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Adobe宣佈新任總裁兼CEO人選】Adobe董事會當地時間9月3日宣佈，總裁兼執行長Shantanu Narayen將於12月1日轉任執行董事長，繼任者為資深高管Anil Chakravarthy。"
-    },
-    {
-      "id": "5076414",
-      "time": "2026-09-04 07:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮官方網站於2026年9月3日推出名為「Arcade」的專區，釋出了五款低解析度的復古街機風格網頁小遊戲，用來宣傳特朗普政府的各項政策議程。"
     }
   ]
 }

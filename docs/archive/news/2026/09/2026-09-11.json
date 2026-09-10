@@ -1,7 +1,140 @@
 {
   "date": "2026-09-11",
-  "count": 582,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:01a08dbb-5fd5-7118-8537-0a02f213c03e",
+      "time": "2026-09-11 07:51:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Bessent rejects claims he's at odds with Fed chair Warsh, calls it \"nonsense\"】U.S. Treasury Secretary Bessent rejected claims his actions in the Treasury market conflict with Fed Chair Kevin Warsh, calling the characterization \"nonsense.\" Warsh said in July markets should price without Fed policy guidance, adding market participants are learning to focus on the game itself rather than the referee. Bessent said investors have not demanded an extra risk premium for long-term Treasuries and dismissed related concerns as \"unfounded noise.\" Since the U.S. began military action against Iran, investors have pushed Treasury yields higher: the 10-year yield was below 4% on Feb. 28, the day before the U.S.'s first strike, and rose to 4.96% by Thursday evening, while the 30-year yield sits near its highest level since 2007."
+    },
+    {
+      "id": "5088403",
+      "time": "2026-09-11 07:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普暗示選舉可能限制伊朗局勢升級】美國總統唐納德·特朗普表示，即將到來的選舉可能會影響美國是否“全面”介入伊朗，同時他堅稱對這場衝突沒有遺憾。特朗普還聲稱美國控制著霍爾木茲海峽，並表示美軍在一夜之間摧毀了那裡的22艘船隻。"
+    },
+    {
+      "id": "mkt:01a08dba-fa34-7118-8537-03177032c159",
+      "time": "2026-09-11 07:50:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan Q3 BSI for large manufacturers 7.6, prior -1.8."
+    },
+    {
+      "id": "5088402",
+      "time": "2026-09-11 07:50:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國10年期國債期貨跌至2022年10月以來的最低水平。"
+    },
+    {
+      "id": "mkt:01a08dba-d644-7118-8536-fd2ba2a0af36",
+      "time": "2026-09-11 07:50:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | BSI On Large Enterprises Business Conditions (Manufacturing) (Q3) | actual 7.6 | previous -1.8"
+    },
+    {
+      "id": "5088401",
+      "time": "2026-09-11 07:50:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月生產者價格環比下降0.2%; 預估為0%；日本8月生產者價格同比增長7.6%; 預估為+7.4%。"
+    },
+    {
+      "id": "mkt:01a08dba-a380-7118-8536-f6a9a8b211c0",
+      "time": "2026-09-11 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan August domestic corporate goods price index (CGPI) MoM -0.2% (consensus 0.0%; July +0.1%)."
+    },
+    {
+      "id": "mkt:01a08dba-a1f1-7118-8536-e99ba57ce352",
+      "time": "2026-09-11 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan August domestic corporate goods price index (CGPI) YoY +7.6% vs +7.4% expected, +7.2% prior."
+    },
+    {
+      "id": "mkt:01a08dba-7792-7118-8536-e301db8d2e7b",
+      "time": "2026-09-11 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (MoM) (Aug) | actual -0.2% | consensus 0.00% | previous 0.10%"
+    },
+    {
+      "id": "mkt:01a08dba-778c-7118-8536-da2c2458e890",
+      "time": "2026-09-11 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (YoY) (Aug) | actual 7.6% | consensus 7.40% | previous 7.20%"
+    },
+    {
+      "id": "5088400",
+      "time": "2026-09-11 07:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗戰爭將在中期選舉後結束】美國總統唐納德·特朗普重申，他預計與伊朗的戰爭將在中期選舉“之後不久”結束，他表示德黑蘭“深陷困境”。 特朗普還聲稱伊朗的導彈儲備已被基本消滅，同時承認該國將保留一定的導彈能力。"
+    },
+    {
+      "id": "5088399",
+      "time": "2026-09-11 07:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金斯瑞生物科技：擬折讓4.7%配售7712.6萬股股份，淨籌約23.27億港元】9月11日早間，金斯瑞生物科技在港交所公告，於2026年9月11日（於交易時段前），公司與配售代理訂立配售協議。據此，公司同意委任配售代理及配售代理有條件同意，根據配售協議所載條款及條件，盡力促使合共不少於六名承配人認購77,126,000股配售股份。預計配售股份將向不少於6名承配人（彼等應為專業投資者、機構投資者或其他投資者（連同彼等各自最終實益擁有人，均為獨立第三方）配售。預期概無承配人將在緊隨配售事項完成後成為主要股東。配售價為每股30.50港元，較股份於2026年9月10日（即最後交易日）在聯交所所報收市價每股32.00港元折讓約4.7%。假設所有配售股份均獲配售，配售事項所得款項總額預計約為2,352.3百萬港元，配售事項所得款項淨額（扣除配售佣金及其他相關費用，其中包括專業費用）預計約為2,327.1百萬港元，相當於每股配售股份之估計淨髮行價約30.17港元。"
+    },
+    {
+      "id": "5088398",
+      "time": "2026-09-11 07:47:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用汽車今年以來巴西產量同比勁增20%】通用汽車南美總裁Thomas Owsianski表示，通用汽車今年1-8月巴西產量同比增長20%，並預計繼續擴大當地市場份額，今年在巴西的汽車銷量預計達到320萬輛。Owsianski表示，通用汽車的市場份額較去年提升，公司有能力在各個細分市場展開競爭。通用汽車還考慮透過其與上汽集團和廣西汽車集團的合資企業，在巴西推出一款小型電動車。"
+    },
     {
       "id": "5088397",
       "time": "2026-09-11 07:46:17",
