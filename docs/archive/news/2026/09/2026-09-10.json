@@ -1,7 +1,207 @@
 {
   "date": "2026-09-10",
-  "count": 1853,
+  "count": 1873,
   "items": [
+    {
+      "id": "mkt:01a08add-ccb1-7118-8525-01fff53c85d6",
+      "time": "2026-09-10 18:29:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact mixed"
+      ],
+      "text": "【Oracle Q1 preview: AI-driven cloud growth vs $638bn backlog — boon or burden?】Oracle (ORCL.N) will report FY2027 Q1 after US close Thursday. Street ests: revenue $19.1bn (+28% YoY), adjusted EPS $1.75. Company guidance: total revenue +27–29%, total cloud revenue +58–64%, non‑GAAP EPS $1.72–1.76. FY2026 highlights: cloud revenue +39% to $34bn; cloud infrastructure revenue +77% to $18.1bn; Q4 OCI revenue +93% to $5.8bn. Remaining performance obligations (RPO) reached $638bn at end‑Q4, up $85bn QoQ and +363% YoY; much of the increase stems from large AI contracts. Market takeaway: the backlog signals substantial demand for Oracle infrastructure but conversion depends on data‑center capacity, capex and deployment timing. Key items for traders: management commentary on timing and capacity, capex and financing needs, pace of backlog conversion to revenue and cash flow, and sustainability of cloud/AI revenue growth."
+    },
+    {
+      "id": "mkt:01a08add-a608-7118-8524-fa37161a354b",
+      "time": "2026-09-10 18:29:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【REUTERS SURVEY: OPEC August crude output down 640,000 bpd to 19.71 mln bpd】REUTERS SURVEY: OPEC crude output fell 640,000 bpd in August to 19.71 mln bpd, the survey found. The drop reflects Middle East conflict-related disruptions: Saudi exports faced new interference and US interdiction cut Iranian shipments. Seven OPEC+ members, including Russia and other allies, had agreed to raise output in August but were unable to do so due to the conflict. The survey is based on LSEG flow data, Kpler and other flow trackers, and reporting from oil companies, OPEC and consultants."
+    },
+    {
+      "id": "5087184",
+      "time": "2026-09-10 18:29:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鞋站（Shoe Station）股價盤前下跌27.5%，此前該公司下調了2026財年淨銷售額與調整後每股收益指引。"
+    },
+    {
+      "id": "5087183",
+      "time": "2026-09-10 18:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旭光電子：2026年度向特定物件發行A股股票獲同意註冊】旭光電子公告，公司2026年度向特定物件發行A股股票申請近日獲得中國證監會同意註冊批覆，批覆自同意註冊之日起12個月內有效。公司將根據批覆檔案及股東會授權，在規定期限內辦理本次發行相關事宜。"
+    },
+    {
+      "id": "mkt:01a08add-26e4-7118-8524-f5e1d5470aca",
+      "time": "2026-09-10 18:29:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME copper plunged briefly, down more than 2.00% intraday, trading at $14,501.14/tonne."
+    },
+    {
+      "id": "5087182",
+      "time": "2026-09-10 18:28:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米機器人具身世界模型已全面開源】9月10日，小米技術發文宣佈：Xiaomi-Robotics-U0 具身世界模型訓練框架及模型權重已全面開源 本次開源提供 4B 和 34B 兩種規模的 Xiaomi-Robotics-U0 模型權重，同時支援具身場景生成、具身場景編輯、單圖生成、影象編輯、影片生成和圖文交錯序列生成等多種任務，以及配套的訓練與推理框架，面向世界模型、具身智慧和機器人應用研究。我們希望透過開放模型與程式碼，降低技術門檻，加速世界模型技術在真實機器人場景中的探索與落地。"
+    },
+    {
+      "id": "mkt:01a08adc-46a9-7118-8524-eb9c0997dfb7",
+      "time": "2026-09-10 18:28:06",
+      "tags": [
+        "MKT News",
+        "BG.N",
+        "Impact bearish"
+      ],
+      "text": "A Russian strike in Ukraine's Dnieper region hit a factory owned by US agricultural producer Bunge."
+    },
+    {
+      "id": "5087181",
+      "time": "2026-09-10 18:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "該市市長稱，俄羅斯對烏克蘭第聶伯羅的襲擊擊中了美國農業生產商邦吉旗下的一家工廠。"
+    },
+    {
+      "id": "mkt:01a08adb-c2f2-7118-8524-e5ddd1535650",
+      "time": "2026-09-10 18:27:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "REUTERS SURVEY shows OPEC crude oil production fell in August."
+    },
+    {
+      "id": "mkt:01a08adb-b1dc-7118-8524-dec096218040",
+      "time": "2026-09-10 18:27:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC oil output fell in August, according to a Reuters survey."
+    },
+    {
+      "id": "5087180",
+      "time": "2026-09-10 18:27:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "迪拜機場執行長表示：目前旅客人口結構基本恢復至俄烏衝突前的水平，印度、沙烏地阿拉伯、英國是客源排在前三位的國家。"
+    },
+    {
+      "id": "5087179",
+      "time": "2026-09-10 18:27:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "納斯達克投資 Kraken 母公司 Payward，估值 210 億美元。"
+    },
+    {
+      "id": "mkt:01a08adb-52d2-7118-8524-d32aa29d8f5b",
+      "time": "2026-09-10 18:27:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras said it will cancel a gasoline discount of 0.44 reais per liter."
+    },
+    {
+      "id": "mkt:01a08adb-4e4d-7118-8524-cb756142f1f3",
+      "time": "2026-09-10 18:27:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A local mayor said a Russian strike on Dnipro, Ukraine, hit a factory owned by US agribusiness Bunge."
+    },
+    {
+      "id": "mkt:01a08adb-0aa5-7118-8524-c3cd365156c3",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Coast Guard hosts 22nd Asia-region coast guard senior officials meeting】Sept. 7-10 — The China Coast Guard in Hangzhou hosted the 22nd senior officials meeting of Asia-region coast guard agencies. Delegates said the region’s maritime security environment is multi-faceted and complex, with overlapping non-traditional security challenges, and agreed that strengthened multilateral law-enforcement cooperation is necessary and urgent to maintain regional maritime stability and support sustainable marine development."
+    },
+    {
+      "id": "mkt:01a08adb-09a3-7118-8524-b82530b86a46",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【IEA: Gas price surge, strong El Nifio lift global coal demand to record】The IEA says global coal consumption is set to hit a record this year as a surge in natural gas prices and a strong El Nifio boost air‑conditioning demand. The agency warns that prospects for LNG flows through the Strait of Hormuz remain uncertain and could lift coal demand further next year. Although wind and solar capacity is expanding, renewables are not yet sufficient to reverse coal use amid rising global power demand. The IEA cautions that without a substantial decline in fossil‑fuel consumption, climate impacts will intensify as the planet warms."
+    },
+    {
+      "id": "5087178",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高偉達：回購期限過半 公司尚未實施股份回購】高偉達公告稱，公司2026年3月10日股東會審議透過回購股份方案，擬使用自有資金及銀行貸款以集中競價方式回購A股股份，回購股份將全部登出並減少註冊資本；回購資金總額不低於3000萬元、不超過3500萬元，回購價格不超過30.64元/股，回購期限為股東會審議透過之日起12個月內。截至公告披露日，回購期限已過半，公司尚未實施回購，後續將在回購期限內擇機實施回購計劃。"
+    },
+    {
+      "id": "5087177",
+      "time": "2026-09-10 18:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【麥克莫蘭銅金美股盤前跌超5%】麥克莫蘭銅金美股盤前跌超5%，現報72.26美元。"
+    },
+    {
+      "id": "5087176",
+      "time": "2026-09-10 18:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長飛光纖：釋出保偏光纖系列新品 推出CopackAlign™品牌】長飛光纖(601869)在第27屆國際光電博覽會（CIOE 2026）釋出保偏光纖系列新品，推出CopackAlign™品牌。公司執行董事兼總裁莊丹表示，CPO、NPO從行業共識加速走向規模化落地，保偏光纖已成為AI光互聯的剛性需求。"
+    },
+    {
+      "id": "te:markets:582745",
+      "time": "2026-09-10 18:26:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Extends Rally — Crude oil rose past $97 per barrel on Thursday, the highest in over three months and soaring nearly 15% since the start of September, as escalatory strikes between Iran and the US further supressed supply from the key region. Tehran signaled it will not back down from a military blockade as the US launched attacks against a series of Iranian tankers near Kharg Island, host to the state's key energy infrastructure. The deteriorating backdrop from the Middle East dims expectations that supply from the region could be normalized as Asian economies are forced to re-enter the energy market. China imported 8.93 bpd of crude oil in August, a 6.2% increase from July, after its reliance on inventory since the start of the conflict had shielded the global economy from a deeper energy shortage due to blockaded tankers in the Persian Gulf. Inventories were also lower in the US, with the government's SPR hovering at a record low."
+    },
     {
       "id": "mkt:01a08ada-7fcc-7118-8524-b072f0a5c8cc",
       "time": "2026-09-10 18:26:10",

@@ -1,7 +1,207 @@
 {
-  "updated": "2026-09-10 18:26:48",
-  "count": 13641,
+  "updated": "2026-09-10 18:30:37",
+  "count": 13642,
   "items": [
+    {
+      "id": "mkt:01a08add-ccb1-7118-8525-01fff53c85d6",
+      "time": "2026-09-10 18:29:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact mixed"
+      ],
+      "text": "【Oracle Q1 preview: AI-driven cloud growth vs $638bn backlog — boon or burden?】Oracle (ORCL.N) will report FY2027 Q1 after US close Thursday. Street ests: revenue $19.1bn (+28% YoY), adjusted EPS $1.75. Company guidance: total revenue +27–29%, total cloud revenue +58–64%, non‑GAAP EPS $1.72–1.76. FY2026 highlights: cloud revenue +39% to $34bn; cloud infrastructure revenue +77% to $18.1bn; Q4 OCI revenue +93% to $5.8bn. Remaining performance obligations (RPO) reached $638bn at end‑Q4, up $85bn QoQ and +363% YoY; much of the increase stems from large AI contracts. Market takeaway: the backlog signals substantial demand for Oracle infrastructure but conversion depends on data‑center capacity, capex and deployment timing. Key items for traders: management commentary on timing and capacity, capex and financing needs, pace of backlog conversion to revenue and cash flow, and sustainability of cloud/AI revenue growth."
+    },
+    {
+      "id": "mkt:01a08add-a608-7118-8524-fa37161a354b",
+      "time": "2026-09-10 18:29:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【REUTERS SURVEY: OPEC August crude output down 640,000 bpd to 19.71 mln bpd】REUTERS SURVEY: OPEC crude output fell 640,000 bpd in August to 19.71 mln bpd, the survey found. The drop reflects Middle East conflict-related disruptions: Saudi exports faced new interference and US interdiction cut Iranian shipments. Seven OPEC+ members, including Russia and other allies, had agreed to raise output in August but were unable to do so due to the conflict. The survey is based on LSEG flow data, Kpler and other flow trackers, and reporting from oil companies, OPEC and consultants."
+    },
+    {
+      "id": "5087184",
+      "time": "2026-09-10 18:29:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鞋站（Shoe Station）股價盤前下跌27.5%，此前該公司下調了2026財年淨銷售額與調整後每股收益指引。"
+    },
+    {
+      "id": "5087183",
+      "time": "2026-09-10 18:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旭光電子：2026年度向特定物件發行A股股票獲同意註冊】旭光電子公告，公司2026年度向特定物件發行A股股票申請近日獲得中國證監會同意註冊批覆，批覆自同意註冊之日起12個月內有效。公司將根據批覆檔案及股東會授權，在規定期限內辦理本次發行相關事宜。"
+    },
+    {
+      "id": "mkt:01a08add-26e4-7118-8524-f5e1d5470aca",
+      "time": "2026-09-10 18:29:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME copper plunged briefly, down more than 2.00% intraday, trading at $14,501.14/tonne."
+    },
+    {
+      "id": "5087182",
+      "time": "2026-09-10 18:28:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米機器人具身世界模型已全面開源】9月10日，小米技術發文宣佈：Xiaomi-Robotics-U0 具身世界模型訓練框架及模型權重已全面開源 本次開源提供 4B 和 34B 兩種規模的 Xiaomi-Robotics-U0 模型權重，同時支援具身場景生成、具身場景編輯、單圖生成、影象編輯、影片生成和圖文交錯序列生成等多種任務，以及配套的訓練與推理框架，面向世界模型、具身智慧和機器人應用研究。我們希望透過開放模型與程式碼，降低技術門檻，加速世界模型技術在真實機器人場景中的探索與落地。"
+    },
+    {
+      "id": "mkt:01a08adc-46a9-7118-8524-eb9c0997dfb7",
+      "time": "2026-09-10 18:28:06",
+      "tags": [
+        "MKT News",
+        "BG.N",
+        "Impact bearish"
+      ],
+      "text": "A Russian strike in Ukraine's Dnieper region hit a factory owned by US agricultural producer Bunge."
+    },
+    {
+      "id": "5087181",
+      "time": "2026-09-10 18:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "該市市長稱，俄羅斯對烏克蘭第聶伯羅的襲擊擊中了美國農業生產商邦吉旗下的一家工廠。"
+    },
+    {
+      "id": "mkt:01a08adb-c2f2-7118-8524-e5ddd1535650",
+      "time": "2026-09-10 18:27:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "REUTERS SURVEY shows OPEC crude oil production fell in August."
+    },
+    {
+      "id": "mkt:01a08adb-b1dc-7118-8524-dec096218040",
+      "time": "2026-09-10 18:27:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC oil output fell in August, according to a Reuters survey."
+    },
+    {
+      "id": "5087180",
+      "time": "2026-09-10 18:27:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "迪拜機場執行長表示：目前旅客人口結構基本恢復至俄烏衝突前的水平，印度、沙烏地阿拉伯、英國是客源排在前三位的國家。"
+    },
+    {
+      "id": "5087179",
+      "time": "2026-09-10 18:27:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "納斯達克投資 Kraken 母公司 Payward，估值 210 億美元。"
+    },
+    {
+      "id": "mkt:01a08adb-52d2-7118-8524-d32aa29d8f5b",
+      "time": "2026-09-10 18:27:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras said it will cancel a gasoline discount of 0.44 reais per liter."
+    },
+    {
+      "id": "mkt:01a08adb-4e4d-7118-8524-cb756142f1f3",
+      "time": "2026-09-10 18:27:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A local mayor said a Russian strike on Dnipro, Ukraine, hit a factory owned by US agribusiness Bunge."
+    },
+    {
+      "id": "5087178",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高偉達：回購期限過半 公司尚未實施股份回購】高偉達公告稱，公司2026年3月10日股東會審議透過回購股份方案，擬使用自有資金及銀行貸款以集中競價方式回購A股股份，回購股份將全部登出並減少註冊資本；回購資金總額不低於3000萬元、不超過3500萬元，回購價格不超過30.64元/股，回購期限為股東會審議透過之日起12個月內。截至公告披露日，回購期限已過半，公司尚未實施回購，後續將在回購期限內擇機實施回購計劃。"
+    },
+    {
+      "id": "mkt:01a08adb-0aa5-7118-8524-c3cd365156c3",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Coast Guard hosts 22nd Asia-region coast guard senior officials meeting】Sept. 7-10 — The China Coast Guard in Hangzhou hosted the 22nd senior officials meeting of Asia-region coast guard agencies. Delegates said the region’s maritime security environment is multi-faceted and complex, with overlapping non-traditional security challenges, and agreed that strengthened multilateral law-enforcement cooperation is necessary and urgent to maintain regional maritime stability and support sustainable marine development."
+    },
+    {
+      "id": "mkt:01a08adb-09a3-7118-8524-b82530b86a46",
+      "time": "2026-09-10 18:26:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【IEA: Gas price surge, strong El Nifio lift global coal demand to record】The IEA says global coal consumption is set to hit a record this year as a surge in natural gas prices and a strong El Nifio boost air‑conditioning demand. The agency warns that prospects for LNG flows through the Strait of Hormuz remain uncertain and could lift coal demand further next year. Although wind and solar capacity is expanding, renewables are not yet sufficient to reverse coal use amid rising global power demand. The IEA cautions that without a substantial decline in fossil‑fuel consumption, climate impacts will intensify as the planet warms."
+    },
+    {
+      "id": "5087177",
+      "time": "2026-09-10 18:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【麥克莫蘭銅金美股盤前跌超5%】麥克莫蘭銅金美股盤前跌超5%，現報72.26美元。"
+    },
+    {
+      "id": "5087176",
+      "time": "2026-09-10 18:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長飛光纖：釋出保偏光纖系列新品 推出CopackAlign™品牌】長飛光纖(601869)在第27屆國際光電博覽會（CIOE 2026）釋出保偏光纖系列新品，推出CopackAlign™品牌。公司執行董事兼總裁莊丹表示，CPO、NPO從行業共識加速走向規模化落地，保偏光纖已成為AI光互聯的剛性需求。"
+    },
+    {
+      "id": "te:markets:582745",
+      "time": "2026-09-10 18:26:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Extends Rally — Crude oil rose past $97 per barrel on Thursday, the highest in over three months and soaring nearly 15% since the start of September, as escalatory strikes between Iran and the US further supressed supply from the key region. Tehran signaled it will not back down from a military blockade as the US launched attacks against a series of Iranian tankers near Kharg Island, host to the state's key energy infrastructure. The deteriorating backdrop from the Middle East dims expectations that supply from the region could be normalized as Asian economies are forced to re-enter the energy market. China imported 8.93 bpd of crude oil in August, a 6.2% increase from July, after its reliance on inventory since the start of the conflict had shielded the global economy from a deeper energy shortage due to blockaded tankers in the Persian Gulf. Inventories were also lower in the US, with the government's SPR hovering at a record low."
+    },
     {
       "id": "mkt:01a08ada-7fcc-7118-8524-b072f0a5c8cc",
       "time": "2026-09-10 18:26:10",
@@ -124207,180 +124407,6 @@
         "公司"
       ],
       "text": "【雲意電氣：擬設合資公司 轉讓子公司部分股權】雲意電氣公告稱，公司擬將全資子公司南京雲意機器人有限公司部分股權轉讓予其員工持股平臺，關聯董事付紅玲、李成忠已迴避表決。公司擬與付紅玲等多方共同出資設立江蘇羿能能源科技有限公司，註冊資本2000萬元，公司認繳405萬元，佔比20.25%，該交易構成關聯交易，不構成重大資產重組，關聯董事已迴避表決。此外，董事會同意續聘中匯會計師事務所為公司2026年度財務及內部控制審計機構，該事項尚需提交股東會審議。"
-    },
-    {
-      "id": "5075327",
-      "time": "2026-09-03 18:30:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "Marti的網約車服務註冊使用者達490萬人，註冊司機達58.4萬名，較原計劃提前一個月實現2026年9月30日的既定目標。"
-    },
-    {
-      "id": "5075326",
-      "time": "2026-09-03 18:30:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE‑100指數盤中暫漲0.1%，報174996.80點。"
-    },
-    {
-      "id": "te:markets:580919",
-      "time": "2026-09-03 18:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.55% Lower — The SENSEX Index fell 417 points or 0.55 percent on Thursday to close at 76153 points. Leading the losses are Tech Mahindra (-1.65%), HCL Tech (-1.37%) and ITC (-1.20%). Top gainers were Indusind Bank (2.17%), Adani Ports (1.57%) and Axis Bank (1.32%)."
-    },
-    {
-      "id": "5075325",
-      "time": "2026-09-03 18:29:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迪哲醫藥：多名董事及高管擬減持公司股份】迪哲醫藥公告稱，公司董事長兼執行長張小林、副總經理兼首席醫學官楊振帆、副總經理兼首席商務官吳清漪、副總經理張知為因個人資金需求，擬減持公司股份。其中張小林擬減持不超225.85萬股，佔總股本0.4856%；楊振帆擬減持不超92.55萬股，佔總股本0.1990%；吳清漪擬減持不超42.61萬股，佔總股本0.0917%；張知為擬減持不超1萬股，佔總股本0.0022%。減持期間為2026年9月29日至2026年12月28日，減持價格按實施期間市場價格確定，本次減持數量均不超過各持有人當前持股數的25%。"
-    },
-    {
-      "id": "te:markets:580918",
-      "time": "2026-09-03 18:29:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "British American Tobacco Stock Price Hits 6-week Low — British American Tobacco shares decreased to 4081.00 GBp, the lowest since July 2026. Over the past 4 weeks, British American Tobacco lost 6.97%, and in the last 12 months, it decreased 1.07%."
-    },
-    {
-      "id": "te:economy:580917",
-      "time": "2026-09-03 18:29:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Q2 GDP Growth at Over 1-Year High — North Macedonia’s economy expanded by 4.3% year-on-year in the second quarter of 2026, accelerating from 3.1% in the previous three-month period and marking the strongest growth since Q4 2024. Growth was driven by household expenditure (3.3% vs 2.6% in Q1) and gross investments (16.5% vs 1.5%). Net external demand also contributed positively, with both exports (10.4% vs 6.2%) and imports (12.5% vs 5.2%) rising. Meanwhile, growth eased in final consumption (2.8% vs 3.2%) and public expenditure (0.8% vs 5.5%). On the production side, the most notable increases were recorded in mining and quarrying (3.9% vs -0.8%), manufacturing (4.1% vs -0.2%), and construction (21.9% vs 7.2%), while output declined in agriculture, forestry, and fisheries (-0.1% vs 2.9%) and public administration and defense (-1.3% vs 2.5%). On a seasonally adjusted quarterly basis, GDP growth accelerated to 1.3% in Q2 from 0.4% in the previous quarter, marking the strongest growth since Q1 2014."
-    },
-    {
-      "id": "5075324",
-      "time": "2026-09-03 18:29:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【健民集團：克立硼羅軟膏獲批上市】健民集團公告稱，公司收到國家藥品監督管理局核准簽發的《藥品註冊證書》，研發的克立硼羅軟膏獲批上市。該藥品為化學藥品4類，規格2%（30g:0.6g），屬處方藥，適應症為3月齡及以上輕度至中度特應性皮炎患者的區域性外用治療。截至2026年8月31日，該藥品累計投入研發費用約1127.41萬元。本次獲批將豐富公司產品線，預計短期內不會對公司業績產生較大影響，其上市後市場份額存在不確定性。"
-    },
-    {
-      "id": "5075323",
-      "time": "2026-09-03 18:29:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靳磊會見中國鐵建董事長戴和根總經理裴岷山】9月3日，深圳市委書記靳磊會見中國鐵道建築集團有限公司黨委書記、董事長戴和根，黨委副書記、總經理裴岷山一行。（深圳釋出）"
-    },
-    {
-      "id": "5075322",
-      "time": "2026-09-03 18:28:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙加那利群島附近一移民船超80人死亡或失蹤】一艘載有128名移民的船隻在海上漂流26天后，在西班牙加那利群島附近海域被發現，船上超過80人死亡或失蹤。報道援引西班牙海上救援部門的訊息說，這艘船在大加那利島以南約120公里處被發現。救援人員救起45名倖存者，並在船上發現5具遺體。"
-    },
-    {
-      "id": "mkt:01a066d0-01b2-7118-8481-43996fad6b28",
-      "time": "2026-09-03 18:28:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission spokesperson said it is studying options to further restrict visa access."
-    },
-    {
-      "id": "5075321",
-      "time": "2026-09-03 18:28:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟執委會發言人表示：我們正在特別研究如何進一步限制簽證獲取途徑。"
-    },
-    {
-      "id": "5075320",
-      "time": "2026-09-03 18:27:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【李運到坪山區調研併到比亞迪等企業走訪服務 因地制宜發展新質生產力 推動經濟社會高質量發展】9月3日，深圳市委副書記、代市長李運到坪山區調研，併到比亞迪等企業走訪服務，強調要深入學習貫徹習近平總書記對廣東、深圳系列重要講話和重要指示精神，認真落實省委省政府部署要求和市委工作安排，持續營造一流營商環境和產業生態，因地制宜發展新質生產力，紮實推動經濟社會高質量發展。李運先後來到比亞迪總部、榮耀智慧製造產業園和天道醫藥有限公司，詳細瞭解企業經營發展、產品技術創新等情況，與企業負責人深入交流，認真聽取意見建議。李運對比亞迪等企業為深圳發展作出的重要貢獻表示感謝，表示將在營商環境上優服務提效率，加強市區聯動，依法依規協調解決企業發展過程中的實際問題，為企業在深發展創造更好條件。（深圳釋出）"
-    },
-    {
-      "id": "5075319",
-      "time": "2026-09-03 18:27:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中光防雷：實控人等減持計劃期限屆滿及完成】中光防雷公告稱，公司實際控制人、董事長兼總經理王雪穎減持計劃期限屆滿，2026年6月3日至9月2日透過集中競價減持83萬股，佔總股本0.2546%，減持均價12.10元/股；董事、副總經理兼董事會秘書周輝減持計劃實施完畢，2026年9月1日透過集中競價減持3.3816萬股，佔總股本0.0104%，減持均價11.00元/股。截至目前，王雪穎及其一致行動人合計持股比例為44.59%，本次減持不會導致公司控股股東、實控人發生變化。"
-    },
-    {
-      "id": "mkt:01a066ce-f986-7118-8481-38506ea72de0",
-      "time": "2026-09-03 18:27:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "01810.HK",
-        "Impact bullish"
-      ],
-      "text": "Per an HKEX filing, Xiaomi Group (01810.HK) repurchased 1.8 mln Class B shares on Sep 3 for HKD 49.4 mln."
-    },
-    {
-      "id": "5075318",
-      "time": "2026-09-03 18:27:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【趣睡科技：擬1500萬元-3000萬元回購股份】趣睡科技公告稱，公司擬透過集中競價交易方式回購A股股份，用於股權激勵或員工持股計劃。回購資金總額不低於1500萬元且不超過3000萬元，回購價格不超過60元/股，預計可回購股份25萬股至50萬股，佔公司總股本比例為0.48%至0.96%。回購資金來源為自有資金和銀行回購專項貸款，其中銀行回購專項貸款佔比不高於90%，回購實施期限為董事會審議透過回購方案之日起12個月內。公司董事、高管、控股股東及實控人等未來六個月暫無減持計劃。"
-    },
-    {
-      "id": "5075317",
-      "time": "2026-09-03 18:27:04",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【高溫超導材料新突破 13只概念股上半年業績同比增長】據科技日報訊息，9月2日，記者從中國科學院理化技術研究所獲悉，該所科研團隊成功研製出高溫超導帶材新型“骨架”——鐵基合金基帶（DW01）。用該基帶製備的超導帶材關鍵效能指標顯著優於傳統哈氏合金基帶產品，標誌著我國在實現高溫超導帶材核心材料自主可控上邁出重要一步。華泰證券研報顯示，相比低溫超導，高溫超導更高臨界溫度、電流、磁場的優勢拓展了超導材料的應用空間，看好核聚變需求加速釋放推動高溫超導經濟性繼續提升，開啟百億元市場空間。據證券時報·資料寶統計，今年以來超導概念股平均小幅下跌0.3%，6只概念股漲超50%，分別為冰輪環境、中天科技、法爾勝、漢纜股份、東方鉭業、永鼎股份。從業績來看，2026年上半年淨利潤同比增長的超導概念股有13只。中孚實業、綜藝股份、寶勝股份、永鼎股份、中天科技淨利潤增速均超過50%。"
-    },
-    {
-      "id": "mkt:01a066ce-c6b5-7118-8481-373c1eb21533",
-      "time": "2026-09-03 18:27:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission spokesperson said the commission is drafting a proposal for targeted visa restrictions to address security risks, particularly those posed by hostile actions from third countries."
-    },
-    {
-      "id": "5075316",
-      "time": "2026-09-03 18:26:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天源迪科：持股5%以上股東陳友減持實施完畢】天源迪科公告稱，公司持股5%以上股東陳友于2026年8月14日至2026年9月2日期間，透過集中競價交易累計減持公司股份400萬股，佔公司總股本的0.6272%。本次減持後，陳友持股比例由8.1753%降至7.5481%，權益變動觸及1%的整數倍，本次減持計劃已實施完畢。本次減持不會導致公司控股股東及實際控制人發生變化。"
-    },
-    {
-      "id": "5075315",
-      "time": "2026-09-03 18:26:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "小米集團9月3日斥資4940萬港元回購180萬股B類股。"
     }
   ]
 }
