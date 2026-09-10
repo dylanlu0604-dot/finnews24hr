@@ -1,7 +1,69 @@
 {
   "date": "2026-09-11",
-  "count": 371,
+  "count": 377,
   "items": [
+    {
+      "id": "te:economy:582903",
+      "time": "2026-09-11 04:14:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Eases in August — Argentina’s consumer price index rose 1.7% month-over-month in August 2026, easing from 2.1% in July, matching forecasts. Housing, water, electricity, gas and other fuels recorded the largest monthly increase at 2.8%, followed by education at 2.5%. Recreation and culture was unchanged, while clothing and footwear fell 0.6%. Food and non-alcoholic beverages made the largest contribution to monthly inflation across regions, driven by higher prices for vegetables, tubers, legumes, fruit, bread and cereals. Regulated prices rose 2.2%, led by increases in electricity, gas, public transportation and private healthcare costs. Seasonal prices fell 0.9%, as declines in tour packages and clothing were partly offset by higher prices for vegetables, tubers, legumes and fruit. Year-to-date inflation reached 21.3%. Core CPI increased 1.8%."
+    },
+    {
+      "id": "te:markets:582902",
+      "time": "2026-09-11 04:13:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Oracle earnings above expectations at 1.92 USD — Oracle (ORCL) released earnings per share at 1.92 USD, compared to market expectations of 1.73 USD."
+    },
+    {
+      "id": "mkt:01a08cf4-749d-7118-8534-ed4602162eda",
+      "time": "2026-09-11 04:13:45",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) reported fiscal 2027 Q1 free cash flow of negative $5.0 billion."
+    },
+    {
+      "id": "mkt:01a08cf4-26b9-7118-8534-e0f6edb1ee37",
+      "time": "2026-09-11 04:13:25",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) reported operating cash flow of $2.3 bln in fiscal 2027 first quarter."
+    },
+    {
+      "id": "mkt:01a08cf4-0d9b-7118-8534-dd55ec997ca4",
+      "time": "2026-09-11 04:13:19",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) shares rose more than 5% in U.S. after-hours trading."
+    },
+    {
+      "id": "mkt:01a08cf3-a59f-7118-8534-d323a7b882bc",
+      "time": "2026-09-11 04:12:52",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) FY2027 Q1 cloud revenue $11.6 bln."
+    },
     {
       "id": "mkt:01a08cf1-e869-7118-8534-c945ae520f7a",
       "time": "2026-09-11 04:10:58",

@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-11 04:11:23",
-  "count": 13643,
+  "updated": "2026-09-11 04:15:16",
+  "count": 13639,
   "items": [
+    {
+      "id": "te:economy:582903",
+      "time": "2026-09-11 04:14:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Eases in August — Argentina’s consumer price index rose 1.7% month-over-month in August 2026, easing from 2.1% in July, matching forecasts. Housing, water, electricity, gas and other fuels recorded the largest monthly increase at 2.8%, followed by education at 2.5%. Recreation and culture was unchanged, while clothing and footwear fell 0.6%. Food and non-alcoholic beverages made the largest contribution to monthly inflation across regions, driven by higher prices for vegetables, tubers, legumes, fruit, bread and cereals. Regulated prices rose 2.2%, led by increases in electricity, gas, public transportation and private healthcare costs. Seasonal prices fell 0.9%, as declines in tour packages and clothing were partly offset by higher prices for vegetables, tubers, legumes and fruit. Year-to-date inflation reached 21.3%. Core CPI increased 1.8%."
+    },
+    {
+      "id": "te:markets:582902",
+      "time": "2026-09-11 04:13:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Oracle earnings above expectations at 1.92 USD — Oracle (ORCL) released earnings per share at 1.92 USD, compared to market expectations of 1.73 USD."
+    },
+    {
+      "id": "mkt:01a08cf4-749d-7118-8534-ed4602162eda",
+      "time": "2026-09-11 04:13:45",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) reported fiscal 2027 Q1 free cash flow of negative $5.0 billion."
+    },
+    {
+      "id": "mkt:01a08cf4-26b9-7118-8534-e0f6edb1ee37",
+      "time": "2026-09-11 04:13:25",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) reported operating cash flow of $2.3 bln in fiscal 2027 first quarter."
+    },
+    {
+      "id": "mkt:01a08cf4-0d9b-7118-8534-dd55ec997ca4",
+      "time": "2026-09-11 04:13:19",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) shares rose more than 5% in U.S. after-hours trading."
+    },
+    {
+      "id": "mkt:01a08cf3-a59f-7118-8534-d323a7b882bc",
+      "time": "2026-09-11 04:12:52",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) FY2027 Q1 cloud revenue $11.6 bln."
+    },
     {
       "id": "mkt:01a08cf1-e869-7118-8534-c945ae520f7a",
       "time": "2026-09-11 04:10:58",
@@ -124561,94 +124623,6 @@
         "其他"
       ],
       "text": "市場訊息：騰訊音樂完成 10 億美元票據發行定價。"
-    },
-    {
-      "id": "5076201",
-      "time": "2026-09-04 04:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部請求最高法院允許中期選舉實施郵寄選票限制措施。"
-    },
-    {
-      "id": "5076200",
-      "time": "2026-09-04 04:14:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克北部檢查站遭恐襲 致一名民兵死亡】伊拉克什葉派民兵武裝“人民動員組織”3日發表宣告說，該組織位於伊拉克北部基爾庫克省的一處安全檢查站當天遭恐怖襲擊，造成一名成員死亡、一人受傷。宣告說，襲擊發生在當地時間3日凌晨2時左右，傷者已被送往當地醫院接受治療。相關部門已對襲擊事件展開調查。（央視新聞）"
-    },
-    {
-      "id": "5076199",
-      "time": "2026-09-04 04:13:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "納斯達克：8 月美國股票期權成交量 3.63 億份，同比增長 12% 。"
-    },
-    {
-      "id": "mkt:01a068e7-6341-7118-8490-9121381fd865",
-      "time": "2026-09-04 04:13:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Elon Musk said Tesla (TSLA.O) is likely to have more than 30,000 high-paying jobs at its Austin headquarters and manufacturing hub by 2028."
-    },
-    {
-      "id": "5076198",
-      "time": "2026-09-04 04:12:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本片山皋月將留任財務大臣一職。"
-    },
-    {
-      "id": "5076197",
-      "time": "2026-09-04 04:12:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府要求美國最高法院介入，以推動強制執行限制郵寄投票的郵政服務規定。"
-    },
-    {
-      "id": "5076196",
-      "time": "2026-09-04 04:12:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示：“無人機威脅是實實在在的現實，這與俄羅斯官員試圖安撫航空公司的那些說辭截然不同。"
-    },
-    {
-      "id": "5076195",
-      "time": "2026-09-04 04:12:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱對伊海上封鎖已使87艘商船改變航向】當地時間9月3日，美軍中央司令部表示，美軍繼續在區域水域執行對伊朗的海上封鎖。截至當天，美軍已使87艘商船改變航向，使3艘商船喪失航行能力，並登臨檢查了2艘商船。（央視新聞）"
-    },
-    {
-      "id": "5076194",
-      "time": "2026-09-04 04:11:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "偉創力：計劃透過債務及股權融資完成本次交易。"
-    },
-    {
-      "id": "5076193",
-      "time": "2026-09-04 04:11:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行抽調資深銀行家，強化對 “人工智慧生態系統” 的業務佈局。"
     }
   ]
 }
