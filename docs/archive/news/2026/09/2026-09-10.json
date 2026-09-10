@@ -1,7 +1,86 @@
 {
   "date": "2026-09-10",
-  "count": 2411,
+  "count": 2419,
   "items": [
+    {
+      "id": "mkt:01a08bb0-a88a-7118-852e-498a7944c502",
+      "time": "2026-09-10 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week to Sept. 4 due for release in 10 minutes."
+    },
+    {
+      "id": "5087827",
+      "time": "2026-09-10 22:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達投資局投資Positron AI 8.75億美元C輪融資，支援下一代人工智慧推理基礎設施建設。"
+    },
+    {
+      "id": "5087826",
+      "time": "2026-09-10 22:19:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率當日上升 10 個基點，至 4.53%。"
+    },
+    {
+      "id": "5087825",
+      "time": "2026-09-10 22:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流災害已致1382人遇難】根據尼泊爾警方公佈的最新資料，截至當地時間9月10日17時，該國泥石流災害已致1382人遇難。（央視新聞）"
+    },
+    {
+      "id": "5087824",
+      "time": "2026-09-10 22:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院暫停了一項司法裁決，該裁決允許密蘇里州由共和黨繪製的國會選區地圖用於11月的中期選舉。"
+    },
+    {
+      "id": "mkt:01a08bad-ffee-7118-852e-408572d7e7c7",
+      "time": "2026-09-10 22:17:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports OpenAI is working to ensure its AI models do not pose a risk to power grid security."
+    },
+    {
+      "id": "te:markets:582853",
+      "time": "2026-09-10 22:16:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 5% — Copper decreased 5% to 6.4636 USD/Lbs"
+    },
+    {
+      "id": "mkt:01a08bad-6541-7118-852e-3ad22cd3c6d4",
+      "time": "2026-09-10 22:16:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Markets fully expect the ECB to deliver three additional rate hikes by mid-2027."
+    },
     {
       "id": "5087823",
       "time": "2026-09-10 22:15:53",

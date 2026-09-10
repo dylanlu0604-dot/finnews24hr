@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-10 22:17:04",
-  "count": 13617,
+  "updated": "2026-09-10 22:21:09",
+  "count": 13618,
   "items": [
+    {
+      "id": "mkt:01a08bb0-a88a-7118-852e-498a7944c502",
+      "time": "2026-09-10 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week to Sept. 4 due for release in 10 minutes."
+    },
+    {
+      "id": "5087827",
+      "time": "2026-09-10 22:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達投資局投資Positron AI 8.75億美元C輪融資，支援下一代人工智慧推理基礎設施建設。"
+    },
+    {
+      "id": "5087826",
+      "time": "2026-09-10 22:19:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率當日上升 10 個基點，至 4.53%。"
+    },
+    {
+      "id": "5087825",
+      "time": "2026-09-10 22:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流災害已致1382人遇難】根據尼泊爾警方公佈的最新資料，截至當地時間9月10日17時，該國泥石流災害已致1382人遇難。（央視新聞）"
+    },
+    {
+      "id": "5087824",
+      "time": "2026-09-10 22:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院暫停了一項司法裁決，該裁決允許密蘇里州由共和黨繪製的國會選區地圖用於11月的中期選舉。"
+    },
+    {
+      "id": "mkt:01a08bad-ffee-7118-852e-408572d7e7c7",
+      "time": "2026-09-10 22:17:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports OpenAI is working to ensure its AI models do not pose a risk to power grid security."
+    },
+    {
+      "id": "te:markets:582853",
+      "time": "2026-09-10 22:16:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 5% — Copper decreased 5% to 6.4636 USD/Lbs"
+    },
+    {
+      "id": "mkt:01a08bad-6541-7118-852e-3ad22cd3c6d4",
+      "time": "2026-09-10 22:16:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Markets fully expect the ECB to deliver three additional rate hikes by mid-2027."
+    },
     {
       "id": "5087823",
       "time": "2026-09-10 22:15:53",
@@ -124316,76 +124395,6 @@
         "國際"
       ],
       "text": "【美國8月服務業增速創半年來最快 價格指標升至四年高點】8月美國服務業以六個月來最快速度擴張，得益於強勁需求和商業活動回升。美國供應管理協會(ISM)週四公佈的資料顯示，8月服務業指數上升1.3點至55.4，為2月以來最高水平，也高於經濟學家的預期中值。指數高於50意味著行業處於擴張狀態。新訂單增速加快至2023年初以來最高，企業活動指標升至2022年以來最強水平。未完成訂單連續第七個月擴張。"
-    },
-    {
-      "id": "5075842",
-      "time": "2026-09-03 22:21:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "加密貨幣恐懼與貪婪指數：65/100。"
-    },
-    {
-      "id": "mkt:01a067a4-ac78-7118-8489-be7075c43ad1",
-      "time": "2026-09-03 22:20:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【US PMIs signal Q3 growth rebound】S&P Global’s August US services PMI rose to 56.5 from 54.6, below the preliminary 56.8 but the strongest reading since December 2024; services activity was robust while manufacturing kept expanding at a slower pace. The ISM services PMI increased to 55.4 from 54.1, above the 54.1 estimate and the highest since February 2026. S&P Global Market Intelligence economist Usamah Bhatti said: \"In August US private‑sector activity accelerated, marking a clear pickup in the economy. Supply delays remain elevated, especially for manufacturers, and overall price pressures are still above historical averages.\""
-    },
-    {
-      "id": "5075841",
-      "time": "2026-09-03 22:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SuperX：已回購普通股5630股】SuperX（NASDAQ: SUPX）9月3日晚間披露股份回購計劃最新執行進展，截至2026年9月2日，SuperX在2026年股份回購計劃下已回購普通股5630股，平均淨回購價格為每股7.9325美元。根據該計劃，SuperX將在12個月內累計回購不超過2000萬美元的普通股。"
-    },
-    {
-      "id": "mkt:01a067a4-23c8-7118-8489-b4cd97657043",
-      "time": "2026-09-03 22:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for the week ending Aug. 28 due in 10 minutes."
-    },
-    {
-      "id": "5075840",
-      "time": "2026-09-03 22:19:17",
-      "tags": [
-        "行業"
-      ],
-      "text": "【部分車企將新車開發壓縮至20個月以內】有關資料顯示，2026年上半年，國內累計上市新車約630款，平均每天3.5款。部分車企已將新車開發週期從燃油車時代的40個月以上壓縮至20個月以內，個別專案甚至不足18個月。“速成車”，是汽車行業對部分車企為搶佔市場、過度壓縮研發測試周期而推出的不成熟車型的統稱。在激烈競爭下，新車上市節奏明顯加快，部分整車開發週期由傳統的36個月以上壓縮至18個月左右，由此引發對測試驗證環節是否被同步壓縮的擔憂。儘管已有不少業內專家闢謠，今年上半年國內超600款新車上市，混合計算了配置衍生等多種情況，實際並沒那麼多。然而，即便按照各口徑統計後的保守情況看，仍有約165款新車，這一數字處於歷史高位，接近每天一款新車上市。（經濟觀察網）"
-    },
-    {
-      "id": "5075839",
-      "time": "2026-09-03 22:18:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事沃勒釋放支援按兵不動的訊號 美債市場“鬆了口氣”】美聯儲理事克里斯托弗·沃勒表示，只要通脹繼續放緩，他將傾向於維持利率不變。受此推動，美國國債上漲。週四的漲勢推動各期限美債收益率下降3至5個基點，其中對美聯儲利率變動更為敏感的兩年期美債領漲。由於市場此前預期美聯儲本月將加息，兩年期收益率本週一度突破4.40%，為2025年1月以來首次；在沃勒講話後，該收益率一度下降7個基點至4.30%。美元一度下跌0.5%，兌其他所有G-10貨幣均走弱。Mischler Financial Group董事總經理Tom di Galoma表示，沃勒的言論令美國國債市場“鬆了一口氣”。他說，“看來在更多通脹指標出爐之前，他仍然屬於主張維持利率不變的陣營。”"
-    },
-    {
-      "id": "5075838",
-      "time": "2026-09-03 22:17:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【“白宮施壓SpaceX等美太空企業：別去法國，中方也在”】當地時間9月2日，美國“政客新聞網”援引三名知情人士的訊息稱，白宮正向包括馬斯克旗下SpaceX在內的諸多美國太空企業施壓，要求它們拒絕法國總統馬克龍的邀請，自願放棄參加下週在巴黎舉行的太空峰會。這些訊息人士還說，白宮官員在電話中抱怨法國在籌備此次峰會時“未與美國進行協調”，並指責法方存在“反競爭行為”；此外，白宮還暗示峰會的專家小組討論沒有納入美方觀點，可能會削弱美國行業相關努力。還有人士透露，美方對中方出席峰會也表達了“擔憂”。儘管白宮官員強調，是否出席最終由各公司自行決定，但知情人士認為，政府似乎在勸阻企業參會。報道指出，白宮這一突如其來的施壓舉動，令多位企業高管深感困惑和不知所措。（觀察者網）"
     }
   ]
 }
