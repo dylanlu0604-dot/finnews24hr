@@ -1,7 +1,90 @@
 {
-  "updated": "2026-09-10 09:15:40",
-  "count": 13538,
+  "updated": "2026-09-10 09:19:35",
+  "count": 13535,
   "items": [
+    {
+      "id": "5086079",
+      "time": "2026-09-10 09:18:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報9412.00元。"
+    },
+    {
+      "id": "5086078",
+      "time": "2026-09-10 09:18:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報5130.00元。"
+    },
+    {
+      "id": "5086077",
+      "time": "2026-09-10 09:17:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰國暹羅水泥集團化工公司表示，為應對海灣地區供應中斷，該公司已實現石腦油供應來源多元化，新增從印度、澳大利亞、奈及利亞和阿聯酋進口石腦油。"
+    },
+    {
+      "id": "5086076",
+      "time": "2026-09-10 09:17:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報6095.00元。"
+    },
+    {
+      "id": "5086075",
+      "time": "2026-09-10 09:16:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3539.00元。"
+    },
+    {
+      "id": "mkt:01a088e2-8e79-7118-8514-bae911bebd9d",
+      "time": "2026-09-10 09:15:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 1.04% at 24,915, trading a 353-point discount to the cash market."
+    },
+    {
+      "id": "mkt:01a088e2-858d-7118-8514-b34651848e45",
+      "time": "2026-09-10 09:15:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Styrene (EB) most-active contract hit the daily up-limit, gaining 6% to 10,373 yuan/tonne."
+    },
+    {
+      "id": "5086074",
+      "time": "2026-09-10 09:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7766，較上日調高3點】人民幣兌美元中間價報6.7766，較上日調高3點。"
+    },
+    {
+      "id": "5086073",
+      "time": "2026-09-10 09:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，高超音速技術企業Stratolaunch正籌備在美國首次公開募股，最早或於 10 月啟動，募資規模最高可達 5 億美元。"
+    },
     {
       "id": "5086072",
       "time": "2026-09-10 09:15:02",
@@ -123473,119 +123556,6 @@
         "Important"
       ],
       "text": "PBOC said that, based on primary dealers' demand in open-market operations, the 7-day reverse repo operation on Sept. 3, 2026 was zero."
-    },
-    {
-      "id": "5074235",
-      "time": "2026-09-03 09:19:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鑫匯科等成立新公司 含積體電路晶片業務】企查查APP顯示，近日，鑫匯科電子（廣東）有限公司成立，經營範圍包含積體電路晶片及產品製造；積體電路晶片設計及服務；積體電路晶片及產品銷售；積體電路製造等。企查查股權穿透顯示，該公司由鑫匯科等共同持股。"
-    },
-    {
-      "id": "5074234",
-      "time": "2026-09-03 09:19:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國市場監管執法稽查工作暨查處“幽靈外賣”違法行為座談會在包頭召開】近日，全國市場監管執法稽查工作暨查處“幽靈外賣”違法行為座談會在內蒙古自治區包頭市召開。市場監管總局副局長白清元出席會議並講話。會議指出，2026年上半年，全國市場監管系統紮實推進執法稽查各項工作，累計查辦案件64.17萬件，罰沒金額69.82億元，在重大案件查辦、推進服務型執法、執法規範化建設等方面取得階段性突破，尤其是“幽靈外賣”專項整治等重點工作取得積極成效，有效規範了市場經營秩序、守護了民生消費安全。會議要求，下半年抓好四方面重點工作：一是聚焦重點領域精準監管，嚴格落實中央工作要求，集中整治行業“內卷式”競爭亂象；依託“守護消費”鐵拳行動，嚴打食品、電動腳踏車、計量等民生領域違法行為；深化“幽靈外賣”專項整治，協同推進掃黑除惡、打擊電詐、“打假治敲”等專項工作，健全跨部門協同與行刑銜接機制。二是深化服務型執法，堅持寬嚴相濟，對經營主體初次違法、後果輕微、主動改正的，依法免予或從輕、減輕處罰，切實保護和激發經營主體活力。三是最佳化辦案機制，加強統籌指揮，依託叢集辦案模式，強化電子取證技術支撐，迭代行政執法平臺，破解新型案件取證難題。四是推進執法規範化，抓實業務練兵與紀律整頓，深化“清風鐵紀”行動，持續整治執法不規範問題。（市場監管總局）"
-    },
-    {
-      "id": "te:economy:580638",
-      "time": "2026-09-03 09:18:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Services Growth Revised Upward — Japan’s S&P Global Services PMI Business Activity Index rose to 52.5 in August 2026 from the flash reading of 52.3 and July’s 51.2. This marked the strongest pace since March, as new orders rose at a faster pace after hitting a 25-month low in July, with growth slightly above the 2026 average, supported mainly by firmer domestic demand. In contrast, export demand continued to decline. Job creation slowed to its weakest pace in a year and remained marginal. Outstanding business increased only slightly, with the rate of accumulation little changed from July’s 17-month low. Meanwhile, input costs continued to rise substantially, although the pace eased slightly amid persistent cost pressures. Selling-price inflation reached its second-fastest pace since the survey began in late 2007, surpassed only in April 2014 following a national consumption-tax hike. Confidence improved modestly, lifted by planned expansion, AI-related efficiency gains and expectations of stronger customer numbers."
-    },
-    {
-      "id": "5074233",
-      "time": "2026-09-03 09:17:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲3%，現報5898.00元。"
-    },
-    {
-      "id": "5074232",
-      "time": "2026-09-03 09:17:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：尋找收入、利潤、現金流與資本回報同步改善而估值尚未充分反映的高質量、高景氣資產】中信證券研報稱，2026年半年報顯示，A股盈利週期進入加速修復階段，但“盈利改善”本身正在失去稀缺性，景氣擴散的廣度、盈利修復的質量以及市場定價的充分程度，正成為下一階段資產選擇的關鍵。當前資源、科技景氣領先，傳統行業盈利修復有所擴散，消費、製造整體仍處相對低位；但高增長並不等同於高質量，需要進一步驗證盈利“成色”。一是科技板塊重點關注利潤能否轉化為現金，尋找高增長與高盈利質量共振的資產，但對現金流壓力不能一票否決；二是“反內卷”不能僅以資本開支收縮或價格回升判斷，需要觀察供給紀律能否進一步傳導至盈利、現金流和資本回報改善；三是人民幣升值背景下，匯兌損失對盈利質量的影響難以避免，海外毛利率和定價能力成為識別高質量出海的重要線索；四是紅利投資應從高股息、高自由現金流進一步轉向分紅來源及可持續性，並從動態視角挖掘紅利新邏輯。估值層面，市場已開始為不同質量的盈利給予差異化定價，下一階段建議重點尋找收入、利潤、現金流與資本回報同步改善，而估值尚未充分反映的高質量、高景氣資產。"
-    },
-    {
-      "id": "mkt:01a064d7-93d9-7118-8471-36b1f5278025",
-      "time": "2026-09-03 09:17:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Yushu Technology wholly owned subsidiary registers in Chengdu】Sept 2, 2026 — Yushu Technology’s wholly owned unit, Chengdu Yuchen Technology Co., Ltd., completed business registration and established in Chengdu. Yushu and Chengdu city authorities will collaborate on R&D, pilot-production bases, scenario innovation, data services and industry‑education integration, co‑building with local firms to accelerate development of Chengdu’s embodied intelligence industry."
-    },
-    {
-      "id": "5074231",
-      "time": "2026-09-03 09:17:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國推動G20採納人工智慧“輕監管”原則 獲所有成員國支援】美國商務部長霍華德·盧特尼克週三在特朗普政府於北卡羅來納州舉辦的科技與創新峰會閉幕後表示，這一框架已獲得二十國集團(G20)所有成員國支援。儘管這些原則不具法律約束力，但在全球人工智慧領導權競爭日趨激烈之際，G20成員國對其表示支援，仍顯示出各國在技術監管問題上的罕見合作。盧特尼克表示，讓所有參與國家達成一致是一項“極其艱鉅的工作”。這份名為《卡羅來納原則》的檔案呼籲G20國家在制定規則時採取針對特定行業的監管方式，避免設立新的人工智慧監管機構。檔案呼籲政府與私營部門加強合作，共同測試新興技術，同時將延遲採用突破性產品可能帶來的成本納入考量。這些原則將提交給即將召開的G20領導人峰會正式透過。"
-    },
-    {
-      "id": "5074230",
-      "time": "2026-09-03 09:16:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇樹科技全資子公司正式落子成都】據成都發布，2026年9月2日，宇樹科技全資子公司——成都宇辰科技有限公司完成工商註冊登記手續，正式落戶成都。宇樹科技與成都市將聚焦科技研發、中試基地、場景創新、資料服務、產教融合五大核心方向開展全方位、多層次深度合作，與成都本土企業生態共建，全力助推成都具身智慧產業高質量發展。"
-    },
-    {
-      "id": "mkt:01a064d6-8eef-7118-8471-289bc7dea578",
-      "time": "2026-09-03 09:16:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【CITIC Securities maintains view Fed will hold rates in September】CITIC Securities said July US CPI rose 0.1% MoM and core CPI 0.2% MoM, both in line with expectations. The modest MoM CPI gain was led by a rebound in core goods and a pickup in core services, while a second consecutive monthly decline in energy partially offset upside pressure. July PPI YoY continued to decelerate. Although the US–Iran conflict creates uncertainty and risks to oil and inflation remain, overall US inflation upside appears controllable, so CITIC retains its view the Fed will keep policy rates unchanged in September."
-    },
-    {
-      "id": "5074229",
-      "time": "2026-09-03 09:16:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百事寶啟動北交所IPO輔導】證監會網站披露，浙江百事寶電器股份有限公司（簡稱“百事寶”）於2026年9月2日在浙江證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為浙商證券。公開資料顯示，百事寶立足於電力機械和器材製造業，是一家專業從事液壓電磁斷路器、直流接觸器、直流繼電器、過流保護器的設計、研發、製造、銷售的企業。"
-    },
-    {
-      "id": "mkt:01a064d6-20e3-7118-8471-223494335de3",
-      "time": "2026-09-03 09:15:49",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.52% at 25,385, trading at a 74-point premium to the cash index."
-    },
-    {
-      "id": "5074228",
-      "time": "2026-09-03 09:15:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7807，較上日調高22點】人民幣兌美元中間價報6.7807，較上日調高22點。"
     }
   ]
 }
