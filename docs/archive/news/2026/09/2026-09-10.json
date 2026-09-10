@@ -1,7 +1,72 @@
 {
   "date": "2026-09-10",
-  "count": 1202,
+  "count": 1209,
   "items": [
+    {
+      "id": "mkt:01a089d4-cefc-7118-851b-1c53aeffd609",
+      "time": "2026-09-10 13:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Masu, a Bank of Japan Policy Board member, said stabilizing the inflation trend at around 2% is essential."
+    },
+    {
+      "id": "5086438",
+      "time": "2026-09-10 13:39:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海體育局回應劉翔安置工作，未來將持續最佳化退役運動員安置】劉翔同志是我國優秀田徑運動員，也是鐫刻上海歷史的功勳運動員，為體育事業作出了突出貢獻。前期，經與劉翔本人深入溝通，提供了包括田徑中心負責人、技術總監、體育類高校等組織安置方向，劉翔最終選擇自主擇業，我們予以充分尊重。9月1日，劉翔遞交了自願選擇自主擇業申請表，並簽署了有關協議；9月7日，人事關係手續基本辦理完結，並按規定給予了自主擇業經濟補償金。對於劉翔同志將2015年4月以來全部工資收入捐贈用於西藏吉隆泥石流救災的善舉，我們深表敬意！本市運動員安置工作依據國家及本市事業單位人事管理、退役運動員安置相關政策實施。組織安置、自主擇業是政策規定的兩條安置途徑，過去十年間，本市對近千名運動員進行了退役安置，其中包括10餘位獲得奧運冠軍、世界冠軍的運動員。我們會繼續關心好包括劉翔在內的所有退役運動員，也祝願他們在人生新賽道上續寫精彩！我們將認真吸納各方面意見建議，持續最佳化本市退役運動員安置政策，健全運動員轉型發展支援體系，切實維護好退役運動員合法權益。衷心感謝社會各界對體育事業和退役運動員安置工作的關心、監督。"
+    },
+    {
+      "id": "5086437",
+      "time": "2026-09-10 13:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "贈一行：將物價走勢穩定在2%左右至關重要。"
+    },
+    {
+      "id": "mkt:01a089d3-7a02-7118-851b-17d7af4e106a",
+      "time": "2026-09-10 13:38:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Bank of Japan policy board member Masu, when asked about a possible 50bp rate hike, said the central bank should proceed cautiously in raising borrowing costs."
+    },
+    {
+      "id": "mkt:01a089d3-2bce-7118-851b-0d87e9821b03",
+      "time": "2026-09-10 13:38:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan policy board member Masu said underlying inflation is gradually approaching 2%, but currently does not expect it to rise substantially above that level."
+    },
+    {
+      "id": "5086436",
+      "time": "2026-09-10 13:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：潛在通脹正逐步向2%靠攏，但目前預計通脹不會大幅超出這一水平。"
+    },
+    {
+      "id": "5086435",
+      "time": "2026-09-10 13:37:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行增一行：目前未見價格走勢大幅偏離目標上方的情況。"
+    },
     {
       "id": "te:markets:582589",
       "time": "2026-09-10 13:35:29",
