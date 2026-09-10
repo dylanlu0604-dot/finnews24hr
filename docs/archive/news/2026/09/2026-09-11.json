@@ -1,7 +1,62 @@
 {
   "date": "2026-09-11",
-  "count": 301,
+  "count": 307,
   "items": [
+    {
+      "id": "5088145",
+      "time": "2026-09-11 03:05:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士稱，超過100名美國軍事顧問目前駐紮在沙烏地阿拉伯，為沙特針對伊朗支援的葉門胡塞武裝的軍事行動提供情報和目標打擊支援。"
+    },
+    {
+      "id": "5088144",
+      "time": "2026-09-11 03:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議會經濟委員會與伊朗外長舉行會議】伊朗外長阿拉格奇正在對議會各專門委員會進行系列訪問，期間出席了經濟委員會會議，與委員會委員探討外交政策及本國經濟領域最重要的事態進展與相關議題。會議上，相關人員彙報了最新地區局勢，重點介紹了與阿曼方面會談磋商的進展情況。伊朗外交部經濟外交副大臣也彙報了近期美國製裁的最新態勢、各方面情況，以及制裁對本國經貿領域造成的影響與後果。 隨後，外長就議員提出的問題作出回應，並解答了部分關切事項。"
+    },
+    {
+      "id": "mkt:01a08cb5-4428-7118-8534-1214b1a887a6",
+      "time": "2026-09-11 03:04:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CNN cites sources saying more than 100 U.S. military advisers are currently based in Saudi Arabia, providing intelligence and targeting support for Saudi operations against Iran-backed Houthi forces in Yemen."
+    },
+    {
+      "id": "mkt:01a08cb3-f614-7118-8534-0d709362ee5c",
+      "time": "2026-09-11 03:03:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Official Guyanese data showed oil production averaged 886,000 barrels per day in July 2026."
+    },
+    {
+      "id": "5088142",
+      "time": "2026-09-11 03:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋亞那 2026 年 7 月石油產量日均 88.6 萬桶。"
+    },
+    {
+      "id": "5088140",
+      "time": "2026-09-11 03:02:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4360美元/盎司，日內跌2.29%。"
+    },
     {
       "id": "5088139",
       "time": "2026-09-11 03:02:29",
