@@ -1,7 +1,217 @@
 {
   "date": "2026-09-10",
-  "count": 808,
+  "count": 830,
   "items": [
+    {
+      "id": "mkt:01a088fe-a567-7118-8516-672cf4062daf",
+      "time": "2026-09-10 09:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the U.S. will prevail in a war with Iran."
+    },
+    {
+      "id": "5086154",
+      "time": "2026-09-10 09:46:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行增一行：目前沒有跡象表明近期的加息抑制了企業的資金需求，反而令人擔憂企業投資是否出現過熱。"
+    },
+    {
+      "id": "te:economy:582544",
+      "time": "2026-09-10 09:46:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds at Near 3-Year High — The yield on the 10-year US Treasury note traded around 4.85% on Thursday, hoverign at its highest level since October 2023 after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, three times the usual amount, though the move still disappointed some investors who had expected a more substantial increase. Rising oil prices, fueled by escalating tensions between the US and Iran, also stoked inflation concerns and strengthened expectations for near-term interest rate hikes. In addition, mounting fiscal worries and record corporate debt issuance, with AI companies accounting for more than $1.5 trillion in new borrowing, added to upward pressure on Treasury yields. Meanwhile, continued weakness in the Japanese yen prompted Tokyo to repeatedly sell Treasury securities in an effort to support the currency. Investors also remained focused on key US inflation data ahead of the Federal Reserve’s policy meeting next week."
+    },
+    {
+      "id": "mkt:01a088fe-4668-7118-8516-5e481d4ff00f",
+      "time": "2026-09-10 09:46:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share components sector rallied briefly; Sihui Fushi jumped over 10%, with Weiergao, Xunjiexing, Guanghe Technology, Yihao New Materials and Yibo Technology also gaining."
+    },
+    {
+      "id": "5086153",
+      "time": "2026-09-10 09:46:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股汽車股走弱 蔚來跌超5%】截至發稿，蔚來(09866.HK)跌5.05%，小鵬汽車-W(09868.HK)跌3.50%，吉利汽車(000175.HK)跌3.13%。"
+    },
+    {
+      "id": "5086152",
+      "time": "2026-09-10 09:45:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DAN KOICHIRO（團浩一郎）交銀人壽董事任職資格獲批】國家金融監督管理總局上海監管局日前公告稱，核准DAN KOICHIRO（團浩一郎）交銀人壽保險有限公司董事的任職資格。"
+    },
+    {
+      "id": "mkt:01a088fd-c91a-7118-8516-57011fbd55d6",
+      "time": "2026-09-10 09:45:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "China A-share semiconductor sector opened volatile and split. Chengbang hit and held the daily limit; Qipai Technology rose over 9%; Liyang Chip and Youxun Technology gained more than 7% each. Muxi-U fell over 6%; MooreThread-U dropped nearly 4%; VeriSilicon and Awinic Technology also slid."
+    },
+    {
+      "id": "5086151",
+      "time": "2026-09-10 09:45:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英集芯等成立科技新公司，含積體電路晶片業務】企查查APP顯示，近日，珠海市橫琴澤維芯科技有限公司成立，經營範圍包含：積體電路製造；積體電路銷售；積體電路設計；積體電路晶片及產品製造；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由英集芯等共同持股。"
+    },
+    {
+      "id": "5086150",
+      "time": "2026-09-10 09:45:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，四會富仕漲超10%】元件板塊短線拉昇，四會富仕漲超10%，威爾高、迅捷興、廣合科技、逸豪新材、一博科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a088fd-4c6a-7118-8516-4fe055df504c",
+      "time": "2026-09-10 09:44:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "MASU: The Bank of Japan must raise rates further and lift its policy rate to an estimated neutral level to enable more flexible policy implementation."
+    },
+    {
+      "id": "mkt:01a088fd-36ac-7118-8516-45f011a17a8a",
+      "time": "2026-09-10 09:44:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Masu, a Bank of Japan policy board member, said Japan’s financial conditions remain accommodative and the Bank of Japan could be forced to raise rates rapidly if inflation accelerates."
+    },
+    {
+      "id": "te:markets:582543",
+      "time": "2026-09-10 09:44:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall as Oil and Yields Climb — The benchmark KOSPI slipped nearly 2% to around 6,920 on Thursday, reversing gains from the previous session amid surging oil prices and higher US Treasury yields. Brent crude rose above $101 a barrel, its highest level since May, amid escalating US-Iran tensions and growing concerns over disruptions to Middle East energy supplies, raising concerns over inflation and the outlook for monetary policy. The US 10-year Treasury yield also climbed to around 4.86%, its highest level since November 2023, while Wall Street stocks fell for a third straight session, weighing further on Korean shares. Major large-cap stocks declined, including Samsung Electronics (-2.1%), SK hynix (-2.2%), SK Square (-3.4%), Hyundai Motor (-1.3%), LG Energy Solution (-2.4%), and Doosan Enerbility (-4.1%). Meanwhile, South Korea and France agreed to strengthen cooperation in AI and semiconductors, including joint research and investment, offering some longer-term support for Korea's technology sector."
+    },
+    {
+      "id": "5086149",
+      "time": "2026-09-10 09:44:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "增一行：由於日本金融環境持續寬鬆，若通脹加速，央行可能被迫快速加息。"
+    },
+    {
+      "id": "5086148",
+      "time": "2026-09-10 09:44:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普再次提議將霍爾木茲海峽更名為“特朗普海峽”。"
+    },
+    {
+      "id": "5086147",
+      "time": "2026-09-10 09:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：應儘快糾正負實際利率。"
+    },
+    {
+      "id": "5086146",
+      "time": "2026-09-10 09:43:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "增一行：央行政策利率正接近預估的中性利率區間，因此必須密切關注物價、就業和金融狀況。"
+    },
+    {
+      "id": "mkt:01a088fb-f916-7118-8516-3c25a4f5dc4f",
+      "time": "2026-09-10 09:43:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US has achieved the largest deficit reduction on record."
+    },
+    {
+      "id": "5086145",
+      "time": "2026-09-10 09:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將贏得與伊朗的戰爭。"
+    },
+    {
+      "id": "5086144",
+      "time": "2026-09-10 09:43:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：一旦我們贏得對伊朗戰爭，油價就會下跌。"
+    },
+    {
+      "id": "5086143",
+      "time": "2026-09-10 09:42:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲監控體系無法被突破】據伊朗學生通訊社9月9日報道，伊朗伊斯蘭革命衛隊發言人穆赫比8日表示，伊方捕獲美軍最先進的無人潛航器，顯示伊方具備對霍爾木茲海峽實施多層監控的能力，任何先進技術都無法突破伊朗在霍爾木茲海峽的多層監控體系。伊朗伊斯蘭革命衛隊8日發表宣告稱，當地時間當天凌晨在霍爾木茲海峽入口處捕獲一艘美軍智慧無人潛航器。美軍稱，伊朗捕獲的美軍無人潛航器一天多前就發生了“故障”，且未攜帶任何敏感資料或機密裝置。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a088fb-56ce-7118-8516-357e23efda35",
+      "time": "2026-09-10 09:42:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Canada wants to reach an agreement."
+    },
+    {
+      "id": "5086142",
+      "time": "2026-09-10 09:42:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "增一行：日本已不再處於通縮狀態，因此必須儘快將實際利率推升至負值區間以上。"
+    },
     {
       "id": "mkt:01a088fa-e675-7118-8516-2ecdee7ba7bc",
       "time": "2026-09-10 09:42:19",
