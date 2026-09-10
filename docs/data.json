@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-10 13:33:08",
-  "count": 13550,
+  "updated": "2026-09-10 13:37:06",
+  "count": 13549,
   "items": [
+    {
+      "id": "te:markets:582589",
+      "time": "2026-09-10 13:35:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.8% Lower, Nears 6-Week Low — New Zealand stocks dropped 108 points, or 0.8%, to close at 13,711 on Thursday, touching its lowest level since July 31, after rising in the previous session, tracking a downbeat session on Wall Street overnight following a surge in Treasury yields and rising oil prices. Oil continued to rise, raising concerns over inflation and boosting bets that central banks would raise interest rates, including the RBNZ, which recently hiked its interest rate for the second straight meeting. Traders also anticipated the release of US inflation data later this week for clues on the Fed's monetary policy decision at its upcoming meeting, as well as New Zealand's manufacturing PMI for August due on Friday. Industrials, utilities, and financials mainly weighed on the index, with the biggest laggards including Fletcher Building (-2.6%), Delegat Group (-2.1%), Briscoe Group (-1.9%), ANZ Group (-1.5%), Mainfreight (-1.3%), Westpac Banking Corp. (-1.2%), and Freightways Group (-1.2%)."
+    },
+    {
+      "id": "5086434",
+      "time": "2026-09-10 13:35:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克旗下The Boring Company完成30億美元D輪融資，估值達230億美元】9月10日，馬斯克旗下基礎設施和隧道建設公司The Boring Company宣佈完成30億美元D輪融資，估值達230億美元。本輪融資由阿聯酋及關聯投資實體領投。該公司表示，基於此前與阿聯酋在迪拜環線（Dubai Loop）專案上的重大合作成果，這筆戰略投資將加速雙方合作，在阿聯酋全境部署大規模地下基礎設施，包括150公里以上的隧道。本輪其他核心投資方包括Human Capital、Vy Capital、Valor Equity Partners、紅杉資本（Sequoia Capital）、A16Z、淡馬錫（Temasek）、Shamal Holding和Baron Capital，以及其餘多位重要的現有投資者和新投資者。"
+    },
+    {
+      "id": "mkt:01a089d0-268e-7118-851b-007a8883a992",
+      "time": "2026-09-10 13:35:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX fell 242.87 points, or 0.51%, to 46,940.49 at the close on Thursday, Sept. 10."
+    },
+    {
+      "id": "5086433",
+      "time": "2026-09-10 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低0.5%報46,940.49。"
+    },
+    {
+      "id": "5086432",
+      "time": "2026-09-10 13:34:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫金礦業等成立銅研科技公司，註冊資本1億元】企查查APP顯示，近日，福建紫金銅研科技有限公司成立，法定代表人為周建輝，註冊資本為1億元，經營範圍包含：新材料技術研發；有色金屬壓延加工；金屬材料製造；有色金屬合金製造；金屬廢料和碎屑加工處理等。企查查股權穿透顯示，該公司由紫金礦業旗下福建紫金銅業有限公司等共同持股。"
+    },
+    {
+      "id": "5086431",
+      "time": "2026-09-10 13:33:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "越南1-8月對美出口同比增長23.2%，達到1220.2億美元；從美國進口額同比增長26.8%，達到153.9億美元。"
+    },
+    {
+      "id": "mkt:01a089ce-4ca7-7118-851a-ff976ed8feef",
+      "time": "2026-09-10 13:33:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Kimi launches enterprise partner program】On Sept. 10 Kimi launched an enterprise partner program, Moonshot AI reports. The initiative will co-build Forward Deployed Engineer (FDE) teams with IT services and systems-integration partners to embed AI into customers' core operations. Multiple firms from software information services, cloud computing, infrastructure and telecommunications have signed up."
+    },
+    {
+      "id": "5086430",
+      "time": "2026-09-10 13:33:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "越南海關資料顯示，8月份越南對美出口額同比增長24.7%，達到173.5億美元。從美國的進口額同比增長29.7%，達到20.7億美元。對美貿易順差從前月的163.3億美元收窄至152.8億美元。"
+    },
+    {
+      "id": "5086429",
+      "time": "2026-09-10 13:33:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4470美元/盎司，日內漲0.21%。"
+    },
     {
       "id": "5086428",
       "time": "2026-09-10 13:31:57",
@@ -123570,103 +123649,6 @@
         "焦點"
       ],
       "text": "燃料油連續主力合約日內跌5%，現報3771.00元。"
-    },
-    {
-      "id": "5074598",
-      "time": "2026-09-03 13:36:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西對原產於中國的用於高溫溼類家用電器的鋼化玻璃發起反傾銷調查】9月1日，巴西發展、工業、貿易和服務部外貿秘書處釋出2026年第85號公告，應巴西玻璃工業協會於2026年1月27日提交的申請，對原產於中國的用於高溫溼類家用電器的鋼化玻璃發起反傾銷調查。本案涉及南共市稅號7007.19.00項下的產品。本案傾銷調查期為2024年10月至2025年9月，損害調查期為2020年10月至2025年9月。公告自發布之日起生效。"
-    },
-    {
-      "id": "5074597",
-      "time": "2026-09-03 13:36:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊午後繼續下探 微導奈米跌超8%】半導體板塊午後繼續下探，微導奈米跌超8%，矽電股份、匯成股份等下跌。"
-    },
-    {
-      "id": "mkt:01a065c3-cd29-7118-8476-50410a67893e",
-      "time": "2026-09-03 13:35:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell 1.00% intraday to $93.35/bbl."
-    },
-    {
-      "id": "mkt:01a065c3-b174-7118-8476-497a581795f0",
-      "time": "2026-09-03 13:35:18",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY fell 0.7% intraday to around 157.64, hitting its lowest level in nearly four weeks."
-    },
-    {
-      "id": "5074596",
-      "time": "2026-09-03 13:35:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度對原產於或進口自中國的草銨膦及其鹽類作出反吸收肯定性終裁】9月1日，印度商工部發布公告，對原產於或進口自中國的草銨膦及其鹽類作出反吸收肯定性終裁，建議修改2025年5月8日第09/2025-Customs(ADD)號通報所確定的反傾銷稅，將原反傾銷稅2998美元/噸調整為5004美元/噸，稅期同2025年5月8日第09/2025-Customs(ADD)號通報確定的期限一致。"
-    },
-    {
-      "id": "mkt:01a065c3-a259-7118-8476-40861ee73936",
-      "time": "2026-09-03 13:35:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAIEX closed down 307.06 points, or 0.67%, at 45,857.66 on Thursday, Sept. 3."
-    },
-    {
-      "id": "mkt:01a065c2-af54-7118-8476-39a6a32700ae",
-      "time": "2026-09-03 13:34:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "Bitcoin"
-      ],
-      "text": "【Bernstein: AI's influence on Fed policy is growing】Bernstein says markets may have overread Fed Chair Kevin Warsh’s Jackson Hole remarks as explicitly hawkish; Warsh stressed scaling back forward guidance, which could make it harder to infer the Fed’s rate path from a single speech and increase volatility in policy expectations. Warsh also flagged that more than half of this year’s capex growth may be AI-related; near-term AI spending will lift demand for capital, power and equipment, while longer-term productivity gains could alter potential growth — the Fed must weigh both effects. Bernstein did not rule out “currency-debasement” trades: it views US high debt, large deficits and rising interest-service costs as structural risks, and says if the US Treasury continues to intervene in long-end yields, scarce assets such as gold and bitcoin could find support. (Source: JP Morgan report, Sept. 2)"
-    },
-    {
-      "id": "mkt:01a065c2-5bb4-7118-8476-36b4c8c0300a",
-      "time": "2026-09-03 13:33:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai integrated circuit design industrial park 2.0 under construction; industry scale rises to 137.1 bln yuan】The Shanghai Integrated Circuit Design Industrial Park in Zhangjiang expanded industry scale from 40.0 bln yuan at its 2018 launch to 137.1 bln yuan at end-last year. Zhangjiang Hi‑Tech is accelerating construction of Park 2.0 and is establishing an integrated investment, talent recruitment, incubation, services and R&D industry service system. During the 15th Five‑Year Plan period, Pudong will prioritize design-led, full-chain layout to build an IC development hub."
-    },
-    {
-      "id": "5074595",
-      "time": "2026-09-03 13:33:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣儲備告急 或加劇全球天然氣供應爭奪戰】歐洲夏季即將結束，天然氣儲備告急，這可能會加劇全球天然氣供應爭奪戰。據報道，該地區仍需超過 100 太瓦時的天然氣才能達到 75% 的最低儲存目標，而實現這一目標需要比2022年能源危機時期以來前所未有的注入速度。歐洲可能不得不支付高價來確保稀缺貨物運抵其海岸，而且很少有人認為歐洲會出現實際的短缺，因為它有能力支付天然氣費用，但它可能無法免受能源價格上漲帶來的經濟衝擊。"
-    },
-    {
-      "id": "5074594",
-      "time": "2026-09-03 13:33:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元下跌0.7%，報157.64。"
     }
   ]
 }
