@@ -1,7 +1,269 @@
 {
   "date": "2026-09-10",
-  "count": 1980,
+  "count": 2011,
   "items": [
+    {
+      "id": "mkt:01a08afd-1231-7118-8526-09641a8df91a",
+      "time": "2026-09-10 19:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot platinum fell nearly 3% to $1,839.52/oz."
+    },
+    {
+      "id": "5087284",
+      "time": "2026-09-10 19:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空：惡劣天氣事件與空中交通管制限制導致7月和8月運營嚴重中斷。"
+    },
+    {
+      "id": "5087283",
+      "time": "2026-09-10 19:03:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年9月11日開盤起至當日10:30停牌。\n納指ETF國泰：將於2026年9月11日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "mkt:01a08afc-c888-7118-8526-0478553d502b",
+      "time": "2026-09-10 19:03:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "INTC.O",
+        "QCOM.O",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Piper Sandler initiated coverage on Intel (INTC.O) with a MAINTAIN rating and $110 PT; on Qualcomm (QCOM.O) with a MAINTAIN rating and $190 PT; and on NVIDIA (NVDA.O) with an Overweight rating and $300 PT."
+    },
+    {
+      "id": "5087282",
+      "time": "2026-09-10 19:03:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌近3%，至每盎司1839.52美元。"
+    },
+    {
+      "id": "5087281",
+      "time": "2026-09-10 19:03:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：通脹前景惡化，將收緊貨幣政策立場。"
+    },
+    {
+      "id": "mkt:01a08afc-6609-7118-8525-f9f6baffac1b",
+      "time": "2026-09-10 19:03:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotai Nasdaq ETF to be suspended from market open on Sept 11, 2026 until 10:30."
+    },
+    {
+      "id": "5087280",
+      "time": "2026-09-10 19:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒首次覆蓋英偉達，給予增持評級，目標價為300美元。"
+    },
+    {
+      "id": "5087279",
+      "time": "2026-09-10 19:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒首次覆蓋英特爾，給予中性評級，目標價110美元。"
+    },
+    {
+      "id": "mkt:01a08afc-0b43-7118-8525-f7c45919229c",
+      "time": "2026-09-10 19:02:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO received a report of an incident 98 nm southwest of Al Mukalla, Yemen; a vessel reported being approached by an unidentified small boat."
+    },
+    {
+      "id": "5087278",
+      "time": "2026-09-10 19:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀桑德勒開始追蹤高通，評級為中性；目標價190美元。"
+    },
+    {
+      "id": "mkt:01a08afb-dfa3-7118-8525-eaff441793ac",
+      "time": "2026-09-10 19:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin periodic-open hybrid fund will suspend trading from market open on Sept 11, 2026 until 10:30 that day."
+    },
+    {
+      "id": "5087277",
+      "time": "2026-09-10 19:02:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：敦促金融科技企業將資料視為一項受託責任。"
+    },
+    {
+      "id": "mkt:01a08afb-7854-7118-8525-e2b5a0c8653d",
+      "time": "2026-09-10 19:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC deputy governor Xuan Changneng meets MAS deputy governor Liang Xinsong】Sept 10, 2026 — PBOC deputy governor Xuan Changneng met with Monetary Authority of Singapore (MAS) deputy governor Liang Xinsong. They exchanged views on the current economic and financial outlook and China-Singapore financial cooperation."
+    },
+    {
+      "id": "5087276",
+      "time": "2026-09-10 19:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國人民銀行副行長宣昌能會見新加坡金融管理局副行長梁新松】2026年9月10日，中國人民銀行副行長宣昌能會見新加坡金融管理局副行長梁新松。雙方就當前經濟金融形勢和中新金融合作等議題進行了交流。（中國人民銀行）"
+    },
+    {
+      "id": "5087275",
+      "time": "2026-09-10 19:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST棕櫚：因串通投標被罰款292.5萬元】ST棕櫚公告，公司於2026年9月10日收到鄭州市城市綜合執法局出具的《行政處罰決定書》，公司在相關專案中被認定存在串通投標及將承包的工程轉包行為。公司因串通投標被罰款292.5萬元；違法工程轉包待查明後再行實施處罰。"
+    },
+    {
+      "id": "5087274",
+      "time": "2026-09-10 19:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10點發券！廣東明天起發放總計3000萬元文旅消費券】廣東省文化和旅遊廳將於2026年9月11日至10月31日開展2026年廣東“金秋文旅消費季”惠民補貼活動，面向境內外來粵遊客和廣東本地居民發放總計3000萬元的文旅消費券，誠邀八方賓客共賞南粵秋色、樂享金秋文旅紅利。 本次活動設線下、線上兩個專場。市民遊客可透過合作平臺購買指定文旅產品服務，享受滿額立減優惠，最高可減500元。活動期間每日10:00準時發券，數量有限、領完即止。 （大灣區之聲）"
+    },
+    {
+      "id": "5087273",
+      "time": "2026-09-10 19:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，已接到報告，葉門穆卡拉西南98海里處發生一起安全事件。"
+    },
+    {
+      "id": "5087272",
+      "time": "2026-09-10 19:01:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行表示，將維持緊縮貨幣政策立場，直至實現物價穩定。"
+    },
+    {
+      "id": "5087271",
+      "time": "2026-09-10 19:01:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行指出國內需求存在疲軟態勢。"
+    },
+    {
+      "id": "5087270",
+      "time": "2026-09-10 19:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤下跌1.8%，報168865點。"
+    },
+    {
+      "id": "5087269",
+      "time": "2026-09-10 19:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪精密：完成回購411.75萬股，支付1億元】艾迪精密公告，公司此前擬以1億元~2億元回購股份，回購價格上限為27元/股，回購股份用於轉換公司可轉債。截至公告披露日，公司已完成回購，累計回購411.75萬股，佔總股本的0.47%，回購價格區間為22.03元/股~24.92元/股，已支付資金總額1億元（含交易費用）；回購股份已全部用於可轉債轉股。"
+    },
+    {
+      "id": "mkt:01a08afa-6bd6-7118-8525-db6ca337f2e3",
+      "time": "2026-09-10 19:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Central Bank of the Republic of Turkey (CBRT) said it will set the policy rate based on actual and expected inf and its underlying trend."
+    },
+    {
+      "id": "5087268",
+      "time": "2026-09-10 19:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）：阿達尼港口兩名核心管理人員每人繳納137萬盧比達成和解。"
+    },
+    {
+      "id": "mkt:01a08afa-3397-7118-8525-d7e2a47d2ed3",
+      "time": "2026-09-10 19:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank left its benchmark policy rate unchanged at 37.0%, in line with expectations."
+    },
+    {
+      "id": "5087267",
+      "time": "2026-09-10 19:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "杜邦、科慕和科迪華達成和解協議，解決北卡羅來納州全氟和多氟烷基物質相關索賠。"
+    },
+    {
+      "id": "mkt:01a08afa-2bbb-7118-8525-cb15afcde5a6",
+      "time": "2026-09-10 19:00:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT convenes symposium on electronic components industry development】Beijing, Sept 10, 2026 — The Ministry of Industry and Information Technology’s Electronic Information Department held a symposium to coordinate electronic components industry work for the 15th Five-Year Plan period. It ordered baseline industry reviews and technical-roadmap analysis to define development priorities and refine policy support, and urged a systems-based approach with stronger cross-sector coordination, expanded foundational research, and joint action by industry associations, research institutes and key firms to drive coordinated, high-quality development of the electronic components sector."
+    },
+    {
+      "id": "5087266",
+      "time": "2026-09-10 19:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一家銀行認為其四分之一的企業貸款存在問題。"
+    },
+    {
+      "id": "5087265",
+      "time": "2026-09-10 19:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其將一週回購利率維持在37%；預計為37.00%。"
+    },
+    {
+      "id": "mkt:01a08af9-d2aa-7118-8525-c109bf573b0d",
+      "time": "2026-09-10 19:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's one-week repo rate for the week to Sept. 10 was 37.00%; market expected 37.00%, previous 37.00%."
+    },
+    {
+      "id": "5087264",
+      "time": "2026-09-10 19:00:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【防假冒防篡改 市場監管總局完善檢驗檢測報告編號查詢系統】記者今天瞭解到，市場監管總局（國家認監委）近日完成“檢驗檢測報告編號查詢系統”功能最佳化，恢復報告上傳及公眾查詢服務，並正式向社會開放。該系統具備區塊鏈存證、IP地址核驗、專用賬號管理等多項防假冒防篡改功能，並增加報告關鍵欄位資訊查驗內容，向社會公眾提供便捷、可信的檢驗檢測報告查詢服務。該系統引入區塊鏈存證與雜湊值校驗技術，檢驗檢測機構透過專用PC客戶端上傳報告電子原件時，系統將為每份報告自動生成唯一雜湊值並與報告編號繫結，確保報告內容不可篡改、可追溯。報告上傳實行“一機構一賬號”原則，機構使用唯一賬號進行登入上傳，新增郵箱校驗機制。同時，上傳資訊進一步豐富，在原有編號、機構名稱、簽發日期基礎上，增加委託人名稱、授權簽字人、機構聯絡方式等關鍵欄位，便利社會公眾精準查驗，市場監管部門也可透過管理端隨時調取原始檔案進行比對核驗。（央視新聞）"
+    },
     {
       "id": "mkt:01a08af9-b498-7118-8525-b87835e93c46",
       "time": "2026-09-10 19:00:15",

@@ -1,7 +1,269 @@
 {
-  "updated": "2026-09-10 19:00:42",
-  "count": 13673,
+  "updated": "2026-09-10 19:04:33",
+  "count": 13684,
   "items": [
+    {
+      "id": "mkt:01a08afd-1231-7118-8526-09641a8df91a",
+      "time": "2026-09-10 19:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot platinum fell nearly 3% to $1,839.52/oz."
+    },
+    {
+      "id": "5087284",
+      "time": "2026-09-10 19:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空：惡劣天氣事件與空中交通管制限制導致7月和8月運營嚴重中斷。"
+    },
+    {
+      "id": "5087283",
+      "time": "2026-09-10 19:03:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年9月11日開盤起至當日10:30停牌。\n納指ETF國泰：將於2026年9月11日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "mkt:01a08afc-c888-7118-8526-0478553d502b",
+      "time": "2026-09-10 19:03:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "INTC.O",
+        "QCOM.O",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Piper Sandler initiated coverage on Intel (INTC.O) with a MAINTAIN rating and $110 PT; on Qualcomm (QCOM.O) with a MAINTAIN rating and $190 PT; and on NVIDIA (NVDA.O) with an Overweight rating and $300 PT."
+    },
+    {
+      "id": "5087282",
+      "time": "2026-09-10 19:03:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌近3%，至每盎司1839.52美元。"
+    },
+    {
+      "id": "5087281",
+      "time": "2026-09-10 19:03:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：通脹前景惡化，將收緊貨幣政策立場。"
+    },
+    {
+      "id": "mkt:01a08afc-6609-7118-8525-f9f6baffac1b",
+      "time": "2026-09-10 19:03:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotai Nasdaq ETF to be suspended from market open on Sept 11, 2026 until 10:30."
+    },
+    {
+      "id": "5087280",
+      "time": "2026-09-10 19:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒首次覆蓋英偉達，給予增持評級，目標價為300美元。"
+    },
+    {
+      "id": "5087279",
+      "time": "2026-09-10 19:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒首次覆蓋英特爾，給予中性評級，目標價110美元。"
+    },
+    {
+      "id": "mkt:01a08afc-0b43-7118-8525-f7c45919229c",
+      "time": "2026-09-10 19:02:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO received a report of an incident 98 nm southwest of Al Mukalla, Yemen; a vessel reported being approached by an unidentified small boat."
+    },
+    {
+      "id": "5087278",
+      "time": "2026-09-10 19:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀桑德勒開始追蹤高通，評級為中性；目標價190美元。"
+    },
+    {
+      "id": "mkt:01a08afb-dfa3-7118-8525-eaff441793ac",
+      "time": "2026-09-10 19:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin periodic-open hybrid fund will suspend trading from market open on Sept 11, 2026 until 10:30 that day."
+    },
+    {
+      "id": "5087277",
+      "time": "2026-09-10 19:02:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：敦促金融科技企業將資料視為一項受託責任。"
+    },
+    {
+      "id": "5087276",
+      "time": "2026-09-10 19:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國人民銀行副行長宣昌能會見新加坡金融管理局副行長梁新松】2026年9月10日，中國人民銀行副行長宣昌能會見新加坡金融管理局副行長梁新松。雙方就當前經濟金融形勢和中新金融合作等議題進行了交流。（中國人民銀行）"
+    },
+    {
+      "id": "mkt:01a08afb-7854-7118-8525-e2b5a0c8653d",
+      "time": "2026-09-10 19:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC deputy governor Xuan Changneng meets MAS deputy governor Liang Xinsong】Sept 10, 2026 — PBOC deputy governor Xuan Changneng met with Monetary Authority of Singapore (MAS) deputy governor Liang Xinsong. They exchanged views on the current economic and financial outlook and China-Singapore financial cooperation."
+    },
+    {
+      "id": "5087275",
+      "time": "2026-09-10 19:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST棕櫚：因串通投標被罰款292.5萬元】ST棕櫚公告，公司於2026年9月10日收到鄭州市城市綜合執法局出具的《行政處罰決定書》，公司在相關專案中被認定存在串通投標及將承包的工程轉包行為。公司因串通投標被罰款292.5萬元；違法工程轉包待查明後再行實施處罰。"
+    },
+    {
+      "id": "5087274",
+      "time": "2026-09-10 19:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10點發券！廣東明天起發放總計3000萬元文旅消費券】廣東省文化和旅遊廳將於2026年9月11日至10月31日開展2026年廣東“金秋文旅消費季”惠民補貼活動，面向境內外來粵遊客和廣東本地居民發放總計3000萬元的文旅消費券，誠邀八方賓客共賞南粵秋色、樂享金秋文旅紅利。 本次活動設線下、線上兩個專場。市民遊客可透過合作平臺購買指定文旅產品服務，享受滿額立減優惠，最高可減500元。活動期間每日10:00準時發券，數量有限、領完即止。 （大灣區之聲）"
+    },
+    {
+      "id": "5087273",
+      "time": "2026-09-10 19:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，已接到報告，葉門穆卡拉西南98海里處發生一起安全事件。"
+    },
+    {
+      "id": "5087272",
+      "time": "2026-09-10 19:01:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行表示，將維持緊縮貨幣政策立場，直至實現物價穩定。"
+    },
+    {
+      "id": "5087271",
+      "time": "2026-09-10 19:01:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行指出國內需求存在疲軟態勢。"
+    },
+    {
+      "id": "5087270",
+      "time": "2026-09-10 19:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤下跌1.8%，報168865點。"
+    },
+    {
+      "id": "5087269",
+      "time": "2026-09-10 19:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪精密：完成回購411.75萬股，支付1億元】艾迪精密公告，公司此前擬以1億元~2億元回購股份，回購價格上限為27元/股，回購股份用於轉換公司可轉債。截至公告披露日，公司已完成回購，累計回購411.75萬股，佔總股本的0.47%，回購價格區間為22.03元/股~24.92元/股，已支付資金總額1億元（含交易費用）；回購股份已全部用於可轉債轉股。"
+    },
+    {
+      "id": "mkt:01a08afa-6bd6-7118-8525-db6ca337f2e3",
+      "time": "2026-09-10 19:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Central Bank of the Republic of Turkey (CBRT) said it will set the policy rate based on actual and expected inf and its underlying trend."
+    },
+    {
+      "id": "5087268",
+      "time": "2026-09-10 19:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）：阿達尼港口兩名核心管理人員每人繳納137萬盧比達成和解。"
+    },
+    {
+      "id": "mkt:01a08afa-3397-7118-8525-d7e2a47d2ed3",
+      "time": "2026-09-10 19:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank left its benchmark policy rate unchanged at 37.0%, in line with expectations."
+    },
+    {
+      "id": "5087267",
+      "time": "2026-09-10 19:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "杜邦、科慕和科迪華達成和解協議，解決北卡羅來納州全氟和多氟烷基物質相關索賠。"
+    },
+    {
+      "id": "mkt:01a08afa-2bbb-7118-8525-cb15afcde5a6",
+      "time": "2026-09-10 19:00:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT convenes symposium on electronic components industry development】Beijing, Sept 10, 2026 — The Ministry of Industry and Information Technology’s Electronic Information Department held a symposium to coordinate electronic components industry work for the 15th Five-Year Plan period. It ordered baseline industry reviews and technical-roadmap analysis to define development priorities and refine policy support, and urged a systems-based approach with stronger cross-sector coordination, expanded foundational research, and joint action by industry associations, research institutes and key firms to drive coordinated, high-quality development of the electronic components sector."
+    },
+    {
+      "id": "5087266",
+      "time": "2026-09-10 19:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一家銀行認為其四分之一的企業貸款存在問題。"
+    },
+    {
+      "id": "5087265",
+      "time": "2026-09-10 19:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其將一週回購利率維持在37%；預計為37.00%。"
+    },
+    {
+      "id": "mkt:01a08af9-d2aa-7118-8525-c109bf573b0d",
+      "time": "2026-09-10 19:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's one-week repo rate for the week to Sept. 10 was 37.00%; market expected 37.00%, previous 37.00%."
+    },
+    {
+      "id": "5087264",
+      "time": "2026-09-10 19:00:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【防假冒防篡改 市場監管總局完善檢驗檢測報告編號查詢系統】記者今天瞭解到，市場監管總局（國家認監委）近日完成“檢驗檢測報告編號查詢系統”功能最佳化，恢復報告上傳及公眾查詢服務，並正式向社會開放。該系統具備區塊鏈存證、IP地址核驗、專用賬號管理等多項防假冒防篡改功能，並增加報告關鍵欄位資訊查驗內容，向社會公眾提供便捷、可信的檢驗檢測報告查詢服務。該系統引入區塊鏈存證與雜湊值校驗技術，檢驗檢測機構透過專用PC客戶端上傳報告電子原件時，系統將為每份報告自動生成唯一雜湊值並與報告編號繫結，確保報告內容不可篡改、可追溯。報告上傳實行“一機構一賬號”原則，機構使用唯一賬號進行登入上傳，新增郵箱校驗機制。同時，上傳資訊進一步豐富，在原有編號、機構名稱、簽發日期基礎上，增加委託人名稱、授權簽字人、機構聯絡方式等關鍵欄位，便利社會公眾精準查驗，市場監管部門也可透過管理端隨時調取原始檔案進行比對核驗。（央視新聞）"
+    },
     {
       "id": "mkt:01a08af9-b498-7118-8525-b87835e93c46",
       "time": "2026-09-10 19:00:15",
@@ -124516,183 +124778,6 @@
         "其他"
       ],
       "text": "極星仍在與貸方保持建設性對話，繼續就未來俱樂部債務義務與貸方展開磋商。"
-    },
-    {
-      "id": "te:markets:580927",
-      "time": "2026-09-03 19:04:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Eases From 3-Year Peak — Wheat fell below $7.30 per bushel, easing from over a three-year high, amid expectations of a peace agreement between Russia and Ukraine. President Putin stated there was a chance of a peace agreement to end the war with Ukraine, which triggered profit taking by traders. The EU also stated it was looking into \"all possible lanes\" to support grain exports from Ukraine, citing concerns over food security. As Ukraine and Russia account for more than a quarter of global exports, nearly two months of persistent attacks on commercial vessels in the Black and Azov seas raised concerns over further grain supply disruptions. The conflict resulted in a decline in wheat exports from Russia by more than 50%, which suspended its floating export duty on wheat through the end of 2026, and from Ukraine by 34% in 2026 so far. The disruption adds to the pressures building within global food commodities amid adverse weather and higher fertilizer and fuel prices due to the conflict in the Middle East."
-    },
-    {
-      "id": "5075403",
-      "time": "2026-09-03 19:04:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南王科技：董事彭輝波減持計劃屆滿未減持】南王科技公告稱，公司董事彭輝波減持計劃期限已屆滿，期間未減持公司股份。彭輝波原計劃自2026年6月2日起至2026年9月1日止，以集中競價交易方式減持公司股份不超過7500股，佔公司總股本比例0.0039%。截至減持計劃屆滿，彭輝波合計持有公司股份30000股，佔公司總股本比例0.0155%，持股數量未發生變化。本次減持不會導致公司控制權變更，不會對公司治理及經營產生影響。"
-    },
-    {
-      "id": "mkt:01a066f0-c6fe-7118-8481-e349358eb469",
-      "time": "2026-09-03 19:04:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "REUTERS SURVEY: All 65 economists expect the ECB to raise the deposit rate by 25bps to 2.50% at its Sept. 10 meeting."
-    },
-    {
-      "id": "5075402",
-      "time": "2026-09-03 19:03:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "極星汽車第二季度調整後息稅折舊攤銷前虧損為2.86億美元。"
-    },
-    {
-      "id": "5075401",
-      "time": "2026-09-03 19:03:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "維多利亞的秘密股價在釋出第二季度財報後盤前暴跌23%。"
-    },
-    {
-      "id": "5075400",
-      "time": "2026-09-03 19:03:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Snowflake美股盤前漲超25%】Snowflake美股盤前漲超25%，現報383.0美元。"
-    },
-    {
-      "id": "5075399",
-      "time": "2026-09-03 19:03:11",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "燧原科技中籤號出爐：中籤號碼共有20,657個，每個中籤號碼只能認購500股燧原科技A股股票。"
-    },
-    {
-      "id": "5075398",
-      "time": "2026-09-03 19:02:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "極星股價盤前下跌2.8%，此前該公司下調了全年交付預期。"
-    },
-    {
-      "id": "5075397",
-      "time": "2026-09-03 19:02:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃爾瑪與包括唐恩都樂在內的Inspire Brands合作拓展餐飲配送業務。"
-    },
-    {
-      "id": "5075396",
-      "time": "2026-09-03 19:02:16",
-      "tags": [
-        "焦點",
-        "兩會"
-      ],
-      "text": "【2026醫保國談將於9月5日舉行】從多家藥企處獲悉，2026年國家基本醫保藥品目錄談判競價及商保創新藥目錄價格協商工作，將於9月5日在全國人大會議中心啟動。國家醫保局與談判企業的預溝通已於上週完成。今年也將同步進行商保創新藥目錄的價格協商工作，制定新一版商保創新藥目錄。業內人士預計，今年國家醫保目錄調整現場談判競價及商保創新藥目錄價格協商將為期4~5天。（一財）"
-    },
-    {
-      "id": "mkt:01a066ef-0174-7118-8481-df1e81cad7e2",
-      "time": "2026-09-03 19:02:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【2026 China national drug reimbursement talks start Sept. 5】China’s 2026 national basic medical insurance drug-list price negotiations and bidding will begin on Sept. 5 at the National People’s Congress Conference Center. The National Healthcare Security Administration (NHSA) completed pre-talks with negotiating firms last week. Price consultations for a commercial‑insurance innovative drug list will run concurrently as authorities draft a new version. Industry participants expect on‑site NRDL bidding and commercial catalog price talks to last four to five days."
-    },
-    {
-      "id": "5075395",
-      "time": "2026-09-03 19:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第二十一屆中國國際中小企業博覽會在廣州開幕】第二十一屆中國國際中小企業博覽會9月3日在廣州開幕。本屆中博會以“人工智慧賦能中小企業”為主題，舉辦亞太中小企業數智技術與應用場景供需對接活動、APEC中小企業“投資日”主題活動、“一月一鏈”融資促進全國行活動（廣州站）、中小企業服務能力提升活動，聚焦具身智慧、積體電路、新材料等領域舉辦專業展。展會還圍繞政策宣貫、新品釋出、國際合作、產業對接、創新賦能等內容舉辦中小企業出海智慧財產權佈局與國際標準對接等主題活動，以及新品釋出、大中小企業融通對接、境外商務推介等60餘場次配套活動，全面展示人工智慧技術在製造業、服務業及未來產業中的應用成果，引導中小企業探索智慧化發展路徑，推動產業新技術、新模式和新業態落地，助力中小企業更好融入全球產業鏈供應鏈體系。"
-    },
-    {
-      "id": "mkt:01a066ee-c924-7118-8481-d22272c7542f",
-      "time": "2026-09-03 19:02:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian ambassador to Norway demanded the release of Russian vessels."
-    },
-    {
-      "id": "5075394",
-      "time": "2026-09-03 19:01:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE‑100指數收盤基本持平，報174929.70點。"
-    },
-    {
-      "id": "5075393",
-      "time": "2026-09-03 19:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯駐挪威大使要求釋放俄羅斯船隻。"
-    },
-    {
-      "id": "5075392",
-      "time": "2026-09-03 19:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "CIENA股價抹去漲幅，盤前下跌3.3%。"
-    },
-    {
-      "id": "5075391",
-      "time": "2026-09-03 19:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多利亞的秘密：第二季度收到超過1.4億美元的IEEPA關稅退款，佔公司已支付IEEPA關稅的95%以上。"
-    },
-    {
-      "id": "5075390",
-      "time": "2026-09-03 19:01:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "維多利亞的秘密第二季度每股收益為2.18美元。"
-    },
-    {
-      "id": "5075389",
-      "time": "2026-09-03 19:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽維持塞席爾“BB”評級，展望穩定。"
-    },
-    {
-      "id": "5075388",
-      "time": "2026-09-03 19:00:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "維多利亞的秘密上調全年營收指引至71億至71.8億美元。"
     }
   ]
 }
