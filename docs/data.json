@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-11 05:13:48",
-  "count": 13623,
+  "updated": "2026-09-11 05:17:44",
+  "count": 13627,
   "items": [
+    {
+      "id": "5088295",
+      "time": "2026-09-11 05:16:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.66%，報14513點。"
+    },
+    {
+      "id": "5088294",
+      "time": "2026-09-11 05:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯格姆：燃料出口管制過去曾推高價格。"
+    },
+    {
+      "id": "mkt:01a08d2c-4241-7118-8535-a1f07753e257",
+      "time": "2026-09-11 05:14:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft to more than triple global data‑center capacity to over 38 GW by 2032 to ease AI compute shortage】People familiar with the matter said Microsoft (MSFT.O) plans to expand global data‑center capacity to more than 38 GW by 2032 from about 12 GW today — a greater‑than threefold increase — to address compute shortages driven by rapid AI and cloud demand. The roadmap covers owned and leased data centers but excludes compute rented from newer cloud providers such as CoreWeave. The plan remains subject to customer demand and technological change. Sources said Microsoft previously limited some data‑center builds, turned away certain AI and cloud workloads, and restricted new cloud subscriptions in parts of the US and Europe, prompting some customers to migrate to competitors. Microsoft said it is accelerating data‑center construction. The company’s latest fiscal‑year capital expenditure was $145.0 bln; analysts expect capex to rise in coming years."
+    },
+    {
+      "id": "5088293",
+      "time": "2026-09-11 05:14:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：我們隨時準備與美方坐下來談判。"
+    },
+    {
+      "id": "mkt:01a08d2c-0956-7118-8535-997781b0e3e3",
+      "time": "2026-09-11 05:14:28",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) CFO said capex will not rise linearly through the year and expects full-year capital expenditure to remain $9.0–9.5 billion."
+    },
+    {
+      "id": "mkt:01a08d2c-08a7-7118-8535-921598891192",
+      "time": "2026-09-11 05:14:28",
+      "tags": [
+        "MKT News",
+        "ORCL.O"
+      ],
+      "text": "Oracle (ORCL.N) CFO said incremental revenue backlog will not affect the company's capex or revenue; any impact will be reflected in fiscal 2028 or later."
+    },
+    {
+      "id": "mkt:01a08d2b-5c78-7118-8535-8b2dce6c61a5",
+      "time": "2026-09-11 05:13:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said the latest U.S. trade measures targeting Canada have limited impact."
+    },
     {
       "id": "5088292",
       "time": "2026-09-11 05:12:44",
@@ -124505,31 +124570,6 @@
         "XAUUSD"
       ],
       "text": "Saudi outlet Alhadath, citing sources, reports heavy clashes between Yemeni government forces and Houthi forces in southern Hodeidah province."
-    },
-    {
-      "id": "5076283",
-      "time": "2026-09-04 05:17:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "法蘭克福上市的大眾汽車股份<VOWG_p.F>在監事會批准業務扭虧計劃後收漲7.9%。"
-    },
-    {
-      "id": "5076282",
-      "time": "2026-09-04 05:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "露露樂蒙：正採取措施管控非必要開支。"
-    },
-    {
-      "id": "5076281",
-      "time": "2026-09-04 05:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.40%，報14613點。"
     }
   ]
 }
