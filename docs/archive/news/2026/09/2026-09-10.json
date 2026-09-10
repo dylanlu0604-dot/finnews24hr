@@ -1,7 +1,96 @@
 {
   "date": "2026-09-10",
-  "count": 552,
+  "count": 561,
   "items": [
+    {
+      "id": "te:markets:582528",
+      "time": "2026-09-10 08:01:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains Ahead of US Inflation Data — Silver steadied above $67 an ounce on Thursday, holding gains from the previous session as investors cautiously awaited key US inflation readings that could provide further insight into the Federal Reserve’s next policy move. The US producer price index report for August is due later today, followed by the consumer inflation report on Friday. Precious metals found support from a weaker dollar, as well as continued demand for their long-term hedging appeal despite near-term pressure from higher oil prices and bond yields. Oil prices climbed to multi-month highs as the US-Iran conflict intensified, stoking inflation concerns and strengthening expectations for near-term rate hikes. US Treasury yields also moved higher after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, disappointing some investors who had expected a more substantial increase."
+    },
+    {
+      "id": "mkt:01a0889e-5b30-7118-8513-babf25b70537",
+      "time": "2026-09-10 08:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 387.07 points, or 0.59%, at 64,755.71 on Thursday, Sept. 10."
+    },
+    {
+      "id": "5085974",
+      "time": "2026-09-10 08:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央宣傳部、教育部聯合釋出2026年“最美教師”  】在第42個教師節到來之際，中央宣傳部、教育部向全社會發布“最美教師”先進事蹟。 萬勇善、馬天祥、馬超群、馬翠玲、王文科、王永貴、王慶、王如竹、王振、文韜、馮英巧、劉桂華、劉雪雅、李志軍、汪洋、沈澤花、張福鎖、林茂、趙羲、侯光良、郭紹青、崔玉秋、章振樂、彭豔峰、斯郎平措等25名同志光榮入選。"
+    },
+    {
+      "id": "5085973",
+      "time": "2026-09-10 08:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超1.4億人次！青茂口岸開通五週年成績單出爐】日前，珠海青茂口岸迎來開通五週年。據拱北海關統計，五年來，海關累計驗放進出境旅客超1.4億人次，剛過去的暑假通關人數超650萬人次，創下五年來最高紀錄。"
+    },
+    {
+      "id": "5085972",
+      "time": "2026-09-10 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.2%，至7038.85點。"
+    },
+    {
+      "id": "mkt:01a0889d-acfd-7118-8513-b3e77207ced0",
+      "time": "2026-09-10 08:00:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) is partnering with Australia’s data-center ecosystem to expand AI infrastructure capacity."
+    },
+    {
+      "id": "5085971",
+      "time": "2026-09-10 08:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64768.53點，跌幅0.57％。韓國綜合股價指數（KOSPI）開盤下跌0.2％，至7038.85點。"
+    },
+    {
+      "id": "5085970",
+      "time": "2026-09-10 07:59:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴西國家石油公司取消A型汽油每升0.44雷亞爾折扣並上調油價】巴西國家石油公司釋出宣告稱，將取消A型汽油每升0.44雷亞爾的折扣，並向分銷商上調該油品價格0.19雷亞爾/升，調整自週四起生效。此次調整後，分銷商拿到的A型汽油價格為每升3.24雷亞爾。巴西國家石油公司表示，本次調價的總漲幅，已被政府此前宣佈的0.63雷亞爾聯邦減稅政策所抵消。該公司稱，正等待政府柴油補貼檔案正式公佈。"
+    },
+    {
+      "id": "5085969",
+      "time": "2026-09-10 07:58:15",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員無視美國財長斯科特・貝森特 “跟我對賭必虧” 的強硬表態】美國財政部長斯科特・貝森特反覆警告投資者，他會讓這些人遭受重大損失。他堅稱，無論是推高油價、壓低日元匯率，抑或是最為關鍵的抬升美國國債收益率，投資者都在犯下嚴重錯誤。因為他站在這筆交易的對手盤，掌握著投資者無法獲取的政府政策規劃核心資訊。這位前對沖基金交易員總喜歡用博弈論術語將此稱為資訊不對稱。僅過去三週，他就至少四次在公開場合提及這一概念，其中就包括本週二，他向外匯交易員放話：“想跟我對賭，儘管來。”交易員們已經開始這麼做了 —— 至少在債券與原油市場是如此；日元市場暫未出現該情況，美國已緊急出手協助日本當局。自從貝森特開始對原油與債券這兩大市場口頭喊話以來，這兩個對中期選舉前美國家庭民生至關重要的市場走勢均與他的預期背道而馳。基準原油價格突破每桶 100 美元，推高加油站汽油零售價。週三，他推出首筆加碼的債券回購操作，意圖壓低 10 年期美債基準收益率（該收益率是抵押貸款及其他各類貸款的利率基準），但美債收益率反而大幅上行，延續兩週來的拋售行情，一舉觸及 4.85% 的三年新高。"
+    },
     {
       "id": "5085968",
       "time": "2026-09-10 07:57:42",
