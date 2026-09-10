@@ -1,7 +1,64 @@
 {
   "date": "2026-09-10",
-  "count": 2444,
+  "count": 2451,
   "items": [
+    {
+      "id": "5087845",
+      "time": "2026-09-10 22:35:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "CANPACK：已完成從俄羅斯的全部撤資。"
+    },
+    {
+      "id": "5087844",
+      "time": "2026-09-10 22:35:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9月10日增減持彙總】9月10日盤後，據不完全統計，包括合肥城建、固高科技、國科恆泰、歐普康視、皮阿諾、廣聯達、上海合晶的7家A股上市公司披露擬減持情況，煌科技、先惠技術披露擬增持情況。"
+    },
+    {
+      "id": "mkt:01a08bbe-772b-7118-852e-a25e2649ba9d",
+      "time": "2026-09-10 22:35:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 5-year gilt yield rose 14bps intraday to 4.94%, poised for the largest single-day rise since July 8."
+    },
+    {
+      "id": "te:economy:582858",
+      "time": "2026-09-10 22:34:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 40 billion cubic feet (bcf) of natural gas to storage in the week ending September 4, 2026, above market expectations of a 31-bcf build. This compares with an injection of 69 bcf during the same week a year ago and an average increase of 52 bcf for that week over the past five years (2021–2025). The latest injection increased stockpiles to 3.254 trillion cubic feet (tcf), which is 2.4% below the level recorded in the same week a year ago and 4.8% above the five-year average for the week. In the prior week, ended August 28, energy firms added 30 bcf of natural gas to storage."
+    },
+    {
+      "id": "5087843",
+      "time": "2026-09-10 22:34:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國五年期國債收益率日內上漲14個基點，至4.94%，有望創下7月8日以來最大單日漲幅。"
+    },
+    {
+      "id": "5087842",
+      "time": "2026-09-10 22:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王堅稱不要跟AI較勁 它不會取代人】9月10日，阿里雲創始人、之江實驗室主任王堅在外灘大會進行了一場特殊的戶外演講。 “大家不要跟人工智慧去較勁。”在現場互動中，王堅希望人們不要擔心被AI替代，人工智慧既不會、也不能、也不應該取代人。 人工智慧應該被理解為“機器智慧”，而不是“人工製造的人類智慧”。王堅表示，回看人類發展，望遠鏡的出現比眼睛看得更遠，也曾挑戰人，但它最終被人類運用，“凡是有新東西發明，其實都是讓人類重新發現自己的邊界。”（第一財經）"
+    },
     {
       "id": "mkt:01a08bbb-9621-7118-852e-9a9c57b901b4",
       "time": "2026-09-10 22:32:01",
@@ -50,6 +107,15 @@
         "Hang Seng Index"
       ],
       "text": "【Private Enterprises Bureau of the China State Planner pitches 36 transport, logistics, water and energy projects to private investors】On Sept. 10 the Private Enterprises Bureau of the China State Planner held a roundtable with private firms and industry associations to collect investment obstacles and promote private participation. The bureau presented 36 projects focused on transport, logistics, water conservancy and energy, with total planned investment of 61.4 bln yuan and proposed private capital of 15.6 bln yuan. Projects cover rail, warehousing, wind power, energy storage, EV charging infrastructure and water diversion; private investors may enter via wholly owned, controlling or minority stakes in project companies. The initiative aims to spur private investment into infrastructure and energy sectors."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870885740",
+      "time": "2026-09-10 22:30:38",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週EIA天然氣庫存增加400億立方英尺，預期增加310億立方英尺，前值增加300億立方英尺。"
     },
     {
       "id": "5087838",
