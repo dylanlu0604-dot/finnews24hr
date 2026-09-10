@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-11 06:43:50",
-  "count": 13600,
+  "updated": "2026-09-11 06:47:41",
+  "count": 13598,
   "items": [
+    {
+      "id": "5088326",
+      "time": "2026-09-11 06:46:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX CFO：將由星艦送入軌道的首批升級版Starlink衛星料帶來收入】SpaceX首席財務官表示，公司預計，本月晚些時候將由星艦送入軌道的首批升級版Starlink衛星將帶來收入。SpaceX計劃明年發射首批軌道計算衛星。該公司首席財務官表示，SpaceX對年化收入達到1000億美元的預測“更有信心”。SpaceX本月早些時候達成了一項新的資料中心託管協議；客戶身份和交易規模均未披露，但協議結構與此前的交易類似。"
+    },
+    {
+      "id": "te:markets:582918",
+      "time": "2026-09-11 06:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 3.44% — Top crypto losers are XRP (-3.44%), Bitcoin (-1.83%), Binance (-1.40%) and Ether (-0.85%)."
+    },
+    {
+      "id": "te:economy:582917",
+      "time": "2026-09-11 06:44:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "New Zealand Manufacturing Growth at 3-Month Low — The BusinessNZ Performance of Manufacturing Index in New Zealand declined to 53.1 in August, down from 54.3 in July, marking the 22nd consecutive month of expansion but remaining above the long-term average of 52.5. It was the lowest reading since May, as two of the five sub-indices expanded at softer rates."
+    },
+    {
+      "id": "mkt:01a08d7d-d7e8-7118-8536-516388e48d93",
+      "time": "2026-09-11 06:43:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada, Ukraine agree to expand military drone production】Canadian Prime Minister Mark Carney met visiting Ukrainian President Zelenskiy in Calgary on the 10th and agreed to cooperate to expand military drone production, announcing a series of new deals. Ottawa will build a national digital platform for military drones modeled on Ukraine’s \"Brave One\" platform to accelerate R&D, procurement and deployment of drones and counter-drone systems and to secure supplies for the Canadian Armed Forces and Coast Guard. Canada has signed initial procurement contracts worth CAD 50 mln (about USD 36.15 mln). The two sides also signed a Canada‑Ukraine Century Partnership Declaration and a joint declaration to deepen defence and security cooperation."
+    },
+    {
+      "id": "5088325",
+      "time": "2026-09-11 06:43:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大與烏克蘭合作擴大軍用無人機生產】加拿大總理馬克·卡尼10日在艾伯塔省卡爾加里市與到訪的烏克蘭總統澤連斯基舉行會晤。雙方決定合作擴大軍用無人機生產，並宣佈達成一系列新協議。根據加總理辦公室釋出的新聞稿，加拿大將建立一個軍用無人機全國性數字平臺，以烏克蘭“勇敢一號”無人機平臺為藍本，加快無人機及反無人機系統研發、採購和部署，保障加軍及海岸警衛隊的裝備供應。加方已簽署首批價值5000萬加元（約3615萬美元）的採購合同。此外，雙方簽署了《加烏百年夥伴關係宣言》以及加強國防與安全合作的聯合宣言。加方宣佈多項對烏援助及合作計劃，包括採購烏防空攔截彈、維護與重建烏能源基礎設施，以及幫助烏克蘭發展關鍵礦產生產等。（新華社）"
+    },
     {
       "id": "te:markets:582916",
       "time": "2026-09-11 06:40:14",
@@ -124348,68 +124395,6 @@
         "公司"
       ],
       "text": "【8月私募機構調研超6100次，半導體行業關注度居前】在上市公司半年報密集披露的8月份，私募機構調研熱情顯著提升。據私募排排網統計資料，當月共有1072傢俬募機構參與A股上市公司調研，覆蓋599只個股，合計調研次數達6148次，環比增幅高達289.61%。從被調研個股的行業分佈來看，8月份，半導體、醫療器械和通用裝置行業較受青睞。半導體板塊的炬光科技以獲私募機構調研105次居首，成為當月唯一一家被調研次數突破百次的A股上市公司。（證券日報）"
-    },
-    {
-      "id": "5076349",
-      "time": "2026-09-04 06:45:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家科學基金會資助新專案，旨在幫助中學生在人工智慧時代辨別資訊真偽。"
-    },
-    {
-      "id": "5076348",
-      "time": "2026-09-04 06:45:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓媒傳韓國擬派兵力赴霍爾木茲海峽 政府稱部署方案尚未確定】據韓國媒體週四晚間援引政府和軍方訊息人士報道，韓國正準備部署軍事力量，為維護霍爾木茲海峽航行自由提供支援，並計劃在今年年底前派遣相關力量。多家韓國媒體報道稱，韓國政府正在準備相關程式，以尋求國會批准此次部署。報道稱，韓國政府正在考慮多種部署方案，包括派遣海上巡邏機、後勤支援艦，或執行水雷探測與清除任務的部隊，並一直在與美國、英國和法國等國家討論可能參與行動的規模及具體形式。韓國總統府表示，首爾確實一直在討論為維護霍爾木茲海峽航行自由提供支援的具體方式，但有關政府已經確定部署方案的報道“與事實不符”。"
-    },
-    {
-      "id": "5076347",
-      "time": "2026-09-04 06:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭二季度住宅建築產值環比增長 4.8%。"
-    },
-    {
-      "id": "5076346",
-      "time": "2026-09-04 06:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭第二季度建築業產值環比增長 4.8%，預期為增長 1.0%。"
-    },
-    {
-      "id": "mkt:01a06972-c324-7118-8491-789e1bbf16f1",
-      "time": "2026-09-04 06:45:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【South Korea reported preparing forces for Strait of Hormuz; government says deployment not final】Multiple South Korean outlets citing government and military sources reported Thursday night that Seoul is preparing to deploy forces to support freedom of navigation in the Strait of Hormuz and aims to dispatch related units by year‑end, pending National Assembly approval. Reported options under consideration include maritime patrol aircraft, logistics support vessels and mine countermeasure units; Seoul has reportedly discussed force composition and participation with the US, UK and France. The South Korean presidential office said discussions on ways to support navigation have been ongoing but that reports claiming a deployment plan has been finalized are inaccurate."
-    },
-    {
-      "id": "te:markets:581059",
-      "time": "2026-09-04 06:45:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Soars by 7.48% — Top crypto gainers are XRP (7.48%), Bitcoin (5.06%), Binance (4.94%) and Ether (4.40%)."
-    },
-    {
-      "id": "mkt:01a06972-3bc6-7118-8491-733f3aa4bf5e",
-      "time": "2026-09-04 06:44:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC is reportedly set to complete $15bn of credit financing ahead of an IPO."
     }
   ]
 }
