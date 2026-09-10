@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-10 08:06:30",
-  "count": 13545,
+  "updated": "2026-09-10 08:10:33",
+  "count": 13543,
   "items": [
+    {
+      "id": "5085982",
+      "time": "2026-09-10 08:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果釋出首款摺疊屏手機 9月以來17只概念股獲得融資資金加倉】蘋果公司在北京時間週四凌晨1點召開秋季釋出會，推出iPhone 18 Pro系列手機以及首款摺疊屏手機iPhone Duo。據證券時報·資料寶統計，A股中，摺疊屏相關概念股有40餘隻，天祿科技、東山精密年內股價翻倍，長盈精密、星星科技、錦富技術等年內跌幅超30%。下半年以來，有20只概念股獲得機構調研，其中京東方A、藍思科技、TCL科技獲得百家以上機構調研。據資料寶統計，從資金加倉角度看，9月以來（截至8日），17只概念股獲得融資資金加倉，其中TCL科技、東山精密融資加倉金額均超1億元，恆銘達、強瑞技術、精研科技獲加倉均超5000萬元。"
+    },
+    {
+      "id": "mkt:01a088a5-9ffd-7118-8513-d6b5ccd7061f",
+      "time": "2026-09-10 08:09:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Traders ignore Bessent warnings; Treasuries and oil move counter to intent】Bessent has repeatedly warned investors they would be wiped out if they bet against him, saying whether they were driving up oil, pushing down the yen or lifting U.S. Treasury yields they were mistaken because he sits on the other side with access to government policy information — a point he frames as information asymmetry. Since he began publicly targeting Treasury and oil markets, prices have moved contrary to his warnings. Mark Spindel, founder and CIO of Potomac River Capital, said markets have seen through the bluff, and large federal deficits plus skepticism about the Fed’s ability to tame inflation are undermining Bessent’s interventions."
+    },
+    {
+      "id": "5085981",
+      "time": "2026-09-10 08:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果釋出首款摺疊屏手機 20只概念股年內獲機構調研】蘋果公司在北京時間週四凌晨1點召開秋季釋出會，推出iPhone 18 Pro系列手機以及首款摺疊屏手機iPhone Duo。據證券時報·資料寶統計，A股中，摺疊屏相關概念股有40餘隻，天祿科技、東山精密年內股價翻倍，長盈精密、星星科技、錦富技術等年內跌幅超30%。下半年以來，有20只概念股獲得機構調研，其中京東方A、藍思科技、TCL科技獲得百家以上機構調研。據資料寶統計，從資金加倉角度看，9月以來（截至8日），17只概念股獲得融資資金加倉，其中TCL科技、東山精密融資加倉金額均超1億元，恆銘達、強瑞技術、精研科技獲加倉均超5000萬元。"
+    },
+    {
+      "id": "5085980",
+      "time": "2026-09-10 08:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“空軍一號”緊急滑梯意外展開 特朗普行程短暫延誤】美國總統唐納德·特朗普前往達拉斯參加中期選舉大會時，行程被一個意外插曲短暫延誤：卡達贈送專機的緊急滑梯。週三，特朗普乘坐直升機抵達安德魯斯聯合基地後，由於飛機前部旁邊的充氣滑梯處於展開狀態，被迫在機上等待約20分鐘。最終地勤人員將滑梯挪走，特朗普才得以登機啟程。據知情人士透露，這一緊急滑梯是被軍方人員誤開。因涉及事件原因，知情人士要求匿名。 在此之前，特朗普在停機坪上向記者給出了另一種解釋。他表示，工作人員正在對滑梯進行檢查，因為“希望確保一切運轉完美”。他說，這一過程大約需要15分鐘。當被問及是否確信空軍一號可以安全飛行時，特朗普回答說：“對，我很確定，否則我就不會坐它了。”"
+    },
     {
       "id": "5085979",
       "time": "2026-09-10 08:05:15",
@@ -123650,66 +123687,6 @@
         "MKT News"
       ],
       "text": "Australia's S&P/ASX 200 opened up 6.50 points (+0.07%) at 8,984.9 on Sept 3 (Thursday)."
-    },
-    {
-      "id": "5074148",
-      "time": "2026-09-03 08:10:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,990.20點。"
-    },
-    {
-      "id": "mkt:01a06499-ede6-7118-8470-2523b096e1a5",
-      "time": "2026-09-03 08:10:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 10-year bond yield fell 4.5 bps to 2.965%."
-    },
-    {
-      "id": "te:economy:580613",
-      "time": "2026-09-03 08:09:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Services Growth Hits 9-Month High — The AIB Ireland Services PMI inched up to 55.4 in August 2026 from July’s 55.2, marking the highest reading since November 2025. The acceleration in services activity was buoyed by a solid increase in new business, boosted by overseas demand, albeit at a more modest pace than in July. Financial services led the sector, followed by technology, media & telecoms. New business accelerated in August, almost matching June’s seven-month high."
-    },
-    {
-      "id": "mkt:01a06498-5f92-7118-8470-1b2db13c4418",
-      "time": "2026-09-03 08:08:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【M6.0 earthquake in South Sandwich Islands region, South Atlantic】The European-Mediterranean Seismological Centre reports a M6.0 earthquake struck the South Sandwich Islands region (South Atlantic) at 21:46 local time on Sept. 2; focal depth 113 km. No tsunami warning has been issued."
-    },
-    {
-      "id": "5074147",
-      "time": "2026-09-03 08:07:13",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：電力裝置及新能源行業景氣兌現但估值壓低 尋找需求的積極變數】中信建投研報稱，二季度鋰電儲能在收入端兌現高景氣，海風、光伏下挫反映行業目前在底部徘徊、電力裝置行業也持續進入景氣週期，特別是出口連結串列現較為出色，但對於未來的擔憂壓低了板塊的估值。擴產層面，行業整體依然溫和。投資建議：大儲、戶儲板塊、鋰電及材料在二季度開始業績增長兌現，供需形勢依然良好，近期受到外部環境變化挑戰，估值水平明顯回落，值得繼續重點關注。在訂單或邊際變化定價的正規化上，重點關注國產燃氣輪機產業鏈、AIDC、歐洲海風等環節公司訂單變化。"
-    },
-    {
-      "id": "te:economy:580610",
-      "time": "2026-09-03 08:06:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Australia Services PMI Revised Upward — The S&P Global Australia Services PMI Business Activity Index rose to 53.2 in August 2026, exceeding the preliminary estimate of 52.9 but easing from July’s six-month high of 53.6. The latest reading marked a third straight month of growth, supported by a second straight monthly increase in new orders, although the pace remained modest and broadly in line with July. In contrast, foreign orders fell for a fourth month, weighed down by higher fuel costs and lower tourist numbers. Employment grew for a third month running, but the pace moderated from July. On prices, input-cost inflation remained elevated, with the rate of increase ticking up from the prior month, though it stayed well below April’s recent peak. Firms continued to raise their selling prices at a solid pace, albeit more slowly than in July. Finally, sentiment hit a six-month high, coming close to its level before the outbreak of war in the Middle East."
     }
   ]
 }
