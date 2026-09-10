@@ -1,7 +1,112 @@
 {
   "date": "2026-09-11",
-  "count": 269,
+  "count": 278,
   "items": [
+    {
+      "id": "5088125",
+      "time": "2026-09-11 02:37:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部外國資產控制辦公室因涉伊朗關係將5個實體列入制裁名單。"
+    },
+    {
+      "id": "mkt:01a08c9b-7fc9-7118-8533-aea88c4802ad",
+      "time": "2026-09-11 02:36:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury updates guidance on Iran license applications, saying they are deemed denied and that it will deny most pending Iran-related license requests."
+    },
+    {
+      "id": "mkt:01a08c9b-2ff1-7118-8533-a04cc200d5b3",
+      "time": "2026-09-11 02:36:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. official says Iranian oil loadings have fallen sharply】A U.S. official said maritime shipments of Iranian or suspected Iranian crude averaged about 110 million barrels over the past week, down from 180 million barrels before the war. Iranian unloadings have fallen from about 1.4 mln bpd pre-war to roughly 900k bpd. Over the past 30 days loadings averaged about 200k bpd, versus ~1.8 mln bpd in January–February."
+    },
+    {
+      "id": "mkt:01a08c9b-21fa-7118-8533-9ed3dee99eb6",
+      "time": "2026-09-11 02:36:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The U.S. Treasury announced new sanctions on entities supporting Iran's proxies in the Middle East, including an Iraqi business executive."
+    },
+    {
+      "id": "mkt:01a08c99-7d76-7118-8533-9455ab0a4354",
+      "time": "2026-09-11 02:34:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. official: Iran's oil offloading has fallen to about 900,000 barrels per day (bpd), down from 1.4 million bpd before the war."
+    },
+    {
+      "id": "mkt:01a08c99-56f5-7118-8533-8938b526dd5f",
+      "time": "2026-09-11 02:34:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A U.S. official said Iran's oil loadings averaged about 200,000 bpd over the past 30 days, down from roughly 1.8 mln bpd in Jan-Feb."
+    },
+    {
+      "id": "mkt:01a08c99-1166-7118-8533-85340a4d0200",
+      "time": "2026-09-11 02:33:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A U.S. official said maritime shipments of Iranian or suspected Iranian crude averaged 110 million barrels over the past week, down from 180 million barrels pre-war."
+    },
+    {
+      "id": "5088124",
+      "time": "2026-09-11 02:33:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：過去一週，伊朗或疑似伊朗的海上石油平均儲量為1.1億桶，而戰前為1.8億桶。"
+    },
+    {
+      "id": "5088123",
+      "time": "2026-09-11 02:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗石油解除安裝量從戰前的140萬桶/日降至90萬桶/日。"
+    },
     {
       "id": "5088122",
       "time": "2026-09-11 02:33:45",
