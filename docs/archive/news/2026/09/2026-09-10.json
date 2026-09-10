@@ -1,7 +1,245 @@
 {
   "date": "2026-09-10",
-  "count": 1888,
+  "count": 1914,
   "items": [
+    {
+      "id": "5087212",
+      "time": "2026-09-10 18:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元延續漲勢，上漲0.3%至日內高點154.08。"
+    },
+    {
+      "id": "5087211",
+      "time": "2026-09-10 18:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東青島北海造船廠一貨輪火災事故已造成20人遇難】2026年9月10日11時15分許，一外籍貨船在中國船舶集團青島北海造船有限公司檢修過程中發生火情。船上共有42人，其中，12人安全撤出；5人受傷送醫（目前生命體徵平穩）；25人失聯。明火於下午2時30分左右撲滅。截至下午5時30分，失聯人員已搜救出20人，均無生命體徵。事故發生後，山東省和青島市立即啟動應急處置機制，組織應急、消防救援、公安、衛生健康、工信等部門全力開展救援工作。目前，山東省委、省人民政府主要負責同志已赴現場指揮事故處置。（央視新聞）"
+    },
+    {
+      "id": "5087210",
+      "time": "2026-09-10 18:40:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "泰雷茲阿萊尼亞航天公司將為近地軌道的330顆IRIS通訊衛星提供有效載荷。"
+    },
+    {
+      "id": "5087209",
+      "time": "2026-09-10 18:39:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰雷茲阿萊尼亞航天公司與歐洲通訊衛星公司簽署意向書。"
+    },
+    {
+      "id": "5087208",
+      "time": "2026-09-10 18:38:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光：控股股東首次增持737萬股，權益變動觸及1%刻度】 東陽光公告，控股股東深圳市東陽光實業發展有限公司計劃自2026年7月31日起6個月內增持公司A股股份，金額不低於3億元人民幣（含）、不高於6億元人民幣（含）。2026年9月10日，深圳東陽光實業首次透過集中競價增持737萬股，佔總股本0.24%，增持金額2.32億元人民幣；控股股東及其一致行動人合計持股比例由52.84%升至53.08%，權益變動觸及1%刻度。"
+    },
+    {
+      "id": "5087207",
+      "time": "2026-09-10 18:38:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐美英三大央行議息前瞻 美聯儲加息陷入兩難】本週開始，歐洲央行、美聯儲和英國央行將陸續召開議息會議。在油價重回100美元的關口時，三家央行會如何行動？市場對於歐洲央行、美聯儲和英國央行的行動預期卻出現較大的分化。 \n\n路透社調查顯示，經濟學家們普遍預計，歐洲央行會加息25個基點。首先，歐洲這一輪通脹上升，很大程度來自能源相關的供給端因素。其次，如果歐洲央行加息，歐洲和美國之間的利差發生變化，可能影響歐元和美元的走勢。第三。如果歐洲央行進一步收緊貨幣政策，全球債券收益率可能繼續面臨上行壓力，美國的長期融資成本也可能受到影響。 \n\n單純從通脹壓力來看，美聯儲進一步加息的理由也正在增加。但是芝加哥商品交易所美聯儲利率觀測工具資料顯示，目前市場預計美聯儲在下週議息會議上加息25個基點的機率大約只有六成，而且最近一段時間波動明顯。\n\n美國近期公佈的就業資料好於預期，但在AI投資熱潮等多重因素推動下，美國長期融資成本仍然處於高位，美聯儲是否需要透過加息進一步收緊金融環境，面臨一定不確定性。另一方面，9月份議息會議的時間點也比較敏感，再過不久就是美國重要的中期選舉。在副總統萬斯公開喊話後，總統特朗普也施壓，以貿易政策威脅，不僅要求美聯儲不要加息，甚至希望轉而降息。（央視財經）"
+    },
+    {
+      "id": "mkt:01a08ae5-9ab2-7118-8525-59f3d7b367de",
+      "time": "2026-09-10 18:38:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Algeria has decided to sever diplomatic relations with the United Arab Emirates."
+    },
+    {
+      "id": "mkt:01a08ae5-8681-7118-8525-578c68e28d11",
+      "time": "2026-09-10 18:38:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China banking sector international settlements top $13.14 tln in 2025】China's banking sector international settlement volume reached $13.14 tln in 2025, up 10.24% YoY, according to incomplete statistics from the China Banking Association trade finance committee. Domestic letter-of-credit settlements totaled 4.39 tln yuan, up 22% YoY. International trade financing amounted to $554.6 bln, up 14% YoY; domestic trade financing totaled 5.17 tln yuan, up 21.4% YoY. The report said trade finance strengthened simultaneously at home and abroad, reflecting demand release under China's dual-circulation framework."
+    },
+    {
+      "id": "5087206",
+      "time": "2026-09-10 18:37:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿爾及利亞決定斷絕與阿聯酋的外交關係。"
+    },
+    {
+      "id": "mkt:01a08ae5-1390-7118-8525-4b2bc6fed60b",
+      "time": "2026-09-10 18:37:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LME three-month copper fell 3% to $14,309/ton."
+    },
+    {
+      "id": "5087205",
+      "time": "2026-09-10 18:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國銀行業國際結算量超13萬億美元】記者從中國銀行業協會最新發布的《中國貿易金融行業發展報告（2025—2026）》瞭解到，近年來，我國實體經濟基本面穩健、配套政策體系持續完善，銀行業貿易金融各項業務實現穩步增長。據中國銀行業協會貿易金融專業委員會不完全統計，2025年我國銀行業國際結算量達13.14萬億美元，同比增長10.24%；國內信用證結算量4.39萬億元，同比增長22%。貿易融資業務呈現內外同步向好格局，國際貿易融資業務量5,546.15億美元，同比增長14%；國內貿易融資業務量5.17萬億元，同比增長21.4%，國內國際雙迴圈下內外市場需求釋放效應持續顯現。保理業務方面，國際保理業務量261.13億美元，同比增長11.62%；國內保理業務量4.2萬億元，同比增長5%，形成國際國內雙重支撐的發展格局。貿易金融在暢通供應鏈資金迴圈、賦能實體經濟中的關鍵作用持續強化。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08ae4-8560-7118-8525-46638a287fd9",
+      "time": "2026-09-10 18:37:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,380/oz, down 0.49% intraday. Spot silver fell to $66/oz, down 1.92% intraday."
+    },
+    {
+      "id": "5087204",
+      "time": "2026-09-10 18:37:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：收盤競價交易機制（CAS）不會被取消，將長期保留。"
+    },
+    {
+      "id": "mkt:01a08ae4-7f0d-7118-8525-3e4081fad611",
+      "time": "2026-09-10 18:37:05",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "USD/JPY climbed to 154, up 0.33% intraday."
+    },
+    {
+      "id": "mkt:01a08ae4-742b-7118-8525-308fc4951c0d",
+      "time": "2026-09-10 18:37:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "New York copper futures fell more than 4.00% intraday, trading at $6.5875/lb."
+    },
+    {
+      "id": "5087203",
+      "time": "2026-09-10 18:36:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.50%。"
+    },
+    {
+      "id": "5087202",
+      "time": "2026-09-10 18:36:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守66美元/盎司，日內跌1.87%。"
+    },
+    {
+      "id": "5087201",
+      "time": "2026-09-10 18:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超3.00%，現報14309.995美元/噸。"
+    },
+    {
+      "id": "5087200",
+      "time": "2026-09-10 18:35:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "SEFE表示，其旗下SEFE儲能公司成功分配了雷登地下儲氣庫（UGS Rehden）2026/2027儲能年度對外投放的全部2.7太瓦時庫容。"
+    },
+    {
+      "id": "mkt:01a08ae3-60ec-7118-8525-282ff632f58c",
+      "time": "2026-09-10 18:35:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ruipu Lanjun denies online claims it \"restricted employees' restroom use\", says will improve staff communication】Ruipu Lanjun said the viral video relates to an incident at its Jiashan facility. The company said the employee had voluntarily submitted a resignation and requested immediate clearance; company procedures require time and the parties disagreed on timing, after which the employee became emotional and acted out. The matter was resolved the same day in the presence of local police; the company has filed a police report and says claims it \"restricted employees' restroom use\" are inconsistent with the facts. Ruipu Lanjun said it will further improve employee communication channels and reinforce compliance management."
+    },
+    {
+      "id": "5087199",
+      "time": "2026-09-10 18:35:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報66.58美元/盎司。"
+    },
+    {
+      "id": "5087198",
+      "time": "2026-09-10 18:35:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1352.00美元/盎司。"
+    },
+    {
+      "id": "5087197",
+      "time": "2026-09-10 18:35:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "以色列財政部首席經濟學家：以色列的經濟增長預計將超出預期，這主要得益於英偉達公司在該國的巨大研發中心帶來的收入增長。"
+    },
+    {
+      "id": "te:economy:582747",
+      "time": "2026-09-10 18:34:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Portugal Inflation Accelerates to 3.3% in August — Portugal’s annual inflation rate accelerated to 3.3% in August 2026, up from 3.0% in July, reaching its highest level since April. The increase was driven primarily by a sharp acceleration in transport prices, which rose 6.4% year-on-year, compared with 4.9% in July, largely reflecting higher fuel costs amid escalating tensions in the Middle East. Additional pressure came from miscellaneous goods and services (4.5% vs 4.1%), financial and insurance services (3.1% vs 2.6%), restaurants and hotels (6.2% vs 6.0%), and housing and utilities (3.3% vs 3.2%). Meanwhile, inflation eased for food and non-alcoholic beverages (2.1% vs 2.2%) and recreation and culture (1.5% vs 2.4%). Core inflation, which excludes volatile components such as energy and unprocessed food, remained unchanged at 2.6%. The EU-harmonized inflation rate accelerated to 3.6%, its highest level since May 2024 and well above the European Central Bank’s 2% inflation target."
+    },
+    {
+      "id": "5087196",
+      "time": "2026-09-10 18:34:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所：同意中國石化煉油銷售有限公司新增石油瀝青註冊生產企業】9月10日，上海期貨交易所公告：近日，我所收到中國石化煉油銷售有限公司（以下簡稱中石化煉銷）關於新增石油瀝青期貨註冊生產企業中國石油化工股份有限公司廣州分公司（以下簡稱廣州石化分公司）的申請。根據《上海期貨交易所石油瀝青註冊商品管理規定》等有關規定，經研究決定：一、同意中石化煉銷新增廣州石化分公司為我所石油瀝青期貨註冊生產企業。二、自公告之日起，廣州石化分公司生產的70號A級道路石油瀝青可以用於我所石油瀝青期貨合約的履約交割。"
+    },
+    {
+      "id": "5087195",
+      "time": "2026-09-10 18:34:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【COMEX銅期貨跌超4%】COMEX銅期貨跌超4%，現報6.61美元/磅。"
+    },
     {
       "id": "mkt:01a08ae1-7dd4-7118-8525-2540267f6a2d",
       "time": "2026-09-10 18:33:48",
