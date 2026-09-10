@@ -1,7 +1,603 @@
 {
   "date": "2026-09-11",
-  "count": 307,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:01a08cf1-e869-7118-8534-c945ae520f7a",
+      "time": "2026-09-11 04:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oracle (ORCL.N) reported FY2027 Q1 revenue $19.35 bln, up from $19.184 bln a year earlier and above the $19.144 bln consensus."
+    },
+    {
+      "id": "5088206",
+      "time": "2026-09-11 04:10:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文第一財季軟體營收 55.5 億美元，市場預期 56.7 億美元。\n第一財季調整後營業利潤 81.5 億美元，市場預期 78.1 億美元。"
+    },
+    {
+      "id": "5088205",
+      "time": "2026-09-11 04:10:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe：Acrobat AI 助手月活躍使用者環比翻倍。"
+    },
+    {
+      "id": "te:markets:582901",
+      "time": "2026-09-11 04:08:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pressured by Higher Yields — US stock indices closed lower on Thursday as a surge in oil and fuel prices lifted Treasury yields and weighed on corporate margins. The S&P 500 fell 0.6%, the Nasdaq lost 1.1%, and the Dow shed 316 points. Producer prices jumped 0.4% month-over-month in August as the war in Iran lifted wholesale energy prices. Oil and fuel benchmarks have risen further since the start of September amid renewed escalation in the conflict and increased buying from Asia, adding pressure on equities ahead of a possible Federal Reserve rate hike next week. Chipmakers fell amid their exposure to surging long-term borrowing costs, with Nvidia losing 2.3%, Micron tumbling 4.9%, AMD shedding 3.4%, and Intel retreating 5.6%. Oracle fell 5.4% ahead of its earnings report after the bell. Meta (-1.4%) and Palantir (-2.2%) also closed lower. Meanwhile, Apple jumped 3.6% to pare Wednesday’s losses after announcing a series of new products, including the foldable iPhone Duo."
+    },
+    {
+      "id": "5088204",
+      "time": "2026-09-11 04:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱紅海航行“不受威脅”】葉門胡塞武裝10日說，國際船隻透過紅海海域和曼德海峽“不受威脅”，仍然是安全的。葉門胡塞武裝發言人穆罕默德·阿卜杜勒薩拉姆當天在社交媒體平臺上發表宣告說，紅海和曼德海峽通航和國際貿易仍然“安全、正常”，該組織的行動“不會對國際航運構成威脅”。他稱，胡塞武裝目前開展的軍事行動有特定目標，屬於“防禦性”行動。（新華社）"
+    },
+    {
+      "id": "te:markets:582900",
+      "time": "2026-09-11 04:07:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Adobe Systems earnings above expectations at 6.13 USD — Adobe Systems (ADBE) released earnings per share at 6.13 USD, compared to market expectations of 6.05 USD."
+    },
+    {
+      "id": "5088203",
+      "time": "2026-09-11 04:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "據伊通社（IRNA）：葉門武裝部隊對沙烏地阿拉伯南部發動導彈襲擊。"
+    },
+    {
+      "id": "mkt:01a08cee-1f2a-7118-8534-c39586d2ffc1",
+      "time": "2026-09-11 04:06:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA, citing unnamed sources, reports multiple explosions in a southern Saudi city, attributing them to a Houthi missile attack."
+    },
+    {
+      "id": "5088200",
+      "time": "2026-09-11 04:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Adobe預計第四季度營收 68 億至 68.5 億美元，市場預期 68.5 億美元。預計第四季度調整後每股收益 6.30 至 6.35 美元，市場預期 6.30 美元。"
+    },
+    {
+      "id": "mkt:01a08cec-5866-7118-8534-b88a4bfc28fb",
+      "time": "2026-09-11 04:04:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US stocks closed lower on Thursday Sept. 10: Dow Jones Industrial Average fell 316.20 points, or 0.60%, to 52,064.46; S&P 500 dropped 44.56 points, or 0.58%, to 7,591.80; Nasdaq Composite declined 171.62 points, or 0.65%, to 26,081.72."
+    },
+    {
+      "id": "5088199",
+      "time": "2026-09-11 04:04:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲7%，現報108.33美元/桶。"
+    },
+    {
+      "id": "mkt:01a08ce9-ea1a-7118-8534-b01dd100c098",
+      "time": "2026-09-11 04:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's Foreign Ministry said its foreign minister spoke by phone with Saudi Arabia's foreign minister to discuss regional developments and diplomatic efforts to safeguard navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a08ce9-abfa-7118-8534-af61d67335c9",
+      "time": "2026-09-11 04:01:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish",
+        "INTC.O"
+      ],
+      "text": "【U.S. close: major indices down; Apple rises over 3%】U.S. stocks closed lower on Thursday: Dow down 0.6%, S&P 500 down 0.58% and Nasdaq down 0.65%. NVIDIA (NVDA.O) fell 2.2%, Intel (INTC.O) slid 5.5%, SK Hynix (SKHY.O) dropped 5.2%, while Apple (AAPL.O) rose 3.5%. The Nasdaq Golden Dragon China Index gained 0.66%; NIO (NIO.N) fell 3%."
+    },
+    {
+      "id": "5088198",
+      "time": "2026-09-11 04:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Copart 即將達成近 20 億美元收購 ACV Auctions 的交易。"
+    },
+    {
+      "id": "5088197",
+      "time": "2026-09-11 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.60%，標普500指數跌0.58%，納指跌0.65%。庫珀醫療跌14.67%，Michael Baker Corp跌6.66%，麥克莫蘭銅金跌6.56%，慧與跌6.24%，CoreWeave跌6.13%，輝盛研究系統跌5.72%。“七姐妹”方面：蘋果漲3.56%，谷歌漲0.61%，微軟漲0.16%，亞馬遜跌0.20%，特斯拉跌1.16%，Meta Platforms跌1.42%，英偉達跌2.26%。"
+    },
+    {
+      "id": "5088196",
+      "time": "2026-09-11 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.67%】閃送跌9.19%，逸仙電商跌5.42%，禾賽科技跌5.00%，晶科能源跌4.23%，萬國資料跌4.15%。"
+    },
+    {
+      "id": "5088195",
+      "time": "2026-09-11 03:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞提議取消養老基金海外投資上限。"
+    },
+    {
+      "id": "5088194",
+      "time": "2026-09-11 03:57:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：黑石集團計劃收購比此前披露數量更多的 TPU。"
+    },
+    {
+      "id": "mkt:01a08ce5-9a08-7118-8534-a0863f7d2ddf",
+      "time": "2026-09-11 03:57:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israeli military says it destroyed Hezbollah underground facility in southern Lebanon using over 1,100 tonnes of explosives】Prime Minister Netanyahu and Defense Minister Katz said on the evening of the 10th that Israeli forces destroyed Hezbollah underground infrastructure on the Aritah-Shir ridge in southern Lebanon. The IDF said it used more than 1,100 tonnes of explosives to collapse tunnels beneath the ridge."
+    },
+    {
+      "id": "5088193",
+      "time": "2026-09-11 03:57:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱摧毀黎南部真主黨地下設施 使用超千噸炸藥】以色列總理內塔尼亞胡和國防部長卡茨10日晚發表聯合宣告說，以軍當天摧毀了黎巴嫩南部阿里塔希爾山脊地區黎真主黨的地下基礎設施。以色列國防軍當晚發表宣告稱，在爆破時使用了超過1100噸炸藥，以摧毀山脊下方的隧道。（新華社）"
+    },
+    {
+      "id": "mkt:01a08ce5-14bf-7118-8534-9b423d658b5e",
+      "time": "2026-09-11 03:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's foreign ministry said Kuwait's foreign minister spoke by phone on Thursday with Oman's foreign minister to discuss recent regional developments and diplomatic efforts to bolster regional security and ensure safety and freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a08ce4-cfda-7118-8534-93228be078f4",
+      "time": "2026-09-11 03:56:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up 0.23% on 10th】The dollar index, which measures the dollar against six major currencies, rose 0.23% to 99.048 at the New York close. EUR/USD 1.1613, down from 1.1630; GBP/USD 1.3513, down from 1.3546; USD/JPY 154.32, up from 153.60; USD/CHF 0.8129, up from 0.8103; USD/CAD 1.3830, up from 1.3806; USD/SEK 9.6782, up from 9.6009."
+    },
+    {
+      "id": "5088192",
+      "time": "2026-09-11 03:56:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禮來的GLP-1意外之財將用於推動進軍女性健康領域】禮來公司正在為更廣泛地進軍女性健康領域奠定基礎，正在組建專家團隊並在包括骨骼健康和子宮內膜異位症在內的多種疾病中尋找新藥。該公司一直在招募科學家從事骨質疏鬆症和先兆子癇的研究，並已聘請生殖醫學專家Kelle Moley領導女性健康和早期臨床開發。禮來還在其自有實驗室之外尋找機會，對Absci Corp.等公司進行戰略投資，後者正在開發一種治療子宮內膜異位症的實驗性療法。"
+    },
+    {
+      "id": "5088191",
+      "time": "2026-09-11 03:55:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Constellation Energy耗資7.15億美元收購殼牌天然氣發電站。"
+    },
+    {
+      "id": "mkt:01a08ce3-18ba-7118-8534-8e64c47f6ad0",
+      "time": "2026-09-11 03:54:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Treasury buys below cap in Bessent’s expanded buyback; 10-year yield highest since 2023】U.S. Treasury bought $5.187 bln of 10- to 20-year notes in Thursday’s buyback, below the announced $6.0 bln cap and below market expectations, exacerbating the sell-off and pushing the 10-year yield to its highest level since 2023. Investors submitted about $10.5 bln of offers. While the Treasury is not required to fill the cap, this is the third time in 53 long-term buybacks since the program’s 2024 relaunch that it did not purchase the full amount. TD Securities strategist Molly Brooks said the Treasury is being more selective than usual; to meet market expectations and absorb the full allotment it may need to accept less attractive prices in future operations, and the precedent of 100% take-up has been broken, which could help reset market expectations."
+    },
+    {
+      "id": "5088190",
+      "time": "2026-09-11 03:54:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數10日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.23%，在匯市尾市收於99.048。截至紐約匯市尾市，1歐元兌換1.1613美元，低於前一交易日的1.1630美元；1英鎊兌換1.3513美元，低於前一交易日的1.3546美元。1美元兌換154.32日元，高於前一交易日的153.60日元；1美元兌換0.8129瑞士法郎，高於前一交易日的0.8103瑞士法郎；1美元兌換1.3830加元，高於前一交易日的1.3806加元；1美元兌換9.6782瑞典克朗，高於前一交易日的9.6009瑞典克朗。"
+    },
+    {
+      "id": "5088189",
+      "time": "2026-09-11 03:53:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【兩年期美債收益率漲超13個基點，10年期美債收益率創2023件以來新高】週四（9月10日）紐約尾盤，美國10年期國債收益率漲11.58個基點，報4.9565%，繼續逼近2023年10月23日頂部5.0187%和2007年6月13日盤中最高位5.3228%。兩年期美債收益率漲13.61個基點，報4.5666%，逼近2024年7月1日頂部4.7931%；30年期美債收益率漲8.17個基點，報5.3706%，逼近2007年二季度最高位5.4376%、2000年一季度最高位6.7620%2/10年期美債收益率利差跌2.690個基點，報+38.786個基點。10年期通脹保值國債（TIPS）收益率漲8.88個基點，至2.5408%；兩年期TIPS收益率漲8.07個基點，至1.9469%；30年期TIPS收益率漲6.29個基點，至3.0639%。"
+    },
+    {
+      "id": "5088188",
+      "time": "2026-09-11 03:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情累計確診病例超6800例】總檯記者當地時間9月10日獲悉，剛果（金）國家公共衛生研究所通報，截至目前，剛果（金）本輪埃博拉疫情累計確診病例6843例，其中3310人死亡。通報顯示，過去24小時新增確診病例86例、死亡43例。目前已有1611名患者康復，833人正在住院或隔離治療，病死率為48.4%，密切接觸者追蹤率為86.5%。伊圖裡省仍是疫情中心。 (央視新聞)"
+    },
+    {
+      "id": "5088187",
+      "time": "2026-09-11 03:49:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行當前外匯儲備為 505.1 億美元。"
+    },
+    {
+      "id": "mkt:01a08cdc-335d-7118-8534-827b218ed905",
+      "time": "2026-09-11 03:47:16",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Sources said programmable-chip maker Altera, backed by Silver Lake and Intel (INTC.O), is preparing for an IPO as early as this year."
+    },
+    {
+      "id": "5088182",
+      "time": "2026-09-11 03:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "原加密貨幣交易所FTX創始人Sam Bankman-Fried（簡稱SBF）請求美國最高法院評估他的欺詐認罪。"
+    },
+    {
+      "id": "mkt:01a08cd4-fc7c-7118-8534-7d72ff16ab2f",
+      "time": "2026-09-11 03:39:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) CFO says more confident about reaching $100 billion in annualized revenue."
+    },
+    {
+      "id": "5088180",
+      "time": "2026-09-11 03:39:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：本月早些時候簽署了新的資料中心託管協議。"
+    },
+    {
+      "id": "5088177",
+      "time": "2026-09-11 03:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 首席財務官：對實現千億美元年化營收更有信心。"
+    },
+    {
+      "id": "mkt:01a08cd2-a32b-7118-8534-701c93bca256",
+      "time": "2026-09-11 03:36:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US media: US military boosts intelligence support to Saudi Arabia while avoiding direct combat】CNN, citing multiple sources, reports more than 100 U.S. military advisers are deployed in Saudi Arabia to provide intelligence and targeting support against Yemen’s Houthi movement. The personnel are part of a recently formed joint force command totaling about 200. The U.S. has provided target-location tools enabling near‑real‑time battlefield visibility and geospatial strike support, but is not directly conducting airstrikes or supplying aerial refueling or other combat support. The assistance is described as aimed at helping Saudi forces operate more smoothly and professionally. The expansion of support comes as Houthi forces press advances on the Arabian Peninsula, with fighting at its most intense since 2022; the Houthis recently captured a strategic Red Sea port, raising U.S. and Saudi concern about a possible second front. U.S. officials say they assess there are hundreds of Iran’s Islamic Revolutionary Guard Corps personnel in Yemen working with the Houthis, reportedly with an objective to close the Bab al‑Mandeb. U.S. military leaders remain cautious about deeper involvement over the risk of civilian casualties and political fallout."
+    },
+    {
+      "id": "mkt:01a08ccf-3043-7118-8534-6e3d7b783180",
+      "time": "2026-09-11 03:33:03",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O): Next Starship flight will generate revenue."
+    },
+    {
+      "id": "5088170",
+      "time": "2026-09-11 03:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃明年發射首批軌道計算衛星。"
+    },
+    {
+      "id": "5088169",
+      "time": "2026-09-11 03:31:25",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX：星艦下次飛行將產生營收。"
+    },
+    {
+      "id": "5088168",
+      "time": "2026-09-11 03:31:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Amazon Leo 專案新增 6 次阿麗亞娜航天發射訂單，擴大發射合作關係。"
+    },
+    {
+      "id": "5088166",
+      "time": "2026-09-11 03:29:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價10日大幅上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲6.43美元，收於每桶102.48美元，漲幅為6.69%；11月交貨的倫敦布倫特原油期貨價格上漲6.42美元，收於每桶107.63美元，漲幅為6.34%。"
+    },
+    {
+      "id": "mkt:01a08cca-5bbd-7118-8534-6648eaf6fed4",
+      "time": "2026-09-11 03:27:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran foreign minister Araghchi holds phone call with Pakistan army chief Asim Munir】Iran's foreign ministry said Foreign Minister Araghchi spoke by phone with Pakistan army chief General Asim Munir on Thursday evening. They discussed escalating regional tensions and worsening security and exchanged views on the impact on regional peace and stability. Both parties urged regional vigilance, stronger coordination and use of shared capabilities to promote lasting peace and security."
+    },
+    {
+      "id": "5088165",
+      "time": "2026-09-11 03:25:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Agents API 不收取額外費用，開發者僅需支付 Token 使用費用和工具呼叫費用。"
+    },
+    {
+      "id": "mkt:01a08cc8-555d-7118-8534-5eb4070b4544",
+      "time": "2026-09-11 03:25:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI opens Agents API to all developers in a public beta effective today. The API carries no additional platform fees; developers will only be charged for token usage and tool calls."
+    },
+    {
+      "id": "mkt:01a08cc7-e9fd-7118-8534-56ee123ca6b5",
+      "time": "2026-09-11 03:25:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches Agents API."
+    },
+    {
+      "id": "5088164",
+      "time": "2026-09-11 03:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI： Agents API 今日面向所有開發者開放公測。"
+    },
+    {
+      "id": "5088163",
+      "time": "2026-09-11 03:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：達美航空 791 號航班執飛機型為波音 757。"
+    },
+    {
+      "id": "5088162",
+      "time": "2026-09-11 03:24:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出Agents API。"
+    },
+    {
+      "id": "5088161",
+      "time": "2026-09-11 03:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局將就達美航空 791 號航班據稱出現的壓力問題展開調查。"
+    },
+    {
+      "id": "mkt:01a08cc5-53c5-7118-8534-4d9fd818bb33",
+      "time": "2026-09-11 03:22:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense said danger alerts for Khamis Mushait and Abha have been lifted."
+    },
+    {
+      "id": "5088160",
+      "time": "2026-09-11 03:21:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱海米斯穆謝特與艾卜哈的危險已解除。"
+    },
+    {
+      "id": "5088159",
+      "time": "2026-09-11 03:20:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會資料：美國貨幣市場基金資產規模降至 7.97 萬億美元。"
+    },
+    {
+      "id": "5088158",
+      "time": "2026-09-11 03:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "BOX 宣佈接入 ChatGPT，整合企業內容與人工智慧。"
+    },
+    {
+      "id": "5088155",
+      "time": "2026-09-11 03:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：針對艾卜哈釋出緊急警報。"
+    },
+    {
+      "id": "mkt:01a08cc0-41ee-7118-8534-458744763406",
+      "time": "2026-09-11 03:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an emergency alert for Khamis Mushait."
+    },
+    {
+      "id": "mkt:01a08cbf-a97a-7118-8534-3d4e9bd60ea4",
+      "time": "2026-09-11 03:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense issued an emergency alert for Abha."
+    },
+    {
+      "id": "5088153",
+      "time": "2026-09-11 03:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：國家應急預警平臺已在海米斯穆謝特省釋出警報，提示存在危險。"
+    },
+    {
+      "id": "mkt:01a08cbe-8870-7118-8534-35e410d91ff3",
+      "time": "2026-09-11 03:14:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said its foreign minister met Pakistan's army chief to discuss escalating regional tensions and security issues."
+    },
+    {
+      "id": "mkt:01a08cbe-6ff2-7118-8534-2cf1a35250d7",
+      "time": "2026-09-11 03:14:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM Araghchi briefs parliament on regional developments, progress in US talks】Iran foreign minister Araghchi briefed MPs at the parliamentary economic committee on regional developments and on progress in talks with the US. He reported recent discussions with Oman. Deputy minister for economic diplomacy Qanbari outlined recent US sanctions and their effects on Iran’s economy and trade. The session, part of Araghchi’s ongoing visits to parliamentary specialist committees, included answers to MPs’ questions and clarifications on several concerns."
+    },
+    {
+      "id": "5088151",
+      "time": "2026-09-11 03:13:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布涉伊朗制裁宣告：今日行動針對真主黨旅和真主黨。"
+    },
+    {
+      "id": "5088150",
+      "time": "2026-09-11 03:12:43",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "訊息人士：巴西石油公司計劃將柴油價格提高每升1雷亞爾。巴西國家石油公司正等待政府出臺措施，以保護消費者免受柴油價格上漲的影響。"
+    },
+    {
+      "id": "mkt:01a08cbc-6f9b-7118-8534-2793d59cf641",
+      "time": "2026-09-11 03:12:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bearish"
+      ],
+      "text": "Sources say Brazil's state oil company Petrobras is awaiting government measures to shield consumers from diesel price increases."
+    },
+    {
+      "id": "mkt:01a08cbc-1f62-7118-8534-18449ba24bd6",
+      "time": "2026-09-11 03:12:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Sources say Petrobras plans to raise diesel prices by 1 real per liter."
+    },
+    {
+      "id": "5088148",
+      "time": "2026-09-11 03:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "殼牌簽署美國電廠相關協議，開展資產組合動態管理。"
+    },
+    {
+      "id": "5088147",
+      "time": "2026-09-11 03:10:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與巴基斯坦陸軍參謀長通電話】伊朗外交部長阿拉格奇與巴基斯坦陸軍參謀長於本週四晚間舉行電話會談。 通話期間，雙方討論了地區最新局勢，重點談及緊張局勢升級、地區安全形勢惡化，及其對地區和平穩定帶來的影響。 雙方同時強調，地區國家需要保持警惕並開展協作以應對當前局勢，並指出應藉助各方共同力量，助力地區實現持久和平與安全。"
+    },
     {
       "id": "5088145",
       "time": "2026-09-11 03:05:20",
