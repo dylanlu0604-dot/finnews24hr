@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-11 04:34:47",
+  "updated": "2026-09-11 04:38:45",
   "count": 13632,
   "items": [
+    {
+      "id": "5088244",
+      "time": "2026-09-11 04:36:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲8%，現報103.74美元/桶。"
+    },
+    {
+      "id": "te:markets:582906",
+      "time": "2026-09-11 04:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.60% Lower — The Dow Jones Index decreased 317 points or 0.60 percent on Thursday to close at 52064 points. The decline was led by IBM (-2.45%), Nvidia (-2.33%) and Amgen (-2.29%). On the upside, the strongest performers were Apple (3.53%), Walt Disney (1.44%) and Coca-Cola (0.35%)."
+    },
     {
       "id": "mkt:01a08d05-430a-7118-8535-5742d91b0931",
       "time": "2026-09-11 04:32:07",
@@ -124573,26 +124593,6 @@
         "其他"
       ],
       "text": "露露樂蒙表示，消費者對新品的反饋表現 “參差不齊” 。"
-    },
-    {
-      "id": "mkt:01a068fe-5045-7118-8490-db57dfd02f73",
-      "time": "2026-09-04 04:38:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Grok experiencing disruption. Some Grok functions may be slow or temporarily unavailable due to a data-center outage; the team is working to resolve the issue."
-    },
-    {
-      "id": "te:markets:581051",
-      "time": "2026-09-04 04:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.14% Higher — The Dow Jones Index went up by 604 points or 1.14 percent on Thursday to close at 53666 points. The rise was led by Goldman Sachs (3.40%), Salesforce (2.92%) and Microsoft (2.61%)."
     }
   ]
 }

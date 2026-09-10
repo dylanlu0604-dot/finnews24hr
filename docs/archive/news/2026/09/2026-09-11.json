@@ -1,7 +1,27 @@
 {
   "date": "2026-09-11",
-  "count": 401,
+  "count": 403,
   "items": [
+    {
+      "id": "5088244",
+      "time": "2026-09-11 04:36:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲8%，現報103.74美元/桶。"
+    },
+    {
+      "id": "te:markets:582906",
+      "time": "2026-09-11 04:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.60% Lower — The Dow Jones Index decreased 317 points or 0.60 percent on Thursday to close at 52064 points. The decline was led by IBM (-2.45%), Nvidia (-2.33%) and Amgen (-2.29%). On the upside, the strongest performers were Apple (3.53%), Walt Disney (1.44%) and Coca-Cola (0.35%)."
+    },
     {
       "id": "mkt:01a08d05-430a-7118-8535-5742d91b0931",
       "time": "2026-09-11 04:32:07",
