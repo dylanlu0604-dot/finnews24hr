@@ -1,7 +1,98 @@
 {
   "date": "2026-09-11",
-  "count": 226,
+  "count": 235,
   "items": [
+    {
+      "id": "mkt:01a08c89-2f29-7118-8533-37b695e82c9b",
+      "time": "2026-09-11 02:16:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude futures surged past $103.00 per barrel, up 6.55% intraday; Brent crude rose 6.00% intraday to $105.55 per barrel."
+    },
+    {
+      "id": "5088100",
+      "time": "2026-09-11 02:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼稱近日與特朗普進行了\"幾次\"交談。"
+    },
+    {
+      "id": "mkt:01a08c88-081b-7118-8533-28bfcc6cd6d6",
+      "time": "2026-09-11 02:15:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's prime minister's office said the Israeli military destroyed Hezbollah's underground infrastructure on the Ali Taher Ridge in southern Lebanon."
+    },
+    {
+      "id": "5088099",
+      "time": "2026-09-11 02:15:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破103美元/桶，日內漲7.25%。"
+    },
+    {
+      "id": "5088098",
+      "time": "2026-09-11 02:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：以色列軍方摧毀了黎巴嫩南部阿里·塔赫爾山脊的真主黨地下基礎設施。"
+    },
+    {
+      "id": "te:markets:582895",
+      "time": "2026-09-11 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Surges by 7.35% — Top commodity gainers are Methanol (7.35%), Crude Oil (6.93%) and Brent Oil (6.83%)."
+    },
+    {
+      "id": "mkt:01a08c87-c0fc-7118-8533-20a89b48bbfa",
+      "time": "2026-09-11 02:15:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israeli media say the IDF is preparing to blow up tunnels on the Ali Taher ridge in southern Lebanon."
+    },
+    {
+      "id": "5088097",
+      "time": "2026-09-11 02:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息稱，軍方正準備炸燬黎巴嫩南部阿里·塔赫爾山脊的隧道。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609113870974752",
+      "time": "2026-09-11 02:12:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國國債收益率上升，此前回購規模未達目標。"
+    },
     {
       "id": "5088096",
       "time": "2026-09-11 02:12:13",
