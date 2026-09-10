@@ -1,7 +1,236 @@
 {
-  "updated": "2026-09-10 14:28:51",
-  "count": 13585,
+  "updated": "2026-09-10 14:32:48",
+  "count": 13588,
   "items": [
+    {
+      "id": "5086537",
+      "time": "2026-09-10 14:32:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，烏克蘭防空建設與冬季準備工作將是他本次加拿大之行的重點議題。"
+    },
+    {
+      "id": "mkt:01a08a04-3892-7118-851c-e90ce90ab9b2",
+      "time": "2026-09-10 14:32:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Energy shock strains FX; several currencies face heightened depreciation risk】Analyst Jeremy Boulton warned sustained high energy prices would likely deepen losses in already weak currencies — the Indian rupee, Indonesian rupiah, Philippine peso and Turkish lira — and could push them through current record lows. He said central bank support might only slow, not stop, such declines. Pressure stems not only from oil but also from natural gas, palm oil and coal: natural gas is at multi‑year highs, palm oil is at its strongest since Dec 2024, and coal is up about 16% in the past month. Boulton added that if Japanese policy continues to suppress the yen without a material shift in stance, the yen could extend its decades‑long slide and intervention alone may be insufficient. By contrast, higher energy prices could support the US dollar; as a major energy exporter, the US may see reserve‑currency demand for the dollar rise further if emerging‑market currencies weaken sharply."
+    },
+    {
+      "id": "mkt:01a08a03-9c4a-7118-851c-e0489e63239a",
+      "time": "2026-09-10 14:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "On Sept 10 (Thursday), Japan's Nikkei 225 index closed up 128.17 points, or 0.20%, at 65,270.95."
+    },
+    {
+      "id": "mkt:01a08a03-9a54-7118-851c-d89f6eb9f5c4",
+      "time": "2026-09-10 14:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI fell 16.77 points, or 0.24%, to 7,034.87 at the close on Thursday, Sept. 10."
+    },
+    {
+      "id": "5086535",
+      "time": "2026-09-10 14:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！溫州以東海域軍事活動】據中國海事局網站訊息，溫州海事局釋出航行警告，9月10日18時至9月12日18時，東海部分海域開展實彈射擊訓練，禁止駛入。"
+    },
+    {
+      "id": "5086534",
+      "time": "2026-09-10 14:31:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收漲0.20%，報65270.95點。韓國綜指收跌0.24%，報7034.87點。"
+    },
+    {
+      "id": "5086533",
+      "time": "2026-09-10 14:31:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士債券收益率逼近亞馬遜：AI舉債熱潮重塑風險定價】美國大型科技企業大舉發債，導致債券投資者認為部分新興市場企業反而屬於更安全標的。新興市場企業債指數風險溢價正與美國同類基準指數趨同，二者利差目前僅幾個基點。該趨同現象源於AI相關融資規模激增：美國科技企業已在全球借入超6000億美元用於資本開支，預計到2030年融資總額將達到數萬億美元。"
+    },
+    {
+      "id": "5086532",
+      "time": "2026-09-10 14:30:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份等在上海成立諮詢管理公司 註冊資本1000萬】天眼查App顯示，近日，上海孚曦晨沐諮詢管理有限公司成立，法定代表人為章錕，註冊資本1000萬人民幣，經營範圍含企業管理諮詢、資訊科技諮詢服務、社會經濟諮詢服務等。股東資訊顯示，該公司由上海孚騰私募基金管理有限公司、上海華研企業發展（集團）有限公司、沐曦股份旗下沐曦數智（上海）科技有限公司共同持股。"
+    },
+    {
+      "id": "5086531",
+      "time": "2026-09-10 14:30:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃集團宣佈啟動能源園專案，推進瑪麗斯塔德專案下一階段開發。"
+    },
+    {
+      "id": "te:economy:582626",
+      "time": "2026-09-10 14:30:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "ECB Expected to Hike Again as Inflation Stays Elevated — The European Central Bank is expected to raise its key interest rates by 25 basis points on Thursday, marking the second hike since the US-Iran war began, while signaling caution over further increases that could weigh on economic activity. The main refinancing rate is expected to rise to 2.65%, and the deposit rate to 2.5%. Eurozone inflation accelerated to 3.3% in August, its highest level in three years and well above the ECB’s 2% target. However, there have been few signs of the second-round inflation effects policymakers typically fear when energy prices surge, as they have since the war closed the Strait of Hormuz. Economists remain unconvinced that further tightening will be necessary, warning that additional hikes could risk recession. Interest-rate futures, however, are pricing in a third hike by December, while policymakers continue to flag upside risks to inflation and the recent rise in bond yields adds further uncertainty to the policy outlook."
+    },
+    {
+      "id": "5086530",
+      "time": "2026-09-10 14:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道達爾能源在安哥拉獲新油氣發現，拿下新勘探區塊】道達爾能源公司公告稱，該企業在安哥拉17區塊取得一處新油氣發現，並簽署協議獲得安哥拉新勘探區塊的開採權。本次發現將使17區塊日產量提升6000桶。公司表示，Arcacia-5井是其今年在安哥拉資產組合內的第二處勘探成果，此前該公司剛在剛果盆地的0區塊獲得油氣發現。道達爾能源已與安哥拉國家石油公司（ANGP）簽署協議，獲得下剛果盆地17/25區塊與32/21區塊40%的作業權益。"
+    },
+    {
+      "id": "te:markets:582625",
+      "time": "2026-09-10 14:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.26% Lower — The Nikkei 225 Index decreased 170 points or 0.26 percent on Thursday to close at 64973 points. The decline was led by Mitsui Kinzoku (-6.18%), Japan Steel Works (-6.04%) and Nintendo Co (-5.32%). On the upside, the strongest performers were Sharp Corpor (5.40%), Taiyo Yuden (4.57%) and T&D Holdings (3.36%)."
+    },
+    {
+      "id": "mkt:01a08a02-43db-7118-851c-d7f333796dd4",
+      "time": "2026-09-10 14:29:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China wholesale average pork price rises 0.2% day-on-day】As of 14:00 on Sept 10, the Ministry of Agriculture and Rural Affairs reported the agricultural wholesale price 200-index at 117.11, up 0.24 points, and the vegetable-basket wholesale index at 117.93, up 0.29 points. National wholesale average pork price was 16.31 yuan/kg, up 0.2% day-on-day; beef 70.70 yuan/kg, up 0.7%; mutton 66.24 yuan/kg, up 0.7%; eggs 10.98 yuan/kg, up 0.7%; dressed chicken 17.21 yuan/kg, down 0.2%."
+    },
+    {
+      "id": "5086529",
+      "time": "2026-09-10 14:29:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【映翰通：目前公司邊緣AI相關業務仍處於持續推廣和市場拓展階段】映翰通在9月10日召開的2026年半年度網上業績說明會上表示，公司目前已佈局邊緣計算閘道器、EC系列AI邊緣計算機及相關AI解決方案。在儲存方面，公司邊緣計算機等產品配置本地儲存資源，主要用於現場資料快取、日誌留存及邊緣資料處理，屬於邊緣計算裝置的配套能力。目前，公司並未直接開展儲存器件或儲存基礎設施相關業務，公司邊緣AI相關業務仍處於持續推廣和市場拓展階段，部分產品已實現小批次應用，整體收入規模佔公司營業收入比例較小，暫未對公司整體經營業績形成重大影響。"
+    },
+    {
+      "id": "mkt:01a08a01-dd31-7118-851c-cbaa9e441ec8",
+      "time": "2026-09-10 14:29:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Reserve Bank of India swap operations lifted the USD/INR forward premium; the one-year implied rate rose 18 bps to 3.34%."
+    },
+    {
+      "id": "te:economy:582624",
+      "time": "2026-09-10 14:29:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "New Orders",
+        "Importance 1"
+      ],
+      "text": "Sweden New Orders Fall Sharply in July — Sweden’s total industrial orders fell 0.5% year-on-year in July 2026, reversing a 29.5% increase in June and marking the smallest growth since July 2023. The decline was led by orders for intermediate goods which declined sharply to 5.8% from 30.3% rise in the previous month. Energy-related goods excluding durable goods also declined, which fell 18.9% (vs. -10.9% in June), and durable consumer goods, which decreased 8.7% (vs. -3.8%). Meanwhile, capital goods orders increased 0.3% (vs. 51.8%). Orders for non-durable consumer goods rose 12.0%, accelerating from 0.4% in June. On a monthly basis, total orders declined by 24.1%, reversing a 32.3% rise in June. For the January–July period, total orders were 3.6% higher than the corresponding period a year ago, as export market has increased while the domestic market has decreased."
+    },
+    {
+      "id": "5086528",
+      "time": "2026-09-10 14:29:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜零售集團揭幕YARD專案——傑貝阿里棕櫚島首個零售與生活方式目的地。"
+    },
+    {
+      "id": "5086527",
+      "time": "2026-09-10 14:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "華碩電腦尋求發行15億美元零息可轉換債券。"
+    },
+    {
+      "id": "mkt:01a08a01-8fa9-7118-851c-c61766df1e9d",
+      "time": "2026-09-10 14:29:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Traders say the Reserve Bank of India may conduct dollar/Indian rupee buy-sell swaps to drain rupee liquidity."
+    },
+    {
+      "id": "5086526",
+      "time": "2026-09-10 14:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行的掉期操作推升美元兌印度盧比遠期升水；一年期隱含收益率上行18個基點至3.34%。"
+    },
+    {
+      "id": "mkt:01a08a01-7455-7118-851c-babc8fea31c9",
+      "time": "2026-09-10 14:29:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【One-off rate hike could leave ECB on back foot; bond-market risks remain — Marex FX】Marex FX joint head of FX trading and head of private markets Jonathan Pryor warned in a report that the ECB could be left on the back foot after Thursday’s rate decision. He said if the ECB misreads the move as a one-off hike and is overtaken by higher-rate G10 central banks, it could cause lasting reputational damage for Lagarde and the ECB. Pryor added the ECB faces the added challenge of coordinating policy while managing volatile sovereign bond spreads across member states — a risk that is often overlooked. Any ECB commentary on bond markets will therefore be important, he said, because the topic is normally avoided but will be central to the coming months’ challenges."
+    },
+    {
+      "id": "5086525",
+      "time": "2026-09-10 14:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易員稱：印度儲備銀行大機率已開展美元兌印度盧比賣買互換操作，以抽走盧比流動性。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609103870483236",
+      "time": "2026-09-10 14:28:45",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中汽協：8月汽車國內銷量環比增長10.4% 同比下降24.2%】中汽協釋出資料顯示，8月汽車國內銷量完成170.1萬輛，環比增長10.4%，同比下降24.2%。其中，傳統燃料汽車國內銷量58.4萬輛，環比增長9.4%，同比下降45.7%。"
+    },
+    {
+      "id": "mkt:01a08a00-da2f-7118-851c-b6be606d8270",
+      "time": "2026-09-10 14:28:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Barclays: BOJ must deliver additional hawkish signal to sustain yen rally】Barclays said the yen’s recent rally could reverse and USD/JPY may move back above 150 if expectations for faster BOJ tightening disappoint and Japanese pension funds fail to shift into domestic assets as anticipated. Barclays strategists led by Shinichiro Kadota said recent yen strength was driven by bets on BOJ policy tightening, speculation over pension fund flows and technicals. The bank warned further yen gains may require the BOJ to deliver a hawkish surprise relative to already elevated expectations. Barclays added that interest-rate differentials, a Japanese equity risk premium, concerns about Sanae Takaichi’s policy stance and persistent structural yen-selling flows remain headwinds to sustained appreciation."
+    },
     {
       "id": "5086524",
       "time": "2026-09-10 14:27:04",
@@ -123777,206 +124006,6 @@
         "Impact bullish"
       ],
       "text": "Japan's TOPIX closed up 0.5% at 4,102.04 points."
-    },
-    {
-      "id": "5074681",
-      "time": "2026-09-03 14:32:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普稱對伊朗打擊行動將是短期，歐洲天然氣價格企穩】美國總統唐納德・特朗普表態排除中東長期軍事行動的可能性，市場對重啟該地區能源供應的談判重燃期待，歐洲天然氣漲勢暫歇。此前三個交易日天然氣期貨累計飆升 10%，創下三年多新高，基準期貨隨後回落。新一輪衝突推高能源價格、市場擔憂戰爭無限度擴大之際，特朗普表示，對伊朗的後續打擊大機率不會持續很久，並再次宣稱美國掌控霍爾木茲海峽。歐洲天然氣合約價格依舊是戰前水平的兩倍以上，歐洲大陸今冬天然氣庫存處於異常低位，加劇了市場對寒冷季節全球氣源爭奪加劇的擔憂。"
-    },
-    {
-      "id": "mkt:01a065f6-e577-7118-8478-04d913990e2e",
-      "time": "2026-09-03 14:31:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI closed up 16.76 points, or 0.26%, at 6,579.48 on Thursday, Sept. 3."
-    },
-    {
-      "id": "mkt:01a065f6-df2b-7118-8477-ff2e21e8f380",
-      "time": "2026-09-03 14:31:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 closed down 111.16 points, or 0.17%, at 64,214.48 on Thursday, Sept. 3."
-    },
-    {
-      "id": "mkt:01a065f6-d887-7118-8477-f7a96ffebe9a",
-      "time": "2026-09-03 14:31:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Themes",
-        "The Trump Trade",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【ANZ: Copper could hit record high early next year】ANZ says copper could reach a record high in early next year as US tariff concerns, mining supply challenges and resilient global demand tighten the market. Analysts Kumari and Haines say speculation that the Trump administration may impose tariffs on copper has redirected large volumes of supply into the US, tightening availability elsewhere. EV and new‑energy infrastructure investment should underpin demand, while supply faces downside risks from El Nifio‑related output losses in Chile and rising hydropower risks in Brazil."
-    },
-    {
-      "id": "5074680",
-      "time": "2026-09-03 14:31:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市收盤漲跌互現】日經225指數收盤下跌111.16點，跌幅0.17%，報64214.48點。；韓國KOSPI指數收盤上漲16.76點，漲幅0.26%，報6579.48點。"
-    },
-    {
-      "id": "5074679",
-      "time": "2026-09-03 14:30:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【房屋租賃板塊震盪走弱，我愛我家跌停】房屋租賃板塊震盪走弱，我愛我家跌停，深物業A、東易日盛、世聯行等跟跌。"
-    },
-    {
-      "id": "5074678",
-      "time": "2026-09-03 14:30:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【青海省國有資產投資管理有限公司原總經理姚洪仲被開除黨籍】經查，姚洪仲喪失理想信念，背棄初心使命，對黨不忠誠不老實，處心積慮對抗組織審查；無視中央八項規定精神和廉潔紀律，多次接受可能影響公正執行公務的宴請，違規收受管理和服務物件禮品、消費卡；違規出借國有資金；毫無紀法底線，利用職務便利，挪用鉅額公款用於私營企業經營等活動，個人獲取鉅額回報；將公權力異化為謀取私利的工具，為他人在承攬專案等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "5074677",
-      "time": "2026-09-03 14:30:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股CPO概念震盪走高，四會富仕漲超12%，華源控股、三安光電雙雙漲停，德科立漲超5%，中富電路、燕麥科技、聯訊儀器、劍橋科技、天通股份等個股跟漲。"
-    },
-    {
-      "id": "5074676",
-      "time": "2026-09-03 14:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法外長呼籲歐盟拒絕與定居點貿易】當地時間9月2日，法國外長巴羅呼籲歐盟，對以色列在約旦河西岸推進的定居點建設以及實施暴力活動的人員採取制裁措施，同時應拒絕來自非法定居點的任何產品進入歐盟市場。他強調，猶太人定居者在約旦河西岸的暴力行徑，不僅威脅“兩國方案”，而且侵犯巴勒斯坦人民的尊嚴，還危及以色列自身及整個地區的安全，歐盟不能以貿易活動支援非法佔領行徑。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a065f6-3287-7118-8477-ea2be58b3400",
-      "time": "2026-09-03 14:30:28",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share CPO concept stocks traded higher. Sihui Fushi rose more than 12%; Huayuan Holdings and San'an Optoelectronics hit daily limit-up. Dekoli gained over 5%, while Zhongfu Circuit, Yanmai Technology, Lianxun Instruments, Cambridge Technology and Tiantong Co. also advanced."
-    },
-    {
-      "id": "te:markets:580757",
-      "time": "2026-09-03 14:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.17% Lower — The Nikkei 225 Index decreased 107 points or 0.17 percent on Thursday to close at 64219 points. The decline was led by Citizen Holdings (-4.14%), Casio Computer (-3.74%) and Inpex (-3.48%). On the upside, the strongest performers were Nitori Holdings (7.45%), Sumitomo Heavy Inds. (5.44%) and Toho Zinc (5.23%)."
-    },
-    {
-      "id": "5074675",
-      "time": "2026-09-03 14:30:16",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士8月CPI月率 0.4%，預期0%，前值-0.10%。瑞士8月CPI年率 0.8%，預期0.5%，前值0.40%。"
-    },
-    {
-      "id": "5074674",
-      "time": "2026-09-03 14:30:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國化工裝備有限公司原黨委書記、董事長、總經理蔡挺被查】據中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組、湖南省紀委監委訊息：中國中化控股有限責任公司下屬中國化工裝備有限公司原黨委書記、董事長、總經理蔡挺涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組紀律審查和湖南省郴州市監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:01a065f5-e913-7118-8477-e0513b96aaba",
-      "time": "2026-09-03 14:30:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland August CPI YoY 0.8% (expected 0.5%; prior 0.40%)."
-    },
-    {
-      "id": "mkt:01a065f5-dd01-7118-8477-dedff28d0ab4",
-      "time": "2026-09-03 14:30:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Switzerland August CPI (MoM) +0.4% vs 0.0% expected; July -0.1%."
-    },
-    {
-      "id": "mkt:01a065f5-c348-7118-8477-d085722ee241",
-      "time": "2026-09-03 14:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | CPI (YoY) (Aug) | actual 0.8% | consensus 0.5% | previous 0.40%"
-    },
-    {
-      "id": "mkt:01a065f5-c345-7118-8477-cc7d41710b38",
-      "time": "2026-09-03 14:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | CPI (MoM) (Aug) | actual 0.4% | consensus 0% | previous -0.10%"
-    },
-    {
-      "id": "5074673",
-      "time": "2026-09-03 14:29:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【剛果（布）首批享受零關稅政策茯苓產品啟運輸華】剛果（布）首批享受零關稅政策的茯苓產品日前啟運輸華。剛果（布）國際合作部辦公廳主任馬克斯·蒙卡、中國駐剛果（布）使館臨時代辦丘建明等出席啟運儀式。蒙卡在致辭中感謝中方支援剛農產品出口，表示剛方將積極用好零關稅政策，推動更多農林產品輸華，讓剛中農業合作為更多人帶來福祉。丘建明說，此次茯苓產品啟運輸華，標誌著零關稅政策紅利正式在剛轉化為現實成果，中方願繼續同剛方密切合作，深挖經貿合作潛力，讓零關稅紅利不斷惠及兩國和人民。據瞭解，本次啟運的十餘噸茯苓產品將運往中國湖南。（新華社）"
-    },
-    {
-      "id": "5074672",
-      "time": "2026-09-03 14:29:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "吉利汽車(00175)釋出公告，於2026年9月3日因集團僱員根據認股權計劃(於2023年4月28日獲採納)行使認股權而發行4.05萬股。"
-    },
-    {
-      "id": "5074671",
-      "time": "2026-09-03 14:29:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "名創優品(09896)釋出公告，於2026年9月2日斥資24.8萬美元回購10.4萬股。"
-    },
-    {
-      "id": "mkt:01a065f4-d7d4-7118-8477-c350c9ee9a17",
-      "time": "2026-09-03 14:28:59",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD touched 1.1600, up 0.11% intraday."
     }
   ]
 }
