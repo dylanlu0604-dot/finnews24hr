@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-10 13:49:01",
-  "count": 13552,
+  "updated": "2026-09-10 13:52:56",
+  "count": 13560,
   "items": [
+    {
+      "id": "5086455",
+      "time": "2026-09-10 13:51:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Grab 正就收購軟銀支援的金融科技公司 Atome 進行洽談。"
+    },
+    {
+      "id": "5086454",
+      "time": "2026-09-10 13:51:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國能建、奇瑞等成立新能源公司】企查查APP顯示，近日，中能投（鄂爾多斯）新能源有限公司成立，法定代表人為孫海濤，經營範圍包含：風力發電技術服務；太陽能發電技術服務；新興能源技術研發；合同能源管理；發電業務、輸電業務、供（配）電業務。企查查股權穿透顯示，該公司由中國能建旗下中國能源建設集團投資有限公司、奇瑞旗下安徽奇瑞綠能生態科技有限公司等共同持股。"
+    },
+    {
+      "id": "5086453",
+      "time": "2026-09-10 13:50:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本財務省官員稱不考慮回購日本國債】日本財務省金融局債務管理處處長佐藤正幸表示，政府目前沒有考慮回購日本國債。佐藤在東京舉行的一次研討會上表示，日本的債券市場環境“未必與美國相同”。"
+    },
+    {
+      "id": "mkt:01a089de-47f3-7118-851b-7b5d0fae14a4",
+      "time": "2026-09-10 13:50:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share securities sector rallied in the afternoon after a volatile session; Hatou shares jumped nearly 6%, while Huachuang Yunxin, Huaxin Shares, Zhongtai Securities, Tianfeng Securities and Pacific Securities also advanced."
+    },
+    {
+      "id": "mkt:01a089de-02db-7118-851b-720ab303d648",
+      "time": "2026-09-10 13:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Civil Aviation Authority said Lublin and Rzeszów airports have been closed due to military aviation operations."
+    },
+    {
+      "id": "mkt:01a089dd-eaad-7118-851b-6c6123e50383",
+      "time": "2026-09-10 13:50:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MASU: As long as prices align with our July projections, we do not see a material risk of inf running significantly above expectations."
+    },
+    {
+      "id": "5086452",
+      "time": "2026-09-10 13:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際清算銀行(BIS)行長表示，人工智慧熱潮帶來新的金融穩定風險。"
+    },
+    {
+      "id": "mkt:01a089dd-d45e-7118-851b-649fdb3a790d",
+      "time": "2026-09-10 13:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Masu, a Bank of Japan policy board member, said so far we have not seen data showing inf has materially exceeded expectations."
+    },
+    {
+      "id": "mkt:01a089dd-bb8a-7118-851b-5a09aca66f9c",
+      "time": "2026-09-10 13:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "US10Y"
+      ],
+      "text": "Germany's August CPI final MoM reading due in 10 minutes."
+    },
+    {
+      "id": "5086451",
+      "time": "2026-09-10 13:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：只要價格走勢符合我們在7月份作出的預測，我們就不會擔心通脹出現大幅、劇烈超調的風險。"
+    },
+    {
+      "id": "mkt:01a089dd-8d9e-7118-851b-57fd9023820f",
+      "time": "2026-09-10 13:49:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Lagarde's inflation emphasis could signal ECB rate path】Royal London Asset Management analyst Wolfgang Baur said ahead of Thursday's ECB meeting markets largely expect a 25bp hike after June's first move, and the key question is whether that marks the end of a short-lived pre-emptive tightening or the start of a longer hiking cycle. Market clues will come from whether Lagarde stresses energy-driven headline inflation or recent weakness in core and services inflation. Rising long-term government bond yields have already tightened financial conditions and are carrying much of the ECB's work. Baur said he finds it hard to justify a longer, more aggressive hiking cycle unless inflationary pressures broaden materially."
+    },
+    {
+      "id": "mkt:01a089dd-39ba-7118-851b-483b2af9ee45",
+      "time": "2026-09-10 13:49:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【First round closes in 7th national centralized procurement of medical consumables】At 13:00 on Sept. 10 the first round of bidding for the seventh national centralized volume-based procurement of medical consumables closed, producing provisional winners. Per procurement rules, companies not selected in round one may submit a second-round \"revival\" bid to supply clinical use at appropriate prices. Second-round \"revival\" bidding begins at 13:30, with bid opening/announcement due around 14:30."
+    },
+    {
+      "id": "5086450",
+      "time": "2026-09-10 13:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：無資料表明價格走勢出現急劇偏離。"
+    },
     {
       "id": "5086449",
       "time": "2026-09-10 13:48:16",
@@ -123606,55 +123725,6 @@
         "公司"
       ],
       "text": "【匯源與中糧悅享會達成億級規模戰略合作】據匯源訊息，9月3日，北京匯源食品飲料有限公司與中糧悅享會（海南）數字科技有限公司戰略合作簽約儀式在北京市大興區舉行，雙方正式達成億級規模深度戰略合作。雙方將以果汁飲品領域為核心合作方向，打通供應鏈、渠道端、品牌端的協同壁壘，實現“產品+渠道+品牌”的全方位融合。"
-    },
-    {
-      "id": "5074612",
-      "time": "2026-09-03 13:52:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋總統與特朗普通電話。"
-    },
-    {
-      "id": "mkt:01a065d3-5837-7118-8476-b2ab36dd99be",
-      "time": "2026-09-03 13:52:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Russian Deputy Prime Minister NOVAK said Russia will slightly reduce oil production this year."
-    },
-    {
-      "id": "5074611",
-      "time": "2026-09-03 13:52:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：俄羅斯將在2026年小幅削減石油產量。"
-    },
-    {
-      "id": "mkt:01a065d3-060b-7118-8476-ae337830b329",
-      "time": "2026-09-03 13:52:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian Deputy Prime Minister Novak said Russia will begin boosting oil production once refinery maintenance is completed."
-    },
-    {
-      "id": "5074609",
-      "time": "2026-09-03 13:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：一旦煉油廠完成維護，俄羅斯將開始增加石油產量。"
     }
   ]
 }
