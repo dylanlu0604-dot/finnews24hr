@@ -1,7 +1,168 @@
 {
   "date": "2026-09-10",
-  "count": 2503,
+  "count": 2520,
   "items": [
+    {
+      "id": "5087890",
+      "time": "2026-09-10 23:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭檢方稱，俄羅斯對烏克蘭巴甫洛赫拉德發動襲擊，造成三人死亡、逾30人受傷。"
+    },
+    {
+      "id": "5087889",
+      "time": "2026-09-10 23:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 發那科與谷歌合作開發AI自動化焊接系統將於12月推出。"
+    },
+    {
+      "id": "5087888",
+      "time": "2026-09-10 23:03:57",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【倫銅跳水 報道稱白宮尚未決定是否對精煉銅徵收關稅】10日傍晚，倫銅、紐約期銀價格突然跳水。訊息面上，據媒體報道，兩名知情人士稱，白宮尚未決定是否對精煉銅徵收關稅，官員們正在權衡兩方面的得失：銅價上漲可能會推高製造成本，但鼓勵國內增加採礦也能帶來益處。 訊息人士稱，白宮的銅關稅計劃陷入停滯。隨著美國中期選舉臨近，特朗普和共和黨議員正面臨壓力，他們需要證明自己的經濟政策正在降低美國消費者和企業的成本。美國政府對生活成本問題的日益重視，使得“相關方面出現了猶豫”。 而美國銅關稅正是這一輪銅價上漲的關鍵推手。 由於市場預期特朗普將對陰極銅等精煉銅產品以及銅精礦徵收關稅，交易商和工業買家紛紛在美國囤積庫存，將銅價推至歷史高位。 該報道還援引一名白宮官員的話稱，銅關稅問題尚未做出最終決定，且美國商務部已經在白宮設定的6月30日期限前向特朗普彙報了最新情況。 這名官員同時表示：“政府仍在評估所有選項，以推動銅及其他關鍵製造業回遷美國。”（期貨日報）"
+    },
+    {
+      "id": "5087887",
+      "time": "2026-09-10 23:03:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：建議央行保持關注價格穩定的任務，並鼓勵財政當局制定中期整頓計劃。印度仍然是全球經濟的增長引擎，密切關注高油價對印度的影響。"
+    },
+    {
+      "id": "mkt:01a08bd8-5d5c-7118-852f-35f66b66a489",
+      "time": "2026-09-10 23:03:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danmarks Nationalbank raised its policy rate by 25 bps to 2.10% from 1.85%."
+    },
+    {
+      "id": "5087886",
+      "time": "2026-09-10 23:03:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：日本發那科與谷歌合作開發AI自動化焊接機器人。"
+    },
+    {
+      "id": "5087885",
+      "time": "2026-09-10 23:02:34",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【白宮未確認將對精煉銅加稅 銅價從紀錄高位急跌近5%】此前市場押注美國可能將精煉銅納入關稅範圍，帶動紐約銅價相對倫敦市場持續走高，並促使貿易商提前向美國運送和儲備銅。然而據市場訊息，美國白宮最新表態未確認市場此前預期的精煉銅關稅安排，推動投資者下調對近期擴大銅關稅範圍的預期，紐約銅期貨週四盤中一度下跌約4.8%，從本週創下的每磅6.89美元紀錄高位回落至約6.54美元，自由港麥克莫蘭股價一度跌逾7%。"
+    },
+    {
+      "id": "mkt:01a08bd7-60b3-7118-852f-2edd6d602212",
+      "time": "2026-09-10 23:02:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury confirms up to $6.0 billion in long-term Treasury buybacks today."
+    },
+    {
+      "id": "5087884",
+      "time": "2026-09-10 23:02:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "丹麥央行將基準利率從1.85%上調至2.1%。"
+    },
+    {
+      "id": "5087883",
+      "time": "2026-09-10 23:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國國家統計與經濟研究所(INSEE)：法國HICP通脹預計將從8月的2.7%上升至12月的3.1%。預計2026年法國經濟增長0.4%，低於6月預測的0.7%。"
+    },
+    {
+      "id": "mkt:01a08bd7-09dd-7118-852f-20fc5070ab48",
+      "time": "2026-09-10 23:02:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "INSEE forecasts France's HICP inflation will rise to 3.1% in December from 2.7% in August. It now forecasts 2026 GDP growth of 0.4%, down from a 0.7% projection in June."
+    },
+    {
+      "id": "5087882",
+      "time": "2026-09-10 23:01:53",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部確認今日長債回購金額最高為60億美元。"
+    },
+    {
+      "id": "te:markets:582869",
+      "time": "2026-09-10 23:01:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "T-Mobile Us Stock Price Hits 4-week Low — T-Mobile Us shares decreased to 176.16 USD, the lowest since August 2026. Over the past 4 weeks, T-Mobile Us lost 1.26%, and in the last 12 months, it decreased 26.95%."
+    },
+    {
+      "id": "5087881",
+      "time": "2026-09-10 23:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "TAR在Spark Capital領投的A輪融資中估值達10億美元，籌資1.2億美元。"
+    },
+    {
+      "id": "mkt:01a08bd6-5514-7118-852f-1fc96de1bb93",
+      "time": "2026-09-10 23:01:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The IMF said India remains a global growth engine and is closely monitoring the impact of elevated oil prices on India’s economic outlook."
+    },
+    {
+      "id": "5087880",
+      "time": "2026-09-10 23:01:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：全球通脹預期上升，但長期來看仍保持穩定。中東戰爭帶來的能源衝擊尚未結束；全球債務壓力不斷加大，通脹回落程序已停滯。全球經濟增長仍有望在2026年達到約3%，但風險依然較高。建議央行保持關注價格穩定的任務，並鼓勵財政當局制定中期整頓計劃。"
+    },
+    {
+      "id": "mkt:01a08bd6-162c-7118-852f-166afa1f51c3",
+      "time": "2026-09-10 23:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF recommends central banks maintain focus on price stability and encourages fiscal authorities to prepare medium-term fiscal consolidation plans."
+    },
     {
       "id": "mkt:01a08bd5-fdad-7118-852f-0cab4906003e",
       "time": "2026-09-10 23:00:52",
