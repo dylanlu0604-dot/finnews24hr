@@ -1,7 +1,60 @@
 {
   "date": "2026-09-11",
-  "count": 412,
+  "count": 418,
   "items": [
+    {
+      "id": "5088283",
+      "time": "2026-09-11 05:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普否認美戰機在約旦遭伊朗襲擊受損】美國總統特朗普10日否認關於美軍駐約旦基地戰機在伊朗襲擊中受損的報道。特朗普當天在接受美國新聞國度電影片道電話採訪時說，有關美國戰機在伊朗最近一次襲擊中受損的報道“完全不屬實”，美軍“沒有損失，什麼事都沒有”。（新華社）"
+    },
+    {
+      "id": "5088282",
+      "time": "2026-09-11 05:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟計劃將資料中心容量擴充至原來的三倍，達到 38 吉瓦。"
+    },
+    {
+      "id": "mkt:01a08d1f-0b10-7118-8535-7668a2046eef",
+      "time": "2026-09-11 05:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US senior envoy for Yemen Neil Hope met Yemen’s foreign minister Afrah Zuba, reaffirmed US support for the Yemeni government and discussed deepening diplomatic cooperation and regional security."
+    },
+    {
+      "id": "mkt:01a08d1e-101c-7118-8535-6ef8cd8c37c9",
+      "time": "2026-09-11 04:59:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. Treasury announces sanctions on Iran-related individuals and entities】On Sept. 10, the U.S. Treasury said its Office of Foreign Assets Control (OFAC) designated individuals and entities that support Iran’s proxy networks in the Middle East, including Hezbollah members, as part of the U.S. \"economic isolation\" campaign against Iran. On Aug. 24, Treasury Secretary Bessent said the U.S. had launched a new round of sanctions under the same \"economic isolation\" push to further increase pressure on Iran."
+    },
+    {
+      "id": "5088281",
+      "time": "2026-09-11 04:59:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財政部宣佈對伊朗相關個人和實體實施制裁】美國財政部當地時間9月10日釋出宣告稱，作為對伊“經濟孤立行動”的一部分，該部門下屬的外國資產控制辦公室將為伊朗在中東地區的代理人網路提供支援的個人和實體列入制裁清單，制裁物件包括黎真主黨成員等。8月24日，美國財政部長貝森特宣佈美國當日發起對伊朗“經濟孤立”的新一輪制裁措施，以進一步加大對伊施壓。 (央視新聞)"
+    },
+    {
+      "id": "5088280",
+      "time": "2026-09-11 04:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博索納羅民調支援率飆升追平盧拉，最高法院危機令選情趨緊】巴西最高法院內部的一場危機正在給該國左翼領導人、現任總統路易斯·伊納西奧·盧拉·達席爾瓦競選連任造成不利影響，一項最新民調顯示，弗拉維奧·博索納羅的支援率大幅攀升，與盧拉打成平手，抹去了此前4.5個百分點的差距。週四公佈的AtlasIntel為彭博新聞社進行的民調結果顯示，如果10月份總統選舉進入第二輪投票，博索納羅和盧拉將各自獲得約46%的選票。在8月底公佈的上一次調查中，盧拉以47.1%對42.6%領先。"
+    },
     {
       "id": "5088276",
       "time": "2026-09-11 04:57:38",
