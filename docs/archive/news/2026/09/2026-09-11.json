@@ -1,7 +1,47 @@
 {
   "date": "2026-09-11",
-  "count": 289,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a08cab-d124-7118-8533-eb7ad6b00424",
+      "time": "2026-09-11 02:54:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil has approved 21 additional plants to export beef and beef by-products to Indonesia."
+    },
+    {
+      "id": "5088132",
+      "time": "2026-09-11 02:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西稱21家新工廠獲准向印尼出口牛肉和牛內臟。"
+    },
+    {
+      "id": "5088131",
+      "time": "2026-09-11 02:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：東太平洋海隆南部發生5.4級地震。"
+    },
+    {
+      "id": "mkt:01a08caa-321e-7118-8533-e11c6ee0c089",
+      "time": "2026-09-11 02:52:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister held phone talks with Saudi Arabia's foreign minister on regional stability."
+    },
+    {
+      "id": "5088130",
+      "time": "2026-09-11 02:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和沙烏地阿拉伯外長討論不斷升級的緊張局勢。"
+    },
     {
       "id": "mkt:01a08ca6-f396-7118-8533-dbbeecbad6bd",
       "time": "2026-09-11 02:49:06",
