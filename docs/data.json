@@ -1,7 +1,146 @@
 {
-  "updated": "2026-09-10 14:01:02",
-  "count": 13579,
+  "updated": "2026-09-10 14:05:00",
+  "count": 13577,
   "items": [
+    {
+      "id": "5086479",
+      "time": "2026-09-10 14:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：強化核與輻射安全】上海市人民政府印發《美麗上海建設“十五五”規劃》，其中提到，健全核與輻射安全監管體系，持續最佳化核技術利用分類分級管理。強化Ⅰ類放射源、Ⅰ類射線裝置應用場所輻射環境實時監控，實現高風險移動放射源線上監控全覆蓋。推進城市放射性廢物動態清理。構建市、區和第三方機構協同聯動的監測與應急體系。輻射安全與輻射環境優良指數年平均目標值不低於96.1%。"
+    },
+    {
+      "id": "5086478",
+      "time": "2026-09-10 14:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：深入推進公園城市建設】上海市人民政府印發《美麗上海建設“十五五”規劃》，其中提到，構建多元複合的全域城鄉公園體系，分類推進城市公園、休閒森林公園和口袋公園建設。加快環城生態公園帶建設，實施外環綠道主脈貫通工程。打造“生境+”複合生境系統，引導社群生境花園建設。實施綠地開放共享，公園24小時開放率提高到90%以上，進一步推動單位附屬綠色空間開放共享。推進上海辰山國家植物園建設。新建綠道500公里，新增公園500個。"
+    },
+    {
+      "id": "5086477",
+      "time": "2026-09-10 14:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：強化固定源精準治理】上海市人民政府印發《美麗上海建設“十五五”規劃》，其中提到，完成焦化、水泥等重點行業超低排放改造。推動具備條件的燃油鍋爐、工業爐窯清潔能源替代。持續推進石化化工、造船、塗裝等重點行業揮發性有機物（VOCs）深度治理，開展低效失效設施排查整治，加強無組織排放控制。實施石化化工、船舶、集裝箱等重點行業大氣汙染防治績效提升行動。"
+    },
+    {
+      "id": "mkt:01a089e9-e890-7118-851c-116a96d3e73f",
+      "time": "2026-09-10 14:03:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【ECB preview: 25bp hike all but certain; subsequent path is main market focus】Major banks and a Reuters survey largely expect the ECB to deliver a 25bp hike at the upcoming meeting; markets will be watching forward guidance and odds of further tightening more than the decision itself. Goldman Sachs: base case 25bp and end of this tightening cycle after September, but risk of a December hike rises if energy prices stay high, inflation re-accelerates or the Fed tightens further. ING: expects a 25bp hike but characterizes it as dovish — post-hike signals likely insufficient to justify market-priced further tightening. Société Générale: 25bp with a relatively hawkish stance to counter energy-driven inflation. Reuters survey: 25bp then a stop, with the deposit rate staying at 2.50% through end‑2026. Danske Bank: 25bp; Lagarde will keep flexibility without committing to a path and is unlikely to explicitly try to suppress tightening expectations. Deutsche Bank: 25bp and a further hike in December is likely; 2.75% is a more probable terminal rate unless geopolitics ease and growth weakens, which could cap rates at 2.5%. Natixis: 25bp, followed by neutral messaging to avoid implying a long hike cycle; expects a pause until end‑2027. RABOBANK: 25bp with more restrained guidance and no push toward a ~3% terminal rate. SEB: 25bp and likely the last hike of the cycle, though uncertainty remains; persistently above‑target inflation is unlikely, supporting a prolonged pause. BNP Paribas SA: sees potential hikes in September and December if growth and inflation forecasts are revised up at the September meeting. MUFG: 25bp fully priced; market reaction will hinge on forward guidance — lack of clear support for a year‑end hike would likely weaken the euro. State Street Global: ECB may pair a 25bp increase with intentionally open signals; key questions are whether 2.50% is judged sufficiently restrictive and whether the bank preserves policy space for December."
+    },
+    {
+      "id": "5086476",
+      "time": "2026-09-10 14:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：積極穩妥推進碳達峰碳中和】上海市人民政府印發《美麗上海建設“十五五”規劃》，其中提到，構建清潔低碳新型能源體系。加快推進“光伏+”專項工程和海上風電基地建設，適度超前佈局氫基燃料示範。積極爭取市外清潔電力供應，加快推動蒙電入滬。推進新型儲能規模化應用。積極推動新一代煤電升級改造。適時推進上海液化天然氣（LNG）站線擴建。"
+    },
+    {
+      "id": "mkt:01a089e9-76b4-7118-851c-0acf3cb98912",
+      "time": "2026-09-10 14:02:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Institutions' forecasts and market bets diverge; Sep 25bp hike shifts from tail risk to main trade】Prediction market Polymarket prices a Sep 25bp Fed hike at 54%; rate derivatives imply 63.6% — roughly a 10pp gap but same direction. Resilient employment, rising oil-driven inf risk and a hawkish Fed tilt have moved a Sep hike from tail risk to the primary market scenario. More than 50% odds do not guarantee a hike: markets still assign 36–47% probability of no change and any Fed decision could trigger re-pricing. Friday's inf release will be decisive; a REUTERS SURVEY shows 70% of economists expect no hike, underlining the lack of consensus between institutional forecasts and trading markets."
+    },
+    {
+      "id": "5086475",
+      "time": "2026-09-10 14:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：到2030年，經濟社會發展全面綠色轉型成效顯著，碳達峰目標如期實現，生態環境質量全面改善】上海市人民政府印發《美麗上海建設“十五五”規劃》。到2030年，經濟社會發展全面綠色轉型成效顯著，碳達峰目標如期實現，生態環境質量全面改善，人居環境品質明顯提升，生態系統多樣性穩定性持續性不斷提升，環境風險防控體系更加完善，現代環境治理體系更加健全，美麗上海建設取得新的重大進展。"
+    },
+    {
+      "id": "mkt:01a089e9-2a89-7118-851c-00cfaeeaae19",
+      "time": "2026-09-10 14:02:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China's new-energy vehicle (NEV) production and sales rose 18.9% and 17.8% YoY in August, respectively."
+    },
+    {
+      "id": "5086474",
+      "time": "2026-09-10 14:02:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶：擬打造詞元交易服務平臺 探索制定詞元交易標準和詞元結算規則】《重慶市培育發展詞元經濟行動計劃（2026—2028年）（公開徵求意見稿）》公開徵求意見。其中提到，打造詞元交易服務平臺，搭建可信聚合服務專區，提供可信准入、計量結算等一站式服務。構建差異多元詞元交易模式，推出通用基礎、行業專屬、場景限定的詞元分層產品。推動資料要素流通體系改革突破，聯動行業可信資料空間，建設工業詞元專區。探索推進以詞元為載體的資料確權、登記、定價、計量、存證、交付全流程服務。探索制定詞元交易標準和詞元結算規則，對模型呼叫、資料集使用等服務實施標準化計量核算。在國資國企領域推進資料資產入表並探索詞元確權，形成可定價可交易的詞元資產池。"
+    },
+    {
+      "id": "mkt:01a089e8-d10d-7118-851b-fe40fca75f38",
+      "time": "2026-09-10 14:02:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhuochuang Info: Breeding-sow and hog inventories likely to keep falling near term】Zhuochuang Info says China’s hog sector remained loss-making in August, with cash-flow stress accelerating the exit of inefficient capacity. Large producers are selling piglets to raise cash, pushing mid-to-large herd inventories lower. The firm expects industry losses to persist near term and sees marginal tightening on the supply side."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609103870459179",
+      "time": "2026-09-10 14:01:45",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【8月我國新能源汽車產銷量同比分別增長18.9%和17.8%】最新資料顯示，新能源汽車月度銷量佔比再創新高，8月份，新能源汽車產銷量分別完成165.3萬輛和164.3萬輛，同比分別增長18.9%和17.8%，新能源汽車新車銷量達到汽車新車總銷量的60.6%。"
+    },
+    {
+      "id": "5086473",
+      "time": "2026-09-10 14:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市人民政府印發《美麗上海建設“十五五”規劃》。"
+    },
+    {
+      "id": "5086472",
+      "time": "2026-09-10 14:01:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨<STXEc1>上漲0.25%，德國DAX指數期貨<FDXc1>上漲0.22%，英國富時指數期貨<FFIc1>下跌0.08%。"
+    },
+    {
+      "id": "5086471",
+      "time": "2026-09-10 14:00:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國8月CPI月率終值 0.2%，預期0.2%，前值0.20%。德國8月調和CPI年率終值 2.9%，預期2.9%，前值2.90%。"
+    },
     {
       "id": "mkt:01a089e7-20cf-7118-851b-f096af2aca84",
       "time": "2026-09-10 14:00:20",
@@ -123752,166 +123891,6 @@
         "MKT News"
       ],
       "text": "【Ukraine says Odesa struck again; 17 injured, including three children】Odesa military administration head Lysak said early on Sept 3 local time the city was hit by a Russian strike at dawn, wounding 17 people, including three children; all have received medical treatment. The strike damaged a high-rise apartment building and several vehicles."
-    },
-    {
-      "id": "mkt:01a065de-9d17-7118-8477-18c13c45d0fc",
-      "time": "2026-09-03 14:04:43",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Euro STOXX 50 futures rose 0.11%, DAX futures rose 0.15% and FTSE 100 futures rose 0.07%."
-    },
-    {
-      "id": "5074627",
-      "time": "2026-09-03 14:04:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西71地1236站降雨超過100毫米 今明兩天仍有暴雨到大暴雨】今天（3日），記者從江西省氣象臺獲悉，近期，受颱風“沙德爾”環流和冷空氣影響，江西出現明顯風雨天氣，71縣（市、區）1236個氣象觀測站降雨超過100毫米，22縣（市、區）102個氣象觀測站降雨超過250毫米，預計3日至4日，贛中南部和贛南仍有暴雨到大暴雨，需加強防範中小河流洪水和地質災害。（央視新聞）"
-    },
-    {
-      "id": "5074626",
-      "time": "2026-09-03 14:04:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨<STXEc1>上漲0.11%，德國DAX指數期貨<FDXc1>上漲0.15%，富時指數期貨<FFIc1>上漲0.07%。"
-    },
-    {
-      "id": "mkt:01a065de-30d6-7118-8477-137c93320750",
-      "time": "2026-09-03 14:04:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "015760.KS",
-        "Impact bullish",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【KEPCO asks Samsung, SK Hynix to prepay five years of power bills】South Korea Electric Power Corp (KEPCO) has proposed that Samsung Electronics and SK Hynix prepay five years of electricity fees totaling 25 trillion won (about $18.4bn) to fund grid construction for semiconductor clusters. Under the plan Samsung would prepay 20 trillion won and SK Hynix 5 trillion won; the amounts assume 2027–31 annual power costs will be roughly in line with last year (Samsung paid 4.1 trillion won last year; SK Hynix 900 billion won). Industry sources say both companies are considering the proposal. KEPCO’s finances have weakened — debt stood at 210.7 trillion won at end-June and interest costs are about 11.5 billion won per day — a factor behind the proposal; the prepayment is being pitched as a potentially mutually beneficial arrangement."
-    },
-    {
-      "id": "5074625",
-      "time": "2026-09-03 14:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱敖德薩市再遭襲 已致17人受傷】當地時間9月3日，烏克蘭敖德薩市軍事管理局局長利薩克通報稱，該市凌晨遭俄方襲擊，造成17人受傷，傷者中包含3名兒童，目前所有傷者均已接受專業醫療救治。據稱，此次襲擊造成當地一棟高層公寓損毀，同時造成多輛汽車受損。俄羅斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a065de-136c-7118-8477-0bdff1c060b8",
-      "time": "2026-09-03 14:04:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "09903.HK",
-        "Impact bullish",
-        "00522.HK",
-        "09660.HK"
-      ],
-      "text": "Hong Kong-listed chip stocks rebounded in afternoon trade; Tianshu Zhixin (09903.HK) rose over 8%, while ASMPT (00522.HK), 01347.HK, Horizon Robotics (09660.HK) and 02577.HK also gained."
-    },
-    {
-      "id": "5074624",
-      "time": "2026-09-03 14:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股晶片股午後回升，天數智芯(09903.HK)漲超8%，ASMPT(00522.HK)、華虹宏力(01347.HK)、地平線機器人(09660.HK)、英諾賽科(02577.HK)等個股跟漲。"
-    },
-    {
-      "id": "mkt:01a065dd-86ec-7118-8477-0243f1796f60",
-      "time": "2026-09-03 14:03:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Asian wheat importers have purchased at least 500,000 tonnes of Australian and Argentine wheat to replace Black Sea cargoes."
-    },
-    {
-      "id": "mkt:01a065dd-2f73-7118-8476-fa6d601cdf04",
-      "time": "2026-09-03 14:03:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangdong draft lets rural collectives redevelop low-efficiency land for new planned uses, excluding commercial housing】Guangdong provincial department of natural resources has published a consultation draft on measures to accelerate low‑efficiency land redevelopment. The draft allows rural collective economic organizations, subject to territorial spatial planning, to redevelop low‑efficiency land to new planned uses excluding commercial housing. If collective ownership is retained, land‑use procedures for collective construction land should be handled in accordance with law. Redevelopment using existing state‑owned construction land may complete land‑use procedures by agreement with approval, except where rules or contracts require recovery. Where land is to be converted to state‑owned construction land and redeveloped for industrial use, the government may lawfully expropriate the land and then transfer it by agreement to the rural collective economic organization or its wholly owned subsidiary for redevelopment."
-    },
-    {
-      "id": "mkt:01a065dd-1ba2-7118-8476-f42197ab412f",
-      "time": "2026-09-03 14:03:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EQNR.O",
-        "Impact bullish"
-      ],
-      "text": "EQUINOR said its largest U.S. energy-storage project to date, the 100 MW Citrus Flats facility in Texas, has begun operations."
-    },
-    {
-      "id": "5074623",
-      "time": "2026-09-03 14:02:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股半導體板塊震盪回升，英集芯漲超11%，芯朋微、優迅股份、聯芸科技、神工股份、領先股份等個股跟漲。"
-    },
-    {
-      "id": "mkt:01a065dc-5ba0-7118-8476-ecae2dd4d80a",
-      "time": "2026-09-03 14:02:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share semiconductor sector rebounded after choppy trading; Yingjixin jumped over 11%, with Xinpengwei, Youxun, Lianyun Technology, Shengong and Leading Shares also rising."
-    },
-    {
-      "id": "5074622",
-      "time": "2026-09-03 14:02:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三大指數再度翻紅】三大指數再度翻紅，全市場超2200家個股上漲。貴金屬、培育鑽石、液冷伺服器板塊漲幅居前。"
-    },
-    {
-      "id": "5074621",
-      "time": "2026-09-03 14:02:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓總統府：政府將爭取防止美半導體關稅相關舉措給韓企帶來不利影響】據報道，韓國總統府青瓦臺9月3日對美國商務部部長霍華德·盧特尼克提及的半導體關稅相關表述表示，具體內容尚未敲定，政府將爭取防止相關舉措給韓企帶來不利影響。青瓦臺相關人士表示，政府將密切關注相關動向，與美方保持緊密溝通，保障韓國企業不受影響。"
-    },
-    {
-      "id": "mkt:01a065db-de52-7118-8476-e7ffe665f636",
-      "time": "2026-09-03 14:01:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【WMO warns El Nifio to reach very strong levels; near‑100% chance to Feb 2027】The WMO said on Sept. 3 that El Nifio has formed and is expected to intensify to very strong levels, altering global precipitation and temperature patterns and sustaining elevated extreme-weather risk through Feb. 2027. Subsurface Pacific waters are up to 8°C above average in places, providing substantial heat to fuel further strengthening. The WMO forecasts a near‑100% probability that El Nifio will persist to Feb. 2027."
-    },
-    {
-      "id": "mkt:01a065db-9b95-7118-8476-dad4b38be102",
-      "time": "2026-09-03 14:01:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE state news agency said the UAE president spoke by phone with US President Trump to discuss the situation in the Middle East and bilateral cooperation."
     }
   ]
 }
