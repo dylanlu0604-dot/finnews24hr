@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-11 01:53:52",
-  "count": 13670,
+  "updated": "2026-09-11 01:57:50",
+  "count": 13671,
   "items": [
+    {
+      "id": "5088074",
+      "time": "2026-09-11 01:57:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Stellantis集團執行長：斯泰蘭蒂斯與零跑汽車合資公司正在提升歐洲市場銷量與利潤。"
+    },
+    {
+      "id": "mkt:01a08c76-7538-7118-8532-c9c7475ebba6",
+      "time": "2026-09-11 01:56:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Ennahar TV reports Algeria will close its airspace from Sep 11, banning all civilian and military aircraft registered in the UAE from entering."
+    },
+    {
+      "id": "5088073",
+      "time": "2026-09-11 01:55:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿爾及利亞決定自9月11日起對所有在阿聯酋註冊的民用及軍用飛機關閉其領空。"
+    },
+    {
+      "id": "5088072",
+      "time": "2026-09-11 01:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國西北部河流預報中心（NWRFC）：美國西北部河流徑流量維持在83%不變。"
+    },
+    {
+      "id": "5088071",
+      "time": "2026-09-11 01:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高安全官員雷扎伊就國際原子能機構理事會決議表態：該機構\"政治化\"舉動將迫使各國退出《不擴散核武器條約》。"
+    },
     {
       "id": "mkt:01a08c6e-23dd-7118-8532-c5cba5dbb228",
       "time": "2026-09-11 01:47:03",
@@ -124823,40 +124866,6 @@
         "國際"
       ],
       "text": "萬斯談及汽油價格：油價走高源於伊朗襲擊船隻。"
-    },
-    {
-      "id": "5076017",
-      "time": "2026-09-04 01:57:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：我們會繼續加碼，推動處方藥價格進一步下降。"
-    },
-    {
-      "id": "mkt:01a0686a-1211-7118-848e-3ef91fb1649c",
-      "time": "2026-09-04 01:56:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Vice President Vance said inflation did not develop overnight and the administration is doing everything possible to bring prices down."
-    },
-    {
-      "id": "5076016",
-      "time": "2026-09-04 01:55:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：通脹問題並非一日釀成。"
-    },
-    {
-      "id": "5076015",
-      "time": "2026-09-04 01:55:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：我們正竭盡所能壓低物價。"
     }
   ]
 }
