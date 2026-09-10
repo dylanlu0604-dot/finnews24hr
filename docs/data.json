@@ -1,7 +1,170 @@
 {
-  "updated": "2026-09-10 19:08:25",
-  "count": 13686,
+  "updated": "2026-09-10 19:12:19",
+  "count": 13691,
   "items": [
+    {
+      "id": "te:economy:582755",
+      "time": "2026-09-10 19:11:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Turkey Holds Base Interest Rate at 37% — The Central Bank of the Republic of Turkey maintained its benchmark overnight lending rate at 37% for the fifth straight decision in its September 2026 meeting, as expected by markets. Then central bank noted that despite recent volatility in financial markets and the turbulent backdrop of the global macroeconomy, leading indicators suggested that the underlying inflation trend has moderated since the last meeting in June. On the other hand, the surging energy prices due to fresh escalation in the Iran-US war heightened inflationary risks, preventing any signals to warrant eased financial conditions or a favorable backdrop for the lira and overall emerging market currencies. The bank also nodded at defending the lira's stability, which was tested in May after Turkish courts removed the country's opposition leader Ozel, and previously prompted tweaks in the monetary framework to force commercial banks on higher funding rates."
+    },
+    {
+      "id": "5087309",
+      "time": "2026-09-10 19:11:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臻寶科技：海外廠商收入佔比較低主要是國內市場增速更快】在9月10日的半年度業績會上，臻寶科技董事長、總經理王兵談及海外客戶拓展時介紹，公司遵循“三步走”策略：立足國內外資晶圓廠、穩步培育境外客戶、推進中長期國際化佈局。公司在新加坡設有全資子公司，以新加坡市場為核心，已實現對UMC、GF等廠商的穩定供貨，同時開發東南亞市場，海外營收同比增速超過170%，但收入大頭仍來自國內。如果僅統計純境外市場的收入（不含境內外資晶圓廠），2026年上半年海外收入佔比僅為1.40%，受地緣政治因素影響，部分海外客戶暫未批次採購，未來將視業務發展適時評估海外佈局以適配當地供應鏈要求；如果包含境內的海外廠商產能（如大連海力士、廈門聯芯等），相關收入合計佔比約10%，佔比較低主要是因為國內市場增長速度更快。"
+    },
+    {
+      "id": "mkt:01a08b03-bf55-7118-8526-27a16a96f88f",
+      "time": "2026-09-10 19:11:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Xiaomi Corp (01810.HK) repurchased 1.9 mln Class B shares on Sept. 10 for HKD 49.3 mln."
+    },
+    {
+      "id": "te:markets:582753",
+      "time": "2026-09-10 19:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Closes Slightly Higher — India’s BSE Sensex finished about 0.2% up at 74,902.6 on Thursday, recovering from recent three-month lows, as investors sought bargains following the recent sell-off. Volatility persisted, however, with the expiry of key monthly derivative contracts and the new closing auction mechanism contributing to sharp swings toward the close. Investor sentiment remained fragile amid continued concerns over surging oil prices and geopolitical uncertainty. Gains in banking, power and select heavyweight stocks helped offset losses in metals, pharmaceuticals and technology shares."
+    },
+    {
+      "id": "5087308",
+      "time": "2026-09-10 19:10:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1339.10美元/盎司。"
+    },
+    {
+      "id": "5087307",
+      "time": "2026-09-10 19:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案披露，小米於9月10日以4930萬港元回購190萬股B類股份。"
+    },
+    {
+      "id": "5087306",
+      "time": "2026-09-10 19:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空盤前股價下跌3%，原因是其下調了第三季度可用座位里程預期。"
+    },
+    {
+      "id": "5087305",
+      "time": "2026-09-10 19:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：市長將有權決定過夜遊客稅的使用方式。"
+    },
+    {
+      "id": "5087304",
+      "time": "2026-09-10 19:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：英國政府確認計劃賦予地方領導人徵收旅遊稅的權力。"
+    },
+    {
+      "id": "5087303",
+      "time": "2026-09-10 19:09:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長出人：宣佈設立統一金融科技論壇，作為印度第二家自律監管機構。"
+    },
+    {
+      "id": "5087302",
+      "time": "2026-09-10 19:08:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：連續20個交易日收盤價低於1元，觸及交易類強制退市】*ST清越公告，公司股票已連續20個交易日每日收盤價低於1元，2026年9月10日收盤價0.58元、總市值2.61億元，已觸及交易類強制退市情形。公司股票自2026年9月11日開市起停牌，後續可能被上海證券交易所終止上市，交易類強制退市股票不進入退市整理期。"
+    },
+    {
+      "id": "5087301",
+      "time": "2026-09-10 19:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗暫緩徵收10%能源運費附加費 海峽壓力或將趨緩】據伊朗法爾斯通訊社報道，伊朗宣佈臨時暫停對運輸進出該國能源產品的外國船隻徵收10%運費附加費，此舉是在霍爾木茲海峽持續海上緊張局勢下的一項戰術調整。該海峽是對全球能源供應至關重要的關鍵航運通道。地緣政治分析師Estefano Gomez表示，暫停被視為伊朗監管外國海上交通方式的戰略轉變，可能減輕航運路線的即時壓力，但不表明地區衝突更廣泛降級。這一決定可能影響市場對伊朗在10月底前實施此類費用的可能性的看法。"
+    },
+    {
+      "id": "mkt:01a08b01-83dc-7118-8526-1d77efbd2c18",
+      "time": "2026-09-10 19:08:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Yongxi Electronics to prioritise 2.5D advanced-packaging client expansion, validation and product onboarding in H2 2026】At its Sept. 10 interim results briefing, Yongxi Electronics said it will maintain a large-customer strategy and, while deepening cooperation with core clients, prioritise expansion, validation and product onboarding for leading overseas accounts and 2.5D advanced-packaging customers in H2 2026. The company said it will steadily build out advanced-packaging product lines — bumping, wafer-level packaging, FC and 2.5D/3D — and continue to enhance one-stop delivery capability via \"Bumping+CP+FC+FT\"."
+    },
+    {
+      "id": "5087300",
+      "time": "2026-09-10 19:08:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST凱利：呂向東增持357.26萬股，股東合計持股增至10.00%】ST凱利公告，2026年9月1日至2026年9月9日，呂向東透過集中競價交易累計增持公司股份357.26萬股，佔總股本的0.50%，增持金額合計2245.37萬元。增持完成後，凱誠君泰、呂向東、李虹、劉雙全和魏永梅合計持股比例由9.50%增至10.00%，本次增持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5087299",
+      "time": "2026-09-10 19:08:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【泰國擬實施差異化電動車消費稅】泰國財政部消費稅局局長Pornchai Thiraveja週四在財政部會議後表示，國家電動汽車政策委員會週四原則上同意引入三級消費稅稅率結構，對泰國國內製造的電動汽車徵收最低稅率，對完全進口的車型徵收最高稅率。部分使用進口零部件的車輛，將適用中間稅率。"
+    },
+    {
+      "id": "5087298",
+      "time": "2026-09-10 19:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝攻佔紅海港口城市穆哈】葉門政府軍軍官10日說，葉門西南部塔伊茲省戰略要地、紅海港口城市穆哈當天被胡塞武裝攻佔。 這名不願透露姓名的政府軍當地軍官告訴新華社記者，在經歷數小時激烈交火後，政府軍被迫向南撤至位於穆哈與曼德海峽之間的祖巴卜地區，胡塞武裝進入穆哈。 他還說，隨著軍事對抗擴大，穆哈及其周邊地區以及葉門西部沿海其他地區的戰鬥已導致數千戶家庭流離失所。 胡塞武裝控制的薩巴通訊社10日報道，過去數小時內，沙烏地阿拉伯戰機在塔伊茲、荷臺達、焦夫和馬裡卜4省發動約40次空襲。 沙特方面暫未確認。 近日，葉門西部和北部多地戰事持續升級。胡塞武裝9日表示，過去幾天，葉門政府軍試圖奪取焦夫省首府哈茲姆以東由胡塞武裝控制的軍事基地，雙方戰鬥仍在持續。葉門政府軍官員說，沙特主導的聯軍實施了空襲，為政府軍地面部隊向胡塞武裝防禦陣地推進提供空中支援。(新華社)"
+    },
+    {
+      "id": "mkt:01a08b01-0153-7118-8526-17c4f8e0badf",
+      "time": "2026-09-10 19:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Volvo Cars to become Lynk & Co's exclusive distributor in Europe under agreement with Geely】Geely Auto Group and Volvo Cars have reached a final agreement under which Volvo will be Lynk & Co's exclusive distributor in Europe from January 2027, taking full responsibility for the brand's commercial and local brand operations. The deal involves no equity changes; Geely will continue to lead Lynk & Co's global product design, R&D, regulatory certification and overall brand strategy."
+    },
+    {
+      "id": "5087297",
+      "time": "2026-09-10 19:07:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠望谷：簽訂股權投資意向書擬收購光泰通訊100%股權】遠望谷公告，公司擬以自有資金及/或自籌資金收購深圳光泰通訊裝置有限公司100%股權，並於2026年9月10日與光泰通訊及其股東簽訂《股權投資意向書》。各方將繼續就交易方案、交易對價等事項協商並簽署正式協議，標的公司估值、投資金額及付款方式待盡調後另行協商確定。"
+    },
     {
       "id": "5087296",
       "time": "2026-09-10 19:07:46",
@@ -124674,115 +124837,6 @@
         "市場"
       ],
       "text": "【三安光電：釋出股票交易風險提示公告】三安光電公告稱，公司股票2026年9月3日收盤價格上漲9.98%，漲幅較大，現就相關情況提示風險。截至公告披露日，公司生產經營情況正常，不存在應披露而未披露的重大事項。2026年上半年，公司實現營業收入64.68億元，同比下降28.04%；歸母淨虧損9790.45萬元，同比下降155.47%；扣非歸母淨虧損5.04億元，同比下降402.47%。公司實際控制人林秀成、副董事長兼總經理林科闖仍在留置中。控股股東三安電子及間接控股股東三安集團合計持股26.30%，所持全部公司股份已被司法凍結，累計輪候凍結股份佔公司總股本的140.92%，存在被處置風險。"
-    },
-    {
-      "id": "5075420",
-      "time": "2026-09-03 19:12:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海金融監管局：截至7月末 轄內銀行業金融機構本外幣總資產餘額同比增長11.12%】9月3日，上海金融監管局釋出資料顯示，截至2026年7月末，上海轄內銀行業金融機構本外幣總資產餘額30.95萬億元，同比增長11.12%。商業銀行本外幣總資產餘額27.29萬億元，同比增長11.51%，其中大型商業銀行本外幣資產餘額11.88萬億元，同比增長13.77%；股份制商業銀行本外幣資產餘額7.32萬億元，同比增長12.72%。"
-    },
-    {
-      "id": "5075419",
-      "time": "2026-09-03 19:11:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒爆白宮施壓SpaceX等美航天企業：別去法國參加太空峰會】美國“政治新聞網”當地時間9月2日援引知情人士訊息稱，白宮曾在一次電話會議中向美國太空探索技術公司（SpaceX）等美國航天企業施壓，要求他們放棄參加將於下週在法國巴黎舉辦的太空峰會。報道稱，白宮這一舉動“出人意料，讓企業高管不知所措”。（環球網）"
-    },
-    {
-      "id": "5075418",
-      "time": "2026-09-03 19:10:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鑫宏業：擬發行可轉債募資不超11億元】鑫宏業公告，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過11億元（含發行費用），扣除發行費用後用於輕量化金屬複合導體線纜研發及產業化專案等專案及補充流動資金。本次發行尚待公司股東會審議及深圳證券交易所發行上市稽核並報經中國證監會註冊。"
-    },
-    {
-      "id": "5075417",
-      "time": "2026-09-03 19:10:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖諾生物：全資子公司利那洛肽膠囊獲註冊證書，290μg】聖諾生物公告，公司全資子公司成都聖諾生物製藥有限公司於近日收到國家藥品監督管理局簽發的利那洛肽膠囊《藥品註冊證書》。該藥品規格為290μg，註冊分類為化學藥品4類，獲批准註冊併發給藥品註冊證書。"
-    },
-    {
-      "id": "5075416",
-      "time": "2026-09-03 19:10:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思泉新材：與關聯方共同投資設立中科星海】思泉新材(301489.SZ)公告稱，公司與中科星圖、環聚拓宇、星欣聚鑫共同投資設立中科星海，公司出資280萬元，佔註冊資本28%。公司持股5%以上股東、董事、副總裁廖驍飛之女廖楚翹透過受讓出資份額實際控制中科星海44%表決權，構成關聯交易。本次交易無需提交董事會及股東會審議，不構成重大資產重組。"
-    },
-    {
-      "id": "5075415",
-      "time": "2026-09-03 19:10:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "韋西茲韋鉑金公司：與全國礦工工會就重組和解未能達成協議。"
-    },
-    {
-      "id": "5075414",
-      "time": "2026-09-03 19:10:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特公共投資基金旗下 Humain 將設立風險投資基金。"
-    },
-    {
-      "id": "5075413",
-      "time": "2026-09-03 19:09:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沈曉明毛偉明與侯建國一行會談並共同見證簽約】據湖南日報，9月2日，湖南省委書記沈曉明，省委副書記、省長毛偉明在長沙與中國科學院院長、黨組書記侯建國一行會談，並共同見證中國科學院、湖南省人民政府、長沙市人民政府簽署專項合作協議。沈曉明說，希望雙方加快推動合作協議落實，並在現代農業、量子科技、腦機介面等領域開展廣泛深入合作，推動雙方合作取得更大成效。侯建國表示，希望進一步發揮各自優勢，圍繞文化和科技融合，在創新平臺建設、承擔重大科技任務、推動成果落地轉化等方面深化務實合作，為服務區域經濟社會高質量發展、推進科技強國和文化強國建設提供科技支撐。"
-    },
-    {
-      "id": "te:markets:580933",
-      "time": "2026-09-03 19:09:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ciena earnings above expectations at 2.11 USD — Ciena (CIEN) released earnings per share at 2.11 USD, compared to market expectations of 1.72 USD."
-    },
-    {
-      "id": "5075412",
-      "time": "2026-09-03 19:09:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：全球AI算力狂飆加劇水資源壓力 “水能協同”成綠色算力競爭新賽道】一份最新發布題為《AI時代算力基礎設施流體系統水能綠色發展報告》的行業研究報告指出，隨著人工智慧技術的爆發式增長，算力基礎設施快速擴張正在加劇能源與水資源供給壓力。 (澎湃新聞)"
-    },
-    {
-      "id": "5075411",
-      "time": "2026-09-03 19:08:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "博柏利股價扭轉跌勢，最高上漲2.1%。"
-    },
-    {
-      "id": "5075410",
-      "time": "2026-09-03 19:08:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉烈宏在貴州省調研資料要素市場化配置改革工作】8月28日至29日，國家資料局黨組書記、局長劉烈宏帶隊在貴州省調研。從調研情況看，貴州省資料系統堅持統籌資料發展和安全，加大創新探索力度，推動資料要素市場化配置改革取得明顯成效。在算力基礎設施方面，堅持統籌智算中心與算力排程體系建設，貴陽貴安算力規模已突破17.6萬PFlops、智算佔比超98%，人工智慧發展底座不斷夯實。在資料要素賦能人工智慧發展方面，深入實施“人工智慧+”行動，探索建設“模數工廠”，緊扣“詞元—資料要素價值釋放新路徑”，以“模數共振”驅動“資料飛輪”加速運轉，創新“境內加工、跨境服務”新模式。"
-    },
-    {
-      "id": "5075409",
-      "time": "2026-09-03 19:08:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "《今日美國》將裁員，對受眾團隊進行重組。"
     }
   ]
 }

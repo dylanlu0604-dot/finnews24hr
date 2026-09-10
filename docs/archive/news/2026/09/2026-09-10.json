@@ -1,7 +1,170 @@
 {
   "date": "2026-09-10",
-  "count": 2024,
+  "count": 2042,
   "items": [
+    {
+      "id": "te:economy:582755",
+      "time": "2026-09-10 19:11:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Turkey Holds Base Interest Rate at 37% — The Central Bank of the Republic of Turkey maintained its benchmark overnight lending rate at 37% for the fifth straight decision in its September 2026 meeting, as expected by markets. Then central bank noted that despite recent volatility in financial markets and the turbulent backdrop of the global macroeconomy, leading indicators suggested that the underlying inflation trend has moderated since the last meeting in June. On the other hand, the surging energy prices due to fresh escalation in the Iran-US war heightened inflationary risks, preventing any signals to warrant eased financial conditions or a favorable backdrop for the lira and overall emerging market currencies. The bank also nodded at defending the lira's stability, which was tested in May after Turkish courts removed the country's opposition leader Ozel, and previously prompted tweaks in the monetary framework to force commercial banks on higher funding rates."
+    },
+    {
+      "id": "5087309",
+      "time": "2026-09-10 19:11:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臻寶科技：海外廠商收入佔比較低主要是國內市場增速更快】在9月10日的半年度業績會上，臻寶科技董事長、總經理王兵談及海外客戶拓展時介紹，公司遵循“三步走”策略：立足國內外資晶圓廠、穩步培育境外客戶、推進中長期國際化佈局。公司在新加坡設有全資子公司，以新加坡市場為核心，已實現對UMC、GF等廠商的穩定供貨，同時開發東南亞市場，海外營收同比增速超過170%，但收入大頭仍來自國內。如果僅統計純境外市場的收入（不含境內外資晶圓廠），2026年上半年海外收入佔比僅為1.40%，受地緣政治因素影響，部分海外客戶暫未批次採購，未來將視業務發展適時評估海外佈局以適配當地供應鏈要求；如果包含境內的海外廠商產能（如大連海力士、廈門聯芯等），相關收入合計佔比約10%，佔比較低主要是因為國內市場增長速度更快。"
+    },
+    {
+      "id": "mkt:01a08b03-bf55-7118-8526-27a16a96f88f",
+      "time": "2026-09-10 19:11:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Xiaomi Corp (01810.HK) repurchased 1.9 mln Class B shares on Sept. 10 for HKD 49.3 mln."
+    },
+    {
+      "id": "te:markets:582753",
+      "time": "2026-09-10 19:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Closes Slightly Higher — India’s BSE Sensex finished about 0.2% up at 74,902.6 on Thursday, recovering from recent three-month lows, as investors sought bargains following the recent sell-off. Volatility persisted, however, with the expiry of key monthly derivative contracts and the new closing auction mechanism contributing to sharp swings toward the close. Investor sentiment remained fragile amid continued concerns over surging oil prices and geopolitical uncertainty. Gains in banking, power and select heavyweight stocks helped offset losses in metals, pharmaceuticals and technology shares."
+    },
+    {
+      "id": "5087308",
+      "time": "2026-09-10 19:10:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1339.10美元/盎司。"
+    },
+    {
+      "id": "5087307",
+      "time": "2026-09-10 19:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案披露，小米於9月10日以4930萬港元回購190萬股B類股份。"
+    },
+    {
+      "id": "5087306",
+      "time": "2026-09-10 19:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空盤前股價下跌3%，原因是其下調了第三季度可用座位里程預期。"
+    },
+    {
+      "id": "5087305",
+      "time": "2026-09-10 19:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：市長將有權決定過夜遊客稅的使用方式。"
+    },
+    {
+      "id": "5087304",
+      "time": "2026-09-10 19:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相發言人：英國政府確認計劃賦予地方領導人徵收旅遊稅的權力。"
+    },
+    {
+      "id": "5087303",
+      "time": "2026-09-10 19:09:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長出人：宣佈設立統一金融科技論壇，作為印度第二家自律監管機構。"
+    },
+    {
+      "id": "5087302",
+      "time": "2026-09-10 19:08:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：連續20個交易日收盤價低於1元，觸及交易類強制退市】*ST清越公告，公司股票已連續20個交易日每日收盤價低於1元，2026年9月10日收盤價0.58元、總市值2.61億元，已觸及交易類強制退市情形。公司股票自2026年9月11日開市起停牌，後續可能被上海證券交易所終止上市，交易類強制退市股票不進入退市整理期。"
+    },
+    {
+      "id": "mkt:01a08b01-83dc-7118-8526-1d77efbd2c18",
+      "time": "2026-09-10 19:08:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Yongxi Electronics to prioritise 2.5D advanced-packaging client expansion, validation and product onboarding in H2 2026】At its Sept. 10 interim results briefing, Yongxi Electronics said it will maintain a large-customer strategy and, while deepening cooperation with core clients, prioritise expansion, validation and product onboarding for leading overseas accounts and 2.5D advanced-packaging customers in H2 2026. The company said it will steadily build out advanced-packaging product lines — bumping, wafer-level packaging, FC and 2.5D/3D — and continue to enhance one-stop delivery capability via \"Bumping+CP+FC+FT\"."
+    },
+    {
+      "id": "5087301",
+      "time": "2026-09-10 19:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗暫緩徵收10%能源運費附加費 海峽壓力或將趨緩】據伊朗法爾斯通訊社報道，伊朗宣佈臨時暫停對運輸進出該國能源產品的外國船隻徵收10%運費附加費，此舉是在霍爾木茲海峽持續海上緊張局勢下的一項戰術調整。該海峽是對全球能源供應至關重要的關鍵航運通道。地緣政治分析師Estefano Gomez表示，暫停被視為伊朗監管外國海上交通方式的戰略轉變，可能減輕航運路線的即時壓力，但不表明地區衝突更廣泛降級。這一決定可能影響市場對伊朗在10月底前實施此類費用的可能性的看法。"
+    },
+    {
+      "id": "5087300",
+      "time": "2026-09-10 19:08:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST凱利：呂向東增持357.26萬股，股東合計持股增至10.00%】ST凱利公告，2026年9月1日至2026年9月9日，呂向東透過集中競價交易累計增持公司股份357.26萬股，佔總股本的0.50%，增持金額合計2245.37萬元。增持完成後，凱誠君泰、呂向東、李虹、劉雙全和魏永梅合計持股比例由9.50%增至10.00%，本次增持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5087299",
+      "time": "2026-09-10 19:08:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【泰國擬實施差異化電動車消費稅】泰國財政部消費稅局局長Pornchai Thiraveja週四在財政部會議後表示，國家電動汽車政策委員會週四原則上同意引入三級消費稅稅率結構，對泰國國內製造的電動汽車徵收最低稅率，對完全進口的車型徵收最高稅率。部分使用進口零部件的車輛，將適用中間稅率。"
+    },
+    {
+      "id": "5087298",
+      "time": "2026-09-10 19:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝攻佔紅海港口城市穆哈】葉門政府軍軍官10日說，葉門西南部塔伊茲省戰略要地、紅海港口城市穆哈當天被胡塞武裝攻佔。 這名不願透露姓名的政府軍當地軍官告訴新華社記者，在經歷數小時激烈交火後，政府軍被迫向南撤至位於穆哈與曼德海峽之間的祖巴卜地區，胡塞武裝進入穆哈。 他還說，隨著軍事對抗擴大，穆哈及其周邊地區以及葉門西部沿海其他地區的戰鬥已導致數千戶家庭流離失所。 胡塞武裝控制的薩巴通訊社10日報道，過去數小時內，沙烏地阿拉伯戰機在塔伊茲、荷臺達、焦夫和馬裡卜4省發動約40次空襲。 沙特方面暫未確認。 近日，葉門西部和北部多地戰事持續升級。胡塞武裝9日表示，過去幾天，葉門政府軍試圖奪取焦夫省首府哈茲姆以東由胡塞武裝控制的軍事基地，雙方戰鬥仍在持續。葉門政府軍官員說，沙特主導的聯軍實施了空襲，為政府軍地面部隊向胡塞武裝防禦陣地推進提供空中支援。(新華社)"
+    },
+    {
+      "id": "mkt:01a08b01-0153-7118-8526-17c4f8e0badf",
+      "time": "2026-09-10 19:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Volvo Cars to become Lynk & Co's exclusive distributor in Europe under agreement with Geely】Geely Auto Group and Volvo Cars have reached a final agreement under which Volvo will be Lynk & Co's exclusive distributor in Europe from January 2027, taking full responsibility for the brand's commercial and local brand operations. The deal involves no equity changes; Geely will continue to lead Lynk & Co's global product design, R&D, regulatory certification and overall brand strategy."
+    },
+    {
+      "id": "5087297",
+      "time": "2026-09-10 19:07:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠望谷：簽訂股權投資意向書擬收購光泰通訊100%股權】遠望谷公告，公司擬以自有資金及/或自籌資金收購深圳光泰通訊裝置有限公司100%股權，並於2026年9月10日與光泰通訊及其股東簽訂《股權投資意向書》。各方將繼續就交易方案、交易對價等事項協商並簽署正式協議，標的公司估值、投資金額及付款方式待盡調後另行協商確定。"
+    },
     {
       "id": "5087296",
       "time": "2026-09-10 19:07:46",
