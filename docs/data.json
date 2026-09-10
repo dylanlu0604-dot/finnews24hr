@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-10 23:17:35",
-  "count": 13592,
+  "updated": "2026-09-10 23:21:35",
+  "count": 13590,
   "items": [
+    {
+      "id": "5087906",
+      "time": "2026-09-10 23:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜伊桑格爾東南偏東86公里處發生5.1級地震。"
+    },
+    {
+      "id": "mkt:01a08be5-86ee-7118-852f-5d5d9473c34e",
+      "time": "2026-09-10 23:17:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's UN envoy said the US and UK should stop attempting to reimpose sanctions on Iran and that facts about Iran's nuclear program have been distorted."
+    },
     {
       "id": "5087905",
       "time": "2026-09-10 23:16:31",
@@ -10,6 +29,15 @@
         "國際"
       ],
       "text": "美聯儲8週期國庫券投標總額為67億美元。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609103870925541",
+      "time": "2026-09-10 23:16:24",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國10年期國債收益率上漲6個基點至3.51%，為2009年以來最高。"
     },
     {
       "id": "5087904",
@@ -79,6 +107,15 @@
         "Impact bearish"
       ],
       "text": "ECB officials expect further policy tightening in October."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870921786",
+      "time": "2026-09-10 23:14:09",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行官員預計將進一步收緊政策，10月加息已在考慮之中。"
     },
     {
       "id": "mkt:01a08be1-db1f-7118-852f-4123b44df4c8",
@@ -124122,69 +124159,6 @@
         "NET.N"
       ],
       "text": "Cloudflare (NET.N) status page reports issues affecting some custom domains."
-    },
-    {
-      "id": "5075931",
-      "time": "2026-09-03 23:20:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "故障監測網站 DownDetector：使用者反饋顯示亞馬遜雲科技美國區域可能出現故障。"
-    },
-    {
-      "id": "mkt:01a067db-8837-7118-848b-92e15aef082e",
-      "time": "2026-09-03 23:20:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "DownDetector reports user complaints indicating Amazon Web Services (AWS) may be experiencing issues in the U.S."
-    },
-    {
-      "id": "5075930",
-      "time": "2026-09-03 23:19:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4510美元/盎司，日內漲2.79%。"
-    },
-    {
-      "id": "mkt:01a067d9-b2a4-7118-848b-8bd020635cc3",
-      "time": "2026-09-03 23:18:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Pricing document shows Saudi Arabia has set October official selling price of Arab Light crude to Asia at a $2/barrel discount to the Oman/Dubai average."
-    },
-    {
-      "id": "mkt:01a067d9-3f44-7118-848b-8127ed92e755",
-      "time": "2026-09-03 23:18:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said making Donald J. Trump the 'enemy' is politically advantageous for Canadian politicians such as Prime Minister Carney, but warned that if the Canadian economy collapses the outcome would be severely damaging for those politicians and 'worse than anything they've experienced.' He added, 'We'll see.'"
-    },
-    {
-      "id": "mkt:01a067d9-3d20-7118-848b-7dde13867c90",
-      "time": "2026-09-03 23:18:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Downdetector reports outages at OpenAI, Claude, Grok and Cursor】Downdetector reported Thursday morning that multiple major AI platforms experienced service disruptions, including OpenAI, Claude, Grok and Cursor. Claude displayed an error message: \"Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again later.\" Grok displayed messages saying: \"Grok is currently experiencing problems. We are working to restore service as soon as possible,\" and \"This model is temporarily unavailable. Please try another model.\" Downdetector users first reported Grok and Claude interruptions at about 9:00 a.m. US Eastern Time; reports of OpenAI issues began around 10:30 a.m. US Eastern Time."
     }
   ]
 }

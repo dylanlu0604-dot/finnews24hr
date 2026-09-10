@@ -1,7 +1,26 @@
 {
   "date": "2026-09-10",
-  "count": 2540,
+  "count": 2544,
   "items": [
+    {
+      "id": "5087906",
+      "time": "2026-09-10 23:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜伊桑格爾東南偏東86公里處發生5.1級地震。"
+    },
+    {
+      "id": "mkt:01a08be5-86ee-7118-852f-5d5d9473c34e",
+      "time": "2026-09-10 23:17:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's UN envoy said the US and UK should stop attempting to reimpose sanctions on Iran and that facts about Iran's nuclear program have been distorted."
+    },
     {
       "id": "5087905",
       "time": "2026-09-10 23:16:31",
@@ -10,6 +29,15 @@
         "國際"
       ],
       "text": "美聯儲8週期國庫券投標總額為67億美元。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609103870925541",
+      "time": "2026-09-10 23:16:24",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國10年期國債收益率上漲6個基點至3.51%，為2009年以來最高。"
     },
     {
       "id": "5087904",
@@ -79,6 +107,15 @@
         "Impact bearish"
       ],
       "text": "ECB officials expect further policy tightening in October."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870921786",
+      "time": "2026-09-10 23:14:09",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行官員預計將進一步收緊政策，10月加息已在考慮之中。"
     },
     {
       "id": "mkt:01a08be1-db1f-7118-852f-4123b44df4c8",
