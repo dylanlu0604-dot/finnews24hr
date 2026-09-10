@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-11 04:26:59",
-  "count": 13634,
+  "updated": "2026-09-11 04:30:53",
+  "count": 13632,
   "items": [
+    {
+      "id": "mkt:01a08d03-990d-7118-8535-3f02528192ee",
+      "time": "2026-09-11 04:30:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US 2-year Treasury yield rose 15 bps to 4.58%, its highest level so far in 2024."
+    },
+    {
+      "id": "mkt:01a08d01-28d9-7118-8535-320be8a76bb7",
+      "time": "2026-09-11 04:27:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UKMTO reports an incident in the Sea of Oman near Khasab, Oman: a vessel captain said he observed four unidentified projectiles strike two unidentified vessels about 4 nm west of Khasab (roughly 6 nm north of his position). One vessel was reported on fire; status of the other is unclear."
+    },
+    {
+      "id": "mkt:01a08d00-3871-7118-8535-29502ad654c4",
+      "time": "2026-09-11 04:26:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "GasBuddy said the US national average diesel price topped $6/gal for the first time."
+    },
     {
       "id": "te:markets:582904",
       "time": "2026-09-11 04:26:14",
@@ -124552,52 +124585,6 @@
         "Important"
       ],
       "text": "United States | US Treasuries held by Foreign Central Banks (Aug.28) | actual -14005000000.000002B | previous 29075000000B"
-    },
-    {
-      "id": "mkt:01a068f7-6172-7118-8490-c31faa3c9ba0",
-      "time": "2026-09-04 04:30:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "【Smart-ring maker Oura files U.S. IPO】Oura, maker of health, fitness and sleep-tracking smart rings, filed an IPO registration with the U.S. SEC. For the nine months ended June 30, net loss attributable to shareholders was $924.3 mln and revenue $1.21 bln, versus a net loss of $182.8 mln and revenue of $697.6 mln in the same period last year. The filing says the widened loss includes deemed dividends paid to certain holders of redeemable convertible preferred stock."
-    },
-    {
-      "id": "5076243",
-      "time": "2026-09-04 04:30:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國副總統萬斯淡化伊朗衝突規模 稱不會稱其為戰爭】美國副總統JD·萬斯淡化了伊朗衝突規模，稱他不會將其描述為“一場戰爭”。眼下美伊衝突已進入第七個月，而中東地區的軍事打擊在過去幾天升級。“我不會稱之為戰爭，”萬斯週四在白宮新聞釋出會上表示。“目前並沒有正在進行的交火。”“我承認，有些地方確實出現了升級，”萬斯表示。“大規模作戰行動持續了約六週。”萬斯週四代替前白宮新聞秘書萊維特主持記者會時還重申了政府的觀點，稱伊朗“對霍爾木茲海峽的控制實際上已經不復存在，這一資產的價值在下降。”在被問及汽油價格何時會回落至每加侖約3美元時，萬斯拒絕作出預測，但他表示，美國保護商業航運的行動幫助約1500萬桶原油於週三經霍爾木茲海峽出口。目前，美國全國汽油零售均價仍維持在每加侖4美元以上。萬斯將高油價完全歸咎於伊朗對霍爾木茲海峽商船的襲擊。他說：“現實情況是，目前汽油價格如此之高，根本原因在於伊朗在向商業船隻開火。”"
-    },
-    {
-      "id": "te:markets:581050",
-      "time": "2026-09-04 04:29:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on Lower Fed Rate Hike Bets — The S&P/TSX Composite Index rose 1.5% to close at 36,633 s as bets on a US Fed rate hike in September eased. US Fed Governor Waller said that he was inclined to be patient on monetary policy while monitoring whether price pressures continue to ease. Following his comments, markets trimmed expectations for a Fed rate hike, while both Canadian and US government bond yields retreated from their 2025 highs. Banks advanced, with RBC up 1.6% and both BMO and CIBC gaining 1.8%. Gold prices rose, driving miners higher. Agnico Eagle jumped 5%, Barrick gained 3.1%, and WPM added 3.7%. Technology stocks posted sharp gains amid a rally in US hyperscalers. Shopify rose 2.3%, while Celestica soared 11.3% as hyperscaler capital expenditure continued to fuel rapid expansion in high-performance AI computing and enterprise hardware. Meanwhile, despite the BoC keeping rates unchanged on Wednesday, Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
-    },
-    {
-      "id": "5076241",
-      "time": "2026-09-04 04:28:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（9月3日），美股行業ETF普遍上漲，網路股指數ETF收漲2.1%，金融業ETF漲1.56%，可選消費ETF、科技行業ETF、銀行業ETF、全球科技股指數ETF、工業指數ETF至少漲1.03%，半導體ETF漲0.39%表現靠後，能源業ETF跌0.74%。"
-    },
-    {
-      "id": "5076239",
-      "time": "2026-09-04 04:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊音樂：本次公開發行包括5億美元2031年到期票面利率5.050%票據，以及5億美元2036年到期票面利率5.650%票據。"
     }
   ]
 }

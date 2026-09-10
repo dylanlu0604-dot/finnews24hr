@@ -1,7 +1,40 @@
 {
   "date": "2026-09-11",
-  "count": 393,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:01a08d03-990d-7118-8535-3f02528192ee",
+      "time": "2026-09-11 04:30:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US 2-year Treasury yield rose 15 bps to 4.58%, its highest level so far in 2024."
+    },
+    {
+      "id": "mkt:01a08d01-28d9-7118-8535-320be8a76bb7",
+      "time": "2026-09-11 04:27:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UKMTO reports an incident in the Sea of Oman near Khasab, Oman: a vessel captain said he observed four unidentified projectiles strike two unidentified vessels about 4 nm west of Khasab (roughly 6 nm north of his position). One vessel was reported on fire; status of the other is unclear."
+    },
+    {
+      "id": "mkt:01a08d00-3871-7118-8535-29502ad654c4",
+      "time": "2026-09-11 04:26:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "GasBuddy said the US national average diesel price topped $6/gal for the first time."
+    },
     {
       "id": "te:markets:582904",
       "time": "2026-09-11 04:26:14",
