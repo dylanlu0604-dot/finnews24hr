@@ -1,7 +1,111 @@
 {
   "date": "2026-09-10",
-  "count": 2433,
+  "count": 2444,
   "items": [
+    {
+      "id": "mkt:01a08bbb-9621-7118-852e-9a9c57b901b4",
+      "time": "2026-09-10 22:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported the chairman of Yemen's Supreme Political Council said the Taiz coastal area is stable and that Saudi-backed forces would be granted amnesty if they lay down their arms."
+    },
+    {
+      "id": "5087841",
+      "time": "2026-09-10 22:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮10日在社交媒體上說，美國總統特朗普宣佈，將向近100萬名“因‘奧巴馬醫改’被多收費”的美國人發放每人500美元的退款支票。（新華社）"
+    },
+    {
+      "id": "5087840",
+      "time": "2026-09-10 22:31:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達2.2%。"
+    },
+    {
+      "id": "5087839",
+      "time": "2026-09-10 22:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國天然氣庫存增至 3.25 萬億立方英尺。"
+    },
+    {
+      "id": "mkt:01a08bba-52bf-7118-852e-92a4a09a6ce8",
+      "time": "2026-09-10 22:30:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Private Enterprises Bureau of the China State Planner pitches 36 transport, logistics, water and energy projects to private investors】On Sept. 10 the Private Enterprises Bureau of the China State Planner held a roundtable with private firms and industry associations to collect investment obstacles and promote private participation. The bureau presented 36 projects focused on transport, logistics, water conservancy and energy, with total planned investment of 61.4 bln yuan and proposed private capital of 15.6 bln yuan. Projects cover rail, warehousing, wind power, energy storage, EV charging infrastructure and water diversion; private investors may enter via wholly owned, controlling or minority stakes in project companies. The initiative aims to spur private investment into infrastructure and energy sectors."
+    },
+    {
+      "id": "5087838",
+      "time": "2026-09-10 22:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：將ChatGPT使用資格擴大至2300萬美國公共部門員工。"
+    },
+    {
+      "id": "mkt:01a08bba-1e0c-7118-852e-8c3470d5680d",
+      "time": "2026-09-10 22:30:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly natural gas report: U.S. working gas in storage 3,254 Bcf for the week ended Sept. 4, a 40 Bcf build from the prior week; 79 Bcf below year-ago (-2.4%) and 148 Bcf above the five-year average (+4.8%)."
+    },
+    {
+      "id": "5087837",
+      "time": "2026-09-10 22:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署稱，上週美國天然氣庫存增加了400億立方英尺。"
+    },
+    {
+      "id": "mkt:01a08bb9-dce8-7118-852e-85689572a288",
+      "time": "2026-09-10 22:30:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week ended Sept. 4 rose by 40 bcf, versus 31 bcf expected and 30 bcf the prior week."
+    },
+    {
+      "id": "mkt:01a08bb9-c04a-7118-852e-7f5ad91efbb8",
+      "time": "2026-09-10 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Sep.4) | actual 40000000000B | consensus 31000000000B | previous 30000000000B"
+    },
+    {
+      "id": "5087836",
+      "time": "2026-09-10 22:29:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OPENAI：公司與美國總務管理局宣佈達成多年期協議，許可費為零，使用費減半。"
+    },
     {
       "id": "5087835",
       "time": "2026-09-10 22:28:11",
