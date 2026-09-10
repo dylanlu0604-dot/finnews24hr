@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-10 08:55:50",
-  "count": 13542,
+  "updated": "2026-09-10 08:59:40",
+  "count": 13548,
   "items": [
+    {
+      "id": "5086041",
+      "time": "2026-09-10 08:58:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【墨西哥對華有色浮法玻璃作出反傾銷初裁】2026年9月9日，墨西哥經濟部發布公告，對原產於中國的厚度大於等於2毫米且小於等於19毫米的有色浮法玻璃作出反傾銷肯定性初裁，初步決定對涉案產品徵收臨時反傾銷稅，稅額為0.11917美元/千克，涉案產品的TIGIE稅號為7005.21.03。措施自公告發布次日起生效，有效期為六個月。（中國貿易救濟資訊網）"
+    },
+    {
+      "id": "5086040",
+      "time": "2026-09-10 08:57:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴陽推進特大型社群供電配網自動化改造】記者日前從南方電網貴陽供電局獲悉，貴陽市花果園特大型社群10千伏線路饋線組自動化改造工程正穩步推進，目前已完成多個饋線組的改造除錯，整體建設按計劃實施。據介紹，該工程是貴陽市配電網智慧化升級的一項重點專案，旨在破解高密度城區供電瓶頸。（經參報）"
+    },
+    {
+      "id": "5086039",
+      "time": "2026-09-10 08:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國民航局：受系統故障影響旅客可能無權獲賠償】據英國方面9日訊息，英國航班管理系統8日發生的故障已導致超2000架次航班被取消。英國民航局說，受影響旅客可能無權獲得賠償。英國民航局9日發表宣告說，此次故障導致的航班執行受擾可能被認定為旅客權益規定中的“特殊狀況”，因此受影響旅客可能無法獲得賠償。"
+    },
+    {
+      "id": "5086038",
+      "time": "2026-09-10 08:57:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月9日300股獲融資買入超億元 中際旭創穫買入23.86億元居首】9月9日共有3520只個股獲融資資金買入，有300股買入金額超億元。其中，中際旭創、華工科技、東山精密融資買入金額排名前三，分別獲買入23.86億元、17.88億元、15.07億元。"
+    },
+    {
+      "id": "5086037",
+      "time": "2026-09-10 08:56:59",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美元信用損失對金價的提振，遠大於美債收益率上行和通脹對黃金的壓力】美國財政部宣佈，將於週四進行最多60億美元的10年至20年期美國國債回購，但60億美元遠低於華爾街樂觀預期規模100億，美債收益率繼續上行，對金價形成一定壓制。我們昨日強調過，美元信用損失對金價的提振，遠大於美債收益率上行和通脹對黃金的壓力，可繼續關注黃金調整之後的買入機會。"
+    },
+    {
+      "id": "5086036",
+      "time": "2026-09-10 08:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI需求引爆“芯”進口 一個終端訂單 拉動一串跨國採購】海關總署統計，2026年上半年積體電路進口2980.2億美元，同比增長55.8%，連續30個月同比增長。6月當月，我國積體電路進口額同比增長72.3%至596億美元，連續第三個月創造月度進口紀錄。國際貨運代理企業直接感受到進口貨物的變化：AI相關光模組、儲存部件進口單月環比增幅超50%。同時，貨物不再只留在珠三角，越來越多流向長三角和中西部產業園。在深圳，以積體電路為代表的機電產品進口需求不僅支撐本地製造業的升級，也承接來自全國各地的採購需求。中國AI企業龐大的需求給全球半導體產業鏈帶來了實實在在的採購訂單。不僅深圳，上海口岸同樣表現亮眼。洋山港碼頭，來自歐美等地的工程機械發動機、鏟齒、連桿等零部件批次到港，保障國內特種工程領域生產。今年前七個月，我國進口機電產品5.31萬億元，增長達29.7%。（央視）"
+    },
+    {
+      "id": "5086035",
+      "time": "2026-09-10 08:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門對海米斯穆謝特和阿卜哈釋出緊急警報。"
+    },
+    {
+      "id": "te:markets:582534",
+      "time": "2026-09-10 08:55:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies Ahead of Key Inflation Data — The dollar index held around 98.8 on Thursday, pausing its recent decline as investors awaited key inflation figures that could shape the Federal Reserve’s next policy decision. The US producer price index for August is due later today, followed by the consumer inflation report on Friday. Other major economic releases scheduled for today include weekly jobless claims and existing home sales data. Markets are currently pricing in roughly a 60% probability of a 25-basis-point rate hike by the Fed next week following stronger-than-expected jobs data. Meanwhile, Treasury yields surged after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, three times the usual amount, though the move still disappointed some investors who had anticipated a larger increase. Elsewhere, oil prices moved higher as the US-Iran conflict intensified, stoking inflation concerns and strengthening expectations for near-term rate hikes."
+    },
     {
       "id": "5086034",
       "time": "2026-09-10 08:55:09",
@@ -123613,30 +123685,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨開盤上漲0.12%。"
-    },
-    {
-      "id": "5074192",
-      "time": "2026-09-03 08:56:35",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金財富期貨：美國10年期國債收益率從盤中高位回落，黃金和美股也出現反彈行情】油價衝高回落後漲勢暫歇，通脹預期隨之降溫。美國10年期國債收益率從盤中高位回落，黃金和美股也出現反彈行情。但是需要注意的事，“替代方案”的紅海港口也被威脅，沙特原油出口暴跌，油價下行需要美伊之間達成一個較為靠譜的協議，否則地緣問題帶來的通脹壓力、債務風險等仍會反覆擾動市場，建議耐心等待黃金調整結束。"
-    },
-    {
-      "id": "mkt:01a064c4-1d78-7118-8470-ad7a6951a895",
-      "time": "2026-09-03 08:56:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【A-share thermometer: combined turnover below 20-day average for 10th straight day】China's Shanghai and Shenzhen markets recorded combined turnover of 1.79 tln yuan on Sept. 2, down from the prior session and marking a tenth consecutive trading day below the 20-day moving average of 2.20 tln yuan, which has oscillated around that level since August. Turnover below the 20-day average—a proxy for aggregate institutional, speculative and retail participation—signals cooling market activity and softer sentiment."
     }
   ]
 }
