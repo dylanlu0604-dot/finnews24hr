@@ -1,7 +1,19 @@
 {
   "date": "2026-09-11",
-  "count": 439,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:01a08d35-44ca-7118-8535-b7a2f326c625",
+      "time": "2026-09-11 05:24:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump denies US warplanes at Jordan base damaged in Iranian attack】Trump on the 10th denied reports that US aircraft at a Jordan base were damaged in an Iranian strike, calling the reports \"completely untrue\" and saying the US military suffered \"no losses, nothing happened.\" Sources on the 9th had said multiple US jets were damaged in Iran's 8th strike on the Muwaffaq Salti air base in Jordan — an A-10 was hit with a wing broken and eight F-15s were lightly damaged and later returned to service. Iran's Islamic Revolutionary Guard Corps said it struck the base targeting fighter deployment areas and hardened shelters for F-35, F-16 and F-15 jets, causing \"severe damage.\" Jordan's military said its air defenses shot down 18 ballistic missiles Iran fired at Jordan."
+    },
     {
       "id": "mkt:01a08d2e-bb60-7118-8535-aad4089518c3",
       "time": "2026-09-11 05:17:25",

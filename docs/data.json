@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-11 05:21:37",
-  "count": 13627,
+  "updated": "2026-09-11 05:25:30",
+  "count": 13625,
   "items": [
+    {
+      "id": "mkt:01a08d35-44ca-7118-8535-b7a2f326c625",
+      "time": "2026-09-11 05:24:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump denies US warplanes at Jordan base damaged in Iranian attack】Trump on the 10th denied reports that US aircraft at a Jordan base were damaged in an Iranian strike, calling the reports \"completely untrue\" and saying the US military suffered \"no losses, nothing happened.\" Sources on the 9th had said multiple US jets were damaged in Iran's 8th strike on the Muwaffaq Salti air base in Jordan — an A-10 was hit with a wing broken and eight F-15s were lightly damaged and later returned to service. Iran's Islamic Revolutionary Guard Corps said it struck the base targeting fighter deployment areas and hardened shelters for F-35, F-16 and F-15 jets, causing \"severe damage.\" Jordan's military said its air defenses shot down 18 ballistic missiles Iran fired at Jordan."
+    },
     {
       "id": "mkt:01a08d2e-bb60-7118-8535-aad4089518c3",
       "time": "2026-09-11 05:17:25",
@@ -124536,36 +124548,6 @@
         "國際"
       ],
       "text": "美國聯邦通訊委員會要求美國法院駁回迪士尼尋求阻止牌照續期程式的訴訟。"
-    },
-    {
-      "id": "mkt:01a06929-1858-7118-8491-0fb8c7c19564",
-      "time": "2026-09-04 05:24:55",
-      "tags": [
-        "MKT News",
-        "DIS.O"
-      ],
-      "text": "Filings show the Federal Communications Commission (FCC) asked a U.S. court to dismiss Disney's (DIS.N) suit seeking to block continuation of broadcast license renewal proceedings."
-    },
-    {
-      "id": "mkt:01a06927-19e7-7118-8491-02abea84b728",
-      "time": "2026-09-04 05:22:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. House stalls Russia sanctions bill amid concern tariffs would lift oil prices】A Russia sanctions bill that cleared the Senate is stalled in the House and likely to be delayed until after the November election as opposition grows. The measure, introduced by late Sen. Lindsey Graham, would authorize Trump to levy tariffs of up to 100% on major buyers of Russian oil and gas and on countries that help Russia evade energy sanctions. Lawmakers from both parties say the tariff clause could expand presidential trade authority and push up energy prices; House Speaker Mike Johnson said members support sanctions but want the bill passed 'the right way'. House Foreign Affairs Committee chair Brian Mast said the committee is assessing whether Russian crude buyers switching suppliers could lift oil prices."
-    },
-    {
-      "id": "5076284",
-      "time": "2026-09-04 05:22:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "Adobe的戴維・瓦德瓦尼宣佈將離開這家軟體公司，此前執掌 Adobe創意與生產力業務板塊。"
     }
   ]
 }
