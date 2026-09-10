@@ -1,7 +1,89 @@
 {
   "date": "2026-09-10",
-  "count": 2468,
+  "count": 2477,
   "items": [
+    {
+      "id": "mkt:01a08bc9-9578-7118-852e-d82e40cba077",
+      "time": "2026-09-10 22:47:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Tanker shortage, Houthi threat shift ARAMCO product exports to Red Sea refineries】ARMACO has shifted most product exports to Red Sea refineries as tanker scarcity and Houthi attacks slow the recovery of refined flows through the Strait of Hormuz, keeping fuel prices elevated. At least 1.0 mln bpd currently transit Hormuz, Vortexa data show, versus about 4.0 mln bpd pre-war (ex-LPG). Traders at a Singapore meeting said recovery is hampered by difficulty finding tankers to load; owners still carry crude via Hormuz because surging VLCC freight makes voyages profitable, but refined products move on smaller ships that require more trips and carry higher risk. Two industry sources said ARAMCO exports roughly 500k bpd of products daily, mostly from Red Sea coastal refineries; shipments from Ras Tanura remain limited because chartering vessels for that route is difficult."
+    },
+    {
+      "id": "5087863",
+      "time": "2026-09-10 22:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "丘鈦科技：8月攝像頭模組銷售數量-14.9％。"
+    },
+    {
+      "id": "mkt:01a08bc8-d81d-7118-852e-d068900f49aa",
+      "time": "2026-09-10 22:46:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Optical-fiber preform capacity surge pressures prices; Wind fiber index down 3.26%】Sept. 10 — Wind data: Wind Optical Fiber Index closed down 3.26% after reports that optical-fiber preform capacity is accelerating. Preforms, the main raw material for optical fiber and cable, have risen sharply YTD and recently, but industry sources say mid‑term prices are uncertain as new capacity scheduled to come online over the next two years will require market validation. FiberHome said it expects sustained data‑centre optical connectivity demand, is expanding high‑end capacity (multimode, specialty and hollow‑core fibers) and will use self‑funding to advance projects before proceeds from a planned directed share issuance are received. Firms note preform ramp-up still faces hurdles in technology, equipment procurement, approvals and talent. Yangtze Optical Fibre and Cable said traditional telco demand is flat and incremental volume is coming mainly from cloud service providers’ compute build-outs; see company filings for details."
+    },
+    {
+      "id": "5087862",
+      "time": "2026-09-10 22:46:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛維持2027年TTF天然氣價格預測不變，為每兆瓦時32歐元。"
+    },
+    {
+      "id": "te:markets:582861",
+      "time": "2026-09-10 22:46:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall to 3-Week Low — US natural gas prices fell below $2.78/MMBtu, reaching a three-week low after the EIA reported a larger-than-expected storage build. Utilities added 40 billion cubic feet to inventories in the week ending September 4, above expectations for a 31-bcf increase and lifting total stocks to 3.254 trillion cubic feet. Inventories are 4.8% above the five-year average, reinforcing concerns over ample supply. Production has also remained strong, with Lower 48 output averaging 112.9 bcfd so far in September, above August’s monthly high. These factors have outweighed support from robust demand. Above-average temperatures across the South and Southeast are expected to sustain air-conditioning demand, while gas deliveries to major LNG export facilities have increased. Rising European and Asian demand for US LNG, as buyers seek alternatives to disrupted Middle Eastern supplies and prepare for winter, is providing additional underlying support to the market."
+    },
+    {
+      "id": "mkt:01a08bc8-a377-7118-852e-cf5a3370cd59",
+      "time": "2026-09-10 22:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed Hamas Nukhba member in Khan Younis】The Israel Defense Forces said on Oct. 10 that on Oct. 7 it struck in Khan Younis, southern Gaza, killing Hamas Nukhba member Ismail Ibrahim Darwish Kandeel. The IDF said Kandeel took part in the Oct. 7 attacks and was directly involved in the operation that resulted in the death of an IDF Nahal Brigade commander."
+    },
+    {
+      "id": "5087861",
+      "time": "2026-09-10 22:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死一名哈馬斯“努赫巴”部隊成員】以色列國防軍當地時間10日發表宣告稱，以軍7日在加沙地帶南部汗尤尼斯實施打擊行動，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“努赫巴”部隊成員伊斯梅爾·易卜拉欣·達爾維什·坎迪爾。以軍稱，坎迪爾曾參與2023年10月7日的襲擊，並直接參與導致以色列國防軍“納哈爾旅”一名指揮官陣亡的行動。哈馬斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5087860",
+      "time": "2026-09-10 22:45:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表在聯合國安理會正式就召開伊朗制裁問題會議提出抗議，並強調莫斯科完全反對召開此次會議審議伊朗制裁問題。"
+    },
+    {
+      "id": "mkt:01a08bc7-b694-7118-852e-c70799447746",
+      "time": "2026-09-10 22:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs raises its Q4 2026 TTF gas price forecast to €70/MWh."
+    },
     {
       "id": "5087859",
       "time": "2026-09-10 22:44:27",

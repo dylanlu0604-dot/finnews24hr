@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-10 22:45:17",
-  "count": 13618,
+  "updated": "2026-09-10 22:49:20",
+  "count": 13617,
   "items": [
+    {
+      "id": "mkt:01a08bc9-9578-7118-852e-d82e40cba077",
+      "time": "2026-09-10 22:47:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Tanker shortage, Houthi threat shift ARAMCO product exports to Red Sea refineries】ARMACO has shifted most product exports to Red Sea refineries as tanker scarcity and Houthi attacks slow the recovery of refined flows through the Strait of Hormuz, keeping fuel prices elevated. At least 1.0 mln bpd currently transit Hormuz, Vortexa data show, versus about 4.0 mln bpd pre-war (ex-LPG). Traders at a Singapore meeting said recovery is hampered by difficulty finding tankers to load; owners still carry crude via Hormuz because surging VLCC freight makes voyages profitable, but refined products move on smaller ships that require more trips and carry higher risk. Two industry sources said ARAMCO exports roughly 500k bpd of products daily, mostly from Red Sea coastal refineries; shipments from Ras Tanura remain limited because chartering vessels for that route is difficult."
+    },
+    {
+      "id": "5087863",
+      "time": "2026-09-10 22:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "丘鈦科技：8月攝像頭模組銷售數量-14.9％。"
+    },
+    {
+      "id": "5087862",
+      "time": "2026-09-10 22:46:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛維持2027年TTF天然氣價格預測不變，為每兆瓦時32歐元。"
+    },
+    {
+      "id": "mkt:01a08bc8-d81d-7118-852e-d068900f49aa",
+      "time": "2026-09-10 22:46:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Optical-fiber preform capacity surge pressures prices; Wind fiber index down 3.26%】Sept. 10 — Wind data: Wind Optical Fiber Index closed down 3.26% after reports that optical-fiber preform capacity is accelerating. Preforms, the main raw material for optical fiber and cable, have risen sharply YTD and recently, but industry sources say mid‑term prices are uncertain as new capacity scheduled to come online over the next two years will require market validation. FiberHome said it expects sustained data‑centre optical connectivity demand, is expanding high‑end capacity (multimode, specialty and hollow‑core fibers) and will use self‑funding to advance projects before proceeds from a planned directed share issuance are received. Firms note preform ramp-up still faces hurdles in technology, equipment procurement, approvals and talent. Yangtze Optical Fibre and Cable said traditional telco demand is flat and incremental volume is coming mainly from cloud service providers’ compute build-outs; see company filings for details."
+    },
+    {
+      "id": "te:markets:582861",
+      "time": "2026-09-10 22:46:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall to 3-Week Low — US natural gas prices fell below $2.78/MMBtu, reaching a three-week low after the EIA reported a larger-than-expected storage build. Utilities added 40 billion cubic feet to inventories in the week ending September 4, above expectations for a 31-bcf increase and lifting total stocks to 3.254 trillion cubic feet. Inventories are 4.8% above the five-year average, reinforcing concerns over ample supply. Production has also remained strong, with Lower 48 output averaging 112.9 bcfd so far in September, above August’s monthly high. These factors have outweighed support from robust demand. Above-average temperatures across the South and Southeast are expected to sustain air-conditioning demand, while gas deliveries to major LNG export facilities have increased. Rising European and Asian demand for US LNG, as buyers seek alternatives to disrupted Middle Eastern supplies and prepare for winter, is providing additional underlying support to the market."
+    },
+    {
+      "id": "mkt:01a08bc8-a377-7118-852e-cf5a3370cd59",
+      "time": "2026-09-10 22:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed Hamas Nukhba member in Khan Younis】The Israel Defense Forces said on Oct. 10 that on Oct. 7 it struck in Khan Younis, southern Gaza, killing Hamas Nukhba member Ismail Ibrahim Darwish Kandeel. The IDF said Kandeel took part in the Oct. 7 attacks and was directly involved in the operation that resulted in the death of an IDF Nahal Brigade commander."
+    },
+    {
+      "id": "5087861",
+      "time": "2026-09-10 22:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死一名哈馬斯“努赫巴”部隊成員】以色列國防軍當地時間10日發表宣告稱，以軍7日在加沙地帶南部汗尤尼斯實施打擊行動，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“努赫巴”部隊成員伊斯梅爾·易卜拉欣·達爾維什·坎迪爾。以軍稱，坎迪爾曾參與2023年10月7日的襲擊，並直接參與導致以色列國防軍“納哈爾旅”一名指揮官陣亡的行動。哈馬斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5087860",
+      "time": "2026-09-10 22:45:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表在聯合國安理會正式就召開伊朗制裁問題會議提出抗議，並強調莫斯科完全反對召開此次會議審議伊朗制裁問題。"
+    },
+    {
+      "id": "mkt:01a08bc7-b694-7118-852e-c70799447746",
+      "time": "2026-09-10 22:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs raises its Q4 2026 TTF gas price forecast to €70/MWh."
+    },
     {
       "id": "5087859",
       "time": "2026-09-10 22:44:27",
@@ -124347,91 +124429,6 @@
         "其他"
       ],
       "text": "【中國疾控中心：流感活動近期小幅上升 新冠檢測陽性率呈下降趨勢】根據中國疾控中心釋出的第35周全國急性呼吸道傳染病哨點監測情況（詳情），2026年8月24日—8月30日，全國哨點醫院門急診流感樣病例呼吸道樣本檢測陽性率前三位病原體為流感病毒（17.7%）、新型冠狀病毒（15.8%）、鼻病毒（2.8%）。其中，新型冠狀病毒檢測陽性率呈下降趨勢，總體上處於中流行水平，流感活動近期小幅上升，主要為B（Victoria）系和A（H3N2）亞型流感病毒，A(H3N2)亞型佔比上升，南方省份檢測陽性率處於中流行水平波動，北方省份處於流行間期水平，15～59歲病例組檢測陽性率最高。（央視新聞）"
-    },
-    {
-      "id": "5075877",
-      "time": "2026-09-03 22:48:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，颶風“瑪麗”強度略有增強。"
-    },
-    {
-      "id": "5075876",
-      "time": "2026-09-03 22:48:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "PAYPAL股價在從當日低點大幅反彈後轉為上漲。"
-    },
-    {
-      "id": "5075875",
-      "time": "2026-09-03 22:48:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破80000美元，日內漲3.50%。"
-    },
-    {
-      "id": "5075874",
-      "time": "2026-09-03 22:47:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華潤微：矽基及三代半產品已上量併成功匯入主流電源廠商及雲端客戶】華潤微在機構調研紀要中介紹，公司在資料中心電源領域已經形成了完整的產品矩陣，覆蓋DrMOS功率模組、多相控制器、板級POL、矽基及第三代半導體功率器件、驅動及控制晶片等關鍵環節。在供電架構上，已完整佈局從一級供電（PSU/HVDC/SST架構）、二級IBC到三級板級電源的全鏈路方案，可提供“功率器件+驅動+控制+模組”的一體化方式交付方案。當前矽基及三代半產品已實現上量，併成功匯入主流電源廠商及雲端客戶。"
-    },
-    {
-      "id": "5075873",
-      "time": "2026-09-03 22:47:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：與美國的任何貿易協議必須保持穩定性和可信度。"
-    },
-    {
-      "id": "5075872",
-      "time": "2026-09-03 22:46:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華潤微：下半年市場供需仍偏緊 對後續產品定價保持積極態勢】華潤微在機構調研紀要中表示，受在手訂單飽滿、產能供給偏緊影響，公司分別於2月、7月實施兩輪產品調價，其中第二輪調價談判已在7月基本完成，漲幅及覆蓋範圍較第一輪均有明顯提升。由於訂單交付週期影響，報表端體現會有一定滯後性，預計三季度漲價帶來的利好效應將進一步顯現。下半年市場供需預計仍將偏緊，公司在手訂單飽滿，對後續產品定價保持積極態勢。"
-    },
-    {
-      "id": "mkt:01a067bb-f21a-7118-848a-6af80252918b",
-      "time": "2026-09-03 22:46:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Canadian Prime Minister Carney said any trade agreement with the United States must maintain stability and credibility."
-    },
-    {
-      "id": "mkt:01a067bb-ddcf-7118-848a-637213153847",
-      "time": "2026-09-03 22:46:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Hungary's 10-year bond yield continued to fall, down 14 bps intraday."
-    },
-    {
-      "id": "mkt:01a067bb-98d5-7118-848a-5e4063504210",
-      "time": "2026-09-03 22:45:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's prime minister Carney said reaching a trade agreement with the US is possible."
-    },
-    {
-      "id": "5075871",
-      "time": "2026-09-03 22:45:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中央新影集團：從未授權任何人對集團名下一房產進行租賃、招商等】9月1日，中央新聞紀錄電影製片廠（集團）釋出宣告稱，中央新影集團從未授權任何單位或個人對集團名下的位於北京市海淀區北三環中路67號院內4號辦公樓（中視雲投大廈）7-10層進行租賃、招商、經營、合作等業務。 宣告指出，任何單位或個人以該房產可租賃、經營、招商為名義進行的行為均為詐騙行為，涉嫌重大刑事犯罪。"
     }
   ]
 }
