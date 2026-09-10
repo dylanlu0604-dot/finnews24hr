@@ -1,7 +1,34 @@
 {
   "date": "2026-09-11",
-  "count": 595,
+  "count": 598,
   "items": [
+    {
+      "id": "mkt:01a08dbf-080c-7118-8537-17f39cf8c597",
+      "time": "2026-09-11 07:55:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA Grace Blackwell shipments reportedly up 27% MoM】Sept. 11 — NVIDIA’s Grace Blackwell shipments rose 27% month-on-month, sources said, signaling continued strong demand from cloud service providers and AI infrastructure firms for high-end AI compute chips. Grace Blackwell pairs NVIDIA’s Grace CPU with a Blackwell GPU and is used in GB200 NVL72 liquid-cooled rack systems. NVIDIA has previously said Blackwell demand exceeds supply."
+    },
+    {
+      "id": "te:markets:582927",
+      "time": "2026-09-11 07:51:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Stabilize Ahead of CPI Report — US stock futures steadied on Friday after the major averages declined in the previous session, as investors awaited the August consumer price index report. A hotter-than-expected consumer inflation reading could cement expectations that the Federal Reserve will raise interest rates next week, following Thursday’s data showing producer inflation accelerated last month as the Iran war drove up wholesale energy prices. In regular trading on Thursday, the Dow fell 0.61%, while the S&P 500 and Nasdaq Composite declined 0.59% and 0.65%, respectively. All three benchmarks extended their losing streaks to four sessions. Stocks came under pressure from surging oil prices and Treasury yields as inflation concerns intensified. In corporate news, Oracle gained more than 4% in extended trading after reporting better-than-expected quarterly results, while Adobe fell over 2% on weak guidance for the current quarter."
+    },
     {
       "id": "mkt:01a08dbb-5fd5-7118-8537-0a02f213c03e",
       "time": "2026-09-11 07:51:02",
@@ -24,6 +51,15 @@
         "國際"
       ],
       "text": "【特朗普暗示選舉可能限制伊朗局勢升級】美國總統唐納德·特朗普表示，即將到來的選舉可能會影響美國是否“全面”介入伊朗，同時他堅稱對這場衝突沒有遺憾。特朗普還聲稱美國控制著霍爾木茲海峽，並表示美軍在一夜之間摧毀了那裡的22艘船隻。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609113871163883",
+      "time": "2026-09-11 07:50:52",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月生產者價格同比增長7.6%，預估為7.4%。"
     },
     {
       "id": "mkt:01a08dba-fa34-7118-8537-03177032c159",
