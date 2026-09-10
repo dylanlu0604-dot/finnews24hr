@@ -1,7 +1,93 @@
 {
   "date": "2026-09-10",
-  "count": 1327,
+  "count": 1336,
   "items": [
+    {
+      "id": "5086510",
+      "time": "2026-09-10 14:19:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京市智慧財產權局印發《北京市智慧財產權扶持資金管理辦法》。"
+    },
+    {
+      "id": "5086509",
+      "time": "2026-09-10 14:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟境汽車回應媒體群誤發資訊：工作人員操作失誤，並非策劃攻擊、拉踩友商】針對近日的“小米澎程攻防需求”風波，啟境汽車今日釋出宣告稱，是相關工作人員操作失誤，並非策劃攻擊、拉踩友商。啟境汽車在宣告中表示，關注市場、瞭解行業資訊是新品上市前的常規工作，截圖中的“攻防”，是內部對同期產品進行資訊監測、差異梳理和事實核驗的工作用語，並非策劃攻擊、拉踩友商。但這個詞用得不妥，誤發和解散群的處理也不專業。“給大家添麻煩了，跟各位說聲抱歉。我們會認真覆盤，改進管理。”宣告還稱，“該說明的，我們不迴避；該做好的，還是產品。對同行，我們尊重；對競爭，我們用產品回答；對使用者，我們用心把車做好。（新浪科技）"
+    },
+    {
+      "id": "5086508",
+      "time": "2026-09-10 14:18:42",
+      "tags": [
+        "市場",
+        "其他",
+        "國際"
+      ],
+      "text": "歐元/英鎊一個月波動率創歷史新低，至2.80%。"
+    },
+    {
+      "id": "5086507",
+      "time": "2026-09-10 14:18:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：8月多地汽車消費補貼持續升級，車企促銷活動活躍】據中國汽車工業協會分析，8月，多地汽車消費補貼持續升級，車企促銷活動活躍，汽車產銷環比增長、同比小幅下降。其中，國內市場繼續承壓，月度銷量同比降幅連續5個月超過20%；出口保持高速增長，月度出口量連續3個月超過100萬輛，成為穩定行業大盤的關鍵增量；新能源汽車主導地位持續鞏固，月度銷量佔比再創新高。"
+    },
+    {
+      "id": "mkt:01a089f7-2966-7118-851c-7898423c2b2d",
+      "time": "2026-09-10 14:17:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Themes",
+        "The Trump Trade",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Trump $5,000 pledge raises Treasury market jitters ahead of 30-year auction】Trump said he would give $5,000 to every American if Republicans win the midterms, injecting fresh uncertainty into the Treasury market before Thursday’s $22 bln sale of 30‑year debt due 2056. Yields traded in a narrow range after the pledge; Trump provided no details and the proposal is viewed as unlikely to become law. The comments revived concerns about U.S. fiscal discipline and policy unpredictability as 30‑year yields approach levels last seen during the global financial crisis. Earlier Treasury plans to buy up to $6 bln of longer‑dated debt in a single operation had disappointed some investors. Market focus is on Thursday’s 2056 auction and this week’s CPI print."
+    },
+    {
+      "id": "te:economy:582611",
+      "time": "2026-09-10 14:17:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Sweden Industrial Output Recovers in July — Industrial production in Sweden rose by 0.2% year-on-year in July 2026, rebounding from a downwardly revised 0.5% fall in June, which marked the first contraction since March 2025. The recovery was largely driven by higher output in the manufacturing sector, rising 0.6% after showing no growth in the previous month. Production mainly increased for chemical, chemical products and pharmaceutical products (13% vs 3.8%) and basic metals and fabricated metal products (12.4% vs 1.2%), which more than offset declines in the manufacture of coke and refined petroleum products (-16.9% vs -10.7%) and rubber and plastic products (-10.6% vs -3.7%). Meanwhile, mining activity (-9% vs -14.3%) continued to decrease but at a softer pace, as metal ore mines declined less (-8.8% vs -17.6%), while other mines and quarries (10.5% vs -1.8%) rebounded sharply. On a seasonally adjusted monthly basis, industrial output dropped 3.6%, slipping further from an upwardly revised 0.7% fall in June."
+    },
+    {
+      "id": "5086506",
+      "time": "2026-09-10 14:17:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本內閣官房長官木原稔稱內閣不久將進行改組】日本內閣官房長官木原稔在週二的例行新聞釋出會上表示，他預計內閣改組以及執政黨自由民主黨高層人事任命將在近期進行。"
+    },
+    {
+      "id": "5086505",
+      "time": "2026-09-10 14:17:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美銀：維持領展“買入”評級，估值吸引並有潛在催化劑】美銀證券發表研報稱，領展公佈6月底止首財季更新後，該行認為其逐步穩定化的論點仍然成立，但快速扭轉局面的機會不大。正面方面，香港零售實時租金環比繼續企穩，內地零售續租租金同比升2.7%。管理層預期香港零售租金調整在9月底止2027財年上半年仍維持中個位數負增長，但因明年3月底止下半財年比較基數較高，仍維持全年度高個位數跌幅目標。假設利率無重大上升，該行預測上半財年及2027財年每基金單位分派同比跌2%。該行認為領展估值吸引並有潛在催化劑，維持“買入”評級及目標價46港元，因2027財年預測股息率6.4%仍具吸引力，並獲香港基本面企穩、非核心資產出售及回購單位支援。"
+    },
+    {
+      "id": "5086504",
+      "time": "2026-09-10 14:16:26",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "港股應用軟體股持續大幅下挫，群核科技(00068.HK)、智譜(02513.HK)、雲知聲(09678.HK)均跌超10%，MiniMax(00100.HK)跌超9%，邁富時(02556.HK)、金蝶國際(00268.HK)等跌5%。"
+    },
     {
       "id": "mkt:01a089f5-da22-7118-851c-7384bb88caea",
       "time": "2026-09-10 14:16:25",
