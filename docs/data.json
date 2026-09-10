@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-10 22:12:57",
-  "count": 13620,
+  "updated": "2026-09-10 22:17:04",
+  "count": 13617,
   "items": [
+    {
+      "id": "5087823",
+      "time": "2026-09-10 22:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員已完全定價歐洲央行在 2027 年年中前再加息三次。"
+    },
+    {
+      "id": "mkt:01a08baa-a8f7-7118-852e-329526bd06e0",
+      "time": "2026-09-10 22:13:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "REUTERS SURVEY: 55% of bond strategists expect the US 10-year Treasury yield may reach 5% within three months."
+    },
+    {
+      "id": "5087822",
+      "time": "2026-09-10 22:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰・圖恩被問及參議院是否有足夠票數透過5000美元補貼支票法案：事到臨頭再想辦法。"
+    },
+    {
+      "id": "mkt:01a08baa-4569-7118-852e-28a6bdca646e",
+      "time": "2026-09-10 22:13:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "REUTERS SURVEY: U.S. 2-year Treasury yield is expected to fall to 4.20% in three months, 4.12% in six months and 4.00% in one year; August survey projections were 4.07%, 3.92% and 3.80%."
+    },
+    {
+      "id": "mkt:01a08ba9-eba3-7118-852e-275553483f39",
+      "time": "2026-09-10 22:12:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: US 10-year Treasury yield is forecast at 4.67% in three months, 4.65% in six months and 4.55% in one year, versus August survey projections of 4.50%, 4.50% and 4.34% respectively."
+    },
+    {
+      "id": "mkt:01a08ba9-9d6d-7118-852e-1cc35f6f3ade",
+      "time": "2026-09-10 22:12:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadas reports the UN Security Council convened a meeting to discuss sanctions on Iran."
+    },
     {
       "id": "te:economy:582850",
       "time": "2026-09-10 22:11:16",
@@ -124312,83 +124386,6 @@
         "國際"
       ],
       "text": "【“白宮施壓SpaceX等美太空企業：別去法國，中方也在”】當地時間9月2日，美國“政客新聞網”援引三名知情人士的訊息稱，白宮正向包括馬斯克旗下SpaceX在內的諸多美國太空企業施壓，要求它們拒絕法國總統馬克龍的邀請，自願放棄參加下週在巴黎舉行的太空峰會。這些訊息人士還說，白宮官員在電話中抱怨法國在籌備此次峰會時“未與美國進行協調”，並指責法方存在“反競爭行為”；此外，白宮還暗示峰會的專家小組討論沒有納入美方觀點，可能會削弱美國行業相關努力。還有人士透露，美方對中方出席峰會也表達了“擔憂”。儘管白宮官員強調，是否出席最終由各公司自行決定，但知情人士認為，政府似乎在勸阻企業參會。報道指出，白宮這一突如其來的施壓舉動，令多位企業高管深感困惑和不知所措。（觀察者網）"
-    },
-    {
-      "id": "te:economy:581007",
-      "time": "2026-09-03 22:17:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Retreats — South Africa’s 10-year government bond yield eased to around 8.75%, pulling back from recent one-month highs above 8.80%, in line with a broader decline in bond yields across major markets. The move came as investors became more optimistic that the US Federal Reserve could take a less aggressive approach to monetary policy, following dovish remarks from Fed officials that reduced expectations of a September rate hike. Meanwhile, US President Trump’s comments eased fears of a prolonged conflict in the Middle East, while reviving hopes for talks to help restore energy supplies from the region. In South Africa, inflationary pressures are building again as further fuel price increases took effect this month. The higher costs could feed into transport and other prices, complicating the inflation outlook. Annual inflation had fallen to 4.3% in July from 5.0% in June, mainly as fuel price growth slowed, leaving the SARB to weigh inflation risks against economic support."
-    },
-    {
-      "id": "5075837",
-      "time": "2026-09-03 22:16:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Quantinuum與沙特阿美簽署的諒解備忘錄旨在應對能源行業各類挑戰。"
-    },
-    {
-      "id": "5075835",
-      "time": "2026-09-03 22:16:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Quantinuum與沙特阿美簽署非約束性諒解備忘錄。"
-    },
-    {
-      "id": "5075834",
-      "time": "2026-09-03 22:15:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛爾蘭總理馬丁：愛爾蘭希望維持與美國的貿易協定。"
-    },
-    {
-      "id": "5075833",
-      "time": "2026-09-03 22:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部等十部門公佈《促進中小企業發展“十五五”規劃》】工業和資訊化部等十部門3日公佈《促進中小企業發展“十五五”規劃》。規劃提出，到2030年，我國中小企業整體發展量質齊升，專精特新“小巨人”企業達到2.2萬家，國家級中小企業特色產業叢集達到600個，中小企業多元化融資渠道進一步拓寬。中小企業是推動創新、促進就業、改善民生的重要力量。當前，中小企業發展戰略機遇和風險挑戰並存。規劃旨在健全優企培育、公共服務、法律政策體系，強化生產要素、發展環境保障，充分激發中小企業創新創業創造活力和潛力，促進中小企業專精特新發展。（新華社）"
-    },
-    {
-      "id": "5075832",
-      "time": "2026-09-03 22:15:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破79000美元，日內漲2.15%。"
-    },
-    {
-      "id": "5075831",
-      "time": "2026-09-03 22:14:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲鯨釋出掃地機器人、洗地機等多品類產品矩陣，已進入全球30多個國家和地區】9月3日晚間訊息，IFA 2026期間，雲鯨在德國柏林舉辦2026秋季全球品牌釋出會。釋出會上，雲鯨智慧創始人兼CEO張峻彬發表主題演講“Innovation for a Clean Home”，分享雲鯨十年來的產品理念、技術突破與以使用者為中心的創新思考，並展望具身智慧與智慧清潔技術的未來發展方向。此外，雲鯨還展示了新一代洗地機S3 Steam，在延續雲鯨熱活水清潔技術的基礎上，將蒸汽與熱水兩種高溫清潔方式融合，實現對地面頑固汙漬的深層清潔；針對使用者對於灰塵、蟎蟲等深度清潔的需求，雲鯨帶來了吸塵器V50、除蟎儀U50 Cube等產品，憑藉輕量化設計、自動集塵以及多場景清潔能力，使用者可以輕鬆完成從地面到傢俱、床品的深層清潔。十年間，雲鯨已進入全球30多個國家和地區，服務超過600萬使用者。（新浪科技）"
-    },
-    {
-      "id": "5075830",
-      "time": "2026-09-03 22:14:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府加大力度推動從加利福尼亞開採更多石油。"
-    },
-    {
-      "id": "5075829",
-      "time": "2026-09-03 22:13:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金煤化工：向特定物件發行股票申請獲證監會同意註冊】金煤化工公告稱，公司近日收到中國證監會出具的《關於同意內蒙古金煤化工科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送上海證券交易所的申報檔案和發行方案實施，批覆自同意註冊之日起12個月內有效。自同意註冊之日起至本次發行結束前，公司如發生重大事項，應及時報告上海證券交易所並按有關規定處理。公司董事會將在規定期限內辦理本次發行相關事項。"
     }
   ]
 }

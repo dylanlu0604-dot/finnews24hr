@@ -1,7 +1,81 @@
 {
   "date": "2026-09-10",
-  "count": 2405,
+  "count": 2411,
   "items": [
+    {
+      "id": "5087823",
+      "time": "2026-09-10 22:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員已完全定價歐洲央行在 2027 年年中前再加息三次。"
+    },
+    {
+      "id": "mkt:01a08baa-a8f7-7118-852e-329526bd06e0",
+      "time": "2026-09-10 22:13:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "REUTERS SURVEY: 55% of bond strategists expect the US 10-year Treasury yield may reach 5% within three months."
+    },
+    {
+      "id": "5087822",
+      "time": "2026-09-10 22:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰・圖恩被問及參議院是否有足夠票數透過5000美元補貼支票法案：事到臨頭再想辦法。"
+    },
+    {
+      "id": "mkt:01a08baa-4569-7118-852e-28a6bdca646e",
+      "time": "2026-09-10 22:13:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "REUTERS SURVEY: U.S. 2-year Treasury yield is expected to fall to 4.20% in three months, 4.12% in six months and 4.00% in one year; August survey projections were 4.07%, 3.92% and 3.80%."
+    },
+    {
+      "id": "mkt:01a08ba9-eba3-7118-852e-275553483f39",
+      "time": "2026-09-10 22:12:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: US 10-year Treasury yield is forecast at 4.67% in three months, 4.65% in six months and 4.55% in one year, versus August survey projections of 4.50%, 4.50% and 4.34% respectively."
+    },
+    {
+      "id": "mkt:01a08ba9-9d6d-7118-852e-1cc35f6f3ade",
+      "time": "2026-09-10 22:12:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadas reports the UN Security Council convened a meeting to discuss sanctions on Iran."
+    },
     {
       "id": "te:economy:582850",
       "time": "2026-09-10 22:11:16",
