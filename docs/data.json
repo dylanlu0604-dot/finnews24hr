@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-11 04:30:53",
+  "updated": "2026-09-11 04:34:47",
   "count": 13632,
   "items": [
+    {
+      "id": "mkt:01a08d05-430a-7118-8535-5742d91b0931",
+      "time": "2026-09-11 04:32:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures surged 7.00% intraday to $103.44/bbl."
+    },
+    {
+      "id": "mkt:01a08d04-396f-7118-8535-4d6fa0651248",
+      "time": "2026-09-11 04:30:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Foreign official net change in U.S. Treasury holdings for the week to Sept. 4: -$11.146bn; prior week -$14.005bn."
+    },
+    {
+      "id": "5088234",
+      "time": "2026-09-11 04:30:55",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月4日當週外國央行持有美國國債 -111.46億美元，前值-140.05億美元。"
+    },
+    {
+      "id": "mkt:01a08d04-00cb-7118-8535-42fdf7742687",
+      "time": "2026-09-11 04:30:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.4) | actual -11146000000B | previous -14005000000.000002B"
+    },
+    {
+      "id": "5088233",
+      "time": "2026-09-11 04:30:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "新興市場外匯指數因美聯儲加息預期，出現 7 月以來最大單日跌幅。"
+    },
     {
       "id": "mkt:01a08d03-990d-7118-8535-3f02528192ee",
       "time": "2026-09-11 04:30:18",
@@ -124537,54 +124593,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 1.14% Higher — The Dow Jones Index went up by 604 points or 1.14 percent on Thursday to close at 53666 points. The rise was led by Goldman Sachs (3.40%), Salesforce (2.92%) and Microsoft (2.61%)."
-    },
-    {
-      "id": "5076246",
-      "time": "2026-09-04 04:31:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會提議廢除 “付費遊說” 規則。"
-    },
-    {
-      "id": "5076245",
-      "time": "2026-09-04 04:31:28",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至8月28日當週外國央行持有美國國債 -140.05億美元，前值290.75億美元。"
-    },
-    {
-      "id": "mkt:01a068f8-0e2f-7118-8490-d0b71a50cd0f",
-      "time": "2026-09-04 04:31:22",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Foreign central banks' holdings of U.S. Treasuries fell $14.005 bln in the week to Aug. 28, compared with a $29.075 bln increase in the prior week."
-    },
-    {
-      "id": "5076244",
-      "time": "2026-09-04 04:31:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會宣佈，擬撤銷針對投資顧問的政治捐款相關規則。"
-    },
-    {
-      "id": "mkt:01a068f7-ddab-7118-8490-cb8090804f13",
-      "time": "2026-09-04 04:31:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Aug.28) | actual -14005000000.000002B | previous 29075000000B"
     }
   ]
 }

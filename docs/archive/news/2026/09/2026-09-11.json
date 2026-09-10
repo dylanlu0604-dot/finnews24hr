@@ -1,7 +1,63 @@
 {
   "date": "2026-09-11",
-  "count": 396,
+  "count": 401,
   "items": [
+    {
+      "id": "mkt:01a08d05-430a-7118-8535-5742d91b0931",
+      "time": "2026-09-11 04:32:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures surged 7.00% intraday to $103.44/bbl."
+    },
+    {
+      "id": "mkt:01a08d04-396f-7118-8535-4d6fa0651248",
+      "time": "2026-09-11 04:30:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Foreign official net change in U.S. Treasury holdings for the week to Sept. 4: -$11.146bn; prior week -$14.005bn."
+    },
+    {
+      "id": "5088234",
+      "time": "2026-09-11 04:30:55",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月4日當週外國央行持有美國國債 -111.46億美元，前值-140.05億美元。"
+    },
+    {
+      "id": "mkt:01a08d04-00cb-7118-8535-42fdf7742687",
+      "time": "2026-09-11 04:30:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.4) | actual -11146000000B | previous -14005000000.000002B"
+    },
+    {
+      "id": "5088233",
+      "time": "2026-09-11 04:30:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "新興市場外匯指數因美聯儲加息預期，出現 7 月以來最大單日跌幅。"
+    },
     {
       "id": "mkt:01a08d03-990d-7118-8535-3f02528192ee",
       "time": "2026-09-11 04:30:18",
