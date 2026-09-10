@@ -1,7 +1,61 @@
 {
   "date": "2026-09-11",
-  "count": 235,
+  "count": 241,
   "items": [
+    {
+      "id": "5088103",
+      "time": "2026-09-11 02:21:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指擴大跌幅，下跌超過1%。"
+    },
+    {
+      "id": "mkt:01a08c8d-5a30-7118-8533-4667179ff5d1",
+      "time": "2026-09-11 02:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index extended losses, falling more than 1%."
+    },
+    {
+      "id": "te:markets:582896",
+      "time": "2026-09-11 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Plunges by 6.69% — Top commodity losers are Platinum (-6.69%), Copper (-5.49%), Silver (-5.05%) and Gold (-1.27%)."
+    },
+    {
+      "id": "5088102",
+      "time": "2026-09-11 02:18:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAICodex產品負責人Tibo：OpenAI為了確保現有使用者能夠獲得出色的體驗，並繼續使用Astra，我們將暫停訂閱每月200美元的Pro計劃。該計劃對我們的系統造成的壓力最大，因此我們希望採取最小幅度的調整，以便繼續為儘可能多的使用者提供訪問許可權。其他所有套餐以及API服務仍可正常使用。現有賬戶不會受到任何影響，我們正在儘快增加更多容量。感謝大家的支援！"
+    },
+    {
+      "id": "5088101",
+      "time": "2026-09-11 02:17:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗萊爾航空與漢莎技術簽署一份15年期發動機協議。"
+    },
+    {
+      "id": "mkt:01a08c8a-190a-7118-8533-3a91d8387f8b",
+      "time": "2026-09-11 02:17:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canadian Prime Minister Carney said he has spoken several times with U.S. President Trump in recent days."
+    },
     {
       "id": "mkt:01a08c89-2f29-7118-8533-37b695e82c9b",
       "time": "2026-09-11 02:16:35",

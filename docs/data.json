@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-11 02:17:48",
-  "count": 13677,
+  "updated": "2026-09-11 02:22:04",
+  "count": 13673,
   "items": [
+    {
+      "id": "5088103",
+      "time": "2026-09-11 02:21:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指擴大跌幅，下跌超過1%。"
+    },
+    {
+      "id": "mkt:01a08c8d-5a30-7118-8533-4667179ff5d1",
+      "time": "2026-09-11 02:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index extended losses, falling more than 1%."
+    },
+    {
+      "id": "te:markets:582896",
+      "time": "2026-09-11 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Plunges by 6.69% — Top commodity losers are Platinum (-6.69%), Copper (-5.49%), Silver (-5.05%) and Gold (-1.27%)."
+    },
+    {
+      "id": "5088102",
+      "time": "2026-09-11 02:18:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAICodex產品負責人Tibo：OpenAI為了確保現有使用者能夠獲得出色的體驗，並繼續使用Astra，我們將暫停訂閱每月200美元的Pro計劃。該計劃對我們的系統造成的壓力最大，因此我們希望採取最小幅度的調整，以便繼續為儘可能多的使用者提供訪問許可權。其他所有套餐以及API服務仍可正常使用。現有賬戶不會受到任何影響，我們正在儘快增加更多容量。感謝大家的支援！"
+    },
+    {
+      "id": "5088101",
+      "time": "2026-09-11 02:17:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗萊爾航空與漢莎技術簽署一份15年期發動機協議。"
+    },
+    {
+      "id": "mkt:01a08c8a-190a-7118-8533-3a91d8387f8b",
+      "time": "2026-09-11 02:17:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canadian Prime Minister Carney said he has spoken several times with U.S. President Trump in recent days."
+    },
     {
       "id": "mkt:01a08c89-2f29-7118-8533-37b695e82c9b",
       "time": "2026-09-11 02:16:35",
@@ -124796,112 +124850,6 @@
         "國際"
       ],
       "text": "特朗普稱每晚有30至40艘船隻透過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:01a06881-95be-7118-848e-f22215549cce",
-      "time": "2026-09-04 02:21:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. Vice President Vance said the administration believes the Federal Reserve should lower interest rates."
-    },
-    {
-      "id": "5076038",
-      "time": "2026-09-04 02:21:53",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "萬斯：我們認為美聯儲應該降低利率。"
-    },
-    {
-      "id": "5076037",
-      "time": "2026-09-04 02:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：不會為結束對伊朗相關戰事設定 “人為” 時間節點。"
-    },
-    {
-      "id": "mkt:01a06880-e380-7118-848e-ea552185b270",
-      "time": "2026-09-04 02:21:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said if Iran continues firing on vessels, only the United States has the ability to ensure they do not disrupt global energy markets."
-    },
-    {
-      "id": "5076036",
-      "time": "2026-09-04 02:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：我不會把這稱為與伊朗的戰爭。與伊朗的主要戰鬥行動持續了6周。"
-    },
-    {
-      "id": "te:markets:581045",
-      "time": "2026-09-04 02:20:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 4.05% — Top commodity gainers are Platinum (4.05%), Silver (2.62%) and Gold (2.25%)."
-    },
-    {
-      "id": "5076035",
-      "time": "2026-09-04 02:19:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：對於 “宣告戰爭結束” 這個說法，我想稍作糾正，因為大規模作戰行動目前並未開展，而且已經結束很久了。事實上，就在幾天前，我們採取行動提升了伊朗襲擊商船的難度，以此保障石油和天然氣能夠流向全球能源市場。我們手上依舊掌握大量手段，我們要做的就是維持全球能源市場的基本平衡。"
-    },
-    {
-      "id": "mkt:01a0687f-63d4-7118-848e-e774161d3200",
-      "time": "2026-09-04 02:19:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said major combat operations involving Iran lasted six weeks."
-    },
-    {
-      "id": "mkt:01a0687f-27bb-7118-848e-dbbc4d1ec353",
-      "time": "2026-09-04 02:19:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. Vice President Vance said he would not call this a war with Iran."
-    },
-    {
-      "id": "mkt:01a0687e-4a82-7118-848e-d2aef0e86e4b",
-      "time": "2026-09-04 02:18:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio to visit Colombia next week."
     }
   ]
 }
