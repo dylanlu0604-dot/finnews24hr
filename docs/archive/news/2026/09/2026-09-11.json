@@ -1,7 +1,26 @@
 {
   "date": "2026-09-11",
-  "count": 500,
+  "count": 502,
   "items": [
+    {
+      "id": "5088331",
+      "time": "2026-09-11 06:57:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【險資年內調研A股公司超萬次，重點關注電子元件、工業機械、積體電路等硬科技領域個股】Wind資料顯示，今年以來，保險機構（保險公司和保險資管公司）合計調研A股上市公司10185次。從標的來看，險資主要關注電子元件、工業機械、積體電路等硬科技領域的個股。受訪專家表示，硬科技領域符合國家戰略導向、產業發展空間廣闊、具備較大增長潛力、投資受監管鼓勵，因此險資更有動力加大相關領域配置。（證券日報）"
+    },
+    {
+      "id": "mkt:01a08d88-245d-7118-8536-5ef6da8aef20",
+      "time": "2026-09-11 06:55:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "7201.T"
+      ],
+      "text": "【Nissan reorganizes Japan production, maintains 1.0 mln domestic capacity】Nikkei reports Nissan will close one plant and reallocate output across remaining factories to keep Japanese production capacity at about 1.0 mln vehicles. Van production from two Fukuoka plants will be shifted to the Tochigi plant over the next 2–3 years. Nissan’s Oppama plant in Kanagawa is scheduled to cease operations at the end of fiscal 2027. The move is part of a global plan to close and restructure seven assembly plants. After Oppama shuts, Nissan’s direct Japan capacity will drop to roughly 800k; including vehicles produced for Nissan by Mitsubishi under contract, domestic capacity will remain near 1.0 mln."
+    },
     {
       "id": "5088330",
       "time": "2026-09-11 06:52:40",
