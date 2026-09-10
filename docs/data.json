@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-11 02:22:04",
-  "count": 13673,
+  "updated": "2026-09-11 02:26:07",
+  "count": 13669,
   "items": [
+    {
+      "id": "te:markets:582897",
+      "time": "2026-09-11 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Rises by 1.96% — Top commodity gainers are Sugar (1.96%), Oat (1.77%) and Wheat (1.63%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.72%)."
+    },
+    {
+      "id": "5088105",
+      "time": "2026-09-11 02:23:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥所有地區第二季度總體通脹均有所放緩。"
+    },
+    {
+      "id": "mkt:01a08c8f-46e6-7118-8533-4d8c0d5e5d02",
+      "time": "2026-09-11 02:23:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Cochilco data showed Chilean state-owned Codelco's July copper output fell 4.8% YoY to 112,800 tonnes."
+    },
+    {
+      "id": "5088104",
+      "time": "2026-09-11 02:22:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利銅業委員會（Cochilco）：7月份智利國家銅業公司（Codelco）銅產量同比下降4.8%，至11.28萬噸。"
+    },
     {
       "id": "5088103",
       "time": "2026-09-11 02:21:12",
@@ -124776,80 +124816,6 @@
         "國際"
       ],
       "text": "萬斯談伊朗發動的網路攻擊企圖：對本土安全充滿信心。"
-    },
-    {
-      "id": "5076041",
-      "time": "2026-09-04 02:25:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我只希望烏克蘭的戰爭結束。"
-    },
-    {
-      "id": "te:markets:581046",
-      "time": "2026-09-04 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Surges by 5.51% — Top commodity gainers are Palm Oil (5.51%) and Wool (2%). Biggest losers are Sugar (-3.80%), Wheat (-2.91%) and Cotton (-2.79%)."
-    },
-    {
-      "id": "mkt:01a06884-8acc-7118-848f-1010c7b431e8",
-      "time": "2026-09-04 02:25:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he only wants the war in Ukraine to end."
-    },
-    {
-      "id": "mkt:01a06883-c988-7118-848f-0f2e74d5386e",
-      "time": "2026-09-04 02:24:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Vice President Vance said a Fed rate cut would be appropriate and responsible."
-    },
-    {
-      "id": "5076040",
-      "time": "2026-09-04 02:23:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我在伊朗問題上的做法是正確的。"
-    },
-    {
-      "id": "mkt:01a06882-9254-7118-848f-007e4054b8d3",
-      "time": "2026-09-04 02:23:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said 30-40 vessels transit the Strait of Hormuz each night."
-    },
-    {
-      "id": "mkt:01a06882-3692-7118-848e-fbd57e043899",
-      "time": "2026-09-04 02:22:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he made the right decision on Iran."
-    },
-    {
-      "id": "5076039",
-      "time": "2026-09-04 02:22:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱每晚有30至40艘船隻透過霍爾木茲海峽。"
     }
   ]
 }

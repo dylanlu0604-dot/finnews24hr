@@ -1,7 +1,47 @@
 {
   "date": "2026-09-11",
-  "count": 241,
+  "count": 245,
   "items": [
+    {
+      "id": "te:markets:582897",
+      "time": "2026-09-11 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Rises by 1.96% — Top commodity gainers are Sugar (1.96%), Oat (1.77%) and Wheat (1.63%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.72%)."
+    },
+    {
+      "id": "5088105",
+      "time": "2026-09-11 02:23:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：墨西哥所有地區第二季度總體通脹均有所放緩。"
+    },
+    {
+      "id": "mkt:01a08c8f-46e6-7118-8533-4d8c0d5e5d02",
+      "time": "2026-09-11 02:23:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Cochilco data showed Chilean state-owned Codelco's July copper output fell 4.8% YoY to 112,800 tonnes."
+    },
+    {
+      "id": "5088104",
+      "time": "2026-09-11 02:22:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利銅業委員會（Cochilco）：7月份智利國家銅業公司（Codelco）銅產量同比下降4.8%，至11.28萬噸。"
+    },
     {
       "id": "5088103",
       "time": "2026-09-11 02:21:12",
