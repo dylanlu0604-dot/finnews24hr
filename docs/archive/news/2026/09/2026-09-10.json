@@ -1,7 +1,101 @@
 {
   "date": "2026-09-10",
-  "count": 1239,
+  "count": 1249,
   "items": [
+    {
+      "id": "mkt:01a089e3-1db2-7118-851b-9e7e2619e532",
+      "time": "2026-09-10 13:55:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BOJ policy board member Masu said major central banks are now moving interest rates in the same direction, making it easier for the BOJ to raise rates than before."
+    },
+    {
+      "id": "mkt:01a089e3-0cf9-7118-851b-91d16262a322",
+      "time": "2026-09-10 13:55:53",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Masu declined to comment on U.S. Treasury Secretary Bessent's remarks about the Bank of Japan, saying only that as the country's central bank it will make appropriate decisions."
+    },
+    {
+      "id": "5086461",
+      "time": "2026-09-10 13:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署（IEA）：由於中東衝突，預計2026年全球煤炭需求將增長1.2%，達到創紀錄的89.4億噸。"
+    },
+    {
+      "id": "mkt:01a089e2-d657-7118-851b-8f7c3d7040b8",
+      "time": "2026-09-10 13:55:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IEA says Middle East conflict lifts 2026 global coal demand 1.2% YoY to a record 8.94 bln tonnes."
+    },
+    {
+      "id": "mkt:01a089e2-d0e4-7118-851b-825c7afe57f4",
+      "time": "2026-09-10 13:55:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group CEO Han Xinyi: AI-agent supply and demand not yet a virtuous cycle; will launch developer incentive policy】At the 2026 Bund Conference main forum, Ant Group CEO Han Xinyi said merchants’ demand for AI-era growth is strong. Many merchants want to join an AI-agent economy but are still exploring how to convert their services into agent-callable capabilities, and supply and demand have not yet formed a virtuous cycle. He said Alipay's \"Abao\" will introduce a developer incentive policy to support creation of usable, high-quality agents and to provide incentive channels for users to express new demand."
+    },
+    {
+      "id": "5086460",
+      "time": "2026-09-10 13:55:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "增一行：目前主要央行在利率問題上已全部達成方向一致，這讓我們加息比此前更容易。"
+    },
+    {
+      "id": "5086459",
+      "time": "2026-09-10 13:55:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行官員增一行拒絕就貝森特近期的言論置評。"
+    },
+    {
+      "id": "5086458",
+      "time": "2026-09-10 13:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團CEO韓歆毅：智慧體供需兩端尚未形成正迴圈 將推出開發者激勵政策】2026Inclusion·外灘大會主論壇期間，螞蟻集團CEO韓歆毅表示，過去半年與商家的交流中，感受到商家側對AI時代新增長機會的需求非常強烈。許多商家希望參與智慧體經濟，但仍在探索如何把自身服務轉化為可被智慧體呼叫和完成的能力，目前整個智慧體供需兩端尚未形成正迴圈。韓歆毅透露，支付寶“阿寶”將推出釋出智慧體激勵政策，支援開發者開發可用、好用的智慧體，同時為使用者表達新需求提供對應的激勵入口，透過這種方式，把使用者真實需求與開發者、商家服務供給連線起來。"
+    },
+    {
+      "id": "5086457",
+      "time": "2026-09-10 13:53:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡達能源、殼牌與安哥拉國家石油公司就安哥拉油田區塊簽署協議】9月10日，卡達能源公司在一份宣告中表示，該公司與殼牌、安哥拉國家石油公司（Sonangol E&P）以及安哥拉國家石油、天然氣和生物燃料局（ANPG）就該國近海的8號和22號區塊簽署了一項協議。根據協議，卡達能源公司將持有30%的工作權益，殼牌將持有50%的工作權益，安哥拉國家石油公司將持有20%的工作權益。"
+    },
+    {
+      "id": "5086456",
+      "time": "2026-09-10 13:53:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新石器、黃石國資等成立智行路安技術公司】企查查APP顯示，近日，黃石市智行路安技術有限公司成立，法定代表人為趙樹廉，註冊資本為1000萬元，經營範圍包含：5G通訊技術服務；物聯網技術服務；人工智慧行業應用系統整合服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由北京智行者科技股份有限公司、新石器慧通科技股份有限公司全資子公司新石器慧研（深圳）科技有限公司、黃石市國投數字產業集團有限公司等共同持股。"
+    },
     {
       "id": "5086455",
       "time": "2026-09-10 13:51:27",
