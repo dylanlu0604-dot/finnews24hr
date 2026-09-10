@@ -1,7 +1,197 @@
 {
   "date": "2026-09-10",
-  "count": 698,
+  "count": 717,
   "items": [
+    {
+      "id": "mkt:01a088e9-27b6-7118-8514-fb268e258b2c",
+      "time": "2026-09-10 09:22:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AI-driven bond flow spills into Europe; US firms' euro funding nears record】As of Sept. 9, US corporates and financials have issued €149bn of bonds in European currencies this year, the second-highest on record; not all issuance is tech- or AI-related. Amazon launched its first sterling bond, raising £4.25bn across four tranches with an orderbook of £10.65bn. Uber has filed with the SEC for a five-tranche euro bond. ECB data show US big-tech firms have about €40bn of outstanding euro debt, roughly 10% of euro-area non-financial corporate new issuance YTD. AI-driven funding demand has not eased global credit supply pressure but is shifting competition from the crowded dollar market into euro, sterling and Swiss franc markets."
+    },
+    {
+      "id": "5086090",
+      "time": "2026-09-10 09:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在共和黨全國代表大會上發表主旨演講。"
+    },
+    {
+      "id": "5086089",
+      "time": "2026-09-10 09:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：就當我的名字出現在今年11月的選票上吧。"
+    },
+    {
+      "id": "5086088",
+      "time": "2026-09-10 09:22:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲4%，現報8767.00元。"
+    },
+    {
+      "id": "mkt:01a088e8-9b67-7118-8514-f6a00b520afc",
+      "time": "2026-09-10 09:22:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets 30 billion yuan via 7-day reverse repo】The PBOC conducted a 7-day reverse repo of 30 billion yuan; with no reverse repo maturities today, the operation represented a net injection of 30 billion yuan into money markets."
+    },
+    {
+      "id": "5086087",
+      "time": "2026-09-10 09:22:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至279.90點。"
+    },
+    {
+      "id": "5086086",
+      "time": "2026-09-10 09:21:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放30.0億元人民幣。"
+    },
+    {
+      "id": "5086085",
+      "time": "2026-09-10 09:21:35",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌1.15％，國企指數跌1.19％，科指跌1.39%。"
+    },
+    {
+      "id": "mkt:01a088e7-e7a1-7118-8514-eac957150710",
+      "time": "2026-09-10 09:21:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Democrats are implementing Biden-era left-wing policies."
+    },
+    {
+      "id": "5086083",
+      "time": "2026-09-10 09:21:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲4%，現報9089.00元。"
+    },
+    {
+      "id": "mkt:01a088e7-c125-7118-8514-e00aaa218a40",
+      "time": "2026-09-10 09:21:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong equities opened lower on Sept 10: the Hang Seng Index (HSI) fell 289.78 points (-1.15%) to 24,985.18; the Hang Seng Tech Index fell 61.38 points (-1.39%) to 4,359.41; the Hang Seng China Enterprises Index (HSCEI) fell 99.56 points (-1.19%) to 8,269.49; the Hang Seng Red Chip Index fell 36.28 points (-0.85%) to 4,227.13."
+    },
+    {
+      "id": "mkt:01a088e7-8b7f-7118-8514-df4872d2bf1d",
+      "time": "2026-09-10 09:21:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09866.HK",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: Hang Seng Index down 1.15% and Hang Seng Tech Index down 1.39% at the open. NIO (09866.HK) dropped more than 4%; Alibaba (09988.HK), Zijin Mining (02899.HK), Weichai Power (02338.HK) and Trip.com Group (09961.HK) were each down around 2%."
+    },
+    {
+      "id": "mkt:01a088e7-7034-7118-8514-d56ba25832d9",
+      "time": "2026-09-10 09:21:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the past two years were the strongest period of presidential leadership in U.S. history."
+    },
+    {
+      "id": "5086082",
+      "time": "2026-09-10 09:20:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展30億元7天逆回購操作，投標量30億元，中標量30億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a088e7-27a4-7118-8514-cbcf43b67848",
+      "time": "2026-09-10 09:20:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY30 bln 7-day reverse repo today: bids CNY30 bln, allotment CNY30 bln; rate 1.40%, unchanged from the prior operation."
+    },
+    {
+      "id": "5086081",
+      "time": "2026-09-10 09:20:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升5個基點至3.75%。"
+    },
+    {
+      "id": "mkt:01a088e6-4da1-7118-8514-c018db37eae6",
+      "time": "2026-09-10 09:19:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Sources: NVIDIA weighing 8-layer HBM for Rubin Ultra】Industry sources say NVIDIA is considering reducing the high-bandwidth memory (HBM) stack on its next-generation Rubin Ultra AI accelerator from a planned 12 layers to eight. With rising memory costs, NVIDIA is prioritizing bandwidth-per-dollar and overall system economics."
+    },
+    {
+      "id": "te:markets:582538",
+      "time": "2026-09-10 09:19:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Slump Amid U.S.–Iran tensions, Hawkish RBA — Australian stocks plunged 150 points or 1.7% to 8,761 in early Thursday trade, marking one of the sharpest single-day drops in recent weeks and extending losses for a third session. Markets lingered at their lowest in six weeks, with sentiment hit hard by the third straight drop on Wall Street overnight as mounting U.S.–Iran tensions pushed Brent crude above USD100/bbl, stoking inflation fears. Meantime, U.S. Treasury yields climbed ahead of key CPI data. Locally, rate concerns deepened after Deputy Gov. Andrew Hauser said the RBA will debate further tightening at its September meeting, citing persistent inflation risks, and Assistant Governor Sarah Hunter warned of limited tolerance for stronger price pressures. All sectors fell, led by healthcare, non-energy minerals, retail, and logistics. The four big banks fell between 1.4% and 1.8%, while BHP Group slid 3.2%. Other notable laggards included PLS Group (-3.6%), Lynas Rare Earths (-3.0%), Nextdc (-2.9%), and Regis Resources (-2.3%)."
+    },
+    {
+      "id": "5086080",
+      "time": "2026-09-10 09:19:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【訊息稱英偉達Rubin Ultra晶片擬改用8層HBM】據業界訊息，英偉達正考慮將下一代Rubin Ultra人工智慧加速器的高頻寬記憶體（HBM）方案，從此前的12層堆疊調整為8層。在儲存成本不斷上漲的背景下，英偉達更加重視單位頻寬成本以及整機系統的經濟性。"
+    },
     {
       "id": "5086079",
       "time": "2026-09-10 09:18:51",
