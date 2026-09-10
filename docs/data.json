@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-11 02:05:49",
-  "count": 13668,
+  "updated": "2026-09-11 02:09:49",
+  "count": 13671,
   "items": [
+    {
+      "id": "5088091",
+      "time": "2026-09-11 02:09:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報63.79美元/盎司。"
+    },
+    {
+      "id": "mkt:01a08c82-5b00-7118-8533-02c4b8332d11",
+      "time": "2026-09-11 02:09:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury yield reached its highest level since October 2023."
+    },
+    {
+      "id": "5088090",
+      "time": "2026-09-11 02:09:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報15603.00元。"
+    },
+    {
+      "id": "5088089",
+      "time": "2026-09-11 02:08:36",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率觸及2023年10月以來最高水平。"
+    },
+    {
+      "id": "5088088",
+      "time": "2026-09-11 02:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 密蘇里州將不會在 11 月 3 日中期選舉中使用共和黨支援的選區劃分方案。"
+    },
+    {
+      "id": "5088087",
+      "time": "2026-09-11 02:06:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率上升 此前回購規模未達目標。"
+    },
+    {
+      "id": "5088086",
+      "time": "2026-09-11 02:06:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國20年期國債收益率最新上漲8.37個基點，報5.372%。"
+    },
+    {
+      "id": "mkt:01a08c7f-a684-7118-8532-fcad1b67023c",
+      "time": "2026-09-11 02:06:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury yields continued to climb after Treasury repo operations; the 10-year yield rose 10.52 bps to 4.942%."
+    },
+    {
+      "id": "5088085",
+      "time": "2026-09-11 02:05:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 特朗普參觀美國國家榮譽勳章博物館。"
+    },
     {
       "id": "mkt:01a08c7e-bf84-7118-8532-f143e9100987",
       "time": "2026-09-11 02:05:11",
@@ -124782,58 +124871,6 @@
         "Impact bullish"
       ],
       "text": "U.S. Vice President Vance told Iranians to stop acting like madmen and to cease firing on commercial vessels."
-    },
-    {
-      "id": "mkt:01a06875-8548-7118-848e-8b4d023bf37f",
-      "time": "2026-09-04 02:08:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the U.S. has many additional tools available on Iran, some of which Trump will use and others he will not."
-    },
-    {
-      "id": "5076031",
-      "time": "2026-09-04 02:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：針對伊朗，我們還有很多備選手段，其中一部分特朗普會動用，另一部分則不會。"
-    },
-    {
-      "id": "5076030",
-      "time": "2026-09-04 02:07:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：我們正在採取多項措施向伊朗施壓，迫使其停止襲擊商船。"
-    },
-    {
-      "id": "mkt:01a06874-7cd6-7118-848e-844df5fcf3cb",
-      "time": "2026-09-04 02:07:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Vice President Vance said the U.S. is taking multiple measures to pressure Iran to stop firing on vessels."
-    },
-    {
-      "id": "mkt:01a06873-c53a-7118-848e-7af6be851856",
-      "time": "2026-09-04 02:06:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump reiterated that Spain has not been paying its required NATO contributions."
-    },
-    {
-      "id": "5076029",
-      "time": "2026-09-04 02:06:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：美國正在調查據稱發生的伊朗婚禮遇襲事件，但對此持 “懷疑態度”。"
     }
   ]
 }
