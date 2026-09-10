@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-11 06:39:53",
-  "count": 13608,
+  "updated": "2026-09-11 06:43:50",
+  "count": 13600,
   "items": [
+    {
+      "id": "te:markets:582916",
+      "time": "2026-09-11 06:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 4.00% — Top commodity gainers are Barley (4%), Oat (2.31%) and Sugar (1.90%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.79%)."
+    },
     {
       "id": "5088324",
       "time": "2026-09-11 06:37:23",
@@ -124399,84 +124410,6 @@
         "MKT News"
       ],
       "text": "ANTHROPIC is reportedly set to complete $15bn of credit financing ahead of an IPO."
-    },
-    {
-      "id": "5076345",
-      "time": "2026-09-04 06:43:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊、富國銀行在 Anthropic 貸款專案中擔任關鍵角色。"
-    },
-    {
-      "id": "5076344",
-      "time": "2026-09-04 06:43:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "據稱高盛、摩根大通、花旗將在 Anthropic 貸款專案中擔任核心角色。"
-    },
-    {
-      "id": "5076343",
-      "time": "2026-09-04 06:43:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "據稱 Anthropic 迴圈貸款由摩根士丹利牽頭。"
-    },
-    {
-      "id": "5076342",
-      "time": "2026-09-04 06:43:06",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic 擬敲定150億美元IPO前信貸安排。"
-    },
-    {
-      "id": "5076341",
-      "time": "2026-09-04 06:41:44",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通：若155關口失守，日元空頭平倉風險或將加速】摩根大通策略師表示，如果美元兌日元跌破155，規模龐大的日元空頭頭寸進一步平倉可能會加速日元升值。摩根大通估算，目前日元空頭規模約為16萬億至17萬億日元，若全面平倉，美元兌日元可能跌至142-146區間。策略師田瀨淳也（Junya Tanase）等人在一份報告中寫道。近期價格走勢支援”相對大規模的日元空頭頭寸可能仍未解除”這一判斷。摩根大通目前認為，美元兌日元實質性跌破其假定的155-165區間的機率並不高。"
-    },
-    {
-      "id": "mkt:01a0696e-ba97-7118-8491-6d42460dc24b",
-      "time": "2026-09-04 06:40:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ's Karl Hansen said the bank will judge October policy action on whether incoming data contain \"surprises\" rather than any single indicator."
-    },
-    {
-      "id": "mkt:01a0696e-15d9-7118-8491-67139acf0db3",
-      "time": "2026-09-04 06:40:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "RBNZ's Karl Hanson said future policy decisions will depend on trends across a broad range of economic indicators."
-    },
-    {
-      "id": "mkt:01a0696d-efdc-7118-8491-5b3c31716e23",
-      "time": "2026-09-04 06:40:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ's Karl Hansen said Wednesday's rate hike was a decision reached by clear consensus."
-    },
-    {
-      "id": "te:markets:581058",
-      "time": "2026-09-04 06:40:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Spikes by 5.51% — Top commodity gainers are Palm Oil (5.51%) and Wool (2%). Biggest losers are Sugar (-3.80%), Cotton (-2.81%) and Wheat (-2.48%)."
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
   "date": "2026-09-11",
-  "count": 490,
+  "count": 491,
   "items": [
+    {
+      "id": "te:markets:582916",
+      "time": "2026-09-11 06:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 4.00% — Top commodity gainers are Barley (4%), Oat (2.31%) and Sugar (1.90%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.79%)."
+    },
     {
       "id": "5088324",
       "time": "2026-09-11 06:37:23",
