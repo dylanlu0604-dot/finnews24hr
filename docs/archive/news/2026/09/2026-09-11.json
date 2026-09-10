@@ -1,7 +1,62 @@
 {
   "date": "2026-09-11",
-  "count": 282,
+  "count": 287,
   "items": [
+    {
+      "id": "5088129",
+      "time": "2026-09-11 02:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿爾及利亞宣佈對阿聯酋關閉領空】當地時間9月10日晚，阿爾及利亞國防部宣佈，自本月11日零時起，禁止在阿聯酋註冊的民用和軍用飛機（含進出港航班）進入阿爾及利亞領空。但往返阿爾及爾胡阿里·布邁丁國際機場的阿聯酋商業民航航班可以得到豁免，相關航班可繼續運營至2026年年底（即現有合同到期之日）。當天早些時候，阿爾及利亞外交部表示，該國決定即日起與阿聯酋斷絕外交關係。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a08ca4-09e8-7118-8533-cc29c33f1170",
+      "time": "2026-09-11 02:45:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【China opposes some Security Council members' push to reinstate sanctions on Iran】On Sept. 10 China’s deputy UN ambassador Sun Lei told the Security Council he was seriously concerned and strongly opposed to efforts by certain Council members to force a meeting and restore sanctions on Iran despite major divisions. Sun said the United States has stepped up unilateral sanctions and launched a new round of military strikes against Iran; US‑Iran exchanges have renewed regional tensions and seriously set back mediation efforts. China urged the US to commit not to use force and to engage in sincere negotiations with Iran, called on all parties to abandon the use or threat of force, and said the Iran nuclear issue should be returned to a political‑diplomatic track aimed at a comprehensive, lasting ceasefire and a peace agreement that balances reasonable demands of all sides."
+    },
+    {
+      "id": "5088128",
+      "time": "2026-09-11 02:44:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油期貨結算價為每桶107.63美元，上漲6.42美元，漲幅6.34%。"
+    },
+    {
+      "id": "mkt:01a08ca2-cb41-7118-8533-c704d5e02173",
+      "time": "2026-09-11 02:44:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $107.63 a barrel, up $6.42 or 6.34%."
+    },
+    {
+      "id": "mkt:01a08ca1-f71a-7118-8533-bdce95c8c2ba",
+      "time": "2026-09-11 02:43:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang denies AI infrastructure investments are circular financing】The Wall Street Journal reports NVIDIA (NVDA.O) CEO Jensen Huang told a Goldman Sachs conference he rejects claims that NVIDIA’s financing of data-center and AI infrastructure projects constitutes circular financing. Asked whether the investments were circular, Huang said, “I put in $1, it ends up $100. Is that circular?” He called the transactions a “very smart strategy” aimed at building distribution channels and driving market adoption of NVIDIA’s architecture, not simple recycling of funds."
+    },
     {
       "id": "5088127",
       "time": "2026-09-11 02:41:16",
