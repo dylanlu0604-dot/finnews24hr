@@ -1,7 +1,496 @@
 {
   "date": "2026-09-11",
-  "count": 440,
+  "count": 490,
   "items": [
+    {
+      "id": "5088324",
+      "time": "2026-09-11 06:37:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【主產國減產預期升溫，厄爾尼諾成國際糖價催化劑，國內糖市預計價格上行空間有限】受厄爾尼諾影響，A股市場“糖”概念股近期集體走強。期貨市場方面，截至發稿時，ICE原糖11號主力合約由8月初的14.65美分/磅上漲至9月10日的19.69美分/磅，漲幅達到34%。同期，國內白糖期貨主力合約漲幅為7%。目前，國內現貨糖價維持在為5220元/噸左右。一家頭部糖企負責人對記者介紹，截至目前，國內甘蔗長勢正常偏好，預計新榨季甘蔗總產量與上榨季基本持平或略增。業內判斷，國內食糖庫存處於高位，下榨季大機率延續增產態勢，即使原糖後期繼續上行，國內鄭糖整體上漲空間預計有限。（上證報）"
+    },
+    {
+      "id": "mkt:01a08d77-20af-7118-8536-4de4b62f0e60",
+      "time": "2026-09-11 06:36:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【BESSENT downplays concern after Treasury buyback undershoots】BESSENT downplayed market concern after Thursday’s Treasury buyback fell short of the announced maximum and after a recent rise in U.S. Treasury yields, saying the market is “in very good shape.” Two-year yields hit their highest levels since 2024 and 10-year yields rose to highs not seen since 2023. He cited strong results at two recent Treasury auctions and repeated that the correlation between bond and energy prices is unusually high. He said the sell-off was driven by a surge in oil prices and by the Treasury repurchasing fewer securities than planned: the Treasury had announced buybacks of up to $6.0 bln but bought $5.19 bln on Thursday. “We only buy when prices are cheap,” he said, adding that holders preferred to keep long-dated paper; the Treasury typically receives about $20.0 bln of offers to sell but this time received roughly $10.0 bln."
+    },
+    {
+      "id": "5088323",
+      "time": "2026-09-11 06:35:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗現預計澳大利亞儲備銀行 2026 年將再加息兩次，利率上調至 4.85%。"
+    },
+    {
+      "id": "te:markets:582915",
+      "time": "2026-09-11 06:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Slumps by 6.14% — Top commodity losers are Platinum (-6.14%), Silver (-5.58%), Copper (-5.32%) and Gold (-1.82%)."
+    },
+    {
+      "id": "5088322",
+      "time": "2026-09-11 06:33:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【防範盲目擴張 儲能電池擴產踩“剎車”】針對儲能電池新建專案審批或將收緊的市場傳聞，記者近日向多家電池企業核實確認，該訊息屬實。本次調整並非一刀切式叫停專案，後續儲能專案審批節奏將結合市場供需現狀動態調整。 近日有市場訊息稱，儲能電池新建專案審批或將收緊，處於規劃階段、尚未正式開工的專案或暫緩實施，已經完成備案並且開工在建的專案則不受影響。9月9日，多家電池廠商相關負責人向記者證實了上述訊息。一家儲能電池廠商有關人士直言：“確實存在上述情況，但對公司影響有限。公司產能均為早前規劃，且已透過審批。”另有業內人士向記者表示，此次政策調整旨在合理把控儲能專案擴產節奏，防範行業盲目擴張，引導產業有序、健康發展。後續專案審批節奏將結合市場實際需求動態調整，而非“一刀切”。（上證報）"
+    },
+    {
+      "id": "5088321",
+      "time": "2026-09-11 06:33:10",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 時間待定美國芝商所100盎司白銀期貨24小時全天候交易啟動；\n② 時間待定 2026 中國算力大會（廊坊）；\n③ 14:00 英國7月GDP，商品貿易帳；\n④ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑤ 16:00 國際能源署（IEA）公佈月度原油市場報告；\n⑥ 17:15 瑞士央行行長Martin Schlegel講話；\n⑦ 18:00 俄羅斯央行公佈利率決議；\n⑧ 20:30 美國8月CPI；\n⑨ 22:00 美國9月密歇根大學5年通脹預期初值，歐洲央行行長拉加德講話；\n⑩ 次日01:00 歐洲央行首席經濟學家Lane講話；\n次日02:00 美國8月政府預算；\n週六待定 金磚國家領導人第十八次會晤在印度新德里舉行（9月12-13日）；\n週六18:15 歐洲央行行長拉加德講話。"
+    },
+    {
+      "id": "mkt:01a08d71-921a-7118-8536-46678d362af3",
+      "time": "2026-09-11 06:30:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Trump pushes US investment in Venezuelan oil; majors cautious as outsiders move in】Wall Street Journal: Coinbase co‑founder Fred Ehrsam, despite no prior oil and gas experience, spent months in Caracas building ties and has emerged as an unexpected US entrant in efforts to revive Venezuela's oil sector. Ehrsam's Primavera, co‑founded earlier this year, signed a production‑sharing contract with state oil firm PDVSA last week. President Trump has urged ExxonMobil, ConocoPhillips and Harold Hamm's Continental Resources to commit about $100 billion to restore Venezuelan fields. Eight months after the US captured Venezuela's president Maduro, the major oil companies have largely remained on the sidelines; Primavera is among the few US firms actively participating."
+    },
+    {
+      "id": "te:markets:582914",
+      "time": "2026-09-11 06:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil Soars by 8.32% — Top commodity gainers are Crude Oil (8.32%), Brent Oil (7.82%) and Heating Oil (7.08%)."
+    },
+    {
+      "id": "5088320",
+      "time": "2026-09-11 06:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭8月製造業表現指數 53.1，前值54.3。"
+    },
+    {
+      "id": "mkt:01a08d71-51fd-7118-8536-38844f74ddb9",
+      "time": "2026-09-11 06:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand August manufacturing performance index 53.1, down from 54.3 previously."
+    },
+    {
+      "id": "mkt:01a08d71-2fe6-7118-8536-37e8e1e24f24",
+      "time": "2026-09-11 06:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Manufacturing Index (Aug) | actual 53.1 | previous 54.3"
+    },
+    {
+      "id": "5088319",
+      "time": "2026-09-11 06:19:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2026年A股上市公司現金分紅榜單揭曉，2.4萬億元“真金白銀”落地】中國上市公司協會（簡稱“中上協”）9月10日釋出2026年上市公司現金分紅榜單。資料顯示，2025財務年度A股上市公司分紅總額高達2.4萬億元，同比增長3.3%，創下歷史新高。近七成上市公司派發“真金白銀”，現金分紅已從階段性熱潮全面邁入“常態化”新階段。從最新出爐的榜單來看，頭部企業展現出較強的現金流實力。在現金分紅總額榜單中，工商銀行、建設銀行、中國移動、農業銀行、中國石油穩居前五，貴州茅臺、中國海油、招商銀行等緊隨其後。在股利支付率榜單中，東阿阿膠、雲南白藥、天地數碼等居前，貴州茅臺、伊利股份等消費龍頭同樣表現亮眼。而在股息率榜單中，中遠海控、廣日股份、中谷物流位列前三，格力電器、海瀾之家等高股息資產持續凸顯配置吸引力。（上證報）"
+    },
+    {
+      "id": "5088318",
+      "time": "2026-09-11 06:16:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多隻QDII新額度告急】多隻QDII（合格境內機構投資者）產品的新增額度正在被資金“哄搶”。9月9日，萬家納斯達克100指數發起式（QDII）的限購金額從此前的10元大幅提升至5000元。當日收盤後，萬家基金又火速公告稱，自9月10日起，該基金的限購金額被調低至100元。類似的還有匯添富納斯達克100 ETF發起式聯接（QDII）。9月2日，該基金（人民幣份額）的限購金額大幅升至1萬元，9月3日該金額降為2000元，9月4日再降為10元。此外，創金合信全球晶片產業股票發起（QDII）等也在幾日內經歷了限購放寬又收緊的過程。（上證報）"
+    },
+    {
+      "id": "te:markets:582913",
+      "time": "2026-09-11 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.96% — Top currency losers are Swedish Krona (-0.96%), Norwegian Krone (-0.88%), Australian Dollar (-0.85%), Japanese Yen (-0.63%), British Pound (-0.27%) and Euro (-0.22%). Gains are led by Dollar Index (0.28%)."
+    },
+    {
+      "id": "5088317",
+      "time": "2026-09-11 06:11:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭通報三例西尼羅病毒感染死亡病例】荷蘭國家公共衛生與環境研究所10日通報，今年該國本土西尼羅病毒感染病例增至18人，其中三名感染人員死亡。通報說，感染病例中有一例是獻血時從其血液內檢測出西尼羅病毒，其餘均在出現症狀入院後確診。感染者分佈在烏得勒支省、北布拉班特省等六省。"
+    },
+    {
+      "id": "mkt:01a08d5e-09e4-7118-8536-2df7ede56d9e",
+      "time": "2026-09-11 06:09:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) executive said customers used its embedded AI features more than 150 mln times this quarter, a 42% QoQ increase."
+    },
+    {
+      "id": "5088316",
+      "time": "2026-09-11 06:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文高管：第一季度 GPU 利用率仍處於極高水平，達 97.9%。"
+    },
+    {
+      "id": "5088315",
+      "time": "2026-09-11 06:06:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文高管：本季度客戶使用我們的嵌入式人工智慧功能超 1.5 億次，環比增長 42%。"
+    },
+    {
+      "id": "mkt:01a08d58-87bd-7118-8536-26ee8e96e22c",
+      "time": "2026-09-11 06:03:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell 4 ticks, 30-year Treasury futures fell 6 ticks."
+    },
+    {
+      "id": "5088313",
+      "time": "2026-09-11 06:01:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名白宮高階官員透露，美國總統特朗普計劃於下週外出開展競選活動，為中期選舉造勢。舉辦地點將於不久後公佈。"
+    },
+    {
+      "id": "mkt:01a08d56-60af-7118-8536-1b60733aed98",
+      "time": "2026-09-11 06:00:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened slightly higher on Friday, trading at $100.65 per barrel."
+    },
+    {
+      "id": "5088312",
+      "time": "2026-09-11 06:00:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息機率為71.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為28.7%，累計加息25個基點的機率為71.3%。美聯儲到10月維持利率不變的機率為17.6%，累計加息25個基點的機率為54.8%，累計加息50個基點的機率為27.6%。"
+    },
+    {
+      "id": "5088311",
+      "time": "2026-09-11 06:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報64.12美元/盎司。"
+    },
+    {
+      "id": "5088310",
+      "time": "2026-09-11 06:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4357.99美元/盎司。"
+    },
+    {
+      "id": "5088309",
+      "time": "2026-09-11 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報104.20美元/桶。"
+    },
+    {
+      "id": "5088308",
+      "time": "2026-09-11 05:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京抵達印度，展開為期3天的訪問。"
+    },
+    {
+      "id": "mkt:01a08d54-560c-7118-8536-16523b05ccad",
+      "time": "2026-09-11 05:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin has arrived in India for a three-day visit, Russian media reported."
+    },
+    {
+      "id": "mkt:01a08d53-ac3a-7118-8536-0c291c8c3859",
+      "time": "2026-09-11 05:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic detection: at 05:53 on Sept 11 a roughly magnitude-3.2 earthquake occurred near Weining County, Bijie, Guizhou, China; final parameters subject to the official rapid bulletin."
+    },
+    {
+      "id": "5088307",
+      "time": "2026-09-11 05:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月11日05時53分在貴州畢節市威寧縣附近（北緯26.74度，東經104.18度）發生3.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5088306",
+      "time": "2026-09-11 05:48:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲8%，現報109.35美元/桶。"
+    },
+    {
+      "id": "mkt:01a08d48-e290-7118-8536-034bc6df8ec5",
+      "time": "2026-09-11 05:45:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Trump says $5,000 \"election bonus\" would not need congressional approval】President Trump told reporters he has proposed paying each U.S. citizen $5,000 as an \"election bonus\" if Republicans retain control of both the House and Senate after the midterms. He said the payment \"would not need\" congressional approval — \"if it did, they would do it, but we don't think it's necessary\" — and said it would be financed from tariff and other revenues the administration described as totaling tens of trillions of dollars. He added U.S. manufacturing and other investment now exceeds $20 trillion and said any payments must be spent within the United States."
+    },
+    {
+      "id": "5088305",
+      "time": "2026-09-11 05:44:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普公佈計劃，擬取消H-1B員工失業後的寬限期】美國特朗普政府的一項提案將取消外籍員工在失業後尋找新擔保人的60天視窗期。該擬議規則將廢除自2017年以來適用於包括H-1B員工在內的特定員工的自由裁量寬限期。美國國土安全部（DHS）表示，該提案將減輕該機構的行政負擔，但批評人士認為，這會將責任轉移給國務院，並增加解僱外籍員工企業的財務負擔。"
+    },
+    {
+      "id": "mkt:01a08d45-4551-7118-8535-ffcfe3039ccb",
+      "time": "2026-09-11 05:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Treasury Secretary Bessent said on today's Treasury buyback investors did not demand an extra premium to hold longer-dated Treasury securities, and because the Treasury only buys when prices are attractive the buyback size fell short of the amount he previously indicated."
+    },
+    {
+      "id": "5088304",
+      "time": "2026-09-11 05:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國防部正洽談向人工智慧雲端計算初創企業 Fluidstack 提供約 50 億美元貸款，以鞏固美國的資料中心供應鏈。"
+    },
+    {
+      "id": "5088303",
+      "time": "2026-09-11 05:40:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：回購規模不及我此前所說，因為我們只在低價時回購。（指今日國債回購操作）"
+    },
+    {
+      "id": "mkt:01a08d43-5aa0-7118-8535-f6d5bd518c4c",
+      "time": "2026-09-11 05:39:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Treasury Secretary Bessent said the US has the best-performing bond market in the world."
+    },
+    {
+      "id": "5088302",
+      "time": "2026-09-11 05:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：投資者不要求長債溢價。"
+    },
+    {
+      "id": "5088301",
+      "time": "2026-09-11 05:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：期限利差處於多年來最低水平。"
+    },
+    {
+      "id": "5088300",
+      "time": "2026-09-11 05:38:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們將渡過能源供應衝擊的難關。國債市場狀況良好。"
+    },
+    {
+      "id": "mkt:01a08d41-77f2-7118-8535-ea68961d1600",
+      "time": "2026-09-11 05:37:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury will impose sanctions on a large bank next Monday."
+    },
+    {
+      "id": "mkt:01a08d41-25dd-7118-8535-e45ed92bd149",
+      "time": "2026-09-11 05:37:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media Fars News reported Yemen's Houthi forces launched missile strikes on positions and assembly points in the Ras al-Arah area, south of the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5088299",
+      "time": "2026-09-11 05:37:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們擁有全球表現最佳的債券市場。"
+    },
+    {
+      "id": "mkt:01a08d40-165c-7118-8535-dc0d4325e604",
+      "time": "2026-09-11 05:36:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr News Agency cites Arab media saying Saudi Arabia launched airstrikes on Yemen's Mocha port."
+    },
+    {
+      "id": "5088298",
+      "time": "2026-09-11 05:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：週一將對一家大型銀行實施制裁。"
+    },
+    {
+      "id": "5088297",
+      "time": "2026-09-11 05:33:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI需求推動甲骨文雲業務營收超預期增長 股價盤後大漲】甲骨文雲端計算業務增長超過華爾街預期，顯示該公司對大型人工智慧(AI)資料中心專案的鉅額投入正在取得成效。其股價盤後大漲逾6%。甲骨文週四盤後公佈財報，備受關注的雲基礎設施業務上財季營收同比大增121%至74億美元，高於分析師預測均值71.9億美元。甲骨文正從傳統資料庫軟體供應商轉型為AI算力提供商，併為OpenAI等客戶大舉建設資料中心。由於投資者此前擔憂融資需求、零部件成本上升以及資料中心建設面臨挑戰，該公司股價自6月1日創下的年內高點大跌38%。截至8月31日的財季，甲骨文資本支出達到285億美元，主要用於資料中心裝置。首席財務官Hilary Maxson重申，截至2027年5月的財年資本支出預計為700億美元，此外還將有200億至250億美元用於部分零部件的預付款。甲骨文表示，上財季新增AI雲合同超過300億美元，推動代表未來收入的剩餘履約義務進一步增加。"
+    },
+    {
+      "id": "mkt:01a08d3b-e65e-7118-8535-d76b5d1b4721",
+      "time": "2026-09-11 05:31:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "House Republican leadership plans to introduce the Taxpayer Protection Act in the House next week; the bill aims to prevent rapid data center expansion from driving up U.S. residential electricity bills."
+    },
+    {
+      "id": "mkt:01a08d37-cf58-7118-8535-c97a8faefb33",
+      "time": "2026-09-11 05:27:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bloomberg Billionaires Index shows LVMH founder Bernard Arnault dropped out of the global top 10; for the first time the world's richest ranks are entirely occupied by US technology billionaires."
+    },
+    {
+      "id": "mkt:01a08d36-7dd6-7118-8535-c5c1e80cd195",
+      "time": "2026-09-11 05:25:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【UK Maritime Trade Operations says unidentified aerial objects struck two vessels off Oman】On Sept 10 local time UK Maritime Trade Operations reported four unidentified aerial objects struck two vessels about 4 nautical miles west of Seeb, Oman. The vessels' nationalities were not disclosed; one caught fire and the other's condition is unknown. UKMTO said authorities are investigating and advised transiting ships to exercise caution and report any suspicious activity."
+    },
+    {
+      "id": "mkt:01a08d36-31b3-7118-8535-bb8e4ed96a6e",
+      "time": "2026-09-11 05:25:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US diesel tops $6/gal for first time, adding fresh inflation risk】US retail diesel averaged above $6.00/gal nationally on Thursday for the first time, GasBuddy data show, as US–Iran tensions and Ukrainian strikes on Russian refineries tightened supplies. Diesel, a key input for trucking, rail, shipping and agriculture, is pushing up logistics and production costs; the national average is about $2.30/gal higher than a year ago. GasBuddy analyst Patrick DeHaan said record diesel prices could reignite inflation across supply chains. Rising fuel costs are a political headache for President Trump and Republican lawmakers ahead of November midterms."
+    },
+    {
+      "id": "5088296",
+      "time": "2026-09-11 05:25:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國海事機構：不明飛行物擊中阿曼以西海域兩艘船隻】當地時間9月10日，英國海上貿易行動辦公室釋出通報稱，該機構收到報告，報告顯示兩艘船隻在阿曼海塞卜以西約4海里處遭不明飛行物擊中。據該機構通報，四枚不明飛行物擊中兩艘國籍不明的船隻，其中一艘船隻起火，另一艘目前狀況不明。英國海上貿易行動辦公室表示，相關部門正在對此事展開調查，並提醒過往船隻謹慎航行，如發現任何可疑活動及時報告。（央視新聞）"
+    },
     {
       "id": "mkt:01a08d35-44ca-7118-8535-b7a2f326c625",
       "time": "2026-09-11 05:24:33",
