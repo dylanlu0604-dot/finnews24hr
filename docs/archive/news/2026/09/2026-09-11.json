@@ -1,7 +1,58 @@
 {
   "date": "2026-09-11",
-  "count": 377,
+  "count": 382,
   "items": [
+    {
+      "id": "mkt:01a08cf7-c47f-7118-8535-102eb0f81c24",
+      "time": "2026-09-11 04:17:22",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) fiscal 2027 Q1 results were driven primarily by triple-digit growth in cloud infrastructure revenue."
+    },
+    {
+      "id": "mkt:01a08cf7-acb9-7118-8535-09f39b1b0576",
+      "time": "2026-09-11 04:17:16",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) added 850 MW of data-center capacity in Q1 of fiscal 2027."
+    },
+    {
+      "id": "mkt:01a08cf7-493d-7118-8535-05ba1c7b5769",
+      "time": "2026-09-11 04:16:51",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) added over $30 bln of new cloud contracts in FY2027 Q1, lifting remaining performance obligations (RPO) to $664 bln."
+    },
+    {
+      "id": "mkt:01a08cf6-1cc9-7118-8534-fe7a00d614df",
+      "time": "2026-09-11 04:15:34",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) expects cloud infrastructure revenue to rise more than 70% in fiscal 2027."
+    },
+    {
+      "id": "mkt:01a08cf5-b2e0-7118-8534-f6e604bc6500",
+      "time": "2026-09-11 04:15:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "ORACLE (ORCL.N) expects fiscal 2027 total revenue of at least $90 billion."
+    },
     {
       "id": "te:economy:582903",
       "time": "2026-09-11 04:14:44",

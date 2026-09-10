@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-11 04:15:16",
-  "count": 13639,
+  "updated": "2026-09-11 04:19:10",
+  "count": 13638,
   "items": [
+    {
+      "id": "mkt:01a08cf7-c47f-7118-8535-102eb0f81c24",
+      "time": "2026-09-11 04:17:22",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) fiscal 2027 Q1 results were driven primarily by triple-digit growth in cloud infrastructure revenue."
+    },
+    {
+      "id": "mkt:01a08cf7-acb9-7118-8535-09f39b1b0576",
+      "time": "2026-09-11 04:17:16",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) added 850 MW of data-center capacity in Q1 of fiscal 2027."
+    },
+    {
+      "id": "mkt:01a08cf7-493d-7118-8535-05ba1c7b5769",
+      "time": "2026-09-11 04:16:51",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) added over $30 bln of new cloud contracts in FY2027 Q1, lifting remaining performance obligations (RPO) to $664 bln."
+    },
+    {
+      "id": "mkt:01a08cf6-1cc9-7118-8534-fe7a00d614df",
+      "time": "2026-09-11 04:15:34",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) expects cloud infrastructure revenue to rise more than 70% in fiscal 2027."
+    },
+    {
+      "id": "mkt:01a08cf5-b2e0-7118-8534-f6e604bc6500",
+      "time": "2026-09-11 04:15:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "ORACLE (ORCL.N) expects fiscal 2027 total revenue of at least $90 billion."
+    },
     {
       "id": "te:economy:582903",
       "time": "2026-09-11 04:14:44",
@@ -124574,55 +124625,6 @@
         "公司"
       ],
       "text": "道明銀行集團任命雷努·古普塔為高階執行副總裁兼首席戰略與商務官。"
-    },
-    {
-      "id": "5076220",
-      "time": "2026-09-04 04:19:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Adobe股價下跌2%，此前新任CEO任命。"
-    },
-    {
-      "id": "5076219",
-      "time": "2026-09-04 04:18:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "週四（9月3日），彭博電動汽車價格回報指數漲0.84%，報3414.70點。成分股中，禾賽科技漲超11%，Aurora Innovation漲8%，特斯拉漲5.42%表現第三。"
-    },
-    {
-      "id": "5076206",
-      "time": "2026-09-04 04:16:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "Adobe宣佈，阿尼爾·查克拉瓦蒂（Anil Chakravarthy）將於2026年12月1日出任公司總裁兼執行長，山塔努·納拉延（Shantanu Narayen）將轉任執行董事長。"
-    },
-    {
-      "id": "5076203",
-      "time": "2026-09-04 04:16:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼表示，兩週前加拿大 “做出了暫停與美國貿易談判的正確決定”，稱 “我們無法接受美方給出的條件，也不會滿足美方提出的要求”，並表示美國為此加徵了新關稅，其目的就是要損害加拿大利益、製造分裂。"
-    },
-    {
-      "id": "mkt:01a068e9-bf5a-7118-8490-9db612dce1d8",
-      "time": "2026-09-04 04:15:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Trump administration has asked the U.S. Supreme Court to intervene to enforce U.S. Postal Service rules restricting mail-in voting."
-    },
-    {
-      "id": "5076202",
-      "time": "2026-09-04 04:15:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：騰訊音樂完成 10 億美元票據發行定價。"
     }
   ]
 }
