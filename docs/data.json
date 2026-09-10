@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-11 07:04:48",
-  "count": 13592,
+  "updated": "2026-09-11 07:08:43",
+  "count": 13598,
   "items": [
+    {
+      "id": "te:economy:582920",
+      "time": "2026-09-11 07:08:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Peru Keeps Rates Steady for 12th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in September 2026, extending its pause for a 12th consecutive meeting. Annual inflation rose to 4.4% in August from 4.1% in July, mainly due to a base effect from negative monthly inflation a year earlier, while inflation excluding food and energy eased to 4.5% from 4.6%. Excluding transportation, underlying inflation stood at 1.8% and has remained below 2% since April 2025. Twelve-month inflation expectations increased to 3.1% from 3.0%, slightly above the upper limit of the target range. The central bank expects inflation to return toward 2% as supply shocks fade, although El Niño and Middle East tensions could keep inflation pressures elevated. Economic activity remained strong in August, with all current-conditions indicators improving and expectations staying optimistic, though somewhat more moderate. Global risks remain elevated, reflected in greater financial-market and oil-price volatility."
+    },
+    {
+      "id": "5088343",
+      "time": "2026-09-11 07:08:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將透過經濟增長解決40萬億美元債務問題。"
+    },
+    {
+      "id": "mkt:01a08d93-f22e-7118-8536-77e93a23f566",
+      "time": "2026-09-11 07:07:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump escalates trade measures on Canada; Carney says impact limited, no retaliation planned】Canadian Prime Minister Carney said US trade measures against Canada this week will hit some firms and specific sectors materially but are, overall, limited when viewed against other US actions. He signaled Ottawa does not currently intend to retaliate, saying the appropriate response is to strengthen domestic economic resilience and diversify trade and economic ties."
+    },
+    {
+      "id": "5088342",
+      "time": "2026-09-11 07:07:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【黃仁勳：網路安全將成為下一個重大應用場景】英偉達聯合創始人兼執行長黃仁勳表示，網路安全有望成為人工智慧的下一個重大應用市場。隨著AI模型越來越多地參與軟體程式設計，程式碼被發現漏洞、遭到利用以及需要修復的速度都在加快，這一變化正在重塑網路安全行業，並可能催生新一輪AI相關需求。黃仁勳週四在舊金山舉行的高盛科技大會上表示：“網路安全很可能成為AI的下一個主要應用場景。”他指出，AI模型正在推動計算機程式設計自動化，而這一趨勢正在給網路安全行業帶來巨大變化。隨著AI能夠以前所未有的速度生成和處理程式碼，軟體漏洞可能更快暴露和被利用，同時企業也需要以更高速度發現並修復安全問題。"
+    },
+    {
+      "id": "5088341",
+      "time": "2026-09-11 07:06:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "勁方醫藥-B(02595)釋出公告，於2026年9月10日，該公司斥資206.3萬港元回購8萬股股份，每股回購價25.32-26港元。"
+    },
+    {
+      "id": "5088340",
+      "time": "2026-09-11 07:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：洩密是有選擇性的，它們帶有選舉偏見。"
+    },
+    {
+      "id": "5088339",
+      "time": "2026-09-11 07:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：最高法院必須公開所有調查結果，取消保密措施。"
+    },
+    {
+      "id": "5088338",
+      "time": "2026-09-11 07:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：最高法院的調查不應影響選舉。"
+    },
+    {
+      "id": "5088337",
+      "time": "2026-09-11 07:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星環科技：擬全球發售1401.08萬股H股，發售價不超61港元】9月11日早間，星環科技在港交所公告，公司擬全球發售14,010,800股H股，香港發售股份700,600股H股，國際發售股份13,310,200股H股；發售價不超每股61.00港元；預期股份將於2026年9月21日開始在香港聯交所買賣。"
+    },
     {
       "id": "mkt:01a08d8e-8e0a-7118-8536-6f69a98c057d",
       "time": "2026-09-11 07:02:04",
@@ -124315,33 +124394,6 @@
         "其他"
       ],
       "text": "【OpenAI釋出GPT-6 Astra模型】當地時間9月3日，OpenAI正在推出GPT-6 Astra模型，並增設網路安全防護機制，聲稱這是世界上最智慧、最對齊的模型。OpenAI總裁格雷格·布羅克曼表示，新模型標誌著“人們可以委託給AI的工作型別以及AI賦能方式的一次真正轉變”，尤其擅長代表使用者操作電腦。GPT-6 Astra即日起向有限的組織開放，未來幾天將面向所有ChatGPT Plus、Pro、Business和Enterprise使用者提供，同時也可透過OpenAI API和AWS使用。"
-    },
-    {
-      "id": "5076364",
-      "time": "2026-09-04 07:07:25",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【光大證券：維持中國海油AH股“買入”評級 看好公司增儲上產潛力】光大證券釋出研報稱，26H1中國海油(00883；600938.SH)受益於油價上漲和增儲上產加速，業績顯著增長，符合該行預期。該行維持對公司的盈利預測，預計公司26-28年歸母淨利潤分別為1747、1802、1847億元，對應的EPS分別為3.67、3.79、3.89元/股。該行看好公司“增儲上產”的潛力和成本控制能力，公司業績有望穿越油價週期實現長期增長，維持對公司A股和H股的“買入”評級。"
-    },
-    {
-      "id": "5076363",
-      "time": "2026-09-04 07:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人工智慧中小企業創業支援計劃啟動】昨天，工業和資訊化部宣佈，啟動人工智慧中小企業創業支援計劃。計劃透過三年時間，在行業應用、資料服務、智慧算力等重點領域，培育形成一大批人工智慧創業企業，新培育科技和創新型中小企業1萬家以上。人工智慧中小企業創業支援計劃提出，將聚焦人工智慧領域，用三年時間高標準建設10個科技型企業孵化器、10個國家中小企業公共服務示範平臺（基地），新培育10個國家級中小企業特色產業叢集，人工智慧中小企業創業創新活力持續迸發，人工智慧賦能中小企業高質量發展格局初步形成。（央視）"
-    },
-    {
-      "id": "5076362",
-      "time": "2026-09-04 07:06:19",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【光大證券：維持中國民航資訊網路“增持”評級 機場數字化&航旅智慧收入快速增長】光大證券釋出研報稱，26H1民航業整體保持穩健發展態勢，26H1電子旅遊分銷（ETD）系統處理的國內外航空公司系統處理量約3.72億人次，同比+0.3%。維持中國民航資訊網路(00696)26-28年淨利潤預測為25.31/27.15/29.28億元。考慮到公司在國內航空IT市場龍頭地位穩固、疊加民用航空業長期發展前景樂觀，維持“增持”評級。"
     }
   ]
 }
