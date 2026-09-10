@@ -1,7 +1,98 @@
 {
   "date": "2026-09-10",
-  "count": 1382,
+  "count": 1393,
   "items": [
+    {
+      "id": "mkt:01a08a07-cd1a-7118-851d-13b20cecd0a6",
+      "time": "2026-09-10 14:36:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said yesterday it and the Shin Bet struck three locations in the Gaza Strip, dismantling three Hamas weapons storage sites."
+    },
+    {
+      "id": "mkt:01a08a07-69a2-7118-851d-0eded5ba15cc",
+      "time": "2026-09-10 14:35:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【InHand Networks: edge-AI business remains in promotion and market-expansion stage】InHand Networks said at its 2026 interim results briefing it has deployed edge computing gateways, EC-series AI edge computers and related AI solutions. Its edge devices include local storage for on-site data caching, log retention and edge data processing; the company is not pursuing storage-device or storage-infrastructure businesses. Edge-AI offerings are in ongoing promotion and market development with some small-batch deployments; revenue contribution is minor and has not materially affected overall results."
+    },
+    {
+      "id": "mkt:01a08a07-3277-7118-851d-02fee6227650",
+      "time": "2026-09-10 14:35:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president ZELENSKIY will meet Canadian Prime Minister CARNEY to discuss bolstering resilience and civilian support and ensuring Ukraine has the capabilities required for self-defense."
+    },
+    {
+      "id": "5086541",
+      "time": "2026-09-10 14:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度副總統奈杜：俄羅斯有意在印度生產飛機。"
+    },
+    {
+      "id": "mkt:01a08a06-9dc2-7118-851c-f89d1a48af11",
+      "time": "2026-09-10 14:34:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy has arrived in Canada and plans to hold high-level meetings and sign agreements intended to shape future cooperation and deepen strategic bilateral ties."
+    },
+    {
+      "id": "mkt:01a08a06-6d12-7118-851c-f37140f46109",
+      "time": "2026-09-10 14:34:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01276.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hengrui Medicine expects more than 40 drug approvals in 2027–28; flags SHR-A2009】Hengrui Medicine (01276.HK) said at its 1H2026 results briefing it expects approvals for more than 40 pending marketing applications in 2027–28 across five therapeutic areas, highlighting potential blockbusters including SHR-A2009, a domestic first single-target HER3 antibody-drug conjugate (ADC)."
+    },
+    {
+      "id": "5086540",
+      "time": "2026-09-10 14:34:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【里昂：重申石藥“高確信跑贏大市”評級，股價急挫創造入市機會】里昂發表研報指，諾華執行長最新對Lp(a)HORIZON研究的評論，可能將研究失敗歸因於晚期降低Lp(a)相較於基因的終身Lp(a)暴露，所帶來的心血管益處有限，這將對包括石藥集團在內的內地Lp(a)參與者構成壓力。石藥集團與阿斯利康合作開發口服Lp(a)專案YS2302018，目前正處於第一期臨床階段。該行指，市場亦流傳關於石藥集團旗下恩必普在國家醫保目錄續期結果不利的訊息。就此，該行已向公司確認，價格調整幅度可控。至於YS2302018，海外第一期專案仍按計劃推進，並正在進行第二期概念驗證研究。里昂認為，HORIZON作為首個Lp(a)結果研究的失敗，並不會立即推翻Lp(a)預測。石藥集團股價急挫帶來具吸引力的入市機會，重申對其“高確信跑贏大市”評級，目標價19港元。"
+    },
+    {
+      "id": "te:economy:582631",
+      "time": "2026-09-10 14:33:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Foreign Direct Investment",
+        "Importance 0"
+      ],
+      "text": "Philippines FDI Rises 35.1% in June — Net foreign direct investment (FDI) in the Philippines rose by 35.1% year-on-year to USD 447 million in June 2026. The increase was driven by higher reinvestment of earnings (+43.1%), net equity other than reinvestment of earnings (+8.9%), and net debt instruments (+24.2%). In the first half of 2026, net FDI inflows decreased by 17.8% to USD 3.38 billion, as reinvestment of earnings declined by 19.4% and net debt instruments fell 25.8%, partially offset by a 59.4% increase in net equity other than reinvestment of earnings. Capital placements came primarily from Japan, the United States, and Singapore. These funds were channeled largely into the manufacturing, financial and insurance, and real estate industries."
+    },
+    {
+      "id": "5086539",
+      "time": "2026-09-10 14:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【恆瑞醫藥：預計有超40項上市申請在未來兩年獲批】恆瑞醫藥9月10日在2026年半年度業績說明會上表示，預計將有超過40項上市申請在2027—2028年期間獲批，覆蓋5大治療領域，其中潛在重磅產品包括國內首個申報上市的單靶點HER3 ADC藥物SHR-A2009等。"
+    },
+    {
+      "id": "5086538",
+      "time": "2026-09-10 14:32:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗戰事持續，歐洲天然氣在三年高位附近持穩】歐洲天然氣價格維持在三年多來的高位附近，交易員權衡中東衝突升級風險下歐洲的供氣前景。基準期貨在前四個交易日累計上漲10%後，在每兆瓦時78歐元附近震盪。伊朗稱已準備好迎接更激烈的戰爭，這場衝突已擾亂全球約五分之一的液化天然氣運輸。美國總統唐納德·特朗普表示，衝突或將於11月中期選舉後結束。中東新一輪戰事，疊加俄烏之間針對能源基礎設施襲擊增多，加劇了市場對供應的擔憂。雖然歐洲天然氣價格遠未達到2022年能源危機時期的峰值，但較戰前水平已翻倍以上。隨著冬季臨近，進一步給歐洲經濟帶來壓力。"
+    },
     {
       "id": "mkt:01a08a04-3892-7118-851c-e90ce90ab9b2",
       "time": "2026-09-10 14:32:07",
@@ -19,6 +110,14 @@
         "國際"
       ],
       "text": "澤連斯基表示，烏克蘭防空建設與冬季準備工作將是他本次加拿大之行的重點議題。"
+    },
+    {
+      "id": "5086536",
+      "time": "2026-09-10 14:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峽集團與中國中鐵座談】據“三峽小微”公眾號訊息，9月9日，三峽集團董事長、黨組書記劉偉平在北京與中國中鐵董事長、黨委書記陳文健一行座談，雙方就共同履行好國資央企職責使命，深化務實合作進行交流。劉偉平表示，面向“十五五”，希望雙方持續深化科技創新、清潔能源、生態環保領域務實合作，攜手打造重大精品工程，產出高質量科創成果，共同服務好能源強國、科技強國和美麗中國建設。"
     },
     {
       "id": "mkt:01a08a03-9c4a-7118-851c-e0489e63239a",
