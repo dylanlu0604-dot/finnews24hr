@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-10 22:53:22",
-  "count": 13616,
+  "updated": "2026-09-10 22:57:28",
+  "count": 13611,
   "items": [
+    {
+      "id": "5087877",
+      "time": "2026-09-10 22:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "馮德萊恩：將於下週演講中詳述社交媒體延遲問題。"
+    },
+    {
+      "id": "5087876",
+      "time": "2026-09-10 22:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉利銀河TT正式上市】9月10日，吉利銀河TT正式上市，限時售12.99萬元起。"
+    },
+    {
+      "id": "te:markets:582867",
+      "time": "2026-09-10 22:54:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 32-month High — Soybeans increased to 1307.00 USd/Bu, the highest since December 2023. Over the past 4 weeks, Soybeans gained 13.32%, and in the last 12 months, it increased 26.26%."
+    },
+    {
+      "id": "5087875",
+      "time": "2026-09-10 22:54:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：已釋出最終行政命令，將氨基苯甲酸和三乙醇胺水楊酸鹽從非處方防曬成分名錄中移除。"
+    },
+    {
+      "id": "mkt:01a08bd0-5fde-7118-852e-e7956c04dfc3",
+      "time": "2026-09-10 22:54:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【Hubei provincial party secretary Guan Zhi'ou meets Baidu founder Robin Li】On Sept. 10 in Wuhan, Hubei provincial party secretary Guan Zhi'ou met Baidu founder, chairman and CEO Robin Li and urged the group to deepen its presence in Hubei and expand cooperation in artificial intelligence and spatiotemporal geoinformation. Hubei pledged to provide a first-class, responsive business environment—saying it will ‘respond when called, not interfere when unnecessary’—to facilitate Baidu’s development in the province."
+    },
+    {
+      "id": "5087874",
+      "time": "2026-09-10 22:54:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：我將在接下來的盟情諮文中詳細說明關於保護兒童免受社交媒體傷害的提案。"
+    },
+    {
+      "id": "te:markets:582866",
+      "time": "2026-09-10 22:54:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "P&G Stock Price Hits 5-week Low — P&G shares decreased to 142.11 USD, the lowest since July 2026. Over the past 4 weeks, Procter & Gamble lost 2.06%, and in the last 12 months, it decreased 10.34%."
+    },
+    {
+      "id": "5087873",
+      "time": "2026-09-10 22:53:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中礦資源：密切關注厄爾尼諾現象對辛巴威地區水資源的影響】中礦資源在互動平臺表示，公司密切關注厄爾尼諾現象對辛巴威地區水資源的影響，Bikita礦山已透過生產用水迴圈利用、節水工藝最佳化等措施提升用水韌性，降低氣候波動對生產的影響。同時，礦山已於2024年建成辛巴威首個“光伏+儲能+市電+柴油發電”的多能互補能源系統，能源供應的獨立性和穩定性較強，能夠為礦山連續生產提供保障。"
+    },
+    {
+      "id": "5087872",
+      "time": "2026-09-10 22:53:23",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國二手房銷量降至一年多以來最低 高利率使購房者保持觀望】由於潛在買家等待房貸利率下降，美國8月份二手房銷售放緩至一年多來的最低水平。美國全國房地產經紀人協會(NAR)週四公佈的資料顯示，8月份二手房銷量摺合年率下降2%，為398萬套。自2024年秋季以來，月度摺合年率銷量僅有兩次跌破400萬套，8月份便是其中之一。這組令人失望的資料反映出，房地產市場迫切需要新的推動因素。相比疫情期間高達兩位數的年度漲幅，房價上漲步伐已經放慢，但負擔能力問題仍然是購房者面臨的一個重要阻力。二手房銷售價格中位數較上年同期上漲1.6%，至429,100美元，延續了自2023年年中以來的同比上漲勢頭。NAR首席經濟學家Lawrence Yun在一份宣告中表示：“房貸利率和二手房銷售走勢相反，因此高房貸利率導致購房活動小幅下降並不令人意外。”不過，Yun在與記者的電話會議上表示，面對房貸利率上升，購房“並沒有崩潰”，並指出就業和工資增長幫助支撐了需求。不過，他表示，房貸利率可能很快觸及7%。"
+    },
     {
       "id": "5087871",
       "time": "2026-09-10 22:52:32",
@@ -124294,134 +124379,6 @@
         "國際"
       ],
       "text": "特朗普：那些不斷強調我們沒有彈藥(他們完全錯了！)的人和媒體，實際上是在叛國。他們這樣做是因為他們寧願看到美國輸掉一場我們很容易贏的戰爭，也不願看到我贏！"
-    },
-    {
-      "id": "mkt:01a067c6-5a43-7118-848a-b7c7fa36f61c",
-      "time": "2026-09-03 22:57:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC is investigating a Claude outage and is working on remedial fixes."
-    },
-    {
-      "id": "mkt:01a067c5-cd9a-7118-848a-abee8062091f",
-      "time": "2026-09-03 22:56:51",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bullish"
-      ],
-      "text": "According to German weekly WirtschaftsWoche, Volkswagen aims to generate up to €15 billion of net cash from asset disposals by 2030."
-    },
-    {
-      "id": "mkt:01a067c5-9817-7118-848a-a5f49031cbfd",
-      "time": "2026-09-03 22:56:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German business weekly WirtschaftsWoche reports Volkswagen is considering listing European car-rental group Europcar."
-    },
-    {
-      "id": "mkt:01a067c5-3882-7118-848a-9f211b058577",
-      "time": "2026-09-03 22:56:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU revises antitrust dominance guidance to prioritise resilience】The European Commission unveiled guidance loosening the application of strict abuse-of-dominance rules if dominant firms can demonstrate their conduct enhances EU resilience. Firms may rebut abuse allegations — including claims of excessive pricing — by arguing actions support public health, product safety or protection against supply shocks. Companies may also claim that conduct otherwise deemed illegal yields efficiency gains, including for EU sustainability objectives. EU competition affairs chief Teresa Ribera said the guidelines clarify legal boundaries and improve predictability for firms operating in Europe."
-    },
-    {
-      "id": "5075891",
-      "time": "2026-09-03 22:56:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【明新旭騰：公司不涉及人形機器人制造】明新旭騰公告，公司股票2026年9月1日至9月3日連續三個交易日累計上漲24.81%，截至2026年9月3日收盤價為23.5元/股。公司主營汽車內飾新材料，不涉及人形機器人制造，未形成相關實際訂單或產業化能力；2026年半年度歸母淨利潤虧損4780.3萬元，扣非淨利潤虧損5919.06萬元，控股子公司遼寧富新已停產。"
-    },
-    {
-      "id": "mkt:01a067c4-83f9-7118-848a-92a3e2f5c79f",
-      "time": "2026-09-03 22:55:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium rose about 4% intraday to trade above $1,400/oz."
-    },
-    {
-      "id": "mkt:01a067c4-6179-7118-848a-8dab0f127e6d",
-      "time": "2026-09-03 22:55:18",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact mixed"
-      ],
-      "text": "Economic Weekly reported Volkswagen plans to sell some or all of its equity stakes in roughly 750 companies it holds."
-    },
-    {
-      "id": "5075890",
-      "time": "2026-09-03 22:55:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲4%，現報1415.00美元/盎司。"
-    },
-    {
-      "id": "mkt:01a067c4-39d7-7118-848a-86729a7b1971",
-      "time": "2026-09-03 22:55:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange website shows Yangtze Memory Technologies Co., Ltd.'s STAR Market IPO review status changed to \"inquiry\"."
-    },
-    {
-      "id": "5075889",
-      "time": "2026-09-03 22:55:05",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "據上交所官網，長江儲存控股股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
-    },
-    {
-      "id": "5075888",
-      "time": "2026-09-03 22:54:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 表示正在調查 Claude 報錯問題，著手修復  。"
-    },
-    {
-      "id": "5075887",
-      "time": "2026-09-03 22:54:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "使用者反饋 OpenAI 出現故障。"
-    },
-    {
-      "id": "5075886",
-      "time": "2026-09-03 22:54:22",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【比特幣突破8萬美元，市場重新審視加息預期】比特幣（BTC）在美國早盤交易時段漲幅擴大至4%以上，升至80,400美元。關鍵催化因素似乎是市場對加息擔憂的重新評估，此前美聯儲理事克里斯·沃勒表示，他傾向於本月維持利率政策不變。"
-    },
-    {
-      "id": "5075885",
-      "time": "2026-09-03 22:54:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX AI表示Grok出現故障，正在調查服務中斷問題。"
     }
   ]
 }
