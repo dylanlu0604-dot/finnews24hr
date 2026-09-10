@@ -1,7 +1,144 @@
 {
-  "updated": "2026-09-10 18:07:41",
-  "count": 13626,
+  "updated": "2026-09-10 18:11:29",
+  "count": 13633,
   "items": [
+    {
+      "id": "mkt:01a08acc-8a7d-7118-8524-4177cf10f80c",
+      "time": "2026-09-10 18:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump again promises cash payouts; years of tariff revenue unlikely to fill trillion-dollar gap】President Trump on Wednesday reiterated a pledge to pay $5,000 to each U.S. adult if Republicans win both chambers; Vice President Vance said funds could come from tariffs. Covering roughly 240m adults would cost about $1.2tr, roughly two-thirds of the FY25 $1.8tr deficit. The Yale Budget Lab estimates current tariff schedules would raise about $1.9tr over 10 years — annual receipts would be far too small to fund a one‑off payout, implying incremental borrowing and higher publicly held debt. At about 8% of median full‑time annual earnings, a $5,000 payment could materially boost consumption if more than 60% is spent, adding upward pressure to inflation; headline inflation is near 3.4%. Markets price roughly a 60% chance of a Fed rate hike this month, which could partially offset fiscal stimulus. The proposal requires congressional approval; prediction markets assign only about a 15% probability Republicans win both chambers, leaving large execution risk."
+    },
+    {
+      "id": "5087147",
+      "time": "2026-09-10 18:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美舉行首次太空實飛演習 測試對抗環境下行動能力】美國太空司令部8日釋出訊息稱，日前舉行了首次太空實飛演習，透過真實航天器開展在軌機動操作，測試美國在太空競爭和衝突環境下開展行動的相關理念和能力，驗證對抗環境下的後勤保障能力，推進與盟友及商業航天力量的協同。據介紹，此次演習代號為“2026阿波羅機動”，在9月第一週進行。演習主要圍繞三項任務開展：協調實施低地球軌道、中地球軌道和地球同步軌道上的機動行動；完善機動作戰理念，以改進未來行動規劃；以及將參與“奧林匹克捍衛者”行動的多國部隊以及商業航天力量納入演習。（新華社）"
+    },
+    {
+      "id": "5087146",
+      "time": "2026-09-10 18:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西警方就國會資金欺詐案展開行動。"
+    },
+    {
+      "id": "5087145",
+      "time": "2026-09-10 18:09:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行資料顯示，該國拍出價值7.66億列伊的2029年10月到期債券，平均中標收益率為6.54%。"
+    },
+    {
+      "id": "5087144",
+      "time": "2026-09-10 18:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞指責以色列總理非法入境】敘利亞過渡政府外交部9月9日發表宣告，譴責以色列總理內塔尼亞胡非法進入敘利亞領土，公然侵犯敘主權和領土完整，威脅地區安全和穩定。內塔尼亞胡當天在以色列佔領的戈蘭高地戰略要地赫爾蒙山聲稱，以軍已在敘利亞南部大片區域實現“絕對控制”，不表示以色列已“接近擊敗伊朗”。以防長卡茨當天在赫爾蒙山稱，以色列不會從敘利亞撤軍。以色列在1967年第三次中東戰爭中佔領戈蘭高地大部分地區，並一直拒絕歸還敘利亞。2024年12月敘利亞政局劇變後，以色列又佔領了戈蘭高地軍事緩衝區和赫爾蒙山，並持續對敘境內發動襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a08aca-c729-7118-8524-3f212c1f75c1",
+      "time": "2026-09-10 18:09:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Dubai Airport CEO says capacity has recovered to 84% of pre-war levels and passenger numbers to 78%."
+    },
+    {
+      "id": "5087143",
+      "time": "2026-09-10 18:08:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek V4.1 Flash上線超算網際網路】今天，DeepSeek正式釋出DeepSeek V4.1 Flash模型，作為其全新模型結構系列中的最小尺寸的模型，具備原生多模態視覺理解能力。超算網際網路即刻上線DeepSeek V4.1 Flash模型API服務與權重檔案。"
+    },
+    {
+      "id": "mkt:01a08aca-b18c-7118-8524-323e0f074315",
+      "time": "2026-09-10 18:08:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek launches V4.1 Flash on Supercomputing Internet】DeepSeek today released the V4.1 Flash model, the smallest in its new architecture series, featuring native multimodal visual understanding. The model's API and weight files are available immediately on the Supercomputing Internet platform."
+    },
+    {
+      "id": "5087142",
+      "time": "2026-09-10 18:08:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藍色預警：西藏東北部、青海南部等地部分地區可能發生山洪災害】水利部和中國氣象局9月10日18時聯合釋出藍色山洪災害氣象預警：預計，9月10日20時至11日20時，西藏東北部、青海南部等地部分地區可能發生山洪災害（藍色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
+    },
+    {
+      "id": "5087141",
+      "time": "2026-09-10 18:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【地質災害黃色預警：西藏南部區域性地區發生災害風險較高】自然資源部與中國氣象局9月10日18時聯合釋出黃色地質災害氣象風險預警：預計，9月10日20時至11日20時，西藏南部區域性地區發生地質災害的氣象風險較高（黃色預警）。"
+    },
+    {
+      "id": "5087140",
+      "time": "2026-09-10 18:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟境汽車回應媒體群誤發“小米澎程攻防”資訊：並非策劃攻擊、拉踩友商】9月10日，針對在媒體群誤發“小米澎程攻防”相關資訊，啟境汽車釋出說明作出回應。“相關工作人員操作失誤，發現後又因處置倉促解散了群。”啟境汽車表示，“關注市場、瞭解行業資訊是新品上市前的常規工作，截圖中的‘攻防’，是內部對同期產品進行資訊監測、差異梳理和事實核驗的工作用語，並非策劃攻擊、拉踩友商。但這個詞用得不妥，誤發和解散群的處理也不專業。給大家添麻煩了，跟各位說聲抱歉。我們會認真覆盤，改進管理。”"
+    },
+    {
+      "id": "5087139",
+      "time": "2026-09-10 18:08:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜機場執行長：目前運力已恢復至戰前水平的84%，客流量恢復至戰前的78%。"
+    },
+    {
+      "id": "5087138",
+      "time": "2026-09-10 18:08:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【三鑫醫療：擬以2000萬元-4000萬元回購公司股份】三鑫醫療公告，擬使用自有資金以集中競價交易方式回購公司A股股份，回購資金總額不低於人民幣2000萬元且不超過人民幣4000萬元，回購價格不超過人民幣14.56元/股，回購股份擬用於轉換公司發行的可轉換為股票的公司債券，實施期限為董事會審議透過回購方案之日起六個月內。"
+    },
+    {
+      "id": "5087137",
+      "time": "2026-09-10 18:07:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【近5000噸侵權假冒偽劣商品被銷燬】今天（10日），國家質量強國建設協調推進領導小組辦公室、市場監管總局聯合組織開展2026年侵權假冒偽劣商品全國統一銷燬行動，全國25個省（區、市）同步開展侵權假冒偽劣商品銷燬工作。此次行動共銷燬侵權假冒偽劣食品藥品、服裝鞋帽、菸酒、化妝品、盜版出版物、燃氣灶具、汽車配件、電子電器、消防產品等200多個品種，涉及諸多國內外知名品牌，總量達4938噸、貨值約8.58億元，全部採取綠色環保方式進行無害化處理。（央視財經）"
+    },
+    {
+      "id": "te:economy:582739",
+      "time": "2026-09-10 18:07:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Rwanda",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Rwanda Inflation Rate Continues to Soar — Rwanda's overall inflation rate climbed further to 15.9% in August 2026, a fresh high since September 2023, from 13.8% in July. Inflation has now accelerated for five consecutive months. Strong price pressures stemmed from transportation (27.5% vs 27.5% in July); communications (27.6%); housing & utlities (19.9% vs 20.5%); food & non-alcoholic beverages (16.7% vs 12.6%) and restaurants & hotels (13.7% vs 12.8%). On a monthly basis, the CPI surged by 2.6%, the steepest increase in four motnhs, after a 0.3% rise in the prior month."
+    },
+    {
+      "id": "5087136",
+      "time": "2026-09-10 18:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康鵬科技：2026年上半年營收3.11億元 同比降28.72%】康鵬科技公告稱，2026年上半年實現營業收入3.11億元，同比下降28.72%；歸屬於上市公司股東的淨虧損0.41億元，同比由盈轉虧；扣除非經常性損益的淨虧損0.47億元。業績變動主要系CDMO業務下降明顯，境外業務佔比同比降幅明顯，銷售產品結構變化致主營業務收入毛利率同比降低14.69個百分點。2026年上半年公司終止部分募投專案、延期醫用多肽製造能力提升專案至2027年6月；獨立董事王悅離任，選舉唐菂為新任獨立董事。"
+    },
     {
       "id": "mkt:01a08ac9-10de-7118-8524-29b72e3993a3",
       "time": "2026-09-10 18:07:07",
@@ -124167,85 +124304,6 @@
         "公司"
       ],
       "text": "【安道麥A：董事長秦恆德因工作安排辭職】安道麥A公告稱，公司董事會近日收到秦恆德的辭職通知，秦恆德因先正達集團工作安排，辭去公司董事、董事長、董事會審計委員會委員職務，辭職後將不再擔任公司及子公司任何職務。在股東大會選舉新任董事前，秦恆德仍需按規定履行董事及審計委員會相關職責。本次辭職不會導致董事會成員低於法定最低人數，不影響董事會正常運作，公司將盡快完成新任董事、董事長及審計委員會委員的補選。截至公告日，秦恆德未持有公司股份，無未履行的公開承諾。"
-    },
-    {
-      "id": "5075287",
-      "time": "2026-09-03 18:11:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部與中國氣象局聯合釋出橙色地質災害氣象風險預警】自然資源部與中國氣象局9月3日18時聯合釋出橙色地質災害氣象風險預警，預計，9月3日20時至4日20時，浙江南部、福建東部和南部、江西南部、湖南南部、廣東東部、西藏南部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，浙江南部、福建東部和南部、江西西南部、湖南東南部等地部分地區發生地質災害的氣象風險高（橙色預警）。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a066bf-f22b-7118-8480-e2ee0e8e700b",
-      "time": "2026-09-03 18:10:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Natural Resources and China Meteorological Administration issue orange geological-hazard weather risk warning】The Ministry of Natural Resources and China Meteorological Administration issued an orange meteorological risk warning for geological hazards at 18:00 on Sept 3. From 20:00 Sept 3 to 20:00 Sept 4, meteorological risk of geological disasters is elevated (yellow warning) in parts of southern Zhejiang, eastern and southern Fujian, southern Jiangxi, southern Hunan, eastern Guangdong and southern Tibet; parts of southern Zhejiang, eastern and southern Fujian, southwest Jiangxi and southeast Hunan carry high risk (orange warning)."
-    },
-    {
-      "id": "mkt:01a066bf-deb2-7118-8480-dc3003d04a37",
-      "time": "2026-09-03 18:10:45",
-      "tags": [
-        "MKT News",
-        "02899.HK",
-        "Impact bearish"
-      ],
-      "text": "HKEX filing: JP Morgan's long position in Zijin Mining (02899.HK) H-shares fell from 14.54% to 13.84% on Aug 28, a decline of 0.70 percentage point."
-    },
-    {
-      "id": "5075286",
-      "time": "2026-09-03 18:10:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通在紫金礦業集團<2899.HK>H股的持倉比例於8月28日由14.54%降至13.84%。"
-    },
-    {
-      "id": "mkt:01a066be-0aa2-7118-8480-d2fa86775fe3",
-      "time": "2026-09-03 18:08:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Putin: Russian forces are accelerating their pace of advance in the special operation theater."
-    },
-    {
-      "id": "5075285",
-      "time": "2026-09-03 18:08:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "超光速醫藥宣佈完成由BVF合夥人領投的融資，現有投資者英偉達、禮來公司、科利律所及Gaingels等參投。"
-    },
-    {
-      "id": "5075284",
-      "time": "2026-09-03 18:08:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "ORLEN執行長法法拉表示，對Azoty聚烯烴交易能很快達成持樂觀態度。"
-    },
-    {
-      "id": "mkt:01a066bd-6967-7118-8480-cf0c400aede2",
-      "time": "2026-09-03 18:08:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UGA says Ukraine's grain and oilseed exports fell to 1.2 mln tonnes in August from 2.5 mln tonnes in July."
-    },
-    {
-      "id": "5075283",
-      "time": "2026-09-03 18:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭貿易商聯盟UGA表示，8月烏克蘭穀物和油籽總出口量從7月的250萬噸降至120萬噸。"
     }
   ]
 }
