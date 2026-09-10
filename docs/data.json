@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-10 13:41:04",
-  "count": 13546,
+  "updated": "2026-09-10 13:45:03",
+  "count": 13548,
   "items": [
+    {
+      "id": "5086445",
+      "time": "2026-09-10 13:44:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀將上調人工智慧處理器價格？公司回應：無類似公告發布，不要信市場訊息】9月10日，有訊息稱寒武紀等在內的國產晶片製造商將上調人工智慧處理器價格，記者就此事致電寒武紀證券部，相關人士回應稱：“公司沒有釋出過類似漲價公告，（投資者）不要信市場訊息。”資料顯示，寒武紀提供雲邊端一體、軟硬體協同、訓練推理融合、具備統一生態的系列化智慧晶片產品和平臺化基礎系統軟體。產品廣泛應用於伺服器廠商和產業公司，面向網際網路、金融、交通、能源、電力和製造等領域的複雜AI應用場景提供算力。（財聞）"
+    },
+    {
+      "id": "mkt:01a089d8-1d53-7118-851b-3698d1050c29",
+      "time": "2026-09-10 13:43:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "A Bank of Japan policymaker said the yen's appreciation and rising crude oil and global food prices will be fully reviewed at next week's meeting ahead of an interest-rate decision."
+    },
+    {
+      "id": "5086444",
+      "time": "2026-09-10 13:43:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek Harness更新，適配DeepSeek V4.1 Flash模型】9月10日訊息，DeepSeek Harness v0.1.5版本現已釋出。新版本與DeepSeek V4.1 Flash模型訓練深度結合，模型在DeepSeek Harness的不同配置中都進行了專項訓練和最佳化。同時，新版DeepSeek Harness為外掛作者提供了更多標準化的UI擴充套件入口，新增了檔案上傳、側邊欄檔案預覽等功能，最佳化了UI的效能與互動，並持續增加與模型研究前沿深度結合的實驗性功能。"
+    },
+    {
+      "id": "5086443",
+      "time": "2026-09-10 13:43:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥板塊震盪走弱，瀘天化跌停】化肥板塊震盪走弱，瀘天化跌停，金正大、農大科技、赤天化、天禾股份、潞化科技、紅四方等跟跌。"
+    },
+    {
+      "id": "5086442",
+      "time": "2026-09-10 13:42:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "增一行：日本央行的政策利率維持在估算的“中性水平”區間之下，這並不符合常態。"
+    },
+    {
+      "id": "mkt:01a089d6-4aff-7118-851b-299187f2a32b",
+      "time": "2026-09-10 13:41:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Masu, a Bank of Japan policy board member, said it is unnatural for the central bank's policy rate to be below its estimated neutral range."
+    },
+    {
+      "id": "mkt:01a089d6-2fe0-7118-851b-2393607a3221",
+      "time": "2026-09-10 13:41:50",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Masu, a Bank of Japan policy board member, said the BOJ's policy rate remains below our estimate of the neutral-rate range and has been below that level for an extended period, so the issue needs to be resolved as soon as possible."
+    },
+    {
+      "id": "5086441",
+      "time": "2026-09-10 13:41:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "增一行：需確認利率為1.25%時金融環境是否寬鬆。"
+    },
+    {
+      "id": "5086440",
+      "time": "2026-09-10 13:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度與馬來西亞探討簽署農業聯合研究諒解備忘錄。"
+    },
+    {
+      "id": "5086439",
+      "time": "2026-09-10 13:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026藥品數智發展大會在重慶召開】由國家藥監局資訊中心主辦的2026藥品數智發展大會9月9日至10日在重慶召開，國家藥監局黨組成員、副局長雷平出席並致辭。雷平指出，近年來，國家藥監局堅持系統謀劃、基礎先行，把人工智慧應用納入智慧監管建設全域性統籌推進，目前頂層設計基本成型、數智底座初具規模、實戰應用多點突破，智慧監管基礎能力和應用水平顯著提升。雷平強調，面對智慧監管提質升級的新要求，要堅持“一盤棋謀劃、一體化建設、一張網監管”，以貫徹落實《關於“人工智慧+藥品監管”的實施意見》為主線，以資料要素為驅動、以場景應用為牽引，推動“人工智慧+藥品監管”走深走實。"
+    },
     {
       "id": "mkt:01a089d4-cefc-7118-851b-1c53aeffd609",
       "time": "2026-09-10 13:40:20",
@@ -123528,93 +123624,6 @@
         "Importance 1"
       ],
       "text": "Rupiah Firms Amid Weaker Dollar, New BI Governor’s Pledge — The Indonesian rupiah traded below IDR 17,700 per U.S. dollar on Thursday, strengthening for a second straight session as the dollar index extended its slide. The greenback was pressured by a sharp yen rally amid speculation of Japanese intervention following a rate check. Domestically, Destry Damayanti was sworn in Wednesday as Bank Indonesia’s first female governor, vowing responsive policy to balance stability and growth. She also raised the 2027 growth outlook to 5.2%-6%, with the upper end marking the strongest pace since 2012. A narrow trade surplus in July also lent support, as stronger non-oil and gas exports helped offset a surge in imports, particularly fuel. Gains were capped, however, by caution ahead of next week's foreign exchange reserves and consumer confidence data. Meanwhile, inflationary pressures intensified, with August headline inflation accelerating from July's three-month low on higher food prices and core inflation climbing to its highest since March 2023."
-    },
-    {
-      "id": "5074607",
-      "time": "2026-09-03 13:45:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念再度拉昇 宏盛股份4天2板】午後液冷伺服器概念再度拉昇，宏盛股份4天2板，此前集泰股份、新朋股份、金帝股份、金富科技漲停，思泉新材、鴻富瀚、同飛股份均漲超10%。"
-    },
-    {
-      "id": "te:markets:580739",
-      "time": "2026-09-03 13:44:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Equities End 0.6% Lower — New Zealand stocks fell 84 points, or 0.6%, to close at 13,846 on Thursday, halting gains in the previous session, mainly weighed down by the technology, consumer discretionary, and industrial sectors. Traders continued to assess Wednesday’s RBNZ monetary policy decision to hike interest rates by 25 bps. The RBNZ signaled its determination to return price growth to its 1% to 3% target range. Meanwhile, a rally on Wall Street overnight prevented the index from falling further, buoyed by solid gains in heavyweight technology stocks. On the data front, New Zealand’s terms of trade fell further, with exports rising less than imports. The latest data followed Wednesday’s figures, with consumer confidence also easing in August. Among the decliners were Gentrack Group (-3.7%), Fletcher Building (-2.3%), A2 Milk (-2.1%), Chorus (-1.9%), Briscoe Group (-1.8%), Mainfreight (-1.5%), and Freightways Group (-1.1%)."
-    },
-    {
-      "id": "5074606",
-      "time": "2026-09-03 13:42:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "國債期貨午後漲幅擴大，30年期主力合約漲0.41%，10年期主力合約漲0.1%，5年期主力合約漲0.04%，2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:01a065ca-4bab-7118-8476-981290db3395",
-      "time": "2026-09-03 13:42:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bullish",
-        "AMZN.O",
-        "GOOGL.O"
-      ],
-      "text": "【MOODY'S: Cloud computing remains primary channel for AI monetization】MOODY'S rating analysts said in a report that cloud computing remains the primary channel for AI monetization. They said large U.S. cloud providers stand to benefit from larger, more mature cloud franchises and broad enterprise and consumer bases, which provide a clearer path to monetizing AI and could support funding for higher capex."
-    },
-    {
-      "id": "5074605",
-      "time": "2026-09-03 13:42:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌幅快速收窄至0.3%，午後一度跳水跌1.8%。"
-    },
-    {
-      "id": "mkt:01a065c9-ee27-7118-8476-92fcfc1e0b84",
-      "time": "2026-09-03 13:42:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran warns US-Iran clash could be 'prelude to larger-scale war'】Iranian state and local media said a US strike near Sirik in southern Iran on the night of Sept. 1-2 killed civilians, including children; Tehran condemned the attack as a war crime. Ali Akbar Dareini, a researcher at Tehran's Center for Strategic Studies, told Al Jazeera the strike \"cannot be ignored\" and said Iran must respond, warning it could be a \"prelude to a larger-scale war.\" He said the US appears to be combining sanctions, a maritime blockade and military strikes to try to force Iran to surrender."
-    },
-    {
-      "id": "mkt:01a065c9-51e2-7118-8476-8e8f01ee62cd",
-      "time": "2026-09-03 13:41:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude down 1.00% intraday, trading at $88.23/bbl."
-    },
-    {
-      "id": "mkt:01a065c8-fcaf-7118-8476-837a1171fab0",
-      "time": "2026-09-03 13:41:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Philippines reconsiders large five-year bond sale after peso slide, rising yields】Philippine authorities are reassessing a planned large five-year bond sale later this month after peso depreciation and higher yields pushed up borrowing costs. The finance minister said the June-designed plan is being reviewed to keep financing flexible amid worsening Middle East tensions; a decision on this month’s auction will be announced shortly. Fund managers in Manila say persistent inflation means the central bank may continue raising rates, leaving investors cautious, delaying entries and potentially reallocating into next year."
     }
   ]
 }
