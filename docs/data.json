@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-11 02:01:52",
-  "count": 13666,
+  "updated": "2026-09-11 02:05:49",
+  "count": 13668,
   "items": [
+    {
+      "id": "mkt:01a08c7e-bf84-7118-8532-f143e9100987",
+      "time": "2026-09-11 02:05:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury carried out $5.187 billion of 10- to 20-year liquidity repurchase operations on Sept. 10."
+    },
+    {
+      "id": "5088084",
+      "time": "2026-09-11 02:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：近日與特朗普進行會談，討論了烏克蘭相關事宜。"
+    },
+    {
+      "id": "mkt:01a08c7e-6938-7118-8532-ed3b8e8efe08",
+      "time": "2026-09-11 02:04:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canadian Prime Minister Carney said he recently spoke with U.S. President Trump."
+    },
+    {
+      "id": "5088083",
+      "time": "2026-09-11 02:04:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率盤中上漲10個基點至4.94%。"
+    },
+    {
+      "id": "5088082",
+      "time": "2026-09-11 02:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員將宣佈環孢子蟲病疫情結束。"
+    },
+    {
+      "id": "5088081",
+      "time": "2026-09-11 02:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼稱近日已與特朗普通話。"
+    },
+    {
+      "id": "5088080",
+      "time": "2026-09-11 02:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱伊朗恢復生產彈道導彈】據美國《華爾街日報》當地時間9月10日援引美國和中東知情官員訊息報道，“伊朗已利用庫存零部件在地下設施內恢復生產彈道導彈。”報道稱，儘管伊朗目前主要是利用現有部件以“更有限的規模”組裝新導彈，但這仍削弱了美國和以色列所吹噓的此次戰爭的“重大戰果”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5088079",
+      "time": "2026-09-11 02:03:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部接受40項符合條件的債務回購計劃中的23項，美國財政部收到104.89億美元的回購要約，接受了51.9億美元。國債回購目標是2037年至2046年到期的債券。"
+    },
+    {
+      "id": "mkt:01a08c7d-3402-7118-8532-e5bc5cf08ff9",
+      "time": "2026-09-11 02:03:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ukrainian President Zelenskiy said he hopes energy and grain talks will make progress after a meeting with US President Trump at the end of September."
+    },
     {
       "id": "5088078",
       "time": "2026-09-11 02:00:57",
@@ -124754,66 +124834,6 @@
         "國際"
       ],
       "text": "萬斯：美國正在調查據稱發生的伊朗婚禮遇襲事件，但對此持 “懷疑態度”。"
-    },
-    {
-      "id": "5076028",
-      "time": "2026-09-04 02:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：重申西班牙並未足額繳納北約應承擔費用。"
-    },
-    {
-      "id": "5076027",
-      "time": "2026-09-04 02:04:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據一份法庭檔案，國際足聯指控歐足聯對其以及主席詹尼・因凡蒂諾發起 “抹黑攻勢”，雙方圍繞出售該機構商業權益股份的提案遭擱置一事的爭端進一步升級。"
-    },
-    {
-      "id": "mkt:01a06871-0075-7118-848e-76f2a79e0d89",
-      "time": "2026-09-04 02:03:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. Vice President Vance said he will not commit to a timeline for lowering oil prices."
-    },
-    {
-      "id": "mkt:01a06870-60da-7118-848e-6be6aab6ceb0",
-      "time": "2026-09-04 02:03:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Defense Secretary Hegseth is an outstanding minister."
-    },
-    {
-      "id": "mkt:01a06870-4a7e-7118-848e-611c0c885a14",
-      "time": "2026-09-04 02:03:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the United States never targets civilians in combat and never will."
-    },
-    {
-      "id": "5076026",
-      "time": "2026-09-04 02:02:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：赫格塞思是一位極為出色的國防部長。"
-    },
-    {
-      "id": "5076025",
-      "time": "2026-09-04 02:02:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：美國在作戰中從不以平民為襲擊目標，今後也永遠不會。我認為我們沒有掌握關於這起婚禮襲擊事件的任何資訊。"
     }
   ]
 }

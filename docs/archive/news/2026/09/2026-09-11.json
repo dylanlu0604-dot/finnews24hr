@@ -1,7 +1,87 @@
 {
   "date": "2026-09-11",
-  "count": 198,
+  "count": 207,
   "items": [
+    {
+      "id": "mkt:01a08c7e-bf84-7118-8532-f143e9100987",
+      "time": "2026-09-11 02:05:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury carried out $5.187 billion of 10- to 20-year liquidity repurchase operations on Sept. 10."
+    },
+    {
+      "id": "mkt:01a08c7e-6938-7118-8532-ed3b8e8efe08",
+      "time": "2026-09-11 02:04:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canadian Prime Minister Carney said he recently spoke with U.S. President Trump."
+    },
+    {
+      "id": "5088084",
+      "time": "2026-09-11 02:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：近日與特朗普進行會談，討論了烏克蘭相關事宜。"
+    },
+    {
+      "id": "5088083",
+      "time": "2026-09-11 02:04:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率盤中上漲10個基點至4.94%。"
+    },
+    {
+      "id": "5088082",
+      "time": "2026-09-11 02:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員將宣佈環孢子蟲病疫情結束。"
+    },
+    {
+      "id": "5088081",
+      "time": "2026-09-11 02:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼稱近日已與特朗普通話。"
+    },
+    {
+      "id": "5088080",
+      "time": "2026-09-11 02:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱伊朗恢復生產彈道導彈】據美國《華爾街日報》當地時間9月10日援引美國和中東知情官員訊息報道，“伊朗已利用庫存零部件在地下設施內恢復生產彈道導彈。”報道稱，儘管伊朗目前主要是利用現有部件以“更有限的規模”組裝新導彈，但這仍削弱了美國和以色列所吹噓的此次戰爭的“重大戰果”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a08c7d-3402-7118-8532-e5bc5cf08ff9",
+      "time": "2026-09-11 02:03:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ukrainian President Zelenskiy said he hopes energy and grain talks will make progress after a meeting with US President Trump at the end of September."
+    },
+    {
+      "id": "5088079",
+      "time": "2026-09-11 02:03:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部接受40項符合條件的債務回購計劃中的23項，美國財政部收到104.89億美元的回購要約，接受了51.9億美元。國債回購目標是2037年至2046年到期的債券。"
+    },
     {
       "id": "5088078",
       "time": "2026-09-11 02:00:57",
