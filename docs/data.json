@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-10 18:30:37",
-  "count": 13642,
+  "updated": "2026-09-10 18:34:25",
+  "count": 13641,
   "items": [
+    {
+      "id": "mkt:01a08ae1-7dd4-7118-8525-2540267f6a2d",
+      "time": "2026-09-10 18:33:48",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA effect helps Israel lift growth forecast】Israel’s finance ministry chief economist said GDP growth is now expected to exceed prior forecasts, driven largely by revenue from NVIDIA’s large R&D centre in the country. The so‑called “NVIDIA effect” has prompted upward GDP revisions over the past two years and is expected to deliver a similar boost this year. The economist projects annual growth above 4% this year, versus prior official forecasts and an analysts’ survey median of 3.6%; GDP expanded 3.2% in 1H."
+    },
+    {
+      "id": "5087194",
+      "time": "2026-09-10 18:33:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞浦蘭鈞：網傳“限制員工如廁”等說法與事實不符 將進一步完善員工溝通機制】瑞浦蘭鈞公司發表宣告稱，針對近期網路傳播的相關影片，經核實，該事件發生於該公司嘉善基地。瑞浦蘭鈞稱，當事員工因個人原因，主動提出離職申請並要求即時辦結。依據公司管理流程，手續辦理需一定時限，雙方未能就辦結時間達成一致，隨後該員工情緒失控，做出過激行為。事發當日，在公安機關的見證下，該事件已得到妥善解決。宣告表示，網傳“限制員工如廁”等說法與事實不符，我司已向公安機關報案。瑞浦蘭鈞公司還表示，將進一步完善員工溝通機制，持續強化企業合規管理。"
+    },
+    {
+      "id": "5087193",
+      "time": "2026-09-10 18:33:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "南方銅業股價盤前下跌3.6%。"
+    },
+    {
+      "id": "mkt:01a08ae0-b80f-7118-8525-1a2aa8efb129",
+      "time": "2026-09-10 18:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhongwei says about 800 reactor platforms delivered to overseas leading logic customers】At its Sept. 10 semiannual results meeting, Zhongwei said it has delivered roughly 800 reactor platforms to overseas leading logic customers and has a solid overseas customer base. The company said its products use wholly independent IP, international competitiveness is rising, and recent designs deliver a smaller footprint and higher throughput. Zhongwei is engaging additional overseas prospects and continuing to expand its international sales."
+    },
+    {
+      "id": "5087192",
+      "time": "2026-09-10 18:32:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中微公司：目前在海外最先進邏輯客戶已累計交付約800個反應臺】在9月10日的半年度業績會上，中微公司董事長、總經理尹志堯介紹海外銷售情況時表示，公司具備較好的海外客戶基礎，目前在海外最先進邏輯客戶已經累計交付約800個反應臺。公司強調完全自主智慧財產權，產品的國際競爭力在不斷提升，實現更小的佔地面積，更高的輸出量。公司在持續對接更多海外意向客戶，持續拓展海外市場。"
+    },
+    {
+      "id": "5087191",
+      "time": "2026-09-10 18:32:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內跌0.70%。"
+    },
+    {
+      "id": "mkt:01a08ae0-39a7-7118-8525-1495506e2937",
+      "time": "2026-09-10 18:32:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than $1 intraday to $66.26/oz, down 1.50%."
+    },
+    {
+      "id": "5087190",
+      "time": "2026-09-10 18:32:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所：對部分客戶採取限制開倉監管措施】上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年9月10日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "5087189",
+      "time": "2026-09-10 18:32:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "NSDL：全球基金在前一交易日淨賣出價值103億盧比的印度股票。"
+    },
+    {
+      "id": "5087188",
+      "time": "2026-09-10 18:31:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "自由港麥克莫蘭公司盤前股價下跌幅度擴大至5.3%。"
+    },
+    {
+      "id": "5087186",
+      "time": "2026-09-10 18:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超2.00%，現報14471.500美元/噸。"
+    },
+    {
+      "id": "mkt:01a08ade-5017-7118-8525-0e53fd2bef84",
+      "time": "2026-09-10 18:30:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi open-sources embodied world model for robotics】Xiaomi Technology announced it has fully open-sourced the Xiaomi‑Robotics‑U0 embodied world‑model training framework and model weights. The release includes 4B and 34B model weights and supports embodied-scene generation and editing, single-image generation, image editing, video generation and interleaved image‑text sequence generation, along with training and inference frameworks for world‑model, embodied‑intelligence and robotics application research. Xiaomi said the move aims to lower technical barriers and accelerate exploration and deployment of world‑model technology in real-robot scenarios."
+    },
+    {
+      "id": "te:markets:582746",
+      "time": "2026-09-10 18:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.19% Higher — The SENSEX Index rose 138 points or 0.19 percent on Thursday to close at 74903 points. Leading the gains are Power Grid (1.94%), Bharti Airtel (1.12%) and Tech Mahindra (0.88%). Top losers were HCL Tech (-2.50%), Tata Steel (-1.51%) and Indusind Bank (-1.29%)."
+    },
+    {
+      "id": "5087185",
+      "time": "2026-09-10 18:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國足協：不再支援因凡蒂諾競選連任國際足聯主席】當地時間9月10日，法國足協宣佈，不再支援國際足聯主席詹尼·因凡蒂諾競選連任。法國足協當天在總部召開執行委員會會議，並作出上述決定。目前，因凡蒂諾是定於2027年3月18日舉行的國際足聯主席選舉中唯一已經宣佈參選的候選人。儘管外界不斷要求其辭職，且已有包括瑞典、蘇格蘭、義大利、比利時等足球協會和洲際足聯撤回對他的支援，因凡蒂諾仍堅持競選連任。（央視新聞）"
+    },
     {
       "id": "mkt:01a08add-ccb1-7118-8525-01fff53c85d6",
       "time": "2026-09-10 18:29:46",
@@ -211,6 +337,15 @@
         "Impact bearish"
       ],
       "text": "【Novartis major shareholder urges board overhaul, criticizes acquisition record】David Samra, a major shareholder in Novartis (NVS.N), urged a board overhaul to improve governance, saying the company's acquisition record has been \"disappointing\" and pressing chairman Giovanni Caforio to act. Samra said the board should replace or upgrade the team responsible for deals, calling their performance at best \"mediocre.\" His demand follows Tuesday's late-stage trial failure of a muscular dystrophy candidate from Novartis's $12bn acquisition of US firm Avidity, which sent the stock down more than 10% and wiped nearly $30bn off market value. Results for the heart drug pelacarsen disappointed investors the previous day."
+    },
+    {
+      "id": "em:qqyh_mlc:202609103870684075",
+      "time": "2026-09-10 18:26:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲下週會否加息？今明兩份通脹資料將定調；胡塞武裝奪取穆哈港，EIA上調油價預測；瑞銀：美債危機下美股尤其脆弱；甲骨文財報盤後公佈；閃迪稱NAND供給將長期偏弱。"
     },
     {
       "id": "5087174",
@@ -124277,136 +124412,6 @@
         "公司"
       ],
       "text": "【華緯科技：向不特定物件發行可轉債申請獲證監會同意註冊批覆】華緯科技(001380)9月3日公告，公司於近日收到中國證監會批覆，同意公司向不特定物件發行可轉換公司債券的註冊申請。"
-    },
-    {
-      "id": "5075337",
-      "time": "2026-09-03 18:34:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【市北高新：參與投資的私募基金完成備案】市北高新公告稱，公司參與投資設立的上海東證新靜界私募投資基金合夥企業（有限合夥）已完成全部5100萬元實繳出資，資金募集完畢，且已於2026年9月2日在中國證券投資基金業協會完成私募投資基金備案，取得備案證明。公司作為有限合夥人認繳出資2500萬元，佔基金總認繳出資額的48.08%。該基金管理人為上海東方證券資本投資有限公司，託管人為中國銀行股份有限公司。"
-    },
-    {
-      "id": "5075336",
-      "time": "2026-09-03 18:34:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“科羅旺”已進入48小時警戒線】據央視新聞，截至今天17時，今年第24號颱風“科羅旺”在距離琉球群島那霸市東北方向約185公里洋麵上，目前是熱帶風暴級。颱風“科羅旺”已進入48小時警戒線。預計，將以每小時15公里左右的速度向北偏西方向移動，強度變化不大。今天夜間移入東海東部，強度變化不大。"
-    },
-    {
-      "id": "mkt:01a066d5-1f21-7118-8481-72a75dcaebea",
-      "time": "2026-09-03 18:33:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Putin: Russia-US contacts continue, hopes for results】At the Eastern Economic Forum on Sept 3, Putin said Russia-US contacts continue and there is hope of achieving results. He said Russia supports fully restoring relations with the US, but any cooperation with the West must be based on equality and mutual respect. Putin added that Russia’s economic ties with Asia, the Middle East and Africa are expanding, which helps mitigate sanctions pressure."
-    },
-    {
-      "id": "5075335",
-      "time": "2026-09-03 18:33:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬訊自控：股東傅曉陽持股比例被動稀釋0.21%】萬訊自控公告稱，因萬訊轉債轉股致公司總股本增加，公司持股5%以上股東傅曉陽持股比例由6.15%被動稀釋至5.94%，權益變動比例為-0.21%。本次權益變動不涉及股東持股數量變化，不涉及增持或減持，不涉及要約收購，不會導致公司控股股東及實際控制人發生變化，不會影響公司的治理結構和持續經營。本次變動前後，傅曉陽持有公司股份均為1770.79萬股，其中無限售條件股份447.70萬股，有限售條件股份1323.09萬股。"
-    },
-    {
-      "id": "5075334",
-      "time": "2026-09-03 18:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：俄美接觸仍在繼續 有望取得成果】當地時間9月3日，俄羅斯總統普京在第十一屆東方經濟論壇全體會議上表示，俄美接觸仍在繼續，有希望取得成果。俄方支援全面恢復與美方的關係。普京指出，俄羅斯不拒絕與西方合作，但必須建立在平等和相互尊重的基礎上。他還強調，俄羅斯與亞洲、中東、非洲等地區的經濟聯絡正在積極發展，這有助於減輕制裁壓力。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a066d3-e248-7118-8481-6ef8b0f567fc",
-      "time": "2026-09-03 18:32:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said the central bank will weigh incoming data and assess their implications for inf, the economy and the monetary policy outlook."
-    },
-    {
-      "id": "5075333",
-      "time": "2026-09-03 18:32:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【眾泰汽車：處置專戶22014428股被裁定解除司法凍結】眾泰汽車公告，公司破產企業財產處置專用賬戶所持本公司4398.8萬股股票被深圳市羅湖區人民法院司法凍結；2026年9月3日，法院因凍結股票數量可能超出本案執行標的金額，裁定解除處置專戶名下2201.44萬股股票的凍結。累計被司法凍結6565.85萬股，佔公司總股本1.30%。"
-    },
-    {
-      "id": "mkt:01a066d3-a894-7118-8481-65bdd3cef5f8",
-      "time": "2026-09-03 18:32:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank governor Thedéen said there is slack in the labor market, so growth could occur in the short term without materially increasing inf pressure."
-    },
-    {
-      "id": "mkt:01a066d3-7ed2-7118-8481-5f2b981921bc",
-      "time": "2026-09-03 18:32:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said inf risks are unclear."
-    },
-    {
-      "id": "mkt:01a066d3-7616-7118-8481-5443fed934ba",
-      "time": "2026-09-03 18:32:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said he has not yet seen clear signs of a sustained, sizeable rebound in inf, but the bank must remain highly vigilant to rising inf."
-    },
-    {
-      "id": "5075332",
-      "time": "2026-09-03 18:32:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行行長特丁：目前我們尚未看到通脹出現持續、普遍回升的明確跡象，但我們必須對通脹上升保持高度警惕。"
-    },
-    {
-      "id": "mkt:01a066d3-4eae-7118-8481-4c06bfcbaea5",
-      "time": "2026-09-03 18:31:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Riksbank Governor Thedéen said he noted in August that the recovery in economic activity was becoming more solid, and last week's GDP growth data further confirmed that assessment."
-    },
-    {
-      "id": "5075331",
-      "time": "2026-09-03 18:31:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行行長特丁：我在8月就曾指出，當前經濟活動的上行走勢根基已更為穩固。上週公佈的國內生產總值增長資料印證了這一判斷。"
-    },
-    {
-      "id": "5075330",
-      "time": "2026-09-03 18:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門媒體稱，政府軍與胡塞武裝在葉門塔伊茲以西多個戰線持續發生衝突。"
-    },
-    {
-      "id": "5075329",
-      "time": "2026-09-03 18:30:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲意電氣：擬405萬元參設合資公司 佈局燃料電池領域】雲意電氣公告稱，公司擬與雲創智聯、極星智算、邁科思新、付紅玲、孟喜柱共同出資設立江蘇羿能能源科技有限公司，專注於固體氧化物燃料電池產品的研發、生產和銷售。合資公司註冊資本2000萬元，公司以自有資金認繳405萬元，持股20.25%。本次交易因公司實控人、董事長兼總經理付紅玲直接持股且為雲創智聯執行事務合夥人，構成關聯交易，不構成重大資產重組。該事項已經公司董事會審議透過，關聯董事已迴避表決，無需提交股東會審議。合資公司設立及後續運營存在工商審批、研發及市場拓展不及預期等風險。"
-    },
-    {
-      "id": "5075328",
-      "time": "2026-09-03 18:30:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲意電氣：擬設合資公司 轉讓子公司部分股權】雲意電氣公告稱，公司擬將全資子公司南京雲意機器人有限公司部分股權轉讓予其員工持股平臺，關聯董事付紅玲、李成忠已迴避表決。公司擬與付紅玲等多方共同出資設立江蘇羿能能源科技有限公司，註冊資本2000萬元，公司認繳405萬元，佔比20.25%，該交易構成關聯交易，不構成重大資產重組，關聯董事已迴避表決。此外，董事會同意續聘中匯會計師事務所為公司2026年度財務及內部控制審計機構，該事項尚需提交股東會審議。"
     }
   ]
 }
