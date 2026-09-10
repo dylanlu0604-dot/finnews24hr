@@ -1,7 +1,3471 @@
 {
   "date": "2026-09-10",
-  "count": 2042,
+  "count": 2405,
   "items": [
+    {
+      "id": "te:economy:582850",
+      "time": "2026-09-10 22:11:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventory Growth at 4-Month High — US wholesale inventories rose by 1.3% month-over-month to $958.9 billion in July 2026, matching the advance estimate and following an upwardly revised 0.4% increase in June. This marked the sixth consecutive month of growth in wholesale inventories and the strongest increase since March. Nondurable goods inventories rose 1.6% in July, rebounding from a 0.3% decline in June, while durable goods inventories increased 1.1%, up from a 0.8% rise in June. On a yearly basis, wholesale inventories advanced by 5.7%, as previously estimated."
+    },
+    {
+      "id": "te:markets:582848",
+      "time": "2026-09-10 22:11:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Falls Toward One-Week Low — Platinum fell below $1,820 an ounce, moving toward its lowest level in a week, as the metal remained influenced by near-term investment flows while traders assessed prospects monetary tightening across major economies, weighing on demand for the non-yielding metal. The World Platinum Investment Council revised its 2026 market forecast to a surplus, with total demand set to fall 18%, driven by reduced demand for Chinese jewelry, which plunged 32%, and from automakers, which declined 6%. Additionally, heightened economic uncertainty stemming from the conflict in the Middle East has increased expectations of monetary tightening across major economies. The ECB hiked its policy rate at its September meeting, while a rise in US producer inflation led investors to increase bets on a Fed rate hike at its meeting next week, further dampening demand for platinum. In the long term, however, industrial demand provides some support, underpinned by the rapid build-out of artificial intelligence."
+    },
+    {
+      "id": "5087821",
+      "time": "2026-09-10 22:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI已與多家電力企業會面 探討電網安全方案】OpenAI透露，該公司已與多家頭部電力企業代表會面，探討保障電網安全的方案。而這些會談舉行之際，外界正接連曝光，OpenAI自身產品捲入了一場大規模網路攻擊事件。公司執行長薩姆·奧特曼也提出了一個應對網路安全風險的備選方案：由OpenAI提供自家網路安全服務。這場圍繞能源安全的磋商（其中兩場此前未曾對外報道）始於7月20日。據OpenAI與愛迪生電力研究所訊息，奧特曼最近一次會面是本週三，在科羅拉多斯普林斯舉辦的愛迪生電力研究所年會上，與多家電力公用事業高管展開交流。"
+    },
+    {
+      "id": "mkt:01a08ba8-0c9f-7118-852e-168f49b8f15f",
+      "time": "2026-09-10 22:10:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports OpenAI has held discussions with electric utilities on measures to safeguard power grid security."
+    },
+    {
+      "id": "mkt:01a08ba7-d527-7118-852e-0a8665910e40",
+      "time": "2026-09-10 22:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says it will issue $500 refunds under the Affordable Care Act to nearly 1 million Americans."
+    },
+    {
+      "id": "5087820",
+      "time": "2026-09-10 22:10:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【冰島擬永久禁止商業捕鯨 日本挪威將成“唯二” 】冰島政府計劃明年2月向議會提交禁止商業捕鯨的法案，若獲得透過，全球繼續進行商業捕鯨的國家將僅剩日本和挪威。據路透社10日報道，該法案將包含“永久禁止商業捕鯨”的條款。國際捕鯨委員會1986年開始實施商業捕鯨禁令。近年來，僅有冰島、挪威、日本三國仍在從事商業捕鯨活動。挪威1993年恢復商業捕鯨。日本則長期以科研名義捕鯨，並於2019年退出國際捕鯨委員會，恢復商業捕鯨。冰島2006年恢復商業捕鯨。2024年，時任冰島看守政府授予該國唯一捕鯨公司為期5年的捕鯨許可。同年年底，新一屆冰島政府上任，執政聯盟在議會佔多數席位。路透社援引一家動物保護組織發言人溫迪·希金斯的話說，冰島政府擬提交的禁止商業捕鯨法案在政界和民間支援度很高，希望它能獲得透過。（新華社）"
+    },
+    {
+      "id": "te:markets:582847",
+      "time": "2026-09-10 22:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 16-week Low — Home Depot shares decreased to 305.56 USD, the lowest since May 2026. Over the past 4 weeks, Home Depot lost 12.82%, and in the last 12 months, it decreased 26%."
+    },
+    {
+      "id": "5087819",
+      "time": "2026-09-10 22:10:12",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【銀河通用：具身智慧是一場長跑，我們只與時間賽跑】銀河通用今日晚間發文表示：針對近期市場上關於具身智慧行業的相關討論，銀河通用鄭重說明：作為深耕這一領域的企業，銀河通用將依然堅持初心，以具身智慧技術為核心發展，以真實應用落地為長期堅持目標。我們不參與無謂的口水戰，不被短期噪音干擾。我們要做的，是把產品做好、把場景做實、把技術做深，繼續專注做好自己的事。"
+    },
+    {
+      "id": "5087818",
+      "time": "2026-09-10 22:09:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西普尼推出全球首款足金智慧戒指】西普尼(02583.HK)9月10日晚公告稱，公司推出全球首款足金智慧戒指，實現“足金+智慧”產品模式從概念到可檢測、可驗證、可商業落地的關鍵突破。同時，公司旗下深圳金靈人工智慧有限公司正式推出金靈珠寶門店AI零售智慧體，基於“GrowthAgent OS”平臺打造，推出標準化與定製化相結合的AI賦能智慧零售解決方案。"
+    },
+    {
+      "id": "5087817",
+      "time": "2026-09-10 22:09:52",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國成屋銷售滑落至一年多來最弱水平】全美房地產經紀人協會（NAR）資料顯示，美國8月合同成交量環比下降2%，摺合年率為398萬套，是2024年秋季以來僅有的兩次銷售跌破400萬套大關之一。這一令人失望的資料反映出一個急需催化劑的房地產市場。房價增速雖已從疫情時期的兩位數年度漲幅中冷卻下來，但可負擔性擔憂仍是買家的實質性逆風。"
+    },
+    {
+      "id": "5087816",
+      "time": "2026-09-10 22:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：將向近100萬美國人發放單筆500美元的奧巴馬醫改退款。"
+    },
+    {
+      "id": "5087815",
+      "time": "2026-09-10 22:09:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行再次加息】歐洲中央銀行10日結束貨幣政策會議，決定將歐元區三大關鍵利率均上調25個基點。這是歐洲央行今年以來第二次加息。此次加息後，歐元區存款機制利率、主要再融資利率和邊際借貸利率分別為2.50%、2.65%、2.90%。歐洲央行當天釋出新聞公報說，中東衝突持續帶來通脹壓力，預計歐元區通脹率將在較長一段時間內明顯高於該行2%的目標水平。此次加息旨在確保歐元區中期通脹率穩定在目標水平。公報還表示，受能源價格衝擊影響，歐元區經濟前景仍存在高度不確定性，通脹面臨上行風險。歐洲央行最新預測顯示，2026年歐元區整體通脹率預計為3%，與6月預測值持平，2027年通脹預期則上調至2.5%。同時，歐洲央行將歐元區2026年和2027年經濟增長預期分別小幅上調至0.9%和1.4%。歐洲央行行長拉加德表示，中東衝突等地緣政治因素進一步推高能源價格，預計歐元區整體通脹率在2027年上半年仍將明顯高於目標水平。此後，隨著能源價格回落，並在高利率作用下，通脹率有望於明年底前後回到目標水平。今年6月，歐洲央行將歐元區三大關鍵利率均上調25個基點，為2023年9月以來首次加息。（新華社）"
+    },
+    {
+      "id": "5087814",
+      "time": "2026-09-10 22:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 在與電力企業的會談中探討保障電網安全事宜。"
+    },
+    {
+      "id": "5087813",
+      "time": "2026-09-10 22:08:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞銀維持蘋果“中性”評級 認為Pro系列漲價不足以覆蓋儲存成本】瑞銀在蘋果新品釋出會後維持對蘋果“中性”評級和296美元目標價，低於當前約319美元的股價。該機構認為，iPhone 18 Pro和Pro Max各漲價100美元，雖然有助於緩解成本壓力，但仍不足以完全抵消更高的儲存器成本；若漲價幅度擴大至200美元，則可能明顯抑制iPhone需求。瑞銀指出，蘋果此次秋季釋出會僅推出Pro、Pro Max和摺疊屏iPhone Duo三款機型，其中Duo起售價1999美元，標準版iPhone 18、Air和e系列預計將在明年初推出。瑞銀還援引2022年的經驗稱，當時蘋果在歐洲因零部件成本和美元走強上調售價，隨後需求從2022年底至2023年持續疲軟近一年，因此本輪定價需要在利潤率和銷量之間保持平衡。"
+    },
+    {
+      "id": "5087812",
+      "time": "2026-09-10 22:08:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華髮股份：更新定增申請檔案 事項尚需稽核註冊】華髮股份公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，已完成首輪問詢回覆披露並修訂募集說明書等檔案。結合2026年半年度報告及上交所進一步稽核意見，公司會同中介機構對問詢函部分回覆內容、募集說明書等申請檔案補充更新財務資料，更新內容以楷體加粗顯示。本次定增事項尚需透過上交所稽核並獲得中國證監會同意註冊後方可實施，能否透過稽核註冊及時間存在不確定性。"
+    },
+    {
+      "id": "te:economy:582843",
+      "time": "2026-09-10 22:08:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Existing Home Sales",
+        "Importance 2"
+      ],
+      "text": "US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 2.0% from the previous month to a seasonally adjusted annualized rate of 3.98 million units in August of 2026, aligned with market expectations. It follows a 1.7% decline in the previous months. Existing home sales declined in the Northeast (-4.0%), Midwest (-3.1%), and South (-1.6%) regions while sales were relatively unchanged in the West. Total housing inventory increased 3.2% to 1.62 million units and the median price was $429,100 for all housing types, a 1.6% increase from last year. “Mortgage rates and home sales move in opposite directions, so it's not surprising to see a mild dip in home buying activity due to high mortgage rates,” said NAR Chief Economist Lawrence Yun. Mortgage rates measured by leading mortgage providing institutions continued to rise through the period as soaring energy costs and ample corporate debt supply lifted longer-maturity yields."
+    },
+    {
+      "id": "5087811",
+      "time": "2026-09-10 22:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 與頭部電力企業代表舉行會晤。"
+    },
+    {
+      "id": "5087810",
+      "time": "2026-09-10 22:07:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長：伊朗危機打破了市場對政策進一步轉向鴿派的預期。"
+    },
+    {
+      "id": "mkt:01a08ba4-7fe7-7118-852e-079addef3ce0",
+      "time": "2026-09-10 22:06:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Poland's prime minister Tusk said he expects more attacks on border crossings, similar to the situation on the Ukraine-Moldova border."
+    },
+    {
+      "id": "5087809",
+      "time": "2026-09-10 22:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱擊斃一名參與 10 月 7 日襲擊的哈馬斯武裝人員。"
+    },
+    {
+      "id": "5087808",
+      "time": "2026-09-10 22:05:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長：預計波蘭今年信用評級不會變動。"
+    },
+    {
+      "id": "mkt:01a08ba2-2e35-7118-852d-f8606ea1a8f5",
+      "time": "2026-09-10 22:04:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Markets almost evenly split on whether ECB will hike next month】The ECB raised rates 25bp to 2.5% on Thursday and issued a statement seen as hawkish, but markets are almost evenly divided on a further move next month. LSEG pricing shows a 49% probability of a Oct. 29 hike; if officials do not act in October, markets put an 89% chance of a rate increase before Dec. 17 and a 36% probability the deposit rate reaches 3% before Christmas. ECB staff raised 2027–28 inflation forecasts citing the Middle East conflict and upgraded 2026–27 GDP forecasts on unexpectedly strong euro area resilience. ECB President Lagarde warned the outlook remains highly uncertain, saying conditions can change overnight — citing diesel prices — and “we cannot predict the next step.”"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870863630",
+      "time": "2026-09-10 22:04:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月批發銷售環比增長0.8%。美國7月批發庫存終值環比增長1.3%，預期增長1.3%。"
+    },
+    {
+      "id": "5087807",
+      "time": "2026-09-10 22:03:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家發展改革委民營局向民營企業公開推介交通、物流、水利、能源等領域一批投資專案】 為進一步激發民間投資活力，9月10日國家發展改革委民營局主要負責同志主持召開有關民營企業和行業協會座談會，面對面聽取企業在投資過程中存在的問題、障礙及意見建議。圍繞民營企業投資意向，會上集中推介了一批投資專案，積極引導民間資本參與建設。本次共推介專案36個，聚焦交通、物流、水利、能源等四大重點領域，預計總投資614億元，擬引入民間資本156億元，涵蓋鐵路、倉儲、風電、儲能、充電設施、引水工程等型別。民間資本可透過獨資、控股、參股專案公司等多種方式參與。(發改委)"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870863573",
+      "time": "2026-09-10 22:03:20",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國二手房供應量相當於4.9個月的量，為2015年以來最高水平。"
+    },
+    {
+      "id": "5087806",
+      "time": "2026-09-10 22:02:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：Kalshi 獲批推出黃金與白銀永續合約。"
+    },
+    {
+      "id": "mkt:01a08b9f-ea93-7118-852d-f59cfae24013",
+      "time": "2026-09-10 22:01:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【High rates curb homebuying as U.S. existing‑home sales slow further in August】U.S. existing‑home sales fell 2% in August to a seasonally adjusted annualized pace of 3.98 million units, the slowest since June 2025 and matching that month’s pace, the National Association of Realtors said. The median existing‑home price rose 1.6% YoY to $429,100. Homes available for sale increased to 1.62 million units, the first time above 1.6 million since November 2019. NAR chief economist Lawrence Yun said mortgage rates move inversely with sales, adding that high rates have modestly reduced buying activity. Opendoor CEO Kaz Nejatian described the final two weeks of August as among the worst housing‑market stretches his firm has seen."
+    },
+    {
+      "id": "5087805",
+      "time": "2026-09-10 22:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團擬收購 Flow Control Holdings，交易預計將於第四季度完成。"
+    },
+    {
+      "id": "5087804",
+      "time": "2026-09-10 22:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "環球音樂集團與 ElevenLabs 宣佈達成多年合作協議。"
+    },
+    {
+      "id": "5087803",
+      "time": "2026-09-10 22:00:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國8月成屋銷售總數年化為398萬戶，創2015年以來新高。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870863243",
+      "time": "2026-09-10 22:00:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月成屋銷售總數年化398萬戶，預期398萬戶，前值406萬戶。"
+    },
+    {
+      "id": "mkt:01a08b9e-f631-7118-852d-e8ce6f3b9d18",
+      "time": "2026-09-10 22:00:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. existing-home sales in August annualized at 3.98 mln units, the strongest pace since 2015."
+    },
+    {
+      "id": "5087802",
+      "time": "2026-09-10 22:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "百事可樂召集35餘個國家的農戶與農業專家，共促馬鈴薯種植業發展。"
+    },
+    {
+      "id": "5087801",
+      "time": "2026-09-10 22:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月成屋銷售總數年化 398萬戶，預期 399萬戶，前值 406萬戶。\n美國8月成屋銷售總數年化環比 -2%，預期 -1.6%，前值 -1.7%。\n美國7月批發庫存環比終值 1.3%，預期 1.3%，初值 1.3%。\n美國7月批發銷售環比 0.8%，前值 -3%。"
+    },
+    {
+      "id": "mkt:01a08b9e-7b0d-7118-852d-e099cd3fb2c5",
+      "time": "2026-09-10 22:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US wholesale sales +0.8% m/m in July; June revised to -2.9% from -3.0%."
+    },
+    {
+      "id": "mkt:01a08b9e-7172-7118-852d-da9f541bcf3a",
+      "time": "2026-09-10 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US July wholesale inventories final MoM +1.3% (consensus +1.3%, prior +1.3%)."
+    },
+    {
+      "id": "mkt:01a08b9e-67ef-7118-852d-d3e9877286e0",
+      "time": "2026-09-10 22:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. existing-home sales (seasonally adjusted annualized), MoM -2.0% in August; prior -1.7%."
+    },
+    {
+      "id": "mkt:01a08b9e-679c-7118-852d-cb948b23562a",
+      "time": "2026-09-10 22:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. existing-home sales annualized 3.98 mln units in August, matching estimate 3.98 mln; prior 4.06 mln."
+    },
+    {
+      "id": "mkt:01a08b9e-457f-7118-852d-c69fd379de82",
+      "time": "2026-09-10 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Sales (MoM) (Jul) | actual 0.8% | previous -3.00%"
+    },
+    {
+      "id": "mkt:01a08b9e-44ca-7118-852d-bc78668124ad",
+      "time": "2026-09-10 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales SAAR (MoM) (Aug) | actual -2% | previous -1.70%"
+    },
+    {
+      "id": "mkt:01a08b9e-43f9-7118-852d-b7e8afc93609",
+      "time": "2026-09-10 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales Total SAAR (Aug) | actual 3980000M | consensus 3980000M | previous 4060000M"
+    },
+    {
+      "id": "5087800",
+      "time": "2026-09-10 21:59:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國 3 年期和 5 年期國債收益率當日上漲 10 個基點。"
+    },
+    {
+      "id": "mkt:01a08b9e-238f-7118-852d-a99fa5cf0414",
+      "time": "2026-09-10 21:59:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 3-year and 5-year Treasury yields rose 10bps intraday."
+    },
+    {
+      "id": "5087799",
+      "time": "2026-09-10 21:58:03",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【標普500指數恐遭遇6月以來最長連跌 美國資料提高加息押注】油價再度上漲拖累股市和債市走低，能源成本上升持續帶來價格壓力，最新通脹資料進一步強化了市場對美聯儲很快加息的押注。紐約時間9:31，標普500指數跌0.6%，納斯達克100指數跌1.1%，道指走低0.5%。如果今日標普500指數收低，那將是6月份以來該股指最長連跌走勢。美國勞工統計局週四公佈的資料顯示，8月生產者價格指數環比上漲0.4%，同比上漲5.4%。剔除食品和能源後，核心PPI環比上漲0.2%，同比上漲4.6%。上述資料公佈後，市場接下來將關注週五的消費者價格指數。預計8月CPI環比漲幅將較前月加快，部分原因是汽油價格上漲；剔除波動較大的能源和食品後，核心CPI預計漲幅會相對溫和。部分美聯儲官員已表示，9月15日至16日會議上的利率決定，可能取決於本週公佈的通脹資料。此外，歐洲央行宣佈加息。RSM US LLP首席經濟學家Joe Brusuelas表示：“美國PPI資料偏熱，加上克里斯蒂娜·拉加德的表態聽起來偏鷹派，兩者都反映出一個現實，即全球央行可能即將進入新一輪加息週期。這對今天乃至短期內的風險資產都構成不利因素。”VIX指數上漲約1點至接近18，創一個多月來最高水平。"
+    },
+    {
+      "id": "5087798",
+      "time": "2026-09-10 21:57:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊板塊開盤走低 Lumentum跌超3%】美股光通訊板塊開盤走低，Lumentum跌超3%，Coherent、康寧跌超2%，邁威爾科技跌超1%。"
+    },
+    {
+      "id": "5087797",
+      "time": "2026-09-10 21:57:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世紀互聯與慶陽市政府共建GW級算電協同新型能算基地】9月9日，甘肅省慶陽市政府與世紀互聯集團簽訂GW級算電協同新型能算基地專案戰略合作協議。根據協議，雙方將圍繞GW級算電協同新型能算基地建設開展戰略合作，將在算力基礎設施投資建設、綠色電力與算力協同排程、產業鏈生態集聚等方面深化協同。"
+    },
+    {
+      "id": "5087796",
+      "time": "2026-09-10 21:56:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AscendArc 選定阿麗亞娜航空公司承擔韓國衛星 9 號 2028 年下半年發射任務。"
+    },
+    {
+      "id": "5087795",
+      "time": "2026-09-10 21:55:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "Meta股價走勢反轉，最新下跌1.4%。"
+    },
+    {
+      "id": "5087794",
+      "time": "2026-09-10 21:55:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SK海力士美股跌超5%】SK海力士美股跌超5%，該股昨日再創新高。"
+    },
+    {
+      "id": "5087792",
+      "time": "2026-09-10 21:54:42",
+      "tags": [
+        "資料"
+      ],
+      "text": "【專家解讀8月CPI與PPI同步改善釋放經濟穩步回暖訊號】國家統計局9日釋出資料顯示，8月份，居民消費價格指數（CPI）同比漲幅回升至0.8%，工業生產者出廠價格指數（PPI）同比漲幅擴大至3.8%。對外經濟貿易大學全球創新與治理研究院副院長劉寶成表示，8月CPI與PPI同步改善，反映出當前我國物價溫和回升、經濟活力逐步增強的執行態勢。（新華社）"
+    },
+    {
+      "id": "te:markets:582837",
+      "time": "2026-09-10 21:53:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alphabet Stock Price Hits 6-week Low — Alphabet shares decreased to 325.73 USD, the lowest since July 2026. Over the past 4 weeks, Alphabet lost 8.65%, and in the last 12 months, it increased 36.56%."
+    },
+    {
+      "id": "5087791",
+      "time": "2026-09-10 21:52:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報11572.93點。英偉達跌2.52%，博通跌0.90%，美光跌4.11%，英特爾跌5.86%，AMD跌2.76%，高通跌2.79%，臺積電跌2.40%，阿斯麥跌2.63%。"
+    },
+    {
+      "id": "te:markets:582836",
+      "time": "2026-09-10 21:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Breaks 2-Day Advance — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, snapped a two-day winning streak on Thursday, dropping about 2.7% to a one-week low of 3,521 points. Weaker rates across larger segments were behind the decline. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also halted a two-day advance, slipping 4.3% to 6,122 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell 0.2% to 2,409 points. Conversely, the supramax index rose by 0.5% to 1,713 points."
+    },
+    {
+      "id": "5087790",
+      "time": "2026-09-10 21:51:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股商業航天概念股逆勢走高，SpaceX漲超3%，回聲星通訊、Rocket Lab漲超1%。"
+    },
+    {
+      "id": "5087789",
+      "time": "2026-09-10 21:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克總理：下一輪歐盟預算不得削減凝聚基金撥款。"
+    },
+    {
+      "id": "5087788",
+      "time": "2026-09-10 21:51:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SuperX：9月以來已回購普通股24.44萬股】SuperX（NASDAQ: SUPX）9月10日晚間披露股份回購計劃最新執行進展，截至2026年9月9日，SuperX已累計回購普通股24.44萬股，其中9月2日回購5630股，9月8日和9月8日單日各回購11.94萬股。根據SuperX披露的股份回購計劃，公司將在12個月內累計回購不超過2000萬美元的普通股。"
+    },
+    {
+      "id": "mkt:01a08b95-ffea-7118-852d-a64bb9b4a3e1",
+      "time": "2026-09-10 21:50:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US yields, dollar strengthen; gold falls over 1%】Gold fell more than 1% on Thursday after a firm US PPI print and rising oil prices boosted bets on a Fed rate hike next week. Capital.com senior analyst Kyle Rodda said August PPI signaled a pickup in underlying inflation partly driven by higher energy costs; headline PPI was broadly in line with forecasts but energy rebounded. CME FedWatch now prices a roughly 70% chance of a hike next week, up from 62% before the data. A Reuters survey of economists still shows most expect the Fed to hold rates at the Sept. 15-16 meeting and for the rest of the year. A stronger dollar and a rise in the 10-year US Treasury yield further pressured dollar-priced gold. Rodda added that higher bond yields reflect more persistent inflation pressure from oil, increasing the opportunity cost of holding non-yielding assets and weighing on gold."
+    },
+    {
+      "id": "5087787",
+      "time": "2026-09-10 21:50:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯泰蘭蒂斯美國金融公司將發行由斯泰蘭蒂斯N.V.擔保的兩部分固定利率票據。"
+    },
+    {
+      "id": "mkt:01a08b95-2fba-7118-852d-9b6b0bd14b7c",
+      "time": "2026-09-10 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. July wholesale sales MoM and annualized August existing‑home sales due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a08b95-2409-7118-852d-94a8a35833e0",
+      "time": "2026-09-10 21:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude 5.1 earthquake 162 km south-southwest of Merizo Village, Guam."
+    },
+    {
+      "id": "te:markets:582835",
+      "time": "2026-09-10 21:49:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits All-time High — ConocoPhillips shares increased to an all-time high of 138.76 USD. Over the past 4 weeks, ConocoPhillips gained 11.1%, and in the last 12 months, it increased 44.92%."
+    },
+    {
+      "id": "mkt:01a08b94-b3de-7118-852d-8a77a8e817be",
+      "time": "2026-09-10 21:49:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Polish central bank Governor Glapinski expects policy rates to remain unchanged through mid-2027."
+    },
+    {
+      "id": "em:qqyh_mlc:202609103870849082",
+      "time": "2026-09-10 21:49:14",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【“美聯儲傳聲筒”：週五的通脹報告是美聯儲是否加息的關鍵】“新美聯儲通訊社”Nick Timiraos表示，沃什在傑克遜霍爾的演講讓投資者相信加息的可能性更大，但他並沒有告訴他們什麼會觸發加息。市場填補了這一資訊空白，現在市場預期的加息幅度是沃什從未承諾過的。因此，週五的通脹報告被視為決定是否加息的關鍵，而沃什多年來一直反對這種決策方式。"
+    },
+    {
+      "id": "5087786",
+      "time": "2026-09-10 21:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "Crusoe GPU 為谷歌雲推出 5.09 億美元遞延票據融資；9 月 10 日召開電話會議。"
+    },
+    {
+      "id": "5087785",
+      "time": "2026-09-10 21:48:42",
+      "tags": [
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果釋出會後七家機構更新研判 多數看多、傑富瑞繼續看空】蘋果釋出iPhone Duo及iPhone 18 Pro系列後，至少七家華爾街機構更新或重申觀點。Melius維持“買入”評級和370美元目標價，Evercore維持“跑贏大盤”和365美元目標價，美國銀行維持“買入”但將目標價由380美元下調至370美元；摩根大通維持積極判斷，最新可確認目標價為340美元；Oppenheimer維持“與大盤持平”，傑富瑞則繼續給予“跑輸大盤”評級和263.66美元目標價。機構普遍認可摺疊屏及高階機型對銷量和平均售價的拉動作用，但對利潤率影響存在分歧。Melius預計，若供應允許，蘋果2027財年可售出約1500萬部Duo，並可能推動未來兩年iPhone收入增長約20%；Oppenheimer預計今年供應量或僅為800萬至1000萬部。美國銀行和傑富瑞則認為，新機定價偏剋制雖有助於銷量，但在儲存器和零部件成本上升背景下可能壓低毛利率，其中美國銀行已將2027年每股收益預期由10.32美元下調至9.98美元。"
+    },
+    {
+      "id": "mkt:01a08b93-c9e8-7118-852d-81f205fcfe83",
+      "time": "2026-09-10 21:48:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The ECB's projections assume oil at $89.5/barrel in 2026, $78/barrel in 2027 and $73.6/barrel in 2028."
+    },
+    {
+      "id": "5087784",
+      "time": "2026-09-10 21:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：關島梅里佐村西南偏南 162 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "5087783",
+      "time": "2026-09-10 21:48:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭利率預計將維持穩定至 2027 年年中左右。"
+    },
+    {
+      "id": "5087782",
+      "time": "2026-09-10 21:48:01",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行預測假設 2028 年油價為每桶 73.6 美元。"
+    },
+    {
+      "id": "5087781",
+      "time": "2026-09-10 21:47:40",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行預測假設 2026 年油價為每桶 89.5 美元。"
+    },
+    {
+      "id": "5087780",
+      "time": "2026-09-10 21:47:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行預測假設 2026 至 2028 年匯率為 1 歐元兌 1.16 美元。"
+    },
+    {
+      "id": "5087779",
+      "time": "2026-09-10 21:47:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：貨幣政策委員會秉持 “務實” 態度；將根據需要降息或加息。"
+    },
+    {
+      "id": "mkt:01a08b92-8464-7118-852d-7970ff13a19b",
+      "time": "2026-09-10 21:47:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares rise more than 1%."
+    },
+    {
+      "id": "5087778",
+      "time": "2026-09-10 21:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "DP WORLD與比亞迪：近2000輛電動及插電式混合動力車輛經DP World聖安東尼奧碼頭完成交付。"
+    },
+    {
+      "id": "mkt:01a08b91-59b7-7118-852d-74c2b3cac271",
+      "time": "2026-09-10 21:45:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Polish central bank governor GLAPINSKI said if long-term CPI rises, the central bank may raise interest rates."
+    },
+    {
+      "id": "5087777",
+      "time": "2026-09-10 21:45:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法德初創公司探索公司贏得歐洲航天局7.6億歐元貨運飛船合同，該勘探公司還與阿麗亞娜空間公司達成協議，其首個尼克斯艙將由阿麗亞娜6號火箭發射升空。"
+    },
+    {
+      "id": "5087776",
+      "time": "2026-09-10 21:45:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：若居民消費價格指數長期上行，則存在加息可能性。"
+    },
+    {
+      "id": "5087775",
+      "time": "2026-09-10 21:45:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優彩資源：籌劃控制權變更事項 9月11日開市起復牌】優彩資源公告稱，公司實控人戴澤新、王雪萍、群英投資與江陰市環保集團簽署股份轉讓協議，合計轉讓公司22.72%股份；同時公司與環保集團簽署定增股份認購協議，環保集團擬認購不超3300萬股股份，認購款不超3.00億元。交易完成後，環保集團最高持股比例約29.29%，公司控股股東將變更為環保集團，實控人將變更為江陰市人民政府國有資產監督管理辦公室。公司股票自2026年9月11日開市起復牌，本次控制權變更事項尚需多項審批，能否最終實施完成存在不確定性。"
+    },
+    {
+      "id": "5087774",
+      "time": "2026-09-10 21:45:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華夏基金：旗下部分ETF參與燧原科技申購 提示上市首日風險】華夏基金管理有限公司公告稱，燧原科技將於2026年9月11日在科創板上市，公司旗下部分ETF參與了燧原科技本次發行的網上/網下申購，上市前以發行價142.18元/股對該股票進行估值。根據交易規則，新股上市前5個交易日不設漲跌幅限制，燧原科技上市首日ETF的IOPV僅包含發行價，未包含股價波動，可能與當日基金份額淨值存在差異，敬請投資者關注投資風險。"
+    },
+    {
+      "id": "5087773",
+      "time": "2026-09-10 21:44:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級談及巴西2027年預算：對巴西主權評級的影響將取決於財政調整的可信度，而財政調整的最終走向將由即將到來的選舉決定。"
+    },
+    {
+      "id": "5087772",
+      "time": "2026-09-10 21:44:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX調整資料中心建設策略 由追求速度轉向強化可靠性】據報道，SpaceX正在調整其AI資料中心建設方式，新管理團隊計劃在設施投入運營前安裝更多電力和冷卻備份系統，並進行更充分測試，同時減少對臨時供電和冷卻裝置的依賴，這可能放慢新資料中心園區的擴張速度。報道稱，這一調整源於xAI此前快速建設模式暴露出的可靠性問題，其田納西州和密西西比州資料中心早期曾頻繁發生故障，導致AI研究專案暫停並損失部分訓練進度。SpaceX今年收購xAI後，於6月底重組資料中心團隊，以火箭和Starlink工程人員替換部分傳統資料中心管理人員，過去一個月已有逾300名SpaceX工程師加入相關專案。報道稱，部分現有設施目前也在重新設計。SpaceX預計不會完全放棄xAI的快速建設模式，但將更加重視冗餘和標準化。此前xAI曾在122天內讓首座配備10萬塊GPU的資料中心上線，但其初期備份系統不足，並長期依賴燃氣輪機等臨時設施。上週，孟菲斯一座大型資料中心又因施工影響電力線路發生停電，導致部分Grok模型及外部算力客戶受到影響，馬斯克隨後表示公司正在採取糾正措施以防止類似事件再次發生。"
+    },
+    {
+      "id": "5087771",
+      "time": "2026-09-10 21:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局綜合司關於公示第六批能源領域首臺（套）重大技術裝備清單的通知 】根據《國家能源局關於促進能源領域首臺（套）重大技術裝備示範應用的通知》（國能發科技〔2018〕49號）、《能源領域首臺（套）重大技術裝備評定和評價辦法》（國能發科技〔2022〕81號）有關規定，經組織專家評審和複核，擬將“16MW級漂浮式海上風力發電機組”等90項技術裝備列入第六批能源領域首臺（套）重大技術裝備清單（詳見附件），現予公示。（國家能源局）"
+    },
+    {
+      "id": "5087770",
+      "time": "2026-09-10 21:43:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：我們在上次會議上維持了現行貨幣政策策略。"
+    },
+    {
+      "id": "5087769",
+      "time": "2026-09-10 21:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國星宇航“星算”計劃02組首批8顆衛星將於近期擇機發射】據國星宇航訊息，9月1日，國星宇航在臺州算力衛星創新基地舉行“星算”計劃02組首批8顆衛星出征儀式。“星算”計劃02組太空計算星座首批8顆衛星，均由國星宇航自主研製。據悉，此次出征的8顆衛星將於近期擇機發射。衛星入軌後，將與01組在軌衛星協同組網。"
+    },
+    {
+      "id": "5087768",
+      "time": "2026-09-10 21:43:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "利比亞央行：利比亞 1 月至 8 月底石油銷售額達 808 億第納爾。"
+    },
+    {
+      "id": "5087767",
+      "time": "2026-09-10 21:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門武裝部隊控制祖拜爾城以及曼德海峽附近具有戰略意義的扎卡爾島。"
+    },
+    {
+      "id": "te:markets:582834",
+      "time": "2026-09-10 21:42:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Berkshire Hathaway Stock Price Hits 4-week High — Berkshire Hathaway shares increased to 509.55 USD, the highest since August 2026. Over the past 4 weeks, Berkshire Hathaway lost 1.38%, and in the last 12 months, it increased 2.48%."
+    },
+    {
+      "id": "5087766",
+      "time": "2026-09-10 21:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 調整資料中心建設佈局，擴張節奏或將放緩。"
+    },
+    {
+      "id": "mkt:01a08b8e-37b2-7118-852d-6daaeee528fd",
+      "time": "2026-09-10 21:42:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Polish central bank governor GLAPINSKI said a rate cut is not realistic at present, policy rates will remain unchanged in the near term, and rates are at an appropriate level and not high."
+    },
+    {
+      "id": "5087765",
+      "time": "2026-09-10 21:42:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：目前利率處於合適水平。"
+    },
+    {
+      "id": "mkt:01a08b8d-d02a-7118-852d-67aedd898a14",
+      "time": "2026-09-10 21:42:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported Houthi forces have seized control of Iraq's Zubair city and Zuqar Island near the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5087764",
+      "time": "2026-09-10 21:41:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：預計波蘭利率不會出現任何 “大幅變動”。"
+    },
+    {
+      "id": "te:markets:582833",
+      "time": "2026-09-10 21:41:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Political Risks Mount — The Ibovespa edged lower to trade below 186,000 on Thursday as persistent political uncertainty weighed on the country's economic outlook. A dispute between Supreme Court justices Alexandre de Moraes and André Mendonça has escalated into an institutional crisis. The dispute centers on failed lender Banco Master, which is under investigation in a bank fraud case, and Mendonça’s disclosure of private messages allegedly sent to Moraes. The public clash raised concerns over the court’s credibility, adding to political uncertainty ahead of October’s presidential election. Meanwhile, oil extended its rally following the biggest wave of attacks on shipping in the Strait of Hormuz by Washington and Tehran on Wednesday, global yields rose on fears of prolonged inflation. Financials posted losses, with Itaú down 0.5% and BB Seguridade losing nearly 2%. Vale shed 2%, while CSN Mineração fell more than 3.5% on lower iron ore prices. Petrobras gained 1.5% on the oil rally."
+    },
+    {
+      "id": "5087763",
+      "time": "2026-09-10 21:41:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：我們目前處於觀望模式。"
+    },
+    {
+      "id": "5087762",
+      "time": "2026-09-10 21:41:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭中央銀行行長格拉平斯基：短期內利率不會調整。"
+    },
+    {
+      "id": "5087761",
+      "time": "2026-09-10 21:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明星AI研究員離開Meta 加盟Anthropic】據知情人士透露，明星AI研究員安德魯·塔洛克（Andrew Tulloch）即將離開Meta平臺公司。去年Meta曾向他開出價值超10億美元的薪酬包，邀請其入職。 塔洛克當年的加盟堪稱Meta人才爭奪戰的重大勝利，也為去年夏天那場瘋狂的挖人浪潮畫上句號。彼時Meta不惜重金招攬研究員，力求在人工智慧競賽中迎頭趕上。他曾在Meta任職11年，2023年離職加入OpenAI，之後聯合創立Thinking Machines Lab。 一位知情人士稱，塔洛克將加入Anthropic。他本人未回應置評請求，Meta也拒絕就其離職一事發表評論。"
+    },
+    {
+      "id": "5087760",
+      "time": "2026-09-10 21:40:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭當前降息 “完全不現實”。"
+    },
+    {
+      "id": "5087759",
+      "time": "2026-09-10 21:40:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：隨著 2027 年經濟增長放緩，居民消費價格指數有望回落。"
+    },
+    {
+      "id": "te:markets:582831",
+      "time": "2026-09-10 21:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.39% Lower — The Dow Jones Index is falling 206 points. Losses were driven by Nvidia (-2.21%), Honeywell International (-1.57%) and IBM (-1.55%). Biggest rises came from Apple (1.60%), Coca-Cola (1.38%) and Walmart (1.13%)."
+    },
+    {
+      "id": "mkt:01a08b8b-7185-7118-852d-5e32a28980de",
+      "time": "2026-09-10 21:39:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: market has fully priced ECB hikes; could prompt 'sell the rumor, buy the fact'】Massimo Spadotto, head of fixed income at Eurizon, said a deposit rate rise to 2.75% at one of the ECB's final two meetings this year is entirely possible. He added another hike should be regarded as the base case, though it is not guaranteed and will depend largely on commodity-price moves driven by developments in the Middle East. Spadotto said markets have already fully priced two further ECB rate hikes this year; consequently any actual hikes are unlikely to pressure markets and could trigger a sell-the-rumor, buy-the-fact reaction."
+    },
+    {
+      "id": "5087758",
+      "time": "2026-09-10 21:39:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【拉加德稱第二季度經濟增長展現出韌性 經濟增長前景面臨下行風險】歐洲央行行長克里斯蒂娜·拉加德表示，“儘管受到能源衝擊帶來的不利影響，第二季度經濟仍展現出韌性。”她週四在柏林舉行的新聞釋出會上表示：“經濟增長廣泛覆蓋各個國家和行業，這一態勢可能延續到了第三季度”。近期經濟增長前景有所改善。就業增長繼續放緩。拉加德表示：“經濟增長前景面臨下行風險”，“這尤其是由於中東衝突以及俄羅斯對烏克蘭無端發動的戰爭局勢發展所致”。她表示，通脹遠高於目標的狀況將延續至2027年上半年。“通脹前景面臨上行風險”。“能源衝擊可能進一步加劇，其對其他價格和工資的影響也可能強於目前預期”。"
+    },
+    {
+      "id": "5087757",
+      "time": "2026-09-10 21:38:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta AI研究員安德魯·塔洛克將離職並加入Anthropic。"
+    },
+    {
+      "id": "mkt:01a08b8a-bc81-7118-852d-54eb6eb0afaf",
+      "time": "2026-09-10 21:38:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde concluded her press conference."
+    },
+    {
+      "id": "5087756",
+      "time": "2026-09-10 21:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果盤初漲超2%。市場期待已久的首款摺疊屏iPhone Duo昨日正式亮相，並帶來新一代晶片、相機及Apple Intelligence等升級。"
+    },
+    {
+      "id": "mkt:01a08b89-da36-7118-852d-4cf988d8761d",
+      "time": "2026-09-10 21:37:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member NAGEL said Euroskeptic parties in Europe will make investors reluctant to invest in Germany."
+    },
+    {
+      "id": "5087755",
+      "time": "2026-09-10 21:37:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭 2027 年預算計劃料不會對居民消費價格指數產生影響。"
+    },
+    {
+      "id": "5087754",
+      "time": "2026-09-10 21:37:11",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債收益率全線上揚 市場聚焦30年期標售和財政部回購】隨著油價延續升勢，促使交易員進一步押注美聯儲最快將在下週加息，美國國債收益率升至新的多年高位。各期限美債收益率上漲6至8個基點，其中30年期美債收益率升至2007年以來最高水平，2年期美債收益率則自2024年以來首次突破4.5%。交易員將美聯儲下週加息的機率提高至約70%，並已完全計入最遲10月加息的預期，此前為12月。美債遭拋售推高了紐約時間下午一點30年期美債標售的預期收益率。本次將續發行220億美元的30年期國債，隱含收益率約為5.35%，高於2001年以來歷次30年期美債標售的中標收益率。一小時後，美國財政部計劃回購最多60億美元10年至20年期美債，回購規模已從最初的20億美元上調。財政部8月19日出人意料地宣佈擴大回購規模，旨在抑制長期美債收益率上升。"
+    },
+    {
+      "id": "mkt:01a08b89-3fa6-7118-852d-47252b35404d",
+      "time": "2026-09-10 21:37:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Nagel said he is concerned about the rise of right-wing parties."
+    },
+    {
+      "id": "5087753",
+      "time": "2026-09-10 21:36:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌至8月3日以來最低位；最新下跌0.8%。"
+    },
+    {
+      "id": "5087752",
+      "time": "2026-09-10 21:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智己汽車：新款智己LS6小訂破8000臺】9月10日晚，智己汽車宣佈，新款智己LS6釋出45分鐘小訂破8000臺。該車型預售價20.99萬元起。"
+    },
+    {
+      "id": "5087751",
+      "time": "2026-09-10 21:36:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行納格爾：疑歐政黨將導致投資者不願在德國投資。"
+    },
+    {
+      "id": "mkt:01a08b88-504a-7118-852d-3db89e0090b6",
+      "time": "2026-09-10 21:36:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said if the energy shock lasts longer than expected, second-round effects would emerge and lift food prices."
+    },
+    {
+      "id": "5087750",
+      "time": "2026-09-10 21:35:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN正在排查MultiversX充值通道故障；該平臺狀態頁顯示，存入與提現將可能出現延遲。"
+    },
+    {
+      "id": "5087749",
+      "time": "2026-09-10 21:35:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行納格爾：對右翼政黨勢力抬頭感到擔憂。"
+    },
+    {
+      "id": "5087748",
+      "time": "2026-09-10 21:34:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：若能源衝擊持續時間長於預期，我們將看到第二輪效應，且會波及食品價格。"
+    },
+    {
+      "id": "te:markets:582826",
+      "time": "2026-09-10 21:34:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 Falls to 1-Month Low — US stocks fell further as a surge in oil and fuel prices lifted Treasury yields and dented margins for the corporate sector. The S&P 500 fell 0.6%, the Dow dropped 0.4%, and the Nasdaq 100 lost 1.3%. Producer prices jumped 0.4% from the previous month in August as the war in Iran lifted wholesale energy prices. Oil and fuel benchmarks have gained further since the start of September on fresh escalation in the war and the increase in buying from Asia, adding to pressure on equities amid the possibility of a Federal Reserve rate hike next week. Chip producers fell amid their exposure to surging long-dated credit costs, with Marvell, Intel, and Lam Research down 3%. Nvidia dropped 1% and Oracle fell 1.5% ahead of its earnings after the bell. Meanwhile, Apple inched higher to pare yesterday's losses after it announced the release of a series of new products, including the foldable iPhone Duo."
+    },
+    {
+      "id": "5087747",
+      "time": "2026-09-10 21:34:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空正以前所未有的速度推進星鏈（Starlink）服務部署，將其推廣至該航企覆蓋六大洲航線網路中的更多航線。"
+    },
+    {
+      "id": "5087746",
+      "time": "2026-09-10 21:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新開發銀行專案助力印度中央邦鄉村變遷】印度中央邦主要地區道路升級專案於2023年竣工。該專案於2017年首次獲得金磚國家新開發銀行融資，從獲得融資到最終完成歷時五年多。專案覆蓋中央邦全境1542.89公里的主要地區道路，將數千個村莊直接與其所在地區的行政中心連線起來，讓當地居民的生活發生了翻天覆地的變化。（新華社）"
+    },
+    {
+      "id": "5087745",
+      "time": "2026-09-10 21:33:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空將於2026年12月9日起恢復經墨爾本飛往堪培拉的每日航班。"
+    },
+    {
+      "id": "5087744",
+      "time": "2026-09-10 21:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【克里姆林宮表示結束與烏克蘭衝突的條件沒有改變】克里姆林宮發言人德米特里·佩斯科夫表示，俄羅斯停止與烏克蘭衝突的條件沒有改變，而且眾所周知。佩斯科夫說，戰場局勢正變得對烏克蘭越來越不利。目前沒有就實現能源停火與烏克蘭進行實質性討論。將考慮把阿布扎比作為俄美烏會談的地點，籌備工作正在推進。"
+    },
+    {
+      "id": "5087743",
+      "time": "2026-09-10 21:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空將於2026年10月25日起恢復飛往桑給巴爾的每日航班。"
+    },
+    {
+      "id": "5087742",
+      "time": "2026-09-10 21:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達航空：今冬將全球航線網路拓展至超170個目的地。"
+    },
+    {
+      "id": "5087741",
+      "time": "2026-09-10 21:33:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷完成出售Bugatti Rimac和Rimac集團股權】當地時間9月9日，跑車製造商保時捷宣佈，已完成出售其所持Bugatti Rimac及Rimac集團股份的交易。保時捷預計將從本次交易中獲得約10億歐元收入，其中2.5億歐元將用於進一步充實公司養老金義務資金。保時捷表示，其在半年報中公佈的2026年汽車業務淨現金流利潤率預測，尚未計入資產處置交易的影響。綜合本次交易帶來的現金流入，以及對養老金義務的追加資金支援後，保時捷預計2026年全年汽車業務淨現金流利潤率將提升至5.5%至7.5%，高於此前預計的3%至5%。（介面新聞）"
+    },
+    {
+      "id": "te:markets:582825",
+      "time": "2026-09-10 21:32:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Slips as Dollar Gains and BoE Hike Bets Rise — The British pound weakened to around $1.35 as the dollar strengthened, despite growing expectations for further Bank of England rate hikes amid mounting inflation concerns. Rising energy prices, alongside the ECB’s rate increase and more hawkish inflation outlook, added to pressure on UK yields. Brent crude climbed above $100 a barrel, while UK natural gas prices reached their highest level since late 2022 as escalating Middle East tensions heightened concerns over energy supplies. Markets are now fully pricing four BoE rate increases by the end of 2027, despite Governor Andrew Bailey pushing back against the view that another hike is inevitable and stressing that future decisions will depend on evolving economic and geopolitical developments. Meanwhile, the dollar strengthened further after stronger-than-expected US PPI data lifted the implied probability of a Fed rate hike next week to above 70%."
+    },
+    {
+      "id": "5087740",
+      "time": "2026-09-10 21:32:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報25989.549點；道指跌0.38%，現報52183.711點；標普500指數跌0.58%，現報7591.840點。"
+    },
+    {
+      "id": "5087739",
+      "time": "2026-09-10 21:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【惠州：港澳居民來惠置業 推薦人最高可獲1.5萬元/套獎勵】9月10日，廣東省惠州市住房和城鄉建設局釋出關於開展港澳居民來惠置業安居全民營銷活動的通知。通知顯示，為深入落實粵港澳大灣區建設部署，進一步啟用港澳居民在惠置業需求，促進惠州市房地產市場平穩健康發展，充分調動社會力量拓展港澳客源，經市人民政府同意，決定在全市開展港澳居民來惠置業安居全民營銷活動。"
+    },
+    {
+      "id": "5087738",
+      "time": "2026-09-10 21:32:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤初 儲存板塊大幅低開】美股盤初，費城半導體指數下跌2.43%，美光科技下跌3.42%，SK海力士下跌4.00%，閃迪下跌2.64%，西部資料下跌3.82%，希捷科技下跌3.41%。"
+    },
+    {
+      "id": "mkt:01a08b84-df68-7118-852d-3492f620bac1",
+      "time": "2026-09-10 21:32:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues navigation warning for live-fire exercises in Bohai Sea】Tangshan Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will conduct live-fire exercises from 0000 on Sept 11 to 2400 on Sept 12; navigation and entry are prohibited."
+    },
+    {
+      "id": "mkt:01a08b84-d5a4-7118-852d-2fc6453435b8",
+      "time": "2026-09-10 21:32:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said interest-rate increases remain robust across all three scenarios."
+    },
+    {
+      "id": "5087737",
+      "time": "2026-09-10 21:32:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "Global X 銅礦商 ETF 下跌 6.8%，為 6 月以來最大跌幅。"
+    },
+    {
+      "id": "5087736",
+      "time": "2026-09-10 21:31:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，任何會推高能源價格的舉措都將遭到維塞格拉德集團（V4）否決。"
+    },
+    {
+      "id": "5087735",
+      "time": "2026-09-10 21:31:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：我們預計今年剩餘時間內GDP增速將保持穩定。"
+    },
+    {
+      "id": "mkt:01a08b84-3e37-7118-852d-224f4bdc4172",
+      "time": "2026-09-10 21:31:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "At the open on Thursday, Sept. 10, U.S. equity indexes were lower: Dow Jones Industrial Average down 236.14 points (-0.45%) at 52,144.52; Nasdaq Composite down 232.08 points (-0.88%) at 26,021.26; S&P 500 down 44.43 points (-0.58%) at 7,592.06."
+    },
+    {
+      "id": "5087734",
+      "time": "2026-09-10 21:31:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭消費增長已經放緩。"
+    },
+    {
+      "id": "5087733",
+      "time": "2026-09-10 21:31:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "梅西百貨股價下跌約5%，此前該公司公佈第三季度虧損幅度超出預期。"
+    },
+    {
+      "id": "5087732",
+      "time": "2026-09-10 21:31:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）東部學校火災致20名學生死亡】據剛果（金）方面10日訊息稱，該國東部南基伍省首府布卡武當天發生火災，造成至少20名學生死亡、多人重傷。據悉，火災發生在相鄰的兩所學校，遇難者均為學生。火災現場發生踩踏，另有多人因受傷或吸入濃煙接受救治。事故原因仍在調查中。（央視新聞）"
+    },
+    {
+      "id": "5087731",
+      "time": "2026-09-10 21:31:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲央行將公佈良性、不利和嚴重三種情景。"
+    },
+    {
+      "id": "5087730",
+      "time": "2026-09-10 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.38%，標普500指數跌0.54%，納指跌0.88%。庫珀醫療跌16.93%，麥克莫蘭銅金跌8.20%，CoreWeave跌5.77%，泛林集團跌4.08%，Arm Holdings Plc跌4.05%，西部資料跌4.04%。“七姐妹”方面：蘋果漲1.38%，谷歌跌0.47%，微軟跌0.67%，Meta Platforms跌0.68%，亞馬遜跌0.81%，英偉達跌1.33%，特斯拉跌2.43%。"
+    },
+    {
+      "id": "te:markets:582824",
+      "time": "2026-09-10 21:30:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 4-week Low — Netflix shares decreased to 75.46 USD, the lowest since August 2026. Over the past 4 weeks, Netflix lost 0.34%, and in the last 12 months, it decreased 39.06%."
+    },
+    {
+      "id": "mkt:01a08b83-7dcc-7118-852d-1d15917726c9",
+      "time": "2026-09-10 21:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Wall Street (US)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "INTC.O"
+      ],
+      "text": "【Fed rate-hike bets rise; US stocks open lower】U.S. equities opened lower as Fed rate-hike expectations rose: Dow -0.17%, S&P 500 -0.53%, Nasdaq -0.93%. Chip names led losses — SK Hynix (SKHY.O) -4.1%, Intel (INTC.O) -3.0%, SanDisk (SNDK.O) -3.2%; TSMC (TSM.N) fell 1.7% after earnings."
+    },
+    {
+      "id": "5087729",
+      "time": "2026-09-10 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，再鼎醫藥跌5.03%，金山雲跌4.26%，禾賽科技跌3.17%，晶科能源跌3.04%，阿特斯跌2.67%。"
+    },
+    {
+      "id": "5087728",
+      "time": "2026-09-10 21:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.25%，現報11663.00點。英偉達跌1.40%，博通跌1.30%，美光跌3.18%，英特爾跌3.10%，AMD跌2.29%，高通跌1.62%，臺積電跌1.73%，阿斯麥跌2.22%。"
+    },
+    {
+      "id": "5087727",
+      "time": "2026-09-10 21:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪與棒約翰達成合作，此前已和唐恩都樂、賽百味建立夥伴關係。"
+    },
+    {
+      "id": "5087726",
+      "time": "2026-09-10 21:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪宣佈與棒約翰達成外賣配送合作。"
+    },
+    {
+      "id": "mkt:01a08b82-f93b-7118-852d-15726da3d50a",
+      "time": "2026-09-10 21:30:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【U.S. August PPI in line with forecasts; market focus turns to CPI】U.S. August producer prices matched analysts’ expectations, rising 0.4% MoM. Market attention shifts to tomorrow’s CPI print. CME’s FedWatch tool shows market-implied odds of a September rate hike near 70%. After the CPI release, economists will update forecasts for the Fed’s preferred inflation gauge, the PCE price index. If CPI comes in below expectations, that would further support a view that the Fed will keep rates unchanged. Northlight Asset Management CIO Chris Zaccarelli said: \"Although a hike at the October meeting is possible, the odds of the Fed starting a new tightening cycle are extremely low.\""
+    },
+    {
+      "id": "5087725",
+      "time": "2026-09-10 21:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，9月11日0時至9月12日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "te:markets:582822",
+      "time": "2026-09-10 21:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Stock Price Hits 31-week Low — Enbridge shares decreased to 66.70 CAD, the lowest since February 2026. Over the past 4 weeks, Enbridge lost 6.92%, and in the last 12 months, it decreased 0.89%."
+    },
+    {
+      "id": "mkt:01a08b82-d984-7118-852d-0d0e0f7bf2b2",
+      "time": "2026-09-10 21:30:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【TIMIRAOS: Friday inflation report key to whether Fed hikes】TIMIRAOS said Waller’s Jackson Hole remarks raised investors’ perceived odds of a Fed hike but did not specify what would trigger one. Markets have filled that information gap and now price a hike size Waller never pledged. Consequently, Friday’s inflation report is being treated as pivotal for any Fed move; Waller has long opposed relying on a single data point for such decisions."
+    },
+    {
+      "id": "5087724",
+      "time": "2026-09-10 21:30:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”：週五的通脹報告是美聯儲是否加息的關鍵】“美聯儲傳聲筒”Nick Timiraos表示，沃什在傑克遜霍爾的演講讓投資者相信加息的可能性更大，但他並沒有告訴他們什麼會觸發加息。市場填補了這一資訊空白，現在市場預期的加息幅度是沃什從未承諾過的。因此，週五的通脹報告被視為決定是否加息的關鍵，而沃什多年來一直反對這種決策方式。"
+    },
+    {
+      "id": "te:economy:582821",
+      "time": "2026-09-10 21:29:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield Hits 19-Year High as BoE Hike Bets Surge — The UK 10-year gilt yield jumped above 5.3%, its highest level since August 2007, as expectations for further Bank of England rate hikes intensified amid mounting inflation concerns. Rising energy prices, alongside the ECB’s rate increase and more hawkish inflation outlook, added to pressure on UK yields. Brent crude climbed above $100 a barrel, while UK natural gas prices reached their highest level since late 2022 as escalating Middle East tensions raised concerns over energy supplies. Markets are now fully pricing four BoE rate increases by the end of 2027, despite Governor Andrew Bailey pushing back against the view that another hike is inevitable, stressing that future decisions will depend on evolving economic and geopolitical developments. In the Eurozone, the ECB delivered its expected rate hike, raised its inflation forecasts for the next two years and warned that inflation could remain above its 2% target for an “extended period.”"
+    },
+    {
+      "id": "5087723",
+      "time": "2026-09-10 21:29:25",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：在三種情景下，加息決定都站得住腳。"
+    },
+    {
+      "id": "5087722",
+      "time": "2026-09-10 21:29:14",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【能源價格飆升 美國生產者價格創三個月最大漲幅】美國一項生產者價格通脹指標顯示，上月能源價格上漲再次帶來通脹壓力，可能進一步強化美聯儲下週會議加息的理由。美國勞工統計局週四公佈的資料顯示，生產者價格指數(PPI) 8月環比上漲0.4%，為5月以來最大漲幅；同比上漲5.4%。剔除食品和能源後，核心PPI環比上漲0.2%，同比上漲4.6%。PPI報告公佈一天後，美國將釋出最新消費者價格指數(CPI)。預計資料顯示，儘管汽油價格上漲推高整體CPI，但核心通脹仍相對溫和。一些美聯儲官員已經暗示，9月15日至16日會議上的利率決定可能取決於本週這些通脹報告透露出的資訊。美聯儲主席凱文·沃什上月在一次講話中表示，如果決策者無法確信基礎通脹趨勢正在顯著改善，那麼美國央行則“還有工作要做”。週四公佈的資料顯示，在連續兩個月下降後，能源以及運輸和倉儲成本8月大幅上漲，而美伊之間持續的敵對行動可能令前景進一步複雜化。"
+    },
+    {
+      "id": "mkt:01a08b81-e2bd-7118-852d-032c8f8f9154",
+      "time": "2026-09-10 21:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhishenxing-2 main engine CQ-90 completes 130-second rated test】Xinghe Power Aerospace completed a 130-second long-duration rated test of the CQ-90 (Cangqiong-90), a new-generation 100-ton-class liquid oxygen/kerosene main engine for the reusable Zhishenxing-2 launcher, at the Niutoushan test stand. The run was stable and met design performance; the engine has recorded more than 20 developmental test firings and has entered a reliability-verification phase toward engineering standardization and flight application, supplying core propulsion for stage vertical recovery and reuse."
+    },
+    {
+      "id": "5087721",
+      "time": "2026-09-10 21:28:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：歐洲央行將釋出基準、不利及嚴重壓力情景。"
+    },
+    {
+      "id": "5087720",
+      "time": "2026-09-10 21:28:03",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：我們預計未來數月 CPI 存在突破目標區間的風險。"
+    },
+    {
+      "id": "mkt:01a08b80-f9c1-7118-852c-fd258c72dd32",
+      "time": "2026-09-10 21:28:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB president Lagarde said that, from a financial perspective, negotiations over \"debt cancellation\" are very dangerous."
+    },
+    {
+      "id": "5087719",
+      "time": "2026-09-10 21:27:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德銀：極端天氣拖累歐洲增長，食品通脹上行風險延續至2027年】德意志銀行9月9日釋出研報稱，2026年夏季熱浪、乾旱與厄爾尼諾疊加中東能源衝擊，正加大歐洲增長下行和通脹上行風險。食品通脹可能接近低點，未來數季至2027年將面臨上漲壓力。研報顯示，6—7月英國及歐元區平均氣溫較常年高逾2℃，土壤溼度低於正常水平。英國今夏為1884年以來最熱，西歐亦創紀錄。德銀以今冬厄爾尼諾海溫異常達2.2℃為基準情景，對26個歐洲經濟體進行建模。"
+    },
+    {
+      "id": "5087718",
+      "time": "2026-09-10 21:27:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智神星二號主發動機CQ-90完成130秒長程試車】近日，星河動力航天在牛頭山試車臺，成功完成大型可重複使用液體運載火箭智神星二號主發動機——新一代百噸級CQ-90（蒼穹-90）液氧/煤油發動機的130秒長程額定工況試車考核。據介紹，試車全程執行平穩，各項效能指標均滿足設計要求，試車取得圓滿成功。至此，蒼穹-90發動機已完成20餘次研究性攻關試車，正式跨入可靠性驗證試車階段，向著工程化定型與飛行應用邁出決定性一步，為智神星二號子級垂直回收和重複使用提供核心動力保障。"
+    },
+    {
+      "id": "5087717",
+      "time": "2026-09-10 21:27:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：無論從法律層面還是技術層面，取消債務都並非良策。"
+    },
+    {
+      "id": "5087716",
+      "time": "2026-09-10 21:27:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國—白俄羅斯卓越工程師學院在明斯克開班】中國—白俄羅斯卓越工程師學院首個學年開學典禮10日在白俄羅斯國立技術大學舉行。（新華社）"
+    },
+    {
+      "id": "te:markets:582820",
+      "time": "2026-09-10 21:27:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans is down by 12.04% — Soybeans decreased 12.04% to 1139.28 USd/Bu"
+    },
+    {
+      "id": "te:markets:582819",
+      "time": "2026-09-10 21:27:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 10-week Low — Soybeans decreased to 1140.00 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Soybeans gained 13.05%, and in the last 12 months, it increased 25.95%."
+    },
+    {
+      "id": "5087715",
+      "time": "2026-09-10 21:27:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：自伊朗戰事爆發以來，歐洲天然氣價格已翻倍。"
+    },
+    {
+      "id": "5087714",
+      "time": "2026-09-10 21:26:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞釋出法令：為籌措2026年開支，將國內債券發行規模提高25萬億比索。"
+    },
+    {
+      "id": "5087713",
+      "time": "2026-09-10 21:26:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張靖皋長江大橋南航道橋先導索成功過江】9月10日，一根直徑21毫米的輕質高強迪尼瑪繩自長江南岸經船舶牽引平穩跨越2300米江面，與北岸精準對接。至此，張靖皋長江大橋南航道橋先導索順利過江，正式轉入上部結構施工關鍵階段。 張靖皋長江大橋連線江蘇蘇州、泰州和南通，跨江段全長7859米，設定南、北兩座航道橋及南中北三段引橋。大橋建成後，將有效提升蘇州、泰州和南通三地間的通行效率，最佳化長江干線過江通道佈局。（新華社）"
+    },
+    {
+      "id": "mkt:01a08b7f-80fe-7118-852c-f5b8db05351c",
+      "time": "2026-09-10 21:26:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IAEA observes construction at Pikeh Zoushan; tunnel complex not inspected】The IAEA said it has observed construction activity at Pikeh Zoushan, a heavily fortified site south of Tehran's main uranium-enrichment plant suspected of nuclear-related activity. Director General GROSSI said the agency has not inspected the tunnel complex; remote-sensing imagery shows new movement and signs of activity around the construction site, but there is no specific information on what is occurring inside. His comments followed the IAEA's referral of Iran's nuclear file to the UN Security Council for non-compliance with nuclear-related obligations. Since June 2025, after Israeli and US strikes on Iran's large nuclear facilities, IAEA inspectors have been unable to verify the status or location of Iran's near‑weapons‑grade uranium stocks. Former US president Trump referenced the site publicly at least twice in the past week."
+    },
+    {
+      "id": "mkt:01a08b7f-6f1c-7118-852c-ea0b17a30b94",
+      "time": "2026-09-10 21:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said cancelling debt would be a blatant violation of the treaty."
+    },
+    {
+      "id": "5087712",
+      "time": "2026-09-10 21:26:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：取消債務將完全違反《歐盟條約》。"
+    },
+    {
+      "id": "mkt:01a08b7f-2330-7118-852c-e0248d0e9afd",
+      "time": "2026-09-10 21:26:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Polish central bank governor Glapinski said fuel prices are pushing up Polish inflation."
+    },
+    {
+      "id": "mkt:01a08b7f-0eeb-7118-852c-d999adfab012",
+      "time": "2026-09-10 21:25:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said yield spreads reflect the market's assessment of a country's bonds."
+    },
+    {
+      "id": "5087711",
+      "time": "2026-09-10 21:25:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：燃油價格推高波蘭通脹。"
+    },
+    {
+      "id": "5087710",
+      "time": "2026-09-10 21:25:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：受外部衝擊影響，未來政策決策存在不確定性。"
+    },
+    {
+      "id": "mkt:01a08b7e-b496-7118-852c-d1c19376f2b1",
+      "time": "2026-09-10 21:25:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank Governor Glapinski said Poland's CPI is approaching the upper end of the target range."
+    },
+    {
+      "id": "5087709",
+      "time": "2026-09-10 21:25:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：利差反映了市場對一國債券的看法。"
+    },
+    {
+      "id": "5087708",
+      "time": "2026-09-10 21:25:12",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭 CPI 處於目標區間上限附近。"
+    },
+    {
+      "id": "5087707",
+      "time": "2026-09-10 21:25:04",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【常軍紅出席2026年第二次金磚國家財長和央行行長系列會議】9月10日，2026年第二次金磚國家財長和央行行長會議在印度孟買舉行。會議圍繞全球經濟形勢、金磚國家經濟面臨的機遇與挑戰、金磚財金務實合作等議題進行了討論，並審議透過《金磚國家財長和央行行長聯合宣告》。當日，新開發銀行舉行理事會特別會議，審議並批准了新開行第三個五年總體戰略（2027-2031）。財政部部長助理常軍紅率團出席上述會議併發言。常軍紅表示，中方願與各方一道支援新開行做大做強，推動新開行順利開啟高質量發展的第二個“金色十年”。常軍紅還宣介了中國經濟向新向優向好態勢，強調中國將與“全球南方”國家分享發展機遇，為世界經濟增長貢獻積極力量。（財政部）"
+    },
+    {
+      "id": "mkt:01a08b7e-4068-7118-852c-cb686df71575",
+      "time": "2026-09-10 21:25:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chang Junhong attends second 2026 BRICS finance ministers and central bank governors meetings】Sept. 10, 2026, Mumbai — China’s delegation, led by Assistant Finance Minister Chang Junhong, took part in the second 2026 BRICS finance ministers and central bank governors meetings. The New Development Bank approved its third five‑year overall strategy (2027–2031) at a special board session. Chang said China will support scaling up and strengthening the NDB to enable a high‑quality second \"golden decade\" and described China’s economy as shifting toward higher‑quality growth, pledging to share development opportunities with Global South countries to help global growth."
+    },
+    {
+      "id": "5087706",
+      "time": "2026-09-10 21:24:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：我不會對利差發表評論。"
+    },
+    {
+      "id": "mkt:01a08b7e-0033-7118-852c-c0a7e67bab59",
+      "time": "2026-09-10 21:24:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold falls below $4,400 after U.S. PPI release】U.S. producer prices accelerated in August, sending New York gold futures below $4,400/oz. Stephen Brown, Capital Economics' North America chief economist, said PPI subcomponents that feed into the core PCE deflator were notably strong in August, raising the likelihood of a Fed rate hike next week. CME FedWatch now prices roughly a 70% probability of a hike, versus about 60% earlier on Thursday. In U.S. morning trade a stronger dollar and rising Treasury yields pressured gold down 1.5% to $4,392.90/oz."
+    },
+    {
+      "id": "5087705",
+      "time": "2026-09-10 21:24:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NEC退出量子計算機硬體裝置研發】日本電氣股份有限公司NEC已退出量子計算機的硬體裝置研發。該公司認為要實現應用，未來十多年需持續投資，難以實現盈利。資金實力處於弱勢的日本企業面臨嚴峻挑戰。"
+    },
+    {
+      "id": "5087704",
+      "time": "2026-09-10 21:24:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沃爾沃將在瑞典建設 70MW/260MWh 儲能園區，為該國最大同類設施之一】Volvo（沃爾沃）今日宣佈將在其瑞典 Mariestad 在建電池生產基地附近建設一座能源園區，初期部署 70MW/260MWh 儲能電池。此處將成為全瑞典最大的能源園區之一，也將成為創新能源解決方案測試平臺。Mariestad 能源園區將採用沃爾沃能源的電池儲能系統，預計 2027 年投入運營。其儲存的電能可在外部需要時迴流到電網，增強當地能源系統的穩定性與韌性。"
+    },
+    {
+      "id": "mkt:01a08b7d-f07c-7118-852c-bc9b1c9b4385",
+      "time": "2026-09-10 21:24:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said she will not comment on spreads."
+    },
+    {
+      "id": "mkt:01a08b7d-a8d6-7118-852c-b73971eb6cbd",
+      "time": "2026-09-10 21:24:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "Japan & APAC",
+        "EURUSD",
+        "Impact mixed",
+        "USDJPY"
+      ],
+      "text": "ECB President Lagarde said the earlier euro-yen joint intervention amounted to €500 million."
+    },
+    {
+      "id": "5087703",
+      "time": "2026-09-10 21:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【NASA與IBM聯合釋出開源月球研究基礎大模型，可識別月表冰區與撞擊坑】當地時間週四，雙方聯合釋出了NASA-IBM月球基礎大模型。這是一套開源人工智慧系統，可在Hugging Face平臺下載。IBM歐洲、英國及愛爾蘭研究院院長鬍安·貝爾納韋-莫雷諾博士介紹，作為基礎大模型，它可以完成多項任務。首先，NASA與IBM發現，該模型特別擅長識別月球表面可能存在冰的區域。"
+    },
+    {
+      "id": "mkt:01a08b7d-0c10-7118-852c-aa025380975d",
+      "time": "2026-09-10 21:23:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI ends $1/yr US government pilot, shifts to usage-based pricing; federal staff get 50% discount】OpenAI is ending a GSA pilot that let federal agencies access its models for $1 per year and will move to usage-based pricing, the U.S. General Services Administration said. Federal employees will receive a 50% discount off standard pricing. OpenAI joined the GSA OneGov marketplace in August; the initial $1-per-year term negotiated in first-year talks was the largest technology discount in GSA history. GSA said about 3.5 million federal employees used ChatGPT during the pilot, generating $1.4 billion in cost savings."
+    },
+    {
+      "id": "5087702",
+      "time": "2026-09-10 21:23:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭央行的溝通工作 “十分出色”。"
+    },
+    {
+      "id": "5087701",
+      "time": "2026-09-10 21:22:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：我的自傳宣傳推廣工作只會在休息日開展。"
+    },
+    {
+      "id": "5087700",
+      "time": "2026-09-10 21:22:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：不對任何外匯干預行動置評。歐元兌日元干預規模為 5 億歐元。"
+    },
+    {
+      "id": "5087699",
+      "time": "2026-09-10 21:22:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星組織：將由阿麗亞娜64型火箭發射一網公司衛星任務。"
+    },
+    {
+      "id": "mkt:01a08b7b-dd04-7118-852c-a1a57de15beb",
+      "time": "2026-09-10 21:22:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said she would not comment on any FX intervention."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870807669",
+      "time": "2026-09-10 21:22:25",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "交易員認為歐洲央行10月加息機率超過50%。"
+    },
+    {
+      "id": "mkt:01a08b7b-c93e-7118-852c-9fa5cf60fd9c",
+      "time": "2026-09-10 21:22:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said she strongly hopes digital-euro legislation can pass before year-end."
+    },
+    {
+      "id": "mkt:01a08b7b-b382-7118-852c-9683d82d2edf",
+      "time": "2026-09-10 21:22:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Markets price the probability of an ECB rate hike in October at over 50%."
+    },
+    {
+      "id": "5087698",
+      "time": "2026-09-10 21:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局選中因維申（INVERSION）專案，為未來行星際任務推進空氣捕獲技術發展。"
+    },
+    {
+      "id": "5087697",
+      "time": "2026-09-10 21:21:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Melius維持蘋果“買入”評級 預計iPhone Duo可顯著推升iPhone收入】Melius Research在蘋果推出首款摺疊屏手機iPhone Duo後，維持對蘋果“買入”評級和370美元目標價，較當前約315.34美元股價對應約17%的上漲空間。該機構預計，如果供應允許，蘋果2027財年可銷售約1500萬部iPhone Duo，並認為中雙位數百萬部的產量規模具有可行性。Melius指出，Duo起售價為1999美元，較高的平均售價有望推動未來兩年iPhone收入增長約20%，明顯高於市場目前對蘋果2027財年約9%的增長預期。該機構同時認為，蘋果將在2027財年晚些時候繼續推出更多新品，並有望進一步擴大Mac市場份額。Melius稱，新任CEO John Ternus上任初期的業績預期門檻相對較低，這可能為其任期初期表現提供更有利的比較基礎。"
+    },
+    {
+      "id": "5087696",
+      "time": "2026-09-10 21:21:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星公司（Eutelsat）已選定阿麗亞娜空間公司（Arianespace）承擔OneWeb低軌衛星星座的兩次發射任務。"
+    },
+    {
+      "id": "5087695",
+      "time": "2026-09-10 21:21:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：九月低硫柴油到期交割量為740手合約。"
+    },
+    {
+      "id": "mkt:01a08b7b-424e-7118-852c-8bc71cbb4862",
+      "time": "2026-09-10 21:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemeni government military sources say Houthi forces have reached the Hanish Islands in the Red Sea."
+    },
+    {
+      "id": "5087694",
+      "time": "2026-09-10 21:21:37",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員認為歐洲央行 10 月加息機率超 50%。"
+    },
+    {
+      "id": "5087693",
+      "time": "2026-09-10 21:21:15",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "兩名葉門政府軍方訊息人士稱，葉門胡塞武裝已控制紅海的哈尼什群島。"
+    },
+    {
+      "id": "5087692",
+      "time": "2026-09-10 21:21:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：對數字歐元立法在年底前獲得表決透過抱有很大希望。"
+    },
+    {
+      "id": "5087691",
+      "time": "2026-09-10 21:20:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青海省教育廳與科大訊飛簽署戰略合作協議】9月10日，青海省教育廳與科大訊飛股份有限公司在合肥正式簽署戰略合作協議。根據協議，雙方將圍繞多方面開展AI+教育合作。"
+    },
+    {
+      "id": "5087690",
+      "time": "2026-09-10 21:19:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：高昂能源成本、歐盟氣候法規或對波蘭造成損害。"
+    },
+    {
+      "id": "5087689",
+      "time": "2026-09-10 21:19:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "德國兩年期國債收益率上漲8個基點至3.15%，此前歐洲央行行長拉加德發表講話。"
+    },
+    {
+      "id": "5087688",
+      "time": "2026-09-10 21:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車集團：除已向空客採購的440顆衛星即將交付發射外，計劃再增購一批衛星。"
+    },
+    {
+      "id": "5087687",
+      "time": "2026-09-10 21:18:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空中客車集團：歐洲通訊衛星公司向空中客車追加訂購229顆一網衛星。"
+    },
+    {
+      "id": "5087686",
+      "time": "2026-09-10 21:18:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：近期通脹水平低於預期，食品通脹尤為明顯。但通脹將持續更長時間。2026年經濟增長可能會超過0.9%的預測，原因是第二季度表現強勁。"
+    },
+    {
+      "id": "5087685",
+      "time": "2026-09-10 21:17:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：對經濟韌性感到意外。截止日期後的資料顯示，2026年經濟增速將高於此前預測水平。"
+    },
+    {
+      "id": "5087683",
+      "time": "2026-09-10 21:16:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：我們正在密切監控債券市場，尤其是長端債券市場。"
+    },
+    {
+      "id": "te:markets:582816",
+      "time": "2026-09-10 21:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slides as Fed Rate Hike Bets Surge — Silver tumbled around 4% to $64.5 an ounce on Thursday as traders increased their bets on a Federal Reserve rate hike next week following stronger-than-expected US producer price data. US PPI rose 0.4% in August, while annual producer inflation accelerated to 5.4%, surpassing market expectations of 5.3%, driven by a sharp rise in energy prices, alongside evidence of stronger cost pass-through across other sectors. The data came as oil prices rallied again amid escalating US-Iran strikes in the Middle East, reinforcing expectations for tighter monetary policy and prompting markets to price in a more than 70% chance of a Federal Reserve rate hike on September 16. Meanwhile, traders also increased their bets on further European Central Bank tightening after the central bank raised borrowing costs as expected and warned that inflation risks remained tilted to the upside."
+    },
+    {
+      "id": "5087682",
+      "time": "2026-09-10 21:15:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大型工業工具分銷商MSC Industrial高管Martina McIsaac：一場鎢供應衝擊正在波及該公司的供應鏈，並持續推高工業刀具成本。目前鎢價確實已經有所企穩，但供應鏈受到的連鎖影響還沒有結束。"
+    },
+    {
+      "id": "5087681",
+      "time": "2026-09-10 21:15:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：人工智慧領域的巨大融資需求是關鍵驅動因素。"
+    },
+    {
+      "id": "5087680",
+      "time": "2026-09-10 21:15:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：全球範圍內正在出現債券重新定價。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870801631",
+      "time": "2026-09-10 21:15:00",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐央行行長拉加德表示，此次加息決定獲一致透過。"
+    },
+    {
+      "id": "5087679",
+      "time": "2026-09-10 21:15:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【IEA：LNG運輸若難恢復，明年或再破紀錄】據國際能源署（IEA）釋出的最新報告，受天然氣價格大幅上漲引發\"氣轉煤\"、強厄爾尼諾現象推高製冷需求等因素影響，今年全球煤炭需求將創新高；明年走勢則主要取決於途經霍爾木茲海峽的液化天然氣（LNG）運輸能否恢復。媒體援引IEA於當地時間9月10日釋出的報告指出，天然氣價格上漲，疊加強厄爾尼諾現象推高空呼叫電需求，今年全球煤炭消費量將創歷史新高。同時，報道援引IEA預計，由於高庫存和政策措施抑制產出，2026年全球煤炭產量將下降0.7%。"
+    },
+    {
+      "id": "5087678",
+      "time": "2026-09-10 21:14:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：收益率上漲並非歐元區特有問題。"
+    },
+    {
+      "id": "5087677",
+      "time": "2026-09-10 21:14:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昊華科技：旗下西南院承建全球最大綠色甲醇專案首批綠色甲醇啟運】昊華科技9月10日官微訊息，旗下西南院總承包的金風綠能化工綠氫制綠色甲醇專案產品首發發運儀式啟動，首批綠色甲醇產品正式交付。據悉，該專案是目前全球最大綠色甲醇生產專案（分三期建設），預計2027年年底形成年產145萬噸綠色甲醇的能力，已被列入國家能源局首批綠色液體燃料技術攻關與產業化試點名單。"
+    },
+    {
+      "id": "5087676",
+      "time": "2026-09-10 21:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華貿物流：收到上海證監局行政監管措施決定書】華貿物流公告稱，公司近日收到上海證監局出具的行政監管措施決定書，經查公司存在三項違規事項：一是佳成物流業績承諾完成情況披露不及時、不準確，2021-2025年年報未反映業績承諾補償事項；二是2023年9月以來與佳成物流、武漢華貿佳成的關聯交易未履行審議程式及披露義務；三是2023年、2024年分別向佳成物流支付5015萬元、1.00億元，構成關聯方非經營性資金佔用，相關款項已於2026年8月歸還。上海證監局決定對公司採取責令改正措施，對向宏、吳春權、陳宇、於永乾採取出具警示函措施，公司需在收到決定書之日起30日內提交整改報告。"
+    },
+    {
+      "id": "5087675",
+      "time": "2026-09-10 21:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Graph AI完成1330萬美元A輪融資，以規模化推廣首款面向患者安全的原生人工智慧作業系統。"
+    },
+    {
+      "id": "5087674",
+      "time": "2026-09-10 21:14:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翱捷科技：阿里網路提前終止減持計劃 累計減持1.86%股份】翱捷科技公告稱，公司持股5%以上股東阿里巴巴（中國）網路技術有限公司原計劃減持不超過公司總股本3%的股份，截至公告披露日，其透過大宗交易及集中競價交易方式合計減持公司股份776.58萬股，佔公司總股本的1.8565%，減持總金額7.03億元，剩餘未減持股份不再減持，本次減持計劃提前終止。此外，阿里網路於2026年9月8日至9月10日減持公司股份248.27萬股，持股比例由11.17%降至10.58%，權益變動觸及1%刻度，本次變動不觸及要約收購，不會導致公司實控人變化。"
+    },
+    {
+      "id": "5087673",
+      "time": "2026-09-10 21:14:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大中礦業：回購股份方案實施完畢 累計耗資4.00億元】大中礦業公告稱，公司回購股份方案已實施完畢，回購實施期間為2026年7月9日至2026年9月9日。截至2026年9月9日，公司透過集中競價方式累計回購股份1450.36萬股，佔公司總股本的0.95%，最高成交價30.27元/股，最低成交價24.71元/股，成交總金額4.00億元（不含交易費用），達到回購資金總額下限。本次回購股份擬用於員工持股計劃、股權激勵或可轉債轉股，若36個月內未使用完畢，未使用部分將依法登出。"
+    },
+    {
+      "id": "te:markets:582815",
+      "time": "2026-09-10 21:14:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slides as Strong PPI Fuels Fed Rate Hike Bets — Gold fell to around $4,350 an ounce on Thursday as traders increased bets on a Federal Reserve rate hike next week following stronger-than-expected US producer price data. US PPI rose 0.4% in August, while annual producer inflation accelerated to 5.4%, above the 5.3% forecast, reflecting a surge in energy prices, alongside signs of greater cost pass-through across broader sectors. The data coincided with a fresh rally in oil prices amid escalating US-Iran strikes in the Middle East, prompting investors to price in a more than 70% probability of a Federal Reserve rate hike on September 16. Meanwhile, traders also raised bets on further ECB tightening after the central bank delivered an expected rate hike and warned that inflation risks remained tilted to the upside."
+    },
+    {
+      "id": "5087672",
+      "time": "2026-09-10 21:13:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：決策毫無懸念。"
+    },
+    {
+      "id": "5087671",
+      "time": "2026-09-10 21:13:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：本次決定獲得一致透過。"
+    },
+    {
+      "id": "5087670",
+      "time": "2026-09-10 21:13:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：不認為中性利率有那麼重要。"
+    },
+    {
+      "id": "5087669",
+      "time": "2026-09-10 21:13:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒿慧傑會見渣打銀行（中國）有限公司行長兼副董事長魯靜一行】9月10日，陝西省委常委、西安市委書記蒿慧傑會見渣打銀行（中國）有限公司行長兼副董事長魯靜一行。蒿慧傑代表市委市政府對魯靜一行表示歡迎。他說，渣打銀行是全球領先的國際銀行集團，長期深耕西安市場，在支援本土企業拓展海外市場、助力跨國企業在西安發展、推進中小企業銀行業務轉型等方面提供了精準金融服務，為西安經濟社會發展作出了積極貢獻。（西安釋出）"
+    },
+    {
+      "id": "5087668",
+      "time": "2026-09-10 21:13:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【何立峰出席礦業國際合作部長論壇暨2026中國國際礦業大會開幕式並在天津調研 】中共中央政治局委員、國務院副總理何立峰10日在天津出席礦業國際合作部長論壇暨2026中國國際礦業大會開幕式並致辭。何立峰指出，近年來，在習近平主席提出的構建人類命運共同體理念的科學指引下，中國政府深入推進全球礦業合作，以實際行動踐行四大全球倡議，探索出一條開放包容、合作共贏的高質量發展之路，與各國建立了相互尊重、和平共處、互利共贏的良好合作關係，共同取得了豐碩成果。何立峰指出，礦業國際合作是實現各國資源優勢互補、促進經濟社會發展的重要載體，也是維護全球產供鏈安全穩定的現實需要。中國始終充分尊重各國礦產資源主權，支援各國自主選擇符合本國國情的資源開發、產業發展道路，願同各國深化全方位務實合作，共享礦業發展機遇，共同開創互利共贏、綠色繁榮的全球礦業美好未來。開幕式前，何立峰到礦山機械裝備博覽會展館巡館。在津期間，何立峰還調研了中新天津生態城、天津濱海－中關村科技園、國家級經開區、綜合保稅區建設運營情況。他指出，要深入實施京津冀協同發展戰略，發揮政策和區位優勢，加快推進城市更新，積極推動各類開放載體轉型升級，支援發展跨境電商、融資租賃、物流倉儲等業態，在推動高水平開放、高質量發展上不斷取得新成效。（新華社）"
+    },
+    {
+      "id": "5087667",
+      "time": "2026-09-10 21:12:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：無法預判下一步舉措。中性利率區間仍是一項持續推進中的工作。"
+    },
+    {
+      "id": "5087666",
+      "time": "2026-09-10 21:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【現代牧業：Start Great 9.90%表決代理權部分失效】現代牧業公告，此前現代牧業控股、Start Great與蒙牛訂立表決權協議，Start Great向現代牧業控股授予其持有的20.87億股中國聖牧股份表決代理權。公告稱，8.3億股（約9.90%）不可撤銷表決代理權部分失效，12.57億股（約15.00%）仍完全有效；現代牧業控股及其一致行動人士有權行使合共70億股（約83.52%）表決權。"
+    },
+    {
+      "id": "5087665",
+      "time": "2026-09-10 21:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空與WZL-2簽署F404發動機維護、維修與大修支援諒解備忘錄。"
+    },
+    {
+      "id": "5087664",
+      "time": "2026-09-10 21:10:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：不確定性幾乎可以在一夜之間改變局勢。"
+    },
+    {
+      "id": "5087663",
+      "time": "2026-09-10 21:10:38",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌：道指期貨跌0.19%，標普500指數期貨跌0.55%，納指期貨跌1.32%，三大指數期貨均在PPI釋出後短線暴跌。\n②德國DAX指數跌0.61%，英國富時100指數跌0.48%，法國CAC40指數跌0.33%，歐洲斯托克50指數跌0.67%。\n③WTI原油漲4.27%，報100.14美元/桶。布倫特原油漲4.02%，報105.24美元/桶。\n④PPI資料公佈後，交易員們目前已將9月份加息的機率上調至70%以上，目前關注 10 月美聯儲加息 25 個基點，並預計明年 1 月將再加息一次。\n⑤歐洲央行迎來自2月伊朗戰爭爆發以來的第二次加息，以此應對通脹將持續顯著高於2%的訊號。\n⑥瑞銀執行長塞爾吉奧·埃爾莫蒂（Sergio Ermotti）警示，儘管地緣政治與經濟風險不斷加劇，但過去數年間，投資者卻逐漸滋生出自滿情緒，已經輕視了這些風險。\n⑦【特斯拉美股盤前跌超2%】特斯拉美股盤前跌超2%，現報360.45美元。\n⑧【SK海力士美股盤前跌超4%】SK海力士美股盤前跌超4%，現報190.681美元。\n⑨梅西百貨盤前股價上漲7.6%，此前該公司公佈的第二季度同店銷售額超出預期。"
+    },
+    {
+      "id": "5087662",
+      "time": "2026-09-10 21:10:19",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員借美國PPI推演CPI 美聯儲9月加息機率提高至70%以上】市場對大致符合預期的PPI資料作出的反應，可以用交易員正根據已公佈的相關分項資料推算CPI來解釋。對PPI和CPI這兩組月度資料進行簡單迴歸分析顯示，8月CPI環比漲幅約為0.4%，與市場預期一致，但較前月有所加快。PPI資料的修正也增加了整體通脹資料出現類似上修的風險。在這種背景下，核心通脹月度漲幅較為溫和，並不能給市場帶來多少安慰。交易員目前已將9月加息的機率提高至70%以上，並已完全計入最遲10月首次加息的預期。美元因此獲得提振，而且相對於利率走勢仍有進一步補漲空間。"
+    },
+    {
+      "id": "5087661",
+      "time": "2026-09-10 21:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "D-Matrix還與Astera Labs在NVIDIA NVLink Fusion生態系統內開展合作，共同提供定製化解決方案。"
+    },
+    {
+      "id": "5087660",
+      "time": "2026-09-10 21:09:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：對下次會議的政策方向不持預設看法。"
+    },
+    {
+      "id": "te:markets:582809",
+      "time": "2026-09-10 21:09:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls to 7-Week Low — The FTSE 100 fell around 0.5% to a seven-week low in afternoon trading on Thursday, as Brent crude surged above $105 a barrel after Iran warned it was prepared for a more intense conflict. Mining stocks came under heavy pressure, with Antofagasta and Anglo American falling more than 5%, while Endeavour, Glencore and Rio Tinto each declined by more than 3%. Associated British Foods was also among the biggest losers, dropping over 9% after Primark sales came in weaker than expected and the group outlined plans to demerge the retailer by December 2027. Energy stocks provided some support, with BP gaining 2% and Shell rising 1.8% as higher oil prices boosted the sector. Meanwhile, the European Central Bank raised interest rates by 25 basis points, in line with market expectations. The ECB also lifted its inflation forecasts and warned that price growth is likely to remain above its 2% target for an extended period."
+    },
+    {
+      "id": "5087659",
+      "time": "2026-09-10 21:09:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：我們未討論利率的未來路徑。"
+    },
+    {
+      "id": "5087658",
+      "time": "2026-09-10 21:08:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：若有關於我的任何情況需要通報，你們會是第一批得知的，目前沒有任何可披露的資訊。"
+    },
+    {
+      "id": "5087657",
+      "time": "2026-09-10 21:08:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：尚未討論後續政策路徑。"
+    },
+    {
+      "id": "5087656",
+      "time": "2026-09-10 21:08:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：歐洲央行將履行自身職責。"
+    },
+    {
+      "id": "5087655",
+      "time": "2026-09-10 21:07:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：本次討論的核心為今日做出的決議。"
+    },
+    {
+      "id": "5087654",
+      "time": "2026-09-10 21:07:46",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：黃金儲備未實現收益為 1600 億茲羅提。"
+    },
+    {
+      "id": "5087653",
+      "time": "2026-09-10 21:07:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：能源價格衝擊可能會加劇，其對其他價格和薪資的影響也將強於目前預期。"
+    },
+    {
+      "id": "5087652",
+      "time": "2026-09-10 21:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：結束俄烏衝突的條件保持不變 。"
+    },
+    {
+      "id": "5087651",
+      "time": "2026-09-10 21:06:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行拉加德：這主要是一次供給衝擊。"
+    },
+    {
+      "id": "5087650",
+      "time": "2026-09-10 21:06:36",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：黃金儲備有助於穩定茲羅提。"
+    },
+    {
+      "id": "te:economy:582806",
+      "time": "2026-09-10 21:06:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises Past 4.9% — The yield on the 10-year US Treasury note rose to 4.9% on Thursday as soaring energy prices supported the case for a Federal Reserve rate hike. New data showed that producer prices in the US rose 0.4% from the previous month in August with a surge in energy prices combining with signs of pass-through costs in broader sectors. The data coincided with a fresh rally in oil and product prices amid strikes between the US and Iran in the Middle East, prolonging the blockade of tankers in the Persian Gulf as major economies are forced to refill oil inventory. Yields were higher despite the Treasury's tripling of the notes and bonds buyback today. Besides the impact of higher energy prices, longer-term borrowing costs have been supported by record-setting corporate debt supply, with AI companies issuing north of $1.5 trillion in new issuance. On top of that, pressure on the Japanese yen drove Tokyo to repeatedly sell Treasury securities to defend the currency."
+    },
+    {
+      "id": "5087649",
+      "time": "2026-09-10 21:05:57",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭計劃將黃金儲備提升至 700 噸。"
+    },
+    {
+      "id": "5087648",
+      "time": "2026-09-10 21:05:40",
+      "tags": [
+        "央行",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭國家銀行（NBP）持有黃金648噸。"
+    },
+    {
+      "id": "5087647",
+      "time": "2026-09-10 21:05:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報5459.00元。"
+    },
+    {
+      "id": "5087646",
+      "time": "2026-09-10 21:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人佩斯科夫：目前沒有關於與烏克蘭達成能源停火的實質性討論。"
+    },
+    {
+      "id": "5087645",
+      "time": "2026-09-10 21:05:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲3%，現報8882.00元。"
+    },
+    {
+      "id": "5087644",
+      "time": "2026-09-10 21:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "D-MATRIX公司：搭載於英偉達MGX機架的Raptor XPUS預計將於2027年第四季度面市。"
+    },
+    {
+      "id": "5087643",
+      "time": "2026-09-10 21:04:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲3%，現報1104.00元。"
+    },
+    {
+      "id": "5087642",
+      "time": "2026-09-10 21:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與D-Matrix：D-Matrix將透過NVLink Fusion，將其下一代Raptor XPUs接入英偉達AI基礎設施平臺。"
+    },
+    {
+      "id": "5087641",
+      "time": "2026-09-10 21:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報6168.00元。"
+    },
+    {
+      "id": "5087640",
+      "time": "2026-09-10 21:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "拉加德：若供應進一步中斷或遇異常寒冷冬季且庫存偏低，天然氣價格可能上漲。"
+    },
+    {
+      "id": "5087639",
+      "time": "2026-09-10 21:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "D-Matrix 採用英偉達NVLink Fusion技術，用於機架級XPU部署。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870786384",
+      "time": "2026-09-10 21:03:27",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長拉加德：預計總體通脹率將在2027年底迴歸目標水平附近】歐洲央行行長拉加德表示，預計總體通脹率將在2027年底迴歸目標水平附近，核心通脹將在2028年趨於緩和。"
+    },
+    {
+      "id": "5087638",
+      "time": "2026-09-10 21:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預測中心（CPC）天氣預報：在2026年10-12月期間，發生強度超過1950年以來所有歷史厄爾尼諾事件的破紀錄厄爾尼諾事件機率為75%。"
+    },
+    {
+      "id": "5087637",
+      "time": "2026-09-10 21:03:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空中客車歐洲公司：該訂單涵蓋四套系統的供應，每套系統包含兩臺U050 CAPA-X無人航空系統（UAS），其中兩套系統將交付法國海軍，另外兩套交付法國陸軍。"
+    },
+    {
+      "id": "5087636",
+      "time": "2026-09-10 21:03:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：極端天氣事件可能推高食品價格，而日益嚴重的“厄爾尼諾”現象可能進一步加劇這一影響；更廣泛的氣候危機和自然危機也可能推高食品價格。如果出現進一步的供應中斷或異常寒冷的冬季，疊加低儲存水平，天然氣價格可能會上漲。"
+    },
+    {
+      "id": "5087635",
+      "time": "2026-09-10 21:03:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲4%，現報1001.00元。"
+    },
+    {
+      "id": "5087634",
+      "time": "2026-09-10 21:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 基金會向 AI 氣象預報專案投資 6000 萬美元。"
+    },
+    {
+      "id": "te:markets:582804",
+      "time": "2026-09-10 21:02:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $105 — Brent crude rose above $105 a barrel on Thursday, reaching its highest level since May 19, as escalating tensions in the Middle East raised fears of prolonged disruption to global energy supplies. Iran signalled it will continue retaliatory strikes if US attacks persist, while Iran-backed Houthi forces are targeting Saudi assets and threatening shipping routes. Saudi Arabia’s crude oil production fell sharply in August 2026, dropping by around 1.9 million barrels a day to 6.238 million barrels a day, its lowest level since 1990. The deteriorating backdrop from the Middle East dims expectations that supply from the region could be normalized as Asian economies are forced to re-enter the energy market. China imported 8.93 bpd of crude oil in August, a 6.2% increase from July, after its reliance on inventory since the start of the conflict shielded the global economy from a deeper energy shortage due to blockaded tankers in the Persian Gulf."
+    },
+    {
+      "id": "5087633",
+      "time": "2026-09-10 21:02:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲3%，現報991.00元。"
+    },
+    {
+      "id": "5087632",
+      "time": "2026-09-10 21:02:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空中客車歐洲公司：法國武裝部隊訂購空中客車U050 CAPA-X無人機。"
+    },
+    {
+      "id": "5087631",
+      "time": "2026-09-10 21:01:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【今日特朗普行程】\n\n北京時間9月10日21:00（達拉斯時間早上八點）：在達拉斯龜溪玫瑰木莊園參加行政時間活動，閉門進行。\n\n北京時間9月10日22:15（達拉斯時間九點十五）：進行外地出差會議通話。\n\n特朗普昨晚在達拉斯龜溪畔的羅斯伍德莊園過夜，兩項活動結束後，今早他將從達拉斯-沃斯堡國際機場啟程返回華盛頓，到達時間不公開。\n\n北京時間9月11日01:00（達拉斯時間十二點）：在得克薩斯州阿靈頓參觀美國國家榮譽勳章博物館。\n\n北京時間9月11日01:30（達拉斯時間十二點半）：在美國國家榮譽勳章博物館發表講話，向預先認證媒體開放（可能發表講話）。\n\n北京時間9月11日06:15（達拉斯時間下午五點十五）：在達拉斯美國航空中心出席共和黨全國委員會圓桌會議，活動閉門進行。\n\n北京時間9月11日07:00（達拉斯時間下午六點）：在達拉斯美國航空中心出席共和黨全國委員會中期大會，向獲認證媒體開放（將發表講話）。\n\n北京時間9月11日09:45（達拉斯時間晚上八點四十五）：在達拉斯美國航空中心發表閉幕致辭，向獲認證媒體開放（將發表講話）。\n\n注：由於特朗普昨晚在達拉斯龜溪畔的羅斯伍德莊園過夜，因此按照達拉斯時間核算，如果特朗普在華盛頓，那將按照華盛頓時間計算。"
+    },
+    {
+      "id": "te:markets:582801",
+      "time": "2026-09-10 21:01:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 3"
+      ],
+      "text": "Crude Oil Tops $100 — Crude oil rose above $100 a barrel on Thursday, reaching its highest level since May 19, as escalating tensions in the Middle East raised fears of prolonged disruption to global energy supplies. Iran signalled it will continue retaliatory strikes if US attacks persist, while Iran-backed Houthi forces are targeting Saudi assets and threatening shipping routes. Saudi Arabia’s crude oil production fell sharply in August 2026, dropping by around 1.9 million barrels a day to 6.238 million barrels a day, its lowest level since 1990. The deteriorating backdrop from the Middle East dims expectations that supply from the region could be normalized as Asian economies are forced to re-enter the energy market. China imported 8.93 bpd of crude oil in August, a 6.2% increase from July, after its reliance on inventory since the start of the conflict shielded the global economy from a deeper energy shortage due to blockaded tankers in the Persian Gulf."
+    },
+    {
+      "id": "5087630",
+      "time": "2026-09-10 21:01:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國警方表示，兩人因涉嫌違反《國家安全法》被捕，涉案行為與伊朗有關。"
+    },
+    {
+      "id": "te:markets:582800",
+      "time": "2026-09-10 21:01:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "USD Appreciates on Thursday — The dollar index rose to 99 on Thursday, as another rally in oil prices amid escalating hostilities between the US and Iran prompted investors to increase bets on a Fed rate hike next week. Markets are now pricing a 70% chance of a 25bps increase, up from 60% yesterday, while a hike is fully priced in for October. Meanwhile, the PPI report did little to alter expectations for a Fed hike, but confirmed that energy prices continued to fuel inflationary pressures. Headline producer inflation accelerated to 0.4% mom while core PPI rose 0.2% mom, below both the previous month’s 0.3% increase and forecasts of 0.3%. The CPI report on Friday will be key in assessing the outlook for price pressures. Elsewhere, the ECB raised borrowing costs by 25bps as expected and lifted its inflation forecasts."
+    },
+    {
+      "id": "5087629",
+      "time": "2026-09-10 21:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：通脹前景存在上行風險。"
+    },
+    {
+      "id": "5087628",
+      "time": "2026-09-10 21:01:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：能源衝擊可能進一步加劇，其對其他價格和工資的影響可能會比目前預期的更強。"
+    },
+    {
+      "id": "5087627",
+      "time": "2026-09-10 21:00:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭已有3人因感染西尼羅病毒死亡】據荷蘭國家公共衛生與環境研究所當地時間9月10日報告稱，上週荷蘭全國新增9例西尼羅病毒感染病例。今年以來，荷蘭共報告18例西尼羅病毒感染病例，其中3人死亡。"
+    },
+    {
+      "id": "5087626",
+      "time": "2026-09-10 21:00:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜與OpenAI達成ChatGPT廣告合作。"
+    },
+    {
+      "id": "5087625",
+      "time": "2026-09-10 21:00:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜試點專案將向 ChatGPT 使用者展示其廣告。"
+    },
+    {
+      "id": "5087624",
+      "time": "2026-09-10 21:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報3146.00元。"
+    },
+    {
+      "id": "5087623",
+      "time": "2026-09-10 21:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：核心通脹將在2028年趨於緩和。"
+    },
+    {
+      "id": "5087622",
+      "time": "2026-09-10 21:00:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲3%，現報9225.00元。"
+    },
+    {
+      "id": "5087621",
+      "time": "2026-09-10 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲2%，現報1093.00元。"
+    },
+    {
+      "id": "5087620",
+      "time": "2026-09-10 21:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國際儲備在9月第四周降至7535億美元。"
+    },
+    {
+      "id": "5087619",
+      "time": "2026-09-10 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報5156.00元。"
+    },
+    {
+      "id": "5087618",
+      "time": "2026-09-10 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報813.20元。"
+    },
+    {
+      "id": "5087617",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報15634.00元。"
+    },
+    {
+      "id": "5087616",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報6128.00元。"
+    },
+    {
+      "id": "5087615",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲4%，現報10699.00元。"
+    },
+    {
+      "id": "5087614",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲4%，現報9594.00元。"
+    },
+    {
+      "id": "5087613",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3140.00元。"
+    },
+    {
+      "id": "5087612",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報4278.00元。"
+    },
+    {
+      "id": "5087611",
+      "time": "2026-09-10 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】上海原油連續漲5.74%，白銀連續跌5.00%，純苯連續漲4.85%，燃料油連續漲4.19%，苯乙烯連續漲4.16%，瀝青連續漲3.91%，低硫燃料油連續漲3.33%，對二甲苯連續漲3.14%。"
+    },
+    {
+      "id": "5087610",
+      "time": "2026-09-10 20:59:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：核心通脹將持續上行至2027年初。"
+    },
+    {
+      "id": "5087609",
+      "time": "2026-09-10 20:59:45",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【PPI資料公佈後，美聯儲本月加息機率升至74% 10月加息機率達82%】美國8月PPI資料公佈後，據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為26%，累計加息25個基點的機率為74%。美聯儲到10月維持利率不變的機率為17.9%，累計加息25個基點的機率為59.1%，累計加息50個基點的機率為22.9%。"
+    },
+    {
+      "id": "5087608",
+      "time": "2026-09-10 20:59:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：下行風險來自中東戰爭與烏克蘭局勢。"
+    },
+    {
+      "id": "5087607",
+      "time": "2026-09-10 20:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部官員：Anthropic仍然是供應鏈風險。"
+    },
+    {
+      "id": "5087606",
+      "time": "2026-09-10 20:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：將監測能源帶來的傳導效應。"
+    },
+    {
+      "id": "5087605",
+      "time": "2026-09-10 20:59:03",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行總裁拉加德：能源價格上漲將逐步傳導至核心及食品通脹。"
+    },
+    {
+      "id": "5087604",
+      "time": "2026-09-10 20:58:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：整體通脹將在2027年底前後回落至目標水平。"
+    },
+    {
+      "id": "5087603",
+      "time": "2026-09-10 20:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【司法部部署啟動涉外法律服務平臺建設試點工作】記者今天（9月10日）從司法部瞭解到，為落實黨的二十屆四中全會相關部署，司法部啟動涉外法律服務平臺建設試點工作。（央視新聞）"
+    },
+    {
+      "id": "5087602",
+      "time": "2026-09-10 20:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成都一宗商業地塊溢價94.24% 由華潤置地競得】9月10日，成都出讓成交一宗商業地塊。該商業服務業用地位於石羊街道盛興社群，土地面積109652.88平方米（164.48畝），容積率2.38，起拍樓板價2780元/平方米。最終，該地塊由華潤置地全資子公司成都潤盈置業有限公司競得，成交樓板價5400元/平方米，成交總價14.09億元，溢價率高達94.24%。據悉，該地塊還附帶硬性開發要求：專案開工起5年內，總投資不得低於60億元；須引入2024年至2025年單店銷售額連續兩年全國排名前十五的商業綜合體品牌。"
+    },
+    {
+      "id": "5087601",
+      "time": "2026-09-10 20:58:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "拉加德：通脹在2027年上半年仍將遠高於目標水平。"
+    },
+    {
+      "id": "5087600",
+      "time": "2026-09-10 20:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺積電美股盤前跌超2%】臺積電美股盤前跌超2%，現報426.5美元。"
+    },
+    {
+      "id": "5087599",
+      "time": "2026-09-10 20:57:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：大多數長期通脹預期指標均維持在2%左右。"
+    },
+    {
+      "id": "5087598",
+      "time": "2026-09-10 20:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：薪資跟蹤指標顯示2027年上半年將小幅上行。"
+    },
+    {
+      "id": "5087597",
+      "time": "2026-09-10 20:57:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德表示：薪資追蹤指標顯示協議薪資增速出現溫和上行。"
+    },
+    {
+      "id": "5087596",
+      "time": "2026-09-10 20:57:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：薪資並未對能源衝擊作出實質性反應。"
+    },
+    {
+      "id": "5087595",
+      "time": "2026-09-10 20:56:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：多數核心通脹指標整體保持穩定。"
+    },
+    {
+      "id": "5087594",
+      "time": "2026-09-10 20:56:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：煉油利潤率對通脹起到了強勁推升作用。"
+    },
+    {
+      "id": "5087593",
+      "time": "2026-09-10 20:55:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國30年期國債收益率上漲3.5個基點，至5.1048%，創2003年12月以來新高；英國兩年期收益率上漲10個基點至4.80%，為2023年11月以來最高水平。"
+    },
+    {
+      "id": "5087592",
+      "time": "2026-09-10 20:55:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉鑫科技：股東張毅潔減持計劃實施完畢 減持0.617%股份】吉鑫科技公告稱，公司持股5%以上股東張毅潔減持計劃實施完畢。本次減持前張毅潔持有公司股份4865.97萬股，佔總股本5.02%；其於2026年6月11日至9月10日透過集中競價方式累計減持公司股份597.91萬股，佔公司總股本的0.617%，減持價格區間為4.50元/股至4.84元/股，合計減持金額2760.70萬元。減持後張毅潔持股比例降至4.40%，本次減持符合相關規定及此前披露的減持計劃。"
+    },
+    {
+      "id": "5087591",
+      "time": "2026-09-10 20:55:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾伯維憑藉阿託吉泮治療經期偏頭痛的Ⅲ期積極研究結果，鞏固其在偏頭痛領域的領先地位。"
+    },
+    {
+      "id": "5087590",
+      "time": "2026-09-10 20:55:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：重申就單一貨幣一攬子方案達成共識的重要性。"
+    },
+    {
+      "id": "5087589",
+      "time": "2026-09-10 20:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿爾及利亞宣佈與阿聯酋斷交】據阿爾及利亞媒體10日報道，阿爾及利亞外交部當天表示，阿爾及利亞決定即日起與阿聯酋斷絕外交關係。阿爾及利亞方面此前已竭盡一切努力維護雙邊關係。報道援引阿爾及利亞外交部一份宣告報道說，儘管阿爾及利亞政府屢次發出警告，阿聯酋仍一意孤行，“其行為逾越了主權國家間關係所能接受或容忍的底線”。“鑑於此，在窮盡一切維護雙邊關係的努力後，阿爾及利亞政府今日決定與阿拉伯聯合大公國斷絕外交關係。”報道還說，阿爾及利亞外交部已於當天正式告知阿聯酋駐阿爾及利亞大使這一決定，並要求其在48小時內遵守該決定。（新華社）"
+    },
+    {
+      "id": "5087588",
+      "time": "2026-09-10 20:54:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：要實現更高的潛在增長率需要推進結構性改革。"
+    },
+    {
+      "id": "5087587",
+      "time": "2026-09-10 20:54:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：出口受競爭力挑戰與貿易政策拖累。"
+    },
+    {
+      "id": "5087586",
+      "time": "2026-09-10 20:54:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：經濟增長將得到商業投資和住房投資的支撐。"
+    },
+    {
+      "id": "5087585",
+      "time": "2026-09-10 20:54:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：這反映出消費與公共投資具有韌性。"
+    },
+    {
+      "id": "5087584",
+      "time": "2026-09-10 20:54:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：人工智慧活動增多已在投資和出口中顯現。"
+    },
+    {
+      "id": "5087583",
+      "time": "2026-09-10 20:53:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國金茂：8月取得簽約銷售金額73.98億元】9月10日，中國金茂在港交所公告，2026年8月份，集團取得簽約銷售金額人民幣73.98億元，簽約銷售建築面積185,063.26平方米。截至2026年8月31日止8個月，集團累計取得簽約銷售金額共計人民幣741億元（其中包含（如有）長沙梅溪湖國際新城專案、南京青龍山國際生態新城專案、寧波生命科學城專案、嘉興上海之窗智慧科學城專案、鄭州二七區馬寨新城專案、溫州鰲江國際新城專案、金華金茂未來科學城專案及上海橫沔城市運營專案的成交銷售金額），以及累計簽約銷售建築面積2,739,073.92平方米。"
+    },
+    {
+      "id": "5087582",
+      "time": "2026-09-10 20:53:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：短期經濟增長前景有所改善。"
+    },
+    {
+      "id": "5087581",
+      "time": "2026-09-10 20:53:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：就業增長仍在繼續放緩。"
+    },
+    {
+      "id": "5087580",
+      "time": "2026-09-10 20:53:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：勞動力市場表現強勁。"
+    },
+    {
+      "id": "5087579",
+      "time": "2026-09-10 20:53:30",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "穆迪分析公司的Kamil Kovar表示，在週四加息之後，歐洲央行可能還會進一步加息。"
+    },
+    {
+      "id": "5087578",
+      "time": "2026-09-10 20:53:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：消費者信心已出現反彈。"
+    },
+    {
+      "id": "5087577",
+      "time": "2026-09-10 20:53:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：各國與各行業增長呈現廣泛性。"
+    },
+    {
+      "id": "5087576",
+      "time": "2026-09-10 20:53:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：服務業已實現復甦。"
+    },
+    {
+      "id": "5087575",
+      "time": "2026-09-10 20:53:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：製造業表現穩健。"
+    },
+    {
+      "id": "te:markets:582795",
+      "time": "2026-09-10 20:52:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Extends Losses — Frankfurt's DAX 40 extended early losses, falling 0.7% to around 25,400 on Thursday afternoon, a level last seen in late July. Traders digested the ECB’s latest decision, with policymakers raising rates by 25 basis points as expected and warning of continued upside risks to inflation stemming from the Middle East conflict. The move fueled expectations of further tightening. In the meantime, oil prices surged to fresh highs, as escalating US-Iran hostilities stoked fears of a prolonged conflict. Consumer cyclicals, software and technology stocks, and industrials faced the heaviest losses. Hochtief led losses among stocks, dropping 5.1%, with Adidas, Zalando and Siemens Energy also posting steep declines. SAP slipped 2.7%, as traders were cautious ahead of the quarterly earnings reports from the two IT and software giants, Oracle and Adobe. On the gainers side, shares of Deutsche Borse (1.9%), Hannover Ruck (1.8%) and Munchener Ruck (1.5%) stood out."
+    },
+    {
+      "id": "5087574",
+      "time": "2026-09-10 20:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：這一態勢大機率延續至三季度。"
+    },
+    {
+      "id": "5087573",
+      "time": "2026-09-10 20:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：儘管遭遇能源衝擊，二季度經濟展現出韌性。"
+    },
+    {
+      "id": "5087572",
+      "time": "2026-09-10 20:51:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "交易員們目前已將9月份加息的機率上調至70%以上。"
+    },
+    {
+      "id": "5087571",
+      "time": "2026-09-10 20:50:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為與中國聯通持續深化戰略合作，共築價值增長新引擎】2026中國聯通合作伙伴大會今日在滬舉行。華為常務董事、ICT BG CEO 楊超斌出席大會並作主題演講。他表示，作為中國聯通的重要戰略合作伙伴，華為與中國聯通攜手向智同行，在多領域開展全方位合作，共築價值增長新引擎。（華為）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870778923",
+      "time": "2026-09-10 20:50:00",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【貨幣市場定價顯示歐洲央行12月存款利率為2.80%】貨幣市場定價顯示，歐洲央行12月存款利率為2.80%，此前在歐洲央行宣告前為2.74%。"
+    },
+    {
+      "id": "5087570",
+      "time": "2026-09-10 20:49:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率上漲2.5個基點，報3.07%。"
+    },
+    {
+      "id": "te:economy:582790",
+      "time": "2026-09-10 20:48:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Climbs to Over Three-Month High — Switzerland's 10-year government bond yield rose above 0.5%, reaching its highest level since late May, as brent prices surged past the $100 mark amid a reduced oil supply outlook that further lifted concerns over inflation. Swiss inflation doubled to 0.8% in August, although remaining well within the SNB’s target and highlighting the limited pass through of higher global oil prices. Electricity prices are also set to decline around 4% next year, according to the Swiss Federal Electricity Commission, as local utility companies pass on lower wholesale costs to consumers. Meanwhile, quarterly economic growth was confirmed at a 5-year high of 1.5% On the monetary policy front, a Swiss Bankers Association survey showed that all bankers expect the SNB to keep its policy rate at 0% by year-end. Markets anticipated the first rate hike in June 2027, while most economists expect the first hike in early 2028."
+    },
+    {
+      "id": "te:markets:582789",
+      "time": "2026-09-10 20:46:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Futures Fall Further — US equity futures fell further as a hot PPI and a surge in oil and fuel prices further lifted Treasury yields. Contracts for the S&P 500 and the Dow fell 0.5% and those for the Nasdaq dropped 1.1%. Producer prices jumped 0.4% from the previous month in August as the war in Iran lifted wholesale energy prices. Oil and fuel benchmarks have gained further since the start of September on fresh escalation in the war and the increase in buying from Asia, adding to pressure on equities amid the possibility of a Federal Reserve rate hike next week. Chip producers fell amid their exposure to surging long-dated credit costs, with Marvell, Intel, and Lam Research down 3% premarket. Nvidia dropped 1% and Oracle fell 1.5% ahead of its earnings after the bell. Meanwhile, Apple inched higher to pare yesterday's losses after it announced the release of a series of new products, including the foldable iPhone Duo."
+    },
+    {
+      "id": "te:markets:582787",
+      "time": "2026-09-10 20:44:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Fall as Inflation Fears Rise — Futures tracking Canadian stocks fell on Thursday amid elevated oil prices and bond yields. Oil extended its rally following the biggest wave of attacks on shipping in the Strait of Hormuz by Washington and Tehran on Wednesday. Global yields moved higher on fears of prolonged inflation, following stronger-than-expected US PPI and ahead of CPI data expected Friday. Rising expectations for a Fed rate hike pressured credit-sensitive stocks, while falling gold prices weighed on miners. Elsewhere, Enbridge said Wednesday it would buy Tallgrass Energy’s crude oil business for $2.55 billion in cash, expanding its US liquids pipeline network by acquiring a majority stake in the Pony Express Pipeline and other assets."
+    },
+    {
+      "id": "te:economy:582788",
+      "time": "2026-09-10 20:44:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Crude Oil Production",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Oil Production Lowest Since 1990 — Saudi Arabia’s crude oil production fell by 1.9 million barrels a day to 6.238 million barrels a day in August 2026, its lowest level since 1990, as the conflict between the US and Iran intensified. Despite the steep fall in output, Saudi Arabia’s oil supply to the market reached 7.122 million barrels a day in August, exceeding production. The gap suggests the kingdom may have relied on inventories to maintain oil supplies to the market amid ongoing disruptions."
+    },
+    {
+      "id": "em:qqyh_mlc:202609103870775113",
+      "time": "2026-09-10 20:42:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "PPI資料公佈後，交易員已充分消化美聯儲10月份加息的預期。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870776220",
+      "time": "2026-09-10 20:40:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "交易員預計歐洲央行到2027年10月前將進一步加息75個基點。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202609103870770913",
+      "time": "2026-09-10 20:36:57",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【交易員已完全消化英國央行四次加息的預期】交易員已完全消化英國央行四次加息的預期，這是自3月以來的首次。"
+    },
+    {
+      "id": "te:economy:582785",
+      "time": "2026-09-10 20:36:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 1"
+      ],
+      "text": "US Initial Unemployment Claims Hold Lower Trend — The number of people claiming unemployment benefits eased by 1,000 from the previous month to 206,000 on the first week of September 2026, loosely aligned with expectations of 205,000 to hold the trend of low claim counts since dropping to the near 60-year low of 189,000 in the middle of July. Continuing claims, a gauge of outstanding unemployment in the US, eased by 1,000 to 1,774,000 in the last week of August, below expectations of 1,780,000. The data extended the period of resilience in the US labor market despite the unexpected contraction in payrolls per the latest BLS data, aligned with the view from some FOMC members that the US is in full employment. Meanwhile, initial claims filed by federal employees, which have added spotlight on the administration's signal to shrink the of public sector, rose by 51 to 388."
+    },
+    {
+      "id": "te:economy:582783",
+      "time": "2026-09-10 20:35:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Hits 15-Year High as ECB Hikes Rates Again — Germany’s 10-year Bund yield climbed above 3.45%, reaching its highest level since April 2011, as investors digested the ECB’s latest rate decision while a renewed oil rally intensified inflation concerns and fueled expectations of further monetary tightening. The ECB delivered its second rate hike since the US-Iran war began, warning that inflation is likely to remain well above its 2% target for an extended period. It kept its 2026 inflation forecast at 3.0% but raised projections for 2027 and 2028 to 2.5% and 2.1%, respectively. Meanwhile, GDP growth forecasts were upgraded to 0.9% for 2026 and 1.4% for 2027, while the 2028 forecast remained unchanged at 1.5%. Renewed energy-price pressures are adding to the inflation outlook, with Brent crude hitting $105 a barrel and European gas prices reaching fresh three-and-a-half-year highs amid escalating Middle East tensions. Markets are now pricing in another ECB rate hike by December, with further tightening expected in 2027."
+    },
+    {
+      "id": "te:economy:582782",
+      "time": "2026-09-10 20:33:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Prices Accelerate — Producer prices in the US increased 0.4% mom in August 2026, following an upwardly revised 0.1% rise in July and in line with expectations. It is the biggest increase in three months, led by a 1.1% jump in prices of goods after declines in each of the previous two months, with diesel fuel jumping 24.1%. Prices for gasoline, jet fuel, home heating oil, candy and nuts, and tobacco products also advanced. In contrast, prices for residential electric power fell 0.5%. Meanwhile, services cost edged up 0.1%, led by a 2% rise in prices for truck transportation of freight. Increases were also seen for airline passenger services, legal services, hospital inpatient care, and automobiles retailing. Year-on-year, producer inflation accelerated to 5.4% from 4.8%, slightly above forecasts of 5.3%. Excluding food and energy, producer prices increased 0.2% on the month and 4.6% on the year, compared to 0.3% and 4.3% respectively in the previous month and forecasts of 0.3% and 4.6% respectively."
+    },
+    {
+      "id": "te:markets:582781",
+      "time": "2026-09-10 20:32:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.03% — Palladium decreased 5.03% to 1311.5 USD/t.oz"
+    },
+    {
+      "id": "te:economy:582780",
+      "time": "2026-09-10 20:32:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Producer Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Core Producer Prices Rise Less than Expected — Core producer prices in the United States, which exclude food and energy goods, rose 0.2% from the previous month in August of 2026, slowing from the upwardly revised 0.3% increase in the previous month. This contrasted with market expectations of a 0.3% increase, reflecting a soft initial transmission of the rebound in energy prices to underlying sections of wholesale trade. From the previous year, core producer inflation rose by 4.6%."
+    },
+    {
+      "id": "te:economy:582779",
+      "time": "2026-09-10 20:32:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Austria 10Y Bond Yield Hits Near 15-year High — Austria 10 Year Government Bond Yield increased to 3.68%, the highest since November 2011. Over the past 4 weeks, Austria 10Y Bond Yield gained 29.45 basis points, and in the last 12 months, it increased 69.67 basis points."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870757564",
+      "time": "2026-09-10 20:31:11",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月PPI同比增長5.4% 高於市場預期】美國8月PPI同比增長5.4%，預估為5.3%，前值為4.7%。環比增長0.4%，預期為0.4%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609103870757115",
+      "time": "2026-09-10 20:30:46",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國上週首次申領失業救濟人數為20.6萬人 略高於市場預期】美國上週首次申領失業救濟人數為20.6萬人，預估為20.5萬人，前值為20.6萬人。"
+    },
+    {
+      "id": "te:markets:582778",
+      "time": "2026-09-10 20:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum is down by 5.02% — Platinum decreased 5.02% to 1822.6 USD/t.oz"
+    },
+    {
+      "id": "te:markets:582777",
+      "time": "2026-09-10 20:29:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Weakens Despite ECB Rate Hike — The euro weakened toward $1.16 after the ECB raised rates as expected and upgraded its inflation and growth forecasts, while the dollar strengthened on higher oil prices and US PPI data. The ECB delivered its second rate hike since the US-Iran war began, warning that inflation is likely to remain well above its 2% target for an extended period. The central bank kept its 2026 inflation forecast at 3.0% but raised projections for 2027 and 2028 to 2.5% and 2.1%. GDP growth forecasts were also upgraded to 0.9% for 2026 and 1.4% for 2027. Renewed energy-price pressures are adding to the inflation outlook, with Brent crude hitting $105 a barrel and European gas prices reaching fresh three-and-a-half-year highs amid escalating Middle East tensions. Markets now price another ECB hike by December and further tightening in 2027. Elsewhere, the dollar remained supported after stronger-than-expected US PPI lifted the implied probability of a Fed hike to over 70%."
+    },
+    {
+      "id": "te:markets:582775",
+      "time": "2026-09-10 20:28:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Move Lower — European stocks moved lower on Thursday, with both the STOXX 50 and STOXX 600 falling 0.3%, reversing early opening gains and extending losses of more than 1% in the previous session. Investors assessed the ECB’s latest policy decision, with policymakers raising rates by 25bps as expected while upgrading their growth and inflation forecasts. The ECB also warned that the Middle East conflict was continuing to fuel inflationary pressures, with inflation expected to remain above target for an extended period. Meanwhile, oil prices continued to rise, with Brent trading above $102 a barrel. Technology stocks were among the worst performers ahead of Oracle’s earnings, which are expected to provide further clues on the AI outlook. ASML fell more than 2%, while SAP declined 2.5%."
+    },
+    {
+      "id": "te:economy:582773",
+      "time": "2026-09-10 20:22:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Sweden 10Y Bond Yield Hits 15-year High — Sweden 10 Year Government Bond Yield increased to 3.19%, the highest since May 2011. Over the past 4 weeks, Sweden 10Y Bond Yield gained 16.70 basis points, and in the last 12 months, it increased 69.70 basis points."
+    },
+    {
+      "id": "te:markets:582771",
+      "time": "2026-09-10 20:21:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in France Hit 13-week Low — FR40 decreased to 8141.00 Index Points, the lowest since June 2026. Over the past 4 weeks, France Stock Market Index (FR40) lost 6.56%, and in the last 12 months, it increased 4.08%."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870754218",
+      "time": "2026-09-10 20:21:37",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "交易員維持對歐洲央行的利率押注不變，預計2026年還將加息一次。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870753885",
+      "time": "2026-09-10 20:19:16",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行預測2026年整體通脹率平均為3.0%】歐洲央行預測2026年整體通脹率平均為3.0%，2027年為2.5%，2028年為2.1%。扣除能源和食品的通脹，基線預計2026年為2.5%，2027年為2.6%，2028年為2.3%。"
+    },
+    {
+      "id": "te:economy:582770",
+      "time": "2026-09-10 20:19:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "ECB Raises Rates as Expected as Inflation Risks Mount — The European Central Bank raised its key interest rates by 25 basis points at its September 2026 meeting, marking its second hike since the US-Iran war began. The ECB said the conflict in the Middle East continues to fuel inflationary pressures, with inflation expected to remain well above its 2% target for an extended period. The main refinancing rate was raised to 2.65%, while the deposit rate increased to 2.50%. The ECB kept its 2026 inflation forecast at 3.0% but revised its projections higher for 2027 and 2028, to 2.5% and 2.1%, respectively. Growth forecasts were upgraded to 0.9% for 2026 and 1.4% for 2027, reflecting greater-than-expected resilience in the euro area economy, while the 2028 forecast remained unchanged at 1.5%. Investors are now turning to President Christine Lagarde’s press conference for further clues on the future path of monetary policy."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870753769",
+      "time": "2026-09-10 20:19:11",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，通脹率將在“較長一段時間內”保持在2%以上。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870751588",
+      "time": "2026-09-10 20:16:59",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行：預計2026年GDP增長率為0.9%】歐洲央行預計2026年GDP增長率為0.9%，2027年為1.4%，2028年為1.5%。（6月預期分別為0.8%、1.2%、1.5%）。預計2026年通脹率為3%，2027年為2.5%，2028年為2.1%。（6月預期分別為3%、2.3%、2%）。2026年核心通脹為2.5%，2027年為2.6%，2028年為2.3%。（6月預期分別為2.5%、2.5%、2.2%）。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609103870749051",
+      "time": "2026-09-10 20:15:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行將三大關鍵利率上調25個基點】歐洲中央銀行10日結束貨幣政策會議，決定將歐元區三大關鍵利率均上調25個基點。上調後，歐元區存款機制利率、主要再融資利率和邊際借貸利率分別為2.50%、2.65%、2.90%。"
+    },
+    {
+      "id": "te:markets:582768",
+      "time": "2026-09-10 20:13:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pull Back Further — US equity futures were mostly lower as markets refrained from assuming more risk ahead of the US PPI release. Contracts for the S&P 500 inched down and those for the Nasdaq dropped 0.7%, while the Dow was flat. Producer prices are expected to have jumped 0.4% from the previous month in August as the war in Iran lifted wholesale energy prices. Oil and fuel benchmarks have gained further since the start of September on fresh escalation in the war and the increase in buying from Asia, adding to pressure on equities amid the possibility of a Federal Reserve rate hike next week. Chip producers fell amid their exposure to long-dated credit costs, with Marvell, Intel, and Lam Research down 3% premarket. Nvidia dropped 1% and Oracle fell 1% ahead of its earnings after the bell."
+    },
+    {
+      "id": "te:markets:582766",
+      "time": "2026-09-10 19:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Turkey",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Turkish Lira Holds Devaluation Pace — The Turkish lira weakened to a record low of 48.5 per USD in September, maintaining the controlled and slow devaluation rate by the Central Bank of Turkey as it intervenes in foreign exchange markets to prevent a slide. The TCMB held its key policy rate unchanged for the fifth straight decision in September, as expected. The central bank flagged that leading indicators pointed to a deceleration in underlying inflation in recent months, balanced by higher inflationary risks triggered by escalation in the Middle East war. The central bank had continued to sell liras in the open market to maintain the steady pace of devaluation. Support for the currency was also seen with policymakers downplaying an imminent return to one-week repo auctions, which has been suspended since March, forcing financial institutions to use the more expensive overnight rate."
+    },
+    {
+      "id": "em:qqyh_mlc:202609103870728758",
+      "time": "2026-09-10 19:39:31",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【伊朗戰爭、AI熱潮推高通脹 美聯儲加息效果恐打折扣】美聯儲官員已經暗示，如果通脹不能很快改善，他們準備加息。不過，他們可能會發現，面對當前推動物價上漲的一些因素，其主要政策工具恐怕難以發揮多大抑制作用。根據期貨合約，投資者目前預計美聯儲在9月15日至16日會議上加息的機率約為60%。"
+    },
+    {
+      "id": "te:economy:582763",
+      "time": "2026-09-10 19:29:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "South Africa Factory Activity Stages Surprise Recovery — Manufacturing activity in South Africa rose by 1.1% year-on-year in July 2026, reversing the upwardly revised 1.7% drop in June and better than the expected 1.6% decline. The rebound followed three consecutive months of declining activity. The largest positive contributions came from the food and beverages division, which grew by 4.1%, and the petroleum, chemical products, rubber and plastic products division, which increased by 3.2%. On a seasonally adjusted monthly basis, manufacturing production grew by 2.2%, the most since May 2025, after a downwardly revised 0.8% increase in the month. South Africa manufacturing production increased by 1.0% in the three months ended July 2026 compared with the previous three months."
+    },
     {
       "id": "te:economy:582755",
       "time": "2026-09-10 19:11:29",
