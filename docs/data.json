@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-11 07:24:30",
+  "updated": "2026-09-11 07:28:23",
   "count": 13604,
   "items": [
+    {
+      "id": "5088370",
+      "time": "2026-09-11 07:27:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普為伊朗戰爭辯護，他預測衝突將在中期選舉後結束，並指責德黑蘭在等待華盛頓的政治變革。“他們認為民主黨人會讓他們基本上擁有核武器。他們不會擁有核武器。”特朗普表示，防止伊朗擁有核武器仍然是底線，因為緊張局勢依然高漲，戰鬥仍在繼續。"
+    },
+    {
+      "id": "mkt:01a08da5-8fb8-7118-8536-ac581b90d63f",
+      "time": "2026-09-11 07:27:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said Iran's missile capability has been significantly degraded and producing additional missiles has become difficult; Iran can still launch some missiles."
+    },
+    {
+      "id": "mkt:01a08da4-ebed-7118-8536-a2eca7621611",
+      "time": "2026-09-11 07:26:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump said Iran is fighting hard and is in serious trouble."
+    },
+    {
+      "id": "5088369",
+      "time": "2026-09-11 07:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：民調結果對我來說毫無影響，那反而是我更加努力的動力。"
+    },
+    {
+      "id": "te:markets:582925",
+      "time": "2026-09-11 07:25:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Heads for Sharp Weekly Rise — Brent crude climbed toward $109 per barrel on Friday and was on track to gain about 13% for the week, marking its biggest weekly increase since mid-July as the escalating conflict between the US and Iran fueled concerns over prolonged disruptions to global energy supplies. Top US officials reportedly warned President Donald Trump that the war could continue through the remainder of his term, which ends in January 2029. Meanwhile, Iranian leaders are reportedly determined to continue fighting despite mounting economic costs, viewing the conflict as an existential threat. They also claim that Tehran has managed to rebuild its missile capabilities and could intensify attacks on US and Gulf assets if Washington escalates its own strikes. Fighting has intensified over the past two weeks, with the US targeting Iranian oil tankers while Iran launched missiles at US warships and tankers in the Persian Gulf, as well as American assets in neighboring countries."
+    },
+    {
+      "id": "5088368",
+      "time": "2026-09-11 07:25:27",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特打消回購相關擔憂，稱美債市場穩健】美國財政部長斯科特・貝森特淡化市場對週四債務回購操作規模不及預期的擔憂，也弱化收益率上行帶來的市場顧慮。貝森特在接受採訪時表示，美債市場現狀“十分良好”。他提到近日兩場國債拍賣表現強勁，並強調美國市場相較其他市場表現更優。他同時重申，近期債券與能源價格呈現異常高的相關性。貝森特發表此番言論前，美國兩年期國債收益率觸及2024年以來高點，10年期國債收益率創出2023年以來新高。貝森特稱：“我們只在價格合適時回購債券”，但本次債券持有人傾向繼續持有長期債券。他表示，通常能收到200億美元的申報供給，而本次財政部僅收到約100億美元申報。"
+    },
+    {
+      "id": "mkt:01a08da3-d7f2-7118-8536-9a50e3754c54",
+      "time": "2026-09-11 07:25:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "A Fox News reporter asked whether neoconservatives argue for an all-out strike on Iran; President Trump said the U.S. 'may not' take such action because of the election."
+    },
+    {
+      "id": "te:markets:582923",
+      "time": "2026-09-11 07:24:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Sharp Weekly Rise — Crude oil climbed toward $104 per barrel on Friday and was on track to gain more than 13% for the week, marking its biggest weekly increase since mid-July as the escalating conflict between the US and Iran fueled concerns over prolonged disruptions to global energy supplies. Top US officials reportedly warned President Donald Trump that the war could continue through the remainder of his term, which ends in January 2029. Meanwhile, Iranian leaders are reportedly determined to continue fighting despite mounting economic costs, viewing the conflict as an existential threat. They also claim that Tehran has managed to rebuild its missile capabilities and could intensify attacks on US and Gulf assets if Washington escalates its own strikes. Fighting has intensified over the past two weeks, with the US targeting Iranian oil tankers while Iran launched missiles at US warships and tankers in the Persian Gulf, as well as American assets in neighboring countries."
+    },
     {
       "id": "5088367",
       "time": "2026-09-11 07:22:55",
@@ -124373,82 +124458,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：歐盟已加入美方針對伊朗的“經濟棄兒行動”  。"
-    },
-    {
-      "id": "5076387",
-      "time": "2026-09-04 07:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國稱韓美繼續磋商晶片關稅問題 華府未提何時宣佈】韓聯社援引韓國產業通商部長金正官在華府對記者發表的講話報道，韓國和美國繼續就美國半導體關稅問題磋商，雙方的共識是韓國不會因此在與競爭對手的競爭中處於不利地位。 金正官表示，美國去年10月曾表示，不會對韓國晶片製造商區別對待，並補充說他相信“兩國正在本著這種精神繼續磋商”。當被問及美國預計何時宣佈晶片關稅時，金正官表示，美國尚未提及具體時間表。金正官表示，韓國仍計劃在9月完成對美投資專案，仍需要完成一些國內程式。"
-    },
-    {
-      "id": "5076386",
-      "time": "2026-09-04 07:27:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本防衛大臣將缺席在韓國舉行的年度對話。"
-    },
-    {
-      "id": "5076385",
-      "time": "2026-09-04 07:26:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026俄羅斯電影節在我國五城聯動舉辦】今年恰逢中俄戰略協作夥伴關係建立30週年、《中俄睦鄰友好合作條約》簽署25週年。日前，由中國國家電影局、俄羅斯聯邦文化部主辦的2026俄羅斯電影節在北京、上海、呼和浩特、哈爾濱、黑河五座城市舉行，同步開展展映交流活動。（央視）"
-    },
-    {
-      "id": "5076384",
-      "time": "2026-09-04 07:25:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全國首套 先導智慧GW級PEM電解槽（溼膜工藝）自動化組裝產線發貨】近日，先導智慧旗下全資子公司——氫導智慧為國內某大型能源裝備領域頭部企業打造的GW級PEM電解槽智慧裝配生產線完成發貨，裝置已抵達客戶現場，目前正進入除錯階段。該專案為全國首套採用溼膜裝配工藝的PEM電解槽自動化生產線。"
-    },
-    {
-      "id": "mkt:01a06997-9532-7118-8491-b54d147342e9",
-      "time": "2026-09-04 07:25:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O): Cybercab, a fully driverless electric vehicle without a steering wheel, pedals or mirrors, has begun operations in Austin, Texas, USA."
-    },
-    {
-      "id": "te:markets:581065",
-      "time": "2026-09-04 07:25:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Set for Sharp Weekly Rise — Brent crude climbed toward $96 per barrel on Friday and was on track for a gain of around 9% this week, underpinned by renewed hostilities in the Middle East and growing uncertainty surrounding shipping through the Strait of Hormuz. The US carried out fresh strikes against Iran this week following roughly a month of relative calm, prompting Tehran to retaliate by targeting American bases in the region and vessels passing through Hormuz. Six commodity vessels transited the strait on Wednesday, down from 11 on Tuesday and compared with a 10-day average of nearly 13. Damage to refineries in the Middle East and Russia, coupled with limited capacity elsewhere to compensate for supply disruptions, is also expected to keep global fuel prices elevated into next year. Meanwhile, US diesel prices reached their highest level since mid-2022 this week, while inventories in Europe remain well below seasonal norms."
-    },
-    {
-      "id": "5076383",
-      "time": "2026-09-04 07:25:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特斯拉宣佈Cybercab在美國奧斯汀投入運營】當地時間9月3日，特斯拉宣佈，賽博無人駕駛電動車Cybercab正式在美國奧斯汀投入運營。特斯拉表示，該車型無需方向盤、踏板和後視鏡，將以更高使用效率，承擔更多出行需求。"
-    },
-    {
-      "id": "te:markets:581064",
-      "time": "2026-09-04 07:24:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Set for Sharp Weekly Rise — Crude oil climbed toward $92 per barrel on Friday and was on track for a gain of around 10% this week, underpinned by renewed hostilities in the Middle East and growing uncertainty surrounding shipping through the Strait of Hormuz. The US carried out fresh strikes against Iran this week following roughly a month of relative calm, prompting Tehran to retaliate by targeting American bases in the region and vessels passing through Hormuz. Six commodity vessels transited the strait on Wednesday, down from 11 on Tuesday and compared with a 10-day average of nearly 13. Damage to refineries in the Middle East and Russia, coupled with limited capacity elsewhere to compensate for supply disruptions, is also expected to keep global fuel prices elevated into next year. Meanwhile, US diesel prices reached their highest level since mid-2022 this week, while inventories in Europe remain well below seasonal norms."
     }
   ]
 }
