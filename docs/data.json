@@ -1,7 +1,120 @@
 {
-  "updated": "2026-09-10 23:13:41",
+  "updated": "2026-09-10 23:17:35",
   "count": 13592,
   "items": [
+    {
+      "id": "5087905",
+      "time": "2026-09-10 23:16:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲8週期國庫券投標總額為67億美元。"
+    },
+    {
+      "id": "5087904",
+      "time": "2026-09-10 23:16:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲4週期國庫券投標總額為71億美元。"
+    },
+    {
+      "id": "5087903",
+      "time": "2026-09-10 23:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率上漲6個基點至3.51%，創2009年以來新高。"
+    },
+    {
+      "id": "mkt:01a08be3-c32e-7118-852f-53c7061f8280",
+      "time": "2026-09-10 23:15:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's 10-year bond yield rose 6 bps to 3.51%, the highest since 2009."
+    },
+    {
+      "id": "5087902",
+      "time": "2026-09-10 23:15:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Talkdesk與微軟擴大合作，加速企業聯絡中心的人工智慧自動化程序。"
+    },
+    {
+      "id": "5087901",
+      "time": "2026-09-10 23:15:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區債券收益率持續走高；德國2年期國債收益率最新上漲13個基點至3.177%，創下2023年11月以來的新高。"
+    },
+    {
+      "id": "5087900",
+      "time": "2026-09-10 23:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴西AMIL拒絕了兩家美國基金的收購要約。"
+    },
+    {
+      "id": "mkt:01a08be2-36f7-7118-852f-48917ed5eb80",
+      "time": "2026-09-10 23:14:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB officials expect further policy tightening in October."
+    },
+    {
+      "id": "mkt:01a08be1-db1f-7118-852f-4123b44df4c8",
+      "time": "2026-09-10 23:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Canada has agreed to supply Ukraine with \"very important air-defence equipment\"."
+    },
+    {
+      "id": "5087899",
+      "time": "2026-09-10 23:13:36",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行官員預計將進一步收緊政策，10月存在加息可能性。"
+    },
+    {
+      "id": "5087898",
+      "time": "2026-09-10 23:13:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南微醫學：多款消化介入類耗材擬中選第七批國家集採】南微醫學公告稱，公司及全資子公司南京邁創參加國家組織醫用耗材集中帶量採購（第7批）（消化介入類醫用耗材）申報，多款產品擬中選。其中公司21類單品及2套手術套裝擬中選，20類產品進入A競價單元；南京邁創5款產品擬中選，全部歸屬B競價單元。本次集采采購週期自聯盟各地區中選結果實際執行日起至2029年12月31日。若順利簽訂採購協議並落地，有利於提升公司消化介入產品國內公立醫療機構覆蓋度與市場影響力，集採落地後產品終端價格下降短期將對相關產品毛利率帶來一定壓力，預計銷量有所增長。目前擬中選結果尚處於公示階段，最終中選結果、協議簽訂及實際執行等存在不確定性。"
+    },
+    {
+      "id": "5087897",
+      "time": "2026-09-10 23:13:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，加拿大已同意為烏克蘭提供“非常重要的防空裝備”。"
+    },
     {
       "id": "5087896",
       "time": "2026-09-10 23:09:45",
@@ -124072,120 +124185,6 @@
         "AI Revolution"
       ],
       "text": "【Downdetector reports outages at OpenAI, Claude, Grok and Cursor】Downdetector reported Thursday morning that multiple major AI platforms experienced service disruptions, including OpenAI, Claude, Grok and Cursor. Claude displayed an error message: \"Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again later.\" Grok displayed messages saying: \"Grok is currently experiencing problems. We are working to restore service as soon as possible,\" and \"This model is temporarily unavailable. Please try another model.\" Downdetector users first reported Grok and Claude interruptions at about 9:00 a.m. US Eastern Time; reports of OpenAI issues began around 10:30 a.m. US Eastern Time."
-    },
-    {
-      "id": "5075929",
-      "time": "2026-09-03 23:17:28",
-      "tags": [
-        "資料",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：沙烏地阿拉伯將 10 月銷往亞洲的阿拉伯輕質原油官方售價定為較阿曼 / 迪拜原油均價每桶貼水 2 美元。"
-    },
-    {
-      "id": "5075928",
-      "time": "2026-09-03 23:16:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：像卡尼總理這類加拿大政客把特朗普總統塑造成敵人，這對他們而言眼下看似有利。但等到加拿大經濟崩盤，這將在政治層面釀成嚴重惡果 —— 後果會比加拿大政客過往遭遇的任何局面都要糟糕。走著瞧！"
-    },
-    {
-      "id": "mkt:01a067d7-9ab3-7118-848b-772715eef313",
-      "time": "2026-09-03 23:16:18",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "White House AI chief praised NVIDIA (NVDA.O)’s deal with Hugging Face."
-    },
-    {
-      "id": "mkt:01a067d7-1900-7118-848b-6f2b3ca83c42",
-      "time": "2026-09-03 23:15:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Bank of England chief economist Pill says near-term rate rise could reduce need for more aggressive tightening later】Bank of England chief economist Huw Pill said a near-term bank rate increase would reduce the likelihood the Bank must adopt more aggressive tightening to curb inflation pressures from the Iran war. He said a timely, well-communicated rate rise does not necessarily signal the start of a prolonged, aggressive hiking cycle and can prevent harmful \"catch-up\" nominal dynamics that would make temporary inflation overshoots more persistent. Pill and two other MPC members voted to hike in July. Rate futures put the probability of a 25bp move at this month’s MPC slightly above 15%, while the November meeting is priced for a hike at more than 70%."
-    },
-    {
-      "id": "5075927",
-      "time": "2026-09-03 23:15:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破68美元/盎司，日內漲3.88%。"
-    },
-    {
-      "id": "5075926",
-      "time": "2026-09-03 23:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲5%，現報1430.00美元/盎司。"
-    },
-    {
-      "id": "te:markets:581018",
-      "time": "2026-09-03 23:15:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium is up by 5.03% — Palladium increased 5.03% to 1429 USD/t.oz"
-    },
-    {
-      "id": "5075925",
-      "time": "2026-09-03 23:15:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報53600.328點；納指漲1.18%，現報26527.932點；標普500指數漲0.85%，現報7731.430點。"
-    },
-    {
-      "id": "5075924",
-      "time": "2026-09-03 23:15:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮AI顧問戴維·薩克斯稱讚英偉達與 Hugging Face 的交易。"
-    },
-    {
-      "id": "mkt:01a067d6-27b0-7118-848b-60bf6c6cab15",
-      "time": "2026-09-03 23:14:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "DownDetector reported multiple major AI platforms experienced outages Thursday morning local time, affecting OpenAI, Claude, Grok and Cursor."
-    },
-    {
-      "id": "5075923",
-      "time": "2026-09-03 23:14:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "LIFFWATER私募信貸基金接到16%的贖回請求。"
-    },
-    {
-      "id": "5075922",
-      "time": "2026-09-03 23:14:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：墨西哥總統辛鮑姆擬針對燃料 IEPS 消費稅提出可追溯稅方案。"
     }
   ]
 }
