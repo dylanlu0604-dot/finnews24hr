@@ -1,7 +1,16 @@
 {
   "date": "2026-09-11",
-  "count": 409,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:b4ac9a01-ceca-467e-9c8c-6728fad988eb",
+      "time": "2026-09-11 04:52:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi forces seize Yemen's Hanish Islands, capture Mocha port】A Yemeni government official said on the 10th that Houthi forces deployed to the strategic Hanish Islands in the Red Sea after government naval units withdrew; the government later designated part of the west coast a \"combat zone.\" The official said the navy pulled back in the afternoon, after which Houthi fighters entered and established military positions on the islands. The Hanish Islands lie north of the Bab al-Mandeb Strait, close to major international shipping routes and are strategically important for monitoring and securing maritime traffic. Also on the 10th, after hours of heavy fighting, Houthi forces seized the Red Sea port city of Mocha in southwestern Taiz province, forcing government troops to withdraw south to the Zubab area between Mocha and the Bab al-Mandeb Strait."
+    },
     {
       "id": "5088261",
       "time": "2026-09-11 04:48:52",
