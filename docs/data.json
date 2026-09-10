@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-10 09:23:25",
-  "count": 13546,
+  "updated": "2026-09-10 09:27:17",
+  "count": 13548,
   "items": [
+    {
+      "id": "mkt:01a088ec-acc2-7118-8515-3a8707c701b4",
+      "time": "2026-09-10 09:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he had stopped a migrant caravan that threatened the United States."
+    },
+    {
+      "id": "mkt:01a088ec-79a8-7118-8515-35f7dc3fa07e",
+      "time": "2026-09-10 09:26:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: Consider me on the ballot too."
+    },
+    {
+      "id": "5086095",
+      "time": "2026-09-10 09:26:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如有需要，我會再來德克薩斯州兩三次。"
+    },
+    {
+      "id": "5086094",
+      "time": "2026-09-10 09:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將走訪約35個州，然後重返得克薩斯州。"
+    },
+    {
+      "id": "5086093",
+      "time": "2026-09-10 09:25:26",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.31％，深成指跌0.6％，創業板跌0.91％。"
+    },
+    {
+      "id": "mkt:01a088eb-6208-7118-8515-298183fa700d",
+      "time": "2026-09-10 09:25:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China A-shares fell: Shanghai Composite down 0.31%, Shenzhen Composite Index down 0.60%, ChiNext index down 0.91%."
+    },
+    {
+      "id": "5086092",
+      "time": "2026-09-10 09:25:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將造訪所有選情膠著的州。"
+    },
+    {
+      "id": "5086091",
+      "time": "2026-09-10 09:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個地球系統資料國際交換中心啟動建設】據中國氣象局訊息，9月10日，我國首個地球系統資料國際交換中心在橫琴粵澳深度合作區正式啟動建設。當日，中國氣象局、澳門特別行政區、橫琴粵澳深度合作區三方簽署共建合作框架協議，明確以3年為建設期、3年為運營期，在橫琴建成地球系統資料國際交換中心（澳門）。此舉旨在進一步建設培育資料要素開發利用生態，搭建地球系統資料合作橋樑，打造高水平對外開放平臺，推動優質資料產品與服務能力輸出，形成粵港澳大灣區地球系統資料要素統一大市場，賦能合作區數字經濟等新質生產力發展和澳門經濟適度多元發展，在全球資料治理與數字發展中貢獻中國力量。"
+    },
+    {
+      "id": "mkt:01a088ea-a4c1-7118-8515-2040de8b4949",
+      "time": "2026-09-10 09:24:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Liquidity indicator: market rates rebound, hover around policy rate】Early on Sept 10, DR007 rebounded to 1.4014%, close to the PBOC 7-day reverse repo policy rate of 1.4%. The PBOC injected 30 billion yuan via 7-day reverse repos, fully allotted to primary dealers. DR007 is treated as China’s short-end rate anchor; a meaningful premium to the PBOC 7-day reverse repo signals funding stress, a discount signals ample liquidity."
+    },
+    {
+      "id": "mkt:01a088ea-3af7-7118-8515-1d4edfe60db1",
+      "time": "2026-09-10 09:24:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will make the country stronger, safer, richer and freer than ever."
+    },
+    {
+      "id": "mkt:01a088e9-e213-7118-8515-15c19a884194",
+      "time": "2026-09-10 09:23:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE most-active tin contract rose 2.0% intraday to 426,340 yuan/ton."
+    },
+    {
+      "id": "mkt:01a088e9-c33a-7118-8515-0dd70de0b050",
+      "time": "2026-09-10 09:23:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield rose 5 bps to 3.75%."
+    },
+    {
+      "id": "mkt:01a088e9-4867-7118-8515-01726487b4cf",
+      "time": "2026-09-10 09:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific Index fell about 1%."
+    },
     {
       "id": "mkt:01a088e9-27b6-7118-8514-fb268e258b2c",
       "time": "2026-09-10 09:22:56",
@@ -118,6 +246,15 @@
         "09988.HK"
       ],
       "text": "Hong Kong stocks opened lower: Hang Seng Index down 1.15% and Hang Seng Tech Index down 1.39% at the open. NIO (09866.HK) dropped more than 4%; Alibaba (09988.HK), Zijin Mining (02899.HK), Weichai Power (02338.HK) and Trip.com Group (09961.HK) were each down around 2%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870152411",
+      "time": "2026-09-10 09:21:07",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展30億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:01a088e7-7034-7118-8514-d56ba25832d9",
@@ -123535,138 +123672,6 @@
         "MKT News"
       ],
       "text": "【Fenghua Advanced Technology: orders full; capacity utilization high】At a broker strategy meeting, Fenghua Advanced Technology said orders are full and capacity utilization remains at a high level. The company said it will, based on its own plans and market demand, accelerate product-mix upgrades and push high-end transformation of core MLCC, chip resistor and inductor lines."
-    },
-    {
-      "id": "mkt:01a064e0-95a8-7118-8471-70d89ec53d16",
-      "time": "2026-09-03 09:27:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "NJINTAI.O",
-        "Impact bullish"
-      ],
-      "text": "【New listing N Jintai surges over 208%】N Jintai shares jumped more than 208% on debut. The company is a high‑tech firm that develops, manufactures and sells sponge titanium products used in aerospace and defense, including Long March rockets, new fighter jets, naval vessels, China’s domestically produced large aircraft and aero engines."
-    },
-    {
-      "id": "mkt:01a064e0-6c57-7118-8471-6c66e19be128",
-      "time": "2026-09-03 09:27:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "A-share Kimi theme active: Mi Ao Exhibition rose over 5%, with Jiuan Medical, Zhongwen Online, Borui Communication and Hand Information also higher. Media reported Moonshot AI (Kimi) confidentially submitted an A1 filing to HKEX this week, formally launching a Hong Kong IPO process."
-    },
-    {
-      "id": "5074246",
-      "time": "2026-09-03 09:26:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據報道，韓國電力公司提議三星預付150億美元電費。"
-    },
-    {
-      "id": "mkt:01a064df-c6bf-7118-8471-61f537117758",
-      "time": "2026-09-03 09:26:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures rose to $91/bbl, up 0.41% intraday."
-    },
-    {
-      "id": "5074245",
-      "time": "2026-09-03 09:25:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破91美元/桶，日內持平。"
-    },
-    {
-      "id": "5074244",
-      "time": "2026-09-03 09:25:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金鈦股份上市首日開盤大漲超208%】金鈦股份上市首日開盤漲208.64%，現報30元，該股發行價為9.72元。"
-    },
-    {
-      "id": "mkt:01a064df-206b-7118-8471-5c6f59965fec",
-      "time": "2026-09-03 09:25:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China A-shares opened: Shanghai Composite up 0.29pct, Shenzhen Composite Index up 0.73pct, ChiNext Index up 0.90pct; Kimi, CPO, semiconductors, optical fiber and components sectors led gains."
-    },
-    {
-      "id": "5074243",
-      "time": "2026-09-03 09:25:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 壁仞科技漲近4%】截至發稿，壁仞科技(06082.HK)漲3.88%，群核科技(00068.HK)漲3.57%，海致科技集團(02706.HK)漲3.16%，劍橋科技(06166.HK)漲2.41%。"
-    },
-    {
-      "id": "5074242",
-      "time": "2026-09-03 09:25:15",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.29％，深成指漲0.73％，創業板漲0.9％。"
-    },
-    {
-      "id": "5074241",
-      "time": "2026-09-03 09:24:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券9月科技板塊投資策略：堅持再平衡，關注新技術，靜待新敘事】中信證券釋出的9月科技板塊投資策略指出，全球科技股中報披露逐步進入尾聲，不論是美股CSP與Neocloud的收入與訂單、CAPEX ROIC與英偉達中報對於2028財年收入增速的超預期指引，還是A股中芯國際與長鑫科技等龍頭第二季度業績環比大幅提升，都已充分證明並不存在系統性的“算力過剩”。展望科技股後市，儘管EPS表現仍然強勁，但仍面臨美國加息預期波動、長債利率走高、Anthropic上市衝擊美股流動性等一系列估值壓制因素，AI板塊整體仍呈現“強現實、弱預期”的特徵，整體情緒仍需要等待AI4S、企業級AI、RSI等新敘事更加明朗並凝聚共識，後續行情預計迴歸到盈利兌現為基礎、新技術新應用新敘事驅動邊際定價的階段。展望9月，新模型迭代、海外大模型IPO進展及半導體擴產仍是科技板塊最重要的敘事催化。與此同時，9月3日Cybercab釋出會也有望重拾市場對於物理AI的關注。配置上，堅持硬體與軟體/雲再平衡、擴產鏈+技術升級鏈＞漲價鏈、結構重於倉位：關注AI應用生態豐富、雲業務加速的頭部網際網路公司，硬體板塊首推景氣度仍在加速的半導體裝置，其次業績向好、估值合理的國產儲存與先進代工龍頭，以及大光（NPO+小光大幅反彈後補漲價效比）等；主題上，關注Cybercab釋出帶來的自動駕駛/物理AI、AI短劇/漫劇、FDE與企業級AI等新應用方向的機會。"
-    },
-    {
-      "id": "5074240",
-      "time": "2026-09-03 09:24:13",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【特斯拉連續第7個月在韓國進口車銷量中位居榜首】週四公佈的行業資料顯示，特斯拉8月份連續第七個月蟬聯韓國最暢銷進口乘用車品牌。 據韓國汽車進口商協會（KAIDA）統計，上月韓國新註冊進口乘用車29,817輛，同比增長9.2%。 特斯拉以10,400輛的銷量領跑市場，自2月份以來一直保持領先地位。 寶馬以6,180輛位居第二，梅賽德斯-賓士以3,959輛位列第三，比亞迪以2,846輛位列第四。 特斯拉Model Y Premium是上月最暢銷的進口車型，銷量達7,490輛。"
-    },
-    {
-      "id": "mkt:01a064dd-2ca8-7118-8471-5484050fe84b",
-      "time": "2026-09-03 09:23:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "00340.HK",
-        "Impact bullish",
-        "03330.HK",
-        "02259.HK"
-      ],
-      "text": "Hong Kong-listed gold stocks rebounded: Tongguan Gold (00340.HK), Lingbao Gold (03330.HK), Zijin Gold International (02259.HK) and Shandong Gold (01787.HK) rose more than 3%; Zijin Mining (02899.HK) and Zhaojin Mining (01818.HK) rose over 1%."
     }
   ]
 }

@@ -1,7 +1,135 @@
 {
   "date": "2026-09-10",
-  "count": 717,
+  "count": 731,
   "items": [
+    {
+      "id": "mkt:01a088ec-acc2-7118-8515-3a8707c701b4",
+      "time": "2026-09-10 09:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he had stopped a migrant caravan that threatened the United States."
+    },
+    {
+      "id": "mkt:01a088ec-79a8-7118-8515-35f7dc3fa07e",
+      "time": "2026-09-10 09:26:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump: Consider me on the ballot too."
+    },
+    {
+      "id": "5086095",
+      "time": "2026-09-10 09:26:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如有需要，我會再來德克薩斯州兩三次。"
+    },
+    {
+      "id": "5086094",
+      "time": "2026-09-10 09:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將走訪約35個州，然後重返得克薩斯州。"
+    },
+    {
+      "id": "5086093",
+      "time": "2026-09-10 09:25:26",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.31％，深成指跌0.6％，創業板跌0.91％。"
+    },
+    {
+      "id": "mkt:01a088eb-6208-7118-8515-298183fa700d",
+      "time": "2026-09-10 09:25:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China A-shares fell: Shanghai Composite down 0.31%, Shenzhen Composite Index down 0.60%, ChiNext index down 0.91%."
+    },
+    {
+      "id": "5086092",
+      "time": "2026-09-10 09:25:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將造訪所有選情膠著的州。"
+    },
+    {
+      "id": "5086091",
+      "time": "2026-09-10 09:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個地球系統資料國際交換中心啟動建設】據中國氣象局訊息，9月10日，我國首個地球系統資料國際交換中心在橫琴粵澳深度合作區正式啟動建設。當日，中國氣象局、澳門特別行政區、橫琴粵澳深度合作區三方簽署共建合作框架協議，明確以3年為建設期、3年為運營期，在橫琴建成地球系統資料國際交換中心（澳門）。此舉旨在進一步建設培育資料要素開發利用生態，搭建地球系統資料合作橋樑，打造高水平對外開放平臺，推動優質資料產品與服務能力輸出，形成粵港澳大灣區地球系統資料要素統一大市場，賦能合作區數字經濟等新質生產力發展和澳門經濟適度多元發展，在全球資料治理與數字發展中貢獻中國力量。"
+    },
+    {
+      "id": "mkt:01a088ea-a4c1-7118-8515-2040de8b4949",
+      "time": "2026-09-10 09:24:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Liquidity indicator: market rates rebound, hover around policy rate】Early on Sept 10, DR007 rebounded to 1.4014%, close to the PBOC 7-day reverse repo policy rate of 1.4%. The PBOC injected 30 billion yuan via 7-day reverse repos, fully allotted to primary dealers. DR007 is treated as China’s short-end rate anchor; a meaningful premium to the PBOC 7-day reverse repo signals funding stress, a discount signals ample liquidity."
+    },
+    {
+      "id": "mkt:01a088ea-3af7-7118-8515-1d4edfe60db1",
+      "time": "2026-09-10 09:24:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will make the country stronger, safer, richer and freer than ever."
+    },
+    {
+      "id": "mkt:01a088e9-e213-7118-8515-15c19a884194",
+      "time": "2026-09-10 09:23:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHFE most-active tin contract rose 2.0% intraday to 426,340 yuan/ton."
+    },
+    {
+      "id": "mkt:01a088e9-c33a-7118-8515-0dd70de0b050",
+      "time": "2026-09-10 09:23:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield rose 5 bps to 3.75%."
+    },
+    {
+      "id": "mkt:01a088e9-4867-7118-8515-01726487b4cf",
+      "time": "2026-09-10 09:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific Index fell about 1%."
+    },
     {
       "id": "mkt:01a088e9-27b6-7118-8514-fb268e258b2c",
       "time": "2026-09-10 09:22:56",
@@ -118,6 +246,15 @@
         "09988.HK"
       ],
       "text": "Hong Kong stocks opened lower: Hang Seng Index down 1.15% and Hang Seng Tech Index down 1.39% at the open. NIO (09866.HK) dropped more than 4%; Alibaba (09988.HK), Zijin Mining (02899.HK), Weichai Power (02338.HK) and Trip.com Group (09961.HK) were each down around 2%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609103870152411",
+      "time": "2026-09-10 09:21:07",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展30億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:01a088e7-7034-7118-8514-d56ba25832d9",
