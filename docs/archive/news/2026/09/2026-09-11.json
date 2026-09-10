@@ -1,7 +1,67 @@
 {
   "date": "2026-09-11",
-  "count": 502,
+  "count": 508,
   "items": [
+    {
+      "id": "mkt:01a08d8e-8e0a-7118-8536-6f69a98c057d",
+      "time": "2026-09-11 07:02:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said it will pay a cash dividend of $0.53 per share on Sept. 28, 2026."
+    },
+    {
+      "id": "mkt:01a08d8e-3b99-7118-8536-675119332cd4",
+      "time": "2026-09-11 07:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Peru's central bank left its benchmark policy rate unchanged at 4.25%."
+    },
+    {
+      "id": "5088335",
+      "time": "2026-09-11 07:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 宣佈季度現金股息為每股 0.53 美元，2026 年 9 月 28 日派息。"
+    },
+    {
+      "id": "te:markets:582919",
+      "time": "2026-09-11 07:00:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Gains but Set for Weekly Decline — New Zealand stocks rose 24 points, or 0.2%, to 13,735 on Thursday, moving up from their lowest level since July 31, touched a day earlier, mainly buoyed by consumer discretionary, healthcare, and real estate. However, traders were cautious ahead of the release of US inflation data later today for clues on the Fed's monetary policy decision next week. Caution also built ahead of the release of New Zealand's GDP for Q2 and a slew of data from China, New Zealand's top trading partner, due next week. A downbeat session on Wall Street overnight also capped the gain, amid a surge in Treasury yields and rising oil prices. On the data front, New Zealand’s manufacturing sector expanded at a slower pace in August. Among earlier gainers were Hallenstein Glasson (1.6%), Ebos Group (1.1%), Chorus (0.7%), F&C Investment (0.6%), and ANZ Group (0.2%). For the week, the index is heading for a 1.5% fall, after rising in the previous week."
+    },
+    {
+      "id": "5088333",
+      "time": "2026-09-11 07:00:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行將基準利率維持在 4.25%（前值 4.25%）。"
+    },
+    {
+      "id": "5088332",
+      "time": "2026-09-11 06:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家銀行啟用AI面試官開展校招初篩】銀行業秋季校園招聘拉開帷幕。近期，多家銀行陸續釋出2027屆秋季校園招聘公告。整體來看，今年秋招出現一個新變化：原本多在春招試點的AI（人工智慧）面試，開始進入秋招流程，成為應屆生求職銀行崗位的首輪關卡。從招聘流程看，AI面試普遍設定在簡歷篩選之後、筆試之前，是銀行校招第一道系統性面試關卡。值得注意的是，現階段AI面試僅承擔初篩職能，並未取代人工面試。所有透過AI面試的應屆生，仍需參加銀行統一筆試、多輪人工複試及終面，經過層層考核後方有機會拿到錄用通知書。（證券日報）"
+    },
     {
       "id": "5088331",
       "time": "2026-09-11 06:57:58",
