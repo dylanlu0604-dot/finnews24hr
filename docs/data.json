@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-10 18:19:09",
-  "count": 13637,
+  "updated": "2026-09-10 18:22:57",
+  "count": 13643,
   "items": [
+    {
+      "id": "mkt:01a08ad7-1334-7118-8524-a51d6bc82df0",
+      "time": "2026-09-10 18:22:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HKMA, HKEX, DFSA and Nasdaq Dubai form strategic working group to deepen Hong Kong–DIFC market links】On Sept 10 the Hong Kong Monetary Authority (HKMA), Hong Kong Exchanges and Clearing Limited (HKEX), the Dubai Financial Services Authority (DFSA) and Nasdaq Dubai formed a strategic working group to strengthen links between Hong Kong and the Dubai International Financial Centre (DIFC). Composed of regulators and exchanges from both centres, the group will explore cooperation in sustainable finance, Islamic finance, market innovation and broader capital‑market connectivity to support market growth and enhance attractiveness."
+    },
+    {
+      "id": "5087167",
+      "time": "2026-09-10 18:22:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中策橡膠：小米汽車澎程N70車型釋出，累計發貨貨值約380萬元】中策橡膠公告，公司245/55R19PR[ARISUN1Star]107V輪胎產品已作為小米汽車澎程N70車型的原裝配套輪胎，該車型近日已進行新品釋出。截至公告日，公司為該車型累計發貨貨值為約380萬元，佔公司2025年度銷售收入比例為0.85 （萬分之零點八五）。"
+    },
+    {
+      "id": "5087166",
+      "time": "2026-09-10 18:21:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：控股股東完成部分股份質押及解除質押】愛旭股份公告稱，公司控股股東陳剛於2026年9月8日解除質押6300萬股，佔其所持股份的19.21%，佔公司總股本的2.98%；於2026年9月9日質押5700萬股，佔其所持股份的17.38%，佔公司總股本的2.69%，質權人為山東省國際信託股份有限公司，融資用途為置換存量融資。本次變動後，陳剛累計質押2.03億股，佔其所持股份的61.77%，佔公司總股本的9.58%；控股股東及其一致行動人累計質押3.27億股，佔其合計持股的57.13%，佔公司總股本的15.44%。本次質押風險可控，不會導致公司控制權變更。"
+    },
+    {
+      "id": "5087165",
+      "time": "2026-09-10 18:21:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜機場執行長表示：隨著小型飛機能夠執飛更遠航程，到2027年年中，從迪拜直飛目的地的城市數量將超過240個。"
+    },
+    {
+      "id": "mkt:01a08ad6-51f5-7118-8524-9846c6b48861",
+      "time": "2026-09-10 18:21:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China achieves domestic pricing and RMB settlement for nuclear insurance】On Sept. 10 in Shenzhen, China General Nuclear (CGN) signed a co-insurance agreement for operating-period insurance at its nuclear power stations, implementing RMB pricing and settlement for major policy lines. The move ends more than 30 years of reliance on foreign-currency transactions in China’s nuclear insurance market and marks a key step toward deeper participation in international pricing and settlement rulemaking. The agreement covers 33 operating units across eight CGN sites and provides coverage exceeding 210 billion yuan."
+    },
+    {
+      "id": "5087164",
+      "time": "2026-09-10 18:21:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠城新材：控股股東減持1.07%股份，合計持股降至33.93%】冠城新材公告，控股股東福建豐榕投資有限公司於2026年9月8日至9月10日減持公司無限售流通股合計1491.2萬股，佔公司總股本1.07%，其中透過大宗交易減持136萬股、集中競價減持1355.2萬股。本次權益變動後，豐榕投資及其一致行動人STARLEX LIMITED合計持股由4.87億股降至4.72億股，持股比例由35.00%降至33.93%。本次變動不觸及要約收購，不會導致公司控制權變更；減持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5087163",
+      "time": "2026-09-10 18:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【螞蟻靈波LingBot-World 2.0開源三款模型】9月10日，螞蟻靈波科技宣佈開放三款模型：LingBot-World 2.0 Small（1.3B）、LingBot-World 2.0 Bidirectional 和LingBot-World 2.0 Causal Pretrain。本次開源的LingBot-World 2.0 Small採用1.3B引數規模，面向消費級單卡GPU設計，可在單卡上實現實時生成。"
+    },
+    {
+      "id": "5087162",
+      "time": "2026-09-10 18:20:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國核保險實現本土模型定價和人民幣本幣結算】9月10日，《中廣核在運核電站運營期保險專案共保協議》在深圳簽署，實現核電站運營期保險主要險種的人民幣定價和結算。此舉打破了中國核保險市場三十餘年依賴外幣交易的慣例，標誌著我國核保險領域在深度參與國際定價、結算規則體系建設中邁出了關鍵一步。此次協議覆蓋中廣核8個核電基地共33臺在運核電機組的核運營險，保障額度超2100億元。"
+    },
+    {
+      "id": "mkt:01a08ad5-54ee-7118-8524-94072d410954",
+      "time": "2026-09-10 18:20:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government forces are redeploying along the western coast, shifting troops from MOCHA toward Dhubab, sources said."
+    },
+    {
+      "id": "5087161",
+      "time": "2026-09-10 18:20:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙文互聯：使用4.05億元閒置募集資金購買大額存單】浙文互聯公告稱，公司使用40,462.83萬元閒置募集資金購買華夏銀行杭州分行武林支行的5款普通大額存單，均為保本固定收益型，期限41天至331天不等，預計年化收益率2.40%-2.90%。本次投資在公司董事會授權的不超過6.20億元閒置募集資金現金管理額度內，不影響募投專案正常進行，不存在變相改變募集資金用途的行為。截至公告披露日，公司閒置募集資金現金管理尚未收回本金金額為40,462.83萬元，剩餘可用額度21,537.17萬元。"
+    },
+    {
+      "id": "te:economy:582743",
+      "time": "2026-09-10 18:20:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan Producer Inflation Eases for 2nd Month — Producer price inflation in Kazakhstan slowed to 5.6% in August 2026, the lowest in seven months, compared to 9.1% in July. A slowdown was seen in cost for mining and quarrying (5.1% vs 10.9%) and manufacturing (5.5% vs 7.8%) while inflation accelerated slightly to electricity, gas, steam, hot water and air conditioning (12% vs 11.8%) and water supply and waste collection (8.7% vs 7.9%). Compared to the previous month, the PPI decreased 1.2%."
+    },
+    {
+      "id": "5087160",
+      "time": "2026-09-10 18:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國衛星：控股股東減持計劃屆滿 累計減持1.26%股份】中國衛星公告稱，公司控股股東中國空間技術研究院減持計劃期限屆滿，減持期間為2026年6月10日至2026年9月9日，原計劃減持不超過公司總股本3%的股份。期間空間院透過集中競價、大宗交易方式累計減持公司股份1489.04萬股，佔公司總股本的1.26%，減持總金額10.97億元，減持價格區間為53.01元/股至98.96元/股。本次減持後，空間院持有公司股份5.94億股，佔公司總股本的50.20%。"
+    },
+    {
+      "id": "5087159",
+      "time": "2026-09-10 18:18:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜機場執行長表示：中轉市場與點對點市場當前態勢極為穩健，且未來將持續保持良好表現。"
+    },
     {
       "id": "5087158",
       "time": "2026-09-10 18:18:28",
@@ -124288,65 +124400,6 @@
         "MKT News"
       ],
       "text": "Russian Foreign Minister Lavrov said NATO is frantically seeking new pretexts to prolong its already entirely \"artificial\" existence."
-    },
-    {
-      "id": "5075306",
-      "time": "2026-09-03 18:22:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500指數E迷你期貨下跌0.06%，道指期貨上漲0.07%，納斯達克100指數期貨下跌0.20%。"
-    },
-    {
-      "id": "5075305",
-      "time": "2026-09-03 18:21:09",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【日本財務大臣片山皋月：自從與美國聯合外匯行動以來仍保持緊迫感】日本財務大臣片山皋月表示，自與美國協調進行外匯干預以來，一直保持著同樣的緊迫感，並補充說，這一做法與首相高市早苗的考慮一致。片山在與高市會面並向她彙報在北卡羅來納州舉行的國際會議情況後告訴記者，七國集團(G7)和二十國集團(G20)的同行對日本的增長和財政政策給予了非常積極的回應片山表示，在他5月訪問東京期間美國財政部長斯科特·貝森特並沒有對她提出質疑當被問及貝森特關於日本應該放棄通貨再膨脹政策的言論時，片山表示，貝森特從未告訴她日本必須做或停止做任何事人們普遍認識到，包括美元兌日元匯率在內的金融市場穩定，不僅對日本至關重要，對全球經濟也同樣重要。"
-    },
-    {
-      "id": "5075304",
-      "time": "2026-09-03 18:20:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暴雨黃色預警：福建東部區域性地區有特大暴雨】中央氣象臺9月3日18時繼續釋出暴雨黃色預警：預計，9月3日20時至4日20時，廣東北部和東部、福建大部、江西中南部、湖南南部、臺灣島大部等地部分地區有大到暴雨，其中，廣東北部、福建東部和西南部、江西南部等地部分地區有大暴雨，福建東部區域性地區有特大暴雨(250-280毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。"
-    },
-    {
-      "id": "mkt:01a066c8-e530-7118-8481-098e52af4e89",
-      "time": "2026-09-03 18:20:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission spokesperson said the Commission seeks a response from Spanish authorities before approving funding or other support to Spain related to Ceuta."
-    },
-    {
-      "id": "mkt:01a066c8-789d-7118-8481-02f42e18643d",
-      "time": "2026-09-03 18:20:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said she still feels a sense of urgency since the joint foreign-exchange action with the US."
-    },
-    {
-      "id": "5075303",
-      "time": "2026-09-03 18:20:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST榮科：涉及違規擔保訴訟及部分銀行賬戶被凍結】ST榮科公告稱，公司收到瀋陽市中級人民法院送達的訴訟材料，撫順銀行起訴瀋陽致遠石油化工有限公司等10名被告，公司為被告之一。該案系前期已披露的7.85億元違規擔保事項中的第2筆，擔保本金7500萬元、擔保餘額7496.99萬元，原告主張貸款本息合計1.01億元，公司承擔連帶保證責任。該擔保未經公司內部審批及董股東會審議，屬前任控股股東遼寧國科控制時期的違規擔保，公司將主張擔保合同無效。公司新增1個銀行賬戶被凍結、2個賬戶新增輪候凍結，本次新增凍結金額2.16萬元；累計被凍結賬戶4個，實際凍結金額合計2245.64萬元，佔最近一期經審計淨資產的2.70%。本次訴訟尚未開庭，判決結果存在不確定性，暫未對生產經營造成重大不利影響。"
-    },
-    {
-      "id": "5075302",
-      "time": "2026-09-03 18:19:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏盛華源：持股5%以上股東合計減持比例達0.86%】宏盛華源公告稱，公司持股5%以上股東國新建源及其一致行動人建信投資於2026年3月20日至9月2日期間，透過集中競價交易合計減持公司股份2280.85萬股，佔公司總股本的0.86%。本次減持後，二者合計持股比例由17.86%降至17.00%。本次減持為履行此前披露的減持計劃，不觸及要約收購，未違反相關承諾，2026年7月24日披露的減持計劃尚未實施完畢。"
     }
   ]
 }
