@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-11 02:38:24",
-  "count": 13680,
+  "updated": "2026-09-11 02:42:39",
+  "count": 13679,
   "items": [
+    {
+      "id": "5088127",
+      "time": "2026-09-11 02:41:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方反對個別國強推安理會制裁伊朗】當地時間9月10日上午，聯合國安理會個別成員國不顧安理會在相關問題上仍存在巨大分歧，執意強推安理會恢復對伊朗制裁，推動安理會在已被終止的議題下舉行會議。中國常駐聯合國副代表孫磊在發言中對此表示嚴重關切和強烈反對。孫磊指出，目前，美國加大對伊朗單邊制裁、對伊朗發動新一輪軍事打擊，美伊互襲，地區局勢再度緊張，各方勸和促談努力嚴重受挫。中方對此高度關切、深感擔憂，呼籲美國承諾不再動武，同伊朗真誠談判。當事方應摒棄訴諸武力或以武力相威脅，推動伊朗核問題重回政治外交解決軌道，就實現全面持久停火、達成和平協議、政治外交解決伊朗核問題等尋找兼顧各方合理訴求的最大公約數。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5088126",
+      "time": "2026-09-11 02:39:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部長債實際回購規模低於上限 10年期收益率進一步走高】美國財政部週四對10年至20年期國債的回購規模低於計劃上限，導致國債收益率進一步走高。財政部週四僅回購51.9億美元債券，未及週三宣佈的60億美元上限。操作結束後，10年期美國國債收益率延續漲勢，升高10個基點至4.94%。雖然財政部並沒有義務買滿最高額度，但不買足的情況此前只發生過兩次。自從回購計劃於2024年恢復以來，針對較長期限名義國債的操作已經進行53次。"
+    },
+    {
+      "id": "mkt:01a08c9e-44a8-7118-8533-b1717173cea8",
+      "time": "2026-09-11 02:39:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 1.47% to 941 yuan/gram; SHFE silver main contract fell 5.07% to 15,593 yuan/kg; INE SC crude main contract rose 6.19% to 816 yuan/barrel."
+    },
+    {
+      "id": "te:markets:582899",
+      "time": "2026-09-11 02:38:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 7-week Low — Boeing shares decreased to 205.46 USD, the lowest since July 2026. Over the past 4 weeks, Boeing lost 11.88%, and in the last 12 months, it decreased 6.58%."
+    },
     {
       "id": "5088125",
       "time": "2026-09-11 02:37:00",
@@ -124880,50 +124925,6 @@
         "Impact bullish"
       ],
       "text": "【Zuckerberg told Trump he opposes a national AI regulator】Business Insider reported Meta CEO Mark Zuckerberg told President Trump last month he opposed plans for a national AI regulator. Sources said Trump phoned Zuckerberg the week of Aug. 17 to discuss a White House consideration of a FINRA-style independent body, a proposal from DeepMind CEO Demis Hassabis to subject advanced AI models to review and risk testing. Zuckerberg said any regulator should reflect the Trump administration’s relatively permissive approach to AI oversight but did not press Trump to change course. The White House said it is weighing the plan while seeking to balance AI innovation and safety and is also evaluating an industry-led self-regulatory option. Zuckerberg has warned that overly strict rules could slow model releases and harm U.S. competitiveness in AI."
-    },
-    {
-      "id": "mkt:01a06892-ebde-7118-848f-858989304674",
-      "time": "2026-09-04 02:40:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance's White House press conference has concluded."
-    },
-    {
-      "id": "5076055",
-      "time": "2026-09-04 02:40:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "副總統萬斯結束白宮新聞釋出會。"
-    },
-    {
-      "id": "mkt:01a06891-ce05-7118-848f-7c68cd4be1c4",
-      "time": "2026-09-04 02:39:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "President Trump said artificial intelligence has some negative effects and that those issues will be resolved."
-    },
-    {
-      "id": "mkt:01a06891-b952-7118-848f-711807006178",
-      "time": "2026-09-04 02:39:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said data centers are great."
-    },
-    {
-      "id": "5076051",
-      "time": "2026-09-04 02:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：資料中心太棒了。"
     }
   ]
 }
