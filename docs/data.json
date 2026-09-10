@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-10 22:21:09",
-  "count": 13618,
+  "updated": "2026-09-10 22:25:19",
+  "count": 13610,
   "items": [
+    {
+      "id": "5087828",
+      "time": "2026-09-10 22:22:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國高等法院在中期選舉前就密蘇里州選區地圖案作出不利於共和黨的裁決。"
+    },
+    {
+      "id": "mkt:01a08bb1-2f6a-7118-852e-5601a27159e0",
+      "time": "2026-09-10 22:20:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US two-year Treasury yield rose 10bps intraday to 4.53%."
+    },
     {
       "id": "mkt:01a08bb0-a88a-7118-852e-498a7944c502",
       "time": "2026-09-10 22:20:05",
@@ -124312,89 +124336,6 @@
         "NOC.O"
       ],
       "text": "【German defense minister Pistorius to meet U.S. counterpart Hegseth in Washington; to attend F-35 rollout】German defense minister Pistorius will visit Washington this month to meet U.S. defense secretary Hegseth and attend the rollout for Germany’s F-35 procurement. The meeting reverses an earlier refusal by Hegseth to receive Pistorius and comes amid U.S.-German strains over Iran and the Ukraine war, a dynamic that heightens the visit’s geopolitical and defense-sector significance."
-    },
-    {
-      "id": "mkt:01a067a8-d0a2-7118-8489-dce965b8fdcc",
-      "time": "2026-09-03 22:25:11",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "French unions call for civil servants to strike on Sept 29."
-    },
-    {
-      "id": "mkt:01a067a8-bf07-7118-8489-d1c3548a47b7",
-      "time": "2026-09-03 22:25:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuelan opposition leader Maria Corina Machado did not explicitly reject an oil deal."
-    },
-    {
-      "id": "mkt:01a067a8-aa06-7118-8489-ca87cdc1cfcb",
-      "time": "2026-09-03 22:25:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuelan opposition leader Machado said she supports relations between Venezuela and the United States."
-    },
-    {
-      "id": "5075848",
-      "time": "2026-09-03 22:24:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉反對派領導人馬查多支援委內瑞拉與美國的關係。"
-    },
-    {
-      "id": "5075847",
-      "time": "2026-09-03 22:24:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉反對派領導人並未明確拒絕石油協議。"
-    },
-    {
-      "id": "5075846",
-      "time": "2026-09-03 22:22:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士美股股價下跌近4%，總市值報1.16萬億美元。"
-    },
-    {
-      "id": "5075845",
-      "time": "2026-09-03 22:22:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【寶鋼股份與美國船級社（ABS）開展技術交流】據寶鋼股份訊息，近日，寶鋼股份與美國船級社（ABS）在寶山基地舉行技術交流。ABS專家一行到訪，與製造管理部、厚板事業部相關負責人，圍繞船用鋼材技術發展方向展開深入研討。本次交流重點聚焦船用材料的技術發展與挑戰，雙方就相關材料的開發、認證、評價進行了充分討論，並圍繞材料效能評價的關鍵技術要求深入交換意見，為後續系統性合作明確了方向。"
-    },
-    {
-      "id": "mkt:01a067a5-c153-7118-8489-c49126a81d57",
-      "time": "2026-09-03 22:21:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports Germany's defense minister will meet U.S. Secretary of Defense Hegseth this month."
-    },
-    {
-      "id": "5075844",
-      "time": "2026-09-03 22:21:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【6名伊朗軍人在美對伊南部襲擊中身亡】據伊朗光明通訊社3日報道，6名伊朗軍人在美軍對伊朗南部的襲擊中身亡。 報道說，美軍1日對伊朗南部多個地點發動襲擊，造成6名伊朗伊斯蘭共和國軍隊人員死亡，其中3人為隸屬於空軍和海軍的飛行員。（新華社）"
-    },
-    {
-      "id": "5075843",
-      "time": "2026-09-03 22:21:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國8月服務業增速創半年來最快 價格指標升至四年高點】8月美國服務業以六個月來最快速度擴張，得益於強勁需求和商業活動回升。美國供應管理協會(ISM)週四公佈的資料顯示，8月服務業指數上升1.3點至55.4，為2月以來最高水平，也高於經濟學家的預期中值。指數高於50意味著行業處於擴張狀態。新訂單增速加快至2023年初以來最高，企業活動指標升至2022年以來最強水平。未完成訂單連續第七個月擴張。"
     }
   ]
 }

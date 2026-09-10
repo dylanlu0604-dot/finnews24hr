@@ -1,7 +1,31 @@
 {
   "date": "2026-09-10",
-  "count": 2419,
+  "count": 2421,
   "items": [
+    {
+      "id": "5087828",
+      "time": "2026-09-10 22:22:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國高等法院在中期選舉前就密蘇里州選區地圖案作出不利於共和黨的裁決。"
+    },
+    {
+      "id": "mkt:01a08bb1-2f6a-7118-852e-5601a27159e0",
+      "time": "2026-09-10 22:20:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US two-year Treasury yield rose 10bps intraday to 4.53%."
+    },
     {
       "id": "mkt:01a08bb0-a88a-7118-852e-498a7944c502",
       "time": "2026-09-10 22:20:05",
