@@ -1,7 +1,47 @@
 {
   "date": "2026-09-10",
-  "count": 685,
+  "count": 689,
   "items": [
+    {
+      "id": "5086072",
+      "time": "2026-09-10 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.93%，報24971.60點，低水303.36點。"
+    },
+    {
+      "id": "5086071",
+      "time": "2026-09-10 09:13:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果釋出會嘉賓陣容出圈：段永平到場，五月天阿信曬和新任CEO合照】北京時間 9 月 10 日凌晨，蘋果在 Apple Park 喬布斯劇院舉行秋季新品釋出會，正式推出旗下首款摺疊屏 iPhone —— iPhone Duo。這是自 2017 年 iPhone X 以來，iPhone 首次迎來全新形態。此外，這也是約翰·特努斯接任蘋果執行長後的首場釋出會。8月29日，知名投資人段永平透過其雪球賬號透露，很好奇蘋果摺疊手機，會去9月9日的釋出會。釋出會當天，有博主曬出與段永平在釋出會現場的合照，證實其到場。此外，釋出會前夕，蘋果在美國加州Apple Park總部舉辦私人晚宴，五月天阿信出席這場晚宴。他發帖引用《知足》歌詞“怎麼去擁有一道彩虹”並曬出名牌。隨後，他還曬出了參加蘋果釋出會的現場圖片。9月10日凌晨，阿信發文總結蘋果釋出會，並曬出和蘋果新任CEO約翰·特努斯的合照。阿信表示：“如果你告訴 25 年前的我們，有一天，未來的每個人手上都會拿著一個小小的黑色盒子，每天花上許多時間與它相伴，我們一定很難相信。而今天，我們親身經歷，也親眼見證了科技如何不斷改變我們的生活——讓我們看得更遠，聽得更立體，也讓體驗變得更加身歷其境。”（新浪科技）"
+    },
+    {
+      "id": "5086070",
+      "time": "2026-09-10 09:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鼎股份在四川成立新材料科技公司】企查查APP顯示，近日，四川鼎源新材料科技有限公司成立，經營範圍包含：合成材料銷售；生物基材料製造；工程塑膠及合成樹脂銷售；塑膠製品銷售等。企查查股權穿透顯示，該公司由中鼎股份全資持股。"
+    },
+    {
+      "id": "mkt:01a088de-d1e0-7118-8514-a84332f55776",
+      "time": "2026-09-10 09:11:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【NDRC hosts roundtable with senior US firms in China】On Sept. 10 in Beijing the National Development and Reform Commission (NDRC) met with senior executives from more than 60 US multinationals operating in China — including Amazon Web Services, NVIDIA, Dell and Honeywell China — from cloud/compute, industrial energy and consumer-pharma sectors. NDRC bureaus outlined policy considerations in the 15th Five-Year Plan outline, foreign-investment policy for the 15th Plan period, and reported implementation outcomes of a new large-scale equipment-upgrade programme and consumer trade-in measures designed to boost consumption; officials also promoted Beijing’s economic and investment environment."
+    },
     {
       "id": "mkt:01a088de-215e-7118-8514-a3fcbfb6c4f1",
       "time": "2026-09-10 09:10:53",

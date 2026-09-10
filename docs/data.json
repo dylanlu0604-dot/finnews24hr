@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-10 09:11:49",
-  "count": 13543,
+  "updated": "2026-09-10 09:15:40",
+  "count": 13538,
   "items": [
+    {
+      "id": "5086072",
+      "time": "2026-09-10 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.93%，報24971.60點，低水303.36點。"
+    },
+    {
+      "id": "5086071",
+      "time": "2026-09-10 09:13:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果釋出會嘉賓陣容出圈：段永平到場，五月天阿信曬和新任CEO合照】北京時間 9 月 10 日凌晨，蘋果在 Apple Park 喬布斯劇院舉行秋季新品釋出會，正式推出旗下首款摺疊屏 iPhone —— iPhone Duo。這是自 2017 年 iPhone X 以來，iPhone 首次迎來全新形態。此外，這也是約翰·特努斯接任蘋果執行長後的首場釋出會。8月29日，知名投資人段永平透過其雪球賬號透露，很好奇蘋果摺疊手機，會去9月9日的釋出會。釋出會當天，有博主曬出與段永平在釋出會現場的合照，證實其到場。此外，釋出會前夕，蘋果在美國加州Apple Park總部舉辦私人晚宴，五月天阿信出席這場晚宴。他發帖引用《知足》歌詞“怎麼去擁有一道彩虹”並曬出名牌。隨後，他還曬出了參加蘋果釋出會的現場圖片。9月10日凌晨，阿信發文總結蘋果釋出會，並曬出和蘋果新任CEO約翰·特努斯的合照。阿信表示：“如果你告訴 25 年前的我們，有一天，未來的每個人手上都會拿著一個小小的黑色盒子，每天花上許多時間與它相伴，我們一定很難相信。而今天，我們親身經歷，也親眼見證了科技如何不斷改變我們的生活——讓我們看得更遠，聽得更立體，也讓體驗變得更加身歷其境。”（新浪科技）"
+    },
+    {
+      "id": "5086070",
+      "time": "2026-09-10 09:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鼎股份在四川成立新材料科技公司】企查查APP顯示，近日，四川鼎源新材料科技有限公司成立，經營範圍包含：合成材料銷售；生物基材料製造；工程塑膠及合成樹脂銷售；塑膠製品銷售等。企查查股權穿透顯示，該公司由中鼎股份全資持股。"
+    },
+    {
+      "id": "mkt:01a088de-d1e0-7118-8514-a84332f55776",
+      "time": "2026-09-10 09:11:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【NDRC hosts roundtable with senior US firms in China】On Sept. 10 in Beijing the National Development and Reform Commission (NDRC) met with senior executives from more than 60 US multinationals operating in China — including Amazon Web Services, NVIDIA, Dell and Honeywell China — from cloud/compute, industrial energy and consumer-pharma sectors. NDRC bureaus outlined policy considerations in the 15th Five-Year Plan outline, foreign-investment policy for the 15th Plan period, and reported implementation outcomes of a new large-scale equipment-upgrade programme and consumer trade-in measures designed to boost consumption; officials also promoted Beijing’s economic and investment environment."
+    },
     {
       "id": "mkt:01a088de-215e-7118-8514-a3fcbfb6c4f1",
       "time": "2026-09-10 09:10:53",
@@ -123546,86 +123586,6 @@
         "市場"
       ],
       "text": "【人民幣兌美元中間價報6.7807，較上日調高22點】人民幣兌美元中間價報6.7807，較上日調高22點。"
-    },
-    {
-      "id": "5074227",
-      "time": "2026-09-03 09:15:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7807元。"
-    },
-    {
-      "id": "5074226",
-      "time": "2026-09-03 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.60%，報25405.00點，高水93.79點。"
-    },
-    {
-      "id": "te:markets:580635",
-      "time": "2026-09-03 09:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Singapore Hit All-time High — STI increased to an all-time high of 5776.00 Index Points. Over the past 4 weeks, FTSE Straits Times Index gained 2.35%, and in the last 12 months, it increased 33.92%."
-    },
-    {
-      "id": "5074225",
-      "time": "2026-09-03 09:14:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星人壽：正在考慮對多家公司進行股權投資。"
-    },
-    {
-      "id": "mkt:01a064d4-41ec-7118-8471-1c057d820a47",
-      "time": "2026-09-03 09:13:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela acting president says elections to be held when 'ready'; no date】Acting President Delcy Rodríguez said at a press conference on Sept. 2 local time that elections will be held \"when the country is ready\" and \"when the electoral process should be launched,\" but she did not provide a date."
-    },
-    {
-      "id": "5074224",
-      "time": "2026-09-03 09:13:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國盛智科：目前在手訂單飽滿 對下半年訂單趨勢保持信心】國盛智科(688558)9月1日在接受機構調研時表示，公司目前訂單情況良好，在手訂單飽滿，對下半年的訂單趨勢保持信心。2026年上半年，數控機床行業呈現“需求修復與結構性升級並行”的特徵，新興產業需求釋放，高景氣賽道拉動高精度數控機床需求。公司目前已在精密模具、風電、民用航空、半導體、人形機器人及新能源汽車六大行業形成定製化解決方案。公司對全年行業景氣度持謹慎樂觀態度。"
-    },
-    {
-      "id": "te:economy:580633",
-      "time": "2026-09-03 09:12:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Private Sector Growth Revised Higher — Japan’s S&P Global Composite PMI Business Activity Index was at 53.5 in August 2026, up from a flash reading of 53.4 and July's 52.7. It marked a 17-month expansion streak in private-sector activity and the highest reading since February, led by another sharp rise in manufacturing output alongside firmer services growth. Total new orders climbed at one of the quickest rates in three years, signaling stronger underlying demand. Employment continued to edge higher as backlogs grew, underscoring persistent capacity pressures. On prices, input costs rose sharply across manufacturing and services, though inflation eased to its lowest since March. In contrast, selling prices increased at the fastest pace since the survey began in 2007, highlighting firms’ continued pass-through of higher costs to customers."
-    },
-    {
-      "id": "5074223",
-      "time": "2026-09-03 09:12:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星火災及海上保險公司：目前尚未就收購任何英國大型非壽險公司做出最終決定。"
-    },
-    {
-      "id": "5074222",
-      "time": "2026-09-03 09:11:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州數智應急科技集團登記成立 含多項AI業務】企查查APP顯示，近日，廣州數智應急科技集團有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由廣州廣寬科技有限公司等共同持股。"
     }
   ]
 }
