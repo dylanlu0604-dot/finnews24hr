@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-12 04:29:16",
-  "count": 13468,
+  "updated": "2026-09-12 04:33:08",
+  "count": 13472,
   "items": [
+    {
+      "id": "mkt:01a0922a-da9a-7118-8551-b718007de8d2",
+      "time": "2026-09-12 04:31:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Congo government data show confirmed Ebola deaths have surpassed 7,000."
+    },
+    {
+      "id": "mkt:01a0922a-d260-7118-8551-ad7c5f556524",
+      "time": "2026-09-12 04:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Democratic Republic of Congo says Ebola outbreak has spread to South Ubangi province."
+    },
+    {
+      "id": "5090369",
+      "time": "2026-09-12 04:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果（金）稱埃博拉疫情已擴散至南烏班吉省。"
+    },
+    {
+      "id": "5090364",
+      "time": "2026-09-12 04:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府資料顯示，剛果埃博拉死亡確診病例已超7000例。"
+    },
     {
       "id": "5090362",
       "time": "2026-09-12 04:26:37",
