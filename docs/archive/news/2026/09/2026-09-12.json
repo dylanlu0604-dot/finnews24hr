@@ -1,7 +1,403 @@
 {
   "date": "2026-09-12",
-  "count": 292,
+  "count": 336,
   "items": [
+    {
+      "id": "5090436",
+      "time": "2026-09-12 06:35:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦眾議員宣佈提交修正案，裁定阿波羅全球管理公司（Apollo Global Management）的聯合創始人兼前執行長利昂·布萊克藐視國會。"
+    },
+    {
+      "id": "te:markets:583305",
+      "time": "2026-09-12 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 1.73% — Top commodity losers are Lithium Carbonate (-1.73%), Iron Ore CNY (-1.71%) and Silicon (-1.55%). Gains are led by Silver (1.47%) and Gold (0.76%)."
+    },
+    {
+      "id": "5090435",
+      "time": "2026-09-12 06:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI證實其正在測試的AI智慧體在今年5月對RubyGems發起了網路攻擊】OpenAI證實，其正在測試的AI智慧體（Agent）在今年5月對知名程式設計服務平臺RubyGems發起了網路攻擊。  據悉，這批AI智慧體在執行訓練任務時，為繞過受限的網路環境，將RubyGems作為臨時瀏覽器以獲取公開資訊。它們高頻建立賬號並上傳了數百個包含網頁抓取內容的垃圾檔案，甚至嘗試利用一個未知的“零日漏洞”進行攻擊。此次事件導致RubyGems被迫暫停新使用者註冊長達四天。安全研究人員透過數字線索將此次被稱為“GemStuffer”的攻擊與OpenAI關聯。儘管OpenAI表示此次攻擊整體危害較小，但該事件與7月發生的AI智慧體群攻陷Hugging Face事件如出一轍，進一步加劇了業界對高階AI工具可能脫離人類控制的擔憂，凸顯了當前AI安全與治理面臨的嚴峻挑戰。"
+    },
+    {
+      "id": "te:markets:583304",
+      "time": "2026-09-12 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Slumps by 7.02% — Top commodity losers are Methanol (-7.02%), Brent Oil (-2.98%), Natural Gas EU (-2.82%) and Crude Oil (-2.43%)."
+    },
+    {
+      "id": "5090434",
+      "time": "2026-09-12 06:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI一名發言人稱，智慧代理透過RubyGems平臺接入網際網路，以執行良性任務、檢索公開資訊。"
+    },
+    {
+      "id": "5090433",
+      "time": "2026-09-12 06:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 一個失控的AI代理（Rogue AI Agent）在今年5月對RubyGems發起了網路攻擊，現已認定系失控的 OpenAI 智慧體所為。"
+    },
+    {
+      "id": "5090432",
+      "time": "2026-09-12 06:25:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱阿波羅正在洽談收購強生骨科業務部門。"
+    },
+    {
+      "id": "5090431",
+      "time": "2026-09-12 06:25:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scholar Rock宣佈FDA批准ISEMBYLD™(APITEGROMAB-MSTN)，這是首個且唯一針對兒童和成人脊髓性肌萎縮症(SMA)的肌肉靶向療法。"
+    },
+    {
+      "id": "5090430",
+      "time": "2026-09-12 06:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普連續3天許諾5000美元分紅】美國總統特朗普當地時間9月11日在社交媒體平臺發帖，連續第3天承諾：如果共和黨在11月的中期選舉中保住國會控制權，將向每位美國成年人發放5000美元。特朗普在帖文中寫道：“由於我國正吸納數萬億美元的經濟發展、投資和純粹的成功，我們將向美國所有成年人發放5000美元‘特朗普紅利’。對此，‘笨蛋民主黨人’大加批評，他們巴不得這事兒黃了——但它一定會實現。投票給共和黨——讓美國再次偉大！” 特朗普是在當地時間9月9日晚達拉斯共和黨首次中期選舉大會上提出這一計劃的，但目前尚不清楚這筆款項的具體運作方式，其合法性也存疑。美國民主黨人更是指責特朗普這是在變相賄選。 據悉，美國大約有2.7億成年人，特朗普若兌現這一承諾，將耗資約1.35萬億美元。 （CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:583303",
+      "time": "2026-09-12 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.65% — Top currency gainers are South Korean Won (0.65%), Japanese Yen (0.52%), New Zealand Dollar (0.30%) and British Pound (0.08%). Biggest losers are Swiss Franc (-0.45%), Brazilian Real (-0.38%), Canadian Dollar (-0.28%) and Euro (-0.11%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5090429",
+      "time": "2026-09-12 06:14:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲骨文暗盤跌超3%，現報147.67美元。"
+    },
+    {
+      "id": "5090428",
+      "time": "2026-09-12 06:10:29",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【Anthropic上市料造就大批百萬富翁 華爾街大行爭搶財富管理生意】除了爭奪Anthropic PBC備受期待的首次公開募股，華爾街各大銀行還在競相爭取管理這家人工智慧公司的員工在其重磅上市後預計將獲得的財富。據知情人士透露，高盛集團、美國銀行、紐約梅隆銀行旗下財富管理部門、摩根大通和富國銀行一直在與Anthropic洽談，而且該公司正在尋求向員工提供一份可以幫助他們打理預計將獲得的鉅額財富的顧問名單。這些銀行和Anthropic的代表均拒絕置評。一些知情人士表示，Anthropic要求各家機構介紹其財富管理業務，並披露收費、服務及其他運營方面的詳細資訊。由於相關溝通並未公開，這些人士要求匿名。Anthropic最近幾周發出資訊徵詢，一些規模較小的精品機構和顧問公司也作出了回應。"
+    },
+    {
+      "id": "5090427",
+      "time": "2026-09-12 06:08:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【派拉蒙天舞將於10月下旬舉行訴訟和解談判】根據週五下午釋出的一份簡短法院命令，派拉蒙天空之舞公司（Paramount Skydance Corp.）與一組對其收購華納兄弟探索公司（WBD）1100億美元交易提出挑戰的州總檢察長，被命令在10月下旬確定會面日期，就州訴訟的可能和解方案進行談判。美國編劇工會西部（WGA West）也將參與談判，會議由美國舊金山地方法官托馬斯·希克森（Thomas Hixson）主持。加州總檢察長羅布·邦塔（Rob Bonta）的發言人表示，法院命令的和解會議僅意味著法官要求雙方會面，並不表明和解正在進行中。"
+    },
+    {
+      "id": "5090426",
+      "time": "2026-09-12 06:04:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Stellantis與Roshel簽署備忘錄，擬出售閒置工廠】Stellantis NV（歐洲車企斯泰蘭蒂斯集團）已與加拿大裝甲車製造商Roshel Inc.簽署諒解備忘錄（MoU），概述了出售多倫多附近一家閒置汽車工廠的相關步驟。Roshel正爭取一份加拿大軍方合同以建造輕型多用途車輛，並已向政府表示，若獲得該合同，可迅速重啟該設施。該備忘錄被描述為一個“非常複雜”流程的第一步，Roshel執行長稱公司已制定明確計劃，檔案概述了整個流程。"
+    },
+    {
+      "id": "5090425",
+      "time": "2026-09-12 06:01:46",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【桑坦德銀行：日本GPIF有減持美國國債的空間 規模或多達620億美元】桑坦德銀行分析師表示，日本政府養老投資基金(GPIF)無需正式調整資產配置政策，就可以出售多達620億美元的美國國債。上個月GPIF管理團隊召開了一次不同尋常的會議，市場猜測這家資產管理規模達2萬億美元的投資機構正在考慮減少外國債券配置、增加日本國內債券比重。負責監管該基金的日本厚生勞動大臣上野賢一郎週二表示，官員們仍在考慮是否有必要審查資產配置。不過，桑坦德的Antonio Villarroya等人認為，即使在正式審查之前，現行政策也已經給予基金經理足夠大的操作空間，可以顯著降低海外債券敞口，美國國債面臨的減持風險最大。Villarroya及其團隊在給客戶的報告中寫道：“鑑於戰略配置區間具有靈活性，GPIF未來幾個月就可以開始減少外國債券持倉，無需等待正式的戰略資產配置審查。”他們表示，如果日本央行透過連續加息成功扭轉日元頹勢，這種可能性將變得更大。"
+    },
+    {
+      "id": "5090424",
+      "time": "2026-09-12 06:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Citrini創始人出售公司並籌劃新基金 此前其報告曾震動市場】獨立投資研究機構Citrini Research創始人James van Geelen已將公司出售給半導體和人工智慧研究機構SemiAnalysis。Van Geelen與SemiAnalysis執行長Dylan Patel週五向彭博新聞社證實了這筆交易，並表示van Geelen目前將繼續擔任Citrini Research執行長。交易價格暫時未能確認。“我對獨立投資研究領域的未來充滿期待，”Van Geelen表示。另據知情人士透露，van Geelen計劃推出一隻新基金。"
+    },
+    {
+      "id": "5090423",
+      "time": "2026-09-12 06:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價突破4350美元/盎司，日內漲幅0.8%。"
+    },
+    {
+      "id": "5090422",
+      "time": "2026-09-12 06:00:13",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月11日隔夜要聞一覽】\n1、伊朗外交部發言人巴加埃當天宣佈，伊朗、伊拉克等波斯灣沿岸國家將於14日在阿曼舉行地區會議，就建立霍爾木茲海峽商業航運安全航線交換意見。\n2、特朗普：我軍目前正在採取行動，確保伊朗永遠無法擁有核武器。\n3、美國國家經濟委員會主任凱文·哈塞特在接受採訪時表示，柴油價格目前是美國“一大關切”。他說：“柴油麵臨一個非常嚴重的問題，因為它屬於成品油”\n4、沙烏地阿拉伯能源部11日發表宣告說，該國東西輸油管道的利雅得段及麥地那地區段10日上午多次遭襲，現已對該管道採取預防性關閉措施。襲擊造成一些人員受傷。\n5、據報道，訊息人士稱，美國白宮正在考慮如何利用《國防生產法》擴大美國煉油能力，以應對燃料價格飆升。\n6、美國8月政府預算 -1667.97億美元，預期 -2200億美元，前值 -3448億美元。\n7、花旗集團預計美聯儲將在9月加息，並在2027年中期之前降息。\n8、當地時間9月11日，美軍中央司令部稱，美軍持續執行針對伊朗的海上封鎖行動。截至9月11日，美軍已使99艘商船改變航向。\n9、“美聯儲傳聲筒”Nick Timiraos最新撰文稱，投資者已基本認定美聯儲下週將進行三年來首次加息，更難的問題是之後會怎樣。由於美聯儲內部幾乎沒人認為單次加息25個基點足以壓低通脹，若下週決定加息，則反映的是利率此前處於錯誤水平的判斷，一次加息無法解決問題。\n10、摩根大通在遭受損失後暫停Situation Awareness相關貸款業務。\n11、高盛、美國銀行爭相承銷Anthropic員工所持股份的IPO鉅額交易。"
+    },
+    {
+      "id": "mkt:01a09278-c5f4-7118-8552-727449fb322e",
+      "time": "2026-09-12 05:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAGHAEI, Iranian foreign ministry spokesperson, said the U.S. defense secretary's 9/11 anniversary narrative on terrorism is fundamentally contradictory; the U.S. cannot wage wars, carry out strikes and attack civilians while claiming to combat and define terrorism."
+    },
+    {
+      "id": "mkt:01a09276-e4df-7118-8552-69d8e7267e3b",
+      "time": "2026-09-12 05:54:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "IRGC-affiliated Sepahnews reported Saudi-backed mercenaries were defeated by Yemen's Houthi forces and forced to retreat and flee the Marib region."
+    },
+    {
+      "id": "mkt:01a09275-0a41-7118-8552-67c662feb813",
+      "time": "2026-09-12 05:52:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Drone strike from Iraq direction hits Saudi oil pipeline; Iraqi PM orders emergency probe】On the evening of Sept. 11, the spokesman for Iraq’s commander-in-chief of the armed forces, Sabah Nouman, condemned attacks directed at Saudi Arabia and said Iraq opposes actions that threaten Saudi security or bilateral ties. He said Prime Minister and commander-in-chief Zaidi has ordered an urgent investigation into the incident and the parties responsible and will hold those involved to account under law. The statement added Iraq will not tolerate activities endangering its security or relations with friendly states, asserted Iraqi territory and airspace will not be used as a springboard for attacks on any country, and said Baghdad will cooperate with regional partners to prevent a recurrence."
+    },
+    {
+      "id": "5090421",
+      "time": "2026-09-12 05:52:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Kalshi擬進軍美股與商品市場】Kalshi Inc.正在申請監管批准，計劃在美國推出首批個股永續期貨，擬上市掛鉤特斯拉、蘋果、英偉達等股票的合約。公司將請求商品期貨交易委員會（CFTC）和證券交易委員會（SEC）聯合監管這類永不到期的期貨，將其作為證券期貨產品，槓桿水平與其他受監管合約保持一致。Kalshi還計劃將商品合約擴充套件至農產品領域，並擬逐步增加ETF等產品，推出新產品前將重點與社群及相關利益方溝通。"
+    },
+    {
+      "id": "5090420",
+      "time": "2026-09-12 05:50:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理辦公室：調查證實，針對沙烏地阿拉伯的無人機襲擊來自伊拉克境內，一名伊拉克軍事指揮官因此被免職。"
+    },
+    {
+      "id": "mkt:01a09273-7d86-7118-8552-586d15a51dc7",
+      "time": "2026-09-12 05:50:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister's office said an investigation confirmed drone attacks targeting Saudi Arabia originated inside Iraq; one Iraqi military commander has been dismissed."
+    },
+    {
+      "id": "mkt:01a09270-9d89-7118-8552-518b4b3ad82f",
+      "time": "2026-09-12 05:47:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 05:24 on Sept 12 a ~6.2 magnitude, deep-focus earthquake occurred near the Java Sea off Indonesia (5.01°S, 106.88°E). Final parameters subject to official rapid bulletin."
+    },
+    {
+      "id": "5090419",
+      "time": "2026-09-12 05:43:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼爪哇海附近發生6.2級左右地震】中國地震臺網自動測定：9月12日05時24分在印尼爪哇海附近（南緯5.01度，東經106.88度）發生6.2級左右地震（深源），最終結果以正式速報為準。（央視新聞）"
+    },
+    {
+      "id": "5090418",
+      "time": "2026-09-12 05:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印度尼西亞特盧克納加東北偏北 115 公里處發生 6.6 級地震。"
+    },
+    {
+      "id": "5090417",
+      "time": "2026-09-12 05:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特輸油管道遭伊拉克方向無人機襲擊 伊總理下令緊急調查】當地時間9月11日晚，伊拉克武裝部隊總司令發言人薩巴赫·努曼發表宣告，譴責針對沙特發起的襲擊，並表示反對任何危及沙特安全與穩定或損害兩國兄弟關係的行為。宣告稱，伊拉克總理兼武裝部隊總司令扎伊迪已下令，就相關襲擊的具體情況及幕後責任方展開緊急調查，並依法追究涉事人員責任。他同時強調，伊拉克政府不會容忍任何危及伊拉克自身安全或其與友好國家關係的活動。宣告同時強調，伊拉克領土和領空不會被用作襲擊任何國家的跳板，並表示將同地區國家合作，防止類似事件再次發生。當地時間11日，沙特外交部發表宣告，強烈譴責來自伊拉克的多架無人機襲擊沙特利雅得和麥地那地區的東西輸油管道。襲擊造成人員受傷及部分設施受損，目前相關損失正在處理中。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09269-9f9d-7118-8552-48febfc8e085",
+      "time": "2026-09-12 05:39:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Brazil central bank to hold up to $1 bln spot dollar auction on Sept. 15."
+    },
+    {
+      "id": "5090416",
+      "time": "2026-09-12 05:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統選舉潛在決選民調資料：弗拉維奧·博索納羅支援率39%，盧拉為35%。"
+    },
+    {
+      "id": "5090415",
+      "time": "2026-09-12 05:38:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行宣佈將於9月15日進行美元現匯拍賣。"
+    },
+    {
+      "id": "5090414",
+      "time": "2026-09-12 05:36:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數跌1.3%，發展中國家外匯指數跌0.2%。"
+    },
+    {
+      "id": "mkt:01a09265-37f4-7118-8552-431cb596613a",
+      "time": "2026-09-12 05:35:01",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N): Executive chairman Larry Ellison adopted a new trading plan on June 22 that is set to terminate on Oct. 24; the plan is intended to allow him to sell up to 50 mln shares of Oracle common stock."
+    },
+    {
+      "id": "mkt:01a09264-8d58-7118-8552-3e97516b0c06",
+      "time": "2026-09-12 05:34:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi civil defense says threat to Khamis Mushait has been lifted."
+    },
+    {
+      "id": "5090413",
+      "time": "2026-09-12 05:32:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，海米斯穆謝特的危險已經解除。"
+    },
+    {
+      "id": "5090412",
+      "time": "2026-09-12 05:31:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：拉里·埃裡森的交易計劃允許其出售最多5000萬股甲骨文普通股。"
+    },
+    {
+      "id": "5090411",
+      "time": "2026-09-12 05:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心：印度尼西亞爪哇島發生 6.2 級地震。"
+    },
+    {
+      "id": "5090410",
+      "time": "2026-09-12 05:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國法院駁回特朗普政府強令密歇根州燃煤電廠繼續運營的命令】美國哥倫比亞特區聯邦巡迴上訴法院裁定，能源部無權依據聯邦法律動用緊急權力阻止密歇根州J.H. Campbell燃煤電廠關閉。法院支援密歇根州、明尼蘇達州、伊利諾伊州以及公共利益團體的主張，認定能源部曲解了法律中”緊急干預”的含義。判決書指出，當前並不存在足以凌駕於州政府電網管理權之上的短期危機，需求激增帶來的能源供應”風險升高”並不等同於緊急狀態。"
+    },
+    {
+      "id": "5090409",
+      "time": "2026-09-12 05:29:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司（Oracle）：在截至8月31日的三個月內，根據2026年重組計劃計提了1.67億美元的重組費用。"
+    },
+    {
+      "id": "mkt:01a0925d-5946-7118-8552-346aaebf9a02",
+      "time": "2026-09-12 05:26:26",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N): As of Aug. 31, 2026, total estimated restructuring costs tied to the company's 2026 restructuring plan could be as high as $2.1 bln."
+    },
+    {
+      "id": "5090408",
+      "time": "2026-09-12 05:25:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司（Oracle）：截至2026年8月31日，與2026年重組計劃相關的總預計重組成本最高可達21億美元。"
+    },
+    {
+      "id": "mkt:01a0925c-48f1-7118-8552-2a3ae9505be7",
+      "time": "2026-09-12 05:25:16",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) said it will add about $700 million to its 2026 restructuring plan after Aug. 31 to reflect additional actions it expects to take."
+    },
+    {
+      "id": "mkt:01a0925a-c8b3-7118-8552-2778c8f4e6bd",
+      "time": "2026-09-12 05:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert in Khamis Mushait warning of a potential danger."
+    },
+    {
+      "id": "mkt:01a0925a-2d8b-7118-8552-1e49ae64d48a",
+      "time": "2026-09-12 05:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he would not comment on the Saxony-Anhalt state election, calling it a purely German domestic matter."
+    },
     {
       "id": "5090407",
       "time": "2026-09-12 05:22:44",
