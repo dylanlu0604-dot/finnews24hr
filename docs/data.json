@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-11 09:47:49",
-  "count": 13630,
+  "updated": "2026-09-11 09:51:39",
+  "count": 13635,
   "items": [
+    {
+      "id": "te:markets:582961",
+      "time": "2026-09-11 09:50:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens as Dollar Rebounds — The Japanese yen weakened past 154 per dollar on Friday, retreating from near seven-month highs as the dollar recovered after data showed US producer inflation accelerated in August, bolstering bets for a Federal Reserve rate hike next week. The yen also faced pressure from surging oil prices that kept inflation risks elevated, with the US and Iran showing no signs of backing down from the war. Meanwhile, data showed Japanese producer inflation climbed 7.6% in August, reinforcing expectations for a Bank of Japan rate increase this month. Sentiment among large manufacturers also improved sharply in Q3, reaching its strongest level since Q4 2021 amid robust government support measures. Still, the yen remained up more than 3% so far this month, supported by expectations for more aggressive BOJ policy tightening, the unwinding of carry trades and increased capital repatriation."
+    },
+    {
+      "id": "5088597",
+      "time": "2026-09-11 09:50:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯在達拉斯舉行的共和黨中期會議上發表講話。"
+    },
+    {
+      "id": "5088596",
+      "time": "2026-09-11 09:50:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報134800.00元。"
+    },
+    {
+      "id": "5088595",
+      "time": "2026-09-11 09:50:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST中珠等成立資料科技公司，含積體電路業務】企查查APP顯示，近日，深圳潛力資料科技有限公司成立，經營範圍包含：積體電路設計；積體電路晶片設計及服務；積體電路製造；積體電路晶片及產品製造；積體電路銷售等。企查查股權穿透顯示，該公司由ST中珠全資子公司深圳潛力芯算科技有限公司等共同持股。"
+    },
+    {
+      "id": "5088594",
+      "time": "2026-09-11 09:50:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "電力股區域性異動，閩東電力3連板，杭州熱電衝擊漲停，湖南發展、芯能科技、廣西能源、華銀電力漲幅居前。"
+    },
+    {
+      "id": "5088593",
+      "time": "2026-09-11 09:49:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中糧福臨門更換輔導券商，重新辦理輔導備案登記】近日，據證監會網站披露，中糧福臨門股份有限公司（以下簡稱“中糧福臨門”）重新辦理輔導備案登記，輔導機構已由原來的中金公司變更為了中信建投證券。公開資料顯示，中糧福臨門成立於2020年11月，是一家穀物調和油類產品提供商，主要從事食品生產、食品加工及品牌銷售業務和全球農糧供應鏈業務，提供糧食、油脂油料、糖類、棉花、食品等產品。股東方面，截至2026年9月10日，中糧集團（香港）有限公司直接持有中糧福臨門36.58%的股份，並透過 Wide Smart Holdings Limited 間接持有公司27.50%的股份，合計持股比例為64.08%，為公司的控股股東。"
+    },
+    {
+      "id": "5088592",
+      "time": "2026-09-11 09:49:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在上海成立智卡科技公司】企查查APP顯示，近日，上海小馬智卡科技有限公司成立，經營範圍含軟體外包服務、軟體開發、計算機及通訊裝置租賃等。企查查股權穿透顯示，該公司由小馬智行關聯公司北京小馬慧行科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a08e27-4704-7118-8539-5f5df2c2747d",
+      "time": "2026-09-11 09:48:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector tumbled again at the open. Yuexin Health fell more than 8% and Wo Ai Wo Jia dropped over 6.5%; Shilianhang, Huafa, Hefei Urban Construction, Binjiang Group and New Huangpu also declined."
+    },
+    {
+      "id": "5088591",
+      "time": "2026-09-11 09:48:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量525億元。"
+    },
+    {
+      "id": "5088590",
+      "time": "2026-09-11 09:48:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，中科星圖跌5.85％，中控技術跌3.45％，佰維儲存跌3.33％，天合光能跌3.25％。"
+    },
+    {
+      "id": "mkt:01a08e26-261a-7118-8539-54e345c5f0cb",
+      "time": "2026-09-11 09:47:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India short-dated bonds hit by rare shorting surge as markets bet on RBI liquidity withdrawal】Traders have stepped up bearish bets on short-dated Indian debt, wagering the Reserve Bank of India will withdraw excess cash and lift yields. Data from the Clearing Corporation of India show overnight borrowings of the five-year benchmark topped 100 billion rupees (~$1bn) per day this month, roughly double early-August levels, as shorts borrow and sell the bond to repurchase later. The five-year has repeatedly been the most shorted issue this month — an uncommon pattern — and the debt-market self-regulatory body says it is the shortest-tenor security on the monthly list of borrowable liquid securities. Rajiv Pawar, head of funds at Ujjivan Small Finance Bank, said markets are positioning for large-scale RBI cash withdrawal and that any sustained drain could sharply lift short-term yields."
+    },
+    {
+      "id": "5088589",
+      "time": "2026-09-11 09:47:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：研究制定汽車改裝管理辦法】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，健全准入及使用管理體系。推動機動車生產准入、道路交通安全、道路運輸、測繪、保險等法律法規制修訂。完善組合駕駛輔助和自動駕駛系統准入管理要求，健全軟硬體升級備案管理辦法，加強網聯終端進網許可管理。健全新技術、新材料、新工藝應用評估和管理制度，以及檢測目擊驗證制度。探索對關鍵系統和零部件、小批次生產的道路機動車輛實施特別的產品准入程式。研究制定汽車改裝管理辦法。進一步加強產品安全、道路交通安全管理，強化安全生產管理，提高跨部門協同管理與資源共享水平。"
+    },
+    {
+      "id": "5088588",
+      "time": "2026-09-11 09:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份等在上海新設諮詢管理公司】企查查APP顯示，近日，上海孚曦晨沐諮詢管理有限公司成立，經營範圍含企業管理諮詢、資訊科技諮詢服務、社會經濟諮詢服務等。企查查股權穿透顯示，該公司由沐曦股份全資子公司沐曦數智（上海）科技有限公司等共同持股。"
+    },
+    {
+      "id": "5088587",
+      "time": "2026-09-11 09:47:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌2%至45,998.23點。"
+    },
     {
       "id": "5088586",
       "time": "2026-09-11 09:47:00",
@@ -124707,82 +124833,6 @@
         "Brent"
       ],
       "text": "Interfax, citing authorities, said a Ukrainian drone attack triggered a fire at an oil depot in the Russian Black Sea port city of Sochi."
-    },
-    {
-      "id": "5076591",
-      "time": "2026-09-04 09:51:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "木原稔：日本將支援中小企業工資增長的環境。"
-    },
-    {
-      "id": "mkt:01a06a1d-1c15-7118-8494-10fcf5f572c7",
-      "time": "2026-09-04 09:51:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council work-safety office convenes video meeting to coordinate inspection and cleanup of fake new-energy refueling stations】On Sept. 3 the State Council Work Safety Committee Office held a video meeting to advance inspection and rectification of so-called fake new-energy refueling stations. Local authorities were directed to follow Hubei’s model to leave no gaps and carry out deep, thorough verification of suspected sites. The office ordered strengthened whole-chain joint enforcement, clear assignment of enforcement responsibilities by violation type, unified enforcement standards, tightened discretionary rules and enhanced inter-agency case consultation, maintaining a high-pressure, punish-all approach with penalties proportional to offenses. It also mandated strict implementation of cross-department regulation of refined oil products, regularized sweeps of illegal refueling points (including fake new-energy sites), expanded sources and methods for tip-offs and inspections, and improved clue transfer, information-sharing and joint-handling mechanisms to bolster coordinated supervision, verification and enforcement and prevent rebound."
-    },
-    {
-      "id": "5076590",
-      "time": "2026-09-04 09:51:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數上漲1%至5,805.37點。"
-    },
-    {
-      "id": "mkt:01a06a1c-b9ba-7118-8494-0ab5fb174aed",
-      "time": "2026-09-04 09:51:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share film and cinema sector traded higher after intraday volatility; Shanghai Film jumped over 8%, with Jiecheng Co., Huanrui Century, Huace Film & TV, Hengdian Film & TV and Zhongguang Tianze also advancing."
-    },
-    {
-      "id": "5076589",
-      "time": "2026-09-04 09:50:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生科技指數上漲3%至4,603.54點。"
-    },
-    {
-      "id": "mkt:01a06a1b-86f9-7118-8494-0657128fcef3",
-      "time": "2026-09-04 09:49:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Thai baht quoted at 32.89 per US dollar, the highest level since late August."
-    },
-    {
-      "id": "5076588",
-      "time": "2026-09-04 09:49:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "泰銖兌美元走強至32.89，創8月底以來最高水平。"
-    },
-    {
-      "id": "5076587",
-      "time": "2026-09-04 09:49:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【其他酒類板塊走高，古越龍山、金楓酒業觸及漲停】其他酒類板塊走高，古越龍山、金楓酒業觸及漲停，會稽山此前漲停，百潤股份、威龍股份跟漲。"
-    },
-    {
-      "id": "5076586",
-      "time": "2026-09-04 09:48:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量574億元。"
     }
   ]
 }
