@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-12 02:13:31",
-  "count": 13531,
+  "updated": "2026-09-12 02:17:23",
+  "count": 13522,
   "items": [
+    {
+      "id": "te:markets:583285",
+      "time": "2026-09-12 02:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Soars by 7.98% — Top commodity gainer is Methanol (7.98%). Biggest losers are Brent Oil (-2.95%), Natural Gas UK (-2.66%) and Crude Oil (-2.63%)."
+    },
+    {
+      "id": "5090223",
+      "time": "2026-09-12 02:13:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國2026財年前11個月預算赤字累計達到1.96萬億美元】美國聯邦政府本財年前11個月預算赤字達到1.96萬億美元，為有記錄以來最高水平之一。財政部週五公佈的資料顯示，截至8月的11個月，赤字較2025年同期的1.97萬億美元小幅下降。單看8月，財赤缺口為1,668億美元。財年最後一個月（即9月）通常會因為企業繳稅期限而錄得盈餘。赤字擴大的部分原因是債務利息支出上升，而美債收益率上漲又是利息成本走高的原因之一。財政部資料顯示，截至8月底，可交易美國國債的平均利率升至3.48%，比五年前高出逾2個百分點。隨著低收益率債券陸續到期，財政部不得不以更高成本再融資，這一平均利率預計還會繼續上升。"
+    },
+    {
+      "id": "mkt:01a091ac-6197-7118-8550-17fbd78a9b85",
+      "time": "2026-09-12 02:13:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Department rules India's solar subsidies unlawful."
+    },
     {
       "id": "mkt:01a091aa-eef3-7118-8550-0d4f6bf8d82b",
       "time": "2026-09-12 02:11:33",
@@ -124049,111 +124078,6 @@
         "國際"
       ],
       "text": "特朗普：我們將實施力度極強的安全檢查。"
-    },
-    {
-      "id": "5078243",
-      "time": "2026-09-05 02:17:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：坦白講，我不確定大型加工企業還能否繼續存續。"
-    },
-    {
-      "id": "5078242",
-      "time": "2026-09-05 02:17:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：簡化牛肉行業的健康與安全監管規定。"
-    },
-    {
-      "id": "5078241",
-      "time": "2026-09-05 02:16:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大、中、小型牧場主均可直接向消費者銷售產品。"
-    },
-    {
-      "id": "mkt:01a06da2-e8ed-7118-84ab-f61ef532b9bd",
-      "time": "2026-09-05 02:16:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will grant farm owners and farmers the right to process food on their own farms."
-    },
-    {
-      "id": "5078240",
-      "time": "2026-09-05 02:16:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將賦予農民自主加工食品的權利。"
-    },
-    {
-      "id": "mkt:01a06da2-8590-7118-84ab-e891ea9b6f74",
-      "time": "2026-09-05 02:16:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "【Nscale seeks up to $3.5 bln in pre-IPO funding】London-based AI cloud provider Nscale is seeking up to $3.5 bln in pre-IPO financing, earmarking up to $1.5 bln of convertible bonds to external investors and seeking roughly $2.0 bln in financing support from NVIDIA. Third Point is expected to lead the convertible bond investment while Goldman Sachs is advising on fundraising. The company plans an IPO after the round; earlier reports said the IPO could raise about $3.0 bln. Nscale told investors its total contract value is about $10.3 bln, including a $45.0 bln compute‑supply agreement with ANTHROPIC, and presented illustrative future annual revenue of roughly $18.1 bln and adjusted EBITDA of about $13.6 bln, stressing these are example estimates not formal guidance. It is building a large Microsoft data‑centre campus in Norway, developing a major project in West Virginia, and has purchased about 194,000 NVIDIA Vera Rubin GPUs."
-    },
-    {
-      "id": "5078239",
-      "time": "2026-09-05 02:15:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大型加工商在肉類行業形成壟斷。"
-    },
-    {
-      "id": "te:markets:581394",
-      "time": "2026-09-05 02:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Gains by 2.05% — Top commodity gainers are Natural gas (2.05%), Gasoline (1.95%), Natural Gas UK (1.04%) and Brent Oil (0.32%). Biggest losers are Heating Oil (-1.48%), Germany Natural Gas THE (-1.25%) and Crude Oil (-0.29%)."
-    },
-    {
-      "id": "mkt:01a06da1-90f0-7118-84ab-e62d0e8ec6d7",
-      "time": "2026-09-05 02:14:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he will take action to help cattle ranchers."
-    },
-    {
-      "id": "5078238",
-      "time": "2026-09-05 02:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將採取行動救助牧場主。"
-    },
-    {
-      "id": "mkt:01a06da1-65d7-7118-84ab-dca622411ba7",
-      "time": "2026-09-05 02:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Reports: Iran fires multiple 'Qasem Basir' missiles toward Strait of Hormuz at vessels under US Navy protection】Unconfirmed market reports say Iran launched multiple 'Qasem Basir' medium-range ballistic missiles from Isfahan toward the Strait of Hormuz, reportedly targeting vessels operating under US Navy protection. The report has not been independently verified; the claim of first combat use should be treated cautiously. Qasem Basir is a solid-fuel ballistic missile Iran says is fitted with terminal guidance to improve accuracy against moving targets."
-    },
-    {
-      "id": "5078237",
-      "time": "2026-09-05 02:13:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府：巴西8月出口大豆981萬噸，高於去年同期的933萬噸。"
     }
   ]
 }

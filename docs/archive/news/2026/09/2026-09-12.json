@@ -1,7 +1,36 @@
 {
   "date": "2026-09-12",
-  "count": 99,
+  "count": 102,
   "items": [
+    {
+      "id": "te:markets:583285",
+      "time": "2026-09-12 02:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Soars by 7.98% — Top commodity gainer is Methanol (7.98%). Biggest losers are Brent Oil (-2.95%), Natural Gas UK (-2.66%) and Crude Oil (-2.63%)."
+    },
+    {
+      "id": "5090223",
+      "time": "2026-09-12 02:13:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國2026財年前11個月預算赤字累計達到1.96萬億美元】美國聯邦政府本財年前11個月預算赤字達到1.96萬億美元，為有記錄以來最高水平之一。財政部週五公佈的資料顯示，截至8月的11個月，赤字較2025年同期的1.97萬億美元小幅下降。單看8月，財赤缺口為1,668億美元。財年最後一個月（即9月）通常會因為企業繳稅期限而錄得盈餘。赤字擴大的部分原因是債務利息支出上升，而美債收益率上漲又是利息成本走高的原因之一。財政部資料顯示，截至8月底，可交易美國國債的平均利率升至3.48%，比五年前高出逾2個百分點。隨著低收益率債券陸續到期，財政部不得不以更高成本再融資，這一平均利率預計還會繼續上升。"
+    },
+    {
+      "id": "mkt:01a091ac-6197-7118-8550-17fbd78a9b85",
+      "time": "2026-09-12 02:13:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Department rules India's solar subsidies unlawful."
+    },
     {
       "id": "mkt:01a091aa-eef3-7118-8550-0d4f6bf8d82b",
       "time": "2026-09-12 02:11:33",
