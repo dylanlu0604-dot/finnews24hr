@@ -1,7 +1,71 @@
 {
   "date": "2026-09-11",
-  "count": 2449,
+  "count": 2456,
   "items": [
+    {
+      "id": "mkt:01a090f3-c5e2-7118-854e-8cfbe37a0296",
+      "time": "2026-09-11 22:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK government weighing cuts to planned youth minimum-wage increases】Prime Minister Burnham's government is considering scaling back planned increases to the youth minimum wage, sources say. This year the UK minimum wage rose 4.1% to £12.71 ($17.19); the young-adult rate rose 8.5% to £10.85 and the 16–17 rate rose 6% to £8.00. No.10 and the Treasury are re-examining the plans amid concern higher youth rates could discourage employers from hiring. Tackling almost 1 million 16–24-year-olds who are not in work, training or education is a government priority; officials are assessing whether youth wage rises harm recruitment. Officials are also studying the Dutch multi-age-band model, under which pay is €14.99 ($17.39)/hr for 21+ workers, €7.50 for 18-year-olds and €4.50 for 15-year-olds."
+    },
+    {
+      "id": "5090136",
+      "time": "2026-09-11 22:50:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國南水北調集團將統籌加快引漢濟渭工程運營】記者11日從中國南水北調集團獲悉，中國南水北調集團已成為引漢濟渭公司的控股股東，將統籌加快引漢濟渭工程投資建設運營。(新華社)"
+    },
+    {
+      "id": "5090135",
+      "time": "2026-09-11 22:50:40",
+      "tags": [
+        "行業"
+      ],
+      "text": "【60家外賣店僅20家明廚亮灶達標】今年6月1日起，《網路餐飲服務經營者落實食品安全主體責任監督管理規定》正式施行，倡導推行“網際網路+明廚亮灶”。新規實施三個多月，實際執行情況如何？ 記者選取北京、天津、濟南三城，隨機對多個外賣平臺上60家標有“明廚亮灶”標識的店鋪逐一調查。統計資料顯示：60家樣本店鋪中，17家“明廚亮灶”功能完全失效，無法顯示後廚直播畫面；其餘43家中，僅20家直播畫面符合要求，另有23家店鋪的直播畫面不達標，存在畫面避開後廚核心作業區等問題。17家店鋪的畫面載入不出，其中數十家店鋪長期顯示“該商戶直播內容稽核中”，全程無後廚實時畫面更新。 此外，記者實地探訪濟南一家無堂食外賣店：店門外雜物堆積，員工光膀子徒手處理烤雞，消毒櫃裡放置快遞盒，垃圾箱未加蓋且緊鄰敞開存放的食材，微波爐內壁附著厚厚油汙。濟南市高新區管委會市場監管部執法人員針對這家快餐店存在的違反《餐飲服務食品安全操作規範》的行為，下達了《責令改正通知書》，責令當事人於2026年9月15日前改正。（央視財經）"
+    },
+    {
+      "id": "mkt:01a090f2-0eda-7118-854e-85b39e56680a",
+      "time": "2026-09-11 22:49:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【U.S. regulators propose guidance on banks' third-party risk management】The Federal Reserve, OCC, FDIC and NCUA on Friday proposed guidance to help banks and credit unions \"better align and tailor their third-party risk management practices to the risk of individual third‑party relationships.\" Fed staff said the proposal responds to rising outsourcing as banks rely more on third parties to boost efficiency and cut costs. The guidance is non-binding, principle-based and open for public comment. Fed Governor BARR dissented, citing concerns about the clarity of the standard for \"material financial risk.\""
+    },
+    {
+      "id": "te:economy:583243",
+      "time": "2026-09-11 22:49:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Falls on Rate-Cut Bets — Brazil’s 10-Year government bond yield fell to around 14.24%, nearing a three-month low of 14.13% touched on September 8th, following lower-than-expected inflation data. Brazil’s annual inflation rate eased to 4.22% in August 2026 from 4.44% in July, slightly below forecasts of 4.27% and moving further within the central bank’s target range of 1.50%-4.50%. The data strengthened expectations that the BCB will cut the Selic by another 25 basis points at next week’s Copom meeting. Meanwhile, recent polls have shown Flávio Bolsonaro gaining ground in the presidential race. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. The move gained further momentum as the intensification of a dispute between Supreme Court justices Alexandre de Moraes, seen as a Lula ally, and André Mendonça has escalated into an institutional crisis."
+    },
+    {
+      "id": "5090134",
+      "time": "2026-09-11 22:49:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲防務巨頭萊茵金屬公司(RHEINMETALL AG) <RHMG.DE> 股價走低，現下跌3.8%。"
+    },
+    {
+      "id": "5090133",
+      "time": "2026-09-11 22:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在五角大樓紀念9·11並辯護伊朗戰爭，稱將確保伊朗永遠無法擁核】美國總統特朗普在五角大樓出席9·11事件25週年紀念儀式時發表演講，將為伊朗戰爭辯護，並將當前衝突與美國的反恐鬥爭相聯絡，強調美國將確保伊朗永遠無法擁有核武器。國防部長赫格塞斯在講話中聲稱美國正控制著霍爾木茲海峽，並表示將結束這場鬥爭。"
+    },
     {
       "id": "5090132",
       "time": "2026-09-11 22:43:41",
