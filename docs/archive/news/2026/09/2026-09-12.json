@@ -1,7 +1,49 @@
 {
   "date": "2026-09-12",
-  "count": 251,
+  "count": 255,
   "items": [
+    {
+      "id": "5090378",
+      "time": "2026-09-12 04:38:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：墨西哥電網擴建計劃的主要風險在於私營部門的執行能力和股權融資能力。"
+    },
+    {
+      "id": "mkt:01a09231-4942-7118-8551-c5c55c7f6f42",
+      "time": "2026-09-12 04:38:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Qatar's foreign ministry welcomed Saudi Arabia's responsible actions and backed the Iraqi government's efforts to prevent Iraqi territory from being used to attack Saudi Arabia and neighboring states."
+    },
+    {
+      "id": "mkt:01a09230-e887-7118-8551-b87b8878337c",
+      "time": "2026-09-12 04:37:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Qatar's foreign ministry strongly condemned multiple drones launched from Iraq targeting an east-west oil pipeline in Saudi Arabia's Riyadh and Medina regions, saying the attacks caused injuries and material damage."
+    },
+    {
+      "id": "te:markets:583295",
+      "time": "2026-09-12 04:36:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Oil Rally Pauses — The S&P/TSX Composite Index rose 0.5% to close at 35,697 on Friday as oil prices pulled back on prospects for diplomatic efforts to ease tensions around the Strait of Hormuz. Gulf foreign ministers are expected to meet their Iranian counterpart in Oman on Monday as part of efforts to secure support for a temporary arrangement to manage shipping through the strait. The pause in the oil rally allowed equities to enjoy some respite. Credit-sensitive stocks posted gains, with TD Bank and BMO up 0.8% each, while Scotiabank added 0.9%. Gold prices rebounded, supporting heavyweight mining stocks, with Agnico Eagle rising 2.2%, while WPM and Franco-Nevada gained 2.4% each. Tech stocks advanced, tracking strength in US hyperscalers and chipmakers, with Shopify up 1.9%, Constellation Software adding 2.5%, and Celestica jumping 6.6%. Descartes Systems surged 6.9% after reporting second-quarter revenue slightly above estimates. Still, the S&P/TSX Composite Index lost 1.7% on a weekly basis."
+    },
     {
       "id": "5090376",
       "time": "2026-09-12 04:36:03",
