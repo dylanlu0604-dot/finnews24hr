@@ -1,7 +1,51 @@
 {
   "date": "2026-09-12",
-  "count": 264,
+  "count": 269,
   "items": [
+    {
+      "id": "5090394",
+      "time": "2026-09-12 04:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "CITRINI創始人VAN GEELEN將公司出售給SEMIANALYSIS。"
+    },
+    {
+      "id": "5090393",
+      "time": "2026-09-12 04:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：甲骨文將額外投入7億美元用於重組計劃。"
+    },
+    {
+      "id": "5090392",
+      "time": "2026-09-12 04:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官叫停特朗普政府針對聯邦職位求職者的一項提問。"
+    },
+    {
+      "id": "5090391",
+      "time": "2026-09-12 04:56:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 孤松資本聯席首席投資官將離職，加入 Atreides。"
+    },
+    {
+      "id": "te:markets:583296",
+      "time": "2026-09-12 04:55:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Political Risks Persist — The Ibovespa fell 0.6% to close at 187,207 on Friday as the Supreme Court crisis continued to fuel political uncertainty, weighing on the country’s economic outlook. Chief Justice Edson Fachin ordered Justice André Mendonça to remove, within 24 hours, the secrecy surrounding proceedings related to investigations into Banco Master. This includes possible irregularities involving the financing of the film “Dark Horse,” which could affect Flávio Bolsonaro’s electoral prospects. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. State-controlled financial stocks traded lower, with Banco do Brasil down 1.4%, BB Seguridade shedding 4.1%, and Caixa losing 2.4%. Utilities also posted losses, with Axia down 1.6%. CSN plunged 7.4% as investors booked profits, with the stock still up 4.2% on the week following a CEO change. The Ibovespa rose 1.1% on a weekly basis."
+    },
     {
       "id": "mkt:01a09240-7833-7118-8551-d2b944610ab4",
       "time": "2026-09-12 04:54:53",

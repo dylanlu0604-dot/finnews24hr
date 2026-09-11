@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-12 04:56:13",
+  "updated": "2026-09-12 05:00:06",
   "count": 13483,
   "items": [
+    {
+      "id": "5090394",
+      "time": "2026-09-12 04:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "CITRINI創始人VAN GEELEN將公司出售給SEMIANALYSIS。"
+    },
+    {
+      "id": "5090393",
+      "time": "2026-09-12 04:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：甲骨文將額外投入7億美元用於重組計劃。"
+    },
+    {
+      "id": "5090392",
+      "time": "2026-09-12 04:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官叫停特朗普政府針對聯邦職位求職者的一項提問。"
+    },
+    {
+      "id": "5090391",
+      "time": "2026-09-12 04:56:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 孤松資本聯席首席投資官將離職，加入 Atreides。"
+    },
+    {
+      "id": "te:markets:583296",
+      "time": "2026-09-12 04:55:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Political Risks Persist — The Ibovespa fell 0.6% to close at 187,207 on Friday as the Supreme Court crisis continued to fuel political uncertainty, weighing on the country’s economic outlook. Chief Justice Edson Fachin ordered Justice André Mendonça to remove, within 24 hours, the secrecy surrounding proceedings related to investigations into Banco Master. This includes possible irregularities involving the financing of the film “Dark Horse,” which could affect Flávio Bolsonaro’s electoral prospects. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. State-controlled financial stocks traded lower, with Banco do Brasil down 1.4%, BB Seguridade shedding 4.1%, and Caixa losing 2.4%. Utilities also posted losses, with Axia down 1.6%. CSN plunged 7.4% as investors booked profits, with the stock still up 4.2% on the week following a CEO change. The Ibovespa rose 1.1% on a weekly basis."
+    },
     {
       "id": "mkt:01a09240-7833-7118-8551-d2b944610ab4",
       "time": "2026-09-12 04:54:53",
@@ -123720,48 +123764,6 @@
         "國際"
       ],
       "text": "【國際金價在非農就業報告出爐時跳水將近80美元，打破本週稍早出現的V形反轉】週五（9月4日）紐約尾盤，現貨黃金跌0.98%，報4429.07美元/盎司，美國非農就業報告出爐時從4470美元上方跳水、北京時間21:01重新整理日低至4365.73美元，本週累計下跌0.57%，非農就業報告發布前呈現出V形反轉。現貨白銀跌1.22%，報66.1650美元/盎司，本週累跌0.27%。COMEX銅期貨漲0.05%，報6.6675美元/磅，本週累漲0.14%。在美股時段交易的費城金銀指數收跌1.66%，報408.92點，本週累跌1.03%。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌1.4%，報2861.78點，本週累跌0.94%。在美股時段交易的原材料指數收跌0.52%，報252.37點，本週累跌1.16%。在美股時段交易的金屬與礦業指數收漲0.25%，報287.39點，本週累漲0.37%。State Street金屬與礦業ETF收漲0.20%，報118.62美元，本週累跌0.10%。"
-    },
-    {
-      "id": "mkt:01a06e38-6fd8-7118-84ae-5a45f12640e3",
-      "time": "2026-09-05 04:59:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Argentina market expectations survey: 2026 year-end GDP growth forecast 2.1%, down 0.6 percentage point from prior forecast; 2026 year-end inflation expectation 30.0%, up 0.21 percentage point from prior forecast."
-    },
-    {
-      "id": "5078363",
-      "time": "2026-09-05 04:59:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國經審查後批准 Viva Aerobus 與沃拉里斯航空合併。"
-    },
-    {
-      "id": "5078362",
-      "time": "2026-09-05 04:59:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行市場預期調查顯示，預計該國 2026 年末通脹率為 30%，較此前預測上調 0.21 個百分點。"
-    },
-    {
-      "id": "5078361",
-      "time": "2026-09-05 04:58:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱對黎巴嫩南部實施空襲】當地時間4日晚，以色列國防軍發表宣告稱，作為對黎巴嫩真主黨違反停火協議的回應，以軍對黎巴嫩南部實施了空襲。以軍表示，當天早些時候，真主黨武裝人員向正在黎南部“安全區”內執行任務的以軍部隊發射了一架無人機。以軍開火擊落了該架無人機，沒有以軍人員在此次事件中受傷。（央視新聞）"
-    },
-    {
-      "id": "5078360",
-      "time": "2026-09-05 04:57:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行市場預期調查顯示，預計該國 2026 年末 GDP 增速為 2.1%，較此前預測下調 0.6 個百分點。"
     }
   ]
 }
