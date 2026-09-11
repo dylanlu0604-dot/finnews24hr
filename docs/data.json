@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-12 05:11:50",
-  "count": 13473,
+  "updated": "2026-09-12 05:15:40",
+  "count": 13475,
   "items": [
+    {
+      "id": "5090398",
+      "time": "2026-09-12 05:14:14",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "據知情人士透露，高盛、花旗和美國銀行目前仍擔任Situational Awareness公司的活躍經紀商。"
+    },
+    {
+      "id": "mkt:01a09252-1b47-7118-8552-05448207fb9c",
+      "time": "2026-09-12 05:14:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi says oil pipeline hit by drone strikes from Iraq; injuries and facility damage】On the 11th, the Saudi foreign ministry said multiple drones launched from Iraq struck the east–west oil pipeline in Riyadh and Medina regions, injuring personnel and damaging facilities; losses are being assessed. Riyadh said it had previously given Baghdad time to act at the request of the Iraqi prime minister and had restrained its own response while supporting Iraqi government efforts. Saudi Arabia retains the right to take all necessary measures to protect its sovereignty, security, facilities and residents."
+    },
+    {
+      "id": "5090397",
+      "time": "2026-09-12 05:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特稱該國輸油管道遭襲致人員受傷和設施受損】當地時間11日，沙特外交部發表宣告，強烈譴責來自伊拉克的多架無人機襲擊沙特利雅得和麥地那地區的東西輸油管道。襲擊造成人員受傷及部分設施受損，目前相關損失正在處理中。沙特方面表示，應伊拉克總理提出的請求，沙特此前給予伊拉克政府採取充分措施的機會，以阻止從伊拉克境內針對沙特及鄰國發動的襲擊。沙特在這一階段保持了剋制，並支援伊拉克政府所作出的努力。沙特強調，保留採取一切必要措施的權利，以維護國家主權、安全和設施，保護本國公民以及境內居民。（央視新聞）"
+    },
     {
       "id": "mkt:01a0924e-d8aa-7118-8551-fd5faff961a1",
       "time": "2026-09-12 05:10:35",
@@ -123661,14 +123693,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.29%，報14696點。"
-    },
-    {
-      "id": "5078372",
-      "time": "2026-09-05 05:14:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（9月4日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7080元——逼近2022年7月8日最終報價6.6862元、當年4月27日最終報價6.5868元，較週四紐約尾盤漲95點，日內整體交投於6.7186-6.7052元區間，逼近2023年2月2日盤中最低位6.6975元、2022年6月3日底部6.6170元。本週，離岸人民幣累漲0.34%。"
     }
   ]
 }
