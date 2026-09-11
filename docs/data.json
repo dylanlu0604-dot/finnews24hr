@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-11 18:51:57",
-  "count": 13703,
+  "updated": "2026-09-11 18:55:50",
+  "count": 13698,
   "items": [
+    {
+      "id": "5089701",
+      "time": "2026-09-11 18:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【趣睡科技：回購股份比例達1% 累計支付2255.91萬元】趣睡科技公告稱，公司2026年8月27日審議透過回購股份方案，擬使用1500萬元-3000萬元自有或自籌資金，以集中競價方式回購股份用於股權激勵或員工持股計劃，回購價格不超過60元/股，回購期限為董事會審議透過之日起12個月內。截至2026年9月10日，公司累計回購股份52.09萬股，佔總股本比例為1.00%，最高成交價45.12元/股，最低成交價40.77元/股，累計支付總金額2255.91萬元（不含交易費用）。後續公司將在回購期限內繼續推進回購。"
+    },
+    {
+      "id": "mkt:01a0901a-e105-7118-8548-02566b7f5d77",
+      "time": "2026-09-11 18:54:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【ANTHROPIC finds Yemeni group used Claude AI to develop missile systems】ANTHROPIC said in a Thursday AI misuse-detection report that an unidentified northern Yemeni group used its Claude model to support development of three weapons projects: a guided rocket, a ballistic missile the group claims can exceed 2,000 km range, and an R2000 missile series. The group used Claude to develop guidance, navigation and control software—partially replacing software engineers—and compartmentalized work across multiple AI sessions while concealing the projects’ military nature to evade detection. The disclosure arrives as Iran-backed Houthi forces continue missile and drone attacks on Red Sea shipping and push into coastal areas near the Bab al-Mandeb, intensifying regional fighting and adding upside pressure to energy markets."
+    },
+    {
+      "id": "5089699",
+      "time": "2026-09-11 18:54:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本外相：目前不考慮召回日本駐俄羅斯大使】據日本共同社9月11日報道，日本外務大臣茂木敏充當天向記者表示，日方目前不考慮召回日本駐俄羅斯大使。 據報道，俄羅斯總統普京8月13日登上南千島群島（日本稱北方四島），日本政府揚言將採取反制措施。2010年，時任俄羅斯總統梅德韋傑夫曾登上南千島群島，當時的日本政府召回了日本駐俄羅斯大使。因在南千島群島的歸屬問題上存在爭議，俄日在二戰結束至今未締結和平條約。 （環球網）"
+    },
+    {
+      "id": "5089698",
+      "time": "2026-09-11 18:52:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鄭中設計：控股股東減持計劃實施完畢 累計減持2.92%股份】鄭中設計公告稱，公司控股股東深圳市亞泰一兆投資有限公司減持計劃已實施完畢。亞泰一兆原計劃減持不超899.76萬股（佔公司剔除回購賬戶後總股本比例不超3%），實際透過集中競價、大宗交易合計減持899.56萬股，佔公司總股本的2.92%，佔剔除回購賬戶後總股本的3.00%。本次減持後，亞泰一兆及其一致行動人合計持有公司股份1.57億股，佔公司總股本的50.89%，佔剔除回購賬戶後總股本的52.26%。本次減持不會導致公司控制權發生變化。"
+    },
+    {
+      "id": "te:markets:583163",
+      "time": "2026-09-11 18:51:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Kroger earnings above expectations at 1.09 USD — Kroger (KR) released earnings per share at 1.09 USD, compared to market expectations of 1.06 USD."
+    },
+    {
+      "id": "5089697",
+      "time": "2026-09-11 18:51:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“太空算力關鍵技術與場景驗證實驗室”正式成立】9月11日，2026中國算力大會“太空算力創新發展”專題論壇上，中國資訊通訊研究院與北京太空智算研究院在論壇上正式成立“太空算力關鍵技術與場景驗證實驗室”，這是業界首個聚焦太空算力關鍵技術及多場景一體化驗證的實驗室。實驗室主要圍繞四方面內容開展建設，包括開展抗輻射星載AI晶片、星間高速通訊、分散式資源協同排程等前沿共性關鍵技術聯合攻關；搭建“一中心、兩模組、四臺位、一底座”地面驗證試驗場，開展太空算力中試與工程化試驗驗證；面向空間態勢感知、天基輔助智慧駕駛、氣象預報預警等方向，推進多域典型場景落地驗證；研製相關標準規範，輸出測試工具集與公共技術成果，統籌開展標準評測體系建設。"
+    },
     {
       "id": "5089696",
       "time": "2026-09-11 18:51:19",
@@ -125444,106 +125501,6 @@
         "公司"
       ],
       "text": "【巴比食品：推進門店模型迭代是順應行業趨勢做出的戰略選擇】9月4日，在半年度業績會上，巴比食品獨立董事萬華林向投資者介紹，公司推進門店模型迭代與供應鏈體系重構，是順應早餐行業趨勢做出的前瞻性戰略選擇。傳統外帶早餐模式存在消費場景單一、同質化競爭加劇等問題，粗放式的門店數量增長已不可持續。公司向“早午餐小吃店”轉型，意在拓展消費時段、豐富產品矩陣、提升單店產值，契合餐飲消費升級方向。他表示，獨立董事將持續關注轉型過程中的經營及財務風險。雖然短期傳統門店單店存在壓力，但上半年公司經營性現金流同比增長37.42%，扣非淨利潤同比增長4.5%，盈利質量與現金創造能力持續改善，財務層面可以支撐本次戰略轉型。"
-    },
-    {
-      "id": "mkt:01a06c0f-278b-7118-84a0-fb8907afe126",
-      "time": "2026-09-04 18:55:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【IDC projects iPhone foldable ASP at $2,550】Industry sources say chip shortages and supply-chain bottlenecks may push Apple’s foldable iPhone significantly above expectations; IDC projects an average selling price of $2,550. IDC forecasts Apple will sell more than 17 million foldable iPhones by end-2027, generating over $45.7 billion in revenue."
-    },
-    {
-      "id": "5077604",
-      "time": "2026-09-04 18:54:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：據烏克蘭總參謀部通報，烏克蘭方面的攻擊已導致俄羅斯兩座大型煉油設施停止運轉。"
-    },
-    {
-      "id": "mkt:01a06c0e-68aa-7118-84a0-f46e96577437",
-      "time": "2026-09-04 18:54:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's General Staff said its attacks have forced two large Russian refineries to halt operations."
-    },
-    {
-      "id": "5077603",
-      "time": "2026-09-04 18:54:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報90.38美元/桶。"
-    },
-    {
-      "id": "5077602",
-      "time": "2026-09-04 18:54:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【IDC預計iPhone摺疊屏均價或達2550美元】業內認為受晶片短缺、供應鏈瓶頸影響，蘋果摺疊屏手機價格或大幅高於預期，IDC預測該手機平均售價2550美元。IDC預計2027年底蘋果將售出超1700萬部摺疊屏手機，收入超457億美元。"
-    },
-    {
-      "id": "5077601",
-      "time": "2026-09-04 18:54:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【招商基金：旗下部分公募基金獲配燧原科技新股】招商基金管理有限公司公告稱，公司旗下部分公募基金參與上海燧原科技股份有限公司首次公開發行A股申購，本次發行主承銷商中信證券、國泰海通證券、廣發證券為公司部分公募基金託管人或託管人的關聯方，發行價格為142.18元/股。涉及關聯關係的公募基金獲配情況如下：招商企業優選混合獲配1040股，金額14.79萬元；招商上證科創板50成份增強策略ETF獲配280股，金額3.98萬元；招商中證消費電子主題ETF獲配440股，金額6.26萬元；招商中證1000增強策略ETF獲配4400股，金額62.56萬元；招商中證全指醫療器械ETF獲配1200股，金額17.06萬元；招商中證雲端計算與大資料主題ETF獲配1080股，金額15.36萬元；招商滬深300ETF獲配720股，金額10.24萬元；招商中證500等權重指數增強獲配1520股，金額21.61萬元。"
-    },
-    {
-      "id": "mkt:01a06c0d-a1b0-7118-84a0-ecc573ebcb4f",
-      "time": "2026-09-04 18:53:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Securities and Exchange Board (SEBI) and the European Securities and Markets Authority (ESMA) signed a memorandum of understanding on central counterparty (CCP) cooperation and information exchange, replacing the MoU signed on 21 June 2017."
-    },
-    {
-      "id": "mkt:01a06c0c-c709-7118-84a0-e7b52d6f4e6a",
-      "time": "2026-09-04 18:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's labor minister said Volkswagen employees have the right to expect there will be no compulsory layoffs."
-    },
-    {
-      "id": "mkt:01a06c0c-90ac-7118-84a0-db7e59195958",
-      "time": "2026-09-04 18:52:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Securities and Exchange Board of India (SEBI) signed an agreement with the European Securities and Markets Authority (ESMA)."
-    },
-    {
-      "id": "5077600",
-      "time": "2026-09-04 18:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會：新備忘錄取代了SEBI與ESMA（歐洲證券和市場管理局）於2017年6月21日簽署的舊備忘錄。"
-    },
-    {
-      "id": "5077599",
-      "time": "2026-09-04 18:52:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍建股份：涉及建設工程施工合同糾紛一審判決】龍建股份公告稱，公司收到烏魯木齊市達坂城區人民法院就陳五星訴公司建設工程施工合同糾紛一案的一審判決，法院判令公司向陳五星支付工程款2374.60萬元、2019年11月16日至2023年11月15日期間工程款利息359.01萬元，以及後續對應利息、保全申請費3658.93元，並負擔部分案件受理費、鑑定費等。本次訴訟尚處於上訴期內，判決尚未生效執行，暫無法判斷對公司本期或期後利潤的影響。"
     }
   ]
 }
