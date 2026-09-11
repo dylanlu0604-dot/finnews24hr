@@ -1,7 +1,65 @@
 {
   "date": "2026-09-12",
-  "count": 221,
+  "count": 227,
   "items": [
+    {
+      "id": "5090338",
+      "time": "2026-09-12 04:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的19.559萬億美元增至19.5666萬億美元。"
+    },
+    {
+      "id": "5090337",
+      "time": "2026-09-12 04:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康：SERENA-4臨床試驗未達到主要終點。"
+    },
+    {
+      "id": "5090336",
+      "time": "2026-09-12 04:16:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic擬向員工提供一份財富顧問名單。"
+    },
+    {
+      "id": "5090334",
+      "time": "2026-09-12 04:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將西班牙信用評級由A上調至A+。"
+    },
+    {
+      "id": "5090332",
+      "time": "2026-09-12 04:15:24",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛、美國銀行爭相承銷Anthropic員工所持股份的IPO鉅額交易。"
+    },
+    {
+      "id": "mkt:01a0921a-a9ff-7118-8551-87de1f9bbefe",
+      "time": "2026-09-12 04:13:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【TIMIRAOS: Fed likely to hike next week but a single 25bp move won’t solve the problem】Investors have largely priced in the Fed’s first rate increase in three years next week, Timiraos writes, but the key question is what comes after. He notes few Fed officials think a single 25bp hike will be sufficient to curb inflation; a move would more likely signal policy was previously too low. Since the 1990s the Fed has only once delivered a true one-off hike. A Fed official said in July he does not expect the central bank to be effective at “fine‑tuning” and sees little evidence yet that borrowing conditions are constraining activity. If that becomes the rationale for tightening, markets will press on how high rates must go; without clear guidance a lone hike could be interpreted as the start of a larger tightening cycle. Investors no longer view September as a likely one-off; market pricing now implies at least three cumulative hikes by June next year, up from two previously expected."
+    },
     {
       "id": "5090329",
       "time": "2026-09-12 04:13:07",
