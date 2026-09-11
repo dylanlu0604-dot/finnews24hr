@@ -1,7 +1,131 @@
 {
   "date": "2026-09-11",
-  "count": 1270,
+  "count": 1282,
   "items": [
+    {
+      "id": "mkt:01a08efe-961f-7118-853e-245ca5251ab0",
+      "time": "2026-09-11 13:44:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Treasury yields hit multi-year highs in Asian session】U.S. Treasury yields rose in the Asian session, extending Thursday’s gains, with all tenors at multi-year highs. Tradeweb data showed the 2-year yield at 4.596% (highest since July 2024), the 10-year at 4.979% (highest since October 2023) and the 30-year at 5.384% (highest since 2007). Danske Bank said the 10-year is now only a few bps from the 5.00% level “due to U.S. Treasury buyback operations falling short of expectations.”"
+    },
+    {
+      "id": "5088896",
+      "time": "2026-09-11 13:43:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報105.45美元/桶。"
+    },
+    {
+      "id": "5088895",
+      "time": "2026-09-11 13:43:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支付寶：“曉葉”AI開放平臺正式上線】9月11日，據支付寶開放平臺訊息，“曉葉”AI開放平臺正式上線，首批開放AI投遞、AI跟進、AI面試、AI核驗、AI用工及AI培訓六大能力以及38項數字化原子能力。"
+    },
+    {
+      "id": "mkt:01a08efd-8ab3-7118-853e-1fd1e7c7cd80",
+      "time": "2026-09-11 13:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fengli Intelligent says three reducer types fit humanoid-robot applications】At an Sep 10 earnings briefing, Fengli Intelligent said its reducer lineup — harmonic reducers, planetary reducers and micro reducers for dexterous-hand joints — can be used in humanoid-robot applications. The company said the products have completed series development, are capable of volume deliveries, have engaged with multiple robot customers, and it is expanding reducer production capacity using proceeds from a private placement investment project."
+    },
+    {
+      "id": "mkt:01a08efd-88c6-7118-853e-107c8716de3c",
+      "time": "2026-09-11 13:42:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Houthis say fighting on Red Sea west coast has stopped】On the 11th the Houthi Supreme Political Council said fighting in Red Sea west-coast provinces has ceased, claiming Saudi forces previously mobilized to threaten Yemeni areas have been expelled. The statement urged parties to pressure Saudi Arabia to stop reinforcing sensitive west-coast locations and avoid escalation to safeguard local navigation. Saudi authorities have not responded."
+    },
+    {
+      "id": "5088894",
+      "time": "2026-09-11 13:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶合整合註冊資本增至22億元】企查查APP顯示，近日，晶合整合發生工商變更，註冊資本由20.08億元增至22.35億元。企查查資訊顯示，該公司成立於2015年，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；積體電路晶片設計及服務等。"
+    },
+    {
+      "id": "5088893",
+      "time": "2026-09-11 13:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐立智慧：三類減速器產品可適配人形機器人應用場景】在9月10日下午舉辦的業績說明會上，豐立智慧表示，公司的減速器產品包括諧波減速器、行星減速器、靈巧手關節的小微減速器，以上三類產品都可適配人形機器人應用場景，相關產品已完成系列化研發，具備批次交付能力，已經與多家機器人客戶進行合作，同時依託定增募投專案擴充減速器產能。"
+    },
+    {
+      "id": "mkt:01a08efc-787e-7118-853e-0aec8baa041a",
+      "time": "2026-09-11 13:41:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【UBS abandons near-term bullish stance on short-dated U.S. Treasuries】UBS strategist Phoebe White said the bank was stopped out of 2-year Treasury longs earlier this week and has abandoned its near-term bullish bias on the front end. UBS raised its year-end 10-year UST yield target to 4.80% from 4.35% and its 2-year target to 4.50% from 3.95%, broadly aligned with forward rates. TRADEWEB DATA showed the 2-year yield rose 2bps to 4.568%, earlier touching 4.596%, its highest since July 2024."
+    },
+    {
+      "id": "5088892",
+      "time": "2026-09-11 13:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報5737.00元。"
+    },
+    {
+      "id": "mkt:01a08efb-b549-7118-853e-055a9916c95b",
+      "time": "2026-09-11 13:40:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "ISRG.O",
+        "Impact bullish",
+        "MDT.O",
+        "SYK.O"
+      ],
+      "text": "【China NHSA convenes surgical-robotics expert meeting】Sept. 11 — China’s National Healthcare Security Administration organized a morning expert meeting on surgical robots with representatives from seven domestic and foreign manufacturers, including MicroPort, Medtronic, Intuitive‑Fosun, Stryker, Huake Precision, Shenzhen Jingfeng and Beijing Tianzhihang, and delegations from Guangdong Provincial People’s Hospital, Peking University People’s Hospital, Beijing Tiantan Hospital, Jishuitan Hospital and Beijing Tongren Hospital. Participants broadly agreed that surgical-robot functions should be expanded beyond high-concentration areas (urology, orthopedics, general surgery) into targeted applications such as neurosurgery and interventional specialties; that development should be closely integrated with fast‑advancing brain‑computer interface technology, intelligent robots and AI; and that adoption should draw on other robotics best practices, broaden clinical use cases and proceed toward partial or full autonomy with cautious, evidence‑based steps."
+    },
+    {
+      "id": "5088891",
+      "time": "2026-09-11 13:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱紅海西海岸交火已停止】11日，葉門胡塞武裝最高政治委員會發表宣告說，紅海西海岸各省份的交火已經停止，並聲稱“此前沙特方面調集、用於威脅葉門有關地區的武裝力量已被驅逐”。宣告呼籲各方向沙特方面施壓，停止向紅海西海岸等敏感地區增派武裝力量及武裝人員，避免相關地區局勢升級，以維護當地航行安全。"
+    },
+    {
+      "id": "mkt:01a08efb-816c-7118-853d-fef833d60659",
+      "time": "2026-09-11 13:40:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude extended losses, intraday decline widened to 3% to $102.99/bbl. WTI fell nearly 3% to $97.68/bbl."
+    },
     {
       "id": "5088890",
       "time": "2026-09-11 13:40:21",

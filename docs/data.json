@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-11 13:40:56",
-  "count": 13631,
+  "updated": "2026-09-11 13:44:51",
+  "count": 13637,
   "items": [
+    {
+      "id": "mkt:01a08efe-961f-7118-853e-245ca5251ab0",
+      "time": "2026-09-11 13:44:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Treasury yields hit multi-year highs in Asian session】U.S. Treasury yields rose in the Asian session, extending Thursday’s gains, with all tenors at multi-year highs. Tradeweb data showed the 2-year yield at 4.596% (highest since July 2024), the 10-year at 4.979% (highest since October 2023) and the 30-year at 5.384% (highest since 2007). Danske Bank said the 10-year is now only a few bps from the 5.00% level “due to U.S. Treasury buyback operations falling short of expectations.”"
+    },
+    {
+      "id": "5088896",
+      "time": "2026-09-11 13:43:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報105.45美元/桶。"
+    },
+    {
+      "id": "5088895",
+      "time": "2026-09-11 13:43:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支付寶：“曉葉”AI開放平臺正式上線】9月11日，據支付寶開放平臺訊息，“曉葉”AI開放平臺正式上線，首批開放AI投遞、AI跟進、AI面試、AI核驗、AI用工及AI培訓六大能力以及38項數字化原子能力。"
+    },
+    {
+      "id": "mkt:01a08efd-8ab3-7118-853e-1fd1e7c7cd80",
+      "time": "2026-09-11 13:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fengli Intelligent says three reducer types fit humanoid-robot applications】At an Sep 10 earnings briefing, Fengli Intelligent said its reducer lineup — harmonic reducers, planetary reducers and micro reducers for dexterous-hand joints — can be used in humanoid-robot applications. The company said the products have completed series development, are capable of volume deliveries, have engaged with multiple robot customers, and it is expanding reducer production capacity using proceeds from a private placement investment project."
+    },
+    {
+      "id": "mkt:01a08efd-88c6-7118-853e-107c8716de3c",
+      "time": "2026-09-11 13:42:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Houthis say fighting on Red Sea west coast has stopped】On the 11th the Houthi Supreme Political Council said fighting in Red Sea west-coast provinces has ceased, claiming Saudi forces previously mobilized to threaten Yemeni areas have been expelled. The statement urged parties to pressure Saudi Arabia to stop reinforcing sensitive west-coast locations and avoid escalation to safeguard local navigation. Saudi authorities have not responded."
+    },
+    {
+      "id": "5088894",
+      "time": "2026-09-11 13:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶合整合註冊資本增至22億元】企查查APP顯示，近日，晶合整合發生工商變更，註冊資本由20.08億元增至22.35億元。企查查資訊顯示，該公司成立於2015年，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；積體電路晶片設計及服務等。"
+    },
+    {
+      "id": "5088893",
+      "time": "2026-09-11 13:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐立智慧：三類減速器產品可適配人形機器人應用場景】在9月10日下午舉辦的業績說明會上，豐立智慧表示，公司的減速器產品包括諧波減速器、行星減速器、靈巧手關節的小微減速器，以上三類產品都可適配人形機器人應用場景，相關產品已完成系列化研發，具備批次交付能力，已經與多家機器人客戶進行合作，同時依託定增募投專案擴充減速器產能。"
+    },
+    {
+      "id": "mkt:01a08efc-787e-7118-853e-0aec8baa041a",
+      "time": "2026-09-11 13:41:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【UBS abandons near-term bullish stance on short-dated U.S. Treasuries】UBS strategist Phoebe White said the bank was stopped out of 2-year Treasury longs earlier this week and has abandoned its near-term bullish bias on the front end. UBS raised its year-end 10-year UST yield target to 4.80% from 4.35% and its 2-year target to 4.50% from 3.95%, broadly aligned with forward rates. TRADEWEB DATA showed the 2-year yield rose 2bps to 4.568%, earlier touching 4.596%, its highest since July 2024."
+    },
+    {
+      "id": "5088892",
+      "time": "2026-09-11 13:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報5737.00元。"
+    },
+    {
+      "id": "mkt:01a08efb-b549-7118-853e-055a9916c95b",
+      "time": "2026-09-11 13:40:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "ISRG.O",
+        "Impact bullish",
+        "MDT.O",
+        "SYK.O"
+      ],
+      "text": "【China NHSA convenes surgical-robotics expert meeting】Sept. 11 — China’s National Healthcare Security Administration organized a morning expert meeting on surgical robots with representatives from seven domestic and foreign manufacturers, including MicroPort, Medtronic, Intuitive‑Fosun, Stryker, Huake Precision, Shenzhen Jingfeng and Beijing Tianzhihang, and delegations from Guangdong Provincial People’s Hospital, Peking University People’s Hospital, Beijing Tiantan Hospital, Jishuitan Hospital and Beijing Tongren Hospital. Participants broadly agreed that surgical-robot functions should be expanded beyond high-concentration areas (urology, orthopedics, general surgery) into targeted applications such as neurosurgery and interventional specialties; that development should be closely integrated with fast‑advancing brain‑computer interface technology, intelligent robots and AI; and that adoption should draw on other robotics best practices, broaden clinical use cases and proceed toward partial or full autonomy with cautious, evidence‑based steps."
+    },
+    {
+      "id": "5088891",
+      "time": "2026-09-11 13:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱紅海西海岸交火已停止】11日，葉門胡塞武裝最高政治委員會發表宣告說，紅海西海岸各省份的交火已經停止，並聲稱“此前沙特方面調集、用於威脅葉門有關地區的武裝力量已被驅逐”。宣告呼籲各方向沙特方面施壓，停止向紅海西海岸等敏感地區增派武裝力量及武裝人員，避免相關地區局勢升級，以維護當地航行安全。"
+    },
+    {
+      "id": "mkt:01a08efb-816c-7118-853d-fef833d60659",
+      "time": "2026-09-11 13:40:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude extended losses, intraday decline widened to 3% to $102.99/bbl. WTI fell nearly 3% to $97.68/bbl."
+    },
     {
       "id": "5088890",
       "time": "2026-09-11 13:40:21",
@@ -124753,62 +124877,6 @@
         "公司"
       ],
       "text": "【國內首款2.5T量產柴油混動專用發動機10月將實現批產】在安徽全柴動力股份有限公司（以下簡稱“全柴動力”）公司的半消音實驗室內，一臺發動機正靜待測試。“我們正在除錯產線，10月將實現批次化生產。”全柴動力副總經理、技術研究院院長餘磊透露。餘磊提到的這款產品，是該公司和奇瑞合作研發的國內首款2.5T量產柴油混動專用發動機，已於2025年9月成功點火。其將搭載奇瑞威麟皮卡，首發市場面向澳大利亞和紐西蘭，後續將推向全球市場。（科技日報）"
-    },
-    {
-      "id": "te:economy:581141",
-      "time": "2026-09-04 13:44:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Estonia Industrial Output Growth Hits 6-Month High — Industrial production in Estonia increased by 2.3% year-on-year in July 2026, recovering from a 4.6% decline in the previous month and marking its highest level since January. Output rebounded in manufacturing (1.1% vs -5.3% in June), supported by gains in the manufacture of food (1.5%), beverages (5.0%), wearing apparel (11.4%), leather and related products (41.7%), wood and wood products (10.8%), basic pharmaceutical products and pharmaceutical preparations (162.3%), other non-metallic mineral products (8.9%), computer, electronic and optical products (3.0%), machinery and equipment n.e.c. (30.3%), and furniture (3.2%). Electricity, gas, steam, and air-conditioning supply also recovered (16.0% vs -12.6%). Meanwhile, mining and quarrying growth slowed (13.5% vs 26.7%). On a monthly basis, industrial activity grew by 0.9% in July, rebounding from a 2.3% decline in the previous month."
-    },
-    {
-      "id": "5076882",
-      "time": "2026-09-04 13:44:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬輝能源投資成立智慧科技新公司】企查查APP顯示，近日，惠州市鵬儲智慧科技有限公司成立，經營範圍包含新興能源技術研發；太陽能發電技術服務；機動車充電銷售；儲能技術服務等。企查查股權穿透顯示，該公司由鵬輝能源旗下廣州鵬輝智慧能源技術有限公司全資持股。"
-    },
-    {
-      "id": "5076881",
-      "time": "2026-09-04 13:42:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北部灣港集團與安通控股達成合作共識】9月3日，北部灣港集團赴福建省泉州市拜訪安通控股。雙方圍繞服務西部陸海新通道、北部灣國際門戶港和向海經濟等國家和區域戰略，就深化港航貿協同、拓展集裝箱航線網路佈局、推進貨源市場共同開發等事宜開展座談交流並達成合作共識。平陸運河通航在即，雙方表示將搶抓機遇在加密航線與運力投入、加強外貿內支線合作、聯合開展腹地貨源營銷等方面深化務實合作。"
-    },
-    {
-      "id": "te:markets:581139",
-      "time": "2026-09-04 13:41:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.9% Higher, Posts Weekly Gain — New Zealand stocks rose 128 points, or 0.9%, to 13,974 on Friday, halting losses in the previous session, amid signals that the RBNZ will hold interest rates at its October meeting after raising them in July and September. New Zealand’s central bank is more likely to wait until December before raising interest rates again, according to Assistant Governor Karen Silk. The broader index tracked an upbeat session on Wall Street on Thursday amid easing Treasury yields. However, traders anticipated US jobless rate data due later today, China’s consumer and producer data, as well as trade figures for August due next week. Consumer discretionary, tech, financials, real estate, and healthcare mainly drove the index, with top movers including Hallenstein Glasson (6.3%), Gentrack Group (3.8%), Mainfreight (3.9%), Channel Infrastructure (2.3%), Fisher & Paykel (1.2%), Freightways Group (0.9%), and Westpac Banking Corp. (0.8%). For the week, the index rose 1.5%, after falling in the previous week."
-    },
-    {
-      "id": "5076880",
-      "time": "2026-09-04 13:41:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【梅洛尼破二戰後義大利連續執政時間紀錄】9月4日是義大利總理梅洛尼連續執政第1413天，她由此成為第二次世界大戰結束以來義大利連續執政時間最長的總理。二戰後義大利連續執政時間最長的紀錄此前由已故前總理貝盧斯科尼保持，為1412天。雖然貝盧斯科尼連續執政時長被梅洛尼超越，他依然是二戰後義大利任職時間最長的總理。據統計，1994年至2011年，貝盧斯科尼四次執政，累計時長約9年。梅洛尼2022年10月就職。義大利黨派林立，政府更迭頻繁。據統計，二戰結束後，義大利經歷了近70次政府更迭。但過去幾年，對比數度重新組閣的法國、數次更換首相的英國，義大利政局相對穩定。不過，近期民意調查結果顯示，2027年議會選舉後，義大利可能將出現更趨分裂且不穩定的政治格局。（央視新聞）"
-    },
-    {
-      "id": "5076879",
-      "time": "2026-09-04 13:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建莆田因強降雨已造成多人失聯】從福建省多部門瞭解到，受連日強降雨影響，福建莆田市部分割槽域出現內澇，房屋被淹，已造成多人失聯。在受災嚴重的城廂區華亭鎮，已有至少1人失聯，不少群眾被困。當地正在持續進行人員轉移安置工作。（央視新聞）"
     }
   ]
 }
