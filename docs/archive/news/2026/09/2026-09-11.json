@@ -1,7 +1,62 @@
 {
   "date": "2026-09-11",
-  "count": 2412,
+  "count": 2418,
   "items": [
+    {
+      "id": "5090112",
+      "time": "2026-09-11 22:14:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "道明證券將美聯儲的預期從維持現狀改為9月降息。"
+    },
+    {
+      "id": "5090111",
+      "time": "2026-09-11 22:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：Situational Awareness開始重新買入期權，標的包括SK海力士等】CNBC的David Faber在直播節目中援引未具名訊息人士稱，Situational Awareness在期權市場較為活躍。Faber表示，Leopold Aschenbrenner“在上週晚些時候和本週初重新開始買入期權，支付了數億美元的期權費”涉及的標的包括他此前投資組合中常見的公司，例如SK海力士、閃迪、Advanced Micro、Bloom Energy和CoreWeave。Faber還表示，目前尚不清楚Aschenbrenner是否為公開市場投資募集了新的資金。"
+    },
+    {
+      "id": "5090110",
+      "time": "2026-09-11 22:13:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國保險行業協會消費者權益保護專業委員會召開三季度交流座談會】9月11日，中國保險行業協會消費者權益保護專業委員會召開三季度交流座談會。本次會議緊扣年度金融教育宣傳週“清朗金融網路、守護安心消費”核心主題，聚焦打擊“代理退保”黑灰產、深化警保協同共治、築牢金融消費安全防線開展專題交流研討。消保專委會主任委員代表、泰康保險集團管委會成員董燕釋出行業倡議。（保險行業協會）"
+    },
+    {
+      "id": "mkt:01a090d0-9309-7118-854e-3c6f0f8ee863",
+      "time": "2026-09-11 22:13:03",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) extends gains to 10%."
+    },
+    {
+      "id": "te:economy:583237",
+      "time": "2026-09-11 22:12:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations at 3-Month High — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, climbed to 4.6% in September 2026 from 4% in August, marking the highest reading since June, according to a preliminary estimate."
+    },
+    {
+      "id": "5090109",
+      "time": "2026-09-11 22:12:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾股價飆升10.5%，惠普股價上漲11.4%，HP攀升9%。"
+    },
     {
       "id": "5090108",
       "time": "2026-09-11 22:09:21",

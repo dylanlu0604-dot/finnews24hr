@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-11 22:12:23",
-  "count": 13670,
+  "updated": "2026-09-11 22:16:19",
+  "count": 13667,
   "items": [
+    {
+      "id": "5090112",
+      "time": "2026-09-11 22:14:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "道明證券將美聯儲的預期從維持現狀改為9月降息。"
+    },
+    {
+      "id": "5090111",
+      "time": "2026-09-11 22:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：Situational Awareness開始重新買入期權，標的包括SK海力士等】CNBC的David Faber在直播節目中援引未具名訊息人士稱，Situational Awareness在期權市場較為活躍。Faber表示，Leopold Aschenbrenner“在上週晚些時候和本週初重新開始買入期權，支付了數億美元的期權費”涉及的標的包括他此前投資組合中常見的公司，例如SK海力士、閃迪、Advanced Micro、Bloom Energy和CoreWeave。Faber還表示，目前尚不清楚Aschenbrenner是否為公開市場投資募集了新的資金。"
+    },
+    {
+      "id": "5090110",
+      "time": "2026-09-11 22:13:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國保險行業協會消費者權益保護專業委員會召開三季度交流座談會】9月11日，中國保險行業協會消費者權益保護專業委員會召開三季度交流座談會。本次會議緊扣年度金融教育宣傳週“清朗金融網路、守護安心消費”核心主題，聚焦打擊“代理退保”黑灰產、深化警保協同共治、築牢金融消費安全防線開展專題交流研討。消保專委會主任委員代表、泰康保險集團管委會成員董燕釋出行業倡議。（保險行業協會）"
+    },
+    {
+      "id": "mkt:01a090d0-9309-7118-854e-3c6f0f8ee863",
+      "time": "2026-09-11 22:13:03",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) extends gains to 10%."
+    },
+    {
+      "id": "te:economy:583237",
+      "time": "2026-09-11 22:12:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations at 3-Month High — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, climbed to 4.6% in September 2026 from 4% in August, marking the highest reading since June, according to a preliminary estimate."
+    },
+    {
+      "id": "5090109",
+      "time": "2026-09-11 22:12:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾股價飆升10.5%，惠普股價上漲11.4%，HP攀升9%。"
+    },
     {
       "id": "5090108",
       "time": "2026-09-11 22:09:21",
@@ -125334,94 +125389,6 @@
         "MKT News"
       ],
       "text": "【Economist: Slower wage growth may curb Canadian inflation】RSM economist Tu Nguyen said Canada's average hourly earnings slowed to 2% YoY in August from above 3% in prior years, a \"sudden drop\" she says reflects greater corporate caution and a rebalancing labor market. Headline inflation is around 3%, driven by gasoline; Nguyen said the wage slowdown should help restrain inflation by stabilizing firms' costs and reducing pressure to pass higher costs onto consumers."
-    },
-    {
-      "id": "5077980",
-      "time": "2026-09-04 22:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國和比利時檢察官就資產扣押發表宣告：法國和比利時當局在針對麥肯錫（McKinsey）稅務調查中，扣押了價值6500萬歐元的資產。"
-    },
-    {
-      "id": "5077979",
-      "time": "2026-09-04 22:15:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國發現金色環球機構屬於伊朗交易網路的組成部分。"
-    },
-    {
-      "id": "mkt:01a06cc5-060f-7118-84a8-26a164453bdc",
-      "time": "2026-09-04 22:14:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc measured a magnitude-3.0 earthquake at 22:03 local time on Sept 4 in Changning County, Yibin, Sichuan (28.36°N, 104.94°E); hypocenter depth 5 km."
-    },
-    {
-      "id": "5077978",
-      "time": "2026-09-04 22:13:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：特朗普表達了他對經濟指標報告的持續不滿，這些報告只要顯示出任何過熱跡象，就會導致股市回落。"
-    },
-    {
-      "id": "mkt:01a06cc4-8e63-7118-84a8-18927f20f86f",
-      "time": "2026-09-04 22:13:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "TIMIRAOS: Trump said he remains displeased that any economic data suggesting overheating triggers equity pullbacks and again urged the Fed to cut rates, telling the Federal Reserve Board and its \"excellent new leadership\" to \"become wise — this time be a bit patriotic.\""
-    },
-    {
-      "id": "mkt:01a06cc4-7160-7118-84a8-11e0820d4e7d",
-      "time": "2026-09-04 22:13:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【BMO says Canadian jobs data facing reality check】BMO chief economist Douglas Porter says Canada’s employment prints are due a reality check after a run of outsized readings. August employment fell 41,700, ending a string of strong gains, while the unemployment rate held at 6.4%. Porter described the August report as clearly soft but not surprising, in part reflecting a continuing decline in the labour force. He said slower job growth and easing wage growth will reinforce the Bank of Canada’s case to keep rates unchanged and help curb overly hawkish market expectations for further hikes."
-    },
-    {
-      "id": "5077977",
-      "time": "2026-09-04 22:13:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：09月04日22時03分在四川宜賓市長寧縣（北緯28.36度，東經104.94度）發生3.0級地震，震源深度5千米。"
-    },
-    {
-      "id": "te:markets:581355",
-      "time": "2026-09-04 22:12:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Philip Morris International Stock Price Hits 7-week Low — Philip Morris International shares decreased to 183.91 USD, the lowest since July 2026. Over the past 4 weeks, Philip Morris International lost 2.48%, and in the last 12 months, it increased 14.05%."
-    },
-    {
-      "id": "5077976",
-      "time": "2026-09-04 22:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【應勇率中國檢察代表團訪問歐盟檢察署】應歐盟檢察署首席檢察官勞拉·科維希邀請，當地時間9月2日至4日，國家首席大檢察官、最高人民檢察院檢察長應勇率中國檢察代表團訪問歐盟檢察署，與歐盟檢察署首席檢察官勞拉·科維希、歐盟檢察署候任首席檢察官安德烈斯·裡特進行了工作會晤。訪問期間，應勇還分別會見了歐盟法院院長科恩·萊納茨、盧森堡國民議會議長克勞德·維斯勒等。（最高人民檢察院）"
     }
   ]
 }
