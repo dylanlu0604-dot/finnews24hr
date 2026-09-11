@@ -1,7 +1,42 @@
 {
   "date": "2026-09-12",
-  "count": 273,
+  "count": 276,
   "items": [
+    {
+      "id": "mkt:01a0924e-d8aa-7118-8551-fd5faff961a1",
+      "time": "2026-09-12 05:10:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Fitch continues to expect Italy's 2026 budget deficit to narrow slightly to 2.9% of GDP."
+    },
+    {
+      "id": "mkt:01a0924e-c530-7118-8551-f5df206ab576",
+      "time": "2026-09-12 05:10:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fitch expects Italy's economic growth to average 0.8% annually in 2026-28."
+    },
+    {
+      "id": "5090396",
+      "time": "2026-09-12 05:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "Bancorp Santander SA的分析師們認為：日本GPIF可能會將所持美債出售620億美元。"
+    },
     {
       "id": "mkt:01a09249-886b-7118-8551-ec38c0a5aa81",
       "time": "2026-09-12 05:04:47",

@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-12 05:07:58",
+  "updated": "2026-09-12 05:11:50",
   "count": 13473,
   "items": [
+    {
+      "id": "mkt:01a0924e-d8aa-7118-8551-fd5faff961a1",
+      "time": "2026-09-12 05:10:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Fitch continues to expect Italy's 2026 budget deficit to narrow slightly to 2.9% of GDP."
+    },
+    {
+      "id": "mkt:01a0924e-c530-7118-8551-f5df206ab576",
+      "time": "2026-09-12 05:10:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fitch expects Italy's economic growth to average 0.8% annually in 2026-28."
+    },
+    {
+      "id": "5090396",
+      "time": "2026-09-12 05:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "Bancorp Santander SA的分析師們認為：日本GPIF可能會將所持美債出售620億美元。"
+    },
     {
       "id": "mkt:01a09249-886b-7118-8551-ec38c0a5aa81",
       "time": "2026-09-12 05:04:47",
@@ -123634,35 +123669,6 @@
         "市場"
       ],
       "text": "週五（9月4日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7080元——逼近2022年7月8日最終報價6.6862元、當年4月27日最終報價6.5868元，較週四紐約尾盤漲95點，日內整體交投於6.7186-6.7052元區間，逼近2023年2月2日盤中最低位6.6975元、2022年6月3日底部6.6170元。本週，離岸人民幣累漲0.34%。"
-    },
-    {
-      "id": "5078371",
-      "time": "2026-09-05 05:11:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美總統稱可能很快會打擊伊朗“鎬山”核設施】美國總統特朗普當地時間4日在白宮接受採訪時稱，美國可能很快會打擊伊朗的“鎬山”核設施。此外，特朗普在回答記者提問時稱，伊朗問題只是一場軍事衝突，不算戰爭。特朗普說：“因為對我們來說這只是一件微不足道的小事，沒什麼大不了的。”特朗普此前於7月多次威脅將打擊伊朗的“鎬山”核設施，但至今未付諸實踐。伊朗外交部發言人巴加埃在7月22日回應美方威脅時說，伊朗“鎬山”並無核活動，“美國對‘鎬山’的執迷關注不過是為其侵略、摧毀和蓄意破壞所編造的藉口”。“鎬山”位於伊朗中部伊斯法罕省納坦茲核設施附近，被認為是伊朗最堅固的地下核設施之一。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a06e3f-faec-7118-84ae-936fbdee6665",
-      "time": "2026-09-05 05:08:01",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "FITCH said the rating upgrade reflects strengthened Portuguese public finances, including an expected downward trend in government debt."
-    },
-    {
-      "id": "mkt:01a06e3f-f470-7118-84ae-8e5ee98befb8",
-      "time": "2026-09-05 05:08:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH said removal of Qatar from its ratings watchlist reflects that the war's impact on the country's creditworthiness will take longer to materialize."
     }
   ]
 }
