@@ -1,7 +1,15 @@
 {
   "date": "2026-09-12",
-  "count": 272,
+  "count": 273,
   "items": [
+    {
+      "id": "mkt:01a09249-886b-7118-8551-ec38c0a5aa81",
+      "time": "2026-09-12 05:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Citrini Research founder Van Geelen is selling the firm to SemiAnalysis."
+    },
     {
       "id": "mkt:01a09248-70cc-7118-8551-e5add1aeca3c",
       "time": "2026-09-12 05:03:35",

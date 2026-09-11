@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 05:04:05",
-  "count": 13483,
+  "updated": "2026-09-12 05:07:58",
+  "count": 13473,
   "items": [
+    {
+      "id": "mkt:01a09249-886b-7118-8551-ec38c0a5aa81",
+      "time": "2026-09-12 05:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Citrini Research founder Van Geelen is selling the firm to SemiAnalysis."
+    },
     {
       "id": "mkt:01a09248-70cc-7118-8551-e5add1aeca3c",
       "time": "2026-09-12 05:03:35",
@@ -123655,112 +123663,6 @@
         "MKT News"
       ],
       "text": "FITCH said removal of Qatar from its ratings watchlist reflects that the war's impact on the country's creditworthiness will take longer to materialize."
-    },
-    {
-      "id": "mkt:01a06e3f-d5f7-7118-84ae-81c92043c2c6",
-      "time": "2026-09-05 05:07:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays says oil outflows from the Middle East exceed levels seen in the conflict's early phase; the market remains in deficit and inventory buffers have been substantially reduced."
-    },
-    {
-      "id": "mkt:01a06e3f-d589-7118-84ae-7f0593251698",
-      "time": "2026-09-05 05:07:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fitch said the risk of further severe damage to Qatar's liquefied natural gas facilities has declined since March and removed them from its watchlist."
-    },
-    {
-      "id": "5078370",
-      "time": "2026-09-05 05:07:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評卡達：從評級觀察負面名單中移除，反映自 3 月以來卡達液化天然氣設施遭受進一步嚴重破壞的風險已有所下降。"
-    },
-    {
-      "id": "mkt:01a06e3f-9f24-7118-84ae-70d0aa6a2e17",
-      "time": "2026-09-05 05:07:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "BARCLAYS maintains its 2026 Brent crude forecast at $96/bbl."
-    },
-    {
-      "id": "5078369",
-      "time": "2026-09-05 05:07:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴克萊：中東石油輸出量高於衝突早期階段，但市場依舊處於供應缺口狀態，且當前庫存緩衝規模已大幅收窄。"
-    },
-    {
-      "id": "5078368",
-      "time": "2026-09-05 05:06:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：維持 2026 年布倫特原油 96 美元 / 桶的價格預測。"
-    },
-    {
-      "id": "te:markets:581412",
-      "time": "2026-09-05 05:05:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Posts Strongest Weekly Gain Since July — Brent traded near $95.73 a barrel on Friday and was up more than 8% for the week, marking its strongest weekly performance since July, as the war in the Middle East continued with little prospects of peace. Iran and the US exchanged missile strikes this week, while Israel’s defense minister threatened “crippling” attacks on Iran’s infrastructure, including energy facilities. Meanwhile, US Vice President JD Vance said the US does not plan to hold peace talks with Iran until it stops attacking ships in Hormuz, adding to upward pressure on oil prices as Iran signals its determination to maintain a hard-line response to the latest US strikes. The EU has formally joined the US-led sanctions campaign against Iran, while South Korea said it is considering a military role. The rally could lose momentum if shipments through the Strait increase. Reports on Iraqi oil exports indicate an average of 2.35 million barrels per day in August, mostly shipped through southern routes."
-    },
-    {
-      "id": "mkt:01a06e3d-b35a-7118-84ae-6847ad35ee1c",
-      "time": "2026-09-05 05:05:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch affirms Qatar's rating at \"AA\"; outlook negative."
-    },
-    {
-      "id": "5078367",
-      "time": "2026-09-05 05:05:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：此次評級上調反映葡萄牙公共財政狀況得到改善，政府債務預計將步入下行通道。"
-    },
-    {
-      "id": "mkt:01a06e3d-9091-7118-84ae-650fe7d9c8ff",
-      "time": "2026-09-05 05:05:23",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fitch upgraded Portugal's sovereign rating to A+ and left the outlook at stable."
-    },
-    {
-      "id": "5078366",
-      "time": "2026-09-05 05:04:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽將葡萄牙的評級上調至“A+”，展望穩定。"
     }
   ]
 }
