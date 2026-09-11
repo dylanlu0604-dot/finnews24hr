@@ -1,7 +1,68 @@
 {
   "date": "2026-09-12",
-  "count": 233,
+  "count": 240,
   "items": [
+    {
+      "id": "5090356",
+      "time": "2026-09-12 04:24:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克政府表示將與盟友和友邦合作，防止此類襲擊再次發生。"
+    },
+    {
+      "id": "5090355",
+      "time": "2026-09-12 04:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理已下令對襲擊事件的具體情況及其幕後黑手展開調查。"
+    },
+    {
+      "id": "5090354",
+      "time": "2026-09-12 04:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克稱拒絕任何威脅沙特安全與穩定的襲擊。"
+    },
+    {
+      "id": "mkt:01a09223-c79e-7118-8551-9ec31c1a8944",
+      "time": "2026-09-12 04:23:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell on the 11th】As of the close, NYMEX October-delivery light sweet crude futures fell $2.43 to $100.05/bbl, down 2.37%; ICE Brent November-delivery futures fell $3.02 to $104.61/bbl, down 2.81%."
+    },
+    {
+      "id": "5090353",
+      "time": "2026-09-12 04:23:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克表示讚賞沙烏地阿拉伯暫不採取報復行動的決定。"
+    },
+    {
+      "id": "5090352",
+      "time": "2026-09-12 04:22:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷出售8.41萬億阿根廷比索的本幣及美元掛鉤證券。"
+    },
+    {
+      "id": "5090350",
+      "time": "2026-09-12 04:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "STAR BULK以每股24.50歐元的價格發行440萬股新股。"
+    },
     {
       "id": "mkt:01a09220-7c93-7118-8551-91dcda2526cd",
       "time": "2026-09-12 04:19:57",
