@@ -1,7 +1,168 @@
 {
   "date": "2026-09-11",
-  "count": 809,
+  "count": 825,
   "items": [
+    {
+      "id": "mkt:01a08e1a-d778-7118-8538-eb745f993ee0",
+      "time": "2026-09-11 09:35:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share session opened sharply lower: Shanghai Composite Index down over 1% at the open; Shenzhen Composite Index down 0.9%; ChiNext Index down 0.5%. STAR 50 and Beijing Stock Exchange 50 Index both down over 1%. More than 4,900 stocks across the two exchanges declined."
+    },
+    {
+      "id": "mkt:01a08e1a-0d58-7118-8538-e0c8935f3996",
+      "time": "2026-09-11 09:34:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China front-month coke futures fell 2.0% intraday to 2,085.50 yuan/ton."
+    },
+    {
+      "id": "5088556",
+      "time": "2026-09-11 09:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部等九部門：推動人工智慧模型、智慧體等技術創新 並率先在汽車行業落地應用】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，加強人工智慧基礎能力建設。推動人工智慧模型、智慧體等技術創新，並率先在汽車行業落地應用。加快汽車人工智慧應用中試基地建設，促進行業企業透過公有自有相結合的方式建設智算設施。鼓勵企業開放更多應用場景，推動構建人工智慧技術全面應用新生態。深化人工智慧技術車端應用。加強人工智慧在整車能量管理、運動控制、多模態人機互動、個性化及主動服務、智慧故障預判等方面的應用。透過車內跨域協同，實現艙駕融合、全場景自適應調控等功能。促進汽車與智慧機器人、智慧家居、智慧穿戴等生態互聯。"
+    },
+    {
+      "id": "te:markets:582955",
+      "time": "2026-09-11 09:33:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Set for Weekly Loss — The Australian dollar held its recent decline below $0.72, staying near its lowest in more than a week and on track for a weekly loss as the US dollar strengthened alongside a sharp rise in Treasury yields. The greenback gained after US producer inflation came in stronger, reinforcing expectations that the Fed could raise rates next week. A sharp rise in Treasury yields also underpinned the dollar following lower-than-expected purchases by the US Treasury Department during its first expanded buyback operation. Meanwhile, oil prices continued to rise above $100 per barrel amid the escalating Middle East tensions, raising inflation risks and expectations that central banks may keep policy tighter for longer. Markets ramped up bets on a fourth rate hike this year by the Reserve Bank of Australia, with swaps now implying an 84% chance of a 25-bp increase at the upcoming meeting this month. Markets also expect the cash rate to reach 4.85% by early next year, its highest level since 2008."
+    },
+    {
+      "id": "5088555",
+      "time": "2026-09-11 09:33:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：加快人工智慧在汽車研產供銷服各環節的全面賦能和深度融合】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，推動全產業鏈數智化轉型。把握數字化、網路化、智慧化趨勢，加快人工智慧在汽車研產供銷服各環節的全面賦能和深度融合。推動產業鏈供應鏈數字化協同升級和資料共享互通，打造新型“整車—零部件協同”模式。持續開展智慧工廠梯度培育和推廣，壯大汽車行業數字化轉型促進中心等專業化服務隊伍，提升行業數智化轉型服務能力。加快汽車行業工業控制系統更新換代。"
+    },
+    {
+      "id": "mkt:01a08e19-185e-7118-8538-dd6f353d2ac5",
+      "time": "2026-09-11 09:33:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share grain sector rebounded after intraday volatility; Xin Nong Development hit the daily limit, while Yalian Development, Heizhima, Qiule Seed, Kangnong Seed and Suken Agricultural Development also rose."
+    },
+    {
+      "id": "mkt:01a08e19-0b96-7118-8538-d284610784cf",
+      "time": "2026-09-11 09:33:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【MIIT and eight ministries to deepen auto circulation and consumption reform pilots】Nine ministries led by the Ministry of Industry and Information Technology issued the 15th Five-Year Plan for intelligent, connected new-energy vehicle (NEV) industry development and ordered coordinated implementation, with task allocations, annual work priorities, dynamic monitoring, and midterm and summary evaluations. The plan directs implementation of NEV tax incentives and accelerates removal of restrictive measures on vehicle circulation and consumption, promoting new purchase/use management models. It backs trade-in programs, NEV promotion to rural areas, city bus fleet and power‑battery replacements, and deepens NEV auto‑insurance reform by optimizing commercial motor‑insurance base rates. It also tightens cross‑region used‑car circulation management and supports expansion of used‑car dealer models."
+    },
+    {
+      "id": "mkt:01a08e19-0230-7118-8538-c93a3be64ef1",
+      "time": "2026-09-11 09:33:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Malaysian ringgit fell to 4.073 per U.S. dollar, its weakest level since Aug. 17."
+    },
+    {
+      "id": "5088554",
+      "time": "2026-09-11 09:33:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊短線走高，中百集團、南寧百貨漲停】零售板塊短線走高，中百集團、南寧百貨漲停，國光連鎖、國芳集團、東百集團、友好集團、中央商場、新華百貨跟漲。"
+    },
+    {
+      "id": "5088553",
+      "time": "2026-09-11 09:32:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色板塊震盪下挫 精藝股份跌停】早盤有色板塊震盪下挫，銅方向領跌，精藝股份跌停，北方銅業、西部礦業、雲南銅業、金誠信、洛陽鉬業均跌超5%。"
+    },
+    {
+      "id": "mkt:01a08e18-5793-7118-8538-c6f6be75a4fe",
+      "time": "2026-09-11 09:32:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "601899.SS",
+        "Impact bearish"
+      ],
+      "text": "A-share precious metals sector fell in early trade: Xingye Silver & Tin and Hunan Baiyin dropped more than 5%, Zijin Mining fell over 4.5%; Western Gold, Zhaojin Gold and China National Gold also declined."
+    },
+    {
+      "id": "5088552",
+      "time": "2026-09-11 09:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智慧網聯新能源汽車產業發展“十五五”規劃：滾動實施產業鏈高質量發展行動】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，提高產業鏈韌性和安全水平。滾動實施產業鏈高質量發展行動，攻克關鍵基礎材料、作業系統、工業軟體、汽車晶片和元器件等短板技術，用好首批次材料、首版次軟體等政策，持續擴大應用規模。統籌鋰、鈷、鎳等關鍵礦產資源開採與迴圈利用。"
+    },
+    {
+      "id": "mkt:01a08e17-c426-7118-8538-b9a2dd0a1b25",
+      "time": "2026-09-11 09:31:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【MIIT and eight ministries issue 15th Five-Year NEV plan prioritizing high‑power chargers, V2G and green energy integration】China’s Ministry of Industry and Information Technology and eight other ministries published the 15th Five‑Year Plan for the intelligent connected new‑energy vehicle (NEV) industry, directing accelerated build‑out of charging and battery‑swap infrastructure and strategic deployment of high‑power charging facilities. The plan mandates closing rural charging shortfalls and improving charging/swapping service efficiency, scaling vehicle‑grid interaction (V2G) applications while exploring sustainable business models, and coordinating NEV development with green power and green hydrogen. It also pushes wider adoption of new‑energy heavy trucks in trunk logistics and specified short‑distance transport scenarios."
+    },
+    {
+      "id": "5088551",
+      "time": "2026-09-11 09:31:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.02%，現報3894.401點；深證成指跌0.98%，現報13483.698點；創業板指跌0.56%，現報3319.751點。"
+    },
+    {
+      "id": "5088550",
+      "time": "2026-09-11 09:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊短線走高，新農開發漲停】糧食概念板塊短線走高，新農開發漲停，亞聯發展、黑芝麻、秋樂種業、康農種業、蘇墾農發跟漲。"
+    },
+    {
+      "id": "5088549",
+      "time": "2026-09-11 09:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技總市值跌破2000億 股價自上市首日最高點跌超55%】早盤人形機器人龍頭宇樹科技低開1.66%，續創上市以來新低，股價自8月19日上市首日最高點跌超55%，總市值跌破2000億元。"
+    },
     {
       "id": "5088548",
       "time": "2026-09-11 09:31:15",
