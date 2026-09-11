@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-12 04:40:53",
-  "count": 13476,
+  "updated": "2026-09-12 04:44:44",
+  "count": 13477,
   "items": [
+    {
+      "id": "5090385",
+      "time": "2026-09-12 04:43:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普大幅調整美元評級，可能將債券評級展望下調至負面。"
+    },
+    {
+      "id": "5090382",
+      "time": "2026-09-12 04:43:09",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【對沖基金在貝森特自稱莊家前已經大幅削減日元空頭倉位】在美國財政部長貝森特公開挑戰交易員、要求他們檢驗自己推動日元走強的決心之前，對沖基金已經大幅削減日元空頭倉位。美國商品期貨交易委員會週五公佈的資料顯示，截至9月8日當週，槓桿交易員對日元的看空押注減少了一半。這一變化發生在貝森特發表相關言論之前不久。當時貝森特在一場活動上向交易員放話，歡迎他們押注與自己相反的方向，他說自己掌握了日本央行和日元政策一些資訊，是“莊家”。日元本週上漲1.7%，延續近期漲勢。截至週五紐約時間下午4點15分，美元/日元報約153.68。與此同時，資料顯示，包括資產管理公司和非商業交易者在內的投機性外匯交易員，截至9月8日當週連續第六週削減看漲美元的押注，規模降至194億美元。"
+    },
     {
       "id": "5090378",
       "time": "2026-09-12 04:38:44",
@@ -123687,18 +123707,6 @@
         "公司"
       ],
       "text": "【發展中國家外匯指數連漲10周】明晟公司MSCI新興市場股票指數漲1.3%，外匯指數漲0.3%。"
-    },
-    {
-      "id": "te:markets:581410",
-      "time": "2026-09-05 04:44:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Closes Lower as Fed Hike Bets Rise — The Ibovespa inched lower to close at 185,147 on Friday amid rising expectations for a US Fed rate hike in September. US payrolls increased by 162,000, about three times the consensus estimate, boosting rate hike bets. For Brazil, persistently high interest rates in the world’s largest economy narrow the policy path available to the BCB. The prospect of US interest rates remaining elevated for longer also reduces appetite for risk assets in emerging markets. Underperformers included Axia, down 0.8%, WEG, down 0.6%, and Rede D’Or. Petrobras lost 0.9% despite elevated oil prices, which remained volatile. Fnancial stocks gains limited losses, with Bradesco up 0.6%, Itaúsa adding 1.5%, BB Seguridade rising 1.1%, and Caixa advancing 1.1%. The latest Datafolha poll on the presidential race, released on Thursday, showed President Lula’s lead over Flávio Bolsonaro narrowing. Embraer rose 1.1% as Brazil posted a stronger-than-expected external trade surplus. The index rose 5.4% on the week."
     }
   ]
 }
