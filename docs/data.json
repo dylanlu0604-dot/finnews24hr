@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-11 22:16:19",
-  "count": 13667,
+  "updated": "2026-09-11 22:20:14",
+  "count": 13666,
   "items": [
+    {
+      "id": "mkt:01a090d6-4708-7118-854e-4669f9e85179",
+      "time": "2026-09-11 22:19:16",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said the bank will take decisions on a meeting-by-meeting basis and remain data-dependent."
+    },
+    {
+      "id": "5090115",
+      "time": "2026-09-11 22:18:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：我們將在每次貨幣政策會議上依據資料為後續決策提供指引。"
+    },
+    {
+      "id": "5090114",
+      "time": "2026-09-11 22:16:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "克羅格股價在業績和展望公佈後繼續上漲，漲幅達4.3%，創盤新高。"
+    },
+    {
+      "id": "5090113",
+      "time": "2026-09-11 22:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱除沙特外其餘國家船隻紅海航行安全】當地時間9月11日，葉門胡塞武裝發表宣告稱，胡塞武裝9月3日起從多個方向發起大規模軍事行動，目標是驅逐在葉門西部沿海部分地區集結的沙特方面武裝力量。宣告稱，此次行動是在沙特方面武裝力量近年來持續對葉門西部沿海地區民眾和村落髮動襲擊、近期相關行動進一步升級的背景下展開的。胡塞武裝宣告稱，此次行動取得以下成果：第一，驅逐沙特方面武裝力量，控制葉門塔伊茲省和荷臺達省的6個地區，涉及區域總面積約5400平方公里。第二，打擊沙特方面7個軍事編隊，共計38個旅，造成數百名人員死亡、受傷或被俘。第三，解救部分被沙特方面武裝力量扣押在葉門西部沿海地區多年的葉門被俘人員。第四，針對沙特戰機實施32次攔截行動，擊落9架沙特戰機。關於紅海航運安全問題，胡塞武裝宣告稱，目前海上航行對各國企業的船隻均是安全的，但沙特船隻除外。宣告還稱，葉門胡塞武裝將繼續實施“以封鎖對抗封鎖、以升級應對升級”的行動，打擊沙特方面在葉門的軍事集結，直至沙特方面停止“軍事行動”並解除對葉門的“封鎖”。（央視新聞）"
+    },
     {
       "id": "5090112",
       "time": "2026-09-11 22:14:38",
@@ -125341,54 +125375,6 @@
         "國際"
       ],
       "text": "花旗集團預計，美聯儲將在2027年6月、9月和12月各降息25個基點，此前預測為2026年10月、12月以及2027年1月降息。"
-    },
-    {
-      "id": "mkt:01a06cca-9ec3-7118-84a8-36aff045f406",
-      "time": "2026-09-04 22:20:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Iraq's oil ministry said August crude exports were about 70 mln barrels, with preliminary export revenue of roughly $4.5 bln."
-    },
-    {
-      "id": "5077982",
-      "time": "2026-09-04 22:20:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部在一份宣告中表示，該國8月原油出口量近7000萬桶，初步收入約為45億美元。"
-    },
-    {
-      "id": "5077981",
-      "time": "2026-09-04 22:18:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "加密貨幣恐懼與貪婪指數目前為74/100。"
-    },
-    {
-      "id": "te:economy:581356",
-      "time": "2026-09-04 22:18:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Canada Ivey PMI Rises to Highest Since April 2022 — Canada’s Ivey PMI rose to 64.3 in August 2026 from 55.1 in July, beating forecasts of 56.2 and reaching its highest level since April 2022. The reading ended a two-month consecutive decline. The employment index increased to 55 from 52.2, while the inventories index rose to 61.4 from 54.9. Meanwhile, the prices index accelerated to 80.4 from 75.5. The supplier deliveries index fell to 41.5 from 45.9."
-    },
-    {
-      "id": "mkt:01a06cc7-b372-7118-84a8-2e29609bba8a",
-      "time": "2026-09-04 22:17:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Economist: Slower wage growth may curb Canadian inflation】RSM economist Tu Nguyen said Canada's average hourly earnings slowed to 2% YoY in August from above 3% in prior years, a \"sudden drop\" she says reflects greater corporate caution and a rebalancing labor market. Headline inflation is around 3%, driven by gasoline; Nguyen said the wage slowdown should help restrain inflation by stabilizing firms' costs and reducing pressure to pass higher costs onto consumers."
     }
   ]
 }
