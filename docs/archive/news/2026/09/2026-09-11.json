@@ -1,7 +1,66 @@
 {
   "date": "2026-09-11",
-  "count": 1282,
+  "count": 1288,
   "items": [
+    {
+      "id": "5088899",
+      "time": "2026-09-11 13:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守101美元/桶，日內跌1.46%。"
+    },
+    {
+      "id": "mkt:01a08f01-ef4d-7118-853e-3ad11e783599",
+      "time": "2026-09-11 13:47:43",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Barclays raised its PT on Oracle (ORCL.N) to $252 from $250."
+    },
+    {
+      "id": "mkt:01a08f01-cbad-7118-853e-35810a226248",
+      "time": "2026-09-11 13:47:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Al Jazeera reports the Israeli military has launched a snap exercise in the West Bank to raise troop readiness ahead of the holiday period."
+    },
+    {
+      "id": "5088898",
+      "time": "2026-09-11 13:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曹操出行在杭州成立智行科技公司，註冊資本5000萬元】企查查APP顯示，近日，曹操智行科技（杭州）有限公司成立，法定代表人為宣捷，註冊資本為5000萬元，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；智慧車載裝置銷售；電子產品銷售；通訊裝置銷售等。企查查股權穿透顯示，該公司由曹操出行關聯公司杭州優行科技有限公司全資持股。"
+    },
+    {
+      "id": "5088897",
+      "time": "2026-09-11 13:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國和伊朗外長討論霍爾木茲海峽通航問題】根據韓國外交部網站上的宣告，該部長官趙顯和伊朗外長阿巴斯·阿拉格齊討論了中東局勢和雙邊關係。這次通話由伊朗外長提出。趙顯對近期中東局勢深表關切，並表達了希望恢復可持續和平與穩定的願望。趙顯強調韓國的立場是，必須保障包括韓國船隻在內的所有船隻自由、安全地透過霍爾木茲海峽，韓國將繼續參與國際社會為確保該水道航行自由所做的努力。阿拉格齊闡述了伊朗對當前中東局勢的立場。"
+    },
+    {
+      "id": "mkt:01a08eff-d492-7118-853e-2b9fe937f579",
+      "time": "2026-09-11 13:45:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "A-share MLCC-related stocks jumped in afternoon trade. Yunzhong Technology rose over 15%; Fenghua Hi-Tech and Shuangxing New Materials hit their daily limit. Hongming Electronics, Torch Electronics, Guoci Materials and Sanhuan Group also advanced."
+    },
     {
       "id": "mkt:01a08efe-961f-7118-853e-245ca5251ab0",
       "time": "2026-09-11 13:44:04",
