@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-12 06:39:41",
-  "count": 13506,
+  "updated": "2026-09-12 06:43:32",
+  "count": 13507,
   "items": [
+    {
+      "id": "5090438",
+      "time": "2026-09-12 06:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國向沙烏地阿拉伯提供有關胡塞武裝的情報。"
+    },
+    {
+      "id": "5090437",
+      "time": "2026-09-12 06:40:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱美國目前暫無打擊胡塞武裝的計劃。"
+    },
+    {
+      "id": "te:markets:583306",
+      "time": "2026-09-12 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 4.01% — Top commodity gainer is Barley (4.01%). Biggest losers are Sugar (-3.09%), Canola (-2.58%) and Cotton (-2.33%)."
+    },
     {
       "id": "5090436",
       "time": "2026-09-12 06:35:14",
@@ -123957,25 +123985,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Drops by 3.89% — Top crypto losers are XRP (-3.89%), Ether (-2.18%) and Bitcoin (-1.94%)."
-    },
-    {
-      "id": "te:markets:581417",
-      "time": "2026-09-05 06:39:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Falls by 2.72% — Top commodity loser is Wheat (-2.72%). Gains are led by Palm Oil (0.51%)."
-    },
-    {
-      "id": "5078395",
-      "time": "2026-09-05 06:39:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Anthropic 預計將於 9 月下旬公開 IPO 招股書，最早預計將於 10 月中旬啟動 IPO 路演推介。"
     }
   ]
 }

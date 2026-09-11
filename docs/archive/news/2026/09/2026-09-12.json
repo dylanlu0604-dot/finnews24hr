@@ -1,7 +1,35 @@
 {
   "date": "2026-09-12",
-  "count": 336,
+  "count": 339,
   "items": [
+    {
+      "id": "5090438",
+      "time": "2026-09-12 06:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國向沙烏地阿拉伯提供有關胡塞武裝的情報。"
+    },
+    {
+      "id": "te:markets:583306",
+      "time": "2026-09-12 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 4.01% — Top commodity gainer is Barley (4.01%). Biggest losers are Sugar (-3.09%), Canola (-2.58%) and Cotton (-2.33%)."
+    },
+    {
+      "id": "5090437",
+      "time": "2026-09-12 06:40:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱美國目前暫無打擊胡塞武裝的計劃。"
+    },
     {
       "id": "5090436",
       "time": "2026-09-12 06:35:14",
