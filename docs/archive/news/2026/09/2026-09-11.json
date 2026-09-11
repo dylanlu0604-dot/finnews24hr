@@ -1,7 +1,101 @@
 {
   "date": "2026-09-11",
-  "count": 2039,
+  "count": 2051,
   "items": [
+    {
+      "id": "5089719",
+      "time": "2026-09-11 19:02:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前 OpenAI 高管菲吉・西莫出任 AI 資料中心初創公司 Nscale 董事】據知情人士透露，前 OpenAI 高管菲吉・西莫（Fidji Simo）已加入初創企業 Nscale 的董事會。這家企業融資數十億美元，專門建設人工智慧資料中心。西莫的這項任命最早將於週五上午對外公佈。知情人士稱，就在 Nscale 籌備最早於本月開展潛在 IPO 之際，西莫加入其董事會。西莫仍將繼續擔任 OpenAI 兼職顧問，若 Nscale 董事會議題涉及這家人工智慧初創公司，她將對此類事項迴避表決。"
+    },
+    {
+      "id": "5089718",
+      "time": "2026-09-11 19:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所高管表示，交易收費將繼續成為增長動力。"
+    },
+    {
+      "id": "5089717",
+      "time": "2026-09-11 19:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟與蘋果磋商 Siri 歐盟落地】歐盟委員會發言人托馬斯・勒尼耶在布魯塞爾每日新聞釋出會上表示，歐盟委員會正與蘋果就 “Siri 未來在歐盟地區可能推出的相關方案” 開展具有建設性的磋商。勒尼耶補充稱，目前暫不在歐盟上線 Siri 是蘋果單方面的決定，數字市場法案中沒有任何條款阻止企業在歐盟推出創新產品。“我們唯一提出的要求是，為希望使用 Siri 人工智慧服務的歐盟公民提供互操作性。”"
+    },
+    {
+      "id": "5089714",
+      "time": "2026-09-11 19:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【又一批攤餘成本法債基上報】時隔不到1個月，第二批攤餘成本法債基迎來上報。證監會官網最新訊息顯示，匯泉基金、博遠基金、東方阿爾法基金、泉果基金、益民基金、泰信基金、匯百川基金、瑞達基金、中海基金、博道基金、恆越基金、東財基金、蘇新基金等13家基金管理人旗下的63個月封閉式債基申報材料被接收，這也是繼8月14日15家後，第二批上報攤餘成本法債基的中小公募。"
+    },
+    {
+      "id": "5089713",
+      "time": "2026-09-11 19:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟暫停關於鋁廢料貿易措施的提案。"
+    },
+    {
+      "id": "5089712",
+      "time": "2026-09-11 19:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆將把 Jackdaw 專案的決議推遲至 “晚秋”。"
+    },
+    {
+      "id": "5089711",
+      "time": "2026-09-11 19:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李成鋼國際貿易談判代表兼副部長會見加拿大加中貿易理事會名譽主席安德烈·德馬雷】9月11日，李成鋼國際貿易談判代表兼副部長會見加拿大加中貿易理事會名譽主席安德烈·德馬雷，雙方就中加經貿關係等議題進行交流。（商務部）"
+    },
+    {
+      "id": "5089710",
+      "time": "2026-09-11 19:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "前 OpenAI 高管西莫加入 Nscale 董事會。"
+    },
+    {
+      "id": "5089709",
+      "time": "2026-09-11 19:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多項硬科技成果首發首秀 2026浦江創新論壇今日開啟】由科學技術部和上海市人民政府共同主辦的2026浦江創新論壇（第十九屆）於9月11日至14日在上海舉辦，今年主賓國為南非共和國，主賓省為湖南省，有來自50餘個國家和地區、20餘個國際組織的科技界、產業界、投資界的代表參會。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0901f-8589-7118-8548-214be265d360",
+      "time": "2026-09-11 18:59:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An Iranian official said this victory demonstrates security cannot be bought and that Iran’s authority and intrinsic will to resist in the Strait of Hormuz have left the United States and its allies tactically and strategically deadlocked. He said the economic crisis and Trump’s ambitions will be borne by the American people and their allies."
+    },
+    {
+      "id": "5089708",
+      "time": "2026-09-11 18:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀回購79億美元瑞信舊債 創收購以來最大縮減動作】瑞銀集團正在回購79億美元的瑞信舊債，這是其自接手這家同城競爭對手以來縮減繼承債務負擔的最大動作。這家瑞士銀行週五完成債務收購要約的購買，是迄今為止規模最大的此類回購。"
+    },
     {
       "id": "5089707",
       "time": "2026-09-11 18:58:42",
@@ -118,6 +212,14 @@
         "Brent"
       ],
       "text": "【ANTHROPIC finds Yemeni group used Claude AI to develop missile systems】ANTHROPIC said in a Thursday AI misuse-detection report that an unidentified northern Yemeni group used its Claude model to support development of three weapons projects: a guided rocket, a ballistic missile the group claims can exceed 2,000 km range, and an R2000 missile series. The group used Claude to develop guidance, navigation and control software—partially replacing software engineers—and compartmentalized work across multiple AI sessions while concealing the projects’ military nature to evade detection. The disclosure arrives as Iran-backed Houthi forces continue missile and drone attacks on Red Sea shipping and push into coastal areas near the Bab al-Mandeb, intensifying regional fighting and adding upside pressure to energy markets."
+    },
+    {
+      "id": "5089700",
+      "time": "2026-09-11 18:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克威脅起訴紀錄片《馬斯克》製片方】據法新社9月10日報道，埃隆·馬斯克的律師向一部關於這位億萬富翁的四小時紀錄片的製片方發出警告函。馬斯克指控制片方製作了一部帶有偏見的影片。報道稱，在一封日期為9月3日的信中，律師亞歷克斯·斯皮羅指責奧斯卡獲獎導演亞歷克斯·吉布尼將紀錄片《馬斯克》建立在預設結論的基礎上，而非進行公正調查。他還指控吉布尼拒絕向馬斯克或其身邊人士進行任何核實。報道稱，紀錄片《馬斯克》8日在義大利威尼斯電影節上放映，獲得全場掌聲。（參考訊息）"
     },
     {
       "id": "5089699",
