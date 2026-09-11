@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-12 02:44:39",
-  "count": 13480,
+  "updated": "2026-09-12 02:48:27",
+  "count": 13466,
   "items": [
+    {
+      "id": "mkt:01a091ca-7b31-7118-8550-853af5d24c92",
+      "time": "2026-09-12 02:46:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $104.61 per barrel, down $3.02, or 2.81%."
+    },
+    {
+      "id": "5090242",
+      "time": "2026-09-12 02:45:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【委總統夫婦辯護團隊申請暫時釋放第一夫人】委內瑞拉執政黨統一社會主義黨11日在社交媒體釋出公告說，遭美國關押的馬杜羅總統夫婦的辯護團隊以健康理由申請暫時釋放第一夫人西莉亞·弗洛雷斯。根據該公告，辯護團隊向美國紐約一家法院提交了申請，請求基於“危急的醫療狀況”、憲法原則及安全保證，批准第一夫人暫時獲釋。（新華社）"
+    },
     {
       "id": "mkt:01a091c7-77fb-7118-8550-7be3ebdc4d1e",
       "time": "2026-09-12 02:42:43",
@@ -123566,161 +123587,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP says he will allocate $400–500 mln from a super PAC for midterm election spending."
-    },
-    {
-      "id": "5078296",
-      "time": "2026-09-05 02:48:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將從超級政治行動委員會調撥4億至5億美元用於中期選舉開支。"
-    },
-    {
-      "id": "mkt:01a06dbf-d4a4-7118-84ac-f09eb741e64c",
-      "time": "2026-09-05 02:48:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US has 'basically taken over' Iran, may soon strike Gaoshan】President Trump told reporters at the White House on Friday the US sank \"many ships\" through the Strait of Hormuz overnight, is moving large volumes of oil out and controls the strait. He said the US may soon strike Gaoshan and is ready to act; any deterioration in Iran's situation would be met with a heavy response. Trump said the US has \"basically taken over\" Iran and described the Iran issue as a military skirmish rather than a war."
-    },
-    {
-      "id": "5078295",
-      "time": "2026-09-05 02:47:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將在中期選舉投入大量資金。"
-    },
-    {
-      "id": "mkt:01a06dbf-8b14-7118-84ac-e86d70fa9a2b",
-      "time": "2026-09-05 02:47:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said the United States has the right to refrain from trading with financially elite countries."
-    },
-    {
-      "id": "5078294",
-      "time": "2026-09-05 02:47:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們的利率本應維持在 1% 或者 0.5% 的水平。"
-    },
-    {
-      "id": "mkt:01a06dbe-e1ec-7118-84ac-e6446bede4e1",
-      "time": "2026-09-05 02:47:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $96.28/bbl, up $0.76, or 0.8%."
-    },
-    {
-      "id": "5078293",
-      "time": "2026-09-05 02:46:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶96.28美元，上漲76美分，漲幅0.8%。"
-    },
-    {
-      "id": "5078292",
-      "time": "2026-09-05 02:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們有權不與金融精英國家開展貿易。"
-    },
-    {
-      "id": "5078291",
-      "time": "2026-09-05 02:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西規劃部長：必須破除僅靠增加稅收就能實現財政調整的觀念。"
-    },
-    {
-      "id": "mkt:01a06dbe-09de-7118-84ac-dfa0c990c763",
-      "time": "2026-09-05 02:46:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "President Trump said the U.S. has the right to impose tariffs on countries like Switzerland."
-    },
-    {
-      "id": "mkt:01a06dbd-f363-7118-84ac-d5c93d9b1e85",
-      "time": "2026-09-05 02:46:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the US destroyed all of Iran's advanced radar systems."
-    },
-    {
-      "id": "5078290",
-      "time": "2026-09-05 02:45:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普擬允許牧場主繞開大型肉類加工商 直接向消費者銷售牛肉】、美國總統特朗普表示，他將推出一項計劃，幫助農民和牧場主“加工自己的食品”，透過減少對大型肉類加工商的依賴來降低高企的牛肉價格。特朗普週五在橢圓形辦公室表示：“我們正在制定一項計劃，讓中小型和大型牧場主可以直接向消費者銷售產品，這樣他們就不必經過四大加工商和中間商。特朗普稱，將簽署相關行政令。此外，他還將簽署另一項命令，授權牧場主保護農村社群和牛群免受“墨西哥灰狼”侵害。他表示，這些灰狼給牧場主造成了數千萬美元損失，不僅危及牲畜，也威脅人員安全。"
-    },
-    {
-      "id": "5078289",
-      "time": "2026-09-05 02:45:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們有權對瑞士這類國家加徵關稅。"
-    },
-    {
-      "id": "mkt:01a06dbd-2fff-7118-84ac-cfa2646fd242",
-      "time": "2026-09-05 02:45:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Trump: There are no sea mines in the strait and a large amount of oil is spilling out."
-    },
-    {
-      "id": "mkt:01a06dbc-e5ca-7118-84ac-c10949277ef6",
-      "time": "2026-09-05 02:44:51",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. President Trump said Russian President Putin does not intend to attack NATO territory."
-    },
-    {
-      "id": "mkt:01a06dbc-c170-7118-84ac-bc34f3841943",
-      "time": "2026-09-05 02:44:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the Iran situation is merely a military clash, not a war, and described it as trivial for the United States."
     }
   ]
 }
