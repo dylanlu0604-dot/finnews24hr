@@ -1,7 +1,434 @@
 {
   "date": "2026-09-11",
-  "count": 1309,
+  "count": 1347,
   "items": [
+    {
+      "id": "mkt:01a08f0f-e952-7118-853f-64330ac30b7d",
+      "time": "2026-09-11 14:02:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck two vessels in the Black Sea carrying supplies to Ukrainian forces."
+    },
+    {
+      "id": "5088919",
+      "time": "2026-09-11 14:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊沉兩艘為烏軍運送補給的船隻。"
+    },
+    {
+      "id": "mkt:01a08f0f-2de6-7118-853f-5b9df11ae368",
+      "time": "2026-09-11 14:02:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "India's mines minister said critical minerals are among BRICS' key agenda items."
+    },
+    {
+      "id": "mkt:01a08f0f-1ee0-7118-853f-52d1e8c2e514",
+      "time": "2026-09-11 14:02:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Former BOJ officials warn Bessent intervention could erode BOJ credibility】Former Bank of Japan officials warned US Treasury Secretary Bessent’s “unusual” intervention in Japanese monetary affairs could undermine BOJ credibility and amplify global market volatility. Markets are pricing a 25bp BOJ rate hike at next week’s meeting, an acceleration versus earlier expectations. Bessent has intensified verbal pressure in recent weeks, provoking traders to bet against him and claiming insider knowledge of the BOJ’s intentions. Finance Minister Satsuki Katayama said the US treasury’s “I’m the house” warning to bond traders sounds “a bit scary” in Japanese. Takahide Kiuchi, executive economist at Nomura Research Institute and a former senior BOJ official, called the intervention unusual and potentially damaging to BOJ independence; another ex-official warned that perceived external influence on rate-setting would make markets more skeptical of future BOJ guidance."
+    },
+    {
+      "id": "5088918",
+      "time": "2026-09-11 14:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度礦業部長表示，關鍵礦產是金磚國家的核心議程之一。"
+    },
+    {
+      "id": "5088917",
+      "time": "2026-09-11 14:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊中一艘烏克蘭貨船。"
+    },
+    {
+      "id": "mkt:01a08f0e-7bdf-7118-853f-4cd851b019be",
+      "time": "2026-09-11 14:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European index futures tick higher: Euro Stoxx 50 futures +0.24%, DAX futures +0.15%, UK FTSE futures +0.22%."
+    },
+    {
+      "id": "5088916",
+      "time": "2026-09-11 14:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米澎程明天開啟交付，覆蓋全國75個城市。"
+    },
+    {
+      "id": "5088915",
+      "time": "2026-09-11 14:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯托克50股指期貨<STXEc1>上漲0.24%，德國DAX股指期貨<FDXc1>上漲0.15%，富時股指期貨<FFIc1>上漲0.22%。"
+    },
+    {
+      "id": "mkt:01a08f0d-eaf2-7118-853f-4005a9c39446",
+      "time": "2026-09-11 14:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK July seasonally adjusted trade balance with the EU -11.302 bln pounds, prior -12.559 bln."
+    },
+    {
+      "id": "mkt:01a08f0d-e21e-7118-853f-3da9083e38a9",
+      "time": "2026-09-11 14:00:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK July seasonally adjusted trade balance: deficit £3.45bln, vs market expected £4.995bln deficit; June deficit £5.537bln."
+    },
+    {
+      "id": "mkt:01a08f0d-d778-7118-853f-306756a48419",
+      "time": "2026-09-11 14:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July seasonally adjusted goods trade balance -20.965 bln pounds; consensus -22.3 bln; prior revised to -23.007 bln."
+    },
+    {
+      "id": "mkt:01a08f0d-d719-7118-853f-2e2615b20ac8",
+      "time": "2026-09-11 14:00:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK July GDP MoM +0.4% vs 0.0% expected; June +0.3%."
+    },
+    {
+      "id": "mkt:01a08f0d-d63e-7118-853f-2420d358a3d3",
+      "time": "2026-09-11 14:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK July seasonally adjusted non-EU trade balance -9.663 bln pounds; prior value revised to -10.448 bln pounds."
+    },
+    {
+      "id": "mkt:01a08f0d-becf-7118-853f-1b5cfd19da0b",
+      "time": "2026-09-11 14:00:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK services index YoY 2.1% in July, vs 1.6% expected and 1.6% prior."
+    },
+    {
+      "id": "mkt:01a08f0d-af93-7118-853f-13cccfd524a5",
+      "time": "2026-09-11 14:00:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance with EU (Jul) | actual -11302000000B | previous -12559000000B"
+    },
+    {
+      "id": "mkt:01a08f0d-9588-7118-853f-00b6f14aac08",
+      "time": "2026-09-11 14:00:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK July construction output YoY -2.5% (est -2.4%; prior -2.3%)."
+    },
+    {
+      "id": "mkt:01a08f0d-9576-7118-853e-f8672a03a826",
+      "time": "2026-09-11 14:00:27",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK industrial production YoY +0.6% in July vs consensus +0.2%; prior -0.2%."
+    },
+    {
+      "id": "mkt:01a08f0d-a37b-7118-853f-0c9dd67fdfc2",
+      "time": "2026-09-11 14:00:26",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "FTSE100"
+      ],
+      "text": "UK construction output MoM +0.1% in July, matching expectations of +0.1%; prior reading -0.1%."
+    },
+    {
+      "id": "mkt:01a08f0d-9503-7118-853e-f5a4914385fb",
+      "time": "2026-09-11 14:00:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK July GDP YoY 1.6% vs. 1.2% expected; prior 1.1%."
+    },
+    {
+      "id": "mkt:01a08f0d-94ae-7118-853e-efde61ac887c",
+      "time": "2026-09-11 14:00:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK industrial production MoM +0.2% in July, versus -0.2% expected; June -0.2%."
+    },
+    {
+      "id": "mkt:01a08f0d-7df8-7118-853e-d3c2aeff4b25",
+      "time": "2026-09-11 14:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance (Jul) | actual -3450000000B | consensus -4995000000B | previous -5537000000B"
+    },
+    {
+      "id": "mkt:01a08f0d-944d-7118-853e-e152e85f587b",
+      "time": "2026-09-11 14:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK July manufacturing output YoY 2.6% (forecast 2.0%; prior 0.5%)"
+    },
+    {
+      "id": "mkt:01a08f0d-8da1-7118-853e-de23698e209f",
+      "time": "2026-09-11 14:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK three-month GDP monthly rate for July +0.4% MoM (consensus +0.3%), prior +0.4%."
+    },
+    {
+      "id": "mkt:01a08f0d-7500-7118-853e-ca6da740f623",
+      "time": "2026-09-11 14:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July services index MoM 0.4% (consensus 0.0%; June 0.4%)."
+    },
+    {
+      "id": "5088914",
+      "time": "2026-09-11 14:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月三個月GDP月率 0.4%，預期0.3%，前值0.4%。英國7月工業產出月率 0.2%，預期-0.2%，前值-0.20%。英國7月季調後商品貿易帳 -209.65億英鎊，預期-223億英鎊，前值由-230.07億英鎊修正為-230.07億英鎊。"
+    },
+    {
+      "id": "mkt:01a08f0d-6774-7118-853e-c56b4f9d38a9",
+      "time": "2026-09-11 14:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK manufacturing output MoM (July) +0.9% vs +0.2% expected; prior -0.5%."
+    },
+    {
+      "id": "mkt:01a08f0d-3bf6-7118-853e-bf471603e5fe",
+      "time": "2026-09-11 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Non-EU Trade Balance (Jul) | actual -9663000000B | previous -10448000000B"
+    },
+    {
+      "id": "mkt:01a08f0d-3a71-7118-853e-b57506cd66a9",
+      "time": "2026-09-11 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Goods Trade Balance SA (Jul) | actual -20965000000B | consensus -22300000000B | previous -23007000000B"
+    },
+    {
+      "id": "mkt:01a08f0d-3082-7118-853e-aa89d1a5ab50",
+      "time": "2026-09-11 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (MoM) (Jul) | actual 0.4% | consensus 0% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a08f0d-2ec0-7118-853e-a32867c04196",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (YoY) (Jul) | actual -2.5% | consensus -2.4% | previous -2.30%"
+    },
+    {
+      "id": "mkt:01a08f0d-2ebe-7118-853e-9baae0e0079e",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (YoY) (Jul) | actual 2.6% | consensus 2% | previous 0.50%"
+    },
+    {
+      "id": "mkt:01a08f0d-2e56-7118-853e-9253a9a58c7f",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (YoY) (Jul) | actual 0.6% | consensus 0.2% | previous -0.20%"
+    },
+    {
+      "id": "mkt:01a08f0d-2e56-7118-853e-8c542757f57c",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (YoY) (Jul) | actual 1.6% | consensus 1.2% | previous 1.1%"
+    },
+    {
+      "id": "mkt:01a08f0d-2e54-7118-853e-838b92e5b91f",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP 3M/3M (MoM) (Jul) | actual 0.4% | consensus 0.3% | previous 0.4%"
+    },
+    {
+      "id": "mkt:01a08f0d-2dec-7118-853e-7a4857e4bbde",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (MoM) (Jul) | actual 0.2% | consensus -0.2% | previous -0.20%"
+    },
+    {
+      "id": "mkt:01a08f0d-2de7-7118-853e-7364c386fb6d",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (MoM) (Jul) | actual 0.1% | consensus 0.1% | previous -0.10%"
+    },
+    {
+      "id": "mkt:01a08f0d-2dcd-7118-853e-6aa7140b2bb5",
+      "time": "2026-09-11 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (MoM) (Jul) | actual 0.9% | consensus 0.2% | previous -0.50%"
+    },
     {
       "id": "5088913",
       "time": "2026-09-11 13:58:51",
