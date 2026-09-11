@@ -1,7 +1,130 @@
 {
   "date": "2026-09-11",
-  "count": 1258,
+  "count": 1270,
   "items": [
+    {
+      "id": "5088890",
+      "time": "2026-09-11 13:40:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2298億元。"
+    },
+    {
+      "id": "5088889",
+      "time": "2026-09-11 13:39:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌2%，現報10076.00元。"
+    },
+    {
+      "id": "te:markets:583015",
+      "time": "2026-09-11 13:39:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Week 2.8% Lower — NZX 50 lost 131 points, or 1.0%, to close at 13,580 on Friday, reversing earlier gains in morning trading and touching its lowest level since June 29, tracking a downbeat session on Wall Street overnight amid a surge in Treasury yields and rising oil prices. Traders were cautious ahead of the release of US inflation data later today for clues on the Fed’s monetary policy decision next week. Caution also built ahead of the release of New Zealand’s Q2 GDP and a slew of economic data from China, New Zealand’s top trading partner, due next week. On the data front, New Zealand’s manufacturing sector expanded at a slower pace in August. Almost all sectors traded in the red, led by materials, with the biggest laggards including Infratil (-2.0%), Fisher & Paykel (-1.9%), Freightways Group (-1.7%), A2 Milk (-1.5%), Auckland International Airport (-1.4%), Meridian Energy (-1.3%), and Fletcher Building (-1.3%). For the week, the index fell 2.8%, after rising in the previous week."
+    },
+    {
+      "id": "5088888",
+      "time": "2026-09-11 13:39:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2992.00元。"
+    },
+    {
+      "id": "mkt:01a08ef9-be70-7118-853d-f6a430672093",
+      "time": "2026-09-11 13:38:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold wavers as markets await tonight's US CPI】Gold traded around US$4,330 on Friday after a 1.8% drop in the prior session and could post a small rebound after a third consecutive weekly decline. A jump in oil and a US PPI report—PPI rose 0.4% last month, the biggest gain since May—have reinforced expectations of a Fed rate hike next week. With fighting in the Middle East intensifying, inflationary pressure is building. Motilal Oswal commodity analyst Manav Modi said the data indicate price pressures are returning, partly driven by elevated energy costs, reinforcing concerns inflation may persist. Fed swaps price roughly a 70% probability of a rate hike next week. Investors are focused on US CPI due tonight for further policy signals ahead of the Fed's mid-September meeting."
+    },
+    {
+      "id": "5088887",
+      "time": "2026-09-11 13:38:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【被動元件板塊短線拉昇，風華高科漲停】被動元件板塊短線拉昇，風華高科漲停，麥捷科技、三環集團、順絡電子、達利凱普、鈞崴電子等紛紛走高。"
+    },
+    {
+      "id": "5088886",
+      "time": "2026-09-11 13:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻纖概念午後活躍 九鼎新材2連板】玻纖概念午後活躍，九鼎新材2連板，長海股份、山東玻纖、三峽新材、再升科技跟漲。"
+    },
+    {
+      "id": "mkt:01a08ef8-9b62-7118-853d-ee6c4a9bd752",
+      "time": "2026-09-11 13:37:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Saudi Arabian TV reported the Russian Defence Ministry said it also struck Kyiv's military-industrial facilities and a logistics service center."
+    },
+    {
+      "id": "5088885",
+      "time": "2026-09-11 13:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1307.85美元/盎司。"
+    },
+    {
+      "id": "5088884",
+      "time": "2026-09-11 13:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1307.85美元/盎司。"
+    },
+    {
+      "id": "5088883",
+      "time": "2026-09-11 13:36:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守106美元/桶，日內跌1.52%。"
+    },
+    {
+      "id": "mkt:01a08ef7-feb2-7118-853d-e76940f02be7",
+      "time": "2026-09-11 13:36:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabian television reported the Russian Defence Ministry said Russian forces struck multiple infrastructure targets at Ukrainian ports and hit Ukrainian vessels used to transport weapons in the Odesa region."
+    },
     {
       "id": "5088882",
       "time": "2026-09-11 13:35:58",

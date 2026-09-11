@@ -1,7 +1,130 @@
 {
-  "updated": "2026-09-11 13:37:04",
-  "count": 13624,
+  "updated": "2026-09-11 13:40:56",
+  "count": 13631,
   "items": [
+    {
+      "id": "5088890",
+      "time": "2026-09-11 13:40:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2298億元。"
+    },
+    {
+      "id": "5088889",
+      "time": "2026-09-11 13:39:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌2%，現報10076.00元。"
+    },
+    {
+      "id": "te:markets:583015",
+      "time": "2026-09-11 13:39:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Week 2.8% Lower — NZX 50 lost 131 points, or 1.0%, to close at 13,580 on Friday, reversing earlier gains in morning trading and touching its lowest level since June 29, tracking a downbeat session on Wall Street overnight amid a surge in Treasury yields and rising oil prices. Traders were cautious ahead of the release of US inflation data later today for clues on the Fed’s monetary policy decision next week. Caution also built ahead of the release of New Zealand’s Q2 GDP and a slew of economic data from China, New Zealand’s top trading partner, due next week. On the data front, New Zealand’s manufacturing sector expanded at a slower pace in August. Almost all sectors traded in the red, led by materials, with the biggest laggards including Infratil (-2.0%), Fisher & Paykel (-1.9%), Freightways Group (-1.7%), A2 Milk (-1.5%), Auckland International Airport (-1.4%), Meridian Energy (-1.3%), and Fletcher Building (-1.3%). For the week, the index fell 2.8%, after rising in the previous week."
+    },
+    {
+      "id": "5088888",
+      "time": "2026-09-11 13:39:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2992.00元。"
+    },
+    {
+      "id": "mkt:01a08ef9-be70-7118-853d-f6a430672093",
+      "time": "2026-09-11 13:38:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold wavers as markets await tonight's US CPI】Gold traded around US$4,330 on Friday after a 1.8% drop in the prior session and could post a small rebound after a third consecutive weekly decline. A jump in oil and a US PPI report—PPI rose 0.4% last month, the biggest gain since May—have reinforced expectations of a Fed rate hike next week. With fighting in the Middle East intensifying, inflationary pressure is building. Motilal Oswal commodity analyst Manav Modi said the data indicate price pressures are returning, partly driven by elevated energy costs, reinforcing concerns inflation may persist. Fed swaps price roughly a 70% probability of a rate hike next week. Investors are focused on US CPI due tonight for further policy signals ahead of the Fed's mid-September meeting."
+    },
+    {
+      "id": "5088887",
+      "time": "2026-09-11 13:38:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【被動元件板塊短線拉昇，風華高科漲停】被動元件板塊短線拉昇，風華高科漲停，麥捷科技、三環集團、順絡電子、達利凱普、鈞崴電子等紛紛走高。"
+    },
+    {
+      "id": "5088886",
+      "time": "2026-09-11 13:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻纖概念午後活躍 九鼎新材2連板】玻纖概念午後活躍，九鼎新材2連板，長海股份、山東玻纖、三峽新材、再升科技跟漲。"
+    },
+    {
+      "id": "mkt:01a08ef8-9b62-7118-853d-ee6c4a9bd752",
+      "time": "2026-09-11 13:37:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Saudi Arabian TV reported the Russian Defence Ministry said it also struck Kyiv's military-industrial facilities and a logistics service center."
+    },
+    {
+      "id": "5088885",
+      "time": "2026-09-11 13:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1307.85美元/盎司。"
+    },
+    {
+      "id": "5088884",
+      "time": "2026-09-11 13:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1307.85美元/盎司。"
+    },
+    {
+      "id": "5088883",
+      "time": "2026-09-11 13:36:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守106美元/桶，日內跌1.52%。"
+    },
+    {
+      "id": "mkt:01a08ef7-feb2-7118-853d-e76940f02be7",
+      "time": "2026-09-11 13:36:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabian television reported the Russian Defence Ministry said Russian forces struck multiple infrastructure targets at Ukrainian ports and hit Ukrainian vessels used to transport weapons in the Odesa region."
+    },
     {
       "id": "5088882",
       "time": "2026-09-11 13:35:58",
@@ -124686,48 +124809,6 @@
         "其他"
       ],
       "text": "【福建莆田因強降雨已造成多人失聯】從福建省多部門瞭解到，受連日強降雨影響，福建莆田市部分割槽域出現內澇，房屋被淹，已造成多人失聯。在受災嚴重的城廂區華亭鎮，已有至少1人失聯，不少群眾被困。當地正在持續進行人員轉移安置工作。（央視新聞）"
-    },
-    {
-      "id": "5076878",
-      "time": "2026-09-04 13:40:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保險業賠付多個強颱風災害損失63億元】浙江玉環市10條海上航線昨天（9月3日）全面停航，營運船舶全部歸港定點避風，同步落實碼頭封閉、設施加固、人員撤離等多項防颱舉措。據當地氣象部門預報，9月4日，浙江台州玉環市多陣雨天氣，沿海海面風力可達7至9級。面對近期多個強颱風災害，金融監管總局指導銀行業保險業採取無差別救援、大災互認等措施，最大限度減少群眾生命財產損失，助力恢復生產生活。截至目前，保險業累計已賠付63億元。（央視財經）"
-    },
-    {
-      "id": "mkt:01a06aee-bcd4-7118-8498-6222c68c8377",
-      "time": "2026-09-04 13:40:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hongban Technology: optical modules a key growth area; products now in volume shipments】At its Sept. 4, 2026 1H results briefing, Hongban Technology said 1H performance growth was driven mainly by higher downstream orders and rising product ASPs. The company is targeting structural opportunities in the PCB industry via product premiumization and customer diversification and said overall operations remain stable and improving. Optical modules are a core expansion focus; related products have reached volume shipments and their share of revenue is steadily increasing."
-    },
-    {
-      "id": "5076877",
-      "time": "2026-09-04 13:40:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅板科技：光模組領域是公司重點拓展方向 相關產品已批次供貨】紅板科技(603459)9月4日召開2026年半年度業績說明會時表示，上半年公司業績增長主要系下游訂單增加、產品銷售單價提升，公司緊抓PCB行業結構性機遇，推進產品高階化與客戶多元化佈局，經營整體保持穩健向好。光模組領域是公司重點拓展方向，相關產品已實現批次供貨，業務佔比正穩步提升。"
-    },
-    {
-      "id": "5076876",
-      "time": "2026-09-04 13:38:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "深成指、創業板指午後雙雙翻綠，科創50指數跌幅擴大至1%。"
-    },
-    {
-      "id": "mkt:01a06aeb-b692-7118-8498-5d837f3c91b5",
-      "time": "2026-09-04 13:37:07",
-      "tags": [
-        "MKT News",
-        "000977.SZ",
-        "Impact bearish"
-      ],
-      "text": "China A-share liquid-cooled server sector slid; Inspur Information approached its daily limit down, Jiebang Technology fell over 9%, and Sifang Technology, Tongfei, Kangsheng and Yidong Electronics also declined."
     }
   ]
 }
