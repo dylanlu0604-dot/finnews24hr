@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-11 18:24:48",
-  "count": 13694,
+  "updated": "2026-09-11 18:28:37",
+  "count": 13690,
   "items": [
+    {
+      "id": "5089638",
+      "time": "2026-09-11 18:26:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX汽油主力合約跌超2%】NYMEX汽油主力合約跌超2%，現報3.32美元/加侖。"
+    },
+    {
+      "id": "mkt:01a09000-c5f1-7118-8547-5204ec547dba",
+      "time": "2026-09-11 18:26:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Zibo issues \"AI+Manufacturing\" 2026–2028 action plan】Zibo’s 2026–2028 \"AI+Manufacturing\" action plan targets establishing by 2028 a Shandong provincial pioneer hub for AI-enabled manufacturing. Targets include building at least 10 industrial large models, 3 industry corpora and 10 industrial intelligent agents; creating 50+ integrated application scenarios and cultivating more than 200 smart factories; elevating core firms in key sectors to domestic advanced automation/AI levels. Ecosystem goals comprise six AI capability centers, one embodied-intelligence robot training ground, and a full-chain service system covering technology R&D, commercialization, scenario validation and deployment."
+    },
+    {
+      "id": "5089637",
+      "time": "2026-09-11 18:25:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣期所就多晶矽期貨PS2709合約、碳酸鋰期貨LC2709合約有關事項釋出公告】廣期所公告，經研究決定，現將多晶矽期貨PS2709、碳酸鋰期貨LC2709合約有關事項公告如下：多晶矽期貨PS2709合約交易手續費標準為成交金額的萬分之一、日內平今倉交易手續費標準為成交金額的萬分之二點五，交易指令每次最小下單數量中的每次最小開倉下單數量為5手、每次最小平倉下單數量為1手，非期貨公司會員或者客戶單日開倉量不得超過200手。碳酸鋰期貨LC2709合約交易手續費標準為成交金額的萬分之一點六、日內平今倉交易手續費標準為成交金額的萬分之三點二，交易指令每次最小下單數量中的每次最小開倉下單數量為5手、每次最小平倉下單數量為1手，非期貨公司會員或者客戶單日開倉量不得超過400手。單日開倉量是指非期貨公司會員或者客戶當日在單個合約上的買開倉數量與賣開倉數量之和。套期保值交易、做市交易的單日開倉數量不受上述標準限制。具有實際控制關係的賬戶按照一個賬戶管理。"
+    },
+    {
+      "id": "5089636",
+      "time": "2026-09-11 18:25:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普路通：擬終止發行股份及支付現金購買資產暨關聯交易】普路通公告稱，公司擬終止發行股份及支付現金購買Leqee Group Limited100%股份、樂麥資訊科技(杭州)有限公司8.26%股權並募集配套資金暨關聯交易事項，該交易預計構成重大資產重組。終止原因系交易各方經多輪溝通，仍未就交易實施路徑、交易架構落地安排、交割條件等核心商業條款達成一致，繼續推進不確定性較高，且各方未就延長資產購買協議期限達成共識。本次終止重大資產重組事項尚需提交公司董事會審議，後續各方將履行決策程式並辦理終止相關事宜。"
+    },
+    {
+      "id": "5089635",
+      "time": "2026-09-11 18:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普總統在上任首日就明確表示，拜登政府達成的經合組織全球稅改協議在美國不具備任何效力。"
+    },
+    {
+      "id": "5089634",
+      "time": "2026-09-11 18:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天味業：9月11日回購A股及H股股份】海天味業公告稱，2026年9月11日，公司於上海證券交易所回購A股183.30萬股，佔變動前已發行A股股份的0.0331%，回購價格區間為33.51元/股-34.24元/股，成交總金額6240.84萬元，所購股份擬用於登出減資及員工持股計劃或股權激勵，回購後A股庫存股增至1863.18萬股。同日，公司於香港聯交所回購H股48.97萬股，佔變動前已發行H股股份的0.1682%，回購價格區間為26.90港元/股-27.26港元/股，成交總金額1327.62萬港元，所購股份擬登出。截至2026年9月11日，公司累計透過H股回購授權回購H股415.13萬股，佔授權透過日已發行H股的1.4255%。"
+    },
     {
       "id": "5089633",
       "time": "2026-09-11 18:24:02",
@@ -125346,96 +125401,6 @@
         "其他"
       ],
       "text": "【武漢：放寬首套自住房使用公積金償還個人住房商業貸款提取頻次】9月4日，武漢市住房和城市更新局聯合多部門釋出《關於進一步最佳化我市房地產政策措施的通知》，放寬首套自住房使用公積金償還個人住房商業貸款提取頻次。取消武漢市原“首套自住住房償還個人住房商業貸款每12個月提取一次”的頻次限制。僅使用個人住房商業貸款的，在正常還款6個月後即可辦理，之後每月可提取一次，累計提取金額不超過個人住房商業貸款金額。"
-    },
-    {
-      "id": "5077548",
-      "time": "2026-09-04 18:28:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天力鋰能：全資子公司完成經營範圍工商變更登記】天力鋰能公告稱，公司全資子公司河南新天力迴圈科技有限公司因業務發展需要變更經營範圍，現已完成工商變更登記手續，取得平頂山市葉縣市場監督管理局換髮的《營業執照》。本次變更僅涉及經營範圍調整，新增電子專用材料製造、再生資源銷售等經營類目，其他登記事項保持不變。"
-    },
-    {
-      "id": "mkt:01a06bf5-f9b4-7118-84a0-5e509e6b5554",
-      "time": "2026-09-04 18:27:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【TASS: US envoy Witkoff and Kushner to visit Russia, Ukraine; Kyiv arrival likely on 6th】TASS reported on the 4th that US presidential envoy Witkoff and Jared Kushner plan near-term visits to Russia and Ukraine; Ukrainian lawmaker Goncharenko said they are likely to arrive in Kyiv on the 6th. On the 3rd President Putin said a settlement of the Russia‑Ukraine conflict remains possible but its realization depends on the parties involved."
-    },
-    {
-      "id": "5077547",
-      "time": "2026-09-04 18:27:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰環保：投建專案總投資約8.08億元，尚需股東會審議】國泰環保公告，公司擬由控股孫公司浙江晶臻在杭州市蕭山區投資建設新能源材料迴圈利用與電池材料生產專案（一期），預計總投資約8.08億元，建設期預計不超過36個月。目前專案已取得專案用地、備案等前期手續，處於前期審批、方案深化和施工準備階段，投資建設尚需提交股東會審議。"
-    },
-    {
-      "id": "5077546",
-      "time": "2026-09-04 18:27:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣生堂：GST-Peak-Triple臨床試驗首例成功入組】廣生堂公告，公司創新藥控股子公司福建廣生中霖生物科技有限公司正在開展GST-Peak-Triple三聯全口服方案治療慢性乙型肝炎患者的隨機、雙盲、安慰劑對照II期臨床試驗，近日完成首例試驗參與者成功入組並給藥。"
-    },
-    {
-      "id": "5077545",
-      "time": "2026-09-04 18:27:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMC執行長亞當·阿倫在發文呼籲羅賓漢自願停止AMC股票代幣交易。AMC執行長亞當·阿倫在X平臺發帖，呼籲Robinhood自願停止並終止AMC股票代幣的交易。"
-    },
-    {
-      "id": "mkt:01a06bf5-56ab-7118-84a0-55ff143e0172",
-      "time": "2026-09-04 18:27:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi outlet Hadas reports Pakistan, Qatar and Oman are in ongoing talks with Tehran and Washington to prevent escalation."
-    },
-    {
-      "id": "5077544",
-      "time": "2026-09-04 18:26:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同方全球人壽回應被罰130萬：堅持立行立改，已逐項落實整改要求】9月4日，深圳金融監管局披露的罰單顯示，同方全球人壽保險有限公司及相關責任人因給予合同外利益、未按規定使用經備案的保險費率、宣傳話術不合規、業務財務資料不真實等被罰。罰單顯示，深圳金融監管局對同方全球人壽罰款130萬元；對吳爍、王朝蓬、劉潔晶給予警告並處7萬元罰款，對許海霞給予警告並處4萬元罰款，對郭新給予警告並處1萬元罰款，對萬斌給予警告並處8萬元罰款。對此，同方全球人壽回應稱，針對深圳金融監管局披露的問題事項，該公司堅持立行立改，已逐項落實整改要求。“本次行政處罰不會對公司經營造成重大影響。後續公司將嚴格恪守法律法規及監管規定，壓實合規管理責任，持續強化內控建設，保障企業合規穩健運營。”同方全球人壽表示。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:01a06bf4-ee51-7118-84a0-4b1b5b99cb1a",
-      "time": "2026-09-04 18:26:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. military disables device ad trackers after commercial location data used to target forces in Middle East】Sen. Ron Wyden released letters showing the U.S. military has disabled advertising identifiers on multiple computers and mobile phones after reports that commercially available location data were used to locate U.S. forces in the Middle East. The Air Force told Wyden it turned off ad identifiers on desktops and mobiles two months ago; U.S. Special Operations Command said it \"recently\" disabled ad identifiers on Windows devices and had disabled mobile ad IDs earlier this year. The disclosures underscore a national-security risk from ad-industry location collection and data brokers aggregating and reselling data that can be used to track deployed personnel."
-    },
-    {
-      "id": "te:economy:581263",
-      "time": "2026-09-04 18:26:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Trade Gap Widens in July — North Macedonia’s trade deficit widened to $390 million in July 2026 from $380 million in the same month a year earlier, marking the largest deficit in three months. Exports increased 8.7% year-on-year to $846.6 million, while imports rose 6.7% to $1,236 million. In the January-July period, exports rose 13.9% to $5,932 million, supported by increased sales of chemicals and related products (25.6%), machinery and transport equipment (6.3%), and products classified by material (11.7%). Exports grew notably to Germany (8.9%), Bulgaria (24.7%), and Hungary (13.4%). Meanwhile, imports climbed 13.5% to $8,370 million, driven by higher purchases of chemicals and related products (15.5%), products classified by material (18.2%), and machinery and transport equipment (4.4%). Import growth was strongest from Great Britain (60.4%), Greece (43.7%), and China (10.8%). Over the first seven months of the year, the trade gap widened to $2,437 million from $2,167 million in the same period last year."
-    },
-    {
-      "id": "5077543",
-      "time": "2026-09-04 18:26:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【邁威生物：9MW1911臨床資料顯示急性加重降低81%】邁威生物公告，公司9MW1911已完成針對既往吸菸的中重度COPD患者的Ib/IIa期臨床研究（N=80），將在2026年9月5日-9月9日舉行的2026年歐洲呼吸學會年會（ERS）以壁報形式公佈最新臨床資料。結果顯示，600mg和900mg劑量組中重度COPD急性加重年化發生率較安慰劑組分別降低24%和81%，重度急性加重年化發生率分別降低47%和100%。"
     }
   ]
 }
