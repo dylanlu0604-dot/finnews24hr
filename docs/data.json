@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-11 23:00:17",
-  "count": 13635,
+  "updated": "2026-09-11 23:04:14",
+  "count": 13641,
   "items": [
+    {
+      "id": "mkt:01a090ff-038e-7118-854e-a9672c37b4ac",
+      "time": "2026-09-11 23:03:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX to deploy first V3 Starlink satellites on Starship test flight as soon as next week】SpaceX plans to carry the first batch of upgraded V3 Starlink satellites on a Starship test flight as soon as next week. A successful Starship run is pivotal for SpaceX and investors: Starlink generated roughly 55% of the company’s revenue in Q2, and Starship is needed both to restore and expand the Starlink network and to provide commercial launch capacity. SpaceX says Starship could also enable orbital AI data centers that would address an estimated $26.5 trillion AI market."
+    },
+    {
+      "id": "5090147",
+      "time": "2026-09-11 23:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗駐聯合國代表駁斥了針對該國核計劃的新一輪指控，譴責聯合國安理會就此問題召開會議是濫用安理會程式與職權。"
+    },
+    {
+      "id": "mkt:01a090fe-078a-7118-854e-a01d40db5167",
+      "time": "2026-09-11 23:02:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Hassett: Trump favors returning more wealth to Americans】White House National Economic Council director Hassett downplayed worries that President Trump’s proposal to send $5,000 checks to every U.S. adult would exacerbate record-high borrowing. “We can do this in a fiscally responsible way. This is a serious proposal,” Hassett said, adding the administration could pursue it via budget reconciliation to sidestep minority opposition. Asked about offsets — the plan would add more than $1tn as federal debt approaches record highs — he said they “must be negotiated with Congress.” Analysts are skeptical and senior House and Senate GOP leaders have been cool to the idea."
+    },
+    {
+      "id": "5090146",
+      "time": "2026-09-11 23:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯感謝南非在聯合國支援俄方提出的各項倡議。"
+    },
+    {
+      "id": "mkt:01a090fc-7620-7118-854e-9cd73e9575c1",
+      "time": "2026-09-11 23:00:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China’s main commodity futures contracts were mostly lower: synthetic rubber down about 4%; soda ash down over 3%; caustic soda nearly 3% lower; glass, benzene and styrene (EB) down over 2%; coke down about 2%. Methanol rose about 1%."
+    },
+    {
+      "id": "5090145",
+      "time": "2026-09-11 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續跌3.06%，玻璃連續跌2.74%，苯乙烯連續跌2.21%，焦炭連續跌1.74%，20號膠連續跌1.52%。"
+    },
+    {
+      "id": "te:markets:583246",
+      "time": "2026-09-11 23:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.76% — Top currency gainers are South Korean Won (0.76%), Japanese Yen (0.62%), New Zealand Dollar (0.35%) and British Pound (0.13%). Biggest losers are Swiss Franc (-0.28%) and Canadian Dollar (-0.28%). Meanwhile, Dollar Index and Euro were little changed."
+    },
     {
       "id": "5090144",
       "time": "2026-09-11 22:59:42",
@@ -125087,17 +125151,6 @@
         "宏觀"
       ],
       "text": "【福建省2026年首單4筆新型政策性金融工具成功投放】據福建省發改委訊息，近日，福建省發改委會同中國進出口銀行福建省分行精準投放首單4筆新型政策性金融工具5億元，支援廈門港古雷港區將軍澳作業區1—4號泊位工程、莆田賽纖再生差異化纖維專案、年產12萬噸迴圈再生綠色功能性新材料專案、年產5萬噸迴圈纖維技改專案等4個交通基礎設施、數字經濟、綠色低碳領域民間投資專案補充資本金，助力專案加快落地建設，預計可帶動投資56億元，充分發揮政策性金融槓桿撬動作用。"
-    },
-    {
-      "id": "mkt:01a06cef-e78a-7118-84a8-e55821ffd83f",
-      "time": "2026-09-04 23:00:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "As of the 23:00 close, China's most-active futures contracts were mostly higher. Synthetic rubber rose just over 5%; caustic soda gained more than 3%; 20# rubber was near +3%; soda ash and rubber climbed over 2%. Fuel oil fell more than 2%."
     }
   ]
 }
