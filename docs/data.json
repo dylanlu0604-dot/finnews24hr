@@ -1,7 +1,102 @@
 {
-  "updated": "2026-09-12 02:29:07",
-  "count": 13504,
+  "updated": "2026-09-12 02:33:03",
+  "count": 13497,
   "items": [
+    {
+      "id": "mkt:01a091bd-288f-7118-8550-5722f32d3dec",
+      "time": "2026-09-12 02:31:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the night-session close (02:30), Shanghai most-active gold contract fell 0.04% to 942 yuan/gram; silver rose 0.49% to 15,723 yuan/kg; SC crude oil rose 4.96% to 850 yuan/barrel."
+    },
+    {
+      "id": "5090232",
+      "time": "2026-09-12 02:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報100.05美元/桶。NYMEX 10月天然氣期貨收報2.8310美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.3072美元/加侖，NYMEX 10月取暖油期貨收報4.9593美元/加侖。"
+    },
+    {
+      "id": "mkt:01a091bc-d237-7118-8550-4e1943c5b53d",
+      "time": "2026-09-12 02:31:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $100.05 per barrel, down $2.43, or 2.37%."
+    },
+    {
+      "id": "mkt:01a091bc-3c3e-7118-8550-413503760f1b",
+      "time": "2026-09-12 02:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.16% at 939.5 yuan/gram in the evening session on Sept. 11 (Friday); silver T+D closed up 0.73% at 15,685 yuan/kg."
+    },
+    {
+      "id": "te:markets:583288",
+      "time": "2026-09-12 02:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 4.36% — Top crypto gainers are Ether (4.36%), Binance (1.97%), XRP (1.88%) and Bitcoin (0.83%)."
+    },
+    {
+      "id": "5090231",
+      "time": "2026-09-12 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲4.96%，報850.10元人民幣/桶。滬金夜盤收平，滬銀收漲0.54%。"
+    },
+    {
+      "id": "mkt:01a091bb-40ce-7118-8550-3f54a2c55107",
+      "time": "2026-09-12 02:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Ministry of Energy said an attack caused injuries; the injured have received medical treatment."
+    },
+    {
+      "id": "mkt:01a091bb-2eaa-7118-8550-359df21eed2d",
+      "time": "2026-09-12 02:29:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Energy Ministry says the East-West oil pipeline serving the Riyadh and Medina regions was temporarily closed after multiple attacks."
+    },
+    {
+      "id": "5090230",
+      "time": "2026-09-12 02:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：襲擊造成部分人員受傷，傷者已接受救治。"
+    },
     {
       "id": "5090229",
       "time": "2026-09-12 02:27:55",
@@ -123771,160 +123866,6 @@
         "其他"
       ],
       "text": "霍尼韋爾將作為潛在 7.5 億美元對沙烏地阿拉伯軍售專案的承包商。"
-    },
-    {
-      "id": "5078269",
-      "time": "2026-09-05 02:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯：2028‑2030 年將迎來超 200 億美元新增礦業專案。"
-    },
-    {
-      "id": "5078268",
-      "time": "2026-09-05 02:31:36",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會提前償還財政部 30.8 億美元貸款。"
-    },
-    {
-      "id": "mkt:01a06db0-ade9-7118-84ac-6777742b380a",
-      "time": "2026-09-05 02:31:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $91.48 a barrel, up $0.18, or 0.20%."
-    },
-    {
-      "id": "5078267",
-      "time": "2026-09-05 02:31:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所 10 月天然氣期貨結算價為每百萬英熱單位 2.9750 美元。"
-    },
-    {
-      "id": "mkt:01a06db0-7c5b-7118-84ac-5c5bdb939271",
-      "time": "2026-09-05 02:31:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】At the 02:30 close of the night session, Shanghai gold most-active contract fell 1.32% to 958 yuan/gram; Shanghai silver fell 1.46% to 16,080 yuan/kg; SC crude oil rose 1.11% to 691 yuan/barrel."
-    },
-    {
-      "id": "5078266",
-      "time": "2026-09-05 02:31:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所 10 月 WTI 原油期貨結算價為每桶 91.48 美元。"
-    },
-    {
-      "id": "5078265",
-      "time": "2026-09-05 02:31:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所 10 月汽油期貨結算價為每加侖 3.2146 美元。"
-    },
-    {
-      "id": "5078264",
-      "time": "2026-09-05 02:30:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所 10 月柴油期貨結算價為每加侖 4.5402 美元。"
-    },
-    {
-      "id": "mkt:01a06daf-ce17-7118-84ac-5378b05fac5d",
-      "time": "2026-09-05 02:30:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 1.24% to 954.77 yuan/gram in the evening session on Sept. 4. Silver T+D fell 1.27% to 16,040 yuan/kg in the same session."
-    },
-    {
-      "id": "5078263",
-      "time": "2026-09-05 02:30:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所集團宣佈將於2026年第三季度釋出財報並召開業績電話會議。"
-    },
-    {
-      "id": "te:markets:581399",
-      "time": "2026-09-05 02:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 3.82% — Top crypto losers are XRP (-3.82%), Ether (-2.38%) and Bitcoin (-2.14%)."
-    },
-    {
-      "id": "5078262",
-      "time": "2026-09-05 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲1.11%，報690.70元人民幣/桶。滬金夜盤收跌1.32%，滬銀收跌1.46%。"
-    },
-    {
-      "id": "5078261",
-      "time": "2026-09-05 02:29:37",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市4日下跌】英國倫敦股市《金融時報》100種股票平均價格指數4日報收於10831.09點，較前一交易日下跌0.43點。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：資訊科技服務公司康普塔森特股價上漲4.10%，翠豐公司股價上漲3.29%，沃達豐集團股價上漲2.70%，極地資本科技信託公司股價上漲2.11%，M&G公司股價上漲1.77%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：市場徵信服務商益博睿股價下跌4.38%，可口可樂歐洲太平洋合作伙伴公司股價下跌2.30%，勵訊集團股價下跌2.06%，金融投資公司3i集團股價下跌1.95%，金融衍生品交易服務IG集團股價下跌1.91%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於8278.77點，較前一交易日下跌7.63點，跌幅為0.09%；德國法蘭克福股市DAX指數報收於26046.40點，較前一交易日上漲43.08點，漲幅為0.17%。（新華社）"
-    },
-    {
-      "id": "mkt:01a06dae-a66f-7118-84ac-4b9548596ca3",
-      "time": "2026-09-05 02:29:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude touched $95/bbl, up 0.42% intraday."
-    },
-    {
-      "id": "mkt:01a06dae-92be-7118-84ac-46bbbe8c1d11",
-      "time": "2026-09-05 02:29:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department approved a potential sale of F-16 sustainment services to Oman, estimated at $188 million."
-    },
-    {
-      "id": "5078260",
-      "time": "2026-09-05 02:29:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：已批准向阿曼潛在出售F-16戰機維護保障服務，預估金額為1.88億美元。"
     }
   ]
 }

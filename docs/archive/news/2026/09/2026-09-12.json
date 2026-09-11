@@ -1,7 +1,102 @@
 {
   "date": "2026-09-12",
-  "count": 113,
+  "count": 122,
   "items": [
+    {
+      "id": "mkt:01a091bd-288f-7118-8550-5722f32d3dec",
+      "time": "2026-09-12 02:31:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the night-session close (02:30), Shanghai most-active gold contract fell 0.04% to 942 yuan/gram; silver rose 0.49% to 15,723 yuan/kg; SC crude oil rose 4.96% to 850 yuan/barrel."
+    },
+    {
+      "id": "5090232",
+      "time": "2026-09-12 02:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報100.05美元/桶。NYMEX 10月天然氣期貨收報2.8310美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.3072美元/加侖，NYMEX 10月取暖油期貨收報4.9593美元/加侖。"
+    },
+    {
+      "id": "mkt:01a091bc-d237-7118-8550-4e1943c5b53d",
+      "time": "2026-09-12 02:31:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $100.05 per barrel, down $2.43, or 2.37%."
+    },
+    {
+      "id": "mkt:01a091bc-3c3e-7118-8550-413503760f1b",
+      "time": "2026-09-12 02:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.16% at 939.5 yuan/gram in the evening session on Sept. 11 (Friday); silver T+D closed up 0.73% at 15,685 yuan/kg."
+    },
+    {
+      "id": "te:markets:583288",
+      "time": "2026-09-12 02:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 4.36% — Top crypto gainers are Ether (4.36%), Binance (1.97%), XRP (1.88%) and Bitcoin (0.83%)."
+    },
+    {
+      "id": "5090231",
+      "time": "2026-09-12 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲4.96%，報850.10元人民幣/桶。滬金夜盤收平，滬銀收漲0.54%。"
+    },
+    {
+      "id": "mkt:01a091bb-40ce-7118-8550-3f54a2c55107",
+      "time": "2026-09-12 02:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Ministry of Energy said an attack caused injuries; the injured have received medical treatment."
+    },
+    {
+      "id": "mkt:01a091bb-2eaa-7118-8550-359df21eed2d",
+      "time": "2026-09-12 02:29:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Energy Ministry says the East-West oil pipeline serving the Riyadh and Medina regions was temporarily closed after multiple attacks."
+    },
+    {
+      "id": "5090230",
+      "time": "2026-09-12 02:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：襲擊造成部分人員受傷，傷者已接受救治。"
+    },
     {
       "id": "5090229",
       "time": "2026-09-12 02:27:55",
