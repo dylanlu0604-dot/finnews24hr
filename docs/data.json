@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-12 01:46:31",
-  "count": 13538,
+  "updated": "2026-09-12 01:50:20",
+  "count": 13540,
   "items": [
+    {
+      "id": "5090214",
+      "time": "2026-09-12 01:48:09",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【三菱日聯預計美聯儲本月加息25基點 10月將按兵不動】三菱日聯放棄了對於美聯儲今年維持利率不變的預估，預計央行將在9月加息25個基點。策略師George Goncalves和Agron Nicaj調整預期的理由包括美聯儲主席沃什在傑克遜霍爾發表的偏鷹講話、8月就業資料穩健，以及週五公佈的CPI高於預期。策略師寫道，加息有可能成為一次“政策錯誤”，但在市場已經預期美聯儲下週加息的情況下，美聯儲很難選擇按兵不動。他們表示：“鑑於沃什反覆強調‘通脹是選項之一’，如果他什麼都不做，會帶來問題”。三菱日聯預計，9月加息後，美聯儲將在10月維持利率不變，其認為官員不太可能在中期選舉前釋放積極推進緊縮週期的訊號。策略師認為，12月再次加息的可能性為55%-60%。"
+    },
+    {
+      "id": "5090213",
+      "time": "2026-09-12 01:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：截至 9 月 8 日當週，布倫特原油投機者淨多頭頭寸增加 4318 手，至 265753 手。"
+    },
+    {
+      "id": "mkt:01a09194-63cf-7118-854f-e6c6d21f2a84",
+      "time": "2026-09-12 01:46:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data show speculative net long positions in Brent crude rose by 4,318 contracts to 265,753 in the week to Sep 8."
+    },
+    {
+      "id": "te:economy:583284",
+      "time": "2026-09-12 01:46:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Balance Swings to Deficit — Paraguay’s trade balance swung to a deficit of $50.84 million in August 2026, from a $25.12 million surplus a year earlier. Imports surged 21.1% year over year to $1.85 billion. Purchases of consumer goods grew 13.1%, imports of intermediate goods rose 23%, and capital goods purchases increased 24.9%. Meanwhile, exports increased 15.9% to $1.80 billion. Sales of manufactured goods of agricultural and livestock origin rose 8.6%, while exports of industrial manufactured goods jumped 23.6% and sales of fuels and energy increased 13.9%. In contrast, exports of primary products fell 2.1%."
+    },
     {
       "id": "mkt:01a0918a-f577-7118-854f-dddd1d1a0fc0",
       "time": "2026-09-12 01:36:38",
@@ -124197,26 +124239,6 @@
         "XAUUSD"
       ],
       "text": "Al Jazeera reported Qatar rejected Iran's claim that an attack on the Ras Laffan gas facility 'did not occur'."
-    },
-    {
-      "id": "mkt:01a06d88-49df-7118-84ab-9c58408fde73",
-      "time": "2026-09-05 01:47:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Intercontinental Exchange data: For the week to Sept 1, speculative net long positions in Brent crude rose by 37,837 contracts to 261,435 contracts."
-    },
-    {
-      "id": "5078222",
-      "time": "2026-09-05 01:47:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "在截至9月1日當週，ICE布倫特原油投機客將淨多頭頭寸增加37837手，至261435手。"
     }
   ]
 }
