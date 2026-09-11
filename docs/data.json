@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-11 13:56:21",
-  "count": 13643,
+  "updated": "2026-09-11 14:00:09",
+  "count": 13638,
   "items": [
+    {
+      "id": "5088913",
+      "time": "2026-09-11 13:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "住友商事與Sakana AI達成全面合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a08f0b-0b6b-7118-853e-659d0ad1ba03",
+      "time": "2026-09-11 13:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Angrui Micro: L-PAMiD 5G transceiver modules for high-end models continued shipping in 1H; Phase 8L in volume production】At its 2026 semiannual briefing, Angrui Micro said L-PAMiD 5G transceiver modules for high-end devices continued shipping in 1H. Its high‑integration 5G Phase 8L modules have moved into scaled volume production with brand customers, and the company is sending multiple Phase 8 module specifications to several brand customers for sample validation."
+    },
+    {
+      "id": "mkt:01a08f0a-1eb0-7118-853e-5b7bbd1b4225",
+      "time": "2026-09-11 13:56:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold continued to rise, reclaiming $4,350/oz and trading up 0.78% on the day."
+    },
+    {
+      "id": "te:economy:583018",
+      "time": "2026-09-11 13:56:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Slovenia 10Y Bond Yield Hits 12-year High — Slovenia 10 Year Government Bond Yield increased to 3.93%, the highest since April 2014. Over the past 4 weeks, Slovenia 10Y Bond Yield gained 30.70 basis points, and in the last 12 months, it increased 80.60 basis points."
+    },
+    {
+      "id": "5088912",
+      "time": "2026-09-11 13:56:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲0.79%。"
+    },
     {
       "id": "mkt:01a08f09-3df4-7118-853e-54f0efb297a1",
       "time": "2026-09-11 13:55:42",
@@ -124855,97 +124904,6 @@
         "資料"
       ],
       "text": "德國7月季調後製造業訂單月率 2.5%，預期0.3%，前值3.10%。"
-    },
-    {
-      "id": "mkt:01a06b00-ca25-7118-8498-a74e06e4b9e1",
-      "time": "2026-09-04 14:00:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany's seasonally adjusted manufacturing orders rose 2.5% MoM in July, versus 0.3% expected and 3.1% prior."
-    },
-    {
-      "id": "mkt:01a06b00-b142-7118-8498-9b0feadb9c45",
-      "time": "2026-09-04 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Manufacturing Orders (Seasonally Adjusted) (MoM) (Jul) | actual 2.5% | consensus 0.3% | previous 3.10%"
-    },
-    {
-      "id": "5076900",
-      "time": "2026-09-04 13:59:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭在其南部海岸發現無人機後調查領土遭侵犯事件。"
-    },
-    {
-      "id": "mkt:01a06aff-f619-7118-8498-933b5b42d091",
-      "time": "2026-09-04 13:59:14",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【TrendForce: CPU supply improves; 2026 global laptop shipment decline narrows to 9.4%】TrendForce says laptop CPU supply improves from Q2 2026, prompting OEMs to resume procurement and production rhythms. Rising DRAM and SSD costs have led vendors to accelerate pre-buying, pushing first-half shipments above prior expectations. Memory and CPU price increases are widening OEM cost pressure. TrendForce forecasts that eased CPU shortages in H2, continued pre-buying, earlier consumer replacements and stable corporate demand will lift shipments, narrowing 2026 full-year laptop shipment decline to 9.4% YoY."
-    },
-    {
-      "id": "5076899",
-      "time": "2026-09-04 13:58:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "5076898",
-      "time": "2026-09-04 13:58:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：CPU供給改善 2026年全球筆記本出貨年減幅收斂至9.4%】根據TrendForce集邦諮詢最新筆記本產業研究，2026年第二季起筆記本CPU供應顯著改善，品牌廠採購、生產節奏逐步恢復，並考量DRAM和SSD成本持續上升，願意更積極提前備貨、鎖定零部件，帶動上半年出貨優於預期。然而，儲存器漲價趨勢不變，且CPU價格也上調，品牌面臨的成本壓力已進一步擴大。TrendForce集邦諮詢表示，2026年下半年隨著CPU短缺情況趨緩，品牌持續提前備貨，加上終端消費者提早換機、商務需求穩定等因素，預估出貨情況將同步上修，2026全年筆記本出貨下滑幅度則可望收斂至9.4%。"
-    },
-    {
-      "id": "5076897",
-      "time": "2026-09-04 13:58:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明陽智慧成立氫動新能源公司 含站用加氫相關業務】企查查APP顯示，近日，乳山明陽氫動新能源有限公司司成立，法定代表人為鄭重，註冊資本為2000萬元，經營範圍包含風力發電技術服務；新能源原動裝置製造；站用加氫及儲氫設施銷售；新材料技術研發；電池製造等。企查查股權穿透顯示，該公司由明陽智慧間接全資持股。"
-    },
-    {
-      "id": "5076896",
-      "time": "2026-09-04 13:57:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【墨西哥對涉華熱軋鋼作出反傾銷終裁】據中國貿易救濟資訊網，9月3日，墨西哥經濟部發布公告，對原產於中國和越南的熱軋鋼作出反傾銷肯定性終裁，正式徵收反傾銷稅，其中，上海梅山鋼鐵股份有限公司為0.3087美元/千克、武漢鋼鐵有限公司（Wuhan Iron & Steel Co., Ltd.）為0.3050美元/千克、未被抽樣的合作生產商/出口商為0.3070美元/千克、其他中國生產商/出口商為0.3087美元/千克；越南生產商/出口商為0.2719—0.2855美元/千克。涉案產品為鐵、碳鋼或合金鋼製成的，無論是否酸洗，未經塗鍍，厚度不超過25.4毫米、寬度不限的熱軋板材。措施自公告發布次日起生效。"
-    },
-    {
-      "id": "mkt:01a06afe-47c7-7118-8498-88a5eef63f16",
-      "time": "2026-09-04 13:57:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Russian Defence Ministry said Russian forces struck another cargo ship at Chornomorsk port in Ukraine."
-    },
-    {
-      "id": "5076895",
-      "time": "2026-09-04 13:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱在烏克蘭皮夫登尼港擊中一艘船隻。"
     }
   ]
 }
