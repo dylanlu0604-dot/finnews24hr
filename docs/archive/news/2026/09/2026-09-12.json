@@ -1,7 +1,56 @@
 {
   "date": "2026-09-12",
-  "count": 88,
+  "count": 93,
   "items": [
+    {
+      "id": "5090219",
+      "time": "2026-09-12 02:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 8 月預算支出 5270 億美元，2025 年 8 月為 6890 億美元；財政收入 3600 億美元，2025 年 8 月為 3440 億美元。"
+    },
+    {
+      "id": "mkt:01a091a0-a4a7-7118-854f-f6ba4b1d8d90",
+      "time": "2026-09-12 02:00:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US August government budget deficit $167bln, vs. $404bln expected and $432bln prior."
+    },
+    {
+      "id": "5090218",
+      "time": "2026-09-12 02:00:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：8 月海關淨收入 128.36 億美元，總收入 233.77 億美元，退稅 105.41 億美元。"
+    },
+    {
+      "id": "mkt:01a091a0-59e1-7118-854f-eeaa9a815bc4",
+      "time": "2026-09-12 02:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Government Budget (Aug) | actual -167000000000B | consensus -404000000000B | previous -432000000000B"
+    },
+    {
+      "id": "5090217",
+      "time": "2026-09-12 01:58:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國8月政府預算 -1667.97億美元，預期 -2200億美元，前值 -3448億美元。"
+    },
     {
       "id": "5090215",
       "time": "2026-09-12 01:53:26",
