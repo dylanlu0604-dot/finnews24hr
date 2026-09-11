@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-12 02:21:17",
-  "count": 13514,
+  "updated": "2026-09-12 02:25:11",
+  "count": 13512,
   "items": [
+    {
+      "id": "mkt:01a091b6-56a1-7118-8550-2d2ad49d2e42",
+      "time": "2026-09-12 02:24:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "JP Morgan revises Fed forecast and now expects rate hikes in September and December."
+    },
+    {
+      "id": "5090227",
+      "time": "2026-09-12 02:23:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報842.40元。"
+    },
+    {
+      "id": "mkt:01a091b5-dc79-7118-8550-270a620230e1",
+      "time": "2026-09-12 02:23:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's Houthi health ministry said Saudi-led strikes since Sept. 3 have caused 82 killed or wounded."
+    },
+    {
+      "id": "5090226",
+      "time": "2026-09-12 02:22:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝衛生部稱，自 9 月 3 日以來，沙特主導的襲擊已造成 82 人傷亡。"
+    },
+    {
+      "id": "5090225",
+      "time": "2026-09-12 02:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：據福克斯新聞記者Trey Yingst在阿拉伯海的 “喬治・華盛頓” 號航空母艦上發回報道。隨著美伊緊張局勢不斷升級，美軍正籌備夜間軍事行動。這艘航母搭載約 5000 名水兵，由多艘驅逐艦護航。上週末該航母遭到伊朗彈道導彈襲擊，本週雙方已發生多輪交火。美國官員表示，海上封鎖仍在執行，美軍正透過在霍爾木茲海峽附近開展軍事行動持續向伊朗施壓。"
+    },
     {
       "id": "te:markets:583286",
       "time": "2026-09-12 02:20:12",
@@ -123946,74 +123997,6 @@
         "國際"
       ],
       "text": "特朗普：將要求進口牛肉標註原產地標籤。"
-    },
-    {
-      "id": "te:markets:581397",
-      "time": "2026-09-05 02:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Plunges by 5.11% — Top commodity losers are Butter (-5.11%) and Wheat (-3.34%). Gains are led by Rice (0.86%) and Palm Oil (0.51%)."
-    },
-    {
-      "id": "mkt:01a06daa-092c-7118-84ac-2e66e4e59bdd",
-      "time": "2026-09-05 02:24:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Trump said he may sever trade ties with countries that treat the US and its farmers unfairly, saying he cares about American farmers."
-    },
-    {
-      "id": "mkt:01a06da8-d379-7118-84ac-22124fbae0a6",
-      "time": "2026-09-05 02:22:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the U.S. has absolutely no obligation to trade with countries that treat it badly."
-    },
-    {
-      "id": "mkt:01a06da8-2622-7118-84ac-1cd8c63d7c31",
-      "time": "2026-09-05 02:22:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump signed an order authorizing ranchers to protect cattle from gray wolves."
-    },
-    {
-      "id": "5078251",
-      "time": "2026-09-05 02:22:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：牧場主現在可以保護牛群免受墨西哥灰狼的侵害。"
-    },
-    {
-      "id": "mkt:01a06da7-f9c8-7118-84ac-1244a3d2e1f7",
-      "time": "2026-09-05 02:21:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The presiding judge said the Massachusetts Appeals Court denied Lindsay Clancy's last-minute motion to prevent the judge from declaring a mistrial."
-    },
-    {
-      "id": "5078250",
-      "time": "2026-09-05 02:21:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：還將簽署行政令，允許牧場主保護牛群。"
     }
   ]
 }

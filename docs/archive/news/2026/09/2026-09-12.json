@@ -1,7 +1,58 @@
 {
   "date": "2026-09-12",
-  "count": 105,
+  "count": 110,
   "items": [
+    {
+      "id": "mkt:01a091b6-56a1-7118-8550-2d2ad49d2e42",
+      "time": "2026-09-12 02:24:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "JP Morgan revises Fed forecast and now expects rate hikes in September and December."
+    },
+    {
+      "id": "5090227",
+      "time": "2026-09-12 02:23:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報842.40元。"
+    },
+    {
+      "id": "mkt:01a091b5-dc79-7118-8550-270a620230e1",
+      "time": "2026-09-12 02:23:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's Houthi health ministry said Saudi-led strikes since Sept. 3 have caused 82 killed or wounded."
+    },
+    {
+      "id": "5090226",
+      "time": "2026-09-12 02:22:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝衛生部稱，自 9 月 3 日以來，沙特主導的襲擊已造成 82 人傷亡。"
+    },
+    {
+      "id": "5090225",
+      "time": "2026-09-12 02:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：據福克斯新聞記者Trey Yingst在阿拉伯海的 “喬治・華盛頓” 號航空母艦上發回報道。隨著美伊緊張局勢不斷升級，美軍正籌備夜間軍事行動。這艘航母搭載約 5000 名水兵，由多艘驅逐艦護航。上週末該航母遭到伊朗彈道導彈襲擊，本週雙方已發生多輪交火。美國官員表示，海上封鎖仍在執行，美軍正透過在霍爾木茲海峽附近開展軍事行動持續向伊朗施壓。"
+    },
     {
       "id": "te:markets:583286",
       "time": "2026-09-12 02:20:12",
