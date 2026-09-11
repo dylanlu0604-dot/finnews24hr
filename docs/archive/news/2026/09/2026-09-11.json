@@ -1,7 +1,31 @@
 {
   "date": "2026-09-11",
-  "count": 2472,
+  "count": 2475,
   "items": [
+    {
+      "id": "mkt:01a09102-22c3-7118-854e-b093aa7206c9",
+      "time": "2026-09-11 23:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. court has blocked Trump's executive order requiring continued operation of a Michigan coal-fired power plant."
+    },
+    {
+      "id": "5090149",
+      "time": "2026-09-11 23:05:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法院阻止特朗普要求維持密歇根州燃煤電廠運營的行政令。能源部針對燃煤電廠的行政令越權。"
+    },
+    {
+      "id": "5090148",
+      "time": "2026-09-11 23:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列空軍正在對黎巴嫩南部的曼蘇里鎮和瓦迪薩盧基地區實施空襲。"
+    },
     {
       "id": "mkt:01a090ff-038e-7118-854e-a9672c37b4ac",
       "time": "2026-09-11 23:03:46",

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-11 23:04:14",
-  "count": 13641,
+  "updated": "2026-09-11 23:08:10",
+  "count": 13640,
   "items": [
+    {
+      "id": "mkt:01a09102-22c3-7118-854e-b093aa7206c9",
+      "time": "2026-09-11 23:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. court has blocked Trump's executive order requiring continued operation of a Michigan coal-fired power plant."
+    },
+    {
+      "id": "5090149",
+      "time": "2026-09-11 23:05:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法院阻止特朗普要求維持密歇根州燃煤電廠運營的行政令。能源部針對燃煤電廠的行政令越權。"
+    },
+    {
+      "id": "5090148",
+      "time": "2026-09-11 23:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列空軍正在對黎巴嫩南部的曼蘇里鎮和瓦迪薩盧基地區實施空襲。"
+    },
     {
       "id": "mkt:01a090ff-038e-7118-854e-a9672c37b4ac",
       "time": "2026-09-11 23:03:46",
@@ -125112,45 +125136,6 @@
         "公司"
       ],
       "text": "RobinhoodCEO 弗拉德・特涅夫表示：我們支援股票代幣業務"
-    },
-    {
-      "id": "5078037",
-      "time": "2026-09-04 23:06:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本MS&AD保險集團旗下美國子公司MS Transverse執行長表示，日本MS&AD保險集團擬進軍歐洲再保險經紀市場。"
-    },
-    {
-      "id": "5078036",
-      "time": "2026-09-04 23:06:04",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【受俄烏和平預期影響，小麥價格逼近 7 月以來最差單週表現】STAG 國際公司分析師在週五的研報中寫道：“小麥期貨大幅下跌，似乎反映出市場基於俄烏談判有望取得更多實質性進展的預期，初步消化了一部分黑海地緣風險溢價。但普京近期的表態，幾乎沒有證據表明底層地緣政治風險已經出現實質性緩和。”由於戰事持續，黑海糧食航運量低於正常水平；襲擊還損毀了這條全球最重要糧食貿易通道上的多個港口與出口碼頭，亞洲至中東各地的採購方正爭相尋找穀物替代供應源。供應約束若長期延續，可能造成全球糧食供給收緊，推高食品成本。"
-    },
-    {
-      "id": "te:economy:581359",
-      "time": "2026-09-04 23:05:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Retreats After Jobs Data — Canada’s 10-year government bond yield eased slightly to 3.77% from a more than two-year high of 3.80% touched on September 3rd following the release of employment data. Employment in Canada declined by 41,700 in August, missing expectations for a 15,000 increase and following a 75,100 gain in July. The weak labor data could support a more dovish stance from the BoC. The BoC kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected, but noted that inflation risks had increased while new tariffs had made the growth outlook more uncertain. However, Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated. Meanwhile, US payrolls increased by 162,000, about three times the consensus estimate, boosting expectations for a September Fed rate hike."
-    },
-    {
-      "id": "5078035",
-      "time": "2026-09-04 23:04:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【福建省2026年首單4筆新型政策性金融工具成功投放】據福建省發改委訊息，近日，福建省發改委會同中國進出口銀行福建省分行精準投放首單4筆新型政策性金融工具5億元，支援廈門港古雷港區將軍澳作業區1—4號泊位工程、莆田賽纖再生差異化纖維專案、年產12萬噸迴圈再生綠色功能性新材料專案、年產5萬噸迴圈纖維技改專案等4個交通基礎設施、數字經濟、綠色低碳領域民間投資專案補充資本金，助力專案加快落地建設，預計可帶動投資56億元，充分發揮政策性金融槓桿撬動作用。"
     }
   ]
 }
