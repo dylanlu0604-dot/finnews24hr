@@ -1,7 +1,26 @@
 {
   "date": "2026-09-12",
-  "count": 339,
+  "count": 341,
   "items": [
+    {
+      "id": "te:markets:583307",
+      "time": "2026-09-12 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 3.32% — Top crypto gainers are Ether (3.32%), Binance (2.12%), XRP (1.45%) and Bitcoin (0.72%)."
+    },
+    {
+      "id": "5090439",
+      "time": "2026-09-12 06:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國中央司令部司令庫珀週四到訪沙特以提供支援。"
+    },
     {
       "id": "5090438",
       "time": "2026-09-12 06:41:46",

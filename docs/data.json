@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-12 06:43:32",
-  "count": 13507,
+  "updated": "2026-09-12 06:47:24",
+  "count": 13508,
   "items": [
+    {
+      "id": "te:markets:583307",
+      "time": "2026-09-12 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 3.32% — Top crypto gainers are Ether (3.32%), Binance (2.12%), XRP (1.45%) and Bitcoin (0.72%)."
+    },
+    {
+      "id": "5090439",
+      "time": "2026-09-12 06:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國中央司令部司令庫珀週四到訪沙特以提供支援。"
+    },
     {
       "id": "5090438",
       "time": "2026-09-12 06:41:46",
@@ -123974,17 +123993,6 @@
         "國際"
       ],
       "text": "市場訊息：美國承諾，作為亞美尼亞‑亞塞拜然協議的一部分，允許亞美尼亞獲得英偉達晶片。"
-    },
-    {
-      "id": "te:markets:581418",
-      "time": "2026-09-05 06:44:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 3.89% — Top crypto losers are XRP (-3.89%), Ether (-2.18%) and Bitcoin (-1.94%)."
     }
   ]
 }
