@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-12 04:17:40",
-  "count": 13453,
+  "updated": "2026-09-12 04:21:33",
+  "count": 13457,
   "items": [
+    {
+      "id": "mkt:01a09220-7c93-7118-8551-91dcda2526cd",
+      "time": "2026-09-12 04:19:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve: U.S. bank deposits totaled $19.566 tln last week, up from $19.559 tln the prior week (+$7 bln)."
+    },
+    {
+      "id": "5090346",
+      "time": "2026-09-12 04:19:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯利康股價盤後下跌2%，因三期臨床試驗結果令人失望。"
+    },
+    {
+      "id": "5090341",
+      "time": "2026-09-12 04:18:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "富國銀行、摩根大通、紐約梅隆銀行也在向 Anthropic推介財富管理服務。"
+    },
+    {
+      "id": "mkt:01a0921e-7651-7118-8551-896fff5fd744",
+      "time": "2026-09-12 04:17:44",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "BAC.O"
+      ],
+      "text": "Sources: Goldman Sachs and Bank of America are competing to manage millions in proceeds from ANTHROPIC employees' IPO gains."
+    },
+    {
+      "id": "5090340",
+      "time": "2026-09-12 04:17:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【報道：高盛、美銀等爭奪管理Anthropic員工IPO鉅額財富】華爾街各大銀行正競相爭取管理 Anthropic PBC 員工在公司首次公開募股（IPO）後預期積累的財富。Anthropic已要求各機構提交財富管理業務方案，並披露費用、服務及其他運營細節。這家AI公司的上市預計將為員工創造鉅額財富，有專家表示，期待此次IPO催生新一批百萬富翁是“非常合理的”。"
+    },
+    {
+      "id": "5090339",
+      "time": "2026-09-12 04:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康的Etcamah在SERENA-4試驗中未達到主要無進展生存期終點。"
+    },
     {
       "id": "5090338",
       "time": "2026-09-12 04:16:46",
@@ -123481,28 +123534,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index dropped 272 points or 0.51 percent on Friday to close at 53414 points. Losses were led by Apple (-2.55%), Alphabet (-2.10%) and Microsoft (-2.05%). Offsetting the fall, top gainers were Caterpillar (1.65%), Honeywell International (0.95%) and Home Depot (0.88%)."
-    },
-    {
-      "id": "mkt:01a06e14-55ab-7118-84ae-41ade1a28857",
-      "time": "2026-09-05 04:20:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. official says the White House is not planning to hold an AI meeting in mid-September."
-    },
-    {
-      "id": "te:markets:581408",
-      "time": "2026-09-05 04:19:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes Lower Following Jobs Data — The S&P/TSX Composite Index shed 0.3% to close at 36,514 on Friday following the release of Canadian and US employment data. Employment in Canada declined by 41,700 in August, missing expectations for a 15,000 increase. The weak labor data could support a more dovish stance from the BoC. However, despite keeping rates unchanged on Wednesday, Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated. Meanwhile, US payrolls increased about three times the estimate, boosting expectations for a September Fed rate hike pressuring credit-sensitive stocks. Major banks posted losses, with TD Bank down 1% and Scotiabank shedding 0.9%. Gold prices declined, weighing on mining shares. Agnico Eagle lost 0.9%, Barrick shed 1.8%, and WPM retreated 0.9%. Technology stocks were mostly lower amid weakness among US hyperscalers, with Shopify edging lower and Constellation Software down 0.6%. In contrast, Celestica added 1.1%, tracking strength among chipmakers."
     }
   ]
 }
