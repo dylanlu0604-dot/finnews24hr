@@ -1,7 +1,86 @@
 {
   "date": "2026-09-11",
-  "count": 858,
+  "count": 867,
   "items": [
+    {
+      "id": "5088586",
+      "time": "2026-09-11 09:47:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌6%，現報433.15元。"
+    },
+    {
+      "id": "5088585",
+      "time": "2026-09-11 09:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "何小鵬：小鵬G9L首批右舵版量產車在廣州全球智造工廠正式下線。"
+    },
+    {
+      "id": "mkt:01a08e24-c812-7118-8539-4ac5e2456956",
+      "time": "2026-09-11 09:46:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum most-active contract fell more than 6.00% intraday to 430.60 yuan/gram."
+    },
+    {
+      "id": "mkt:01a08e24-6efa-7118-8539-404f509c9d38",
+      "time": "2026-09-11 09:45:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "3993.HK",
+        "Impact bearish",
+        "002466.SZ"
+      ],
+      "text": "China A-share salt-lake lithium extraction sector plunged; Western Mining fell more than 9.5%, China Molybdenum fell more than 6.5%, and Tibet Summit, Zangge Mining, Beijete and TTANQT LITHIUM each dropped over 5%."
+    },
+    {
+      "id": "5088584",
+      "time": "2026-09-11 09:45:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報822.50元。"
+    },
+    {
+      "id": "5088583",
+      "time": "2026-09-11 09:45:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲7%，現報4390.00元。"
+    },
+    {
+      "id": "5088582",
+      "time": "2026-09-11 09:45:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【航運港口板塊大幅調整，南京港跌停】航運港口板塊大幅調整，南京港跌停，海峽股份、中集環科、連雲港、國航遠洋、中遠海特、海通發展等跟跌。"
+    },
+    {
+      "id": "te:markets:582960",
+      "time": "2026-09-11 09:44:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Slide — The benchmark KOSPI fell more than 2% to around 6,850 on Friday, extending losses from the previous session amid surging oil prices and higher US Treasury yields. WTI climbed above $100 per barrel, while Brent topped $107 amid escalating US-Iran tensions, raising concerns over inflation and further disruptions to oil supplies. Additionally, the US 10-year Treasury yield rose to its highest level since October 2023, while rate-hike bets for next week’s Fed meeting strengthened. Samsung Electronics and SK hynix led the decline, with both down nearly 4%, alongside losses in SK Square (-4.9%), Hyundai Motor (-1.9%), and LG Energy Solution (-2.2%). Separately, the BOK signaled it will assess the timing and pace of further rate hikes as inflation remains above target, with CPI accelerating to 3.1% in August. Meanwhile, South Korea’s exports surged 83% year-on-year in the first 10 days of September, led by semiconductor shipments that jumped 270% amid robust AI demand."
+    },
     {
       "id": "mkt:01a08e22-3370-7118-8539-3a00dbf635dc",
       "time": "2026-09-11 09:43:21",
@@ -9,6 +88,14 @@
         "MKT News"
       ],
       "text": "A-share tourism and hotel sector saw selective rallies; Qujiang Cultural Tourism and Guilin Tourism hit daily limit-up, Tianmuhu advanced, while China CYTS, Xi'an Catering and Huangshan Tourism pared losses."
+    },
+    {
+      "id": "5088580",
+      "time": "2026-09-11 09:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部等九部門：深化汽車與資訊通訊融合發展 拓展多場景適配網聯能力】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，深化汽車與資訊通訊融合發展。面向重點城市和部分高速公路持續深化5G/5G-A（增強版5G）網路覆蓋，建設C-V2X（基於蜂窩行動通訊的車輛聯網技術）直連通訊路側裝置，構建高低搭配、泛在智聯、安全可靠的行動網路體系，提升服務汽車應用的網路能力。拓展多場景適配網聯能力，提升車端5G/5G-A與C-V2X直連通訊能力滲透率。推動直連衛星、北斗系統等技術裝車應用。有序推進車聯網專用號碼規劃核配以及無線電頻率資源供給。最佳化多型別算力基礎設施部署，加速異構算力排程共享。推動智慧網聯新能源汽車與網聯基礎設施協同發展，推動IPv6（網際網路協議第六版）技術應用。"
     },
     {
       "id": "mkt:01a08e21-edfd-7118-8539-310d32cc3644",
