@@ -1,7 +1,35 @@
 {
   "date": "2026-09-11",
-  "count": 2437,
+  "count": 2440,
   "items": [
+    {
+      "id": "5090126",
+      "time": "2026-09-11 22:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北交所出手嚴打“私下交易” 3名投資者被限制交易三個月】記者9月11日獲悉，當日，北京證券交易所對3名在新股發行過程中私下收購新股、約定新股收益分成的投資者作出處罰，採取限制證券賬戶交易三個月的自律監管措施。（上證報）"
+    },
+    {
+      "id": "te:markets:583241",
+      "time": "2026-09-11 22:33:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bristol-Myers Squibb Stock Price Hits 4-week Low — Bristol-Myers Squibb shares decreased to 63.35 USD, the lowest since August 2026. Over the past 4 weeks, Bristol-Myers Squibb lost 0.41%, and in the last 12 months, it increased 37.32%."
+    },
+    {
+      "id": "5090125",
+      "time": "2026-09-11 22:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯談伊朗：我們控制著霍爾木茲海峽，我們將結束這場戰鬥。"
+    },
     {
       "id": "te:markets:583240",
       "time": "2026-09-11 22:31:27",

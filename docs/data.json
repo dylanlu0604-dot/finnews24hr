@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-11 22:32:22",
-  "count": 13662,
+  "updated": "2026-09-11 22:36:22",
+  "count": 13655,
   "items": [
+    {
+      "id": "5090126",
+      "time": "2026-09-11 22:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北交所出手嚴打“私下交易” 3名投資者被限制交易三個月】記者9月11日獲悉，當日，北京證券交易所對3名在新股發行過程中私下收購新股、約定新股收益分成的投資者作出處罰，採取限制證券賬戶交易三個月的自律監管措施。（上證報）"
+    },
+    {
+      "id": "te:markets:583241",
+      "time": "2026-09-11 22:33:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bristol-Myers Squibb Stock Price Hits 4-week Low — Bristol-Myers Squibb shares decreased to 63.35 USD, the lowest since August 2026. Over the past 4 weeks, Bristol-Myers Squibb lost 0.41%, and in the last 12 months, it increased 37.32%."
+    },
+    {
+      "id": "5090125",
+      "time": "2026-09-11 22:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯談伊朗：我們控制著霍爾木茲海峽，我們將結束這場戰鬥。"
+    },
     {
       "id": "te:markets:583240",
       "time": "2026-09-11 22:31:27",
@@ -125247,89 +125275,6 @@
         "MKT News"
       ],
       "text": "Dunkirk LNG operator said a strike by French unions may affect terminal operations on Sept. 15."
-    },
-    {
-      "id": "5078002",
-      "time": "2026-09-04 22:36:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "CNBC資深主播裡克・桑泰利將於10月離職。"
-    },
-    {
-      "id": "5078001",
-      "time": "2026-09-04 22:36:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "敦刻爾克液化天然氣公司稱，法國工會罷工可能會影響9月15日的運營。"
-    },
-    {
-      "id": "5078000",
-      "time": "2026-09-04 22:35:51",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國股市早盤小幅走低 非農報告推高加息預期】美國就業增長強於預期，推動美國股市下跌，交易員加大了對美聯儲本月加息的押注。紐約時間10:13，標普500指數跌0.3%，納斯達克100指數上漲0.3%，道指跌0.5%。股市暫緩此前連續兩日的上漲勢頭，此前這波漲勢曾將標普500指數推至接近歷史高點。美國最新公佈的非農就業人數激增，失業率保持穩定。高盛資產管理旗下Innovator ETFs的Tim Urbanowicz表示：“今天的報告很強勁，市場可能會採取‘先反應、後提問’的方式。但塵埃落定後，我們認為投資者會意識到，勞動力市場再平衡的大趨勢仍然完好。”"
-    },
-    {
-      "id": "5077999",
-      "time": "2026-09-04 22:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭媒體：維特科夫心生忌憚，特朗普特使首次基輔之行存變數。一位知情人士表示：俄方不希望他們前往基輔，而維特科夫向來對俄方態度十分敏感。有訊息告知他們此行存在危險。"
-    },
-    {
-      "id": "mkt:01a06cd7-70ad-7118-84a8-73e73ea6f371",
-      "time": "2026-09-04 22:34:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said bank sanctions would depend on actions by the international community."
-    },
-    {
-      "id": "5077998",
-      "time": "2026-09-04 22:34:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：銀行制裁取決於國際社會的行動。"
-    },
-    {
-      "id": "mkt:01a06cd7-2a39-7118-84a8-6ba5f2ffb561",
-      "time": "2026-09-04 22:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury hopes no further banks will need to be sanctioned."
-    },
-    {
-      "id": "5077997",
-      "time": "2026-09-04 22:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局表示，截至目前，尚未收到與Foods Alive召回事件相關的患病報告。"
-    },
-    {
-      "id": "5077996",
-      "time": "2026-09-04 22:33:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：我們希望不會再有銀行需要受到制裁。"
-    },
-    {
-      "id": "5077995",
-      "time": "2026-09-04 22:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：Foods Alive因潛在沙門氏菌汙染召回8盎司裝有機辣木葉粉。"
     }
   ]
 }
