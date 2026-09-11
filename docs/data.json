@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-11 23:08:10",
-  "count": 13640,
+  "updated": "2026-09-11 23:12:10",
+  "count": 13633,
   "items": [
+    {
+      "id": "te:markets:583247",
+      "time": "2026-09-11 23:08:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Apple Stock Price Hits 6-week High — Apple shares increased to 335.74 USD, the highest since July 2026. Over the past 4 weeks, Apple gained 10.98%, and in the last 12 months, it increased 43.3%."
+    },
     {
       "id": "mkt:01a09102-22c3-7118-854e-b093aa7206c9",
       "time": "2026-09-11 23:07:11",
@@ -125064,78 +125076,6 @@
         "公司"
       ],
       "text": "【蘋果開啟John Ternus時代 史上最龐大產品陣容蓄勢待發】過去15年的大部分時間裡，蘋果公司一直致力於完善現有產品線，並推出各種服務，以創造更多經常性收入。期間也出現了Apple Watch和AirPods等少數全新裝置類別，但蘋果並沒有源源不斷地推出新產品概念。這種局面即將改變，起點就是下週蘋果將於9月9日舉行的“驚喜閃耀”(Surprise and Shine)活動。新任執行長John Ternus屆時將登臺釋出最新款iPhone和Apple Watch，但這僅僅是開始。蘋果即將開啟公司歷史上規模最大的一輪裝置釋出潮，在2026年、2027年及以後推出一系列全新產品形態，並進軍多個全新的產品領域。過去五年來，蘋果一直在為這一系列產品進行準備，Ternus也宣揚一個創新新時代即將開啟。他週二在給員工的信中寫道，“想到我們接下來準備的一切，我感到無比興奮。下週我們將舉行一場大型釋出會，肯定會非常精彩。對於更遠的未來，我同樣充滿期待，其中既包括已經在開發中的那些令人驚歎的產品，也包括那些我們甚至還未曾想象過的產品。”"
-    },
-    {
-      "id": "mkt:01a06cf9-ba75-7118-84a8-f2eb5c3c782a",
-      "time": "2026-09-04 23:11:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei reports Japan's Defence Ministry plans to partner with domestic firms to build test satellites in FY2027–29."
-    },
-    {
-      "id": "5078043",
-      "time": "2026-09-04 23:11:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦軍方說過去三天打死48名恐怖分子】巴基斯坦三軍新聞局4日發表宣告說，過去三天，巴安全部隊在該國西南部俾路支省各地開展多次反恐行動，共打死48名恐怖分子。宣告說，安全部隊在俾路支省默斯東地區開展行動，擊斃了6名恐怖分子，繳獲並銷燬了一批彈藥和簡易爆炸裝置。在奎達地區，安全部隊發現4處恐怖分子藏匿點，打死26名恐怖分子。在格拉德地區，安全部隊打死14名恐怖分子。此外，在錫比地區，安全部隊挫敗了恐怖分子襲擊當地警察局的圖謀，2名恐怖分子被擊斃。（新華社）"
-    },
-    {
-      "id": "mkt:01a06cf9-4487-7118-84a8-ea557d295020",
-      "time": "2026-09-04 23:11:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Allianz analyst: stable jobs and negative real wage growth complicate Fed rate decision】Charlie Ripley at Allianz Investment Management said in a note that August payrolls rose 162,000, a result that—despite monthly volatility—reinforces a pattern of weak jobs growth and low labor mobility. Wage growth slowed to a 3.09% YoY low; adjusted for inflation, real wages have turned negative. Ripley said consumers are feeling the squeeze and further Fed hikes risk over-tightening. He added the August report materially changed market odds for a September rate hike, but the outcome remains uncertain."
-    },
-    {
-      "id": "5078042",
-      "time": "2026-09-04 23:11:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "瓦羅普雷姆確認關停瑞士克雷西耶煉油廠。"
-    },
-    {
-      "id": "5078041",
-      "time": "2026-09-04 23:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本計劃部署的人工智慧驅動衛星將於2030財年或之後發射入太空，以測試其功能。"
-    },
-    {
-      "id": "5078040",
-      "time": "2026-09-04 23:09:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本防衛省計劃在2027財年至2029財年期間與日本民營企業合作研製試驗衛星。"
-    },
-    {
-      "id": "5078039",
-      "time": "2026-09-04 23:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本計劃部署人工智慧驅動衛星加快反擊決策速度。"
-    },
-    {
-      "id": "5078038",
-      "time": "2026-09-04 23:08:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "RobinhoodCEO 弗拉德・特涅夫表示：我們支援股票代幣業務"
     }
   ]
 }

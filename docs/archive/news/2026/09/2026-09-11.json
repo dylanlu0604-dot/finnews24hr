@@ -1,7 +1,19 @@
 {
   "date": "2026-09-11",
-  "count": 2475,
+  "count": 2476,
   "items": [
+    {
+      "id": "te:markets:583247",
+      "time": "2026-09-11 23:08:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Apple Stock Price Hits 6-week High — Apple shares increased to 335.74 USD, the highest since July 2026. Over the past 4 weeks, Apple gained 10.98%, and in the last 12 months, it increased 43.3%."
+    },
     {
       "id": "mkt:01a09102-22c3-7118-854e-b093aa7206c9",
       "time": "2026-09-11 23:07:11",
