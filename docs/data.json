@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-12 04:44:44",
-  "count": 13477,
+  "updated": "2026-09-12 04:48:34",
+  "count": 13480,
   "items": [
+    {
+      "id": "5090387",
+      "time": "2026-09-12 04:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "海灣合作委員會秘書長宣告稱，伊拉克必須採取必要且堅決的措施，以防止襲擊事件發生。"
+    },
+    {
+      "id": "5090386",
+      "time": "2026-09-12 04:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特稱石油管道襲擊事件的無人機來自伊拉克。"
+    },
+    {
+      "id": "mkt:01a09238-0d60-7118-8551-c991f521108f",
+      "time": "2026-09-12 04:45:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "GCC secretary-general condemned drone attacks launched from Iraq against Saudi Arabia’s East-West crude oil pipeline and urged the Iraqi government to take necessary, decisive measures to stop the strikes."
+    },
     {
       "id": "5090385",
       "time": "2026-09-12 04:43:19",
