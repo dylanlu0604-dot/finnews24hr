@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-11 22:28:19",
-  "count": 13665,
+  "updated": "2026-09-11 22:32:22",
+  "count": 13662,
   "items": [
+    {
+      "id": "te:markets:583240",
+      "time": "2026-09-11 22:31:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 7-week Low — Lockheed Martin shares decreased to 524.00 USD, the lowest since July 2026. Over the past 4 weeks, Lockheed Martin lost 12.25%, and in the last 12 months, it increased 11.43%."
+    },
+    {
+      "id": "mkt:01a090e0-7058-7118-854e-60e8e7552844",
+      "time": "2026-09-11 22:30:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【UAE to invest €40bn in Germany, plans ~1 GW new data center capacity】During a state visit to Germany this week the UAE announced plans to invest €40 billion ($46.4 billion) to deepen economic ties, targeting AI, digital infrastructure and energy, and signaling closer defense cooperation. The package includes roughly 1 GW of additional data center capacity and about €10 billion earmarked for Bavaria. Officials said the move is part of the UAE’s effort to diversify overseas investment away from oil."
+    },
+    {
+      "id": "5090124",
+      "time": "2026-09-11 22:28:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比Masdar簽署合作協議，可能會向德國能源輸送行業投資80億歐元。"
+    },
     {
       "id": "5090123",
       "time": "2026-09-11 22:27:06",
@@ -125297,69 +125330,6 @@
         "國際"
       ],
       "text": "美國食品藥品監督管理局：Foods Alive因潛在沙門氏菌汙染召回8盎司裝有機辣木葉粉。"
-    },
-    {
-      "id": "5077994",
-      "time": "2026-09-04 22:32:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克： 我們取得了長足發展，特斯拉 IPO 時的市值僅為當前市值的千分之一。"
-    },
-    {
-      "id": "5077993",
-      "time": "2026-09-04 22:31:32",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "貝萊德：美國8月就業增長大幅超出預期，凸顯下週公佈的消費者價格指數（CPI）資料的重要性。"
-    },
-    {
-      "id": "mkt:01a06cd4-b959-7118-84a8-67b4261d287d",
-      "time": "2026-09-04 22:31:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【BlackRock: Jobs surprise makes upcoming CPI pivotal for Fed's September decision】BlackRock portfolio manager Jeff Rosenberg said U.S. August payrolls came in well above expectations, increasing the market importance of next Tuesday's CPI (Sept. 11) as Fed officials weigh a September rate hike. He said the strong jobs print confirms a firm labor market and refocuses pressure on inflation: whether inflation is rising or not falling fast enough will determine a September hike; if the Sept. 11 CPI shows continued improvement, he expects policymakers to keep rates unchanged."
-    },
-    {
-      "id": "5077992",
-      "time": "2026-09-04 22:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海傅立葉半導體將被納入恒生綜合指數。"
-    },
-    {
-      "id": "5077991",
-      "time": "2026-09-04 22:29:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券總經理：公司正與國際大型投行在產品體系上展開全面對標】 中信股份攜旗下中信證券等上市公司，首次走進上海證券交易所路演大廳，舉行2026年中期業績聯合釋出會。在本次聯合釋出會上，中信證券執行董事、總經理鄒迎光，對2026年中期業績創歷史新高、以及公司完成H股定向增發進行了整體回應。鄒迎光表示，受益於政策護航，資本市場穩中向好，今年上半年，中信證券營業收入與淨利潤均創半年度歷史新高，市場地位進一步鞏固。“伴隨國際化程序加速推進，我們正與國際大型投行在全球網路、生態和產品體系上展開全面對標。”（澎湃）"
-    },
-    {
-      "id": "mkt:01a06cd3-2449-7118-84a8-58bb961d3f06",
-      "time": "2026-09-04 22:29:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) shares widened losses to 6.3% after the official launch of the Cybercab."
     }
   ]
 }

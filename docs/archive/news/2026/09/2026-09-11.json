@@ -1,7 +1,40 @@
 {
   "date": "2026-09-11",
-  "count": 2434,
+  "count": 2437,
   "items": [
+    {
+      "id": "te:markets:583240",
+      "time": "2026-09-11 22:31:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 7-week Low — Lockheed Martin shares decreased to 524.00 USD, the lowest since July 2026. Over the past 4 weeks, Lockheed Martin lost 12.25%, and in the last 12 months, it increased 11.43%."
+    },
+    {
+      "id": "mkt:01a090e0-7058-7118-854e-60e8e7552844",
+      "time": "2026-09-11 22:30:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【UAE to invest €40bn in Germany, plans ~1 GW new data center capacity】During a state visit to Germany this week the UAE announced plans to invest €40 billion ($46.4 billion) to deepen economic ties, targeting AI, digital infrastructure and energy, and signaling closer defense cooperation. The package includes roughly 1 GW of additional data center capacity and about €10 billion earmarked for Bavaria. Officials said the move is part of the UAE’s effort to diversify overseas investment away from oil."
+    },
+    {
+      "id": "5090124",
+      "time": "2026-09-11 22:28:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比Masdar簽署合作協議，可能會向德國能源輸送行業投資80億歐元。"
+    },
     {
       "id": "5090123",
       "time": "2026-09-11 22:27:06",
