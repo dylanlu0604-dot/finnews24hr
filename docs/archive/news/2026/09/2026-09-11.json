@@ -1,7 +1,178 @@
 {
   "date": "2026-09-11",
-  "count": 825,
+  "count": 843,
   "items": [
+    {
+      "id": "5088569",
+      "time": "2026-09-11 09:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機襲擊了俄羅斯電商平臺Ozon在薩拉托夫的物流中心並引發火災。"
+    },
+    {
+      "id": "5088568",
+      "time": "2026-09-11 09:38:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.03%，成分股中，艾融軟體跌6.45%，銅冠礦建跌5.36%，並行科技跌4.01%，廣信科技跌3.19%。"
+    },
+    {
+      "id": "mkt:01a08e1d-5a38-7118-8539-0bc28459cade",
+      "time": "2026-09-11 09:38:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures plunged intraday, initially down nearly 1.5%."
+    },
+    {
+      "id": "mkt:01a08e1d-43d2-7118-8539-0088d2c790e6",
+      "time": "2026-09-11 09:37:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Most-active precious metals futures fall】SHFE Au2610 down 1.72% at 938.56 yuan/gram. SHFE Ag2610 down 5.53% at 15,517 yuan/kg. SHFE Pt2610 down 5.42% at 433.3 yuan/gram. SHFE Pd2610 down 4.51% at 302.9 yuan/gram."
+    },
+    {
+      "id": "5088567",
+      "time": "2026-09-11 09:37:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：加快完善充換電基礎設施，科學合理佈局大功率充電設施】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，強化汽車與能源融合發展。加快完善充換電基礎設施，科學合理佈局大功率充電設施，補強農村充電設施建設短板，持續提升充換電服務效能。加快推進車網互動規模化應用，探索可持續商業模式。推動新能源汽車與綠色電力、綠色氫能協同發展，加強新能源重卡在幹線物流、特定場所短途運輸等場景的推廣應用。"
+    },
+    {
+      "id": "5088566",
+      "time": "2026-09-11 09:37:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC概念異動拉昇 雙星新材直線漲停】早盤MLCC概念異動拉昇，雙星新材直線漲停，昀冢科技、風華高科、國瓷材料、潔美科技漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a08e1c-c3b5-7118-8538-fbb7df698ef8",
+      "time": "2026-09-11 09:37:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share pork sector opened weaker; Keming Foods hit the limit-down, with Jingji Zhinong, Boen Group, Tianyu Biotech, Shennong Group, Haida Group and Bangji Technology also lower."
+    },
+    {
+      "id": "5088565",
+      "time": "2026-09-11 09:36:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5088564",
+      "time": "2026-09-11 09:36:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7422.20點。"
+    },
+    {
+      "id": "5088563",
+      "time": "2026-09-11 09:36:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7422.20點。"
+    },
+    {
+      "id": "5088562",
+      "time": "2026-09-11 09:36:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7546.00點。"
+    },
+    {
+      "id": "5088561",
+      "time": "2026-09-11 09:36:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7546.00點。"
+    },
+    {
+      "id": "5088560",
+      "time": "2026-09-11 09:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：推動全國範圍內交通訊號燈、交通標誌、交通標線等交通設施裝置數字化升級】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，促進汽車與交通、城市融合發展。推動全國範圍內交通訊號燈、交通標誌、交通標線等交通設施裝置數字化升級，因地制宜開展路側感知設施規模化部署，推動跨行業資訊平臺互聯互通。加速自動駕駛重點場景示範應用，推動自動駕駛與物流、出行深度融合。"
+    },
+    {
+      "id": "te:markets:582956",
+      "time": "2026-09-11 09:36:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 7-week Low — SHANGHAI 50 decreased to 2857.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Shanghai 50 lost 2.31%, and in the last 12 months, it decreased 4.05%."
+    },
+    {
+      "id": "5088559",
+      "time": "2026-09-11 09:36:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1%】上證指數跌1.35%，現報3881.207點；深證成指跌1.26%，現報13446.262點；創業板指跌1.02%，現報3304.464點。"
+    },
+    {
+      "id": "5088558",
+      "time": "2026-09-11 09:35:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "食品等消費股開盤下挫，克明食品跌停，海欣食品、安記食品、萬辰集團、歡樂家、三全食品跟跌。"
+    },
+    {
+      "id": "mkt:01a08e1b-3edd-7118-8538-f30239f94e16",
+      "time": "2026-09-11 09:35:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share retail sector rallied in early trade; Zhongbai Group and Nanning Department Store hit the daily limit, with Guoguang Chain, Guofang Group, Dongbai Group, Youhao Group, Central Mall and Xinhua Department Store following higher."
+    },
+    {
+      "id": "5088557",
+      "time": "2026-09-11 09:35:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
     {
       "id": "mkt:01a08e1a-d778-7118-8538-eb745f993ee0",
       "time": "2026-09-11 09:35:18",
