@@ -1,7 +1,32 @@
 {
   "date": "2026-09-12",
-  "count": 269,
+  "count": 272,
   "items": [
+    {
+      "id": "mkt:01a09248-70cc-7118-8551-e5add1aeca3c",
+      "time": "2026-09-12 05:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH affirms Italy's sovereign rating at 'BBB+'; outlook stable."
+    },
+    {
+      "id": "5090395",
+      "time": "2026-09-12 05:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持義大利“BBB+”評級，展望穩定。"
+    },
+    {
+      "id": "mkt:01a09247-40c1-7118-8551-ddc932666384",
+      "time": "2026-09-12 05:02:18",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Market sources: ORACLE (ORCL.N) will invest an additional $700 mln in its restructuring plan."
+    },
     {
       "id": "5090394",
       "time": "2026-09-12 04:58:46",
