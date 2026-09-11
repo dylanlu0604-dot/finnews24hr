@@ -1,7 +1,306 @@
 {
   "date": "2026-09-11",
-  "count": 2476,
+  "count": 2508,
   "items": [
+    {
+      "id": "5090173",
+      "time": "2026-09-11 23:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇半個月後辭職】9月11日，塞爾維亞總統武契奇表示，他從聯合國大會返回後，將於9月25日或26日辭去總統職務，轉而參加議會選舉的競選活動。塞爾維亞執政的前進黨總委員會日前決定，推舉武契奇為該黨議會選舉名單領銜人和總理候選人。武契奇隨後接受推舉。9月9日，武契奇簽署總統令解散議會，並宣佈於10月25日提前舉行議會選舉。（CCTV國際時訊）"
+    },
+    {
+      "id": "5090172",
+      "time": "2026-09-11 23:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：美國中央司令部稱，庫珀上將正在沙烏地阿拉伯舉行會議，就胡塞武裝近期在葉門的攻勢開展協調工作。"
+    },
+    {
+      "id": "5090171",
+      "time": "2026-09-11 23:57:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國天然氣期貨本週漲超11%】週五（9月11日）歐市尾盤，ICE英國天然氣期貨跌2.71%，報199.520便士/千卡，本週累計上漲11.67%，9月8-10日持續走高。TTF基準荷蘭天然氣期貨跌2.78%，報80.147歐元/兆瓦時，本週累漲10.13%。ICE歐盟碳排放交易許可（期貨價格）漲0.06%，報85.33歐元/噸，本週累漲2.02%。"
+    },
+    {
+      "id": "te:markets:583258",
+      "time": "2026-09-11 23:57:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Finishes Higher, Still Posts Weekly Loss — Frankfurt's DAX 40 rose further to close about 0.8% firmer at 25,557 on Friday, halting a two-day decline, helped by falling oil prices and tech strength. However, investors remained concerned about inflation and the prospect of higher rates, amid ongoing geopolitical tensions Latest data showed US inflation remains stubbornly high due to energy price pressures stemming from the Middle East. Traders are increasingly anticipating a 25 bps rate hike next week, similar to the ECB's recent move. Infineon Technologies outperformed, jumping 4.8%, supported by Oracle’s strong AI demand. Siemens Energy and Hochtief followed, rising 2.4% and 1.7%, respectively. Other top performers included Siemens, Deutsche Telekom, Sccout24 and Airbus. Commerzbank rose 1.5% after the German government set conditions for UniCredit’s proposed takeover. On the flip side, BASF (-2.8%), Rheinmetall (-2.5%) and Henkel (-1.9%) emerged as the biggest laggards. For the week, the index posted a 1.9% loss."
+    },
+    {
+      "id": "mkt:01a0912d-52a9-7118-854e-e7103b6d3a6b",
+      "time": "2026-09-11 23:54:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IIF: Year-to-date through August, emerging-market debt inflows totaled $242.9bn, up from $212.0bn a year earlier; emerging-market equity outflows were $88.1bn, versus $7.4bn a year earlier."
+    },
+    {
+      "id": "mkt:01a0912c-633f-7118-854e-d90de1c9ec56",
+      "time": "2026-09-11 23:53:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Institute of International Finance (IIF) said emerging-market debt funds recorded $11.2bn of inflows in August; emerging-market equity inflows were virtually unchanged at $100m."
+    },
+    {
+      "id": "5090170",
+      "time": "2026-09-11 23:51:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：截至 8 月，2026 年新興市場債務資金流入達 2429 億美元，去年同期為 2120 億美元；新興市場股票資金流出 881 億美元，去年同期為 74 億美元。"
+    },
+    {
+      "id": "5090169",
+      "time": "2026-09-11 23:51:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：8 月非居民向新興市場投資組合淨增持 113 億美元，為連續第二個月實現資金流入。"
+    },
+    {
+      "id": "5090168",
+      "time": "2026-09-11 23:51:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：8 月新興市場債務資金流入 112 億美元，股票資金流入基本持平，為 10 億美元。"
+    },
+    {
+      "id": "5090167",
+      "time": "2026-09-11 23:51:08",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【知名策略師認為美國中期選舉前汽油價格達到5美元的風險“極高”】資深大宗商品策略師Jeff Currie表示，美國汽油平均價格在中期選舉前幾乎肯定會達到每加侖5美元，原因是供應稀缺與貨幣貶值形成了危險的疊加效應。Real Macro創始人兼執行長Currie表示，最初出現在成品油領域的短缺如今正在向上遊蔓延至原油，能源衝擊正進入一個危險的新階段。Currie此前在高盛集團任職，並由此在華爾街聲名鵲起。Currie週五接受採訪時表示：“原油才是訊號，而現在我們談到的成品油，它們只是噪音。”"
+    },
+    {
+      "id": "5090166",
+      "time": "2026-09-11 23:50:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "XRG、阿布扎比國家石油公司（ADNOC）與 SEFE 簽署諒解備忘錄，為德國及歐洲探尋天然氣、液化天然氣供應、基礎設施與航運合作機遇。"
+    },
+    {
+      "id": "te:markets:583256",
+      "time": "2026-09-11 23:45:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up from 7-Week Low — The FTSE 100 rose 0.4% on Friday, recovering from a seven-week low reached in the previous session, after stronger-than-expected economic data boosted sentiment. UK GDP expanded 0.4% in July following 0.3% growth in June, well above economists’ expectations for no growth and marking the third consecutive month in which activity exceeded forecasts. The figures suggest the UK economy may prove more resilient than expected in the second half of 2026. Sentiment was also supported by a decline in oil prices, with Brent falling below $105 a barrel and crude slipping under $100, although prices remain elevated. In the US, stronger-than-expected core CPI reinforced expectations of a potential rate hike. Banks led gains, with HSBC Holdings up 1.4%, Barclays 1.7% and Lloyds Banking Group 1.3%, while Rolls-Royce added 1.7%. BAE Systems fell more than 1%. Despite Friday’s recovery, the FTSE 100 ended the week around 1.7% lower."
+    },
+    {
+      "id": "5090165",
+      "time": "2026-09-11 23:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：防空部隊正在首都開展行動，請留在防空掩體！"
+    },
+    {
+      "id": "mkt:01a0911f-bc86-7118-854e-d355592bb21a",
+      "time": "2026-09-11 23:39:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Mercuria and Glencore are competing to acquire Venezuela's largest aluminum smelter, VENALUM."
+    },
+    {
+      "id": "5090164",
+      "time": "2026-09-11 23:39:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉官員：委內瑞拉與蘇利南簽署石油、天然氣、漁業、交通及旅遊相關協議。"
+    },
+    {
+      "id": "5090163",
+      "time": "2026-09-11 23:35:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋阿布扎比國家石油公司、XRG 公司與馬斯達爾簽署協議，同德國企業擴大在能源、工業及先進技術領域的合作。相關協議有望撬動超過 50 億歐元的投資。"
+    },
+    {
+      "id": "5090161",
+      "time": "2026-09-11 23:34:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行貨幣政策委員Dabrowski： 利率將維持不變直至 2027 年第二季度。波蘭降息機率略高於加息。"
+    },
+    {
+      "id": "mkt:01a0911b-2bb0-7118-854e-ca475151439a",
+      "time": "2026-09-11 23:34:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dabrowski, Monetary Policy Council member at the Polish central bank, said a rate cut is slightly more likely than a hike and expects interest rates to remain unchanged in Q2 2027."
+    },
+    {
+      "id": "5090160",
+      "time": "2026-09-11 23:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京與南非總統舉行會談。"
+    },
+    {
+      "id": "te:markets:583253",
+      "time": "2026-09-11 23:32:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Pares Gains — Brent crude fell below $105 a barrel on Friday after Iranian state media reported plans for talks with Gulf states in Oman, suggesting diplomatic efforts are emerging despite a sharp escalation in tensions over the past week. Top diplomats from the six-member Gulf Cooperation Council are expected to meet their Iranian counterpart on Monday to discuss a possible temporary arrangement for managing shipping through the Strait of Hormuz. Meanwhile, the International Energy Agency sharply lowered its outlook for global oil demand, forecasting a 2.5 million-barrel-a-day contraction in 2026, the largest annual decline since the Covid-19 pandemic, as higher prices and tighter supplies weigh on consumption. The IEA warned demand could weaken further if the conflict persists, while OPEC cut its 2026 demand-growth forecast for a fifth consecutive time. Despite Friday’s decline, Brent rose for a second week as Houthi threats to Saudi Arabia continue to raise supply concerns."
+    },
+    {
+      "id": "te:markets:583252",
+      "time": "2026-09-11 23:31:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Pares Gains — Crude oil fell below $100 a barrel on Friday after Iranian state media reported plans for talks with Gulf states in Oman, suggesting diplomatic efforts are emerging despite a sharp escalation in tensions over the past week. Top diplomats from the six-member Gulf Cooperation Council are expected to meet their Iranian counterpart on Monday to discuss a possible temporary arrangement for managing shipping through the Strait of Hormuz. Meanwhile, the International Energy Agency sharply lowered its outlook for global oil demand, forecasting a 2.5 million-barrel-a-day contraction in 2026, the largest annual decline since the Covid-19 pandemic, as higher prices and tighter supplies weigh on consumption. The IEA warned demand could weaken further if the conflict persists, while OPEC cut its 2026 demand-growth forecast for a fifth consecutive time. Despite Friday’s decline, oil rose for a second week as Houthi threats to Saudi Arabia continue to raise supply concerns."
+    },
+    {
+      "id": "5090159",
+      "time": "2026-09-11 23:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.68%，報25532.81點，本週累跌大約2%。法國股指初步收漲0.67%，義大利股指初步收漲1.10%、銀行指數漲1.55%，英國股指初步收漲0.26%。"
+    },
+    {
+      "id": "5090158",
+      "time": "2026-09-11 23:31:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.41%，報638.54點，本週累計下跌大約1.7%。歐元區STOXX 50指數初步收漲0.71%，報6313.28點，本週累跌約1.2%。富時泛歐績優300指數初步收漲0.39%，報2550.79點。"
+    },
+    {
+      "id": "te:economy:583251",
+      "time": "2026-09-11 23:30:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: New Zealand 10Y Bond Yield Rises by 15 bps — Majority of government bonds yields are higher on Friday. Top gainers are New Zealand 10Y (15.47bps), Australia 10Y (10.70bps), Japan 10Y (6.90bps) and Germany 10Y (0.62bps). Biggest losers are Brazil 10Y (-10.75bps) and US 10Y (-3bps)."
+    },
+    {
+      "id": "mkt:01a09116-2f55-7118-854e-c2c2dd55b373",
+      "time": "2026-09-11 23:29:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O): Semi truck set to enter European market imminently."
+    },
+    {
+      "id": "5090157",
+      "time": "2026-09-11 23:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stellantis 將投資超 10 億歐元，在法國生產新款廂式貨車。"
+    },
+    {
+      "id": "5090156",
+      "time": "2026-09-11 23:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：Semi 電動卡車即將登陸歐洲。"
+    },
+    {
+      "id": "5090155",
+      "time": "2026-09-11 23:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：GTCR 正洽談收購軟體廠商 SPS Commerce。"
+    },
+    {
+      "id": "5090154",
+      "time": "2026-09-11 23:23:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股市有望結束6月以來最長連跌 科技股受甲骨文提振】美國股市在動盪一週的最後階段迎來上漲，油價下跌緩和了對通脹壓力的擔憂。紐約時間11:02，標普500指數和道指上漲0.8%，納斯達克100指數上漲0.9%。美股有望結束6月以來最長的連跌走勢。美國消費者價格指數顯示，在伊朗戰爭、關稅以及資料中心建設帶來的持續壓力下，美國通脹上月朝美聯儲目標回落的進展仍然有限。不過，22V Research的Peter Williams表示，市場反應似乎表明，在投資者擔憂政策過度寬鬆或進一步加劇通脹的背景下，通脹資料“剛好偏熱到足以促使美聯儲收緊政策”，反而可能是一件好事。Lombard Odier Investment Managers的Florian Ielpo表示：“這顯然不是市場此前擔心的那種通脹報告，但也並不足以徹底地解決有關美國通脹的問題。”與此同時，甲骨文雲端計算業務增速快於預期，為科技股交易帶來新的提振。微軟計劃將資料中心容量擴大至目前的三倍以上，也被市場視為積極訊號。"
+    },
+    {
+      "id": "5090151",
+      "time": "2026-09-11 23:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院計劃於下週就俄羅斯制裁法案進行全院投票。"
+    },
+    {
+      "id": "mkt:01a0910d-2098-7118-854e-b98530b29eb2",
+      "time": "2026-09-11 23:19:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Sources say the U.S. House plans to vote next week on a Russia sanctions bill."
+    },
+    {
+      "id": "5090150",
+      "time": "2026-09-11 23:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：未來數小時黎巴嫩境內預計將發生襲擊，西加利利地區將聽到爆炸聲。"
+    },
     {
       "id": "te:markets:583247",
       "time": "2026-09-11 23:08:04",

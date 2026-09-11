@@ -1,0 +1,771 @@
+{
+  "date": "2026-09-12",
+  "count": 78,
+  "items": [
+    {
+      "id": "mkt:01a09187-6475-7118-854f-c3e3522b702e",
+      "time": "2026-09-12 01:32:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Globe and Mail reports Canadian AI firm Cohere is in advanced talks to raise up to $3 billion."
+    },
+    {
+      "id": "5090210",
+      "time": "2026-09-12 01:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大食品檢驗局：多明尼加共和國批准進口加拿大牛肉及牛肉製品（含內臟）。"
+    },
+    {
+      "id": "5090209",
+      "time": "2026-09-12 01:30:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：加拿大人工智慧公司 Cohere 正就最高 30 億美元融資進行深度談判。該交易將使該公司估值達到 200 億美元。"
+    },
+    {
+      "id": "5090208",
+      "time": "2026-09-12 01:24:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：雅詩蘭黛推進針對沃爾瑪仿冒產品的訴訟。"
+    },
+    {
+      "id": "mkt:01a0917f-bbb0-7118-854f-ba8449a307f9",
+      "time": "2026-09-12 01:24:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran source says Trump seeking return to talks】Al Mayadeen, citing a senior Iranian security and political source, reported Trump is seeking to return to negotiations with Iran. The source said Iran’s hardliners have concluded escalating military pressure will ultimately fail and that Tehran’s recent battlefield and military signals have already been priced by global energy markets; oil has reached $110/bbl and could rise further. The source listed as escalation signals strikes on regional US bases, a successful new anti-ship missile test, the Revolutionary Guard’s claim it captured an advanced US submarine, and Iran’s continuing closure of the Strait of Hormuz — the source said the latter two would further affect oil. The source added Trump is seeking to re-enter talks to secure a modest reduction in oil prices, but negotiations are possible only if the US accepts Iran’s conditions."
+    },
+    {
+      "id": "5090207",
+      "time": "2026-09-12 01:22:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮官員：俄羅斯官員將出席下週在休斯頓舉行的二十國集團能源會議。"
+    },
+    {
+      "id": "5090206",
+      "time": "2026-09-12 01:21:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：若能源價格持續上漲，可能會在秋季衝擊消費，該問題仍存在不確定性。"
+    },
+    {
+      "id": "mkt:01a0917c-634e-7118-854f-b3fcff8c70bf",
+      "time": "2026-09-12 01:20:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist Lane said if energy-price increases persist they could weigh on autumn consumption; the effect remains uncertain."
+    },
+    {
+      "id": "mkt:01a0917c-2d00-7118-854f-a8df460cdb52",
+      "time": "2026-09-12 01:20:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official said Russian officials will attend next week's G20 energy meeting in Houston."
+    },
+    {
+      "id": "em:qqyh_mlc:202609123872467732",
+      "time": "2026-09-12 01:19:15",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週五使用規模為52.55億美元（交易對手3家），上個交易日報47.36億美元。"
+    },
+    {
+      "id": "te:economy:583281",
+      "time": "2026-09-12 01:17:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Sep 14th — The potential for constructive dialogue regarding tanker flows between the GCC and Iran next week halted the surge in oil and gas prices at a time that financial markets fret over the inflationary outlook. Outcomes will impact global borrowing costs as the Federal Reserve sets interest rates. For economic data, the US will release retail sales, trade terms, and industrial production. Monetary policy announcements are also taking the spotlight in the UK and Japan. A busy week of data in the UK features its inflation, wages, and retail sales, while Germany publish its ZEW confidence indicator and the Euro Area will post its goods trade and industrial production. A series of key data for China includes industrial production, retail sales, unemployment, housing prices, and credit aggregates. Lastly, BRICS nations are due to meet."
+    },
+    {
+      "id": "mkt:01a09178-6a5c-7118-854f-a38fc14b8b64",
+      "time": "2026-09-12 01:16:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "The Federal Reserve accepted $5.255 billion from three counterparties in its fixed-rate reverse repurchase operations."
+    },
+    {
+      "id": "5090205",
+      "time": "2026-09-12 01:16:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（9月11日），美聯儲隔夜逆回購協議（RRP）使用規模為52.55億美元（交易對手3家），上個交易日報47.36億美元。"
+    },
+    {
+      "id": "te:markets:583280",
+      "time": "2026-09-12 01:14:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Holds Near 2-Year High — The Mexican peso strengthened to near 16.98 per US dollar, remaining close to the more than two-year high of 16.91 touched on September 4th, as Mexico’s industrial production rose 2.7% yearly in July 2026, the highest level since April 2024 and above expectations of a 1.8% gain. Gross fixed investment also rose 7.7% in June, beating expectations for a 4.8% increase. In its latest decision to keep the key interest rate unchanged at 6.50%, Banxico highlighted that the economy rebounded in 2Q26. This could support a more hawkish stance and attract higher foreign capital inflows through exports. Meanwhile, the dollar found support on expectations that the Federal Reserve could raise interest rates in September. Core US CPI increased slightly more than expected from the previous month, while headline inflation remained elevated amid higher energy costs. A Fed rate hike would narrow the US-Mexico interest-rate differential."
+    },
+    {
+      "id": "mkt:01a0916f-4af8-7118-854f-9f7915b1e04c",
+      "time": "2026-09-12 01:06:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said US oil and gas companies added drilling rigs for the first time in four weeks."
+    },
+    {
+      "id": "5090204",
+      "time": "2026-09-12 01:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：美國能源企業四周來首次增加鑽井平臺數量。"
+    },
+    {
+      "id": "mkt:01a0916b-c250-7118-854f-92123d607cda",
+      "time": "2026-09-12 01:02:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. total active rigs for the week to Sept. 11: 591, up from 588 the prior week."
+    },
+    {
+      "id": "mkt:01a0916b-9bf2-7118-854f-8d9749de2ea0",
+      "time": "2026-09-12 01:02:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Sep.11) | actual 591 | previous 588"
+    },
+    {
+      "id": "mkt:01a0916b-8503-7118-854f-85e5e003d672",
+      "time": "2026-09-12 01:02:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas rig count for the week to Sept. 11: 132, up from 130 the prior week."
+    },
+    {
+      "id": "mkt:01a0916b-5a86-7118-854f-78ff2e9f43e4",
+      "time": "2026-09-12 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Sep.11) | actual 132 | previous 130"
+    },
+    {
+      "id": "mkt:01a0916b-1b48-7118-854f-77f020094e98",
+      "time": "2026-09-12 01:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rigs totaled 591 in the week ended Sept. 11, up from 449 in the prior week (increase of 142 rigs)."
+    },
+    {
+      "id": "mkt:01a0916a-f423-7118-854f-69931991d521",
+      "time": "2026-09-12 01:01:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Sep.11) | actual 450 | previous 449"
+    },
+    {
+      "id": "5090203",
+      "time": "2026-09-12 01:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月11日當週石油鑽井數 450，前值 449。"
+    },
+    {
+      "id": "5090202",
+      "time": "2026-09-12 01:01:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月11日當週總鑽井數 591，前值 588。"
+    },
+    {
+      "id": "5090201",
+      "time": "2026-09-12 01:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月11日當週天然氣鑽井數 132，前值 130。"
+    },
+    {
+      "id": "5090200",
+      "time": "2026-09-12 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.39%，滬銅收跌0.20%，滬鋁收跌0.79%，滬鋅收跌0.95%，滬鉛收跌0.68%，滬鎳收跌0.89%，滬錫收跌2.35%。氧化鋁夜盤收跌2.12%，鋁合金收跌0.75%。不鏽鋼夜盤收跌0.84%。"
+    },
+    {
+      "id": "mkt:01a09166-15a7-7118-854f-61643d8ef005",
+      "time": "2026-09-12 00:56:21",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "A Peruvian minister said Peru and India have entered the final stage of free-trade negotiations and expect to conclude an agreement by 2027."
+    },
+    {
+      "id": "5090199",
+      "time": "2026-09-12 00:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "秘魯與印度進入自貿談判最後階段，部長稱目標在 2027 年達成協議。"
+    },
+    {
+      "id": "5090198",
+      "time": "2026-09-12 00:52:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲6美元，報14240美元/噸。LME期鋁收跌40美元，報3253美元/噸。LME期鋅收跌11美元，報3881美元/噸。LME期鉛收跌9美元，報1892美元/噸。LME期鎳收跌197美元，報16469美元/噸。LME期錫收跌980美元，報53364美元/噸。LME期鈷收跌530美元，報41850美元/噸。"
+    },
+    {
+      "id": "5090197",
+      "time": "2026-09-12 00:50:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價走勢反轉，最新下跌 1.1%。"
+    },
+    {
+      "id": "mkt:01a09160-6353-7118-854f-5e9e40835565",
+      "time": "2026-09-12 00:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. oil rig count for week to Sept. 11 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0915f-b377-7118-854f-5603f7cba428",
+      "time": "2026-09-12 00:49:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【White House weighing Defense Production Act to boost U.S. refining capacity】The White House is studying use of the Defense Production Act (DPA) to expand U.S. refining capacity as U.S.-Iran tensions expose vulnerability to global crude supply disruptions and price spikes. The proposal was discussed at a recent meeting between Trump and about a dozen U.S. refiners; no decision has been made. Refinery executives told the government federal funds would be better used to improve efficiency or expand existing plants rather than build new, costlier refineries that take years. Latest data show U.S. refinery utilization around 98%, near full capacity. U.S. national diesel prices have topped $6/gal for the first time and gasoline remains elevated. The White House says expanding refining capacity is a priority for Trump and his energy team and is evaluating regulatory reform, faster approvals and increased investment."
+    },
+    {
+      "id": "5090196",
+      "time": "2026-09-12 00:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京會見了埃及總統塞西。"
+    },
+    {
+      "id": "5090195",
+      "time": "2026-09-12 00:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，訊息人士稱，美國白宮正在考慮如何利用《國防生產法》擴大美國煉油能力，以應對燃料價格飆升。"
+    },
+    {
+      "id": "mkt:01a0915d-20a6-7118-854f-4c896d1b3d67",
+      "time": "2026-09-12 00:46:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin met with Egyptian President Sisi."
+    },
+    {
+      "id": "5090194",
+      "time": "2026-09-12 00:41:38",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院Warren發函給財政部長貝森特，質詢他“俄羅斯外長為何出席了近期在美國主辦的二十國集團（G20）會議”。"
+    },
+    {
+      "id": "mkt:01a09158-6def-7118-854f-41497ea96dca",
+      "time": "2026-09-12 00:41:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Sources say the White House is considering invoking the Defense Production Act to expand U.S. refining capacity to address a surge in fuel prices."
+    },
+    {
+      "id": "mkt:01a09158-2614-7118-854f-3fc2b741f7b9",
+      "time": "2026-09-12 00:41:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath cites sources saying Houthi forces' equipment in the Dhubab area came under heavy shelling."
+    },
+    {
+      "id": "mkt:01a09156-47bb-7118-854f-360e13576d64",
+      "time": "2026-09-12 00:39:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US officials confirm attack on Saudi east–west oil pipeline; pump stations damaged】Two US officials told CNN that Saudi Arabia’s key east–west oil pipeline system was struck by projectiles on Thursday. Preliminary analysis indicates pump stations beside the pipeline were hit; satellite imagery shows one pump station heavily fire-damaged and another with a smaller fire and smoke. Responsibility, damage to the pipeline itself and repair timing remain unclear; a US official said drones used in the attack came from the direction of Iraq. The east–west pipeline’s importance has risen since the outbreak of hostilities between the US and Iran: with Iran effectively closing the Strait of Hormuz, Saudi has rerouted about 5 mln bpd originally bound for Persian Gulf tankers via the pipeline to Yanbu on the Red Sea. Houthi forces have warned they will strike any Saudi vessels transiting Bab al‑Mandeb, putting the alternate export route at risk."
+    },
+    {
+      "id": "5090193",
+      "time": "2026-09-12 00:38:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗重申銅價 0–3 個月目標價為每噸 15000 美元。"
+    },
+    {
+      "id": "mkt:01a09155-9b2b-7118-854f-2ea272798076",
+      "time": "2026-09-12 00:38:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Citigroup reiterated its 0-3-month copper price target at $15,000/tonne."
+    },
+    {
+      "id": "5090192",
+      "time": "2026-09-12 00:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：沙烏地阿拉伯輸油管道週四遭襲擊】兩名知情美國官員透露，沙特一處關鍵輸油管道系統於週四遭到彈藥襲擊。一名美國官員稱，初步研判，遭打擊目標是管道配套泵站。週五拍攝的衛星影象顯示，其中一座泵站遭受嚴重火災損毀；週四另一座泵站的影像記錄到小型火情，冒出滾滾黑色濃煙。目前尚不明確襲擊實施方，也無法確認管道本體管線是否受損，但其中一名美國官員表示，發動襲擊的無人機來自伊拉克。多方訊息稱，現階段尚不清楚修復受損設施需要多久。"
+    },
+    {
+      "id": "mkt:01a09151-3e9f-7118-854f-24e094f62e4a",
+      "time": "2026-09-12 00:33:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CNN reported Saudi Arabia's oil pipeline was shelled yesterday."
+    },
+    {
+      "id": "mkt:01a09150-7fe8-7118-854f-1b6dafc72607",
+      "time": "2026-09-12 00:32:46",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "MSNBC reported US Commerce Secretary Lutnick, when asked about a $5,000 payment, cited the US government's holdings in Intel (INTC.O)."
+    },
+    {
+      "id": "5090191",
+      "time": "2026-09-12 00:32:31",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯一條石油管道週四遭炮彈襲擊。"
+    },
+    {
+      "id": "te:markets:583272",
+      "time": "2026-09-12 00:30:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Holds Steady — Cotton prices traded near 87 cents per pound, remaining around the same level after easing from a more than two-month high, as traders locked in profits and assessed demand and supply conditions. The latest WASDE report showed that the demand outlook remained unchanged, while production forecasts were revised 3% lower. Additionally, for the week ending September 8th, crop conditions worsened, with only 34% of US cotton crops rated good or excellent. The El Niño phenomenon is expected to persist through February 2027, potentially affecting crops across key producing regions. In India, below-average monsoon rainfall remains a concern after August precipitation came in 16% below normal, particularly as nearly half of the country’s farmland lacks irrigation. In contrast, the USDA’s weekly export sales report showed shipments of 73.9 hundred, rebounding after two consecutive weeks of declines."
+    },
+    {
+      "id": "5090190",
+      "time": "2026-09-12 00:30:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國商務部長在被問及 5000 美元補助事宜時，提及美國所持英特爾股份。"
+    },
+    {
+      "id": "mkt:01a0914d-c0e6-7118-854f-1270ebb7715d",
+      "time": "2026-09-12 00:29:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "MSNBC reported US Commerce Secretary Lutnick said the US could try to \"earn\" funds to finance $5,000 checks and would not rely on tax revenue."
+    },
+    {
+      "id": "5090189",
+      "time": "2026-09-12 00:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：美國或將嘗試為 5000 美元支票專案 “創收”。5000美元支票計劃不會依靠稅收資金。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609123872457117",
+      "time": "2026-09-12 00:27:54",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國第二季度家庭淨資產創紀錄環比增加12.803萬億美元】美聯儲資料顯示，美國第二季度家庭淨資產環比增加12.803萬億美元，第一季度增幅修正為7,929億美元。第二季度家庭淨資產的名義增量創1950年代有資料記錄以來最大。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609123872457117",
+      "time": "2026-09-12 00:27:54",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國第二季度家庭淨資產創紀錄環比增加12.803萬億美元】美聯儲資料顯示，美國第二季度家庭淨資產環比增加12.803萬億美元，第一季度增幅修正為7,929億美元。第二季度家庭淨資產的名義增量創1950年代有資料記錄以來最大。"
+    },
+    {
+      "id": "5090188",
+      "time": "2026-09-12 00:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門國防部：空軍已開始對此前公佈的殺傷區實施轟炸。我們要求民眾避開塔伊茲 - 穆哈公路以及穆哈 - 杜巴布公路。在另行通知前，民眾不得使用上述禁行道路。”"
+    },
+    {
+      "id": "mkt:01a09149-db22-7118-854f-0f0988cfd474",
+      "time": "2026-09-12 00:25:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's defence ministry spokesman said the air force has begun bombing previously announced strike areas and urged civilians to avoid the Taiz-Mocha and Mocha-Dhubab highways."
+    },
+    {
+      "id": "te:markets:583271",
+      "time": "2026-09-12 00:19:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks closed higher on Friday as energy prices eased off their peaks and halted the surge in long-term sovereign yields. The Euro STOXX 50 gained 0.8% to 6,323 and the STOXX Europe 600 added 0.5% to 639.1. GCC officials announced new efforts to meet with Iranian counterparts next week and discuss possibilities of corridors for tankers in the Persian Gulf. Banks and industrial surged as the pullback in energy prices and borrowing costs softened the tightening margins in their respective sectors. Santander, BBVA, and UniCredit jumped nearly 2% each, while Siemens and Safra added 2.5%. Meanwhile, Intesa Sanpaolo rose 2.6% as Rome stated it would refrain from interfering in the lender's takeover bid for Banca MPS. Tech stocks also advanced, with Infineon surging 5% Still, the STOXX 50 fell 1% and the STOXX 600 dropped 1.6% on the week on broader concerns of macro headwinds from higher energy prices and rates. The ECB hiked its rates yesterday, and markets price more tightening."
+    },
+    {
+      "id": "5090187",
+      "time": "2026-09-12 00:18:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國第二季度家庭淨資產創紀錄環比增加12.803萬億美元】美聯儲資料顯示，美國第二季度家庭淨資產環比增加12.803萬億美元，第一季度增幅修正為7,929億美元。第二季度家庭淨資產的名義增量創1950年代有資料記錄以來最大。"
+    },
+    {
+      "id": "te:economy:583269",
+      "time": "2026-09-12 00:18:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Inflation Rate Rises as Expected — Russia's annual inflation rate rose to 6.3% in August 2026, its highest level since November of 2025, up from 6% in the previous month and matching markets expectations. Food inflation rose to 5% from 4.4% while non-food cost growth also inched higher to 6.5% from 6.4%. Motor gasoline inflation slowed to 24.6% from 25.9%, although remaining elevated as Ukrainian attacks on Russian energy infrastructure hampered its refining capacity. In turn, inflation for passanger transports rose further to 10.7% from 9.1% in the prior month, while services inflation edged up to 7.9% from 7.8%. Core inflation also rose to 5.4% from 5.2%, reaching its highest level in seven months. Meanwhile, inflation for utilities remained largely unchanged at 1.6%. Compared to the previous month, consumer prices fell 0.1%, reversing a 0.5% rise in the prior month."
+    },
+    {
+      "id": "5090186",
+      "time": "2026-09-12 00:17:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 高管：隨著公司業務擴張，預計計算與企業人工智慧業務將佔到伺服器 CPU 當前整體市場的 50%。"
+    },
+    {
+      "id": "5090185",
+      "time": "2026-09-12 00:16:19",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲下週加息幾成定局 手機資費大漲或是關鍵推手】美國手機服務價格漲幅創紀錄，推動一項關鍵通脹指標高於預期，可能進而鎖定了美聯儲下週加息的決定。美國勞工統計局週五公佈的資料顯示，8月份剔除食品和能源後的核心消費者價格指數環比上漲0.3%，高於彭博調查預估中值0.2%。其中，無線電話服務價格單月上漲5.9%，單這一項就為核心CPI貢獻了約0.1個百分點。這一分項主要反映移動運營商提供的預付費和月度套餐價格。美國銀行、巴克萊和Pantheon Macroeconomics的經濟學家指出，AT&T和T-Mobile US等主要運營商近期調整資費方案，可能是推高該分項的主要原因。美國勞工統計局拒絕進一步說明這些運營商的調整具體如何影響該資料。"
+    },
+    {
+      "id": "te:markets:583268",
+      "time": "2026-09-12 00:15:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises as Oil Prices Ease — The CAC 40 rose 0.8% to close at 8,180 on Friday, rebounding from two straight sessions of losses as oil prices pulled back. Prospects for diplomatic efforts to ease tensions around the Strait of Hormuz dragged crude prices lower. Gulf foreign ministers are expected to meet their Iranian counterpart in Oman on Monday as part of efforts to secure support for a temporary arrangement to manage shipping through the strait. The halt in the surge in energy prices allowed equities to enjoy some respite. Luxury stocks closed mostly higher as risk aversion eased, with LVMH adding 2.2%, L’Oréal up 1.1% and Kering rising 1.9%. Industrials also posted gains across multiple subsectors, with Airbus up 1.8%, Safran rising 2.5%, Schneider Electric adding 1.3%, STMicroelectronics gaining 2.4% and Stellantis advancing 3.1%. Financials also moved higher, with BNP Paribas and Société Générale each up 1.1%. Despite Friday’s rebound, the CAC 40 lost 1.4% on the week."
+    },
+    {
+      "id": "5090184",
+      "time": "2026-09-12 00:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：俄美烏或在近期舉行三方會晤】當地時間9月11日，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。他還補充說，就烏克蘭問題談判本身，沒有人為舉行談判預設條件，俄羅斯保持開放態度。（央視新聞）"
+    },
+    {
+      "id": "5090183",
+      "time": "2026-09-12 00:12:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心：波及 21 個州、與捲心萵苣相關的環孢子蟲疫情現已結束。"
+    },
+    {
+      "id": "te:markets:583267",
+      "time": "2026-09-12 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.36% Higher — The FTSE MIB Index gained 705 points or 1.36 percent on Friday to close at 52512 points. Gains were led by Avio (3.89%), Moncler (3.00%) and Prysmian (2.63%)."
+    },
+    {
+      "id": "te:markets:583266",
+      "time": "2026-09-12 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.82% Higher — The DAX Index went up by 207 points or 0.82 percent on Friday to close at 25569 points. The rise was led by Infineon (4.78%), Siemens (2.73%) and Deutsche Telekom (2.55%). On the downside, the weakerst performers were Rheinmetall (-3.05%), BASF (-2.83%) and Henkel (-1.71%)."
+    },
+    {
+      "id": "te:markets:583265",
+      "time": "2026-09-12 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.75% Higher — The CAC 40 Index rose 61 points or 0.75 percent on Friday to close at 8178 points. Leading the gains are Stellantis NV (2.74%), Safran (2.67%) and STMicroelectronics (2.21%). Top losers were Carrefour (-1.48%), ENGIE (-1.32%) and Edenred (-1.13%)."
+    },
+    {
+      "id": "te:markets:583264",
+      "time": "2026-09-12 00:09:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Sharply Higher — The FTSE MIB rose 1.4% to 52,512 on Friday, amid broad-based gains across sectors, while bank merger talks remained in focus. Financials outperformed after the Antitrust Authority stated it would launch an in-depth investigation into the MPS divestment between Intesa Sanpaolo (2.6%) and Unipol (0.2%). Additionally, Prime Minister Meloni stated the state will refrain from interfering in Intesa’s takeover bid for MPS (2.5%). Meanwhile, UniCredit (1.6%) CEO is set to meet the German Finance Minister on Monday to discuss a potential deal involving Commerzbank. Avio advanced 3.9% after reporting upbeat first-half profits, while Prysmian rose 3% after completing a capital increase to partially finance its acquisition of Atkore. Utilities found some respite as European gas prices declined, while Italy adopted measures aimed at boosting domestic oil and gas production to reduce its dependence on fuel imports. On the downside, Saipem (-1.2%) led the losses."
+    },
+    {
+      "id": "mkt:01a0913a-d83a-7118-854f-02080370e0a2",
+      "time": "2026-09-12 00:09:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): Pre-orders for iPhone 18 Pro and iPhone 18 Pro Max open on Apple.com and the Apple Store app from 0500 PT on Sep 12."
+    },
+    {
+      "id": "5090182",
+      "time": "2026-09-12 00:07:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：太平洋時間 9 月 12 日凌晨 5 點（北京時間 9 月 12 日 20:00）起，消費者可在蘋果官網以及 Apple Store App 上預約訂購 iPhone 18 Pro 與 iPhone 18 Pro Max。"
+    },
+    {
+      "id": "te:markets:583263",
+      "time": "2026-09-12 00:07:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.34% Higher — The FTSE 100 Index gained 36 points or 0.34 percent on Friday to close at 10645 points. Gains were led by Informa (2.04%), Howden Joinery (1.91%) and Natwest (1.73%). Biggest losers were London Stock Exchange (-2.66%), The Sage Group (-1.86%) and Burberry (-1.60%)."
+    },
+    {
+      "id": "5090181",
+      "time": "2026-09-12 00:05:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部發布世界農業供需報告後，洲際交易所棉花期貨跌幅擴大，最新下跌 1.4%。"
+    },
+    {
+      "id": "mkt:01a09136-e086-7118-854e-f885f21feb78",
+      "time": "2026-09-12 00:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: Russia's CPI fell 0.08% MoM in August and rose 6.33% YoY."
+    },
+    {
+      "id": "mkt:01a09134-646e-7118-854e-f5747542865c",
+      "time": "2026-09-12 00:02:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA maintains 2026/2027 soybean production forecasts at 50 mln tonnes for Argentina and 186 mln tonnes for Brazil."
+    },
+    {
+      "id": "5090180",
+      "time": "2026-09-12 00:01:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：8 月俄羅斯消費者物價指數環比下降 0.08%，8月俄羅斯消費者物價指數同比上漲 6.33%。"
+    },
+    {
+      "id": "mkt:01a09133-c12c-7118-854e-ecff34b6f8ff",
+      "time": "2026-09-12 00:01:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "USDA September outlook: US 2026/27 soybean production forecast 4.535 bln bu vs market 4.501 bln and August 4.519 bln. Ending stocks projected 310 mln bu vs market 298 mln and August 320 mln. Yield estimated 52.8 bu/acre vs market 52.5 and August 52.7."
+    },
+    {
+      "id": "5090178",
+      "time": "2026-09-12 00:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：預計美國期末棉花庫存360萬捆，分析師預期379萬捆，USDA之前預計400萬捆。"
+    },
+    {
+      "id": "5090177",
+      "time": "2026-09-12 00:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：預計美國期末小麥總庫存7.1777億蒲式耳，分析師預期71.777億蒲式耳，USDA之前預計71.7億蒲式耳。"
+    },
+    {
+      "id": "5090176",
+      "time": "2026-09-12 00:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：預計美國期末玉米庫存15.10877億蒲式耳，分析師預期15.108億蒲式耳，USDA之前預計16.53億蒲式耳。"
+    },
+    {
+      "id": "5090175",
+      "time": "2026-09-12 00:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯統計局訊息：俄羅斯第二季度國內生產總值同比增長 1.3%，資料已確認。"
+    },
+    {
+      "id": "5090174",
+      "time": "2026-09-12 00:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：預計美國期末大豆庫存3.10億蒲式耳，分析師預期2.9137億蒲式耳，USDA之前預計3.20億蒲式耳。"
+    }
+  ]
+}
