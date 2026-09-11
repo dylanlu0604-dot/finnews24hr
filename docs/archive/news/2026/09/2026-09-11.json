@@ -1,7 +1,234 @@
 {
   "date": "2026-09-11",
-  "count": 1372,
+  "count": 1396,
   "items": [
+    {
+      "id": "mkt:01a08f1b-477d-7118-853f-c7b39d1ab862",
+      "time": "2026-09-11 14:15:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sugon launches scaleFabric Token acceleration system】China's Sugon said it has launched the scaleFabric Token acceleration system, enabling the first large-scale domestic deployment of IBGDA. Built on native lossless RDMA networking, scaleFabric creates a tightly coupled compute–memory–network token-acceleration channel and supports GPU-initiated network communication via IBGDA; the technology has been validated in clusters at the ~100,000‑card scale. Sugon said scaleFabric has been adapted to DeepEP and other communication frameworks and uses IBGDA and storage passthrough to boost token transfer efficiency, offering a new high-speed interconnect option for China’s domestic large AI models."
+    },
+    {
+      "id": "5088954",
+      "time": "2026-09-11 14:15:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：歐洲經濟展現出了令人驚訝的韌性。"
+    },
+    {
+      "id": "5088953",
+      "time": "2026-09-11 14:14:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：很難說幾年後我們能否回到2%的水平。"
+    },
+    {
+      "id": "5088952",
+      "time": "2026-09-11 14:14:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4359.91美元/盎司。"
+    },
+    {
+      "id": "5088951",
+      "time": "2026-09-11 14:14:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：通貨膨脹率到明年年底可能會回升至2%。"
+    },
+    {
+      "id": "5088950",
+      "time": "2026-09-11 14:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦訊息人士稱，伊朗外長與巴基斯坦陸軍參謀長的會談重點圍繞美伊戰爭、重返談判的可能性以及胡塞武裝對沙烏地阿拉伯的襲擊展開。"
+    },
+    {
+      "id": "mkt:01a08f1a-4f7a-7118-853f-bc2cf3aee651",
+      "time": "2026-09-11 14:14:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Pakistani sources: Iran's foreign minister and Pakistan's military chief discussed ways to restore diplomatic efforts to de-escalate the conflict across all fronts."
+    },
+    {
+      "id": "mkt:01a08f1a-08bd-7118-853f-b6461cd46e53",
+      "time": "2026-09-11 14:14:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Deutsche Bank: ECB likely to hike again in December as growth pressure builds】Deutsche Bank chief European economist Mark Wall says inflation risks are rising and the probability of an ECB hike in December now exceeds the probability of no action. Markets price roughly a 49% chance of an October hike, rising to 89% by year-end. A gas-price spike is a negative supply shock that will lift energy, transport and commodity prices near term and could force the ECB to guard against second-round inflation. With higher corporate costs and squeezed real incomes weighing on activity, Europe may enter a phase where inflation rises first and growth falls later; hikes will push up short-term rates but may not sustainably support the euro or long-term yields."
+    },
+    {
+      "id": "5088949",
+      "time": "2026-09-11 14:14:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：維持寧德時代“增持”評級，相信市場地位未受損】摩根大通發表報告指，相信2027年不會重演2023至2024年產能過剩的週期，維持寧德時代“增持”評級，目標價725港元，指出其在中國電動車電池市佔率由去年的44%，進一步提升至今年上半年的48%，相信其市場地位未受損，維持今明兩年淨利潤預測為950億及1,160億元。"
+    },
+    {
+      "id": "te:economy:583024",
+      "time": "2026-09-11 14:13:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "UK Trade Deficit Smallest in 6 Months — The United Kingdom’s trade deficit narrowed to £3.45 billion in July 2026, down from £5.54 billion in the previous month. It was the smallest trade gap since January, when the trade balance posted a surplus, as exports rose while imports fell. Exports grew 2.1% mom to £81.92 billion, while imports edged down 0.4% to a five-month low of £85.37 billion. Goods exports increased 4.4% to £34.41 billion, while services exports climbed 0.5% to £47.51 billion. On the import side, goods imports fell 1.6% to a six-month low of £55.37 billion, while services imports rose 0.7% to £30.0 billion."
+    },
+    {
+      "id": "5088948",
+      "time": "2026-09-11 14:13:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴基斯坦訊息源：伊朗外長與巴基斯坦陸軍參謀長討論了設法恢復外交努力，以在各戰線緩和衝突。"
+    },
+    {
+      "id": "mkt:01a08f19-adc9-7118-853f-ab6231669fa5",
+      "time": "2026-09-11 14:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yoon Suk Yeol acquitted in first-instance trial over alleged aiding suspect to evade prosecution】Seoul Central District Court on the 11th delivered a first-instance ruling acquitting former president Yoon Suk Yeol in a case alleging he helped a suspect evade judicial prosecution."
+    },
+    {
+      "id": "5088947",
+      "time": "2026-09-11 14:13:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯聯邦儲蓄銀行執行長：俄羅斯企業在與印度本幣結算雙邊貿易中盧比過剩囤積的問題已不復存在。"
+    },
+    {
+      "id": "5088946",
+      "time": "2026-09-11 14:13:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭部長表示，烏克蘭現有油籽加工產能為2000萬噸，而當前加工需求為1600萬噸。"
+    },
+    {
+      "id": "5088944",
+      "time": "2026-09-11 14:13:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內跌0.17%。"
+    },
+    {
+      "id": "5088943",
+      "time": "2026-09-11 14:13:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內跌0.17%。"
+    },
+    {
+      "id": "5088942",
+      "time": "2026-09-11 14:13:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.9%，報8741.20點。"
+    },
+    {
+      "id": "5088941",
+      "time": "2026-09-11 14:13:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽燃料出口恢復緩慢 價格維持在歷史高位附近】經過霍爾木茲海峽的石油產品出口正在緩慢恢復，但恢復速度不足以阻止燃油價格飆升，這給世界各地的消費者增加了負擔。根據維多集團執行長Russell Hardy，以及本週在新加坡舉行的會議上其他一些貿易商的看法，該地區目前每天至少有100萬桶油品透過這條水道運輸。油輪追蹤機構Vortexa的資料顯示的水平相近，而戰前水平約為400萬桶/天（不包括液化石油氣）。與原油出口已恢復至戰前水平一半左右相比，油品的恢復較慢，這導致柴油等燃料的價格飆升，直接影響通貨膨脹和生活成本。烏克蘭對俄羅斯煉油廠的襲擊加劇了市場上的燃料短缺。科威特石油公司國際營銷總經理Shaikh Khaled Al Sabah在新加坡舉行的標普全球能源亞太石油會議上表示：“要取代來自海灣地區的那些產品絕非易事。”"
+    },
+    {
+      "id": "te:economy:583021",
+      "time": "2026-09-11 14:12:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "UK Manufacturing Output Rebounds More Than Expected — Manufacturing production in the UK grew by 0.9% month-on-month in July 2026, surpassing market expectations for a 0.2% rise and rebounding from a 0.5% fall in June. Output increased in eight of the thirteen manufacturing subsectors, with the largest positive contribution coming from the manufacture of computer, electronics and optical products (5.2% vs -0.9% in June), followed by basic metals (2.8% vs -2.8%), coke and refined petroleum products (1.2% vs 0.4%), and food products, beverages and tobacco (0.9% vs 1.0%). In contrast, production declined mainly for rubber and plastic products and non-metallic mineral products (-3.0% vs 0.4%), machinery and equipment not elsewhere classified (-1.5% vs -0.1%), and wood and paper products and printing (-1.2% vs -1.3%). On an annual basis, manufacturing activity increased by 2.6% in July, the fastest rise since March 2024, above forecasts of 2% and accelerating from a 0.5% gain in the preceding period."
+    },
+    {
+      "id": "5088940",
+      "time": "2026-09-11 14:12:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾中央地方法院11日對前總統尹錫悅涉嫌使犯罪嫌疑人逃避司法追究等一案作出一審判決，判處尹錫悅無罪。（新華社）"
+    },
+    {
+      "id": "5088939",
+      "time": "2026-09-11 14:12:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：目前的利率水平對經濟發展的限制並不大。"
+    },
+    {
+      "id": "mkt:01a08f18-9ec6-7118-853f-a4e372719029",
+      "time": "2026-09-11 14:12:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai Securities News: External shocks don't alter A-share resilience】China's A-share market fell more sharply this morning despite only modest declines abroad. Market participants say the divergence reflects sentiment amplification, not changes in valuations or earnings; investor confidence remains fragile and can trigger panic selling during short-term shocks. Analysts warn that without stronger consensus on the long-term value of Chinese assets, external disturbances can magnify volatility, but interviewed experts view those external factors as temporary. They point to economic reform progress, stable-to-improving fundamentals, policy support and liquidity as the determinants of market resilience, with China asset safety premia and structural resilience as the core backing."
+    },
+    {
+      "id": "mkt:01a08f18-12ef-7118-853f-9c59efe21e9b",
+      "time": "2026-09-11 14:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank governor says US economic pressure is a miscalculation, raises US costs】IRNA quoted Central Bank governor Hemmati saying US sanctions and economic pressure have mainly imposed income and trade restrictions and sought to amplify expectations and temporarily affect market sentiment. He said economic pressure is not a policy but a miscalculation that increases US calculation costs, citing Trump’s pledge to pay $5,000 to each American if Republicans win Congress as an example of those costs."
+    },
+    {
+      "id": "5088938",
+      "time": "2026-09-11 14:11:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：我不會說目前的歐洲央行利率很高。"
+    },
     {
       "id": "5088937",
       "time": "2026-09-11 14:10:46",
