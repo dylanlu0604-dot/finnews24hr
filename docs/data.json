@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-11 18:44:18",
-  "count": 13701,
+  "updated": "2026-09-11 18:48:08",
+  "count": 13695,
   "items": [
+    {
+      "id": "mkt:01a09014-9a2f-7118-8547-e58b1fcff506",
+      "time": "2026-09-11 18:47:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia and India are expanding practical technological and economic cooperation, Dmitriev, the Russian president’s special representative for foreign investment and economic cooperation, said."
+    },
+    {
+      "id": "5089683",
+      "time": "2026-09-11 18:47:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行稱，其8月在外匯市場買入2.25億歐元。"
+    },
+    {
+      "id": "5089682",
+      "time": "2026-09-11 18:46:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "德米特里耶夫表示，俄羅斯與印度正在拓展務實技術與經濟夥伴關係。在弗拉基米爾・普京總統訪印期間，俄羅斯直接投資基金（RDIF）公佈三項新舉措，分別涉及支付、技術與人才領域。"
+    },
+    {
+      "id": "5089681",
+      "time": "2026-09-11 18:46:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行：截至8月底，塞爾維亞外匯儲備達到創紀錄的308億歐元。"
+    },
+    {
+      "id": "mkt:01a09012-ff5a-7118-8547-db7c861c16bd",
+      "time": "2026-09-11 18:45:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European Commission approves €6.1 bln Ukraine defense funding】The European Commission on the 11th approved €6.1 bln for Ukraine to procure air- and missile-defense systems, munitions, drones and electronic-warfare equipment, allowing purchases from EU and Ukrainian suppliers. Member states agreed the arrangement and Ukraine may use the funds to acquire Patriot PAC-3 missiles. The funding is drawn from a €90 bln EU support loan—€60 bln earmarked for defense aid and €30 bln for budget support—scheduled for disbursement in 2026–27. The Commission says the approval completes allocation of the €28.3 bln 2026 defense-aid tranche and specifies procurement items, suppliers, quantities and implementation timelines."
+    },
+    {
+      "id": "5089680",
+      "time": "2026-09-11 18:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊稱：2026年9月11日夜，烏克蘭國防部隊分隊對薩拉托夫市的薩拉托夫煉油廠實施打擊。廠區內出現火情。受損程度正在核實中。參考資訊：薩拉托夫煉油廠年原油加工能力約700萬噸，生產汽油、柴油及其他石油產品。"
+    },
+    {
+      "id": "5089679",
+      "time": "2026-09-11 18:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會批准61億歐元援烏資金】歐盟委員會11日批准向烏克蘭提供61億歐元資金，用於採購防空反導系統、彈藥、無人機和電子戰系統等。歐盟委員會表示，這筆資金將支援從歐盟和烏克蘭企業採購國防產品。歐盟成員國已就相關安排達成一致，烏克蘭可以利用這筆資金採購“愛國者”防空系統所需的PAC-3導彈。（央視新聞）"
+    },
+    {
+      "id": "5089678",
+      "time": "2026-09-11 18:44:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏橋控股：擬20.50億元收購兩家新能源公司100%股權】宏橋控股公告稱，公司擬透過全資下屬企業雲南宏橋新材料以現金方式收購雲南宏橋新能源、雲南新創各100%股權，交易總價合計20.50億元。本次交易對方為公司間接控股股東山東宏橋及實控人控制的濱州公建，構成關聯交易，不構成重大資產重組，不會導致公司控制權變更。本次交易已經公司董事會審議透過，無需提交股東會審議。交易完成後，標的公司將成為公司全資子公司，可強化電力自主供應能力，消除潛在同業競爭。"
+    },
+    {
+      "id": "mkt:01a09011-fd84-7118-8547-d5e5fb82fbb9",
+      "time": "2026-09-11 18:44:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSRC fines finance influencer Chen Guanghua 200,000 yuan for spreading false tax-rate information】CSRC said finance blogger Chen Guanghua, operator of a verified self-media account with more than 1.03 mln followers, published false information alleging a tax-rate adjustment on 3 Feb 2026. The regulator found the information untrue, ruled Chen failed to verify it and that the posts disrupted the securities market; he did not obtain illegal gains. CSRC cited interview records, platform data and WeChat group screenshots as evidence and, under Article 193(1) of the Securities Law, imposed a 200,000 yuan fine."
+    },
     {
       "id": "5089677",
       "time": "2026-09-11 18:43:41",
@@ -125391,137 +125469,6 @@
         "公司"
       ],
       "text": "【天承科技：披露2026年限制性股票激勵計劃考核辦法】天承科技公告稱，公司披露2026年限制性股票激勵計劃實施考核管理辦法。首次授予限制性股票考核年度為2026-2029年，對應營收考核目標分別為不低於7億元、10.50億元、15.75億元、23.63億元。若預留授予在2026年三季報披露前完成，考核目標與首次授予一致；若在披露後授予，考核年度為2027-2029年。公司層面歸屬比例與營收完成情況掛鉤，營收完成比例不足80%則歸屬比例為0，同時設定個人績效考核檔位，未達標對應份額作廢失效。"
-    },
-    {
-      "id": "5077592",
-      "time": "2026-09-04 18:47:21",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華夏基金：旗下基金參與燧原科技IPO申購】華夏基金公告稱，公司旗下部分公募基金參與上海燧原科技股份有限公司首次公開發行A股申購。燧原科技本次發行保薦人（聯席主承銷商）中信證券為公司控股股東，聯席主承銷商國泰海通證券、廣發證券分別為公司旗下部分基金託管人的重大關聯方、託管人，本次交易屬關聯交易，已履行審批程式並經基金託管人同意。燧原科技發行價為142.18元/股，公司旗下超80只公募基金透過網下、網上方式獲配燧原科技股份。"
-    },
-    {
-      "id": "mkt:01a06c07-8eea-7118-84a0-cc1fc5e784cc",
-      "time": "2026-09-04 18:47:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatically determined a ~M3.0 earthquake at 18:44 on Sep 4 near Gaoxian, Yibin, Sichuan (28.58N, 104.71E); final magnitude subject to formal rapid report."
-    },
-    {
-      "id": "5077591",
-      "time": "2026-09-04 18:47:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華夏豆粕期貨ETF：或採取停牌措施警示溢價風險】華夏基金公告稱，旗下跟蹤大連商品交易所豆粕期貨價格指數的相關基金，若2026年9月7日二級市場交易價格溢價幅度未有效回落，有權向深圳證券交易所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險，具體以屆時公告為準。截至目前，該基金運作正常，無其他應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "5077590",
-      "time": "2026-09-04 18:46:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【標普500ETF華夏：二級市場價格大幅溢價 提示投資風險】標普500ETF華夏公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。2026年9月4日，本基金二級市場收盤價為2.032元，收盤時基金份額參考淨值（IOPV）為1.8954元。若2026年9月7日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊。提醒投資者密切關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "5077589",
-      "time": "2026-09-04 18:46:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勁嘉股份：控股股東及實控人執行案件申請執行人變更】勁嘉股份公告稱，公司控股股東勁嘉創投、實控人喬魯予涉及的〔2025〕粵03執1719號執行案件，申請執行人由中國建設銀行深圳市分行變更為中國中信金融資產管理股份有限公司深圳市分公司，涉案金額1.89億元。截至目前，勁嘉創投及其一致行動人、喬魯予涉及的重大訴訟、仲裁及司法執行事項合計涉案金額64.43億元，多數處於裁定執行階段。上述案件與公司無關，不會對公司生產經營產生直接重大不利影響，但相關方持有的部分公司股票已被司法處置，其餘涉案對應股票面臨司法處置風險，或導致公司控制權變更。"
-    },
-    {
-      "id": "5077588",
-      "time": "2026-09-04 18:46:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天宇股份：全資子公司磷酸西格列汀原料藥透過CDE審評】天宇股份公告稱，公司全資子公司浙江京聖藥業有限公司磷酸西格列汀原料藥近日透過國家藥品監督管理局藥品審評中心審評。該藥品為降糖藥，主要用於治療2型糖尿病，公司於2025年3月遞交該原料藥的藥品註冊申請並獲受理。目前該原料藥尚須取得浙江省藥品監督管理局GMP符合性檢查“符合要求”的公示後，方可在國內上市銷售，國內上市銷售時間存在不確定性。"
-    },
-    {
-      "id": "te:economy:581267",
-      "time": "2026-09-04 18:46:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Ireland Economy Expands at Fastest Pace Since 2021 — Ireland's economy expanded by 10.2% in the second quarter of 2026 compared to the prior quarter, following an upwardly revised 7.8% contraction in the previous quarter and exceeding preliminary estimates of a 3.9% rise. This marks the fastest pace of growth since the first quarter of 2021, driven by growth in the multinational-dominated sectors, which expanded by 11.2%. The globalized industry sector expanded by 22.1%, while the information and communication sector rose 2.3%. Meanwhile, the domestic sectors expanded at a slower pace of 0.7%, while personal spending rose 1%. The Modified Domestic Demand (MDD), a broad measure of underlying domestic activity that covers personal, government, and investment spending, contracted by 0.8%, driven by a decline in investment. On an annual basis, the economy contracted 0.4% following a 13.2% drop in the prior quarter, marking the third consecutive quarter of a contraction."
-    },
-    {
-      "id": "5077587",
-      "time": "2026-09-04 18:46:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四環生物：擬1.6億元收購中潤藥業65.6146%股權】四環生物公告，公司擬以現金人民幣1.6億元收購中潤藥業65.6146%股權，其中中潤醫藥產業轉讓63.5963%、廣東坤海轉讓2.0183%；同時中潤藥業向廣東坤海、廣東普潤定向減資合計17.9817%股權。交易完成並減資後，公司將持有中潤藥業80%股權。本次交易已經董事會審議透過，尚需提交股東會審議。"
-    },
-    {
-      "id": "5077586",
-      "time": "2026-09-04 18:46:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所對龍版傳媒及有關責任人予以監管警示】上交所公告，經查明，龍版傳媒前期披露的半年度報告未對AI影片業務的具體營收規模、佔比及對公司經營業績的實際影響程度等作出充分說明，資訊披露未能準確反映相關業務實際開展情況；股票交易異常波動公告和風險提示公告中關於AI影片業務的營收情況前後資訊披露不一致。公司資訊披露不準確、風險揭示不充分，前後披露不一致，可能對投資者決策產生誤導。上交所對黑龍江出版傳媒股份有限公司及時任董事會秘書孫福軍予以監管警示。"
-    },
-    {
-      "id": "5077585",
-      "time": "2026-09-04 18:45:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟執委會發言人：天然氣協調小組週四開會，結論是天然氣儲存量為庫容的65%。"
-    },
-    {
-      "id": "mkt:01a06c06-68fd-7118-84a0-c54532fd16a6",
-      "time": "2026-09-04 18:45:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EU Commission spokesperson said the gas coordination group met Thursday and concluded EU gas storage has reached 65% of capacity."
-    },
-    {
-      "id": "5077584",
-      "time": "2026-09-04 18:45:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：超大規模資料公司持有約5300萬美元現金、受限現金及比特幣，相當於近期市值的近200%。"
-    },
-    {
-      "id": "5077583",
-      "time": "2026-09-04 18:44:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天橋起重：天橋利亨100%股權變更完成】天橋起重公告，公司此前披露天橋利亨被法院裁定受理破產重整，後裁定將原股東持有的100%股權過戶給湖南炬眾起重裝置有限公司；2026年9月3日，天橋利亨已完成股權變更，公司不再持有其股權、不再享有股東權利、承擔股東義務。"
-    },
-    {
-      "id": "mkt:01a06c05-0157-7118-84a0-be3e1edd8ffc",
-      "time": "2026-09-04 18:44:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【HSBC: Rupee weakness fails to boost Indian exports】HSBC said in a research note that rupee weakness has not materially benefited Indian exporters because high tariffs and domestic manufacturing gaps blunt the currency advantage. Analyst Pranjul Bhandari said the effect is concentrated in higher-tech exports—machinery and electronics—while mid-tech goods such as textiles, footwear and plastics show little response. India is losing market share in intermediate-goods exports and many final products, notably mobile phones, depend on imported components. Bhandari added that India’s tariffs on many goods exceed peers and that high import duties create an inverted tariff structure for intermediates, suppressing manufacturing and offsetting gains from currency depreciation."
-    },
-    {
-      "id": "5077582",
-      "time": "2026-09-04 18:44:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國證券交易所修訂規則，為國內外新經濟企業開啟機遇，涵蓋10個目標行業板塊。"
     }
   ]
 }

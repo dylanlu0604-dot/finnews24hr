@@ -1,7 +1,85 @@
 {
   "date": "2026-09-11",
-  "count": 1999,
+  "count": 2008,
   "items": [
+    {
+      "id": "mkt:01a09014-9a2f-7118-8547-e58b1fcff506",
+      "time": "2026-09-11 18:47:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia and India are expanding practical technological and economic cooperation, Dmitriev, the Russian president’s special representative for foreign investment and economic cooperation, said."
+    },
+    {
+      "id": "5089683",
+      "time": "2026-09-11 18:47:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行稱，其8月在外匯市場買入2.25億歐元。"
+    },
+    {
+      "id": "5089682",
+      "time": "2026-09-11 18:46:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "德米特里耶夫表示，俄羅斯與印度正在拓展務實技術與經濟夥伴關係。在弗拉基米爾・普京總統訪印期間，俄羅斯直接投資基金（RDIF）公佈三項新舉措，分別涉及支付、技術與人才領域。"
+    },
+    {
+      "id": "5089681",
+      "time": "2026-09-11 18:46:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "塞爾維亞央行：截至8月底，塞爾維亞外匯儲備達到創紀錄的308億歐元。"
+    },
+    {
+      "id": "mkt:01a09012-ff5a-7118-8547-db7c861c16bd",
+      "time": "2026-09-11 18:45:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European Commission approves €6.1 bln Ukraine defense funding】The European Commission on the 11th approved €6.1 bln for Ukraine to procure air- and missile-defense systems, munitions, drones and electronic-warfare equipment, allowing purchases from EU and Ukrainian suppliers. Member states agreed the arrangement and Ukraine may use the funds to acquire Patriot PAC-3 missiles. The funding is drawn from a €90 bln EU support loan—€60 bln earmarked for defense aid and €30 bln for budget support—scheduled for disbursement in 2026–27. The Commission says the approval completes allocation of the €28.3 bln 2026 defense-aid tranche and specifies procurement items, suppliers, quantities and implementation timelines."
+    },
+    {
+      "id": "5089680",
+      "time": "2026-09-11 18:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊稱：2026年9月11日夜，烏克蘭國防部隊分隊對薩拉托夫市的薩拉托夫煉油廠實施打擊。廠區內出現火情。受損程度正在核實中。參考資訊：薩拉托夫煉油廠年原油加工能力約700萬噸，生產汽油、柴油及其他石油產品。"
+    },
+    {
+      "id": "5089679",
+      "time": "2026-09-11 18:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會批准61億歐元援烏資金】歐盟委員會11日批准向烏克蘭提供61億歐元資金，用於採購防空反導系統、彈藥、無人機和電子戰系統等。歐盟委員會表示，這筆資金將支援從歐盟和烏克蘭企業採購國防產品。歐盟成員國已就相關安排達成一致，烏克蘭可以利用這筆資金採購“愛國者”防空系統所需的PAC-3導彈。（央視新聞）"
+    },
+    {
+      "id": "5089678",
+      "time": "2026-09-11 18:44:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏橋控股：擬20.50億元收購兩家新能源公司100%股權】宏橋控股公告稱，公司擬透過全資下屬企業雲南宏橋新材料以現金方式收購雲南宏橋新能源、雲南新創各100%股權，交易總價合計20.50億元。本次交易對方為公司間接控股股東山東宏橋及實控人控制的濱州公建，構成關聯交易，不構成重大資產重組，不會導致公司控制權變更。本次交易已經公司董事會審議透過，無需提交股東會審議。交易完成後，標的公司將成為公司全資子公司，可強化電力自主供應能力，消除潛在同業競爭。"
+    },
+    {
+      "id": "mkt:01a09011-fd84-7118-8547-d5e5fb82fbb9",
+      "time": "2026-09-11 18:44:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSRC fines finance influencer Chen Guanghua 200,000 yuan for spreading false tax-rate information】CSRC said finance blogger Chen Guanghua, operator of a verified self-media account with more than 1.03 mln followers, published false information alleging a tax-rate adjustment on 3 Feb 2026. The regulator found the information untrue, ruled Chen failed to verify it and that the posts disrupted the securities market; he did not obtain illegal gains. CSRC cited interview records, platform data and WeChat group screenshots as evidence and, under Article 193(1) of the Securities Law, imposed a 200,000 yuan fine."
+    },
     {
       "id": "5089677",
       "time": "2026-09-11 18:43:41",
