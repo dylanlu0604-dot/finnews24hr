@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-12 01:34:45",
+  "updated": "2026-09-12 01:38:43",
   "count": 13549,
   "items": [
+    {
+      "id": "mkt:01a0918a-f577-7118-854f-dddd1d1a0fc0",
+      "time": "2026-09-12 01:36:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB chief economist Lane said wages have shown little response this year to the energy-price shock."
+    },
+    {
+      "id": "5090212",
+      "time": "2026-09-12 01:36:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：今年工資並未因能源衝擊出現明顯反應。"
+    },
+    {
+      "id": "mkt:01a0918a-279e-7118-854f-d63e231e088b",
+      "time": "2026-09-12 01:35:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Intercontinental Exchange data: week ending Sep 8, speculative net long positions in diesel futures rose by 3,465 contracts to 93,533 contracts."
+    },
+    {
+      "id": "mkt:01a09188-c0dd-7118-854f-cf1ae485729a",
+      "time": "2026-09-12 01:34:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE: For the week ended Sep 8, fuel oil speculators' net long positions rose by 3,465 contracts to 93,533."
+    },
+    {
+      "id": "5090211",
+      "time": "2026-09-12 01:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：截至 9 月 8 日當週，柴油投機者淨多頭頭寸增加 3465 手，至 93533 手。"
+    },
     {
       "id": "mkt:01a09187-6475-7118-854f-c3e3522b702e",
       "time": "2026-09-12 01:32:44",
@@ -124257,53 +124309,6 @@
         "國際"
       ],
       "text": "【美國製造業和建築業就業增長跑贏服務業 或許反映出AI投資熱潮的影響】美國製造業、建築業及其他商品生產行業的就業增長速度正超過規模更大的服務業，這可能反映出投資源源不斷湧入人工智慧建設領域所帶來的影響。美國勞工統計局的資料顯示，截至8月底的六個月裡，商品生產行業的就業人數增長0.6%，創2023年以來任何可比時期的最大增幅，也高於服務業0.4%的增幅。僅過去三個月，製造業就業人數就增加了43,000人，是2022年底以來的最強勁水平。這些資料有助於解釋為何8月份就業報告好於預期。當月非農就業人數創五個月來最大增長，失業率維持在4.1%。花旗集團經濟學家Veronica Clark表示，美國製造商近期的改善以及建築業好轉，很大程度上都與大規模推進人工智慧以及建設資料中心有關。她說，去年透過的《大而美法案》中的稅收條款推動了裝置和設施投資，為人工智慧以及資料中心建設提供了支撐。"
-    },
-    {
-      "id": "5078203",
-      "time": "2026-09-05 01:38:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬運河管理局宣佈，原定於10月1日生效的新巴拿馬型船閘最大允許吃水深度上調至47.5英尺的措施將推遲實施。"
-    },
-    {
-      "id": "te:markets:581393",
-      "time": "2026-09-05 01:37:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Hits Highest Level Since 2024 — The Mexican peso strengthened to around 16.89 per US dollar in September, reaching its highest level since May 2024. US nonfarm payrolls increased by 162,000 last month, well above market expectations for a 56,000 gain. The figures point to continued strength in the US labor market, which is positive for Mexican exports and the economy given the close trade relationship between the two countries. The trade war between the US and Canada, along with trade tensions involving other countries, has positioned Mexico relatively favorably in trade terms, despite the country also being affected by tariffs. Also, Mexico’s gross fixed investment rose 7.7% year-on-year in June, beating expectations for a 4.8% expansion. However, while the strong US jobs data supports economic stability, it boosted expectations for a September Fed rate hike, which would support the dollar and narrow the US-Mexico interest-rate differential."
-    },
-    {
-      "id": "5078200",
-      "time": "2026-09-05 01:36:39",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "花旗調查：預計 2026 年末墨西哥比索兌美元匯率為 17.50。"
-    },
-    {
-      "id": "5078198",
-      "time": "2026-09-05 01:35:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【加密行業迎來華爾街時刻：8 月股票與大宗商品交易規模激增至 7780 億美元】加密交易所內的股票、大宗商品永續期貨交易量 8 月飆升至高達 7780 億美元，約佔全部永續期貨交易總量的 23.5%。該資料相較此前僅 0.5% 的佔比出現大幅攀升，凸顯加密平臺正快速跳出比特幣等數字資產範疇，拓展至傳統市場相關交易。此次交易量暴漲，反映市場愈發青睞藉助加密基礎設施開展股票、大宗商品相關資產的全天候交易。如此龐大的交易體量表明，加密交易所正逐步成為傳統市場的投機交易場所，或將模糊傳統金融與數字資產之間的邊界。"
-    },
-    {
-      "id": "mkt:01a06d7c-cfd4-7118-84ab-84e37afbd479",
-      "time": "2026-09-05 01:34:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE: In the week to Sept 1, gasoline speculators added 769 contracts, taking net long positions to 90,068 contracts."
     }
   ]
 }

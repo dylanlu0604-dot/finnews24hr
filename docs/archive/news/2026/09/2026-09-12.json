@@ -1,7 +1,59 @@
 {
   "date": "2026-09-12",
-  "count": 78,
+  "count": 83,
   "items": [
+    {
+      "id": "mkt:01a0918a-f577-7118-854f-dddd1d1a0fc0",
+      "time": "2026-09-12 01:36:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB chief economist Lane said wages have shown little response this year to the energy-price shock."
+    },
+    {
+      "id": "5090212",
+      "time": "2026-09-12 01:36:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：今年工資並未因能源衝擊出現明顯反應。"
+    },
+    {
+      "id": "mkt:01a0918a-279e-7118-854f-d63e231e088b",
+      "time": "2026-09-12 01:35:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Intercontinental Exchange data: week ending Sep 8, speculative net long positions in diesel futures rose by 3,465 contracts to 93,533 contracts."
+    },
+    {
+      "id": "mkt:01a09188-c0dd-7118-854f-cf1ae485729a",
+      "time": "2026-09-12 01:34:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE: For the week ended Sep 8, fuel oil speculators' net long positions rose by 3,465 contracts to 93,533."
+    },
+    {
+      "id": "5090211",
+      "time": "2026-09-12 01:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：截至 9 月 8 日當週，柴油投機者淨多頭頭寸增加 3465 手，至 93533 手。"
+    },
     {
       "id": "mkt:01a09187-6475-7118-854f-c3e3522b702e",
       "time": "2026-09-12 01:32:44",
