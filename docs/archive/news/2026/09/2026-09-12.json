@@ -1,7 +1,44 @@
 {
   "date": "2026-09-12",
-  "count": 240,
+  "count": 244,
   "items": [
+    {
+      "id": "5090362",
+      "time": "2026-09-12 04:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "康寧股價在達成股權分配協議後盤後下跌3%。"
+    },
+    {
+      "id": "5090360",
+      "time": "2026-09-12 04:26:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價11日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌2.43美元，收於每桶100.05美元，跌幅為2.37%；11月交貨的倫敦布倫特原油期貨價格下跌3.02美元，收於每桶104.61美元，跌幅為2.81%。"
+    },
+    {
+      "id": "mkt:01a09225-d86d-7118-8551-a08b79ff6af8",
+      "time": "2026-09-12 04:25:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iraq welcomed Saudi Arabia's decision to delay retaliatory action and condemned any attacks that threaten Saudi security and stability. The Iraqi prime minister has ordered an investigation into the incident and its alleged backers and said Baghdad will cooperate with allies and friends to prevent further attacks."
+    },
+    {
+      "id": "5090358",
+      "time": "2026-09-12 04:25:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：康寧達成最高20億美元的股權配售協議。"
+    },
     {
       "id": "5090356",
       "time": "2026-09-12 04:24:28",
