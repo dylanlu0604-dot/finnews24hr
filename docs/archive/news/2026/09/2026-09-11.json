@@ -1,7 +1,78 @@
 {
   "date": "2026-09-11",
-  "count": 733,
+  "count": 740,
   "items": [
+    {
+      "id": "5088501",
+      "time": "2026-09-11 09:07:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5922.00元。"
+    },
+    {
+      "id": "mkt:01a08e01-8ac4-7118-8538-281a3c0307cf",
+      "time": "2026-09-11 09:07:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "Container shipping index (Europe route) main contract rose more than 5.00% intraday to 2,066.0 points."
+    },
+    {
+      "id": "5088500",
+      "time": "2026-09-11 09:07:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2066.00點。"
+    },
+    {
+      "id": "mkt:01a08e01-1100-7118-8538-25054d30a8c7",
+      "time": "2026-09-11 09:07:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iranian official says IAEA political moves will have adverse consequences】Mohsen Rezaee, secretary of Iran’s Supreme National Security Council, said on the 10th that political actions by the IAEA will force some countries to withdraw from the Nuclear Non‑Proliferation Treaty (NPT). The IAEA Board of Governors on the 9th approved a resolution backed by the UK, France and Germany to refer alleged Iranian breaches of non‑proliferation obligations to the UN Security Council. Iran’s IAEA envoy Reza Najafi called the resolution a political tool rather than a technical document and said the IAEA should carry out technical duties, not serve any country’s political agenda."
+    },
+    {
+      "id": "5088499",
+      "time": "2026-09-11 09:06:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟委員會主席：支援歐洲航天巨頭打造合資企業】當地時間10日，首屆國際太空峰會在法國巴黎閉幕。歐盟委員會主席馮德萊恩當天在巴黎表示，歐盟已提出更新後的企業合併準則，支援歐洲航空航天工業巨頭合力建立航天合資企業。她強調，歐洲企業需要具備一定規模，才能在全球範圍內進行投資並參與競爭。歐洲空中客車公司、法國泰雷茲集團和義大利萊昂納多公司目前希望透過整合衛星相關業務擴大規模，提升歐洲航天產業的全球競爭力，並挑戰美國太空探索技術公司旗下的星鏈衛星網際網路服務。不過，由於三家公司在相關業務領域存在一定重疊，該交易可能面臨歐盟反壟斷審查，並可能需要剝離部分業務或資產才能獲得批准。"
+    },
+    {
+      "id": "5088498",
+      "time": "2026-09-11 09:05:53",
+      "tags": [
+        "宏觀",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【澳聯邦銀行：美國CPI走軟和美聯儲加息或為債券拋售潮僅有的熔斷器】澳大利亞聯邦銀行表示，美國通脹資料走軟或美聯儲加息或為阻止全球債券拋售潮僅有的熔斷器。“這只是大規模的鷹派情緒佔據了上風，”該行駐悉尼的利率策略師Michael Tang表示。“油價剛剛飆升，美國的回購令人失望，特朗普還談論要發放5,000美元紅利（儘管極不可能實施），而這一時期投資者對財政控制極為敏感。”“在我看來，美國CPI資料走軟和美聯儲加息確實是目前僅有的熔斷器；否則我認為沒有人會願意做多利率。”“美國短期內不可能在財政政策上出臺任何有實質意義的舉措，因此貨幣政策是信譽的最後堡壘。”"
+    },
+    {
+      "id": "5088497",
+      "time": "2026-09-11 09:04:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4380美元/盎司，日內跌0.62%。"
+    },
     {
       "id": "mkt:01a08dfd-786a-7118-8538-1f91e314c3d9",
       "time": "2026-09-11 09:03:13",
