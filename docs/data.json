@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-11 13:52:31",
-  "count": 13641,
+  "updated": "2026-09-11 13:56:21",
+  "count": 13643,
   "items": [
+    {
+      "id": "mkt:01a08f09-3df4-7118-853e-54f0efb297a1",
+      "time": "2026-09-11 13:55:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Houthi senior official: ball is with Saudi; warns escalation if blockade not lifted】IRNA reported Houthi senior member Hazam al-Asad said the ball is on Saudi Arabia’s side and Riyadh must lift its blockade on Yemen, warning that if Saudi refuses the next phase of operations could escalate. Al-Asad said the movement has recently made significant gains, seizing and “liberating” multiple Saudi military bases on the kingdom’s west coast, and asserted it has the military capacity to expand control and meet any challenge."
+    },
+    {
+      "id": "5088911",
+      "time": "2026-09-11 13:55:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5088910",
+      "time": "2026-09-11 13:55:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5088909",
+      "time": "2026-09-11 13:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂瑞微：上半年應用於高階機型的5G收發模組L-PAMiD持續出貨】昂瑞微在9月11日舉行的2026年半年度業績說明會上表示，上半年，公司應用於高階機型的5G收發模組L-PAMiD持續出貨，其中，高整合度的5G Phase8L模組產品已順利在品牌客戶規模量產；此外，公司還同步推進多種規格Phase8模組產品向多個品牌客戶送樣驗證。"
+    },
+    {
+      "id": "5088908",
+      "time": "2026-09-11 13:53:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工板塊持續走高 銀河電子、博雲新材雙雙漲停】午後軍工板塊持續走高，銀河電子、博雲新材漲停，此前內蒙一機漲停，長城軍工、北方長龍、航發科技、國科軍工均漲超4%。"
+    },
+    {
+      "id": "5088907",
+      "time": "2026-09-11 13:53:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委、立陶宛央行行長希姆庫斯：不會推測歐洲央行未來的決策。"
+    },
+    {
+      "id": "5088906",
+      "time": "2026-09-11 13:52:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "國內商品期貨能化板塊大幅跳水，原油漲幅收窄至4%，燃料油收窄至3%，乙二醇現跌5%，甲醇跌超4%，液化氣跌超2%。"
+    },
     {
       "id": "5088905",
       "time": "2026-09-11 13:51:18",
@@ -124882,54 +124946,6 @@
         "國際"
       ],
       "text": "俄羅斯稱在烏克蘭皮夫登尼港擊中一艘船隻。"
-    },
-    {
-      "id": "mkt:01a06afd-04a5-7118-8498-82eee6caf27f",
-      "time": "2026-09-04 13:56:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Russian Defence Ministry says Russian forces struck a merchant ship in the Black Sea."
-    },
-    {
-      "id": "mkt:01a06afc-c1d9-7118-8498-79e8c5e148c9",
-      "time": "2026-09-04 13:55:44",
-      "tags": [
-        "MKT News",
-        "000001.SS",
-        "Impact bullish",
-        "000300.SS"
-      ],
-      "text": "A-share retail sector rallied intraday; Baida Group hit the daily limit after Ningbo Zhongbai had earlier done so, with Maoye Commercial, Guofang Group, Dongbai Group, Zhumen Group and Zhongbai Group also advancing."
-    },
-    {
-      "id": "5076894",
-      "time": "2026-09-04 13:55:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "零售板塊短線拉昇，百大集團漲停，寧波中百此前封板，茂業商業、國芳集團、東百集團、珠免集團、中百集團等跟漲。"
-    },
-    {
-      "id": "5076893",
-      "time": "2026-09-04 13:55:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7628.00點。"
-    },
-    {
-      "id": "5076892",
-      "time": "2026-09-04 13:55:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州天河區1宗宅地溢價15.88%成交】9月4日，廣州天河區1宗宅地出讓，土地出讓面積34718.7平方米（合52.08畝），規劃建築面積67805平方米，容積率1.95，起始價21.41億元，起始樓面價31575元/平方米。該地塊吸引了4家房企參拍，經過18輪競價，最終越秀以總價24.81億元競得該地塊，成交樓面價36589元/平方米，溢價率15.88%。"
     }
   ]
 }

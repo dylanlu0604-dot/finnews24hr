@@ -1,7 +1,71 @@
 {
   "date": "2026-09-11",
-  "count": 1297,
+  "count": 1304,
   "items": [
+    {
+      "id": "mkt:01a08f09-3df4-7118-853e-54f0efb297a1",
+      "time": "2026-09-11 13:55:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Houthi senior official: ball is with Saudi; warns escalation if blockade not lifted】IRNA reported Houthi senior member Hazam al-Asad said the ball is on Saudi Arabia’s side and Riyadh must lift its blockade on Yemen, warning that if Saudi refuses the next phase of operations could escalate. Al-Asad said the movement has recently made significant gains, seizing and “liberating” multiple Saudi military bases on the kingdom’s west coast, and asserted it has the military capacity to expand control and meet any challenge."
+    },
+    {
+      "id": "5088911",
+      "time": "2026-09-11 13:55:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5088910",
+      "time": "2026-09-11 13:55:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5088909",
+      "time": "2026-09-11 13:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂瑞微：上半年應用於高階機型的5G收發模組L-PAMiD持續出貨】昂瑞微在9月11日舉行的2026年半年度業績說明會上表示，上半年，公司應用於高階機型的5G收發模組L-PAMiD持續出貨，其中，高整合度的5G Phase8L模組產品已順利在品牌客戶規模量產；此外，公司還同步推進多種規格Phase8模組產品向多個品牌客戶送樣驗證。"
+    },
+    {
+      "id": "5088908",
+      "time": "2026-09-11 13:53:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工板塊持續走高 銀河電子、博雲新材雙雙漲停】午後軍工板塊持續走高，銀河電子、博雲新材漲停，此前內蒙一機漲停，長城軍工、北方長龍、航發科技、國科軍工均漲超4%。"
+    },
+    {
+      "id": "5088907",
+      "time": "2026-09-11 13:53:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委、立陶宛央行行長希姆庫斯：不會推測歐洲央行未來的決策。"
+    },
+    {
+      "id": "5088906",
+      "time": "2026-09-11 13:52:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "國內商品期貨能化板塊大幅跳水，原油漲幅收窄至4%，燃料油收窄至3%，乙二醇現跌5%，甲醇跌超4%，液化氣跌超2%。"
+    },
     {
       "id": "5088905",
       "time": "2026-09-11 13:51:18",
