@@ -1,7 +1,36 @@
 {
   "date": "2026-09-11",
-  "count": 2409,
+  "count": 2412,
   "items": [
+    {
+      "id": "5090108",
+      "time": "2026-09-11 22:09:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Meta在歐洲開展非交易路演，超大規模科技企業加速拓展全球多幣種融資】Meta Platforms已至少一週在歐洲與債券投資者進行非交易路演，旨在為人工智慧基礎設施建設籌集資金。知情人士透露，Meta並未就潛在債券發行的時間表給出具體指引，且此次路演不保證最終會在歐洲市場發債。Meta此前從未在美元市場以外籌集過債務，其上一次發債為今年4月發行的250億美元債券。"
+    },
+    {
+      "id": "te:markets:583236",
+      "time": "2026-09-11 22:08:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls to Over 1-Week Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Friday, falling by 0.4% to its lowest since September 3 at 3,507 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also decreased for a second day, down 0.7% to 6,080 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell 0.1% to 2,407 points. On the other hand, the supramax index rose by 0.3% to 1,719 points. The benchmark index declined 3.3% for the week."
+    },
+    {
+      "id": "5090107",
+      "time": "2026-09-11 22:08:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【標普全球能源：歐洲夏季乾旱致甜菜減產，2026/27榨季歐盟糖產量或降至十餘年低點】受夏季乾旱重創甜菜作物及前期種植面積縮減雙重影響，歐洲糖價飆升至近一年高位。據標普全球能源旗下普氏能源資訊資料，9月3日西北歐國內糖價觸及每噸550歐元，較年初上漲近40%。標普全球能源預計，2026/27榨季歐盟和英國食糖產量將同比下降18.5%至1430萬噸，創十餘年新低，並預測第四季度西北歐糖價可能進一步攀升至每噸600歐元左右。在全球層面，印度因國內供應趨緊轉向進口，疊加厄爾尼諾現象引發亞洲減產擔憂，預計2026/27榨季全球糖市將出現供應短缺。英國聯合食品公司執行長喬治·韋斯頓表示，歐洲糖產量將出現大幅缺口，糖價前景樂觀。不過，由於大部分糖透過遠期合約銷售，且面臨能源成本上漲及非洲產量下降等因素，生產商收益的兌現可能面臨滯後。"
+    },
     {
       "id": "5090106",
       "time": "2026-09-11 22:07:13",
