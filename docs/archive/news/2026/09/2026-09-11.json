@@ -1,7 +1,31 @@
 {
   "date": "2026-09-11",
-  "count": 1239,
+  "count": 1241,
   "items": [
+    {
+      "id": "mkt:01a08eef-06d3-7118-853d-b1e879d516ae",
+      "time": "2026-09-11 13:27:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "IRNA reports President Pezeshkian, ahead of travel to India, said the BRICS New Development Bank was created to reduce reliance on the U.S. dollar and to oppose U.S. hegemony."
+    },
+    {
+      "id": "mkt:01a08eee-3d16-7118-853d-a8e64cf6c12c",
+      "time": "2026-09-11 13:26:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share large-consumer sector slid in afternoon trading; Xinhua Department Store and Baida Group hit limit-down, after Haixin Foods and Huatian Hotel earlier hit limit-down. Junting Hotel, Anji Food, Wo Ai Wo Jia, Huanlejia, Youhao Group and Yonghui Superstores each fell over 5%."
+    },
     {
       "id": "5088870",
       "time": "2026-09-11 13:23:37",

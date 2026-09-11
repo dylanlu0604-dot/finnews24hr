@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-11 13:25:29",
-  "count": 13627,
+  "updated": "2026-09-11 13:29:22",
+  "count": 13620,
   "items": [
+    {
+      "id": "mkt:01a08eef-06d3-7118-853d-b1e879d516ae",
+      "time": "2026-09-11 13:27:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "IRNA reports President Pezeshkian, ahead of travel to India, said the BRICS New Development Bank was created to reduce reliance on the U.S. dollar and to oppose U.S. hegemony."
+    },
+    {
+      "id": "mkt:01a08eee-3d16-7118-853d-a8e64cf6c12c",
+      "time": "2026-09-11 13:26:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share large-consumer sector slid in afternoon trading; Xinhua Department Store and Baida Group hit limit-down, after Haixin Foods and Huatian Hotel earlier hit limit-down. Junting Hotel, Anji Food, Wo Ai Wo Jia, Huanlejia, Youhao Group and Yonghui Superstores each fell over 5%."
+    },
     {
       "id": "5088870",
       "time": "2026-09-11 13:23:37",
@@ -124649,81 +124673,6 @@
         "市場"
       ],
       "text": "【遊戲板塊震盪反彈 世紀華通逼近漲停】午後遊戲板塊震盪反彈，世紀華通逼近漲停，吉位元、冰川網路、巨人網路、湯姆貓、愷英網路等跟漲。"
-    },
-    {
-      "id": "5076863",
-      "time": "2026-09-04 13:29:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "儲存晶片板塊震盪走弱，和順石油午後跌停，國科微、華虹宏力跌超8%，強一股份、精智達、正帆科技等跟跌。"
-    },
-    {
-      "id": "5076862",
-      "time": "2026-09-04 13:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國政府將於一個月內實施新的資料中心規則。"
-    },
-    {
-      "id": "5076861",
-      "time": "2026-09-04 13:28:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞航空集團旗下螢火蟲航空將開通直飛昆明的航線。"
-    },
-    {
-      "id": "5076860",
-      "time": "2026-09-04 13:28:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國政府下令停止49個資料中心專案的建設。"
-    },
-    {
-      "id": "5076859",
-      "time": "2026-09-04 13:28:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "半導體裝置板塊持續走低，強一股份跌超7%，華亞智慧、金海通、微導奈米、矽電股份等跟跌。"
-    },
-    {
-      "id": "5076858",
-      "time": "2026-09-04 13:27:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞航空集團：將於2026年12月起恢復飛往釜山的航線服務。"
-    },
-    {
-      "id": "5076857",
-      "time": "2026-09-04 13:27:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻畜牧養殖ETF漲超5%】午後養殖業、豬肉、雞肉板塊持續拉昇。多隻畜牧養殖ETF、農牧漁ETF、農業ETF漲超5%，領漲ETF市場。"
-    },
-    {
-      "id": "5076856",
-      "time": "2026-09-04 13:27:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國警方調查變電站附近發生的破壞未遂事件。"
-    },
-    {
-      "id": "5076855",
-      "time": "2026-09-04 13:25:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海國投公司發行全國首單超長期限人工智慧產業鏈科創債】9月3日，上海國投公司在上海證券交易所成功發行全國首單超長期限用於人工智慧產業鏈科創債。債券簡稱“滬國投K2”，期限10年，發行規模30億元，票面利率2.02%，全場認購倍數3.44倍。"
     }
   ]
 }
