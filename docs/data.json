@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-11 14:27:26",
-  "count": 13698,
+  "updated": "2026-09-11 14:31:15",
+  "count": 13700,
   "items": [
+    {
+      "id": "mkt:01a08f29-3b8b-7118-8540-530e08493d38",
+      "time": "2026-09-11 14:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sberbank head says he sees significant opportunities for India-Russia bilateral trade settlement under a central bank digital currency (CBDC) framework."
+    },
+    {
+      "id": "5088984",
+      "time": "2026-09-11 14:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【迪安診斷與微遠基因達成戰略合作 共推mNGS感染診斷一體化服務】據迪安診斷訊息，9月10日，迪安診斷與微遠基因在杭州簽署戰略合作協議。雙方將圍繞mNGS（宏基因組測序）感染診斷一體化服務開展深度合作，共同推動mNGS技術在我國感染性疾病精準診療領域的合規化、標準化、規模化應用。"
+    },
+    {
+      "id": "5088983",
+      "time": "2026-09-11 14:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零錢通不能用於支付？騰訊回應：為謠言 相關功能不受影響】近日有市場傳言稱，微信零錢通不能用於支付。就此，騰訊方面回應記者稱，近期網傳相關不實內容為謠言，零錢通始終堅持合規運營，相關功能不受影響，使用者可放心使用。 (介面新聞)"
+    },
+    {
+      "id": "5088982",
+      "time": "2026-09-11 14:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第二十六屆投洽會中國—沙特、中國—芬蘭主賓國雙向投資推介活動成功舉行】第二十六屆中國國際投資貿易洽談會首次設定沙烏地阿拉伯、芬蘭雙主賓國。9月9日，中國—沙特投資合作交流活動、中國—芬蘭經貿合作交流活動同日舉行。商務部副部長兼國際貿易談判副代表凌激出席兩場活動並致辭。\n\n在中國—沙特投資合作交流活動上，凌激表示，今年恰逢中沙全面戰略合作伙伴關係建立十週年，十年耕耘，中沙雙向投資成效顯著，充滿活力。中方一如既往支援沙特在傳統和新興領域擴大對華投資，繼續鼓勵中國企業赴沙投資，推動建立兩國緊密高效的產供鏈合作關係。沙特投資部助理大臣穆巴拉克出席活動並致辭，表示中國是沙特可靠的合作伙伴，沙特將堅定投資中國，歡迎中國企業赴沙投資興業。來自中沙兩國政府、金融機構、企業代表逾300人與會。\n\n在中國—芬蘭經貿合作交流活動上，凌激表示，中芬確立了面向未來的新型合作伙伴關係，中國是芬蘭在亞洲第一大和全球第四大貿易伙伴，希望雙方企業秉持創新精神，深化綠色轉型、智慧製造、醫療健康等領域合作。芬蘭經濟事務部長普伊斯托出席活動並致辭，表示芬中兩國長期保持密切經貿關係，中國是芬蘭企業重要市場，期待雙方在未來開展更多務實合作。中芬兩國政經界代表160餘人與會。\n\n與會中外方企業代表紛紛表示，透過專場活動，深切感受到中沙、中芬合作前景廣闊，願進一步拓展合作範圍，擴大雙向投資規模，助力雙邊經貿關係邁上新臺階。"
+    },
+    {
+      "id": "te:markets:583050",
+      "time": "2026-09-11 14:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.19% Lower — The Nikkei 225 Index dropped 1427 points or 2.19 percent on Friday to close at 63844 points. Losses were led by Resonac Holdings (-10.62%), Toppan (-7.33%) and Sumitomo Metal Mining (-6.95%)."
+    },
+    {
+      "id": "5088981",
+      "time": "2026-09-11 14:30:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集環科在江蘇成立物流裝備公司】企查查APP顯示，近日，中集環科物流裝備（江蘇）有限公司成立，經營範圍包含：工業自動控制系統裝置銷售；玻璃纖維增強塑膠製品銷售；金屬包裝容器及材料製造等。企查查股權穿透顯示，該公司由中集環科全資持股。"
+    },
+    {
+      "id": "mkt:01a08f28-3985-7118-8540-4d42b82e6018",
+      "time": "2026-09-11 14:29:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's foreign ministry said some European countries are trying to undermine Ukraine negotiations."
+    },
+    {
+      "id": "5088980",
+      "time": "2026-09-11 14:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄總統新聞秘書佩斯科夫表示，如果立陶宛決定在本國境內部署核武器，那麼立陶宛將成為俄羅斯核武器的目標。"
+    },
+    {
+      "id": "5088979",
+      "time": "2026-09-11 14:28:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:01a08f27-08df-7118-8540-46694aa22e77",
+      "time": "2026-09-11 14:28:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RIA quoted Kremlin press secretary Dmitry Peskov as saying that if Lithuania were to decide to deploy nuclear weapons on its territory, it would become a target of Russian nuclear weapons."
+    },
+    {
+      "id": "te:markets:583045",
+      "time": "2026-09-11 14:28:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Hover Near Multi-Year Highs — UK natural gas prices dropped to 201 pence a therm on Friday but stayed close to their highest level since December 2022, amid persistent disruptions to LNG supplies from the Persian Gulf. Fighting between the US and Iran has intensified over the past two weeks, centering on who controls the Strait of Hormuz. The ongoing blockade has already disrupted around 20% of global LNG flows, primarily affecting shipments from Qatar. Europe has struggled to rebuild its depleted inventories, with storage sites around 67% full, below historical norms. While the European Commission said there's no immediate risk to gas security this winter, a sustained disruption to Gulf LNG supplies could further tighten global supply and force Europe to compete more aggressively with Asia and other buyers for alternative cargoes, potentially driving prices even higher as heating demand begins to increase. Despite Friday's decline, UK gas prices are still over 12% higher this week, marking their fifth weekly gain."
+    },
+    {
+      "id": "5088978",
+      "time": "2026-09-11 14:27:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱，自9月以來，已運送了潛在農產品出口的40%。"
+    },
+    {
+      "id": "5088977",
+      "time": "2026-09-11 14:27:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米等成立智慧科技公司，含AI及機器人業務】企查查APP顯示，近日，北京帕提卡智慧科技有限責任公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由小米科技有限責任公司全資子公司瀚星創業投資有限公司等共同持股。"
+    },
     {
       "id": "mkt:01a08f25-df6a-7118-8540-3ef82697c5df",
       "time": "2026-09-11 14:26:58",
@@ -125460,106 +125579,6 @@
         "國際"
       ],
       "text": "日本麥當勞8月同店銷售額增長3.5%。"
-    },
-    {
-      "id": "5076957",
-      "time": "2026-09-04 14:31:09",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲1.26%，報65020.94點。韓國綜指收漲1.64%，報6687.21點。"
-    },
-    {
-      "id": "5076956",
-      "time": "2026-09-04 14:30:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【壽司郎回應兒童在店內小便：相關用品均已廢棄】針對網傳有家長在壽司郎門店內使用一次性容器為小朋友處理如廁需求一事，壽司郎回應稱，當天顧客帶小朋友在門店用餐，其間小朋友有如廁需求，家長使用一次性容器進行了處理。門店瞭解情況後第一時間進行了干預。壽司郎表示，顧客離開後，門店立即對相關區域進行全面清潔消毒，涉及用品均已廢棄，以確保後續顧客的用餐環境安全。壽司郎稱，公司始終將安心與安全放在首位，對於危害衛生和食品安全的行為，門店將立即制止並進行清潔消毒。後續也將強化文明用餐的提醒和引導。"
-    },
-    {
-      "id": "mkt:01a06b1c-5777-7118-8499-3b03fabb18c1",
-      "time": "2026-09-04 14:30:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jiangxi upgrades flood warning to yellow】Jiangxi Hydrological Monitoring Center at 11:26 on the 4th upgraded the provincial flood alert to yellow. Due to heavy rainfall, the river reach at Xiajiang County is expected to exceed the warning level by about 0.5m in roughly 4 hours; the Gan River at Ji'an urban section is expected to exceed the warning level by about 1.8m in roughly 16 hours; Zhangshu urban section is forecast to see a flood peak of about 15,200 m3/s in roughly 22 hours; Nanchang urban section is forecast to see a flood peak of about 16,000 m3/s in roughly 28 hours."
-    },
-    {
-      "id": "te:markets:581154",
-      "time": "2026-09-04 14:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.47% Higher — The Nikkei 225 Index gained 944 points or 1.47 percent on Friday to close at 65158 points. Gains were led by Softbank (11.32%), Nidec (7.85%) and Takara (7.84%)."
-    },
-    {
-      "id": "5076955",
-      "time": "2026-09-04 14:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2％，成分股中，華虹宏力跌9.61％，盛科通訊跌6.56％，中科飛測跌6.37％，芯原股份跌4.59％。"
-    },
-    {
-      "id": "5076954",
-      "time": "2026-09-04 14:29:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《上海市國土空間近期實施規劃（2026—2030年）》印發】上海市規劃和自然資源局印發《上海市國土空間近期實施規劃（2026—2030年）》。其中指出，到2030年，上海“五個中心”核心功能持續躍升，全球資源配置力、科技創新策源力、高階產業引領力、開放樞紐門戶影響力和文化軟實力明顯增強，創新之城、生態之城、人文之城和具有世界影響力的社會主義現代化國際大都市建設躍上更高臺階，在推進中國式現代化中充分發揮龍頭帶動和示範引領作用。"
-    },
-    {
-      "id": "5076953",
-      "time": "2026-09-04 14:29:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易捷航空法國飛行員工會呼籲9月13‑14日舉行罷工】法國SNPL工會以排班缺乏穩定性為由，號召易捷航空法國地區飛行員於9月13日至14日開展罷工。該工會表示，飛行員每週排班可能多次變動，致使員工無法安排家庭生活與休息。工會稱仍願意開展對話，並表示航空公司方面其實已有可行解決方案。"
-    },
-    {
-      "id": "5076952",
-      "time": "2026-09-04 14:28:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7483.40點。"
-    },
-    {
-      "id": "5076951",
-      "time": "2026-09-04 14:28:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度航空在一份宣告中表示，該公司已開始對所有飛行員開展自願檢測。"
-    },
-    {
-      "id": "5076950",
-      "time": "2026-09-04 14:28:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空表示，已收到航空事故調查局（AAIB）初步報告。"
-    },
-    {
-      "id": "mkt:01a06b1a-0b5f-7118-8499-301ac1c37de8",
-      "time": "2026-09-04 14:27:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Institutional previews: US August unemployment rate (prior 4.1%)】Most institutional forecasters cluster around a 4.1% US unemployment rate for August (prior 4.1%). A minority expect 4.0% (Moody's, Nomura). A separate group pegs the rate at 4.2% (Citigroup, Jefferies, ING, ABN AMRO, Standard Chartered, Banco Santander, Scotiabank, UBS). Reuters consensus: 4.1%."
     }
   ]
 }
