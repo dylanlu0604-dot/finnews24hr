@@ -1,7 +1,218 @@
 {
   "date": "2026-09-11",
-  "count": 711,
+  "count": 733,
   "items": [
+    {
+      "id": "mkt:01a08dfd-786a-7118-8538-1f91e314c3d9",
+      "time": "2026-09-11 09:03:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude falls more than 1.00% intraday to $105.11/bbl."
+    },
+    {
+      "id": "mkt:01a08dfb-b3e2-7118-8538-1421c7748a69",
+      "time": "2026-09-11 09:01:17",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【August China e‑commerce logistics index】The China Federation of Logistics and Purchasing (CFLP) released the August China e‑commerce logistics index on the 11th; the index rebounded to 111.5, up 0.3 pts MoM and to a relatively high level for the year, with eight of nine subindices rising. Supply-side indicators improved: inventory turnover +0.4 pts MoM, logistics timeliness +0.5, order fulfillment rate +0.9 and customer satisfaction +0.1, with several metrics rising for consecutive months. Labor and transport utilization ticked higher: personnel index +0.3 pts and vehicle load factor +0.6 pts."
+    },
+    {
+      "id": "mkt:01a08dfb-b28f-7118-8538-0fca1e91a7eb",
+      "time": "2026-09-11 09:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened down 767.71 points (-1.64%) at 46,172.78 on Friday, Sept. 11."
+    },
+    {
+      "id": "5088496",
+      "time": "2026-09-11 09:01:09",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一，SC原油漲超6％，燃料油、低硫燃料油（LU）漲超5％，純苯、瀝青漲超3％，集運歐線、液化石油氣（LPG）、苯乙烯（EB）漲超2％。跌幅方面，滬銀跌超5％，國際銅、滬鋅跌超3％，滬銅跌近3％，滬錫跌超2％，鑄造鋁跌近2％，滬鋁、滬金跌超1％。"
+    },
+    {
+      "id": "mkt:01a08dfb-0cfe-7118-8538-04df965687cc",
+      "time": "2026-09-11 09:00:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened 0.7% lower."
+    },
+    {
+      "id": "5088495",
+      "time": "2026-09-11 09:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.2%至46,399.40點。"
+    },
+    {
+      "id": "5088494",
+      "time": "2026-09-11 09:00:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲6%，現報4349.00元。"
+    },
+    {
+      "id": "5088493",
+      "time": "2026-09-11 09:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月份中國電商物流指數公佈】中國物流與採購聯合會今天（11日）釋出8月份中國電商物流指數。8月指數止跌回升，升至年內較高水平，電商物流活力進一步提升。8月份中國電商物流指數為111.5點，環比回升0.3點。9個分項指數中，有8項較上月有所回升。具體來看，電商物流供給端持續向好。8月份，電商物流服務體系穩步最佳化，供給端相關分項指數均保持回升態勢。庫存週轉率指數、物流時效指數、履約率指數、滿意率指數分別環比回升0.4、0.5、0.9和0.1點。多項指標連續多月回升，反映倉儲週轉效率、配送時效水平、訂單履約能力以及使用者服務體驗同步改善。人員指數與實載率指數較上月分別回升0.3和0.6點，顯示勞動力供給保障與車輛運載利用水平進一步提升。"
+    },
+    {
+      "id": "mkt:01a08dfa-d707-7118-8537-fc9af1c47e90",
+      "time": "2026-09-11 09:00:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened down 1.7% at 937.02 yuan/gram in early trade on Friday Sept 11; silver T+D opened down 5.13% at 15,529.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a08dfa-b830-7118-8537-f682161940f1",
+      "time": "2026-09-11 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Precious Metals",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "At the open, main domestic futures were mixed. Shanghai crude (SC) jumped over 6%; fuel oil and low-sulfur fuel oil (LU) rose more than 5%; benzene and asphalt gained over 3%; Europe-route container freight, LPG and styrene (EB) climbed above 2%. On the downside, Shanghai silver fell over 5%; LME copper and Shanghai zinc slipped more than 3%; Shanghai copper fell nearly 3%; Shanghai tin dropped over 2%; foundry aluminum declined about 2%; Shanghai aluminum and Shanghai gold were down just over 1%."
+    },
+    {
+      "id": "5088492",
+      "time": "2026-09-11 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.6%報46,651.21。"
+    },
+    {
+      "id": "5088491",
+      "time": "2026-09-11 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌5%，現報436.20元。"
+    },
+    {
+      "id": "5088490",
+      "time": "2026-09-11 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3134.00元。"
+    },
+    {
+      "id": "5088489",
+      "time": "2026-09-11 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報984.00元。"
+    },
+    {
+      "id": "5088488",
+      "time": "2026-09-11 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報4341.00元。"
+    },
+    {
+      "id": "5088487",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報5547.00元。"
+    },
+    {
+      "id": "5088486",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌4%，現報302.75元。"
+    },
+    {
+      "id": "5088485",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報9149.00元。"
+    },
+    {
+      "id": "5088484",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報10530.00元。"
+    },
+    {
+      "id": "5088483",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報6050.00元。"
+    },
+    {
+      "id": "5088482",
+      "time": "2026-09-11 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲6.70%，燃料油連續漲5.97%，低硫燃料油連續漲5.68%，白銀連續跌5.44%，鉑連續跌5.24%。"
+    },
+    {
+      "id": "5088481",
+      "time": "2026-09-11 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.69%。"
+    },
     {
       "id": "5088480",
       "time": "2026-09-11 08:59:02",
