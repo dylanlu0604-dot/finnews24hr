@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-12 02:05:46",
-  "count": 13536,
+  "updated": "2026-09-12 02:09:38",
+  "count": 13532,
   "items": [
+    {
+      "id": "5090222",
+      "time": "2026-09-12 02:08:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部還確認印度尼西亞、寮國存在非法補貼。"
+    },
+    {
+      "id": "5090221",
+      "time": "2026-09-12 02:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部確認印度存在非法太陽能補貼。"
+    },
     {
       "id": "mkt:01a091a4-9b1f-7118-8550-06697316ddea",
       "time": "2026-09-12 02:04:38",
@@ -124147,58 +124163,6 @@
         "MKT News"
       ],
       "text": "According to court filings, veterans asked a judge to bar Trump from launching the Washington Arch project before it receives final approval."
-    },
-    {
-      "id": "5078235",
-      "time": "2026-09-05 02:09:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：退伍軍人要求法官阻止特朗普在未獲最終批准的情況下為華盛頓拱門動工的計劃。"
-    },
-    {
-      "id": "mkt:01a06d9b-fc0c-7118-84ab-c8f84a6cb14e",
-      "time": "2026-09-05 02:08:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's agriculture minister said EU inspectors, after completing checks, found Brazil's sanitary controls for poultry and honey satisfactory."
-    },
-    {
-      "id": "5078234",
-      "time": "2026-09-05 02:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西農業部長在一份宣告中表示，歐盟官員檢查後認定巴西的禽肉與蜂蜜衛生管控符合要求。"
-    },
-    {
-      "id": "5078233",
-      "time": "2026-09-05 02:07:24",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特斯拉Cybercab更新未達預期 盤中股價下跌超6%】特斯拉(TSLA.O)股價週五盤中下跌逾6%，此前公司備受期待的Cybercab無人計程車更新未能達到華爾街預期，投資者對其在美國機器人計程車市場與Waymo競爭的能力產生擔憂。特斯拉週四在得州奧斯汀舉行Cybercab活動，該活動僅邀請嘉賓參加，未進行直播，執行長馬斯克也未出席。公司表示，使用者可透過Tesla Robotaxi打車應用，在奧斯汀限定區域體驗Cybercab無人駕駛服務。加拿大皇家銀行資本市場分析師表示，特斯拉此次活動僅披露了有限的新資訊，定價、生產節奏和監管審批等關鍵問題仍未解決。富國銀行分析師也稱“Cybercab釋出活動令人失望”，並指出特斯拉奧斯汀機器人計程車服務正面臨早期運營問題。此外，美國國家公路交通安全管理局已啟動“審查查詢”，以確認Cybercab是否符合聯邦安全標準並完成相關安全認證。此前，特斯拉股價在活動前一日上漲5.4%。"
-    },
-    {
-      "id": "5078232",
-      "time": "2026-09-05 02:07:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：已批准向伊拉克出售貝爾412直升機的潛在交易，預估金額為1.5億美元。"
-    },
-    {
-      "id": "mkt:01a06d9a-3440-7118-84ab-c2b59b62441a",
-      "time": "2026-09-05 02:06:57",
-      "tags": [
-        "MKT News",
-        "TXT.O"
-      ],
-      "text": "U.S. State Department approved sale of Bell 412 helicopters to Iraq valued at about $150 million."
     }
   ]
 }
