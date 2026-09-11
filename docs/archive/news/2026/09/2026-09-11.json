@@ -1,7 +1,143 @@
 {
   "date": "2026-09-11",
-  "count": 1396,
+  "count": 1410,
   "items": [
+    {
+      "id": "mkt:01a08f1e-a08a-7118-853f-d89d74648e15",
+      "time": "2026-09-11 14:19:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Sberbank head says Russian firms trading with India in bilateral local-currency settlements no longer face excessive accumulation of Indian rupees (INR)."
+    },
+    {
+      "id": "5088962",
+      "time": "2026-09-11 14:18:43",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "法國央行官員穆蘭：利率上漲幅度非常溫和。"
+    },
+    {
+      "id": "mkt:01a08f1e-381a-7118-853f-d774bdcbfe24",
+      "time": "2026-09-11 14:18:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banque de France governor Mulan said France is not in economic danger."
+    },
+    {
+      "id": "5088961",
+      "time": "2026-09-11 14:18:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國央行官員穆蘭：歐洲央行本週加息是合理的。"
+    },
+    {
+      "id": "5088960",
+      "time": "2026-09-11 14:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲Token Plan個人版升級：加量不加價 新增12類Agent Harness工具】9月11日，據阿里雲官微訊息，阿里雲Token Plan個人版升級。原有價格及Credit額度保持不變，Standard和Pro套餐新增Agent Harness工具權益與用量，覆蓋搜尋、網頁解析、影象生成、語音處理、程式碼執行等12項Agent開發常用能力。上述工具均透過MCP標準協議開放，可直接接入到自有 Agent應用，無需逐項單獨採購。"
+    },
+    {
+      "id": "te:economy:583033",
+      "time": "2026-09-11 14:17:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "UK Construction Output Dips More than Expected — UK construction output fell 2.5% year-on-year in July 2026, accelerating from a 2.3% decline in the previous month and marking the ninth consecutive month of contraction. It was also the steepest decline since December 2025, underperforming market estimates of a 2.3% fall. New work slipped for a tenth straight month (-5.1% vs -5.9% in June), while growth in repair and maintenance eased to a seven-month low (1.0% vs 2.8%). On a monthly basis, construction activity edged up 0.1%, reversing a 0.1% decline in June and signaling the first increase in four months. Repair and maintenance activity rose 0.8%, while new work fell 0.4% for a fourth consecutive month. Over the three months to July, output declined 0.5%, ending four consecutive periods of growth, as both new work and repair and maintenance fell 0.4% and 0.7%, respectively."
+    },
+    {
+      "id": "5088959",
+      "time": "2026-09-11 14:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米釋出並開源Xiaomi-CocktailASR-1】9月11日，據小米技術訊息，小米正式釋出並開源工業級目標說話人語音識別大模型Xiaomi-CocktailASR-1。據介紹，Xiaomi-CocktailASR-1旨在解決“雞尾酒會”難題。該模型採用端到端LLM架構，以目標說話人的一段參考音訊作為聲紋提示，可在多人同時說話的複雜環境中，精準提取並僅轉錄目標使用者的語音。"
+    },
+    {
+      "id": "mkt:01a08f1d-5248-7118-853f-c8e7e6831932",
+      "time": "2026-09-11 14:17:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold and silver are up more than 1% intraday; spot gold has climbed back above $4,360/oz, spot silver is at $64.16/oz."
+    },
+    {
+      "id": "5088958",
+      "time": "2026-09-11 14:17:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行官員穆蘭：法國並未陷入經濟危險境地。"
+    },
+    {
+      "id": "te:markets:583031",
+      "time": "2026-09-11 14:16:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Positive Open — European equity markets were poised for a modestly higher open on Friday following a two-session decline, as the recent surge in oil prices and global bond yields lost momentum, offering some relief to investors. Market participants also awaited a key US inflation reading that could influence expectations for a Federal Reserve rate hike next week. On Thursday, the European Central Bank delivered its widely anticipated quarter-point rate increase, while President Christine Lagarde highlighted upside risks to inflation and downside risks to economic growth. Investors will now turn to UK GDP figures and German current account data for July for further clues on the region’s economic health. No major earnings reports are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.2%."
+    },
+    {
+      "id": "te:economy:583030",
+      "time": "2026-09-11 14:16:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Inflation Rate Drops to 14-Month Low — The annual inflation rate in Romania eased to 6.2% in August 2026 from 8.2% in the previous month, slightly below market expectations of 6.3%. The latest figure marked the lowest reading since June 2025, as price growth slowed for food goods, falling to 2.6% from 5.0%, driven largely by lower prices for milling and bakery products (4.3% vs 7.1% in July), meat and meat products (3.9% vs 6.0%), and milk and dairy products (4.7% vs 6.7%). Inflation also moderated for non-food goods, easing to 6.4% from 7.9% a month earlier, weighed down by slower price growth for clothing (5.6% vs 6.6%), chemicals (5.7% vs 8.0%), and cultural and sports products (6.5% vs 8.6%). Moreover, services inflation eased to 11.3% from 13.7%. On a monthly basis, consumer prices grew by 0.2% in August, slowing from a 0.6% increase in the preceding period. Meanwhile, the HICP-based annual inflation rate moderated to 6.3% from 8.2% in July."
+    },
+    {
+      "id": "5088957",
+      "time": "2026-09-11 14:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部戰報要點總結】俄羅斯國防部稱，俄軍近期對烏克蘭多處軍事及相關基礎設施實施打擊，其中包括為烏軍儲存和傳輸資料、包括情報資料，並支援網路裝置執行的“Bi-Mobile”資料中心；用於存放無人機生產零部件的戈斯托梅利物流中心；第聶伯羅彼得羅夫斯克一處用於存放固定翼無人機及零部件的物流中心；以及敖德薩一座負責維修和維護烏軍裝備的汽車部件工廠。俄方還稱，俄軍在駛往敖德薩港途中打擊了一艘運送烏軍物資的乾貨船，並在切爾諾莫爾斯克港打擊兩艘載有烏軍物資的乾貨船和一艘海上快艇。此外，俄軍還打擊了敖德薩州維濟爾卡地區一處存放外國製造無人機零部件的倉庫。上述說法來自俄羅斯國防部，烏方暫未就相關目標性質及損失情況作出對應確認。"
+    },
+    {
+      "id": "5088956",
+      "time": "2026-09-11 14:15:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：儘管遭受這些衝擊，歐元區經濟增長仍可能繼續。"
+    },
+    {
+      "id": "5088955",
+      "time": "2026-09-11 14:15:31",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【中科曙光釋出scaleFabric Token加速技術體系】近日，中科曙光釋出scaleFabric Token加速技術體系，實現IBGDA技術在國內首次規模化應用。該體系以原生無損RDMA高速網路為基礎，構建“算存傳”三級緊耦合的Token加速超級通道，其中，支援GPU直接發起網路通訊的IBGDA技術實現在國內的首次規模化落地，已在十萬卡級大規模叢集中完成驗證。目前，scaleFabric已經完成DeepEP等通訊框架適配，並透過IBGDA、儲存直通等技術提升Token流轉效率，為國產大模型提供新的高速互連選擇。"
+    },
     {
       "id": "mkt:01a08f1b-477d-7118-853f-c7b39d1ab862",
       "time": "2026-09-11 14:15:24",
