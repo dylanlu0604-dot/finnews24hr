@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-11 22:56:25",
-  "count": 13640,
+  "updated": "2026-09-11 23:00:17",
+  "count": 13635,
   "items": [
+    {
+      "id": "5090144",
+      "time": "2026-09-11 22:59:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌3%，現報1046.00元。"
+    },
+    {
+      "id": "5090143",
+      "time": "2026-09-11 22:58:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國通脹報告被視為掃清美聯儲下週加息障礙 債市計入年內兩次加息】美國核心通脹資料高於預期後，交易員加大對美聯儲加息的押注，目前市場認為下週加息的機率達到90%，並已完全計入年底前兩次加息。利率互換顯示，交易員提高了對未來數月基準利率上升的押注，市場認為持續的價格壓力可能迫使美聯儲主席凱文·沃什領導的政策制定者採取行動。施羅德全球經濟主管David Rees表示：“美聯儲已經落後於形勢。它可以選擇下週加息，讓美國短期借貸成本以可控方式上升；也可以選擇不行動，但那樣就有可能面臨長期借貸成本失控上升的風險。”"
+    },
+    {
+      "id": "5090142",
+      "time": "2026-09-11 22:57:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "由於缺少大額訂單，德國將批准交付小批次8×8輪式裝甲平臺 “拳師犬”裝甲車。"
+    },
     {
       "id": "5090141",
       "time": "2026-09-11 22:54:53",
@@ -125072,82 +125098,6 @@
         "Energy"
       ],
       "text": "As of the 23:00 close, China's most-active futures contracts were mostly higher. Synthetic rubber rose just over 5%; caustic soda gained more than 3%; 20# rubber was near +3%; soda ash and rubber climbed over 2%. Fuel oil fell more than 2%."
-    },
-    {
-      "id": "te:markets:581358",
-      "time": "2026-09-04 23:00:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 0.75% — Top currency gainers are South Korean Won (0.75%), Indian Rupee (0.26%) and Dollar Index (0.24%). Biggest losers are Canadian Dollar (-0.35%), Swiss Franc (-0.32%), Swedish Krona (-0.32%), Japanese Yen (-0.20%), British Pound (-0.08%) and Euro (-0.07%)."
-    },
-    {
-      "id": "5078034",
-      "time": "2026-09-04 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】20號膠連續漲2.93%，純鹼連續漲2.78%，天然橡膠連續漲2.05%，燃料油連續跌2.04%，玻璃連續漲1.75%。"
-    },
-    {
-      "id": "5078033",
-      "time": "2026-09-04 22:58:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國電力集團（EDF）：受羅訥河水溫偏高影響，從2025年9月8日起，生產限制措施可能會影響比熱核電站。"
-    },
-    {
-      "id": "5078032",
-      "time": "2026-09-04 22:58:17",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【多頭了結、俄烏有望結束衝突，國際油價承壓下行】在美國假日週末來臨之際，投資者了結部分原油多頭頭寸；同時俄烏衝突出現有望結束的罕見進展，進一步削弱了地緣政治風險溢價，油價隨之走低。經歷一週接連不斷的相互打擊後，中東夜間敵對態勢暫時緩和。週五，美國西得克薩斯輕質原油（WTI）小幅下挫，交投於每桶90美元附近。勞動節假日週末前夕市場交投清淡，美伊衝突擾亂霍爾木茲海峽能源航運，不確定性猶存，投資者不願建立大規模頭寸。加拿大帝國商業銀行私人財富集團高階能源交易員麗貝卡・巴賓表示：“夜間軍事局勢趨於緩和，削弱了油價上行動能。疊加本週大幅上漲後的獲利了結，再加上市場流動性稀薄，多重因素共同施壓原油價格。”"
-    },
-    {
-      "id": "5078031",
-      "time": "2026-09-04 22:58:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尼泊爾泥石流遇難人數升至1325人】根據尼泊爾警方公佈的最新資料，截至當地時間9月4日20時，尼泊爾泥石流災害造成的遇難人數升至1325人。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a06cec-e915-7118-84a8-dbbaf3ccb1de",
-      "time": "2026-09-04 22:57:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "SOXL",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【JP Morgan: Funds exit memory chips; semiconductors see renewed inflows】JP Morgan Delta-One team: last week US equity risk appetite rose but AI-related flows diverged. Semiconductor ETFs netted about $3.3bn of inflows while DRAM-linked products recorded roughly $900m of net outflows—the first weekly outflow since launch. Leveraged ETFs drew about $800m, including roughly $600m into SOXL; Korean assets saw outflows near one standard deviation. The team says this reflects profit-taking in memory and Korea-linked \"new AI\" names and a rotation into broader-coverage semiconductor stocks rather than an exit from AI exposure. Nasdaq-100 futures still showed near two-standard-deviation net buying, indicating overall tech risk appetite remains."
-    },
-    {
-      "id": "5078030",
-      "time": "2026-09-04 22:57:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌幅擴大至0.5%，創盤中新低。"
-    },
-    {
-      "id": "5078029",
-      "time": "2026-09-04 22:56:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局：特斯拉奧斯汀部署專案引發調查，該局已展開調查。"
     }
   ]
 }
