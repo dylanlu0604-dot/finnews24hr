@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-12 04:33:08",
-  "count": 13472,
+  "updated": "2026-09-12 04:37:04",
+  "count": 13474,
   "items": [
+    {
+      "id": "5090376",
+      "time": "2026-09-12 04:36:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "OLEMA製藥公司股價盤後下跌23%。"
+    },
+    {
+      "id": "te:markets:583294",
+      "time": "2026-09-12 04:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.98% Higher — The Dow Jones Index gained 509 points or 0.98 percent on Friday to close at 52573 points. Gains were led by Cisco Systems (4.38%), IBM (3.89%) and Boeing (2.77%). Biggest losers were UnitedHealth (-2.47%), Amgen (-1.34%) and Merck (-0.47%)."
+    },
+    {
+      "id": "5090372",
+      "time": "2026-09-12 04:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：諾伯特風暴持續向西移動。"
+    },
     {
       "id": "mkt:01a0922a-da9a-7118-8551-b718007de8d2",
       "time": "2026-09-12 04:31:16",
@@ -123652,18 +123681,6 @@
         "S&P500"
       ],
       "text": "【US August jobs lift Fed rate‑hike bets; Wall Street risk assets largely hold】US August payrolls beat expectations, reviving bets the Federal Reserve may tighten at its Sept. 16 meeting. US Treasuries sold off, the dollar strengthened and the S&P 500 fell on Friday but still logged a weekly gain. The bond repricing has not triggered a broad flight to safety: credit spreads remain near lows and pressure on corporate debt and equity indices is limited. JP Morgan says Treasury market liquidity has deteriorated materially, but corporate bond ETFs and equity index futures have not shown comparable stress. Market resilience is underpinned by solid growth and corporate earnings, with AI-driven capex supporting large tech investment. Traders are focused on the speed of any further yield rise rather than the single payrolls print; upcoming inflation data and whether the Fed revises its tightening path will drive the next moves. A rapid further increase in yields could force investors to reduce risk exposure."
-    },
-    {
-      "id": "te:markets:581409",
-      "time": "2026-09-05 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index dropped 272 points or 0.51 percent on Friday to close at 53414 points. Losses were led by Apple (-2.55%), Alphabet (-2.10%) and Microsoft (-2.05%). Offsetting the fall, top gainers were Caterpillar (1.65%), Honeywell International (0.95%) and Home Depot (0.88%)."
     }
   ]
 }

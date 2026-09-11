@@ -1,7 +1,36 @@
 {
   "date": "2026-09-12",
-  "count": 248,
+  "count": 251,
   "items": [
+    {
+      "id": "5090376",
+      "time": "2026-09-12 04:36:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "OLEMA製藥公司股價盤後下跌23%。"
+    },
+    {
+      "id": "te:markets:583294",
+      "time": "2026-09-12 04:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.98% Higher — The Dow Jones Index gained 509 points or 0.98 percent on Friday to close at 52573 points. Gains were led by Cisco Systems (4.38%), IBM (3.89%) and Boeing (2.77%). Biggest losers were UnitedHealth (-2.47%), Amgen (-1.34%) and Merck (-0.47%)."
+    },
+    {
+      "id": "5090372",
+      "time": "2026-09-12 04:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：諾伯特風暴持續向西移動。"
+    },
     {
       "id": "mkt:01a0922a-da9a-7118-8551-b718007de8d2",
       "time": "2026-09-12 04:31:16",
