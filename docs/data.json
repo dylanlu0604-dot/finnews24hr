@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 02:09:38",
-  "count": 13532,
+  "updated": "2026-09-12 02:13:31",
+  "count": 13531,
   "items": [
+    {
+      "id": "mkt:01a091aa-eef3-7118-8550-0d4f6bf8d82b",
+      "time": "2026-09-12 02:11:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim news agency, citing Yemeni military sources, said Houthi forces struck assembly points and positions of mercenaries of the Saudi regime in eastern Al Jawf province, burning dozens of military vehicles."
+    },
     {
       "id": "5090222",
       "time": "2026-09-12 02:08:07",
@@ -124146,23 +124154,6 @@
         "其他"
       ],
       "text": "巴西政府：巴西8月出口大豆981萬噸，高於去年同期的933萬噸。"
-    },
-    {
-      "id": "5078236",
-      "time": "2026-09-05 02:11:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【AI雲端計算公司Nscale據悉尋求35億美元IPO前融資】據知情人士透露，專注於人工智慧的雲端計算公司Nscale正與潛在投資者洽談，計劃在首次公開募股之前融資至多35億美元。知情人士稱，這家總部位於倫敦的公司正尋求向一批投資者出售至多15億美元的可轉換票據。由於相關資訊屬於機密，他們要求匿名。其中一位知情人士表示，Nscale還計劃從英偉達獲得約20億美元融資。此前報道稱，該公司的首次公開募股可能再籌集30億美元。部分知情人士稱，Daniel Loeb旗下的Third Point將牽頭這筆可轉換票據投資。知情人士還表示，高盛集團正在協助此次融資。知情人士稱，相關磋商仍在進行中，融資規模和投資者等細節可能發生變化，目前尚未作出最終決定。"
-    },
-    {
-      "id": "mkt:01a06d9d-55ab-7118-84ab-d510f6938819",
-      "time": "2026-09-05 02:10:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to court filings, veterans asked a judge to bar Trump from launching the Washington Arch project before it receives final approval."
     }
   ]
 }
