@@ -1,7 +1,50 @@
 {
   "date": "2026-09-11",
-  "count": 756,
+  "count": 761,
   "items": [
+    {
+      "id": "5088519",
+      "time": "2026-09-11 09:19:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天域生物等成立科技公司，含多項AI業務】企查查APP顯示，近日，北京泓算智元科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧硬體銷售；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由天域生物等共同持股。"
+    },
+    {
+      "id": "5088517",
+      "time": "2026-09-11 09:18:30",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：中國電池行業反內卷升級料利好寧德時代，維持目標價595元】摩根士丹利表示，中國電池行業的反內卷行動正進入新階段，產能擴張越來越與產能利用率掛鉤，這將有利於行業龍頭。寧德時代上半年的產能利用率達到95%，而國內行業平均水平僅為65%。該行維持寧德時代A股目標價為595元人民幣，較週四收盤價仍有約77%的上漲空間。"
+    },
+    {
+      "id": "mkt:01a08e0b-2fa3-7118-8538-4e34cc7761cd",
+      "time": "2026-09-11 09:18:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China-Norway Economic Cooperation Joint Committee holds 22nd meeting in Beijing】China and Norway held the 22nd China-Norway Economic Cooperation Joint Committee meeting in Beijing. China said bilateral trade has grown strongly and investment flows have become more diversified under recent strategic guidance. China welcomed Norway as guest country for the 2026 China International Fair for Trade in Services and proposed stepped-up services cooperation and deeper practical ties in green/environmental tech, energy transition, shipbuilding and maritime shipping. Both sides reiterated support for free trade and market openness. China invited Norwegian firms to invest in China and urged Norway to ensure a fair, transparent and non-discriminatory business environment for Chinese companies operating in Norway."
+    },
+    {
+      "id": "5088516",
+      "time": "2026-09-11 09:17:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【發那科與谷歌合作開發人工智慧焊接智慧體】發那科和谷歌研發一款人工智慧智慧體，可讀取零件圖紙並執行電弧焊接作業。產品將於 12 月開始出貨。該智慧體採用谷歌雲的 Gemini 企業版人工智慧工具以及發那科工業機器人。"
+    },
+    {
+      "id": "5088515",
+      "time": "2026-09-11 09:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【推動網際網路等領域擴大開放 吸引更多外企在華投資】記者從國家發展改革委與美在華跨國企業高層圓桌會上瞭解到，“十五五”時期，我國將積極擴大自主開放，以服務業為重點，擴大市場準入和開放領域，吸引更多外資企業在華投資。國家發展改革委有關負責人介紹，“十五五”時期，我國將在市場準入方面，為外資企業發展拓展空間。（央視）"
+    },
     {
       "id": "5088514",
       "time": "2026-09-11 09:15:33",
