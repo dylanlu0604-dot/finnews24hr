@@ -1,7 +1,78 @@
 {
   "date": "2026-09-11",
-  "count": 2422,
+  "count": 2429,
   "items": [
+    {
+      "id": "te:markets:583239",
+      "time": "2026-09-11 22:22:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens on Lower Inflation — The Brazilian real strengthened slightly to around 5.08 per US dollar in September, reaching a more than one-month high following lower-than-expected inflation data. Brazil’s annual inflation rate eased to 4.22% in August 2026 from 4.44% in July, slightly below forecasts of 4.27% and moving further within the central bank’s target range of 1.50%-4.50%. With the Selic elevated, upward pressure on real returns on bonds is increasing the attractiveness of fixed-income market to foreign investors seeking yield. Also, lower inflation reduces the country’s risk premium, boosting foreign investor confidence. However, the data raised bets that the BCB will cut the Selic by at next week’s Copom meeting. This would narrow the rate differential, as bets on a Fed rate hike remain high following US CPI coming largely in line with forecasts. Meanwhile, gains by Flávio Bolsonaro in recent presidential election polls have supported the real, as markets view Bolsonaro as fiscally restrictive."
+    },
+    {
+      "id": "mkt:01a090d9-0251-7118-854e-5c8b6f46f09d",
+      "time": "2026-09-11 22:22:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Hungary to give diesel car owners HUF 20,000 fuel subsidy per vehicle】Hungary will pay HUF 20,000 (about $64) per diesel vehicle by year-end to offset surging fuel costs, the government said. The measure will be paid as HUF 5,000 monthly through December and is targeted at roughly 1 million diesel cars under 150 hp. The prime minister said the support will help those in need without causing fuel shortages or adding HUF 50–100 billion to the budget. Retail petrol and diesel prices have floated since the new government ended price controls in June; a partial closure of the Strait of Hormuz pushed prices to a four-year high and prompted opposition calls for renewed intervention. The government did not give a total cost; if one million owners are eligible the bill would be about HUF 20 billion (around $64 million)."
+    },
+    {
+      "id": "mkt:01a090d8-d810-7118-854e-52b8aa2c6a73",
+      "time": "2026-09-11 22:22:05",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) turned lower after earlier gains of as much as 8%."
+    },
+    {
+      "id": "mkt:01a090d8-8e00-7118-854e-4d7a5a02e01f",
+      "time": "2026-09-11 22:21:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "TD Securities revised its Fed rate expectation for September from unchanged to a rate hike."
+    },
+    {
+      "id": "5090118",
+      "time": "2026-09-11 22:21:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社11日報道，伊朗外交部發言人巴加埃當天宣佈，伊朗、伊拉克等波斯灣沿岸國家將於14日在阿曼舉行地區會議，就建立霍爾木茲海峽商業航運安全航線交換意見。（新華社）"
+    },
+    {
+      "id": "5090117",
+      "time": "2026-09-11 22:21:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價轉跌，抹去了此前高達 8.5% 的漲幅。"
+    },
+    {
+      "id": "5090116",
+      "time": "2026-09-11 22:20:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9月11日增減持彙總】9月11日盤後，據不完全統計，包括日月明、矩陣股份、同宇新材、藍豐生化、清研環境、皓元醫藥在內的6家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
     {
       "id": "mkt:01a090d6-4708-7118-854e-4669f9e85179",
       "time": "2026-09-11 22:19:16",

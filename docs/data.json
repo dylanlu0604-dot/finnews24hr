@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-11 22:20:14",
+  "updated": "2026-09-11 22:24:22",
   "count": 13666,
   "items": [
+    {
+      "id": "te:markets:583239",
+      "time": "2026-09-11 22:22:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens on Lower Inflation — The Brazilian real strengthened slightly to around 5.08 per US dollar in September, reaching a more than one-month high following lower-than-expected inflation data. Brazil’s annual inflation rate eased to 4.22% in August 2026 from 4.44% in July, slightly below forecasts of 4.27% and moving further within the central bank’s target range of 1.50%-4.50%. With the Selic elevated, upward pressure on real returns on bonds is increasing the attractiveness of fixed-income market to foreign investors seeking yield. Also, lower inflation reduces the country’s risk premium, boosting foreign investor confidence. However, the data raised bets that the BCB will cut the Selic by at next week’s Copom meeting. This would narrow the rate differential, as bets on a Fed rate hike remain high following US CPI coming largely in line with forecasts. Meanwhile, gains by Flávio Bolsonaro in recent presidential election polls have supported the real, as markets view Bolsonaro as fiscally restrictive."
+    },
+    {
+      "id": "mkt:01a090d9-0251-7118-854e-5c8b6f46f09d",
+      "time": "2026-09-11 22:22:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Hungary to give diesel car owners HUF 20,000 fuel subsidy per vehicle】Hungary will pay HUF 20,000 (about $64) per diesel vehicle by year-end to offset surging fuel costs, the government said. The measure will be paid as HUF 5,000 monthly through December and is targeted at roughly 1 million diesel cars under 150 hp. The prime minister said the support will help those in need without causing fuel shortages or adding HUF 50–100 billion to the budget. Retail petrol and diesel prices have floated since the new government ended price controls in June; a partial closure of the Strait of Hormuz pushed prices to a four-year high and prompted opposition calls for renewed intervention. The government did not give a total cost; if one million owners are eligible the bill would be about HUF 20 billion (around $64 million)."
+    },
+    {
+      "id": "mkt:01a090d8-d810-7118-854e-52b8aa2c6a73",
+      "time": "2026-09-11 22:22:05",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) turned lower after earlier gains of as much as 8%."
+    },
+    {
+      "id": "mkt:01a090d8-8e00-7118-854e-4d7a5a02e01f",
+      "time": "2026-09-11 22:21:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "TD Securities revised its Fed rate expectation for September from unchanged to a rate hike."
+    },
+    {
+      "id": "5090118",
+      "time": "2026-09-11 22:21:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社11日報道，伊朗外交部發言人巴加埃當天宣佈，伊朗、伊拉克等波斯灣沿岸國家將於14日在阿曼舉行地區會議，就建立霍爾木茲海峽商業航運安全航線交換意見。（新華社）"
+    },
+    {
+      "id": "5090117",
+      "time": "2026-09-11 22:21:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價轉跌，抹去了此前高達 8.5% 的漲幅。"
+    },
+    {
+      "id": "5090116",
+      "time": "2026-09-11 22:20:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9月11日增減持彙總】9月11日盤後，據不完全統計，包括日月明、矩陣股份、同宇新材、藍豐生化、清研環境、皓元醫藥在內的6家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
     {
       "id": "mkt:01a090d6-4708-7118-854e-4669f9e85179",
       "time": "2026-09-11 22:19:16",
@@ -125307,74 +125378,6 @@
         "其他"
       ],
       "text": "【5年建500家零碳工廠！中國工廠正在加速變綠】今年7月，國家級零碳工廠建設正式啟動。“十五五”期間，我國要培育建設500家零碳工廠。從北京亦莊的風電裝備工廠，到上海金山的電纜廠，零碳工廠正逐步從概念變成現實。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a06ccd-fe58-7118-84a8-4ed09285833f",
-      "time": "2026-09-04 22:23:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the US government has asked the Supreme Court to authorize reinstatement of restrictions on mail-in voting."
-    },
-    {
-      "id": "em:qqyh_mlc:202609043865717763",
-      "time": "2026-09-04 22:23:44",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【花旗推遲美聯儲降息預期至2027年】花旗集團大幅推遲了對美聯儲降息時點的預測，現預計美聯儲將在2027年6月、9月和12月各降息25個基點。此前的預測為2026年10月、12月和2027年1月。"
-    },
-    {
-      "id": "5077985",
-      "time": "2026-09-04 22:21:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府請求本國最高法院批准重啟對郵寄投票實施限制的相關工作。"
-    },
-    {
-      "id": "mkt:01a06ccc-3294-7118-84a8-43a54723597b",
-      "time": "2026-09-04 22:21:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AFP cited Ukrainian officials saying U.S. Middle East special envoy Witkoff and Trump senior adviser Jared Kushner are expected to arrive in Kyiv on Sunday."
-    },
-    {
-      "id": "mkt:01a06ccb-d524-7118-84a8-3d17ef5782ef",
-      "time": "2026-09-04 22:21:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "CITIGROUP now expects the Federal Reserve to cut rates by 25bp in June, September and December 2027, versus prior forecasts for 25bp cuts in October 2026, December 2026 and January 2027."
-    },
-    {
-      "id": "5077984",
-      "time": "2026-09-04 22:21:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國AI站上IFA展C位】當地時間9月4日，全球消費電子盛會—2026年柏林國際消費電子展（IFA）開幕。據報道，今年的IFA中國科技企業參展數量超900家，佔比近50%。與往年相比，今年IFA的主題為“未來即是現在”，重心進一步向AI延伸，展區覆蓋計算機與遊戲、機器人、移動出行等。（新華社）"
-    },
-    {
-      "id": "5077983",
-      "time": "2026-09-04 22:20:23",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "花旗集團預計，美聯儲將在2027年6月、9月和12月各降息25個基點，此前預測為2026年10月、12月以及2027年1月降息。"
     }
   ]
 }
