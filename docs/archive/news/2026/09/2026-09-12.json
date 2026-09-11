@@ -1,7 +1,38 @@
 {
   "date": "2026-09-12",
-  "count": 102,
+  "count": 105,
   "items": [
+    {
+      "id": "te:markets:583286",
+      "time": "2026-09-12 02:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 1.73% — Top commodity losers are Lithium Carbonate (-1.73%), Iron Ore CNY (-1.71%) and Silicon (-1.55%). Gains are led by Silver (1.32%) and Gold (0.78%)."
+    },
+    {
+      "id": "mkt:01a091b2-401a-7118-8550-1fb3668370ad",
+      "time": "2026-09-12 02:19:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Fox News reports the U.S. military is preparing to conduct night operations as tensions with Iran escalate."
+    },
+    {
+      "id": "5090224",
+      "time": "2026-09-12 02:19:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特蘭蒂斯與 Roshel 簽署諒解備忘錄，擬出售加拿大工廠。"
+    },
     {
       "id": "te:markets:583285",
       "time": "2026-09-12 02:15:12",

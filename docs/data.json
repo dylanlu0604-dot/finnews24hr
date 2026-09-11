@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-12 02:17:23",
-  "count": 13522,
+  "updated": "2026-09-12 02:21:17",
+  "count": 13514,
   "items": [
+    {
+      "id": "te:markets:583286",
+      "time": "2026-09-12 02:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 1.73% — Top commodity losers are Lithium Carbonate (-1.73%), Iron Ore CNY (-1.71%) and Silicon (-1.55%). Gains are led by Silver (1.32%) and Gold (0.78%)."
+    },
+    {
+      "id": "mkt:01a091b2-401a-7118-8550-1fb3668370ad",
+      "time": "2026-09-12 02:19:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Fox News reports the U.S. military is preparing to conduct night operations as tensions with Iran escalate."
+    },
+    {
+      "id": "5090224",
+      "time": "2026-09-12 02:19:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特蘭蒂斯與 Roshel 簽署諒解備忘錄，擬出售加拿大工廠。"
+    },
     {
       "id": "te:markets:583285",
       "time": "2026-09-12 02:15:12",
@@ -123983,101 +124014,6 @@
         "國際"
       ],
       "text": "特朗普：還將簽署行政令，允許牧場主保護牛群。"
-    },
-    {
-      "id": "5078249",
-      "time": "2026-09-05 02:21:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "主審法官稱：馬薩諸塞州上訴法院駁回了林賽·克蘭西旨在阻止法官宣佈無效審判的緊急動議。"
-    },
-    {
-      "id": "mkt:01a06da6-b65b-7118-84ac-0ce4b1c1bf17",
-      "time": "2026-09-05 02:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he was frankly unsure whether large manufacturing firms would continue to exist."
-    },
-    {
-      "id": "mkt:01a06da6-5bbb-7118-84ac-002da86c817e",
-      "time": "2026-09-05 02:20:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said small, medium and large ranchers can sell directly to consumers."
-    },
-    {
-      "id": "te:markets:581396",
-      "time": "2026-09-05 02:20:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.56% — Top commodity losers are Lithium Carbonate (-2.56%), Silver (-1.58%) and Gold (-1.21%). Gains are led by Silicon (1.09%) and Steel Rebar (0.51%)."
-    },
-    {
-      "id": "te:markets:581395",
-      "time": "2026-09-05 02:19:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of New York Mellon Stock Price Hits All-time High — Bank Of New York Mellon shares increased to an all-time high of 165.69 USD. Over the past 4 weeks, Bank Of New York Mellon gained 4.33%, and in the last 12 months, it increased 59.73%."
-    },
-    {
-      "id": "mkt:01a06da5-ce3f-7118-84ab-ff907f9563f2",
-      "time": "2026-09-05 02:19:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump will sign an executive order allowing ranchers to process beef themselves."
-    },
-    {
-      "id": "5078248",
-      "time": "2026-09-05 02:19:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：肉類加工商一直收取難以承受的高價。"
-    },
-    {
-      "id": "5078247",
-      "time": "2026-09-05 02:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：今日著手整治肉類加工行業壟斷問題。"
-    },
-    {
-      "id": "5078246",
-      "time": "2026-09-05 02:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：畜牧業遭到肉類加工行業的壓榨剝削。"
-    },
-    {
-      "id": "5078245",
-      "time": "2026-09-05 02:18:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將簽署行政命令，允許牧場主自行加工牛肉。"
-    },
-    {
-      "id": "5078244",
-      "time": "2026-09-05 02:17:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將實施力度極強的安全檢查。"
     }
   ]
 }
