@@ -1,7 +1,237 @@
 {
   "date": "2026-09-11",
-  "count": 2381,
+  "count": 2403,
   "items": [
+    {
+      "id": "5090102",
+      "time": "2026-09-11 22:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密歇根大學消費者信心調查結果顯示：9月份，消費者對未來一年經濟的看法惡化至2022年7月以來最低。"
+    },
+    {
+      "id": "5090101",
+      "time": "2026-09-11 22:03:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾病控制與預防中心（CDC）：與泰勒農場墨西哥生菜相關的環孢子菌感染暴發疫情已結束。"
+    },
+    {
+      "id": "mkt:01a090c7-533b-7118-854e-3093da9b73eb",
+      "time": "2026-09-11 22:02:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. consumer sentiment falls for second month; one-year inflation expectations rise】Preliminary September University of Michigan consumer sentiment index 47.8, down for a second month but by fewer than 4 index points. Expectations for personal finances and business conditions over the next year fell sharply; Democrats and Republicans both showed large declines while independents were little changed. Consumers cited a rebound in fuel prices and rising trade tensions, saying they expect greater wallet pressure ahead. Five-year expectations for business conditions were unchanged but remain far below historical averages. Overall sentiment is about 16% below February levels before the Iran conflict and 13% below a year ago. One-year inflation expectations jumped to 4.6% from 4.0%, the highest since June and above the February pre-Iran 3.4% and all prior 2024 readings. Long-term inflation expectations ticked up to 3.4% from 3.3%, ending a three-month flat stretch and remaining above the 2.8–3.2% range seen earlier in 2024."
+    },
+    {
+      "id": "5090100",
+      "time": "2026-09-11 22:01:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲、FDIC圍繞第三方風險管理徵求意見。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609113872355915",
+      "time": "2026-09-11 22:00:58",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月一年期通脹率預期初值為4.6%，預估為4.2%。"
+    },
+    {
+      "id": "5090099",
+      "time": "2026-09-11 22:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲化工巨頭巴斯夫表示將選定花旗、德意志銀行、高盛、摩根大通四家銀行負責其200億歐元農化部門IPO的承銷工作。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609113872355664",
+      "time": "2026-09-11 22:00:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月密歇根大學消費者信心指數初值為47.8，預估為51。"
+    },
+    {
+      "id": "mkt:01a090c4-f2c1-7118-854e-2a058cc37ed2",
+      "time": "2026-09-11 22:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US preliminary 1-year inf expectations for September 4.6% vs 4.2% expected; prior 4.0%."
+    },
+    {
+      "id": "mkt:01a090c4-f066-7118-854e-2341fe889cbd",
+      "time": "2026-09-11 22:00:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US preliminary September 5- to 10-year inflation expectation 3.4% vs 3.3% expected; prior 3.30%."
+    },
+    {
+      "id": "mkt:01a090c4-e4af-7118-854e-194baefdf225",
+      "time": "2026-09-11 22:00:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US Sep preliminary University of Michigan consumer expectations index 45.8; consensus 50.5; prior 51.5."
+    },
+    {
+      "id": "mkt:01a090c4-e44b-7118-854e-16c9e8437598",
+      "time": "2026-09-11 22:00:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian President PEZESHKIAN said U.S. pressure on Tehran has reached a 'dangerous' stage."
+    },
+    {
+      "id": "5090098",
+      "time": "2026-09-11 22:00:12",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國9月密歇根大學消費者信心指數初值 47.8，預期51，前值51.7。美國9月一年期通脹率預期初值 4.6%，預期4.2%，前值4.00%。"
+    },
+    {
+      "id": "mkt:01a090c4-e3e8-7118-854e-0ebd87987eea",
+      "time": "2026-09-11 22:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US University of Michigan preliminary Sep consumer sentiment index 47.8, below 51 expected and prior 51.7."
+    },
+    {
+      "id": "mkt:01a090c4-cc2f-7118-854e-051a03a3ddfd",
+      "time": "2026-09-11 22:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US University of Michigan preliminary September current conditions index 50.9, vs 51.3 est. and 51.9 prior."
+    },
+    {
+      "id": "mkt:01a090c4-a575-7118-854d-fa24276158fd",
+      "time": "2026-09-11 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Five Years (Sep) | actual 3.4% | consensus 3.3% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a090c4-a573-7118-854d-f5d1291bdd1b",
+      "time": "2026-09-11 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Year (Sep) | actual 4.6% | consensus 4.2% | previous 4.00%"
+    },
+    {
+      "id": "mkt:01a090c4-a122-7118-854d-ed3371390ac8",
+      "time": "2026-09-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Flash (Sep) | actual 50.9 | consensus 51.3 | previous 51.9"
+    },
+    {
+      "id": "mkt:01a090c4-a120-7118-854d-e016aa3ac42c",
+      "time": "2026-09-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Flash (Sep) | actual 45.8 | consensus 50.5 | previous 51.5"
+    },
+    {
+      "id": "mkt:01a090c4-a09c-7118-854d-da6426774266",
+      "time": "2026-09-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Sep) | actual 47.8 | consensus 51 | previous 51.7"
+    },
+    {
+      "id": "5090097",
+      "time": "2026-09-11 21:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會稱當前優先撥付450億歐元援烏貸款，暫將動用俄凍結資產列為非優先事項】歐盟委員會發言人皮紐表示，歐盟當前的優先事項是確保及時向烏克蘭提供450億歐元貸款，後續再評估其額外資金需求及具體工具。針對是否將動用俄羅斯凍結資產（包括將相關資產從歐洲清算銀行轉移至其他機構）作為當前優先事項，皮紐明確予以否認，稱歐盟雖已在此方向開展大量工作，但目前焦點已轉向其他問題。"
+    },
+    {
+      "id": "mkt:01a090c3-e615-7118-854d-d6ce694fa983",
+      "time": "2026-09-11 21:59:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said political, military and economic pressure on a country will have effects beyond its borders."
+    },
+    {
+      "id": "5090094",
+      "time": "2026-09-11 21:59:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破79000美元，日內漲3.19%。"
+    },
     {
       "id": "mkt:01a090c3-787f-7118-854d-cf86e0a6e6e6",
       "time": "2026-09-11 21:58:44",
