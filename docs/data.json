@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-11 13:33:12",
-  "count": 13621,
+  "updated": "2026-09-11 13:37:04",
+  "count": 13624,
   "items": [
+    {
+      "id": "5088882",
+      "time": "2026-09-11 13:35:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念再度拉昇 昀冢科技漲超10%】午後MLCC概念再度拉昇，昀冢科技漲超10%，此前雙星新材漲停，風華高科、宏明電子、火炬電子、國瓷材料、三環集團快速衝高。"
+    },
+    {
+      "id": "5088881",
+      "time": "2026-09-11 13:35:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：Cybercab在日本首次亮相。"
+    },
+    {
+      "id": "mkt:01a08ef6-b14a-7118-853d-dcf66febc2dc",
+      "time": "2026-09-11 13:35:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed down 755.64 points, or 1.61%, at 46,184.85 on Friday, Sept. 11."
+    },
+    {
+      "id": "5088880",
+      "time": "2026-09-11 13:35:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報101.45美元/桶。"
+    },
+    {
+      "id": "5088879",
+      "time": "2026-09-11 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低1.6%報46,184.85。"
+    },
+    {
+      "id": "te:economy:583013",
+      "time": "2026-09-11 13:34:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Dutch Trade Surplus Widens in July — The Netherlands’ trade surplus widened to EUR 10.9 billion in July 2026 from EUR 9.0 billion in the same month a year earlier. Exports rose 10.5% year-on-year to EUR 75.2 billion, driven by higher shipments to both the EU (+9.2%) and non-EU countries (+12.5%). Among commodities, outbound shipments increased the most for animal and vegetable oils and fats (+33.3%), machinery and equipment (+26.3%), mineral fuels and lubricants (+20.2%), and chemical products (+15.9%). Meanwhile, imports grew 8.9% to EUR 62.2 billion, lifted by increased purchases from both the EU (+7.5%) and non-EU countries (+10.2%). Import growth was supported by machinery and equipment (+19.5%), animal and vegetable oils and fats (+19.4%), mineral fuels and lubricants (+12.7%), and beverages and tobacco (+12.7%). In the January–July period, the Dutch trade surplus stood at EUR 67.0 billion, as exports rose 5.6%, while imports grew 4.8%."
+    },
+    {
+      "id": "5088878",
+      "time": "2026-09-11 13:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【75歲王石現身HYROX北京站參賽，田樸珺到場支援 】9月11日午間訊息，9月10日，室內綜合體能賽事HYROX北京站開賽。今年10月即將75歲的萬科創始人王石現身參賽，其妻子田樸珺到場支援。據網友釋出的現場影片和圖片，王石當日身著背心短褲、搭配熒光綠襪、佩戴頭帶參賽。田樸珺當日身穿黑色單肩上衣和黑色短裙，搭配白色棒球帽現身觀眾席。比賽中途，王石走向觀眾席與田樸珺碰拳互動，二人對視淺笑，引發網友熱議。（新浪科技）"
+    },
+    {
+      "id": "5088877",
+      "time": "2026-09-11 13:34:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4340美元/盎司，日內漲0.56%。"
+    },
+    {
+      "id": "mkt:01a08ef5-1cd7-7118-853d-d634322c4c81",
+      "time": "2026-09-11 13:33:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Gasoline rebound could lift US August CPI MoM】A rebound in gasoline prices after two months of declines could push US August CPI MoM higher, reinforcing markets' expectations of a Fed rate hike next week. The Labor Department will publish August CPI on Friday; several key components of Thursday's PPI report were strong. Some economists say oil returning above $100/bbl will keep inflation elevated and broaden price pressures, while others point to import tariffs—notably recent tariffs on Canada—as a continuing source of upward price pressure."
+    },
     {
       "id": "5088876",
       "time": "2026-09-11 13:32:07",
@@ -124641,57 +124728,6 @@
         "Impact bearish"
       ],
       "text": "China A-share liquid-cooled server sector slid; Inspur Information approached its daily limit down, Jiebang Technology fell over 9%, and Sifang Technology, Tongfei, Kangsheng and Yidong Electronics also declined."
-    },
-    {
-      "id": "5076875",
-      "time": "2026-09-04 13:37:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【川投能源、中國電建等成立抽水蓄能開發新公司】企查查APP顯示，近日，川能（南江）抽水蓄能開發有限公司成立，經營範圍包含水力發電；發電業務、輸電業務、供（配）電業務。企查查股權穿透顯示，該公司由川投能源、中國電建全資子公司中國電建集團成都勘測設計研究院有限公司等共同持股。"
-    },
-    {
-      "id": "5076873",
-      "time": "2026-09-04 13:36:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.00%，成分股中，華虹宏力跌9.08%，盛科通訊跌4.56%，中科飛測跌4.54%，生益電子跌3.43%。"
-    },
-    {
-      "id": "mkt:01a06aea-9dd4-7118-8498-55b5916fbb4b",
-      "time": "2026-09-04 13:35:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Taiex rose 693.47 points, or 1.51%, to 46,551.13 on Sept. 4 (Friday)."
-    },
-    {
-      "id": "5076872",
-      "time": "2026-09-04 13:35:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高1.5%報46,551.13。"
-    },
-    {
-      "id": "mkt:01a06aea-0852-7118-8498-4cf8618bb96c",
-      "time": "2026-09-04 13:35:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chicago wheat futures fall as cooling hopes for Russia-Ukraine talks weigh on market】Chicago wheat futures fell on Friday, pressured after hopes for Russia-Ukraine peace talks cooled. The contract slipped modestly following Thursday’s 2.6% decline and is set to post its first weekly drop in five weeks. Russian President Putin had earlier said there was room for constructive talks, comments that briefly lifted expectations of reduced export disruptions from a major grain-producing region."
-    },
-    {
-      "id": "5076871",
-      "time": "2026-09-04 13:35:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "大眾汽車股價盤前指標顯示預計上漲4.4%，此前董事會批准了轉型計劃。保時捷股價盤前指標顯示預計上漲2.5%。"
     }
   ]
 }
