@@ -1,7 +1,35 @@
 {
   "date": "2026-09-12",
-  "count": 110,
+  "count": 113,
   "items": [
+    {
+      "id": "5090229",
+      "time": "2026-09-12 02:27:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：週四利雅得和麥地那地區的東西輸油管道遭遇多起襲擊，管道已臨時關閉。"
+    },
+    {
+      "id": "5090228",
+      "time": "2026-09-12 02:26:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報850.80元。"
+    },
+    {
+      "id": "te:markets:583287",
+      "time": "2026-09-12 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Drops by 3.10% — Top commodity losers are Sugar (-3.10%), Wheat (-2.92%) and Canola (-2.80%)."
+    },
     {
       "id": "mkt:01a091b6-56a1-7118-8550-2d2ad49d2e42",
       "time": "2026-09-12 02:24:01",

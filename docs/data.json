@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-12 02:25:11",
-  "count": 13512,
+  "updated": "2026-09-12 02:29:07",
+  "count": 13504,
   "items": [
+    {
+      "id": "5090229",
+      "time": "2026-09-12 02:27:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部：週四利雅得和麥地那地區的東西輸油管道遭遇多起襲擊，管道已臨時關閉。"
+    },
+    {
+      "id": "5090228",
+      "time": "2026-09-12 02:26:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報850.80元。"
+    },
+    {
+      "id": "te:markets:583287",
+      "time": "2026-09-12 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Drops by 3.10% — Top commodity losers are Sugar (-3.10%), Wheat (-2.92%) and Canola (-2.80%)."
+    },
     {
       "id": "mkt:01a091b6-56a1-7118-8550-2d2ad49d2e42",
       "time": "2026-09-12 02:24:01",
@@ -123897,106 +123925,6 @@
         "國際"
       ],
       "text": "美國國務院：已批准向阿曼潛在出售F-16戰機維護保障服務，預估金額為1.88億美元。"
-    },
-    {
-      "id": "5078259",
-      "time": "2026-09-05 02:29:03",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗推遲美聯儲降息預期，目前預計 2027 年將降息三次】花旗集團經濟學家在週五公佈強於預期的 8 月就業資料後，調整了美聯儲政策預期。他們預計 2027 年會有三次 25 個基點的降息；此前其預測為 2026 年 10 月、12 月以及 2027 年 1 月各降息 25 個基點。該行首席美國經濟學家安德魯・霍倫霍斯特在一份研報中表示：“我們此前預期的失業率季節性上行並未重現，這意味著美聯儲沒有降息的迫切理由。”花旗是去年對美聯儲政策預測準確度最高的機構之一，預判到央行三次 25 個基點降息，而多家大型同業機構當時預計美聯儲將維持利率不變。霍倫霍斯特寫道：“我們原本預計今年資料會重演殘留的季節性規律，失業率在夏季幾個月走高，進而催生降息的緊迫性。”報告指出，花旗依舊 “基於通脹放緩” 預期明年實施降息；對比最新預測，“風險呈雙向平衡，倘若勞動力市場走弱，或是人工智慧市場情緒降溫、股市下行，降息有可能提前到來。”"
-    },
-    {
-      "id": "5078258",
-      "time": "2026-09-05 02:28:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：已告知特朗普，巴西不會接受任何選舉干預行為。"
-    },
-    {
-      "id": "te:economy:581398",
-      "time": "2026-09-05 02:28:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Brazil Trade Surplus Beats Forecasts — Brazil’s trade surplus widened 23.8% year-on-year to $7.39 billion in August 2026, above forecasts of $7.14 billion. Exports increased 12.2% to $33.16 billion, with agricultural exports rising 11.4%, extractive industry exports gaining 16.4%, and manufacturing exports increasing 10.2%. Export growth was mainly driven by higher sales of live animals, unroasted coffee, and soybeans in agriculture; copper ores and concentrates, nickel ores and concentrates, and crude petroleum in extractive industries; and poultry meat, soybean meal and other animal feed, and fuel oils in manufacturing. Imports rose 9.2% to $25.76 billion. Agricultural imports increased 7.4%, while manufacturing imports rose 13.4%. Imports by extractive industries fell 41.3%. Trade with the EU performed strongly, with exports rising 46.4%, while the trade surplus with China and Argentina narrowed and trade with the US resulted in a deficit."
-    },
-    {
-      "id": "5078257",
-      "time": "2026-09-05 02:27:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普稱，兩家屬於肉類行業 “壟斷集團” 的企業總部位於巴西。"
-    },
-    {
-      "id": "5078256",
-      "time": "2026-09-05 02:27:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：已批准向沙烏地阿拉伯出售增程型聯合直接攻擊彈藥的潛在交易，預估金額為50億美元。"
-    },
-    {
-      "id": "5078255",
-      "time": "2026-09-05 02:27:03",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：已批准向沙烏地阿拉伯出售AGT-1500發動機的潛在交易，交易預估金額為7.5億美元。"
-    },
-    {
-      "id": "mkt:01a06dac-976f-7118-84ac-3d570408610e",
-      "time": "2026-09-05 02:27:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department approved a possible sale of AGT-1500 engines to Saudi Arabia, estimated at about $750 million."
-    },
-    {
-      "id": "5078254",
-      "time": "2026-09-05 02:26:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：如果美國不採購巴西產品，我會找到其他採購方。"
-    },
-    {
-      "id": "mkt:01a06dab-eb0d-7118-84ac-31c52a74e2d5",
-      "time": "2026-09-05 02:26:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says an order will require country-of-origin labeling on imported beef."
-    },
-    {
-      "id": "5078253",
-      "time": "2026-09-05 02:25:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在活動中提及巴西肉類加工企業。"
-    },
-    {
-      "id": "5078252",
-      "time": "2026-09-05 02:25:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將要求進口牛肉標註原產地標籤。"
     }
   ]
 }
