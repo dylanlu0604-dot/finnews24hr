@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-12 02:01:54",
-  "count": 13534,
+  "updated": "2026-09-12 02:05:46",
+  "count": 13536,
   "items": [
+    {
+      "id": "mkt:01a091a4-9b1f-7118-8550-06697316ddea",
+      "time": "2026-09-12 02:04:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury said net customs receipts in August were $12.836 billion, gross receipts $23.377 billion and refunds $10.541 billion."
+    },
+    {
+      "id": "mkt:01a091a4-93c8-7118-854f-f953cf676897",
+      "time": "2026-09-12 02:04:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: FY26 year-to-date deficit $1.966 tln, versus $1.973 tln in the same period of FY25."
+    },
+    {
+      "id": "5090220",
+      "time": "2026-09-12 02:01:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國當前財年（至9月的12個月）的頭11個月預算赤字1.97萬億美元。"
+    },
     {
       "id": "5090219",
       "time": "2026-09-12 02:00:46",
@@ -124173,14 +124199,6 @@
         "TXT.O"
       ],
       "text": "U.S. State Department approved sale of Bell 412 helicopters to Iraq valued at about $150 million."
-    },
-    {
-      "id": "mkt:01a06d97-2e0e-7118-84ab-b9e49f166b94",
-      "time": "2026-09-05 02:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil exported 9.81 mln tonnes of soybeans in August, according to Brazilian government data, up from 9.33 mln tonnes a year earlier."
     }
   ]
 }

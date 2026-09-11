@@ -1,7 +1,33 @@
 {
   "date": "2026-09-12",
-  "count": 93,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:01a091a4-9b1f-7118-8550-06697316ddea",
+      "time": "2026-09-12 02:04:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury said net customs receipts in August were $12.836 billion, gross receipts $23.377 billion and refunds $10.541 billion."
+    },
+    {
+      "id": "mkt:01a091a4-93c8-7118-854f-f953cf676897",
+      "time": "2026-09-12 02:04:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: FY26 year-to-date deficit $1.966 tln, versus $1.973 tln in the same period of FY25."
+    },
+    {
+      "id": "5090220",
+      "time": "2026-09-12 02:01:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國當前財年（至9月的12個月）的頭11個月預算赤字1.97萬億美元。"
+    },
     {
       "id": "5090219",
       "time": "2026-09-12 02:00:46",
