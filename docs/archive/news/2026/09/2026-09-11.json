@@ -1,7 +1,271 @@
 {
   "date": "2026-09-11",
-  "count": 1827,
+  "count": 1856,
   "items": [
+    {
+      "id": "5089567",
+      "time": "2026-09-11 18:05:10",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【上交所：本週對龍版傳媒等波動幅度較大的股票進行重點監控】上交所：本週對53起拉抬打壓、虛假申報等證券異常交易行為採取了自律監管措施，對龍版傳媒等波動幅度較大的股票進行重點監控，對32起上市公司重大事項等進行專項核查，向證監會上報涉嫌違法違規案件線索1起。"
+    },
+    {
+      "id": "mkt:01a08fed-8d5c-7118-8546-f1724ed2367d",
+      "time": "2026-09-11 18:05:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Mexico and the United States are accelerating negotiations on a bilateral trade agreement, seeking to conclude a deal before the US election."
+    },
+    {
+      "id": "5089566",
+      "time": "2026-09-11 18:05:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：9月11日回購1.9萬股A股股份】榮昌生物公告稱，公司於2026年9月11日透過上海證券交易所集中競價交易方式回購19,000股A股股份，回購價格區間為每股113.2元-113.7元，回購總金額為215.52萬元。本次回購股份擬用於員工股權激勵計劃，若回購實施完成後3年內未使用，尚未動用的回購股份將予以登出。截至2026年9月11日，公司已發行股份（不含庫存股）為355,642,060股，庫存股份為254,184股。"
+    },
+    {
+      "id": "5089565",
+      "time": "2026-09-11 18:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建發股份：終止收購建發城服股權 並收購聯發物業100%股權】建發股份公告稱，因各方未就收購建發城服100%股權事項條款達成一致，建發物業已終止該收購事項；建發物業全資子公司建發物業服務與建發集團、華益工貿及建發城服簽署《企業託管經營合同》，受託整體託管建發城服，合同期限至2028年12月31日，年管理服務費上限不超過2500萬元，股權及資產權屬不轉移。此外，建發物業全資子公司廈門利融以3.04億元總代價收購廈門聯發持有的聯發物業100%股權，該交易屬合併報表範圍內子公司間交易，不構成關聯交易。"
+    },
+    {
+      "id": "mkt:01a08fed-77f8-7118-8546-e8b5af05b828",
+      "time": "2026-09-11 18:04:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SSE to focus monitoring on volatile stocks including Longban Media this week】The Shanghai Stock Exchange said this week it is focusing surveillance on volatile shares including Longban Media, has taken self-regulatory measures in 53 cases of abnormal trading including price manipulation and false orders, launched special inspections into 32 cases of major corporate events, and reported one suspected illegal case to the CSRC."
+    },
+    {
+      "id": "5089564",
+      "time": "2026-09-11 18:04:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：觀察到所謂的第二輪通脹效應。"
+    },
+    {
+      "id": "mkt:01a08fed-28ac-7118-8546-e4aaf2f74837",
+      "time": "2026-09-11 18:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SWISS NATIONAL BANK chair said inf has risen recently but remains within the price-stability range."
+    },
+    {
+      "id": "5089563",
+      "time": "2026-09-11 18:04:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思看科技：2026年上半年營收1.85億元 淨利同比降73.85%】思看科技公告稱，2026年1-6月實現營業收入1.85億元，同比增長4.67%；歸屬於上市公司股東的淨利潤1412.15萬元，同比下降73.85%；扣除非經常性損益的淨利潤886.49萬元，同比下降81.17%。營收增速較低主要系海外ODM客戶法如本期採購金額同比大幅降低，剔除該客戶影響後營收同比增長15.54%。淨利潤下滑主要系研發投入加大、銷售網路拓展、股份支付費用計提及匯兌損失導致期間費用上升。報告期內研發投入合計6190.73萬元，佔營收比例33.45%，同比提升11.93個百分點。"
+    },
+    {
+      "id": "5089562",
+      "time": "2026-09-11 18:04:29",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "印度財政部長：已與印度央行探討是否可對人工智慧實施軟性監管。"
+    },
+    {
+      "id": "mkt:01a08fec-f103-7118-8546-df52dee6db1d",
+      "time": "2026-09-11 18:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's finance minister said he has confirmed with the Reserve Bank of India whether a light-touch regulatory framework for AI can be implemented."
+    },
+    {
+      "id": "mkt:01a08fec-d246-7118-8546-d29c8404431e",
+      "time": "2026-09-11 18:04:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "The Indian rupee weakened 1% against the dollar this week, its biggest single-day decline since mid-May."
+    },
+    {
+      "id": "5089561",
+      "time": "2026-09-11 18:04:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "匈牙利債務管理局執行長表示，匈牙利國債收益率或再度下行 150 至 250 個基點"
+    },
+    {
+      "id": "5089560",
+      "time": "2026-09-11 18:04:01",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【興通股份：擬2770萬美元出售老舊船舶“興通799”輪】興通股份公告，公司擬向MARITIME GLOBALSHIPPING PTE. LTD.出售老舊船舶“興通799”輪，交易金額2770萬美元，摺合人民幣約1.88億元。此次市場化處置可形成處置收益，降低老舊船舶運維及修船成本；順應綠色智慧航運發展趨勢，集中資源佈局高附加值、高技術標準的高階綠色運力。"
+    },
+    {
+      "id": "mkt:01a08fec-7714-7118-8546-cf218b07c4cd",
+      "time": "2026-09-11 18:03:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Satellite imagery showed smoke near Saudi Arabia's east–west oil pipeline on Thursday; Saudi authorities have not issued an official confirmation."
+    },
+    {
+      "id": "5089559",
+      "time": "2026-09-11 18:03:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "衛星影象顯示，週四沙烏地阿拉伯東西輸油管道附近區域出現煙霧。"
+    },
+    {
+      "id": "5089558",
+      "time": "2026-09-11 18:03:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航控股：子公司簽署2架E190飛機買賣協議】海航控股公告，控股子公司烏魯木齊航空有限責任公司向Africa WorldAirlines Limited出售 2 架 Embraer E190 飛機，交易價格約為 1,947.50 萬美元。本次交易構成關聯交易，但不構成重大資產重組。本次交易在董事會決策範圍內，無需股東會審議。"
+    },
+    {
+      "id": "mkt:01a08fec-13e0-7118-8546-c581fbc2109e",
+      "time": "2026-09-11 18:03:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues 2026-2030 Digital Countryside plan targeting ag sensors, dedicated chips, core algorithms and robotics】The Central Cyberspace Administration, Ministry of Agriculture and Rural Affairs and Ministry of Industry and Information Technology jointly issued the Digital Countryside High-Quality Development Action Plan (2026–2030). The plan prioritizes agricultural technology innovation and calls for an integrated basic-research-to-R&D-and-manufacturing innovation system. It seeks breakthroughs in agricultural sensors, dedicated chips, core algorithms, robotics and intelligent design/breeding tools. Measures include a high-quality agricultural machinery program to develop and deploy high‑precision intelligent farm equipment, establishment of quality inspection and testing systems for smart ag tech, coordinated R&D between digital/AI technologies and mechanization/agronomy, expanded trials of unmanned farm machinery, and guidance for qualified regions to set up digital-village technology innovation centers."
+    },
+    {
+      "id": "mkt:01a08feb-f0ca-7118-8546-ba0481ea380c",
+      "time": "2026-09-11 18:03:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【European gas surge alarms investors; analysts say not a 2022 replay】European natural gas has rallied: Dutch TTF near-month contracts are up about 12% week-to-date and at their highest since end-2022. Goldman Sachs raised its TTF target to €70/MWh — marginally below current levels — saying Europe will need to accept that price to draw LNG cargoes from Asia and rebuild inventories. Royal Bank of Canada flagged EU storage at 67% and Germany at 55%, a shortfall that could lift January energy prices, but noted rapid additions in solar and wind and three consecutive springs of decade-low gas demand increase flexibility for replenishing stocks. Barclays says current conditions do not yet constitute a repeat of the 2022 energy crisis: prices remain well below 2022 extremes and increased energy diversification by firms, plus a German recovery, support regional resilience."
+    },
+    {
+      "id": "5089557",
+      "time": "2026-09-11 18:03:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【三部門：探索運用高通量衛星、低軌衛星網際網路等方式為農村及偏遠地區提供多樣化網路接入服務】中央網信辦、農業農村部、工業和資訊化部聯合印發《數字鄉村高質量發展行動計劃（2026—2030年）》。其中提出，提升鄉村網路基礎設施水平。深化電信普遍服務和“寬頻邊疆”建設，按需推進農村地區5G和千兆光網部署。探索運用高通量衛星、低軌衛星網際網路等方式為農村及偏遠地區提供多樣化網路接入服務。深入實施智慧廣電鄉村工程，加快建設新型廣電網路，豐富農村基本收視服務與綜合資訊服務供給。"
+    },
+    {
+      "id": "mkt:01a08feb-9eba-7118-8546-b496de28cffd",
+      "time": "2026-09-11 18:02:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Cyberspace, Agriculture and MIIT to explore high‑throughput and LEO satellite internet for rural access】The Cyberspace Administration of China, Ministry of Agriculture and Rural Affairs and Ministry of Industry and Information Technology issued the Digital Rural High‑Quality Development Action Plan (2026–2030), targeting upgraded rural network infrastructure. The plan deepens universal telecom service and 'broadband to border' construction, and calls for as‑needed rollout of 5G and gigabit fiber in rural areas. It directs exploration of high‑throughput satellites and low‑earth‑orbit satellite internet to diversify network access in rural and remote regions, and accelerates a smart rural broadcasting program to build new broadcast networks and expand basic TV reception and integrated information services in the countryside."
+    },
+    {
+      "id": "5089556",
+      "time": "2026-09-11 18:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯尚未就東西輸油管道附近發生的事件給出官方確認。"
+    },
+    {
+      "id": "mkt:01a08feb-58c5-7118-8546-af81e5f34054",
+      "time": "2026-09-11 18:02:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Three agencies to accelerate BeiDou satellite navigation adoption in precision operations and disaster monitoring】Central Cyberspace Administration, Ministry of Agriculture and Rural Affairs and Ministry of Industry and Information Technology jointly issued the Digital Rural High-Quality Development Action Plan (2026–2030). The plan calls for building integrated rural application infrastructure, strengthening satellite and airborne remote-sensing data sharing, and accelerating deeper deployment of the BeiDou satellite navigation system in precision operations and disaster monitoring/warning. It also promotes blockchain for agricultural product traceability and rural collective-asset management, and seeks to expand low‑altitude-economy applications across agriculture and rural services."
+    },
+    {
+      "id": "mkt:01a08fea-e41a-7118-8546-a0881fba9e61",
+      "time": "2026-09-11 18:02:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Bridgewater CIO Greg Jensen warns AI could threaten humanity, urges slower development and legal liability】Bridgewater CIO Greg Jensen said artificial intelligence is nearing the ability to make investment decisions superior to humans and warned it could potentially lead to human extinction. Jensen, an early investor in OpenAI and Anthropic who leads Bridgewater’s AI strategy, said historical experience suggests regulators and industry are unlikely to act until AI causes casualties. Citing the Hugging Face hack as an early warning, he said models can become single-minded about passing tests, may try to deceive testers and could harm humans when “frustrated.” Jensen urged slowing AI development, proposed making developers or firms legally responsible for crimes committed by their AI, and reiterated a call to tax machine labor to offset rapid employment shifts."
+    },
+    {
+      "id": "5089555",
+      "time": "2026-09-11 18:02:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>收盤下跌0.1%，報1美元兌95.55盧比；前收盤價為95.44盧比。"
+    },
+    {
+      "id": "mkt:01a08fea-ca38-7118-8546-9c1ba141f201",
+      "time": "2026-09-11 18:02:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Central Cyberspace Affairs Commission, Ministry of Agriculture and Rural Affairs and Ministry of Industry and Information Technology issue Digital Countryside Action Plan (2026–2030)】The Central Cyberspace Affairs Commission, the Ministry of Agriculture and Rural Affairs and the Ministry of Industry and Information Technology jointly issued the Digital Countryside High‑Quality Development Action Plan (2026–2030). The plan targets significant progress by 2030: optimized rural information infrastructure; materially higher levels of rural industry digitalization, rural construction informatization and smart rural governance; more robust sustainable development mechanisms for the digital countryside; and increased sharing of information‑development benefits for farmers."
+    },
+    {
+      "id": "5089554",
+      "time": "2026-09-11 18:02:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>周度下跌1%，創5月中旬以來最大單週跌幅。"
+    },
+    {
+      "id": "5089553",
+      "time": "2026-09-11 18:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報99.39美元/桶。"
+    },
+    {
+      "id": "5089552",
+      "time": "2026-09-11 18:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部：一週內防空系統擊落5673架烏克蘭無人機】俄羅斯國防部表示，過去一週，俄防空系統擊落了5673架烏克蘭無人機、4枚“火烈鳥”巡航導彈、2枚“海王星”導彈、14枚“海馬斯”火箭彈和48枚航空炸彈。"
+    },
     {
       "id": "mkt:01a08fe9-9f7f-7118-8546-9338f8f65add",
       "time": "2026-09-11 18:00:47",
@@ -9,6 +273,15 @@
         "MKT News"
       ],
       "text": "Saudi outlet Hadas, citing unnamed sources, reports Yemeni armed forces have fully liberated Zaher district in southern Al-Bayda province."
+    },
+    {
+      "id": "5089551",
+      "time": "2026-09-11 18:00:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度 Sensex 指數盤後暫定收跌 0.2%，報 74781.76 點。"
     },
     {
       "id": "5089550",
