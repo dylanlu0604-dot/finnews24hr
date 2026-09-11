@@ -1,7 +1,171 @@
 {
-  "updated": "2026-09-11 14:19:46",
-  "count": 13695,
+  "updated": "2026-09-11 14:23:37",
+  "count": 13701,
   "items": [
+    {
+      "id": "5088969",
+      "time": "2026-09-11 14:22:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會成員KAASIK：市場預期歐洲央行會進一步加息，這可以理解。"
+    },
+    {
+      "id": "te:economy:583037",
+      "time": "2026-09-11 14:21:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "UK Industrial Output Unexpectedly Rises — Industrial production in the UK rose 0.2% month-on-month in July 2026, defying market expectations of a 0.2% decline and rebounding from a 0.2% drop in the previous month. This marked the first monthly gain since April, driven by a recovery in manufacturing output, which grew 0.9% after falling 0.5% in the previous month. The strongest contribution came from the manufacture of computer, electronic and optical products, where output climbed 3.9%. Overall output was also supported by water supply, sewerage and waste management, which rose 2.0% following a 1.5% decline in June. Meanwhile, output in mining and quarrying fell 4.4% after a 5.1% increase, while electricity, gas, steam and air-conditioning supply contracted 1.5%, slipping further from a 0.3% decline in the prior month. On a yearly basis, industrial production rose 0.6% in July, surpassing market expectations of a 0.2% rise and rebounding from a 0.2% fall in the previous month."
+    },
+    {
+      "id": "mkt:01a08f21-0c5c-7118-8540-18f719f82de7",
+      "time": "2026-09-11 14:21:42",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Banque de France governor Mulan said France's economy is not catastrophic but action is needed."
+    },
+    {
+      "id": "5088968",
+      "time": "2026-09-11 14:21:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂：維持江南布衣“跑贏大市”評級及目標價25港元，上調銷售預測】里昂發表報告指，江南布衣截至6月底止的2026財年收入及純利分別達60億元及10億元，符合該行預期並優於管理層指引。全年每股派息2.33港元，當中包括為慶祝上市10週年而派發的特別股息75港仙，帶動全年股息率升至約12%。該行上調2027至2028財年銷售預測2%至4%，以反映多品牌組合及會員留存與拓展帶來的銷售韌性。該行維持對其“跑贏大市”評級及目標價25港元，考慮基本需求具韌性、強勁執行力、股東回報卓越及估值不高，視其為中國首選股之一。"
+    },
+    {
+      "id": "5088967",
+      "time": "2026-09-11 14:21:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行官員穆蘭：法國經濟並非災難性，但我們必須採取行動。"
+    },
+    {
+      "id": "mkt:01a08f20-6caa-7118-8540-1006cb7179c7",
+      "time": "2026-09-11 14:21:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of France Governor Mulan said there are currently concerns about the French economy."
+    },
+    {
+      "id": "mkt:01a08f1f-f4ea-7118-8540-09e986906c85",
+      "time": "2026-09-11 14:20:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of France governor said the French economy will recover at a moderate pace."
+    },
+    {
+      "id": "mkt:01a08f1f-c800-7118-8540-02167e8b15fa",
+      "time": "2026-09-11 14:20:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed on Sep 11 down 79.20 points (-0.90%) at 8,740.20."
+    },
+    {
+      "id": "mkt:01a08f1f-bcab-7118-853f-f97de4df6517",
+      "time": "2026-09-11 14:20:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Energy Administration said a press briefing for the 2026 APEC energy ministers' meeting will be held on Sept. 11 at 16:00."
+    },
+    {
+      "id": "mkt:01a08f1f-7653-7118-853f-f64933481343",
+      "time": "2026-09-11 14:19:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Xiaomi releases and open-sources Xiaomi-CocktailASR-1】Xiaomi released and open-sourced industrial-grade target-speaker automatic speech recognition (ASR) large model Xiaomi-CocktailASR-1. The model targets the cocktail-party problem, uses an end-to-end LLM architecture, and takes a short reference audio clip of the target speaker as a voiceprint prompt to isolate and transcribe only that speaker’s speech in multi-speaker, noisy environments."
+    },
+    {
+      "id": "5088966",
+      "time": "2026-09-11 14:19:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行官員穆蘭：熱浪導致法國經濟增速下降0.1個百分點。"
+    },
+    {
+      "id": "5088965",
+      "time": "2026-09-11 14:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央政府駐港聯絡辦發言人：依法審判“支聯會”案彰顯法治公正公義公信。"
+    },
+    {
+      "id": "5088964",
+      "time": "2026-09-11 14:19:34",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【每加侖9.999美元，美國加州部分加油站柴油價格“爆表”】當地時間週四，隨著美伊衝突加劇以及原油從該地區流出的不確定性增加，美國加州部分加油站的柴油價格一度漲至加油機顯示屏上限 —— 每加侖9.999美元。據GasBuddy分析師帕特里克·德哈恩在X平臺釋出的一則帖子稱，加州至少有五家加油站正以每加侖9.999美元的最高可能顯示的價格出售柴油。根據GasBuddy的資料，週四美國柴油均價首次突破每加侖6美元，加州柴油均價達到每加侖7.91美元。"
+    },
+    {
+      "id": "mkt:01a08f1f-150a-7118-853f-ea2120d7429d",
+      "time": "2026-09-11 14:19:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "Meituan",
+        "JD.com",
+        "Xiaomi",
+        "02382.HK",
+        "Impact bullish",
+        "01810.HK",
+        "01211.HK"
+      ],
+      "text": "Hong Kong's Hang Seng TECH Index turned positive in the afternoon as the Hang Seng Index's decline narrowed to 0.44%. Technology and auto names rebounded from session lows: Sunny Optical (02382.HK) and Xiaomi (01810.HK) rose over 2%, while Nio (09866.HK), JD.com (09618.HK), Tencent (00700.HK), Meituan (03690.HK) and BYD (01211.HK) gained around 1%."
+    },
+    {
+      "id": "mkt:01a08f1f-0bb3-7118-853f-e47e9210044b",
+      "time": "2026-09-11 14:19:31",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Banque de France governor Mulan said the heatwave trimmed France’s GDP growth by 0.1 percentage point."
+    },
+    {
+      "id": "5088963",
+      "time": "2026-09-11 14:19:27",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "港股恒生科技指數午後拉昇翻紅，恒生指數跌幅收窄至0.44％，科網及汽車股觸底反彈。"
+    },
     {
       "id": "mkt:01a08f1e-a08a-7118-853f-d89d74648e15",
       "time": "2026-09-11 14:19:04",
@@ -125420,97 +125584,6 @@
         "國際"
       ],
       "text": "【烏稱敖德薩市遭俄軍襲擊 致1死3傷】烏克蘭敖德薩市軍政管理部門4日通報稱，俄羅斯軍隊當天凌晨襲擊烏克蘭敖德薩市，造成1人死亡、至少3人受傷。敖德薩市一處住宅樓和汽車在襲擊中受損。目前，相關部門正在現場開展工作。（央視新聞）"
-    },
-    {
-      "id": "5076939",
-      "time": "2026-09-04 14:23:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將馬士基目標股價從10000丹麥克朗上調至16100丹麥克朗。"
-    },
-    {
-      "id": "5076938",
-      "time": "2026-09-04 14:23:05",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【專家：黃金年內還能漲30%】由於市場持續受到頑固通脹和利率上升前景的影響，黃金走勢今年迄今“跌宕起伏”，但一位基金經理表示，市場關注的問題錯了。AuAg Funds創始人Eric Strand在接受最新採訪時表示，隨著投資者認識到更高的利率對解決實際推動通脹的因素作用不大，黃金恢復長期上漲趨勢只是時間問題。而且他認為，美聯儲對其鷹派承諾只會“光說不做”，債務危機才是問題，金價年內還能再漲20%-30%。"
-    },
-    {
-      "id": "5076937",
-      "time": "2026-09-04 14:22:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江自然等在上海成立瑞晶創芯新材料公司】企查查APP顯示，近日，上海瑞晶創芯新材料有限公司成立，經營範圍包含電子專用材料研發；電子專用材料銷售；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由浙江自然等共同持股。"
-    },
-    {
-      "id": "5076936",
-      "time": "2026-09-04 14:22:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報145600.00元。"
-    },
-    {
-      "id": "5076935",
-      "time": "2026-09-04 14:21:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：以海淀組團、亦莊組團為基點，協同海淀聯動發展區開展人工智慧研發創新】中國（北京）自由貿易試驗區（國家服務業擴大開放綜合示範區）工作領導小組印發《中國（北京）自由貿易試驗區聯動發展區建設工作方案》。其中指出，以海淀組團、亦莊組團為基點，協同海淀聯動發展區開展人工智慧研發創新；協同石景山聯動發展區人形機器人資料訓練中心提供實景除錯；協同順義聯動發展區開展智慧駕駛研發；協同朝陽、豐臺聯動發展區提供工業化應用場景；協同門頭溝聯動發展區保障算力，實施“人工智慧+”行動，構建“海淀策源—石景山人形機器人訓練—順義智慧駕駛汽車研發—亦莊、朝陽、豐臺、門頭溝應用—門頭溝算力”聯動體系。"
-    },
-    {
-      "id": "5076934",
-      "time": "2026-09-04 14:20:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：構建“昌平研發中試—亦莊、大興、門頭溝智造—通州醫產協同—懷柔賦能及創新驗證—順義貿易流通”聯動體系】中國（北京）自由貿易試驗區（國家服務業擴大開放綜合示範區）工作領導小組印發《中國（北京）自由貿易試驗區聯動發展區建設工作方案》。其中指出，以昌平組團、亦莊組團為基點，以順義組團為樞紐，協同昌平聯動發展區開展醫藥健康與合成生物產業研發中試；協同亦莊聯動發展區進行科技成果落地與產業化協作；協同大興聯動發展區共享藥品藥械製造、審評審批資源；協同門頭溝聯動發展區提供心血管創新藥械研發智造資源；協同通州聯動發展區深化醫產融合發展；協同懷柔聯動發展區提供基礎研究與驗證轉化支撐，構建“昌平研發中試—亦莊、大興、門頭溝智造—通州醫產協同—懷柔賦能及創新驗證—順義貿易流通”聯動體系。"
-    },
-    {
-      "id": "5076933",
-      "time": "2026-09-04 14:20:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：將聯動發展區建設成為開放創新和產業升級的新高地，助力本市建設更高水平開放型經濟新體制】中國（北京）自由貿易試驗區（國家服務業擴大開放綜合示範區）工作領導小組印發《中國（北京）自由貿易試驗區聯動發展區建設工作方案》。其中指出，以產業聯動為基礎，聚焦醫藥健康、人工智慧、積體電路、商業航天產業，統籌謀劃聯動發展格局，確定海淀、昌平、朝陽、順義、通州、大興、亦莊七個自貿組團所在區和豐臺、石景山、門頭溝、懷柔四個區的十一個區域為聯動發展區，總面積119.20平方公里。立足北京自貿試驗區戰略定位，遵循示範引領、聯動賦能、共建共享的發展原則，聚焦優勢產業、戰略性新興產業和未來產業，以制度對接、產業互聯、平臺融通為重點，建立健全北京自貿試驗區與聯動發展區協同推進機制和保障體系，將聯動發展區建設成為開放創新和產業升級的新高地，助力本市建設更高水平開放型經濟新體制。"
-    },
-    {
-      "id": "mkt:01a06b13-42d6-7118-8499-0fdc7d09dac4",
-      "time": "2026-09-04 14:20:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 0.60 points, or 0.01%, at 9,019.50 on Sept 4 (Friday)."
-    },
-    {
-      "id": "5076932",
-      "time": "2026-09-04 14:20:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海招雲置業有限公司成立，註冊資本7.9億】天眼查App顯示，9月1日，上海招雲置業有限公司成立，法定代表人為黃俊杰，註冊資本7.9億人民幣，經營範圍包括房地產開發經營、住宅室內裝飾裝修、物業管理等。股東資訊顯示，該公司由招商蛇口旗下上海虹潤置業有限公司、中國旅遊集團旗下杭州旅投房地產開發有限公司共同持股。"
-    },
-    {
-      "id": "mkt:01a06b13-31a5-7118-8499-052896c4b4da",
-      "time": "2026-09-04 14:20:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Nikkei: Apple foldable iPhone initial daily output only a few hundred units, far below target】Nikkei reports people familiar say Apple’s foldable iPhone was producing only a few hundred units per day as of end‑August, well below the 'tens of thousands' daily pace implied by the original plan. Sources say the slow ramp reflects Apple’s stringent quality requirements and an added trial production run before the August start of mass production. Apple’s reported target for the model this year is 8–10 million units; sources warn that without a faster ramp final output may fall short of that target and take longer than expected to meet consumer demand. Industry executives say meeting the original target would have required daily production in the tens of thousands."
     }
   ]
 }
