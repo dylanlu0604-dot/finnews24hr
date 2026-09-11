@@ -1,7 +1,31 @@
 {
   "date": "2026-09-11",
-  "count": 2445,
+  "count": 2448,
   "items": [
+    {
+      "id": "5090131",
+      "time": "2026-09-11 22:42:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心報告過去一週新增 160 例麻疹病例；2026 年累計 3294 例。"
+    },
+    {
+      "id": "5090130",
+      "time": "2026-09-11 22:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 克里姆林宮表示俄羅斯願意談判，尋求舉行三方會晤。"
+    },
+    {
+      "id": "mkt:01a090e9-e3ce-7118-854e-7a0aa3fd2e98",
+      "time": "2026-09-11 22:40:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Russia is willing to negotiate and is seeking to hold a trilateral meeting."
+    },
     {
       "id": "5090129",
       "time": "2026-09-11 22:37:59",
