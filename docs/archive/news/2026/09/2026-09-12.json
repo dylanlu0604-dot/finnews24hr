@@ -1,7 +1,34 @@
 {
   "date": "2026-09-12",
-  "count": 279,
+  "count": 282,
   "items": [
+    {
+      "id": "5090400",
+      "time": "2026-09-12 05:18:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.03%，報14517點。"
+    },
+    {
+      "id": "te:markets:583297",
+      "time": "2026-09-12 05:16:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rally Pauses on Mideast Diplomatic Efforts — Crude oil paused its rally to settle around $100 a barrel on Friday after Iranian state media said Tehran would meet Gulf states in Oman to discuss the Strait of Hormuz. Gulf Cooperation Council diplomats are expected to meet their Iranian counterpart on Monday to discuss a possible temporary arrangement for managing shipping through the strait. Adding to downward pressure, the EIA raised its 2027 US crude production forecast to 14.3 million barrels a day, while the IEA sharply cut its global oil demand outlook, forecasting a 2.5 million-barrel-a-day contraction in 2026. Meanwhile, China is on track to import roughly the same volume of crude in September as in August, with purchases recovering from June’s decade-low. Saudi Arabia shut its East-West crude pipeline as a precaution after multiple attacks, while Iran-backed Houthis reportedly advanced to Yemen’s Perim Island. Oil surged 9.7% on the week."
+    },
+    {
+      "id": "5090399",
+      "time": "2026-09-12 05:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案，CrowdStrike提交申報檔案，由售股股東擬發售最高212萬股A類普通股。"
+    },
     {
       "id": "5090398",
       "time": "2026-09-12 05:14:14",
