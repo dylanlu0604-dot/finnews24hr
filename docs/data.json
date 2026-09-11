@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-12 02:36:53",
+  "updated": "2026-09-12 02:40:46",
   "count": 13497,
   "items": [
+    {
+      "id": "mkt:01a091c4-8394-7118-8550-742e5a37bc8c",
+      "time": "2026-09-12 02:39:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Goldman Sachs says a renewed rise in Fed rate‑hike expectations could prompt dealers to unwind hedges, amplifying gold price swings beyond typical levels."
+    },
+    {
+      "id": "mkt:01a091c4-6981-7118-8550-68207929e160",
+      "time": "2026-09-12 02:39:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs says if ETF inflows resume and current elevated long-call option positions persist, dealer hedging could mechanically amplify a rebound and push gold prices well above its forecasts."
+    },
+    {
+      "id": "5090237",
+      "time": "2026-09-12 02:39:14",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛：美聯儲加息預期再度升溫，可能觸發交易商解除對沖頭寸，並引發金價出現超出常規幅度的回撥。"
+    },
+    {
+      "id": "5090236",
+      "time": "2026-09-12 02:38:53",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：若 ETF 投資者資金流入回暖，且當前偏高的看漲期權持倉維持不變，交易商對沖行為或將從機制上放大上漲行情，推動金價大幅超出我們的預測。"
+    },
+    {
+      "id": "mkt:01a091c3-0a49-7118-8550-642a2ca11059",
+      "time": "2026-09-12 02:37:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs said its fair-value forecast of $4,900/oz for gold at end-2026 is conditional on the assumption of continued strong central bank demand."
+    },
+    {
+      "id": "mkt:01a091c2-ec9b-7118-8550-5dd9def69b33",
+      "time": "2026-09-12 02:37:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs says its end-2026 gold price forecast of $4,900/oz carries net upside risk but expects greater two-way volatility en route."
+    },
+    {
+      "id": "5090235",
+      "time": "2026-09-12 02:37:34",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：我們給出的 2026 年底黃金公允估值 4900 美元 / 盎司，前提是各國央行持續強勁購金。"
+    },
+    {
+      "id": "5090234",
+      "time": "2026-09-12 02:36:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛仍認為其 2026 年底金價 4900 美元 / 盎司預測存在上行淨風險，但金價走勢也將面臨更大的雙向波動。"
+    },
     {
       "id": "te:markets:583289",
       "time": "2026-09-12 02:35:41",
@@ -123801,75 +123886,6 @@
         "國際"
       ],
       "text": "特朗普：伊朗問題屬於軍事衝突，不過是 “小事一樁”。"
-    },
-    {
-      "id": "5078277",
-      "time": "2026-09-05 02:40:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在奪取大量石油，控制霍爾木茲海峽。"
-    },
-    {
-      "id": "5078276",
-      "time": "2026-09-05 02:40:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們對伊朗實施間歇性打擊。"
-    },
-    {
-      "id": "mkt:01a06db8-9d30-7118-84ac-762ff9d2f3d2",
-      "time": "2026-09-05 02:40:10",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Sources said Boeing (BA.N) will serve as prime contractor on a potential $5 billion arms sale to Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a06db7-a7d2-7118-84ac-693688268f70",
-      "time": "2026-09-05 02:39:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. President Trump said economic growth will not cause inflation; only stupidity will."
-    },
-    {
-      "id": "5078275",
-      "time": "2026-09-05 02:38:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：成功不會引發通脹。"
-    },
-    {
-      "id": "5078274",
-      "time": "2026-09-05 02:38:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音將作為面向沙烏地阿拉伯一筆潛在 50 億美元軍售專案的承包商。"
-    },
-    {
-      "id": "5078273",
-      "time": "2026-09-05 02:38:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普大肆吹捧經濟資料與股市表現。"
-    },
-    {
-      "id": "5078272",
-      "time": "2026-09-05 02:37:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國稱，波音為 JDAM‑ER 彈藥潛在軍售專案的主承包商。"
     }
   ]
 }

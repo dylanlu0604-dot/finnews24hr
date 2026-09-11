@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-12 02:37:01",
+  "updated": "2026-09-12 02:40:56",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 467,
+  "count": 468,
   "history_summary": {
     "cached": 467,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 236,
+      "count": 237,
       "dates": [
         {
           "date": "2026-09-07",
@@ -13492,7 +13492,7 @@
         },
         {
           "date": "2026-09-12",
-          "count": 3,
+          "count": 4,
           "events": [
             {
               "id": "capital:1184539",
@@ -13667,6 +13667,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-30 02:03:07"
+            },
+            {
+              "id": "capital:1187166",
+              "fid": "1187166",
+              "interval": "this_week",
+              "date": "2026-09-12",
+              "time": "02:00",
+              "datetime": "2026-09-12 02:00:00",
+              "display_time": "09/12 02:00",
+              "country": "美國",
+              "title": "美國8月政府預算(億美元)",
+              "importance": 1,
+              "previous": "-4320",
+              "forecast": "-4040",
+              "actual": "-1670",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187166",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/13",
+                  "actual": "-4320",
+                  "forecast": "-3460",
+                  "previous": "-1200"
+                },
+                {
+                  "date": "07/14",
+                  "actual": "-1200",
+                  "forecast": "-1283",
+                  "previous": "-2926.48"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "-2926.48",
+                  "forecast": "-2750",
+                  "previous": "2150"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "2150",
+                  "forecast": "2200",
+                  "previous": "-1640"
+                },
+                {
+                  "date": "04/11",
+                  "actual": "-1640",
+                  "forecast": "-1567",
+                  "previous": "-3080"
+                },
+                {
+                  "date": "03/12",
+                  "actual": "-3080",
+                  "forecast": "-758.5",
+                  "previous": "-946"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-12 02:40:54"
             }
           ]
         }
@@ -40723,6 +40781,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-30 02:03:07"
+    },
+    {
+      "id": "capital:1187166",
+      "fid": "1187166",
+      "interval": "this_week",
+      "date": "2026-09-12",
+      "time": "02:00",
+      "datetime": "2026-09-12 02:00:00",
+      "display_time": "09/12 02:00",
+      "country": "美國",
+      "title": "美國8月政府預算(億美元)",
+      "importance": 1,
+      "previous": "-4320",
+      "forecast": "-4040",
+      "actual": "-1670",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187166",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/13",
+          "actual": "-4320",
+          "forecast": "-3460",
+          "previous": "-1200"
+        },
+        {
+          "date": "07/14",
+          "actual": "-1200",
+          "forecast": "-1283",
+          "previous": "-2926.48"
+        },
+        {
+          "date": "06/11",
+          "actual": "-2926.48",
+          "forecast": "-2750",
+          "previous": "2150"
+        },
+        {
+          "date": "05/13",
+          "actual": "2150",
+          "forecast": "2200",
+          "previous": "-1640"
+        },
+        {
+          "date": "04/11",
+          "actual": "-1640",
+          "forecast": "-1567",
+          "previous": "-3080"
+        },
+        {
+          "date": "03/12",
+          "actual": "-3080",
+          "forecast": "-758.5",
+          "previous": "-946"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-12 02:40:54"
     },
     {
       "id": "capital:1184541",

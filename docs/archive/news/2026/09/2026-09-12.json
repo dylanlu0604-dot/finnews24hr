@@ -1,7 +1,92 @@
 {
   "date": "2026-09-12",
-  "count": 124,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:01a091c4-8394-7118-8550-742e5a37bc8c",
+      "time": "2026-09-12 02:39:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Goldman Sachs says a renewed rise in Fed rate‑hike expectations could prompt dealers to unwind hedges, amplifying gold price swings beyond typical levels."
+    },
+    {
+      "id": "mkt:01a091c4-6981-7118-8550-68207929e160",
+      "time": "2026-09-12 02:39:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs says if ETF inflows resume and current elevated long-call option positions persist, dealer hedging could mechanically amplify a rebound and push gold prices well above its forecasts."
+    },
+    {
+      "id": "5090237",
+      "time": "2026-09-12 02:39:14",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛：美聯儲加息預期再度升溫，可能觸發交易商解除對沖頭寸，並引發金價出現超出常規幅度的回撥。"
+    },
+    {
+      "id": "5090236",
+      "time": "2026-09-12 02:38:53",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：若 ETF 投資者資金流入回暖，且當前偏高的看漲期權持倉維持不變，交易商對沖行為或將從機制上放大上漲行情，推動金價大幅超出我們的預測。"
+    },
+    {
+      "id": "mkt:01a091c3-0a49-7118-8550-642a2ca11059",
+      "time": "2026-09-12 02:37:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs said its fair-value forecast of $4,900/oz for gold at end-2026 is conditional on the assumption of continued strong central bank demand."
+    },
+    {
+      "id": "mkt:01a091c2-ec9b-7118-8550-5dd9def69b33",
+      "time": "2026-09-12 02:37:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs says its end-2026 gold price forecast of $4,900/oz carries net upside risk but expects greater two-way volatility en route."
+    },
+    {
+      "id": "5090235",
+      "time": "2026-09-12 02:37:34",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：我們給出的 2026 年底黃金公允估值 4900 美元 / 盎司，前提是各國央行持續強勁購金。"
+    },
+    {
+      "id": "5090234",
+      "time": "2026-09-12 02:36:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛仍認為其 2026 年底金價 4900 美元 / 盎司預測存在上行淨風險，但金價走勢也將面臨更大的雙向波動。"
+    },
     {
       "id": "te:markets:583289",
       "time": "2026-09-12 02:35:41",
