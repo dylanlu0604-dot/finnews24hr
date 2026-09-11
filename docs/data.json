@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-12 02:40:46",
-  "count": 13497,
+  "updated": "2026-09-12 02:44:39",
+  "count": 13480,
   "items": [
+    {
+      "id": "mkt:01a091c7-77fb-7118-8550-7be3ebdc4d1e",
+      "time": "2026-09-12 02:42:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia has taken measures to secure pipelines and is assessing their safety."
+    },
+    {
+      "id": "5090241",
+      "time": "2026-09-12 02:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安理會透過決議 對蘇丹制裁授權進行一個月的技術性延期】11日，聯合國安理會透過一項決議，對蘇丹制裁授權進行一個月的技術性延期。中國常駐聯合國代表團臨時代辦孫磊在解釋性發言中表示，考慮到安理會成員間分歧明顯，對蘇丹制裁授權進行一個月的技術性延期，使大家有更充分時間討論，中方對此不持異議，在表決中投了贊成票。中方多次強調製裁是手段不是目的，不能成為外交努力的替代。當務之急是聚焦如何更好落實現有機制，隨意擴大強制性措施範圍只會惡化蘇丹人道局勢，甚至助推蘇丹分裂前景，威脅地區穩定，損害安理會權威。中方希望在接下來的磋商中，各方儘早達成共識，為促進蘇丹停火止戰、維護蘇丹團結統一發揮建設性作用。（央視新聞）"
+    },
     {
       "id": "mkt:01a091c4-8394-7118-8550-742e5a37bc8c",
       "time": "2026-09-12 02:39:30",
@@ -123702,190 +123721,6 @@
         "MKT News"
       ],
       "text": "US President Trump said the Iran situation is merely a military clash, not a war, and described it as trivial for the United States."
-    },
-    {
-      "id": "5078288",
-      "time": "2026-09-05 02:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和普京有溝通，他無意攻擊北約。"
-    },
-    {
-      "id": "mkt:01a06dbc-8c6c-7118-84ac-b547ded6f33e",
-      "time": "2026-09-05 02:44:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said there have been no exchanges of fire in Iran for several consecutive days."
-    },
-    {
-      "id": "5078287",
-      "time": "2026-09-05 02:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西規劃部長：政府內部並未討論過取消社保福利與最低工資掛鉤的機制。"
-    },
-    {
-      "id": "mkt:01a06dbc-49fa-7118-84ac-a9577efda7cc",
-      "time": "2026-09-05 02:44:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump: We have basically taken over Iran."
-    },
-    {
-      "id": "5078286",
-      "time": "2026-09-05 02:43:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海峽內沒有水雷。"
-    },
-    {
-      "id": "mkt:01a06dbb-dca8-7118-84ac-a78ac5b9f70c",
-      "time": "2026-09-05 02:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the country should be able to achieve 12%, 13%, 14% or 15% GDP growth, rather than remain at 2%, 3% or 4%."
-    },
-    {
-      "id": "5078285",
-      "time": "2026-09-05 02:43:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：數日以來沒有發生交火。"
-    },
-    {
-      "id": "5078284",
-      "time": "2026-09-05 02:43:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們實質上已經掌控了伊朗。"
-    },
-    {
-      "id": "mkt:01a06dbb-6143-7118-84ac-9eb539e3ef46",
-      "time": "2026-09-05 02:43:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said if the situation with Iran deteriorates in any way, the U.S. will strike it hard."
-    },
-    {
-      "id": "mkt:01a06dbb-1ae3-7118-84ac-91a6629dbbcc",
-      "time": "2026-09-05 02:42:53",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. President Trump said the U.S. prevented Iran from obtaining nuclear weapons."
-    },
-    {
-      "id": "5078283",
-      "time": "2026-09-05 02:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果伊朗方面事態惡化，我們將對其予以沉重打擊  。"
-    },
-    {
-      "id": "mkt:01a06dba-acd7-7118-84ac-8e83445eb845",
-      "time": "2026-09-05 02:42:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said Iran may soon attack Gaoshan."
-    },
-    {
-      "id": "mkt:01a06dba-6e0a-7118-84ac-84d56e4ab1e4",
-      "time": "2026-09-05 02:42:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP said the US is producing large volumes of oil and controlling the Strait of Hormuz."
-    },
-    {
-      "id": "5078282",
-      "time": "2026-09-05 02:41:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們可能很快就要打擊 “鎬山” 。"
-    },
-    {
-      "id": "mkt:01a06dba-444e-7118-84ac-7fe1ee24caec",
-      "time": "2026-09-05 02:41:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said last night the US sank many ships in the Strait of Hormuz."
-    },
-    {
-      "id": "5078281",
-      "time": "2026-09-05 02:41:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們本應該能實現 12%‑13%‑14%‑15% 的國內生產總值增速，而不是一直只有 2%‑3%‑4%。"
-    },
-    {
-      "id": "5078280",
-      "time": "2026-09-05 02:41:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報96.49美元/桶。"
-    },
-    {
-      "id": "5078279",
-      "time": "2026-09-05 02:41:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：昨夜我們在霍爾木茲海峽擊毀大量船隻。"
-    },
-    {
-      "id": "5078278",
-      "time": "2026-09-05 02:40:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗問題屬於軍事衝突，不過是 “小事一樁”。"
     }
   ]
 }
