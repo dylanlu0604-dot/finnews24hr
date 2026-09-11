@@ -1,7 +1,105 @@
 {
   "date": "2026-09-11",
-  "count": 761,
+  "count": 772,
   "items": [
+    {
+      "id": "5088524",
+      "time": "2026-09-11 09:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿爾及利亞禁止在阿聯酋註冊的航空器進入其領空】阿爾及利亞國防部10日宣佈，鑑於該國此前已宣佈與阿聯酋斷交，阿爾及利亞從當地時間11日0時起禁止在阿聯酋註冊的民用及軍用航空器進入其領空。阿爾及利亞國防部發布的宣告說，這項禁令適用於往返阿爾及利亞的阿聯酋註冊飛機，但阿聯酋往返首都阿爾及爾胡阿里·布邁丁國際機場的商業航班將獲准繼續運營，直至2026年底現有合同期滿為止。"
+    },
+    {
+      "id": "te:markets:582950",
+      "time": "2026-09-11 09:22:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Poised for Second Straight Weekly Loss — Australian shares dipped 72 points, or 0.8%, to 8,747 on Friday morning, down for the fourth session to hit their lowest in two months. Losses were broad, led by healthcare, tech, non-energy minerals, and logistics, as Wall Street’s overnight slide weighed on sentiment. Rising U.S. Treasury yields and Brent crude above USD107 fueled inflation and rate-hike fears, while President Trump warned energy costs may stay high until after November’s vote. Locally, concerns grew that elevated rates and sticky inflation could tip the economy into a slowdown. RBA Deputy Gov. Hauser said further tightening will be debated at September’s meeting, echoed by Assistant Gov. Sarah Hunter’s warning of limited tolerance for stronger price pressures. Heavyweights BHP (-4.1%), Evolution Mining (-3.8%), and Northern Star Resources (-3.6%) dragged, though the big four banks bucked the trend, up between 0.2%–1.4%. For the week, the market is on track for a second straight weekly drop, down nearly 3% so far."
+    },
+    {
+      "id": "5088523",
+      "time": "2026-09-11 09:22:01",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.95％，國企指數跌0.94％，科指跌1.36%。"
+    },
+    {
+      "id": "mkt:01a08e0e-5e57-7118-8538-63ebe53169ba",
+      "time": "2026-09-11 09:21:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03993.HK",
+        "Impact bearish",
+        "02899.HK",
+        "01519.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: the Hang Seng Index down 0.95% and the Hang Seng Tech Index down 1.36%. China Molybdenum (03993.HK) fell over 4%, Zijin Mining (02899.HK) slipped 3.8%, and J&T Express (01519.HK) dropped over 3.5%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609113871454053",
+      "time": "2026-09-11 09:21:32",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展40億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5088522",
+      "time": "2026-09-11 09:21:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放40億元人民幣。"
+    },
+    {
+      "id": "mkt:01a08e0d-d0d7-7118-8538-5dc4cf8274b5",
+      "time": "2026-09-11 09:21:05",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened lower on Sept 11 (Fri). Hang Seng Index (HSI) opened down 236.32 points (-0.95%) at 24,718.15; Hang Seng Tech Index opened down 58.76 points (-1.36%) at 4,271.73; Hang Seng China Enterprises Index (HSCEI) opened down 77.69 points (-0.94%) at 8,197.09; Red Chip Index opened down 29.53 points (-0.70%) at 4,173.89."
+    },
+    {
+      "id": "5088521",
+      "time": "2026-09-11 09:21:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展40億元人民幣七天期逆回購操作，利率1.40%，持平上次。"
+    },
+    {
+      "id": "mkt:01a08e0d-be18-7118-8538-55ec647a9a0d",
+      "time": "2026-09-11 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo today, injecting 40 billion yuan; bids 40 billion, allotment 40 billion, rate 1.40% — unchanged from the previous operation."
+    },
+    {
+      "id": "5088520",
+      "time": "2026-09-11 09:19:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "近月布倫特原油期貨回吐漲幅；最新跌0.1%，報每桶107.49美元。"
+    },
     {
       "id": "5088519",
       "time": "2026-09-11 09:19:18",
@@ -9,6 +107,14 @@
         "公司"
       ],
       "text": "【天域生物等成立科技公司，含多項AI業務】企查查APP顯示，近日，北京泓算智元科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧硬體銷售；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由天域生物等共同持股。"
+    },
+    {
+      "id": "5088518",
+      "time": "2026-09-11 09:19:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒿慧傑會見影石創新科技股份有限公司聯合創始人、執行總裁陳金堯一行】據西安釋出，9月10日，陝西省委常委、西安市委書記蒿慧傑會見影石創新科技股份有限公司聯合創始人、執行總裁陳金堯一行。蒿慧傑說，影石創新是全球智慧影像行業翹楚，科創能力突出、企業實力雄厚，此次將西部地區首個研發中心落戶西安高新區，是雙方深化合作的重要里程碑。希望雙方以此為契機，持續拓展合作寬度、挖掘合作深度，更好實現互利共贏、共同發展。一是充分發揮西安科教資源優勢，支援影石創新西安研發中心與本地高校院所深度協同，圍繞全景影像、AI演算法、無人機飛控等領域開展聯合攻關，吸引高階人才集聚，共同把西安打造成智慧影像行業全國重要創新策源地。二是以影石創新西安研發中心為核心支點，利用西安先進光學、精密製造、積體電路等領域上下游配套資源，延伸智慧影像產業鏈，帶動更多硬科技企業成長。三是把西安豐富的文旅地標、大型賽事等資源作為實景試驗場，持續利用好各類應用場景，讓影石創新的新技術、新產品在西安測試打磨、迭代成熟、示範落地。西安將持續營造市場化、法治化、國際化一流營商環境，做優全週期服務保障，助力企業不斷發展壯大。"
     },
     {
       "id": "5088517",
