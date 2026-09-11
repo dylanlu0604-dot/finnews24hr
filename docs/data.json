@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-12 04:09:47",
-  "count": 13446,
+  "updated": "2026-09-12 04:13:42",
+  "count": 13449,
   "items": [
+    {
+      "id": "5090329",
+      "time": "2026-09-12 04:13:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”：美聯儲下週勢將加息 但只加息一次無法解決問題】“美聯儲傳聲筒”Nick Timiraos最新撰文稱，投資者已基本認定美聯儲下週將進行三年來首次加息，更難的問題是之後會怎樣。由於美聯儲內部幾乎沒人認為單次加息25個基點足以壓低通脹，若下週決定加息，則反映的是利率此前處於錯誤水平的判斷，一次加息無法解決問題。自1990年代以來，美聯儲僅有一次“一次性”加息。沃什7月曾表示不認為美聯儲擅長“微調”，分析人士稱，一位對微調持懷疑態度的主席不太可能加息25個基點後便宣佈任務完成。沃什上月表示，沒有太多證據顯示借貸條件正在限制經濟活動。如果以這一理由推動加息，市場自然會追問利率需要升至多高。如果缺乏解釋，市場可能會將一次加息解讀為更大規模行動的開始。因此，本週投資者不再將9月會議視為單次會議的問題。市場目前預計，到明年6月累計加息次數至少達到三次，高於此前預計的兩次。"
+    },
+    {
+      "id": "mkt:01a09218-6223-7118-8551-78df1211744e",
+      "time": "2026-09-12 04:11:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi foreign ministry said it reserves the right to take all necessary measures to protect its sovereignty, security, facilities, and citizens and residents."
+    },
+    {
+      "id": "mkt:01a09218-1585-7118-8551-76d9f2505df3",
+      "time": "2026-09-12 04:10:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A statement said that, at the request of Iraq's prime minister, we will refrain from retaliatory action at this stage."
+    },
+    {
+      "id": "5090326",
+      "time": "2026-09-12 04:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部宣告稱，保留採取一切必要措施維護其主權、安全、設施、公民及居民的權利。"
+    },
+    {
+      "id": "5090325",
+      "time": "2026-09-12 04:09:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預測2027年沙特石油產量將上升，但產量仍將遠低於其報告的最高可行產能1230萬桶/日。"
+    },
+    {
+      "id": "mkt:01a09216-d643-7118-8551-68a20d7dfdba",
+      "time": "2026-09-12 04:09:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "S&P expects Saudi oil output to rise by 2027 but remain well below Saudi Arabia's reported maximum feasible capacity of 12.3 million barrels per day."
+    },
+    {
+      "id": "5090324",
+      "time": "2026-09-12 04:09:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特外交部宣告稱，應伊拉克總理請求，現階段選擇不採取報復行動。"
+    },
     {
       "id": "mkt:01a09215-cc05-7118-8551-64e36ef1eeeb",
       "time": "2026-09-12 04:08:16",
@@ -123390,38 +123462,6 @@
         "其他"
       ],
       "text": "OpenAI：GPT‑6 Astra 現已面向 ChatGPT Work 與 Codex 的所有 Pro、企業版以及商業高階版使用者開放。"
-    },
-    {
-      "id": "5078356",
-      "time": "2026-09-05 04:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方宣告稱，在真主黨向以色列士兵發動無人機襲擊後，以軍正在打擊黎巴嫩南部。"
-    },
-    {
-      "id": "mkt:01a06e0c-4f61-7118-84ae-3ebf69f7c9b5",
-      "time": "2026-09-05 04:11:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it remains active in the security zone to eliminate threats to Israeli civilians and soldiers and will continue taking measures against Hezbollah's repeated attempts to harm Israeli troops."
-    },
-    {
-      "id": "mkt:01a06e0b-fc2c-7118-84ae-3724e1228630",
-      "time": "2026-09-05 04:11:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said the actions constitute Hezbollah's 'blatant violations' and has carried out retaliatory strikes on targets in southern Lebanon."
-    },
-    {
-      "id": "mkt:01a06e0b-9182-7118-84ae-2e2e3bed6064",
-      "time": "2026-09-05 04:10:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israel Defense Forces said HEZBOLLAH fighters fired a drone at Israeli troops stationed in southern Lebanon’s security zone; the IDF opened fire and shot the drone down, with no casualties."
     }
   ]
 }
