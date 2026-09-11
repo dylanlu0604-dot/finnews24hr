@@ -1,7 +1,77 @@
 {
   "date": "2026-09-11",
-  "count": 691,
+  "count": 699,
   "items": [
+    {
+      "id": "mkt:01a08df2-ce05-7118-8537-e33011d5b6be",
+      "time": "2026-09-11 08:51:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI CEO open to slowing frontier AI development】OpenAI is considering slowing the pace of frontier AI development, CEO Sam Altman told staff at an all-hands, and he urged other AI firms to follow. The company may seek coordinated pauses with several AI labs, though some labs may not agree. Recent public staff expressions of concern over advanced AI risks have increased internal anxiety. OpenAI and competitor Anthropic filed confidential IPO paperwork earlier this year."
+    },
+    {
+      "id": "5088470",
+      "time": "2026-09-11 08:51:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮允許小羅伯特·肯尼迪使用軍用飛機。"
+    },
+    {
+      "id": "5088469",
+      "time": "2026-09-11 08:50:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：券商板塊左側配置價值顯現，關注三條主線】華泰證券研報認為，券商中報驗證行業景氣修復，核心變化集中在擴表、投資、經紀、投行和國際業務五條主線。本輪修復為多業務共振，疊加政策支援、估值低位和機構低配，板塊左側配置價值逐步顯現。建議關注三條主線：一是業績增長強、綜合實力領先的龍頭；二是科技IPO和跟投收益彈性突出的公司；三是區域併購重組帶來的潛在機會。"
+    },
+    {
+      "id": "5088468",
+      "time": "2026-09-11 08:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：用好算力券等普惠性支援政策，降低軟體企業算力使用成本】工信部印發《“人工智慧＋軟體”專項行動實施方案》提出，強化軟體企業算力服務支撐。完善智算雲服務體系，發展算力、模型、軟體工具一體化服務，推進資源集約化利用。面向軟體企業用算需求特點，支援發展彈性靈活、按需擴容的算力服務。用好算力券等普惠性支援政策，降低軟體企業算力使用成本，加強面向中小企業的算力供需匹配與上雲用算指導。"
+    },
+    {
+      "id": "5088467",
+      "time": "2026-09-11 08:49:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：實施人工智慧中小企業創業支援計劃 培育一批創業企業和專精特新“小巨人”企業】工信部印發《“人工智慧＋軟體”專項行動實施方案》提出，培育壯大智慧軟體服務主體。引導軟體企業向人工智慧應用服務商轉型，增強持續服務和價值交付能力。實施人工智慧中小企業創業支援計劃，重點支援輕量化、專業化的新型軟體服務主體發展，培育一批創業企業和專精特新“小巨人”企業。鼓勵有條件的地方培育“人工智慧+軟體”創新創業集聚區，統籌提供場地、算力等配套發展資源。"
+    },
+    {
+      "id": "5088466",
+      "time": "2026-09-11 08:48:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：支援高校、科研院所和企業將開源貢獻納入科研評價與人才認定體系】工信部印發《“人工智慧＋軟體”專項行動實施方案》提出，促進軟體開源協同創新。依託全國性開源基金會與人工智慧開源社群，引導企業開放智慧程式設計、軟體產品智慧化、智慧體等成果，支援重點開源專案在社群首發，設立智慧作業系統等領域開源專區，加強自主開源許可協議應用與合規指引。建立優質開源專案遴選和培育機制，鼓勵探索多元化商業模式，推動優質專案在製造、金融等領域深度應用。完善開源貢獻激勵，支援高校、科研院所和企業將開源貢獻納入科研評價與人才認定體系，探索將開源貢獻作為挖掘軟體領域優質中小企業重要參考指標。"
+    },
+    {
+      "id": "mkt:01a08def-a077-7118-8537-dc661809e678",
+      "time": "2026-09-11 08:48:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing balances down CNY2.204 bln】As of Sept. 10, Shanghai Stock Exchange margin balance CNY1.3373 tln, down CNY0.526 bln day-on-day; Shenzhen Stock Exchange CNY1.2715 tln, down CNY1.678 bln; combined CNY2.6088 tln, down CNY2.204 bln."
+    },
+    {
+      "id": "5088465",
+      "time": "2026-09-11 08:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少22.04億元】截至9月10日，上交所融資餘額報13373.37億元，較前一交易日減少5.26億元；深交所融資餘額報12714.83億元，較前一交易日減少16.78億元；兩市合計26088.2億元，較前一交易日減少22.04億元。"
+    },
     {
       "id": "5088464",
       "time": "2026-09-11 08:47:36",
