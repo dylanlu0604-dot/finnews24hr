@@ -1,7 +1,151 @@
 {
   "date": "2026-09-11",
-  "count": 843,
+  "count": 858,
   "items": [
+    {
+      "id": "mkt:01a08e22-3370-7118-8539-3a00dbf635dc",
+      "time": "2026-09-11 09:43:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share tourism and hotel sector saw selective rallies; Qujiang Cultural Tourism and Guilin Tourism hit daily limit-up, Tianmuhu advanced, while China CYTS, Xi'an Catering and Huangshan Tourism pared losses."
+    },
+    {
+      "id": "mkt:01a08e21-edfd-7118-8539-310d32cc3644",
+      "time": "2026-09-11 09:43:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Copper"
+      ],
+      "text": "A-share CPO concept sector rose in early trade after initial volatility. Wuhan Fangu, Guangdian Co. and Huasheng Tiancheng hit and remained at daily limit-up. Zhaolong Hulian, Xunjie Xing and Fenghua Hi-Tech also advanced."
+    },
+    {
+      "id": "mkt:01a08e21-2d6e-7118-8539-29410eb6b33b",
+      "time": "2026-09-11 09:42:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield rose 7.5 bps to 2.985%."
+    },
+    {
+      "id": "mkt:01a08e21-1dd7-7118-8539-2697e799c3a9",
+      "time": "2026-09-11 09:42:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Shanghai silver most-active futures contract on the Shanghai Futures Exchange fell 6.00% intraday to 15,435 yuan/kg."
+    },
+    {
+      "id": "5088579",
+      "time": "2026-09-11 09:41:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報15435.00元。"
+    },
+    {
+      "id": "5088578",
+      "time": "2026-09-11 09:41:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "悉尼機場因空中交通管制員短缺導致航班中斷。"
+    },
+    {
+      "id": "5088577",
+      "time": "2026-09-11 09:41:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停】旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停，天目湖跟漲，中青旅、西安飲食、黃山旅遊跌幅收窄。"
+    },
+    {
+      "id": "mkt:01a08e20-7076-7118-8539-1ee8c74b54f8",
+      "time": "2026-09-11 09:41:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【China A-share nonferrous metals sector plunges; multiple nonferrous ETFs down >4%】China A-share nonferrous metals sector plunged. Nonferrous ETFs including E Fund Nonferrous ETF (560470) and GF Nonferrous ETF (159029), and industrial nonferrous ETFs such as Wanjia Industrial Nonferrous ETF (560860) and ChinaAMC Industrial Nonferrous ETF (515040) fell more than 4%."
+    },
+    {
+      "id": "5088576",
+      "time": "2026-09-11 09:41:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率上行7.5個基點，報2.985%。"
+    },
+    {
+      "id": "5088574",
+      "time": "2026-09-11 09:40:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九部門：加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，加強產能預警調控。嚴格執行《汽車產業投資管理規定》等產業政策，嚴格新建獨立新能源汽車企業專案條件。加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革。透過市場化法治化方式推動落後低效產能有序退出，提升行業整體產能利用水平。加強動力電池產能預警和調控管理。"
+    },
+    {
+      "id": "5088573",
+      "time": "2026-09-11 09:40:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "豆包宣佈輸入法升級，完成全端支援。"
+    },
+    {
+      "id": "5088572",
+      "time": "2026-09-11 09:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九部門：有序推進智慧網聯汽車准入和上路通行】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，積極穩妥推進自動駕駛技術規模應用。開展自動駕駛乘用車、公交車、幹線物流、城市配送、特種作業等多場景示範應用。有序推進智慧網聯汽車准入和上路通行，支援搭載自動駕駛系統車輛規模應用。推動開展功能型無人車應用試點，建立健全相關制度規範。推進“車路雲一體化”發展應用。推動全國一、二線重點城市和部分國家高速公路加快數字化、網聯化升級，重要路口路段具備智慧感知、邊緣計算和通訊能力，加強城市道路和公路跨區域協同佈局，支援建設跨域連通的雲控基礎平臺，分級實現交通管控、交通事件等資訊上車，車車、車路協同感知與決策等功能場景規模化應用。推動新能源重卡規模應用。聚焦乾線物流、短途運輸等典型場景，積極推進新能源重卡規模應用。"
+    },
+    {
+      "id": "5088571",
+      "time": "2026-09-11 09:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金板塊大幅調整，深中華A跌停】黃金板塊大幅調整，深中華A跌停，江西銅業、白銀有色、興業銀錫、金誠信、萊紳通靈、洛陽鉬業等跟跌。"
+    },
+    {
+      "id": "mkt:01a08e1e-d11a-7118-8539-15ea844efdfa",
+      "time": "2026-09-11 09:39:39",
+      "tags": [
+        "MKT News",
+        "OZON.O",
+        "Impact bearish"
+      ],
+      "text": "Ozon said a Ukrainian drone strike hit its logistics center in Russia's Saratov region, triggering a fire."
+    },
+    {
+      "id": "5088570",
+      "time": "2026-09-11 09:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銅板塊跌超5%，多隻有色ETF跌超4%】銅板塊跌超5%，有色ETF易方達（560470）、有色ETF廣發（159029）等多隻有色ETF，工業有色ETF萬家（560860）、工業有色ETF華夏（515040）等多隻工業有色ETF跌超4%。"
+    },
     {
       "id": "5088569",
       "time": "2026-09-11 09:38:47",
