@@ -1,7 +1,33 @@
 {
   "date": "2026-09-12",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:01a09240-7833-7118-8551-d2b944610ab4",
+      "time": "2026-09-12 04:54:53",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bearish"
+      ],
+      "text": "Sources: JP Morgan (JPM.N) has suspended situational-awareness-related lending after suffering losses."
+    },
+    {
+      "id": "5090390",
+      "time": "2026-09-12 04:53:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通在遭受損失後暫停Situation Awareness相關貸款業務。"
+    },
+    {
+      "id": "5090389",
+      "time": "2026-09-12 04:52:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "ZETA提交申請，擬發行最高2500萬美元股份作為服務款項。"
+    },
     {
       "id": "5090388",
       "time": "2026-09-12 04:48:45",
