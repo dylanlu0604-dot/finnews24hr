@@ -1,7 +1,111 @@
 {
   "date": "2026-09-11",
-  "count": 1815,
+  "count": 1827,
   "items": [
+    {
+      "id": "mkt:01a08fe9-9f7f-7118-8546-9338f8f65add",
+      "time": "2026-09-11 18:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas, citing unnamed sources, reports Yemeni armed forces have fully liberated Zaher district in southern Al-Bayda province."
+    },
+    {
+      "id": "5089550",
+      "time": "2026-09-11 18:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "甘肅省委原常委、省政府原副省長雷思維被“雙開”。（央視新聞）"
+    },
+    {
+      "id": "5089549",
+      "time": "2026-09-11 18:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆生產建設兵團原黨委常委、副司令員李旭被“雙開”】新疆生產建設兵團原黨委常委、副司令員李旭嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "5089548",
+      "time": "2026-09-11 17:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會批准 61 億歐元資金用於烏克蘭防空與彈藥專案】據一份宣告，歐盟委員會批准 61 億歐元，用於滿足烏克蘭在防空反導、彈藥、無人機及電子戰領域的國防需求。資金將支援從歐盟企業及烏克蘭本土企業採購防務產品。該資金同時允許烏克蘭為愛國者系統採購 PAC-3 導彈，針對美製裝備設有兩項豁免，包括透過北約協調的 PURL 機制進行採購。資金來源於 900 億歐元烏克蘭支援貸款。此次獲批後，面向烏克蘭 2026 年國防支援的 283 億歐元資金現已全部分配完畢。歐盟委員會今年已向烏克蘭撥付 83.5 億歐元國防資金，後續更多資金將 “很快” 到位。"
+    },
+    {
+      "id": "mkt:01a08fe7-8912-7118-8546-8da330f5a497",
+      "time": "2026-09-11 17:58:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed policy path in doubt as economists and markets diverge】Investors price roughly a 70% chance of a Fed hike next week, while a Sept 4–9 survey of 48 economists found only 13 expect a September increase and most expect rates to be held unchanged through end-2027. Economists cited easing inf and the approaching U.S. midterm elections as reasons to stand pat at the Sep 15–16 and Oct meetings. Yelena Shulyatyeva, senior U.S. economist at the World Federation of Large Enterprises, expects holds in Sep, Oct and Dec but warned any clear uptick in inf could force the FOMC to act regardless of election timing. The divergence reflects unusually high uncertainty about near-term policy direction under Chair Warsh."
+    },
+    {
+      "id": "5089547",
+      "time": "2026-09-11 17:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山證資管總經理李宏宇：承接存款搬家需做好三件事】9月11日，由證券時報社主辦的“2026金融機構年會暨證券業資產管理論壇”在深圳舉行。山證資管總經理李宏宇表示，在未來幾年的存款搬家中，要把握“收益率確定、購買渠道便捷、持有無需過多額外服務”三大特徵。承接相關資金的資管機構應致力於不斷穩定產品收益率，透過客群生態化建設能更多觸達客戶購買渠道，同時加強客戶投資前後的投資者教育與陪伴服務。為此，山證資管將努力從1%收益區間起步，每50到100個BP搭建一條產品線，形成現金管理、絕對收益、穩定增值、多資產配置、工具類五大業務線來滿足客戶需求。展望2027年，他認為券商資管的核心是建設兩類能力：一是多資產多策略時代來臨推動打造策略創設、策略外採和資產配置能力，做好“組合工程師”，整合全市場百萬億元資管生態的優質策略應對變化；二是客戶生態化建設能力，前瞻感知各類合作機構發展痛點並提供務實解決方案，矩陣式完善客戶觸點拼圖，與行業同行的同時，也憑藉差異化路徑建設獲得快速發展。"
+    },
+    {
+      "id": "5089546",
+      "time": "2026-09-11 17:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：註冊地區銀行每日需維持至少 90% 的現金儲備率。"
+    },
+    {
+      "id": "5089545",
+      "time": "2026-09-11 17:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪拜航空貨運服務升級後，可在125個以上目的地提供點對點包機與定期貨運航班服務。"
+    },
+    {
+      "id": "5089544",
+      "time": "2026-09-11 17:57:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【期權指標顯示交易員長期仍看好日元】期權交易員對日元的長期前景依然持樂觀態度，他們關注的重點不在於現貨市場的短期波動。一年期風險逆轉指標並未受到短期現匯波動的影響，週五向著看好日元的方向擴大至54個基點，若和收盤位相比創下2月以來的最高。"
+    },
+    {
+      "id": "mkt:01a08fe6-59bc-7118-8546-825c20c54e63",
+      "time": "2026-09-11 17:57:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said the Swiss franc's exchange rate poses challenges for the Swiss economy, but the real Swiss franc has remained stable since 2020."
+    },
+    {
+      "id": "5089543",
+      "time": "2026-09-11 17:57:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國家銀行董事長：瑞郎匯率對瑞士經濟構成挑戰，但瑞郎實際匯率自2020年以來一直保持穩定。"
+    },
+    {
+      "id": "5089542",
+      "time": "2026-09-11 17:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行修訂地區銀行的現金儲備率及法定流動性儲備相關指引。"
+    },
     {
       "id": "5089541",
       "time": "2026-09-11 17:56:36",

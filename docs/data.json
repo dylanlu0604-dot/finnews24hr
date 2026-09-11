@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-11 17:57:22",
-  "count": 13646,
+  "updated": "2026-09-11 18:01:50",
+  "count": 13645,
   "items": [
+    {
+      "id": "mkt:01a08fe9-9f7f-7118-8546-9338f8f65add",
+      "time": "2026-09-11 18:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas, citing unnamed sources, reports Yemeni armed forces have fully liberated Zaher district in southern Al-Bayda province."
+    },
+    {
+      "id": "5089550",
+      "time": "2026-09-11 18:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "甘肅省委原常委、省政府原副省長雷思維被“雙開”。（央視新聞）"
+    },
+    {
+      "id": "5089549",
+      "time": "2026-09-11 18:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆生產建設兵團原黨委常委、副司令員李旭被“雙開”】新疆生產建設兵團原黨委常委、副司令員李旭嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "5089548",
+      "time": "2026-09-11 17:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會批准 61 億歐元資金用於烏克蘭防空與彈藥專案】據一份宣告，歐盟委員會批准 61 億歐元，用於滿足烏克蘭在防空反導、彈藥、無人機及電子戰領域的國防需求。資金將支援從歐盟企業及烏克蘭本土企業採購防務產品。該資金同時允許烏克蘭為愛國者系統採購 PAC-3 導彈，針對美製裝備設有兩項豁免，包括透過北約協調的 PURL 機制進行採購。資金來源於 900 億歐元烏克蘭支援貸款。此次獲批後，面向烏克蘭 2026 年國防支援的 283 億歐元資金現已全部分配完畢。歐盟委員會今年已向烏克蘭撥付 83.5 億歐元國防資金，後續更多資金將 “很快” 到位。"
+    },
+    {
+      "id": "mkt:01a08fe7-8912-7118-8546-8da330f5a497",
+      "time": "2026-09-11 17:58:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed policy path in doubt as economists and markets diverge】Investors price roughly a 70% chance of a Fed hike next week, while a Sept 4–9 survey of 48 economists found only 13 expect a September increase and most expect rates to be held unchanged through end-2027. Economists cited easing inf and the approaching U.S. midterm elections as reasons to stand pat at the Sep 15–16 and Oct meetings. Yelena Shulyatyeva, senior U.S. economist at the World Federation of Large Enterprises, expects holds in Sep, Oct and Dec but warned any clear uptick in inf could force the FOMC to act regardless of election timing. The divergence reflects unusually high uncertainty about near-term policy direction under Chair Warsh."
+    },
+    {
+      "id": "5089547",
+      "time": "2026-09-11 17:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山證資管總經理李宏宇：承接存款搬家需做好三件事】9月11日，由證券時報社主辦的“2026金融機構年會暨證券業資產管理論壇”在深圳舉行。山證資管總經理李宏宇表示，在未來幾年的存款搬家中，要把握“收益率確定、購買渠道便捷、持有無需過多額外服務”三大特徵。承接相關資金的資管機構應致力於不斷穩定產品收益率，透過客群生態化建設能更多觸達客戶購買渠道，同時加強客戶投資前後的投資者教育與陪伴服務。為此，山證資管將努力從1%收益區間起步，每50到100個BP搭建一條產品線，形成現金管理、絕對收益、穩定增值、多資產配置、工具類五大業務線來滿足客戶需求。展望2027年，他認為券商資管的核心是建設兩類能力：一是多資產多策略時代來臨推動打造策略創設、策略外採和資產配置能力，做好“組合工程師”，整合全市場百萬億元資管生態的優質策略應對變化；二是客戶生態化建設能力，前瞻感知各類合作機構發展痛點並提供務實解決方案，矩陣式完善客戶觸點拼圖，與行業同行的同時，也憑藉差異化路徑建設獲得快速發展。"
+    },
+    {
+      "id": "5089546",
+      "time": "2026-09-11 17:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：註冊地區銀行每日需維持至少 90% 的現金儲備率。"
+    },
+    {
+      "id": "5089545",
+      "time": "2026-09-11 17:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪拜航空貨運服務升級後，可在125個以上目的地提供點對點包機與定期貨運航班服務。"
+    },
+    {
+      "id": "5089544",
+      "time": "2026-09-11 17:57:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【期權指標顯示交易員長期仍看好日元】期權交易員對日元的長期前景依然持樂觀態度，他們關注的重點不在於現貨市場的短期波動。一年期風險逆轉指標並未受到短期現匯波動的影響，週五向著看好日元的方向擴大至54個基點，若和收盤位相比創下2月以來的最高。"
+    },
+    {
+      "id": "mkt:01a08fe6-59bc-7118-8546-825c20c54e63",
+      "time": "2026-09-11 17:57:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said the Swiss franc's exchange rate poses challenges for the Swiss economy, but the real Swiss franc has remained stable since 2020."
+    },
+    {
+      "id": "5089543",
+      "time": "2026-09-11 17:57:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國家銀行董事長：瑞郎匯率對瑞士經濟構成挑戰，但瑞郎實際匯率自2020年以來一直保持穩定。"
+    },
+    {
+      "id": "5089542",
+      "time": "2026-09-11 17:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行修訂地區銀行的現金儲備率及法定流動性儲備相關指引。"
+    },
     {
       "id": "5089541",
       "time": "2026-09-11 17:56:36",
@@ -124942,115 +125046,6 @@
         "國際"
       ],
       "text": "伊朗軍方稱，襲擊以色列比以前容易得多。"
-    },
-    {
-      "id": "mkt:01a06bdd-fe4c-7118-849f-a53cb12f8791",
-      "time": "2026-09-04 18:01:45",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【Gilts fall after Bank of England DMP data】UK gilts fell after Bank of England Decision-Maker Panel (DMP) data showed firms’ one-year own-price inflation expectations eased to 3.8% in the three months to August from 3.9% in the three months to July. Economists at Pantheon said the DMP print could prompt Monetary Policy Committee (MPC) members to keep policy rates unchanged near term while awaiting further inflation data. The 10-year gilt yield fell from 5.171% to 5.140%."
-    },
-    {
-      "id": "5077502",
-      "time": "2026-09-04 18:01:44",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：波斯灣“暗航”增加緩解供給擔憂 布油95美元已計入約15美元風險溢價】高盛表示，布倫特原油已升至每桶95美元，市場正計價“中東短期難達成協議”的狀態將持續更久。近期美伊在一個月停火後重新發生襲擊，過去10天波斯灣及紅海附近至少有6艘油輪遇襲，增加石油基礎設施受損風險。庫存方面，高盛認為可見資料低估了實際供應。調整預期修正後，全球可見庫存較原始資料高約3900萬桶，過去30天庫存下降速度約210萬桶/日。但OECD商業庫存自3月以來僅減少1900萬桶，仍接近歷史均值。"
-    },
-    {
-      "id": "5077501",
-      "time": "2026-09-04 18:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛爾蘭第二季度最終GDP同比下降0.4%，而初步資料顯示為下降1.6%。"
-    },
-    {
-      "id": "5077500",
-      "time": "2026-09-04 18:00:49",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：美國裁員仍處低位 初請失業金資料繼續釋放積極就業訊號】摩根大通最新研報指出，美國失業救濟申請和企業裁員資料繼續顯示勞動力市場具有韌性，目前尚未出現裁員明顯惡化的跡象。8月29日當週初請失業金人數由20.4萬小幅升至20.6萬，但仍明顯低於去年同期水平；8月22日當週續請失業金人數增加8000人。該行認為，季節性因素可能使初請人數在年內剩餘時間緩慢下降；續請人數則與過去兩年的季節走勢相似，若這一規律延續，9月底至11月可能逐步上升，但並不意味著勞動力市場突然轉弱。"
-    },
-    {
-      "id": "5077499",
-      "time": "2026-09-04 18:00:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛爾蘭第二季度最終GDP環比增長10.2%，高於初步資料3.9%。"
-    },
-    {
-      "id": "5077498",
-      "time": "2026-09-04 18:00:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統新聞秘書：在惠特科夫和庫什納訪俄前，俄羅斯不會與烏克蘭就制止烏方襲擊舉行直接談判。"
-    },
-    {
-      "id": "5077497",
-      "time": "2026-09-04 17:59:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其能源部長稱伊朗戰爭風險或將加劇。"
-    },
-    {
-      "id": "5077496",
-      "time": "2026-09-04 17:58:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【GPT-6釋出後AI硬體板塊集體跳水】9月4日，A股AI硬體板塊遭遇重挫。截至收盤，國內AI伺服器龍頭浪潮資訊（SZ000977，股價77.72元，總市值1141億元）封死跌停，單日成交額137.08億元，市值較前一交易日蒸發約127億元。同日，同賽道的紫光股份（SZ000938，股價35.27元，總市值1009億元）大跌7.50%、銳捷網路（SZ301165，股價109.7元，總市值1222億元）下跌6.33%，三家千億級硬體公司單日合計蒸發市值超過290億元。"
-    },
-    {
-      "id": "5077495",
-      "time": "2026-09-04 17:58:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銘普光磁：取得一項發明專利證書】銘普光磁公告稱，公司近日取得國家智慧財產權局頒發的發明專利證書，專利名稱為一種光纖耦合結構的連線方法，專利號為ZL 2023 1 0370376.0，專利申請日為2023年04月07日，授權公告日為2026年09月04日，專利權期限為20年。該專利可簡化耦合過程、實現快速耦合，其取得不會對公司生產經營造成重大影響，有利於完善智慧財產權保護體系，提升核心競爭力。"
-    },
-    {
-      "id": "5077494",
-      "time": "2026-09-04 17:58:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【川能動力：擬出資1億元參股組建核產業公司】川能動力公告稱，公司擬與控股股東四川能源發展集團等多方共同投資組建四川能源核產業有限公司（暫定名）。該公司註冊資本10億元，其中川能動力出資1億元，持股比例10%；四川能源發展集團出資5.20億元，持股52%，為控股股東。本次交易構成關聯交易，已經公司董事會審議透過，無需提交股東會審議，不構成重大資產重組。本次投資旨在佈局核產業賽道，拓展新興業務板塊，不會對公司正常生產經營產生重大影響。"
-    },
-    {
-      "id": "5077493",
-      "time": "2026-09-04 17:57:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅普特：回購專用證券賬戶擬出售不超過369.11萬股】羅普特公告，公司此前累計回購456.87萬股，截至本公告披露日尚未出售或轉讓。公司計劃於2026年9月29日～2027年3月28日，透過集中競價方式出售不超過369.11萬股回購股份，佔公司當前總股本的1.99%，所得資金用於公司主營業務發展。"
-    },
-    {
-      "id": "mkt:01a06bda-5c90-7118-849f-9bab49902ed7",
-      "time": "2026-09-04 17:57:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin suggested the U.S. might ask Ukraine to cease terrorist activity ahead of visits to Russia by U.S. Middle East envoy Witkoff and senior adviser Kushner."
-    },
-    {
-      "id": "5077492",
-      "time": "2026-09-04 17:57:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "鸚鵡螺號：海王星企業號工廠已恢復天然氣處理。"
     }
   ]
 }
