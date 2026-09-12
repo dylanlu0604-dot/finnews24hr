@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-12 09:44:27",
-  "count": 13503,
+  "updated": "2026-09-12 09:48:15",
+  "count": 13502,
   "items": [
+    {
+      "id": "mkt:01a0934b-7655-7118-8552-f9dac8909b89",
+      "time": "2026-09-12 09:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola cases exceed 7,000】The DRC Ministry of Health said in a report on the 11th the current Ebola outbreak has 7,022 confirmed cases, 3,398 deaths and 1,671 recoveries."
+    },
+    {
+      "id": "em:qqyh_mlc:202609123872688249",
+      "time": "2026-09-12 09:43:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：美國CPI超預期 加息成為“必選項”】華泰證券研報表示，8月核心通脹環比超預期使得美聯儲9月加息成為“必選項”，9月不加息的公信力風險進一步上行。繼8月非農大超預期、中東局勢升溫推動油價破百後，8月CPI資料成為市場定價美聯儲是否在9月加息的核心變數。8月CPI核心通脹環比超預期升溫，美聯儲關注的核心服務ex住房分項也未出現進一步放緩勢能。"
+    },
     {
       "id": "5090520",
       "time": "2026-09-12 09:35:52",
@@ -123921,32 +123938,6 @@
         "觀點"
       ],
       "text": "【中信證券解讀REITs：展望九月，資金面或仍是影響市場行情的重要變數】據中信證券，公募基金和公募REITs2026年中報披露後，可以看到：1）公募REITs市場仍是機構投資者主導，同時機構投資者持有市值比例呈現邊際提升態勢。2）公募FOF對於公募REITs的持倉量整體穩定，混合債券型二級基金開始入市，更多的混合債券型二級基金和偏債混合型基金亦將公募REITs納入投資範圍。3）券商自營在公募REITs二級市場的參與度進一步提升，且在高速公路和消費基礎設施板塊的倉位較重。保險機構在流通盤前十大份額持有人的佔比則邊際回落，其持有的消費基礎設施和能源板塊配置比例有所提升。展望九月，資金面或仍是影響市場行情的重要變數，在強需求政策落地前建議投資者保持謹慎樂觀，重點關注由資金面和情緒面波動導致的部分穩健運營資產超跌機會。"
-    },
-    {
-      "id": "mkt:01a06f3e-0370-7118-84af-54f6a13afc61",
-      "time": "2026-09-05 09:45:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Fujian ends flood emergency response, maintains level-4 typhoon alert】Fujian provincial flood-control headquarters said rainfall has weakened. At 05:00, Typhoon Krovanh was about 240 km NNW of Naha in the Ryukyu Islands, with near-center maximum winds of force 9, moving south at 15–20 km/h; it is expected to graze fishing grounds off Fujian today with little change in intensity. At 09:00 on Sept. 5 the provincial command terminated the flood emergency response and maintained a level-4 typhoon emergency response."
-    },
-    {
-      "id": "5078473",
-      "time": "2026-09-05 09:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：墨西哥一執政黨議員在車內中槍身亡，距地方選舉不到一年】墨西哥執政黨國家復興運動黨的一名國會議員於當地時間4日在墨東部韋拉克魯斯州被發現死在車內，身上有槍傷。事發時，距離墨西哥地方和聯邦選舉已不到一年。據報道，埃斯科巴爾代表墨西哥沿海的韋拉克魯斯州，該州擁有墨西哥部分石油設施。韋拉克魯斯州總檢察長莉絲貝絲·希門尼斯對記者表示，“調查檔案正在整理中”，但未透露更多細節。當地官員表示調查檔案正在整理中，但並未透露更多細節。（環球網）"
-    },
-    {
-      "id": "5078472",
-      "time": "2026-09-05 09:44:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建終止防汛應急響應 維持防颱風四級應急響應】記者從福建省防汛抗旱指揮部瞭解到，目前福建省降水減弱，颱風“科羅旺”今天5時距離琉球群島那霸市北偏西方向約240公里，中心附近最大風力9級。預計，“科羅旺”將以每小時15—20公里的速度向偏南方向移動，今天白天擦過閩外漁場，強度變化不大。福建省防指於9月5日9時終止防汛應急響應並維持防颱風四級應急響應。（央視新聞）"
     }
   ]
 }

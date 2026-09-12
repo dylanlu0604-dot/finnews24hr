@@ -1,7 +1,24 @@
 {
   "date": "2026-09-12",
-  "count": 436,
+  "count": 438,
   "items": [
+    {
+      "id": "mkt:01a0934b-7655-7118-8552-f9dac8909b89",
+      "time": "2026-09-12 09:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola cases exceed 7,000】The DRC Ministry of Health said in a report on the 11th the current Ebola outbreak has 7,022 confirmed cases, 3,398 deaths and 1,671 recoveries."
+    },
+    {
+      "id": "em:qqyh_mlc:202609123872688249",
+      "time": "2026-09-12 09:43:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：美國CPI超預期 加息成為“必選項”】華泰證券研報表示，8月核心通脹環比超預期使得美聯儲9月加息成為“必選項”，9月不加息的公信力風險進一步上行。繼8月非農大超預期、中東局勢升溫推動油價破百後，8月CPI資料成為市場定價美聯儲是否在9月加息的核心變數。8月CPI核心通脹環比超預期升溫，美聯儲關注的核心服務ex住房分項也未出現進一步放緩勢能。"
+    },
     {
       "id": "5090520",
       "time": "2026-09-12 09:35:52",
