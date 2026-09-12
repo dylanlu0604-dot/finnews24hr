@@ -1,7 +1,161 @@
 {
   "date": "2026-09-13",
-  "count": 30,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:01a096dd-9722-7118-8558-2b0670cc769b",
+      "time": "2026-09-13 02:24:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "UK foreign secretary spoke with the Saudi foreign minister to discuss Houthi aggression and recent attacks on Saudi Arabia; the UK said it stands firmly with Saudi Arabia and Yemen's internationally recognized government and opposes all attacks."
+    },
+    {
+      "id": "mkt:01a096db-50fb-7118-8558-26b9a8391127",
+      "time": "2026-09-13 02:22:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East."
+    },
+    {
+      "id": "5091006",
+      "time": "2026-09-13 02:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic呼籲放慢先進AI模型開發 馬斯克等業界大佬表示贊同】Anthropic執行長Dario Amodei表示，人工智慧行業需要放慢新模型的開發速度，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險。 “我們必須放慢提升人工智慧模型能力的速度，”他週六在一篇部落格文章中寫道，“進步看起來仍會很快，我們必須明智利用由此爭取到的時間。”Amodei發文後不久，馬斯克在社交媒體表示：“Dario是對的。” OpenAI執行長Sam Altman也很快發表看法，表示他贊同Amodei所說的“我們需要控制前沿模型的發展節奏”。 他表示：“讓獨立評估人員獲得類似員工的訪問許可權是一個很好的主意，我們也會這麼做。我們很快會分享更多資訊。”"
+    },
+    {
+      "id": "5091005",
+      "time": "2026-09-13 02:18:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【烏官員：烏克蘭準備10月舉行新一輪烏美俄三方談判】烏克蘭總統辦公室主任布達諾夫當地時間12日表示，烏克蘭正準備在10月舉行新一輪談判，談判將採取烏克蘭、俄羅斯和美國三方參與的形式。布達諾夫沒有透露未來談判是否將在中東等地舉行等具體資訊。此前一天，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。（央視新聞）"
+    },
+    {
+      "id": "5091004",
+      "time": "2026-09-13 02:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣：英國堅定地與沙烏地阿拉伯及國際公認的葉門政府站在一起，共同反對這些襲擊。"
+    },
+    {
+      "id": "5091003",
+      "time": "2026-09-13 02:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣：與沙特外交大臣通話，討論葉門胡塞武裝的進攻行為及針對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "mkt:01a096d0-928f-7118-8558-1ea9caedadf1",
+      "time": "2026-09-13 02:10:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock."
+    },
+    {
+      "id": "mkt:01a096cc-cdb1-7118-8558-10da15ea9a6d",
+      "time": "2026-09-13 02:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say SpaceX will increase its weight in the Nasdaq-100 following the index rebalancing."
+    },
+    {
+      "id": "mkt:01a096cc-98dd-7118-8558-0f2255245c52",
+      "time": "2026-09-13 02:06:25",
+      "tags": [
+        "MKT News",
+        "Brent"
+      ],
+      "text": "【Iran, Oman to brief Gulf states on Strait of Hormuz navigation talks】Iran and Oman expect to brief Gulf states at a regional meeting on the 14th on the outcome of their consultations on navigation in the Strait of Hormuz, Iran foreign ministry spokesman Baghaei said, Al Jazeera reported on the 12th."
+    },
+    {
+      "id": "5091002",
+      "time": "2026-09-13 02:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼將通報霍爾木茲海峽通航磋商結果】據卡達半島電視臺12日報道，伊朗外交部發言人巴加埃表示，伊朗和阿曼預計將在14日舉行的相關地區會議上，向海灣國家通報兩國有關霍爾木茲海峽通航問題的磋商結果。（新華社）"
+    },
+    {
+      "id": "5091001",
+      "time": "2026-09-13 02:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：沙特海米斯穆謝特地區已釋出緊急警報，警示潛在危險。"
+    },
+    {
+      "id": "5091000",
+      "time": "2026-09-13 02:02:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【SpaceX將於本次再平衡後提高在納斯達克100指數中的權重】本月晚些時候，SpaceX在納斯達克100指數中的權重將會上調，這可能促使追蹤該基準指數的被動基金產生數十億美元的買入需求。根據納斯達克全球指數觀察平臺的預估資料，其權重預計將從約1.28%升至約2.82%。權重上調意義重大，因為掛鉤該指數的被動基金必須相應調整持倉，其中包括規模4810億美元的景順QQQ信託1號基金。"
+    },
+    {
+      "id": "5090999",
+      "time": "2026-09-13 02:01:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX將在指數再平衡後提升在納斯達克100指數中的權重。"
+    },
+    {
+      "id": "mkt:01a096c6-57ba-7118-8558-0686ba3e6df8",
+      "time": "2026-09-13 01:59:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reports two explosions were heard on Qeshm Island, with the sounds originating from the sea."
+    },
+    {
+      "id": "5090998",
+      "time": "2026-09-13 01:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：格什姆島海域聽到兩次爆炸聲。"
+    },
+    {
+      "id": "mkt:01a096c3-6398-7118-8557-ff25adb4a931",
+      "time": "2026-09-13 01:56:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic’s Amodei, Altman and Musk urge slowdown in AI model development】Anthropic CEO Dario Amodei said in a long blog post the firm will adopt new safety measures, including third‑party assessments, and urged an industry‑wide slowdown in AI model development. OpenAI CEO Sam Altman said he will adopt Amodei’s proposal to grant independent assessors employee‑like access. xAI’s Elon Musk publicly backed Amodei. Despite longstanding warnings from these leaders, coordinated restraint would be unprecedented in a fiercely competitive sector where firms regularly launch new products to boost engagement and sales. It remains unclear how extensively leading AI companies will implement new limits or safety checks."
+    },
+    {
+      "id": "mkt:01a096bb-3e7c-7118-8557-f39df4ba1290",
+      "time": "2026-09-13 01:47:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's foreign ministry urged the international community to take urgent action on the humanitarian consequences of Houthi escalation."
+    },
     {
       "id": "5090997",
       "time": "2026-09-13 01:18:30",

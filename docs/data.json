@@ -1,7 +1,161 @@
 {
-  "updated": "2026-09-13 01:21:59",
-  "count": 13605,
+  "updated": "2026-09-13 02:26:24",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a096dd-9722-7118-8558-2b0670cc769b",
+      "time": "2026-09-13 02:24:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "UK foreign secretary spoke with the Saudi foreign minister to discuss Houthi aggression and recent attacks on Saudi Arabia; the UK said it stands firmly with Saudi Arabia and Yemen's internationally recognized government and opposes all attacks."
+    },
+    {
+      "id": "mkt:01a096db-50fb-7118-8558-26b9a8391127",
+      "time": "2026-09-13 02:22:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East."
+    },
+    {
+      "id": "5091006",
+      "time": "2026-09-13 02:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic呼籲放慢先進AI模型開發 馬斯克等業界大佬表示贊同】Anthropic執行長Dario Amodei表示，人工智慧行業需要放慢新模型的開發速度，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險。 “我們必須放慢提升人工智慧模型能力的速度，”他週六在一篇部落格文章中寫道，“進步看起來仍會很快，我們必須明智利用由此爭取到的時間。”Amodei發文後不久，馬斯克在社交媒體表示：“Dario是對的。” OpenAI執行長Sam Altman也很快發表看法，表示他贊同Amodei所說的“我們需要控制前沿模型的發展節奏”。 他表示：“讓獨立評估人員獲得類似員工的訪問許可權是一個很好的主意，我們也會這麼做。我們很快會分享更多資訊。”"
+    },
+    {
+      "id": "5091005",
+      "time": "2026-09-13 02:18:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【烏官員：烏克蘭準備10月舉行新一輪烏美俄三方談判】烏克蘭總統辦公室主任布達諾夫當地時間12日表示，烏克蘭正準備在10月舉行新一輪談判，談判將採取烏克蘭、俄羅斯和美國三方參與的形式。布達諾夫沒有透露未來談判是否將在中東等地舉行等具體資訊。此前一天，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。（央視新聞）"
+    },
+    {
+      "id": "5091004",
+      "time": "2026-09-13 02:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣：英國堅定地與沙烏地阿拉伯及國際公認的葉門政府站在一起，共同反對這些襲擊。"
+    },
+    {
+      "id": "5091003",
+      "time": "2026-09-13 02:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣：與沙特外交大臣通話，討論葉門胡塞武裝的進攻行為及針對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "mkt:01a096d0-928f-7118-8558-1ea9caedadf1",
+      "time": "2026-09-13 02:10:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock."
+    },
+    {
+      "id": "mkt:01a096cc-cdb1-7118-8558-10da15ea9a6d",
+      "time": "2026-09-13 02:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say SpaceX will increase its weight in the Nasdaq-100 following the index rebalancing."
+    },
+    {
+      "id": "mkt:01a096cc-98dd-7118-8558-0f2255245c52",
+      "time": "2026-09-13 02:06:25",
+      "tags": [
+        "MKT News",
+        "Brent"
+      ],
+      "text": "【Iran, Oman to brief Gulf states on Strait of Hormuz navigation talks】Iran and Oman expect to brief Gulf states at a regional meeting on the 14th on the outcome of their consultations on navigation in the Strait of Hormuz, Iran foreign ministry spokesman Baghaei said, Al Jazeera reported on the 12th."
+    },
+    {
+      "id": "5091002",
+      "time": "2026-09-13 02:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼將通報霍爾木茲海峽通航磋商結果】據卡達半島電視臺12日報道，伊朗外交部發言人巴加埃表示，伊朗和阿曼預計將在14日舉行的相關地區會議上，向海灣國家通報兩國有關霍爾木茲海峽通航問題的磋商結果。（新華社）"
+    },
+    {
+      "id": "5091001",
+      "time": "2026-09-13 02:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：沙特海米斯穆謝特地區已釋出緊急警報，警示潛在危險。"
+    },
+    {
+      "id": "5091000",
+      "time": "2026-09-13 02:02:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【SpaceX將於本次再平衡後提高在納斯達克100指數中的權重】本月晚些時候，SpaceX在納斯達克100指數中的權重將會上調，這可能促使追蹤該基準指數的被動基金產生數十億美元的買入需求。根據納斯達克全球指數觀察平臺的預估資料，其權重預計將從約1.28%升至約2.82%。權重上調意義重大，因為掛鉤該指數的被動基金必須相應調整持倉，其中包括規模4810億美元的景順QQQ信託1號基金。"
+    },
+    {
+      "id": "5090999",
+      "time": "2026-09-13 02:01:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX將在指數再平衡後提升在納斯達克100指數中的權重。"
+    },
+    {
+      "id": "mkt:01a096c6-57ba-7118-8558-0686ba3e6df8",
+      "time": "2026-09-13 01:59:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reports two explosions were heard on Qeshm Island, with the sounds originating from the sea."
+    },
+    {
+      "id": "5090998",
+      "time": "2026-09-13 01:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：格什姆島海域聽到兩次爆炸聲。"
+    },
+    {
+      "id": "mkt:01a096c3-6398-7118-8557-ff25adb4a931",
+      "time": "2026-09-13 01:56:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic’s Amodei, Altman and Musk urge slowdown in AI model development】Anthropic CEO Dario Amodei said in a long blog post the firm will adopt new safety measures, including third‑party assessments, and urged an industry‑wide slowdown in AI model development. OpenAI CEO Sam Altman said he will adopt Amodei’s proposal to grant independent assessors employee‑like access. xAI’s Elon Musk publicly backed Amodei. Despite longstanding warnings from these leaders, coordinated restraint would be unprecedented in a fiercely competitive sector where firms regularly launch new products to boost engagement and sales. It remains unclear how extensively leading AI companies will implement new limits or safety checks."
+    },
+    {
+      "id": "mkt:01a096bb-3e7c-7118-8557-f39df4ba1290",
+      "time": "2026-09-13 01:47:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's foreign ministry urged the international community to take urgent action on the humanitarian consequences of Houthi escalation."
+    },
     {
       "id": "5090997",
       "time": "2026-09-13 01:18:30",
@@ -124346,454 +124500,6 @@
         "國際"
       ],
       "text": "俄別爾哥羅德州當局：烏克蘭無人機襲擊造成一人死亡。"
-    },
-    {
-      "id": "mkt:01a072d1-acff-7118-84b4-06559a95f816",
-      "time": "2026-09-06 02:25:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry condemns US strike on Iranian tanker, warns US and allies will bear consequences】Iran’s foreign ministry on Saturday condemned a US strike on an Iranian oil tanker in the Persian Gulf and Gulf of Oman, calling it part of a sustained US military campaign including maritime blockade and economic warfare. Tehran said the attacks violated Article 2(4) of the UN Charter, posed a clear threat to international peace and commercial shipping, and vowed to defend its sovereignty and national interests. The ministry accused the US of \"state terrorism\" and warned that the consequences of continued US and allied aggressive, interventionist actions in the region would be borne by the United States and its partners."
-    },
-    {
-      "id": "5078919",
-      "time": "2026-09-06 02:24:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【希臘總理公佈2027年規模22億歐元經濟扶持計劃】希臘總理米佐塔基斯公佈一套價值22億歐元的經濟舉措，用以緩解生活成本危機。總理推出的政策重點幫扶個體經營者、養老金領取者、農民以及多子女家庭等群體，其中包含上調最低工資。希臘當局預計2026年財政預算表現將優於預期目標，政府因此有空間向多類群體發放補貼、實施減稅，同時不會損害本國財政狀況。"
-    },
-    {
-      "id": "5078918",
-      "time": "2026-09-06 02:23:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會發言人：按照諒解備忘錄的約定，本不應出現封鎖行為。"
-    },
-    {
-      "id": "mkt:01a072cc-db47-7118-84b3-fe2a0ec00ec2",
-      "time": "2026-09-06 02:20:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Putin says Russia has not discussed expanding ceasefire with Ukraine】RIA reported President Putin said Kyiv has called for a broader three-day ceasefire, but Russia has not discussed or agreed to one. He made the remark during a meeting with a U.S. envoy and Kushner."
-    },
-    {
-      "id": "mkt:01a072ca-104f-7118-84b3-f4bff65ff446",
-      "time": "2026-09-06 02:17:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Zelenskiy: Ukraine to halt strikes on Moscow through Sept 7】On the 5th Zelenskiy posted on social media that after a same-day call with US representatives, Ukraine will halt strikes on Moscow from now until Sept 7 and he said he hopes Russia will likewise cease attacks on Kyiv during the period."
-    },
-    {
-      "id": "5078917",
-      "time": "2026-09-06 02:17:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部譴責美襲擊伊朗油輪，警告後果自負】伊朗外交部週六譴責美國在波斯灣與阿曼灣襲擊伊朗油輪，稱其為戰爭罪，並警告華盛頓及其盟友必須為襲擊持續下去所引發的後果承擔責任。外交部在一份宣告中表示，此類襲擊屬於美國針對伊朗持續軍事行動的一部分，其中包括海上封鎖與經濟戰。宣告稱，這些打擊違反《聯合國憲章》第二條第四款，並且對國際和平與商業航運安全構成明確威脅。外交部表示，伊朗決心捍衛本國主權與國家利益，反抗其所稱的美國“國家恐怖主義”以及包括襲擊商業航運在內的侵略行為。德黑蘭警告，華盛頓及其盟友需要為美國在該地區繼續採取任何軍事行動所帶來的後果承擔責任。"
-    },
-    {
-      "id": "5078916",
-      "time": "2026-09-06 02:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：即刻起至9月7日停止襲擊莫斯科】烏克蘭總統澤連斯基5日在社交媒體發文稱，他當天同美方代表通話，決定自即刻起至9月7日，烏方停止對莫斯科實施打擊，並希望俄方同期也停止襲擊基輔。（新華社）"
-    },
-    {
-      "id": "5078915",
-      "time": "2026-09-06 02:14:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拉美及加勒比地區本土中文教師培訓開班儀式在智利舉行】2026年拉美及加勒比地區本土中文教師培訓開班儀式9月4日在智利首都聖地亞哥舉行，約250名地區國家學員參加培訓。（新華社）"
-    },
-    {
-      "id": "mkt:01a072c7-8c0a-7118-84b3-ee01a3e84972",
-      "time": "2026-09-06 02:14:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosive devices targeting power infrastructure found in Saxony, Germany】Saxony state police said on Sept. 5 they found 12 explosive devices near two high-voltage transmission lines. All devices have been removed; there were no casualties or power outages. Police said the devices may have been intended to short-circuit the lines and are investigating whether the incident is linked to a recent series of attacks on power infrastructure in Germany."
-    },
-    {
-      "id": "5078914",
-      "time": "2026-09-06 02:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國薩克森州發現多個針對電力設施的爆炸裝置】德國薩克森州警方9月5日表示，在該州兩處高壓輸電線路附近共發現12個爆炸裝置。目前這些裝置均已被拆除，沒有造成人員傷亡或供電中斷。警方初步認為，這些裝置可能用於製造高壓輸電線路短路。警方目前正在調查此次發現是否與近期發生在該國的多起電力設施破壞事件有關。"
-    },
-    {
-      "id": "mkt:01a072c5-3403-7118-84b3-e7d4a10a958e",
-      "time": "2026-09-06 02:12:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran military warns of broader strikes on U.S. warships if disruptive actions continue】The Hatam al-Anbiya Central Command of the Iranian Armed Forces warned that if the U.S. continues unsafe actions — including harassing Iranian vessels and maintaining a blockade against Iran — Iranian forces will carry out tougher strikes on U.S. warships in the region and may expand the scope of those attacks."
-    },
-    {
-      "id": "5078913",
-      "time": "2026-09-06 02:11:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱如美繼續其破壞行為 將對美軍進行更大規模打擊】當地時間5日，伊朗武裝部隊哈塔姆·安比亞中央司令部發出警告稱，如美國繼續進行其不安全行為，騷擾伊朗船隻，繼續封鎖伊朗，伊朗武裝部隊將對該地區美國軍艦進行更加嚴厲的打擊，並且有可能擴大打擊範圍。（央視新聞）"
-    },
-    {
-      "id": "5078912",
-      "time": "2026-09-06 02:06:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：譴責華盛頓在海灣及阿曼海襲擊伊朗船隻，該類行動屬於戰爭罪，同時對海上安全構成威脅。決心捍衛本國主權與國家利益，抵禦包括海上封鎖在內的各類敵對行徑。"
-    },
-    {
-      "id": "mkt:01a072bd-a165-7118-84b3-d9eb1f02308a",
-      "time": "2026-09-06 02:03:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry said the US must bear responsibility for the consequences of its aggressive actions in the region."
-    },
-    {
-      "id": "5078911",
-      "time": "2026-09-06 02:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝部隊最高司令部：我方警告美國，如果繼續實施海上封鎖，我方將對該地區的美國軍事目標實施比以往更為猛烈的打擊。"
-    },
-    {
-      "id": "mkt:01a072bb-aebe-7118-84b3-d29e1e061a04",
-      "time": "2026-09-06 02:01:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry said it is determined to defend its sovereignty and national interests and will respond to hostile actions, including maritime blockades."
-    },
-    {
-      "id": "5078910",
-      "time": "2026-09-06 02:00:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：要求暫停對基輔打擊的請求是透過官方渠道提出的，俄羅斯並未與烏克蘭達成超過三天的停火協議。"
-    },
-    {
-      "id": "mkt:01a072ba-1c7e-7118-84b3-c97f015e2b6c",
-      "time": "2026-09-06 01:59:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's Foreign Ministry condemned U.S. attacks on its vessels in the Persian Gulf and Sea of Oman, calling the strikes war crimes and saying they threaten maritime navigation safety."
-    },
-    {
-      "id": "5078909",
-      "time": "2026-09-06 01:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：以軍擬從黎南地區部分撤軍】據以色列媒體5日報道，以軍準備從黎巴嫩南部地區部分撤軍，並在以黎邊境設立一個狹窄的“安全區”。（新華社）"
-    },
-    {
-      "id": "mkt:01a072b5-8458-7118-84b3-c6c864a2a65a",
-      "time": "2026-09-06 01:54:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli media: military preparing partial withdrawal from southern Lebanon】Israeli media on the 5th reported the Israeli military is preparing a partial withdrawal from southern Lebanon and plans to establish a narrow \"security zone\" along the Israel–Lebanon border."
-    },
-    {
-      "id": "mkt:01a072af-fb44-7118-84b3-bb4b16c348b2",
-      "time": "2026-09-06 01:48:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Putin said he has ordered a pause in strikes on Kyiv for the next three days, saying Ukraine has sharply reduced attacks on Russian territory and that Moscow has not struck Kyiv since midnight."
-    },
-    {
-      "id": "5078908",
-      "time": "2026-09-06 01:43:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：烏克蘭方面的襲擊次數已大幅下降。"
-    },
-    {
-      "id": "5078907",
-      "time": "2026-09-06 01:43:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：已下令三日之內不對基輔實施打擊。"
-    },
-    {
-      "id": "5078906",
-      "time": "2026-09-06 01:41:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們將盡最大努力保障談判人員的安全。"
-    },
-    {
-      "id": "mkt:01a072a9-9125-7118-84b3-b7453f6f7349",
-      "time": "2026-09-06 01:41:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia will do its utmost to ensure the safety of negotiating delegates."
-    },
-    {
-      "id": "mkt:01a072a8-e962-7118-84b3-ab9badd3d1a1",
-      "time": "2026-09-06 01:41:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Witkoff thanked Putin for the ceasefire during their visit."
-    },
-    {
-      "id": "5078905",
-      "time": "2026-09-06 01:40:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫告訴普京：感謝您在我們訪問期間停火。"
-    },
-    {
-      "id": "mkt:01a072a8-90a8-7118-84b3-a0b506f530a9",
-      "time": "2026-09-06 01:40:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Witkoff told Putin that Trump sends his best wishes."
-    },
-    {
-      "id": "mkt:01a072a7-dfef-7118-84b3-9e06a602eb01",
-      "time": "2026-09-06 01:39:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said contacts of this kind are always beneficial and that cooperation with Witkoff and Kushner is convenient for Russia."
-    },
-    {
-      "id": "5078904",
-      "time": "2026-09-06 01:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫告訴普京：特朗普向你致以最誠摯的問候。"
-    },
-    {
-      "id": "5078903",
-      "time": "2026-09-06 01:38:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯普京對美國特使威特科夫與庫什納表示：與你們開展合作對我們而言是適宜的。"
-    },
-    {
-      "id": "mkt:01a072a6-2ba7-7118-84b3-95e3c8c52654",
-      "time": "2026-09-06 01:38:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin says he will discuss all aspects of the Russia-Ukraine conflict with a US envoy today."
-    },
-    {
-      "id": "5078902",
-      "time": "2026-09-06 01:38:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：此類接觸總是有益的。"
-    },
-    {
-      "id": "mkt:01a072a5-f1ea-7118-84b3-8f9e99eb96cd",
-      "time": "2026-09-06 01:37:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan FSA to scrutinize bank lending to overseas non-bank lenders and real estate firms】Japan's Financial Services Agency will review whether domestic financial institutions are adequately assessing credit risks from lending to overseas non-bank lenders and real estate companies. The initiative will be included in the FSA's draft annual strategic priorities, to be finalised in June next year. The move responds to expanding overseas non-bank lending by major Japanese banks—non-bank financial intermediaries are increasing global activity and drawing more funding from Japanese banks—and to rising residential prices in major metropolitan areas that have prompted regional lenders to boost property-related loans. The FSA will also focus on investment and lending policies, project due diligence and risk management for data centers and similar facilities."
-    },
-    {
-      "id": "5078901",
-      "time": "2026-09-06 01:37:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：今日將（與美國特使）討論俄烏衝突的所有方面。"
-    },
-    {
-      "id": "5078900",
-      "time": "2026-09-06 01:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，如果美國繼續“騷擾”伊朗船隻，打擊行動可能會擴大。"
-    },
-    {
-      "id": "mkt:01a072a2-a048-7118-84b3-824b447b549a",
-      "time": "2026-09-06 01:34:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian state media reports an Iranian military commander warned that if the U.S. continues to \"harass\" Iranian vessels, the scope of attacks may widen."
-    },
-    {
-      "id": "mkt:01a072a1-5581-7118-84b3-7deddc8fa404",
-      "time": "2026-09-06 01:32:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media reported an Iranian military commander warned that if Washington continues to enforce a maritime blockade, Iran will intensify strikes on US naval vessels in the region."
-    },
-    {
-      "id": "5078899",
-      "time": "2026-09-06 01:32:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府擬向居家照料子女的父母發放育兒補助。"
-    },
-    {
-      "id": "5078898",
-      "time": "2026-09-06 01:31:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗軍方指揮官警告稱，如果華盛頓繼續實施海上封鎖，伊朗將加大對該地區美國軍艦的打擊力度。"
-    },
-    {
-      "id": "mkt:01a0729f-de7b-7118-84b3-776966fd6444",
-      "time": "2026-09-06 01:31:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "GASSCO said the Åsgard gas field had an unplanned shutdown on Sept 5-6, cutting output by about 6.7 mln cubic metres per day."
-    },
-    {
-      "id": "mkt:01a0729e-8cb0-7118-84b3-6e3ed2582081",
-      "time": "2026-09-06 01:29:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Greek prime minister announced a €2.2 bln package of tax cuts and pay increases to be implemented in 2027."
-    },
-    {
-      "id": "5078897",
-      "time": "2026-09-06 01:29:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗里亞爾於週六跌至歷史新低，公開市場美元兌里亞爾匯率突破227萬里亞爾。"
-    },
-    {
-      "id": "5078896",
-      "time": "2026-09-06 01:28:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "希臘總理公佈2027年減稅及加薪計劃，規模達22億歐元。"
-    },
-    {
-      "id": "mkt:01a0729c-f84d-7118-84b3-62a3b15297ae",
-      "time": "2026-09-06 01:28:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan to tighten scrutiny of banks' lending to overseas non-bank lenders, Nikkei reports."
-    },
-    {
-      "id": "5078895",
-      "time": "2026-09-06 01:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本計劃強化對銀行貸款的審查力度。"
-    },
-    {
-      "id": "mkt:01a0729b-934e-7118-84b3-5f9bd1e7b8d0",
-      "time": "2026-09-06 01:26:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's public broadcaster Kan, citing security sources, said the IDF's redeployment plan, named \"Grey Line\", will set up operational bases; the IDF's withdrawal plan has not yet received political approval."
-    },
-    {
-      "id": "5078894",
-      "time": "2026-09-06 01:25:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本監管機構將加大對房地產放貸業務的審查力度。"
-    },
-    {
-      "id": "5078893",
-      "time": "2026-09-06 01:25:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本擬審查銀行面向海外非銀行放貸機構的貸款業務。"
-    },
-    {
-      "id": "mkt:01a07297-bf64-7118-84b3-562642a0fda8",
-      "time": "2026-09-06 01:22:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited security sources saying Israeli forces will withdraw behind the yellow line in southern Lebanon and redeploy 3–4 km from the Israeli border."
     }
   ]
 }
