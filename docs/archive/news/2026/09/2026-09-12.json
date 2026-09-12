@@ -1,7 +1,42 @@
 {
   "date": "2026-09-12",
-  "count": 882,
+  "count": 886,
   "items": [
+    {
+      "id": "mkt:01a095ea-701c-7118-8557-6076285f96ad",
+      "time": "2026-09-12 21:59:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【BRICS urges Middle East states to exercise utmost restraint】BRICS issued a joint statement expressing deep concern at escalating tensions in the Middle East and called on regional states, including Iran and the UAE, to exercise utmost restraint. The 45-page communiqué — which also covered institutional reform and payment systems — did not name belligerents but urged avoidance of actions that could further escalate the situation. The conflict, now in its seventh month, has disrupted regional trade and lifted global crude, fuel and gas prices. In a significant escalation, Saudi Arabia’s east‑west oil pipeline was attacked and shut on Friday, and the US struck an Iranian tanker. BRICS urged intensified diplomatic efforts to pursue long‑term understanding and lasting stability, and while it offered no specific fixes for the near‑closure of the Strait of Hormuz, it called for collective action under applicable international law to safeguard global trade, supply chains and energy flows."
+    },
+    {
+      "id": "5090852",
+      "time": "2026-09-12 21:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷豹路虎據悉計劃與Stellantis組建合資企業，在美國生產路虎Defender。"
+    },
+    {
+      "id": "5090851",
+      "time": "2026-09-12 21:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎據悉將推出美版Defender車型。"
+    },
+    {
+      "id": "mkt:01a095e7-e467-7118-8557-5f661837afdd",
+      "time": "2026-09-12 21:56:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi military sources said the Taib border area on the Iraq-Iran frontier has been closed after the discovery of a drone launch site."
+    },
     {
       "id": "5090847",
       "time": "2026-09-12 21:48:56",

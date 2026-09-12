@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-12 21:57:01",
-  "count": 13595,
+  "updated": "2026-09-12 22:00:50",
+  "count": 13597,
   "items": [
+    {
+      "id": "mkt:01a095ea-701c-7118-8557-6076285f96ad",
+      "time": "2026-09-12 21:59:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【BRICS urges Middle East states to exercise utmost restraint】BRICS issued a joint statement expressing deep concern at escalating tensions in the Middle East and called on regional states, including Iran and the UAE, to exercise utmost restraint. The 45-page communiqué — which also covered institutional reform and payment systems — did not name belligerents but urged avoidance of actions that could further escalate the situation. The conflict, now in its seventh month, has disrupted regional trade and lifted global crude, fuel and gas prices. In a significant escalation, Saudi Arabia’s east‑west oil pipeline was attacked and shut on Friday, and the US struck an Iranian tanker. BRICS urged intensified diplomatic efforts to pursue long‑term understanding and lasting stability, and while it offered no specific fixes for the near‑closure of the Strait of Hormuz, it called for collective action under applicable international law to safeguard global trade, supply chains and energy flows."
+    },
+    {
+      "id": "5090852",
+      "time": "2026-09-12 21:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷豹路虎據悉計劃與Stellantis組建合資企業，在美國生產路虎Defender。"
+    },
+    {
+      "id": "5090851",
+      "time": "2026-09-12 21:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎據悉將推出美版Defender車型。"
+    },
+    {
+      "id": "mkt:01a095e7-e467-7118-8557-5f661837afdd",
+      "time": "2026-09-12 21:56:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi military sources said the Taib border area on the Iraq-Iran frontier has been closed after the discovery of a drone launch site."
+    },
     {
       "id": "5090847",
       "time": "2026-09-12 21:48:56",
@@ -124711,23 +124746,6 @@
         "國際"
       ],
       "text": "【美軍稱摧毀伊朗革命衛隊三艘油輪】美國中央司令部今天（9月5日）發宣告稱，“在伊朗伊斯蘭革命衛隊向兩艘在地區水域巡邏的美軍艦船發射彈道導彈後，美國中央司令部部隊對三艘伊朗原油運輸船實施了打擊。” 宣告稱，“美軍一艘航空母艦和一艘導彈驅逐艦成功規避了伊朗方面多次發起的攻擊，沒有美國人員傷亡。在伊朗的攻擊失敗後，美軍打擊使哈爾克島海岸附近的革命衛隊原油運輸船‘唐尼’號、賈斯克附近的‘斯塔克1’號永久癱瘓。美軍還在阿曼灣徹底摧毀了空載的原油運輸船“凱洛”號（也被稱為“諾克森”號），在船員被指示棄船後，美軍對該船多個關鍵部位進行了打擊，使其無法運作。” （CCTV國際時訊）"
-    },
-    {
-      "id": "5078787",
-      "time": "2026-09-05 21:58:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "埃及央行：7月埃及M2廣義貨幣供應量同比增長17.5%。"
-    },
-    {
-      "id": "5078782",
-      "time": "2026-09-05 21:57:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊三艘伊朗油輪】美國中央司令部今天（9月5日）發宣告稱，“在伊朗伊斯蘭革命衛隊向兩艘在地區水域巡邏的美軍艦船發射彈道導彈後，美國中央司令部部隊對三艘伊朗原油運輸船實施了打擊。”（CCTV國際時訊）"
     }
   ]
 }
