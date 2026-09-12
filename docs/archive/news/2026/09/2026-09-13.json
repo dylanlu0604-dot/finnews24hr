@@ -1,7 +1,229 @@
 {
   "date": "2026-09-13",
-  "count": 66,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:01a0975c-0c59-7118-8558-9397c75a30b0",
+      "time": "2026-09-13 04:43:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia and Yemen's internationally recognized government said they will deploy warplanes to strike Houthi targets around Mokha and the Bab al-Mandeb Strait. They said the operation will rely on airstrikes targeting Houthi personnel and any military concentrations."
+    },
+    {
+      "id": "5091093",
+      "time": "2026-09-13 04:42:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱葉門胡塞武裝襲擊造成2人受傷】沙烏地阿拉伯民防總局12日晚發表宣告說，沙特賈贊省圖沃勒縣當天遭到葉門胡塞武裝的襲擊，造成2人受傷、多棟建築和一些車輛受損。（新華社）"
+    },
+    {
+      "id": "5091088",
+      "time": "2026-09-13 04:35:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長拉加德：當前價格衝擊持續時間將更久】歐洲央行行長拉加德表示，歐元區通脹仍將在一段時間內維持高位。自伊朗戰爭推高油氣價格以來，歐洲央行本週第二次加息。歐洲央行週四釋出的最新預測顯示，2027年和2028年通脹水平將高於此前預期，其中2028年通脹將小幅高於目標值。"
+    },
+    {
+      "id": "5091086",
+      "time": "2026-09-13 04:29:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Altman表示OpenAI今年不會IPO 需要推進安全相關工作】OpenAI不會在2026年上市，Sam Altman在接受採訪時表示，原因是需要開展與安全相關的工作。在週六刊發的採訪中，Altman表示，由於圍繞人工智慧的安全擔憂，今年進行首次公開募股“時機不合適”，因此IPO要到2027年才會進行。該公司於6月份以保密方式提交了IPO檔案，不過已經表示上市時間仍未確。"
+    },
+    {
+      "id": "mkt:01a0974e-daee-7118-8558-8a2a4ca60c99",
+      "time": "2026-09-13 04:28:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Axios: US losing status as default destination for arms purchases, capital parking and international students】Axios reports the United States is increasingly no longer the default choice for governments to buy weapons, for other countries to park funds, or as a destination for international students. The piece warns even modest shifts away from the US could erode Washington’s decades-long economic and geopolitical advantages."
+    },
+    {
+      "id": "mkt:01a09741-341c-7118-8558-871b517e32d5",
+      "time": "2026-09-13 04:13:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Christine Lagarde said she will leave the European Central Bank in 2027 and does not plan to return to French politics, saying she is not suited to be a candidate for the French presidency."
+    },
+    {
+      "id": "mkt:01a09740-c970-7118-8558-7b2f25df947d",
+      "time": "2026-09-13 04:13:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President LAGARDE said the AI sector could experience a pullback, but the timing is unclear. Valuations in the AI space are very high."
+    },
+    {
+      "id": "mkt:01a09740-3d37-7118-8558-77fbd9d8c566",
+      "time": "2026-09-13 04:12:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB President LAGARDE said the European economy is resilient. She warned the current inf shock will last longer and that market volatility and energy price pressures are likely to persist."
+    },
+    {
+      "id": "5091066",
+      "time": "2026-09-13 04:11:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：預計波動和能源價格壓力將持續。"
+    },
+    {
+      "id": "5091065",
+      "time": "2026-09-13 04:11:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：認為自己並不適合作為法國總統候選人。"
+    },
+    {
+      "id": "5091064",
+      "time": "2026-09-13 04:10:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：我不考慮重返法國政壇。"
+    },
+    {
+      "id": "5091063",
+      "time": "2026-09-13 04:10:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：將於2027年卸任歐洲央行行長一職。"
+    },
+    {
+      "id": "5091061",
+      "time": "2026-09-13 04:07:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：人工智慧領域的資產估值非常高。"
+    },
+    {
+      "id": "5091060",
+      "time": "2026-09-13 04:07:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：人工智慧板塊回撥何時發生尚不明朗。"
+    },
+    {
+      "id": "5091059",
+      "time": "2026-09-13 04:07:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：取消法國債務在金融層面極具風險。"
+    },
+    {
+      "id": "5091058",
+      "time": "2026-09-13 04:07:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：人工智慧板塊出現回撥完全有可能。"
+    },
+    {
+      "id": "5091057",
+      "time": "2026-09-13 04:04:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：預計市場波動與能源價格壓力仍將持續。"
+    },
+    {
+      "id": "5091056",
+      "time": "2026-09-13 04:04:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：當前通脹衝擊持續時間將更久。"
+    },
+    {
+      "id": "5091055",
+      "time": "2026-09-13 04:04:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：（歐洲）經濟具備韌性。"
+    },
+    {
+      "id": "5091052",
+      "time": "2026-09-13 04:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相兼外交大臣謝赫·穆罕默德·本·阿卜杜勒拉赫曼·本·賈西姆·阿勒薩尼與約旦副首相兼外交大臣艾曼·薩法迪就緩和地區緊張局勢的相關舉措展開磋商。"
+    },
+    {
+      "id": "mkt:01a0972d-255a-7118-8558-6839472706f6",
+      "time": "2026-09-13 03:51:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysis: Houthi blockade of Bab el‑Mandeb 'extremely unlikely'】Control Risks maritime security analyst Aaran Kennedy said expansion of Houthi-controlled areas does not necessarily signal more attacks on merchant shipping and that a full blockade of the Bab el‑Mandeb Strait is \"extremely unlikely.\" He said recent gains consolidate their position in the Red Sea and make attacks easier, but do not imply an imminent broadening of maritime strikes; the advance does, however, place weapons closer to key shipping lanes and increases Houthi operational capability."
+    },
+    {
+      "id": "5091047",
+      "time": "2026-09-13 03:51:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱普京不會在G20峰會見澤連斯基】當地時間9月12日，據俄羅斯媒體報道，俄羅斯總統新聞秘書佩斯科夫在回答外國媒體提問時表示，俄羅斯總統普京與烏克蘭總統澤連斯基“不可能在二十國集團（G20）邁阿密峰會上會面”，普京是否出席峰會目前也“尚未確定”。他重申，兩人的會晤“只能在莫斯科舉行”，“澤連斯基若是真想見普京，可以來莫斯科，這一邀請依然有效”。 澤連斯基當天早些時候表示，如果普京出席今年12月舉行的二十國集團峰會，他將前往美國邁阿密與其會面。（CCTV國際時訊）"
+    },
+    {
+      "id": "5091042",
+      "time": "2026-09-13 03:43:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "強生正洽談將迪普伊辛特斯骨科業務出售給阿波羅公司。"
+    },
     {
       "id": "mkt:01a0971c-d806-7118-8558-64f6fe521b2b",
       "time": "2026-09-13 03:34:04",
