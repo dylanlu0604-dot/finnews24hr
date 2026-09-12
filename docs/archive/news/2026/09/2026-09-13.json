@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 89,
+  "count": 90,
   "items": [
+    {
+      "id": "mkt:01a09762-f205-7118-8558-984cd9225022",
+      "time": "2026-09-13 04:50:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi says Houthi attack wounded 2】Saudi civil defence said on the evening of the 12th that Tuwal district in Jazan province was hit by an attack by Yemen’s Houthi militia, wounding two people and damaging multiple buildings and some vehicles. The agency said the strike on civilian targets violated international humanitarian law and was handled per established procedures. The Houthi militia said Saudi warplanes carried out 129 airstrikes across seven Yemeni provinces in the past 48 hours and warned the raids \"will not go unanswered and unpunished.\""
+    },
     {
       "id": "mkt:01a0975c-0c59-7118-8558-9397c75a30b0",
       "time": "2026-09-13 04:43:07",
