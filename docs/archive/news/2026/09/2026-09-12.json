@@ -1,7 +1,27 @@
 {
   "date": "2026-09-12",
-  "count": 554,
+  "count": 556,
   "items": [
+    {
+      "id": "5090605",
+      "time": "2026-09-12 13:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗梅赫蘭省長：梅赫蘭邊境已開放，旅客與商貿往來正常進行。"
+    },
+    {
+      "id": "mkt:01a09432-03b8-7118-8554-19df1803e311",
+      "time": "2026-09-12 13:58:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran confirms closure of Shalamcheh and Chazabeh border crossings】IRNA reports Khuzestan deputy security and law‑enforcement chief Valiollah Hayati said, citing Iraqi authorities, the Shalamcheh and Chazabeh crossings were closed from Saturday midnight until further notice; movement of people and goods are prohibited. He urged merchants, drivers and travelers to avoid the crossings. Both are among Khuzestan’s main official Iran–Iraq trade routes."
+    },
     {
       "id": "mkt:01a09427-e053-7118-8554-1062f2e4d8f4",
       "time": "2026-09-12 13:47:16",

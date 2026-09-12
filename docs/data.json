@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-12 13:57:06",
-  "count": 13471,
+  "updated": "2026-09-12 14:00:55",
+  "count": 13470,
   "items": [
+    {
+      "id": "5090605",
+      "time": "2026-09-12 13:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗梅赫蘭省長：梅赫蘭邊境已開放，旅客與商貿往來正常進行。"
+    },
+    {
+      "id": "mkt:01a09432-03b8-7118-8554-19df1803e311",
+      "time": "2026-09-12 13:58:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran confirms closure of Shalamcheh and Chazabeh border crossings】IRNA reports Khuzestan deputy security and law‑enforcement chief Valiollah Hayati said, citing Iraqi authorities, the Shalamcheh and Chazabeh crossings were closed from Saturday midnight until further notice; movement of people and goods are prohibited. He urged merchants, drivers and travelers to avoid the crossings. Both are among Khuzestan’s main official Iran–Iraq trade routes."
+    },
     {
       "id": "mkt:01a09427-e053-7118-8554-1062f2e4d8f4",
       "time": "2026-09-12 13:47:16",
@@ -123657,30 +123677,6 @@
         "國際"
       ],
       "text": "【哥倫比亞一軍營遇襲致2死5傷】哥倫比亞總統德拉埃斯普列亞4日晚證實，哥倫比亞北部北桑坦德省奧卡尼亞市一處軍營當天遭到反政府武裝襲擊，已造成2名軍人死亡、5名軍人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:01a07027-b30d-7118-84b0-b4f57745c832",
-      "time": "2026-09-05 14:00:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian deputy foreign minister urges US to factor battlefield realities into Ukraine mediation】Russian Deputy Foreign Minister Ryabkov said on Sept. 5 that Washington should take battlefield realities into account in any mediation over Ukraine, and that the situation is moving in a direction unfavorable to Kyiv. He said the key question is whether the US is prepared to invest effort in finding a genuine solution that accounts for battlefield realities and the conflict's changing dynamics. Ryabkov said the Aug. 2025 Russia–US leaders' meeting in Anchorage and subsequent events show doubts persist over whether Washington can keep its stance within a rational framework and resist pressure from circumstances and parties opposed to mediation; those issues remain unresolved."
-    },
-    {
-      "id": "5078584",
-      "time": "2026-09-05 13:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄副外長呼籲美國在俄烏調解中考慮戰場現實】當地時間9月5日，俄羅斯副外長里亞布科夫在評論美國總統特使威特科夫和特朗普女婿庫什納可能訪俄一事時表示，美國政府在烏克蘭調解問題上應考慮到戰場上的實際情況，而當地局勢正朝著不利於基輔的方向發展。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a07025-9145-7118-84b0-a991833cd3ce",
-      "time": "2026-09-05 13:58:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hurricane Lowell strengthens to Category 5; Hawaii declares state of emergency】The National Hurricane Center said on the 4th Hurricane Lowell rapidly intensified to a Category 5 storm, with maximum sustained winds near 160 mph (257 km/h). As of the afternoon of the 4th local time the storm's center was about 990 km (615 miles) south of Lihue, Hawaii. It is expected to bring damaging winds, heavy rain and storm surge. Hawaii has declared a state of emergency."
     }
   ]
 }
