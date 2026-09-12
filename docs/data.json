@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-13 03:01:32",
-  "count": 13573,
+  "updated": "2026-09-13 03:05:30",
+  "count": 13574,
   "items": [
+    {
+      "id": "mkt:01a096ff-fd9d-7118-8558-49f1a8d55dfb",
+      "time": "2026-09-13 03:02:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi says Saudi jets carried out 129 airstrikes in Yemen in 48 hours】Houthi spokesman Yahya Sarea said on social media on the evening of Sept. 12 that Saudi warplanes carried out 129 airstrikes across Taiz, Marib, Hodeidah, al-Jawf, Saada, Amran and Hajjah provinces over the past 48 hours. He named F-15 and Typhoon fighters as the aircraft, saying they operated from Khamis Mushait and Taif military bases, and said the Houthis would \"respond and punish\" the strikes. The group also said it has stepped up offensives against Yemeni government forces and the Saudi-led coalition, seizing strategic sites along the Red Sea coast and the Bab al-Mandeb."
+    },
+    {
+      "id": "5091027",
+      "time": "2026-09-13 03:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱沙特48小時129次空襲葉門】葉門胡塞武裝發言人葉海亞·薩雷亞當地時間9月12日晚在社交媒體平臺釋出宣告稱，過去48小時內，沙特方面戰機對葉門塔伊茲省、馬裡卜省、荷臺達省、焦夫省、薩達省、阿姆蘭省和哈傑省發動129次空襲。宣告稱，實施空襲的戰機包括F-15戰鬥機和“颱風”戰鬥機。戰機從沙特的海米斯穆謝特和塔伊夫的軍事基地起飛。葉海亞·薩雷亞表示，胡塞武裝將對這些針對葉門民眾的襲擊進行“回應和懲罰”。葉門局勢近來急劇升級。胡塞武裝與沙特互襲。在葉門境內，胡塞武裝還加大攻勢，與葉門政府軍、沙特主導的聯軍持續衝突，並接連奪取紅海沿岸、曼德海峽戰略要地。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a096fd-3212-7118-8558-404e7b909eb2",
       "time": "2026-09-13 02:59:30",
@@ -124499,14 +124519,6 @@
         "國際"
       ],
       "text": "特朗普旗下“讓美國再次偉大”超級政治行動委員會（MAGA Inc.）向得克薩斯州投入1000萬美元，這是該機構本年度首次大選階段開支。"
-    },
-    {
-      "id": "mkt:01a072f4-ebb4-7118-84b4-2f9be73e9a8e",
-      "time": "2026-09-06 03:04:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Greece unveils €2.2bln 2027 support package】Greek Prime Minister Mitsotakis announced a €2.2bln (about $2.56bln) economic support package for 2027 to ease cost-of-living pressures. Measures focus on the self-employed, pensioners, farmers and large families and include raising the minimum wage from €920 to €1,000 effective January 2028. Authorities say the 2026 budget is expected to again exceed targets, providing headroom for subsidies and tax cuts; the government says the measures will not jeopardize public finances and will comply with EU budget rules."
     }
   ]
 }
