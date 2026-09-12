@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-12 13:10:56",
-  "count": 13469,
+  "updated": "2026-09-12 13:14:49",
+  "count": 13472,
   "items": [
+    {
+      "id": "5090594",
+      "time": "2026-09-12 13:13:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破96美元，日內跌超3.2%。"
+    },
+    {
+      "id": "5090593",
+      "time": "2026-09-12 13:13:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太乙聖蓮擬出資30億元復活哪吒汽車：X車型將復產，目標年銷量1萬臺】9月11日上午，哪吒汽車母公司合眾新能源破產重整案第四次債權人會議以網路形式召開，會議對《重整計劃（草案）》進行表決。 據報道，一位債權人提供的《重整計劃（草案）》內容顯示，“太乙聖蓮”作為重整投資人，計劃提供30億元人民幣，用於合眾新能源的重整投資，並取得後者約70.62%的股權。 其中，30億元的現金中的11.67億元將被用於清償擬保留資產對應的相關債權和破產費用；剩餘18.33億元用於補充合眾新能源的流動資金，支援其重整後的經營與發展。 （九派新聞）"
+    },
+    {
+      "id": "mkt:01a09407-b348-7118-8553-be9ac7c98bdd",
+      "time": "2026-09-12 13:12:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【China International Capital Co: Sticky inflation supports Fed hike; watch for hawkish signals】China International Capital Co says US Aug CPI SA MoM +0.4% (Jul +0.1%), YoY +3.4% (Jul +3.4%). Core CPI MoM +0.3% (Jul +0.2%), YoY +2.4% (Jul +2.5%), slightly above consensus. MoM rebound driven by higher energy, telecom price rises and persistent AI-related inflationary pressure. CICC judges the print has hit the Fed’s hike threshold and expects a 25bps increase at the Sept. 16 meeting. The Fed may lower its unemployment projection and raise inflation forecasts; the dot plot could lift 2027–28 rate paths, signaling tighter policy for longer. A more hawkish risk: an additional hike later this year or next, which could prompt markets to reprice a longer tightening cycle."
+    },
+    {
+      "id": "5090592",
+      "time": "2026-09-12 13:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【分析人士：中東衝突、熱浪和乾旱對法國經濟造成拖累】分析人士認為，中東衝突持續帶來的不確定性，以及今年夏天的熱浪和乾旱對農業生產造成的衝擊，都對法國經濟造成拖累。經濟增長放緩進一步加大了法國財政整頓難度。法國財長萊斯屈爾表示，法國政府此前提出的2026年將財政赤字率控制在國內生產總值5%的目標已無法實現，今年財政赤字率將超過5%。此前，法國國家統計和經濟研究所在10日已將法國今年的經濟增長預期從0.7%下調至0.4%。該機構指出，高溫熱浪導致公共工程減少，加上就業市場走弱、財政狀況嚴峻，法國經濟正落後於其他歐洲國家。（央視財經）"
+    },
     {
       "id": "5090591",
       "time": "2026-09-12 13:09:50",
@@ -123631,14 +123671,6 @@
         "MKT News"
       ],
       "text": "【Jiangxi provincial emergency command activates Level II emergency response for sudden geological disaster in Suichuan County】Citing current geological risk and per the Jiangxi provincial geological disaster emergency plan, the Jiangxi provincial emergency command activated a Level II emergency response for Suichuan County effective 12:00 on Sept. 5. Local governments and departments were ordered to execute assigned emergency duties and implement the plan."
-    },
-    {
-      "id": "5078568",
-      "time": "2026-09-05 13:13:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦部長：亞太繁榮依靠合作而非脅迫】巴基斯坦氣候變化與環境協調部國務部長謝茲拉·哈拉爾在亞非媒體高階論壇上表示：“亞太地區實現共同繁榮，需要依靠合作，而不是脅迫；需要依靠開放貿易，而不是設定壁壘；需要依靠對話，而不是分歧與對立”。（中國日報）"
     }
   ]
 }
