@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 21:13:59",
-  "count": 13596,
+  "updated": "2026-09-12 21:18:05",
+  "count": 13595,
   "items": [
+    {
+      "id": "5090829",
+      "time": "2026-09-12 21:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果iPhone 18 Pro/Pro Max開啟預購】9月12日晚，蘋果官網顯示，iPhone 18 Pro/Pro Max預購現已開啟，起售價分別為9999元、10999元，將於本月18日正式發售。"
+    },
     {
       "id": "mkt:01a095b3-d758-7118-8557-4268eec30a8a",
       "time": "2026-09-12 20:59:46",
@@ -124726,24 +124734,6 @@
         "MKT News"
       ],
       "text": "【Israeli election nears as leaders compete to appear more extreme】With Israel’s election approaching, Aron-Lee Green, co-director and founder of Palestinian-Jewish group Standing Together, told Al Jazeera no one in government is prepared to push back against far-right national security minister Itamar Ben-Gvir’s extreme policies. Politicians are \"competing to see who is more extreme, who can win more right-wing voters,\" Green said, adding many opposition figures are not breaking with anti-Palestinian policies and are instead vying with the ruling right over \"who is more right-wing.\" Green accused Ben-Gvir of arguing that \"more deaths, more blood and more abuse\" will bring security to Israeli Jews and said \"he is lying; this will only bring more violence.\""
-    },
-    {
-      "id": "mkt:01a071b5-b7ff-7118-84b2-88808e83afae",
-      "time": "2026-09-05 21:15:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Axios: GOP economic confidence plunges】Axios reports GOP voter confidence in the U.S. economy has plunged over the past six months at a pace not seen since the pandemic and at magnitudes comparable to the global financial crisis nearly 20 years ago. Normally the governing party is more optimistic, but Republican views have turned increasingly negative despite a Republican White House, with the election two months away — another warning sign for Trump. The University of Michigan consumer-survey director says party confidence trends usually move in parallel but are diverging now. Republicans had high expectations for government economic measures, including tariffs, but have not seen inflation ease or the price declines Trump promised."
-    },
-    {
-      "id": "5078744",
-      "time": "2026-09-05 21:14:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會向福建調撥救災物資】9月5日，針對颱風及強降雨對福建造成的嚴重影響，中國紅十字會總會啟動三級響應，結合當地救災救助需求，緊急向福建受災地區調撥賑濟家庭包6000個，毛巾被6000條，支援受災地區做好群眾轉移安置和生活保障工作。"
     }
   ]
 }
