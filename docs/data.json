@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 22:12:36",
+  "updated": "2026-09-12 22:16:25",
   "count": 13610,
   "items": [
+    {
+      "id": "5090868",
+      "time": "2026-09-12 22:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長：Anthropic將放慢人工智慧模型改進的速度。"
+    },
     {
       "id": "5090865",
       "time": "2026-09-12 22:10:45",
@@ -124845,16 +124853,6 @@
         "國際"
       ],
       "text": "據訊息人士透露，美國國防部發言人肖恩·帕內爾是國防部長皮特·赫格塞思屬意的下一任陸軍部長人選，他是該職位的至少四位候選人之一。"
-    },
-    {
-      "id": "mkt:01a071ec-81be-7118-84b2-bc21fba476f9",
-      "time": "2026-09-05 22:15:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU sends Frontex patrol vessel to English Channel to support French migrant SAR】The European Border and Coast Guard Agency (Frontex) said it has for the first time deployed a patrol vessel to the English Channel to support French search-and-rescue operations for overloaded migrant boats. The vessel, provided by the Spanish Civil Guard, began operating this week near the French coast and will work with Frontex reconnaissance aircraft that have been deployed over the Channel since 2021. Frontex said the ship’s mandate is limited to supporting French SAR — not intercepting migrants — and will detect, identify and track small boats and relay real-time information to French authorities. Additional vessels from other EU member states are scheduled to join the operation in coming months."
     }
   ]
 }
