@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-13 05:55:01",
-  "count": 13556,
+  "updated": "2026-09-13 06:03:37",
+  "count": 13555,
   "items": [
+    {
+      "id": "mkt:01a097a3-0eec-7118-8558-e15b34cfcf3e",
+      "time": "2026-09-13 06:00:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq FM Fuad Hussein speaks with Iran foreign minister on border closures, Saudi attack and Oman meeting】Iraq deputy prime minister and foreign minister Fuad Hussein held a phone call with Iran’s foreign minister on Sept. 12. They discussed Iraq’s recent temporary closure of several border crossings with Iran, the reasons and follow-up arrangements; exchanged views on the attack on Saudi Arabia and progress of related investigations; and reviewed a planned regional meeting in Oman — to include GCC members, Iraq and Iran — focused on Strait of Hormuz security. Iraq said it supports the meeting and will send a delegation. The ministers also exchanged views on Yemen and called for easing regional tensions through dialogue and negotiations."
+    },
+    {
+      "id": "5091100",
+      "time": "2026-09-13 05:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萬那杜附近海域一艘渡輪沉沒 38人失蹤】一艘載有45人的島際渡輪於11日在萬那杜北部海域遭遇惡劣天氣沉沒，目前已有7人獲救，另有38人失蹤。據悉，失事渡輪名為“馬圖伊”號，載有34名乘客和11名船員，事發時正在阿姆巴島和聖埃斯皮裡圖島之間航行。目前搜救行動仍在繼續。 (央視新聞)"
+    },
     {
       "id": "mkt:01a0979d-21db-7118-8558-dc51638c0309",
       "time": "2026-09-13 05:54:12",
@@ -124360,31 +124380,6 @@
         "Important"
       ],
       "text": "Russian presidential aide USHAKOV said President Putin is prepared to cooperate with the US and pursue diplomatic means to resolve the Russia-Ukraine issue."
-    },
-    {
-      "id": "5078960",
-      "time": "2026-09-06 06:02:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "克里姆林宮助手烏沙科夫：普京已準備同美方開展合作，尋求外交途徑解決俄烏問題。"
-    },
-    {
-      "id": "5078959",
-      "time": "2026-09-06 06:00:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗否認伊斯法罕核設施遭到襲擊】據伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊公共關係部門5日發表宣告，否認伊斯法罕核技術中心及核設施遭到襲擊，稱相關訊息純屬虛構。宣告說，在當前敏感局勢下散佈此類內容，是敵對勢力企圖製造緊張氣氛、擾亂輿論並引發民眾恐慌的行徑。（新華社）"
-    },
-    {
-      "id": "mkt:01a07396-01d8-7118-84b5-1c63701d6415",
-      "time": "2026-09-06 06:00:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran denies attack on Isfahan nuclear facilities】Iran’s Islamic Revolutionary Guard Corps public relations department said on the 5th it denied reports that the Isfahan Nuclear Technology Center and related nuclear facilities were attacked, calling the accounts fabricated and accusing hostile forces of trying to stoke tensions, disrupt public opinion and provoke public panic."
     }
   ]
 }

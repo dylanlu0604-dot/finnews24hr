@@ -1,7 +1,27 @@
 {
   "date": "2026-09-13",
-  "count": 104,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a097a3-0eec-7118-8558-e15b34cfcf3e",
+      "time": "2026-09-13 06:00:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq FM Fuad Hussein speaks with Iran foreign minister on border closures, Saudi attack and Oman meeting】Iraq deputy prime minister and foreign minister Fuad Hussein held a phone call with Iran’s foreign minister on Sept. 12. They discussed Iraq’s recent temporary closure of several border crossings with Iran, the reasons and follow-up arrangements; exchanged views on the attack on Saudi Arabia and progress of related investigations; and reviewed a planned regional meeting in Oman — to include GCC members, Iraq and Iran — focused on Strait of Hormuz security. Iraq said it supports the meeting and will send a delegation. The ministers also exchanged views on Yemen and called for easing regional tensions through dialogue and negotiations."
+    },
+    {
+      "id": "5091100",
+      "time": "2026-09-13 05:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萬那杜附近海域一艘渡輪沉沒 38人失蹤】一艘載有45人的島際渡輪於11日在萬那杜北部海域遭遇惡劣天氣沉沒，目前已有7人獲救，另有38人失蹤。據悉，失事渡輪名為“馬圖伊”號，載有34名乘客和11名船員，事發時正在阿姆巴島和聖埃斯皮裡圖島之間航行。目前搜救行動仍在繼續。 (央視新聞)"
+    },
     {
       "id": "mkt:01a0979d-21db-7118-8558-dc51638c0309",
       "time": "2026-09-13 05:54:12",
