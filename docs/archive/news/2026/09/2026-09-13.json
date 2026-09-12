@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 96,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:01a0977a-dd6c-7118-8558-c6fabaed6a82",
+      "time": "2026-09-13 05:16:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar, Jordan discuss measures to ease tensions and bolster security】Qatar's prime minister and Jordan's deputy prime minister and foreign minister discussed diplomatic efforts to ease tensions and bolster security and stability. Qatar said it supports measures to ensure freedom of navigation and to pave the way for a comprehensive agreement delivering lasting regional peace. The sides also discussed ways to support and deepen bilateral cooperation."
+    },
     {
       "id": "mkt:01a09777-99e9-7118-8558-bed57c564962",
       "time": "2026-09-13 05:13:12",
