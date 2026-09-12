@@ -1,7 +1,99 @@
 {
   "date": "2026-09-12",
-  "count": 721,
+  "count": 731,
   "items": [
+    {
+      "id": "5090724",
+      "time": "2026-09-12 17:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們控制著霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a09507-c3b7-7118-8555-ff8312fccb30",
+      "time": "2026-09-12 17:51:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said Iran may be responsible for the attack on a Saudi pipeline, that Houthi forces do not want to fight the US, and that the US controls the Strait of Hormuz."
+    },
+    {
+      "id": "5090723",
+      "time": "2026-09-12 17:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：胡塞武裝打來電話，請求美國不要針對他們採取行動。"
+    },
+    {
+      "id": "5090722",
+      "time": "2026-09-12 17:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與愛爾蘭關係很好。這種關係對愛爾蘭非常有利可圖，對我們則不然。"
+    },
+    {
+      "id": "5090721",
+      "time": "2026-09-12 17:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就沙特石油管道遇襲事件表態：胡塞武裝不想與我們交戰。"
+    },
+    {
+      "id": "5090720",
+      "time": "2026-09-12 17:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談沙特輸油管道遇襲：伊朗很可能是襲擊的幕後黑手。"
+    },
+    {
+      "id": "5090719",
+      "time": "2026-09-12 17:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“北大—星網元智—工業軟體研發智慧體聯合實驗室”成立】據星網銳捷訊息，9月11日，“北大—星網元智—工業軟體研發智慧體聯合實驗室”成立儀式舉行。此次聯合實驗室的成立，是星網銳捷旗下星網元智在工業智慧領域的一次標誌性產學研協同創新實踐。下一階段，實驗室將聚焦製造業柔性化、數智化轉型過程中的技術難題，培養兼具軟體工程能力、工業場景認知與AI應用能力的複合型人才，助力傳統製造業向智慧化、柔性化方向升級。"
+    },
+    {
+      "id": "mkt:01a09505-c96f-7118-8555-f1c3c4e58bed",
+      "time": "2026-09-12 17:49:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he did not know of any protests."
+    },
+    {
+      "id": "mkt:01a09505-a2af-7118-8555-eed3afd79208",
+      "time": "2026-09-12 17:49:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "President Trump said the war with Iran is likely to end after the midterm elections."
+    },
+    {
+      "id": "5090718",
+      "time": "2026-09-12 17:49:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：目前加沙正在建立許多良好的關係。"
+    },
     {
       "id": "mkt:01a09504-fb6c-7118-8555-e6212e79b343",
       "time": "2026-09-12 17:48:46",
