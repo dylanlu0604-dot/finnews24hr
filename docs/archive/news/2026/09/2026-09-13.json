@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-13",
+  "count": 3,
+  "items": [
+    {
+      "id": "5090974",
+      "time": "2026-09-13 00:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩：以軍密集炮擊黎巴嫩南部阿里·塔赫爾高地。"
+    },
+    {
+      "id": "mkt:01a0965f-52c4-7118-8557-c8bca0a6e690",
+      "time": "2026-09-13 00:07:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq Prime Minister's Office says the development contract for the Ajil oil field aims to raise output from 30,000 b/d to 40,000 b/d."
+    },
+    {
+      "id": "mkt:01a0965f-3ba6-7118-8557-c5270d394444",
+      "time": "2026-09-13 00:06:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's prime minister's office said the government has signed a 25-year contract with private energy firm KEPPT to develop the Ajil oilfield and raise gas output from 135 mln cubic feet per day to 300 mln cubic feet per day."
+    }
+  ]
+}
