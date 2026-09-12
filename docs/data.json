@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 17:30:25",
+  "updated": "2026-09-12 17:34:13",
   "count": 13520,
   "items": [
+    {
+      "id": "mkt:01a094f5-f3ae-7118-8555-b67c1802efaa",
+      "time": "2026-09-12 17:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indian official: BRICS agree on joint communique】An Indian government official said BRICS delegates at the two-day summit in New Delhi have agreed a joint communique despite significant geopolitical divisions. Talks ran into the early hours of Saturday and were complicated by the need to secure consensus among participants including Iran, Saudi Arabia and the UAE; the official provided no details and the communique was expected later Saturday evening."
+    },
     {
       "id": "5090705",
       "time": "2026-09-12 17:29:11",
@@ -124067,14 +124075,6 @@
         "MKT News"
       ],
       "text": "Saudi satellite TV cites sources saying Yemeni armed forces have regained control of all areas of the Hays district in Hodeidah province."
-    },
-    {
-      "id": "5078652",
-      "time": "2026-09-05 17:30:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯總統特使德米特里耶夫將在美國特使威特科夫和庫什納抵達莫斯科後與其會面。"
     }
   ]
 }
