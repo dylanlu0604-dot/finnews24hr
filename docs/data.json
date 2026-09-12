@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 08:40:07",
-  "count": 13511,
+  "updated": "2026-09-12 08:43:51",
+  "count": 13510,
   "items": [
+    {
+      "id": "5090499",
+      "time": "2026-09-12 08:39:49",
+      "tags": [
+        "行業"
+      ],
+      "text": "【上海航交所：中國進口VLCC運輸市場運價屢創新高】據上海航交所，本週，全球原油運輸市場VLCC型油輪運價高位上漲。中國進口VLCC運輸市場運價屢創新高。9月10日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報9994.22點，較9月3日上漲18.8%。"
+    },
     {
       "id": "5090498",
       "time": "2026-09-12 08:38:55",
@@ -124011,22 +124019,6 @@
         "Greater China"
       ],
       "text": "【China national reimbursement price talks open; multiple TCM drugs enter negotiation】Morning session of China’s 2026 on-site national reimbursement price negotiations and commercial-insurer innovative-drug catalogue talks opened. Company delegations queued outside and began entering; early entrants included Kangyuan Pharmaceutical, Kangpu Pharmaceutical, China Resources Sanjiu, Qidu Pharmaceutical, Zai Lab, North China Pharmaceutical, Yunding Xinyao, Qilu Pharmaceutical, Kangzhe Pharmaceutical and Joincare. Several heavyweight traditional Chinese medicine items cleared preliminary review and are now up for negotiation, notably Guangyuyuan’s Banxia Xiexin Tang granules, Tasly’s Zaoren Ningxin Diwan and Kangyuan’s Canpu granules."
-    },
-    {
-      "id": "mkt:01a06f05-5472-7118-84ae-e44169da8e21",
-      "time": "2026-09-05 08:43:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US judge allows Pentagon to fire three Stars and Stripes journalists】A U.S. federal judge, Trevor McFadden, on Sept. 4 denied a temporary restraining order sought by Stars and Stripes publisher Max Lederer, editor Eric Slavin and Middle East reporter Lara Colter, clearing the Pentagon to proceed with their dismissals. McFadden found the trio had not shown a likely violation of their First Amendment rights; he said Slavin and Colter’s comments were made in the course of official duties rather than as private citizens, and Lederer’s refusal to follow supervisors’ orders is not protected speech. The plaintiffs had sued the Pentagon alleging retaliation for supporting the paper’s editorial independence and related reporting."
-    },
-    {
-      "id": "5078448",
-      "time": "2026-09-05 08:41:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼喀拉喀託之子火山再噴發】今天（9月5日）凌晨，印尼喀拉喀託之子火山發生噴發，將火山灰噴至海拔15000米高空。火山灰監測機構隨後追蹤到火山灰以約74公里的時速向西移動。印尼地質研究機構提醒公眾不要在火山口3公里半徑範圍內進行任何活動。 （CCTV國際時訊）"
     }
   ]
 }
