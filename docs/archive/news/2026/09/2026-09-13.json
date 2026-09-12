@@ -1,7 +1,23 @@
 {
   "date": "2026-09-13",
-  "count": 55,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:01a096fd-3212-7118-8558-404e7b909eb2",
+      "time": "2026-09-13 02:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said a shell landed in Jizan province, injuring two. A shell fired by Yemeni Houthi forces also caused material damage to a mosque, several buildings and multiple vehicles."
+    },
+    {
+      "id": "5091020",
+      "time": "2026-09-13 02:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱，葉門胡塞武裝發射的炮彈擊中沙特吉贊致兩人受傷，還對多棟建築及車輛造成損失。"
+    },
     {
       "id": "5091016",
       "time": "2026-09-13 02:52:27",
