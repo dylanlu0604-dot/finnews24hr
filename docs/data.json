@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-12 13:45:38",
+  "updated": "2026-09-12 13:49:27",
   "count": 13475,
   "items": [
+    {
+      "id": "mkt:01a09427-e053-7118-8554-1062f2e4d8f4",
+      "time": "2026-09-12 13:47:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Ukrainian Air Force said it shot down 8 missiles and more than 100 Russian drones overnight."
+    },
+    {
+      "id": "5090604",
+      "time": "2026-09-12 13:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【11塊巨型“積木”精準拼裝，獅子洋通道迎新進展】9月12日，粵港澳大灣區核心樞紐工程——獅子洋通道跨西樵水道鋼桁梁橋完成11個節段拼裝，實現精準合龍。獅子洋通道是繼港珠澳大橋、深中通道之後大灣區又一超大型跨江通道工程，為雙層過江通道，全長約35公里，連線廣州市南沙區和東莞市虎門、沙田兩鎮，主體工程由跨江主橋獅子洋大橋和兩岸陸域引線工程組成。西樵水道鋼桁梁橋主跨165米，是目前國內單跨跨徑最大的雙層鋼桁梁，可滿足內河Ⅱ級航道通航標準。"
+    },
     {
       "id": "mkt:01a09424-54a3-7118-8554-0f8f3d217d7f",
       "time": "2026-09-12 13:43:23",
@@ -123699,22 +123715,6 @@
         "AI Revolution"
       ],
       "text": "【Kimi, MiniMax, Stepfun reportedly to open Tmall flagship stores】After Zhipu’s e‑commerce platform opened its first Tmall store, Kimi, MiniMax, Stepfun and other large AI model vendors are in talks with Tmall to open official flagship stores to sell token subscription packages."
-    },
-    {
-      "id": "5078581",
-      "time": "2026-09-05 13:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颶風“洛厄爾”增強至五級 美夏威夷州進入緊急狀態】美國國家颶風中心4日釋出的資訊顯示，颶風“洛厄爾”當天快速增強至最高階別的五級颶風，預計將帶來強風、強降雨和風暴潮等。夏威夷州已宣佈進入緊急狀態。（新華社）"
-    },
-    {
-      "id": "5078580",
-      "time": "2026-09-05 13:46:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Kimi、MiniMax即將在天貓開店】記者9月5日獲悉，智譜電商平臺首店落地天貓後，Kimi、MiniMax、階躍星辰等多家大模型廠商也都在與天貓接洽中，未來將入駐天貓開設官方旗艦店，開售Token訂閱套餐產品。（上海證券報）"
     }
   ]
 }
