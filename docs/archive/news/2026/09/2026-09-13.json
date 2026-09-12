@@ -1,7 +1,16 @@
 {
   "date": "2026-09-13",
-  "count": 64,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:01a09718-c0fa-7118-8558-5a9fd42e7619",
+      "time": "2026-09-13 03:29:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI founder Altman said the company will not go public this year, citing substantial remaining safety work."
+    },
     {
       "id": "5091039",
       "time": "2026-09-13 03:27:01",

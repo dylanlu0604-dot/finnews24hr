@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-13 03:28:48",
+  "updated": "2026-09-13 03:32:44",
   "count": 13573,
   "items": [
+    {
+      "id": "mkt:01a09718-c0fa-7118-8558-5a9fd42e7619",
+      "time": "2026-09-13 03:29:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI founder Altman said the company will not go public this year, citing substantial remaining safety work."
+    },
     {
       "id": "5091039",
       "time": "2026-09-13 03:27:01",
@@ -124507,14 +124516,6 @@
         "XAUUSD"
       ],
       "text": "Israeli Prime Minister Netanyahu said if Israel had not acted earlier, Iran would now possess a nuclear weapon capable of destroying Israel; he warned Tehran is trying again and is regrouping."
-    },
-    {
-      "id": "5078928",
-      "time": "2026-09-06 03:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡談及伊朗：倘若我們當初沒有對伊朗採取行動，如今伊朗就已經擁有旨在消滅我們的原子彈。現在他們會再度嘗試。他們正在捲土重來。"
     }
   ]
 }
