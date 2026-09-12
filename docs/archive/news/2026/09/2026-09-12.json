@@ -1,7 +1,18 @@
 {
   "date": "2026-09-12",
-  "count": 876,
+  "count": 877,
   "items": [
+    {
+      "id": "te:markets:583308",
+      "time": "2026-09-12 21:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.02% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.02% increase."
+    },
     {
       "id": "5090835",
       "time": "2026-09-12 21:24:08",

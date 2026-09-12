@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-12 21:29:43",
-  "count": 13598,
+  "updated": "2026-09-12 21:33:38",
+  "count": 13597,
   "items": [
+    {
+      "id": "te:markets:583308",
+      "time": "2026-09-12 21:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.02% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.02% increase."
+    },
     {
       "id": "5090835",
       "time": "2026-09-12 21:24:08",
@@ -124746,25 +124757,6 @@
         "XAUUSD"
       ],
       "text": "【TankerTrackers: Iran NITC VLCC DOWNY attacked; in ballast, port-quarter engine room struck】Tanker-tracking firm TankerTrackers says satellite imagery shows Iran National Tanker Co (NITC) VLCC DOWNY was attacked today. The vessel was in ballast and not carrying oil. Imagery and AIS show multiple tugs active around the ship, concentrated on the aft port side, with activity beginning at about 12:45 Beijing time. The damage appears to be to the port-quarter engine room. Thermal imagery shows no visible fire or smoke. TankerTrackers notes this vessel type matches targets CENTCOM has used in past retaliatory strikes; the strike was likely caused by a US Hellfire missile."
-    },
-    {
-      "id": "te:markets:581419",
-      "time": "2026-09-05 21:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Surges by 6.02% — Top crypto gainers are Binance (6.02%), XRP (1.18%), Ether (0.13%) and Bitcoin (0.10%)."
-    },
-    {
-      "id": "mkt:01a071c3-0134-7118-84b2-9c792309a024",
-      "time": "2026-09-05 21:30:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says about 2,000 national grid nodes attacked but no widespread outages】Iran reported roughly 2,000 national grid nodes were attacked, but energy ministry staff prevented widespread or prolonged blackouts and restored supply quickly despite nearby attacks and explosions. The government said wartime resilience measures implemented since the start of the year have averted severe shortages of fuel, gasoline, medicine and other essentials."
     }
   ]
 }
