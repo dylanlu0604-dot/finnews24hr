@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-13 04:56:52_
-_本檔包含 2416 則快訊，約 544766 字_
+_更新時間：2026-09-13 06:59:49_
+_本檔包含 2405 則快訊，約 544876 字_
+
+---
+
+### 2026-09-07 21:43:15  #國際
+
+【今年23人死於美移民羈押設施 聯合國官員促追責 】聯合國人權事務高階專員沃爾克·圖爾克7日說，今年以來已有23人死在美國的移民羈押設施中，必須追究責任。圖爾克7日在聯合國人權理事會發言時說，他6月向聯合國人權理事會通報後，又有4人死在美國移民羈押設施中，意味著今年以來已有23人死在這些設施中。“需要就這些人的死亡追究責任。”（新華社）
+
+---
+
+### 2026-09-07 21:42:59  #國際
+
+【外交部部長助理劉彬會見巴基斯坦前高階外交官訪華團】2026年9月7日，外交部部長助理劉彬會見巴基斯坦前高階外交官訪華團。劉彬表示，中方願同巴方不折不扣落實兩國領導人重要共識，以中巴建交75週年為契機，密切雙多邊合作，加快構建新時代更加緊密的中巴命運共同體。巴方表示，願同中方深化各領域交流合作，推動兩國友好合作走深走實。（外交部）
+
+---
+
+### 2026-09-07 21:42:36  #其他
+
+伊媒：哈格島附近油輪火情已被撲滅，未發生原油洩漏。
+
+---
+
+### 2026-09-07 21:42:28  #MKT News
+
+【Assistant Foreign Minister Liu Bin meets former Pakistani senior diplomats】On Sept 7, 2026, China’s Assistant Foreign Minister Liu Bin met a visiting delegation of former senior Pakistani diplomats. Liu said China will fully implement leaders’ consensus, use the 75th anniversary of diplomatic ties to deepen bilateral and multilateral cooperation, and accelerate building a closer China‑Pakistan community of shared future in the new era. The Pakistani delegation said it is willing to deepen exchanges and cooperation across sectors to advance practical bilateral ties.
+
+---
+
+### 2026-09-07 21:41:59  #公司
+
+【東南未來鄉村與湘湖實驗室將在智慧植物工廠領域深度合作】浙江東南網架股份有限公司訊息，9月7日下午，浙江東南網架集團旗下杭州東南未來鄉村開發有限公司與湘湖實驗室（農業浙江省實驗室）舉行合作簽約儀式。雙方將在智慧植物工廠領域開展深度合作，共同打造集植物工廠、植物博物館、未來農業機器人、聯合實驗室於一體的創新研究示範基地，推動智慧植物工廠從實驗室走向產業化。
+
+---
+
+### 2026-09-07 21:40:42  #市場 #央行 #國際
+
+【歐元走勢承壓，薪資增速放緩削弱加息預期】歐元區第二季度薪資增速放緩，降低了收緊貨幣政策的必要性，同時給歐元帶來下行風險。僱員人均薪酬同比上漲 3.3%，低於今年第一季度的 3.5%，已十分接近歐洲央行提出的 3% 增速水平。歐洲央行表示，從中期來看，該薪資增速大體可以匹配 2% 的通脹目標。該資料不太會改變市場對本週歐洲央行會議的預期，經濟學家與交易員普遍預計央行將加息 25 個基點。但資料令市場對此次加息之後是否還需要繼續加息產生質疑，資料也印證第二輪通脹效應仍處於可控範圍，而這正是政策制定者重點關注的指標。相關關聯資料顯示，歐元兌美元匯率對利差變動愈發敏感，進而對政策預期的變化反應強烈。市場目前定價到 2027 年年中合計約 75 個基點的加息空間，交易員存在充分理由下調加息押注，進而利空歐元。
+
+---
+
+### 2026-09-07 21:36:40  #MKT News
+
+【Turkey plans to raise defense spending 229% over next three years】Vice President Yilmaz on the 6th unveiled Turkey's 2027-2029 economic plan, which calls for a 229% increase in defense spending over the next three years.
+
+---
+
+### 2026-09-07 21:36:08  #其他
+
+【土耳其計劃在未來三年間將國防開支提高229%】土耳其副總統耶爾馬茲6日公佈該國2027年至2029年經濟規劃。根據該規劃，土耳其計劃在未來三年內將國防支出提高229%。耶爾馬茲表示，在國防工業領域，土耳其的建設目標是能夠自主開展技術研發、生產高附加值產品。根據該規劃，提高土耳其國防工業的國產化率、推動國防技術向民用轉移、加強國防工業人才培養和支援國防出口創匯是該國未來三年的重要目標。（新華社）
+
+---
+
+### 2026-09-07 21:35:41  #其他
+
+市場訊息：英國工黨計劃於 10 月 8 日舉行霍爾本‑聖潘克拉斯選區補選。
+
+---
+
+### 2026-09-07 21:35:03  #公司
+
+【龍湖集團：2026年8月單月合同銷售金額人民幣22億元】龍湖集團公告，2026年8月單月實現合同銷售金額人民幣22億元，合同銷售面積25萬平方米；歸屬本公司股東權益的合同銷售金額人民幣15億元，合同銷售面積17.4萬平方米。截至2026年8月31日止八個月，累計合同銷售金額人民幣208.4億元，合同銷售面積223.9萬平方米；運營及服務業務不含稅收入約人民幣181.8億元。上述資料未經稽核。
+
+---
+
+### 2026-09-07 21:33:58  #其他
+
+【vivo官宣將推出雲臺相機】在9月7日晚舉行的vivo創作者盛典活動中，vivo正式宣佈將推雲臺相機品類產品，並表示希望明年能給大家帶來驚喜。vivo同時表示，未來將推動影像與AI智慧深度融合，將落地全新升級的AI攝影助手，不只是場景化應用AI，而是實現AI在影像領域的主動服務。
+
+---
+
+### 2026-09-07 21:33:07  #公司 #市場
+
+龍湖集團：8月合約銷售額22.0億元人民幣。
+
+---
+
+### 2026-09-07 21:33:03  #Trading Economics #Economy #Seychelles #Inflation Rate #Importance 0
+
+Seychelles Inflation Rate Speeds Up for 3rd Month — Seychelles’ annual inflation rate rose to 0.93% in August 2026, its highest level since January 2025, from 0.78% in July, extending the upward trend for a third consecutive month. Non-food inflation quickened to 1% from 0.81%, driven mainly by faster price increases for alcoholic beverages and tobacco (4.53% vs 4.17%), transportation (3.46% vs 2.48%), and furnishings and household equipment (0.75% vs 0.60%). Fresh fish prices rose 2.83%, easing from 4.87% in the prior month, while other food products' inflation rose to 0.28% from 0.14%, on account of prices of oils & fats (4.65%); vegetables (3.85%) and meat (1.51%). On a monthly basis, consumer prices rose by 0.18% in August, slowing from a 0.52% increase in the month before.
+
+---
+
+### 2026-09-07 21:32:56  #公司 #市場
+
+龍湖集團：8月累計合約銷售額208.4億元人民幣。
+
+---
+
+### 2026-09-07 21:32:46  #公司
+
+【德賽西威：股東擬內部協議轉讓6%股份 增加一致行動人】德賽西威公告稱，公司持股5%以上股東惠州市創新投資有限公司擬以89.90元/股的價格，透過非公開協議轉讓方式向惠州市產業投資集團有限公司轉讓所持公司3580.86萬股股份，佔公司總股本的6%，轉讓價款合計32.19億元。雙方同屬惠州市國資委控制，已簽訂一致行動人協議，本次交易為一致行動人內部持股調整，合計持股比例不變，不涉及二級市場減持，不會導致公司控制權變化。本次權益變動尚需取得深交所合規性確認後方可辦理過戶，存在不確定性。惠州產投公司承諾受讓股份後12個月內不轉讓。
+
+---
+
+### 2026-09-07 21:32:20  #公司
+
+【德賽西威：持股5%以上股東提前終止減持計劃】德賽西威公告稱，公司持股5%以上股東惠州市創新投資有限公司此前計劃自2026年5月23日起15個交易日後的3個月內，以集中競價或大宗交易方式減持公司股份不超過1788萬股，佔公司當時總股本的3%。公司於2026年9月7日收到惠創投告知函，其決定提前終止本次減持計劃，減持期間內惠創投未減持公司股份，減持前後持股數量均為1.20億股，佔當前總股本比例均為20.16%。
+
+---
+
+### 2026-09-07 21:31:38  #其他
+
+【報廢汽車變身數十種工業原料 今年退役動力電池預計近50萬噸】今年以來，以舊換新政策有力帶動城市礦產資源回收利用。資料顯示，今年上半年汽車以舊換新370.7萬輛。記者瞭解到，經過精細拆解，一輛普通家用小客車可以回收幾十種工業原材料。資料顯示，每回收1000萬輛報廢汽車，就能再生鋼鐵1035萬噸、有色金屬75萬噸、塑膠90萬噸、橡膠75萬噸、玻璃60萬噸，相當於節約了大量礦產資源和能源消耗。 研究報告顯示，預計今年，我國新能源動力電池退役量將接近50萬噸。經過規範拆卸的退役動力電池，最終會被送到專業回收企業進行再生利用。在那裡，透過化學工藝可以從電池中提取出鎳、鈷、錳、鋰等再生材料，其中鎳鈷錳回收率達到99.6%，鋰回收率超過90%。這些再生材料可以重新制備成動力電池正極材料，用在全新的電池上——真正實現了“從哪裡來、回哪裡去”的資源閉環。（央視財經）
+
+---
+
+### 2026-09-07 21:30:24  #MKT News #Market Regions #Greater China #Brent #Impact bullish #WTI
+
+【Navigation warning: live-fire drills in South China Sea】China Maritime Safety Administration website: Zhanjiang MSA issued a navigation warning for Sept 8–11. Daily 08:00–18:00, live-fire exercises in parts of the South China Sea; entry prohibited.
+
+---
+
+### 2026-09-07 21:30:09  #其他
+
+【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，9月8日至11日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-09-07 21:30:01  #市場 #焦點 #國際
+
+【提示：因美國勞動節 美股週一休市一日】受美國勞動節假期影響，美國和加拿大股市於9月7日（週一）休市一日。芝商所旗下貴金屬、美國原油期貨合約交易提前於北京時間8日02：30結束，股指期貨合約交易提前於北京時間8日01：00結束。洲際交易所旗下布倫特原油期貨合約交易提前於北京時間8日01：30結束。
+
+---
+
+### 2026-09-07 21:29:41  #MKT News #Star Stocks #Xiaomi #1810.HK
+
+【Xiaomi 18 Fold adopts Goodix Technology component package】Supply-chain sources say Xiaomi’s newly launched 18 Fold uses a Goodix Technology component package: an independent security chip, touch-controller solution, ultra-narrow-side capacitive fingerprint sensor and an intelligent audio amplifier.
+
+---
+
+### 2026-09-07 21:29:12  #宏觀 #國際
+
+【辦公Agent北上廣深杭使用者佔27%，DeepSeek V4 Flash模型呼叫佔半壁江山】9月7日，“ 國內辦公Agent四強之一”Lobster AI 釋出國內首份《中國辦公Agent使用者行為不完全報告》。報告顯示，在模型呼叫方面，DeepSeek V4 Flash以52.2%的佔比位居榜首，若加上其視覺實驗版本，合計佔比超過75%。報告還指出，Agent正在成為國產新模型觸達真實工作負載最快的渠道——新模型上線3天內使用者滲透率接近50%。報告顯示，上海位居全國城市使用者量第二，與北京、杭州、廣州、深圳合計佔比約27%。Top 10城市之外的使用者比例高達62.79%，表明Agent應用已突破一線城市圈層，走向了更加廣泛的辦公人群。放眼全球，海外使用者佔比達12.75%。其中，美國以2.73%的份額領跑海外市場，澳大利亞、越南、馬來西亞、日本等國也形成了頗具規模的使用者群體。（澎湃）
+
+---
+
+### 2026-09-07 21:29:11  #MKT News
+
+Israel Defense Forces said it had killed a commander of Hamas's elite Nukhba unit.
+
+---
+
+### 2026-09-07 21:28:49  #公司
+
+【盛科通訊：大基金減持1.73%股份 減持計劃屆滿】盛科通訊公告稱，公司持股5%以上股東國家積體電路產業投資基金股份有限公司減持計劃時間已屆滿，本次減持計劃結束。2026年6月8日至2026年9月7日期間，產業基金透過集中競價方式累計減持公司股份707.47萬股，佔公司總股本的1.73%，減持總金額25.84億元，減持價格區間為295.80元/股-454.90元/股。本次減持後，產業基金持有公司股份4048.55萬股，佔公司總股本的9.87%。
+
+---
+
+### 2026-09-07 21:28:30  #國際
+
+市場訊息：以色列國防軍稱擊斃哈馬斯精銳努赫巴部隊一名指揮官。
+
+---
+
+### 2026-09-07 21:27:28  #MKT News
+
+NATO Secretary-General Rutte will attend an online meeting of Ukraine allies on Tuesday.
+
+---
+
+### 2026-09-07 21:27:27  #國際
+
+俄羅斯 8 月國家福利基金規模降至 1541.4 億美元。
+
+---
+
+### 2026-09-07 21:26:30  #MKT News
+
+【Baltic Dry Index falls, ends three-day advance】The Baltic Dry Index (BDI) fell 53 points, or 1.4%, to 3,575, ending a three-day rise as Cape and Panamax freight rates weakened. The Capesize index (BCI) dropped 141 points, or 2.2%, to 6,286; Capesize daily earnings fell $1,283 to $53,508. The Panamax index (BPI) slipped 17 points, or 0.7%, to 2,431; Panamax daily earnings fell $157 to $21,878. The Supramax index (BSI) ticked up 7 points, or 0.4%, to 1,682, and the Handysize index (BHSI) rose 6 points to 906.
+
+---
+
+### 2026-09-07 21:24:56  #宏觀
+
+【曹立軍主持召開市委專題會議 研究部署進一步盤活利用閒置低效資產資源工作】9月7日，四川省委常委、成都市委書記曹立軍主持召開市委專題會議，研究部署進一步盤活利用閒置低效資產資源工作。他強調，要深入貫徹落實習近平總書記重要指示精神，認真落實黨中央、國務院和省委、省政府決策部署，牢固樹立和踐行正確政績觀，積極推進閒置低效資產資源盤活利用，向存量要效益、挖潛力、拓空間，進一步增強成都高質量發展動力活力。（成都發布）
+
+---
+
+### 2026-09-07 21:24:27  #其他
+
+【澳門特別行政區經濟財政司舉辦“三五”規劃經濟財政範疇專場交流會】澳門特別行政區經濟財政司9月7日上午在中國與葡語國家商貿合作服務平臺綜合體多功能廳舉辦《澳門特別行政區經濟和社會發展第三個五年規劃（2026—2030年）》經濟財政範疇專場交流會。經濟財政司司長吳惠嫻率領經財團隊各領導代表出席，約50名社團負責人和代表參與，聚焦“三五”規劃中與經濟適度多元發展相關的議題進行深入交流。金融管理局行政管理委員會主席黃善文表示，金管局將以債券市場、基金業務為主，服務經濟適度多元；同時，將重點推進《證券法》、修改《貨幣發行法律制度》及相關法規，升級中央證券託管系統及快速支付系統等金融基建，並推動中葡金融服務平臺建設、綠色金融發展及金融人才培育；推進“數字澳門元”，並持續深化電子支付普及應用，擴大本地支付工具境外受理範圍，推動跨境支付互聯互通。
+
+---
+
+### 2026-09-07 21:24:04  #宏觀 #國際
+
+俄羅斯財政部表示，截至9月1日，俄羅斯國家財富基金規模為1541億美元（佔2026年預計GDP的5.6%），其中流動資產467億美元（佔GDP的1.7%）。
+
+---
+
+### 2026-09-07 21:22:56  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Benefiting from war-related windfalls, Mercuria and Gunvor expect profits to more than double.
+
+---
+
+### 2026-09-07 21:22:38  #國際
+
+【中老“和平列車-2026”聯合演習在永珍開幕】中老“和平列車-2026”人道主義醫學救援聯合演習7日上午在寮國首都永珍開幕。寮國國防部、寮國人民軍總政治部、總後勤部、總技術部及公安部領導，中國駐寮國大使館國防武官、中方指導協調組成員及中老兩軍參演官兵參加開幕儀式。 儀式現場，首先奏響中老兩國國歌，寮國人民軍總後勤部部長、中方指導協調組組長分別致辭並宣佈聯合演習正式開始。 寮國人民軍總後勤部部長佔迪少將致辭說，老中“和平列車”聯合演習和醫療服務系列活動，是提升兩軍聯合救援和應對自然災害能力的平臺，充分體現了兩黨兩國兩軍密切友好關係，相信透過此次聯演，將進一步推動兩軍衛勤合作走向深入。 中方指導協調組組長吳丹大校表示，自2017年以來，中老兩軍已6次舉行該系列聯演。此次“和平列車”醫療隊再度赴寮國，既是生動踐行構建新時代全天候中老命運共同體的時代要求，也是深化兩軍後勤和衛勤領域交流合作的重要實踐，必將進一步增進兩國傳統友誼。 據聯合演習中方總導演賀禎介紹，此次活動將持續到9月下旬，雙方動用兵力700餘人。本次聯演以超強颱風災害國際人道主義醫學救援為背景，設定三級指揮和四級救援體系，依託衛生列車、野戰救治裝備、無人智慧裝備等，組織混編聯訓、全流程合練、實兵演習，探索跨境聯合醫學救援執行模式，進一步鍛鍊提升兩軍衛勤協同行動和應急處置能力。 演習期間，雙方還將組織醫療服務、文化交流等活動。(新華社)
 
 ---
 
@@ -14323,269 +14521,5 @@ U.S. President Trump said events in Spain are heartbreaking and that Spain has c
 ### 2026-09-06 07:01:27  #國際
 
 特朗普將在9月9日至10日的共和黨全國代表大會上連續兩晚發表講話。
-
----
-
-### 2026-09-06 06:52:37  #國際
-
-伊朗革命衛隊：如果美國政權繼續採取侵略敵對行動，就應當做好承受伊朗武裝部隊毀滅性回擊的準備。
-
----
-
-### 2026-09-06 06:38:26  #焦點 #國際
-
-伊朗革命衛隊稱其已用彈道導彈襲擊美國航母與驅逐艦，美方尚未對此予以證實。
-
----
-
-### 2026-09-06 06:36:54  #焦點 #國際
-
-【美伊互襲油輪 伊朗軍方稱或對美進行更大規模打擊】當地時間5日，美伊軍事衝突持續，美軍稱當天打擊了3艘伊朗油輪。隨後，伊朗方面稱，“美軍出於霍爾木茲海峽被封鎖的絕望，襲擊伊方三艘油輪並造成損失”。作為回應，伊朗襲擊多艘油輪及美國船隻，同時警告波斯灣的船隻應避免在非法航道通行。分析指出，在當前雙方軍事行動持續，霍爾木茲海峽問題暫時沒有解決方案的情況下，地區局勢在短時間內仍將動盪。（央視新聞）
-
----
-
-### 2026-09-06 06:34:09  #其他
-
-【颱風藍色預警！“科羅旺”將向偏東方向移動】中央氣象臺9月6日06時繼續釋出颱風藍色預警：今年第24號颱風“科羅旺”（熱帶風暴級）的中心今天（6日）早晨5點鐘位於琉球群島那霸市東南方向大約185公里的洋麵上，就是北緯25.4度，東經129.3度，中心附近最大風力8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑200-350公里。預計，“科羅旺”將以每小時10-15公里的速度向偏東方向移動，強度變化不大。（央視新聞）
-
----
-
-### 2026-09-06 06:30:55  #公司 #國際
-
-【德國運載火箭第二次發射成功進入軌道】當地時間9月5日晚，德國航天初創企業伊薩爾航空航天公司的“光譜”運載火箭從挪威安島航天港發射升空，併成功進入軌道。這是該型火箭的第二次飛行，也是首次攜帶實際載荷執行任務。此次飛行主要用於驗證火箭在實際飛行條件下的各項關鍵系統。火箭搭載了來自歐洲多所高校和企業的5顆立方星和1項實驗載荷。“光譜”是一款兩級運載火箭，高約28米，主要用於發射小型和中型衛星，最多可將約1噸載荷送入近地軌道。2025年3月，“光譜”火箭進行了首次試飛。火箭在升空約30秒後因飛行異常收到終止指令，隨後在失去動力的情況下墜入海中，未能進入軌道。此次成功入軌意味著歐洲商業航天公司首次從歐洲大陸發射軌道運載火箭併成功進入軌道。歐洲航天局此前表示，發展歐洲商業航天運輸服務有助於增強歐洲自主進入太空的能力。（央視新聞）
-
----
-
-### 2026-09-06 06:30:40  #MKT News #WTI #Impact bullish #Brent
-
-【Former U.S. diplomat: U.S. sanctions on Iran are a slow-moving strategy】Former U.S. diplomat Joey Hood said the Trump administration’s sanctions campaign against Iran is intended to build pressure over months rather than produce immediate effects, noting Treasury measures often take months to bite. Hood said U.S. diplomats are actively warning companies and governments about dealing with Iran and that Washington needs time to implement coercive measures. He contrasted that timeline with military actions in the Gulf, which he said can be executed in minutes, and described U.S. policy as long-term financial, monetary and material sanctions on Iran, supplemented by military measures intended to weaken the Iranian economy.
-
----
-
-### 2026-09-06 06:25:49  #國際
-
-【德國商業火箭成功入軌，歐洲入局衛星發射競賽】德國初創企業伊薩爾航天（Isar Aerospace）週六在北極圈內的挪威發射場，將自家首枚火箭送入太空，歐洲距離實現本土衛星發射能力更進一步。這枚無人的“光譜號”（Spectrum）火箭，是歐洲大陸首枚完成入軌的商業發射飛行器。多個歐洲國家都希望在規模持續擴張的航天任務市場分得一杯羹。伊薩爾航天在社交平臺發文表示：“我們成功入軌！就此創造歐洲歷史。”伊薩爾航天從挪威航天港發射該火箭，計劃對外提供商業衛星發射服務。
-
----
-
-### 2026-09-06 06:18:26  #MKT News
-
-【USHAKOV: Putin met Trump's envoy Witkoff and Jared Kushner for over three hours】USHAKOV said Putin met Trump's special envoy Witkoff and son‑in‑law Jared Kushner at the Kremlin on the evening of the 5th for more than three hours; the talks were substantive and constructive. Moscow delivered a clear, comprehensive assessment of the situation, including developments during the special military operation, highlighted actual battlefield progress and said it is confident of achieving its stated objectives while stressing the need to remove all roots of the conflict. Russia reiterated willingness to pursue a political‑diplomatic solution and confirmed the two presidents will remain in direct contact.
-
----
-
-### 2026-09-06 06:06:47  #國際
-
-克里姆林宮助手烏沙科夫：普京與威特科夫、庫什納的會談持續了3小時10分鐘。
-
----
-
-### 2026-09-06 06:06:28  #國際
-
-克里姆林宮助手烏沙科夫：普京與美國特使的會談“極為坦率”，氣氛互信。
-
----
-
-### 2026-09-06 06:06:19  #MKT News #Important
-
-Russian presidential aide USHAKOV said President Putin is prepared to cooperate with the US and pursue diplomatic means to resolve the Russia-Ukraine issue.
-
----
-
-### 2026-09-06 06:02:10  #焦點 #國際
-
-克里姆林宮助手烏沙科夫：普京已準備同美方開展合作，尋求外交途徑解決俄烏問題。
-
----
-
-### 2026-09-06 06:00:07  #國際
-
-【伊朗否認伊斯法罕核設施遭到襲擊】據伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊公共關係部門5日發表宣告，否認伊斯法罕核技術中心及核設施遭到襲擊，稱相關訊息純屬虛構。宣告說，在當前敏感局勢下散佈此類內容，是敵對勢力企圖製造緊張氣氛、擾亂輿論並引發民眾恐慌的行徑。（新華社）
-
----
-
-### 2026-09-06 06:00:05  #MKT News
-
-【Iran denies attack on Isfahan nuclear facilities】Iran’s Islamic Revolutionary Guard Corps public relations department said on the 5th it denied reports that the Isfahan Nuclear Technology Center and related nuclear facilities were attacked, calling the accounts fabricated and accusing hostile forces of trying to stoke tensions, disrupt public opinion and provoke public panic.
-
----
-
-### 2026-09-06 05:50:44  #國際
-
-【俄總統助理：普京與美總統特使會見超3小時】俄羅斯總統助理烏沙科夫6日凌晨說，俄總統普京5日晚在克里姆林宮與美國總統特朗普的特使威特科夫和女婿庫什納的會見超過3個小時，內容充實且“具有建設性”。（新華社）
-
----
-
-### 2026-09-06 05:37:30  #MKT News
-
-【IRGC deputy navy political officer says 2–5 vessels 'punished' nightly in Strait of Hormuz in 10 days to Aug. 30】State news agency reported an IRGC deputy navy political officer said that during the 10 days ending Aug. 30 Iranian naval forces 'punished' 2–5 'violating' vessels each night in the Strait of Hormuz, and asserted U.S. strikes have 'not in the slightest' disrupted Iran's control of the area.
-
----
-
-### 2026-09-06 05:34:43  #國際
-
-伊朗革命衛隊海軍官員稱，上個月霍爾木茲海峽每天都有船隻遭到打擊懲戒。
-
----
-
-### 2026-09-06 05:32:35  #MKT News
-
-【Israeli broadcaster reports IDF plans partial pullback from southern Lebanon】Israeli public radio reported on the 5th that the IDF is preparing a partial withdrawal from southern Lebanon and will establish a narrower border security zone. The report says the IDF completed destruction of a Hezbollah tunnel beneath high ground near Nebetiyeh and has drafted a plan to pull back to positions closer to the Israel‑Lebanon border, reducing its controlled depth in southern Lebanon from about 10km to roughly 3–4km. The new deployment line, dubbed the "grey line", would replace the current "yellow line."
-
----
-
-### 2026-09-06 05:31:31  #MKT News
-
-TASS: U.S. presidential special envoy Witkoff and Trump's son-in-law Kushner have left Moscow.
-
----
-
-### 2026-09-06 05:31:22  #國際
-
-美國特使威特科夫、庫什納已離開莫斯科。
-
----
-
-### 2026-09-06 05:30:30  #國際
-
-【以媒：以軍計劃部分撤出黎巴嫩南部】以色列公共廣播電臺5日報道說，以軍正準備部分撤出黎巴嫩南部，並計劃在黎以邊境沿線建立範圍更小的“安全區”。報道稱，以軍近日完成對黎南部奈拜提耶地區阿里塔希爾高地之下黎真主黨地道的摧毀行動，隨後制定上述調整部署計劃。以色列安全部門官員說，根據新計劃，以軍將撤至更靠近黎以邊境的位置，其在黎南部控制的區域縱深將由目前約10公里縮減至3至4公里。新的部署線被稱為“灰線”，將取代目前“黃線”。（新華社）
-
----
-
-### 2026-09-06 05:29:50  #MKT News
-
-USHAKOV said Putin's meeting with Trump's special envoy was substantive, very frank and constructive.
-
----
-
-### 2026-09-06 05:29:41  #其他
-
-市場資訊：威瑞森針對洛厄爾颶風免除相關費用，為夏威夷做好網路保障準備。
-
----
-
-### 2026-09-06 05:29:12  #MKT News #Important
-
-USHAKOV said a series of plans have been drawn up for a peaceful settlement.
-
----
-
-### 2026-09-06 05:28:54  #MKT News
-
-Ushakov says US officials pledged to bring Putin’s assessment to talks in Kyiv as part of efforts to seek a lasting agreement to end the war.
-
----
-
-### 2026-09-06 05:28:16  #MKT News
-
-Ushakov said both sides agreed that President Putin and President Trump will remain in contact.
-
----
-
-### 2026-09-06 05:28:05  #MKT News
-
-Russian presidential aide USHAKOV said economic issues were also discussed.
-
----
-
-### 2026-09-06 05:28:00  #MKT News
-
-USHAKOV said Putin told Trump's envoy that Russia will achieve its goals and that the conflict's root causes need to be addressed.
-
----
-
-### 2026-09-06 05:27:46  #MKT News #Important
-
-Ushakov said talks were productive.
-
----
-
-### 2026-09-06 05:27:06  #國際
-
-克里姆林宮助手烏沙科夫：普京已告知特朗普特使，俄羅斯將實現其目標，衝突根源必須得到解決。
-
----
-
-### 2026-09-06 05:26:58  #國際
-
-克里姆林宮助手烏沙科夫：俄羅斯已提交其對前線局勢的評估。
-
----
-
-### 2026-09-06 05:26:55  #焦點 #國際
-
-克里姆林宮助手烏沙科夫：普京與特朗普特使的會談內容充實、十分坦誠且富有建設性。
-
----
-
-### 2026-09-06 05:26:50  #其他 #焦點
-
-克里姆林宮助手烏沙科夫：已就和平解決制定了一系列方案。
-
----
-
-### 2026-09-06 05:26:44  #其他 #焦點
-
-克里姆林宮助手烏沙科夫：談判取得了積極成效。
-
----
-
-### 2026-09-06 05:26:38  #其他
-
-克里姆林宮助手烏沙科夫：我們還討論了經濟議題。
-
----
-
-### 2026-09-06 05:26:34  #國際
-
-克里姆林宮助手烏沙科夫：雙方已達成一致，普京與特朗普將保持聯絡。
-
----
-
-### 2026-09-06 05:26:29  #國際
-
-克里姆林宮助手烏沙科夫：美方已承諾將普京的評估意見帶到他們在基輔的會談中，以尋求達成結束戰爭的長期協議。
-
----
-
-### 2026-09-06 05:22:54  #國際
-
-美國情報部門評估認為，伊朗正考慮在近期擴大襲擊行動，打擊目標包含美國與以色列相關目標。
-
----
-
-### 2026-09-06 05:18:29  #國際
-
-哈馬斯領導人譴責以色列在約旦河西岸卡巴提亞鎮侵佔土地。
-
----
-
-### 2026-09-06 05:11:50  #MKT News #XAUUSD #Impact bearish #DXY #WTI
-
-【Putin meets US presidential envoys; talks lasted about three hours】On the evening of Sept. 5, President Putin met with visiting US presidential envoys Witkoff and Kushner in talks that lasted about three hours. Putin said he had received requests via intelligence and diplomatic channels to stop airstrikes on Kyiv and has ordered strikes on Kyiv to cease; Kremlin spokesman Peskov earlier confirmed a three-day halt to strikes on Kyiv. Putin said Ukraine has sharply reduced strikes on Russian territory, including Moscow, and that Kyiv proposed a broader three-day ceasefire which Russia did not accept. Russia said it will take all measures to ensure the safety of US–Ukraine negotiations and mediators. Ukrainian President Zelenskiy said Ukraine will halt strikes on Moscow effective immediately through Sept. 7.
-
----
-
-### 2026-09-06 05:10:16  #國際
-
-【普京會見美總統特使】當地時間9月5日晚，俄羅斯總統普京與到訪的美國總統特使威特科夫和庫什納舉行會談。會談在持續了大約3個小時後結束。普京表示，俄方透過情報和外交部門收到“停止空襲烏克蘭首都基輔”的請求，他已經下達命令，俄方對基輔的空襲已停止。普京還介紹說，烏方也大幅減少對俄領土（包括莫斯科）的襲擊。 普京還提到，烏方還提議實施為期三天的更廣泛停火，俄方並未同意。但俄方將盡一切努力確保美烏談判程序和談判調解人員的安全。 俄羅斯總統新聞秘書佩斯科夫當天早些時候證實，普京已經下令三天內不對基輔空襲。烏克蘭總統澤連斯基隨後表示，決定即刻起至9月7日停止對莫斯科實施打擊。 （CCTV國際時訊）
-
----
-
-### 2026-09-06 05:10:16  #MKT News #Commodities #Energy #WTI
-
-Egypt's Foreign Ministry said Egypt's and Oman's foreign ministers discussed developments in the Strait of Hormuz and their potential impact on regional security and the global economy; both stressed safeguarding maritime navigation and ensuring uninterrupted trade and energy supplies.
-
----
-
-### 2026-09-06 05:07:45  #MKT News #WTI #Impact bullish #XAUUSD
-
-Al Jazeera reported Israeli forces struck the outskirts of Rafid town in southern Syria.
-
----
-
-### 2026-09-06 05:05:32  #國際
-
-埃及外交部：埃及外長和阿曼外交大臣呼籲維護海上航行安全，保障該水道貿易與能源物資持續流通。
 
 ---

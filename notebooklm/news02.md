@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-13 04:56:52_
-_本檔包含 2752 則快訊，約 545555 字_
+_更新時間：2026-09-13 06:59:49_
+_本檔包含 2762 則快訊，約 545541 字_
+
+---
+
+### 2026-09-11 09:47:37  #其他
+
+【九部門：研究制定汽車改裝管理辦法】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，健全准入及使用管理體系。推動機動車生產准入、道路交通安全、道路運輸、測繪、保險等法律法規制修訂。完善組合駕駛輔助和自動駕駛系統准入管理要求，健全軟硬體升級備案管理辦法，加強網聯終端進網許可管理。健全新技術、新材料、新工藝應用評估和管理制度，以及檢測目擊驗證制度。探索對關鍵系統和零部件、小批次生產的道路機動車輛實施特別的產品准入程式。研究制定汽車改裝管理辦法。進一步加強產品安全、道路交通安全管理，強化安全生產管理，提高跨部門協同管理與資源共享水平。
+
+---
+
+### 2026-09-11 09:47:31  #公司
+
+【沐曦股份等在上海新設諮詢管理公司】企查查APP顯示，近日，上海孚曦晨沐諮詢管理有限公司成立，經營範圍含企業管理諮詢、資訊科技諮詢服務、社會經濟諮詢服務等。企查查股權穿透顯示，該公司由沐曦股份全資子公司沐曦數智（上海）科技有限公司等共同持股。
+
+---
+
+### 2026-09-11 09:47:25  #市場
+
+臺灣加權股價指數下跌2%至45,998.23點。
+
+---
+
+### 2026-09-11 09:47:00  #市場 #焦點
+
+鉑連續主力合約日內跌6%，現報433.15元。
+
+---
+
+### 2026-09-11 09:46:27  #其他
+
+何小鵬：小鵬G9L首批右舵版量產車在廣州全球智造工廠正式下線。
+
+---
+
+### 2026-09-11 09:46:10  #MKT News #Commodities #Precious Metals
+
+Platinum most-active contract fell more than 6.00% intraday to 430.60 yuan/gram.
+
+---
+
+### 2026-09-11 09:45:47  #MKT News #Market Regions #Greater China #3993.HK #Impact bearish #002466.SZ
+
+China A-share salt-lake lithium extraction sector plunged; Western Mining fell more than 9.5%, China Molybdenum fell more than 6.5%, and Tibet Summit, Zangge Mining, Beijete and TTANQT LITHIUM each dropped over 5%.
+
+---
+
+### 2026-09-11 09:45:45  #市場 #焦點
+
+上海原油連續主力合約日內漲7%，現報822.50元。
+
+---
+
+### 2026-09-11 09:45:28  #市場 #焦點
+
+燃料油連續主力合約日內漲7%，現報4390.00元。
+
+---
+
+### 2026-09-11 09:45:03  #公司 #市場
+
+【航運港口板塊大幅調整，南京港跌停】航運港口板塊大幅調整，南京港跌停，海峽股份、中集環科、連雲港、國航遠洋、中遠海特、海通發展等跟跌。
+
+---
+
+### 2026-09-11 09:44:25  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Extend Slide — The benchmark KOSPI fell more than 2% to around 6,850 on Friday, extending losses from the previous session amid surging oil prices and higher US Treasury yields. WTI climbed above $100 per barrel, while Brent topped $107 amid escalating US-Iran tensions, raising concerns over inflation and further disruptions to oil supplies. Additionally, the US 10-year Treasury yield rose to its highest level since October 2023, while rate-hike bets for next week’s Fed meeting strengthened. Samsung Electronics and SK hynix led the decline, with both down nearly 4%, alongside losses in SK Square (-4.9%), Hyundai Motor (-1.9%), and LG Energy Solution (-2.2%). Separately, the BOK signaled it will assess the timing and pace of further rate hikes as inflation remains above target, with CPI accelerating to 3.1% in August. Meanwhile, South Korea’s exports surged 83% year-on-year in the first 10 days of September, led by semiconductor shipments that jumped 270% amid robust AI demand.
+
+---
+
+### 2026-09-11 09:43:21  #MKT News
+
+A-share tourism and hotel sector saw selective rallies; Qujiang Cultural Tourism and Guilin Tourism hit daily limit-up, Tianmuhu advanced, while China CYTS, Xi'an Catering and Huangshan Tourism pared losses.
+
+---
+
+### 2026-09-11 09:43:20  #其他
+
+【工信部等九部門：深化汽車與資訊通訊融合發展 拓展多場景適配網聯能力】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，深化汽車與資訊通訊融合發展。面向重點城市和部分高速公路持續深化5G/5G-A（增強版5G）網路覆蓋，建設C-V2X（基於蜂窩行動通訊的車輛聯網技術）直連通訊路側裝置，構建高低搭配、泛在智聯、安全可靠的行動網路體系，提升服務汽車應用的網路能力。拓展多場景適配網聯能力，提升車端5G/5G-A與C-V2X直連通訊能力滲透率。推動直連衛星、北斗系統等技術裝車應用。有序推進車聯網專用號碼規劃核配以及無線電頻率資源供給。最佳化多型別算力基礎設施部署，加速異構算力排程共享。推動智慧網聯新能源汽車與網聯基礎設施協同發展，推動IPv6（網際網路協議第六版）技術應用。
+
+---
+
+### 2026-09-11 09:43:03  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #Copper
+
+A-share CPO concept sector rose in early trade after initial volatility. Wuhan Fangu, Guangdian Co. and Huasheng Tiancheng hit and remained at daily limit-up. Zhaolong Hulian, Xunjie Xing and Fenghua Hi-Tech also advanced.
+
+---
+
+### 2026-09-11 09:42:13  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year bond yield rose 7.5 bps to 2.985%.
+
+---
+
+### 2026-09-11 09:42:09  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Shanghai silver most-active futures contract on the Shanghai Futures Exchange fell 6.00% intraday to 15,435 yuan/kg.
+
+---
+
+### 2026-09-11 09:41:50  #市場 #焦點
+
+白銀連續主力合約日內跌6%，現報15435.00元。
+
+---
+
+### 2026-09-11 09:41:45  #其他
+
+悉尼機場因空中交通管制員短缺導致航班中斷。
+
+---
+
+### 2026-09-11 09:41:35  #市場
+
+【旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停】旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停，天目湖跟漲，中青旅、西安飲食、黃山旅遊跌幅收窄。
+
+---
+
+### 2026-09-11 09:41:25  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish #Hang Seng Index #CNH #Impact mixed
+
+【China A-share nonferrous metals sector plunges; multiple nonferrous ETFs down >4%】China A-share nonferrous metals sector plunged. Nonferrous ETFs including E Fund Nonferrous ETF (560470) and GF Nonferrous ETF (159029), and industrial nonferrous ETFs such as Wanjia Industrial Nonferrous ETF (560860) and ChinaAMC Industrial Nonferrous ETF (515040) fell more than 4%.
+
+---
+
+### 2026-09-11 09:41:01  #市場 #國際
+
+10年期日本國債<JP10YTN=JBTC>收益率上行7.5個基點，報2.985%。
+
+---
+
+### 2026-09-11 09:40:45  #公司
+
+【九部門：加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，加強產能預警調控。嚴格執行《汽車產業投資管理規定》等產業政策，嚴格新建獨立新能源汽車企業專案條件。加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革。透過市場化法治化方式推動落後低效產能有序退出，提升行業整體產能利用水平。加強動力電池產能預警和調控管理。
+
+---
+
+### 2026-09-11 09:40:38  #其他
+
+豆包宣佈輸入法升級，完成全端支援。
+
+---
+
+### 2026-09-11 09:40:30  #其他
+
+【九部門：有序推進智慧網聯汽車准入和上路通行】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，積極穩妥推進自動駕駛技術規模應用。開展自動駕駛乘用車、公交車、幹線物流、城市配送、特種作業等多場景示範應用。有序推進智慧網聯汽車准入和上路通行，支援搭載自動駕駛系統車輛規模應用。推動開展功能型無人車應用試點，建立健全相關制度規範。推進“車路雲一體化”發展應用。推動全國一、二線重點城市和部分國家高速公路加快數字化、網聯化升級，重要路口路段具備智慧感知、邊緣計算和通訊能力，加強城市道路和公路跨區域協同佈局，支援建設跨域連通的雲控基礎平臺，分級實現交通管控、交通事件等資訊上車，車車、車路協同感知與決策等功能場景規模化應用。推動新能源重卡規模應用。聚焦乾線物流、短途運輸等典型場景，積極推進新能源重卡規模應用。
+
+---
+
+### 2026-09-11 09:40:02  #市場
+
+【黃金板塊大幅調整，深中華A跌停】黃金板塊大幅調整，深中華A跌停，江西銅業、白銀有色、興業銀錫、金誠信、萊紳通靈、洛陽鉬業等跟跌。
+
+---
+
+### 2026-09-11 09:39:39  #MKT News #OZON.O #Impact bearish
+
+Ozon said a Ukrainian drone strike hit its logistics center in Russia's Saratov region, triggering a fire.
+
+---
+
+### 2026-09-11 09:39:24  #其他
+
+【銅板塊跌超5%，多隻有色ETF跌超4%】銅板塊跌超5%，有色ETF易方達（560470）、有色ETF廣發（159029）等多隻有色ETF，工業有色ETF萬家（560860）、工業有色ETF華夏（515040）等多隻工業有色ETF跌超4%。
+
+---
+
+### 2026-09-11 09:38:47  #國際
+
+烏克蘭無人機襲擊了俄羅斯電商平臺Ozon在薩拉托夫的物流中心並引發火災。
+
+---
+
+### 2026-09-11 09:38:34  #市場 #焦點
+
+北證50日內跌幅達2.03%，成分股中，艾融軟體跌6.45%，銅冠礦建跌5.36%，並行科技跌4.01%，廣信科技跌3.19%。
+
+---
+
+### 2026-09-11 09:38:03  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
+
+FTSE China A50 futures plunged intraday, initially down nearly 1.5%.
+
+---
+
+### 2026-09-11 09:37:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Most-active precious metals futures fall】SHFE Au2610 down 1.72% at 938.56 yuan/gram. SHFE Ag2610 down 5.53% at 15,517 yuan/kg. SHFE Pt2610 down 5.42% at 433.3 yuan/gram. SHFE Pd2610 down 4.51% at 302.9 yuan/gram.
+
+---
+
+### 2026-09-11 09:37:42  #其他
+
+【九部門：加快完善充換電基礎設施，科學合理佈局大功率充電設施】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，強化汽車與能源融合發展。加快完善充換電基礎設施，科學合理佈局大功率充電設施，補強農村充電設施建設短板，持續提升充換電服務效能。加快推進車網互動規模化應用，探索可持續商業模式。推動新能源汽車與綠色電力、綠色氫能協同發展，加強新能源重卡在幹線物流、特定場所短途運輸等場景的推廣應用。
+
+---
+
+### 2026-09-11 09:37:28  #市場
+
+【MLCC概念異動拉昇 雙星新材直線漲停】早盤MLCC概念異動拉昇，雙星新材直線漲停，昀冢科技、風華高科、國瓷材料、潔美科技漲幅靠前。
+
+---
+
+### 2026-09-11 09:37:24  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share pork sector opened weaker; Keming Foods hit the limit-down, with Jingji Zhinong, Boen Group, Tianyu Biotech, Shennong Group, Haida Group and Bangji Technology also lower.
+
+---
+
+### 2026-09-11 09:36:36  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-09-11 09:36:33  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌2%，現報7422.20點。
+
+---
+
+### 2026-09-11 09:36:33  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌2%，現報7422.20點。
+
+---
+
+### 2026-09-11 09:36:29  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌2%，現報7546.00點。
+
+---
+
+### 2026-09-11 09:36:29  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌2%，現報7546.00點。
+
+---
+
+### 2026-09-11 09:36:13  #其他
+
+【九部門：推動全國範圍內交通訊號燈、交通標誌、交通標線等交通設施裝置數字化升級】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，促進汽車與交通、城市融合發展。推動全國範圍內交通訊號燈、交通標誌、交通標線等交通設施裝置數字化升級，因地制宜開展路側感知設施規模化部署，推動跨行業資訊平臺互聯互通。加速自動駕駛重點場景示範應用，推動自動駕駛與物流、出行深度融合。
+
+---
+
+### 2026-09-11 09:36:06  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+Stocks in China Hit 7-week Low — SHANGHAI 50 decreased to 2857.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Shanghai 50 lost 2.31%, and in the last 12 months, it decreased 4.05%.
+
+---
+
+### 2026-09-11 09:36:02  #市場 #焦點
+
+【A股三大指數均跌超1%】上證指數跌1.35%，現報3881.207點；深證成指跌1.26%，現報13446.262點；創業板指跌1.02%，現報3304.464點。
+
+---
+
+### 2026-09-11 09:35:49  #公司 #市場
+
+食品等消費股開盤下挫，克明食品跌停，海欣食品、安記食品、萬辰集團、歡樂家、三全食品跟跌。
+
+---
+
+### 2026-09-11 09:35:45  #MKT News
+
+A-share retail sector rallied in early trade; Zhongbai Group and Nanning Department Store hit the daily limit, with Guoguang Chain, Guofang Group, Dongbai Group, Youhao Group, Central Mall and Xinhua Department Store following higher.
+
+---
+
+### 2026-09-11 09:35:37  #市場
+
+富時中國A50指數期貨跌幅擴大至1%。
+
+---
+
+### 2026-09-11 09:35:18  #MKT News #Important #SSE Composite #Impact bearish #SZSE Component
+
+China A-share session opened sharply lower: Shanghai Composite Index down over 1% at the open; Shenzhen Composite Index down 0.9%; ChiNext Index down 0.5%. STAR 50 and Beijing Stock Exchange 50 Index both down over 1%. More than 4,900 stocks across the two exchanges declined.
+
+---
+
+### 2026-09-11 09:34:27  #MKT News #Commodities #Industrial Metals
+
+China front-month coke futures fell 2.0% intraday to 2,085.50 yuan/ton.
 
 ---
 
@@ -16378,229 +16660,5 @@ PBOC conducted a CNY30 bln 7-day reverse repo today: bids CNY30 bln, allotment C
 ### 2026-09-10 09:19:20  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australian Equities Slump Amid U.S.–Iran tensions, Hawkish RBA — Australian stocks plunged 150 points or 1.7% to 8,761 in early Thursday trade, marking one of the sharpest single-day drops in recent weeks and extending losses for a third session. Markets lingered at their lowest in six weeks, with sentiment hit hard by the third straight drop on Wall Street overnight as mounting U.S.–Iran tensions pushed Brent crude above USD100/bbl, stoking inflation fears. Meantime, U.S. Treasury yields climbed ahead of key CPI data. Locally, rate concerns deepened after Deputy Gov. Andrew Hauser said the RBA will debate further tightening at its September meeting, citing persistent inflation risks, and Assistant Governor Sarah Hunter warned of limited tolerance for stronger price pressures. All sectors fell, led by healthcare, non-energy minerals, retail, and logistics. The four big banks fell between 1.4% and 1.8%, while BHP Group slid 3.2%. Other notable laggards included PLS Group (-3.6%), Lynas Rare Earths (-3.0%), Nextdc (-2.9%), and Regis Resources (-2.3%).
-
----
-
-### 2026-09-10 09:19:13  #市場
-
-【訊息稱英偉達Rubin Ultra晶片擬改用8層HBM】據業界訊息，英偉達正考慮將下一代Rubin Ultra人工智慧加速器的高頻寬記憶體（HBM）方案，從此前的12層堆疊調整為8層。在儲存成本不斷上漲的背景下，英偉達更加重視單位頻寬成本以及整機系統的經濟性。
-
----
-
-### 2026-09-10 09:18:51  #市場 #焦點
-
-對二甲苯連續主力合約日內漲4%，現報9412.00元。
-
----
-
-### 2026-09-10 09:18:48  #市場 #焦點
-
-PVC連續主力合約日內漲1%，現報5130.00元。
-
----
-
-### 2026-09-10 09:17:59  #公司 #國際
-
-泰國暹羅水泥集團化工公司表示，為應對海灣地區供應中斷，該公司已實現石腦油供應來源多元化，新增從印度、澳大利亞、奈及利亞和阿聯酋進口石腦油。
-
----
-
-### 2026-09-10 09:17:33  #市場 #焦點
-
-乙二醇連續主力合約日內漲5%，現報6095.00元。
-
----
-
-### 2026-09-10 09:16:50  #市場 #焦點
-
-甲醇連續主力合約日內漲4%，現報3539.00元。
-
----
-
-### 2026-09-10 09:15:43  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened the day session down 1.04% at 24,915, trading a 353-point discount to the cash market.
-
----
-
-### 2026-09-10 09:15:41  #MKT News #Important
-
-Styrene (EB) most-active contract hit the daily up-limit, gaining 6% to 10,373 yuan/tonne.
-
----
-
-### 2026-09-10 09:15:30  #市場
-
-【人民幣兌美元中間價報6.7766，較上日調高3點】人民幣兌美元中間價報6.7766，較上日調高3點。
-
----
-
-### 2026-09-10 09:15:25  #國際
-
-知情人士透露，高超音速技術企業Stratolaunch正籌備在美國首次公開募股，最早或於 10 月啟動，募資規模最高可達 5 億美元。
-
----
-
-### 2026-09-10 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.93%，報24971.60點，低水303.36點。
-
----
-
-### 2026-09-10 09:13:13  #公司 #國際
-
-【蘋果釋出會嘉賓陣容出圈：段永平到場，五月天阿信曬和新任CEO合照】北京時間 9 月 10 日凌晨，蘋果在 Apple Park 喬布斯劇院舉行秋季新品釋出會，正式推出旗下首款摺疊屏 iPhone —— iPhone Duo。這是自 2017 年 iPhone X 以來，iPhone 首次迎來全新形態。此外，這也是約翰·特努斯接任蘋果執行長後的首場釋出會。8月29日，知名投資人段永平透過其雪球賬號透露，很好奇蘋果摺疊手機，會去9月9日的釋出會。釋出會當天，有博主曬出與段永平在釋出會現場的合照，證實其到場。此外，釋出會前夕，蘋果在美國加州Apple Park總部舉辦私人晚宴，五月天阿信出席這場晚宴。他發帖引用《知足》歌詞“怎麼去擁有一道彩虹”並曬出名牌。隨後，他還曬出了參加蘋果釋出會的現場圖片。9月10日凌晨，阿信發文總結蘋果釋出會，並曬出和蘋果新任CEO約翰·特努斯的合照。阿信表示：“如果你告訴 25 年前的我們，有一天，未來的每個人手上都會拿著一個小小的黑色盒子，每天花上許多時間與它相伴，我們一定很難相信。而今天，我們親身經歷，也親眼見證了科技如何不斷改變我們的生活——讓我們看得更遠，聽得更立體，也讓體驗變得更加身歷其境。”（新浪科技）
-
----
-
-### 2026-09-10 09:12:27  #公司
-
-【中鼎股份在四川成立新材料科技公司】企查查APP顯示，近日，四川鼎源新材料科技有限公司成立，經營範圍包含：合成材料銷售；生物基材料製造；工程塑膠及合成樹脂銷售；塑膠製品銷售等。企查查股權穿透顯示，該公司由中鼎股份全資持股。
-
----
-
-### 2026-09-10 09:11:39  #MKT News #Market Regions #Greater China #Star Stocks #NVIDIA #Amazon #Market Themes #Magnificent 7
-
-【NDRC hosts roundtable with senior US firms in China】On Sept. 10 in Beijing the National Development and Reform Commission (NDRC) met with senior executives from more than 60 US multinationals operating in China — including Amazon Web Services, NVIDIA, Dell and Honeywell China — from cloud/compute, industrial energy and consumer-pharma sectors. NDRC bureaus outlined policy considerations in the 15th Five-Year Plan outline, foreign-investment policy for the 15th Plan period, and reported implementation outcomes of a new large-scale equipment-upgrade programme and consumer trade-in measures designed to boost consumption; officials also promoted Beijing’s economic and investment environment.
-
----
-
-### 2026-09-10 09:10:53  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-SC crude most-active contract up over 8% intraday, trading at 780.30 yuan/bbl.
-
----
-
-### 2026-09-10 09:10:31  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌2%，至6909.41點。
-
----
-
-### 2026-09-10 09:10:29  #市場 #焦點
-
-上海原油連續主力合約日內漲8%，現報780.30元。
-
----
-
-### 2026-09-10 09:10:24  #MKT News
-
-South Korea's KOSPI index slid as much as 2.00% intraday.
-
----
-
-### 2026-09-10 09:09:56  #國際
-
-【美媒：白宮高官稱美伊戰事或持續至特朗普任期結束】據美國《華爾街日報》9日報道，白宮高階官員私下向美國總統特朗普指出，美伊戰事可能會持續至其總統任期結束。報道援引多名美官員的話說，在白宮橢圓形辦公室和戰情室舉行的會議中，美國副總統萬斯、國務卿魯比奧等人與特朗普討論了伊朗可能在美國的封鎖和其他軍事壓力下繼續抵抗的情況，這或許會造成衝突持續至2029年1月的總統就職日之後。報道還說，白宮高階官員私下承認這場軍事衝突可能會拖上數年，這與特朗普聲稱美國已擊敗伊朗軍隊、伊朗政權即將投降的說法相矛盾。特朗普當天對記者表示，美國同伊朗的戰事將在11月中期選舉後“立即結束”，“因為他們（伊朗）撐不下去了”。（新華社）
-
----
-
-### 2026-09-10 09:08:38  #公司
-
-【國家發展改革委舉行與美在華企業高層圓桌會】今天（9月10日）上午，國家發展改革委與美在華跨國企業高層圓桌會在京舉辦，主題為“擁抱‘十五五’ 共謀新發展”。亞馬遜雲、英偉達、戴爾、霍尼韋爾（中國）有限公司等60餘家來自科技算力、工業能源和消費醫藥等領域美在華企業代表參會。會上，國家發展改革委相關司局介紹“十五五”規劃綱要有關政策考慮，“十五五”時期我國利用外資政策情況，新一輪大規模裝置更新和消費品以舊換新政策有關實施成效，提振消費相關政策精神，相關負責人介紹發展北京市經濟社會發展情況並推介北京市投資環境，跨國企業高層代表發言交流。 （央視財經）
-
----
-
-### 2026-09-10 09:08:33  #市場 #焦點
-
-紐約期金突破4460美元/盎司，日內跌0.01%。
-
----
-
-### 2026-09-10 09:08:04  #市場 #焦點
-
-塑膠連續主力合約日內漲3%，現報8682.00元。
-
----
-
-### 2026-09-10 09:08:01  #MKT News #Important #Market Regions #Greater China #MEG #Impact bullish #PX #PP
-
-China front-month chemical futures rose in short-term trading; gains widened in ethylene glycol (MEG), methanol, natural rubber and 20# rubber, styrene, PVC, PTA, polypropylene (PP), benzene, plastics, paraxylene (PX), butadiene rubber, propylene, polyester short fiber (PSF) and bottle‑grade PET chips. Urea's losses narrowed.
-
----
-
-### 2026-09-10 09:07:55  #其他
-
-【新疆維吾爾自治區伊犁哈薩克自治州住房和城鄉建設局副局長吳煉接受審查調查】中央紀委國家監委網站9月10日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州住房和城鄉建設局黨組書記、副局長吳煉涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-09-10 09:07:45  #公司
-
-【上海電氣與中國華電深化能源裝備產業協同】 據上海電氣訊息，9月9日上午，中國華電集團有限公司（簡稱“中國華電”）黨組書記、董事長葉向東與來訪的上海電氣集團黨委書記、董事長吳磊一行舉行會談。雙方圍繞“十五五”戰略合作、能源裝備產業協同等議題進行深入交流。葉向東表示，希望雙方進一步圍繞能源裝備自主化、首臺（套）示範應用、新型電力系統關鍵裝置、數字化與智慧運維等領域加強對接，同時在海外市場強化協同，攜手提升合作深度和實效。吳磊表示，面向“十五五”，希望將上海電氣高階裝備製造與工程化能力，與中國華電在能源投資開發、運營管理等方面的優勢相結合，推動更多優質專案落地，共同拓展國內外能源市場合作新成果。
-
----
-
-### 2026-09-10 09:07:33  #宏觀 #公司
-
-【史上最長16天中秋國慶假期運輸來了，京滬將開行“紅眼高鐵”】9月10日，記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角史上最長、為期16天的中秋國慶假期運輸方案出臺，鐵路部門在啟用圖定60對高峰線的基礎上，計劃增開304對臨時旅客列車。 上鐵集團客運中心工作人員向記者介紹，2026年鐵路中秋國慶假期運輸期限自9月23日始，至10月8日止，長三角鐵路預計傳送旅客5400萬人次，客流最高峰日為10月1日，當天預計傳送旅客440萬人次，有望創下中秋國慶假期運輸單日旅客傳送量新高。 根據目前車票預售情況看，本次中秋國慶假期運輸期間，長三角地區旅遊流、探親流、學生流出行需求全面釋放，客流呈現出行總量大、持續時間長、高峰客流高等特徵，部分割槽間和時段客流高度集中。長三角鐵路部門計劃於9月25日、28日、30日及10月1日、2日、6日、7日、8日凌晨在京滬等高鐵幹線安排開行夜間高鐵； 9月23日、24日、29日、30日，10月1日、6日、7日、8日安排開行上海往來廣東多地高鐵動臥列車等。今年中秋國慶假期運輸期間，長三角鐵路臨時旅客列車開行方案較去年國慶中秋假期運輸臨時旅客開行方案增加45對，增幅17.3%。（貝殼財經）
-
----
-
-### 2026-09-10 09:06:59  #市場 #焦點
-
-丙烯連續主力合約日內漲5%，現報9348.00元。
-
----
-
-### 2026-09-10 09:05:52  #其他
-
-【2026外灘大會開幕 看AI從對話方塊走進真實生活】 9月9日至12日，以“共創AI新經濟”為主題的2026外灘大會在上海舉行。今年大會科技展規模較2025年進一步擴大，設定超15000平方米的主題科技展、創新物種展及綠色星球展等展覽展示活動，吸引全球300多家科技企業參展。在展會現場AI新經濟已經不再停留在概念裡，而是開始真實發生在商業、產業和每個人的日常生活中。（央視新聞）
-
----
-
-### 2026-09-10 09:05:43  #MKT News #Important #CNH #Impact bearish
-
-China pure benzene most-active contract hit the daily limit, rising 6% to 9,227 yuan/ton.
-
----
-
-### 2026-09-10 09:05:08  #市場 #焦點
-
-燃料油連續主力合約日內漲5%，現報4131.00元。
-
----
-
-### 2026-09-10 09:05:06  #MKT News #Important
-
-U.S. President Trump to speak in 10 minutes at American Airlines Center, Dallas.
-
----
-
-### 2026-09-10 09:04:53  #市場
-
-【飛天茅臺、五糧液普五八代逆勢大漲 國窖1573、古井貢古20創月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，9月10日中國白酒業11大單品的終端零售均價三漲七跌一平，下跌品種繼續佔據顯著優勢。贏家方面，飛天茅臺上漲4元，終端零售均價來到1797元，連續三日攀升，重新逼近1800元大關；五糧液普五八代大漲8元至818元，強勢收復前期兩連陰的大部分失地；水晶劍南春小漲1元至408元，價盤小幅修復。下跌方面，精品茅臺下跌2元至2459元，三連陽暫告收尾；五糧液1618小跌1元至829元，連續兩日平盤後小幅抖動；國窖1573下跌3元至874元，三連跌價格中樞持續下移，平30天以來最低紀錄；洋河夢之藍M6+下跌4元至608元，前一日短時反彈後再度回落，跌破610元關口；古井貢古20下跌5元至518元，五連跌連續走弱，再創近30天價格新低；習酒君品下跌2元至638元，短暫反彈後再度回踩，維持中位區間震盪執行；青花郎下跌5元至680元，五連陰短線跌幅再度擴大。持平方面，青花汾20終端零售均價維持在390元，前一日回踩整十關口後價盤暫時趨穩。
-
-今日11大單品的終端零售總價繼續下移，高階與次高階酒品整體仍以回撥為主，盤面分化態勢延續。如果11大單品各取一瓶整體打包售賣，今日總售價為10019元，較昨日下跌9元，創下11天以來新低。總價自9月5日階段性高點以來已連續五日回落，目前僅高出一萬元整數關口19元。
-
----
-
-### 2026-09-10 09:04:31  #市場 #焦點
-
-聚丙烯連續主力合約日內漲3%，現報9002.00元。
-
----
-
-### 2026-09-10 09:04:08  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報3506.00元。
-
----
-
-### 2026-09-10 09:03:59  #其他
-
-【第七批高值醫用耗材國採上午開標 波士頓科學、奧林巴斯、南微醫學等競逐23種消化介入耗材】今日上午，第七批高值醫用耗材國家組織集中帶量採購在天津開啟現場接收報價材料，波士頓科學、奧林巴斯、庫克、愛爾博等外資傳統巨頭，以及南微醫學、安傑思、久虹醫療等國產頭部廠商企業代表陸續進入會場，報價資訊公開大會將於九點半開始。據悉，本次集採產品覆蓋消化內鏡治療主要環節，具體包括球囊擴張導管、食道及腸道支架、消化道導絲等品類。根據採購檔案，本次耗材國採參照藥品集採離散度管控思路，設雙標準差錨點，同時設定規則一直接中選、規則二帶量復活、規則三不帶量復活三類差異化中選路徑，並引入多維度產品特徵折算係數，在控價的同時兼顧產品臨床適配性。國家醫保局方面近期對外強調，集採將堅持“穩臨床、保質量、反內卷、防圍標”，透過“畸高價要出局、畸低價不帶量”引導行業公平、理性競爭。 (財聯社)
-
----
-
-### 2026-09-10 09:03:49  #公司 #市場 #國際
-
-【美國國家運輸安全委員會：亞馬遜貨運飛機失事墜毀前曾嘗試復飛】根據航班最後時刻的錄音，這架亞馬遜公司貨運飛機週日在邁阿密國際機場失事。飛機接地時速度過快，一名飛行員隨即呼叫中止著陸。美國國家運輸安全委員會（NTSB）於週三晚間公佈飛機駕駛艙語音記錄儀的相關細節，還原了事故發生前的一系列經過：飛機衝出跑道並撞上兩輛車輛。事故中的 5 名遇難者與 5 名傷者均在這兩輛車內。NTSB 稱，飛機獲得著陸許可、進近跑道過程中，一名飛行員 “提醒飛機速度過快”。隨後機載計算機連續發出兩聲 “下降率過大” 電子警報，提示飛機下沉速度過快；同時還響起五次 “地形過低” 語音警告。NTSB 表示，記錄儀隨後錄下疑似接地的聲響，緊接著一名飛行員呼叫復飛。復飛即放棄著陸、重新拉昇高度，調整姿態準備再次進近的操作流程。NTSB 稱，5 秒後，記錄儀捕捉到飛機駛離鋪裝跑道的聲音。由分包商 21 航空有限責任公司執飛的 Prime Air 7598 號航班，從波多黎各聖胡安的路易斯・穆尼奧斯・馬林國際機場飛抵後，衝出機場斜向跑道。這架波音 767 飛機在鋪裝跑道之外繼續滑行約四分之一英里，撞上機場導航裝置，隨後猛撞至兩輛車輛。飛機駛離跑道後撞上一輛白色福特 Econoline 廂式貨車，車輛被撞得支離破碎。該貨車當時正在機場界區內運送一支 7 人清潔班組。隨後飛機又撞上一輛行駛在機場圍欄外道路上的豐田小型 SUV。
-
----
-
-### 2026-09-10 09:03:44  #公司 #國際
-
-【美國鋁業公司擬透過發行債券籌集26億美元，為收購South32交易融資】當地時間9月9日，美國鋁業公司在一份宣告中表示，計劃透過發行債券籌集26億美元，為收購礦業和金屬公司South32交易融資。美國鋁業公司表示，將分兩批發行債券，到期日分別為2034年和2036年。發行人均為美鋁的全資子公司。發行人擬將票據發行的淨收益連同手頭現金，用於支付收購South32 Limited部分鋁土礦、氧化鋁和電解鋁冶煉業務權益的約31億美元現金對價，並支付相關費用和開支。
 
 ---

@@ -1,7 +1,231 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-13 04:56:52_
-_本檔包含 2742 則快訊，約 545157 字_
+_更新時間：2026-09-13 06:59:49_
+_本檔包含 2731 則快訊，約 544781 字_
+
+---
+
+### 2026-09-10 09:19:13  #市場
+
+【訊息稱英偉達Rubin Ultra晶片擬改用8層HBM】據業界訊息，英偉達正考慮將下一代Rubin Ultra人工智慧加速器的高頻寬記憶體（HBM）方案，從此前的12層堆疊調整為8層。在儲存成本不斷上漲的背景下，英偉達更加重視單位頻寬成本以及整機系統的經濟性。
+
+---
+
+### 2026-09-10 09:18:51  #市場 #焦點
+
+對二甲苯連續主力合約日內漲4%，現報9412.00元。
+
+---
+
+### 2026-09-10 09:18:48  #市場 #焦點
+
+PVC連續主力合約日內漲1%，現報5130.00元。
+
+---
+
+### 2026-09-10 09:17:59  #公司 #國際
+
+泰國暹羅水泥集團化工公司表示，為應對海灣地區供應中斷，該公司已實現石腦油供應來源多元化，新增從印度、澳大利亞、奈及利亞和阿聯酋進口石腦油。
+
+---
+
+### 2026-09-10 09:17:33  #市場 #焦點
+
+乙二醇連續主力合約日內漲5%，現報6095.00元。
+
+---
+
+### 2026-09-10 09:16:50  #市場 #焦點
+
+甲醇連續主力合約日內漲4%，現報3539.00元。
+
+---
+
+### 2026-09-10 09:15:43  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 1.04% at 24,915, trading a 353-point discount to the cash market.
+
+---
+
+### 2026-09-10 09:15:41  #MKT News #Important
+
+Styrene (EB) most-active contract hit the daily up-limit, gaining 6% to 10,373 yuan/tonne.
+
+---
+
+### 2026-09-10 09:15:30  #市場
+
+【人民幣兌美元中間價報6.7766，較上日調高3點】人民幣兌美元中間價報6.7766，較上日調高3點。
+
+---
+
+### 2026-09-10 09:15:25  #國際
+
+知情人士透露，高超音速技術企業Stratolaunch正籌備在美國首次公開募股，最早或於 10 月啟動，募資規模最高可達 5 億美元。
+
+---
+
+### 2026-09-10 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.93%，報24971.60點，低水303.36點。
+
+---
+
+### 2026-09-10 09:13:13  #公司 #國際
+
+【蘋果釋出會嘉賓陣容出圈：段永平到場，五月天阿信曬和新任CEO合照】北京時間 9 月 10 日凌晨，蘋果在 Apple Park 喬布斯劇院舉行秋季新品釋出會，正式推出旗下首款摺疊屏 iPhone —— iPhone Duo。這是自 2017 年 iPhone X 以來，iPhone 首次迎來全新形態。此外，這也是約翰·特努斯接任蘋果執行長後的首場釋出會。8月29日，知名投資人段永平透過其雪球賬號透露，很好奇蘋果摺疊手機，會去9月9日的釋出會。釋出會當天，有博主曬出與段永平在釋出會現場的合照，證實其到場。此外，釋出會前夕，蘋果在美國加州Apple Park總部舉辦私人晚宴，五月天阿信出席這場晚宴。他發帖引用《知足》歌詞“怎麼去擁有一道彩虹”並曬出名牌。隨後，他還曬出了參加蘋果釋出會的現場圖片。9月10日凌晨，阿信發文總結蘋果釋出會，並曬出和蘋果新任CEO約翰·特努斯的合照。阿信表示：“如果你告訴 25 年前的我們，有一天，未來的每個人手上都會拿著一個小小的黑色盒子，每天花上許多時間與它相伴，我們一定很難相信。而今天，我們親身經歷，也親眼見證了科技如何不斷改變我們的生活——讓我們看得更遠，聽得更立體，也讓體驗變得更加身歷其境。”（新浪科技）
+
+---
+
+### 2026-09-10 09:12:27  #公司
+
+【中鼎股份在四川成立新材料科技公司】企查查APP顯示，近日，四川鼎源新材料科技有限公司成立，經營範圍包含：合成材料銷售；生物基材料製造；工程塑膠及合成樹脂銷售；塑膠製品銷售等。企查查股權穿透顯示，該公司由中鼎股份全資持股。
+
+---
+
+### 2026-09-10 09:11:39  #MKT News #Market Regions #Greater China #Star Stocks #NVIDIA #Amazon #Market Themes #Magnificent 7
+
+【NDRC hosts roundtable with senior US firms in China】On Sept. 10 in Beijing the National Development and Reform Commission (NDRC) met with senior executives from more than 60 US multinationals operating in China — including Amazon Web Services, NVIDIA, Dell and Honeywell China — from cloud/compute, industrial energy and consumer-pharma sectors. NDRC bureaus outlined policy considerations in the 15th Five-Year Plan outline, foreign-investment policy for the 15th Plan period, and reported implementation outcomes of a new large-scale equipment-upgrade programme and consumer trade-in measures designed to boost consumption; officials also promoted Beijing’s economic and investment environment.
+
+---
+
+### 2026-09-10 09:10:53  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+SC crude most-active contract up over 8% intraday, trading at 780.30 yuan/bbl.
+
+---
+
+### 2026-09-10 09:10:31  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌2%，至6909.41點。
+
+---
+
+### 2026-09-10 09:10:29  #市場 #焦點
+
+上海原油連續主力合約日內漲8%，現報780.30元。
+
+---
+
+### 2026-09-10 09:10:24  #MKT News
+
+South Korea's KOSPI index slid as much as 2.00% intraday.
+
+---
+
+### 2026-09-10 09:09:56  #國際
+
+【美媒：白宮高官稱美伊戰事或持續至特朗普任期結束】據美國《華爾街日報》9日報道，白宮高階官員私下向美國總統特朗普指出，美伊戰事可能會持續至其總統任期結束。報道援引多名美官員的話說，在白宮橢圓形辦公室和戰情室舉行的會議中，美國副總統萬斯、國務卿魯比奧等人與特朗普討論了伊朗可能在美國的封鎖和其他軍事壓力下繼續抵抗的情況，這或許會造成衝突持續至2029年1月的總統就職日之後。報道還說，白宮高階官員私下承認這場軍事衝突可能會拖上數年，這與特朗普聲稱美國已擊敗伊朗軍隊、伊朗政權即將投降的說法相矛盾。特朗普當天對記者表示，美國同伊朗的戰事將在11月中期選舉後“立即結束”，“因為他們（伊朗）撐不下去了”。（新華社）
+
+---
+
+### 2026-09-10 09:08:38  #公司
+
+【國家發展改革委舉行與美在華企業高層圓桌會】今天（9月10日）上午，國家發展改革委與美在華跨國企業高層圓桌會在京舉辦，主題為“擁抱‘十五五’ 共謀新發展”。亞馬遜雲、英偉達、戴爾、霍尼韋爾（中國）有限公司等60餘家來自科技算力、工業能源和消費醫藥等領域美在華企業代表參會。會上，國家發展改革委相關司局介紹“十五五”規劃綱要有關政策考慮，“十五五”時期我國利用外資政策情況，新一輪大規模裝置更新和消費品以舊換新政策有關實施成效，提振消費相關政策精神，相關負責人介紹發展北京市經濟社會發展情況並推介北京市投資環境，跨國企業高層代表發言交流。 （央視財經）
+
+---
+
+### 2026-09-10 09:08:33  #市場 #焦點
+
+紐約期金突破4460美元/盎司，日內跌0.01%。
+
+---
+
+### 2026-09-10 09:08:04  #市場 #焦點
+
+塑膠連續主力合約日內漲3%，現報8682.00元。
+
+---
+
+### 2026-09-10 09:08:01  #MKT News #Important #Market Regions #Greater China #MEG #Impact bullish #PX #PP
+
+China front-month chemical futures rose in short-term trading; gains widened in ethylene glycol (MEG), methanol, natural rubber and 20# rubber, styrene, PVC, PTA, polypropylene (PP), benzene, plastics, paraxylene (PX), butadiene rubber, propylene, polyester short fiber (PSF) and bottle‑grade PET chips. Urea's losses narrowed.
+
+---
+
+### 2026-09-10 09:07:55  #其他
+
+【新疆維吾爾自治區伊犁哈薩克自治州住房和城鄉建設局副局長吳煉接受審查調查】中央紀委國家監委網站9月10日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州住房和城鄉建設局黨組書記、副局長吳煉涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-09-10 09:07:45  #公司
+
+【上海電氣與中國華電深化能源裝備產業協同】 據上海電氣訊息，9月9日上午，中國華電集團有限公司（簡稱“中國華電”）黨組書記、董事長葉向東與來訪的上海電氣集團黨委書記、董事長吳磊一行舉行會談。雙方圍繞“十五五”戰略合作、能源裝備產業協同等議題進行深入交流。葉向東表示，希望雙方進一步圍繞能源裝備自主化、首臺（套）示範應用、新型電力系統關鍵裝置、數字化與智慧運維等領域加強對接，同時在海外市場強化協同，攜手提升合作深度和實效。吳磊表示，面向“十五五”，希望將上海電氣高階裝備製造與工程化能力，與中國華電在能源投資開發、運營管理等方面的優勢相結合，推動更多優質專案落地，共同拓展國內外能源市場合作新成果。
+
+---
+
+### 2026-09-10 09:07:33  #宏觀 #公司
+
+【史上最長16天中秋國慶假期運輸來了，京滬將開行“紅眼高鐵”】9月10日，記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，長三角史上最長、為期16天的中秋國慶假期運輸方案出臺，鐵路部門在啟用圖定60對高峰線的基礎上，計劃增開304對臨時旅客列車。 上鐵集團客運中心工作人員向記者介紹，2026年鐵路中秋國慶假期運輸期限自9月23日始，至10月8日止，長三角鐵路預計傳送旅客5400萬人次，客流最高峰日為10月1日，當天預計傳送旅客440萬人次，有望創下中秋國慶假期運輸單日旅客傳送量新高。 根據目前車票預售情況看，本次中秋國慶假期運輸期間，長三角地區旅遊流、探親流、學生流出行需求全面釋放，客流呈現出行總量大、持續時間長、高峰客流高等特徵，部分割槽間和時段客流高度集中。長三角鐵路部門計劃於9月25日、28日、30日及10月1日、2日、6日、7日、8日凌晨在京滬等高鐵幹線安排開行夜間高鐵； 9月23日、24日、29日、30日，10月1日、6日、7日、8日安排開行上海往來廣東多地高鐵動臥列車等。今年中秋國慶假期運輸期間，長三角鐵路臨時旅客列車開行方案較去年國慶中秋假期運輸臨時旅客開行方案增加45對，增幅17.3%。（貝殼財經）
+
+---
+
+### 2026-09-10 09:06:59  #市場 #焦點
+
+丙烯連續主力合約日內漲5%，現報9348.00元。
+
+---
+
+### 2026-09-10 09:05:52  #其他
+
+【2026外灘大會開幕 看AI從對話方塊走進真實生活】 9月9日至12日，以“共創AI新經濟”為主題的2026外灘大會在上海舉行。今年大會科技展規模較2025年進一步擴大，設定超15000平方米的主題科技展、創新物種展及綠色星球展等展覽展示活動，吸引全球300多家科技企業參展。在展會現場AI新經濟已經不再停留在概念裡，而是開始真實發生在商業、產業和每個人的日常生活中。（央視新聞）
+
+---
+
+### 2026-09-10 09:05:43  #MKT News #Important #CNH #Impact bearish
+
+China pure benzene most-active contract hit the daily limit, rising 6% to 9,227 yuan/ton.
+
+---
+
+### 2026-09-10 09:05:08  #市場 #焦點
+
+燃料油連續主力合約日內漲5%，現報4131.00元。
+
+---
+
+### 2026-09-10 09:05:06  #MKT News #Important
+
+U.S. President Trump to speak in 10 minutes at American Airlines Center, Dallas.
+
+---
+
+### 2026-09-10 09:04:53  #市場
+
+【飛天茅臺、五糧液普五八代逆勢大漲 國窖1573、古井貢古20創月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，9月10日中國白酒業11大單品的終端零售均價三漲七跌一平，下跌品種繼續佔據顯著優勢。贏家方面，飛天茅臺上漲4元，終端零售均價來到1797元，連續三日攀升，重新逼近1800元大關；五糧液普五八代大漲8元至818元，強勢收復前期兩連陰的大部分失地；水晶劍南春小漲1元至408元，價盤小幅修復。下跌方面，精品茅臺下跌2元至2459元，三連陽暫告收尾；五糧液1618小跌1元至829元，連續兩日平盤後小幅抖動；國窖1573下跌3元至874元，三連跌價格中樞持續下移，平30天以來最低紀錄；洋河夢之藍M6+下跌4元至608元，前一日短時反彈後再度回落，跌破610元關口；古井貢古20下跌5元至518元，五連跌連續走弱，再創近30天價格新低；習酒君品下跌2元至638元，短暫反彈後再度回踩，維持中位區間震盪執行；青花郎下跌5元至680元，五連陰短線跌幅再度擴大。持平方面，青花汾20終端零售均價維持在390元，前一日回踩整十關口後價盤暫時趨穩。
+
+今日11大單品的終端零售總價繼續下移，高階與次高階酒品整體仍以回撥為主，盤面分化態勢延續。如果11大單品各取一瓶整體打包售賣，今日總售價為10019元，較昨日下跌9元，創下11天以來新低。總價自9月5日階段性高點以來已連續五日回落，目前僅高出一萬元整數關口19元。
+
+---
+
+### 2026-09-10 09:04:31  #市場 #焦點
+
+聚丙烯連續主力合約日內漲3%，現報9002.00元。
+
+---
+
+### 2026-09-10 09:04:08  #市場 #焦點
+
+甲醇連續主力合約日內漲3%，現報3506.00元。
+
+---
+
+### 2026-09-10 09:03:59  #其他
+
+【第七批高值醫用耗材國採上午開標 波士頓科學、奧林巴斯、南微醫學等競逐23種消化介入耗材】今日上午，第七批高值醫用耗材國家組織集中帶量採購在天津開啟現場接收報價材料，波士頓科學、奧林巴斯、庫克、愛爾博等外資傳統巨頭，以及南微醫學、安傑思、久虹醫療等國產頭部廠商企業代表陸續進入會場，報價資訊公開大會將於九點半開始。據悉，本次集採產品覆蓋消化內鏡治療主要環節，具體包括球囊擴張導管、食道及腸道支架、消化道導絲等品類。根據採購檔案，本次耗材國採參照藥品集採離散度管控思路，設雙標準差錨點，同時設定規則一直接中選、規則二帶量復活、規則三不帶量復活三類差異化中選路徑，並引入多維度產品特徵折算係數，在控價的同時兼顧產品臨床適配性。國家醫保局方面近期對外強調，集採將堅持“穩臨床、保質量、反內卷、防圍標”，透過“畸高價要出局、畸低價不帶量”引導行業公平、理性競爭。 (財聯社)
+
+---
+
+### 2026-09-10 09:03:49  #公司 #市場 #國際
+
+【美國國家運輸安全委員會：亞馬遜貨運飛機失事墜毀前曾嘗試復飛】根據航班最後時刻的錄音，這架亞馬遜公司貨運飛機週日在邁阿密國際機場失事。飛機接地時速度過快，一名飛行員隨即呼叫中止著陸。美國國家運輸安全委員會（NTSB）於週三晚間公佈飛機駕駛艙語音記錄儀的相關細節，還原了事故發生前的一系列經過：飛機衝出跑道並撞上兩輛車輛。事故中的 5 名遇難者與 5 名傷者均在這兩輛車內。NTSB 稱，飛機獲得著陸許可、進近跑道過程中，一名飛行員 “提醒飛機速度過快”。隨後機載計算機連續發出兩聲 “下降率過大” 電子警報，提示飛機下沉速度過快；同時還響起五次 “地形過低” 語音警告。NTSB 表示，記錄儀隨後錄下疑似接地的聲響，緊接著一名飛行員呼叫復飛。復飛即放棄著陸、重新拉昇高度，調整姿態準備再次進近的操作流程。NTSB 稱，5 秒後，記錄儀捕捉到飛機駛離鋪裝跑道的聲音。由分包商 21 航空有限責任公司執飛的 Prime Air 7598 號航班，從波多黎各聖胡安的路易斯・穆尼奧斯・馬林國際機場飛抵後，衝出機場斜向跑道。這架波音 767 飛機在鋪裝跑道之外繼續滑行約四分之一英里，撞上機場導航裝置，隨後猛撞至兩輛車輛。飛機駛離跑道後撞上一輛白色福特 Econoline 廂式貨車，車輛被撞得支離破碎。該貨車當時正在機場界區內運送一支 7 人清潔班組。隨後飛機又撞上一輛行駛在機場圍欄外道路上的豐田小型 SUV。
+
+---
+
+### 2026-09-10 09:03:44  #公司 #國際
+
+【美國鋁業公司擬透過發行債券籌集26億美元，為收購South32交易融資】當地時間9月9日，美國鋁業公司在一份宣告中表示，計劃透過發行債券籌集26億美元，為收購礦業和金屬公司South32交易融資。美國鋁業公司表示，將分兩批發行債券，到期日分別為2034年和2036年。發行人均為美鋁的全資子公司。發行人擬將票據發行的淨收益連同手頭現金，用於支付收購South32 Limited部分鋁土礦、氧化鋁和電解鋁冶煉業務權益的約31億美元現金對價，並支付相關費用和開支。
 
 ---
 
@@ -16263,309 +16487,5 @@ cenc preliminarily recorded a magnitude-4.2 earthquake at 06:32 on Sep 9 off Yil
 ### 2026-09-09 06:35:07  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Silicon Gains by 1.91% — Top commodity gainers are Silicon (1.91%), Iron Ore CNY (1.36%) and Copper (1.34%). Biggest losers are Gold (-1.15%), Platinum (-1.10%) and Silver (-0.81%).
-
----
-
-### 2026-09-09 06:35:01  #其他
-
-中國地震臺網自動測定：09月09日06時32分在臺灣宜蘭縣海域附近（北緯24.42度，東經122.49度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-09-09 06:33:50  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-【Treasury Secretary Bessent challenges yen shorts, says he is the market maker】US Treasury Secretary Bessent challenged traders attempting to short the yen, saying when he judges markets he effectively holds "inside information" and asymmetric information. He recalled past interventions, including July 31 when he joined the Japanese government in buying yen; the currency initially rallied but then partially retraced as traders pointed to limited FX purchase funds available to the US Treasury. Bessent said he now functions as the market maker and therefore has a strong read on how the Japanese government, the Bank of Japan and other policymakers would act in any intervention, adding traders are free to try to go against him.
-
----
-
-### 2026-09-09 06:33:48  #MKT News #Nikkei 225
-
-Market sources say Japan is expected to reshuffle its cabinet on Sept. 17.
-
----
-
-### 2026-09-09 06:30:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Spikes by 6.01% — Top commodity gainers are Natural Gas EU (6.01%), Natural Gas UK (5%), Propane (3.64%), Crude Oil (3.04%) and Brent Oil (2.21%). Biggest loser is Natural gas (-2.54%).
-
----
-
-### 2026-09-09 06:28:54  #國際
-
-市場訊息：日本內閣改組定於 9 月 17 日舉行。
-
----
-
-### 2026-09-09 06:28:29  #市場 #央行 #國際
-
-【9月9日隔夜要聞一覽】
-1、美國中央司令部：9月8日摧毀5艘伊朗原油運輸船。此前兩天，伊朗革命衛隊兩度使用彈道導彈瞄準一艘美國海軍戰艦。該美軍戰艦成功規避伊朗的襲擊企圖，並繼續在該區域水域巡邏，無美方人員受傷。
-2、美國國務卿魯比奧：伊朗每一次試圖襲擊美國海軍艦船，其油輪都將遭到打擊。
-3、加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。
-4、特朗普指示政府採購剔除加拿大產品。
-5、伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離。
-6、OpenAI內部模型88小時暴力攻克千禧年數學難題。
-7、國際油價8日上漲。紐約商品交易所10月交貨的輕質原油期貨價格上漲1.55美元，收於每桶93.03美元，漲幅為1.69%；11月交貨的倫敦布倫特原油期貨價格上漲92美分，收於每桶97.92美元，漲幅為0.95%。
-8、英國空管系統再現故障，僅希思羅就有逾80個航班取消、約200個航班延誤。
-9、富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率。
-
----
-
-### 2026-09-09 06:27:46  #宏觀 #資料 #央行 #國際
-
-【週三重要財經資訊提醒（以下均為北京時間）】
-① 07:40 紐西蘭聯儲助理主席Karen Silk講話；
-② 09:30 中國8月CPI和PPI；
-③ 可能釋出 中國1至8月社會融資規模增量、新增人民幣貸款，8月M2等貨幣供應；
-④ 時間待定 巴黎太空峰會，SpaceX、Blue Origin等美企取消參會；
-⑤ 時間待定 美國財政部長債回購翻倍料將生效，美國共和黨首屆中期選舉大會（特朗普將發表演講）；
-⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；
-⑦ 次日01:00 蘋果2026秋季新品釋出會（iPhone Fold首秀+iPhone 18 Pro雙機），歐洲央行管委兼德國央行行長Nagel講話。
-
----
-
-### 2026-09-09 06:21:20  #其他
-
-【公募權益類基金維持高倉位，有色金屬獲資金增配】最新資料顯示，公募權益類基金繼續維持較高權益倉位，行業配置則呈現結構性調整特徵。在電子仍佔據第一大重倉行業的同時，有色金屬獲得較明顯主動增持。多家公募機構認為，近期有色金屬板塊雖然有所波動，但資源品價格維持高位、供給約束及企業盈利兌現等因素仍對基本面形成支撐，後續不同金屬品種的行情或進一步分化。（上證報）
-
----
-
-### 2026-09-09 06:21:16  #公司
-
-亞馬遜：OpenAI 還為 ChatGPT Work 推出全新企業外掛，可在常用商業應用中拓展 Astra 的瀏覽器使用能力。
-
----
-
-### 2026-09-09 06:20:07  #公司
-
-亞馬遜：OpenAI 的 GPT-6 ASTRA 現已登陸亞馬遜 Bedrock。
-
----
-
-### 2026-09-09 06:18:38  #國際
-
-美國國務卿魯比奧：美國就俄烏衝突舉行了 “實質性” 會談。俄方會談 “重啟接觸”，但仍有待推進的工作。
-
----
-
-### 2026-09-09 06:16:34  #焦點 #國際
-
-美國中央司令部：於 9 月 8 日摧毀 5 艘伊朗原油運輸船。此前兩天，伊朗伊斯蘭革命衛隊兩度使用彈道導彈瞄準一艘美國海軍戰艦。該美軍戰艦成功規避伊朗的襲擊企圖，並繼續在該區域水域巡邏，無美方人員受傷。
-
----
-
-### 2026-09-09 06:15:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.77% — Top currency gainers are Brazilian Real (0.77%), Norwegian Krone (0.48%) and Japanese Yen (0.39%). Biggest losers are New Zealand Dollar (-0.38%), Dollar Index (-0.35%) and Indian Rupee (-0.26%). Meanwhile Euro was little changed.
-
----
-
-### 2026-09-09 06:13:13  #MKT News #WTI #Impact bullish
-
-U.S. Secretary of State Rubio said Iran loses oil tankers whenever it attempts to attack U.S. naval vessels.
-
----
-
-### 2026-09-09 06:12:04  #國際
-
-美國國務卿魯比奧：伊朗每一次試圖襲擊美國海軍艦船，其油輪都將遭到打擊。
-
----
-
-### 2026-09-09 06:07:39  #國際
-
-美國國務卿魯比奧：哥倫比亞身處 “美洲之盾” 體系，這點十分重要。
-
----
-
-### 2026-09-09 06:06:03  #國際
-
-美國國務卿魯比奧：特朗普希望與哥倫比亞達成關稅相關協議。
-
----
-
-### 2026-09-09 06:05:43  #MKT News #Market Themes #The Trump Trade
-
-US Secretary of State Rubio said Trump wants to reach an agreement with Colombia on tariffs.
-
----
-
-### 2026-09-09 06:02:49  #央行 #國際
-
-【美聯儲9月加息機率為59.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為40.6%，累計加息25個基點的機率為59.4%。美聯儲到10月維持利率不變的機率為29.8%，累計加息25個基點的機率為54.4%，累計加息50個基點的機率為15.8%。
-
----
-
-### 2026-09-09 06:00:27  #市場
-
-紐約期銀日內跌1%，現報66.31美元/盎司。
-
----
-
-### 2026-09-09 06:00:26  #市場 #焦點
-
-現貨白銀突破66美元/盎司，日內跌0.05%。
-
----
-
-### 2026-09-09 06:00:23  #市場 #焦點
-
-紐約期金突破4400美元/盎司，日內跌0.88%。
-
----
-
-### 2026-09-09 06:00:02  #市場
-
-WTI原油日內漲1%，現報94.29美元/桶。
-
----
-
-### 2026-09-09 05:59:04  #MKT News
-
-IRGC-affiliated outlet Sepahnews reported Iranian missiles successfully breached Jordanian air-defense systems.
-
----
-
-### 2026-09-09 05:57:55  #MKT News #WTI #Impact bullish #XAUUSD
-
-Sepahnews, the media arm of the Islamic Revolutionary Guard Corps (IRGC), says Iran's hardline response is ongoing.
-
----
-
-### 2026-09-09 05:56:45  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Sepahnews, an outlet affiliated with the Islamic Revolutionary Guard Corps, reported Iran launched missile strikes on US military targets inside Jordan.
-
----
-
-### 2026-09-09 05:50:56  #MKT News #Market Regions #Wall Street (US) #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-【Wall Street eyes Bessent Treasury buyback; analysts say cap could be $10bn】US Treasury Secretary Bessent is set to announce the next round of long-term Treasury buybacks; markets are focused on whether the program will expand and the debt-management signal it conveys. Wrightson ICAP senior economist Crandall says a single buyback of $5–6bn is reasonable though larger operations remain possible. Morgan Stanley analysts put a financing-constrained single-operation cap near $10bn; at that level, quarterly net issuance of >20‑year Treasuries could fall about 55%. Bloomberg strategist Feigen says a larger-than-expected buyback would likely be read as a stronger policy signal and could push long yields lower in the short term, but the absolute size would still be limited versus the overall Treasury market. Barclays strategists Pradhan and Hu expect the Treasury may use open-ended wording such as "at least $4bn each time" to retain flexibility. Market focus will be on announced size, frequency and forward guidance; the 30‑year swap spread may more directly price supply changes.
-
----
-
-### 2026-09-09 05:45:39  #國際
-
-【加拿大總理動員全民“上場”應對加美貿易戰】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效後，加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。卡尼以冰球運動為比喻說：“每當我們選擇購買加拿大商品、在加拿大境內旅行時，我們都在傳遞一個訊號——在這個國家，沒有人在看臺上（觀望），4000萬名加拿大人全都在冰面上（拼搏）。”（新華社）
-
----
-
-### 2026-09-09 05:45:18  #MKT News #DXY #Impact bullish
-
-【Carney urges national unity after Canada’s retaliatory measures against US tariffs take effect】After Canada’s retaliatory measures against U.S. tariffs took effect in the early hours of the 8th, Prime Minister Carney delivered a national video address calling for unity. He said Canada will accept economic costs to reduce dependence on the U.S., but those costs are small compared with the price of inaction. Carney reiterated that U.S. negotiators made last‑minute demands that would harm Canadian sovereignty and core industries, prompting Canada to abandon the agreement and implement countermeasures.
-
----
-
-### 2026-09-09 05:43:20  #國際
-
-美國財長貝森特在講話中描述“民主黨人在2026年中期選舉中獲勝”情況下（共和黨總統特朗普）的財政計劃。
-
----
-
-### 2026-09-09 05:42:50  #國際
-
-美國財長貝森特：白宮預算主管Vought和我正在研究降低（預算）赤字的計劃。我們必須在跛腳鴨國會期快速推動財政方案落地。
-
----
-
-### 2026-09-09 05:41:55  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Saudi outlet Hadas said television footage captured a large number of Iranian missiles being intercepted over southern Syria.
-
----
-
-### 2026-09-09 05:39:00  #國際
-
-據以色列i24News：約旦防空部隊正在攔截一波伊朗導彈。
-
----
-
-### 2026-09-09 05:37:54  #國際
-
-美國財長貝森特：在此之後，我無意參選任何公職。
-
----
-
-### 2026-09-09 05:37:21  #國際
-
-美國財長貝森特：開放邊境政策的弊端，是引發了充滿對立的移民之爭。
-
----
-
-### 2026-09-09 05:35:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi outlet Hadath reports Jordanian air defenses intercepted a salvo of Iranian missiles.
-
----
-
-### 2026-09-09 05:34:55  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-TASNIM NEWS, citing unofficial reports, said explosions were heard in Jordan after Iran launched missile strikes.
-
----
-
-### 2026-09-09 05:34:54  #國際
-
-美國財長貝森特：憑藉 3% 的國內生產總值增速，我們能夠依靠經濟增長化解債務上升問題。在某個時間點，必須重新審視移民議題。
-
----
-
-### 2026-09-09 05:34:19  #國際
-
-【加拿大對美反制關稅正式生效】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效。加方對鋼鐵、乳製品、農用裝置、紙漿及電子產品等美國進口商品開始徵收等額反制關稅。 加拿大和美國的貿易談判8月下旬宣告破裂，美國對價值200億美元的加拿大商品徵收50%的關稅。（新華社）
-
----
-
-### 2026-09-09 05:34:10  #MKT News #Important #USDJPY #Impact mixed
-
-【BESSENT on yen: If you want to bet against me, go ahead】U.S. Treasury Secretary BESSENT said of the yen that anyone who wants to bet against him should go ahead, saying he has relevant information and a strong read on what the Bank of Japan and policymakers will do.
-
----
-
-### 2026-09-09 05:33:49  #其他
-
-市場訊息：約旦境內響起空襲警報，並有攔截行動的相關報道。
-
----
-
-### 2026-09-09 05:31:30  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Bessent said he has a sound basis for judgment when we intervene in the yen.
-
----
-
-### 2026-09-09 05:28:16  #MKT News
-
-U.S. Supreme Court denied Missouri's request to use a Republican-drawn congressional district map in the November midterm elections.
-
----
-
-### 2026-09-09 05:27:42  #央行 #國際
-
-美國財長貝森特：我們干預日元匯率時，我掌握充分內情。充分洞悉日本央行及政策制定者的動向。
-
----
-
-### 2026-09-09 05:27:02  #焦點 #國際
-
-美國財長貝森特：我掌握非對稱資訊，如今我就是莊家。（談及日元）想和我對賭儘管來，我掌握資訊。
-
----
-
-### 2026-09-09 05:24:57  #國際
-
-美國財長貝森特提及他去年曾支援阿根廷比索。
-
----
-
-### 2026-09-09 05:24:31  #國際
-
-美國財長貝森特：我可藉助美國資產負債表推行對外政策。
-
----
-
-### 2026-09-09 05:23:51  #市場 #國際
-
-美國財長貝森特：重申美國債券市場表現優於其他市場。目前正試圖為債券市場降溫。
 
 ---
