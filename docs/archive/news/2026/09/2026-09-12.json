@@ -1,7 +1,23 @@
 {
   "date": "2026-09-12",
-  "count": 556,
+  "count": 558,
   "items": [
+    {
+      "id": "mkt:01a09437-1d9e-7118-8554-2ab40f617cfa",
+      "time": "2026-09-12 14:03:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting governor of Russia's Belgorod region said a Ukrainian military strike killed one civilian in the region."
+    },
+    {
+      "id": "mkt:01a09436-e6bb-7118-8554-220a910634f3",
+      "time": "2026-09-12 14:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Latin American allies are intensifying cooperation with the Trump administration on combating drug trafficking, signaling stronger regional support for Washington's counter-narcotics operations."
+    },
     {
       "id": "5090605",
       "time": "2026-09-12 13:59:21",

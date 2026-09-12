@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-12 14:00:55",
-  "count": 13470,
+  "updated": "2026-09-12 14:04:49",
+  "count": 13469,
   "items": [
+    {
+      "id": "mkt:01a09437-1d9e-7118-8554-2ab40f617cfa",
+      "time": "2026-09-12 14:03:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting governor of Russia's Belgorod region said a Ukrainian military strike killed one civilian in the region."
+    },
+    {
+      "id": "mkt:01a09436-e6bb-7118-8554-220a910634f3",
+      "time": "2026-09-12 14:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Latin American allies are intensifying cooperation with the Trump administration on combating drug trafficking, signaling stronger regional support for Washington's counter-narcotics operations."
+    },
     {
       "id": "5090605",
       "time": "2026-09-12 13:59:21",
@@ -123651,32 +123667,6 @@
         "MKT News"
       ],
       "text": "【Tehran Stock Exchange main index rises 120,000 points to 6,624,000】Tehran Stock Exchange main index gained 120,000 points to 6,624,000; the value-weighted index rose about 32,000 points. Total market capitalization in rials reached roughly 19.3 tln Iranian rials for the first time, while dollar-denominated market cap slipped below $100bn. Retail flows into equities, rights issues and equity funds totaled about 1 tln rials, while fixed-income funds saw outflows of 2.2 tln rials. About 95% of stocks advanced and buy orders amounted to 16.5 tln rials."
-    },
-    {
-      "id": "5078586",
-      "time": "2026-09-05 14:03:43",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "土耳其將對高速公路及伊斯坦布林各大橋樑實施私有化。"
-    },
-    {
-      "id": "mkt:01a07028-8a63-7118-84b0-be94f6693ce4",
-      "time": "2026-09-05 14:01:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Attack on Colombian barracks kills 2, wounds 5】Colombian President De la Espriella confirmed on the evening of the 4th that a barracks in Ocaña, Norte de Santander (northern Colombia) was attacked by anti-government armed groups, killing two soldiers and wounding five."
-    },
-    {
-      "id": "5078585",
-      "time": "2026-09-05 14:01:15",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【哥倫比亞一軍營遇襲致2死5傷】哥倫比亞總統德拉埃斯普列亞4日晚證實，哥倫比亞北部北桑坦德省奧卡尼亞市一處軍營當天遭到反政府武裝襲擊，已造成2名軍人死亡、5名軍人受傷。（新華社）"
     }
   ]
 }
