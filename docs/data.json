@@ -1,10 +1,26 @@
 {
-  "updated": "2026-09-12 09:33:01",
+  "updated": "2026-09-12 09:36:49",
   "count": 13507,
   "items": [
     {
+      "id": "5090520",
+      "time": "2026-09-12 09:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：盧卡申科透露小兒子尼古拉正在軍隊服役】據白俄羅斯國家通訊社11日報道，白俄羅斯總統盧卡申科向記者透露，他的小兒子尼古拉正在軍隊服役。（環球網）"
+    },
+    {
       "id": "5090519",
       "time": "2026-09-12 09:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南電動汽車廠商VinFast表示，創始人範日旺辭去執行長一職，其長子範日全安（Pham Nhat Quan Anh）將出任全球執行長。"
+    },
+    {
+      "id": "5090518",
+      "time": "2026-09-12 09:31:51",
       "tags": [
         "公司"
       ],
@@ -123970,29 +123986,6 @@
         "國際"
       ],
       "text": "【中東歐四國呼籲歐盟統一行動應對嚴重旱情】維謝格拉德集團成員國（波蘭、匈牙利、捷克、斯洛伐克）的農業和食品部門代表4日共同呼籲歐盟立即採取統一行動，出臺必要措施，以緩解嚴重旱情對農民的影響。（新華社）"
-    },
-    {
-      "id": "5078469",
-      "time": "2026-09-05 09:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮赦免事務主管稱，特朗普對30人予以赦免減刑。"
-    },
-    {
-      "id": "mkt:01a06f34-77ea-7118-84af-3c7bc25818c7",
-      "time": "2026-09-05 09:35:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "CNH",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Hainan Jan-Aug commodity housing online contract signings 5.17 mln sq m (-22% YoY); sales 88.05 bln yuan (-21% YoY)】According to Hainan's official online contract-signing system, Jan–Aug commodity housing (including affordable housing) online contract signings totaled 5.17 mln sq m, down 22% YoY, with sales of 88.05 bln yuan, down 21% YoY. In August alone signings were 0.357 mln sq m, down 28% YoY, and sales were 4.99 bln yuan, down 43% YoY."
     }
   ]
 }
