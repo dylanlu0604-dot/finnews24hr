@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-12 18:05:09",
-  "count": 13554,
+  "updated": "2026-09-12 18:09:03",
+  "count": 13556,
   "items": [
+    {
+      "id": "5090741",
+      "time": "2026-09-12 18:08:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳航空將開通深圳往返悉尼直飛航線】據深圳機場訊息，深圳航空將於12月14日起開通深圳往返悉尼直飛航線，每週4班，由空客A330寬體客機執飛。這是深航繼深圳—墨爾本航線後，開通的第二條直飛澳大利亞的國際航線，標誌著深航進一步完善深圳連通南太平洋的空中航線網路佈局。深航同步最佳化澳洲航線運力，自10月25日起，深圳往返墨爾本航線由每週3班加密至每週5班。"
+    },
+    {
+      "id": "5090740",
+      "time": "2026-09-12 18:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：臨時用地管理檔案修訂面向社會公開徵求意見】據自然資源部訊息，近日，自然資源部起草了《自然資源部關於規範臨時用地管理的通知（徵求意見稿)》（以下簡稱《徵求意見稿》），按照規範性檔案制定程式有關規定，現公開徵求社會意見。"
+    },
+    {
+      "id": "mkt:01a09513-f2b8-7118-8556-33bf64beeeec",
+      "time": "2026-09-12 18:05:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President Lagarde speech due in 10 minutes."
+    },
     {
       "id": "mkt:01a09512-e250-7118-8556-2ff5e082d9ef",
       "time": "2026-09-12 18:03:57",
@@ -124375,15 +124402,6 @@
         "MKT News"
       ],
       "text": "【China Central Meteorological Observatory maintains blue typhoon warning at 18:00 on Sept 5】China's Central Meteorological Observatory maintained a blue typhoon warning at 18:00 on Sept 5, saying Tropical Storm Krovanh (No.24) was located at 17:00 about 25 km south of Naha in the Ryukyu Islands (26.0N, 127.7E). Maximum winds near the center were level 8 (20 m/s), central pressure 995 hPa, with a 7-level (gale) wind radius of 200–350 km."
-    },
-    {
-      "id": "5078663",
-      "time": "2026-09-05 18:08:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破91美元，日內漲超0.3%。"
     }
   ]
 }
