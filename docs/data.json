@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-12 14:16:29",
-  "count": 13472,
+  "updated": "2026-09-12 14:20:22",
+  "count": 13475,
   "items": [
+    {
+      "id": "5090615",
+      "time": "2026-09-12 14:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【釋放技術需求超1萬項 2026 InnoMatch技術轉移大會在滬開幕】9月12日，2026 InnoMatch技術轉移大會在上海啟幕。作為2026浦江創新論壇同期活動，本屆大會線上線下釋放技術需求超10000項，需求解決投入超200億元，匯聚1500項待轉化優質成果與中小企業創新產品，集聚線上線下創新主體超1000個，線下參會主體超200家。"
+    },
+    {
+      "id": "5090614",
+      "time": "2026-09-12 14:18:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破96美元，日內跌超2.7%。"
+    },
+    {
+      "id": "5090613",
+      "time": "2026-09-12 14:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會主席易卜拉欣·阿齊茲：沒有談判。除非伊朗的條件得到滿足，否則談判毫無意義。"
+    },
+    {
+      "id": "mkt:01a09444-394f-7118-8554-5c0f59c6c8fa",
+      "time": "2026-09-12 14:18:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ebrahim Azizi, head of Iran’s parliamentary national security committee, said there will be no negotiations and that talks are meaningless unless Iran’s conditions are met."
+    },
+    {
+      "id": "em:qqyh_mlc:202609123872716713",
+      "time": "2026-09-12 14:15:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【從“加不加息”到“加幾次” 美聯儲加息預期急劇升溫】一份關鍵的通脹報告，讓加息從美聯儲可選項變成了必選項。受燃油價格走高等因素推動，美國8月CPI同比漲幅保持在3.4%的高位，核心CPI同比漲幅則從2.5%回落至2.4%，均與市場預期一致。8月CPI環比上漲0.4%，符合市場預期；但核心CPI環比上漲0.3%，高於市場預期的0.2%，創下今年4月以來最大單月漲幅。"
+    },
     {
       "id": "5090611",
       "time": "2026-09-12 14:14:59",
@@ -123677,26 +123719,6 @@
         "其他"
       ],
       "text": "【全國衛星導航定位基準站網服務資料正式授權運營】自然資源部訊息，9月4日，由自然資源部、國家資料局聯合主辦的全國衛星導航定位基準站網服務資料授權運營工作推進會在京舉行。會上宣佈，全國衛星導航定位基準站網服務資料正式授權運營。這是國家層面首次在時空資訊基礎設施領域開展公共資料授權運營，將推動基準站網公共資料從尚未充分釋放價值的公共資源轉化為可以合規流通使用的資料資產，標誌著北斗高精度時空資料要素邁入市場化運營新階段。"
-    },
-    {
-      "id": "mkt:01a07039-669f-7118-84b0-dce35c4b7082",
-      "time": "2026-09-05 14:20:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【South Korean YTD exports hit $709.4 bln, surpassing last year’s full-year record】Korea Customs Service said on Saturday year-to-date South Korean exports reached $709.4 bln, exceeding last year’s full-year record of $709.3 bln as a global surge in demand for AI chips lifted shipments. Customs said South Korea, Asia’s fourth-largest economy, is on track for $1 tln in annual exports, which would make it the fourth country after the US, China and Germany to hit that milestone. August exports rose 69% YoY, marking the 15th consecutive month of growth."
-    },
-    {
-      "id": "mkt:01a07036-811e-7118-84b0-d142eb8b76a7",
-      "time": "2026-09-05 14:16:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's Ministry of Emergency Management sends working group to Jiangxi Suichuan mudslide site】On Sept. 5 a mudflow and landslide struck Shixia group, Mingkeng Village, Gaoping Town, Suichuan County, Jiangxi. The National Disaster Reduction and Relief Commission and the Ministry of Emergency Management initiated level-4 national emergency responses for natural disasters and geological disasters and dispatched a working group to oversee rescue. The ministry ordered all-out search-and-rescue, verification of casualties and missing persons, nearby deployment of communications support and engineering rescue teams, and stepped-up hydrological and geological monitoring and early warning to prevent secondary disasters. The national production-safety rescue team’s emergency survey unit, carrying slope radar and other equipment, was sent to assist; local fire services deployed 41 vehicles and 224 personnel and communications and reconnaissance drones were airborne."
     }
   ]
 }
