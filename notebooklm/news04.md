@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-13 02:41:53_
-_本檔包含 2915 則快訊，約 545186 字_
+_更新時間：2026-09-13 04:56:52_
+_本檔包含 2943 則快訊，約 545900 字_
+
+---
+
+### 2026-09-09 05:23:14  #國際
+
+伊朗伊斯蘭共和國通訊社：美軍襲擊賈斯克外海的商船。
+
+---
+
+### 2026-09-09 05:22:19  #國際
+
+美國財長貝森特：美債市場的論調十分荒謬。
+
+---
+
+### 2026-09-09 05:21:53  #國際
+
+美國財長貝森特：8 月，美債市場的主流論調是天要塌了。
+
+---
+
+### 2026-09-09 05:21:33  #MKT News
+
+Colombia's president says he will participate responsibly in efforts to stabilize the region.
+
+---
+
+### 2026-09-09 05:21:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) director Mark Stevens reported the sale of 1.02 mln NVIDIA common shares in transactions executed Sept. 3-4 at $227.25–$234.04 per share.
+
+---
+
+### 2026-09-09 05:19:49  #國際
+
+美國財長貝森特：市場並非有效，市場由人主導，而人會犯錯。
+
+---
+
+### 2026-09-09 05:19:12  #國際
+
+市場訊息：美國商務部長盧特尼克將前往墨西哥，參與貿易對話。
+
+---
+
+### 2026-09-09 05:18:24  #國際
+
+哥倫比亞總統：該國需要美國在雷達、飛機及其他領域提供援助以打擊犯罪。
+
+---
+
+### 2026-09-09 05:18:11  #MKT News
+
+Colombian president said after meeting US Secretary of State Rubio that Colombia seeks to be Washington's primary partner in counternarcotics operations.
+
+---
+
+### 2026-09-09 05:17:43  #國際
+
+哥倫比亞總統：哥倫比亞希望成為美國打擊毒品販運方面的首要盟友。
+
+---
+
+### 2026-09-09 05:17:30  #MKT News
+
+Politico reports US Commerce Secretary Lutnick is expected to meet Wednesday local time with Mexican President sheinbaum and Mexico's economy minister EBRARD to discuss trade issues, including US tariffs on Mexican autos and metal products.
+
+---
+
+### 2026-09-09 05:15:36  #市場
+
+富時A50期指連續夜盤收漲0.10%，報14578點。
+
+---
+
+### 2026-09-09 05:15:32  #國際
+
+派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。
+
+---
+
+### 2026-09-09 05:12:44  #國際
+
+美國國務卿魯比奧：美國與哥倫比亞在能源、貿易及商務領域尚有大量工作待推進。
+
+---
+
+### 2026-09-09 05:12:13  #其他
+
+市場訊息：派拉蒙天空之舞採取措施防範延期產生的成本，華納兄弟探索併購交易即將完成。
+
+---
+
+### 2026-09-09 05:10:35  #國際
+
+【聯合國秘書長敦促恢復俄烏談判】聯合國秘書長古特雷斯的發言人迪雅裡克8日稱，古特雷斯希望最近的外交努力能夠使俄羅斯和烏克蘭恢復談判。迪雅裡克在8日的例行記者吹風會上說，古特雷斯對於包括美國特使訪問莫斯科和基輔在內的外交努力感到鼓舞。他希望新的倡議能夠使得烏克蘭和俄羅斯恢復談判，為立即無條件全面停火以及達成符合國際法的公平、全面、持久和平鋪平道路。聯合國方面願意為此提供協助。（央視新聞）
+
+---
+
+### 2026-09-09 05:10:27  #MKT News #WTI #Impact bullish #Brent
+
+South Korea's presidential office said Iran expressed interest and sought clarification over reports of South Korea's involvement in Strait of Hormuz affairs.
+
+---
+
+### 2026-09-09 05:10:20  #國際
+
+訊息人士：美國恢復匈牙利、波蘭移民簽證審理，其餘地區仍維持暫停狀態。
+
+---
+
+### 2026-09-09 05:10:11  #國際
+
+【英法加領導人發表聯合宣告譴責以色列擴張定居點】當地時間9月8日，英國首相伯納姆、法國總統馬克龍、加拿大總理卡尼當天發表聯合宣告，譴責以色列在約旦河西岸地區擴張，呼籲落實“兩國方案”。宣告說，透過“兩國方案”解決巴以衝突，對中東及更廣泛地區的和平、穩定、安全至關重要，也符合英法加三國根本利益。約旦河西岸以色列定居點系統性擴張，包括以色列政府“E1區”定居點建設決定，以及猶太人定居者暴力行為，對和平願景構成直接且緊迫的威脅。宣告說，英法加三國已正式承認巴勒斯坦國，致力於維護“兩國方案”。根據國際法，這些定居點屬於非法機構。三國決定禁止從定居點進口商品，並對定居點及相關人員實施針對性制裁。 (央視新聞)
+
+---
+
+### 2026-09-09 05:10:09  #MKT News
+
+South Korea's presidential office said Seoul and Paris discussed contributing to security in the Strait of Hormuz, not deploying troops.
+
+---
+
+### 2026-09-09 05:09:55  #市場 #央行 #國際
+
+【富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率】富國銀行援引彙總自2015年以來的資料說，美聯儲通常會在市場消化的利率變動機率超過69%時加息或降息。該銀行表示，週五公佈的消費者價格指數“可能決定”美聯儲下週會議採取何種行動。分析師Ohsung Kwon等人週二說，自1994年以來，在加息週期中首次上調後的三個月內標普500指數平均下跌3%。在過去的六次緊縮週期中，該指數只上升過一次。
+
+---
+
+### 2026-09-09 05:09:49  #MKT News
+
+South Korea's presidential office said a review of Seoul's role in the Strait of Hormuz is unrelated to U.S.-South Korea investment negotiations.
+
+---
+
+### 2026-09-09 05:09:21  #市場
+
+週二（9月8日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7068元，較週一紐約尾盤漲24點，日內整體交投於6.7115-6.7061元區間。
+
+---
+
+### 2026-09-09 05:09:05  #國際
+
+【特朗普指示政府採購剔除加拿大產品】美國總統特朗普當地時間9月8日在社交媒體平臺發帖，再次指責加拿大“多年來一直在佔美國的便宜”，並稱加拿大在向美國施加“貿易騙局”。特朗普稱，“加拿大聯邦及各省政府，禁止美國中小企業進入加拿大的政府採購市場。可與此同時，加拿大卻可以充分進入規模龐大的美國政府採購市場，包括美國各州的政府採購。從現在起，沒有互惠就別想進入我們的市場！我特此指示美國總務管理局會同美國貿易代表辦公室，採取一切必要措施，將加拿大原產產品從總務管理局的多重授予採購計劃中移除，除非加拿大恢復對美國農民和企業的全面公平互惠。”特朗普在帖文中稱，“這些採購涉及的年貿易額超過500億美元。這事兒早該被之前的政府切斷了，就像我當年做的那樣，可結果卻被‘瞌睡喬’拜登恢復了。” (CCTV國際時訊)
+
+---
+
+### 2026-09-09 05:09:05  #MKT News
+
+U.S. Secretary of State Rubio said after meeting Colombia's president that security and prosperity are the primary priorities in U.S.-Colombia relations.
+
+---
+
+### 2026-09-09 05:09:05  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish #BX.N
+
+【Alphabet-Blackstone $5bn AI data-center project Project Braid delayed】People familiar said Alphabet (GOOG.O) and Blackstone (BX.N)’s $5bn AI cloud project Project Braid has encountered data-center construction delays. The project, backed by Blackstone’s $5bn investment and intended to lease Google AI-chip compute to customers in 2027, had planned for developer Crusoe to build a Cheyenne, Wyoming site; Alphabet canceled that arrangement, took over the build and refiled permits after losing confidence in Crusoe’s ability to deliver. Crusoe has been involved in OpenAI and ORACLE’s Texas “Stargate” facility. Another planned site is stalled by a shortage of required transformers. Sources said AI data-center development is being constrained by power-equipment supply bottlenecks and permitting delays. Project Braid’s head said the programme is proceeding and aims to provide 500 MW of compute capacity next year.
+
+---
+
+### 2026-09-09 05:08:44  #國際
+
+美國國務卿魯比奧：安全與繁榮是美哥關係的首要議題。
+
+---
+
+### 2026-09-09 05:08:22  #央行 #國際
+
+“新債王”岡拉克：美國收益率將繼續上升。美聯儲基準利率應提高50個基點。美國2年期收益率與聯邦基金利率不同步。
+
+---
+
+### 2026-09-09 05:08:09  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC)
+
+GUNDLACH says U.S. 2-year yield is not tracking the federal funds rate.
+
+---
+
+### 2026-09-09 05:07:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Gundlach says the Federal Reserve's policy rate should be raised by 50 bps.
+
+---
+
+### 2026-09-09 05:07:43  #其他
+
+“新債王”岡拉克：應規避全球 30 年期債券的風險敞口。
+
+---
+
+### 2026-09-09 05:07:30  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+Gundlach said investors should avoid 30-year bonds globally and that U.S. yields will continue to rise.
+
+---
+
+### 2026-09-09 05:07:07  #國際
+
+哥倫比亞與美國簽署民用核合作諒解備忘錄（MOU）。
+
+---
+
+### 2026-09-09 05:06:58  #國際
+
+韓國總統辦公室：韓國在霍爾木茲海峽所扮演角色的相關評估，與美韓投資談判並無關聯。
+
+---
+
+### 2026-09-09 05:06:43  #國際
+
+美國國務卿魯比奧：美國與哥倫比亞進入前所未有的合作階段。
+
+---
+
+### 2026-09-09 05:06:11  #Trading Economics #Economy #Chile #Interest Rate #Importance 1
+
+Chile Central Bank Holds Key Rate at 4.5% — Chile’s central bank unanimously kept its benchmark interest rate unchanged at 4.5% in September, citing heightened uncertainty from the Middle East conflict, rising oil prices and persistent global inflation risks. Oil has approached $100 a barrel, while copper prices climbed above $6.50 a pound. Domestically, economic activity remained weaker than expected in the second quarter and early third quarter, accompanied by slowing domestic demand, job losses and a higher unemployment rate. Headline inflation rose to 4.1% in August, driven by volatile components, while core inflation held at 3.3%. Inflation expectations remain anchored at 3% over two years. The central bank said monetary policy would continue to be assessed meeting by meeting, with risks from the conflict and the possibility of a more prolonged domestic slowdown requiring close monitoring.
+
+---
+
+### 2026-09-09 05:06:05  #公司
+
+CoreWeave 執行長：向資料中心垂直整合能夠加強對基礎設施的掌控。
+
+---
+
+### 2026-09-09 05:05:34  #國際
+
+韓國總統辦公室：伊朗對相關報道表示關注，並就韓國在霍爾木茲海峽的角色相關報道尋求解釋。
+
+---
+
+### 2026-09-09 05:05:19  #MKT News
+
+Chile's central bank said it will take necessary measures to ensure expected inflation reaches 3% within two years.
+
+---
+
+### 2026-09-09 05:04:59  #國際
+
+韓國總統辦公室：韓法雙方討論了為霍爾木茲海峽安全提供支援，並未談及兵力部署。
+
+---
+
+### 2026-09-09 05:03:43  #Trading Economics #Economy #El Salvador #Inflation Rate #Importance 1
+
+El Salvador Inflation Picks Up in August — Annual inflation in El Salvador accelerated to 3.19% in August 2026 from 2.49% in July, the highest reading since July 2023. Price growth accelerated for food and non-alcoholic beverages (3.65% vs 2.49%), alcoholic beverages and tobacco (2.62% vs 2.11%), health (0.54% vs 0.39%), transport (2.91% vs 2.57%), communications (8.23% vs 4.95%), and miscellaneous goods and services (2.14% vs 1.96%). Clothing and footwear inflation increased to 2.62% from 2.11%. Meanwhile, inflation moderated for education (3.30% vs 3.65%). Deflation was recorded in housing and utilities (-0.32% vs 0.05%), and recreation and culture (-0.91% vs -0.90%). Inflation for furniture and household goods remained unchanged at 1.90%, while restaurant and hotel prices were unchanged at a flat inflation reading.
+
+---
+
+### 2026-09-09 05:03:34  #MKT News #Market Regions #Emerging Markets
+
+Chile's central bank kept its policy rate unchanged at 4.50%, in line with market expectations.
+
+---
+
+### 2026-09-09 05:03:13  #央行 #其他
+
+智利央行：經濟前景仍面臨高度不確定性，將做出必要決策，確保通脹預期在兩年週期內達到 3%。預計本國經濟將在 2027 年逐步好轉，不排除當前經濟疲軟態勢持續的可能性。
+
+---
+
+### 2026-09-09 05:02:00  #國際
+
+美國聯邦航空管理局（FAA）將調查從里根國家機場（DCA）起飛、遭遇鳥擊的西南航空航班。
+
+---
+
+### 2026-09-09 05:01:33  #央行 #其他
+
+智利央行：利率未來走勢將逐次會議評估。
+
+---
+
+### 2026-09-09 05:00:02  #央行 #其他
+
+智利央行維持基準利率在4.5%不變；預期為4.50%。
+
+---
+
+### 2026-09-09 04:54:28  #MKT News
+
+【80th UN General Assembly closes; Bangladesh foreign minister sworn in as next UNGA president】The 80th UN General Assembly held its closing session on the 8th. Outgoing president Annalena Baerbock spoke; Bangladesh foreign minister Khalil Rahman was sworn in as the next UNGA president and received the gavel from Baerbock.
+
+---
+
+### 2026-09-09 04:53:35  #其他
+
+【第80屆聯大閉幕 孟加拉國外長就任下屆聯大主席】第80屆聯合國大會8日舉行閉幕會。第80屆聯大主席安娜萊娜·貝爾伯克致辭，孟加拉國外長卡利勒·拉赫曼宣誓就任下一屆聯大主席，並從貝爾伯克手中接過聯大議事槌。貝爾伯克說，第80屆聯大工作重點是聯合國改革、捍衛《聯合國憲章》、促進發展以及下一任聯合國秘書長遴選，同時開啟了人工智慧管理這一全球性議題的討論。第80屆聯大共召集18場高階別會議，開展26項政府間程序，舉行116次聯大正式全體會議，透過317項決議。聯合國秘書長古特雷斯在現場講話中說，第80屆聯大是在人類面臨武裝衝突不斷、國際體系缺陷導致不公與貧困等複雜挑戰背景下召開的。在當今動盪時代，所有國家必須團結起來，共同努力尋求出路。拉赫曼在閉幕會後的記者見面會上表示，多邊主義正面臨前所未有的挑戰，同時世界也面臨前所未有的機會，尤其在新技術領域。第81屆聯大擔負著重大責任，他將直面挑戰並抓住機會，重視合作與對話，盡最大努力尋求共識。 (央視新聞)
 
 ---
 
@@ -17439,125 +17727,5 @@ Benefiting from war-related windfalls, Mercuria and Gunvor expect profits to mor
 ### 2026-09-07 21:22:38  #國際
 
 【中老“和平列車-2026”聯合演習在永珍開幕】中老“和平列車-2026”人道主義醫學救援聯合演習7日上午在寮國首都永珍開幕。寮國國防部、寮國人民軍總政治部、總後勤部、總技術部及公安部領導，中國駐寮國大使館國防武官、中方指導協調組成員及中老兩軍參演官兵參加開幕儀式。 儀式現場，首先奏響中老兩國國歌，寮國人民軍總後勤部部長、中方指導協調組組長分別致辭並宣佈聯合演習正式開始。 寮國人民軍總後勤部部長佔迪少將致辭說，老中“和平列車”聯合演習和醫療服務系列活動，是提升兩軍聯合救援和應對自然災害能力的平臺，充分體現了兩黨兩國兩軍密切友好關係，相信透過此次聯演，將進一步推動兩軍衛勤合作走向深入。 中方指導協調組組長吳丹大校表示，自2017年以來，中老兩軍已6次舉行該系列聯演。此次“和平列車”醫療隊再度赴寮國，既是生動踐行構建新時代全天候中老命運共同體的時代要求，也是深化兩軍後勤和衛勤領域交流合作的重要實踐，必將進一步增進兩國傳統友誼。 據聯合演習中方總導演賀禎介紹，此次活動將持續到9月下旬，雙方動用兵力700餘人。本次聯演以超強颱風災害國際人道主義醫學救援為背景，設定三級指揮和四級救援體系，依託衛生列車、野戰救治裝備、無人智慧裝備等，組織混編聯訓、全流程合練、實兵演習，探索跨境聯合醫學救援執行模式，進一步鍛鍊提升兩軍衛勤協同行動和應急處置能力。 演習期間，雙方還將組織醫療服務、文化交流等活動。(新華社)
-
----
-
-### 2026-09-07 21:21:45  #Trading Economics #Markets #Commodity #Importance 1
-
-Lithium Drops to Near 1-Month Low — Lithium carbonate prices in China fell to CNY 147,000 per tonne in September, the lowest in nearly one month, as the outlook of higher production in Australia offset supply uncertainty in China. Industry players reiterated the outlook of ample supply from major producers to maintain the ongoing supply surplus through the next decade. These were led by Australian lithium producers, with Mineral Resources restarting its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project. A sharper pullback was prevented by more disruption in CATL's Jianxiawo mine, China's largest by capacity and responsible for 4% of global supply. Chinese authorities revoked their environmental approvals for the mine to extend the period of permit hurdles for over one year, coinciding with Beijing's anti-involution campaign and efforts to combat producer overcapacity.
-
----
-
-### 2026-09-07 21:21:41  #MKT News
-
-【China Mobile Cloud launches AutoLab for Quantum research agent】Sept. 7 — China Mobile's cloud unit Mobile Cloud launched AutoLab for Quantum, a dialogue-as-experiment research agent targeting universities and research teams. No coding or complex environment setup is required: researchers describe goals in natural language and the agent autonomously builds and visualizes quantum circuits, runs noisy simulation, executes variational algorithms (VQE/QAOA) and Grover search, trains quantum neural networks, performs pulse‑level simulation and optimization, and supports paper retrieval and experiment reproduction.
-
----
-
-### 2026-09-07 21:21:40  #其他
-
-【移動雲推出量子科研智慧體】9月7日，移動雲推出量子科研智慧體AutoLab for Quantum，面向高校與科研團隊提供“對話即實驗”的一站式科研服務。據介紹，科研人員無需繁瑣編碼和複雜環境配置，只需透過自然語言描述實驗目標，智慧體即可自主完成量子線路構建與視覺化、含噪模擬、VQE/QAOA等變分量子演算法實驗、Grover搜尋、量子神經網路訓練、脈衝級模擬與最佳化，以及論文檢索與實驗復現。
-
----
-
-### 2026-09-07 21:21:38  #MKT News #Important #Commodities #Precious Metals #Energy #Market Regions #Wall Street (US) #WTI #Brent #XAUUSD
-
-【US, Canada markets closed for Labor Day; CME, ICE futures to close early】US and Canadian equity markets will be closed Monday Sept 7 for Labor Day. CME will end trading early on Beijing time (BJT) Sept 8: precious metals and US crude contracts at 02:30 BJT; equity index futures at 01:00 BJT. ICE will end Brent futures early at 01:30 BJT on Sept 8. Weekly crude inventory releases are delayed: API to 04:30 BJT on Sept 10 (Thu) and EIA to 00:00 BJT on Sept 11 (Fri). Market participants should note the altered trading and data schedule.
-
----
-
-### 2026-09-07 21:21:14  #其他
-
-市場訊息：摩科瑞與貢沃爾受益於戰爭紅利，利潤實現翻倍以上增長。
-
----
-
-### 2026-09-07 21:20:33  #其他
-
-【四川省巴中市委原書記何平被開除黨籍和公職】日前，經四川省委批准，四川省紀委監委對中共四川省第十二屆委員會委員、巴中市委原書記何平嚴重違紀違法問題進行了立案審查調查。（新華社）
-
----
-
-### 2026-09-07 21:19:56  #國際
-
-歐盟委員會主席馮德萊恩：與法羅群島總理約翰內森舉行了一場非常順利的會談。歐盟與法羅群島的夥伴關係牢固且多元，涵蓋貿易、外交政策、教育以及科研等多個領域。我們探討了如何進一步拓展雙方合作，並攜手維護北極地區的安全與繁榮。
-
----
-
-### 2026-09-07 21:19:41  #MKT News #Star Stocks
-
-Xiaomi's Pengcheng N90 Max Explorer edition priced at 299,900 yuan.
-
----
-
-### 2026-09-07 21:19:35  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #Copper #S&P500
-
-【Goldman Sachs sharply raises optical-module market forecast; 2028 seen near $148.5 bln】Goldman Sachs in its latest global optical-module report materially raised industry forecasts, projecting the market at about $67.7 bln, $131.4 bln and $148.5 bln in 2026–2028—up roughly 33%, 81% and 115% versus its prior forecasts. Goldman says the revision is not solely driven by AI server unit growth but by a structural shift toward higher‑speed networking and a rising number of modules per GPU/ASIC, which should accelerate demand for 800G, 1.6T and 3.2T optics.
-
----
-
-### 2026-09-07 21:19:35  #MKT News #Market Themes #AI Revolution #IIVI.O #Impact bullish #LITE.O #GLW.O
-
-【Goldman Sachs sharply raises optical-module market forecast; 2028 market may near $150bn】Goldman Sachs sharply raised its global optical module market forecast, now projecting market size at about $67.7bn in 2026, $131.4bn in 2027 and $148.5bn in 2028—up 33%, 81% and 115% versus its prior outlook. Goldman says the revision reflects not just higher AI server counts but a structural shift to higher-speed networking in AI server architectures and a rising optical-module count per GPU/ASIC, driving rapid demand growth for 800G, 1.6T and 3.2T modules.
-
----
-
-### 2026-09-07 21:18:05  #觀點
-
-【高盛大幅上調光模組市場預測：2028年規模或近1500億美元】高盛在最新全球光模組報告中大幅上調行業預測，預計全球光模組市場規模將在2026年至2028年分別達到約677億美元、1314億美元和1485億美元，較此前預測上調33%、81%和115%。高盛認為，這輪上修並非單純來自AI伺服器數量增長，更重要的是AI伺服器架構持續向高速網路遷移，加上單顆GPU或ASIC晶片所需光模組數量增加，推動800G、1.6T乃至3.2T需求快速放量。
-
----
-
-### 2026-09-07 21:17:59  #國際
-
-【霍爾木茲海峽與曼德海峽的海運流量走勢出現顯著分化】船舶跟蹤機構MarineTraffic資料顯示，霍爾木茲海峽船舶通行量下降 28%，降至 77 艘次；載貨航次由 45 艘次降至 33 艘次。受制裁船隻及影子船隊通行數量從 50 艘次降至 23 艘次，另有 40 艘次航行路線無法確定，32 艘次採用伊朗單方面的通行機制。曼德海峽則呈現相反態勢，船舶通行量回升 9.7% 至 248 艘次，載貨航運量從 103 艘次增至 109 艘次。暗船通行量維持在 23 艘次附近，船舶遵守分道通航制比例約為 91%。資料顯示海灣航運面臨的壓力持續加大，而紅海航運的運營韌性依舊更強。
-
----
-
-### 2026-09-07 21:17:39  #國際
-
-【中國－中亞公安內務部長會晤機制非正式會晤舉行 王小洪主持並作主旨講話】中國－中亞公安內務部長會晤機制非正式會晤7日在京舉行，國務委員、公安部部長王小洪主持並作主旨講話。王小洪表示，中方願同中亞各國一道，積極踐行四大全球倡議，大力弘揚“中國－中亞精神”，合力打擊“三股勢力”，深化打擊跨國犯罪、移民管理、海外利益保護、執法能力建設等領域務實合作，加強高質量共建“一帶一路”重大專案安保，推動中國－中亞公安內務部長會晤機制成為中國－中亞各領域精誠合作典範，共同應對多元威脅，保障區域安全格局穩定向好，助力構建更加緊密的中國－中亞命運共同體。（新華社）
-
----
-
-### 2026-09-07 21:17:32  #MKT News #Market Regions #Greater China
-
-【Informal China–Central Asia public security ministers’ meeting held in Beijing】An informal meeting of China–Central Asia public security and interior ministers took place in Beijing on the 7th, chaired by State Councilor and Minister of Public Security Wang Xiaohong. China said it will deepen practical cooperation with Central Asian states on countering terrorism, separatism and extremism; tackling transnational crime; managing migration; protecting Chinese overseas interests; and building law enforcement capacity. Beijing also pledged enhanced security for major Belt and Road Initiative projects and urged the mechanism to serve as a model for cross-sector cooperation to jointly address diverse threats and support regional security stability.
-
----
-
-### 2026-09-07 21:16:30  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Breaks 3-Day Advance — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell by 1.4% to 3,575 points on Monday, snapping a three-day advance but staying near its highest levels since October 2021. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 2.2% to 6,286 points, also breaking a three-day wining streak but remaining close to its peak since December 2023. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, was down for a second session, falling 0.7% tp 2,431 points. Among smaller vessels, the supramax index went up by 0.4% to 1,682 points.
-
----
-
-### 2026-09-07 21:15:38  #國際
-
-北約發言人：9 月 8 日（週二），馬克・呂特將出席烏克蘭國防聯絡小組線上會議。
-
----
-
-### 2026-09-07 21:15:00  #其他
-
-土耳其對汽車零部件供應商發起反壟斷調查。
-
----
-
-### 2026-09-07 21:14:51  #MKT News
-
-Turkey opens antitrust probe into auto suppliers.
-
----
-
-### 2026-09-07 21:14:51  #MKT News #LMT.O #Impact bullish
-
-Sweden said the Lockheed Martin rocket artillery system order is worth about SEK 7 billion, with first deliveries scheduled for 2027.
-
----
-
-### 2026-09-07 21:14:27  #公司
-
-【建發集團與中遠海運集團簽署戰略合作協議】9月7日下午，廈門建發集團有限公司與中國遠洋海運集團有限公司在廈門簽署戰略合作協議。建發集團黨委書記、董事長許曉曦表示，建發集團正積極佈局新能源材料、人工智慧等新賽道，培育第二增長曲線，期待與中遠海運在新興領域探索合作空間。中遠海運集團董事、總經理林戟表示，雙方對人工智慧等前沿領域均高度重視並有相應投入，可深入對接探索合作空間。
 
 ---

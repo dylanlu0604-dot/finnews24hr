@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-13 02:41:53_
-_本檔包含 2435 則快訊，約 545521 字_
+_更新時間：2026-09-13 04:56:52_
+_本檔包含 2416 則快訊，約 544766 字_
+
+---
+
+### 2026-09-07 21:21:45  #Trading Economics #Markets #Commodity #Importance 1
+
+Lithium Drops to Near 1-Month Low — Lithium carbonate prices in China fell to CNY 147,000 per tonne in September, the lowest in nearly one month, as the outlook of higher production in Australia offset supply uncertainty in China. Industry players reiterated the outlook of ample supply from major producers to maintain the ongoing supply surplus through the next decade. These were led by Australian lithium producers, with Mineral Resources restarting its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project. A sharper pullback was prevented by more disruption in CATL's Jianxiawo mine, China's largest by capacity and responsible for 4% of global supply. Chinese authorities revoked their environmental approvals for the mine to extend the period of permit hurdles for over one year, coinciding with Beijing's anti-involution campaign and efforts to combat producer overcapacity.
+
+---
+
+### 2026-09-07 21:21:41  #MKT News
+
+【China Mobile Cloud launches AutoLab for Quantum research agent】Sept. 7 — China Mobile's cloud unit Mobile Cloud launched AutoLab for Quantum, a dialogue-as-experiment research agent targeting universities and research teams. No coding or complex environment setup is required: researchers describe goals in natural language and the agent autonomously builds and visualizes quantum circuits, runs noisy simulation, executes variational algorithms (VQE/QAOA) and Grover search, trains quantum neural networks, performs pulse‑level simulation and optimization, and supports paper retrieval and experiment reproduction.
+
+---
+
+### 2026-09-07 21:21:40  #其他
+
+【移動雲推出量子科研智慧體】9月7日，移動雲推出量子科研智慧體AutoLab for Quantum，面向高校與科研團隊提供“對話即實驗”的一站式科研服務。據介紹，科研人員無需繁瑣編碼和複雜環境配置，只需透過自然語言描述實驗目標，智慧體即可自主完成量子線路構建與視覺化、含噪模擬、VQE/QAOA等變分量子演算法實驗、Grover搜尋、量子神經網路訓練、脈衝級模擬與最佳化，以及論文檢索與實驗復現。
+
+---
+
+### 2026-09-07 21:21:38  #MKT News #Important #Commodities #Precious Metals #Energy #Market Regions #Wall Street (US) #WTI #Brent #XAUUSD
+
+【US, Canada markets closed for Labor Day; CME, ICE futures to close early】US and Canadian equity markets will be closed Monday Sept 7 for Labor Day. CME will end trading early on Beijing time (BJT) Sept 8: precious metals and US crude contracts at 02:30 BJT; equity index futures at 01:00 BJT. ICE will end Brent futures early at 01:30 BJT on Sept 8. Weekly crude inventory releases are delayed: API to 04:30 BJT on Sept 10 (Thu) and EIA to 00:00 BJT on Sept 11 (Fri). Market participants should note the altered trading and data schedule.
+
+---
+
+### 2026-09-07 21:21:14  #其他
+
+市場訊息：摩科瑞與貢沃爾受益於戰爭紅利，利潤實現翻倍以上增長。
+
+---
+
+### 2026-09-07 21:20:33  #其他
+
+【四川省巴中市委原書記何平被開除黨籍和公職】日前，經四川省委批准，四川省紀委監委對中共四川省第十二屆委員會委員、巴中市委原書記何平嚴重違紀違法問題進行了立案審查調查。（新華社）
+
+---
+
+### 2026-09-07 21:19:56  #國際
+
+歐盟委員會主席馮德萊恩：與法羅群島總理約翰內森舉行了一場非常順利的會談。歐盟與法羅群島的夥伴關係牢固且多元，涵蓋貿易、外交政策、教育以及科研等多個領域。我們探討了如何進一步拓展雙方合作，並攜手維護北極地區的安全與繁榮。
+
+---
+
+### 2026-09-07 21:19:41  #MKT News #Star Stocks
+
+Xiaomi's Pengcheng N90 Max Explorer edition priced at 299,900 yuan.
+
+---
+
+### 2026-09-07 21:19:35  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #Copper #S&P500
+
+【Goldman Sachs sharply raises optical-module market forecast; 2028 seen near $148.5 bln】Goldman Sachs in its latest global optical-module report materially raised industry forecasts, projecting the market at about $67.7 bln, $131.4 bln and $148.5 bln in 2026–2028—up roughly 33%, 81% and 115% versus its prior forecasts. Goldman says the revision is not solely driven by AI server unit growth but by a structural shift toward higher‑speed networking and a rising number of modules per GPU/ASIC, which should accelerate demand for 800G, 1.6T and 3.2T optics.
+
+---
+
+### 2026-09-07 21:19:35  #MKT News #Market Themes #AI Revolution #IIVI.O #Impact bullish #LITE.O #GLW.O
+
+【Goldman Sachs sharply raises optical-module market forecast; 2028 market may near $150bn】Goldman Sachs sharply raised its global optical module market forecast, now projecting market size at about $67.7bn in 2026, $131.4bn in 2027 and $148.5bn in 2028—up 33%, 81% and 115% versus its prior outlook. Goldman says the revision reflects not just higher AI server counts but a structural shift to higher-speed networking in AI server architectures and a rising optical-module count per GPU/ASIC, driving rapid demand growth for 800G, 1.6T and 3.2T modules.
+
+---
+
+### 2026-09-07 21:18:05  #觀點
+
+【高盛大幅上調光模組市場預測：2028年規模或近1500億美元】高盛在最新全球光模組報告中大幅上調行業預測，預計全球光模組市場規模將在2026年至2028年分別達到約677億美元、1314億美元和1485億美元，較此前預測上調33%、81%和115%。高盛認為，這輪上修並非單純來自AI伺服器數量增長，更重要的是AI伺服器架構持續向高速網路遷移，加上單顆GPU或ASIC晶片所需光模組數量增加，推動800G、1.6T乃至3.2T需求快速放量。
+
+---
+
+### 2026-09-07 21:17:59  #國際
+
+【霍爾木茲海峽與曼德海峽的海運流量走勢出現顯著分化】船舶跟蹤機構MarineTraffic資料顯示，霍爾木茲海峽船舶通行量下降 28%，降至 77 艘次；載貨航次由 45 艘次降至 33 艘次。受制裁船隻及影子船隊通行數量從 50 艘次降至 23 艘次，另有 40 艘次航行路線無法確定，32 艘次採用伊朗單方面的通行機制。曼德海峽則呈現相反態勢，船舶通行量回升 9.7% 至 248 艘次，載貨航運量從 103 艘次增至 109 艘次。暗船通行量維持在 23 艘次附近，船舶遵守分道通航制比例約為 91%。資料顯示海灣航運面臨的壓力持續加大，而紅海航運的運營韌性依舊更強。
+
+---
+
+### 2026-09-07 21:17:39  #國際
+
+【中國－中亞公安內務部長會晤機制非正式會晤舉行 王小洪主持並作主旨講話】中國－中亞公安內務部長會晤機制非正式會晤7日在京舉行，國務委員、公安部部長王小洪主持並作主旨講話。王小洪表示，中方願同中亞各國一道，積極踐行四大全球倡議，大力弘揚“中國－中亞精神”，合力打擊“三股勢力”，深化打擊跨國犯罪、移民管理、海外利益保護、執法能力建設等領域務實合作，加強高質量共建“一帶一路”重大專案安保，推動中國－中亞公安內務部長會晤機制成為中國－中亞各領域精誠合作典範，共同應對多元威脅，保障區域安全格局穩定向好，助力構建更加緊密的中國－中亞命運共同體。（新華社）
+
+---
+
+### 2026-09-07 21:17:32  #MKT News #Market Regions #Greater China
+
+【Informal China–Central Asia public security ministers’ meeting held in Beijing】An informal meeting of China–Central Asia public security and interior ministers took place in Beijing on the 7th, chaired by State Councilor and Minister of Public Security Wang Xiaohong. China said it will deepen practical cooperation with Central Asian states on countering terrorism, separatism and extremism; tackling transnational crime; managing migration; protecting Chinese overseas interests; and building law enforcement capacity. Beijing also pledged enhanced security for major Belt and Road Initiative projects and urged the mechanism to serve as a model for cross-sector cooperation to jointly address diverse threats and support regional security stability.
+
+---
+
+### 2026-09-07 21:16:30  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Breaks 3-Day Advance — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell by 1.4% to 3,575 points on Monday, snapping a three-day advance but staying near its highest levels since October 2021. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 2.2% to 6,286 points, also breaking a three-day wining streak but remaining close to its peak since December 2023. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, was down for a second session, falling 0.7% tp 2,431 points. Among smaller vessels, the supramax index went up by 0.4% to 1,682 points.
+
+---
+
+### 2026-09-07 21:15:38  #國際
+
+北約發言人：9 月 8 日（週二），馬克・呂特將出席烏克蘭國防聯絡小組線上會議。
+
+---
+
+### 2026-09-07 21:15:00  #其他
+
+土耳其對汽車零部件供應商發起反壟斷調查。
+
+---
+
+### 2026-09-07 21:14:51  #MKT News
+
+Turkey opens antitrust probe into auto suppliers.
+
+---
+
+### 2026-09-07 21:14:51  #MKT News #LMT.O #Impact bullish
+
+Sweden said the Lockheed Martin rocket artillery system order is worth about SEK 7 billion, with first deliveries scheduled for 2027.
+
+---
+
+### 2026-09-07 21:14:27  #公司
+
+【建發集團與中遠海運集團簽署戰略合作協議】9月7日下午，廈門建發集團有限公司與中國遠洋海運集團有限公司在廈門簽署戰略合作協議。建發集團黨委書記、董事長許曉曦表示，建發集團正積極佈局新能源材料、人工智慧等新賽道，培育第二增長曲線，期待與中遠海運在新興領域探索合作空間。中遠海運集團董事、總經理林戟表示，雙方對人工智慧等前沿領域均高度重視並有相應投入，可深入對接探索合作空間。
 
 ---
 
@@ -14467,239 +14587,5 @@ Al Jazeera reported Israeli forces struck the outskirts of Rafid town in souther
 ### 2026-09-06 05:05:32  #國際
 
 埃及外交部：埃及外長和阿曼外交大臣呼籲維護海上航行安全，保障該水道貿易與能源物資持續流通。
-
----
-
-### 2026-09-06 04:49:01  #國際
-
-俄羅斯總統普京與美國特使會晤時間長達三小時。
-
----
-
-### 2026-09-06 04:47:25  #MKT News
-
-Dmitriev, aide to the Russian president, said the U.S. special envoy’s visit to Moscow is an important peace‑brokering visit.
-
----
-
-### 2026-09-06 04:46:09  #國際
-
-俄羅斯總統助理德米特里耶夫：美國特使出訪莫斯科為“重要的和平斡旋訪問”。
-
----
-
-### 2026-09-06 04:41:27  #MKT News
-
-【Isar Aerospace's rocket successfully launches】Isar Aerospace's "Spectrum" rocket lifted off from a Norwegian launch site carrying five small satellites and reached orbit roughly four minutes after liftoff. It was Isar's second launch attempt this year after prior delays from weather, technical issues and an errant vessel. The 28m vehicle can deliver about 1,000kg to LEO, substantially smaller than SpaceX rockets; Isar says the smaller size helps place satellites into specific orbits and differentiate its offering. The company completed a €270m ($313m) financing this year and is aiming to achieve the first commercial orbital launch from continental Europe.
-
----
-
-### 2026-09-06 04:22:19  #其他
-
-德國初創企業Isar Aerospace表示，其無人太空火箭在挪威發射後成功進入軌道。
-
----
-
-### 2026-09-06 04:22:14  #MKT News
-
-German startup Isar said its uncrewed launch vehicle successfully reached orbit after a launch from Norway.
-
----
-
-### 2026-09-06 04:18:36  #MKT News
-
-German startup Isar launched an unmanned space rocket from a Norwegian base.
-
----
-
-### 2026-09-06 04:17:51  #MKT News
-
-Israeli military says it fired an interceptor missile at one of its own drones in the Gaza Strip after a misidentification. The incident is under review; no casualties reported.
-
----
-
-### 2026-09-06 04:16:14  #國際
-
-以色列軍方：在加沙地帶，因識別失誤，向己方無人機發射了攔截彈。
-
----
-
-### 2026-09-06 04:15:15  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq's oil minister said the country has raised oil export capacity to more than 3.0 mln barrels per day.
-
----
-
-### 2026-09-06 04:14:07  #其他
-
-伊拉克石油部長表示，伊拉克已將石油出口能力提升至每日300萬桶以上。
-
----
-
-### 2026-09-06 04:13:58  #公司
-
-德國初創公司Isar Aerospace的無人運載火箭從挪威發射基地發射升空。
-
----
-
-### 2026-09-06 04:09:28  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran lawmaker says Iran used ballistic missiles against US warship, calls clash 'life-or-death'】Al Jazeera quoted a senior Iranian lawmaker and parliamentary National Security Commission spokesman saying Iran had used ballistic missiles to strike a US warship. He said Tehran and Washington are engaged in a "life-or-death" battle, accused US military action of violating international law and warned Iran may change its rules of engagement. He added the blockade should not exist, a memorandum of understanding has lapsed, and that Iran’s president offered to return to talks at the Bishkek summit four days ago but US officials ignored the offer and instead escalated the blockade.
-
----
-
-### 2026-09-06 04:04:57  #MKT News
-
-Meeting between Russian President Putin, U.S. presidential envoy Witkoff and Kushner concluded.
-
----
-
-### 2026-09-06 04:04:19  #焦點 #國際
-
-俄羅斯總統普京與美國代表維特科夫和庫什納的會談結束。
-
----
-
-### 2026-09-06 04:00:55  #國際
-
-【伊朗革命衛隊：已打擊3艘與美國有關聯船隻及3艘油輪】當地時間5日晚，伊朗伊斯蘭革命衛隊海軍在一份宣告中稱，“美國軍隊出於霍爾木茲海峽被封鎖的絕望，襲擊伊朗三艘油輪，造成損失”。對此，伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽對三艘油輪以及三艘與美國有關聯的船隻進行了打擊。革命衛隊海軍警告稱，所有在波斯灣的船隻應避免在非法航道通行，否則其必將成為打擊目標。截至目前，美方暫未予以證實。（央視新聞）
-
----
-
-### 2026-09-06 04:00:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC naval force says it attacked three 'unauthorized' tankers in Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it attacked three tankers using 'unauthorized' routes in the Strait of Hormuz and three vessels linked to the United States in other areas. The IRGC navy warned all vessels operating in the Persian Gulf or the Strait of Hormuz not to be "deceived" by US forces and to avoid any suspicious attempts to transit 'unauthorized' waterways, saying such ships would otherwise become targets.
-
----
-
-### 2026-09-06 04:00:00  #國際
-
-伊朗革命衛隊海軍警告波斯灣及霍爾木茲海峽附近所有船隻，禁止開展“可疑活動”。
-
----
-
-### 2026-09-06 03:55:12  #國際
-
-伊朗一名高階官員：我們正與美國進行一場關乎生死存亡的戰爭。
-
----
-
-### 2026-09-06 03:51:07  #MKT News
-
-Irish Prime Minister Micheál Martin will urge U.S. President Trump next Saturday to end the conflict with Iran, the Times reports.
-
----
-
-### 2026-09-06 03:45:32  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it struck three U.S. vessels in other waters; the U.S. has not confirmed.
-
----
-
-### 2026-09-06 03:44:00  #國際
-
-愛爾蘭總理米歇爾·馬丁將向特朗普施壓，要求結束伊朗衝突。
-
----
-
-### 2026-09-06 03:41:53  #國際
-
-伊朗革命衛隊海軍稱，已在其他海域打擊三艘美國船隻。美方暫未予以證實。
-
----
-
-### 2026-09-06 03:40:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) navy said it struck three vessels that transited the Strait of Hormuz via unauthorized routes.
-
----
-
-### 2026-09-06 03:38:55  #焦點 #國際
-
-伊朗革命衛隊海軍發表宣告稱，其已對三艘沿未經授權航線透過霍爾木茲海峽的船隻採取打擊行動。
-
----
-
-### 2026-09-06 03:34:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli Prime Minister Netanyahu said if Israel had not acted earlier, Iran would now possess a nuclear weapon capable of destroying Israel; he warned Tehran is trying again and is regrouping.
-
----
-
-### 2026-09-06 03:31:40  #國際
-
-以色列總理內塔尼亞胡談及伊朗：倘若我們當初沒有對伊朗採取行動，如今伊朗就已經擁有旨在消滅我們的原子彈。現在他們會再度嘗試。他們正在捲土重來。
-
----
-
-### 2026-09-06 03:27:38  #MKT News
-
-【MAGA Inc. files $10m donation to Paxton, first midterm contribution; Trump pledges $400-500m, PAC raised near $1bn】Politico reported a filing published Saturday shows Trump-linked super PAC MAGA Inc. will donate $10m to Ken Paxton's Senate campaign, marking the group's first midterm election contribution. Republicans had pressed Trump to deploy his campaign reserves to help Paxton in Texas. At a White House Oval Office briefing, Trump said he would commit possibly $400-500m to the midterms and that MAGA has raised close to $1bn and is under his control.
-
----
-
-### 2026-09-06 03:21:03  #MKT News
-
-【Qatar PM, Lebanese PM discuss de-escalation and maritime security】Qatari prime minister and foreign minister Sheikh Mohammed spoke by phone with the Lebanese prime minister, urging calm amid rising regional tensions and discussing de-escalation measures and maritime security. Qatar reiterated support for diplomatic efforts to safeguard freedom of navigation and to pave the way for a comprehensive agreement toward durable regional peace, and reaffirmed backing for Lebanon's stability and territorial integrity.
-
----
-
-### 2026-09-06 03:16:33  #其他
-
-卡達總理同黎巴嫩總理就地區局勢降溫、海上安全問題舉行磋商。
-
----
-
-### 2026-09-06 03:15:40  #MKT News
-
-Politico reports MAGA Inc., the super PAC aligned with Trump, has deployed US$10 mln to Texas — its first election-season expenditure this year.
-
----
-
-### 2026-09-06 03:14:01  #國際
-
-俄羅斯總統普京對美國特使庫什納與威特科夫表示：調解工作的質量，以及對斡旋人員所寄予的信任，當然至關重要。我想告訴你們，與你們開展合作令我方感到踏實，在整個程序當中，我方的信任程度相當高。
-
----
-
-### 2026-09-06 03:13:19  #國際
-
-特朗普旗下“讓美國再次偉大”超級政治行動委員會（MAGA Inc.）向得克薩斯州投入1000萬美元，這是該機構本年度首次大選階段開支。
-
----
-
-### 2026-09-06 03:04:08  #MKT News
-
-【Greece unveils €2.2bln 2027 support package】Greek Prime Minister Mitsotakis announced a €2.2bln (about $2.56bln) economic support package for 2027 to ease cost-of-living pressures. Measures focus on the self-employed, pensioners, farmers and large families and include raising the minimum wage from €920 to €1,000 effective January 2028. Authorities say the 2026 budget is expected to again exceed targets, providing headroom for subsidies and tax cuts; the government says the measures will not jeopardize public finances and will comply with EU budget rules.
-
----
-
-### 2026-09-06 02:52:52  #國際
-
-巴勒斯坦紅新月會：以色列襲擊加沙城圖法赫社群，造成3人受傷。
-
----
-
-### 2026-09-06 02:47:44  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Putin says Russia will seek to secure safety of U.S.-Ukraine talks; halts airstrikes on Kyiv under three-day ceasefire】On the evening of the 5th, President Putin met U.S. envoys at the Kremlin, outlined details of a three-day ceasefire and said Russia will seek to ensure the safety of U.S.-Ukraine negotiations and mediation personnel. Putin said Russian intelligence and diplomatic channels received a request to stop strikes on Kyiv and he ordered an immediate halt to airstrikes on the Ukrainian capital from midnight. He added Ukraine has sharply reduced attacks on Russian territory, including Moscow, by roughly an order of magnitude. Putin said Ukraine proposed a broader three-day ceasefire, which Russia did not accept.
-
----
-
-### 2026-09-06 02:47:41  #國際
-
-以色列軍方：在摧毀阿里·塔赫爾山脊地下隧道後，準備縮減黎巴嫩南部駐軍規模。
-
----
-
-### 2026-09-06 02:47:11  #國際
-
-【普京：俄方將努力確保美烏談判程序和調解人員安全】當地時間5日晚間，俄羅斯總統普京在克里姆林宮與美國總統特朗普的特使威特科夫和女婿庫什納舉行會談，介紹俄烏達成“三日停火”的細節，並表示俄方將努力確保美烏談判程序和調解人員安全。
-
----
-
-### 2026-09-06 02:45:55  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Iran analyst says Tehran has plan to push oil above $100/bbl】Ali Akbar Darelni of Tehran’s Strategic Research Center called a US strike on an Iranian tanker a major issue and said Iran will not leave it unanswered. He said the US maritime blockade and sanctions are putting severe pressure on Tehran, that Iran is preparing measures to break the blockade and retaliate more forcefully, and that Iran has plans to push oil prices above $100 per barrel.
 
 ---

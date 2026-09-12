@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-13 02:41:53_
-_本檔包含 2753 則快訊，約 545853 字_
+_更新時間：2026-09-13 04:56:52_
+_本檔包含 2742 則快訊，約 545157 字_
+
+---
+
+### 2026-09-10 09:03:43  #市場 #焦點
+
+乙二醇連續主力合約日內漲4%，現報6038.00元。
+
+---
+
+### 2026-09-10 09:02:35  #市場 #焦點
+
+現貨黃金突破4410美元/盎司，日內漲0.20%。
+
+---
+
+### 2026-09-10 09:01:49  #公司
+
+【比亞迪：第二代刀片電池產線改造與擴產穩步推進，閃充車型訂單需求充足】比亞迪9月10日在互動平臺表示，第二代刀片電池產線改造與擴產穩步推進，目前閃充車型訂單需求充足，公司將全力推進產能釋放。
+
+---
+
+### 2026-09-10 09:01:12  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 366.64 points lower, or 0.78%, at 46,816.72 on Thursday, Sept. 10.
+
+---
+
+### 2026-09-10 09:00:34  #MKT News #CSI300 #Impact bearish
+
+FTSE China A50 futures opened down 0.49%.
+
+---
+
+### 2026-09-10 09:00:25  #其他
+
+臺灣證交所加權股價指數開低0.1%報47,130.96。
+
+---
+
+### 2026-09-10 09:00:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 0.73% in early trade on Sept 10 to 954.09 yuan/gram; silver T+D gained 1.38% to 16,325 yuan/kg.
+
+---
+
+### 2026-09-10 09:00:19  #MKT News #Commodities #Industrial Metals
+
+Coking coal front-month futures slid more than 2% intraday to 1,628.50 yuan/ton.
+
+---
+
+### 2026-09-10 09:00:18  #其他
+
+【賦能新質生產力 我國首個地球系統資料國際交換中心啟動建設】今天，中國氣象局、澳門特別行政區、橫琴粵澳深度合作區三方簽署共建合作框架協議，明確以3年為建設期、3年為運營期，在橫琴建成地球系統資料國際交換中心（澳門）。此舉旨在進一步建設培育資料要素開發利用生態，搭建地球系統資料合作橋樑，打造高水平對外開放平臺，推動優質資料產品與服務能力輸出，形成粵港澳大灣區地球系統資料要素統一大市場，賦能合作區數字經濟等新質生產力發展和澳門經濟適度多元發展，在全球資料治理與數字發展中貢獻中國力量。
+
+---
+
+### 2026-09-10 09:00:04  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報6018.00元。
+
+---
+
+### 2026-09-10 09:00:04  #市場 #焦點
+
+燃料油連續主力合約日內漲4%，現報4114.00元。
+
+---
+
+### 2026-09-10 09:00:03  #市場
+
+富時中國A50指數期貨開盤下跌0.40%。
+
+---
+
+### 2026-09-10 09:00:03  #其他
+
+沙特民防部門表示，海米斯穆謝特與艾卜哈的險情已解除。
+
+---
+
+### 2026-09-10 09:00:02  #市場
+
+【商品期貨開盤】上海原油連續漲7.02%，苯乙烯連續漲5.62%，純苯連續漲5.54%，燃料油連續漲4.58%，丙烯連續漲4.09%，乙二醇連續漲3.74%，瀝青連續漲2.99%，甲醇連續漲2.76%，短纖連續漲2.73%，聚丙烯連續漲2.57%。
+
+---
+
+### 2026-09-10 08:58:39  #公司 #國際
+
+【墨西哥對華有色浮法玻璃作出反傾銷初裁】2026年9月9日，墨西哥經濟部發布公告，對原產於中國的厚度大於等於2毫米且小於等於19毫米的有色浮法玻璃作出反傾銷肯定性初裁，初步決定對涉案產品徵收臨時反傾銷稅，稅額為0.11917美元/千克，涉案產品的TIGIE稅號為7005.21.03。措施自公告發布次日起生效，有效期為六個月。（中國貿易救濟資訊網）
+
+---
+
+### 2026-09-10 08:57:51  #其他
+
+【貴陽推進特大型社群供電配網自動化改造】記者日前從南方電網貴陽供電局獲悉，貴陽市花果園特大型社群10千伏線路饋線組自動化改造工程正穩步推進，目前已完成多個饋線組的改造除錯，整體建設按計劃實施。據介紹，該工程是貴陽市配電網智慧化升級的一項重點專案，旨在破解高密度城區供電瓶頸。（經參報）
+
+---
+
+### 2026-09-10 08:57:24  #其他
+
+【英國民航局：受系統故障影響旅客可能無權獲賠償】據英國方面9日訊息，英國航班管理系統8日發生的故障已導致超2000架次航班被取消。英國民航局說，受影響旅客可能無權獲得賠償。英國民航局9日發表宣告說，此次故障導致的航班執行受擾可能被認定為旅客權益規定中的“特殊狀況”，因此受影響旅客可能無法獲得賠償。
+
+---
+
+### 2026-09-10 08:57:09  #其他
+
+【9月9日300股獲融資買入超億元 中際旭創穫買入23.86億元居首】9月9日共有3520只個股獲融資資金買入，有300股買入金額超億元。其中，中際旭創、華工科技、東山精密融資買入金額排名前三，分別獲買入23.86億元、17.88億元、15.07億元。
+
+---
+
+### 2026-09-10 08:56:59  #宏觀 #市場 #觀點 #國際
+
+【中金財富期貨：美元信用損失對金價的提振，遠大於美債收益率上行和通脹對黃金的壓力】美國財政部宣佈，將於週四進行最多60億美元的10年至20年期美國國債回購，但60億美元遠低於華爾街樂觀預期規模100億，美債收益率繼續上行，對金價形成一定壓制。我們昨日強調過，美元信用損失對金價的提振，遠大於美債收益率上行和通脹對黃金的壓力，可繼續關注黃金調整之後的買入機會。
+
+---
+
+### 2026-09-10 08:56:53  #其他
+
+【AI需求引爆“芯”進口 一個終端訂單 拉動一串跨國採購】海關總署統計，2026年上半年積體電路進口2980.2億美元，同比增長55.8%，連續30個月同比增長。6月當月，我國積體電路進口額同比增長72.3%至596億美元，連續第三個月創造月度進口紀錄。國際貨運代理企業直接感受到進口貨物的變化：AI相關光模組、儲存部件進口單月環比增幅超50%。同時，貨物不再只留在珠三角，越來越多流向長三角和中西部產業園。在深圳，以積體電路為代表的機電產品進口需求不僅支撐本地製造業的升級，也承接來自全國各地的採購需求。中國AI企業龐大的需求給全球半導體產業鏈帶來了實實在在的採購訂單。不僅深圳，上海口岸同樣表現亮眼。洋山港碼頭，來自歐美等地的工程機械發動機、鏟齒、連桿等零部件批次到港，保障國內特種工程領域生產。今年前七個月，我國進口機電產品5.31萬億元，增長達29.7%。（央視）
+
+---
+
+### 2026-09-10 08:56:15  #其他
+
+沙特民防部門對海米斯穆謝特和阿卜哈釋出緊急警報。
+
+---
+
+### 2026-09-10 08:55:42  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Steadies Ahead of Key Inflation Data — The dollar index held around 98.8 on Thursday, pausing its recent decline as investors awaited key inflation figures that could shape the Federal Reserve’s next policy decision. The US producer price index for August is due later today, followed by the consumer inflation report on Friday. Other major economic releases scheduled for today include weekly jobless claims and existing home sales data. Markets are currently pricing in roughly a 60% probability of a 25-basis-point rate hike by the Fed next week following stronger-than-expected jobs data. Meanwhile, Treasury yields surged after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, three times the usual amount, though the move still disappointed some investors who had anticipated a larger increase. Elsewhere, oil prices moved higher as the US-Iran conflict intensified, stoking inflation concerns and strengthening expectations for near-term rate hikes.
+
+---
+
+### 2026-09-10 08:55:09  #其他
+
+【蘋果多款機型同步漲價 iPhone 17漲價800元】據北京日報，在蘋果秋季新品系列釋出後，蘋果官網進行更新，記者注意到，iPhone Air、iPhone 17、iPhone 17e等老機型同步漲價。其中，iPhone 17統一漲價800元，256G記憶體的從5999元漲到6799元，512G記憶體的從7999元漲到8799元。
+
+---
+
+### 2026-09-10 08:54:24  #其他
+
+【“中國購物車”越裝越大！萬億級掃貨清單惠及全球】今年前8個月，我國貨物貿易進出口總值34.77萬億元，同比增長17.6%，進口14.6萬億元，增長22%。每天數百億元商品從全球各地湧入中國。從AI晶片到智利車釐子，從衣索比亞鮮花到紐西蘭巖龍蝦，“中國購物車”越裝越大，車裡裝的不僅是消費品，更是全球產業鏈的協同脈搏。（央視）
+
+---
+
+### 2026-09-10 08:52:58  #其他
+
+【澳大利亞政府推進設立20%天然氣儲備的計劃】澳大利亞工黨政府正在推進一項計劃，擬設立該國首個國內天然氣儲備，以期緩解企業和家庭飆升的能源成本。澳大利亞聯邦能源部長Chris Bowen週四宣佈了一項立法方案，將允許提取20%的出口天然氣以供應國內使用者。Bowen表示，該目標將確保國內天然氣市場始終處於適度供過於求的狀態。
+
+---
+
+### 2026-09-10 08:52:41  #國際
+
+特朗普抵達達拉斯共和黨全國代表大會現場。
+
+---
+
+### 2026-09-10 08:52:03  #公司
+
+【趙一德趙剛與中國石化董事長侯啟軍一行座談】據陝西日報，9月8日，陝西省委書記趙一德、省長趙剛在西安與中國石油化工集團有限公司黨組書記、董事長侯啟軍一行座談。趙一德說，面向“十五五”，希望中國石化與陝西持續加強戰略對接與規劃銜接，不斷深化產學研融通創新，推動更多高階能源化工、綜合能源服務、清潔能源開發等優質專案落地陝西，共同為保障國家能源安全、服務能源強國建設作出更大貢獻。我們將全力打造一流營商環境，用心用情做好服務保障，為企業在陝發展創造良好條件。侯啟軍表示，集團將圍繞構建“一基兩翼三鏈四新”產業新格局，精準對接陝西需求，深化油氣勘探開發、基礎設施建設等領域務實合作，拓展地熱開發、風光發電新業務新賽道。
+
+---
+
+### 2026-09-10 08:47:43  #其他
+
+【兩市融資餘額較上日減少31.94億元】截至9月9日，上交所融資餘額報13378.63億元，較前一交易日減少20.83億元；深交所融資餘額報12731.61億元，較前一交易日減少11.11億元；兩市合計26110.24億元，較前一交易日減少31.94億元。
+
+---
+
+### 2026-09-10 08:47:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Margin balances across both exchanges fall 3.193 bln yuan】As of Sept 9, Shanghai Stock Exchange margin balance stood at 1,337.863 bln yuan, down 2.083 bln yuan from the prior trading day; Shenzhen Stock Exchange stood at 1,273.161 bln yuan, down 1.11 bln; combined margin balance was 2,611.024 bln yuan, down 3.193 bln.
+
+---
+
+### 2026-09-10 08:47:02  #其他
+
+【特斯拉降價後有門店爆單 多個汽車品牌開啟促銷 “價格戰”又來了？】特斯拉降價衝上熱搜後，多家門店爆單了。“昨天（9月7日）早上政策一出來，訂單訊息就沒斷過。”9月8日，某特斯拉體驗中心銷售顧問告訴記者，Model Y長續航版是消費者最關注的車型，截至9月7日下午，其所在的門店已鎖定20多個訂單。9月7日，特斯拉中國宣佈，即日起至9月30日（含）前下單並提車，Model 3全系現車現金激勵5000元，Model Y全系現車現金激勵1萬元。這並非孤立事件。據記者不完全統計，截至目前已有超過十家車企在9月集中釋放購車權益，覆蓋新勢力、自主、合資與豪華品牌。（每經）
+
+---
+
+### 2026-09-10 08:45:58  #國際
+
+【伊朗批評國際原子能機構理事會透過的伊核決議 】伊朗外交部副部長加里巴巴迪9日批評國際原子能機構理事會當天透過的由英國、法國、德國共同推動的伊核問題決議，該決議主張將相關伊核問題提交至聯合國安理會。 加里巴巴迪在社交媒體上發文說，一些國家襲擊伊朗受國際原子能機構保障監督的核設施、干擾正常核查程序，隨後又以核查受阻為由，推動國際原子能機構理事會透過這項決議，這種做法既無法彌補有關國家政策和行動的失敗，也無法在聯合國安全理事會取得任何成果。（新華社）
+
+---
+
+### 2026-09-10 08:45:52  #MKT News
+
+【US midterm election ad spending tops $6 bln】With the post-Labor Day sprint to November underway, political ad spending in the 2025-26 US election cycle has topped $6 billion, Ad Impact data reported by the Wall Street Journal. By comparison, the 2021-22 cycle did not hit $6 billion until Oct. 12, and the 2023-24 cycle reached that level on Sept. 24.
+
+---
+
+### 2026-09-10 08:45:07  #資料 #市場 #觀點 #國際
+
+【華泰證券：能源及食品價格推升8月表觀通脹】華泰證券表示，往前看，近期中東局勢擾動加劇，且美國拋儲、庫存消耗等“緩衝墊”逐步退坡，油價可能維持高位，輸入性價格仍對PPI形成拉動；同時，物流擾動疊加極端氣候推動今年全球糧食價格上漲，或對今年四季度國內食品價格回升形成支撐。
+
+---
+
+### 2026-09-10 08:43:42  #國際
+
+【美軍在加勒比海打擊“販毒船” 致3人死亡】當地時間9月9日，美國南方司令部發表宣告稱，“西半球聯合特遣部隊”對一艘在加勒比海既定販毒路線上活動的快艇實施了打擊，此次行動中打死了3名“毒品恐怖分子”。有情報顯示“該船隻積極參與販毒活動”。自2025年9月初以來，美軍在加勒比海和東太平洋對美方指稱的所謂“販毒船”進行多次打擊，但美方一直未公佈任何可以證明其攻擊目標涉毒的證據。
+
+---
+
+### 2026-09-10 08:42:17  #國際
+
+【美國擊沉八艘油輪仍難阻伊朗打擊美艦 威懾效果受質疑】美國透過打擊伊朗油輪來報復美國軍艦遇襲的策略面臨一個關鍵障礙：德黑蘭很可能認為，在美國驅逐艦上炸出一個窟窿的價值，要高於損失一艘空載貨輪。美國中央司令部表示，在伊朗兩次以導彈襲擊美國海軍艦艇後，美軍過去數日已“摧毀”八艘油輪。軍事分析人士將這一政策稱為“懲罰性威懾”的一部分。被襲擊的伊朗船隻隸屬於伊斯蘭革命衛隊，該組織是獨立於伊朗正規軍之外的一支強大力量。Stimson Center高階研究員Kelly Grieco表示，雖然將伊朗油輪從運輸船隊中移除會對伊斯蘭革命衛隊及伊朗經濟造成損害，但德黑蘭會認為擊中一艘價值數十億美元的美國海軍艦艇，是一個極具吸引力的機會。她指出，特朗普政府此前首輪擊沉油輪的行動，並未阻止伊朗隨後繼續襲擊美國海軍。“如果成功擊中目標，將傳遞出美國海軍並非能夠不受代價地行動的資訊，使德黑蘭獲得一個既可在國內、也可在國際上宣揚的勝利，”Grieco表示。“失去油輪當然會造成損失，但德黑蘭很可能認為這是值得付出的代價。”
+
+---
+
+### 2026-09-10 08:42:10  #MKT News
+
+FHFA director said the agency will immediately incorporate Fannie Mae and Freddie Mac internal credit-score data into MBS, CRT and other securitized products.
+
+---
+
+### 2026-09-10 08:41:39  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #Copper
+
+U.S. Treasury Secretary Bessent said indicators from GDP to factory payrolls are broadly heating up, and the industrial cycle is shifting from an investment phase into a production phase.
 
 ---
 
@@ -16345,293 +16567,5 @@ U.S. Supreme Court denied Missouri's request to use a Republican-drawn congressi
 ### 2026-09-09 05:23:51  #市場 #國際
 
 美國財長貝森特：重申美國債券市場表現優於其他市場。目前正試圖為債券市場降溫。
-
----
-
-### 2026-09-09 05:23:14  #國際
-
-伊朗伊斯蘭共和國通訊社：美軍襲擊賈斯克外海的商船。
-
----
-
-### 2026-09-09 05:22:19  #國際
-
-美國財長貝森特：美債市場的論調十分荒謬。
-
----
-
-### 2026-09-09 05:21:53  #國際
-
-美國財長貝森特：8 月，美債市場的主流論調是天要塌了。
-
----
-
-### 2026-09-09 05:21:33  #MKT News
-
-Colombia's president says he will participate responsibly in efforts to stabilize the region.
-
----
-
-### 2026-09-09 05:21:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) director Mark Stevens reported the sale of 1.02 mln NVIDIA common shares in transactions executed Sept. 3-4 at $227.25–$234.04 per share.
-
----
-
-### 2026-09-09 05:19:49  #國際
-
-美國財長貝森特：市場並非有效，市場由人主導，而人會犯錯。
-
----
-
-### 2026-09-09 05:19:12  #國際
-
-市場訊息：美國商務部長盧特尼克將前往墨西哥，參與貿易對話。
-
----
-
-### 2026-09-09 05:18:24  #國際
-
-哥倫比亞總統：該國需要美國在雷達、飛機及其他領域提供援助以打擊犯罪。
-
----
-
-### 2026-09-09 05:18:11  #MKT News
-
-Colombian president said after meeting US Secretary of State Rubio that Colombia seeks to be Washington's primary partner in counternarcotics operations.
-
----
-
-### 2026-09-09 05:17:43  #國際
-
-哥倫比亞總統：哥倫比亞希望成為美國打擊毒品販運方面的首要盟友。
-
----
-
-### 2026-09-09 05:17:30  #MKT News
-
-Politico reports US Commerce Secretary Lutnick is expected to meet Wednesday local time with Mexican President sheinbaum and Mexico's economy minister EBRARD to discuss trade issues, including US tariffs on Mexican autos and metal products.
-
----
-
-### 2026-09-09 05:15:36  #市場
-
-富時A50期指連續夜盤收漲0.10%，報14578點。
-
----
-
-### 2026-09-09 05:15:32  #國際
-
-派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。
-
----
-
-### 2026-09-09 05:12:44  #國際
-
-美國國務卿魯比奧：美國與哥倫比亞在能源、貿易及商務領域尚有大量工作待推進。
-
----
-
-### 2026-09-09 05:12:13  #其他
-
-市場訊息：派拉蒙天空之舞採取措施防範延期產生的成本，華納兄弟探索併購交易即將完成。
-
----
-
-### 2026-09-09 05:10:35  #國際
-
-【聯合國秘書長敦促恢復俄烏談判】聯合國秘書長古特雷斯的發言人迪雅裡克8日稱，古特雷斯希望最近的外交努力能夠使俄羅斯和烏克蘭恢復談判。迪雅裡克在8日的例行記者吹風會上說，古特雷斯對於包括美國特使訪問莫斯科和基輔在內的外交努力感到鼓舞。他希望新的倡議能夠使得烏克蘭和俄羅斯恢復談判，為立即無條件全面停火以及達成符合國際法的公平、全面、持久和平鋪平道路。聯合國方面願意為此提供協助。（央視新聞）
-
----
-
-### 2026-09-09 05:10:27  #MKT News #WTI #Impact bullish #Brent
-
-South Korea's presidential office said Iran expressed interest and sought clarification over reports of South Korea's involvement in Strait of Hormuz affairs.
-
----
-
-### 2026-09-09 05:10:20  #國際
-
-訊息人士：美國恢復匈牙利、波蘭移民簽證審理，其餘地區仍維持暫停狀態。
-
----
-
-### 2026-09-09 05:10:11  #國際
-
-【英法加領導人發表聯合宣告譴責以色列擴張定居點】當地時間9月8日，英國首相伯納姆、法國總統馬克龍、加拿大總理卡尼當天發表聯合宣告，譴責以色列在約旦河西岸地區擴張，呼籲落實“兩國方案”。宣告說，透過“兩國方案”解決巴以衝突，對中東及更廣泛地區的和平、穩定、安全至關重要，也符合英法加三國根本利益。約旦河西岸以色列定居點系統性擴張，包括以色列政府“E1區”定居點建設決定，以及猶太人定居者暴力行為，對和平願景構成直接且緊迫的威脅。宣告說，英法加三國已正式承認巴勒斯坦國，致力於維護“兩國方案”。根據國際法，這些定居點屬於非法機構。三國決定禁止從定居點進口商品，並對定居點及相關人員實施針對性制裁。 (央視新聞)
-
----
-
-### 2026-09-09 05:10:09  #MKT News
-
-South Korea's presidential office said Seoul and Paris discussed contributing to security in the Strait of Hormuz, not deploying troops.
-
----
-
-### 2026-09-09 05:09:55  #市場 #央行 #國際
-
-【富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率】富國銀行援引彙總自2015年以來的資料說，美聯儲通常會在市場消化的利率變動機率超過69%時加息或降息。該銀行表示，週五公佈的消費者價格指數“可能決定”美聯儲下週會議採取何種行動。分析師Ohsung Kwon等人週二說，自1994年以來，在加息週期中首次上調後的三個月內標普500指數平均下跌3%。在過去的六次緊縮週期中，該指數只上升過一次。
-
----
-
-### 2026-09-09 05:09:49  #MKT News
-
-South Korea's presidential office said a review of Seoul's role in the Strait of Hormuz is unrelated to U.S.-South Korea investment negotiations.
-
----
-
-### 2026-09-09 05:09:21  #市場
-
-週二（9月8日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7068元，較週一紐約尾盤漲24點，日內整體交投於6.7115-6.7061元區間。
-
----
-
-### 2026-09-09 05:09:05  #國際
-
-【特朗普指示政府採購剔除加拿大產品】美國總統特朗普當地時間9月8日在社交媒體平臺發帖，再次指責加拿大“多年來一直在佔美國的便宜”，並稱加拿大在向美國施加“貿易騙局”。特朗普稱，“加拿大聯邦及各省政府，禁止美國中小企業進入加拿大的政府採購市場。可與此同時，加拿大卻可以充分進入規模龐大的美國政府採購市場，包括美國各州的政府採購。從現在起，沒有互惠就別想進入我們的市場！我特此指示美國總務管理局會同美國貿易代表辦公室，採取一切必要措施，將加拿大原產產品從總務管理局的多重授予採購計劃中移除，除非加拿大恢復對美國農民和企業的全面公平互惠。”特朗普在帖文中稱，“這些採購涉及的年貿易額超過500億美元。這事兒早該被之前的政府切斷了，就像我當年做的那樣，可結果卻被‘瞌睡喬’拜登恢復了。” (CCTV國際時訊)
-
----
-
-### 2026-09-09 05:09:05  #MKT News
-
-U.S. Secretary of State Rubio said after meeting Colombia's president that security and prosperity are the primary priorities in U.S.-Colombia relations.
-
----
-
-### 2026-09-09 05:09:05  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bearish #BX.N
-
-【Alphabet-Blackstone $5bn AI data-center project Project Braid delayed】People familiar said Alphabet (GOOG.O) and Blackstone (BX.N)’s $5bn AI cloud project Project Braid has encountered data-center construction delays. The project, backed by Blackstone’s $5bn investment and intended to lease Google AI-chip compute to customers in 2027, had planned for developer Crusoe to build a Cheyenne, Wyoming site; Alphabet canceled that arrangement, took over the build and refiled permits after losing confidence in Crusoe’s ability to deliver. Crusoe has been involved in OpenAI and ORACLE’s Texas “Stargate” facility. Another planned site is stalled by a shortage of required transformers. Sources said AI data-center development is being constrained by power-equipment supply bottlenecks and permitting delays. Project Braid’s head said the programme is proceeding and aims to provide 500 MW of compute capacity next year.
-
----
-
-### 2026-09-09 05:08:44  #國際
-
-美國國務卿魯比奧：安全與繁榮是美哥關係的首要議題。
-
----
-
-### 2026-09-09 05:08:22  #央行 #國際
-
-“新債王”岡拉克：美國收益率將繼續上升。美聯儲基準利率應提高50個基點。美國2年期收益率與聯邦基金利率不同步。
-
----
-
-### 2026-09-09 05:08:09  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC)
-
-GUNDLACH says U.S. 2-year yield is not tracking the federal funds rate.
-
----
-
-### 2026-09-09 05:07:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Gundlach says the Federal Reserve's policy rate should be raised by 50 bps.
-
----
-
-### 2026-09-09 05:07:43  #其他
-
-“新債王”岡拉克：應規避全球 30 年期債券的風險敞口。
-
----
-
-### 2026-09-09 05:07:30  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-Gundlach said investors should avoid 30-year bonds globally and that U.S. yields will continue to rise.
-
----
-
-### 2026-09-09 05:07:07  #國際
-
-哥倫比亞與美國簽署民用核合作諒解備忘錄（MOU）。
-
----
-
-### 2026-09-09 05:06:58  #國際
-
-韓國總統辦公室：韓國在霍爾木茲海峽所扮演角色的相關評估，與美韓投資談判並無關聯。
-
----
-
-### 2026-09-09 05:06:43  #國際
-
-美國國務卿魯比奧：美國與哥倫比亞進入前所未有的合作階段。
-
----
-
-### 2026-09-09 05:06:11  #Trading Economics #Economy #Chile #Interest Rate #Importance 1
-
-Chile Central Bank Holds Key Rate at 4.5% — Chile’s central bank unanimously kept its benchmark interest rate unchanged at 4.5% in September, citing heightened uncertainty from the Middle East conflict, rising oil prices and persistent global inflation risks. Oil has approached $100 a barrel, while copper prices climbed above $6.50 a pound. Domestically, economic activity remained weaker than expected in the second quarter and early third quarter, accompanied by slowing domestic demand, job losses and a higher unemployment rate. Headline inflation rose to 4.1% in August, driven by volatile components, while core inflation held at 3.3%. Inflation expectations remain anchored at 3% over two years. The central bank said monetary policy would continue to be assessed meeting by meeting, with risks from the conflict and the possibility of a more prolonged domestic slowdown requiring close monitoring.
-
----
-
-### 2026-09-09 05:06:05  #公司
-
-CoreWeave 執行長：向資料中心垂直整合能夠加強對基礎設施的掌控。
-
----
-
-### 2026-09-09 05:05:34  #國際
-
-韓國總統辦公室：伊朗對相關報道表示關注，並就韓國在霍爾木茲海峽的角色相關報道尋求解釋。
-
----
-
-### 2026-09-09 05:05:19  #MKT News
-
-Chile's central bank said it will take necessary measures to ensure expected inflation reaches 3% within two years.
-
----
-
-### 2026-09-09 05:04:59  #國際
-
-韓國總統辦公室：韓法雙方討論了為霍爾木茲海峽安全提供支援，並未談及兵力部署。
-
----
-
-### 2026-09-09 05:03:43  #Trading Economics #Economy #El Salvador #Inflation Rate #Importance 1
-
-El Salvador Inflation Picks Up in August — Annual inflation in El Salvador accelerated to 3.19% in August 2026 from 2.49% in July, the highest reading since July 2023. Price growth accelerated for food and non-alcoholic beverages (3.65% vs 2.49%), alcoholic beverages and tobacco (2.62% vs 2.11%), health (0.54% vs 0.39%), transport (2.91% vs 2.57%), communications (8.23% vs 4.95%), and miscellaneous goods and services (2.14% vs 1.96%). Clothing and footwear inflation increased to 2.62% from 2.11%. Meanwhile, inflation moderated for education (3.30% vs 3.65%). Deflation was recorded in housing and utilities (-0.32% vs 0.05%), and recreation and culture (-0.91% vs -0.90%). Inflation for furniture and household goods remained unchanged at 1.90%, while restaurant and hotel prices were unchanged at a flat inflation reading.
-
----
-
-### 2026-09-09 05:03:34  #MKT News #Market Regions #Emerging Markets
-
-Chile's central bank kept its policy rate unchanged at 4.50%, in line with market expectations.
-
----
-
-### 2026-09-09 05:03:13  #央行 #其他
-
-智利央行：經濟前景仍面臨高度不確定性，將做出必要決策，確保通脹預期在兩年週期內達到 3%。預計本國經濟將在 2027 年逐步好轉，不排除當前經濟疲軟態勢持續的可能性。
-
----
-
-### 2026-09-09 05:02:00  #國際
-
-美國聯邦航空管理局（FAA）將調查從里根國家機場（DCA）起飛、遭遇鳥擊的西南航空航班。
-
----
-
-### 2026-09-09 05:01:33  #央行 #其他
-
-智利央行：利率未來走勢將逐次會議評估。
-
----
-
-### 2026-09-09 05:00:02  #央行 #其他
-
-智利央行維持基準利率在4.5%不變；預期為4.50%。
-
----
-
-### 2026-09-09 04:54:28  #MKT News
-
-【80th UN General Assembly closes; Bangladesh foreign minister sworn in as next UNGA president】The 80th UN General Assembly held its closing session on the 8th. Outgoing president Annalena Baerbock spoke; Bangladesh foreign minister Khalil Rahman was sworn in as the next UNGA president and received the gavel from Baerbock.
-
----
-
-### 2026-09-09 04:53:35  #其他
-
-【第80屆聯大閉幕 孟加拉國外長就任下屆聯大主席】第80屆聯合國大會8日舉行閉幕會。第80屆聯大主席安娜萊娜·貝爾伯克致辭，孟加拉國外長卡利勒·拉赫曼宣誓就任下一屆聯大主席，並從貝爾伯克手中接過聯大議事槌。貝爾伯克說，第80屆聯大工作重點是聯合國改革、捍衛《聯合國憲章》、促進發展以及下一任聯合國秘書長遴選，同時開啟了人工智慧管理這一全球性議題的討論。第80屆聯大共召集18場高階別會議，開展26項政府間程序，舉行116次聯大正式全體會議，透過317項決議。聯合國秘書長古特雷斯在現場講話中說，第80屆聯大是在人類面臨武裝衝突不斷、國際體系缺陷導致不公與貧困等複雜挑戰背景下召開的。在當今動盪時代，所有國家必須團結起來，共同努力尋求出路。拉赫曼在閉幕會後的記者見面會上表示，多邊主義正面臨前所未有的挑戰，同時世界也面臨前所未有的機會，尤其在新技術領域。第81屆聯大擔負著重大責任，他將直面挑戰並抓住機會，重視合作與對話，盡最大努力尋求共識。 (央視新聞)
 
 ---

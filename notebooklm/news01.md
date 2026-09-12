@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-13 02:41:53_
-_本檔包含 2699 則快訊，約 546038 字_
+_更新時間：2026-09-13 04:56:52_
+_本檔包含 2719 則快訊，約 545370 字_
+
+---
+
+### 2026-09-13 04:50:38  #MKT News
+
+【Saudi says Houthi attack wounded 2】Saudi civil defence said on the evening of the 12th that Tuwal district in Jazan province was hit by an attack by Yemen’s Houthi militia, wounding two people and damaging multiple buildings and some vehicles. The agency said the strike on civilian targets violated international humanitarian law and was handled per established procedures. The Houthi militia said Saudi warplanes carried out 129 airstrikes across seven Yemeni provinces in the past 48 hours and warned the raids "will not go unanswered and unpunished."
+
+---
+
+### 2026-09-13 04:43:07  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Saudi Arabia and Yemen's internationally recognized government said they will deploy warplanes to strike Houthi targets around Mokha and the Bab al-Mandeb Strait. They said the operation will rely on airstrikes targeting Houthi personnel and any military concentrations.
+
+---
+
+### 2026-09-13 04:42:35  #其他
+
+【沙特稱葉門胡塞武裝襲擊造成2人受傷】沙烏地阿拉伯民防總局12日晚發表宣告說，沙特賈贊省圖沃勒縣當天遭到葉門胡塞武裝的襲擊，造成2人受傷、多棟建築和一些車輛受損。（新華社）
+
+---
+
+### 2026-09-13 04:35:33  #央行 #國際
+
+【歐洲央行行長拉加德：當前價格衝擊持續時間將更久】歐洲央行行長拉加德表示，歐元區通脹仍將在一段時間內維持高位。自伊朗戰爭推高油氣價格以來，歐洲央行本週第二次加息。歐洲央行週四釋出的最新預測顯示，2027年和2028年通脹水平將高於此前預期，其中2028年通脹將小幅高於目標值。
+
+---
+
+### 2026-09-13 04:29:35  #公司
+
+【Altman表示OpenAI今年不會IPO 需要推進安全相關工作】OpenAI不會在2026年上市，Sam Altman在接受採訪時表示，原因是需要開展與安全相關的工作。在週六刊發的採訪中，Altman表示，由於圍繞人工智慧的安全擔憂，今年進行首次公開募股“時機不合適”，因此IPO要到2027年才會進行。該公司於6月份以保密方式提交了IPO檔案，不過已經表示上市時間仍未確。
+
+---
+
+### 2026-09-13 04:28:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+【Axios: US losing status as default destination for arms purchases, capital parking and international students】Axios reports the United States is increasingly no longer the default choice for governments to buy weapons, for other countries to park funds, or as a destination for international students. The piece warns even modest shifts away from the US could erode Washington’s decades-long economic and geopolitical advantages.
+
+---
+
+### 2026-09-13 04:13:47  #MKT News
+
+ECB President Christine Lagarde said she will leave the European Central Bank in 2027 and does not plan to return to French politics, saying she is not suited to be a candidate for the French presidency.
+
+---
+
+### 2026-09-13 04:13:20  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #DXY #Impact bullish
+
+ECB President LAGARDE said the AI sector could experience a pullback, but the timing is unclear. Valuations in the AI space are very high.
+
+---
+
+### 2026-09-13 04:12:44  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #Brent #Impact bullish #DXY
+
+ECB President LAGARDE said the European economy is resilient. She warned the current inf shock will last longer and that market volatility and energy price pressures are likely to persist.
+
+---
+
+### 2026-09-13 04:11:35  #央行 #國際
+
+歐洲央行行長拉加德：預計波動和能源價格壓力將持續。
+
+---
+
+### 2026-09-13 04:11:15  #央行 #國際
+
+歐洲央行行長拉加德：認為自己並不適合作為法國總統候選人。
+
+---
+
+### 2026-09-13 04:10:50  #央行 #國際
+
+歐洲央行行長拉加德：我不考慮重返法國政壇。
+
+---
+
+### 2026-09-13 04:10:45  #央行 #國際
+
+歐洲央行行長拉加德：將於2027年卸任歐洲央行行長一職。
+
+---
+
+### 2026-09-13 04:07:52  #央行 #國際
+
+歐洲央行行長拉加德：人工智慧領域的資產估值非常高。
+
+---
+
+### 2026-09-13 04:07:45  #央行 #國際
+
+歐洲央行行長拉加德：人工智慧板塊回撥何時發生尚不明朗。
+
+---
+
+### 2026-09-13 04:07:25  #市場 #央行 #國際
+
+歐洲央行行長拉加德：取消法國債務在金融層面極具風險。
+
+---
+
+### 2026-09-13 04:07:17  #央行 #國際
+
+歐洲央行行長拉加德：人工智慧板塊出現回撥完全有可能。
+
+---
+
+### 2026-09-13 04:04:35  #央行 #國際
+
+歐洲央行行長拉加德：預計市場波動與能源價格壓力仍將持續。
+
+---
+
+### 2026-09-13 04:04:22  #央行 #國際
+
+歐洲央行行長拉加德：當前通脹衝擊持續時間將更久。
+
+---
+
+### 2026-09-13 04:04:04  #央行 #國際
+
+歐洲央行行長拉加德：（歐洲）經濟具備韌性。
+
+---
+
+### 2026-09-13 04:01:56  #其他
+
+卡達首相兼外交大臣謝赫·穆罕默德·本·阿卜杜勒拉赫曼·本·賈西姆·阿勒薩尼與約旦副首相兼外交大臣艾曼·薩法迪就緩和地區緊張局勢的相關舉措展開磋商。
+
+---
+
+### 2026-09-13 03:51:53  #MKT News
+
+【Analysis: Houthi blockade of Bab el‑Mandeb 'extremely unlikely'】Control Risks maritime security analyst Aaran Kennedy said expansion of Houthi-controlled areas does not necessarily signal more attacks on merchant shipping and that a full blockade of the Bab el‑Mandeb Strait is "extremely unlikely." He said recent gains consolidate their position in the Red Sea and make attacks easier, but do not imply an imminent broadening of maritime strikes; the advance does, however, place weapons closer to key shipping lanes and increases Houthi operational capability.
+
+---
+
+### 2026-09-13 03:51:27  #公司 #國際
+
+【俄稱普京不會在G20峰會見澤連斯基】當地時間9月12日，據俄羅斯媒體報道，俄羅斯總統新聞秘書佩斯科夫在回答外國媒體提問時表示，俄羅斯總統普京與烏克蘭總統澤連斯基“不可能在二十國集團（G20）邁阿密峰會上會面”，普京是否出席峰會目前也“尚未確定”。他重申，兩人的會晤“只能在莫斯科舉行”，“澤連斯基若是真想見普京，可以來莫斯科，這一邀請依然有效”。 澤連斯基當天早些時候表示，如果普京出席今年12月舉行的二十國集團峰會，他將前往美國邁阿密與其會面。（CCTV國際時訊）
+
+---
+
+### 2026-09-13 03:43:13  #公司
+
+強生正洽談將迪普伊辛特斯骨科業務出售給阿波羅公司。
+
+---
+
+### 2026-09-13 03:34:04  #MKT News #Important
+
+【Altman: OpenAI will not IPO this year, safety work remains】OpenAI founder Altman said the company will not go public this year and he does not expect an IPO in 2026, saying substantial safety work remains. His comments follow an Anthropic employee resignation and stern warning about AI capabilities. Markets had anticipated large IPOs from OpenAI and Anthropic this year; Altman’s statement shifts near-term IPO timing pressure onto Anthropic CEO Dario Amodei, who on Saturday urged a slowdown in AI development.
+
+---
+
+### 2026-09-13 03:29:36  #MKT News #Important
+
+OpenAI founder Altman said the company will not go public this year, citing substantial remaining safety work.
+
+---
+
+### 2026-09-13 03:27:01  #公司 #焦點
+
+OpenAI CEO奧特曼：鑑於AI安全方面的顧慮，當前進行IPO時機尚不成熟。
+
+---
+
+### 2026-09-13 03:25:49  #公司 #焦點
+
+OpenAI CEO奧特曼：OpenAI不會在2027年前進行IPO。
+
+---
+
+### 2026-09-13 03:18:23  #公司
+
+加拿大總理辦公室：總理卡尼將於9月15日至17日訪問法國斯特拉斯堡和英國利物浦，並在此期間會見英國首相伯納姆。
+
+---
+
+### 2026-09-13 03:14:53  #MKT News #Market Regions #Europe & UK
+
+【Canadian PM Mark Carney to meet UK PM Andy Burnham for first time】Canadian Prime Minister Mark Carney will meet UK Prime Minister Andy Burnham in Liverpool during a Sept. 15-17 visit that also includes Strasbourg, the Prime Minister's Office said. They are expected to discuss defense and security, energy, AI and critical minerals. The meeting coincides with EU-Canada negotiations on a comprehensive trade-and-security agreement, a process the statement said is increasing pressure on Burnham as he seeks closer ties with the EU.
+
+---
+
+### 2026-09-13 03:14:47  #其他
+
+【法國檢方：暫無證據表明列車脫軌事故涉及恐襲】法國魯昂檢方當地時間9月12日表示，目前沒有證據表明日前發生在濱海塞納省的列車脫軌事故涉及恐怖襲擊，也沒有證據證明有人蓄意使列車脫軌。魯昂檢方表示，警方技術和科學勘查已經完成，並進行了多次詢問，但目前仍無法解釋為何一段來自另一條軌道的鋼軌會出現在正在使用的線路上。此前，這起列車脫軌事故造成44人受傷。 (央視新聞)
+
+---
+
+### 2026-09-13 03:02:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthi says Saudi jets carried out 129 airstrikes in Yemen in 48 hours】Houthi spokesman Yahya Sarea said on social media on the evening of Sept. 12 that Saudi warplanes carried out 129 airstrikes across Taiz, Marib, Hodeidah, al-Jawf, Saada, Amran and Hajjah provinces over the past 48 hours. He named F-15 and Typhoon fighters as the aircraft, saying they operated from Khamis Mushait and Taif military bases, and said the Houthis would "respond and punish" the strikes. The group also said it has stepped up offensives against Yemeni government forces and the Saudi-led coalition, seizing strategic sites along the Red Sea coast and the Bab al-Mandeb.
+
+---
+
+### 2026-09-13 03:02:23  #其他
+
+【胡塞稱沙特48小時129次空襲葉門】葉門胡塞武裝發言人葉海亞·薩雷亞當地時間9月12日晚在社交媒體平臺釋出宣告稱，過去48小時內，沙特方面戰機對葉門塔伊茲省、馬裡卜省、荷臺達省、焦夫省、薩達省、阿姆蘭省和哈傑省發動129次空襲。宣告稱，實施空襲的戰機包括F-15戰鬥機和“颱風”戰鬥機。戰機從沙特的海米斯穆謝特和塔伊夫的軍事基地起飛。葉海亞·薩雷亞表示，胡塞武裝將對這些針對葉門民眾的襲擊進行“回應和懲罰”。葉門局勢近來急劇升級。胡塞武裝與沙特互襲。在葉門境內，胡塞武裝還加大攻勢，與葉門政府軍、沙特主導的聯軍持續衝突，並接連奪取紅海沿岸、曼德海峽戰略要地。（CCTV國際時訊）
+
+---
+
+### 2026-09-13 02:59:30  #MKT News
+
+Saudi civil defense said a shell landed in Jizan province, injuring two. A shell fired by Yemeni Houthi forces also caused material damage to a mosque, several buildings and multiple vehicles.
+
+---
+
+### 2026-09-13 02:59:22  #其他
+
+沙特民防部門稱，葉門胡塞武裝發射的炮彈擊中沙特吉贊致兩人受傷，還對多棟建築及車輛造成損失。
+
+---
+
+### 2026-09-13 02:52:27  #其他
+
+【中國VR短片《鴿環》獲威尼斯電影節沉浸單元大獎】中國VR短片《鴿環》12日獲得第83屆威尼斯國際電影節“威尼斯沉浸單元”最高獎項——“威尼斯沉浸大獎”。（新華社）
+
+---
+
+### 2026-09-13 02:49:59  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+Tesla said it will hold a launch event on Oct. 1 but gave no details on the product to be unveiled.
+
+---
+
+### 2026-09-13 02:48:52  #其他 #焦點
+
+特斯拉預告將於10月1日舉辦產品釋出活動，暫未公佈釋出產品名稱。
+
+---
+
+### 2026-09-13 02:43:34  #國際
+
+【伊朗南部格什姆島方向傳出爆炸聲】據伊朗方面12日訊息，伊朗南部格什姆島方向兩度傳出爆炸巨響。訊息稱，爆炸聲來自海面。（央視新聞）
 
 ---
 
@@ -16185,119 +16419,5 @@ China A-share session opened sharply lower: Shanghai Composite Index down over 1
 ### 2026-09-11 09:34:27  #MKT News #Commodities #Industrial Metals
 
 China front-month coke futures fell 2.0% intraday to 2,085.50 yuan/ton.
-
----
-
-### 2026-09-11 09:34:10  #其他
-
-【工信部等九部門：推動人工智慧模型、智慧體等技術創新 並率先在汽車行業落地應用】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，加強人工智慧基礎能力建設。推動人工智慧模型、智慧體等技術創新，並率先在汽車行業落地應用。加快汽車人工智慧應用中試基地建設，促進行業企業透過公有自有相結合的方式建設智算設施。鼓勵企業開放更多應用場景，推動構建人工智慧技術全面應用新生態。深化人工智慧技術車端應用。加強人工智慧在整車能量管理、運動控制、多模態人機互動、個性化及主動服務、智慧故障預判等方面的應用。透過車內跨域協同，實現艙駕融合、全場景自適應調控等功能。促進汽車與智慧機器人、智慧家居、智慧穿戴等生態互聯。
-
----
-
-### 2026-09-11 09:33:36  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Set for Weekly Loss — The Australian dollar held its recent decline below $0.72, staying near its lowest in more than a week and on track for a weekly loss as the US dollar strengthened alongside a sharp rise in Treasury yields. The greenback gained after US producer inflation came in stronger, reinforcing expectations that the Fed could raise rates next week. A sharp rise in Treasury yields also underpinned the dollar following lower-than-expected purchases by the US Treasury Department during its first expanded buyback operation. Meanwhile, oil prices continued to rise above $100 per barrel amid the escalating Middle East tensions, raising inflation risks and expectations that central banks may keep policy tighter for longer. Markets ramped up bets on a fourth rate hike this year by the Reserve Bank of Australia, with swaps now implying an 84% chance of a 25-bp increase at the upcoming meeting this month. Markets also expect the cash rate to reach 4.85% by early next year, its highest level since 2008.
-
----
-
-### 2026-09-11 09:33:25  #其他
-
-【九部門：加快人工智慧在汽車研產供銷服各環節的全面賦能和深度融合】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，推動全產業鏈數智化轉型。把握數字化、網路化、智慧化趨勢，加快人工智慧在汽車研產供銷服各環節的全面賦能和深度融合。推動產業鏈供應鏈數字化協同升級和資料共享互通，打造新型“整車—零部件協同”模式。持續開展智慧工廠梯度培育和推廣，壯大汽車行業數字化轉型促進中心等專業化服務隊伍，提升行業數智化轉型服務能力。加快汽車行業工業控制系統更新換代。
-
----
-
-### 2026-09-11 09:33:24  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-A-share grain sector rebounded after intraday volatility; Xin Nong Development hit the daily limit, while Yalian Development, Heizhima, Qiule Seed, Kangnong Seed and Suken Agricultural Development also rose.
-
----
-
-### 2026-09-11 09:33:21  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper
-
-【MIIT and eight ministries to deepen auto circulation and consumption reform pilots】Nine ministries led by the Ministry of Industry and Information Technology issued the 15th Five-Year Plan for intelligent, connected new-energy vehicle (NEV) industry development and ordered coordinated implementation, with task allocations, annual work priorities, dynamic monitoring, and midterm and summary evaluations. The plan directs implementation of NEV tax incentives and accelerates removal of restrictive measures on vehicle circulation and consumption, promoting new purchase/use management models. It backs trade-in programs, NEV promotion to rural areas, city bus fleet and power‑battery replacements, and deepens NEV auto‑insurance reform by optimizing commercial motor‑insurance base rates. It also tightens cross‑region used‑car circulation management and supports expansion of used‑car dealer models.
-
----
-
-### 2026-09-11 09:33:18  #MKT News #DXY #Impact bullish #USDJPY
-
-Malaysian ringgit fell to 4.073 per U.S. dollar, its weakest level since Aug. 17.
-
----
-
-### 2026-09-11 09:33:10  #公司 #市場
-
-【零售板塊短線走高，中百集團、南寧百貨漲停】零售板塊短線走高，中百集團、南寧百貨漲停，國光連鎖、國芳集團、東百集團、友好集團、中央商場、新華百貨跟漲。
-
----
-
-### 2026-09-11 09:32:49  #公司 #市場
-
-【有色板塊震盪下挫 精藝股份跌停】早盤有色板塊震盪下挫，銅方向領跌，精藝股份跌停，北方銅業、西部礦業、雲南銅業、金誠信、洛陽鉬業均跌超5%。
-
----
-
-### 2026-09-11 09:32:34  #MKT News #Important #Commodities #Precious Metals #601899.SS #Impact bearish
-
-A-share precious metals sector fell in early trade: Xingye Silver & Tin and Hunan Baiyin dropped more than 5%, Zijin Mining fell over 4.5%; Western Gold, Zhaojin Gold and China National Gold also declined.
-
----
-
-### 2026-09-11 09:32:28  #其他
-
-【智慧網聯新能源汽車產業發展“十五五”規劃：滾動實施產業鏈高質量發展行動】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，提高產業鏈韌性和安全水平。滾動實施產業鏈高質量發展行動，攻克關鍵基礎材料、作業系統、工業軟體、汽車晶片和元器件等短板技術，用好首批次材料、首版次軟體等政策，持續擴大應用規模。統籌鋰、鈷、鎳等關鍵礦產資源開採與迴圈利用。
-
----
-
-### 2026-09-11 09:31:57  #MKT News #Market Regions #Greater China #Copper #Impact bullish
-
-【MIIT and eight ministries issue 15th Five-Year NEV plan prioritizing high‑power chargers, V2G and green energy integration】China’s Ministry of Industry and Information Technology and eight other ministries published the 15th Five‑Year Plan for the intelligent connected new‑energy vehicle (NEV) industry, directing accelerated build‑out of charging and battery‑swap infrastructure and strategic deployment of high‑power charging facilities. The plan mandates closing rural charging shortfalls and improving charging/swapping service efficiency, scaling vehicle‑grid interaction (V2G) applications while exploring sustainable business models, and coordinating NEV development with green power and green hydrogen. It also pushes wider adoption of new‑energy heavy trucks in trunk logistics and specified short‑distance transport scenarios.
-
----
-
-### 2026-09-11 09:31:49  #市場 #焦點
-
-上證指數跌1.02%，現報3894.401點；深證成指跌0.98%，現報13483.698點；創業板指跌0.56%，現報3319.751點。
-
----
-
-### 2026-09-11 09:31:41  #市場
-
-【糧食概念板塊短線走高，新農開發漲停】糧食概念板塊短線走高，新農開發漲停，亞聯發展、黑芝麻、秋樂種業、康農種業、蘇墾農發跟漲。
-
----
-
-### 2026-09-11 09:31:35  #市場
-
-【宇樹科技總市值跌破2000億 股價自上市首日最高點跌超55%】早盤人形機器人龍頭宇樹科技低開1.66%，續創上市以來新低，股價自8月19日上市首日最高點跌超55%，總市值跌破2000億元。
-
----
-
-### 2026-09-11 09:31:15  #公司
-
-【上海電氣與國家電投集團共謀“十五五”能源產業鏈協同創新】據上海電氣訊息，9月10日上午，國家電力投資集團（簡稱“國家電投集團”）有限公司黨組書記、董事長劉明勝同到訪的上海電氣集團黨委書記、董事長吳磊舉行會談，雙方就能源裝備產業鏈升級、科技創新突破及“十五五”新型能源體系建設等話題展開深入交流。劉明勝表示，面對全球能源變革，國家電投集團正積極佈局“十五五”新型能源體系，希望雙方繼續深化多領域合作，在新能源開發、新一代煤電技術升級等方面加強溝通協作，共同開拓合作空間。吳磊表示，面向“十五五”新階段，上海電氣願在既有良好合作基礎上，與國家電投集團在重型燃氣輪機國產化、供應鏈協同等方面深化多層次合作。
-
----
-
-### 2026-09-11 09:31:09  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Holds Gains Ahead of CPI Report — The dollar index held above 99 on Friday after rebounding in the previous session, as investors prepared for the latest US consumer price index report that could cement bets for a Federal Reserve rate hike next week. Data released Thursday showed US producer inflation accelerated last month as the Iran war pushed wholesale energy prices higher. Markets are now pricing in roughly a 71% probability of a 25-basis-point Fed rate increase next week, up from 61% before the PPI data. Treasury yields also jumped after the US Treasury Department's first expanded buyback operation yielded lower-than-expected purchases. Meanwhile, oil prices surged above $100 a barrel as the US and Iran showed little indication of backing down from the conflict, raising concerns over prolonged disruptions to global energy supplies and persistent inflationary pressures.
-
----
-
-### 2026-09-11 09:31:08  #市場
-
-中證轉債指數開盤下跌0.29%。金誠轉債、金25轉債、瑞可轉債、合金轉債、頎中轉債跌幅居前，分別跌4.16%、3.04%、2.55%、2.21%、2.15%。優彩轉債、貴燃轉債、藍曉轉02、三江轉債、珂瑪轉債漲幅居前，分別漲15.96%、1.69%、0.94%、0.78%、0.76%。
-
----
-
-### 2026-09-11 09:30:55  #其他
-
-【事關智慧網聯新能源汽車產業，未來五年這樣幹】工業和資訊化部今天（11日）釋出了《智慧網聯新能源汽車產業發展“十五五”規劃》。記者注意到，面向2030年，規劃提出了一個總目標，四個細分目標。據瞭解，一個總目標是：到2030年，我國智慧網聯新能源汽車全產業鏈優勢進一步鞏固，進入世界汽車強國行列，國內市場新能源乘用車、商用車在各自領域新車總銷量的佔比分別達到70%、40%，具備自動駕駛功能的汽車實現規模應用。四個細分目標包括：關鍵技術水平有效提升。乘用車平均燃料消耗量達到每百公里3.3升、純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右。高速公路、城市快速路、部分城市道路等場景實現高度自動駕駛。在產業結構上，行業數智化發展達到較高水平，全員勞動生產率較2025年提升15%。培育形成若干家進入全球銷量前十的整車企業和全球百強零部件企業。在國際化上，中國汽車品牌具有較高美譽度，國際標準法規制定的話語權進一步提升。此外，在經濟社會效益上，汽車產業國民經濟支柱地位進一步凸顯，在2030年前實現碳達峰，帶動供應鏈加速綠色低碳轉型。搭載自動駕駛系統車輛的安全效能大幅提升等。（央視新聞）
-
----
-
-### 2026-09-11 09:30:55  #MKT News #Market Themes #AI Revolution #SSE Composite #Impact bullish #Hang Seng Index #CNH #Impact mixed
-
-【MIIT and eight ministries to accelerate automotive AI pilot base construction】China's Ministry of Industry and Information Technology and eight other ministries issued the '15th Five-Year' plan for the intelligent connected new-energy vehicle (NEV) industry, calling to strengthen foundational AI capabilities. The plan pushes innovation in AI models and agent technologies and prioritizes initial deployment in the automotive sector. It directs accelerated construction of automotive AI application pilot bases and urges industry players to build intelligent-computing capacity through a mix of public/shared and self-owned facilities. It also encourages firms to open more application scenarios and to foster a comprehensive AI application ecosystem.
 
 ---
