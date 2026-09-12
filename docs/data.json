@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-12 21:18:05",
-  "count": 13595,
+  "updated": "2026-09-12 21:21:57",
+  "count": 13598,
   "items": [
+    {
+      "id": "5090832",
+      "time": "2026-09-12 21:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨議員敦促美國國家能源委員會主席道格·伯古姆對油價採取行動。"
+    },
+    {
+      "id": "mkt:01a095c5-e12d-7118-8557-495a7e92cd48",
+      "time": "2026-09-12 21:19:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Congolese government data show confirmed Ebola cases (excluding death toll) have exceeded 7,000."
+    },
+    {
+      "id": "5090831",
+      "time": "2026-09-12 21:18:16",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行據悉駁回了塔塔之子公司（Tata Sons）避免公開上市的請求。"
+    },
     {
       "id": "5090829",
       "time": "2026-09-12 21:13:22",
