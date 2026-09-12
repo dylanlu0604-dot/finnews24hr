@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-12 14:04:49",
-  "count": 13469,
+  "updated": "2026-09-12 14:08:42",
+  "count": 13472,
   "items": [
+    {
+      "id": "mkt:01a09439-a867-7118-8554-443ee820d28e",
+      "time": "2026-09-12 14:06:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reports Iraqi MP Mohammed Hasanawi warned that US interference — including control over many key sectors — has so far prevented formation of Iraq's cabinet."
+    },
+    {
+      "id": "mkt:01a09438-aa9a-7118-8554-3f50c610706f",
+      "time": "2026-09-12 14:05:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China national supercomputing internet users top 1.7 million】At the 2026 China Computing Power Conference on Sept 12, Sugon vice president Cao Zhennan said China's national supercomputing internet platform has 1.7 million registered users and has completed more than 270 million jobs, with domestic compute accounting for over 95%. The platform aggregates more than 3.5 million CPU cores and 250,000 GPU cards, averages about 300,000 jobs per day with a peak above 1 million, and its application marketplace hosts over 880 vendors with more than 240,000 orders; primary uses cited include scientific research, AI and industrial simulation."
+    },
+    {
+      "id": "5090608",
+      "time": "2026-09-12 14:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克議會代表就美國干涉內政發出警告。"
+    },
+    {
+      "id": "5090607",
+      "time": "2026-09-12 14:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家超算網際網路使用者突破170萬】9月12日，中科曙光副總裁曹振南在2026中國算力大會主論壇上披露，國家超算網際網路註冊使用者量已突破170萬，累計完成作業量突破2.7億個，國產算力佔比超95%。曹振南介紹，國家超算網際網路平臺已匯聚CPU核心超350萬、GPU卡超25萬，日均作業數突破30萬個，峰值突破100萬個。平臺應用商城入駐商戶超880家，下單量超24萬，覆蓋科研創新、人工智慧、工業模擬等領域。"
+    },
+    {
+      "id": "mkt:01a09437-eabd-7118-8554-3068600f7391",
+      "time": "2026-09-12 14:04:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russian Defence Ministry said Russian forces used the \"Pelargonium\" drone to strike a military supply depot in Kyiv region."
+    },
     {
       "id": "mkt:01a09437-1d9e-7118-8554-2ab40f617cfa",
       "time": "2026-09-12 14:03:55",
@@ -17,6 +64,14 @@
         "MKT News"
       ],
       "text": "Wall Street Journal reports Latin American allies are intensifying cooperation with the Trump administration on combating drug trafficking, signaling stronger regional support for Washington's counter-narcotics operations."
+    },
+    {
+      "id": "5090606",
+      "time": "2026-09-12 14:01:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【四部門：到2030年基本建成多層次農業保險體系】近日，財政部、農業農村部、金融監管總局、國家林草局等四部門聯合印發《關於加快農業保險高質量發展的實施方案》，明確到2030年，基本建成多層次農業保險體系。根據實施方案，要充分發揮農業保險在價格、補貼、保險“三位一體”農業支援政策體系中的重要一環作用。到2030年，基本建成與農戶風險保障需求相契合、與現代農業發展相適應、中央與地方分工負責的多層次農業保險體系，總體達到國際先進水平，實現補貼有效率、產業有保障、農民得實惠、機構可持續的多贏格局，政策更加普惠，發展更加均衡。農業保險深度達到1.9%，農業保險密度達到1200元/人，農業保險科技投入強度達到1%。稻穀、小麥、玉米三大糧食作物農業保險覆蓋率穩定在90%左右，提升特色農業保險對特色農業產業的保障水平，更好發揮富農強農作用。農業保險綜合費用率不高於20%。（央視新聞）"
     },
     {
       "id": "5090605",
@@ -123643,30 +123698,6 @@
         "其他"
       ],
       "text": "【應急管理部排程江西省遂川縣高坪鎮泥石流災害救援處置工作】9月5日，江西省遂川縣高坪鎮明坑村石下組發生泥石流和山體滑坡，應急管理部立即排程部署搶險救援工作，要求全力搜救被困人員，核實核清傷亡失聯人數，就近調派通訊保障、工程搶險等隊伍裝備，儘快組織救援人員挺進災區，加強水文、地質災害監測預警，科學施救，嚴防次生災害發生。（央視新聞）"
-    },
-    {
-      "id": "5078588",
-      "time": "2026-09-05 14:08:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄軍對烏多地實施叢集打擊】當地時間9月5日，俄羅斯國防部通報，當日凌晨，俄聯邦武裝力量使用陸基高精度武器和遠端攻擊型無人機，對烏克蘭第聶伯羅彼得羅夫斯克州保障軍工企業所需的冶金廠、尼古拉耶夫市及尼古拉耶夫州和敖德薩州的物流中心和變電站實施叢集打擊。（央視新聞）"
-    },
-    {
-      "id": "5078587",
-      "time": "2026-09-05 14:08:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西省啟動省級救災三級應急響應】8月29日以來，颱風“沙德爾”已造成江西省10個設區市56個縣（市、區，含功能區）16.15萬人受災，吉安等地災情較重。依據《江西省自然災害救助應急預案》，江西省防災減災救災委員會於9月5日12時啟動省級救災三級應急響應，要求江西省防災減災救災委員會有關成員單位和吉安市按照職能和任務分工，做好救災救助各項工作。（新華社）"
-    },
-    {
-      "id": "mkt:01a0702c-dcf7-7118-84b0-c46bd40f17f4",
-      "time": "2026-09-05 14:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tehran Stock Exchange main index rises 120,000 points to 6,624,000】Tehran Stock Exchange main index gained 120,000 points to 6,624,000; the value-weighted index rose about 32,000 points. Total market capitalization in rials reached roughly 19.3 tln Iranian rials for the first time, while dollar-denominated market cap slipped below $100bn. Retail flows into equities, rights issues and equity funds totaled about 1 tln rials, while fixed-income funds saw outflows of 2.2 tln rials. About 95% of stocks advanced and buy orders amounted to 16.5 tln rials."
     }
   ]
 }
