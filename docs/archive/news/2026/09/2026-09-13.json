@@ -1,7 +1,16 @@
 {
   "date": "2026-09-13",
-  "count": 65,
+  "count": 66,
   "items": [
+    {
+      "id": "mkt:01a0971c-d806-7118-8558-64f6fe521b2b",
+      "time": "2026-09-13 03:34:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Altman: OpenAI will not IPO this year, safety work remains】OpenAI founder Altman said the company will not go public this year and he does not expect an IPO in 2026, saying substantial safety work remains. His comments follow an Anthropic employee resignation and stern warning about AI capabilities. Markets had anticipated large IPOs from OpenAI and Anthropic this year; Altman’s statement shifts near-term IPO timing pressure onto Anthropic CEO Dario Amodei, who on Saturday urged a slowdown in AI development."
+    },
     {
       "id": "mkt:01a09718-c0fa-7118-8558-5a9fd42e7619",
       "time": "2026-09-13 03:29:36",
