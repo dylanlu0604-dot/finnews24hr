@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-13 02:49:39",
-  "count": 13570,
+  "updated": "2026-09-13 02:53:31",
+  "count": 13571,
   "items": [
+    {
+      "id": "5091016",
+      "time": "2026-09-13 02:52:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國VR短片《鴿環》獲威尼斯電影節沉浸單元大獎】中國VR短片《鴿環》12日獲得第83屆威尼斯國際電影節“威尼斯沉浸單元”最高獎項——“威尼斯沉浸大獎”。（新華社）"
+    },
+    {
+      "id": "mkt:01a096f4-79cd-7118-8558-38cbca2eda12",
+      "time": "2026-09-13 02:49:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla said it will hold a launch event on Oct. 1 but gave no details on the product to be unveiled."
+    },
     {
       "id": "5091015",
       "time": "2026-09-13 02:48:52",
@@ -124469,14 +124491,6 @@
         "MKT News"
       ],
       "text": "【Greece unveils €2.2bln 2027 support package】Greek Prime Minister Mitsotakis announced a €2.2bln (about $2.56bln) economic support package for 2027 to ease cost-of-living pressures. Measures focus on the self-employed, pensioners, farmers and large families and include raising the minimum wage from €920 to €1,000 effective January 2028. Authorities say the 2026 budget is expected to again exceed targets, providing headroom for subsidies and tax cuts; the government says the measures will not jeopardize public finances and will comply with EU budget rules."
-    },
-    {
-      "id": "5078924",
-      "time": "2026-09-06 02:52:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦紅新月會：以色列襲擊加沙城圖法赫社群，造成3人受傷。"
     }
   ]
 }
