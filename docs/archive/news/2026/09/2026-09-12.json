@@ -1,7 +1,20 @@
 {
   "date": "2026-09-12",
-  "count": 759,
+  "count": 760,
   "items": [
+    {
+      "id": "mkt:01a0951b-a5be-7118-8556-44b5f6713f44",
+      "time": "2026-09-12 18:13:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Xi says China will work with BRICS to help secure Middle East Gulf peace; urges permanent comprehensive ceasefire】Speaking at the first session of the BRICS leaders’ 18th summit in New Delhi on Sept. 12, Xi said the situation in the Middle East Gulf remains complex and the conflict has caused severe losses and undermines international interests. He offered a four-point proposal to de-escalate, halt hostilities and advance political talks, called for a permanent comprehensive ceasefire, and said China is willing to work with BRICS members to help restore peace and stability in the Gulf region."
+    },
     {
       "id": "5090744",
       "time": "2026-09-12 18:11:39",
