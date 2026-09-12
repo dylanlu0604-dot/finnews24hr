@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-13 00:15:22_
-_本檔包含 2687 則快訊，約 547176 字_
+_更新時間：2026-09-13 02:41:53_
+_本檔包含 2699 則快訊，約 546038 字_
+
+---
+
+### 2026-09-13 02:41:04  #MKT News #Market Regions #Emerging Markets
+
+【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership.
+
+---
+
+### 2026-09-13 02:32:48  #市場 #焦點
+
+奈飛暗盤突破80美元，日內漲4.9%。
+
+---
+
+### 2026-09-13 02:31:04  #國際
+
+美國演員約翰·馬爾科維奇憑藉《野馬九號》斬獲威尼斯電影節最佳男主角獎。
+
+---
+
+### 2026-09-13 02:27:37  #其他
+
+丹麥演員瑪蒂爾德·阿塞爾憑藉《無名女人》斬獲威尼斯電影節最佳女主角獎。
+
+---
+
+### 2026-09-13 02:24:59  #MKT News #Brent #Impact bullish #WTI #DXY
+
+UK foreign secretary spoke with the Saudi foreign minister to discuss Houthi aggression and recent attacks on Saudi Arabia; the UK said it stands firmly with Saudi Arabia and Yemen's internationally recognized government and opposes all attacks.
+
+---
+
+### 2026-09-13 02:22:30  #MKT News
+
+【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East.
+
+---
+
+### 2026-09-13 02:20:47  #公司
+
+【Anthropic呼籲放慢先進AI模型開發 馬斯克等業界大佬表示贊同】Anthropic執行長Dario Amodei表示，人工智慧行業需要放慢新模型的開發速度，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險。 “我們必須放慢提升人工智慧模型能力的速度，”他週六在一篇部落格文章中寫道，“進步看起來仍會很快，我們必須明智利用由此爭取到的時間。”Amodei發文後不久，馬斯克在社交媒體表示：“Dario是對的。” OpenAI執行長Sam Altman也很快發表看法，表示他贊同Amodei所說的“我們需要控制前沿模型的發展節奏”。 他表示：“讓獨立評估人員獲得類似員工的訪問許可權是一個很好的主意，我們也會這麼做。我們很快會分享更多資訊。”
+
+---
+
+### 2026-09-13 02:18:59  #焦點 #國際
+
+【烏官員：烏克蘭準備10月舉行新一輪烏美俄三方談判】烏克蘭總統辦公室主任布達諾夫當地時間12日表示，烏克蘭正準備在10月舉行新一輪談判，談判將採取烏克蘭、俄羅斯和美國三方參與的形式。布達諾夫沒有透露未來談判是否將在中東等地舉行等具體資訊。此前一天，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。（央視新聞）
+
+---
+
+### 2026-09-13 02:17:46  #其他
+
+英國外交大臣：英國堅定地與沙烏地阿拉伯及國際公認的葉門政府站在一起，共同反對這些襲擊。
+
+---
+
+### 2026-09-13 02:17:38  #其他
+
+英國外交大臣：與沙特外交大臣通話，討論葉門胡塞武裝的進攻行為及針對沙烏地阿拉伯的襲擊。
+
+---
+
+### 2026-09-13 02:10:46  #MKT News #Important #SPCX.O #Impact bullish
+
+【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock.
+
+---
+
+### 2026-09-13 02:06:39  #MKT News
+
+Market sources say SpaceX will increase its weight in the Nasdaq-100 following the index rebalancing.
+
+---
+
+### 2026-09-13 02:06:25  #MKT News #Brent
+
+【Iran, Oman to brief Gulf states on Strait of Hormuz navigation talks】Iran and Oman expect to brief Gulf states at a regional meeting on the 14th on the outcome of their consultations on navigation in the Strait of Hormuz, Iran foreign ministry spokesman Baghaei said, Al Jazeera reported on the 12th.
+
+---
+
+### 2026-09-13 02:05:51  #國際
+
+【伊朗和阿曼將通報霍爾木茲海峽通航磋商結果】據卡達半島電視臺12日報道，伊朗外交部發言人巴加埃表示，伊朗和阿曼預計將在14日舉行的相關地區會議上，向海灣國家通報兩國有關霍爾木茲海峽通航問題的磋商結果。（新華社）
+
+---
+
+### 2026-09-13 02:02:23  #其他
+
+沙特民防部門：沙特海米斯穆謝特地區已釋出緊急警報，警示潛在危險。
+
+---
+
+### 2026-09-13 02:02:00  #其他 #焦點
+
+【SpaceX將於本次再平衡後提高在納斯達克100指數中的權重】本月晚些時候，SpaceX在納斯達克100指數中的權重將會上調，這可能促使追蹤該基準指數的被動基金產生數十億美元的買入需求。根據納斯達克全球指數觀察平臺的預估資料，其權重預計將從約1.28%升至約2.82%。權重上調意義重大，因為掛鉤該指數的被動基金必須相應調整持倉，其中包括規模4810億美元的景順QQQ信託1號基金。
+
+---
+
+### 2026-09-13 02:01:03  #其他 #焦點
+
+SpaceX將在指數再平衡後提升在納斯達克100指數中的權重。
+
+---
+
+### 2026-09-13 01:59:35  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state media reports two explosions were heard on Qeshm Island, with the sounds originating from the sea.
+
+---
+
+### 2026-09-13 01:58:20  #國際
+
+伊朗媒體：格什姆島海域聽到兩次爆炸聲。
+
+---
+
+### 2026-09-13 01:56:22  #MKT News #Market Themes #AI Revolution
+
+【Anthropic’s Amodei, Altman and Musk urge slowdown in AI model development】Anthropic CEO Dario Amodei said in a long blog post the firm will adopt new safety measures, including third‑party assessments, and urged an industry‑wide slowdown in AI model development. OpenAI CEO Sam Altman said he will adopt Amodei’s proposal to grant independent assessors employee‑like access. xAI’s Elon Musk publicly backed Amodei. Despite longstanding warnings from these leaders, coordinated restraint would be unprecedented in a fiercely competitive sector where firms regularly launch new products to boost engagement and sales. It remains unclear how extensively leading AI companies will implement new limits or safety checks.
+
+---
+
+### 2026-09-13 01:47:28  #MKT News
+
+Yemen's foreign ministry urged the international community to take urgent action on the humanitarian consequences of Houthi escalation.
+
+---
+
+### 2026-09-13 01:18:30  #其他
+
+【孫心然首奪大滿貫青少年組冠軍】北京時間9月13日凌晨，2026美網青少年組女單決賽，頭號種子孫心然以6-4、4-6、6-0戰勝5號種子普什卡列娃，連續三站大滿貫晉級決賽終於圓夢，首奪大滿貫青少年組冠軍。（央視新聞）
+
+---
+
+### 2026-09-13 01:05:15  #國際
+
+伊朗外交部發言人：伊朗與阿曼將在預計於週一舉行的地區外長會議上，向區域國家通報雙方就霍爾木茲海峽安全通行開展磋商的情況。
+
+---
+
+### 2026-09-13 01:05:08  #國際
+
+伊朗訊息人士：進入波斯灣的航道完全位於伊朗領海內，而波斯灣的部分出航道同樣處在伊朗領土範圍內。
+
+---
+
+### 2026-09-13 01:01:46  #國際
+
+【佩斯科夫：俄總統普京是否參加G20峰會尚未確定】在回應烏克蘭總統澤連斯基有關希望在G20峰會期間與俄總統普京會面的表態時，俄總統新聞秘書佩斯科夫表示，普京是否參加G20峰會尚未確定。如果澤連斯基想見普京，可以來莫斯科，邀請仍然有效。此外圍繞俄烏衝突，佩斯科夫當天對俄羅斯《訊息報》表示，歐洲未主動提出任何推動烏克蘭問題談判的方案。佩斯科夫說，誰想要談判，就會去尋求談判，但歐洲沒有這樣做。（央視新聞）
+
+---
+
+### 2026-09-13 01:01:07  #國際
+
+烏克蘭經濟部長：據估算，俄羅斯空襲今年已造成烏克蘭基礎設施與固定資產損失100億美元。
+
+---
+
+### 2026-09-13 01:00:47  #國際
+
+烏克蘭經濟部長表示，約400億美元的烏克蘭出口收入因封鎖面臨風險。
+
+---
+
+### 2026-09-13 01:00:37  #國際
+
+烏克蘭經濟部長稱，烏港口被毀及港口封鎖對經濟造成的損失約佔該國今年GDP的1.5%。
+
+---
+
+### 2026-09-13 00:46:16  #公司 #焦點
+
+【埃裡森取消出售至多5000萬股甲骨文股票的計劃 甲骨文暗盤漲超2%】甲骨文公司週六表示，董事長拉里·埃裡森取消了出售不超過5000萬股該公司股票的計劃。“在該計劃之下沒有甲骨文股票被出售，他也沒有其他出售所持任何甲骨文股票的計劃，”該公司在一份宣告中表示。甲骨文於週五披露了上述股票出售計劃。甲骨文暗盤漲超2%，現報150.23美元。
+
+---
+
+### 2026-09-13 00:45:07  #市場 #焦點
+
+奈飛暗盤跌超2%，現報75.689美元。
+
+---
+
+### 2026-09-13 00:39:27  #公司
+
+OpenAI CEO奧特曼：我同意達里奧的觀點，我們需要把控前沿技術的推進節奏。這是最近幾周OpenAI內部討論的核心議題。承諾設立擁有類似員工訪問許可權的獨立評估人員是個好主意，我們也將落實該舉措。不久後我們會公佈更多資訊。
+
+---
+
+### 2026-09-13 00:38:27  #市場 #焦點
+
+甲骨文暗盤漲超2%，現報150.23美元。
+
+---
+
+### 2026-09-13 00:37:18  #國際
+
+伊朗訊息人士：霍爾木茲海峽的重新開放完全取決於美國是否執行伊朗提出的條件。
+
+---
+
+### 2026-09-13 00:37:06  #國際
+
+伊朗訊息人士：海灣阿拉伯國家合作委員會(GCC)成員國將被告知伊朗與阿曼談判的結果及阿曼會議的決定。
+
+---
+
+### 2026-09-13 00:36:54  #國際
+
+伊朗訊息人士：伊拉克也將出席週一在阿曼舉行的會議。
+
+---
+
+### 2026-09-13 00:36:50  #國際
+
+伊朗訊息源：儘管美國堅持要求重新開放，但南部航道仍將關閉。
+
+---
+
+### 2026-09-13 00:33:24  #公司
+
+OpenAI CEO奧特曼：我同意阿莫迪的看法，我們需要把控前沿技術的推進節奏。
+
+---
+
+### 2026-09-13 00:32:26  #公司
+
+【伊拉克與Keppt公司簽署阿杰勒油田開發協議】伊拉克內閣釋出宣告稱，與Keppt公司簽署開發協議，開發該國北部阿吉爾油田的油氣產能。這份為期25年的合同目標是將原油日產量從3萬桶提升至4萬桶，伴生氣日產量從1.35億標準立方英尺提升至3億標準立方英尺。
+
+---
+
+### 2026-09-13 00:31:17  #市場 #焦點
+
+甲骨文暗盤漲超1%，現報149.325美元。
+
+---
+
+### 2026-09-13 00:26:11  #其他
+
+馬斯克：Grok現已在微軟Copilot上線。
+
+---
+
+### 2026-09-13 00:25:39  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemen's prime minister said the Houthi militia's escalatory actions are wide-ranging and extremely dangerous, have extended beyond Yemen, and are linked to an Iranian agenda that threatens regional security and maritime safety.
+
+---
+
+### 2026-09-13 00:24:07  #MKT News
+
+【Houthi source rejects claims international ships face risk transiting Bab el‑Mandeb】Al Jazeera, citing Yemen’s Al-Masirah TV, quoted a source at the Houthi-controlled transport ministry saying 73 vessels transited the Bab el‑Mandeb on Sept. 10-11 — 36 on Sept. 10 and 37 on Sept. 11. The source said a ban on Saudi vessels did not impede international shipping and that 48‑hour transit volume equaled 98.6% of the pre‑ban average, arguing the data disproves claims that merchant shipping faces heightened risk after Houthi control of Yemen’s Red Sea coast.
+
+---
+
+### 2026-09-13 00:20:58  #其他 #焦點
+
+【拉里·埃裡森撤銷甲骨文股票出售計劃】一份宣告顯示，拉里·埃裡森已撤銷其10b5-1規則下的甲骨文股票出售計劃。該計劃下未售出任何甲骨文股票，且他暫無其他出售甲骨文股票的計劃。
+
+---
+
+### 2026-09-13 00:20:03  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) chairman Larry Ellison has canceled a planned sale of Oracle stock and has no other sale plans.
+
+---
+
+### 2026-09-13 00:18:46  #公司 #焦點
+
+拉里·埃裡森取消甲骨文10B5-1售股方案，暫無其他減持計劃。
+
+---
+
+### 2026-09-13 00:17:03  #公司
+
+拉里·埃裡森取消出售甲骨文公司股票的計劃。
 
 ---
 
@@ -16023,209 +16299,5 @@ Dollar Holds Gains Ahead of CPI Report — The dollar index held above 99 on Fri
 ### 2026-09-11 09:30:55  #MKT News #Market Themes #AI Revolution #SSE Composite #Impact bullish #Hang Seng Index #CNH #Impact mixed
 
 【MIIT and eight ministries to accelerate automotive AI pilot base construction】China's Ministry of Industry and Information Technology and eight other ministries issued the '15th Five-Year' plan for the intelligent connected new-energy vehicle (NEV) industry, calling to strengthen foundational AI capabilities. The plan pushes innovation in AI models and agent technologies and prioritizes initial deployment in the automotive sector. It directs accelerated construction of automotive AI application pilot bases and urges industry players to build intelligent-computing capacity through a mix of public/shared and self-owned facilities. It also encourages firms to open more application scenarios and to foster a comprehensive AI application ecosystem.
-
----
-
-### 2026-09-11 09:30:52  #MKT News #CSI300 #Impact bearish #CNH
-
-CSI Convertible Bond Index opened down 0.29%. Largest decliners: Jincheng convertible bond -4.16%, Jin25 convertible bond -3.04%, Ruike convertible bond -2.55%, Hejin convertible bond -2.21%, Qizhong convertible bond -2.15%. Top gainers: Youcai convertible bond +15.96%, Guiran convertible bond +1.69%, Lanxiao 02 convertible bond +0.94%, Sanjiang convertible bond +0.78%, Kema convertible bond +0.76%.
-
----
-
-### 2026-09-11 09:30:33  #市場 #焦點
-
-北證50日內跌幅達1.02%，成分股中，銅冠礦建跌4.55%，戈碧迦跌2.43%，萬源通跌2.40%，艾融軟體跌2.35%。
-
----
-
-### 2026-09-11 09:30:22  #市場 #觀點
-
-【貴金屬板塊低開】貴金屬板塊低開，興業銀錫、湖南白銀、紫金礦業、中金黃金跌幅居前。
-
----
-
-### 2026-09-11 09:30:20  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4407.20點。
-
----
-
-### 2026-09-11 09:30:20  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4407.20點。
-
----
-
-### 2026-09-11 09:30:20  #MKT News #Market Themes #China EV Leaders #Chip Wars #Copper #Impact bullish #CSI300 #CNH
-
-【MIIT and eight ministries issue 15th Five-Year plan for intelligent connected NEV industry; launch rolling industrial-chain development actions】The Ministry of Industry and Information Technology and eight other ministries issued the 15th Five-Year Plan for the Intelligent Connected New Energy Vehicle industry, targeting higher industrial-chain resilience and security. They will implement rolling high-quality development actions to address gaps in key basic materials, operating systems, industrial software, and automotive chips and components, use priority policies for first-batch materials and initial-release software, and expand application scale. The plan also calls for coordinated extraction and recycling of lithium, cobalt and nickel.
-
----
-
-### 2026-09-11 09:30:16  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Stocks in China Hit 6-week Low — CSI 300 decreased to 4513.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Shanghai Shenzhen CSI 300 Index lost 3.19%, and in the last 12 months, it decreased 0.73%.
-
----
-
-### 2026-09-11 09:30:12  #市場 #焦點
-
-恒生指數跌超1%，現報24697.010點；恒生科技指數現跌1.546%。
-
----
-
-### 2026-09-11 09:30:12  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
-
-China A-share oil and gas exploration and services sector opened higher in the pre-open call auction; Keli Co. rose over 6%, with Tongyuan Petroleum, Zhongman Petroleum, Shouhua Gas and Lanyan Co. also gaining.
-
----
-
-### 2026-09-11 09:30:10  #其他
-
-【工信部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，到2030年，我國智慧網聯新能源汽車全產業鏈優勢進一步鞏固，進入世界汽車強國行列，國內市場新能源乘用車、商用車在各自領域新車總銷量的佔比分別達到70%、40%，具備自動駕駛功能的汽車實現規模應用。關鍵技術水平有效提升。乘用車平均燃料消耗量達到每百公里3.3升、純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右。高速公路、城市快速路、部分城市道路等場景實現高度自動駕駛。產業結構持續最佳化。行業數智化發展達到較高水平，全員勞動生產率較2025年提升15%。培育形成若干家進入全球銷量前十的整車企業和全球百強零部件企業。國際化發展新局面初步形成。企業國際化經營能力持續提高，中國汽車品牌具有較高美譽度，國際標準法規制定的話語權進一步提升。經濟社會效益進一步增強。汽車產業國民經濟支柱地位進一步凸顯，在2030年前實現碳達峰，帶動供應鏈加速綠色低碳轉型。搭載自動駕駛系統車輛的安全效能大幅超過人類駕駛員。
-
----
-
-### 2026-09-11 09:30:04  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌1.37%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌1.11%， 上證50指數期貨連續跌0.93%。
-
----
-
-### 2026-09-11 09:30:04  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.09%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。
-
----
-
-### 2026-09-11 09:30:03  #市場 #焦點
-
-科創50日內跌幅達1.31%，成分股中，瀾起科技跌2.72%，佰維儲存跌2.55%，生益電子跌2.37%，沐曦股份跌2.29%。
-
----
-
-### 2026-09-11 09:30:02  #市場 #焦點
-
-深證成指跌1.00%，現報13481.224點；上證指數跌0.60%，現報3910.923點；創業板指跌0.83%，現報3310.771點。
-
----
-
-### 2026-09-11 09:29:48  #MKT News #Market Themes #China EV Leaders #CSI300 #Impact bullish #Copper #CNH
-
-【MIIT and eight ministries issue intelligent connected NEV '15th Five-Year' plan; targets carbon peak before 2030】MIIT and eight other ministries issued a '15th Five-Year' development plan for the intelligent connected new-energy vehicle (NEV) industry, seeking stronger economic and social benefits and further cementing the auto sector as a pillar of China’s economy. The plan targets achieving carbon peak before 2030, directs accelerated green, low-carbon transformation across the auto supply chain, and states that vehicles equipped with autonomous driving systems will have safety performance far exceeding human drivers.
-
----
-
-### 2026-09-11 09:29:22  #MKT News #Market Regions #Greater China #Brent #Impact bearish #Copper #Impact bullish
-
-【MIIT and eight ministries set 2030 target: BEV energy use ~11.5 kWh/100km】MIIT and eight other ministries issued the 15th Five-Year plan for the intelligent, connected new-energy vehicle (NEV) industry, setting 2030 targets: passenger-car average fuel consumption of 3.3 L/100km and battery-electric passenger-car average energy consumption of about 11.5 kWh/100km. The plan calls for significant improvements in key technologies and deployment of high-level autonomous driving on highways, urban expressways and selected urban roads.
-
----
-
-### 2026-09-11 09:29:11  #其他
-
-【工信部等九部門：到2030年純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右】工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，到2030年，關鍵技術水平有效提升。乘用車平均燃料消耗量達到每百公里3.3升、純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右。高速公路、城市快速路、部分城市道路等場景實現高度自動駕駛。
-
----
-
-### 2026-09-11 09:29:06  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌1%，現報7626.00點。
-
----
-
-### 2026-09-11 09:28:54  #MKT News #Important #Market Regions #Greater China
-
-【MIIT and eight ministries set 2030 target for large-scale use of autonomous-capable cars】The Ministry of Industry and Information Technology and eight other ministries issued the "15th Five-Year Plan for the intelligent connected new-energy vehicle industry", setting 2030 targets: consolidate China’s full NEV industry-chain advantage and enter the ranks of global auto powers; new-energy passenger cars and commercial vehicles to account for 70% and 40% respectively of new-vehicle sales in their segments; vehicles equipped with autonomous-driving capabilities to achieve large-scale deployment.
-
----
-
-### 2026-09-11 09:28:42  #其他
-
-【工信部等九部門：到2030年具備自動駕駛功能的汽車實現規模應用】工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，到2030年，我國智慧網聯新能源汽車全產業鏈優勢進一步鞏固，進入世界汽車強國行列，國內市場新能源乘用車、商用車在各自領域新車總銷量的佔比分別達到70%、40%，具備自動駕駛功能的汽車實現規模應用。（工信部）
-
----
-
-### 2026-09-11 09:28:01  #MKT News #Important #002594.SZ #Impact bullish #300750.SZ #NIO.O
-
-China's Ministry of Industry and Information Technology and eight other ministries issued the '15th Five-Year Plan' for development of the intelligent connected new-energy vehicle industry.
-
----
-
-### 2026-09-11 09:27:50  #其他 #焦點
-
-工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。（工信部）
-
----
-
-### 2026-09-11 09:27:40  #公司 #市場
-
-【油氣開採及服務板塊高開，科力股份高開超6%】油氣開採及服務板塊高開，科力股份高開超6%，通源石油、中曼石油、首華燃氣紛紛高開。
-
----
-
-### 2026-09-11 09:27:30  #公司
-
-【涉及安踏收購彪馬股權案等 一批無條件批准經營者集中案件公佈】市場監管總局今天公佈2026年8月31日—9月6日無條件批准經營者集中案件列表，其中包括安踏體育用品有限公司收購彪馬股份公司股權案、寧德時代新能源科技股份有限公司收購重慶耀寧新能源科技有限公司股權案等。
-
----
-
-### 2026-09-11 09:27:30  #MKT News #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-China's Shanghai Composite Index opened down 23.48 points (-0.60%) at 3,910.92 on Friday, Sept 11; Shenzhen Composite opened down 134.04 points (-0.98%) at 13,483.63; CSI 300 Index opened down 34.09 points (-0.75%) at 4,514.30; ChiNext Index opened down 28.41 points (-0.85%) at 3,310.01; STAR 50 Index opened down 20.52 points (-1.31%) at 1,548.70.
-
----
-
-### 2026-09-11 09:26:06  #公司
-
-【TÜV萊茵與洋浦國際達成戰略合作】德國萊茵TÜV大中華區與洋浦國際投資諮詢有限公司日前簽訂戰略合作備忘錄。根據合作規劃，洋浦國際與TÜV萊茵將共同推進"儋洋清潔低碳能源技術安全服務中心"建設，圍繞清潔低碳能源體系建設，在技術安全服務、能源專案全生命週期技術保障以及國際市場準入與合規服務等領域開展深度合作。
-
----
-
-### 2026-09-11 09:25:47  #市場
-
-【燧原科技上市首日開盤大漲超188%】燧原科技上市首日開盤漲188.37%，現報410元，該股發行價為142.18元。按開盤價計算，投資者中一簽（500股）浮盈約13.39萬元。
-
----
-
-### 2026-09-11 09:25:37  #焦點
-
-三大股指低開，滬指跌0.6％，深成指跌0.98％，創業板跌0.85％。
-
----
-
-### 2026-09-11 09:25:34  #市場 #焦點
-
-A股三大股指開盤齊跌，上證指數跌0.60%，深證成指跌0.98%，創業板指跌0.85%。
-
----
-
-### 2026-09-11 09:25:33  #MKT News #Important #SSE Composite #Impact bearish #SZSE Component
-
-China A-shares opened: Shanghai Composite down 0.6%, Shenzhen Composite Index down 0.98%, ChiNext Index down 0.85%. Newly listed N Suiyuan opened 188% higher on its debut.
-
----
-
-### 2026-09-11 09:23:58  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲6%，現報5564.00元。
-
----
-
-### 2026-09-11 09:22:51  #其他
-
-【阿爾及利亞禁止在阿聯酋註冊的航空器進入其領空】阿爾及利亞國防部10日宣佈，鑑於該國此前已宣佈與阿聯酋斷交，阿爾及利亞從當地時間11日0時起禁止在阿聯酋註冊的民用及軍用航空器進入其領空。阿爾及利亞國防部發布的宣告說，這項禁令適用於往返阿爾及利亞的阿聯酋註冊飛機，但阿聯酋往返首都阿爾及爾胡阿里·布邁丁國際機場的商業航班將獲准繼續運營，直至2026年底現有合同期滿為止。
-
----
-
-### 2026-09-11 09:22:08  #央行 #美聯儲
-
-【美聯儲觀察：市場預計美聯儲9月加息機率升至72.4%】芝加哥商品交易所“美聯儲觀察”資料顯示，聯邦基金期貨市場預計，美聯儲下週會議後將聯邦基金利率目標區間上調至3.75%至4.00%的機率為72.4%，維持當前3.50%至3.75%區間的機率為27.6%。一個月前市場對美聯儲將利率維持在3.75%至4.00%區間的機率為52.2%，目前已升至72.4%。
-
----
-
-### 2026-09-11 09:22:03  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Stocks Poised for Second Straight Weekly Loss — Australian shares dipped 72 points, or 0.8%, to 8,747 on Friday morning, down for the fourth session to hit their lowest in two months. Losses were broad, led by healthcare, tech, non-energy minerals, and logistics, as Wall Street’s overnight slide weighed on sentiment. Rising U.S. Treasury yields and Brent crude above USD107 fueled inflation and rate-hike fears, while President Trump warned energy costs may stay high until after November’s vote. Locally, concerns grew that elevated rates and sticky inflation could tip the economy into a slowdown. RBA Deputy Gov. Hauser said further tightening will be debated at September’s meeting, echoed by Assistant Gov. Sarah Hunter’s warning of limited tolerance for stronger price pressures. Heavyweights BHP (-4.1%), Evolution Mining (-3.8%), and Northern Star Resources (-3.6%) dragged, though the big four banks bucked the trend, up between 0.2%–1.4%. For the week, the market is on track for a second straight weekly drop, down nearly 3% so far.
 
 ---

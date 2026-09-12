@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-13 00:15:22_
-_本檔包含 2753 則快訊，約 546739 字_
+_更新時間：2026-09-13 02:41:53_
+_本檔包含 2753 則快訊，約 545853 字_
+
+---
+
+### 2026-09-10 08:41:11  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌1%，至6978.22。
+
+---
+
+### 2026-09-10 08:39:53  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Drop for Third Session — The Nikkei 225 Index declined 1% to below 64,600, while the broader Topix Index fell 0.65% to 4,020 on Thursday, extending losses for a third consecutive session as elevated oil prices fueled inflation concerns and increased expectations for near-term interest rate hikes. Japanese shares also followed overnight declines on Wall Street as US Treasury yields surged after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, disappointing some investors who had anticipated a more substantial increase. Meanwhile, investors continued to track the yen after the currency strengthened to a near seven-month high. Notable declines were recorded among technology and consumer stocks, including Fujikura (-4.4%), Ibiden Co (-3.1%), Furukawa Electric (-4.9%), Nintendo (-3.8%) and Fast Retailing (-1.5%).
+
+---
+
+### 2026-09-10 08:39:47  #國際
+
+美國財長貝森特：從GDP到工廠就業人數，一切指標都在全面升溫。工業週期正從投資階段邁向投產階段。
+
+---
+
+### 2026-09-10 08:39:43  #市場 #國際
+
+2年期日本國債收益率上漲1個基點，至1.84%。
+
+---
+
+### 2026-09-10 08:39:09  #MKT News
+
+The Washington Post, citing two people familiar with the matter, says Trump administration officials expect to submit the Arc de Triomphe project, part of President Trump's plan, to a federal commission in November to seek final approval.
+
+---
+
+### 2026-09-10 08:38:53  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei index fell as much as 1.00% intraday.
+
+---
+
+### 2026-09-10 08:38:20  #市場 #國際
+
+【布油逼近102美元 伊朗表示已做好準備應對更激烈的衝突】隨著中東地區敵對行動爆發，伊朗宣稱已做好準備應對更激烈的戰爭，加劇了市場對霍爾木茲海峽能源供應可能遭受更嚴重中斷的擔憂，布倫特原油期貨逼近每桶102美元。這一全球基準已連漲五日，週三自去年7月以來首次收於三位數以上。WTI原油期貨價格徘徊在每桶97美元左右。據伊朗伊斯蘭共和國一位高階官員稱，面對美國的海軍封鎖，伊朗無意退讓，如果美國繼續襲擊其領土，伊朗將升級襲擊力度。
+
+---
+
+### 2026-09-10 08:37:32  #公司 #市場 #國際
+
+【蘋果釋出摺疊屏新機，亞洲供應鏈個股漲跌互現】美國科技巨頭蘋果公司釋出首款可摺疊手機 iPhone Duo 及其他新產品後，蘋果供應商的股票交易漲跌互現。iPhone Duo 最高配置版售價 3199 美元，創下了大眾市場智慧手機價格的新紀錄。其他新品包括 iPhone 18 Pro、AirPods 5 和兩款升級版 Apple Watch。釋出會結束後，蘋果股價基本持平。KeyBanc 分析師布蘭登・尼斯佩爾等在研報中寫道：“我們認為本次新品對蘋果業績存在小幅利空。高昂售價大機率無法完全抵消毛利率承壓，出貨量或將走低，最終拖累使用者規模與服務業務增長。”在韓國蘋果供應商中，LG Innotek股價上漲高達1.6%；LG Display股價波動幅度較小。LG Innotek 81% 的收入來自蘋果，LG Display 51% 的收入來自蘋果。手機廠商兼蘋果供應商三星電子股價維持震盪。日本市場，日本 Alps Alpine 上漲3.1%，村田製作所 上漲2%，TDK 上漲1.6%Alps Alpine 公司23% 的銷售額來自蘋果公司，TDK為 10%。其他供應商包括Nissha和NOK股價小幅下跌。
+
+---
+
+### 2026-09-10 08:36:45  #MKT News #Commodities #Energy #WTI #Brent
+
+【Crude ETF holdings: WTI (USO) posts fourth consecutive daily increase】Sept 9 — WTI (USO) nominal exposure ~23.33 mln barrels, up 0.484 mln barrels on the day; Brent (BNO) futures holdings ~5.93 mln barrels, down 0.584 mln barrels.
+
+---
+
+### 2026-09-10 08:35:16  #公司
+
+超智慧控股有限公司在香港暫停交易。
+
+---
+
+### 2026-09-10 08:34:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
+
+【DOJ probes NVIDIA-Groq deal for possible antitrust evasion】Two people familiar with the matter said the U.S. Department of Justice is investigating whether NVIDIA sought to evade antitrust review in last year’s deal with AI chipmaker Groq. Groq described the transaction as a "non-exclusive license agreement" allowing NVIDIA to use chips Groq developed for AI workloads. As part of the arrangement, Groq CEO Jonathan Ross and COO Sunny Madra joined NVIDIA. Regulators note similar licensing-plus-hire deals can be used to sidestep automatic merger reviews designed to assess competitive harm.
+
+---
+
+### 2026-09-10 08:34:43  #市場 #國際
+
+日本日經指數下跌1%，至64487.12點。
+
+---
+
+### 2026-09-10 08:34:33  #市場 #國際
+
+日經225指數跌幅擴大至1%。
+
+---
+
+### 2026-09-10 08:34:24  #公司
+
+【恩橋公司將以25.5億美元收購Tallgrass原油業務】當地時間9月9日，加拿大能源基礎設施和運輸公司恩橋（Enbridge）在一份宣告中表示，已同意以25.5億美元收購Tallgrass Energy的原油業務。此次收購預計在 2026年晚些時候完成，交易估值約為未來息稅折舊攤銷前利潤（EBITDA）倍數的10-11倍。據恩橋公司介紹，此次收購資產包括Pony Express管道75%的權益，該管道全長1,050英里，從懷俄明州格恩西及科羅拉多州多個地點延伸至俄克拉荷馬州庫欣，年均輸送能力約為每日46萬桶，並可直接接入約每日50萬桶的煉油產能。該交易還包括Powder River Gateway 51%的權益以及以及分佈在九個終端的約840萬桶儲油能力。
+
+---
+
+### 2026-09-10 08:34:09  #MKT News
+
+South Korea's KOSPI slid to 7,000, down 0.75% on the day.
+
+---
+
+### 2026-09-10 08:33:10  #觀點
+
+【中信證券：現房銷售改革 處置不良資產速度可能加快】中信證券研報認為，現房銷售改革短期會進一步加快不良資產的最佳化盤活和處置出清，仍舊難以銷售去化的資產，或不具備開發條件的土地則可能採取用途轉化或計提減值。不良資產是開發企業資產負債表的主要負擔，加快處置在短期對利潤表產生一定壓力，中長期則推進企業分化，具備融資能力和開發產品力的企業資產負債表有望更快企穩。
+
+---
+
+### 2026-09-10 08:32:59  #公司
+
+【恒大高新：AI算力伺服器業務目前以國內業務為主，暫未涉及國外業務】恒大高新在互動平臺表示，子公司寶樂互動的AI算力伺服器業務目前以國內業務為主，暫未涉及國外業務。
+
+---
+
+### 2026-09-10 08:32:10  #觀點
+
+【中信建投：公募基金軍工持倉結構性分化 靜候“十五五”訂單落地節奏】中信建投研報表示，截至2026Q2，公募基金軍工持倉總市值1682.49億元，佔比3.77%，相較於2025Q4低點（3.25%）回升0.52個百分點，相較於2026Q1小幅回落0.2個百分點。26H1公募基金軍工持倉佔比相對減配，更多來自市場風格層面的資金再配置。隨著“十四五”收官階段訂單加速交付、業績逐漸兌現，以及“十五五”初期新質戰鬥力建設與全球軍貿拓展雙線並進，行業有望構建新增長曲線。
+
+---
+
+### 2026-09-10 08:31:58  #公司
+
+【中國電研：目前暫未開發直接應用於硬質PCB的樹脂類產品】中國電研在互動平臺表示，公司現有油墨樹脂產品能夠適配柔性線路板（FPC）的應用場景，目前暫未開發直接應用於硬質PCB的樹脂類產品。
+
+---
+
+### 2026-09-10 08:31:08  #觀點
+
+【中信證券：年內銅價有望站上16000美元/噸】中信證券研報稱，上半年全球主要銅礦企業產量下滑近5%，極端天氣和關鍵輔料的潛在擾動或致下半年產量延續下滑態勢。供需改善趨勢下，可預見的去庫延續將強化銅價的交易彈性；後續若遞增式關稅落地，新一輪的高強度庫存囤積有望助推年內銅價站上16000美元/噸。往更遠看，中信證券預測中長期銅礦供應增速僅為2%—2.5%，不宜高估2028年—2029年的供應高峰，但應充分重視中資企業主導增產所帶來的量增彈性及價值。
+
+---
+
+### 2026-09-10 08:30:50  #市場
+
+上海證交所上日融資餘額下跌0.2%至13,378.6億元。
+
+---
+
+### 2026-09-10 08:29:51  #公司 #資料 #市場 #觀點 #國際
+
+【中金：後續通脹走勢仍有賴於政策發力推動內需改善】中金公司研報表示，8月CPI環比上漲0.4%，同比由0.5%回升至0.8%，能源價格反彈是主要推動因素。PPI環比由下降0.7%轉為上漲0.4%，同比由3.5%回升至3.8%，主要受原油、煤炭及有色金屬價格上漲所帶動。但在終端需求偏弱下，上游漲價向生活資料和終端消費品的傳導相對有限，價格修復仍呈現明顯的結構性特徵。近期中東地緣局勢反覆，國際油價再度走高，我們認為，短期輸入性通脹仍有粘性，但後續通脹走勢仍有賴於政策發力推動內需改善。
+
+---
+
+### 2026-09-10 08:29:12  #公司 #國際
+
+【監管機構調查英偉達與 Groq 的授權協議】兩名知情人士稱，美國司法部正在調查英偉達去年與 AI 晶片廠商 Groq 達成的交易，判斷英偉達是否試圖規避反壟斷審查。Groq 當時將該交易描述為一份 “非獨佔許可協議”，允許英偉達使用 Groq 專為人工智慧運算打造的晶片。作為協議的一部分，Groq 執行長喬納森・羅斯與營運長桑尼・馬德拉加入英偉達。
+
+---
+
+### 2026-09-10 08:28:29  #宏觀
+
+【11月起新規實施 這七類服務費用由付款企業代扣代繳增值稅】財政部、稅務總局近期釋出《境內單位代扣代繳自然人增值稅管理辦法》，從今年11月1日起施行。《辦法》明確，今後企業或機構向個人支付研發、軟體、設計、諮詢、影視製作、文化、教育這七類服務費用時，要代扣代繳這筆業務對應的增值稅。
+
+---
+
+### 2026-09-10 08:26:28  #MKT News #NVDA.O #Impact bearish
+
+Regulators are investigating a licensing agreement between NVIDIA and Groq, the New York Times reports.
+
+---
+
+### 2026-09-10 08:26:16  #MKT News
+
+【CITIC Securities: Chinese innovative-drug sector's overseas rollout gains traction; sector at profit inflection point】CITIC Securities says since early 2026 China's innovative-drug market has seen rapid domestic volume growth. Interim results from leading innovators show fast revenue expansion driven by new products and biopharma firms are moving into a profitability inflection. Overseas programs are entering Phase III/registration-study stages, and several upcoming international conferences create concentrated data catalysts. The firm highlights three investor priorities: (1) leading internationalized innovators poised for global value realization; (2) top domestic innovators entering a new product-ramp growth phase; (3) pipeline assets with global potential whose internationalization may accelerate value realization. CITIC maintains an Outperform rating on the sector.
+
+---
+
+### 2026-09-10 08:26:11  #其他
+
+【山西省政府與中科曙光舉行工作會談】據山西日報，9月8日，山西省委副書記、省長盧東亮與中科曙光董事長曆軍一行舉行工作會談，就建設算力產業生態、加快數字經濟發展等進行深入交流。盧東亮說，“十五五”時期，希望中科曙光將山西作為全國佈局的重要戰略基地，立足當前合作基礎，積極推動光合組織產業生態創新中心落地，圍繞建設萬卡智算叢集、佈局詞元工廠、配套熔鹽儲能、發展太空算力、地理資訊和低空安全服務、政務大模型應用、算力硬體研發製造等領域深化合作，培育更多高價值應用場景，帶動產業鏈上下游企業集聚山西，共同構建“數算模用”一體化產業生態。山西將全力做好服務保障，為企業在晉發展創造良好環境。
+
+---
+
+### 2026-09-10 08:25:58  #公司
+
+【中科復興與海康威視簽署戰略合作協議】據海康威視訊息，近日，河北中科復興科技有限公司（簡稱“中科復興”）到訪海康威視，雙方舉行戰略合作簽約儀式。座談交流中，雙方就生命線監測產品迭代、AI大模型應用、區域市場協同等議題深入探討，達成多項共識。隨後，雙方代表正式簽署戰略合作協議。未來，雙方將持續加強技術共研與方案共建，打造可複製、可推廣的城市安全數智化解決方案。
+
+---
+
+### 2026-09-10 08:25:44  #國際
+
+美國南方司令部：9月9日，在南方司令部的指導下， 西半球聯合特遣部隊對一艘在加勒比海沿已建立的毒品販運路線運營的高速船隻執行了一次致命的動能打擊。確認的情報顯示該船隻積極參與毒品販運。該行動殺死了三名毒品恐怖分子。
+
+---
+
+### 2026-09-10 08:25:39  #MKT News
+
+【Seventh national centralized volume-based procurement for medical consumables opens for bidding today】China’s seventh national organized centralized volume-based procurement for medical consumables opens for bidding in Tianjin today. The round targets gastrointestinal interventional consumables and includes 23 product types covering GI polypectomy and biliary‑pancreatic intervention consumables. Contract terms are about three years. Procurement rules have been optimized with an emphasis on clinical stability and quality, and measures to curb internal price competition and prevent bid collusion while accommodating diverse clinical demand and industry quality development.
+
+---
+
+### 2026-09-10 08:24:45  #觀點
+
+【中信證券：創新藥出海漸入佳境，板塊進入盈利拐點】中信證券表示，2026年以來，中國創新藥國內市場快速放量，從中報來看頭部創新藥企業在新產品驅動下，創新藥收入快速增長，biopharma陸續進入盈利拐點；出海創新藥開始進入三期/註冊研究兌現階段；近期多個國際學術大會將至，眾多創新藥管線進入密集的資料催化期。我們認為中國創新藥進入全球價值兌現階段，建議關注：①頭部國際化創新藥企業有望迎來產品全球價值兌現期；②頭部創新藥企業產品放量進入新的成長階段；③具有全球潛力的管線資產國際化有望加速兌現。綜上，我們維持創新藥行業“強於大市”評級。
+
+---
+
+### 2026-09-10 08:24:42  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
+
+【Trump to send $500 'Obamacare' refunds to up to 1 mln before Nov. 3 midterms】The Trump administration will deliver $500 refunds by direct deposit to up to 1 million people across 30 states, saying they were overcharged under the Affordable Care Act (Obamacare). Payments are scheduled to arrive before the Nov. 3 midterm elections. The administration is concurrently promoting its tax-cut legislation and prescription-drug plan as generating cost savings.
+
+---
+
+### 2026-09-10 08:24:16  #其他
+
+【英國民航局：受系統故障影響旅客可能無權獲賠償】英國航班管理系統8日發生的故障已導致超2000架次航班被取消。英國民航局9日發表宣告說，此次故障導致的航班執行受擾可能被認定為旅客權益規定中的“特殊狀況”，因此受影響旅客可能無法獲得賠償。英國交通大臣海迪·亞歷山大9日說，此次故障導致數十萬名旅客面臨航班取消、改道和延誤，但她“不認為此事不可避免”。她已要求對此次事件原因展開獨立調查。（新華社）
+
+---
+
+### 2026-09-10 08:24:15  #MKT News
+
+U.S. Southern Command said it conducted a lethal strike on a fast boat operating along a known drug-smuggling route in the Caribbean.
+
+---
+
+### 2026-09-10 08:23:48  #公司
+
+【昨日ETF資金整體淨流入33.83億元】據同花順iFinD資料顯示，2026年9月9日，ETF資金整體淨流入33.83億元，股票型淨流出22.17億元，寬基型淨流出32.37億元。當日ETF資金淨流入榜單排名前3依次為：海富通上證基準做市公司債ETF（511190）淨流入6.54億元，華夏上證科創板50成份ETF（588000）淨流入6.49億元，易方達上證基準做市公司債ETF（511110）淨流入5.78億元。
+
+---
+
+### 2026-09-10 08:23:04  #其他
+
+KeyBanc 分析師布蘭登・尼斯佩爾等在研報中寫道：我們認為本次新品對蘋果業績存在小幅利空。高昂售價大機率無法完全抵消毛利率承壓，出貨量或將走低，最終拖累使用者規模與服務業務增長。
+
+---
+
+### 2026-09-10 08:20:11  #公司 #國際
+
+【美參議員就Hugging Face事件質詢OpenAI】當地時間9月9日，美國民主黨參議員Richard Blumenthal就涉及Hugging Face事件，致函OpenAI執行長Sam Altman，要求其提供關於OpenAI安全保障措施和操作流程的資訊。Altman需在9月24日前作出回應。
+
+---
+
+### 2026-09-10 08:20:08  #宏觀 #公司 #國際
+
+【印尼財長：下週更換雅萬高鐵股東，中方同意將貸款期限由40年延長至80年】據路透社9月8日報道，當地時間週二，印度尼西亞財政部長普爾巴亞透露，印尼將於下週更換雅萬高鐵的控股股東。 普爾巴亞上個月曾表示，財政部下屬機構將收購高鐵運營公司60%的股份，中方企業保留40%。但他週二進一步說明，當局正在權衡將這60%股份轉讓給印尼投資管理局（INA），或財政部下屬的發展融資機構薩拉納·多基礎設施公司（SMI）。股權移交預計於9月15日完成。 普爾巴亞並未說明當前股東——由國家鐵路公司Kereta Api Indonesia牽頭的財團——是否會因股權轉讓獲得補償，但表示新的股東將負責償還專案未償貸款。 據介紹，中國國家開發銀行最初提供的45億美元貸款原期限為40年，並設有10年寬限期，此後印尼又追加貸款以彌補成本超支。普爾巴亞透露，經過重組談判，中國同意將貸款期限延長至80年。 此外，他透露，在股權完全移交後，鐵路將向東延伸約700公里，至該國第二大城市泗水，但他未說明延伸專案的資金來源。 （觀察者網）
 
 ---
 
@@ -16405,233 +16633,5 @@ Chile's central bank kept its policy rate unchanged at 4.50%, in line with marke
 ### 2026-09-09 04:53:35  #其他
 
 【第80屆聯大閉幕 孟加拉國外長就任下屆聯大主席】第80屆聯合國大會8日舉行閉幕會。第80屆聯大主席安娜萊娜·貝爾伯克致辭，孟加拉國外長卡利勒·拉赫曼宣誓就任下一屆聯大主席，並從貝爾伯克手中接過聯大議事槌。貝爾伯克說，第80屆聯大工作重點是聯合國改革、捍衛《聯合國憲章》、促進發展以及下一任聯合國秘書長遴選，同時開啟了人工智慧管理這一全球性議題的討論。第80屆聯大共召集18場高階別會議，開展26項政府間程序，舉行116次聯大正式全體會議，透過317項決議。聯合國秘書長古特雷斯在現場講話中說，第80屆聯大是在人類面臨武裝衝突不斷、國際體系缺陷導致不公與貧困等複雜挑戰背景下召開的。在當今動盪時代，所有國家必須團結起來，共同努力尋求出路。拉赫曼在閉幕會後的記者見面會上表示，多邊主義正面臨前所未有的挑戰，同時世界也面臨前所未有的機會，尤其在新技術領域。第81屆聯大擔負著重大責任，他將直面挑戰並抓住機會，重視合作與對話，盡最大努力尋求共識。 (央視新聞)
-
----
-
-### 2026-09-09 04:53:30  #市場
-
-【OpenAI內部模型88小時暴力攻克千禧年數學難題】當地時間週二，OpenAI公佈了對千禧年數學難題之一——納維-斯托克斯方程相關問題的解決方案。該方程式用於描述空氣、水和血液等流體的運動。OpenAI還首次透露，該問題解決的背後是一款能力顯著強於GPT-6 Astra的下一代內部模型。圖表顯示，在一組精選開放數學問題上，這款內部模型透過率最高接近48%，約為Astra最高表現的近3倍。OpenAI表示，這項數學突破耗費了數百萬美元的運算成本。研究團隊調動了約1萬個協同AI智慧體，在首批智慧體啟動約88小時後便得出解答。OpenAI研究顯示，三維流體運動可能在有限時間內產生奇點，導致方程對流體作為連續介質的描述出現崩潰。此前，紐約大學數學家Tristan Buckmaster與Anthropic研究員Levent Alpöge剛剛發表了一項針對相關流體動力學方程的AI輔助研究。Buckmaster隨後發表宣告質疑，OpenAI是在聽聞其研究後才著手處理該問題，並採用了他們耗時數月開發的罕見研究方法。OpenAI對此表示，其團隊在對方公開研究前未透過任何方式接觸其工作，也未訪問任何具體使用者資料，並稱雙方的證明方法存在顯著差異。
-
----
-
-### 2026-09-09 04:52:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid to $4,350/oz intraday, down 1.37% on the day.
-
----
-
-### 2026-09-09 04:50:29  #市場
-
-【國際金價跌1%，紐約期銅漲超1.3%一度逼近6.9美元關口】週二（9月8日）紐約尾盤，現貨黃金跌1.06%，報4357.62美元/盎司，亞太時段衝高回落、北京時間12:05重新整理日高至4442.96美元，至01:04這段時間大致持平——交投於4400美元附近，之後持續下挫。現貨白銀跌0.68%，報65.7189美元/盎司。COMEX銅期貨漲1.36%，報6.7735美元/磅，長週末歸來持續上揚、21:19達到6.8730美元，隨後回吐部分漲幅，再度逼近8月6日頂部6.96美元。在美股時段交易的費城金銀指數收跌0.40%，在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌0.71%。在美股時段交易的原材料指數收跌0.47%，金屬與礦業指數收漲0.86%。
-
----
-
-### 2026-09-09 04:50:03  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.33%。
-
----
-
-### 2026-09-09 04:50:03  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.33%。
-
----
-
-### 2026-09-09 04:49:57  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌1.95%。
-
----
-
-### 2026-09-09 04:49:57  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌1.95%。
-
----
-
-### 2026-09-09 04:49:56  #市場 #焦點
-
-紐約期金失守4400美元/盎司，日內跌1.92%。
-
----
-
-### 2026-09-09 04:49:56  #市場 #焦點
-
-紐約期金失守4400美元/盎司，日內跌1.92%。
-
----
-
-### 2026-09-09 04:44:16  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises With Broad Gains — The Ibovespa rose 1.2% to close at 187,367 points on Tuesday following Monday’s holiday, posting broad-based gains. Petrobras rose 2.1% as oil prices surged following attacks on energy infrastructure in Saudi Arabia amid renewed hostilities in the Middle East. Banks also performed well, Bradesco rose 1.8% and Itaú advanced 1.2%, as the Focus survey released Tuesday continued to project lower inflation, raising the prospect of further interest-rate cuts. Meanwhile, a BTG/Nexus poll pointed to a technical tie between Flávio Bolsonaro and President Lula in a potential presidential runoff, although Flávio moved into a numerical lead of one percentage point. On Monday, a Quaest poll also showed the two tied at 41% in a second-round scenario. Flávio Bolsonaro is viewed by markets as more fiscally restrictive amid elevated yields and weak business activity. Sabesp gained 1.1% after brokerages raised their price targets following a meeting with the company’s management.
-
----
-
-### 2026-09-09 04:40:46  #MKT News
-
-IRNA: An adviser to Iraq's prime minister said Iraq must have full sovereignty over its airspace and must not host any foreign armed forces on its territory.
-
----
-
-### 2026-09-09 04:36:05  #國際
-
-Liv Golf在美國新澤西州申請破產。
-
----
-
-### 2026-09-09 04:34:58  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.17% Lower — The Dow Jones Index dropped 627 points or 1.17 percent on Tuesday to close at 52788 points. Losses were led by Amgen (-10.15%), Salesforce (-3.94%) and Home Depot (-2.32%).
-
----
-
-### 2026-09-09 04:32:44  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Falls on Broad Losses — The S&P/TSX Composite Index fell 1.1% to close at 36,123, pressured by financial, industrial and tech stocks. Canada’s retaliatory tariffs on US goods took effect, covering $20 billion of imports, with duties ranging from 15% to 50% on steel, furniture, clothing and electronics. The US tariffs introduced last month covered $20 billion, or 5%, of Canadian exports. President Trump said Monday that Bombardier (-1.5%) would not be allowed to sell planes in the US unless it began manufacturing there. Financials also came under pressure as oil prices climbed amid an escalation in the US-Iran war, raising concerns over energy disruptions and inflation and boosting rate-hike bets. RBC fell 1.1% and TD Bank 1.2%. Tech stocks tracked losses among US hyperscalers and other credit-sensitive software companies, with Shopify tumbling 7.8% and Constellation Software falling 5.6%. Enbridge added 0.5% after saying CEO Greg Ebel will retire by late 2026 and ?be succeeded by Michele Harradence.
-
----
-
-### 2026-09-09 04:32:03  #國際
-
-【美官員透露美軍打擊哈爾克島附近伊朗目標】當地時間9月8日自美國方面獲悉，美軍打擊了伊朗哈爾克島和港口城市賈斯克附近的目標。有匿名美國高階官員表示，打擊目標包括伊朗油輪。當地時間8日晚，伊朗方面訊息稱，一艘伊朗油輪在距離哈爾克島4英里處遭到美軍導彈襲擊。當地訊息人士稱，事件中無人傷亡，油輪船員正在撤離。相關部門正在調查有關事件的具體情況。（央視新聞）
-
----
-
-### 2026-09-09 04:30:36  #國際
-
-特朗普：指示美國總務管理局（GSA）與美國貿易代表辦公室（USTR）協作，採取一切必要措施，將原產於加拿大的產品移出美國總務管理局的多項授予計劃表。除非加拿大為美國農戶與企業恢復充分、公平的對等互惠待遇。
-
----
-
-### 2026-09-09 04:30:01  #其他
-
-英國希思羅機場：空中交通管制服務開始恢復。航班已恢復，但預計仍會有干擾。
-
----
-
-### 2026-09-09 04:29:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. officials said U.S. forces struck multiple Iranian tankers linked to the Islamic Revolutionary Guard Corps in response to repeated missile-attack attempts on U.S. Navy ships.
-
----
-
-### 2026-09-09 04:29:08  #國際
-
-美國官員：作為對多起針對美國海軍艦艇的導彈襲擊未遂事件的回應，美軍打擊了多艘與伊斯蘭革命衛隊（IRGC）有關聯的伊朗油輪。
-
----
-
-### 2026-09-09 04:29:06  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-Brent crude intraday gains widened to 2.00%, trading at $97.69/bbl.
-
----
-
-### 2026-09-09 04:25:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's state broadcaster IRIB said the U.S. attacked a second tanker in waters near Jask.
-
----
-
-### 2026-09-09 04:24:50  #國際
-
-伊朗國家廣播電視臺（IRIB）：美國襲擊了賈斯克水域附近第二艘油輪。
-
----
-
-### 2026-09-09 04:24:30  #MKT News #Market Regions #Europe & UK
-
-London Heathrow Airport: flight operations have resumed, but further disruption is expected.
-
----
-
-### 2026-09-09 04:23:10  #MKT News #GBPUSD #Impact bullish
-
-Air traffic control services at London Heathrow Airport have begun to resume.
-
----
-
-### 2026-09-09 04:21:11  #MKT News #Important #DXY #Impact bullish #WTI #S&P500 #Impact bearish
-
-【WSJ: Iran reportedly attacks U.S. naval vessels again; U.S. officials warn of missile upgrades】The Wall Street Journal, citing U.S. officials, reported Iran on Monday again struck U.S. naval vessels—the second maritime action against U.S. forces in three days—though the U.S. military has not acknowledged the incident. U.S. officials say recent strikes suggest Iran may be deploying more capable missiles; Tehran claims it used newly fielded missiles with advanced guidance. Analysts cited by the report say some Iranian missiles carry electro‑optical seekers for image-based tracking of moving targets. The U.S. previously struck three Iranian oil tankers over attacks on U.S. ships; U.S. policymakers are pursuing blockade and sanctions to compel Tehran, but officials say Iran continues to strengthen its threat to U.S. warships.
-
----
-
-### 2026-09-09 04:20:05  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-【EU says Israeli expansion of West Bank settlements undermines two-state prospects】EU foreign-policy chief Kallas said all EU member states agree Israeli settlements in the West Bank violate international law and that Israel’s expansion of settlements is undermining prospects for a two-state solution. Twelve countries, including the UK, France and Canada, issued a joint statement committing to restrictions on trade in goods originating from Israeli settlements.
-
----
-
-### 2026-09-09 04:19:52  #國際
-
-美國國家航空航天局（NASA）徵集方案，以加速月面技術研發。
-
----
-
-### 2026-09-09 04:19:33  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Gains on Supply Disruption Fears — Brent crude settled around $98 and kept climbing after reports claimed explosions had been heard in an area of Kharg. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway.
-
----
-
-### 2026-09-09 04:17:30  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Hits Six-Week High — Crude oil climbed back to $94 a barrel on Tuesday, the highest in six weeks, amid growing concerns over potential supply disruptions. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway.
-
----
-
-### 2026-09-09 04:14:27  #國際
-
-【歐盟稱以色列擴張約旦河西岸定居點破壞“兩國方案”前景】歐盟外交與安全政策高階代表卡拉斯8日在社交媒體發文稱，所有歐盟成員國一致認為，約旦河西岸的以色列定居點違反國際法。以色列政府在約旦河西岸的定居點擴張正在破壞“兩國方案”的前景。卡拉斯重申，歐盟仍堅定致力於支援基於“兩國方案”的全面、公正和持久和平。英國、法國、加拿大等12國當天發表聯合宣告，就限制與以色列定居點的商品貿易作出相關承諾。（央視新聞）
-
----
-
-### 2026-09-09 04:13:48  #其他
-
-市場訊息：Snap 首席商務官莫漢（Mohan）將於年底離職。 任命羅南・哈里斯（Ronan Harris）擔任首席商務官。
-
----
-
-### 2026-09-09 04:10:50  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-US Stocks Fall Amid Rising Energy Prices — US stock indices closed lower on Tuesday as higher energy prices dented the outlook for corporate margins and increased the risk of higher interest rates. Traders are also awaiting key inflation data due later this week. The S&P 500 fell 0.6%, the Nasdaq lost 0.3%, and the Dow shed 628 points. New strikes between the US and Iran raised concerns over prolonged disruptions to fuel exports from the Persian Gulf, while Houthi attacks damaged Saudi energy infrastructure and reduced its capacity. Borrowing costs for US companies also rose amid hawkish signals from the Bank of Japan and likely Japanese sales of US Treasuries to support the yen. Credit-sensitive software stocks declined, with Microsoft losing 1.1%, Palantir down 2.3%, and Amazon shedding 0.6% ahead of its sterling bond offering. AI companies have increasingly borrowed in foreign currencies as dollar bond markets face a surge in AI-related debt supply. Meanwhile, Oracle gained 2.4% ahead of earnings this week.
-
----
-
-### 2026-09-09 04:10:25  #國際
-
-StoneX：上調美國 2026 年大豆產量預估至 45.47 億蒲式耳（此前為 44.70 億蒲式耳），單產維持在每英畝 53.0 蒲式耳。上調美國 2026 年玉米產量預估至 162.07 億蒲式耳（此前為 161.60 億蒲式耳），將單產下調至每英畝 182.9 蒲式耳（此前為 184.8 蒲式耳）。
-
----
-
-### 2026-09-09 04:09:40  #國際
-
-【巴勒斯坦歡迎12國擬限制與以色列定居點商品貿易】巴勒斯坦總統府8日表示，歡迎法國、英國、加拿大等12國外長有關擬限制與約旦河西岸以色列定居點商品貿易的聯合宣告。據巴勒斯坦通訊社報道，巴勒斯坦總統府發表宣告說，此舉是追究定居點活動責任的重要步驟，體現了對在歐洲層面採取類似措施的支援。（央視新聞）
-
----
-
-### 2026-09-09 04:09:04  #公司 #觀點 #國際
-
-市場訊息：花旗集團最快將於今年，為日本企業提供跨境匯款服務，該服務採用基於區塊鏈的代幣化存款。
-
----
-
-### 2026-09-09 04:07:24  #MKT News #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) CEO said capital allocation may focus on increased dividends and share buybacks.
-
----
-
-### 2026-09-09 04:06:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil rises on the 8th】At the close, NYMEX October light sweet crude gained $1.55 to $93.03/bbl, up 1.69%; ICE Brent November added $0.92 to $97.92/bbl, up 0.95%.
-
----
-
-### 2026-09-09 04:06:21  #焦點 #國際
-
-【伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離】當地時間8日晚，伊朗伊斯蘭革命衛隊就美軍襲擊伊朗油輪事件發出緊急警告。革命衛隊警告稱，鑑於美軍襲擊伊朗多艘油輪的罪惡行徑，伊朗警告所有停泊在科威特和巴林港口的油輪船員，由於這些港口收留了美軍，因此無論油輪停泊在錨地還是港口，船員都應立即離開，因為其將成為襲擊目標。（央視新聞）
 
 ---

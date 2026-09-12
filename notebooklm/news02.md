@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-13 00:15:22_
-_本檔包含 2774 則快訊，約 546461 字_
+_更新時間：2026-09-13 02:41:53_
+_本檔包含 2770 則快訊，約 545007 字_
+
+---
+
+### 2026-09-11 09:30:52  #MKT News #CSI300 #Impact bearish #CNH
+
+CSI Convertible Bond Index opened down 0.29%. Largest decliners: Jincheng convertible bond -4.16%, Jin25 convertible bond -3.04%, Ruike convertible bond -2.55%, Hejin convertible bond -2.21%, Qizhong convertible bond -2.15%. Top gainers: Youcai convertible bond +15.96%, Guiran convertible bond +1.69%, Lanxiao 02 convertible bond +0.94%, Sanjiang convertible bond +0.78%, Kema convertible bond +0.76%.
+
+---
+
+### 2026-09-11 09:30:33  #市場 #焦點
+
+北證50日內跌幅達1.02%，成分股中，銅冠礦建跌4.55%，戈碧迦跌2.43%，萬源通跌2.40%，艾融軟體跌2.35%。
+
+---
+
+### 2026-09-11 09:30:22  #市場 #觀點
+
+【貴金屬板塊低開】貴金屬板塊低開，興業銀錫、湖南白銀、紫金礦業、中金黃金跌幅居前。
+
+---
+
+### 2026-09-11 09:30:20  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌1%，現報4407.20點。
+
+---
+
+### 2026-09-11 09:30:20  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌1%，現報4407.20點。
+
+---
+
+### 2026-09-11 09:30:20  #MKT News #Market Themes #China EV Leaders #Chip Wars #Copper #Impact bullish #CSI300 #CNH
+
+【MIIT and eight ministries issue 15th Five-Year plan for intelligent connected NEV industry; launch rolling industrial-chain development actions】The Ministry of Industry and Information Technology and eight other ministries issued the 15th Five-Year Plan for the Intelligent Connected New Energy Vehicle industry, targeting higher industrial-chain resilience and security. They will implement rolling high-quality development actions to address gaps in key basic materials, operating systems, industrial software, and automotive chips and components, use priority policies for first-batch materials and initial-release software, and expand application scale. The plan also calls for coordinated extraction and recycling of lithium, cobalt and nickel.
+
+---
+
+### 2026-09-11 09:30:16  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+Stocks in China Hit 6-week Low — CSI 300 decreased to 4513.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Shanghai Shenzhen CSI 300 Index lost 3.19%, and in the last 12 months, it decreased 0.73%.
+
+---
+
+### 2026-09-11 09:30:12  #市場 #焦點
+
+恒生指數跌超1%，現報24697.010點；恒生科技指數現跌1.546%。
+
+---
+
+### 2026-09-11 09:30:12  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
+
+China A-share oil and gas exploration and services sector opened higher in the pre-open call auction; Keli Co. rose over 6%, with Tongyuan Petroleum, Zhongman Petroleum, Shouhua Gas and Lanyan Co. also gaining.
+
+---
+
+### 2026-09-11 09:30:10  #其他
+
+【工信部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，到2030年，我國智慧網聯新能源汽車全產業鏈優勢進一步鞏固，進入世界汽車強國行列，國內市場新能源乘用車、商用車在各自領域新車總銷量的佔比分別達到70%、40%，具備自動駕駛功能的汽車實現規模應用。關鍵技術水平有效提升。乘用車平均燃料消耗量達到每百公里3.3升、純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右。高速公路、城市快速路、部分城市道路等場景實現高度自動駕駛。產業結構持續最佳化。行業數智化發展達到較高水平，全員勞動生產率較2025年提升15%。培育形成若干家進入全球銷量前十的整車企業和全球百強零部件企業。國際化發展新局面初步形成。企業國際化經營能力持續提高，中國汽車品牌具有較高美譽度，國際標準法規制定的話語權進一步提升。經濟社會效益進一步增強。汽車產業國民經濟支柱地位進一步凸顯，在2030年前實現碳達峰，帶動供應鏈加速綠色低碳轉型。搭載自動駕駛系統車輛的安全效能大幅超過人類駕駛員。
+
+---
+
+### 2026-09-11 09:30:04  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續跌1.37%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌1.11%， 上證50指數期貨連續跌0.93%。
+
+---
+
+### 2026-09-11 09:30:04  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.09%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。
+
+---
+
+### 2026-09-11 09:30:03  #市場 #焦點
+
+科創50日內跌幅達1.31%，成分股中，瀾起科技跌2.72%，佰維儲存跌2.55%，生益電子跌2.37%，沐曦股份跌2.29%。
+
+---
+
+### 2026-09-11 09:30:02  #市場 #焦點
+
+深證成指跌1.00%，現報13481.224點；上證指數跌0.60%，現報3910.923點；創業板指跌0.83%，現報3310.771點。
+
+---
+
+### 2026-09-11 09:29:48  #MKT News #Market Themes #China EV Leaders #CSI300 #Impact bullish #Copper #CNH
+
+【MIIT and eight ministries issue intelligent connected NEV '15th Five-Year' plan; targets carbon peak before 2030】MIIT and eight other ministries issued a '15th Five-Year' development plan for the intelligent connected new-energy vehicle (NEV) industry, seeking stronger economic and social benefits and further cementing the auto sector as a pillar of China’s economy. The plan targets achieving carbon peak before 2030, directs accelerated green, low-carbon transformation across the auto supply chain, and states that vehicles equipped with autonomous driving systems will have safety performance far exceeding human drivers.
+
+---
+
+### 2026-09-11 09:29:22  #MKT News #Market Regions #Greater China #Brent #Impact bearish #Copper #Impact bullish
+
+【MIIT and eight ministries set 2030 target: BEV energy use ~11.5 kWh/100km】MIIT and eight other ministries issued the 15th Five-Year plan for the intelligent, connected new-energy vehicle (NEV) industry, setting 2030 targets: passenger-car average fuel consumption of 3.3 L/100km and battery-electric passenger-car average energy consumption of about 11.5 kWh/100km. The plan calls for significant improvements in key technologies and deployment of high-level autonomous driving on highways, urban expressways and selected urban roads.
+
+---
+
+### 2026-09-11 09:29:11  #其他
+
+【工信部等九部門：到2030年純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右】工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，到2030年，關鍵技術水平有效提升。乘用車平均燃料消耗量達到每百公里3.3升、純電動乘用車平均電能消耗量達到每百公里11.5千瓦時左右。高速公路、城市快速路、部分城市道路等場景實現高度自動駕駛。
+
+---
+
+### 2026-09-11 09:29:06  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報7626.00點。
+
+---
+
+### 2026-09-11 09:28:54  #MKT News #Important #Market Regions #Greater China
+
+【MIIT and eight ministries set 2030 target for large-scale use of autonomous-capable cars】The Ministry of Industry and Information Technology and eight other ministries issued the "15th Five-Year Plan for the intelligent connected new-energy vehicle industry", setting 2030 targets: consolidate China’s full NEV industry-chain advantage and enter the ranks of global auto powers; new-energy passenger cars and commercial vehicles to account for 70% and 40% respectively of new-vehicle sales in their segments; vehicles equipped with autonomous-driving capabilities to achieve large-scale deployment.
+
+---
+
+### 2026-09-11 09:28:42  #其他
+
+【工信部等九部門：到2030年具備自動駕駛功能的汽車實現規模應用】工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，到2030年，我國智慧網聯新能源汽車全產業鏈優勢進一步鞏固，進入世界汽車強國行列，國內市場新能源乘用車、商用車在各自領域新車總銷量的佔比分別達到70%、40%，具備自動駕駛功能的汽車實現規模應用。（工信部）
+
+---
+
+### 2026-09-11 09:28:01  #MKT News #Important #002594.SZ #Impact bullish #300750.SZ #NIO.O
+
+China's Ministry of Industry and Information Technology and eight other ministries issued the '15th Five-Year Plan' for development of the intelligent connected new-energy vehicle industry.
+
+---
+
+### 2026-09-11 09:27:50  #其他 #焦點
+
+工信部等九部門關於印發《智慧網聯新能源汽車產業發展“十五五”規劃》。（工信部）
+
+---
+
+### 2026-09-11 09:27:40  #公司 #市場
+
+【油氣開採及服務板塊高開，科力股份高開超6%】油氣開採及服務板塊高開，科力股份高開超6%，通源石油、中曼石油、首華燃氣紛紛高開。
+
+---
+
+### 2026-09-11 09:27:30  #公司
+
+【涉及安踏收購彪馬股權案等 一批無條件批准經營者集中案件公佈】市場監管總局今天公佈2026年8月31日—9月6日無條件批准經營者集中案件列表，其中包括安踏體育用品有限公司收購彪馬股份公司股權案、寧德時代新能源科技股份有限公司收購重慶耀寧新能源科技有限公司股權案等。
+
+---
+
+### 2026-09-11 09:27:30  #MKT News #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China's Shanghai Composite Index opened down 23.48 points (-0.60%) at 3,910.92 on Friday, Sept 11; Shenzhen Composite opened down 134.04 points (-0.98%) at 13,483.63; CSI 300 Index opened down 34.09 points (-0.75%) at 4,514.30; ChiNext Index opened down 28.41 points (-0.85%) at 3,310.01; STAR 50 Index opened down 20.52 points (-1.31%) at 1,548.70.
+
+---
+
+### 2026-09-11 09:26:06  #公司
+
+【TÜV萊茵與洋浦國際達成戰略合作】德國萊茵TÜV大中華區與洋浦國際投資諮詢有限公司日前簽訂戰略合作備忘錄。根據合作規劃，洋浦國際與TÜV萊茵將共同推進"儋洋清潔低碳能源技術安全服務中心"建設，圍繞清潔低碳能源體系建設，在技術安全服務、能源專案全生命週期技術保障以及國際市場準入與合規服務等領域開展深度合作。
+
+---
+
+### 2026-09-11 09:25:47  #市場
+
+【燧原科技上市首日開盤大漲超188%】燧原科技上市首日開盤漲188.37%，現報410元，該股發行價為142.18元。按開盤價計算，投資者中一簽（500股）浮盈約13.39萬元。
+
+---
+
+### 2026-09-11 09:25:37  #焦點
+
+三大股指低開，滬指跌0.6％，深成指跌0.98％，創業板跌0.85％。
+
+---
+
+### 2026-09-11 09:25:34  #市場 #焦點
+
+A股三大股指開盤齊跌，上證指數跌0.60%，深證成指跌0.98%，創業板指跌0.85%。
+
+---
+
+### 2026-09-11 09:25:33  #MKT News #Important #SSE Composite #Impact bearish #SZSE Component
+
+China A-shares opened: Shanghai Composite down 0.6%, Shenzhen Composite Index down 0.98%, ChiNext Index down 0.85%. Newly listed N Suiyuan opened 188% higher on its debut.
+
+---
+
+### 2026-09-11 09:23:58  #市場 #焦點
+
+低硫燃料油連續主力合約日內漲6%，現報5564.00元。
+
+---
+
+### 2026-09-11 09:22:51  #其他
+
+【阿爾及利亞禁止在阿聯酋註冊的航空器進入其領空】阿爾及利亞國防部10日宣佈，鑑於該國此前已宣佈與阿聯酋斷交，阿爾及利亞從當地時間11日0時起禁止在阿聯酋註冊的民用及軍用航空器進入其領空。阿爾及利亞國防部發布的宣告說，這項禁令適用於往返阿爾及利亞的阿聯酋註冊飛機，但阿聯酋往返首都阿爾及爾胡阿里·布邁丁國際機場的商業航班將獲准繼續運營，直至2026年底現有合同期滿為止。
+
+---
+
+### 2026-09-11 09:22:08  #央行 #美聯儲
+
+【美聯儲觀察：市場預計美聯儲9月加息機率升至72.4%】芝加哥商品交易所“美聯儲觀察”資料顯示，聯邦基金期貨市場預計，美聯儲下週會議後將聯邦基金利率目標區間上調至3.75%至4.00%的機率為72.4%，維持當前3.50%至3.75%區間的機率為27.6%。一個月前市場對美聯儲將利率維持在3.75%至4.00%區間的機率為52.2%，目前已升至72.4%。
+
+---
+
+### 2026-09-11 09:22:03  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Stocks Poised for Second Straight Weekly Loss — Australian shares dipped 72 points, or 0.8%, to 8,747 on Friday morning, down for the fourth session to hit their lowest in two months. Losses were broad, led by healthcare, tech, non-energy minerals, and logistics, as Wall Street’s overnight slide weighed on sentiment. Rising U.S. Treasury yields and Brent crude above USD107 fueled inflation and rate-hike fears, while President Trump warned energy costs may stay high until after November’s vote. Locally, concerns grew that elevated rates and sticky inflation could tip the economy into a slowdown. RBA Deputy Gov. Hauser said further tightening will be debated at September’s meeting, echoed by Assistant Gov. Sarah Hunter’s warning of limited tolerance for stronger price pressures. Heavyweights BHP (-4.1%), Evolution Mining (-3.8%), and Northern Star Resources (-3.6%) dragged, though the big four banks bucked the trend, up between 0.2%–1.4%. For the week, the market is on track for a second straight weekly drop, down nearly 3% so far.
 
 ---
 
@@ -16506,233 +16710,5 @@ FHFA director said the agency will immediately incorporate Fannie Mae and Freddi
 ### 2026-09-10 08:41:39  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #Copper
 
 U.S. Treasury Secretary Bessent said indicators from GDP to factory payrolls are broadly heating up, and the industrial cycle is shifting from an investment phase into a production phase.
-
----
-
-### 2026-09-10 08:41:11  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌1%，至6978.22。
-
----
-
-### 2026-09-10 08:39:53  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Drop for Third Session — The Nikkei 225 Index declined 1% to below 64,600, while the broader Topix Index fell 0.65% to 4,020 on Thursday, extending losses for a third consecutive session as elevated oil prices fueled inflation concerns and increased expectations for near-term interest rate hikes. Japanese shares also followed overnight declines on Wall Street as US Treasury yields surged after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, disappointing some investors who had anticipated a more substantial increase. Meanwhile, investors continued to track the yen after the currency strengthened to a near seven-month high. Notable declines were recorded among technology and consumer stocks, including Fujikura (-4.4%), Ibiden Co (-3.1%), Furukawa Electric (-4.9%), Nintendo (-3.8%) and Fast Retailing (-1.5%).
-
----
-
-### 2026-09-10 08:39:47  #國際
-
-美國財長貝森特：從GDP到工廠就業人數，一切指標都在全面升溫。工業週期正從投資階段邁向投產階段。
-
----
-
-### 2026-09-10 08:39:43  #市場 #國際
-
-2年期日本國債收益率上漲1個基點，至1.84%。
-
----
-
-### 2026-09-10 08:39:09  #MKT News
-
-The Washington Post, citing two people familiar with the matter, says Trump administration officials expect to submit the Arc de Triomphe project, part of President Trump's plan, to a federal commission in November to seek final approval.
-
----
-
-### 2026-09-10 08:38:53  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei index fell as much as 1.00% intraday.
-
----
-
-### 2026-09-10 08:38:20  #市場 #國際
-
-【布油逼近102美元 伊朗表示已做好準備應對更激烈的衝突】隨著中東地區敵對行動爆發，伊朗宣稱已做好準備應對更激烈的戰爭，加劇了市場對霍爾木茲海峽能源供應可能遭受更嚴重中斷的擔憂，布倫特原油期貨逼近每桶102美元。這一全球基準已連漲五日，週三自去年7月以來首次收於三位數以上。WTI原油期貨價格徘徊在每桶97美元左右。據伊朗伊斯蘭共和國一位高階官員稱，面對美國的海軍封鎖，伊朗無意退讓，如果美國繼續襲擊其領土，伊朗將升級襲擊力度。
-
----
-
-### 2026-09-10 08:37:32  #公司 #市場 #國際
-
-【蘋果釋出摺疊屏新機，亞洲供應鏈個股漲跌互現】美國科技巨頭蘋果公司釋出首款可摺疊手機 iPhone Duo 及其他新產品後，蘋果供應商的股票交易漲跌互現。iPhone Duo 最高配置版售價 3199 美元，創下了大眾市場智慧手機價格的新紀錄。其他新品包括 iPhone 18 Pro、AirPods 5 和兩款升級版 Apple Watch。釋出會結束後，蘋果股價基本持平。KeyBanc 分析師布蘭登・尼斯佩爾等在研報中寫道：“我們認為本次新品對蘋果業績存在小幅利空。高昂售價大機率無法完全抵消毛利率承壓，出貨量或將走低，最終拖累使用者規模與服務業務增長。”在韓國蘋果供應商中，LG Innotek股價上漲高達1.6%；LG Display股價波動幅度較小。LG Innotek 81% 的收入來自蘋果，LG Display 51% 的收入來自蘋果。手機廠商兼蘋果供應商三星電子股價維持震盪。日本市場，日本 Alps Alpine 上漲3.1%，村田製作所 上漲2%，TDK 上漲1.6%Alps Alpine 公司23% 的銷售額來自蘋果公司，TDK為 10%。其他供應商包括Nissha和NOK股價小幅下跌。
-
----
-
-### 2026-09-10 08:36:45  #MKT News #Commodities #Energy #WTI #Brent
-
-【Crude ETF holdings: WTI (USO) posts fourth consecutive daily increase】Sept 9 — WTI (USO) nominal exposure ~23.33 mln barrels, up 0.484 mln barrels on the day; Brent (BNO) futures holdings ~5.93 mln barrels, down 0.584 mln barrels.
-
----
-
-### 2026-09-10 08:35:16  #公司
-
-超智慧控股有限公司在香港暫停交易。
-
----
-
-### 2026-09-10 08:34:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
-
-【DOJ probes NVIDIA-Groq deal for possible antitrust evasion】Two people familiar with the matter said the U.S. Department of Justice is investigating whether NVIDIA sought to evade antitrust review in last year’s deal with AI chipmaker Groq. Groq described the transaction as a "non-exclusive license agreement" allowing NVIDIA to use chips Groq developed for AI workloads. As part of the arrangement, Groq CEO Jonathan Ross and COO Sunny Madra joined NVIDIA. Regulators note similar licensing-plus-hire deals can be used to sidestep automatic merger reviews designed to assess competitive harm.
-
----
-
-### 2026-09-10 08:34:43  #市場 #國際
-
-日本日經指數下跌1%，至64487.12點。
-
----
-
-### 2026-09-10 08:34:33  #市場 #國際
-
-日經225指數跌幅擴大至1%。
-
----
-
-### 2026-09-10 08:34:24  #公司
-
-【恩橋公司將以25.5億美元收購Tallgrass原油業務】當地時間9月9日，加拿大能源基礎設施和運輸公司恩橋（Enbridge）在一份宣告中表示，已同意以25.5億美元收購Tallgrass Energy的原油業務。此次收購預計在 2026年晚些時候完成，交易估值約為未來息稅折舊攤銷前利潤（EBITDA）倍數的10-11倍。據恩橋公司介紹，此次收購資產包括Pony Express管道75%的權益，該管道全長1,050英里，從懷俄明州格恩西及科羅拉多州多個地點延伸至俄克拉荷馬州庫欣，年均輸送能力約為每日46萬桶，並可直接接入約每日50萬桶的煉油產能。該交易還包括Powder River Gateway 51%的權益以及以及分佈在九個終端的約840萬桶儲油能力。
-
----
-
-### 2026-09-10 08:34:09  #MKT News
-
-South Korea's KOSPI slid to 7,000, down 0.75% on the day.
-
----
-
-### 2026-09-10 08:33:10  #觀點
-
-【中信證券：現房銷售改革 處置不良資產速度可能加快】中信證券研報認為，現房銷售改革短期會進一步加快不良資產的最佳化盤活和處置出清，仍舊難以銷售去化的資產，或不具備開發條件的土地則可能採取用途轉化或計提減值。不良資產是開發企業資產負債表的主要負擔，加快處置在短期對利潤表產生一定壓力，中長期則推進企業分化，具備融資能力和開發產品力的企業資產負債表有望更快企穩。
-
----
-
-### 2026-09-10 08:32:59  #公司
-
-【恒大高新：AI算力伺服器業務目前以國內業務為主，暫未涉及國外業務】恒大高新在互動平臺表示，子公司寶樂互動的AI算力伺服器業務目前以國內業務為主，暫未涉及國外業務。
-
----
-
-### 2026-09-10 08:32:10  #觀點
-
-【中信建投：公募基金軍工持倉結構性分化 靜候“十五五”訂單落地節奏】中信建投研報表示，截至2026Q2，公募基金軍工持倉總市值1682.49億元，佔比3.77%，相較於2025Q4低點（3.25%）回升0.52個百分點，相較於2026Q1小幅回落0.2個百分點。26H1公募基金軍工持倉佔比相對減配，更多來自市場風格層面的資金再配置。隨著“十四五”收官階段訂單加速交付、業績逐漸兌現，以及“十五五”初期新質戰鬥力建設與全球軍貿拓展雙線並進，行業有望構建新增長曲線。
-
----
-
-### 2026-09-10 08:31:58  #公司
-
-【中國電研：目前暫未開發直接應用於硬質PCB的樹脂類產品】中國電研在互動平臺表示，公司現有油墨樹脂產品能夠適配柔性線路板（FPC）的應用場景，目前暫未開發直接應用於硬質PCB的樹脂類產品。
-
----
-
-### 2026-09-10 08:31:08  #觀點
-
-【中信證券：年內銅價有望站上16000美元/噸】中信證券研報稱，上半年全球主要銅礦企業產量下滑近5%，極端天氣和關鍵輔料的潛在擾動或致下半年產量延續下滑態勢。供需改善趨勢下，可預見的去庫延續將強化銅價的交易彈性；後續若遞增式關稅落地，新一輪的高強度庫存囤積有望助推年內銅價站上16000美元/噸。往更遠看，中信證券預測中長期銅礦供應增速僅為2%—2.5%，不宜高估2028年—2029年的供應高峰，但應充分重視中資企業主導增產所帶來的量增彈性及價值。
-
----
-
-### 2026-09-10 08:30:50  #市場
-
-上海證交所上日融資餘額下跌0.2%至13,378.6億元。
-
----
-
-### 2026-09-10 08:29:51  #公司 #資料 #市場 #觀點 #國際
-
-【中金：後續通脹走勢仍有賴於政策發力推動內需改善】中金公司研報表示，8月CPI環比上漲0.4%，同比由0.5%回升至0.8%，能源價格反彈是主要推動因素。PPI環比由下降0.7%轉為上漲0.4%，同比由3.5%回升至3.8%，主要受原油、煤炭及有色金屬價格上漲所帶動。但在終端需求偏弱下，上游漲價向生活資料和終端消費品的傳導相對有限，價格修復仍呈現明顯的結構性特徵。近期中東地緣局勢反覆，國際油價再度走高，我們認為，短期輸入性通脹仍有粘性，但後續通脹走勢仍有賴於政策發力推動內需改善。
-
----
-
-### 2026-09-10 08:29:12  #公司 #國際
-
-【監管機構調查英偉達與 Groq 的授權協議】兩名知情人士稱，美國司法部正在調查英偉達去年與 AI 晶片廠商 Groq 達成的交易，判斷英偉達是否試圖規避反壟斷審查。Groq 當時將該交易描述為一份 “非獨佔許可協議”，允許英偉達使用 Groq 專為人工智慧運算打造的晶片。作為協議的一部分，Groq 執行長喬納森・羅斯與營運長桑尼・馬德拉加入英偉達。
-
----
-
-### 2026-09-10 08:28:29  #宏觀
-
-【11月起新規實施 這七類服務費用由付款企業代扣代繳增值稅】財政部、稅務總局近期釋出《境內單位代扣代繳自然人增值稅管理辦法》，從今年11月1日起施行。《辦法》明確，今後企業或機構向個人支付研發、軟體、設計、諮詢、影視製作、文化、教育這七類服務費用時，要代扣代繳這筆業務對應的增值稅。
-
----
-
-### 2026-09-10 08:26:28  #MKT News #NVDA.O #Impact bearish
-
-Regulators are investigating a licensing agreement between NVIDIA and Groq, the New York Times reports.
-
----
-
-### 2026-09-10 08:26:16  #MKT News
-
-【CITIC Securities: Chinese innovative-drug sector's overseas rollout gains traction; sector at profit inflection point】CITIC Securities says since early 2026 China's innovative-drug market has seen rapid domestic volume growth. Interim results from leading innovators show fast revenue expansion driven by new products and biopharma firms are moving into a profitability inflection. Overseas programs are entering Phase III/registration-study stages, and several upcoming international conferences create concentrated data catalysts. The firm highlights three investor priorities: (1) leading internationalized innovators poised for global value realization; (2) top domestic innovators entering a new product-ramp growth phase; (3) pipeline assets with global potential whose internationalization may accelerate value realization. CITIC maintains an Outperform rating on the sector.
-
----
-
-### 2026-09-10 08:26:11  #其他
-
-【山西省政府與中科曙光舉行工作會談】據山西日報，9月8日，山西省委副書記、省長盧東亮與中科曙光董事長曆軍一行舉行工作會談，就建設算力產業生態、加快數字經濟發展等進行深入交流。盧東亮說，“十五五”時期，希望中科曙光將山西作為全國佈局的重要戰略基地，立足當前合作基礎，積極推動光合組織產業生態創新中心落地，圍繞建設萬卡智算叢集、佈局詞元工廠、配套熔鹽儲能、發展太空算力、地理資訊和低空安全服務、政務大模型應用、算力硬體研發製造等領域深化合作，培育更多高價值應用場景，帶動產業鏈上下游企業集聚山西，共同構建“數算模用”一體化產業生態。山西將全力做好服務保障，為企業在晉發展創造良好環境。
-
----
-
-### 2026-09-10 08:25:58  #公司
-
-【中科復興與海康威視簽署戰略合作協議】據海康威視訊息，近日，河北中科復興科技有限公司（簡稱“中科復興”）到訪海康威視，雙方舉行戰略合作簽約儀式。座談交流中，雙方就生命線監測產品迭代、AI大模型應用、區域市場協同等議題深入探討，達成多項共識。隨後，雙方代表正式簽署戰略合作協議。未來，雙方將持續加強技術共研與方案共建，打造可複製、可推廣的城市安全數智化解決方案。
-
----
-
-### 2026-09-10 08:25:44  #國際
-
-美國南方司令部：9月9日，在南方司令部的指導下， 西半球聯合特遣部隊對一艘在加勒比海沿已建立的毒品販運路線運營的高速船隻執行了一次致命的動能打擊。確認的情報顯示該船隻積極參與毒品販運。該行動殺死了三名毒品恐怖分子。
-
----
-
-### 2026-09-10 08:25:39  #MKT News
-
-【Seventh national centralized volume-based procurement for medical consumables opens for bidding today】China’s seventh national organized centralized volume-based procurement for medical consumables opens for bidding in Tianjin today. The round targets gastrointestinal interventional consumables and includes 23 product types covering GI polypectomy and biliary‑pancreatic intervention consumables. Contract terms are about three years. Procurement rules have been optimized with an emphasis on clinical stability and quality, and measures to curb internal price competition and prevent bid collusion while accommodating diverse clinical demand and industry quality development.
-
----
-
-### 2026-09-10 08:24:45  #觀點
-
-【中信證券：創新藥出海漸入佳境，板塊進入盈利拐點】中信證券表示，2026年以來，中國創新藥國內市場快速放量，從中報來看頭部創新藥企業在新產品驅動下，創新藥收入快速增長，biopharma陸續進入盈利拐點；出海創新藥開始進入三期/註冊研究兌現階段；近期多個國際學術大會將至，眾多創新藥管線進入密集的資料催化期。我們認為中國創新藥進入全球價值兌現階段，建議關注：①頭部國際化創新藥企業有望迎來產品全球價值兌現期；②頭部創新藥企業產品放量進入新的成長階段；③具有全球潛力的管線資產國際化有望加速兌現。綜上，我們維持創新藥行業“強於大市”評級。
-
----
-
-### 2026-09-10 08:24:42  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
-
-【Trump to send $500 'Obamacare' refunds to up to 1 mln before Nov. 3 midterms】The Trump administration will deliver $500 refunds by direct deposit to up to 1 million people across 30 states, saying they were overcharged under the Affordable Care Act (Obamacare). Payments are scheduled to arrive before the Nov. 3 midterm elections. The administration is concurrently promoting its tax-cut legislation and prescription-drug plan as generating cost savings.
-
----
-
-### 2026-09-10 08:24:16  #其他
-
-【英國民航局：受系統故障影響旅客可能無權獲賠償】英國航班管理系統8日發生的故障已導致超2000架次航班被取消。英國民航局9日發表宣告說，此次故障導致的航班執行受擾可能被認定為旅客權益規定中的“特殊狀況”，因此受影響旅客可能無法獲得賠償。英國交通大臣海迪·亞歷山大9日說，此次故障導致數十萬名旅客面臨航班取消、改道和延誤，但她“不認為此事不可避免”。她已要求對此次事件原因展開獨立調查。（新華社）
-
----
-
-### 2026-09-10 08:24:15  #MKT News
-
-U.S. Southern Command said it conducted a lethal strike on a fast boat operating along a known drug-smuggling route in the Caribbean.
-
----
-
-### 2026-09-10 08:23:48  #公司
-
-【昨日ETF資金整體淨流入33.83億元】據同花順iFinD資料顯示，2026年9月9日，ETF資金整體淨流入33.83億元，股票型淨流出22.17億元，寬基型淨流出32.37億元。當日ETF資金淨流入榜單排名前3依次為：海富通上證基準做市公司債ETF（511190）淨流入6.54億元，華夏上證科創板50成份ETF（588000）淨流入6.49億元，易方達上證基準做市公司債ETF（511110）淨流入5.78億元。
-
----
-
-### 2026-09-10 08:23:04  #其他
-
-KeyBanc 分析師布蘭登・尼斯佩爾等在研報中寫道：我們認為本次新品對蘋果業績存在小幅利空。高昂售價大機率無法完全抵消毛利率承壓，出貨量或將走低，最終拖累使用者規模與服務業務增長。
-
----
-
-### 2026-09-10 08:20:11  #公司 #國際
-
-【美參議員就Hugging Face事件質詢OpenAI】當地時間9月9日，美國民主黨參議員Richard Blumenthal就涉及Hugging Face事件，致函OpenAI執行長Sam Altman，要求其提供關於OpenAI安全保障措施和操作流程的資訊。Altman需在9月24日前作出回應。
-
----
-
-### 2026-09-10 08:20:08  #宏觀 #公司 #國際
-
-【印尼財長：下週更換雅萬高鐵股東，中方同意將貸款期限由40年延長至80年】據路透社9月8日報道，當地時間週二，印度尼西亞財政部長普爾巴亞透露，印尼將於下週更換雅萬高鐵的控股股東。 普爾巴亞上個月曾表示，財政部下屬機構將收購高鐵運營公司60%的股份，中方企業保留40%。但他週二進一步說明，當局正在權衡將這60%股份轉讓給印尼投資管理局（INA），或財政部下屬的發展融資機構薩拉納·多基礎設施公司（SMI）。股權移交預計於9月15日完成。 普爾巴亞並未說明當前股東——由國家鐵路公司Kereta Api Indonesia牽頭的財團——是否會因股權轉讓獲得補償，但表示新的股東將負責償還專案未償貸款。 據介紹，中國國家開發銀行最初提供的45億美元貸款原期限為40年，並設有10年寬限期，此後印尼又追加貸款以彌補成本超支。普爾巴亞透露，經過重組談判，中國同意將貸款期限延長至80年。 此外，他透露，在股權完全移交後，鐵路將向東延伸約700公里，至該國第二大城市泗水，但他未說明延伸專案的資金來源。 （觀察者網）
 
 ---
