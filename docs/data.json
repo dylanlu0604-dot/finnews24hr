@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-12 09:02:53",
+  "updated": "2026-09-12 09:06:43",
   "count": 13498,
   "items": [
+    {
+      "id": "5090505",
+      "time": "2026-09-12 09:04:39",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【華為Mate XT 2非凡大師全渠道開售】9月12日，華為Mate XT 2非凡大師正式開啟全渠道銷售。新機首發商用展翼三摺疊形態，搭載麒麟9050 Pro晶片，實現摺疊屏硬體級防窺，搭載鴻蒙7及第三代紅楓影像系統。提供玄黑、皓白、錦紫三款配色，並推出多個儲存版本及手寫筆套裝組合，售價19999元起。"
+    },
+    {
+      "id": "5090504",
+      "time": "2026-09-12 09:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佈局太空算力 上海“明珠星座計劃”亮相】9月11日，在2026浦江創新論壇（第十九屆）成果釋出會現場，東方天算正式釋出“明珠星座計劃”。據介紹，“明珠”既寓意上海城市地標東方明珠，也代表上海面向未來太空算力產業佈局的重要載體。（上證報）"
+    },
     {
       "id": "mkt:01a09322-7db5-7118-8552-cd2f92e5877f",
       "time": "2026-09-12 09:01:46",
@@ -123898,23 +123915,6 @@
         "MKT News"
       ],
       "text": "【U.S. military probes leak of advanced weapons inventory; senior officers polygraphed】On Sept. 4, U.S. officials said the military launched a large-scale leak investigation after highly sensitive classified information on its advanced weapons inventory was disclosed by the media. Dozens, including some of the most senior officers and personnel from U.S. Central Command and other combatant commands, underwent polygraph examinations this summer. Investigators briefly feared a possible foreign-intelligence mole because access to the inventory was tightly limited; sources say no one failed the polygraph questions used to determine whether they had leaked to the media. Trump is reported to be angry about the disclosures."
-    },
-    {
-      "id": "5078463",
-      "time": "2026-09-05 09:06:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：上海住宅租金已連續5個月居50城首位】據中指研究院，8月，高校畢業季租賃需求集中釋放期接近尾聲，全國住房租賃市場熱度較7月有所回落，50城住宅平均租金延續上漲態勢，但環比漲幅明顯收窄。上海、深圳帶動一線城市平均租金繼續上漲，其中上海環比漲幅已連續5個月居50城首位。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609053865979032",
-      "time": "2026-09-05 09:05:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲年底前加息機率超83%】當地時間週五，美國勞工統計局公佈的資料顯示，美國8月非農就業人數增加16.2萬人，大幅超出分析師普遍預期的5.5萬人，失業率維持在4.1%，6月和7月新增就業人數合計上調5.5萬人。有分析指出，就業資料向好本是經濟利好，但勞動力市場持續火熱，加劇市場對通脹反覆的擔憂，令美聯儲加息預期進一步升溫。芝商所美聯儲觀察工具的最新資料顯示，美聯儲9月加息的機率升至近60%，今年底前加息的機率超過83%。"
     }
   ]
 }
