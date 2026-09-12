@@ -1,7 +1,23 @@
 {
   "date": "2026-09-13",
-  "count": 94,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:01a09777-99e9-7118-8558-bed57c564962",
+      "time": "2026-09-13 05:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's armed forces said they will deploy sufficient security forces in Maysan province, have seized 15 unmanned aerial vehicle platforms and will pursue any forces using weapons outside the national chain of command."
+    },
+    {
+      "id": "5091095",
+      "time": "2026-09-13 05:13:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克外交部長福阿德·侯賽因表示，他已與伊朗外長通電話，商討多個邊境口岸相關舉措以及針對沙特的襲擊事件。雙方還討論了負責調查此次襲擊的聯合委員會工作。"
+    },
     {
       "id": "mkt:01a09775-bdbf-7118-8558-b69069d627ab",
       "time": "2026-09-13 05:11:10",
