@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-12 09:25:29",
+  "updated": "2026-09-12 09:29:14",
   "count": 13505,
   "items": [
+    {
+      "id": "5090516",
+      "time": "2026-09-12 09:25:47",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【波音向工程師工會提交的最終提案包含10%加薪】波音官網釋出的最新資訊顯示，波音已向工程師工會SPEEA提交最終合同提案。提案一旦獲批，將落實10%的保底加薪，並將於2027年3月再實施4%加薪。 波音表示，工會談判團隊建議成員投贊成票。 合同還設定薪酬資金池，2028、2029、2030年每年增幅為6%，且這三年每年保底漲幅不低於4%。"
+    },
+    {
+      "id": "mkt:01a09337-f3c9-7118-8552-f2d8cf6ab769",
+      "time": "2026-09-12 09:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek begins limited test of AI voice dialogue with four voice options】DeepSeek has begun a limited staged test of AI voice dialogue. Eligible users will see a speaker icon in the app’s top-right; the settings page adds a \"Reading voice\" option allowing selection of four voice tones."
+    },
     {
       "id": "mkt:01a09335-1e46-7118-8552-e87719f76bc1",
       "time": "2026-09-12 09:22:06",
@@ -123958,23 +123975,6 @@
         "Impact bullish"
       ],
       "text": "【Hainan Jan-Aug commodity housing online contract signings 5.17 mln sq m (-22% YoY); sales 88.05 bln yuan (-21% YoY)】According to Hainan's official online contract-signing system, Jan–Aug commodity housing (including affordable housing) online contract signings totaled 5.17 mln sq m, down 22% YoY, with sales of 88.05 bln yuan, down 21% YoY. In August alone signings were 0.357 mln sq m, down 28% YoY, and sales were 4.99 bln yuan, down 43% YoY."
-    },
-    {
-      "id": "5078468",
-      "time": "2026-09-05 09:29:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威Troll A天然氣設施因故障導致實際用電量為65兆瓦，遠低於215兆瓦的裝機容量。"
-    },
-    {
-      "id": "5078467",
-      "time": "2026-09-05 09:28:00",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "當地時間9月4日，玻利維亞行政首都拉巴斯的一處軍營發生劇烈爆炸。當地衛生部門稱爆炸已造成10到15人死亡，數十人受傷。（CCTV國際時訊）"
     }
   ]
 }

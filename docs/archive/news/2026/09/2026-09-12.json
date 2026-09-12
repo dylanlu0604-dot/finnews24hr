@@ -1,7 +1,24 @@
 {
   "date": "2026-09-12",
-  "count": 430,
+  "count": 432,
   "items": [
+    {
+      "id": "5090516",
+      "time": "2026-09-12 09:25:47",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【波音向工程師工會提交的最終提案包含10%加薪】波音官網釋出的最新資訊顯示，波音已向工程師工會SPEEA提交最終合同提案。提案一旦獲批，將落實10%的保底加薪，並將於2027年3月再實施4%加薪。 波音表示，工會談判團隊建議成員投贊成票。 合同還設定薪酬資金池，2028、2029、2030年每年增幅為6%，且這三年每年保底漲幅不低於4%。"
+    },
+    {
+      "id": "mkt:01a09337-f3c9-7118-8552-f2d8cf6ab769",
+      "time": "2026-09-12 09:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek begins limited test of AI voice dialogue with four voice options】DeepSeek has begun a limited staged test of AI voice dialogue. Eligible users will see a speaker icon in the app’s top-right; the settings page adds a \"Reading voice\" option allowing selection of four voice tones."
+    },
     {
       "id": "mkt:01a09335-1e46-7118-8552-e87719f76bc1",
       "time": "2026-09-12 09:22:06",
