@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-12 14:08:42",
+  "updated": "2026-09-12 14:12:39",
   "count": 13472,
   "items": [
+    {
+      "id": "mkt:01a0943d-48cf-7118-8554-57a772db40f1",
+      "time": "2026-09-12 14:10:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Bushehr airport resumed its first international service after a six-month suspension, the province's airport director said. Qeshm Airlines restarted the Bushehr-Dubai route."
+    },
+    {
+      "id": "mkt:01a0943c-66db-7118-8554-49736c41c56d",
+      "time": "2026-09-12 14:09:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA arrives in New Delhi ahead of 18th BRICS summit】CHINA arrived in New Delhi on a special plane to attend the 18th BRICS summit at the invitation of Indian Prime Minister Modi."
+    },
+    {
+      "id": "5090609",
+      "time": "2026-09-12 14:08:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平抵達印度新德里】當地時間9月12日中午，國家主席習近平乘專機抵達新德里。應印度總理莫迪邀請，出席金磚國家領導人第十八次會晤。（央視新聞）"
+    },
     {
       "id": "mkt:01a09439-a867-7118-8554-443ee820d28e",
       "time": "2026-09-12 14:06:41",
@@ -123674,30 +123699,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部發布訊息表示，俄軍在基輔州布羅瓦里市擊中了電子偵察中心。"
-    },
-    {
-      "id": "5078591",
-      "time": "2026-09-05 14:10:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德黑蘭證券交易所指數上漲12萬點】德黑蘭證券交易所指數上漲12萬點，市場上95%的股票處於綠色區間，其中16.5%的股票處於買入價位。（注：綠色為上漲，紅色為下跌）"
-    },
-    {
-      "id": "5078590",
-      "time": "2026-09-05 14:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副外長就威特科夫、庫什納可能訪問莫斯科一事發表評論稱，美國應當顧及當前的實地局勢：目前戰場形勢正朝著不利於基輔的方向發展。"
-    },
-    {
-      "id": "5078589",
-      "time": "2026-09-05 14:09:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部排程江西省遂川縣高坪鎮泥石流災害救援處置工作】9月5日，江西省遂川縣高坪鎮明坑村石下組發生泥石流和山體滑坡，應急管理部立即排程部署搶險救援工作，要求全力搜救被困人員，核實核清傷亡失聯人數，就近調派通訊保障、工程搶險等隊伍裝備，儘快組織救援人員挺進災區，加強水文、地質災害監測預警，科學施救，嚴防次生災害發生。（央視新聞）"
     }
   ]
 }
