@@ -1,7 +1,31 @@
 {
   "date": "2026-09-13",
-  "count": 91,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a09775-bdbf-7118-8558-b69069d627ab",
+      "time": "2026-09-13 05:11:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina to build naval base near Malvinas; construction due Jan. 2】Argentina’s defense minister Carlos Presti said on Sept. 12 the government plans to establish a naval base in Ushuaia, the country’s southernmost city near the Malvinas (Falkland) Islands. He said construction will begin on Jan. 2 after a public tender. The base, to be operated by the Argentine navy, will host submarines, marines and naval aviation and will serve as a logistics hub linking Argentina’s seven permanent and six temporary Antarctic bases; Presti said it holds strategic value for Argentina’s positioning and projection in the South Atlantic."
+    },
+    {
+      "id": "5091094",
+      "time": "2026-09-13 05:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷計劃啟動馬爾維納斯群島南部海軍基地建設】當地時間9月12日，阿根廷國防部長卡洛斯·普雷斯蒂表示，將計劃於明年1月在靠近馬爾維納斯群島的該國最南端城市烏斯懷亞建立一座海軍軍事基地。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09773-9891-7118-8558-a8844589cd20",
+      "time": "2026-09-13 05:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi spoke with Iraq's foreign minister and confirmed the need to continue coordinating on shared border security."
+    },
     {
       "id": "mkt:01a09770-8237-7118-8558-a74316f751d8",
       "time": "2026-09-13 05:05:27",

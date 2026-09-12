@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-13 05:08:10",
+  "updated": "2026-09-13 05:12:03",
   "count": 13571,
   "items": [
+    {
+      "id": "mkt:01a09775-bdbf-7118-8558-b69069d627ab",
+      "time": "2026-09-13 05:11:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina to build naval base near Malvinas; construction due Jan. 2】Argentina’s defense minister Carlos Presti said on Sept. 12 the government plans to establish a naval base in Ushuaia, the country’s southernmost city near the Malvinas (Falkland) Islands. He said construction will begin on Jan. 2 after a public tender. The base, to be operated by the Argentine navy, will host submarines, marines and naval aviation and will serve as a logistics hub linking Argentina’s seven permanent and six temporary Antarctic bases; Presti said it holds strategic value for Argentina’s positioning and projection in the South Atlantic."
+    },
+    {
+      "id": "5091094",
+      "time": "2026-09-13 05:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷計劃啟動馬爾維納斯群島南部海軍基地建設】當地時間9月12日，阿根廷國防部長卡洛斯·普雷斯蒂表示，將計劃於明年1月在靠近馬爾維納斯群島的該國最南端城市烏斯懷亞建立一座海軍軍事基地。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09773-9891-7118-8558-a8844589cd20",
+      "time": "2026-09-13 05:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi spoke with Iraq's foreign minister and confirmed the need to continue coordinating on shared border security."
+    },
     {
       "id": "mkt:01a09770-8237-7118-8558-a74316f751d8",
       "time": "2026-09-13 05:05:27",
@@ -124477,37 +124501,6 @@
         "國際"
       ],
       "text": "哈馬斯領導人譴責以色列在約旦河西岸卡巴提亞鎮侵佔土地。"
-    },
-    {
-      "id": "mkt:01a07369-d467-7118-84b4-c4365cd3abac",
-      "time": "2026-09-06 05:11:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Putin meets US presidential envoys; talks lasted about three hours】On the evening of Sept. 5, President Putin met with visiting US presidential envoys Witkoff and Kushner in talks that lasted about three hours. Putin said he had received requests via intelligence and diplomatic channels to stop airstrikes on Kyiv and has ordered strikes on Kyiv to cease; Kremlin spokesman Peskov earlier confirmed a three-day halt to strikes on Kyiv. Putin said Ukraine has sharply reduced strikes on Russian territory, including Moscow, and that Kyiv proposed a broader three-day ceasefire which Russia did not accept. Russia said it will take all measures to ensure the safety of US–Ukraine negotiations and mediators. Ukrainian President Zelenskiy said Ukraine will halt strikes on Moscow effective immediately through Sept. 7."
-    },
-    {
-      "id": "5078943",
-      "time": "2026-09-06 05:10:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京會見美總統特使】當地時間9月5日晚，俄羅斯總統普京與到訪的美國總統特使威特科夫和庫什納舉行會談。會談在持續了大約3個小時後結束。普京表示，俄方透過情報和外交部門收到“停止空襲烏克蘭首都基輔”的請求，他已經下達命令，俄方對基輔的空襲已停止。普京還介紹說，烏方也大幅減少對俄領土（包括莫斯科）的襲擊。 普京還提到，烏方還提議實施為期三天的更廣泛停火，俄方並未同意。但俄方將盡一切努力確保美烏談判程序和談判調解人員的安全。 俄羅斯總統新聞秘書佩斯科夫當天早些時候證實，普京已經下令三天內不對基輔空襲。烏克蘭總統澤連斯基隨後表示，決定即刻起至9月7日停止對莫斯科實施打擊。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a07368-63b6-7118-84b4-bb9e544e0a0b",
-      "time": "2026-09-06 05:10:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Egypt's Foreign Ministry said Egypt's and Oman's foreign ministers discussed developments in the Strait of Hormuz and their potential impact on regional security and the global economy; both stressed safeguarding maritime navigation and ensuring uninterrupted trade and energy supplies."
     }
   ]
 }
