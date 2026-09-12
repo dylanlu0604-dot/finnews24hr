@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-13 00:42:52",
-  "count": 13613,
+  "updated": "2026-09-13 00:46:47",
+  "count": 13612,
   "items": [
+    {
+      "id": "5090989",
+      "time": "2026-09-13 00:45:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "奈飛暗盤跌超2%，現報75.689美元。"
+    },
     {
       "id": "5090988",
       "time": "2026-09-13 00:39:27",
@@ -124853,22 +124862,6 @@
         "MKT News"
       ],
       "text": "【Qatar, UAE ministers discuss easing regional tensions】Qatar's foreign ministry said its state minister held a phone call with the UAE state minister to exchange views on bilateral ties and recent regional developments. The ministry said they focused on lowering tensions and strengthening regional security and stability through diplomatic efforts and coordinated action."
-    },
-    {
-      "id": "5078885",
-      "time": "2026-09-06 00:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達與阿聯酋兩國部長談及為緩和地區局勢所開展的相關努力。"
-    },
-    {
-      "id": "5078884",
-      "time": "2026-09-06 00:43:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：設在美國聯邦應急管理局總部的移民聽證會最早將於週二啟動。"
     }
   ]
 }
