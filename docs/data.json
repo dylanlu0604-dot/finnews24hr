@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-13 00:46:47",
+  "updated": "2026-09-13 00:50:43",
   "count": 13612,
   "items": [
+    {
+      "id": "5090990",
+      "time": "2026-09-13 00:46:16",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【埃裡森取消出售至多5000萬股甲骨文股票的計劃 甲骨文暗盤漲超2%】甲骨文公司週六表示，董事長拉里·埃裡森取消了出售不超過5000萬股該公司股票的計劃。“在該計劃之下沒有甲骨文股票被出售，他也沒有其他出售所持任何甲骨文股票的計劃，”該公司在一份宣告中表示。甲骨文於週五披露了上述股票出售計劃。甲骨文暗盤漲超2%，現報150.23美元。"
+    },
     {
       "id": "5090989",
       "time": "2026-09-13 00:45:07",
@@ -124854,14 +124863,6 @@
         "焦點"
       ],
       "text": "比特幣升破80000美元，日內漲0.43%。"
-    },
-    {
-      "id": "mkt:01a07278-5c00-7118-84b3-105ea022f023",
-      "time": "2026-09-06 00:48:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar, UAE ministers discuss easing regional tensions】Qatar's foreign ministry said its state minister held a phone call with the UAE state minister to exchange views on bilateral ties and recent regional developments. The ministry said they focused on lowering tensions and strengthening regional security and stability through diplomatic efforts and coordinated action."
     }
   ]
 }
