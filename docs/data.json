@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-12 17:41:47",
-  "count": 13519,
+  "updated": "2026-09-12 17:45:33",
+  "count": 13522,
   "items": [
+    {
+      "id": "5090711",
+      "time": "2026-09-12 17:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊朗戰爭將很快結束。"
+    },
+    {
+      "id": "mkt:01a09501-7bd8-7118-8555-c807fa21b909",
+      "time": "2026-09-12 17:44:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says the war with Iran will end soon."
+    },
+    {
+      "id": "mkt:01a09501-531a-7118-8555-c1fb767fb334",
+      "time": "2026-09-12 17:44:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he discussed trade with Ireland and described U.S.-Ireland cooperation as very successful."
+    },
+    {
+      "id": "5090710",
+      "time": "2026-09-12 17:44:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國與愛爾蘭合作成果豐碩。"
+    },
+    {
+      "id": "mkt:01a094ff-f8ae-7118-8555-ba840362aa40",
+      "time": "2026-09-12 17:43:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China to assume BRICS chair in 2027, host 19th leaders' summit】At the first-stage meeting of the 18th BRICS leaders on Sept 12, President Xi announced China will assume the BRICS chair in 2027 and host the 19th leaders' summit."
+    },
+    {
+      "id": "5090709",
+      "time": "2026-09-12 17:41:57",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【中國將於2027年接任金磚主席國】當地時間9月12日下午，在金磚國家領導人第十八次會晤第一階段會議上，國家主席習近平宣佈，中國將於2027年接任金磚主席國，主辦金磚國家領導人第十九次會晤。（央視新聞）"
+    },
     {
       "id": "5090708",
       "time": "2026-09-12 17:39:49",
@@ -124034,35 +124089,6 @@
         "MKT News"
       ],
       "text": "【Shenzhen August new-home sales 3,467 units】The Shenzhen Real Estate Brokerage Association reported new-home sales in Shenzhen at 3,467 units in August, down 23.0% MoM and up 4.8% YoY. Resale transactions were 5,108 units, down 2.3% MoM and up 7.6% YoY. Jan–Aug cumulative resale volume was about 48,400 units, up 4.7% YoY."
-    },
-    {
-      "id": "5078656",
-      "time": "2026-09-05 17:43:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天奇股份具身智慧機器人產業專案開工儀式舉行】據天奇股份訊息，9月5日，天奇股份具身智慧機器人產業專案開工儀式在惠山高新區舉行。該專案總投資超10億元，專案聚焦汽車智慧製造與具身智慧融合創新，規劃建設汽車裝備智慧製造基地和麵向汽車行業應用的機器人具身智慧系統研發中心。"
-    },
-    {
-      "id": "5078655",
-      "time": "2026-09-05 17:43:24",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【土耳其將對橋樑和公路實施為期三十年的私有化運營】根據週六在官方公報上釋出的總統令，土耳其計劃推出一個私有化專案，涵蓋國有公路和橋樑，並以30年運營合同的形式進行管理。該專案包括伊斯坦布林的兩座博斯普魯斯海峽大橋，這兩座大橋目前已滿負荷運營，預計2024年日均車流量將達到43萬輛。資產可以整體私有化，也可以分批私有化，整個過程預計將於2031年底完成。私有化方式包括轉讓運營權、租賃和收益分成等。尼代-波贊蒂高速公路、加濟安泰普環城公路和布林薩環城公路均包含在私有化專案範圍內。"
-    },
-    {
-      "id": "mkt:01a070f3-0183-7118-84b1-e5b8f4229ca1",
-      "time": "2026-09-05 17:42:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russia-appointed governor said Ukrainian strikes on the Russian-controlled Luhansk region killed five and injured five in the past 24 hours."
     }
   ]
 }
