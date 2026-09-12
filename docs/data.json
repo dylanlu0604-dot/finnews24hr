@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-13 02:38:05",
-  "count": 13573,
+  "updated": "2026-09-13 02:41:53",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a096ec-50e4-7118-8558-34640a6e1fd5",
+      "time": "2026-09-13 02:41:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership."
+    },
     {
       "id": "5091009",
       "time": "2026-09-13 02:32:48",
@@ -124492,23 +124502,6 @@
         "Brent"
       ],
       "text": "【Iran analyst says Tehran has plan to push oil above $100/bbl】Ali Akbar Darelni of Tehran’s Strategic Research Center called a US strike on an Iranian tanker a major issue and said Iran will not leave it unanswered. He said the US maritime blockade and sanctions are putting severe pressure on Tehran, that Iran is preparing measures to break the blockade and retaliate more forcefully, and that Iran has plans to push oil prices above $100 per barrel."
-    },
-    {
-      "id": "mkt:01a072dd-4b61-7118-84b4-1044babc28d8",
-      "time": "2026-09-06 02:38:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Serbian Progressive Party nominates Aleksandar Vučić as prime minister candidate】The Serbian Progressive Party’s central committee on the 5th unanimously nominated incumbent President Aleksandar Vučić as its lead candidate on the parliamentary election list and as its candidate for prime minister, and approved the parliamentary slate. Vučić accepted the nomination and said he will resign the presidency after completing imminent state duties and foreign visits and then run in the parliamentary election."
-    },
-    {
-      "id": "5078921",
-      "time": "2026-09-06 02:38:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【塞爾維亞進步黨推舉武契奇為總理候選人】塞爾維亞進步黨總委員會5日一致決定，推舉現任總統武契奇為該黨議會選舉名單領銜人和總理候選人，並透過議會選舉候選人名單。武契奇當天接受推舉，並表示將在完成近期國事活動和出訪後辭去總統職務、參加議會選舉。（新華社）"
     }
   ]
 }

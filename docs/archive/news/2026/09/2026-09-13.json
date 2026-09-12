@@ -1,7 +1,17 @@
 {
   "date": "2026-09-13",
-  "count": 50,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:01a096ec-50e4-7118-8558-34640a6e1fd5",
+      "time": "2026-09-13 02:41:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership."
+    },
     {
       "id": "5091009",
       "time": "2026-09-13 02:32:48",
