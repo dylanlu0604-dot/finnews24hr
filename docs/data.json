@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-12 13:22:31",
-  "count": 13470,
+  "updated": "2026-09-12 13:26:21",
+  "count": 13469,
   "items": [
+    {
+      "id": "5090597",
+      "time": "2026-09-12 13:22:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家航天集團總經理德米特里·巴卡諾夫表示，俄羅斯與印度將聯合發射航天器，用於從金星軌道研究金星。"
+    },
     {
       "id": "5090596",
       "time": "2026-09-12 13:18:34",
@@ -123637,25 +123646,6 @@
         "公司"
       ],
       "text": "腦機介面公司術理創新4日正式啟動科創板上市輔導。"
-    },
-    {
-      "id": "mkt:01a07006-c150-7118-84b0-863587d91300",
-      "time": "2026-09-05 13:24:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai brain–computer interface firm Shuli Innovation starts STAR Market IPO counseling】Shuli Innovation (Shanghai) Intelligent Technology Co. has formally launched STAR Market (Sci‑Tech Innovation Board) IPO counseling, filing for counseling registration with the Shanghai Securities Regulatory Bureau on Sept. 4, 2026, the CSRC IPO counseling disclosure system shows. Huatai United Securities will serve as the company’s IPO counselor. The move follows Shanghai BCI firm Boruikang’s STAR Market acceptance in June, highlighting rising capital‑markets activity in China’s brain–computer interface sector."
-    },
-    {
-      "id": "5078573",
-      "time": "2026-09-05 13:22:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯方塊公司暗指白宮侵權】據美國《國會山報》《紐約時報》等媒體報道，俄羅斯方塊公司（The Tetris Company）當地時間4日發表宣告，暗示美國白宮近日推出的“山寨版”街機遊戲或構成侵權。美國白宮9月3日推出多款街機遊戲，玩家可獲得驅逐移民、修築美墨邊境牆等遊戲體驗。當天推出的5款電子遊戲中，一款遊戲“修築邊境牆”模仿“俄羅斯方塊”，背景標註為“美國南部邊境”，玩家透過移動、旋轉從上方掉落的幾何塊體阻擋“殭屍”湧入。《國會山報》稱，俄羅斯方塊公司當地時間4日在社交平臺X上發表宣告說，該公司未參與“修築邊境牆”遊戲的創作。《紐約時報》稱，針對這款“顯然抄襲”了“俄羅斯方塊”的遊戲，該公司表示，“我們非常重視版權侵權問題”。（環球網）"
     }
   ]
 }
