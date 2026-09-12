@@ -1,6 +1,321 @@
 {
-  "updated": "2026-09-12 07:04:57",
+  "updated": "2026-09-13 07:04:20",
   "items": [
+    {
+      "id": "20260913",
+      "date": "2026-09-13",
+      "range_start": "2026-09-12 07:00:00",
+      "range_end": "2026-09-13 07:00:00",
+      "generated_at": "2026-09-13 07:04:20",
+      "schema_version": 7,
+      "count": 54,
+      "headline": "美聯儲料9月升息25bps，歐洲央行警示高油價恐持續壓力",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [
+            "核心CPI環比漲0.3%高於預期推升9月加息機率至約90%，市場定價反映此鷹派動向。",
+            "中金與花旗報告一致預計9月FOMC將加息25個基點，美聯儲可能下調失業率預測並提升通膨展望，長期利率路徑趨向更緊縮。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策決議日",
+          "officials": [
+            {
+              "official": "拉加德",
+              "venue": "來源未提供具體場合",
+              "analysis": "歐洲央行行長拉加德於當日前後多次表達對歐元區經濟韌性與通脹的最新看法，並宣布將於2027年卸任。她強調當前能源價格壓力與市場波動或持續，歐央行近期已完成今年第二次升息，並暗示未來可能面臨進一步加息壓力。拉加德語氣顯示央行關注油價超過100美元可能的衝擊，政策立場偏鷹。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年9月12日及13日，來源未提供具體場合。"
+                },
+                {
+                  "title": "通脹展望",
+                  "text": "拉加德指出，經最新預測顯示2027年與2028年歐元區通脹將高於早先預期，2028年仍略高於2%目標水平，此為原文確定事實。"
+                },
+                {
+                  "title": "經濟評估",
+                  "text": "她評價歐洲經濟具韌性，同時預期當前價格衝擊持續時間將更長，顯示對中短期通膨壓力的警惕。"
+                },
+                {
+                  "title": "能源與市場波動風險",
+                  "text": "拉加德明確指出市場波動與能源價格壓力將持續，此為限制性通膨因素，意味央行政策可能仍將鷹派。"
+                },
+                {
+                  "title": "政策動向暗示",
+                  "text": "她及馬丁·科赫等高層警告若油價維持在每桶約100美元水平，歐洲央行可能被迫繼續升息，情勢嚴峻。"
+                },
+                {
+                  "title": "職務變動",
+                  "text": "拉加德表示將於2027年卸任歐洲央行行長，並不會重返法國政壇，為公開確定事項。"
+                },
+                {
+                  "title": "人工智慧市場看法",
+                  "text": "她形容人工智慧股票估值過高並可能出現回撥，反映對科技板塊風險的關注。"
+                },
+                {
+                  "title": "政策風險",
+                  "text": "拉加德提醒若法國債務被取消，將帶來金融層面極高風險，凸顯央行對歐洲財政穩定的警戒。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": true,
+            "summary": "歐洲央行在2026年9月完成本年度第二次升息，決策反映歐元區通脹持續高於預期且能源價格居高不下帶來壓力。政策立場偏鷹，顯示未來可能面臨進一步加息，尤其在油價長期維持高位的情況下。拉加德強調通脹衝擊持久，以及市場波動加劇，暗示貨幣政策將維持高度警戒。市場因而預期歐央行利率路徑可能更緊縮，對市場波動反應慎重。",
+            "decision": [
+              "2026年9月完成年度第二次升息，政策利率微調以因應持續通脹與能源成本高漲。",
+              "未公布具體利率數字，但強調必要時將進一步升息，反映官方態度趨於鷹派。",
+              "政策聲明中未提及量化寬鬆或縮表調整，重點在透過利率工具應對能源價格帶來的通脹風險。"
+            ],
+            "statement": [
+              "声明中指出通脹將在較長時期內保持高位，市場波動和能源價格壓力構成挑戰。",
+              "央行強調經濟韌性，但同時警戒價格衝擊持久且可能需要進一步政策緊縮。",
+              "措辭中強調政策對抗通脹的決心與必要性，去除了先前可能較為柔和的風向。"
+            ],
+            "economic_view": [
+              "最新預測顯示2027年和2028年通脹水準相比先前有所上調，2028年通脹將小幅超過2%目標。",
+              "經濟被評為具韌性，金融穩定風險主要來自能源價格和地緣政治，未來仍需密切監控。"
+            ],
+            "forward_guidance": [
+              "央行暗示若油價持續高位，將有必要進一步升息以遏制通脹壓力。",
+              "政策指引偏向緊縮，維持利率在較高位置期間可能延長，依據通脹及能源價格變化調整。"
+            ],
+            "press_conference": [
+              "拉加德在多處發言中重申央行對通脹長期性的擔憂。",
+              "她明確表示未計畫重返法國政壇，並將於2027年卸任行長職務。",
+              "強調人工智慧領域估值過高，存在修正風險。",
+              "表示對法國債務削減帶來的金融風險高度警戒。"
+            ],
+            "market_reaction": [
+              "消息公布後，歐洲短期利率期貨迅速反映加息預期，殖利率曲線前端上揚。",
+              "市場對央行可能連續加息的預期升高，促使歐元兌美元波動加大。"
+            ]
+          }
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "馬爾霍特拉",
+              "venue": "BRICS高峰會，新德里",
+              "analysis": "印度央行行長馬爾霍特拉於2026年9月12日在新德里出席18屆BRICS峰會期間，針對促進本地貨幣跨境支付及合作機制發表建設性意見，強調通過多邊合作提升金融穩定及支持區域經濟韌性。發言內容明確反映印度央行對強化新興市場貨幣聯動與支付系統的政策重視。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年9月12日，BRICS峰會，新德里。"
+                },
+                {
+                  "title": "跨境支付建議",
+                  "text": "馬爾霍特拉談及與印尼央行行長Destry Damayanti會談，共同探討擴大本地貨幣結算機制與雙邊貨幣互換安排。"
+                },
+                {
+                  "title": "QR碼支付連結",
+                  "text": "提出研究通過跨境QR碼支付系統鏈接，提升交易便利性，屬新興科技應用示範。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "強調BRICS國家需利用貨幣合作抵禦地緣政治風險，對金融系統穩定具戰略意義。"
+                },
+                {
+                  "title": "利率及通脹話題",
+                  "text": "發言未具體涉及利率調整或通脹判斷，聚焦金融基礎建設合作。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "此立場反映印度央行積極參與新興市場多邊金融創新，加強本地貨幣的國際化進程。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "發言內容主要聚焦合作機制，無涉及印度央行內部貨幣政策路徑或短期利率調整。」"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "馬丁",
+              "venue": "來源未提供具體場合",
+              "analysis": "瑞士央行高階官員馬丁·科赫於9月12日公開警告，能源價格居高不下，特別是油價大幅躍升，可能迫使瑞士央行在未來進一步收緊貨幣政策。他指出中東地緣政治緊張與能源供應不穩風險提升，強調須謹慎評估通脹再度上升的可能性，顯示瑞士央行密切關注國際能源市場動態與其對瑞士經濟的衝擊。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年9月12日，來源未提供具體場合。"
+                },
+                {
+                  "title": "原文重點",
+                  "text": "馬丁·科赫指出高油價可能迫使央行進一步加息，強調中東局勢與能源成本是主要通膨風險因素。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "此言論回應歐洲與全球油價近期突破100美元，能源價格長期維持高位。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "暗示未來可能的政策緊縮路徑，顯示央行態度趨向鷹派。"
+                },
+                {
+                  "title": "通膨風險",
+                  "text": "發言重申能源輸入價格升高可能使通脹持續高於目標。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "強調若能源價格未見改善，貨幣政策將保持彈性調整。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場將馬丁的警告視為瑞士央行年底前加息可能性增加的信號。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "未披露具體的利率調整時間表或幅度，僅為警示性高層評論。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20260912",
       "date": "2026-09-12",
@@ -8752,258 +9067,6 @@
           "name": "瑞士央行 SNB",
           "status": "追蹤中",
           "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20260823",
-      "date": "2026-08-23",
-      "range_start": "2026-08-22 07:00:00",
-      "range_end": "2026-08-23 07:00:00",
-      "generated_at": "2026-08-23 07:00:53",
-      "schema_version": 7,
-      "count": 15,
-      "headline": "美聯儲溝通缺乏明確指引引市場波動加劇",
-      "central_banks": [
-        {
-          "id": "Fed",
-          "name": "美國聯準會 Fed",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "沃許",
-              "venue": "來源未提供具體場合",
-              "analysis": "沃許作為新任美聯儲主席，尚未明確表態貨幣政策前景，其溝通方式轉向模糊，市場對其推動通脹回落決心抱持疑慮，對短、中期利率路徑產生不確定性，導致債券收益率和市場波動顯著上升。此模式延續至傑克遜霍爾會議即將來臨，市場高度關注其公開講話的政策指引角色。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "2026年8月發布的多則報導中提及，沃許尚未於重大公開場合明確表態貨幣政策方向。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "沃許自7月政策會議後未透露具體利率前瞻指引，溝通開局坎坷，轉為模糊貨幣政策立場。"
-                },
-                {
-                  "title": "利率立場",
-                  "text": "未明確表示加息或降息計劃，市場預期年底前可能進一步加息，但速度與幅度不確定。"
-                },
-                {
-                  "title": "通膨判斷",
-                  "text": "市場認為沃許對頑固通脹的應對決心不足，增添未來通膨回落風險。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "溝通不明令市場定價與利率期貨波動加劇，長期債券收益率攀升至20年高位。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "投資者認為沃許的指引策略增加未來貨幣政策不確定性，引發波動加劇。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "近期發言尚未透露具體利率決策細節，缺乏公開記者會等正式聲明。"
-                }
-              ]
-            }
-          ],
-          "expectations": [
-            "CME FedWatch數據顯示，2026年9月維持利率不變機率為59.9%，加息25個基點機率40.1%。",
-            "市場普遍預期年底前美聯儲仍有可能加息，但加息幅度與時間點存在分歧，高盛警告波動性將加劇。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ECB",
-          "name": "歐洲央行 ECB",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoE",
-          "name": "英國央行 BoE",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoJ",
-          "name": "日本央行 BoJ",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBA",
-          "name": "澳洲聯儲 RBA",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBI",
-          "name": "印度央行 RBI",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [
-            "印度央行公布海外僑民外匯存款流入高達654億美元，顯示資本流入強勁。",
-            "外匯掉期視窗流入資金達728億美元，反映外匯市場流動性充裕。"
-          ],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BCB",
-          "name": "巴西央行 BCB",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "SNB",
-          "name": "瑞士央行 SNB",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "喬丹",
-              "venue": "來源未提供具體場合",
-              "analysis": "瑞士央行行長喬丹在當日發表相關言論，強調當前政策調整的重要性與對於通膨的觀察，但無具體政策決議公布。其言論對市場評估未來利率動向具指標意義，反映金融穩定與通膨治理的雙重考量。整體分析顯示喬丹注重貨幣政策靈活性與市場預期管理。領先市場尚無明確加息或降息指示。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "2026年8月22日至23日間，多項報導中提及喬丹發言，但未提供具體場合。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "喬丹就貨幣政策前景發表言論，關注通膨壓力與金融穩定風險。"
-                },
-                {
-                  "title": "利率立場",
-                  "text": "未明示近期利率調整計劃，展現謹慎態度。  "
-                },
-                {
-                  "title": "通膨判斷",
-                  "text": "強調持續監控核心通膨走勢，為政策調整做好準備。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "言論提示貨幣政策將保持靈活，視經濟數據調整策略。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場視為中性偏鷹的信號，反映央行對通膨抑制持長期承諾。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "無具體決議公布，僅有言論整理，缺乏量化指標。"
-                }
-              ]
-            }
-          ],
           "expectations": [],
           "reports": [],
           "policy_release": {
