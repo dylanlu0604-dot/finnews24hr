@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-13 00:23:07",
-  "count": 13610,
+  "updated": "2026-09-13 00:27:05",
+  "count": 13612,
   "items": [
+    {
+      "id": "5090979",
+      "time": "2026-09-13 00:26:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok現已在微軟Copilot上線。"
+    },
+    {
+      "id": "mkt:01a09670-56e4-7118-8557-ec78fd4c21a4",
+      "time": "2026-09-13 00:25:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's prime minister said the Houthi militia's escalatory actions are wide-ranging and extremely dangerous, have extended beyond Yemen, and are linked to an Iranian agenda that threatens regional security and maritime safety."
+    },
+    {
+      "id": "mkt:01a0966e-eeb0-7118-8557-e26dd2795129",
+      "time": "2026-09-13 00:24:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi source rejects claims international ships face risk transiting Bab el‑Mandeb】Al Jazeera, citing Yemen’s Al-Masirah TV, quoted a source at the Houthi-controlled transport ministry saying 73 vessels transited the Bab el‑Mandeb on Sept. 10-11 — 36 on Sept. 10 and 37 on Sept. 11. The source said a ban on Saudi vessels did not impede international shipping and that 48‑hour transit volume equaled 98.6% of the pre‑ban average, arguing the data disproves claims that merchant shipping faces heightened risk after Houthi control of Yemen’s Red Sea coast."
+    },
     {
       "id": "5090978",
       "time": "2026-09-13 00:20:58",
@@ -124835,15 +124863,6 @@
         "國際"
       ],
       "text": "古巴外交部長：古巴是野蠻資本主義之外的另一種選擇。美國政客忌憚的，正是存在這樣一種模式，有別於他們企圖強加給全世界的那套體系。"
-    },
-    {
-      "id": "5078876",
-      "time": "2026-09-06 00:23:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗媒體：自年初以來，90億美元石油收入被伊朗石油部置於央行支配之下。"
     }
   ]
 }
