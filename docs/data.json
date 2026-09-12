@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-12 13:38:00",
-  "count": 13471,
+  "updated": "2026-09-12 13:41:48",
+  "count": 13474,
   "items": [
+    {
+      "id": "mkt:01a09422-5083-7118-8554-04a9839bb788",
+      "time": "2026-09-12 13:41:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RIA cites the Russian Defence Ministry saying Russian forces struck facilities in Odesa Oblast that supported transport of large volumes of foreign weapons and ammunition to Ukraine."
+    },
+    {
+      "id": "5090602",
+      "time": "2026-09-12 13:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗原子能組織主席啟程前往維也納。"
+    },
+    {
+      "id": "mkt:01a09421-9120-7118-8553-fbc6d6aba2b2",
+      "time": "2026-09-12 13:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's Mehran border open; customs and passenger traffic normal】TASNIM NEWS reports Mehran county governor said the Mehran border is open and passenger crossings and customs operations with Iraq are proceeding normally, with no closures or suspensions. About 17,000 passenger crossings were recorded in the past 24 hours. Mehran customs and export processing are operating without disruption."
+    },
+    {
+      "id": "5090601",
+      "time": "2026-09-12 13:38:08",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【京津冀四地攜手釋出共建太空算力產業長廊倡議】據人民郵電報，9月12日，在2026中國算力大會上，北京經濟技術開發區、天津經濟技術開發區、河北雄安新區、廊坊市四地攜手，發起共建京津冀太空算力產業長廊倡議：一是深化戰略協同，爭做下一代AI基礎設施建設引領者。二是聚力研發創新，夯實技術根基。三是強化示範應用，拓展賦能邊界。四是激發叢集效應，建設產業高地。五是促進政策同頻，護航企業成長。六是倡導開放合作，探索中國方案。"
+    },
     {
       "id": "5090600",
       "time": "2026-09-12 13:35:44",
@@ -123670,14 +123708,6 @@
         "國際"
       ],
       "text": "韓國2026年累計出口額達7094億美元，重新整理歷史紀錄。"
-    },
-    {
-      "id": "mkt:01a07016-1b72-7118-84b0-90f588cac233",
-      "time": "2026-09-05 13:41:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's exports reached $709.4 billion year-to-date in 2026, a record."
     }
   ]
 }
