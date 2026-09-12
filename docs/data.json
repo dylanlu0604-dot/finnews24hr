@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-12 17:37:59",
-  "count": 13522,
+  "updated": "2026-09-12 17:41:47",
+  "count": 13519,
   "items": [
+    {
+      "id": "5090708",
+      "time": "2026-09-12 17:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南將防汛防風四級應急響應提升至三級應急響應】9月12日，海南省防災減災救災委員會通知：海南省氣象局已於2026年9月12日16時30分提升暴雨四級預警為暴雨三級預警。根據《海南省防汛防風防旱應急預案》有關規定，經會商研判，省防災減災救災委員會決定於2026年9月12日17時將防汛防風四級應急響應提升至防汛防風三級應急響應。請萬寧、陵水、瓊中、保亭、瓊海立即啟動不低於省級響應級別的應急響應，三亞、五指山、屯昌、文昌要根據氣象預報預警情況及時啟動應急響應，其他市縣也要依據氣象部門預報預警情況，加強會商研判，及時啟動或調整應急響應，並督促相關責任部門做好防禦工作。"
+    },
     {
       "id": "5090707",
       "time": "2026-09-12 17:37:20",
@@ -124055,42 +124063,6 @@
         "WTI"
       ],
       "text": "Russia-appointed governor said Ukrainian strikes on the Russian-controlled Luhansk region killed five and injured five in the past 24 hours."
-    },
-    {
-      "id": "mkt:01a070f1-a380-7118-84b1-debdf99fef71",
-      "time": "2026-09-05 17:41:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Iran central bank to issue 3-month gold-coin forward bonds with 7% minimum return】The Central Bank of Iran will launch a new standard gold-coin parallel forward bond on Sept. 9, a three-month instrument aimed at expanding financial tools, opening gold-market investment channels and managing liquidity. Investors buy coins at the issuance-day market-discovery price and receive the coin's value at maturity under published terms. The bond includes a maturity sell option permitting sale at 107% of the issuance-day discovery price, guaranteeing at least a 7% return versus the issuance benchmark."
-    },
-    {
-      "id": "5078654",
-      "time": "2026-09-05 17:40:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄方任命官員稱，過去24小時內烏克蘭對盧甘斯克地區俄控區的襲擊造成5死5傷。"
-    },
-    {
-      "id": "5078653",
-      "time": "2026-09-05 17:39:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月深圳新建商品房成交3467套】深圳市房地產中介協會發布最新資料顯示，8月份，深圳新建商品房成交3467套，環比下降23.0%，同比增長4.8%；深圳二手住宅錄得5108套，環比下降2.3%，同比增長7.6%。今年1-8月，深圳二手房累計錄得約4.84萬套，同比增長4.7%。"
-    },
-    {
-      "id": "mkt:01a070ee-9d58-7118-84b1-d647334412d6",
-      "time": "2026-09-05 17:38:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi satellite TV cites sources saying Yemeni armed forces have regained control of all areas of the Hays district in Hodeidah province."
     }
   ]
 }
