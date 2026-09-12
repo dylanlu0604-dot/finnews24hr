@@ -1,7 +1,89 @@
 {
   "date": "2026-09-12",
-  "count": 712,
+  "count": 721,
   "items": [
+    {
+      "id": "mkt:01a09504-fb6c-7118-8555-e6212e79b343",
+      "time": "2026-09-12 17:48:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Gaza said the U.S. is doing very well."
+    },
+    {
+      "id": "5090717",
+      "time": "2026-09-12 17:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加沙：我們做得非常出色。"
+    },
+    {
+      "id": "mkt:01a09504-0512-7118-8555-db6569044acd",
+      "time": "2026-09-12 17:47:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US President Trump said he believes Iran has missiles capable of striking European cities."
+    },
+    {
+      "id": "5090716",
+      "time": "2026-09-12 17:47:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我與沙特王儲穆罕默德・本・薩勒曼通了電話。"
+    },
+    {
+      "id": "5090715",
+      "time": "2026-09-12 17:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗不得擁有核武器。"
+    },
+    {
+      "id": "mkt:01a09502-d2f4-7118-8555-d609260bc5bd",
+      "time": "2026-09-12 17:46:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "US President Trump said on the attack on a Saudi pipeline that the Saudi crown prince is his good friend and that everything will be resolved smoothly."
+    },
+    {
+      "id": "5090714",
+      "time": "2026-09-12 17:46:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就沙特石油管道遇襲事件表態：王儲是我的好朋友，一切都會順利解決的。"
+    },
+    {
+      "id": "5090713",
+      "time": "2026-09-12 17:45:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：戰爭結束後油價將大幅下跌。"
+    },
+    {
+      "id": "5090712",
+      "time": "2026-09-12 17:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【畢馬威報告：縣域是服務消費擴容最具潛力的增量空間】2026年中國國際服務貿易交易會期間，畢馬威釋出研究成果報告《“十五五”服務消費十大前沿趨勢展望》（以下簡稱《報告》）。《報告》依託一線市場資料與政策檔案，系統研判“十五五”時期中國服務消費的發展現狀、主要風險與十大前沿趨勢。《報告》提出，服務業高水平對外開放、數字技術應用深化、縣域服務市場價值釋放，從供給端重塑服務消費的發展格局，是“十五五”階段服務消費增長的核心驅動力。在縣域市場方面，縣域是我國消費的基石市場，也是服務消費擴容最具潛力的增量空間。"
+    },
     {
       "id": "5090711",
       "time": "2026-09-12 17:45:01",
