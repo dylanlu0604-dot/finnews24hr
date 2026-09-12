@@ -1,7 +1,25 @@
 {
   "date": "2026-09-12",
-  "count": 413,
+  "count": 415,
   "items": [
+    {
+      "id": "mkt:01a09322-7db5-7118-8552-cd2f92e5877f",
+      "time": "2026-09-12 09:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA departs Beijing for New Delhi to attend 18th BRICS leaders' meeting】CHINA departed Beijing on Sept 12 to attend the 18th BRICS leaders' meeting in New Delhi at the invitation of Indian Prime Minister Modi; CHINA is accompanied by Politburo Standing Committee member and director of the General Office Cai Qi and Politburo member and foreign minister Wang Yi."
+    },
+    {
+      "id": "5090503",
+      "time": "2026-09-12 09:00:19",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中國國家主席離京赴新德里出席金磚國家領導人第十八次會晤】9月12日上午，中國國家主席乘專機赴新德里，應印度總理莫迪邀請，出席金磚國家領導人第十八次會晤。陪同出訪的有：中共中央政治局常委、中央辦公廳主任蔡奇，中共中央政治局委員、外交部部長王毅等。（央視新聞）"
+    },
     {
       "id": "mkt:01a0931f-60bd-7118-8552-c776b38b1ad6",
       "time": "2026-09-12 08:58:22",
