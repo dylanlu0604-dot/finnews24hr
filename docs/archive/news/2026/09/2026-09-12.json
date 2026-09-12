@@ -1,7 +1,29 @@
 {
   "date": "2026-09-12",
-  "count": 408,
+  "count": 410,
   "items": [
+    {
+      "id": "5090501",
+      "time": "2026-09-12 08:53:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港三大發鈔行估值升至五年高位 年內漲幅均超30%】今年以來，香港三大發鈔行股價漲幅均超30%，市淨率（PB）均站上歷史高位。目前，三大發鈔行的PB均已升至近五年的98%分位點以上，其中滙豐和渣打甚至突破了近十年的99%分位點。從A股和港股橫向對比來看，今年以來，港股銀行板塊整體漲幅亦跑贏A股銀行板塊約20個百分點。（21財經）"
+    },
+    {
+      "id": "mkt:01a0931a-0ae6-7118-8552-b6cd87a8c7b2",
+      "time": "2026-09-12 08:52:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Crude ETF holdings: WTI exposure falls for second straight day】Sept 11 — WTI (USO) nominal exposure ~21.571 mln barrels, down 155,000 barrels on the day (second consecutive daily reduction); Brent (BNO) futures holdings ~5.904 mln barrels, up 89,000 barrels."
+    },
     {
       "id": "5090500",
       "time": "2026-09-12 08:45:03",
