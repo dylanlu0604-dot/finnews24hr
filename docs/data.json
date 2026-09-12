@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-12 14:12:39",
+  "updated": "2026-09-12 14:16:29",
   "count": 13472,
   "items": [
+    {
+      "id": "5090611",
+      "time": "2026-09-12 14:14:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破100美元，日內跌超2.9%。"
+    },
+    {
+      "id": "5090610",
+      "time": "2026-09-12 14:14:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤日內跌超1%，現報6.5157美元。"
+    },
     {
       "id": "mkt:01a0943d-48cf-7118-8554-57a772db40f1",
       "time": "2026-09-12 14:10:39",
@@ -123679,26 +123697,6 @@
         "Greater China"
       ],
       "text": "【China's Ministry of Emergency Management sends working group to Jiangxi Suichuan mudslide site】On Sept. 5 a mudflow and landslide struck Shixia group, Mingkeng Village, Gaoping Town, Suichuan County, Jiangxi. The National Disaster Reduction and Relief Commission and the Ministry of Emergency Management initiated level-4 national emergency responses for natural disasters and geological disasters and dispatched a working group to oversee rescue. The ministry ordered all-out search-and-rescue, verification of casualties and missing persons, nearby deployment of communications support and engineering rescue teams, and stepped-up hydrological and geological monitoring and early warning to prevent secondary disasters. The national production-safety rescue team’s emergency survey unit, carrying slope radar and other equipment, was sent to assist; local fire services deployed 41 vehicles and 224 personnel and communications and reconnaissance drones were airborne."
-    },
-    {
-      "id": "mkt:01a07035-24bb-7118-84b0-c92e1a073c5a",
-      "time": "2026-09-05 14:15:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Former PBOC deputy governor Zhu Min urges APAC digital and AI integration】Sept. 5, Shenzhen — Former PBOC deputy governor Zhu Min told an Asia‑Pacific media forum that APAC should accelerate digital and intelligent transformation and regional connectivity. He urged deeper cooperation on frontier technologies, stronger collaboration on artificial intelligence, promotion of the digital economy, expansion of digital public services and efforts to improve standards interoperability."
-    },
-    {
-      "id": "5078592",
-      "time": "2026-09-05 14:13:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部發布訊息表示，俄軍在基輔州布羅瓦里市擊中了電子偵察中心。"
     }
   ]
 }
