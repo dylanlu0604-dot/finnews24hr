@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-13 00:38:56",
+  "updated": "2026-09-13 00:42:52",
   "count": 13613,
   "items": [
+    {
+      "id": "5090988",
+      "time": "2026-09-13 00:39:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：我同意達里奧的觀點，我們需要把控前沿技術的推進節奏。這是最近幾周OpenAI內部討論的核心議題。承諾設立擁有類似員工訪問許可權的獨立評估人員是個好主意，我們也將落實該舉措。不久後我們會公佈更多資訊。"
+    },
+    {
+      "id": "5090987",
+      "time": "2026-09-13 00:38:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲骨文暗盤漲超2%，現報150.23美元。"
+    },
     {
       "id": "5090986",
       "time": "2026-09-13 00:37:18",
@@ -124852,26 +124869,6 @@
         "國際"
       ],
       "text": "市場資訊：設在美國聯邦應急管理局總部的移民聽證會最早將於週二啟動。"
-    },
-    {
-      "id": "5078883",
-      "time": "2026-09-06 00:41:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府將在聯邦應急管理局（FEMA）總部舉辦移民聽證會。"
-    },
-    {
-      "id": "mkt:01a07272-51ef-7118-84b3-0845e72a3c7c",
-      "time": "2026-09-06 00:41:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【UK Maritime Trade Operations: multiple merchant vessels struck by 'disabling fire' in northern Arabian Gulf, Gulf of Oman】UK Maritime Trade Operations (UKMTO) said it received reports that multiple merchant vessels in the northern Arabian Gulf and the Gulf of Oman were struck by \"disabling fire\", describing the incidents as part of ongoing military activity in the area. UKMTO said it could not yet confirm casualties or environmental damage; investigations are ongoing."
     }
   ]
 }
