@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-12 17:18:52",
-  "count": 13511,
+  "updated": "2026-09-12 17:22:42",
+  "count": 13515,
   "items": [
+    {
+      "id": "5090701",
+      "time": "2026-09-12 17:21:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪在新德里向金磚國家領導人發表講話。"
+    },
+    {
+      "id": "mkt:01a094eb-e6c8-7118-8555-912e1acd5ef5",
+      "time": "2026-09-12 17:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yinhe General says online rumors about company and management are false; files police report】Yinhe General said it has detected malicious online rumors about the company and its management, and that the allegations are false. The company has reported the matter to public security and will pursue legal liability against the rumor-makers."
+    },
+    {
+      "id": "5090700",
+      "time": "2026-09-12 17:18:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破100美元，日內跌超1.9%。"
+    },
+    {
+      "id": "mkt:01a094e8-fdeb-7118-8555-8e3af0d6e7fc",
+      "time": "2026-09-12 17:18:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "6702.T"
+      ],
+      "text": "Nikkei reports Japan's Fujitsu will export AI chips to the U.S. and Asia."
+    },
     {
       "id": "5090699",
       "time": "2026-09-12 17:17:24",
