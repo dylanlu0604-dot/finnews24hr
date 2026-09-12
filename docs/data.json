@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-12 21:33:38",
-  "count": 13597,
+  "updated": "2026-09-12 21:37:28",
+  "count": 13598,
   "items": [
+    {
+      "id": "5090840",
+      "time": "2026-09-12 21:35:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【愷英網路：擬間接參股韓國遊戲公司Wemade】愷英網路(002517)9月12日晚間公告，公司擬間接參股韓國公司Wemade（娛美德）。娛美德是韓國交易所科斯達克上市的遊戲企業，是韓國本土第一代網遊研發企業，是極具影響力的“傳奇”IP原始權利方。此次交易完成後，公司將間接持有娛美德40.25%控股權中對應的49%的權益，娛美德將成為公司間接參股境外上市公司。此次交易，公司整體預估出資2.98億美元（約合人民幣20.3億元）。娛美德作為“傳奇”系列IP的原始權利方，其核心IP資產具有較強的稀缺性和長期商業化價值。公司長期參與“傳奇”IP中國境內商業化合作，此次交易有利於雙方形成更加穩定的長期合作機制，並進一步深化雙方在“傳奇”IP商業化、新遊戲產品發行及中國市場運營等方面的合作。"
+    },
+    {
+      "id": "5090839",
+      "time": "2026-09-12 21:34:59",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【李鴻忠赴俄羅斯出席第七屆中俄中小企業實業論壇並訪問伊爾庫茨克州】9月9日至12日，中共中央政治局委員，全國人大常委會副委員長，中俄友好、和平與發展委員會中方主席李鴻忠在莫斯科出席第七屆中俄中小企業實業論壇開幕式並致辭；與俄羅斯聯邦委員會主席馬特維延科，國家杜馬第一副主席梅利尼科夫，中俄友好、和平與發展委員會俄方主席季托夫會見，並訪問伊爾庫茨克州。（新華社）"
+    },
     {
       "id": "te:markets:583308",
       "time": "2026-09-12 21:30:04",
@@ -124745,18 +124763,6 @@
         "XAUUSD"
       ],
       "text": "CENTCOM said US forces struck three Iranian crude tankers."
-    },
-    {
-      "id": "mkt:01a071c8-7fbb-7118-84b2-a3c9deb70d89",
-      "time": "2026-09-05 21:36:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【TankerTrackers: Iran NITC VLCC DOWNY attacked; in ballast, port-quarter engine room struck】Tanker-tracking firm TankerTrackers says satellite imagery shows Iran National Tanker Co (NITC) VLCC DOWNY was attacked today. The vessel was in ballast and not carrying oil. Imagery and AIS show multiple tugs active around the ship, concentrated on the aft port side, with activity beginning at about 12:45 Beijing time. The damage appears to be to the port-quarter engine room. Thermal imagery shows no visible fire or smoke. TankerTrackers notes this vessel type matches targets CENTCOM has used in past retaliatory strikes; the strike was likely caused by a US Hellfire missile."
     }
   ]
 }
