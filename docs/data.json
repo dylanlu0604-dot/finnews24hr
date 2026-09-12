@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-13 03:13:13",
-  "count": 13574,
+  "updated": "2026-09-13 03:17:06",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a0970b-4713-7118-8558-551d93b1f102",
+      "time": "2026-09-13 03:14:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Canadian PM Mark Carney to meet UK PM Andy Burnham for first time】Canadian Prime Minister Mark Carney will meet UK Prime Minister Andy Burnham in Liverpool during a Sept. 15-17 visit that also includes Strasbourg, the Prime Minister's Office said. They are expected to discuss defense and security, energy, AI and critical minerals. The meeting coincides with EU-Canada negotiations on a comprehensive trade-and-security agreement, a process the statement said is increasing pressure on Burnham as he seeks closer ties with the EU."
+    },
+    {
+      "id": "5091029",
+      "time": "2026-09-13 03:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國檢方：暫無證據表明列車脫軌事故涉及恐襲】法國魯昂檢方當地時間9月12日表示，目前沒有證據表明日前發生在濱海塞納省的列車脫軌事故涉及恐怖襲擊，也沒有證據證明有人蓄意使列車脫軌。魯昂檢方表示，警方技術和科學勘查已經完成，並進行了多次詢問，但目前仍無法解釋為何一段來自另一條軌道的鋼軌會出現在正在使用的線路上。此前，這起列車脫軌事故造成44人受傷。 (央視新聞)"
+    },
     {
       "id": "mkt:01a096ff-fd9d-7118-8558-49f1a8d55dfb",
       "time": "2026-09-13 03:02:33",
@@ -124487,38 +124505,6 @@
         "MKT News"
       ],
       "text": "【Qatar PM, Lebanese PM discuss de-escalation and maritime security】Qatari prime minister and foreign minister Sheikh Mohammed spoke by phone with the Lebanese prime minister, urging calm amid rising regional tensions and discussing de-escalation measures and maritime security. Qatar reiterated support for diplomatic efforts to safeguard freedom of navigation and to pave the way for a comprehensive agreement toward durable regional peace, and reaffirmed backing for Lebanon's stability and territorial integrity."
-    },
-    {
-      "id": "5078927",
-      "time": "2026-09-06 03:16:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達總理同黎巴嫩總理就地區局勢降溫、海上安全問題舉行磋商。"
-    },
-    {
-      "id": "mkt:01a072ff-7bc7-7118-84b4-34879d2b73bf",
-      "time": "2026-09-06 03:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports MAGA Inc., the super PAC aligned with Trump, has deployed US$10 mln to Texas — its first election-season expenditure this year."
-    },
-    {
-      "id": "5078926",
-      "time": "2026-09-06 03:14:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京對美國特使庫什納與威特科夫表示：調解工作的質量，以及對斡旋人員所寄予的信任，當然至關重要。我想告訴你們，與你們開展合作令我方感到踏實，在整個程序當中，我方的信任程度相當高。"
-    },
-    {
-      "id": "5078925",
-      "time": "2026-09-06 03:13:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普旗下“讓美國再次偉大”超級政治行動委員會（MAGA Inc.）向得克薩斯州投入1000萬美元，這是該機構本年度首次大選階段開支。"
     }
   ]
 }

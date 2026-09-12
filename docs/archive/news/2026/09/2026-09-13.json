@@ -1,7 +1,25 @@
 {
   "date": "2026-09-13",
-  "count": 59,
+  "count": 61,
   "items": [
+    {
+      "id": "mkt:01a0970b-4713-7118-8558-551d93b1f102",
+      "time": "2026-09-13 03:14:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Canadian PM Mark Carney to meet UK PM Andy Burnham for first time】Canadian Prime Minister Mark Carney will meet UK Prime Minister Andy Burnham in Liverpool during a Sept. 15-17 visit that also includes Strasbourg, the Prime Minister's Office said. They are expected to discuss defense and security, energy, AI and critical minerals. The meeting coincides with EU-Canada negotiations on a comprehensive trade-and-security agreement, a process the statement said is increasing pressure on Burnham as he seeks closer ties with the EU."
+    },
+    {
+      "id": "5091029",
+      "time": "2026-09-13 03:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國檢方：暫無證據表明列車脫軌事故涉及恐襲】法國魯昂檢方當地時間9月12日表示，目前沒有證據表明日前發生在濱海塞納省的列車脫軌事故涉及恐怖襲擊，也沒有證據證明有人蓄意使列車脫軌。魯昂檢方表示，警方技術和科學勘查已經完成，並進行了多次詢問，但目前仍無法解釋為何一段來自另一條軌道的鋼軌會出現在正在使用的線路上。此前，這起列車脫軌事故造成44人受傷。 (央視新聞)"
+    },
     {
       "id": "mkt:01a096ff-fd9d-7118-8558-49f1a8d55dfb",
       "time": "2026-09-13 03:02:33",
