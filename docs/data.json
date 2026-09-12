@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-12 22:04:49",
-  "count": 13597,
+  "updated": "2026-09-12 22:08:42",
+  "count": 13606,
   "items": [
+    {
+      "id": "mkt:01a095f2-884f-7118-8557-80cd7045ae8f",
+      "time": "2026-09-12 22:08:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic co-founder and CEO said slowing the pace does not mean stopping model training or technological progress; it is intended to give the company sufficient time to carry out alignment and safeguard models."
+    },
+    {
+      "id": "5090862",
+      "time": "2026-09-12 22:07:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗將於週一向海灣國家通報霍爾木茲海峽航運協議。"
+    },
+    {
+      "id": "5090860",
+      "time": "2026-09-12 22:07:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長：“放緩節奏”並不意味著停止模型訓練或技術進步，而是確保企業有充足的時間進行對齊並保障模型安全。"
+    },
+    {
+      "id": "mkt:01a095f0-f810-7118-8557-7e6225639b2e",
+      "time": "2026-09-12 22:06:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC co-founder and CEO proposes developing AI models at a measured pace to ensure their safety."
+    },
+    {
+      "id": "5090857",
+      "time": "2026-09-12 22:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "ANTHROPIC執行長提議以平衡的節奏發展人工智慧，旨在確保其安全性。"
+    },
+    {
+      "id": "mkt:01a095f0-0d55-7118-8557-734895bb43db",
+      "time": "2026-09-12 22:05:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic co-founder and CEO outlines a three-step plan aimed at leading frontier development."
+    },
+    {
+      "id": "5090856",
+      "time": "2026-09-12 22:05:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "ANTHROPIC執行長提出旨在把控前沿技術發展節奏的三步走計劃。"
+    },
+    {
+      "id": "mkt:01a095ef-efda-7118-8557-6bab8bcd6260",
+      "time": "2026-09-12 22:05:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic co-founder and CEO said the pace of advancing AI model capabilities must be slowed."
+    },
+    {
+      "id": "5090855",
+      "time": "2026-09-12 22:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "ANTHROPIC執行長達里奧·阿莫迪  ：我們必須放慢提升人工智慧模型能力的步伐。"
+    },
     {
       "id": "5090854",
       "time": "2026-09-12 22:01:52",
