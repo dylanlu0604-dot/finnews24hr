@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 90,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:01a09770-8237-7118-8558-a74316f751d8",
+      "time": "2026-09-13 05:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's armed forces said it had issued strict orders to dismiss personnel who fail in security duties, and that Iraq will not allow any actions that infringe on neighboring countries and will not become part of regional tensions."
+    },
     {
       "id": "mkt:01a09762-f205-7118-8558-984cd9225022",
       "time": "2026-09-13 04:50:38",

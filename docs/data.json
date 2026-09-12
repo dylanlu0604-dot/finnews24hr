@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13 05:04:25",
-  "count": 13572,
+  "updated": "2026-09-13 05:08:10",
+  "count": 13571,
   "items": [
+    {
+      "id": "mkt:01a09770-8237-7118-8558-a74316f751d8",
+      "time": "2026-09-13 05:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's armed forces said it had issued strict orders to dismiss personnel who fail in security duties, and that Iraq will not allow any actions that infringe on neighboring countries and will not become part of regional tensions."
+    },
     {
       "id": "mkt:01a09762-f205-7118-8558-984cd9225022",
       "time": "2026-09-13 04:50:38",
@@ -124500,25 +124508,6 @@
         "WTI"
       ],
       "text": "Egypt's Foreign Ministry said Egypt's and Oman's foreign ministers discussed developments in the Strait of Hormuz and their potential impact on regional security and the global economy; both stressed safeguarding maritime navigation and ensuring uninterrupted trade and energy supplies."
-    },
-    {
-      "id": "mkt:01a07366-183f-7118-84b4-b2d1d111a997",
-      "time": "2026-09-06 05:07:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Al Jazeera reported Israeli forces struck the outskirts of Rafid town in southern Syria."
-    },
-    {
-      "id": "5078942",
-      "time": "2026-09-06 05:05:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及外交部：埃及外長和阿曼外交大臣呼籲維護海上航行安全，保障該水道貿易與能源物資持續流通。"
     }
   ]
 }
