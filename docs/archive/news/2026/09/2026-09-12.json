@@ -1,7 +1,885 @@
 {
   "date": "2026-09-12",
-  "count": 766,
+  "count": 869,
   "items": [
+    {
+      "id": "mkt:01a095b3-d758-7118-8557-4268eec30a8a",
+      "time": "2026-09-12 20:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's military said it has agreed to Iran's request to jointly investigate whether drone launchers exist along their shared border."
+    },
+    {
+      "id": "5090824",
+      "time": "2026-09-12 20:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印尼Teluknaga東北方向 126 公里處發生6.5級地震。"
+    },
+    {
+      "id": "5090823",
+      "time": "2026-09-12 20:56:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克軍方：伊拉克同意伊朗提出的聯合調查兩國邊境是否存在無人機發射裝置的請求。"
+    },
+    {
+      "id": "5090819",
+      "time": "2026-09-12 20:52:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克總理表示將調查在伊拉克與伊朗邊境發現的導彈發射裝置。"
+    },
+    {
+      "id": "5090818",
+      "time": "2026-09-12 20:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克總理表示接受伊朗提出的聯合調查請求。"
+    },
+    {
+      "id": "mkt:01a095ac-ca5a-7118-8557-3a86bac04e03",
+      "time": "2026-09-12 20:52:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Bahrain's state news agency said any agreement on the Strait of Hormuz should guarantee passage for all vessels and must not discriminate, impose fees or require permits."
+    },
+    {
+      "id": "mkt:01a095ac-65a7-7118-8557-34b4376146a3",
+      "time": "2026-09-12 20:51:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Bahrain's state news agency BNA said Bahrain will not participate in a meeting with Iran on the Strait of Hormuz."
+    },
+    {
+      "id": "5090817",
+      "time": "2026-09-12 20:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓客船起火事故已致76人死亡】據菲律賓海岸警衛隊訊息，9月12日，有關部門在巴拉望省附近海域起火船隻上再次清點出多具遇難者遺體，這使得該事故的遇難人數上升至76人，目前仍有13人失蹤。"
+    },
+    {
+      "id": "mkt:01a095ac-0d7f-7118-8557-2a8b688e08eb",
+      "time": "2026-09-12 20:51:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi Press Agency reports Bahrain will not attend any meetings with Iran until the two countries restore diplomatic relations."
+    },
+    {
+      "id": "5090816",
+      "time": "2026-09-12 20:50:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林表示，任何協議都應保障所有船隻不受歧視、無需繳費或申請許可的過境通行權。"
+    },
+    {
+      "id": "mkt:01a095a7-76a3-7118-8557-27c4bcd5eb81",
+      "time": "2026-09-12 20:46:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Interfax reported the Kremlin expressed concern over the situation in the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5090815",
+      "time": "2026-09-12 20:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮對曼德海峽局勢表示關切。"
+    },
+    {
+      "id": "mkt:01a095a4-b379-7118-8557-1df29582278b",
+      "time": "2026-09-12 20:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Flood and Drought Control Headquarters activates level-4 flood emergency for Hainan】Meteorological forecasts indicate a South China Sea tropical depression will bring heavy to torrential rain, with locally extreme downpours, to Hainan and nearby areas from Sept 13–15. Risks include flash floods, geological hazards, flooding in small and medium rivers, and urban waterlogging. Under the National Flood and Drought Emergency Plan, the National Flood and Drought Control Headquarters activated a level-4 flood emergency for Hainan on Sept 12 at 19:00."
+    },
+    {
+      "id": "5090814",
+      "time": "2026-09-12 20:41:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總針對海南啟動防汛四級應急響應】據氣象部門預報，受南海熱帶低壓影響，9月13日至15日，海南島等地部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險高。根據《國家防汛抗旱應急預案》及有關規定，國家防總於9月12日19時針對海南啟動防汛四級應急響應。"
+    },
+    {
+      "id": "5090813",
+      "time": "2026-09-12 20:37:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林表示不會參加任何與伊朗舉行的會議。"
+    },
+    {
+      "id": "5090812",
+      "time": "2026-09-12 20:36:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林表示不會參加關於霍爾木茲海峽問題的伊朗會議。"
+    },
+    {
+      "id": "5090811",
+      "time": "2026-09-12 20:33:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲資金湧入拉美股票基金 淨流入金額創2010年以來新高】據英國《金融時報》12日報道，晨星資料顯示，今年以來，在歐洲註冊、主要投資拉美股票的共同基金和交易所交易基金（ETF），合計淨流入36億美元，這一規模已超過2010年以來任何一個完整自然年的全年流入水平，扭轉了此前15年累計淨流出151億美元的趨勢。資金持續流入疊加市場上行，推動相關基金資產規模增至216億美元，約為2025年初的2.5倍。報道指出，近期投資者對拉美市場的熱情很大程度上源於拉美地區在大宗商品領域的優勢。中東衝突推高油價、人工智慧基礎設施建設帶動銅等金屬需求，成為拉美股市的重要支撐。巴西石油公司與墨西哥集團合計貢獻了該地區今年以來約四成的股市收益。 (央視財經)"
+    },
+    {
+      "id": "5090810",
+      "time": "2026-09-12 20:29:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創維數字：不存在“大股東持股比例僅13%”情形】9月11日下午，創維數字在業績說明會上表示，公司主營業務為智慧終端（智慧機頂盒、體感智慧遊戲盒子、智慧中屏、寬頻網路連線裝置、XR解決方案及智慧眼鏡、雲電腦等）、專業顯示（車載人機互動顯示總成系統、車載智慧顯示儀表系統、工控顯示模組等）及運營服務。公司控股股東為深圳創維-RGB電子有限公司，持股比例51.21%，不存在“大股東持股比例僅13%”的情形。公司將持續聚焦主業，圍繞“智慧原生”戰略推進智慧終端、XR及智慧眼鏡、車載顯示、儲能等業務發展，以規範運作和穩健經營回饋投資者。"
+    },
+    {
+      "id": "5090809",
+      "time": "2026-09-12 20:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026浦江創新論壇在上海啟幕】12日，以“共享創新 共塑未來：新一輪科技革命背景下的全球科技共同體使命”為主題的2026浦江創新論壇在上海正式拉開帷幕。本屆論壇由中華人民共和國科學技術部與上海市人民政府共同主辦，南非共和國擔任主賓國，湖南省擔任主賓省。（新華社）"
+    },
+    {
+      "id": "5090808",
+      "time": "2026-09-12 20:28:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：在過去24小時內，俄羅斯在彼爾姆和薩馬拉地區的兩個化工企業遭到打擊。黑海的一個目標被擊中。在塔甘羅格，我方打擊了一個FPV無人機生產設施和無人機儲存點、一個油品儲罐、一個雷達站，以及一個Pantsir-S2系統。我們還確認了本週我們行動的成果。特別是，在克拉斯諾達爾和羅斯托夫地區，一架Su-33飛機和兩架Mi-8直升機被摧毀。彼爾姆的一個油料設施被擊中。"
+    },
+    {
+      "id": "mkt:01a09591-e853-7118-8557-167c4fa2b9ba",
+      "time": "2026-09-12 20:22:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Skyworth Digital: smart-terminal growth underpinned by three factors; company keeps positive full-year outlook】Skyworth Digital said at its results briefing that the smart-terminal segment was the main driver of 1H growth, delivering 4.4 bln yuan in revenue, up 52.45% YoY, with unit sales, revenue scale and gross margin all improving. The company cited three supports: intensified telco centralized procurement rollouts—Lingxi smart-screen shipments exceeded 300,000 units; product-mix optimisation after exiting some low-margin traditional procurement orders to focus on higher-value products; and successful overseas expansion, with the Nex Playground motion-sensing game box selling well in North America. With continued delivery of operator procurement projects in H2, the start of the overseas peak season and vehicle-display projects entering mass production, Skyworth Digital maintains a positive full-year earnings outlook."
+    },
+    {
+      "id": "5090807",
+      "time": "2026-09-12 20:12:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創維數字：智慧終端業務增長有三方面支撐 公司對全年業績保持積極預期】創維數字(000810)9月11日在業績說明會上表示，上半年公司業績增長的核心驅動力來自智慧終端業務的全面復甦，該板塊實現營收44億元，同比增長52.45%，銷售數量、營收規模及毛利率三條線同步提升。從增長邏輯看，主要有三方面支撐：一是運營商集採專案密集落地，智慧靈犀屏發貨量突破30萬臺；二是產品結構持續最佳化，公司主動放棄部分低毛利傳統集採訂單，聚焦高附加值產品；三是海外市場拓展成效顯著，Nex Playground體感遊戲盒子在北美市場銷售表現突出。隨著下半年運營商集採專案持續交付、海外旺季銷售啟動，以及車載顯示等專案陸續進入量產階段，公司對全年業績保持積極預期。"
+    },
+    {
+      "id": "5090806",
+      "time": "2026-09-12 20:11:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“鐵建起重5000”大型起重船離港赴遠洋施工】從中國鐵建股份有限公司獲悉，12日，由中國鐵建港航局投資打造的“鐵建起重5000”大型起重船順利完成模組吊裝，從珠海高欄港出發，駛往西非施工海域。（新華社）"
+    },
+    {
+      "id": "5090805",
+      "time": "2026-09-12 20:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：目前尚未決定普京是否將出席在邁阿密舉行的G20峰會。 如果澤連斯基真的想與普京會面，他可以來莫斯科。"
+    },
+    {
+      "id": "5090804",
+      "time": "2026-09-12 20:08:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行據悉要求塔塔集團的主要投資控股公司塔塔之子公司（Tata Sons）立即在證券交易所上市。"
+    },
+    {
+      "id": "5090803",
+      "time": "2026-09-12 20:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【每10分鐘下線1臺 柳州優必選萬臺級工業人形機器人超級智慧工廠投產】9月12日，柳州優必選萬臺級工業人形機器人超級智慧工廠投產儀式舉行，“用機器人造機器人”的智造模式在柳州實現量產。市委書記張壯，優必選科技創始人、董事會主席兼CEO周劍出席並致辭。張壯在致辭中指出，優必選萬臺級超級智慧工廠投產，標誌著柳州在高階機器人整機制造領域邁上了規模化量產的新臺階，柳州製造的“含新量”“含智量”不斷提升，必將有力助推柳州從傳統工業城市向新型工業化示範區轉變，為建設“智造強市”注入強勁動能。該超級智慧工廠是優必選打造的全球首個適配萬臺級產能的工業人形機器人智慧製造標杆工廠，按照產線設計節拍，每10分鐘可下線1臺機器人、年規劃產能超萬臺。"
+    },
+    {
+      "id": "5090802",
+      "time": "2026-09-12 20:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "內部檔案顯示，特朗普政府已叫停了全美各地國家公園的 130 多個專案，價值至少 2500 萬美元。"
+    },
+    {
+      "id": "5090801",
+      "time": "2026-09-12 19:55:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國中鐵與北京市豐臺區簽署戰略合作框架協議】據中國中鐵訊息，9月11日，中國中鐵與北京市豐臺區簽署戰略合作框架協議。北京市豐臺區委書記王少峰表示，希望雙方開展全方位、深層次的長期戰略合作，豐臺區將全力做好各項服務保障，支援中國中鐵及其成員企業在豐臺佈局科技創新專案，合力打造中試科技園區，統籌整合周邊資源，協同推進“六張網”建設，聚焦站點周邊、重點功能區與街區式城市更新，開展產業園區共建，拓展健康旅遊等領域合作。"
+    },
+    {
+      "id": "mkt:01a09578-86d9-7118-8557-0cf321cdad27",
+      "time": "2026-09-12 19:54:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Analyst: Drone strike on Saudi oil pipeline signals \"Iran untrustworthy\"】Security and defense analyst Wolfgang Pushtauyi said the drone attack on a Saudi oil pipeline was carried out by Iranian proxies in Iraq and is very likely to have been ordered by Tehran. He said Tehran views the strike as supporting Houthi aims to force a Saudi withdrawal from Yemen; rising pressure on Riyadh increases the odds of such a withdrawal and could prompt Tehran to tighten restrictions around the Strait of Hormuz to prevent Saudi attempts to bypass it, signaling to Saudi Arabia and other Gulf states that Iran is untrustworthy."
+    },
+    {
+      "id": "5090800",
+      "time": "2026-09-12 19:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普特朗普稱不反對中國車企來美建廠：要是中國像日本這樣，我OK】據路透社9月12日報道，美國總統特朗普週五表示，儘管美國國會議員和汽車企業普遍反對，但他不會反對中國汽車製造商在美國建廠生產汽車。 特朗普在接受福克斯新聞節目採訪時表示：“如果中國想進入美國，在這裡開設工廠生產他們的汽車，我對此沒有意見。” 他說：“日本就是這麼做的，但他們僱用的是我們的工人。最重要的是，他們僱用我們的工人。” 他補充說，他不希望中國汽車製造商在墨西哥生產汽車，然後將這些汽車出口到美國。 中方多次強調，在處理中美經貿問題上的立場是一貫、明確的，反對各種形式的單邊關稅措施。（觀察者網）"
+    },
+    {
+      "id": "mkt:01a09575-5322-7118-8557-02bfe6d8ceb0",
+      "time": "2026-09-12 19:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC says it foiled assassination plot, killed four terrorists; three Guards killed】Iran’s Islamic Revolutionary Guard Corps (IRGC) Quds Force said on the 12th it killed four terrorists in Saravan, Sistan‑Baluchestan province in a pre-dawn operation targeting an assassination cell. The IRGC said the raid, conducted jointly with intelligence and law‑enforcement units, seized weapons, ammunition and explosives at the group's hideout. Three IRGC members were killed in the action."
+    },
+    {
+      "id": "5090799",
+      "time": "2026-09-12 19:50:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊挫敗暗殺圖謀 擊斃4名恐怖分子字】伊朗伊斯蘭革命衛隊“聖城旅”12日發表宣告說，當天在伊朗東南部錫斯坦-俾路支斯坦省薩拉萬地區打死4名企圖實施暗殺行動的恐怖分子。 宣告說，革命衛隊聯合情報部門和執法部隊當日清晨對該恐怖團伙發起打擊，當場打死4名恐怖分子，並在其窩點繳獲一批武器、彈藥及爆炸物。3名革命衛隊成員在行動中喪生。（新華社）"
+    },
+    {
+      "id": "mkt:01a09572-3be2-7118-8556-f8f6bddd65fb",
+      "time": "2026-09-12 19:48:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA meets MODI at 18th BRICS leaders' summit in New Delhi】On Sept 12 local time, CHINA met Indian Prime Minister MODI in New Delhi on the sidelines of the 18th BRICS leaders' summit."
+    },
+    {
+      "id": "5090798",
+      "time": "2026-09-12 19:46:59",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【9月12日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平離京赴新德里出席金磚國家領導人第十八次會晤； 2.習近平抵達新德里出席金磚國家領導人第十八次會晤； 3.習近平出席金磚國家領導人第十八次會晤第一階段會議並發表重要講話； 4.【賡續長征精神 奮進復興征程】福建：紅色鑄魂 綠色賦能 繪就全面振興畫卷； 5.多項先行指標釋放積極訊號 經濟內生動力持續增強； 6.我國對其他金磚國家直接投資穩步增長； 7.2026年服貿會迎來公眾開放日； 8.數字新職業啟用就業新潛力； 9.【活力中國調研行】從“買商品”到“買體驗” 長沙消費加速跑； 10.國內聯播快訊： （1）我國14種礦產儲量居世界第一位； （2）2026年黃河上中游重點水庫聯合排沙排程今天啟動； （3）前8個月4.99億人次出入境 免簽入境外國人同比上升26.8%； （4）我國出生缺陷防治能力顯著提升； （5）京雄快線今天開啟全線貫通試執行； （6）中央追逃辦：“紅通人員”曾能貴被引渡回國； 11.國際人士表示相信中國將引領“大金磚合作”行穩致遠 有力推動世界和平與發展； 12.國際聯播快訊： （1）葉門胡塞武裝控制曼德海峽重要島嶼； （2）伊朗稱霍爾木茲海峽不安全域性勢由美造成； （3）美消費者信心指數回落 通脹預期上升； （4）剛果（金）埃博拉確診病例超7000例。"
+    },
+    {
+      "id": "5090797",
+      "time": "2026-09-12 19:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平會見印度總理莫迪】當地時間9月12日下午，國家主席習近平在新德里出席金磚國家領導人第十八次會晤期間會見印度總理莫迪。（央視新聞）"
+    },
+    {
+      "id": "5090796",
+      "time": "2026-09-12 19:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨收到的第二筆3600萬英鎊捐款來自克里斯托弗·哈伯恩。"
+    },
+    {
+      "id": "5090795",
+      "time": "2026-09-12 19:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國改革黨兩天內收到第二筆3600萬英鎊捐款。注：此前一天有報道稱，英國改革黨收到一筆來自加密貨幣億萬富翁本·德洛、價值3600萬英鎊的單筆政治捐款，重新整理英國政黨史上單筆私人捐款的最高紀錄。"
+    },
+    {
+      "id": "5090794",
+      "time": "2026-09-12 19:39:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美記者稱航母是伊朗主要打擊目標之一】美國哥倫比亞廣播公司記者9月11日探訪了目前正在中東執行任務的“喬治·華盛頓”號航母。報道稱，該航母載有約5000名人員和大量彈藥及戰鬥機，是美軍對伊朗戰術行動的中堅力量，也是伊朗的主要打擊目標之一。報道還稱，美國海軍證實，伊朗上週末曾試圖用彈道導彈襲擊美軍軍艦。“喬治·華盛頓”號航母於8月19日抵達中東，接替此前陷入困境的“亞伯拉罕·林肯”號航母。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a09567-cc08-7118-8556-f4d66ce353fa",
+      "time": "2026-09-12 19:36:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump says U.S. and Canada likely to reach deal \"soon\"】President Trump said he is optimistic about resolving the trade dispute with Canada and that a deal could be reached \"soon\", but did not say whether formal negotiations have resumed. Asked if he planned to withdraw from the US‑Mexico‑Canada Agreement (USMCA), he avoided a direct answer and said he is pressing for better terms for U.S. farmers. He accused Canada of imposing \"400%\" tariffs on U.S. farmers and other barriers and said those measures would be removed as part of a prospective agreement."
+    },
+    {
+      "id": "5090793",
+      "time": "2026-09-12 19:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國工程院院士鄔賀銓：2030年中國算力有望佔到全球30%】9月12日，在2026中國算力大會主論壇上，中國工程院院士鄔賀銓指出，智慧體的出現帶動了Token的消費。今年3月，Token的消費已經達到日均140萬億。隨著技術進步，Token的消耗並不是以多為榮，而是以效率為榮。中國Token的應用成本不斷下降，這也促進了Token的利用。Token帶動算力，算力和Token之間成正比。目前，中國的算力在全球佔21%，美國佔46%，按照國家算力網的規劃，2030年中國算力有望佔到全球30%。"
+    },
+    {
+      "id": "mkt:01a09566-c579-7118-8556-ece45f414fc7",
+      "time": "2026-09-12 19:35:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said on Saturday Russian strikes across 10 Ukrainian regions killed three people and wounded dozens."
+    },
+    {
+      "id": "5090792",
+      "time": "2026-09-12 19:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：自昨晚以來，我們的城市和社群幾乎一直受到攻擊。在敖德薩，一棟被俄羅斯導彈損壞的公寓樓現場的救援和搜尋行動仍在繼續。已有三十七人受傷。對另外兩名失蹤人員的搜尋仍在繼續。今天早上，俄羅斯用一架無人機襲擊了敖德薩地區切爾諾莫斯克的一家酒店。 11 人受傷。在扎波羅熱地區，“沙赫德”襲擊了居民樓，造成兩人死亡。六人受傷。扎波羅熱一家企業遭到襲擊，也造成人員傷亡。在克里沃羅格，一枚導彈擊中了關鍵基礎設施。三人受傷，一人死亡。基輔地區另有兩人受傷。昨晚有十個地區受到俄羅斯的攻擊，俄羅斯攻擊無人機仍在其中許多地區上空飛行。俄羅斯再次襲擊了日托米爾和羅夫諾地區的普通加油站以及敖德薩地區的一個機庫。僅從今天開始，我們的防禦者就擊落了 200 多個空中目標，但不幸的是，並非全部。"
+    },
+    {
+      "id": "5090791",
+      "time": "2026-09-12 19:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平將會見印度總理莫迪】當地時間9月12日下午，國家主席習近平在新德里出席金磚國家領導人第十八次會晤期間將會見印度總理莫迪。（央視新聞）"
+    },
+    {
+      "id": "5090790",
+      "time": "2026-09-12 19:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【塞爾維亞總統武契奇視察“卡拉喬爾傑領袖走廊”快速路專案】9月12日，塞爾維亞總統武契奇視察中資企業承建的“卡拉喬爾傑領袖走廊”快速路專案施工現場。塞建設、交通和基礎設施部長索夫羅尼耶維奇，駐塞使館張喆臨時代辦及相關企業、媒體等參加。武契奇總統表示，“卡拉喬爾傑領袖走廊”建成後將聯通貝爾格萊德和塞爾維亞中部地區，進一步完善塞交通網路，對促進當地經濟社會發展具有重要意義。由衷感謝中國領導人和中國朋友的大力支援，為塞爾維亞建設和發展作出巨大貢獻，期待同中方繼續深化各領域務實合作。“卡拉喬爾傑領袖走廊”專案規劃總長約146公里，優先實施的兩個標段長83公里。（央視新聞）"
+    },
+    {
+      "id": "5090789",
+      "time": "2026-09-12 19:29:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：愛爾蘭人是我打過交道的人裡最兇狠的混蛋。但當他們想表現得友善時，沒人比他們更和善。"
+    },
+    {
+      "id": "5090788",
+      "time": "2026-09-12 19:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "金磚國家鼓勵擴大本幣融資，呼籲改革全球經濟治理。"
+    },
+    {
+      "id": "5090787",
+      "time": "2026-09-12 19:27:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談北約： 我們到底為什麼要幫助他們？"
+    },
+    {
+      "id": "5090786",
+      "time": "2026-09-12 19:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國必須像我們一樣遣返犯罪移民。"
+    },
+    {
+      "id": "5090785",
+      "time": "2026-09-12 19:26:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及歐洲：我不願看到歐洲目前的狀況。那些移民問題，以及你們對自己所做的一切——你們簡直是在自尋死路。"
+    },
+    {
+      "id": "5090784",
+      "time": "2026-09-12 19:24:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "金磚國家對中東緊張局勢升級“深表關切”*，呼籲各方保持最大限度的剋制，避免採取激化行動。"
+    },
+    {
+      "id": "5090783",
+      "time": "2026-09-12 19:23:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凱越機車650RR正式上市】9月12日，凱越機車宣佈650RR正式上市，統一零售價33,977元，提供標準版和創世版，其中創世版限量777臺。"
+    },
+    {
+      "id": "5090782",
+      "time": "2026-09-12 19:22:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破96美元，日內跌超1%。"
+    },
+    {
+      "id": "5090781",
+      "time": "2026-09-12 19:22:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國正在做得更好，比以往任何時候都更好。"
+    },
+    {
+      "id": "mkt:01a09559-8cc0-7118-8556-e1605c6f1043",
+      "time": "2026-09-12 19:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's embassy in India said Iran's president met Abu Dhabi's crown prince in New Delhi."
+    },
+    {
+      "id": "5090780",
+      "time": "2026-09-12 19:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普吹噓美軍鐳射武器與計算機化機槍。"
+    },
+    {
+      "id": "5090779",
+      "time": "2026-09-12 19:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談打擊毒品走私：我們尚未將重點放在陸路。"
+    },
+    {
+      "id": "5090778",
+      "time": "2026-09-12 19:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，愛爾蘭及其他國家正以“創紀錄的數量”購買美國軍事裝備。"
+    },
+    {
+      "id": "5090777",
+      "time": "2026-09-12 19:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對美國武器（包括“愛國者”導彈）的需求“驚人”。"
+    },
+    {
+      "id": "5090776",
+      "time": "2026-09-12 19:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國國防工業基礎正在迅速增長。"
+    },
+    {
+      "id": "5090775",
+      "time": "2026-09-12 19:15:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱愛爾蘭正在擴大軍事投資。"
+    },
+    {
+      "id": "5090774",
+      "time": "2026-09-12 19:15:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉，我們掌控了局勢。我們贏得了這場戰爭。"
+    },
+    {
+      "id": "5090773",
+      "time": "2026-09-12 19:13:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與委內瑞拉人相處融洽，他們現在非常高興。"
+    },
+    {
+      "id": "5090772",
+      "time": "2026-09-12 19:12:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批評歐洲的商業監管法規“不可接受”。"
+    },
+    {
+      "id": "5090771",
+      "time": "2026-09-12 19:11:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普吹噓美國就業形勢，將工廠建設歸功於關稅政策。"
+    },
+    {
+      "id": "mkt:01a0954f-e4d0-7118-8556-dc9c850564c1",
+      "time": "2026-09-12 19:10:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources close to Trump say Netanyahu has fallen out of favor】The Times of Israel reports sources close to US President Trump say he and his advisers are deeply dissatisfied with Israeli Prime Minister Netanyahu, and that Netanyahu has lost credibility with the president over his handling of Gaza, Lebanon and Syria."
+    },
+    {
+      "id": "5090770",
+      "time": "2026-09-12 19:08:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷軍：今天給20位車主交車，其中有 3位車主告訴我，澎程N90是買給父親的。"
+    },
+    {
+      "id": "5090769",
+      "time": "2026-09-12 19:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "華儲網釋出關於2026年9月16日中央儲備凍豬肉輪換出庫競價交易有關事項的通知：本次出庫競價交易掛牌國產凍豬肉12900噸。"
+    },
+    {
+      "id": "5090768",
+      "time": "2026-09-12 19:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚美國股市的表現 “獨一無二”。"
+    },
+    {
+      "id": "mkt:01a0954b-d13e-7118-8556-d2dd00e7697f",
+      "time": "2026-09-12 19:06:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "China's state reserve website said it will offer 12,900 tonnes of domestic frozen pork in a rotation-release auction on Sept. 16, 2026."
+    },
+    {
+      "id": "5090767",
+      "time": "2026-09-12 19:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府就特朗普關於愛爾蘭統一的言論表態：首相伯納姆對《貝爾法斯特協議》的立場不變。"
+    },
+    {
+      "id": "5090766",
+      "time": "2026-09-12 19:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府就特朗普有關愛爾蘭統一的言論作出表態：首相的觀點仍然是，目前公眾中不存在支援舉行另一場公投的多數民意，在這一情況改變之前，不會舉行相關公投。"
+    },
+    {
+      "id": "mkt:01a0954a-3c27-7118-8556-c878770e94a4",
+      "time": "2026-09-12 19:04:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's State Reserve Network (HuaChu) said it will hold a rotation auction on Sept. 15, 2026, listing 15,500 tonnes of domestically produced frozen pork from central reserves for competitive bidding."
+    },
+    {
+      "id": "5090765",
+      "time": "2026-09-12 19:04:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "華儲網釋出關於2026年9月15日中央儲備凍豬肉輪換出庫競價交易有關事項的通知：本次出庫競價交易掛牌國產凍豬肉15500噸。"
+    },
+    {
+      "id": "5090764",
+      "time": "2026-09-12 19:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統與阿聯酋王儲在金磚國家峰會期間舉行會談。"
+    },
+    {
+      "id": "5090763",
+      "time": "2026-09-12 19:01:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶渝富控股集團有限公司原黨委書記、董事長謝文輝接受審查調查】中央紀委國家監委網站9月12日通報，據重慶市紀委監委訊息：重慶渝富控股集團有限公司原黨委書記、董事長謝文輝涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a09545-754c-7118-8556-c364a138dc8b",
+      "time": "2026-09-12 18:59:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said on trade with Ireland the United States needs to bring several medical companies back."
+    },
+    {
+      "id": "5090762",
+      "time": "2026-09-12 18:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在愛爾蘭向美國大使館工作人員發表講話。"
+    },
+    {
+      "id": "mkt:01a09542-f62f-7118-8556-bfe5e0d0c913",
+      "time": "2026-09-12 18:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump on Irish unity said there is no good answer either way."
+    },
+    {
+      "id": "5090761",
+      "time": "2026-09-12 18:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談愛爾蘭統一：無論怎麼說，都沒有完美的答案。"
+    },
+    {
+      "id": "mkt:01a09541-ae93-7118-8556-b51b374be405",
+      "time": "2026-09-12 18:55:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Rosatom plans to increase the number of experts at Iran's Bushehr nuclear power plant to 150 in the near future."
+    },
+    {
+      "id": "mkt:01a09541-0a4d-7118-8556-ad34b3cbe7a3",
+      "time": "2026-09-12 18:54:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BRICS issued a joint statement calling for coordinated efforts to safeguard smooth flows of global trade, supply chains and energy."
+    },
+    {
+      "id": "5090760",
+      "time": "2026-09-12 18:53:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "金磚國家聯合宣告：強調需攜手維護全球貿易、供應鏈與能源的順暢運轉。"
+    },
+    {
+      "id": "mkt:01a0953f-f3f6-7118-8556-a4fdbd5ff590",
+      "time": "2026-09-12 18:53:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS joint statement said nuclear safeguards, safety and physical protection must be maintained at all times, including during armed conflict."
+    },
+    {
+      "id": "5090759",
+      "time": "2026-09-12 18:52:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海科技成果轉化系列貸款產品釋出】在2026浦江創新論壇期間，在上海市科委和市財政局指導下，市擔保中心與市科技創業中心聯合相關銀行，推出“上海科技成果轉化系列貸款”。該系列共包含六款專屬產品，支援技術開發、許可、轉讓、賦權等多元轉化路徑。"
+    },
+    {
+      "id": "mkt:01a0953e-3588-7118-8556-9c61ce21e16b",
+      "time": "2026-09-12 18:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS issued a joint statement condemning unilateral coercive measures that violate international law."
+    },
+    {
+      "id": "mkt:01a0953e-23f4-7118-8556-9250b7fb2a93",
+      "time": "2026-09-12 18:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS joint statement encourages continued discussions to advance practical cross-border payment solutions among BRICS members."
+    },
+    {
+      "id": "5090758",
+      "time": "2026-09-12 18:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "金磚國家聯合宣告：鼓勵繼續開展討論，以推動形成金磚國家間跨境支付的務實解決方案。"
+    },
+    {
+      "id": "mkt:01a0953d-7a15-7118-8556-8938c2542ab2",
+      "time": "2026-09-12 18:50:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "BRICS joint statement expressed concern about rising risks of nuclear danger and conflict."
+    },
+    {
+      "id": "mkt:01a0953d-6286-7118-8556-833ca78414c1",
+      "time": "2026-09-12 18:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS issued a joint statement expressing serious concern about a rise in unilateral tariffs and trade-distorting non-tariff measures, saying those actions are inconsistent with WTO rules."
+    },
+    {
+      "id": "5090757",
+      "time": "2026-09-12 18:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "金磚國家聯合宣告：對不符合世貿組織規則、扭曲貿易的單邊關稅及非關稅措施增多表示嚴重關切。"
+    },
+    {
+      "id": "mkt:01a0953d-40ef-7118-8556-7f59a0fed8cc",
+      "time": "2026-09-12 18:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BRICS joint statement urged a multilateral approach that respects countries' differing views and positions to address key global issues."
+    },
+    {
+      "id": "5090756",
+      "time": "2026-09-12 18:49:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：只有在法律面前人人平等時，多邊主義才具有意義。 只有當發展中國家的聲音得到傾聽時，全球治理才具備合法性。我們追求這樣一個世界，權力不凌駕於法律之上，制裁不取代合作，戰爭不取代對話，壟斷不取代參與。這正是包容性全球治理與多邊主義的真諦。"
+    },
+    {
+      "id": "mkt:01a0953c-7384-7118-8556-71e035dcbfe4",
+      "time": "2026-09-12 18:49:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS joint statement reiterated commitment to resolving international disputes peacefully through dialogue, consultation and diplomacy."
+    },
+    {
+      "id": "mkt:01a0953b-d485-7118-8556-6ed13c270e85",
+      "time": "2026-09-12 18:48:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRICS joint statement emphasized addressing the root causes of conflicts as part of conflict-prevention efforts."
+    },
+    {
+      "id": "5090755",
+      "time": "2026-09-12 18:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【提前開栓 我國最北城市進入供暖季】近期，黑龍江省漠河市迎來降溫天氣，最低溫度已經降至0℃以下。為確保居民住上暖屋子，今天（12日），當地供熱部門正式開栓供暖，比計劃時間提前13天。"
+    },
+    {
+      "id": "mkt:01a0953a-9186-7118-8556-631dfb0c778f",
+      "time": "2026-09-12 18:47:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's National Compute Interconnect Regional Node (Hebei) Activated】CAICT's 2026 Comprehensive Compute Landscape shows Hebei's comprehensive compute index has ranked among the nation's leaders for three consecutive years; the National Compute Interconnectivity Regional Node (Hebei) was activated today (Sep 12). Hebei is advancing intelligent computing to accelerate digitalization; Langfang—near the top on the urban compute sub-index—has begun converting all 36 operational data centers into intelligent computing centers."
+    },
+    {
+      "id": "5090754",
+      "time": "2026-09-12 18:46:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：和平核設施必須受到保護，免受攻擊和威脅。採取實際措施對抗單邊和不人道的制裁，是金磚國家成員的優先事項。金磚國家必須成為正義的聲音。金磚國家成員有責任反對對民用基礎設施和和平核設施的攻擊正常化，因為針對這些地點的任何行動都構成了對國際和平與安全的直接威脅。"
+    },
+    {
+      "id": "5090753",
+      "time": "2026-09-12 18:45:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：金磚國家已透過聯合宣告。"
+    },
+    {
+      "id": "mkt:01a09538-9bd2-7118-8556-5cc20fa3d2d7",
+      "time": "2026-09-12 18:45:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Prime Minister Modi says BRICS joint statement has been adopted."
+    },
+    {
+      "id": "5090752",
+      "time": "2026-09-12 18:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪提議透過金磚國家聯合宣告。"
+    },
+    {
+      "id": "5090751",
+      "time": "2026-09-12 18:42:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國列車脫軌致44人受傷 疑遭人為破壞】一輛客運列車當地時間11日晚在法國西北部諾曼底地區脫軌，造成44人受傷，其中一人重傷。法國警方人員說，列車脫軌可能因有人蓄意破壞。 法新社援引警方訊息人士的話報道，調查人員在現場發現鐵軌破損，因此將蓄意破壞作為主要調查方向。"
+    },
+    {
+      "id": "5090750",
+      "time": "2026-09-12 18:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家算力互聯互通區域（河北）節點正式啟用】9月12日，2026中國算力大會在河北省廊坊市開幕。開幕式上，舉行了中國算力平臺實現全國一體化算力統籌監測釋出儀式，標誌著我國算力“一張網、一盤棋、一體化”發展格局基本形成。同時，釋出《2026綜合算力全景分析》，啟用國家算力互聯互通區域（河北）節點，揭曉首批普惠算力賦能中小企業發展服務清單，啟動“一網三融”算力金融生態共建行動。據悉，大會舉辦“算力產業創投50人論壇”等活動；釋出“共建京津冀太空算力產業長廊倡議”“國產智算Token效能最佳化體系（TEOS）”“AI可信計算（AITC）”“年度重大突破成果”“最佳學術論文”等成果；啟動“中國算力·算在廊坊”算力排程服務平臺。"
+    },
+    {
+      "id": "5090749",
+      "time": "2026-09-12 18:34:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首批普惠算力賦能中小企業發展服務清單釋出】9月12日，在2026中國算力大會上，首批普惠算力賦能中小企業發展服務清單（下稱“服務清單”）正式釋出。服務清單覆蓋通用算力、智慧算力、大模型服務、行業智慧體應用等多層次普惠算力服務矩陣，可提供容器化租賃、按量計費等靈活付費模式，將推動算力資源普惠共享，助力中小企業數字化轉型升級。據悉，服務清單主要圍繞中小企業“找算力、選產品、降成本、用得好”的實際需求，對通用算力、智慧算力、大模型服務、行業智慧體應用、算力基礎設施、資料儲存與安全等服務進行系統梳理，集中呈現服務內容、典型特色、適用場景等，幫助企業在紛繁複雜的算力供給中快速匹配所需。針對中小企業“一次投入大、需求波動快、專業運維弱”的特點，清單內服務突出輕量化、靈活性和易用性。企業既可透過中國算力平臺“算力超市·中小企業專區”選擇容器化租賃、裸金屬服務等算力資源，也可按需呼叫大模型服務及行業智慧體應用，透過Token按量計費、彈性按需計費等方式控制成本；初創企業和創新團隊還能以較低門檻開展模型訓練、應用開發和測試驗證，將更多資金、精力投入核心業務創新。"
+    },
     {
       "id": "5090748",
       "time": "2026-09-12 18:27:48",
