@@ -1,7 +1,49 @@
 {
   "date": "2026-09-12",
-  "count": 538,
+  "count": 542,
   "items": [
+    {
+      "id": "mkt:01a0941b-1be1-7118-8553-ed82beb85211",
+      "time": "2026-09-12 13:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state television reports Egypt has condemned attacks against Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a09419-c26a-7118-8553-e3a525052648",
+      "time": "2026-09-12 13:31:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russia said it struck a key transport facility in Ukraine's Odesa region."
+    },
+    {
+      "id": "mkt:01a09419-699b-7118-8553-dfeab54a5608",
+      "time": "2026-09-12 13:31:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "DXY"
+      ],
+      "text": "Russia said it struck Ukrainian metallurgical plants producing metals used for military equipment."
+    },
+    {
+      "id": "mkt:01a09419-1154-7118-8553-d506edb99399",
+      "time": "2026-09-12 13:31:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Roscosmos director-general says Russia and India will jointly launch a spacecraft to study Venus from Venus orbit."
+    },
     {
       "id": "5090597",
       "time": "2026-09-12 13:22:42",
