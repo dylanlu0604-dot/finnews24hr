@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13 01:18:07",
-  "count": 13606,
+  "updated": "2026-09-13 01:21:59",
+  "count": 13605,
   "items": [
+    {
+      "id": "5090997",
+      "time": "2026-09-13 01:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孫心然首奪大滿貫青少年組冠軍】北京時間9月13日凌晨，2026美網青少年組女單決賽，頭號種子孫心然以6-4、4-6、6-0戰勝5號種子普什卡列娃，連續三站大滿貫晉級決賽終於圓夢，首奪大滿貫青少年組冠軍。（央視新聞）"
+    },
     {
       "id": "5090996",
       "time": "2026-09-13 01:05:15",
@@ -124786,31 +124794,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera cited security sources saying Israeli forces will withdraw behind the yellow line in southern Lebanon and redeploy 3–4 km from the Israeli border."
-    },
-    {
-      "id": "mkt:01a07295-b67c-7118-84b3-480a9ebe1e28",
-      "time": "2026-09-06 01:20:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Al Jazeera, citing security sources, says the Israeli military is considering establishing a new security zone in southern Lebanon closer to the Israeli border."
-    },
-    {
-      "id": "mkt:01a07294-b5ea-7118-84b3-405070627d5d",
-      "time": "2026-09-06 01:19:03",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Al Jazeera, citing security sources, says the Israeli military is preparing to scale down its forces in southern Lebanon after destroying tunnels in the Ali Tahir area."
     }
   ]
 }
