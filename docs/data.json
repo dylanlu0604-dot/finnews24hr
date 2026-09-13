@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-14 04:31:05",
-  "count": 13426,
+  "updated": "2026-09-14 04:34:57",
+  "count": 13427,
   "items": [
+    {
+      "id": "mkt:01a09c79-f4ba-7118-855f-3319226ba08a",
+      "time": "2026-09-14 04:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Oman postpone Gulf states' foreign ministers' meeting】Tasnim reported Iran's foreign ministry director-general for Persian Gulf affairs said the Gulf states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by mutual decision of Oman and Iran; a new date will be set. Iran and Oman are in close consultations to coordinate timing."
+    },
+    {
+      "id": "5091744",
+      "time": "2026-09-14 04:32:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國王查爾斯本週將會見人工智慧企業負責人。"
+    },
+    {
+      "id": "5091743",
+      "time": "2026-09-14 04:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列文化與體育部長威脅，將吊銷兩名電影導演的公民身份，二人拍攝了一部講述以色列對加沙實施種族滅絕戰爭的紀錄片。"
+    },
     {
       "id": "5091741",
       "time": "2026-09-14 04:28:55",
@@ -123304,25 +123328,6 @@
         "MKT News"
       ],
       "text": "Alternative for Germany (AfD) chair Weidel, on the Russia-Ukraine conflict, said the party remains open to diplomatic channels and urged keeping lines of communication with Russia open to reach an understanding and find a peaceful resolution."
-    },
-    {
-      "id": "5079681",
-      "time": "2026-09-07 04:33:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗將上調高用量使用者汽油價格】伊朗政府發言人莫哈傑拉尼週日表示，從下週二開始，伊朗將提高每月汽油用量超過110升的使用者的汽油價格。此舉旨在加大力度應對戰爭及美國嚴厲經濟制裁所帶來的問題。莫哈傑拉尼表示，包括110升在內的第一檔和第二檔配額價格將保持不變，但第三檔配額的價格將提高至每升10萬伊朗里亞爾，按照自由市場匯率計算約合4美分。伊朗汽油價格目前是全球最低水平之一。此前，政府曾討論提高汽油價格，但因擔心此舉可能引發新一輪抗議而推遲。2019年，伊朗就同一問題爆發了大規模抗議活動。莫哈傑拉尼表示，此次提高後的燃油價格只會影響每月需要使用超過110升汽油的消費者，調整是由於“當前形勢”。她補充說，其他駕車者仍可按每升1.5萬里亞爾的價格購買最多60升汽油，此外還可按每升3萬里亞爾的價格購買50升。"
-    },
-    {
-      "id": "mkt:01a0786c-eb9d-7118-84bc-8b219467f970",
-      "time": "2026-09-07 04:33:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Iran to raise gasoline price for heavy users from Tuesday】Iran will raise the gasoline price for consumers using more than 110 liters per month, effective Tuesday, government spokesman Mohajerani said. First- and second-tier quotas, including the 110‑liter band, will remain unchanged; the third-tier price will increase to 100,000 Iranian rials per liter (about $0.04 at the free-market exchange rate). Mohajerani said the adjustment, driven by the “current situation” including the war and US sanctions, will only affect monthly users above 110 liters. Other motorists can still buy up to 60 liters at 15,000 rials/liter and an additional 50 liters at 30,000 rials/liter. Iran’s gasoline remains among the cheapest globally; authorities previously delayed hikes over fears of sparking protests after 2019 unrest."
     }
   ]
 }
