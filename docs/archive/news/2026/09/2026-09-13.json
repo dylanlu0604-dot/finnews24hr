@@ -1,7 +1,33 @@
 {
   "date": "2026-09-13",
-  "count": 608,
+  "count": 611,
   "items": [
+    {
+      "id": "5091539",
+      "time": "2026-09-13 22:43:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股晶片股暗盤下挫，SK海力士跌超4%，國際油價暗盤拉昇】9月13日，美股晶片板塊在暗盤交易中集體走低。截至北京時間22:12，SK海力士暗盤跌破185美元，日內跌超4%。美光科技、希捷科技、閃迪暗盤跌超3%，英偉達暗盤跌超2%。 據中國基金報訊息，週日，Anthropic執行長Dario Amodei表示，公司將推出更多安全防護措施，包括引入獨立第三方評估機構，同時呼籲整個行業放慢最先進AI模型的開發速度。OpenAI執行長Sam Altman公開支援這一提議，而xAI創始人埃隆·馬斯克（Elon Musk）也表示：“Dario是對的。” 繼昨日大跌後，9月13日國際油價暗盤回升，截至發稿，布倫特原油暗盤、紐約期油暗盤均漲超1.5%。（21財經）"
+    },
+    {
+      "id": "5091538",
+      "time": "2026-09-13 22:42:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普重申伊朗戰事將在中期選舉後結束】據外媒報道，美國總統特朗普13日在訪問愛爾蘭時重申，伊朗戰事將在中期選舉後結束。特朗普當天接受採訪時稱，伊朗戰事將在11月美國國會中期選舉後立即結束，屆時“汽油價格將會快速下跌”。他還稱，伊朗方面“非常希望達成協議”，並一直在聯絡美國。特朗普9日就曾表示，他認為美國同伊朗的戰事將在11月美國國會中期選舉完成後“立即結束”。（新華社）"
+    },
+    {
+      "id": "mkt:01a09b37-c6c0-7118-855d-0ebd3fd23b08",
+      "time": "2026-09-13 22:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doha academic: Iran may hold rare Gulf meeting on Monday; seeks to \"kick out\" US from regional security】Mohammad Elmasry, professor at the Doha Graduate Institute, said a planned Monday meeting between Iran and Gulf officials on the Strait of Hormuz could be a pivotal moment for U.S.-Iran war dynamics. He said Iran does not seek total rupture with its Gulf neighbours and must coexist with Saudi Arabia, the UAE and other Gulf states; Iranian leadership hopes for a post-conflict order in which regional states — not the U.S. — manage their own security, which would require cooperation with Saudi and other Gulf countries. Elmasry said the meeting’s outcome warrants close attention; a key question for markets is if Gulf leaders reach an understanding with Iran, how the U.S. would respond."
+    },
     {
       "id": "5091537",
       "time": "2026-09-13 22:40:51",
