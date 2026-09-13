@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-14 04:27:16",
+  "updated": "2026-09-14 04:31:05",
   "count": 13426,
   "items": [
+    {
+      "id": "5091741",
+      "time": "2026-09-14 04:28:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【克羅埃西亞布拉奇島發生山火 近700人被疏散】近日，克羅埃西亞布拉奇島發生大規模山火。當地時間12日夜間，火勢向該島的米爾納鎮及附近海灣蔓延，近700名當地居民和遊客被緊急疏散。當地消防部門出動了4架消防飛機參與滅火。13日，山火仍未被完全撲滅，目前過火面積已達到3500公頃。布拉奇島位於克羅埃西亞亞得里亞海沿岸，是該國重要的旅遊目的地。（央視新聞）"
+    },
+    {
+      "id": "5091740",
+      "time": "2026-09-14 04:28:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【無視英國反對 特朗普再挺“愛爾蘭統一”】據外媒報道，美國總統特朗普13日再次表示，他支援北愛爾蘭脫離英國，“與愛爾蘭統一”。此前一天，特朗普發表類似言論，已引發英國政界強烈反對。特朗普當天在愛爾蘭對媒體說：“有北愛爾蘭，也有愛爾蘭。在我看來，把它們合併在一起似乎是再自然不過的事情。”在被問到蘇格蘭問題時，特朗普稱，這個問題目前不會談，“留到以後再說”。（新華社）"
+    },
+    {
+      "id": "mkt:01a09c74-e889-7118-855f-2a7e2dfb99b7",
+      "time": "2026-09-14 04:28:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Trump backs Irish unification again despite UK opposition】US President Trump on the 13th reiterated support for Northern Ireland leaving the UK to unify with Ireland, saying merging them “seems only natural.” The comment, made in Ireland after similar remarks the previous day, drew strong objections from UK politicians. On Scotland he said the issue “won’t be discussed now” and should be left for later."
+    },
     {
       "id": "mkt:01a09c6f-a463-7118-855f-235f897f5b29",
       "time": "2026-09-14 04:22:37",
@@ -123292,34 +123323,6 @@
         "Energy"
       ],
       "text": "【Iran to raise gasoline price for heavy users from Tuesday】Iran will raise the gasoline price for consumers using more than 110 liters per month, effective Tuesday, government spokesman Mohajerani said. First- and second-tier quotas, including the 110‑liter band, will remain unchanged; the third-tier price will increase to 100,000 Iranian rials per liter (about $0.04 at the free-market exchange rate). Mohajerani said the adjustment, driven by the “current situation” including the war and US sanctions, will only affect monthly users above 110 liters. Other motorists can still buy up to 60 liters at 15,000 rials/liter and an additional 50 liters at 30,000 rials/liter. Iran’s gasoline remains among the cheapest globally; authorities previously delayed hikes over fears of sparking protests after 2019 unrest."
-    },
-    {
-      "id": "mkt:01a0786a-cd5c-7118-84bc-8346cb728b3e",
-      "time": "2026-09-07 04:31:00",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Alice Weidel, chair of Alternative for Germany (AfD), said she expects the German CDU's support to fall below 20% soon, that the deeply unpopular Chancellor Merz will face problems, and that the CDU would consider replacing him."
-    },
-    {
-      "id": "mkt:01a0786a-b7db-7118-84bc-785a2be1ec89",
-      "time": "2026-09-07 04:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's armed forces said they thwarted a Houthi attempt to infiltrate the Dabab front."
-    },
-    {
-      "id": "5079680",
-      "time": "2026-09-07 04:29:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書雷扎伊：美國對伊朗及其民眾的政策就是要實現完全控制，只想得到一批盲目服從命令的附庸，這就是美國一貫的訴求。"
     }
   ]
 }
