@@ -1,7 +1,25 @@
 {
   "date": "2026-09-13",
-  "count": 256,
+  "count": 258,
   "items": [
+    {
+      "id": "mkt:01a0993e-5368-7118-855a-4b550973c6f1",
+      "time": "2026-09-13 13:29:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi denies threat to Bab al-Mandeb transit; traffic comparable to pre-ban levels】A Houthi-controlled Sanaa transport official told Iran’s Mehr news agency that 73 vessels transited the Bab al-Mandeb in the past 48 hours—36 on Sept. 10 and 37 on Sept. 11. He said Yemen’s ban targets only Saudi-linked ships and does not affect other traffic, and that the two-day transit volume is broadly unchanged from before the ban, disputing claims that passage is at risk. Earlier, Hazam Asad, a member of Ansar Allah’s political office, said Houthi operations on Yemen’s west coast are internal and do not concern international shipping."
+    },
+    {
+      "id": "5091209",
+      "time": "2026-09-13 13:28:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破100美元，日內漲超0.7%。"
+    },
     {
       "id": "mkt:01a0993a-af41-7118-855a-42994af33ac6",
       "time": "2026-09-13 13:25:54",

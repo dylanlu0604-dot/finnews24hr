@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-13 13:27:26",
-  "count": 13488,
+  "updated": "2026-09-13 13:31:21",
+  "count": 13489,
   "items": [
+    {
+      "id": "mkt:01a0993e-5368-7118-855a-4b550973c6f1",
+      "time": "2026-09-13 13:29:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi denies threat to Bab al-Mandeb transit; traffic comparable to pre-ban levels】A Houthi-controlled Sanaa transport official told Iran’s Mehr news agency that 73 vessels transited the Bab al-Mandeb in the past 48 hours—36 on Sept. 10 and 37 on Sept. 11. He said Yemen’s ban targets only Saudi-linked ships and does not affect other traffic, and that the two-day transit volume is broadly unchanged from before the ban, disputing claims that passage is at risk. Earlier, Hazam Asad, a member of Ansar Allah’s political office, said Houthi operations on Yemen’s west coast are internal and do not concern international shipping."
+    },
+    {
+      "id": "5091209",
+      "time": "2026-09-13 13:28:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破100美元，日內漲超0.7%。"
+    },
     {
       "id": "mkt:01a0993a-af41-7118-855a-42994af33ac6",
       "time": "2026-09-13 13:25:54",
@@ -123772,16 +123790,6 @@
         "公司"
       ],
       "text": "【新疆慕士塔格峰2號冰川發生雪崩 文旅部門釋出安全提示】近日，位於新疆阿克陶縣的慕士塔格峰2號冰川發生雪崩，多名遊客用手機記錄下雪崩畫面。大量冰雪從峰頂沿著山體傾瀉而下，瞬間形成上百米寬、數百米高的雪霧雪牆，裹挾著冰雪碎屑在山谷裡奔湧向前。記者從消防部門瞭解到，本次雪崩發生地點位於無人區，且距離交通幹道較遠，未造成人員傷亡及財產損失。據瞭解，慕士塔格峰主峰海拔7546米，峰頂億萬年來被冰雪和冰川覆蓋。2號冰川屬於未對外開放的高危區域，冰川活動風險較高。阿克陶縣文旅局9月5日釋出公告提示廣大遊客，慕士塔格峰未開放的高危管控區域地形複雜、氣候多變、安全隱患大，且通訊訊號薄弱、救援條件極差，嚴禁擅自進入未開放的高危管控區域，禁止開展遊覽、徒步、探險、穿越、拍攝等一切涉險活動。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0752f-ef27-7118-84b6-9d42e80b95cf",
-      "time": "2026-09-06 13:27:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【AI short-drama production prices plunge, industry consolidation underway】AI short-form drama production has surged this year as technical barriers fell and capacity expanded, driving per-minute production quotes down from ~5,000 yuan to several hundred yuan—approaching cost—while bespoke projects still command 10,000–20,000 yuan/min. With basic production no longer scarce, competition is shifting from output and price to content quality and market reach. Forecasts project China’s AI drama/animation market to exceed 40 bln yuan by 2026 (YoY growth ~138%); the overseas segment is expected to top $4 bln, or roughly 70% of the overseas micro short-form drama market."
     }
   ]
 }
