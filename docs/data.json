@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-14 06:55:14",
-  "count": 13476,
+  "updated": "2026-09-14 06:59:05",
+  "count": 13479,
   "items": [
+    {
+      "id": "5091807",
+      "time": "2026-09-14 06:58:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星與SK海力士拒絕韓國電力公社25萬億韓元（電費的）預付款方案。"
+    },
+    {
+      "id": "mkt:01a09cfb-c0eb-7118-8560-59629f4e535e",
+      "time": "2026-09-14 06:55:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Iraq begins phased reopening of border crossings with Iran】Iraq said on the 13th it will begin phased reopenings of three previously closed border crossings with Iran, allowing passenger movement and commercial trade between the 13th and 17th. In recent days drones launched from inside Iraq struck Saudi Arabia’s east–west oil pipelines; Riyadh strongly condemned the attacks. On the 12th Iraq had closed several Iran-border crossings and agreed to Iran’s request for a joint investigation of drone launch platforms found near the shared frontier."
+    },
+    {
+      "id": "5091806",
+      "time": "2026-09-14 06:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克逐步重新開放與伊朗接壤邊境口岸】當地時間13日，伊拉克宣佈從當天開始逐步重新開放此前關閉的三個與伊朗接壤的邊境口岸。這些口岸將從13日到17日逐步重新開放人員過境和商業貿易活動。近日，來自伊拉克境內的多架無人機對沙特東西輸油管道發動襲擊，沙特對此表示強烈譴責。伊拉克12日關閉多處與伊朗接壤的邊境口岸，並同意伊朗的要求，對在雙方邊境附近發現的無人機發射平臺進行聯合調查。"
+    },
+    {
+      "id": "5091805",
+      "time": "2026-09-14 06:54:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【QDII產品溢價頻現，基金公司密集提示風險】又一批QDII（合格境內機構投資者）基金密集提示溢價風險。9月11日，易方達基金、華夏基金、富國基金、景順長城基金等基金公司同日釋出旗下近20只QDII基金二級市場交易價格溢價風險提示公告，引導投資者理性參與。從公告內容看，多家基金公司均提示，旗下QDII基金在二級市場交易價格已明顯高於基金份額淨值，若溢價幅度未有效回落，基金公司或透過向交易所申請盤中臨時停牌、延長停牌時間及連續停牌等措施，進一步向市場警示風險。（證券日報）"
+    },
     {
       "id": "mkt:01a09cfa-516d-7118-8560-528e20c2ddf9",
       "time": "2026-09-14 06:54:05",
@@ -123795,14 +123834,6 @@
         "其他"
       ],
       "text": "【平陸運河出海口海圖正式出版】今天（9月7日），《平陸運河出海口》海圖向社會公開出版發行。同時，平陸運河入海口段沿海航標設定已全面完工，標誌著平陸運河航海安全保障體系從航道標識到海圖示註已全面就緒。（央視新聞）"
-    },
-    {
-      "id": "5079711",
-      "time": "2026-09-07 06:55:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【年內港股IPO募資超3500億港元】截至9月6日，今年以來港股市場共有105家企業完成IPO（首次公開募股），同比增長77.97%；IPO募資規模為3558.48億港元，同比增長156.22%。進一步看，年內港股IPO專案主要呈現三大特點：“A+H”股佔主導、IPO專案“含科量”持續提升、基石投資者正深度參與IPO專案。 (證券日報)"
     }
   ]
 }
