@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-13 13:39:09",
-  "count": 13485,
+  "updated": "2026-09-13 13:43:04",
+  "count": 13488,
   "items": [
+    {
+      "id": "5091211",
+      "time": "2026-09-13 13:42:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平出席金磚國家領導人第十八次會晤第二階段會議並發表重要講話】當地時間9月13日上午，國家主席習近平在新德里出席金磚國家領導人第十八次會晤第二階段會議並發表重要講話。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09949-9b2c-7118-855a-614b5ad641bd",
+      "time": "2026-09-13 13:42:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA attends second-stage BRICS leaders' meeting in New Delhi, delivers speech】CHINA attended the second-stage BRICS leaders' meeting in New Delhi on Sept 13 and delivered a speech."
+    },
+    {
+      "id": "mkt:01a09947-52ab-7118-855a-5ac3c601fd3a",
+      "time": "2026-09-13 13:39:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AP: U.S. Army says soldiers sent to Ukraine to study drone warfare】AP reported on Sept. 12 that the commander of the U.S. Army training unit in Germany said U.S. soldiers have been sent to Ukraine to study drone-warfare techniques. AP said Ukraine is employing drone tactics against Russia, and as the U.S. seeks to integrate drone capabilities and tactics into its own forces, U.S.-Ukrainian military cooperation has tightened. AP visited a U.S. training site in Germany and observed exercises to see how the U.S. is cooperating with and learning from Ukraine."
+    },
+    {
+      "id": "5091210",
+      "time": "2026-09-13 13:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍將領證實，已派美士兵赴烏克蘭學習無人機作戰技術】據美聯社9月12日報道，美國陸軍駐德國訓練部隊指揮官特里·蒂利斯近日告訴記者，美國陸軍已派士兵赴烏克蘭學習無人機作戰技術。美聯社稱，烏克蘭正在利用其無人機作戰技術對抗俄羅斯，隨著美軍尋求將無人機能力和戰術融入自身部隊，美烏軍隊之間的關係日益密切。該媒體進入了美軍位於德國的訓練場，近距離觀察正在進行演習的部隊，從而深入瞭解美國如何與烏克蘭合作並從中學習。（環球網）"
+    },
     {
       "id": "mkt:01a09942-cca8-7118-855a-57b845c28995",
       "time": "2026-09-13 13:34:46",
@@ -123745,14 +123779,6 @@
         "其他"
       ],
       "text": "【黑色能源變綠色經濟 煤炭清潔利用持續解鎖新場景】記者從中國煤炭工業協會瞭解到，今年7月份，規模以上工業原煤產量3.4億噸，同比下降10.1%；日均產量1107萬噸。前7個月，規上工業原煤產量27.0億噸，同比下降2.9%。 與此同時，我國各類清潔能源加快發展：水電穩步出力，風電、光伏發電等新能源裝機持續擴容，能源生產結構持續最佳化，各類清潔能源發電量穩步提升，有效保障全社會用電需求，能源綠色轉型成效持續顯現。（每經）"
-    },
-    {
-      "id": "5079136",
-      "time": "2026-09-06 13:40:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“隨時能問、隨手可查”的反詐智慧助手“國家反詐AI”APP重磅上線】為進一步提升防範電信網路詐騙工作的資訊化、智慧化水平，幫助群眾有效識詐防詐，近日，公安部刑偵局指導，上海市公安局自主研發的“國家反詐AI”APP正式上線。“國家反詐AI”APP融合了大語言、多模態模型和智慧體技術，使用者透過手機輸入可疑場景，該APP即可完成風險研判、識別詐騙套路、推送典型案例，從“文字+語音+影片”等多個維度拆解詐騙手法，提供識別防範對策。（新華社）"
     }
   ]
 }
