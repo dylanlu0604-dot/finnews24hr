@@ -1,7 +1,36 @@
 {
   "date": "2026-09-13",
-  "count": 631,
+  "count": 634,
   "items": [
+    {
+      "id": "mkt:01a09b70-6389-7118-855d-5d181e9cae33",
+      "time": "2026-09-13 23:43:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran acting defense minister says next war would be fought more powerfully and technologically】Iran's acting defense minister Ibn al-Reza, speaking at a defense-industry managers' meeting, said he was confident that if war broke out again Iran would fight on a far stronger, more technologically advanced level than in past conflicts. He said those who call Iran's technical activity, production lines and weapons factories mere media narratives have seen Iranian forces' capabilities on the battlefield; current displays are only a small part of actual capacity and potential, and development will continue strongly."
+    },
+    {
+      "id": "5091569",
+      "time": "2026-09-13 23:41:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理：與特朗普會晤時討論了加沙援助問題。"
+    },
+    {
+      "id": "5091567",
+      "time": "2026-09-13 23:41:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價跌破4350美元/盎司，日內跌幅0.1%。"
+    },
     {
       "id": "5091566",
       "time": "2026-09-13 23:38:24",
