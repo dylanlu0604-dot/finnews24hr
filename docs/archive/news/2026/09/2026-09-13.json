@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 258,
+  "count": 259,
   "items": [
+    {
+      "id": "mkt:01a09942-cca8-7118-855a-57b845c28995",
+      "time": "2026-09-13 13:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran and Egypt foreign ministers met in New Delhi, Tasnim News Agency reports."
+    },
     {
       "id": "mkt:01a0993e-5368-7118-855a-4b550973c6f1",
       "time": "2026-09-13 13:29:53",
