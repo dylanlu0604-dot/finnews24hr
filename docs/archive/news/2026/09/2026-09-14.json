@@ -1,7 +1,23 @@
 {
   "date": "2026-09-14",
-  "count": 126,
+  "count": 128,
   "items": [
+    {
+      "id": "mkt:01a09c92-f0d7-7118-855f-4f849b542106",
+      "time": "2026-09-14 05:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENTCOM: U.S. forces diverted 101 commercial vessels by Sept 13】CENTCOM said U.S. forces had diverted 101 commercial vessels as of Sept 13 to ensure compliance."
+    },
+    {
+      "id": "5091747",
+      "time": "2026-09-14 04:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門媒體：沙特戰機兩次轟炸焦夫省哈卜瓦沙阿夫地區一處每週開市的公共集市。"
+    },
     {
       "id": "mkt:01a09c84-56ed-7118-855f-476d28b6067a",
       "time": "2026-09-14 04:45:13",

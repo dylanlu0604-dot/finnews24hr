@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-14 04:57:42",
+  "updated": "2026-09-14 05:01:32",
   "count": 13425,
   "items": [
+    {
+      "id": "mkt:01a09c92-f0d7-7118-855f-4f849b542106",
+      "time": "2026-09-14 05:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENTCOM: U.S. forces diverted 101 commercial vessels by Sept 13】CENTCOM said U.S. forces had diverted 101 commercial vessels as of Sept 13 to ensure compliance."
+    },
+    {
+      "id": "5091747",
+      "time": "2026-09-14 04:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門媒體：沙特戰機兩次轟炸焦夫省哈卜瓦沙阿夫地區一處每週開市的公共集市。"
+    },
     {
       "id": "mkt:01a09c84-56ed-7118-855f-476d28b6067a",
       "time": "2026-09-14 04:45:13",
@@ -123304,22 +123320,6 @@
         "其他"
       ],
       "text": "市場資訊：德國極右翼政黨選擇黨預計將贏得州選舉，但無法取得多數席位。"
-    },
-    {
-      "id": "mkt:01a07886-69bd-7118-84bc-b010c30f8d3e",
-      "time": "2026-09-07 05:01:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Financial Times: Europe has failed to curb Russia's \"hybrid warfare\"】Financial Times, citing Western defense and intelligence officials, reports Europe has failed to effectively deter Russia's \"hybrid warfare\" and must rapidly adopt new measures to curb Moscow's actions against NATO members or risk escalation with the Kremlin. Officials said a drone loaded with military-grade explosives targeting Leipzig/Halle airport was thwarted last month, highlighting Russia's willingness to strike below the Article 5 threshold and the breakdown of current deterrence. Western officials said responses require collective European action; a senior defense official said Europe has been far too weak at deterring provocations that do not trigger Article 5 and, while existing deterrence can prevent conventional or nuclear escalation, strategies to counter hybrid warfare must be rethought."
-    },
-    {
-      "id": "5079684",
-      "time": "2026-09-07 05:00:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國奧蘭多國際機場正在為邁阿密國際機場的處置工作提供支援，接收備降航班。"
     }
   ]
 }
