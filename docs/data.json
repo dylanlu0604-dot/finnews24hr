@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-13 14:06:33",
-  "count": 13492,
+  "updated": "2026-09-13 14:10:29",
+  "count": 13494,
   "items": [
+    {
+      "id": "mkt:01a09960-f052-7118-855a-8ef3f67d31f9",
+      "time": "2026-09-13 14:07:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran's Fars News quoted parliament presidium spokesman Abbas Goudarzi saying withdrawal from the Nuclear Non‑Proliferation Treaty (NPT) and revising Iran's nuclear doctrine are \"fully achievable\" options that would \"make the United States and its followers recognize their position.\""
+    },
+    {
+      "id": "mkt:01a09960-5700-7118-855a-8447d1516b4d",
+      "time": "2026-09-13 14:07:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "RIA quoted sources saying Ukraine's armed forces failed in an attempt to break out of an encirclement in the Kharkiv region."
+    },
+    {
+      "id": "mkt:01a0995f-bdb5-7118-855a-7d01e9dcb27c",
+      "time": "2026-09-13 14:06:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: Finnish activists say Finland remains unlikely to open its border with Russia after the 2027 parliamentary election."
+    },
     {
       "id": "5091217",
       "time": "2026-09-13 13:54:10",
@@ -123801,15 +123832,6 @@
         "XAUUSD"
       ],
       "text": "Al Arabiya TV reported Israeli defense minister said Israel will not withdraw forces from the Lebanese security zone until Hezbollah is disarmed."
-    },
-    {
-      "id": "5079140",
-      "time": "2026-09-06 14:06:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿曼央行公佈：7月M2貨幣供應量同比增長14.94%。"
     }
   ]
 }
