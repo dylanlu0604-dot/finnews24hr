@@ -1,7 +1,962 @@
 {
   "date": "2026-09-13",
-  "count": 498,
+  "count": 603,
   "items": [
+    {
+      "id": "5091533",
+      "time": "2026-09-13 22:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【立陶宛因鳥群誤觸空防警報臨時關閉維爾紐斯機場，北約戰機升空確認無無人機】立陶宛國家危機管理中心通報，因領空疑似出現無人機，維爾紐斯機場一度關閉，該國發布黃色防空警報，北約緊急出動戰鬥機升空應對。經戰機現場識別，確認目標為鳥群，未發現無人機。受警報影響，零售連鎖Maxima臨時關閉了維爾紐斯、特拉凱、埃萊克特雷奈、道蓋及帕布拉德地區的約70家門店及分支機構。"
+    },
+    {
+      "id": "5091532",
+      "time": "2026-09-13 22:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 蘋果正在研發一款 iPhone遊戲手柄，該產品極有可能出自 Beats 品牌，而非蘋果自有品牌。"
+    },
+    {
+      "id": "5091531",
+      "time": "2026-09-13 22:13:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗商會：喬治亞邊境未關閉，伊朗貨車正常通行】伊朗-喬治亞聯合商會主席表示，伊朗貨車目前正透過喬治亞邊境正常通行，有關該國邊境對伊朗貨車關閉的說法不實。"
+    },
+    {
+      "id": "mkt:01a09b16-43b7-7118-855c-fb2194d1f26f",
+      "time": "2026-09-13 22:05:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Tianfeng Securities: Short-term downside pressure on precious metals not eased】Tianfeng Securities research note maintains timing-based bearish views on gold and silver. Silver staged a mid-week rebound but plunged on Friday, aligning with the firm's timing signals; gold was relatively flat mid-week with only a weak bounce and models remain bearish. With the dollar and US Treasury yields firming on renewed overseas rate-hike expectations, Tianfeng says short-term adjustment pressure on precious metals is likely to persist."
+    },
+    {
+      "id": "5091530",
+      "time": "2026-09-13 22:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【卡達股市收盤上漲0.25%】卡達證券交易所主要股指今日收盤上漲0.25%，報9848.95點，上漲24.46點。全市場共成交96,129,150股，成交額達2.24億里亞爾，共完成15,596筆交易，覆蓋所有行業板塊。"
+    },
+    {
+      "id": "5091529",
+      "time": "2026-09-13 22:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所終止安徽久易農業股份有限公司創業板IPO稽核】9月13日，據深交所網站披露，因安徽久易農業股份有限公司及其保薦人撤回發行上市申請，深交所決定終止其首次公開發行股票並在創業板上市的稽核。"
+    },
+    {
+      "id": "5091528",
+      "time": "2026-09-13 21:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：到2035年武漢區域科技創新中心全面建成】據湖北日報，9月13日，武漢市委十四屆十三次全會召開，審議透過了《關於打造具有全球競爭力的開放創新生態 高水平建設武漢區域科技創新中心的決定》。《決定》明確“三步走”目標：到2028年，要素集聚、制度完備的創新生態基本成型，武漢區域科技創新中心建設取得顯著成效；到2030年，協同融通、活力迸發的創新生態成熟定型，武漢區域科技創新中心能級進一步提升，支撐支點建設取得決定性進展；到2035年，開放包容、具有全球競爭力的創新生態全面形成，武漢區域科技創新中心全面建成，成為引領中部、輻射全國、融入世界的創新增長極。"
+    },
+    {
+      "id": "5091527",
+      "time": "2026-09-13 21:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐巴格達大使館：美國駐巴格達大使會見伊拉克石油部長，商討伊拉克石油增產事宜。"
+    },
+    {
+      "id": "5091522",
+      "time": "2026-09-13 21:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院議長約翰遜稱，特朗普需要國會批准才能發放承諾給每個人的5000美元支票。"
+    },
+    {
+      "id": "5091514",
+      "time": "2026-09-13 21:48:10",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普在愛爾蘭度假村對記者講話的內容一覽】\n\n（一）美聯儲與利率政策：特朗普在被問及下週美聯儲利率決議時表示，他不知道美聯儲是否會加息，但強調美國的利率“應該是全球最低的”。\n\n（二）5000美元支票計劃：特朗普表示，美國政府目前“收入豐厚”，有能力兌現選舉後向民眾發放5000美元支票的承諾，並稱國會理應能夠輕鬆批准這一計劃。他同時強調，自己“一向信守承諾”。\n\n（三）伊朗局勢：特朗普再次表示，伊朗“迫切希望”與美國達成協議，並稱當前戰爭最終將會結束，時間可能在美國中期選舉之前，也可能就在選舉之後。對於海灣國家計劃次日與伊朗舉行會議，特朗普表示自己並不關心，各國是否與伊朗接觸“取決於他們自己”。他同時表示，美國最終會從伊朗問題中“脫身”。\n\n（四）烏克蘭問題：特朗普表示，美國已經就烏克蘭問題與澤連斯基進行了溝通，並明確要求澤連斯基“停止摧毀俄羅斯的柴油燃料供應”。\n\n（五）愛爾蘭統一問題：特朗普進一步強化此前有關愛爾蘭統一的表態，稱將北愛爾蘭與愛爾蘭合併是“一件自然而然的事”，並表示自己的相關言論“相當正常”。在被追問蘇格蘭問題時，特朗普表示目前不會討論，將留到以後再談。\n\n（六）人工智慧發展與安全：特朗普在被問及人工智慧行業是否應放緩發展時表示，“贏下人工智慧者，將贏得全域性”。他認為可以為人工智慧設定必要的保護措施，但當前部分有關人工智慧風險的討論“過於消極”，一些被拿出來討論的風險實際上“不會發生”。\n\n（七）英國北海油氣開發：特朗普敦促英國擴大北海油氣資源開發，稱如果英國開放北海石油資源，就能夠變得更加富裕；反之，如果繼續限制開發，英國可能會“破產”。他還透露，已有石油企業主動聯絡他，表示希望進入北海油田開展業務。\n\n（八）英國政治：特朗普表示，自己已經與英國首相伯納姆交談過，但稱“可惜他偏向自由派”。\n\n（九）委內瑞拉局勢：特朗普在被問及委內瑞拉何時舉行選舉時表示，選舉將在相關籌備工作完成、“準備就緒”後舉行。"
+    },
+    {
+      "id": "5091506",
+      "time": "2026-09-13 21:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，9月14日7時至17時，渤海海峽部分海域執行軍事任務，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a09b02-e833-7118-855c-f5a8df10a4b2",
+      "time": "2026-09-13 21:44:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House economic adviser Hassett said risks posed by malicious actors outweigh the risk of AI running out of control."
+    },
+    {
+      "id": "mkt:01a09b02-84ba-7118-855c-ea7864a794ee",
+      "time": "2026-09-13 21:43:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Hassett: Trump and I see no reason to raise rates】White House economic adviser Hassett said he and President Trump see no reason to raise interest rates and that it is important for the Fed to keep policy unchanged ahead of the election. Hassett said Trump fully respects Wosh's independence."
+    },
+    {
+      "id": "5091504",
+      "time": "2026-09-13 21:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特： 惡意行為者帶來的風險高於失控人工智慧風險。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609133872875084",
+      "time": "2026-09-13 21:42:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【白宮經濟顧問哈塞特：特朗普認為沒有理由加息】白宮經濟顧問哈塞特表示，“特朗普和我都認為沒有理由加息，美聯儲在選舉前保持現狀很重要。特朗普百分之百尊重沃什的獨立性。”"
+    },
+    {
+      "id": "5091502",
+      "time": "2026-09-13 21:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：人工智慧的風險在於惡意行為者獲取更先進的人工智慧。"
+    },
+    {
+      "id": "5091501",
+      "time": "2026-09-13 21:42:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：白宮瞭解到人工智慧安全已得到保障。"
+    },
+    {
+      "id": "5091499",
+      "time": "2026-09-13 21:40:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：特朗普百分之百尊重沃什的獨立性。"
+    },
+    {
+      "id": "5091498",
+      "time": "2026-09-13 21:40:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特：美聯儲在選舉前保持現狀很重要。"
+    },
+    {
+      "id": "5091497",
+      "time": "2026-09-13 21:40:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特： 無論美聯儲做出何種決定，我們都會全力支援。"
+    },
+    {
+      "id": "5091496",
+      "time": "2026-09-13 21:40:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "哈塞特：特朗普和我都認為沒有理由加息。"
+    },
+    {
+      "id": "mkt:01a09afc-4d90-7118-855c-e53c2d82af53",
+      "time": "2026-09-13 21:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media calls Trump's 'Iran willing to make any deal' claim 'absurd'】Iran's Mehr news agency said on Sunday that President Trump sought to justify, in the agency's wording, costly US aggression against Iran that has provoked economic problems by claiming \"Iran is willing to make a deal at any cost, but I will not sign any imperfect deal.\" Mehr called the assertion \"absurd,\" saying it masks the failure of the aggression and Iran's economic difficulties. Trump added the war with Iran would end before or shortly after the US midterm elections."
+    },
+    {
+      "id": "5091491",
+      "time": "2026-09-13 21:32:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院民主黨領袖哈基姆・傑弗里斯（Hakeem Jeffries） 稱民主黨將於週二開會討論人工智慧相關舉措。"
+    },
+    {
+      "id": "5091490",
+      "time": "2026-09-13 21:31:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "閃迪暗盤跌超4%，現報1563.605美元。"
+    },
+    {
+      "id": "5091489",
+      "time": "2026-09-13 21:31:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超5%，現報180.865美元。"
+    },
+    {
+      "id": "mkt:01a09af7-10fa-7118-855c-da5d46152f40",
+      "time": "2026-09-13 21:31:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "【Preview: Next week’s key events — super central bank week with Fed, BOE, BOJ; China M2 and other data due】Monday: Canada releases Aug CPI; China Aug M2 YoY release pending. India’s NSE closed one day. Tuesday: China data slate includes Aug retail sales YoY and industrial production YoY; China nationwide electricity consumption prints (Aug, timing subject to NEA schedule). UK posts July three‑month ILO unemployment rate, Aug unemployment rate and claimant count; France Aug CPI final; Germany and euro‑area Sep ZEW surveys; euro‑area Jul seasonally adjusted trade balance. US ADP weekly payrolls to Aug 29; Canada Jul wholesale sales; US NY Fed manufacturing index. National Bureau to publish 70‑city house‑price monthly report; State Council press briefing on economic performance. Wednesday: US weekly API crude stocks; UK Aug CPI MoM and RPI MoM; euro‑area Jul industrial output MoM; US Aug retail sales MoM, Aug import PPI MoM, Sep NAHB housing market index, Jul business inventories; EIA weekly crude, Cushing and SPR stock updates. European Commission President VON DER LEYEN delivers a policy address. Thursday: FOMC rate decision and Summary of Economic Projections with Fed chair press conference (live); Bank of England rate decision due Sep 17; Bank of Canada releases policy minutes. Data: euro‑area Aug CPI final and MoM; Switzerland Aug trade balance; US initial jobless claims (week to Sep 12), Aug housing starts and building permits (annualized), Sep Philly Fed index, Aug pending home‑sales proxy, EIA weekly natural gas stocks. US SEC holds a roundtable on 24‑hour trading. Friday: UK Sep GfK consumer confidence; Japan Aug core CPI YoY; Germany Aug PPI MoM; UK Aug retail sales ex‑adjustment; euro‑area Jul current account. US Aug industrial production and Conference Board leading indicators. RBA Governor Bullock appears at a hearing. BOJ policy decision and Governor UEDA’s press conference scheduled (decision timing Sep 18 pending). Saturday: US Baker Hughes weekly oil rig count (week to Sep 18)."
+    },
+    {
+      "id": "5091488",
+      "time": "2026-09-13 21:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤跌超5%，現報926.165美元。"
+    },
+    {
+      "id": "5091485",
+      "time": "2026-09-13 21:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國超級稻30年帶動水稻單產提升】中國超級稻三十年暨種業高質量發展大會13日在遼寧瀋陽舉行。記者從大會瞭解到，1996年以來，全國超級稻育種工作持續推進，有力帶動了全國水稻單產的提升。（新華社）"
+    },
+    {
+      "id": "mkt:01a09af2-d1d6-7118-855c-d4da13241a31",
+      "time": "2026-09-13 21:26:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House economic adviser Hassett said AI safety is a \"solvable problem\" and welcomed OpenAI and Elon Musk's support for an article by Anthropic's CEO on artificial intelligence."
+    },
+    {
+      "id": "mkt:01a09af1-cfd0-7118-855c-ca2a560817d1",
+      "time": "2026-09-13 21:25:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "White House economic adviser Hassett said he would take a cautious stance on rate hikes based on inflation data."
+    },
+    {
+      "id": "5091480",
+      "time": "2026-09-13 21:21:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特：如果沃什上調利率，特朗普將捍衛沃什的獨立性。（注：這句話的意思是特朗普很可能不會干預沃什的決定）"
+    },
+    {
+      "id": "5091479",
+      "time": "2026-09-13 21:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國若不開放北海（油氣資源）將會 “破產”。"
+    },
+    {
+      "id": "5091478",
+      "time": "2026-09-13 21:20:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤跌超4%，現報99.085美元。"
+    },
+    {
+      "id": "5091477",
+      "time": "2026-09-13 21:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國如果開放北海石油資源，就能變得富裕。"
+    },
+    {
+      "id": "5091476",
+      "time": "2026-09-13 21:20:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "哈塞特表示，根據通脹資料，他會對加息持謹慎態度。"
+    },
+    {
+      "id": "5091474",
+      "time": "2026-09-13 21:20:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：石油企業聯絡我，表示他們希望進軍北海油田。"
+    },
+    {
+      "id": "mkt:01a09aec-79f1-7118-855c-c12113141556",
+      "time": "2026-09-13 21:19:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said the U.S. can set safeguards for artificial intelligence, but some voices are overly negative."
+    },
+    {
+      "id": "5091473",
+      "time": "2026-09-13 21:19:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與英國首相伯納姆談過話，可惜他偏向自由派。"
+    },
+    {
+      "id": "5091472",
+      "time": "2026-09-13 21:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧：我們可以設定保護措施，但有些聲音過於消極。"
+    },
+    {
+      "id": "5091469",
+      "time": "2026-09-13 21:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧風險：一些不會發生的事情被拿出來討論。"
+    },
+    {
+      "id": "mkt:01a09aeb-0320-7118-855c-bf0f3fa19acd",
+      "time": "2026-09-13 21:18:07",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bearish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "President Trump, asked whether the AI industry should slow, said whoever wins AI wins the future."
+    },
+    {
+      "id": "5091468",
+      "time": "2026-09-13 21:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：很高興看到 OpenAI 與馬斯克支援阿莫代的人工智慧相關文章。"
+    },
+    {
+      "id": "5091467",
+      "time": "2026-09-13 21:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "當被問及人工智慧行業是否應當放緩發展時，特朗普表示“贏下人工智慧者，將贏得全域性”。"
+    },
+    {
+      "id": "mkt:01a09aea-042d-7118-855c-b0e1dd97b029",
+      "time": "2026-09-13 21:17:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump says Venezuela's elections will be held when ready."
+    },
+    {
+      "id": "5091466",
+      "time": "2026-09-13 21:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談委內瑞拉局勢：當被問及委內瑞拉選舉的舉辦時間時，特朗普表示選舉將在籌備就緒後舉行。"
+    },
+    {
+      "id": "5091465",
+      "time": "2026-09-13 21:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：人工智慧安全是 “一個可以解決的問題”。"
+    },
+    {
+      "id": "5091463",
+      "time": "2026-09-13 21:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我關於愛爾蘭統一的表態屬於 “相當正常的言論”。"
+    },
+    {
+      "id": "mkt:01a09ae8-2ced-7118-855c-afd9bcdfa8a5",
+      "time": "2026-09-13 21:15:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said uniting Northern Ireland and the Republic of Ireland is natural and that he will not discuss Scotland for now, reserving the topic."
+    },
+    {
+      "id": "5091462",
+      "time": "2026-09-13 21:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談愛爾蘭統一：我目前不會談論蘇格蘭問題，我會留到以後再談。"
+    },
+    {
+      "id": "5091461",
+      "time": "2026-09-13 21:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談愛爾蘭統一：將北愛與愛爾蘭合併是自然而然的事。"
+    },
+    {
+      "id": "5091460",
+      "time": "2026-09-13 21:14:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮經濟顧問哈塞特：Anthropic的CEO阿莫代的文章是私營部門人工智慧發展路線圖。"
+    },
+    {
+      "id": "mkt:01a09ae7-310f-7118-855c-a0f0c1581cae",
+      "time": "2026-09-13 21:13:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Ukrainian President Zelenskiy must stop targeting Russia's diesel fuel and that they had discussed the issue."
+    },
+    {
+      "id": "5091458",
+      "time": "2026-09-13 21:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭問題：我們已就此與澤連斯基進行了溝通。"
+    },
+    {
+      "id": "5091457",
+      "time": "2026-09-13 21:13:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭問題——澤連斯基必須做一件事：他必須停止摧毀俄羅斯的柴油燃料供應。"
+    },
+    {
+      "id": "5091456",
+      "time": "2026-09-13 21:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：美國最終會從中脫身。"
+    },
+    {
+      "id": "mkt:01a09ae6-6701-7118-855c-993052f9a0d8",
+      "time": "2026-09-13 21:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President Trump said the conflict with Iran will end, possibly before the midterm elections or immediately afterward. He said Iran is very eager to reach an agreement and the U.S. does not care whether Gulf states meet with Iran, calling that their choice."
+    },
+    {
+      "id": "5091455",
+      "time": "2026-09-13 21:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談明日伊朗召開的會議：不關心海灣國家是否與伊朗會面，這取決於他們自己。"
+    },
+    {
+      "id": "mkt:01a09ae5-c52f-7118-855c-95897be90d00",
+      "time": "2026-09-13 21:12:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the promised $5,000 post-election payment should be easy for Congress to pass and that he always keeps his promises."
+    },
+    {
+      "id": "5091454",
+      "time": "2026-09-13 21:12:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗迫切希望達成協議。"
+    },
+    {
+      "id": "5091453",
+      "time": "2026-09-13 21:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：伊朗戰爭將結束——也許在中期選舉前，或者就在選舉後。"
+    },
+    {
+      "id": "5091452",
+      "time": "2026-09-13 21:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我一向信守承諾。"
+    },
+    {
+      "id": "5091451",
+      "time": "2026-09-13 21:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國會理應輕鬆透過選舉後5000美元的支票發放承諾。"
+    },
+    {
+      "id": "mkt:01a09ae4-68d8-7118-855c-8f4e174ddcea",
+      "time": "2026-09-13 21:10:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. President Trump said the United States should have the lowest interest rates in the world."
+    },
+    {
+      "id": "mkt:01a09ae4-6244-7118-855c-861b6ad47a25",
+      "time": "2026-09-13 21:10:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Expert: Rhine low water could inflict heavy economic losses on Germany】German business groups warned on the 13th that sustained low water has sharply cut freight capacity on the Rhine and could cause substantial economic losses this year. Rhineland-Palatinate Chamber of Industry and Commerce spokesperson Nicole Laborde said the situation is \"very severe\" and losses will be \"huge\", though it is unclear whether they will exceed the 2018 low-water hit of at least €2.4bn."
+    },
+    {
+      "id": "5091449",
+      "time": "2026-09-13 21:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們收入豐厚，處理5000美元的支票不在話下。"
+    },
+    {
+      "id": "5091448",
+      "time": "2026-09-13 21:10:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普被問及下週美聯儲的決議時，他表示：我們的利率應該是全球最低的。"
+    },
+    {
+      "id": "mkt:01a09ae3-c5eb-7118-855c-79fcd8908831",
+      "time": "2026-09-13 21:10:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA returns to Beijing after 18th BRICS leaders' meeting】On the evening of Sept. 13, CHINA returned to Beijing after concluding attendance at the 18th BRICS leaders' meeting."
+    },
+    {
+      "id": "5091447",
+      "time": "2026-09-13 21:10:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普被問及是否預期美聯儲加息時表示：我不知道。"
+    },
+    {
+      "id": "5091446",
+      "time": "2026-09-13 21:09:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平結束出席金磚國家領導人第十八次會晤回到北京】9月13日晚，國家主席習近平圓滿結束出席金磚國家領導人第十八次會晤回到北京。(新華社)"
+    },
+    {
+      "id": "5091445",
+      "time": "2026-09-13 21:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市國資委召開完善指導監管機制座談會】9月13日上午，上海市國資委召開完善指導監管機制座談會。會議指出，區屬國資國企在服務區域發展大局、推動產業集聚、強化民生保障等方面發揮了重要作用，同時在當前改革發展中也面臨一些突出問題，市國資委將積極履行指導監管職能，強化市區協同聯動，更好服務推動區屬國資國企高質量發展。一是進一步摸清底數，夯實工作基礎。市區兩級國資委要深入開展座談調研和意見徵詢，細化梳理區屬企業業務轉型、基金運作、存量盤活等情況，加強基礎資料歸集分析，做到“底數清、情況明”。二是進一步聚焦關鍵難題，形成務實管用的工作舉措。市區兩級國資委要堅持問題導向，聚焦房地產業務轉型、科技創新功能發揮、國資基金規範運作等，明確指導監管工作重點，深入研究、紮實破題。三是進一步加強工作保障，確保改革落地見效。市國資委要完善對區級國資指導監管的工作機制，加強指導、協同、賦能、服務，在政策宣貫、業務培訓和推動企業改革轉型等方面主動靠前，會同各區政府加大對區屬國資國企的支援保障，強化改革跟蹤問效。"
+    },
+    {
+      "id": "mkt:01a09ade-729d-7118-855c-738fefc2d753",
+      "time": "2026-09-13 21:04:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump says he hopes to see Ireland and Northern Ireland ‘united’; draws UK political backlash】On a visit to Ireland on the 12th, US President Trump said he would like to see Ireland and Northern Ireland \"united.\" The remark drew swift rebuttals from UK politicians: Conservative Party leader Kemi Badenoch said on social media that \"Trump is, as always, talking recklessly, just like when he talked about Greenland and wanted Canada to become the 51st US state,\" and insisted Northern Ireland is part of the UK. Reform UK leader Nigel Farage said Northern Ireland is a proud, indivisible part of the United Kingdom."
+    },
+    {
+      "id": "5091443",
+      "time": "2026-09-13 20:59:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "【招商證券：宏觀壓制逐步落地，中期佈局機會顯現】招商證券釋出研報指出，本週CPI靴子落地，雖然小幅超預期，但市場基本已經完成計價，宏觀主導的交易或將告一段落。下一階段產業的變化將成為市場執行主線，新模型在Agent、科研領域的突破將逐漸開啟AI盈利天花板。週五美股普遍反彈，但結構分化明顯，市場更加獎勵邊際利好變化，淡化中長期邏輯，預計A股也將演繹這一邏輯，後續建議關注科技成長、AI算力鏈、CPO產業鏈，以及資源品漲價方向。"
+    },
+    {
+      "id": "5091442",
+      "time": "2026-09-13 20:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄再對烏大規模打擊 烏方稱多地遭襲有傷亡】俄國防部12日在社交媒體釋出戰報說，在過去24小時內，俄軍使用陸基、空基和海基高精度武器及攻擊型無人機實施打擊，摧毀烏克蘭多個保障軍用品生產的冶金工業企業。烏克蘭空軍13日上午在社交媒體發文稱，12日晚至13日凌晨，俄軍再次對烏克蘭發動大規模空襲，向烏境內發射了453架無人機，13處地點遭到襲擊，另有7處地點被無人機碎片擊中。（新華社）"
+    },
+    {
+      "id": "5091441",
+      "time": "2026-09-13 20:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【專家：萊茵河低水位或致德國鉅額經濟損失】德國工商界人士13日警告，受持續低水位影響，萊茵河貨運能力大幅下降，預計今年將給德國經濟造成鉅額損失。"
+    },
+    {
+      "id": "5091440",
+      "time": "2026-09-13 20:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普“愛爾蘭統一”言論引發英國政界反對】美國總統特朗普12日訪問愛爾蘭時表示，很希望看到愛爾蘭與（英國的）北愛爾蘭“實現統一”。該言論引發英國政界強烈反對。英國保守黨黨首凱米·巴德諾赫當天在社交媒體上說：“特朗普還是一如既往地信口開河，就像他之前談到格陵蘭島，以及想讓加拿大成為美國第51個州時一樣。”巴德諾赫說，“北愛爾蘭是英國的一部分”。“我不同意特朗普的觀點。”英國改革黨黨首奈傑爾·法拉奇同日在社交媒體上說，北愛爾蘭是英國引以為傲、不可分割的一部分。（新華社）"
+    },
+    {
+      "id": "mkt:01a09acc-7f8f-7118-855c-6bc051d6ba85",
+      "time": "2026-09-13 20:44:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi rapid advance 'an unequivocal turning point' in regional war】Adam Baron, researcher at New America's Future of Security Project, said a drone attack from Iraq on a Saudi oil pipeline underscores how combustible the Middle East is. Since US and Israeli hostilities with Iran began six months ago, he said, a series of linked, multi-front conflicts has been igniting across the region. The Houthis' rapid seizure of a key Yemeni west-coast city from Saudi-backed forces is \"an unequivocal turning point\", he said, marking the loss of some of Yemen's most strategically important territory. Given Yemen's position, no military movement is weightier than an armed group's ability to enter the Bab al-Mandeb. He said the internationally recognized government withdrew after little fighting—possibly as a tactical move to prepare for future battles—and that Saudi-led airstrikes alone are unlikely to dislodge the Houthis; a unified ground force will be required."
+    },
+    {
+      "id": "mkt:01a09ac7-9a40-7118-855c-63dc13b53ad0",
+      "time": "2026-09-13 20:39:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS: Iran's president said talks with the UAE's Abu Dhabi crown prince went well and both agreed to put the past behind them."
+    },
+    {
+      "id": "mkt:01a09ac7-1cdb-7118-855c-5ff1328d9466",
+      "time": "2026-09-13 20:38:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【UAE and Iran leaders meet as talks to ease Strait of Hormuz transit tensions intensify】Abu Dhabi Crown Prince met Iranian President Pezeshkian during the BRICS summit as talks to resolve the Strait of Hormuz stalemate picked up. Iran is promoting an agreement it says could allow more vessels to transit the Strait — a key global energy export chokepoint — and will brief Gulf states on Monday; Tehran said any accord would not equal a full reopening and that Iran would have a say over which ships may pass. Oman is seeking to convene the GCC with Iran to discuss the route, but the meeting is unconfirmed and Bahrain has ruled out attending, citing recent Iran-backed attacks on Gulf targets. State news agency WAM reported the Crown Prince and Pezeshkian stressed de‑escalation and measures to strengthen regional stability."
+    },
+    {
+      "id": "5091431",
+      "time": "2026-09-13 20:37:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統稱與阿布扎比王儲的會談進展良好，他表示“雙方同意讓過去的事成為過去”。"
+    },
+    {
+      "id": "5091430",
+      "time": "2026-09-13 20:32:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻富誠：首次公開發行股票並在創業板上市將舉行網上路演】鴻富誠公告稱，公司首次公開發行股票並在創業板上市申請已獲證監會同意註冊，本次公開發行股票1873.0606萬股，佔發行後總股本的25.00%，全部為公開發行新股。發行採用戰略配售、網下發行、網上發行相結合的方式。公司將於2026年9月15日14:00-17:00在全景路演舉行網上路演，參會人員為發行人管理層主要成員及聯席主承銷商相關人員。"
+    },
+    {
+      "id": "5091429",
+      "time": "2026-09-13 20:32:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中塑股份：披露創業板IPO網上搖號中籤結果】中塑股份公告稱，公司首次公開發行A股並在創業板上市的網上搖號中籤結果出爐，中籤號碼共9156個，每個中籤號碼可認購500股公司A股股票。網上投資者需在2026年9月14日（T+2日）日終確保資金賬戶有足額新股認購資金，不足部分視為放棄認購，放棄認購股份由保薦人（主承銷商）國信證券包銷。本次網上發行股份無流通限制及限售期安排，自上市之日起即可流通。"
+    },
+    {
+      "id": "5091427",
+      "time": "2026-09-13 20:31:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【授信80億元！農行廣州分行與傑創智慧達成戰略合作】9月12日，中國農業銀行廣州分行2026年第九期“求是講堂”活動順利舉辦。活動現場，中國農業銀行廣州分行與傑創智慧科技股份有限公司簽署戰略合作意向授信協議，為傑創智慧提供80億元意向授信額度。雙方將攜手深耕人工智慧、算力基礎設施領域，護航AI產業規模化落地。本次銀行授信為意向授信，公司將根據相關規則履行合規程式後，另行簽署正式授信及相關協議。"
+    },
+    {
+      "id": "5091425",
+      "time": "2026-09-13 20:28:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：特朗普提出的每人發放5000美元支票計劃不會增加債務。"
+    },
+    {
+      "id": "5091421",
+      "time": "2026-09-13 20:25:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：在出臺任何立法前，應與人工智慧領域企業負責人會晤。"
+    },
+    {
+      "id": "5091420",
+      "time": "2026-09-13 20:25:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外長稱，土耳其總統埃爾多安即將訪問敘利亞。"
+    },
+    {
+      "id": "mkt:01a09aba-0211-7118-855c-559fd4b81cb3",
+      "time": "2026-09-13 20:24:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peskov says resumption of tripartite Ukraine talks in October not ruled out】Kremlin press secretary Dmitry Peskov told reporters in New Delhi on Sept 13 he does not rule out resuming tripartite talks on Ukraine in October. Earlier, Jared Kushner said US meetings in Moscow and Kyiv clarified what might yield a long-term settlement and that new ideas from those meetings could be discussed at a forthcoming tripartite meeting."
+    },
+    {
+      "id": "5091418",
+      "time": "2026-09-13 20:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜表示，人工智慧監管不宜倉促推進。"
+    },
+    {
+      "id": "5091416",
+      "time": "2026-09-13 20:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：不排除10月恢復烏克蘭問題三方談判】9月13日，俄羅斯總統新聞秘書佩斯科夫在新德里回答媒體提問時表示，不排除10月恢復烏克蘭問題三方談判。此前，美國總統特朗普的女婿庫什納表示，美國透過在莫斯科和基輔的會晤，已清楚瞭解什麼可能帶來衝突的長期解決。此外，據庫什納稱，會晤後出現了一些新想法，可在不久後舉行的三方會晤中討論。（央視新聞）"
+    },
+    {
+      "id": "5091414",
+      "time": "2026-09-13 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：逸飛鐳射兩融餘額：1.94億元，餘額增幅：169.17%；摩爾執行緒兩融餘額：17.35億元，餘額增幅：67.17%"
+    },
+    {
+      "id": "mkt:01a09aae-962a-7118-855c-49154462cf86",
+      "time": "2026-09-13 20:12:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi foreign minister said continued escalation in the region would broaden the scope of confrontation. Gulf states will not accept Iran attacking their territory under any pretext. Security in the Gulf Arab states can only be guaranteed through respect for each country's sovereignty."
+    },
+    {
+      "id": "5091408",
+      "time": "2026-09-13 20:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，9月17日9時至11時，南海部分水域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5091407",
+      "time": "2026-09-13 20:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭武裝部隊再次襲擊扎波羅熱核電站。"
+    },
+    {
+      "id": "mkt:01a09aab-e5af-7118-855c-4499f000938a",
+      "time": "2026-09-13 20:09:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Sources: Saudi pipeline outage could cut up to 4% of global oil supply】Refinitiv: Saudi oil buyers and traders warn a main pipeline to the Red Sea could exhaust export inventories within days if not restarted, potentially removing up to 4% of global oil supply. A further drop in Saudi flows would tighten global supply, has already pushed fuel prices to record highs, contributed to global inflation and helped lift US Treasury yields to levels not seen since 2008. Repair estimates vary: one source said fixes could take five to six weeks, another said repairs could be faster and allow partial flows during maintenance. Three industry sources say Yanbu inventories now cover only five to seven days of exports; a fourth said Saudi can supply customers for several days from Ain Sokhna and Sidi Kerir. Industry storage estimates: Yanbu ~35 mln barrels; Ain Sokhna ~18 mln; Sidi Kerir ~20 mln."
+    },
+    {
+      "id": "mkt:01a09aa4-893f-7118-855c-3ac073c90adc",
+      "time": "2026-09-13 20:01:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Traders and market sources said unless flows are restored within days, a Saudi pipeline outage could remove about 4% of global oil supply. Saudi storage at Yanbu can sustain exports for roughly 5–7 days; there are small additional stocks in Egypt."
+    },
+    {
+      "id": "5091403",
+      "time": "2026-09-13 20:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商及訊息人士稱，除非沙特輸油管道在數日內恢復輸油，否則此次中斷可能導致全球石油供應減少4%。"
+    },
+    {
+      "id": "5091402",
+      "time": "2026-09-13 20:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "三位訊息人士稱，沙烏地阿拉伯延布港的石油儲存僅夠維持5-7天的出口量，此外在埃及還有少量儲存。"
+    },
+    {
+      "id": "5091401",
+      "time": "2026-09-13 19:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特王儲與巴基斯坦總理通電話，雙方就地區最新局勢交換意見。"
+    },
+    {
+      "id": "5091400",
+      "time": "2026-09-13 19:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部部長黃潤秋赴江西省調研生態環境保護工作】9月8日至10日，生態環境部部長黃潤秋赴江西省南昌市、鷹潭市、上饒市、景德鎮市調研生態環境保護工作。"
+    },
+    {
+      "id": "mkt:01a09a9f-13e7-7118-855c-32ce6690e6ea",
+      "time": "2026-09-13 19:55:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former CIA officer David J. Lash reaches interim plea agreement】Former CIA officer David J. Lash, charged with inflating pay via false declarations and stealing public funds, has reached an interim plea agreement with federal prosecutors because the case involves substantial classified material. Prosecutors and Lash’s lawyers filed a joint court document on the 10th but did not disclose the agreement’s terms. A federal judge on the 11th extended the deadline to formally indict Lash to Oct. 8 to give parties time to finalize a deal; both sides said a public trial would be highly complex given the classified evidence."
+    },
+    {
+      "id": "mkt:01a09a9d-71ae-7118-855c-2d79b7ad478a",
+      "time": "2026-09-13 19:53:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【South Korea to finalise details of $350 bln U.S. investment pledge early this week, industry minister says】South Korea's industry minister said on Sunday Seoul will hold further talks with the U.S. early this week to finalise details of its $350 bln investment pledge to the U.S. As part of the broader commitment, a $200 bln strategic investment cap — including an annual $20 bln limit — has been agreed and will not change. The sides are close on many issues but some items remain unresolved; this week's talks will be held by videoconference."
+    },
+    {
+      "id": "5091396",
+      "time": "2026-09-13 19:51:13",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【王東峰會見歐盟經濟社會委員會主席博蘭德】全國政協副主席兼秘書長、中國經濟社會理事會主席王東峰13日在杭州會見歐盟經濟社會委員會主席博蘭德，介紹中國減貧和鞏固拓展脫貧攻堅成果的經驗做法，雙方就發揮中歐圓桌會議平臺作用、促進中歐交流合作進行交流。(新華社)"
+    },
+    {
+      "id": "5091395",
+      "time": "2026-09-13 19:46:38",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【9月13日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平出席金磚國家領導人第十八次會晤第一階段會議並發表重要講話； 2.習近平出席金磚國家領導人第十八次會晤第二階段會議並發表重要講話； 3.習近平會見印度總理； 4.習近平圓滿結束出席金磚國家領導人第十八次會晤； 5.央視快評：勇做時代先鋒，攜手推動構建人類命運共同體； 6.中央組織部會同有關部委修訂印發“5個辦法” 進一步加強行業事業單位領導人員管理； 7.2026年服貿會達成各類成果超1200項； 8.國內聯播快訊： （1）《“人工智慧+軟體”專項行動實施方案》釋出； （2）國家發展改革委向民營企業推介一批投資專案； （3）國家自然科學基金長三角基礎研究聯合基金重大專項啟動； （4）市場監管總局今年1到6月廢止地方標準7400餘項； （5）我國實現一體化算力統籌監測； （6）甬舟鐵路全線橋樑主塔全部封頂； （7）江蘇實施科技成果轉化20條措施； （8）內蒙古電力市場新能源交易規模突破5000億千瓦時； 9.共擔時代責任 攜手開啟金磚合作新的“金色十年”——國際社會高度評價習近平主席金磚峰會重要講話； 10.國際聯播快訊： （1）胡塞稱遭沙特上百次空襲 沙特吉贊遭襲； （2）伊拉克臨時關閉部分與伊朗邊境口岸； （3）美國總統稱愛爾蘭終將統一； （4）阿根廷計劃啟動馬島附近海軍基地建設； （5）印尼載有約240人的客輪沉沒 上百人獲救。"
+    },
+    {
+      "id": "5091394",
+      "time": "2026-09-13 19:43:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科智慧科技股份有限公司透過港交所上市聆訊】據港交所檔案：羅博特科智慧科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "5091393",
+      "time": "2026-09-13 19:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市政府辦公廳副主任陶曉鋒接受審查調查】中央紀委國家監委網站9月13日通報，據重慶市紀委監委訊息：重慶市政府辦公廳副主任陶曉鋒涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5091392",
+      "time": "2026-09-13 19:30:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【清晰醫療：股票繼續暫停買賣】清晰醫療（01406.HK）公告，公司股份自2025年4月15日（星期二）上午九時正起於香港聯合交易所暫停買賣，並將繼續暫停買賣，直至進一步通知。"
+    },
     {
       "id": "5091391",
       "time": "2026-09-13 19:29:46",
