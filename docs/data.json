@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-14 06:28:14",
+  "updated": "2026-09-14 06:32:06",
   "count": 13461,
   "items": [
+    {
+      "id": "5091794",
+      "time": "2026-09-14 06:31:33",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic向投資者披露盈利情況：將連續第二個季度實現盈利。"
+    },
+    {
+      "id": "mkt:01a09ce5-89e0-7118-855f-f3b468c7458b",
+      "time": "2026-09-14 06:31:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he finds Canada the hardest country to deal with and that Canada is eager to reach a deal."
+    },
+    {
+      "id": "5091793",
+      "time": "2026-09-14 06:31:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic將連續第二個季度實現盈利。"
+    },
     {
       "id": "5091792",
       "time": "2026-09-14 06:26:48",
@@ -123629,30 +123656,6 @@
         "國際"
       ],
       "text": "阿拉伯國家聯盟負責人譴責以色列部長髮表的將巴勒斯坦人驅逐出加沙的言論。"
-    },
-    {
-      "id": "mkt:01a078d8-c5b5-7118-84bd-1e7684bf3518",
-      "time": "2026-09-07 06:31:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elevra Lithium: North American mine expansion project will lift average annual production to 373,000 tonnes."
-    },
-    {
-      "id": "mkt:01a078d7-c19f-7118-84bd-17497160def9",
-      "time": "2026-09-07 06:30:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Armed assailant rushes Ohio gubernatorial candidate Amy Acton at campaign rally; multiple injured】Local time Sept. 6, an armed individual rushed at Ohio Democratic gubernatorial candidate Amy Acton during a campaign rally, knocking several people to the ground and injuring multiple attendees, her campaign said."
-    },
-    {
-      "id": "5079703",
-      "time": "2026-09-07 06:28:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美一州長候選人競選集會遭襲】當地時間9月6日，美國俄亥俄州州長競選集會發生意外。據民主黨候選人艾米·阿克頓競選團隊發表的宣告，集會上，一名攜帶武器者“突然撲向”阿克頓，將多人撞倒在地，造成多人受傷。宣告稱阿克頓“對執法部門的迅速果斷行動表示感謝”，並強調“這種暴力行為在俄亥俄州絕無容身之地”。 在11月中期選舉中將與阿克頓對陣的俄亥俄州共和黨州長候選人維韋克·拉馬斯瓦米的競選團隊稱這一事件“完全不可接受、絕不能容忍”。（CCTV國際時訊）"
     }
   ]
 }
