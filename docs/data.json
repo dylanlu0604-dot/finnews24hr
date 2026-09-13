@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-14 06:32:06",
-  "count": 13461,
+  "updated": "2026-09-14 06:35:57",
+  "count": 13464,
   "items": [
+    {
+      "id": "mkt:01a09ce8-27af-7118-8560-1f03240fa96e",
+      "time": "2026-09-14 06:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's prime minister Kristersson said he is awaiting the final election results."
+    },
+    {
+      "id": "mkt:01a09ce7-48f2-7118-8560-12c345152c2d",
+      "time": "2026-09-14 06:33:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Whitaker and Kushner have done an excellent job, citing Gaza as an example and asserting that fighting there has largely subsided and that Hamas is willing to give up its weapons; he added that no one could have done what the two have done."
+    },
+    {
+      "id": "mkt:01a09ce6-33fc-7118-8560-08194fd59a55",
+      "time": "2026-09-14 06:32:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said most diesel comes from Russia, that Russian plants have been hit by Ukrainian strikes, and that he has asked Zelensky not to attack those diesel plants and refineries."
+    },
+    {
+      "id": "mkt:01a09ce6-298e-7118-8560-03e9832ab079",
+      "time": "2026-09-14 06:32:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "New Zealand Performance of Services Index for August 51.2; prior 50.6."
+    },
+    {
+      "id": "mkt:01a09ce6-06b1-7118-855f-fba52903b7e1",
+      "time": "2026-09-14 06:31:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Services Index (Aug) | actual 51.2 | previous 50.6"
+    },
     {
       "id": "5091794",
       "time": "2026-09-14 06:31:33",
@@ -123639,23 +123688,6 @@
         "國際"
       ],
       "text": "【美重啟穿梭外交 俄烏短暫停火 和平程序仍漫漫】9月5日到6日，美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團先後訪問莫斯科和基輔，並分別與俄羅斯總統普京和烏克蘭總統澤連斯基舉行會談。美特使訪問期間，俄烏分別宣佈暫停空襲對方首都三天。分析認為，俄烏局勢今後一段時期仍將維持“邊打邊談”的狀態，此次臨時停火安排與外交接觸為後續談判提供了基礎條件，但和平程序仍面臨諸多不確定性。（央視新聞）"
-    },
-    {
-      "id": "5079705",
-      "time": "2026-09-07 06:32:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4430美元/盎司，日內跌0.02%。"
-    },
-    {
-      "id": "5079704",
-      "time": "2026-09-07 06:32:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿拉伯國家聯盟負責人譴責以色列部長髮表的將巴勒斯坦人驅逐出加沙的言論。"
     }
   ]
 }

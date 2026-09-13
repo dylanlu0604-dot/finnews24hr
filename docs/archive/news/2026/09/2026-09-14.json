@@ -1,7 +1,56 @@
 {
   "date": "2026-09-14",
-  "count": 196,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a09ce8-27af-7118-8560-1f03240fa96e",
+      "time": "2026-09-14 06:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's prime minister Kristersson said he is awaiting the final election results."
+    },
+    {
+      "id": "mkt:01a09ce7-48f2-7118-8560-12c345152c2d",
+      "time": "2026-09-14 06:33:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Whitaker and Kushner have done an excellent job, citing Gaza as an example and asserting that fighting there has largely subsided and that Hamas is willing to give up its weapons; he added that no one could have done what the two have done."
+    },
+    {
+      "id": "mkt:01a09ce6-33fc-7118-8560-08194fd59a55",
+      "time": "2026-09-14 06:32:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said most diesel comes from Russia, that Russian plants have been hit by Ukrainian strikes, and that he has asked Zelensky not to attack those diesel plants and refineries."
+    },
+    {
+      "id": "mkt:01a09ce6-298e-7118-8560-03e9832ab079",
+      "time": "2026-09-14 06:32:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "New Zealand Performance of Services Index for August 51.2; prior 50.6."
+    },
+    {
+      "id": "mkt:01a09ce6-06b1-7118-855f-fba52903b7e1",
+      "time": "2026-09-14 06:31:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Services Index (Aug) | actual 51.2 | previous 50.6"
+    },
     {
       "id": "5091794",
       "time": "2026-09-14 06:31:33",
