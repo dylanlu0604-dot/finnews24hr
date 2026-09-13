@@ -1,7 +1,28 @@
 {
   "date": "2026-09-13",
-  "count": 623,
+  "count": 625,
   "items": [
+    {
+      "id": "mkt:01a09b5c-b6df-7118-855d-3b3c6885b631",
+      "time": "2026-09-13 23:22:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRNA cites sources saying air-raid alerts sounded in Khamis Mushait and Abha in southern Saudi Arabia and explosions were heard."
+    },
+    {
+      "id": "mkt:01a09b5b-2fd7-7118-855d-32f6c568d2b9",
+      "time": "2026-09-13 23:20:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran power outages persist despite government claim】Fars News reported a government spokesman and Energy Minister Abbas Aliabadi said “we got through this summer together,” but documents obtained by the outlet show widespread residential power outages continued on the same day. Aliabadi has pledged four times in the past month to end outages, yet residential supply remains interrupted and industrial firms report outages are intensifying. Yesterday’s outage extent was about 2.5 times the past month’s daily average."
+    },
     {
       "id": "5091549",
       "time": "2026-09-13 23:17:54",
