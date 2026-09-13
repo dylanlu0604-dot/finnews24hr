@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14 01:51:06",
-  "count": 13442,
+  "updated": "2026-09-14 01:54:58",
+  "count": 13441,
   "items": [
+    {
+      "id": "mkt:01a09be5-d2d7-7118-855e-0c9f9f8d2a8f",
+      "time": "2026-09-14 01:52:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【U.S. household net worth surged $12.5 trillion in Q2, largest quarterly gain on record】Kobeissi reported U.S. household net worth rose $12.5 trillion in Q2 2026 to a record $185.7 trillion, the largest single-quarter increase on record. Net worth has increased for 11 consecutive quarters, up $43.4 trillion over that span and up $83.9 trillion since the COVID shock. The net worth-to-GDP ratio jumped 20 percentage points to 571%, just shy of the 574% peak in Q3 2021. Kobeissi said asset holders have been the primary beneficiaries and warned those without assets risk being left behind."
+    },
     {
       "id": "5091705",
       "time": "2026-09-14 01:49:08",
@@ -123420,22 +123434,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：感謝美國總統代表威特科夫與庫什納到訪基輔。我們已經開展多輪良好會談，今日還將繼續磋商。最重要的是為烏克蘭爭取一份體面、可靠且持久的和平。"
-    },
-    {
-      "id": "5079608",
-      "time": "2026-09-07 01:54:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭本國反導系統將於不久後投入使用。美方明年將提升愛國者反導導彈的產量。我們期盼衝突能夠結束（但願如此），但即便戰事結束，我們依舊需要這類武器。"
-    },
-    {
-      "id": "5079604",
-      "time": "2026-09-07 01:53:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普釋出一張地圖，將新墨西哥州標註為“新美國”。"
     }
   ]
 }

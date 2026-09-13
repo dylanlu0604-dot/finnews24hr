@@ -1,7 +1,21 @@
 {
   "date": "2026-09-14",
-  "count": 46,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:01a09be5-d2d7-7118-855e-0c9f9f8d2a8f",
+      "time": "2026-09-14 01:52:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【U.S. household net worth surged $12.5 trillion in Q2, largest quarterly gain on record】Kobeissi reported U.S. household net worth rose $12.5 trillion in Q2 2026 to a record $185.7 trillion, the largest single-quarter increase on record. Net worth has increased for 11 consecutive quarters, up $43.4 trillion over that span and up $83.9 trillion since the COVID shock. The net worth-to-GDP ratio jumped 20 percentage points to 571%, just shy of the 574% peak in Q3 2021. Kobeissi said asset holders have been the primary beneficiaries and warned those without assets risk being left behind."
+    },
     {
       "id": "5091705",
       "time": "2026-09-14 01:49:08",
