@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13 09:16:33",
-  "count": 13503,
+  "updated": "2026-09-13 09:20:19",
+  "count": 13501,
   "items": [
+    {
+      "id": "5091143",
+      "time": "2026-09-13 09:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國實現一體化算力統籌監測】記者從工業和資訊化部瞭解到，中國算力平臺已實現全國一體化算力統籌監測，我國算力“一張網、一盤棋、一體化”發展格局基本形成。中國算力平臺是國家級綜合性算力服務平臺，目前已經匯聚了超萬家註冊企業使用者，上架2000多項優質算力產品，接入各類大模型超300個，為廣大開發者提供算力呼叫服務，累計沉澱數十億條算力監測大資料。中國資訊通訊研究院總工程師何寶宏表示，平臺有序推動了全國31個省區市對接入網，建成統一規範、協同高效的監測體系，實現全國算力底數可摸清、態勢可感知、執行可監測，推動算力建設向集約高效、全域協同升級。（央視新聞）"
+    },
     {
       "id": "mkt:01a09854-06a7-7118-8559-1f45b54d27bb",
       "time": "2026-09-13 09:13:58",
@@ -123909,40 +123917,6 @@
         "其他"
       ],
       "text": "【西安口岸暑期出入境人員37.6萬人次】從陝西出入境邊防檢查總站（以下簡稱“陝西邊檢總站”）瞭解到，2026年暑期，西安口岸累計查驗出入境人員37.6萬人次，航班2400餘架次。其中，出入境外籍旅客8.3萬人次，同比增長13%；免簽入境外籍旅客2.9萬人次，同比增長18%。"
-    },
-    {
-      "id": "mkt:01a0744a-f4da-7118-84b5-adbb2e914247",
-      "time": "2026-09-06 09:17:44",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "White House official said U.S. and Russian officials discussed substantive next-step plans for negotiations on the Russia-Ukraine conflict, with related plans to be announced in the coming weeks."
-    },
-    {
-      "id": "5079048",
-      "time": "2026-09-06 09:17:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮官員：美俄官員已就俄烏和談下一步推進的實質性方案進行了討論，相關安排將於未來幾周公布。"
-    },
-    {
-      "id": "mkt:01a0744a-0e07-7118-84b5-a4e72e7f2ead",
-      "time": "2026-09-06 09:16:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Hunan backs owner‑led renovation of old housing with fiscal subsidies】Hunan province issued a joint notice from its housing, natural resources and finance departments permitting owner‑led renovation of eligible aged housing on state‑owned land in urban (including county) built‑up areas, effective immediately for five years. Funding principle is owner contributions primary, fiscal subsidies secondary and social capital complementary; eligible projects may apply for relevant policy funds, social capital participation is supported, and policy banks and commercial lenders are encouraged to provide compliant medium‑ to long‑term, low‑interest special loans. Owners in financial hardship with no other housing can be temporarily accommodated through allocation of affordable housing during construction."
     }
   ]
 }
