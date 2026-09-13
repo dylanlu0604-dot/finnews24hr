@@ -1,7 +1,61 @@
 {
   "date": "2026-09-14",
-  "count": 187,
+  "count": 193,
   "items": [
+    {
+      "id": "5091792",
+      "time": "2026-09-14 06:26:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：加拿大迫切希望達成協議。"
+    },
+    {
+      "id": "5091791",
+      "time": "2026-09-14 06:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大是最難打交道的國家。"
+    },
+    {
+      "id": "mkt:01a09ce0-fd14-7118-855f-ee332a62031c",
+      "time": "2026-09-14 06:26:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel says it will retain control of high ground in southern Lebanon】On the 13th (local time), Israeli Defense Minister Katz said the IDF will continue to hold the Aritashir high ground in southern Lebanon to prevent Hezbollah or any other force from returning and re-establishing positions. Katz said the position is part of what Israel describes as its 'security zone' in southern Lebanon and that Israeli forces will not withdraw or redeploy until Hezbollah is disarmed across Lebanon. He warned anyone approaching the position would be eliminated."
+    },
+    {
+      "id": "5091790",
+      "time": "2026-09-14 06:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列稱計劃維持對黎南部一處高地的控制】當地時間13日，以色列國防部長卡茨發表宣告稱，以國防軍計劃繼續控制位於黎巴嫩南部的阿里塔希爾高地，防止黎真主黨或其他任何一方返回並重新建立據點。卡茨表示，該高地仍是以色列在黎巴嫩南部設立的所謂“安全區”的一部分，在黎真主黨在黎巴嫩全境被解除武裝之前，以軍不會撤出或重新部署。卡茨聲稱，“任何接近該高地的人都將被消滅”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09cdf-576e-7118-855f-e2c58cf66b48",
+      "time": "2026-09-14 06:24:37",
+      "tags": [
+        "MKT News",
+        "DELL.N"
+      ],
+      "text": "Dell family office (DELL.N) nearing deal to take Baldwin Group private, Financial Times reports."
+    },
+    {
+      "id": "5091789",
+      "time": "2026-09-14 06:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已要求澤連斯基不要襲擊（俄）柴油煉油廠。"
+    },
     {
       "id": "5091788",
       "time": "2026-09-14 06:23:35",
