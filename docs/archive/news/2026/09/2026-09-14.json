@@ -1,7 +1,32 @@
 {
   "date": "2026-09-14",
-  "count": 128,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:01a09c94-3423-7118-855f-5249c094bd52",
+      "time": "2026-09-14 05:02:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reports confirmed explosions heard in the Sirik area of Hormozgan province, Iran; cause and source unclear."
+    },
+    {
+      "id": "5091749",
+      "time": "2026-09-14 05:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗錫裡克發生多起爆炸。"
+    },
+    {
+      "id": "5091748",
+      "time": "2026-09-14 05:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部稱，自恢復對往返伊朗船隻的封鎖以來，已有101艘船隻被要求改道。"
+    },
     {
       "id": "mkt:01a09c92-f0d7-7118-855f-4f849b542106",
       "time": "2026-09-14 05:01:10",
