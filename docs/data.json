@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-14 02:18:15",
-  "count": 13438,
+  "updated": "2026-09-14 02:22:04",
+  "count": 13439,
   "items": [
+    {
+      "id": "5091711",
+      "time": "2026-09-14 02:18:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受日本自民黨支援的古謝玄太當選沖繩縣知事】據日本廣播協會報道，在13日舉行的日本沖繩縣知事選舉中，受自民黨等政黨支援的沖繩首府那霸市前副市長古謝玄太確定當選。（新華社）"
+    },
+    {
+      "id": "mkt:01a09bfd-7db8-7118-855e-2aabe1f2bd61",
+      "time": "2026-09-14 02:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM commander said he is not concerned about ammunition shortfalls for responding to Iranian missile and drone attacks."
+    },
+    {
+      "id": "mkt:01a09bfd-7273-7118-855e-229ae3104cfe",
+      "time": "2026-09-14 02:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA, citing Yemen's Saba news agency, said Saudi Arabia continued military operations in Yemen, striking a market in Hubsha'af district in Al Jawf province in northern Yemen."
+    },
     {
       "id": "5091710",
       "time": "2026-09-14 02:17:30",
@@ -123397,25 +123421,6 @@
         "XAUUSD"
       ],
       "text": "US Energy Secretary Wright said a nuclear deal with Iran may be unattainable in the near term and the US still needs to take military action to counter threats from Tehran."
-    },
-    {
-      "id": "5079634",
-      "time": "2026-09-07 02:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【出口民調：極右翼德國選擇黨贏得東部薩安州選舉】德國東部薩克森-安哈爾特州（薩安州）6日舉行州議會選舉。當晚公佈的出口民調顯示，極右翼德國選擇黨（選擇黨）以44%至44.5%的得票率成為該州第一大黨。（新華社）"
-    },
-    {
-      "id": "mkt:01a077f1-d7bc-7118-84bb-5be3edcb7106",
-      "time": "2026-09-07 02:18:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Israel's finance minister said Prime Minister NETANYAHU has ordered the evacuation of certain settlement outposts in the West Bank."
     }
   ]
 }
