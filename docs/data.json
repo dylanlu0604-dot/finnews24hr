@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-13 09:12:42",
-  "count": 13506,
+  "updated": "2026-09-13 09:16:33",
+  "count": 13503,
   "items": [
+    {
+      "id": "mkt:01a09854-06a7-7118-8559-1f45b54d27bb",
+      "time": "2026-09-13 09:13:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Wall Street Journal reports Prime Minister Carney proposed making Canada the EU’s first \"quasi-member state.\" European and Canadian officials say Brussels is receptive; US officials are reported to be skeptical."
+    },
     {
       "id": "5091142",
       "time": "2026-09-13 09:12:05",
@@ -123934,40 +123943,6 @@
         "SSE Composite"
       ],
       "text": "【Hunan backs owner‑led renovation of old housing with fiscal subsidies】Hunan province issued a joint notice from its housing, natural resources and finance departments permitting owner‑led renovation of eligible aged housing on state‑owned land in urban (including county) built‑up areas, effective immediately for five years. Funding principle is owner contributions primary, fiscal subsidies secondary and social capital complementary; eligible projects may apply for relevant policy funds, social capital participation is supported, and policy banks and commercial lenders are encouraged to provide compliant medium‑ to long‑term, low‑interest special loans. Owners in financial hardship with no other housing can be temporarily accommodated through allocation of affordable housing during construction."
-    },
-    {
-      "id": "5079047",
-      "time": "2026-09-06 09:16:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國銀行的企業美元存款本月創歷史新高】行業週日公佈的資料顯示，隨著韓元兌美元匯率跌至近兩年低點，韓國各大銀行的企業美元存款本月創下歷史新高。 截至週四，韓國五大本土銀行美元存款餘額達769.8億美元，為2021年5月該統計口徑設立以來的最高值。 五大銀行分別為國民銀行、新韓銀行、韓亞銀行、友利銀行以及農協銀行。"
-    },
-    {
-      "id": "5079046",
-      "time": "2026-09-06 09:15:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞金至延安直達高鐵今日首發】今天（9月6日），江西瑞金至陝西延安間將首次開行直達高鐵。線路全長約1850公里，跨越贛、鄂、陝等地，執行時間約11小時32分，沿途連線瑞金、南昌、武漢、西安、延安等重要節點，串聯起沿線豐富的自然與人文文旅資源，在打通革命老區交通聯絡的同時，將地域文化、紅色記憶與旅途體驗相融合，讓旅客在出行途中便能感受沿線城市的歷史底蘊與發展活力。（央視新聞）"
-    },
-    {
-      "id": "5079045",
-      "time": "2026-09-06 09:14:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大學者：反制措施可打疼美國 對加國內影響有限】8月下旬美加貿易談判破裂，美國宣佈對數百項加拿大商品加徵50%關稅，加拿大則宣佈將對美國商品實施“等額、對等”反制。加拿大政府此前宣佈，對美國商品徵收等額報復性關稅的具體措施將於9月8日正式生效。加拿大經濟學者分析指出，加拿大政府本輪對美反制措施經過精心設計，在確保“打疼”美國的同時，對加拿大消費者的影響有限。（央視新聞）"
-    },
-    {
-      "id": "5079044",
-      "time": "2026-09-06 09:13:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤突破6.7美元，日內漲幅0.5%。"
     }
   ]
 }

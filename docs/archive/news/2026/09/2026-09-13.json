@@ -1,7 +1,16 @@
 {
   "date": "2026-09-13",
-  "count": 154,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:01a09854-06a7-7118-8559-1f45b54d27bb",
+      "time": "2026-09-13 09:13:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Wall Street Journal reports Prime Minister Carney proposed making Canada the EU’s first \"quasi-member state.\" European and Canadian officials say Brussels is receptive; US officials are reported to be skeptical."
+    },
     {
       "id": "5091142",
       "time": "2026-09-13 09:12:05",
