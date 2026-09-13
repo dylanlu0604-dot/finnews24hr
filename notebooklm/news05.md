@@ -1,7 +1,573 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-13 23:49:01_
-_本檔包含 2418 則快訊，約 543067 字_
+_更新時間：2026-09-14 02:44:51_
+_本檔包含 2397 則快訊，約 543056 字_
+
+---
+
+### 2026-09-08 09:38:45  #公司
+
+【震安科技等成立新公司，含新型金屬功能材料業務】企查查APP顯示，近日，東莞熱碼科技有限公司成立，經營範圍包含：金屬製品研發；有色金屬合金製造；有色金屬鑄造；有色金屬壓延加工；新型金屬功能材料銷售等。企查查股權穿透顯示，該公司由震安科技等共同持股。
+
+---
+
+### 2026-09-08 09:38:43  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
+
+【Sources: Over half of Samsung's 4nm capacity allocated to HBM4】Samsung Electronics plans to sharply increase HBM4 supply from Q3 and has boosted wafer starts for HBM4 since mid-year to support mass production. Sources say more than 50% of Samsung Foundry's 4nm (SF4) capacity was allocated to HBM4 as of last month.
+
+---
+
+### 2026-09-08 09:38:40  #國際
+
+日本財務大臣片山：將與美國密切溝通，以實現外匯市場有序執行。
+
+---
+
+### 2026-09-08 09:38:30  #國際
+
+英偉達支援的Firmus與OpenAI簽署馬來西亞資料中心容量協議。
+
+---
+
+### 2026-09-08 09:38:19  #國際
+
+日本財務大臣片山：自日美聯合干預以來，外匯立場未變。
+
+---
+
+### 2026-09-08 09:38:15  #MKT News #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+China A-share liquid-cooled server sector opened lower; Zhongshi Technology fell over 10%, with Haorsai, Gaolan, Kstar, Dayuan Pump and Jinfu Technology also trading down.
+
+---
+
+### 2026-09-08 09:38:14  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Stocks Trade Notably Lower — Australian shares slipped 55 points or 0.6% to 8,956 in early Tuesday trade, extending weakness from the prior muted session. Sentiment was pressured by a sharp fall in U.S. futures as Wall Street prepared for a shortened week against the backdrop of the Middle East war and rising trade frictions between Canada and the U.S. Locally, consumer confidence dropped in September for the first time since June, hit by higher fuel costs and renewed fears of further rate hikes. Traders also grew cautious ahead of China’s August trade data due later today. Losses were led by tech services, financials, retail, and transport, though gains in non-energy minerals and consumer durables helped cushion declines. The big four banks fell between 0.7% and 1.4%, while BHP Group (-0.6%), Fortescue (-1.6%), and Bluescope Steel (-5.5%) underperformed. In contrast, Greatland Resources rose 1.1% and AMP Ltd. added 0.6%.
+
+---
+
+### 2026-09-08 09:38:06  #公司 #市場
+
+【農化製品板塊短線拉昇，瀘天化漲停】農化製品板塊短線拉昇，瀘天化漲停，金正大、赤天化、利民股份、新安股份、六國化工跟漲。
+
+---
+
+### 2026-09-08 09:37:57  #其他
+
+片山：所有額外預算只可用於核心必要事項。
+
+---
+
+### 2026-09-08 09:37:50  #公司
+
+【天機智慧完成B++輪戰略融資，螞蟻集團、SOFINA聯合領投】9月8日，據高鵠資本訊息，近日，廣東天機智慧系統有限公司宣佈完成B++輪戰略融資。本輪融資由螞蟻集團、SOFINA（Sofina Asia Private Ltd.）聯合領投，高榕創投、騰訊等老股東繼續跟投，高鵠資本擔任獨家財務顧問。新一輪資金將主要投入技術研發、規模化量產及全球市場佈局，持續完善核心技術與產品平臺，提升面向全球客戶的交付和服務能力。
+
+---
+
+### 2026-09-08 09:37:31  #國際
+
+日本財務大臣片山：不對具體匯率水平置評。
+
+---
+
+### 2026-09-08 09:37:29  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama said she will not comment on specific FX levels.
+
+---
+
+### 2026-09-08 09:37:23  #其他
+
+【小米18 Fold開啟預售】9月8日，小米手機發文稱，小米18 Fold預售已開啟，9月10日正式開售，首發搭載玄戒O3。
+
+---
+
+### 2026-09-08 09:36:51  #市場
+
+PCB概念股再度拉昇，中京電子、興森科技2連板，迅捷興漲超10%，華正新材、超聲電子、崇達技術漲超6%。
+
+---
+
+### 2026-09-08 09:36:44  #國際
+
+片山：不可否認，日本直到現在都依賴額外預算。
+
+---
+
+### 2026-09-08 09:36:26  #其他
+
+【DeepSeek擴招約150人】DeepSeek正重點面向2-10年資深工程師，招聘約150人。崗位方向涵蓋服務端開發工程師、Agent 彈性計算研發工程師等。（科創板日報）
+
+---
+
+### 2026-09-08 09:36:17  #市場
+
+【摩爾執行緒跌超10%】摩爾執行緒開盤走低，跌超10%。
+
+---
+
+### 2026-09-08 09:36:09  #國際
+
+【外交部阿富汗事務特使嶽曉勇赴巴基斯坦和沙特磋商】2026年8月30日至9月5日，外交部阿富汗事務特使嶽曉勇赴巴基斯坦和沙特磋商，與兩國主管官員就共同關心的問題深入交換意見。
+
+---
+
+### 2026-09-08 09:36:06  #MKT News #USDJPY
+
+Japan's finance minister Katayama said he will engage fully with markets and the public to enhance the credibility of Japan's fiscal policy.
+
+---
+
+### 2026-09-08 09:35:52  #MKT News #Important
+
+China A-share cultural and media sector extended gains; CITIC Publishing jumped over 18%. China Publishing and Reader Media hit the daily limit-up; Longban Media, Qitian Technology and Fengyuzhu also advanced.
+
+---
+
+### 2026-09-08 09:35:32  #市場 #國際
+
+10年期日本國債<JP10YTN=JBTC>收益率下跌3.5個基點，至2.895%。
+
+---
+
+### 2026-09-08 09:35:30  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 10-year bond yield fell 3.5 bps to 2.895%.
+
+---
+
+### 2026-09-08 09:35:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share property sector briefly rallied; Wo Ai Wo Jia hit the daily limit-up. Shenwuye A, China Wuyi, Tefa Service, Zhonghua Enterprise and Zhongjiao Development also advanced.
+
+---
+
+### 2026-09-08 09:35:20  #MKT News #USDJPY #Impact bearish
+
+Japan's finance minister Katayama said she will properly control full-year new bond issuance.
+
+---
+
+### 2026-09-08 09:35:01  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share retail sector opened sharply higher; Baida Group posted its fourth consecutive limit-up and Zhongbai Group its second. Zhejiang Dongri climbed over 6%; Central Department Store, Guofang Group and Xiangjiang Holdings also advanced.
+
+---
+
+### 2026-09-08 09:34:49  #MKT News #USDJPY #Impact bullish #Nikkei 225 #DXY
+
+Japan's finance minister Katayama said she will step up efforts to secure funding to support cuts or exemptions of the consumption tax on food.
+
+---
+
+### 2026-09-08 09:34:42  #國際
+
+日本財務大臣片山皐月：將加大力度確保食品消費稅削減的資金來源。
+
+---
+
+### 2026-09-08 09:34:37  #國際
+
+日本財務大臣片山：不會依靠舉債來資助食品稅減免。
+
+---
+
+### 2026-09-08 09:34:13  #公司
+
+【訊息人士：三星超一半4nm產能被分配給HBM4晶片】三星電子計劃從今年第三季度開始大幅提升HBM4的供應量。為此，該公司自今年年中以來已大幅增加HBM4晶片的晶圓投入，以進行大規模量產。該晶片採用三星晶圓代工的4nm（SF4）工藝製造。據公司內部和外部訊息人士透露，截至上個月，三星電子4nm總產能的50%以上都分配給了HBM4晶片。 (zdnet)
+
+---
+
+### 2026-09-08 09:34:09  #公司 #市場
+
+【房地產板塊盤初強，我愛我家觸及漲停】房地產板塊盤初強，我愛我家觸及漲停，廣宇集團、深物業A、特發服務、國創高新、珠江股份、棲霞建設等跟漲。
+
+---
+
+### 2026-09-08 09:34:04  #市場
+
+【文化傳媒板塊走高，中信出版漲超18%】文化傳媒板塊走高，中信出版漲超18%，中國出版、讀者傳媒漲停，龍版傳媒、旗天科技、風語築跟漲。
+
+---
+
+### 2026-09-08 09:33:00  #市場 #焦點
+
+【A股其他農產品加工板塊異動拉昇】中糧科技、中糧糖業觸及漲停，保齡寶、歐福蛋業、一致魔芋、華資實業、永順泰跟漲。
+
+---
+
+### 2026-09-08 09:32:36  #公司
+
+【億華通等在廣西成立動力科技公司】企查查APP顯示，近日，廣西億華通動力科技有限公司成立，經營範圍包含：水上運輸裝置零配件銷售；水上運輸裝置零配件製造；船用配套裝置製造；船舶銷售等。企查查股權穿透顯示，該公司由億華通等共同持股。
+
+---
+
+### 2026-09-08 09:32:33  #其他
+
+【西渝高鐵全線控制性工程朱家山隧道貫通】今天（9月8日），陝西西安至重慶高速鐵路的全線控制性工程——朱家山隧道順利貫通。西渝高鐵是我國“八縱八橫”高鐵網的重要組成部分，正線全長739公里，設計時速350公里，全線預計2028年年底具備通車條件，通車後，重慶至西安由現在最快5小時左右縮短至2.5小時左右，極大便利沿線群眾出行。
+
+---
+
+### 2026-09-08 09:32:19  #公司 #市場
+
+【金屬銅概念表現活躍 精藝股份觸及漲停】金屬銅概念表現活躍，精藝股份觸及漲停，北方銅業、江西銅業、西部礦業、銅陵有色跟漲。
+
+---
+
+### 2026-09-08 09:32:07  #市場
+
+美元兌日元下跌0.6%，報153.410。
+
+---
+
+### 2026-09-08 09:31:35  #MKT News #Market Themes #AI Revolution
+
+Anthropic has reportedly abandoned its $6 billion bid to acquire Decart.
+
+---
+
+### 2026-09-08 09:31:30  #市場
+
+【印製電路板板塊短線拉昇，中京電子漲停】印製電路板板塊短線拉昇，中京電子漲停，本川智慧、迅捷興、滿坤科技、逸豪新材、一博科技等紛紛走高。
+
+---
+
+### 2026-09-08 09:30:55  #MKT News #Market Regions #Greater China
+
+CSI Convertible Bond Index opened 0.09% higher. Hejin Convertible Bond, Haomei Convertible Bond, Zyi Convertible Bond 2, Jushen Convertible Bond and Jincheng Convertible Bond led gains, up 5.50%, 2.86%, 1.81%, 1.72% and 1.62% respectively. Wanxun Convertible Bond, Tianmai Convertible Bond, Daotong Convertible Bond, Outong Convertible Bond and Dazhong Convertible Bond led losses, down 2.40%, 1.34%, 1.29%, 1.20% and 0.99% respectively.
+
+---
+
+### 2026-09-08 09:30:53  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan plans to issue ¥2.5 trillion of 5-year government bonds with a 2.2% coupon.
+
+---
+
+### 2026-09-08 09:30:36  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+Japan's Ministry of Finance will auction 700 billion yen of 20-year government bonds on Sept. 15.
+
+---
+
+### 2026-09-08 09:30:16  #市場
+
+中證轉債指數開盤上漲0.09%。合金轉債、豪美轉債、Z逸轉2、炬申轉債、金誠轉債漲幅居前，分別漲5.50%、2.86%、1.81%、1.72%、1.62%。萬訊轉債、天脈轉債、道通轉債、歐通轉債、大中轉債跌幅居前，分別跌2.40%、1.34%、1.29%、1.20%、0.99%。
+
+---
+
+### 2026-09-08 09:30:14  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+A-share planting and forestry sector opened sharply higher in the opening auction; Zhongbai Group recorded a second consecutive daily limit-up. COFCO Sugar and Dunhuang Seed opened up more than 9%; Hainan Rubber, Wanxiang Denong, Pingtan Development and Xinsai Co. also advanced.
+
+---
+
+### 2026-09-08 09:30:11  #資料
+
+澳大利亞8月NAB商業信心指數 -8，前值-6。澳大利亞8月NAB商業景氣指數 -1，前值4。
+
+---
+
+### 2026-09-08 09:30:08  #MKT News
+
+Australia August NAB business conditions index -1, previous 4.
+
+---
+
+### 2026-09-08 09:30:06  #MKT News
+
+Australia August NAB business confidence index -8, prior -6.
+
+---
+
+### 2026-09-08 09:30:04  #市場
+
+【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
+
+---
+
+### 2026-09-08 09:30:04  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.21%， 滬深300指數期貨連續跌0.07%， 中證500指數期貨連續漲0.12%， 上證50指數期貨連續漲0.10%。
+
+---
+
+### 2026-09-08 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | NAB Business conditions Index (Aug) | actual -1 | previous 4
+
+---
+
+### 2026-09-08 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | NAB Business Confidence Index (Aug) | actual -8 | previous -6
+
+---
+
+### 2026-09-08 09:29:54  #MKT News
+
+【DBS: Miniso core profit may be hit by slower overseas growth and margin dilution from direct stores】DBS Group Research says Miniso’s 2026-27 core profit could be pressured by slower-than-expected overseas sales growth and larger-than-expected margin dilution as the company shifts to directly operated stores. Miniso’s latest guidance is more cautious and reflects a European restructuring that will close about 100-110 underperforming distributor-run stores. Analysts cut 2026-27 core profit forecasts by 23-32%; profitability may remain weighed down by the overseas direct-store transition and rising selling expenses. DBS lowers its ADR target from $20 to $12 but maintains a buy rating, noting market concern over margins may already be reflected in the share price.
+
+---
+
+### 2026-09-08 09:28:24  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+A-share sugar-substitute concept stocks surged in the opening auction. Hongmian and Yasheng Group opened at the daily limit; Sanyuan Bio, Huazi Industrial and Baolingbao opened more than 6% higher; Huakang and Bailong Chuangyuan also advanced.
+
+---
+
+### 2026-09-08 09:28:00  #公司 #市場
+
+【農產品加工板塊高開，播恩集團3連板】農產品加工板塊高開，播恩集團3連板，中糧糖業、道道全、華資實業、保齡寶、金健米業跟漲。
+
+---
+
+### 2026-09-08 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
+
+At the open on Tuesday Sep 8, China's Shanghai Composite rose 0.07% to 3,935.55; Shenzhen Composite rose 0.06% to 13,782.86; CSI 300 index rose 0.02% to 4,575.99; ChiNext fell 0.13% to 3,394.35; STAR 50 fell 0.08% to 1,614.19.
+
+---
+
+### 2026-09-08 09:27:09  #公司 #市場
+
+【種植業與林業板塊高開，亞盛集團4連板】種植業與林業板塊高開，亞盛集團4連板，敦煌種業、海南橡膠、萬向德農、平潭發展、新賽股份跟漲。
+
+---
+
+### 2026-09-08 09:26:58  #MKT News #CNH #Impact bullish
+
+【Liquidity gauge: market rates ease】Sept. 8 morning DR007 fell to 1.3719%. The PBOC conducted a 1 bln yuan 7‑day reverse repo, fully meeting primary dealers' demand. DR007 is a short-term money-market rate and is treated as China’s short‑end rate anchor; the spread between DR007 and the PBOC 7‑day reverse‑repo (policy) rate signals funding tightness—DR007 materially above the policy rate implies money‑market stress and may prompt PBOC liquidity injection, while DR007 at or below the policy rate indicates ample funding.
+
+---
+
+### 2026-09-08 09:26:50  #其他
+
+【8月FF EAI機器人本體銷售及出貨量達158臺】據Faraday Future訊息，8月FF EAI機器人本體銷售及出貨量再創單月新高，達到158臺。自2月啟動交付以來，截至8月底，機器人累計銷售及出貨量已達到552臺。
+
+---
+
+### 2026-09-08 09:25:41  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #Impact mixed
+
+China A-shares opened: Shanghai Composite up 0.07%, Shenzhen Composite Index up 0.06%, ChiNext Index down 0.13%.
+
+---
+
+### 2026-09-08 09:25:30  #焦點 #A股
+
+三大股指開盤漲跌不一，滬指漲0.07％，深成指漲0.06％，創業板跌0.13％。
+
+---
+
+### 2026-09-08 09:25:23  #其他
+
+Anthropic據悉將放棄對DeCart價值60億美元的收購。
+
+---
+
+### 2026-09-08 09:25:06  #市場 #國際
+
+日本30年期國債收益率下跌5個基點至3.970%。
+
+---
+
+### 2026-09-08 09:24:20  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver climbed above $67/oz, gaining 1.29% on the day.
+
+---
+
+### 2026-09-08 09:23:37  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.08%。
+
+---
+
+### 2026-09-08 09:22:51  #國際
+
+【陸慷會見加拿大議會加中議會協會代表團】9月7日，中共中央對外聯絡部副部長陸慷在北京會見加拿大議會加中議會協會共同主席羅耶、吉尼亞克率領的加中議會協會代表團。陸慷介紹了“十五五”規劃有關內容，並強調，在中加兩國領導人戰略引領下，中加關係轉圜向好，受到兩國各界普遍歡迎。中方願與加方共同落實好兩國領導人重要共識，拓展各領域務實合作和人文交流，積極推動構建中加新型戰略伙伴關係。中聯部願與加中議會協會和加議會各政黨開展更多交流對話，增進中加相互理解和信任。加方表示，今年1月卡尼總理成功訪華後，兩國各領域交流合作取得積極進展。加方願同中方進一步加強對華經貿合作和人文交流，攜手應對氣候變化、人工智慧等全球性挑戰，共同維護多邊主義的國際秩序。加方並對中國西藏吉隆遭受泥石流災害表達慰問。
+
+---
+
+### 2026-09-08 09:22:23  #MKT News #USDJPY #Impact bearish
+
+Japanese 20-year government bond yield fell 4 bps to 3.705%.
+
+---
+
+### 2026-09-08 09:22:10  #公司
+
+【匯創達：CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨】匯創達(300909)9月8日在互動平臺表示，公司CCS模組業務上半年保持增長態勢，相關財務資料已體現在半年報中。目前CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨，訂單情況受客戶排產節奏影響存在階段性波動。
+
+---
+
+### 2026-09-08 09:22:08  #市場
+
+江波龍電子港股上市首日開盤報236港元，與招股價持平。
+
+---
+
+### 2026-09-08 09:21:57  #央行 #中國央行
+
+央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-09-08 09:21:47  #焦點
+
+港股恒指低開跌0.63％，國企指數跌0.72％，恒生科技指數跌0.56%。
+
+---
+
+### 2026-09-08 09:21:47  #MKT News #Important #Market Regions #Greater China #09901.HK #Impact bullish #03993.HK #00688.HK #Impact bearish
+
+Hong Kong open: Hang Seng Index down 0.63%, Hang Seng Tech Index down 0.56%. New Oriental (09901.HK) and China Molybdenum (03993.HK) up over 2%; China Overseas Development (00688.HK) down more than 2%.
+
+---
+
+### 2026-09-08 09:21:19  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hong Kong's HSI opened down 161.05 points (-0.63%) at 25,252.07 on Tuesday, Sept. 8; Hang Seng TECH opened down 25.18 points (-0.56%) at 4,502.53; HSCEI opened down 60.92 points (-0.72%) at 8,368.81; Hang Seng Red Chip Index opened down 4.53 points (-0.11%) at 4,171.92.
+
+---
+
+### 2026-09-08 09:20:42  #市場 #國際
+
+20年期日本國債收益率<JP20YTN=JBTC>下跌4.0個基點，至3.705%。
+
+---
+
+### 2026-09-08 09:20:35  #央行 #其他
+
+央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-09-08 09:20:34  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+PBOC conducted a 7-day reverse repo today for 10 billion yuan; bids totaled 10 billion yuan and allotment was 10 billion yuan at a 1.40% rate, unchanged.
+
+---
+
+### 2026-09-08 09:20:15  #公司 #觀點
+
+【蜜雪冰城、瑞幸供應商唯可鮮啟動北交所IPO輔導】證監會網站披露，山東唯可鮮食品集團股份有限公司於2026年9月7日在山東證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為國金證券。
+
+---
+
+### 2026-09-08 09:19:22  #Trading Economics #Economy #Australia #Consumer Confidence MoM #Importance 2
+
+Australia Consumer Sentiment Sinks in September — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index plunged 5.2% mom to 84.4 in September 2026, reversing a 6.0% rise the prior month and marking its first decline since June, as higher fuel prices and concerns over further rate hikes weighed on confidence. Views of household finances weakened sharply, with assessments of finances over the past year tumbling 9.2% to 72.6, while expectations for the next 12 months slipped 3.8% to 94.5. Economic sentiment deteriorated, with the one-year outlook down 4.0% to 79.5 and the five-year measure declining 4.5% to 85.8. The gauge of whether it was a good time to buy major household items dropped 4.8% to 89.3, while unemployment expectations rose 2.8% to 139.4. Westpac economist Matthew Hassan said the strong July CPI reading increases the likelihood of a future rate hike, but the RBA is unlikely to act on a single monthly inflation reading given the series’ volatility, with the next CPI update due a day after the policy meeting.
+
+---
+
+### 2026-09-08 09:18:14  #MKT News
+
+【Trump Tuesday schedule (Beijing time)】Beijing time (UTC+8): Sep 8 20:00 — White House, handling administrative affairs; 22:35 — South Lawn, attending "American Steel" event; Sep 9 01:00 — Oval Office, sign an executive order; 02:00, 03:00, 05:00 — Oval Office policy meetings.
+
+---
+
+### 2026-09-08 09:17:05  #MKT News #Market Regions #SSE Composite #Impact bullish #CSI300
+
+【CITIC Securities: Beijing Stock Exchange in base-building phase, awaiting incremental catalysts】CITIC Securities says the Beijing Stock Exchange (BSE) is in a base-building phase awaiting incremental inflows. Valuation and sentiment bottoms were reconfirmed in a late‑August retest and Sept. 2 volume validated willingness of new capital to enter. H1 double‑digit growth and a sharp rise in contract liabilities provide fundamental support; buybacks, accelerated stake purchases and stronger demand for recent listings are improving capital structure. Further upside depends on three catalysts: rollout of index products (BSE 50 ETF and three‑month lock‑up thematic funds) with turnover sustained above CNY20 bln; potential policy measures around the BSE’s fifth anniversary on Nov. 15; and broader confirmation that secondary-market support for recent listings is durable, which would reinforce primary IPO demand and secondary performance. Tactical guidance: favor cyclical growth and valuation-repair themes, buy on dips and scale in while tracking volume and policy signals for opportunistic adds.
+
+---
+
+### 2026-09-08 09:16:16  #MKT News #Important #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.42% at 25,240, trading at a 189-point discount to the spot index.
+
+---
+
+### 2026-09-08 09:15:30  #市場
+
+【人民幣兌美元中間價報6.7804，較上日調低9點】人民幣兌美元中間價報6.7804，較上日調低9點。
+
+---
+
+### 2026-09-08 09:15:26  #市場 #國際
+
+【德意志銀行：挪威主權財富基金擬調整配置策略 料大舉增持日本國債】德意志銀行認為，挪威規模達2.2萬億美元的主權財富基金提議調整投資策略，可能導致其對日本國債的配置大幅增加。“雖然涉及的金額相對於全球固定收益市場的規模較小，但我們認為，作為全球規模最大、最成功的主權財富基金之一，其投資策略變化有力地表明，當前全球資本流動和投資組合配置正在發生緩慢但持續的轉變，”Shreyas Gopal和George Saravelos在報告中寫道。挪威承認主權債務不再是無風險資產；並正在將其美國固定收益資產配置從美債轉向非主權固定收益資產。挪威主權財富基金也正在大幅轉向日本國債，從而“承認其市場規模龐大，並降低債務佔GDP比重作為市場配置指標的重要性”。這種配置上的傾斜意味著受益最大的國家和貨幣是日元。
+
+---
+
+### 2026-09-08 09:15:18  #市場
+
+人民幣兌美元中間價報6.7804元。
+
+---
+
+### 2026-09-08 09:15:03  #市場
+
+恒指期貨日盤開盤跌0.37%，報25242.91點，低水170.21點。
+
+---
+
+### 2026-09-08 09:14:55  #Trading Economics #Economy #Philippines #Unemployment Rate #Importance 1
+
+Philippines Jobless Rate Jumps to 4-Year High — The unemployment rate in the Philippines climbed to 6% in July 2026 from 4.9% in the previous month, marking its highest level since June 2022. The number of unemployed individuals rose to 3.14 million, up from 2.59 million in June. Meanwhile, the underemployment rate, a key indicator of job quality, increased to a three-month high of 12.9% from 12.1%, with 6.33 million workers seeking additional hours or another job. The employment rate fell to 94% from 95.1%, as the number of employed persons declined to 49.21 million from 50.66 million. The services sector remained the country's largest employer, accounting for 62.8% of total employment, followed by agriculture at 19.7% and industry at 17.5%. Wage and salary workers accounted for 66.1% of total employment, with the majority employed by private establishments (78.3%). Average weekly working hours remained unchanged at 40.6 hours.
+
+---
+
+### 2026-09-08 09:14:11  #MKT News #Market Regions #Greater China
+
+【Beijing–Tianjin–Hebei consumer groups: 10 airlines, 5 online ticketing platforms complete overbooking rectification】Consumer associations in Beijing, Tianjin and Hebei said 10 airlines and five online ticketing platforms that had been summoned for talks completed ticket overbooking rectification on schedule by Aug 31. They reported that defects in overbooking rule disclosure, on‑site handling, compensation arrangements and complaint mechanisms have been addressed; consumers should now see clear overbooking rules at purchase and have defined on‑site handling and compensation guarantees if overbooked.
+
+---
+
+### 2026-09-08 09:14:07  #公司 #市場
+
+【京津冀三地消協組織通報：10家航空公司、5家線上售票平臺完成機票超售整改】近日，京津冀三地消協組織釋出機票超售整改通報稱，截至8月31日，此前被約談的10家航空公司及5家線上售票平臺已全部按期完成機票超售整改，超售規則告知、現場處置、賠付安置及投訴機制等環節的突出問題已得到針對性解決，消費者購票時即可清晰瞭解超售規則，遭遇機票超售時也有明確的處置與賠償保障。此前調查發現，機票超售領域存在風險提示文字過小、位置隱蔽、補償標準不明晰等問題。7月24日，京津冀三地消協組織聯合約談中國國際航空、中國南方航空、中國東方航空、海南航空、廈門航空、天津航空、四川航空、吉祥航空、春秋航空、河北航空等10家航空公司，以及同程、攜程、飛豬、去哪兒、美團等5家線上售票平臺，要求8月31日前完成整改。
+
+---
+
+### 2026-09-08 09:13:34  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Kyiv mayor Klitschko said Russia struck Kyiv with ballistic missiles.
+
+---
+
+### 2026-09-08 09:13:26  #國際
+
+基輔市長稱：俄羅斯用彈道導彈襲擊烏克蘭基輔。
+
+---
+
+### 2026-09-08 09:13:25  #MKT News
+
+【Foreign passenger traffic from APEC economies via Shenzhen airport tops 1.008 mln YTD】Through Sept 6, foreign arrivals and departures at Shenzhen airport from APEC member economies exceeded 1.008 mln person-visits year-to-date, up 31.1% YoY; the million mark was reached 65 days earlier than last year, a record for the period.
+
+---
+
+### 2026-09-08 09:13:20  #市場 #焦點
+
+現貨黃金突破4430美元/盎司，日內漲0.55%。
+
+---
+
+### 2026-09-08 09:12:40  #國際
+
+【烏克蘭首都基輔再次響起強烈爆炸聲】當地時間8日凌晨3時41分，烏克蘭首都基輔市再次響起多次強烈爆炸聲。烏克蘭空軍3時40分至42分在社交媒體釋出多條預警資訊稱，俄軍多枚彈道導彈正在向基輔市方向飛來。當天凌晨3時30分至33分，基輔市傳出兩輪密集的爆炸聲。
+
+---
+
+### 2026-09-08 09:12:08  #市場
+
+臺幣兌美元升破31.5，觸及6月初以來盤中最強水準。
+
+---
+
+### 2026-09-08 09:11:39  #MKT News #CSI300 #Impact bullish #Copper
+
+【First-tier Chinese cities record six straight monthly residential rent increases; popular Shanghai listings move quickly】China Index Academy data show average residential rents in China's first-tier cities have risen MoM for six consecutive months since March. In Shanghai, rents rose across districts in August, led by Jinshan, Minhang, Putuo, Pudong New Area and Xuhui; average residential rent was 84.39 yuan/sq m/month in August, up 0.61% MoM and 1.25% YoY. Shenzhen also posted a sixth straight MoM increase: August average rent 83.05 yuan/sq m/month, up 0.27% MoM but down 0.11% YoY. Districts with MoM gains in Shenzhen included Guangming, Bao'an, Nanshan, Futian and Longgang; only Guangming, Bao'an and Futian showed YoY growth.
+
+---
+
+### 2026-09-08 09:11:17  #市場
+
+【飛天茅臺、精品茅臺逆勢小漲 五糧液普五八代、國窖1573回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月8日中國白酒業11大單品的終端零售均價三漲七跌一平，下跌品種顯著佔優，跌幅也明顯領先。贏家漲幅均微弱，飛天茅臺上漲1元至1791元，前期三連跌後價盤企穩；精品茅臺小漲1元至2459元，二連陽價格延續溫和修復；青花汾20上漲1元至391元，二連漲重上390元關口。下跌方面，五糧液普五八代下跌6元至814元，三連漲告終；國窖1573下跌6元至880元，M型震盪後破位下行，價格再度回探至進入9月以來低點；洋河夢之藍M6+下跌5元至609元，自30天高位回撥已連續三天收陰；古井貢古20下跌4元至529元，三連跌繼續走弱，價格進一步下探9月以來最低點；習酒君品下跌3元至638元，前期衝高後持續下滑，迄今也是三連跌；青花郎下跌3元至686元，短線回撥幅度繼續擴大，價盤進一步遠離690元關口；水晶劍南春下跌2元至409元，二連陽後小幅回落。持平方面，五糧液1618終端零售均價維持在830元，前一日收復整十關口後價盤暫時趨穩。
+
+今日11大單品的終端零售總價繼續回落，高階與次高階酒品多數走弱，且賣盤量能有所擴大。如果11大單品各取一瓶整體打包售賣，今日總售價為10036元，較昨日大幅下跌26元，創下8天以來新低。總價在9月5日創下階段性高點後已連續三日回落，但目前仍固守在萬元整數關口上方。
 
 ---
 
@@ -13920,695 +14486,5 @@ Iran’s Supreme National Security Council secretary said the Strait of Hormuz i
 ### 2026-09-07 02:45:06  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 Iranian state media reported Iran's top security official said a restricted zone outside the Strait of Hormuz will be announced in the coming days. The zone will begin at the US Navy blockade line and extend into the Gulf region. Any vessel entering the new zone will be added to a sanctions list.
-
----
-
-### 2026-09-07 02:41:23  #國際
-
-【賴特：美國或許無法同伊朗達成核協議】美國能源部長賴特週日在節目中表示，經過數月軍事衝突之後，即便特朗普總統一直謀求與伊朗締結核協議，但這份協議或許最終難以落地。當被問及是否有望達成核協議時，賴特稱：“有可能無法達成核協議。或許只能直接摧毀伊朗的核能力。核協議或許要等到伊朗下一屆政府上臺之後才有可能，現在我們完全無法預判。”被問到如果拿不到協議，美國打算如何阻止伊朗獲取核武器，賴特表示，美國已經透過轟炸行動重創了伊朗製造核武器的能力。
-
----
-
-### 2026-09-07 02:37:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. energy secretary says Iran nuclear deal may not be reached in near term】ABC News: U.S. Energy Secretary Wright said on Sunday a nuclear deal with Iran may not be achievable in the near term and the U.S. may need to take military action to address threats from Tehran. Wright said, There may not be a nuclear deal, and it may come down to destroying their ability to carry out a nuclear program. He added a deal might have to wait until Iran’s next government takes office and that the timing is uncertain.
-
----
-
-### 2026-09-07 02:36:26  #國際
-
-以色列部隊在橄欖收穫季來臨前，毀壞了約旦河西岸被佔領土瓦迪達烏克附近的橄欖樹。
-
----
-
-### 2026-09-07 02:33:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Energy Secretary Wright said a nuclear deal with Iran may be unattainable in the near term and the US still needs to take military action to counter threats from Tehran.
-
----
-
-### 2026-09-07 02:20:07  #其他
-
-【出口民調：極右翼德國選擇黨贏得東部薩安州選舉】德國東部薩克森-安哈爾特州（薩安州）6日舉行州議會選舉。當晚公佈的出口民調顯示，極右翼德國選擇黨（選擇黨）以44%至44.5%的得票率成為該州第一大黨。（新華社）
-
----
-
-### 2026-09-07 02:18:53  #MKT News #XAUUSD #Impact bullish #DXY
-
-Israel's finance minister said Prime Minister NETANYAHU has ordered the evacuation of certain settlement outposts in the West Bank.
-
----
-
-### 2026-09-07 02:18:06  #MKT News #Important
-
-CENTCOM spokesman Tim Hawkins told AP that earlier reports claiming Iran struck a U.S. unmanned vessel in the Strait of Hormuz were "completely false".
-
----
-
-### 2026-09-07 02:16:47  #國際
-
-以色列總理內塔尼亞胡已下令撤離約旦河西岸部分定居點前哨據點。
-
----
-
-### 2026-09-07 02:12:11  #國際
-
-【黎方稱以軍襲擊黎南部 致3人死亡】當地時間6日，黎巴嫩公共衛生部緊急行動中心發表宣告稱，當日，以色列國防軍使用無人機襲擊了黎南部納巴蒂耶地區的一個停車場，造成3人遇難。以色列方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-09-07 02:12:01  #MKT News
-
-【Trump administration again appeals to Supreme Court over mail‑in ballot restrictions】The Trump administration on Sunday asked the U.S. Supreme Court to intervene after a federal judge blocked new limits on mail‑in ballots ahead of the midterms. U.S. District Judge Indira Talwani extended an injunction barring the Postal Service from implementing an executive order by Trump affecting the November election. States have already begun sending ballots, leaving little time to change rules. This is the administration's third request to the high court; the Supreme Court has allowed the administration's plan to proceed but has not ruled on its legality. About one‑third of U.S. voters cast ballots by mail, so the dispute could materially affect control of Congress.
-
----
-
-### 2026-09-07 02:11:59  #國際
-
-美方否認伊朗關於其在霍爾木茲海峽擊中一艘美軍無人艦艇的說法，稱該報道完全是謊言。
-
----
-
-### 2026-09-07 02:11:18  #國際
-
-【A股縮量整理或臨近尾聲 機構看好9月中下旬行情】A股市場延續震盪整理格局。中東地緣政治擾動再起、10年期美債收益率上揚，對科技板塊形成壓制，風格再平衡仍是市場的主要特徵。券商策略展望報告認為，總體而言，海外市場系統性風險可控，但美債收益率波動與加息預期的反覆博弈，或對全球股市風險偏好形成擾動，成為短期波動的主要原因。但是，隨著半年報驗證A股企業盈利持續向好、科技板塊擁擠度逐步消化，市場底部支撐正不斷增強，A股市場進一步下行空間有限。展望後市，9月中下旬或成為反彈的重要時間視窗。
-
----
-
-### 2026-09-07 02:06:11  #國際
-
-美國特使庫什納談及加沙：加沙的狀況已經糟糕了極長的時間。這片地方基本上是非政府組織與武裝勢力搭建起來的，長期以來都是一個反烏托邦式的區域。
-
----
-
-### 2026-09-07 02:04:42  #國際
-
-特朗普在社交平臺釋出一張圖片，將伊朗地圖變成自己的頭像。
-
----
-
-### 2026-09-07 02:02:06  #國際
-
-特朗普：月球屬於我們。
-
----
-
-### 2026-09-07 01:58:16  #國際
-
-烏克蘭總統澤連斯基：感謝美國總統代表威特科夫與庫什納到訪基輔。我們已經開展多輪良好會談，今日還將繼續磋商。最重要的是為烏克蘭爭取一份體面、可靠且持久的和平。
-
----
-
-### 2026-09-07 01:54:13  #國際
-
-烏克蘭總統澤連斯基：烏克蘭本國反導系統將於不久後投入使用。美方明年將提升愛國者反導導彈的產量。我們期盼衝突能夠結束（但願如此），但即便戰事結束，我們依舊需要這類武器。
-
----
-
-### 2026-09-07 01:53:12  #國際
-
-特朗普釋出一張地圖，將新墨西哥州標註為“新美國”。
-
----
-
-### 2026-09-07 01:47:33  #MKT News
-
-U.S. special envoy Witkoff said the U.S. has made roughly eight visits to Moscow, met with Putin and his team, and was treated respectfully. He said building relationships is essential to resolving such conflicts; without ties to both parties, the odds of a peaceful settlement are slim.
-
----
-
-### 2026-09-07 01:45:48  #國際
-
-美國特使威特科夫：已經八次前往莫斯科會晤普京及其團隊，對方一直給予我們禮遇。
-
----
-
-### 2026-09-07 01:45:44  #MKT News
-
-ZELENSKIY said without a strong battlefield posture and a solid Ukrainian position there would be nothing but an "ultimatum", but diplomatic options are now viable.
-
----
-
-### 2026-09-07 01:45:16  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Ukraine's President Zelenskiy said he believed Ukraine had become stronger over the past year, that its forces had performed exceptionally and that this had opened opportunities for diplomacy.
-
----
-
-### 2026-09-07 01:45:06  #國際
-
-美國特使威特科夫：對於解決此類衝突而言，各方關係至關重要。如果無法同衝突雙方建立溝通關係，那麼實現和平解決的可能性微乎其微。
-
----
-
-### 2026-09-07 01:43:35  #國際
-
-烏克蘭總統澤連斯基：如果戰場沒有強勢姿態，烏克蘭不具備有力地位，迎來的只會是最後通牒，但如今外交途徑具備可行性。
-
----
-
-### 2026-09-07 01:39:21  #國際
-
-【俄羅斯外長拉夫羅夫發出警告 稱德國正走向對俄宣戰】俄羅斯外交部長謝爾蓋·拉夫羅夫指責德國正走向與俄羅斯直接對抗，並批評柏林在萊比錫機場發生無人機事件後決定關閉部分外交機構。他說：“總體而言，從廣義上講，這有點像是一場真正戰爭的開始。”“我記得，在第二次世界大戰、偉大衛國戰爭爆發前，德國人也關閉了他們的外交使團，” 拉夫羅夫說，“他們又想要戰爭了。”
-
----
-
-### 2026-09-07 01:36:29  #MKT News
-
-Kushner said Putin has a different vision for Russia that could also be realized after the conflict ends.
-
----
-
-### 2026-09-07 01:34:45  #國際
-
-美國特使庫什納談及俄烏衝突：普京對他的國家有著不同的訴求，而這些訴求在衝突結束之後同樣能夠得以實現。
-
----
-
-### 2026-09-07 01:34:10  #MKT News #Brent #Impact bullish #DXY #XAUUSD
-
-Kushner said a new technocratic Palestinian government has been formed; it is neither the Palestinian Authority nor Hamas. He warned the government cannot be installed if armed factions remain. He added that realization is growing that Gaza's level of militarization exceeds prior understanding and that demilitarizing Gaza will not be easy.
-
----
-
-### 2026-09-07 01:30:54  #MKT News
-
-Israel Broadcasting Corporation reported that after destroying Ali Taher’s tunnel, Israeli forces will withdraw from the "yellow line" and garrison the "gray line," 2–4 km from the Israeli border.
-
----
-
-### 2026-09-07 01:27:58  #市場 #焦點
-
-奈飛暗盤漲超1%，現報79.2054美元。
-
----
-
-### 2026-09-07 01:27:50  #MKT News
-
-Kushner said he had delivered large quantities of aid to Gaza, that malnutrition there is now among the lowest in the world, and that a plan to rebuild Gaza is in place, though reconstruction will take time.
-
----
-
-### 2026-09-07 01:26:06  #MKT News
-
-Kushner said Trump has a record of accomplishing the impossible. He said the previous administration did not visit Russia; only the CIA director visited once.
-
----
-
-### 2026-09-07 01:23:33  #國際
-
-美國特使庫什納談及俄羅斯：特朗普素有完成不可能之事的履歷。上一屆政府並未出訪俄羅斯，僅由中情局局長進行過一次訪問。
-
----
-
-### 2026-09-07 01:20:47  #國際
-
-美國特使庫什納談及加沙：我們向加沙大量輸送援助物資，如今當地已躋身全球營養不良率最低的地區之列。我們有重建加沙的方案，這些事情需要時間。
-
----
-
-### 2026-09-07 01:20:03  #MKT News
-
-U.S. presidential envoy Witkoff said he first met Russian President Putin to ascertain his position, held pragmatic, in-depth talks, and relayed the discussions to Ukrainian President Zelensky; he said he is confident the matter can be properly resolved.
-
----
-
-### 2026-09-07 01:19:15  #國際
-
-美國特使庫什納談及加沙：將組建一個既不屬於巴勒斯坦民族權力機構、也不屬於哈馬斯的巴勒斯坦技術官僚新政府。如果武裝勢力存在，該政府就無法進駐。我們逐步瞭解到加沙軍事化的規模，其程度超乎想象，實現加沙非軍事化絕非易事。
-
----
-
-### 2026-09-07 01:18:53  #國際
-
-美國特使威特科夫：我們先會見了俄羅斯總統普京，需要摸清他的立場。我們與他開展了務實深入的會談，並將相關情況告知了澤連斯基。我們有信心此事能夠得到妥善解決。
-
----
-
-### 2026-09-07 01:15:16  #MKT News #DAX #Impact bearish #EURUSD #XAUUSD #Impact bullish
-
-【AfD posts large lead in Saxony‑Anhalt state election】Sept 6 — Exit poll in Saxony‑Anhalt state election shows Alternative for Germany (AfD) 44.5%, versus 20.8% in 2021; the CDU led by Merz falls to 18.5% from 37.1% in 2021. Initial seat projection for the 83‑seat state parliament gives AfD 39 seats, three short of an absolute majority. Other mainstream parties have ruled out joining an AfD‑led coalition, leaving AfD’s entry into the state government uncertain even if it becomes the largest party. AfD said it will seek cooperation with forces willing to implement its policies, stressing migration and domestic security as non‑negotiable priorities; leader Weidel said the party has a clear governing mandate and will engage with parties that share its policy positions.
-
----
-
-### 2026-09-07 01:11:13  #其他
-
-【德國薩安州選舉極右翼政黨大幅領先】9月6日，德國東部薩克森-安哈爾特州（薩安州）舉行州議會選舉。最新出口民調顯示，極右翼的德國選擇黨得票率44.5%，較2021年的20.8%大幅躍升。德國總理默茨所在的基民盟得票率從2021年的37.1%驟降至18.5%。這對自2002年以來一直執掌該州的基民盟而言是一次重挫。 首輪議席預測顯示，薩安州議會共83席，德國選擇黨預計將獲得39席，距離單獨執政所需的絕對多數席位還差3席。由於德國其他傳統主流政黨此前均已排除加入由德國選擇黨領導的執政聯盟的可能性，如果目前的議席格局最終得到確認，該黨即使成為州議會第一大黨，能否進入州政府仍存在較大不確定性。 德國選擇黨方面表示，將向“所有希望推行更好政策的有生力量”伸出合作之手，同時強調移民和國內安全等議題是不可談判的底線。該黨領導人魏德爾稱，該黨擁有“明確的執政授權”，將與任何能在政策立場上找到共識的理性政黨展開對話。 與基民盟聯合執政的社民黨聯合主席、德國副總理兼財長克林拜爾表示，薩安州選舉結果是對聯邦政府的一個警示，值得聯邦政府反思其政策。 本月，德國東北部的梅克倫堡-前波莫瑞州也將舉行地方選舉，德國選擇黨的民調支援率也位居第一。（CCTV國際時訊）
-
----
-
-### 2026-09-07 01:09:19  #MKT News
-
-Kushner said there are no permanent enemies and no permanent allies in the world.
-
----
-
-### 2026-09-07 01:08:43  #MKT News #Market Regions #Europe & UK
-
-【Zelenskiy: Russia-Ukraine war unlikely to end soon】Ukrainian President Zelenskiy met in Kyiv with a US envoy and Jared Kushner on Sunday; national security chiefs from the UK, France and Germany later joined. Zelenskiy said the US, Ukraine and European partners agreed to hold another meeting, timing and venue to be determined. The US envoy said there had been progress in Moscow and new proposals were brought to Kyiv; Zelenskiy declined to detail them but said discussions also covered a post-war prosperity plan. He said territorial issues, including Russian demands for more of eastern Donbas, should be resolved at leader level. Zelenskiy said Ukraine is prepared for the conflict to extend into another harsh winter and is seeking allied support in a package that includes air-defence reinforcements and energy supplies, notably US LNG.
-
----
-
-### 2026-09-07 01:05:19  #國際
-
-美國特使庫什納：世上沒有永恆的敵人，也沒有永恆的盟友。
-
----
-
-### 2026-09-07 01:01:02  #其他
-
-【江西遂川一地存在滑坡風險 169人已全部安全轉移】受連日持續強降雨影響，江西遂川縣大汾鎮和坪村有山體開裂，存在滑坡風險。為確保群眾生命安全，當地連夜對存在隱患的三個村民小組共計87戶169名群眾進行緊急轉移。（央視新聞）
-
----
-
-### 2026-09-07 00:57:27  #其他
-
-【寧夏釋出山洪災害藍色預警 多地釋出大霧橙色預警】據寧夏氣象部門訊息，6日20時至7日20時，全區陰有小到中雨（10～20毫米），靈武市東南部、利通區南部、紅寺堡區、鹽池縣、同心縣、海原縣、西吉縣有中到大雨（20～40毫米），其中鹽池縣、同心縣、紅寺堡區、海原縣、西吉縣的部分鄉鎮達50毫米以上，並伴有小時雨強10～30毫米的短時強降水。為此，寧夏回族自治區水利廳與寧夏回族自治區氣象局9月6日14時50分聯合釋出山洪災害氣象風險藍色預警（四級預警）。預計9月6日20時到7日20時，靈武市東南部、利通區南部、紅寺堡區、鹽池縣、同心縣、海原縣、西吉縣等地區可能發生山洪災害，請注意防範。（央視新聞）
-
----
-
-### 2026-09-07 00:57:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran warns of 'faster, fiercer, more painful' response to US strikes】Iran parliament speaker Ghalibaf said Iran will adopt a higher-intensity military posture in a war with the US, warning any infringement on Iranian interests or security will receive a “faster, fiercer, more painful” response. He reiterated that future retaliation would no longer be proportional. Ghalibaf acknowledged Iran is under severe economic pressure from US-led comprehensive sanctions and isolation, citing sharp exchange-rate swings, inflation, unemployment and market management as fundamental challenges that have hit livelihoods. He said Tehran must boost domestic production and use technology to design short-term and permanent solutions.
-
----
-
-### 2026-09-07 00:54:56  #MKT News
-
-【Yemen government forces, Houthi fighters clash; at least 117 killed】Clashes between Yemen government forces and Houthi fighters in Taiz and Hodeidah provinces entered a fourth day on the 6th, with medical sources saying at least 117 people have been killed. A senior medic attached to government troops on the western coastal front said 54 government soldiers have died since the fighting began on the 3rd and several more were wounded. Medical staff at a Houthi-controlled hospital in western Hodeidah reported 63 Houthi fatalities. Fighting remains active with no sign of abating.
-
----
-
-### 2026-09-07 00:52:22  #市場 #國際
-
-【俄外交部 ：高市要求俄拆除紀念碑的言論“荒謬且無視歷史”】俄羅斯外交部發言人扎哈羅娃6日回應日本首相高市早苗要求俄拆除戰勝軍國主義日本的紀念碑言論時說，這如同要求“不要颳風和太陽停止發光”一樣荒謬，不要把無視本國曆史的“病”傳染給其他國家。俄遠東哈巴羅夫斯克市4日為一座紀念戰勝軍國主義日本的紀念碑舉行揭幕儀式。該紀念碑是俄目前最大的紀念戰勝軍國主義日本的紀念碑，由俄羅斯軍事歷史學會與哈巴羅夫斯克邊疆區政府合作建成。紀念碑中央是一尊15米高的蘇聯士兵雕像，代表擊敗日本關東軍主力的蘇聯紅軍。士兵手持長槍，旁邊一座繪有菊花圖案的界碑被砸成兩半。扎哈羅娃6日表示：“我們的領土由先輩守護下來，我們的歷史基於事實，我們的記憶鐫刻在紀念碑上。”扎哈羅娃特別指出，日本方面無視本國曆史，別把這種“病”傳染給其他國家。俄國家杜馬（議會下院）議員奧列格·馬特維切夫稱，二戰是以日本無條件投降結束的，哈巴羅夫斯克的紀念碑正是為此設立，在這一大背景下，日方要求拆除這座紀念碑“很可笑”。俄羅斯軍事歷史學會副主席奧夫西延科表示，該紀念碑上被搗毀的菊花圖案，正是軍國主義日本的象徵，如此設計紀念碑是正確和符合史實的。 (央視新聞)
-
----
-
-### 2026-09-07 00:51:08  #MKT News
-
-【129 countries and regions to seek opportunities at 26th China investment and trade fair】The 26th China International Investment and Trade Fair will be held Sept. 8-11 in Xiamen, Fujian. The event has attracted participants from 129 countries and regions and 30 international organizations, with more than 1,200 government agencies and business delegations registered to attend.
-
----
-
-### 2026-09-07 00:50:20  #其他
-
-德國基民盟秘書長關於薩安州選舉表態：不與極右翼和極左翼合作。
-
----
-
-### 2026-09-07 00:48:57  #其他
-
-【129個國家和地區客商投洽會上尋商機】第二十六屆中國國際投資貿易洽談會將於9月8日至11日在福建廈門舉辦。本屆投洽會吸引了來自129個國家和地區、30個國際組織的1200多個政府官方機構、工商企業團組報名參會。（新華社）
-
----
-
-### 2026-09-07 00:48:19  #MKT News
-
-Kushner, Trump’s son-in-law, said he is working with Hamas to advance its disarmament and has reached agreement with Israel on the end state for a Gaza plan.
-
----
-
-### 2026-09-07 00:47:42  #其他
-
-英國海上貿易行動辦公室稱，過去48小時共有59艘船舶駛過霍爾木茲海峽。
-
----
-
-### 2026-09-07 00:47:26  #國際
-
-【Polymarket交易員：美伊近期外交會談可能性極低】鑑於美伊中東局勢近期升級，雙方已在霍爾木茲海峽針對油輪展開輪番報復性打擊，Polymarket平臺交易員目前預判美伊短期內不太可能舉行外交會晤；交易員評估，2026年9月30日前雙方舉行此類會談的機率為7%。
-
----
-
-### 2026-09-07 00:46:41  #MKT News
-
-UK Maritime Trade Operations said 59 vessels transited the Strait of Hormuz in the past 48 hours.
-
----
-
-### 2026-09-07 00:45:36  #其他
-
-德國社民黨聯合領導人就薩安州選舉結果表態：這是對聯邦政府發出的訊號。
-
----
-
-### 2026-09-07 00:43:45  #MKT News
-
-U.S. presidential envoy Witkoff said Russia and Ukraine should make concessions to end the war.
-
----
-
-### 2026-09-07 00:43:45  #其他
-
-德國社民黨聯合領導人就薩安州選舉表示：今晚是一個轉折點，許多人感到恐懼，這是一個令我感到悲傷的夜晚。
-
----
-
-### 2026-09-07 00:42:22  #MKT News
-
-Kushner said President Trump hopes to establish a framework for comprehensive, lasting peace, not merely to end the current war in Ukraine.
-
----
-
-### 2026-09-07 00:41:53  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Ukrainian President Zelenskiy said the land issue is the main obstacle and can only be resolved at the leadership level.
-
----
-
-### 2026-09-07 00:41:30  #其他 #焦點
-
-德國選擇黨聯合主席魏德爾：我們擁有明確的執政授權。
-
----
-
-### 2026-09-07 00:40:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. energy secretary says boosting supply, not export curbs, is path to lower fuel prices】U.S. Energy Secretary Wright said the Trump administration's priority is to increase crude and fuel supply rather than restrict U.S. oil exports. He said officials are considering measures to help consumers but currently favor maximizing output. Retail diesel hit a record high, with AAA reporting an average $5.90/gal on Saturday, and Wright called diesel supply "challenging", citing oil-shipping disruptions and reduced refining capacity from the war between Iran and Russia, plus drone strikes on Russian refineries and Moscow's diesel export ban.
-
----
-
-### 2026-09-07 00:37:42  #MKT News
-
-【Russian foreign ministry says Takaichi's call to remove victory monument 'absurd, ignores history'】Russian Foreign Ministry spokeswoman Zakharova on the 6th dismissed Japanese Prime Minister Takaichi Sanae's demand that Russia remove a monument commemorating the defeat of militarist Japan as 'absurd' and 'ignoring history', likening it to asking the wind not to blow or the sun to stop shining and saying the 'disease' of denying one's own history should not be spread to other countries.
-
----
-
-### 2026-09-07 00:37:24  #其他
-
-【江西遂川縣明坑村泥石流災害現場道路已搶通】總檯記者從中國安能第二工程局瞭解到，從遂川縣明坑村通往石下組泥石流災害現場的道路於9月6日23時搶通。中國安能第二工程局共投入35名搶險隊員，5臺挖機、1臺裝載機，連續作業15小時，搶通了明坑村到石下組泥石流災害核心現場600米被泥石流沖毀的道路。災害發生後，救援人員從明坑村到災害現場只能徒步進入，道路搶通後，將極大縮短人員、裝置進入災害現場進行搶險救援的時間，為後續的人員搜救工作打下堅實基礎。（央視新聞）
-
----
-
-### 2026-09-07 00:33:10  #MKT News #WTI #Impact bearish #Brent
-
-US Energy Secretary wright said the Trump administration is focused on boosting crude oil and fuel supplies, not on restricting U.S. oil exports.
-
----
-
-### 2026-09-07 00:31:37  #國際
-
-美國能源部長賴特：特朗普政府的工作重點是增加原油與成品油供應，而非限制美國石油出口。
-
----
-
-### 2026-09-07 00:30:14  #MKT News
-
-The co‑leader of Germany's Choice party said the party secured a historic victory in the Saxony‑Anhalt election today and has a clear mandate to govern. The co‑leader said the party will open talks with all parties and offer cooperation to any willing partner, but will not abandon its values to gain power.
-
----
-
-### 2026-09-07 00:29:56  #其他
-
-出口民調顯示，極右翼德國選擇黨在德國州選舉中支援率飆升。
-
----
-
-### 2026-09-07 00:27:12  #MKT News
-
-German poll shows far-right Alternative for Germany (AfD) at 44.5% support in Saxony-Anhalt state election.
-
----
-
-### 2026-09-07 00:23:51  #其他
-
-市場資訊：東京證交所退市數量將連續第三年創下新高。
-
----
-
-### 2026-09-07 00:20:51  #國際
-
-【烏克蘭結束與美特使第一階段會談 美方稱會談令人鼓舞】據烏克蘭國家通訊社6日報道，烏克蘭總統澤連斯基率領的談判團隊與美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團在基輔結束了第一階段會談。威特科夫在會後表示，此次會談“令人鼓舞”。當地時間17時許，雙方結束歷時3小時左右的第一階段會談。據外媒報道，威特科夫在會談後說，此次會談“務實、很重要，我們感到非常鼓舞”，他表示期待取得更多進展。（新華社）
-
----
-
-### 2026-09-07 00:17:58  #MKT News
-
-The Trump administration on Sunday filed another appeal to the US Supreme Court seeking immediate enforcement of the US Postal Service's new mail-ballot rule for the November election.
-
----
-
-### 2026-09-07 00:15:26  #國際
-
-伊朗警告，將對美國的襲擊做出“更迅速、更猛烈、更具殺傷力”的回擊。
-
----
-
-### 2026-09-07 00:13:36  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Ukrainian President Zelenskiy said the conflict with Russia could continue through the winter.
-
----
-
-### 2026-09-07 00:11:45  #其他
-
-德國基民盟秘書長：我們不會與極右翼極端分子合作。
-
----
-
-### 2026-09-07 00:10:47  #其他
-
-【尼泊爾泥石流已致1353人死亡】據尼泊爾警方公佈的資料，截至當地時間9月6日20時，該國泥石流受災地區已發現1353具遇難者遺體。8月26日，尼泊爾邊境地區突發冰川崩塌引發嚴重泥石流災害，造成重大人員傷亡。（央視新聞）
-
----
-
-### 2026-09-07 00:10:28  #MKT News
-
-U.S. presidential envoy Witkoff plans to visit Norway and Canada to discuss anti-ballistic missile weapons.
-
----
-
-### 2026-09-07 00:10:22  #國際
-
-烏克蘭總統澤連斯基：計劃前往挪威、加拿大討論反導武器事宜。
-
----
-
-### 2026-09-07 00:10:04  #其他
-
-【葉門政府軍與胡塞武裝交火造成至少117人死亡】葉門政府軍與胡塞武裝在塔伊茲省和荷臺達省持續交火6日進入第4天。據雙方醫療方面人士透露，此輪交火已造成至少117人死亡。（新華社）
-
----
-
-### 2026-09-07 00:09:40  #其他
-
-德國選擇黨聯合領導人：不會為了執政而放棄我們的價值觀。
-
----
-
-### 2026-09-07 00:09:20  #其他
-
-德國選擇黨聯合領導人：將向任何願意與我們合作的政黨伸出橄欖枝。
-
----
-
-### 2026-09-07 00:08:44  #其他
-
-德國選擇黨聯合領導人就薩安州選舉表態：我們將與所有政黨展開對話。
-
----
-
-### 2026-09-07 00:08:40  #其他
-
-德國選擇黨聯合領導人就薩安州選舉表態：我們擁有明確的執政授權。
-
----
-
-### 2026-09-07 00:08:35  #其他
-
-德國選擇黨聯合領導人就薩安州選舉表示：今天取得了歷史性勝利。
-
----
-
-### 2026-09-07 00:07:31  #國際
-
-烏克蘭總統澤連斯基：領土問題需要在領導層層面解決。
-
----
-
-### 2026-09-07 00:07:21  #焦點 #國際
-
-烏克蘭總統澤連斯基：看來與俄羅斯的衝突將在冬季繼續。
-
----
-
-### 2026-09-07 00:07:19  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI #Impact mixed
-
-U.S. presidential envoy Witkoff said the U.S. seeks a diplomatic, not military, resolution to the conflict.
-
----
-
-### 2026-09-07 00:07:09  #國際
-
-烏克蘭總統澤連斯基：關注冬季防空、能源和美國液化天然氣專案。
-
----
-
-### 2026-09-07 00:07:08  #MKT News
-
-Kushner said he hopes talks involving Ukraine, Russia and the US can resume in a trilateral format.
-
----
-
-### 2026-09-07 00:06:48  #國際
-
-烏克蘭總統澤連斯基：A計劃是外交手段，B計劃是增強軍事實力。
-
----
-
-### 2026-09-07 00:06:38  #國際
-
-烏克蘭總統澤連斯基：美國、烏克蘭和歐洲方面將再次舉行會議。
-
----
-
-### 2026-09-07 00:06:27  #MKT News #Important
-
-Trump's son-in-law Kushner: US is constructing a "peace plan".
-
----
-
-### 2026-09-07 00:06:24  #國際
-
-烏克蘭總統澤連斯基：美烏雙方團隊討論了防空導彈供應以及冬季援助一攬子方案。
-
----
-
-### 2026-09-07 00:06:07  #國際
-
-烏克蘭總統澤連斯基：美烏兩國團隊討論了對基輔的安全保障、經濟保障以及繁榮計劃。
-
----
-
-### 2026-09-07 00:05:27  #焦點 #國際
-
-烏克蘭總統澤連斯基：我們必須盡一切努力促成與俄羅斯的三方會談，要看俄方作何表態。
-
----
-
-### 2026-09-07 00:05:23  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish #WTI
-
-U.S. presidential envoy Witkoff said he is optimistic about peace talks between Moscow and Kyiv.
-
----
-
-### 2026-09-07 00:05:05  #國際
-
-烏克蘭總統澤連斯基：美烏雙方團隊討論了基輔的安全保障、經濟保障以及繁榮計劃。
-
----
-
-### 2026-09-07 00:05:03  #MKT News
-
-Ukrainian President Zelenskiy said Americans and Europeans have noticed that Ukraine has become stronger.
-
----
-
-### 2026-09-07 00:05:00  #國際
-
-烏克蘭總統澤連斯基：美歐方面已經注意到烏克蘭實力有所增強。
-
----
-
-### 2026-09-07 00:04:51  #MKT News
-
-Ukraine President ZELENSKIY said Kyiv must make every effort to facilitate trilateral talks with Russia and pay close attention to Russia’s statements.
-
----
-
-### 2026-09-07 00:03:56  #MKT News
-
-ZELENSKIY: US and Ukrainian teams discussed security and economic guarantees for Kyiv and a prosperity plan.
-
----
-
-### 2026-09-07 00:03:53  #國際
-
-烏克蘭總統澤連斯基：與美方代表團的談判極具實質內容。
-
----
-
-### 2026-09-07 00:03:39  #國際
-
-美國特使威特科夫：我們尋求透過外交途徑而非軍事手段解決俄烏這場衝突。
-
----
-
-### 2026-09-07 00:03:33  #MKT News
-
-Ukrainian President Zelenskiy said U.S. and Ukrainian teams discussed air-defense missile supplies and winter support plans.
-
----
-
-### 2026-09-07 00:03:26  #國際
-
-美國特使庫什納稱，美國正在著手製定一份“和平方案”。
-
----
-
-### 2026-09-07 00:03:20  #國際
-
-美國特使庫什納稱，他希望談判能恢復為烏克蘭、俄羅斯、美國參與的三方框架。
-
----
-
-### 2026-09-07 00:03:15  #國際
-
-美國特使威特科夫表示，他對在莫斯科與基輔舉行的和談持樂觀態度。
-
----
-
-### 2026-09-07 00:03:10  #MKT News
-
-Ukraine President Zelenskiy said talks with the US team are very important and expressed hope a US peace-negotiation representative can return to Kyiv.
-
----
-
-### 2026-09-07 00:02:52  #國際
-
-烏克蘭總統澤連斯基：希望美國和平談判代表重返基輔。
-
----
-
-### 2026-09-07 00:02:25  #MKT News
-
-Exit poll in Saxony-Anhalt shows Chancellor MERZ's CDU at 18.5%.
-
----
-
-### 2026-09-07 00:01:59  #其他
-
-德國民調顯示，極右翼選擇黨在薩克森-安哈爾特州選舉中支援率將達44.5%。
-
----
-
-### 2026-09-07 00:01:38  #其他
-
-德國出口民調顯示，在薩克森-安哈爾特州選舉中，德國總理默茨所在的基民盟得票率預計為18.5%。
-
----
-
-### 2026-09-07 00:01:06  #MKT News
-
-Yemen coast guard said it intercepted an oil tanker unloading unauthorized cargo at the Houthi-controlled Ras Isa port.
-
----
-
-### 2026-09-06 23:51:58  #國際
-
-特朗普政府週日再次向美國聯邦最高法院提交緊急上訴，謀求立即落地美國郵政局針對11月選舉的郵寄選票新規。
-
----
-
-### 2026-09-06 23:51:28  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-An Islamic Revolutionary Guard Corps spokesman said the United States will pay a heavier price for its economic war against Iran.
-
----
-
-### 2026-09-06 23:49:41  #MKT News
-
-Axios, citing an informed source, said Zelensky discussed Ukraine's preparations to sustain fighting through the winter during talks; Kushner and Witkowski stressed they hope to secure a breakthrough before winter.
 
 ---
