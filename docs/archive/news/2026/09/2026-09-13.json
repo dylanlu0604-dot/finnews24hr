@@ -1,7 +1,17 @@
 {
   "date": "2026-09-13",
-  "count": 493,
+  "count": 494,
   "items": [
+    {
+      "id": "mkt:01a09a7b-6d61-7118-855c-272bf9c25da6",
+      "time": "2026-09-13 19:16:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Train bound for Warsaw struck by drone in Ukraine】Poland's state railway operator said on the 13th a train bound for Warsaw was struck by a drone in Ukraine; casualty figures were unclear."
+    },
     {
       "id": "5091388",
       "time": "2026-09-13 19:08:19",
