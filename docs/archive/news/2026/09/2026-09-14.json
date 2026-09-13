@@ -1,7 +1,21 @@
 {
   "date": "2026-09-14",
-  "count": 114,
+  "count": 115,
   "items": [
+    {
+      "id": "mkt:01a09c6c-4e0d-7118-855f-1f9d7f7335ee",
+      "time": "2026-09-14 04:18:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia has asked Oman to postpone the Iran-Iraq-Gulf Cooperation Council meeting scheduled in Oman tomorrow, citing an attack from Iraqi territory on a Saudi east-west oil pipeline. Bahrain withdrew from the meeting yesterday; the United Arab Emirates was expected to attend."
+    },
     {
       "id": "5091739",
       "time": "2026-09-14 04:14:13",

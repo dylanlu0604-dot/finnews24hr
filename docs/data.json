@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-14 04:15:52",
-  "count": 13428,
+  "updated": "2026-09-14 04:19:38",
+  "count": 13427,
   "items": [
+    {
+      "id": "mkt:01a09c6c-4e0d-7118-855f-1f9d7f7335ee",
+      "time": "2026-09-14 04:18:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia has asked Oman to postpone the Iran-Iraq-Gulf Cooperation Council meeting scheduled in Oman tomorrow, citing an attack from Iraqi territory on a Saudi east-west oil pipeline. Bahrain withdrew from the meeting yesterday; the United Arab Emirates was expected to attend."
+    },
     {
       "id": "5091739",
       "time": "2026-09-14 04:14:13",
@@ -123314,22 +123328,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱與美特使等人的會晤“非常具有實質性”】據烏克蘭國家通訊社6日晚報道，烏克蘭總統澤連斯基在與美國總統特朗普的特使威特科夫和女婿庫什納會晤後向媒體表示，烏方與美方和歐洲國家代表當天討論了對烏越冬援助、安全保障等俄烏衝突涉及的議題，會談“非常具有實質性”。（新華社）"
-    },
-    {
-      "id": "mkt:01a0785d-97c5-7118-84bc-6843da21ad93",
-      "time": "2026-09-07 04:16:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kushner, Trump's son-in-law, said the Israeli government's conduct in Gaza was \"somewhat irrational.\""
-    },
-    {
-      "id": "5079678",
-      "time": "2026-09-07 04:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納：以色列政府在加沙問題上的行事“有些不理智”。"
     }
   ]
 }
