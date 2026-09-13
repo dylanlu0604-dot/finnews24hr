@@ -1,7 +1,19 @@
 {
   "date": "2026-09-13",
-  "count": 611,
+  "count": 612,
   "items": [
+    {
+      "id": "mkt:01a09b3d-f1af-7118-855d-13894bc2d850",
+      "time": "2026-09-13 22:48:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says Iran conflict will end after US midterms, expects gasoline prices to fall】During a visit to Ireland on Sept. 13, President Trump reiterated he expects the Iran conflict to end immediately after the November US congressional midterm elections and said gasoline prices would then fall rapidly. He added Iran is \"very eager to reach an agreement\" and has been contacting the United States. Trump made similar remarks on Sept. 9."
+    },
     {
       "id": "5091539",
       "time": "2026-09-13 22:43:09",
