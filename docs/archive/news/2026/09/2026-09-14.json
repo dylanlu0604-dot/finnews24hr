@@ -1,7 +1,27 @@
 {
   "date": "2026-09-14",
-  "count": 224,
+  "count": 226,
   "items": [
+    {
+      "id": "5091808",
+      "time": "2026-09-14 07:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典東南部發生槍擊案 兩人受傷】瑞典東南部東約特蘭省芬斯蓬鎮13日晚發生槍擊事件，兩人受傷，多人被捕。事件發生於瑞典議會選舉當天。（新華社）"
+    },
+    {
+      "id": "mkt:01a09cff-98ac-7118-8560-678aa0d3c40e",
+      "time": "2026-09-14 06:59:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CNN senior national security reporter cites insiders saying Trump administration officials privately told Gulf interlocutors they want future U.S.-Iran talks to focus on Tehran's nuclear program rather than reopening the Strait of Hormuz."
+    },
     {
       "id": "5091807",
       "time": "2026-09-14 06:58:00",
