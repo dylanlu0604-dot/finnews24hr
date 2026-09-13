@@ -1,7 +1,57 @@
 {
   "date": "2026-09-14",
-  "count": 213,
+  "count": 218,
   "items": [
+    {
+      "id": "5091804",
+      "time": "2026-09-14 06:50:32",
+      "tags": [
+        "宏觀",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 10:30 澳洲聯儲助理主席Hunter參加一場爐邊談話；\n② 12:30 日本7月工業產出終值；\n③ 15:00 國新辦舉行國務院政策例行吹風會，請工信部副部長柯吉欣和中國人民銀行、國務院國資委、市場監管總局、中國證監會有關負責人介紹加強中小企業回款難問題治理有關工作情況；\n④ 17:15 歐洲央行執委施納貝爾在德國聯邦經濟事務和能源部的研討會上發表主旨演說；\n⑤ 20:30 加拿大8月CPI；\n⑥ 21:00 歐洲央行執委奇波洛內發表講話。"
+    },
+    {
+      "id": "mkt:01a09cf6-e7f4-7118-8560-4ae038231f4c",
+      "time": "2026-09-14 06:50:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "XAUUSD"
+      ],
+      "text": "【This week: major events — super central-bank week; China M2 and retail sales due】Monday: Canada Aug CPI; China Aug M2 (pending). India NSE closed for holiday. Tuesday: China Aug retail sales YoY and industrial production YoY; China all-society electricity consumption data due (monthly release around the 15th); UK unemployment data and claimant counts; Germany and eurozone ZEW surveys; France final Aug CPI; US ADP weekly payrolls to Aug 29; Canada July wholesale sales; US NY Fed manufacturing index. Wednesday: US weekly API crude stocks; UK Aug CPI and RPI; eurozone Jul industrial production; US Aug retail sales, import prices, NAHB housing index, business inventories; weekly EIA crude, Cushing and SPR stock updates. Also EU Commission President von der Leyen gives State of the Union address. Thursday: FOMC rate decision and Fed economic projections with press conference; Bank of England rate decision and minutes; SEC roundtable on 24-hour trading; Bank of Canada minutes. US weekly initial jobless claims, Aug housing starts and permits (annualized), Philly Fed index, pending home sales; weekly EIA natural gas stocks. China Aug Swift RMB share of global payments; eurozone final Aug CPI. Friday: Japan Aug core CPI; Bank of Japan policy decision and Governor Ueda press conference; Reserve Bank of Australia Governor testimony; US Aug industrial production and Conference Board leading indicators; Germany Aug PPI; euro area current account. Saturday: US Baker Hughes rig count to Sep 18."
+    },
+    {
+      "id": "5091803",
+      "time": "2026-09-14 06:49:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以軍撤出黎南阿里塔希爾高地】據以色列公共廣播電臺13日報道，以軍已從黎巴嫩南部阿里塔希爾高地向南撤退數公里至博福特嶺，並計劃進一步縮減其在黎南部“安全區”的駐軍規模。（新華社）"
+    },
+    {
+      "id": "5091802",
+      "time": "2026-09-14 06:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱考慮解密更多“9·11”事件檔案】美國總統特朗普當地時間9月13日回答媒體提問時表示，他將考慮“9·11”事件遇難者家屬提出的申請，擬公開更多與該事件相關的檔案，包括劫機者或相關人員是否與沙烏地阿拉伯存在關聯的檔案。他在愛爾蘭登機返美前對記者表示：“我回去後會研究這件事。”“9·11”事件遇難者家屬一直呼籲解密與該事件相關的更多檔案。紐約州兩黨議員已敦促特朗普政府公佈特定通話記錄。（央視新聞）"
+    },
+    {
+      "id": "5091801",
+      "time": "2026-09-14 06:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數千人傷亡 24小時內58次空襲 葉門衝突快速升級】近期，胡塞武裝加大對政府軍攻勢，宣佈對支援葉門政府的沙特實施海上禁運並控制了紅海戰略要地。胡塞武裝13日稱，過去24小時內，沙特對葉門多省發動了58次空襲。同日，葉門政府軍說，其與胡塞武裝持續一個月的衝突中，雙方傷亡數千人。目前，交戰各方對戰場態勢和控制範圍的說法仍存明顯差異，相關地區的控制權變化以及曼德海峽周邊安全形勢仍有待進一步觀察。（央視新聞）"
+    },
     {
       "id": "5091800",
       "time": "2026-09-14 06:45:26",
