@@ -1,7 +1,66 @@
 {
   "date": "2026-09-13",
-  "count": 263,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:01a0994d-5802-7118-855a-7142e49d431d",
+      "time": "2026-09-13 13:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yinli-1 (Yao-3) rocket set for offshore launch on Sept. 16】The Yinli-1 (Yao-3) carrier rocket, assembled at Haiyang Dongfang Spaceport, is scheduled to launch from China's East China Sea on the morning of Sept. 16 aboard the launch vessel Dongfang Spaceport."
+    },
+    {
+      "id": "5091216",
+      "time": "2026-09-13 13:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【引力一號火箭預計9月16日進行海上發射】據“海陽釋出”訊息，預計在9月16日上午，由海陽東方航天港總裝出廠的引力一號（遙三）運載火箭，搭乘“東方航天港”號發射船，將在我國東海海域發射。"
+    },
+    {
+      "id": "5091215",
+      "time": "2026-09-13 13:45:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【廖岷出席中國-世界銀行集團全球生態系統與轉型中心“兩山”理念高階別研討會】2026年9月7日，中國-世界銀行集團全球生態系統與轉型中心（以下簡稱全球中心）以“從願景到行動：修復自然生態 促進繁榮發展”為主題，在北京舉辦“兩山”理念高階別研討會。財政部副部長廖岷出席會議開幕式並致辭。來自世界銀行、自然資源部，以及有關發展中國家、國際機構和駐華使館的100餘名代表出席本次會議。  廖岷表示，保護生態環境，實現可持續發展是人類社會須共同解答的重大發展命題。多年來，中國深入踐行“兩山”理念，大力發展生態產業、建設資源環境要素市場化配置體系、實施生態補償機制，既推動了經濟快速增長，又實現了單位GDP能耗以及汙染物排放的顯著下降，形成了大量可複製可推廣的經驗。與此同時，中國深度參與應對氣候變化、生物多樣性保護等重大國際議題的談判，向各國提供了物美價廉的新能源產品，為全球加快綠色轉型作出積極貢獻。中方還呼籲世界銀行等多邊開發銀行為發展中國家加強生態保護提供更多資金、技術和知識，並期待全球中心發揮好知識分享平臺作用，提供更多全球公共產品。  此外，廖岷還在會前與國際金融公司戰略和運營副總裁埃琳娜進行會談，就雙方合作等議題進行了交流。 （財政部）"
+    },
+    {
+      "id": "mkt:01a0994c-69cc-7118-855a-6df6da43b513",
+      "time": "2026-09-13 13:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Liao Min attends China–World Bank Group Global Center for Ecosystems and Transitions high-level seminar on \"Two Mountains\" concept】Beijing, Sept 7, 2026 — Vice Finance Minister Liao Min attended a China–World Bank Group Global Center for Ecosystems and Transitions seminar themed \"From Vision to Action: Restoring Natural Ecosystems to Promote Prosperity.\" Liao urged the World Bank Group and other multilateral development banks to scale up finance, technology and knowledge support for ecological protection in developing countries, and said the Global Center should act as a knowledge‑sharing platform and provide more global public goods."
+    },
+    {
+      "id": "5091214",
+      "time": "2026-09-13 13:44:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國移動雲公司釋出異構混合推理系統：類腦晶片+國產GPU 突破單一架構的效能瓶頸】中國移動雲公司類腦與光實驗室技術總監杜宇健在2026算力中國展覽會首發首秀活動釋出面向大模型推理的異構混合推理系統，採用\"類腦晶片+國產GPU\"架構，對標英偉達Vera Robin+Groq方案。該系統使用靈汐科技類腦晶片與天數智芯GPU混合，在DeepSeek V4 Flash推理場景下，相比同類GPU叢集效能提升1倍以上，運營成本降低40%以上，並且自主可控。杜宇健稱，引入類腦算力相當於給現有GPU資源\"渦輪增壓\"。"
+    },
+    {
+      "id": "5091213",
+      "time": "2026-09-13 13:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢基域科技釋出面向太空算力等場景的超高導熱“超晶膜”材料】武漢基域科技創始人、總經理陳鵬飛在2026算力中國展覽會首發首秀活動上，正式釋出新一代超高導熱“超晶膜材料”熱控材料及熱控部件。該產品兼具超高導熱（2200 W/m-1·k-1）與低成本優勢，將為航空航天、儲能、5G通訊等領域高功率器件提供新方案。"
+    },
+    {
+      "id": "5091212",
+      "time": "2026-09-13 13:43:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士暗盤跌超2%，現報186.405美元。"
+    },
     {
       "id": "5091211",
       "time": "2026-09-13 13:42:22",
