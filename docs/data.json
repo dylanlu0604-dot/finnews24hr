@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-14 04:19:38",
+  "updated": "2026-09-14 04:23:28",
   "count": 13427,
   "items": [
+    {
+      "id": "mkt:01a09c6f-a463-7118-855f-235f897f5b29",
+      "time": "2026-09-14 04:22:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadath reported Yemeni government forces have retaken positions west of Taiz previously infiltrated by Houthi fighters and have advanced toward the Jir Bani Omar area as part of operations to expel Houthi forces from Taiz province."
+    },
     {
       "id": "mkt:01a09c6c-4e0d-7118-855f-1f9d7f7335ee",
       "time": "2026-09-14 04:18:58",
@@ -123320,14 +123328,6 @@
         "MKT News"
       ],
       "text": "【Zelenskiy says meeting with Trump envoy Witkoff and Jared Kushner was substantive】Ukrainian President Zelenskiy said his meeting with Trump envoy Witkoff and Jared Kushner was highly substantive, with discussions focused on winter aid, security guarantees, and economic guarantees to underpin postwar reconstruction; Zelenskiy said Ukraine will also need to maintain a strong military and that territorial issues should be resolved at head-of-state level. Parties agreed to hold a new Ukraine–US–EU trilateral round of talks soon, venue not yet decided. Witkoff told media US talks with Russia had made important progress, that those views were passed to Ukraine, and that cooperation is crucial."
-    },
-    {
-      "id": "5079679",
-      "time": "2026-09-07 04:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱與美特使等人的會晤“非常具有實質性”】據烏克蘭國家通訊社6日晚報道，烏克蘭總統澤連斯基在與美國總統特朗普的特使威特科夫和女婿庫什納會晤後向媒體表示，烏方與美方和歐洲國家代表當天討論了對烏越冬援助、安全保障等俄烏衝突涉及的議題，會談“非常具有實質性”。（新華社）"
     }
   ]
 }

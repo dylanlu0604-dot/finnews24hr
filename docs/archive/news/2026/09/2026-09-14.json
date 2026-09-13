@@ -1,7 +1,15 @@
 {
   "date": "2026-09-14",
-  "count": 115,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:01a09c6f-a463-7118-855f-235f897f5b29",
+      "time": "2026-09-14 04:22:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadath reported Yemeni government forces have retaken positions west of Taiz previously infiltrated by Houthi fighters and have advanced toward the Jir Bani Omar area as part of operations to expel Houthi forces from Taiz province."
+    },
     {
       "id": "mkt:01a09c6c-4e0d-7118-855f-1f9d7f7335ee",
       "time": "2026-09-14 04:18:58",
