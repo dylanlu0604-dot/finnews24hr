@@ -1,7 +1,15 @@
 {
   "date": "2026-09-14",
-  "count": 125,
+  "count": 126,
   "items": [
+    {
+      "id": "mkt:01a09c84-56ed-7118-855f-476d28b6067a",
+      "time": "2026-09-14 04:45:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swedish broadcaster SVT projects the governing right-wing bloc will win 174 parliamentary seats and the center-left opposition 175 seats."
+    },
     {
       "id": "5091746",
       "time": "2026-09-14 04:36:57",
