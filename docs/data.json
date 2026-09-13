@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-14 01:47:17",
+  "updated": "2026-09-14 01:51:06",
   "count": 13442,
   "items": [
+    {
+      "id": "5091705",
+      "time": "2026-09-14 01:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將取消對愛爾蘭威士忌徵收的關稅】美國總統特朗普表示，他將取消針對愛爾蘭威士忌的美國關稅。週日，他在愛爾蘭西部自家球場參加高爾夫賽事時宣佈了這一決定。特朗普稱，愛爾蘭總理米歇爾·馬丁以及愛爾蘭公開賽冠軍謝恩·勞裡，都在此次訪問期間向他提出取消該關稅的請求。“我代表美國，將取消這項關稅。”特朗普在賽事頒獎慶典上向歡呼的人群說道。"
+    },
     {
       "id": "mkt:01a09bdf-b3de-7118-855e-05bfe78a4345",
       "time": "2026-09-14 01:45:24",
@@ -123428,14 +123436,6 @@
         "國際"
       ],
       "text": "特朗普釋出一張地圖，將新墨西哥州標註為“新美國”。"
-    },
-    {
-      "id": "mkt:01a077d5-27d9-7118-84bb-42d0592925be",
-      "time": "2026-09-07 01:47:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. special envoy Witkoff said the U.S. has made roughly eight visits to Moscow, met with Putin and his team, and was treated respectfully. He said building relationships is essential to resolving such conflicts; without ties to both parties, the odds of a peaceful settlement are slim."
     }
   ]
 }
