@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-14 06:39:47",
-  "count": 13468,
+  "updated": "2026-09-14 06:43:36",
+  "count": 13470,
   "items": [
+    {
+      "id": "mkt:01a09cee-a5c9-7118-8560-44506c53aca6",
+      "time": "2026-09-14 06:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swedish Prime Minister Kristersson said government formation remains an unresolved issue."
+    },
+    {
+      "id": "te:economy:583309",
+      "time": "2026-09-14 06:39:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Growth Hits 8-Month High — New Zealand’s BusinessNZ Performance of Services Index increased to 51.2 in August 2026 from 50.6 in July, marking the third expansion in the services sector since December 2025. It was the fastest increase since December 2025, as two of the five sub-indices remained in expansion territory, with new orders (55.2 vs 52.8) recording the strongest reading, followed by stocks (50.8 vs 51.7)."
+    },
     {
       "id": "5091795",
       "time": "2026-09-14 06:38:25",
