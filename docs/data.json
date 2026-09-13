@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13 23:33:05",
+  "updated": "2026-09-13 23:37:03",
   "count": 13487,
   "items": [
+    {
+      "id": "5091564",
+      "time": "2026-09-13 23:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國移民與海關執法局（ICE）前代理局長霍曼：移民與海關執法局沒有在投票站開展執法行動的計劃。"
+    },
     {
       "id": "mkt:01a09b65-4c16-7118-855d-54b7392d6760",
       "time": "2026-09-13 23:31:42",
@@ -123787,15 +123795,6 @@
         "Brent"
       ],
       "text": "【Wright says U.S. Navy will continue escorting ships through Strait of Hormuz】U.S. Energy Secretary Wright said on Sunday U.S. Navy escort vessels are assisting tankers through the Strait of Hormuz and that escort operations are unlikely to end soon, calling them critical to maintaining crude flows. He said daily crude shipments via the strait currently exceed 9 mln bpd and — with more crude and products routed via pipelines and other corridors — regional oil transport has recovered to about two-thirds or more of pre-conflict levels. Last week Wright said roughly 17 mln barrels transited the strait on Monday. He added Iran continues to cause trouble but the U.S. Navy is winning the fight, and said unleaded gasoline prices could fall as the summer driving peak ends and federal blending adjustments increase supply."
-    },
-    {
-      "id": "mkt:01a0775b-42a8-7118-84b9-f7e80292b4f5",
-      "time": "2026-09-06 23:34:24",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) confirmed 27 Starlink satellites have completed on-orbit deployment."
     }
   ]
 }
