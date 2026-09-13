@@ -1,7 +1,42 @@
 {
   "date": "2026-09-13",
-  "count": 636,
+  "count": 639,
   "items": [
+    {
+      "id": "mkt:01a09b7c-3834-7118-855d-6fca9ade6dd2",
+      "time": "2026-09-13 23:56:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Trump says US must keep AI lead, downplays calls to slow development】President Donald Trump on Sunday appeared to reject calls from senior AI figures to slow the development of large models, saying at the Irish Open he wants the United States to remain the world leader and that “whoever wins AI, wins everything.” The comments follow a Saturday joint appeal by Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and xAI founder Elon Musk to slow the pace of AI capability increases; Trump called those warnings driven by “negative forces” and based on scenarios “that won’t happen.”"
+    },
+    {
+      "id": "mkt:01a09b79-fa39-7118-855d-616995b33559",
+      "time": "2026-09-13 23:54:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Huatai Securities: Favor HK dividend stocks and innovative drugs as fundamentals race against discount rate】Huatai Securities says medium-term Hong Kong valuation repair is likely capped by global liquidity, so maintain low-volatility dividend stocks as core holdings but trim exposure to sectors where HK dividend yield edge vs A-shares may narrow or payout increases are difficult — notably banks and coal — and increase allocation to higher cost‑performance sectors such as utilities. Near term, further upside in the 10yr UST is limited and post-FOMC developments should ease market pressure; the firm recommends holding innovative drug and CXO leaders that combine earnings delivery with market recognition. Previously flagged staples (beverages, dairy) have entered the right side of the fundamentals’ bottom but lack near-term catalysts; remain patient."
+    },
+    {
+      "id": "5091577",
+      "time": "2026-09-13 23:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特管道中斷，全球石油供應恐損失4%】據路透社13日援引訊息人士的話報道，沙烏地阿拉伯東西向輸油管道的利雅得段及麥地那地區段，日前因遭到無人機襲擊停運。若數日內不能恢復，全球約4%石油供應將面臨風險。三位訊息人士說，沙特在紅海沿岸延布港的庫存僅能維持5天至7天出口，埃及港口還有少量庫存。延布儲油能力約3500萬桶，但庫存未滿。若管道不盡快重啟，庫存很快將耗盡。沙特暫未公佈損壞程度和修復時間。遭襲管道此前每日改道約400萬桶原油至延布，佔全球供應約4%，幫助沙特繞開霍爾木茲海峽停運衝擊。眼下，原油供應緊張已推高全球燃料價格並加劇多國通脹。國際能源署（IEA）日前表示，沙特8月石油供應降至30多年來低點，全球石油供應今年將減少570萬桶/日。（央視財經）"
+    },
     {
       "id": "5091576",
       "time": "2026-09-13 23:47:36",
