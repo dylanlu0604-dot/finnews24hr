@@ -1,7 +1,24 @@
 {
   "date": "2026-09-13",
-  "count": 617,
+  "count": 619,
   "items": [
+    {
+      "id": "mkt:01a09b53-3da6-7118-855d-1c3c96956923",
+      "time": "2026-09-13 23:11:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued emergency alerts for Khamis Mushait and Abha, warning residents of potential danger."
+    },
+    {
+      "id": "5091545",
+      "time": "2026-09-13 23:10:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐盟與英國重啟關係談判再度推遲】兩名歐盟官員表示，歐盟與英國重啟關係談判再度推遲。原定於7月22日舉行、旨在敲定脫歐後關係重置協議的會議已被推遲，談判初步安排在11月6日。這一時間再次延後，最早要到11月下旬。雙方在布魯塞爾新推出的“歐洲製造”政策上存在分歧。"
+    },
     {
       "id": "5091544",
       "time": "2026-09-13 23:04:32",
