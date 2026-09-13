@@ -1,7 +1,146 @@
 {
-  "updated": "2026-09-14 06:01:29",
-  "count": 13437,
+  "updated": "2026-09-14 06:05:16",
+  "count": 13443,
   "items": [
+    {
+      "id": "5091775",
+      "time": "2026-09-14 06:04:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4340美元/盎司，日內跌0.21%。"
+    },
+    {
+      "id": "5091774",
+      "time": "2026-09-14 06:04:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4380美元/盎司，日內跌0.66%。"
+    },
+    {
+      "id": "5091773",
+      "time": "2026-09-14 06:03:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【沙特輸油管道關閉，霍爾木茲海峽會議推遲，國際油價上漲】沙特一條主要原油管道遭襲擊後關停，這條原本用於繞開霍爾木茲海峽的運輸通道中斷，油價隨之上漲。阿曼外交大臣稱，伊朗與多個海灣國家原計劃商討在霍爾木茲海峽設立臨時航運通道的會議已推遲。美伊衝突導致出口受限，航運市場陷入混亂，原油、天然氣及石油產品價格走高。"
+    },
+    {
+      "id": "5091772",
+      "time": "2026-09-14 06:02:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報107.77美元/桶。"
+    },
+    {
+      "id": "mkt:01a09ccb-527c-7118-855f-c501bdd30cfe",
+      "time": "2026-09-14 06:02:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury futures rose 3 points, 30-year Treasury futures rose 2 points."
+    },
+    {
+      "id": "5091771",
+      "time": "2026-09-14 06:02:32",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨上漲3個基點，30年期國債期貨上漲2個基點。"
+    },
+    {
+      "id": "mkt:01a09cca-d193-7118-855f-baa77901bd2c",
+      "time": "2026-09-14 06:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures fell 1% in early Monday trade; S&P 500 futures fell 0.5%."
+    },
+    {
+      "id": "mkt:01a09cca-b62d-7118-855f-b443a6124ce1",
+      "time": "2026-09-14 06:02:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened about 0.4% lower, trading at $4,330/oz."
+    },
+    {
+      "id": "5091770",
+      "time": "2026-09-14 06:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌1%。"
+    },
+    {
+      "id": "mkt:01a09cca-5005-7118-855f-a8a135552058",
+      "time": "2026-09-14 06:01:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil up more than 2.00% intraday at $98.57/barrel."
+    },
+    {
+      "id": "mkt:01a09cc9-eb1c-7118-855f-a0a3a96302d3",
+      "time": "2026-09-14 06:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude extends gains to 2% at $103.77/bbl."
+    },
+    {
+      "id": "mkt:01a09cc9-8a8f-7118-855f-9e730629ef47",
+      "time": "2026-09-14 06:00:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened 1.5% higher on Monday, trading at $98.12/bbl."
+    },
+    {
+      "id": "5091769",
+      "time": "2026-09-14 06:00:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破107美元/桶，日內漲2.34%。"
+    },
     {
       "id": "5091768",
       "time": "2026-09-14 06:00:31",
@@ -123348,75 +123487,6 @@
         "國際"
       ],
       "text": "【受中東局勢緊張影響，油價小幅走高，納斯達克期貨走強】納斯達克合約小幅上漲；美伊在中東相互打擊油輪之後，原油期貨走強。美債合約走勢平穩，黃金與比特幣走弱；美元兌日元匯率基本持平，交投於156.25附近。"
-    },
-    {
-      "id": "5079698",
-      "time": "2026-09-07 06:05:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：韓國總統李在明週日抵達法國尼斯，開始為期四天的訪問。他將前往巴黎，與法國總統馬克龍舉行雙邊峰會。"
-    },
-    {
-      "id": "mkt:01a078c0-b934-7118-84bd-0cd33cbabfba",
-      "time": "2026-09-07 06:04:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea's Lee arrives in France, to meet Macron in Paris】South Korea's Lee arrived in Nice on Sunday for a four-day visit. He will travel to Saint-Paul-de-Vence on Monday to co-host the Lumière Summit on the future of film with Macron, then undertake a two-day state visit to Paris beginning Tuesday."
-    },
-    {
-      "id": "mkt:01a078bf-8347-7118-84bd-05bfae29db04",
-      "time": "2026-09-07 06:03:31",
-      "tags": [
-        "MKT News",
-        "7203.T",
-        "Impact bullish"
-      ],
-      "text": "【Toyota targets 40% rise in non-new-car operating profit to ¥3 trillion by FY2030】Toyota aims to boost operating profit from activities outside new-vehicle sales—including software updates and vehicle leasing—by about 40% to ¥3 trillion (≈$19.2 billion) by fiscal 2030, monetizing its global installed base of roughly 150 million Toyota vehicles to reduce reliance on new-car unit sales."
-    },
-    {
-      "id": "mkt:01a078be-bd29-7118-84bc-fdd5e927fe1e",
-      "time": "2026-09-07 06:02:41",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "U.S. equity index futures opened mixed on Monday; Dow futures down 0.3%, Nasdaq futures up 0.05%."
-    },
-    {
-      "id": "5079697",
-      "time": "2026-09-07 06:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田計劃到2030年將日本國內二手車年銷量從當前約35萬輛提升至55萬輛。"
-    },
-    {
-      "id": "5079696",
-      "time": "2026-09-07 06:01:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破97美元/桶，日內漲0.75%。"
-    },
-    {
-      "id": "mkt:01a078bd-ad5a-7118-84bc-f211490db0c6",
-      "time": "2026-09-07 06:01:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude opened 0.9% higher, trading at $90.20/bbl; Brent crude up 0.7% at $95.00/bbl."
     }
   ]
 }
