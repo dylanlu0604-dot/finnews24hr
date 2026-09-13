@@ -1,7 +1,395 @@
 {
   "date": "2026-09-14",
-  "count": 72,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:01a09c50-a401-7118-855f-17ce85d9105e",
+      "time": "2026-09-14 03:48:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Middle East energy supply under severe strain; nearly 30 mln b/d of crude flows disrupted or at risk, Kobeissi says】Kobeissi report: as of Friday, Saudi Arabia’s east–west oil pipeline has been shut after recent attacks, putting about 4 mln b/d of Saudi exports at risk. The Bab el-Mandeb faces potential closure, threatening as much as 9 mln b/d. Strait of Hormuz transit capacity is currently only about 20% of pre-Iran-war levels, obstructing roughly 15 mln b/d. In aggregate ~30 mln b/d of crude flows are disrupted or at risk; even accounting for overlap this is large versus the ~100 mln b/d global market and ranks among the most severe supply shocks in modern history."
+    },
+    {
+      "id": "mkt:01a09c4f-f131-7118-855f-0df149f982b0",
+      "time": "2026-09-14 03:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatari prime minister and foreign minister held phone call with Kuwait foreign minister on regional situation】Qatar’s foreign ministry said the Qatari prime minister and foreign minister held a phone call with Kuwait’s foreign minister to discuss the latest regional situation and coordination on diplomatic efforts to ease tensions and bolster regional security and stability. Qatar confirmed support for diplomatic initiatives aimed at ensuring freedom of navigation and paving the way for a comprehensive agreement to achieve lasting regional peace."
+    },
+    {
+      "id": "mkt:01a09c4b-8bf9-7118-855f-044091bacc80",
+      "time": "2026-09-14 03:43:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Why Canada's Prime Minister Carney is in no rush to resume US trade talks】Canada is delaying a return to US trade talks; Prime Minister Carney and his cabinet have focused on deepening ties with other countries and domestic infrastructure spending while avoiding commitments on retaliatory tariffs. Polls show broad public support for rejecting a bad deal and for retaliatory measures; some Canadians back export taxes to raise prices of oil, gas and electricity exported to the US. Domestic opposition to compromise is constraining Carney and complicating any restart of negotiations, says University of Toronto’s Andrew MacDougall. Carney and officials say talks collapsed over US demands including tariffs on steel, aluminum and autos that would leave those sectors uncompetitive; a requirement that Canada accept tariffs applying to goods from a US FTA partner; changes to Canadian cultural and French‑language protections; and aligning Canada’s trade policy with Trump’s positions. Carney called those demands fundamentally unacceptable; US officials dispute parts of Canada’s account but say Trump will not grant tariff exemptions."
+    },
+    {
+      "id": "5091737",
+      "time": "2026-09-14 03:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特：外交部長接到了阿聯酋外長的電話，雙方就遏制地區局勢升級的努力進行了討論。"
+    },
+    {
+      "id": "5091736",
+      "time": "2026-09-14 03:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼外交部：原定於14日舉行的地區會議延期】當地時間13日晚，阿曼外交部宣佈，原定於14日在阿曼南部港口城市塞拉萊舉行的地區會議將推遲。日期另行確定。宣告稱，此舉旨在為建設性對話創造適宜條件，推動達成有助於維護地區安全與穩定的可持續共識，並回應地區各國人民對合作與和平的期待。阿曼外交大臣巴德爾當天也在社交媒體發文稱，為促進各方達成共識，原定次日在塞拉萊舉行的地區會議已被推遲。阿曼將繼續致力於推動地區對話，以支援地區穩定和長期合作。（央視新聞）"
+    },
+    {
+      "id": "5091735",
+      "time": "2026-09-14 03:41:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟CEO納德拉：支援AI審慎發展與嵌入式評估機制】微軟CEO納德拉在社交媒體發文表示，任何對超級智慧的探索都必須基於一項核心原則，如果開發的人工智慧不能造福人類且不受人類控制，就不值得去研發。微軟還需要加快並普及人工智慧帶來的益處，使其廣泛惠及各國、各社群和企業。這需要一個前沿生態，讓閉源和開源模型都能蓬勃發展。對於企業來說，必須完全掌握自身獨有的隱性知識。每個機構都應能夠搭建自己的持續學習迴圈/迭代最佳化系統，不必依賴任何單一模型供應商，並能夠將自身知識嵌入到自己可控的模型與權重中。因此，在此背景下，我們支援以實現對齊為設計目標所需的研究、專注投入和審慎節奏。我們也支援“嵌入式評估器”等構想以及更多相關機制建設，讓想法不只是空談。關鍵是這項工作不能由少數主體掌控，而必須吸納來自整個生態、各國、各領域（包括學術界）的廣泛參與。這就是我們採取的方案：在人工智慧技術棧的每一層提供廣泛訪問許可權與選擇；企業自主掌控學習迴圈與模型；以及支撐微軟自研MAI模型的《行為準則》，我們將於明日釋出該準則，公開徵求意見。"
+    },
+    {
+      "id": "mkt:01a09c49-fc42-7118-855e-fafb15aef0d7",
+      "time": "2026-09-14 03:41:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft chairman and CEO Satya Nadella said the company will provide broad access and choice across every layer of the AI technology stack, allow enterprises to control continuous learning loops and their models, and follow a \"code of conduct\" applicable to Microsoft's first-party MAI models. Microsoft will publish the code tomorrow for public comment."
+    },
+    {
+      "id": "mkt:01a09c49-80d3-7118-855e-f245d2245aa2",
+      "time": "2026-09-14 03:40:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft chairman and CEO Nadella said the key is that this field should not be controlled by a few entities; the entire ecosystem—across countries, sectors and academia—must be broadly involved."
+    },
+    {
+      "id": "mkt:01a09c49-6325-7118-855e-e8091ccb1425",
+      "time": "2026-09-14 03:40:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "Microsoft chairman and CEO Satya Nadella said the company welcomes necessary research, scrutiny and a deliberate pace to ensure \"alignment\" becomes a design goal. He also welcomed \"embedded evaluators\" and broader efforts to build mechanisms that make those concepts operational rather than merely rhetorical."
+    },
+    {
+      "id": "mkt:01a09c49-1d3e-7118-855e-e31b7b21d649",
+      "time": "2026-09-14 03:40:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O"
+      ],
+      "text": "Microsoft chairman and CEO Nadella said enterprises must retain full control of their unique, tacit knowledge. He said each organization should be able to build its own continuous learning loop and \"climbing machine\" without relying on a single model vendor, and embed its knowledge into models and model weights it controls."
+    },
+    {
+      "id": "mkt:01a09c48-ab83-7118-855e-dd7af7047471",
+      "time": "2026-09-14 03:40:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft chairman and CEO Satya Nadella said the company must accelerate AI development and broaden its benefits to countries, communities and businesses, urging the construction of a frontier AI ecosystem in which both closed‑source and open‑source models can thrive."
+    },
+    {
+      "id": "mkt:01a09c48-66ab-7118-855e-d7f6a674e412",
+      "time": "2026-09-14 03:39:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O"
+      ],
+      "text": "Microsoft chairman and CEO Nadella said any pursuit of superintelligence must rest on a core principle: if the AI we build does not help humanity and cannot be kept under human control, it is not worth continuing to develop."
+    },
+    {
+      "id": "5091734",
+      "time": "2026-09-14 03:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部官員：阿曼會議的推遲是應地區部分國家的要求，並由德黑蘭和馬斯喀特共同作出的決定。"
+    },
+    {
+      "id": "mkt:01a09c47-3fb6-7118-855e-ce771fe05d30",
+      "time": "2026-09-14 03:38:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister held a phone call with the UAE foreign minister to discuss recent regional developments and de‑escalation efforts, Saudi outlet Alhadath reported."
+    },
+    {
+      "id": "mkt:01a09c47-3ae0-7118-855e-c14ee8e948a5",
+      "time": "2026-09-14 03:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude 4.1 earthquake at 03:21 on Sept 14 in Hualien County, Taiwan; focal depth 14 km."
+    },
+    {
+      "id": "mkt:01a09c45-c433-7118-855e-bfcf4aabf104",
+      "time": "2026-09-14 03:36:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA quoted Iran's foreign ministry director-general for Gulf affairs saying the Gulf coastal states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by joint decision of Oman and Iran. Iran said it will consult closely with Oman to coordinate a new date."
+    },
+    {
+      "id": "mkt:01a09c45-b28c-7118-855e-b0a063adf028",
+      "time": "2026-09-14 03:36:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the banquet hall under construction at the White House will be \"the greatest\" of its kind worldwide and that he and other American patriots will donate it to the United States; he said no taxpayer funds will be used for construction."
+    },
+    {
+      "id": "mkt:01a09c3d-5145-7118-855e-ae72f89605d7",
+      "time": "2026-09-14 03:27:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bushehr official: exports top $2.3 bln despite US maritime blockade】Provincial customs said Iran’s southern Bushehr province exported more than $2.3 billion of goods from March–August this year despite a US maritime blockade, IRNA reported. Customs head Ali Soleimani said the province shipped 5.1 million tonnes in the five-month period, with petrochemicals and various liquefied gases among the main exports. He said goods were exported to 32 countries, including the UAE and Pakistan."
+    },
+    {
+      "id": "mkt:01a09c3a-3fcb-7118-855e-a139b1d77ccb",
+      "time": "2026-09-14 03:24:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic, OpenAI and Google in talks to form AI industry standards body】Anthropic, OpenAI and Google have discussed creating an industry body to set AI standards. Anthropic CEO Dario Amodei urged firms to coordinate testing and auditing; OpenAI founder Altman told employees at a town hall earlier this week he supports a sector testing-and-audit agency but believes large AI labs should build it themselves rather than rely on US government support."
+    },
+    {
+      "id": "5091733",
+      "time": "2026-09-14 03:23:20",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【Anthropic、OpenAI、谷歌曾商討制定人工智慧標準】知情人士透露，早在Anthropic執行長達里奧·阿莫代伊周六呼籲AI企業就技術測試與審計開展協作之前，Anthropic、OpenAI與谷歌就已經在商討合作組建AI行業標準機構。一位瞭解相關表態的訊息人士稱，OpenAI執行長山姆·奧特曼在本週早些時候的全員大會上對員工表示，他支援設立AI行業測試與審計機構，但認為頭部AI實驗室必須在美國政府不提供支援的情況下自行搭建這套標準組織。"
+    },
+    {
+      "id": "mkt:01a09c38-7f57-7118-855e-9957113d846e",
+      "time": "2026-09-14 03:22:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil tanker catches fire in Strait of Hormuz】UKMTO said a fully laden oil tanker was struck by a missile in the Strait of Hormuz and is reported to be seriously ablaze. The agency earlier reported a Panama-flagged tanker was attacked while transiting the Strait and had lost propulsion."
+    },
+    {
+      "id": "5091732",
+      "time": "2026-09-14 03:19:51",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Anthropic、OpenAI、谷歌商討制定人工智慧標準。"
+    },
+    {
+      "id": "5091731",
+      "time": "2026-09-14 03:11:16",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【上市公司密集回購增持】近期，全球金融市場迎來“超級央行周”。美聯儲將於北京時間9月17日凌晨公佈最新利率決議，市場普遍預期加息25個基點，日本央行、英國央行等也將陸續公佈決議，長端美債收益率處於歷史高位，外圍情緒擾動加大。一批A股上市公司日前密集釋出股份增持、回購安排，向市場傳遞積極訊號。"
+    },
+    {
+      "id": "5091730",
+      "time": "2026-09-14 03:10:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗與海灣阿拉伯國家合作委員會成員國的霍爾木茲相關會議推遲舉行。"
+    },
+    {
+      "id": "mkt:01a09c2c-6991-7118-855e-97c8331d1042",
+      "time": "2026-09-14 03:09:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Oman's foreign minister said the regional meeting originally scheduled for tomorrow in Salalah has been postponed to allow more time to reach consensus. Oman will continue to promote dialogue to support regional stability and lasting cooperation."
+    },
+    {
+      "id": "5091729",
+      "time": "2026-09-14 03:09:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大正磋商為歐盟對烏克蘭貸款提供支援】加拿大正磋商為歐盟對烏克蘭貸款提供支援。雙方希望在10月底於蒙特利爾舉行的歐盟峰會前，商定加拿大將為歐盟主導的900億歐元烏克蘭貸款出資的金額。加拿大總理馬克·卡尼希望透過參與這項烏克蘭支援貸款，向歐洲盟友展現承諾。英國是參與該貸款的唯一一個其他非歐盟國家。"
+    },
+    {
+      "id": "5091728",
+      "time": "2026-09-14 03:08:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大正磋商為歐盟對烏克蘭貸款提供支援。"
+    },
+    {
+      "id": "5091727",
+      "time": "2026-09-14 03:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束對記者的講話，登上空軍一號。"
+    },
+    {
+      "id": "5091726",
+      "time": "2026-09-14 03:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼外交大臣：我們仍致力於推動能夠維護本地區穩定、實現本地區持久合作的對話。"
+    },
+    {
+      "id": "5091725",
+      "time": "2026-09-14 03:07:18",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿曼外交大臣：為達成共識，原定於明日在塞拉萊舉行的區域會議已被推遲。"
+    },
+    {
+      "id": "mkt:01a09c27-3761-7118-855e-8a34137adadb",
+      "time": "2026-09-14 03:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Duma deputy chairman: Ukraine's current situation stems from historical revisionism】Boris Chernyshov, deputy chairman of Russia's State Duma, said Ukraine's current situation stems from policies of historical revisionism. He warned efforts to erase memory of Nazism and radical nationalism and to rewrite school curricula can, over 20 to 30 years, turn local festivals into state-level, Nazi-style education programmes. He said attempts to falsify Russia's victory in the Great Patriotic War are both pointless and criminal."
+    },
+    {
+      "id": "mkt:01a09c24-f5a5-7118-855e-8207d7f3f577",
+      "time": "2026-09-14 03:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran oil distributor denies cancelling gasoline quotas for new cars】TASNIM NEWS: Iran's National Petroleum Products Distribution Company denied reports it would cancel 3,000- and 5,000-rial/liter gasoline quotas for vehicles valued over 1 bln rial. It said all existing private passenger cars — excluding government, imported, free-trade-zone vehicles and second-or-later cars registered to the same owner — will keep monthly quotas of 60 liters at 1,500 rial/liter and 50 liters at 3,000 rial/liter. A working group is studying raising the 1 bln rial price cap used to determine quota eligibility for newly produced private cars amid market changes. The company said quota allocation and volumes are unchanged; only the third-tier price was increased from 5,000 to 10,000 rial/liter."
+    },
+    {
+      "id": "5091724",
+      "time": "2026-09-14 02:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人佩斯科夫表示，俄羅斯正密切關注葉門局勢，該地局勢正朝著加劇的方向發展。"
+    },
+    {
+      "id": "mkt:01a09c1f-aa0d-7118-855e-7d33fd72e4f1",
+      "time": "2026-09-14 02:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the Israeli prime minister will call him on Monday regarding the West Bank."
+    },
+    {
+      "id": "mkt:01a09c1f-1da3-7118-855e-74c02382f09a",
+      "time": "2026-09-14 02:54:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump, discussing a $5,000 check policy, said tariffs and other items would generate large fiscal revenues."
+    },
+    {
+      "id": "5091723",
+      "time": "2026-09-14 02:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：5000美元支票計劃一定會落地，我們能獲得數萬億美元收入。"
+    },
+    {
+      "id": "mkt:01a09c1e-2542-7118-855e-6e6b1366a8d6",
+      "time": "2026-09-14 02:53:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says he will consider whether to release additional records related to the Sept. 11 attacks."
+    },
+    {
+      "id": "5091722",
+      "time": "2026-09-14 02:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談美國民主黨眾議員亞歷山德里婭·奧卡西奧-科爾特斯與紐約市市長馬姆達尼在9·11紀念現場被拍到大笑一事：此舉十分惡劣。"
+    },
+    {
+      "id": "5091721",
+      "time": "2026-09-14 02:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及5000美元支票政策：關稅等專案帶來鉅額財政收入。"
+    },
+    {
+      "id": "5091720",
+      "time": "2026-09-14 02:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱他將研究是否公佈更多與“9·11”襲擊相關的記錄。"
+    },
     {
       "id": "mkt:01a09c1c-2523-7118-855e-611b5fde92f7",
       "time": "2026-09-14 02:51:25",
