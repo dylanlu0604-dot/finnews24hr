@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-13 18:52:48",
-  "count": 13485,
+  "updated": "2026-09-13 18:56:36",
+  "count": 13480,
   "items": [
+    {
+      "id": "mkt:01a09a68-50d5-7118-855c-10ff95dfa575",
+      "time": "2026-09-13 18:55:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lithuania's National Crisis Management Centre says the drone alert has ended."
+    },
     {
       "id": "5091383",
       "time": "2026-09-13 18:51:30",
@@ -123700,62 +123710,6 @@
         "國際"
       ],
       "text": "黎巴嫩總統：以色列空襲對政府大樓造成嚴重破壞，摧毀了甘杜爾醫院。"
-    },
-    {
-      "id": "mkt:01a0765c-1e2b-7118-84b8-cb181601fc02",
-      "time": "2026-09-06 18:55:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's president said that despite recent attacks the government remains firmly committed to defending Lebanon's sovereignty and maintaining stability in southern Lebanon."
-    },
-    {
-      "id": "mkt:01a0765b-ddba-7118-84b8-c5ca261edfa0",
-      "time": "2026-09-06 18:55:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's president urged the United States and the international community to act to stop the violations and hold those responsible to account."
-    },
-    {
-      "id": "mkt:01a0765b-ce60-7118-84b8-b9e8e0a898b6",
-      "time": "2026-09-06 18:55:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Lebanon's president said the attack on the Finance Ministry building indicates a sustained pattern of assaults and reflects an intent to target state institutions."
-    },
-    {
-      "id": "mkt:01a0765b-be06-7118-84b8-b344bb23d403",
-      "time": "2026-09-06 18:55:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Lebanese president said Israeli attacks exceed the scope of the ceasefire agreement and the framework agreement on state institutions."
-    },
-    {
-      "id": "5079303",
-      "time": "2026-09-06 18:54:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統：這些襲擊反映出其明確的意圖是打擊國家機構。"
-    },
-    {
-      "id": "5079302",
-      "time": "2026-09-06 18:53:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【100多項新技術、新產品、新模式 我國飼草產業發展取得新進展】記者從農業農村部瞭解到，我國飼草產業發展取得新進展。2025年，全國人工飼草種植面積已達1.16億畝，飼草生產區域化叢集初步形成。為提高飼草產量，今天（6日），國家牧草產業技術體系集中釋出推廣100多項新技術、新產品、新模式。當前，我國飼草供需缺口仍然很大。農業農村部等部門正透過調整最佳化農業生產結構、推進“以種適地”等五項政策舉措，大力發展飼草產業，保障我國奶類、牛羊肉等畜產品供應。（央視新聞）"
     }
   ]
 }

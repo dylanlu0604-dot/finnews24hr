@@ -1,7 +1,17 @@
 {
   "date": "2026-09-13",
-  "count": 487,
+  "count": 488,
   "items": [
+    {
+      "id": "mkt:01a09a68-50d5-7118-855c-10ff95dfa575",
+      "time": "2026-09-13 18:55:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lithuania's National Crisis Management Centre says the drone alert has ended."
+    },
     {
       "id": "5091383",
       "time": "2026-09-13 18:51:30",
