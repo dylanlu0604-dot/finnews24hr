@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 488,
+  "count": 489,
   "items": [
+    {
+      "id": "mkt:01a09a69-f5f4-7118-855c-1a9af42fe9b5",
+      "time": "2026-09-13 18:57:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sweden parliamentary vote begins】Voting began in Sweden's parliamentary election on the morning of the 13th. The ballot will determine composition of the 349-seat Riksdag and shape the next government's policy direction. Swedish Radio's final pre-election poll published on the 12th showed the Social Democrats leading on 28.6% support, the Sweden Democrats—widely considered far-right—on 18.3%, and incumbent Prime Minister Ulf Kristersson's Moderates on 16.8%. Sweden holds parliamentary elections every four years."
+    },
     {
       "id": "mkt:01a09a68-50d5-7118-855c-10ff95dfa575",
       "time": "2026-09-13 18:55:22",
