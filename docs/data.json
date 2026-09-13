@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-14 02:29:43",
+  "updated": "2026-09-14 02:33:32",
   "count": 13441,
   "items": [
+    {
+      "id": "5091712",
+      "time": "2026-09-14 02:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理國防部長：一旦爆發新戰爭，伊朗在技術層面將具備強得多的實力。"
+    },
     {
       "id": "mkt:01a09c07-2bc3-7118-855e-3db47040b72d",
       "time": "2026-09-14 02:28:30",
@@ -123436,18 +123444,6 @@
         "國際"
       ],
       "text": "以色列部隊在橄欖收穫季來臨前，毀壞了約旦河西岸被佔領土瓦迪達烏克附近的橄欖樹。"
-    },
-    {
-      "id": "mkt:01a077ff-25d3-7118-84bb-65da1a2a4ced",
-      "time": "2026-09-07 02:33:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Energy Secretary Wright said a nuclear deal with Iran may be unattainable in the near term and the US still needs to take military action to counter threats from Tehran."
     }
   ]
 }
