@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-13 23:17:01",
-  "count": 13485,
+  "updated": "2026-09-13 23:21:02",
+  "count": 13487,
   "items": [
+    {
+      "id": "5091549",
+      "time": "2026-09-13 23:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱，沙特哈米斯穆謝特地區的危險已解除。"
+    },
+    {
+      "id": "mkt:01a09b58-a398-7118-855d-2e6bf2f90ddf",
+      "time": "2026-09-13 23:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger alert for Khamis Mushait area has been lifted."
+    },
+    {
+      "id": "mkt:01a09b57-e993-7118-855d-27cafcc8958e",
+      "time": "2026-09-13 23:17:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Minister Wang Yi on Xi's visit to India for 18th BRICS leaders' meeting】Foreign Minister Wang Yi said President Xi’s trip to India for the 18th BRICS leaders’ meeting achieved three strategic objectives: deepen BRICS cooperation; bolster the Global South’s influence by pressing for greater representation and reform of international governance; and guide a recovery in China‑India ties. Wang said BRICS has become the primary cooperation platform for the Global South and that current international governance structures inadequately represent those countries, constraining development and collective responses to global challenges. He noted Xi and Prime Minister Modi held a bilateral meeting and that under their strategic leadership China‑India relations are moving out of a low, with an expanding cooperation agenda, record‑high bilateral trade and increased people‑to‑people exchanges."
+    },
     {
       "id": "5091548",
       "time": "2026-09-13 23:15:31",
@@ -123771,14 +123795,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡談及伊朗：伊朗現政權的末日將近。該政權實力衰弱，正苟延殘喘、搖搖欲墜，而我們仍有一項決心要完成的使命。這終將改變中東格局與歷史走向。"
-    },
-    {
-      "id": "5079508",
-      "time": "2026-09-06 23:18:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會（FCC）主席卡爾：美國聯邦通訊委員會或將很快釋出指引，禁止播出虛假民調。"
     }
   ]
 }
