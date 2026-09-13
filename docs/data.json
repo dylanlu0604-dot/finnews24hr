@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-14 01:43:24",
-  "count": 13445,
+  "updated": "2026-09-14 01:47:17",
+  "count": 13442,
   "items": [
+    {
+      "id": "mkt:01a09bdf-b3de-7118-855e-05bfe78a4345",
+      "time": "2026-09-14 01:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he will cancel tariffs on Irish whiskey."
+    },
+    {
+      "id": "5091704",
+      "time": "2026-09-14 01:43:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談對愛爾蘭威士忌的關稅：將取消。"
+    },
     {
       "id": "5091703",
       "time": "2026-09-14 01:39:55",
@@ -123417,51 +123436,6 @@
         "MKT News"
       ],
       "text": "U.S. special envoy Witkoff said the U.S. has made roughly eight visits to Moscow, met with Putin and his team, and was treated respectfully. He said building relationships is essential to resolving such conflicts; without ties to both parties, the odds of a peaceful settlement are slim."
-    },
-    {
-      "id": "5079600",
-      "time": "2026-09-07 01:45:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫：已經八次前往莫斯科會晤普京及其團隊，對方一直給予我們禮遇。"
-    },
-    {
-      "id": "mkt:01a077d3-8095-7118-84bb-3dfa43f5e264",
-      "time": "2026-09-07 01:45:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said without a strong battlefield posture and a solid Ukrainian position there would be nothing but an \"ultimatum\", but diplomatic options are now viable."
-    },
-    {
-      "id": "mkt:01a077d3-132c-7118-84bb-361f10df258c",
-      "time": "2026-09-07 01:45:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Ukraine's President Zelenskiy said he believed Ukraine had become stronger over the past year, that its forces had performed exceptionally and that this had opened opportunities for diplomacy."
-    },
-    {
-      "id": "5079599",
-      "time": "2026-09-07 01:45:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫：對於解決此類衝突而言，各方關係至關重要。如果無法同衝突雙方建立溝通關係，那麼實現和平解決的可能性微乎其微。"
-    },
-    {
-      "id": "5079595",
-      "time": "2026-09-07 01:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：如果戰場沒有強勢姿態，烏克蘭不具備有力地位，迎來的只會是最後通牒，但如今外交途徑具備可行性。"
     }
   ]
 }
