@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-14 04:34:57",
-  "count": 13427,
+  "updated": "2026-09-14 04:38:45",
+  "count": 13429,
   "items": [
+    {
+      "id": "5091746",
+      "time": "2026-09-14 04:36:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內漲超1%，現報2.9653美元。"
+    },
+    {
+      "id": "mkt:01a09c7b-1d22-7118-855f-3b53826668ff",
+      "time": "2026-09-14 04:35:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet"
+      ],
+      "text": "【King Charles III to host AI summit as industry voices call for slowdown】The New York Times reported King Charles III will meet AI industry leaders this week at Dumfries House in southwest Scotland to discuss socially beneficial development and deployment. Buckingham Palace said attendees will include NVIDIA, Google, DeepMind, OpenAI and ANTHROPIC alongside government officials. The meeting comes as AI insiders and some company leaders warn rapid, unchecked development could pose global risks and have urged shared guidelines and a deliberate slowdown to give society time to adapt."
+    },
+    {
+      "id": "5091745",
+      "time": "2026-09-14 04:34:30",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "查爾斯三世將在蘇格蘭會見AI行業領袖，包括英偉達、谷歌DeepMind負責人，OpenAI、Anthropic等企業高管。"
+    },
     {
       "id": "mkt:01a09c79-f4ba-7118-855f-3319226ba08a",
       "time": "2026-09-14 04:33:53",
@@ -123320,14 +123352,6 @@
         "MKT News"
       ],
       "text": "Alternative for Germany (AfD) chair Alice Weidel said Germany needs good relations with Russia and, above all, with the United States. She noted the US is now sending envoys to Moscow to mediate between Moscow and Kyiv — a role she said could originally have been filled by Germany."
-    },
-    {
-      "id": "mkt:01a07871-5217-7118-84bc-96a0a784156f",
-      "time": "2026-09-07 04:38:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Alternative for Germany (AfD) chair Weidel, on the Russia-Ukraine conflict, said the party remains open to diplomatic channels and urged keeping lines of communication with Russia open to reach an understanding and find a peaceful resolution."
     }
   ]
 }
