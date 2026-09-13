@@ -1,7 +1,52 @@
 {
   "date": "2026-09-14",
-  "count": 208,
+  "count": 213,
   "items": [
+    {
+      "id": "5091800",
+      "time": "2026-09-14 06:45:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "7月紐西蘭短期訪客數量較去年同期增長8.5%。"
+    },
+    {
+      "id": "5091799",
+      "time": "2026-09-14 06:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭7月經季節調整後淨移民人數增加3010人。"
+    },
+    {
+      "id": "te:economy:583311",
+      "time": "2026-09-14 06:44:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 0"
+      ],
+      "text": "New Zealand Private Sector Grows for 3rd Month — The BusinessNZ Performance of Composite Index stood at 52.5 in August 2026, unchanged from the previous month. It marked the third consecutive month of expansion in the private sector, though manufacturing growth eased to a three-month low, while the services sector rose the most in eight months."
+    },
+    {
+      "id": "5091798",
+      "time": "2026-09-14 06:44:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【北證50指數樣本股調整正式生效】北京證券交易所聯合中證指數有限公司對北證50指數樣本股進行定期調整，於9月14日（星期一）正式生效。本次調整中，北證50指數成份股調入凱德石英、惠豐鑽石、美德樂、蘅東光4只股票，同時調出則成電子、吉岡精密、青矩技術、駿創科技4只股票。此次調入標的分屬半導體石英材料、金剛石功能材料、智慧輸送系統、光通訊無源器件等細分領域，進一步強化了北證50指數對“專精特新”企業與產業鏈關鍵環節的代表性。當前北證50指數市盈率約40倍，處於歷史約五成分位，多家機構判斷市場正處於“底部抬升、等待增量催化”階段。（中證報）"
+    },
+    {
+      "id": "5091797",
+      "time": "2026-09-14 06:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：瑞典大選結果難分勝負，計票可能需要數天時間。"
+    },
     {
       "id": "mkt:01a09cee-a5c9-7118-8560-44506c53aca6",
       "time": "2026-09-14 06:41:20",
