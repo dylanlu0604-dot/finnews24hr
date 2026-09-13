@@ -1,7 +1,135 @@
 {
   "date": "2026-09-14",
-  "count": 131,
+  "count": 145,
   "items": [
+    {
+      "id": "mkt:01a09cc2-4404-7118-855f-8e80c0bea158",
+      "time": "2026-09-14 05:52:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina defense minister says US not taking sides in Malvinas (Falkland Islands) dispute】Argentina Defense Minister Carlos Alberto Prestí said on the 13th the U.S. government has not taken sides in the Malvinas (Falkland Islands) sovereignty dispute, and supports a peaceful resolution without favoring Argentina or the UK."
+    },
+    {
+      "id": "5091756",
+      "time": "2026-09-14 05:52:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷防長：美政府並未在馬島爭端中偏向某一方】阿根廷國防部長卡洛斯·阿爾韋託·普雷斯蒂13日表示，美國政府並未在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中偏向某一方。普雷斯蒂13日接受媒體採訪時說，美國政府支援和平解決馬島主權爭端，並未偏向阿根廷或英國。（新華社）"
+    },
+    {
+      "id": "5091755",
+      "time": "2026-09-14 05:41:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破61美元/盎司，日內漲幅7%。"
+    },
+    {
+      "id": "5091754",
+      "time": "2026-09-14 05:39:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理：以軍摧毀了黎巴嫩境內伊朗最大軍事據點，這是伊朗境外最大的一個。"
+    },
+    {
+      "id": "mkt:01a09cb3-f157-7118-855f-852bea34e891",
+      "time": "2026-09-14 05:37:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK PM Burnham to meet business leaders to discuss growth and investment】UK Prime Minister Burnham will tell business leaders on Monday the government will be a partner for economic growth and said a cultural shift is needed to encourage entrepreneurship. He will hold a roundtable with entrepreneurs from AI, fintech, healthtech, manufacturing and quantum computing, then host top corporate executives at a Downing Street reception. Downing Street said the event will focus on how government can simplify starting, scaling and investing in companies while ensuring growth benefits local communities. On Sunday Burnham said the UK has the talent, universities and visionary communities required but must change the way business operates to unlock its full potential."
+    },
+    {
+      "id": "5091753",
+      "time": "2026-09-14 05:27:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "奈飛暗盤跌破74美元，日內跌5.9%。"
+    },
+    {
+      "id": "mkt:01a09caa-2ace-7118-855f-79c77666f830",
+      "time": "2026-09-14 05:26:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to an Axios global affairs reporter, a senior Gulf state official said Saudi Arabia has submitted amendments to an Oman-Iran proposal on the Strait of Hormuz, arguing the draft wording could effectively establish a new status quo in the strait—an outcome Saudi Arabia and other GCC states deem unacceptable."
+    },
+    {
+      "id": "5091752",
+      "time": "2026-09-14 05:19:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯對阿曼與伊朗的提案提交修改意見。"
+    },
+    {
+      "id": "5091751",
+      "time": "2026-09-14 05:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特針對阿曼伊朗提案的修改內容涉及霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a09ca3-2573-7118-855f-71c462e33c83",
+      "time": "2026-09-14 05:18:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Multiple blasts reported in Sirik, Hormozgan province, Iran】Several loud explosions were heard in the Sirik area of Hormozgan province, Iran, in the early hours of the 14th local time. The nature of the blasts is unclear and authorities have issued no official statement."
+    },
+    {
+      "id": "5091750",
+      "time": "2026-09-14 05:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗錫裡克地區傳出數聲爆炸巨響】據伊朗方面當地時間14日凌晨訊息，伊朗霍爾木茲甘省錫裡克地區傳出數聲爆炸巨響。截至目前，爆炸性質尚未明確，官方未發表相關宣告。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09c9f-6cac-7118-855f-6bd25c601b03",
+      "time": "2026-09-14 05:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign ministry said Deputy Minister for International and Multilateral Affairs and Deputy Undersecretary for Economic and Development Affairs Abdulrahman Al-Rassi met Pakistan’s ambassador to Saudi Arabia, Ahmed Farooq, to discuss matters of mutual concern."
+    },
+    {
+      "id": "mkt:01a09c9d-c34a-7118-855f-673126a90c30",
+      "time": "2026-09-14 05:12:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Iran central bank governor heads to Istanbul to discuss new trade mechanisms】Iran’s central bank governor has departed for Istanbul and will meet central bank governors from Islamic countries to discuss deepening banking and trade ties and to consider creating new mechanisms to facilitate trade, the Mehr news agency reported."
+    },
+    {
+      "id": "mkt:01a09c9c-ef74-7118-855f-5aa56c845188",
+      "time": "2026-09-14 05:12:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran senior lawmaker says US understands only \"language of force\"】State media quoted Abbas, spokesman for Iran's parliamentary presidium, saying the United States is duplicitous and \"only understands the language of force and power politics.\" He warned against negotiations that would weaken Iran's regional allies and said withdrawing from the Nuclear Non‑Proliferation Treaty would be \"a fully achievable and easily executed step.\" He said Israel, which possesses an undeclared nuclear arsenal, is among the small number of states that have not signed the treaty."
+    },
     {
       "id": "mkt:01a09c94-3423-7118-855f-5249c094bd52",
       "time": "2026-09-14 05:02:33",
