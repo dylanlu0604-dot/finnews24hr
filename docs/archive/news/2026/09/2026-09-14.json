@@ -1,7 +1,25 @@
 {
   "date": "2026-09-14",
-  "count": 171,
+  "count": 173,
   "items": [
+    {
+      "id": "5091776",
+      "time": "2026-09-14 06:06:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【標普500股指期貨下跌，霍爾木茲海峽會議推遲推動油價走高】阿曼外交大臣稱，伊朗與多個海灣國家原定商討在霍爾木茲海峽設立臨時航運通道的會議已推遲。受此影響，美股股指期貨早盤低開，原油合約上漲。美債期貨保持平穩，黃金與比特幣價格走低。美元兌日元匯率處於153關口，投機交易商自2月以來首次轉為日元淨多頭。"
+    },
+    {
+      "id": "mkt:01a09ccd-8afa-7118-855f-c96fbb7d1f54",
+      "time": "2026-09-14 06:05:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Social Democratic Party leader Andersson said the party is currently ahead and that, if the result holds, Sweden would see a new government."
+    },
     {
       "id": "5091775",
       "time": "2026-09-14 06:04:48",
