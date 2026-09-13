@@ -1,7 +1,28 @@
 {
   "date": "2026-09-13",
-  "count": 136,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:01a09838-959e-7118-8559-079531be5e28",
+      "time": "2026-09-13 08:44:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Record diesel prices squeeze US farm margins】The U.S.-Iran conflict has disrupted global fuel supplies and pushed U.S. diesel to record highs: $5.85/gal on Sept. 4 and a nationwide average of $6.05/gal on Sept. 11, AAA data show. Paul Mitchell, professor of agricultural and applied economics at the University of Wisconsin–Madison, said the surge is sharply compressing farm profits by raising fuel and transport costs across harvesting, on-farm handling and shipments to market."
+    },
+    {
+      "id": "5091128",
+      "time": "2026-09-13 08:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：胡塞武裝指責以色列在美國與和平委員會的支援下，持續在加沙實施暗殺行動。"
+    },
     {
       "id": "5091127",
       "time": "2026-09-13 08:36:25",
