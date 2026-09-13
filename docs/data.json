@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-13 09:01:21",
-  "count": 13505,
+  "updated": "2026-09-13 09:05:07",
+  "count": 13509,
   "items": [
+    {
+      "id": "5091139",
+      "time": "2026-09-13 09:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟對吸納加拿大成為聯絡成員國的提議持開放態度。"
+    },
+    {
+      "id": "mkt:01a0984a-003c-7118-8559-1756b9c9fddb",
+      "time": "2026-09-13 09:03:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said it has received a report of an incident in the Strait of Hormuz. A vessel transiting the strait was struck by an unidentified projectile. Crew status, damage assessment and any environmental impact are unknown."
+    },
+    {
+      "id": "5091138",
+      "time": "2026-09-13 09:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大總理卡尼提議讓加拿大成為歐盟 “聯絡成員國”。"
+    },
+    {
+      "id": "5091137",
+      "time": "2026-09-13 09:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織(UKMTO)稱，目前船員狀況、損失評估及環境影響均不明"
+    },
+    {
+      "id": "5091136",
+      "time": "2026-09-13 09:01:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國海上貿易組織(UKMTO)表示，一艘船隻在透過霍爾木茲海峽時被不明拋射物擊中。"
+    },
+    {
+      "id": "5091135",
+      "time": "2026-09-13 09:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動組織（UKMTO）表示，其已收到報告稱霍爾木茲海峽內發生一起安全事件。"
+    },
     {
       "id": "5091134",
       "time": "2026-09-13 08:59:32",
@@ -123941,28 +123993,6 @@
         "國際"
       ],
       "text": "據報道，美國財政部代理制裁主管吉恩·蘭格隨同維特科夫與庫什納一同出訪。蘭格參與了與普京特使基里爾·德米特里耶夫的預備會談，但並未出席同普京的會面。蘭格的到場，表明美國對俄製裁問題被納入了談判討論範疇。"
-    },
-    {
-      "id": "mkt:01a0743e-0e93-7118-84b5-8f44bc8b2f09",
-      "time": "2026-09-06 09:03:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA GPU rental rates mostly rise】As of Sept. 6, NVIDIA GPU rental rates: B200 $6.42/hour, +0.31% day, +5.94% week, +11.65% month; H200 $4.55/hour, -1.73% day, +2.48% week, -7.52% month; H100 $3.06/hour, +5.88% day, +6.62% week, +12.50% month; A100 $1.09/hour, +2.83% day, +5.83% week, +4.81% month; RTX5090 $0.63/hour, unchanged day-on-day, +18.87% week, +28.57% month."
-    },
-    {
-      "id": "5079039",
-      "time": "2026-09-06 09:02:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026重慶汽車創新大會啟幕 10項產業叢集創新成果釋出】9月3日，2026重慶汽車創新大會在重慶科學會堂舉行，集中釋出10項智慧網聯新能源汽車產業叢集創新成果。這些成果由長安汽車、賽力斯、吉利、慶鈴、招商車研、西部智聯及重慶3所本地高校院所推出，全面覆蓋智慧駕駛、智慧底盤、智慧座艙、綠色低碳等核心賽道。 當前，重慶正全力打造全球智慧網聯新能源汽車之都，新能源汽車產量、整車出口量持續高速增長。這次大會上，本土車企集中展示了重慶汽車產業前沿技術。比如，長安汽車依託SDA天樞架構，落地智慧駕駛、智慧底盤等創新技術；賽力斯升級超級增程、智慧安全技術，透過汽車產業大腦聯動300餘家合作伙伴協同發展。（重慶日報）"
     }
   ]
 }

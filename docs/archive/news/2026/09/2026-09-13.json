@@ -1,7 +1,59 @@
 {
   "date": "2026-09-13",
-  "count": 145,
+  "count": 151,
   "items": [
+    {
+      "id": "5091139",
+      "time": "2026-09-13 09:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟對吸納加拿大成為聯絡成員國的提議持開放態度。"
+    },
+    {
+      "id": "mkt:01a0984a-003c-7118-8559-1756b9c9fddb",
+      "time": "2026-09-13 09:03:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said it has received a report of an incident in the Strait of Hormuz. A vessel transiting the strait was struck by an unidentified projectile. Crew status, damage assessment and any environmental impact are unknown."
+    },
+    {
+      "id": "5091138",
+      "time": "2026-09-13 09:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大總理卡尼提議讓加拿大成為歐盟 “聯絡成員國”。"
+    },
+    {
+      "id": "5091137",
+      "time": "2026-09-13 09:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織(UKMTO)稱，目前船員狀況、損失評估及環境影響均不明"
+    },
+    {
+      "id": "5091136",
+      "time": "2026-09-13 09:01:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國海上貿易組織(UKMTO)表示，一艘船隻在透過霍爾木茲海峽時被不明拋射物擊中。"
+    },
+    {
+      "id": "5091135",
+      "time": "2026-09-13 09:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動組織（UKMTO）表示，其已收到報告稱霍爾木茲海峽內發生一起安全事件。"
+    },
     {
       "id": "5091134",
       "time": "2026-09-13 08:59:32",
