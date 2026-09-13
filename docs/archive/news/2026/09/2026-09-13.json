@@ -1,7 +1,23 @@
 {
   "date": "2026-09-13",
-  "count": 475,
+  "count": 477,
   "items": [
+    {
+      "id": "mkt:01a09a52-6277-7118-855b-fdb96e188851",
+      "time": "2026-09-13 18:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuania's National Crisis Management Center says Vilnius Airport has been closed and NATO scrambled jets after suspected drones were detected in Lithuanian airspace."
+    },
+    {
+      "id": "5091375",
+      "time": "2026-09-13 18:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛國家危機管理中心：立陶宛關閉維爾紐斯機場，北約緊急出動戰鬥機應對立陶宛領空疑似出現無人機。"
+    },
     {
       "id": "5091374",
       "time": "2026-09-13 18:20:53",

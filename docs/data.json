@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-13 18:30:08",
+  "updated": "2026-09-13 18:33:55",
   "count": 13492,
   "items": [
+    {
+      "id": "mkt:01a09a52-6277-7118-855b-fdb96e188851",
+      "time": "2026-09-13 18:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuania's National Crisis Management Center says Vilnius Airport has been closed and NATO scrambled jets after suspected drones were detected in Lithuanian airspace."
+    },
+    {
+      "id": "5091375",
+      "time": "2026-09-13 18:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛國家危機管理中心：立陶宛關閉維爾紐斯機場，北約緊急出動戰鬥機應對立陶宛領空疑似出現無人機。"
+    },
     {
       "id": "5091374",
       "time": "2026-09-13 18:20:53",
@@ -123814,25 +123830,6 @@
         "公司"
       ],
       "text": "【寧德時代與泰金新能、惠科新材料等達成戰略合作，將在未來3年共建40萬噸銅箔產能】近日，寧德時代與泰金新能、深圳惠科新材料股份有限公司等企業正式簽署戰略合作協議，各方將圍繞銅箔裝備集採、產能共建、成本定價、聯合研發及綠電共用等核心環節，建立深層次的長期戰略合作關係。根據協議，寧德時代將與惠科新材料等2家合作方在未來3年共同新建40萬噸銅箔產能。"
-    },
-    {
-      "id": "5079287",
-      "time": "2026-09-06 18:31:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美總統特使抵達基輔】據烏克蘭媒體今天（9月6日）報道，美國總統特使威特科夫和庫什納已乘火車抵達烏克蘭首都基輔。 (CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:01a07645-127b-7118-84b8-90cf9edd4c73",
-      "time": "2026-09-06 18:30:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's military said it struck the Ryazan refinery in Russia overnight."
     }
   ]
 }
