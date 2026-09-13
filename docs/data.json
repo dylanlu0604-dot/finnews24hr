@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-14 02:25:54",
-  "count": 13439,
+  "updated": "2026-09-14 02:29:43",
+  "count": 13441,
   "items": [
+    {
+      "id": "mkt:01a09c07-2bc3-7118-855e-3db47040b72d",
+      "time": "2026-09-14 02:28:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister said the military is preparing to fight to seize the Al-Tah Heights, part of Israel's security zone in Lebanon, and will prevent any Hezbollah attempt to return and garrison the area."
+    },
+    {
+      "id": "mkt:01a09c05-abee-7118-855e-343ad49a8cdb",
+      "time": "2026-09-14 02:26:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【U.S. consumer inflation expectations rise to 4.6%; gasoline and tariff worries climb】Kobeissi report: U.S. consumers expect one‑year inflation of about 4.6%—the third‑highest reading in 12 months and 1.1 percentage points above early‑2026. Spontaneous mentions of gasoline as a main concern rose to roughly 30% (the fourth‑highest in at least two years); mentions of tariffs rose to about 37%, the highest since April. The report indicates consumers broadly view a new round of inflation as beginning."
+    },
     {
       "id": "5091711",
       "time": "2026-09-14 02:18:14",
