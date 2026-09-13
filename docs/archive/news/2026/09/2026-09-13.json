@@ -1,7 +1,35 @@
 {
   "date": "2026-09-13",
-  "count": 625,
+  "count": 628,
   "items": [
+    {
+      "id": "mkt:01a09b62-66b7-7118-855d-4e2b7b5dd900",
+      "time": "2026-09-13 23:28:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK-EU summit delayed again; 'European-made' procurement plan poses new hurdle to post-Brexit reset】A summit to formalise a post-Brexit reset between the UK and EU, originally scheduled for July 22 and briefly moved to Nov. 6, has been delayed again and is now unlikely before late November, two EU officials told the Financial Times. UK ministers say the meeting must address new Prime Minister Andy Burnham’s objections to an EU 'European-made' procurement policy that would prioritise EU-made goods in some public and corporate contracts. The UK government says the measure could damage manufacturing sectors including autos and chemicals."
+    },
+    {
+      "id": "5091553",
+      "time": "2026-09-13 23:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家經濟委員會主任哈塞特：目前沒有理由加息。"
+    },
+    {
+      "id": "mkt:01a09b5e-d6ca-7118-855d-45a038ad7730",
+      "time": "2026-09-13 23:24:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Acting Iranian defense minister says Tehran ready for further fighting】Semi-official Tasnim News Agency quoted Brig. Gen. Majid Ibn Reza, acting defense minister, saying Tehran is fully prepared to respond to any new threats or a fresh round of fighting. In remarks on Sunday he warned Washington that those who expect Iran to be intimidated or to change course are \"gravely mistaken,\" and said Iran has shown only a small portion of its defense capabilities."
+    },
     {
       "id": "mkt:01a09b5c-b6df-7118-855d-3b3c6885b631",
       "time": "2026-09-13 23:22:19",
