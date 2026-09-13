@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-14 06:35:57",
-  "count": 13464,
+  "updated": "2026-09-14 06:39:47",
+  "count": 13468,
   "items": [
+    {
+      "id": "5091795",
+      "time": "2026-09-14 06:38:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic將連續第二個季度實現盈利】Anthropic向投資者表示，預計將實現連續第二個季度盈利。這對於Claude大模型背後的這家AI初創企業而言，是一個重要里程碑。該公司二季度實現創立以來首個季度盈利，營收飆升至115億美元以上。相關資料是該公司為籌備IPO向投資者推介材料的一部分。Anthropic增長速度超過競爭對手OpenAI，企業API產品與Claude程式碼開發工具需求旺盛。公司強調算力效率提升是利潤率改善的核心驅動因素。這家AI企業同時警示，由於持續重金投入新一代前沿模型與算力基礎設施，未來季度盈利無法保證。"
+    },
+    {
+      "id": "mkt:01a09ceb-83d8-7118-8560-3fd9ba1c2bf7",
+      "time": "2026-09-14 06:37:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's prime minister Kristersson said he will contact other party leaders to explore possible cooperation."
+    },
+    {
+      "id": "mkt:01a09ceb-45aa-7118-8560-30e36fcfc084",
+      "time": "2026-09-14 06:37:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said laser weapons are highly effective against certain types of slower-moving missiles and predicted they will be the future."
+    },
+    {
+      "id": "mkt:01a09cea-dda9-7118-8560-2e8b30945e98",
+      "time": "2026-09-14 06:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said ANTHROPIC's gross margin exceeds 80% when excluding revenue shared with distribution partners such as Amazon and model training costs."
+    },
+    {
+      "id": "mkt:01a09ce9-d74b-7118-8560-241f3825d0de",
+      "time": "2026-09-14 06:36:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said ANTHROPIC told a small group of shareholders its adjusted operating profit will be positive for a second consecutive quarter. The metric excludes stock-based compensation and similar costs."
+    },
     {
       "id": "mkt:01a09ce8-27af-7118-8560-1f03240fa96e",
       "time": "2026-09-14 06:34:15",
@@ -123680,14 +123722,6 @@
         "MKT News"
       ],
       "text": "North Korea has commissioned the destroyer \"Jiang Jian\" into its navy."
-    },
-    {
-      "id": "5079706",
-      "time": "2026-09-07 06:36:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美重啟穿梭外交 俄烏短暫停火 和平程序仍漫漫】9月5日到6日，美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團先後訪問莫斯科和基輔，並分別與俄羅斯總統普京和烏克蘭總統澤連斯基舉行會談。美特使訪問期間，俄烏分別宣佈暫停空襲對方首都三天。分析認為，俄烏局勢今後一段時期仍將維持“邊打邊談”的狀態，此次臨時停火安排與外交接觸為後續談判提供了基礎條件，但和平程序仍面臨諸多不確定性。（央視新聞）"
     }
   ]
 }
