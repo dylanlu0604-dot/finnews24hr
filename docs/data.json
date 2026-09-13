@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-14 07:03:24",
-  "count": 13479,
+  "updated": "2026-09-14 07:07:18",
+  "count": 13483,
   "items": [
+    {
+      "id": "5091813",
+      "time": "2026-09-14 07:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圖靈量子釋出TuringQ Gen3大規模晶片級可擴充套件光量子計算機】9月12日，2026浦江創新論壇成果釋出會上，圖靈量子創始人金賢敏正式釋出“TuringQ Gen3大規模晶片級可擴充套件光量子計算機”。據介紹，系統基於高速可程式設計薄膜鈮酸鋰光量子晶片，採用空時複用架構，利用時間模式與空間模式擴充套件計算規模。其中高斯玻色取樣的重要計算單元，“致遠3號”支援單晶片萬光子級、百萬模式數計算資源擴充套件。"
+    },
+    {
+      "id": "5091812",
+      "time": "2026-09-14 07:06:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納真科技：擬全球發售1.72億股H股，發售價32.96港元】9月14日早間，納真科技在港交所公告，公司擬全球發售172,014,700股H股，香港發售股份17,201,500股H股，國際發售股份154,813,200股H股，另有15%的超額配股權；發售價為每股32.96港元；預期股份將於2026年9月22日開始在香港聯交所買賣。"
+    },
+    {
+      "id": "te:markets:583316",
+      "time": "2026-09-14 07:06:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Jump — Brent rose toward $108 a barrel, a 4-month high, after rallying almost 9% last week, after Saudi Arabia shut a major crude pipeline following drone attacks, disrupting a key route used to bypass the Strait of Hormuz. Saudi Arabia halted the East-West pipeline as a precaution after Thursday’s attacks, with no indication yet of when operations will resume. Meanwhile, talks between Iran and several Gulf nations on establishing a temporary shipping lane through Hormuz were postponed, Oman’s Foreign Minister Badr Albusaidi said."
+    },
+    {
+      "id": "5091811",
+      "time": "2026-09-14 07:04:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海張江高新區、蘇州高新區簽署“區域協同”合作協議】2026年第二屆長三角國家高新區聯盟大會9月13日在上海舉行。上海張江高新區、蘇州高新區簽署“區域協同”合作協議，雙方將發揮上海（長三角）國際科技創新中心龍頭帶動作用、蘇州高新區先進製造及產業配套優勢，圍繞創新要素高效配置、科技與產業跨區域融合發展，探索長三角一體化發展新路徑。"
+    },
+    {
+      "id": "5091810",
+      "time": "2026-09-14 07:04:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克100指數期貨週一開盤跌超1%】週一開盤，道瓊斯指數期貨跌0.25%，標普500指數期貨跌0.50%，納斯達克100指數期貨跌1.06%。"
+    },
+    {
+      "id": "5091809",
+      "time": "2026-09-14 07:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角高新區新賽道培育“先鋒行動”啟動】2026年第二屆長三角國家高新區聯盟大會9月13日在上海舉行。大會發布長三角國家高新區聯盟階段性成果，集中展示13家園區圍繞量子科技、腦機介面、細胞與基因等不同新賽道的差異化探索，並啟動長三角高新區新賽道培育“先鋒行動”，探索優勢互補、協同推進的新賽道培育模式。高效能積體電路是國家重點培育的新賽道，積體電路亦為聯盟關注的重點產業。長三角積體電路產業基礎雄厚，已形成覆蓋晶片設計、晶圓製造、封裝測試、裝備材料等環節的完整產業體系，但仍面臨資源分散、跨區域協同不足、產業鏈對接不暢等問題。為此，長三角國家高新區聯盟積體電路專業委員會，在大會上正式設立。"
+    },
+    {
+      "id": "te:markets:583315",
+      "time": "2026-09-14 07:02:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Trades in the Green to Start the Week — The NZX 50 gained 95 points, or 0.7%, to 13,676 in Monday morning deals, erasing losses from the previous session and moving away from its lowest level since June 29, touched on Friday, mainly buoyed by gains in materials, healthcare, and financials. Fresh data lifted sentiment, as New Zealand private-sector growth remained robust, with services activity rising the most in eight months. Meanwhile, tourist arrivals hit a four-month high. However, traders were cautious ahead of the release of New Zealand’s Q2 GDP and a slew of economic data from China, New Zealand’s top trading partner, due this week. A fall in US stock futures capped the gains amid rising oil prices and AI safety concerns. Among early gainers were EBOS Group (2.3%), Fisher & Paykel (1.6%), Freightways Group (0.8%), Infratil (1.2%), and F&C Investment (0.6%)."
+    },
     {
       "id": "5091808",
       "time": "2026-09-14 07:00:14",
@@ -123809,30 +123872,6 @@
         "其他"
       ],
       "text": "【新華社國家高階智庫釋出新大眾文藝智庫報告 】新華社國家高階智庫6日釋出中英文智庫報告《新大眾文藝的繁榮發展與世界影響》。報告生動描繪了新大眾文藝繁榮發展的態勢，深入剖析了新大眾文藝興起的動因，提出新大眾文藝發展需把握的辯證關係，闡釋了新大眾文藝的世界意義。 報告指出，新大眾文藝是在網際網路、大資料、人工智慧等科技革命驅動下，文藝領域湧現出的由大眾廣泛參與創作、傳播和共享的，反映人民心聲和時代主題的全新文藝複合生態。新大眾文藝蓬勃發展態勢下，多元主體創作熱情迸發、內容形式空前豐富、文化活力充分釋放，形成新時代中國文化圖景中的亮麗風景線。  （新華社）"
-    },
-    {
-      "id": "5079715",
-      "time": "2026-09-07 07:06:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中美戰區司令會晤釋放的訊號，臺灣要聽懂】根據2026年5月美國總統特朗普訪華時的雙方共識，習近平主席將於今年秋季對美國進行國事訪問。進入9月，中美互動備受關注。對臺灣更是如此。 據新加坡《聯合早報》報道，8月31日至9 月2日，第28屆印太國防軍司令會議在加拿大維多利亞舉行。會議期間，中國人民解放軍東部戰區司令員楊志斌與美軍太平洋司令部司令帕帕羅舉行首次雙邊會談。雙方討論保持兩軍高層溝通暢通的重要性，以降低誤判風險，並推動雙方部隊以安全、專業方式行動。 這場會面之所以格外引人注目，關鍵在於雙方的身份。東部戰區直接擔負臺海方向的戰略任務；太平洋司令部則是美國在西太平洋進行軍事部署、推進盟友協作和介入地區事務的重要中樞。 兩位司令的會面，代表中美兩軍在最敏感方向恢復戰區層級面對面溝通。這意味著雙方正在最容易發生摩擦的領域，建立必要的聯絡與管控，為防止局勢失控設定底線。臺灣真正該聽懂什麼 中美戰區司令會晤，對臺灣釋放了三層清晰訊號。 第一，臺海不能成為中美戰略誤判的引爆點。中美都不願因為軍事摩擦而直接衝突，這為地區穩定增加了一層緩衝。 第二，臺海更不能成為 “臺獨” 挑釁的試驗場。中美兩軍溝通是為了管控風險，絕不是為了容忍風險製造者不斷突破紅線。 第三，臺海和平的根基不在外部承諾，而在兩岸關係本身。外部溝通可以減少危險，卻不能解決臺灣問題；真正能為臺灣同胞帶來長久安寧的，是堅持一箇中國原則、反對“臺獨”分裂、推動兩岸恢復交流與對話，祖國統一才是臺海和平之根。 （環球網）"
-    },
-    {
-      "id": "5079714",
-      "time": "2026-09-07 07:06:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加19.67噸】截至2026年09月04日，全球最大的白銀ETF iShares Silver Trust持倉量為15339.36噸，較前一個交易日增加19.67噸。"
-    },
-    {
-      "id": "5079713",
-      "time": "2026-09-07 07:03:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河出海口海圖正式出版】今天（9月7日），《平陸運河出海口》海圖向社會公開出版發行。同時，平陸運河入海口段沿海航標設定已全面完工，標誌著平陸運河航海安全保障體系從航道標識到海圖示註已全面就緒。《平陸運河出海口》海圖是中國海事局正式出版的平陸運河專用海圖，覆蓋自蘭海高速G75欽江大橋經龍門大橋至欽州港交匯點、全長22公里的平陸運河沿海段新建航道，與原有的欽州港海圖無縫銜接，共同構成北部灣欽州港區完整連續的航海圖序列。"
     }
   ]
 }

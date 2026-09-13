@@ -1,7 +1,70 @@
 {
   "date": "2026-09-14",
-  "count": 226,
+  "count": 233,
   "items": [
+    {
+      "id": "5091813",
+      "time": "2026-09-14 07:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圖靈量子釋出TuringQ Gen3大規模晶片級可擴充套件光量子計算機】9月12日，2026浦江創新論壇成果釋出會上，圖靈量子創始人金賢敏正式釋出“TuringQ Gen3大規模晶片級可擴充套件光量子計算機”。據介紹，系統基於高速可程式設計薄膜鈮酸鋰光量子晶片，採用空時複用架構，利用時間模式與空間模式擴充套件計算規模。其中高斯玻色取樣的重要計算單元，“致遠3號”支援單晶片萬光子級、百萬模式數計算資源擴充套件。"
+    },
+    {
+      "id": "te:markets:583316",
+      "time": "2026-09-14 07:06:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Jump — Brent rose toward $108 a barrel, a 4-month high, after rallying almost 9% last week, after Saudi Arabia shut a major crude pipeline following drone attacks, disrupting a key route used to bypass the Strait of Hormuz. Saudi Arabia halted the East-West pipeline as a precaution after Thursday’s attacks, with no indication yet of when operations will resume. Meanwhile, talks between Iran and several Gulf nations on establishing a temporary shipping lane through Hormuz were postponed, Oman’s Foreign Minister Badr Albusaidi said."
+    },
+    {
+      "id": "5091812",
+      "time": "2026-09-14 07:06:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納真科技：擬全球發售1.72億股H股，發售價32.96港元】9月14日早間，納真科技在港交所公告，公司擬全球發售172,014,700股H股，香港發售股份17,201,500股H股，國際發售股份154,813,200股H股，另有15%的超額配股權；發售價為每股32.96港元；預期股份將於2026年9月22日開始在香港聯交所買賣。"
+    },
+    {
+      "id": "5091811",
+      "time": "2026-09-14 07:04:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海張江高新區、蘇州高新區簽署“區域協同”合作協議】2026年第二屆長三角國家高新區聯盟大會9月13日在上海舉行。上海張江高新區、蘇州高新區簽署“區域協同”合作協議，雙方將發揮上海（長三角）國際科技創新中心龍頭帶動作用、蘇州高新區先進製造及產業配套優勢，圍繞創新要素高效配置、科技與產業跨區域融合發展，探索長三角一體化發展新路徑。"
+    },
+    {
+      "id": "5091810",
+      "time": "2026-09-14 07:04:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克100指數期貨週一開盤跌超1%】週一開盤，道瓊斯指數期貨跌0.25%，標普500指數期貨跌0.50%，納斯達克100指數期貨跌1.06%。"
+    },
+    {
+      "id": "5091809",
+      "time": "2026-09-14 07:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角高新區新賽道培育“先鋒行動”啟動】2026年第二屆長三角國家高新區聯盟大會9月13日在上海舉行。大會發布長三角國家高新區聯盟階段性成果，集中展示13家園區圍繞量子科技、腦機介面、細胞與基因等不同新賽道的差異化探索，並啟動長三角高新區新賽道培育“先鋒行動”，探索優勢互補、協同推進的新賽道培育模式。高效能積體電路是國家重點培育的新賽道，積體電路亦為聯盟關注的重點產業。長三角積體電路產業基礎雄厚，已形成覆蓋晶片設計、晶圓製造、封裝測試、裝備材料等環節的完整產業體系，但仍面臨資源分散、跨區域協同不足、產業鏈對接不暢等問題。為此，長三角國家高新區聯盟積體電路專業委員會，在大會上正式設立。"
+    },
+    {
+      "id": "te:markets:583315",
+      "time": "2026-09-14 07:02:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Trades in the Green to Start the Week — The NZX 50 gained 95 points, or 0.7%, to 13,676 in Monday morning deals, erasing losses from the previous session and moving away from its lowest level since June 29, touched on Friday, mainly buoyed by gains in materials, healthcare, and financials. Fresh data lifted sentiment, as New Zealand private-sector growth remained robust, with services activity rising the most in eight months. Meanwhile, tourist arrivals hit a four-month high. However, traders were cautious ahead of the release of New Zealand’s Q2 GDP and a slew of economic data from China, New Zealand’s top trading partner, due this week. A fall in US stock futures capped the gains amid rising oil prices and AI safety concerns. Among early gainers were EBOS Group (2.3%), Fisher & Paykel (1.6%), Freightways Group (0.8%), Infratil (1.2%), and F&C Investment (0.6%)."
+    },
     {
       "id": "5091808",
       "time": "2026-09-14 07:00:14",
