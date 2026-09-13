@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-14 02:48:47",
+  "updated": "2026-09-14 02:52:35",
   "count": 13444,
   "items": [
+    {
+      "id": "mkt:01a09c1c-2523-7118-855e-611b5fde92f7",
+      "time": "2026-09-14 02:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said previous presidents allowed large budget deficits and vowed he would never permit them; he also said he did extensive business in Ireland and that his support in the US is strong."
+    },
+    {
+      "id": "5091719",
+      "time": "2026-09-14 02:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及約旦河西岸事宜：以色列總理週一將與我通話。"
+    },
+    {
+      "id": "mkt:01a09c1b-e767-7118-855e-5f8a4a8173cd",
+      "time": "2026-09-14 02:51:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The U.S. National Security Agency has initiated a reorganization and plans to establish several new units focused on artificial intelligence, cyber, operations and global intelligence."
+    },
+    {
+      "id": "mkt:01a09c1a-0e10-7118-855e-51e8891700ac",
+      "time": "2026-09-14 02:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.1 earthquake at 02:41 on Sep 14 (local time) in Xinghai County, Hainan Prefecture, Qinghai; focal depth 10 km."
+    },
     {
       "id": "mkt:01a09c19-3ed8-7118-855e-4d27f1c4658d",
       "time": "2026-09-14 02:48:15",
@@ -123425,42 +123459,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Supreme National Security Council secretary said the US is attempting covert operations and spending significant funds to get 5-6 vessels through; such vessels are typically struck by Iran. He said Iran has not yet decided to sink those clandestine US ships because they carry oil and sinking them would cause regional environmental damage."
-    },
-    {
-      "id": "mkt:01a07810-8155-7118-84bb-7c796970cfb1",
-      "time": "2026-09-07 02:52:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran’s Supreme National Security Council secretary said the Strait of Hormuz is completely closed, calling US President Trump’s claim that it remains open a blatant lie. He said that before the closure more than 100 vessels carried over 100 million tonnes of cargo daily; now no more than seven to eight vessels carrying Iran’s basic supplies are transiting."
-    },
-    {
-      "id": "5079648",
-      "time": "2026-09-07 02:51:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書：48小時前，我方首次在美軍軍艦上空試射一枚伊朗反艦導彈。這枚特殊導彈給美軍制造了一場“地獄”，美軍艦船隨即逃離。"
-    },
-    {
-      "id": "5079647",
-      "time": "2026-09-07 02:49:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書：所謂美國經濟封鎖正在伊朗引發大規模饑荒的說法純屬彌天大謊。伊朗政府對此已經進行了長期研判與規劃，國內糧食以及生活必需品儲備充足。"
-    },
-    {
-      "id": "5079646",
-      "time": "2026-09-07 02:49:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書：霍爾木茲海峽已經完全關閉，美國總統特朗普所稱海峽仍處於開放狀態的說法完全是謊言。"
     }
   ]
 }

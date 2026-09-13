@@ -1,7 +1,41 @@
 {
   "date": "2026-09-14",
-  "count": 68,
+  "count": 72,
   "items": [
+    {
+      "id": "mkt:01a09c1c-2523-7118-855e-611b5fde92f7",
+      "time": "2026-09-14 02:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said previous presidents allowed large budget deficits and vowed he would never permit them; he also said he did extensive business in Ireland and that his support in the US is strong."
+    },
+    {
+      "id": "5091719",
+      "time": "2026-09-14 02:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及約旦河西岸事宜：以色列總理週一將與我通話。"
+    },
+    {
+      "id": "mkt:01a09c1b-e767-7118-855e-5f8a4a8173cd",
+      "time": "2026-09-14 02:51:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The U.S. National Security Agency has initiated a reorganization and plans to establish several new units focused on artificial intelligence, cyber, operations and global intelligence."
+    },
+    {
+      "id": "mkt:01a09c1a-0e10-7118-855e-51e8891700ac",
+      "time": "2026-09-14 02:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.1 earthquake at 02:41 on Sep 14 (local time) in Xinghai County, Hainan Prefecture, Qinghai; focal depth 10 km."
+    },
     {
       "id": "mkt:01a09c19-3ed8-7118-855e-4d27f1c4658d",
       "time": "2026-09-14 02:48:15",
