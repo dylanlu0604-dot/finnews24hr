@@ -1,7 +1,15 @@
 {
   "date": "2026-09-13",
-  "count": 249,
+  "count": 250,
   "items": [
+    {
+      "id": "mkt:01a0992e-e714-7118-855a-2e4082a38a0a",
+      "time": "2026-09-13 13:13:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Libya denies Ukrainian use of Misrata base to launch drones】Libya's Defense Ministry on the 12th said it has not permitted any party to use the northwestern Misrata military base to carry out military actions beyond national sovereignty duties. The statement was issued in response to a CNN report alleging Ukraine is using the base to launch strikes on a so‑called Russian \"shadow fleet.\""
+    },
     {
       "id": "mkt:01a0992d-41cf-7118-855a-22712ced088f",
       "time": "2026-09-13 13:11:14",
