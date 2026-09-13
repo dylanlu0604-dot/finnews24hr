@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-14 02:10:33",
-  "count": 13441,
+  "updated": "2026-09-14 02:14:23",
+  "count": 13438,
   "items": [
+    {
+      "id": "5091708",
+      "time": "2026-09-14 02:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令：對應對伊朗導彈與無人機襲擊的彈藥短缺情況不擔憂。"
+    },
     {
       "id": "mkt:01a09beb-eb57-7118-855e-1bcefe377d89",
       "time": "2026-09-14 01:58:44",
@@ -123408,38 +123416,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡已下令撤離約旦河西岸部分定居點前哨據點。"
-    },
-    {
-      "id": "5079625",
-      "time": "2026-09-07 02:12:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎方稱以軍襲擊黎南部 致3人死亡】當地時間6日，黎巴嫩公共衛生部緊急行動中心發表宣告稱，當日，以色列國防軍使用無人機襲擊了黎南部納巴蒂耶地區的一個停車場，造成3人遇難。以色列方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a077eb-918f-7118-84bb-48b676942056",
-      "time": "2026-09-07 02:12:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration again appeals to Supreme Court over mail‑in ballot restrictions】The Trump administration on Sunday asked the U.S. Supreme Court to intervene after a federal judge blocked new limits on mail‑in ballots ahead of the midterms. U.S. District Judge Indira Talwani extended an injunction barring the Postal Service from implementing an executive order by Trump affecting the November election. States have already begun sending ballots, leaving little time to change rules. This is the administration's third request to the high court; the Supreme Court has allowed the administration's plan to proceed but has not ruled on its legality. About one‑third of U.S. voters cast ballots by mail, so the dispute could materially affect control of Congress."
-    },
-    {
-      "id": "5079624",
-      "time": "2026-09-07 02:11:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方否認伊朗關於其在霍爾木茲海峽擊中一艘美軍無人艦艇的說法，稱該報道完全是謊言。"
-    },
-    {
-      "id": "5079623",
-      "time": "2026-09-07 02:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【A股縮量整理或臨近尾聲 機構看好9月中下旬行情】A股市場延續震盪整理格局。中東地緣政治擾動再起、10年期美債收益率上揚，對科技板塊形成壓制，風格再平衡仍是市場的主要特徵。券商策略展望報告認為，總體而言，海外市場系統性風險可控，但美債收益率波動與加息預期的反覆博弈，或對全球股市風險偏好形成擾動，成為短期波動的主要原因。但是，隨著半年報驗證A股企業盈利持續向好、科技板塊擁擠度逐步消化，市場底部支撐正不斷增強，A股市場進一步下行空間有限。展望後市，9月中下旬或成為反彈的重要時間視窗。"
     }
   ]
 }
