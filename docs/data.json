@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-13 19:26:55",
+  "updated": "2026-09-13 19:30:43",
   "count": 13467,
   "items": [
+    {
+      "id": "5091391",
+      "time": "2026-09-13 19:29:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞首次在海獅體內檢出H5N1禽流感病毒】澳大利亞南澳大利亞州官員13日表示，該國首次在瀕危的澳大利亞海獅身上檢出H5N1型高致病性禽流感病毒。南澳州環境部長埃米莉·伯克說，這頭海獅11日在袋鼠島死亡，經檢測，其感染了H5N1禽流感病毒。（新華社）"
+    },
+    {
+      "id": "5091390",
+      "time": "2026-09-13 19:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳市歡創科技股份有限公司透過港交所上市聆訊】據港交所檔案：深圳市歡創科技股份有限公司透過港交所上市聆訊。"
+    },
     {
       "id": "5091389",
       "time": "2026-09-13 19:24:53",
@@ -123577,28 +123593,6 @@
         "其他"
       ],
       "text": "【“張雪機車”德比斯法國站次回合獲得第三名】2026世界超級摩托車錦標賽法國站WorldSSP組別次回合正賽9月6日在法國訥韋爾-馬尼庫爾賽道舉行，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯獲得第三名。（新華社）"
-    },
-    {
-      "id": "mkt:01a0767a-54e2-7118-84b8-e4f2192c6195",
-      "time": "2026-09-06 19:28:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "OPEC+ said it made no changes to oil production quotas at its Sunday meeting."
-    },
-    {
-      "id": "mkt:01a07679-033d-7118-84b8-db5995133f68",
-      "time": "2026-09-06 19:27:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China's Ministry of Finance will issue special government bonds to fund capital injections into eight central financial enterprises."
     }
   ]
 }
