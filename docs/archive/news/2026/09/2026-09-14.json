@@ -1,7 +1,33 @@
 {
   "date": "2026-09-14",
-  "count": 47,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:01a09beb-3caa-7118-855e-10cf8998f774",
+      "time": "2026-09-14 01:57:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US will lift tariffs on Irish whiskey】Trump said on Sunday at his golf course in western Ireland that the United States will lift tariffs on Irish whiskey. He said Irish Prime Minister Micheál Martin and Open champion Shane Lowry urged him to drop the measures during his visit. \"I, on behalf of the United States, will remove these tariffs,\" he said."
+    },
+    {
+      "id": "5091707",
+      "time": "2026-09-14 01:57:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟Windows系統與Mac版Office許可證本週末大幅降價，最低售價僅9.97美元。"
+    },
+    {
+      "id": "5091706",
+      "time": "2026-09-14 01:56:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特軍隊在過去24小時內對葉門發動了58次襲擊】葉門武裝部隊發言人表示，在過去24小時內，沙特軍隊對塔伊茲、拉赫季、焦夫、胡賈、白達和薩達等省份實施了58次大規模空襲。"
+    },
     {
       "id": "mkt:01a09be5-d2d7-7118-855e-0c9f9f8d2a8f",
       "time": "2026-09-14 01:52:05",
