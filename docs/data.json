@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-14 01:58:50",
+  "updated": "2026-09-14 02:02:48",
   "count": 13443,
   "items": [
+    {
+      "id": "mkt:01a09beb-eb57-7118-855e-1bcefe377d89",
+      "time": "2026-09-14 01:58:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi says Saudi carried out 58 airstrikes in Yemen over past 24 hours】Houthi spokesman Yahya Sarea said Saudi forces launched 58 large-scale airstrikes in the past 24 hours across Taiz, Lahij, Al Jawf, Hodeidah, Bayda and Saada provinces, carried out by F-15 fighters that took off from Saudi Arabia's KHAMIS MUSHAIT airbase."
+    },
     {
       "id": "mkt:01a09beb-3caa-7118-855e-10cf8998f774",
       "time": "2026-09-14 01:57:59",
@@ -123444,14 +123456,6 @@
         "國際"
       ],
       "text": "特朗普在社交平臺釋出一張圖片，將伊朗地圖變成自己的頭像。"
-    },
-    {
-      "id": "5079616",
-      "time": "2026-09-07 02:02:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：月球屬於我們。"
     }
   ]
 }
