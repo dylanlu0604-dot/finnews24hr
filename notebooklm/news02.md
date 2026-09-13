@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-14 02:44:51_
-_本檔包含 2715 則快訊，約 543235 字_
+_更新時間：2026-09-14 05:05:22_
+_本檔包含 2694 則快訊，約 542830 字_
+
+---
+
+### 2026-09-11 16:10:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Drops by 1.56% — Top commodity losers are Oat (-1.56%), Canola (-1.53%) and Soybeans (-1.20%).
+
+---
+
+### 2026-09-11 16:08:41  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Ease Slightly but Stay Near 19-Year Highs — The UK 10-year gilt yield dipped toward 5.35% on Friday as the energy price rally paused ahead of a key US CPI report, which could reinforce expectations of a Federal Reserve rate hike next week. Yet, yields remain close to 19-year peaks, with the 30-year yield near 6%, a level last seen in 1998. Investors processed stronger-than-expected UK GDP data, with July’s month-on-month growth at 0.4%, beating forecasts, while growth over the three months to July matched the previous period at 0.4%. Meanwhile, Brent crude stayed close to a four-month high, and UK natural gas prices remained near a 3.5-year high, amplifying concerns about renewed inflationary pressures. Markets have nearly priced in a Bank of England rate hike in November and anticipate three additional increases by mid-2027, even as Governor Bailey clarified on Tuesday that future decisions will depend on economic and geopolitical conditions, dismissing the notion that a rate rise is merely a matter of time.
+
+---
+
+### 2026-09-11 16:06:04  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Trades Higher — The FTSE MIB rose to around 52,100 on Friday, after edging lower in the previous session, as oil prices eased, offering some relief to markets. Still, tensions in the Middle East remained elevated, keeping inflation risks and expectations for tighter monetary policy in focus. Banking stocks outperformed, with UniCredit up 0.7% and Intesa Sanpaolo 1.5%, as investors continued to assess the sector’s consolidation wave. UniCredit’s board approved a capital increase to support its planned takeover of Commerzbank, while Intesa’s proposed acquisition of MPS faces an upcoming antitrust review. Other financials rising included Unipol (+1.4%), Banca Mediolanum (+1.3%) and FinecoBank (+1.0%). Prysmian also added 0.8% after raising €850 million through a capital increase to partially fund its planned acquisition of US-based Atkore. For the week, the benchmark index is poised for a muted performance.
+
+---
+
+### 2026-09-11 16:05:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore CNY Drops by 1.78% — Top commodity losers are Iron Ore CNY (-1.78%), Lithium Carbonate (-1.73%) and Silicon (-1.55%). Gains are led by Gold (0.62%) and Silver (0.55%).
+
+---
+
+### 2026-09-11 16:00:00  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Falls by 2.24% — Top commodity losers are Natural Gas UK (-2.24%), Natural Gas EU (-2.21%), Brent Oil (-1.59%) and Crude Oil (-1.34%).
+
+---
+
+### 2026-09-11 15:56:44  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Rebound, Still Set for 5th Weekly Decline — The CAC 40 rose 0.4% on Friday, rebounding from two straight sessions of losses as a pullback in oil prices and global bond yields offered some relief to investors. Still, Middle East tensions kept sentiment cautious after US President Donald Trump said he did not expect the Iran war to end before the November midterm elections and that oil prices were unlikely to decline until then. In Europe, the European Central Bank recently delivered its widely anticipated 25 bps rate hike, its second increase this year, as it sought to contain an energy-driven rise in inflation. The ECB also warned that price pressures could prove persistent, fueling expectations of further policy tightening as early as October. Notable gainers included Airbus (1.6%), Safran (2%), Societe Generale (1%) and Kering (1%). Despite Friday’s rebound, the CAC 40 remained on track for its fifth consecutive weekly decline.
+
+---
+
+### 2026-09-11 15:55:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Attempts Recovery — Frankfurt's DAX 40 edged up 0.4% to around 25,460 on Friday, after two consecutive sessions of losses, despite ongoing concerns over inflation, the prospect of further rate hikes and geopolitical tensions. A modest decline in oil prices provided some relief for energy-intensive industrials, despite prices remaining elevated. Aerospace & defense stocks, insurers, and tech stocks also advanced solidly, offsetting weakness in software, autos, and chemicals. Siemens Energy led gains among stocks, rising 1.8%, followed by GEA Group, Airbus, Siemens, Munchener Ruck and MTU Aero Engines, each adding over 1%. On the flip side, BASF (-2.2%), SAP (-1.8%) and Brenntag (-1.5%) posted the biggest losses. For the week, however, the index was on track to fall more than 2%, marking its steepest weekly decline since April.
+
+---
+
+### 2026-09-11 15:44:09  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Rise on Friday, Set for Big Weekly Loss — European stocks moved higher on Friday, with the STOXX 50 gaining 0.5% and the STOXX 600 rising 0.3%, following losses in the previous sessions that pushed both benchmarks to July-lows. The gains came as oil prices edged lower, although tensions in the Middle East remained elevated. Banking stocks were among the top performers, with Banco Santander rising 1.3% and BBVA gaining 1%. Industrial and aerospace stocks also advanced, led by Airbus (+1.6%), Safran (+2.0%) and Siemens (+1.1%). SAP, however, fell 1.6%. Despite Friday’s rebound, European equities posted a sharp weekly decline. The STOXX 50 fell 1.9% over the week, while the STOXX 600 dropped 2.2%, marking their biggest weekly losses since April. Rising energy costs have fueled concerns about a renewed pickup in inflation, increasing pressure on central banks to maintain a tighter monetary policy. The ECB raised borrowing costs by 25bps yesterday, as expected. Markets are now pricing in three additional rate hikes by March 2027.
+
+---
+
+### 2026-09-11 15:37:32  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Set for 2% Weekly Drop — The FTSE 100 traded around the flatline on Friday, remaining near its lowest level since July 21 and heading for a weekly decline of more than 2%, its steepest fall since April. Heavyweight stocks including HSBC, Unilever and Rolls-Royce were among the main drags, while Shell and BP remained the strongest performers, supported by higher oil prices. UK equities received some support from stronger-than-expected economic data, with GDP rising 0.4% in July after expanding 0.3% in June. The increase was well above economists’ expectations for no growth and marked a third consecutive month in which the economy exceeded forecasts, suggesting the UK may prove more resilient than expected during the second half of 2026. Meanwhile, Brent crude eased towards $105 a barrel but remained on course for a weekly gain of almost 10%.
+
+---
+
+### 2026-09-11 15:36:29  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Sterling Stabilizes on Strong UK Growth — The British pound stabilized around $1.35 on Friday as investors digested stronger-than-expected UK GDP data and growing expectations for further Bank of England rate hikes. UK GDP grew 0.4% month-on-month in July, surpassing forecasts, with services leading the expansion. Over three months, growth matched the prior period at 0.4%. Meanwhile, the recent energy price rally paused, although Brent crude remained close to a four-month high and UK natural gas prices hovered near a three-and-a-half-year high, adding to concerns over renewed inflationary pressures. Markets are now fully pricing in four BoE rate increases by the end of 2027, though Governor Bailey has noted recently future decisions depend on economic and geopolitical conditions. The dollar, meanwhile, edged higher ahead of a key US CPI report due later today. Stronger-than-expected US producer price data released on Thursday boosted expectations of a Federal Reserve rate hike next week.
+
+---
+
+### 2026-09-11 15:33:25  #Trading Economics #Economy #Croatia #Government Bond 10Y #Importance 0
+
+Croatia 10Y Bond Yield Hits 33-month High — Croatia 10 Year Government Bond Yield increased to 3.87%, the highest since November 2023. Over the past 4 weeks, Croatia 10Y Bond Yield gained 9.05 basis points, and in the last 12 months, it increased 56.60 basis points.
+
+---
+
+### 2026-09-11 15:33:18  #Trading Economics #Economy #Turkey #Current Account #Importance 1
+
+Turkey Current Account Surplus Narrows in July — Turkey’s current account surplus narrowed sharply to $0.04 billion in July 2026 from $1.76 billion in the same month of the previous year, missing market expectations of a $0.65 billion surplus. The goods account shortfall increased to $5.58 billion from $4.56 billion a year earlier, while the primary income deficit widened to $2.56 billion from $1.54 billion. On the other hand, the secondary income gap decreased to $0.06 billion from $0.15 billion in July 2025, while the services account surplus rose to $8.23 billion from $8.02 billion. For the first seven months of the year, the country recorded a current account deficit of $34.83 billion, notably higher than the $24.25 billion shortfall in the corresponding period last year.
+
+---
+
+### 2026-09-11 15:32:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.03% Lower — The FTSE 100 Index is dropping 3 points. Leading the losses are Relx (-2.15%), London Stock Exchange (-1.50%) and Barratt Redrow (-1.49%). Top gainers were Barclays (1.06%), BT (0.90%) and Rolls-Royce (0.90%).
+
+---
+
+### 2026-09-11 15:31:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.40% Higher — The DAX Index is picking up 101 points or 0.40 percent on Friday. Gains are led by Siemens Energy (1.72%), Airbus (1.46%) and Siemens (1.38%). Biggest losers are BASF (-2.02%), SAP (-1.50%) and Brenntag (-1.27%).
+
+---
+
+### 2026-09-11 15:30:15  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is up by 36 points or 0.44 percent on Friday. Top gainers are Safran (1.93%), Airbus (1.46%) and Accor (0.94%). Biggest losses came from TP (-1.30%), Edenred (-0.85%) and ENGIE (-0.49%).
+
+---
+
+### 2026-09-11 15:18:22  #Trading Economics #Economy #Turkey #Retail Sales YoY #Importance 1
+
+Turkey Retail Sales at Over 1-Year Low — Retail sales in Turkey rose 10.4% year-on-year in July 2026, slowing from a downwardly revised 11.5% in the previous month. It marked the weakest annual growth since March 2025, mainly driven by softer sales in other household equipment in specialized stores (0.7% vs 2.1% in June), other goods in specialized stores (20.5% vs 25.4%), non-specialized stores (3.6% vs 4.2%), and trade not in stores, stalls and markets (19.2% vs 23.4%). Meanwhile, sales growth accelerated for food, beverages and tobacco in specialized stores (4.2% vs 0.6%), automotive fuel in specialized stores (8.0% vs 1.3%), information and communication equipment in specialized stores (10.9% vs 10.5%), cultural and recreation goods in specialized stores (10.9% vs 7.1%), and sales via stalls and markets (18.7% vs 13.4%). On a seasonally adjusted monthly basis, retail sales rose 0.2%, easing from a 0.5% increase in June.
+
+---
+
+### 2026-09-11 15:16:15  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 1.21% Lower — The Shangai Composite Index fell 48 points or 1.21 percent on Friday to close at 3887 points. Leading the losses are Hengli Petrochemical (-6.30%), Yonghui Superstore (-5.56%) and Zijin Mining (-5.42%).
+
+---
+
+### 2026-09-11 15:13:47  #Trading Economics #Economy #Switzerland #Consumer Confidence #Importance 2
+
+Swiss Consumer Morale Least Negative in 6 Months — Switzerland's consumer confidence index rose to -33 in August 2026 from -40 in the same month a year earlier, pointing to an improvement in household confidence but remaining slightly below market expectations of -32. This marked the least negative reading since February, with the biggest improvement coming from the economic outlook, as the corresponding index rose to -36 from -66 in August last year. Meanwhile, sentiment around the past financial situation improved modestly to -39 from -40, while the financial outlook weakened slightly to -30 from -29. The index measuring whether it was a good time to make major purchases also declined to -26 from -24, suggesting households remained cautious about discretionary spending. The overall reading also improved from the previous month, when the index stood at -35.
+
+---
+
+### 2026-09-11 15:10:17  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Rises to 3-Month High — The yield on India’s 10-year G-Sec rose to around 7%, reaching more than three-month highs as surging crude oil prices, higher US Treasury yields and growing expectations of global monetary tightening triggered a broad bond selloff. Brent crude climbed above $100 a barrel to around $108 as escalating Middle East tensions disrupted energy supplies and shipping through the Strait of Hormuz and Red Sea, raising inflation concerns for India. Meanwhile, US Treasury yields rose after producer price inflation strengthened expectations of a Federal Reserve rate hike next week, with markets pricing a 72% chance of a 25-basis-point increase and the 10-year yield nearing 5%. German and Japanese 10-year yields also climbed to multi-year highs, reinforcing the global bond selloff. Domestic bonds faced additional pressure from expectations of RBI liquidity withdrawal, with banking system liquidity exceeding INR 10 trillion.
+
+---
+
+### 2026-09-11 15:07:14  #Trading Economics #Economy #United States #Inflation Rate #Importance 3
+
+US Inflation Rate Seen Holding Steady at 3.4% — The annual US inflation rate is expected to have held steady at 3.4% in August 2026, matching the July reading. On a monthly basis, CPI is forecast to rise 0.4%, the strongest increase in three months, following a 0.1% gain in July. Gasoline prices are expected to have climbed nearly 3%, while grocery prices are also projected to rebound. Airfares are likely to remain elevated amid higher fuel costs, while housing costs are expected to continue showing signs of softness. Meanwhile, core CPI, which excludes food and energy, is expected to rise 0.2% mom, matching July’s increase, and 2.4% yoy, which would mark the lowest reading since March 2021, down from 2.5% in July. Overall, inflation is expected to remain well above the Fed’s 2% target.
+
+---
+
+### 2026-09-11 15:02:37  #央行 #美聯儲
+
+【美聯儲下週是否加息？今晚20:30 市場迎來“終極一戰”！】北京時間今晚20點半，美國勞工統計局即將公佈8月CPI資料，這也將是美聯儲在下週做出利率決定前獲得的最後一塊“通脹拼圖”。
+
+---
+
+### 2026-09-11 14:56:07  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Drop on Higher Oil Prices, Bond Yields — The Nikkei 225 Index declined 1.93% to 64,011, while the broader Topix Index slipped 0.65% to 4,028 on Friday, with both benchmarks recording steep weekly losses as elevated oil prices and rising global bond yields weighed on equities. Investors also awaited the US CPI report after Thursday’s PPI data showed wholesale prices picked up last month, strengthening expectations for a Federal Reserve rate hike next week. Domestically, the Bank of Japan is likewise expected to raise interest rates, with board member Kazuyuki Masu indicating that policymakers will continue tightening and gradually reduce monetary support as underlying inflation approaches the 2% target. Technology and AI-related shares led the selloff, with Kioxia Holdings falling 7%, SoftBank Group dropping 4%, Advantest losing 6.5%, Tokyo Electron declining 2.6% and Taiyo Yuden retreating 2.1%.
+
+---
+
+### 2026-09-11 14:48:19  #經濟數據 #美國
+
+【美國8月CPI前瞻：能源漲價擾動通脹 美聯儲加息預期面臨關鍵檢驗】北京時間9月11日20時30分，美國將公佈8月消費者價格指數（CPI）。在油價上漲、生產端價格壓力持續的背景下，這份美聯儲9月議息會議前的關鍵通脹報告，將為利率決策提供重要依據，並牽動全球股債匯市場走勢。
 
 ---
 
@@ -16120,269 +16258,5 @@ South Korea's KOSPI fell 16.77 points, or 0.24%, to 7,034.87 at the close on Thu
 ### 2026-09-10 14:30:28  #Trading Economics #Economy #Euro Area #Interest Rate #Importance 3
 
 ECB Expected to Hike Again as Inflation Stays Elevated — The European Central Bank is expected to raise its key interest rates by 25 basis points on Thursday, marking the second hike since the US-Iran war began, while signaling caution over further increases that could weigh on economic activity. The main refinancing rate is expected to rise to 2.65%, and the deposit rate to 2.5%. Eurozone inflation accelerated to 3.3% in August, its highest level in three years and well above the ECB’s 2% target. However, there have been few signs of the second-round inflation effects policymakers typically fear when energy prices surge, as they have since the war closed the Strait of Hormuz. Economists remain unconvinced that further tightening will be necessary, warning that additional hikes could risk recession. Interest-rate futures, however, are pricing in a third hike by December, while policymakers continue to flag upside risks to inflation and the recent rise in bond yields adds further uncertainty to the policy outlook.
-
----
-
-### 2026-09-10 14:30:25  #公司
-
-【道達爾能源在安哥拉獲新油氣發現，拿下新勘探區塊】道達爾能源公司公告稱，該企業在安哥拉17區塊取得一處新油氣發現，並簽署協議獲得安哥拉新勘探區塊的開採權。本次發現將使17區塊日產量提升6000桶。公司表示，Arcacia-5井是其今年在安哥拉資產組合內的第二處勘探成果，此前該公司剛在剛果盆地的0區塊獲得油氣發現。道達爾能源已與安哥拉國家石油公司（ANGP）簽署協議，獲得下剛果盆地17/25區塊與32/21區塊40%的作業權益。
-
----
-
-### 2026-09-10 14:29:59  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 0.26% Lower — The Nikkei 225 Index decreased 170 points or 0.26 percent on Thursday to close at 64973 points. The decline was led by Mitsui Kinzoku (-6.18%), Japan Steel Works (-6.04%) and Nintendo Co (-5.32%). On the upside, the strongest performers were Sharp Corpor (5.40%), Taiyo Yuden (4.57%) and T&D Holdings (3.36%).
-
----
-
-### 2026-09-10 14:29:59  #MKT News
-
-【China wholesale average pork price rises 0.2% day-on-day】As of 14:00 on Sept 10, the Ministry of Agriculture and Rural Affairs reported the agricultural wholesale price 200-index at 117.11, up 0.24 points, and the vegetable-basket wholesale index at 117.93, up 0.29 points. National wholesale average pork price was 16.31 yuan/kg, up 0.2% day-on-day; beef 70.70 yuan/kg, up 0.7%; mutton 66.24 yuan/kg, up 0.7%; eggs 10.98 yuan/kg, up 0.7%; dressed chicken 17.21 yuan/kg, down 0.2%.
-
----
-
-### 2026-09-10 14:29:46  #公司
-
-【映翰通：目前公司邊緣AI相關業務仍處於持續推廣和市場拓展階段】映翰通在9月10日召開的2026年半年度網上業績說明會上表示，公司目前已佈局邊緣計算閘道器、EC系列AI邊緣計算機及相關AI解決方案。在儲存方面，公司邊緣計算機等產品配置本地儲存資源，主要用於現場資料快取、日誌留存及邊緣資料處理，屬於邊緣計算裝置的配套能力。目前，公司並未直接開展儲存器件或儲存基礎設施相關業務，公司邊緣AI相關業務仍處於持續推廣和市場拓展階段，部分產品已實現小批次應用，整體收入規模佔公司營業收入比例較小，暫未對公司整體經營業績形成重大影響。
-
----
-
-### 2026-09-10 14:29:32  #MKT News #Macro & Rates
-
-Reserve Bank of India swap operations lifted the USD/INR forward premium; the one-year implied rate rose 18 bps to 3.34%.
-
----
-
-### 2026-09-10 14:29:30  #Trading Economics #Economy #Sweden #New Orders #Importance 1
-
-Sweden New Orders Fall Sharply in July — Sweden’s total industrial orders fell 0.5% year-on-year in July 2026, reversing a 29.5% increase in June and marking the smallest growth since July 2023. The decline was led by orders for intermediate goods which declined sharply to 5.8% from 30.3% rise in the previous month. Energy-related goods excluding durable goods also declined, which fell 18.9% (vs. -10.9% in June), and durable consumer goods, which decreased 8.7% (vs. -3.8%). Meanwhile, capital goods orders increased 0.3% (vs. 51.8%). Orders for non-durable consumer goods rose 12.0%, accelerating from 0.4% in June. On a monthly basis, total orders declined by 24.1%, reversing a 32.3% rise in June. For the January–July period, total orders were 3.6% higher than the corresponding period a year ago, as export market has increased while the domestic market has decreased.
-
----
-
-### 2026-09-10 14:29:29  #公司
-
-迪拜零售集團揭幕YARD專案——傑貝阿里棕櫚島首個零售與生活方式目的地。
-
----
-
-### 2026-09-10 14:29:17  #其他
-
-華碩電腦尋求發行15億美元零息可轉換債券。
-
----
-
-### 2026-09-10 14:29:13  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Traders say the Reserve Bank of India may conduct dollar/Indian rupee buy-sell swaps to drain rupee liquidity.
-
----
-
-### 2026-09-10 14:29:08  #國際
-
-印度儲備銀行的掉期操作推升美元兌印度盧比遠期升水；一年期隱含收益率上行18個基點至3.34%。
-
----
-
-### 2026-09-10 14:29:06  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【One-off rate hike could leave ECB on back foot; bond-market risks remain — Marex FX】Marex FX joint head of FX trading and head of private markets Jonathan Pryor warned in a report that the ECB could be left on the back foot after Thursday’s rate decision. He said if the ECB misreads the move as a one-off hike and is overtaken by higher-rate G10 central banks, it could cause lasting reputational damage for Lagarde and the ECB. Pryor added the ECB faces the added challenge of coordinating policy while managing volatile sovereign bond spreads across member states — a risk that is often overlooked. Any ECB commentary on bond markets will therefore be important, he said, because the topic is normally avoided but will be central to the coming months’ challenges.
-
----
-
-### 2026-09-10 14:29:05  #國際
-
-交易員稱：印度儲備銀行大機率已開展美元兌印度盧比賣買互換操作，以抽走盧比流動性。
-
----
-
-### 2026-09-10 14:28:45  #經濟數據 #中國
-
-【中汽協：8月汽車國內銷量環比增長10.4% 同比下降24.2%】中汽協釋出資料顯示，8月汽車國內銷量完成170.1萬輛，環比增長10.4%，同比下降24.2%。其中，傳統燃料汽車國內銷量58.4萬輛，環比增長9.4%，同比下降45.7%。
-
----
-
-### 2026-09-10 14:28:26  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【Barclays: BOJ must deliver additional hawkish signal to sustain yen rally】Barclays said the yen’s recent rally could reverse and USD/JPY may move back above 150 if expectations for faster BOJ tightening disappoint and Japanese pension funds fail to shift into domestic assets as anticipated. Barclays strategists led by Shinichiro Kadota said recent yen strength was driven by bets on BOJ policy tightening, speculation over pension fund flows and technicals. The bank warned further yen gains may require the BOJ to deliver a hawkish surprise relative to already elevated expectations. Barclays added that interest-rate differentials, a Japanese equity risk premium, concerns about Sanae Takaichi’s policy stance and persistent structural yen-selling flows remain headwinds to sustained appreciation.
-
----
-
-### 2026-09-10 14:27:04  #公司 #市場 #央行 #國際
-
-【歐洲央行即將公佈利率決議，市場關注對利率敏感的歐洲板塊】歐洲央行即將公佈利率決議，週四市場重點關注歐洲銀行與地產板塊。市場預期政策制定者將再度加息25個基點，這是伊朗衝突推高能源價格後的第二次加息，以此遏制通脹壓力。重點關注銀行股：德意志銀行、德國商業銀行、法國巴黎銀行、法國興業銀行、桑坦德銀行、西班牙對外銀行、荷蘭國際集團、裕信銀行、聯合聖保羅銀行。歐洲斯托克600銀行指數年內上漲21%。沃諾維亞、LEG地產等地產股也或將出現波動。歐洲斯托克600房地產指數年內下跌3.7%。調查顯示，除一名分析師外，其餘所有人均預計歐洲央行存款利率上調25個基點至2.50%。
-
----
-
-### 2026-09-10 14:26:21  #其他
-
-【9月10日：“農產品批發價格200指數”比昨天上升0.24個點】據農業農村部監測，9月10日“農產品批發價格200指數”為117.11，比昨天上升0.24個點，“菜籃子”產品批發價格指數為117.93，比昨天上升0.29個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.31元/公斤，比昨天上升0.2%；牛肉70.70元/公斤，比昨天上升0.7%；羊肉66.24元/公斤，比昨天上升0.7%；雞蛋10.98元/公斤，比昨天上升0.7%；白條雞17.21元/公斤，比昨天下降0.2%。重點監測的28種蔬菜平均價格為4.70元/公斤，與昨天持平；重點監測的6種水果平均價格為6.80元/公斤，比昨天上升2.9%。鯽魚19.92元/公斤，比昨天下降0.5%；鯉魚13.67元/公斤，比昨天下降1.1%；白鰱魚10.15元/公斤，比昨天下降0.9%；大帶魚42.17元/公斤，比昨天上升3.0%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、鴨梨、大帶魚、茄子和富士蘋果，幅度分別為5.8%、3.9%、3.0%、2.9%和2.8%；價格降幅前五名的是油菜、蓮藕、南瓜、萵筍和大蔥，幅度分別為3.0%、2.9%、2.5%、1.6%和1.2%。
-
----
-
-### 2026-09-10 14:25:55  #市場 #國際
-
-【成本支撐與負反饋預期博弈，鐵礦階段性價格高點或於國慶前出現】本輪導致鐵礦價格反彈的核心因素：海運成本推升，鐵礦需求韌性較強以及鋼廠季節性補庫均將在後續一段時間出現不同程度的弱化。未來導致鐵礦石價格見頂回落的主線邏輯是負反饋可能帶來的鋼廠趨勢性減產，而是否能形成趨勢性下跌依舊取決於海運成本能否共振回落。從時間節點來看，9月中下旬鋼材需求證偽節點或是負反饋主線邏輯的驅動因素，而美伊衝突何時出現再一次緩和或特朗普再次TACO的時點將是鐵礦價格轉勢的加速器。（我的鋼鐵網）
-
----
-
-### 2026-09-10 14:24:48  #公司
-
-【觀想科技等成立新公司，含虛擬現實裝置業務】企查查APP顯示，近日，浙江觀想泰靈科技有限公司成立，經營範圍包含：儲能技術服務；集中式快速充電站；電動汽車充電基礎設施運營；虛擬現實裝置製造等。企查查股權穿透顯示，該公司由觀想科技全資子公司四川盛世融合科技有限公司等共同持股。
-
----
-
-### 2026-09-10 14:24:43  #MKT News
-
-【Huida Sanitaryware: deep strategic transformation weighing on revenue; balance sheet healthy】At a 1H2026 online results briefing, Huida Sanitaryware said it is in a deep strategic transformation and is systematically adjusting organization and omnichannel operations to better align with domestic and overseas macro conditions and market demand. Reforms remain in the implementation phase and the company is experiencing temporary pressure on revenue. Huida said its asset-liability structure is sound and its going-concern and risk-resilience remain strong.
-
----
-
-### 2026-09-10 14:24:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran official says forces ready to launch lightning offensive】IRNA reports the Tehran metropolitan military region commander said during a special‑operations exercise that Iran has moved beyond defensive and air‑defense postures and is on the eve of launching offensive operations, which adversaries will soon feel. He said Iran is forming strike teams, units and division‑level forces for special and lightning operations, has built rapid-transport and special‑operations capabilities, and is prepared to act quickly anywhere nationwide to destroy the enemy.
-
----
-
-### 2026-09-10 14:24:05  #市場
-
-中國期貨業協會發布2026年8月全國期貨市場交易情況簡報，1-8月全國期貨市場累計成交量同比增長20.36%，1-8月全國期貨市場累計成交額同比增長37.37%；8月全國期貨市場成交量同比增長29.05%，8月全國期貨市場成交額同比增長30.67%。
-
----
-
-### 2026-09-10 14:23:52  #公司
-
-【惠達衛浴：公司正處於深度戰略轉型階段，收入規模階段性承壓】惠達衛浴在9月10日召開的2026年半年度網上業績說明會上表示， 公司目前正處於深度戰略轉型階段，持續對組織及全渠道運營管理機制開展系統性調整與最佳化，使之更適配國內外宏觀環境與行業市場需求的變化。現階段，公司各項改革措施仍處於落地變革週期，收入規模階段性承壓。儘管當前經營存在一定壓力，但公司資產負債結構穩健，持續經營及抗風險能力較好。
-
----
-
-### 2026-09-10 14:23:32  #MKT News #Market Regions #Greater China #NVO.N #Impact bullish
-
-【Novo Nordisk long-acting growth hormone wins three new pediatric indications in China】Novo Nordisk (NVO.N) said its long-acting growth hormone injection, marketed in China as NuozeYou, received approval for three additional pediatric indications: growth retardation associated with Noonan syndrome in children aged 2.5 years and older; idiopathic short stature in children aged 2.5 years and older; and children born small for gestational age who remain short at age 2, for treatment in patients aged 2.5 years and older. The product was previously approved in China for pediatric growth hormone deficiency.
-
----
-
-### 2026-09-10 14:23:28  #其他
-
-【張健華：金融機構不用AI要被淘汰 但技術與需求的適配仍存門檻】“金融機構不用AI肯定要被淘汰，但AI是必要條件，還不夠充分。”9月9日，在2026Inclusion·外灘大會“AI原生時代·信用經濟的應用探索”論壇上，清華大學五道口金融學院金融發展與監管科技研究中心主任張健華表示。
-
----
-
-### 2026-09-10 14:23:24  #經濟數據 #中國
-
-【1-8月全國期貨市場累計成交量同比增長20.36%】中國期貨業協會發布2026年8月全國期貨市場交易情況簡報，1-8月全國期貨市場累計成交量同比增長20.36%，1-8月全國期貨市場累計成交額同比增長37.37%；8月全國期貨市場成交量同比增長29.05%，8月全國期貨市場成交額同比增長30.67%。
-
----
-
-### 2026-09-10 14:22:52  #其他
-
-【中國與維德角簽署共同發展經濟夥伴關係框架協定】9月9日，李成鋼國際貿易談判代表兼副部長與維德角經濟、貿易、工業和數字轉型部部長安東尼奧·巴普蒂斯塔在北京簽署《中華人民共和國政府和維德角共和國政府共同發展經濟夥伴關係框架協定》（以下簡稱《框架協定》）。《框架協定》明確，雙方將進一步深化經貿領域合作，共同增強經濟韌性和發展動力，聚焦可持續發展與包容性增長，促進維德角農業轉型升級、藍色經濟和製造業發展。這是中國與非洲國家簽署的第40個框架協定，是助力非洲國家分享中國超大規模市場和廣闊發展機遇的又一切實行動，將為深化中佛貿易投資合作提供長期、穩定、可預期的制度保障。雙方共同確認實質性結束共同發展經濟夥伴關係協定早期收穫安排談判，並就中佛雙邊經貿有關議題進行交流。（商務部）
-
----
-
-### 2026-09-10 14:22:42  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-【Shenzhen deputy financial regulator Zhu Jiang: 29 new IPOs raise over 100 bln yuan; financial value-added up 10.6% in 1H】Shenzhen Municipal Local Financial Supervision and Administration Bureau deputy director Zhu Jiang said at the 2026 Financial Institutions Annual Conference that the city aims to build the most dynamic and efficient industrial finance and technology finance centers and urged institutions to deepen presence and allocate resources toward Shenzhen’s "20+8" industry clusters and modern industrial system. He said Shenzhen’s financial-sector value-added rose 12.1% last year and grew 10.6% in 1H; as of Sept. 9 the city added 29 IPOs in 2026, raising more than 100 bln yuan, ranking first among first‑tier cities.
-
----
-
-### 2026-09-10 14:22:36  #國際
-
-【印度搭建出口商與美國採購商對接平臺，衝刺5000億美元貿易目標】印度上線了一個線上平臺，幫助本國出口商對接美國採購商。印度駐紐約總領事比納亞·S·普拉丹表示，該平臺旨在助力印度中小企業和首次出海的出口商進入美國市場。印美兩國設定目標，計劃在2030年前將雙邊貿易規模提升至5000億美元。
-
----
-
-### 2026-09-10 14:22:19  #公司
-
-【激智科技等在寧波成立半導體公司】企查查APP顯示，近日，寧波激智半導體有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料研發；電子專用材料銷售；新型膜材料製造；新型膜材料銷售；技術進出口；貨物進出口。企查查股權穿透顯示，該公司由激智科技等共同持股。
-
----
-
-### 2026-09-10 14:22:14  #Trading Economics #Economy #Saudi Arabia #Industrial Production #Importance 1
-
-Saudi Industrial Output Falls Least in 5 Months — Industrial production in Saudi Arabia fell 8.1% year-on-year in July 2026, easing from a 16.3% slump in the previous month and marking the softest contraction since February. The decline in the oil sector slowed to 11.4% from 23.2% in June, largely reflecting a smaller drop in the extraction of crude petroleum and natural gas (-10.9% vs -27%), while output of coke and refined petroleum products fell at a steeper pace (-13.6% vs -6%). Moreover, output in other economic activities was unchanged at 3.4%, with both electricity, gas, steam, and air-conditioning supply (4.5% vs 2.8%) and water supply, sewerage, waste management, and remediation activities (7.8% vs 6%) accelerating. Meanwhile, output in non-oil activities slipped 0.3% after rising 0.1% in the previous month, weighed down by a sharper decline in manufacturing (-1.3% vs -0.5%). On a monthly basis, industrial output surged 10.4% in July from 4.6% in the previous month and marking its strongest monthly gain since April 2020.
-
----
-
-### 2026-09-10 14:22:13  #其他
-
-【帕西生長激素注射液在國內新獲批三項兒童適應證】9月10日，從諾和諾德獲悉，其長效生長激素帕西生長激素注射液（商品名：諾澤優）在國內新獲批三項兒童適應證，分別為治療努南綜合徵相關生長遲緩的2.5歲及以上兒童患者，特發性身材矮小的2.5歲及以上兒童患者，出生時為小於胎齡兒且2歲時無法追趕生長、身材矮小的2.5歲及以上兒童患者。此前，該藥已在國內獲批用於治療兒童生長激素缺乏症。
-
----
-
-### 2026-09-10 14:21:53  #市場 #央行 #國際
-
-【金價重回4400美元上方，交易員研判美聯儲加息路徑】金價回升至每盎司4400美元上方，交易員靜待美國通脹資料，從中尋找美聯儲是否會加息的線索。美元指數連續第四日下跌，令黃金對多數買家更具吸引力；但10年期美債收益率走高，對黃金形成利空。美聯儲將於9月14至15日召開會議，本週投資者將密切關注美國生產者物價指數與消費者物價指數。互換市場交易員定價顯示，加息機率約為60%。
-
----
-
-### 2026-09-10 14:21:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【IEA sees 2026 global coal demand up 1.2% to record 8.94 billion tonnes】The IEA said on Thursday it expects global coal demand in 2026 to rise 1.2% to a record 8.94 billion tonnes. It cited disruptions to oil and LNG shipments via the Strait of Hormuz since the outbreak of the US‑Iran war, which have lifted fuel prices and prompted countries with gas-fired capacity and idle coal plants to boost coal-fired generation.
-
----
-
-### 2026-09-10 14:21:32  #其他
-
-【深圳市地方金融管理局副局長朱江：深圳今年以來新增IPO企業29家】9月10日，由證券時報社主辦的“2026金融機構年會”在深圳舉行。深圳市地方金融管理局副局長朱江在致辭時表示，深圳已確立全力打造最具活力和效率的產業金融中心和科技金融中心的目標，希望各機構繼續紮根深圳、投入更多資源，緊扣深圳“20+8”產業叢集和現代化產業體系，創新產品供給、最佳化服務模式。他介紹，深圳金融業增加值在去年增長12.1%的基礎上，今年上半年增速達10.6%，繼續領跑一線城市；截至9月9日，今年深圳新增IPO企業29家，融資規模超1000億元，同樣在一線城市中領跑。朱江期待，金融機構把自身發展與深圳戰略緊密結合，共享發展機遇。
-
----
-
-### 2026-09-10 14:20:46  #MKT News #Market Regions #Japan & APAC
-
-Australia's S&P/ASX200 closed down 107.40 points, or 1.21%, at 8,804.00 on Thursday, Sept. 10.
-
----
-
-### 2026-09-10 14:20:40  #其他
-
-【北京：培育高價值專利組合】北京市智慧財產權局印發《北京市智慧財產權扶持資金管理辦法》。其中指出，推動專精特新企業高價值專利佈局。扶持專精特新中小企業聚焦戰略性新興產業、未來產業領域開展高價值專利佈局，提升核心技術專利佈局水平，夯實中小企業創新發展根基。培育高價值專利組合。聚焦人工智慧、6G、人形機器人、積體電路、腦科學與類腦計算等未來產業及高精尖產業領域，扶持企事業單位等構建高價值專利組合，築牢產業創新發展專利壁壘。加強海外高價值專利佈局。扶持企業開展海外高價值專利佈局，提升企業全球市場競爭與涉外智慧財產權應對能力，服務首都高水平對外開放大局。
-
----
-
-### 2026-09-10 14:19:57  #其他
-
-北京市智慧財產權局印發《北京市智慧財產權扶持資金管理辦法》。
-
----
-
-### 2026-09-10 14:19:07  #其他
-
-【啟境汽車回應媒體群誤發資訊：工作人員操作失誤，並非策劃攻擊、拉踩友商】針對近日的“小米澎程攻防需求”風波，啟境汽車今日釋出宣告稱，是相關工作人員操作失誤，並非策劃攻擊、拉踩友商。啟境汽車在宣告中表示，關注市場、瞭解行業資訊是新品上市前的常規工作，截圖中的“攻防”，是內部對同期產品進行資訊監測、差異梳理和事實核驗的工作用語，並非策劃攻擊、拉踩友商。但這個詞用得不妥，誤發和解散群的處理也不專業。“給大家添麻煩了，跟各位說聲抱歉。我們會認真覆盤，改進管理。”宣告還稱，“該說明的，我們不迴避；該做好的，還是產品。對同行，我們尊重；對競爭，我們用產品回答；對使用者，我們用心把車做好。（新浪科技）
-
----
-
-### 2026-09-10 14:18:42  #市場 #其他 #國際
-
-歐元/英鎊一個月波動率創歷史新低，至2.80%。
-
----
-
-### 2026-09-10 14:18:20  #其他
-
-【中汽協：8月多地汽車消費補貼持續升級，車企促銷活動活躍】據中國汽車工業協會分析，8月，多地汽車消費補貼持續升級，車企促銷活動活躍，汽車產銷環比增長、同比小幅下降。其中，國內市場繼續承壓，月度銷量同比降幅連續5個月超過20%；出口保持高速增長，月度出口量連續3個月超過100萬輛，成為穩定行業大盤的關鍵增量；新能源汽車主導地位持續鞏固，月度銷量佔比再創新高。
-
----
-
-### 2026-09-10 14:17:51  #MKT News #Macro & Rates #Treasury Yields #Market Themes #The Trump Trade #US10Y #Impact mixed
-
-【Trump $5,000 pledge raises Treasury market jitters ahead of 30-year auction】Trump said he would give $5,000 to every American if Republicans win the midterms, injecting fresh uncertainty into the Treasury market before Thursday’s $22 bln sale of 30‑year debt due 2056. Yields traded in a narrow range after the pledge; Trump provided no details and the proposal is viewed as unlikely to become law. The comments revived concerns about U.S. fiscal discipline and policy unpredictability as 30‑year yields approach levels last seen during the global financial crisis. Earlier Treasury plans to buy up to $6 bln of longer‑dated debt in a single operation had disappointed some investors. Market focus is on Thursday’s 2056 auction and this week’s CPI print.
-
----
-
-### 2026-09-10 14:17:48  #Trading Economics #Economy #Sweden #Industrial Production #Importance 1
-
-Sweden Industrial Output Recovers in July — Industrial production in Sweden rose by 0.2% year-on-year in July 2026, rebounding from a downwardly revised 0.5% fall in June, which marked the first contraction since March 2025. The recovery was largely driven by higher output in the manufacturing sector, rising 0.6% after showing no growth in the previous month. Production mainly increased for chemical, chemical products and pharmaceutical products (13% vs 3.8%) and basic metals and fabricated metal products (12.4% vs 1.2%), which more than offset declines in the manufacture of coke and refined petroleum products (-16.9% vs -10.7%) and rubber and plastic products (-10.6% vs -3.7%). Meanwhile, mining activity (-9% vs -14.3%) continued to decrease but at a softer pace, as metal ore mines declined less (-8.8% vs -17.6%), while other mines and quarries (10.5% vs -1.8%) rebounded sharply. On a seasonally adjusted monthly basis, industrial output dropped 3.6%, slipping further from an upwardly revised 0.7% fall in June.
-
----
-
-### 2026-09-10 14:17:40  #國際
-
-【日本內閣官房長官木原稔稱內閣不久將進行改組】日本內閣官房長官木原稔在週二的例行新聞釋出會上表示，他預計內閣改組以及執政黨自由民主黨高層人事任命將在近期進行。
-
----
-
-### 2026-09-10 14:17:22  #其他
-
-【美銀：維持領展“買入”評級，估值吸引並有潛在催化劑】美銀證券發表研報稱，領展公佈6月底止首財季更新後，該行認為其逐步穩定化的論點仍然成立，但快速扭轉局面的機會不大。正面方面，香港零售實時租金環比繼續企穩，內地零售續租租金同比升2.7%。管理層預期香港零售租金調整在9月底止2027財年上半年仍維持中個位數負增長，但因明年3月底止下半財年比較基數較高，仍維持全年度高個位數跌幅目標。假設利率無重大上升，該行預測上半財年及2027財年每基金單位分派同比跌2%。該行認為領展估值吸引並有潛在催化劑，維持“買入”評級及目標價46港元，因2027財年預測股息率6.4%仍具吸引力，並獲香港基本面企穩、非核心資產出售及回購單位支援。
 
 ---

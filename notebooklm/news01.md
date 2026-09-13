@@ -1,7 +1,421 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-14 02:44:51_
-_本檔包含 2701 則快訊，約 543193 字_
+_更新時間：2026-09-14 05:05:22_
+_本檔包含 2747 則快訊，約 543483 字_
+
+---
+
+### 2026-09-14 05:02:33  #MKT News #Important
+
+IRNA reports confirmed explosions heard in the Sirik area of Hormozgan province, Iran; cause and source unclear.
+
+---
+
+### 2026-09-14 05:02:32  #國際
+
+伊朗媒體：伊朗錫裡克發生多起爆炸。
+
+---
+
+### 2026-09-14 05:02:05  #國際
+
+美國中央司令部稱，自恢復對往返伊朗船隻的封鎖以來，已有101艘船隻被要求改道。
+
+---
+
+### 2026-09-14 05:01:10  #MKT News
+
+【CENTCOM: U.S. forces diverted 101 commercial vessels by Sept 13】CENTCOM said U.S. forces had diverted 101 commercial vessels as of Sept 13 to ensure compliance.
+
+---
+
+### 2026-09-14 04:58:23  #其他
+
+葉門媒體：沙特戰機兩次轟炸焦夫省哈卜瓦沙阿夫地區一處每週開市的公共集市。
+
+---
+
+### 2026-09-14 04:45:13  #MKT News
+
+Swedish broadcaster SVT projects the governing right-wing bloc will win 174 parliamentary seats and the center-left opposition 175 seats.
+
+---
+
+### 2026-09-14 04:36:57  #市場 #焦點
+
+美國天然氣暗盤日內漲超1%，現報2.9653美元。
+
+---
+
+### 2026-09-14 04:35:09  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet
+
+【King Charles III to host AI summit as industry voices call for slowdown】The New York Times reported King Charles III will meet AI industry leaders this week at Dumfries House in southwest Scotland to discuss socially beneficial development and deployment. Buckingham Palace said attendees will include NVIDIA, Google, DeepMind, OpenAI and ANTHROPIC alongside government officials. The meeting comes as AI insiders and some company leaders warn rapid, unchecked development could pose global risks and have urged shared guidelines and a deliberate slowdown to give society time to adapt.
+
+---
+
+### 2026-09-14 04:34:30  #公司 #資料
+
+查爾斯三世將在蘇格蘭會見AI行業領袖，包括英偉達、谷歌DeepMind負責人，OpenAI、Anthropic等企業高管。
+
+---
+
+### 2026-09-14 04:33:53  #MKT News
+
+【Iran, Oman postpone Gulf states' foreign ministers' meeting】Tasnim reported Iran's foreign ministry director-general for Persian Gulf affairs said the Gulf states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by mutual decision of Oman and Iran; a new date will be set. Iran and Oman are in close consultations to coordinate timing.
+
+---
+
+### 2026-09-14 04:32:29  #其他
+
+英國國王查爾斯本週將會見人工智慧企業負責人。
+
+---
+
+### 2026-09-14 04:32:03  #國際
+
+以色列文化與體育部長威脅，將吊銷兩名電影導演的公民身份，二人拍攝了一部講述以色列對加沙實施種族滅絕戰爭的紀錄片。
+
+---
+
+### 2026-09-14 04:28:55  #其他
+
+【克羅埃西亞布拉奇島發生山火 近700人被疏散】近日，克羅埃西亞布拉奇島發生大規模山火。當地時間12日夜間，火勢向該島的米爾納鎮及附近海灣蔓延，近700名當地居民和遊客被緊急疏散。當地消防部門出動了4架消防飛機參與滅火。13日，山火仍未被完全撲滅，目前過火面積已達到3500公頃。布拉奇島位於克羅埃西亞亞得里亞海沿岸，是該國重要的旅遊目的地。（央視新聞）
+
+---
+
+### 2026-09-14 04:28:31  #國際
+
+【無視英國反對 特朗普再挺“愛爾蘭統一”】據外媒報道，美國總統特朗普13日再次表示，他支援北愛爾蘭脫離英國，“與愛爾蘭統一”。此前一天，特朗普發表類似言論，已引發英國政界強烈反對。特朗普當天在愛爾蘭對媒體說：“有北愛爾蘭，也有愛爾蘭。在我看來，把它們合併在一起似乎是再自然不過的事情。”在被問到蘇格蘭問題時，特朗普稱，這個問題目前不會談，“留到以後再說”。（新華社）
+
+---
+
+### 2026-09-14 04:28:22  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #EURUSD #Impact mixed
+
+【Trump backs Irish unification again despite UK opposition】US President Trump on the 13th reiterated support for Northern Ireland leaving the UK to unify with Ireland, saying merging them “seems only natural.” The comment, made in Ireland after similar remarks the previous day, drew strong objections from UK politicians. On Scotland he said the issue “won’t be discussed now” and should be left for later.
+
+---
+
+### 2026-09-14 04:22:37  #MKT News
+
+Saudi outlet Hadath reported Yemeni government forces have retaken positions west of Taiz previously infiltrated by Houthi fighters and have advanced toward the Jir Bani Omar area as part of operations to expel Houthi forces from Taiz province.
+
+---
+
+### 2026-09-14 04:18:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi Arabia has asked Oman to postpone the Iran-Iraq-Gulf Cooperation Council meeting scheduled in Oman tomorrow, citing an attack from Iraqi territory on a Saudi east-west oil pipeline. Bahrain withdrew from the meeting yesterday; the United Arab Emirates was expected to attend.
+
+---
+
+### 2026-09-14 04:14:13  #其他
+
+【萊茵河低水位或致德國鉅額經濟損失】13日，德國萊茵蘭-普法爾茨州工商會發言人妮科爾·拉博爾德表示，受持續低水位影響，萊茵河貨運能力大幅下降，預計今年將給德國經濟造成鉅額損失。但損失是否會超過2018年仍有待觀察。2018年萊茵河低水位至少造成24億歐元經濟損失。萊茵河承擔德國約80%的內河貨物運輸，是德國工業運輸“大動脈”。今年以來，德國多次遭遇高溫天氣，河流水位持續偏低，嚴重影響萊茵河貨運，一些貨船已無法通航，另一些只能空載航行。（央視新聞）
+
+---
+
+### 2026-09-14 04:12:11  #國際
+
+【伊朗官員：伊美衝突後伊朗外資實際陷入停滯】伊朗工業部副部長、伊朗小型工業與工業園區組織負責人塔赫穆雷斯·拉胡蒂稱，自伊朗與以色列、美國爆發衝突後，伊朗的外國投資實際上已經停滯，本伊朗歷年內暫無新增外國投資記錄。拉胡蒂稱，受現有制裁與限制影響，外國投資並未發生。拉胡蒂補充說，受匯率波動、通脹以及居民購買力下降拖累，工業發展領域的國內投資較去年同樣出現下滑。
+
+---
+
+### 2026-09-14 03:48:45  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Middle East energy supply under severe strain; nearly 30 mln b/d of crude flows disrupted or at risk, Kobeissi says】Kobeissi report: as of Friday, Saudi Arabia’s east–west oil pipeline has been shut after recent attacks, putting about 4 mln b/d of Saudi exports at risk. The Bab el-Mandeb faces potential closure, threatening as much as 9 mln b/d. Strait of Hormuz transit capacity is currently only about 20% of pre-Iran-war levels, obstructing roughly 15 mln b/d. In aggregate ~30 mln b/d of crude flows are disrupted or at risk; even accounting for overlap this is large versus the ~100 mln b/d global market and ranks among the most severe supply shocks in modern history.
+
+---
+
+### 2026-09-14 03:47:59  #MKT News
+
+【Qatari prime minister and foreign minister held phone call with Kuwait foreign minister on regional situation】Qatar’s foreign ministry said the Qatari prime minister and foreign minister held a phone call with Kuwait’s foreign minister to discuss the latest regional situation and coordination on diplomatic efforts to ease tensions and bolster regional security and stability. Qatar confirmed support for diplomatic initiatives aimed at ensuring freedom of navigation and paving the way for a comprehensive agreement to achieve lasting regional peace.
+
+---
+
+### 2026-09-14 03:43:11  #MKT News #Market Themes #The Trump Trade #DXY #Impact mixed #S&P500 #Impact bearish #Brent #Impact bullish
+
+【Why Canada's Prime Minister Carney is in no rush to resume US trade talks】Canada is delaying a return to US trade talks; Prime Minister Carney and his cabinet have focused on deepening ties with other countries and domestic infrastructure spending while avoiding commitments on retaliatory tariffs. Polls show broad public support for rejecting a bad deal and for retaliatory measures; some Canadians back export taxes to raise prices of oil, gas and electricity exported to the US. Domestic opposition to compromise is constraining Carney and complicating any restart of negotiations, says University of Toronto’s Andrew MacDougall. Carney and officials say talks collapsed over US demands including tariffs on steel, aluminum and autos that would leave those sectors uncompetitive; a requirement that Canada accept tariffs applying to goods from a US FTA partner; changes to Canadian cultural and French‑language protections; and aligning Canada’s trade policy with Trump’s positions. Carney called those demands fundamentally unacceptable; US officials dispute parts of Canada’s account but say Trump will not grant tariff exemptions.
+
+---
+
+### 2026-09-14 03:43:09  #國際
+
+沙特：外交部長接到了阿聯酋外長的電話，雙方就遏制地區局勢升級的努力進行了討論。
+
+---
+
+### 2026-09-14 03:41:59  #國際
+
+【阿曼外交部：原定於14日舉行的地區會議延期】當地時間13日晚，阿曼外交部宣佈，原定於14日在阿曼南部港口城市塞拉萊舉行的地區會議將推遲。日期另行確定。宣告稱，此舉旨在為建設性對話創造適宜條件，推動達成有助於維護地區安全與穩定的可持續共識，並回應地區各國人民對合作與和平的期待。阿曼外交大臣巴德爾當天也在社交媒體發文稱，為促進各方達成共識，原定次日在塞拉萊舉行的地區會議已被推遲。阿曼將繼續致力於推動地區對話，以支援地區穩定和長期合作。（央視新聞）
+
+---
+
+### 2026-09-14 03:41:30  #公司
+
+【微軟CEO納德拉：支援AI審慎發展與嵌入式評估機制】微軟CEO納德拉在社交媒體發文表示，任何對超級智慧的探索都必須基於一項核心原則，如果開發的人工智慧不能造福人類且不受人類控制，就不值得去研發。微軟還需要加快並普及人工智慧帶來的益處，使其廣泛惠及各國、各社群和企業。這需要一個前沿生態，讓閉源和開源模型都能蓬勃發展。對於企業來說，必須完全掌握自身獨有的隱性知識。每個機構都應能夠搭建自己的持續學習迴圈/迭代最佳化系統，不必依賴任何單一模型供應商，並能夠將自身知識嵌入到自己可控的模型與權重中。因此，在此背景下，我們支援以實現對齊為設計目標所需的研究、專注投入和審慎節奏。我們也支援“嵌入式評估器”等構想以及更多相關機制建設，讓想法不只是空談。關鍵是這項工作不能由少數主體掌控，而必須吸納來自整個生態、各國、各領域（包括學術界）的廣泛參與。這就是我們採取的方案：在人工智慧技術棧的每一層提供廣泛訪問許可權與選擇；企業自主掌控學習迴圈與模型；以及支撐微軟自研MAI模型的《行為準則》，我們將於明日釋出該準則，公開徵求意見。
+
+---
+
+### 2026-09-14 03:41:29  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+Microsoft chairman and CEO Satya Nadella said the company will provide broad access and choice across every layer of the AI technology stack, allow enterprises to control continuous learning loops and their models, and follow a "code of conduct" applicable to Microsoft's first-party MAI models. Microsoft will publish the code tomorrow for public comment.
+
+---
+
+### 2026-09-14 03:40:57  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft chairman and CEO Nadella said the key is that this field should not be controlled by a few entities; the entire ecosystem—across countries, sectors and academia—must be broadly involved.
+
+---
+
+### 2026-09-14 03:40:50  #MKT News #Star Stocks #MSFT.O
+
+Microsoft chairman and CEO Satya Nadella said the company welcomes necessary research, scrutiny and a deliberate pace to ensure "alignment" becomes a design goal. He also welcomed "embedded evaluators" and broader efforts to build mechanisms that make those concepts operational rather than merely rhetorical.
+
+---
+
+### 2026-09-14 03:40:32  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O
+
+Microsoft chairman and CEO Nadella said enterprises must retain full control of their unique, tacit knowledge. He said each organization should be able to build its own continuous learning loop and "climbing machine" without relying on a single model vendor, and embed its knowledge into models and model weights it controls.
+
+---
+
+### 2026-09-14 03:40:03  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+Microsoft chairman and CEO Satya Nadella said the company must accelerate AI development and broaden its benefits to countries, communities and businesses, urging the construction of a frontier AI ecosystem in which both closed‑source and open‑source models can thrive.
+
+---
+
+### 2026-09-14 03:39:45  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O
+
+Microsoft chairman and CEO Nadella said any pursuit of superintelligence must rest on a core principle: if the AI we build does not help humanity and cannot be kept under human control, it is not worth continuing to develop.
+
+---
+
+### 2026-09-14 03:39:41  #國際
+
+伊朗外交部官員：阿曼會議的推遲是應地區部分國家的要求，並由德黑蘭和馬斯喀特共同作出的決定。
+
+---
+
+### 2026-09-14 03:38:30  #MKT News
+
+Saudi foreign minister held a phone call with the UAE foreign minister to discuss recent regional developments and de‑escalation efforts, Saudi outlet Alhadath reported.
+
+---
+
+### 2026-09-14 03:38:28  #MKT News
+
+cenc reported a magnitude 4.1 earthquake at 03:21 on Sept 14 in Hualien County, Taiwan; focal depth 14 km.
+
+---
+
+### 2026-09-14 03:36:52  #MKT News
+
+IRNA quoted Iran's foreign ministry director-general for Gulf affairs saying the Gulf coastal states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by joint decision of Oman and Iran. Iran said it will consult closely with Oman to coordinate a new date.
+
+---
+
+### 2026-09-14 03:36:48  #MKT News #Market Themes #The Trump Trade
+
+Trump said the banquet hall under construction at the White House will be "the greatest" of its kind worldwide and that he and other American patriots will donate it to the United States; he said no taxpayer funds will be used for construction.
+
+---
+
+### 2026-09-14 03:27:39  #MKT News
+
+【Bushehr official: exports top $2.3 bln despite US maritime blockade】Provincial customs said Iran’s southern Bushehr province exported more than $2.3 billion of goods from March–August this year despite a US maritime blockade, IRNA reported. Customs head Ali Soleimani said the province shipped 5.1 million tonnes in the five-month period, with petrochemicals and various liquefied gases among the main exports. He said goods were exported to 32 countries, including the UAE and Pakistan.
+
+---
+
+### 2026-09-14 03:24:18  #MKT News #Important #Market Themes #AI Revolution
+
+【Anthropic, OpenAI and Google in talks to form AI industry standards body】Anthropic, OpenAI and Google have discussed creating an industry body to set AI standards. Anthropic CEO Dario Amodei urged firms to coordinate testing and auditing; OpenAI founder Altman told employees at a town hall earlier this week he supports a sector testing-and-audit agency but believes large AI labs should build it themselves rather than rely on US government support.
+
+---
+
+### 2026-09-14 03:23:20  #公司 #焦點 #國際
+
+【Anthropic、OpenAI、谷歌曾商討制定人工智慧標準】知情人士透露，早在Anthropic執行長達里奧·阿莫代伊周六呼籲AI企業就技術測試與審計開展協作之前，Anthropic、OpenAI與谷歌就已經在商討合作組建AI行業標準機構。一位瞭解相關表態的訊息人士稱，OpenAI執行長山姆·奧特曼在本週早些時候的全員大會上對員工表示，他支援設立AI行業測試與審計機構，但認為頭部AI實驗室必須在美國政府不提供支援的情況下自行搭建這套標準組織。
+
+---
+
+### 2026-09-14 03:22:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil tanker catches fire in Strait of Hormuz】UKMTO said a fully laden oil tanker was struck by a missile in the Strait of Hormuz and is reported to be seriously ablaze. The agency earlier reported a Panama-flagged tanker was attacked while transiting the Strait and had lost propulsion.
+
+---
+
+### 2026-09-14 03:19:51  #公司 #焦點
+
+Anthropic、OpenAI、谷歌商討制定人工智慧標準。
+
+---
+
+### 2026-09-14 03:11:16  #公司 #央行 #國際
+
+【上市公司密集回購增持】近期，全球金融市場迎來“超級央行周”。美聯儲將於北京時間9月17日凌晨公佈最新利率決議，市場普遍預期加息25個基點，日本央行、英國央行等也將陸續公佈決議，長端美債收益率處於歷史高位，外圍情緒擾動加大。一批A股上市公司日前密集釋出股份增持、回購安排，向市場傳遞積極訊號。
+
+---
+
+### 2026-09-14 03:10:30  #焦點 #國際
+
+伊朗與海灣阿拉伯國家合作委員會成員國的霍爾木茲相關會議推遲舉行。
+
+---
+
+### 2026-09-14 03:09:11  #MKT News #Important
+
+Oman's foreign minister said the regional meeting originally scheduled for tomorrow in Salalah has been postponed to allow more time to reach consensus. Oman will continue to promote dialogue to support regional stability and lasting cooperation.
+
+---
+
+### 2026-09-14 03:09:10  #國際
+
+【加拿大正磋商為歐盟對烏克蘭貸款提供支援】加拿大正磋商為歐盟對烏克蘭貸款提供支援。雙方希望在10月底於蒙特利爾舉行的歐盟峰會前，商定加拿大將為歐盟主導的900億歐元烏克蘭貸款出資的金額。加拿大總理馬克·卡尼希望透過參與這項烏克蘭支援貸款，向歐洲盟友展現承諾。英國是參與該貸款的唯一一個其他非歐盟國家。
+
+---
+
+### 2026-09-14 03:08:07  #國際
+
+加拿大正磋商為歐盟對烏克蘭貸款提供支援。
+
+---
+
+### 2026-09-14 03:07:50  #國際
+
+特朗普結束對記者的講話，登上空軍一號。
+
+---
+
+### 2026-09-14 03:07:29  #其他
+
+阿曼外交大臣：我們仍致力於推動能夠維護本地區穩定、實現本地區持久合作的對話。
+
+---
+
+### 2026-09-14 03:07:18  #其他 #焦點
+
+阿曼外交大臣：為達成共識，原定於明日在塞拉萊舉行的區域會議已被推遲。
+
+---
+
+### 2026-09-14 03:03:30  #MKT News
+
+【Russian Duma deputy chairman: Ukraine's current situation stems from historical revisionism】Boris Chernyshov, deputy chairman of Russia's State Duma, said Ukraine's current situation stems from policies of historical revisionism. He warned efforts to erase memory of Nazism and radical nationalism and to rewrite school curricula can, over 20 to 30 years, turn local festivals into state-level, Nazi-style education programmes. He said attempts to falsify Russia's victory in the Great Patriotic War are both pointless and criminal.
+
+---
+
+### 2026-09-14 03:01:02  #MKT News #Commodities #Energy
+
+【Iran oil distributor denies cancelling gasoline quotas for new cars】TASNIM NEWS: Iran's National Petroleum Products Distribution Company denied reports it would cancel 3,000- and 5,000-rial/liter gasoline quotas for vehicles valued over 1 bln rial. It said all existing private passenger cars — excluding government, imported, free-trade-zone vehicles and second-or-later cars registered to the same owner — will keep monthly quotas of 60 liters at 1,500 rial/liter and 50 liters at 3,000 rial/liter. A working group is studying raising the 1 bln rial price cap used to determine quota eligibility for newly produced private cars amid market changes. The company said quota allocation and volumes are unchanged; only the third-tier price was increased from 5,000 to 10,000 rial/liter.
+
+---
+
+### 2026-09-14 02:58:20  #國際
+
+克里姆林宮發言人佩斯科夫表示，俄羅斯正密切關注葉門局勢，該地局勢正朝著加劇的方向發展。
+
+---
+
+### 2026-09-14 02:55:15  #MKT News
+
+Trump said the Israeli prime minister will call him on Monday regarding the West Bank.
+
+---
+
+### 2026-09-14 02:54:39  #MKT News #Market Themes #The Trump Trade
+
+Trump, discussing a $5,000 check policy, said tariffs and other items would generate large fiscal revenues.
+
+---
+
+### 2026-09-14 02:53:44  #國際
+
+特朗普：5000美元支票計劃一定會落地，我們能獲得數萬億美元收入。
+
+---
+
+### 2026-09-14 02:53:36  #國際
+
+特朗普談美國民主黨眾議員亞歷山德里婭·奧卡西奧-科爾特斯與紐約市市長馬姆達尼在9·11紀念現場被拍到大笑一事：此舉十分惡劣。
+
+---
+
+### 2026-09-14 02:53:36  #MKT News
+
+Trump says he will consider whether to release additional records related to the Sept. 11 attacks.
+
+---
+
+### 2026-09-14 02:52:43  #國際
+
+特朗普談及5000美元支票政策：關稅等專案帶來鉅額財政收入。
+
+---
+
+### 2026-09-14 02:52:20  #國際
+
+特朗普稱他將研究是否公佈更多與“9·11”襲擊相關的記錄。
+
+---
+
+### 2026-09-14 02:51:25  #MKT News
+
+Trump said previous presidents allowed large budget deficits and vowed he would never permit them; he also said he did extensive business in Ireland and that his support in the US is strong.
+
+---
+
+### 2026-09-14 02:51:20  #國際
+
+特朗普談及約旦河西岸事宜：以色列總理週一將與我通話。
+
+---
+
+### 2026-09-14 02:51:09  #MKT News #Market Themes #AI Revolution
+
+The U.S. National Security Agency has initiated a reorganization and plans to establish several new units focused on artificial intelligence, cyber, operations and global intelligence.
+
+---
+
+### 2026-09-14 02:49:08  #MKT News
+
+CENC measured a magnitude-3.1 earthquake at 02:41 on Sep 14 (local time) in Xinghai County, Hainan Prefecture, Qinghai; focal depth 10 km.
+
+---
+
+### 2026-09-14 02:48:15  #MKT News #AMAT.O #Impact bullish
+
+【Semiconductor sector must adopt new materials; Applied Materials turns to AI for breakthroughs】Nikkei reports the semiconductor industry needs new materials to sustain technological progress as chip scaling approaches its limits. Applied Materials' Japan head said the company is deploying AI and hopes it will help deliver technical breakthroughs.
+
+---
+
+### 2026-09-14 02:48:10  #國際
+
+特朗普：其他總統允許出現鉅額赤字，我絕不會允許。
+
+---
+
+### 2026-09-14 02:47:26  #國際
+
+特朗普：我在美國的支援率很高。
+
+---
+
+### 2026-09-14 02:47:02  #國際
+
+特朗普：在愛爾蘭期間做了很多生意。
+
+---
+
+### 2026-09-14 02:46:25  #MKT News
+
+【LDP-backed former Naha deputy mayor Genta Kose wins Okinawa gubernatorial election】NHK reported that in the Okinawa governor’s election held on the 13th, Genta Kose, former deputy mayor of Naha backed by the Liberal Democratic Party and other parties, was confirmed elected.
+
+---
+
+### 2026-09-14 02:45:20  #國際
+
+美國國家安全域性改革計劃聚焦人工智慧、網路、作戰與全球情報等領域。
 
 ---
 
@@ -16212,143 +16626,5 @@ Crypto Updates: Ether Increases by 1.50% — Top crypto gainers are Ether (1.50%
 ### 2026-09-11 16:19:58  #Trading Economics #Economy #Bulgaria #Balance of Trade #Importance 1
 
 Bulgaria Trade Deficit Widens in July — Bulgaria’s trade deficit widened to EUR 1,026.9 million in July 2026, compared with EUR 838.8 million in the same month a year earlier. Imports climbed 8.5% year-on-year to EUR 5,089.9 million, reflecting stronger demand for goods from both EU (+5.0%) and non-EU (+13.0%) countries. Imports from non-EU countries increased most notably from Türkiye (+35.5%), China (+49.0%), and Kazakhstan (+37.8%). Purchases of crude materials recorded the sharpest increase (+72.9%), followed by mineral fuels and related products (+38.9%). Exports also increased, rising 5.5% to EUR 4,063.0 million, supported by stronger shipments to the EU (+19.4%), despite a decline in exports to non-EU markets (-14.2%). During the January-July 2026 period, the country posted a cumulative trade deficit of EUR 7,395.0 million, compared with EUR 5,378.6 million a year earlier, as exports rose 8.5%, while imports increased 13.7%.
-
----
-
-### 2026-09-11 16:10:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 1.56% — Top commodity losers are Oat (-1.56%), Canola (-1.53%) and Soybeans (-1.20%).
-
----
-
-### 2026-09-11 16:08:41  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Ease Slightly but Stay Near 19-Year Highs — The UK 10-year gilt yield dipped toward 5.35% on Friday as the energy price rally paused ahead of a key US CPI report, which could reinforce expectations of a Federal Reserve rate hike next week. Yet, yields remain close to 19-year peaks, with the 30-year yield near 6%, a level last seen in 1998. Investors processed stronger-than-expected UK GDP data, with July’s month-on-month growth at 0.4%, beating forecasts, while growth over the three months to July matched the previous period at 0.4%. Meanwhile, Brent crude stayed close to a four-month high, and UK natural gas prices remained near a 3.5-year high, amplifying concerns about renewed inflationary pressures. Markets have nearly priced in a Bank of England rate hike in November and anticipate three additional increases by mid-2027, even as Governor Bailey clarified on Tuesday that future decisions will depend on economic and geopolitical conditions, dismissing the notion that a rate rise is merely a matter of time.
-
----
-
-### 2026-09-11 16:06:04  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Trades Higher — The FTSE MIB rose to around 52,100 on Friday, after edging lower in the previous session, as oil prices eased, offering some relief to markets. Still, tensions in the Middle East remained elevated, keeping inflation risks and expectations for tighter monetary policy in focus. Banking stocks outperformed, with UniCredit up 0.7% and Intesa Sanpaolo 1.5%, as investors continued to assess the sector’s consolidation wave. UniCredit’s board approved a capital increase to support its planned takeover of Commerzbank, while Intesa’s proposed acquisition of MPS faces an upcoming antitrust review. Other financials rising included Unipol (+1.4%), Banca Mediolanum (+1.3%) and FinecoBank (+1.0%). Prysmian also added 0.8% after raising €850 million through a capital increase to partially fund its planned acquisition of US-based Atkore. For the week, the benchmark index is poised for a muted performance.
-
----
-
-### 2026-09-11 16:05:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore CNY Drops by 1.78% — Top commodity losers are Iron Ore CNY (-1.78%), Lithium Carbonate (-1.73%) and Silicon (-1.55%). Gains are led by Gold (0.62%) and Silver (0.55%).
-
----
-
-### 2026-09-11 16:00:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Falls by 2.24% — Top commodity losers are Natural Gas UK (-2.24%), Natural Gas EU (-2.21%), Brent Oil (-1.59%) and Crude Oil (-1.34%).
-
----
-
-### 2026-09-11 15:56:44  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Rebound, Still Set for 5th Weekly Decline — The CAC 40 rose 0.4% on Friday, rebounding from two straight sessions of losses as a pullback in oil prices and global bond yields offered some relief to investors. Still, Middle East tensions kept sentiment cautious after US President Donald Trump said he did not expect the Iran war to end before the November midterm elections and that oil prices were unlikely to decline until then. In Europe, the European Central Bank recently delivered its widely anticipated 25 bps rate hike, its second increase this year, as it sought to contain an energy-driven rise in inflation. The ECB also warned that price pressures could prove persistent, fueling expectations of further policy tightening as early as October. Notable gainers included Airbus (1.6%), Safran (2%), Societe Generale (1%) and Kering (1%). Despite Friday’s rebound, the CAC 40 remained on track for its fifth consecutive weekly decline.
-
----
-
-### 2026-09-11 15:55:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Attempts Recovery — Frankfurt's DAX 40 edged up 0.4% to around 25,460 on Friday, after two consecutive sessions of losses, despite ongoing concerns over inflation, the prospect of further rate hikes and geopolitical tensions. A modest decline in oil prices provided some relief for energy-intensive industrials, despite prices remaining elevated. Aerospace & defense stocks, insurers, and tech stocks also advanced solidly, offsetting weakness in software, autos, and chemicals. Siemens Energy led gains among stocks, rising 1.8%, followed by GEA Group, Airbus, Siemens, Munchener Ruck and MTU Aero Engines, each adding over 1%. On the flip side, BASF (-2.2%), SAP (-1.8%) and Brenntag (-1.5%) posted the biggest losses. For the week, however, the index was on track to fall more than 2%, marking its steepest weekly decline since April.
-
----
-
-### 2026-09-11 15:44:09  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Rise on Friday, Set for Big Weekly Loss — European stocks moved higher on Friday, with the STOXX 50 gaining 0.5% and the STOXX 600 rising 0.3%, following losses in the previous sessions that pushed both benchmarks to July-lows. The gains came as oil prices edged lower, although tensions in the Middle East remained elevated. Banking stocks were among the top performers, with Banco Santander rising 1.3% and BBVA gaining 1%. Industrial and aerospace stocks also advanced, led by Airbus (+1.6%), Safran (+2.0%) and Siemens (+1.1%). SAP, however, fell 1.6%. Despite Friday’s rebound, European equities posted a sharp weekly decline. The STOXX 50 fell 1.9% over the week, while the STOXX 600 dropped 2.2%, marking their biggest weekly losses since April. Rising energy costs have fueled concerns about a renewed pickup in inflation, increasing pressure on central banks to maintain a tighter monetary policy. The ECB raised borrowing costs by 25bps yesterday, as expected. Markets are now pricing in three additional rate hikes by March 2027.
-
----
-
-### 2026-09-11 15:37:32  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Set for 2% Weekly Drop — The FTSE 100 traded around the flatline on Friday, remaining near its lowest level since July 21 and heading for a weekly decline of more than 2%, its steepest fall since April. Heavyweight stocks including HSBC, Unilever and Rolls-Royce were among the main drags, while Shell and BP remained the strongest performers, supported by higher oil prices. UK equities received some support from stronger-than-expected economic data, with GDP rising 0.4% in July after expanding 0.3% in June. The increase was well above economists’ expectations for no growth and marked a third consecutive month in which the economy exceeded forecasts, suggesting the UK may prove more resilient than expected during the second half of 2026. Meanwhile, Brent crude eased towards $105 a barrel but remained on course for a weekly gain of almost 10%.
-
----
-
-### 2026-09-11 15:36:29  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Sterling Stabilizes on Strong UK Growth — The British pound stabilized around $1.35 on Friday as investors digested stronger-than-expected UK GDP data and growing expectations for further Bank of England rate hikes. UK GDP grew 0.4% month-on-month in July, surpassing forecasts, with services leading the expansion. Over three months, growth matched the prior period at 0.4%. Meanwhile, the recent energy price rally paused, although Brent crude remained close to a four-month high and UK natural gas prices hovered near a three-and-a-half-year high, adding to concerns over renewed inflationary pressures. Markets are now fully pricing in four BoE rate increases by the end of 2027, though Governor Bailey has noted recently future decisions depend on economic and geopolitical conditions. The dollar, meanwhile, edged higher ahead of a key US CPI report due later today. Stronger-than-expected US producer price data released on Thursday boosted expectations of a Federal Reserve rate hike next week.
-
----
-
-### 2026-09-11 15:33:25  #Trading Economics #Economy #Croatia #Government Bond 10Y #Importance 0
-
-Croatia 10Y Bond Yield Hits 33-month High — Croatia 10 Year Government Bond Yield increased to 3.87%, the highest since November 2023. Over the past 4 weeks, Croatia 10Y Bond Yield gained 9.05 basis points, and in the last 12 months, it increased 56.60 basis points.
-
----
-
-### 2026-09-11 15:33:18  #Trading Economics #Economy #Turkey #Current Account #Importance 1
-
-Turkey Current Account Surplus Narrows in July — Turkey’s current account surplus narrowed sharply to $0.04 billion in July 2026 from $1.76 billion in the same month of the previous year, missing market expectations of a $0.65 billion surplus. The goods account shortfall increased to $5.58 billion from $4.56 billion a year earlier, while the primary income deficit widened to $2.56 billion from $1.54 billion. On the other hand, the secondary income gap decreased to $0.06 billion from $0.15 billion in July 2025, while the services account surplus rose to $8.23 billion from $8.02 billion. For the first seven months of the year, the country recorded a current account deficit of $34.83 billion, notably higher than the $24.25 billion shortfall in the corresponding period last year.
-
----
-
-### 2026-09-11 15:32:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.03% Lower — The FTSE 100 Index is dropping 3 points. Leading the losses are Relx (-2.15%), London Stock Exchange (-1.50%) and Barratt Redrow (-1.49%). Top gainers were Barclays (1.06%), BT (0.90%) and Rolls-Royce (0.90%).
-
----
-
-### 2026-09-11 15:31:15  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.40% Higher — The DAX Index is picking up 101 points or 0.40 percent on Friday. Gains are led by Siemens Energy (1.72%), Airbus (1.46%) and Siemens (1.38%). Biggest losers are BASF (-2.02%), SAP (-1.50%) and Brenntag (-1.27%).
-
----
-
-### 2026-09-11 15:30:15  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is up by 36 points or 0.44 percent on Friday. Top gainers are Safran (1.93%), Airbus (1.46%) and Accor (0.94%). Biggest losses came from TP (-1.30%), Edenred (-0.85%) and ENGIE (-0.49%).
-
----
-
-### 2026-09-11 15:18:22  #Trading Economics #Economy #Turkey #Retail Sales YoY #Importance 1
-
-Turkey Retail Sales at Over 1-Year Low — Retail sales in Turkey rose 10.4% year-on-year in July 2026, slowing from a downwardly revised 11.5% in the previous month. It marked the weakest annual growth since March 2025, mainly driven by softer sales in other household equipment in specialized stores (0.7% vs 2.1% in June), other goods in specialized stores (20.5% vs 25.4%), non-specialized stores (3.6% vs 4.2%), and trade not in stores, stalls and markets (19.2% vs 23.4%). Meanwhile, sales growth accelerated for food, beverages and tobacco in specialized stores (4.2% vs 0.6%), automotive fuel in specialized stores (8.0% vs 1.3%), information and communication equipment in specialized stores (10.9% vs 10.5%), cultural and recreation goods in specialized stores (10.9% vs 7.1%), and sales via stalls and markets (18.7% vs 13.4%). On a seasonally adjusted monthly basis, retail sales rose 0.2%, easing from a 0.5% increase in June.
-
----
-
-### 2026-09-11 15:16:15  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 1.21% Lower — The Shangai Composite Index fell 48 points or 1.21 percent on Friday to close at 3887 points. Leading the losses are Hengli Petrochemical (-6.30%), Yonghui Superstore (-5.56%) and Zijin Mining (-5.42%).
-
----
-
-### 2026-09-11 15:13:47  #Trading Economics #Economy #Switzerland #Consumer Confidence #Importance 2
-
-Swiss Consumer Morale Least Negative in 6 Months — Switzerland's consumer confidence index rose to -33 in August 2026 from -40 in the same month a year earlier, pointing to an improvement in household confidence but remaining slightly below market expectations of -32. This marked the least negative reading since February, with the biggest improvement coming from the economic outlook, as the corresponding index rose to -36 from -66 in August last year. Meanwhile, sentiment around the past financial situation improved modestly to -39 from -40, while the financial outlook weakened slightly to -30 from -29. The index measuring whether it was a good time to make major purchases also declined to -26 from -24, suggesting households remained cautious about discretionary spending. The overall reading also improved from the previous month, when the index stood at -35.
-
----
-
-### 2026-09-11 15:10:17  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Rises to 3-Month High — The yield on India’s 10-year G-Sec rose to around 7%, reaching more than three-month highs as surging crude oil prices, higher US Treasury yields and growing expectations of global monetary tightening triggered a broad bond selloff. Brent crude climbed above $100 a barrel to around $108 as escalating Middle East tensions disrupted energy supplies and shipping through the Strait of Hormuz and Red Sea, raising inflation concerns for India. Meanwhile, US Treasury yields rose after producer price inflation strengthened expectations of a Federal Reserve rate hike next week, with markets pricing a 72% chance of a 25-basis-point increase and the 10-year yield nearing 5%. German and Japanese 10-year yields also climbed to multi-year highs, reinforcing the global bond selloff. Domestic bonds faced additional pressure from expectations of RBI liquidity withdrawal, with banking system liquidity exceeding INR 10 trillion.
-
----
-
-### 2026-09-11 15:07:14  #Trading Economics #Economy #United States #Inflation Rate #Importance 3
-
-US Inflation Rate Seen Holding Steady at 3.4% — The annual US inflation rate is expected to have held steady at 3.4% in August 2026, matching the July reading. On a monthly basis, CPI is forecast to rise 0.4%, the strongest increase in three months, following a 0.1% gain in July. Gasoline prices are expected to have climbed nearly 3%, while grocery prices are also projected to rebound. Airfares are likely to remain elevated amid higher fuel costs, while housing costs are expected to continue showing signs of softness. Meanwhile, core CPI, which excludes food and energy, is expected to rise 0.2% mom, matching July’s increase, and 2.4% yoy, which would mark the lowest reading since March 2021, down from 2.5% in July. Overall, inflation is expected to remain well above the Fed’s 2% target.
-
----
-
-### 2026-09-11 15:02:37  #央行 #美聯儲
-
-【美聯儲下週是否加息？今晚20:30 市場迎來“終極一戰”！】北京時間今晚20點半，美國勞工統計局即將公佈8月CPI資料，這也將是美聯儲在下週做出利率決定前獲得的最後一塊“通脹拼圖”。
-
----
-
-### 2026-09-11 14:56:07  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Drop on Higher Oil Prices, Bond Yields — The Nikkei 225 Index declined 1.93% to 64,011, while the broader Topix Index slipped 0.65% to 4,028 on Friday, with both benchmarks recording steep weekly losses as elevated oil prices and rising global bond yields weighed on equities. Investors also awaited the US CPI report after Thursday’s PPI data showed wholesale prices picked up last month, strengthening expectations for a Federal Reserve rate hike next week. Domestically, the Bank of Japan is likewise expected to raise interest rates, with board member Kazuyuki Masu indicating that policymakers will continue tightening and gradually reduce monetary support as underlying inflation approaches the 2% target. Technology and AI-related shares led the selloff, with Kioxia Holdings falling 7%, SoftBank Group dropping 4%, Advantest losing 6.5%, Tokyo Electron declining 2.6% and Taiyo Yuden retreating 2.1%.
-
----
-
-### 2026-09-11 14:48:19  #經濟數據 #美國
-
-【美國8月CPI前瞻：能源漲價擾動通脹 美聯儲加息預期面臨關鍵檢驗】北京時間9月11日20時30分，美國將公佈8月消費者價格指數（CPI）。在油價上漲、生產端價格壓力持續的背景下，這份美聯儲9月議息會議前的關鍵通脹報告，將為利率決策提供重要依據，並牽動全球股債匯市場走勢。
 
 ---
