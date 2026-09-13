@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-14 02:44:51",
-  "count": 13440,
+  "updated": "2026-09-14 02:48:47",
+  "count": 13444,
   "items": [
+    {
+      "id": "mkt:01a09c19-3ed8-7118-855e-4d27f1c4658d",
+      "time": "2026-09-14 02:48:15",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish"
+      ],
+      "text": "【Semiconductor sector must adopt new materials; Applied Materials turns to AI for breakthroughs】Nikkei reports the semiconductor industry needs new materials to sustain technological progress as chip scaling approaches its limits. Applied Materials' Japan head said the company is deploying AI and hopes it will help deliver technical breakthroughs."
+    },
+    {
+      "id": "5091718",
+      "time": "2026-09-14 02:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他總統允許出現鉅額赤字，我絕不會允許。"
+    },
+    {
+      "id": "5091717",
+      "time": "2026-09-14 02:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我在美國的支援率很高。"
+    },
+    {
+      "id": "5091716",
+      "time": "2026-09-14 02:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在愛爾蘭期間做了很多生意。"
+    },
+    {
+      "id": "mkt:01a09c17-91a8-7118-855e-43f95ef59831",
+      "time": "2026-09-14 02:46:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LDP-backed former Naha deputy mayor Genta Kose wins Okinawa gubernatorial election】NHK reported that in the Okinawa governor’s election held on the 13th, Genta Kose, former deputy mayor of Naha backed by the Liberal Democratic Party and other parties, was confirmed elected."
+    },
+    {
+      "id": "5091715",
+      "time": "2026-09-14 02:45:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家安全域性改革計劃聚焦人工智慧、網路、作戰與全球情報等領域。"
+    },
     {
       "id": "5091714",
       "time": "2026-09-14 02:42:33",
@@ -123411,27 +123461,6 @@
         "國際"
       ],
       "text": "伊朗最高國家安全委員會秘書：霍爾木茲海峽已經完全關閉，美國總統特朗普所稱海峽仍處於開放狀態的說法完全是謊言。"
-    },
-    {
-      "id": "5079645",
-      "time": "2026-09-07 02:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高安全官員：未來幾日將在霍爾木茲海峽以外區域劃定禁限區，任何進入這片新海域的船隻都將被列入制裁名單。（航行）區域將從美國海軍封鎖線起始，延伸至波斯灣海域。"
-    },
-    {
-      "id": "mkt:01a07809-d827-7118-84bb-72439bb91743",
-      "time": "2026-09-07 02:45:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media reported Iran's top security official said a restricted zone outside the Strait of Hormuz will be announced in the coming days. The zone will begin at the US Navy blockade line and extend into the Gulf region. Any vessel entering the new zone will be added to a sanctions list."
     }
   ]
 }

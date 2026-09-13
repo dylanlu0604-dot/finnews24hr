@@ -1,7 +1,57 @@
 {
   "date": "2026-09-14",
-  "count": 62,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:01a09c19-3ed8-7118-855e-4d27f1c4658d",
+      "time": "2026-09-14 02:48:15",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish"
+      ],
+      "text": "【Semiconductor sector must adopt new materials; Applied Materials turns to AI for breakthroughs】Nikkei reports the semiconductor industry needs new materials to sustain technological progress as chip scaling approaches its limits. Applied Materials' Japan head said the company is deploying AI and hopes it will help deliver technical breakthroughs."
+    },
+    {
+      "id": "5091718",
+      "time": "2026-09-14 02:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他總統允許出現鉅額赤字，我絕不會允許。"
+    },
+    {
+      "id": "5091717",
+      "time": "2026-09-14 02:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我在美國的支援率很高。"
+    },
+    {
+      "id": "5091716",
+      "time": "2026-09-14 02:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在愛爾蘭期間做了很多生意。"
+    },
+    {
+      "id": "mkt:01a09c17-91a8-7118-855e-43f95ef59831",
+      "time": "2026-09-14 02:46:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LDP-backed former Naha deputy mayor Genta Kose wins Okinawa gubernatorial election】NHK reported that in the Okinawa governor’s election held on the 13th, Genta Kose, former deputy mayor of Naha backed by the Liberal Democratic Party and other parties, was confirmed elected."
+    },
+    {
+      "id": "5091715",
+      "time": "2026-09-14 02:45:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家安全域性改革計劃聚焦人工智慧、網路、作戰與全球情報等領域。"
+    },
     {
       "id": "5091714",
       "time": "2026-09-14 02:42:33",
