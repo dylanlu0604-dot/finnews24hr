@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-14 04:12:03",
-  "count": 13427,
+  "updated": "2026-09-14 04:15:52",
+  "count": 13428,
   "items": [
+    {
+      "id": "5091739",
+      "time": "2026-09-14 04:14:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萊茵河低水位或致德國鉅額經濟損失】13日，德國萊茵蘭-普法爾茨州工商會發言人妮科爾·拉博爾德表示，受持續低水位影響，萊茵河貨運能力大幅下降，預計今年將給德國經濟造成鉅額損失。但損失是否會超過2018年仍有待觀察。2018年萊茵河低水位至少造成24億歐元經濟損失。萊茵河承擔德國約80%的內河貨物運輸，是德國工業運輸“大動脈”。今年以來，德國多次遭遇高溫天氣，河流水位持續偏低，嚴重影響萊茵河貨運，一些貨船已無法通航，另一些只能空載航行。（央視新聞）"
+    },
+    {
+      "id": "5091738",
+      "time": "2026-09-14 04:12:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：伊美衝突後伊朗外資實際陷入停滯】伊朗工業部副部長、伊朗小型工業與工業園區組織負責人塔赫穆雷斯·拉胡蒂稱，自伊朗與以色列、美國爆發衝突後，伊朗的外國投資實際上已經停滯，本伊朗歷年內暫無新增外國投資記錄。拉胡蒂稱，受現有制裁與限制影響，外國投資並未發生。拉胡蒂補充說，受匯率波動、通脹以及居民購買力下降拖累，工業發展領域的國內投資較去年同樣出現下滑。"
+    },
     {
       "id": "mkt:01a09c50-a401-7118-855f-17ce85d9105e",
       "time": "2026-09-14 03:48:45",
@@ -123314,19 +123330,6 @@
         "國際"
       ],
       "text": "美國特使庫什納：以色列政府在加沙問題上的行事“有些不理智”。"
-    },
-    {
-      "id": "mkt:01a0785a-aeb5-7118-84bc-633ccfcc98cb",
-      "time": "2026-09-07 04:13:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "【Amazon cargo jet overruns runway at Miami, hits vehicles and catches fire】An Amazon (AMZN.O) Boeing 767-300 cargo jet overran the runway after landing at Miami International Airport around 14:00 local time on Sept. 6, the FAA said. The flight originated in San Juan, Puerto Rico. Video and on-site reports show the aircraft left airport grounds, struck multiple vehicles and caught fire. Miami-Dade Fire Rescue deployed roughly 60 apparatus and reported multiple injured; officials have not released a confirmed casualty count. Miami International has temporarily closed all runways and taxiways and implemented a ground stop; arrivals and departures are suspended. The cause of the runway excursion is unknown and under investigation."
     }
   ]
 }
