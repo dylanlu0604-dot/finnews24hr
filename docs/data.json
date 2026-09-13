@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-14 02:14:23",
+  "updated": "2026-09-14 02:18:15",
   "count": 13438,
   "items": [
+    {
+      "id": "5091710",
+      "time": "2026-09-14 02:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令：我軍裝備精良，隨時應對任何突發情況。"
+    },
+    {
+      "id": "5091709",
+      "time": "2026-09-14 02:16:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息偏向預防 A股風險偏好有望修復】過去一週，A股市場維持震盪整理執行格局。中東地緣衝突推升國際油價、美聯儲9月加息預期快速升溫等海外重大宏觀事件擾動市場情緒。對此，券商策略展望報告預計，本週美聯儲議息會議的基礎情形是加息25個基點，但這一加息更偏向預防性緊縮，對市場形成短期情緒層面的擾動。待9月美聯儲議息會議落地，海外不確定性逐步出清後，A股風險偏好有望修復，迎來階段性轉機。（上證報）"
+    },
     {
       "id": "5091708",
       "time": "2026-09-14 02:13:02",
@@ -123399,23 +123416,6 @@
         "DXY"
       ],
       "text": "Israel's finance minister said Prime Minister NETANYAHU has ordered the evacuation of certain settlement outposts in the West Bank."
-    },
-    {
-      "id": "mkt:01a077f1-2134-7118-84bb-56d648519540",
-      "time": "2026-09-07 02:18:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CENTCOM spokesman Tim Hawkins told AP that earlier reports claiming Iran struck a U.S. unmanned vessel in the Strait of Hormuz were \"completely false\"."
-    },
-    {
-      "id": "5079628",
-      "time": "2026-09-07 02:16:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡已下令撤離約旦河西岸部分定居點前哨據點。"
     }
   ]
 }
