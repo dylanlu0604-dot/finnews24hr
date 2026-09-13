@@ -1,7 +1,36 @@
 {
   "date": "2026-09-13",
-  "count": 253,
+  "count": 256,
   "items": [
+    {
+      "id": "mkt:01a0993a-af41-7118-855a-42994af33ac6",
+      "time": "2026-09-13 13:25:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Report: Yangtze River Delta has become one of China’s most dynamic regional innovation hubs】At the 19th Pujiang Innovation Forum in Shanghai (Sept 11-14), party secretary Liu Dongmei of the China Institute for Science and Technology Development Strategy released the China Regional Science and Technology Innovation Evaluation Report 2026. The report says regional tech innovation in China continues to rise; Shanghai ranks first nationally and Jiangsu, Zhejiang and Anhui are in the top 10. The Yangtze River Delta accounts for over 30% of national R&D resources, fiscal science-and-technology spending and innovation output, and has become one of China’s most dynamic regional innovation centres."
+    },
+    {
+      "id": "5091208",
+      "time": "2026-09-13 13:25:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萬那杜一渡輪失事已致1人死亡30餘人失蹤】維拉港訊息：萬那杜總理府13日釋出通報說，該國一艘渡輪11日失事，目前已確認1人死亡、30餘人失蹤。通報說，事發時渡輪共載有40餘人，包括船員和乘客。救援人員已確認1人死亡、15人獲救，另有30餘人失蹤。救援工作仍在進行中。通報還說，本次事故主要誘因可能是強風天氣、駕駛人員無視海上氣象預警以及船舶超載。（新華社）"
+    },
+    {
+      "id": "mkt:01a09938-327e-7118-855a-3dbb4218b00a",
+      "time": "2026-09-13 13:23:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA cites Russian presidential aide Ushakov saying the Abu Dhabi crown prince told President Putin the UAE stands ready to provide a platform for negotiations on the Ukraine issue."
+    },
     {
       "id": "5091207",
       "time": "2026-09-13 13:22:40",
