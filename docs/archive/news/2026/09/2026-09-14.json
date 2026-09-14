@@ -1,7 +1,44 @@
 {
   "date": "2026-09-14",
-  "count": 348,
+  "count": 352,
   "items": [
+    {
+      "id": "5091913",
+      "time": "2026-09-14 08:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案：羅博特科開始評估香港上市的投資者需求。"
+    },
+    {
+      "id": "5091912",
+      "time": "2026-09-14 08:22:12",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：銀行板塊仍將演繹估值上行方向，全年絕對收益仍將延續】中信證券研報稱，《金融強國建設“十五五”規劃》正式出臺，金融業中長期發展框架明確，在服務好實體的背景下，為金融強國建設奠定基礎。對於商業銀行而言，基本面視角，展望今年3季度及全年，預計息差和資產質量等核心變數保持穩定，經營格局穩定，盈利趨勢積極。中期視角看，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，預計今明年行業ROE絕對數企穩，區間8-9%，助力板塊估值提升，有望從“高股息防禦資產”向“高確定性權益資產”重估，銀行板塊仍將演繹估值上行方向，全年絕對收益仍將延續。"
+    },
+    {
+      "id": "5091911",
+      "time": "2026-09-14 08:21:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本晶片相關股大幅下跌】軟銀集團股價下跌10%，鎧俠下跌9.3%，愛德萬測試下跌4.9%。"
+    },
+    {
+      "id": "mkt:01a09d4a-91fa-7118-8560-9f0a63469375",
+      "time": "2026-09-14 08:21:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【China International Capital raises 4Q26 Brent central forecast to $85/bbl】China International Capital Co raised its 4Q26 central Brent forecast to $85/bbl from $80/bbl in June. The research note cites a slower-than-expected Middle East crude restart since Q3 and a recent escalation in regional tensions that are prompting markets to re-price the persistence of Middle East supply losses, lifting the oil supply floor. End-user demand remains weak and summer recovery should not be linearly extrapolated; if oil tops $100/bbl a demand peak could emerge. The revision reflects a more persistent supply shortfall and lower inventories. In product markets, near-term crude and freight increases are compressing Eurasian refining margins; gasoline cracks face downside pressure from current high levels, while overseas diesel shows structural tightness and crack resilience."
+    },
     {
       "id": "mkt:01a09d49-04ef-7118-8560-9488f3dc0d48",
       "time": "2026-09-14 08:20:03",
