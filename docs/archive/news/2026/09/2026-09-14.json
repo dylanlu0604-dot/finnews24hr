@@ -1,7 +1,87 @@
 {
   "date": "2026-09-14",
-  "count": 713,
+  "count": 721,
   "items": [
+    {
+      "id": "mkt:01a09dd4-9927-7118-8563-90f1f52f074d",
+      "time": "2026-09-14 10:52:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "USD/JPY rose 0.3% to 154.05."
+    },
+    {
+      "id": "5092166",
+      "time": "2026-09-14 10:51:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>上漲0.3%，報154.02。"
+    },
+    {
+      "id": "5092165",
+      "time": "2026-09-14 10:51:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚計劃到 2030 年將液化天然氣銷售組合提升至 5000 萬噸 / 年。"
+    },
+    {
+      "id": "5092164",
+      "time": "2026-09-14 10:50:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "希音股價下跌8.2%，報36.76港元。"
+    },
+    {
+      "id": "mkt:01a09dd2-4988-7118-8563-8e01ecbea076",
+      "time": "2026-09-14 10:49:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed",
+        "06936.HK"
+      ],
+      "text": "People familiar with the matter said SF Holding (06936.HK) plans to raise up to 10 bln yuan (about $1.5 bln) via an inaugural offshore yuan bond, entering the dim sum bond market."
+    },
+    {
+      "id": "mkt:01a09dd2-4161-7118-8563-801d59051535",
+      "time": "2026-09-14 10:49:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. EPA plans to rescind limits on power-plant greenhouse gas emissions】The New York Times, citing two people familiar with the matter, reported the Trump administration plans to end federal limits on greenhouse gas emissions from coal- and gas-fired power plants. EPA administrator Lee Zeldin is expected to announce the rollback Monday at the G20 energy ministers' meeting in Houston. The administration is pursuing policies to ease fossil-fuel production and use, lower costs and promote fossil-fuel power to meet growing AI data-center electricity demand."
+    },
+    {
+      "id": "te:economy:583375",
+      "time": "2026-09-14 10:49:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Holds Firm Ahead of BOJ — Japan’s 10-year government bond yield held around 2.98% on Monday, remaining near its highest level in three decades as investors prepared for the Bank of Japan’s policy meeting this week. The BOJ is widely expected to raise its policy rate to 1.25% on Friday, the highest since April 1995, as the central bank contends with persistent upside risks to prices. Markets are also watching for BOJ guidance on the possibility of another rate hike later this year. Meanwhile, US Treasury Secretary Scott Bessent has repeatedly called on the BOJ to tighten policy more aggressively to prevent excessive yen weakness. Oil prices also extended their gains after Saudi Arabia shut down the critical East-West pipeline that bypasses the Strait of Hormuz, adding to inflation concerns. Japan’s economy depends heavily on oil imports from the Middle East, leaving it particularly exposed to sharp swings in energy prices."
+    },
+    {
+      "id": "5092163",
+      "time": "2026-09-14 10:49:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小金屬板塊短線走高，金鈦股份漲超14%】小金屬板塊短線走高，金鈦股份漲超14%，東方鉭業、雲南鍺業、中礦資源、東方鋯業、華陽新材跟漲。"
+    },
     {
       "id": "mkt:01a09dd0-6986-7118-8563-791e331fa19a",
       "time": "2026-09-14 10:47:56",

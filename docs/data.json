@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-14 10:49:39",
-  "count": 13589,
+  "updated": "2026-09-14 10:53:32",
+  "count": 13590,
   "items": [
+    {
+      "id": "mkt:01a09dd4-9927-7118-8563-90f1f52f074d",
+      "time": "2026-09-14 10:52:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "USD/JPY rose 0.3% to 154.05."
+    },
+    {
+      "id": "5092166",
+      "time": "2026-09-14 10:51:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>上漲0.3%，報154.02。"
+    },
+    {
+      "id": "5092165",
+      "time": "2026-09-14 10:51:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚計劃到 2030 年將液化天然氣銷售組合提升至 5000 萬噸 / 年。"
+    },
+    {
+      "id": "5092164",
+      "time": "2026-09-14 10:50:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "希音股價下跌8.2%，報36.76港元。"
+    },
+    {
+      "id": "mkt:01a09dd2-4988-7118-8563-8e01ecbea076",
+      "time": "2026-09-14 10:49:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed",
+        "06936.HK"
+      ],
+      "text": "People familiar with the matter said SF Holding (06936.HK) plans to raise up to 10 bln yuan (about $1.5 bln) via an inaugural offshore yuan bond, entering the dim sum bond market."
+    },
+    {
+      "id": "mkt:01a09dd2-4161-7118-8563-801d59051535",
+      "time": "2026-09-14 10:49:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. EPA plans to rescind limits on power-plant greenhouse gas emissions】The New York Times, citing two people familiar with the matter, reported the Trump administration plans to end federal limits on greenhouse gas emissions from coal- and gas-fired power plants. EPA administrator Lee Zeldin is expected to announce the rollback Monday at the G20 energy ministers' meeting in Houston. The administration is pursuing policies to ease fossil-fuel production and use, lower costs and promote fossil-fuel power to meet growing AI data-center electricity demand."
+    },
+    {
+      "id": "te:economy:583375",
+      "time": "2026-09-14 10:49:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Holds Firm Ahead of BOJ — Japan’s 10-year government bond yield held around 2.98% on Monday, remaining near its highest level in three decades as investors prepared for the Bank of Japan’s policy meeting this week. The BOJ is widely expected to raise its policy rate to 1.25% on Friday, the highest since April 1995, as the central bank contends with persistent upside risks to prices. Markets are also watching for BOJ guidance on the possibility of another rate hike later this year. Meanwhile, US Treasury Secretary Scott Bessent has repeatedly called on the BOJ to tighten policy more aggressively to prevent excessive yen weakness. Oil prices also extended their gains after Saudi Arabia shut down the critical East-West pipeline that bypasses the Strait of Hormuz, adding to inflation concerns. Japan’s economy depends heavily on oil imports from the Middle East, leaving it particularly exposed to sharp swings in energy prices."
+    },
+    {
+      "id": "5092163",
+      "time": "2026-09-14 10:49:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小金屬板塊短線走高，金鈦股份漲超14%】小金屬板塊短線走高，金鈦股份漲超14%，東方鉭業、雲南鍺業、中礦資源、東方鋯業、華陽新材跟漲。"
+    },
     {
       "id": "mkt:01a09dd0-6986-7118-8563-791e331fa19a",
       "time": "2026-09-14 10:47:56",
@@ -124803,65 +124883,6 @@
         "公司"
       ],
       "text": "【螞蟻集團入股Physical AI解決方案提供商釐清智慧】企查查APP顯示，近日，北京釐清智慧科技有限公司發生工商變更，新增螞蟻科技集團股份有限公司全資子公司上海雲瑒企業管理諮詢有限公司等為股東，同時註冊資本增至426.899萬元。企查查資訊顯示，該公司成立於2026年4月，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；智慧機器人的研發；人工智慧理論與演算法軟體開發等。"
-    },
-    {
-      "id": "5080061",
-      "time": "2026-09-07 10:52:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：預估臺積電第三季單季3奈米產值首度超過4000億新臺幣】臺積電應廣大的客戶群要求，3奈米以下先進製程加開更多產能。 機構看好，臺積電下半年3奈米貢獻可望首度超越5奈米，估計第三季單季產值首度超過4000億新臺幣，創新高，佔營收比重逾三成。"
-    },
-    {
-      "id": "5080060",
-      "time": "2026-09-07 10:52:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股萬訊轉債持續拉昇，現漲19.69%報164元/張，正股萬訊自控20CM漲停。"
-    },
-    {
-      "id": "5080059",
-      "time": "2026-09-07 10:51:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部等七部門組織開展2026年度視聽系統典型案例徵集】為貫徹落實《關於加快推進視聽電子產業高質量發展的指導意見》，持續推動視聽電子產業高質量發展，工業和資訊化部等七部門組織開展2026年度視聽系統典型案例徵集工作。本次案例徵集以虛擬現實（含增強現實、混合現實）為切口，深入落實《虛擬現實與行業應用融合發展行動計劃（2022—2026年）》，進一步提升虛擬現實與行業應用融合發展水平。（工信部）"
-    },
-    {
-      "id": "5080058",
-      "time": "2026-09-07 10:50:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華蘭疫苗註冊資本減至5.65億】天眼查工商資訊顯示，近日，華蘭生物疫苗股份有限公司（301207）發生工商變更，註冊資本由60102.75萬元減至56502.80萬元，降幅約6%；同時法定代表人由安康變更為安文珏。華蘭生物疫苗股份有限公司成立於2005年11月，法定代表人為安文珏，註冊資本56502.80萬元人民幣，實繳56502.80萬元人民幣，經營範圍為生產各類疫苗、基因工程生物產品，銷售自產產品，住所河南省新鄉市華蘭大道甲1號附1號。股東資訊顯示，該公司由華蘭生物工程股份有限公司控股，證券曾用名為\"華蘭生物疫苗有限公司\"。此番減資恰逢流感疫苗行業承壓：一面是公司股本一次性收縮約3600萬，一面是原董事長安康交棒、由\"安\"字輩二代安文珏接任——這是這家國內首家四價流感疫苗生產企業自2005年成立來首次在同一天完成\"減資+換帥\"雙變更。案件仍在持續披露中，最終以工商登記為準。"
-    },
-    {
-      "id": "5080057",
-      "time": "2026-09-07 10:50:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Kimi最新一輪投後估值達350億美元】天眼查App顯示，北京月之暗面科技股份有限公司成立於2023年，法定代表人、董事長為楊植麟，註冊資本約223.85萬元，經營範圍包括軟體開發、軟體銷售、人工智慧基礎軟體開發等。股東資訊顯示，該公司共有13名股東，包括多隻產業及社保基金，其中楊植麟持股約51.83%，位列第一大股東。融資資訊顯示，該公司已歷經9輪融資。值得一提的是，近日，北京月之暗面科技股份有限公司發生工商變更，註冊資本由約152萬人民幣增至約224萬人民幣，增幅約47%；今年7月，企業型別由有限責任公司（自然人投資或控股）變更為股份有限公司（非上市、自然人投資或控股）。"
-    },
-    {
-      "id": "5080056",
-      "time": "2026-09-07 10:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【箭元科技分公司落地北京，含火箭發動機業務】企查查APP顯示，近日，北京箭元科技有限責任公司北京分公司成立，經營範圍包含：火箭發射裝置研發和製造；火箭控制系統研發；民用航天發射技術服務；火箭發動機研發與製造等。企查查資訊顯示，其總公司為北京箭元科技有限責任公司。"
-    },
-    {
-      "id": "5080055",
-      "time": "2026-09-07 10:49:45",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【韓國“儲存雙雄”異動】9月7日，日韓股市集體高開，韓國“儲存雙雄”股價大漲，SK海力士盤中漲超6%，三星電子盤中漲逾4%。 訊息面上，日前，OpenAI正式釋出新一代旗艦模型GPT-6 Astra，該軟體可自主操作軟體、完成程式設計/金融建模/製作簡報等長週期多步驟任務。 中信證券（香港）研報認為，受持續的AI資本開支、不斷上升的AI採用率和貨幣化支援的影響，預計2027—2028年儲存需求增長將超過供應增長。儘管儲存ASP（平均銷售價格）上漲幅度可能放緩，但大幅下跌的可能性極低。儲存供應商正專注於在更長時間內維持當前盈利能力，因此不太願意激進上調ASP，儘管預計未來幾個季度將持續存在供需緊平衡。再加上長期協議（LTA）採用率不斷上升，這應會支撐高位利潤並進一步推動重估。 華泰證券研報認為，中長期看，監管處置“靴子落地”後，韓股走勢仍更多取決於半導體基本面情況。（上海證券報）"
     }
   ]
 }
