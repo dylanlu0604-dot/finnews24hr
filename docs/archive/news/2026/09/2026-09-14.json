@@ -1,7 +1,169 @@
 {
   "date": "2026-09-14",
-  "count": 1879,
+  "count": 1896,
   "items": [
+    {
+      "id": "mkt:01a0a077-a678-7118-857a-018ab66c110c",
+      "time": "2026-09-14 23:09:50",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasuries pared losses as oil prices eased from recent highs."
+    },
+    {
+      "id": "5093651",
+      "time": "2026-09-14 23:09:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Pinterest與英偉達合作搭建全新AI能力模組。"
+    },
+    {
+      "id": "mkt:01a0a077-449a-7118-8579-fbed126d27ee",
+      "time": "2026-09-14 23:09:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Diesel futures' gains narrowed, trading near $5.04/gal."
+    },
+    {
+      "id": "5093650",
+      "time": "2026-09-14 23:08:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "馬拉松石油公司迅速轉跌。"
+    },
+    {
+      "id": "mkt:01a0a076-a2e8-7118-8579-f588c2090d53",
+      "time": "2026-09-14 23:08:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent fell $1.40 intraday to $98.749/bbl and $104.29/bbl after Trump said Russia and Ukraine had agreed not to strike each other's energy targets."
+    },
+    {
+      "id": "5093649",
+      "time": "2026-09-14 23:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "布倫特原油漲幅收窄，交易價格低於每桶108美元。"
+    },
+    {
+      "id": "5093648",
+      "time": "2026-09-14 23:08:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "（美國）柴油期貨漲幅收窄，交易價格接近每加侖5.04美元。"
+    },
+    {
+      "id": "te:economy:583575",
+      "time": "2026-09-14 23:08:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Rises to Highest Since March 2025 — Switzerland's 10-year government bond yield rose past 0.6%, reaching its highest level since March of 2025, as global oil prices continue to rise amid disruptions to the energy supply chain, which further lift concerns over inflation and its impact on monetary policy across major economies. Domestically, Swiss inflation doubled to 0.8% in August, although remaining well within the SNB’s target and highlighting the limited pass through of higher global oil prices. Electricity prices are also set to decline around 4% next year, according to the Swiss Federal Electricity Commission, as local utility companies pass on lower wholesale costs to consumers. On the monetary policy front, a Swiss Bankers Association survey showed that all bankers expect the SNB to keep its policy rate at 0% by year-end. Markets anticipated the first rate hike in June 2027, while most economists expect the first hike in early 2028."
+    },
+    {
+      "id": "5093647",
+      "time": "2026-09-14 23:07:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院發言人表示，Anthropic公司CEO阿莫代伊與OpenAI公司CEO奧特曼週末與美國參議員馬克·華納會談，討論了人工智慧風險議題。"
+    },
+    {
+      "id": "mkt:01a0a075-d40b-7118-8579-e8f82880f913",
+      "time": "2026-09-14 23:07:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Trump: Russia and Ukraine have agreed not to strike each other's energy targets】Trump said Ukraine has agreed not to strike Russian energy targets and Russia has agreed to do the same. He said global diesel price rises are driven mainly by the Russia-Ukraine war, not Iran."
+    },
+    {
+      "id": "5093646",
+      "time": "2026-09-14 23:07:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：全球柴油價格上漲並非伊朗戰爭所致。"
+    },
+    {
+      "id": "5093645",
+      "time": "2026-09-14 23:06:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "COMEX期銅下跌3%，至每磅6.29美元，為7月29日以來最低。"
+    },
+    {
+      "id": "mkt:01a0a074-d11a-7118-8579-e56cda67e626",
+      "time": "2026-09-14 23:06:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Trump says Russia has also agreed to stop strikes on Ukraine's energy targets."
+    },
+    {
+      "id": "5093644",
+      "time": "2026-09-14 23:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：俄烏衝突推高全球柴油價格。"
+    },
+    {
+      "id": "mkt:01a0a074-83da-7118-8579-d86284bd8a6c",
+      "time": "2026-09-14 23:06:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "NYMEX copper futures fell 3% to $6.29/lb, the lowest level since July 29."
+    },
+    {
+      "id": "5093643",
+      "time": "2026-09-14 23:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：俄羅斯已同意採取同樣做法。"
+    },
     {
       "id": "mkt:01a0a074-51d6-7118-8579-d6015ff48c86",
       "time": "2026-09-14 23:06:12",
@@ -9,6 +171,14 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said Ukraine has agreed not to strike Russian energy targets."
+    },
+    {
+      "id": "5093642",
+      "time": "2026-09-14 23:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭已同意不打擊俄羅斯能源目標。"
     },
     {
       "id": "5093641",
