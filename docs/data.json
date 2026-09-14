@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-14 22:58:44",
-  "count": 13450,
+  "updated": "2026-09-14 23:02:44",
+  "count": 13451,
   "items": [
+    {
+      "id": "mkt:01a0a070-0ee7-7118-8579-bda648352db9",
+      "time": "2026-09-14 23:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact mixed",
+        "WTI",
+        "Brent"
+      ],
+      "text": "By the 23:00 close, China’s domestic front-month futures were mixed, with more gainers than losers. Fuel oil jumped over 4%; low-sulfur fuel oil (LU), coking coal and asphalt rose more than 3%; paraxylene (PX), bottle-grade PET chips and polyester short fiber gained over 2%; ethylene glycol (EG) was up about 2%. On the downside, glass fell nearly 2%; soda ash, No.20 rubber, rapeseed meal, corn and rubber dropped over 1%; pulp and starch declined about 1%."
+    },
+    {
+      "id": "5093636",
+      "time": "2026-09-14 23:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：胡塞武裝向葉門重鎮塔伊茲推進。"
+    },
+    {
+      "id": "mkt:01a0a06f-510e-7118-8579-b238a99061c4",
+      "time": "2026-09-14 23:00:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Customs data showed South Korea imported 12.1 mln tonnes of crude oil in August, down from 12.5 mln tonnes a year earlier."
+    },
+    {
+      "id": "te:markets:583574",
+      "time": "2026-09-14 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Depreciates by 1.11% — Top currency losers are Polish Zloty (-1.11%), Mexican Peso (-1.04%), Swedish Krona (-0.88%), Japanese Yen (-0.71%), Euro (-0.53%) and British Pound (-0.38%). Gains are led by Dollar Index (0.50%)."
+    },
+    {
+      "id": "5093634",
+      "time": "2026-09-14 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲4.03%，低硫燃料油連續漲3.58%，焦煤連續漲3.56%，瀝青連續漲2.42%，短纖連續漲2.25%。"
+    },
+    {
+      "id": "5093633",
+      "time": "2026-09-14 22:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人和以色列安全域性發言人的聯合宣告：“以色列國防軍和以色列安全域性逮捕了以法蓮旅轄區內圖勒凱爾姆地區被通緝高階頭目。"
+    },
     {
       "id": "5093632",
       "time": "2026-09-14 22:57:16",
@@ -123847,61 +123910,6 @@
         "Impact bullish"
       ],
       "text": "LME copper futures hit a record high, topping $14,530 per tonne."
-    },
-    {
-      "id": "5081438",
-      "time": "2026-09-07 23:01:34",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "倫敦金屬交易所銅價暴漲，突破每噸 14530 美元，創下歷史新高。"
-    },
-    {
-      "id": "mkt:01a07c63-481c-7118-84d0-e857dc715f89",
-      "time": "2026-09-07 23:01:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures rose 2.00% intraday, trading at $93.05/bbl."
-    },
-    {
-      "id": "mkt:01a07c63-0cf8-7118-84d0-e3ef3564aebe",
-      "time": "2026-09-07 23:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "At the 23:00 close, China's main commodity futures were mostly higher. Asphalt, low-sulfur fuel oil (LU), methanol, LPG and fuel oil rose more than 2%; 20# rubber and palm oil gained nearly 2%. Soda ash fell over 2%; glass, caustic soda and ethylene glycol (EG) slipped more than 1%; PVC declined about 1%."
-    },
-    {
-      "id": "te:markets:581693",
-      "time": "2026-09-07 23:00:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Appreciates by 1.26% — Top currency gainers are Japanese Yen (1.26%), Norwegian Krone (0.45%), British Pound (0.17%) and Euro (0.15%). Biggest loser is Dollar Index (-0.32%)."
-    },
-    {
-      "id": "5081437",
-      "time": "2026-09-07 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】瀝青連續漲2.80%，低硫燃料油連續漲2.58%，純鹼連續跌2.47%，甲醇連續漲2.43%，液化石油氣連續漲2.34%，燃料油連續漲2.05%。"
     }
   ]
 }
