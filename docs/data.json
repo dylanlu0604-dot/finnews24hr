@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-14 10:19:01",
-  "count": 13578,
+  "updated": "2026-09-14 10:22:53",
+  "count": 13577,
   "items": [
+    {
+      "id": "5092124",
+      "time": "2026-09-14 10:22:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指拉昇翻紅，此前一度跌超1.6%。"
+    },
+    {
+      "id": "5092123",
+      "time": "2026-09-14 10:22:10",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：受供應緊張影響，亞洲能源股存在上行風險】摩根士丹利稱，受全供應鏈供應緊張影響，亞洲能源股或存在進一步上行風險。由馬揚克・馬赫什瓦里牽頭的分析師在研報中寫道：“亞洲地區高企的原油價格、不斷擴大的成品油毛利，以及化工品、煤炭和液化天然氣價格持續超出市場普遍預期。”“對於我們看好的亞洲超配標的，當前股價尚未計入短期與中期盈利質量及股息層面的變化。”印度石油天然氣公司、星石油、邦查克、印度天然氣管理局、馬來西亞國家能源、聯合拖拉機的企業股息或有超預期的正向表現。"
+    },
+    {
+      "id": "mkt:01a09db8-17b3-7118-8563-01bfd30171fa",
+      "time": "2026-09-14 10:21:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Trump administration delays refined-copper tariff decision; copper falls in Asian trade】Copper fell in Asian trade after reports the Trump administration delayed a decision on import tariffs for refined copper, ANZ research said. Traders had built large US inventories anticipating tariffs. ANZ said rising inflation concerns are making the White House hesitant about the tariff plan."
+    },
+    {
+      "id": "5092122",
+      "time": "2026-09-14 10:20:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯宇製藥：將結合實際研發場景 持續擴大AI工具應用範圍】匯宇製藥(688553)在9月14日召開的2026年半年度業績說明會上表示，在AI應用方面，公司持續推動AI技術與創新藥全鏈條研發深度耦合：在臨床前階段運用AI工具賦能靶點發現、分子設計、化合物篩選；臨床階段運用AI工具賦能方案設計、受試者篩選、多中心資料管理及風險預判，這些應用的核心目標是降低早期階段的試錯成本、縮短里程碑達成周期。公司將結合實際研發場景，持續擴大AI工具的應用範圍。"
+    },
+    {
+      "id": "5092121",
+      "time": "2026-09-14 10:20:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "萬得全A指數轉漲。"
+    },
+    {
+      "id": "5092120",
+      "time": "2026-09-14 10:20:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨國公司資金池政策今日起推廣至全國】《關於跨國公司本外幣跨境資金集中運營業務有關事宜的通知》今天（14日）起施行。新政將跨國公司本外幣跨境資金集中運營試點政策推廣至全國，惠及更多經營主體；允許跨國公司自主決定歸集比例，使用同一賬戶管理本外幣資金，實現集團層面統籌調配、成員企業層面靈活使用，鼓勵優先使用本幣開展業務。 (央視新聞)"
+    },
+    {
+      "id": "5092119",
+      "time": "2026-09-14 10:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典選舉委員會14日凌晨公佈的初步計票結果顯示，反對黨陣營得票率高於支援首相克里斯特松的政黨陣營，預計將贏得議會選舉。（新華社）"
+    },
     {
       "id": "mkt:01a09db5-43cc-7118-8562-fa8a49ffa32f",
       "time": "2026-09-14 10:18:17",
@@ -124674,74 +124736,6 @@
         "國際"
       ],
       "text": "印尼將雅加達機場關閉時間延長至9月7日18時。"
-    },
-    {
-      "id": "5080013",
-      "time": "2026-09-07 10:22:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股醫療裝置及用品股震盪上升，德適(02526.HK)大漲超30.5%，今海醫療科技(02225.HK)漲超17%，精鋒醫療(02675.HK)、啟明醫療(02500.HK)均漲6.5%。"
-    },
-    {
-      "id": "5080012",
-      "time": "2026-09-07 10:21:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創A股漲超8%】中際旭創A股漲超8%，成交額超180億元。"
-    },
-    {
-      "id": "5080011",
-      "time": "2026-09-07 10:21:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聞泰科技回應“被凍結21億資產”：財產保全措施不是對實體爭議的裁判】8月底公司公告稱，東莞中院就安世侵權糾紛案作出財產保全裁定，凍結被申請人安世有限公司、安泰可有限公司名下價值人民幣21.39億元的等額財產。聞泰科技向新浪科技表示：“本次東莞中院作出的《民事裁定書》，是法院在案件審理過程中，基於公司及裕成控股提出的財產保全申請而依法採取的財產保全措施。財產保全措施的主要目的是保障將來生效判決的執行，該裁定本身不是對案件實體爭議的裁判。本案的實體結果，以法院生效判決為準。”（新浪科技）"
-    },
-    {
-      "id": "te:markets:581467",
-      "time": "2026-09-07 10:21:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Holds Rally on Hawkish BOJ Bets — The Japanese yen traded around 156 per dollar on Monday after gaining more than 2% last week, supported by growing expectations that the Bank of Japan will raise interest rates this month. Takuji Aida, an economic adviser to Prime Minister Sanae Takaichi, said the central bank is likely to hike rates in September and deliver another increase by January next year. The comments point to a widening recognition within the Takaichi administration, which has previously taken a dovish stance, that additional BOJ hikes may be needed to stem excessive yen weakness. The currency also benefited from the unwinding of carry trades, expectations for capital repatriation and increasing political pressure from the US. Meanwhile, data showed Japan’s foreign exchange reserves dropped by a record $79.6 billion in August following Tokyo’s largest-ever yen-buying intervention, with authorities spending about $99 billion between July 30 and August 26 to contain persistent weakness in the currency."
-    },
-    {
-      "id": "5080010",
-      "time": "2026-09-07 10:21:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國AI大模型呼叫量連續十九周領跑：環比增長379%，騰訊Hy4preview登頂！小米MiMo-V2.5跌出榜單】根據OpenRouter最新資料測算，上週（8月31日至9月6日）全球AI大模型總呼叫量為115萬億Token，環比增長1.77%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達56.72萬億Token，環比增長2.83%；同期美國AI大模型周呼叫量為16.54萬億Token，環比下滑3.1%。中國大模型周呼叫量連續十九周超過美國，穩居全球首位。上週，全球呼叫量排名前五中，有四款中國AI大模型。其中，騰訊混元Hy4 preview位居第一，周呼叫量達14.7萬億Token，環比增長379%。（每經）"
-    },
-    {
-      "id": "5080009",
-      "time": "2026-09-07 10:20:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東科技與數字認證達成戰略合作】據數字認證訊息，9月3日，京東科技與北京數字認證股份有限公司達成戰略合作，共建聯合生態。雙方明確將圍繞政企資訊化、車聯網安全、雲安全與基礎設施等重點垂直領域，聯合打造行業解決方案，協同開拓市場。同時瞄準可信資料空間等前沿技術方向，開展課題聯合研究，探索安全技術創新落地路徑。"
-    },
-    {
-      "id": "5080008",
-      "time": "2026-09-07 10:19:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026－2027年度直接選拔招錄軍（警）官工作全面展開】為廣泛延攬高校優秀人才投身新時代強軍事業，近日，中央軍委政治工作部部署展開2026－2027年度直接選拔招錄軍（警）官工作。（央視新聞）"
-    },
-    {
-      "id": "5080007",
-      "time": "2026-09-07 10:19:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃爾德：公司已與多家PCB廠商持續開展產品最佳化與驗證工作】沃爾德(688028)9月7日召開2026年半年度業績說明會。就“金剛石微鑽在PCB板領域的工藝驗證和訂單獲取進展如何”問題，公司表示，目前公司已與多家PCB廠商持續開展產品最佳化與驗證工作，其中部分客戶已進入商務談判流程。公司同步推進產能建設，為後續訂單交付做好準備。該業務目前尚處市場拓展初期，對公司當期業績影響有限。"
     }
   ]
 }
