@@ -1,7 +1,92 @@
 {
   "date": "2026-09-14",
-  "count": 1811,
+  "count": 1820,
   "items": [
+    {
+      "id": "5093601",
+      "time": "2026-09-14 22:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅首席經濟顧問馬爾克斯：巴西受最高法院危機的影響最大。"
+    },
+    {
+      "id": "5093600",
+      "time": "2026-09-14 22:28:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【蘋果新機連續三年“上市即破發”】記者發現，剛剛正式開啟預售的iPhone 18 Pro系列已在電商平臺上跌破發售價。拼多多平臺百億補貼頁面顯示，原價為9999元的蘋果 iPhone18 Pro全網通5G 雙卡雙待手機 256G拼單價為9699元，同時平臺發放600元店鋪券，最終下單價可低至9099元，較官方發售價降價900元。記者嘗試下單發現，平臺補貼券相對充足可成功下單，頁面資訊顯示，9月27日前將發貨完畢。"
+    },
+    {
+      "id": "mkt:01a0a051-dad3-7118-8579-45e2bedae3bf",
+      "time": "2026-09-14 22:28:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equities slid intraday: the S&P 500 fell about 0.8% to an intraday low, the Nasdaq dropped more than 1% again, and the Dow declined 0.4%."
+    },
+    {
+      "id": "5093599",
+      "time": "2026-09-14 22:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：限制期將從2026年10月27日太平洋時間凌晨12:01開始，至2026年11月3日太平洋時間晚上11:59結束。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202609143873736138",
+      "time": "2026-09-14 22:28:01",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "交易員充分消化英國央行到2027年底前進行五次25基點加息的預期。"
+    },
+    {
+      "id": "5093598",
+      "time": "2026-09-14 22:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份政府報告指出，美國聯邦航空管理局需要國會提供更多資金，以完成價值106億美元空中交通管制改革計劃的第一階段，且低估了總成本。"
+    },
+    {
+      "id": "mkt:01a0a050-cb2c-7118-8579-3ab0042150a9",
+      "time": "2026-09-14 22:27:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【US media: ANTHROPIC IPO unlikely to be derailed by safety controversy】Axios cites multiple sources saying ANTHROPIC still may pursue an IPO in 2026 despite rising AI safety concerns. Social-media speculation suggested the company could delay listings over product liability and regulatory risks, but sources say recent developments in the past 48 hours have increased, not reduced, the deal’s attractiveness; ANTHROPIC reportedly believes public-company transparency would bolster safety. Business Insider reports ANTHROPIC has decided to list on Nasdaq."
+    },
+    {
+      "id": "5093597",
+      "time": "2026-09-14 22:27:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "META：限制期將在美國中期選舉最後一週實施。"
+    },
+    {
+      "id": "5093596",
+      "time": "2026-09-14 22:27:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數迅速延續跌勢，觸及盤中低點，下跌0.8%。"
+    },
     {
       "id": "mkt:01a0a050-14d8-7118-8579-33622a3dda05",
       "time": "2026-09-14 22:26:37",
