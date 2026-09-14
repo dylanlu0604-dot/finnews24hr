@@ -1,7 +1,98 @@
 {
   "date": "2026-09-14",
-  "count": 1081,
+  "count": 1093,
   "items": [
+    {
+      "id": "5092549",
+      "time": "2026-09-14 15:22:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：本週美聯儲、英國央行以及日本央行將先後公佈最新的利率決議，一些業內人士目前已擔心，二十年一遇的美日歐三大央行的同步緊縮可能會如同多米諾骨牌，將激進的鷹派陣營迅速擴散至整個G10經濟體。"
+    },
+    {
+      "id": "mkt:01a09ecb-a990-7118-8569-eaaa4e54fb5d",
+      "time": "2026-09-14 15:22:22",
+      "tags": [
+        "MKT News",
+        "TPRO.MI",
+        "Impact bearish"
+      ],
+      "text": "Shares of Italian technology company Technoprobe extended losses to 7.8%."
+    },
+    {
+      "id": "mkt:01a09ecb-8edd-7118-8569-e58bf5200e32",
+      "time": "2026-09-14 15:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【SASAC: central SOEs to lead on timely settlement of payables】The State-owned Assets Supervision and Administration Commission (SASAC) said a recent notice on easing SME receivables requires central SOEs to set an example. Central SOEs will actively raise funds to ensure timely payment of dues. Going forward cash payments to SMEs will be treated as a hard constraint, while SOEs should, based on their circumstances, maintain a reasonable cash-payment ratio to large suppliers and push payments along the business chain. Use of payment vouchers will be strictly controlled; no new vouchers with terms longer than six months will be allowed. SASAC will also urge central SOEs to comply with sector rules, explicitly include four key contract elements in contracts, and lead industry timely-payment initiatives."
+    },
+    {
+      "id": "5092548",
+      "time": "2026-09-14 15:21:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利Technoprobe股價跌幅進一步擴大，現下跌7.8%。"
+    },
+    {
+      "id": "5092547",
+      "time": "2026-09-14 15:21:12",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【國務院國資委：中央企業帶頭及時支付賬款】國務院國資委財管執行局負責人裴仁佺14日在國新辦舉行的國務院政策例行吹風會上說，《關於加強中小企業回款難問題治理有關工作的通知》對央企發揮表率作用提出專門要求。接下來，中央企業將積極籌措資金，確保及時支付；今後更要把對中小企業現金支付作為一條“硬槓槓”堅持好，同時結合自身實際對大型企業保持合理現金支付比例，推動沿業務鏈條傳導，並嚴格“票證”使用，嚴禁新開6個月以上“票證”；將督促央企帶頭遵守所在行業領域規定，率先在合同中明確四項關鍵要素，率先響應並踐行行業及時支付倡議等。（新華社）"
+    },
+    {
+      "id": "mkt:01a09eca-4c2f-7118-8569-ddcedfaeb6ea",
+      "time": "2026-09-14 15:20:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean farm and fish exports hit US$10 billion in record time】Korea Agro-Fisheries & Food Trade Corp (aT) said on the 14th cumulative exports of South Korean agricultural and fishery products topped US$10 billion in 253 days this year, 19 days faster than a year earlier — the quickest pace on record. Exports first exceeded US$10 billion in 2021; the time to reach that threshold has shortened each year since."
+    },
+    {
+      "id": "5092546",
+      "time": "2026-09-14 15:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【9月14日滬深兩市漲停分析】創業板指、科創50均跌超1%，成交額僅1.6萬億續創年內次低記錄。閩東電力4連板，一圖看懂>>"
+    },
+    {
+      "id": "5092545",
+      "time": "2026-09-14 15:20:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍾薛高：無形資產已切割完畢】9月14日，鍾薛高食品（上海）有限公司管理人釋出公告，宣佈鍾薛高的無形資產部分已經切割完畢。 公告顯示，2026年5月7日，鍾薛高公司名下的508件無形資產（包括492項註冊商標、8項授權專利和8項著作權）整體打包在京東司法拍賣平臺公開拍賣成功。9月12日下午，羅永浩發博說在機場嚐了最近爆火的冰淇淋品牌野人先生，“很一般，考慮到價格甚至可以說難吃，它是怎麼火起來的”，還補刀“比鍾薛高難吃多了，懷念鍾薛高”，這讓鍾薛高品牌再次回到公眾視野。"
+    },
+    {
+      "id": "5092544",
+      "time": "2026-09-14 15:18:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：維持今世緣“買入”評級，修復延續，穩中求進】東方證券研報指出，今世緣修復延續，穩中求進。考慮到25Q3低基數以及26Q2較好表現，預計公司中秋國慶旺季有望延續Q2修復趨勢，目前庫存呈動態良性。中長期，公司將堅定品牌高階化，省內持續培育四開、V3，全國聚焦四開一體化，同時適時匯入三開，補足300-400元價格帶。後續省外拓張公司將堅持“六聚焦”，優先國緣品牌、優先次高階賽道，區域上堅定周邊化、長三角一體化，集中有限資源爆破重點省份市縣，同時複用省內組織資源及經驗。公司經營策略穩健務實，在當前外部環境下順勢而為，基礎單品持續發力，展望後續省內市場佔有率有望持續提升。中長期看，公司堅持蓄力向上，看好行業需求改善後公司經營勢能釋放。預計公司26-28年EPS分別為1.93、2.10、2.26元。參考可比公司20倍市盈率，給予公司2026年20倍市盈率，對應目標價38.60元，維持“買入”評級。"
+    },
+    {
+      "id": "5092543",
+      "time": "2026-09-14 15:18:38",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【韓農副產品全年出口破100億美元 創最快紀錄】韓國農水產食品流通公社（aT）14日表示，今年韓國農副產品累計出口額破100億美元僅耗時253天，較去年提前19天，創下最快突破100億美元關口的紀錄。農副產品全年出口額於2021年首破100億美元，之後突破100億美元關口的用時越來越短。"
+    },
     {
       "id": "mkt:01a09ec8-1eb9-7118-8569-d54ea85a7db4",
       "time": "2026-09-14 15:18:30",
@@ -1554,6 +1645,15 @@
       "text": "瑞爾特盤中跌停，上演“天地板”，現報8.38元，成交額5.82億元。"
     },
     {
+      "id": "5092436",
+      "time": "2026-09-14 14:31:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【日韓股市低開低收】日經225指數收盤下跌518.35點，跌幅0.81%，報63492.99點。韓國KOSPI指數收盤下跌225.53點，跌幅3.26%，報6684.38點。"
+    },
+    {
       "id": "5092434",
       "time": "2026-09-14 14:30:18",
       "tags": [
@@ -2531,6 +2631,14 @@
         "焦點"
       ],
       "text": "創業板指跌1.00%，現報3288.766點；上證指數跌0.10%，現報3884.309點；深證成指跌0.67%，現報13381.586點。"
+    },
+    {
+      "id": "5092331",
+      "time": "2026-09-14 13:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "據國際文傳電訊社：俄羅斯下卡姆斯克遭無人機襲擊的工廠火情已撲滅。"
     },
     {
       "id": "5092330",
