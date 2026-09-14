@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-14 10:45:50",
-  "count": 13590,
+  "updated": "2026-09-14 10:49:39",
+  "count": 13589,
   "items": [
+    {
+      "id": "mkt:01a09dd0-6986-7118-8563-791e331fa19a",
+      "time": "2026-09-14 10:47:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Goldman Sachs now expects the Federal Reserve to raise rates by 25bps in September; it had previously forecast no change."
+    },
+    {
+      "id": "te:markets:583374",
+      "time": "2026-09-14 10:47:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Fall Sharply to Kick Off Week — Indonesian shares slipped 78 points, or 1.2%, to 6,461 in early Monday trade, extending losses for a fourth session to a two-week low. Sentiment weakened as U.S. futures fell amid surging oil prices after Saudi Arabia shut a key pipeline following drone attacks and postponed talks with Gulf states. Hotter-than-expected U.S. inflation also reinforced the case for higher rates. In China, Indonesia’s top trading partner, August activity data due Tuesday will cover industrial output, retail sales, and the surveyed unemployment. All major sectors retreated, led by basic materials, energy, infrastructure, and transport. Still, losses were partly capped by policy efforts to shore up confidence, including President Prabowo’s pledge to rein in the budget deficit and regulators’ moves to address MSCI’s transparency concerns ahead of its November review. Notable laggards included Merdeka Copper Gold (-4.9%), Darma Henwa (-2.9%), Aneka Tambang (-2.8%), and Barito Pacific (-2.1%)."
+    },
+    {
+      "id": "mkt:01a09dce-da40-7118-8563-72edc7ffc47f",
+      "time": "2026-09-14 10:46:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China to add 1,000 primary healthcare sites offering pediatric services this year】National Health Commission director Lei Haichao said at a State Council Information Office briefing on Sept. 14 that China will add 1,000 community health centers and township hospitals offering pediatric diagnosis and treatment this year, on top of last year’s level. He said more than 95% of township hospitals and community health centers are expected to provide pediatric services by year-end. The commission has deployed 3,100 pediatricians to grassroots medical institutions."
+    },
+    {
+      "id": "5092162",
+      "time": "2026-09-14 10:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年將新增1000家基層醫療衛生機構提供兒科診療服務】國家衛生健康委主任雷海潮9月14日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年要在去年基礎上新增1000家社群衛生服務中心和鄉鎮衛生院提供兒科診療服務。預計到年底，95%以上的鄉鎮衛生院、社群衛生服務中心可提供兒科診療服務。同時，已向基層醫療衛生機構下沉派駐3100名兒科醫生。(新華社)"
+    },
+    {
+      "id": "5092161",
+      "time": "2026-09-14 10:45:37",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "高盛預計美聯儲將於9月加息25個基點，此前預測為維持利率不變。"
+    },
     {
       "id": "5092160",
       "time": "2026-09-14 10:44:47",
@@ -124807,55 +124862,6 @@
         "國際"
       ],
       "text": "【韓國“儲存雙雄”異動】9月7日，日韓股市集體高開，韓國“儲存雙雄”股價大漲，SK海力士盤中漲超6%，三星電子盤中漲逾4%。 訊息面上，日前，OpenAI正式釋出新一代旗艦模型GPT-6 Astra，該軟體可自主操作軟體、完成程式設計/金融建模/製作簡報等長週期多步驟任務。 中信證券（香港）研報認為，受持續的AI資本開支、不斷上升的AI採用率和貨幣化支援的影響，預計2027—2028年儲存需求增長將超過供應增長。儘管儲存ASP（平均銷售價格）上漲幅度可能放緩，但大幅下跌的可能性極低。儲存供應商正專注於在更長時間內維持當前盈利能力，因此不太願意激進上調ASP，儘管預計未來幾個季度將持續存在供需緊平衡。再加上長期協議（LTA）採用率不斷上升，這應會支撐高位利潤並進一步推動重估。 華泰證券研報認為，中長期看，監管處置“靴子落地”後，韓股走勢仍更多取決於半導體基本面情況。（上海證券報）"
-    },
-    {
-      "id": "5080054",
-      "time": "2026-09-07 10:48:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳：用10萬NVLink 72晶片訓練 AGI已伴隨GPT-6 Astra到來】英偉達執行長黃仁勳表示，人工智慧（AI）已經跨越了專家們認為需要數年才能實現的界限。他認為，伴隨著OpenAI上週釋出的GPT-6 Astra，通用人工智慧（AGI）已正式到來。 黃仁勳於週日發帖稱，OpenAI的GPT-6 Astra模型由約10萬+ NVIDIA Grace Blackwell NVLink72叢集訓練完成。他還在社交媒體上祝賀OpenAI團隊，並直言“AGI已到來”。"
-    },
-    {
-      "id": "5080053",
-      "time": "2026-09-07 10:47:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博拓生物：對美出口產品業務同比恢復增長】博拓生物(688767)在9月7日召開的2026年半年度業績說明會上表示，公司匯兌損失主要系美元匯率下行，公司持有美元資產導致的匯兌損失大幅增加，公司將合理配置美元資產和理財產品，擇機結匯，降低匯率對公司利潤造成的影響。公司目前對美出口產品業務同比恢復增長。"
-    },
-    {
-      "id": "5080052",
-      "time": "2026-09-07 10:47:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【時代電氣等投資成立半導體新公司】企查查APP顯示，近日，北京中車時代懷實半導體有限公司成立，經營範圍包含：半導體分立器件製造；半導體分立器件銷售；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由時代電氣旗下株洲中車時代半導體股份有限公司等共同持股。"
-    },
-    {
-      "id": "5080051",
-      "time": "2026-09-07 10:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：啟用歷史經典產業消費潛力 讓老手藝“活起來、火出圈、進萬家”】工業和資訊化部副部長謝遠生在國新辦新聞釋出會上表示，當前，我國居民消費加快從“購買更多商品”向“獲得更好服務和體驗”轉變，歷史經典產業高度契合新時代消費升級方向，在滿足物質生活需求的同時，能夠帶來情感共鳴、文化薰陶與審美享受，精準滿足品質消費、文化消費和體驗消費需求。啟用歷史經典產業消費潛力，絕不是簡單把老產品擺上貨架，而是要在產品、場景、渠道上協同發力，讓老手藝“活起來、火出圈、進萬家”。在產品創新上，讓經典變“潮”。在消費場景上，把體驗做“活”。在流通渠道上，讓好物更“近”。"
-    },
-    {
-      "id": "5080050",
-      "time": "2026-09-07 10:46:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏吉隆泥石流災害目前已確認部分遇難人員身份】記者從西藏自治區吉隆縣“8·26”泥石流災害應急救援指揮部瞭解到，當地已成立專家團隊，調集60多名法醫技術人員，啟用3個專門實驗室，配備先進儀器，嚴格依照我國相關法律法規，充分參考國際慣例，切實維護逝者尊嚴，尊重習俗，科學高效、嚴謹細緻開展遇難人員身份識別工作，目前已經確認了部分遇難人員的身份。（新華社）"
-    },
-    {
-      "id": "5080049",
-      "time": "2026-09-07 10:46:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超1%，現報25393.480點；恒生科技指數現跌1.084%。"
     }
   ]
 }

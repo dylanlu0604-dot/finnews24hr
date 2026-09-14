@@ -1,7 +1,62 @@
 {
   "date": "2026-09-14",
-  "count": 708,
+  "count": 713,
   "items": [
+    {
+      "id": "mkt:01a09dd0-6986-7118-8563-791e331fa19a",
+      "time": "2026-09-14 10:47:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Goldman Sachs now expects the Federal Reserve to raise rates by 25bps in September; it had previously forecast no change."
+    },
+    {
+      "id": "te:markets:583374",
+      "time": "2026-09-14 10:47:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Fall Sharply to Kick Off Week — Indonesian shares slipped 78 points, or 1.2%, to 6,461 in early Monday trade, extending losses for a fourth session to a two-week low. Sentiment weakened as U.S. futures fell amid surging oil prices after Saudi Arabia shut a key pipeline following drone attacks and postponed talks with Gulf states. Hotter-than-expected U.S. inflation also reinforced the case for higher rates. In China, Indonesia’s top trading partner, August activity data due Tuesday will cover industrial output, retail sales, and the surveyed unemployment. All major sectors retreated, led by basic materials, energy, infrastructure, and transport. Still, losses were partly capped by policy efforts to shore up confidence, including President Prabowo’s pledge to rein in the budget deficit and regulators’ moves to address MSCI’s transparency concerns ahead of its November review. Notable laggards included Merdeka Copper Gold (-4.9%), Darma Henwa (-2.9%), Aneka Tambang (-2.8%), and Barito Pacific (-2.1%)."
+    },
+    {
+      "id": "mkt:01a09dce-da40-7118-8563-72edc7ffc47f",
+      "time": "2026-09-14 10:46:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China to add 1,000 primary healthcare sites offering pediatric services this year】National Health Commission director Lei Haichao said at a State Council Information Office briefing on Sept. 14 that China will add 1,000 community health centers and township hospitals offering pediatric diagnosis and treatment this year, on top of last year’s level. He said more than 95% of township hospitals and community health centers are expected to provide pediatric services by year-end. The commission has deployed 3,100 pediatricians to grassroots medical institutions."
+    },
+    {
+      "id": "5092162",
+      "time": "2026-09-14 10:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年將新增1000家基層醫療衛生機構提供兒科診療服務】國家衛生健康委主任雷海潮9月14日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年要在去年基礎上新增1000家社群衛生服務中心和鄉鎮衛生院提供兒科診療服務。預計到年底，95%以上的鄉鎮衛生院、社群衛生服務中心可提供兒科診療服務。同時，已向基層醫療衛生機構下沉派駐3100名兒科醫生。(新華社)"
+    },
+    {
+      "id": "5092161",
+      "time": "2026-09-14 10:45:37",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "高盛預計美聯儲將於9月加息25個基點，此前預測為維持利率不變。"
+    },
     {
       "id": "5092160",
       "time": "2026-09-14 10:44:47",
