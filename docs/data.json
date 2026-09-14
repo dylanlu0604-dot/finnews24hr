@@ -1,7 +1,80 @@
 {
-  "updated": "2026-09-14 23:14:35",
-  "count": 13479,
+  "updated": "2026-09-14 23:18:35",
+  "count": 13486,
   "items": [
+    {
+      "id": "5093665",
+      "time": "2026-09-14 23:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，俄武裝力量當日持續打擊烏克蘭西部用於轉運來自歐洲軍事物資的鐵路基礎設施。"
+    },
+    {
+      "id": "mkt:01a0a07e-aa49-7118-857a-1c28beb7acf8",
+      "time": "2026-09-14 23:17:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB President Lagarde said the current economic backdrop underscores the rising importance of capital flows and economic sovereignty, and that AI adoption will create new opportunities for economic growth."
+    },
+    {
+      "id": "5093664",
+      "time": "2026-09-14 23:17:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲也必須自主建設人工智慧基礎設施。"
+    },
+    {
+      "id": "mkt:01a0a07e-37af-7118-857a-16e61a092de4",
+      "time": "2026-09-14 23:17:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said Europe cannot rely solely on importing AI technology from the US and must develop its own AI infrastructure."
+    },
+    {
+      "id": "5093663",
+      "time": "2026-09-14 23:16:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲不能簡單地從美國引進人工智慧技術。"
+    },
+    {
+      "id": "5093662",
+      "time": "2026-09-14 23:15:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍到訪宇樹科技，王興興陪同】9月14日晚間訊息，小米集團董事長雷軍到訪杭州宇樹科技，宇樹創始人王興興親自接待。雷軍在王興興的陪同下，現場觀看了人形機器人武術、毛筆書法等表演。據報道，現場還有一臺機器人主動走近小米澎程N90展車“看車”，並揮手打招呼。據悉，雷軍名下順為資本是宇樹科技早期投資人之一。雷軍曾公開表示，感謝王興興在五年前給了他們一個投資宇樹的機會。此前，在小米新一代SU7系列上市釋出會時，王興興也曾攜宇樹機器人為小米助陣。（新浪科技）"
+    },
+    {
+      "id": "5093661",
+      "time": "2026-09-14 23:15:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普稱俄羅斯和烏克蘭同意停止對能源目標的互襲】特朗普在社交媒體平臺發帖稱：“烏克蘭已同意不打擊俄羅斯能源目標。俄羅斯也同意不對烏克蘭能源目標實施攻擊。”“全球柴油價格上漲主要是由俄烏衝突造成的，不是伊朗戰爭”，他補充道."
+    },
+    {
+      "id": "5093660",
+      "time": "2026-09-14 23:14:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟負責人譴責針對沙烏地阿拉伯的襲擊：此事關乎我們所有人的利益。"
+    },
     {
       "id": "5093659",
       "time": "2026-09-14 23:13:58",
@@ -124163,14 +124236,6 @@
         "Impact bullish"
       ],
       "text": "【Tariff bets boost LME copper to record high】LME three-month copper rose as much as 0.8% to $14,533/tonne, hitting a record high and surpassing a January peak, as markets price in expectations President Trump could extend U.S. tariffs to refined metal imports. Copper is up about 17% over the past year, supported by a structural supply shortfall as ageing large mines struggle to meet demand from data centers, renewables and grid investment. Short-term flows have amplified the move: traders have shipped tens of thousands of tonnes to the U.S. to capture higher domestic prices. The rally comes roughly two months after the U.S. Commerce Department submitted tariff recommendations to the White House, and markets continue to factor in the possibility of tariffs."
-    },
-    {
-      "id": "5081442",
-      "time": "2026-09-07 23:15:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【居英富豪外流再添新例 對沖基金創始人Chris Rokos轉居希臘】對沖基金創始人Chris Rokos據悉將離開英國，成為該國又一位選擇離開的高額納稅人和金融界知名人士。一位知情人士稱，這位Rokos Capital Management創始人正將居住地轉至希臘。此舉對希臘而言是一項重大利好，相比之下，對英國構成打擊。希臘此前推出相關規則，允許部分外國人就其全部海外收入每年繳納10萬歐元（約11.624萬美元）的固定稅額。英國取消長期實行的非本籍稅制，並提高包括私募股權投資、遺產和資本利得在內多項稅負後，已有一批知名金融人士和企業領袖選擇離開。"
     }
   ]
 }
