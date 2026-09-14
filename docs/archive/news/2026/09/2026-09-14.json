@@ -1,7 +1,79 @@
 {
   "date": "2026-09-14",
-  "count": 1871,
+  "count": 1879,
   "items": [
+    {
+      "id": "mkt:01a0a074-51d6-7118-8579-d6015ff48c86",
+      "time": "2026-09-14 23:06:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Ukraine has agreed not to strike Russian energy targets."
+    },
+    {
+      "id": "5093641",
+      "time": "2026-09-14 23:06:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，天演藥業漲3.82%，理想汽車漲3.77%，愛奇藝漲2.90%，叮咚買菜漲2.57%，陸金所控股漲2.48%。"
+    },
+    {
+      "id": "mkt:01a0a074-275c-7118-8579-c84cc03eb57d",
+      "time": "2026-09-14 23:06:01",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): Perplexity's local agent platform is now available on Windows PCs with RTX GPUs."
+    },
+    {
+      "id": "5093640",
+      "time": "2026-09-14 23:05:45",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "CME集團100盎司白銀期貨在首周全天候交易中需求強勁。"
+    },
+    {
+      "id": "5093639",
+      "time": "2026-09-14 23:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：PERPLEXITY本地代理平臺現已在Windows RTX PC上可用。"
+    },
+    {
+      "id": "5093638",
+      "time": "2026-09-14 23:03:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：預計到2035年，美國資料中心的天然氣消耗量將超過大多數國家。"
+    },
+    {
+      "id": "5093637",
+      "time": "2026-09-14 23:03:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們的政策很明確：我們將繼續摧毀黎巴嫩“安全區”內的恐怖基礎設施，持續消除任何對以色列國構成的威脅。我對我們的敵人說，如果你們至今仍未吸取教訓，執意再次襲擊我們，將遭受更為沉重的打擊。尚有更多工待完成，我們必將完成。"
+    },
+    {
+      "id": "mkt:01a0a070-f255-7118-8579-c497f43a7230",
+      "time": "2026-09-14 23:02:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent launched \"Operation Economic Pariah\" to sever all funding lifelines to the Iranian regime and its backers, and issued a new call for whistleblowers to provide information on individuals who assist Iran in carrying out terrorist activities."
+    },
     {
       "id": "mkt:01a0a070-0ee7-7118-8579-bda648352db9",
       "time": "2026-09-14 23:01:33",
