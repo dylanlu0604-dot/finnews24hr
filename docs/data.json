@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-15 07:49:24",
-  "count": 13645,
+  "updated": "2026-09-15 07:53:17",
+  "count": 13618,
   "items": [
+    {
+      "id": "5093995",
+      "time": "2026-09-15 07:52:05",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：政策加碼產業治理 央地重組同步推進】中信建投證券研報稱，上週，國央企改革的邊際變化在於，政策端開始把兼併重組明確嵌入行業治理和產業升級。國家發展改革委在新能源汽車產業釋出會上提出支援大型企業集團以市場化、法治化方式推進兼併重組，證監會同步釋放更具包容性的併購重組制度訊號，政策由原則性鼓勵轉向點名行業、改善制度供給。央企改革繼續沿著“減戶數、強資本、優主業”推進，中國石化完成對中國航油的重組整合，央企數量降至99家；財政部以3000億元特別國債支援8家中央金融企業補充3600億元核心一級資本，結構最佳化與資本補充並行。"
+    },
+    {
+      "id": "mkt:01a0a255-a40f-7118-8580-ae621aeffb77",
+      "time": "2026-09-15 07:51:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the Republican midterm convention in Dallas sold out, drew high ratings and attention, and he expects it to have a significant impact on the Nov. 3 election."
+    },
+    {
+      "id": "5093994",
+      "time": "2026-09-15 07:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德因人工智慧稀缺性而將新興市場股票評級重新上調至“超配”。"
+    },
+    {
+      "id": "5093993",
+      "time": "2026-09-15 07:49:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【供需偏緊持續推升電子布價格】卓創資訊9月最新資料顯示，近期國內電子紗市場主流產品G75及7628電子布價格漲幅明顯，多數廠商針對部分高階型號電子紗價格提漲幅度進一步加大。 北京止於至善投資管理有限公司總經理何理對記者表示：“電子布漲價的核心原因是AI帶動需求升級，而有效供給擴張未能及時跟上。高階AI伺服器PCB層數增加，單臺電子布用量約為傳統伺服器的3倍至5倍；廠商又將裝置、資金等資源向薄布、低介電布等高附加值產品傾斜，使普通電子布供給也受到擠壓。” 從供給釋放節奏看，電子布市場偏緊狀態短期內仍將持續。（證券日報）"
+    },
+    {
+      "id": "mkt:01a0a253-a2b4-7118-8580-a50ca6c7ce4f",
+      "time": "2026-09-15 07:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Unidentified drone shot down after entering Lithuanian airspace】Lithuanian authorities said early on the 15th an unidentified drone that entered Lithuanian airspace was shot down by fighters on NATO Baltic Air Policing duty over southern Alytus district. Minutes after midnight the state fire-and-rescue service issued a yellow air threat alert covering Vilnius city, Vilnius district and Trakai district; the alert has since been lifted. Vilnius airport operations and nearby airspace were temporarily restricted. The State Emergency Management Centre said the drone was located near Trakai, NATO fighters were scrambled, and about 30 minutes later the device was reported destroyed. Lithuanian officials said the drone may have come from Belarus but have not disclosed its model, operator or motive."
+    },
+    {
+      "id": "te:economy:583633",
+      "time": "2026-09-15 07:49:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Holds Near 5% — The yield on the 10-Year US Treasury note held just below 5% on Tuesday after rising for four consecutive sessions, as elevated oil prices fueled inflation concerns ahead of an expected interest rate hike by the Federal Reserve this week. The benchmark yield is also approaching its highest levels since 2007. Oil prices resumed their climb as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Meanwhile, markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday, following hotter-than-expected inflation data last week. Long-term yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions."
+    },
     {
       "id": "5093992",
       "time": "2026-09-15 07:48:51",
@@ -125298,336 +125353,6 @@
         "國際"
       ],
       "text": "【日本名義工資創1997年以來最大升幅】受強勁的企業利潤和緊俏的勞動力市場推動，日本名義工資創近30年來最大升幅，料支援日本央行下週加息。日本政府週二公佈，7月名義工資同比增長4.7%，高於6月經修正後的4%，不僅創下1997年以來最大升幅，也遠超經濟學家預期的3.8%。工資增幅已連續六個月超過3%，為34年來最長紀錄。\n\n不過，日本央行能否持續加息，部分取決於收入增長能否轉化為更強勁的國內需求，而目前仍存在疑問。上週公佈的資料顯示，7月家庭支出連續第八個月下降，消費者削減可自由支配支出；第二季度國內生產總值資料也顯示，私人消費增長基本停滯。\n\n據彭博經濟研究，日本7月薪資資料意外大幅增長，大機率源於樣本變動。日本央行所看重的指標剔除了該類失真因素；在上月高額夏季獎金髮放過後，隨著夏季獎金回落，該指標增速已經放緩。細分資料幾乎沒有顯示出基礎薪資加速上行的跡象。預計日本央行將在9月17‑18日的議息會議上加息25個基點。但後續央行收緊政策的力度，不會像部分市場參與者所押注的那樣激進。"
-    },
-    {
-      "id": "mkt:01a07e4a-30fa-7118-84d5-2544b0f4d21f",
-      "time": "2026-09-08 07:53:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Q2 nominal GDP final QoQ 1.3% (consensus 1.3%; prior 1.2%)."
-    },
-    {
-      "id": "mkt:01a07e4a-165a-7118-84d5-1a9c28206865",
-      "time": "2026-09-08 07:52:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Nominal GDP Growth Revised (QoQ) (Q2) | actual 1.3% | consensus 1.30% | previous 1.20%"
-    },
-    {
-      "id": "mkt:01a07e49-d052-7118-84d5-17ee9eb8936e",
-      "time": "2026-09-08 07:52:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Q2 GDP deflator final, annualized 2.6% — consensus 2.6%, prior 2.6%."
-    },
-    {
-      "id": "mkt:01a07e49-b502-7118-84d5-0bbce39f5a4b",
-      "time": "2026-09-08 07:52:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | GDP Deflator Revised (YoY) (Q2) | actual 2.6% | consensus 2.60% | previous 2.60%"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609083867358674",
-      "time": "2026-09-08 07:52:28",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月季調後經常賬25231億日元，前值13969億日元。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609083867352539",
-      "time": "2026-09-08 07:52:07",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本第二季度GDP環比增長0.4%，預估為0.4%。日本第二季度名義GDP環比增長1.3%，預估為1.3%。"
-    },
-    {
-      "id": "mkt:01a07e49-47e9-7118-84d5-039b3ee223d5",
-      "time": "2026-09-08 07:52:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan Aug seasonally adjusted bank lending excluding trusts YoY 5.8% (prev 5.90%)."
-    },
-    {
-      "id": "mkt:01a07e49-2cbd-7118-84d4-fcca0ed2e781",
-      "time": "2026-09-08 07:51:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Outstanding Bank Loan (exclude Shinkin Banks) (YoY) (Aug) | actual 5.8% | previous 5.90%"
-    },
-    {
-      "id": "mkt:01a07e49-21fc-7118-84d4-f01b0b88981a",
-      "time": "2026-09-08 07:51:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's seasonally adjusted current account in July was 2.5231 tln yen, up from 1.3969 tln yen in the prior month."
-    },
-    {
-      "id": "mkt:01a07e49-038c-7118-84d4-e835ddf42f59",
-      "time": "2026-09-08 07:51:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Current Account SA (Jul) | actual 2523100000000B | previous 1396900000000B"
-    },
-    {
-      "id": "mkt:01a07e48-f702-7118-84d4-e66a0026391d",
-      "time": "2026-09-08 07:51:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan July current account, not seasonally adjusted: 2,988.9 bln yen vs. 2,869.8 bln expected; prior -92.3 bln yen."
-    },
-    {
-      "id": "mkt:01a07e48-d02b-7118-84d4-de26d75fd22b",
-      "time": "2026-09-08 07:51:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Current Account USA (Jul) | actual 2988900000000B | consensus 2869800000000B | previous -92300000000B"
-    },
-    {
-      "id": "te:markets:581748",
-      "time": "2026-09-08 07:51:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Ease at the Start of the Week — US stock futures edged lower on Tuesday as Wall Street returned from a holiday-extended weekend, with elevated oil prices keeping inflation risks and interest rate concerns in focus. Oil prices climbed further after the US and Iran exchanged strikes over the weekend. Investors also faced mounting trade tensions as Canada’s retaliatory tariffs on roughly $20 billion worth of US goods come into effect on Tuesday. On the monetary policy front, markets are pricing in about a 60% probability that the Federal Reserve will increase interest rates by 25 basis points next week. In corporate developments, Uber hired banks to meet with investors this week ahead of a planned debut euro bond sale. Meanwhile, Novo Nordisk halted two additional trials of its experimental heart disease drug, dealing another setback to the treatment’s prospects."
-    },
-    {
-      "id": "mkt:01a07e48-9984-7118-84d4-d54c5689817a",
-      "time": "2026-09-08 07:51:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan July trade balance: deficit ¥399.9 billion, widening from a ¥135.2 billion deficit in June."
-    },
-    {
-      "id": "mkt:01a07e48-7f54-7118-84d4-ccbd5f1c9b68",
-      "time": "2026-09-08 07:51:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Trade Balance (Jul) | actual -399900000000B | previous -135200000000B"
-    },
-    {
-      "id": "5081642",
-      "time": "2026-09-08 07:51:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本二季度淨出口對環比GDP貢獻為正0.5個百分點；預估0.5個。"
-    },
-    {
-      "id": "5081641",
-      "time": "2026-09-08 07:50:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本7月貿易帳 -3999億日元，預期 -3331億日元，前值 -1352億日元。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609083867347411",
-      "time": "2026-09-08 07:50:48",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本第二季度GDP摺合年率增長1.4%，預估為1.8%。"
-    },
-    {
-      "id": "mkt:01a07e48-0dae-7118-84d4-c648d44a8c34",
-      "time": "2026-09-08 07:50:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Q2 GDP private consumption, final (QoQ): 0.0%; est 0.0%; prior 0.0%."
-    },
-    {
-      "id": "5081640",
-      "time": "2026-09-08 07:50:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本8月銀行貸款(不含信託)同比 5.8%，前值 5.9%。日本8月銀行貸款(含信託)同比 5.4%，前值 5.4%。"
-    },
-    {
-      "id": "mkt:01a07e47-f5d4-7118-84d4-b9398cecbc9f",
-      "time": "2026-09-08 07:50:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan Q2 corporate spending (GDP component) final QoQ -0.9% vs -0.8% est; prior -1.2%."
-    },
-    {
-      "id": "mkt:01a07e47-f261-7118-84d4-b694a0d29834",
-      "time": "2026-09-08 07:50:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Q2 real GDP (final) +0.4% QoQ, matching the 0.40% expectation and revised up from 0.3% previously."
-    },
-    {
-      "id": "mkt:01a07e47-ec7b-7118-84d4-ac509283a9a5",
-      "time": "2026-09-08 07:50:37",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Japan Q2 real GDP final: annualized quarter-on-quarter +1.4% vs 1.6% expected; prior +1.1%"
-    },
-    {
-      "id": "mkt:01a07e47-db45-7118-84d4-a2e0e1425e86",
-      "time": "2026-09-08 07:50:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Private Consumption (QoQ) (Q2) | actual 0% | consensus 0.00% | previous 0.00%"
-    },
-    {
-      "id": "mkt:01a07e47-d8e7-7118-84d4-9febf346e214",
-      "time": "2026-09-08 07:50:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Private Non-Resi. Investment (QoQ) (Q2) | actual -0.9% | consensus -0.80% | previous -1.20%"
-    },
-    {
-      "id": "mkt:01a07e47-d314-7118-84d4-9735ee7cc344",
-      "time": "2026-09-08 07:50:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Real GDP Growth Revised (YoY) (Q2) | actual 1.4% | consensus 1.6% | previous 1.10%"
-    },
-    {
-      "id": "mkt:01a07e47-cc81-7118-84d4-8daf654ad37f",
-      "time": "2026-09-08 07:50:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan seasonally adjusted bank lending YoY 5.4% in August, unchanged from July's 5.4%."
-    },
-    {
-      "id": "5081639",
-      "time": "2026-09-08 07:50:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本二季度實際GDP平減指數同比終值 2.6%，預期 2.6%，初值 2.6%。"
-    },
-    {
-      "id": "5081638",
-      "time": "2026-09-08 07:50:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本二季度實際GDP季環比終值 0.4%，預期 0.4%，初值 0.3%。"
-    },
-    {
-      "id": "mkt:01a07e47-aebb-7118-84d4-86ea7e4f4630",
-      "time": "2026-09-08 07:50:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Outstanding Bank Loan (YoY) (Aug) | actual 5.4% | previous 5.40%"
-    },
-    {
-      "id": "5081637",
-      "time": "2026-09-08 07:50:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本二季度名義GDP季環比終值 1.3%，預期 1.3%，初值 1.2%。"
-    },
-    {
-      "id": "5081636",
-      "time": "2026-09-08 07:50:13",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "日本第二季度GDP摺合年率增長1.4%，預估為1.8%。"
-    },
-    {
-      "id": "5081635",
-      "time": "2026-09-08 07:49:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上海電氣首臺套燃機中標馬來西亞500MW級聯合迴圈專案】據上海電氣訊息，近日，上海電氣成功中標馬來西亞砂拉越薩馬拉朱聯合迴圈燃機3號機組專案。該專案位於馬來西亞砂拉越州薩馬拉朱工業園區，將建設一套500MW級燃氣蒸汽聯合迴圈發電機組，採用先進的燃氣—蒸汽聯合迴圈發電技術。"
     }
   ]
 }

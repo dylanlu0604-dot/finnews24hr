@@ -1,7 +1,62 @@
 {
   "date": "2026-09-15",
-  "count": 440,
+  "count": 446,
   "items": [
+    {
+      "id": "5093995",
+      "time": "2026-09-15 07:52:05",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：政策加碼產業治理 央地重組同步推進】中信建投證券研報稱，上週，國央企改革的邊際變化在於，政策端開始把兼併重組明確嵌入行業治理和產業升級。國家發展改革委在新能源汽車產業釋出會上提出支援大型企業集團以市場化、法治化方式推進兼併重組，證監會同步釋放更具包容性的併購重組制度訊號，政策由原則性鼓勵轉向點名行業、改善制度供給。央企改革繼續沿著“減戶數、強資本、優主業”推進，中國石化完成對中國航油的重組整合，央企數量降至99家；財政部以3000億元特別國債支援8家中央金融企業補充3600億元核心一級資本，結構最佳化與資本補充並行。"
+    },
+    {
+      "id": "mkt:01a0a255-a40f-7118-8580-ae621aeffb77",
+      "time": "2026-09-15 07:51:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the Republican midterm convention in Dallas sold out, drew high ratings and attention, and he expects it to have a significant impact on the Nov. 3 election."
+    },
+    {
+      "id": "5093994",
+      "time": "2026-09-15 07:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德因人工智慧稀缺性而將新興市場股票評級重新上調至“超配”。"
+    },
+    {
+      "id": "5093993",
+      "time": "2026-09-15 07:49:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【供需偏緊持續推升電子布價格】卓創資訊9月最新資料顯示，近期國內電子紗市場主流產品G75及7628電子布價格漲幅明顯，多數廠商針對部分高階型號電子紗價格提漲幅度進一步加大。 北京止於至善投資管理有限公司總經理何理對記者表示：“電子布漲價的核心原因是AI帶動需求升級，而有效供給擴張未能及時跟上。高階AI伺服器PCB層數增加，單臺電子布用量約為傳統伺服器的3倍至5倍；廠商又將裝置、資金等資源向薄布、低介電布等高附加值產品傾斜，使普通電子布供給也受到擠壓。” 從供給釋放節奏看，電子布市場偏緊狀態短期內仍將持續。（證券日報）"
+    },
+    {
+      "id": "mkt:01a0a253-a2b4-7118-8580-a50ca6c7ce4f",
+      "time": "2026-09-15 07:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Unidentified drone shot down after entering Lithuanian airspace】Lithuanian authorities said early on the 15th an unidentified drone that entered Lithuanian airspace was shot down by fighters on NATO Baltic Air Policing duty over southern Alytus district. Minutes after midnight the state fire-and-rescue service issued a yellow air threat alert covering Vilnius city, Vilnius district and Trakai district; the alert has since been lifted. Vilnius airport operations and nearby airspace were temporarily restricted. The State Emergency Management Centre said the drone was located near Trakai, NATO fighters were scrambled, and about 30 minutes later the device was reported destroyed. Lithuanian officials said the drone may have come from Belarus but have not disclosed its model, operator or motive."
+    },
+    {
+      "id": "te:economy:583633",
+      "time": "2026-09-15 07:49:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Holds Near 5% — The yield on the 10-Year US Treasury note held just below 5% on Tuesday after rising for four consecutive sessions, as elevated oil prices fueled inflation concerns ahead of an expected interest rate hike by the Federal Reserve this week. The benchmark yield is also approaching its highest levels since 2007. Oil prices resumed their climb as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Meanwhile, markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday, following hotter-than-expected inflation data last week. Long-term yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions."
+    },
     {
       "id": "5093992",
       "time": "2026-09-15 07:48:51",
