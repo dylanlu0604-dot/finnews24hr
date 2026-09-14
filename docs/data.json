@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-14 23:26:34",
-  "count": 13494,
+  "updated": "2026-09-14 23:30:31",
+  "count": 13500,
   "items": [
+    {
+      "id": "mkt:01a0a089-ea07-7118-857a-52f34c833817",
+      "time": "2026-09-14 23:29:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, New York Mayor Mamdani said on Monday that New York City and a coalition of cities have filed suit to challenge a Trump administration rule that would make it easier for the federal government to deny green cards and visas to immigrants on grounds of public-benefit use."
+    },
+    {
+      "id": "5093676",
+      "time": "2026-09-14 23:29:10",
+      "tags": [
+        "央行",
+        "其他",
+        "國際"
+      ],
+      "text": "市場預期美聯儲本週加息的機率飆升至84%。"
+    },
+    {
+      "id": "5093675",
+      "time": "2026-09-14 23:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯質疑AI大廠主動尋求監管，強調保持AI競爭優勢】美國副總統萬斯表示，他對頭部AI企業主動尋求政府監管持懷疑態度，稱“在我看來，這有點像特洛伊木馬”。萬斯承認這項技術確實存在風險，但美國政府希望“進行明智監管”，同時確保美國在全球AI競賽中保持領先優勢。“這麼多前沿AI科技企業主動找到政府，請求政府監管，這件事讓我感覺有些不對勁。”"
+    },
+    {
+      "id": "5093674",
+      "time": "2026-09-14 23:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯稱美國與胡塞直接談判，同步聯絡沙特等受衝突影響國家】美國副總統JD·萬斯週一表示，在伊朗支援的胡塞組織持續襲擊沙烏地阿拉伯、並擴大對曼德海峽附近區域控制之際，華盛頓方面一直在與葉門胡塞武裝舉行直接對話。萬斯對記者稱：“我們也一直在同胡塞武裝本身展開直接溝通。”他補充說，美國政府同時與沙烏地阿拉伯以及其他受衝突影響國家保持聯絡。他表示：“我們實際上認為局勢在我們掌控之中。局勢瞬息萬變，但我們會持續監測，確保美國的核心利益得到維護。”"
+    },
+    {
+      "id": "mkt:01a0a086-e863-7118-857a-4eeab010f38f",
+      "time": "2026-09-14 23:26:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Canada has signed audiovisual co‑production agreements with Spain and the UK."
+    },
+    {
+      "id": "mkt:01a0a086-d2ac-7118-857a-40b77e03c0c6",
+      "time": "2026-09-14 23:26:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LATAM Airlines Group has secured a $505 million loan to finance new aircraft."
+    },
+    {
+      "id": "5093673",
+      "time": "2026-09-14 23:26:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大與西班牙、英國簽署視聽作品聯合制作協議。"
+    },
     {
       "id": "5093672",
       "time": "2026-09-14 23:25:40",
@@ -124296,14 +124356,6 @@
         "其他"
       ],
       "text": "【報道：拜登之子即將推出模因幣】訊息人士稱，亨特・拜登的這款模因幣將於 9 月 9 日在 Coinbase 旗下區塊鏈上線。 亨特・拜登及專案創始方將持有發行的 10 億枚代幣中的 30%。 另有一部分份額將分配給曾在（$TRUMP）代幣上出現虧損的使用者等群體。"
-    },
-    {
-      "id": "5081444",
-      "time": "2026-09-07 23:27:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：關閉德國駐聖彼得堡總領館和在俄歌德學院】俄羅斯外交部7日在官方網站釋出宣告說，俄方撤銷德國駐聖彼得堡總領事館的運作許可，要求在俄羅斯的德國歌德學院停止運營。（新華社）"
     }
   ]
 }
