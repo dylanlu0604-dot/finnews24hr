@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-15 03:41:08",
+  "updated": "2026-09-15 03:44:59",
   "count": 13604,
   "items": [
+    {
+      "id": "mkt:01a0a172-5686-7118-857e-a51c3cc1700e",
+      "time": "2026-09-15 03:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Mehr news agency, Yemen's Houthi forces said minutes ago they intercepted two Saudi combat aircraft over Yemen's Saada province — a Typhoon and an F-15 — which had taken off from Saudi Khamis Mushait and Taif air bases."
+    },
+    {
+      "id": "5093841",
+      "time": "2026-09-15 03:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺（IRIB）：胡塞武裝發言人表示武裝部隊成功攔截兩架沙烏地阿拉伯戰鬥機。"
+    },
+    {
+      "id": "mkt:01a0a170-e0a0-7118-857e-988053ab0e4b",
+      "time": "2026-09-15 03:42:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim news agency cited sources saying Saudi warplanes struck Yemen’s Saada province, carrying out five airstrikes on the Ketab and Al-Baqi areas and two strikes in southern Saada city."
+    },
     {
       "id": "5093840",
       "time": "2026-09-15 03:39:31",
@@ -125255,33 +125279,6 @@
         "國際"
       ],
       "text": "伊朗外交部：伊朗外長同伊斯蘭合作組織新任秘書長通電話。"
-    },
-    {
-      "id": "5081511",
-      "time": "2026-09-08 03:44:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【公募年內獲配定增近500億元，資金向高景氣行業集中】公募排排網資料顯示，按增發上市日統計，截至9月6日，今年以來共有27家公募機構參與93家公司股票定增，合計獲配金額達473.46億元，較2025年同期的176.20億元增長168.71%。按9月4日收盤價統計，參與定增的公募機構的平均浮盈比例為6.83%。"
-    },
-    {
-      "id": "mkt:01a07d63-ff45-7118-84d2-f7e858271b2d",
-      "time": "2026-09-08 03:41:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Zaporizhzhia nuclear plant external power restored】On Sept 7 local time, the Zaporizhzhia nuclear plant said external power via the 330 kV Ferroalloy-1 line was restored. The plant returned to normal operating mode after repairs completed following a new silence regime implemented on Sept 5."
-    },
-    {
-      "id": "5081510",
-      "time": "2026-09-08 03:41:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【扎波羅熱核電站外部供電已恢復】當地時間9月7日，扎波羅熱核電站官方通報，該核電站已恢復330千伏“鐵合金-1”線路的外部電力供應。恢復供電後，扎波羅熱核電站系統已切換至正常執行模式。（央視新聞）"
     }
   ]
 }

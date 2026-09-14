@@ -1,7 +1,31 @@
 {
   "date": "2026-09-15",
-  "count": 208,
+  "count": 211,
   "items": [
+    {
+      "id": "mkt:01a0a172-5686-7118-857e-a51c3cc1700e",
+      "time": "2026-09-15 03:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Mehr news agency, Yemen's Houthi forces said minutes ago they intercepted two Saudi combat aircraft over Yemen's Saada province — a Typhoon and an F-15 — which had taken off from Saudi Khamis Mushait and Taif air bases."
+    },
+    {
+      "id": "5093841",
+      "time": "2026-09-15 03:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺（IRIB）：胡塞武裝發言人表示武裝部隊成功攔截兩架沙烏地阿拉伯戰鬥機。"
+    },
+    {
+      "id": "mkt:01a0a170-e0a0-7118-857e-988053ab0e4b",
+      "time": "2026-09-15 03:42:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim news agency cited sources saying Saudi warplanes struck Yemen’s Saada province, carrying out five airstrikes on the Ketab and Al-Baqi areas and two strikes in southern Saada city."
+    },
     {
       "id": "5093840",
       "time": "2026-09-15 03:39:31",
