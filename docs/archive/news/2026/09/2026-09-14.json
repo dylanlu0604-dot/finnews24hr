@@ -1,7 +1,327 @@
 {
   "date": "2026-09-14",
-  "count": 1932,
+  "count": 1968,
   "items": [
+    {
+      "id": "te:markets:583585",
+      "time": "2026-09-14 23:59:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Drops Sharply — The FTSE MIB plunged 1.7% to 51,629 on Monday, amid mounting concerns over global security that reverberated across sectors. Tech stocks Prysmian (-7.1%) and STMicroelectronics (-6.5%) led the decline after major AI firms called for a slowdown in the boom of capital expenditure on the sector, citing safety concerns. Financial stocks also fell sharply. Expectations of rate hikes by major economies contributed to a surge in sovereign yields, while rising oil prices following the closure of Saudi Arabia’s East-West pipeline added to the pressure. MPS fell 2.9% while stating that its buyout offers for BPM and Banca Generali cannot be revoked if Intesa Sanpaolo’s takeover bid goes through. Defense stocks underperformed as European leaders called for greater investment in Arctic defenses amid pressure from Russia. Meanwhile, Stellantis dropped 2.8% as it considered selling its factory in Toronto, while Prime Minister Carney turned to the EU following the collapse of trade talks with the US."
+    },
+    {
+      "id": "5093707",
+      "time": "2026-09-14 23:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet旗下自動駕駛企業Waymo在拉斯維加斯正式開放面向公眾的乘車服務。"
+    },
+    {
+      "id": "5093706",
+      "time": "2026-09-14 23:57:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟國家計劃為工業界尋求更多免費碳排放許可。"
+    },
+    {
+      "id": "te:markets:583583",
+      "time": "2026-09-14 23:57:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Tech Pressures European Stocks — European stocks closed sharply lower on Monday amid another jump in sovereign yields and fresh concerns that risks to AI safety could hamper investment in hardware. The Euro STOXX 50 fell 1.1% to 6,257 and the STOXX Europe 600 dropped 0.5% to 636. Anthropic CEO Dario Amodei called for a slowdown on the development of frontier AI models to prevent a scenario where the loss of control in agents could have adverse effects on society, prompting endorsements from rivals OpenAI and xAI. The possibility of added guardrails on AI development pressured stocks for chip manufacturers and other companies in the AI infrastructure sector. ASML and Infineon sank 6.3% and 7.5%, respectively, while Schneider Electric lost 6.8% and Siemens Energy plummeted 8.5%. Meanwhile, banks also closed sharply lower as more escalation in the Middle East lifted oil and gas prices and worsened the inflation outlook in the Eurozone. Santander, BBVA, Intesa Sanpaolo, and Deutsche Bank dropped between 2% and 1.3%."
+    },
+    {
+      "id": "te:markets:583582",
+      "time": "2026-09-14 23:56:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Oil Rally Resumes — The CAC 40 fell 0.8% to close at 8,118 on Monday, extending losses from the previous week as oil prices surged. The crude rally resumed after Saudi Arabia suspended operations on the East-West crude pipeline following drone attacks. Talks between Iran and several Gulf nations on establishing a temporary shipping corridor through the Strait of Hormuz were postponed. Global yields were mostly higher ahead of the US Fed’s monetary policy decision on Wednesday, with markets expecting a rate hike. Industrials and financials were mostly lower, with Safran falling 2.6%, Airbus losing 2.2%, and Legrand tumbling 6.7%, while BNP Paribas shed 0.9% and Société Générale declined 1.7%. Schneider Electric (-6.5%) and STMicroelectronics (-6.6%) sank after major AI companies called for a slower pace of development amid growing concerns over safety risks. In contrast, luxury stocks gained, with L’Oréal rising 1.1% and Hermès up 1%. TotalEnergies gained 1% on higher oil prices."
+    },
+    {
+      "id": "5093705",
+      "time": "2026-09-14 23:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝稱，只要沙特持續採取敵對行動，沙特就“無法獲得安全”。"
+    },
+    {
+      "id": "5093704",
+      "time": "2026-09-14 23:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：特朗普稱油價逼近110美元時伊朗希望達成協議，德黑蘭方面表示並無興趣。"
+    },
+    {
+      "id": "5093703",
+      "time": "2026-09-14 23:54:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "道達爾能源與伊拉克達成共識，將基於大規模投資，啟動伊拉克能源專案相關磋商。"
+    },
+    {
+      "id": "te:markets:583581",
+      "time": "2026-09-14 23:51:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 4-week High — Lumber increased to 584.50 USD/1000 board feet, the highest since August 2026. Over the past 4 weeks, Lumber gained 1.58%, and in the last 12 months, it decreased 0.34%."
+    },
+    {
+      "id": "5093702",
+      "time": "2026-09-14 23:49:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌0.26%，納斯達克綜合指數下跌0.41%，道瓊斯指數下跌0.15%。"
+    },
+    {
+      "id": "5093701",
+      "time": "2026-09-14 23:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油：未來幾日將對日產能44萬桶的惠廷煉油廠開展計劃性運營作業。"
+    },
+    {
+      "id": "5093700",
+      "time": "2026-09-14 23:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列摧毀了真主黨的“主要據點”，如果（對方）再度發動襲擊，將遭受更為沉重的打擊。"
+    },
+    {
+      "id": "5093699",
+      "time": "2026-09-14 23:47:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪克體育用品公司表示，生產能力的限制正在減緩新產品的推出。"
+    },
+    {
+      "id": "5093698",
+      "time": "2026-09-14 23:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic代表稱，AI發展將“以（值得）信任的速度推進”。"
+    },
+    {
+      "id": "5093697",
+      "time": "2026-09-14 23:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的美國郵政署郵寄選票新規遭遇第二重阻礙，美國最高法院正審理此案。"
+    },
+    {
+      "id": "5093696",
+      "time": "2026-09-14 23:45:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雅培公司因與嬰兒配方奶粉的和解協議而股價上漲至2%。"
+    },
+    {
+      "id": "5093695",
+      "time": "2026-09-14 23:45:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗多次表示，無意與美國談判達成協議。"
+    },
+    {
+      "id": "5093694",
+      "time": "2026-09-14 23:44:50",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國戰略石油儲備原油庫存上週減少約360萬桶，降至2.85億桶，為1982年以來最低水平。"
+    },
+    {
+      "id": "5093693",
+      "time": "2026-09-14 23:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：雅培將就嬰兒配方奶粉相關指控達成和解。"
+    },
+    {
+      "id": "5093692",
+      "time": "2026-09-14 23:43:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：雅培同意支付超3.84億美元和解款項。"
+    },
+    {
+      "id": "5093691",
+      "time": "2026-09-14 23:42:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國發動機企業道依茨計劃透過私募配售，增發最高佔總股本10%的新股以募資。"
+    },
+    {
+      "id": "5093690",
+      "time": "2026-09-14 23:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：一直在對抗全球範圍內的反猶煽動，但如果這類煽動出自我們內部，那是絕對無法容忍的。如今兩名以色列導演在威尼斯電影節上將以色列國防軍描繪成戰爭罪犯，還收穫了掌聲。"
+    },
+    {
+      "id": "5093689",
+      "time": "2026-09-14 23:40:57",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：AI競爭決定全域性，美國需保持AI領先地位】特朗普發文稱，AI所需要的管控與“安全護欄”僅靠一位強大睿智的總統即可，美國目前就具備這一條件。他表示特朗普政府已約束AI行業從業者的危險行為，點名Anthropic的CEO達里奧，稱其如今偽裝成“乖乖好人”，美方將持續保持監管。特朗普稱政府手握針對這類企業強大的刑事與監管權力。他聲稱當下存在針對AI和資料中心的惡意陰謀，誰贏得AI競爭，就能贏得全域性。他強調美國領先其他國家，並且會繼續保持優勢，同時警告陰謀論者、叛國者與洩密者。"
+    },
+    {
+      "id": "5093688",
+      "time": "2026-09-14 23:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙與康卡斯特正在評估SkyShowtime流媒體服務的各類戰略選項。"
+    },
+    {
+      "id": "5093687",
+      "time": "2026-09-14 23:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際原子能機構大會呼籲踐行多邊主義 防範核擴散】國際原子能機構第70屆大會14日在奧地利維也納開幕。大會呼籲國際社會積極踐行多邊主義，共同防範核擴散。(新華社)"
+    },
+    {
+      "id": "5093686",
+      "time": "2026-09-14 23:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI熱潮將大幅推高美國天然氣需求】市場預測，到2035年，美國資料中心或將新增150億立方英尺/日的天然氣需求量，較該機構此前預測值翻番以上。新增併網資料中心的電力供應中，預計69%將來自天然氣，同時液化天然氣（LNG）出口會進一步加劇天然氣供給壓力。"
+    },
+    {
+      "id": "5093685",
+      "time": "2026-09-14 23:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼推遲地區會議 霍爾木茲海峽通航仍難達成共識】阿曼外交大臣巴德爾13日在社交媒體發文稱，為尋求共識，原定14日在阿曼南部城市塞拉萊舉行的地區會議已推遲。伊朗外交部發言人巴加埃14日表示，原定於當天在阿曼舉行的討論霍爾木茲海峽商運航線的地區會議，在沙烏地阿拉伯要求下推遲。（央視新聞）"
+    },
+    {
+      "id": "5093684",
+      "time": "2026-09-14 23:33:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗想要達成一份協議。"
+    },
+    {
+      "id": "5093683",
+      "time": "2026-09-14 23:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將決定是否與伊朗接觸。"
+    },
+    {
+      "id": "5093682",
+      "time": "2026-09-14 23:33:05",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數下跌0.48%，歐洲斯托克指數下跌1.33%，歐元區藍籌股指下跌1.08%。英國富時100指數上漲0.4%，德國DAX指數下跌0.6%，法國CAC 40指數下跌0.78%，西班牙IBEX指數下跌1.38%。"
+    },
+    {
+      "id": "5093681",
+      "time": "2026-09-14 23:32:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.970%，投標倍數2.64。拍賣六個月期國債，得標利率4.060%，投標倍數2.74。"
+    },
+    {
+      "id": "5093680",
+      "time": "2026-09-14 23:32:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic與Rum Group（原Rumble公司）簽署一份價值137億美元、為期六年的算力採購協議。加上本次交易，Anthropic過去一年達成的算力採購協議總規模至少達到5170億美元。"
+    },
+    {
+      "id": "5093679",
+      "time": "2026-09-14 23:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：美國私人信用違約率達到6.3%，創歷史新高。"
+    },
+    {
+      "id": "5093678",
+      "time": "2026-09-14 23:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將雷諾的評級上調至BAA3，展望穩定。"
+    },
+    {
+      "id": "5093677",
+      "time": "2026-09-14 23:30:11",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率抹去漲幅，回落至4.96%。"
+    },
+    {
+      "id": "te:economy:583579",
+      "time": "2026-09-14 23:30:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Majority of government bonds yields are higher on Monday. Top gainers are Brazil 10Y (13bps), Germany 10Y (2.78bps) and Japan 10Y (0.83bps). Biggest losers are US 10Y (-0.30bps)."
+    },
     {
       "id": "mkt:01a0a089-ea07-7118-857a-52f34c833817",
       "time": "2026-09-14 23:29:47",
