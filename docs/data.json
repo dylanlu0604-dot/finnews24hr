@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-14 22:31:11",
-  "count": 13435,
+  "updated": "2026-09-14 22:35:04",
+  "count": 13436,
   "items": [
+    {
+      "id": "5093606",
+      "time": "2026-09-14 22:34:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：低氣壓繼續向西南偏西方向移動，橫跨東太平洋。"
+    },
+    {
+      "id": "5093605",
+      "time": "2026-09-14 22:34:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅首席經濟顧問：財政修正案將是政府的首要措施。"
+    },
+    {
+      "id": "5093604",
+      "time": "2026-09-14 22:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省阜新市新邱區醫院：因醫療人員緊缺，外科夜間門急診全面停診】阜新市新邱區醫院9月14日發文稱，由於醫院外科醫療人員緊缺，不能保障外科診療的正常運轉，為保障醫療安全，經醫院統籌研究決定，對外科診療服務進行臨時調整。9月14日起，醫院外科夜間門急診全面停診，不再開展普通外科、急診外科問診，檢查、複診、換藥、慢病諮詢等常規診療服務。"
+    },
+    {
+      "id": "5093603",
+      "time": "2026-09-14 22:33:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【並行科技：擬定增募資不超4.8億元投建智算雲平臺】並行科技公告，公司擬向特定物件發行股票，募集資金總額不超過4.8億元，扣除發行費用後擬全部用於智算雲平臺建設及運營專案。"
+    },
+    {
+      "id": "mkt:01a0a055-d682-7118-8579-48793ec3160b",
+      "time": "2026-09-14 22:32:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv cited a government report saying the U.S. Federal Aviation Administration needs additional funding from Congress to complete the first phase of a $10.6 billion air-traffic-control reform program."
+    },
+    {
+      "id": "5093602",
+      "time": "2026-09-14 22:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：限制期前投放的廣告展示可能繼續執行，但編輯功能受限。"
+    },
     {
       "id": "5093601",
       "time": "2026-09-14 22:30:27",
@@ -123713,51 +123761,6 @@
         "其他"
       ],
       "text": "【義大利2026年夏季平均氣溫創1950年以來最高紀錄】義大利國家研究委員會生物經濟研究所9月7日公佈的分析顯示，2026年夏季義大利全國平均氣溫達到24.3攝氏度，為1950年有記錄以來最高。資料顯示，今年1月至8月，義大利各月平均氣溫均高於去年同期，其中8月升溫最為明顯，全國平均氣溫達到25.6攝氏度，較1951年至1980年同期平均值高5.2攝氏度，較1991年至2020年同期平均值高3.5攝氏度。（央視新聞）"
-    },
-    {
-      "id": "5081410",
-      "time": "2026-09-07 22:34:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3232.00元。"
-    },
-    {
-      "id": "5081409",
-      "time": "2026-09-07 22:32:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長鑫LPDDR6晶片首發亮相】長鑫儲存官方公眾號釋出訊息，其自主研發的LPDDR6晶片已實現量產商用，首發搭載於小米18Fold摺疊旗艦手機，這是全球範圍內LPDDR6產品首次在旗艦手機端落地商用。該款產品晶片容量為16GB，最高傳輸速率可達12800Mbps，與SoC搭配速率為10667Mbps，可為SoC提供充裕的資料頻寬，滿足旗艦級智慧手機及高效能終端裝置對計算能力的嚴苛需求。"
-    },
-    {
-      "id": "mkt:01a07c49-20a2-7118-84d0-ab8dda43df55",
-      "time": "2026-09-07 22:32:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "【CXMT says self‑developed LPDDR6 enters mass production, debuts in Xiaomi 18Fold】CXMT announced its self‑developed LPDDR6 memory has reached mass production and commercial deployment, debuting in Xiaomi’s 18Fold flagship—the first reported global commercial use of LPDDR6 in a flagship phone. The 16GB chip supports up to 12,800 Mbps peak transfer and pairs with SoCs at 10,667 Mbps, supplying higher data bandwidth for flagship smartphones and other high‑performance terminals."
-    },
-    {
-      "id": "5081408",
-      "time": "2026-09-07 22:31:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商局集團與福州市政府簽約】據招商局集團訊息，9月7日，招商局集團與福州市人民政府在香港簽署戰略合作框架協議。雙方將在交通物流、綜合金融、地產園區等領域開展戰略合作，探索新能源、新一代資訊科技、高階裝備與智慧製造、生物醫藥等新興產業領域合作機會，積極推動發展戰略對接，透過資源互補與模式創新，打造央地合作的典型樣板。"
-    },
-    {
-      "id": "5081407",
-      "time": "2026-09-07 22:31:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部公佈8月現金基本收支盈餘2,095.97億里拉。"
     }
   ]
 }
