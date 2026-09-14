@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-14 08:55:14",
+  "updated": "2026-09-14 08:58:59",
   "count": 13489,
   "items": [
+    {
+      "id": "te:markets:583345",
+      "time": "2026-09-14 08:58:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Muted as Weeks Open — Australian stocks were little changed in early Monday trade, hovering near 8,737 after four straight sessions of losses. The market lingered at its weakest in almost two months last week as cost pressures and expectations of prolonged Reserve Bank tightening weighed on sentiment. Meanwhile, U.S. equity futures dropped sharply as oil prices jumped following weekend strikes on Saudi Arabia and Gulf shipping. Gains in consumer non-durables, energy minerals, and commercial services offset declines in healthcare, manufacturing, and non-energy minerals. Three of the four major banks rose modestly, while energy names Woodside (0.8%) and Santos (0.9%) advanced. On the downside, BHP slipped 1.1%, Goodman Group fell 1%, Evolution Mining dropped 2.5%, and Lynas Rare Earths tumbled 3.3%. Traders now await remarks from RBA’s Sarah Hunter later today and key activity data from top trading partner China this week."
+    },
+    {
+      "id": "5091951",
+      "time": "2026-09-14 08:58:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic呼籲放慢先進AI模型開發 浙商證券：短期使AI硬體公司、大模型公司承壓，中長期利好AI應用，AI終端公司】Anthropic呼籲放慢先進AI模型開發，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險，馬斯克等業界大佬表示贊同。浙商證券分析師馮翠婷等在報告中指出，該事件短期使AI硬體公司、大模型公司承壓，中長期利好AI應用，AI終端公司。中長期AI算力建設，尤其是國產算力趨勢不變；全球Token使用量會繼續爆發式增長，對推理算力需求快速提升。"
+    },
+    {
+      "id": "5091950",
+      "time": "2026-09-14 08:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部部署“十五五”科技工作 加快實現自然資源科技自立自強】近日，自然資源部召開“科技三會”精神貫徹落實暨“十五五”自然資源科技工作部署會。會議強調，要抓好“科技三會”精神與規劃落實。一要強化重大科技攻關，發展壯大新質生產力。以戰略性礦產綠色智慧勘查開發支撐新產業發展；以高水平科技創新引領海洋經濟高質量發展；以林草和生態修復關鍵技術支撐構建從山頂到海洋的保護治理大格局；以水土等多要素精準配置為發展提供新動能；以時空資訊保安應用引領新業態。二要最佳化政策環境，構建齊心合作共促發展新格局。加強規劃組織實施，強化體系化攻關；健全重大專案實施機制，提升創新效能；強化人才隊伍建設，啟用創新內生動力；維護國家戰略安全，築牢科技安全防線；強化國際交流合作，融入全球創新網路。三要綱舉目張做好2026年度重點工作。將“十五五”規劃和年度安排貫通起來，以“服務大戰略、集聚大資源、實現大科技、攻關大成果、培育大人才”為宗旨，爭當科技強國建設的開拓者、引領者。"
+    },
     {
       "id": "te:markets:583343",
       "time": "2026-09-14 08:54:31",
@@ -123829,35 +123857,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨開盤上漲0.38%。"
-    },
-    {
-      "id": "5079843",
-      "time": "2026-09-07 08:58:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4460美元/盎司，日內跌0.38%。"
-    },
-    {
-      "id": "5079842",
-      "time": "2026-09-07 08:56:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國選定得州223億美元天然氣電廠作為首個美國投資專案】韓國經濟日報援引不願具名的政府訊息人士報道，韓國已選定美國得克薩斯州一項約223億美元燃氣發電廠專案，作為其3500億美元對美投資計劃下的首個落地專案。韓美雙方敲定專案最終造價約223億美元；美方最初要求投資250億美元，韓國方面最初考量金額為198億美元。該專案選址於得克薩斯州恩西納爾，總裝機容量6.3吉瓦，用於滿足人工智慧資料中心的電力需求。專案先建設1.4吉瓦燃氣輪機發電機組，後續再新增4.9吉瓦聯合迴圈發電產能。韓國政府計劃於週一向國會彙報該專案，完成國會報備與審批流程後，於本月正式公佈這一首個對美投資專案。"
-    },
-    {
-      "id": "te:markets:581440",
-      "time": "2026-09-07 08:55:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Rise as Week Begins — Australian shares rose 33 points or 0.4% to 9,039 on Monday morning deals, reversing weakness in the prior session amid solid gains in non-energy minerals, energy minerals, tech, and logistics. Sentiment improved as Asia-Pacific markets traded broadly higher amid signs that the Trump administration could seek to eliminate Iran’s ability to develop a nuclear weapon even without securing a formal agreement with Tehran. Locally, August services growth was revised higher amid improving confidence that came close to its level before the outbreak of war in the Middle East. However, gains were capped by caution ahead of key data due later this week in top trading partner China, notably August CPI and PPI, as well as trade performance. Meanwhile, Wall Street will be closed today for a holiday. Among early movers was mining giant BHP Group, which jumped 1.9%. Three of four big banks rose modestly, while Reece Ltd (2.3%), Bluescope Steel (2.0%), and Lynas Rare Earths (0.8%) also advanced."
     }
   ]
 }
