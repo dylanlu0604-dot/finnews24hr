@@ -1,7 +1,37 @@
 {
   "date": "2026-09-15",
-  "count": 239,
+  "count": 242,
   "items": [
+    {
+      "id": "5093857",
+      "time": "2026-09-15 04:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：一艘油輪試圖穿越海峽時觸雷爆炸】據伊朗法爾斯通訊社14日報道，伊朗伊斯蘭革命衛隊方面表示，一艘名為“阿爾加亞”的油輪試圖透過霍爾木茲海峽南部“禁航區域”時，觸碰水雷後爆炸起火。革命衛隊稱，事發後，相關方面嘗試控制火勢，但未能成功，目前整艘油輪已被大火吞沒。伊朗方面表示此前已就“非法航道”存在的危險發出警告，並強調霍爾木茲海峽仍在伊方管控下，處於“封鎖狀態”。目前暫無涉事油輪人員傷亡情況、船旗國以及載油量等更多資訊。（新華社）"
+    },
+    {
+      "id": "te:markets:583615",
+      "time": "2026-09-15 04:20:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Flat After CPI Data — The S&P/TSX Composite Index closed nearly flat at 35,702 on Monday following the release of CPI data. Inflation was unchanged at 3.0% in August, matching expectations. While the conflict in the Middle East continues to lift energy costs, gasoline prices rose 22.8% from a year earlier. The BoC’s preferred median and trimmed-mean measures of core inflation were also unchanged at 2.0% and 1.9%, respectively. The data suggests underlying price pressures remained under control, even as the BoC grows increasingly concerned about inflation risks stemming from the war. Governor Macklem warned earlier this month that the longer the conflict persists, the more likely higher energy prices are to feed through the economy. Investors widely expect the US Fed to raise rates on Wednesday. Financials traded mostly lower amid rising yields. Gold prices fell, pressuring mining shares, with Barrick and WPM each down 2.7%. Celestica plunged 8.4%, tracking a semiconductor selloff in the US."
+    },
+    {
+      "id": "mkt:01a0a193-7206-7118-857f-1167542d5cf1",
+      "time": "2026-09-15 04:19:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Senator Mark Kelly (Democrat) said failing to act on AI now would be \"pure stupidity\" and urged rules to protect the public and ensure AI benefits, not harms, workers."
+    },
     {
       "id": "mkt:01a0a192-12e9-7118-857f-088be3b81a7b",
       "time": "2026-09-15 04:18:19",

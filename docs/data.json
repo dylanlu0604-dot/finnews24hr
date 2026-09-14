@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-15 04:19:02",
+  "updated": "2026-09-15 04:22:51",
   "count": 13618,
   "items": [
+    {
+      "id": "5093857",
+      "time": "2026-09-15 04:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：一艘油輪試圖穿越海峽時觸雷爆炸】據伊朗法爾斯通訊社14日報道，伊朗伊斯蘭革命衛隊方面表示，一艘名為“阿爾加亞”的油輪試圖透過霍爾木茲海峽南部“禁航區域”時，觸碰水雷後爆炸起火。革命衛隊稱，事發後，相關方面嘗試控制火勢，但未能成功，目前整艘油輪已被大火吞沒。伊朗方面表示此前已就“非法航道”存在的危險發出警告，並強調霍爾木茲海峽仍在伊方管控下，處於“封鎖狀態”。目前暫無涉事油輪人員傷亡情況、船旗國以及載油量等更多資訊。（新華社）"
+    },
+    {
+      "id": "te:markets:583615",
+      "time": "2026-09-15 04:20:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Flat After CPI Data — The S&P/TSX Composite Index closed nearly flat at 35,702 on Monday following the release of CPI data. Inflation was unchanged at 3.0% in August, matching expectations. While the conflict in the Middle East continues to lift energy costs, gasoline prices rose 22.8% from a year earlier. The BoC’s preferred median and trimmed-mean measures of core inflation were also unchanged at 2.0% and 1.9%, respectively. The data suggests underlying price pressures remained under control, even as the BoC grows increasingly concerned about inflation risks stemming from the war. Governor Macklem warned earlier this month that the longer the conflict persists, the more likely higher energy prices are to feed through the economy. Investors widely expect the US Fed to raise rates on Wednesday. Financials traded mostly lower amid rising yields. Gold prices fell, pressuring mining shares, with Barrick and WPM each down 2.7%. Celestica plunged 8.4%, tracking a semiconductor selloff in the US."
+    },
+    {
+      "id": "mkt:01a0a193-7206-7118-857f-1167542d5cf1",
+      "time": "2026-09-15 04:19:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Senator Mark Kelly (Democrat) said failing to act on AI now would be \"pure stupidity\" and urged rules to protect the public and ensure AI benefits, not harms, workers."
+    },
     {
       "id": "mkt:01a0a192-12e9-7118-857f-088be3b81a7b",
       "time": "2026-09-15 04:18:19",
@@ -125398,36 +125428,6 @@
         "公司"
       ],
       "text": "【中企牽頭參建的波黑重要高速公路隧道貫通】由中國路橋工程有限責任公司牽頭參建的波黑克瓦尼-布納段高速公路克瓦尼隧道7日順利貫通。波黑聯邦總理內爾明·尼克希奇表示，這是提升波黑交通連通性的關鍵一步。（新華社）"
-    },
-    {
-      "id": "mkt:01a07d87-ff65-7118-84d3-26e1f66daa30",
-      "time": "2026-09-08 04:20:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "U.S. National Transportation Safety Board (NTSB) holds press conference on a Boeing 767 Amazon Prime Air cargo jet that overran the runway at Miami International Airport; aircraft operated by Amazon (AMZN.O)."
-    },
-    {
-      "id": "5081522",
-      "time": "2026-09-08 04:20:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會召開新聞釋出會，通報亞馬遜Prime Air一架波音767貨機在邁阿密國際機場衝出跑道事件的最新情況。"
-    },
-    {
-      "id": "5081521",
-      "time": "2026-09-08 04:20:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部：印度加入保障6G網路安全的相關合作，商務部長盧特尼克與印度對應官員磋商6G發展前景。"
     }
   ]
 }
