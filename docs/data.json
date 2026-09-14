@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-15 04:26:39",
-  "count": 13616,
+  "updated": "2026-09-15 04:30:26",
+  "count": 13612,
   "items": [
+    {
+      "id": "mkt:01a0a199-d181-7118-857f-21489c5dad4e",
+      "time": "2026-09-15 04:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BCE.TO",
+        "Impact bullish"
+      ],
+      "text": "Bell's CEO announced an expansion of an AI data center in Saskatchewan to 1.2 GW; the project will require about US$50 billion in capital."
+    },
     {
       "id": "5093859",
       "time": "2026-09-15 04:24:45",
@@ -125367,46 +125379,6 @@
         "國際"
       ],
       "text": "美國國家運輸安全委員會：不會在現場階段判定事故可能原因。"
-    },
-    {
-      "id": "mkt:01a07d90-2c9c-7118-84d3-40ef3ec0dd39",
-      "time": "2026-09-08 04:29:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. National Transportation Safety Board (NTSB) said a cargo aircraft overran the runway on landing at Miami International Airport, slid about 1,300 ft off the paved area, struck a truck carrying seven people and then hit a moving Toyota; fuel leakage was reported at the scene and investigators are collecting data for the accident probe."
-    },
-    {
-      "id": "5081528",
-      "time": "2026-09-08 04:29:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：現場到處都是燃油，還需要排空飛機內的燃油，殘骸清理作業仍在進行。"
-    },
-    {
-      "id": "5081527",
-      "time": "2026-09-08 04:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：已取回飛行資料記錄器以及駕駛艙語音記錄器。"
-    },
-    {
-      "id": "5081526",
-      "time": "2026-09-08 04:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：已著手收集調查資料，我們已掌握部分資料，但在完成核實之前不會對外公佈相關資訊。"
-    },
-    {
-      "id": "5081525",
-      "time": "2026-09-08 04:26:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：飛機滑出鋪裝路面（跑道）1300英尺。"
     }
   ]
 }

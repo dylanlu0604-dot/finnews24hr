@@ -1,7 +1,19 @@
 {
   "date": "2026-09-15",
-  "count": 245,
+  "count": 246,
   "items": [
+    {
+      "id": "mkt:01a0a199-d181-7118-857f-21489c5dad4e",
+      "time": "2026-09-15 04:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BCE.TO",
+        "Impact bullish"
+      ],
+      "text": "Bell's CEO announced an expansion of an AI data center in Saskatchewan to 1.2 GW; the project will require about US$50 billion in capital."
+    },
     {
       "id": "5093859",
       "time": "2026-09-15 04:24:45",
