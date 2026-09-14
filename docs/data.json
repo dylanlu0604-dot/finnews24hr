@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-14 10:26:42",
-  "count": 13580,
+  "updated": "2026-09-14 10:30:30",
+  "count": 13579,
   "items": [
+    {
+      "id": "mkt:01a09dc0-19c2-7118-8563-119ea15fd7aa",
+      "time": "2026-09-14 10:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. think-tank: Trump appeared \"confused\" on Yemen crisis】Kenneth Katzman, senior fellow at the Soufan Center, said had President Trump approved Saudi Arabia's request for military assistance at the time, US air strikes — given their precision and effectiveness — could have halted the Houthi advance. Katzman said Trump appeared \"confused\" about handling the situation and did not act like an effective commander-in-chief. He warned US core interests in freedom of navigation, particularly Middle East energy flows, are being squeezed by Iran and the Houthis as Washington largely stands aside and expects Saudi Arabia to resolve the issue."
+    },
+    {
+      "id": "5092133",
+      "time": "2026-09-14 10:28:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來資本入股電感式感測器研發商弓望感測】企查查APP顯示，近日，無錫弓望感測技術有限公司發生工商變更，新增蔚來資本關聯公司合肥蔚來產業發展股權投資合夥企業（有限合夥）等為股東，同時註冊資本增至377.84萬元。企查查資訊顯示，該公司成立於2023年1月，經營範圍包含：工業自動控制系統裝置銷售；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。公開資訊顯示，該公司是一家電感式感測器研發商。"
+    },
+    {
+      "id": "5092132",
+      "time": "2026-09-14 10:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍曉科技等在四川成立新材料公司】企查查APP顯示，近日，四川藍釩新材料有限公司成立，經營範圍包含：新材料技術研發；新材料技術推廣服務；工程和技術研究和試驗發展；專業設計服務等。企查查股權穿透顯示，該公司由藍曉科技（300487）等共同持股。"
+    },
+    {
+      "id": "5092131",
+      "time": "2026-09-14 10:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "順豐計劃透過債券發行募資 15 億美元。"
+    },
+    {
+      "id": "5092130",
+      "time": "2026-09-14 10:26:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【擬收購哪吒汽車關聯公司直線封板】9月14日，山子高科（000981.SZ）開盤漲停，漲幅10.04%，集合競價成交額超9897萬元。 訊息面上，哪吒汽車母公司合眾新能源重整迎新進展：浙江太乙聖蓮擬出資30億元，換取其約70.62%股權。太乙聖蓮為山子高科董事長葉驥的關聯主體。據悉，葉驥目前執掌兩家上市公司，個人曾多次被限高。（第一財經）"
+    },
+    {
+      "id": "5092129",
+      "time": "2026-09-14 10:26:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魔法原子入股憬馳智慧 後者含AI及機器人業務】企查查APP顯示，近日，上海憬馳智慧科技有限公司發生工商變更，新增魔法原子機器人科技（無錫）有限公司為股東。企查查資訊顯示，該公司成立於2026年2月，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧基礎軟體開發；智慧機器人銷售；智慧機器人的研發等。"
+    },
+    {
+      "id": "5092128",
+      "time": "2026-09-14 10:26:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中證協：加大對投行、債券交易等重點業務關鍵環節的內部檢查力度】今日，記者從相關渠道獲悉，中證協正就修訂《證券經營機構及其工作人員廉潔從業實施細則》（下稱《細則》）向行業徵求意見。《細則》完善了廉潔從業監督機制。一是明確協同監督機制。要求證券經營機構指定專門部門牽頭負責廉潔從業情況的監督，建立健全與紀檢監察、合規、風控、審計、財務、人力等部門的資訊共享、聯合檢查、整改督辦等工作機制，充分發揮監督合力。二是加強內部監督。鼓勵建立健全廉潔從業風險和違規事項內部報告機制，發現違規行為的及時整改並追究相應責任，保護內部報告人合法權益。三是要求加大對投資銀行、債券交易、經紀等重點業務領域和營銷活動等關鍵環節的內部檢查力度。"
+    },
     {
       "id": "5092127",
       "time": "2026-09-14 10:25:07",
@@ -124704,76 +124761,6 @@
         "焦點"
       ],
       "text": "PVC連續主力合約日內跌1%，現報4974.00元。"
-    },
-    {
-      "id": "5080022",
-      "time": "2026-09-07 10:30:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局批准釋出首個《嬰兒光治療裝置校準規範》】記者今天瞭解到，市場監管總局近日批准釋出首個《嬰兒光治療裝置校準規範》，將為新生兒黃疸治療裝置的質量控制提供統一“標尺”，讓千萬新生兒的光照治療更加安全、精準、有效。新生兒黃疸是新生兒期最常見的臨床表現之一。據統計，我國每年約800萬新生兒出生，其中約60%的足月兒和80%的早產兒會出現不同程度的黃疸。若未及時有效治療，嚴重高膽紅素血癥可導致膽紅素腦病，造成不可逆的神經系統損害，甚至危及生命。（央視新聞）"
-    },
-    {
-      "id": "5080021",
-      "time": "2026-09-07 10:29:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【長鑫科技漲超5%】長鑫科技盤中漲超5%，報57.55元。"
-    },
-    {
-      "id": "te:markets:581469",
-      "time": "2026-09-07 10:29:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Tech Stocks Rally — Technology shares across Asia Pacific advanced sharply on Monday, fueled by optimism that a new model from OpenAI could drive stronger demand for memory chips. The gains followed a rally in US chipmakers and memory stocks on Friday as sentiment toward the sector improved, although broader markets remained under pressure after strong US jobs data reinforced expectations of a Federal Reserve rate hike this month. Investors also remained cautious as oil prices extended their advance after the US and Iran exchanged strikes on ships over the weekend, stoking fresh inflation concerns. Technology-heavy markets in Japan and South Korea led the regional advance, with the Nikkei 225 and KOSPI Composite rallying more than 2% and 3%, respectively."
-    },
-    {
-      "id": "5080020",
-      "time": "2026-09-07 10:28:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛凱材料：超低阿爾法微球已實現量產】9月7日早間，飛凱材料在深交所互動易平臺回答了投資者有關公司經營情況的提問。公司回覆表示，公司自主研發的超低阿爾法微球最小直徑低至50μm，主要用於先進封裝製程，目前已實現量產。"
-    },
-    {
-      "id": "5080019",
-      "time": "2026-09-07 10:28:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臥龍電驅：戰略佈局資料中心等前沿產業】臥龍電驅(600580)在9月7日召開2026年半年度業績說明會上表示，公司立足電驅產業基礎，持續拓展延伸系統解決方案、全生命週期服務解決方案，同時戰略佈局資料中心、具身智慧機器人、低空經濟等前沿產業，培育發展新動能。報告期內，在資料中心應用賽道，公司有燃氣輪機發電機、EC風機、PM永磁電機、EMR永磁輔助同步磁阻一體機等多款產品透過下游裝置及裝置整合商客戶進入資料中心終端應用場景。終端應用於資料中心的相關產品營業收入規模尚小，佔總營收比例不超過2%，但需求旺盛，增長前景良好。在具身智慧賽道，公司機器人元件及系統應用業務（包括工業機器人系統解決方案、仿生機器人系統解決方案、工業機器人及仿生機器人零部件）營業收入達到3.25億元，佔公司營業收入4.35%，同比增長49.18%。"
-    },
-    {
-      "id": "5080018",
-      "time": "2026-09-07 10:27:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新易盛成交額達100億元】9月7日上午，新易盛成交額達100億元，現漲5.19%。"
-    },
-    {
-      "id": "5080017",
-      "time": "2026-09-07 10:27:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "新加坡航空：受印尼喀拉喀託之子火山噴發影響，取消9月7日所有往返雅加達的航班，以及9月8日的一趟航班。"
-    },
-    {
-      "id": "5080016",
-      "time": "2026-09-07 10:27:02",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【現貨黃金跌破4400美元，多國從美國運回黃金】北京時間9月7日早盤，現貨黃金失守4400美元/盎司，日內跌0.88%，日內最低跌至4389.57美元/盎司，截至目前跌幅0.65%。據央視新聞報道，多國從美國運回黃金，荷蘭央行上週證實，已將該國數噸黃金移出北美，並表示此次轉移旨在“為應對嚴重危機做好更充分的準備”。世界黃金協會最新資料顯示，美國目前仍以超過8000公噸的黃金儲備位居全球榜首，其後依次為德國、法國和義大利。荷蘭擁有近1300噸黃金，約佔其總儲備資產的55%。（21財經）"
     }
   ]
 }
