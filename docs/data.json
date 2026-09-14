@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-14 10:22:53",
-  "count": 13577,
+  "updated": "2026-09-14 10:26:42",
+  "count": 13580,
   "items": [
+    {
+      "id": "5092127",
+      "time": "2026-09-14 10:25:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.06%，成分股中，美德樂漲13.64%，惠豐鑽石漲13.09%，凱德石英漲11.14%，國子軟體漲6.34%。"
+    },
+    {
+      "id": "te:markets:583372",
+      "time": "2026-09-14 10:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Futures Remain Firm — Corn futures traded around $5.3 per bushel, remaining near their highest level since mid-2023 as supply risks in the Black Sea region continued to support prices, while traders weighed the USDA’s latest supply-and-demand report. The September USDA report cut the US 2026/27 corn yield forecast to 178.5 bushels per acre from 180.7, lowered production to 15.8 billion bushels from 16.013 billion, and reduced ending stocks to 1.567 billion bushels from 1.653 billion. The lower forecasts reflected expectations for a smaller US harvest following hot summer weather and concerns over crop conditions. Meanwhile, continued Russian attacks on Ukrainian ports and logistics are also threatening grain flows, forcing Ukraine to reroute more exports through the Danube. This is helping Argentina capture additional demand, with its corn exports expected to reach a record 10 million metric tons in August–September, partly filling the gap left by disrupted Ukrainian supplies."
+    },
+    {
+      "id": "5092126",
+      "time": "2026-09-14 10:24:10",
+      "tags": [
+        "行業",
+        "焦點"
+      ],
+      "text": "A股三大指數全線翻紅，此前深成指、創業板指均跌超1%。"
+    },
+    {
+      "id": "mkt:01a09dba-7148-7118-8563-0e4a29c2ab3b",
+      "time": "2026-09-14 10:23:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS",
+        "399001.SZ"
+      ],
+      "text": "China A-shares' three major indexes turned positive, led by MLCC, lab-grown diamond and PCB-related names; more than 3,500 stocks advanced."
+    },
+    {
+      "id": "5092125",
+      "time": "2026-09-14 10:23:05",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【投資人料10年期美債收益率很快突破5% 市場、經濟面臨新風險】債券拋售潮已將一種關鍵美國國債收益率推至5%關口附近，加劇華爾街乃至華府對借貸成本上升衝擊美國經濟的憂慮。油價勁揚恐帶來新一波通脹衝擊，加上特朗普政府試圖緩解政府債券市場壓力卻未奏效，10年期美債收益率上週結束時升至4.97%。這距離2023年10月的高點僅一步之遙，當時收益率曾在單一交易日短暫突破5%，隨後買盤蜂擁進場，收益率才回落。近期債市重挫，也讓美聯儲主席凱文·沃什在週三該央行會議前面臨更大壓力。上週五公佈的資料顯示，上月消費者物價漲幅高於預期，決策官員將開始升息、遏制連續五年高於目標的通脹的臆測甚囂塵上，債市也直到這項資料公佈後才止穩。“美聯儲肯定是慢半拍了，”Brandywine Global Asset Management投資組合經理Tracy Chen表示。她說，中期而言，收益率將會走高。她表示，原因在於推升長期收益率的部分因素，例如伊朗戰爭帶來的通脹效應，並非決策官員所能掌控。“會升到多高我不知道，但我認為肯定會超過5%。”"
+    },
     {
       "id": "5092124",
       "time": "2026-09-14 10:22:13",
@@ -124720,22 +124774,6 @@
         "國際"
       ],
       "text": "【現貨黃金跌破4400美元，多國從美國運回黃金】北京時間9月7日早盤，現貨黃金失守4400美元/盎司，日內跌0.88%，日內最低跌至4389.57美元/盎司，截至目前跌幅0.65%。據央視新聞報道，多國從美國運回黃金，荷蘭央行上週證實，已將該國數噸黃金移出北美，並表示此次轉移旨在“為應對嚴重危機做好更充分的準備”。世界黃金協會最新資料顯示，美國目前仍以超過8000公噸的黃金儲備位居全球榜首，其後依次為德國、法國和義大利。荷蘭擁有近1300噸黃金，約佔其總儲備資產的55%。（21財經）"
-    },
-    {
-      "id": "5080015",
-      "time": "2026-09-07 10:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國養老基金暫停外匯對沖操作。"
-    },
-    {
-      "id": "5080014",
-      "time": "2026-09-07 10:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼將雅加達機場關閉時間延長至9月7日18時。"
     }
   ]
 }
