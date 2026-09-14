@@ -1,7 +1,81 @@
 {
   "date": "2026-09-14",
-  "count": 1826,
+  "count": 1833,
   "items": [
+    {
+      "id": "mkt:01a0a05a-d5cc-7118-8579-677ea11b756e",
+      "time": "2026-09-14 22:38:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRIB reports Yemen's foreign ministry said maritime shipping is secure but warned Saudi Arabia would be gravely mistaken to assume it can remain safe after some 300 airstrikes in the past five days."
+    },
+    {
+      "id": "5093610",
+      "time": "2026-09-14 22:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "飛往洛杉磯國際機場的出港航班因人員配置問題停飛。"
+    },
+    {
+      "id": "5093609",
+      "time": "2026-09-14 22:37:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國10年期國債收益率2023年以來首次升破5%】美國10年期國債收益率漲破5%，為2023年10月以來首次。油價飆升加劇通脹之憂，美國基準國債收益率一度上漲4個基點至5.006%。2023年10年債收益率只在5%上方維持了一天。投資人料10年期美債收益率很快突破5% 市場、經濟面臨新風險。"
+    },
+    {
+      "id": "5093608",
+      "time": "2026-09-14 22:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：AI資料中心正為消費者帶來更低的電價。"
+    },
+    {
+      "id": "mkt:01a0a058-f3ec-7118-8579-5df1be4f1a5d",
+      "time": "2026-09-14 22:36:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O): A restricted period will be imposed during the final week of the U.S. midterm elections. Ads active before the restriction may continue to run, but ad-editing capabilities will be limited."
+    },
+    {
+      "id": "mkt:01a0a058-4031-7118-8579-541826c8aeb8",
+      "time": "2026-09-14 22:35:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK 2-year bond yield climbed to 4.971%, its highest level since 2023."
+    },
+    {
+      "id": "5093607",
+      "time": "2026-09-14 22:35:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國2年期國債收益率達到4.971%，為2023年以來最高水平。"
+    },
     {
       "id": "5093606",
       "time": "2026-09-14 22:34:28",

@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-14 22:35:04",
-  "count": 13436,
+  "updated": "2026-09-14 22:39:01",
+  "count": 13438,
   "items": [
+    {
+      "id": "mkt:01a0a05a-d5cc-7118-8579-677ea11b756e",
+      "time": "2026-09-14 22:38:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRIB reports Yemen's foreign ministry said maritime shipping is secure but warned Saudi Arabia would be gravely mistaken to assume it can remain safe after some 300 airstrikes in the past five days."
+    },
+    {
+      "id": "5093610",
+      "time": "2026-09-14 22:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "飛往洛杉磯國際機場的出港航班因人員配置問題停飛。"
+    },
+    {
+      "id": "5093609",
+      "time": "2026-09-14 22:37:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國10年期國債收益率2023年以來首次升破5%】美國10年期國債收益率漲破5%，為2023年10月以來首次。油價飆升加劇通脹之憂，美國基準國債收益率一度上漲4個基點至5.006%。2023年10年債收益率只在5%上方維持了一天。投資人料10年期美債收益率很快突破5% 市場、經濟面臨新風險。"
+    },
+    {
+      "id": "5093608",
+      "time": "2026-09-14 22:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：AI資料中心正為消費者帶來更低的電價。"
+    },
+    {
+      "id": "mkt:01a0a058-f3ec-7118-8579-5df1be4f1a5d",
+      "time": "2026-09-14 22:36:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O): A restricted period will be imposed during the final week of the U.S. midterm elections. Ads active before the restriction may continue to run, but ad-editing capabilities will be limited."
+    },
+    {
+      "id": "5093607",
+      "time": "2026-09-14 22:35:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國2年期國債收益率達到4.971%，為2023年以來最高水平。"
+    },
+    {
+      "id": "mkt:01a0a058-4031-7118-8579-541826c8aeb8",
+      "time": "2026-09-14 22:35:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK 2-year bond yield climbed to 4.971%, its highest level since 2023."
+    },
     {
       "id": "5093606",
       "time": "2026-09-14 22:34:28",
@@ -123719,48 +123793,6 @@
         "Impact bearish"
       ],
       "text": "Sirens sounding in Kyiv."
-    },
-    {
-      "id": "mkt:01a07c4e-cfa3-7118-84d0-b46a0c78ee4c",
-      "time": "2026-09-07 22:38:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "HKEX documents show Zhejiang Taotao Automotive Co., Ltd. has cleared its listing hearing."
-    },
-    {
-      "id": "5081414",
-      "time": "2026-09-07 22:38:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【據港交所檔案：浙江濤濤車業股份有限公司透過港交所上市聆訊】據港交所檔案：浙江濤濤車業股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "5081413",
-      "time": "2026-09-07 22:38:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【象嶼股份與遼港股份簽署全面戰略合作協議】據象嶼股份訊息，9月7日，象嶼股份與遼寧港口股份有限公司（簡稱“遼港股份”）簽署全面戰略合作協議。以此次全面戰略合作簽約為契機，雙方將在今年年初“總對總”合作框架協議的基礎上升級合作層級，全方位放大戰略協同優勢，向通道共建、平臺共築、資料互通、產業共育延伸，在北糧南運通道、黑色金屬、進口大豆及原油運輸通道、集裝箱全程物流、數智化建設等領域同向發力，推動服務模式最佳化升級，謀劃資本領域深度合作。"
-    },
-    {
-      "id": "5081412",
-      "time": "2026-09-07 22:37:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國媒體報道：霍爾本‑聖潘克拉斯補選定於 10 月 8 日舉行。"
-    },
-    {
-      "id": "5081411",
-      "time": "2026-09-07 22:36:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利2026年夏季平均氣溫創1950年以來最高紀錄】義大利國家研究委員會生物經濟研究所9月7日公佈的分析顯示，2026年夏季義大利全國平均氣溫達到24.3攝氏度，為1950年有記錄以來最高。資料顯示，今年1月至8月，義大利各月平均氣溫均高於去年同期，其中8月升溫最為明顯，全國平均氣溫達到25.6攝氏度，較1951年至1980年同期平均值高5.2攝氏度，較1991年至2020年同期平均值高3.5攝氏度。（央視新聞）"
     }
   ]
 }
