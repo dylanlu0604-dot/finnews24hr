@@ -1,7 +1,53 @@
 {
   "date": "2026-09-15",
-  "count": 212,
+  "count": 217,
   "items": [
+    {
+      "id": "mkt:01a0a178-ca88-7118-857e-beff1d4bee51",
+      "time": "2026-09-15 03:50:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【U.S. Treasury designates Russia's VTB as a sanctions target】On Sept. 14 local time, the U.S. Treasury designated VTB as a sanctions target, saying the bank \"is suspected of assisting in evading sanctions on Iran.\""
+    },
+    {
+      "id": "5093844",
+      "time": "2026-09-15 03:50:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財政部宣佈將俄羅斯外貿銀行列為制裁目標】當地時間9月14日，美國財政部宣佈，將俄羅斯外貿銀行列為制裁目標，理由是該行“涉嫌協助規避針對伊朗的制裁”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a178-2ef1-7118-857e-b408794e8103",
+      "time": "2026-09-15 03:50:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President ERDOGAN said Saudi Arabia, Pakistan and Turkey have taken a step toward a 'Mecca Defense Alliance'."
+    },
+    {
+      "id": "5093843",
+      "time": "2026-09-15 03:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【茅利塔尼亞外交部召見伊朗駐毛塔大使】當地時間9月14日，茅利塔尼亞外交部召見伊朗駐毛塔大使，就該大使“不符合外交規範與傳統”的某些行動和活動提出正式抗議。毛塔外交部在一份宣告中表示，毛方希望伊朗使團嚴格遵守外交規範和相關準則，尊重茅利塔尼亞主權，不得干涉其內政，毛方仍希望繼續保持兩國雙邊關係。目前，毛塔官方尚未對外披露引發此次外交交涉的具體事由。伊朗方面對此事暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5093842",
+      "time": "2026-09-15 03:49:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗CFO：花旗集團或開展小型收購，但正如執行長明確表態的那樣，不會進行能夠重塑業務格局的重大收購。"
+    },
     {
       "id": "mkt:01a0a174-c2d1-7118-857e-aa835befe9e5",
       "time": "2026-09-15 03:46:18",
