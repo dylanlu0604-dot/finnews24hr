@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-15 04:00:09",
-  "count": 13605,
+  "updated": "2026-09-15 04:03:57",
+  "count": 13609,
   "items": [
+    {
+      "id": "5093850",
+      "time": "2026-09-15 04:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：美國目前提出一項有力提議，雙方相互停止針對關鍵基礎設施的打擊行動。如果這能成為局勢降級的第一步，推動俄方停止打擊我方關鍵基礎設施，同時我方也暫停相應反擊，那麼烏克蘭願意支援局勢降級。"
+    },
+    {
+      "id": "mkt:01a0a182-dadc-7118-857e-dd2bdd4029a4",
+      "time": "2026-09-15 04:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "S&P500",
+        "Impact bearish",
+        "SKHY.O",
+        "ASML.O"
+      ],
+      "text": "【US stocks close: major indices down; SK Hynix falls >7%】US equities closed lower: Dow Jones Industrial Average -0.29%, S&P 500 -0.48%, Nasdaq Composite -0.56%. SK Hynix fell 7.6% (SKHY.O). ASML dropped 7.2% (ASML.O). Intel and Micron declined over 5% (INTC.O, MU.O). Meta rose 2.7% (META.O). Nasdaq Golden Dragon China Index +0.36%; NetEase up 2% (NTES.O)."
+    },
+    {
+      "id": "5093849",
+      "time": "2026-09-15 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.29%，標普500指數跌0.48%，納指跌0.55%。康寧跌13.69%，泰瑞達跌13.30%，Coherent Corp跌12.73%，Astera Labs Inc跌11.75%，慧與跌10.76%，思佳訊跌10.24%。“七姐妹”方面：谷歌漲3.08%，Meta Platforms漲2.73%，微軟漲2.03%，蘋果漲0.26%，亞馬遜跌1.25%，特斯拉跌1.77%，英偉達跌3.31%。"
+    },
+    {
+      "id": "mkt:01a0a181-7425-7118-857e-d660ce678fbd",
+      "time": "2026-09-15 04:00:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Politico reports OpenAI's chief lobbyist will meet with members of Congress today."
+    },
+    {
+      "id": "5093847",
+      "time": "2026-09-15 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.45%】NXTT漲9.66%，陸金所控股漲6.80%，MAAS漲4.88%，愛奇藝漲4.68%，叮咚買菜漲4.21%。"
+    },
     {
       "id": "mkt:01a0a180-565e-7118-857e-c8bb0247f2e2",
       "time": "2026-09-15 03:58:57",
@@ -125274,14 +125328,6 @@
         "國際"
       ],
       "text": "【伊朗錫裡克婚禮遭襲現場發現美武器殘骸】當地時間9月1日晚，美軍對伊朗南部多個城市發動大規模空襲，其中錫裡克市一處婚禮現場遭襲，造成數十人傷亡。近日，總檯記者來到錫裡克，探訪了當晚遭襲的婚禮現場。在襲擊發生後，當地居民蒐集到一些爆炸物和導彈殘骸。（央視新聞）"
-    },
-    {
-      "id": "5081517",
-      "time": "2026-09-08 04:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在加沙地帶打死兩名巴勒斯坦武裝人員】以色列國防軍7日說，以軍近日在加沙地帶發動兩次空襲，分別打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）各一名武裝人員。 (央視新聞)"
     }
   ]
 }
