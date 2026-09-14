@@ -1,7 +1,59 @@
 {
   "date": "2026-09-14",
-  "count": 321,
+  "count": 335,
   "items": [
+    {
+      "id": "te:markets:583333",
+      "time": "2026-09-14 08:12:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits 16-week High — Oat increased to 382.00 USd/Bu, the highest since May 2026. Over the past 4 weeks, Oat gained 14.83%, and in the last 12 months, it increased 19.88%."
+    },
+    {
+      "id": "5091899",
+      "time": "2026-09-14 08:12:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日股走低，日本日經平均股價指數下跌1.30%，報63180.45點。"
+    },
+    {
+      "id": "mkt:7b3abc51-c7af-4f1a-9ecb-822fed07eae2",
+      "time": "2026-09-14 08:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【A-share gauge: turnover rebounds】On Sept 11, combined turnover on the Shanghai and Shenzhen exchanges rose to 1.97 trillion yuan, rebounding from the previous trading day but remaining below the 20-day moving average of 2.13 trillion yuan for the 17th consecutive trading day."
+    },
+    {
+      "id": "mkt:e0ccad61-ce6f-4b29-8e65-949bad6d57bf",
+      "time": "2026-09-14 08:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 3.6 points (+0.04%) at 8,744.80 on Monday, Sept. 14."
+    },
+    {
+      "id": "5091898",
+      "time": "2026-09-14 08:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局修訂印發2026版醫保服務協議範本 】近日，國家醫保局發出通知，印發《定點醫療機構醫療保障服務協議範本（2026版）》《定點零售藥店醫療保障服務協議範本（2026版）》（以下簡稱“2026版協議範本”），為全國各統籌地區擬定新的醫保服務協議文字提供了基本遵循。2026版協議範本進一步修訂完善了2024版協議範本，制定印發協議管理負面清單，細化對定點醫藥機構違規、違約行為採取協議處理措施的具體情形、表現形式、處理依據等，明確劃定定點醫藥機構依法依規履約行為的“底線”，進一步嚴格規範管理。同時，2026版協議範本強調自願和平等協商原則，賦能定點醫藥機構發展，透過推行醫保基金預付、縮短結算週期、加強資訊共享、最佳化經辦服務等措施，助力定點醫藥機構高質量發展。"
+    },
+    {
+      "id": "mkt:4c427c6e-3da3-4685-b89a-c9fb4e5cde16",
+      "time": "2026-09-14 08:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENC in talks with Apple to integrate earthquake early-warning into iOS】Sept 14 — The China Earthquake Administration’s Monitoring and Forecasting Department said the China Earthquake Networks Center (CENC) is in discussions with Apple to expedite integration of earthquake early-warning into the iOS system. Apple users can currently receive the agency’s official earthquake alerts via a WeChat mini-program."
+    },
     {
       "id": "5091897",
       "time": "2026-09-14 08:08:14",
@@ -10,6 +62,14 @@
         "焦點"
       ],
       "text": "比特幣升破77000美元，日內漲0.28%。"
+    },
+    {
+      "id": "mkt:5e44f113-7660-4fba-9117-f06ee277260d",
+      "time": "2026-09-14 08:08:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 fell 1.00% intraday."
     },
     {
       "id": "5091896",
@@ -28,6 +88,22 @@
         "國際"
       ],
       "text": "【SK海力士領跌韓國晶片股】SK海力士股價早盤下跌5.4%，至1,714,000韓元；三星電子股價早盤下跌3.7%，至250,000韓元。"
+    },
+    {
+      "id": "mkt:70571176-60c9-484e-84ff-1696c66d9174",
+      "time": "2026-09-14 08:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities outlines three trade themes for September transport sector】Huatai Securities says renewed Middle East tensions and the approaching express-delivery peak season are the primary near-term catalysts for the transport sector in September. It recommends three themes: (1) tanker shipping exposure — rising geopolitical risk premia plus shipping supply disruptions should push oil-tanker freight rates higher MoM; (2) accumulate low-position express couriers ahead of peak season — tightening local price controls mean peak-season price rises could act as a catalyst; (3) select stocks that combine dividend yield and growth, and focus on high-growth logistics and low-valued airlines. Airline valuations and investor attention are relatively low and are expected to await an oil-price retreat to trigger re-rating."
+    },
+    {
+      "id": "mkt:c892a45a-03c5-4ad9-85f6-5dc6f7814dd2",
+      "time": "2026-09-14 08:06:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News, citing Arab sources, reported a wave of Yemeni drone and missile strikes on sensitive sites in southern Saudi Arabia. The report said Aramco oil and gas facilities were targeted and that fires broke out at some installations."
     },
     {
       "id": "5091894",
@@ -89,6 +165,14 @@
       "text": "【 “十五五”開局之年綠色工廠發展觀察 】綠色發展是中國式現代化的鮮明底色。“十五五”規劃綱要提出推動技術改造升級，發展智慧製造、綠色製造、服務型製造。作為實施綠色製造的基礎單元，綠色工廠正以更少的資源消耗、更低的碳排放創造更高的產品價值，帶動產業鏈協同降碳，助力經濟社會發展全面綠色轉型。 《工業綠色低碳發展“十五五”規劃》要求“突出節能降碳導向，加快制修訂細分行業綠色工廠評價標準”；工業和資訊化部明確將持續完善標準體系，分類制定綠色工廠評價標準，動態更新核心指標要求，以標準規範綠色工廠精準化、精細化建設……一套梯次銜接、動態更新的標準體系正在加快構建。“‘十五五’時期，我們將堅持統籌推進產業綠色化和綠色產業化，以務實舉措培育壯大綠色生產力。”辛國斌表示，到“十五五”末，各級綠色工廠產值佔規模以上製造業總產值比重要力爭達到45%，形成綠色製造系統解決方案。（新華社）"
     },
     {
+      "id": "mkt:da29d2cd-eb3d-462f-bf25-5742b93e0ea2",
+      "time": "2026-09-14 08:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Vera Rubin to spark new AIDC power-supply upcycle】CITIC Securities says NVIDIA's Vera Rubin chip upgrade and power‑architecture changes are the core catalyst for a new AIDC power‑supply cycle. Its review of 2023–present shows the prior cycle was driven by Blackwell chips shipping as NVL72 full‑rack systems, which materially raised power‑supply value content and concentrated supplier earnings in 2025–26. NVIDIA's next‑gen Rubin is in production ramp; chain CapEx, inventories and order signals indicate the ecosystem is prepared and the upcoming cycle could be stronger. A volume ramp of Vera Rubin should boost demand for high‑power PSUs and HVDC sidecars, further increasing power‑supply value; 2027 could mark the start of the next AIDC power‑supply cycle, allowing suppliers to gain share and realize earnings."
+    },
+    {
       "id": "5091887",
       "time": "2026-09-14 08:02:14",
       "tags": [
@@ -97,10 +181,35 @@
       "text": "【程福波到中國中車集團調研強調 加快建設世界一流高階裝備製造企業 更好服務現代化產業體系建設】 9月10日，國務院國資委黨委書記、主任程福波到中國中車集團調研企業科技創新、改革發展和黨的建設工作，強調要深入學習貫徹習近平黨建思想，貫徹落實習近平總書記關於國有企業改革發展和黨的建設的重要論述，深入落實好習近平總書記視察中國中車所屬企業時的重要講話精神，聚焦產業報國、裝備強國，強化黨建引領，堅持創新驅動，更好統籌發展和安全，立足當前、著眼長遠，大力推動軌道交通裝備、清潔能源裝備數智化、高階化、綠色化發展，加快建設世界一流高階裝備製造企業，為建設現代化產業體系貢獻更大力量。\n\n程福波來到中國中車北京軌道交通裝備產業園，深入智慧裝備、軌道裝備研發實驗室、製造基地，登上氫能源有軌電車、新一代地鐵列車，與技術專家、一線科研人員交流，並主持召開座談會聽取企業領導班子工作彙報及意見建議。他指出，近年來中國中車全面貫徹落實黨中央、國務院決策部署，自覺服務製造強國、交通強國建設，堅持自主創新、開放創新和協同創新，搭建了領先的軌道交通裝備產品技術研發平臺，構建了完整的軌道交通裝備產業體系，企業經營效益持續向優向好，以一系列新技術新產品新服務擦亮了“國家名片”，為壯大我國軌道交通產業、服務經濟社會發展作出了積極貢獻。\n\n程福波強調，要進一步提高政治站位，從服務國家戰略需求的高度推進科技創新，以制定實施企業“十五五”規劃為引領，聚焦科技自立自強，健全創新體系機制，最佳化創新資源配置，強化關鍵核心技術攻關，加強前沿技術研究佈局，始終保持領先優勢。要加快推進高質量發展，集中精力解決制約企業發展的根本性、深層次問題，因地制宜培育新興產業，毫不鬆懈抓好重大風險隱患防範化解和安全生產工作。要突出抓好新一輪國資國企改革實施，聚焦增強核心功能、提升核心競爭力，加快完善中國特色現代企業制度，健全市場化經營機制，以穿透式監管為著力點，最佳化企業管控體系。要縱深推進全面從嚴治黨，堅持落實管黨治黨政治責任，夯實黨建基層基礎，鞏固拓展樹立和踐行正確政績觀學習教育成果，不折不扣抓好巡視整改，加大懲治問責力度，建立長效機制，深入推進黨風廉政建設和反腐敗工作，大力營造風清氣正的政治生態。（國資委）"
     },
     {
+      "id": "mkt:fdb1fdde-3c90-4f64-822c-d109ffa80f80",
+      "time": "2026-09-14 08:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 opened down 410.94 points, or 0.64%, at 63,600.40 on Monday, Sept. 14."
+    },
+    {
       "id": "5091886",
       "time": "2026-09-14 08:01:56",
       "tags": [],
       "text": "SK海力士跌5％，三星電子跌3.6％。"
+    },
+    {
+      "id": "mkt:85b4863b-f2e7-4d84-997a-789e496176ed",
+      "time": "2026-09-14 08:01:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI opened down 3.14%; SK Hynix fell 5%, Samsung Electronics fell 3.6%."
+    },
+    {
+      "id": "mkt:1d92bada-8287-4f0b-a9ab-0789721e956e",
+      "time": "2026-09-14 08:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the Kennedy Center may close as early as Tuesday; filings indicate it faces bankruptcy risk."
     },
     {
       "id": "5091885",
@@ -155,6 +264,14 @@
         "國際"
       ],
       "text": "【油價走高 沙特關鍵輸油管道關閉加劇全球能源危機】油價走高，沙特在遭遇襲擊後關閉一條在美伊衝突期間被用來繞過霍爾木茲海峽的主要輸油管道，加劇了全球能源危機。布倫特原油期貨升向每桶108美元，此前一週已大漲近9%，WTI原油期貨逼近每桶103美元。歐洲天然氣價格也出現上漲，漲幅一度高達3.8%。沙特上週五晚間表示，鑑於前一天遭遇的襲擊事件，已預防性關閉東西輸油管道。目前暫無跡象表明該管道何時能恢復執行。“歸根結底要看關閉會持續多久，” Sparta Commodities SA高階石油市場分析師June Goh表示。如果經由這條管道的石油輸送能迅速恢復，影響應該有限，因為可以動用管道西端延布港的庫存。但她補充道，如果關閉時間很長，可能會迫使減產發生。"
+    },
+    {
+      "id": "mkt:de9f0c96-74a3-41c2-b4a4-e42ef4e8db47",
+      "time": "2026-09-14 07:57:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSC Financial: Fed hike expectations priced in; gold likely to bottom and rebound】CSC Financial said in a research note that US August CPI was broadly in line with consensus while core CPI surprised higher; the rise appears driven by one-off service volatility and is unlikely to persist. After the print, markets raised the probability of a September Fed hike to 87%, leaving near-term tightening largely priced and triggering a sell-the-news move that pushed gold down then back up. The firm expects that unless the Fed signals sustained hikes, the policy headwind for gold is exhausted and the metal should bottom and rebound: a September hike would be a priced-in outcome; a pause would relieve short-term rate pressure and, combined with gold’s role as a credit hedge, support a recovery."
     },
     {
       "id": "5091879",
