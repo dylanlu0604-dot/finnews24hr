@@ -1,7 +1,87 @@
 {
   "date": "2026-09-14",
-  "count": 721,
+  "count": 729,
   "items": [
+    {
+      "id": "mkt:01a09dd8-50d8-7118-8563-aac14bb6ecc3",
+      "time": "2026-09-14 10:56:34",
+      "tags": [
+        "MKT News",
+        "06821.HK",
+        "Impact bullish",
+        "03759.HK",
+        "03347.HK"
+      ],
+      "text": "Hong Kong-listed pharma outsourcing names extended gains: 06821.HK up over 10%, 03759.HK up over 7%, 03347.HK up over 6%, 02359.HK up over 5%."
+    },
+    {
+      "id": "5092171",
+      "time": "2026-09-14 10:55:50",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本央行早盤提供現券國債出借操作。"
+    },
+    {
+      "id": "5092170",
+      "time": "2026-09-14 10:55:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:01a09dd6-a3dc-7118-8563-a412618e13d0",
+      "time": "2026-09-14 10:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Liao Min meets MAS deputy managing director Liang Xinsong】Sept 9, 2026 — Vice Finance Minister Liao Min met in Beijing with Liang Xinsong, deputy managing director of the Monetary Authority of Singapore. They exchanged views on the global and bilateral macroeconomic outlook and on fiscal-financial cooperation."
+    },
+    {
+      "id": "5092169",
+      "time": "2026-09-14 10:54:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部副部長廖岷會見新加坡金融管理局副行長梁新松】2026年9月9日，財政部副部長廖岷在北京會見新加坡金融管理局副行長梁新松，雙方就全球及兩國宏觀經濟形勢和兩國財金合作等問題交換了意見。(財政部)"
+    },
+    {
+      "id": "mkt:01a09dd5-f61f-7118-8563-9cfb98ccd5e1",
+      "time": "2026-09-14 10:54:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Japan long-term yields rise on stronger BOJ hike expectations】Japanese long-term government bond yields rose as markets priced faster Bank of Japan tightening. Strong US consumer inflation data last Friday lifted US Treasury yields and pushed Japanese yields higher. Investors are focused on Fed and Bank of Japan policy meetings later this week and monitoring Iran tensions and energy prices. The 10-year JGB yield rose 0.5 bps intraday to 2.990%."
+    },
+    {
+      "id": "5092168",
+      "time": "2026-09-14 10:53:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國將加快完善優質高效整合型醫療衛生服務體系】國家衛生健康委副主任郭燕紅介紹，就近就便看上病、看好病是群眾的願望和期待。當前，我國已建成世界上規模最大的醫療服務體系。全國有110餘萬家醫療衛生機構，90%以上的居民可以在15分鐘內到達最近醫療服務點。但是與人民群眾的需求還有差距。未來5年，要從“有”向“優”轉變，我國將加快完善優質高效整合型醫療衛生服務體系，讓更多群眾在家門口看得上病、看得好病。（央視新聞）"
+    },
+    {
+      "id": "5092167",
+      "time": "2026-09-14 10:53:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王健林甩賣HYROX：LVMH旗下投資機構接盤 估值或達47億】近日，萬達旗下公司出售了全球綜合體能賽事IPHyrox多數股權。盈方體育傳媒公司（Infront Sports & Media AG，簡稱盈方體育）9月8日釋出訊息稱，已將其在HYROX的多數股權出售，接盤方是全球最大消費投資機構L Catterton牽頭的財團。該財團的核心人物包括Hyrox兩位聯合創始人Christian Toetzke、Moritz Fürste，以及矽谷知名基金WndrCo。"
+    },
     {
       "id": "mkt:01a09dd4-9927-7118-8563-90f1f52f074d",
       "time": "2026-09-14 10:52:30",
