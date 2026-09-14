@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-15 03:33:25",
-  "count": 13600,
+  "updated": "2026-09-15 03:37:17",
+  "count": 13603,
   "items": [
+    {
+      "id": "5093835",
+      "time": "2026-09-15 03:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "默沙東： 340B 專案及相關政策的潛在變化或將帶來利好，但對業務影響有限。"
+    },
+    {
+      "id": "5093834",
+      "time": "2026-09-15 03:34:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗CFO：逾期率保持穩定。"
+    },
+    {
+      "id": "5093833",
+      "time": "2026-09-15 03:34:21",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗CFO：美國消費者韌性強勁，消費支出持續。"
+    },
+    {
+      "id": "mkt:01a0a169-9dec-7118-857e-9068d17baa35",
+      "time": "2026-09-15 03:34:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian President PEZESHKIAN said Iran opposes atrocities by Israel and the United States."
+    },
+    {
+      "id": "mkt:01a0a169-341c-7118-857e-8984690f5db6",
+      "time": "2026-09-15 03:33:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen government forces say they struck Houthi positions near Bab al‑Mandeb】Yemen armed forces told Al Jazeera they struck Houthi equipment and personnel in Dhubab and Al‑Khokha, saying the attacks targeted Houthi-held positions in both Red Sea coastal areas. Al‑Khokha is a Red Sea coastal town in southern Hodeidah province about 163 km south of Hodeidah city; Dhubab is a small Taiz coastal town on the Bab al‑Mandeb strait."
+    },
     {
       "id": "5093832",
       "time": "2026-09-15 03:32:13",
@@ -125233,22 +125278,6 @@
         "國際"
       ],
       "text": "以色列襲擊黎巴嫩南部，造成至少1人死亡、10人受傷。"
-    },
-    {
-      "id": "mkt:01a07d5e-6663-7118-84d2-e14377813428",
-      "time": "2026-09-08 03:35:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament held an in-person session attended by more than 200 MPs to discuss domestic, regional and international issues and public livelihood matters."
-    },
-    {
-      "id": "5081507",
-      "time": "2026-09-08 03:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳位列英國國王主持的人工智慧行業會議嘉賓名單。"
     }
   ]
 }
