@@ -1,7 +1,112 @@
 {
-  "updated": "2026-09-14 09:55:58",
-  "count": 13561,
+  "updated": "2026-09-14 09:59:46",
+  "count": 13567,
   "items": [
+    {
+      "id": "mkt:01a09da3-9e96-7118-8562-8dc0d8e33453",
+      "time": "2026-09-14 09:59:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "People familiar with the matter said SoftBank Group has secured $11.87 billion in financing to support its investment in OpenAI, up from a previously targeted $10 billion."
+    },
+    {
+      "id": "5092083",
+      "time": "2026-09-14 09:58:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦將於9月15日就2026年8月份國民經濟執行情況舉行新聞釋出會】國務院新聞辦公室將於2026年9月15日（星期二）上午10時舉行新聞釋出會，請國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉介紹2026年8月份國民經濟執行情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a09da3-3e58-7118-8562-85b60e03b365",
+      "time": "2026-09-14 09:58:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil most-active contract surged 10.00% intraday to 891.00 yuan/barrel."
+    },
+    {
+      "id": "5092082",
+      "time": "2026-09-14 09:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "結束愛爾蘭之行後，特朗普已回到美國本土。"
+    },
+    {
+      "id": "5092081",
+      "time": "2026-09-14 09:58:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲10%，現報891.00元。"
+    },
+    {
+      "id": "5092080",
+      "time": "2026-09-14 09:57:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲0.05%。"
+    },
+    {
+      "id": "5092079",
+      "time": "2026-09-14 09:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康：德曲妥珠單抗（ENHERTU）可降低肺癌疾病進展及死亡風險。"
+    },
+    {
+      "id": "5092078",
+      "time": "2026-09-14 09:56:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康：德曲妥珠單抗（ENHERTU）中位無進展生存期（PFS）達 14.3 個月。"
+    },
+    {
+      "id": "te:markets:583363",
+      "time": "2026-09-14 09:56:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall on AI Selloff — The Shanghai Composite fell 0.4% to 3,872 on Monday, while the Shenzhen Component dropped 0.8% to 13,370, dragged lower by AI-related stocks. Sentiment toward the sector deteriorated after several major AI firms called for a slowdown in the technology's development, casting doubt on one of the main drivers of this year's market rally. Meanwhile, Chinese President Xi Jinping proposed establishing a BRICS open-source AI community to deepen cooperation in developing and deploying large language models, highlighting Beijing's push to expand its influence as global competition over AI governance intensifies. Among the biggest decliners were Cambricon Technologies (-2.7%), SMIC (-1.4%), Zhongji Innolight (-3.9%), and Victory Giant Technology (-2.6%). On the economic front, investors are looking ahead to a slate of key economic data this week, including house prices, fixed-asset investment, industrial output, retail sales, unemployment, and FDI figures."
+    },
+    {
+      "id": "5092077",
+      "time": "2026-09-14 09:55:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌5%，現報934.00元。"
+    },
+    {
+      "id": "5092076",
+      "time": "2026-09-14 09:55:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "中藥板塊異動拉昇，精華製藥、三力製藥雙雙漲停，千金藥業、沃華醫藥、大唐藥業、生物谷跟漲。"
+    },
     {
       "id": "5092075",
       "time": "2026-09-14 09:55:26",
@@ -124512,49 +124617,6 @@
         "其他"
       ],
       "text": "【農業農村部等六部門：鼓勵保險機構按市場化原則積極自主發展農田保險、農機保險、農村居民人身保險等】農業農村部等六部門印發《堅持農業農村優先發展完善鄉村振興投入機制實施方案》。其中提到，用好保險支農政策工具。健全多層次農業保險體系，加快農業保險高質量發展。推動關係國計民生和糧食安全農產品保險發展，用好用足稻穀、小麥、玉米、大豆完全成本保險和種植收入保險政策。支援發展地方優勢特色農產品保險，穩定農戶收益。支援保險機構豐富保險產品體系，擴大涉農保險產品供給，鼓勵保險機構按市場化原則積極自主發展農田保險、農機保險、農村居民人身保險等，充分發揮保險服務農業全產業鏈建設作用。鼓勵有條件的地方降低鄉村振興重點幫扶縣農業保險縣級保費補貼承擔比例。推進農業保險精準投保理賠，鼓勵保險機構參與災害救助和應急管理體系建設，積極開展災害預警和風險減量服務，提升承保理賠服務質效。"
-    },
-    {
-      "id": "5079969",
-      "time": "2026-09-07 09:59:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部等六部門：加大對糧食主產區的利益補償力度 切實保護農民種糧和地方政府抓糧積極性】農業農村部等六部門印發《堅持農業農村優先發展完善鄉村振興投入機制實施方案》。方案提出，強化政府資金優先保障。優先保障農業農村領域一般公共預算投入，最佳化投入結構、重點和方式，按規定落實好土地出讓收入用於農業農村相關政策。加大對糧食主產區的利益補償力度，實施糧食產銷區省際橫向利益補償，完善產糧大縣獎勵政策，進一步提高財政補貼精準性，切實保護農民種糧和地方政府抓糧積極性。發揮現有資金渠道作用，積極支援農業農村重大基礎設施建設、農村人居環境整治，深入推進鄉村生態文明建設和文明鄉風建設，推動農村基本具備現代生活條件。保持中央財政常態化幫扶資金規模及省市兩級投入資金規模穩定。（農業農村部）"
-    },
-    {
-      "id": "5079968",
-      "time": "2026-09-07 09:59:36",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓元升至兩年高點 外資已連日流入韓國股市】在半導體股上漲和外資持續流入韓國基準股指的推動下，韓元週一升至近兩年以來的最高水平。韓元兌美元匯率一度上漲1.3%，至1334.70，即2024年10月以來的高位。其相對強度指數升至2013年以來的最高水平，凸顯出該貨幣的升值速度；相對強度指數是衡量動能的指標。交易所資料顯示，韓國股市週一的上漲主要由晶片製造商三星電子和SK海力士引領，外國投資者當日買入逾8,000億韓元（約5.98億美元）Kospi指數成份股，為資金連續第三個交易日流入。對韓國資產的持續需求可能進一步支撐韓元，但維持升值步伐的難度可能會增大。"
-    },
-    {
-      "id": "5079967",
-      "time": "2026-09-07 09:58:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及2001年9月11日恐怖襲擊事件，表示自己當時立刻意識到，世界再也回不到從前。特朗普稱，紐約市在這場災難性悲劇之後，恢復與重建的速度值得獲得更多肯定。"
-    },
-    {
-      "id": "5079966",
-      "time": "2026-09-07 09:56:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【減速器概念持續走強，光洋股份漲停】減速器概念持續走強，光洋股份漲停，大族鐳射、恆工精密、德恩精工、美湖股份、力星股份、瑞迪智驅等跟漲。"
-    },
-    {
-      "id": "5079965",
-      "time": "2026-09-07 09:56:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰海通：AI有望開啟遊戲行業新增長空間 關注三類受益方向】國泰海通釋出研報稱，AI對遊戲行業的影響正由研發提效延伸至玩法創新、創作平臺和AI原生遊戲，推動遊戲供給擴容與使用者價值提升。隨著模型能力提升和呼叫成本下降，AI有望開啟遊戲行業新的增長空間。關注三類受益方向。1)AI研發提效;2)AI玩法創新;3)AI創作平臺。"
     }
   ]
 }
