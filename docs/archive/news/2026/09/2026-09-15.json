@@ -1,7 +1,36 @@
 {
   "date": "2026-09-15",
-  "count": 242,
+  "count": 245,
   "items": [
+    {
+      "id": "5093859",
+      "time": "2026-09-15 04:24:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大電信公司貝爾執行長：宣佈將薩斯喀徹溫省人工智慧資料中心擴建至 1.2 吉瓦。該專案需要 500 億加元資本投入。"
+    },
+    {
+      "id": "5093858",
+      "time": "2026-09-15 04:24:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2600美元，日內漲5.46%。"
+    },
+    {
+      "id": "mkt:01a0a197-5211-7118-857f-1bd0c67db28d",
+      "time": "2026-09-15 04:24:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BCE.TO",
+        "Impact bullish"
+      ],
+      "text": "Saskatchewan Premier Moe said Canadian telecom Bell will announce an expansion of its AI data centre project in the province, increasing the project's scale to four times its original size."
+    },
     {
       "id": "5093857",
       "time": "2026-09-15 04:21:28",
