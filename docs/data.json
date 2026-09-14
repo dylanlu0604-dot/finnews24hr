@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-14 10:11:15",
-  "count": 13570,
+  "updated": "2026-09-14 10:15:05",
+  "count": 13576,
   "items": [
+    {
+      "id": "mkt:01a09db0-c4c2-7118-8562-e121c99fbb0d",
+      "time": "2026-09-14 10:13:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Chevron Australia president expects LNG prices to remain elevated over the next six months."
+    },
+    {
+      "id": "5092109",
+      "time": "2026-09-14 10:12:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【武漢擬設立總規模超10億元S基金】9月13日，武漢市委十四屆十三次全會召開，會上出臺《關於高水平建設武漢區域科技創新中心的政策措施》。措施提出，暢通S基金接力渠道。推動銀行理財、保險、信託、國企投資基金等加大S基金投資佈局，引導設立S基金總規模超10億元。"
+    },
+    {
+      "id": "5092108",
+      "time": "2026-09-14 10:12:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳今年已新增基礎教育學位1.7萬個】今年深圳將繼續擴大優質學位供給，新增基礎教育學位4萬個，其中公辦高中學位1萬個。截至8月，今年已新增基礎教育學位1.7萬個，其中公辦高中學位4000個。 據市發展改革委有關負責人介紹，“十四五”期間，深圳全力推進基礎教育百萬學位攻堅計劃，推動新增基礎教育學位超90萬個。“十五五”期間，深圳繼續推動基礎教育高水平均衡發展，多渠道擴大高中學位供給，到2030年新增公辦高中學位超10萬個。 2026年，深圳學校建設步伐有條不紊。市教育局有關負責人介紹，根據專案清單，今年深圳重點在寶安、龍崗、光明等區域補充公辦學位。（深圳釋出）"
+    },
+    {
+      "id": "mkt:01a09daf-c490-7118-8562-dc01939013cf",
+      "time": "2026-09-14 10:12:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share CPO concept stocks rebounded after choppy trading; Kexiang Co. jumped more than 14%, Diao Micro rose over 12%, while Dongtian Micro, Hengdong Guang and Zhongci Electronics also gained."
+    },
+    {
+      "id": "te:economy:583367",
+      "time": "2026-09-14 10:11:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Hovers at Multi-Year Highs — The yield on the US 10-year Treasury note stood around 4.96% on Monday, remaining near its highest levels since October 2023 as investors prepared for the upcoming Federal Reserve policy meeting and assessed the impact of surging oil prices. Markets are currently pricing in an 86% probability that the Fed will raise its policy rate by 25 basis points on Wednesday, with another rate hike expected later this year. Data released Friday showed underlying inflation came in higher than anticipated as core CPI rose 0.3% month-on-month. Higher oil prices added further inflationary pressure after Saudi Arabia shut down the critical East-West pipeline, which provides an alternative route around the Strait of Hormuz. Meanwhile, the Treasury Department’s latest buyback operation, disappointed markets, with the US government repurchasing $5.2 billion in bonds, below the $6 billion maximum and roughly half of the $10.5 billion offered in the operation."
+    },
+    {
+      "id": "5092107",
+      "time": "2026-09-14 10:11:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌5%，現報1025.00元。"
+    },
+    {
+      "id": "mkt:01a09dae-eaf7-7118-8562-d504066bf44d",
+      "time": "2026-09-14 10:11:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Semafor reported President Trump agreed to allow states to sue over violations of the Clarity Act."
+    },
+    {
+      "id": "5092106",
+      "time": "2026-09-14 10:11:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普淡化人工智慧行業減速呼聲，強調保持美國對華領先優勢】美國總統特朗普週日在訪問愛爾蘭期間，淡化了多位美國人工智慧行業領袖近期提出的放慢前沿AI能力發展、加強安全措施的呼聲，並表示不希望美國失去相對於中國的領先優勢。特朗普對記者表示，美國目前在人工智慧領域“領先中國”，他希望保持這一優勢，因為“誰在AI上獲勝，誰就贏了”。他表示可以為AI設定一些“護欄”，但沒有說明具體措施；他同時將部分警告歸因於未具名的“消極力量”，稱這些人提出了一些“不會發生的事情”。(中國日報)"
+    },
+    {
+      "id": "5092105",
+      "time": "2026-09-14 10:11:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5859.00元。"
+    },
+    {
+      "id": "5092104",
+      "time": "2026-09-14 10:10:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【康方生物在香港上漲 其依沃西單藥在試驗中的總生存期超過默沙東競品】康方生物盤初一度上漲5.8%，隨後收窄漲幅。此前公司宣佈，對比默沙東公司的帕博利珠單抗，其腫瘤免疫藥物依沃西顯著延長了中位總生存期(OS)至30.8個月，而前者為22.6個月。"
+    },
     {
       "id": "5092103",
       "time": "2026-09-14 10:10:26",
@@ -124626,44 +124715,6 @@
         "市場"
       ],
       "text": "【創新藥概念震盪反彈 德展健康3天2板】創新藥概念盤中震盪反彈，德展健康3天2板，浩歐博漲近10%，千金藥業、萬邦醫藥、博瑞醫藥、哈藥股份等跟漲。"
-    },
-    {
-      "id": "5079997",
-      "time": "2026-09-07 10:14:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【KeyBanc：預測iPhone 18 Pro將漲價150美元，維持蘋果“減持”評級】蘋果定於9月9日舉行的iPhone釋出活動，投資者的目光聚焦於定價策略，以及成本上升對需求與利潤率的潛在衝擊。KeyBanc資本市場在一份研報中指出，蘋果面臨兩難困境：若全面提價以緩解毛利率壓力，可能打擊銷量；若僅選擇性提價，則可能令市場對利潤率的審視更加嚴格，並引發對後續進一步漲價的預期。該行預測iPhone 18 Pro售價將上調150美元至1,249美元，Pro Max上調200美元至1,399美元，Fold/Ultra摺疊機型售價則預計為2,199美元。同時，該行預計iPhone 18系列在2026財年第四季及2027財年第一季的總出貨量約為8,000萬部，低於去年同期約9,100萬部。KeyBanc維持對蘋果的“減持”評級，目標價為250美元。"
-    },
-    {
-      "id": "5079996",
-      "time": "2026-09-07 10:13:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱特朗普變棕發男了】美媒稱，特朗普招牌金髮似乎消失了。據美國福克斯新聞網報道，當地時間9月4日，特朗普乘機抵達新澤西州走下舷梯時，其一貫的亮黃色大背頭不見了，髮色明顯變深，引發網上熱議：總統是不是換新發色了？有網友說：“我絕對想不到，2026年特朗普會變成棕發男。”（環球網）"
-    },
-    {
-      "id": "5079995",
-      "time": "2026-09-07 10:12:18",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【摩爾執行緒回應20cm跌停：2500萬股解禁，請理性看待】據公司證券業務人員回應新浪科技，今日為公司首發網下配售股份解禁節點，合計2500多萬股限售股上市流通，股份主要來自上市階段參與打新的公募、網下機構投資者，屬於上市後正常的資本時間節點。 公司相關人士表示，本次屬於大額網下機構配售股份解禁。面對流通盤放大帶來的市場波動，公司方面呼籲廣大投資者理性處理、理性看待本次解禁帶來的股價變化。（新浪科技）"
-    },
-    {
-      "id": "te:markets:581464",
-      "time": "2026-09-07 10:11:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Holds at 4-Month Top — The Australian dollar held above $0.72, near a four-month high as growing expectations of another interest rate hike by the Reserve Bank continued to support the currency, while the US dollar remained broadly weaker. The greenback struggled to sustain the brief lift it received from a ramp-up in US rate hike bets following Friday’s blowout US jobs report. Caution prevailed ahead of Friday’s US CPI report, which could influence expectations for the Fed’s policy path. In Australia, strong GDP growth and inflation data have increased expectations that the Reserve Bank will raise rates again at its meeting later this month. Markets are now pricing in a 66% chance of a quarter-point hike to 4.60%, up sharply from just 10% a couple of weeks ago, while the odds of a further increase to 4.85% have risen to 50%. Meanwhile, ongoing tensions in the Middle East have heightened concerns over broader inflationary pressures, raising the prospect that central banks could keep tightening policy."
     }
   ]
 }
