@@ -1,7 +1,110 @@
 {
   "date": "2026-09-14",
-  "count": 639,
+  "count": 650,
   "items": [
+    {
+      "id": "mkt:01a09db5-43cc-7118-8562-fa8a49ffa32f",
+      "time": "2026-09-14 10:18:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Doubao Mobile Assistant has launched a consumer version."
+    },
+    {
+      "id": "5092117",
+      "time": "2026-09-14 10:17:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包手機助手消費者版正式釋出】9月14日，豆包手機助手消費者版正式釋出。"
+    },
+    {
+      "id": "5092116",
+      "time": "2026-09-14 10:17:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指下跌 1%，報 6477.74 點。"
+    },
+    {
+      "id": "mkt:01a09db4-22b6-7118-8562-f3fa4ba7253d",
+      "time": "2026-09-14 10:17:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share CRO sector rallied; Yingnuo Laser and Wanbang Pharma rose over 12%, with Jin'an Protein, Aopumai, Chengdu Xiandao, Medicilon and Hongbo Pharma also gaining."
+    },
+    {
+      "id": "mkt:01a09db3-753f-7118-8562-eef67a6e0315",
+      "time": "2026-09-14 10:16:18",
+      "tags": [
+        "MKT News",
+        "ITA.O",
+        "Impact bullish",
+        "XAR.O"
+      ],
+      "text": "President Trump said the US is working to replenish and expand weapons production to strengthen US defense industrial capacity."
+    },
+    {
+      "id": "5092115",
+      "time": "2026-09-14 10:16:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，美國正致力於補充庫存並擴大武器生產，意在釋放訊號，美方將著力強化美國國防制造能力。"
+    },
+    {
+      "id": "5092114",
+      "time": "2026-09-14 10:15:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊短線拉昇】CRO概念板塊短線拉昇，英諾鐳射、萬邦醫藥漲超10%，近岸蛋白、奧浦邁、成都先導、美迪西、泓博醫藥等跟漲。相關ETF方面，生物醫藥ETF天弘（159859）漲1.33%，成交額4771.95萬元，生物醫藥ETF匯添富（159839）漲1.15%，成交額1266.32萬元。"
+    },
+    {
+      "id": "5092113",
+      "time": "2026-09-14 10:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南 VN 指數開盤基本持平，報 1795.21 點。"
+    },
+    {
+      "id": "te:markets:583371",
+      "time": "2026-09-14 10:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "TE Soft Index Hits 4-week Low — TE Soft Index decreased to 49.36 Index Points, the lowest since August 2026. Over the past 4 weeks, TE Soft Index lost 1.16%, and in the last 12 months, it decreased 10.83%."
+    },
+    {
+      "id": "5092112",
+      "time": "2026-09-14 10:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南12市縣釋出停課通知】受熱帶低壓殘渦和冷空氣共同影響，9月14日，海南島中部、東部、西部和南部地區有暴雨到大暴雨，北部地區有中到大雨。第一財經記者根據“海南釋出”梳理發現，截至9月14日記者發稿時，海南12市縣釋出停課通知。具體包括三亞、定安、臨高、樂東、五指山、陵水、瓊海、保亭、瓊中、萬寧、屯昌、白沙發布停課通知。當天上午，有海南居民告訴記者，大雨已經連續下了兩三天了。據海南省氣象局，11日起海南島南半部地區已有400～600毫米降雨，14日仍有100～150毫米、局地200毫米降雨。9月13日海南啟動防汛防風二級應急響應。另據“海南釋出”14日訊息，目前，國家防總已啟動海南防汛四級應急響應，三亞、東方、陵水多地水庫陸續開啟預洩、排洪作業，全面築牢防汛安全線。（第一財經）"
+    },
+    {
+      "id": "te:markets:583370",
+      "time": "2026-09-14 10:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Drops by 0.35% — Top currency losers are New Zealand Dollar (-0.35%), South Korean Won (-0.22%) and Japanese Yen (-0.12%). Meanwhile Chinese Yuan was little changed."
+    },
     {
       "id": "mkt:01a09db0-c4c2-7118-8562-e121c99fbb0d",
       "time": "2026-09-14 10:13:22",
