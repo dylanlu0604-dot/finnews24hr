@@ -1,7 +1,147 @@
 {
   "date": "2026-09-14",
-  "count": 1308,
+  "count": 1322,
   "items": [
+    {
+      "id": "mkt:01a09ef6-491a-7118-856b-f7656582bfcd",
+      "time": "2026-09-14 16:08:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong close: Hang Seng Index rose 0.45%; Hang Seng Tech Index fell 0.06%. Hansoh Pharmaceutical (03692.HK) rose about 5%; Zhipu (02513.HK) fell about 9%; Huahong Hongli (01347.HK) fell more than 4%."
+    },
+    {
+      "id": "5092695",
+      "time": "2026-09-14 16:08:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期金邊債券收益率觸及1998年3月以來新高，報5.9506%，當日收盤累計上漲2個基點。"
+    },
+    {
+      "id": "mkt:01a09ef5-ee87-7118-856b-eb9d161eddaf",
+      "time": "2026-09-14 16:08:32",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Germany's Economy Ministry said at the start of Q3 previously fairly strong economic momentum slowed."
+    },
+    {
+      "id": "5092694",
+      "time": "2026-09-14 16:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "檔案顯示：東芝將其所持鎧俠控股有限公司的股份從14.06%減持至12.84%。"
+    },
+    {
+      "id": "5092693",
+      "time": "2026-09-14 16:07:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【普洛藥業：全資子公司布立西坦片獲美國FDA批准】普洛藥業公告稱，公司全資子公司浙江普洛巨泰藥業有限公司收到美國FDA通知，其申報的布立西坦片簡略新藥申請（ANDA）已獲得批准。該藥品為片劑，規格包括25mg、50mg、100mg，主要用於治療癲癇部分性發作，生產企業為浙江普洛康裕製藥有限公司。2025年布立西坦片在美國市場的銷售額約為8.23億美元。本次獲批標誌著公司具備在美國市場銷售該產品的資格，對公司經營發展有一定積極作用。"
+    },
+    {
+      "id": "5092692",
+      "time": "2026-09-14 16:07:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部在月度報告中表示：第三季度初，此前相當強勁的經濟增長動能正出現放緩。"
+    },
+    {
+      "id": "5092691",
+      "time": "2026-09-14 16:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【譽辰智慧：累計回購股份比例達2.18%】譽辰智慧公告稱，公司本次回購方案實施期限為2026年7月24日至2027年7月23日，擬使用1500萬元-3000萬元超募資金以集中競價方式回購股份，用於員工持股計劃或股權激勵，回購價格不超過46.28元/股。截至2026年9月11日，本次回購累計成交17.59萬股，佔總股本0.31%，累計支付金額553.86萬元，回購價區間30.41元/股-33.5元/股。疊加2025年5月已實施完畢的前次回購，公司累計回購股份122.12萬股，佔總股本比例為2.18%。"
+    },
+    {
+      "id": "mkt:01a09ef5-2da5-7118-856b-e58f55f69018",
+      "time": "2026-09-14 16:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's foreign ministry says regional states must face reality on maritime security】Iran's foreign ministry said maritime security and freedom of sea trade must be guaranteed for all and that no country should attack or impose naval blockades while simultaneously demanding to act as a guardian of shipping. It urged regional states to face reality, stop shirking responsibility and making unfounded accusations, and warned that repeating charges can lead accusers to believe them and misjudge solutions if they genuinely want to resolve the problem."
+    },
+    {
+      "id": "5092690",
+      "time": "2026-09-14 16:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬豐奧威：2026年半年度每10股派發現金紅利1.5元】萬豐奧威公告稱，公司2026年半年度權益分派方案已獲股東會審議透過，以總股本21.23億股為基數，向全體股東每10股派發現金紅利1.5元（含稅），合計派發現金3.18億元，不送紅股，不以公積金轉增股本。本次權益分派股權登記日為2026年9月21日，除權除息日為2026年9月22日。"
+    },
+    {
+      "id": "mkt:01a09ef4-c178-7118-856b-dfe66987b62d",
+      "time": "2026-09-14 16:07:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bearish",
+        "AMAT.O",
+        "AVGO.O"
+      ],
+      "text": "U.S. chip-related stocks fell in premarket trade after leaders in the artificial intelligence field called for slowing AI development. Micron Technology (MU.O) fell 4.4%, Applied Materials (AMAT.O) fell 4.6% and Broadcom (AVGO.O) fell 3%."
+    },
+    {
+      "id": "5092689",
+      "time": "2026-09-14 16:06:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲交易所<ENX.PA>執行長布伊納重啟與德意志交易所的合併談判，訊息傳出後，德意志交易所<DB1Gn.DE>股價上漲2.8%，漲幅領跑德國藍籌股指數<.GDAXI>。"
+    },
+    {
+      "id": "mkt:01a09ef3-a8e9-7118-856b-d41899c41ce4",
+      "time": "2026-09-14 16:06:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "MRVL.O",
+        "Impact bearish",
+        "INTC.O",
+        "AMD.O"
+      ],
+      "text": "In U.S. premarket trade, NVIDIA (NVDA.O) fell 2%, AMD (AMD.O) fell 4.1%, Intel (INTC.O) fell 4.9% and Marvell (MRVL.O) fell 5.5%."
+    },
+    {
+      "id": "mkt:01a09ef3-4375-7118-856b-cbc7945994f5",
+      "time": "2026-09-14 16:05:37",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact mixed",
+        "HLAG.DE"
+      ],
+      "text": "Maersk and Hapag-Lloyd announced structural adjustments to four twin services: AE5, AE11, AE12 and ME2."
+    },
+    {
+      "id": "5092688",
+      "time": "2026-09-14 16:05:37",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國晶片相關企業股價盤前下跌】在美國人工智慧領軍者呼籲放緩技術發展後，美國晶片相關企業股價盤前下跌。英偉達股價下跌2%，超威半導體下跌4.1%，英特爾下跌4.9%，美滿電子科技下跌5.5%。美光科技下跌4.4%，應用材料下跌4.6%，博通下跌3%。"
+    },
     {
       "id": "mkt:01a09ef2-e6a0-7118-856b-c01788793e50",
       "time": "2026-09-14 16:05:13",
