@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-15 04:30:26",
-  "count": 13612,
+  "updated": "2026-09-15 04:34:22",
+  "count": 13615,
   "items": [
+    {
+      "id": "mkt:01a0a1a0-23dd-7118-857f-39d0708d8b52",
+      "time": "2026-09-15 04:33:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters/Ipsos poll shows U.S. President Trump's approval rating rose from a presidential-term low to 35%."
+    },
+    {
+      "id": "5093860",
+      "time": "2026-09-15 04:33:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱攔截兩批沙特戰機編隊】當地時間14日，葉門胡塞武裝發言人葉海亞·薩雷亞稱，當天，胡塞武裝防空部隊在葉門薩達省上空攔截兩批沙特戰機編隊。葉海亞稱，兩批戰機分別為“颱風”戰機和F-15戰機，從沙特海米斯穆謝特和塔伊夫的空軍基地起飛。葉海亞稱，胡塞武裝使用數枚自制防空導彈對上述戰機實施攔截，並“迫使其撤退返航”。沙特方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a1a0-1a21-7118-857f-315ed36da0d8",
+      "time": "2026-09-15 04:33:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows Democrats lead Republicans 44% to 37% among unaffiliated voters on the congressional ballot."
+    },
+    {
+      "id": "mkt:01a0a19e-9950-7118-857f-293c4a66a5e9",
+      "time": "2026-09-15 04:32:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Trump said people who claim AI will destroy the world and who oppose data-center construction are the same people who previously warned about climate change and are trying to impede AI development."
+    },
     {
       "id": "mkt:01a0a199-d181-7118-857f-21489c5dad4e",
       "time": "2026-09-15 04:26:47",
@@ -125371,14 +125405,6 @@
         "國際"
       ],
       "text": "【特朗普釋出“擴張版美國地圖”：南至中美洲 東至歐洲冰島】美國總統特朗普當地時間週一在社交平臺釋出了一張地圖，將美國國旗圖案覆蓋在美國、加拿大、墨西哥、中美洲大部分地區、格陵蘭島、冰島、古巴和牙買加等加勒比島嶼上。特朗普此前曾提出要取得加拿大、格陵蘭島和巴拿馬運河的主權，但此次地圖將墨西哥和部分加勒比國家納入其中較為少見。此前一天，特朗普還發布一張將新墨西哥州改標為“新美國”的地圖。"
-    },
-    {
-      "id": "5081529",
-      "time": "2026-09-08 04:34:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：不會在現場階段判定事故可能原因。"
     }
   ]
 }
