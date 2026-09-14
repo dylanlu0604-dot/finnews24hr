@@ -1,7 +1,19 @@
 {
   "date": "2026-09-15",
-  "count": 235,
+  "count": 236,
   "items": [
+    {
+      "id": "mkt:01a0a18c-b993-7118-857e-fb4dcb7557a0",
+      "time": "2026-09-15 04:12:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US military says Iran claim that tanker struck a mine is false】CENTCOM said Iran’s Islamic Revolutionary Guard Corps’ claim that the Panama-flagged tanker ElGaia struck a mine in the Strait of Hormuz is false. CENTCOM said ElGaia was struck by Iranian missiles last month and lost propulsion, and was attacked again by Iranian drones while anchored off Oman this weekend. The tanker is currently under tow by regional partners. CENTCOM called the IRGC statements another example of \"lies and intimidation\" aimed at impeding merchant transit through the Strait of Hormuz."
+    },
     {
       "id": "5093855",
       "time": "2026-09-15 04:09:43",
