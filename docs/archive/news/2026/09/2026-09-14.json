@@ -1,7 +1,63 @@
 {
   "date": "2026-09-14",
-  "count": 397,
+  "count": 402,
   "items": [
+    {
+      "id": "te:markets:583343",
+      "time": "2026-09-14 08:54:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Remains Under Pressure — Silver struggled near $64 an ounce on Monday after declining for three straight weeks, weighed down by surging oil prices and bets on tighter Federal Reserve monetary policy. Oil prices jumped toward four-month highs on Monday after Saudi Arabia closed a key pipeline that was used to bypass the Strait of Hormuz following drone attacks. The protracted Middle East crisis has delivered an inflationary jolt to the global economy, reinforcing a hawkish outlook on interest rates. Markets are currently pricing in around an 86% chance that the Fed will raise its policy rate by 25 basis points on Wednesday. Data on Friday showed US consumer inflation steadied at 3.4% in August, the same as in July and in line with forecasts, while monthly CPI rose 0.4%, the strongest increase in three months. US producer prices also accelerated in August as the Iran war pushed wholesale energy costs higher, while labor market data pointed to continued resilience in employment."
+    },
+    {
+      "id": "5091949",
+      "time": "2026-09-14 08:53:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股通標的證券名單發生調整並自2026年09月14日起生效】中國創盈市場服務有限公司公告，港股通標的證券名單發生調整並自2026年09月14日起生效，調入偉祿科技股份（02922），調出偉祿科技股份（01196）。"
+    },
+    {
+      "id": "mkt:01a09d67-6380-7118-8560-ea3e851630bf",
+      "time": "2026-09-14 08:53:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Global markets face multiple potential risk events】Fed Chair Kevin Warsh is expected to back the Fed's first rate hike at the upcoming policy decision. Up to 30 mln barrels of Middle East oil shipments are at risk. US diesel prices have jumped 80% as the peak demand season begins. Corporate earnings are in one of the strongest growth periods on record. Major tech CEOs have united in support of AI regulation, while Trump has rejected their calls."
+    },
+    {
+      "id": "5091948",
+      "time": "2026-09-14 08:51:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本股市日經指數下跌 受AI發展相關警告和油價飆升影響】半導體股拖累日本股市日經225指數走低，此前一些主要人工智慧AI公司呼籲放緩這種技術的開發。此外，油價上漲也對市場情緒造成了壓力。日經指數下跌1.9%至62,797.96；東證指數上漲0.1%至4,031.21。“目前投資者持謹慎態度，因為AI發展會放緩到何種程度仍不明朗。”大和證券首席策略師Yugo Tsuboi表示，“AI投資增速放緩的時間可能比之前預期要來的早一些。”"
+    },
+    {
+      "id": "5091947",
+      "time": "2026-09-14 08:51:09",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：原油市場成了懸在黃金頭頂的達摩克利斯之劍】沙特東西向輸油管道遭無人機襲擊停運，港口庫存僅能維持5至7天出口。若無法及時修復，全球原油將面臨約4%的供應缺口。在修復週期不明且中東能源出口本已低迷的背景下，全球燃油價格進一步攀升，原油市場成了懸在黃金頭頂的達摩克利斯之劍，黃金承壓回落。建議繼續關注中東地緣政治的變化，耐心等待油價上行對黃金的衝擊結束。（中金財富期貨）"
+    },
     {
       "id": "5091946",
       "time": "2026-09-14 08:50:17",
