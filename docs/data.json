@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-14 10:38:11",
-  "count": 13589,
+  "updated": "2026-09-14 10:41:57",
+  "count": 13587,
   "items": [
+    {
+      "id": "5092156",
+      "time": "2026-09-14 10:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行接入豆包手機助手】9月14日，豆包手機助手消費者版正式上線釋出。隨後，曹操出行宣佈作為出行板塊的首個服務方接入，打通出行服務與AI端側生態，為使用者提供AI打車服務。"
+    },
+    {
+      "id": "5092155",
+      "time": "2026-09-14 10:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行副行長亨特：擔憂燃油價格上行趨勢。"
+    },
+    {
+      "id": "mkt:01a09dc9-5c03-7118-8563-5edcf0eb2282",
+      "time": "2026-09-14 10:40:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Korea Electric Power Corp's KRW25 trillion prepaid power plan rejected by Samsung, SK Hynix】Samsung Electronics and SK Hynix rejected a Korea Electric Power Corp (KEPCO) proposal for prepaid power totaling about KRW25 trillion — roughly five years of bills — intended to fund grid upgrades for a new technology cluster, foreign media report. KEPCO said a spokesperson via text that the two companies ultimately declined the offer. Local reports said the chipmakers cited uncertainty that the current semiconductor boom will persist over a five-year prepayment horizon. The dispute underscores funding strains for Asian utilities as electricity demand from semiconductors and AI rises."
+    },
+    {
+      "id": "5092154",
+      "time": "2026-09-14 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨賣出超8億】截至目前，今日主力資金淨流出21.88億；淨流入中盤、新材料、小盤股等板塊，其中中盤板塊淨流入31.03億；淨流出融資融券、大盤、MSCI中國等板塊，其中融資融券板塊淨流出47.42億。\n  \n個股方面，黃河旋風淨買入9.24億元位居首位，蓮花控股、華正新材、天通股份主力資金淨流入居前；長鑫科技淨賣出8.36億元位居首位，遠東股份、兆易創新、亨通光電淨流出額居前。"
+    },
+    {
+      "id": "5092153",
+      "time": "2026-09-14 10:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行副行長亨特：澳大利亞地區失業率優於城市。"
+    },
+    {
+      "id": "mkt:01a09dc8-3251-7118-8563-55411f0c7cfc",
+      "time": "2026-09-14 10:38:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Market sources: Samsung Electronics and SK Hynix have rejected Korea Electric Power Corporation's (KEPCO) proposal requiring them to prepay power bills to help finance grid upgrades serving new-technology industrial clusters."
+    },
+    {
+      "id": "5092152",
+      "time": "2026-09-14 10:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行副行長亨特：澳大利亞區域住房市場表現好於城市。"
+    },
+    {
+      "id": "mkt:01a09dc7-d8ae-7118-8563-4f731a6936ac",
+      "time": "2026-09-14 10:38:35",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Humanoid-robot-themed A-shares staged a volatile rebound; Jinghua Xincai hit the daily up-limit, Hangzhou Kelin and Hengbo rose over 10%, Zhejiang Rongtai, Beizi Technology and Shangwei New Materials also advanced."
+    },
+    {
+      "id": "te:markets:583373",
+      "time": "2026-09-14 10:38:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Holds Near 7-Month High — The Japanese yen eased toward 154 per dollar on Monday but remained close to its highest levels since February, supported by expectations for more aggressive policy tightening by the Bank of Japan, the unwinding of carry trades and signs of increased asset repatriation by domestic investors. The BOJ is widely expected to raise its policy rate to 1.25% on Friday, its highest level since April 1995, as the central bank addresses persistent upside risks to prices. Markets are also watching for BOJ guidance on the possibility of another rate hike later this year. Meanwhile, US Treasury Secretary Scott Bessent has repeatedly urged the BOJ to pursue more aggressive policy tightening to prevent excessive yen weakness. Investors also monitored developments in the Middle East as oil prices surged again following Saudi Arabia’s shutdown of the critical East-West pipeline, which bypasses the Strait of Hormuz."
+    },
     {
       "id": "5092151",
       "time": "2026-09-14 10:37:39",
@@ -124741,106 +124828,6 @@
         "國際"
       ],
       "text": "【IFA變得“太中國化”了嗎？IFA CEO正面回應】當地時間9月4日至8日，2026年柏林國際消費電子展（IFA）在德國柏林舉行。新浪科技《歐陸志》在展會現場對話IFA執行長萊夫·林德納（Leif Lindner）。今年展會上，一個尤其明顯的變化是：中國企業的存在感越來越強。有一種說法是，中國企業佔所有參展企業比例近五成，在IFA中的權重越來越高。“IFA是不是變得太中國化了？”面對這一頗具爭議的問題，林德納對新浪科技《歐陸志》回應說：“我們不在乎創新來自哪裡，我們只是在反映市場現實。” 他表示，IFA的使命就是將全球市場上最好的創新帶到柏林。“六年前，很多創新來自韓國；20年前，很多創新來自日本。如果明年大部分創新來自馬來西亞，也完全沒有問題。”（新浪科技）"
-    },
-    {
-      "id": "5080045",
-      "time": "2026-09-07 10:41:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受AI繁榮利好預期帶動，馬來西亞8月債券外資流入創歷史新高】得益於市場看好人工智慧熱潮對東南亞經濟的拉動效應，馬來西亞8月債券吸引創紀錄外資流入。馬來西亞國家銀行資料顯示，外國投資者合計買入39億美元馬來西亞國債及企業債，為2016年有統計以來單月最高流入規模。"
-    },
-    {
-      "id": "te:markets:581473",
-      "time": "2026-09-07 10:41:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Equities Trade Higher Despite Volcano Disruptions — Indonesian stocks rose 30 points, or 0.4%, to 6,662 in early trading on Monday, rebounding from the prior decline as healthcare, energy, and infrastructure sectors lifted sentiment. Support came from government signals that the Free Nutritious Meals program budget could be trimmed below IDR 200 trillion in 2027, seen as a prudent fiscal step. However, upside was limited by a sharp drop in U.S. futures with Wall Street shut Monday for a holiday. Locally, concerns lingered over natural disasters, including Mount Anak Krakatau’s eruptions over the weekend, which heavily disrupted air travel and affected 170,000 people. Traders also stayed cautious ahead of key domestic releases this week, notably August forex reserves, consumer sentiment, and July retail sales. In main trading partner China, CPI and PPI data will also be due in the coming days, along with trade performance. Notable movers included Adaro Andalan (5.1%), Bukit Asam (4.9%), Kalbe Farma (3.2%), and United Tractor (2.6%)."
-    },
-    {
-      "id": "5080044",
-      "time": "2026-09-07 10:40:53",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【工信部：10月下旬將在浙江杭州舉辦首屆歷史經典產業博覽會】工業和資訊化部副部長謝遠生在國新辦新聞釋出會上表示，今年是“十五五”開局之年，工業和資訊化部將會同有關部門，科學謀劃推動歷史經典產業發展政策舉措，認真組織落實《關於推動歷史經典產業高質量發展的意見》以及近期已出臺的釀酒、茶、中藥等產業提質升級政策檔案，積極探索推動歷史經典產業高質量發展的創新路徑。今年10月下旬，將在浙江杭州舉辦首屆歷史經典產業博覽會，系統展現歷史經典產業創新發展成果。"
-    },
-    {
-      "id": "te:markets:581472",
-      "time": "2026-09-07 10:40:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Retreat — The Hang Seng Index fell about 0.9%, or 226 points, to open at 25,428 on Monday, retreating from a two-week high in the previous session, weighed down by declines in the financials, technology, and energy minerals sectors. Investors also turned cautious following stronger-than-expected US jobs data, which boosted expectations for a Federal Reserve rate hike this month. Meanwhile, China’s August trade balance is due later this week, with the trade surplus expected to rise to $120.1 billion from $101.1 billion a year earlier and $112.5 billion in July, offering fresh clues on external demand and the strength of the broader Chinese economy. Xiaomi shares fell 3.9%, despite remaining in focus after raising prices on some smartphone models and continuing its Class B share repurchases. Tencent (-0.5%), Lenovo (-1.9%), Meituan (1.8%), and AIA Group (-0.3%) were among the notable losers. On the upside, MiniMax (6.9%), Kingboard Laminates (5.7%), and Semiconductor Manufacturing (1.2%) gained."
-    },
-    {
-      "id": "5080043",
-      "time": "2026-09-07 10:40:07",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "菲律賓財政部長：若外匯波動超出合理區間，菲律賓央行將出手干預。"
-    },
-    {
-      "id": "5080042",
-      "time": "2026-09-07 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：中際旭創淨買入超40億】截至目前，今日主力資金淨流入209.21億；淨流入晶片概念、5G、CPO概念等板塊，其中晶片概念板塊淨流入235.84億；淨流出人工智慧、DeepSeek概念、數字經濟等板塊，其中人工智慧板塊淨流出44.58億。\n  \n個股方面，中際旭創淨買入40.77億元位居首位，長鑫科技、新易盛、東山精密主力資金淨流入居前；浪潮資訊淨賣出5.32億元位居首位，中國船舶、海光資訊、東方財富淨流出額居前。"
-    },
-    {
-      "id": "5080041",
-      "time": "2026-09-07 10:39:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2028年塑造100箇中國消費名品】國務院新聞辦公室今天上午（9月7日）舉行新聞釋出會，工業和資訊化部、商務部、文化和旅遊部和市場監管總局有關負責人表示將多措並舉，推動歷史經典產業高質量發展。歷史經典產業是指絲綢、茶葉、瓷器、中藥、釀造、工藝美術、文房四寶等文化底蘊深厚的中華傳統特色產業，是中華文明的智慧結晶和民族瑰寶。工業和資訊化部近日會同多部門聯合印發的《關於推動歷史經典產業高質量發展的意見》提出：到2028年，培育50家百億規模龍頭企業，塑造100箇中國消費名品，打造若干千億級規模特色產業叢集。到2030年，培育形成一批世界一流企業和知名品牌，推動歷史經典產業邁向全球價值鏈中高階。工業和資訊化部黨組成員、副部長謝遠生表示，目前正在依託打造中國消費名品方陣等方式梳理全國曆史經典產業資源，編制產業分佈地圖，鼓勵地方加快培育特色優勢產區。同時，支援在重點商圈、城市文化客廳等場所開設經典名品展示展銷專區。（央視新聞）"
-    },
-    {
-      "id": "5080040",
-      "time": "2026-09-07 10:39:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥格理：首予滴普科技“跑贏大市”評級及目標價62港元】麥格理髮表報告，首次覆蓋滴普科技，予其“跑贏大市”評級，目標價62港元。該行指，DeepexiOS已成為增長引擎，公司正由專案制解決方案商，演進為可規模化的企業AI作業系統及智慧體基礎設施平臺。DeepexiOS於今年上半年收入同比增長209%，佔集團收入近八成。該行預測2026至2028年收入複合年增長率達79%，每股盈利複合年增長率料達261%。"
-    },
-    {
-      "id": "5080039",
-      "time": "2026-09-07 10:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本首相高市早苗內閣改組擬優先考慮延續性】日本首相高市早苗將進入執政的第二年，其似乎計劃在即將到來的9月內閣改組中優先考慮人員連續性，一些關鍵職位將保持不變。財務大臣片山皋月、防衛大臣小泉進次郎和外務大臣茂木敏充等主要大臣很可能留任。"
-    },
-    {
-      "id": "5080038",
-      "time": "2026-09-07 10:38:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量12億元。"
-    },
-    {
-      "id": "5080037",
-      "time": "2026-09-07 10:38:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "上海寶龍實業發展(集團)有限公司公告稱，公司6筆標的債券重組議案已獲持有人會議表決透過，本次資產抵債有效申報金額未達約定的5億元，公司決定不實施本次資產抵債，相關抵債信託不會設立，申報債權人可參與後續重組其他選項。"
     }
   ]
 }
