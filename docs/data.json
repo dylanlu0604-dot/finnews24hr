@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-15 07:22:18",
-  "count": 13662,
+  "updated": "2026-09-15 07:26:09",
+  "count": 13666,
   "items": [
+    {
+      "id": "te:markets:583631",
+      "time": "2026-09-15 07:25:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Edges Higher on Supply Uncertainty — Crude oil edged higher to around $102 per barrel on Tuesday following a volatile start to the week, as investors continued to navigate heightened uncertainty over global supply. Saudi Arabia’s East-West pipeline, which provides an alternative route to the Strait of Hormuz, remains shut following drone attacks, with no clear indication of when operations will resume. A diplomatic meeting between Iran and the Gulf Arab states to discuss the situation in Hormuz was also abruptly postponed. Meanwhile, Iran claimed that a supertanker attempting to enter a restricted area in Hormuz exploded after striking mines, while maintaining that it would not engage in talks with the US until its demands are met. In Eastern Europe, President Zelenskyy said Ukraine is prepared to halt attacks on Russian energy targets if Russia does the same, contradicting US President Trump’s claim that Moscow and Kyiv had already agreed to suspend strikes against each other’s energy infrastructure."
+    },
+    {
+      "id": "5093968",
+      "time": "2026-09-15 07:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月末人民幣貸款餘額同比增長4.9%，金融“五篇大文章”領域貸款增量佔比超七成】中國人民銀行9月14日釋出的金融統計資料包告顯示，8月末，廣義貨幣（M2）餘額、社會融資規模存量、人民幣各項貸款餘額分別同比增長7.5%、7.2%和4.9%，增速較前一個月有所回落。 業內專家認為，債券、股票等融資渠道持續發力，多元融資結構更好適配經濟轉型需求。當前的貸款增速放緩也並非信用收縮，貸款利率維持在歷史低位，反映企業和居民合理信貸需求基本得到保障；金融“五篇大文章”領域貸款增量佔各項貸款增量超七成，則表明信貸增長轉向提質發展。（上海證券報）"
+    },
+    {
+      "id": "5093967",
+      "time": "2026-09-15 07:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外資瞄準中國ETF市場 多路機構加碼佈局】中國ETF盛宴正酣，機構投資者爭相“入席”。據報道，美國量化交易巨頭Susquehanna International Group（SIG）正計劃將其在香港的辦公空間擴大，以便於更好地進入中國ETF市場。與此同時，今年以來長線配置的保險資金、銀行理財，以及以券商、二級私募、信託為代表的靈活型機構資金，密集現身ETF市場。私募排排網統計資料顯示，上半年近百傢俬募旗下產品現身同期成立的ETF前十大持有人名單。易方達基金6月在中國證券投資基金業協會刊發的分析報告顯示：截至2025年末，險資持有權益類ETF規模近3700億元；2022年一季度末至2026年一季度末，銀行理財資金配置被動權益類基金佔比更是增逾1倍。在業內人士看來，機構競逐ETF的背後，是ETF從機構底倉配置到觀點表達的角色遷移。這是資金需求與市場供給的“雙向奔赴”。（上海證券報）"
+    },
+    {
+      "id": "5093966",
+      "time": "2026-09-15 07:24:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價小幅上漲 關注沙特管道關閉後的原油運輸量】由於交易員權衡中東供應，油價小幅走高，此前一條關鍵的沙烏地阿拉伯輸油管道在遇襲後仍處於停運狀態。WTI原油期貨週一上漲逾1%後，週二繼續攀升至每桶102美元附近，而布倫特原油期貨收盤價則高於105美元。作為霍爾木茲海峽關鍵替代路線的沙烏地阿拉伯東西向輸油管道上週已關閉，沙特阿美尚未透露中斷將持續多久。不過，據一位知情人士透露，利雅得目前正尋求增加經霍爾木茲海峽的原油運輸量。"
+    },
+    {
+      "id": "5093965",
+      "time": "2026-09-15 07:23:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：特朗普最資深的顧問們一直試圖說服他使用行政權力來遏制AI 但均告失敗】據報道，數月來，特朗普的核心顧問一直試圖勸說他動用行政權力管控人工智慧，但始終未能成功。白宮科技政策辦公室的邁克爾・克拉西奧斯今年夏天起草了一份行政令草案，擬參照金融業監管局（FINRA）設立人工智慧監管機構。但在扎克伯格與特朗普通話後，這份行政令草案已擱置數週。特朗普今日多次稱，有關人工智慧風險的擔憂是一場 “騙局”。 一名政府官員表示，目前白宮正推動各大人工智慧實驗室合作，對其模型開展審計。一名白宮官員稱：“特朗普總統已明確表態，希望鞏固美國在人工智慧領域的主導地位，本屆政府致力於兌現這一承諾，同時保障美國安全。”"
+    },
+    {
+      "id": "5093964",
+      "time": "2026-09-15 07:22:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國加州在《清潔空氣法》豁免權之爭中取得第二次勝利】近日，美國一名聯邦法官裁定，美國環境保護署（EPA）必須撤銷其將授予加州的兩項《清潔空氣法》豁免權重新歸類為“規則”而非“命令”的決定。該裁決出臺之際，國會正推進投票，試圖利用《國會審查法》（CRA）推翻這些豁免權。眾議院計劃於本週二和週四分別就8月份提出的兩項旨在撤銷這些豁免權的決議進行投票。法官的命令要求EPA“撤回或糾正”其將這些命令重新歸類為規則的舉動，並“在所有公開宣告中”予以糾正，同時禁止該機構讓這些重新歸類生效。"
+    },
     {
       "id": "5093963",
       "time": "2026-09-15 07:20:48",
@@ -125813,24 +125866,6 @@
         "WTI"
       ],
       "text": "【Canada's equal-value retaliatory tariffs on U.S. goods take effect Sep 8】Canada's retaliatory tariffs on U.S. imports take effect Sep 8 local time, Ottawa said. The measures target C$27.6 bln (~$20 bln) of U.S. goods, including steel and aluminum, dairy, appliances and agricultural equipment. Ottawa says the total value of affected U.S. goods matches the value of U.S. 50% tariffs on Canadian goods, calling the move \"equal, reciprocal\" retaliation."
-    },
-    {
-      "id": "mkt:01a07e30-db6a-7118-84d4-1f8ca9419332",
-      "time": "2026-09-08 07:25:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Sources: Intel plans another 10% CPU price hike in early October】Supply-chain sources say Intel has been raising PC CPU prices over the past year and is tentatively planning a further 10% increase in early October. The move, despite a forecast modest decline in the PC market in 2027, signals a priority on boosting gross margins rather than sacrificing price for share. Suppliers warn that using low-margin thresholds to cull products could force some SKUs out of the market; any freed demand may create opportunities for Arm-based vendors such as MediaTek and Qualcomm, especially in industrial PC (IPC), edge computing and IoT where Arm SoCs offer higher integration and lower power consumption."
-    },
-    {
-      "id": "5081604",
-      "time": "2026-09-08 07:24:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普再度就美伊衝突發聲：勝利後全美油價將“斷崖式下跌”最終會跌至2美元以下】美國總統唐納德·特朗普（Donald Trump）今日在社交媒體平臺 Truth Social 上發表強硬言論，對正在進行的美伊衝突以及全球能源市場前景做出高調預測。特朗普稱，在美國贏得與伊朗的戰爭後，全球油價及全美零售汽油價格將迎來“斷崖式下跌”，最終甚至會跌破每加侖2美元關口。特朗普在帖文中寫道：“當我們贏得與伊朗的戰爭時，油價將會斷崖式下跌，就像其他所有東西都在下跌一樣（但跌得更多！）。油價將先降到每加侖3美元，最終會跌到2美元以下。這一切都將迅速發生，而且伊朗永遠不會擁有核武器。MAGA！”"
     }
   ]
 }
