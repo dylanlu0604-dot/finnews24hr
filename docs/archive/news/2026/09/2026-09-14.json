@@ -1,7 +1,120 @@
 {
   "date": "2026-09-14",
-  "count": 729,
+  "count": 742,
   "items": [
+    {
+      "id": "mkt:01a09ddc-375b-7118-8563-cf7bbe8cf7c5",
+      "time": "2026-09-14 11:00:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan offered a cash JGB lending operation in early trading."
+    },
+    {
+      "id": "5092180",
+      "time": "2026-09-14 11:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "新國標釋出，進一步健全智慧網聯汽車軟體安全治理體系。（大灣區之聲）"
+    },
+    {
+      "id": "mkt:01a09ddb-e1ce-7118-8563-c05a5f11056c",
+      "time": "2026-09-14 11:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNPC chairman Dai Houliang meets India petroleum minister Puri in New Delhi】On Sept 11 in New Delhi, China National Petroleum Corp (CNPC) chairman Dai Houliang met India's petroleum and natural gas minister Puri to discuss deepening cooperation. Dai said CNPC is willing to implement bilateral leaders' consensus, strengthen communication and coordination, and seek expanded cooperation in oil and gas, new energy and green/low‑carbon areas; Puri said the ministry places high importance on ties with CNPC and, as large energy importers and consumers, India and China will strengthen communication based on existing cooperation."
+    },
+    {
+      "id": "5092179",
+      "time": "2026-09-14 11:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，9月14日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.56%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
+    },
+    {
+      "id": "5092178",
+      "time": "2026-09-14 11:00:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國 SET 指數開盤下跌 0.2%，報 1600.87 點。"
+    },
+    {
+      "id": "5092177",
+      "time": "2026-09-14 11:00:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國石油集團董事長戴厚良會見印度石油天然氣部部長】當地時間9月11日，中國石油集團董事長戴厚良在印度新德里應邀會見了印度石油天然氣部部長普里，雙方就深化合作進行交流。印度石油天然氣部常務秘書米塔爾、印度石油天然氣公司董事長辛格、印度石油公司董事長薩內等參加座談。戴厚良表示，中國石油願與印方共同落實好兩國元首重要共識，加強溝通與協調，在油氣、新能源、綠色低碳等領域尋求更多合作機會。普里表示，印度石油天然氣部高度重視與中國石油的合作。印中同為能源進口和消費大國，希望雙方在已有合作基礎上加強溝通交流。"
+    },
+    {
+      "id": "mkt:01a09ddb-4c8c-7118-8563-bd3625d8dce4",
+      "time": "2026-09-14 10:59:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan upgrades heavy rain alert to red for Qionghai, Tunchang; reservoirs to raise discharges】Hainan province on Sept 14 raised heavy rain warnings to red for Qionghai city and Tunchang county. Dongfang city's flood-control command said rainfall will force ongoing adjustments to reservoir releases. From 09:00 on Sept 14, Daguangba Reservoir outflow will increase from the current 3,000 m3/s to 4,000–5,500 m3/s; Gezhen Reservoir outflow will rise from 3,200 m3/s to 4,000–5,500 m3/s."
+    },
+    {
+      "id": "mkt:01a09dda-fcb3-7118-8563-b094234c8246",
+      "time": "2026-09-14 10:59:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Speculative yen buying surges; reversals could cap further yen gains】CFTC data: speculator JPY long open interest on CME currency futures was 178,791 contracts as of the 8th, the highest since December 2025 (nine-month high), up 61,600 contracts week-on-week (+53%). Speculative yen buying has surged on the CME; such positions often reverse quickly, posing a constraint on further yen appreciation and dollar weakness. Rising oil prices and firmer US rate-hike expectations have also begun to sap the yen-buy/dollar-sell momentum."
+    },
+    {
+      "id": "5092176",
+      "time": "2026-09-14 10:58:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百貨零售板塊短線拉昇，徐家彙漲停】百貨零售板塊短線拉昇，徐家彙漲停，歐亞集團此前封板，上海九百、國芳集團、新世界、新華百貨、廣百股份等跟漲。"
+    },
+    {
+      "id": "5092175",
+      "time": "2026-09-14 10:58:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1360億元。"
+    },
+    {
+      "id": "5092174",
+      "time": "2026-09-14 10:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南兩地升級釋出暴雨紅色預警】9月14日，海南省瓊海市和屯昌縣將暴雨橙色預警訊號升級為暴雨紅色預警訊號。(央視新聞)"
+    },
+    {
+      "id": "5092173",
+      "time": "2026-09-14 10:58:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股醫藥外包概念持續走強，凱萊英(06821.HK)漲超10%，康龍化成(03759.HK)漲超7%，泰格醫藥(03347.HK)漲超6%，藥明康德(02359.HK)漲超5%。"
+    },
+    {
+      "id": "5092172",
+      "time": "2026-09-14 10:57:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "陶瓷基板概念走強，科翔股份20cm漲停，蒙娜麗莎、瑞瑪精密、博敏電子、賽英電子、駿亞科技、燦勤科技等跟漲。"
+    },
     {
       "id": "mkt:01a09dd8-50d8-7118-8563-aac14bb6ecc3",
       "time": "2026-09-14 10:56:34",
