@@ -1,7 +1,76 @@
 {
   "date": "2026-09-14",
-  "count": 356,
+  "count": 363,
   "items": [
+    {
+      "id": "mkt:01a09d53-e240-7118-8560-a8f425df6b74",
+      "time": "2026-09-14 08:31:55",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "【Citic Securities maintains recommendation on Hong Kong dividend strategy】Citic Securities says during the 2016–18 and 2022–23 Fed rate-hike cycles southbound Stock Connect flows showed sustained net inflows in the early phase and a marked slowdown in the later phase; CHINA'S YUAN FIXING moves were highly synchronous with those inflow patterns. The firm maintains its Hong Kong dividend strategy recommendation but notes continued rises in overseas risk-free rates have narrowed high‑dividend Hong Kong stocks’ relative yield advantage. It advises allocations to emphasize cash‑flow stability, earnings visibility and dividend sustainability, and to favor sub-sectors with high southbound ownership and relatively low foreign marginal pricing power."
+    },
+    {
+      "id": "5091922",
+      "time": "2026-09-14 08:31:19",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：維持對港股紅利策略的推薦】中信證券研報稱，對於港股，從2016年至2018年與2022年至2023年兩輪美聯儲加息週期來看，南向資金整體呈現出加息前半段持續淨流入、後半段流入節奏明顯放緩的階段性特徵；美元兌人民幣中間價的走勢與南向資金的流入節奏同樣呈現出較高的同步性。維持對港股紅利策略的推薦，但在海外無風險利率持續上行的情況下，港股高股息的相對收益率優勢有所收窄，配置上應進一步考察現金流穩定性、盈利確定性和分紅可持續性，並關注南向持倉佔比較高、外資邊際定價權相對較低的細分方向。"
+    },
+    {
+      "id": "5091920",
+      "time": "2026-09-14 08:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今天華南部分地區雨勢仍強 中東部未來一周天氣晴好氣溫偏高】今天（9月14日），華南一帶仍有明顯降雨，其中海南島雨勢強勁，明天起西南地區降雨也會增強；伴隨陰雨，西南地區和華南多地氣溫將略微偏低。而在中東部，未來一週以晴好天氣為主，最高氣溫將以偏高為主，其中北方晝夜溫差較大，早晚涼意明顯，需根據氣溫變化及時調整著裝。"
+    },
+    {
+      "id": "5091919",
+      "time": "2026-09-14 08:30:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額下跌0.5%至13,310.6億元."
+    },
+    {
+      "id": "mkt:01a09d51-f689-7118-8560-a56641f16ecf",
+      "time": "2026-09-14 08:29:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Chip Wars",
+        "Commodities",
+        "Industrial Metals",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Nikkei falls nearly 2% as chip, metals stocks lead】Tokyo stocks opened sharply lower; the Nikkei 225 was down about 2%, led by chip and metals losses. Kioxia Holdings slid more than 9%, Mitsui Mining & Smelting fell nearly 6%. USD/JPY around 153.50 (Friday Tokyo close 154.09). Investors are watching the Iran war, oil prices and bond yields amid uncertainty over Fed policy."
+    },
+    {
+      "id": "5091918",
+      "time": "2026-09-14 08:29:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌2%."
+    },
+    {
+      "id": "5091917",
+      "time": "2026-09-14 08:29:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI 企業高管呼籲放緩相關技術研發，安聯全球投資駐新加坡的投資組合經理 Gary Tan等認為，此次事件不會對行業產生持久影響。Tan表示：“這件事或帶來短期壓力，但不太會破壞 AI 主線的長期投資邏輯。AI 行業仍處於相對早期階段，技術還在高速迭代，我不確定生態內其他企業是否願意接受當前的行業格局並主動減速。”"
+    },
     {
       "id": "5091916",
       "time": "2026-09-14 08:27:46",
