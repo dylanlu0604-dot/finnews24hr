@@ -1,7 +1,52 @@
 {
   "date": "2026-09-15",
-  "count": 418,
+  "count": 423,
   "items": [
+    {
+      "id": "mkt:01a0a243-2d38-7118-8580-9091a47fbf6f",
+      "time": "2026-09-15 07:31:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "BAC.O",
+        "Impact bearish"
+      ],
+      "text": "【BofA CEO sees Q3 investment-banking revenue down at least 10%】BofA CEO Brian Moynihan said on Monday he expects third-quarter investment-banking revenue to decline at least 10%, while sales and trading revenue should be roughly flat. He forecast investment-banking revenue of $1.6–1.8bn versus $2.0bn a year earlier. Moynihan said trading reserves remain ample but warned that higher interest rates could damp some financing demand. He expressed confidence in U.S. economic fundamentals."
+    },
+    {
+      "id": "5093976",
+      "time": "2026-09-15 07:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部報告披露美軍先進武器庫存出現短缺】美國政府監察機構當天釋出首份有關美伊戰事影響的報告，承認美軍先進武器庫存出現短缺，並公開披露美國在中東的軍機、軍事基地及外交設施受損情況。美國國防部監察長的報告稱，這場戰爭已造成“戰略庫存短缺”，並暴露出彈藥補充方面的軍工產能瓶頸。專家此前估計，美軍可能需要約三年時間，才能將先進導彈和防空攔截彈庫存恢復至戰前水平。（央視）"
+    },
+    {
+      "id": "5093975",
+      "time": "2026-09-15 07:31:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國司法部稱數千萬美元的伊朗石油收益透過幣安洗錢】據報道，美國司法部尋求沒收6100萬美元，據其所稱這筆資金來源於伊朗黑市石油銷售，並透過加密貨幣交易所幣安進行了洗錢。幣安未被指控存在不當行為。該公司一位代表未立即對此事發表評論。"
+    },
+    {
+      "id": "5093974",
+      "time": "2026-09-15 07:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院駁回特朗普政府實施限制郵寄投票郵政服務規則的請求。"
+    },
+    {
+      "id": "5093973",
+      "time": "2026-09-15 07:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨將就加密貨幣法案提出反提案。"
+    },
     {
       "id": "5093972",
       "time": "2026-09-15 07:27:54",

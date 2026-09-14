@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-15 07:30:02",
-  "count": 13666,
+  "updated": "2026-09-15 07:33:52",
+  "count": 13657,
   "items": [
+    {
+      "id": "mkt:01a0a243-2d38-7118-8580-9091a47fbf6f",
+      "time": "2026-09-15 07:31:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "BAC.O",
+        "Impact bearish"
+      ],
+      "text": "【BofA CEO sees Q3 investment-banking revenue down at least 10%】BofA CEO Brian Moynihan said on Monday he expects third-quarter investment-banking revenue to decline at least 10%, while sales and trading revenue should be roughly flat. He forecast investment-banking revenue of $1.6–1.8bn versus $2.0bn a year earlier. Moynihan said trading reserves remain ample but warned that higher interest rates could damp some financing demand. He expressed confidence in U.S. economic fundamentals."
+    },
+    {
+      "id": "5093976",
+      "time": "2026-09-15 07:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部報告披露美軍先進武器庫存出現短缺】美國政府監察機構當天釋出首份有關美伊戰事影響的報告，承認美軍先進武器庫存出現短缺，並公開披露美國在中東的軍機、軍事基地及外交設施受損情況。美國國防部監察長的報告稱，這場戰爭已造成“戰略庫存短缺”，並暴露出彈藥補充方面的軍工產能瓶頸。專家此前估計，美軍可能需要約三年時間，才能將先進導彈和防空攔截彈庫存恢復至戰前水平。（央視）"
+    },
+    {
+      "id": "5093975",
+      "time": "2026-09-15 07:31:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國司法部稱數千萬美元的伊朗石油收益透過幣安洗錢】據報道，美國司法部尋求沒收6100萬美元，據其所稱這筆資金來源於伊朗黑市石油銷售，並透過加密貨幣交易所幣安進行了洗錢。幣安未被指控存在不當行為。該公司一位代表未立即對此事發表評論。"
+    },
+    {
+      "id": "5093974",
+      "time": "2026-09-15 07:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院駁回特朗普政府實施限制郵寄投票郵政服務規則的請求。"
+    },
+    {
+      "id": "5093973",
+      "time": "2026-09-15 07:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨將就加密貨幣法案提出反提案。"
+    },
     {
       "id": "5093972",
       "time": "2026-09-15 07:27:54",
@@ -125723,145 +125768,6 @@
         "日本"
       ],
       "text": "日本7月加班工資同比增長3.1%，前值2.8%。"
-    },
-    {
-      "id": "mkt:01a07e38-0111-7118-84d4-4f0c0229cab1",
-      "time": "2026-09-08 07:33:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan July overtime pay rose 3.1% YoY, versus 2.8% previously."
-    },
-    {
-      "id": "mkt:01a07e37-e556-7118-84d4-43660a906a68",
-      "time": "2026-09-08 07:33:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Overtime Earnings (YoY) (Jul) | actual 3.1% | previous 2.8%"
-    },
-    {
-      "id": "mkt:01a07e37-cd84-7118-84d4-38d0b4dc4247",
-      "time": "2026-09-08 07:33:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan July labor cash earnings YoY 4.7% vs. 3.8% expected; June revised to 4.0% from 3.4%."
-    },
-    {
-      "id": "mkt:01a07e37-b13f-7118-84d4-35aae705f052",
-      "time": "2026-09-08 07:32:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Cash Earnings (YoY) (Jul) | actual 4.7% | consensus 3.80% | previous 3.40%"
-    },
-    {
-      "id": "mkt:01a07e37-ab5c-7118-84d4-2973fa4236de",
-      "time": "2026-09-08 07:32:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "CNH"
-      ],
-      "text": "【Russian National Wealth Fund at $154.1 bln; holds 184.0 bln yuan, 131.5 tonnes of gold】As of Sept. 1 the Russian National Wealth Fund stood at 13.19 tln rubles (~$154.1 bln), equal to 5.6% of projected 2026 GDP. Liquid assets were 4.0 tln rubles (~$46.7 bln), up from 3.69 tln rubles on Aug. 1. In accounts at the Russian central bank the fund held 184.0 bln yuan, 131.5 tonnes of gold and 1.7 bln rubles. From Jan.–Aug. 2026 foreign-currency asset exchange-rate changes and gold revaluation gains totaled 594.8 bln rubles."
-    },
-    {
-      "id": "5081616",
-      "time": "2026-09-08 07:32:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤下跌535點，報65925點。"
-    },
-    {
-      "id": "5081615",
-      "time": "2026-09-08 07:31:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本7月經通脹調整後實質薪資同比增長2.4%。日本7月加班工資較上年同期增加3.1%，前值2.8%。"
-    },
-    {
-      "id": "5081614",
-      "time": "2026-09-08 07:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家水網建設全面提速 上半年25項重大水利工程開工】三峽壩區，江闊岸綠。不遠處，三峽水運新通道先行開挖區內，一排排挖掘機鋪開長陣，鋼鐵巨臂此起彼伏。三峽水運新通道工程集水利、航運、生態等功能於一體，是“十五五”時期開工建設的首個國家重大標誌性工程。當前，國家水網建設正全面提速。今年上半年，包括三峽水運新通道在內的25項重大水利工程開工，接近去年全年開工數量。“十五五”時期水網建設總投資預計突破6萬億元。循著“綱—目—結”三層佈局，國家水網建設的骨架、脈絡和節點漸次展開。“綱”承擔跨流域、跨區域輸水的骨幹功能，“目”在於把區域性水系進一步連通至地方和終端，“結”承擔著水系的調蓄和執行控制功能。近日，證券時報記者沿三層網路一線走訪，看到的不僅是工程的拔節生長，更是一條“擴投資、帶產業、育新質”的價值傳導鏈。"
-    },
-    {
-      "id": "5081613",
-      "time": "2026-09-08 07:31:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家頭部上市公司增持落地】9月7日晚間，百潤股份、森特股份、重慶港等多家細分領域頭部上市公司釋出控股股東、高管增持公告，集中釋放提振市場信心與長期穩定發展的積極訊號。預調雞尾酒行業龍頭百潤股份的股東增持動作落地頗為紮實。公告顯示，百潤股份控股股東、實控人劉曉東於7月9日晚間釋出增持計劃，擬在6個月內斥資5000萬元至1億元增持公司股份，增持計劃不設價格區間。截至9月4日，劉曉東已完成增持計劃，累計增持549.63萬股股份，約佔總股本的0.53%，增持金額為9999.93萬元，直逼增持計劃上限。重慶港股東增持節奏較快。公司間接控股股東重慶物流集團有限公司（簡稱“重慶物流集團”）於7月28日晚間釋出增持計劃，增持規模為2000萬元至3000萬元。截至9月4日，重慶物流集團已累計增持2529.9791萬元（不含交易費用），僅用一個多月便完成了前述增持計劃。"
-    },
-    {
-      "id": "te:economy:581740",
-      "time": "2026-09-08 07:31:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Inflation Accelerates Above Forecasts — The annual inflation rate in Colombia rose to 6.24% in August 2026 from 6.03% in July, exceeding market expectations for a 6.1% gain. The latest reading also marked the fastest increase since July 2024, pushing inflation further above the central bank’s 3% target, driven by stronger price growth for furniture and household maintenance (6.67% vs 6.30% in July), housing and utilities (5.74% vs 5.40%), information and communication (5.97% vs 4.97%), recreation and culture (4.98% vs 3.74%), and miscellaneous goods and services (6.05% vs 5.97%). Inflation also picked up for transport (5.25% vs 5.21%). Meanwhile, price growth eased for food and non-alcoholic beverages (6.10% vs 5.82%), alcoholic beverages and tobacco (6.94% vs 7.14%), clothing and footwear (3.26% vs 3.38%), health (8.30% vs 8.37%), education (7.45% vs 7.57%), and restaurants and hotels (9.36% vs 9.53%). On a monthly basis, consumer prices grew by 0.39% in August, topping forecasts for a 0.26% rise and July’s 0.17% gain."
-    },
-    {
-      "id": "5081612",
-      "time": "2026-09-08 07:30:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：社服商貿供給側機會頻現，出海依舊景氣】中信建投研報指出，2026年需求側beta尚未到來，但存在諸多行業已經完成了供給側的改善，我們認為十五五期間，消費仍需關注細分alpha機會，一方面是中國品牌出海和消費迴流邏輯日漸通暢，另一方面是供給側推動。醫美行業逐漸體現量價雙升的修復、消費電子渠道洗牌帶來渠道集中度提升、化妝品小單快反趨勢下生產端規模效應集聚、出海品牌漸進式獲取定價權、地產後市場供給出清後業態融合初顯成效，預計後續還會有更多行業實現供給側最佳化。"
-    },
-    {
-      "id": "5081611",
-      "time": "2026-09-08 07:30:15",
-      "tags": [
-        "央行",
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯國家財富基金規模1541億美元，流動資產467億美元】9月7日，俄羅斯財政部公佈資料顯示，截至9月1日，俄羅斯國家財富基金（NWF）規模為13.19萬億盧布（約1541億美元），相當於預計2026年GDP的5.6%。其中，流動資產規模為4萬億盧布（約467億美元），較8月1日的3.69萬億盧布有所增加。截至9月1日，NWF在俄羅斯央行賬戶中持有1840億元人民幣、131.5噸黃金和17億盧布。2026年1月至8月，基金外幣資產匯率變動及黃金重估收益合計5948億盧布。"
-    },
-    {
-      "id": "5081610",
-      "time": "2026-09-08 07:30:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本7月勞工現金收入同比 4.7%，預期 3.9%，前值 3.4%。"
-    },
-    {
-      "id": "5081609",
-      "time": "2026-09-08 07:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟宣佈將投資2億歐元與格陵蘭島加強合作】歐盟委員會主席馮德萊恩7日訪問丹麥自治領地格陵蘭島首府努克時宣佈，歐盟將推出總額2億歐元的投資計劃，以加強與格陵蘭島的合作。歐盟委員會當天釋出新聞公報說，這項投資計劃將在2026年和2027年支援格陵蘭島的相關投資。雙方將深化在教育、漁業等領域的合作，改善格陵蘭島的衛星和光纜連線，支援水力發電及關鍵原材料領域發展。該計劃還將支援改善格陵蘭島的住房條件、發展可持續旅遊和扶持小企業等。（新華社）"
     }
   ]
 }
