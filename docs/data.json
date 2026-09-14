@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-14 22:19:10",
-  "count": 13418,
+  "updated": "2026-09-14 22:23:11",
+  "count": 13423,
   "items": [
+    {
+      "id": "mkt:01a0a04c-43de-7118-8579-11c4b1988528",
+      "time": "2026-09-14 22:22:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Markets now fully price four 25bp ECB rate hikes before end-2027."
+    },
+    {
+      "id": "5093590",
+      "time": "2026-09-14 22:22:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：房地美髮行超過 8.1567 億美元的 K-567 多戶住宅商業抵押貸款支援證券。"
+    },
+    {
+      "id": "5093589",
+      "time": "2026-09-14 22:21:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【希臘南部海域移民船傾覆事故已致1人死亡】當地時間9月13日晚上，希臘克里特島以南海域一艘載有約70人的難民船傾覆沉沒，目前已造成1人死亡，約20人失蹤，51人獲救。獲救人員已被送往克里特島上的移民安置中心。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a04b-6f83-7118-8579-0faeb3c54fe7",
+      "time": "2026-09-14 22:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China foreign minister Wang Yi speaks with Latvia foreign minister on missing nationals after Nepal-Tibet debris flow】China foreign minister Wang Yi spoke by phone with Latvia’s foreign minister on the 14th. Latvia said the two countries maintain pragmatic cooperation and expect closer communication to advance bilateral ties. Latvia reported 33 of its citizens are missing after a debris flow triggered by an ice-and-rock collapse on the Nepal side that affected Nepal and China’s Tibet Autonomous Region, thanked China’s notifications and rescue efforts, and said it will coordinate with Beijing on follow-up. Wang Yi said China treats Chinese and foreign nationals equally, will continue all-out search-and-rescue operations, make every effort to locate missing Latvian and other foreign nationals, and will handle subsequent arrangements appropriately."
+    },
+    {
+      "id": "5093588",
+      "time": "2026-09-14 22:21:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：多位訊息人士透露，即使人工智慧安全問題已成為時代熱點，Anthropic仍有可能在2026年上市，IPO日程安排並沒有改變。"
+    },
+    {
+      "id": "mkt:01a0a04b-4fe1-7118-8579-01d5fbf7f53a",
+      "time": "2026-09-14 22:21:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Axios, citing multiple sources, reports ANTHROPIC could still IPO in 2026; its IPO timetable remains unchanged despite heightened focus on AI safety."
+    },
+    {
+      "id": "5093587",
+      "time": "2026-09-14 22:21:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員已充分消化了歐洲央行到2027年底前四次加息（每次0.25個百分點）的預期。"
+    },
+    {
+      "id": "5093586",
+      "time": "2026-09-14 22:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "查爾斯河實驗室股價跌幅擴大至4%。"
+    },
+    {
+      "id": "5093584",
+      "time": "2026-09-14 22:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Humanlaya完成一輪融資，投後估值接近10億美元。"
+    },
     {
       "id": "5093583",
       "time": "2026-09-14 22:17:55",
@@ -123566,38 +123646,6 @@
         "其他"
       ],
       "text": "招股說明書顯示，奈及利亞丹格特煉油廠預計首次公開發行（IPO）後，其股票將於11月末在奈及利亞交易所掛牌交易。"
-    },
-    {
-      "id": "5081399",
-      "time": "2026-09-07 22:23:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米汽車：小米澎程4分鐘鎖單突破10000臺。"
-    },
-    {
-      "id": "5081398",
-      "time": "2026-09-07 22:21:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：國際原子能機構總幹事格促伊朗重新展開接觸，與此同時西方大國正謀求將伊朗核核查問題提交聯合國處理。"
-    },
-    {
-      "id": "5081396",
-      "time": "2026-09-07 22:21:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST利達：收到江蘇證監局行政處罰事先告知書】*ST利達公告稱，公司及顧益明等相關責任人因涉嫌資訊披露違法違規，收到中國證券監督管理委員會江蘇監管局下發的《行政處罰事先告知書》。2020年至2022年公司發生關聯方非經營性資金佔用合計17.03億元，公司未及時披露且相關定期報告存在重大遺漏、虛假記載。江蘇證監局擬對公司責令改正、給予警告，並處以900萬元罰款；擬對顧益明給予警告，並處以1620萬元罰款，同時採取5年證券市場禁入措施；對孫振華等其餘4名責任人分別處以210萬元至380萬元不等罰款。截至2026年4月22日，關聯方已歸還全部佔用資金及利息。本次事項未觸及重大違法強制退市情形，最終處罰結果以正式決定書為準。"
-    },
-    {
-      "id": "5081395",
-      "time": "2026-09-07 22:19:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年巴庫氣候行動周聚焦能源轉型與氣候融資】2026年巴庫氣候行動周7日在亞塞拜然首都巴庫開幕。為期5天的活動將圍繞能源轉型、氣候融資、工業脫碳和區域合作等議題展開討論，推動氣候領域承諾轉化為具體行動。 亞塞拜然總統氣候問題代表、曾任《聯合國氣候變化框架公約》第二十九次締約方大會（COP29）主席的穆赫塔爾·巴巴耶夫在開幕式上說，今年是連續第三年舉辦巴庫氣候行動周，阿方將致力於保持全球氣候行動勢頭，推動對話轉化為實際行動，並促成新的夥伴關係。（新華社）"
     }
   ]
 }
