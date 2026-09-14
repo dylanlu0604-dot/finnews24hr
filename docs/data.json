@@ -1,7 +1,233 @@
 {
-  "updated": "2026-09-14 15:54:16",
-  "count": 13703,
+  "updated": "2026-09-14 15:58:03",
+  "count": 13728,
   "items": [
+    {
+      "id": "mkt:01a09eeb-f824-7118-856b-20e83cc45332",
+      "time": "2026-09-14 15:57:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An ExxonMobil top executive said U.S. LNG supply is expected to account for about 30% of global LNG supply by 2030."
+    },
+    {
+      "id": "5092652",
+      "time": "2026-09-14 15:57:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名安全訊息人士稱，導彈襲擊瞄準了伊拉克庫爾德地區境內的三個伊朗庫爾德反對派營地，目前無人員傷亡。"
+    },
+    {
+      "id": "5092651",
+      "time": "2026-09-14 15:57:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊美藥業：全資子公司獲得非奈利酮原料藥上市批准】萊美藥業公告稱，公司全資子公司重慶萊美隆宇藥業有限公司收到國家藥監局核准簽發的非奈利酮《化學原料藥上市申請批准通知書》，該原料藥獲批境內生產上市，通知書有效期至2031年9月9日。非奈利酮為非甾體選擇性鹽皮質激素受體拮抗劑，製劑用於治療與2型糖尿病相關的慢性腎病成人患者。本次獲批有助於豐富公司產品線，提升核心競爭力，藥品後續生產銷售存在不確定性。"
+    },
+    {
+      "id": "5092650",
+      "time": "2026-09-14 15:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "殼牌高管：年初至今，全球中東液化天然氣供應損失約3600萬噸。"
+    },
+    {
+      "id": "5092649",
+      "time": "2026-09-14 15:57:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【怡球資源：擬調整馬來西亞專案境內出資結構】怡球資源公告稱，公司馬來西亞年產130萬噸鋁合金錠擴建專案中方境內出資總規模保持15億元不變，擬最佳化境內出資結構，將中方境內自有資金出資調整為6.3億元，中方境內銀行融資金額調整為8.7億元。本次出資結構最佳化有利於合理平衡自有資金使用與外部融資規模，相關議案已經公司第六屆董事會第九次會議審議透過。"
+    },
+    {
+      "id": "5092648",
+      "time": "2026-09-14 15:56:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃克森美孚高管表示：預計到2030年，美國液化天然氣供應量將增長至佔全球液化天然氣總供應量的約30%。"
+    },
+    {
+      "id": "mkt:01a09eeb-396f-7118-856b-199ecea0d043",
+      "time": "2026-09-14 15:56:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bullish"
+      ],
+      "text": "ExxonMobil executive expects U.S. LNG supply to account for about 30% of global LNG supply by 2030."
+    },
+    {
+      "id": "5092647",
+      "time": "2026-09-14 15:56:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部證券：完成發行15億元2026年度第八期短期融資券】西部證券公告稱，公司2026年度第八期短期融資券已於2026年9月10日發行，繳款日為2026年9月11日，實際發行總額15.00億元，發行價格100元/張，票面利率1.52%，期限175天，起息日為2026年9月11日，兌付日為2027年3月5日。本期短期融資券相關檔案已在中國貨幣網和上海清算所網站刊登。"
+    },
+    {
+      "id": "5092646",
+      "time": "2026-09-14 15:56:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【彤程新材：董事會審議透過H股發行上市相關事宜】彤程新材公告稱，公司第四屆董事會第十一次會議審議透過《關於確定公司H股全球發售及在香港聯合交易所有限公司上市相關事宜的議案》，同意H股發行並在港交所上市的相關安排，包括刊發籤署招股書等檔案、處理發行程式事項、授權相關人士處理具體事務等；同時審議透過修訂H股發行上市後適用的《公司章程（草案）》的議案，將根據監管機構要求和建議對章程草案進行修改。兩項議案表決均為10票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "5092645",
+      "time": "2026-09-14 15:56:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4310美元/盎司，日內跌0.89%。"
+    },
+    {
+      "id": "5092644",
+      "time": "2026-09-14 15:55:58",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛策略師：加息不會終結股票牛市】美聯儲開啟加息週期時股市通常承壓，但高盛預計牛市仍將延續。由本·斯奈德領銜的策略師團隊表示，利率上行會壓制股票估值，但盈利才是股市最核心的驅動因素。團隊稱標普500指數遠期市盈率已從年初的22倍回落至當前19倍，不過該指數距離歷史高點仍不到2%。策略師指出，市場已經計價未來一年將有超過三次加息，同時企業盈利與資產負債表狀況保持穩健。"
+    },
+    {
+      "id": "5092643",
+      "time": "2026-09-14 15:55:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4350美元/盎司，日內跌1.34%。"
+    },
+    {
+      "id": "5092642",
+      "time": "2026-09-14 15:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【倪虹會見卡達市政大臣阿提亞】近日，住房城鄉建設部部長倪虹會見卡達市政大臣阿提亞。雙方深入交流住房城鄉建設領域新技術、新材料、新產品的應用與合作。倪虹表示，中方正大力推進城市更新，建設安全、舒適、綠色、智慧的“好房子”和城市基礎設施生命線安全工程。中方願與卡方在住房和市政公用設施建設、建築科技等領域加強合作，為兩國人民安居樂業、幸福生活創造更好條件。（住建部）"
+    },
+    {
+      "id": "5092641",
+      "time": "2026-09-14 15:55:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲和英國債券跌幅擴大；2年期英國國債收益率上漲8個基點至4.89%。"
+    },
+    {
+      "id": "mkt:01a09ee9-c877-7118-856b-11417f140de9",
+      "time": "2026-09-14 15:55:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member SIMKUS said he does not rule out taking action at any meeting."
+    },
+    {
+      "id": "mkt:01a09ee9-9cfb-7118-856b-0b9c28ab1674",
+      "time": "2026-09-14 15:55:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry says China willing to deepen technology cooperation with BRICS, strengthen industrial linkages】Foreign Ministry spokesman Guo Jiakun told a Sept. 14 briefing that BRICS have advanced industrial cooperation and set up platforms such as the New Industrial Revolution Partnership Innovation Base and the BRICS Industrial Capacity Center. China is willing to strengthen technology cooperation with BRICS, deepen industrial alignment and carry out capacity‑building projects to support higher‑quality, more resilient and more sustainable development."
+    },
+    {
+      "id": "5092640",
+      "time": "2026-09-14 15:54:56",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通策略師稱股市能夠承受漸進式加息】摩根大通表示，只要美聯儲加息節奏保持漸進，且加息發生在盈利強勁增長、通脹預期未脫錨的環境下，全球股票市場能夠經受住加息衝擊。由米斯拉夫·馬泰卡領銜的策略師團隊撰文指出，股票與收益率之間的正向關聯或將持續，但容錯空間正在收窄；當美國10年期國債收益率升至約5%至5.5%時，二者關係轉為負相關的風險將會上升。策略師認為，股市已經消化國債收益率上行，因為本輪收益率抬升由經濟活動改善與盈利上調推動，實際利率走高，而非長期通脹預期攀升所致。"
+    },
+    {
+      "id": "mkt:01a09ee9-75b3-7118-856b-077a8a941e72",
+      "time": "2026-09-14 15:54:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member SIMKUS said the ECB must monitor energy prices ahead of its October meeting."
+    },
+    {
+      "id": "mkt:01a09ee9-6dc3-7118-856a-fe7a76b6e763",
+      "time": "2026-09-14 15:54:53",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Simkus said December is a natural time to further assess the situation."
+    },
+    {
+      "id": "5092639",
+      "time": "2026-09-14 15:54:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元/美元跌幅擴大，下跌0.5%至1.1543；55日均線位於1.1521。"
+    },
+    {
+      "id": "5092638",
+      "time": "2026-09-14 15:54:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬控股：全資子公司獲海關AEO高階認證】東鵬控股(003012.SZ)公告稱，公司全資子公司佛山市東鵬陶瓷有限公司近日取得廣州海關頒發的《AEO海關高階認證企業證書》，被認證為海關AEO高階認證企業。"
+    },
+    {
+      "id": "5092637",
+      "time": "2026-09-14 15:54:13",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【央行：截至7月末，全市場賬款憑證餘額較高峰時期下降20%】9月14日，中國人民銀行金融市場司司長曹媛媛在國務院政策例行吹風會上表示，高峰時期全市場共有200多家電子憑證服務平臺，應收賬款電子憑證開立餘額達到3萬億元，涉及眾多核心企業和上下游供應商。經過一年多的規範，截至7月末，全市場賬款憑證餘額為2.4萬億元，較規範前下降了20%。"
+    },
+    {
+      "id": "te:markets:583467",
+      "time": "2026-09-14 15:54:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Start Week Lower — The CAC 40 fell 0.5% to 8,135 on Monday, extending losses from the previous week as oil prices surged after Saudi Arabia suspended operations on the East-West crude pipeline following drone attacks. The kingdom has yet to indicate when the pipeline will resume operations. Adding to investor caution, talks between Iran and several Gulf nations on establishing a temporary shipping corridor through the Strait of Hormuz were postponed. Notable laggards included LVMH (-1.2%), Schneider Electric (-3.6%) and Legrand (-3.8%). Elsewhere, STMicroelectronics dropped 3.9%, tracking losses across the global technology sector after major AI companies called for a slower pace of development amid growing concerns over safety risks. In contrast, Sanofi (1.4%), Thales (1.0%), Dassault Systèmes (4.1%) and Publicis (3.3%) were among the top performers."
+    },
+    {
+      "id": "5092636",
+      "time": "2026-09-14 15:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲醫療：轉讓方協議轉讓802.88萬股完成過戶】五洲醫療公告，此前黃凡及其一致行動人等轉讓方擬透過協議轉讓方式向嘉興匯芯轉讓公司802.88萬股股份，佔公司股份總數的11.8071%。本次協議轉讓已於2026年9月11日完成過戶登記，股份性質為無限售流通股，辦理情況與前期披露及協議約定一致。"
+    },
+    {
+      "id": "5092635",
+      "time": "2026-09-14 15:53:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯：任何會議上都不能排除採取行動的可能性。"
+    },
     {
       "id": "5092634",
       "time": "2026-09-14 15:53:39",
