@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-15 04:03:57",
-  "count": 13609,
+  "updated": "2026-09-15 04:07:43",
+  "count": 13614,
   "items": [
+    {
+      "id": "mkt:01a0a187-966b-7118-857e-ee643d90413d",
+      "time": "2026-09-15 04:06:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "US equities closed lower on Monday, September 14: Dow Jones Industrial Average down 152.01 points (-0.29%) at 52,421.28; S&P 500 down 37.03 points (-0.48%) at 7,619.95; Nasdaq Composite down 146.62 points (-0.56%) at 26,186.41."
+    },
+    {
+      "id": "5093853",
+      "time": "2026-09-15 04:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數14日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於99.388。截至紐約匯市尾市，1歐元兌換1.1557美元，低於前一交易日的1.1596美元；1英鎊兌換1.3511美元，低於前一交易日的1.3525美元。1美元兌換154.05日元，高於前一交易日的153.72日元；1美元兌換0.8163瑞士法郎，低於前一交易日的0.8166瑞士法郎；1美元兌換1.3902加元，高於前一交易日的1.3865加元；1美元兌換9.7412瑞典克朗，高於前一交易日的9.7044瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0a187-8dbd-7118-857e-e4ea35a53903",
+      "time": "2026-09-15 04:06:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.27% to 99.388 on 14th】The dollar index, which measures the dollar against six major currencies, rose 0.27% to 99.388 at the FX close. At the New York close: EUR/USD 1.1557, down from 1.1596; GBP/USD 1.3511, down from 1.3525; USD/JPY 154.05, up from 153.72; USD/CHF 0.8163, down from 0.8166; USD/CAD 1.3902, up from 1.3865; USD/SEK 9.7412, up from 9.7044."
+    },
+    {
+      "id": "te:markets:583613",
+      "time": "2026-09-15 04:05:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stocks Drop on Chipmaker Selloff — US equity indices closed lower on Monday, dragged down by a selloff in chipmakers. The S&P 500 fell 0.5% and the Nasdaq dropped 0.8%, while the Dow shed 152 points. Anthropic CEO Dario Amodei called for a slower pace of AI development to mitigate risks from increasingly capable models, with OpenAI and xAI CEOs Sam Altman and Elon Musk endorsing the view. The focus on AI risks dampened speculative demand for chipmakers and AI infrastructure companies. Nvidia fell 3.4%, Broadcom tumbled 4.8%, Micron retreated 5.2%, and Intel shed 5.6%. Lam Research sank 8.3% and GE Vernova slumped 8.6%. Meanwhile, the 10-year Treasury yield briefly surpassed 5% for the first time since 2023 as surging crude prices raised concerns over inflation ahead of Wednesday’s Fed decision. Markets widely expect a 25-bp hike. The rejection of talks with GCC states prolonged the halt in tanker flows from the region, pushing energy prices higher. Losses in banking and manufacturing stocks also pressured the Dow."
+    },
+    {
+      "id": "5093852",
+      "time": "2026-09-15 04:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行收跌5.1%，創2025年4月以來最大單日跌幅。"
+    },
+    {
+      "id": "5093851",
+      "time": "2026-09-15 04:03:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：和平是當務之急。能源、糧食通道以及關鍵基礎設施，所有這些都應納入停止打擊相關談判的範疇。我們需要一項有力且公平的解決方案，該方案不能只為 “選舉” 服務，而應帶來永久和平。我們期待夥伴方拿出具體方案。"
+    },
     {
       "id": "5093850",
       "time": "2026-09-15 04:02:21",
@@ -125320,14 +125383,6 @@
         "Brent"
       ],
       "text": "Iran's envoy to the IAEA warned US or Israeli strikes on Iran's IAEA-safeguarded peaceful nuclear facilities, if 'normalized', would have serious consequences. He said the Bushehr nuclear power plant meets all safety standards."
-    },
-    {
-      "id": "5081518",
-      "time": "2026-09-08 04:05:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗錫裡克婚禮遭襲現場發現美武器殘骸】當地時間9月1日晚，美軍對伊朗南部多個城市發動大規模空襲，其中錫裡克市一處婚禮現場遭襲，造成數十人傷亡。近日，總檯記者來到錫裡克，探訪了當晚遭襲的婚禮現場。在襲擊發生後，當地居民蒐集到一些爆炸物和導彈殘骸。（央視新聞）"
     }
   ]
 }
