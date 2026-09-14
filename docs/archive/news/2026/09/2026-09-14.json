@@ -1,7 +1,346 @@
 {
   "date": "2026-09-14",
-  "count": 1272,
+  "count": 1308,
   "items": [
+    {
+      "id": "mkt:01a09ef2-e6a0-7118-856b-c01788793e50",
+      "time": "2026-09-14 16:05:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK 5-year government bond yield rose to 4.9709%, the highest since July 2008, up 6bps on the day."
+    },
+    {
+      "id": "mkt:01a09ef2-cf39-7118-856b-bc34638818e6",
+      "time": "2026-09-14 16:05:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi forces claim major, precise strike on Saudi Khamis Mushayt airbase】Houthi forces said they carried out a large-scale operation against Saudi Arabia’s Khamis Mushayt airbase and related infrastructure, deploying tens of ballistic missiles and drones and striking military targets including aircraft shelters, radar systems, the runway and an ammunition depot; they characterized the strikes as precise. The group warned it will continue significant military actions against Saudi territory and maintain a siege-for-siege, escalation-for-escalation approach until the aggression and blockade against them cease."
+    },
+    {
+      "id": "te:markets:583474",
+      "time": "2026-09-14 16:05:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.53% — Top commodity losers are Lithium Carbonate (-2.53%), Silver (-1.55%), Copper (-1.41%) and Gold (-0.83%)."
+    },
+    {
+      "id": "5092686",
+      "time": "2026-09-14 16:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楚天高速：擬使用不超過40.00億元閒置自有資金進行現金管理】楚天高速公告，公司於2026年9月14日召開第九屆董事會第十次會議，審議透過《關於使用自有資金進行現金管理的議案》；擬使用不超過人民幣40.00億元的閒置自有資金進行現金管理。"
+    },
+    {
+      "id": "5092685",
+      "time": "2026-09-14 16:04:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新五豐：擬5374.30萬元收購控股子公司18.88%股權】新五豐公告稱，公司擬以5374.30萬元透過協議轉讓方式，購買控股子公司湖南長株潭廣聯生豬交易市場有限公司7名自然人股東合計持有的廣聯公司18.8812%股權。本次交易以2025年12月31日為評估基準日，廣聯公司股東全部權益評估值為28463.78萬元，交易價格以此為基礎確定。資金來源為自有資金1674.30萬元及銀行貸款3700萬元，收購款分兩期支付。本次交易不構成關聯交易及重大資產重組，已經公司董事會審議透過，未達股東會審議標準。收購完成後，公司對廣聯公司持股比例將升至83.9161%，廣聯公司仍為公司控股子公司。"
+    },
+    {
+      "id": "mkt:01a09ef2-50da-7118-856b-b452045f50e6",
+      "time": "2026-09-14 16:04:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O"
+      ],
+      "text": "ExxonMobil reported a flare event at its refinery in Joliet, Illinois."
+    },
+    {
+      "id": "5092684",
+      "time": "2026-09-14 16:04:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：維持比亞迪“買入”評級，H股目標價142港元】花旗發表報告，估算比亞迪8月底的庫存按月微幅下降0.01個月，維持在正常水平。在假設9月出口量按月增長3%，且搭戴第二代刀片電池的新能源車出貨量按月潛在擴增2萬輛的情況下，該行認為庫存週轉天數可望穩定維持在1.9個月，進而支撐9月整體批發出貨量達到45.3萬輛，按月增長4.6%。上述假設意味著2026年第三季總銷量將達到130萬輛，按季增19.2%，其中出口量為56.5萬，按季增20%，國內批發量為73.3萬輛，按季增18.7%。花旗維持比亞迪“買入”評級，主因比亞迪在8月重新奪回國內純電動車的市場份額，H股目標價142港元。"
+    },
+    {
+      "id": "5092683",
+      "time": "2026-09-14 16:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：印度低端手機市場競爭艱難】根據Counterpoint的相關分析，受零部件成本等因素影響，印度智慧手機市場的經營環境正變得愈發複雜，低端價位段的競爭尤為艱難。 15000印度盧比以下價位市場已然承壓：該區間利潤微薄，同時消費者對價格高度敏感。但與此同時，這些挑戰也為一批新品牌入局創造了市場機遇。"
+    },
+    {
+      "id": "5092682",
+      "time": "2026-09-14 16:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼部長：總統普拉博沃將於近期任命新一屆高階官員。"
+    },
+    {
+      "id": "5092681",
+      "time": "2026-09-14 16:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：相關服務航線現在將改經蘇伊士運河航線，不再繞行好望角。"
+    },
+    {
+      "id": "5092680",
+      "time": "2026-09-14 16:04:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：估值啟動與回落領先供需關係 鋰電池行業具備良好配置價值】國泰海通釋出研報稱，從2020年至2024年鋰電池行業緊缺到過剩的完整週期看，估值啟動與回落往往領先供需關係。鑑於當前市場對2027年行業可能增速放緩的擔憂，部分龍頭板塊估值已回落歷史較低水平，業績增速與估值適配度高，已經具備良好配置價值。"
+    },
+    {
+      "id": "5092679",
+      "time": "2026-09-14 16:04:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國5年期金邊國債收益率升至2008年7月以來最高水平，報4.9709%，單日上漲6個基點。"
+    },
+    {
+      "id": "5092678",
+      "time": "2026-09-14 16:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中旗股份：控股股東吳耀軍質押2800萬股公司股份】中旗股份公告稱，公司控股股東、實際控制人吳耀軍辦理部分股份質押手續，本次質押2800萬股，佔其所持股份的20.60%，佔公司總股本的5.85%，質押起始日為2026年09月12日，到期日為2027年09月17日，質權人為中原信託有限公司，質押用途為個人資金需要。本次質押後，吳耀軍累計質押6450萬股，佔其所持股份的47.46%，佔公司總股本的13.48%。其資信、財務狀況良好，質押股份不存在平倉或強制過戶風險，本次質押不會對公司生產經營、公司治理產生不利影響。"
+    },
+    {
+      "id": "5092677",
+      "time": "2026-09-14 16:04:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠博普：董事及配偶增持200萬股 增持計劃實施完畢】惠博普公告稱，公司副董事長、董事會秘書張中煒及其配偶林娜的增持計劃實施期限屆滿，二人透過集中競價方式合計增持公司股份200萬股，佔公司總股本的0.15%，增持金額合計599.87萬元，增持數量達計劃下限，本次增持計劃實施完畢。本次增持後，二人合計持股260.68萬股，佔公司總股本的0.20%。二人承諾增持完成後六個月內不減持所持公司股份，本次增持不會導致公司控制權發生變化。"
+    },
+    {
+      "id": "mkt:01a09ef1-cb90-7118-856b-aaa61df433b5",
+      "time": "2026-09-14 16:04:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "French Foreign Minister Barrot said Russia's attack on trains at the Ukraine-Poland border is intended to intimidate and divide Europeans."
+    },
+    {
+      "id": "5092676",
+      "time": "2026-09-14 16:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基 - 馬士基與赫伯羅特宣佈對以下四條雙子星航線進行結構性調整：AE5、AE11、AE12和ME2。"
+    },
+    {
+      "id": "5092675",
+      "time": "2026-09-14 16:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚報告伊利諾伊州喬利埃特煉油廠發生火炬燃燒事件。"
+    },
+    {
+      "id": "mkt:01a09ef1-5872-7118-856b-a2ad2928d706",
+      "time": "2026-09-14 16:03:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Shell top executive (SHEL.N) said the global natural gas market is expected to expand by two-thirds by 2050."
+    },
+    {
+      "id": "5092674",
+      "time": "2026-09-14 16:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬士基股價上漲4.5%，創下自2022年1月以來的最高水平。"
+    },
+    {
+      "id": "5092673",
+      "time": "2026-09-14 16:03:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委卡茲米爾：對下一個決策保持開放態度】歐洲央行管委卡茲米爾：對天然氣和電力價格日益感到擔憂。通脹風險明顯偏向上行。我們對下一個決策保持開放態度，但在有證據需要採取行動時將果斷決策。"
+    },
+    {
+      "id": "mkt:01a09ef1-2b5e-7118-856b-9e37771b2ccf",
+      "time": "2026-09-14 16:03:20",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "A.P. Moller-Maersk shares rose 4.5% to their highest level since January 2022."
+    },
+    {
+      "id": "5092672",
+      "time": "2026-09-14 16:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌公司的克雷默表示，液化天然氣價格過高，無法平衡市場。"
+    },
+    {
+      "id": "mkt:01a09ef0-9de3-7118-856b-92d7c01b844e",
+      "time": "2026-09-14 16:02:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Shell (SHEL.N) top executive said the company expects liquefied natural gas (LNG) sales to grow 4-5% annually from 2025 through 2030."
+    },
+    {
+      "id": "mkt:01a09ef0-9925-7118-856b-8974d49b6227",
+      "time": "2026-09-14 16:02:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB hawk Kazimir says inflation risks tilt higher, flags gas and power prices】ECB governing council member Kazimir said euro-area inflation could come in above the bank's recently upgraded forecasts and singled out natural gas and electricity as growing risks. The ECB last Thursday delivered a second rate hike this year and raised several inflation projections, underpinning market bets for up to three more hikes next year. Kazimir, viewed as a hawk, cautioned that policymakers' openness to further action should not be read as hesitation and said the bank will act decisively when evidence warrants. He said his focus has shifted from oil and fuels to gas and power, and that food inflation—which affects perceptions and expectations—is expected to pick up."
+    },
+    {
+      "id": "em:qqyh_mlc:202609143873428392",
+      "time": "2026-09-14 16:02:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【滙豐不再認為美聯儲今年會按兵不動】9月14日訊息，滙豐預計美聯儲將在9月和12月分別將利率提高0.25個百分點，改變了此前對利率將保持不變的判斷。鑑於美國經濟增長勢頭強勁，滙豐預計今年加息之後不會迅速轉向降息。"
+    },
+    {
+      "id": "5092671",
+      "time": "2026-09-14 16:02:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "Rum Group 受 Anthropic 算力交易訊息刺激大漲 27%。"
+    },
+    {
+      "id": "mkt:01a09ef0-4b74-7118-856b-8654c33517a2",
+      "time": "2026-09-14 16:02:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemeni Houthi forces said they attacked Saudi Arabia's Khamis Mushait air base."
+    },
+    {
+      "id": "mkt:01a09ef0-29ed-7118-856b-78a46276d7d4",
+      "time": "2026-09-14 16:02:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB governing council member Kazimir said the bank remains open on its next policy decision but will act decisively if evidence warrants."
+    },
+    {
+      "id": "mkt:01a09eef-f092-7118-856b-759642682136",
+      "time": "2026-09-14 16:01:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member Kazimir said inflation risks are clearly tilted to the upside."
+    },
+    {
+      "id": "mkt:01a09eef-df88-7118-856b-6ac24e139754",
+      "time": "2026-09-14 16:01:55",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazimir said food inflation is also expected to rise."
+    },
+    {
+      "id": "5092669",
+      "time": "2026-09-14 16:01:53",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝：對沙特空軍基地實施了重大而精準的打擊】胡塞武裝發表宣告：葉門武裝部隊對沙特的海米斯穆謝特空軍基地和基礎設施實施大規模軍事行動，我們使用數十枚彈道導彈和無人機，打擊了該空軍基地的軍事設施和基礎設施，包括飛機庫、雷達系統、跑道、彈藥庫等目標，打擊精確而直接。只要沙特繼續對我國人民進行不公正侵略，武裝部隊將繼續對沙特領土實施重大軍事行動。任何新的侵略都將遭到更大、更嚴厲的行動。我們將繼續維持以圍困對圍困、以升級對升級的策略，直到侵略停止、對我們國家的圍困解除。"
+    },
+    {
+      "id": "5092668",
+      "time": "2026-09-14 16:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省開封市政府黨組成員、副市長薛志勇接受審查調查】據河南省紀委監委訊息：河南省開封市政府黨組成員、副市長薛志勇涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a09eef-bbce-7118-856b-635df10fae72",
+      "time": "2026-09-14 16:01:46",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Kazimir said he is increasingly concerned about gas and electricity prices."
+    },
+    {
+      "id": "5092667",
+      "time": "2026-09-14 16:01:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500微型股指期貨下跌0.66%，納斯達克100指數期貨下跌1.59%，道瓊斯指數期貨下跌0.14%。"
+    },
+    {
+      "id": "5092666",
+      "time": "2026-09-14 16:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長齡液壓：夏繼發向範春曉轉讓5.01%股份完成過戶】長齡液壓公告，2026年7月21日，公司股東夏繼發與一致行動人範春曉簽署協議，擬轉讓936.57萬股（佔公司當前總股本的5.01%）給範春曉；本次協議轉讓已獲上海證券交易所合規性確認，並於2026年9月11日完成過戶登記。"
+    },
+    {
+      "id": "5092665",
+      "time": "2026-09-14 16:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌高管認為，到2050年天然氣市場規模將增長三分之二。"
+    },
     {
       "id": "5092664",
       "time": "2026-09-14 16:01:19",
