@@ -1,7 +1,15 @@
 {
   "date": "2026-09-15",
-  "count": 372,
+  "count": 373,
   "items": [
+    {
+      "id": "mkt:01a0a21b-a1ca-7118-8580-74a4c37fb5a3",
+      "time": "2026-09-15 06:48:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "No Going Back PAC, a newly formed super PAC tied to Trump’s political operation, reported roughly $21m in independent expenditures in competitive Senate and House races. Trump’s main super PAC, MAGA Inc., reported about $403.5m cash on hand as of July 31; Trump has said his political operation could spend up to $500m on the midterms."
+    },
     {
       "id": "5093934",
       "time": "2026-09-15 06:47:26",

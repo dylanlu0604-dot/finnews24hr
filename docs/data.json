@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-15 06:48:54",
+  "updated": "2026-09-15 06:52:50",
   "count": 13677,
   "items": [
+    {
+      "id": "mkt:01a0a21b-a1ca-7118-8580-74a4c37fb5a3",
+      "time": "2026-09-15 06:48:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "No Going Back PAC, a newly formed super PAC tied to Trump’s political operation, reported roughly $21m in independent expenditures in competitive Senate and House races. Trump’s main super PAC, MAGA Inc., reported about $403.5m cash on hand as of July 31; Trump has said his political operation could spend up to $500m on the midterms."
+    },
     {
       "id": "5093934",
       "time": "2026-09-15 06:47:26",
@@ -125971,14 +125979,6 @@
         "Important"
       ],
       "text": "New Zealand | Manufacturing Sales (Value) (QoQ) (Q2) | actual 3.1% | previous 2.80%"
-    },
-    {
-      "id": "5081572",
-      "time": "2026-09-08 06:50:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗多線釋放強硬訊號 美軍基地因移動裝置陷“暴露”危機】當地時間6日至7日，伊朗在軍事、經濟、外交多個方面對美釋放強硬訊號。軍事上，伊朗首次在美軍戰艦上空試射新型反艦導彈，警告意味明顯；經濟上，在經濟部內部設立經濟戰爭指揮部；外交上，強調將全力維護伊國家利益。而美國方面，美軍駐中東基地位置資料因移動裝置暴露一事引發關注。有分析稱，儘管美軍方表示已在多款手機和電腦上禁用廣告跟蹤器，但禁令已存在多年而洩露不止，到底有多少人在違規，恐怕美軍自己都難以搞清。（央視新聞）"
     }
   ]
 }
