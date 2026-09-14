@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-15 03:56:24",
+  "updated": "2026-09-15 04:00:09",
   "count": 13605,
   "items": [
+    {
+      "id": "mkt:01a0a180-565e-7118-857e-c8bb0247f2e2",
+      "time": "2026-09-15 03:58:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Serbian President Aleksandar Vucic announced he will resign on Sept 27."
+    },
+    {
+      "id": "5093846",
+      "time": "2026-09-15 03:58:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗CFO：今年股票回購規模將高於去年，去年回購金額達 130 億美元。"
+    },
     {
       "id": "mkt:01a0a17c-d4a2-7118-857e-c1ec24098436",
       "time": "2026-09-15 03:55:07",
@@ -125266,28 +125282,6 @@
         "國際"
       ],
       "text": "【以軍稱在加沙地帶打死兩名巴勒斯坦武裝人員】以色列國防軍7日說，以軍近日在加沙地帶發動兩次空襲，分別打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）各一名武裝人員。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a07d74-75be-7118-84d3-12bbbe63067a",
-      "time": "2026-09-08 03:59:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O"
-      ],
-      "text": "【King Charles to host closed-door AI meeting; NVIDIA CEO Huang, DeepMind chair Hassabis invited】King Charles III will host a high-level closed-door artificial intelligence meeting this month at Dumfries House in Ayrshire, Scotland, Politico cited people familiar with the plans. About 30 industry figures have been invited, including NVIDIA (NVDA.O) CEO Jensen Huang and DeepMind chair Demis Hassabis; UK government ministers are also invited. Royal officials said the king will not present an AI policy agenda but intends to convene stakeholders to listen and encourage debate. The event is organised by the Ditchley Foundation."
-    },
-    {
-      "id": "5081516",
-      "time": "2026-09-08 03:58:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西首都舉行獨立日閱兵儀式】當地時間9月7日上午，巴西在首都巴西利亞舉行獨立日閱兵儀式。巴西總統盧拉、副總統阿爾克明以及參議院、眾議院和聯邦最高法院負責人等出席活動。（央視新聞）"
     }
   ]
 }

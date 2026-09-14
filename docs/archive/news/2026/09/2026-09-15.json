@@ -1,7 +1,23 @@
 {
   "date": "2026-09-15",
-  "count": 219,
+  "count": 221,
   "items": [
+    {
+      "id": "mkt:01a0a180-565e-7118-857e-c8bb0247f2e2",
+      "time": "2026-09-15 03:58:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Serbian President Aleksandar Vucic announced he will resign on Sept 27."
+    },
+    {
+      "id": "5093846",
+      "time": "2026-09-15 03:58:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗CFO：今年股票回購規模將高於去年，去年回購金額達 130 億美元。"
+    },
     {
       "id": "mkt:01a0a17c-d4a2-7118-857e-c1ec24098436",
       "time": "2026-09-15 03:55:07",
