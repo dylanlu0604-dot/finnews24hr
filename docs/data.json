@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-15 04:34:22",
-  "count": 13615,
+  "updated": "2026-09-15 04:38:13",
+  "count": 13619,
   "items": [
+    {
+      "id": "te:markets:583617",
+      "time": "2026-09-15 04:37:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Oil Rally and Political Uncertainty — The Ibovespa fell 0.9% to close at 185,501 on Monday amid a rebound in oil prices and persistent political uncertainty. Oil prices rose after Saudi Arabia shut down a crucial pipeline that bypasses the Strait of Hormuz. A diplomatic meeting between Iran and Gulf Arab states to discuss the situation in Hormuz, originally scheduled for Monday in Oman, was abruptly postponed following the pipeline attack. Renewed energy-driven inflationary pressures ahead of interest-rate decisions by the BCB and the Fed weighed on credit-sensitive stocks. Major banks posted losses, with Itaú down 0.9% and Bradesco down 1.4%. Utilities also closed lower, with Eneva losing 1.5%. Political uncertainty remained elevated amid the ongoing Supreme Court crisis, while new election polls confirmed the close race for the presidency between President Lula and Flávio Bolsonaro. Brazil’s stock-market volatility index jumped 5.24%. Vale fell 3.5% as iron ore prices in China closed lower."
+    },
+    {
+      "id": "mkt:01a0a1a3-2ecd-7118-857f-54b3586b0a95",
+      "time": "2026-09-15 04:37:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump dismissed claims that artificial intelligence will take over, devour and destroy the world, and that robots will enter cities and kill everyone as a scam, calling it even more absurd than Russiagate or the global warming scam."
+    },
+    {
+      "id": "5093862",
+      "time": "2026-09-15 04:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大總理卡尼敦促歐盟敲定貿易協定。"
+    },
+    {
+      "id": "te:markets:583616",
+      "time": "2026-09-15 04:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.29% Lower — The Dow Jones Index decreased 152 points or 0.29 percent on Monday to close at 52421 points. The decline was led by Caterpillar (-4.23%), Goldman Sachs (-3.99%) and Nvidia (-3.26%). On the upside, the strongest performers were Salesforce (4.73%), IBM (2.36%) and Alphabet (2.15%)."
+    },
+    {
+      "id": "5093861",
+      "time": "2026-09-15 04:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普支援率從其總統任期最低點回升至 35%。"
+    },
+    {
+      "id": "mkt:01a0a1a0-8887-7118-857f-4a52beed087c",
+      "time": "2026-09-15 04:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows 63% of Americans oppose Trump's proposal to deliver a one-off $5,000 payment if Republicans retain control of Congress."
+    },
+    {
+      "id": "mkt:01a0a1a0-8469-7118-857f-42b22d395061",
+      "time": "2026-09-15 04:34:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say they intercepted two Saudi fighter formations】On the 14th (local time) Houthi spokesperson Yahya Saree said Houthi air defenses intercepted two Saudi fighter formations over Saada province. He identified the aircraft as Typhoon and F-15 jets that departed air bases in Khamis Mushait and Taif. Saree said Houthis used several locally made surface-to-air missiles to intercept the jets and forced them to turn back. Saudi authorities had no immediate comment."
+    },
     {
       "id": "mkt:01a0a1a0-23dd-7118-857f-39d0708d8b52",
       "time": "2026-09-15 04:33:41",
@@ -125377,34 +125447,6 @@
         "國際"
       ],
       "text": "美國中央司令部：截至9月7日，中央司令部部隊已攔截改道94艘商船，使3艘船隻喪失航行能力，並登檢2艘船隻，確保相關船隻完全遵守封鎖要求。"
-    },
-    {
-      "id": "mkt:01a07d97-a47a-7118-84d3-49223a2f58f5",
-      "time": "2026-09-08 04:38:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Central Command said as of Sept. 7 it had forced 94 commercial vessels to divert, rendered three vessels inoperable and boarded and inspected two vessels to ensure compliance with applicable requirements."
-    },
-    {
-      "id": "5081531",
-      "time": "2026-09-08 04:36:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Everbank將與Wafd銀行合併，組建規模達750億美元的銀行。"
-    },
-    {
-      "id": "5081530",
-      "time": "2026-09-08 04:35:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普釋出“擴張版美國地圖”：南至中美洲 東至歐洲冰島】美國總統特朗普當地時間週一在社交平臺釋出了一張地圖，將美國國旗圖案覆蓋在美國、加拿大、墨西哥、中美洲大部分地區、格陵蘭島、冰島、古巴和牙買加等加勒比島嶼上。特朗普此前曾提出要取得加拿大、格陵蘭島和巴拿馬運河的主權，但此次地圖將墨西哥和部分加勒比國家納入其中較為少見。此前一天，特朗普還發布一張將新墨西哥州改標為“新美國”的地圖。"
     }
   ]
 }
