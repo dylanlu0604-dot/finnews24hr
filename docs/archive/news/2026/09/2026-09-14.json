@@ -1,7 +1,58 @@
 {
   "date": "2026-09-14",
-  "count": 343,
+  "count": 348,
   "items": [
+    {
+      "id": "mkt:01a09d49-04ef-7118-8560-9488f3dc0d48",
+      "time": "2026-09-14 08:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "SoftBank Group shares fell 10% in early trade."
+    },
+    {
+      "id": "5091910",
+      "time": "2026-09-14 08:20:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞極右翼政黨領袖承諾削減75萬名移民】澳大利亞極右翼政黨一國黨（One Nation）提出計劃，擬在三年內削減約75萬名臨時移民，旨在利用民眾對生活成本壓力與住房短缺問題的不滿爭取支援。一份宣告顯示，該計劃將針對發放給國際學生及其家屬以及技術移民的簽證。一國黨領袖寶琳・漢森（Pauline Hanson ）週一表示，該方案將終止依靠“臨時簽證反覆續期”延長在澳居留的做法，同時遣返非法移民。據《澳大利亞金融評論》報道，此次宣言釋出數日後，澳大利亞總理安東尼・阿爾巴尼斯預計將公佈其中左翼政府修訂後的移民政策。人口快速增長加劇住房壓力引發社會擔憂，而這一背景推高了民調中漢森所屬政黨的支援率。漢森在宣告中稱：“如果澳大利亞民眾人均收入下降、買不起房、難以獲得病床、生活無法改善，那麼紙面意義上更大的經濟體毫無價值。如果每個澳大利亞人分到的經濟蛋糕份額在不斷縮小，蛋糕做大本身沒有任何意義。”"
+    },
+    {
+      "id": "mkt:01a09d48-32c4-7118-8560-8bc0d0188138",
+      "time": "2026-09-14 08:19:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【China International Capital Co: Fed should hike in September to preserve credibility】China International Capital Co said the Fed should raise rates in September to preserve its credibility, calling that the decisive factor for policy. The firm said July FOMC member Waller’s deliberate ambiguity confused markets and helped push the US Treasury term premium from 0.65% at end-July to 0.9% by mid-August, forcing hawkish language at Jackson Hole. While softer data would have given the Fed room to wait, successive stronger-than-expected nonfarm payrolls and inflation have increasingly cornered policymakers. The report warned that if the Fed again refrains from hiking, markets may view prior hawkish signals as hollow, risking a deeper credibility crisis and loss of control in the Treasury market."
+    },
+    {
+      "id": "5091909",
+      "time": "2026-09-14 08:19:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌11%，此前有人呼籲放緩AI開發。"
+    },
+    {
+      "id": "5091908",
+      "time": "2026-09-14 08:18:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "軟銀股價下跌11%。"
+    },
     {
       "id": "5091907",
       "time": "2026-09-14 08:16:31",
