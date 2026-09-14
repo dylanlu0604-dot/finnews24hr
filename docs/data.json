@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-14 16:28:01",
-  "count": 13879,
+  "updated": "2026-09-14 16:31:52",
+  "count": 13890,
   "items": [
+    {
+      "id": "mkt:01a09f0a-d099-7118-856c-bef9857b153d",
+      "time": "2026-09-14 16:31:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DXY up over 0.5% intraday, trading at 99.59."
+    },
+    {
+      "id": "te:economy:583481",
+      "time": "2026-09-14 16:31:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Denmark 10Y Bond Yield Hits 15-year High — Denmark 10 Year Government Bond Yield increased to 3.35%, the highest since May 2011. Over the past 4 weeks, Denmark 10Y Bond Yield gained 33.43 basis points, and in the last 12 months, it increased 81.87 basis points."
+    },
+    {
+      "id": "5092760",
+      "time": "2026-09-14 16:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達推出RTX PRO 5500 Blackwell專業工作站顯示卡，搭載84GB GDDR7視訊記憶體】英偉達官網正式釋出RTX PRO 5500 Blackwell專業工作站顯示卡，專為機櫃式工作站部署而設計。RTX PRO 5500採用Blackwell架構，擁有21760個CUDA核心並搭載84GB GDDR7視訊記憶體。該視訊記憶體支援錯誤校正碼(ECC)，頻寬高達1398 GB/s。此外，該卡支援PCIe Gen5，頻寬為PCIe Gen4的兩倍，提高CPU儲存的資料傳輸速度。"
+    },
+    {
+      "id": "mkt:01a09f09-f459-7118-856c-b5521f3eb9a9",
+      "time": "2026-09-14 16:30:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB fell 1.00% intraday."
+    },
+    {
+      "id": "5092759",
+      "time": "2026-09-14 16:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國牽頭制定 分散式多能系統通用總則國際標準釋出】記者今日瞭解到，國際電工委員會（IEC）近日釋出由我國牽頭制定的《分散式多能系統 第一部分：總則》國際標準。該標準由我國專家擔任工作組召集人，聯合瑞士、法國、韓國等10個國家的專家共同編制，是我國在智慧能源標準國際化工作中的又一標誌性成果。（央視新聞）"
+    },
+    {
+      "id": "te:markets:583480",
+      "time": "2026-09-14 16:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates by 3.46% — Top crypto gainers are XRP (3.46%), Ether (1.87%) and Bitcoin (1.19%)."
+    },
+    {
+      "id": "5092758",
+      "time": "2026-09-14 16:29:27",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【ST龍元：股票交易異常波動 無應披露未披露重大事項】ST龍元公告稱，公司股票於2026年9月10日、9月11日、9月14日連續3個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並問詢控股股東及實控人賴振元家族，截至公告披露日，不存在應披露而未披露的重大事項，董監高及控股股東、實控人在異動期間均未買賣公司股票。公司2025年度淨虧損25.86億元，2026年1-6月淨虧損8.05億元；存在部分債務逾期、訴訟及控股股東股份高比例質押凍結等風險，且法院已決定對公司進行預重整，是否進入重整程式尚存在不確定性，若法院裁定受理重整申請，公司股票將被實施退市風險警示。"
+    },
+    {
+      "id": "5092757",
+      "time": "2026-09-14 16:29:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美光、閃迪赴韓爭搶半導體核心人才 三星加碼薪酬與股權激勵應對挖角】半導體競爭的主戰場，已經轉向人才爭奪戰。三星電子為守住市場龍頭地位，不得不著手保護核心人才；與此同時，美光、閃迪等全球競爭對手也湧入韓國，爭搶高頻寬記憶體（HBM）與 NAND 快閃記憶體設計人才。能否搶到足夠多、能左右技術差距的核心人才，已經成為下一代儲存器市場的勝負關鍵。三星電子正透過提高績效獎金、擴大股權獎勵予以應對。今年上半年，員工數量較去年小幅減少，但薪酬總額、賬面薪酬成本等指標均出現上漲。"
+    },
+    {
+      "id": "5092756",
+      "time": "2026-09-14 16:29:04",
+      "tags": [
+        "宏觀",
+        "央行"
+      ],
+      "text": "【中國人民銀行：開展金融支援民營和普惠小微企業發展專項行動】中國人民銀行金融市場司司長曹媛媛9月14日在國務院政策例行吹風會上表示，中國人民銀行密切關注大型企業拖欠賬款對宏觀經濟、產業生態以及中小企業經營等帶來的負面影響，積極配合有關部門開展大型企業賬款治理工作，並積極支援大型企業透過貸款、債券發行等有息的負債融資，及時向中小企業等供應商支付現金。"
+    },
+    {
+      "id": "mkt:01a09f08-a39c-7118-856c-adb3116614e4",
+      "time": "2026-09-14 16:28:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry: Iran-Turkey ties extend beyond message relay】Iran foreign ministry spokesman Baghaei said Iran and Turkey maintain a \"special\" relationship that goes beyond relaying messages between Tehran and the U.S., with continuous foreign minister contact and cooperation across multiple fields. He said the countries share concerns and views on several issues, notably opposition to Israeli hegemonic policies, and use ministerial dialogue to discuss a broad agenda."
+    },
+    {
+      "id": "mkt:01a09f07-dfeb-7118-856c-a6bac0a2dd44",
+      "time": "2026-09-14 16:28:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian president will appoint deputy finance minister Suahasil Nazara as the new finance minister, Metro TV reported."
+    },
+    {
+      "id": "5092755",
+      "time": "2026-09-14 16:28:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股軟體股在盤前交易早段走高】財捷集團上漲2.3%，CrowdStrike上漲4.5%，Workday上漲2.8%。ServiceNow股價上漲3.5%，Adobe股價上漲2.5%，Atlassian股價上漲3.5%。"
+    },
     {
       "id": "5092754",
       "time": "2026-09-14 16:27:01",
@@ -127444,17 +127555,6 @@
         "Importance 1"
       ],
       "text": "Nickel Falls on Weak Demand, Elevated Stocks — Nickel traded below $16,750 per tonne, remaining under pressure as elevated inventories and weak downstream demand weighed on prices. LME warehouse stocks were around 271,000 tonnes in early September, while soft stainless steel demand continued to weigh on nickel consumption. Indonesia’s 2026 nickel ore quota was cut to 260–270 million tonnes from 379 million in 2025, but Philippine ore imports reached 11.4 million tonnes in January-July, up from 6.82 million a year earlier, helping keep Indonesian smelters supplied and offsetting some of the impact of the lower quota. Moreover, stronger US jobs data lifted expectations for a September Fed rate hike, keeping higher yields and a stronger dollar as additional headwinds for nickel. Meanwhile, lower cobalt payables for Indonesian MHP are squeezing HPAL margins and could prompt higher-cost producers to reduce output, offering some medium-term supply support."
-    },
-    {
-      "id": "te:markets:581600",
-      "time": "2026-09-07 16:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.29% — Top crypto losers are XRP (-1.29%), Bitcoin (-1.12%), Binance (-1.02%) and Ether (-0.98%)."
     }
   ]
 }
