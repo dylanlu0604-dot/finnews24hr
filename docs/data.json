@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-14 07:58:27",
-  "count": 13476,
+  "updated": "2026-09-14 08:02:17",
+  "count": 13474,
   "items": [
+    {
+      "id": "5091885",
+      "time": "2026-09-14 08:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.1%，至6692.61點。"
+    },
+    {
+      "id": "te:markets:583332",
+      "time": "2026-09-14 08:00:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit 9-week Low — ASX200 decreased to 8699.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) lost 5.46%, and in the last 12 months, it decreased 1.79%."
+    },
+    {
+      "id": "5091884",
+      "time": "2026-09-14 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報63659.53點，跌幅0.55％。韓國綜合股價指數（KOSPI）開盤下跌3.1％，至6692.61點。"
+    },
+    {
+      "id": "5091883",
+      "time": "2026-09-14 07:59:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，9月14日7時至17時，渤海海峽部分海域執行軍事任務，禁止駛入。"
+    },
+    {
+      "id": "5091882",
+      "time": "2026-09-14 07:58:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國地震臺網中心正就地震預警資訊接入iOS系統與蘋果公司溝通】9月14日，中國地震局官網“公眾留言”板塊顯示，針對關於加快推進地震預警資訊接入蘋果iOS系統的建議，中國地震局監測預報司回覆稱，中國地震臺網中心正在與蘋果公司溝通，力爭加快推進地震預警資訊接入iOS系統。另外，蘋果手機使用者目前可透過微信小程式獲取我局統一發布的地震預警資訊。"
+    },
     {
       "id": "5091881",
       "time": "2026-09-14 07:57:53",
@@ -123723,82 +123768,6 @@
         "國際"
       ],
       "text": "【高盛策略師料韓股還有80%上漲空間 看好記憶體榮景延續】高盛一位策略師仍然維持其對韓國股市的看漲目標，並稱投資人低估了AI熱潮對韓國記憶體晶片製造商的提振作用能持續多久。該投行亞太區首席股票策略師Timothy Moe維持對韓國Kospi指數12,000點的目標價，這意味著較目前水準有近80%的上漲空間。這一預測三個月前提出時，就是市場上最樂觀的目標之一。"
-    },
-    {
-      "id": "5079783",
-      "time": "2026-09-07 08:02:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本或拋售美債為創紀錄日元干預操作提供資金】日本過去一個月或變賣部分包括美國國債在內的境外證券持倉，為其規模創紀錄的匯率干預提供資金。日本財務省週一公佈的儲備資料顯示，8 月末日本境外證券持倉較上月減少 878 億美元，該降幅與日本近期託舉日元的干預規模接近。財務省此前確認，截至 8 月 26 日的一個月內，當局動用規模摺合 964 億美元，創下月度干預紀錄，部分操作與美國協同開展。該資料並未披露證券持倉品種、期限的細分資訊，但市場參與者估算，日本外匯儲備約 70% 配置於美國國債。"
-    },
-    {
-      "id": "mkt:01a0792b-da60-7118-84bd-987f9654e6f0",
-      "time": "2026-09-07 08:01:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 643.21 points, or 0.99%, at 65,664.15 on Monday, Sept. 7."
-    },
-    {
-      "id": "mkt:01a0792b-46c6-7118-84bd-95df2b4bae1d",
-      "time": "2026-09-07 08:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI index surpassed 6,900, up 3.34% at the open. Samsung Electronics rose 4.5% and SK Hynix gained 5.4%."
-    },
-    {
-      "id": "5079782",
-      "time": "2026-09-07 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.3%，至6910.78點。"
-    },
-    {
-      "id": "5079781",
-      "time": "2026-09-07 08:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65600.42點，漲幅0.89%。"
-    },
-    {
-      "id": "mkt:01a0792a-73e8-7118-84bd-8967beb9dd29",
-      "time": "2026-09-07 08:00:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Gold under early Monday pressure as markets focus on Friday U.S. CPI】Gold, down about 1% in the prior session, was slightly softer in early Monday trade near $4,425. Stronger-than-expected U.S. August payrolls and unchanged unemployment bolstered the case for a Fed rate hike at next week’s meeting. A firmer dollar and rising odds of a September hike—now ~60% versus ~50% early Friday—make dollar-priced, non‑yielding gold more expensive for buyers. Escalating Middle East tensions are adding inflation risk and concerns about prolonged energy supply disruption. Friday’s U.S. CPI will be watched for cues on Fed policy."
-    },
-    {
-      "id": "5079780",
-      "time": "2026-09-07 07:59:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國穿梭外交“形式大於實質” 難解俄烏僵局】當地時間6日，美國總統特使威特科夫和美總統特朗普的女婿庫什納率領的代表團訪問烏克蘭基輔，與烏克蘭總統澤連斯基率領的談判團隊以及英法德三國的代表舉行了會談。分析認為，美國的穿梭外交行動在解決俄烏衝突問題上短期內難有實質性突破，也難以改變俄烏當前的拉鋸戰和消耗戰，俄烏雙方談判分歧仍存。（央視）"
     }
   ]
 }
