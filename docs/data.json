@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-14 23:22:36",
-  "count": 13490,
+  "updated": "2026-09-14 23:26:34",
+  "count": 13494,
   "items": [
+    {
+      "id": "5093672",
+      "time": "2026-09-14 23:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文稱：AI與資料中心熱潮興起的唯一原因，是美國大幅領先其他所有國家。"
+    },
+    {
+      "id": "mkt:01a0a085-90cc-7118-857a-3f1cbda641f6",
+      "time": "2026-09-14 23:25:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. President Trump said the AI and data-center boom exists solely because the United States is far ahead of every other country and said, 'Do not kill the goose that lays the golden eggs.'"
+    },
+    {
+      "id": "mkt:01a0a085-2470-7118-857a-335bb4182c4d",
+      "time": "2026-09-14 23:24:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lagarde: Europe cannot rely solely on US AI technology】European Central Bank President Christine Lagarde said Europe cannot rely solely on buying AI technology from the United States and must develop its own components to avoid strategic vulnerability. She warned AI is “special”: beyond data-protection risks, issues around access, exit or contract changes would simultaneously affect all sectors, creating a form of leverage that could be used in trade negotiations, including tariffs or digital taxes. The comments reinforce ECB calls for Europe to accelerate domestic AI development to mitigate economic and sovereignty risk."
+    },
+    {
+      "id": "5093671",
+      "time": "2026-09-14 23:23:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：美國在人工智慧領域大幅領先。"
+    },
+    {
+      "id": "mkt:01a0a084-76d8-7118-857a-2ec8098af995",
+      "time": "2026-09-14 23:23:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spokesperson for the EU rotating presidency said EU ambassadors agreed to extend sanctions on Russian individuals and companies for 7 days before renewal."
+    },
+    {
+      "id": "5093670",
+      "time": "2026-09-14 23:23:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟輪值主席國發言人稱，歐盟特使同意將對俄羅斯個人及企業的制裁延長7天后再行續期。"
+    },
     {
       "id": "5093669",
       "time": "2026-09-14 23:21:52",
@@ -124250,29 +124304,6 @@
         "國際"
       ],
       "text": "【俄外交部：關閉德國駐聖彼得堡總領館和在俄歌德學院】俄羅斯外交部7日在官方網站釋出宣告說，俄方撤銷德國駐聖彼得堡總領事館的運作許可，要求在俄羅斯的德國歌德學院停止運營。（新華社）"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609073867041745",
-      "time": "2026-09-07 23:23:01",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "德國國債跌幅擴大，兩年期收益率上升5個基點至3%。"
-    },
-    {
-      "id": "mkt:01a07c76-ea51-7118-84d1-15f0b5f490f9",
-      "time": "2026-09-07 23:22:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "German government bonds fell further; the two-year yield rose 5bp to 3.00%."
     }
   ]
 }
