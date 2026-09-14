@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-14 22:46:54",
-  "count": 13444,
+  "updated": "2026-09-14 22:50:52",
+  "count": 13451,
   "items": [
+    {
+      "id": "mkt:01a0a065-bb98-7118-8579-96e923362705",
+      "time": "2026-09-14 22:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports OpenAI supports binding UK AI legislation."
+    },
+    {
+      "id": "mkt:01a0a065-4bfd-7118-8579-8f9f356e0445",
+      "time": "2026-09-14 22:49:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Kyiv mayor said air defense forces are conducting operations."
+    },
+    {
+      "id": "mkt:01a0a065-279e-7118-8579-86244468ac24",
+      "time": "2026-09-14 22:49:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Crewman from US F-15E shot down in Iran surfaces, says parachute failed】A crew member from a US F-15E shot down in Iran has appeared publicly for the first time, saying his parachute was damaged and he fell in a “free fall” before surviving. The jet, worth about $30 million, was downed by a man-portable air‑defense missile during an early‑April strike; both crew ejected. US forces deployed two transport aircraft carrying rescuers and multiple light helicopters, landing on a makeshift runway near his location; rescuers then used helicopters to reach a ridge. After he and the rescue team returned by helicopter to the makeshift runway, two aircraft became bogged down with landing gear stuck in sand and could not take off. US forces sent additional personnel to extract them and destroyed the fighter and the helicopters to prevent sensitive technology from falling into Iranian hands."
+    },
+    {
+      "id": "5093624",
+      "time": "2026-09-14 22:49:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國礦企簽約盧安達鎢礦專案】一家美國礦企正與盧安達政府合作，在當地採購並加工鎢礦。根據具有約束力的協議，盧安達方面將以提供一處勘探特許權和一張加工許可證的方式，入股Almonty Industries Inc.（阿爾蒙蒂工業）的當地子公司，獲得25%的股份。美國政府協助促成了此次盧安達合作並提供了政治支援，但並未直接提供資金。產出的鎢礦將運往美國、歐洲、日本和韓國的客戶。"
+    },
+    {
+      "id": "5093623",
+      "time": "2026-09-14 22:48:44",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀的Subramanian將標普500指數年底目標上調至7400點】美國銀行的美國股票及量化策略主管Savita Subramanian週一在報告中表示，該行將標普500指數年底目標位從7100點上調至7400點，稱長期看漲邏輯依然成立。該行還將標普500指數未來12個月目標位設為7800點。Subramanian寫道：“我們正進入季節性疲軟期，我們認為市場早就應該回撥了”。新的年底目標位較標普500指數上週五收盤點位低3.4%。仍對通脹風險以及美聯儲加息的可能性保持謹慎，稱任何推動融資成本上升的催化因素都可能“加速痛苦的到來”。"
+    },
+    {
+      "id": "5093622",
+      "time": "2026-09-14 22:47:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
+    {
+      "id": "5093621",
+      "time": "2026-09-14 22:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI支援英國具有約束力的人工智慧立法。"
+    },
+    {
+      "id": "mkt:01a0a062-abdc-7118-8579-7eef84003cec",
+      "time": "2026-09-14 22:46:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "META.O",
+        "Impact bearish",
+        "GOOGL.O"
+      ],
+      "text": "EU plans to restrict social media and chatbot use for children under 15."
+    },
     {
       "id": "5093620",
       "time": "2026-09-14 22:45:11",
@@ -123840,14 +123921,6 @@
         "其他"
       ],
       "text": "【胡塞武裝稱沙特戰機空襲葉門焦夫省哈茲姆地區】據葉門胡塞武裝方面訊息，當地時間9月7日，沙特方面戰機對葉門焦夫省哈茲姆地區發動空襲。截至目前，沙特方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5081422",
-      "time": "2026-09-07 22:49:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西班牙 7 月增加了從巴西與阿爾及利亞的原油進口】西班牙國家儲備機構 CORES 的資料顯示，7 月西班牙從巴西和阿爾及利亞進口的原油量升至一年多以來最高水平。 來自巴西的原油供應量攀升至 2025 年 5 月以來新高。 從阿爾及利亞的進口量升至 2025 年 3 月以來最高。 美國連續第二個月成為西班牙第一大原油供應國。 7 月其餘主要供應國依次為巴西、墨西哥和奈及利亞。 自 1996 年有統計以來，西班牙從沙烏地阿拉伯的原油進口量創下月度最低值。 來自利比亞的原油進口量為 2024 年 9 月之後的最低水平。"
     }
   ]
 }
