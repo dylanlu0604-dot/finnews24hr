@@ -1,7 +1,163 @@
 {
-  "updated": "2026-09-14 15:50:29",
-  "count": 13687,
+  "updated": "2026-09-14 15:54:16",
+  "count": 13703,
   "items": [
+    {
+      "id": "5092634",
+      "time": "2026-09-14 15:53:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.88美元/盎司。"
+    },
+    {
+      "id": "5092633",
+      "time": "2026-09-14 15:53:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯：歐洲央行在10月會議前也必須關注能源價格。"
+    },
+    {
+      "id": "mkt:01a09ee8-009a-7118-856a-f6882f540b9c",
+      "time": "2026-09-14 15:53:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China's Ministry of Industry and Information Technology said it will establish Phase II of the National SME Development Fund."
+    },
+    {
+      "id": "mkt:01a09ee7-f7a2-7118-856a-ecc64c3b32fb",
+      "time": "2026-09-14 15:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Civil Affairs says it never organized 'Guosheng Minan' elderly-subsidy project】The Ministry of Civil Affairs issued a fraud warning after criminals impersonated ministry staff to promote a 'Guosheng Minan' elderly-subsidy project and solicit investment, financing and wealth-management activity. The ministry says it never organized such projects and urged the public to be vigilant. It advised reporting individuals or organizations posing as ministry staff or the Department of Elderly Services to civil affairs authorities, and victims should report losses to local police. The ministry will report the matter to police and pursue legal action against responsible parties."
+    },
+    {
+      "id": "te:markets:583466",
+      "time": "2026-09-14 15:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Declines on Monday — The FTSE MIB fell to around 52,300 on Monday, giving back some of last week’s gains, with technology-related stocks leading losses. STMicroelectronics and Prysmian fell 4.1% and 5.1%, respectively, as investors reacted to Anthropic’s call over the weekend for a slower pace of AI development amid growing safety concerns. Risk appetite was also weakened by a renewed surge in oil prices amid escalating Middle East tensions and supply concerns. Other notable laggards included Enel (-1.0%) and Buzzi Unicem (-1.2%), while most financial stocks also traded lower. Monte dei Paschi di Siena fell 0.4% and Banco BPM 0.2% after MPS said its offers for Banco BPM and Banca Generali would remain valid even if Intesa Sanpaolo takes control of MPS. MPS said the implied premiums stood at 3.4% for Banco BPM and 12.8% for Banca Generali as of September 11. Generali rose 0.7%, while Intesa fell 0.3%."
+    },
+    {
+      "id": "5092632",
+      "time": "2026-09-14 15:53:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯：12月是評估形勢的合適時機。"
+    },
+    {
+      "id": "5092631",
+      "time": "2026-09-14 15:52:42",
+      "tags": [
+        "宏觀",
+        "行業",
+        "市場",
+        "焦點"
+      ],
+      "text": "【工信部：將設立國家中小企業發展基金二期】9月14日，國務院新聞辦公室舉行政策例行吹風會介紹加強中小企業回款難問題治理有關工作情況。工業和資訊化部副部長柯吉欣表示，如果發現大型企業一方面故意拉長賬期，另一方面不願用好融資支援政策，相關部門將及時介入，透過聯合約談等方式進行督促整改，對那些拒不整改的企業將進一步嚴格反不正當競爭執法，採取失信懲戒、公開曝光等形式，形成震懾。對中小微企業，將多維度提升企業的融資效能，聯合財政部、中國人民銀行等為中小微企業提供貸款貼息政策，科技創新和技術改造再貸款政策，切實降低中小微中小企業的融資成本。同時將設立國家中小企業發展基金二期，為中小企業轉型推進發展注入長期資本、耐心資本。"
+    },
+    {
+      "id": "5092630",
+      "time": "2026-09-14 15:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏茲別克計劃到2030年將鈾產量幾近翻倍】媒體援引烏茲別克礦業與地質部資料報道，烏茲別克計劃將鈾年產量從今年預期的約8000噸提升至2030年的15000噸。烏茲別克2025年鈾產量約7000噸。媒體援引國際原子能機構資料稱，烏茲別克鈾產量位居全球第五，鈾儲量位列全球第七。"
+    },
+    {
+      "id": "te:markets:583465",
+      "time": "2026-09-14 15:52:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Extends Retreat — Zinc prices slipped below $3,840 per tonne, extending their pullback from a more than four-year high, pressured by a stronger US dollar and weak sentiment across the base-metal complex. Investors ramped up bets on a Federal Reserve rate hike later this week after US inflation remained elevated in August, supporting the greenback, which makes dollar-denominated commodities more expensive for buyers using other currencies. Still, losses were limited by tight supply conditions. Production disruptions at several mines, including in China, have raised fears over the availability of zinc concentrates, while Middle East tensions have disrupted Iranian ore shipments. Meanwhile, LME inventories remain historically low and physical zinc availability is particularly tight outside China. Sharply lower smelter treatment charges, which have fallen into negative territory, further underscore the shortage of concentrate available to refiners."
+    },
+    {
+      "id": "5092629",
+      "time": "2026-09-14 15:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：維持上汽集團“買入”評級，出口是盈利重要增長點】東方證券日前研報指出，上汽集團自主品牌盈利能力大幅改善，出口是盈利重要增長點。公司上半年歸母淨利潤51.52億元，同比下降14.4%；二季度歸母淨利潤21.26億元，同環比分別-29.0%/-29.7%。上半年公司自主、新能源、海外銷量均有亮眼表現，帶動公司經營性利潤大幅改善。自主品牌國內和海外銷量高增，支撐自主盈利能力大幅改善。預計海外銷量是盈利重要增長點。公司組織架構調整後，預計出口單車盈利提升，2026全年海外銷量將實現快速增長，海外市場將成銷量及盈利的重要增長極。該行預測2026-2028年EPS分別為1.01、1.06、1.09元（原為1.09、1.16、1.26元，調整毛利率及費用率等，維持可比公司26年PE平均估值16倍，目標價16.16元，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a09ee6-5bcd-7118-856a-e6e9481874ef",
+      "time": "2026-09-14 15:51:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry spokesman Baghaei said a US submarine has been seized and taken as a war prize."
+    },
+    {
+      "id": "5092627",
+      "time": "2026-09-14 15:51:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一公司稱“出現刺激性氣味” 14人被送醫】當地時間14日下午，日本群馬縣太田市一家公司報警稱“出現刺激性氣味”，截至目前已有14人被送往醫院，均為輕度症狀。目前，警方正在對詳細情況進行調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a09ee5-daf0-7118-856a-d85ee23aec75",
+      "time": "2026-09-14 15:50:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT backs large firms replacing accounts payable via loans and bond issuance】Sept. 14 — At a State Council press briefing on measures to ease SME payment collection, Industry and Information Technology Ministry Vice Minister Ke Jixin said a new Notice requires large firms to shorten payable terms, reduce payable balances and raise cash receipt ratios. Acknowledging potential short-term funding pressure from compliance, the Notice says financing support will be strengthened for large firms that actively implement the rules: financial authorities will guide commercial banks to back large firms in replacing accounts payable with loans or bond issuance to ease funding strain and ensure timely payments to upstream and downstream firms."
+    },
+    {
+      "id": "5092626",
+      "time": "2026-09-14 15:50:31",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【工信部：支援大型企業貸款發債置換應付賬款】9月14日，國務院新聞辦公室舉行政策例行吹風會介紹加強中小企業回款難問題治理有關工作情況。工業和資訊化部副部長柯吉欣表示，《關於加強中小企業回款難問題治理有關工作的通知》對大型企業“壓減應付賬款期限、壓降應付賬款的規模、提高現金收入比例”等做出系列要求。我們能感受到大型企業在執行相關要求時，可能短時間會存在一些壓力，因此充分考慮相關情況做出專門安排。《通知》明確對積極落實相關要求的大型企業，要加強融資支援，金融部門將積極引導商業銀行，支援大型企業透過貸款發債的融資方式置換應付賬款，緩解大型企業資金壓力，及時向上下游企業支付。"
+    },
+    {
+      "id": "5092625",
+      "time": "2026-09-14 15:50:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌1%，至113,987.50。"
+    },
+    {
+      "id": "mkt:01a09ee5-321e-7118-856a-d39f18c2b174",
+      "time": "2026-09-14 15:50:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Leapmotor said its overseas exports totaled 132,118 vehicles in Jan-Aug 2026."
+    },
     {
       "id": "mkt:01a09ee4-ffab-7118-856a-cf36ca59b740",
       "time": "2026-09-14 15:50:02",
