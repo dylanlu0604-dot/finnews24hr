@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-14 22:50:52",
-  "count": 13451,
+  "updated": "2026-09-14 22:54:45",
+  "count": 13450,
   "items": [
+    {
+      "id": "mkt:01a0a068-08c2-7118-8579-a3ea55983d4e",
+      "time": "2026-09-14 22:52:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a senior Sunni Muslim cleric was shot dead by unidentified gunmen in southeastern Iran."
+    },
+    {
+      "id": "5093629",
+      "time": "2026-09-14 22:52:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴克萊銀行公佈，北方信託股價跌至盤中低點 3.6%。"
+    },
+    {
+      "id": "mkt:01a0a067-9d55-7118-8579-9fe0ca7563ed",
+      "time": "2026-09-14 22:52:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU, after saying a tunnel in Lebanon's Al-Tashira mountain range had been destroyed, warned that if his enemies have not learned their lesson and decide to attack again they will suffer heavier strikes."
+    },
+    {
+      "id": "5093628",
+      "time": "2026-09-14 22:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗東南部一名遜尼派高階神職人員遭不明槍手槍擊身亡”。"
+    },
+    {
+      "id": "5093627",
+      "time": "2026-09-14 22:52:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷諾茲：將制定收購英國特種鋼公司（SSUK）的公開收購方案。"
+    },
+    {
+      "id": "5093626",
+      "time": "2026-09-14 22:51:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國商務大臣喬納森・雷諾茲：英國無法按擬定條款支援特種鋼產業。"
+    },
+    {
+      "id": "5093625",
+      "time": "2026-09-14 22:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：“防空部隊正在首都開展行動，請待在防空掩體中！”"
+    },
     {
       "id": "mkt:01a0a065-bb98-7118-8579-96e923362705",
       "time": "2026-09-14 22:50:16",
@@ -123843,84 +123903,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列軍隊在黎巴嫩南部的巴尼哈揚實施大規模爆炸。"
-    },
-    {
-      "id": "mkt:01a07c5d-4bca-7118-84d0-d5f3a97ab9b6",
-      "time": "2026-09-07 22:54:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Turkey's president said the bill for the war Israel has launched in the region will not be borne only by Iran and Gulf states but by everyone."
-    },
-    {
-      "id": "mkt:01a07c5c-6b5b-7118-84d0-ccf506211307",
-      "time": "2026-09-07 22:53:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says it test-fired new anti-ship missile over US warship】On Sept. 6, Supreme National Security Council secretary Rezaei told Iranian state TV that 48 hours earlier Iran had test-fired a new anti-ship missile over a US warship."
-    },
-    {
-      "id": "5081430",
-      "time": "2026-09-07 22:53:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國大型高校捐贈基金跑贏標普500指數】多所美國大型高校捐贈基金有望追平或是跑贏大盤；得益於對SpaceX、OpenAI等科技企業的大額持倉，這些基金終結了連續數年跑輸市場的局面。 跟蹤該行業業績的劍橋聯合諮詢公司（Cambridge Associates）資料顯示，截至6月30日的過去12個月，標普500指數漲幅超20%，部分高校捐贈基金有望實現“顯著跑贏”該指數。 該諮詢機構捐贈與基金會業務全球負責人瑪格麗特·陳表示，基金收益來自對“少數幾家表現極其出色的非上市公司”的投資。她補充稱，捐贈基金的收益率中位數將會“十分亮眼”。這些基金透過直接持股，或是委託私募股權管理人完成相關佈局。"
-    },
-    {
-      "id": "5081428",
-      "time": "2026-09-07 22:52:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士稱，對沖基金巨頭克里斯・羅科斯將離開英國前往希臘，他將稅務居留地從英國變更為希臘。"
-    },
-    {
-      "id": "5081427",
-      "time": "2026-09-07 22:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX投資方 Valor 正洽談牽頭 5 億美元的 Uforce 輪融資。"
-    },
-    {
-      "id": "5081425",
-      "time": "2026-09-07 22:51:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱在美戰艦上空試射新反艦導彈】當地時間9月6日，伊朗最高國家安全委員會秘書雷扎伊在接受伊朗新聞電視臺採訪時表示，48小時前，伊朗在美軍戰艦上空試射了一枚新型反艦導彈。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a07c5a-12a8-7118-84d0-c2ef69d23b99",
-      "time": "2026-09-07 22:51:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthis say Saudi jets struck Hazm area in al-Jawf province】The Houthi movement said on Sept. 7 local time that Saudi warplanes carried out airstrikes on the Hazm area of al-Jawf province in Yemen. Saudi authorities had no immediate comment."
-    },
-    {
-      "id": "5081423",
-      "time": "2026-09-07 22:50:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特戰機空襲葉門焦夫省哈茲姆地區】據葉門胡塞武裝方面訊息，當地時間9月7日，沙特方面戰機對葉門焦夫省哈茲姆地區發動空襲。截至目前，沙特方面暫無回應。（央視新聞）"
     }
   ]
 }

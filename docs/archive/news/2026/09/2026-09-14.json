@@ -1,7 +1,67 @@
 {
   "date": "2026-09-14",
-  "count": 1854,
+  "count": 1861,
   "items": [
+    {
+      "id": "mkt:01a0a068-08c2-7118-8579-a3ea55983d4e",
+      "time": "2026-09-14 22:52:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a senior Sunni Muslim cleric was shot dead by unidentified gunmen in southeastern Iran."
+    },
+    {
+      "id": "5093629",
+      "time": "2026-09-14 22:52:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴克萊銀行公佈，北方信託股價跌至盤中低點 3.6%。"
+    },
+    {
+      "id": "mkt:01a0a067-9d55-7118-8579-9fe0ca7563ed",
+      "time": "2026-09-14 22:52:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU, after saying a tunnel in Lebanon's Al-Tashira mountain range had been destroyed, warned that if his enemies have not learned their lesson and decide to attack again they will suffer heavier strikes."
+    },
+    {
+      "id": "5093628",
+      "time": "2026-09-14 22:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗東南部一名遜尼派高階神職人員遭不明槍手槍擊身亡”。"
+    },
+    {
+      "id": "5093627",
+      "time": "2026-09-14 22:52:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷諾茲：將制定收購英國特種鋼公司（SSUK）的公開收購方案。"
+    },
+    {
+      "id": "5093626",
+      "time": "2026-09-14 22:51:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國商務大臣喬納森・雷諾茲：英國無法按擬定條款支援特種鋼產業。"
+    },
+    {
+      "id": "5093625",
+      "time": "2026-09-14 22:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：“防空部隊正在首都開展行動，請待在防空掩體中！”"
+    },
     {
       "id": "mkt:01a0a065-bb98-7118-8579-96e923362705",
       "time": "2026-09-14 22:50:16",
