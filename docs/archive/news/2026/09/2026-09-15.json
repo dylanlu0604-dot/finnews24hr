@@ -1,7 +1,18 @@
 {
   "date": "2026-09-15",
-  "count": 211,
+  "count": 212,
   "items": [
+    {
+      "id": "mkt:01a0a174-c2d1-7118-857e-aa835befe9e5",
+      "time": "2026-09-15 03:46:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y"
+      ],
+      "text": "【Fed pauses reserve-management Treasury purchases for second consecutive month】The New York Fed said it will not conduct reserve-management Treasury purchases in the monthly cycle through Oct. 14, marking a second consecutive monthly pause. The NY Fed still expects roughly $15.6 bln of reinvestment purchases in the same period. The decision signals policymakers view bank reserve levels as adequate; SOFR has traded at or below the IORB for most of the past month and the Treasury trimmed T-bill supply ahead of the quarterly tax deadline. The Fed said this does not represent a change in monetary policy or balance-sheet strategy — reserve-management purchases are aimed at adjusting reserve levels rather than QE, and MBS reinvestments will continue as part of balance-sheet management."
+    },
     {
       "id": "mkt:01a0a172-5686-7118-857e-a51c3cc1700e",
       "time": "2026-09-15 03:43:39",

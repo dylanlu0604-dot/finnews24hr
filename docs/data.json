@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-15 03:44:59",
-  "count": 13604,
+  "updated": "2026-09-15 03:48:48",
+  "count": 13603,
   "items": [
+    {
+      "id": "mkt:01a0a174-c2d1-7118-857e-aa835befe9e5",
+      "time": "2026-09-15 03:46:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y"
+      ],
+      "text": "【Fed pauses reserve-management Treasury purchases for second consecutive month】The New York Fed said it will not conduct reserve-management Treasury purchases in the monthly cycle through Oct. 14, marking a second consecutive monthly pause. The NY Fed still expects roughly $15.6 bln of reinvestment purchases in the same period. The decision signals policymakers view bank reserve levels as adequate; SOFR has traded at or below the IORB for most of the past month and the Treasury trimmed T-bill supply ahead of the quarterly tax deadline. The Fed said this does not represent a change in monetary policy or balance-sheet strategy — reserve-management purchases are aimed at adjusting reserve levels rather than QE, and MBS reinvestments will continue as part of balance-sheet management."
+    },
     {
       "id": "mkt:01a0a172-5686-7118-857e-a51c3cc1700e",
       "time": "2026-09-15 03:43:39",
@@ -125263,22 +125274,6 @@
         "XAUUSD"
       ],
       "text": "Iranian Foreign Ministry said Foreign Minister Araghchi briefed the OIC's newly appointed secretary-general on the regional situation following US and Israeli military action against Iran, urging Islamic states to take unified, responsible measures to safeguard Iranian sovereignty. Araghchi invited the OIC secretary-general to visit Tehran as soon as possible."
-    },
-    {
-      "id": "mkt:01a07d68-836f-7118-84d2-fe48781e8dcb",
-      "time": "2026-09-08 03:46:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said Foreign Minister Araqchi spoke by phone with the new secretary-general of the Organization of Islamic Cooperation (OIC)."
-    },
-    {
-      "id": "5081512",
-      "time": "2026-09-08 03:46:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：伊朗外長同伊斯蘭合作組織新任秘書長通電話。"
     }
   ]
 }
