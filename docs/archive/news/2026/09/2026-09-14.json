@@ -1,7 +1,96 @@
 {
   "date": "2026-09-14",
-  "count": 1801,
+  "count": 1811,
   "items": [
+    {
+      "id": "mkt:01a0a050-14d8-7118-8579-33622a3dda05",
+      "time": "2026-09-14 22:26:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Stoxx Europe 600 fell 0.5% to an intraday low."
+    },
+    {
+      "id": "mkt:01a0a04f-d11a-7118-8579-28023e63957f",
+      "time": "2026-09-14 22:26:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Markets have fully priced in five 25bp Bank of England rate hikes by end-2027."
+    },
+    {
+      "id": "mkt:01a0a04f-9899-7118-8579-27d2dfceedff",
+      "time": "2026-09-14 22:26:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The economic adviser to Senator Flávio Bolsonaro, son of former president Jair Bolsonaro, said he will abolish the oil export tax."
+    },
+    {
+      "id": "5093595",
+      "time": "2026-09-14 22:26:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至0.5%，創盤中新低。"
+    },
+    {
+      "id": "5093594",
+      "time": "2026-09-14 22:25:38",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "交易員已充分消化了英國央行到2027年底前五次加息（每次0.25個百分點）的預期。"
+    },
+    {
+      "id": "5093593",
+      "time": "2026-09-14 22:25:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "博索納羅環保顧問薩克斯達 ：博索納羅將取消石油出口稅。"
+    },
+    {
+      "id": "mkt:01a0a04e-c91d-7118-8579-1c70005e34b9",
+      "time": "2026-09-14 22:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish Prime Minister Tusk today convened ministers, senior armed forces and department chiefs to discuss next steps to strengthen border security."
+    },
+    {
+      "id": "5093592",
+      "time": "2026-09-14 22:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS攜手Proximie與德勤，合作開展英國國家醫療服務體系規模最大的外科人工智慧評估專案。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609143873731652",
+      "time": "2026-09-14 22:23:32",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "交易員已完全定價到2027年底，歐洲央行將累計加息四次。"
+    },
+    {
+      "id": "5093591",
+      "time": "2026-09-14 22:23:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認Investment AB Latour評級為A，展望穩定。"
+    },
     {
       "id": "mkt:01a0a04c-43de-7118-8579-11c4b1988528",
       "time": "2026-09-14 22:22:27",
