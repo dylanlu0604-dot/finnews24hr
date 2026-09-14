@@ -1,7 +1,65 @@
 {
   "date": "2026-09-15",
-  "count": 378,
+  "count": 384,
   "items": [
+    {
+      "id": "te:markets:583628",
+      "time": "2026-09-15 06:59:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Lower in Morning Trade — The NZX 50 fell 24 points, or 0.2%, to 13,537 in Tuesday morning trade, down for the fourth straight session and lingering at its lowest level since June 26, tracking a decline on Wall Street overnight due to a sell-off in chipmakers after AI companies called for an industry-wide slowdown. Traders were cautious ahead of the release of New Zealand’s Q2 GDP later this week, with the market expecting quarterly growth to ease. Caution also prevailed ahead of a slew of economic data from China, New Zealand’s top trading partner, as well as the Fed’s monetary policy meeting later this week. On the data front, New Zealand electronic card spending fell in August after rising in the previous month. Energy, healthcare, and financials mainly weighed on the index, with notable losses from Channel Infrastructure (-2.3%), Infratil (-1.1%), Fisher & Paykel (-0.8%), Bankers Investment (-0.9%), and Hallenstein Glasson (-0.7%)."
+    },
+    {
+      "id": "5093941",
+      "time": "2026-09-15 06:58:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樓市新政後上市房企首單再融資 保利發展擬發行五十億元定向可轉債】樓市“8 28”新政落地半個月，A股市場地產板塊迎來首單再融資專案。今年8月底，證監會發布的《關於資本市場支援構建房地產發展新模式的意見》提到，支援上市房地產開發企業綜合運用股份、定向可轉債、現金等工具收購涉房資產，其中發行股份、定向可轉債購買資產的，可以募集配套資金，並用於符合政策要求的房地產專案和支付本次重組交易對價等。近日，保利發展披露50億元定向可轉債募集說明書，成為此次房地產新政落地後，A股地產上市公司中首家啟動再融資的上市房企。（證券時報）"
+    },
+    {
+      "id": "5093940",
+      "time": "2026-09-15 06:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【詞元經濟加速崛起 A股多家上市公司積極佈局】人工智慧大模型與智慧體的規模化商用，推動詞元從技術計量單元躍升為價值樞紐。預計從2026年到2030年，我國詞元年消耗量年複合增長率接近12倍，多家上市公司也積極佈局詞元經濟賽道。近日，中國電信研究院釋出《智慧體時代AI基礎設施發展研究報告（2026）》指出，隨著人工智慧（AI）產業發展重心從大模型和算力競爭轉向智慧體規模落地、應用變現，我國詞元需求量呈現爆發式增長。中國電信研究院行業與企業戰略研究所所長饒少陽預計，2026年我國詞元年消耗量將達到10億億，到2030年將超過3500億億，年複合增長率接近12倍。（證券時報）"
+    },
+    {
+      "id": "5093939",
+      "time": "2026-09-15 06:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“嫦娥六號”月背月壤樣品落戶維也納聯合國總部】當地時間9月14日，中國國家航天局、常駐維也納聯合國和其他國際組織代表團和聯合國外空司在維也納聯合國總部舉行交接儀式，中國將“嫦娥六號”採集的人類首批月背月壤樣品正式贈送聯合國。維也納各國際組織負責人、各國常駐代表、維也納各界代表等400餘名嘉賓出席。國家航天局局長單忠德同聯合國維也納辦事處總幹事朱馬、外空司司長霍拉-邁尼、中國常駐維也納代表李松大使一道為月壤樣品揭幕。月壤樣品將在維也納聯合國總部永久展出。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a222-d724-7118-8580-811bee8f2a05",
+      "time": "2026-09-15 06:56:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi-led coalition said on Monday that attacks by Yemen’s Houthi militants on the Saudi cities of Khamis Mushait, Abha and Taif injured 13 civilians."
+    },
+    {
+      "id": "5093938",
+      "time": "2026-09-15 06:56:26",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根士丹利改為預計美聯儲在9月和12月各加息25個基點】摩根士丹利的經濟學家改變了對美聯儲政策的預測，轉而認為央行會在9月和12月分別加息25個基點。該行8月14日重申的預估是，美聯儲今年不會調整利率，而明年將兩次降息25個基點。“我們預計美聯儲將在本週會議上加息25個基點，而且不會有異議，” 首席美國經濟學家Michael Gapen在研報中稱，“美聯儲一旦行動，很少只動一次”。他預測，12月之後美聯儲將隨著通脹放緩而暫停加息。"
+    },
     {
       "id": "mkt:01a0a221-d4b9-7118-8580-792bfdc7c55d",
       "time": "2026-09-15 06:55:21",
