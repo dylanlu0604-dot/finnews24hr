@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-14 08:13:32",
-  "count": 13481,
+  "updated": "2026-09-14 08:17:19",
+  "count": 13480,
   "items": [
+    {
+      "id": "5091907",
+      "time": "2026-09-14 08:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【質肽生物完成近3億元C+輪融資】9月14日，質肽生物宣佈完成近3億元人民幣C+輪融資。本輪融資由凱輝基金領投，華泰紫金跟投，老股東騰訊、驪宸投資持續加碼。"
+    },
+    {
+      "id": "5091906",
+      "time": "2026-09-14 08:16:11",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券A股策略：適度把握階段性佈局視窗】華泰證券研報稱，上週，A股整體縮量回撥，以創業板指為代表的大盤成長風格小幅反彈。海外宏觀等不確定性的壓制使得交易活躍度維持在相對低位，資金向AI硬體等交易性籌碼出清相對充分方向集中。週末，美國8月通脹資料超預期升溫，9月加息的預期已接近充分定價。同時，A股的風險溢價也已執行至階段高位。隨著本週FOMC會議的落地，短期，A股的勝率和賠率均提升，可適度提升交易性倉位。中期，上游漲價及投資收益驅動中報業績超預期，K型分化亦有收斂跡象，但持續性待驗，配置性倉位仍需重視潛在的底部拐點品種。綜上，短期進攻端關注光通訊、PCB、CXO等；中期關注造紙鏈、部分化工品等；紅利仍作為底倉。"
+    },
+    {
+      "id": "5091905",
+      "time": "2026-09-14 08:16:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下滑0.3%，英國富時指數期貨走低0.1%。"
+    },
+    {
+      "id": "5091904",
+      "time": "2026-09-14 08:15:56",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：外部擾動對A股影響仍偏階段性 長期穩進趨勢仍有望延續】中金公司研報稱，短期來看，海外擾動影響仍待消化，中東地緣局勢仍存不確定性，美聯儲公信力修復仍需時間，同時9月作為美國投資級信用債傳統發行旺季，信用債供給壓力可能再度上行，美債利率難以快速下行，全球流動性整體偏緊，全球風險資產波動率或有所放大。後續關注9月美FOMC會議、地緣不確定性下的油價變化、美中期選舉影響等。當前外部擾動對A股影響仍偏階段性，對市場中期走勢不必悲觀，“9·24”以來的長期、穩進趨勢仍有望延續。配置層面，外部衝擊影響較大階段紅利風格往往相對佔優；後續若外部風險緩釋，仍建議關注業績確定性較強的領域和企業，注重自下而上的行業和個股層面發掘。建議兩大主線：景氣成長和週期改善。"
+    },
+    {
+      "id": "5091903",
+      "time": "2026-09-14 08:15:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "軟銀股票暫未交易，預計下跌。"
+    },
+    {
+      "id": "5091902",
+      "time": "2026-09-14 08:14:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受中東局勢和人工智慧發展放緩的擔憂影響，日經指數在交易時段內跌破63000點，為 8 月 4 日以來首次跌破該水平。"
+    },
+    {
+      "id": "5091901",
+      "time": "2026-09-14 08:13:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電回應先進製程擴產傳聞：依公司公告為準】據臺媒援引供應鏈訊息，臺積電首次揭露明年最新2/3奈米擴產目標，2奈米從今年底9萬片，明年中增至11萬片，增幅22%；3奈米從今年底逾18萬片，明年中達21萬片，增幅逾16%。9月13日，臺積電回應稱不評論市場傳聞，強調有關產能相關說明，依公司公告為準。"
+    },
+    {
+      "id": "5091900",
+      "time": "2026-09-14 08:13:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Space42與Viasat達成10億美元網路連線增強平臺協議】當地時間9月13日，據報道，一份宣告顯示，人工智慧航天科技公司Space42與美國衛訊公司（Viasat）簽署協議，將共同建立平臺“Equatys”。該平臺將整合太空與地面基礎設施，支援在地面網路無法覆蓋的地區擴充套件移動覆蓋和疊加網路。Space42和Viasat將各自承諾初始股權投資4億美元，預計Space42將在未來向第三方投資者開放的股權融資輪中追加投資2億美元。"
+    },
     {
       "id": "te:markets:583333",
       "time": "2026-09-14 08:12:48",
@@ -123710,100 +123781,6 @@
         "觀點"
       ],
       "text": "【中信證券：維持保險行業“強於大市”評級】中信證券研報稱，本輪《中華人民共和國保險法》（以下簡稱《保險法》）修訂草案從法律層面對監管框架進行系統完善。對投資者而言，我們認為最直接影響是：草案擬刪除註冊資本20%保證金和財險自留保費上限等部分靜態約束，有望減少資本沉澱、最佳化承保槓桿，支援頭部保險公司提升資本使用效率和分紅能力。同時，我們預計償二代三期有望於2027年落地，系列監管政策有望從供給側改善行業生態，促進經營質效與股東回報提升，中長期發展趨勢向好，維持保險行業“強於大市”評級。"
-    },
-    {
-      "id": "te:markets:581432",
-      "time": "2026-09-07 08:17:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Decline on Fed Rate Hike Bets — Silver traded near $66 an ounce on Monday after losing more than 1% in the previous session, pressured by growing expectations of an imminent Federal Reserve interest rate hike following stronger-than-expected US jobs data last week. Data released Friday showed US nonfarm payrolls rose by 162,000 in August, following an upwardly revised increase of 23,000 in July and well above market expectations for a gain of 56,000. Meanwhile, the unemployment rate remained unchanged at 4.1%, while annual wage growth slowed to 3.1%, although the decline was smaller than economists had expected. Markets increased bets on a September Fed rate hike to roughly 60%, up from around 50% before the data release. Silver also remained under pressure from higher oil prices as the US and Iran exchanged strikes on ships over the weekend, stoking concerns about renewed inflationary pressures."
-    },
-    {
-      "id": "5079804",
-      "time": "2026-09-07 08:17:06",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：強勁非農抵消沃勒發言，市場靜待CPI】中信證券研報稱，2026年8月美國新增非農就業人數大幅高於預期，休閒酒店和醫療保健行業貢獻明顯，地方政府教育崗位人數反彈。私人部門結構上，商品生產部門連續第6 個月增加就業，或反映了美國資料中心建設的需求。金融和資訊科技行業就業人數下降反映了AI的衝擊。8月失業率維持在4.1%，取兩位小數為4.14%，勞動力參與率從61.4%回升至61.6%，45-54歲參與率的連續下滑仍需觀察。8月強勁非農資料和美聯儲理事Waller偏鴿發言對沖，市場再次定價9月加息機率為60%左右，接下來重點關注9月11日釋出的8月CPI。"
-    },
-    {
-      "id": "5079803",
-      "time": "2026-09-07 08:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026國談第三日上午場：諾誠健華、華潤雙鶴、默沙東、正大天晴、艾伯維等企業代表入場】今日八時許，2026年國家基本醫保藥品目錄談判競價及商保創新藥目錄價格協商第三日上午場正式開啟，記者在現場觀察到，華潤雙鶴、默沙東、遠大製藥、首藥控股、中美華東、正大天晴、艾伯維、諾華等近20家企業代表陸續入場，今日談判品種依舊有不少腫瘤藥物。 (財聯社)"
-    },
-    {
-      "id": "5079802",
-      "time": "2026-09-07 08:15:47",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：房地產行業會走一條去製造業的發展道路】中信證券研報認為，和一些觀點恰恰相反，中信證券認為房地產行業恰恰會走一條去製造業的發展道路，即追求個性化交付和精品化開發。相比製造業而言，房地產業的消費服務屬性，令不同房企之間的產品和服務差異可能放大。產品力不再是次要競爭力，好房子是高規格，高標準建造的，和存量二手房差距極大的優質產品。在這一長期趨勢下，推薦具備個性化交付經驗積累的發展商，和可能承接一些選配裝修服務的物業公司。"
-    },
-    {
-      "id": "te:markets:581431",
-      "time": "2026-09-07 08:15:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Drop on Fed Rate Hike Bets — Gold traded near $4,400 an ounce on Monday after declining about 1% in the previous session, pressured by growing expectations of an imminent Federal Reserve interest rate hike following stronger-than-expected US jobs data last week. Data released Friday showed US nonfarm payrolls rose by 162,000 in August, following an upwardly revised increase of 23,000 in July and well above market expectations for a gain of 56,000. Meanwhile, the unemployment rate remained unchanged at 4.1%, while annual wage growth slowed to 3.1%, although the decline was smaller than economists had expected. Markets increased bets on a September Fed rate hike to roughly 60%, up from around 50% before the data release. Gold also remained under pressure from higher oil prices as the US and Iran exchanged strikes on ships over the weekend, stoking concerns about renewed inflationary pressures."
-    },
-    {
-      "id": "mkt:01a07938-09b1-7118-84bd-cb43c22e5e0c",
-      "time": "2026-09-07 08:15:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "9984.T",
-        "Impact bullish",
-        "6920.T",
-        "Nikkei 225"
-      ],
-      "text": "Japanese chip-related shares jumped: Kioxia rose 7.3%, SoftBank Group rose 5.4% and Lasertec rose 8.2%."
-    },
-    {
-      "id": "mkt:01a07937-a32f-7118-84bd-c202012ce79b",
-      "time": "2026-09-07 08:14:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "USD/KRW touched its highest level since Oct. 7, 2024, trading at 1,344.22."
-    },
-    {
-      "id": "5079801",
-      "time": "2026-09-07 08:14:20",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股大幅上漲，鎧俠股價上漲7.3%，軟銀集團股價上漲5.4%，Lasertec股價上漲8.2%。"
-    },
-    {
-      "id": "5079800",
-      "time": "2026-09-07 08:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱日本有病別傳染給他國】俄羅斯外交部發言人扎哈羅娃9月6日直斥日本首相高市早苗關於“拆除俄羅斯一座紀念碑”的要求太荒謬。 俄羅斯遠東哈巴羅夫斯克市9月4日為一座紀念戰勝軍國主義日本的紀念碑舉行揭幕儀式。日本首相高市早苗隨後在社交媒體平臺用日語和俄語發帖，要求俄方將紀念碑拆除。高市早苗在帖文中稱，“菊花紋章作為象徵日本的紋章被廣泛認知，設立表現其被摧毀場景的紀念碑完全無法接受。這是關乎日本國民感情的問題，日本政府此前已就此向俄方強烈要求停止設定並拆除該紀念碑。今後將繼續強烈敦促其拆除。” 據俄新社9月6日報道，扎哈羅娃就此發問，日本政府“接下來是不是該要求風不要吹、太陽不要發光了？” 扎哈羅娃還強調， “我們的歷史基於事實，我們的記憶鐫刻於紀念碑上。日方無視本國曆史，但別把這種‘病’傳染給其他國家。” 這是俄羅斯目前最大的、紀念戰勝軍國主義日本的紀念碑，由俄羅斯軍事歷史學會與哈巴羅夫斯克邊疆區政府合作建成。紀念碑中央是一尊15米高的、手持長槍的蘇聯士兵雕像，旁邊一座繪有菊花圖案的界碑被砸成兩半。俄羅斯軍事歷史學會表示，被搗毀的菊花圖案正是軍國主義日本的象徵，如此設計紀念碑是正確和符合史實的。（CCTV國際時訊）"
     }
   ]
 }
