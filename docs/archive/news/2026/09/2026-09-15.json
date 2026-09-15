@@ -1,7 +1,155 @@
 {
   "date": "2026-09-15",
-  "count": 1878,
+  "count": 1892,
   "items": [
+    {
+      "id": "5095374",
+      "time": "2026-09-15 20:06:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星華新材：股東詢價轉讓價格初步確定為19.21元/股】星華新材公告，根據9月15日詢價申購情況，本次股東詢價轉讓價格初步確定為19.21元/股。共有19家機構投資者參與報價，合計有效認購955萬股，對應有效認購倍數5.61倍。本次擬轉讓股份已獲全額認購，初步確定受讓方為4名機構投資者，擬受讓股份總數為170.25萬股。此次詢價轉讓不屬於透過二級市場減持，受讓方所受讓股份在受讓後6個月內不得轉讓。"
+    },
+    {
+      "id": "5095373",
+      "time": "2026-09-15 20:06:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【啟明資訊：股票交易異常波動 無應披露未披露重大事項】啟明資訊公告稱，公司股票在2026年9月14日、9月15日連續2個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經自查並向控股股東、實控人函證，公司前期披露資訊無需更正補充，不存在應披露未披露的重大事項，控股股東及實控人在異動期間未買賣公司股票。針對市場關注的一汽股份與廣汽集團合作事宜，公司未參與且該事項不涉及公司，2026年上半年與廣汽集團及其關聯方無業務往來；2025年網路安全業務收入佔比5.08%，目前經營平穩；具身智慧業務尚未形成商業化應用。公司經營情況正常，內外部經營環境未發生重大變化，提醒投資者理性投資、注意風險。"
+    },
+    {
+      "id": "5095372",
+      "time": "2026-09-15 20:05:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中新賽克：股票交易異常波動 AI安全業務佔比不足2%】中新賽克公告稱，公司股票2026年9月14日、9月15日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。截至2026年9月15日，公司收盤價28.45元/股，滾動市盈率597.99倍，遠高於軟體和資訊科技服務業57.73倍的行業滾動市盈率。針對市場關注的AI安全概念，公司AI應用產品尚處商業化起步階段，2026年上半年該類產品營收佔整體營收不超過2%。公司2026年上半年實現營業收入2.35億元，淨虧損1.29億元。經核查，公司經營情況正常，不存在應披露未披露重大事項；控股股東一致行動人廣東紅土、南京紅土、崑山紅土及鄭州百瑞已完成減持計劃，合計減持313.93萬股，佔公司總股本1.84%。"
+    },
+    {
+      "id": "mkt:01a0a4f4-e358-7118-8596-7218085d3651",
+      "time": "2026-09-15 20:05:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US ADP private payrolls change for the week to Aug 29 due in 10 minutes."
+    },
+    {
+      "id": "5095371",
+      "time": "2026-09-15 20:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙政府批准130億歐元機場網路五年投資計劃】西班牙政府已正式批准《機場監管檔案》（DORA），授權機場管理公司Aena在未來五年內對全國機場網路實施總額約130億歐元的投資。根據規劃，約100億歐元為與航空活動直接相關的受監管投資，其餘約30億歐元為非受監管的商業活動投資。在資金分配上，馬德里-巴拉哈斯機場將獲得約44億歐元用於擴建航站樓及改善多式聯運等基礎設施，巴塞羅那-埃爾普拉特機場預計獲得約17億歐元。此次大規模投資旨在推進機場基礎設施與服務現代化，以應對未來航空客流的增長需求。旅遊業是西班牙經濟的重要支柱，佔該國GDP的5.9%並創造約60萬個就業崗位，且約80%的遊客透過航空方式抵達。該計劃的落地將進一步鞏固西班牙作為全球主要旅遊目的地的基礎設施承載力與連通性。"
+    },
+    {
+      "id": "mkt:01a0a4f4-4712-7118-8596-6d10e1e04f88",
+      "time": "2026-09-15 20:04:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei unveils world’s first 3D data center, opens designs to build AIDC paradigm】Huawei unveiled the world’s first 3D data center, published a monograph and opened an outline design library to co-develop an AIDC (AI data center) paradigm. The design vertically stacks traditionally horizontal data-center functions into four layers—bottom-up: cooling, IT equipment, power and backup—borrowing chip-fab separation of “power” and “production” layers. Huawei said 10-trillion-parameter models and rapid token growth raise AI infrastructure requirements, and ASCEND SUPERNODE clusters with more than 100,000 cards will become the baseline configuration. The 3D data center uses layered decoupling and vertical stacking to support ASCEND SUPERNODE clusters as a “super compute factory.”"
+    },
+    {
+      "id": "mkt:01a0a4f3-faaf-7118-8596-65e449eede78",
+      "time": "2026-09-15 20:04:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened the Sept. 15 evening session down 1.08% at 928.0 yuan/gram; silver T+D opened down 1.08% at 15,419.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0a4f3-f77a-7118-8596-5b5dd37cd9e8",
+      "time": "2026-09-15 20:04:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "The Information reports ByteDance's 1H revenue rose 30% YoY to $120 billion."
+    },
+    {
+      "id": "5095370",
+      "time": "2026-09-15 20:03:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦富技術：擬7842萬元購買工業用地推進10.14億元新材料東部生產基地專案】錦富技術公告，公司全資子公司上海金錦富已在上海金山區設立專案實施主體金山金錦富，推進“新材料東部生產基地專案”。金山金錦富擬購買46666.93平方米工業用地使用權，掛牌起始價7842萬元，並擬與上海碳谷綠灣產業園管理委員會簽訂產業合作協議。該專案計劃總投資約10.14億元，其中固定資產投資總額不低於7.61億元，主要建設無氟膠黏劑、電子粘結劑、熱管理冷卻液等產能。專案資金擬透過自有、自籌資金及銀行專案貸款等方式解決。"
+    },
+    {
+      "id": "5095369",
+      "time": "2026-09-15 20:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為釋出全球首個3D資料中心】華為今日釋出全球首個3D資料中心，發行《3D資料中心》專著書籍，並開放《3D資料中心概要設計相簿》。3D資料中心借鑑晶片工廠“動力層”與“生產層”嚴格分離的理念，將傳統資料中心水平部署的各個功能空間垂直疊加，形成從下往上的供冷層、IT裝置層、供電層、備電層的四層架構。 華為副董事長、輪值董事長汪濤表示，十萬億引數大模型和高速增長的Token需求對AI基礎設施提出更高要求，十萬卡以上的昇騰超節點叢集將成為基礎配置。3D資料中心透過分層解耦、立體堆疊支撐昇騰超節點叢集的超級算力工廠。"
+    },
+    {
+      "id": "mkt:01a0a4f3-9c01-7118-8596-51e27714db96",
+      "time": "2026-09-15 20:03:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CRM.N",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Salesforce (CRM.N) announced it will expand AI integration with Amazon Web Services (AWS) to provide AI support for enterprise workflows, and will align infrastructure and AI agents with Google Cloud to build an interconnected AI technology stack."
+    },
+    {
+      "id": "mkt:01a0a4f3-6b74-7118-8596-492ea1b73c24",
+      "time": "2026-09-15 20:03:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "CRM.N"
+      ],
+      "text": "Salesforce (CRM.N) said its Missionforce operational edition will provide fine-tuned NVIDIA models to select customers in October 2026."
+    },
+    {
+      "id": "mkt:01a0a4f3-04da-7118-8596-42599b3336ff",
+      "time": "2026-09-15 20:03:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "CRM.N",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Salesforce (CRM.N) and NVIDIA will integrate NeMoTron-based models and NVIDIA accelerated compute technology into Missionforce."
+    },
+    {
+      "id": "mkt:01a0a4f2-e448-7118-8596-3eadf82097e4",
+      "time": "2026-09-15 20:02:56",
+      "tags": [
+        "MKT News",
+        "CRM.N"
+      ],
+      "text": "Salesforce (CRM.N) said KOA is currently available to select pilot customers on its Agentforce platform and is expected to be generally available in the U.S. in winter 2026."
+    },
     {
       "id": "5095368",
       "time": "2026-09-15 20:02:38",
