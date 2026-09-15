@@ -1,7 +1,85 @@
 {
   "date": "2026-09-15",
-  "count": 567,
+  "count": 576,
   "items": [
+    {
+      "id": "mkt:01a0a29d-046d-7118-8581-92c39eaee530",
+      "time": "2026-09-15 09:09:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: live-fire exercise in northern Yellow Sea】Dalian Maritime Safety Administration issued a navigation warning: parts of the northern Yellow Sea will conduct live-fire drills and are closed to navigation from Sept 15 10:00 to Sept 17 17:00."
+    },
+    {
+      "id": "5094091",
+      "time": "2026-09-15 09:09:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：鞏固能源電子產業優勢】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，鞏固能源電子產業優勢。持續推進“光、儲、端、信”等能源電子技術協同發展。進一步推進高效晶體矽光伏電池10技術迭代升級，開發鈣鈦礦疊層電池等新一代高效光伏電池技術及配套裝置材料，研發推廣高可靠、智慧化光伏元件和光伏系統智慧運維技術，拓展“光伏+”應用場景。提升新型電池全產業鏈創新能力，鞏固鋰電池競爭優勢，持續推進固態電池、鈉電池、液流電池、燃料電池等產業化，推動新型電池智慧化、綠色化、融合化發展，支援新型電池在智慧終端、新能源汽車、船舶、航空、智慧機器人、工程機械、農機裝備等場景應用。加快電力電子關鍵技術研發供給，提高關鍵核心器件與部件供給能力，提升儲能系統高效整合和精準調控水平。"
+    },
+    {
+      "id": "mkt:01a0a29c-e5f7-7118-8581-8a93a12248dd",
+      "time": "2026-09-15 09:09:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Ministry of Industry and Information Technology, China State Planner back 6‑inch+ compound semiconductor, 8‑inch+ opto‑MEMS, 12‑inch+ micro‑nano optical metasurface platforms】The Ministry of Industry and Information Technology and China State Planner jointly issued the Electronics Information Manufacturing ‘15th Five‑Year’ plan, directing micro‑nano processing platform development to advance photonics R&D and production. The plan calls for manufacturing platforms for 6‑inch and larger compound semiconductors, 8‑inch and larger opto‑MEMS, and 12‑inch and larger micro‑nano optical metasurfaces; it also prioritizes an optoelectronic integration process platform to scale low‑cost, large‑volume silicon photonics on 8‑inch wafers, boost multi‑material heterogeneous integration, and resolve multi‑dimensional heterogeneous integration technical barriers for 12‑inch advanced processes."
+    },
+    {
+      "id": "mkt:01a0a29c-80fe-7118-8581-81d5cd79372e",
+      "time": "2026-09-15 09:09:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Poland's armed forces said they launched military aviation operations in Polish airspace as Russia carried out drone strikes on Ukraine."
+    },
+    {
+      "id": "5094090",
+      "time": "2026-09-15 09:08:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：加快存算一體、量子計算、光計算、類腦計算、太空計算等新計算正規化佈局】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，構築先進計算生態體系。加快計算架構、資料儲存、高速互連、軟硬協同、算電協同等先進計算產品及技術創新攻關，推動設立先進計算國家科技重大專案，持續提升計算根技術、關鍵元器件、核心零部件、軟體演算法、計算裝置等供給水平。滿足海量化、多元化智慧計算等需求，構建異構協同計算體系，開發面向人工智慧大模型訓練及推理的計算微架構，突破分散式計算、高頻寬記憶體池、雲邊端協同、全光交換、液冷散熱等關鍵技術。加強算力、存力、運力、電力等要素協同和融合創新，加快存算一體、量子計算、光計算、類腦計算、太空計算等新計算正規化佈局，推動智慧計算、通用計算、超級計算等融合發展。健全計算標準體系，強化服務平臺建設，推進先進計算在新一代智慧製造、資訊消費、社會治理等領域廣泛應用，完善先進計算協同創新生態。"
+    },
+    {
+      "id": "5094089",
+      "time": "2026-09-15 09:08:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭武裝部隊在X平臺發文稱：在俄羅斯對烏克蘭發動無人機襲擊之際，波蘭領空內已開始軍事航空行動。"
+    },
+    {
+      "id": "5094088",
+      "time": "2026-09-15 09:07:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：推動光子產業核心環節技術取得突破】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，夯實光子產業發展根基。推動光子產業核心環節技術取得突破，支援光子設計自動化、光電協同設計自動化等模擬設計軟體研發迭代，建設微納加工製造、光電融合整合等共性工藝平臺，佈局光子功能材料、工藝材料研發創新，強化光產生、光處理、光感測、整合光晶片和微納光學元件供給，開展光收發模組與引擎、光處理模組、鐳射雷達和陀螺儀、配套電晶片器件的研發與產業化。圍繞光子產業關鍵領域和共性需求佈局中試驗證平臺，推動成果驗證、工藝最佳化、裝置選型、技術整合，加速新產品研發和產業化應用。推動光子技術向人工智慧、新型通訊、泛在終端、工業製造、醫療健康、高階製造、城市安防等重點領域滲透。"
+    },
+    {
+      "id": "5094087",
+      "time": "2026-09-15 09:06:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：實施電子專用裝置攻堅計劃，推進電子專用裝置、測量儀器整機及配套系統攻關】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，提升電子專用裝置及測量儀器供給能力。實施電子專用裝置攻堅計劃，推進電子專用裝置、測量儀器整機及配套系統攻關。聚焦載板大尺寸、三維立體整合、異質異構整合、微縮等方向開展生產裝置研發，積極佈局高頻寬、太赫茲、量子精密測量等電子測量儀器前沿技術，促進各細分領域生產裝置融通發展，帶動關鍵元器件突破。發揮首臺（套）保險補償機制、政府採購等作用，推進攻關產品的應用推廣，多渠道擴大國產電子專用裝置和測量儀器使用。大力發展裝置維保能力，暢通零部件及元器件交易渠道，加快發展裝置服務業。"
+    },
+    {
+      "id": "5094086",
+      "time": "2026-09-15 09:06:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山子高科：公司與太乙聖蓮之間不存在股權控制關係】 山子高科澄清公告，公司近日關注到相關媒體報道“太乙聖蓮擬出資 30 億元入主哪吒汽車”等事項。公司與浙江太乙聖蓮企業管理合夥企業（有限合夥）（簡稱“太乙聖蓮”）之間不存在股權控制關係，公司未直接或透過控制主體間接參與哪吒汽車的破產重整投資。公司控股股東擬透過其控制主體參與哪吒汽車破產重整投資仍處於意向階段，能否完成相關程式和透過審批存在較大不確定性。"
+    },
     {
       "id": "mkt:01a0a299-7dd3-7118-8581-7ac0b1584356",
       "time": "2026-09-15 09:06:03",
