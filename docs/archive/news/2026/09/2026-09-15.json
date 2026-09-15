@@ -1,7 +1,109 @@
 {
   "date": "2026-09-15",
-  "count": 1252,
+  "count": 1263,
   "items": [
+    {
+      "id": "mkt:01a0a3c6-75c0-7118-858b-d502845894bc",
+      "time": "2026-09-15 14:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan Self-Defense Force loses contact with Global Hawk drone】NHK reported on Sept 15 that a large Global Hawk unmanned reconnaissance aircraft operated by the Japan Air Self-Defense Force lost communications over waters off Tottori Prefecture. The Self-Defense Forces have dispatched aircraft and ships to search the area."
+    },
+    {
+      "id": "te:markets:583744",
+      "time": "2026-09-15 14:34:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Pressured by Weak Fundamentals — Steel rebar futures remained below CNY 3,100 per ton, staying under pressure as weak market fundamentals continued to weigh on prices. Elevated coke prices continued to squeeze steelmakers’ profit margins, prompting some producers to scale back operations and undergo maintenance. Industry data showed that steel mill profitability in China fell sharply to 7.79% in the latest week. Chinese steel demand also weakened further in the third quarter amid a continued slowdown in construction activity. Data showed that China’s new home prices extended their declines in August, highlighting the persistent drag from the country’s prolonged property downturn. Meanwhile, China’s leading industry association reportedly urged steelmakers last month to voluntarily reduce output, aiming to lower inventories and restore profitability following a challenging first half."
+    },
+    {
+      "id": "5094522",
+      "time": "2026-09-15 14:33:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行業龍頭：放慢AI開發也無法消除安全風險】科技行業大佬近日紛紛呼籲放慢AI開發步伐，以防AI日益增長的力量威脅到人類生存。然而，全球網路安全龍頭CrowdStrike的執行長George Kurtz週一表示，放緩日益強大的AI模型的開發並不能消除其安全風險。“潘多拉魔盒已經開啟，”Kurtz在一檔節目中表示。“市面上已經有大量模型，無論是前沿模型還是開源權重模型，它們本身就已經具備危險性。”Kurtz認為，無論前沿實驗室是否放慢開發速度，網路安全需求始終存在，因為具有潛在風險的模型早已被投入使用。“安全行業有責任幫助保護至少已經投入使用的模型，而前沿模型的發展速度則由它們自己決定，”他說道。"
+    },
+    {
+      "id": "mkt:01a0a3c4-d0ab-7118-858b-cec19c5493d0",
+      "time": "2026-09-15 14:32:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext fell more than 1% at the close; Shenzhen Component down 0.66%, Shanghai Composite down 0.58%. Grain, agricultural planting and tourism stocks led declines."
+    },
+    {
+      "id": "5094521",
+      "time": "2026-09-15 14:32:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3252.715點；上證指數跌0.57%，現報3863.224點；深證成指跌0.66%，現報13295.904點。"
+    },
+    {
+      "id": "mkt:01a0a3c4-2ebc-7118-858b-c64c21ba359e",
+      "time": "2026-09-15 14:32:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Five new standards issued as China advances future-computing standardization】The State Administration for Market Regulation approved five national standardization guidance technical documents in brain-inspired and optoelectronic computing, including Brain-inspired Computing — Reference Architecture and Optoelectronic Computing — Optical Matrix Computing System Design Guide. The release marks significant progress in China’s future-computing standardization roadmap. The documents aim to bridge frontier research and industrial application, accelerate the shift from prototype to engineering deployment and scale-up, and support industrialization and commercialization of China’s future-computing technologies."
+    },
+    {
+      "id": "5094520",
+      "time": "2026-09-15 14:32:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚高管稱，中東液化天然氣供應中斷將是短期現象。"
+    },
+    {
+      "id": "mkt:01a0a3c3-9990-7118-858b-bcb8b1a109ab",
+      "time": "2026-09-15 14:31:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhengzhou residential plot sold at 32.67% premium】On Sept. 15 Zhengzhou sold one residential land parcel in Erqi District. Planned GFA 148,105.7 sq m; plot ratio 2.9. Starting price 918 mln yuan, starting floor price 6,200 yuan/sq m. The site was won by Zhenghong Real Estate for 1.218 bln yuan, implying a transaction floor price of 8,226 yuan/sq m and a 32.67% premium over the start price."
+    },
+    {
+      "id": "5094519",
+      "time": "2026-09-15 14:31:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收跌】日經225指數收跌0.01%，報63484.10點。韓國綜指收跌0.85%，報6627.24點。"
+    },
+    {
+      "id": "mkt:01a0a3c3-4c1d-7118-858b-b73a0f7e9647",
+      "time": "2026-09-15 14:31:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI closed down 57.13 points, or 0.85%, at 6,627.24 on Tuesday, Sept. 15."
+    },
+    {
+      "id": "5094518",
+      "time": "2026-09-15 14:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國日前基荷電力價格上漲7.3%，至187歐元/兆瓦時。"
+    },
     {
       "id": "mkt:01a0a3c2-d80e-7118-858b-aaaef9431805",
       "time": "2026-09-15 14:30:50",
