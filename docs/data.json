@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-16 06:19:29",
-  "count": 13423,
+  "updated": "2026-09-16 06:35:59",
+  "count": 13420,
   "items": [
+    {
+      "id": "mkt:01a0a726-ffbe-7118-85a4-ab1a695e1396",
+      "time": "2026-09-16 06:19:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "An advisor to US President Trump said he met with ANTHROPIC executives to discuss AI safety."
+    },
+    {
+      "id": "5096084",
+      "time": "2026-09-16 06:16:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週加息的機率為92.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為7.6%，累計加息25個基點的機率為92.4%。美聯儲到10月維持利率不變的機率為4%，累計加息25個基點的機率為52%，累計加息50個基點的機率為44%。"
+    },
+    {
+      "id": "5096083",
+      "time": "2026-09-16 06:15:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克股指期貨走高，OpenAI估值或將達到1.2萬億美元】美股盤前股指期貨小幅上漲，WTI原油維持在隔夜高點附近。亞洲投資者將關注軟銀對OpenAI擬開展一輪估值1.2萬億美元融資的訊息作何反應。微軟上調季度股息，科技股或獲得提振。"
+    },
+    {
+      "id": "te:markets:583979",
+      "time": "2026-09-16 06:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 1.14% — Top currency losers are South Korean Won (-1.14%), Japanese Yen (-0.49%), New Zealand Dollar (-0.33%), British Pound (-0.17%) and Euro (-0.06%). Gains are led by Dollar Index (0.23%)."
+    },
+    {
+      "id": "5096082",
+      "time": "2026-09-16 06:13:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三大利好共振，資金加速湧入科創債ETF】在政策紅利、增量資金預期、底層資產擴容三重利好的共振下，科創債板塊行情走強，科創債ETF也迎來資金的持續搶籌。8月以來，24只科創債ETF淨申購份額超過1億份，規模大增132億元。業內人士認為，隨著債券市場“科技板”建設的推進，科創債的供給與機構配置空間有望進一步開啟，長期配置價值將持續顯現。Choice資料顯示，今年以來，中證AAA科技創新公司債指數趨勢上行。9月14日，該指數再創歷史新高，收報117.51點，年內漲幅接近2.5%。（上證報）"
+    },
+    {
+      "id": "5096081",
+      "time": "2026-09-16 06:10:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【攜程2026Q2淨利潤同比下降，受處罰費用影響，錄得淨虧損24億元】2026年第二季度，攜程集團實現淨營業收入人民幣157億元，同比增長6%；經調整EBITDA為人民幣46億元，較去年同期的49億元有所下降。 本季度，因國家市場監督管理總局反壟斷處罰，公司確認約52億元一次性費用，因此錄得淨虧損24億元；若不考慮反壟斷處罰影響，淨利潤為27億元。 分業務來看，住宿預訂營業收入為66億元，同比增長6%；若剔除處罰相關抵減收入因素，同比增長8%。交通票務營業收入為54億元，同比下降1%；旅遊度假業務營業收入為12億元，同比增長8%；商旅管理業務營業收入為7.71億元，同比增長11%。"
+    },
+    {
+      "id": "mkt:01a0a71e-9c4b-7118-85a4-a2b81379c93a",
+      "time": "2026-09-16 06:09:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) raised its quarterly dividend to $0.98 per share from $0.91."
+    },
+    {
+      "id": "mkt:01a0a71c-8a4c-7118-85a4-99e3ebb5915a",
+      "time": "2026-09-16 06:07:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reported several explosions were heard on Iran's Qeshm Island, originating offshore; Iranian authorities have not yet commented."
+    },
+    {
+      "id": "5096080",
+      "time": "2026-09-16 06:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構代銷基金規模持續走高 券商依託ETF打造差異化優勢】近日，中國證券投資基金業協會披露了今年上半年基金代銷機構保有量資料。資料顯示，螞蟻基金非貨幣市場基金保有規模突破2萬億元，成為全市場首家。與此同時，在非貨幣市場基金領域，第三方機構（含保險）的保有規模達5.40萬億元，首次超過銀行的5.33萬億元。受訪業內人士向記者表示，獨立第三方銷售機構具備顯著的入口、流量與場景優勢，這是銀行、券商所不具備的。不過券商在ETF（交易型開放式指數基金）業務上擁有自身優勢，各類機構需要找準自身定位。(證券時報)"
+    },
     {
       "id": "5096079",
       "time": "2026-09-16 06:06:12",
@@ -123605,119 +123689,6 @@
         "國際"
       ],
       "text": "德國首架 F-35A “閃電 II” 戰機已在美國完成首飛。"
-    },
-    {
-      "id": "5083740",
-      "time": "2026-09-09 06:35:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“打折買票”難保穩賺，公募定增投資策略生變】今年以來A股市場交投活躍，再融資市場持續升溫，公募基金參與定增的熱情明顯提升。截至9月6日，公募合計獲配金額超過470億元，較去年同期增長超過160%。不過，與資金大舉湧入形成鮮明對比的是，近期部分熱門定增專案出現價格倒掛。江波龍等科技股定增專案一度因發行價格高於二級市場價格引發市場熱議，“打折買股票”並不能穩賺不賠。市場高位震盪、行業輪動加快、定增折價普遍收窄，正在改變這一傳統策略的投資邏輯，機構比拼的重心回到對行業景氣、個股價值以及組合管理能力的判斷上。（中證報）"
-    },
-    {
-      "id": "te:markets:582156",
-      "time": "2026-09-09 06:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silicon Gains by 1.91% — Top commodity gainers are Silicon (1.91%), Iron Ore CNY (1.36%) and Copper (1.34%). Biggest losers are Gold (-1.15%), Platinum (-1.10%) and Silver (-0.81%)."
-    },
-    {
-      "id": "5083739",
-      "time": "2026-09-09 06:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：09月09日06時32分在臺灣宜蘭縣海域附近（北緯24.42度，東經122.49度）發生4.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:01a08327-f9fa-7118-84f5-9322590e20ce",
-      "time": "2026-09-09 06:33:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Treasury Secretary Bessent challenges yen shorts, says he is the market maker】US Treasury Secretary Bessent challenged traders attempting to short the yen, saying when he judges markets he effectively holds \"inside information\" and asymmetric information. He recalled past interventions, including July 31 when he joined the Japanese government in buying yen; the currency initially rallied but then partially retraced as traders pointed to limited FX purchase funds available to the US Treasury. Bessent said he now functions as the market maker and therefore has a strong read on how the Japanese government, the Bank of Japan and other policymakers would act in any intervention, adding traders are free to try to go against him."
-    },
-    {
-      "id": "mkt:01a08327-f288-7118-84f5-88dc7a058254",
-      "time": "2026-09-09 06:33:48",
-      "tags": [
-        "MKT News",
-        "Nikkei 225"
-      ],
-      "text": "Market sources say Japan is expected to reshuffle its cabinet on Sept. 17."
-    },
-    {
-      "id": "te:markets:582155",
-      "time": "2026-09-09 06:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 6.01% — Top commodity gainers are Natural Gas EU (6.01%), Natural Gas UK (5%), Propane (3.64%), Crude Oil (3.04%) and Brent Oil (2.21%). Biggest loser is Natural gas (-2.54%)."
-    },
-    {
-      "id": "5083738",
-      "time": "2026-09-09 06:28:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本內閣改組定於 9 月 17 日舉行。"
-    },
-    {
-      "id": "5083737",
-      "time": "2026-09-09 06:28:29",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【9月9日隔夜要聞一覽】\n1、美國中央司令部：9月8日摧毀5艘伊朗原油運輸船。此前兩天，伊朗革命衛隊兩度使用彈道導彈瞄準一艘美國海軍戰艦。該美軍戰艦成功規避伊朗的襲擊企圖，並繼續在該區域水域巡邏，無美方人員受傷。\n2、美國國務卿魯比奧：伊朗每一次試圖襲擊美國海軍艦船，其油輪都將遭到打擊。\n3、加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。\n4、特朗普指示政府採購剔除加拿大產品。\n5、伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離。\n6、OpenAI內部模型88小時暴力攻克千禧年數學難題。\n7、國際油價8日上漲。紐約商品交易所10月交貨的輕質原油期貨價格上漲1.55美元，收於每桶93.03美元，漲幅為1.69%；11月交貨的倫敦布倫特原油期貨價格上漲92美分，收於每桶97.92美元，漲幅為0.95%。\n8、英國空管系統再現故障，僅希思羅就有逾80個航班取消、約200個航班延誤。\n9、富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率。"
-    },
-    {
-      "id": "5083736",
-      "time": "2026-09-09 06:27:46",
-      "tags": [
-        "宏觀",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:40 紐西蘭聯儲助理主席Karen Silk講話；\n② 09:30 中國8月CPI和PPI；\n③ 可能釋出 中國1至8月社會融資規模增量、新增人民幣貸款，8月M2等貨幣供應；\n④ 時間待定 巴黎太空峰會，SpaceX、Blue Origin等美企取消參會；\n⑤ 時間待定 美國財政部長債回購翻倍料將生效，美國共和黨首屆中期選舉大會（特朗普將發表演講）；\n⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；\n⑦ 次日01:00 蘋果2026秋季新品釋出會（iPhone Fold首秀+iPhone 18 Pro雙機），歐洲央行管委兼德國央行行長Nagel講話。"
-    },
-    {
-      "id": "5083735",
-      "time": "2026-09-09 06:21:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公募權益類基金維持高倉位，有色金屬獲資金增配】最新資料顯示，公募權益類基金繼續維持較高權益倉位，行業配置則呈現結構性調整特徵。在電子仍佔據第一大重倉行業的同時，有色金屬獲得較明顯主動增持。多家公募機構認為，近期有色金屬板塊雖然有所波動，但資源品價格維持高位、供給約束及企業盈利兌現等因素仍對基本面形成支撐，後續不同金屬品種的行情或進一步分化。（上證報）"
-    },
-    {
-      "id": "5083734",
-      "time": "2026-09-09 06:21:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：OpenAI 還為 ChatGPT Work 推出全新企業外掛，可在常用商業應用中拓展 Astra 的瀏覽器使用能力。"
-    },
-    {
-      "id": "5083733",
-      "time": "2026-09-09 06:20:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：OpenAI 的 GPT-6 ASTRA 現已登陸亞馬遜 Bedrock。"
     }
   ]
 }
