@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-16 00:21:55",
-  "count": 13454,
+  "updated": "2026-09-16 00:25:49",
+  "count": 13456,
   "items": [
+    {
+      "id": "mkt:01a0a5e2-974e-7118-85a0-3da2863b0c07",
+      "time": "2026-09-16 00:24:45",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of France cut its 2026 GDP forecast and said the economy should pick up next year."
+    },
+    {
+      "id": "5095826",
+      "time": "2026-09-16 00:24:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Radiant World Group起訴嘉能可，索賠20億美元。"
+    },
+    {
+      "id": "mkt:01a0a5e2-413b-7118-85a0-350000426153",
+      "time": "2026-09-16 00:24:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of France survey indicates French Q3 GDP will expand 0.1%."
+    },
+    {
+      "id": "mkt:01a0a5e1-cfea-7118-85a0-2d8aec4d53d5",
+      "time": "2026-09-16 00:23:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of France forecasts French GDP will expand 0.4% in 2026."
+    },
+    {
+      "id": "mkt:01a0a5e1-b3ca-7118-85a0-26d4f95f209d",
+      "time": "2026-09-16 00:23:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran says power sector fully self-sufficient as 14 projects, including 11 solar plants, brought online in Fars province】The Iranian energy minister said the country’s power sector has achieved full self-sufficiency. Fourteen large projects were brought online in Darab and Zarindasht counties, Fars province — 11 solar plants and three grid reinforcement projects — intended to boost supply capacity, strengthen grid stability and expand renewable energy deployment."
+    },
+    {
+      "id": "5095825",
+      "time": "2026-09-16 00:23:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行調查顯示，第三季度國內生產總值增長 0.1%。"
+    },
+    {
+      "id": "5095824",
+      "time": "2026-09-16 00:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：尚未看到 Hugging Face 事件的責任歸屬相關內容。"
+    },
+    {
+      "id": "5095823",
+      "time": "2026-09-16 00:22:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行：預計2026年經濟將增長0.4%。"
+    },
     {
       "id": "te:economy:583957",
       "time": "2026-09-16 00:20:22",
@@ -124020,65 +124102,6 @@
         "Importance 1"
       ],
       "text": "Realty Income Stock Price Hits 14-week High — Realty Income shares increased to 375.90 USD, the highest since May 2026. Over the past 4 weeks, Realty Income gained 14.81%, and in the last 12 months, it increased 25.68%."
-    },
-    {
-      "id": "5083535",
-      "time": "2026-09-09 00:25:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通首席財務官表示，除亞馬遜之外，公司與另一家超大規模企業保持著緊密合作。"
-    },
-    {
-      "id": "5083534",
-      "time": "2026-09-09 00:25:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "高通稱智慧手機市場正處於本輪週期低點。"
-    },
-    {
-      "id": "mkt:01a081d6-54e0-7118-84f1-5ccab19eea5a",
-      "time": "2026-09-09 00:25:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The UK Civil Aviation Authority (CAA) said it expects National Air Traffic Services (NATS) to complete and publish a full report on the air traffic control incident on Tuesday."
-    },
-    {
-      "id": "5083533",
-      "time": "2026-09-09 00:24:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通首席財務官表示，公司新增一筆超大規模雲服務商合作專案。"
-    },
-    {
-      "id": "5083532",
-      "time": "2026-09-09 00:24:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國民航局在一份宣告中表示，預計國家空中交通服務公司將完成並分享一份關於週二空中交通管制故障事件的完整報告。"
-    },
-    {
-      "id": "mkt:01a081d4-d6dd-7118-84f1-56cc404e209b",
-      "time": "2026-09-09 00:23:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq Golden Dragon China Index widened losses to 2%."
     }
   ]
 }

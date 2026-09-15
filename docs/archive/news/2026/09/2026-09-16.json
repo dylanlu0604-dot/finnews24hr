@@ -1,7 +1,89 @@
 {
   "date": "2026-09-16",
-  "count": 29,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:01a0a5e2-974e-7118-85a0-3da2863b0c07",
+      "time": "2026-09-16 00:24:45",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of France cut its 2026 GDP forecast and said the economy should pick up next year."
+    },
+    {
+      "id": "5095826",
+      "time": "2026-09-16 00:24:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Radiant World Group起訴嘉能可，索賠20億美元。"
+    },
+    {
+      "id": "mkt:01a0a5e2-413b-7118-85a0-350000426153",
+      "time": "2026-09-16 00:24:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of France survey indicates French Q3 GDP will expand 0.1%."
+    },
+    {
+      "id": "mkt:01a0a5e1-cfea-7118-85a0-2d8aec4d53d5",
+      "time": "2026-09-16 00:23:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of France forecasts French GDP will expand 0.4% in 2026."
+    },
+    {
+      "id": "mkt:01a0a5e1-b3ca-7118-85a0-26d4f95f209d",
+      "time": "2026-09-16 00:23:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran says power sector fully self-sufficient as 14 projects, including 11 solar plants, brought online in Fars province】The Iranian energy minister said the country’s power sector has achieved full self-sufficiency. Fourteen large projects were brought online in Darab and Zarindasht counties, Fars province — 11 solar plants and three grid reinforcement projects — intended to boost supply capacity, strengthen grid stability and expand renewable energy deployment."
+    },
+    {
+      "id": "5095825",
+      "time": "2026-09-16 00:23:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行調查顯示，第三季度國內生產總值增長 0.1%。"
+    },
+    {
+      "id": "5095824",
+      "time": "2026-09-16 00:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：尚未看到 Hugging Face 事件的責任歸屬相關內容。"
+    },
+    {
+      "id": "5095823",
+      "time": "2026-09-16 00:22:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行：預計2026年經濟將增長0.4%。"
+    },
     {
       "id": "te:economy:583957",
       "time": "2026-09-16 00:20:22",
