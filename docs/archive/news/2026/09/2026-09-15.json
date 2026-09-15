@@ -1,7 +1,207 @@
 {
   "date": "2026-09-15",
-  "count": 1964,
+  "count": 1984,
   "items": [
+    {
+      "id": "5095420",
+      "time": "2026-09-15 20:33:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國能源大臣： 英國目前不擔心胡塞武裝對能源供應造成影響。"
+    },
+    {
+      "id": "mkt:01a0a50d-36ae-7118-8597-b11b143d55c1",
+      "time": "2026-09-15 20:31:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Sep NY Fed Empire State manufacturing Prices Received Index 28.1, prior 22.7."
+    },
+    {
+      "id": "mkt:01a0a50d-082f-7118-8597-af58b991281e",
+      "time": "2026-09-15 20:31:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Prices Received Index (Sep) | actual 28.1 | previous 22.7"
+    },
+    {
+      "id": "te:markets:583877",
+      "time": "2026-09-15 20:31:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip on Higher Yields — Futures tracking Canada’s stock market edged lower on Tuesday amid surging oil prices and rising bond yields. Domestic 10-year sovereign yields approached the 4% threshold, not far from their highest since 2007. The prospect of higher interest rates is expected to pressure credit-sensitive stocks, with the Federal Reserve set to raise its interest rates by 25bps tomorrow. Meanwhile, gold prices fell, weighing on mining shares. Elsewhere, Canadian Prime Minister Mark Carney is welcoming dozens of global investors to Toronto this week in an effort to attract investment in projects seen as key to supporting Canada’s economy amid the trade war with the US."
+    },
+    {
+      "id": "mkt:01a0a50c-ff9a-7118-8597-a492cbbf8f01",
+      "time": "2026-09-15 20:31:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Sep NY Fed manufacturing employment index 10.6, prior 9.3."
+    },
+    {
+      "id": "5095419",
+      "time": "2026-09-15 20:31:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "5095418",
+      "time": "2026-09-15 20:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "富國銀行股價在巴克萊銀行活動期間盤前交易中升至高位。"
+    },
+    {
+      "id": "mkt:01a0a50c-d895-7118-8597-9e79788e785a",
+      "time": "2026-09-15 20:31:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Employment Index (Sep) | actual 10.6 | previous 9.3"
+    },
+    {
+      "id": "mkt:01a0a50c-8e0d-7118-8597-95bdd80e4bdb",
+      "time": "2026-09-15 20:30:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US New York Fed manufacturing new orders index for September 2, prior 17.3."
+    },
+    {
+      "id": "mkt:01a0a50c-6702-7118-8597-8b75696d5964",
+      "time": "2026-09-15 20:30:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed New Orders Index (Sep) | actual 2 | previous 17.3"
+    },
+    {
+      "id": "5095417",
+      "time": "2026-09-15 20:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石藥景峰：葉湘武及其一致行動人持股降至4.93% 不再為5%以上股東】石藥景峰公告稱，葉湘武所持公司250萬股股份被司法拍賣成交併完成過戶，2026年8月11日至9月14日期間，葉湘武及其一致行動人持股減少225萬股，佔總股本比例0.13%。變動後，葉湘武及其一致行動人合計持股8668.43萬股，佔公司總股本比例為4.93%，不再為公司持股5%以上股東。本次權益變動不會導致公司控制權變更，不會對公司治理結構及持續經營產生重大影響。"
+    },
+    {
+      "id": "5095416",
+      "time": "2026-09-15 20:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華瓷股份：澄清市場傳聞 上半年營收淨利雙降】華瓷股份公告稱，近期市場出現涉及公司“MLCC粉體”“氧化鋯業務”“無錫半導體精密陶瓷產業研討會”“越南工廠投產”等相關題材傳聞。公司銷售給潮州三環的粉體尚處於小量驗證階段，暫未批次供貨；陶瓷新材料業務收入佔總營收比例為1.15%，對業績貢獻有限；越南專案尚處於投產爬坡階段，意向訂單不代表已鎖定合同，相關業務存在較大不確定性。2026年上半年，公司實現營業收入5.76億元，同比下降20.77%；歸母淨利潤1.03億元，同比下降14.18%；扣非歸母淨利潤7576.73萬元，同比下降31.42%。"
+    },
+    {
+      "id": "5095415",
+      "time": "2026-09-15 20:30:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大7月批發銷售月率 0.3%，預期-0.5%，前值2.80%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609153874918449",
+      "time": "2026-09-15 20:30:17",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月紐約聯儲製造業指數7.6，預期15，前值20.6。"
+    },
+    {
+      "id": "5095414",
+      "time": "2026-09-15 20:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月份紐約州製造業指數報7.6；預估為15.0。"
+    },
+    {
+      "id": "mkt:01a0a50b-d6ba-7118-8597-81ad2ce52ae3",
+      "time": "2026-09-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Canada wholesale sales MoM July +0.3% vs -0.5% expected; prior +2.8%."
+    },
+    {
+      "id": "mkt:01a0a50b-d4ca-7118-8597-7e3140ba94d7",
+      "time": "2026-09-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. September New York Fed manufacturing index 7.6, survey 15, prior 20.6."
+    },
+    {
+      "id": "mkt:01a0a50b-bfb0-7118-8597-72d58fb1e123",
+      "time": "2026-09-15 20:30:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Refinitiv, Iraqi energy sources said Abu Dhabi National Oil Company (ADNOC) has agreed to buy 72 mln barrels of discounted Iraqi crude in tenders for Aug-Sep."
+    },
+    {
+      "id": "mkt:01a0a50b-b154-7118-8597-69d916a170ea",
+      "time": "2026-09-15 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (Jul) | actual 0.3% | consensus -0.5% | previous 2.80%"
+    },
+    {
+      "id": "mkt:01a0a50b-aa7c-7118-8597-62861c710a17",
+      "time": "2026-09-15 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (Sep) | actual 7.6 | consensus 15 | previous 20.6"
+    },
     {
       "id": "5095413",
       "time": "2026-09-15 20:29:02",
