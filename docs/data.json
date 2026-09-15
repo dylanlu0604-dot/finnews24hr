@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-15 09:14:41",
-  "count": 13620,
+  "updated": "2026-09-15 09:18:24",
+  "count": 13619,
   "items": [
+    {
+      "id": "mkt:01a0a2a2-c336-7118-8581-d3ddf8a027dc",
+      "time": "2026-09-15 09:16:10",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.43% at 24,980, trading 62 points above the cash index."
+    },
+    {
+      "id": "mkt:01a0a2a2-a234-7118-8581-c857b5a8ef6a",
+      "time": "2026-09-15 09:16:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【MIIT and CHINA STATE PLANNER push motherboard architecture design and high-density PCB integration】The Ministry of Industry and Information Technology and CHINA STATE PLANNER issued the 15th Five-Year Plan for electronic information manufacturing, prioritizing core-component and product-form advances in consumer electronics, PCs, VR and wearables. For high-end smartphones the plan targets breakthroughs in core chips and high-end display devices and supports R&D of new-form products and differentiated competition. For personal computers it calls for breakthroughs in high-performance chips and development of motherboard architecture design and high-density PCB integration technology. The plan emphasizes wider adoption of flexible displays and advanced packaging to accelerate product-form innovation. For virtual reality it prioritizes near-eye displays, multimodal sensing and interaction, spatial-intelligence technologies, low-power application-specific chips, high-performance microdisplays and optical components, and multi-form terminals. For wearables it seeks breakthroughs in low-power processors, precision sensors, flexible electronic components and substrate-like PCBs, plus lightweight operating systems to broaden supply of watches, bands and rings."
+    },
+    {
+      "id": "5094102",
+      "time": "2026-09-15 09:15:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網際網路租賃腳踏車國家標準釋出】 記者今天瞭解到，市場監管總局近日批准釋出《租賃腳踏車交通服務規範 第2部分：網際網路租賃腳踏車》國家標準，對網際網路租賃腳踏車運營服務全流程進行規範，引領運營企業不斷最佳化服務，提升使用者體驗。（央視新聞）"
+    },
+    {
+      "id": "5094100",
+      "time": "2026-09-15 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7670元， 較上日調高28點。"
+    },
+    {
+      "id": "5094099",
+      "time": "2026-09-15 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.61%，報25025.83點，高水108.23點。"
+    },
+    {
+      "id": "mkt:01a0a2a1-62d2-7118-8581-c438504e5332",
+      "time": "2026-09-15 09:14:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China MIIT, NDRC push R&D on high‑bandwidth flash, HBM; accelerate full‑chain space computing】China’s Ministry of Industry and Information Technology and National Development and Reform Commission issued a joint electronic information manufacturing plan calling for accelerated development of advanced storage technologies and compute infrastructure. Policy directs promotion of storage‑centric computing and compute‑by‑storage, upgrades to distributed and hyperconverged storage, and the establishment of tiered data‑storage architectures and protocols. It targets breakthroughs in intelligent tiered storage, data sparsification, key‑value caching and the R&D of high‑bandwidth flash, high‑bandwidth memory (HBM), ferroelectric, resistive (ReRAM) and magnetoelectric memories. On facilities and applications, the plan backs hyperscale intelligent‑compute architecture to support AI clusters at the scale of hundreds of thousands of accelerator cards, a full‑chain buildout of space‑based computing with deeper compute‑power co‑design, strengthened distributed edge computing architectures, higher‑performance compilers/databases/middleware, and work on domain‑specific accelerators and large‑scale parallel compute bottlenecks to lift Z‑class supercomputer performance."
+    },
+    {
+      "id": "5094098",
+      "time": "2026-09-15 09:14:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "柬埔寨外長：柬埔寨尋求與泰國達成一份條約，以劃定雙方統一、通用的海洋邊界。"
+    },
     {
       "id": "5094097",
       "time": "2026-09-15 09:14:03",
@@ -125279,82 +125348,6 @@
         "Importance 2"
       ],
       "text": "Australia Consumer Sentiment Sinks in September — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index plunged 5.2% mom to 84.4 in September 2026, reversing a 6.0% rise the prior month and marking its first decline since June, as higher fuel prices and concerns over further rate hikes weighed on confidence. Views of household finances weakened sharply, with assessments of finances over the past year tumbling 9.2% to 72.6, while expectations for the next 12 months slipped 3.8% to 94.5. Economic sentiment deteriorated, with the one-year outlook down 4.0% to 79.5 and the five-year measure declining 4.5% to 85.8. The gauge of whether it was a good time to buy major household items dropped 4.8% to 89.3, while unemployment expectations rose 2.8% to 139.4. Westpac economist Matthew Hassan said the strong July CPI reading increases the likelihood of a future rate hike, but the RBA is unlikely to act on a single monthly inflation reading given the series’ volatility, with the next CPI update due a day after the policy meeting."
-    },
-    {
-      "id": "mkt:01a07e98-21a5-7118-84d6-50632995c66a",
-      "time": "2026-09-08 09:18:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Tuesday schedule (Beijing time)】Beijing time (UTC+8): Sep 8 20:00 — White House, handling administrative affairs; 22:35 — South Lawn, attending \"American Steel\" event; Sep 9 01:00 — Oval Office, sign an executive order; 02:00, 03:00, 05:00 — Oval Office policy meetings."
-    },
-    {
-      "id": "mkt:01a07e97-1670-7118-84d6-4f40a08a2556",
-      "time": "2026-09-08 09:17:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【CITIC Securities: Beijing Stock Exchange in base-building phase, awaiting incremental catalysts】CITIC Securities says the Beijing Stock Exchange (BSE) is in a base-building phase awaiting incremental inflows. Valuation and sentiment bottoms were reconfirmed in a late‑August retest and Sept. 2 volume validated willingness of new capital to enter. H1 double‑digit growth and a sharp rise in contract liabilities provide fundamental support; buybacks, accelerated stake purchases and stronger demand for recent listings are improving capital structure. Further upside depends on three catalysts: rollout of index products (BSE 50 ETF and three‑month lock‑up thematic funds) with turnover sustained above CNY20 bln; potential policy measures around the BSE’s fifth anniversary on Nov. 15; and broader confirmation that secondary-market support for recent listings is durable, which would reinforce primary IPO demand and secondary performance. Tactical guidance: favor cyclical growth and valuation-repair themes, buy on dips and scale in while tracking volume and policy signals for opportunistic adds."
-    },
-    {
-      "id": "mkt:01a07e96-544b-7118-84d6-456ddb1ed4f5",
-      "time": "2026-09-08 09:16:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.42% at 25,240, trading at a 189-point discount to the spot index."
-    },
-    {
-      "id": "5081741",
-      "time": "2026-09-08 09:15:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7804，較上日調低9點】人民幣兌美元中間價報6.7804，較上日調低9點。"
-    },
-    {
-      "id": "5081740",
-      "time": "2026-09-08 09:15:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德意志銀行：挪威主權財富基金擬調整配置策略 料大舉增持日本國債】德意志銀行認為，挪威規模達2.2萬億美元的主權財富基金提議調整投資策略，可能導致其對日本國債的配置大幅增加。“雖然涉及的金額相對於全球固定收益市場的規模較小，但我們認為，作為全球規模最大、最成功的主權財富基金之一，其投資策略變化有力地表明，當前全球資本流動和投資組合配置正在發生緩慢但持續的轉變，”Shreyas Gopal和George Saravelos在報告中寫道。挪威承認主權債務不再是無風險資產；並正在將其美國固定收益資產配置從美債轉向非主權固定收益資產。挪威主權財富基金也正在大幅轉向日本國債，從而“承認其市場規模龐大，並降低債務佔GDP比重作為市場配置指標的重要性”。這種配置上的傾斜意味著受益最大的國家和貨幣是日元。"
-    },
-    {
-      "id": "5081739",
-      "time": "2026-09-08 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7804元。"
-    },
-    {
-      "id": "5081738",
-      "time": "2026-09-08 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.37%，報25242.91點，低水170.21點。"
-    },
-    {
-      "id": "te:economy:581777",
-      "time": "2026-09-08 09:14:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Philippines Jobless Rate Jumps to 4-Year High — The unemployment rate in the Philippines climbed to 6% in July 2026 from 4.9% in the previous month, marking its highest level since June 2022. The number of unemployed individuals rose to 3.14 million, up from 2.59 million in June. Meanwhile, the underemployment rate, a key indicator of job quality, increased to a three-month high of 12.9% from 12.1%, with 6.33 million workers seeking additional hours or another job. The employment rate fell to 94% from 95.1%, as the number of employed persons declined to 49.21 million from 50.66 million. The services sector remained the country's largest employer, accounting for 62.8% of total employment, followed by agriculture at 19.7% and industry at 17.5%. Wage and salary workers accounted for 66.1% of total employment, with the majority employed by private establishments (78.3%). Average weekly working hours remained unchanged at 40.6 hours."
     }
   ]
 }
