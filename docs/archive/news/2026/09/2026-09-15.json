@@ -1,7 +1,213 @@
 {
   "date": "2026-09-15",
-  "count": 1335,
+  "count": 1357,
   "items": [
+    {
+      "id": "mkt:01a0a3de-ff16-7118-858c-960dbba35afe",
+      "time": "2026-09-15 15:01:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At midday close, China's main futures contracts were mostly lower. Container freight on the Europe route fell nearly 4%; synthetic rubber, glass, lithium carbonate and PVC dropped more than 3%; soda ash, Shanghai tin and live hogs fell over 2%. On the upside, Shanghai crude (SC) rose nearly 6%, ethylene glycol (EG) gained over 4%, and fuel oil, polyester staple fiber, low-sulfur fuel oil (LU), bottle-grade PET chips and asphalt advanced more than 2%."
+    },
+    {
+      "id": "5094585",
+      "time": "2026-09-15 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.54%，深證成指跌0.72%，創業板指跌1.15%。"
+    },
+    {
+      "id": "5094584",
+      "time": "2026-09-15 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計1.61萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計1.61萬億元，較上一日縮量164.59億元。其中，滬市成交額為7639.83億元（上一交易日為7792.81億元），成交量為4.41億手（上一交易日為4.59億手）；深市成交額為8487.34億元（上一交易日為8498.94億元），成交量為5.31億手（上一交易日為5.09億手）。中際旭創成交額居首，為156.14億元。其次是寧德時代、中國巨石、生益科技、寒武紀，成交額分別為155.59億元、146.75億元、124.11億元、116.05億元。"
+    },
+    {
+      "id": "5094583",
+      "time": "2026-09-15 15:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《求是》雜誌發表習近平總書記重要文章《在加強基礎研究座談會上的講話》】9月16日出版的第18期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《在加強基礎研究座談會上的講話》。文章強調，基礎研究是整個科學體系的源頭，是所有技術問題的總機關，是全球科技競爭的前沿陣地。衡量一個國家的科技實力，一個重要標準就是看基礎研究水平。要成為世界科技強國，基礎研究必須搞上去。黨的十八大以來，黨中央高度重視基礎研究，透過最佳化科研佈局、加大投入保障、創新體制機制等，推動我國基礎研究水平顯著提升。同時要看到，與世界科技強國相比，我們的基礎研究仍然存在差距。要增強危機感和緊迫感，以更大力度、更實舉措加強基礎研究，提升我國原始創新能力，進一步打牢科技強國建設根基，加快實現高水平科技自立自強。（新華社）"
+    },
+    {
+      "id": "5094582",
+      "time": "2026-09-15 15:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Worldpanel資料：瑪莎百貨截至9月6日的12周內純食品雜貨銷售額同比增長14.8%。"
+    },
+    {
+      "id": "5094581",
+      "time": "2026-09-15 15:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Worldpanel：截至9月6日的12周內，阿斯達銷售額同比增長0.1%，莫里森銷售額增長2.8%。"
+    },
+    {
+      "id": "mkt:01a0a3dd-e708-7118-858c-8f7ea0187032",
+      "time": "2026-09-15 15:00:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain August harmonized CPI (HICP) final MoM +0.7% vs +0.6% expected; July +0.60%."
+    },
+    {
+      "id": "5094580",
+      "time": "2026-09-15 15:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "世介面板資料顯示，截至9月6日的四周內，英國食品雜貨銷售額同比增長2.0%。"
+    },
+    {
+      "id": "mkt:01a0a3dd-e060-7118-858c-83528792fd15",
+      "time": "2026-09-15 15:00:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain Aug harmonized CPI (final) YoY 4.6% vs 4.5% expected; prior 4.50%."
+    },
+    {
+      "id": "5094579",
+      "time": "2026-09-15 15:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場研究機構Worldpanel表示，截至9月6日的12周內，Tesco銷售額同比增長1.7%，Sainsbury's銷售額同比增長2.9%。"
+    },
+    {
+      "id": "mkt:01a0a3dd-b2b7-7118-858c-794d598df914",
+      "time": "2026-09-15 15:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | HICP Final (YoY) (Aug) | actual 4.6% | consensus 4.5% | previous 4.50%"
+    },
+    {
+      "id": "mkt:01a0a3dd-b2b4-7118-858c-74bec7923411",
+      "time": "2026-09-15 15:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | HICP Final (MoM) (Aug) | actual 0.7% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "5094578",
+      "time": "2026-09-15 15:00:08",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "西班牙8月最終協調CPI同比上漲4.6%，高於預期的4.5%。"
+    },
+    {
+      "id": "5094577",
+      "time": "2026-09-15 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.5%，英國富時100指數漲0.44%，法國CAC40指數跌0.76%，歐洲斯托克50指數跌1.08%，義大利富時MIB指數跌1.68%。"
+    },
+    {
+      "id": "5094576",
+      "time": "2026-09-15 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續漲8.00%，乙二醇連續漲4.02%，集運指數歐線期貨連續跌3.78%，玻璃連續跌3.60%，碳酸鋰連續跌3.32%。"
+    },
+    {
+      "id": "5094575",
+      "time": "2026-09-15 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.02%， 滬深300指數期貨連續跌0.63%， 中證500指數期貨連續漲0.29%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "5094574",
+      "time": "2026-09-15 14:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙商證券：維持三一重工“買入”評級，下半年業績有望提速】浙商證券研報指出，三一重工回購股份彰顯信心，下半年業績有望提速。公司擬4-8億元回購股份用於A股員工持股計劃，首次已回購62.39萬股。2026上半年歸母淨利潤同比增長9%，單二季度同比增長17%，多品類穩居行業龍頭。全球化加速推進，國外收入、毛利持續增長。未來三年業績有望創歷史新高。2021年公司實現營業總收入1069億元，為此前收入高點；2020年公司實現歸母淨利潤154億元，為此前利潤高點；後續行業週期向上、公司經營質量持續提高（2022-2025年，公司的銷售淨利率從5.5%提升至9.5%，加權ROE從6.7%提升至11.2%），業績有望逐步創歷史新高。25-28年複合增速為29%，對應26-28年PE為17、13、10倍，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a0a3dd-6dcf-7118-858c-6c1f9b636d1f",
+      "time": "2026-09-15 14:59:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【KOSPI falls fourth day to lowest close since Sept. 3 as rising yields and oil curb dip buying】South Korea’s KOSPI slipped on Tuesday for a fourth straight session, closing at its weakest level since Sept. 3 as rising government bond yields and oil prices eroded dip-buying. Markets have grown more sensitive to downside risks ahead of a Federal Reserve policy meeting later this week that could lift rates. Finance minister nominee Lee Hyoung-il told a parliamentary hearing authorities will closely monitor the bond market and, if necessary, deploy measures to stabilize it."
+    },
+    {
+      "id": "5094573",
+      "time": "2026-09-15 14:59:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨境電商“無票免稅”出口政策在陝落地】國家稅務總局陝西省稅務局獲悉：近日，陝西雲知晚科技有限公司完成首單跨境電商“無票免稅”出口申報業務，標誌著該政策在陝西落地實施。 跨境電商“無票免稅”出口政策為跨境電商B2C（企業對消費者電子商務模式）出口企業提供了合規出口通道，可有效緩解企業因無法取得進貨憑證而導致的增值稅負擔及經營壓力，為培育壯大外貿新業態提供了新動能。"
+    },
+    {
+      "id": "5094572",
+      "time": "2026-09-15 14:59:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報6102.00元。"
+    },
+    {
+      "id": "te:markets:583759",
+      "time": "2026-09-15 14:59:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Struggle as Oil, Bond Yields Weigh — The Nikkei 225 Index edged down 0.01% to close at 63,484, while the broader Topix Index fell 0.52% to 4,037 on Tuesday, as Japanese shares struggled to maintain earlier gains amid rising oil prices and global bond yields. Oil prices hovered near four-month highs, while benchmark yields in the US and Japan climbed to multi-year highs. Investors also braced for key central bank policy decisions this week, with both the US Federal Reserve and the Bank of Japan expected to raise interest rates. Meanwhile, technology stocks delivered mixed performances amid growing concerns over a slower pace of AI development. Notable declines came from Advantest (-3%), Fujikura (-1.9%) and Furukawa Electric (-3.3%). In corporate developments, Kioxia Holdings gained 2.3% following reports that the Japanese memory chipmaker is considering raising at least $10 billion through a listing of American depositary receipts."
+    },
+    {
+      "id": "5094571",
+      "time": "2026-09-15 14:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年“中國品質生活”晚會今晚播出】中央廣播電視總檯2026年“中國品質生活”晚會將於今天（9月15日）20:00在總檯央視財經頻道（CCTV-2）播出，央視財經、央影片客戶端等同步播出。（央視新聞）"
+    },
     {
       "id": "mkt:01a0a3db-8dc0-7118-858c-674bf540aa04",
       "time": "2026-09-15 14:57:49",
