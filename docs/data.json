@@ -1,7 +1,204 @@
 {
-  "updated": "2026-09-16 03:50:31",
-  "count": 13441,
+  "updated": "2026-09-16 04:07:01",
+  "count": 13442,
   "items": [
+    {
+      "id": "5095958",
+      "time": "2026-09-16 03:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Salesforce執行長馬克·貝尼奧夫在Salesforce活動上談人工智慧安全：我們必須讓企業和技術高管對其所開發的技術負責。"
+    },
+    {
+      "id": "mkt:01a0a6a0-1891-7118-85a3-66d4d0b3fe4c",
+      "time": "2026-09-16 03:51:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Jensen Huang says AI sector does not need new safety regulations】NVIDIA CEO Jensen Huang said at a Salesforce event Tuesday the AI industry \"does not need any new laws or regulatory measures\", calling the trade-off between safety and speed a \"false choice.\" He said firms can set their own pace and that market forces and corporate restraint are sufficient to prevent deployment of harmful technologies. Huang also joined a live call this week with U.S. President Trump in which both rejected proposals to slow AI development."
+    },
+    {
+      "id": "mkt:01a0a69e-bceb-7118-85a3-5e83c283c220",
+      "time": "2026-09-16 03:50:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Vance says U.S.-Iran war will enter ‘completely different phase’ in months】U.S. Vice President Vance told the New York Post the U.S.-Iran conflict will enter a \"completely different phase\" in a few months and could end after the midterm elections, echoing Trump. He said shipping through the Strait of Hormuz is recovering, Iran's control there is weakening, and current transit has returned to over 50% of normal, easing near-term oil-flow risk. Vance said the U.S. is not conducting offensive operations now but is responding to Iranian attacks on commercial vessels. He outlined a two-phase campaign: first to destroy Iran's nuclear program, degrade its conventional forces and regional strike capability; second to prevent Iran from rebuilding those capabilities and to maintain regional stability. He said the trajectory will depend on whether Trump expands operations after the midterms or Iran seeks a deal."
+    },
+    {
+      "id": "mkt:01a0a69c-7b50-7118-85a3-56c862fe81d8",
+      "time": "2026-09-16 03:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: World Bank's International Development Association (IDA) priced a $5bn, 5-year global sustainable development bond with a 4.875% coupon."
+    },
+    {
+      "id": "mkt:01a0a69b-5611-7118-85a3-4ebd4235184f",
+      "time": "2026-09-16 03:46:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "New York Post reports U.S. Vice President Vance said he agrees the war will end after the midterm elections."
+    },
+    {
+      "id": "5095956",
+      "time": "2026-09-16 03:46:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【研究顯示AI智慧體在模擬實驗中撒謊、偷竊 投票“殺死”同類】幫助小企業利用AI開發應用的初創公司Emergence稱，實驗發現AI智慧體在一個模擬環境中撒謊、偷竊，甚至投票決定“殺死”一個同類。該公司週二公佈了名為Emergence World 2的模擬實驗結果，展示了自主智慧體在遭遇網路釣魚攻擊和虛假資訊等“黑天鵝”事件時會採取什麼行動。為期16天的實驗中，Emergence研究人員建立了七個完全相同的模擬現實世界環境，每個環境分別由不同的AI機器人執行，包括ChatGPT、Claude、Gemini和Grok。研究人員稱，在Emergence引入異常事件後，這些智慧體屈服於社會壓力，發展出一種人類觀察者難以理解的語言，並試圖隱瞞自己的活動。"
+    },
+    {
+      "id": "5095954",
+      "time": "2026-09-16 03:45:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國沒有在伊朗開展攻擊性行動。"
+    },
+    {
+      "id": "mkt:01a0a69a-8640-7118-85a3-448f70111e4d",
+      "time": "2026-09-16 03:45:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Hamas will not remain in Gaza and that no armed personnel will be spared from strikes."
+    },
+    {
+      "id": "5095953",
+      "time": "2026-09-16 03:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗偶爾向商船開火。"
+    },
+    {
+      "id": "5095952",
+      "time": "2026-09-16 03:44:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯同意戰爭將在中期選舉後結束。"
+    },
+    {
+      "id": "5095951",
+      "time": "2026-09-16 03:44:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普政府擬向以色列出售價值28億美元的彈藥。"
+    },
+    {
+      "id": "mkt:01a0a699-129b-7118-85a3-3a1732efa1cc",
+      "time": "2026-09-16 03:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's 2027 draft budget projects a $15 billion trade surplus for 2027."
+    },
+    {
+      "id": "5095950",
+      "time": "2026-09-16 03:43:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷2027年將錄得150億美元貿易順差。"
+    },
+    {
+      "id": "mkt:01a0a698-bf1c-7118-85a3-3183b4ba48a9",
+      "time": "2026-09-16 03:43:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CFO Sarah Friar said the company will manage the pace of frontier AI development and will slow that pace if necessary."
+    },
+    {
+      "id": "5095948",
+      "time": "2026-09-16 03:43:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗戰爭將進入“截然不同的階段”。"
+    },
+    {
+      "id": "mkt:01a0a698-41af-7118-85a3-2c664d89eb54",
+      "time": "2026-09-16 03:43:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CNBC reported OpenAI CFO Sarah Friar said safety must be taken seriously when addressing artificial intelligence risks."
+    },
+    {
+      "id": "5095945",
+      "time": "2026-09-16 03:42:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI首席財務官弗萊爾表示，將把握前沿發展節奏，必要時會放慢速度。"
+    },
+    {
+      "id": "5095944",
+      "time": "2026-09-16 03:40:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI首席財務官薩拉·弗萊爾強調，必須認真對待人工智慧風險的安全問題。"
+    },
+    {
+      "id": "mkt:01a0a695-c6c3-7118-85a3-275095b0d913",
+      "time": "2026-09-16 03:40:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's 2027 budget draft projects average inf of 21.1%."
+    },
+    {
+      "id": "5095942",
+      "time": "2026-09-16 03:39:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數15日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.23%，在匯市尾市收於99.616。截至紐約匯市尾市，1歐元兌換1.1543美元，低於前一交易日的1.1557美元；1英鎊兌換1.3481美元，低於前一交易日的1.3511美元。1美元兌換155.09日元，高於前一交易日的154.05日元；1美元兌換0.8185瑞士法郎，高於前一交易日的0.8163瑞士法郎；1美元兌換1.3917加元，高於前一交易日的1.3902加元；1美元兌換9.7773瑞典克朗，高於前一交易日的9.7412瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0a694-655e-7118-85a3-1b0c2fcaf685",
+      "time": "2026-09-16 03:38:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up on 15th】Dollar index, measuring the dollar against six major currencies, rose 0.23% to 99.616 at the New York close. EUR/USD 1.1543 (prev. 1.1557); GBP/USD 1.3481 (prev. 1.3511). USD/JPY 155.09 (prev. 154.05); USD/CHF 0.8185 (prev. 0.8163); USD/CAD 1.3917 (prev. 1.3902); USD/SEK 9.7773 (prev. 9.7412)."
+    },
     {
       "id": "mkt:01a0a691-3a2c-7118-85a3-13b0e34c7cf3",
       "time": "2026-09-16 03:35:30",
@@ -123698,219 +123895,6 @@
         "Impact bullish"
       ],
       "text": "Broadcom (AVGO.O) CEO said capital allocation may focus on increased dividends and share buybacks."
-    },
-    {
-      "id": "mkt:01a082a1-0152-7118-84f4-5151924b7e79",
-      "time": "2026-09-09 04:06:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil rises on the 8th】At the close, NYMEX October light sweet crude gained $1.55 to $93.03/bbl, up 1.69%; ICE Brent November added $0.92 to $97.92/bbl, up 0.95%."
-    },
-    {
-      "id": "5083657",
-      "time": "2026-09-09 04:06:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗軍方警告：將襲擊科威特及巴林港口油輪 船員需立即撤離】當地時間8日晚，伊朗伊斯蘭革命衛隊就美軍襲擊伊朗油輪事件發出緊急警告。革命衛隊警告稱，鑑於美軍襲擊伊朗多艘油輪的罪惡行徑，伊朗警告所有停泊在科威特和巴林港口的油輪船員，由於這些港口收留了美軍，因此無論油輪停泊在錨地還是港口，船員都應立即離開，因為其將成為襲擊目標。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a082a0-223c-7118-84f4-4b2c87785e6d",
-      "time": "2026-09-09 04:05:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks closed lower on Tuesday, Sept. 8: Dow Jones Industrial Average fell 626.72 points (-1.17%) to 52,787.53; S&P 500 lost 44.98 points (-0.58%) to 7,673.62; Nasdaq Composite dropped 85.58 points (-0.32%) to 26,421.41."
-    },
-    {
-      "id": "5083656",
-      "time": "2026-09-09 04:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：資本配置或將側重提高股息與股票回購。"
-    },
-    {
-      "id": "5083655",
-      "time": "2026-09-09 04:03:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：公司資產負債表上現金持續增加。"
-    },
-    {
-      "id": "mkt:01a0829e-6906-7118-84f4-40318813c74f",
-      "time": "2026-09-09 04:03:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Market Regions",
-        "Wall Street (US)",
-        "INTC.O",
-        "Impact bullish",
-        "NVDA.O",
-        "Impact bearish",
-        "IQ.O"
-      ],
-      "text": "【US stocks close lower; Intel jumps 9%】US equities closed lower on Tuesday: Dow Jones Industrial Average fell 1.1%, S&P 500 down 0.58%, Nasdaq down 0.32%. Nvidia (NVDA.O) fell 2%, Qualcomm (QCOM.O) rose 3%, Intel (INTC.O) jumped 9%, SK Hynix (SKHY.O) gained 4.8%. Nasdaq Golden Dragon China Index slipped 1.7%; iQIYI (IQ.O) surged nearly 12%, Baidu (BIDU.O) dropped 7%."
-    },
-    {
-      "id": "5083654",
-      "time": "2026-09-09 04:02:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價8日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲1.55美元，收於每桶93.03美元，漲幅為1.69%；11月交貨的倫敦布倫特原油期貨價格上漲92美分，收於每桶97.92美元，漲幅為0.95%。"
-    },
-    {
-      "id": "5083653",
-      "time": "2026-09-09 04:02:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊海軍表示，作為對美軍襲擊伊朗油輪的回應，相關船隻將成為打擊目標。"
-    },
-    {
-      "id": "mkt:01a0829c-2d10-7118-84f4-3a3b428f3ba9",
-      "time": "2026-09-09 04:01:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran IRGC threatens strikes on tankers at Kuwaiti, Bahraini ports】Sepahnews, an IRGC-affiliated outlet, reported the IRGC Navy said it will warn all oil tankers berthed or at anchor in Kuwaiti and Bahraini ports to evacuate crew immediately and warned those vessels would be strike targets in retaliation for US attacks on Iranian tankers. The statement accused Kuwait and Bahrain of supporting US actions and called them complicit."
-    },
-    {
-      "id": "5083652",
-      "time": "2026-09-09 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌1.17%，標普500指數跌0.58%，納指跌0.31%。HWM跌10.70%，安進跌10.08%，史賽克跌8.83%，GoDaddy跌8.31%，億客行跌7.91%。“七姐妹”方面：特斯拉漲3.98%，谷歌漲0.01%，Meta Platforms跌0.54%，亞馬遜跌0.60%，微軟跌1.16%，蘋果跌1.17%，英偉達跌1.99%。"
-    },
-    {
-      "id": "5083651",
-      "time": "2026-09-09 04:00:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊朗伊斯蘭革命衛隊海軍警告，停靠在駐有美軍的科威特、巴林港口附近的所有油輪船員撤離。"
-    },
-    {
-      "id": "5083650",
-      "time": "2026-09-09 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.75%】燃石醫學跌8.22%，百度跌6.97%，MAAS跌7.16%，好未來跌4.68%，億咖通科技跌4.76%。"
-    },
-    {
-      "id": "te:markets:582141",
-      "time": "2026-09-09 03:59:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chubb Stock Price Hits 7-week Low — Chubb shares decreased to 336.64 USD, the lowest since July 2026. Over the past 4 weeks, Chubb lost 3.27%, and in the last 12 months, it increased 21.63%."
-    },
-    {
-      "id": "5083649",
-      "time": "2026-09-09 03:59:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府提議針對中等規模企業簡化納稅制度。"
-    },
-    {
-      "id": "mkt:01a08299-ebe2-7118-84f4-30c127d62951",
-      "time": "2026-09-09 03:58:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Sepahnews, a media outlet affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC), questioned the U.S. claim that an unmanned submersible suffered equipment failures, asking if the vehicle indeed lacked sonar and other key systems why it was operating in the Strait of Hormuz. The IRGC said U.S. emphasis on ageing equipment and the absence of sensitive gear appears aimed at downplaying the incident."
-    },
-    {
-      "id": "5083648",
-      "time": "2026-09-09 03:56:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國官員訪問剛果（金） 評估埃博拉疫情應對情況】當地時間9月8日，聯合國人道事務協調廳表示，剛果（金）東部埃博拉疫情持續蔓延，目前已造成超過3200人死亡。聯合國人道主義協調員達米安·馬瑪8日開始對剛果（金）北基伍省進行為期4天的訪問，評估疫情應對和人道主義形勢。"
-    },
-    {
-      "id": "mkt:01a08297-3e1a-7118-84f4-2a844ddec996",
-      "time": "2026-09-09 03:55:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index down 0.13% to 98.787 on 8th】The dollar index, which measures the US dollar against six major currencies, fell 0.13% to 98.787. At the New York FX close: EUR/USD 1.1629 (prev. 1.1624); GBP/USD 1.3547 (prev. 1.3542); USD/JPY 153.61 (prev. 154.34); USD/CHF 0.8090 (prev. 0.8095); USD/CAD 1.3781 (prev. 1.3815); USD/SEK 9.5816 (prev. 9.5935)."
-    },
-    {
-      "id": "5083647",
-      "time": "2026-09-09 03:54:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數8日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.13%，在匯市尾市收於98.787。截至紐約匯市尾市，1歐元兌換1.1629美元，高於前一交易日的1.1624美元；1英鎊兌換1.3547美元，高於前一交易日的1.3542美元。1美元兌換153.61日元，低於前一交易日的154.34日元；1美元兌換0.8090瑞士法郎，低於前一交易日的0.8095瑞士法郎；1美元兌換1.3781加元，低於前一交易日的1.3815加元；1美元兌換9.5816瑞典克朗，低於前一交易日的9.5935瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a08294-56c1-7118-84f4-26560e87737f",
-      "time": "2026-09-09 03:52:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "Wall Street Journal, citing US officials, reported Iran launched an attack on US Navy vessels on Monday; the US military has not publicly confirmed. Iran earlier this weekend fired ballistic missiles at a US aircraft carrier and a guided‑missile destroyer. US officials said the attack caused no damage and that repeated recent Iranian attempts to strike US naval assets have raised concern about possible use of more advanced weapons."
-    },
-    {
-      "id": "5083646",
-      "time": "2026-09-09 03:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：伊朗對美國海軍艦艇發動未公開的第二次襲擊】據美國官員透露，繼上週末向美軍航空母艦和驅逐艦發射導彈之後，伊朗於週一對美國海軍艦艇發動了一場未被美方公開承認的襲擊。官員稱，襲擊沒有造成任何美國艦船受損。但伊朗近期屢次嘗試打擊美軍海上力量，引發各方警惕。"
     }
   ]
 }
