@@ -1,7 +1,450 @@
 {
-  "updated": "2026-09-15 09:59:19",
-  "count": 13628,
+  "updated": "2026-09-15 10:02:59",
+  "count": 13660,
   "items": [
+    {
+      "id": "mkt:01a0a2cd-18b4-7118-8584-501298a40b8e",
+      "time": "2026-09-15 10:02:25",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China urban fixed-asset investment fell 0.5% MoM in August, after a 1.42% decline in July."
+    },
+    {
+      "id": "mkt:01a0a2cc-f93f-7118-8584-4d4da57a346e",
+      "time": "2026-09-15 10:02:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Jan–Aug China property developers' funding 5.09 tln yuan, down 21.0% YoY】China's National Bureau of Statistics: real estate developers received 5.0893 trillion yuan in Jan–Aug, down 21.0% YoY. Breakdown: domestic loans 688 billion yuan (-33.3% YoY); self‑raised funds 1.8432 trillion yuan (-20.0%); deposits and advance receipts 1.6037 trillion yuan (-14.8%); individual mortgage loans 684.6 billion yuan (-22.4%)."
+    },
+    {
+      "id": "5094189",
+      "time": "2026-09-15 10:02:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%】據國家統計局，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。8月份，規上工業原油產量1843萬噸，同比增長0.8%，增速與7月份持平；日均產量59.5萬噸。1—8月份，規上工業原油產量1.46億噸，同比增長0.9%。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。8月份，規上工業發電量9438億千瓦時，同比下降0.8%；日均發電304.4億千瓦時。1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%。"
+    },
+    {
+      "id": "mkt:01a0a2cc-ef93-7118-8584-470db2b95183",
+      "time": "2026-09-15 10:02:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment (MoM) (Aug) | actual -0.5% | previous -1.42%"
+    },
+    {
+      "id": "5094188",
+      "time": "2026-09-15 10:02:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4310美元/盎司，日內漲0.27%。"
+    },
+    {
+      "id": "5094187",
+      "time": "2026-09-15 10:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯計劃訪問聯合國，並預計將舉行高層會晤。"
+    },
+    {
+      "id": "mkt:01a0a2cc-b7d7-7118-8584-3ee1760c4e68",
+      "time": "2026-09-15 10:02:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China August total retail sales of consumer goods MoM -0.13% (prior +0.06%)."
+    },
+    {
+      "id": "mkt:01a0a2cc-b20d-7118-8584-336f42eb6657",
+      "time": "2026-09-15 10:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China NBS: Jan–Aug new home sales area down 12.1% YoY to 498.8 mln sqm】National Bureau of Statistics: Jan–Aug sales area of newly built commercial housing 498.8 mln sqm, down 12.1% YoY; residential sales area down 13.0% YoY. Sales value of newly built commercial housing 4.747 trillion yuan, down 13.0% YoY; residential sales value down 13.1% YoY. Ministry of Housing and Urban‑Rural Development: Jan–Aug second‑hand housing online signed transaction area 549.2 mln sqm, up 10.6% YoY."
+    },
+    {
+      "id": "mkt:01a0a2cc-aabf-7118-8584-2a8ee6258dba",
+      "time": "2026-09-15 10:01:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "National Bureau of Statistics: Unsold area of newly built commodity housing was 753.49 million sq m at end-August, down 1.1% YoY; unsold area within three years was 548.19 million sq m, down 4.2% YoY."
+    },
+    {
+      "id": "5094186",
+      "time": "2026-09-15 10:01:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4350美元/盎司，日內跌0.04%。"
+    },
+    {
+      "id": "mkt:01a0a2cc-91dc-7118-8584-23673de4d00e",
+      "time": "2026-09-15 10:01:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (MoM) (Aug) | actual -0.13% | previous 0.06%"
+    },
+    {
+      "id": "5094185",
+      "time": "2026-09-15 10:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：1—8月份，全國房地產開發投資47979億元，同比下降19.9%】據國家統計局，1—8月份，全國房地產開發投資47979億元，同比下降19.9%；其中，住宅投資37017億元，下降19.7%。二、商品房銷售和待售情況1—8月份，新建商品房銷售面積4.99億平方米，同比下降12.1%；其中住宅銷售面積下降13.0%。新建商品房銷售額47470億元，下降13.0%；其中住宅銷售額下降13.1%。"
+    },
+    {
+      "id": "5094184",
+      "time": "2026-09-15 10:01:38",
+      "tags": [],
+      "text": "國家統計局：1—8月份，社會消費品零售總額327569億元，同比增長1.1％。其中，除汽車以外的消費品零售額301764億元，增長2.7％。8月份，社會消費品零售總額39824億元，同比增長0.4％。其中，除汽車以外的消費品零售額36545億元，增長2.5％。"
+    },
+    {
+      "id": "mkt:01a0a2cc-6188-7118-8584-1866259d660b",
+      "time": "2026-09-15 10:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Jan-Aug property developers' area under construction 5,607.7 mln sq m, -12.8% YoY】China National Bureau of Statistics: Jan-Aug total floor area under construction by property developers 5,607.7 mln sq m, down 12.8% YoY; residential 3,893.5 mln sq m, down 13.2% YoY. New starts 298.9 mln sq m, down 24.8% YoY; residential new starts 218.4 mln sq m, down 25.4% YoY. Completions 211.0 mln sq m, down 23.7% YoY; residential completions 148.0 mln sq m, down 25.4% YoY."
+    },
+    {
+      "id": "mkt:01a0a2cc-4e63-7118-8584-14bbe6641d00",
+      "time": "2026-09-15 10:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's National Bureau of Statistics: Jan-Aug retail sales of consumer goods totaled 32.757 tln yuan, up 1.1% YoY; retail sales excluding autos 30.176 tln yuan, up 2.7% YoY. In August, retail sales were 3.982 tln yuan, up 0.4% YoY; ex-autos 3.655 tln yuan, up 2.5% YoY."
+    },
+    {
+      "id": "5094183",
+      "time": "2026-09-15 10:01:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人保原黨委委員、副總裁於澤被提起公訴】中國人民保險集團股份有限公司原黨委委員、副總裁於澤涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。經最高人民檢察院交辦，北京市人民檢察院依法以涉嫌受賄罪對於澤作出逮捕決定。近日，北京市人民檢察院第二分院已向北京市第二中級人民法院提起公訴。"
+    },
+    {
+      "id": "mkt:01a0a2cb-fc64-7118-8584-0a6aaea2048d",
+      "time": "2026-09-15 10:01:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "National Bureau of Statistics: Electricity generation by industrial enterprises above designated size remained broadly stable. In August generation was 943.8 bln kWh, down 0.8% YoY; daily average 30.44 bln kWh. January–August generation totaled 6.6476 tln kWh, up 2.4% YoY."
+    },
+    {
+      "id": "mkt:01a0a2cb-ee5a-7118-8584-04a9323069ce",
+      "time": "2026-09-15 10:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's National Bureau of Statistics said Jan-Aug fixed-asset investment (excluding rural households) totaled 29.31 trillion yuan, down 7.2% YoY. Investment in intellectual property products rose 9.2% YoY."
+    },
+    {
+      "id": "mkt:01a0a2cb-a0a3-7118-8583-fa2c5b6433fb",
+      "time": "2026-09-15 10:00:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Healthcare Security Administration introduced a pre-filing system for medical service pricing items to speed the inclusion of newly approved medical technologies and products into billable medical services and fee schedules once they receive formal approval."
+    },
+    {
+      "id": "mkt:01a0a2cb-9d0c-7118-8583-f1042b968846",
+      "time": "2026-09-15 10:00:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China industrial value added of enterprises above designated size rose 0.54% month-on-month in August, versus 0.11% previously."
+    },
+    {
+      "id": "5094182",
+      "time": "2026-09-15 10:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：8月規模以上工業增加值同比實際增長5.2%】據國家統計局，8月份，規模以上工業增加值同比實際增長5.2%（增加值增速均為扣除價格因素的實際增長率），增速比上月加快0.7個百分點。1—8月份，規模以上工業增加值同比增長5.3%。"
+    },
+    {
+      "id": "5094181",
+      "time": "2026-09-15 10:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1-8月房地產開發投資同比下降19.9%。"
+    },
+    {
+      "id": "mkt:01a0a2cb-878f-7118-8583-e9457d2ccae3",
+      "time": "2026-09-15 10:00:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "National Bureau of Statistics: Jan-Aug China real estate development investment totaled 4.798 tln yuan, down 19.9% YoY; residential investment 3.702 tln yuan, down 19.7% YoY."
+    },
+    {
+      "id": "mkt:01a0a2cb-7b81-7118-8583-e17d63e0c79f",
+      "time": "2026-09-15 10:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (MoM) (Aug) | actual 0.54% | previous 0.11%"
+    },
+    {
+      "id": "5094180",
+      "time": "2026-09-15 10:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1-8月零售銷售同比增長1.1%。"
+    },
+    {
+      "id": "mkt:01a0a2cb-61af-7118-8583-d889d10c47be",
+      "time": "2026-09-15 10:00:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "China industrial value added of enterprises above designated size rose 5.2% YoY in August, accelerating 0.7 percentage points from July; MoM growth was 0.54%."
+    },
+    {
+      "id": "mkt:01a0a2cb-2fb1-7118-8583-d5cf737f8961",
+      "time": "2026-09-15 10:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's surveyed urban unemployment rate rose to 5.3% in August, versus a 5.2% forecast and 5.2% previously."
+    },
+    {
+      "id": "5094179",
+      "time": "2026-09-15 10:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國8月城鎮調查失業率 5.3%，預期5.20%，前值5.20%。"
+    },
+    {
+      "id": "mkt:01a0a2cb-1482-7118-8583-c94628aeda3d",
+      "time": "2026-09-15 10:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China year-to-date through August urban fixed-asset investment fell 7.2% YoY (expected -7.2%; prior -6.7%)."
+    },
+    {
+      "id": "5094178",
+      "time": "2026-09-15 10:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國8月今年迄今城鎮固定資產投資同比 -7.2%，預期-7.2%，前值-6.70%。"
+    },
+    {
+      "id": "mkt:01a0a2cb-0c1c-7118-8583-c357d61c11ae",
+      "time": "2026-09-15 10:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "China industrial value-added for enterprises above designated size rose 5.2% YoY in August, versus 4.8% expected and 4.5% in July."
+    },
+    {
+      "id": "mkt:01a0a2cb-0bdd-7118-8583-bdb44bfeb37e",
+      "time": "2026-09-15 10:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China August retail sales of consumer goods rose 0.4% YoY, below the 0.8% expected and down from July's 0.6%."
+    },
+    {
+      "id": "5094177",
+      "time": "2026-09-15 10:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國8月規模以上工業增加值同比 5.2%，預期4.80%，前值4.50%。"
+    },
+    {
+      "id": "5094176",
+      "time": "2026-09-15 10:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊震盪反彈 臻寶科技漲超10%】半導體裝置板塊盤中震盪反彈，臻寶科技漲超10%，頻準鐳射、超純應材、三佳科技、芯碁微裝、思泰克等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a0a2ca-e294-7118-8583-9b7fc5c991b5",
+      "time": "2026-09-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Aug) | actual 5.3% | consensus 5.20% | previous 5.20%"
+    },
+    {
+      "id": "mkt:01a0a2ca-e2c5-7118-8583-abd957d8de5c",
+      "time": "2026-09-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Aug) | actual 0.4% | consensus 0.80% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a0a2ca-e2a1-7118-8583-a465dc85b165",
+      "time": "2026-09-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (YoY) (Aug) | actual 5.2% | consensus 4.80% | previous 4.50%"
+    },
+    {
+      "id": "mkt:01a0a2ca-e2c5-7118-8583-b4e641b6100a",
+      "time": "2026-09-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment YTD (YoY) (Aug) | actual -7.2% | consensus -7.2% | previous -6.70%"
+    },
+    {
+      "id": "mkt:01a0a2ca-e1d0-7118-8583-96117773f2ad",
+      "time": "2026-09-15 10:00:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister nominee said discussions will weigh strategic interests and shared values against the backdrop of a stable U.S.-South Korea alliance."
+    },
+    {
+      "id": "mkt:01a0a2ca-abb0-7118-8583-8e0f035d6846",
+      "time": "2026-09-15 09:59:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EPA announces repeal of power-plant GHG limits; proposes to eliminate future regulatory authority】Sept. 14 — At the G20 energy ministers meeting in Houston, the U.S. Environmental Protection Agency announced it will repeal the Biden administration's 2024 greenhouse-gas limits on coal- and gas-fired power plants and simultaneously proposed a new rule aimed at eliminating EPA's authority to regulate power-plant climate pollution going forward."
+    },
+    {
+      "id": "5094175",
+      "time": "2026-09-15 09:59:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1％，成分股中，生益電子漲4.92％，芯原股份漲3.38％，屹唐股份漲3.32％，華海清科漲3.29％。"
+    },
+    {
+      "id": "mkt:01a0a2ca-12ba-7118-8583-80398fa0b13c",
+      "time": "2026-09-15 09:59:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share electronic fabrics sector rallied; China Jushi, Honghe Technology, International Composite and Sinoma Technology all rose. Market reports say producers launched a new round of price increases for electronic yarn and fabric in early September."
+    },
     {
       "id": "5094172",
       "time": "2026-09-15 09:58:45",
@@ -125351,90 +125794,6 @@
         "市場"
       ],
       "text": "【中銀國際：嗶哩嗶哩-W極具建設性交易組合消除騰訊減持壓力 維持“買入”評級】中銀國際釋出研報稱，維持嗶哩嗶哩-W(09626)“買入”評級，H股目標價224港元不變。該行指出，嗶哩嗶哩於上週五(9月4日)收盤後宣佈一系列交易，一勞永逸地消除了騰訊(00700)的所有減持壓力，並透過擬發行總額7億美元、2031年到期零息可轉換債券，轉股價溢價約35%，附2029年可選擇性贖回權，同時透過兩種方式回購分批登出總共3億美元，募集約4億美元淨資金。該行認為，這是一套對嗶哩嗶哩極具建設性且量身定製的方案，有效緩解了7億美元擬議可轉換債券發行及同步騰訊一次性大宗減持對股價的衝擊，同時騰訊2億美元的可轉換債券認購也彰顯了對嗶哩嗶哩長期上行潛力的信心。中銀國際看好嗶哩嗶哩實現強勁、可持續的利潤增長，由其健康的“3C”飛輪貢獻，且正被聚焦且剋制的AI執行進一步放大。"
-    },
-    {
-      "id": "5081839",
-      "time": "2026-09-08 10:02:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多集團執行長預計2026年全球石油需求將較2025年減少150萬桶/日。"
-    },
-    {
-      "id": "5081838",
-      "time": "2026-09-08 10:02:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "維多集團執行長稱俄羅斯夏季每月進口50-60萬噸汽油。"
-    },
-    {
-      "id": "5081837",
-      "time": "2026-09-08 10:01:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【高管被立案調查，神劍股份回應】9月8日開盤後，神劍股份股價走低，而後跌幅收窄。昨日晚間，神劍股份釋出公告稱，公司副總經理吳德清收到中國證券監督管理委員會出具的《立案告知書》。因涉嫌內幕交易，證監會決定對吳德清立案。目前，公司各項經營活動均正常開展。記者以投資者身份致電神劍股份詢問情況。對方回覆稱，公司沒有掌握涉及的內幕交易具體標的、發生時間等細節。目前吳德清還在正常履職，對公司的影響需等到立案有後續進展後才能作進一步評估。（第一財經）"
-    },
-    {
-      "id": "5081836",
-      "time": "2026-09-08 10:01:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【甘肅長風電子科技有限責任公司黨委委員賈浩淼接受審查調查】據中央紀委國家監委駐中國電子資訊產業集團有限公司紀檢監察組、海南省紀委監委訊息：甘肅長風電子科技有限責任公司黨委委員、紀委書記賈浩淼涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國電子資訊產業集團有限公司紀檢監察組紀律審查和海南省東方市監察委員會監察調查。"
-    },
-    {
-      "id": "5081835",
-      "time": "2026-09-08 10:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科院空天院博士創辦的衛星遙感AI公司融資近5億】中科世通亨奇（北京）科技有限公司（下稱“中科世通亨奇”）近日宣佈完成近5億元B系列融資。本輪融資由中國兵器集團下屬南方德茂基金、北京市資訊產業基金、聯通創投、厚紀資本、太平科創基金、廣發信德、芯能創投等機構共同投資，老股東樂禮資本連續三次加註。"
-    },
-    {
-      "id": "5081834",
-      "time": "2026-09-08 10:01:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通銀行總務部副總經理錢暉接受審查調查】據中央紀委國家監委駐交通銀行紀檢監察組、遼寧省紀委監委訊息：交通銀行總務部副總經理錢暉涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐交通銀行紀檢監察組紀律審查和遼寧省鞍山市監察委員會監察調查。"
-    },
-    {
-      "id": "5081833",
-      "time": "2026-09-08 10:01:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銅板塊持續走高，北方銅業漲停】銅板塊持續走高，北方銅業漲停，精藝股份此前封板，金誠信、江西銅業、雲南銅業、盛屯礦業、西部礦業等跟漲。"
-    },
-    {
-      "id": "5081832",
-      "time": "2026-09-08 10:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十四五”智慧財產權成績單出爐 多項指標位居世界前列】第十五屆中國智慧財產權年會9月8日至9月9日在北京舉行，主題為“奮力推動‘十五五’智慧財產權事業高質量發展”。國家智慧財產權局介紹，“十四五”時期，我國智慧財產權工作從追求數量向提高質量轉變，智慧財產權事業實現新發展、新跨越、新提升。在法律制度方面，我國完成了專利法及其實施細則新一輪全面修改，建立了國際上最高標準的侵權懲罰性賠償制度。在創造方面，我國國內有效發明專利擁有量達到539.4萬件，國內有效商標註冊量達到5081.6萬件，PCT國際專利申請量連續7年位居全球第一，海牙體系外觀設計申請量、馬德里國際商標申請量均居世界前列。在審查方面，建成了國際領先的專利智慧審查系統和新一代商標審查系統，實現了多模態大模型在審查工作中的應用，專利商標審查週期均達到相同審查制度下國際最快水平。在運用方面，專利密集型產業增加值突破18萬億元，佔國內生產總值的比重提升到了13.38%。智慧財產權使用費年進出口總額超過4000億元。在保護方面，建成129家國家級智慧財產權保護中心和快速維權中心、116家海外智慧財產權糾紛應對指導工作平臺，智慧財產權保護社會滿意度提升至82.81分。在服務方面，實現了智慧財產權基礎資料應開放盡開放，各項公共服務“一窗通辦、一網通辦”，各類服務機構覆蓋更廣、服務更優。在國際合作方面，新加入《工業品外觀設計國際註冊海牙協定》和《馬拉喀什條約》，推動成功締結《產權組織智慧財產權、遺傳資源和相關傳統知識條約》和《利雅得外觀設計法條約》。世界智慧財產權組織釋出的《2025年全球創新指數報告》顯示，我國排名提升至第10位，首次躋身全球前十，擁有的全球百強創新叢集數量連續三年位居各國之首。"
-    },
-    {
-      "id": "5081831",
-      "time": "2026-09-08 10:00:45",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【市場監管總局在2026年全國公平競爭大會期間舉行雙邊會見】9月7日至8日，2026年全國公平競爭大會在陝西省西安市舉辦。會議期間，市場監管總局副局長束為會見了法國競爭管理局主席伯努瓦·科雷、巴基斯坦競爭委員會主席法裡德·艾哈邁德·塔拉爾、俄羅斯聯邦反壟斷局副局長魯斯蘭・賈柳科夫，就當前反壟斷立法執法工作重點、新興領域競爭問題及深化競爭領域務實合作等交換意見。各方表示，將進一步完善雙邊合作機制，持續深化競爭政策和反壟斷執法交流合作，共同營造公平競爭的市場環境。 市場監管總局反壟斷總監，競爭政策協調司、反壟斷執法一司、反壟斷執法二司、國際合作司負責同志參加會見。"
-    },
-    {
-      "id": "5081830",
-      "time": "2026-09-08 10:00:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "浦項鋼鐵將在韓國投資4800億韓元新建汽車用鋼廠。"
     }
   ]
 }
