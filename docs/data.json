@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-16 05:46:05",
-  "count": 13420,
+  "updated": "2026-09-16 06:02:54",
+  "count": 13414,
   "items": [
+    {
+      "id": "5096063",
+      "time": "2026-09-16 05:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國正考慮從日本、韓國採購軍艦。"
+    },
+    {
+      "id": "mkt:01a0a700-52ae-7118-85a4-88f0ce4816fd",
+      "time": "2026-09-16 05:36:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. House committee voted to recommend finding billionaire Leon Black in contempt of Congress for failing to comply with a subpoena in the Epstein investigation."
+    },
+    {
+      "id": "5096062",
+      "time": "2026-09-16 05:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院委員會投票建議以藐視國會罪起訴億萬富翁萊昂·布萊克，因其在愛潑斯坦調查中未遵守傳票要求。"
+    },
     {
       "id": "5096061",
       "time": "2026-09-16 05:31:08",
@@ -123626,95 +123650,6 @@
         "The Trump Trade"
       ],
       "text": "US Secretary of State Rubio said Trump wants to reach an agreement with Colombia on tariffs."
-    },
-    {
-      "id": "5083727",
-      "time": "2026-09-09 06:02:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月加息機率為59.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為40.6%，累計加息25個基點的機率為59.4%。美聯儲到10月維持利率不變的機率為29.8%，累計加息25個基點的機率為54.4%，累計加息50個基點的機率為15.8%。"
-    },
-    {
-      "id": "5083726",
-      "time": "2026-09-09 06:00:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報66.31美元/盎司。"
-    },
-    {
-      "id": "5083725",
-      "time": "2026-09-09 06:00:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破66美元/盎司，日內跌0.05%。"
-    },
-    {
-      "id": "5083724",
-      "time": "2026-09-09 06:00:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4400美元/盎司，日內跌0.88%。"
-    },
-    {
-      "id": "5083723",
-      "time": "2026-09-09 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報94.29美元/桶。"
-    },
-    {
-      "id": "mkt:01a08308-263a-7118-84f5-75f74ab0ae67",
-      "time": "2026-09-09 05:59:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRGC-affiliated outlet Sepahnews reported Iranian missiles successfully breached Jordanian air-defense systems."
-    },
-    {
-      "id": "mkt:01a08307-1b08-7118-84f5-69a7abcaf7df",
-      "time": "2026-09-09 05:57:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Sepahnews, the media arm of the Islamic Revolutionary Guard Corps (IRGC), says Iran's hardline response is ongoing."
-    },
-    {
-      "id": "mkt:01a08306-0881-7118-84f5-65b3ee7e0a11",
-      "time": "2026-09-09 05:56:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Sepahnews, an outlet affiliated with the Islamic Revolutionary Guard Corps, reported Iran launched missile strikes on US military targets inside Jordan."
-    },
-    {
-      "id": "mkt:01a08300-b42d-7118-84f5-5f8c0361b213",
-      "time": "2026-09-09 05:50:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Wall Street eyes Bessent Treasury buyback; analysts say cap could be $10bn】US Treasury Secretary Bessent is set to announce the next round of long-term Treasury buybacks; markets are focused on whether the program will expand and the debt-management signal it conveys. Wrightson ICAP senior economist Crandall says a single buyback of $5–6bn is reasonable though larger operations remain possible. Morgan Stanley analysts put a financing-constrained single-operation cap near $10bn; at that level, quarterly net issuance of >20‑year Treasuries could fall about 55%. Bloomberg strategist Feigen says a larger-than-expected buyback would likely be read as a stronger policy signal and could push long yields lower in the short term, but the absolute size would still be limited versus the overall Treasury market. Barclays strategists Pradhan and Hu expect the Treasury may use open-ended wording such as \"at least $4bn each time\" to retain flexibility. Market focus will be on announced size, frequency and forward guidance; the 30‑year swap spread may more directly price supply changes."
     }
   ]
 }
