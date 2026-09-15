@@ -1,7 +1,126 @@
 {
   "date": "2026-09-16",
-  "count": 252,
+  "count": 264,
   "items": [
+    {
+      "id": "te:markets:583972",
+      "time": "2026-09-16 04:06:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop as Yields Extend Surge — US stock indices closed lower on Tuesday under continued pressure from higher bond yields. The S&P 500 fell 0.4%, the Dow shed 328 points and the Nasdaq lost 0.6%. The benchmark 10-year Treasury yield hit its highest level in nearly two decades. Escalating Middle East strikes worsened the outlook for regional energy supplies, increasing inflation risks and the prospect of a hawkish Federal Reserve response. Markets expect the Fed to hike rates by 25 bps tomorrow as higher fuel prices have driven inflationary pressures this year. Losses were broad-based, with credit-sensitive AI hyperscalers hit by rising borrowing costs. Alphabet shed 1.3%, Microsoft lost 1.6%, Oracle tumbled 3.1% and Amazon retreated 2%. Chipmakers were mostly higher following Monday’s selloff, when Anthropic CEO Dario Amodei called for slower AI development to mitigate risks from increasingly capable models. Nvidia added 0.6%, while AMD rose 2.2%."
+    },
+    {
+      "id": "mkt:01a0a6ac-cccb-7118-85a3-8e08701be989",
+      "time": "2026-09-16 04:05:37",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity close on Sept. 15 (Tuesday): Dow Jones Industrial Average fell 328.63 points (-0.63%) to 52,092.57. S&P 500 fell 34.20 points (-0.45%) to 7,585.78. Nasdaq Composite fell 204.84 points (-0.78%) to 25,981.57."
+    },
+    {
+      "id": "mkt:01a0a6aa-b5f1-7118-85a3-84e0528cb967",
+      "time": "2026-09-16 04:03:20",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) appointed Deirdre Hanford to lead Micron Research Labs."
+    },
+    {
+      "id": "mkt:01a0a6a9-b06c-7118-85a3-7f371c6b9aa4",
+      "time": "2026-09-16 04:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports OpenAI has newly backed three bills: the Bio Data Network Act, the AI-Ready Bio Data Standards Act and the Scaling Biology Act."
+    },
+    {
+      "id": "mkt:01a0a6a9-ad8c-7118-85a3-71f8ad4f81b0",
+      "time": "2026-09-16 04:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bearish",
+        "QCOM.O",
+        "Impact bullish",
+        "XPEV.N"
+      ],
+      "text": "【US close: major indexes down; Nasdaq Golden Dragon China Index falls >1%】US stocks closed lower Tuesday: the Dow fell 0.6%, the S&P 500 dropped 0.45% and the Nasdaq declined 0.78%. Qualcomm (QCOM.O) rose 4%, Oracle (ORCL.N) fell 3%, and SK Hynix (SKHY.O) slipped 0.4%. The Nasdaq Golden Dragon China Index fell 1.1%; XPeng (XPEV.N) dropped 4.5%."
+    },
+    {
+      "id": "5095969",
+      "time": "2026-09-16 04:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光任命迪爾德麗·漢福德領導美光研究院。"
+    },
+    {
+      "id": "5095967",
+      "time": "2026-09-16 04:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI為《生物資料網路法案》、《AI就緒生物資料標準法案》和《規模生物學法案》釋出新的支援背書。"
+    },
+    {
+      "id": "5095966",
+      "time": "2026-09-16 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.61%，標普500指數跌0.45%，納指跌0.78%。Coinbase Global跌10.11%，Axon Enterprise跌9.83%，傑克亨利跌6.30%，墨式燒烤跌5.94%，Carvana Co.跌5.60%，Casey’跌5.55%。“七姐妹”方面：Meta Platforms漲0.68%，英偉達漲0.54%，蘋果跌0.52%，特斯拉跌0.67%，谷歌跌1.24%，微軟跌1.72%，亞馬遜跌2.01%。"
+    },
+    {
+      "id": "5095964",
+      "time": "2026-09-16 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.15%】閃送跌15.62%，NXTT跌13.26%，天演藥業跌8.87%，陸金所控股跌6.15%，晶科能源跌5.64%。"
+    },
+    {
+      "id": "mkt:01a0a6a7-ad3c-7118-85a3-6b5d66e41b80",
+      "time": "2026-09-16 04:00:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Court filings show the Trump administration has appealed a ruling that barred the EPA from submitting California vehicle emissions standards to Congress to seek their repeal."
+    },
+    {
+      "id": "5095963",
+      "time": "2026-09-16 03:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：要求各州在派拉蒙案件中繳納19億美元保證金。"
+    },
+    {
+      "id": "5095961",
+      "time": "2026-09-16 03:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示：特朗普政府就阻止環境保護局向國會提交具有里程碑意義的加州車輛排放法規以尋求可能廢除的裁決提起上訴。"
+    },
     {
       "id": "5095958",
       "time": "2026-09-16 03:52:30",

@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-16 04:07:01",
-  "count": 13442,
+  "updated": "2026-09-16 04:23:31",
+  "count": 13441,
   "items": [
+    {
+      "id": "te:markets:583972",
+      "time": "2026-09-16 04:06:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop as Yields Extend Surge — US stock indices closed lower on Tuesday under continued pressure from higher bond yields. The S&P 500 fell 0.4%, the Dow shed 328 points and the Nasdaq lost 0.6%. The benchmark 10-year Treasury yield hit its highest level in nearly two decades. Escalating Middle East strikes worsened the outlook for regional energy supplies, increasing inflation risks and the prospect of a hawkish Federal Reserve response. Markets expect the Fed to hike rates by 25 bps tomorrow as higher fuel prices have driven inflationary pressures this year. Losses were broad-based, with credit-sensitive AI hyperscalers hit by rising borrowing costs. Alphabet shed 1.3%, Microsoft lost 1.6%, Oracle tumbled 3.1% and Amazon retreated 2%. Chipmakers were mostly higher following Monday’s selloff, when Anthropic CEO Dario Amodei called for slower AI development to mitigate risks from increasingly capable models. Nvidia added 0.6%, while AMD rose 2.2%."
+    },
+    {
+      "id": "mkt:01a0a6ac-cccb-7118-85a3-8e08701be989",
+      "time": "2026-09-16 04:05:37",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity close on Sept. 15 (Tuesday): Dow Jones Industrial Average fell 328.63 points (-0.63%) to 52,092.57. S&P 500 fell 34.20 points (-0.45%) to 7,585.78. Nasdaq Composite fell 204.84 points (-0.78%) to 25,981.57."
+    },
+    {
+      "id": "mkt:01a0a6aa-b5f1-7118-85a3-84e0528cb967",
+      "time": "2026-09-16 04:03:20",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) appointed Deirdre Hanford to lead Micron Research Labs."
+    },
+    {
+      "id": "mkt:01a0a6a9-b06c-7118-85a3-7f371c6b9aa4",
+      "time": "2026-09-16 04:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports OpenAI has newly backed three bills: the Bio Data Network Act, the AI-Ready Bio Data Standards Act and the Scaling Biology Act."
+    },
+    {
+      "id": "mkt:01a0a6a9-ad8c-7118-85a3-71f8ad4f81b0",
+      "time": "2026-09-16 04:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bearish",
+        "QCOM.O",
+        "Impact bullish",
+        "XPEV.N"
+      ],
+      "text": "【US close: major indexes down; Nasdaq Golden Dragon China Index falls >1%】US stocks closed lower Tuesday: the Dow fell 0.6%, the S&P 500 dropped 0.45% and the Nasdaq declined 0.78%. Qualcomm (QCOM.O) rose 4%, Oracle (ORCL.N) fell 3%, and SK Hynix (SKHY.O) slipped 0.4%. The Nasdaq Golden Dragon China Index fell 1.1%; XPeng (XPEV.N) dropped 4.5%."
+    },
+    {
+      "id": "5095969",
+      "time": "2026-09-16 04:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光任命迪爾德麗·漢福德領導美光研究院。"
+    },
+    {
+      "id": "5095967",
+      "time": "2026-09-16 04:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI為《生物資料網路法案》、《AI就緒生物資料標準法案》和《規模生物學法案》釋出新的支援背書。"
+    },
+    {
+      "id": "5095966",
+      "time": "2026-09-16 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.61%，標普500指數跌0.45%，納指跌0.78%。Coinbase Global跌10.11%，Axon Enterprise跌9.83%，傑克亨利跌6.30%，墨式燒烤跌5.94%，Carvana Co.跌5.60%，Casey’跌5.55%。“七姐妹”方面：Meta Platforms漲0.68%，英偉達漲0.54%，蘋果跌0.52%，特斯拉跌0.67%，谷歌跌1.24%，微軟跌1.72%，亞馬遜跌2.01%。"
+    },
+    {
+      "id": "5095964",
+      "time": "2026-09-16 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.15%】閃送跌15.62%，NXTT跌13.26%，天演藥業跌8.87%，陸金所控股跌6.15%，晶科能源跌5.64%。"
+    },
+    {
+      "id": "mkt:01a0a6a7-ad3c-7118-85a3-6b5d66e41b80",
+      "time": "2026-09-16 04:00:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Court filings show the Trump administration has appealed a ruling that barred the EPA from submitting California vehicle emissions standards to Congress to seek their repeal."
+    },
+    {
+      "id": "5095963",
+      "time": "2026-09-16 03:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：要求各州在派拉蒙案件中繳納19億美元保證金。"
+    },
+    {
+      "id": "5095961",
+      "time": "2026-09-16 03:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示：特朗普政府就阻止環境保護局向國會提交具有里程碑意義的加州車輛排放法規以尋求可能廢除的裁決提起上訴。"
+    },
     {
       "id": "5095958",
       "time": "2026-09-16 03:52:30",
@@ -123762,139 +123881,6 @@
         "Europe & UK"
       ],
       "text": "London Heathrow Airport: flight operations have resumed, but further disruption is expected."
-    },
-    {
-      "id": "mkt:01a082b0-5a2a-7118-84f4-7752ccd5d737",
-      "time": "2026-09-09 04:23:10",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Air traffic control services at London Heathrow Airport have begun to resume."
-    },
-    {
-      "id": "mkt:01a082ae-8a1b-7118-84f4-6ac1fa203d74",
-      "time": "2026-09-09 04:21:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【WSJ: Iran reportedly attacks U.S. naval vessels again; U.S. officials warn of missile upgrades】The Wall Street Journal, citing U.S. officials, reported Iran on Monday again struck U.S. naval vessels—the second maritime action against U.S. forces in three days—though the U.S. military has not acknowledged the incident. U.S. officials say recent strikes suggest Iran may be deploying more capable missiles; Tehran claims it used newly fielded missiles with advanced guidance. Analysts cited by the report say some Iranian missiles carry electro‑optical seekers for image-based tracking of moving targets. The U.S. previously struck three Iranian oil tankers over attacks on U.S. ships; U.S. policymakers are pursuing blockade and sanctions to compel Tehran, but officials say Iran continues to strengthen its threat to U.S. warships."
-    },
-    {
-      "id": "mkt:01a082ad-86c6-7118-84f4-67a659f85c78",
-      "time": "2026-09-09 04:20:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【EU says Israeli expansion of West Bank settlements undermines two-state prospects】EU foreign-policy chief Kallas said all EU member states agree Israeli settlements in the West Bank violate international law and that Israel’s expansion of settlements is undermining prospects for a two-state solution. Twelve countries, including the UK, France and Canada, issued a joint statement committing to restrictions on trade in goods originating from Israeli settlements."
-    },
-    {
-      "id": "5083663",
-      "time": "2026-09-09 04:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局（NASA）徵集方案，以加速月面技術研發。"
-    },
-    {
-      "id": "te:markets:582146",
-      "time": "2026-09-09 04:19:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Extends Gains on Supply Disruption Fears — Brent crude settled around $98 and kept climbing after reports claimed explosions had been heard in an area of Kharg. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
-    },
-    {
-      "id": "te:markets:582145",
-      "time": "2026-09-09 04:17:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Hits Six-Week High — Crude oil climbed back to $94 a barrel on Tuesday, the highest in six weeks, amid growing concerns over potential supply disruptions. The US military has struck targets near Kharg Island and the port city of Jask. The targets included Iranian oil tankers. Iran’s key oil export hub, the island is the loading point for around 90% of the country’s crude shipments. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish pressures, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
-    },
-    {
-      "id": "5083662",
-      "time": "2026-09-09 04:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟稱以色列擴張約旦河西岸定居點破壞“兩國方案”前景】歐盟外交與安全政策高階代表卡拉斯8日在社交媒體發文稱，所有歐盟成員國一致認為，約旦河西岸的以色列定居點違反國際法。以色列政府在約旦河西岸的定居點擴張正在破壞“兩國方案”的前景。卡拉斯重申，歐盟仍堅定致力於支援基於“兩國方案”的全面、公正和持久和平。英國、法國、加拿大等12國當天發表聯合宣告，就限制與以色列定居點的商品貿易作出相關承諾。（央視新聞）"
-    },
-    {
-      "id": "5083661",
-      "time": "2026-09-09 04:13:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Snap 首席商務官莫漢（Mohan）將於年底離職。 任命羅南・哈里斯（Ronan Harris）擔任首席商務官。"
-    },
-    {
-      "id": "te:markets:582142",
-      "time": "2026-09-09 04:10:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Stocks Fall Amid Rising Energy Prices — US stock indices closed lower on Tuesday as higher energy prices dented the outlook for corporate margins and increased the risk of higher interest rates. Traders are also awaiting key inflation data due later this week. The S&P 500 fell 0.6%, the Nasdaq lost 0.3%, and the Dow shed 628 points. New strikes between the US and Iran raised concerns over prolonged disruptions to fuel exports from the Persian Gulf, while Houthi attacks damaged Saudi energy infrastructure and reduced its capacity. Borrowing costs for US companies also rose amid hawkish signals from the Bank of Japan and likely Japanese sales of US Treasuries to support the yen. Credit-sensitive software stocks declined, with Microsoft losing 1.1%, Palantir down 2.3%, and Amazon shedding 0.6% ahead of its sterling bond offering. AI companies have increasingly borrowed in foreign currencies as dollar bond markets face a surge in AI-related debt supply. Meanwhile, Oracle gained 2.4% ahead of earnings this week."
-    },
-    {
-      "id": "5083660",
-      "time": "2026-09-09 04:10:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "StoneX：上調美國 2026 年大豆產量預估至 45.47 億蒲式耳（此前為 44.70 億蒲式耳），單產維持在每英畝 53.0 蒲式耳。上調美國 2026 年玉米產量預估至 162.07 億蒲式耳（此前為 161.60 億蒲式耳），將單產下調至每英畝 182.9 蒲式耳（此前為 184.8 蒲式耳）。"
-    },
-    {
-      "id": "5083659",
-      "time": "2026-09-09 04:09:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦歡迎12國擬限制與以色列定居點商品貿易】巴勒斯坦總統府8日表示，歡迎法國、英國、加拿大等12國外長有關擬限制與約旦河西岸以色列定居點商品貿易的聯合宣告。據巴勒斯坦通訊社報道，巴勒斯坦總統府發表宣告說，此舉是追究定居點活動責任的重要步驟，體現了對在歐洲層面採取類似措施的支援。（央視新聞）"
-    },
-    {
-      "id": "5083658",
-      "time": "2026-09-09 04:09:04",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "市場訊息：花旗集團最快將於今年，為日本企業提供跨境匯款服務，該服務採用基於區塊鏈的代幣化存款。"
-    },
-    {
-      "id": "mkt:01a082a1-ebfa-7118-84f4-5d5daf7b0538",
-      "time": "2026-09-09 04:07:24",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said capital allocation may focus on increased dividends and share buybacks."
     }
   ]
 }
