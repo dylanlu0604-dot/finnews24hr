@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-16 00:52:54",
+  "updated": "2026-09-16 00:56:47",
   "count": 13464,
   "items": [
+    {
+      "id": "mkt:01a0a5fe-98e8-7118-85a0-a9632e4fd3fc",
+      "time": "2026-09-16 00:55:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio reiterated to Oman the U.S. commitment to freedom of navigation in the Strait of Hormuz."
+    },
     {
       "id": "5095840",
       "time": "2026-09-16 00:52:04",
@@ -124161,15 +124169,6 @@
         "Important"
       ],
       "text": "Saudi outlet Alhadath reports Iran and the U.S. are exchanging views via intermediaries on negotiation terms and conditions. Iran has presented new conditions to the U.S. for resuming talks and says there is no need to withdraw from the memorandum of understanding with the U.S."
-    },
-    {
-      "id": "5083542",
-      "time": "2026-09-09 00:53:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：伊朗向美方提出新條件，以此作為重啟談判的前提。"
     }
   ]
 }

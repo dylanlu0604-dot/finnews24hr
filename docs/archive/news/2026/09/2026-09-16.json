@@ -1,7 +1,15 @@
 {
   "date": "2026-09-16",
-  "count": 65,
+  "count": 66,
   "items": [
+    {
+      "id": "mkt:01a0a5fe-98e8-7118-85a0-a9632e4fd3fc",
+      "time": "2026-09-16 00:55:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio reiterated to Oman the U.S. commitment to freedom of navigation in the Strait of Hormuz."
+    },
     {
       "id": "5095840",
       "time": "2026-09-16 00:52:04",
