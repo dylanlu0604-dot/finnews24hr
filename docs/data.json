@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16 00:29:41",
-  "count": 13453,
+  "updated": "2026-09-16 00:33:35",
+  "count": 13454,
   "items": [
+    {
+      "id": "5095828",
+      "time": "2026-09-16 00:30:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國、以色列與阿拉伯國家軍方高官就伊朗問題舉行秘密會議】兩名以色列官員透露，來自美國、以色列以及多個阿拉伯國家的高階軍事指揮官上週於德國會晤，討論對伊朗的戰事以及該地區更廣泛的緊張局勢。這場閉門會晤由美國中央司令部司令布拉德・庫珀上將牽頭組織，除庫珀之外，出席會議的還有以色列、沙烏地阿拉伯、阿聯酋、巴林、科威特、卡達、約旦以及埃及的軍隊總參謀長。庫珀向與會各方作出保證：即便伊朗持續襲擊美軍基地，美軍也不會撤出該地區。他還向同僚通報了美國針對霍爾木茲海峽制定的相關行動計劃。一名以色列官員表示，以色列國防軍總參謀長向其他參會方介紹了以軍在多條戰線上開展的軍事行動。美國中央司令部證實了此次會議，並在一份宣告中表示：“我們在德國舉辦一場既定會議，接待了八個國家的高階軍事領導人。各方探討了加強中東安全合作的可行途徑。” 知情訊息人士稱，在美國中央司令部的斡旋之下，以色列與沙特正在磋商：以色列該如何為沙特打擊胡塞武裝的軍事行動提供支援，並參照援助阿聯酋的模式，向沙特輸出情報監視偵察支援。"
+    },
+    {
+      "id": "mkt:01a0a5e7-836f-7118-85a0-5fa62becda88",
+      "time": "2026-09-16 00:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Finance Ministry told the Polish Press Agency the government budget deficit is expected to be about 151 billion zloty as of end‑August 2026."
+    },
+    {
+      "id": "mkt:01a0a5e6-ef00-7118-85a0-512a7ed20528",
+      "time": "2026-09-16 00:29:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【US, Israeli and Gulf military chiefs hold secret meeting in Germany to coordinate response to Iran】Senior military leaders from the US, Israel and Gulf states held a secret meeting in Germany last week organized by CENTCOM commander Brad Cooper, the first such high-level gathering in more than six months since US and Israeli operations against Iran. Participants included military chiefs from Israel, Saudi Arabia, the UAE, Bahrain, Kuwait, Qatar, Jordan and Egypt. Cooper told attendees US forces will not withdraw from the Middle East in response to Iranian attacks on US bases and outlined plans to expand vessel transits through the Strait of Hormuz. Israeli chief of staff Eyal Zamir briefed delegates on Israeli operations across multiple fronts. Sources said Israel and Saudi Arabia, with US assistance, are discussing Saudi military options supported by Israeli intelligence, surveillance and reconnaissance as Houthi attacks on Saudi targets intensify and the group extends its influence around the Red Sea and Bab al-Mandeb."
+    },
     {
       "id": "mkt:01a0a5e5-2d70-7118-85a0-4e34bbd09cbe",
       "time": "2026-09-16 00:27:34",
@@ -124051,26 +124079,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Close Muted for 4th Session — European stocks closed with small movements for a fourth session as the outlook of higher interest rates by the European Central Bank dented the market's demand for more risk. The Euro STOXX 50 inched higher by 0.1% to 6,413 and the STOXX 600 closed flat at 649.6. Traders added positions that correspond to multiple rate hikes by the ECB this year as natural gas prices benchmark rose to their highest since the Russian invasion of Ukraine, lifting inflation risks and sovereign yields. The central bank is largely expected to deliver a rate hike this week. Industrial stocks closed higher after underperforming in recent sessions, with Rheinmetall, Airbus, and Schneider adding over 2%. On the other hand, insurers remained under pressure with Munich Re and AXA down 2% and 1%, respectively. Luxury brands also dropped after Chinese trade data, with Ferrari and Hermes slipping 2%."
-    },
-    {
-      "id": "mkt:01a081dd-96b0-7118-84f1-80388e60124d",
-      "time": "2026-09-09 00:32:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Truck Drivers Union says Amazon (AMZN.O) delivery drivers are seeking union recognition at the DRI1 facility."
-    },
-    {
-      "id": "mkt:01a081db-71f5-7118-84f1-7e9c8c833aaa",
-      "time": "2026-09-09 00:30:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the mission must be completed to overthrow the Iranian regime."
     }
   ]
 }
