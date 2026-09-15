@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-15 09:40:44",
-  "count": 13619,
+  "updated": "2026-09-15 09:44:26",
+  "count": 13610,
   "items": [
+    {
+      "id": "mkt:01a0a2bb-b91d-7118-8583-09467fe463ab",
+      "time": "2026-09-15 09:43:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi civil defense issued an emergency alert for the Yanbu area."
+    },
+    {
+      "id": "5094150",
+      "time": "2026-09-15 09:42:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%，至5,660.75點。"
+    },
+    {
+      "id": "te:markets:583650",
+      "time": "2026-09-15 09:41:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Extends Gains to Fifth Session — The dollar index rose above 99.5 on Tuesday, advancing for a fifth consecutive session ahead of an expected interest rate hike by the Federal Reserve this week. Traders are pricing in roughly a 92% chance that the Fed will deliver a 25-basis-point rate hike on Wednesday, which would be its first increase in borrowing costs since 2023. Policymakers are also set to release updated economic projections, with traders closely watching for signals on the future path of interest rates. Elsewhere, the Bank of England is widely expected to keep policy unchanged on Thursday, while the Bank of Japan is anticipated to raise rates on Friday. Meanwhile, higher oil prices have added to inflationary pressures, clouding the inflation outlook and reinforcing expectations for further Fed tightening. Warnings from CEOs of major technology companies about the potential risks associated with AI also pressured equities, boosting demand for the dollar."
+    },
+    {
+      "id": "mkt:01a0a2b9-a701-7118-8583-04b6b10f3c9c",
+      "time": "2026-09-15 09:41:10",
+      "tags": [
+        "MKT News",
+        "00625.HK"
+      ],
+      "text": "Hong Kong-listed Xiyin-W (00625.HK) is trading higher after choppy moves, currently up over 5%."
+    },
+    {
+      "id": "mkt:01a0a2b9-70bb-7118-8582-fa3e2539be1f",
+      "time": "2026-09-15 09:40:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Boao Forum 2027 annual conference tentatively scheduled for March 24-27, 2027】Boao Forum's 2027 annual conference is tentatively scheduled for March 24-27, 2027 in Boao, Hainan, China, Mu Hong, vice chair of the 14th CPPCC and the forum's China chief representative, announced on Sept. 15 at an Asia-Pacific cooperation roundtable in Haikou."
+    },
+    {
+      "id": "mkt:01a0a2b9-3e4f-7118-8582-f736800b5f8c",
+      "time": "2026-09-15 09:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese A-share grain sector continued lower; Xin Nong Development hit the daily limit down, Guotou Fengle fell over 9%, Dunhuang Seed dropped over 8%, Yasheng Group and Jinjian Rice Industry declined more than 4%."
+    },
     {
       "id": "mkt:01a0a2b8-9450-7118-8582-ecc5c23e9207",
       "time": "2026-09-15 09:40:00",
@@ -125194,147 +125250,6 @@
         "公司"
       ],
       "text": "【寧波華翔：目前整機代工和關節模組業務訂單充足 下半年會逐漸放量】就“關注到公司僅在今年上半年就為智元遠征系列生產了1800臺整機，生產了超過10萬臺關節模組，請問公司預計下半年的產能會較上半年提升多少”的問題，寧波華翔(002048)9月8日在互動平臺回覆稱，目前整機代工和關節模組業務訂單充足，在下半年會逐漸放量。"
-    },
-    {
-      "id": "te:economy:581785",
-      "time": "2026-09-08 09:44:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Building Approvals Confirm 3.6% Drop in July — Australia’s seasonally adjusted dwelling approvals fell 3.6% month-over-month to 17,687 units in July 2026, reversing a 6.9% increase in June, final estimates showed. The decline was driven by a 4.2% drop in approvals for private sector houses to 10,199 units, while approvals for private sector dwellings excluding houses edged down 0.4% to 7,119 units. Compared with a year earlier, total dwelling approvals increased 9.0%, with approvals for private sector houses rising 6.0% and those excluding houses climbing 19.9%. In trend terms, total dwelling approvals rose 0.8% to 18,365 units. Across the states, total dwelling approvals declined in Queensland (-13.9%), New South Wales (-8.1%), and Western Australia (-0.3%), while increasing in Tasmania (15.2%), Victoria (9.7%), and South Australia (5.9%). The value of total residential building fell 4.9% to AUD 11.26 billion, while the value of total non-residential building increased 14.4% to AUD 9.93 billion."
-    },
-    {
-      "id": "5081801",
-      "time": "2026-09-08 09:44:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地州長稱，無人機襲擊損毀了俄羅斯薩拉托夫州的民用基礎設施，造成部分人員受傷。"
-    },
-    {
-      "id": "mkt:01a07eaf-f888-7118-84d7-85f8d698fbd6",
-      "time": "2026-09-08 09:44:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi"
-      ],
-      "text": "Xiaomi opened pre-sales for the Xiaomi 18 Fold; official on-sale date is Sept. 10. The device debuts with the Xuanjie O3 processor."
-    },
-    {
-      "id": "5081800",
-      "time": "2026-09-08 09:44:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1％，成分股中，摩爾執行緒跌5.65％，拓荊科技跌4.59％，沐曦股份跌3.09％，中微公司跌2.96％。"
-    },
-    {
-      "id": "mkt:01a07eaf-11e3-7118-84d7-7ab780272474",
-      "time": "2026-09-08 09:43:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "Market Themes",
-        "China EV Leaders",
-        "00992.HK",
-        "Impact bearish",
-        "01810.HK",
-        "02015.HK"
-      ],
-      "text": "Hang Seng TECH Index fell more than 1% in early trade; HSI down 0.68%. Lenovo Group (00992.HK) dropped over 4.5%, Xiaomi Group (01810.HK) down about 3%, Li Auto (02015.HK) and Leapmotor (09863.HK) each off more than 2%."
-    },
-    {
-      "id": "mkt:01a07eae-641a-7118-84d7-73c970684280",
-      "time": "2026-09-08 09:42:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AP: Flights to and from Indonesia's capital Jakarta have resumed after a volcanic eruption closed the airport for two days and grounded nearly 3,000 flights."
-    },
-    {
-      "id": "5081799",
-      "time": "2026-09-08 09:42:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國富人壽擬增資5.4億元】近日，國富人壽釋出的公告顯示，公司擬增資4.5億股，每股單價1.20元，合計增資5.4億元。公告顯示，此次參與國富人壽增資的均為其現有股東，其中，廣州唯品會資訊科技有限公司認購5000萬股；廣西投資集團金融控股有限公司認購4億股。此次變更註冊資本事項尚待國家金融監督管理總局廣西監管局批准後生效。"
-    },
-    {
-      "id": "5081798",
-      "time": "2026-09-08 09:42:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4482.040點；恒生指數現跌0.669%。"
-    },
-    {
-      "id": "5081797",
-      "time": "2026-09-08 09:42:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6G概念震盪走強 武漢凡谷漲停】6G概念震盪走強，武漢凡谷漲停，廣哈通訊漲超17%，盛路通訊、通宇通訊、三維通訊跟漲。"
-    },
-    {
-      "id": "5081796",
-      "time": "2026-09-08 09:41:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "HMM贏得淡水河谷的4.7萬億韓元長期運輸合同。"
-    },
-    {
-      "id": "mkt:01a07ead-9fb1-7118-84d7-6946ac06ebd2",
-      "time": "2026-09-08 09:41:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan's finance minister KATAYAMA said she will continue to work to maintain orderly functioning of the FX market."
-    },
-    {
-      "id": "5081795",
-      "time": "2026-09-08 09:41:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "5081794",
-      "time": "2026-09-08 09:41:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州交通建設集團有限公司原黨委書記、董事長汪金育被查】據貴州省紀委監委訊息：貴州交通建設集團有限公司原黨委書記、董事長汪金育涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5081793",
-      "time": "2026-09-08 09:41:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿根廷對原產於中國的發動機用冷卻液泵或水泵啟動反傾銷日落合併情勢變遷複審調查】9月4日，阿根廷經濟部發布2026年第1459號公告，應阿根廷生產商VMGSA申請，對原產於中國的發動機用冷卻液泵或水泵啟動反傾銷第三次日落複審調查，同時啟動情勢變遷複審調查。本案傾銷調查期為2025年6月至2026年5月，損害調查期為2023年1月至2026年5月。涉案產品流量在2立方米/小時至18立方米/小時之間、重量在0.5千克/件至18千克/件之間，用於汽車、卡車、貨車、多功能車、農業裝置、拖拉機、船隻、發電機組、移動裝置和其他固定火花點火或壓縮發動機，不包括鐵路、航空用以及下列品牌的發動機用冷卻液泵：起亞、三菱、卡特彼勒、躍進、克萊斯勒、康明斯、道依茨和鈴木。涉案產品的南共市稅號為8413.30.90。案件調查期間，暫停對涉案產品徵收反傾銷稅。公告自發布之日起生效。"
-    },
-    {
-      "id": "5081792",
-      "time": "2026-09-08 09:40:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：正與美國就外匯市場保持密切溝通。"
     }
   ]
 }

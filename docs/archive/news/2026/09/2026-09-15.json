@@ -1,7 +1,63 @@
 {
   "date": "2026-09-15",
-  "count": 680,
+  "count": 686,
   "items": [
+    {
+      "id": "mkt:01a0a2bb-b91d-7118-8583-09467fe463ab",
+      "time": "2026-09-15 09:43:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi civil defense issued an emergency alert for the Yanbu area."
+    },
+    {
+      "id": "5094150",
+      "time": "2026-09-15 09:42:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%，至5,660.75點。"
+    },
+    {
+      "id": "te:markets:583650",
+      "time": "2026-09-15 09:41:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Extends Gains to Fifth Session — The dollar index rose above 99.5 on Tuesday, advancing for a fifth consecutive session ahead of an expected interest rate hike by the Federal Reserve this week. Traders are pricing in roughly a 92% chance that the Fed will deliver a 25-basis-point rate hike on Wednesday, which would be its first increase in borrowing costs since 2023. Policymakers are also set to release updated economic projections, with traders closely watching for signals on the future path of interest rates. Elsewhere, the Bank of England is widely expected to keep policy unchanged on Thursday, while the Bank of Japan is anticipated to raise rates on Friday. Meanwhile, higher oil prices have added to inflationary pressures, clouding the inflation outlook and reinforcing expectations for further Fed tightening. Warnings from CEOs of major technology companies about the potential risks associated with AI also pressured equities, boosting demand for the dollar."
+    },
+    {
+      "id": "mkt:01a0a2b9-a701-7118-8583-04b6b10f3c9c",
+      "time": "2026-09-15 09:41:10",
+      "tags": [
+        "MKT News",
+        "00625.HK"
+      ],
+      "text": "Hong Kong-listed Xiyin-W (00625.HK) is trading higher after choppy moves, currently up over 5%."
+    },
+    {
+      "id": "mkt:01a0a2b9-70bb-7118-8582-fa3e2539be1f",
+      "time": "2026-09-15 09:40:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Boao Forum 2027 annual conference tentatively scheduled for March 24-27, 2027】Boao Forum's 2027 annual conference is tentatively scheduled for March 24-27, 2027 in Boao, Hainan, China, Mu Hong, vice chair of the 14th CPPCC and the forum's China chief representative, announced on Sept. 15 at an Asia-Pacific cooperation roundtable in Haikou."
+    },
+    {
+      "id": "mkt:01a0a2b9-3e4f-7118-8582-f736800b5f8c",
+      "time": "2026-09-15 09:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese A-share grain sector continued lower; Xin Nong Development hit the daily limit down, Guotou Fengle fell over 9%, Dunhuang Seed dropped over 8%, Yasheng Group and Jinjian Rice Industry declined more than 4%."
+    },
     {
       "id": "mkt:01a0a2b8-9450-7118-8582-ecc5c23e9207",
       "time": "2026-09-15 09:40:00",
