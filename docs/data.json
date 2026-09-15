@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-15 10:10:31",
-  "count": 13684,
+  "updated": "2026-09-15 10:14:16",
+  "count": 13692,
   "items": [
+    {
+      "id": "mkt:01a0a2d7-90b7-7118-8584-d318d8375ad7",
+      "time": "2026-09-15 10:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 turned positive, rising to 64,000 points, up 0.80% on the day."
+    },
+    {
+      "id": "mkt:01a0a2d7-478b-7118-8584-c86c1c6cae37",
+      "time": "2026-09-15 10:13:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share wind-turbine equipment sector rose after intraday volatility; Jixin Technology hit the daily limit, while Dajin Heavy Industry, Tianshun Wind Energy, Tianneng Heavy Industry, Xinqianglian and Zhenhong also gained."
+    },
+    {
+      "id": "5094206",
+      "time": "2026-09-15 10:12:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電裝置板塊短線拉昇，吉鑫科技漲停】風電裝置板塊短線拉昇，吉鑫科技漲停，大金重工、天順風能、天能重工、新強聯、振宏股份等紛紛走高。"
+    },
+    {
+      "id": "5094205",
+      "time": "2026-09-15 10:12:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光通訊概念拉昇 通鼎互聯漲停】光通訊概念拉昇，通鼎互聯漲停，浙江眾成漲逾7%，信德新材、正帆科技、興森科技等漲幅居前。"
+    },
+    {
+      "id": "5094204",
+      "time": "2026-09-15 10:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門對海南啟動國家自然災害救助四級應急響應】9月15日，國家防減救災委、應急管理部針對近期強降雨對海南造成的嚴重災害影響，啟動國家自然災害救助四級應急響應，派出工作組緊急趕赴災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等災害救助工作。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a2d5-8d89-7118-8584-c3f86f405189",
+      "time": "2026-09-15 10:11:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi civil defense said the threat to Yanbu, Jeddah, Ta'if, Jizan, Abha and Al-Ula has been lifted."
+    },
+    {
+      "id": "mkt:01a0a2d4-eeff-7118-8584-bfc0603c320b",
+      "time": "2026-09-15 10:10:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Copper steadies near four-week low; futures premium signals ample supply】Copper steadied near $14,000/ton after exchange-tracked warehouses received fresh deliveries, easing earlier supply tightness. LME futures were little changed on Tuesday after posting their lowest close in four weeks. Copper fell sharply from a weekend record high that followed traders diverting refined metal to the US ahead of expected tariffs that have not been implemented; Monday saw the largest LME warehouse copper delivery in nearly four weeks. Three-month LME copper is trading $85.75/ton over spot, a futures premium consistent with ample supply."
+    },
+    {
+      "id": "5094203",
+      "time": "2026-09-15 10:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，延布、吉達、塔伊夫、吉贊、艾卜哈和烏萊拉的險情已解除。"
+    },
     {
       "id": "mkt:01a0a2d3-5475-7118-8584-b309c08e30cc",
       "time": "2026-09-15 10:09:13",
@@ -41,6 +120,15 @@
         "Importance 1"
       ],
       "text": "China Industrial Output Growth Beats Estimates — China’s industrial production grew 5.2% year-on-year in August 2026, accelerating from a 4.5% rise in July and surpassing expectations of 4.8%. The acceleration came amid faster growth in manufacturing (6.1% vs 5.5% in July), while electricity, heat, gas, and water output continued to rise (4.9% vs 5.9%). By contrast, mining output fell 1.4% (vs 4.2% in July). In the first eight months of 2026, industrial output rose 5.3%. Month-on-month, industrial output climbed 0.54%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874438793",
+      "time": "2026-09-15 10:08:04",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：8月份鋰離子電池、工業機器人、3D列印裝置產品產量同比分別增長57.2%、34.6%、29.9%】國家統計局資料顯示，8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。分三大門類看，採礦業增加值同比下降1.4%，製造業增長6.1%，電力、熱力、燃氣及水生產和供應業增長4.9%。"
     },
     {
       "id": "mkt:01a0a2d1-352d-7118-8584-af67b3a28b4b",
@@ -126022,14 +126110,6 @@
         "國際"
       ],
       "text": "【韓國第二季度名義GDP創47年來最快增速】韓國央行週二資料顯示，受強勁出口以及與人工智慧相關的投資推動，韓國第二季度名義國內生產總值創下47年來最快增速。根據韓國銀行的初步資料，該國實際國內生產總值（衡量經濟增長的關鍵指標）在4月至6月期間較三個月前增長0.6%。這一季度環比資料與韓國銀行上月釋出的先前預估值一致，但該行將建築投資和智慧財產權投資增速分別上調了0.1個百分點，同時將政府消費增速下調了0.1個百分點。作為亞洲第四大經濟體，韓國去年第四季度經濟萎縮0.1%，但第一季度反彈增長1.8%。同比來看，第二季度經濟擴張3.7%，延續了第一季度同比增長3.8%的增長勢頭。在半導體、機械和裝置全球需求強勁的支撐下，出口較上一季度增長1.3%。該增速較第一季度5.9%的增幅有所放緩。按名義價值計算，該國第二季度GDP較三個月前增長9.2%，較上年同期增長26.4%，創下自1979年第三季度（當時經濟同比增長27.7%）以來的最大增幅。央行資料還顯示，該國人均國民總收入名義值較上季度增長8.8%，較上年同期增長26.4%。實際國民總收入較上季度增長3.1%，較上年同期增長15.6%，創下自1988年第四季度（當時實際GNI同比增長15.7%）以來的最大增幅。"
-    },
-    {
-      "id": "5081853",
-      "time": "2026-09-08 10:10:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【景旺電子成立技術公司，含積體電路設計業務】企查查APP顯示，近日，珠海景泓電子技術有限公司成立，法定代表人為孫玉凱，註冊資本為1000萬元，經營範圍包含：積體電路設計；電子元器件製造；電子專用材料製造。企查查股權穿透顯示，該公司由景旺電子間接全資持股。"
     }
   ]
 }
