@@ -1,7 +1,164 @@
 {
   "date": "2026-09-15",
-  "count": 1134,
+  "count": 1153,
   "items": [
+    {
+      "id": "5094462",
+      "time": "2026-09-15 14:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山：人們將支援政府精簡冗員的舉措。"
+    },
+    {
+      "id": "5094461",
+      "time": "2026-09-15 14:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：今後將大幅削減浪費性支出。"
+    },
+    {
+      "id": "mkt:01a0a3ad-1123-7118-858a-c5d6b91b69d3",
+      "time": "2026-09-15 14:07:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Ukraine's Odesa regional governor said port infrastructure in the region was attacked by Russia overnight."
+    },
+    {
+      "id": "5094460",
+      "time": "2026-09-15 14:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭敖德薩州州長表示，該州港口基礎設施夜間遭俄軍襲擊。"
+    },
+    {
+      "id": "5094459",
+      "time": "2026-09-15 14:06:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "5094458",
+      "time": "2026-09-15 14:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百威上海啤酒銷售公司增資至10.3億美元】天眼查App顯示，近日，百威（上海）啤酒銷售有限公司發生工商變更，註冊資本由約6.4億美元增至約10.3億美元。百威（上海）啤酒銷售有限公司成立於2014年12月，法定代表人為張牧，經營範圍包括食品銷售、採購代理服務、日用品銷售等，由百威（中國）銷售有限公司、百威投資（中國）有限公司共同持股。"
+    },
+    {
+      "id": "mkt:01a0a3ac-1584-7118-858a-bc7c7f20bf5e",
+      "time": "2026-09-15 14:05:58",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank Negara Malaysia signed a cooperation agreement with Japan's Ministry of Finance to promote trade and investment settlement in local currencies."
+    },
+    {
+      "id": "mkt:01a0a3ab-6634-7118-858a-b2520a8b4edf",
+      "time": "2026-09-15 14:05:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% in afternoon trade."
+    },
+    {
+      "id": "mkt:01a0a3ab-5bd9-7118-858a-acebfb9679f7",
+      "time": "2026-09-15 14:05:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Ukraine intercept-drone tests fail, highlighting winter air-defence shortfall】Ukraine's early-July trials of intercept drones involving multiple manufacturers failed to go as planned, two people familiar with the exercise said. Many intercept drones were difficult to control at speeds sometimes above 400 km/h and several crashed into nearby fields and woods. The exercise underscores Ukraine's winter challenge: insufficient Western air-defence systems to counter Russian ballistic missiles and no clear solution for Moscow's faster, more powerful drones. Ukrainian military data seen by Reuters showed Russia's use of jet-powered attack drones rose roughly sixfold over the three months this summer."
+    },
+    {
+      "id": "5094457",
+      "time": "2026-09-15 14:05:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:01a0a3ab-2a74-7118-858a-a433bed6a8ce",
+      "time": "2026-09-15 14:04:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Morgan Stanley expects the Fed to raise rates by 25bp in September and 25bp in December, reversing an earlier forecast of no policy moves this year."
+    },
+    {
+      "id": "5094456",
+      "time": "2026-09-15 14:04:51",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "摩根士丹利：預計美聯儲將在九月和十二月各加息25個基點，此前的預測為今年不會政策變動。"
+    },
+    {
+      "id": "5094455",
+      "time": "2026-09-15 14:04:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：已與日本財務省簽署本幣貿易和投資結算合作協議。"
+    },
+    {
+      "id": "5094454",
+      "time": "2026-09-15 14:04:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a0a3aa-08a9-7118-858a-9d3135e43884",
+      "time": "2026-09-15 14:03:44",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD fell 0.16% to 1.3475."
+    },
+    {
+      "id": "5094453",
+      "time": "2026-09-15 14:03:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1%，至6,012.10點。"
+    },
     {
       "id": "5094452",
       "time": "2026-09-15 14:02:33",
@@ -25,6 +182,15 @@
       "text": "Euro Stoxx 50 futures up 0.02%, Germany's DAX futures up 0.10%, France's CAC 40 futures down 0.05% and UK FTSE futures down 0.15%."
     },
     {
+      "id": "em:jjsj_ygsj:202609153874585769",
+      "time": "2026-09-15 14:01:56",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國8月失業率4.4%，前值4.3%。"
+    },
+    {
       "id": "5094451",
       "time": "2026-09-15 14:01:21",
       "tags": [
@@ -32,6 +198,15 @@
         "國際"
       ],
       "text": "歐洲斯托克50期貨上漲0.02%，德國DAX期貨上漲0.1%，法國CAC 40期貨下跌0.05%，富時期貨下跌0.15%。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202609153874585445",
+      "time": "2026-09-15 14:01:19",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國5-7月不含獎金薪資同比增長3.5%，預期增長3.5%。"
     },
     {
       "id": "mkt:01a0a3a7-b5f8-7118-858a-8e9dd1e57b89",
@@ -81,6 +256,15 @@
         "FTSE100"
       ],
       "text": "UK three-month average earnings including bonuses, YoY, July 3.9% (expected 3.9%); previous reading revised to 4.2% from 4.1%."
+    },
+    {
+      "id": "em:jjsj_ygsj:202609153874585983",
+      "time": "2026-09-15 14:00:32",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國8月失業金申請人數為2.78萬人，前值由-1.1萬人修正為-1.18萬人。"
     },
     {
       "id": "mkt:01a0a3a7-07be-7118-858a-6d8474ddd4c9",
