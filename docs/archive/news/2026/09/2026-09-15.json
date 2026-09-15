@@ -1,7 +1,122 @@
 {
   "date": "2026-09-15",
-  "count": 1273,
+  "count": 1287,
   "items": [
+    {
+      "id": "te:markets:583748",
+      "time": "2026-09-15 14:42:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes at Near 10-Week Low — The ASX 200 lost 77 points, or 0.9%, to finish at 8,673 on Tuesday, extending last week’s slide and hitting its lowest since early July. Sentiment soured as U.S. stock futures dipped and the 10-year Treasury yield surged to a 2007 high around 5% ahead of the Fed’s policy meeting, with markets leaning toward a 25bp hike. August data from main trading partner China showed mixed signals, with retail sales slowing and unemployment ticking up, though industrial output improved. Locally, traders priced in an 85% chance the Reserve Bank of Australia will lift rates later this month, with Governor Bullock set to testify that further tightening may be needed to tame inflation. Losses were broad, led by healthcare, non-energy minerals, and financials, though consumer sectors offered some support. The big four banks slid 0.4%–1.6%, while Macquarie (-2.8%) and BHP Group (-2.4%) also lagged. Gold miners dropped as bullion fell, with Northern Star Resources down 2.4% and Evolution Mining off 3.4%."
+    },
+    {
+      "id": "mkt:01a0a3cc-7fac-7118-858b-ef2a032d4a47",
+      "time": "2026-09-15 14:41:23",
+      "tags": [
+        "MKT News",
+        "EDF.PA",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "EDF says French electricity supply down 5 GW due to labor protests."
+    },
+    {
+      "id": "mkt:01a0a3cc-13d9-7118-858b-e40f88687e33",
+      "time": "2026-09-15 14:40:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share civil explosives sector weakened; Huhua hit the daily down limit, and Yahua Group, Poly United, Jin Aobo, Kailong and Xinyu Guoke declined."
+    },
+    {
+      "id": "5094541",
+      "time": "2026-09-15 14:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華源證券：首予藥石科技“買入”評級，管線後移有望驅動收入放量】華源證券研報指出，藥石科技分子砌塊一體化CRDMO，管線後移有望驅動收入放量。公司業務源自新穎、獨特且具有前瞻性的分子砌塊，對藥物發現推進起到關鍵作用；憑藉分子砌塊領域的深厚積累與客戶信賴，不斷拓展化學研發服務，以及臨床前、臨床開發和商業化階段中間體、原料藥和製劑的工藝開發與生產，形成從分子砌塊到端到端CRDMO佈局。創新藥融資回暖，CXO需求有望修復，分子砌塊行業空間廣闊。分子砌塊卡位前端，管線後移有望驅動收入放量，前端導流效應顯現。各客戶型別中MNC收入佔比提升，產能擴張與新分子平臺有望助力毛利率修復。選取皓元醫藥/畢得醫藥/阿拉丁為可比公司，鑑於公司管線後移有望驅動收入放量，首次覆蓋，給予“買入”評級。"
+    },
+    {
+      "id": "5094540",
+      "time": "2026-09-15 14:40:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿根廷對華洗衣機作出反傾銷終裁】2026年9月14日，阿根廷經濟部發布2026年第1544號公告，對原產於中國的洗衣機作出反傾銷否定性終裁，決定不對涉案產品徵收反傾銷稅。涉案產品為單桶容量（以乾衣重量計）不超過13千克的洗衣機，但不包括帶有熱烘乾系統的洗衣機，以及帶投幣裝置或設計為可安裝投幣裝置的洗衣機，涉案產品的南共市稅號為8450.11.00、8450.12.00、8450.19.00和8450.20.20。公告自發布之日起生效。（中國貿易救濟資訊網）"
+    },
+    {
+      "id": "5094539",
+      "time": "2026-09-15 14:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【華盛頓空難發生距今已超19個月 美聯邦航空局回應被指“不可接受”】美國國家運輸安全委員會14日表示，2025年1月華盛頓附近發生重大空難後，該委員會提出了33項建議，而聯邦航空局對其中11項建議的回應“不可接受”。其中之一包括，美國聯邦航空局尚未同意強制安裝一項關鍵安全系統。國家運輸安全委員會主席霍門迪及部分遇難者家屬15日將再次敦促國會立法，從根源上解決這起空難暴露出的問題。（央視新聞）"
+    },
+    {
+      "id": "5094538",
+      "time": "2026-09-15 14:40:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【民爆板塊震盪走弱，壺化股份跌停】民爆板塊震盪走弱，壺化股份跌停，雅化集團、保利聯合、金奧博、凱龍股份、新餘國科、廣東宏大等跟跌。"
+    },
+    {
+      "id": "te:markets:583747",
+      "time": "2026-09-15 14:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Rise Further — UK natural gas prices climbed above 206 pence per therm on Tuesday, their highest level since late 2022, amid intensifying disruptions around the Strait of Hormuz and concerns over still-below-normal gas inventories. The strait remains closed to most commercial traffic amid ongoing military conflict and security threats, while diplomatic efforts to secure its reopening have stalled, raising fears that disruptions to shipments could persist. LNG tanker traffic through the Strait has fallen sharply, tightening global supplies and intensifying competition with Asia and other buyers for available cargoes. Meanwhile, ongoing maintenance at Norwegian gas facilities is also adding another layer of uncertainty to Europe’s winter supply balance. Europe’s gas storage levels stand at around 68% of capacity, still below the seasonal average at a time when inventories would typically be close to maximum capacity."
+    },
+    {
+      "id": "5094536",
+      "time": "2026-09-15 14:39:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：上海首次躋身全球資管中心前三】9月15日，中歐陸家嘴國際金融研究院釋出2026全球資產管理中心評價指數報告。報告顯示，上海以87.05分升至第三，較上年提高2.83分和2個位次，首次進入全球前三，併成為亞洲排名最高的資產管理中心。全球資管中心前兩名分別為紐約和倫敦。該指數顯示，全球資管中心的頭部競爭開始由歐美城市內部較量，轉向紐約領先、倫敦保持國際樞紐優勢、上海加快進入第一梯隊的新格局。"
+    },
+    {
+      "id": "5094535",
+      "time": "2026-09-15 14:39:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果客服：不建議iPhone 13以下機型升級iOS 27】蘋果於9月15日正式推送iOS 27，支援iPhone 11及後續機型，進一步提升日常操作速度。新系統上線當日，不少使用者在社交媒體平臺反映“新系統絲滑多了”，也有使用者表示出現了“掉幀”“卡頓”等bug。9月15日，記者以消費者身份致電蘋果官方客服，在詢問iPhone 11是否可以升級時，客服表示，不建議iPhone 11、12等老機型更新至iOS 27，iPhone 13及後續機型可以正常更新。客服稱，稍早前有使用者反饋，iPhone 11安裝了iOS 27之後多次嘗試無法重啟，手機出現黑屏的情況，相容性和穩定性不足。蘋果客服表示，iOS 27剛上線，各方面可能沒那麼穩定，建議使用者觀察一段時間後再決定是否更新。“如果更新完發現續航時間波動，或者固定軟體等使用卡頓，需要降級到 26.6.1，可以隨時來電申請降級。”（中新經緯）"
+    },
+    {
+      "id": "5094534",
+      "time": "2026-09-15 14:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月15日：“農產品批發價格200指數”比昨天下降0.11個點】據農業農村部監測，9月15日“農產品批發價格200指數”為117.14，比昨天下降0.11個點，“菜籃子”產品批發價格指數為117.92，比昨天下降0.15個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.40元/公斤，比昨天下降0.1%；牛肉71.37元/公斤，比昨天上升1.0%；羊肉66.92元/公斤，比昨天上升1.5%；雞蛋11.12元/公斤，比昨天上升0.5%；白條雞17.18元/公斤，比昨天下降1.0%。重點監測的28種蔬菜平均價格為4.70元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.63元/公斤，比昨天下降0.2%。鯽魚19.94元/公斤，比昨天下降0.7%；鯉魚14.01元/公斤，比昨天下降0.5%；白鰱魚10.06元/公斤，比昨天下降2.3%；大帶魚42.82元/公斤，比昨天上升2.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是萵筍、大黃花魚、大帶魚、西瓜和胡蘿蔔，幅度分別為4.1%、4.0%、2.8%、2.5%和2.2%；價格降幅前五名的是白鰱魚、菠蘿、白條雞、生薑和鯽魚，幅度分別為2.3%、2.2%、1.0%、0.8%和0.7%。"
+    },
+    {
+      "id": "5094533",
+      "time": "2026-09-15 14:38:16",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【西太平洋銀行：日本額外國防開支加劇美債收益率痛苦】西太平洋銀行稱，日本可能的額外國防開支將加劇債券市場的痛苦並對全球債券產生影響。該行金融市場策略主管Martin Whetton表示，“美聯儲加息以及油價持續走高將再次推高美國國債收益率，週一交易時段收益率逼近5%的現象應被視為常態而非例外。”"
+    },
     {
       "id": "5094532",
       "time": "2026-09-15 14:37:55",
@@ -97,6 +212,22 @@
         "MKT News"
       ],
       "text": "【Japan Self-Defense Force loses contact with Global Hawk drone】NHK reported on Sept 15 that a large Global Hawk unmanned reconnaissance aircraft operated by the Japan Air Self-Defense Force lost communications over waters off Tottori Prefecture. The Self-Defense Forces have dispatched aircraft and ships to search the area."
+    },
+    {
+      "id": "5094524",
+      "time": "2026-09-15 14:34:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國財長提名人：需要密切關注債券市場】韓國財長提名人李炯日在國會委員會的提名確認聽證會上稱，債券市場是國家經濟的重要融資渠道，需要密切關注。他表示，鑑於全球政府債券收益率持續攀升，當局需要加強對債券市場的監控。必要時將考慮採取措施穩定市場，以防過度波動。"
+    },
+    {
+      "id": "5094523",
+      "time": "2026-09-15 14:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘1至8月中央政府基本預算盈餘為65億歐元。"
     },
     {
       "id": "te:markets:583744",
