@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-16 00:10:13",
-  "count": 13462,
+  "updated": "2026-09-16 00:14:10",
+  "count": 13458,
   "items": [
+    {
+      "id": "5095819",
+      "time": "2026-09-16 00:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：汽油價格低於前總統拜登任期內的價格。"
+    },
+    {
+      "id": "mkt:01a0a5d7-769c-7118-859f-f7acf9f7e500",
+      "time": "2026-09-16 00:12:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel Defense Forces says it killed the commander of a Palestinian Islamic Jihad rocket unit."
+    },
+    {
+      "id": "te:markets:583955",
+      "time": "2026-09-16 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.14% Lower — The FTSE MIB Index dropped 74 points or 0.14 percent on Tuesday to close at 51555 points. Losses were led by UniCredit (-2.34%), Moncler (-1.69%) and Bper Banca (-1.66%). Offsetting the fall, top gainers were Tenaris (3.34%), Terna Rete Elettrica Nazionale (2.76%) and Saipem (1.76%)."
+    },
+    {
+      "id": "5095818",
+      "time": "2026-09-16 00:11:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【LVMH，曾經的歐洲市值第一股，跌出前十】LVMH集團失去了法國市值最高公司的桂冠，並跌出歐洲市值前十的上市公司行列。對於這家在後疫情時代繁榮期領跑歐洲市場的奢侈品巨頭而言，這是一次標誌性的逆轉。該股週二下跌2.6%，市值縮水至2010億歐元（2320億美元），滑落至歐萊雅之下。這一變動使LVMH自2017年以來首次跌出歐洲前十。當前，市值前三依次為阿斯麥控股、羅氏、滙豐。“那些聲稱歐洲已經捲土重來的人錯了，歐洲並沒有回來：LVMH告訴我們的是，它最主要的增長引擎——奢侈品——已經失靈，”荷蘭國際集團駐布魯塞爾的首席投資策略師Vincent Juvyns表示。"
+    },
+    {
+      "id": "te:markets:583954",
+      "time": "2026-09-16 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.15% Lower — The DAX Index decreased 39 points or 0.15 percent on Tuesday to close at 25402 points. The decline was led by Zalando (-3.63%), Deutsche Bank (-2.37%) and Daimler Truck Holding AG (-1.82%). On the upside, the strongest performers were Rheinmetall (3.55%), Qiagen NV (1.81%) and RWE (1.64%)."
+    },
+    {
+      "id": "te:markets:583953",
+      "time": "2026-09-16 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.34% Lower — The CAC 40 Index fell 28 points or 0.34 percent on Tuesday to close at 8090 points. Leading the losses are TP (-2.51%), Hermes International (-2.48%) and LVMH (-2.08%). Top gainers were Thales (3.91%), Eurofins Scientific SE (1.58%) and Unibail Rodamco (1.54%)."
+    },
+    {
+      "id": "mkt:01a0a5d5-0590-7118-859f-ea44ad4dcd02",
+      "time": "2026-09-16 00:09:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Bessent backs Trump $5,000-per-adult payout plan, says it can be done without widening deficit】Treasury Secretary Bessent told lawmakers Tuesday he supports President Trump’s proposal to send $5,000 checks to U.S. adults if Republicans retain control of both chambers. He downplayed cost concerns, saying he believes the payments can be arranged without increasing the fiscal deficit, but did not identify offsets. Bessent said the Treasury has been working on the proposal for some time and did not state whether congressional authorization would be required; if it is, he said he would work with House Speaker Johnson to advance it. Markets have growing concern over rising U.S. government debt. The plan, promised by Trump less than a week earlier, is estimated to cost more than $1 trillion."
+    },
     {
       "id": "mkt:01a0a5d3-bdf9-7118-859f-e236fa62db30",
       "time": "2026-09-16 00:08:32",
@@ -124027,108 +124107,6 @@
         "其他"
       ],
       "text": "高通稱低端智慧手機市場仍承壓。"
-    },
-    {
-      "id": "5083521",
-      "time": "2026-09-09 00:13:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "航班雷達：往返英國機場共有425架次航班取消，航司正在調整當日剩餘時段的飛行計劃。"
-    },
-    {
-      "id": "5083520",
-      "time": "2026-09-09 00:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部：撥款逾2.25億美元用於改善啟蒙計劃的營養、設施與服務。"
-    },
-    {
-      "id": "te:markets:582118",
-      "time": "2026-09-09 00:12:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB fell 0.1% to 52,178 on Tuesday, as investors focused on developments across sectors. Stellantis fell 3.2% as Canadian tariffs on US goods took effect, although the EU and Canada are reportedly working toward a broader relationship spanning trade and security, with plans to be announced next week. Poste Italiane (0.5%) upgraded its takeover offer for Telecom Italia (2.9%), while Inwit (3.1%) also advanced. Energy stocks outperformed, tracking higher oil prices, while Eni gained 1.2% after signing an agreement with Malaysia’s Petronas to develop bio-gasoline for motorsport racing. Defense stocks also advanced after Italy and Greece signed an agreement for two FREMM frigates, with Fincantieri (2.1%) to play a leading role. Leonardo’s (0.9%) joint venture also signed an agreement with Madrid. Avio rose 1.8%. Heavyweight financials remained mixed, while UniCredit (0.3%) obtained ECB authorization to apply lighter capital rules to its insurance holdings."
-    },
-    {
-      "id": "5083519",
-      "time": "2026-09-09 00:12:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星在本輪融資後取得Mistral AI股權。"
-    },
-    {
-      "id": "mkt:01a081ca-bc79-7118-84f1-284de5be0b4e",
-      "time": "2026-09-09 00:12:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI pledges US$5 mln to fund independent research into the effects of generative AI on adolescents."
-    },
-    {
-      "id": "te:markets:582117",
-      "time": "2026-09-09 00:12:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index dropped 52 points or 0.10 percent on Tuesday to close at 52177 points. Losses were led by STMicroelectronics (-3.57%), Stellantis N.V. (-3.12%) and Ferrari NV (-2.19%). Offsetting the fall, top gainers were Infrastrutture Wire (2.88%), Telecom Italia (2.66%) and Prysmian (2.61%)."
-    },
-    {
-      "id": "5083518",
-      "time": "2026-09-09 00:11:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星將在半導體業務中全面接入Mistral人工智慧。"
-    },
-    {
-      "id": "5083517",
-      "time": "2026-09-09 00:11:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星領投Mistral AI的D輪融資。"
-    },
-    {
-      "id": "te:markets:582116",
-      "time": "2026-09-09 00:11:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.00% Higher — The DAX Index went up by 1 points or 0.00 percent on Tuesday to close at 26008 points. The rise was led by Fresenius (3.21%), Rheinmetall (3.09%) and Volkswagen (2.54%). On the downside, the weakerst performers were Infineon (-4.10%), Hannover Rueck (-2.21%) and Munich RE (-2.20%)."
-    },
-    {
-      "id": "5083516",
-      "time": "2026-09-09 00:10:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍強拆抹去西岸一巴勒斯坦村莊】近期，以色列軍隊持續在約旦河西岸加大對巴勒斯坦人的打壓，強行拆除房屋，致使當地巴勒斯坦村莊遭到大規模損毀，人們流離失所。以軍日前的一場突襲強拆行動甚至將一座巴勒斯坦村莊徹底“抹去”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5083515",
-      "time": "2026-09-09 00:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：開展生成式人工智慧對青少年影響的獨立研究。"
     }
   ]
 }
