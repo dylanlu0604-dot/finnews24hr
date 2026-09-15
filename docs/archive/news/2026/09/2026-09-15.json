@@ -1,7 +1,69 @@
 {
   "date": "2026-09-15",
-  "count": 1849,
+  "count": 1856,
   "items": [
+    {
+      "id": "mkt:01a0a4eb-83cc-7118-8596-046d6bc12ea3",
+      "time": "2026-09-15 19:54:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi broadcaster Alhadath quoted Yemeni armed forces as saying they shelled Houthi military concentrations north and west of Marib, striking missile launch platforms, radar and communications equipment."
+    },
+    {
+      "id": "5095353",
+      "time": "2026-09-15 19:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奕東電子：擬1.16億元收購深圳冠鼎29%股權】奕東電子公告稱，公司與梁立壯、邱萬盛簽署股權轉讓協議，擬以1.00億元收購梁立壯所持深圳冠鼎25%股權，以1600萬元收購邱萬盛所持深圳冠鼎4%股權，合計交易對價1.16億元。本次收購完成後，公司將持有深圳冠鼎80%股權，合併報表範圍無變化。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "5095352",
+      "time": "2026-09-15 19:54:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅永浩：MKBHD 說中國是全球最大的摺疊屏手機市場，我查了一下，果然是這樣。目前為止，全世界賣出的每兩臺摺疊屏手機，就有一個是在中國市場上銷售的。要這麼看，蘋果還真是自信得離譜呢，在全球最大的單一折疊屏手機市場，同時也是eSIM使用者滲透率只有大概1.1%的市場，居然只提供一款必須用eSIM的摺疊機。"
+    },
+    {
+      "id": "5095351",
+      "time": "2026-09-15 19:53:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙政府批准130億歐元用於西班牙機場網路建設。"
+    },
+    {
+      "id": "mkt:01a0a4ea-2b89-7118-8595-fe3a08b3e48b",
+      "time": "2026-09-15 19:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chancellor Merz said he wants the coalition to succeed and that no other majority in this Bundestag could achieve that aim."
+    },
+    {
+      "id": "mkt:01a0a4e8-a3c0-7118-8595-f5b336bdbad0",
+      "time": "2026-09-15 19:51:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany's Chancellor MERZ said he plans to reach a further reform agreement with the Social Democrats after state elections."
+    },
+    {
+      "id": "5095348",
+      "time": "2026-09-15 19:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮耀MagicOS 11釋出 CEO李健：AI正重寫手機作業系統未來】9月15日晚，榮耀開發者大會上，榮耀釋出實現系統級Agent Harness商用落地的手機作業系統MagicOS 11。據介紹，榮耀MagicOS 11能理解使用者複雜意圖，還能記住使用者日常習慣，將“自動執行”與“主動服務”融為一體。榮耀CEO李健在會上表示，AI正在重寫手機作業系統未來。"
+    },
     {
       "id": "mkt:01a0a4e8-13a8-7118-8595-eefc7ecf1f30",
       "time": "2026-09-15 19:51:07",
