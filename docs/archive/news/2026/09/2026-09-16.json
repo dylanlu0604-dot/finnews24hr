@@ -1,7 +1,44 @@
 {
   "date": "2026-09-16",
-  "count": 57,
+  "count": 61,
   "items": [
+    {
+      "id": "mkt:01a0a5f7-e64c-7118-85a0-a414f8d4d3dc",
+      "time": "2026-09-16 00:48:01",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O): Falcon 9 erected at SLC-4E in California, preparing to launch the USSF-259 mission tonight."
+    },
+    {
+      "id": "5095836",
+      "time": "2026-09-16 00:47:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：《天才法案》（GENIUS Act）的規則制定工作將於 1 月完成。"
+    },
+    {
+      "id": "mkt:01a0a5f7-486a-7118-85a0-9919fbd0cd05",
+      "time": "2026-09-16 00:47:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Sources: Kyiv issued an air-raid alert citing a missile threat."
+    },
+    {
+      "id": "mkt:01a0a5f5-9c52-7118-85a0-9376107cedd4",
+      "time": "2026-09-16 00:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Massie files impeachment resolution against Defense Secretary Hegseth over Iran operations】Republican Representative Thomas Massie on Tuesday filed an impeachment resolution accusing Defense Secretary Hegseth of continuing U.S. military action against Iran without congressional authorization. The measure contains eight articles and also cites U.S. operations in Venezuela and Yemen. As a privileged resolution, Massie can force a House vote within a prescribed period, compelling Republicans to take a position on Hegseth's wartime conduct; passage is unlikely in a GOP-controlled Congress. The House has previously voted on measures to curb executive war powers on Iran and will again consider a War Powers resolution this week."
+    },
     {
       "id": "5095835",
       "time": "2026-09-16 00:43:03",
