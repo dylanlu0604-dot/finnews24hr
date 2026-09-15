@@ -1,7 +1,125 @@
 {
   "date": "2026-09-15",
-  "count": 1919,
+  "count": 1931,
   "items": [
+    {
+      "id": "mkt:01a0a500-ad38-7118-8596-ec0bc1eb8fa5",
+      "time": "2026-09-15 20:17:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Wells Fargo CFO says US economic activity remains strong."
+    },
+    {
+      "id": "mkt:01a0a500-8a36-7118-8596-e5b140b10008",
+      "time": "2026-09-15 20:17:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Crown Prince Mohammed bin Salman arrived in Egypt for an official visit and will hold talks with Egyptian President Abdel Fattah el-Sisi on a range of issues."
+    },
+    {
+      "id": "5095396",
+      "time": "2026-09-15 20:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "富國銀行首席財務官表示，美國經濟活動活躍度保持強勁。"
+    },
+    {
+      "id": "mkt:01a0a500-6c1b-7118-8596-dc198c8db589",
+      "time": "2026-09-15 20:17:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 China Economic and Social Forum held in Hangzhou】The 2026 China Economic and Social Forum was held in Hangzhou on 15 June. Wang Dongfeng, vice chairman and secretary-general of the National Committee of the Chinese People's Political Consultative Conference and chairman of the China Economic and Social Council, delivered the keynote, saying President Xi’s global governance initiative, following the global development, security and civilization initiatives, is another important international public good that provides strategic support for building a community of shared future for mankind. Wang called for intensified exchanges on governance experience, adherence to the community-of-shared-future concept, and a multilateral, consultative approach to global governance to build consensus and collective capacity. He said China is willing to work with other countries to pursue that goal, strengthen cooperation, and meet shared risks and challenges."
+    },
+    {
+      "id": "5095395",
+      "time": "2026-09-15 20:17:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【40個地區連續降雨 公路交通存在高風險】根據交通運輸部與中國氣象局會商研判，結合氣象部門降雨資料，截至9月15日，福建、江西、湖南3個省份的12個縣區出現了降水天數15天以上、累計降雨量600毫米以上或累計降雨量300毫米以上且超過常年同期水平3倍的情況，福建、江西、湖南、廣東、四川、雲南6個省份的28個縣區出現了降水天數15天以上、累計降雨量300毫米以上且超過常年同期水平2倍的情況，公路交通存在高風險。（交通運輸部）"
+    },
+    {
+      "id": "mkt:01a0a4fe-dcc6-7118-8596-d443b2bbdfab",
+      "time": "2026-09-15 20:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese defence minister Dong Jun holds talks with delegates at Xiangshan Forum】Chinese defence minister Dong Jun on Sept. 15 met in Beijing with visiting defence ministers from Myanmar, Brunei, Belarus, Azerbaijan, Kyrgyzstan and Armenia, and with ASEAN Secretary‑General Kao Kim Hourn, on the sidelines of the 13th Beijing Xiangshan Forum. Dong said the forum, founded 20 years ago, has focused on practical problem‑solving and contributed to global security; he warned the international security environment is increasingly unstable and uncertain and said China’s military is willing to work with partners to pursue a community with a shared future, advance its four global initiatives, deepen practical security cooperation and jointly address global security challenges to defend world and regional peace and stability."
+    },
+    {
+      "id": "mkt:01a0a4fe-d02d-7118-8596-ce418c59fc06",
+      "time": "2026-09-15 20:15:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP weekly employment report: Private-sector employers added an average of 16,250 jobs per week in the four weeks ending Aug 29, 2026."
+    },
+    {
+      "id": "mkt:01a0a4fe-7ab5-7118-8596-c10bb8e48060",
+      "time": "2026-09-15 20:15:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US ADP weekly employment change for the week to Aug 29: +16.25k, prior +12.0k."
+    },
+    {
+      "id": "5095394",
+      "time": "2026-09-15 20:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "ADP資料顯示，截至8月29日的四周內，美國私營部門就業人數平均每週增加16250人。"
+    },
+    {
+      "id": "5095393",
+      "time": "2026-09-15 20:14:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎泰高科：子公司擬7億元投建先進新材料製造基地】鼎泰高科公告稱，公司全資子公司東莞市鼎泰鑫電子有限公司擬與東莞市厚街鎮人民政府簽訂投資協議，在當地TOD片區投建鼎泰鑫先進新材料製造基地專案，專案總投資7億元，其中固定資產投資5.6億元，用地約64畝，主要從事織布磨刷、陶瓷磨刷等產品的研發及生產。本次投資事項已經公司董事會審議透過，無需提交股東會審議，不構成關聯交易及重大資產重組。目前雙方尚未正式簽署協議，專案尚需辦理多項審批，存在實施變更、延期等不確定性風險。"
+    },
+    {
+      "id": "mkt:01a0a4fd-7b04-7118-8596-bc0f0c1395fa",
+      "time": "2026-09-15 20:14:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said Trump and he respect any decision Fed Chair Kevin Warsh makes tomorrow."
+    },
+    {
+      "id": "te:economy:583876",
+      "time": "2026-09-15 20:14:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Brazil Retail Sales Decline in July — Brazil's retail sales fell 0.8% month-over-month in July 2026, following a 0.5% rise in June. Five of the eight sectors posted declines, led by furniture and household appliances (-4.9%), books, newspapers, magazines and stationery (-4.2%), textiles, clothing and footwear (-2.7%), other personal and household goods (-2.2%), and hypermarkets and supermarkets (-0.2%). Three sectors grew, led by pharmaceutical and perfumery products (0.6%), office, IT and communication equipment (0.6%), and fuels and lubricants (0.3%). Sales fell in 20 of Brazil's 27 states, led by Amapá and Tocantins (-2.5% each) and Mato Grosso (-2.2%). In contrast, expanded retail sales increased 0.4%, following a 1.1% decline in June."
+    },
     {
       "id": "mkt:01a0a4fd-1da2-7118-8596-b304474f80cd",
       "time": "2026-09-15 20:14:06",
