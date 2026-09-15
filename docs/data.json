@@ -1,7 +1,116 @@
 {
-  "updated": "2026-09-16 06:52:32",
-  "count": 13417,
+  "updated": "2026-09-16 07:09:48",
+  "count": 13393,
   "items": [
+    {
+      "id": "mkt:01a0a746-ee53-7118-85a4-f2233e3cd6f5",
+      "time": "2026-09-16 06:53:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China sets new record for single sea-launch payload weight and orbital altitude】Sept 16 — A Yinli-1 Yao-3 carrier rocket fired from the East China Sea successfully placed eight Qianfan constellation satellites and one ultra‑high‑speed wireless communications test satellite into an approximately 800 km orbit, Dongfang Space (Shandong) Technology Co., Ltd. said. Net payload exceeded 3 tonnes, marking new Chinese highs for single sea‑launch payload weight and insertion altitude and validating the sea‑launch mode for medium‑to‑large satellite missions."
+    },
+    {
+      "id": "te:economy:583985",
+      "time": "2026-09-16 06:52:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Current Account",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q2 Current Account Deficit Below Estimates — New Zealand's current account deficit widened to NZD 1.67 billion in the second quarter of 2026, up from NZD 0.78 billion in the same period a year earlier, but below market expectations of NZD 2.7 billion. The goods balance surplus narrowed to NZD 1.57 billion, down from NZD 2.76 billion in Q2 2025."
+    },
+    {
+      "id": "5096095",
+      "time": "2026-09-16 06:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "順豐控股：擬發行50億元2029年到期票面利率1.75%票據，以及50億元2031年到期票面利率1.85%票據。"
+    },
+    {
+      "id": "5096094",
+      "time": "2026-09-16 06:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊斯坦布林發生槍擊致3死1傷】據土耳其媒體報道，土最大城市伊斯坦布林法提赫區一家貨幣兌換處15日發生槍擊事件，造成3人死亡、1人受傷。 據報道，當天下午該貨幣兌換處經營者與一名顧客發生爭執，隨後衝突升級並引發槍擊。警方和急救人員已將傷者送醫救治，並控制一名嫌疑人。目前案件仍在調查中。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a73f-1af0-7118-85a4-eb690b1781b7",
+      "time": "2026-09-16 06:45:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 current account deficit NZD1.67bln vs NZD2.57bln expected; prior NZD1.01bln deficit."
+    },
+    {
+      "id": "mkt:01a0a73e-f30e-7118-85a4-e56b7e71adc3",
+      "time": "2026-09-16 06:45:15",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 current account deficit was -3.2% of GDP (annualized), versus -3.9% expected and -3.6% previously."
+    },
+    {
+      "id": "te:markets:583984",
+      "time": "2026-09-16 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Sinks by 9.75% — Top crypto losers are XRP (-9.75%), Ether (-4.77%) and Bitcoin (-3.33%)."
+    },
+    {
+      "id": "mkt:01a0a73e-bbab-7118-85a4-d8545a8508d2",
+      "time": "2026-09-16 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account (Q2) | actual -1670000000B | consensus -2571000000B | previous -1008000000B"
+    },
+    {
+      "id": "mkt:01a0a73e-bba9-7118-85a4-d24d403f2190",
+      "time": "2026-09-16 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account to GDP Ratio (YoY) (Q2) | actual -3.2% | consensus -3.9% | previous -3.60%"
+    },
+    {
+      "id": "5096093",
+      "time": "2026-09-16 06:41:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國火箭單次海上發射載荷重量創新高】9月16日，引力一號遙三運載火箭在我國東海海域點火升空，成功將搭載的8顆千帆星座組網衛星與1顆超高速無線通訊技術試驗衛星順利送入預定軌道，發射任務取得圓滿成功。（新華社）"
+    },
+    {
+      "id": "te:markets:583983",
+      "time": "2026-09-16 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 3.98% — Top commodity gainers are Barley (3.98%), Soybeans (1.11%) and Wheat (0.90%). Biggest losers are Cocoa (-2.80%), Coffee (-2.48%) and Butter (-1.74%)."
+    },
     {
       "id": "5096092",
       "time": "2026-09-16 06:38:06",
@@ -123337,330 +123446,6 @@
         "國際"
       ],
       "text": "【荷蘭合作銀行：經濟韌性下 日元或在12個月觸及148水平】荷蘭合作銀行指出，日元近期在顯然沒有官方干預的情況下大幅走強，表明市場可能反映出日本基本面的變化。高階外匯策略師Jane Foley在報告中寫道，基於實際工資資料的國內通脹跡象更加明顯，日本企業參與半導體供應鏈以及股市改革所支撐的經濟韌性，均對日元構成支撐。日本經濟韌性以及呈上升趨勢的實際收入應會增強日本央行內部鷹派的地位。中期對日元持建設性看法。荷蘭合作銀行將其15個月1美元兌148日元的預測提前至12個月。"
-    },
-    {
-      "id": "5083764",
-      "time": "2026-09-09 07:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國航班處理系統發生故障 超千次航班被取消 】英國全國空中交通管理局航班處理系統8日下午發生嚴重故障，導致全英多個機場大量航班被取消或延誤。當日，包括倫敦希思羅機場、愛丁堡機場、曼徹斯特機場在內的多個主要機場航班受到影響。據航班追蹤網站“24小時飛行雷達網站”的資料顯示，截至當日傍晚，全英一度有12個主要機場運營受到影響。英國媒體對網站資料的分析顯示，全英有超1000次航班被取消。當日晚間，全國空中交通管理局表示已實施修復措施並解決系統問題，正盡全力應對航班積壓問題。"
-    },
-    {
-      "id": "te:economy:582161",
-      "time": "2026-09-09 07:09:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Reuters Tankan Index",
-        "Importance 1"
-      ],
-      "text": "Japan Manufacturers' Mood Highest Since 2021 — The Reuters Tankan index for Japanese manufacturers increased for the second straight month to +21 in September 2026 from +18 in the previous month, marking the highest reading since December 2021."
-    },
-    {
-      "id": "5083763",
-      "time": "2026-09-09 07:08:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府高階官員：對加拿大商品的進口禁令將在約三週後生效。"
-    },
-    {
-      "id": "5083762",
-      "time": "2026-09-09 07:08:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國擬禁止進口部分加拿大乳製品和汽車】美國擬禁止進口部分加拿大乳製品和汽車。白宮公佈了兩項與加拿大貿易有關的總統令文字。"
-    },
-    {
-      "id": "5083761",
-      "time": "2026-09-09 07:07:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌加元持穩於1.3782，白宮宣佈新貿易措施。"
-    },
-    {
-      "id": "mkt:01a08347-2067-7118-84f6-44ece2f39fc4",
-      "time": "2026-09-09 07:07:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "A senior Trump administration official said the U.S. will ban imports from Canada of dairy products, most alcoholic beverages and motorcycles under Section 338."
-    },
-    {
-      "id": "5083760",
-      "time": "2026-09-09 07:07:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普政府高階官員：特朗普已簽署一系列與對加拿大貿易舉措相關的公告。"
-    },
-    {
-      "id": "5083759",
-      "time": "2026-09-09 07:07:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府高階官員：將依據《1930年關稅法》第338條款，禁止進口加拿大乳製品、大部分酒精飲品及摩托車。"
-    },
-    {
-      "id": "5083758",
-      "time": "2026-09-09 07:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍證實摧毀5艘伊朗原油運輸船 】美軍中央司令部8日在社交媒體發文證實，美軍當天摧毀5艘伊朗原油運輸船。帖文稱，伊朗伊斯蘭革命衛隊過去兩天兩次使用彈道導彈襲擊一艘美國海軍軍艦，但軍艦成功避開襲擊，沒有美方人員受傷。"
-    },
-    {
-      "id": "5083757",
-      "time": "2026-09-09 07:06:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026服貿會今日開幕】2026年中國國際服務貿易交易會9月9日至13日在北京石景山區首鋼園舉辦。"
-    },
-    {
-      "id": "5083756",
-      "time": "2026-09-09 07:05:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【採購週期縮短50%以上 人工智慧應用在供應鏈領域加速落地】中國物流與採購聯合會今天釋出《中國供應鏈發展報告（2025-2026）》。根據報告，2025年我國供應鏈領域的人工智慧應用開始加速落地，以生成式大模型為引領，機器視覺、智慧體、具身智慧等多項技術協同演進，已在採購管理、需求預測、庫存最佳化、智慧排程、風險管理等供應鏈管理的核心環節實現深度賦能，顯著提升了供應鏈的響應速度、決策精度與運營韌性。據統計，在採購領域，採用智慧採購供應鏈的企業，相較傳統模式，採購效率可提升30%以上，採購週期可縮短50%以上。在物流供應鏈領域，人工智慧應用滲透率超過37%，其中運輸環節以78%的滲透率居於首位；安全合規和智慧倉儲的滲透率分別為52.73%和47.27%。"
-    },
-    {
-      "id": "mkt:01a08345-50f6-7118-84f6-387a4ed98d5d",
-      "time": "2026-09-09 07:05:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump will deliver two keynote addresses at the Republican midterm conference in Dallas this week."
-    },
-    {
-      "id": "5083755",
-      "time": "2026-09-09 07:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民航上海審定中心試飛團隊完成C909飛機RNP AR審定試飛】9月9日，據民航上海審定中心訊息，民航上海航空器適航審定中心試飛團隊近期在多地，累計並順利完成多架次的C909飛機RNP AR審定試飛工作，試驗驗證了該機型在高精度導航、複雜地形執行等方面的關鍵效能，為後續適航取證和航線拓展提供了重要支撐。RNP AR（要求特殊授權的所需導航效能）是當前民航領域先進的精密導航執行技術，屬於基於效能導航PBN體系中執行標準最為嚴苛的一類。本次審定試飛由上海審定中心試飛團隊在平原、高原及高高原分階段組織實施。"
-    },
-    {
-      "id": "5083754",
-      "time": "2026-09-09 07:05:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國輻射防護研究院領導班子調整：劉立業任黨委書記，石伯軒為院長】9月8日，中輻院召開幹部任免宣佈大會。集團公司黨組決定：劉立業同志任中輻院黨委書記，石伯軒同志任中輻院黨委副書記；劉群同志不再擔任中輻院黨委書記，另有任用；聘任石伯軒同志為中輻院院長；聘任林海鵬同志為中輻院副院長。"
-    },
-    {
-      "id": "mkt:01a08341-a5eb-7118-84f6-34fe4ca5cf2a",
-      "time": "2026-09-09 07:01:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan Sept Refinitiv Tankan non-manufacturing business conditions index 29, prior 28."
-    },
-    {
-      "id": "mkt:01a08341-888d-7118-84f6-2fb052b8d937",
-      "time": "2026-09-09 07:01:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Sep) | actual 29 | previous 28"
-    },
-    {
-      "id": "mkt:01a08341-36f4-7118-84f6-26024fcb05b8",
-      "time": "2026-09-09 07:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli forces demolish West Bank Palestinian village, displacing residents】Israeli forces have intensified operations in the West Bank, forcibly demolishing homes and causing large-scale destruction and displacement. In a recent raid troops demolished and effectively \"erased\" an entire Palestinian village, leaving residents homeless."
-    },
-    {
-      "id": "mkt:01a08340-119e-7118-84f6-1d1c581c2e67",
-      "time": "2026-09-09 07:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Reuters Tankan manufacturing business conditions diffusion index for September 21, previous 18."
-    },
-    {
-      "id": "5083753",
-      "time": "2026-09-09 07:00:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國8月失業率 2.7%，前值2.80%。"
-    },
-    {
-      "id": "mkt:01a08340-0d4f-7118-84f6-10ca20b78603",
-      "time": "2026-09-09 07:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea August unemployment rate 2.7%, down from 2.8% in July."
-    },
-    {
-      "id": "mkt:01a0833f-f044-7118-84f6-0ed9320acfe5",
-      "time": "2026-09-09 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Manufacturing Index (Sep) | actual 21 | previous 18"
-    },
-    {
-      "id": "mkt:01a0833f-f03f-7118-84f6-0070c2f56653",
-      "time": "2026-09-09 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Unemployment Rate (Aug) | actual 2.7% | previous 2.80%"
-    },
-    {
-      "id": "mkt:01a0833f-a378-7118-84f5-fb82a20384ae",
-      "time": "2026-09-09 06:59:40",
-      "tags": [
-        "MKT News",
-        "ROKU.O",
-        "Impact bearish",
-        "FOXA.O"
-      ],
-      "text": "Semafor: U.S. Department of Justice to closely scrutinize Fox's $22 bln acquisition of Roku."
-    },
-    {
-      "id": "mkt:01a0833e-e31e-7118-84f5-f4b92f05d420",
-      "time": "2026-09-09 06:58:51",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "The White House said it will impose a 50% ad valorem tariff on certain products imported from Canada."
-    },
-    {
-      "id": "mkt:01a0833e-98a4-7118-84f5-eaa98ce3a913",
-      "time": "2026-09-09 06:58:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IRGC says it struck US base in Jordan】Iran's Islamic Revolutionary Guard Corps said on Sept 9 it fired ballistic missiles at a US base in Azraq, Jordan, saying the strike was retaliation for a US attack on an Iranian tanker."
-    },
-    {
-      "id": "mkt:01a0833e-9340-7118-84f5-e532fe88d68a",
-      "time": "2026-09-09 06:58:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House: goods imported before Sept. 29, 2026 that have not been consumed or withdrawn from warehouses will remain subject to a 50% tariff."
-    },
-    {
-      "id": "mkt:01a0833e-214e-7118-84f5-de0221c424f9",
-      "time": "2026-09-09 06:58:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says certain Canadian alcoholic beverages are prohibited from import into the U.S.; measure applies to goods imported at or after 00:01 ET on Sept 29, 2026."
-    },
-    {
-      "id": "5083752",
-      "time": "2026-09-09 06:57:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊打擊約旦美軍基地】伊朗伊斯蘭革命衛隊今天（9月9日）發表宣告稱，已發射彈道導彈打擊了位於約旦阿茲拉克的一處美軍基地，以報復美國對伊朗油輪的襲擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "5083751",
-      "time": "2026-09-09 06:57:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "白宮：本公告中列入進口禁令的相關產品，若在 2026 年 9 月 29 日前已經進口，但尚未申報內銷或自保稅倉庫提取內銷的，仍適用 50% 的關稅稅率。2026 年 9 月 29 日前已進口，但尚未辦理內銷申報或自保稅倉庫提取的產品，仍適用 50% 關稅。"
-    },
-    {
-      "id": "mkt:01a0833d-121e-7118-84f5-d1ea7abb99a6",
-      "time": "2026-09-09 06:56:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USD/CAD was virtually unchanged in short-term trade at 1.3783."
-    },
-    {
-      "id": "te:economy:582160",
-      "time": "2026-09-09 06:56:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Thailand Consumer Morale Highest in 6 Months — The University of the Thai Chamber of Commerce's Consumer Confidence Index climbed to 53.2 in August 2026 from July’s 51.8. It was the third consecutive month of increases and the highest reading since February, helped by the government's co-payment scheme, steady interest rates, and higher prices for key agricultural products, which boosted purchasing power. Thanavath Phonvichai, the university’s president, said planned energy-sector reforms could help sustain growth after the consumer subsidy scheme ends on Sept. 30. The expected passage of the 2027 budget would also lead to public spending supporting the economy after September, he added."
-    },
-    {
-      "id": "5083750",
-      "time": "2026-09-09 06:55:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "白宮：特朗普簽署公告，調整機動車相關加徵額外關稅的加拿大商品範圍。"
-    },
-    {
-      "id": "mkt:01a0833b-b864-7118-84f5-c9edbce0134a",
-      "time": "2026-09-09 06:55:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The White House said it is barring certain Canadian products from entering the U.S., taking action against ongoing discriminatory treatment of U.S. businesses in the alcoholic beverages sector."
-    },
-    {
-      "id": "5083749",
-      "time": "2026-09-09 06:53:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：將對部分加拿大商品徵收50%的從價關稅。自9月29日起禁止進口特定加拿大汽車。"
-    },
-    {
-      "id": "mkt:01a08339-2d9b-7118-84f5-c4647e644741",
-      "time": "2026-09-09 06:52:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y"
-      ],
-      "text": "【Bessent: Trump administration would accelerate deficit-cut plan if Democrats win midterms】Treasury Secretary Bessent said if Democrats win control of either chamber in the Nov. 3 midterm elections, the Trump administration will seek to push Congress to pass a plan to reduce the federal budget deficit by year-end. He said he is working with OMB Director Vought on a fiscal consolidation plan expected to lower the federal deficit. Bessent added that a Democratic victory would force acceleration of the effort during the lame-duck window between the Nov. 3 election and the Jan. 3, 2027 start of the new Congress, roughly two months."
     }
   ]
 }

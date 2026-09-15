@@ -1,7 +1,116 @@
 {
   "date": "2026-09-16",
-  "count": 377,
+  "count": 388,
   "items": [
+    {
+      "id": "mkt:01a0a746-ee53-7118-85a4-f2233e3cd6f5",
+      "time": "2026-09-16 06:53:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China sets new record for single sea-launch payload weight and orbital altitude】Sept 16 — A Yinli-1 Yao-3 carrier rocket fired from the East China Sea successfully placed eight Qianfan constellation satellites and one ultra‑high‑speed wireless communications test satellite into an approximately 800 km orbit, Dongfang Space (Shandong) Technology Co., Ltd. said. Net payload exceeded 3 tonnes, marking new Chinese highs for single sea‑launch payload weight and insertion altitude and validating the sea‑launch mode for medium‑to‑large satellite missions."
+    },
+    {
+      "id": "te:economy:583985",
+      "time": "2026-09-16 06:52:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Current Account",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q2 Current Account Deficit Below Estimates — New Zealand's current account deficit widened to NZD 1.67 billion in the second quarter of 2026, up from NZD 0.78 billion in the same period a year earlier, but below market expectations of NZD 2.7 billion. The goods balance surplus narrowed to NZD 1.57 billion, down from NZD 2.76 billion in Q2 2025."
+    },
+    {
+      "id": "5096095",
+      "time": "2026-09-16 06:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "順豐控股：擬發行50億元2029年到期票面利率1.75%票據，以及50億元2031年到期票面利率1.85%票據。"
+    },
+    {
+      "id": "5096094",
+      "time": "2026-09-16 06:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊斯坦布林發生槍擊致3死1傷】據土耳其媒體報道，土最大城市伊斯坦布林法提赫區一家貨幣兌換處15日發生槍擊事件，造成3人死亡、1人受傷。 據報道，當天下午該貨幣兌換處經營者與一名顧客發生爭執，隨後衝突升級並引發槍擊。警方和急救人員已將傷者送醫救治，並控制一名嫌疑人。目前案件仍在調查中。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a73f-1af0-7118-85a4-eb690b1781b7",
+      "time": "2026-09-16 06:45:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 current account deficit NZD1.67bln vs NZD2.57bln expected; prior NZD1.01bln deficit."
+    },
+    {
+      "id": "mkt:01a0a73e-f30e-7118-85a4-e56b7e71adc3",
+      "time": "2026-09-16 06:45:15",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 current account deficit was -3.2% of GDP (annualized), versus -3.9% expected and -3.6% previously."
+    },
+    {
+      "id": "te:markets:583984",
+      "time": "2026-09-16 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Sinks by 9.75% — Top crypto losers are XRP (-9.75%), Ether (-4.77%) and Bitcoin (-3.33%)."
+    },
+    {
+      "id": "mkt:01a0a73e-bbab-7118-85a4-d8545a8508d2",
+      "time": "2026-09-16 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account (Q2) | actual -1670000000B | consensus -2571000000B | previous -1008000000B"
+    },
+    {
+      "id": "mkt:01a0a73e-bba9-7118-85a4-d24d403f2190",
+      "time": "2026-09-16 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account to GDP Ratio (YoY) (Q2) | actual -3.2% | consensus -3.9% | previous -3.60%"
+    },
+    {
+      "id": "5096093",
+      "time": "2026-09-16 06:41:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國火箭單次海上發射載荷重量創新高】9月16日，引力一號遙三運載火箭在我國東海海域點火升空，成功將搭載的8顆千帆星座組網衛星與1顆超高速無線通訊技術試驗衛星順利送入預定軌道，發射任務取得圓滿成功。（新華社）"
+    },
+    {
+      "id": "te:markets:583983",
+      "time": "2026-09-16 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 3.98% — Top commodity gainers are Barley (3.98%), Soybeans (1.11%) and Wheat (0.90%). Biggest losers are Cocoa (-2.80%), Coffee (-2.48%) and Butter (-1.74%)."
+    },
     {
       "id": "5096092",
       "time": "2026-09-16 06:38:06",
