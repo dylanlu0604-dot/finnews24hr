@@ -1,7 +1,114 @@
 {
-  "updated": "2026-09-15 09:51:53",
-  "count": 13621,
+  "updated": "2026-09-15 09:55:36",
+  "count": 13626,
   "items": [
+    {
+      "id": "mkt:01a0a2c6-88b6-7118-8583-6378a9552b29",
+      "time": "2026-09-15 09:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister nominee said talks on investment in the United States are ongoing, with annual investments capped at $20 billion and a total cap of $200 billion; specifics are set out in a memorandum of understanding."
+    },
+    {
+      "id": "5094166",
+      "time": "2026-09-15 09:54:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國財長提名人：關於美國投資的磋商正按諒解備忘錄（MOU）的規定進行，即年度投資額不超過200億美元，總額不超過2000億美元。"
+    },
+    {
+      "id": "te:markets:583657",
+      "time": "2026-09-15 09:54:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Slips as Dollar, Oil Gain — The Japanese yen weakened toward 155 per dollar on Tuesday, declining for a second consecutive session as the dollar strengthened ahead of an expected US Federal Reserve interest rate hike this week. The yen also faced pressure from rising oil prices, which increase import costs for Japan’s oil-dependent economy. Still, the Japanese currency remained near seven-month highs amid expectations for more aggressive monetary tightening by the Bank of Japan, the unwinding of carry trades and signs of increased asset repatriation by domestic investors. The BOJ is widely expected to raise its policy rate to 1.25% on Friday, its highest level since April 1995, as the central bank responds to persistent upside risks to inflation. Markets are also watching for guidance from the BOJ on the potential for another rate hike later this year."
+    },
+    {
+      "id": "mkt:01a0a2c5-be82-7118-8583-5e416ab81c97",
+      "time": "2026-09-15 09:54:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil futures rose more than 1% intraday to $102.92 per barrel."
+    },
+    {
+      "id": "mkt:01a0a2c5-71b2-7118-8583-5046739cf546",
+      "time": "2026-09-15 09:54:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CNOOC starts construction on China’s largest international offshore oil and gas contract】CNOOC said construction has begun in Shandong on the Qatar Bohani oilfield redevelopment project, located about 100 km east of Qatar’s coast in waters up to roughly 40m deep. The contract is valued at $4.0 bln. CNOOC said successful delivery will advance Belt and Road international oil and gas cooperation."
+    },
+    {
+      "id": "5094165",
+      "time": "2026-09-15 09:53:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【必貝特醫藥任命Daniel A. Castro為BeBetter Pharma首席商務官】9月15日，必貝特醫藥宣佈，Daniel A. Castro於2026年9月14日正式加入公司美國子公司BeBetter Pharma Inc.，擔任首席商務官（Chief Business Officer, CBO），負責公司全球商務拓展戰略、國際合作、對外許可及戰略合作伙伴關係建設，並協助推進公司美國業務平臺及國際化團隊建設。"
+    },
+    {
+      "id": "te:economy:583656",
+      "time": "2026-09-15 09:53:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 15-year High — Australia 10 Year Government Bond Yield increased to 5.40%, the highest since May 2011. Over the past 4 weeks, Australia 10Y Bond Yield gained 36.30 basis points, and in the last 12 months, it increased 116.00 basis points."
+    },
+    {
+      "id": "5094164",
+      "time": "2026-09-15 09:53:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科大訊飛入股智慧機器人研發商夢舞智慧】企查查APP顯示，近日，蘇州夢舞智慧科技有限公司發生工商變更，新增科大訊飛全資子公司安徽訊飛雲創科技有限公司為股東。公開資訊顯示，夢舞智慧聚焦智慧機器人研發、生產、銷售與運營，持續推動智慧機器人進入真實空間與高頻服務場景。"
+    },
+    {
+      "id": "te:markets:583655",
+      "time": "2026-09-15 09:53:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Hover at 2022 Highs — European natural gas prices hovered above €82/MWh on Tuesday, their highest level since late 2022, amid intensifying disruptions around the Strait of Hormuz and concerns over still-below-normal gas inventories. The strait remains closed to most commercial traffic amid ongoing military conflict and security threats, while diplomatic efforts to secure its reopening have stalled, raising fears that disruptions to shipments could persist. LNG tanker traffic through the Strait has fallen sharply, tightening global supplies and intensifying competition with Asia and other buyers for available cargoes. Meanwhile, ongoing maintenance at Norwegian gas facilities is also adding another layer of uncertainty to Europe’s winter supply balance. Europe’s gas storage levels stand at around 68% of capacity, nearly 17 percentage points below the seasonal norm, when inventories would usually be close to maximum capacity."
+    },
+    {
+      "id": "5094163",
+      "time": "2026-09-15 09:52:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米、始祖鳥關聯公司入股一管理諮詢合夥企業】企查查APP顯示，近日，東莞獵聲前行管理諮詢合夥企業（有限合夥）發生工商變更，新增小米關聯公司天津金米投資合夥企業（有限合夥）、始祖鳥關聯公司亞瑪芬體育香港有限公司等為合夥人。企查查資訊顯示，該企業成立於2026年4月，經營範圍包含企業管理諮詢；企業總部管理；資訊科技諮詢服務；以自有資金從事投資活動等。"
+    },
+    {
+      "id": "5094162",
+      "time": "2026-09-15 09:52:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圍繞數智化轉型等 2026上合組織數字經濟論壇今天開幕】今天，2026上合組織數字經濟論壇將在新疆烏魯木齊開幕。本屆論壇以“數連上合 智啟未來”為主題，將圍繞數智化轉型、數字經濟健康發展、資料要素價值釋放等熱點方向，開展對話交流，為上合組織深化數字經濟互惠合作凝聚更多共識，拓展發展空間。"
+    },
     {
       "id": "5094161",
       "time": "2026-09-15 09:50:48",
@@ -125307,61 +125414,6 @@
         "市場"
       ],
       "text": "【金融科技板塊異動拉昇 生意寶、新力金融直線漲停】金融科技板塊盤中異動拉昇，生意寶、新力金融直線漲停，旗天科技漲超10%，卓創資訊、銀之傑、恆寶股份、瑞達期貨等快速跟漲。"
-    },
-    {
-      "id": "5081822",
-      "time": "2026-09-08 09:55:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多執行長：曼德海峽局勢將影響沙特石油日出口200萬至300萬桶。"
-    },
-    {
-      "id": "5081821",
-      "time": "2026-09-08 09:54:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國航運公司HMM與淡水河谷簽署長期貨物運輸合同，金額約4.7萬億韓元】韓國航運公司HMM公告稱，公司已與淡水河谷簽署長期貨物運輸合同，合同總金額為4.697萬億韓元（約34.55億美元），相當於HMM 2025財年銷售額的43.13%。合同期限為2030年4月1日至2056年10月31日，運輸區域包括巴西等市場。"
-    },
-    {
-      "id": "te:economy:581794",
-      "time": "2026-09-08 09:54:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Australia Private House Approval Fall 4.2% — Private sector house approvals in Australia fell 4.2% month-on-month to 10,199 units in July 2026, confirming preliminary estimates and reversing a 0.8% increase in the previous month. This marked the first decline since April, reflecting weaker housing approval activity across all states. South Australia recorded the sharpest drop (-10.7%), followed by Queensland (-5.5%), Victoria (-4.1%), New South Wales (-4.0%), and Western Australia (-0.1%). Meanwhile, approvals for private-sector dwellings excluding houses slipped 0.4% to 7,119 units, pointing to softer momentum across the broader residential construction sector. On a yearly basis, private house approvals were 6% higher than in July 2025."
-    },
-    {
-      "id": "5081820",
-      "time": "2026-09-08 09:53:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國國內有效發明專利擁有量達到539.4萬件】第十五屆中國智慧財產權年會9月8日至9月9日在北京舉行，主題為“奮力推動‘十五五’智慧財產權事業高質量發展”。國家智慧財產權局介紹，我國國內有效發明專利擁有量達到539.4萬件，國內有效商標註冊量達到5081.6萬件，PCT國際專利申請量連續7年位居全球第一，海牙體系外觀設計申請量、馬德里國際商標申請量均居世界前列。"
-    },
-    {
-      "id": "5081819",
-      "time": "2026-09-08 09:52:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【磷肥及磷化工板塊再度拉昇，川發龍蟒漲停】磷肥及磷化工板塊再度拉昇，川發龍蟒漲停，川金諾、和邦生物、雲天化、湖北宜化、興發集團等紛紛走高。"
-    },
-    {
-      "id": "5081818",
-      "time": "2026-09-08 09:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高德回應“開發掃雷榜”：確有相關產品在推進】9月8日，針對網傳“高德正在開發‘掃雷榜’產品，將根據真實使用者評價展示店鋪雷點”的訊息，高德方面回應稱，確有相關產品正在推進中，具體功能和呈現形式以最終上線版本為準。"
     }
   ]
 }
