@@ -1,7 +1,93 @@
 {
   "date": "2026-09-15",
-  "count": 1153,
+  "count": 1163,
   "items": [
+    {
+      "id": "mkt:01a0a3b1-4328-7118-858a-d4940d009482",
+      "time": "2026-09-15 14:11:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY shows respondents expect the US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028, versus 6.30%, 6.20% and 6.00% in the prior-quarter survey."
+    },
+    {
+      "id": "5094466",
+      "time": "2026-09-15 14:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流出超88億】截至目前，今日主力資金淨流出124.53億；淨流入半導體產業、PCB概念、儲存概念等板塊，其中半導體產業板塊淨流入64.44億；淨流出融資融券、轉融券標的、MSCI中國等板塊，其中融資融券板塊淨流出88.89億。\n  \n個股方面，通鼎互聯淨買入18.91億元位居首位，諾德股份、中國巨石、生益科技主力資金淨流入居前；寧德時代淨賣出20.08億元位居首位，中際旭創、新易盛、遠東股份淨流出額居前。"
+    },
+    {
+      "id": "5094465",
+      "time": "2026-09-15 14:09:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Blykalla與微軟達成人工智慧合作協議】9月15日，一份宣告顯示，瑞典核技術公司Blykalla與微軟簽署協議，將運用人工智慧技術解決許可和授權等行業瓶頸問題。"
+    },
+    {
+      "id": "te:economy:583720",
+      "time": "2026-09-15 14:09:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "UK Payroll Employment Drops Most in 9 Months — The number of payrolled employees in the UK dropped by 26 thousand, or 0.1%, to 30.2 million in August 2026, following a revised 19 thousand fall in the previous month. This marked the seventh straight monthly decline and the fastest pace since November 2025. Compared with a year earlier, employment fell by 0.5%, or 145 thousand. The wholesale and retail sector registered the biggest annual decrease in payroll employment, shedding 76 thousand jobs, while the administrative and support services sector posted the largest increase, adding 72 thousand employees. Across NUTS3 regions, Camden and the City of London experienced a 2% drop in payrolled employees, whereas Causeway Coast and Glens saw a 1.1% rise. Meanwhile, median monthly pay increased by 3.5% year-on-year to £2,657. The highest growth in median pay was recorded in the construction sector (+5.5%), while the education sector saw a decrease (-0.4%)."
+    },
+    {
+      "id": "te:economy:583719",
+      "time": "2026-09-15 14:08:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Wholesale Prices YoY",
+        "Importance 2"
+      ],
+      "text": "German Wholesale Inflation Highest Since 2023 — Germany’s wholesale prices increased 6.8% year-on-year in August 2026, accelerating from a 5.3% rise in the previous month and marking the 21st consecutive month of increase. It was the fastest increase in wholesale price inflation since February 2023, driven mainly by higher energy products and raw materials amid ongoing hostilities in the Middle East. On a monthly basis, wholesale prices rose 0.9%, accelerating from a 0.2% gain in July, marking the fastest pace in four months and surpassing market expectations of 0.1%."
+    },
+    {
+      "id": "5094464",
+      "time": "2026-09-15 14:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI巨頭呼籲慢節奏？“大空頭”伯裡炮轟：純屬炒作，掩蓋增長放緩真相】人工智慧（AI）行業三大“領頭羊”上週末一致呼籲放慢技術發展腳步。知名“大空頭”邁克爾·伯裡（Michael Burry）對此提出質疑，並稱這種推動放慢節奏的行為是“自私自利的”。他表示，OpenAI、Anthropic和其他大型AI公司的推動可能會減緩快速發展的競爭對手，從而使現有企業受益。他還質疑了這一論點的基本前提，認為大型語言模型並非AGI，因此“根本不存在什麼需要被放緩發展的AI”。伯裡還表示，談論AI可能帶來的危險，有助於在公司準備上市時保持投資者的熱情。"
+    },
+    {
+      "id": "mkt:01a0a3ae-4a90-7118-858a-cd1286dbb79a",
+      "time": "2026-09-15 14:08:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will subject budget requests for the next fiscal year to strict scrutiny."
+    },
+    {
+      "id": "te:economy:583718",
+      "time": "2026-09-15 14:08:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "UK Jobless Rate Unexpectedly Holds at 4.9% — The UK unemployment rate was unchanged for the fourth consecutive period at 4.9% in the three months to July 2026, defying expectations that it would rise to 5.0%. The number of unemployed people rose by 11 thousand from the previous quarter and by 83 thousand year-on-year to 1.778 million, with the annual increase driven by a rise in those unemployed for more than six months. Meanwhile, total employment rose by 66 thousand from the previous period and by 243 thousand from a year earlier to 34.478 million. The employment rate was unchanged at 75.1% on the quarter but down 0.1 percentage points from a year earlier. Both full-time and part-time employment increased from a year earlier, although part-time employment declined in the latest quarter, while the annual increase in full-time employment was driven by more full-time employees and the rise in part-time employment by more part-time self-employed workers."
+    },
+    {
+      "id": "5094463",
+      "time": "2026-09-15 14:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：今後將嚴格審查下一財年的預算申請。"
+    },
     {
       "id": "5094462",
       "time": "2026-09-15 14:07:35",
@@ -30,6 +116,15 @@
         "DXY"
       ],
       "text": "Ukraine's Odesa regional governor said port infrastructure in the region was attacked by Russia overnight."
+    },
+    {
+      "id": "em:qqyh_mlc:202609153874597779",
+      "time": "2026-09-15 14:06:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "摩根士丹利預計美聯儲將在9月和12月各加息25個基點，此前的預測為今年保持政策不變。"
     },
     {
       "id": "5094460",

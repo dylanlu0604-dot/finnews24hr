@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-15 14:08:10",
-  "count": 13581,
+  "updated": "2026-09-15 14:12:05",
+  "count": 13570,
   "items": [
+    {
+      "id": "mkt:01a0a3b1-4328-7118-858a-d4940d009482",
+      "time": "2026-09-15 14:11:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY shows respondents expect the US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028, versus 6.30%, 6.20% and 6.00% in the prior-quarter survey."
+    },
+    {
+      "id": "5094466",
+      "time": "2026-09-15 14:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流出超88億】截至目前，今日主力資金淨流出124.53億；淨流入半導體產業、PCB概念、儲存概念等板塊，其中半導體產業板塊淨流入64.44億；淨流出融資融券、轉融券標的、MSCI中國等板塊，其中融資融券板塊淨流出88.89億。\n  \n個股方面，通鼎互聯淨買入18.91億元位居首位，諾德股份、中國巨石、生益科技主力資金淨流入居前；寧德時代淨賣出20.08億元位居首位，中際旭創、新易盛、遠東股份淨流出額居前。"
+    },
+    {
+      "id": "5094465",
+      "time": "2026-09-15 14:09:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Blykalla與微軟達成人工智慧合作協議】9月15日，一份宣告顯示，瑞典核技術公司Blykalla與微軟簽署協議，將運用人工智慧技術解決許可和授權等行業瓶頸問題。"
+    },
+    {
+      "id": "te:economy:583720",
+      "time": "2026-09-15 14:09:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "UK Payroll Employment Drops Most in 9 Months — The number of payrolled employees in the UK dropped by 26 thousand, or 0.1%, to 30.2 million in August 2026, following a revised 19 thousand fall in the previous month. This marked the seventh straight monthly decline and the fastest pace since November 2025. Compared with a year earlier, employment fell by 0.5%, or 145 thousand. The wholesale and retail sector registered the biggest annual decrease in payroll employment, shedding 76 thousand jobs, while the administrative and support services sector posted the largest increase, adding 72 thousand employees. Across NUTS3 regions, Camden and the City of London experienced a 2% drop in payrolled employees, whereas Causeway Coast and Glens saw a 1.1% rise. Meanwhile, median monthly pay increased by 3.5% year-on-year to £2,657. The highest growth in median pay was recorded in the construction sector (+5.5%), while the education sector saw a decrease (-0.4%)."
+    },
+    {
+      "id": "te:economy:583719",
+      "time": "2026-09-15 14:08:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Wholesale Prices YoY",
+        "Importance 2"
+      ],
+      "text": "German Wholesale Inflation Highest Since 2023 — Germany’s wholesale prices increased 6.8% year-on-year in August 2026, accelerating from a 5.3% rise in the previous month and marking the 21st consecutive month of increase. It was the fastest increase in wholesale price inflation since February 2023, driven mainly by higher energy products and raw materials amid ongoing hostilities in the Middle East. On a monthly basis, wholesale prices rose 0.9%, accelerating from a 0.2% gain in July, marking the fastest pace in four months and surpassing market expectations of 0.1%."
+    },
+    {
+      "id": "5094464",
+      "time": "2026-09-15 14:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI巨頭呼籲慢節奏？“大空頭”伯裡炮轟：純屬炒作，掩蓋增長放緩真相】人工智慧（AI）行業三大“領頭羊”上週末一致呼籲放慢技術發展腳步。知名“大空頭”邁克爾·伯裡（Michael Burry）對此提出質疑，並稱這種推動放慢節奏的行為是“自私自利的”。他表示，OpenAI、Anthropic和其他大型AI公司的推動可能會減緩快速發展的競爭對手，從而使現有企業受益。他還質疑了這一論點的基本前提，認為大型語言模型並非AGI，因此“根本不存在什麼需要被放緩發展的AI”。伯裡還表示，談論AI可能帶來的危險，有助於在公司準備上市時保持投資者的熱情。"
+    },
+    {
+      "id": "mkt:01a0a3ae-4a90-7118-858a-cd1286dbb79a",
+      "time": "2026-09-15 14:08:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will subject budget requests for the next fiscal year to strict scrutiny."
+    },
+    {
+      "id": "te:economy:583718",
+      "time": "2026-09-15 14:08:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "UK Jobless Rate Unexpectedly Holds at 4.9% — The UK unemployment rate was unchanged for the fourth consecutive period at 4.9% in the three months to July 2026, defying expectations that it would rise to 5.0%. The number of unemployed people rose by 11 thousand from the previous quarter and by 83 thousand year-on-year to 1.778 million, with the annual increase driven by a rise in those unemployed for more than six months. Meanwhile, total employment rose by 66 thousand from the previous period and by 243 thousand from a year earlier to 34.478 million. The employment rate was unchanged at 75.1% on the quarter but down 0.1 percentage points from a year earlier. Both full-time and part-time employment increased from a year earlier, although part-time employment declined in the latest quarter, while the annual increase in full-time employment was driven by more full-time employees and the rise in part-time employment by more part-time self-employed workers."
+    },
+    {
+      "id": "5094463",
+      "time": "2026-09-15 14:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：今後將嚴格審查下一財年的預算申請。"
+    },
     {
       "id": "5094462",
       "time": "2026-09-15 14:07:35",
@@ -30,6 +116,15 @@
         "DXY"
       ],
       "text": "Ukraine's Odesa regional governor said port infrastructure in the region was attacked by Russia overnight."
+    },
+    {
+      "id": "em:qqyh_mlc:202609153874597779",
+      "time": "2026-09-15 14:06:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "摩根士丹利預計美聯儲將在9月和12月各加息25個基點，此前的預測為今年保持政策不變。"
     },
     {
       "id": "5094460",
@@ -124829,204 +124924,6 @@
         "觀點"
       ],
       "text": "【萊檬生物完成近2億元B輪融資，中信建投資本領投】近日，廣州市萊檬生物科技有限公司宣佈完成總額近2億元人民幣的B輪融資。本輪由中信建投資本擔任領投方，渝富資本、湖北農發及運城產投等機構跟投。本輪融資將用於加速全國產能佈局、持續加碼研發投入、深化產業鏈協同、加速國際化程序、最佳化治理與資本結構。"
-    },
-    {
-      "id": "5082171",
-      "time": "2026-09-08 14:11:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內漲5%，現報9104.00元。"
-    },
-    {
-      "id": "mkt:01a07fa4-f124-7118-84de-d82bc35d8445",
-      "time": "2026-09-08 14:11:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Methanol front-month futures hit the daily limit, rising 6.03% to 3,359 yuan/ton."
-    },
-    {
-      "id": "5082170",
-      "time": "2026-09-08 14:11:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯證實本國能源設施遭到襲擊，多處地點發生火災。"
-    },
-    {
-      "id": "5082169",
-      "time": "2026-09-08 14:11:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲3%，現報5982.00元。"
-    },
-    {
-      "id": "5082168",
-      "time": "2026-09-08 14:11:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲6%，現報3359.00元。"
-    },
-    {
-      "id": "te:economy:581876",
-      "time": "2026-09-08 14:11:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "German Trade Surplus Largest in Two Years — Germany’s trade surplus widened to €21.3 billion in July 2026 from €15.4 billion in June, exceeding expectations of a rise to €16 billion and marking the largest trade surplus since August 2024, as exports fell less sharply than imports. Exports went down 0.8% month-on-month to €138.2 billion, compared to expectations of a flat reading, as sales to EU countries declined 1.6%, while shipments to third countries edged up 0.2%, supported by a 19.1% jump in exports to the US. Exports to China fell 9.5%, while those to the UK declined 7.2%. Meanwhile, imports dropped 5.7% to €116.9 billion, as imports from EU countries fell 6.1%, while those from third countries decreased 5.3%, led by a 7.5% decline in imports from China."
-    },
-    {
-      "id": "5082167",
-      "time": "2026-09-08 14:11:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率下跌6.5個基點，至4.025%。"
-    },
-    {
-      "id": "te:economy:581875",
-      "time": "2026-09-08 14:10:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "German Export Drops 0.8% in July — Germany's exports decreased 0.8% month-on-month to €138.2 billion in July 2026, following a 0.9% increase in the previous month and compared with market expectations for no change. Shipments to EU member states declined 1.6% to €78 billion, mainly due to a 2.8% decrease in exports to the euro area (€53.9 billion), while exports to non-euro area countries increased 1.1% to €24.1 billion. Exports to third countries rose 0.2% to €60.2 billion, as stronger demand from the US (+19.1%) more than offset declines in exports to China (-9.5%) and the UK (-7.2%). For the January-July period, German exports increased 4% from the same period a year earlier, totaling €954.2 billion."
-    },
-    {
-      "id": "mkt:01a07fa3-f35f-7118-84de-d67878fa0386",
-      "time": "2026-09-08 14:10:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 40-year bond yield fell 6.5 bps intraday to 4.025%."
-    },
-    {
-      "id": "5082166",
-      "time": "2026-09-08 14:10:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本Terra Drone贏得政府合同後，瞄準防務領域業務增長。"
-    },
-    {
-      "id": "5082165",
-      "time": "2026-09-08 14:10:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿斯麥贏得臺積電和三星承諾，使用其新一代EUV光刻機。"
-    },
-    {
-      "id": "5082164",
-      "time": "2026-09-08 14:10:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：滬股通板塊淨流入超59億】截至目前，今日主力資金淨流入17.67億；淨流入滬股通、週期股、國企改革等板塊，其中滬股通板塊淨流入59.87億；淨流出TMT、機器人概念、騰訊概念等板塊，其中TMT板塊淨流出70.20億。\n  \n個股方面，中際旭創淨買入14.22億元位居首位，摩爾執行緒、興森科技、紫金礦業主力資金淨流入居前；寧德時代淨賣出11.99億元位居首位，海康威視、京東方Ａ、紫光股份淨流出額居前。"
-    },
-    {
-      "id": "mkt:01a07fa3-4659-7118-84de-cc598f7b0156",
-      "time": "2026-09-08 14:10:01",
-      "tags": [
-        "MKT News",
-        "ASML.O",
-        "Impact bullish"
-      ],
-      "text": "Samsung plans to deploy ASML (ASML.O)'s leading-edge lithography equipment in DRAM production around 2028."
-    },
-    {
-      "id": "5082163",
-      "time": "2026-09-08 14:09:46",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "英飛凌科技股份公司股價在早盤交易中下跌2.5%，此前摩根士丹利將其股票評級從增持下調至持平。"
-    },
-    {
-      "id": "5082162",
-      "time": "2026-09-08 14:09:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【茅臺部分直營店上調飛天及公斤茅臺售價，精品暫不調整】9月8日，有市場訊息稱，部分茅臺直營店已對包括53度 500ml飛天茅臺、公斤茅臺等在內的多款產品進行提價。有茅臺直營店向新浪財經《酒業內參》透露，今日，店內500ml飛天茅臺售價已提升至1766元/瓶，高於i茅臺1639元/瓶的售價，公斤茅臺價格也上調至3291元/瓶。不過，該直營店表示，精品茅臺暫未跟隨本輪提價。（酒業內參）"
-    },
-    {
-      "id": "5082161",
-      "time": "2026-09-08 14:09:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳機場口岸APEC成員經濟體外籍客流突破百萬人次】截至9月6日，今年以來經深圳機場口岸入出境，來自APEC成員經濟體的外國人超100.8萬人次，同比增長31.1%，較去年提前65天達到百萬量級，創歷史同期新高。 作為粵港澳大灣區重要國際交通樞紐之一，深圳寶安國際機場目前已與APEC成員經濟體中的15個國家（地區）開通了直航客運航線，外籍客流始終保持高位執行。"
-    },
-    {
-      "id": "5082160",
-      "time": "2026-09-08 14:09:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "TERRA DRONE CEO：快速擴大生產規模比打造最佳無人機更重要，確保無人機防禦供應鏈至關重要。"
-    },
-    {
-      "id": "mkt:01a07fa2-7fe1-7118-84de-c41f2b5956c7",
-      "time": "2026-09-08 14:09:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【HKEX CEO Chen Yiting says Chinese assets entering historic re-rating】HKEX CEO Chen Yiting said rising international diversification into China is driving a historic re‑rating of Chinese assets. He noted Hong Kong secondary trading has stayed elevated this year: average daily spot turnover in the first eight months exceeded HKD 280 billion, up 14% YoY. Shanghai‑Shenzhen‑Hong Kong Stock Connect has run smoothly and derivatives markets remain active. On the primary market, 104 companies listed in Hong Kong through end‑August, raising over HKD 340 billion—already above 2025’s full‑year total. International cornerstone investor participation in Hong Kong IPOs is at multi‑year highs, with long‑term capital from the Middle East, Europe, North America and other APAC regions increasing."
-    },
-    {
-      "id": "mkt:01a07fa2-324b-7118-84de-bc017e63badb",
-      "time": "2026-09-08 14:08:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthi rebels say will carry out deep strikes inside Saudi Arabia】Yahya Saree, spokesman for Yemen's Houthi rebels, said on Sept. 8 the group will soon announce \"broad military operations deep inside Saudi territory.\""
-    },
-    {
-      "id": "5082159",
-      "time": "2026-09-08 14:08:49",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【連跌6日，智譜股價跌破1000港元】9月8日，智譜小幅低開後震盪走弱，盤中一度跌11%，股價跌破1000港元大關，最低觸及906港元/股。截至發稿，智譜跌10.36%，報912.5港元/股，成交額超60億港元。值得一提的是，這已經是智譜9月1日小幅收跌後，連續第6個交易日下跌，跌幅超20%。 訊息面上，8月31日，智譜釋出2026年半年度業績。公司上半年實現收入9.54億元人民幣，同比增長399.7%，超過2025年全年營收規模；期內虧損20.72億元，同比收窄12.1%。 此前，摩根大通、瑞銀、高盛等機構均給出超50億元的全年營收預測，此次智譜披露的上半年營收意味著，其下半年需完成40億至75億元營收才能匹配上述預期，因此引發市場對其營收不達預期的質疑。 分業務來看，報告期內，智譜開放平臺及API業務收入8.25億元，同比增長超過27倍，佔總收入約86.5%，去年同期為15.2%，提升71.3個百分點。同時，該業務毛利率提升至24.6%，較去年同期提升約25個百分點，較去年全年提升約6個百分點。相比之下，本地化部署收入1.29億元，同比下降20.5%，佔比由84.8%降至13.5%。（上海證券報）"
-    },
-    {
-      "id": "5082158",
-      "time": "2026-09-08 14:08:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大禹節水等成立科技公司，含AI行業應用系統整合業務】企查查APP顯示，近日，榆林禹澤農水科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；農業機械服務；農業生產託管服務；農業專業及輔助性活動等。企查查股權穿透顯示，該公司由大禹節水等共同持股。"
     }
   ]
 }
