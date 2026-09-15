@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-16 00:14:10",
-  "count": 13458,
+  "updated": "2026-09-16 00:18:00",
+  "count": 13456,
   "items": [
+    {
+      "id": "te:markets:583956",
+      "time": "2026-09-16 00:17:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes Lower for 2nd Day — Frankfurt's DAX 40 pared initial losses to close about 0.2% down at 25,402 on Tuesday, marking the second day of decreases, as rising oil prices and elevated bond yields continued to weigh. Meanwhile, caution prevailed ahead of the Fed's policy outcome on Wednesday, with the central bank expected to hike rates for the first time in three years to fight stubbornly high inflation. Domestically, Chancellor Friedrich Merz vowed to soon unveil measures to combat high fuel prices ahead of a crucial election in Mecklenburg-Western Pomerania. Banks came under pressure after Bank of America CEO Brian Moynihan warned of a 10% drop in third-quarter fees. Deutsche Bank and Commerzbank fell 2.5% and 0.5%, respectively. On the upside, defense stocks such as Rheinmetall (+3.2%) advanced firmly amid continued geopolitical tensions and reports of US munitions shortages."
+    },
+    {
+      "id": "mkt:01a0a5db-5b6a-7118-85a0-08f73a2c89a3",
+      "time": "2026-09-16 00:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said gasoline prices are lower than during the Biden administration."
+    },
+    {
+      "id": "5095821",
+      "time": "2026-09-16 00:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：政府已批准 2027 年預算草案。"
+    },
+    {
+      "id": "mkt:01a0a5d9-fa6c-7118-85a0-06db4e293be4",
+      "time": "2026-09-16 00:15:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude jumped 3.00% intraday to $100.95/bbl."
+    },
+    {
+      "id": "mkt:01a0a5d9-9884-7118-859f-fb1f64a900ae",
+      "time": "2026-09-16 00:14:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Rep. Thomas Massie filed a resolution in the House to impeach U.S. Secretary of Defense Hegseth, seeking to open impeachment proceedings."
+    },
+    {
+      "id": "5095820",
+      "time": "2026-09-16 00:14:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報105.46美元/桶。"
+    },
     {
       "id": "5095819",
       "time": "2026-09-16 00:13:27",
@@ -124034,79 +124091,6 @@
         "國際"
       ],
       "text": "沙特公共投資基金還將會見美國進出口銀行。"
-    },
-    {
-      "id": "5083527",
-      "time": "2026-09-09 00:17:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特公共投資基金還將會見凱雷、KKR、Stonepeak。"
-    },
-    {
-      "id": "5083526",
-      "time": "2026-09-09 00:17:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特公共投資基金將與阿波羅、黑石、布魯克菲爾德會面。"
-    },
-    {
-      "id": "5083525",
-      "time": "2026-09-09 00:16:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉海星率中共代表團訪問烏茲別克、亞塞拜然】9月5日至8日，中共中央對外聯絡部部長劉海星率中共代表團訪問烏茲別克、亞塞拜然，分別會見烏總統米爾濟約耶夫，最高會議參議院、立法院及執政黨領導人，阿總理阿薩多夫、新亞塞拜然黨副主席布達戈夫，並參加“習近平新時代中國特色社會主義思想與世界”中亞專場研討會、中國－中亞政黨對話會專題會議，出席阿總統直屬行政管理學院中國研究中心、中國書屋揭牌儀式，深入宣介習近平總書記重要思想，就共同關心的問題交換意見。（新華社）"
-    },
-    {
-      "id": "mkt:01a081ce-a4d6-7118-84f1-3b24796b172f",
-      "time": "2026-09-09 00:16:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm CFO says the company expects to become the largest chip supplier to the auto industry next year."
-    },
-    {
-      "id": "5083524",
-      "time": "2026-09-09 00:16:27",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "高通首席財務官：我們預計明年將成為汽車行業最大的晶片供應商。"
-    },
-    {
-      "id": "5083523",
-      "time": "2026-09-09 00:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特公共投資基金本週將會見部分華爾街機構。"
-    },
-    {
-      "id": "mkt:01a081ce-13f9-7118-84f1-3232db662a9a",
-      "time": "2026-09-09 00:16:01",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm CFO said rising memory prices have limited impact on the high-end smartphone market."
-    },
-    {
-      "id": "5083522",
-      "time": "2026-09-09 00:15:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通稱低端智慧手機市場仍承壓。"
     }
   ]
 }

@@ -1,7 +1,64 @@
 {
   "date": "2026-09-16",
-  "count": 19,
+  "count": 25,
   "items": [
+    {
+      "id": "te:markets:583956",
+      "time": "2026-09-16 00:17:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes Lower for 2nd Day — Frankfurt's DAX 40 pared initial losses to close about 0.2% down at 25,402 on Tuesday, marking the second day of decreases, as rising oil prices and elevated bond yields continued to weigh. Meanwhile, caution prevailed ahead of the Fed's policy outcome on Wednesday, with the central bank expected to hike rates for the first time in three years to fight stubbornly high inflation. Domestically, Chancellor Friedrich Merz vowed to soon unveil measures to combat high fuel prices ahead of a crucial election in Mecklenburg-Western Pomerania. Banks came under pressure after Bank of America CEO Brian Moynihan warned of a 10% drop in third-quarter fees. Deutsche Bank and Commerzbank fell 2.5% and 0.5%, respectively. On the upside, defense stocks such as Rheinmetall (+3.2%) advanced firmly amid continued geopolitical tensions and reports of US munitions shortages."
+    },
+    {
+      "id": "mkt:01a0a5db-5b6a-7118-85a0-08f73a2c89a3",
+      "time": "2026-09-16 00:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said gasoline prices are lower than during the Biden administration."
+    },
+    {
+      "id": "5095821",
+      "time": "2026-09-16 00:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：政府已批准 2027 年預算草案。"
+    },
+    {
+      "id": "mkt:01a0a5d9-fa6c-7118-85a0-06db4e293be4",
+      "time": "2026-09-16 00:15:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude jumped 3.00% intraday to $100.95/bbl."
+    },
+    {
+      "id": "mkt:01a0a5d9-9884-7118-859f-fb1f64a900ae",
+      "time": "2026-09-16 00:14:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Rep. Thomas Massie filed a resolution in the House to impeach U.S. Secretary of Defense Hegseth, seeking to open impeachment proceedings."
+    },
+    {
+      "id": "5095820",
+      "time": "2026-09-16 00:14:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報105.46美元/桶。"
+    },
     {
       "id": "5095819",
       "time": "2026-09-16 00:13:27",
