@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-15 15:13:53",
-  "count": 13764,
+  "updated": "2026-09-15 15:17:38",
+  "count": 13772,
   "items": [
+    {
+      "id": "5094630",
+      "time": "2026-09-15 15:16:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "立陶宛央行預計2026年通脹率為5.1%。立陶宛央行上調2027年國內生產總值增速預期至2.4%。立陶宛央行預計2027年通脹率為3.1%。"
+    },
+    {
+      "id": "5094629",
+      "time": "2026-09-15 15:16:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "立陶宛央行預計2026年經濟增速為2.7%。"
+    },
+    {
+      "id": "te:markets:583764",
+      "time": "2026-09-15 15:16:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.54% Lower — The Shangai Composite Index fell 21 points or 0.54 percent on Tuesday to close at 3864 points. Leading the losses are BAIC BluePark (-3.82%), Jiangsu Lianyungang (-3.73%) and China Minsheng Bank (-3.23%). Top gainers were Fuyao Glass Indu (2.17%), Zhejiang Zheneng (0.99%) and Baosteel (0.51%)."
+    },
+    {
+      "id": "mkt:01a0a3ec-646a-7118-858d-4f762ff0e92b",
+      "time": "2026-09-15 15:16:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "2454.TW",
+        "Impact bullish",
+        "2330.TW"
+      ],
+      "text": "【MediaTek launches Dimensity 9600 Pro flagship SoC】MediaTek launched the Dimensity 9600 Pro flagship mobile SoC, its first SoC built on TSMC's 2nm process. Versus the prior 3nm design, the 2nm chip delivers roughly 14% higher performance and 23% lower power consumption. MediaTek said it rebuilt the SoC around an AI‑native architecture, integrating CPU, GPU, NPU and ISP via hardware‑software co‑design."
+    },
+    {
+      "id": "5094628",
+      "time": "2026-09-15 15:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門：鼓勵利用存量空間發展旅遊產業】自然資源部、文化和旅遊部、國家林業和草原局釋出關於最佳化自然資源配置推動旅遊業規範有序發展的指導意見。意見提到，鼓勵利用存量空間發展旅遊產業。各地結合實際研究制定低效旅遊用地認定標準，深入評估低效旅遊用地情況，找準空間治理問題短板，結合區域優勢特點、資源資產條件等，明確功能完善和空間最佳化方向，支援文旅體商等複合業態發展。在符合規劃管控、安全等要求下，土地權利人利用現有房產興辦文化和旅遊接待設施的，可保持原土地用途、權利型別不變；土地權利人申請辦理用地手續的，經批准可以協議方式辦理。在不改變用地主體和規劃條件（用地性質除外）的前提下，利用存量工業用地、老舊廠房等空間發展文化和旅遊業態的，可享受5年內按原用途和權利型別使用土地的過渡期支援政策。"
+    },
+    {
+      "id": "5094627",
+      "time": "2026-09-15 15:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門釋出最佳化自然資源配置 推動旅遊業規範有序發展的指導意見】自然資源部、文化和旅遊部、國家林業和草原局釋出關於最佳化自然資源配置推動旅遊業規範有序發展的指導意見。意見提到，對於單個旅遊專案涉及不同用途多個地塊的，可探索將多個地塊按一宗地進行管理，依據規劃核定宗地規劃條件並明確單個地塊規劃要求，依法核發規劃許可。在特定國土空間規劃範圍內，涉及需整體使用土地、礦產、海洋、森林等兩種及以上多門類自然資源資產發展旅遊產業的，可探索統籌形成自然資源資產組合標的，達到供應條件後一次性供應，實施整體運營。"
+    },
+    {
+      "id": "5094626",
+      "time": "2026-09-15 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.08%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "5094625",
+      "time": "2026-09-15 15:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯發科釋出天璣9600Pro旗艦晶片】聯發科釋出天璣9600Pro旗艦晶片，這是聯發科首款基於臺積電2nm製程打造的移動SoC，對比前代3nm方案效能提升14%，功耗下降23%，以AI原生架構重新設計整套SoC，將 CPU、GPU、NPU、ISP 等異構計算核心實現軟硬融合。"
+    },
+    {
+      "id": "mkt:01a0a3ea-36ef-7118-858d-435834451965",
+      "time": "2026-09-15 15:13:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nigeria LNG (NLNG) said it expects to lift its force majeure once plant utilization reaches 95%."
+    },
+    {
+      "id": "te:economy:583763",
+      "time": "2026-09-15 15:13:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Poland 10Y Bond Yield Hits 3-1/2-year High — Poland 10 Year Government Bond Yield increased to 6.47%, the highest since March 2023. Over the past 4 weeks, Poland 10Y Bond Yield gained 54.50 basis points, and in the last 12 months, it increased 103.00 basis points."
+    },
     {
       "id": "mkt:01a0a3e9-ad25-7118-858d-394bf4241db0",
       "time": "2026-09-15 15:13:15",
@@ -126622,30 +126719,6 @@
         "Importance 1"
       ],
       "text": "Euro Holds Near $1.16 Ahead of ECB Rate Hike — The euro stabilized around $1.16 as investors looked ahead to the European Central Bank’s policy meeting later this week, while rising oil prices added to inflation concerns. Brent crude approached $100 a barrel, while European natural gas prices rose to their highest level since late 2022 amid renewed tensions in the Middle East and reports that Iran and Oman were close to an agreement on managing shipping through the Strait of Hormuz, heightening concerns over Tehran’s growing influence over the key waterway. Persistent inflation pressures and resilient economic growth are keeping central banks under pressure to maintain a restrictive policy stance. The ECB is widely expected to raise interest rates on Thursday, with markets almost fully pricing in another hike by year-end. In the US, investors are awaiting key inflation data later this week, after Friday’s strong jobs report lifted the probability of a Fed rate hike next week to nearly 60%, providing further support for the dollar."
-    },
-    {
-      "id": "te:economy:581925",
-      "time": "2026-09-08 15:16:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Hit 15-Year Highs as Oil Fuels Inflation Concerns — Germany’s 10-year Bund yield rose to 3.4%, touching its highest level since April 2011, as surging energy prices heightened inflation concerns ahead of this week’s European Central Bank meeting. Brent crude neared $100 a barrel, while European natural gas prices climbed to their highest level since late 2022 amid renewed tensions in the Middle East and reports that Iran and Oman were nearing an agreement to manage shipping through the Strait of Hormuz. Higher energy prices have intensified a global bond selloff, while persistent inflation pressures and resilient economic growth are keeping central banks under pressure to maintain a restrictive policy stance. The ECB is widely expected to raise interest rates on Thursday, with markets almost fully pricing in another hike by year-end. In the US, investors are awaiting key inflation data later this week, after Friday’s strong jobs report lifted the probability of a Fed hike next week to nearly 60%."
-    },
-    {
-      "id": "te:markets:581924",
-      "time": "2026-09-08 15:15:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.25% Higher — The Shangai Composite Index rose 10 points or 0.25 percent on Tuesday to close at 3943 points. Leading the gains are Avic Aviation Engine (5.82%), Kangmei Pharma (5.07%) and Metallurgical (3.54%). Top losers were Fuyao Glass Indu (-2.60%), Sanan Optoelectron (-1.84%) and Jiangsu Hengrui (-1.36%)."
     }
   ]
 }
