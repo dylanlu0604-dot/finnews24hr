@@ -1,7 +1,125 @@
 {
-  "updated": "2026-09-15 23:57:52",
-  "count": 13459,
+  "updated": "2026-09-16 00:02:17",
+  "count": 13465,
   "items": [
+    {
+      "id": "5095815",
+      "time": "2026-09-16 00:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：解決財政赤字的必要性是影響 10 年期美債收益率的因素之一。"
+    },
+    {
+      "id": "mkt:01a0a5cc-fbc9-7118-859f-cf6a837507eb",
+      "time": "2026-09-16 00:01:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Sources: Urals crude premium in India jumps to $8/bbl on Gulf supply shortfall】Three sources said a conflict involving Iran has reduced crude flows from Gulf producers, tightening refinery feedstock and pushing the premium for Russian Urals crude delivered to Indian ports to about $8/bbl versus Brent, the highest since May. The sources said the delivery premium is roughly $8/bbl now, versus about $1/bbl in August."
+    },
+    {
+      "id": "5095814",
+      "time": "2026-09-16 00:00:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計未來 6 至 12 個月內，我們將擺脫螺旋蠅帶來的困擾。"
+    },
+    {
+      "id": "mkt:01a0a5cb-94a3-7118-859f-c206c2b4d453",
+      "time": "2026-09-15 23:59:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose to $105 a barrel, the highest since May, gaining 3.05% on the day."
+    },
+    {
+      "id": "te:markets:583944",
+      "time": "2026-09-15 23:59:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 51,555 on Tuesday, amid gains in defense and utilities while heavyweight financials were mixed amid ongoing merger talks. UniCredit fell 2.3% after holding talks with the German Finance Minister regarding its stake in Commerzbank. The Italian lender expects to take full ownership of the stake by the fourth quarter. Credit Agricole, the largest investor in Banco BPM (-0.4%), stated that rival MPS’s (1.5%) offer was unattractive. Defense stocks advanced, with Leonardo (1.1%) and Fincantieri (0.5%) benefiting from the munitions shortage highlighted by the Pentagon. Meanwhile, Italy is considering extending its general excise tax cut amid rising energy costs. The country became the EU's top LNG importer in July, supported by government incentives, resulting in higher inventories in August, while the EU average runs lower. Utilities outperformed as European gas prices fell, led by Terna (2.9%)."
+    },
+    {
+      "id": "mkt:01a0a5cb-8c28-7118-859f-baeb0677a3e0",
+      "time": "2026-09-15 23:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Secretary Bessent said he believes the US has the necessary tools."
+    },
+    {
+      "id": "mkt:01a0a5cb-74e8-7118-859f-b0de95dfb00a",
+      "time": "2026-09-15 23:59:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury does not set an equilibrium price for yields."
+    },
+    {
+      "id": "5095813",
+      "time": "2026-09-15 23:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我相信我們擁有必要的工具。"
+    },
+    {
+      "id": "5095812",
+      "time": "2026-09-15 23:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們不會為收益率水平設定均衡價格。"
+    },
+    {
+      "id": "5095811",
+      "time": "2026-09-15 23:58:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破105美元/桶，日內漲3.58%。"
+    },
+    {
+      "id": "te:markets:583943",
+      "time": "2026-09-15 23:58:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 17-week High — Crude Oil increased to 104.98 USD/Bbl, the highest since May 2026. Over the past 4 weeks, Crude Oil gained 24.04%, and in the last 12 months, it increased 62.46%."
+    },
+    {
+      "id": "5095810",
+      "time": "2026-09-15 23:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【輸油管道遇襲後 沙特阿美據悉推遲向部分歐洲客戶供應石油】據知情人士透露，沙特阿美本月正推遲向部分歐洲客戶供應石油。就在幾天前，沙特一條關鍵的石油出口管道在遭到無人機襲擊後關閉。知情人士表示，目前尚未明確這些長期合同貨物將延遲多久。此次供應受阻凸顯出沙特這條管道關閉所造成的影響。在伊朗戰爭期間，這條管道一直是沙特將原油輸往全球市場的主要渠道。"
+    },
     {
       "id": "5095809",
       "time": "2026-09-15 23:56:52",
@@ -124034,62 +124152,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼：我們現在比美國一年半前發起這場貿易戰時更強大，更加團結、更加堅定、更有雄心。"
-    },
-    {
-      "id": "te:economy:582112",
-      "time": "2026-09-09 00:02:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tanzania",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Tanzania Inflation Rate Hits Near 3-1/2-Year High — The annual inflation rate in Tanzania inched up to 4.3% in August 2026 from 4.2% in July, reaching the highest level since April 2023. Upward pressure came primarily from prices of transportation (13.8% vs 13.8% in July); education (3.2% vs 2.8%); restaurants & hotels (3% vs 2.7%); furnishings & household equipment (2.6% vs 2.2%) and housing & utilities (2.5% vs 1.6%). Meanwhile, softer price growth was seen for other CPI items such as food & non-alcoholic beverages (3.7% vs 4.1%) and alcoholic beverages & tobacco (1.5% vs 1.9%). On a monthly basis, the CPI rose by 0.1% in August, after decreasing by a similar margin in July."
-    },
-    {
-      "id": "5083509",
-      "time": "2026-09-09 00:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港國際公益慈善論壇閉幕】第五屆香港國際公益慈善論壇8日在香港西九文化區閉幕，並隆重慶祝論壇創辦十週年。本次論壇由香港賽馬會慈善信託基金主辦、公益慈善研究院協辦，以“躍動惠群 善行致遠”為主題，會聚全球逾80位知名講者及約2000名各界代表，共同探討公益慈善事業的轉型、挑戰與機遇。（新華社）"
-    },
-    {
-      "id": "te:markets:582111",
-      "time": "2026-09-09 00:00:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Little Changed on Tuesday — The FTSE 100 was little changed on Tuesday, with declines across pharma, consumer and banking stocks offset by gains in commodity-related shares. AstraZeneca fell 1.3%, while GSK dropped 2.5%. BAT declined 0.7% and Rolls-Royce slipped 0.5%, while Lloyds Banking led losses among the banks, falling 1.2%. Computacenter closed 5% lower after initially rallying on strong results. In contrast, energy and mining stocks advanced as commodity prices strengthened. Shell gained 0.7% and BP rose 0.8%, while Rio Tinto added 1.5%, and Glencore surged 4% as copper prices extended their gains to another record high. Higher oil prices added to concerns that inflationary pressures could keep interest rates elevated, with Brent crude approaching $100 a barrel before paring some gains. Meanwhile, UK retail sales increased 0.7% in August, according to the British Retail Consortium, significantly below the 1.6% 12-month average and the 3.1% growth recorded in August last year."
-    },
-    {
-      "id": "5083508",
-      "time": "2026-09-08 23:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本名古屋遭強降雨 多處亞運會場館漏雨】據日本共同社報道，日本愛知縣名古屋市8日遭遇強降雨，部分地區降雨量創歷史最高紀錄。暴雨已造成愛知縣4人受傷，嚴重影響當地交通，並導致多處亞運會場館漏雨。（新華社）"
-    },
-    {
-      "id": "5083507",
-      "time": "2026-09-08 23:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟石油小組：中東衝突、冬季因素或進一步收緊市場。"
-    },
-    {
-      "id": "5083506",
-      "time": "2026-09-08 23:58:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國堪薩斯州共和黨參議員馬歇爾表示，在特朗普威脅禁售龐巴迪飛機後，他將竭力保住龐巴迪在堪薩斯州的1200多個工作崗位。"
     }
   ]
 }

@@ -1,7 +1,99 @@
 {
   "date": "2026-09-15",
-  "count": 2367,
+  "count": 2376,
   "items": [
+    {
+      "id": "mkt:01a0a5cb-94a3-7118-859f-c206c2b4d453",
+      "time": "2026-09-15 23:59:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose to $105 a barrel, the highest since May, gaining 3.05% on the day."
+    },
+    {
+      "id": "te:markets:583944",
+      "time": "2026-09-15 23:59:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 51,555 on Tuesday, amid gains in defense and utilities while heavyweight financials were mixed amid ongoing merger talks. UniCredit fell 2.3% after holding talks with the German Finance Minister regarding its stake in Commerzbank. The Italian lender expects to take full ownership of the stake by the fourth quarter. Credit Agricole, the largest investor in Banco BPM (-0.4%), stated that rival MPS’s (1.5%) offer was unattractive. Defense stocks advanced, with Leonardo (1.1%) and Fincantieri (0.5%) benefiting from the munitions shortage highlighted by the Pentagon. Meanwhile, Italy is considering extending its general excise tax cut amid rising energy costs. The country became the EU's top LNG importer in July, supported by government incentives, resulting in higher inventories in August, while the EU average runs lower. Utilities outperformed as European gas prices fell, led by Terna (2.9%)."
+    },
+    {
+      "id": "mkt:01a0a5cb-8c28-7118-859f-baeb0677a3e0",
+      "time": "2026-09-15 23:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Secretary Bessent said he believes the US has the necessary tools."
+    },
+    {
+      "id": "mkt:01a0a5cb-74e8-7118-859f-b0de95dfb00a",
+      "time": "2026-09-15 23:59:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury does not set an equilibrium price for yields."
+    },
+    {
+      "id": "5095813",
+      "time": "2026-09-15 23:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我相信我們擁有必要的工具。"
+    },
+    {
+      "id": "5095812",
+      "time": "2026-09-15 23:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們不會為收益率水平設定均衡價格。"
+    },
+    {
+      "id": "5095811",
+      "time": "2026-09-15 23:58:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破105美元/桶，日內漲3.58%。"
+    },
+    {
+      "id": "te:markets:583943",
+      "time": "2026-09-15 23:58:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 17-week High — Crude Oil increased to 104.98 USD/Bbl, the highest since May 2026. Over the past 4 weeks, Crude Oil gained 24.04%, and in the last 12 months, it increased 62.46%."
+    },
+    {
+      "id": "5095810",
+      "time": "2026-09-15 23:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【輸油管道遇襲後 沙特阿美據悉推遲向部分歐洲客戶供應石油】據知情人士透露，沙特阿美本月正推遲向部分歐洲客戶供應石油。就在幾天前，沙特一條關鍵的石油出口管道在遭到無人機襲擊後關閉。知情人士表示，目前尚未明確這些長期合同貨物將延遲多久。此次供應受阻凸顯出沙特這條管道關閉所造成的影響。在伊朗戰爭期間，這條管道一直是沙特將原油輸往全球市場的主要渠道。"
+    },
     {
       "id": "5095809",
       "time": "2026-09-15 23:56:52",
