@@ -1,7 +1,144 @@
 {
   "date": "2026-09-16",
-  "count": 217,
+  "count": 231,
   "items": [
+    {
+      "id": "mkt:01a0a691-3a2c-7118-85a3-13b0e34c7cf3",
+      "time": "2026-09-16 03:35:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil futures settle sharply higher】At the close, NYMEX October light sweet crude rose $4.44 to settle at $105.83/bbl, a 4.38% gain. ICE Brent November rose $3.07 to settle at $108.75/bbl, up 2.9%."
+    },
+    {
+      "id": "5095939",
+      "time": "2026-09-16 03:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，其在加沙南部打擊一名哈馬斯高階人員，軍方電臺表示此次襲擊目標為哈馬斯拉法旅指揮官。"
+    },
+    {
+      "id": "5095937",
+      "time": "2026-09-16 03:34:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日顯著上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.44美元，收於每桶105.83美元，漲幅為4.38%；11月交貨的倫敦布倫特原油期貨價格上漲3.07美元，收於每桶108.75美元，漲幅為2.9%。"
+    },
+    {
+      "id": "mkt:01a0a68f-3678-7118-85a3-0bcfe9dee6a4",
+      "time": "2026-09-16 03:33:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Central Command said as of Sept. 15 it had forced 103 commercial vessels to change course to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5095936",
+      "time": "2026-09-16 03:33:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至9月15日，美軍已要求103艘商船改變航向，迫使其遵守相關封鎖規定。"
+    },
+    {
+      "id": "5095934",
+      "time": "2026-09-16 03:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷總統米萊新聞辦公室對外公佈2027年預算預測：阿根廷2027年經濟預計增長4%，全年平均通脹率為21.1%，比索兌美元平均匯率預計為1美元兌換1728比索。"
+    },
+    {
+      "id": "mkt:01a0a68c-f5c3-7118-85a3-020270190808",
+      "time": "2026-09-16 03:30:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Al Arabiya cited a Yemeni military source who told Deutsche Presse-Agentur that Houthi forces have dug trenches in mountains overlooking the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5095933",
+      "time": "2026-09-16 03:27:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加密貨幣法案折戟美國參議院 比特幣、以太幣跌至6月以來最低】美國參議院兩黨議員週二在一次程式性投票中阻止推進一項具有里程碑意義的數字資產市場結構法案。民主黨人稱，他們對涉及處理特朗普加密貨幣商業利益的道德規範條款感到擔憂。比特幣應聲擴大跌幅，一度下跌5.3%至74,910美元。以太幣也走低，一度下跌逾8.3%，一些規模較小的代幣跌幅更大。比特幣和以太幣價格創下6月以來最低水平。"
+    },
+    {
+      "id": "5095932",
+      "time": "2026-09-16 03:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與法國總統馬克龍進行了交談，詳細探討了烏外交程序的現狀。"
+    },
+    {
+      "id": "mkt:01a0a688-3b2e-7118-85a2-ff377e2f2966",
+      "time": "2026-09-16 03:25:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "CRM.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "【Amodei: Enterprise AI adoption still early, needs more support】Anthropic CEO Dario Amodei and Salesforce CEO Marc Benioff said enterprise AI deployment remains nascent and requires more support to realize its full value. Speaking at Salesforce’s Dreamforce, Amodei estimated only about 5–10% of AI’s economic value is being captured, leaving significant upside for corporate investment. Benioff said firms show wide variation in AI uptake and need help accelerating digital transformation; Salesforce has integrated Anthropic’s Claude into its product suite. Nvidia CEO Jensen Huang said AI safety should be driven by market mechanisms, not new regulation, and argued firms can manage risk by pacing development and releasing safer models."
+    },
+    {
+      "id": "5095928",
+      "time": "2026-09-16 03:24:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：並不真正預期透過併購實現的無機增長會成為企業與投資銀行(CIB)業務的增長機會，因為門檻非常非常高。"
+    },
+    {
+      "id": "5095927",
+      "time": "2026-09-16 03:23:01",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通預計第三季度投資銀行和交易業務將實現增長】摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，這與美國銀行週一發出的警告形成鮮明對比。摩根大通聯席總裁Doug Petno週二在巴克萊舉行的會議上表示，截至9月30日的季度，交易收入預計將同比增長約15%至19%。他表示，該行投資銀行手續費收入預計也將錄得類似增幅。"
+    },
+    {
+      "id": "te:markets:583970",
+      "time": "2026-09-16 03:21:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rally Intensifies on Middle East Risks — Brent crude rose to around $108.5 a barrel on Tuesday, its highest level in four months, after Saudi Arabia reportedly cancelled some shipments following drone attacks that forced the closure of its key export pipeline. Saudi Arabia reportedly informed European customers that some September deliveries were cancelled, while oil loadings at Yanbu were suspended. Meanwhile, Iran-backed Houthi militants renewed strikes on Saudi Arabia this week. Security in the Strait of Hormuz remains volatile, with at least two tankers attacked since Saturday. Commodity vessel traffic through the strait fell to four on Monday from 10 a day earlier, Kpler data showed. In Libya, the national oil company suspended operations at two oilfields and a pumping station amid protests. Russia also struck petrol stations in Kyiv and Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
+    },
+    {
+      "id": "mkt:01a0a683-a2ad-7118-85a2-f04f5eb41ffa",
+      "time": "2026-09-16 03:20:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense department said the threat in Khamis Mushait has been eliminated."
+    },
     {
       "id": "5095926",
       "time": "2026-09-16 03:20:25",

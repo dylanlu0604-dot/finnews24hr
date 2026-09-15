@@ -1,7 +1,144 @@
 {
-  "updated": "2026-09-16 03:33:57",
-  "count": 13439,
+  "updated": "2026-09-16 03:50:31",
+  "count": 13441,
   "items": [
+    {
+      "id": "mkt:01a0a691-3a2c-7118-85a3-13b0e34c7cf3",
+      "time": "2026-09-16 03:35:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil futures settle sharply higher】At the close, NYMEX October light sweet crude rose $4.44 to settle at $105.83/bbl, a 4.38% gain. ICE Brent November rose $3.07 to settle at $108.75/bbl, up 2.9%."
+    },
+    {
+      "id": "5095939",
+      "time": "2026-09-16 03:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，其在加沙南部打擊一名哈馬斯高階人員，軍方電臺表示此次襲擊目標為哈馬斯拉法旅指揮官。"
+    },
+    {
+      "id": "5095937",
+      "time": "2026-09-16 03:34:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日顯著上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.44美元，收於每桶105.83美元，漲幅為4.38%；11月交貨的倫敦布倫特原油期貨價格上漲3.07美元，收於每桶108.75美元，漲幅為2.9%。"
+    },
+    {
+      "id": "5095936",
+      "time": "2026-09-16 03:33:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至9月15日，美軍已要求103艘商船改變航向，迫使其遵守相關封鎖規定。"
+    },
+    {
+      "id": "mkt:01a0a68f-3678-7118-85a3-0bcfe9dee6a4",
+      "time": "2026-09-16 03:33:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Central Command said as of Sept. 15 it had forced 103 commercial vessels to change course to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5095934",
+      "time": "2026-09-16 03:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷總統米萊新聞辦公室對外公佈2027年預算預測：阿根廷2027年經濟預計增長4%，全年平均通脹率為21.1%，比索兌美元平均匯率預計為1美元兌換1728比索。"
+    },
+    {
+      "id": "mkt:01a0a68c-f5c3-7118-85a3-020270190808",
+      "time": "2026-09-16 03:30:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Al Arabiya cited a Yemeni military source who told Deutsche Presse-Agentur that Houthi forces have dug trenches in mountains overlooking the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5095933",
+      "time": "2026-09-16 03:27:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加密貨幣法案折戟美國參議院 比特幣、以太幣跌至6月以來最低】美國參議院兩黨議員週二在一次程式性投票中阻止推進一項具有里程碑意義的數字資產市場結構法案。民主黨人稱，他們對涉及處理特朗普加密貨幣商業利益的道德規範條款感到擔憂。比特幣應聲擴大跌幅，一度下跌5.3%至74,910美元。以太幣也走低，一度下跌逾8.3%，一些規模較小的代幣跌幅更大。比特幣和以太幣價格創下6月以來最低水平。"
+    },
+    {
+      "id": "5095932",
+      "time": "2026-09-16 03:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與法國總統馬克龍進行了交談，詳細探討了烏外交程序的現狀。"
+    },
+    {
+      "id": "mkt:01a0a688-3b2e-7118-85a2-ff377e2f2966",
+      "time": "2026-09-16 03:25:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "CRM.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "【Amodei: Enterprise AI adoption still early, needs more support】Anthropic CEO Dario Amodei and Salesforce CEO Marc Benioff said enterprise AI deployment remains nascent and requires more support to realize its full value. Speaking at Salesforce’s Dreamforce, Amodei estimated only about 5–10% of AI’s economic value is being captured, leaving significant upside for corporate investment. Benioff said firms show wide variation in AI uptake and need help accelerating digital transformation; Salesforce has integrated Anthropic’s Claude into its product suite. Nvidia CEO Jensen Huang said AI safety should be driven by market mechanisms, not new regulation, and argued firms can manage risk by pacing development and releasing safer models."
+    },
+    {
+      "id": "5095928",
+      "time": "2026-09-16 03:24:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：並不真正預期透過併購實現的無機增長會成為企業與投資銀行(CIB)業務的增長機會，因為門檻非常非常高。"
+    },
+    {
+      "id": "5095927",
+      "time": "2026-09-16 03:23:01",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通預計第三季度投資銀行和交易業務將實現增長】摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，這與美國銀行週一發出的警告形成鮮明對比。摩根大通聯席總裁Doug Petno週二在巴克萊舉行的會議上表示，截至9月30日的季度，交易收入預計將同比增長約15%至19%。他表示，該行投資銀行手續費收入預計也將錄得類似增幅。"
+    },
+    {
+      "id": "te:markets:583970",
+      "time": "2026-09-16 03:21:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rally Intensifies on Middle East Risks — Brent crude rose to around $108.5 a barrel on Tuesday, its highest level in four months, after Saudi Arabia reportedly cancelled some shipments following drone attacks that forced the closure of its key export pipeline. Saudi Arabia reportedly informed European customers that some September deliveries were cancelled, while oil loadings at Yanbu were suspended. Meanwhile, Iran-backed Houthi militants renewed strikes on Saudi Arabia this week. Security in the Strait of Hormuz remains volatile, with at least two tankers attacked since Saturday. Commodity vessel traffic through the strait fell to four on Monday from 10 a day earlier, Kpler data showed. In Libya, the national oil company suspended operations at two oilfields and a pumping station amid protests. Russia also struck petrol stations in Kyiv and Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
+    },
+    {
+      "id": "mkt:01a0a683-a2ad-7118-85a2-f04f5eb41ffa",
+      "time": "2026-09-16 03:20:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense department said the threat in Khamis Mushait has been eliminated."
+    },
     {
       "id": "5095926",
       "time": "2026-09-16 03:20:25",
@@ -123774,127 +123911,6 @@
         "國際"
       ],
       "text": "【報道：伊朗對美國海軍艦艇發動未公開的第二次襲擊】據美國官員透露，繼上週末向美軍航空母艦和驅逐艦發射導彈之後，伊朗於週一對美國海軍艦艇發動了一場未被美方公開承認的襲擊。官員稱，襲擊沒有造成任何美國艦船受損。但伊朗近期屢次嘗試打擊美軍海上力量，引發各方警惕。"
-    },
-    {
-      "id": "5083645",
-      "time": "2026-09-09 03:49:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（9月8日）紐約尾盤，ICE阿拉比卡咖啡期貨跌3.22%，咖啡“C”期貨跌1.91%。紐約可可期貨跌4.22%，報5927美元/噸。芝加哥WCE雙低油菜籽期貨漲2.27%。ICE棉花期貨漲0.07%。"
-    },
-    {
-      "id": "mkt:01a0828f-283a-7118-84f4-1ebe1de79ad5",
-      "time": "2026-09-09 03:46:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Turkey's Foreign Ministry said Turkey strongly condemned Houthi attacks on Saudi Arabia."
-    },
-    {
-      "id": "5083644",
-      "time": "2026-09-09 03:46:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部：土耳其強烈譴責胡塞武裝對沙烏地阿拉伯發動襲擊。"
-    },
-    {
-      "id": "5083643",
-      "time": "2026-09-09 03:45:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通CEO：可鎖定 2027 年晶片供應，目前正在敲定 2028 年的供應。"
-    },
-    {
-      "id": "mkt:01a0828e-29d6-7118-84f4-15efac79711e",
-      "time": "2026-09-09 03:45:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) CEO said the company can secure chip supply for 2027 and is currently securing supply for 2028."
-    },
-    {
-      "id": "5083642",
-      "time": "2026-09-09 03:39:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士稱美導彈襲擊哈爾克島附近的伊朗油輪】當地時間8日晚，總檯記者自伊朗方面獲悉，一艘伊朗油輪在距離哈爾克島4英里處遭到美軍導彈襲擊。當地訊息人士稱，事件中無人傷亡，油輪船員正在撤離。相關部門正在調查有關事件的具體情況。目前伊朗官方及美國方面暫無訊息。（央視新聞）"
-    },
-    {
-      "id": "te:economy:582140",
-      "time": "2026-09-09 03:39:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Argentina Manufacturing Output Falls in July — Argentina’s manufacturing output fell 4.9% year-on-year in July 2026, extending a 2.6% decline in the first seven months of the year. Twelve of the 16 manufacturing divisions posted annual declines. The steepest falls came from other equipment, appliances and instruments (-31.4%), machinery and equipment (-26.7%), clothing, leather and footwear (-15.9%), textiles (-13.0%), non-metallic mineral products (-12.6%), tobacco products (-12.3%), rubber and plastic products (-9.1%), furniture and other manufacturing (-9.1%), metal products (-8.4%), motor vehicles and auto parts (-5.4%), chemicals (-1.3%), and food and beverages (-0.5%). Meanwhile, output increased in petroleum refining (8.1%), wood, paper and printing (7.1%), other transport equipment (2.6%), and basic metals (1.6%). On a seasonally adjusted monthly basis, manufacturing output fell 5.0% in July, while the trend-cycle index declined 0.9%."
-    },
-    {
-      "id": "5083641",
-      "time": "2026-09-09 03:38:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬薩諸塞州州長簽署資料中心相關行政令，要求專案須獲得地方批准。"
-    },
-    {
-      "id": "mkt:01a08286-be73-7118-84f4-0f5f0fd64db2",
-      "time": "2026-09-09 03:37:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fox News, citing U.S. senior officials, reported the U.S. military struck targets near Hormuz Island and Jask, including Iranian oil tankers. Officials said the strikes are part of a broader campaign to economically squeeze Iran, with a strategy that includes sinking or disabling Iranian crude tankers."
-    },
-    {
-      "id": "5083640",
-      "time": "2026-09-09 03:37:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "福克斯新聞援引美國官員訊息：美軍對哈爾克島附近目標實施打擊。美方打擊目標包括伊朗油輪。"
-    },
-    {
-      "id": "5083639",
-      "time": "2026-09-09 03:36:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部哈爾克島傳出爆炸聲】總檯記者當地時間8日從伊朗方面獲悉，有訊息稱該國南部哈爾克島部分地區傳出數次爆炸聲。此外，當地時間當天21時45分左右，伊朗南部賈斯克地區傳出爆炸聲。目前伊朗官方暫無訊息披露。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a08285-7270-7118-84f4-063d635c01ef",
-      "time": "2026-09-09 03:36:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "【Meta Platforms (META.O) launches personal AI agent Muse; top tier $100/month】Meta Platforms (META.O) launched Muse, a personal AI agent for tasks such as scheduling, form‑filling and home camera monitoring. Muse is powered by Meta’s Muse Spark base models and is offered as a free tier plus $20/month and $100/month subscription plans. Meta AI head Alexander Wang said Muse runs in an isolated environment on Meta’s compute infrastructure, will not read actual passwords or payment data, and will request confirmation before performing sensitive actions; users may opt in to allow Meta to use interaction data for model training after removal of key personal identifiers. Meta said it is exploring commerce and in‑agent transaction monetization as it faces AI safety and privacy scrutiny and pressure on AI returns; CEO Mark Zuckerberg has framed personal AI agents as a future product and revenue priority."
     }
   ]
 }
