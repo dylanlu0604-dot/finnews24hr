@@ -1,7 +1,154 @@
 {
-  "updated": "2026-09-15 14:23:42",
-  "count": 13576,
+  "updated": "2026-09-15 14:27:34",
+  "count": 13593,
   "items": [
+    {
+      "id": "5094508",
+      "time": "2026-09-15 14:26:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寧德時代跌超6%創1年以來新低 A+H股總市值跌破1.5萬億】午後鋰電池龍頭寧德時代擴大跌幅至超6%，股價創1年以來新低，從2026年5月7日創出的歷史高點累計下跌超32%，A+H股總市值跌破1.5萬億元。"
+    },
+    {
+      "id": "5094507",
+      "time": "2026-09-15 14:26:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼表示，更換財長旨在強化政策執行。"
+    },
+    {
+      "id": "5094506",
+      "time": "2026-09-15 14:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 日本自衛隊一架 “全球鷹” 無人機失去聯絡。"
+    },
+    {
+      "id": "mkt:01a0a3be-f087-7118-858b-877723b59de5",
+      "time": "2026-09-15 14:26:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BeiDou summit to sign 41 projects; contracts total 5.54 bln yuan, 4 international deals 1.45 bln yuan】At the Fifth BeiDou Large-scale Application International Summit in Zhuzhou, Hunan, 41 projects are planned for signing with contracted investment and contract value totalling 5.54 bln yuan. International cooperation comprises four projects worth 1.45 bln yuan, both record highs. Last year China’s BeiDou spatio-temporal industry output exceeded 600 bln yuan, reaching 629 bln yuan; Hunan’s BeiDou industry output was 78.2 bln yuan, about 12% of the national total and up 28.2% YoY."
+    },
+    {
+      "id": "mkt:01a0a3be-18d1-7118-858b-7ea0cd23d41a",
+      "time": "2026-09-15 14:25:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas reported Yemen's armed forces thwarted a Houthi infiltration attempt in Harib, southern Marib province."
+    },
+    {
+      "id": "5094505",
+      "time": "2026-09-15 14:25:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎通科技成立液冷科技公司 註冊資本1億元】企查查APP顯示，近日，鼎通液冷（信陽）科技有限公司成立，法定代表人為王成海，註冊資本為1億元，經營範圍包含通訊裝置銷售；光通訊裝置製造；光通訊裝置銷售；機械電氣裝置銷售；光電子器件製造等。企查查股權穿透顯示，該公司由鼎通科技(688668)全資持股。"
+    },
+    {
+      "id": "5094504",
+      "time": "2026-09-15 14:25:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東計劃2028年底資料跨境產業規模超2000億元】廣東省政務服務和資料管理局15日對外發布《廣東省建設粵港澳大灣區資料特區工作方案》，方案指出，計劃至2028年底，資料跨境產業規模超2000億元，資料跨境產業拉動的製造業、服務業等相關產業增加值達萬億元。 建設特定基礎設施。推進“港數粵算”“澳數粵算”等跨境算力互聯互通；建設省區塊鏈網路與跨境可信資料空間，探索“空間即服務”；最佳化跨境通訊樞紐，支援基礎電信企業擴容直連港澳光纜。 打造特色應用場景。圍繞產業、民生、治理部署資料服務、醫療、教育、科研、製造、貿易、金融、便利化服務、協同化治理九類場景，涵蓋“來數加工”、跨境診療、智慧網聯汽車、跨境電商陽光化、數字人民幣、社保服務“灣區通”等。 培育特優服務生態。建設資料特區創新合作中心，培育合規安全、流通交易、技術服務三類生態，降低企業跨境合規與應用門檻。 構建國際合作平臺。支援廣州(南沙)、深圳(前海、河套)、橫琴、汕頭立足各自優勢，深化與共建“一帶一路”國家、葡語國家、東南亞及拉美等地區的跨境資料合作。（中新網）"
+    },
+    {
+      "id": "mkt:01a0a3bd-7e24-7118-858b-77fafdf08cf6",
+      "time": "2026-09-15 14:24:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "HSBC raised its PT on SpaceX (SPCX.O) to $150 from $117."
+    },
+    {
+      "id": "5094503",
+      "time": "2026-09-15 14:24:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門武裝部隊空軍襲擊了胡塞武裝位於赫蘭山下的武器庫、朱巴的武器庫。"
+    },
+    {
+      "id": "mkt:01a0a3bc-b76d-7118-858b-6aa17f2db61a",
+      "time": "2026-09-15 14:24:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Glapinski, governor of the Polish central bank, said the bank forecasts inf will rise to about 4% in Dec 2026 and could reach 4.3% in June 2027."
+    },
+    {
+      "id": "mkt:01a0a3bc-b593-7118-858b-62b468609b00",
+      "time": "2026-09-15 14:24:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【French power-sector strike pressures European winter gas refill】A 24-hour strike in France’s power sector on Tuesday is set to cut deliverability at the Dunkirk LNG terminal to about 4 GWh per day from 07:00 GMT, Fluxys said, versus the terminal’s usual minimum of 9.4 GWh/day. Unions called action at state nuclear operator EDF, Belgian regas operator Fluxys and French regas operator Elengy to protest a Court of Audit recommendation to reduce staff benefits, including access to cheaper electricity. The strike arrives as Europe races to refill gas stocks ahead of winter; France is one of Europe’s largest natural gas exporters and Germany and other gas-dependent countries are behind EU storage targets."
+    },
+    {
+      "id": "5094502",
+      "time": "2026-09-15 14:24:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：今年已投放民間投資專項擔保計劃貸款123.3億元】湖北舉行“深化財政金融協同聯動 賦能科技創新和高質量發展”新聞釋出會。湖北省財政廳介紹，今年以來，已投放民間投資專項擔保計劃貸款123.3億元，惠及企業近2萬戶，位居全國前列。建立覆蓋全省的應急轉貸服務體系，應急轉貸紓困基金規模超過40億元，今年新增轉貸規模超過497億元，為超過4700家企業降低轉貸續貸成本約16.6億元。"
+    },
+    {
+      "id": "mkt:01a0a3bc-6b1b-7118-858b-58939888e5b1",
+      "time": "2026-09-15 14:23:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank Governor GLAPINSKI said easing fiscal policy could prolong disinflation."
+    },
+    {
+      "id": "mkt:01a0a3bc-5488-7118-858b-55706615f481",
+      "time": "2026-09-15 14:23:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank Governor Glapinski said policy rates may remain unchanged through end-2026 and a rate hike in Q1 2027 cannot be ruled out."
+    },
+    {
+      "id": "5094501",
+      "time": "2026-09-15 14:23:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長：波蘭國家銀行（NBP）預測顯示，2026年12月通脹將升至約4%，2027年6月通脹可能達到4.3%。"
+    },
+    {
+      "id": "5094500",
+      "time": "2026-09-15 14:23:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長扎熱茨基：寬鬆財政政策或延長抗通脹程序。"
+    },
+    {
+      "id": "5094499",
+      "time": "2026-09-15 14:23:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【ITU-T SG17內容週會議在渝召開 中國信通院深度參與人工智慧安全等領域標準化交流】2026年9月7-11日，國際電信聯盟電信標準化部門第17研究組（ITU-T SG17）第二次內容週會議在重慶召開。本次會議由ITU主辦，中國汽車工程研究院股份有限公司（簡稱“中國汽研”）、中國資訊通訊研究院（簡稱“中國信通院”）承辦，得到工業和資訊化部科技司、重慶市經濟和資訊化委員會、重慶市通訊管理局大力支援。會議匯聚中國、韓國、日本、美國、英國、瑞士等30餘個國家的280餘名行業代表、技術專家參會，圍繞人工智慧安全、網路安全、汽車安全等標準化重點方向開展深度研討。（中國信通院）"
+    },
     {
       "id": "mkt:01a0a3bb-5319-7118-858b-4ad381d35b45",
       "time": "2026-09-15 14:22:37",
