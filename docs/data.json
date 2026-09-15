@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-16 00:33:35",
-  "count": 13454,
+  "updated": "2026-09-16 00:37:26",
+  "count": 13455,
   "items": [
+    {
+      "id": "mkt:01a0a5ec-f0f6-7118-85a0-60afbe274a36",
+      "time": "2026-09-16 00:36:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian Foreign Minister Araghchi dismissed US officials' claims that Iran lacks defensive capabilities as unfounded and said Iran will disclose the true number of US military casualties at an appropriate time."
+    },
+    {
+      "id": "5095829",
+      "time": "2026-09-16 00:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：虛構說法稱伊朗毫無防禦能力。事實卻是， 美國國防部發布的訊息稱數百處美軍軍事設施被炸得粉碎，數十架軍機被燒燬。而這僅僅只是冰山一角。我們將在適當時機披露全部真相。對於那些編造有關伊朗謊言的人，結局不會好看。"
+    },
     {
       "id": "5095828",
       "time": "2026-09-16 00:30:29",
@@ -124067,18 +124087,6 @@
         "MKT News"
       ],
       "text": "【Irish regulator probes Musk's X over child-safety practices】Semafor reports the Irish Media Commission is investigating Elon Musk’s social platform X over child-safety practices, focusing on its age-verification mechanisms and parental controls. The regulator said it will assess whether X effectively implements age safeguards and whether it provides adequate protection for users under 16 where adult content is allowed; it flagged parental-control features as potentially inadequate, hard to find, and not sufficiently highlighted to new users. If found to breach Irish online-safety regulations, X could face fines of up to €20m or 10% of the company’s annual turnover."
-    },
-    {
-      "id": "te:markets:582123",
-      "time": "2026-09-09 00:36:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Close Muted for 4th Session — European stocks closed with small movements for a fourth session as the outlook of higher interest rates by the European Central Bank dented the market's demand for more risk. The Euro STOXX 50 inched higher by 0.1% to 6,413 and the STOXX 600 closed flat at 649.6. Traders added positions that correspond to multiple rate hikes by the ECB this year as natural gas prices benchmark rose to their highest since the Russian invasion of Ukraine, lifting inflation risks and sovereign yields. The central bank is largely expected to deliver a rate hike this week. Industrial stocks closed higher after underperforming in recent sessions, with Rheinmetall, Airbus, and Schneider adding over 2%. On the other hand, insurers remained under pressure with Munich Re and AXA down 2% and 1%, respectively. Luxury brands also dropped after Chinese trade data, with Ferrari and Hermes slipping 2%."
     }
   ]
 }

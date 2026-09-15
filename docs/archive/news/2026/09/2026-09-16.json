@@ -1,7 +1,27 @@
 {
   "date": "2026-09-16",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a0a5ec-f0f6-7118-85a0-60afbe274a36",
+      "time": "2026-09-16 00:36:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian Foreign Minister Araghchi dismissed US officials' claims that Iran lacks defensive capabilities as unfounded and said Iran will disclose the true number of US military casualties at an appropriate time."
+    },
+    {
+      "id": "5095829",
+      "time": "2026-09-16 00:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：虛構說法稱伊朗毫無防禦能力。事實卻是， 美國國防部發布的訊息稱數百處美軍軍事設施被炸得粉碎，數十架軍機被燒燬。而這僅僅只是冰山一角。我們將在適當時機披露全部真相。對於那些編造有關伊朗謊言的人，結局不會好看。"
+    },
     {
       "id": "5095828",
       "time": "2026-09-16 00:30:29",
