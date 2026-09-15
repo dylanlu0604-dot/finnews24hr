@@ -1,7 +1,130 @@
 {
   "date": "2026-09-15",
-  "count": 668,
+  "count": 680,
   "items": [
+    {
+      "id": "mkt:01a0a2b8-9450-7118-8582-ecc5c23e9207",
+      "time": "2026-09-15 09:40:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【BlackRock pivots to overweight emerging-market equities, bets on AI-driven resource demand and earnings edge】BlackRock now recommends overweighting emerging-market equities, saying AI-driven demand for scarce inputs and stronger corporate profitability should help EM outperform, Wei Li and other strategists wrote in a Monday note. The firm singled out South Korea and Taiwan as central to semiconductor and memory supply chains and flagged Latin America as providing bulk commodities and infrastructure exposure for AI buildout. The change reverses a June downgrade to neutral—then justified by AI concentration and leverage risks, especially in Korea—with BlackRock saying Korea’s de-leveraging after July’s large sell-off supports the return to overweight."
+    },
+    {
+      "id": "mkt:01a0a2b8-431e-7118-8582-e766899b83cb",
+      "time": "2026-09-15 09:39:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share MLCC theme remained active: Shuangxing New Materials notched a third consecutive limit-up, Huaci Co. hit the daily limit, and Chunguang Group, Kangda New Materials, Shangluo Electronics and Hongda Electronics also rose."
+    },
+    {
+      "id": "5094149",
+      "time": "2026-09-15 09:39:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4952.00元。"
+    },
+    {
+      "id": "5094148",
+      "time": "2026-09-15 09:39:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "MLCC概念反覆活躍，雙星新材3連板，華瓷股份漲停，春光集團、康達新材、商絡電子、宏達電子跟漲。"
+    },
+    {
+      "id": "5094147",
+      "time": "2026-09-15 09:39:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軟體開發板塊短線走高，漢王科技、海量資料漲停】軟體開發板塊短線走高，漢王科技、海量資料漲停，眾誠科技漲超10%，永信至誠、數字認證、星環科技、英方軟體、格爾軟體跟漲。"
+    },
+    {
+      "id": "5094146",
+      "time": "2026-09-15 09:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧概念股反彈 海清智元漲近6%】截至發稿，海清智元(01392.HK)漲5.75%，天數智芯(09903.HK)漲3.98%，深遠智慧(02723.HK)漲3.92%。"
+    },
+    {
+      "id": "mkt:01a0a2b7-c13f-7118-8582-dbfa9cb2aa92",
+      "time": "2026-09-15 09:39:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail money-market 7-day yield snapshot】7-day annualized yields: Tencent Licaitong (Current+) 0.7660%–1.4150%; WeChat Lingqian Tong 0.8620%–1.0040%; Alipay Yu'ebao 0.9000%–1.0610%."
+    },
+    {
+      "id": "5094145",
+      "time": "2026-09-15 09:38:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【博鰲亞洲論壇2027年年會將於明年3月24日至27日舉行】9月15日，博鰲亞洲論壇在海口舉行亞太區域合作圓桌。其間，十四屆全國政協副主席，論壇中方首席代表、副理事長穆虹宣佈，博鰲亞洲論壇2027年年會初步定於3月24日至27日在中國海南博鰲舉行。"
+    },
+    {
+      "id": "mkt:01a0a2b6-e3e4-7118-8582-d0568fac6022",
+      "time": "2026-09-15 09:38:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【NBS: YoY declines in new-home prices across first-, second- and third-tier Chinese cities narrowed in August】National Bureau of Statistics data show August new-home prices in first-tier cities fell 0.9% YoY, a 0.2 ppt narrower decline from July. By city: Beijing -2.3% YoY, Guangzhou -1.9%, Shenzhen -2.3%, Shanghai +3.0%. New-home prices in second- and third-tier cities fell 2.7% and 4.1% YoY, respectively, each a 0.1 ppt narrower decline. In the resale market, secondhand prices in first-tier cities fell 2.7% YoY, a 1.0 ppt narrower decline from July; Beijing -3.5%, Shanghai -0.8%, Guangzhou -3.8%, Shenzhen -2.7%. Second- and third-tier secondhand prices fell 4.9% and 5.6% YoY, respectively, each narrowing 0.2 ppt."
+    },
+    {
+      "id": "mkt:01a0a2b6-920e-7118-8582-cb668c7f3a32",
+      "time": "2026-09-15 09:37:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share retail sector pulled back in early trade: Zhongbai Group, Nanning Department Store and Baida Group hit limit-down; Guofang Group, Guoguang Chain, Central Shopping Mall, Hangzhou Jiebai and Lishang Guochao also fell."
+    },
+    {
+      "id": "5094144",
+      "time": "2026-09-15 09:37:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5094143",
+      "time": "2026-09-15 09:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Netflix和世嘉將合作拍攝電影版《瘋狂計程車》。"
+    },
     {
       "id": "mkt:01a0a2b5-6ef9-7118-8582-c64a56efd8f5",
       "time": "2026-09-15 09:36:34",
