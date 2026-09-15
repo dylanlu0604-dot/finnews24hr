@@ -1,7 +1,204 @@
 {
-  "updated": "2026-09-15 14:19:52",
-  "count": 13564,
+  "updated": "2026-09-15 14:23:42",
+  "count": 13576,
   "items": [
+    {
+      "id": "mkt:01a0a3bb-5319-7118-858b-4ad381d35b45",
+      "time": "2026-09-15 14:22:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD Auto said its fleet of assisted-driving (ADAS) vehicles exceeds 3.72 million units."
+    },
+    {
+      "id": "5094498",
+      "time": "2026-09-15 14:22:30",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【2026年全球工商法治大會在海口成功舉辦】9月15日，2026年全球工商法治大會在海口舉行。中國貿促會會長任鴻斌，海南省省長劉小明,司法部副部長李明徵，國際統一私法協會榮譽主席瑪利亞·基婭·馬拉古蒂，中國法學會副會長王振江，國際保護智慧財產權協會總報告人拉爾夫・納克，全國政協常委、上海公共外交協會會長周漢民，世界貿易組織上訴機構前主席彼得・範德博思，中國農業銀行行長王志恆、太平洋建設董事局主席嚴昊出席開幕式並致辭。任鴻斌表示，“十五五”規劃綱要強調中國將擴大高水平對外開放，建設更高水平的社會主義法治國家。這都為各國工商界、法律界深化合作提供了更加廣闊的發展機遇。展望未來，中國貿促會願搭建更高質量經貿平臺、提供更高水平法律服務，與全球工商界、法律界攜手並進，共同促進開放合作，為世界發展繁榮注入更多確定性和穩定性。（中國貿促）"
+    },
+    {
+      "id": "mkt:01a0a3bb-1a3e-7118-858b-41148dc1b5ae",
+      "time": "2026-09-15 14:22:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "South Korean won weakened 1% against the U.S. dollar."
+    },
+    {
+      "id": "5094497",
+      "time": "2026-09-15 14:22:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元貶值1%。"
+    },
+    {
+      "id": "5094496",
+      "time": "2026-09-15 14:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪輔助駕駛車型保有量超372萬輛，天神之眼每天生成資料超2.3億公里。"
+    },
+    {
+      "id": "te:economy:583731",
+      "time": "2026-09-15 14:21:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Hits Highest Since 2007 — The yield on the 10-Year US Treasury note climbed above 5% on Tuesday, reaching its highest level since July 2007 as the global bond selloff intensified amid surging energy prices, mounting inflation risks and growing fiscal concerns. Oil prices extended their gains as Saudi Arabia’s East-West pipeline remained shut, while Ukraine challenged President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Meanwhile, markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday, which would mark the first increase since July 2023. Traders will also look for signals on further monetary tightening as policymakers contend with upward risks to prices. Additionally, long-term yields were driven higher by surging corporate debt issuance from AI companies, which has limited capital allocation by primary dealers and other financial institutions."
+    },
+    {
+      "id": "5094495",
+      "time": "2026-09-15 14:21:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工板塊震盪下挫 湖南天雁觸及跌停】午後軍工板塊震盪下挫，湖南天雁觸及跌停，此前立航科技跌停，內蒙一機、北方長龍、天秦裝備、長城軍工等均跌超4%。"
+    },
+    {
+      "id": "5094494",
+      "time": "2026-09-15 14:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門總理指責胡塞武裝在西海岸攻勢中殺害平民、造成民眾流離失所。"
+    },
+    {
+      "id": "mkt:01a0a3ba-2341-7118-858b-3f3669c0be2e",
+      "time": "2026-09-15 14:21:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed down 80.50 points (-0.92%) at 8,669.40 on Tuesday, Sept. 15."
+    },
+    {
+      "id": "mkt:01a0a3ba-08fb-7118-858b-35272ec270d0",
+      "time": "2026-09-15 14:21:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahraini authorities strongly condemned Houthi attacks on Saudi civilians and civilian infrastructure."
+    },
+    {
+      "id": "5094493",
+      "time": "2026-09-15 14:21:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌3%，現報915.00元。"
+    },
+    {
+      "id": "mkt:01a0a3b9-cbce-7118-858b-296bdb1c5378",
+      "time": "2026-09-15 14:20:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Statistics Norway expects one further policy-rate hike in 2026 and four rate cuts in 2027–28."
+    },
+    {
+      "id": "5094492",
+      "time": "2026-09-15 14:20:52",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【英國就業市場疲軟 僱主裁員超預期】英國疲軟的就業市場上月導致僱主裁員更多，這些資料在英國央行週四最新利率決定前公佈。英國國家統計局週二表示，8月公司工資單上的僱員人數減少2.6萬，此前一個月下修後為減少1.9萬。這比經濟學家預期的減少5000人更糟。勞動力需求依然疲軟，職位空缺減少8000個，降至70.2萬個的五年新低。截至7月的三個月失業率穩定在4.9%，不過國家統計局警告稱，該估計仍受資料收集質量問題影響。這些資料表明，英國仍陷於貝利所稱的“低招聘、低裁員”經濟。英國僱主面臨來自美國-伊朗衝突以及首相伯納姆定於10月28日公佈的首份預算案帶來的更大不確定性。"
+    },
+    {
+      "id": "5094491",
+      "time": "2026-09-15 14:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將SpaceX目標價從117美元上調至150美元。"
+    },
+    {
+      "id": "te:economy:583730",
+      "time": "2026-09-15 14:20:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "UK Total Pay Growth Eases as Estimated — Total average weekly earnings in the UK, including bonuses, rose 3.9% year-on-year to GBP 756 in the three months to July 2026, slowing from 4.2% in the previous three-month period and matching market expectations. The latest reading marked the softest annual growth since the three months to February, as private-sector pay growth eased to 3.2% from 3.7%, its weakest pace since the three months to December 2020. Meanwhile, public-sector pay growth accelerated to 6.6% from 6.2%, marking its strongest increase since the three months to December 2025. After adjusting for inflation, total earnings rose 0.9%, down from 1.2% in both the three months to June and May and marking the weakest growth since the three months to February."
+    },
+    {
+      "id": "mkt:01a0a3b9-085c-7118-858b-262279505a85",
+      "time": "2026-09-15 14:20:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【UK jobs market soft; employer layoffs exceed forecasts ahead of BoE decision】Weak UK labour-market data ahead of the Bank of England's Thursday rate decision showed employer layoffs in August exceeded expectations. The ONS said payroll employment fell 26,000 in August, after a revised 19,000 decline in the prior month, versus economists' expected fall of 5,000. Labour demand remains weak: vacancies dropped 8,000 to 702,000, a five-year low. The three-month unemployment rate to July held at 4.9%, though the ONS warned estimates are affected by data-collection quality issues. ONS said the figures are consistent with what Bailey has called a “low hiring, low firing” economy. Employers cited added uncertainty from the US–Iran conflict and Prime Minister Burnham's budget due October 28."
+    },
+    {
+      "id": "5094490",
+      "time": "2026-09-15 14:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲交易所必須在年底前透過首次公開募股再籌集50億美元。"
+    },
+    {
+      "id": "5094489",
+      "time": "2026-09-15 14:19:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：預計挪威2026年將再加息一次，2027至2028年降息四次。"
+    },
+    {
+      "id": "mkt:01a0a3b8-8329-7118-858b-1b967eee72e8",
+      "time": "2026-09-15 14:19:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas reports Yemen Armed Forces air force struck a Houthi weapons depot in Juba."
+    },
+    {
+      "id": "5094488",
+      "time": "2026-09-15 14:19:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行與馬來西亞國家銀行將推動跨境本幣使用。"
+    },
+    {
+      "id": "5094487",
+      "time": "2026-09-15 14:19:22",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【尊寶比薩回應“員工向比薩撒頭屑”：涉事門店已停業】近日，杭州尊寶比薩濱河廣場門店的一段後廚影片在網路上引發熱議，畫面中一名員工故意將頭屑抖落到做好的比薩上，現場無人制止。9月14日，尊寶比薩釋出通報，稱已報警處理，涉事門店已停業，影片中呈現的系員工個人突發行為。公司表示，將全力配合市場監管部門調查，全國門店即刻開展食安大排查。"
+    },
     {
       "id": "mkt:01a0a3b8-18b3-7118-858b-1175e0aa32a1",
       "time": "2026-09-15 14:19:06",
@@ -11,6 +208,14 @@
         "Europe & UK"
       ],
       "text": "【Europe needs $5bln of IPOs by year-end to surpass last year】European exchanges must raise about $5bln via IPOs before year-end to top last year’s total, a steep task in a market prone to postponements. Autumn deals could deliver the sum, but the margin for error is slim and only a handful of $1bn-plus listings remain in the pipeline. Compiled data show Europe’s 2025 IPOs have raised $16.7bln, up on the prior year but still below historical norms."
+    },
+    {
+      "id": "5094486",
+      "time": "2026-09-15 14:18:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國官員：英國必須聽取人工智慧前沿研發人員的警示】英國首席國務大臣路易絲・黑格今日將在英國工會聯盟年會上表示，英國必須 “聽取人工智慧前沿研發人員的警示”，並準備與國際夥伴就公共安全及國家安全開展合作。她還提到，人工智慧擁有巨大潛力，能夠變革公共服務、壯大企業並推動科學突破。"
     },
     {
       "id": "mkt:01a0a3b7-eeb8-7118-858b-0abc11b1367c",
@@ -124754,105 +124959,6 @@
         "Importance 1"
       ],
       "text": "German Imports Slip in July — Germany’s imports fell 5.7% month-on-month to €119.6 billion in July 2026, reversing an upwardly revised 4.5% increase in the previous month. Imports from EU member states declined 6.1%, driven by lower purchases from eurozone countries, which fell 6.5%, and EU countries outside the eurozone, which dropped 5.1%. Imports from third countries also contracted 5.3%, led by declines in shipments from China, which fell 7.5%, the US, which decreased 8.2%, and the UK, which dropped 1%. On a yearly basis, imports rose 3.1%, slowing sharply from a downwardly revised 14% gain in June. In the first seven months of 2026, imports reached €828.4 billion, up 4.2% from the same period a year earlier."
-    },
-    {
-      "id": "te:economy:581881",
-      "time": "2026-09-08 14:23:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Denmark Trade Surplus Widens in July — Denmark’s seasonally adjusted trade surplus widened to DKK 40.5 billion in July 2026, from a downwardly revised DKK 25.3 billion in June, marking the largest surplus in the current series. Total exports rose 4.0% month-on-month to DKK 202.7 billion, with goods exports increasing 4.5% to DKK 118.9 billion and services exports rising 3.3% to DKK 83.8 billion. Meanwhile, imports fell 4.4% to DKK 162.2 billion, driven by a 6.9% decline in goods imports, while services imports decreased 1.4%. In the first seven months of 2026, total exports reached DKK 1,313.0 billion, up from DKK 1,236.5 billion a year earlier, while imports rose to DKK 1,113.2 billion from DKK 1,045.8 billion with Denmark recorded a trade surplus of DKK 199.8 billion, up from DKK 190.7 billion in the same period of 2025."
-    },
-    {
-      "id": "5082205",
-      "time": "2026-09-08 14:22:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股CPO概念板塊午後跳水，中石科技跌超17%，則成電子跌超8%，長盈通、飛榮達、天洋新材等多股跌超6%，強瑞技術、炬光科技等跟跌。"
-    },
-    {
-      "id": "mkt:01a07fae-783d-7118-84df-356d030d47cc",
-      "time": "2026-09-08 14:22:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share CPO-themed stocks plunged in afternoon trading: Zhongshi Technology down more than 17%, Zecheng Electronics off over 8%; Changyingtong, Feirongda and Tianyang New Materials each down over 6%; Qiangrui Technology and Juguang Technology also fell."
-    },
-    {
-      "id": "5082204",
-      "time": "2026-09-08 14:21:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股三大股指午後再度下探均已翻綠，光刻機、液冷伺服器、半導體、CPO概念等板塊跌幅居前。"
-    },
-    {
-      "id": "te:economy:581880",
-      "time": "2026-09-08 14:21:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Lithuania Inflation Rate Hits 3-Year High — Lithuania’s annual inflation rate rose to 6.1% year-on-year in August 2026 from 5.9% in the previous month, marking the highest reading since August 2023. The increase was driven by faster price growth for transport (15% vs 12.5% in July) and housing and utilities (15.8% vs 15.1%). Costs also increased for recreation, sport, and culture (6.2% vs 5.2%), personal care, social protection, and miscellaneous goods and services (6.9% vs 5.7%), furnishings, household equipment and maintenance (2.8% vs 2.4%), restaurants and hotels (5.9% vs 5.5%), and information and communication (2.1% vs 1.6%). Meanwhile, inflation eased for alcoholic beverages and tobacco (7.1% vs 7.6%), clothing and footwear (0.8% vs 1.8%), and education (5.2% vs 5.3%), while it held steady for health (4.9%). Deflation also persisted in food and non-alcoholic beverages (-2.0% vs -0.3%). On a monthly basis, consumer prices fell 0.1% in August, reversing a 0.2% increase in the previous month."
-    },
-    {
-      "id": "mkt:01a07fac-fefe-7118-84df-281978682d14",
-      "time": "2026-09-08 14:20:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's three main A-share indices slid further in the afternoon and finished in the red; lithography equipment, liquid-cooled servers, semiconductors and CPO-related stocks led the declines."
-    },
-    {
-      "id": "5082203",
-      "time": "2026-09-08 14:20:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：下調滔搏目標價至1.7港元，維持“買入”評級】花旗發表報告指，耐克將自2027年1月起調整中國分銷策略，預期將對滔搏2028財年(2028年2月底止)業務前景構成負面影響。現階段，該行對耐克在滔搏現財年(2027年2月底止)後就終止線上分銷權持續提供補貼的把握不高。該行將滔搏2027至29財年純利預測分別下調2%、19%及18%，銷售預測則分別下調1%、5%及5%。基於不變的11倍目標歷年2027年預期市盈率，目標價由1.91港元降至1.7港元，考慮到該股雙位數股息率，維持“買入”評級。"
-    },
-    {
-      "id": "5082202",
-      "time": "2026-09-08 14:20:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商務部新增84個全國重點外資專案，福建賓士二期等在列】9月8日，記者從第二十六屆投洽會瞭解到，近日，商務部新增84個全國重點外資專案，其中包括6個外資標誌性專案：阿斯利康全球戰略研發中心專案、慶鼎人工智慧伺服器和高速光模組高密度互連積層板專案、沙特水電公司綠電直連專案、和睦家北京醫療國際創新中心投資專案、福建賓士二期建設專案、雲頂集團國投吉能2*745兆瓦級燃氣發電專案，總投資額194.6億美元。新增專案主要集中在製造業，涉及機電裝備、化工能源、汽車、醫療健康等領域。商務部持續跟蹤專案實施進度，精準開展專案全鏈條全週期服務保障。截至目前，重點外資專案累計實際使用外資1093億美元，一批投資規模大、技術先進性強、引資示範效應好的重點外資專案成功落地。（21世紀經濟報道）"
-    },
-    {
-      "id": "mkt:01a07fac-9c94-7118-84df-2498c718df4a",
-      "time": "2026-09-08 14:20:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 92.70 points, or 1.03%, at 8,918.20 on Tuesday, Sept. 8."
-    },
-    {
-      "id": "5082201",
-      "time": "2026-09-08 14:20:10",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "市場訊息：摩爾執行緒秘密遞交港股上市申請。"
     }
   ]
 }
