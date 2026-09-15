@@ -1,7 +1,138 @@
 {
-  "updated": "2026-09-15 14:50:32",
-  "count": 13663,
+  "updated": "2026-09-15 14:54:25",
+  "count": 13677,
   "items": [
+    {
+      "id": "5094566",
+      "time": "2026-09-15 14:53:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 壁仞科技據稱考慮進行 10 億美元股權出售。"
+    },
+    {
+      "id": "te:economy:583755",
+      "time": "2026-09-15 14:53:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Romania Industrial Output Falls to Over 1-Year Low — Industrial production in Romania declined 6.1% year-on-year in July 2026, following a revised 5.1% drop in June and marking the sharpest fall since March 2025. Manufacturing output fell further (-7.2% vs -6.0%), with sharper declines in most subsectors, notably coke and refined petroleum products (-27.8% vs -21.6%), basic pharmaceutical products and pharmaceutical preparations (-26.2% vs -8.4%), other transport equipment (-28.3% vs -27.2%), computer, electronic and optical products (-20.3% vs 10.5%), chemicals and chemical products (-15.2% vs -14.3%), furniture (-12.4% vs -9.9%), and basic metals (-11.5% vs -5.7%). Meanwhile, output in mining and quarrying rebounded (1.2% vs -0.8%), while electricity, gas, steam and air conditioning supply contracted at a softer pace (-2.7% vs -3.0%). On a monthly basis, industrial output decreased 1.4%, after a revised 0.5% drop in June. In the January–July period, industrial production was 3.8% lower than a year earlier."
+    },
+    {
+      "id": "5094565",
+      "time": "2026-09-15 14:52:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元下跌0.3%至1.3464，跌破55日均線支撐位。"
+    },
+    {
+      "id": "5094564",
+      "time": "2026-09-15 14:52:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【突然，直線漲停！10倍大牛股，發生了什麼？】9月15日，A股PCB概念股集體走高。開盤僅1分鐘，華正新材直線封板；隨後，歐克科技、諾德股份等相繼漲停，宏和科技也一度漲停。自去年4月9日以來，華正新材股價累計漲幅超過10倍。市場分析人士指出，PCB概念股大漲與行業漲價預期升溫有關。目前，PCB廠商已陸續啟動重新報價，三季度有望成為產品價格、產能利用率與訂單結構同步改善的起漲點。隨著AI持續發展，高多層PCB與HDI需求旺盛，行業中長期景氣度較高。（券中社）"
+    },
+    {
+      "id": "mkt:01a0a3d6-9156-7118-858c-49dee8dc6b40",
+      "time": "2026-09-15 14:52:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【A-share PCB stocks rally; Huazheng New Materials hits limit-up, >10x since Apr 9】Sept 15 — A-share PCB-related stocks rallied, led by Huazheng New Materials, which hit the daily limit within one minute of the open. Ouke Technology, Nuode Co. and Honghe Technology also reached limit-up. Huazheng New Materials' share price has risen over tenfold since April 9 last year. Analysts attributed the move to rising price-recovery expectations in the PCB sector: manufacturers have begun repricing, and Q3 could mark the start of simultaneous improvement in product prices, capacity utilization and order mix. Ongoing AI development is supporting robust demand for high-layer/multi-layer PCBs and HDI, keeping the sector’s medium-to-long-term outlook constructive."
+    },
+    {
+      "id": "5094563",
+      "time": "2026-09-15 14:51:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMSPEC農業資料顯示，馬來西亞9月1日至15日棕櫚油出口量預計為49.616萬噸，8月同期出口量為66.7257萬噸。"
+    },
+    {
+      "id": "te:economy:583754",
+      "time": "2026-09-15 14:51:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Saudi Inflation Rate Unchanged for 4th Month — The annual inflation rate in Saudi Arabia stood at 1.8% in August 2026, unchanged from the previous three months and in line with market expectations. Prices mainly increased for transport (2.0% vs 1.4% in July), recreation, sport and culture (2.8% vs 2.4%), and personal care, social protection and miscellaneous (3.5% vs 2.9%). Inflation also continued to rise for food and beverages (1.4% vs 1.5%) and housing and utilities (3.9% vs 4.2%). On the other hand, costs declined at a faster pace for clothing and footwear (-0.5% vs -0.4%) and furnishings, household equipment and maintenance (-0.6% vs -0.5%). On a monthly basis, consumer prices grew by 0.1% in August, marking the softest rise since December and slowing from a 0.2% gain in the preceding period."
+    },
+    {
+      "id": "5094562",
+      "time": "2026-09-15 14:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：侯賽因·馬赫布比將軍稱，伊朗軍隊是伊朗的驕傲。"
+    },
+    {
+      "id": "5094561",
+      "time": "2026-09-15 14:51:02",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【浙商證券：傑美特收購戴爾蒙德切入PCB鑽針賽道，2027年有望扭虧】浙商證券研報指出，傑美特新一代PCB鑽針新秀，技術迭代阿爾法強。上半年實現歸母淨利潤-0.15億元，同比下滑47%。單Q2，公司歸母淨利潤為-0.06億元，環比減虧20%。市場認為公司主業空間有限，業績承壓；公司中長期成長確定性不足。公司收購的戴爾蒙德（52%股權）為新一代PCB鑽針新秀，金剛石塗層鑽針技術、產業化優勢凸顯，有望開啟成長空間。戴爾蒙德聚焦CVD奈米金剛石塗層、PVD複合塗層和超硬刀具等方向，目前擁有惠州CVD奈米金剛石塗層產業化基地、微型鑽針和精密銑刀生產基地、PVD複合鍍膜中心，合作國內多所知名高校，可針對塗層技術的多領域應用展開研究和產品開發。另外，公司限制性股票激勵計劃草案出臺，錨定未來三年業績。該行預計2026-2028年公司收入分別為8.2、25.3、44.2億元，同比增長30%、209%、75%；歸母淨利潤分別為-0.2、2.3、5.0億元，27年扭虧、28年同比增長119%。2027-2028年對應PE分別為49、23倍。"
+    },
+    {
+      "id": "5094560",
+      "time": "2026-09-15 14:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普警告印尼國有銀行面臨信貸和盈利風險。"
+    },
+    {
+      "id": "mkt:01a0a3d5-34a8-7118-858c-44ba2cecc81a",
+      "time": "2026-09-15 14:50:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Africa's finance ministry said the government signed a US$1 billion loan agreement with the New Development Bank to upgrade infrastructure."
+    },
+    {
+      "id": "5094559",
+      "time": "2026-09-15 14:50:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為在北京成立安樸酒店公司 註冊資本5000萬】天眼查App顯示，近日，北京安樸酒店有限公司成立，法定代表人為路瑤，註冊資本5000萬人民幣，經營範圍包括酒店管理、非居住房地產租賃、洗染服務等。股東資訊顯示，該公司由華為旗下深圳慧通商務有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a0a3d4-c80c-7118-858c-38547301326d",
+      "time": "2026-09-15 14:50:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deliberate sabotage suspected in multiple Dutch rail faults; central and northern services hit】ProRail, the Dutch government rail infrastructure agency, said multiple track sections across the Netherlands show materials that appear to have been deliberately placed; staff are removing the items. Since Tuesday morning services in the country’s central and northern regions have been severely disrupted; ProRail warned of delays and cancellations. Faults at multiple level crossings may affect road traffic, and during these segment faults signalling/computer systems can register a section as \"occupied\" even when no train is present."
+    },
+    {
+      "id": "mkt:01a0a3d4-b406-7118-858c-324b282187a3",
+      "time": "2026-09-15 14:50:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【France August HICP rises to highest since May】INSEE said on Tuesday that France’s consumer prices on an EU-harmonized basis rose 2.6% YoY in August, revised down from a 2.7% preliminary reading. The harmonized inflation rate for the euro area’s second-largest economy accelerated from 2.4% in July, the highest since May."
+    },
     {
       "id": "5094558",
       "time": "2026-09-15 14:49:49",
@@ -50,6 +181,15 @@
         "市場"
       ],
       "text": "越南VN指數上漲1%，報1806.25點。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609153874643641",
+      "time": "2026-09-15 14:47:14",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "法國8月CPI終值環比上漲0.7%，初值為上漲0.7%。"
     },
     {
       "id": "5094552",
@@ -125728,18 +125868,6 @@
         "Importance 0"
       ],
       "text": "UK Natgas Prices Rise Amid Supply Concerns — UK natural gas prices rose toward 186 pence per therm on Tuesday, hovering at their highest level in more than three and a half years, as LNG supply from the Persian Gulf remained severely disrupted amid heightened US-Iran tensions. The escalation in fighting between the two nations underscored the difficulty of reaching a resolution to the conflict that could reopen the Strait of Hormuz, with Iran on Monday warning that energy infrastructure across the region, including US oil and gas facilities, could be vulnerable to further attacks. Qatar has largely suspended LNG shipments and extended force majeure on cargoes bound for European and Asian markets through the autumn, amid continued shipping disruptions through the critical waterway. The reduced inflow has slowed the pace of gas storage injections in Europe, with EU storage facilities around 66% full, below the seasonal average, leaving the gas market increasingly vulnerable as the heating season approaches."
-    },
-    {
-      "id": "te:markets:581905",
-      "time": "2026-09-08 14:54:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Drop as Yen Surges — The Nikkei 225 Index fell 1.7% to close at 65,269, while the broader Topix Index dropped 1.83% to 4,050 on Tuesday, ending a two-day winning streak as the yen extended its advance to its strongest level since February. A stronger yen weighs on earnings prospects for Japan’s export-focused industries while making Japanese assets more expensive for foreign investors. Markets were also positioning for an expected Bank of Japan rate hike, backed by strong economic data showing July wages rose at their fastest pace since 1997 and second-quarter GDP growth was revised higher. Meanwhile, elevated oil prices following renewed US-Iran fighting kept inflation risks and interest rate concerns firmly in focus. Technology stocks led the losses, with Kioxia Holdings (-3.6%), Advantest (-2%), Taiyo Yuden (-7.9%), Ibiden Co (-6.3%) and Fujikura (-3%) among the biggest decliners."
     }
   ]
 }
