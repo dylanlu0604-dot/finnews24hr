@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-16 00:25:49",
-  "count": 13456,
+  "updated": "2026-09-16 00:29:41",
+  "count": 13453,
   "items": [
+    {
+      "id": "mkt:01a0a5e5-2d70-7118-85a0-4e34bbd09cbe",
+      "time": "2026-09-16 00:27:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russell 2000 index hits lowest level since June, down 0.9%."
+    },
+    {
+      "id": "mkt:01a0a5e3-b284-7118-85a0-46a4f4324a9e",
+      "time": "2026-09-16 00:25:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Axios, citing two Israeli officials, reported that senior military commanders from the US, Israel and several Arab states met in Germany last week to discuss war with Iran and broader regional tensions."
+    },
+    {
+      "id": "5095827",
+      "time": "2026-09-16 00:25:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭通訊社：財政部預估，截至 2026 年 8 月底，波蘭預算赤字約為 1510 億茲羅提。"
+    },
     {
       "id": "mkt:01a0a5e2-974e-7118-85a0-3da2863b0c07",
       "time": "2026-09-16 00:24:45",
@@ -124041,67 +124071,6 @@
         "DXY"
       ],
       "text": "Israeli Prime Minister Netanyahu said the mission must be completed to overthrow the Iranian regime."
-    },
-    {
-      "id": "te:markets:582121",
-      "time": "2026-09-09 00:28:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes Muted — The DAX 40 pared some early losses to close virtually unchanged at 26,008 on Tuesday, as caution prevailed across European markets. Soaring oil prices and heightened tensions in the Middle East rekindled inflation concerns ahead of monetary policy decisions from major central banks. The ECB is expected to raise borrowing costs by another 25 basis points to 2.5% on Thursday, which would mark the second rate hike this year, while markets anticipate a similar move from the Fed next week. Gains in pharmaceutical stocks, industrials and autos were partly offset by weakness in the technology sector and insurers. Fresenius SE & Co surged 3.2%, leading gains after UBS reiterated its positive outlook on the stock with a Buy rating. Defense stocks such as Rheinmetall also strengthened, rising nearly 3%, supported by favorable analyst commentary. Volkswagen and BMW advanced 2.1% and 1.4%, respectively. On the flipside, Infineon Technologies dropped 3.7% following a downgrade by Morgan Stanley.."
-    },
-    {
-      "id": "5083536",
-      "time": "2026-09-09 00:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院司法委員會將於9月15日舉行聽證會，質詢聯邦調查局局長帕特爾。"
-    },
-    {
-      "id": "mkt:01a081d8-829b-7118-84f1-762d30b2eab3",
-      "time": "2026-09-09 00:27:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK Civil Aviation Authority (CAA) said that, after reviewing a report from National Air Traffic Services (NATS), it will consider whether further measures are needed to ensure the reliability of the UK's air traffic control system."
-    },
-    {
-      "id": "mkt:01a081d7-a86f-7118-84f1-6a6754776808",
-      "time": "2026-09-09 00:26:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bearish"
-      ],
-      "text": "Qualcomm's CFO said the smartphone market is currently at a cyclical trough."
-    },
-    {
-      "id": "mkt:01a081d7-61e8-7118-84f1-66dd9999da5d",
-      "time": "2026-09-09 00:26:11",
-      "tags": [
-        "MKT News",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm's CFO said Qualcomm (QCOM.O) has reached a deal with another hyperscale cloud provider."
-    },
-    {
-      "id": "te:markets:582119",
-      "time": "2026-09-09 00:25:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Realty Income Stock Price Hits 14-week High — Realty Income shares increased to 375.90 USD, the highest since May 2026. Over the past 4 weeks, Realty Income gained 14.81%, and in the last 12 months, it increased 25.68%."
     }
   ]
 }
