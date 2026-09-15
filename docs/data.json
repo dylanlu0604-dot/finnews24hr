@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-15 19:55:34",
-  "count": 13581,
+  "updated": "2026-09-15 19:59:26",
+  "count": 13585,
   "items": [
+    {
+      "id": "mkt:01a0a4ed-c05d-7118-8596-123343ddd6db",
+      "time": "2026-09-15 19:57:19",
+      "tags": [
+        "MKT News",
+        "000333.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Midea's Fang Hongbo: Firm H2 push into robotics, new energy; overhaul overseas own-brand operations】Sept 15 — At Midea Group’s 2026 interim results briefing, chairman and president Fang Hongbo said the company will firmly expand its robotics and new energy businesses in H2 and will boldly reform overseas own‑brand business mechanisms to achieve genuine localized operations."
+    },
+    {
+      "id": "5095357",
+      "time": "2026-09-15 19:57:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉釋出微博：特斯拉賽博無人駕駛電動車全國靜態巡展即將開啟。"
+    },
+    {
+      "id": "te:markets:583873",
+      "time": "2026-09-15 19:56:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Pullback — Futures tracking US equity indices were slightly lower on Tuesday, holding the pullback from the previous session on further pressure from higher bond yields. Contracts for the S&P 500, Dow, and Nasdaq 100 fell up to 0.3% each. Long-maturity yields rose further as the escalation to strikes in the Middle East worsened the outlook on energy supply from the region, magnifying inflation risks and a hawkish response from the Federal Reserve. Markets expect the Fed to hike rates by 25bps tomorrow as fuel prices drove underlying inflation to gain traction this year. Most sectors of stock exchanges were lower, with credit sensitive AI hyperscalers leading the losses as their increasing debt positions clash against higher borrowing costs. Alphabet, Microsoft, and Meta fell 1%. Meanwhile, chip producers rebounded from yesterday's slump as markets assessed how risks to AI safety could slow infrastructure spending, with Nvidia, Lam Research, and Intel gaining 1%."
+    },
+    {
+      "id": "mkt:01a0a4ec-e31b-7118-8596-0fbc25c99316",
+      "time": "2026-09-15 19:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ said ahead of state elections he was elected to a four-year term and intends to use that mandate to address problems."
+    },
+    {
+      "id": "5095356",
+      "time": "2026-09-15 19:56:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世紀恆通：控股股東及董事擬合計減持不超2.99%公司股份】世紀恆通公告，公司控股股東、實際控制人、董事長楊興海計劃自公告披露之日起15個交易日後的3個月內，透過集中競價、大宗交易方式減持不超過253.15萬股，佔剔除回購專用證券賬戶後總股本的2.57%；公司董事、總經理楊興榮擬減持不超過42.75萬股，佔比0.43%。兩人合計擬減持不超過295.90萬股，佔比不超過2.99%。"
+    },
+    {
+      "id": "5095355",
+      "time": "2026-09-15 19:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的方洪波：下半年堅定佈局機器人、新能源，創新海外業務機制】9月15日，在美的集團（000333.SZ，簡稱“美的”）2026年半年報業績線上說明會上，美的集團董事長兼總裁方洪波表示，美的下半年要堅定佈局機器人、新能源等次核心業務，同時大膽創新海外自主品牌（OBM）業務機制體制，實現真正的本地化運營。 （第一財經）"
+    },
+    {
+      "id": "5095354",
+      "time": "2026-09-15 19:55:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京港：控股子公司公開招標形成4816.49萬元關聯交易】南京港公告稱，公司控股子公司南京港龍潭集裝箱有限公司816B物流倉庫建設工程勘察設計施工總承包專案經公開招標，由南京港港務工程有限公司、南京水科院瑞迪科技集團有限公司聯合體中標，中標價格4816.49萬元。因公司控股股東及間接控股股東合計持有港務工程公司100%股權，該交易構成關聯交易，已經公司董事會審議透過，關聯董事迴避表決，無需提交股東會審議，不構成重大資產重組。2026年1月1日至目前，公司及控股子公司與港務工程公司累計已發生關聯交易總金額為1235.13萬元。"
+    },
     {
       "id": "mkt:01a0a4eb-83cc-7118-8596-046d6bc12ea3",
       "time": "2026-09-15 19:54:53",
@@ -125073,30 +125135,6 @@
         "國際"
       ],
       "text": "美國9月4日擔保隔夜融資利率為3.65%，而9月3日為3.66%。"
-    },
-    {
-      "id": "5083051",
-      "time": "2026-09-08 19:58:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞內加爾總理：本國國內欠款達1.96萬億非洲金融共同體法郎。"
-    },
-    {
-      "id": "5083050",
-      "time": "2026-09-08 19:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【i茅臺：6款飛天茅臺銷售規則調整 每日兩場次常態化售賣】貴州茅臺旗下i茅臺9月8日官微訊息，將飛天53%vol 500ml貴州茅臺酒(帶杯)2019—2024銷售規則調整。自9月9日起，以上6款產品由當月9日、19日、29日投放售賣調整為常態化投放售賣，每日9:00與20:00兩個場次均可購買。"
-    },
-    {
-      "id": "5083049",
-      "time": "2026-09-08 19:56:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西最高法院大法官門東薩裁定暫停聯邦警察總長羅德里格斯的職務。"
     }
   ]
 }
