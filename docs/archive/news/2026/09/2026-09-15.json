@@ -1,7 +1,169 @@
 {
   "date": "2026-09-15",
-  "count": 1177,
+  "count": 1196,
   "items": [
+    {
+      "id": "mkt:01a0a3b8-18b3-7118-858b-1175e0aa32a1",
+      "time": "2026-09-15 14:19:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Europe needs $5bln of IPOs by year-end to surpass last year】European exchanges must raise about $5bln via IPOs before year-end to top last year’s total, a steep task in a market prone to postponements. Autumn deals could deliver the sum, but the margin for error is slim and only a handful of $1bn-plus listings remain in the pipeline. Compiled data show Europe’s 2025 IPOs have raised $16.7bln, up on the prior year but still below historical norms."
+    },
+    {
+      "id": "mkt:01a0a3b7-eeb8-7118-858b-0abc11b1367c",
+      "time": "2026-09-15 14:18:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Hadath said Yemen's air force struck a Houthi weapons depot at the foot of Mount Hiran."
+    },
+    {
+      "id": "mkt:01a0a3b7-b95c-7118-858b-027960035f26",
+      "time": "2026-09-15 14:18:41",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Preliminary August Hong Kong visitor arrivals 5.46 mln】The Hong Kong Tourism Board said on the 15th preliminary August visitor arrivals were 5.46 mln, up 6% YoY and the highest single-month tally since 2019. It said January–August arrivals totaled about 36.67 mln, up 11% YoY."
+    },
+    {
+      "id": "5094485",
+      "time": "2026-09-15 14:18:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：挪威2027年石油投資預計下降4.0%，與6月預估一致。"
+    },
+    {
+      "id": "mkt:01a0a3b7-683c-7118-858a-f8c7d11e005c",
+      "time": "2026-09-15 14:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SUMEC: vessel orderbook covers deliveries through 2030】At a Sept. 15 2026 interim results briefing, SUMEC said it had 105 vessels on order as of June 30, 2026, with deliveries scheduled through 2030. The company is diversifying into higher-value segments—feeder container ships, MR tankers and multipurpose vessels—and signed six 65KMPP newbuild contracts in 1H to further optimise its product mix."
+    },
+    {
+      "id": "5094484",
+      "time": "2026-09-15 14:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡尼敦促歐盟10國批准加歐自貿協定】加拿大總理卡尼14日接受英國《金融時報》採訪，呼籲尚未批准《綜合經濟與貿易協定》的10個歐盟成員國批准這份加歐自貿協定，稱加拿大與歐盟深化經濟聯絡能讓各方更具韌性、獨立性，且更繁榮。（新華社）"
+    },
+    {
+      "id": "5094483",
+      "time": "2026-09-15 14:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月訪港旅客初步統計達546萬人次】香港旅遊發展局15日公佈，今年8月訪港旅客初步統計資料達546萬人次，同比增長6%，創2019年以來單月新高。旅發局表示，今年前8個月共錄得約3667萬訪港旅客人次，同比增長11%。（央視新聞）"
+    },
+    {
+      "id": "5094482",
+      "time": "2026-09-15 14:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信闢謠AI助手小微“直接讀取聊天記錄”“偷看隱私”】9月15日，微信員工@客村小蔣 就“微信小微”涉及的隱私相關問題發文回應：1、小微能接觸的資訊，不會超過你本人可以檢視的資訊範圍的許可權，比如有朋友擔心已刪除的朋友圈會不會被看到，放心，不會的；2、小微會基於公眾號、影片號等的關注、瀏覽、互動資料，做一些問題的推薦，放心，這裡同樣遵循原則1；3、關於聊天記錄，只有在聊天場景，你主動發起“問小微”的時候，小微才會被臨時調起，從微信客戶端本地讀取最近的聊天資訊，分析總結之後，原始聊天記錄不會被儲存，通用的“用完即棄”的邏輯；4、一些說小微“直接讀取聊天記錄”、“偷看所有隱私”的帖子，都是失實的。據介紹，微信小微是微信團隊開發的原生AI助手，目前正在小範圍內測。使用者可以透過文字或語音對話，讓小微查天氣、查快遞、點外賣；另外，在朋友圈、公眾號、聊天、影片號等場景，小微也可以在需要的時候被隨時喚起，來總結內容、提供更多資訊等。"
+    },
+    {
+      "id": "5094481",
+      "time": "2026-09-15 14:17:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙商證券：維持徐工機械“買入”評級，邁向全球工程機械龍頭】浙商證券研報指出，徐工機械2026H1經營性淨利潤同比增長41%；邁向全球工程機械龍頭。上半年歸母淨利潤39.6億元，同比下降9%；Q2歸母淨利潤19.1億元，同比下降18%，環比下降7%。2026H1公司輪履市佔率穩居行業第一，歐美澳高階區域業績翻倍增長。礦業機械佔比8%，同比增長2%。2026H1公司礦機事業部新能源收入增長43%，智慧化產品收入增長406%。海外業務和礦山機械業務是未來增長亮點，公司與必和必拓、力拓、淡水河谷、澳大利亞FMG等海外大客戶深化合作，礦山露天挖運裝置進位全球第四。維持“買入”評級。"
+    },
+    {
+      "id": "5094480",
+      "time": "2026-09-15 14:17:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇美達：在手船舶訂單交付排期覆蓋至2030年】蘇美達(600710)在9月15日舉行的2026年半年度業績說明會上表示，截至2026年6月底，公司在手船舶訂單105艘，交付排期覆蓋至2030年。公司持續推進船型多元化佈局，積極拓展支線集裝箱船、MR油輪及多用途船等高附加值船型，上半年共簽約6艘65K MPP（多用途船）建造訂單專案，進一步最佳化產品結構。"
+    },
+    {
+      "id": "mkt:01a0a3b5-e43c-7118-858a-f2366363c80e",
+      "time": "2026-09-15 14:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New Taiwan dollar weakened further in afternoon trade, widening losses by NT$0.20 against the US dollar to NT$31.888 per US$1."
+    },
+    {
+      "id": "5094479",
+      "time": "2026-09-15 14:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其突擊搜查食品經銷商，涉嫌操縱物價。"
+    },
+    {
+      "id": "te:economy:583729",
+      "time": "2026-09-15 14:16:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "UK Employment Posts Smallest Gain in 5 Months — The number of employed people in the United Kingdom rose by 67 thousand to 34.478 million in the three months in July 2026, following a gain of 83 thousand in the previous period. The increase was the smallest since February, as a decline in part-time employment partly offset continued growth in full-time jobs. Compared with a year earlier, employment rose by 243 thousand, driven by increases in both full-time employees and part-time self-employed workers."
+    },
+    {
+      "id": "5094478",
+      "time": "2026-09-15 14:16:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩稱阿斯麥擬在2028年生產超過110臺EUV光刻機】摩根大通分析師稱，因AI需求強勁，阿斯麥正研究2028年生產超110臺EUV裝置。小摩補充道，阿斯麥2026年低數值孔徑EUV產能約65臺，計劃明年、後年逐年提高30%，當前生產主要瓶頸為組裝速度而非供應鏈問題。"
+    },
+    {
+      "id": "te:economy:583727",
+      "time": "2026-09-15 14:15:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Norway Trade Surplus Hits Three-Year High — Norway’s trade surplus widened sharply to NOK 100.4 billion in August 2026 from NOK 59.3 billion in the same month a year earlier. This marked the largest surplus since January 2023, as exports jumped by 32.9% year-on-year to NOK 191.0 billion, mainly driven by higher shipments of food and live animals (+11.2%), fuels and lubricating oils, and electric power (+51.9%), animal and vegetable oils, fats, and waxes (+20.5%), and processed goods grouped mainly by material (+14.0%). Meanwhile, imports rose by 7.3% to NOK 90.6 billion, lifted by increased purchases of raw materials (non-edible), except fuels (+36.5%), fuels and lubricating oils, and electric power (+68.6%), machinery and means of transport (+2.7%), and different finished products (+0.7%). For the January–August period, the country posted a trade surplus of NOK 608.9 billion, compared to NOK 489.6 billion, up 24.4% from the corresponding month of the previous year, as export growth (11.7%) far outpaced imports (3.1%)."
+    },
+    {
+      "id": "mkt:01a0a3b5-159d-7118-858a-ee7172a7ff37",
+      "time": "2026-09-15 14:15:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Morgan Stanley expects the European Central Bank to cut policy rates by 25bp in December 2027."
+    },
+    {
+      "id": "5094477",
+      "time": "2026-09-15 14:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：挪威2026年核心消費者物價指數預估為3.0%，2027年預估為2.5%。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609153874600567",
+      "time": "2026-09-15 14:15:41",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "摩根士丹利預計歐洲央行將在2026年12月加息25個基點。"
+    },
     {
       "id": "5094476",
       "time": "2026-09-15 14:15:27",
@@ -33,6 +195,14 @@
         "國際"
       ],
       "text": "印度NIFTY金融服務指數下跌0.95%。"
+    },
+    {
+      "id": "5094474",
+      "time": "2026-09-15 14:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國工程院院士鄔賀銓：建設算力排程平臺，就像提供一個“美團”，讓算力供給方和使用方更好地銜接】實現了一體化算力統籌監測，是否意味著算力網已經建成？對此，中國工程院院士鄔賀銓在接受記者現場採訪時表示，國家算力網的規劃裡要建設一個算力排程平臺，目的是讓算力的供給方和使用方更好地銜接，把現有算力資源的忙閒狀況、服務質量，包括收費水平，都讓使用方能夠比較瞭解，從而更好地使用。鄔賀銓進一步闡釋，這其中要實現的是，把算力的有關引數屬性上傳到這個平臺，網路的引數也一樣——這有點像給社會提供一個類似美團的平臺，算力使用方可以在上面看得見所需要的各種服務，然後做出選擇。“這就是建設算力排程平臺的目的。國家規劃是要有一個國家平臺，每個省還有一個平臺，可能還有一些業務的平臺。”“搭了個平臺，還得把相關的資源收集起來才行。就像美團建了平臺，不等於所有餐飲公司都上來了，還得去聯絡，去把他們拉進來才行。”鄔賀銓說。（每經）"
     },
     {
       "id": "5094473",

@@ -1,7 +1,169 @@
 {
-  "updated": "2026-09-15 14:16:00",
-  "count": 13566,
+  "updated": "2026-09-15 14:19:52",
+  "count": 13564,
   "items": [
+    {
+      "id": "mkt:01a0a3b8-18b3-7118-858b-1175e0aa32a1",
+      "time": "2026-09-15 14:19:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Europe needs $5bln of IPOs by year-end to surpass last year】European exchanges must raise about $5bln via IPOs before year-end to top last year’s total, a steep task in a market prone to postponements. Autumn deals could deliver the sum, but the margin for error is slim and only a handful of $1bn-plus listings remain in the pipeline. Compiled data show Europe’s 2025 IPOs have raised $16.7bln, up on the prior year but still below historical norms."
+    },
+    {
+      "id": "mkt:01a0a3b7-eeb8-7118-858b-0abc11b1367c",
+      "time": "2026-09-15 14:18:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Hadath said Yemen's air force struck a Houthi weapons depot at the foot of Mount Hiran."
+    },
+    {
+      "id": "mkt:01a0a3b7-b95c-7118-858b-027960035f26",
+      "time": "2026-09-15 14:18:41",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Preliminary August Hong Kong visitor arrivals 5.46 mln】The Hong Kong Tourism Board said on the 15th preliminary August visitor arrivals were 5.46 mln, up 6% YoY and the highest single-month tally since 2019. It said January–August arrivals totaled about 36.67 mln, up 11% YoY."
+    },
+    {
+      "id": "5094485",
+      "time": "2026-09-15 14:18:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：挪威2027年石油投資預計下降4.0%，與6月預估一致。"
+    },
+    {
+      "id": "mkt:01a0a3b7-683c-7118-858a-f8c7d11e005c",
+      "time": "2026-09-15 14:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SUMEC: vessel orderbook covers deliveries through 2030】At a Sept. 15 2026 interim results briefing, SUMEC said it had 105 vessels on order as of June 30, 2026, with deliveries scheduled through 2030. The company is diversifying into higher-value segments—feeder container ships, MR tankers and multipurpose vessels—and signed six 65KMPP newbuild contracts in 1H to further optimise its product mix."
+    },
+    {
+      "id": "5094484",
+      "time": "2026-09-15 14:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡尼敦促歐盟10國批准加歐自貿協定】加拿大總理卡尼14日接受英國《金融時報》採訪，呼籲尚未批准《綜合經濟與貿易協定》的10個歐盟成員國批准這份加歐自貿協定，稱加拿大與歐盟深化經濟聯絡能讓各方更具韌性、獨立性，且更繁榮。（新華社）"
+    },
+    {
+      "id": "5094483",
+      "time": "2026-09-15 14:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月訪港旅客初步統計達546萬人次】香港旅遊發展局15日公佈，今年8月訪港旅客初步統計資料達546萬人次，同比增長6%，創2019年以來單月新高。旅發局表示，今年前8個月共錄得約3667萬訪港旅客人次，同比增長11%。（央視新聞）"
+    },
+    {
+      "id": "5094482",
+      "time": "2026-09-15 14:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信闢謠AI助手小微“直接讀取聊天記錄”“偷看隱私”】9月15日，微信員工@客村小蔣 就“微信小微”涉及的隱私相關問題發文回應：1、小微能接觸的資訊，不會超過你本人可以檢視的資訊範圍的許可權，比如有朋友擔心已刪除的朋友圈會不會被看到，放心，不會的；2、小微會基於公眾號、影片號等的關注、瀏覽、互動資料，做一些問題的推薦，放心，這裡同樣遵循原則1；3、關於聊天記錄，只有在聊天場景，你主動發起“問小微”的時候，小微才會被臨時調起，從微信客戶端本地讀取最近的聊天資訊，分析總結之後，原始聊天記錄不會被儲存，通用的“用完即棄”的邏輯；4、一些說小微“直接讀取聊天記錄”、“偷看所有隱私”的帖子，都是失實的。據介紹，微信小微是微信團隊開發的原生AI助手，目前正在小範圍內測。使用者可以透過文字或語音對話，讓小微查天氣、查快遞、點外賣；另外，在朋友圈、公眾號、聊天、影片號等場景，小微也可以在需要的時候被隨時喚起，來總結內容、提供更多資訊等。"
+    },
+    {
+      "id": "5094481",
+      "time": "2026-09-15 14:17:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙商證券：維持徐工機械“買入”評級，邁向全球工程機械龍頭】浙商證券研報指出，徐工機械2026H1經營性淨利潤同比增長41%；邁向全球工程機械龍頭。上半年歸母淨利潤39.6億元，同比下降9%；Q2歸母淨利潤19.1億元，同比下降18%，環比下降7%。2026H1公司輪履市佔率穩居行業第一，歐美澳高階區域業績翻倍增長。礦業機械佔比8%，同比增長2%。2026H1公司礦機事業部新能源收入增長43%，智慧化產品收入增長406%。海外業務和礦山機械業務是未來增長亮點，公司與必和必拓、力拓、淡水河谷、澳大利亞FMG等海外大客戶深化合作，礦山露天挖運裝置進位全球第四。維持“買入”評級。"
+    },
+    {
+      "id": "5094480",
+      "time": "2026-09-15 14:17:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇美達：在手船舶訂單交付排期覆蓋至2030年】蘇美達(600710)在9月15日舉行的2026年半年度業績說明會上表示，截至2026年6月底，公司在手船舶訂單105艘，交付排期覆蓋至2030年。公司持續推進船型多元化佈局，積極拓展支線集裝箱船、MR油輪及多用途船等高附加值船型，上半年共簽約6艘65K MPP（多用途船）建造訂單專案，進一步最佳化產品結構。"
+    },
+    {
+      "id": "mkt:01a0a3b5-e43c-7118-858a-f2366363c80e",
+      "time": "2026-09-15 14:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New Taiwan dollar weakened further in afternoon trade, widening losses by NT$0.20 against the US dollar to NT$31.888 per US$1."
+    },
+    {
+      "id": "5094479",
+      "time": "2026-09-15 14:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其突擊搜查食品經銷商，涉嫌操縱物價。"
+    },
+    {
+      "id": "te:economy:583729",
+      "time": "2026-09-15 14:16:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "UK Employment Posts Smallest Gain in 5 Months — The number of employed people in the United Kingdom rose by 67 thousand to 34.478 million in the three months in July 2026, following a gain of 83 thousand in the previous period. The increase was the smallest since February, as a decline in part-time employment partly offset continued growth in full-time jobs. Compared with a year earlier, employment rose by 243 thousand, driven by increases in both full-time employees and part-time self-employed workers."
+    },
+    {
+      "id": "5094478",
+      "time": "2026-09-15 14:16:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩稱阿斯麥擬在2028年生產超過110臺EUV光刻機】摩根大通分析師稱，因AI需求強勁，阿斯麥正研究2028年生產超110臺EUV裝置。小摩補充道，阿斯麥2026年低數值孔徑EUV產能約65臺，計劃明年、後年逐年提高30%，當前生產主要瓶頸為組裝速度而非供應鏈問題。"
+    },
+    {
+      "id": "te:economy:583727",
+      "time": "2026-09-15 14:15:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Norway Trade Surplus Hits Three-Year High — Norway’s trade surplus widened sharply to NOK 100.4 billion in August 2026 from NOK 59.3 billion in the same month a year earlier. This marked the largest surplus since January 2023, as exports jumped by 32.9% year-on-year to NOK 191.0 billion, mainly driven by higher shipments of food and live animals (+11.2%), fuels and lubricating oils, and electric power (+51.9%), animal and vegetable oils, fats, and waxes (+20.5%), and processed goods grouped mainly by material (+14.0%). Meanwhile, imports rose by 7.3% to NOK 90.6 billion, lifted by increased purchases of raw materials (non-edible), except fuels (+36.5%), fuels and lubricating oils, and electric power (+68.6%), machinery and means of transport (+2.7%), and different finished products (+0.7%). For the January–August period, the country posted a trade surplus of NOK 608.9 billion, compared to NOK 489.6 billion, up 24.4% from the corresponding month of the previous year, as export growth (11.7%) far outpaced imports (3.1%)."
+    },
+    {
+      "id": "mkt:01a0a3b5-159d-7118-858a-ee7172a7ff37",
+      "time": "2026-09-15 14:15:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Morgan Stanley expects the European Central Bank to cut policy rates by 25bp in December 2027."
+    },
+    {
+      "id": "5094477",
+      "time": "2026-09-15 14:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：挪威2026年核心消費者物價指數預估為3.0%，2027年預估為2.5%。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609153874600567",
+      "time": "2026-09-15 14:15:41",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "摩根士丹利預計歐洲央行將在2026年12月加息25個基點。"
+    },
     {
       "id": "5094476",
       "time": "2026-09-15 14:15:27",
@@ -33,6 +195,14 @@
         "國際"
       ],
       "text": "印度NIFTY金融服務指數下跌0.95%。"
+    },
+    {
+      "id": "5094474",
+      "time": "2026-09-15 14:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國工程院院士鄔賀銓：建設算力排程平臺，就像提供一個“美團”，讓算力供給方和使用方更好地銜接】實現了一體化算力統籌監測，是否意味著算力網已經建成？對此，中國工程院院士鄔賀銓在接受記者現場採訪時表示，國家算力網的規劃裡要建設一個算力排程平臺，目的是讓算力的供給方和使用方更好地銜接，把現有算力資源的忙閒狀況、服務質量，包括收費水平，都讓使用方能夠比較瞭解，從而更好地使用。鄔賀銓進一步闡釋，這其中要實現的是，把算力的有關引數屬性上傳到這個平臺，網路的引數也一樣——這有點像給社會提供一個類似美團的平臺，算力使用方可以在上面看得見所需要的各種服務，然後做出選擇。“這就是建設算力排程平臺的目的。國家規劃是要有一個國家平臺，每個省還有一個平臺，可能還有一些業務的平臺。”“搭了個平臺，還得把相關的資源收集起來才行。就像美團建了平臺，不等於所有餐飲公司都上來了，還得去聯絡，去把他們拉進來才行。”鄔賀銓說。（每經）"
     },
     {
       "id": "5094473",
@@ -124683,208 +124853,6 @@
         "焦點"
       ],
       "text": "市場訊息：摩爾執行緒秘密遞交港股上市申請。"
-    },
-    {
-      "id": "5082200",
-      "time": "2026-09-08 14:19:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內漲4%，現報8921.00元。"
-    },
-    {
-      "id": "5082199",
-      "time": "2026-09-08 14:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵萬年青等成立科技公司，含多項AI業務】企查查APP顯示，近日，廣東萬年青科技有限公司成立，經營範圍包含：人工智慧公共服務平臺技術諮詢服務；人工智慧應用軟體開發；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由粵萬年青等共同持股。"
-    },
-    {
-      "id": "5082198",
-      "time": "2026-09-08 14:19:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海優新材：調光膜已在海外建築領域進行推廣 相關業務有望成為公司未來重要的增長驅動力】海優新材在9月8日召開的2026年半年度業績說明會上表示，調光膜是公司重點培育的核心新業務，具備價效比優勢，同時已啟動年產200萬平方米擴產專案。此外，調光膜已在海外建築領域進行推廣。公司看好調光膜在汽車前裝、汽車後裝、建築應用等多場景的發展空間，該業務有望成為公司未來重要的增長驅動力。"
-    },
-    {
-      "id": "5082197",
-      "time": "2026-09-08 14:19:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：目前九家瑞士企業正聯合探索區塊鏈應用如何與瑞波穩定幣實現對接。"
-    },
-    {
-      "id": "mkt:01a07fab-8c31-7118-84df-180258450be9",
-      "time": "2026-09-08 14:19:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Acting governor said an attack by Ukraine on Russia's Bryansk region killed one person and wounded three."
-    },
-    {
-      "id": "5082196",
-      "time": "2026-09-08 14:18:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：瑞郎穩定幣沙盒專案進入測試階段，新增Six與Twint為新合作方。"
-    },
-    {
-      "id": "5082195",
-      "time": "2026-09-08 14:18:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破94美元/桶，日內漲2.75%。"
-    },
-    {
-      "id": "5082194",
-      "time": "2026-09-08 14:18:31",
-      "tags": [
-        "行業"
-      ],
-      "text": "【乘聯分會崔東樹：9月各品牌集中促銷 非全面“價格戰”的開端】針對9月以來特斯拉等多個品牌降價情況，中國汽車流通協會乘聯分會負責人崔東樹表示，降價促銷是車企調節供需平衡的市場行為。9月處於“金九銀十” 關鍵銷售視窗，各品牌集中促銷更多是脈衝式的視窗衝刺，目的在於沖銷量、清庫存，而非全面“價格戰“的開端。預計促銷將集中在重點月份和節點進行，整體價格體系仍相對穩定。"
-    },
-    {
-      "id": "5082193",
-      "time": "2026-09-08 14:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛歐交易所：CFTS系統無法獲取衍生品靜態資料檔案。"
-    },
-    {
-      "id": "5082192",
-      "time": "2026-09-08 14:17:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電廣傳媒等成立數字科技合夥企業】企查查APP顯示，近日，長沙辰境旅創數字科技合夥企業（有限合夥）成立，經營範圍包含：數字文化創意技術裝備銷售；物聯網技術服務等。企查查股權穿透顯示，該企業由電廣傳媒等共同出資。"
-    },
-    {
-      "id": "te:economy:581879",
-      "time": "2026-09-08 14:17:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Denmark Current Account Surplus Hits Record High — Denmark’s seasonally adjusted current account surplus widened to DKK 44.4 billion in July 2026 from a downwardly revised DKK 29.0 billion in the previous month. This marked the largest increase on record, as the goods account surplus rose to DKK 33.4 billion from DKK 22.0 billion, lifted by a 4.5% rise in exports, while imports fell by 6.9%. Moreover, the services account surplus also increased to DKK 7.1 billion from DKK 3.3 billion, while the secondary income deficit narrowed to DKK 3.0 billion from DKK 3.6 billion a month earlier. On the other hand, the primary income surplus decreased to DKK 6.8 billion from DKK 7.3 billion. In the January–July period, the current account surplus stood at DKK 208.5 billion, up slightly from DKK 208.4 billion in the same period a year ago."
-    },
-    {
-      "id": "mkt:01a07faa-5108-7118-84df-128542d5ca9b",
-      "time": "2026-09-08 14:17:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02513.HK",
-        "Impact bearish",
-        "00100.HK",
-        "02013.HK"
-      ],
-      "text": "Hong Kong-listed application software stocks extended sharp losses: Zhipu (02513.HK) down over 12%, MiniMax (00100.HK) down over 8.5%, Weimob (02013.HK) and Haiqing Zhiyuan (01392.HK) down over 5%."
-    },
-    {
-      "id": "5082191",
-      "time": "2026-09-08 14:17:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "港股應用軟體股持續大幅下挫，智譜(02513.HK)跌超12%，MiniMax(00100.HK)跌超8.5%，微盟集團(02013.HK)、海清智元(01392.HK)均跌超5%。"
-    },
-    {
-      "id": "5082190",
-      "time": "2026-09-08 14:17:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "代理州長稱，烏克蘭對俄羅斯布良斯克地區發動襲擊，造成1人死亡、3人受傷。"
-    },
-    {
-      "id": "5082189",
-      "time": "2026-09-08 14:17:32",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【小摩：鋰價短期面臨下行壓力，ESS需求支援中線展望，維持贛鋒鋰業“增持”評級】摩根大通發表中國鋰行業報告，指出碳酸鋰期貨價格本月至今下跌10%至每噸14.05萬元，中國鋰業股同期下跌9%至11%，跑輸恒指本月至今0.6%的跌幅。雖然寧德時代旗下梘下窩鋰礦復產不確定性，理應支援供應收緊的觀點，但上海有色網(SMM)修訂庫存分類，令報告庫存較此前序列增加約9.4萬噸，市場焦點轉回庫存及需求驗證。新框架雖仍顯示去庫存，但庫存總量增加的標題資料出乎市場預期，引發上週五(4日)起由情緒主導的沽售。該行認為鋰價短期有機會向每噸13萬至13.5萬元下行，但中線展望仍受下游需求、尤其儲能系統(ESS)支援。該行維持贛鋒鋰業“增持”評級，目標價70港元。"
-    },
-    {
-      "id": "5082188",
-      "time": "2026-09-08 14:17:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小度科技CEO李瑩：超能小度覆蓋5500萬家庭，日語音互動增長近300%】今日舉辦的百度AI開放日2026小度新品釋出會上，百度集團副總裁、小度科技CEO李瑩宣佈，超能小度目前已陪伴超5500萬家庭，產品日均語言深度互動量實現近300%增長。（新浪科技）"
-    },
-    {
-      "id": "5082187",
-      "time": "2026-09-08 14:17:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉冰當選南陽市人民政府市長】9月8日上午，南陽市第七屆人民代表大會第六次會議召開。經大會選舉，劉冰當選為南陽市人民政府市長，宋金東當選為南陽市第七屆人民代表大會常務委員會副主任，呂志剛、劉柯當選為南陽市第七屆人民代表大會常務委員會委員。大會表決透過呂志剛為南陽市第七屆人民代表大會法制委員會主任委員。（南陽日報）"
-    },
-    {
-      "id": "5082186",
-      "time": "2026-09-08 14:17:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星領投 Mistral AI募資30億歐元】Mistral AI 完成30億歐元（摺合35億美元）融資，由三星電子牽頭投資方，投後估值超210億歐元，資金將用於人工智慧模型研發與算力基礎設施建設。該公司週二釋出宣告稱，歐盟Scaleup Europe Fund與PSG Equity聯合領投本輪融資。這家總部位於巴黎的初創企業，估值較一年前上一輪融資的117億歐元近乎翻倍。公司執行長Arthur Mensch在採訪中表示，這筆資金將助力Mistral AI在工業人工智慧領域取得進展，把AI技術落地到生產流程，工業AI正成為該公司核心差異化優勢之一。儘管Mistral AI規模遠不及OpenAI、Anthropic PBC等生成式AI巨頭，但它一直將自身定位為歐洲主權AI備選方案。該公司已與空客、寶馬以及荷蘭光刻機廠商ASML Holding NV等歐洲大型工業企業達成合作，ASML曾領投Mistral AI的上一輪融資。"
-    },
-    {
-      "id": "5082185",
-      "time": "2026-09-08 14:16:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行本週料將再次加息，但對後續行動持謹慎態度】歐洲央行預計將於週四第二次上調關鍵利率，這是美伊戰爭爆發以來的第二次加息，但可能對進一步加息發出謹慎訊號，因為進一步加息將把借貸成本推至抑制經濟活動的水平。歐元區8月年通脹率升至3.3%，為近三年最高水平，遠高於歐洲央行2%的目標。"
-    },
-    {
-      "id": "mkt:01a07fa9-332f-7118-84df-0f77ebc0f235",
-      "time": "2026-09-08 14:16:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "ASML.AS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "【ASML pushes next-generation lithography upgrade to target large data-center chips】ASML said it will work with key customers to develop new solutions for equipment capable of producing the most advanced chips to meet demand from designers of large data-center processors such as NVIDIA. Current widely used extreme-ultraviolet (EUV) scanners can manufacture dies up to about 800 mm2. ASML's next-generation high-numerical-aperture (High-NA) EUV machines deliver finer resolution but are constrained in maximum die area by smaller reticles. ASML plans to demonstrate a pilot line using larger reticles by 2031 and to have the technology ready for high-volume production by 2033."
-    },
-    {
-      "id": "te:markets:581878",
-      "time": "2026-09-08 14:16:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for a Softer Open — European equity markets were poised to open slightly lower on Tuesday as investors continued to grapple with rising oil prices, keeping inflation risks and interest rate concerns in focus. Traders were also preparing for the European Central Bank’s meeting this week, where policymakers are expected to deliver a 25-basis-point rate hike. Meanwhile, markets remained attentive to political tensions in Germany after the far-right AfD party won in Saxony-Anhalt. Investors will also examine German and French trade data for fresh clues about the region’s economic health. In corporate developments, Renault is preparing to launch sales of its revamped electric Dacia Spring, while Jaguar Land Rover plans to cut around 4,000 jobs amid US tariff pressures, a recent cyberattack and fierce competition. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down approximately 0.2%."
     }
   ]
 }
