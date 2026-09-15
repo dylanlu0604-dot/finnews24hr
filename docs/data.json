@@ -1,7 +1,102 @@
 {
-  "updated": "2026-09-15 09:25:53",
-  "count": 13625,
+  "updated": "2026-09-15 09:29:37",
+  "count": 13630,
   "items": [
+    {
+      "id": "5094119",
+      "time": "2026-09-15 09:28:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "廣汽集團港股漲8.2%，該公司計劃收購一汽所持合資車企部分股權。"
+    },
+    {
+      "id": "mkt:01a0a2ae-3d0f-7118-8582-507ebde20965",
+      "time": "2026-09-15 09:28:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share agriculture and forestry stocks weakened; Xinnong Development hit the daily limit down, with Dunhuang Seed, Pingtan Development, Shennong Seed, Guotou Fengle and Yasheng Group tracking lower."
+    },
+    {
+      "id": "mkt:01a0a2ad-c89d-7118-8582-4b93db6c9ebf",
+      "time": "2026-09-15 09:28:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fiber-optic names opened lower; Zhaolong Hulian and Guangyunda fell over 4%, with Changyingtong, Huamai Technology, Yangtze Optical Fibre & Cable and Hangdian Co. also sliding."
+    },
+    {
+      "id": "5094118",
+      "time": "2026-09-15 09:28:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊低開，新農開發觸及跌停】種植業與林業板塊低開，新農開發觸及跌停，敦煌種業、平潭發展、神農種業、國投豐樂、亞盛集團跟跌。"
+    },
+    {
+      "id": "5094117",
+      "time": "2026-09-15 09:27:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "汽車整車股延續漲勢，安凱客車2連板，眾泰汽車、海馬汽車、中通客車、曙光股份等紛紛高開。"
+    },
+    {
+      "id": "mkt:01a0a2ad-211d-7118-8582-42e92abe66f8",
+      "time": "2026-09-15 09:27:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened down 5.61 pts (-0.14%) at 3,879.73 on Sep 15 (Tue); Shenzhen Composite opened down 22.39 pts (-0.17%) at 13,362.17; CSI 300 Index opened down 6.28 pts (-0.14%) at 4,473.81; ChiNext Index opened down 4.73 pts (-0.14%) at 3,280.85; STAR Market 50 Index opened down 4.00 pts (-0.26%) at 1,524.27."
+    },
+    {
+      "id": "5094116",
+      "time": "2026-09-15 09:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【埃安i60 2027款正式上市】9月15日，埃安i60 2027款正式上市，新車搭載文遠知行L4級同源駕駛輔助，提供純電版、增程版兩種動力選擇，純電版搭載廣汽自研非晶合金電驅，配備66L前備箱，增程版搭載華為DriveONE電驅，配備i-TRACK智慧扭矩控制系統。"
+    },
+    {
+      "id": "mkt:01a0a2ac-baf4-7118-8582-3bf7a320f8a3",
+      "time": "2026-09-15 09:27:03",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share short-drama gaming sector opened higher; Aorui De hit the daily trading limit, Guilin Tourism climbed over 6%, and Zhongwen Online, Dianhun Network, Yidian Tianxia and BlueFocus also advanced."
+    },
+    {
+      "id": "5094115",
+      "time": "2026-09-15 09:25:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.14%，深證成指跌0.17%，創業板指跌0.14%。"
+    },
     {
       "id": "mkt:01a0a2ab-499a-7118-8582-33266c523205",
       "time": "2026-09-15 09:25:29",
@@ -69,6 +164,15 @@
         "Impact bullish"
       ],
       "text": "Hong Kong open Sept 15: Hang Seng Index (HSI) up 16.46 pts (+0.07%) at 24,934.06; Hang Seng Tech Index up 20.51 pts (+0.47%) at 4,338.45; Hang Seng China Enterprises Index (HSCEI) up 18.67 pts (+0.23%) at 8,303.25; Red Chip Index up 7.38 pts (+0.18%) at 4,137.49."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609153874273495",
+      "time": "2026-09-15 09:21:56",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：開展了5970億元隔夜逆回購操作】央行公告，根據公開市場業務一級交易商的需求，2026年9月15日7天期逆回購操作量為零。同時，開展了5970億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:01a0a2a8-060f-7118-8582-101e94106cbb",
@@ -546,6 +650,14 @@
         "國際"
       ],
       "text": "【銀河證券：厄爾尼諾對有色金屬多為區域性短期擾動】銀河證券研報稱，2026年5月赤道中東太平洋進入厄爾尼諾狀態，預計11—12月達到峰值並於2027年春夏逐步衰減。氣候呈現南美西海岸多雨、東南亞偏旱、南部非洲乾旱的特徵。目前尚未出現天氣引發的大規模礦山停產。厄爾尼諾對有色金屬來說，多為區域性短期擾動，更像是供需矛盾放大器，並非行情決定性因素。"
+    },
+    {
+      "id": "5094082",
+      "time": "2026-09-15 09:03:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【精品茅臺、青花汾20連續上漲 國窖1573、習酒君品顯著回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月15日中國白酒業11大單品的終端零售均價六漲五跌，上漲品種數量略佔優勢，盤面延續分化走勢。贏家方面，精品茅臺上漲4元至2459元，連續兩日反彈，零售均價較i茅臺定價正好高出100元整；五糧液1618上漲1元至831元，連續兩日平盤後小幅抬升；青花汾20大漲6元至399元，三連陽進一步逼近400元大關；古井貢古20上漲5元至535元，連續三日走強，價格中樞脫離近期低谷持續上移；青花郎上漲5元至694元，二連漲延續修復勢頭，重新站上690元關口；水晶劍南春上漲1元至408元，連續橫盤後小幅抬升，價盤保持穩定。下跌方面，飛天茅臺下跌2元至1794元，但仍處於近30天高位區間；五糧液普五八代下跌2元至796元，五連跌持續回探，創下近30天以來新低；國窖1573下跌4元至877元，二連陽暫告收尾；洋河夢之藍M6+下跌3元至608元，短線震盪幅度擴大；習酒君品下跌5元至636元，此前連續兩日上漲後回吐部分漲幅。\n\n今日11大單品的終端零售總價小幅抬升，高階與次高階品種漲跌互現，部分前期反彈酒品出現回撥。如果11大單品各取一瓶整體打包售賣，今日總售價為10037元，較昨日上漲6元，創下4天以來新高。總價連續兩日回升，萬元整數關口得到進一步鞏固。"
     },
     {
       "id": "mkt:01a0a296-7415-7118-8581-6e5ed7a11a35",
@@ -125336,69 +125448,6 @@
         "MKT News"
       ],
       "text": "【DBS: Miniso core profit may be hit by slower overseas growth and margin dilution from direct stores】DBS Group Research says Miniso’s 2026-27 core profit could be pressured by slower-than-expected overseas sales growth and larger-than-expected margin dilution as the company shifts to directly operated stores. Miniso’s latest guidance is more cautious and reflects a European restructuring that will close about 100-110 underperforming distributor-run stores. Analysts cut 2026-27 core profit forecasts by 23-32%; profitability may remain weighed down by the overseas direct-store transition and rising selling expenses. DBS lowers its ADR target from $20 to $12 but maintains a buy rating, noting market concern over margins may already be reflected in the share price."
-    },
-    {
-      "id": "mkt:01a07ea1-7024-7118-84d6-9b494ca9fe62",
-      "time": "2026-09-08 09:28:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share sugar-substitute concept stocks surged in the opening auction. Hongmian and Yasheng Group opened at the daily limit; Sanyuan Bio, Huazi Industrial and Baolingbao opened more than 6% higher; Huakang and Bailong Chuangyuan also advanced."
-    },
-    {
-      "id": "5081756",
-      "time": "2026-09-08 09:28:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【農產品加工板塊高開，播恩集團3連板】農產品加工板塊高開，播恩集團3連板，中糧糖業、道道全、華資實業、保齡寶、金健米業跟漲。"
-    },
-    {
-      "id": "mkt:01a07ea0-8503-7118-84d6-9276c963a7ee",
-      "time": "2026-09-08 09:27:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "At the open on Tuesday Sep 8, China's Shanghai Composite rose 0.07% to 3,935.55; Shenzhen Composite rose 0.06% to 13,782.86; CSI 300 index rose 0.02% to 4,575.99; ChiNext fell 0.13% to 3,394.35; STAR 50 fell 0.08% to 1,614.19."
-    },
-    {
-      "id": "5081755",
-      "time": "2026-09-08 09:27:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【種植業與林業板塊高開，亞盛集團4連板】種植業與林業板塊高開，亞盛集團4連板，敦煌種業、海南橡膠、萬向德農、平潭發展、新賽股份跟漲。"
-    },
-    {
-      "id": "mkt:01a07ea0-22a1-7118-84d6-8cc68693ddbb",
-      "time": "2026-09-08 09:26:58",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Liquidity gauge: market rates ease】Sept. 8 morning DR007 fell to 1.3719%. The PBOC conducted a 1 bln yuan 7‑day reverse repo, fully meeting primary dealers' demand. DR007 is a short-term money-market rate and is treated as China’s short‑end rate anchor; the spread between DR007 and the PBOC 7‑day reverse‑repo (policy) rate signals funding tightness—DR007 materially above the policy rate implies money‑market stress and may prompt PBOC liquidity injection, while DR007 at or below the policy rate indicates ample funding."
-    },
-    {
-      "id": "5081754",
-      "time": "2026-09-08 09:26:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月FF EAI機器人本體銷售及出貨量達158臺】據Faraday Future訊息，8月FF EAI機器人本體銷售及出貨量再創單月新高，達到158臺。自2月啟動交付以來，截至8月底，機器人累計銷售及出貨量已達到552臺。"
     }
   ]
 }
