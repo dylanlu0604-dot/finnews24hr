@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-15 10:06:46",
-  "count": 13675,
+  "updated": "2026-09-15 10:10:31",
+  "count": 13684,
   "items": [
+    {
+      "id": "mkt:01a0a2d3-5475-7118-8584-b309c08e30cc",
+      "time": "2026-09-15 10:09:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong chief executive Lee: first five-year plan and 2026 policy address exceed 100,000 characters】Hong Kong chief executive Lee said today he will unveil the city’s first five-year plan and deliver the 2026 policy address at the Legislative Council tomorrow. The two documents total more than 100,000 characters; Lee said he will present concisely and expects the session to run two to three hours."
+    },
+    {
+      "id": "5094202",
+      "time": "2026-09-15 10:09:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：香港首個五年規劃和2026施政報告超10萬字】香港特區行政長官李家超今日（15日）表示，明天他將在立法會公佈香港首個五年規劃並發表2026年施政報告，兩份檔案內容詳實，總計超過10萬字。明天他將會簡明扼要地進行釋出，計劃在兩到三個小時內完成。（大灣區之聲）"
+    },
+    {
+      "id": "te:markets:583665",
+      "time": "2026-09-15 10:08:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 85 points, to around 24,830 on Tuesday, as investors remained cautious ahead of key economic and monetary policy developments. Gains in technology stocks provided some support to the broader market, although weakness in selected shares kept the benchmark in negative territory. Investors remained cautious ahead of key global central-bank decisions and amid elevated oil prices, which have renewed concerns over inflation and the interest-rate outlook. Additionally, the US 10-year Treasury yield briefly climbed to 5%, its highest level since October 2023, ahead of the Federal Reserve's policy decision this week. Meanwhile, investors awaited China's August economic data, including new-home prices, industrial production and retail sales due later in the day. Notable laggards included Z.AI Co. (-1.5%), Trip.com (-1.0%) and Genscript Biotech (-2.9%), while Tencent (0.9%), Kingboard Laminates (3.1%) and Techtronic Industries Co. (2.2%) advanced."
+    },
+    {
+      "id": "te:economy:583663",
+      "time": "2026-09-15 10:08:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "China Industrial Output Growth Beats Estimates — China’s industrial production grew 5.2% year-on-year in August 2026, accelerating from a 4.5% rise in July and surpassing expectations of 4.8%. The acceleration came amid faster growth in manufacturing (6.1% vs 5.5% in July), while electricity, heat, gas, and water output continued to rise (4.9% vs 5.9%). By contrast, mining output fell 1.4% (vs 4.2% in July). In the first eight months of 2026, industrial output rose 5.3%. Month-on-month, industrial output climbed 0.54%."
+    },
+    {
+      "id": "mkt:01a0a2d1-352d-7118-8584-af67b3a28b4b",
+      "time": "2026-09-15 10:06:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY up 0.3% at 154.79."
+    },
+    {
+      "id": "5094201",
+      "time": "2026-09-15 10:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曙光8000：已將5公里解析度氣象預報計算時間縮短至1小時】9月15日，中國氣象局地球系統數值預報中心與中科曙光聯合釋出的成果顯示，我國自主研發的氣象數值預報系統依託全國產AI超叢集曙光8000，將全球5公里解析度、未來10天的預報計算時間縮短至1小時，滿足業務應用的必要時效要求，達到國際第一梯隊的水平。"
+    },
+    {
+      "id": "5094200",
+      "time": "2026-09-15 10:06:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【車百會研究院師建華：當前汽車產業呈六大新發展格局 2026年全年出口預計近1100萬輛】車百會研究院副理事長師建華今日表示，當前國內汽車產業呈現國內“冷”、內需承壓；海外“熱”、打通雙迴圈；市場“卷”、出清加速；新能源“主導”、新質生產力；創新“活躍”、安全高效經濟；跨界“融合”、人工智慧驅動生態重構等六大新發展格局。車百會研究院預計，2026年全年中國汽車出口將接近1100萬輛。"
+    },
+    {
+      "id": "mkt:01a0a2d0-f93a-7118-8584-a6dfe1f6c120",
+      "time": "2026-09-15 10:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Saudi sources say flights at Jeddah airport have been suspended."
+    },
+    {
+      "id": "mkt:01a0a2d0-cbae-7118-8584-9c0e010ae2ef",
+      "time": "2026-09-15 10:06:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China's National Bureau of Statistics said August equipment-manufacturing value added rose 12.1% YoY and high-tech manufacturing rose 16.7% YoY, respectively 6.9 and 11.5 percentage points faster than total industrial value added for enterprises above designated size."
+    },
+    {
+      "id": "mkt:01a0a2d0-c644-7118-8584-9420ff852b4a",
+      "time": "2026-09-15 10:06:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "China's National Bureau of Statistics said in August production of lithium‑ion batteries rose 57.2% YoY, industrial robot output rose 34.6% YoY and 3D printing equipment output rose 29.9% YoY."
+    },
+    {
+      "id": "te:economy:583661",
+      "time": "2026-09-15 10:06:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Retail Sales YoY",
+        "Importance 2"
+      ],
+      "text": "China Retail Sales Miss Expectations — China’s retail sales rose 0.4% year-on-year in August 2026, slowing from a 0.6% gain in July and falling short of market expectations of a 0.8% increase. Consumption continued to be dragged down by weak demand for big-ticket items, with automobile sales dropping 18.5%, while furniture (-7.9%), building materials (-11.8%), and gold and silver jewelry sales (-17.5%) also declined. Meanwhile, communication equipment sales surged 27.3%, alongside strong gains in tobacco and alcohol (+12.5%), cultural and office supplies (+5.8%), and cosmetics (+4.9%). Excluding automobiles, retail sales grew 2.5%. Catering revenue increased 1.1%, while goods sales rose 0.3%. Online retail sales of goods advanced 4.3% in January-August. Month-on-month, retail sales fell 0.13% in August after edging up 0.01% in July. For the first eight months, retail sales increased 1.1%, while sales excluding automobiles rose 2.7%."
+    },
+    {
+      "id": "5094199",
+      "time": "2026-09-15 10:06:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月份我國工業機器人產量同比增長34.6%】國家統計局新聞發言人付凌暉在15日舉行的國新辦新聞釋出會上說，今年8月份，我國裝備製造業和高技術製造業快速增長，工業機器人產量同比增長34.6%，3D列印裝置、鋰離子電池產量同比分別增長29.9%、57.2%。"
+    },
     {
       "id": "mkt:01a0a2d0-88b4-7118-8584-88e20778abe6",
       "time": "2026-09-15 10:06:10",
@@ -9,6 +133,15 @@
         "MKT News"
       ],
       "text": "【NBS: China new-energy vehicle output 1.647 mln in August, +21.9% YoY】China National Bureau of Statistics: among 626 major industrial products, 286 posted YoY output growth in August. New-energy vehicle output was 1.647 mln units, up 21.9% YoY; total auto output 2.697 mln units, down 2.7% YoY. Steel 114.75 mln tonnes, -5.5% YoY; cement 129.08 mln tonnes, -11.7% YoY; ten non-ferrous metals 7.10 mln tonnes, +1.6% YoY; ethylene 3.60 mln tonnes, +3.6% YoY. Power generation 943.8 bln kWh, -0.8% YoY; crude oil processing 59.07 mln tonnes, -6.9% YoY."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874432829",
+      "time": "2026-09-15 10:05:30",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：8月規上工業原油產量1843萬噸 同比增長0.8%】國家統計局資料顯示，8月份，規上工業原油產量1843萬噸，同比增長0.8%，增速與7月份持平；日均產量59.5萬噸。1—8月份，規上工業原油產量14639萬噸，同比增長0.9%。8月份，規上工業原油加工量5907萬噸，同比下降6.9%，降幅比7月份收窄8.9個百分點；日均加工量190.6萬噸。1—8月份，規上工業原油加工量45612萬噸，同比下降6.6%。"
     },
     {
       "id": "5094198",
@@ -46,6 +179,15 @@
         "MKT News"
       ],
       "text": "【China NBS: Employment broadly stable; urban surveyed jobless rate rises seasonally】China's National Bureau of Statistics said employment is broadly stable. The urban surveyed unemployment rate rose seasonally to 5.3% in August, up 0.1 percentage point month-on-month; the Jan–Aug average was 5.2%, unchanged year-on-year. In 31 major cities the urban surveyed unemployment rate was 5.3%, up 0.1 percentage point from July. Unemployment among local household-registration (hukou) workers was 5.3%; non-local (migrant) household-registration workers 5.2%, including non-local agricultural-hukou workers at 5.0%. Nationwide average weekly hours for enterprise employees were 48.2 hours."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874433146",
+      "time": "2026-09-15 10:04:35",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：8月份規上工業天然氣產量214億立方米 同比增長0.8%】國家統計局資料顯示，天然氣生產由降轉增。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。"
     },
     {
       "id": "5094196",
@@ -88,6 +230,15 @@
         "Energy"
       ],
       "text": "【China's NBS: industrial natural gas output at enterprises above designated size 21.4 bcm in August, +0.8% YoY】Production returned to growth. In August output at enterprises above designated size was 21.4 bcm, up 0.8% YoY (July -0.9%); daily average 0.69 bcm. Jan‑Aug cumulative output was 175.7 bcm, up 1.1% YoY."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874433452",
+      "time": "2026-09-15 10:03:58",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：8月規上工業發電量9438億千瓦時 同比下降0.8%】國家統計局資料顯示，8月份，規上工業發電量9438億千瓦時，同比下降0.8%；日均發電304.4億千瓦時。1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%。"
     },
     {
       "id": "5094195",
@@ -223,6 +374,15 @@
         "其他"
       ],
       "text": "委內瑞拉代總統羅德里格斯計劃訪問聯合國，並預計將舉行高層會晤。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874432524",
+      "time": "2026-09-15 10:02:04",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—8月份全國固定資產投資（不含農戶）293092億元 同比下降7.2%】1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%（按可比口徑計算）。其中，智慧財產權產品投資同比增長9.2%。"
     },
     {
       "id": "mkt:01a0a2cc-b7d7-7118-8584-3ee1760c4e68",
@@ -457,6 +617,15 @@
         "Copper"
       ],
       "text": "China industrial value added of enterprises above designated size rose 5.2% YoY in August, accelerating 0.7 percentage points from July; MoM growth was 0.54%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202609153874419887",
+      "time": "2026-09-15 10:00:30",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：8月規模以上工業增加值同比增長5.2% 社會消費品零售總額增長0.4%】8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。8月份，社會消費品零售總額39824億元，同比增長0.4%；環比下降0.13%。1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%；扣除房地產開發的固定資產投資下降4.2%。"
     },
     {
       "id": "mkt:01a0a2cb-2fb1-7118-8583-d5cf737f8961",
@@ -125861,78 +126030,6 @@
         "公司"
       ],
       "text": "【景旺電子成立技術公司，含積體電路設計業務】企查查APP顯示，近日，珠海景泓電子技術有限公司成立，法定代表人為孫玉凱，註冊資本為1000萬元，經營範圍包含：積體電路設計；電子元器件製造；電子專用材料製造。企查查股權穿透顯示，該公司由景旺電子間接全資持股。"
-    },
-    {
-      "id": "5081852",
-      "time": "2026-09-08 10:10:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【威圖醫療獲得邦勤創投數千萬元Pre-A輪投資】9月8日，威圖醫療宣佈完成數千萬元人民幣Pre-A輪融資，本輪融資由邦勤創投投資。本輪融資資金將用於AI影像診斷研發、新一代動態成像技術迭代，以及海外營銷與全球市場拓展。"
-    },
-    {
-      "id": "5081851",
-      "time": "2026-09-08 10:09:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國信證券紡服業策略：緊握品牌景氣方向 留意製造反轉訊號】國信證券釋出研報稱，三季度至今紡服指數跑贏大盤，紡織製造好於品牌服飾。2026年上半年品牌好於製造，行業延續內需溫和復甦、外需承壓、強分化格局。運動戶外呈\"大眾運動存量競爭、專業細分高景氣\"。家紡進入秋冬旺季以及伴隨下半年大單品迭代推新，有望延續增長態勢。在關稅明朗、原材料趨穩、下游補庫修復下環比改善可期，收入端有望率先恢復，客戶結構差異是業績分化核心，龍頭估值處歷史底部、有望迎來基本面與估值雙升。"
-    },
-    {
-      "id": "5081850",
-      "time": "2026-09-08 10:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信支付智慧眼鏡SDK正式上線】9月8日，據微信公開課訊息，微信支付智慧眼鏡SDK正式上線。微信支付將掃一掃支付能力封裝成一套標準SDK，面向符合接入標準的智慧眼鏡廠商開放，使用者可以在適配的智慧眼鏡上完成付款。據介紹，Rokid樂奇AI眼鏡是首款完成適配的產品。"
-    },
-    {
-      "id": "5081849",
-      "time": "2026-09-08 10:08:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電影等成立影米文化發展公司】企查查APP顯示，近日，影米（廈門）文化發展有限公司成立，經營範圍包含：遊藝用品及室內遊藝器材銷售；勞動保護用品銷售；通訊裝置銷售；智慧家庭消費裝置製造等。企查查股權穿透顯示，該公司由上海電影等共同持股。"
-    },
-    {
-      "id": "5081848",
-      "time": "2026-09-08 10:08:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中吉烏鐵路吉爾吉斯斯坦境內段建設全面推進】中吉烏鐵路吉爾吉斯斯坦境內段建設正在全面推進，別迭裡口岸已實現臨時性通車，巴爾斯科恩-別迭裡公路、比什凱克北部繞城公路建設也在緊鑼密鼓進行中。面對高寒凍土等嚴峻挑戰，中吉建設者們正用智慧和汗水將一條條嶄新的道路向前延伸。（新華社）"
-    },
-    {
-      "id": "te:markets:581799",
-      "time": "2026-09-08 10:08:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Weakens as Yen Gains — The dollar index slipped to around 98.8 on Tuesday, declining for a second consecutive session as the yen extended its gains on expectations of more aggressive monetary tightening by the Bank of Japan and continued unwinding of carry trades. In the US, investors turned their attention to inflation data due this week, which could provide greater clarity on the interest rate outlook ahead of the Federal Reserve’s policy meeting next week. Markets are currently pricing in roughly a 60% probability of a 25-basis-point Fed rate hike next week following stronger-than-expected jobs data released on Friday. The European Central Bank is also expected to raise interest rates this week. Meanwhile, investors continued to track developments in the Middle East as renewed US-Iran fighting pushed oil prices higher, keeping inflation risks firmly in focus."
-    },
-    {
-      "id": "te:markets:581798",
-      "time": "2026-09-08 10:08:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as Trade Data Looms — The Shanghai Composite rose 0.3% to 3,945 on Tuesday, while the Shenzhen Component fell 0.3% to 13,731, delivering a mixed performance as investors adopted a cautious stance ahead of China's trade data due later in the day. Exports are expected to accelerate to 25% year-on-year in August from 23.9% in July, while import growth is forecast to increase to 30% from 27.5%. Risk appetite was further tempered by renewed geopolitical frictions after Beijing announced preliminary anti-dumping measures on Japanese imports of a chemical used in semiconductor production. The latest move adds to a series of retaliatory actions linked to the ongoing Taiwan-related dispute between China and Japan. Notable gainers included Zijin Mining Group (2.8%), China Petroleum and Chemical Corporation (1.1%), and China CITIC Bank (1.3%). In contrast, CATL (-2.6%), Weichai Power (-2.3%), and Muyuan Foods Group (-1.3%) declined."
-    },
-    {
-      "id": "5081847",
-      "time": "2026-09-08 10:07:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "極氪7X全球第20萬臺量產下線。"
     }
   ]
 }
