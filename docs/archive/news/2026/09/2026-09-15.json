@@ -1,7 +1,76 @@
 {
   "date": "2026-09-15",
-  "count": 1327,
+  "count": 1335,
   "items": [
+    {
+      "id": "mkt:01a0a3db-8dc0-7118-858c-674bf540aa04",
+      "time": "2026-09-15 14:57:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's EDF will not participate in Tuesday's intraday power auction due to ongoing strikes."
+    },
+    {
+      "id": "5094570",
+      "time": "2026-09-15 14:57:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "受當前罷工影響，法國電力公司（EDF）將不參與週二的日內電力拍賣投標。"
+    },
+    {
+      "id": "mkt:01a0a3da-8d86-7118-858c-5e4defa35b69",
+      "time": "2026-09-15 14:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An acting governor said Russian strikes cut power to parts of the southern Ukrainian city of Zaporizhzhia."
+    },
+    {
+      "id": "mkt:01a0a3da-3e6d-7118-858c-54e66fa316ff",
+      "time": "2026-09-15 14:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor says seven people have been injured in the capital; all are being treated at municipal hospitals, two in serious condition."
+    },
+    {
+      "id": "5094569",
+      "time": "2026-09-15 14:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪攜手阿里雲推進智慧座艙升級】昨日，比亞迪“超級智慧體迪迪蝦暨騰勢N8L純電上市釋出會”舉行。圍繞下一代智慧座艙，比亞迪正與阿里雲推進AI合作：千問大模型接入比亞迪座艙體系，參與使用者多輪對話與複雜意圖理解、任務編排、長期記憶與生態服務連線，讓車機從“被動聽懂一句話”進一步走向“主動辦成一件事”。（阿里雲）"
+    },
+    {
+      "id": "te:economy:583758",
+      "time": "2026-09-15 14:55:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "France August Inflation Confirmed at 2.4% — The annual inflation rate in France accelerated to 2.4% in August 2026, up from 2.1% in July and confirming preliminary estimates. This marked the highest reading in three months, driven mainly by a sharp acceleration in energy inflation to 16.7% from 12.6% in July, particularly for petroleum products. Meanwhile, food inflation edged up to 1.1% from 1.0%, while the decline in manufactured product prices eased to 0.4% from 0.7%. On the other hand, services inflation slowed to 1.9% from 2.2%, while tobacco inflation remained unchanged at 3.3%. On a monthly basis, consumer prices rose 0.7% in August, following a 0.6% increase in July, as manufactured product prices rebounded seasonally after the summer sales, while energy and food prices also increased. Annual core inflation also eased to 1.1% from 1.3%. Meanwhile, the EU-harmonised annual inflation rate accelerated to 2.6% from 2.4%, while monthly HICP inflation rose to 0.7% from 0.6%."
+    },
+    {
+      "id": "5094568",
+      "time": "2026-09-15 14:55:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市週二連續第四日收跌，韓元走弱】受宏觀不確定性以及人工智慧行業領軍人物近期呼籲放緩行業發展節奏的影響，首爾股市週二連續第四個交易日收低，韓元兌美元匯率下跌。韓國綜合股價指數（KOSPI）下跌 57.11 點，跌幅 0.85%，報 6627.26 點。大信證券分析師李京敏表示：“雖然並未出現新的利空因素，但投資者對利率、國際油價進一步上漲等外部不確定性較為敏感。”美國 10 年期國債收益率突破 5% 後，國際基準布倫特原油上漲約 1.6%，升至每桶 107 美元上方。"
+    },
+    {
+      "id": "5094567",
+      "time": "2026-09-15 14:54:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：壁仞科技據稱正在初步摸底投資者意向；據悉公司考慮在10月鎖定期到期後，於港股出售股份。"
+    },
     {
       "id": "5094566",
       "time": "2026-09-15 14:53:49",
