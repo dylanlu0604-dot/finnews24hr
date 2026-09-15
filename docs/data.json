@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-16 05:13:04",
-  "count": 13428,
+  "updated": "2026-09-16 05:29:36",
+  "count": 13414,
   "items": [
+    {
+      "id": "5096030",
+      "time": "2026-09-16 05:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.25%，報14306點。"
+    },
+    {
+      "id": "5096028",
+      "time": "2026-09-16 05:14:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "諾福克南方公司CEO：客戶大多已度過關稅不確定性階段，但中東衝突對燃料價格和全球航運路線的影響仍令人擔憂。"
+    },
+    {
+      "id": "5096027",
+      "time": "2026-09-16 05:12:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆和特朗普將在聯合國大會期間會晤。"
+    },
+    {
+      "id": "5096025",
+      "time": "2026-09-16 05:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆下週將在紐約首次會見特朗普。"
+    },
+    {
+      "id": "5096022",
+      "time": "2026-09-16 05:08:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾福克南方公司執行長：公司預計將繼續逐步提升市場份額，下一個將貨運從公路轉向鐵路的重大機遇將在2027年合同招標季到來。"
+    },
     {
       "id": "5096012",
       "time": "2026-09-16 04:59:15",
@@ -123634,166 +123675,6 @@
         "Impact mixed"
       ],
       "text": "Bessent said he has a sound basis for judgment when we intervene in the yen."
-    },
-    {
-      "id": "mkt:01a082eb-f493-7118-84f5-21083d3bae23",
-      "time": "2026-09-09 05:28:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Supreme Court denied Missouri's request to use a Republican-drawn congressional district map in the November midterm elections."
-    },
-    {
-      "id": "5083713",
-      "time": "2026-09-09 05:27:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們干預日元匯率時，我掌握充分內情。充分洞悉日本央行及政策制定者的動向。"
-    },
-    {
-      "id": "5083712",
-      "time": "2026-09-09 05:27:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我掌握非對稱資訊，如今我就是莊家。（談及日元）想和我對賭儘管來，我掌握資訊。"
-    },
-    {
-      "id": "5083711",
-      "time": "2026-09-09 05:24:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特提及他去年曾支援阿根廷比索。"
-    },
-    {
-      "id": "5083710",
-      "time": "2026-09-09 05:24:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我可藉助美國資產負債表推行對外政策。"
-    },
-    {
-      "id": "5083709",
-      "time": "2026-09-09 05:23:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特：重申美國債券市場表現優於其他市場。目前正試圖為債券市場降溫。"
-    },
-    {
-      "id": "5083708",
-      "time": "2026-09-09 05:23:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社：美軍襲擊賈斯克外海的商船。"
-    },
-    {
-      "id": "5083707",
-      "time": "2026-09-09 05:22:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：美債市場的論調十分荒謬。"
-    },
-    {
-      "id": "5083706",
-      "time": "2026-09-09 05:21:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：8 月，美債市場的主流論調是天要塌了。"
-    },
-    {
-      "id": "mkt:01a082e5-ce40-7118-84f5-1e111f04ed3f",
-      "time": "2026-09-09 05:21:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's president says he will participate responsibly in efforts to stabilize the region."
-    },
-    {
-      "id": "mkt:01a082e5-518a-7118-84f5-1450f56d6a51",
-      "time": "2026-09-09 05:21:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) director Mark Stevens reported the sale of 1.02 mln NVIDIA common shares in transactions executed Sept. 3-4 at $227.25–$234.04 per share."
-    },
-    {
-      "id": "5083705",
-      "time": "2026-09-09 05:19:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：市場並非有效，市場由人主導，而人會犯錯。"
-    },
-    {
-      "id": "5083704",
-      "time": "2026-09-09 05:19:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國商務部長盧特尼克將前往墨西哥，參與貿易對話。"
-    },
-    {
-      "id": "5083703",
-      "time": "2026-09-09 05:18:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞總統：該國需要美國在雷達、飛機及其他領域提供援助以打擊犯罪。"
-    },
-    {
-      "id": "mkt:01a082e2-b903-7118-84f5-0836f3fd432d",
-      "time": "2026-09-09 05:18:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombian president said after meeting US Secretary of State Rubio that Colombia seeks to be Washington's primary partner in counternarcotics operations."
-    },
-    {
-      "id": "5083702",
-      "time": "2026-09-09 05:17:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞總統：哥倫比亞希望成為美國打擊毒品販運方面的首要盟友。"
-    },
-    {
-      "id": "mkt:01a082e2-17f6-7118-84f5-0513a14f4d48",
-      "time": "2026-09-09 05:17:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports US Commerce Secretary Lutnick is expected to meet Wednesday local time with Mexican President sheinbaum and Mexico's economy minister EBRARD to discuss trade issues, including US tariffs on Mexican autos and metal products."
-    },
-    {
-      "id": "5083701",
-      "time": "2026-09-09 05:15:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.10%，報14578點。"
-    },
-    {
-      "id": "5083700",
-      "time": "2026-09-09 05:15:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。"
     }
   ]
 }
