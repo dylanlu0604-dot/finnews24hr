@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-15 23:53:54",
-  "count": 13454,
+  "updated": "2026-09-15 23:57:52",
+  "count": 13459,
   "items": [
+    {
+      "id": "5095809",
+      "time": "2026-09-15 23:56:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 一名美國官員表示，美軍與海灣國家已開始安排油輪在海峽日間通行，不再像近幾個月那樣僅在夜間通行。"
+    },
+    {
+      "id": "5095808",
+      "time": "2026-09-15 23:55:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "房利美、房地美股價續跌，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:01a0a5c8-1465-7118-859f-adcf9138fc94",
+      "time": "2026-09-15 23:55:48",
+      "tags": [
+        "MKT News",
+        "FNMA.O",
+        "Impact bearish",
+        "FMCC.O"
+      ],
+      "text": "Shares of Fannie Mae and Freddie Mac extended losses, hitting new intraday lows."
+    },
+    {
+      "id": "mkt:01a0a5c8-0340-7118-859f-a426f3c502d0",
+      "time": "2026-09-15 23:55:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Ukraine's foreign minister said Ukraine's maritime corridor must continue to operate safely and without interference, and that Russia must not be allowed to decide whether civilian vessels can freely navigate the Black Sea."
+    },
+    {
+      "id": "mkt:01a0a5c7-c3fc-7118-859f-9955a22c11ca",
+      "time": "2026-09-15 23:55:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2388.HK"
+      ],
+      "text": "【Bank of China (Hong Kong) to use mainland cross-border credit reports in retail lending from Sept. 16】Bank of China (Hong Kong) said it will from Sept. 16 apply verified mainland personal cross-border credit reports in credit approvals for mortgages, personal loans and credit cards. The bank said the reports will be used to assess repayment capacity, streamline approvals and could enable better lending terms for mainland residents working or living in Hong Kong. The move follows an Oct. 2025 decision by the Hong Kong Monetary Authority and the People's Bank of China (PBOC) to regularize cross-border credit reporting; BOC Hong Kong is the first in-market bank to announce implementation."
+    },
+    {
+      "id": "mkt:01a0a5c7-c275-7118-859f-975e4556572c",
+      "time": "2026-09-15 23:55:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【BESSENT: Treasury buybacks successful】BESSENT said on Tuesday the Treasury’s recent buyback operations of long-dated U.S. Treasuries have been successful and demand was strong at the two auctions following the intervention. He said the repurchases were intended to inject liquidity and curb rising yields that increase government borrowing costs, but yields rose after the Treasury’s largest buyback last week. \"We can imagine what would have happened had we not acted and then had the two most successful Treasury auctions in 20 years,\" BESSENT told a congressional hearing. He added that since President Trump took office the U.S. bond market has been the best-performing developed-market bond market."
+    },
+    {
+      "id": "mkt:01a0a5c7-bc38-7118-859f-8e79fafe3e58",
+      "time": "2026-09-15 23:55:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian foreign minister held talks with the IMO secretary-general on deteriorating Black Sea security from Russia’s continued attacks on Ukrainian ports, civilian vessels and shipping lanes, saying the strikes endanger civilian crews, threaten freedom of navigation and disrupt global food security."
+    },
+    {
+      "id": "mkt:01a0a5c6-d14e-7118-859f-8111fa9240d4",
+      "time": "2026-09-15 23:54:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. has taken control of many Venezuelan assets."
+    },
+    {
+      "id": "5095807",
+      "time": "2026-09-15 23:54:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：已接管多項委內瑞拉資產。"
+    },
+    {
+      "id": "mkt:01a0a5c6-9f26-7118-859f-7c089624cc5a",
+      "time": "2026-09-15 23:54:12",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Sources say Boeing (BA.N) is close to finalizing a deal to sell 150 737 MAX aircraft to Turkish Airlines after resolving an engine maintenance dispute."
+    },
+    {
+      "id": "5095806",
+      "time": "2026-09-15 23:54:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：發動機維修糾紛解決後，波音公司 即將敲定向土耳其航空出售 150 架 MAX 系列客機的訂單。"
+    },
     {
       "id": "mkt:01a0a5c5-b0fa-7118-859f-7229f75cc13a",
       "time": "2026-09-15 23:53:11",
@@ -123979,55 +124090,6 @@
         "國際"
       ],
       "text": "美國堪薩斯州共和黨參議員馬歇爾表示，在特朗普威脅禁售龐巴迪飛機後，他將竭力保住龐巴迪在堪薩斯州的1200多個工作崗位。"
-    },
-    {
-      "id": "5083505",
-      "time": "2026-09-08 23:57:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟石油協調小組：目前不存在緊迫的石油供應安全隱患。"
-    },
-    {
-      "id": "5083504",
-      "time": "2026-09-08 23:57:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通對50億美元的資料中心業務目標抱有高度信心。"
-    },
-    {
-      "id": "5083503",
-      "time": "2026-09-08 23:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "莫三比克表示，國際貨幣基金組織工作組將於9月到訪，舉行技術性會談。"
-    },
-    {
-      "id": "5083502",
-      "time": "2026-09-08 23:55:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通首席財務官表示，與亞馬遜的交易讓高通得以在2027財年至2028財年實現強勁的同比營收增長。"
-    },
-    {
-      "id": "5083501",
-      "time": "2026-09-08 23:55:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通將於12月所在財季開始確認來自亞馬遜的營收。"
-    },
-    {
-      "id": "5083500",
-      "time": "2026-09-08 23:54:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國堪薩斯州共和黨參議員馬歇爾：我已就龐巴迪公司的就業崗位問題前往橢圓形（總統）辦公室當面陳情。"
     }
   ]
 }
