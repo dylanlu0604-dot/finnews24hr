@@ -1,7 +1,68 @@
 {
   "date": "2026-09-15",
-  "count": 1800,
+  "count": 1807,
   "items": [
+    {
+      "id": "mkt:01a0a4d9-e318-7118-8595-4bfa6a19c1c0",
+      "time": "2026-09-15 19:35:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Poland to reinstate windfall tax on oil firms to ease fuel prices】Poland plans to reinstate a 60% windfall tax on oil companies' excess profits earned from March–December 2026, with proceeds earmarked to lower domestic fuel prices. The government estimates the levy will raise about PLN 4 billion annually (~$1.06 billion). The bill was previously vetoed and referred to the Constitutional Court, which has not ruled; the government has resubmitted the measure and intends to approve it and send it back to parliament, urging the president not to block it again."
+    },
+    {
+      "id": "5095311",
+      "time": "2026-09-15 19:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭總統：我們將向烏克蘭提供價值2.9億歐元的國防援助，其中包括基輔緊急請求的裝備。"
+    },
+    {
+      "id": "mkt:01a0a4d8-19d4-7118-8595-418092fc115c",
+      "time": "2026-09-15 19:33:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Interfax reports Azerbaijan's oil exports in Jan-Aug fell 8% YoY to 14.7 mln tonnes."
+    },
+    {
+      "id": "5095309",
+      "time": "2026-09-15 19:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然 1 至 8 月石油出口量下降 8% 至 1470 萬噸。"
+    },
+    {
+      "id": "5095308",
+      "time": "2026-09-15 19:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳即將迎來第二個機場】9月15日，記者從深圳市龍華區獲悉，日前，民航中南地區管理局正式批覆：原深圳南頭直升機場遷建到龍華樟坑徑後，標準名稱確定為“深圳龍華機場”。據記者瞭解，該機場定位為A1類通用機場，位於龍華區樟坑徑片區，總用地約25.83萬平方米，建築面積約9萬平方米，建設規模是原址兩倍以上，總投資約10億元。機場規劃設定800米跑道、26個停機坪，配套建設指揮業務綜合樓、多型別機庫、航材庫、維修保障用房等全套通航設施。（21財經）"
+    },
+    {
+      "id": "mkt:01a0a4d6-f4bf-7118-8595-3a789bfd8ec7",
+      "time": "2026-09-15 19:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said Canada is more European in character than ever."
+    },
+    {
+      "id": "mkt:01a0a4d6-cf96-7118-8595-33d4b0770038",
+      "time": "2026-09-15 19:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister said Russian air strikes have destroyed or damaged more than 500 locomotives and called on allies to provide urgent locomotive support."
+    },
     {
       "id": "5095305",
       "time": "2026-09-15 19:31:48",
