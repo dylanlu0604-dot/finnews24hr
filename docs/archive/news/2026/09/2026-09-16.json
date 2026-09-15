@@ -1,7 +1,148 @@
 {
   "date": "2026-09-16",
-  "count": 68,
+  "count": 81,
   "items": [
+    {
+      "id": "5095846",
+      "time": "2026-09-16 01:03:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：自 2026 年 9 月 15 日起在美國 Prime Video 上線五項服務捆綁套餐，月費 29.99 美元。五項流媒體服務捆綁套餐登陸美國 Prime Video，整合 AMC+、BritBox、MGM+、PBS Masterpiece 以及 Starz。"
+    },
+    {
+      "id": "5095845",
+      "time": "2026-09-16 01:03:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 20 年期國債收益率在招標後繼續走高，上升 5.09 個基點，報 5.418%。"
+    },
+    {
+      "id": "mkt:01a0a605-c42c-7118-85a0-f67b528426c4",
+      "time": "2026-09-16 01:03:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 20-year Treasury yield rose further after the auction, up 5.09 bps to 5.418%."
+    },
+    {
+      "id": "mkt:01a0a605-46f1-7118-85a0-e9b97bbfbbc0",
+      "time": "2026-09-16 01:02:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) will launch a bundle of five services on Prime Video in the US effective Sept. 15, 2026."
+    },
+    {
+      "id": "5095844",
+      "time": "2026-09-16 01:02:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣130億美元20年期國債，得標利率5.420%，突破2023年10月按5.245%所創歷史最高，投標倍數2.57。"
+    },
+    {
+      "id": "mkt:01a0a605-01f7-7118-85a0-e1370819151f",
+      "time": "2026-09-16 01:02:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 20-year Treasury auction as of Sept. 15 — bid-cover ratio 2.57; prior 2.53."
+    },
+    {
+      "id": "mkt:01a0a605-0111-7118-85a0-d97391abd72c",
+      "time": "2026-09-16 01:02:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 20-year Treasury auction (Sep 15) — stop-out yield 5.42%, prior 5.20%."
+    },
+    {
+      "id": "mkt:01a0a604-f73a-7118-85a0-d5584b5fa8fc",
+      "time": "2026-09-16 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. 20-year Treasury auction to Sept 15: percentage of allotment at the stop-out rate 30.14%, prior 65.58%."
+    },
+    {
+      "id": "mkt:01a0a604-bf30-7118-85a0-ca990d6a0d50",
+      "time": "2026-09-16 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (Sep.15) | actual 30.14% | previous 65.58%"
+    },
+    {
+      "id": "mkt:01a0a604-bf2d-7118-85a0-c6d506c129a3",
+      "time": "2026-09-16 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (Sep.15) | actual 5.42% | previous 5.20%"
+    },
+    {
+      "id": "mkt:01a0a604-bf2b-7118-85a0-bbe0142aed32",
+      "time": "2026-09-16 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Sep.15) | actual 2.57 | previous 2.53"
+    },
+    {
+      "id": "mkt:01a0a604-ba13-7118-85a0-b250b2100d46",
+      "time": "2026-09-16 01:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent's hearing before the House Financial Services Committee has concluded."
+    },
+    {
+      "id": "5095843",
+      "time": "2026-09-16 01:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Thatch按10億美元估值融資1.08億美元。"
+    },
     {
       "id": "5095842",
       "time": "2026-09-16 01:00:02",
