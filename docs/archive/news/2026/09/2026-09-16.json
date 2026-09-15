@@ -1,7 +1,35 @@
 {
   "date": "2026-09-16",
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "id": "mkt:01a0a5d3-bdf9-7118-859f-e236fa62db30",
+      "time": "2026-09-16 00:08:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge issued a temporary injunction preventing the Kennedy Center in Washington from restoring Donald Trump's name to its exterior wall and from renaming the plaza Trump Plaza."
+    },
+    {
+      "id": "5095817",
+      "time": "2026-09-16 00:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官臨時禁止華盛頓肯尼迪中心將唐納德・特朗普的名字重新放回建築外牆，並禁止以他的名字命名廣場。"
+    },
+    {
+      "id": "te:markets:583952",
+      "time": "2026-09-16 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.41% Lower — The FTSE 100 Index dropped 44 points or 0.41 percent on Tuesday to close at 10654 points. Losses were led by Relx (-2.59%), Glencore (-2.52%) and Antofagasta (-2.37%). Offsetting the fall, top gainers were Babcock International (3.45%), BAE Systems (2.77%) and Kingfisher (2.05%)."
+    },
     {
       "id": "mkt:01a0a5cf-ebe0-7118-859f-d8b5afb1daea",
       "time": "2026-09-16 00:04:21",

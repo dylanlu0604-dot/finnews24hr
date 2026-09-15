@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-16 00:06:10",
-  "count": 13469,
+  "updated": "2026-09-16 00:10:13",
+  "count": 13462,
   "items": [
+    {
+      "id": "mkt:01a0a5d3-bdf9-7118-859f-e236fa62db30",
+      "time": "2026-09-16 00:08:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge issued a temporary injunction preventing the Kennedy Center in Washington from restoring Donald Trump's name to its exterior wall and from renaming the plaza Trump Plaza."
+    },
+    {
+      "id": "5095817",
+      "time": "2026-09-16 00:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官臨時禁止華盛頓肯尼迪中心將唐納德・特朗普的名字重新放回建築外牆，並禁止以他的名字命名廣場。"
+    },
+    {
+      "id": "te:markets:583952",
+      "time": "2026-09-16 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.41% Lower — The FTSE 100 Index dropped 44 points or 0.41 percent on Tuesday to close at 10654 points. Losses were led by Relx (-2.59%), Glencore (-2.52%) and Antofagasta (-2.37%). Offsetting the fall, top gainers were Babcock International (3.45%), BAE Systems (2.77%) and Kingfisher (2.05%)."
+    },
     {
       "id": "mkt:01a0a5cf-ebe0-7118-859f-d8b5afb1daea",
       "time": "2026-09-16 00:04:21",
@@ -124101,105 +124129,6 @@
         "其他"
       ],
       "text": "OpenAI：開展生成式人工智慧對青少年影響的獨立研究。"
-    },
-    {
-      "id": "te:markets:582115",
-      "time": "2026-09-09 00:10:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.14% Higher — The CAC 40 Index rose 12 points or 0.14 percent on Tuesday to close at 8318 points. Leading the gains are Carrefour (2.37%), Bureau Veritas (2.18%) and Danone (2.11%). Top losers were Edenred (-3.44%), Stellantis NV (-3.13%) and Hermes International (-2.19%)."
-    },
-    {
-      "id": "5083514",
-      "time": "2026-09-09 00:09:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI承諾投入500萬美元，支援針對青少年的獨立研究。"
-    },
-    {
-      "id": "mkt:01a081c7-8b7f-7118-84f1-24f42ffde51a",
-      "time": "2026-09-09 00:08:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 1.2 mln barrels last week to 285.4 mln barrels, the lowest level since 1982."
-    },
-    {
-      "id": "mkt:01a081c7-7f39-7118-84f1-1ca0f45eb3c8",
-      "time": "2026-09-09 00:08:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "Kyiv officials said a Russian military attack on Kyiv Oblast killed two people and wounded three; in Bucha district a drone strike ignited a warehouse, the fire has been extinguished and the injured have been hospitalized."
-    },
-    {
-      "id": "5083513",
-      "time": "2026-09-09 00:08:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "上週美國戰略石油儲備原油庫存下降約120萬桶，至2.854億桶，創下1982年以來的最低水平。"
-    },
-    {
-      "id": "5083512",
-      "time": "2026-09-09 00:08:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們認為讓俄羅斯代表團出席二十國集團會議十分重要。因為如果不進行對話，又該如何結束俄烏衝突？"
-    },
-    {
-      "id": "te:markets:582114",
-      "time": "2026-09-09 00:07:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.09% Lower — The FTSE 100 Index dropped 10 points or 0.09 percent on Tuesday to close at 10812 points. Losses were led by Computacenter (-5.09%), Smith & Nephew (-4.56%) and GlaxoSmithKline (-2.48%). Offsetting the fall, top gainers were Antofagasta (4.69%), Glencore (4.05%) and Weir (3.52%)."
-    },
-    {
-      "id": "mkt:01a081c5-7b17-7118-84f1-158b79c2845b",
-      "time": "2026-09-09 00:06:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Irish media regulator said it is concerned that X's age verification implementation may be ineffective."
-    },
-    {
-      "id": "mkt:01a081c5-5ceb-7118-84f1-0d63ef35bf54",
-      "time": "2026-09-09 00:06:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Irish media regulator opens probe into X under the Online Safety Code."
-    },
-    {
-      "id": "5083511",
-      "time": "2026-09-09 00:06:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛爾蘭媒體監管機構已根據《網路安全守則》對X展開調查。"
     }
   ]
 }
