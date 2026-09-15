@@ -1,7 +1,99 @@
 {
   "date": "2026-09-15",
-  "count": 718,
+  "count": 728,
   "items": [
+    {
+      "id": "5094172",
+      "time": "2026-09-15 09:58:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈心巧手、千味央廚等成立科技公司 含機器人業務】企查查APP顯示，近日，鄭州千巧科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由靈心巧手（北京）科技股份有限公司、千味央廚等共同持股。"
+    },
+    {
+      "id": "5094171",
+      "time": "2026-09-15 09:58:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念快速拉昇 宏和科技漲停】玻纖概念快速拉昇，宏和科技漲停，國際復材、中國巨石、長海股份、中材科技跟漲。"
+    },
+    {
+      "id": "5094170",
+      "time": "2026-09-15 09:57:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【傳媒板塊震盪走強 中視傳媒漲停】傳媒板塊震盪走強，截至發稿，中視傳媒漲停，出版傳媒、中信出版、中國出版跟漲。"
+    },
+    {
+      "id": "5094169",
+      "time": "2026-09-15 09:57:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盧偉冰官宣小米18Pro本月釋出】小米集團合夥人 & 總裁、手機部總裁、小米品牌總經理盧偉冰今日在微博發文，代表小米 18 Pro 系列正式開啟預熱。 他表示，全新的小米 18 Pro 系列將於本月釋出，這是小米數字系列有史以來升級最大的一次。 盧偉冰稱，小米 18 Pro 系列在效能、影像、續航、AI 能力等方面均有顯著提升。他舉例提到小米首創的“妙享背屏”。"
+    },
+    {
+      "id": "mkt:01a0a2c8-a367-7118-8583-78109cd59b61",
+      "time": "2026-09-15 09:57:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "【SoftBank unit SB Energy files Japan registration ahead of planned US IPO】Nikkei reports SoftBank Group unit SB Energy filed a domestic securities registration on the 15th related to a planned U.S. IPO, seeking up to $500m (about ¥77bn) of domestic proceeds. The company targets a Nasdaq listing as early as Sept 2026; pricing and share count are undecided, with indicative terms expected between Sept 2026 and Feb 2027."
+    },
+    {
+      "id": "mkt:01a0a2c8-99d8-7118-8583-76d45f1cbcba",
+      "time": "2026-09-15 09:57:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【UN: Gaza's critical public services face risk of energy supply disruption】On the 14th (local time) the UN said Israel's ongoing military operations in the Gaza Strip continue to cause civilian casualties. Restricted access to engine lubricants and parts, together with fuel shortages, is placing severe strain on energy supplies for Gaza's water, desalination and medical services. The UN Office for the Coordination of Humanitarian Affairs said military operations continued over the weekend, particularly west of the temporary ceasefire's so-called 'yellow line'."
+    },
+    {
+      "id": "5094168",
+      "time": "2026-09-15 09:56:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量680億元。"
+    },
+    {
+      "id": "mkt:01a0a2c7-a822-7118-8583-6ec738941a7d",
+      "time": "2026-09-15 09:56:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "SoftBank's U.S. unit SB Energy filed a domestic securities registration in Japan on the 15th for a U.S. IPO, seeking up to $500m (about ¥77 billion) in Japan and targeting a Nasdaq listing in September 2026."
+    },
+    {
+      "id": "5094167",
+      "time": "2026-09-15 09:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國財長提名人：在穩固的美韓同盟基礎上，將著眼於戰略利益與價值觀進行探討。"
+    },
+    {
+      "id": "te:economy:583658",
+      "time": "2026-09-15 09:56:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits Fresh 15-Year High — Australia’s 10-year government bond yield rose toward 5.4%, hitting a fresh 15-year high as soaring oil prices heightened inflation concerns and fueled expectations of further global policy tightening. Global bond markets remained under intense pressure as escalating Middle East tensions raised concerns over disruptions to energy supplies. The resulting oil shock has strengthened expectations for further RBA tightening, with markets now implying an 85% chance of a 25bp hike to 4.60% on September 29. Governor Bullock is scheduled to appear before Parliament and is expected to reiterate that rates may need to rise further to bring inflation under control. Meanwhile, the US Federal Reserve is also expected to keep policy tighter this week and potentially move again by December, adding pressure on yields. Long-end yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions."
+    },
     {
       "id": "mkt:01a0a2c6-88b6-7118-8583-6378a9552b29",
       "time": "2026-09-15 09:55:15",
