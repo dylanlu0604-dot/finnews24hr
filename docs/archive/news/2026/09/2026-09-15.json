@@ -1,7 +1,36 @@
 {
   "date": "2026-09-15",
-  "count": 1787,
+  "count": 1790,
   "items": [
+    {
+      "id": "mkt:01a0a4d2-a449-7118-8595-1afeba85a066",
+      "time": "2026-09-15 19:27:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ says free trade has given way to zero-sum games and extortion."
+    },
+    {
+      "id": "mkt:01a0a4d2-1ab4-7118-8595-1282b4cbc5f7",
+      "time": "2026-09-15 19:27:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Germany's Chancellor MERZ said cooperation and trade have fallen sharply due to new U.S. tariff rules."
+    },
+    {
+      "id": "5095290",
+      "time": "2026-09-15 19:24:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "WAYSTAR股價延續漲勢，盤前最新上漲12.1%。"
+    },
     {
       "id": "5095287",
       "time": "2026-09-15 19:22:16",
