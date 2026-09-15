@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-16 00:37:26",
-  "count": 13455,
+  "updated": "2026-09-16 00:41:17",
+  "count": 13462,
   "items": [
+    {
+      "id": "mkt:01a0a5f1-50cf-7118-85a0-8794e42a4644",
+      "time": "2026-09-16 00:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of France left its GDP growth forecasts unchanged at 0.9% for 2027 and 1.2% for 2028."
+    },
+    {
+      "id": "mkt:01a0a5f0-faef-7118-85a0-7eb18c5ce896",
+      "time": "2026-09-16 00:40:28",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Banque de France projects EU HICP inflation at 2.3% in 2026, below its June forecast of 2.5%. It raised its 2027 inflation forecast to 1.9% from 1.7% and cut the 2028 forecast to 1.6% from 1.7%."
+    },
+    {
+      "id": "5095832",
+      "time": "2026-09-16 00:39:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行預測 2026 年調和消費者物價指數（HICP）通脹率為 2.3%（6 月預測值為 2.5%），2027 年為 1.9%（此前預測 1.7%），2028 年為 1.6%（此前預測 1.7%）。"
+    },
+    {
+      "id": "mkt:01a0a5ef-5619-7118-85a0-712696cfd5f4",
+      "time": "2026-09-16 00:38:40",
+      "tags": [
+        "MKT News",
+        "GM.N"
+      ],
+      "text": "GM CFO said the EV market may enter a \"relatively steady period\" in 2027."
+    },
+    {
+      "id": "5095831",
+      "time": "2026-09-16 00:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車首席財務官：電動車業務 2027 年將進入一段增長停滯期。"
+    },
+    {
+      "id": "mkt:01a0a5ee-8361-7118-85a0-69ca35892b9d",
+      "time": "2026-09-16 00:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi said Tehran had destroyed hundreds of US military bases and damaged dozens of enemy aircraft."
+    },
+    {
+      "id": "5095830",
+      "time": "2026-09-16 00:37:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利當局將調查安託法加斯塔礦區致命事故】據智利礦業監管機構稱，週二在智利北部安託法加斯塔大區的一處礦區發生了一起致命事故。國家地質與礦業局（簡稱Sernageomin）在X平臺釋出的一則帖子中表示，事故發生在塔爾塔爾市（Taltal）的Zulema I-Daniela II礦區。Sernageomin表示，該機構地區辦事處的一支調查小組正趕赴現場展開調查，但未提供事故具體情況。"
+    },
     {
       "id": "mkt:01a0a5ec-f0f6-7118-85a0-60afbe274a36",
       "time": "2026-09-16 00:36:03",
