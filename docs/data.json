@@ -1,7 +1,1242 @@
 {
-  "updated": "2026-09-16 01:04:30",
-  "count": 13461,
+  "updated": "2026-09-16 03:33:57",
+  "count": 13439,
   "items": [
+    {
+      "id": "5095926",
+      "time": "2026-09-16 03:20:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：艾卜哈危險已解除。"
+    },
+    {
+      "id": "5095925",
+      "time": "2026-09-16 03:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：哈米斯穆沙伊特危險已解除。"
+    },
+    {
+      "id": "5095924",
+      "time": "2026-09-16 03:20:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：在人工智慧融資領域堅守承銷紀律，對此秉持非常審慎的態度。"
+    },
+    {
+      "id": "5095923",
+      "time": "2026-09-16 03:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國參議院否決了加密貨幣法案】週二，美國參議院否決了一項覆蓋面廣泛的加密貨幣法案，遭到民主黨及少數共和黨議員反對。歷經數月兩黨激烈談判，這項法案最終以慘敗收場。參議院以49票贊成、50票反對的結果否決了所謂的《清晰法案》（Clarity Act），給加密行業帶來沉重打擊。民主黨表示，法案未能充分解決特朗普總統在數字資產領域潛在的利益衝突問題；部分共和黨議員則受到銀行業相關顧慮的影響。所有民主黨議員均投下反對票，法案因此失去在參議院闖過首輪程式性障礙所必需的兩黨支援。約十幾名民主黨參議員耗時數月參與該法案談判，但週二無一人投出贊成票；他們認為法案中的政府道德約束條款與消費者保護條款力度不足。"
+    },
+    {
+      "id": "te:markets:583969",
+      "time": "2026-09-16 03:19:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rally Intensifies on Middle East Risks — Crude oil rose past $105.5 a barrel on Tuesday, its highest level in four months, after Saudi Arabia reportedly cancelled some shipments following drone attacks that forced the closure of its key export pipeline. Saudi Arabia reportedly informed European customers that some September deliveries were cancelled, while oil loadings at Yanbu were suspended. Meanwhile, Iran-backed Houthi militants renewed strikes on Saudi Arabia this week. Security in the Strait of Hormuz remains volatile, with at least two tankers attacked since Saturday. Commodity vessel traffic through the strait fell to four on Monday from 10 a day earlier, Kpler data showed. In Libya, the national oil company suspended operations at two oilfields and a pumping station amid protests. Russia also struck petrol stations in Kyiv and Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
+    },
+    {
+      "id": "mkt:01a0a682-92ad-7118-85a2-ecd6023cf25c",
+      "time": "2026-09-16 03:19:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US reallocates $52 mln in military aid from Europe and Middle East to Latin America】AP reported on the 15th the US has notified Congress it will reallocate $52 mln in Foreign Military Financing originally earmarked for Slovakia, North Macedonia, Tunisia and Iraq to Panama, Peru, Ecuador and Colombia. FMF is provided as grants or loans to finance recipient purchases of US military equipment and related services. Secretary of State Rubio visited Colombia, Ecuador and Peru last week and pledged additional support."
+    },
+    {
+      "id": "mkt:01a0a682-78fb-7118-85a2-e270282e7e1a",
+      "time": "2026-09-16 03:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger in ABHA has been lifted."
+    },
+    {
+      "id": "mkt:01a0a682-451c-7118-85a2-defeef83d4e4",
+      "time": "2026-09-16 03:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger in Jizan region has been lifted."
+    },
+    {
+      "id": "5095922",
+      "time": "2026-09-16 03:18:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美媒：美將部分對歐洲和中東軍援資金轉向中南美洲】據美聯社15日報道，美國政府正從歐洲和中東國家撤回數千萬美元的軍事援助資金，轉而支援部分中南美洲國家。報道說，美國國務院當天通知國會，將把原定提供給斯洛伐克、北馬其頓、突尼西亞和伊拉克的5200萬美元“外國軍事融資”，調撥給巴拿馬、秘魯、厄瓜多和哥倫比亞。美政府“外國軍事融資”專案以贈款或貸款形式提供融資，供受援國採購美國軍事裝備和相關服務。（新華社）"
+    },
+    {
+      "id": "5095921",
+      "time": "2026-09-16 03:17:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：優質存款的競爭非常激烈。"
+    },
+    {
+      "id": "5095920",
+      "time": "2026-09-16 03:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國正積極考慮加入加拿大牽頭籌建的全球國防銀行。"
+    },
+    {
+      "id": "5095919",
+      "time": "2026-09-16 03:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及總統塞西會見沙特王儲 支援政治解決葉門危機】埃及總統塞西15日在開羅會見來訪的沙烏地阿拉伯王儲兼首相穆罕默德·本·薩勒曼，表示支援沙特維護自身安全與穩定，並透過政治途徑全面、持久解決葉門危機。"
+    },
+    {
+      "id": "mkt:01a0a680-0428-7118-85a2-d7bfe86b2808",
+      "time": "2026-09-16 03:16:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Houthi forces said Saudi Arabia is in serious trouble and that continuing its aggression and seeking assistance from other countries will not benefit it."
+    },
+    {
+      "id": "5095918",
+      "time": "2026-09-16 03:16:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：未觀察到市場對穩定幣有大量機構需求。"
+    },
+    {
+      "id": "mkt:01a0a67e-858a-7118-85a2-c8096c3f03ea",
+      "time": "2026-09-16 03:15:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense issued an early warning for Khamis Mushait, citing a potential local danger."
+    },
+    {
+      "id": "5095917",
+      "time": "2026-09-16 03:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：阿布哈已釋出潛在危險預警。"
+    },
+    {
+      "id": "5095916",
+      "time": "2026-09-16 03:14:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：已對哈米斯穆沙伊特釋出預警，提示潛在危險。"
+    },
+    {
+      "id": "mkt:01a0a67d-edd2-7118-85a2-c2110255674e",
+      "time": "2026-09-16 03:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense issued an early warning for the Abha area, citing potential danger."
+    },
+    {
+      "id": "mkt:01a0a67d-0c67-7118-85a2-b8fcc7569490",
+      "time": "2026-09-16 03:13:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an early warning for the Jizan region, urging residents to be alert to potential danger."
+    },
+    {
+      "id": "5095915",
+      "time": "2026-09-16 03:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門在吉贊釋出預警，提示潛在危險。"
+    },
+    {
+      "id": "mkt:01a0a67a-4d9b-7118-85a2-b0e52ff6d6d2",
+      "time": "2026-09-16 03:10:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said the Israel Defense Forces and Shin Bet recently struck a senior Hamas operative in the southern Gaza Strip; further details pending."
+    },
+    {
+      "id": "5095914",
+      "time": "2026-09-16 03:09:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：仍對私人信貸感到擔憂，但相較於今年年初，該資產類別的狀況已相當不錯。"
+    },
+    {
+      "id": "mkt:01a0a678-cdb1-7118-85a2-ad3bb1794731",
+      "time": "2026-09-16 03:08:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.35% in the night session to 24,762, trading 95 points above the spot index."
+    },
+    {
+      "id": "mkt:01a0a677-fd6f-7118-85a2-a66be0658747",
+      "time": "2026-09-16 03:07:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defence minister said details of procuring a Tomahawk cruise missile system still need to be finalised."
+    },
+    {
+      "id": "mkt:01a0a677-e7cc-7118-85a2-9d0071d7a432",
+      "time": "2026-09-16 03:07:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defense minister said he held a good meeting with U.S. defense secretary Hegseth."
+    },
+    {
+      "id": "5095913",
+      "time": "2026-09-16 03:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙對義大利邊境管控再延15天】西班牙政府15日宣佈，針對義大利入境人員的邊境檢查措施再延長15天，以回應義大利方面第二次延長針對西班牙入境人員的邊境檢查措施。"
+    },
+    {
+      "id": "5095912",
+      "time": "2026-09-16 03:07:31",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "Coinbase和Circle股價下跌約10%。訊息面上，美國參議院未能推進加密貨幣監管法案。"
+    },
+    {
+      "id": "5095911",
+      "time": "2026-09-16 03:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長：與美國國防部長赫格塞思進行了良好討論。"
+    },
+    {
+      "id": "5095910",
+      "time": "2026-09-16 03:05:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國國防部長：戰斧導彈採購計劃的具體細節仍有待敲定。"
+    },
+    {
+      "id": "mkt:01a0a674-6b8c-7118-85a2-92a51c2663a9",
+      "time": "2026-09-16 03:04:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iranian president PEZESHKIAN condemns Western human-rights double standard】Sept 14, Tehran — Iranian president PEZESHKIAN, speaking at a Tehran event, accused Western \"human-rights defenders\" of hypocrisy. He challenged whether cutting off water and food or bombing civilians can be called counterterrorism, asking if civilians in Gaza who lack food and water are terrorists. He said the West bullies weaker states and has helped create \"terrorist governments,\" and pledged Iran will not yield to external pressure."
+    },
+    {
+      "id": "5095909",
+      "time": "2026-09-16 03:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院以50票對49票否決了《加密貨幣市場透明度法案》（Clarity Act）的推進動議。"
+    },
+    {
+      "id": "5095908",
+      "time": "2026-09-16 03:02:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁：私募股權業務已迴歸常態。"
+    },
+    {
+      "id": "5095907",
+      "time": "2026-09-16 03:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院未能推進加密貨幣監管法案。"
+    },
+    {
+      "id": "5095906",
+      "time": "2026-09-16 03:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統怒斥西方人權雙標】當地時間9月14日，伊朗總統佩澤希齊揚在德黑蘭一場活動上發表講話時火力全開，斥責西方“人權衛道士”的偽裝。面對制裁與封鎖，他連發靈魂拷問：斷水斷糧、轟炸平民也叫反恐？加沙連飯都吃不上、連水都喝不上的老百姓是恐怖分子嗎？他直言西方恃強凌弱、打造“恐怖主義政府”，更放話伊朗絕不會向強權低頭。（CCTV國際時訊）"
+    },
+    {
+      "id": "5095905",
+      "time": "2026-09-16 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.37%，報24767.06點，高水99.82點。"
+    },
+    {
+      "id": "5095904",
+      "time": "2026-09-16 02:58:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥豆粕期貨漲約2.6%】週二（9月15日）紐約尾盤，彭博穀物分類指數漲0.77%，重新整理日高至34.8966點。CBOT玉米期貨漲0.47%，報5.3575美元/蒲式耳。CBOT小麥期貨漲0.80%，報7.2775美元/蒲式耳。CBOT大豆期貨漲1.15%，報13.1925美元/蒲式耳，豆粕期貨漲2.58%，豆油期貨漲0.11%。CBOT瘦肉豬期貨跌2.35%，活牛期貨跌0.87%，飼牛期貨跌1.20%。"
+    },
+    {
+      "id": "mkt:01a0a66f-5c11-7118-85a2-8f9e6ce2f7c5",
+      "time": "2026-09-16 02:58:30",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan (JPM.N) co-president Doug Petno said he expects Q3 trading fees to rise by 15% to roughly 10%."
+    },
+    {
+      "id": "mkt:01a0a66e-2e25-7118-85a2-87c651080213",
+      "time": "2026-09-16 02:57:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the Kennedy Center board today voted nearly unanimously to close the building for security reasons."
+    },
+    {
+      "id": "5095903",
+      "time": "2026-09-16 02:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：倘若法院作出不利裁定（本不該出現這種情況），且美國最高法院未推翻該裁定，肯尼迪中心的翻新與重建工程將無法實施。美國司法部律師將申請加快上訴程式。與此同時，由總統特朗普籌集的 1700 萬美元已轉入肯尼迪中心賬戶，用以維持中心運營。"
+    },
+    {
+      "id": "mkt:01a0a66d-f6bd-7118-85a2-7e47c50a0e09",
+      "time": "2026-09-16 02:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said renovation and rebuilding is a very large and complex task and cannot begin until the U.S. Court of Appeals for the D.C. Circuit rules on the name approved by the board."
+    },
+    {
+      "id": "5095902",
+      "time": "2026-09-16 02:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：翻新重建工程體量巨大且十分複雜，需等華盛頓特區巡迴上訴法院就董事會核准的名稱作出裁定後方可啟動。"
+    },
+    {
+      "id": "5095901",
+      "time": "2026-09-16 02:56:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：肯尼迪中心董事會今日幾乎全票同意，出於安全考量關閉該建築。"
+    },
+    {
+      "id": "5095899",
+      "time": "2026-09-16 02:55:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股加密相關股票跌幅擴大，Coinbase 與 Circle 下跌約 11%。"
+    },
+    {
+      "id": "5095898",
+      "time": "2026-09-16 02:53:49",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通股價轉漲，此前最多曾下跌 2%。"
+    },
+    {
+      "id": "5095897",
+      "time": "2026-09-16 02:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國與加拿大正就籌建全新全球國防銀行展開磋商。英國財政大臣希利考慮申請加入加拿大新國防銀行。"
+    },
+    {
+      "id": "5095896",
+      "time": "2026-09-16 02:52:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁道格·佩特諾：我們預計第三季度交易手續費將實現中高雙位數增長。"
+    },
+    {
+      "id": "5095895",
+      "time": "2026-09-16 02:52:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣下跌 5.11%，報 75057.41 美元，有望創下 6 月 2 日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a0a669-5b7d-7118-85a2-7378541cba49",
+      "time": "2026-09-16 02:51:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the Starlink V3 constellation will begin deployment this month and will ultimately deliver more than 100x the bandwidth of the current 11,000-satellite Starlink constellation."
+    },
+    {
+      "id": "5095894",
+      "time": "2026-09-16 02:51:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聯席總裁道格·佩特諾：投資銀行業務在各地區均呈現廣泛向好態勢。"
+    },
+    {
+      "id": "mkt:01a0a668-7d6c-7118-85a2-6e13cd56fd90",
+      "time": "2026-09-16 02:51:00",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish"
+      ],
+      "text": "JPMorgan (JPM.N) co-president Doug Petno said trading activity remains strong and steady."
+    },
+    {
+      "id": "5095893",
+      "time": "2026-09-16 02:49:42",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通聯席總裁道格·佩特諾： 在美國消費者與企業層面，我們未看到經濟出現紅色預警訊號，黃色預警訊號也極少。目前我們未發現任何值得擔憂的系統性風險。併購交易活動相當活躍。"
+    },
+    {
+      "id": "mkt:01a0a666-f79e-7118-85a2-62d6d6270b19",
+      "time": "2026-09-16 02:49:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. diesel futures closed at a record high."
+    },
+    {
+      "id": "5095892",
+      "time": "2026-09-16 02:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西穀物出口商協會（ANEC）：預計巴西 9 月大豆出口量將達 832 萬噸，此前一週預估為 774 萬噸。預計巴西 9 月豆粕出口量將達 224 萬噸，此前一週預估為 264 萬噸。預計巴西 9 月玉米出口量將達 574 萬噸，此前一週預估為 520 萬噸。"
+    },
+    {
+      "id": "mkt:01a0a664-8ec8-7118-85a2-58bff5aaeafb",
+      "time": "2026-09-16 02:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC (Brazilian grain exporters association) forecasts Brazil's September soybean exports at 8.32 mln tonnes, up from last week's 7.74 mln tonnes estimate."
+    },
+    {
+      "id": "mkt:01a0a664-2188-7118-85a2-54cbf22066a8",
+      "time": "2026-09-16 02:46:15",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan (JPM.N) co‑president Doug Petno said Jamie Dimon has no plans to step down."
+    },
+    {
+      "id": "mkt:01a0a663-4df2-7118-85a2-497e3796f5a6",
+      "time": "2026-09-16 02:45:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senegal presidency said Senegal and the IMF managing director reaffirmed they are willing to rapidly advance a new IMF financial assistance program."
+    },
+    {
+      "id": "mkt:01a0a663-167d-7118-85a2-464af9f50ce3",
+      "time": "2026-09-16 02:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $108.75 a barrel, up $3.07, or 2.9%."
+    },
+    {
+      "id": "mkt:01a0a662-a01c-7118-85a2-3fb28044915f",
+      "time": "2026-09-16 02:44:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation (NOC) says oil exports are continuing normally and Sharara oilfield production remains normal. NOC says it is in contact with security officials at oil facilities."
+    },
+    {
+      "id": "5095891",
+      "time": "2026-09-16 02:44:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院投票表決Clarity ACT，已經無法掃清程式性障礙，投票仍在繼續。比特幣短線從7.7萬美元上方跳水至7.6萬美元下方，跌幅重新擴大至4.3%。"
+    },
+    {
+      "id": "mkt:01a0a662-278d-7118-85a2-30ddde32d3e5",
+      "time": "2026-09-16 02:44:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The head of Libya's National Oil Corporation said production remains around 1.4 mln b/d and related shutdowns have not materially affected output."
+    },
+    {
+      "id": "5095890",
+      "time": "2026-09-16 02:42:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司負責人：利比亞石油產量仍維持在約 140 萬桶 / 日，關停措施未對產量造成重大影響。出口業務仍正常開展。"
+    },
+    {
+      "id": "mkt:01a0a65d-631a-7118-85a2-2e7f02ddf93c",
+      "time": "2026-09-16 02:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Attorney General said there is new information on the shooter in the attempted assassination of former President Trump in Butler, Pennsylvania."
+    },
+    {
+      "id": "mkt:01a0a65c-c4af-7118-85a2-255ab411639b",
+      "time": "2026-09-16 02:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Attorney General said on AI that whether relevant entities require antitrust exemptions is not a question I can answer in this forum."
+    },
+    {
+      "id": "mkt:01a0a65b-c2b5-7118-85a2-1d7d71fa5d29",
+      "time": "2026-09-16 02:37:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA"
+      ],
+      "text": "On AI safety, NVIDIA CEO Jensen Huang said companies should control the pace of advancement until they are confident released products will gain market acceptance."
+    },
+    {
+      "id": "5095889",
+      "time": "2026-09-16 02:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇談及人工智慧：各主體是否需要反壟斷豁免，我無法在本次發言中予以答覆。"
+    },
+    {
+      "id": "5095888",
+      "time": "2026-09-16 02:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：談及人工智慧安全，企業應當把握節奏，直到確信所推出的產品能夠獲得市場認可。"
+    },
+    {
+      "id": "mkt:01a0a659-e1c4-7118-85a2-14a0180e7e09",
+      "time": "2026-09-16 02:35:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Attorney General Blanch, responding to reports that a Russian oligarch funded a post-wedding event for Donald Trump Jr., said: \"The president does not know who this person is.\""
+    },
+    {
+      "id": "mkt:01a0a659-5db6-7118-85a2-0a0dc5ffe588",
+      "time": "2026-09-16 02:34:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada will introduce a 'productivity super-deduction' to broaden corporate investment tax incentives, aiming to attract business investment, boost productivity and create high-quality jobs, LeBlanc said."
+    },
+    {
+      "id": "mkt:01a0a657-9dc6-7118-85a2-0596d1d95739",
+      "time": "2026-09-16 02:32:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said AI safety does not require new laws or regulatory measures."
+    },
+    {
+      "id": "5095887",
+      "time": "2026-09-16 02:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：人工智慧安全方面無需新的法律或監管規定。"
+    },
+    {
+      "id": "5095886",
+      "time": "2026-09-16 02:31:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油期貨結算價突破每加侖 5.26 美元，創歷史新高。"
+    },
+    {
+      "id": "mkt:01a0a656-9da4-7118-85a1-fe4e1df400ee",
+      "time": "2026-09-16 02:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD"
+      ],
+      "text": "【Night session most-active contracts close】At 02:30 close, Shanghai gold most-active contract rose 0.39% to 932 yuan/gram; Shanghai silver most-active contract rose 1.11% to 15,600 yuan/kg; Shanghai crude (SC) most-active contract rose 2.85% to 860 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0a656-75c7-7118-85a1-f12a8e9e6978",
+      "time": "2026-09-16 02:31:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.18% at 929.73 yuan/gram in the Sept. 15 evening session; Silver T+D closed up 0.9% at 15,546.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0a656-60b1-7118-85a1-e9371e0b2bb8",
+      "time": "2026-09-16 02:31:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $105.83/bbl, up $4.44, or 4.38%."
+    },
+    {
+      "id": "5095885",
+      "time": "2026-09-16 02:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報105.83美元/桶。NYMEX 10月天然氣期貨收報2.9190美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.4652美元/加侖，NYMEX 10月取暖油期貨收報5.2620美元/加侖。"
+    },
+    {
+      "id": "te:markets:583968",
+      "time": "2026-09-16 02:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 3.00% — Top crypto losers are Ether (-3%), Bitcoin (-2.02%) and XRP (-1.55%)."
+    },
+    {
+      "id": "5095884",
+      "time": "2026-09-16 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.85%，報860.00元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲1.13%。"
+    },
+    {
+      "id": "mkt:01a0a655-18a5-7118-85a1-e0f2e5dab6ad",
+      "time": "2026-09-16 02:29:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US Senate Republican leader Thune said we must reduce the risks posed by artificial intelligence."
+    },
+    {
+      "id": "5095883",
+      "time": "2026-09-16 02:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖圖恩：必須降低AI帶來的風險。"
+    },
+    {
+      "id": "5095882",
+      "time": "2026-09-16 02:25:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美對伊戰爭耗資已超420億美元】據美國《國會山報》15日報道，美國防部向國會通報的對伊朗戰爭花費已超過420億美元，這一數字比五角大樓上次公開的資料增加了45億美元。報道說，美國防部官員於8月13日向國會相關委員會提供了對伊朗戰爭成本的最新估算。這是美官方7月下旬以來首次更新這一資料。 美國國防部長赫格塞思7月21日在國會參議院撥款委員會聽證會上表示，美國對伊朗軍事行動已花費約375億美元。不過，據多家美國媒體分析，美國對伊朗軍事行動實際支出可能高達1000億美元。（新華社）"
+    },
+    {
+      "id": "te:markets:583967",
+      "time": "2026-09-16 02:25:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 2.71% — Top commodity losers are Cocoa (-2.71%), Coffee (-2.46%) and Lumber (-1.40%). Gains are led by Soybeans (1.14%), Canola (0.89%) and Wheat (0.81%)."
+    },
+    {
+      "id": "mkt:01a0a64f-bb54-7118-85a1-dfb43bc1692c",
+      "time": "2026-09-16 02:23:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthi spokesman says Saudi carried out 52 airstrikes on Yemen in 24 hours】Houthi spokesman Yahya said on the 15th that, over the past 24 hours, Saudi jets — F-15s and Typhoons — flew 52 airstrikes from the Khamis Mushait and Taif air bases across multiple areas of Yemen. He said strikes struck civilian infrastructure, including schools, bridges and roads in Taiz province, and other civilian sites in Al Jawf, Bayda, Saada and Amran provinces. Yahya described the attacks as \"barbaric\" and vowed a response."
+    },
+    {
+      "id": "mkt:01a0a64e-cb5b-7118-85a1-d5645935934b",
+      "time": "2026-09-16 02:22:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Attorney General Blanch said artificial intelligence is beneficial to society and that the Justice Department will investigate anyone involved with AI who breaks the law."
+    },
+    {
+      "id": "5095881",
+      "time": "2026-09-16 02:22:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇談及人工智慧：若任何相關人員觸犯法律，我們將展開調查。人工智慧對我們的社會有益。"
+    },
+    {
+      "id": "mkt:01a0a64d-f232-7118-85a1-cd8077df15e0",
+      "time": "2026-09-16 02:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Attorney General Blanch said the probe DiGenova had led into Trump’s political opponents will continue following DiGenova’s resignation."
+    },
+    {
+      "id": "5095880",
+      "time": "2026-09-16 02:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱葉門24小時內遭沙特52次空襲】葉門胡塞武裝發言人葉海亞15日稱，過去24小時，沙特方面出動F-15戰機和“颱風”戰鬥機，從沙特海米斯穆謝特和塔伊夫兩處空軍基地起飛，對葉門多地發動52次空襲。葉海亞稱，空襲目標包括葉門塔伊茲省的學校、橋樑和道路等民用設施，以及焦夫省、貝達省、薩達省和阿姆蘭省的其他民用設施。葉海亞表示，這些“野蠻的襲擊”將得到回應。沙特方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "te:markets:583966",
+      "time": "2026-09-16 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.02% — Top commodity losers are Lithium Carbonate (-2.02%) and Silicon (-0.94%). Gains are led by Silver (0.82%), Copper (0.80%), Steel Rebar (0.58%) and Gold (0.10%)."
+    },
+    {
+      "id": "mkt:01a0a64b-5a1d-7118-85a1-c3ae10f65b4d",
+      "time": "2026-09-16 02:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Attorney General Blanch said the Justice Department will comply with the Supreme Court's ruling on mail-in ballots: \"We will comply with the ruling.\""
+    },
+    {
+      "id": "5095879",
+      "time": "2026-09-16 02:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇就最高法院郵寄選票裁決表示：我們將遵守該裁決。"
+    },
+    {
+      "id": "te:markets:583964",
+      "time": "2026-09-16 02:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Surges by 6.20% — Top commodity gainers are Heating Oil (6.20%), Gasoline (4.62%), Crude Oil (4.58%) and Brent Oil (3.11%). Biggest losers are Natural Gas UK (-3.77%), Natural Gas EU (-2.78%) and Germany Natural Gas THE (-1.74%)."
+    },
+    {
+      "id": "5095878",
+      "time": "2026-09-16 02:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理：將向德國出口石油。"
+    },
+    {
+      "id": "mkt:01a0a646-b7e4-7118-85a1-bde1125bb830",
+      "time": "2026-09-16 02:14:07",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【U.S. proposes $2.8 bln ammunition sale to Israel including 40,000 2,000‑lb bombs - Washington Post】The Washington Post reported Sept. 15 that U.S. officials say the Trump administration plans to sell $2.8 billion of ammunition to Israel, including 20,000 MK-84 and 20,000 BLU-117 2,000‑lb bombs. The package has been informally notified to the congressional committees that review major arms transfers, the report said. The U.S. and Israeli governments did not immediately respond to requests for comment. Human rights experts have flagged Israel’s frequent use of 2,000‑lb bombs in Gaza and Lebanon for causing heavy civilian casualties."
+    },
+    {
+      "id": "mkt:01a0a645-da23-7118-85a1-b52f9b3f8f4e",
+      "time": "2026-09-16 02:13:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CBO: Iran war cost US $38 bln in five months; will lift inflation 0.5 percentage point early next year】The Congressional Budget Office estimates the Trump administration’s hostilities with Iran cost U.S. taxpayers about $38 billion in the first five months, driven by munitions and equipment replacement, increased flight hours, other operations and fuel. CBO says each additional month will add at least $2–3 billion, with higher costs if the conflict escalates. It warns disruption to oil and gas shipments through the Strait of Hormuz will raise U.S. inflation: the Fed’s preferred inflation gauge could be 0.5 percentage point higher in early 2027 versus prior projections, with core PCE about 0.3 percentage point higher. The report adds the war has depleted U.S. ammunition stocks, some of which may take more than five years to replenish, potentially weakening U.S. ability to respond to other major conflicts; a future high-volume missile/ammunition conflict could strain defense production capacity and inventory replenishment rates."
+    },
+    {
+      "id": "5095877",
+      "time": "2026-09-16 02:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美擬賣以色列28億美元彈藥】美國《華盛頓郵報》9月15日報道稱，據知情美方官員透露，特朗普政府擬向以色列出售價值28億美元的彈藥，其中包括數萬枚破壞力極強的2000磅（約合907公斤）級炸彈——具體來說是2萬枚MK-84炸彈和2萬枚BLU-117炸彈。據稱這一軍售計劃已被非正式通報給負責審議大額軍售的美國國會相關委員會。對這一報道，美以官方暫未回應置評請求。 以色列在巴勒斯坦加沙地帶和黎巴嫩頻繁使用2000磅級炸彈，造成嚴重人員傷亡，引發人權專家密切關注。（CCTV國際時訊）"
+    },
+    {
+      "id": "5095876",
+      "time": "2026-09-16 02:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團CFO：企業盈利正處於繁榮週期。今年迄今已完成 9 宗 IPO，全球另有 6 家企業已提交 IPO 申請。"
+    },
+    {
+      "id": "mkt:01a0a63f-38b1-7118-85a1-aa5c4ce55ad6",
+      "time": "2026-09-16 02:05:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran army says US hegemony unsustainable, urges Iran-Pakistan security cooperation】Iranian army spokesman Amir Mohammad Akraminia said the United States is in decline and that its disregard for international law and support for Israel have weakened its global standing. He said recent wars show the US prioritizes US and Israeli interests over regional security, that reliance on external powers cannot deliver lasting peace, and that US military power can no longer sustain hegemony on a cost‑benefit basis — a development he said creates an opportunity for regional states, particularly Iran and Pakistan, to deepen cooperation to safeguard regional security."
+    },
+    {
+      "id": "mkt:01a0a63e-ea70-7118-85a1-a0acd7d2f82d",
+      "time": "2026-09-16 02:05:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration (NHTSA) said Tesla (TSLA.O) must respond by Sept. 30 regarding certification issues for its Cybercab."
+    },
+    {
+      "id": "mkt:01a0a63e-c163-7118-85a1-92bcd78a3b10",
+      "time": "2026-09-16 02:05:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Congressional Budget Office (CBO) estimates the Iran war has cost the U.S. $38 bln in the first five months."
+    },
+    {
+      "id": "mkt:01a0a63e-c181-7118-85a1-996468adc512",
+      "time": "2026-09-16 02:05:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic CEO Amodei said the world is currently using only 5% to 10% of artificial intelligence."
+    },
+    {
+      "id": "5095875",
+      "time": "2026-09-16 02:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：肯尼迪中心董事會於週二投票決定立即關閉這座表演藝術中心。"
+    },
+    {
+      "id": "5095874",
+      "time": "2026-09-16 02:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長達里奧·阿莫代伊：目前人類僅利用了現有人工智慧能力的 5% 至 10%。"
+    },
+    {
+      "id": "5095873",
+      "time": "2026-09-16 02:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示：美國汽車安全監管機構要求特斯拉須在 9 月 30 日前就 Cybercab 的認證相關問題作出答覆。"
+    },
+    {
+      "id": "mkt:01a0a63b-0361-7118-85a1-8bcf19301bbc",
+      "time": "2026-09-16 02:01:20",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CBO expects a 0.5 percentage-point upward revision to the annualized PCE inflation rate for Q1 2027."
+    },
+    {
+      "id": "5095872",
+      "time": "2026-09-16 02:01:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國會預算辦公室：伊朗戰爭前五個月已耗費美國 380 億美元。"
+    },
+    {
+      "id": "5095871",
+      "time": "2026-09-16 02:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室：2027 年第一季度個人消費支出價格指數（PCE）年度通脹預測上調 0.5 個百分點。"
+    },
+    {
+      "id": "5095870",
+      "time": "2026-09-16 02:00:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝商所集團推出高流動性槓桿貸款指數期貨，拓展信貸生態體系。"
+    },
+    {
+      "id": "mkt:01a0a639-ab97-7118-85a1-8595296fefe0",
+      "time": "2026-09-16 01:59:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI official says Canada has potential for data-center cooperation】George Osborne, OpenAI’s head of national affairs and former UK chancellor (2010–2016), said OpenAI is closely watching Canada under Mark Carney and that Canada \"has potential for data-center cooperation because of abundant energy and land resources.\" He added the Carney government \"has put forward one of the clearer AI application plans among Western governments.\""
+    },
+    {
+      "id": "mkt:01a0a639-655b-7118-85a1-7a5c3d9019eb",
+      "time": "2026-09-16 01:59:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy signed a decree removing Prosecutor General Kravchenko from office."
+    },
+    {
+      "id": "5095869",
+      "time": "2026-09-16 01:55:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【全球黃金ETF資產管理規模創紀錄 機構：金價短期承壓不改長期配置價值】8月以來，黃金類ETF持續獲得資金流入，截至9月14日，境內黃金相關ETF資金淨流入超過百億元。與此同時，8月全球實物黃金ETF資金淨流入約180億美元。近期，油價上漲及美聯儲加息預期升溫令金價短期承壓。但從中長期來看，多家機構認為，央行購金、儲備多元化和避險需求仍為黃金提供支撐。(上海證券報)"
+    },
+    {
+      "id": "5095868",
+      "time": "2026-09-16 01:55:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【近一個月淨流入500億元 資金借道ETF佈局硬科技】在近期的震盪行情中，資金逆勢流入硬科技板塊。測算顯示，過去1個月來，科創50、半導體、通訊、人工智慧等相關主題ETF資金淨流入超過500億元。此外，近期科技主題基金密整合立，在新成立ETF披露的持有人名單中，頻現產業資本和機構投資者的身影。(上海證券報)"
+    },
+    {
+      "id": "5095867",
+      "time": "2026-09-16 01:55:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大利好共振 資金加速湧入科創債ETF】在政策紅利、增量資金預期、底層資產擴容三重利好的共振下，科創債板塊行情走強，科創債ETF也迎來資金的持續搶籌。8月以來，24只科創債ETF淨申購份額超過1億份，規模大增132億元。業內人士認為，隨著債券市場“科技板”建設的推進，科創債的供給與機構配置空間有望進一步開啟，長期配置價值將持續顯現。(上海證券報)"
+    },
+    {
+      "id": "5095866",
+      "time": "2026-09-16 01:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：伊朗軍隊發言人稱，伊朗與巴基斯坦正開展合作以保障地區安全。"
+    },
+    {
+      "id": "5095865",
+      "time": "2026-09-16 01:53:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲不會逆市場定論而動，幾十年無一例外】債券交易員認為美聯儲會在週三加息，而且他們篤定的程度之高到了幾十年來從未落空的地步。彭博彙總的2008年以來資料顯示，每當市場對加息的預期如此之高時，美聯儲最終無一例外都加以滿足。“市場沒有給按兵不動或者鴿派加息的場景留餘地，” Lunate投資研究主管Caesar Maasry說。“明天的美聯儲決定將是一段時間以來影響力最大的一次，” 美國銀行外匯策略師Alex Cohen說，“在加息預期達到90%左右的情況下，他們要是維持不變就幾乎會是史無前例了。”"
+    },
+    {
+      "id": "te:markets:583963",
+      "time": "2026-09-16 01:44:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises to Eight-Week High — US gasoline futures rose above $3.45 a gallon, rising to an eight-week high, amid a tightening outlook for energy supply from the Middle East. Attacks last week by Iran-backed Houthi rebels shut down a crucial crude pipeline in Saudi Arabia that bypasses the Strait of Hormuz, which remains under blockade. Since the start of the US-Iran war, the crack spread has surged from the teens to above $60, reflecting demand for refined products outpacing refiners’ ability to produce them. Refiners had long warned about the impact of depleting crude reserves, and although operating near full capacity, delays to non-essential work have compounded the maintenance backlog ahead of seasonal fall maintenance, posing an ongoing threat to refined-product supplies. While UK authorities fear the pipeline could remain shut for as much as six weeks, US Energy Secretary Wright told reporters that it would reopen \"very soon\"."
+    },
+    {
+      "id": "mkt:01a0a62a-7358-7118-85a1-76b90d4ac389",
+      "time": "2026-09-16 01:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President ZELENSKIY met the speaker of Japan's House of Representatives to discuss winter energy assistance and defense cooperation; Kyiv welcomed a prospective visit by Japanese Prime Minister TAKAICHI."
+    },
+    {
+      "id": "mkt:01a0a628-c9bf-7118-85a1-6c10977443c7",
+      "time": "2026-09-16 01:41:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said Saudi F-15 and Typhoon fighters from KHAMIS MUSHAIT and Taif air bases conducted 52 airstrikes on Yemen in the past 24 hours."
+    },
+    {
+      "id": "5095864",
+      "time": "2026-09-16 01:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我會見了日本國會眾議院議長森英介。探討了冬季來臨前對烏克蘭的能源支援、防務合作事宜。"
+    },
+    {
+      "id": "5095863",
+      "time": "2026-09-16 01:32:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "胡塞武裝：沙特空軍過去 24 小時內發動 52 次空襲，出動從海米斯穆謝特與塔伊夫空軍基地起飛的 F15 和颱風戰鬥機，襲擊塔伊茲省包括學校、橋樑、道路在內的民用基礎設施，以及焦夫、貝達、薩達、阿姆蘭省的其他民用設施。在萬能的真主允諾下，這些野蠻侵略不會得不到回應。"
+    },
+    {
+      "id": "te:economy:583962",
+      "time": "2026-09-16 01:30:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Paraguay Consumer Confidence Hits Three-Month Low — Paraguay’s Consumer Confidence Index fell 3.32 points to 39.67 in August 2026 from July, marking its lowest reading since May. The Economic Situation Index decreased to 29.92 from 32.42, while the Economic Expectations Index fell to 49.42 from 53.55. Meanwhile, consumers’ willingness to purchase durable goods declined, as did their assessment of saving possibilities."
+    },
+    {
+      "id": "mkt:01a0a61e-1615-7118-85a1-60be7da6aac7",
+      "time": "2026-09-16 01:29:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Energy Secretary says Saudi East–West pipeline expected to resume within days】U.S. Energy Secretary Chris Wright said Saudi Arabia’s East–West oil pipeline — shut after a drone attack by Iran-aligned militants — was a \"brief, temporary interruption\" and is expected to resume within days. Saudi suspended the line and boosted some exports via the Strait of Hormuz to offset; the U.S. is providing support. Satellite imagery indicates a pump station may be severely damaged; Andy Lipow of Lipow Oil Associates said repair could take months based on public images. Kpler commodities head Matt Smith estimates a one-month closure could remove roughly 120 mln barrels of supply, assuming about 4.5 mln bpd affected and roughly 15 mln barrels of inventory at Jubail."
+    },
+    {
+      "id": "5095862",
+      "time": "2026-09-16 01:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：星艦第 14 次飛行任務準備最早於 9 月 22 日發射，待監管機構批准；發射視窗時長 75 分鐘，中部時間上午 7 點 15 分開啟。"
+    },
+    {
+      "id": "5095861",
+      "time": "2026-09-16 01:23:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員桑德斯：需要具有約束力的安全規則來管控人工智慧發展，而非自願性標準。"
+    },
+    {
+      "id": "5095860",
+      "time": "2026-09-16 01:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列正在協助沙特收集針對胡塞武裝的情報，目的是保障曼德海峽航行自由。"
+    },
+    {
+      "id": "5095859",
+      "time": "2026-09-16 01:21:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：星艦將從第 14 次飛行任務起開展軌道飛行，向太空運送星鏈 V3 衛星及其他載荷。"
+    },
+    {
+      "id": "5095858",
+      "time": "2026-09-16 01:17:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "Contineum 股價下跌 9.9%，原因是其與強生合作研發的抗抑鬱藥中期臨床試驗失敗。"
+    },
+    {
+      "id": "5095857",
+      "time": "2026-09-16 01:16:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（9月15日），美聯儲隔夜逆回購協議（RRP）使用規模為7億美元（交易對手2家），上個交易日報14.20億美元。"
+    },
+    {
+      "id": "5095856",
+      "time": "2026-09-16 01:15:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking現已透過Live API 開放，音訊輸入定價為每分鐘 0.005 美元，音訊輸出為每分鐘 0.018 美元。"
+    },
+    {
+      "id": "5095855",
+      "time": "2026-09-16 01:10:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：與 Salesforce、GenSpark 以及 Lumeris 達成合作。"
+    },
+    {
+      "id": "5095854",
+      "time": "2026-09-16 01:09:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破109美元/桶，日內漲3.18%。"
+    },
+    {
+      "id": "5095853",
+      "time": "2026-09-16 01:09:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報106.46美元/桶。"
+    },
+    {
+      "id": "5095852",
+      "time": "2026-09-16 01:08:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking，兩款模型為我們目前最出色的對話式人工智慧模型。"
+    },
+    {
+      "id": "5095851",
+      "time": "2026-09-16 01:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府官員稱， 德國總理默茨計劃留在柏林。"
+    },
+    {
+      "id": "5095850",
+      "time": "2026-09-16 01:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨取消下週紐約之行。"
+    },
+    {
+      "id": "5095849",
+      "time": "2026-09-16 01:06:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國準備向以色列出售 2000 磅炸彈。"
+    },
+    {
+      "id": "5095848",
+      "time": "2026-09-16 01:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "比特幣跌3%至76000美元，市場對美國《CLARITY法案》今年獲得透過的預期降溫。"
+    },
+    {
+      "id": "5095847",
+      "time": "2026-09-16 01:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗原子能組織發言人在國際原子能機構會議上表示：伊朗不會屈服，我國核計劃是和平性質的。伊朗是《不擴散核武器條約》最早的成員國之一，並且一直恪守條約義務。國際原子能機構核查人員在對伊朗核設施開展反覆、持續核查後，至今是否提交過顯示伊朗存在違規行為的報告？國際原子能機構總幹事與理事會當年難道沒有譴責 1981 年針對伊拉克核設施的軍事襲擊嗎？那麼，針對伊朗核設施規模大得多的軍事襲擊，為何沒有受到譴責？"
+    },
     {
       "id": "5095846",
       "time": "2026-09-16 01:03:52",
@@ -122660,1495 +123895,6 @@
         "Impact bullish"
       ],
       "text": "【Meta Platforms (META.O) launches personal AI agent Muse; top tier $100/month】Meta Platforms (META.O) launched Muse, a personal AI agent for tasks such as scheduling, form‑filling and home camera monitoring. Muse is powered by Meta’s Muse Spark base models and is offered as a free tier plus $20/month and $100/month subscription plans. Meta AI head Alexander Wang said Muse runs in an isolated environment on Meta’s compute infrastructure, will not read actual passwords or payment data, and will request confirmation before performing sensitive actions; users may opt in to allow Meta to use interaction data for model training after removal of key personal identifiers. Meta said it is exploring commerce and in‑agent transaction monetization as it faces AI safety and privacy scrutiny and pressure on AI returns; CEO Mark Zuckerberg has framed personal AI agents as a future product and revenue priority."
-    },
-    {
-      "id": "5083638",
-      "time": "2026-09-09 03:32:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：油輪在哈爾克島錨地附近遭到美軍投射物擊中。該事件未造成人員傷亡，油輪船員目前正在撤離。"
-    },
-    {
-      "id": "mkt:01a08281-4437-7118-84f3-faa4e495a41b",
-      "time": "2026-09-09 03:31:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iranian media says U.S. missile strike hits tanker near Kharg Island】Iranian media reported a small Iranian tanker was struck by a missile fired by U.S. forces about 4 nm from Kharg Island, within the Kharg anchorage. Local sources said there were no casualties and crew are evacuating. Authorities are assessing damage and investigating the incident; further updates expected."
-    },
-    {
-      "id": "5083637",
-      "time": "2026-09-09 03:31:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：伊朗油輪在距哈爾克島 4 英里處遭到美軍導彈襲擊。"
-    },
-    {
-      "id": "5083636",
-      "time": "2026-09-09 03:25:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局解除飛往巴爾的摩 - 華盛頓國際機場（BWI）航班的地面停飛指令。"
-    },
-    {
-      "id": "te:economy:582139",
-      "time": "2026-09-09 03:25:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Consumer Credit",
-        "Importance 1"
-      ],
-      "text": "US Consumer Credit Rises in July — Total US consumer credit rose $18.06 billion in July 2026, following a $14.55 billion increase in June and beating forecasts for an $11.7 billion gain. Revolving credit, which includes credit card debt, increased $2.80 billion, pointing to stronger short-term consumer borrowing. Meanwhile, nonrevolving credit, which includes auto and student loans, rose $15.26 billion."
-    },
-    {
-      "id": "5083635",
-      "time": "2026-09-09 03:21:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國7月消費者信貸增長超預期 非迴圈信貸大增】美國7月消費者信貸增長超預期，非迴圈信貸創三年來最大增長。美聯儲週二公佈的資料顯示，未償還消費者信貸總額增加181億美元，6月資料經修正後為增加146億美元。汽車貸款和學費貸款等非迴圈信貸7月增加153億美元。與此同時，信用卡及其他迴圈信貸餘額增加28億美元。該報告不含抵押貸款。儘管物價居高不下，美國消費者支出今年總體仍保持韌性。不過，近幾個月物價增速超越工資增速，可能促使部分美國人依賴信貸來維持支出。"
-    },
-    {
-      "id": "mkt:01a08275-bba1-7118-84f3-f2f5c6cd4bb1",
-      "time": "2026-09-09 03:19:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "i24 reporter says the Jerusalem Post has learned the US is currently attacking Iranian oil tankers."
-    },
-    {
-      "id": "5083634",
-      "time": "2026-09-09 03:18:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "八家發行人於美國投資級債券市場出售382億美元債券，融資金額創2026年第三高。"
-    },
-    {
-      "id": "5083633",
-      "time": "2026-09-09 03:14:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "I24 新聞援引美方訊息：美國正在襲擊伊朗油輪。"
-    },
-    {
-      "id": "mkt:01a0826f-d884-7118-84f3-edf96ca95212",
-      "time": "2026-09-09 03:12:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI launches ChatGPT Images 2.5, boosts speed and editing precision】OpenAI has released a new image engine, ChatGPT Images 2.5, saying generation speed is up to 50% faster and fidelity for people and pets is improved. The update adds precise editing controls — users can specify edit locations via sketches or region selection instead of relying solely on text — and enables photo-to-style conversion, logo design and tattoo modification. OpenAI says the tool is intended to increase user participation in the creative process. The upgrade has renewed disputes over AI image copyright and creator rights, with observers questioning whether training used artists’ works and flagging potential impacts on the traditional creative industry."
-    },
-    {
-      "id": "mkt:01a0826f-c990-7118-84f3-e1965c1c01b8",
-      "time": "2026-09-09 03:12:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK National Air Traffic Services (NATS) said its system issue has been resolved, operations have returned to normal and it is working to clear the backlog of flights."
-    },
-    {
-      "id": "5083632",
-      "time": "2026-09-09 03:11:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國國家空管公司（NATS）：系統故障現已解決，目前執行正常，正全力疏導積壓航班。"
-    },
-    {
-      "id": "5083631",
-      "time": "2026-09-09 03:07:24",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "eBay 股價走高，在高盛會議上 eBay 執行長發表講話後，午後交易時段最新上漲 1.5%。"
-    },
-    {
-      "id": "mkt:01a0826a-1e69-7118-84f3-d858cda9d509",
-      "time": "2026-09-09 03:06:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury said investment funds bought $49.59 billion of 2-year Treasuries maturing Aug. 31, 2028, in the latest two-week reporting period, versus $54.11 billion in the prior period."
-    },
-    {
-      "id": "mkt:01a0826a-164b-7118-84f3-d0c80fbda021",
-      "time": "2026-09-09 03:06:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Treasury: In the latest two-week reporting period, foreign investors bought $8.749 bln of 5-year Treasuries maturing Aug. 31, 2031, versus $6.623 bln in the prior month."
-    },
-    {
-      "id": "5083630",
-      "time": "2026-09-09 03:06:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特汽車股價跌4.5%，至盤中低點。"
-    },
-    {
-      "id": "mkt:01a08269-ffc0-7118-84f3-c8006ca63177",
-      "time": "2026-09-09 03:06:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "The U.S. Treasury said foreign investors bought $9.838 billion of 2-year U.S. Treasury notes maturing Aug. 31, 2028, in the latest two-week reporting period, versus $6.51 billion in the prior period."
-    },
-    {
-      "id": "mkt:01a08269-ecf8-7118-84f3-c5585516a96f",
-      "time": "2026-09-09 03:06:15",
-      "tags": [
-        "MKT News",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury said in its latest two‑week report that investment funds bought $52.012 billion of 5‑year U.S. Treasuries due Aug. 31, 2031, versus $52.774 billion in the prior month."
-    },
-    {
-      "id": "mkt:01a08269-d1f0-7118-84f3-b9f4cc9db4d3",
-      "time": "2026-09-09 03:06:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Treasury said investment funds bought $30.569 bln of 7-year Treasuries due Aug. 31, 2033 in the latest biweekly reporting period, versus $31.104 bln a month earlier."
-    },
-    {
-      "id": "mkt:01a08269-c952-7118-84f3-b60c22880dee",
-      "time": "2026-09-09 03:06:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury Department: In the latest biweekly reporting period, foreign investors bought $6.786bn of seven-year Treasuries maturing Aug. 31, 2033, up from $5.242bn in the prior reporting period."
-    },
-    {
-      "id": "5083629",
-      "time": "2026-09-09 03:05:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7103元，較週一夜盤收盤漲7點。成交量330.48億美元。"
-    },
-    {
-      "id": "5083628",
-      "time": "2026-09-09 03:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：推出Muse AI智慧體。Muse將在美國透過iOS、Android以及Muse.ai平臺推出，並將很快登陸AI智慧眼鏡。今年晚些時候，Meta將推出Muse Confidential VM（機密虛擬機器）。"
-    },
-    {
-      "id": "mkt:01a08268-9d55-7118-84f3-ad51fdf8c6f1",
-      "time": "2026-09-09 03:04:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's national statistics agency INDEC said industrial production fell 4.9% year-on-year in July."
-    },
-    {
-      "id": "5083627",
-      "time": "2026-09-09 03:04:43",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：境外投資者在最新雙週報告期買入 98.38 億美元 2 年期國債（2028 年 8 月 31 日到期），上月買入規模為 65.10 億美元。"
-    },
-    {
-      "id": "5083626",
-      "time": "2026-09-09 03:04:34",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：投資基金在最新雙週報告期買入 520.12 億美元 5 年期國債（2031 年 8 月 31 日到期），上月買入規模為 527.74 億美元。"
-    },
-    {
-      "id": "5083625",
-      "time": "2026-09-09 03:04:18",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：境外投資者在最新雙週報告期買入 87.49 億美元 5 年期國債（2031 年 8 月 31 日到期），上月買入規模為 66.23 億美元。"
-    },
-    {
-      "id": "5083624",
-      "time": "2026-09-09 03:04:13",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：投資基金在最新雙週報告期買入 305.69 億美元 7 年期國債（2033 年 8 月 31 日到期），上月買入規模為 311.04 億美元。"
-    },
-    {
-      "id": "5083623",
-      "time": "2026-09-09 03:04:01",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：境外投資者在最新雙週報告期買入 67.86 億美元 7 年期國債（2033 年 8 月 31 日到期），上月買入規模為 52.42 億美元。"
-    },
-    {
-      "id": "mkt:01a08267-de48-7118-84f3-a636af075e18",
-      "time": "2026-09-09 03:04:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) shares rose intraday, now up more than 1%."
-    },
-    {
-      "id": "5083622",
-      "time": "2026-09-09 03:03:57",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：投資基金在最新雙週報告期買入 495.9 億美元 2 年期國債（2028 年 8 月 31 日到期），上月買入規模為 541.07 億美元。"
-    },
-    {
-      "id": "mkt:01a08267-414f-7118-84f3-9eb44de4ee23",
-      "time": "2026-09-09 03:03:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O): Muse will launch in the US on iOS, Android and the Muse.ai platform, and will soon be available on AI smart glasses."
-    },
-    {
-      "id": "mkt:01a08267-3ad9-7118-84f3-93bf9fea4ec1",
-      "time": "2026-09-09 03:03:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) will launch Muse Confidential VM, a confidential virtual machine, later this year."
-    },
-    {
-      "id": "mkt:01a08266-a959-7118-84f3-8f272ae5b4e9",
-      "time": "2026-09-09 03:02:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) launched Muse, an AI agent."
-    },
-    {
-      "id": "5083621",
-      "time": "2026-09-09 03:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "eBay 執行長表示，人工智慧是業務實實在在的利好，“ Magical Listings ” 功能取得良好成效。"
-    },
-    {
-      "id": "mkt:01a08265-ccaf-7118-84f3-8077057aac64",
-      "time": "2026-09-09 03:01:44",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures rose 0.22% in the night session to 25,281, trading 36 points below the cash index."
-    },
-    {
-      "id": "5083620",
-      "time": "2026-09-09 03:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷國家統計局：7 月工業產值同比下降 4.9%。"
-    },
-    {
-      "id": "5083619",
-      "time": "2026-09-09 03:01:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月消費信貸 180.6億美元，預期116.5億美元，前值由141.73億美元修正為145.6億美元。"
-    },
-    {
-      "id": "mkt:01a08264-6e48-7118-84f3-787b03df7757",
-      "time": "2026-09-09 03:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. consumer credit rose $18.06 bln in July versus $11.65 bln expected; June revised to $14.56 bln from $14.17 bln."
-    },
-    {
-      "id": "5083618",
-      "time": "2026-09-09 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.24%，報25286.94點，低水30.24點。"
-    },
-    {
-      "id": "mkt:01a08264-3fac-7118-84f3-7466901d8f42",
-      "time": "2026-09-09 03:00:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US Treasury imposes new sanctions on Iran's aviation sector】On the 8th (local time) the US Treasury announced a new round of sanctions on 36 entities targeting Iran's aviation sector and related firms as part of stepped-up economic pressure. The measures are intended to further constrain Mahan Air's operations and extend to other Iranian carriers, as well as alleged shell companies, foreign intermediaries and transshipment networks said to facilitate acquisition of US-origin aircraft and sensitive technology."
-    },
-    {
-      "id": "mkt:01a08264-3dfd-7118-84f3-6ec55cc0d01a",
-      "time": "2026-09-09 03:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Consumer Credit (Jul) | actual 18060000000B | consensus 11650000000B | previous 14172999999.999998B"
-    },
-    {
-      "id": "5083617",
-      "time": "2026-09-09 02:59:20",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國財政部對伊朗航空業實施新一輪制裁】當地時間8日，美國財政部宣佈對伊朗實施新一輪制裁，共涉及36個制裁物件，重點針對伊朗航空業及相關企業。此舉是美國進一步加大對伊朗經濟壓力的一部分。美國財政部表示，此次行動旨在進一步限制伊朗馬漢航空公司的運營，並將制裁範圍擴大至伊朗其他航空公司。此次制裁還涉及多家被指為伊朗提供支援的幌子公司、外國中間商以及轉運網路。美方稱，伊朗透過這些渠道獲取美國原產飛機和敏感技術。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a08262-b2d6-7118-84f3-63c7d22e85dc",
-      "time": "2026-09-09 02:58:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRGC spokesman said at dawn the force seized what it described as the US Navy's most advanced unmanned submarine (2025) in the Strait of Hormuz, claiming no advanced technology can penetrate its surveillance layer and asserting control of the Persian Gulf belongs to its tech youth."
-    },
-    {
-      "id": "5083616",
-      "time": "2026-09-09 02:56:48",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【美國財政部擴大國債回購在即 華爾街料單次規模最高100億美元】在8月份美國財政部宣佈擬將長期國債回購規模至少擴大一倍後，華爾街利率策略師預計，財政部將把回購規模提高至每次最多100億美元。摩根士丹利策略師表示，根據財政部現有現金餘額管理政策，假設不透過增發短期國庫券籌集額外資金，財政部本季度剩餘七次長期國債回購操作中，每次回購規模最高可能達到100億美元。"
-    },
-    {
-      "id": "5083615",
-      "time": "2026-09-09 02:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：凌晨俘獲美軍2025年最先進無人潛艇一事表明，任何先進技術都無法突破我們在霍爾木茲海峽的多層監視體系。波斯灣的主導權屬於我國年輕技術人員。"
-    },
-    {
-      "id": "mkt:01a08260-c4e0-7118-84f3-5b5807f49902",
-      "time": "2026-09-09 02:56:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio arrived in Barranquilla, Colombia, to begin a Latin America trip, CNN reports."
-    },
-    {
-      "id": "mkt:01a08260-042e-7118-84f3-5058dc6c65cb",
-      "time": "2026-09-09 02:55:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $97.92/bbl, up $0.92 (+0.95%)."
-    },
-    {
-      "id": "5083614",
-      "time": "2026-09-09 02:54:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗南部賈斯克海岸附近傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:01a0825f-5353-7118-84f3-4a61094286ba",
-      "time": "2026-09-09 02:54:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slid to an intraday low of $4,360/oz, down 1.06% on the day."
-    },
-    {
-      "id": "5083613",
-      "time": "2026-09-09 02:54:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國國防部長：已決定從聯邦國防軍庫存中向烏克蘭提供急需的PAC-2攔截導彈。"
-    },
-    {
-      "id": "5083612",
-      "time": "2026-09-09 02:53:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶97.92美元，上漲0.92美元，漲幅0.95%。"
-    },
-    {
-      "id": "mkt:01a0825e-7553-7118-84f3-45ee4d5f3b2f",
-      "time": "2026-09-09 02:53:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fars News reported explosions in Iran’s Jask region. Local sources said the blasts originated offshore near the Sang-e Siyah area."
-    },
-    {
-      "id": "5083611",
-      "time": "2026-09-09 02:53:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋航空：英國空域因英國國家空中交通服務公司（NATS）空管技術問題，航班出現延誤。"
-    },
-    {
-      "id": "5083610",
-      "time": "2026-09-09 02:52:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4360美元/盎司，日內跌1.06%。"
-    },
-    {
-      "id": "5083609",
-      "time": "2026-09-09 02:52:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4360美元/盎司，日內跌1.06%。"
-    },
-    {
-      "id": "5083608",
-      "time": "2026-09-09 02:52:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
-    },
-    {
-      "id": "5083607",
-      "time": "2026-09-09 02:52:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1360.50美元/盎司。"
-    },
-    {
-      "id": "mkt:01a0825c-75b9-7118-84f3-3ac638fb15de",
-      "time": "2026-09-09 02:51:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude rose about $1 intraday, trading at $91.30/bbl and $96.65/bbl respectively."
-    },
-    {
-      "id": "5083606",
-      "time": "2026-09-09 02:50:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅延續。"
-    },
-    {
-      "id": "5083605",
-      "time": "2026-09-09 02:50:31",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗哈爾克島聽到爆炸聲，標普500指數跌至盤中低點。"
-    },
-    {
-      "id": "mkt:01a0825b-80b3-7118-84f3-347eeeda4a99",
-      "time": "2026-09-09 02:50:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News reported explosions heard near Kharg Island. The sounds were reported from the direction of the Persian Gulf, but no smoke or fire was observed at sea. No official confirmation yet."
-    },
-    {
-      "id": "mkt:01a0825b-0bab-7118-84f3-2923178cabc0",
-      "time": "2026-09-09 02:49:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold broke below $4,370/oz, down 0.86% intraday."
-    },
-    {
-      "id": "5083604",
-      "time": "2026-09-09 02:49:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
-    },
-    {
-      "id": "5083603",
-      "time": "2026-09-09 02:49:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4410美元/盎司，日內跌1.51%。"
-    },
-    {
-      "id": "5083602",
-      "time": "2026-09-09 02:49:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
-    },
-    {
-      "id": "5083601",
-      "time": "2026-09-09 02:49:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4370美元/盎司，日內跌0.82%。"
-    },
-    {
-      "id": "5083600",
-      "time": "2026-09-09 02:48:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
-    },
-    {
-      "id": "5083599",
-      "time": "2026-09-09 02:48:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4420美元/盎司，日內跌1.29%。"
-    },
-    {
-      "id": "mkt:01a08259-a9ba-7118-84f3-231a1d1b6e11",
-      "time": "2026-09-09 02:48:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Danube at Budapest falls to record low of 1 cm】Hungary's water authority monitoring data showed the Danube at Budapest plunged to a new historic low of 1 cm on the 8th (local time). The extreme low has severely disrupted river navigation, with exposed riverbed debris threatening traffic, and Hungary's only nuclear plant, Paks, briefly facing shutdown risk due to cooling-water constraints. Water specialists attribute the fall to extreme drought across the Danube basin; at the end of July the Budapest gauge read 27 cm, already below the prior record of 33 cm set on Oct. 25, 2018."
-    },
-    {
-      "id": "5083598",
-      "time": "2026-09-09 02:48:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4380美元/盎司，日內跌0.60%。"
-    },
-    {
-      "id": "5083597",
-      "time": "2026-09-09 02:48:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4380美元/盎司，日內跌0.60%。"
-    },
-    {
-      "id": "5083596",
-      "time": "2026-09-09 02:47:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗哈爾格島發生爆炸。"
-    },
-    {
-      "id": "te:economy:582136",
-      "time": "2026-09-09 02:47:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil Yields Drop as Election Race Tightens — Brazil’s 10-year government bond yield fell to arround 14.21% from a near one-month high of 14.90% reached on August 14th, following the release of new polls on the 2026 presidential election. The polls showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential October runoff. Markets view Bolsonaro as more fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook. Meanwhile, Brazil’s GDP expanded 0.5% in the second quarter of 2026, slightly above forecasts, driven mainly by agriculture. However, the detailed breakdown was weaker, suggesting economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that the effects of monetary tightening are increasingly visible, potentially leaving room for further Selic cuts."
-    },
-    {
-      "id": "5083595",
-      "time": "2026-09-09 02:46:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多瑙河布達佩斯段水位再創新低：一釐米】據匈牙利水務部門監測資料，當地時間8日，多瑙河布達佩斯段水位急劇下降，降至新的歷史低點——1釐米。低水位嚴重影響多瑙河航運，河床中的物品也對水上交通構成直接威脅，匈牙利唯一核電站，保克什核電站也因低水位一度面臨停運風險。水務專家將低水位歸因於多瑙河流域極端乾旱天氣。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a08257-97e5-7118-84f3-193e1952b1b0",
-      "time": "2026-09-09 02:46:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iranian state media reported the joint military command said that if Iranian vessels are attacked it would \"deal a heavy blow\" to US interests in the Middle East."
-    },
-    {
-      "id": "5083594",
-      "time": "2026-09-09 02:45:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方聯合指揮部表示，若伊朗船隻遭到襲擊，將\"嚴厲打擊\"美國在中東地區的利益。"
-    },
-    {
-      "id": "5083593",
-      "time": "2026-09-09 02:44:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統本週將訪問印度出席金磚國家峰會。"
-    },
-    {
-      "id": "te:markets:582135",
-      "time": "2026-09-09 02:41:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises as as Hormuz Risks Mount — Brent topped $99 a barrel on Tuesday before paring gains to around $97.6 amid growing concerns over supply disruptions. The US and Iran exchanged strikes over the weekend, escalating tensions in the Middle East. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish sentiment, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz, potentially making tanker traffic through the critical oil chokepoint even more challenging. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
-    },
-    {
-      "id": "5083592",
-      "time": "2026-09-09 02:39:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic與大型科技倡導組織ITI斷絕往來。"
-    },
-    {
-      "id": "mkt:01a08250-e9eb-7118-84f3-116983b0f471",
-      "time": "2026-09-09 02:38:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Axios reported ANTHROPIC will leave the Information Technology Industry Council (ITI) after ITI-backed legislation sought to restrict foreign access to U.S. chips; ANTHROPIC opposes that policy direction."
-    },
-    {
-      "id": "5083591",
-      "time": "2026-09-09 02:38:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "eBay執行長：汽車業務的年化營收規模已迅速達到數億美元。"
-    },
-    {
-      "id": "5083590",
-      "time": "2026-09-09 02:37:59",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "eBay執行長在高盛會議上表示，汽車業務和直播成為公司新的增長引擎。"
-    },
-    {
-      "id": "5083589",
-      "time": "2026-09-09 02:37:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：面向開發者，我們將在API中推出兩款新模型，GPT‑IMAGE‑2.5 FLARE與GPT‑IMAGE‑2.5 SUNBURST。"
-    },
-    {
-      "id": "te:markets:582134",
-      "time": "2026-09-09 02:37:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Nears Six-Week High — Crude oil topped $94 a barrel on Tuesday before paring gains to around $92.75, trading near six-week highs amid growing concerns over supply disruptions. The US and Iran exchanged strikes over the weekend, escalating tensions in the Middle East. Saudi Aramco facilities were hit in fresh attacks on Monday, while Iran-backed Houthi militants claimed responsibility for targeting the 400,000-barrel-a-day Jazan refinery and other facilities serving the domestic market. The US military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. Adding to bullish sentiment, Iran said Monday it would establish a new shipping corridor with Oman in the Strait of Hormuz, potentially making tanker traffic through the critical oil chokepoint even more challenging. Vessels would be required to coordinate with Tehran to enter a new restricted maritime zone around the waterway."
-    },
-    {
-      "id": "5083588",
-      "time": "2026-09-09 02:36:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國空管系統技術故障致大批航班取消】當地時間9月8日，英國空中交通管制系統出現技術故障，導致英國多地機場航班執行受嚴重影響。倫敦所有機場現已關閉，禁止航班抵達，至少持續至當晚11時。據悉，當天英國境內約有600個航班被取消。倫敦希思羅機場是受影響最嚴重的機場之一。根據航班追蹤網站FlightAware的資料，截至當地時間18時50分，希思羅機場已有156個出港航班被取消，另有186個出港航班延誤。英國航空公司是該機場受影響最嚴重的航空公司之一。"
-    },
-    {
-      "id": "mkt:01a0824e-5b52-7118-84f3-0a9c82274296",
-      "time": "2026-09-09 02:36:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said Images 2.5 is now available to all ChatGPT, ChatGPT Work and Codex users on desktop, mobile and web."
-    },
-    {
-      "id": "mkt:01a0824e-37cf-7118-84f3-0125875b37d5",
-      "time": "2026-09-09 02:35:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches ChatGPT Images 2.5."
-    },
-    {
-      "id": "5083587",
-      "time": "2026-09-09 02:35:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：Images 2.5現已面向所有ChatGPT、ChatGPT Work以及Codex使用者開放，支援桌面端、移動端和網頁端。"
-    },
-    {
-      "id": "5083586",
-      "time": "2026-09-09 02:35:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會擬開放更多無線頻譜，用於太空層面的更高速寬頻服務。"
-    },
-    {
-      "id": "mkt:01a0824d-9325-7118-84f2-fb8eaced25a1",
-      "time": "2026-09-09 02:35:16",
-      "tags": [
-        "MKT News",
-        "SATS.O",
-        "Impact bullish"
-      ],
-      "text": "The U.S. Federal Communications Commission proposed opening additional wireless spectrum to enable faster broadband services delivered from space."
-    },
-    {
-      "id": "mkt:01a0824a-9dc5-7118-84f2-f6480b907e01",
-      "time": "2026-09-09 02:32:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $93.03 a barrel, up $1.55 or 1.69%."
-    },
-    {
-      "id": "mkt:01a0824a-8be7-7118-84f2-edd796fa2d27",
-      "time": "2026-09-09 02:31:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.77% at 946.83 yuan/gram in Tuesday (Sept 8) evening trade; silver T+D closed down 0.46% at 16,119.0 yuan/kg."
-    },
-    {
-      "id": "mkt:01a0824a-8971-7118-84f2-e2875dfb4a70",
-      "time": "2026-09-09 02:31:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 0.70% to 949 yuan/gram, SHFE silver most-active contract fell 0.25% to 16,157 yuan/kg, and SC crude oil most-active contract rose 1.62% to 715 yuan/barrel."
-    },
-    {
-      "id": "5083585",
-      "time": "2026-09-09 02:31:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶93.03美元，上漲1.55美元，漲幅1.69%。"
-    },
-    {
-      "id": "5083584",
-      "time": "2026-09-09 02:30:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "貿易商稱，巴基斯坦國有機構已釋出招標，採購並進口75萬噸小麥。"
-    },
-    {
-      "id": "te:markets:582133",
-      "time": "2026-09-09 02:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Appreciates by 2.96% — Top crypto gainers are XRP (2.96%), Binance (1.77%) and Ether (0.37%). Biggest loser is Bitcoin (-0.48%)."
-    },
-    {
-      "id": "5083583",
-      "time": "2026-09-09 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲1.62%，報714.70元人民幣/桶。滬金夜盤收跌0.70%，滬銀收跌0.25%。"
-    },
-    {
-      "id": "te:markets:582132",
-      "time": "2026-09-09 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.22% — Top commodity losers are Cocoa (-4.22%) and Coffee (-1.91%). Gains are led by Rubber (3.20%), Wheat (1.90%) and Canola (1.82%)."
-    },
-    {
-      "id": "5083582",
-      "time": "2026-09-09 02:24:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Reddit執行長稱，未來12-18個月的重點是擴大使用者規模，包括提高新使用者留存率。"
-    },
-    {
-      "id": "mkt:01a08241-e4d2-7118-84f2-d891841f9d07",
-      "time": "2026-09-09 02:22:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Postal Service inspector general plans an independent review of whistleblower allegations that USPS officials planned to restrict mail-in ballots."
-    },
-    {
-      "id": "5083581",
-      "time": "2026-09-09 02:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：歷經47年制裁後，美國代表以色列向伊朗開戰。後果對美國而言堪稱災難，包括其全球地位受損。在制裁與戰爭均無法達成目標後，華盛頓的新方案竟是更多制裁。這當真？"
-    },
-    {
-      "id": "mkt:01a08241-2825-7118-84f2-d62f8d721da8",
-      "time": "2026-09-09 02:21:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iranian foreign minister Araghchi said after 47 years of sanctions, the US, acting through Israel, has waged war on Iran. The conflict has inflicted catastrophic consequences for the US, including damage to its global standing. Having failed to achieve its aims through sanctions and war, Washington's \"new plan\" is more sanctions — really?"
-    },
-    {
-      "id": "5083580",
-      "time": "2026-09-09 02:20:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政總局監察長表示，計劃對舉報人關於郵寄選票限制計劃的指控進行獨立審查。"
-    },
-    {
-      "id": "te:markets:582130",
-      "time": "2026-09-09 02:20:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Rises by 2.18% — Top commodity gainers are Copper (2.18%) and Silicon (1.91%). Biggest losers are Lithium Carbonate (-0.51%) and Gold (-0.45%)."
-    },
-    {
-      "id": "5083579",
-      "time": "2026-09-09 02:17:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武契奇：塞爾維亞將於10月25日舉行議會選舉】當地時間9月8日晚，塞爾維亞總統武契奇在參加塞爾維亞國家廣播電視臺直播新聞節目時表示，他已經收到塞爾維亞政府提交的關於解散國民議會的提案，並將於9日12時正式簽署解散國民議會和舉行選舉的相關檔案，提前議會選舉將於10月25日舉行。"
-    },
-    {
-      "id": "5083578",
-      "time": "2026-09-09 02:17:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "布倫特原油今日觸及每桶99美元，創六週新高。美國汽油價格在勞工節創下4.15美元每加侖的紀錄。美國多家銀行警告，若衝突升級，油價可能漲至120至150美元區間。"
-    },
-    {
-      "id": "te:markets:582128",
-      "time": "2026-09-09 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Spikes by 5.00% — Top commodity gainers are Methanol (5%), Natural Gas UK (5%), Natural Gas EU (4.30%), Crude Oil (0.95%) and Brent Oil (0.09%). Biggest loser is Natural gas (-2.36%)."
-    },
-    {
-      "id": "5083577",
-      "time": "2026-09-09 02:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員稱美軍一架水下無人機在中東發生故障】一名美國官員稱，一架美軍無人機在中東地區執行水域偵察任務期間發生故障。該官員稱，發生故障的是一款較老型號的無人機，機上並未搭載任何涉密聲吶或雷達裝置，於一天多以前發了故障。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a08239-a06e-7118-84f2-c921f1653cf5",
-      "time": "2026-09-09 02:13:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBC reports U.S. Trade Representative Greer and Canadian Foreign Minister LeBlanc will speak today."
-    },
-    {
-      "id": "5083576",
-      "time": "2026-09-09 02:13:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾與加拿大美加貿易事務部長勒布朗將於今日發表講話。"
-    },
-    {
-      "id": "5083575",
-      "time": "2026-09-09 02:08:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國金融科技公司Ramp正在洽談新一輪融資，估值600億美元。"
-    },
-    {
-      "id": "mkt:01a08232-23b2-7118-84f2-c74224008d4b",
-      "time": "2026-09-09 02:05:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US says Iran 'captured' underwater drone had malfunctioned and carried no sensitive data】In response to the IRGC's claim it had captured a US underwater drone, a US official told CNN a US military unmanned underwater vehicle malfunctioned during a reconnaissance mission just over a day earlier. The official said the craft was an older model that had not collected sensitive data and carried no classified sonar or radar, and that the loss resulted from the malfunction rather than an Iranian action. US operations in the area continue."
-    },
-    {
-      "id": "5083574",
-      "time": "2026-09-09 02:05:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞爾維亞總統：將於10月25日舉行議會提前選舉。"
-    },
-    {
-      "id": "mkt:01a08231-cf6f-7118-84f2-be65e8b953ca",
-      "time": "2026-09-09 02:04:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Serbian president says early parliamentary elections will be held on Oct. 25."
-    },
-    {
-      "id": "5083573",
-      "time": "2026-09-09 02:02:32",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Reddit執行長表示，上一季度平臺新增10億條帖子與評論，約佔平臺總內容庫的4%。"
-    },
-    {
-      "id": "mkt:01a0822c-24da-7118-84f2-b554de16703c",
-      "time": "2026-09-09 01:58:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials said the malfunctioning drone was an older model and did not carry any classified sonar or radar equipment."
-    },
-    {
-      "id": "5083572",
-      "time": "2026-09-09 01:57:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員稱，這架有缺陷的無人機是舊型號，未攜帶任何機密聲納或雷達裝置。"
-    },
-    {
-      "id": "5083571",
-      "time": "2026-09-09 01:57:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【OpenAI首席財務官稱企業業務勢頭強勁】OpenAI首席財務官Sarah Friar在高盛一場會議上表示，公司的企業業務一直“勢頭強勁”。她稱：“消費者業務正以相當不錯的速度增長，但企業業務的表現一直非常強勁。”Friar表示，OpenAI整體年化營收執行率從6月到7月環比增長20%，其中企業業務環比增長32%。"
-    },
-    {
-      "id": "5083570",
-      "time": "2026-09-09 01:55:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "Reddit執行長：我們每日出現數十萬來源無法追蹤的全新應用下載量。"
-    },
-    {
-      "id": "5083569",
-      "time": "2026-09-09 01:55:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄美元首通話重點討論解決烏克蘭問題】俄羅斯總統普京與美國總統特朗普8日通電話，重點討論解決烏克蘭問題。普京在通話中指出美方可採取哪些措施推動儘早結束特別軍事行動。特朗普則表示有意在任期內推動烏克蘭問題的解決取得突破。（新華社）"
-    },
-    {
-      "id": "mkt:01a08228-234f-7118-84f2-afce244524a9",
-      "time": "2026-09-09 01:54:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials said a U.S. MILITARY unmanned underwater vehicle malfunctioned in the Middle East more than a day ago."
-    },
-    {
-      "id": "5083568",
-      "time": "2026-09-09 01:53:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員稱，美軍一架水下無人機一天多前在中東發生故障。"
-    },
-    {
-      "id": "mkt:01a08224-a93f-7118-84f2-a1c4eae4b6d1",
-      "time": "2026-09-09 01:50:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV reported US officials said they are focusing efforts to ensure freedom of navigation in the Red Sea."
-    },
-    {
-      "id": "mkt:01a08222-c316-7118-84f2-9859985da81e",
-      "time": "2026-09-09 01:48:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Mehr news agency quoted Sanaa sources saying Saudi Arabia carried out more than 135 airstrikes on Yemen over the past three days, and that Houthi forces foiled a Saudi-backed force's attempt to mass near the Yatma market area in Al-Jawf province."
-    },
-    {
-      "id": "mkt:01a0821d-a1b8-7118-84f2-967000e6d504",
-      "time": "2026-09-09 01:42:55",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Portugal government survives no-confidence vote: 104 votes against, 60 in favor, 62 abstentions; government remains in office under Luís Montenegro."
-    },
-    {
-      "id": "5083567",
-      "time": "2026-09-09 01:41:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國雷諾阿博物館兩幅遭竊畫作被找到】位於法國東南部城市濱海卡涅的雷諾阿博物館8日清晨4幅畫作遭竊，截至目前其中兩幅在博物館的花園內被找到。（新華社）"
-    },
-    {
-      "id": "5083566",
-      "time": "2026-09-09 01:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "路易斯·蒙特內格羅領導的葡萄牙政府在不信任投票中過關。"
-    },
-    {
-      "id": "mkt:01a0821a-fd86-7118-84f2-8dd5d0ba7b22",
-      "time": "2026-09-09 01:40:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News Agency quoted the deputy press chief of the Iranian presidential office saying Iran would still have won even if it now returned to the Islamabad Memorandum of Understanding."
-    },
-    {
-      "id": "mkt:01a08217-a12e-7118-84f2-8502dbab9bbe",
-      "time": "2026-09-09 01:36:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "CNBC reports OpenAI's CFO said the company's business is growing rapidly."
-    },
-    {
-      "id": "5083565",
-      "time": "2026-09-09 01:35:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI首席財務官：OpenAI企業業務增長勢頭強勁。"
-    },
-    {
-      "id": "5083564",
-      "time": "2026-09-09 01:31:55",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國3年期國債拍賣中標收益率創2024年以來最高】美國財政部發行580億美元3年期國債，中標收益率為4.474%，略低於紐約時間下午1點投標截止時4.475%的發行前交易水平，顯示市場需求略好於預期。此次中標收益率創該期限國債2024年6月以來最高。此次拍賣需求穩健，該期限國債收益率對此反應不大，日內仍上漲近2個基點，表現遜於長期國債。"
-    },
-    {
-      "id": "mkt:01a08212-a337-7118-84f2-7d0c2271b62d",
-      "time": "2026-09-09 01:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Mehr News Agency, citing Arab sources, reports flights at Saudi Arabia's Jizan airport have been suspended."
-    },
-    {
-      "id": "5083563",
-      "time": "2026-09-09 01:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第二屆埃及國際航展在阿拉曼開幕】第二屆埃及國際航展8日在埃及地中海城市阿拉曼國際機場開幕，埃及總統塞西出席開幕式。（新華社）"
-    },
-    {
-      "id": "mkt:01a0820f-e416-7118-84f2-706cdfc596c9",
-      "time": "2026-09-09 01:27:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran releases footage saying it shot down US MQ-1 drone】The Islamic Revolutionary Guard Corps released footage it said shows the interception and destruction of a hostile US MQ-1 drone. IRGC said the drone was flying over the Strait of Hormuz when IRGC navy and aerospace forces, operating under the country’s integrated air-defence network, used an advanced air-defence system to shoot it down."
-    },
-    {
-      "id": "mkt:01a0820b-1300-7118-84f2-6949964fb084",
-      "time": "2026-09-09 01:22:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme Leader said Iran's alert and vigilant people have shocked and frustrated better-equipped enemies and won the admiration of freedom-loving people worldwide."
-    },
-    {
-      "id": "5083562",
-      "time": "2026-09-09 01:22:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多警方查獲約4噸毒品】當地時間8日，厄瓜多警方宣佈，他們在瓜亞斯省波索爾哈地區開展了代號為“紅樹林行動”的緝毒行動，查獲約4噸毒品，並抓獲4名涉嫌販毒人員。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0820a-2f26-7118-84f2-645c3a58a5bc",
-      "time": "2026-09-09 01:21:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen government forces said they used fighter jets to strike Houthi assembly points and a command center on the Jabal Habshi front in western Taiz province."
-    },
-    {
-      "id": "5083561",
-      "time": "2026-09-09 01:20:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心(CMS)：禁止11家涉嫌欺詐金額超過34億美元的醫療用品公司未來獲得聯邦醫療保險優勢計劃C部分和D部分的支付款項。"
-    },
-    {
-      "id": "5083560",
-      "time": "2026-09-09 01:17:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "露露樂蒙股價在前一交易日下跌17%後上漲2.5%，新任執行長正式接掌公司。"
-    },
-    {
-      "id": "mkt:01a08205-3fcc-7118-84f2-5bb6ef9dd045",
-      "time": "2026-09-09 01:16:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted bids from three counterparties totaling $626m in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "5083559",
-      "time": "2026-09-09 01:15:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "3 家交易對手在美聯儲逆回購操作中獲得 6.26 億美元。"
-    },
-    {
-      "id": "mkt:01a08202-d92a-7118-84f2-5192fcb3ab56",
-      "time": "2026-09-09 01:13:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Sources say AI startup Cognition has secured over $2.0 bln in funding at a $48.0 bln valuation."
-    },
-    {
-      "id": "mkt:01a08202-767a-7118-84f2-4960221e3fc9",
-      "time": "2026-09-09 01:13:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Israel's Channel 12 reports Saudi Arabia sounded alerts after missile launches from Yemen."
-    },
-    {
-      "id": "5083558",
-      "time": "2026-09-09 01:11:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cognition表示，公司完成超20億美元融資，投後估值480億美元。"
-    },
-    {
-      "id": "5083557",
-      "time": "2026-09-09 01:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：奈季蘭地區的危險已經解除。"
-    },
-    {
-      "id": "mkt:01a081fe-9ec9-7118-84f2-46b4fca7cf4c",
-      "time": "2026-09-09 01:09:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says the danger in Najran has passed."
-    },
-    {
-      "id": "5083556",
-      "time": "2026-09-09 01:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：整個專案共計63輛卡車。"
-    },
-    {
-      "id": "mkt:01a081fd-197d-7118-84f2-38eaac68f31b",
-      "time": "2026-09-09 01:07:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US three-year Treasury yield was little changed after the auction, finishing up 1.05 bps at 4.462%."
-    },
-    {
-      "id": "mkt:01a081fd-013e-7118-84f2-3203060a2fcc",
-      "time": "2026-09-09 01:07:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger in ABHA has passed."
-    },
-    {
-      "id": "5083555",
-      "time": "2026-09-09 01:07:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：部署25輛電動半掛卡車及配套充電基礎設施。"
-    },
-    {
-      "id": "5083554",
-      "time": "2026-09-09 01:06:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：與Nevoya、GMA開展合作，助力25輛電動重型卡車在得州投入運營。"
-    },
-    {
-      "id": "mkt:01a081fc-2d7a-7118-84f2-2a6982bb5bff",
-      "time": "2026-09-09 01:06:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense said Najran and ABHA provinces have issued warnings."
-    },
-    {
-      "id": "5083553",
-      "time": "2026-09-09 01:06:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：艾卜哈的危險警報已經解除。"
-    },
-    {
-      "id": "5083552",
-      "time": "2026-09-09 01:06:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國三年期國債收益率拍賣後變動不大，最新上漲1.05個基點，報4.462%。"
-    },
-    {
-      "id": "5083551",
-      "time": "2026-09-09 01:05:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府排除空中交通中斷由網路攻擊造成的可能性。"
-    },
-    {
-      "id": "mkt:01a081fb-6e51-7118-84f2-25fb20d15058",
-      "time": "2026-09-09 01:05:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger in the Jizan region has been lifted."
-    },
-    {
-      "id": "mkt:01a081fa-faa1-7118-84f2-181639f95638",
-      "time": "2026-09-09 01:05:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reported Russian Foreign Minister Lavrov said President Putin may meet U.S. President Trump at the APEC summit in November."
-    },
-    {
-      "id": "5083550",
-      "time": "2026-09-09 01:04:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：吉贊地區危險警報解除。"
     }
   ]
 }
