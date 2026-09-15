@@ -1,7 +1,162 @@
 {
-  "updated": "2026-09-15 09:18:24",
-  "count": 13619,
+  "updated": "2026-09-15 09:22:08",
+  "count": 13627,
   "items": [
+    {
+      "id": "mkt:01a0a2a7-c4fb-7118-8582-0b903890d788",
+      "time": "2026-09-15 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC said it set the 7-day reverse repo amount at zero on Sept 15, 2026, based on primary dealers' demand, and conducted 597 billion yuan of overnight reverse repos."
+    },
+    {
+      "id": "5094111",
+      "time": "2026-09-15 09:21:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電3nm、2nm先進製程與先進封裝產能持續供不應求】時序進入第三季下旬，臺積電3nm、2nm先進製程與CoWoS先進封裝產能持續供不應求。供應鏈人士透露，英偉達、蘋果等持續佔有臺積電先進製程與封裝資源。此外，亞馬遜AWS近期放大AI自研晶片投片，旗下Annapurna取得更多3nm產能。聯發科除手機晶片外，也因谷歌TPU相關大單，爭搶2/3nm製程與CoWoS-S/L產能。"
+    },
+    {
+      "id": "5094110",
+      "time": "2026-09-15 09:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "GO Inc.與Waymo計劃在東京提供全自動駕駛計程車服務。"
+    },
+    {
+      "id": "mkt:01a0a2a7-7595-7118-8582-0547afb30a3a",
+      "time": "2026-09-15 09:21:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC said that, based on demand from primary dealers in open-market operations, the 7-day reverse repo on Sept 15, 2026 was zero. It conducted 597 billion yuan of overnight reverse repos."
+    },
+    {
+      "id": "mkt:01a0a2a7-5e86-7118-8581-f9197d971e01",
+      "time": "2026-09-15 09:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02238.HK"
+      ],
+      "text": "Hang Seng Index opened up 0.07%; Hang Seng Tech Index up 0.47%. GAC Group (02238.HK) rose more than 8% after proposing an A-share issuance to acquire FAW's stake in a joint-venture automaker."
+    },
+    {
+      "id": "5094109",
+      "time": "2026-09-15 09:21:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月15日7天期逆回購操作量為零。同時，開展了5970億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5094108",
+      "time": "2026-09-15 09:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《電子資訊製造業發展“十五五”規劃》：加快發展先進存力 研發新型儲存產品】 工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。規劃提出，加快發展先進存力，推動以存強算、以存代算，提升分散式、超融合等儲存系統的技術水平，完善分級分層資料儲存架構及儲存協議。突破智慧分層儲存、資料稀疏化最佳化、鍵值快取等技術，研發高頻寬快閃記憶體、高頻寬記憶體、鐵電儲存器、阻變儲存器、磁電儲存器等新型儲存產品。"
+    },
+    {
+      "id": "5094107",
+      "time": "2026-09-15 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.07%，恒生科技指數漲0.47%】天數智芯漲3.51%，恆隆地產漲1.56%，網易漲1.48%，極兔速遞-W漲1.45%，MINIMAX-W漲1.43%，聯想集團漲1.37%，信義玻璃漲1.34%。"
+    },
+    {
+      "id": "5094106",
+      "time": "2026-09-15 09:20:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：提升人工智慧晶片設計水平】工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。其中提到，提升人工智慧晶片設計水平，加強張量核心資料流組織、混合精度、動態稀疏計算、統一記憶體架構等技術攻關創新。聚焦低延遲、高吞吐、低功耗等核心效能指標，提高通用圖形處理器（GPGPU）、專用積體電路（ASIC）、SoC等處理器綜合計算能力，佈局軟硬耦合推理晶片等新路線。"
+    },
+    {
+      "id": "mkt:01a0a2a6-67aa-7118-8581-f3206f788c1c",
+      "time": "2026-09-15 09:20:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Bureau of Statistics will publish in 10 minutes the monthly residential sales-price report for 70 large- and medium-sized cities."
+    },
+    {
+      "id": "mkt:01a0a2a6-1baa-7118-8581-e9d40856b4f8",
+      "time": "2026-09-15 09:19:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【MIIT and China State Planner push BeiDou from industry use to nationwide adoption】The Ministry of Industry and Information Technology and China State Planner issued the 15th Five-Year Plan for Electronic Information Manufacturing, directing scaled deployment of the BeiDou system from industry-specific use to mass, nationwide adoption. The plan backs R&D in BeiDou chips, algorithms, anti‑jamming and satellite‑ground integration to address core supply‑chain bottlenecks and build an end‑to‑end tech supply chain; advances PNT system integration of BeiDou, satellite internet and space remote sensing; targets full‑industry linkage across chips, antennas, terminals, systems and services; and calls for forward deployment of satellite internet to expand direct‑to‑satellite terminal use cases and strengthen the terminal industry ecosystem."
+    },
+    {
+      "id": "5094105",
+      "time": "2026-09-15 09:19:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《電子資訊製造業發展“十五五”規劃》：拓展太空光伏、海上光伏等智慧應用場景】 工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。規劃提出，突破鈣鈦礦疊層電池等先進光伏技術，加快產業化應用。開發低能耗、高純多晶矽技術，大尺寸、超薄矽片技術，高可靠元件封裝技術和智慧光伏元件產品，推動逆變器、控制器、跟蹤系統等關鍵部件智慧化升級。大力支援鈣鈦礦材料、聚烯烴彈性體、高純石英砂等光伏材料研發應用。拓展太空光伏、海上光伏等智慧應用場景，培育光伏制氫氨醇等新模式新業態，推動光伏融合發展。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609153874269197",
+      "time": "2026-09-15 09:19:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲將舉行9月議息會議】美聯儲定於當地時間9月15日至16日舉行9月聯邦公開市場委員會議息會議。據悉，美聯儲將於當地時間9月16日14時釋出貨幣政策宣告及最新經濟預測摘要。"
+    },
+    {
+      "id": "5094104",
+      "time": "2026-09-15 09:18:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為將推出第三代血壓手錶】 據華為訊息，華為將推出第三代血壓手錶HUAWEI WATCH D3，表體厚11.3mm，重40g，搭載HarmonyOS 7.0，支援24小時動態血壓監測並首創輕擾動態血壓研究。"
+    },
+    {
+      "id": "mkt:01a0a2a5-3141-7118-8581-e5c7f899e6d9",
+      "time": "2026-09-15 09:18:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures broke above $64/oz, up 0.38% on the day."
+    },
+    {
+      "id": "mkt:01a0a2a4-9657-7118-8581-df707cce8259",
+      "time": "2026-09-15 09:18:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Al Arabiya reports the UN Security Council is convening an emergency meeting tonight to discuss developments in the Bab el-Mandeb Strait."
+    },
+    {
+      "id": "5094103",
+      "time": "2026-09-15 09:18:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破64美元/盎司，日內跌0.20%。"
+    },
     {
       "id": "mkt:01a0a2a2-c336-7118-8581-d3ddf8a027dc",
       "time": "2026-09-15 09:16:10",
@@ -125251,103 +125406,6 @@
         "市場"
       ],
       "text": "江波龍電子港股上市首日開盤報236港元，與招股價持平。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202609083867604727",
-      "time": "2026-09-08 09:21:57",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "5081746",
-      "time": "2026-09-08 09:21:47",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.63％，國企指數跌0.72％，恒生科技指數跌0.56%。"
-    },
-    {
-      "id": "mkt:01a07e9b-62fd-7118-84d6-69f5b3be9612",
-      "time": "2026-09-08 09:21:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "09901.HK",
-        "Impact bullish",
-        "03993.HK",
-        "00688.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong open: Hang Seng Index down 0.63%, Hang Seng Tech Index down 0.56%. New Oriental (09901.HK) and China Molybdenum (03993.HK) up over 2%; China Overseas Development (00688.HK) down more than 2%."
-    },
-    {
-      "id": "mkt:01a07e9a-f650-7118-84d6-67999f25be83",
-      "time": "2026-09-08 09:21:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's HSI opened down 161.05 points (-0.63%) at 25,252.07 on Tuesday, Sept. 8; Hang Seng TECH opened down 25.18 points (-0.56%) at 4,502.53; HSCEI opened down 60.92 points (-0.72%) at 8,368.81; Hang Seng Red Chip Index opened down 4.53 points (-0.11%) at 4,171.92."
-    },
-    {
-      "id": "5081745",
-      "time": "2026-09-08 09:20:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率<JP20YTN=JBTC>下跌4.0個基點，至3.705%。"
-    },
-    {
-      "id": "5081744",
-      "time": "2026-09-08 09:20:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:01a07e9a-4436-7118-84d6-5db9a535c203",
-      "time": "2026-09-08 09:20:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo today for 10 billion yuan; bids totaled 10 billion yuan and allotment was 10 billion yuan at a 1.40% rate, unchanged."
-    },
-    {
-      "id": "5081743",
-      "time": "2026-09-08 09:20:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【蜜雪冰城、瑞幸供應商唯可鮮啟動北交所IPO輔導】證監會網站披露，山東唯可鮮食品集團股份有限公司於2026年9月7日在山東證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為國金證券。"
-    },
-    {
-      "id": "te:economy:581778",
-      "time": "2026-09-08 09:19:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Consumer Confidence MoM",
-        "Importance 2"
-      ],
-      "text": "Australia Consumer Sentiment Sinks in September — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index plunged 5.2% mom to 84.4 in September 2026, reversing a 6.0% rise the prior month and marking its first decline since June, as higher fuel prices and concerns over further rate hikes weighed on confidence. Views of household finances weakened sharply, with assessments of finances over the past year tumbling 9.2% to 72.6, while expectations for the next 12 months slipped 3.8% to 94.5. Economic sentiment deteriorated, with the one-year outlook down 4.0% to 79.5 and the five-year measure declining 4.5% to 85.8. The gauge of whether it was a good time to buy major household items dropped 4.8% to 89.3, while unemployment expectations rose 2.8% to 139.4. Westpac economist Matthew Hassan said the strong July CPI reading increases the likelihood of a future rate hike, but the RBA is unlikely to act on a single monthly inflation reading given the series’ volatility, with the next CPI update due a day after the policy meeting."
     }
   ]
 }

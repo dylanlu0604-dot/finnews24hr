@@ -1,7 +1,162 @@
 {
   "date": "2026-09-15",
-  "count": 594,
+  "count": 611,
   "items": [
+    {
+      "id": "mkt:01a0a2a7-c4fb-7118-8582-0b903890d788",
+      "time": "2026-09-15 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC said it set the 7-day reverse repo amount at zero on Sept 15, 2026, based on primary dealers' demand, and conducted 597 billion yuan of overnight reverse repos."
+    },
+    {
+      "id": "5094111",
+      "time": "2026-09-15 09:21:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電3nm、2nm先進製程與先進封裝產能持續供不應求】時序進入第三季下旬，臺積電3nm、2nm先進製程與CoWoS先進封裝產能持續供不應求。供應鏈人士透露，英偉達、蘋果等持續佔有臺積電先進製程與封裝資源。此外，亞馬遜AWS近期放大AI自研晶片投片，旗下Annapurna取得更多3nm產能。聯發科除手機晶片外，也因谷歌TPU相關大單，爭搶2/3nm製程與CoWoS-S/L產能。"
+    },
+    {
+      "id": "5094110",
+      "time": "2026-09-15 09:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "GO Inc.與Waymo計劃在東京提供全自動駕駛計程車服務。"
+    },
+    {
+      "id": "mkt:01a0a2a7-7595-7118-8582-0547afb30a3a",
+      "time": "2026-09-15 09:21:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC said that, based on demand from primary dealers in open-market operations, the 7-day reverse repo on Sept 15, 2026 was zero. It conducted 597 billion yuan of overnight reverse repos."
+    },
+    {
+      "id": "mkt:01a0a2a7-5e86-7118-8581-f9197d971e01",
+      "time": "2026-09-15 09:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02238.HK"
+      ],
+      "text": "Hang Seng Index opened up 0.07%; Hang Seng Tech Index up 0.47%. GAC Group (02238.HK) rose more than 8% after proposing an A-share issuance to acquire FAW's stake in a joint-venture automaker."
+    },
+    {
+      "id": "5094109",
+      "time": "2026-09-15 09:21:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月15日7天期逆回購操作量為零。同時，開展了5970億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5094108",
+      "time": "2026-09-15 09:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《電子資訊製造業發展“十五五”規劃》：加快發展先進存力 研發新型儲存產品】 工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。規劃提出，加快發展先進存力，推動以存強算、以存代算，提升分散式、超融合等儲存系統的技術水平，完善分級分層資料儲存架構及儲存協議。突破智慧分層儲存、資料稀疏化最佳化、鍵值快取等技術，研發高頻寬快閃記憶體、高頻寬記憶體、鐵電儲存器、阻變儲存器、磁電儲存器等新型儲存產品。"
+    },
+    {
+      "id": "5094107",
+      "time": "2026-09-15 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.07%，恒生科技指數漲0.47%】天數智芯漲3.51%，恆隆地產漲1.56%，網易漲1.48%，極兔速遞-W漲1.45%，MINIMAX-W漲1.43%，聯想集團漲1.37%，信義玻璃漲1.34%。"
+    },
+    {
+      "id": "5094106",
+      "time": "2026-09-15 09:20:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：提升人工智慧晶片設計水平】工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。其中提到，提升人工智慧晶片設計水平，加強張量核心資料流組織、混合精度、動態稀疏計算、統一記憶體架構等技術攻關創新。聚焦低延遲、高吞吐、低功耗等核心效能指標，提高通用圖形處理器（GPGPU）、專用積體電路（ASIC）、SoC等處理器綜合計算能力，佈局軟硬耦合推理晶片等新路線。"
+    },
+    {
+      "id": "mkt:01a0a2a6-67aa-7118-8581-f3206f788c1c",
+      "time": "2026-09-15 09:20:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Bureau of Statistics will publish in 10 minutes the monthly residential sales-price report for 70 large- and medium-sized cities."
+    },
+    {
+      "id": "mkt:01a0a2a6-1baa-7118-8581-e9d40856b4f8",
+      "time": "2026-09-15 09:19:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【MIIT and China State Planner push BeiDou from industry use to nationwide adoption】The Ministry of Industry and Information Technology and China State Planner issued the 15th Five-Year Plan for Electronic Information Manufacturing, directing scaled deployment of the BeiDou system from industry-specific use to mass, nationwide adoption. The plan backs R&D in BeiDou chips, algorithms, anti‑jamming and satellite‑ground integration to address core supply‑chain bottlenecks and build an end‑to‑end tech supply chain; advances PNT system integration of BeiDou, satellite internet and space remote sensing; targets full‑industry linkage across chips, antennas, terminals, systems and services; and calls for forward deployment of satellite internet to expand direct‑to‑satellite terminal use cases and strengthen the terminal industry ecosystem."
+    },
+    {
+      "id": "5094105",
+      "time": "2026-09-15 09:19:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《電子資訊製造業發展“十五五”規劃》：拓展太空光伏、海上光伏等智慧應用場景】 工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。規劃提出，突破鈣鈦礦疊層電池等先進光伏技術，加快產業化應用。開發低能耗、高純多晶矽技術，大尺寸、超薄矽片技術，高可靠元件封裝技術和智慧光伏元件產品，推動逆變器、控制器、跟蹤系統等關鍵部件智慧化升級。大力支援鈣鈦礦材料、聚烯烴彈性體、高純石英砂等光伏材料研發應用。拓展太空光伏、海上光伏等智慧應用場景，培育光伏制氫氨醇等新模式新業態，推動光伏融合發展。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609153874269197",
+      "time": "2026-09-15 09:19:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲將舉行9月議息會議】美聯儲定於當地時間9月15日至16日舉行9月聯邦公開市場委員會議息會議。據悉，美聯儲將於當地時間9月16日14時釋出貨幣政策宣告及最新經濟預測摘要。"
+    },
+    {
+      "id": "5094104",
+      "time": "2026-09-15 09:18:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為將推出第三代血壓手錶】 據華為訊息，華為將推出第三代血壓手錶HUAWEI WATCH D3，表體厚11.3mm，重40g，搭載HarmonyOS 7.0，支援24小時動態血壓監測並首創輕擾動態血壓研究。"
+    },
+    {
+      "id": "mkt:01a0a2a5-3141-7118-8581-e5c7f899e6d9",
+      "time": "2026-09-15 09:18:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures broke above $64/oz, up 0.38% on the day."
+    },
+    {
+      "id": "mkt:01a0a2a4-9657-7118-8581-df707cce8259",
+      "time": "2026-09-15 09:18:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Al Arabiya reports the UN Security Council is convening an emergency meeting tonight to discuss developments in the Bab el-Mandeb Strait."
+    },
+    {
+      "id": "5094103",
+      "time": "2026-09-15 09:18:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破64美元/盎司，日內跌0.20%。"
+    },
     {
       "id": "mkt:01a0a2a2-c336-7118-8581-d3ddf8a027dc",
       "time": "2026-09-15 09:16:10",
