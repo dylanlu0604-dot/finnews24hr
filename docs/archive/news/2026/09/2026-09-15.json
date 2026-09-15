@@ -1,7 +1,111 @@
 {
   "date": "2026-09-15",
-  "count": 1931,
+  "count": 1944,
   "items": [
+    {
+      "id": "mkt:01a0a504-4921-7118-8597-232ff6b81fa7",
+      "time": "2026-09-15 20:21:56",
+      "tags": [
+        "MKT News",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce (CRM.N) and Google Cloud expand their enterprise AI partnership."
+    },
+    {
+      "id": "5095400",
+      "time": "2026-09-15 20:20:52",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "土耳其財政部重啟發行2031年4月16日到期的固定票面利率債券，發行收益率為38.73%。"
+    },
+    {
+      "id": "mkt:01a0a502-9c3f-7118-8597-1fa861ec3f47",
+      "time": "2026-09-15 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "US September New York Fed manufacturing index and Canada July wholesale sales MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0a502-94cf-7118-8597-17de232598f5",
+      "time": "2026-09-15 20:20:04",
+      "tags": [
+        "MKT News",
+        "WFC.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo CFO says commercial client base remains relatively healthy."
+    },
+    {
+      "id": "mkt:01a0a502-2fbd-7118-8597-0dbd5c860248",
+      "time": "2026-09-15 20:19:38",
+      "tags": [
+        "MKT News",
+        "WFC.O"
+      ],
+      "text": "Wells Fargo CFO: mid-market clients remain cautious."
+    },
+    {
+      "id": "mkt:01a0a502-0fb2-7118-8597-01ebedf2c5f0",
+      "time": "2026-09-15 20:19:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swedish Financial Supervisory Authority tightens rules for assessing investment research."
+    },
+    {
+      "id": "5095399",
+      "time": "2026-09-15 20:19:24",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【知情人士：位元組跳動今年上半年營收同比增長約30%，達1200億美元】據三名瞭解財報資料的人士透露，位元組跳動加大人工智慧領域投入，今年上半年淨利潤出現個位數百分比下滑，降至200億美元。 知情人士稱，同期公司營收同比增長約30%，達到1200億美元，部分得益於TikTok國際廣告與電商收入的強勁增長。這意味著位元組跳動的增速相比過去兩年小幅提速。知情人士表示，位元組跳動去年營收增長29%，約2000億美元，2024年增速與之相近；去年公司淨利潤增長27%，至420億美元。 上述資料還顯示，位元組跳動營收正追上Meta Platform。Meta上半年營收同樣增長30%，達到1170億美元。兩家公司估值差距懸殊：跟蹤二級市場交易的CapLight資料顯示，Meta市值為1.7萬億美元，而位元組跳動估值約6300億美元。"
+    },
+    {
+      "id": "5095398",
+      "time": "2026-09-15 20:18:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈猴機器人北京基地正式投用，總規劃產能達1.5萬臺】9月15日，靈猴未來機器人科技（北京）有限公司投用活動在京舉行。據靈猴機器人介紹，北京基地總建築面積近5000㎡，基地一期規劃具身智慧機器人年產能達6000臺，總規劃產能達15000臺。"
+    },
+    {
+      "id": "mkt:01a0a501-74d3-7118-8596-f8bd2b8a8ba0",
+      "time": "2026-09-15 20:18:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan, Lebanon agree to step up security and counterterrorism cooperation】On the 15th in Islamabad, Pakistan and Lebanon's interior ministers agreed to deepen cooperation on security, counterterrorism, anti‑narcotics, illegal migration, anti‑money laundering and cybercrime. They committed to expand police‑academy and personnel training exchanges, share intelligence to combat terrorism and drug trafficking, fast‑track a cooperation MoU between interior ministries, and appoint liaison officers to strengthen bilateral coordination."
+    },
+    {
+      "id": "mkt:01a0a501-70d5-7118-8596-f4b1f803fdf1",
+      "time": "2026-09-15 20:18:50",
+      "tags": [
+        "MKT News",
+        "WFC.O"
+      ],
+      "text": "Wells Fargo CFO says he has seen no change in default trends."
+    },
+    {
+      "id": "5095397",
+      "time": "2026-09-15 20:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦與黎巴嫩同意加強安全及反恐合作】當地時間15日，巴基斯坦內政部長穆赫辛·納克維在首都伊斯蘭堡會見到訪的黎巴嫩內政部長哈賈爾。雙方重點就加強安全、反恐、禁毒、打擊非法移民、反洗錢和網路犯罪等領域合作進行討論，並同意加強兩國警察學院及人員培訓方面的交流合作。雙方同意透過情報共享共同打擊恐怖主義和販毒犯罪，應對新出現的安全挑戰，並將儘快推動兩國內政部門簽署合作諒解備忘錄，同時指定聯絡人以加強雙邊協調。（央視新聞）"
+    },
     {
       "id": "mkt:01a0a500-ad38-7118-8596-ec0bc1eb8fa5",
       "time": "2026-09-15 20:17:59",
@@ -14,6 +118,15 @@
         "Impact bearish"
       ],
       "text": "Wells Fargo CFO says US economic activity remains strong."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609153874908819",
+      "time": "2026-09-15 20:17:56",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "ADP報告稱，截至8月29日的四周，美國私營部門就業人數平均每週增加16250人。"
     },
     {
       "id": "mkt:01a0a500-8a36-7118-8596-e5b140b10008",
@@ -82,6 +195,15 @@
         "Impact bearish"
       ],
       "text": "US ADP weekly employment change for the week to Aug 29: +16.25k, prior +12.0k."
+    },
+    {
+      "id": "em:qqyh_mlc:202609153874908210",
+      "time": "2026-09-15 20:15:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【白宮經濟顧問：特朗普和我尊重沃什明天的任何舉動】白宮經濟顧問哈塞特回應有關利率的問題稱，特朗普和我尊重沃什明天的（美聯儲利率決議）任何舉動。"
     },
     {
       "id": "5095394",
