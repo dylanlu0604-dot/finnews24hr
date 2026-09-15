@@ -1,7 +1,73 @@
 {
   "date": "2026-09-15",
-  "count": 561,
+  "count": 567,
   "items": [
+    {
+      "id": "mkt:01a0a299-7dd3-7118-8581-7ac0b1584356",
+      "time": "2026-09-15 09:06:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT, China State Planner push full-chain integrated circuit R&D】MIIT and the China State Planner jointly issued the \"15th Five-Year Plan\" for electronic information manufacturing, directing full-chain breakthroughs in China's integrated circuit sector. The plan targets development of high-performance processors, high-density memory, and high-reliability analog and mixed-signal chips; calls for raising IC manufacturing levels by refining mature nodes and expanding advanced-process capability; and promotes development and application of advanced packaging and test technologies. It also prioritizes upgrading wide-bandgap semiconductors and their commercialization (gallium oxide, diamond), scaling supply of critical equipment, materials and components, accelerating EDA and IP-core development, and advancing 3D integration technologies."
+    },
+    {
+      "id": "5094085",
+      "time": "2026-09-15 09:05:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：推動積體電路全鏈條攻關】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，推動積體電路全鏈條攻關。發展高效能處理器、高密度儲存器、高可靠性模擬和數模混合晶片等高階晶片產品。提升積體電路製造水平，做精做細成熟製程，提高先進製程能力。推動先進封裝測試技術開發和應用。推動寬禁帶半導體產業提質升級，推動氧化鎵、金剛石等超寬禁帶半導體產業化發展。持續提升關鍵裝備、材料和零部件供給能力，加快發展電子設計自動化工具（EDA）和智慧財產權核（IP核），推進三維整合等技術突破和應用。（工信部）"
+    },
+    {
+      "id": "mkt:01a0a297-fd1e-7118-8581-70680c0b767e",
+      "time": "2026-09-15 09:04:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Crude ETF holdings: WTI and Brent nominal exposure changes offset】Sept 14 — WTI (USO) nominal exposure ~20.6078 mln barrels, down 963k barrels on the day; Brent (BNO) futures holdings ~6.869 mln barrels, up 965k barrels on the day — opposing flows largely offset one another."
+    },
+    {
+      "id": "5094084",
+      "time": "2026-09-15 09:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股股票回購一覽：85只個股獲公司回購】Wind資料顯示，9月14日，共85只港股獲公司回購，10只個股回購金額超千萬港元。其中，騰訊控股、百度集團-W、復星醫藥回購金額最大，分別獲公司回購1.0億港元、4999.75萬港元、2470.51萬港元。截至9月14日，今年已有334只港股獲公司回購，98只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購302.36億港元、136.35億港元、120.55億港元。"
+    },
+    {
+      "id": "5094083",
+      "time": "2026-09-15 09:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【銀河證券：厄爾尼諾對有色金屬多為區域性短期擾動】銀河證券研報稱，2026年5月赤道中東太平洋進入厄爾尼諾狀態，預計11—12月達到峰值並於2027年春夏逐步衰減。氣候呈現南美西海岸多雨、東南亞偏旱、南部非洲乾旱的特徵。目前尚未出現天氣引發的大規模礦山停產。厄爾尼諾對有色金屬來說，多為區域性短期擾動，更像是供需矛盾放大器，並非行情決定性因素。"
+    },
+    {
+      "id": "mkt:01a0a296-7415-7118-8581-6e5ed7a11a35",
+      "time": "2026-09-15 09:02:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【China issues '15th Five-Year' plan for electronic information manufacturing】China's Ministry of Industry and Information Technology and National Development and Reform Commission issued a development plan for the electronic information manufacturing sector through 2030. The plan targets high-quality growth and a decisive global role, with revenue of enterprises above designated size to surpass 30 tln yuan by 2030. It aims for breakthroughs in integrated circuits, advanced computing, consumer electronics, basic electronics and power electronics, producing a number of leading technologies and products. Policy targets include raising industry R&D intensity to 3.5%, markedly expanding computing-power supply capacity, and significantly increasing adoption of next‑generation smart terminals."
+    },
     {
       "id": "5094081",
       "time": "2026-09-15 09:02:27",
