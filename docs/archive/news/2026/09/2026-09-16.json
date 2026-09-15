@@ -1,7 +1,92 @@
 {
   "date": "2026-09-16",
-  "count": 270,
+  "count": 279,
   "items": [
+    {
+      "id": "5095993",
+      "time": "2026-09-16 04:43:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席克里斯托弗·費倫：美聯儲若加息將是一個錯誤。"
+    },
+    {
+      "id": "mkt:01a0a6cf-0bca-7118-85a3-a81d5bb26bd2",
+      "time": "2026-09-16 04:43:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Pakistan's military spokesman said operational details of the joint defense agreement on Mecca between Saudi Arabia, Turkey and Pakistan remain classified."
+    },
+    {
+      "id": "5095992",
+      "time": "2026-09-16 04:42:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國會預算辦公室：美對伊戰爭耗資已超380億美元】美國國會預算辦公室15日稱，美國對伊朗長達六個月的戰爭迄今已耗資380億美元，預計每月還將增加30億美元。但據美國《國會山報》15日報道，美國防部向國會通報的對伊朗戰爭花費已超過420億美元，這一數字比五角大樓上次公開的資料多了45億美元。（央視新聞）"
+    },
+    {
+      "id": "5095988",
+      "time": "2026-09-16 04:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：美伊戰爭將進入截然不同的階段】美國副總統萬斯稱，美伊戰爭將在未來數月進入“截然不同的階段”，他認同特朗普總統的判斷，即衝突態勢可能在11月中期選舉後發生轉變。萬斯週一在空軍二號專機上接受採訪時表示：“我們無法預測未來，但我認為總統說得沒錯，這場戰事將在數月後進入一個截然不同的階段。”萬斯稱美國不再開展他所說的“攻擊性行動”，而伊朗仍偶爾向商船開火。他表示霍爾木茲海峽的航運流量已經恢復至正常水平的50%以上。萬斯說：“這場衝突實際上分為兩個階段，第一階段已經結束。”他稱美國最初的目標是摧毀伊朗核計劃、常規軍事力量以及遠端投送能力。他表示下一階段的重點是阻止伊朗重建上述能力，並維護全球穩定。"
+    },
+    {
+      "id": "te:markets:583976",
+      "time": "2026-09-16 04:36:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Energy and Finance Gains — The Ibovespa rose 0.5% to close at 186,503 on Tuesday, supported by Petrobras and financial heavyweights. Petrobras jumped 3.1% as oil prices extended their rally amid supply disruptions in the Middle East after Saudi Arabia shut down a key pipeline bypassing the Strait of Hormuz on Monday. Meanwhile, markets expect the Selic easing cycle to continue on Wednesday, with the policy rate forecast to fall to 13.75% from 14%, as recent inflation data remained within the BCB’s tolerance range. Itaú and Itaúsa rose 0.8% each, while BB Seguridade gained 1%. Gerdau jumped 3.1% and Usiminas 3.3% after Safra opened a recommendation for a long-short trade involving a long position in Gerdau and a short position in Usiminas. Gerdau was also recognized as one of the world’s most trusted companies in the “World’s Most Trustworthy Companies 2026” ranking for the fourth consecutive year."
+    },
+    {
+      "id": "te:markets:583975",
+      "time": "2026-09-16 04:35:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.61% Lower — The Dow Jones Index dropped 322 points or 0.61 percent on Tuesday to close at 52099 points. Losses were led by Nike (-2.35%), Alphabet (-2.28%) and Amazon (-2.00%). Offsetting the fall, top gainers were Chevron (2.53%), 3M (1.75%) and JPMorgan (1.11%)."
+    },
+    {
+      "id": "5095986",
+      "time": "2026-09-16 04:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：太陽能將保持指數級增長，直至所有其他能源佔比降至0.1%以下。"
+    },
+    {
+      "id": "5095985",
+      "time": "2026-09-16 04:32:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：宣佈對已發行普通股每股派發1.65美元的季度股息。"
+    },
+    {
+      "id": "mkt:01a0a6c1-4e04-7118-85a3-a326c51e4ffe",
+      "time": "2026-09-16 04:28:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath reports Iraq's army spokesman said the military will soon release findings of its investigation into the attack on Saudi Arabia."
+    },
     {
       "id": "mkt:01a0a6c0-078f-7118-85a3-98c5b029aba2",
       "time": "2026-09-16 04:26:37",
