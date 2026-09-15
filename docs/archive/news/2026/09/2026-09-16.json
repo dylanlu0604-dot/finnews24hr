@@ -1,7 +1,188 @@
 {
   "date": "2026-09-16",
-  "count": 314,
+  "count": 335,
   "items": [
+    {
+      "id": "5096061",
+      "time": "2026-09-16 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列和美國的戰鬥機今天進入伊朗領空，引發伊朗全國範圍內的緊急軍事警報。"
+    },
+    {
+      "id": "5096060",
+      "time": "2026-09-16 05:29:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：呼籲人工智慧同行重視自身模型的安全問題。"
+    },
+    {
+      "id": "5096059",
+      "time": "2026-09-16 05:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：相信行業能夠保障人工智慧安全。"
+    },
+    {
+      "id": "mkt:01a0a6f9-3715-7118-85a4-849c3a472d5e",
+      "time": "2026-09-16 05:29:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Ecuador's central bank raised its 2026 GDP growth forecast to 2.7% from 2.5%."
+    },
+    {
+      "id": "5096052",
+      "time": "2026-09-16 05:24:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "黎巴嫩駐美大使與以色列駐美大使在美國國務院總部的會談已結束。"
+    },
+    {
+      "id": "mkt:01a0a6f3-7fb8-7118-85a4-7ed75c015dd8",
+      "time": "2026-09-16 05:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine draft budget projects $52.6 billion in international financial assistance needed for 2027."
+    },
+    {
+      "id": "5096050",
+      "time": "2026-09-16 05:22:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "預算草案顯示，烏克蘭明年預算收入目標為5.65萬億格里夫納（摺合1267億美元）。"
+    },
+    {
+      "id": "mkt:01a0a6f3-79c6-7118-85a4-76892d1e0b76",
+      "time": "2026-09-16 05:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's draft budget allocates 43.8% of GDP to defense spending next year."
+    },
+    {
+      "id": "mkt:01a0a6f3-23b4-7118-85a4-6c1d0a2f0005",
+      "time": "2026-09-16 05:22:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine draft budget targets revenue of UAH 5.65 tln for next year, about $126.7 bln."
+    },
+    {
+      "id": "5096046",
+      "time": "2026-09-16 05:21:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭2024年預算草案計劃將國內生產總值的43.8%用於國防開支。"
+    },
+    {
+      "id": "5096045",
+      "time": "2026-09-16 05:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI高管稱，安全人工智慧的落地需要部署更多算力裝置。"
+    },
+    {
+      "id": "5096043",
+      "time": "2026-09-16 05:21:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝現已在曼德海峽佈設水雷。"
+    },
+    {
+      "id": "5096042",
+      "time": "2026-09-16 05:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "預算草案顯示，烏克蘭2027年需要526億美元國際財政援助。"
+    },
+    {
+      "id": "5096041",
+      "time": "2026-09-16 05:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院以232票贊成、147票反對，否決得州民主黨眾議員阿爾·格林發起的彈劾特朗普提案，這是兩年內第三次彈劾嘗試失敗。"
+    },
+    {
+      "id": "5096038",
+      "time": "2026-09-16 05:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與伯納姆預計將在聯合國大會期間討論烏克蘭、中東和能源議題。"
+    },
+    {
+      "id": "5096037",
+      "time": "2026-09-16 05:18:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將長電科技評級上調至超配，目標價90.20元人民幣。"
+    },
+    {
+      "id": "5096036",
+      "time": "2026-09-16 05:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "波羅的海交易所資料顯示，截至週二，租用一艘超大型油輪將200萬桶美國墨西哥灣原油運往亞洲的成本約為4480萬美元，創歷史新高。"
+    },
+    {
+      "id": "mkt:01a0a6ef-b0c6-7118-85a4-6095e1f887b7",
+      "time": "2026-09-16 05:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Times reports UK Prime Minister Burnham will hold his first meeting with US President Trump in New York next week."
+    },
+    {
+      "id": "mkt:01a0a6ef-49ca-7118-85a4-5a3a7be9d1d2",
+      "time": "2026-09-16 05:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Freight to ship U.S. crude to Asia jumps to $44.8m, a record】Freight to move U.S. crude to Asia hit a record ~$44.8m as Middle East supply disruption fears intensified, Baltic Exchange data showed. Chartering a VLCC to carry 2m barrels from the U.S. Gulf of Mexico to Asia cost about $44.8m on Tuesday, up from $39.0m a day earlier and versus roughly $17.8m prior to the outbreak of war involving Iran. Saudi Arabia’s closure of its east‑west pipeline and elevated Strait of Hormuz transit risk have boosted demand for U.S. barrels as a supply substitute; despite sharply higher freight, WTI remains competitive on arrival in Asia, keeping buyers engaged. Kpler shows six VLCCs slated to load in October from the U.S. Gulf bound for Asia."
+    },
+    {
+      "id": "5096033",
+      "time": "2026-09-16 05:17:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：有觀點認為人工智慧會摧毀就業崗位，這同樣完全是無稽之談。"
+    },
+    {
+      "id": "te:economy:583978",
+      "time": "2026-09-16 05:16:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Stocks Surge — US crude oil inventories rose sharply by 7.14 million barrels in the week ending September 11th, following a 300,000-barrel decline in the previous week. Commercial crude inventories excluding the SPR have fallen by just over 41 million barrels over the past 22 weeks, while total US crude inventories are up nearly 10 million barrels year to date. Another 400,000 barrels were released from the SPR during the week, bringing total SPR holdings to 285 million barrels. The generally accepted operational minimum for the SPR is between 250 million and 300 million barrels. Cushing inventories fell by 246,000 barrels, following a 300,000-barrel decline the previous week. US production rose to 13.947 million bpd in the week ending September 4th, from 13.862 million bpd a week earlier. Gasoline inventories increased by 1.46 million barrels, while distillate inventories gained 1.61 million barrels."
+    },
     {
       "id": "5096030",
       "time": "2026-09-16 05:15:19",

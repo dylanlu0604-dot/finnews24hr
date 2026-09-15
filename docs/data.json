@@ -1,7 +1,188 @@
 {
-  "updated": "2026-09-16 05:29:36",
-  "count": 13414,
+  "updated": "2026-09-16 05:46:05",
+  "count": 13420,
   "items": [
+    {
+      "id": "5096061",
+      "time": "2026-09-16 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列和美國的戰鬥機今天進入伊朗領空，引發伊朗全國範圍內的緊急軍事警報。"
+    },
+    {
+      "id": "5096060",
+      "time": "2026-09-16 05:29:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：呼籲人工智慧同行重視自身模型的安全問題。"
+    },
+    {
+      "id": "5096059",
+      "time": "2026-09-16 05:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：相信行業能夠保障人工智慧安全。"
+    },
+    {
+      "id": "mkt:01a0a6f9-3715-7118-85a4-849c3a472d5e",
+      "time": "2026-09-16 05:29:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Ecuador's central bank raised its 2026 GDP growth forecast to 2.7% from 2.5%."
+    },
+    {
+      "id": "5096052",
+      "time": "2026-09-16 05:24:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "黎巴嫩駐美大使與以色列駐美大使在美國國務院總部的會談已結束。"
+    },
+    {
+      "id": "5096050",
+      "time": "2026-09-16 05:22:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "預算草案顯示，烏克蘭明年預算收入目標為5.65萬億格里夫納（摺合1267億美元）。"
+    },
+    {
+      "id": "mkt:01a0a6f3-7fb8-7118-85a4-7ed75c015dd8",
+      "time": "2026-09-16 05:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine draft budget projects $52.6 billion in international financial assistance needed for 2027."
+    },
+    {
+      "id": "mkt:01a0a6f3-79c6-7118-85a4-76892d1e0b76",
+      "time": "2026-09-16 05:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's draft budget allocates 43.8% of GDP to defense spending next year."
+    },
+    {
+      "id": "mkt:01a0a6f3-23b4-7118-85a4-6c1d0a2f0005",
+      "time": "2026-09-16 05:22:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine draft budget targets revenue of UAH 5.65 tln for next year, about $126.7 bln."
+    },
+    {
+      "id": "5096046",
+      "time": "2026-09-16 05:21:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭2024年預算草案計劃將國內生產總值的43.8%用於國防開支。"
+    },
+    {
+      "id": "5096045",
+      "time": "2026-09-16 05:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI高管稱，安全人工智慧的落地需要部署更多算力裝置。"
+    },
+    {
+      "id": "5096043",
+      "time": "2026-09-16 05:21:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝現已在曼德海峽佈設水雷。"
+    },
+    {
+      "id": "5096042",
+      "time": "2026-09-16 05:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "預算草案顯示，烏克蘭2027年需要526億美元國際財政援助。"
+    },
+    {
+      "id": "5096041",
+      "time": "2026-09-16 05:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院以232票贊成、147票反對，否決得州民主黨眾議員阿爾·格林發起的彈劾特朗普提案，這是兩年內第三次彈劾嘗試失敗。"
+    },
+    {
+      "id": "5096038",
+      "time": "2026-09-16 05:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與伯納姆預計將在聯合國大會期間討論烏克蘭、中東和能源議題。"
+    },
+    {
+      "id": "5096037",
+      "time": "2026-09-16 05:18:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將長電科技評級上調至超配，目標價90.20元人民幣。"
+    },
+    {
+      "id": "5096036",
+      "time": "2026-09-16 05:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "波羅的海交易所資料顯示，截至週二，租用一艘超大型油輪將200萬桶美國墨西哥灣原油運往亞洲的成本約為4480萬美元，創歷史新高。"
+    },
+    {
+      "id": "mkt:01a0a6ef-b0c6-7118-85a4-6095e1f887b7",
+      "time": "2026-09-16 05:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Times reports UK Prime Minister Burnham will hold his first meeting with US President Trump in New York next week."
+    },
+    {
+      "id": "mkt:01a0a6ef-49ca-7118-85a4-5a3a7be9d1d2",
+      "time": "2026-09-16 05:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Freight to ship U.S. crude to Asia jumps to $44.8m, a record】Freight to move U.S. crude to Asia hit a record ~$44.8m as Middle East supply disruption fears intensified, Baltic Exchange data showed. Chartering a VLCC to carry 2m barrels from the U.S. Gulf of Mexico to Asia cost about $44.8m on Tuesday, up from $39.0m a day earlier and versus roughly $17.8m prior to the outbreak of war involving Iran. Saudi Arabia’s closure of its east‑west pipeline and elevated Strait of Hormuz transit risk have boosted demand for U.S. barrels as a supply substitute; despite sharply higher freight, WTI remains competitive on arrival in Asia, keeping buyers engaged. Kpler shows six VLCCs slated to load in October from the U.S. Gulf bound for Asia."
+    },
+    {
+      "id": "5096033",
+      "time": "2026-09-16 05:17:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：有觀點認為人工智慧會摧毀就業崗位，這同樣完全是無稽之談。"
+    },
+    {
+      "id": "te:economy:583978",
+      "time": "2026-09-16 05:16:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Stocks Surge — US crude oil inventories rose sharply by 7.14 million barrels in the week ending September 11th, following a 300,000-barrel decline in the previous week. Commercial crude inventories excluding the SPR have fallen by just over 41 million barrels over the past 22 weeks, while total US crude inventories are up nearly 10 million barrels year to date. Another 400,000 barrels were released from the SPR during the week, bringing total SPR holdings to 285 million barrels. The generally accepted operational minimum for the SPR is between 250 million and 300 million barrels. Cushing inventories fell by 246,000 barrels, following a 300,000-barrel decline the previous week. US production rose to 13.947 million bpd in the week ending September 4th, from 13.862 million bpd a week earlier. Gasoline inventories increased by 1.46 million barrels, while distillate inventories gained 1.61 million barrels."
+    },
     {
       "id": "5096030",
       "time": "2026-09-16 05:15:19",
@@ -123534,147 +123715,6 @@
         "Impact bullish"
       ],
       "text": "【Wall Street eyes Bessent Treasury buyback; analysts say cap could be $10bn】US Treasury Secretary Bessent is set to announce the next round of long-term Treasury buybacks; markets are focused on whether the program will expand and the debt-management signal it conveys. Wrightson ICAP senior economist Crandall says a single buyback of $5–6bn is reasonable though larger operations remain possible. Morgan Stanley analysts put a financing-constrained single-operation cap near $10bn; at that level, quarterly net issuance of >20‑year Treasuries could fall about 55%. Bloomberg strategist Feigen says a larger-than-expected buyback would likely be read as a stronger policy signal and could push long yields lower in the short term, but the absolute size would still be limited versus the overall Treasury market. Barclays strategists Pradhan and Hu expect the Treasury may use open-ended wording such as \"at least $4bn each time\" to retain flexibility. Market focus will be on announced size, frequency and forward guidance; the 30‑year swap spread may more directly price supply changes."
-    },
-    {
-      "id": "5083722",
-      "time": "2026-09-09 05:45:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大總理動員全民“上場”應對加美貿易戰】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效後，加拿大總理卡尼發表全國影片講話，動員全民團結應對加美貿易戰。卡尼以冰球運動為比喻說：“每當我們選擇購買加拿大商品、在加拿大境內旅行時，我們都在傳遞一個訊號——在這個國家，沒有人在看臺上（觀望），4000萬名加拿大人全都在冰面上（拼搏）。”（新華社）"
-    },
-    {
-      "id": "mkt:01a082fb-8d9a-7118-84f5-5186d4006075",
-      "time": "2026-09-09 05:45:18",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Carney urges national unity after Canada’s retaliatory measures against US tariffs take effect】After Canada’s retaliatory measures against U.S. tariffs took effect in the early hours of the 8th, Prime Minister Carney delivered a national video address calling for unity. He said Canada will accept economic costs to reduce dependence on the U.S., but those costs are small compared with the price of inaction. Carney reiterated that U.S. negotiators made last‑minute demands that would harm Canadian sovereignty and core industries, prompting Canada to abandon the agreement and implement countermeasures."
-    },
-    {
-      "id": "5083721",
-      "time": "2026-09-09 05:43:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特在講話中描述“民主黨人在2026年中期選舉中獲勝”情況下（共和黨總統特朗普）的財政計劃。"
-    },
-    {
-      "id": "5083720",
-      "time": "2026-09-09 05:42:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：白宮預算主管Vought和我正在研究降低（預算）赤字的計劃。我們必須在跛腳鴨國會期快速推動財政方案落地。"
-    },
-    {
-      "id": "mkt:01a082f8-7450-7118-84f5-4a07ab89adf0",
-      "time": "2026-09-09 05:41:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Saudi outlet Hadas said television footage captured a large number of Iranian missiles being intercepted over southern Syria."
-    },
-    {
-      "id": "5083719",
-      "time": "2026-09-09 05:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列i24News：約旦防空部隊正在攔截一波伊朗導彈。"
-    },
-    {
-      "id": "5083718",
-      "time": "2026-09-09 05:37:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：在此之後，我無意參選任何公職。"
-    },
-    {
-      "id": "5083717",
-      "time": "2026-09-09 05:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：開放邊境政策的弊端，是引發了充滿對立的移民之爭。"
-    },
-    {
-      "id": "mkt:01a082f2-5394-7118-84f5-466ee11fdab4",
-      "time": "2026-09-09 05:35:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Hadath reports Jordanian air defenses intercepted a salvo of Iranian missiles."
-    },
-    {
-      "id": "mkt:01a082f2-09ea-7118-84f5-38b52f39007e",
-      "time": "2026-09-09 05:34:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS, citing unofficial reports, said explosions were heard in Jordan after Iran launched missile strikes."
-    },
-    {
-      "id": "5083716",
-      "time": "2026-09-09 05:34:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：憑藉 3% 的國內生產總值增速，我們能夠依靠經濟增長化解債務上升問題。在某個時間點，必須重新審視移民議題。"
-    },
-    {
-      "id": "5083715",
-      "time": "2026-09-09 05:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大對美反制關稅正式生效】加拿大政府針對美國加徵關稅的反制措施8日凌晨正式生效。加方對鋼鐵、乳製品、農用裝置、紙漿及電子產品等美國進口商品開始徵收等額反制關稅。 加拿大和美國的貿易談判8月下旬宣告破裂，美國對價值200億美元的加拿大商品徵收50%的關稅。（新華社）"
-    },
-    {
-      "id": "mkt:01a082f1-59ae-7118-84f5-3327e5308c96",
-      "time": "2026-09-09 05:34:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【BESSENT on yen: If you want to bet against me, go ahead】U.S. Treasury Secretary BESSENT said of the yen that anyone who wants to bet against him should go ahead, saying he has relevant information and a strong read on what the Bank of Japan and policymakers will do."
-    },
-    {
-      "id": "5083714",
-      "time": "2026-09-09 05:33:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：約旦境內響起空襲警報，並有攔截行動的相關報道。"
-    },
-    {
-      "id": "mkt:01a082ee-eb62-7118-84f5-2f6028f47c9c",
-      "time": "2026-09-09 05:31:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bessent said he has a sound basis for judgment when we intervene in the yen."
     }
   ]
 }
