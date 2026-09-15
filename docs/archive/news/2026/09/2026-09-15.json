@@ -1,7 +1,190 @@
 {
   "date": "2026-09-15",
-  "count": 2339,
+  "count": 2356,
   "items": [
+    {
+      "id": "mkt:01a0a5c5-b0fa-7118-859f-7229f75cc13a",
+      "time": "2026-09-15 23:53:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "DRC Ministry of Mines said copper exports rose 4.5% YoY to a record 1.72 million tonnes in 1H2026. Under an export \"diversification offensive\", the DRC's copper sales to the United States and Europe doubled versus 2025 levels."
+    },
+    {
+      "id": "te:economy:583942",
+      "time": "2026-09-15 23:52:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Peru Economy Grows 3.56% in July — Peru’s economy expanded 3.56% year-on-year in July 2026, accelerating from a 1.75% increase in June and marking the strongest growth since April. Commerce grew 6.79%, driven by a 4.22% increase in wholesale trade, a 28.77% surge in automotive trade, and a 6.02% rise in retail trade. Other services, which include real estate and personal services, expanded 5.08%. Construction grew 9.85%, supported by a 10.17% increase in domestic cement consumption and a 9.51% rise in the physical progress of construction works. Business services (4.24%), financial services (3.13%), public administration and defense (3.46%), transportation (2.86%), utilities (7.30%), accommodation and restaurants (3.48%), mining and hydrocarbons (0.24%), and telecommunications (0.30%) also expanded. In contrast, manufacturing (-1.81%), fishing (-27.44%), and agriculture (-1.23%) contracted."
+    },
+    {
+      "id": "mkt:01a0a5c5-011d-7118-859f-6e9f00c03c80",
+      "time": "2026-09-15 23:52:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. Treasury signaled support to Japanese policymakers with a nominal amount."
+    },
+    {
+      "id": "mkt:01a0a5c4-e822-7118-859f-620dc612efb3",
+      "time": "2026-09-15 23:52:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the pipeline is expected to reopen within days."
+    },
+    {
+      "id": "5095805",
+      "time": "2026-09-15 23:52:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國財政部藉助一筆名義金額，釋放出對日本相關政策的支援訊號。"
+    },
+    {
+      "id": "5095804",
+      "time": "2026-09-15 23:51:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：日元走強意味著日本政府無需出售美國資產。"
+    },
+    {
+      "id": "mkt:01a0a5c3-d2b7-7118-859f-58aa1b46a926",
+      "time": "2026-09-15 23:51:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said a stronger yen means the Japanese government does not need to sell U.S. assets."
+    },
+    {
+      "id": "mkt:01a0a5c3-b253-7118-859f-56414af0e6b2",
+      "time": "2026-09-15 23:51:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said he expects Saudi east–west pipeline to resume operations soon."
+    },
+    {
+      "id": "5095803",
+      "time": "2026-09-15 23:50:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長賴特談及沙特與石油：我認為沙特的東西輸油管道很快就會恢復執行。"
+    },
+    {
+      "id": "mkt:01a0a5c3-79ab-7118-859f-4cc1ce666d93",
+      "time": "2026-09-15 23:50:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Refinitiv: Sources say strong demand has lifted the premium for Russian Urals crude at Indian ports to about $8/bbl over Brent."
+    },
+    {
+      "id": "5095802",
+      "time": "2026-09-15 23:50:24",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：日元走強對美國出口商更為有利。美國透過干預日元獲得的收益可以千萬美元計。"
+    },
+    {
+      "id": "mkt:01a0a5c3-15be-7118-859f-447da7a81553",
+      "time": "2026-09-15 23:50:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said a stronger yen would benefit U.S. exporters."
+    },
+    {
+      "id": "mkt:01a0a5c2-e539-7118-859f-3d38c0a42db0",
+      "time": "2026-09-15 23:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's main stock index fell more than 1% to a year-to-date low."
+    },
+    {
+      "id": "mkt:01a0a5c2-d3a4-7118-859f-364fc60aaa39",
+      "time": "2026-09-15 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "US Treasury Secretary Bessent said the US used \"nominal amounts\" in its yen intervention and earned tens of millions of dollars from the operation."
+    },
+    {
+      "id": "5095801",
+      "time": "2026-09-15 23:49:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：受需求旺盛影響，印度港口的俄羅斯烏拉爾原油相對布倫特原油的溢價飆升至每桶 8 美元。"
+    },
+    {
+      "id": "mkt:01a0a5c2-884e-7118-859f-2aa0bdd1a1b5",
+      "time": "2026-09-15 23:49:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. has maintained ongoing dialogue with Japan on intervention."
+    },
+    {
+      "id": "5095800",
+      "time": "2026-09-15 23:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們一直就日本的干預行動保持持續溝通，美國採用 “名義金額” 統計日元干預規模 。"
+    },
     {
       "id": "mkt:01a0a5c1-255d-7118-859f-251c27938b7a",
       "time": "2026-09-15 23:48:13",
