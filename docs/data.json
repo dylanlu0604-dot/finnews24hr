@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-16 00:02:17",
-  "count": 13465,
+  "updated": "2026-09-16 00:06:10",
+  "count": 13469,
   "items": [
+    {
+      "id": "mkt:01a0a5cf-ebe0-7118-859f-d8b5afb1daea",
+      "time": "2026-09-16 00:04:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) establishes a $10 million energy impact fund to support energy innovation in Nevada and reduce local energy costs."
+    },
+    {
+      "id": "te:markets:583950",
+      "time": "2026-09-16 00:03:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Tuesday — The FTSE 100 fell 0.4% on Tuesday after gaining 0.4% in the previous session, as rising oil prices and weak UK employment data weighed on sentiment. Brent crude traded near $108 a barrel, while investors assessed how long Saudi Arabia’s key oil pipeline could remain closed. Meanwhile, UK payrolls fell by 26,000 in August following a revised 19,000 decline in July, far exceeding expectations. The data highlighted continued labour-market weakness ahead of Thursday’s Bank of England rate decision. Unemployment remained at 4.9% in the three months to July, while regular wage growth held at 3.5%. Banks led declines, with HSBC, Barclays and Lloyds falling 2.2%, 1.9% and 0.6%, respectively. Miners also weakened, led by Glencore’s 2.5% drop."
+    },
+    {
+      "id": "5095816",
+      "time": "2026-09-16 00:03:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：設立 1000 萬美元能源影響基金，支援內華達州能源創新與能源普惠。"
+    },
+    {
+      "id": "te:markets:583948",
+      "time": "2026-09-16 00:02:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Hits Four-Month Low — The CAC 40 index dropped 0.3% to close at 8,090 on Tuesday, extending losses from the previous session and hitting a four-month low as rising oil prices and global bond yields weighed on equities. Oil prices climbed after attacks on Saudi energy infrastructure, raising inflation concerns and expectations for interest-rate hikes. Higher yields also pressured equities after the US 10-year Treasury yield reached 5%. In France, the 10-year government bond yield climbed to its highest level since September 2008, during the global financial crisis. CPI data showed annual inflation up to 2.4% in August from 2.1% in July, reaching a three-month high. Luxury stocks led the downturn, pressured by weaker Chinese demand and reduced access to the Middle East travel hub. LVMH dropped 2.6%, Hermes fell 2.8%, and Kering shed 1.5%. Financials also posted losses, with BNP Paribas losing 1.5%. Health-care stocks declined as well, with EssilorLuxottica down 2.2% and Sanofi losing 1.6%."
+    },
+    {
+      "id": "te:markets:583945",
+      "time": "2026-09-16 00:01:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Falls to Three-Week Low — Lumber futures traded near $565 per thousand board feet, falling toward its lowest level in three weeks, amid an ongoing trade war between Canada and the US. Canadian Prime Minister Carney is turning to the Europe Union after walking away from trade talks with US President Trump, which accounted for the largest portion of its trade. Ottawa had announced counter-tariffs of 25% on US lumber and 50% on Plywood following US tariffs on several lumber-related goods. US forestry groups have long accused Canada of distorting the market, as 94% of Canadian forestland is publicly owned compared to 58% privately owned in the US, allowing Canadian lumber to be sold at a lower price. Meanwhile, mortgage rates are closing in on 7% for the first time since the beginning of 2025, further weighing on housing demand from prospective home buyers already wincing at record-high home prices and an uncertain economy."
+    },
+    {
+      "id": "mkt:01a0a5cd-444b-7118-859f-d0647c6bdbce",
+      "time": "2026-09-16 00:01:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Bessent: addressing the deficit is one factor affecting the 10-year Treasury yield."
+    },
     {
       "id": "5095815",
       "time": "2026-09-16 00:01:10",
@@ -124132,26 +124200,6 @@
         "其他"
       ],
       "text": "愛爾蘭媒體監管機構已根據《網路安全守則》對X展開調查。"
-    },
-    {
-      "id": "te:markets:582113",
-      "time": "2026-09-09 00:04:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Edge Higher — The CAC 40 edged 0.1% higher to close at 8,318 on Tuesday, supported by gains in industrial and energy stocks. France’s exports rose 0.3% month over month to €54.7 billion in July, led by natural hydrocarbons, other extractive products and industrial goods. Airbus gained 1%, Thales 0.5%, Air Liquide 1.4%, Schneider Electric 1.4%, Legrand 1.1% and EssilorLuxottica 0.7%. TotalEnergies rose 0.6% as oil prices climbed amid escalating Middle East tensions. Financials, however, declined after eurozone inflation accelerated to 3.3% in August, its highest level in nearly three years and above the ECB’s 2% target, boosting expectations of a 25-bp rate hike. BNP Paribas fell 0.6%, AXA 1.1%, while Crédit Agricole and Société Générale lost 1% each. Luxury stocks were mixed, with LVMH down 1.1% and Hermès 2.2%, while L’Oréal gained 0.9% and Kering 1.2%. STMicroelectronics fell 3.5%, tracking losses among US hyperscalers."
-    },
-    {
-      "id": "5083510",
-      "time": "2026-09-09 00:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：我們現在比美國一年半前發起這場貿易戰時更強大，更加團結、更加堅定、更有雄心。"
     }
   ]
 }
