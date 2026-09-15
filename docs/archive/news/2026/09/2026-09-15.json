@@ -1,7 +1,135 @@
 {
   "date": "2026-09-15",
-  "count": 1892,
+  "count": 1907,
   "items": [
+    {
+      "id": "mkt:01a0a4f9-c1d4-7118-8596-95acf5a2a0da",
+      "time": "2026-09-15 20:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Greenland and Denmark sign DKK 1.2 bln investment agreement."
+    },
+    {
+      "id": "5095385",
+      "time": "2026-09-15 20:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026上海合作組織數字經濟部長級閉門會在新疆烏魯木齊舉行】9月14日下午，國家資料局在2026上合組織數字經濟論壇前夕，組織召開2026上海合作組織數字經濟部長級閉門會。國家資料局局長劉烈宏主持會議並致辭。會議以“開展對話交流、共商合作重點”為主題，圍繞數字基礎設施建設、資料價值釋放、產業數字化轉型、資料治理等議題開展交流，旨在進一步加強上合組織國家數字經濟領域政策溝通、需求對接和務實合作。（國家資料局）"
+    },
+    {
+      "id": "mkt:01a0a4f9-5262-7118-8596-8baa783c0f46",
+      "time": "2026-09-15 20:09:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT, director of the White House National Economic Council, praised private‑sector safeguards after concerns from MYTHOS."
+    },
+    {
+      "id": "5095384",
+      "time": "2026-09-15 20:09:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "INSTACART股價在盤前交易中下跌7.4%。"
+    },
+    {
+      "id": "mkt:01a0a4f8-baed-7118-8596-8768acb65dbe",
+      "time": "2026-09-15 20:09:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Politico reports EU member states will discuss AI rules on Thursday."
+    },
+    {
+      "id": "mkt:01a0a4f8-aa56-7118-8596-7c4de59bf5f7",
+      "time": "2026-09-15 20:09:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House National Economic Council Director Hassett said on AI regulation that President Trump believes the US already has tools available to use."
+    },
+    {
+      "id": "5095383",
+      "time": "2026-09-15 20:09:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【初靈資訊：控股股東累計減持633.9972萬股 本次減持計劃實施完畢】初靈資訊公告，公司控股股東洪愛金於6月29日至9月15日期間，透過集中競價及大宗交易方式累計減持633.9972萬股，佔扣除回購賬戶股份後總股本的2.9973%。其中，9月14日至9月15日透過大宗交易減持192.5萬股，佔比0.9101%。截至目前，本次減持計劃已實施完畢。"
+    },
+    {
+      "id": "5095382",
+      "time": "2026-09-15 20:09:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團：堅決落實線上酒店預訂平臺服務行業合規要求】9月15日，國家市場監督管理總局會同文化和旅遊部召開線上酒店預訂平臺服務行業行政指導會，要求美團、抖音、京東、攜程、同程、飛豬等平臺企業，嚴格落實合規主體責任，防範化解行業競爭風險，維護健康有序的旅遊市場環境。對此，美團方面表示，美團堅決擁護，將嚴格遵守《中華人民共和國反壟斷法》《中華人民共和國反不正當競爭法》《中華人民共和國電子商務法》《中華人民共和國旅遊法》等法律規定，認真對照自查，積極落實市場主體責任，堅決杜絕獨家合作、“全網最低價”等問題，防範“內卷”競爭風險。美團願與行業各平臺一道，公平參與市場競爭，共同營造優質優價的市場秩序，切實維護消費者合法權益，推動平臺生態多方共贏、行業規範健康發展。（新浪科技）"
+    },
+    {
+      "id": "5095381",
+      "time": "2026-09-15 20:09:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 歐盟各國將於週四討論人工智慧監管規則。"
+    },
+    {
+      "id": "5095380",
+      "time": "2026-09-15 20:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特談人工智慧監管：特朗普的觀點是，美國已有工具。"
+    },
+    {
+      "id": "5095379",
+      "time": "2026-09-15 20:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：在 Anthropic的Mythos 引發擔憂後，私營部門的風險防護措施做得不錯。"
+    },
+    {
+      "id": "5095378",
+      "time": "2026-09-15 20:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬華基金：ESGETF或觸發基金合同終止情形】鵬華基金公告稱，旗下鵬華國證ESG300交易型開放式指數證券投資基金（場內簡稱ESGETF鵬華，程式碼159717），截至2026年9月15日，基金份額持有人數量已連續40個工作日不滿200人。根據基金合同約定，若連續50個工作日出現該情形，基金管理人將終止基金合同並進入基金財產清算程式，無須召開基金份額持有人大會。基金進入清算程式後將不再開放申購、贖回等業務。"
+    },
+    {
+      "id": "te:economy:583875",
+      "time": "2026-09-15 20:07:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Leaves Key Rate Unchanged — The National Bank of North Macedonia kept its interest rate unchanged at 4.25% at its September 2026 meeting, citing stability in the denar exchange rate and resilient economic growth. Policymakers stated that it was still too early to fully assess the inflation trend, particularly given the uncertainty surrounding the conflict in the Middle East and the conflict between Ukraine and Russia. Headline inflation rebounded in August, accelerating to 2.6%, amid persistent inflationary pressures from higher global energy prices. Meanwhile, the domestic economy remained resilient, with economic growth accelerating to 4.3% in the second quarter of 2026 despite the broader adverse environment. Looking ahead, the NBNM stated that it would continue to aim for stability of the denar against the euro to ensure price stability in the medium term, while closely monitoring domestic and international economic and financial developments."
+    },
+    {
+      "id": "5095376",
+      "time": "2026-09-15 20:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動上半年營收同比增長30%，達到1200億美元。"
+    },
+    {
+      "id": "5095375",
+      "time": "2026-09-15 20:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動上半年利潤降至200億美元。"
+    },
     {
       "id": "5095374",
       "time": "2026-09-15 20:06:33",
