@@ -1,7 +1,158 @@
 {
-  "updated": "2026-09-15 15:10:07",
-  "count": 13749,
+  "updated": "2026-09-15 15:13:53",
+  "count": 13764,
   "items": [
+    {
+      "id": "mkt:01a0a3e9-ad25-7118-858d-394bf4241db0",
+      "time": "2026-09-15 15:13:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nigeria LNG (NLNG) said it has been under force majeure since 2022."
+    },
+    {
+      "id": "te:economy:583762",
+      "time": "2026-09-15 15:13:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Spain 10Y Bond Yield Hits 34-month High — Spain 10 Year Government Bond Yield increased to 4.04%, the highest since October 2023. Over the past 4 weeks, Spain 10Y Bond Yield gained 36.71 basis points, and in the last 12 months, it increased 78.40 basis points."
+    },
+    {
+      "id": "te:markets:583761",
+      "time": "2026-09-15 15:12:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Rio Tinto Stock Price Hits 4-week Low — Rio Tinto shares decreased to 7132.00 GBp, the lowest since August 2026. Over the past 4 weeks, Rio Tinto gained 0.2%, and in the last 12 months, it increased 53.56%."
+    },
+    {
+      "id": "5094624",
+      "time": "2026-09-15 15:12:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利富時MIB指數跌破51000點，日內跌1.26%。"
+    },
+    {
+      "id": "mkt:01a0a3e9-131c-7118-858d-35b69ce4247b",
+      "time": "2026-09-15 15:12:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB fell below 51,000 points, down 1.26% intraday."
+    },
+    {
+      "id": "mkt:01a0a3e9-1009-7118-858d-2d60237e8f64",
+      "time": "2026-09-15 15:12:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nigeria LNG (NLNG) said its current utilization rate is 82-83%."
+    },
+    {
+      "id": "5094623",
+      "time": "2026-09-15 15:12:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈及利亞液化天然氣公司（NLNG）董事總經理表示：該公司自2022年宣佈不可抗力以來，目前仍處於不可抗力狀態。"
+    },
+    {
+      "id": "5094622",
+      "time": "2026-09-15 15:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府發言人：我們希望不必削減第一檔或第二檔燃油配額。此前僅對第二檔配額做過兩次調整：第一次是戰爭期間燃油儲備設施遭襲，配額從 100 升降至 70 升；第二次是戰後遭遇另一輪衝擊，配額由 70 升降至 50 升。我們希望無需再調整這些配額。"
+    },
+    {
+      "id": "5094621",
+      "time": "2026-09-15 15:11:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲2%，現報107.80美元/桶。"
+    },
+    {
+      "id": "5094620",
+      "time": "2026-09-15 15:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府發言人：如果國內日消費量維持在 1 億至 1.1 億升區間，燃油供給不存在問題，但當前實際消費量高於該數值。全國汽油日消費量約 1.4 億升，因此必須解決這部分缺口，相應地要保障燃油供應來源。"
+    },
+    {
+      "id": "5094619",
+      "time": "2026-09-15 15:11:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊朗方面報道：政府發言人表示，汽油價格相關調整一定會提前告知民眾，不會擅自出臺舉措。"
+    },
+    {
+      "id": "5094617",
+      "time": "2026-09-15 15:10:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數下跌0.5%。"
+    },
+    {
+      "id": "5094616",
+      "time": "2026-09-15 15:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈及利亞液化天然氣公司（NLNG）董事總經理表示：公司目前裝置開工率在82%至83%之間。"
+    },
+    {
+      "id": "mkt:01a0a3e7-689c-7118-858d-25b2e7de9279",
+      "time": "2026-09-15 15:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense says threat in Khamis Mushait and Abha has been lifted."
+    },
+    {
+      "id": "5094615",
+      "time": "2026-09-15 15:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：剛剛，革命衛隊先進防空系統在霍爾木茲海峽東部空域攔截並摧毀了第四架MQ-1無人機。該事件發生於近日，相關防空行動由國家一體化防空網路管控。"
+    },
+    {
+      "id": "5094614",
+      "time": "2026-09-15 15:10:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈及利亞液化天然氣公司（NLNG）董事總經理表示：霍爾木茲海峽封鎖引發市場對液化天然氣額外增量及現貨船貨的興趣大幅提升。"
+    },
+    {
+      "id": "5094613",
+      "time": "2026-09-15 15:09:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開山集團與肯亞GDC擬共同開發東非大裂谷五大地熱區塊】9月14日，開山集團股份有限公司與肯亞地熱開發公司（Geothermal Development Company，簡稱“GDC”）在內羅畢簽署合作框架協議。根據該框架協議，雙方規劃在GDC的特許經營區，位於東非大裂谷的五大地熱區塊——Silali、Paka、Korosi、Baringo和Suswa展開深度合作，共同開發。據介紹，這五大地熱區塊的潛在資源支援大約2吉瓦（GW）的裝機規模容量。"
+    },
     {
       "id": "5094612",
       "time": "2026-09-15 15:09:30",
@@ -126495,30 +126646,6 @@
         "Importance 1"
       ],
       "text": "The Shangai Composite Index Closes 0.25% Higher — The Shangai Composite Index rose 10 points or 0.25 percent on Tuesday to close at 3943 points. Leading the gains are Avic Aviation Engine (5.82%), Kangmei Pharma (5.07%) and Metallurgical (3.54%). Top losers were Fuyao Glass Indu (-2.60%), Sanan Optoelectron (-1.84%) and Jiangsu Hengrui (-1.36%)."
-    },
-    {
-      "id": "te:markets:581920",
-      "time": "2026-09-08 15:12:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BP Stock Price Hits 5-week High — BP shares increased to 555.80 GBp, the highest since August 2026. Over the past 4 weeks, BP gained 5.93%, and in the last 12 months, it increased 31.4%."
-    },
-    {
-      "id": "te:markets:581919",
-      "time": "2026-09-08 15:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Close Lower — The benchmark KOSPI fell 0.58% to close at 6,955 on Tuesday, reversing from an over one-month closing high in the previous session amid rising inflation concerns and elevated expectations for further Federal Reserve rate hikes. Brent crude climbed above $97 per barrel amid escalating Middle East tensions and concerns over supply disruptions. Iran warned of risks to shipping near the Strait of Hormuz despite an imminent deal with Oman to manage traffic. Among decliners were Samsung Electronics (-0.19%), Hyundai Motor (-2.04%), LG Energy Solution (-3.86%), KB Financial Group (-0.97%), and Kia Corporation (-2.34%). Retail investors sold a net 3.05 trillion won, outweighing combined foreign and institutional buying of 1.29 trillion won. Markets now await Friday’s US inflation report for further clues on the Federal Reserve’s rate path. Meanwhile, renewed optimism over AI investment and strong memory-chip demand continued to underpin semiconductor stocks."
     }
   ]
 }
