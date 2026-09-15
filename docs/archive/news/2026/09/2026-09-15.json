@@ -1,7 +1,75 @@
 {
   "date": "2026-09-15",
-  "count": 1818,
+  "count": 1825,
   "items": [
+    {
+      "id": "mkt:01a0a4e0-75b9-7118-8595-9371f4492e42",
+      "time": "2026-09-15 19:42:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Carlyle Group CEO says private credit concerns appear to be a thing of the past."
+    },
+    {
+      "id": "mkt:01a0a4e0-6354-7118-8595-8e0226a439d5",
+      "time": "2026-09-15 19:42:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's Chancellor MERZ said he will press ahead with his reform agenda despite an electoral setback."
+    },
+    {
+      "id": "mkt:01a0a4df-d592-7118-8595-813562980187",
+      "time": "2026-09-15 19:42:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chancellor MERZ said the German government will implement the agreed measures and that the election outcome will not change this."
+    },
+    {
+      "id": "mkt:01a0a4df-c3e0-7118-8595-7a88ca5e8e44",
+      "time": "2026-09-15 19:42:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ said proposals to address fuel prices will be released \"shortly\"."
+    },
+    {
+      "id": "mkt:01a0a4de-cb77-7118-8595-76d6448214d0",
+      "time": "2026-09-15 19:40:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "German Chancellor Merz said we will respond to price gouging on fuel, adding that for many people the burden has reached the limit of what they can bear."
+    },
+    {
+      "id": "5095325",
+      "time": "2026-09-15 19:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部部署做好2026年中秋和國慶假期交通運輸安全生產和服務保障工作】近日，交通運輸部印發《關於做好2026年中秋和國慶假期交通運輸安全生產和服務保障工作的通知》，指導各地落實落細重大節假日“3+4+N”風險防控體系和“三十條”硬措施等有關要求，確保人民群眾假期平安便捷順暢出行。"
+    },
+    {
+      "id": "5095323",
+      "time": "2026-09-15 19:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理就燃油價格表態：我們將對價格欺詐行為採取應對措施；對許多人而言，承受能力已經觸及極限。"
+    },
     {
       "id": "mkt:01a0a4dd-5592-7118-8595-6db9dd4a9dd7",
       "time": "2026-09-15 19:39:23",
