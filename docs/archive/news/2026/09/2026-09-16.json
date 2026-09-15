@@ -1,7 +1,319 @@
 {
   "date": "2026-09-16",
-  "count": 279,
+  "count": 309,
   "items": [
+    {
+      "id": "5096012",
+      "time": "2026-09-16 04:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克北部埃爾比勒傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a0a6dc-08c9-7118-85a4-537b6b7347eb",
+      "time": "2026-09-16 04:57:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UN Security Council holds emergency meeting on Bab el‑Mandeb tensions】On Sept 15 the UN Security Council held an emergency meeting on rising instability in the Bab el‑Mandeb. A UN Assistant Secretary‑General reported that fighting on Yemen’s west coast has escalated in recent days and that tensions in the Bab el‑Mandeb and the Strait of Hormuz remain high. The UN warned further escalation could seriously affect international peace and security, global energy markets, food security and multiple national economies. The UN urged restraint and constructive participation in UN‑led political efforts to resolve the Yemen conflict. The meeting was requested by Bahrain, Denmark, France, Greece, Latvia and the UK."
+    },
+    {
+      "id": "5096011",
+      "time": "2026-09-16 04:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會就曼德海峽局勢舉行緊急會議】當地時間9月15日，聯合國安理會就曼德海峽局勢舉行緊急會議。聯合國助理秘書長哈立德·赫亞里通報稱，近幾日曼德海峽及周邊地區局勢日益動盪，葉門西海岸戰事持續升級。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a6da-f4e4-7118-85a4-48aac768ff57",
+      "time": "2026-09-16 04:56:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. House of Representatives voted down a motion to impeach President Trump."
+    },
+    {
+      "id": "mkt:01a0a6d8-7ac9-7118-85a4-46963b8c5410",
+      "time": "2026-09-16 04:53:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. API Cushing crude stocks for week to Sept. 11: -246k bbl; prior -331k bbl."
+    },
+    {
+      "id": "mkt:01a0a6d8-6f86-7118-85a4-3b40e0fa4a45",
+      "time": "2026-09-16 04:53:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US API weekly refinery crude inputs for the week to Sep 11 fell 115,000 bpd, following a 196,000 bpd decline the prior week."
+    },
+    {
+      "id": "mkt:01a0a6d8-5037-7118-85a4-37babd827125",
+      "time": "2026-09-16 04:53:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Sep.11) | actual -246000M | previous -331000M"
+    },
+    {
+      "id": "mkt:01a0a6d8-49e8-7118-85a4-28ccdef67242",
+      "time": "2026-09-16 04:53:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "American Petroleum Institute (API) weekly refined product imports for week to Sept 11: 307,000 b/d; prior -59,000 b/d."
+    },
+    {
+      "id": "mkt:01a0a6d8-3a80-7118-85a4-246724a736f3",
+      "time": "2026-09-16 04:53:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Sep.11) | actual -115000M | previous -196000M"
+    },
+    {
+      "id": "mkt:01a0a6d8-17fc-7118-85a4-19817fc469c0",
+      "time": "2026-09-16 04:52:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "API: U.S. crude oil imports for week to Sept. 11 -45,000 barrels; prior 406,000 barrels."
+    },
+    {
+      "id": "mkt:01a0a6d8-16f2-7118-85a4-17b5b630ec00",
+      "time": "2026-09-16 04:52:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Sep.11) | actual 307000M | previous -59000M"
+    },
+    {
+      "id": "5096005",
+      "time": "2026-09-16 04:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱南非簽證相關規定存在種族歧視。"
+    },
+    {
+      "id": "mkt:01a0a6d7-e349-7118-85a4-0ff651c01456",
+      "time": "2026-09-16 04:52:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Sep.11) | actual -45000M | previous 406000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-cca0-7118-85a4-030b19c25d54",
+      "time": "2026-09-16 04:52:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API heating oil inventories for the week to Sept. 11 fell 28,000 barrels; prior +405,000 barrels."
+    },
+    {
+      "id": "5096004",
+      "time": "2026-09-16 04:52:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 +714.4萬桶，之前一週 -30萬桶。"
+    },
+    {
+      "id": "mkt:01a0a6d7-aaa2-7118-85a3-fee7b7281439",
+      "time": "2026-09-16 04:52:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Sep.11) | actual -28000M | previous 405000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-97c2-7118-85a3-f280acf04d23",
+      "time": "2026-09-16 04:52:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined product inventories rose 1.607 mln barrels in the week to Sept. 11, vs. market expected +0.827 mln and prior +1.977 mln."
+    },
+    {
+      "id": "5096003",
+      "time": "2026-09-16 04:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍一天內襲擊加沙多地 造成至少4人死亡】據巴勒斯坦方面15日訊息，以軍當天在加沙地帶多地開展軍事行動和空襲，造成至少4人死亡。 (新華社)"
+    },
+    {
+      "id": "mkt:01a0a6d7-7356-7118-85a3-edf10dad8d28",
+      "time": "2026-09-16 04:52:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API weekly crude inventories for the week to Sept. 11 rose 7.144 mln bbl, versus an expected draw of 1.75 mln bbl and a prior draw of 0.327 mln bbl."
+    },
+    {
+      "id": "mkt:01a0a6d7-723b-7118-85a3-e2cef5b741e5",
+      "time": "2026-09-16 04:52:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API gasoline stocks rose 1.462 mln barrels in the week to Sept. 11, versus an expected draw of 1.201 mln and a prior draw of 1.867 mln."
+    },
+    {
+      "id": "mkt:01a0a6d7-62e8-7118-85a3-de7111b53189",
+      "time": "2026-09-16 04:52:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Sep.11) | actual 1607000M | consensus 827000M | previous 1977000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-480d-7118-85a3-d7f34233f2f0",
+      "time": "2026-09-16 04:52:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Sep.11) | actual 1462000M | consensus -1201000M | previous -1867000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-2d31-7118-85a3-cf18ca5f22fb",
+      "time": "2026-09-16 04:51:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Sep.11) | actual 7144000M | consensus -1750000M | previous -327000M"
+    },
+    {
+      "id": "5096000",
+      "time": "2026-09-16 04:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就人工智慧硬體出口規則向墨西哥施壓。"
+    },
+    {
+      "id": "mkt:01a0a6d5-9f4c-7118-85a3-c56df2fa8d1d",
+      "time": "2026-09-16 04:50:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports the U.S. government is pressing Mexican officials to accept new rules on AI hardware exports. U.S.-Mexico trade officials are expected to meet in Washington as soon as next week and are likely to discuss potential reductions in U.S. tariffs on steel, aluminum and autos."
+    },
+    {
+      "id": "te:economy:583977",
+      "time": "2026-09-16 04:49:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Economy Shrinks in Q2 2026 — Uruguay’s GDP declined 0.5% year over year in the second quarter of 2026. The agriculture, fisheries and mining sectors contracted 22.2%, reflecting a poor soybean yield in the 2025/2026 harvest season due to drought, as well as a challenging comparison with the previous season, which ended with a historically high yield. Manufacturing grew 1.9%, driven by stronger cellulose pulp production. Trade, accommodation, and food and beverage services increased 2.8%, supported by the performance of the trade sector. Construction grew 4.2%, driven by increased investment in both nonresidential buildings and other construction projects."
+    },
+    {
+      "id": "5095997",
+      "time": "2026-09-16 04:48:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院否決彈劾特朗普的法案。"
+    },
+    {
+      "id": "5095996",
+      "time": "2026-09-16 04:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國務卿魯比奧：宣佈與南非相關的新簽證限制政策。"
+    },
+    {
+      "id": "mkt:01a0a6d3-7964-7118-85a3-be7fdd551521",
+      "time": "2026-09-16 04:47:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian outlet Fars News, citing Iraqi sources, reports an explosion in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a0a6d0-0069-7118-85a3-b234ab3d4ae4",
+      "time": "2026-09-16 04:44:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "CNBC reports Christopher Ferran, chair of the White House Council of Economic Advisers, said a Fed rate hike would be a mistake."
+    },
     {
       "id": "5095993",
       "time": "2026-09-16 04:43:14",

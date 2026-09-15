@@ -1,7 +1,319 @@
 {
-  "updated": "2026-09-16 04:56:34",
-  "count": 13431,
+  "updated": "2026-09-16 05:13:04",
+  "count": 13428,
   "items": [
+    {
+      "id": "5096012",
+      "time": "2026-09-16 04:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克北部埃爾比勒傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a0a6dc-08c9-7118-85a4-537b6b7347eb",
+      "time": "2026-09-16 04:57:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UN Security Council holds emergency meeting on Bab el‑Mandeb tensions】On Sept 15 the UN Security Council held an emergency meeting on rising instability in the Bab el‑Mandeb. A UN Assistant Secretary‑General reported that fighting on Yemen’s west coast has escalated in recent days and that tensions in the Bab el‑Mandeb and the Strait of Hormuz remain high. The UN warned further escalation could seriously affect international peace and security, global energy markets, food security and multiple national economies. The UN urged restraint and constructive participation in UN‑led political efforts to resolve the Yemen conflict. The meeting was requested by Bahrain, Denmark, France, Greece, Latvia and the UK."
+    },
+    {
+      "id": "5096011",
+      "time": "2026-09-16 04:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會就曼德海峽局勢舉行緊急會議】當地時間9月15日，聯合國安理會就曼德海峽局勢舉行緊急會議。聯合國助理秘書長哈立德·赫亞里通報稱，近幾日曼德海峽及周邊地區局勢日益動盪，葉門西海岸戰事持續升級。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a6da-f4e4-7118-85a4-48aac768ff57",
+      "time": "2026-09-16 04:56:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. House of Representatives voted down a motion to impeach President Trump."
+    },
+    {
+      "id": "mkt:01a0a6d8-7ac9-7118-85a4-46963b8c5410",
+      "time": "2026-09-16 04:53:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. API Cushing crude stocks for week to Sept. 11: -246k bbl; prior -331k bbl."
+    },
+    {
+      "id": "mkt:01a0a6d8-6f86-7118-85a4-3b40e0fa4a45",
+      "time": "2026-09-16 04:53:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US API weekly refinery crude inputs for the week to Sep 11 fell 115,000 bpd, following a 196,000 bpd decline the prior week."
+    },
+    {
+      "id": "mkt:01a0a6d8-5037-7118-85a4-37babd827125",
+      "time": "2026-09-16 04:53:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Sep.11) | actual -246000M | previous -331000M"
+    },
+    {
+      "id": "mkt:01a0a6d8-49e8-7118-85a4-28ccdef67242",
+      "time": "2026-09-16 04:53:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "American Petroleum Institute (API) weekly refined product imports for week to Sept 11: 307,000 b/d; prior -59,000 b/d."
+    },
+    {
+      "id": "mkt:01a0a6d8-3a80-7118-85a4-246724a736f3",
+      "time": "2026-09-16 04:53:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Sep.11) | actual -115000M | previous -196000M"
+    },
+    {
+      "id": "mkt:01a0a6d8-17fc-7118-85a4-19817fc469c0",
+      "time": "2026-09-16 04:52:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "API: U.S. crude oil imports for week to Sept. 11 -45,000 barrels; prior 406,000 barrels."
+    },
+    {
+      "id": "mkt:01a0a6d8-16f2-7118-85a4-17b5b630ec00",
+      "time": "2026-09-16 04:52:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Sep.11) | actual 307000M | previous -59000M"
+    },
+    {
+      "id": "5096005",
+      "time": "2026-09-16 04:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱南非簽證相關規定存在種族歧視。"
+    },
+    {
+      "id": "mkt:01a0a6d7-e349-7118-85a4-0ff651c01456",
+      "time": "2026-09-16 04:52:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Sep.11) | actual -45000M | previous 406000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-cca0-7118-85a4-030b19c25d54",
+      "time": "2026-09-16 04:52:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API heating oil inventories for the week to Sept. 11 fell 28,000 barrels; prior +405,000 barrels."
+    },
+    {
+      "id": "5096004",
+      "time": "2026-09-16 04:52:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 +714.4萬桶，之前一週 -30萬桶。"
+    },
+    {
+      "id": "mkt:01a0a6d7-aaa2-7118-85a3-fee7b7281439",
+      "time": "2026-09-16 04:52:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Sep.11) | actual -28000M | previous 405000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-97c2-7118-85a3-f280acf04d23",
+      "time": "2026-09-16 04:52:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined product inventories rose 1.607 mln barrels in the week to Sept. 11, vs. market expected +0.827 mln and prior +1.977 mln."
+    },
+    {
+      "id": "5096003",
+      "time": "2026-09-16 04:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍一天內襲擊加沙多地 造成至少4人死亡】據巴勒斯坦方面15日訊息，以軍當天在加沙地帶多地開展軍事行動和空襲，造成至少4人死亡。 (新華社)"
+    },
+    {
+      "id": "mkt:01a0a6d7-7356-7118-85a3-edf10dad8d28",
+      "time": "2026-09-16 04:52:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API weekly crude inventories for the week to Sept. 11 rose 7.144 mln bbl, versus an expected draw of 1.75 mln bbl and a prior draw of 0.327 mln bbl."
+    },
+    {
+      "id": "mkt:01a0a6d7-723b-7118-85a3-e2cef5b741e5",
+      "time": "2026-09-16 04:52:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API gasoline stocks rose 1.462 mln barrels in the week to Sept. 11, versus an expected draw of 1.201 mln and a prior draw of 1.867 mln."
+    },
+    {
+      "id": "mkt:01a0a6d7-62e8-7118-85a3-de7111b53189",
+      "time": "2026-09-16 04:52:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Sep.11) | actual 1607000M | consensus 827000M | previous 1977000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-480d-7118-85a3-d7f34233f2f0",
+      "time": "2026-09-16 04:52:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Sep.11) | actual 1462000M | consensus -1201000M | previous -1867000M"
+    },
+    {
+      "id": "mkt:01a0a6d7-2d31-7118-85a3-cf18ca5f22fb",
+      "time": "2026-09-16 04:51:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Sep.11) | actual 7144000M | consensus -1750000M | previous -327000M"
+    },
+    {
+      "id": "5096000",
+      "time": "2026-09-16 04:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就人工智慧硬體出口規則向墨西哥施壓。"
+    },
+    {
+      "id": "mkt:01a0a6d5-9f4c-7118-85a3-c56df2fa8d1d",
+      "time": "2026-09-16 04:50:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports the U.S. government is pressing Mexican officials to accept new rules on AI hardware exports. U.S.-Mexico trade officials are expected to meet in Washington as soon as next week and are likely to discuss potential reductions in U.S. tariffs on steel, aluminum and autos."
+    },
+    {
+      "id": "te:economy:583977",
+      "time": "2026-09-16 04:49:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Economy Shrinks in Q2 2026 — Uruguay’s GDP declined 0.5% year over year in the second quarter of 2026. The agriculture, fisheries and mining sectors contracted 22.2%, reflecting a poor soybean yield in the 2025/2026 harvest season due to drought, as well as a challenging comparison with the previous season, which ended with a historically high yield. Manufacturing grew 1.9%, driven by stronger cellulose pulp production. Trade, accommodation, and food and beverage services increased 2.8%, supported by the performance of the trade sector. Construction grew 4.2%, driven by increased investment in both nonresidential buildings and other construction projects."
+    },
+    {
+      "id": "5095997",
+      "time": "2026-09-16 04:48:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院否決彈劾特朗普的法案。"
+    },
+    {
+      "id": "5095996",
+      "time": "2026-09-16 04:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國務卿魯比奧：宣佈與南非相關的新簽證限制政策。"
+    },
+    {
+      "id": "mkt:01a0a6d3-7964-7118-85a3-be7fdd551521",
+      "time": "2026-09-16 04:47:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian outlet Fars News, citing Iraqi sources, reports an explosion in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a0a6d0-0069-7118-85a3-b234ab3d4ae4",
+      "time": "2026-09-16 04:44:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "CNBC reports Christopher Ferran, chair of the White House Council of Economic Advisers, said a Fed rate hike would be a mistake."
+    },
     {
       "id": "5095993",
       "time": "2026-09-16 04:43:14",
@@ -123482,314 +123794,6 @@
         "國際"
       ],
       "text": "派拉蒙天空之舞：要求州總檢察長、美國編劇工會在訴訟中繳納保函，保函與阻止併購的訴訟相關聯。潛在損失最高可達 18.8 億美元。"
-    },
-    {
-      "id": "5083699",
-      "time": "2026-09-09 05:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國與哥倫比亞在能源、貿易及商務領域尚有大量工作待推進。"
-    },
-    {
-      "id": "5083698",
-      "time": "2026-09-09 05:12:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：派拉蒙天空之舞採取措施防範延期產生的成本，華納兄弟探索併購交易即將完成。"
-    },
-    {
-      "id": "5083697",
-      "time": "2026-09-09 05:10:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國秘書長敦促恢復俄烏談判】聯合國秘書長古特雷斯的發言人迪雅裡克8日稱，古特雷斯希望最近的外交努力能夠使俄羅斯和烏克蘭恢復談判。迪雅裡克在8日的例行記者吹風會上說，古特雷斯對於包括美國特使訪問莫斯科和基輔在內的外交努力感到鼓舞。他希望新的倡議能夠使得烏克蘭和俄羅斯恢復談判，為立即無條件全面停火以及達成符合國際法的公平、全面、持久和平鋪平道路。聯合國方面願意為此提供協助。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a082db-a3dd-7118-84f4-fdf46be8972e",
-      "time": "2026-09-09 05:10:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "South Korea's presidential office said Iran expressed interest and sought clarification over reports of South Korea's involvement in Strait of Hormuz affairs."
-    },
-    {
-      "id": "5083696",
-      "time": "2026-09-09 05:10:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：美國恢復匈牙利、波蘭移民簽證審理，其餘地區仍維持暫停狀態。"
-    },
-    {
-      "id": "5083695",
-      "time": "2026-09-09 05:10:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英法加領導人發表聯合宣告譴責以色列擴張定居點】當地時間9月8日，英國首相伯納姆、法國總統馬克龍、加拿大總理卡尼當天發表聯合宣告，譴責以色列在約旦河西岸地區擴張，呼籲落實“兩國方案”。宣告說，透過“兩國方案”解決巴以衝突，對中東及更廣泛地區的和平、穩定、安全至關重要，也符合英法加三國根本利益。約旦河西岸以色列定居點系統性擴張，包括以色列政府“E1區”定居點建設決定，以及猶太人定居者暴力行為，對和平願景構成直接且緊迫的威脅。宣告說，英法加三國已正式承認巴勒斯坦國，致力於維護“兩國方案”。根據國際法，這些定居點屬於非法機構。三國決定禁止從定居點進口商品，並對定居點及相關人員實施針對性制裁。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a082db-5e4d-7118-84f4-f496eb8d43b7",
-      "time": "2026-09-09 05:10:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's presidential office said Seoul and Paris discussed contributing to security in the Strait of Hormuz, not deploying troops."
-    },
-    {
-      "id": "5083694",
-      "time": "2026-09-09 05:09:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【富國銀行：美聯儲通常會在市場預期機率超過69%時動手調整利率】富國銀行援引彙總自2015年以來的資料說，美聯儲通常會在市場消化的利率變動機率超過69%時加息或降息。該銀行表示，週五公佈的消費者價格指數“可能決定”美聯儲下週會議採取何種行動。分析師Ohsung Kwon等人週二說，自1994年以來，在加息週期中首次上調後的三個月內標普500指數平均下跌3%。在過去的六次緊縮週期中，該指數只上升過一次。"
-    },
-    {
-      "id": "mkt:01a082db-1199-7118-84f4-eab5fccec72b",
-      "time": "2026-09-09 05:09:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's presidential office said a review of Seoul's role in the Strait of Hormuz is unrelated to U.S.-South Korea investment negotiations."
-    },
-    {
-      "id": "5083693",
-      "time": "2026-09-09 05:09:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（9月8日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7068元，較週一紐約尾盤漲24點，日內整體交投於6.7115-6.7061元區間。"
-    },
-    {
-      "id": "5083692",
-      "time": "2026-09-09 05:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普指示政府採購剔除加拿大產品】美國總統特朗普當地時間9月8日在社交媒體平臺發帖，再次指責加拿大“多年來一直在佔美國的便宜”，並稱加拿大在向美國施加“貿易騙局”。特朗普稱，“加拿大聯邦及各省政府，禁止美國中小企業進入加拿大的政府採購市場。可與此同時，加拿大卻可以充分進入規模龐大的美國政府採購市場，包括美國各州的政府採購。從現在起，沒有互惠就別想進入我們的市場！我特此指示美國總務管理局會同美國貿易代表辦公室，採取一切必要措施，將加拿大原產產品從總務管理局的多重授予採購計劃中移除，除非加拿大恢復對美國農民和企業的全面公平互惠。”特朗普在帖文中稱，“這些採購涉及的年貿易額超過500億美元。這事兒早該被之前的政府切斷了，就像我當年做的那樣，可結果卻被‘瞌睡喬’拜登恢復了。” (CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:01a082da-64b5-7118-84f4-e17f50d9f5a4",
-      "time": "2026-09-09 05:09:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said after meeting Colombia's president that security and prosperity are the primary priorities in U.S.-Colombia relations."
-    },
-    {
-      "id": "mkt:01a082da-629c-7118-84f4-de713c5722f4",
-      "time": "2026-09-09 05:09:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish",
-        "BX.N"
-      ],
-      "text": "【Alphabet-Blackstone $5bn AI data-center project Project Braid delayed】People familiar said Alphabet (GOOG.O) and Blackstone (BX.N)’s $5bn AI cloud project Project Braid has encountered data-center construction delays. The project, backed by Blackstone’s $5bn investment and intended to lease Google AI-chip compute to customers in 2027, had planned for developer Crusoe to build a Cheyenne, Wyoming site; Alphabet canceled that arrangement, took over the build and refiled permits after losing confidence in Crusoe’s ability to deliver. Crusoe has been involved in OpenAI and ORACLE’s Texas “Stargate” facility. Another planned site is stalled by a shortage of required transformers. Sources said AI data-center development is being constrained by power-equipment supply bottlenecks and permitting delays. Project Braid’s head said the programme is proceeding and aims to provide 500 MW of compute capacity next year."
-    },
-    {
-      "id": "5083691",
-      "time": "2026-09-09 05:08:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：安全與繁榮是美哥關係的首要議題。"
-    },
-    {
-      "id": "5083690",
-      "time": "2026-09-09 05:08:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“新債王”岡拉克：美國收益率將繼續上升。美聯儲基準利率應提高50個基點。美國2年期收益率與聯邦基金利率不同步。"
-    },
-    {
-      "id": "mkt:01a082d9-87ce-7118-84f4-d04c3fd483b6",
-      "time": "2026-09-09 05:08:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)"
-      ],
-      "text": "GUNDLACH says U.S. 2-year yield is not tracking the federal funds rate."
-    },
-    {
-      "id": "mkt:01a082d9-571d-7118-84f4-ca602dfca459",
-      "time": "2026-09-09 05:07:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Gundlach says the Federal Reserve's policy rate should be raised by 50 bps."
-    },
-    {
-      "id": "5083689",
-      "time": "2026-09-09 05:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "“新債王”岡拉克：應規避全球 30 年期債券的風險敞口。"
-    },
-    {
-      "id": "mkt:01a082d8-f2af-7118-84f4-c2377dd5b574",
-      "time": "2026-09-09 05:07:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Gundlach said investors should avoid 30-year bonds globally and that U.S. yields will continue to rise."
-    },
-    {
-      "id": "5083688",
-      "time": "2026-09-09 05:07:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞與美國簽署民用核合作諒解備忘錄（MOU）。"
-    },
-    {
-      "id": "5083687",
-      "time": "2026-09-09 05:06:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：韓國在霍爾木茲海峽所扮演角色的相關評估，與美韓投資談判並無關聯。"
-    },
-    {
-      "id": "5083686",
-      "time": "2026-09-09 05:06:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國與哥倫比亞進入前所未有的合作階段。"
-    },
-    {
-      "id": "te:economy:582151",
-      "time": "2026-09-09 05:06:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Chile Central Bank Holds Key Rate at 4.5% — Chile’s central bank unanimously kept its benchmark interest rate unchanged at 4.5% in September, citing heightened uncertainty from the Middle East conflict, rising oil prices and persistent global inflation risks. Oil has approached $100 a barrel, while copper prices climbed above $6.50 a pound. Domestically, economic activity remained weaker than expected in the second quarter and early third quarter, accompanied by slowing domestic demand, job losses and a higher unemployment rate. Headline inflation rose to 4.1% in August, driven by volatile components, while core inflation held at 3.3%. Inflation expectations remain anchored at 3% over two years. The central bank said monetary policy would continue to be assessed meeting by meeting, with risks from the conflict and the possibility of a more prolonged domestic slowdown requiring close monitoring."
-    },
-    {
-      "id": "5083685",
-      "time": "2026-09-09 05:06:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "CoreWeave 執行長：向資料中心垂直整合能夠加強對基礎設施的掌控。"
-    },
-    {
-      "id": "5083684",
-      "time": "2026-09-09 05:05:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：伊朗對相關報道表示關注，並就韓國在霍爾木茲海峽的角色相關報道尋求解釋。"
-    },
-    {
-      "id": "mkt:01a082d6-f0fd-7118-84f4-bdc92094ac91",
-      "time": "2026-09-09 05:05:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chile's central bank said it will take necessary measures to ensure expected inflation reaches 3% within two years."
-    },
-    {
-      "id": "5083683",
-      "time": "2026-09-09 05:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統辦公室：韓法雙方討論了為霍爾木茲海峽安全提供支援，並未談及兵力部署。"
-    },
-    {
-      "id": "te:economy:582150",
-      "time": "2026-09-09 05:03:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "El Salvador Inflation Picks Up in August — Annual inflation in El Salvador accelerated to 3.19% in August 2026 from 2.49% in July, the highest reading since July 2023. Price growth accelerated for food and non-alcoholic beverages (3.65% vs 2.49%), alcoholic beverages and tobacco (2.62% vs 2.11%), health (0.54% vs 0.39%), transport (2.91% vs 2.57%), communications (8.23% vs 4.95%), and miscellaneous goods and services (2.14% vs 1.96%). Clothing and footwear inflation increased to 2.62% from 2.11%. Meanwhile, inflation moderated for education (3.30% vs 3.65%). Deflation was recorded in housing and utilities (-0.32% vs 0.05%), and recreation and culture (-0.91% vs -0.90%). Inflation for furniture and household goods remained unchanged at 1.90%, while restaurant and hotel prices were unchanged at a flat inflation reading."
-    },
-    {
-      "id": "mkt:01a082d5-55e6-7118-84f4-b14901176e13",
-      "time": "2026-09-09 05:03:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Chile's central bank kept its policy rate unchanged at 4.50%, in line with market expectations."
-    },
-    {
-      "id": "5083682",
-      "time": "2026-09-09 05:03:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：經濟前景仍面臨高度不確定性，將做出必要決策，確保通脹預期在兩年週期內達到 3%。預計本國經濟將在 2027 年逐步好轉，不排除當前經濟疲軟態勢持續的可能性。"
-    },
-    {
-      "id": "5083681",
-      "time": "2026-09-09 05:02:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局（FAA）將調查從里根國家機場（DCA）起飛、遭遇鳥擊的西南航空航班。"
-    },
-    {
-      "id": "5083680",
-      "time": "2026-09-09 05:01:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：利率未來走勢將逐次會議評估。"
-    },
-    {
-      "id": "5083679",
-      "time": "2026-09-09 05:00:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行維持基準利率在4.5%不變；預期為4.50%。"
     }
   ]
 }
