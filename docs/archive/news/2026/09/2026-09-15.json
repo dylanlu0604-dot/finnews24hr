@@ -1,7 +1,87 @@
 {
   "date": "2026-09-15",
-  "count": 1944,
+  "count": 1953,
   "items": [
+    {
+      "id": "mkt:01a0a507-7296-7118-8597-479092d033ce",
+      "time": "2026-09-15 20:25:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai launches China’s first generative AI security-testing public service platform】The Shanghai Information Security Testing and Certification Center on Sept. 14 launched ZhiCeNengShou, China’s first public-service platform for generative AI security testing, at the Shanghai opening of the National Cybersecurity Publicity Week. Built as a public-service product, the platform is positioned as Shanghai’s solution for domestic AI governance and security testing practices."
+    },
+    {
+      "id": "5095405",
+      "time": "2026-09-15 20:25:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市資訊保安測評認證中心釋出全國首個生成式人工智慧安全測試公共服務平臺】由上海市資訊保安測評認證中心建設的全國首個生成式人工智慧安全測試公共服務平臺——“智測能手”，於9月14日在國家網路安全宣傳週上海地區活動開幕式上正式釋出。平臺以公共服務產品的全新思路，為國內人工智慧治理實踐提供了上海方案。（上海經信委）"
+    },
+    {
+      "id": "mkt:01a0a506-6e6f-7118-8597-3b55db050361",
+      "time": "2026-09-15 20:24:17",
+      "tags": [
+        "MKT News",
+        "WFC.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo CFO says loan growth in fiscal 2026 is expected to be stronger than prior guidance."
+    },
+    {
+      "id": "5095404",
+      "time": "2026-09-15 20:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行（Wells Fargo）的CFO談及貸款增長時表示，2026年全年的表現很可能會優於此前的指引預期。"
+    },
+    {
+      "id": "5095403",
+      "time": "2026-09-15 20:22:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【丹麥與格陵蘭達成12億丹麥克朗投資協議支援北極島嶼發展】丹麥財政部宣佈，格陵蘭島與丹麥已就一項總額12億丹麥克朗的新投資協議達成一致，資金將用於支援格陵蘭島在2026年至2029年期間的發展。該協議重點涵蓋供水專案與能源基礎設施投資，併為格陵蘭新建國際機場的運營提供資金。此外，協議還撥款用於在伊託科托爾米特新建區域跑道以及在卡科托克新建深水港的可行性研究。在社會民生方面，協議包含針對格陵蘭“經濟最脆弱”公民的援助計劃，並延續了格陵蘭患者在丹麥接受醫療治療的協議。此次資金投入旨在改善格陵蘭島的基礎設施條件並保障當地民生穩定，進一步鞏固丹麥與這一北極自治領地之間的經濟與社會聯絡。"
+    },
+    {
+      "id": "mkt:01a0a504-ed21-7118-8597-3409ddbc8310",
+      "time": "2026-09-15 20:22:38",
+      "tags": [
+        "MKT News",
+        "WFC.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo CFO said the bank expects to remain healthy through this year and into early next year."
+    },
+    {
+      "id": "5095402",
+      "time": "2026-09-15 20:22:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用汽車調整車機策略，將在皮卡車型重新引入CarPlay分屏功能】據報道，通用汽車在三年前宣佈於電動汽車中取消蘋果CarPlay後，正調整其車載資訊娛樂系統策略，將在最新系統中重新整合CarPlay與Android Auto。該新系統採用分屏設計，允許駕駛員在使用手機投屏的同時顯示胎壓、燃油表及Super Cruise等關鍵車輛儀表資訊，以減少螢幕切換。通用汽車互聯應用和服務執行總監邁克爾·瓦爾斯特羅姆表示，該方案由通用與蘋果、谷歌聯合開發，旨在將投屏體驗與原生系統融合。新介面將率先搭載於2027款雪佛蘭Silverado和GMC Sierra皮卡，並計劃推廣至未來車型。儘管通用汽車此前曾計劃將取消CarPlay的策略逐步擴充套件至燃油車型，但瓦爾斯特羅姆拒絕透露是否會在電動汽車上重新引入該功能。目前，通用汽車正透過蘋果官方協議，為無法連線CarPlay的電動汽車提供Apple Music應用。"
+    },
+    {
+      "id": "mkt:01a0a504-baa2-7118-8597-2fccb59e4003",
+      "time": "2026-09-15 20:22:25",
+      "tags": [
+        "MKT News",
+        "SCOM.NR",
+        "Impact bearish"
+      ],
+      "text": "A Kenyan court ruled that a 15% stake in Safaricom, the country's largest telecom operator, should be returned to the Treasury."
+    },
+    {
+      "id": "5095401",
+      "time": "2026-09-15 20:22:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣醫療集團宣佈推出面向運營的CareIntellect解決方案，助力醫療體系最佳化資源配置、拓展醫療服務可及性。"
+    },
     {
       "id": "mkt:01a0a504-4921-7118-8597-232ff6b81fa7",
       "time": "2026-09-15 20:21:56",
