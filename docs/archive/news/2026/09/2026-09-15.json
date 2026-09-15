@@ -1,7 +1,47 @@
 {
   "date": "2026-09-15",
-  "count": 451,
+  "count": 455,
   "items": [
+    {
+      "id": "5094003",
+      "time": "2026-09-15 07:58:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率升至3.005%。"
+    },
+    {
+      "id": "mkt:01a0a25b-ccb7-7118-8580-b96a79f8382e",
+      "time": "2026-09-15 07:58:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 2bps to 3.005%."
+    },
+    {
+      "id": "5094002",
+      "time": "2026-09-15 07:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：新車競賽該“踩剎車”了 迭代過快傷害產業鏈】近期，速成車話題衝上熱搜，成為汽車行業持續討論的熱點。熱議的背後，一方面是今年上半年，數百款新車投放上市；另一方面，速成的代價可能是缺少必要的安全驗證、耐久測試，其安全隱患成為公眾的擔憂。在新能源汽車變革中，造車手段在進步，速成車爭議是行業對當前競爭是否出現了質量讓位於速度的反思，反映出大量新車密集上市背後，細分市場擁擠帶來的前所未有的競爭壓力。速成車在產品質量可靠性和耐久性上的風險是顯性的，但是對於整個供應鏈和零售終端健康可持續發展的危害是隱性的，其對產業鏈的影響不可小覷。未來，隨著專項行動的開展，車企埋頭追求釋出新品的速度有望踩下剎車。汽車產業作為高階製造業的“鏈主”產業，肩負著整個產業鏈突破向上的責任，只有帶領產業鏈迴歸到“質量與技術”的競爭，才能在全球市場中保持健康發展的核心競爭力。"
+    },
+    {
+      "id": "mkt:01a0a25a-e213-7118-8580-b01c917f4879",
+      "time": "2026-09-15 07:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the radical left 'Dumocrats' have manufactured this AI hoax, recalling their recent global-warming hoax that claimed everyone would die from extreme heat — what happened?"
+    },
     {
       "id": "5094001",
       "time": "2026-09-15 07:56:02",

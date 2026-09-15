@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-15 07:57:06",
-  "count": 13620,
+  "updated": "2026-09-15 08:00:55",
+  "count": 13616,
   "items": [
+    {
+      "id": "5094003",
+      "time": "2026-09-15 07:58:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率升至3.005%。"
+    },
+    {
+      "id": "mkt:01a0a25b-ccb7-7118-8580-b96a79f8382e",
+      "time": "2026-09-15 07:58:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 2bps to 3.005%."
+    },
+    {
+      "id": "5094002",
+      "time": "2026-09-15 07:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：新車競賽該“踩剎車”了 迭代過快傷害產業鏈】近期，速成車話題衝上熱搜，成為汽車行業持續討論的熱點。熱議的背後，一方面是今年上半年，數百款新車投放上市；另一方面，速成的代價可能是缺少必要的安全驗證、耐久測試，其安全隱患成為公眾的擔憂。在新能源汽車變革中，造車手段在進步，速成車爭議是行業對當前競爭是否出現了質量讓位於速度的反思，反映出大量新車密集上市背後，細分市場擁擠帶來的前所未有的競爭壓力。速成車在產品質量可靠性和耐久性上的風險是顯性的，但是對於整個供應鏈和零售終端健康可持續發展的危害是隱性的，其對產業鏈的影響不可小覷。未來，隨著專項行動的開展，車企埋頭追求釋出新品的速度有望踩下剎車。汽車產業作為高階製造業的“鏈主”產業，肩負著整個產業鏈突破向上的責任，只有帶領產業鏈迴歸到“質量與技術”的競爭，才能在全球市場中保持健康發展的核心競爭力。"
+    },
+    {
+      "id": "mkt:01a0a25a-e213-7118-8580-b01c917f4879",
+      "time": "2026-09-15 07:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the radical left 'Dumocrats' have manufactured this AI hoax, recalling their recent global-warming hoax that claimed everyone would die from extreme heat — what happened?"
+    },
     {
       "id": "5094001",
       "time": "2026-09-15 07:56:02",
@@ -125296,78 +125336,6 @@
         "Impact bearish"
       ],
       "text": "Japan's Nikkei 225 opened down 618.43 points, or 0.93%, at 65,781.41 on Tuesday, Sept. 8."
-    },
-    {
-      "id": "5081651",
-      "time": "2026-09-08 08:00:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.7%，至7045.79點。"
-    },
-    {
-      "id": "5081650",
-      "time": "2026-09-08 08:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65843.69點，跌幅0.84%。"
-    },
-    {
-      "id": "5081649",
-      "time": "2026-09-08 08:00:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本7月經常賬戶順差2.99萬億日元 預估為順差2.85萬億日元】日本財務省公佈的資料顯示，7月經常賬戶順差為2.99萬億日元，高於預測中值2.85萬億日元。經調整後經常賬戶順差2.52萬億日元，預估為2.51萬億日元。貿易逆差3999億日元，預估為逆差3855億日元。"
-    },
-    {
-      "id": "5081648",
-      "time": "2026-09-08 07:59:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼部長：受火山灰沉降影響關閉後，雅加達主機場及另外四座機場已重新開放。"
-    },
-    {
-      "id": "5081647",
-      "time": "2026-09-08 07:59:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "博泰車聯：擬以每股120.28港元的價格配售最多490萬股H股。"
-    },
-    {
-      "id": "5081646",
-      "time": "2026-09-08 07:59:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "博泰車聯 <2889> 根據一般授權配售新H股。"
-    },
-    {
-      "id": "5081645",
-      "time": "2026-09-08 07:58:10",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本GDP增速上修，為日本央行加息提供支撐】日本第二季度經濟增速高於初值，進一步佐證市場普遍預期的日本央行下週加息的合理性。日本內閣府週二釋出報告顯示，日本GDP年化季率增長1.4%，高於此前1.1%的初值，但低於經濟學家1.8%的預期中值。納入當期新增資料後，企業裝置投資成為資料上修的主要推動因素；該指標環比下降0.9%，而初值為下降1.2%。該組資料印證日本央行的判斷：經濟整體執行與該行展望大體一致，為9月18日政策會議上調利率提供更多依據。互換合約顯示，投資者已完全計價屆時將會加息。"
-    },
-    {
-      "id": "te:economy:581750",
-      "time": "2026-09-08 07:57:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "GDP Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Q2 GDP Growth Revised Higher — Japan’s GDP grew 0.4% quarter-on-quarter in Q2 2026, slightly higher than flash data of 0.3% and in line with market forecasts. It was the third straight quarter of expansion, amid an upward revision in government spending (1.7% vs 1.6% in the preliminary reading, after a 0.4% rise in Q1). At the same time, business investment fell less than anticipated (-0.9% vs -1.2% in flash figures, after a 1.0% decline in Q1), suggesting relatively resilient corporate spending. Meanwhile, external demand contributed positively (0.5 ppts), as exports rose (0.4% vs 1.7% in Q1) while imports fell (-1.7% vs 0.3%). Private consumption, which accounts for more than half of the economy, was flat, matching the earlier estimate and reversing from 0.4% growth in Q1, as elevated cost pressures weighed on household spending."
     }
   ]
 }
