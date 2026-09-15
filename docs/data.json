@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-15 09:44:26",
-  "count": 13610,
+  "updated": "2026-09-15 09:48:12",
+  "count": 13613,
   "items": [
+    {
+      "id": "mkt:01a0a2bf-20cf-7118-8583-2dbb39dff663",
+      "time": "2026-09-15 09:47:09",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share cultural and media sector jumped; People's Daily Online hit the daily trading limit, while Publishing & Media, Xinhuanet, CITIC Publishing and China Publishing also rose."
+    },
+    {
+      "id": "5094156",
+      "time": "2026-09-15 09:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯民防部門針對吉達釋出緊急警報。"
+    },
+    {
+      "id": "5094155",
+      "time": "2026-09-15 09:46:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵港澳大灣區首個變速抽蓄工程啟動蓄水】今天上午，粵港澳大灣區首個變速抽水蓄能工程——廣東肇慶浪江抽蓄電站上下水庫同時啟動蓄水，工程建設正式進入投產衝刺階段。"
+    },
+    {
+      "id": "mkt:01a0a2be-cbfe-7118-8583-22aca9041642",
+      "time": "2026-09-15 09:46:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish",
+        "09999.HK",
+        "09626.HK"
+      ],
+      "text": "Hong Kong gaming and mobile-game stocks extended gains: Linekong Interactive (08267.HK) up over 9%, Kingsoft (03888.HK) up nearly 4%, and Bilibili (09626.HK), NetEase (09999.HK) and Tencent Holdings (00700.HK) each up more than 1%."
+    },
+    {
+      "id": "5094154",
+      "time": "2026-09-15 09:46:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "鎧俠：有關赴美上市的媒體報道並非來自本公司授權。ADR（美國存託憑證）上市的具體時間、交易市場及發行方式尚未確定。"
+    },
+    {
+      "id": "te:markets:583653",
+      "time": "2026-09-15 09:46:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Losses — The benchmark KOSPI edged down to around 6,660 on Tuesday, extending its decline for a fourth straight session, as concerns over a slower pace of AI development triggered a selloff in global technology stocks, weighing on the broader KOSPI. Nvidia fell 3% while Broadcom and AMD dropped more than 4% overnight, raising concerns over the pace of AI investment and semiconductor demand. Large-cap stocks traded mixed, with losses recorded in KB Financial Group (-2.4%), Doosan Enerbility (-0.8%), Hanwha Aerospace (-5.01%), and HD Hyundai Heavy Industries (-4.0%), while Samsung Electronics (+0.8%) and SK hynix (+0.7%) gained. Additionally, the US 10-year Treasury yield briefly touched its highest level since October 2023 ahead of the Federal Reserve’s policy decision this week, weighing on growth stocks. At the same time, oil prices remained above $100 a barrel amid escalating Middle East tensions after Saudi Arabia shut a key pipeline, keeping inflation and input-cost concerns elevated."
+    },
+    {
+      "id": "mkt:01a0a2be-8bc6-7118-8583-1b5eb8ee2578",
+      "time": "2026-09-15 09:46:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01888.HK",
+        "Impact bullish",
+        "01989.HK",
+        "02476.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks rose after choppy trading: 01888.HK up >4%, 01989.HK and 02476.HK up >3% each, 01377.HK up >1%."
+    },
+    {
+      "id": "5094153",
+      "time": "2026-09-15 09:46:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊短線衝高，人民網漲停】文化傳媒板塊短線衝高，人民網漲停，出版傳媒、新華網、中信出版、中國出版紛紛上揚。"
+    },
+    {
+      "id": "5094152",
+      "time": "2026-09-15 09:45:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門針對塔伊夫釋出緊急警報。"
+    },
+    {
+      "id": "mkt:01a0a2bd-248a-7118-8583-136f0f65b60b",
+      "time": "2026-09-15 09:44:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose briefly, trading at $98.74/bbl and $103.66/bbl, respectively."
+    },
+    {
+      "id": "te:economy:583651",
+      "time": "2026-09-15 09:44:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Housing Index",
+        "Importance 1"
+      ],
+      "text": "China New Home Prices Fall at Slowest Pace in 8 Months — China’s new home prices across 70 cities fell 3.0% year-on-year in August 2026, easing from a 3.2% decline in the previous month. This marked the 38th consecutive month of annual declines, although the pace of contraction was the slowest since December 2025, suggesting continued policy support is helping to ease pressure on the property market. Among major cities, price declines moderated in Guangzhou (-1.9% vs -2.2%), Shenzhen (-2.3% vs -2.9%), Chongqing (-3.1% vs -3.7%) and Tianjin (-4.1% vs -4.4%). Beijing’s decline was unchanged at 2.3%, while Shanghai remained the standout performer, with new home prices rising 3.0%, matching July’s pace."
+    },
+    {
+      "id": "5094151",
+      "time": "2026-09-15 09:44:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軍工板塊震盪下挫，立航科技觸及跌停，壺化股份、北自科技、天秦裝備、長城軍工、北方長龍等跟跌。"
+    },
     {
       "id": "mkt:01a0a2bb-b91d-7118-8583-09467fe463ab",
       "time": "2026-09-15 09:43:26",
@@ -125162,94 +125290,6 @@
         "Importance 1"
       ],
       "text": "Australia Business Sentiment Slips to 3-Month Low — Australia’s NAB Business Confidence Index fell to -8 in August 2026 from -6 in the previous month, marking the lowest reading since May. Meanwhile, business conditions slid to a six-year low, dropping below the long-run average since mid-2025, amid declines in sales, profitability, and employment. The deterioration pointed to a broad-based weakening in business activity, with firms becoming more cautious about demand and operating conditions. The survey also suggested that cost pressures remained elevated, while forward orders softened, highlighting growing headwinds to business investment and hiring. The subdued confidence and weakening conditions may reinforce expectations that the Reserve Bank of Australia will remain cautious on further policy easing, particularly as inflationary pressures remain sticky."
-    },
-    {
-      "id": "mkt:01a07eb2-2921-7118-84d7-97a01b4d6a57",
-      "time": "2026-09-08 09:46:40",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Henan to boost housing consumption with purchase subsidies, loan interest subsidies】Henan’s housing and urban-rural development department and eight other provincial departments issued a policy package titled Several Measures to Coordinate Controlling Increment, Destocking, Improving Supply and Stabilizing the Real Estate Market, pledging stepped-up support for housing consumption including locally tailored purchase subsidies and loan interest subsidies. The package promotes real‑estate+ online and offline promotions tied to local culture and tourism to stimulate demand and backs diversified upgrade demand. It also relaxes unit-counting for qualification: buyers with no property within the administrative boundaries of the county (city, district) where the intended purchase is located may be treated as first-time buyers; multi-child households that already own property may have one unit deducted when counting owned homes for a subsequent purchase."
-    },
-    {
-      "id": "5081808",
-      "time": "2026-09-08 09:46:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：加快推進存量商品房收購工作】河南省住房城鄉建設廳、省發展改革委、省自然資源廳等9部門近日聯合印發《關於統籌推進控增量去庫存優供給著力穩定房地產市場的若干措施》。《若干措施》主要分為四部分共15條，透過加強住房供應管理、加大住房消費支援力度、支援多元化改善性住房需求、加大公積金支援力度，建設“好房子”等15條舉措，因城施策控增量、去庫存、優供給，有效滿足剛性和多樣化改善性住房需求，著力穩定全省房地產市場。加快推進存量商品房收購工作。統籌用好中央和省級城鎮保障性安居工程補助資金、保障性住房再貸款、地方政府專項債，支援收購存量商品房用作保障性住房、宿舍、人才房等。城中村改造、城市更新等專案中涉及房屋安置的，鼓勵收購存量商品房用作安置房。"
-    },
-    {
-      "id": "5081807",
-      "time": "2026-09-08 09:46:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：根據商品房庫存去化週期對房地產用地實行差異化管控】河南省住房和城鄉建設廳等九部門印發《關於統籌推進控增量去庫存優供給著力穩定房地產市場的若干措施》，其中提出，加強住房供應管理。堅持“以需定供”，根據城市發展、人口變化、住房需求等因素，科學編制“十五五”城鎮住房發展規劃，合理引導住房市場供應，實現以人定房、以房定地、以房定錢。強化房地聯動。根據商品房庫存去化週期對房地產用地實行差異化管控，對商品住宅庫存去化週期18個月以上的縣（市、區），暫停商品住宅用地出讓；12—18個月的，按照“盤活多少、供應多少”的原則，根據本年度內盤活的存量商品住宅用地面積（包括竣工和收回）確定新出讓商品住宅用地面積上限，確保不增加存量商品住宅用地面積。嚴格商品房預售管理。對分批預售但去化率較低的房地產專案，所在地住房城鄉建設主管部門應嚴格控制該專案後續商品房預售許可審批節奏。綜合考慮當前市場供求實際，進一步提高預售門檻。鼓勵實行現房銷售。"
-    },
-    {
-      "id": "5081805",
-      "time": "2026-09-08 09:46:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：鼓勵國有企業、房地產企業等收購個人二手住房，推動“收舊換新”】河南省住房和城鄉建設廳等九部門印發《關於統籌推進控增量去庫存優供給著力穩定房地產市場的若干措施》，其中提出，持續開展“以舊換新”。鼓勵國有企業、房地產企業等收購個人二手住房，推動“收舊換新”；引導房地產經紀機構與房企、購房群眾簽訂三方協議，促成“賣舊買新”。鼓勵金融機構依法合規提供長期低息貸款支援各類經營主體實施收購。推行個人存量住房“帶押過戶”，完善“帶押過戶”跨銀行交易流程。"
-    },
-    {
-      "id": "te:markets:581787",
-      "time": "2026-09-08 09:45:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Mobile Stock Price Hits 8-week Low — China Mobile shares decreased to 78.80 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 3.72%, and in the last 12 months, it decreased 7.71%."
-    },
-    {
-      "id": "5081804",
-      "time": "2026-09-08 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股一般零售板塊異動拉昇】百大集團、中百集團觸及漲停，供銷大集、步步高、浙江東日、國芳集團、華聯股份跟漲。"
-    },
-    {
-      "id": "5081803",
-      "time": "2026-09-08 09:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：根據商品房庫存去化週期對房地產用地實行差異化管控】河南省住房和城鄉建設廳等九部門印發《關於統籌推進控增量去庫存優供給著力穩定房地產市場的若干措施》，其中提出，加強住房供應管理。堅持“以需定供”，根據城市發展、人口變化、住房需求等因素，科學編制“十五五”城鎮住房發展規劃，合理引導住房市場供應，實現以人定房、以房定地、以房定錢。強化房地聯動。根據商品房庫存去化週期對房地產用地實行差異化管控，對商品住宅庫存去化週期18個月以上的縣（市、區），暫停商品住宅用地出讓；12—18個月的，按照“盤活多少、供應多少”的原則，根據本年度內盤活的存量商品住宅用地面積（包括竣工和收回）確定新出讓商品住宅用地面積上限，確保不增加存量商品住宅用地面積。嚴格商品房預售管理。對分批預售但去化率較低的房地產專案，所在地住房城鄉建設主管部門應嚴格控制該專案後續商品房預售許可審批節奏。綜合考慮當前市場供求實際，進一步提高預售門檻。鼓勵實行現房銷售。"
-    },
-    {
-      "id": "mkt:01a07eb0-8f3b-7118-84d7-8e31e25dec6c",
-      "time": "2026-09-08 09:44:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A Ukrainian drone strike damaged civilian infrastructure in Russia's Saratov region, injuring several people."
-    },
-    {
-      "id": "5081802",
-      "time": "2026-09-08 09:44:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波華翔：目前整機代工和關節模組業務訂單充足 下半年會逐漸放量】就“關注到公司僅在今年上半年就為智元遠征系列生產了1800臺整機，生產了超過10萬臺關節模組，請問公司預計下半年的產能會較上半年提升多少”的問題，寧波華翔(002048)9月8日在互動平臺回覆稱，目前整機代工和關節模組業務訂單充足，在下半年會逐漸放量。"
     }
   ]
 }
