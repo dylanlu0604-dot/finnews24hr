@@ -1,7 +1,113 @@
 {
   "date": "2026-09-15",
-  "count": 455,
+  "count": 466,
   "items": [
+    {
+      "id": "mkt:01a0a260-f229-7118-8580-da74dc4c0dc0",
+      "time": "2026-09-15 08:04:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he would seek $5,000 payments to adult Americans if Republicans win both the House and Senate, citing his passage of the 'big and beautiful' bill and $1,776 for service members, and urged supporters to vote."
+    },
+    {
+      "id": "5094009",
+      "time": "2026-09-15 08:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁方醫藥：GFH375單藥治療突變型非小細胞肺癌的II期試驗更新資料登陸WCLC口頭報告】勁方醫藥-B公告，公司GFH375（口服KRAS G12D抑制劑）單藥治療經治KRAS G12D突變型非小細胞肺癌的II期試驗更新資料於9月14日登陸2026世界肺癌大會（WCLC）口頭報告。截至資料截止日，71名患者完成至少一次治療後評估，客觀緩解率為59.2%、確認的客觀緩解率為52.1%、疾病控制率為93%。"
+    },
+    {
+      "id": "5094008",
+      "time": "2026-09-15 08:03:20",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：當前行業處於三重共振放量期 繼續看好液冷板塊配置價值】中信建投證券研報稱，液冷國標落地開啟規模化時代，龍頭股權激勵錨定產業放量。一是規則端，行業由定製走向規範：首部資料中心冷板式液冷系統國家標準正式釋出、2027年2月1日起實施，統一冷板、CDU等核心部件的技術要求與測試方法，介面不相容、規格各異問題得以釐清，產業由定製化小批次轉入標準化規模化交付。二是交付端，訂單高增、龍頭以股權激勵錨定兌現信心，行業龍頭公司激勵密集落地疊加前瞻指標新簽訂單走強，是訂單先行到利潤兌現進入報表驗證期的強訊號。三是產業趨勢端，價值量重構與國產替代同步演進：單機櫃液冷價值量由GB200約4.15萬美元升至新一代平臺約5.57萬美元，微通道冷板單價抬升3至5倍，液冷滲透率提升與國產份額提升雙輪驅動，集中放量、精密製造與自主可控趨勢明確。當前行業處於標準統一、批次交付與滲透率抬升三重共振放量期，繼續看好液冷板塊配置價值。"
+    },
+    {
+      "id": "5094007",
+      "time": "2026-09-15 08:03:14",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "【中信證券：金融資料總量走弱，新增貸款同期新低，數量目標漸趨淡化】中信證券研報表示，8月金融資料總量走弱，新增貸款延續偏弱，但融資結構轉換與數量目標淡化降低了總量走弱的訊號意義。社融方面，表內貸款大幅少增、政府債在高基數下延續少增，拖累社融增速回落至7.2%，企業債與股權融資延續多增。信貸方面，6月末衝量後對公短貸連續兩個月淨償還，更多是投放前置後的回吐；企業中長貸延續少增，居民短貸與按揭雙雙負增。貨幣方面，M1增速在高基數下企穩、剪刀差收窄，居民存款累計同比少增、非銀存款延續淨流入但節奏放緩，資金活化改善放緩但方向未逆轉。我們認為，央行明確“十五五”時期逐步淡化數量型中介目標，貨幣政策或更多依託價格型調控與結構性工具；9月社融增速受高基數影響或延續承壓，四季度有望企穩。"
+    },
+    {
+      "id": "5094006",
+      "time": "2026-09-15 08:03:04",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：用電增速邊際走弱，火電出力持續承壓】中信證券研報表示，7月全社會用電增速回落至1.7%，二產增速放緩疊加去年同期高基數下居民用電同比下滑5.1%，是拖累整體用電增長的核心原因。電源側投資額同比降幅持續擴大，但細分電源中火電仍保持密集投產節奏，單月新增裝機1,194萬千瓦；電網側投資增速放緩至0.7%。整體用電需求偏弱疊加清潔能源出力改善，導致7月火電利用小時數同比下滑8.5%，為年內單月最大降幅。江蘇9月月度電價在連續6個月上漲後重新回落至年度長協電價附近。"
+    },
+    {
+      "id": "mkt:01a0a25f-7a7e-7118-8580-d2a9152a8003",
+      "time": "2026-09-15 08:02:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TankerTrackers said satellite imagery from Sept 14 shows the Strait of Hormuz currently hosting two-way daytime transits of very large crude carriers (VLCCs). The firm also observed increased ship-to-ship transshipment of crude, LNG and LPG in the Gulf of Oman."
+    },
+    {
+      "id": "te:markets:583634",
+      "time": "2026-09-15 08:02:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Stabilize After Downbeat Session — US stock futures steadied on Tuesday after the major averages came under pressure at the start of the week, weighed down by a selloff in semiconductor stocks amid growing safety concerns in artificial intelligence development. In regular trading on Monday, the tech-heavy Nasdaq Composite fell 0.56%, while the S&P 500 and Dow declined 0.48% and 0.29%, respectively. Anthropic CEO Dario Amodei called for a slower pace of AI development to address risks posed by increasingly capable models, with OpenAI and xAI CEOs Sam Altman and Elon Musk supporting the view. Chipmakers bore the brunt of the selling, including Nvidia (-3.4%), Micron (-5.3%), Sandisk (-5%), AMD (-4.4%) and Intel (-5.6%). Investors also contended with elevated oil prices and rising Treasury yields ahead of an expected interest rate hike by the Federal Reserve this week. Markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday."
+    },
+    {
+      "id": "mkt:01a0a25e-8620-7118-8580-c921492a9713",
+      "time": "2026-09-15 08:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 10.0 points (-0.15%) at 6,674.37 on Tuesday, Sept. 15."
+    },
+    {
+      "id": "mkt:01a0a25e-7c12-7118-8580-c1cf9da6537a",
+      "time": "2026-09-15 08:01:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 279.54 points (-0.44%) at 63,213.45 points on Sept. 15 (Tuesday)."
+    },
+    {
+      "id": "5094005",
+      "time": "2026-09-15 08:00:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.4%，至6659.25點。"
+    },
+    {
+      "id": "5094004",
+      "time": "2026-09-15 08:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報63190.37點，跌幅0.48％。韓國綜合股價指數（KOSPI）開盤下跌0.4％，至6659.25點。"
+    },
     {
       "id": "5094003",
       "time": "2026-09-15 07:58:45",
