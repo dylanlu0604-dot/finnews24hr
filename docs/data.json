@@ -1,7 +1,149 @@
 {
-  "updated": "2026-09-15 14:42:49",
-  "count": 13641,
+  "updated": "2026-09-15 14:46:42",
+  "count": 13653,
   "items": [
+    {
+      "id": "mkt:01a0a3d0-f4d3-7118-858c-1a1039918a08",
+      "time": "2026-09-15 14:46:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | CPI (MoM) (Aug) | actual 0.7% | consensus 0.7% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a0a3d0-e3f8-7118-858c-122f935addac",
+      "time": "2026-09-15 14:46:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | CPI (YoY) (Aug) | actual 2.4% | consensus 2.4% | previous 2.40%"
+    },
+    {
+      "id": "5094550",
+      "time": "2026-09-15 14:45:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：實施省級財政科技資金“先補後股”改革】湖北舉行“深化財政金融協同聯動 賦能科技創新和高質量發展”新聞釋出會。湖北省財政廳介紹，完善基金綜合績效評價體系，實行政府出資收益讓利；健全盡職免責機制，將投向“0到1”階段的種子基金容虧率從50%提高至80%，對單個專案最高容虧100%；實行差異化考核，對種子基金等偏早期基金的業績“不以營收論英雄”，重點看培育種子專案的數量質量，鼓勵基金“能投、願投、敢投、善投”。今年實施省級財政科技資金“先補後股”改革，對單個科創專案可最高支援300萬元，採取先無償補助培育、再市場化轉股的方式，聯動種子基金接續填補科技成果轉化最前端資金空白。"
+    },
+    {
+      "id": "5094549",
+      "time": "2026-09-15 14:45:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄印籤30億美元民航客機大單】據俄新社9月14日報道，俄羅斯近日達成了蘇聯解體後民用航空領域規模最大的一筆出口協議。印度三家航空公司與俄羅斯聯合飛機制造公司簽署框架協議，計劃採購總計105架俄羅斯伊爾-114-300型飛機。對俄羅斯而言，軍機領域這類大單早已司空見慣，但在民用飛機製造業，這是意義重大的一步。 目前這還不是正式的合同，只是採購意向備忘錄，不過在航空行業，這種情況十分普遍，很少有專案直接敲定硬性合同。俄方預計在今年年底前完成正式合同簽署。（參考訊息）"
+    },
+    {
+      "id": "5094548",
+      "time": "2026-09-15 14:45:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量193億元。"
+    },
+    {
+      "id": "mkt:01a0a3d0-084d-7118-858c-0ed2451f8f1f",
+      "time": "2026-09-15 14:45:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France August harmonised CPI (HICP) final YoY 2.6% (expected 2.7%; July final 2.7%)."
+    },
+    {
+      "id": "mkt:01a0a3d0-0121-7118-858c-0579cfa1baf4",
+      "time": "2026-09-15 14:45:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France harmonized CPI (HICP) final for August MoM +0.7% vs +0.8% expected; prior +0.8%."
+    },
+    {
+      "id": "5094547",
+      "time": "2026-09-15 14:45:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國8月調和CPI年率終值 2.6%，預期2.7%，前值2.70%。法國8月調和CPI月率終值 0.7%，預期0.8%，前值0.80%。"
+    },
+    {
+      "id": "mkt:01a0a3cf-cf52-7118-858b-f87906512c29",
+      "time": "2026-09-15 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (MoM) (Aug) | actual 0.7% | consensus 0.8% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0a3cf-cf51-7118-858b-f2e35efb0be5",
+      "time": "2026-09-15 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (YoY) (Aug) | actual 2.6% | consensus 2.7% | previous 2.70%"
+    },
+    {
+      "id": "5094546",
+      "time": "2026-09-15 14:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔官方：自當日起，已有8人在俄軍襲擊中受傷。"
+    },
+    {
+      "id": "5094545",
+      "time": "2026-09-15 14:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SAS：踐行可信 AI 的企業實現高ROI的機率高出15倍】資料分析機構SAS結合IDC研究洞察最新發布的報告顯示，擁有最完善治理、資料質量和可審計性實踐的企業的表現持續優於同行，其AI部署所帶來的ROI至少是同行的兩倍。相比之下，在可信AI方面落後的企業中，僅有不到1/20能達到同等ROI水平。"
+    },
+    {
+      "id": "5094544",
+      "time": "2026-09-15 14:44:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息稱臺積電大幅提升先進工藝產能以滿足AI需求】據報道，臺積電2nm工藝的月產能預計將從今年年底的9萬片晶圓增至明年年中的11萬片，增幅約為22%。3nm工藝的產能目標是從去年年底的每月12萬至13萬片晶圓增至今年年底的18萬片，並在明年年中達到21萬片。如果計劃按預期進行，從2025年底到2027年年中，3nm工藝的產能將增長約70%。此外，臺積電正計劃在中國臺灣、美國亞利桑那州和日本新建3nm晶圓生產設施以提高產能，並將部分5nm生產線改造為3nm。隨著對先進工藝投資的增加，預計明年的營收也將創歷史新高。"
+    },
+    {
+      "id": "5094543",
+      "time": "2026-09-15 14:43:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本財務大臣片山皋月表示將大幅壓縮財政浪費】日本財務大臣片山皋月表示，政府將大幅審查並削減冗餘的補貼和稅收優惠，以回應外界批評有關部門在旨在發現節約成本機會的自願審查中僅確定了三個可能削減的專案。片山在富士電視臺的一檔節目中表示，政府將力求大幅削減開支，以表明政策並非僅僅是大肆支出。片山表示，政府不會發行新債來為消費稅減擴音供資金，將以維持市場信心的方式獲得資金，預計稅收收入將略高於預期。"
+    },
+    {
+      "id": "5094542",
+      "time": "2026-09-15 14:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星電子調整定製HBM基礎晶片供應鏈，或推行“雙軌”戰略】據業內人士訊息稱，在定製化高頻寬記憶體時代， 三星電子為其高頻寬記憶體（HBM）提供基礎晶片的戰略 預計將發生重大變化。 該司將不再依賴其現有的內部代工廠進行自主生產，而是採取“雙軌制程”戰略，即同時採用基於臺積電工藝的基礎晶片。 從今年開始量產HBM4開始，三星電子和SK海力士已開始採用代工工藝而非傳統的DRAM工藝來製造基片。與DRAM工藝相比，代工工藝的優勢在於能夠將更多功能整合到基片中，從而提升效能和能效。"
+    },
     {
       "id": "te:markets:583748",
       "time": "2026-09-15 14:42:19",
@@ -125514,39 +125656,6 @@
         "Importance 1"
       ],
       "text": "Japanese Shares Drop as Yen Surges — The Nikkei 225 Index fell 1.7% to close at 65,269, while the broader Topix Index dropped 1.83% to 4,050 on Tuesday, ending a two-day winning streak as the yen extended its advance to its strongest level since February. A stronger yen weighs on earnings prospects for Japan’s export-focused industries while making Japanese assets more expensive for foreign investors. Markets were also positioning for an expected Bank of Japan rate hike, backed by strong economic data showing July wages rose at their fastest pace since 1997 and second-quarter GDP growth was revised higher. Meanwhile, elevated oil prices following renewed US-Iran fighting kept inflation risks and interest rate concerns firmly in focus. Technology stocks led the losses, with Kioxia Holdings (-3.6%), Advantest (-2%), Taiyo Yuden (-7.9%), Ibiden Co (-6.3%) and Fujikura (-3%) among the biggest decliners."
-    },
-    {
-      "id": "em:jjsj_zgsj:202609083867986882",
-      "time": "2026-09-08 14:45:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【我國進口月度增速連續6個月超過出口】海關總署8日釋出資料：2026年前8個月，我國貨物貿易進出口總值34.78萬億元，同比增長17.6%。其中，8月單月進出口、出口、進口分別增長19.8%、18.6%、21.7%，進口月度同比增速連續6個月超過出口。值得注意的是，截至8月，我國對美國進出口連續5個月增長，1至8月累計進出口2.76萬億元，同比增長1.3%。"
-    },
-    {
-      "id": "te:economy:581899",
-      "time": "2026-09-08 14:43:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Hungary Inflation Edges Higher in August — The annual inflation rate in Hungary edged up to 1.3% in August 2026 from 1.2% in July, which was the lowest reading since November 2016. The increase was largely driven by higher prices for alcoholic beverages, tobacco products (3.2% vs 2.9% in July), consumer durables (1.5% vs 1.8%), and other goods, including fuels (1.2% vs 0.3%). Inflation also picked up for services, rising 5% from 4.7% in the previous month. In contrast, costs declined for food (-1.4% vs -1.1%), clothing items (-0.2% vs 0.6%), and household energy (-4.3% vs -4.3%). On a monthly basis, consumer prices rose by 0.2%, rebounding from a 0.1% fall in the preceding period. Meanwhile, the annual core inflation rate, which excludes volatile items such as food and energy, ticked higher to 2% in August from 1.9% in the prior month."
-    },
-    {
-      "id": "te:markets:581898",
-      "time": "2026-09-08 14:43:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Slips to Finish at 6-Week Low — The ASX 200 slumped 90 points, or 1.0%, to close at 8,921 on Tuesday, marking a six-week low as weakness spread across retail trade, financials, and tech. Sentiment soured after Dow futures tumbled on surging oil prices and escalating U.S.–Canada trade tensions. Adding pressure, Reserve Bank's Assistant Governor Sarah Hunter warned cash rates may need to rise further to rein in sticky inflation. Meanwhile, fresh data showed Australia’s business mood fell to a three-month low in August, while business conditions slid to a six-year trough amid weaker sales, profitability, and employment. Losses were cushioned by stronger August trade flows in top trading partner China, ahead of a scheduled meeting between Presidents Xi and Trump in Washington. Commonwealth Bank fell 2.2% after flagging softer mortgage growth last month, while the other three big banks dipped between 1.7% and 3.2%. REA Group (-2.9%) and Wesfarmers (-2.5%) also lagged. Energy names bucked the trend, with Santos up 1.1%."
     }
   ]
 }
