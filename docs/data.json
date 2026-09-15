@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-15 09:22:08",
-  "count": 13627,
+  "updated": "2026-09-15 09:25:53",
+  "count": 13625,
   "items": [
+    {
+      "id": "mkt:01a0a2ab-499a-7118-8582-33266c523205",
+      "time": "2026-09-15 09:25:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the open in China's A-share market, the Shanghai Composite fell 0.14%, the Shenzhen Composite Index fell 0.17% and the ChiNext Index fell 0.14%. Fiber-optic, CPO and PCB-related stocks led declines."
+    },
+    {
+      "id": "5094114",
+      "time": "2026-09-15 09:25:16",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.14％，深成指跌0.17％，創業板跌0.14％。"
+    },
+    {
+      "id": "mkt:01a0a2aa-a50d-7118-8582-2947158ef1ed",
+      "time": "2026-09-15 09:24:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY 5,920bn via reverse repos today】The PBOC conducted CNY 5,970bn of overnight reverse repos and CNY 5,000bn of buyout-style reverse repos; CNY 5,040bn of overnight and CNY 10bn of 7-day reverse repos matured, resulting in a net injection of CNY 5,920bn in open-market operations today."
+    },
+    {
+      "id": "5094113",
+      "time": "2026-09-15 09:23:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：攻關端側智慧計算晶片、高階儲存晶片、存算一體等新型架構】工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。其中提到，攻關端側智慧計算晶片、高階儲存晶片，開發近存計算、存算一體等新型架構。研發端側作業系統和晶片使能軟體，完善開發框架、運算元庫、推理加速引擎等開發環境。研發演算法架構和輕量化技術，發展智慧體技術，研究多模型排程、多智慧體協作體系。研發高動態、高實時姿態和運動控制技術，開發具身智慧演算法庫、動作庫、知識庫。"
+    },
+    {
+      "id": "mkt:01a0a2a8-da1d-7118-8582-2173c41719a2",
+      "time": "2026-09-15 09:22:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Liquidity indicator: market rates trade around policy rate】Early session Sept 15 — DR007 fell to 1.4100%, trading around the PBOC's 1.4% 7-day policy rate. The PBOC skipped 7-day reverse repos for a second consecutive trading day but injected 597 bln yuan via overnight reverse repos. DR007 is the short-end money-market anchor; the spread versus the PBOC 7-day reverse-repo rate is used to gauge market liquidity (DR007 above the policy rate signals tightness; below signals ample funds)."
+    },
+    {
+      "id": "5094112",
+      "time": "2026-09-15 09:22:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨投放920億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0a2a8-5481-7118-8582-1c0734b80898",
+      "time": "2026-09-15 09:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong open Sept 15: Hang Seng Index (HSI) up 16.46 pts (+0.07%) at 24,934.06; Hang Seng Tech Index up 20.51 pts (+0.47%) at 4,338.45; Hang Seng China Enterprises Index (HSCEI) up 18.67 pts (+0.23%) at 8,303.25; Red Chip Index up 7.38 pts (+0.18%) at 4,137.49."
+    },
+    {
+      "id": "mkt:01a0a2a8-060f-7118-8582-101e94106cbb",
+      "time": "2026-09-15 09:21:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "NVDA.O",
+        "Impact bearish",
+        "AMZN.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "【TSMC 3nm, 2nm nodes and CoWoS packaging remain undersupplied】As the calendar moves into late Q3, TSMC’s 3nm and 2nm process capacity and CoWoS advanced packaging remain persistently undersupplied, supply-chain sources say. NVIDIA and Apple continue to occupy large shares of advanced-node and packaging resources. AWS has ramped wafer starts for in-house AI chips; its Annapurna unit has secured additional 3nm capacity. MediaTek, beyond handset chips and driven by a large Google TPU-related order, is also aggressively competing for 2nm/3nm process and CoWoS-S/L capacity."
+    },
     {
       "id": "mkt:01a0a2a7-c4fb-7118-8582-0b903890d788",
       "time": "2026-09-15 09:21:38",
@@ -125311,101 +125399,6 @@
         "其他"
       ],
       "text": "【8月FF EAI機器人本體銷售及出貨量達158臺】據Faraday Future訊息，8月FF EAI機器人本體銷售及出貨量再創單月新高，達到158臺。自2月啟動交付以來，截至8月底，機器人累計銷售及出貨量已達到552臺。"
-    },
-    {
-      "id": "mkt:01a07e9e-f2ed-7118-84d6-80895c4a915c",
-      "time": "2026-09-08 09:25:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "Impact mixed"
-      ],
-      "text": "China A-shares opened: Shanghai Composite up 0.07%, Shenzhen Composite Index up 0.06%, ChiNext Index down 0.13%."
-    },
-    {
-      "id": "5081753",
-      "time": "2026-09-08 09:25:30",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指漲0.07％，深成指漲0.06％，創業板跌0.13％。"
-    },
-    {
-      "id": "5081752",
-      "time": "2026-09-08 09:25:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic據悉將放棄對DeCart價值60億美元的收購。"
-    },
-    {
-      "id": "5081751",
-      "time": "2026-09-08 09:25:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率下跌5個基點至3.970%。"
-    },
-    {
-      "id": "mkt:01a07e9d-b8c6-7118-84d6-7988ebc858ad",
-      "time": "2026-09-08 09:24:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver climbed above $67/oz, gaining 1.29% on the day."
-    },
-    {
-      "id": "5081750",
-      "time": "2026-09-08 09:23:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4480美元/盎司，日內漲0.08%。"
-    },
-    {
-      "id": "5081749",
-      "time": "2026-09-08 09:22:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【陸慷會見加拿大議會加中議會協會代表團】9月7日，中共中央對外聯絡部副部長陸慷在北京會見加拿大議會加中議會協會共同主席羅耶、吉尼亞克率領的加中議會協會代表團。陸慷介紹了“十五五”規劃有關內容，並強調，在中加兩國領導人戰略引領下，中加關係轉圜向好，受到兩國各界普遍歡迎。中方願與加方共同落實好兩國領導人重要共識，拓展各領域務實合作和人文交流，積極推動構建中加新型戰略伙伴關係。中聯部願與加中議會協會和加議會各政黨開展更多交流對話，增進中加相互理解和信任。加方表示，今年1月卡尼總理成功訪華後，兩國各領域交流合作取得積極進展。加方願同中方進一步加強對華經貿合作和人文交流，攜手應對氣候變化、人工智慧等全球性挑戰，共同維護多邊主義的國際秩序。加方並對中國西藏吉隆遭受泥石流災害表達慰問。"
-    },
-    {
-      "id": "mkt:01a07e9b-eddc-7118-84d6-774ca623e120",
-      "time": "2026-09-08 09:22:23",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japanese 20-year government bond yield fell 4 bps to 3.705%."
-    },
-    {
-      "id": "5081748",
-      "time": "2026-09-08 09:22:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯創達：CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨】匯創達(300909)9月8日在互動平臺表示，公司CCS模組業務上半年保持增長態勢，相關財務資料已體現在半年報中。目前CCS產品已透過多家車企、儲能廠商車規認證並實現批次供貨，訂單情況受客戶排產節奏影響存在階段性波動。"
-    },
-    {
-      "id": "5081747",
-      "time": "2026-09-08 09:22:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "江波龍電子港股上市首日開盤報236港元，與招股價持平。"
     }
   ]
 }

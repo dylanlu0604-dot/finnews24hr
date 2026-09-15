@@ -1,7 +1,95 @@
 {
   "date": "2026-09-15",
-  "count": 611,
+  "count": 619,
   "items": [
+    {
+      "id": "mkt:01a0a2ab-499a-7118-8582-33266c523205",
+      "time": "2026-09-15 09:25:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the open in China's A-share market, the Shanghai Composite fell 0.14%, the Shenzhen Composite Index fell 0.17% and the ChiNext Index fell 0.14%. Fiber-optic, CPO and PCB-related stocks led declines."
+    },
+    {
+      "id": "5094114",
+      "time": "2026-09-15 09:25:16",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.14％，深成指跌0.17％，創業板跌0.14％。"
+    },
+    {
+      "id": "mkt:01a0a2aa-a50d-7118-8582-2947158ef1ed",
+      "time": "2026-09-15 09:24:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY 5,920bn via reverse repos today】The PBOC conducted CNY 5,970bn of overnight reverse repos and CNY 5,000bn of buyout-style reverse repos; CNY 5,040bn of overnight and CNY 10bn of 7-day reverse repos matured, resulting in a net injection of CNY 5,920bn in open-market operations today."
+    },
+    {
+      "id": "5094113",
+      "time": "2026-09-15 09:23:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：攻關端側智慧計算晶片、高階儲存晶片、存算一體等新型架構】工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。其中提到，攻關端側智慧計算晶片、高階儲存晶片，開發近存計算、存算一體等新型架構。研發端側作業系統和晶片使能軟體，完善開發框架、運算元庫、推理加速引擎等開發環境。研發演算法架構和輕量化技術，發展智慧體技術，研究多模型排程、多智慧體協作體系。研發高動態、高實時姿態和運動控制技術，開發具身智慧演算法庫、動作庫、知識庫。"
+    },
+    {
+      "id": "mkt:01a0a2a8-da1d-7118-8582-2173c41719a2",
+      "time": "2026-09-15 09:22:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Liquidity indicator: market rates trade around policy rate】Early session Sept 15 — DR007 fell to 1.4100%, trading around the PBOC's 1.4% 7-day policy rate. The PBOC skipped 7-day reverse repos for a second consecutive trading day but injected 597 bln yuan via overnight reverse repos. DR007 is the short-end money-market anchor; the spread versus the PBOC 7-day reverse-repo rate is used to gauge market liquidity (DR007 above the policy rate signals tightness; below signals ample funds)."
+    },
+    {
+      "id": "5094112",
+      "time": "2026-09-15 09:22:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨投放920億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0a2a8-5481-7118-8582-1c0734b80898",
+      "time": "2026-09-15 09:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong open Sept 15: Hang Seng Index (HSI) up 16.46 pts (+0.07%) at 24,934.06; Hang Seng Tech Index up 20.51 pts (+0.47%) at 4,338.45; Hang Seng China Enterprises Index (HSCEI) up 18.67 pts (+0.23%) at 8,303.25; Red Chip Index up 7.38 pts (+0.18%) at 4,137.49."
+    },
+    {
+      "id": "mkt:01a0a2a8-060f-7118-8582-101e94106cbb",
+      "time": "2026-09-15 09:21:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "NVDA.O",
+        "Impact bearish",
+        "AMZN.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "【TSMC 3nm, 2nm nodes and CoWoS packaging remain undersupplied】As the calendar moves into late Q3, TSMC’s 3nm and 2nm process capacity and CoWoS advanced packaging remain persistently undersupplied, supply-chain sources say. NVIDIA and Apple continue to occupy large shares of advanced-node and packaging resources. AWS has ramped wafer starts for in-house AI chips; its Annapurna unit has secured additional 3nm capacity. MediaTek, beyond handset chips and driven by a large Google TPU-related order, is also aggressively competing for 2nm/3nm process and CoWoS-S/L capacity."
+    },
     {
       "id": "mkt:01a0a2a7-c4fb-7118-8582-0b903890d788",
       "time": "2026-09-15 09:21:38",
