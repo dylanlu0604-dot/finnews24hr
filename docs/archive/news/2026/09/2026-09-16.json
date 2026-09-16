@@ -1,7 +1,31 @@
 {
   "date": "2026-09-16",
-  "count": 2380,
+  "count": 2383,
   "items": [
+    {
+      "id": "5097961",
+      "time": "2026-09-16 23:54:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "華爾街多頭Yardeni下調標普500指數目標至7900點。"
+    },
+    {
+      "id": "mkt:01a0aaec-5654-7118-85c0-9e226474ec19",
+      "time": "2026-09-16 23:53:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California Governor NEWSOM said U.S. Energy Secretary wright's \"complete failure\" to protect U.S. energy security should alarm every American. He noted the DOE oversees the U.S. nuclear weapons stockpile and said wright should resign if he cannot fulfill the basic duties of his office."
+    },
+    {
+      "id": "5097960",
+      "time": "2026-09-16 23:52:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI質疑蘋果與馬斯克之間的秘密協議】在OpenAI試圖獲取馬斯克反壟斷案件中的協議條款後，一名聯邦法官裁定X公司和SpaceXAI必須披露其與蘋果簽訂的協議。X近期已了結針對蘋果的訴訟，但仍在繼續起訴OpenAI。OpenAI主張，這份未公開的蘋果協議可能會影響X向其索要賠償金的訴求。相關協議須於週四提交至法院。"
+    },
     {
       "id": "mkt:01a0aaea-cc48-7118-85c0-95e890da2956",
       "time": "2026-09-16 23:51:49",

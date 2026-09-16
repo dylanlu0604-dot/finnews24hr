@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-16 23:52:36",
-  "count": 13407,
+  "updated": "2026-09-16 23:56:27",
+  "count": 13409,
   "items": [
+    {
+      "id": "5097961",
+      "time": "2026-09-16 23:54:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "華爾街多頭Yardeni下調標普500指數目標至7900點。"
+    },
+    {
+      "id": "mkt:01a0aaec-5654-7118-85c0-9e226474ec19",
+      "time": "2026-09-16 23:53:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California Governor NEWSOM said U.S. Energy Secretary wright's \"complete failure\" to protect U.S. energy security should alarm every American. He noted the DOE oversees the U.S. nuclear weapons stockpile and said wright should resign if he cannot fulfill the basic duties of his office."
+    },
+    {
+      "id": "5097960",
+      "time": "2026-09-16 23:52:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI質疑蘋果與馬斯克之間的秘密協議】在OpenAI試圖獲取馬斯克反壟斷案件中的協議條款後，一名聯邦法官裁定X公司和SpaceXAI必須披露其與蘋果簽訂的協議。X近期已了結針對蘋果的訴訟，但仍在繼續起訴OpenAI。OpenAI主張，這份未公開的蘋果協議可能會影響X向其索要賠償金的訴求。相關協議須於週四提交至法院。"
+    },
     {
       "id": "5097959",
       "time": "2026-09-16 23:51:49",
@@ -123499,17 +123523,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Decline — European stocks closed sharply lower on Wednesday as the ongoing surge in energy price consolidated concerns that inflation could dent demand and drive the ECB to deliver multiple rate hikes this year. The Euro STOXX 50 fell 1.7% to 6,304 and the STOXX Europe 600 fell 1.5% to 640. Strikes between the US and Iran intensified halfway through the week and pushed back expectations of when fuel exports through the Middle East may be somewhat normalized. Brent crude passed $100 per barrel, while regional natural gas benchmarks rose to their highest since 2022. The ECB is due to raise rates by 25bps tomorrow, and potentially give hints on whether it sees more tightening to be warranted. Rate sensitive sector declined sharply, with Santander, ING, Deutsche Bank, and Allianz dropping 2% due to risks on credit demand. Industrials also fell with Schneider Electric, Siemens, Rheinmetall, and Safran falling more than 3%."
-    },
-    {
-      "id": "te:markets:582476",
-      "time": "2026-09-09 23:55:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Fall to Over 1-Week Low — Soybeans eased to $12.90 a bushel, their lowest level in more than a week, as traders turned their attention to Friday’s US Department of Agriculture supply-and-demand forecasts for an indication of weather damage to Midwest crops. The USDA’s latest assessment showed that 58% of soybean crops were rated good to excellent, unchanged from the previous week and above expectations for a one-point decline. Despite the weaker prices, Chinese demand for US soybeans provided underlying support. On Wednesday, the USDA reported export sales of 340,000 metric tons of soybeans to China for delivery in 2026/27, alongside another 100,000 tons sold to unknown destinations. Rising oil prices have also supported soybeans, which are widely used in biofuel production, with Brent crude recently surpassing $100 a barrel. Soybeans reached $13.10 a bushel on September 1, their highest level since December 2023, amid concerns over US yields and Black Sea supply disruptions."
     }
   ]
 }
