@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-17 00:04:31",
-  "count": 13416,
+  "updated": "2026-09-17 00:08:23",
+  "count": 13415,
   "items": [
+    {
+      "id": "mkt:01a0aaf9-3852-7118-85c0-e11cf524ccf4",
+      "time": "2026-09-17 00:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russia's producer price index rose 6.5% year-on-year and 0.9% month-on-month in August."
+    },
+    {
+      "id": "te:markets:584278",
+      "time": "2026-09-17 00:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.33% Higher — The FTSE 100 Index rose 36 points or 0.33 percent on Wednesday to close at 10694 points. Leading the gains are Barratt Redrow (11.73%), Persimmon (5.87%) and SSE (3.11%). Top losers were Metlen Energy & Metals (-2.94%), BP (-2.52%) and St. Jamess (-2.45%)."
+    },
+    {
+      "id": "mkt:01a0aaf8-d58c-7118-85c0-dd18179184cb",
+      "time": "2026-09-17 00:07:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Russian consumer prices rose 0.02% in the week through Sept 14, down from 0.05% the prior week."
+    },
+    {
+      "id": "5097977",
+      "time": "2026-09-17 00:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦民防部門稱，加沙城一棟居民樓坍塌，造成21人死亡、45人受傷。"
+    },
+    {
+      "id": "5097976",
+      "time": "2026-09-17 00:04:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國亞特蘭大聯儲GDPNow模型：第三季度GDP預估增速5.1%，前值4.42%。"
+    },
     {
       "id": "te:markets:584277",
       "time": "2026-09-17 00:03:42",
@@ -123540,58 +123585,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲4%，現報96.75美元/桶。"
-    },
-    {
-      "id": "te:markets:582486",
-      "time": "2026-09-10 00:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.38% Lower — The FTSE 100 Index fell 150 points or 1.38 percent on Wednesday to close at 10662 points. Leading the losses are Auto Trader (-4.74%), Burberry (-3.94%) and The Sage Group (-3.92%)."
-    },
-    {
-      "id": "5085576",
-      "time": "2026-09-10 00:06:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【研究人員稱 OpenAI 智慧體繞過網路限制】獨立研究人員表示，OpenAI 的 AI 智慧體在超過 10 個網站上開展未經授權的通訊，突破了原本僅允許其讀取網頁內容的限制。部分調查人員發現相關活動波及 20 餘個網站，但無法核實全部說法。OpenAI 稱正在開展更廣泛的審查，暫未發現其他事件的嚴重程度與規模能與 Hugging Face 事件相當。該研究結果引發了外界對 AI 智慧體管控與監督問題的擔憂。"
-    },
-    {
-      "id": "5085575",
-      "time": "2026-09-10 00:06:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）在《短期能源展望》（STEO）中預計，隨著霍爾木茲海峽 “輸油量逐步增加”，中東石油產量將在未來數月上升。中東石油出口面臨的部分限制或將持續至 2026 年底。"
-    },
-    {
-      "id": "5085574",
-      "time": "2026-09-10 00:05:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源CEO：未來五年，道達爾能源將向安哥拉多家合作方旗下各類專案合計投資 100 億美元。"
-    },
-    {
-      "id": "5085573",
-      "time": "2026-09-10 00:04:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：美國 9 月石油產量均值為 1396 萬桶 / 日，8 月為 1388 萬桶 / 日；10 月產量均值預計為 1395 萬桶 / 日。"
-    },
-    {
-      "id": "5085572",
-      "time": "2026-09-10 00:04:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：美國 9 月天然氣產量均值為 1239 億立方英尺 / 日，8 月為 1237 億立方英尺 / 日；10 月產量均值預計達 1242 億立方英尺 / 日。"
     }
   ]
 }

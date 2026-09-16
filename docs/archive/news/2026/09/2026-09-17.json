@@ -1,7 +1,52 @@
 {
   "date": "2026-09-17",
-  "count": 8,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:01a0aaf9-3852-7118-85c0-e11cf524ccf4",
+      "time": "2026-09-17 00:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said Russia's producer price index rose 6.5% year-on-year and 0.9% month-on-month in August."
+    },
+    {
+      "id": "te:markets:584278",
+      "time": "2026-09-17 00:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.33% Higher — The FTSE 100 Index rose 36 points or 0.33 percent on Wednesday to close at 10694 points. Leading the gains are Barratt Redrow (11.73%), Persimmon (5.87%) and SSE (3.11%). Top losers were Metlen Energy & Metals (-2.94%), BP (-2.52%) and St. Jamess (-2.45%)."
+    },
+    {
+      "id": "mkt:01a0aaf8-d58c-7118-85c0-dd18179184cb",
+      "time": "2026-09-17 00:07:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Russian consumer prices rose 0.02% in the week through Sept 14, down from 0.05% the prior week."
+    },
+    {
+      "id": "5097977",
+      "time": "2026-09-17 00:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦民防部門稱，加沙城一棟居民樓坍塌，造成21人死亡、45人受傷。"
+    },
+    {
+      "id": "5097976",
+      "time": "2026-09-17 00:04:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國亞特蘭大聯儲GDPNow模型：第三季度GDP預估增速5.1%，前值4.42%。"
+    },
     {
       "id": "te:markets:584277",
       "time": "2026-09-17 00:03:42",
