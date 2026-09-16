@@ -1,7 +1,84 @@
 {
   "date": "2026-09-17",
-  "count": 619,
+  "count": 627,
   "items": [
+    {
+      "id": "5098470",
+      "time": "2026-09-17 06:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出用於追蹤、披露模型失配問題的新框架；釋出過去 6 個月觀測到的模型異常行為的六份報告。"
+    },
+    {
+      "id": "5098469",
+      "time": "2026-09-17 06:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "核服務企業霍爾泰克據稱暫停美國 IPO 計劃。"
+    },
+    {
+      "id": "mkt:01a0ac3d-e7fe-7118-85ca-5bf2b79fe735",
+      "time": "2026-09-17 06:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 10-year Treasury futures fell 4 points; 30-year Treasury futures fell 5 points."
+    },
+    {
+      "id": "5098468",
+      "time": "2026-09-17 06:01:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債期貨下跌 4 個基點，30 年期下跌 5 個基點。"
+    },
+    {
+      "id": "mkt:01a0ac3c-9e32-7118-85ca-53c7104decd7",
+      "time": "2026-09-17 06:00:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil opened down 0.3% at $97.17/bbl on Thursday."
+    },
+    {
+      "id": "5098467",
+      "time": "2026-09-17 06:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1299.49美元/盎司。"
+    },
+    {
+      "id": "5098466",
+      "time": "2026-09-17 06:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破63美元/盎司，日內跌0.03%。"
+    },
+    {
+      "id": "5098465",
+      "time": "2026-09-17 06:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4299.50美元/盎司。"
+    },
     {
       "id": "5098464",
       "time": "2026-09-17 06:00:05",
