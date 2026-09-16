@@ -1,7 +1,159 @@
 {
   "date": "2026-09-17",
-  "count": 317,
+  "count": 333,
   "items": [
+    {
+      "id": "5098269",
+      "time": "2026-09-17 02:49:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲獨立性的一部分在於我們專注於自身職責。"
+    },
+    {
+      "id": "5098268",
+      "time": "2026-09-17 02:49:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長：首批777X機型沒有變動。我們正在與客戶進行合同討論。"
+    },
+    {
+      "id": "mkt:01a0ab8c-b494-7118-85c6-7c6990925bdc",
+      "time": "2026-09-17 02:48:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh: Independence is two-way; the Fed must remain within its remit."
+    },
+    {
+      "id": "5098267",
+      "time": "2026-09-17 02:48:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：獨立性是雙向的，必須堅守自身職責範圍。"
+    },
+    {
+      "id": "5098266",
+      "time": "2026-09-17 02:48:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價跌至盤中低點3.4%。"
+    },
+    {
+      "id": "5098265",
+      "time": "2026-09-17 02:47:56",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我並沒有屏息等待任何資料，包括CPI。趨勢才重要，單個資料點存在干擾噪聲。"
+    },
+    {
+      "id": "mkt:01a0ab8b-bf6c-7118-85c6-70a3d2518793",
+      "time": "2026-09-17 02:47:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is not impatiently waiting for any single data point; trends matter and individual data points are noisy."
+    },
+    {
+      "id": "mkt:01a0ab8b-8710-7118-85c6-6cb472e4414c",
+      "time": "2026-09-17 02:47:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed's assessment of which outcomes in the geopolitical situation are more or less likely has changed."
+    },
+    {
+      "id": "5098263",
+      "time": "2026-09-17 02:47:17",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我並沒有屏息等待任何資料，包括CPI。"
+    },
+    {
+      "id": "5098262",
+      "time": "2026-09-17 02:46:49",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們對地緣政治局勢最可能和最不可能發生情況的判斷已經改變。"
+    },
+    {
+      "id": "mkt:01a0ab8a-d46f-7118-85c6-664cc5f09d20",
+      "time": "2026-09-17 02:46:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the neutral interest rate will not have a practical effect on policy decisions."
+    },
+    {
+      "id": "5098261",
+      "time": "2026-09-17 02:46:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：從學術角度我一直對中性利率感興趣，但認為其對當前決策沒有實際操作影響。"
+    },
+    {
+      "id": "5098260",
+      "time": "2026-09-17 02:46:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：已全部完成試飛測試（指MAX 10）。"
+    },
+    {
+      "id": "5098259",
+      "time": "2026-09-17 02:46:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：中性利率對本次決策不構成操作層面的影響。"
+    },
+    {
+      "id": "5098258",
+      "time": "2026-09-17 02:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：MAX 10的適航認證\"很快\"就會獲批。"
+    },
+    {
+      "id": "te:markets:584322",
+      "time": "2026-09-17 02:45:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Trades Near Flat After Fed Decision — The TSX traded near flat around 35,500 on Wednesday following the US Fed’s widely expected decision to raise its benchmark rate by 25 bps to a 3.75%-4% range. Major banks were mostly higher, with CIBC and National Bank up about 1%. Oil prices and sovereign yields eased after their global rally in recent weeks weighed on equity markets, as investors fear central banks will keep monetary policy tighter for longer to contain inflationary pressures from soaring energy prices. Gold prices edged lower following the FOMC decision. Miners traded mostly lower, with WPM erasing earlier gains to fall more than 1.5%. Elsewhere, European Commission President von der Leyen said the EU is opening the door for Canada to become its first “associate member,” with cooperation across sectors including manufacturing, AI, critical minerals and energy. This follows an escalation in the US-Canada trade war after trade talks collapsed last month."
+    },
     {
       "id": "mkt:01a0ab8a-0dbe-7118-85c6-5e54bac0c209",
       "time": "2026-09-17 02:45:46",
