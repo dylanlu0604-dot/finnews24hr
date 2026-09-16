@@ -1,7 +1,138 @@
 {
-  "updated": "2026-09-16 23:09:45",
-  "count": 13369,
+  "updated": "2026-09-16 23:13:35",
+  "count": 13378,
   "items": [
+    {
+      "id": "5097912",
+      "time": "2026-09-16 23:12:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報796.40元。"
+    },
+    {
+      "id": "mkt:01a0aac6-f24c-7118-85bf-96b22e5c7045",
+      "time": "2026-09-16 23:12:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said oil production has returned to normal after a brief decline caused by shutdowns at three oilfields and it does not expect further outages."
+    },
+    {
+      "id": "5097911",
+      "time": "2026-09-16 23:12:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司負責人：目前情況一切正常。"
+    },
+    {
+      "id": "5097910",
+      "time": "2026-09-16 23:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司負責人：我們預計不會有更多產油設施關停。"
+    },
+    {
+      "id": "mkt:01a0aac6-64f5-7118-85bf-8f467b8679f1",
+      "time": "2026-09-16 23:12:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【RABOBANK: Even if Fed damps rate‑hike expectations, dollar unlikely to see large sell‑off】RABOBANK analyst Jane Foley said the Fed may seek to dampen rate‑hike expectations in its upcoming policy decision. The bank still forecasts a 25bp hike but warns the Fed risks undermining market confidence in further tightening because markets have over‑priced policy tightening for next year. Foley said the dollar could weaken in the near term, but a large sell‑off is unlikely given external vulnerabilities elsewhere — notably limited UK fiscal space and the euro area’s status as an energy importer. RABOBANK sees EUR/USD trading around 1.16 over the next 1–3 months."
+    },
+    {
+      "id": "5097909",
+      "time": "2026-09-16 23:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空股價漲幅擴大至4%。"
+    },
+    {
+      "id": "mkt:01a0aac5-3529-7118-85bf-819648308384",
+      "time": "2026-09-16 23:10:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UN Secretary-General Guterres said the world cannot afford a race to the bottom in AI safety standards."
+    },
+    {
+      "id": "mkt:01a0aac4-f88f-7118-85bf-7ed7a8a1eb86",
+      "time": "2026-09-16 23:10:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UN Secretary‑General Guterres said a consensus is needed on how to advance safe development of artificial intelligence."
+    },
+    {
+      "id": "mkt:01a0aac4-a9b4-7118-85bf-7021afc80fb3",
+      "time": "2026-09-16 23:10:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said Russian forces struck a cargo ship in the Black Sea."
+    },
+    {
+      "id": "5097908",
+      "time": "2026-09-16 23:10:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊中一艘貨輪。"
+    },
+    {
+      "id": "5097907",
+      "time": "2026-09-16 23:09:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：世界承受不起人工智慧安全領域的惡性競爭。"
+    },
+    {
+      "id": "mkt:01a0aac4-1170-7118-85bf-6ec12da4802b",
+      "time": "2026-09-16 23:09:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: Two pump stations along Saudi Arabia's east-west oil pipeline were damaged in last week's attack, sources said. Pump stations 8 and 9 were hit; repair timetables remain unclear."
+    },
+    {
+      "id": "5097906",
+      "time": "2026-09-16 23:09:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認荷蘭銀行評級為“AA-”，展望穩定。"
+    },
     {
       "id": "5097905",
       "time": "2026-09-16 23:08:57",
@@ -123106,43 +123237,6 @@
         "國際"
       ],
       "text": "美國 10 年期國債收益率繼續上行至 4.8507%，創 2023 年 11 月以來新高。"
-    },
-    {
-      "id": "te:economy:582468",
-      "time": "2026-09-09 23:13:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Rises to 3-Year High After Buyback — The yield on the 10-year US Treasury note rose to 4.85% on Wednesday, the highest since October of 2023, after the Treasury Department tripled the buyback on notes and bonds to take place tomorrow. The department will purchase $6 billion in off-the-run securities, compared with Secretary Bessent's earlier announcement that buybacks would at least double to $4 billion, among the multiple moves by Washington to supress long-maturity yields. Yields in the long-end of the curve have surged this year as high oil prices due to the war in Iran raised underlying inflation, risking a rate hike by the Federal Reserve in upcoming meetings. This was magnified by record-setting bond supply from corporate debt, with AI companies issuing north of $1.5 trillion in new issuance. On top of that, pressure on the Japanese yen drove Tokyo to repeatedly sell Treasury securities to defend the currency."
-    },
-    {
-      "id": "5085535",
-      "time": "2026-09-09 23:12:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛克希德・馬丁獲 13.2 億美元合同，推進澳大利亞聯合空戰管理系統專案。"
-    },
-    {
-      "id": "5085534",
-      "time": "2026-09-09 23:10:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國 2 年期國債收益率觸及 2023 年 11 月以來高點 4.717%，當日上漲 12 個基點。"
-    },
-    {
-      "id": "5085533",
-      "time": "2026-09-09 23:10:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "彭博美元指數在美國財政部債券回購計劃公佈後收窄跌幅。"
     }
   ]
 }
