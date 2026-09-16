@@ -1,7 +1,77 @@
 {
   "date": "2026-09-17",
-  "count": 456,
+  "count": 462,
   "items": [
+    {
+      "id": "mkt:01a0abac-4076-7118-85c8-21131b4e0352",
+      "time": "2026-09-17 03:23:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh: I will not provide forward guidance】Kevin Warsh said he will not disclose details of future Federal Open Market Committee (FOMC) rate decisions or provide forward guidance. He called today’s rate decision careful, serious and responsible, and said the Fed had been preparing and deliberating for about 110–120 days. Warsh said the decision was based on the Fed’s assessment of current conditions, employment trends and economic strength, not driven by market forces. He added that markets sometimes try to anticipate policy and that he watches market prices for information, but today’s decision was made independently."
+    },
+    {
+      "id": "mkt:01a0abab-fad5-7118-85c8-1d044e6e15b2",
+      "time": "2026-09-17 03:22:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The US International Development Finance Corporation (DFC) approved an €85 mln loan to Ukrainian energy firm DTEK to expand battery storage capacity in central Ukraine. The transaction is DFC's largest direct debt financing to a Ukrainian company since the 2022 Russia-Ukraine conflict."
+    },
+    {
+      "id": "5098344",
+      "time": "2026-09-17 03:22:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數上漲 0.61%，報 100.28，有望創下 6 月 17 日以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a0abab-3131-7118-85c8-151d924fa87d",
+      "time": "2026-09-17 03:21:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Wosh: Fed can curb second- and third-round effects of price shocks】Wosh said the Fed cannot influence individual commodity prices such as oil or groceries, but can and will use policy tools to prevent relative price moves from spreading into second- and third‑round inflationary effects. He made the remarks as U.S. diesel prices hit record highs amid the Iran war."
+    },
+    {
+      "id": "mkt:01a0abaa-d944-7118-85c8-09870c0b85f9",
+      "time": "2026-09-17 03:21:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "JP Morgan (JPM.N) said it will raise its prime rate by 25 bps to 7.00%, effective Thursday, Sept. 17 local time."
+    },
+    {
+      "id": "te:markets:584337",
+      "time": "2026-09-17 03:21:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 23-week Low — ProLogis shares decreased to 133.08 USD, the lowest since April 2026. Over the past 4 weeks, ProLogis lost 5.28%, and in the last 12 months, it increased 16.95%."
+    },
     {
       "id": "5098343",
       "time": "2026-09-17 03:20:29",
