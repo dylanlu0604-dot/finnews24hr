@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-17 06:46:01",
-  "count": 13665,
+  "updated": "2026-09-17 06:49:46",
+  "count": 13664,
   "items": [
+    {
+      "id": "5098512",
+      "time": "2026-09-17 06:49:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時給出 2030 財年 630 億美元的營收預測。"
+    },
+    {
+      "id": "5098511",
+      "time": "2026-09-17 06:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院透過一項針對俄羅斯和伊朗的制裁法案】當地時間9月16日獲悉，美國國會眾議院當天透過一項針對俄羅斯和伊朗的制裁法案，並將其送交美國總統特朗普簽署。該法案名為《2026年林賽·格雷厄姆制裁俄羅斯和伊朗法案》，此前已於8月在參議院獲得透過。據悉，該法案主要針對俄羅斯能源行業，透過對俄羅斯石油和天然的主要購買國採取措施，以削減俄羅斯從能源出口中獲得的收入。此外，應特朗普要求，法案還擴大了針對伊朗武器和能源行業資金來源的制裁授權。（央視新聞）"
+    },
+    {
+      "id": "5098510",
+      "time": "2026-09-17 06:46:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭第二季度GDP超出預期，紐西蘭元兌美元小幅走高。"
+    },
     {
       "id": "5098509",
       "time": "2026-09-17 06:45:13",
@@ -126095,42 +126119,6 @@
         "國際"
       ],
       "text": "【俄稱打擊烏軍工設施和港口等目標 烏稱實施縱深打擊】俄羅斯國防部9日通報稱，俄軍當天繼續對烏克蘭的軍工設施及用於軍事目的的港口、船隻和物流中心進行打擊。同一天，烏克蘭軍方通報稱，烏軍在俄羅斯境內實施了一次縱深打擊。（央視新聞）"
-    },
-    {
-      "id": "5085894",
-      "time": "2026-09-10 06:49:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞武器庫爆炸致過渡政府國防部14人死亡】敘利亞過渡政府國防部9日晚發表宣告說，敘西北部伊德利卜省一個用於儲存武器和戰爭遺留物的臨時倉庫當天發生爆炸，造成14名過渡政府國防部人員死亡，另有包括平民在內的10餘人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:01a0885c-7744-7118-8513-10489d652ef5",
-      "time": "2026-09-10 06:49:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion at Idlib weapons depot kills 14 transitional government defense personnel】Syria’s Transitional Government defense ministry said a temporary weapons and explosive-remnant storage site in Idlib province in northwest Syria exploded on the evening of the 9th, killing 14 ministry personnel and injuring more than 10 people, including civilians. The ministry said it immediately coordinated with authorities to secure and handle the site; an investigation into the cause is ongoing."
-    },
-    {
-      "id": "mkt:01a0885c-321c-7118-8513-0cd47069cde4",
-      "time": "2026-09-10 06:48:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ADBE.O",
-        "Impact bearish"
-      ],
-      "text": "【OpenAI tightens ChatGPT ad policy, restricts ads for rival image and audio generators】According to The Information, OpenAI has told some commercial partners it will no longer accept ads for image- and audio-generation products because they compete with OpenAI’s own features. The change was not previously reported and does not appear in OpenAI’s published ad policy, catching advertisers including Adobe off guard. If extended to other competing products, the restriction could constrain OpenAI’s potential ad revenue; OpenAI had earlier told investors it expected aggressive ad growth and views advertising as a key way to monetize its large non-paying user base."
-    },
-    {
-      "id": "5085893",
-      "time": "2026-09-10 06:47:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：胡塞武裝是獨立行為體。"
     }
   ]
 }
