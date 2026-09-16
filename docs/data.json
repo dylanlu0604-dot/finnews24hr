@@ -1,7 +1,261 @@
 {
-  "updated": "2026-09-17 02:42:23",
-  "count": 13500,
+  "updated": "2026-09-17 02:46:10",
+  "count": 13518,
   "items": [
+    {
+      "id": "mkt:01a0ab8a-0dbe-7118-85c6-5e54bac0c209",
+      "time": "2026-09-17 02:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh: We have decided to withdraw some policy accommodation."
+    },
+    {
+      "id": "te:markets:584321",
+      "time": "2026-09-17 02:45:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Pares Gains After Fed — Gold prices pared early gains to trade little changed around $4,300 an ounce on Wednesday as traders digested the Fed’s latest monetary policy decision. The central bank raised the federal funds rate by 25bps, as expected, and signalled at least one more rate hike this year to curb persistently high inflation. Meanwhile, the Bank of England is expected to leave borrowing costs unchanged tomorrow, while the Bank of Japan is set to raise rates on Friday. Last week, the ECB raised borrowing costs for the second time this year. Oil prices retreated today, but the situation in the Middle East remains fragile, keeping supply risks elevated. The continued energy shock is expected to add further pressure to inflation and could prompt additional monetary tightening."
+    },
+    {
+      "id": "mkt:01a0ab89-f5fe-7118-85c6-578ba811046a",
+      "time": "2026-09-17 02:45:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said his colleagues find it difficult to characterize financial conditions as restrictive."
+    },
+    {
+      "id": "5098257",
+      "time": "2026-09-17 02:45:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我的同事們很難將當前金融狀況描述為具有緊縮性。"
+    },
+    {
+      "id": "mkt:01a0ab89-a10d-7118-85c6-4bf8374015c1",
+      "time": "2026-09-17 02:45:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said he does not rely on any single data point to make policy judgments."
+    },
+    {
+      "id": "mkt:01a0ab89-580f-7118-85c6-423927a42dee",
+      "time": "2026-09-17 02:44:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said today's decision was firm and unanimous."
+    },
+    {
+      "id": "5098256",
+      "time": "2026-09-17 02:44:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：廣泛的資料指向經濟正在走強。"
+    },
+    {
+      "id": "mkt:01a0ab89-06e6-7118-85c6-3df2ecfc3f9d",
+      "time": "2026-09-17 02:44:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed chair Kevin Warsh said the inf trend has failed the test and he sees few factors likely to change that."
+    },
+    {
+      "id": "5098255",
+      "time": "2026-09-17 02:44:06",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：通脹趨勢未透過檢驗，且幾乎未見改變跡象。"
+    },
+    {
+      "id": "mkt:01a0ab88-674e-7118-85c6-3546a1213b3f",
+      "time": "2026-09-17 02:43:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed cannot influence food and oil prices."
+    },
+    {
+      "id": "5098254",
+      "time": "2026-09-17 02:43:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：自上次會議以來的七週裡，資料顯示經濟已有所增強。"
+    },
+    {
+      "id": "mkt:01a0ab88-560d-7118-85c6-2877a36f359f",
+      "time": "2026-09-17 02:43:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said since our last meeting seven weeks ago incoming data indicate the economy has strengthened."
+    },
+    {
+      "id": "mkt:01a0ab88-3209-7118-85c6-27715900644d",
+      "time": "2026-09-17 02:43:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Fed hike may help stabilize bond market】Resonate Wealth CIO Alex Giuliano said the Fed’s rate increase, though largely priced in, may help stabilize the bond market and marks a shift from signaling toughness on inflation to taking concrete action. He added another hike this year wouldn’t be surprising, but warned the Fed prefers not to pre-commit because signaling ahead could lift market rate expectations before meetings and amplify equity volatility."
+    },
+    {
+      "id": "mkt:01a0ab87-f9a5-7118-85c6-1e4474befa24",
+      "time": "2026-09-17 02:43:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will monitor market pricing to see what signals markets convey, but today's decision has already been made."
+    },
+    {
+      "id": "mkt:01a0ab87-c958-7118-85c6-1613f4723d1c",
+      "time": "2026-09-17 02:43:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "USDJPY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the economy's underlying strength allows the Fed to focus on price stability."
+    },
+    {
+      "id": "5098253",
+      "time": "2026-09-17 02:42:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不打算提供前瞻指引。"
+    },
+    {
+      "id": "te:markets:584320",
+      "time": "2026-09-17 02:42:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Rises to 7-Week High — The dollar index rose past the 100 for the first time in nearly seven weeks on Wednesday after the Federal Reserve raised interest rates by 25bps. The decision was unanimous among the FOMC and expected by markets after recent data pointed to elevated gauges of underlying inflation, low unemployment, and a sharp rebound in retail sales that underscores the strong position of consumers despite higher price growth. Projections by the policy-setting committee pointed to a loose consensus that at least one other hike is warranted this year, while unemployment was revised lower and economic growth was revised higher. The decision supported the dollar after earlier remarks by Chairman Warsh raised skepticism over the Fed's willingness to fight inflation through higher policy rates instead of other tools, rekindling a dash to precious metals and other safe currencies. In the meantime, the Bank of England is expected to hold rates unchanged tomorrow, while the Bank of Japan is due to hike."
+    },
+    {
+      "id": "5098252",
+      "time": "2026-09-17 02:42:39",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：關於與總統的討論，我無可奉告。"
+    },
+    {
+      "id": "5098251",
+      "time": "2026-09-17 02:42:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：由於經濟基本面強勁，我們可以專注於價格穩定。"
+    },
+    {
+      "id": "mkt:01a0ab86-eef5-7118-85c6-0f955fa24555",
+      "time": "2026-09-17 02:42:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he has no information to provide about discussions with the President."
+    },
+    {
+      "id": "5098250",
+      "time": "2026-09-17 02:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院投票決定，將億萬富翁萊昂·布萊克（Leon Black）藐視國會案移交司法部處理。"
+    },
+    {
+      "id": "mkt:01a0ab86-cbee-7118-85c6-04919dda4357",
+      "time": "2026-09-17 02:42:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said today's decision was the right decision."
+    },
+    {
+      "id": "mkt:01a0ab86-b7e7-7118-85c5-fa307e7ae92e",
+      "time": "2026-09-17 02:42:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Market pricing has increased bets that the Fed will raise rates two more times this year."
+    },
     {
       "id": "mkt:01a0ab86-2ddf-7118-85c5-f1b101a5d7e2",
       "time": "2026-09-17 02:41:32",
@@ -124325,52 +124579,6 @@
         "其他"
       ],
       "text": "巴西：週三早些時候釋出的行政令所設立的柴油補貼，初始標準為每升 1 雷亞爾。"
-    },
-    {
-      "id": "5085690",
-      "time": "2026-09-10 02:45:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲空間局與瓦斯特公司簽署協議，將執行希臘史上首次宇航員任務。該任務是歐洲空間局與美國國家航空航天局合作開展的第六次國際空間站私人宇航員任務。該任務計劃於 2027 年開展，由SpaceX提供運輸服務，使用搭載在獵鷹 9 號火箭上的龍飛船執行。"
-    },
-    {
-      "id": "mkt:01a0877d-2a6e-7118-850f-e51c70ed389f",
-      "time": "2026-09-10 02:45:22",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "U.S. commercial space startup Vast said the mission is planned for 2027 and will be transported by SpaceX (SPCX.O)'s Dragon spacecraft and launched on a Falcon 9 rocket."
-    },
-    {
-      "id": "5085689",
-      "time": "2026-09-10 02:43:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特稱南部多地再遭胡塞武裝襲擊】沙特領導的多國聯軍稱，葉門胡塞武裝當地時間9月9日使用彈道導彈和無人機襲擊了沙特南部城市海米斯穆謝特、艾卜哈和吉贊。胡塞武裝當天早些時候發訊息稱，沙特戰機對葉門馬裡卜省、焦夫省和塔伊茲省的多個地區發動數十次空襲。（央視新聞）"
-    },
-    {
-      "id": "5085688",
-      "time": "2026-09-10 02:43:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉簽署法令，每升汽油的 PIS/PASEP 及 COFINS 稅下調 0.63 雷亞爾。"
-    },
-    {
-      "id": "mkt:01a0877b-1f24-7118-850f-de1724e0b997",
-      "time": "2026-09-10 02:43:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $101.21/bbl, up $3.29 or 3.36%."
     }
   ]
 }
