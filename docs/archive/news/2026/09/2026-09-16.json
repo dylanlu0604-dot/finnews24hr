@@ -1,7 +1,150 @@
 {
   "date": "2026-09-16",
-  "count": 716,
+  "count": 730,
   "items": [
+    {
+      "id": "5096317",
+      "time": "2026-09-16 09:47:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技註冊資本增至4.04億元】企查查 APP 顯示，宇樹科技股份有限公司近日發生工商變更，註冊資本由 3.64億元增至 4.04億元；登記機關由杭州高新技術產業開發區（濱江）市場監督管理局變更為浙江省市場監督管理局。"
+    },
+    {
+      "id": "mkt:01a0a7e5-1a90-7118-85a7-e07840448245",
+      "time": "2026-09-16 09:46:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share lab-grown diamond sector extended gains; Woerde gained more than 4%, Liliang Diamond, Huifeng Diamond and Guoji Jinggong rose over 3%, Sifangda and Huanghe Whirlwind also advanced."
+    },
+    {
+      "id": "te:markets:584040",
+      "time": "2026-09-16 09:45:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Edge Higher — The benchmark KOSPI edged up to around 6,640 on Wednesday, recovering part of the previous session's loss, amid gains in semiconductor and battery stocks. SK hynix rose more than 1%, while both Samsung Electronics and LG Energy Solution gained nearly 1%, helping lift the index despite a cautious broader market backdrop. Meanwhile, surging oil prices remained a key concern as Brent crude climbed above $108 a barrel amid escalating Middle East tensions and disruptions to a key Saudi oil pipeline. Higher energy prices could add to inflation and raise costs for Korean companies, which are heavily reliant on imported energy. At the same time, the US 10-year Treasury yield briefly topped 5% for the first time since 2007, increasing concerns over equity valuations and financial conditions. Investors also remained cautious ahead of the Federal Reserve's policy decision, watching for signals on the path of US interest rates."
+    },
+    {
+      "id": "5096316",
+      "time": "2026-09-16 09:45:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有機矽概念震盪反彈，新亞強漲停】有機矽概念震盪反彈，新亞強漲停，遠翔新材漲超10%，陽穀華泰、集泰股份、晨光新材、華盛鋰電、新亞製程等跟漲。"
+    },
+    {
+      "id": "mkt:01a0a7e3-8e72-7118-85a7-d86dff2eb333",
+      "time": "2026-09-16 09:45:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "X.N",
+        "Impact bullish"
+      ],
+      "text": "Nippon Steel said U.S. Steel’s Kosice unit will invest about €900 million."
+    },
+    {
+      "id": "mkt:01a0a7e3-7c65-7118-85a7-d2f02d91ac48",
+      "time": "2026-09-16 09:44:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share agriculture sector rebounded after volatile trading; Wanxiang Denong hit the daily limit, while Fujian Jinsen, Tianshan Bio, Qiule Seed and Shennong Seed also advanced."
+    },
+    {
+      "id": "5096315",
+      "time": "2026-09-16 09:44:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工電子板塊短線拉昇，合眾思壯漲停】軍工電子板塊短線拉昇，合眾思壯漲停，六九一二、中海達、銀河電子、航天南湖、成電光信等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a0a7e3-3af8-7118-85a7-cb790cfdf816",
+      "time": "2026-09-16 09:44:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "03750.HK",
+        "Impact bearish",
+        "01772.HK",
+        "09696.HK"
+      ],
+      "text": "Hong Kong-listed lithium battery stocks extended losses: CATL (03750.HK) fell more than 4%; Ganfeng Lithium (01772.HK) and TTANQT LITHIUM (09696.HK) declined over 2%; 03931.HK dropped over 1%."
+    },
+    {
+      "id": "5096314",
+      "time": "2026-09-16 09:44:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲2%，現報3442.00元。"
+    },
+    {
+      "id": "mkt:01a0a7e3-0d34-7118-85a7-c7bf220036ef",
+      "time": "2026-09-16 09:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rep. Thomas Massie files impeachment articles against Defense Secretary Hegseth】Republican Rep. Thomas Massie on Sept. 15 filed articles of impeachment against Defense Secretary Hegseth, accusing him of abuse of power for ordering hostile military action against Iran without congressional approval. The measure is unlikely to pass, but Massie used a privileged motion that forces the House to consider the articles within two legislative days and prevents them being tabled or delayed."
+    },
+    {
+      "id": "5096313",
+      "time": "2026-09-16 09:44:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊區域性走強 閩東電力6連板】電力板塊區域性走強，截至發稿，閩東電力6連板，樂山電力漲停，華銀電力、西昌電力跟漲。"
+    },
+    {
+      "id": "5096312",
+      "time": "2026-09-16 09:44:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【農業板塊震盪回升 萬向德農封漲停】早盤農業板塊震盪回升，萬向德農漲停，福建金森、天山生物、秋樂種業、神農種業等跟漲。"
+    },
+    {
+      "id": "te:markets:584039",
+      "time": "2026-09-16 09:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 8-week Low — HK50 decreased to 24570.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 3.42%, and in the last 12 months, it decreased 8.65%."
+    },
+    {
+      "id": "mkt:01a0a7e2-8bde-7118-85a7-bee6238f98ec",
+      "time": "2026-09-16 09:43:56",
+      "tags": [
+        "MKT News",
+        "06082.HK",
+        "Impact bullish",
+        "00981.HK",
+        "06809.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor stocks were active in early trade; Biren Technology (06082.HK) rose over 4%, while Tianshu Zhixin (09903.HK), Lanqi Technology (06809.HK) and SMIC (00981.HK) also advanced."
+    },
     {
       "id": "5096311",
       "time": "2026-09-16 09:43:28",
