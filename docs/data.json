@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-16 14:15:48",
-  "count": 13450,
+  "updated": "2026-09-16 14:19:35",
+  "count": 13456,
   "items": [
+    {
+      "id": "mkt:01a0a8de-2fee-7118-85ae-2ebe9ced0eb0",
+      "time": "2026-09-16 14:18:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Panasonic Energy launches global battery R&D centre in Osaka】Panasonic Energy Co., Ltd. has opened a new lithium‑ion battery R&D facility, the “Energy Innovation Plaza”, in Kadoma, Osaka Prefecture. The centre will serve as the company’s global battery R&D and production hub—covering materials development, cell design and prototyping—and will coordinate with its Suminoe production development centre in Osaka to accelerate development and scale‑up of next‑generation automotive and data‑centre batteries; related technologies and manufacturing processes will be rolled out to Panasonic plants in Japan and to US factories in Nevada and Kansas."
+    },
+    {
+      "id": "5096689",
+      "time": "2026-09-16 14:18:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰事以來首次 美召八國軍方高官密會】15日，兩名以色列官員表示，美國軍方上週秘密召集以色列和沙烏地阿拉伯、阿拉伯聯合大公國、巴林、科威特、卡達、約旦、埃及的軍方高階官員在德國開會，討論伊朗戰事和中東地區緊張局勢。訊息稱，儘管先前舉行過這類會議，但上週的會議是2月底伊朗戰事爆發以來首次。這場會議由美軍中央司令部司令布拉德·庫珀組織，在德國一處僻靜的度假地舉行。庫珀在會上告訴與會代表，儘管伊朗持續打擊中東美軍基地，但美國不會從中東撤軍。庫珀還簡要介紹了美國擴大霍爾木茲海峽通航量的方案。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a8dd-a0dc-7118-85ae-23dd9607bc1d",
+      "time": "2026-09-16 14:18:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Lagarde: Europe holds ~5% of global AI compute; catch‑up would lift demand for copper, aluminium, silver】ECB President Lagarde said the US controls roughly 75% of global AI compute while Europe accounts for about 5%. If Europe moves to narrow that gap, required investment would go beyond chips and software to large-scale data centers, grid expansion, substations and supporting electrical infrastructure. Such a physical‑infrastructure build would raise demand for industrial metals—notably copper, aluminium and silver—making them potential indirect beneficiaries."
+    },
+    {
+      "id": "5096688",
+      "time": "2026-09-16 14:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克再次暗示特斯拉和SpaceX可能合併】埃隆·馬斯克再次暗示，他麾下的“兩大王牌”：特斯拉和SpaceX之間可能會深化合作，甚至合併。在洛杉磯“All-In Summit”峰會上被問及為何特斯拉和SpaceX儘管關係日益緊密卻仍保持獨立時，馬斯克稱這是一個“好問題”，並暗示雙方關係最終可能促使採取行動。“在這麼多層面上開展如此廣泛的合作，當這麼多領域存在如此密切的合作時，誰能想象可能會採取什麼行動呢？”他補充說。"
+    },
+    {
+      "id": "mkt:01a0a8dc-cf3f-7118-85ae-1e512cebfc74",
+      "time": "2026-09-16 14:17:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NBS to strengthen comprehensive consumption statistics】China's National Bureau of Statistics issued its statistical reform and development 15th Five-Year plan, directing a strengthening of comprehensive consumption statistics: produce province-level estimates for goods and services retail sales; refine classification and methodology for total retail sales of consumer goods; expand service-consumption measurement and underlying data sources and advance regional services retail-sales estimates; enhance monitoring of new consumption formats and online retail; and improve the household consumption expenditure survey."
+    },
+    {
+      "id": "5096687",
+      "time": "2026-09-16 14:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國資深議員：降低汽油銷售稅將是顯而易見的舉措。"
+    },
+    {
+      "id": "5096686",
+      "time": "2026-09-16 14:16:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【法國外貿銀行：美聯儲9月加息仍可能是一次性的】根據法國外貿銀行（Natixis）的說法，雖然美聯儲很可能在本週議息會議後宣佈沃什時代的首次加息，但如果價格壓力在2026年最後一個季度有所緩和，這可能也是本輪週期中唯一的加息。法國外貿銀行經濟學家Christopher Hodge和Selin Aker在該行FOMC會議前瞻報告中寫道，他們認為美聯儲主席凱文·沃什將宣佈“小幅”加息，以刺激通脹。關於是否會進一步加息的問題，Hodge和Aker表示，應關注未來幾個月的通脹資料。"
+    },
+    {
+      "id": "5096685",
+      "time": "2026-09-16 14:16:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【松下新能源在日本設立全球電池研發中心】9月16日，松下集團旗下松下新能源株式會社宣佈，在大阪府門真市啟動新的鋰離子電池研發設施“能源創新廣場”，該設施將成為公司全球電池研發和生產中心，覆蓋材料開發、電芯設計及原型製作。松下新能源表示，能源創新廣場將與大阪市住之江生產開發中心協同，加快汽車和資料中心下一代電池的開發及量產，並將相關技術和製造工藝推廣至日本及美國內華達州、堪薩斯州等地的工廠。新設施約有500名員工，與住之江生產開發中心合計約800人，公司目標到2031財年將開發效率較2024財年提高一倍，並將研發運輸相關週期縮短15%以上。"
+    },
+    {
+      "id": "te:economy:584103",
+      "time": "2026-09-16 14:15:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Jobless Rate Rises to 8.5% — Sweden’s unemployment rate rose to 8.5% in August 2026 from 8.4% in the same period a year earlier. The total number of unemployed people increased by 19.3 thousand from August 2025 to 505.2 thousand, which consists of 251 thousand unemployed women and 255 thousand unemployed men, corresponding to 8.9% and 8.2%, respectively. Among people aged 15-24, 144 thousand were unemployed, corresponding to a youth unemployment rate of 18.4%. The number of long-term unemployed, defined as those jobless for at least 27 weeks, fell by 36 thousand to 168 thousand, with women accounting for 73,000 and men 95,000. Meanwhile, employment among people aged 15-74 rose by 102.6 thousand from a year earlier to 5.4 million, including 2.58 million women, up 61,000, and 2.85 million men. The average total number of hours worked per week stood at 128.7 million. On a seasonally adjusted basis, the unemployment rate was 8.7%, while the youth unemployment stood at 23.8%."
+    },
+    {
+      "id": "5096684",
+      "time": "2026-09-16 14:15:43",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特：美國干預日元操作已“賺取數千萬美元”】美國財長貝森特當地時間週二表示，美方在美日聯手支撐日元匯率的協同干預中，僅動用了“象徵性”的資金，並堅稱該行動符合美國的國家利益。“日元走強既利好美國出口，也意味著日本政府不必為了籌集外匯干預資金而拋售美國資產，”貝森特當天在出席眾議院金融服務委員會聽證會時指出。貝森特在聽證會上強調，僅憑象徵性的金額，“我們便成功傳達了支援日本政策的明確訊號”。據專門聚焦美國財政部的觀察人士測算，美方在本次日元干預中的支出遠低於10億美元；而日本在7月下旬至8月下旬期間，則砸下了創紀錄的964億美元用於干預。貝森特同時透露，儘管盈利“並非初衷”，但美國財政部在這次干預行動中“賺取了數千萬美元”。"
+    },
+    {
+      "id": "5096683",
+      "time": "2026-09-16 14:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國資深議員：降低汽油稅將是可選方案之一。"
+    },
+    {
+      "id": "5096682",
+      "time": "2026-09-16 14:15:36",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【印度證券交易委員會擬放寬套利基金規則，助力收盤集合競價】印度市場監管機構賦予套利型共同基金更大的頭寸管理靈活性，以此為表現低迷的股票收盤集合競價引入流動性。知情人士透露，監管機構允許這類基金最高持有相當於產品規模1%的臨時未對沖頭寸。本次規則放寬，允許基金保留暫時性頭寸錯配，不必時刻保持完全對沖，以此為8月3日上線後參與度低迷的收盤競價吸引資金。"
+    },
+    {
+      "id": "5096681",
+      "time": "2026-09-16 14:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：圍繞培育壯大新興產業和未來產業重大戰略部署，探索建立重點產業統計響應制度】國家統計局制定統計改革發展“十五五”規劃。其中提到，加強工業戰略性新興產業統計。圍繞培育壯大新興產業和未來產業重大戰略部署，探索建立重點產業統計響應制度，圍繞“十五五”規劃《綱要》和中央檔案確定的戰略性產業發展方向，完善相關領域產業分類標準和統計監測，更新工業戰略性新興產業分類目錄，加強工業戰略性新興產業統計監測。開展未來產業統計監測方法研究，研究建立重點領域統計調查和監測評估機制，加強工業經濟新增長點與新動能追蹤。探索開展新興支柱產業和未來產業等重點新興領域統計監測，完善戰略性新興產業融合叢集和先進製造業叢集發展狀況調查，推進統計資料共享。"
+    },
     {
       "id": "mkt:01a0a8da-f79e-7118-85ae-13723733b841",
       "time": "2026-09-16 14:15:17",
@@ -123945,76 +124065,6 @@
         "公司"
       ],
       "text": "【靈初智慧與拓普集團簽署戰略合作協議】9月9日，靈初智慧與拓普集團簽署戰略合作協議。雙方將聚焦具身智慧硬體研發、生產以及B端工業場景，整合資源協同發展，加速推動靈初具身智慧業務規模化落地。"
-    },
-    {
-      "id": "5084315",
-      "time": "2026-09-09 14:19:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙商證券：維持口子窖“買入”評級，Q2繼續出清，收入降幅環比收窄】浙商證券研報指出，口子窖Q2繼續出清，收入降幅環比收窄。26H1公司營業收入/歸母淨利潤分別19.52/3.65億元（-22.89%/-48.97%）。26Q2公司收入/歸母淨利潤分別為5.76/0.36億元（-20.03%/-65.43%）。認為公司加快最佳化產品線和產品結構，推動“賣酒”向“賣生活方式”轉變，制定差異化的產品推廣策略。省內持續精耕，省外打造樣板市場；線上加大營銷力度。26H2低基數下有望環比改善。預計2026-2028年收入分別為32.50/34.37/36.68億元，同比-19%/+6%/+7%;實現歸母淨利潤4.91/5.38/5.91億元，同比-27%/+10%/+10%，對應PE為24/22/20倍。認為公司26H1仍處深度出清狀態，但26Q2降幅環比收窄，深度去化有利於中長期發展，且25H2基數較低，26H2有望環比改善，27年實現正增，因此維持“買入”評級。"
-    },
-    {
-      "id": "5084314",
-      "time": "2026-09-09 14:17:34",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【伊拉克尋求在OPEC+產能評估中將產量基準提高至日產600萬桶】據知情人士透露，在OPEC及其盟友對成員國產能進行評估、以確定明年產量水平之際，伊拉克正尋求大幅提高本國原油產量配額。知情人士稱，作為該組織第二大產油國，伊拉克希望未來產量目標以日產600萬桶為基準計算，較其最近一次採用的基準水平大幅提高。伊拉克石油部未回應置評請求。"
-    },
-    {
-      "id": "te:economy:582279",
-      "time": "2026-09-09 14:17:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machine Tool Orders",
-        "Importance 1"
-      ],
-      "text": "Japan Machine Tool Orders Surge 65.4% in August — Japan’s machine tool orders surged by 65.4% year-on-year to JPY 197,880 million in August 2026, marking the strongest growth since October 2021 and following a 50.4% rise in the previous month. The increase was driven by strong demand from both domestic and overseas markets. Foreign orders climbed 65.8% year-on-year to JPY 146,347 million, following a 50.5% gain in July, while domestic orders rose 61.6% to JPY 51,533 million, after rising 50.2% in the previous month. On a monthly basis, total machine tool orders increased 2.5% in August, reversing a 5.1% fall in the preceding period. For the first eight months of 2026, machine tool orders totaled JPY 1,446,111 million, up 40.9% from the same period a year earlier, as foreign and domestic orders increased 45.1% and 30.4%, respectively."
-    },
-    {
-      "id": "5084313",
-      "time": "2026-09-09 14:17:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長稱西方從未學會公平競爭】俄羅斯外長拉夫羅夫在當地時間9月8日釋出的一段採訪中表示，西方從未學會如何公平競爭，從未學會在不損害他人利益的情況下，實現生存與繁榮。他指出，西方已喪失了主導局勢的客觀能力，於是試圖不擇手段地實施制裁，或是用包括軍事手段在內的直接干預來維持其霸權地位。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5084312",
-      "time": "2026-09-09 14:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央統戰部：多措並舉最佳化民營企業發展環境，推動惠企政策落地】2026年9月9日，國新辦就發展社會主義民主有關情況舉行新聞釋出會。中央統戰部副部長馬利懷會上介紹，“十五五”規劃綱要專門就發展壯大民營經濟作出系統部署，這充分體現了黨中央對民營經濟的高度重視，也彰顯了民營經濟在推動我國經濟社會高質量發展中的重要地位和作用，中央統戰部將和全國工商聯一起，緊緊圍繞黨中央重大決策部署，重點從以下幾方面發力。聚焦高質量發展這個首要任務，指導各地持續開展“創新型成長型民營企業賦能行動”，引導廣大民營企業和民營企業家堅守主業、做強實業，因企制宜發展新質生產力；紮實開展“進企業、解難題、送政策、促發展”活動，多措並舉最佳化民營企業發展環境，推動惠企政策落實落地，2025年全年推動解決要素獲取、賬款拖欠、權益保護、輿論生態等重點難點問題超過6萬個。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:582278",
-      "time": "2026-09-09 14:16:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were set for a weaker open on Wednesday as oil prices extended their gains amid escalating Middle East tensions, raising inflation concerns and strengthening expectations for interest rate hikes. In the latest developments, Iran said it had struck two American vessels and eight oil tankers in the Gulf in retaliation for US attacks on five Iranian tankers near Kharg Island. Investors were also preparing for the European Central Bank’s policy decision on Thursday, with the central bank widely expected to deliver a 25-basis-point rate hike. In corporate news, Dutch semiconductor equipment maker ASML secured commitments from major chipmakers to adopt its latest production technology as demand for more advanced AI hardware continues to surge. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.4%."
-    },
-    {
-      "id": "mkt:01a084cf-5f17-7118-84fe-c7214db2797c",
-      "time": "2026-09-09 14:16:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Morgan Stanley: Geopolitical risk makes oil traders wary of long-dated positions】Morgan Stanley global oil trading co-head Brendan Ross said the Russia-Ukraine conflict and fighting in the Middle East have driven traders to shorten tenor and pare broad derivatives exposure. Market participants are concentrating positions in near-dated maturities—effectively trading only the next 3-6 months—becoming more selective and risk-focused. That shift toward specific instruments has reduced liquidity in long-dated contracts and amplified liquidity cycles. Ross said the physical/financial dislocation is concentrated in the refined products market."
     }
   ]
 }
