@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-16 13:49:17",
+  "updated": "2026-09-16 13:53:09",
   "count": 13414,
   "items": [
+    {
+      "id": "mkt:01a0a8c5-c0ae-7118-85ac-b20116fee50a",
+      "time": "2026-09-16 13:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share brokerage stocks firmed in choppy trading; Hatou Co. jumped over 7%, Zhinanzhen rose more than 4%, while Caitong Securities, Guosheng Securities and Huaan Securities also gained."
+    },
+    {
+      "id": "5096654",
+      "time": "2026-09-16 13:51:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海倫哲：預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升】海倫哲(300201)9月15日接受機構調研時表示，隨著《電化學儲能電站設計標準》（GB/T51048-2025）實施的持續影響以及各地驗收標準的更新實施，預計新增儲能專案逐步向氣溶膠消防方案切換。目前公司在手跟蹤氣溶膠儲能專案已明顯增加，預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升，滲透率將快速上行。"
+    },
+    {
+      "id": "5096653",
+      "time": "2026-09-16 13:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐南非大使表示，此次簽證限制政策僅是一系列升級措施中的第一步。"
+    },
+    {
+      "id": "mkt:01a0a8c3-e295-7118-85ac-a9026d6179c4",
+      "time": "2026-09-16 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "DXY"
+      ],
+      "text": "UK August CPI and RPI monthly rates due in 10 minutes."
+    },
+    {
+      "id": "5096652",
+      "time": "2026-09-16 13:49:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊短線拉昇，哈投股份漲超8%】證券板塊短線拉昇，哈投股份漲超8%，財通證券、國盛證券、華安證券、錦龍股份跟漲。"
+    },
+    {
+      "id": "mkt:01a0a8c3-75af-7118-85ac-a5a04c107c08",
+      "time": "2026-09-16 13:49:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Saudi boosts spot sales from outside Strait of Hormuz after East-West pipeline shutdown】Saudi Arabia has sold about 20 million barrels of crude to Asian refiners for liftings outside the Strait of Hormuz in September–October, traders said. Saudi Aramco offered the cargoes to independent refiners and other East Asian buyers after the East‑West pipeline — which routed oil to the Red Sea and allowed bypassing the Strait — was shut following an attack last week; officials have given no restart timetable. Loadings will be carried out via ship‑to‑ship transfers in Oman Bay, meaning buyers take delivery outside the Hormuz transit leg and are not responsible for that segment."
+    },
+    {
+      "id": "5096651",
+      "time": "2026-09-16 13:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國家航空服務局（PANSA）表示，受軍事飛行活動影響臨時關閉的盧布林和熱舒夫機場已恢復航空運營。"
+    },
     {
       "id": "mkt:01a0a8c2-8df2-7118-85ac-9aa8cf68b65a",
       "time": "2026-09-16 13:48:37",
@@ -123567,74 +123634,6 @@
         "觀點"
       ],
       "text": "【貴金屬板塊短線拉昇，湖南黃金漲超8%】貴金屬板塊短線拉昇，湖南黃金漲超8%，中金黃金、曉程科技、恆邦股份跟漲。"
-    },
-    {
-      "id": "5084284",
-      "time": "2026-09-09 13:53:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4399.06美元/盎司。"
-    },
-    {
-      "id": "mkt:01a084b8-fa24-7118-84fe-5ffa3be76190",
-      "time": "2026-09-09 13:51:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share steel sector rose in afternoon trade; Hegang Resources advanced over 7.5%, while Jinling Mining, Anyang Steel, Baodi Mining and Hainan Mining also gained."
-    },
-    {
-      "id": "mkt:01a084b8-bcef-7118-84fe-530946f7802a",
-      "time": "2026-09-09 13:51:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose about 1% intraday to $4,398.91/oz."
-    },
-    {
-      "id": "5084283",
-      "time": "2026-09-09 13:50:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK海力士工會成員將於下週針對一項此前遭否決的臨時薪資協議再次進行投票。訊息人士稱，此次投票將從下週二開始，為期兩天。"
-    },
-    {
-      "id": "mkt:01a084b7-746c-7118-84fe-4a801ddd194e",
-      "time": "2026-09-09 13:50:10",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "The mayor of Novorossiysk, Russia, said a Ukrainian attack on the city killed four people."
-    },
-    {
-      "id": "mkt:01a084b7-2f2b-7118-84fe-4381e050c821",
-      "time": "2026-09-09 13:49:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Kazakhstan Justice Ministry says enforcement actions against the North Caspian Operating Company oil consortium are ongoing."
-    },
-    {
-      "id": "5084282",
-      "time": "2026-09-09 13:49:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣汽集團表態：堅決不造“速成車” 只下“笨功夫”】近日，廣汽集團對外表態，堅決不造“速成車”，只下“笨功夫”。8月下旬，四部門聯合開展為期一年的生產一致性與質量提升專項行動，本質正是對“速成造車”亂象的糾偏。對此，廣汽集團官方明確表態：造車不趕工期、不壓驗證，每一輛車都要經得起時間考驗。廣汽集團稱，此次並非應對監管的臨時動作，而是廣汽近30年發展歷程中一以貫之的立身原則。（南方都市報）"
     }
   ]
 }
