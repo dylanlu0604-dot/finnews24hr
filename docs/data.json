@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-17 00:08:23",
-  "count": 13415,
+  "updated": "2026-09-17 00:12:16",
+  "count": 13414,
   "items": [
+    {
+      "id": "te:markets:584284",
+      "time": "2026-09-17 00:11:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.53% Higher — The DAX Index gained 135 points or 0.53 percent on Wednesday to close at 25538 points. Gains were led by Hochtief (3.54%), Siemens Energy (3.10%) and RWE (2.81%). Biggest losers were Mercedes-Benz AG (-2.57%), Commerzbank (-2.40%) and Volkswagen (-2.27%)."
+    },
+    {
+      "id": "te:markets:584283",
+      "time": "2026-09-17 00:11:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up on Wednesday — The FTSE 100 rose 0.3% on Wednesday after falling 0.4% in the previous session, as easing oil prices supported sentiment despite a fresh rise in UK inflation. Consumer prices increased 3.1% year-on-year in August, up from 2.9% in July and matching market expectations, although above the Bank of England’s 2.8% forecast. Higher motor-fuel prices, linked to the ongoing Iran conflict, and increased airfares contributed to the acceleration. Markets are now focused on the Federal Reserve’s decision later today and the Bank of England’s meeting on Thursday. Barratt Redrow surged more than 11% after reporting stronger-than-expected annual results, while Persimmon gained 6%. Banks including Standard Chartered, NatWest, Lloyds Banking Group and HSBC all rose after JPMorgan forecast stronger third-quarter trading and investment-banking revenue. On the other hand, energy majors Shell and BP fell more than 2% each."
+    },
+    {
+      "id": "te:markets:584282",
+      "time": "2026-09-17 00:10:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.62% Higher — The CAC 40 Index went up by 50 points or 0.62 percent on Wednesday to close at 8141 points. The rise was led by ArcelorMittal (2.28%), Edenred (2.24%) and ENGIE (1.95%). On the downside, the weakerst performers were Renault (-4.00%), Stellantis NV (-2.97%) and Capgemini (-2.81%)."
+    },
+    {
+      "id": "5097980",
+      "time": "2026-09-17 00:10:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Hugging Face執行長：現行網路法律大機率足以監管高階人工智慧，我甚至認為我們沒必要重新造輪子。"
+    },
+    {
+      "id": "5097978",
+      "time": "2026-09-17 00:08:31",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街對沃什今日講話的預期一覽】華爾街各大銀行重點關注，若美聯儲今日加息，凱文·沃什將如何闡述後續政策路徑：\n巴克萊銀行：預計沃什會強調經濟增長穩健、就業接近充分就業，且通脹水平依舊過高，大體延續此前偏鷹派的表態。\n蒙特利爾銀行：認為沃什不會對後續加息作出明確承諾，將當前適度收緊政策定性為風險管控手段，以避免未來需要更大幅度加息。\n美國銀行：提示沃什面臨艱難平衡。若釋放連續加息訊號，市場可能計價超過100個基點的緊縮幅度；而偏鴿派的加息表態，又會削弱市場對美聯儲2%通脹目標的信心。\n花旗銀行：預計不會新增過多前瞻指引，沃什將重申通脹仍是難題，仍有工作有待完成。\n德意志銀行：希望獲取還需要多大程度額外緊縮的明確資訊。沃什或將把本輪政策週期描述為，逆轉去年75個基點的風險對沖式降息，使政策迴歸具備足夠限制性的水平。\n高盛：預計沃什會強調審慎評估新增經濟資料，或等待多份通脹報告出爐後，再決定下一步政策動作。\n摩根大通：預計政策細節披露有限，但相比以往釋出會，沃什或將更加側重經濟資料。\n野村證券：預計不會給出下一步政策的明確指引，政策走向將高度依賴月度通脹資料。\n渣打銀行：市場會重點審視關稅與通脹問題，關注關稅帶來的影響是否為暫時性，以及美聯儲是否應當等待更明確證據後再進一步收緊政策。\n道明銀行：認為如果美聯儲今日加息，後續大機率還有緊縮動作，沃什將面臨較大溝通壓力。\n瑞銀：預計前瞻指引內容不多，但加息這一行為本身，會增強沃什鷹派言論的說服力。"
+    },
+    {
+      "id": "te:markets:584279",
+      "time": "2026-09-17 00:07:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Higher — Frankfurt’s DAX 40 closed about 0.6% up at 25,559 on Wednesday, halting a two-day losing run, tracking its European peers. Market sentiment improved amid lower oil prices and easing bond yields, despite persistent geopolitical uncertainty. Meanwhile, investors eagerly awaited the Fed’s policy outcome later in the day, which could mark a turning point with a 25 bps rate hike for the first time in three years. Utilities, industrials and tech companies led sectoral gains, while autos lagged. Siemens Energy surged over 3%, making it the top performer, followed by RWE (2.6%), Hochtief (2.6%) and Symrise (2.3%)."
+    },
     {
       "id": "mkt:01a0aaf9-3852-7118-85c0-e11cf524ccf4",
       "time": "2026-09-17 00:07:34",
@@ -123520,71 +123586,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.58% Lower — The FTSE MIB Index fell 302 points or 0.58 percent on Wednesday to close at 51875 points. Leading the losses are Leonardo SpA (-3.75%), Fincantieri (-3.61%) and Poste Italiane (-2.79%). Top gainers were Eni (1.91%), Diasorin (0.52%) and Recordati (0.29%)."
-    },
-    {
-      "id": "5085581",
-      "time": "2026-09-10 00:11:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯：部分食品成本在過去兩年有所下降。"
-    },
-    {
-      "id": "te:markets:582488",
-      "time": "2026-09-10 00:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.66% Lower — The DAX Index dropped 431 points or 1.66 percent on Wednesday to close at 25576 points. Losses were led by Rheinmetall (-4.11%), Siemens (-3.27%) and Infineon (-3.18%)."
-    },
-    {
-      "id": "te:markets:582487",
-      "time": "2026-09-10 00:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 2.03% Lower — The CAC 40 Index decreased 169 points or 2.03 percent on Wednesday to close at 8149 points. The decline was led by Kering (-4.73%), Capgemini (-4.17%) and Saint-Gobain (-4.07%)."
-    },
-    {
-      "id": "5085580",
-      "time": "2026-09-10 00:10:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國民航局（CAA）：9 月 8 日英國國家空中交通服務局（NATS）技術故障引發的航班延誤與取消，大機率屬於 “特殊情況”。旅客不太可能就 9 月 8 日航班中斷獲得賠償。"
-    },
-    {
-      "id": "5085579",
-      "time": "2026-09-10 00:09:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）估算，2026 年迄今全球石油庫存減少 4 億桶，庫存將持續下降至年底。"
-    },
-    {
-      "id": "5085578",
-      "time": "2026-09-10 00:09:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官員：如有必要，伊朗已準備好與美國展開更激烈的戰爭。若美國發動襲擊，伊朗將升級打擊行動。伊朗視這場戰爭關乎自身存亡，除戰鬥外別無選擇。"
-    },
-    {
-      "id": "5085577",
-      "time": "2026-09-10 00:08:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報96.75美元/桶。"
     }
   ]
 }
