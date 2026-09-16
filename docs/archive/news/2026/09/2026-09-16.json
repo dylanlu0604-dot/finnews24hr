@@ -1,7 +1,27 @@
 {
   "date": "2026-09-16",
-  "count": 1141,
+  "count": 1143,
   "items": [
+    {
+      "id": "5096643",
+      "time": "2026-09-16 13:40:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加沙城一建築倒塌致至少9人死亡】卡達半島電視臺16日報道，巴勒斯坦加沙地帶加沙城一棟建築倒塌，造成至少9人死亡、近100人失蹤。（新華社）"
+    },
+    {
+      "id": "te:economy:584093",
+      "time": "2026-09-16 13:40:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kyrgyzstan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Kyrgyzstan Industrial Output Contracts in August — Industrial production in Kyrgyzstan fell 9.6% year-on-year in August 2026, reversing a 6.3% increase in the previous month and marking the first decline after ten consecutive months of annual growth. Production dropped in manufacturing (-11.2% vs 0.4% in July), weighed down by declines in food products, textiles, computers, electronic and optical equipment, and other manufacturing, repair, and installation of machinery and equipment. Output also declined in mining and quarrying (-3.6% vs 38.5%), as well as electricity, gas, steam, and air conditioning supply (-9.8% vs 4.7%). Meanwhile, growth eased in water supply, waste treatment, and recovery of secondary raw materials (19.6% vs 20.3%). Over January-August, industrial output expanded 8.8%, slowing from 12.9% in the same period last year."
+    },
     {
       "id": "5096640",
       "time": "2026-09-16 13:36:39",
