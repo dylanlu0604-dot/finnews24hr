@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-16 23:44:47",
-  "count": 13394,
+  "updated": "2026-09-16 23:48:42",
+  "count": 13403,
   "items": [
+    {
+      "id": "5097955",
+      "time": "2026-09-16 23:48:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數上漲0.5%，創盤中新高；納斯達克100指數上漲1%。"
+    },
+    {
+      "id": "mkt:01a0aae7-1259-7118-85c0-68ba5665f3f6",
+      "time": "2026-09-16 23:47:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources say Saudi Arabia seeks to restore half of a key oil pipeline's capacity within days."
+    },
+    {
+      "id": "5097954",
+      "time": "2026-09-16 23:47:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特計劃數日之內恢復東西輸油管道一半的運力。"
+    },
+    {
+      "id": "5097953",
+      "time": "2026-09-16 23:47:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.02%，現報11401.49點。英偉達漲2.09%，博通漲1.03%，美光漲0.33%，英特爾漲5.47%，AMD漲4.26%，高通漲1.00%，臺積電漲1.58%，阿斯麥漲1.12%。"
+    },
+    {
+      "id": "5097952",
+      "time": "2026-09-16 23:46:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：有能力的國家應就人工智慧建立溝通渠道，設定管控機制。"
+    },
+    {
+      "id": "mkt:01a0aae4-f0aa-7118-85c0-67675533fe71",
+      "time": "2026-09-16 23:45:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Iran's president met Iraqi Kurdish leader Talabani."
+    },
+    {
+      "id": "5097951",
+      "time": "2026-09-16 23:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統會見伊拉克庫爾德領導人塔拉巴尼。"
+    },
+    {
+      "id": "mkt:01a0aae4-2561-7118-85c0-5957b0c0f593",
+      "time": "2026-09-16 23:44:33",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "United Airlines (UAL.O) CFO said if fuel prices remain elevated they could rise further in the short term, prompting increasing structural change across the airline industry."
+    },
+    {
+      "id": "5097950",
+      "time": "2026-09-16 23:44:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：英國首相伯納姆被迫降低對歐重大關係重置的預期，原因是布魯塞爾方面釋放訊號，更傾向於同加拿大深化聯絡。"
+    },
+    {
+      "id": "5097949",
+      "time": "2026-09-16 23:44:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合航空首席財務官：若燃油價格長期維持高位，甚至短期進一步上漲，航空業將出現越來越多結構性變化。"
+    },
     {
       "id": "mkt:01a0aae3-a704-7118-85c0-522a4df6ec19",
       "time": "2026-09-16 23:44:01",
@@ -123375,17 +123464,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Falls Amid Middle East Tensions — The CAC 40 fell 1.9% to close at 8,162 on Wednesday, reversing the previous session’s gains and hitting its lowest level since July as Middle East tensions escalated. Oil prices remained elevated after the US and Iran exchanged strikes near the Strait of Hormuz, heightening inflation concerns and reinforcing expectations that the ECB will raise interest rates by 25 basis points at Thursday’s policy meeting. Domestically, industrial production fell 0.4% month-over-month in July, missing expectations for a 0.3% increase. Losses were broad-based, with industrial and luxury stocks weighing heavily on the index. Airbus fell 2.2% after cutting its long-term demand outlook for single-aisle aircraft in China. Safran shed 3.2%, Thales retreated 3%, Legrand fell 3.8%, and Schneider Electric dropped 3.3%. Luxury stocks also declined amid increased risk aversion, with LVMH falling 3% to its lowest level since November 2020, Hermès shedding 2.2%, and Kering tumbling 4.7%."
-    },
-    {
-      "id": "te:markets:582473",
-      "time": "2026-09-09 23:48:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Falls to 2-Week Low — Wheat fell to $7.10 a bushel, their lowest level in two weeks, as traders weighed diplomatic efforts to end Russia’s war in Ukraine against continued disruption to Black Sea exports. Profit-taking following a strong rally also contributed to the decline. Prices had reached $7.70 on August 28, marking a three-and-a-half-year high, before easing. Ukraine struck targets at the Russian port of Novorossiysk, including a naval base and an oil-loading terminal, renewing concerns over disruptions to Black Sea trade. President Volodymyr Zelenskiy said the attack targeted several facilities, while traders cited unconfirmed reports that grain infrastructure may also have been damaged. However, attention shifted back to diplomacy after the Kremlin said it hoped US-mediated talks would resume soon and identified Abu Dhabi as its preferred venue for negotiations. The prospect of renewed talks helped ease some of the market’s supply concerns."
     }
   ]
 }
