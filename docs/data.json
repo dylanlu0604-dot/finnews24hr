@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-17 03:44:06",
-  "count": 13629,
+  "updated": "2026-09-17 03:47:57",
+  "count": 13627,
   "items": [
+    {
+      "id": "mkt:01a0abc2-8245-7118-85c8-8dfb8dd16f49",
+      "time": "2026-09-17 03:47:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Strategist: Doves forced to shift, Fed may hike at least once more】Seema Shah, chief global strategist at Principal Asset Management, said the market debate has shifted from whether rates will rise again to how many more hikes will follow. She said the Fed's unanimous vote on the recent decision shows rising energy prices and persistent inflation have forced doves to join hawks, making a one-and-done outcome unlikely, and added that with markets pricing multiple hikes policymakers may need at least one more to preserve credibility."
+    },
+    {
+      "id": "mkt:01a0abc2-4d9e-7118-85c8-83a04bf38340",
+      "time": "2026-09-17 03:47:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Warsh: Fed can achieve DISINFLATION without damaging labor market】Fed Chair Kevin Warsh said at a press briefing the Fed can achieve DISINFLATION without harming the labor market, noting the current unemployment rate is broadly consistent with full employment. He added that securing price stability will help sustain longer-term economic growth."
+    },
+    {
+      "id": "mkt:01a0abc1-442e-7118-85c8-794733d736ab",
+      "time": "2026-09-17 03:46:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says Ukraine is preparing talks with partners in the US on advancing peace negotiations and on energy, food security and arms; Kyiv will receive a new support package focused on strengthening air-defense capabilities."
+    },
     {
       "id": "te:economy:584344",
       "time": "2026-09-17 03:42:44",
@@ -125735,52 +125766,6 @@
         "Impact bearish"
       ],
       "text": "Apple (AAPL.O) analyst Gulman said Apple's tech-specs page appears to show the iPhone 18 Pro uses a C2 modem, while the iPhone 18 Pro Max continues to use a Qualcomm modem."
-    },
-    {
-      "id": "5085760",
-      "time": "2026-09-10 03:46:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：不認為有任何一方在軍事上支援伊朗。"
-    },
-    {
-      "id": "5085758",
-      "time": "2026-09-10 03:46:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議員敦促美軍撤離海灣地區，稱“趁還來得及，保全剩餘裝備撤回本土，專注守衛你們自己的邊境”。"
-    },
-    {
-      "id": "mkt:01a087b4-d906-7118-8510-d80e7dae9818",
-      "time": "2026-09-10 03:46:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TPG Capital is working with JP Morgan bankers to explore a possible sale of medical-payments software company Lyric for about $5 billion, sources said."
-    },
-    {
-      "id": "mkt:01a087b4-cbf2-7118-8510-d28c5606ddee",
-      "time": "2026-09-10 03:46:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump: Iran conflict to end after US midterms; oil to fall thereafter】On Sept. 9 at Andrews Joint Base, President Trump said he expects the conflict with Iran to end after the U.S. midterm elections in November, saying the U.S. is not seeking negotiations and that Iran cannot sustain the fight. He also said Iran is attempting to influence the vote to install softer leadership and pursue nuclear weapons. On oil, Trump said prices will take longer than the midterms to ease but insisted they will fall sharply once the conflict ends."
-    },
-    {
-      "id": "5085756",
-      "time": "2026-09-10 03:45:52",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "市場資訊：美國大型私募股權投資機構TPG正聯合摩根大通銀行團隊，探討以50億美元出售醫療支付軟體企業Lyric。"
     }
   ]
 }
