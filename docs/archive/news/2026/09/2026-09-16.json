@@ -1,7 +1,197 @@
 {
   "date": "2026-09-16",
-  "count": 2264,
+  "count": 2285,
   "items": [
+    {
+      "id": "5097905",
+      "time": "2026-09-16 23:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：（霍爾木茲）海峽版泰勒規則為——i = r* + π* + 1.5(π−π*) + 0.5(y−y*) + α(霍爾木茲海峽−霍爾木茲海峽均衡值) + β(曼德海峽−曼德海峽均衡值)，α、β均大於0。看看加息能否打通霍爾木茲海峽，或是產出一桶原油。單憑25個基點的加息，無法解決這個能源咽喉要道的問題；r*也不是中性利率。這是霍爾木茲海峽風險溢價，由我們來決定。預期不再錨定。"
+    },
+    {
+      "id": "mkt:01a0aac3-8529-7118-85bf-6394da91a750",
+      "time": "2026-09-16 23:08:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. and Brent crude extended losses; WTI fell about 4% intraday to $96.88/bbl, Brent down about 3% to $101.74/bbl."
+    },
+    {
+      "id": "mkt:01a0aac3-77f8-7118-85bf-5ad64f3ed373",
+      "time": "2026-09-16 23:08:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "SC front-month crude contract plunged 4.27% intraday to 802.6 yuan/barrel, with turnover exceeding 73 billion yuan. Open interest rose by about 3,300 contracts during the session, with prices falling as positions increased."
+    },
+    {
+      "id": "mkt:01a0aac2-cba9-7118-85bf-5077d872e6b0",
+      "time": "2026-09-16 23:08:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UN Secretary-General Guterres said AI does not respect borders, and its risks do not either. Isolated, unverifiable voluntary pauses on AI will not solve the problem."
+    },
+    {
+      "id": "5097904",
+      "time": "2026-09-16 23:07:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報96.70美元/桶。"
+    },
+    {
+      "id": "5097903",
+      "time": "2026-09-16 23:07:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守105美元/桶，日內跌3.46%。"
+    },
+    {
+      "id": "mkt:01a0aac2-56dc-7118-85bf-4b4385814cda",
+      "time": "2026-09-16 23:07:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UN Secretary-General Guterres said concerns about AI cannot be ignored; national action on AI is critical and global coordination indispensable."
+    },
+    {
+      "id": "5097902",
+      "time": "2026-09-16 23:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長：關於人類滅絕風險的絕對化主張，是逃避人工智慧集體責任的一種方式。"
+    },
+    {
+      "id": "5097901",
+      "time": "2026-09-16 23:07:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報804.60元。"
+    },
+    {
+      "id": "5097900",
+      "time": "2026-09-16 23:07:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守97美元/桶，日內跌3.72%。"
+    },
+    {
+      "id": "5097899",
+      "time": "2026-09-16 23:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：我們不能無視對人工智慧的擔憂。"
+    },
+    {
+      "id": "5097898",
+      "time": "2026-09-16 23:06:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：約旦河西岸逐步吞併的行徑必須停止。沒有兩國方案，就不會有和平。"
+    },
+    {
+      "id": "mkt:01a0aac1-a42d-7118-85bf-4653bc347167",
+      "time": "2026-09-16 23:06:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "France's finance minister said absolute assertions about human extinction risk are a way to evade collective responsibility over AI."
+    },
+    {
+      "id": "5097897",
+      "time": "2026-09-16 23:06:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：俄烏現在應當立即停火。"
+    },
+    {
+      "id": "5097896",
+      "time": "2026-09-16 23:06:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：我們絕不能忘記約旦河西岸和加沙地帶巴勒斯坦人民所遭受的深重苦難。"
+    },
+    {
+      "id": "mkt:01a0aac1-43ba-7118-85bf-3cbdcdc10f4f",
+      "time": "2026-09-16 23:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) reported Mahan Air will suspend Tehran–Muscat flights from Sept. 17 and suspend flights to Turkey from Sept. 21."
+    },
+    {
+      "id": "5097895",
+      "time": "2026-09-16 23:06:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流災害已致1409人遇難】據尼泊爾警方公佈的最新資料，截至當地時間9月16日20時，尼泊爾泥石流災害造成的遇難人數升至1409人。8月26日，尼泊爾邊境地區突發冰川崩塌引發嚴重泥石流災害，造成重大人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "5097894",
+      "time": "2026-09-16 23:05:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示，預計將於今年年底前在芝加哥新增五個登機口。"
+    },
+    {
+      "id": "5097893",
+      "time": "2026-09-16 23:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗馬漢航空自9月17日起暫停德黑蘭至馬斯喀特航線。"
+    },
+    {
+      "id": "5097892",
+      "time": "2026-09-16 23:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗馬漢航空自9月21日起暫停土耳其航線。"
+    },
+    {
+      "id": "5097891",
+      "time": "2026-09-16 23:05:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示，從聯名合作業務角度來看，公司預計今年將實現約80億美元的現金迴流。"
+    },
     {
       "id": "5097890",
       "time": "2026-09-16 23:05:18",
