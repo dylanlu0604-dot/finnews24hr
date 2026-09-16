@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-17 03:32:34",
-  "count": 13622,
+  "updated": "2026-09-17 03:36:26",
+  "count": 13625,
   "items": [
+    {
+      "id": "te:economy:584343",
+      "time": "2026-09-17 03:34:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to 19-Year High — The yield on the 10-year US Treasury note rose to above 5.01% on Wednesday, the highest in 19 years, after the Federal Reserve raised interest rates by 25bps. The move was largely expected by financial markets after recent data pointed to high inflation, low unemployment, and strong consumer spending. Projections by FOMC members pointed to one or two additional rate hikes by next year, consistent with upward revisions to forecasts on inflation and downward revisions to unemployment. Besides higher inflation due to soaring energy prices, the Chairman Warsh also acknowledged that Treasuries have been pressured by competing for capital allocation with soaring corporate debt supply. Still, longer-term maturities rose less than the shorter part of the curve as confidence that the Fed unanimously raised rates to fight inflation restored some credibility for the central bank, after Chairman Warsh had earlier downplayed the urgency of a higher funds rate to reign in price growth."
+    },
+    {
+      "id": "5098359",
+      "time": "2026-09-17 03:34:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【比利時法院裁定比財政部無權拒絕解凍俄BCS銀行資產】比利時最高行政法院近日裁定，比利時財政部缺乏相應法律許可權，無權拒絕解凍俄羅斯BCS銀行被凍結在歐洲清算銀行的資產。但裁決未要求立即解凍BCS銀行被凍結資產，目前尚不明確該銀行是否可以取回相關資產。（央視新聞）"
+    },
+    {
+      "id": "te:markets:584342",
+      "time": "2026-09-17 03:34:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Costco Wholesale Stock Price Hits 36-week Low — Costco Wholesale shares decreased to 893.50 USD, the lowest since January 2026. Over the past 4 weeks, Costco Wholesale lost 6.24%, and in the last 12 months, it decreased 7.17%."
+    },
+    {
+      "id": "mkt:01a0abb5-ecd3-7118-85c8-4bafb0f1aa49",
+      "time": "2026-09-17 03:33:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Gundlach said he would consider buying aggressively if the 30-year U.S. Treasury yield rose to 6.5% for any reason."
+    },
+    {
+      "id": "5098358",
+      "time": "2026-09-17 03:33:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "“新債王”岡拉克：如果 30 年期美國國債收益率因某種原因升至 6.5%，我會考慮大舉買入。"
+    },
     {
       "id": "mkt:01a0abb4-4931-7118-85c8-43e6106b4c84",
       "time": "2026-09-17 03:31:54",
@@ -125682,22 +125736,6 @@
         "Importance 1"
       ],
       "text": "IBM Stock Price Hits 4-week High — IBM shares increased to 241.20 USD, the highest since August 2026. Over the past 4 weeks, IBM gained 1.82%, and in the last 12 months, it decreased 6.34%."
-    },
-    {
-      "id": "mkt:01a087ab-e022-7118-8510-c049db18ff19",
-      "time": "2026-09-10 03:36:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Starlink's next-generation Router4 features a Wi‑Fi7 chip, promises higher peak speeds and coverage up to 3,500 sq ft (325 sq m); aimed at streaming, gaming and general household use, rolling out soon in select regions."
-    },
-    {
-      "id": "5085746",
-      "time": "2026-09-10 03:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "星鏈：新一代星鏈路由器峰值速度更快，覆蓋面積最高可達3500平方英尺（325平方米）。第四代路由器是首款搭載Wi‑Fi 7晶片組的星鏈路由器，專為流媒體、遊戲及日常使用打造。即將在部分地區上線。"
     }
   ]
 }
