@@ -1,7 +1,71 @@
 {
   "date": "2026-09-16",
-  "count": 635,
+  "count": 642,
   "items": [
+    {
+      "id": "5096271",
+      "time": "2026-09-16 09:24:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曹操出行AI打車接入榮耀YOYO】9月15日，曹操出行宣佈，Al打車服務正式接入榮耀YOYO，公司AI出行服務能力首次接入主流手機廠商的系統級智慧體。"
+    },
+    {
+      "id": "5096270",
+      "time": "2026-09-16 09:23:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 中科聞歌漲超5%】截至發稿，中科聞歌(01956.HK)漲5.40%，海清智元(01392.HK)漲4.35%，瀾起科技(06809.HK)漲1.95%，MINIMAX-W(00100.HK)漲0.85%。"
+    },
+    {
+      "id": "5096269",
+      "time": "2026-09-16 09:23:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【胡塞武裝說有關用無人機襲擊麥加的指控是“謊言”】胡塞武裝政治局成員希扎姆·阿薩德16日在社交媒體發文說，有關胡塞武裝使用無人機襲擊麥加的指控是“謊言”。 沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基當天早些時候說，沙特防空部隊15日晚攔截並摧毀了一架飛往麥加的葉門胡塞武裝無人機。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a7cf-7f8c-7118-85a6-d260bbc75898",
+      "time": "2026-09-16 09:23:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【ByteDance 1H 2026 net profit falls as AI spending rises】Market sources say ByteDance's 1H 2026 net profit fell YoY after increasing AI investment. Group revenue rose about 30% YoY in 1H, driven by overseas operations; TikTok-related overseas revenue now exceeds 30% of total (25% in 2024; 30% in 2025) while Douyin remains the largest single revenue contributor. ByteDance did not comment."
+    },
+    {
+      "id": "mkt:01a0a7cf-65c0-7118-85a6-c9e3222dcc0b",
+      "time": "2026-09-16 09:23:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC reverse repos net inject 113 bln yuan today】The PBOC conducted 110 bln yuan of 7-day reverse repos and 600 bln yuan of overnight reverse repos. With 597 bln yuan of overnight reverse repos maturing today, the net injection via open-market operations was 113 bln yuan."
+    },
+    {
+      "id": "5096268",
+      "time": "2026-09-16 09:22:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI據報關注加拿大資料中心機遇，稱能源和土地資源具吸引力】當地時間9月15日，據報道，OpenAI正密切關注加拿大市場，並考慮與當地合作伙伴開展資料中心合作。OpenAI負責國家事務的高管喬治·奧斯本表示，加拿大對公司是“非常重要的市場”，能源和土地供應為建設資料中心提供了潛力。"
+    },
+    {
+      "id": "5096267",
+      "time": "2026-09-16 09:22:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1130億元人民幣。"
+    },
     {
       "id": "mkt:01a0a7cd-a332-7118-85a6-c2952600fab0",
       "time": "2026-09-16 09:21:06",

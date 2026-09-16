@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-16 09:21:35",
-  "count": 13388,
+  "updated": "2026-09-16 09:25:21",
+  "count": 13385,
   "items": [
+    {
+      "id": "5096271",
+      "time": "2026-09-16 09:24:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曹操出行AI打車接入榮耀YOYO】9月15日，曹操出行宣佈，Al打車服務正式接入榮耀YOYO，公司AI出行服務能力首次接入主流手機廠商的系統級智慧體。"
+    },
+    {
+      "id": "5096270",
+      "time": "2026-09-16 09:23:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 中科聞歌漲超5%】截至發稿，中科聞歌(01956.HK)漲5.40%，海清智元(01392.HK)漲4.35%，瀾起科技(06809.HK)漲1.95%，MINIMAX-W(00100.HK)漲0.85%。"
+    },
+    {
+      "id": "5096269",
+      "time": "2026-09-16 09:23:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【胡塞武裝說有關用無人機襲擊麥加的指控是“謊言”】胡塞武裝政治局成員希扎姆·阿薩德16日在社交媒體發文說，有關胡塞武裝使用無人機襲擊麥加的指控是“謊言”。 沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基當天早些時候說，沙特防空部隊15日晚攔截並摧毀了一架飛往麥加的葉門胡塞武裝無人機。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a7cf-7f8c-7118-85a6-d260bbc75898",
+      "time": "2026-09-16 09:23:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【ByteDance 1H 2026 net profit falls as AI spending rises】Market sources say ByteDance's 1H 2026 net profit fell YoY after increasing AI investment. Group revenue rose about 30% YoY in 1H, driven by overseas operations; TikTok-related overseas revenue now exceeds 30% of total (25% in 2024; 30% in 2025) while Douyin remains the largest single revenue contributor. ByteDance did not comment."
+    },
+    {
+      "id": "mkt:01a0a7cf-65c0-7118-85a6-c9e3222dcc0b",
+      "time": "2026-09-16 09:23:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC reverse repos net inject 113 bln yuan today】The PBOC conducted 110 bln yuan of 7-day reverse repos and 600 bln yuan of overnight reverse repos. With 597 bln yuan of overnight reverse repos maturing today, the net injection via open-market operations was 113 bln yuan."
+    },
+    {
+      "id": "5096268",
+      "time": "2026-09-16 09:22:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI據報關注加拿大資料中心機遇，稱能源和土地資源具吸引力】當地時間9月15日，據報道，OpenAI正密切關注加拿大市場，並考慮與當地合作伙伴開展資料中心合作。OpenAI負責國家事務的高管喬治·奧斯本表示，加拿大對公司是“非常重要的市場”，能源和土地供應為建設資料中心提供了潛力。"
+    },
+    {
+      "id": "5096267",
+      "time": "2026-09-16 09:22:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1130億元人民幣。"
+    },
     {
       "id": "mkt:01a0a7cd-a332-7118-85a6-c2952600fab0",
       "time": "2026-09-16 09:21:06",
@@ -123347,105 +123411,6 @@
         "SZSE Component"
       ],
       "text": "China A-shares opened higher: Shanghai Composite +0.09%, Shenzhen Composite +0.63%, ChiNext +1.15%. Newly listed stock N Luozhou jumped more than 70% at the open."
-    },
-    {
-      "id": "5083953",
-      "time": "2026-09-09 09:25:20",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.09％，深成指漲0.63％，創業板漲1.15％。"
-    },
-    {
-      "id": "mkt:01a083c4-5673-7118-84f8-189cd09162ec",
-      "time": "2026-09-09 09:24:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China EV Leaders",
-        "7203.T",
-        "Impact bearish",
-        "7201.T",
-        "7267.T"
-      ],
-      "text": "【Japan's big three post double-digit YoY drops in August China sales】As of Sept 9, Toyota, Nissan and Honda reported August China new-vehicle sales, all down double-digit YoY. Toyota sold 118,400 units in August, down 22.8% YoY and the seventh consecutive month below year-ago levels. Nissan sold 28,275 units, down 51.9% YoY and near-halved; this is Nissan's fifth straight month of YoY decline. Honda sold 26,749 units, down 49.9% YoY and near-halved; Honda has been below year-ago levels for 31 consecutive months. Analysts say intensifying price competition among Chinese EV makers is shifting demand toward lower-priced EVs and away from Japanese automakers' internal-combustion models."
-    },
-    {
-      "id": "mkt:01a083c4-4d6e-7118-84f8-10372269a523",
-      "time": "2026-09-09 09:24:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Liquidity gauge: market rates rebound toward policy rate】Early Sept. 9, DR007 rebounded to 1.3900%, closing in on the 1.4% policy rate. The PBOC conducted no reverse repos today, recording zero injections and zero withdrawals. DR007 is a short-term money-market rate that reflects funding conditions; the spread versus the PBOC 7-day reverse repo (policy rate) signals market tightness—a sizable DR007 premium over the policy rate may indicate cash scarcity and prompt PBOC liquidity action, while a lower DR007 implies ample funding."
-    },
-    {
-      "id": "5083952",
-      "time": "2026-09-09 09:24:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代等在廈門成立創投基金，出資額50億元】企查查APP顯示，近日，廈門時代怡遠創業投資基金合夥企業（有限合夥）成立，出資額約50億元，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動。企查查股權穿透顯示，該企業由寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司等共同出資。"
-    },
-    {
-      "id": "5083951",
-      "time": "2026-09-09 09:23:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信重工在山西成立特種材料科技公司】企查查APP顯示，近日，中信重工（山西）特種材料科技有限公司成立，經營範圍包含：黑色金屬鑄造；有色金屬鑄造；模具製造；金屬製品銷售；模具銷售等。企查查股權穿透顯示，該公司由中信重工全資持股。"
-    },
-    {
-      "id": "5083950",
-      "time": "2026-09-09 09:23:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "勒布朗：正在與美國貿易代表格里爾聯絡。"
-    },
-    {
-      "id": "5083949",
-      "time": "2026-09-09 09:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗：加拿大正在評估美國最新的關稅措施。"
-    },
-    {
-      "id": "mkt:01a083c2-8c07-7118-84f8-0b0ac129a04a",
-      "time": "2026-09-09 09:22:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "【Skyworth Digital signs three-year smart-home partnership with Google Asia Pacific】Shenzhen Skyworth Digital signed a smart-home cooperation agreement with Google Asia Pacific Pte. Ltd. Under a three-year strategic partnership the company will act as an authorized smart-home partner and smart-home service distributor, collaborating on products and services built on the Google Home platform and Gemini AI large-model capabilities. The agreement brings Skyworth into Google’s smart-home cooperation network and is intended to support the company’s global AI/ecosystem rollout and expansion into European markets."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609093868919241",
-      "time": "2026-09-09 09:22:23",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "5083948",
-      "time": "2026-09-09 09:21:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
     }
   ]
 }
