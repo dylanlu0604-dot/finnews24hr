@@ -1,7 +1,242 @@
 {
   "date": "2026-09-17",
-  "count": 414,
+  "count": 437,
   "items": [
+    {
+      "id": "5098332",
+      "time": "2026-09-17 03:11:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛股價跌幅擴大至4%。"
+    },
+    {
+      "id": "mkt:01a0aba1-db6f-7118-85c7-c2d81af51d2e",
+      "time": "2026-09-17 03:11:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,240/oz, about $120 lower than before the Federal Reserve decision, off 1.24% on the day."
+    },
+    {
+      "id": "te:markets:584333",
+      "time": "2026-09-17 03:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Stock Price Hits 10-week Low — Alibaba shares decreased to 107.17 USD, the lowest since July 2026. Over the past 4 weeks, Alibaba lost 13.98%, and in the last 12 months, it decreased 33.87%."
+    },
+    {
+      "id": "mkt:01a0aba1-5254-7118-85c7-b9a8955035b7",
+      "time": "2026-09-17 03:11:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Fed chair Kevin Warsh: growth momentum strengthened; inflation remains the problem】Fed Chair Kevin Warsh said that since Fed policymakers last met in June the US economy has strengthened and underlying growth momentum has picked up. He described the labor market as essentially at full employment but said inflation trends have shown no improvement, noting price stability has been unsettled for more than five-and-a-half years; recent weeks' broad data also point to a stronger economy."
+    },
+    {
+      "id": "te:markets:584332",
+      "time": "2026-09-17 03:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Stock Price Hits 13-week Low — Parker-Hannifin shares decreased to 913.01 USD, the lowest since June 2026. Over the past 4 weeks, Parker -Hannifin lost 13.17%, and in the last 12 months, it increased 23.9%."
+    },
+    {
+      "id": "te:markets:584331",
+      "time": "2026-09-17 03:11:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit 6-week Low — US100 decreased to 28867.00 Index Points, the lowest since August 2026. Over the past 4 weeks, US 100 Tech Index lost 3.73%, and in the last 12 months, it increased 19.21%."
+    },
+    {
+      "id": "5098331",
+      "time": "2026-09-17 03:10:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守63美元/盎司，日內跌1.37%。"
+    },
+    {
+      "id": "5098330",
+      "time": "2026-09-17 03:10:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "mkt:01a0aba0-bd84-7118-85c7-b48807a74e21",
+      "time": "2026-09-17 03:10:33",
+      "tags": [
+        "MKT News",
+        "CRM.N"
+      ],
+      "text": "Salesforce (CRM.N): an earlier service incident has been resolved; stability and performance have returned to expected levels."
+    },
+    {
+      "id": "5098329",
+      "time": "2026-09-17 03:10:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4280美元/盎司，日內跌1.22%。"
+    },
+    {
+      "id": "5098328",
+      "time": "2026-09-17 03:10:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報63.22美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0aba0-821c-7118-85c7-af6b08c9bde6",
+      "time": "2026-09-17 03:10:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,250/oz, down 1.01% intraday."
+    },
+    {
+      "id": "mkt:01a0aba0-78c2-7118-85c7-a4b74f0b3829",
+      "time": "2026-09-17 03:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Four sources said the U.S. Postmaster General has told colleagues he wants to resign."
+    },
+    {
+      "id": "5098326",
+      "time": "2026-09-17 03:10:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4250美元/盎司，日內跌1.05%。"
+    },
+    {
+      "id": "5098325",
+      "time": "2026-09-17 03:10:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國郵政署署長表示有意辭職。"
+    },
+    {
+      "id": "te:economy:584329",
+      "time": "2026-09-17 03:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Saudi Central Bank Raises Benchmark Rate — The Saudi Central Bank raised its benchmark repo rate by 25 bps to 4.50% in September 2026, mirroring the Federal Reserve’s decision. The move followed the Fed’s announcement that it would raise the target range for the federal funds rate by 25 bps to 3.75%-4% at its meeting, while a majority of FOMC members projected another hike this year. The decision reflects Saudi Arabia’s practice of aligning its monetary policy with that of the US, given the riyal’s peg to the dollar."
+    },
+    {
+      "id": "5098324",
+      "time": "2026-09-17 03:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時稱此前的服務故障現已修復。"
+    },
+    {
+      "id": "5098323",
+      "time": "2026-09-17 03:09:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4250.79美元/盎司。"
+    },
+    {
+      "id": "5098322",
+      "time": "2026-09-17 03:09:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4288.89美元/盎司。"
+    },
+    {
+      "id": "5098321",
+      "time": "2026-09-17 03:09:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4290美元/盎司，日內跌1.01%。"
+    },
+    {
+      "id": "mkt:01a0ab9f-afcd-7118-85c7-9ff5958bb721",
+      "time": "2026-09-17 03:09:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed chair Kevin Warsh: inflation too high, persistent; summer data shows no clear improvement】Fed chair Kevin Warsh opened his press conference saying he and other policymakers are dissatisfied with the current pace of inflation. He said price stability is their primary focus and that \"inflation is too high and has persisted too long,\" adding this summer's data has not shown a meaningful improvement in trend. Warsh flagged that recent CPI and PPI releases include too many categories with six- and 12-month gains above 3 pct. He reiterated the FOMC's remit to achieve full employment and price stability and to support a robust US economy."
+    },
+    {
+      "id": "mkt:01a0ab9f-8d6b-7118-85c7-965030ce27a9",
+      "time": "2026-09-17 03:09:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House spokesman says President Trump still believes in the Federal Reserve's independence."
+    },
+    {
+      "id": "5098320",
+      "time": "2026-09-17 03:09:07",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮發言人：特朗普仍然相信美聯儲的獨立性。"
+    },
     {
       "id": "mkt:01a0ab9f-019c-7118-85c7-8d9cf710f020",
       "time": "2026-09-17 03:08:39",
