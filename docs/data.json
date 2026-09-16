@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-17 03:47:57",
-  "count": 13627,
+  "updated": "2026-09-17 03:51:47",
+  "count": 13631,
   "items": [
+    {
+      "id": "5098369",
+      "time": "2026-09-17 03:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一位瞭解相關情況的地區訊息人士證實，美國外交官上週末在阿曼的美國大使館與胡塞武裝代表會面，討論了紅海局勢緊張問題。"
+    },
+    {
+      "id": "mkt:01a0abc4-b39a-7118-85c8-9def02d8162d",
+      "time": "2026-09-17 03:49:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Wash's 28-minute press conference; predecessors averaged 54 minutes】A 2021 Federal Reserve study covering the Bernanke, Yellen and Powell eras found FOMC press conferences averaged about 54 minutes total, with roughly 10 minutes of opening remarks, about 44 minutes of media Q&A and an average of ~22 questions including follow-ups. A separate Fed study noted press conferences that begin ~30 minutes after the FOMC statement typically run about one hour. Wash's first press conference after taking office in 2026 lasted about 42 minutes; his latest in September ran roughly 28 minutes."
+    },
+    {
+      "id": "mkt:01a0abc4-81cf-7118-85c8-924e41c9e643",
+      "time": "2026-09-17 03:49:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Chris Zaccarelli, CIO of Northlight Asset Management, said history shows that once the Fed begins raising rates it typically follows with multiple hikes, but it is unclear whether the Fed will raise at consecutive meetings or pause and keep rates unchanged at some meetings between hikes."
+    },
+    {
+      "id": "5098368",
+      "time": "2026-09-17 03:48:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "西南航空CFO：公司尚未決定開通國際長途航線，但 “絕對在考慮” 這件事。"
+    },
     {
       "id": "mkt:01a0abc2-8245-7118-85c8-8dfb8dd16f49",
       "time": "2026-09-17 03:47:26",
