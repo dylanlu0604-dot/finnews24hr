@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-17 03:40:18",
-  "count": 13626,
+  "updated": "2026-09-17 03:44:06",
+  "count": 13629,
   "items": [
+    {
+      "id": "te:economy:584344",
+      "time": "2026-09-17 03:42:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kuwait",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Kuwait Central Bank Holds Key Rate at 3.50% — The Central Bank of Kuwait held its key discount rate at 3.50% in September 2026, stating that current data reflected “the soundness and strength of monetary and financial stability” in the country. Gulf oil and gas exporters generally follow the Fed’s lead on rate moves, as most regional currencies are pegged to the US dollar. The Kuwaiti dinar is the exception, as it is pegged to a basket of currencies that includes the dollar. Most central banks in the Gulf Cooperation Council raised key interest rates following the US Federal Reserve’s decision to hike. Kuwait’s economy is expected to contract 8.1% this year, as the Iran war disrupted energy shipments through the effective closure of the Strait of Hormuz, damaged energy production facilities, and reduced traffic, affecting tourism and business across the Gulf region."
+    },
+    {
+      "id": "mkt:01a0abbc-98c6-7118-85c8-7183634012f6",
+      "time": "2026-09-17 03:40:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell sharply on the 16th】At the close on the 16th, NYMEX October light crude futures fell $3.40 to $102.43 a barrel, down 3.21%. ICE Brent November futures fell $2.92 to $105.83 a barrel, down 2.69%."
+    },
+    {
+      "id": "mkt:01a0abbc-878b-7118-85c8-6977e2d7493d",
+      "time": "2026-09-17 03:40:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim reported a major fire at an oil facility in Kirkuk province, northern Iraq; an oil-products storage warehouse caught fire and emergency crews are battling the blaze."
+    },
+    {
+      "id": "mkt:01a0abbc-64c8-7118-85c8-6143c0205c4d",
+      "time": "2026-09-17 03:40:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.64% on 16th to 100.252】The dollar index, which measures the US dollar against six major currencies, rose 0.64% to 100.252 at the New York close. EUR/USD fell to 1.1470 from 1.1543; GBP/USD fell to 1.3382 from 1.3481. USD/JPY rose to 155.92 from 155.09; USD/CHF rose to 0.8250 from 0.8185; USD/CAD rose to 1.3994 from 1.3917; USD/SEK rose to 9.8598 from 9.7773."
+    },
+    {
+      "id": "5098362",
+      "time": "2026-09-17 03:40:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家銀行向黑石集團與谷歌母公司Alphabet提供220億美元與晶片相關的貸款】知情人士透露，由 10 家銀行組成的財團將提供一筆 220 億美元晶片貸款，用以支援黑石集團和谷歌母公司Alphabet新設立的雲業務企業 Crux AI。這是 AI 競賽中，為採購核心高價處理器推出的又一筆鉅額融資交易。據知情人士介紹，貸款資金將用於採購谷歌自研晶片 —— 張量處理器（TPU），貸款擔保物為這批晶片的資產價值以及 Crux AI 的客戶合同。 訊息人士稱，參與本次貸款的銀行包括高盛集團、三井住友銀行、巴克萊銀行、法國巴黎銀行以及加拿大豐業銀行。訊息人士補充，該銀行團正透過銀團分銷引入更多出資方，分攤信貸風險。這筆債務未來有可能置換為投資級債券市場機構投資者提供的長期融資。另有訊息人士稱，部分銀行還將單獨配套提供 10 億美元迴圈信貸額度。"
+    },
     {
       "id": "mkt:01a0abbb-5317-7118-85c8-5d370292d37d",
       "time": "2026-09-17 03:39:35",
@@ -125721,23 +125781,6 @@
         "國際"
       ],
       "text": "市場資訊：美國大型私募股權投資機構TPG正聯合摩根大通銀行團隊，探討以50億美元出售醫療支付軟體企業Lyric。"
-    },
-    {
-      "id": "5085755",
-      "time": "2026-09-10 03:43:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特呼籲參議院透過《加密貨幣明晰法案》。"
-    },
-    {
-      "id": "5085751",
-      "time": "2026-09-10 03:40:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普登機前空軍一號放下應急滑梯】特朗普是在安德魯斯聯合基地準備搭乘“空軍一號”專機前往達拉斯參加共和黨中期選舉集會時對媒體發表講話。據美國媒體報道，特朗普抵達時，“空軍一號”的應急滑梯因“測試”處於放下的狀態，導致特朗普的行程延誤。 （CCTV國際時訊）"
     }
   ]
 }
