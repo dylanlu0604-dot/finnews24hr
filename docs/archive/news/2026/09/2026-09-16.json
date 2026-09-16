@@ -1,7 +1,64 @@
 {
   "date": "2026-09-16",
-  "count": 780,
+  "count": 786,
   "items": [
+    {
+      "id": "5096360",
+      "time": "2026-09-16 10:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省原洛陽高新技術產業開發區黨工委書記馬志強接受審查調查】據河南省紀委監委訊息：河南省原洛陽高新技術產業開發區黨工委書記、管委會主任馬志強涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a0a7f5-ee53-7118-85a8-357beb06c7b0",
+      "time": "2026-09-16 10:05:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bullish",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【Asian currencies broadly weaker ahead of Fed decision】Asian currencies were broadly softer in Asian morning trade ahead of the Federal Reserve's policy decision later today. Fed funds futures imply roughly a 92% probability of a 25bp hike — which would be the first increase since 2023 — and markets will focus on Fed Chair Kevin Warsh's press conference and updated economic projections. LSEG data showed USD/JPY up 0.2% at 155.43, USD/KRW up 0.6% at 1370.92, and AUD/USD down 0.1% at 0.7125."
+    },
+    {
+      "id": "mkt:01a0a7f5-21b0-7118-85a8-2a6230bbf480",
+      "time": "2026-09-16 10:04:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate contract down 4.00% intraday at 124,320 yuan/ton."
+    },
+    {
+      "id": "5096358",
+      "time": "2026-09-16 10:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "寧德時代A股、港股延續跌勢，均跌超4%，A股股價下行接近300元關口。"
+    },
+    {
+      "id": "5096357",
+      "time": "2026-09-16 10:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度2027財年財政赤字佔GDP比重可能接近4.3%。"
+    },
+    {
+      "id": "5096356",
+      "time": "2026-09-16 10:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新奧聚變“和龍-2”裝置建設專案在廊坊開工】新奧聚變釋出訊息稱，9月15日上午，“和龍-2”裝置建設專案開工儀式在河北省廊坊經濟技術開發區新奧聚變研發中心舉行。該專案佔地約120畝，重點建設十餘套核心系統，用於氫硼聚變實驗平臺建設。按計劃，2027年6月底園區具備裝置入場條件，2027年底完成裝置建設除錯並進入實驗階段，目標是2030年點亮氫硼聚變的第一盞燈。"
+    },
     {
       "id": "5096355",
       "time": "2026-09-16 10:02:07",
