@@ -1,7 +1,54 @@
 {
   "date": "2026-09-16",
-  "count": 608,
+  "count": 613,
   "items": [
+    {
+      "id": "5096251",
+      "time": "2026-09-16 09:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 最新投資或將用於併購。"
+    },
+    {
+      "id": "5096250",
+      "time": "2026-09-16 09:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：如果OpenAI進行新一輪融資，可能會推遲IPO。"
+    },
+    {
+      "id": "5096249",
+      "time": "2026-09-16 09:07:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲議會就休達移民危機展開辯論】15日，位於法國斯特拉斯堡的歐洲議會就休達移民危機問題展開辯論，並預計將於17日就休達局勢相關決議進行表決。在當天的會議上，歐洲議會議員與歐盟方面的代表討論了今年7月底大批移民湧入西班牙飛地休達後的人道主義和安全形勢，以及歐盟層面可能採取的協調應對措施。歐盟內政和移民事務專員布魯納在發言中表示，確保所有非法滯留休達的人員迅速返回，仍是歐盟當前的首要任務。他強調，歐盟需要從休達局勢中吸取教訓，彌補現有漏洞、加強外部邊境管控，維護申根區正常執行。"
+    },
+    {
+      "id": "mkt:01a0a7c0-d642-7118-85a6-9076da6e18c2",
+      "time": "2026-09-16 09:07:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USO",
+        "Impact bullish",
+        "BNO"
+      ],
+      "text": "【Crude ETF holdings: Brent nominal exposure rises for third straight day】Sept 15 — WTI (USO) nominal exposure about 20.61 mln bbl, up ~2,000 bbl on the day. Brent (BNO) futures holdings about 7.016 mln bbl, up ~147,000 bbl on the day, marking a third consecutive daily increase in Brent nominal exposure."
+    },
+    {
+      "id": "5096248",
+      "time": "2026-09-16 09:06:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國鋼鐵將向斯洛伐克鋼鐵廠投資約9億歐元】日本製鐵旗下美國鋼鐵科希策公司將投資約9億歐元，在斯洛伐克科希策廠區建設一座電弧爐及空分裝置。該項投資可獲得斯洛伐克政府最高3.5億歐元補貼。該電弧爐年產能約160萬噸。專案預計2030年投產。"
+    },
     {
       "id": "mkt:01a0a7bf-f316-7118-85a6-8bc50c873e12",
       "time": "2026-09-16 09:06:09",
