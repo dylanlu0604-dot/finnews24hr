@@ -1,7 +1,126 @@
 {
-  "updated": "2026-09-16 09:25:21",
-  "count": 13385,
+  "updated": "2026-09-16 09:29:04",
+  "count": 13386,
   "items": [
+    {
+      "id": "5096279",
+      "time": "2026-09-16 09:28:33",
+      "tags": [
+        "觀點",
+        "央行",
+        "其他"
+      ],
+      "text": "【潘功勝：貸款降速提質或將成為宏觀執行的新常態之一】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，貸款降速提質或將成為宏觀執行的新常態之一。當前超過280萬億元的貸款餘額中，房地產、地方融資平臺的貸款佔比仍然較大，這些領域不僅不再增長，反而還在下降。2025年至2026年上半年，房地產貸款餘額累計下降超2萬億元。其他領域的貸款要先填補上這個下降的部分，才能帶來總量上的增長。隨著經濟結構轉型和信貸結構變化，實體經濟需要的信貸增長也在發生變化。全部信貸要保持過去的增速是很難的，也是沒有必要的。對於支撐經濟增長來說，盤活低效存量貸款和新增貸款的意義本質上是相同的。"
+    },
+    {
+      "id": "5096278",
+      "time": "2026-09-16 09:28:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡元<SGD=>兌美元跌至1.2738，為9月2日以來最低。"
+    },
+    {
+      "id": "mkt:01a0a7d3-9daf-7118-85a6-f2fa5a504494",
+      "time": "2026-09-16 09:27:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "At Wednesday's open, China's Shanghai Composite Index fell 2.53 points (-0.07%) to 3,861.75; Shenzhen Composite Index fell 11.12 points (-0.08%) to 13,276.85; CSI 300 Index eased 0.16 points (0.00%) to 4,449.88; ChiNext Index fell 1.03 points (-0.03%) to 3,246.89; STAR 50 Index rose 6.42 points (+0.41%) to 1,558.38."
+    },
+    {
+      "id": "mkt:01a0a7d3-9c67-7118-85a6-eea97ef7b32f",
+      "time": "2026-09-16 09:27:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share wind power equipment sector opened higher; Jixin Technology hit a second consecutive daily limit-up. Xihua Technology, Tianshun Wind Energy, Dajin Heavy Industry, Guangda Special Materials and Hezhan Energy also advanced."
+    },
+    {
+      "id": "5096277",
+      "time": "2026-09-16 09:27:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【風電裝置板塊小幅高開，吉鑫科技2連板】風電裝置板塊小幅高開，吉鑫科技2連板，錫華科技、天順風能、大金重工、廣大特材、和展能源跟漲。"
+    },
+    {
+      "id": "5096276",
+      "time": "2026-09-16 09:26:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲5%，現報8722.00元。"
+    },
+    {
+      "id": "5096275",
+      "time": "2026-09-16 09:26:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic將在新加坡設立辦公室，尋求擴大亞太業務】當地時間9月15日，人工智慧公司Anthropic宣佈將於10月在新加坡開設辦公室，這是公司在亞太地區設立的第五個辦公地點。公司表示，此舉是擴大亞太業務佈局的一部分，主要受到企業客戶對Claude需求增長的推動。Anthropic稱，新加坡人均Claude使用量位居全球前列，金融服務、政府等受監管行業的需求尤為強勁。"
+    },
+    {
+      "id": "5096274",
+      "time": "2026-09-16 09:26:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【信諾維上市首日開盤大漲超72%】信諾維上市首日開盤漲72.36%，現報47.57元，該股發行價為27.6元。按開盤價計算，投資者中一簽（500股）浮盈約9985元。"
+    },
+    {
+      "id": "mkt:01a0a7d2-1710-7118-85a6-e02e93e4ff08",
+      "time": "2026-09-16 09:25:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open in the Chinese A-share market, the Shanghai Composite fell 0.07%, the Shenzhen Composite Index fell 0.08% and the ChiNext Index fell 0.03%. Newly listed N Xinnuowei jumped 72.36% on its first trading day; N Tengxin rose 73.28%."
+    },
+    {
+      "id": "mkt:01a0a7d2-037a-7118-85a6-d998b57211c6",
+      "time": "2026-09-16 09:25:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI CEO says AI can develop safely without causing major harm】OpenAI CEO Sam Altman said he is \"very confident\" AI companies can advance model capabilities without causing major societal harm while ensuring safety. He said firms should be able to pursue capability improvements independently and maintain safety, and he expressed disappointment with the way recent public discussions about the pace of AI development and the need for regulation have been conducted. Earlier, Anthropic CEO Dario Amodei warned of AI risks and urged slowing development. OpenAI said it is working with Anthropic and Google DeepMind on AI safety."
+    },
+    {
+      "id": "5096273",
+      "time": "2026-09-16 09:25:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6568.00元。"
+    },
+    {
+      "id": "5096272",
+      "time": "2026-09-16 09:25:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.07%，深證成指跌0.08%，創業板指跌0.03%。"
+    },
     {
       "id": "5096271",
       "time": "2026-09-16 09:24:31",
@@ -65,6 +184,15 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放1130億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609163875615466",
+      "time": "2026-09-16 09:21:26",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1100億元人民幣7天期逆回購操作，利率1.40%。同時，開展了6000億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:01a0a7cd-a332-7118-85a6-c2952600fab0",
@@ -123296,121 +123424,6 @@
         "市場"
       ],
       "text": "【深交所：“豐茂轉債”盤中臨時停牌】深交所公告，“豐茂轉債”（123283）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5083959",
-      "time": "2026-09-09 09:28:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗：“當美國準備好進行接觸時，我國政府將本著誠意和建設性的態度，努力建立一種更加安全、互利共贏且充分尊重加拿大主權的貿易關係。”"
-    },
-    {
-      "id": "mkt:01a083c7-bfe0-7118-84f8-47f551e3913c",
-      "time": "2026-09-09 09:28:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "ETFs opened mixed. ChiNext enhanced ETF led gains, up 20.03%; Japan TOPIX ETF +2.51%; Shenzhen Growth ETF +2.20%. Grain/food ETF was the worst performer, down 2.36%."
-    },
-    {
-      "id": "te:markets:582194",
-      "time": "2026-09-09 09:28:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Prices Ease — US natural gas prices fell below $2.90/MMBtu, retreating from eight-week highs, as abundant domestic supplies and solid production weighed on the market. US gas inventories were 5.2% above the five-year seasonal average as of August 28, while output across the Lower 48 rose to 112.9 bcfd so far in September from August’s monthly high of 112.2 bcfd, reinforcing the supply overhang. These supply-side factors offset support from stronger demand. Forecasts for above-average temperatures across the US South through September 17 are expected to keep air-conditioning demand elevated, supporting natural gas consumption in the power sector. At the same time, gas flows to the nine major LNG export plants increased to 18.1 bcfd in September from 17.2 bcfd in August. Demand for US LNG from Europe and Asia has also risen sharply as buyers seek to replace disrupted Middle Eastern supplies and replenish inventories ahead of the winter heating season."
-    },
-    {
-      "id": "5083958",
-      "time": "2026-09-09 09:27:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光纖概念延續漲勢，華脈科技3連板，三孚股份、長盈通、衡東光、德科立、天孚通訊紛紛高開。"
-    },
-    {
-      "id": "mkt:01a083c7-4974-7118-84f8-389f5dd0d58e",
-      "time": "2026-09-09 09:27:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share new listing N Baimaike rose 92.1% to 32.86 yuan, from an issue price of 17.10 yuan."
-    },
-    {
-      "id": "mkt:01a083c7-2738-7118-84f8-32a35da30031",
-      "time": "2026-09-09 09:27:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong: HSI opened Sep 9 up 10.95 pts (+0.04%) at 25,328.13; Hang Seng TECH opened up 4.42 pts (+0.10%) at 4,459.27; HSCEI (H-share index) opened down 2.23 pts (-0.03%) at 8,395.09; Hang Seng Red Chip Index opened up 7.32 pts (+0.17%) at 4,244.66."
-    },
-    {
-      "id": "mkt:01a083c6-d635-7118-84f8-2f8ea7ad14a4",
-      "time": "2026-09-09 09:27:21",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. National Transportation Safety Board (NTSB) said evidence indicates the pilots considered aborting the landing in the Boeing (BA.N) 767 crash in Miami."
-    },
-    {
-      "id": "5083957",
-      "time": "2026-09-09 09:26:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會表示，證據顯示，在邁阿密發生的波音767墜機事故中，飛行員曾考慮過中止著陸。"
-    },
-    {
-      "id": "5083956",
-      "time": "2026-09-09 09:26:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【嬰童概念大幅高開 悅心健康、愛嬰室一字漲停】早盤嬰童概念大幅高開，悅心健康、愛嬰室一字漲停，澳洋健康、孩子王、貝因美、倍加潔、金髮拉比等跟漲。"
-    },
-    {
-      "id": "5083955",
-      "time": "2026-09-09 09:25:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【百邁科上市首日開盤大漲超92%】百邁科上市首日開盤漲92.16%，現報32.86元，該股發行價為17.1元。"
-    },
-    {
-      "id": "5083954",
-      "time": "2026-09-09 09:25:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4370美元/盎司，日內漲0.34%。"
-    },
-    {
-      "id": "mkt:01a083c5-1d1a-7118-84f8-25fc0582507f",
-      "time": "2026-09-09 09:25:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares opened higher: Shanghai Composite +0.09%, Shenzhen Composite +0.63%, ChiNext +1.15%. Newly listed stock N Luozhou jumped more than 70% at the open."
     }
   ]
 }

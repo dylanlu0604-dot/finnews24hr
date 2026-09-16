@@ -1,7 +1,126 @@
 {
   "date": "2026-09-16",
-  "count": 642,
+  "count": 655,
   "items": [
+    {
+      "id": "5096279",
+      "time": "2026-09-16 09:28:33",
+      "tags": [
+        "觀點",
+        "央行",
+        "其他"
+      ],
+      "text": "【潘功勝：貸款降速提質或將成為宏觀執行的新常態之一】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，貸款降速提質或將成為宏觀執行的新常態之一。當前超過280萬億元的貸款餘額中，房地產、地方融資平臺的貸款佔比仍然較大，這些領域不僅不再增長，反而還在下降。2025年至2026年上半年，房地產貸款餘額累計下降超2萬億元。其他領域的貸款要先填補上這個下降的部分，才能帶來總量上的增長。隨著經濟結構轉型和信貸結構變化，實體經濟需要的信貸增長也在發生變化。全部信貸要保持過去的增速是很難的，也是沒有必要的。對於支撐經濟增長來說，盤活低效存量貸款和新增貸款的意義本質上是相同的。"
+    },
+    {
+      "id": "5096278",
+      "time": "2026-09-16 09:28:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡元<SGD=>兌美元跌至1.2738，為9月2日以來最低。"
+    },
+    {
+      "id": "mkt:01a0a7d3-9daf-7118-85a6-f2fa5a504494",
+      "time": "2026-09-16 09:27:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "At Wednesday's open, China's Shanghai Composite Index fell 2.53 points (-0.07%) to 3,861.75; Shenzhen Composite Index fell 11.12 points (-0.08%) to 13,276.85; CSI 300 Index eased 0.16 points (0.00%) to 4,449.88; ChiNext Index fell 1.03 points (-0.03%) to 3,246.89; STAR 50 Index rose 6.42 points (+0.41%) to 1,558.38."
+    },
+    {
+      "id": "mkt:01a0a7d3-9c67-7118-85a6-eea97ef7b32f",
+      "time": "2026-09-16 09:27:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share wind power equipment sector opened higher; Jixin Technology hit a second consecutive daily limit-up. Xihua Technology, Tianshun Wind Energy, Dajin Heavy Industry, Guangda Special Materials and Hezhan Energy also advanced."
+    },
+    {
+      "id": "5096277",
+      "time": "2026-09-16 09:27:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【風電裝置板塊小幅高開，吉鑫科技2連板】風電裝置板塊小幅高開，吉鑫科技2連板，錫華科技、天順風能、大金重工、廣大特材、和展能源跟漲。"
+    },
+    {
+      "id": "5096276",
+      "time": "2026-09-16 09:26:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲5%，現報8722.00元。"
+    },
+    {
+      "id": "5096275",
+      "time": "2026-09-16 09:26:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic將在新加坡設立辦公室，尋求擴大亞太業務】當地時間9月15日，人工智慧公司Anthropic宣佈將於10月在新加坡開設辦公室，這是公司在亞太地區設立的第五個辦公地點。公司表示，此舉是擴大亞太業務佈局的一部分，主要受到企業客戶對Claude需求增長的推動。Anthropic稱，新加坡人均Claude使用量位居全球前列，金融服務、政府等受監管行業的需求尤為強勁。"
+    },
+    {
+      "id": "5096274",
+      "time": "2026-09-16 09:26:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【信諾維上市首日開盤大漲超72%】信諾維上市首日開盤漲72.36%，現報47.57元，該股發行價為27.6元。按開盤價計算，投資者中一簽（500股）浮盈約9985元。"
+    },
+    {
+      "id": "mkt:01a0a7d2-1710-7118-85a6-e02e93e4ff08",
+      "time": "2026-09-16 09:25:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open in the Chinese A-share market, the Shanghai Composite fell 0.07%, the Shenzhen Composite Index fell 0.08% and the ChiNext Index fell 0.03%. Newly listed N Xinnuowei jumped 72.36% on its first trading day; N Tengxin rose 73.28%."
+    },
+    {
+      "id": "mkt:01a0a7d2-037a-7118-85a6-d998b57211c6",
+      "time": "2026-09-16 09:25:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI CEO says AI can develop safely without causing major harm】OpenAI CEO Sam Altman said he is \"very confident\" AI companies can advance model capabilities without causing major societal harm while ensuring safety. He said firms should be able to pursue capability improvements independently and maintain safety, and he expressed disappointment with the way recent public discussions about the pace of AI development and the need for regulation have been conducted. Earlier, Anthropic CEO Dario Amodei warned of AI risks and urged slowing development. OpenAI said it is working with Anthropic and Google DeepMind on AI safety."
+    },
+    {
+      "id": "5096273",
+      "time": "2026-09-16 09:25:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6568.00元。"
+    },
+    {
+      "id": "5096272",
+      "time": "2026-09-16 09:25:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.07%，深證成指跌0.08%，創業板指跌0.03%。"
+    },
     {
       "id": "5096271",
       "time": "2026-09-16 09:24:31",
@@ -65,6 +184,15 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放1130億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609163875615466",
+      "time": "2026-09-16 09:21:26",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1100億元人民幣7天期逆回購操作，利率1.40%。同時，開展了6000億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:01a0a7cd-a332-7118-85a6-c2952600fab0",
