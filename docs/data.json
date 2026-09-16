@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-16 13:53:09",
-  "count": 13414,
+  "updated": "2026-09-16 13:56:53",
+  "count": 13411,
   "items": [
+    {
+      "id": "5096656",
+      "time": "2026-09-16 13:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【電動車閃充技術有望落地香港】香港特區行政長官李家超今日（9月16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》。李家超在《施政報告》中指出，國家創新充電技術領先全球，利用兆瓦級別的閃充技術，九分鐘內可完成私家車充電，換電技術最快約100秒完成補能。在特區政府推動下，有關專案有望短期內落地香港。環境及生態局亦與國家能源局合作，2027年在港建成首個ChaoJi充電技術示範站，展示其相容國家和歐洲充電標準的特性。"
+    },
+    {
+      "id": "mkt:01a0a8c9-352c-7118-85ac-b867e405dad4",
+      "time": "2026-09-16 13:55:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index"
+      ],
+      "text": "【Megawatt EV flash-charging poised for Hong Kong deployment】Hong Kong Chief Executive John Lee said in the policy address that China’s megawatt-level flash-charging technology can fully recharge passenger cars in about nine minutes and battery-swap systems can replenish energy in roughly 100 seconds. With Hong Kong government support, related projects are expected to be implemented locally in the near term. The Environment and Ecology Bureau, together with China’s National Energy Administration, plans to build Hong Kong’s first ChaoJi charging-technology demonstration station by 2027 to showcase compatibility with Chinese and European charging standards."
+    },
+    {
+      "id": "5096655",
+      "time": "2026-09-16 13:52:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示，陷入困境的澳大利亞建築商Bathla欠40多家貸款機構20億美元。"
+    },
     {
       "id": "mkt:01a0a8c5-c0ae-7118-85ac-b20116fee50a",
       "time": "2026-09-16 13:52:07",
@@ -123574,66 +123601,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量612億元。"
-    },
-    {
-      "id": "mkt:01a084bc-9583-7118-84fe-6d7e2085b607",
-      "time": "2026-09-09 13:55:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share precious metals sector surged in the afternoon; Hunan Gold hit the daily limit, with Xiaocheng Technology, Zhongjin Gold, Zijin Mining and Hengbang Co. also rallying."
-    },
-    {
-      "id": "5084288",
-      "time": "2026-09-09 13:55:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【黃金概念午後異動拉昇 萊紳通靈漲停】黃金概念午後異動拉昇，萊紳通靈漲停，湖南黃金、招金黃金、曼卡龍、紫金礦業、華鈺礦業跟漲。"
-    },
-    {
-      "id": "5084287",
-      "time": "2026-09-09 13:54:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年國家基本醫保藥品目錄談判競價協商收官】9月5日—9月8日，國家醫保局組織開展2026年國家基本醫保藥品目錄現場談判競價，上百家內外資企業現場參與，124個目錄外藥品入圍談判競價環節，一些社會關注的腫瘤、罕見病、慢性病，以及兒童用藥等重點領域創新藥參與談判，並有望納入醫保目錄。同時，商業健康保險創新藥品目錄調整工作也同步開展，12個藥品入圍現場價格協商。2026年國家醫保藥品目錄和商保創新藥目錄預計將於今年11月釋出，2027年1月1日起正式施行。"
-    },
-    {
-      "id": "mkt:01a084bb-a886-7118-84fe-6173d6a182f9",
-      "time": "2026-09-09 13:54:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's negotiations and competitive-bidding consultations for the 2026 national basic medical insurance drug list have concluded."
-    },
-    {
-      "id": "5084286",
-      "time": "2026-09-09 13:53:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4400美元/盎司，日內漲1.02%。"
-    },
-    {
-      "id": "5084285",
-      "time": "2026-09-09 13:53:26",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【貴金屬板塊短線拉昇，湖南黃金漲超8%】貴金屬板塊短線拉昇，湖南黃金漲超8%，中金黃金、曉程科技、恆邦股份跟漲。"
     }
   ]
 }
