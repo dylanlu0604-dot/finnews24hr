@@ -1,7 +1,169 @@
 {
-  "updated": "2026-09-16 09:32:48",
-  "count": 13372,
+  "updated": "2026-09-16 09:36:31",
+  "count": 13365,
   "items": [
+    {
+      "id": "mkt:01a0a7da-828e-7118-85a7-77557ec8ec64",
+      "time": "2026-09-16 09:35:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's A-share power sector saw repeated bouts of activity; Leshan Power jumped straight to the daily limit, with Mindong Power, Huayin Power, Topray New Energy and Xichang Power also rising."
+    },
+    {
+      "id": "mkt:01a0a7da-2b8b-7118-85a7-6f39cd3424fe",
+      "time": "2026-09-16 09:34:48",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China A-share duty-free retail sector opened lower; Nanning Department Store fell more than 9%, Zhongbai Group and Ouya Group dropped over 6%, with Caesar Tourism, Wangfujing and Bubugao also declining."
+    },
+    {
+      "id": "mkt:01a0a7da-208f-7118-85a7-6141d2ec2db8",
+      "time": "2026-09-16 09:34:45",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Sanae Takaichi retains key LDP leaders in first personnel change to preserve continuity】Prime Minister Sanae Takaichi on Wednesday kept several senior LDP figures in place in her first party personnel change since taking the helm about a year ago. Former premier Taro Aso remains vice president and Shunichi Suzuki stays as secretary-general; policy research chair Kobayashi also retained. The move aims to preserve continuity ahead of a possible extraordinary Diet session in early October and precedes a planned cabinet reshuffle on Thursday. The session may consider a plan to cut the food consumption tax from 8% to 1% from April for two years and a contentious political-reform bill to reduce parliamentary seats that previously prompted opposition boycotts; the LDP is coordinating with coalition partner the Japan Innovation Party in preparing the agenda."
+    },
+    {
+      "id": "mkt:01a0a7d9-f496-7118-85a7-5ccdd6a896e2",
+      "time": "2026-09-16 09:34:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Aoto Electronics MicroLED smart manufacturing center begins production】Aoto Electronics said its MicroLED smart manufacturing center has commenced production, marking the company’s entry into high-end MicroLED intelligent mass production. The smart workshop targets mass output of P0.3–P1.5 small‑pitch ultra‑HD panels, uses dual advanced packaging processes (COB and COG), achieves chip‑bonding accuracy of ±5 μm, and can flexibly run full Micro and Mini product lines and customized orders."
+    },
+    {
+      "id": "mkt:01a0a7d9-b42d-7118-85a7-57d7cf43e75f",
+      "time": "2026-09-16 09:34:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "The Singapore dollar fell to 1.2738 per US dollar, its weakest level since Sept. 2."
+    },
+    {
+      "id": "5096298",
+      "time": "2026-09-16 09:34:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧拓電子MicroLED智慧製造中心專案正式投產】據奧拓電子訊息，近日，奧拓電子MicroLED智慧製造中心專案竣工投產，這標誌著奧拓電子正式邁入高階MicroLED智慧化量產新階段。此次投產的智慧車間聚焦P0.3-P1.5高階微間距超高畫質面板量產。產線搭載COB、COG雙前沿封裝工藝，晶片繫結精度可達±5μm，可柔性適配Micro、Mini全系列產品量產及定製化訂單需求。"
+    },
+    {
+      "id": "5096297",
+      "time": "2026-09-16 09:33:53",
+      "tags": [
+        "觀點",
+        "央行",
+        "其他"
+      ],
+      "text": "【潘功勝：不能簡單以信貸增速衡量金融支援實體經濟的力度】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，當前科技創新活動複雜多元，與多元化的融資結構更加適配。科技型企業一般會經歷種子期、初創期、成長期、成熟期等不同階段，各階段的風險特徵和金融需求有很大差異，需要適配豐富多樣的金融市場和金融生態。科技型企業在成長的早期，主要從事前期研發，商業前景不明朗，私募股權和創業投資是非常重要的資金提供者。到了中後期，商業模式逐漸成熟，可以透過銀行貸款、債券、股權等多渠道融資。金融市場在為技術前沿、高風險高回報的創新產業提供融資上具有優勢，帶來對貸款的良性替代和分流。這一變化也將成為常態，不能簡單以信貸增速衡量金融支援實體經濟的力度。"
+    },
+    {
+      "id": "te:markets:584036",
+      "time": "2026-09-16 09:33:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 6-week Low — SHANGHAI decreased to 3850.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 3.16%, and in the last 12 months, it decreased 0.5%."
+    },
+    {
+      "id": "5096296",
+      "time": "2026-09-16 09:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【橡膠製品板塊短線走高，黑貓股份、龍星科技漲停】橡膠製品板塊短線走高，黑貓股份、龍星科技漲停，遠翔新材、聯科科技、永東股份、確成股份、陽穀華泰跟漲。"
+    },
+    {
+      "id": "mkt:01a0a7d8-ef67-7118-85a7-4fb3b0f22c0d",
+      "time": "2026-09-16 09:33:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Pan Gongsheng: Credit growth alone not an adequate measure of financial support for the real economy】On Sept. 16 Qiushi published a signed article by PBOC Governor Pan Gongsheng saying credit growth alone cannot measure the strength of financial support for the real economy. He said technological innovation is complex and better served by a diversified financing structure: tech firms typically pass seed, start-up, growth and mature stages with materially different risk profiles and funding needs, requiring a range of markets and financial ecosystems. Early-stage firms rely mainly on private equity and venture capital; in later stages they can finance via bank loans, bonds and equity. Financial markets have an advantage in funding frontier, high-risk/high-return innovation and provide a healthy substitution and diversion from bank lending, and Pan said this structural change will become the norm."
+    },
+    {
+      "id": "5096295",
+      "time": "2026-09-16 09:33:10",
+      "tags": [
+        "觀點",
+        "央行",
+        "其他"
+      ],
+      "text": "【潘功勝：未來一段時間，中國銀行體系仍將佔有較大比重】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，衡量一個國家的金融競爭力和國際金融中心影響力，傳統金融機構的規模固然是一個重要指標，金融市場的發達程度、輻射能力和業態豐富性更加重要。在經濟結構轉型背景下，加快發展金融市場，也是金融業自身轉型和高質量發展的必然要求。各國曆史路徑、銀企關係、法律制度等不同，金融結構沒有統一模式。未來一段時間，中國銀行體系仍將佔有較大比重，但隨著經濟結構轉型、經濟創新更趨活躍、經濟活動複雜程度上升，需要更加註重直接融資與間接融資協調發展，完善金融機構、金融市場、金融產品體系結構，更好發揮金融市場功能。"
+    },
+    {
+      "id": "5096294",
+      "time": "2026-09-16 09:33:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水電概念異動拉昇，樂山電力漲停】水電概念異動拉昇，樂山電力漲停，閩東電力、湖南發展、廣西能源、贛能股份、西昌電力、華能水電等跟漲。"
+    },
+    {
+      "id": "mkt:01a0a7d8-91ff-7118-85a7-450941fb224a",
+      "time": "2026-09-16 09:33:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aikewei IPO counseling status changes to 'counseling acceptance'】The CSRC posted that Aikewei Technology (Shanghai) Co., Ltd. has completed its IPO and listing counseling; the company’s IPO counseling status has been updated to 'counseling acceptance'."
+    },
+    {
+      "id": "5096293",
+      "time": "2026-09-16 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股炭黑板塊異動拉昇】龍星科技、黑貓股份觸及漲停，遠翔新材、永東股份、聯科科技、確成股份跟漲。"
+    },
+    {
+      "id": "5096292",
+      "time": "2026-09-16 09:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平致信祝賀吉林大學建校80週年】中共中央總書記、國家主席、中央軍委主席習近平16日致信祝賀吉林大學建校80週年，向全體師生員工和廣大校友致以祝賀。習近平在賀信中強調，新起點上，希望吉林大學以新時代中國特色社會主義思想為指導，傳承紅色基因，發揮綜合優勢，聚焦國家戰略需求，不斷最佳化學科專業佈局，提升教學科研水平，努力培養更多高素質人才，為推動新時代東北全面振興、推進中國式現代化作出更大貢獻。吉林大學始建於1946年。80年來，學校弘揚優良傳統，堅持改革創新，為國家各行各業培養輸送了大批人才。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a7d8-5611-7118-85a7-3d327ae489c7",
+      "time": "2026-09-16 09:32:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "【Zuckerberg: AI labs can slow development independently when safety requires】Meta CEO Mark Zuckerberg said AI firms do not need an industry-wide pact to slow development when safety risks arise; market pressure will make alignment (ensuring AI systems follow user intent) a competitive advantage. He said trust and alignment are becoming the key differentiators among AI agents and models and warned labs that de-prioritize alignment will fall behind. Zuckerberg cited Meta’s decision to delay the Muse model’s launch by several months to strengthen safety and security measures and said Meta did not ask other firms to do the same."
+    },
     {
       "id": "5096291",
       "time": "2026-09-16 09:32:16",
@@ -123056,241 +123218,6 @@
         "市場"
       ],
       "text": "【國家統計局：黃金飾品價格由上月下降2.6%轉為上漲7.6%】國家統計局城市司首席統計師董莉娟表示，從環比看，全國CPI由上月下降0.1%轉為上漲0.4%。受國際市場價格變動影響，國內汽油價格由上月下降10.7%轉為上漲7.2%，影響CPI環比上漲約0.21個百分點；黃金飾品價格由上月下降2.6%轉為上漲7.6%，影響CPI環比上漲約0.04個百分點。受算力需求快速增長等因素影響，行動電話機、平板電腦、資料儲存裝置價格分別上漲2.3%、2.1%和2.1%，合計拉動CPI上漲約0.03個百分點。食品價格由上月持平轉為上漲0.4%，影響CPI環比上漲約0.07個百分點。"
-    },
-    {
-      "id": "mkt:01a083ce-fccf-7118-84f9-0314fe581069",
-      "time": "2026-09-09 09:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A top executive at Mitsui O.S.K. Lines said freight costs will be higher in the foreseeable future."
-    },
-    {
-      "id": "5083987",
-      "time": "2026-09-09 09:36:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股光通訊股延續強勢 海光芯正漲近18%】截至發稿，海光芯正(01191.HK)漲17.73%，長飛光纖光纜(06869.HK)漲10.43%，俊知集團(01300.HK)漲5.56%。"
-    },
-    {
-      "id": "mkt:01a083ce-9c48-7118-84f8-fd863978425a",
-      "time": "2026-09-09 09:35:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NBS: August seasonal rise in power and coal demand lifted coal mining and washing prices 2.8% month-on-month】The National Bureau of Statistics said seasonally higher electricity and coal demand in August pushed coal mining and washing prices up 2.8% MoM and electricity supply prices up 1.4% MoM. High temperatures and rainfall disrupted construction activity, weighing on ferrous metal smelting and rolling prices (-0.9% MoM) and non-metallic mineral products (-0.2% MoM)."
-    },
-    {
-      "id": "5083986",
-      "time": "2026-09-09 09:35:45",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：鮮菜價格上漲5.5%】國家統計局資料顯示，8月份，食品菸酒及在外餐飲類價格環比上漲0.3%，影響CPI上漲約0.07個百分點。食品中，鮮菜價格上漲5.5%，影響CPI上漲約0.09個百分點；蛋類價格上漲2.0%，影響CPI上漲約0.01個百分點；畜肉類價格上漲0.9%，影響CPI上漲約0.03個百分點，其中豬肉價格上漲1.3%；鮮果價格下降2.5%，影響CPI下降約0.05個百分點；水產品價格下降0.9%，影響CPI下降約0.02個百分點。"
-    },
-    {
-      "id": "mkt:01a083ce-480c-7118-84f8-f383ae38e9b9",
-      "time": "2026-09-09 09:35:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NBS: electronic circuit manufacturing prices +3.5% MoM; VR equipment +1.9%】The National Bureau of Statistics said on a MoM basis industrial transformation and upgrading lifted demand and prices as new growth drivers accelerated and the intelligence and green content of industry rose. Electronic circuit manufacturing prices were up 3.5% MoM, virtual reality equipment manufacturing up 1.9%, service-consumption robot manufacturing up 0.3%; biomass fuel processing and comprehensive utilization of waste resources each rose 0.3%."
-    },
-    {
-      "id": "5083985",
-      "time": "2026-09-09 09:35:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【文化傳媒板塊走低，出版傳媒跌停】文化傳媒板塊走低，出版傳媒跌停，三人行、中信出版、讀客文化、中國出版紛紛走低。"
-    },
-    {
-      "id": "mkt:01a083ce-06fe-7118-84f8-eff8bfd7bb0c",
-      "time": "2026-09-09 09:35:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share alternative sweetener sector extended gains; Yasheng Group recorded a fifth consecutive daily limit-up, COFCO Technology and Hongmian posted second straight limit-ups, Huakang hit the daily limit, and Baolingbao and Huazi Industrial also rose."
-    },
-    {
-      "id": "5083984",
-      "time": "2026-09-09 09:35:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊持續走強，大港股份漲停】半導體板塊持續走強，大港股份漲停，和林微納、優迅股份、芯原股份、鍇威特、海光資訊、先鋒精科等跟漲。"
-    },
-    {
-      "id": "mkt:01a083cd-cea8-7118-84f8-e76c78b610d5",
-      "time": "2026-09-09 09:34:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Industrial Metals",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Copper",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【China PPI MoM turns from -0.7% to +0.4% as input costs lift industrial prices】The National Bureau of Statistics said China’s PPI shifted from a 0.7% MoM decline last month to a 0.4% MoM increase. Imported input costs — notably higher international crude oil and non‑ferrous metal prices — pushed up domestic sector prices: oil extraction +10.4% MoM, refined petroleum products manufacturing +4.1%, organic chemical raw materials manufacturing +0.9%, and non‑ferrous metal smelting and rolling +0.8%. Those four industries together contributed roughly 0.31 percentage points to the PPI MoM rise."
-    },
-    {
-      "id": "te:markets:582197",
-      "time": "2026-09-09 09:34:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "SSE Commodity Index Hits 8-week Low — SSE Commodity Index decreased to 6997.00 Index Points, the lowest since July 2026. Over the past 4 weeks, SSE Consume Commodity Index lost 7.61%, and in the last 12 months, it decreased 22.31%."
-    },
-    {
-      "id": "5083983",
-      "time": "2026-09-09 09:34:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲2%，現報9858.00元。"
-    },
-    {
-      "id": "te:economy:582196",
-      "time": "2026-09-09 09:34:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Producer Prices Change",
-        "Importance 2"
-      ],
-      "text": "China Producer Inflation Above Forecasts — China’s producer inflation accelerated to 3.8% yoy in August 2026, up from July’s three-month low of 3.5% and surpassing market estimates of 3.7%. On a monthly basis, producer prices rose 0.4%, recovering from a 0.7% drop in July. In the first eight months of the year, producer prices rose 2.0%, faster than the 1.8% gain in the previous period."
-    },
-    {
-      "id": "em:jjsj_zgsj:202609093868992231",
-      "time": "2026-09-09 09:34:34",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：黃金飾品價格由上月下降2.6%轉為上漲7.6%】國家統計局城市司首席統計師董莉娟表示，從環比看，全國CPI由上月下降0.1%轉為上漲0.4%。受國際市場價格變動影響，國內汽油價格由上月下降10.7%轉為上漲7.2%，影響CPI環比上漲約0.21個百分點；黃金飾品價格由上月下降2.6%轉為上漲7.6%，影響CPI環比上漲約0.04個百分點。"
-    },
-    {
-      "id": "5083982",
-      "time": "2026-09-09 09:34:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【糧食概念板塊衝高，亞盛集團、中糧科技漲停】糧食概念板塊衝高，亞盛集團、中糧科技漲停，敦煌種業、克明食品、輝豐股份、國投豐樂、新賽股份跟漲。"
-    },
-    {
-      "id": "te:economy:582195",
-      "time": "2026-09-09 09:34:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "China Inflation Rate Accelerates as Expected — China’s annual inflation accelerated to 0.8% in August 2026 from July's six-month low of 0.5%, in line with market expectations. Monthly, consumer prices increased 0.4%, topping forecasts of a 0.3% gain and reversing a 0.1% drop in July. It also marked the highest monthly reading since February."
-    },
-    {
-      "id": "5083981",
-      "time": "2026-09-09 09:34:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4420美元/盎司，日內跌0.42%。"
-    },
-    {
-      "id": "5083980",
-      "time": "2026-09-09 09:34:15",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：全國CPI同比上漲0.8% 主要是受能源價格漲幅擴大影響】國家統計局表示，從同比看，全國CPI上漲0.8%，漲幅比上月擴大0.3個百分點，主要是受能源價格漲幅擴大影響。能源價格漲幅由上月的0.6%擴大至本月的4.1%，影響CPI同比上漲約0.28個百分點，對CPI的上拉影響比上月增加約0.24個百分點。其中，汽油價格上漲9.3%，漲幅擴大8.3個百分點。（國家統計局）"
-    },
-    {
-      "id": "mkt:01a083cd-1581-7118-84f8-dfbc6bdc8d12",
-      "time": "2026-09-09 09:34:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【NBS: China CPI up 0.8% YoY as energy gains widen】The National Bureau of Statistics said China’s CPI rose 0.8% YoY, 0.3 percentage points higher than last month, mainly due to larger energy price increases. Energy inflation rose from 0.6% to 4.1%, adding about 0.28 percentage points to CPI YoY—roughly 0.24 ppt more than the prior month. Gasoline prices jumped 9.3%, with the rise widening 8.3 ppt."
-    },
-    {
-      "id": "mkt:01a083cc-5976-7118-84f8-d7f89fda5f03",
-      "time": "2026-09-09 09:33:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China NBS: Pork prices up 1.3% MoM in August】China's National Bureau of Statistics said on a MoM basis in August fresh vegetable prices rose 5.5% (widening 4.2 ppt from July) after hot, rainy weather and seasonal replanting; egg prices swung from -2.1% to +2.4% MoM as summer laying-hen downtime reduced supply; pork rose 1.3% MoM amid fewer hog slaughters. The three items together pushed CPI MoM up about 0.12 percentage point."
-    },
-    {
-      "id": "5083979",
-      "time": "2026-09-09 09:33:20",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：豬肉價格8月環比上漲1.3%】國家統計局：從環比看，食品中，受高溫多雨天氣以及應季蔬菜換茬等影響，鮮菜價格上漲5.5%，漲幅比上月擴大4.2個百分點；受蛋雞夏季歇伏、生豬出欄減少等因素影響，雞蛋價格由上月下降2.1%轉為上漲2.4%，豬肉價格上漲1.3%；上述三項合計影響CPI環比上漲約0.12個百分點。（國家統計局）"
-    },
-    {
-      "id": "mkt:01a083cc-29b0-7118-84f8-cb09ee27413b",
-      "time": "2026-09-09 09:33:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened 3.37 points higher (+0.09%) at 3,943.92 on Wednesday Sept. 9. China's Shenzhen Composite Index opened 85.73 points higher (+0.63%) at 13,788.94. China's ChiNext Index opened 38.51 points higher (+1.15%) at 3,398.22. China's STAR 50 Index opened 17.20 points higher (+1.08%) at 1,608.20."
-    },
-    {
-      "id": "5083978",
-      "time": "2026-09-09 09:33:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：有色金屬材料及電線類價格上漲19.8%】國家統計局資料顯示，工業生產者購進價格中，有色金屬材料及電線類價格上漲19.8%，燃料動力類價格上漲9.8%，化工原料類價格上漲9.5%，紡織原料類價格上漲3.8%，黑色金屬材料類價格上漲0.3%；建築材料及非金屬類價格下降3.2%，農副產品類價格下降0.5%。"
-    },
-    {
-      "id": "5083977",
-      "time": "2026-09-09 09:32:49",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "國家統計局：從環比看，受算力需求快速增長等因素影響，行動電話機、平板電腦、資料儲存裝置價格分別上漲2.3%、2.1%和2.1%，合計拉動CPI上漲約0.03個百分點。"
     }
   ]
 }
