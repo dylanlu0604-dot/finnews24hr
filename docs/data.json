@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-17 06:23:36",
-  "count": 13631,
+  "updated": "2026-09-17 06:27:19",
+  "count": 13635,
   "items": [
+    {
+      "id": "5098485",
+      "time": "2026-09-17 06:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什有個難搞的理事會。"
+    },
+    {
+      "id": "mkt:01a0ac54-2772-7118-85ca-a7e56a184156",
+      "time": "2026-09-17 06:26:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he continues to have full confidence in Federal Reserve Chair Kevin Warsh."
+    },
+    {
+      "id": "5098484",
+      "time": "2026-09-17 06:26:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：仍對美聯儲主席沃什抱有信心。"
+    },
+    {
+      "id": "mkt:01a0ac53-31eb-7118-85ca-9f57c4d1fdfc",
+      "time": "2026-09-17 06:25:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Al Arabiya TV reports the Saudi crown prince and the French president discussed efforts to bolster regional security and safeguard freedom of navigation."
+    },
+    {
+      "id": "5098483",
+      "time": "2026-09-17 06:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本首相高市早苗的貿易大臣Ryosei Akazawa將留任。"
+    },
+    {
+      "id": "mkt:01a0ac51-4b2b-7118-85ca-91cdb34d213c",
+      "time": "2026-09-17 06:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reports Saudi crown prince received a phone call from the French president."
+    },
     {
       "id": "mkt:01a0ac4f-b3dd-7118-85ca-8a8acd780eda",
       "time": "2026-09-17 06:21:39",
@@ -125786,26 +125841,6 @@
         "Greater China"
       ],
       "text": "【State Council to hold 3:00pm Beijing briefing on finance measures under 15th Five-Year Plan】The State Council Information Office will hold a press briefing today (10th) at 3:00pm Beijing time on implementing the 15th Five-Year Plan and measures to build China into a financial power. Speakers will include PBOC Deputy Governor Lu Lei; Deputy Director of the National Financial Regulatory Administration Cong Lin; CSRC Vice Chairman Li Chao; and SAFE spokesperson and deputy director Li Bin."
-    },
-    {
-      "id": "5085888",
-      "time": "2026-09-10 06:26:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特主導聯軍稱葉門胡塞武裝再次襲擊沙特多地】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基9日說，葉門胡塞武裝當天使用彈道導彈和無人機對沙特多地發動襲擊。馬利基在社交媒體上發表宣告說，此次遭襲城市包括海米斯穆謝特、艾卜哈、賈贊等地。宣告譴責葉門胡塞武裝持續針對沙特國家資產和基礎設施發動“惡劣襲擊”，表示多國聯軍將作出回應。（新華社）"
-    },
-    {
-      "id": "mkt:01a08846-91ce-7118-8512-eb91abdf290b",
-      "time": "2026-09-10 06:25:21",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthi militants vow harsh retaliation after Saudi air strikes】Houthi spokesman Yahya said Saudi warplanes carried out 54 airstrikes across multiple Yemeni provinces in the past 12 hours, causing widespread damage to residential areas and civilian infrastructure. He warned the group will deliver a harsh, decisive response and said Riyadh will not escape the consequences of its actions."
     }
   ]
 }

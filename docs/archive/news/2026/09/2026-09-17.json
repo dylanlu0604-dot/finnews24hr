@@ -1,7 +1,62 @@
 {
   "date": "2026-09-17",
-  "count": 646,
+  "count": 652,
   "items": [
+    {
+      "id": "mkt:01a0ac54-2772-7118-85ca-a7e56a184156",
+      "time": "2026-09-17 06:26:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he continues to have full confidence in Federal Reserve Chair Kevin Warsh."
+    },
+    {
+      "id": "5098485",
+      "time": "2026-09-17 06:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什有個難搞的理事會。"
+    },
+    {
+      "id": "5098484",
+      "time": "2026-09-17 06:26:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：仍對美聯儲主席沃什抱有信心。"
+    },
+    {
+      "id": "mkt:01a0ac53-31eb-7118-85ca-9f57c4d1fdfc",
+      "time": "2026-09-17 06:25:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Al Arabiya TV reports the Saudi crown prince and the French president discussed efforts to bolster regional security and safeguard freedom of navigation."
+    },
+    {
+      "id": "5098483",
+      "time": "2026-09-17 06:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本首相高市早苗的貿易大臣Ryosei Akazawa將留任。"
+    },
+    {
+      "id": "mkt:01a0ac51-4b2b-7118-85ca-91cdb34d213c",
+      "time": "2026-09-17 06:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reports Saudi crown prince received a phone call from the French president."
+    },
     {
       "id": "mkt:01a0ac4f-b3dd-7118-85ca-8a8acd780eda",
       "time": "2026-09-17 06:21:39",
