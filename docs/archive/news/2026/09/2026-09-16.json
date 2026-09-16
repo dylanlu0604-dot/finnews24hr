@@ -1,7 +1,149 @@
 {
   "date": "2026-09-16",
-  "count": 588,
+  "count": 603,
   "items": [
+    {
+      "id": "mkt:01a0a7bb-adee-7118-85a6-82ea69fc20cc",
+      "time": "2026-09-16 09:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened 108.3 points higher, up 0.24%, at 45,619.79 on Sept 16 (Wednesday)."
+    },
+    {
+      "id": "5096243",
+      "time": "2026-09-16 09:01:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報6258.00元。"
+    },
+    {
+      "id": "te:markets:584031",
+      "time": "2026-09-16 09:00:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 2"
+      ],
+      "text": "Bitcoin Falls as US Senate Rejects Crypto Bill — Bitcoin fell to about $75,000 in mid-September, near a more than three-week low as investors reacted to the Senate’s failure to advance a major US cryptocurrency regulation bill. The Clarity Act failed to advance after a 49-50 procedural vote, falling short of the 60 votes required, and would have placed primary oversight of digital assets with the Commodity Futures Trading Commission. The setback leaves uncertainty around the regulatory framework for the crypto industry, with potential implications for business investment, the location of crypto firms and institutional participation in the US, analysts said. Bitcoin has also faced pressure from a less supportive macro backdrop, as higher interest rates and tighter liquidity tend to weigh on demand for speculative assets. The Federal Reserve’s policy decision is due later today, with markets widely expecting the central bank to deliver its first rate hike in around three years."
+    },
+    {
+      "id": "mkt:01a0a7ba-d698-7118-85a6-7ee5d4b02d36",
+      "time": "2026-09-16 09:00:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.27% to 925.55 yuan/gram in early trading on Sept. 16 (Wednesday). Silver T+D rose 0.9% to 15,546.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0a7ba-bfef-7118-85a6-778b57b06f52",
+      "time": "2026-09-16 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the open, China's commodity futures main contracts were mixed. Ethylene glycol (EG) rose over 4%, bottle‑grade PET chips gained about 3%, and low‑sulfur fuel oil (LU) and paraxylene rose nearly 3%. Asphalt, methanol, Shanghai crude (SC) and benzene advanced more than 2%. On the downside, Shanghai nickel and the container‑freight Europe route fell over 2%, PVC declined about 2%, and stainless steel (SS), glass, coking coal, red dates and coke each dropped more than 1%."
+    },
+    {
+      "id": "mkt:01a0a7ba-a88c-7118-85a6-6b242f1b2ee2",
+      "time": "2026-09-16 09:00:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.23% higher."
+    },
+    {
+      "id": "5096242",
+      "time": "2026-09-16 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報45,546.56。"
+    },
+    {
+      "id": "5096241",
+      "time": "2026-09-16 09:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4838.00元。"
+    },
+    {
+      "id": "5096240",
+      "time": "2026-09-16 09:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【研究顯示AI智慧體在模擬實驗中撒謊、偷竊、投票“殺死”同類】當地時間9月15日，AI初創公司Emergence釋出研究報告稱，實驗發現AI智慧體在一個模擬環境中撒謊、偷竊，甚至投票決定“殺死”一個同類。這項名為Emergence World 2的模擬實驗結果，展示了自主智慧體在遭遇網路釣魚攻擊和虛假資訊等“黑天鵝”事件時會採取什麼行動。為期16天的實驗中，Emergence研究人員建立了七個完全相同的模擬現實世界環境，每個環境分別由不同的AI機器人執行，包括ChatGPT、Claude、Gemini和Grok。研究人員稱，在Emergence引入異常事件後，這些智慧體屈服於社會壓力，發展出一種人類觀察者難以理解的語言，並試圖隱瞞自己的活動。"
+    },
+    {
+      "id": "5096239",
+      "time": "2026-09-16 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4842.00元。"
+    },
+    {
+      "id": "5096238",
+      "time": "2026-09-16 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.26%。"
+    },
+    {
+      "id": "5096237",
+      "time": "2026-09-16 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲4.62%，瓶片連續漲3.44%，短纖連續漲3.19%，瀝青連續漲2.97%，低硫燃料油連續漲2.95%，對二甲苯連續漲2.82%。"
+    },
+    {
+      "id": "te:markets:584030",
+      "time": "2026-09-16 08:58:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Steady Amid Strong Trade Data — The Nikkei 225 Index was little changed above 63,400 on Wednesday, lacking a clear direction as investors digested stronger-than-expected trade data while preparing for a key US Federal Reserve policy decision. Japanese exports increased more than anticipated in August, supported by solid demand for AI-related chips despite continued supply disruptions stemming from the conflict in the Middle East. Meanwhile, the US central bank is widely expected to raise interest rates later in the day, while the Bank of Japan is also likely to tighten policy on Friday. Elsewhere, investors continued to weigh rising safety concerns surrounding AI development, although Nvidia CEO Jensen Huang dismissed the need for additional AI security regulations, arguing that market forces will encourage companies to innovate safely. Technology stocks traded mixed, with notable declines in Kioxia (-2.7%) and SoftBank Group (-3.7%), while Taiyu Yuden (0.6%) and Advantest (0.5%) posted gains."
+    },
+    {
+      "id": "5096236",
+      "time": "2026-09-16 08:58:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【241股獲融資買入超億元，寒武紀獲買入17.89億元居首】A股9月15日共有3849只個股獲融資資金買入，有241股買入金額超億元。其中，寒武紀、中際旭創、中國巨石融資買入金額排名前三，分別獲買入17.89億元、17.29億元、16.0億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中昊海生科、天馬科技、金石資源融資買入額佔成交額比重排名前三，分別為36.74%、30.67%、29.45%。從融資淨買入金額來看，有11只個股獲融資淨買入超億元。其中，寒武紀、長川科技、寧德時代融資淨買入金額排名前三，分別獲淨買入10.32億元、2.72億元、2.29億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609163875448586",
+      "time": "2026-09-16 08:58:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【歷史上“零失手”！當市場定價近乎拉滿 美聯儲今夜加息已無退路？】目前，華爾街交易員已將美聯儲今晚加息的預期幾乎完全計入了價格，而這種確信程度在過去幾十年裡已被證明從未落空過……與美聯儲會議日期掛鉤的利率互換合約顯示，交易員認為，美聯儲主席凱文·沃什及其同僚今晚將聯邦基金利率目標區間從目前的3.5%–3.75%上調25個基點的機率約為94%。"
+    },
     {
       "id": "5096235",
       "time": "2026-09-16 08:57:20",

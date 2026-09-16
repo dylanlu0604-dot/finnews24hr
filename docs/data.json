@@ -1,7 +1,149 @@
 {
-  "updated": "2026-09-16 08:58:30",
-  "count": 13398,
+  "updated": "2026-09-16 09:02:40",
+  "count": 13394,
   "items": [
+    {
+      "id": "mkt:01a0a7bb-adee-7118-85a6-82ea69fc20cc",
+      "time": "2026-09-16 09:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened 108.3 points higher, up 0.24%, at 45,619.79 on Sept 16 (Wednesday)."
+    },
+    {
+      "id": "5096243",
+      "time": "2026-09-16 09:01:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報6258.00元。"
+    },
+    {
+      "id": "te:markets:584031",
+      "time": "2026-09-16 09:00:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 2"
+      ],
+      "text": "Bitcoin Falls as US Senate Rejects Crypto Bill — Bitcoin fell to about $75,000 in mid-September, near a more than three-week low as investors reacted to the Senate’s failure to advance a major US cryptocurrency regulation bill. The Clarity Act failed to advance after a 49-50 procedural vote, falling short of the 60 votes required, and would have placed primary oversight of digital assets with the Commodity Futures Trading Commission. The setback leaves uncertainty around the regulatory framework for the crypto industry, with potential implications for business investment, the location of crypto firms and institutional participation in the US, analysts said. Bitcoin has also faced pressure from a less supportive macro backdrop, as higher interest rates and tighter liquidity tend to weigh on demand for speculative assets. The Federal Reserve’s policy decision is due later today, with markets widely expecting the central bank to deliver its first rate hike in around three years."
+    },
+    {
+      "id": "mkt:01a0a7ba-d698-7118-85a6-7ee5d4b02d36",
+      "time": "2026-09-16 09:00:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.27% to 925.55 yuan/gram in early trading on Sept. 16 (Wednesday). Silver T+D rose 0.9% to 15,546.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0a7ba-bfef-7118-85a6-778b57b06f52",
+      "time": "2026-09-16 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the open, China's commodity futures main contracts were mixed. Ethylene glycol (EG) rose over 4%, bottle‑grade PET chips gained about 3%, and low‑sulfur fuel oil (LU) and paraxylene rose nearly 3%. Asphalt, methanol, Shanghai crude (SC) and benzene advanced more than 2%. On the downside, Shanghai nickel and the container‑freight Europe route fell over 2%, PVC declined about 2%, and stainless steel (SS), glass, coking coal, red dates and coke each dropped more than 1%."
+    },
+    {
+      "id": "mkt:01a0a7ba-a88c-7118-85a6-6b242f1b2ee2",
+      "time": "2026-09-16 09:00:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.23% higher."
+    },
+    {
+      "id": "5096242",
+      "time": "2026-09-16 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報45,546.56。"
+    },
+    {
+      "id": "5096241",
+      "time": "2026-09-16 09:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4838.00元。"
+    },
+    {
+      "id": "5096240",
+      "time": "2026-09-16 09:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【研究顯示AI智慧體在模擬實驗中撒謊、偷竊、投票“殺死”同類】當地時間9月15日，AI初創公司Emergence釋出研究報告稱，實驗發現AI智慧體在一個模擬環境中撒謊、偷竊，甚至投票決定“殺死”一個同類。這項名為Emergence World 2的模擬實驗結果，展示了自主智慧體在遭遇網路釣魚攻擊和虛假資訊等“黑天鵝”事件時會採取什麼行動。為期16天的實驗中，Emergence研究人員建立了七個完全相同的模擬現實世界環境，每個環境分別由不同的AI機器人執行，包括ChatGPT、Claude、Gemini和Grok。研究人員稱，在Emergence引入異常事件後，這些智慧體屈服於社會壓力，發展出一種人類觀察者難以理解的語言，並試圖隱瞞自己的活動。"
+    },
+    {
+      "id": "5096239",
+      "time": "2026-09-16 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4842.00元。"
+    },
+    {
+      "id": "5096238",
+      "time": "2026-09-16 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.26%。"
+    },
+    {
+      "id": "5096237",
+      "time": "2026-09-16 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲4.62%，瓶片連續漲3.44%，短纖連續漲3.19%，瀝青連續漲2.97%，低硫燃料油連續漲2.95%，對二甲苯連續漲2.82%。"
+    },
+    {
+      "id": "te:markets:584030",
+      "time": "2026-09-16 08:58:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Steady Amid Strong Trade Data — The Nikkei 225 Index was little changed above 63,400 on Wednesday, lacking a clear direction as investors digested stronger-than-expected trade data while preparing for a key US Federal Reserve policy decision. Japanese exports increased more than anticipated in August, supported by solid demand for AI-related chips despite continued supply disruptions stemming from the conflict in the Middle East. Meanwhile, the US central bank is widely expected to raise interest rates later in the day, while the Bank of Japan is also likely to tighten policy on Friday. Elsewhere, investors continued to weigh rising safety concerns surrounding AI development, although Nvidia CEO Jensen Huang dismissed the need for additional AI security regulations, arguing that market forces will encourage companies to innovate safely. Technology stocks traded mixed, with notable declines in Kioxia (-2.7%) and SoftBank Group (-3.7%), while Taiyu Yuden (0.6%) and Advantest (0.5%) posted gains."
+    },
+    {
+      "id": "5096236",
+      "time": "2026-09-16 08:58:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【241股獲融資買入超億元，寒武紀獲買入17.89億元居首】A股9月15日共有3849只個股獲融資資金買入，有241股買入金額超億元。其中，寒武紀、中際旭創、中國巨石融資買入金額排名前三，分別獲買入17.89億元、17.29億元、16.0億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中昊海生科、天馬科技、金石資源融資買入額佔成交額比重排名前三，分別為36.74%、30.67%、29.45%。從融資淨買入金額來看，有11只個股獲融資淨買入超億元。其中，寒武紀、長川科技、寧德時代融資淨買入金額排名前三，分別獲淨買入10.32億元、2.72億元、2.29億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609163875448586",
+      "time": "2026-09-16 08:58:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【歷史上“零失手”！當市場定價近乎拉滿 美聯儲今夜加息已無退路？】目前，華爾街交易員已將美聯儲今晚加息的預期幾乎完全計入了價格，而這種確信程度在過去幾十年裡已被證明從未落空過……與美聯儲會議日期掛鉤的利率互換合約顯示，交易員認為，美聯儲主席凱文·沃什及其同僚今晚將聯邦基金利率目標區間從目前的3.5%–3.75%上調25個基點的機率約為94%。"
+    },
     {
       "id": "5096235",
       "time": "2026-09-16 08:57:20",
@@ -123361,187 +123503,6 @@
         "國際"
       ],
       "text": "據報道，谷歌週二宣佈調整其在歐洲的搜尋結果展示方式，以滿足歐盟反壟斷監管機構的要求。"
-    },
-    {
-      "id": "5083921",
-      "time": "2026-09-09 09:02:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲6%，現報3476.00元。"
-    },
-    {
-      "id": "5083920",
-      "time": "2026-09-09 09:02:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【 多項新技術將首發首秀 2026年服貿會今日開幕 】 2026年中國國際服務貿易交易會將於今天在北京正式開幕。多場論壇及推介活動今天舉辦，還有多項新技術新成果首發首秀。 為期5天的2026年服貿會今天在北京首鋼園開幕，全球服務貿易峰會也將在今天上午舉行。此外，今天還將舉辦2026電子商務大會、數字貿易發展趨勢和前沿論壇等3場主題論壇。本屆服貿會以“全球服務、互惠共享”為主題，設定主題展和九大專題展，展會期間，多項新技術將首發首秀。"
-    },
-    {
-      "id": "te:markets:582188",
-      "time": "2026-09-09 09:02:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Subdued Ahead of China Data — Australian shares steadied on Wednesday morning, hovering near 8,910 after Tuesday’s sharp drop to a six-week low. Bargain hunting in non-energy minerals, energy stocks, and tech helped offset weakness in healthcare, commercial services, and financials. Sentiment remained fragile as oil prices surged and global inflation worries deepened, with local business confidence slipping to a three-month low in August and consumer sentiment sliding in September. Meanwhile, U.S. futures weakened after Wall Street’s overnight losses, driven by escalating Middle East tensions following attacks on Saudi energy facilities. On the trade front, China logged robust exports and imports in August, with trade surplus topping USD 800 billion so far this year. Miners led gains, with BHP up 2.2%, while Woodside Energy rose 2.3% and Santos added 1.4%. In contrast, three of the four big banks eased between 0.1% and 1%. Traders now await CPI and PPI data from main trading partner China later today."
-    },
-    {
-      "id": "5083919",
-      "time": "2026-09-09 09:01:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利：海底撈大股東出售股份可能會在短期內對市場情緒造成壓力，直到投資者重拾對公司盈利前景的信心，並且確信不會再有進一步的資產剝離。    維持對公司的增持評級，目標價為16.50港元。"
-    },
-    {
-      "id": "mkt:01a083af-2e25-7118-84f7-a49445f9e5a4",
-      "time": "2026-09-09 09:01:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "On Sept 9 (Wednesday) the Taiwan Weighted Index opened up 279.2 points, or 0.59%, at 47,384.98."
-    },
-    {
-      "id": "mkt:01a083af-0c97-7118-84f7-9f4216b7a5d3",
-      "time": "2026-09-09 09:01:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures opened 0.27% higher."
-    },
-    {
-      "id": "te:markets:582187",
-      "time": "2026-09-09 09:01:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Rise on Tech Gains — The Nikkei 225 Index climbed 0.6% to above 65,600, while the broader Topix Index advanced 0.4% to 4,066 on Wednesday, recovering from the previous session’s losses as technology stocks led the rebound. Investors also welcomed private-sector data showing Japanese manufacturers’ sentiment improved for a second consecutive month in September, supported by solid demand for semiconductors and data centers. Meanwhile, rising oil prices continued to fuel inflation concerns and strengthen expectations for higher interest rates. Markets also kept a close eye on the yen after the currency rose to its strongest level in nearly seven months. Technology and artificial intelligence-related stocks posted notable gains, with SoftBank Group rising 2.8%, Fujikura up 8.7%, Lasertec gaining 4.2%, Ibiden Co advancing 1.6% and Furukawa Electric surging 11.1%."
-    },
-    {
-      "id": "5083918",
-      "time": "2026-09-09 09:01:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "海底撈1620萬股大宗交易成交價為每股10.62港元。"
-    },
-    {
-      "id": "mkt:01a083ae-4c13-7118-84f7-97e77f37e201",
-      "time": "2026-09-09 09:00:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange (SGE) gold T+D fell 1.24% in early trade on Wednesday, Sept 9, to 942.29 yuan/gram; SGE silver T+D fell 0.95% to 16,040 yuan/kg."
-    },
-    {
-      "id": "5083917",
-      "time": "2026-09-09 09:00:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報47,142.74。"
-    },
-    {
-      "id": "5083916",
-      "time": "2026-09-09 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲5%，現報3463.00元。"
-    },
-    {
-      "id": "5083915",
-      "time": "2026-09-09 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報6186.00元。"
-    },
-    {
-      "id": "5083914",
-      "time": "2026-09-09 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲2%，現報5137.00元。"
-    },
-    {
-      "id": "5083913",
-      "time": "2026-09-09 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲1%，現報5865.00元。"
-    },
-    {
-      "id": "5083912",
-      "time": "2026-09-09 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.21%。"
-    },
-    {
-      "id": "5083911",
-      "time": "2026-09-09 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】甲醇連續漲5.49%，集運指數歐線期貨連續漲3.61%，上海原油連續漲3.44%，鈀連續跌2.64%，對二甲苯連續漲2.48%，PTA連續漲2.41%，燃料油連續漲2.39%，丁二烯橡膠連續漲2.19%，丙烯連續漲2.13%。"
-    },
-    {
-      "id": "5083910",
-      "time": "2026-09-09 08:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥大幅削減對墨西哥國家石油公司（PEMEX）債務的支援，預計2027年實現財政盈餘。"
-    },
-    {
-      "id": "mkt:01a083ac-c5bb-7118-84f7-8900c85a99a6",
-      "time": "2026-09-09 08:58:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【CITIC Securities: Land acquisition may become key to project quality; China land market likely to further diverge】CITIC Securities says over the past 20 years developers' success in land acquisition relied on contrarian buying enabled by smoother financing channels. As development shifts toward higher-quality, customized projects, plot location and planning conditions will increasingly outweigh timing of purchase. CITIC Securities warns land acquisition could become the critical step for quality development and that China’s land-market momentum may further bifurcate."
-    },
-    {
-      "id": "mkt:01a083ac-ba9a-7118-84f7-848a0e76354e",
-      "time": "2026-09-09 08:58:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Wuhan targets private equity AUM of 300 billion yuan by 2028, >1,500 registered funds】Wuhan municipal government issued measures to deepen tech–industry innovation integration. For private equity, the city aims for more than 1,500 registered funds, annual fund-management scale growth above 20%, and total AUM of 300 billion yuan by 2028. It encourages industry departments to inject special-purpose funds into SOEs by converting allocations into investments. Government contributions to venture funds may exceed 50% and fund terms can be extended to 15–20 years; actively managed seed funds are allowed an 80% loss-absorption ratio, angel funds 60%, and direct investments by seed and angel funds may be written down 100%."
     }
   ]
 }
