@@ -1,7 +1,97 @@
 {
   "date": "2026-09-16",
-  "count": 1226,
+  "count": 1236,
   "items": [
+    {
+      "id": "mkt:01a0a8d7-9a5e-7118-85ae-0f11121af226",
+      "time": "2026-09-16 14:11:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK inflation rises for second month, adds pressure on BoE】UK consumer inflation rose for a second consecutive month in August as vehicle fuel jumped, adding pressure on the Bank of England ahead of its policy decision. The ONS said CPI rose 3.1% YoY in August, the highest since March and up from July’s 2.9%; the print matched economists’ median and exceeded the BoE’s prior 2.8% projection. The acceleration was driven by higher petrol and diesel prices linked to the ongoing Iran-related Middle East conflict; global oil is trading above $100/bbl and UK pump prices are at their most expensive since 2022. Sterling held gains after the release. BoE officials meeting this week are expected to keep rates unchanged, citing a weak labour market that has so far contained spillovers; Governor Bailey warned that a prolonged conflict, UK drought and an imminent El Nifio could raise food-price risks."
+    },
+    {
+      "id": "mkt:01a0a8d7-9717-7118-85ae-00c723804ec1",
+      "time": "2026-09-16 14:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year bond yield fell 4.5 bps to 4.105%."
+    },
+    {
+      "id": "mkt:01a0a8d6-9e3f-7118-85ad-f8e3024e3a21",
+      "time": "2026-09-16 14:10:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ByteDance spins off AI drug unit; retains 56% after $290m raise】ByteDance has completed a $290 million financing for its newly spun-off AI drug-discovery unit, Anew Labs, sources said on Wednesday. Shanghai-based Anew Labs was valued at $1.5 billion post-money. Sequoia China, IDG Capital and Hillhouse led the round, co-led by Wuyuan Capital; other investors include Gaorong Capital, Chunhua Capital, Boyu Capital, strategic investor SBP Group and the state-backed Shanghai Future Industry Fund. Sources said ByteDance spun off the unit to better support its long-term development given the different industry logic and management model for AI drug discovery and will hold a 56% stake after the financing."
+    },
+    {
+      "id": "5096673",
+      "time": "2026-09-16 14:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尋求市場多元化 伊拉克擬擴大對歐石油出口】伊拉克總理扎伊迪15日訪問德國時提出，有意向德國出口原油。伊拉克石油出口傳統面向亞洲，本屆政府正推進市場多元化，擴大對歐石油出口。"
+    },
+    {
+      "id": "te:markets:584100",
+      "time": "2026-09-16 14:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Extends Decline to 8-Month Low — Nickel traded around $16,000 per tonne, falling to its lowest level since December 2025 as Indonesia cut benchmark prices for low-grade nickel ore. The revised pricing formula nearly halves the cost of 1.2% nickel ore, improving the economics of high-pressure acid leach (HPAL) plants, while significant new capacity is expected to ramp up this year and next, potentially adding to global supply. Additionally, stronger US rate-hike bets lifted the dollar and Treasury yields, weighing on base metals broadly. Over the longer term, expected US deep-sea mining permits could eventually pave the way for additional nickel, cobalt, copper and manganese supply. Meanwhile, drought conditions in Indonesia have constrained Nickel Industries' Excelsior Nickel Cobalt facility to 30% of nameplate capacity, while output at the Indonesia Morowali Industrial Park could fall 30% to 40% if new water sources are not secured, limiting near-term supply growth."
+    },
+    {
+      "id": "5096672",
+      "time": "2026-09-16 14:10:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：晶片概念板塊淨流入超326億】截至目前，今日主力資金淨流入287.18億；淨流入晶片概念、融資融券、轉融券標的等板塊，其中晶片概念板塊淨流入326.55億；淨流出反內卷、電力裝置、新能源等板塊，其中反內卷板塊淨流出31.22億。\n  \n個股方面，光迅科技淨買入18.77億元位居首位，永鼎股份、中際旭創、東山精密主力資金淨流入居前；寧德時代淨賣出21.54億元位居首位，華正新材、諾德股份、中國巨石淨流出額居前。"
+    },
+    {
+      "id": "5096671",
+      "time": "2026-09-16 14:09:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基加利修正案透過十週年 中國超額完成階段履約目標】今天（9月16日）是國際臭氧層保護日。記者在今天上午召開的紀念《〈關於消耗臭氧層物質的蒙特利爾議定書〉基加利修正案》透過十週年暨2026年國際保護臭氧層日紀念大會上瞭解到，我國已超額完成階段履約目標，為推動全球環境治理做出重要貢獻。"
+    },
+    {
+      "id": "5096670",
+      "time": "2026-09-16 14:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鍾薛高品牌宣佈重啟】16日，鍾薛高品牌宣佈重啟。據悉，鍾薛高首批產品預計將於今年第四季度上市，包括輕牛乳、絲絨可可以及牛乳與絲絨可可拼搭的半半巧巧。三個口味的計劃定價為：輕牛乳口味建議零售價6.9元/支，絲絨可可、半半巧巧建議零售價預計為7.9元/支。定價上，新鍾薛高相較原來13元—20元的零售價有大幅下調。（中新經緯）"
+    },
+    {
+      "id": "em:qqyh_mlc:202609163875963274",
+      "time": "2026-09-16 14:08:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【外資首席經濟學家判斷：中東戰爭將結束 明年美聯儲可能降息】9月16日上午，在廣州舉行的《財富》世界500強論壇期間，來自野村證券、高盛、瑞銀證券等外資機構的首席經濟學家探討了地緣政治緊張局勢導致油價暴漲，以及中東的戰爭對全球宏觀經濟影響。這些外資機構人士認為，油價暴漲是短暫衝擊，預計到年底或者明年地緣政治緊張局勢可能緩和，央行的加息動作也不會持續，明年可能美聯儲會降息，雖然不確定因素依然比較多，但要看到一些尾部的積極效應。"
+    },
+    {
+      "id": "mkt:01a0a8d4-365a-7118-85ad-f0ae28cd1808",
+      "time": "2026-09-16 14:07:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The governor of Ukraine's Dnipropetrovsk region said Russia struck a bus in the region, killing five people."
+    },
     {
       "id": "mkt:01a0a8d3-f6e2-7118-85ad-e9320e9ecffb",
       "time": "2026-09-16 14:07:38",
