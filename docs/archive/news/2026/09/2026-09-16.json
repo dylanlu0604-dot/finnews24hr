@@ -1,7 +1,139 @@
 {
   "date": "2026-09-16",
-  "count": 702,
+  "count": 716,
   "items": [
+    {
+      "id": "5096311",
+      "time": "2026-09-16 09:43:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置概念震盪拉昇 太陽電纜漲停】電網裝置概念震盪拉昇，太陽電纜漲停，明陽電氣、西典新能、紅相股份、和順電氣跟漲。"
+    },
+    {
+      "id": "te:markets:584037",
+      "time": "2026-09-16 09:43:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Firms Up Ahead of Fed Decision — The dollar index climbed to around 99.7 on Wednesday, nearing its highest level in a month as investors awaited the latest Federal Reserve policy decision, with the central bank widely expected to deliver its first rate hike in around three years. Markets are currently pricing in roughly a 92% probability of a 25-basis-point rate increase as policymakers seek to contain inflationary pressures. Traders will also look for signals on another potential hike later this year, with expectations building for a move in October or December. Meanwhile, some analysts cautioned that the dollar could weaken sharply if the Fed does not signal further rate increases or opts to keep rates unchanged. The dollar also moved higher alongside Treasury yields amid rising energy costs, intensifying inflation risks, and growing fiscal concerns. The US 10-year Treasury yield briefly topped 5% to the highest levels since 2007."
+    },
+    {
+      "id": "5096310",
+      "time": "2026-09-16 09:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【創材深造完成近億元A+輪融資】近日，創材深造（Deep Material）宣佈完成近億元A+輪融資。本輪融資由老股東原始碼資本和新股東金雨茂物聯合領投、億宸資本等跟投。本輪資金將主要用於核心智慧系統M-Loop的持續研發、自動化高通量實驗平臺M-Lab的複製擴產、高質量材料資料集M-Data的持續積累、分散式自驅實驗室網路OPL（One Person Lab）建設，以及頂尖複合型人才引進，將AI研發能力複製到更多材料領域。"
+    },
+    {
+      "id": "5096309",
+      "time": "2026-09-16 09:43:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1%，至5,947.18點。"
+    },
+    {
+      "id": "mkt:01a0a7e1-8b9a-7118-85a7-b749cba757b0",
+      "time": "2026-09-16 09:42:51",
+      "tags": [
+        "MKT News",
+        "01191.HK",
+        "Impact bullish",
+        "06166.HK",
+        "06869.HK"
+      ],
+      "text": "Most Hong Kong-listed optical-communications stocks rose. Haiguang Xinzhen (01191.HK) climbed more than 7%, Cambridge Technology (06166.HK) and Yangtze Optical Fibre & Cable (06869.HK) rose over 3%, and Hua Hong Hongli (01347.HK) gained more than 2%."
+    },
+    {
+      "id": "mkt:01a0a7e0-eb7a-7118-85a7-acfa56c89c13",
+      "time": "2026-09-16 09:42:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Where to Park Small Balances: Cash-Management Yield Snapshot】Tencent Licaitong (demand + 7-day annualized) ranged 0.7590%–1.4490%. WeChat balance fund (7-day annualized) ranged 0.8620%–1.0170%. Alipay Yu’e Bao (7-day annualized) ranged 0.9000%–1.0610%."
+    },
+    {
+      "id": "mkt:01a0a7e0-6c58-7118-85a7-a256c1a34764",
+      "time": "2026-09-16 09:41:37",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share cultural and media sector showed selective strength; Inner Mongolia Xinhua hit its daily limit, while Fengyuzhu, China Publishing and City Media gained."
+    },
+    {
+      "id": "mkt:01a0a7e0-524b-7118-85a7-9a6c92ec215d",
+      "time": "2026-09-16 09:41:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06821.HK",
+        "Impact bullish",
+        "03759.HK",
+        "03347.HK"
+      ],
+      "text": "Hong Kong-listed pharma outsourcing stocks rallied: 06821.HK up over 4%, 03759.HK up over 3%, 03347.HK and 02359.HK also higher."
+    },
+    {
+      "id": "5096308",
+      "time": "2026-09-16 09:40:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊區域性走高，內蒙新華觸及漲停】文化傳媒板塊區域性走高，內蒙新華觸及漲停，風語築、中國出版、城市傳媒跟漲。"
+    },
+    {
+      "id": "5096307",
+      "time": "2026-09-16 09:40:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上升1.0個基點，至4.220%。"
+    },
+    {
+      "id": "mkt:01a0a7de-f970-7118-85a7-96f61693afb0",
+      "time": "2026-09-16 09:40:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share CPO sector firmed after choppy trading; Zhongci Electronics and Aohong Electronics both hit daily trading limits, Weiergao advanced more than 12%, Yongding Co. rose over 8%, and Alade gained over 5%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609163875690495",
+      "time": "2026-09-16 09:39:50",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【潘功勝：豐富宏觀審慎管理的工具箱 維護股市、債市、匯市等金融市場平穩執行】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，健全覆蓋全面的宏觀審慎管理體系，進一步提升金融體系的穩定性和韌性。在宏觀層面把握好經濟增長、經濟結構調整和金融風險防範的動態平衡。穩妥化解重點領域風險。繼續做好金融支援地方政府融資平臺債務風險化解工作。"
+    },
+    {
+      "id": "5096306",
+      "time": "2026-09-16 09:39:49",
+      "tags": [
+        "觀點",
+        "央行",
+        "其他"
+      ],
+      "text": "【潘功勝：拓展中央銀行宏觀審慎和金融穩定功能，維護股市、債市、匯市等金融市場平穩執行】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，健全覆蓋全面的宏觀審慎管理體系，進一步提升金融體系的穩定性和韌性。在宏觀層面把握好經濟增長、經濟結構調整和金融風險防範的動態平衡。穩妥化解重點領域風險。繼續做好金融支援地方政府融資平臺債務風險化解工作。穩妥有序推進重點地區和重點機構風險化解，嚴肅財經紀律、市場紀律和監管規則。健全金融穩定保障體系。強化系統性金融風險的監測、評估和預警。拓展中央銀行宏觀審慎和金融穩定功能，豐富宏觀審慎管理的工具箱，維護股市、債市、匯市等金融市場平穩執行。"
+    },
     {
       "id": "5096305",
       "time": "2026-09-16 09:39:44",
@@ -27,6 +159,15 @@
         "央行"
       ],
       "text": "【潘功勝：發展中國的財富管理市場，支援資管行業健康有序發展】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，聚焦服務經濟結構轉型升級需要，持續建設規範、開放、有活力、有韌性的現代化金融市場。建設和發展多類別、多層次的金融市場體系，進一步豐富金融市場業態。發展股權市場和債券市場“科技板”。發展中國的財富管理市場，支援資管行業健康有序發展。推動金融市場基礎設施互聯互通，穩妥發展利率、匯率衍生品，促進市場流動性提升和價格形成。強化國債收益率曲線的基準作用。健全金融市場法治體系，推進發行交易、登記結算、稅收等制度最佳化完善，維護金融市場秩序，培育良好的市場生態。穩步推進金融領域制度型開放，進一步提升中國金融市場的國際化水平。建設並完善多渠道、廣覆蓋的跨境支付體系。統籌發展離岸人民幣市場。支援上海提升跨境金融、離岸金融服務能力。鞏固香港離岸人民幣業務樞紐地位。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609163875676246",
+      "time": "2026-09-16 09:38:09",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【潘功勝：持續推進貨幣政策框架轉型 構建科學穩健的貨幣政策體系】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，持續推進貨幣政策框架轉型，構建科學穩健的貨幣政策體系。不斷最佳化貨幣政策中間變數，淡化對數量目標的關注，特別是對貸款單一渠道的關注，把金融總量更多作為觀測性、參考性、預期性指標。更加註重發揮價格型調控的作用，健全市場化的利率形成、調控和傳導機制。"
     },
     {
       "id": "mkt:01a0a7dd-24be-7118-85a7-8eb6a9b72df0",
