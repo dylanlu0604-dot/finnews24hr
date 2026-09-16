@@ -1,7 +1,317 @@
 {
-  "updated": "2026-09-16 18:59:41",
-  "count": 13361,
+  "updated": "2026-09-16 19:03:32",
+  "count": 13371,
   "items": [
+    {
+      "id": "5097427",
+      "time": "2026-09-16 19:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步科技：目前近600家開市客門店已接入優步外賣。"
+    },
+    {
+      "id": "mkt:01a0a9e2-24f7-7118-85b7-06e286bbafc1",
+      "time": "2026-09-16 19:02:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG appoints 2019 Nobel laureate Michael Kremer as next chief economist."
+    },
+    {
+      "id": "5097426",
+      "time": "2026-09-16 19:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德龍獲得10億美元晶片法案資，5月公佈意向書，現已完成最終協議簽署。"
+    },
+    {
+      "id": "mkt:01a0a9e1-b756-7118-85b6-fd00f649d70c",
+      "time": "2026-09-16 19:02:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Global Chip LOF will suspend trading from the market open on Sept 17, 2026 and will resume at 10:30 a.m. on the same day; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5097425",
+      "time": "2026-09-16 19:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球晶片LOF：本基金將於2026年9月17日開市起停牌，自2026 年9月17日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "mkt:01a0a9e1-7d3d-7118-85b6-f523d89eb407",
+      "time": "2026-09-16 19:02:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Finance on Implementation Plan to Accelerate High‑Quality Development of Agricultural Insurance】China's Ministry of Finance, jointly with the Ministry of Agriculture and Rural Affairs, the Financial Regulatory Administration and the National Forestry and Grassland Administration, issued an Implementation Plan (Cai Jin [2026] No. 88) to accelerate high‑quality development of agricultural insurance. The plan sets 2030 targets to build a multi‑layer agricultural insurance system aligned with farm risk needs and modern agriculture and to reach an internationally advanced level. Measurable targets include: raise agricultural insurance depth—the ratio of agricultural insurance premiums to primary‑industry value added—to 1.9% by 2030; increase agricultural insurance density (no numeric target disclosed); and lift agricultural insurance technology‑investment intensity—the ratio of insurers' tech innovation spending (staff costs, tech service fees, tech intangible and fixed assets) to premiums—to 1% by 2030."
+    },
+    {
+      "id": "mkt:01a0a9e1-6ef7-7118-85b6-e908c95a686a",
+      "time": "2026-09-16 19:01:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Market sources: Anderon has secured a $1.0 bln award under the U.S. Commerce Department's CHIPS program."
+    },
+    {
+      "id": "mkt:01a0a9e1-652c-7118-85b6-e7e36993c215",
+      "time": "2026-09-16 19:01:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures slid to $103/bbl, down 2.39% intraday."
+    },
+    {
+      "id": "5097424",
+      "time": "2026-09-16 19:01:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部有關負責人就《關於加快農業保險高質量發展的實施方案》答記者問】近日財政部會同農業農村部、金融監管總局、國家林草局聯合印發《關於加快農業保險高質量發展的實施方案》（財金〔2026〕88號）。日前，財政部有關負責人就《實施方案》有關情況回答了記者的提問。本次《實施方案》明確了下一階段發展目標：到2030年，基本建成與農戶風險保障需求相契合、與現代農業發展相適應、中央與地方分工負責的多層次農業保險體系，總體達到國際先進水平，實現補貼有效率、產業有保障、農民得實惠、機構可持續的多贏格局。在此基礎上，《實施方案》進一步明確如下發展目標：一是“農業保險深度”，即農業保險保費與第一產業增加值的比值，反映農業保險對農村經濟發展的貢獻，2030年前達到1.9%；二是“農業保險密度”；三是“農業保險科技投入強度”，即農業保險機構科技創新投入與農業保險保費的比值，反映農業保險行業科技創新應用水平，2030年前達到1%。其中，農業保險科技創新投入主要包括農業保險科技工作人員支出、科技服務費用、科技類無形資產和固定資產等專案。"
+    },
+    {
+      "id": "5097423",
+      "time": "2026-09-16 19:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦卡拉奇證券交易所KSE-100指數收盤下跌0.8%，報168021.80點。"
+    },
+    {
+      "id": "5097422",
+      "time": "2026-09-16 19:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "耐思特與美國聯合航空延長美國及荷蘭市場的可持續航空燃料（SAF）供應協議。"
+    },
+    {
+      "id": "mkt:01a0a9e0-df93-7118-85b6-dad8e95cf0b3",
+      "time": "2026-09-16 19:01:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude gapped up $1 in short-term trade and are now at $98.77/bbl and $103.54/bbl, respectively."
+    },
+    {
+      "id": "5097421",
+      "time": "2026-09-16 19:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "安德龍（IBM旗下企業）與美國商務部簽署協議。"
+    },
+    {
+      "id": "mkt:01a0a9e0-6006-7118-85b6-d7b7bc146433",
+      "time": "2026-09-16 19:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv, citing sources, said US officials held talks with Houthi representatives in Oman last weekend after Houthi forces seized a strategic area on the Red Sea coast."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609163876180827",
+      "time": "2026-09-16 19:00:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國MBA抵押貸款申請指數上週下降4.1%。"
+    },
+    {
+      "id": "5097420",
+      "time": "2026-09-16 19:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德龍（Anderon）獲得 10 億美元晶片法案獎勵資金。"
+    },
+    {
+      "id": "5097419",
+      "time": "2026-09-16 19:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST應急：申請撤銷其他風險警示】ST應急(300527)9月16日公告，公司於2026年9月16日召開第四屆董事會第四次會議，同意公司向深交所申請撤銷股票交易其他風險警示。"
+    },
+    {
+      "id": "5097418",
+      "time": "2026-09-16 19:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守107美元/桶，日內跌1.74%。"
+    },
+    {
+      "id": "mkt:01a0a9df-de25-7118-85b6-cb27d53f9388",
+      "time": "2026-09-16 19:00:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XHB",
+        "Impact bearish"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate rose to 6.97% in the week to Sept. 11 from 6.85% the prior week."
+    },
+    {
+      "id": "5097417",
+      "time": "2026-09-16 19:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非7月零售額同比增長3.4%；此前預期為增長1.0%。"
+    },
+    {
+      "id": "5097416",
+      "time": "2026-09-16 19:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲1.31%。"
+    },
+    {
+      "id": "mkt:01a0a9df-c807-7118-85b6-c7df70901cfa",
+      "time": "2026-09-16 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. MBA Refinance Index for the week ended Sept. 11: 627.1, prior 687.3."
+    },
+    {
+      "id": "5097415",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至9月11日當週MBA30年期固定抵押貸款利率 6.97%，前值6.85%。美國至9月11日當週MBA抵押貸款購買指數 156.2，前值157.5。美國至9月11日當週MBA抵押貸款申請活動指數 230.8，前值240.6。美國至9月11日當週MBA抵押貸款再融資活動指數 627.1，前值687.3。"
+    },
+    {
+      "id": "mkt:01a0a9df-c655-7118-85b6-bc41facb3a7f",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage purchase index for week to Sep 11: 156.2, prior 157.5."
+    },
+    {
+      "id": "mkt:01a0a9df-c5c2-7118-85b6-b4ad318ee2ec",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US MBA mortgage applications index for the week ending Sep 11 was 230.8, down from 240.6 the prior week."
+    },
+    {
+      "id": "5097414",
+      "time": "2026-09-16 19:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報98.68美元/桶。"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e4-7118-85b6-9d741bd2007d",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Sep.11) | actual 156.2 | previous 157.5"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e5-7118-85b6-a4ba7ce9c9cb",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Sep.11) | actual 6.97% | previous 6.85%"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e9-7118-85b6-a851f4c68e1f",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Sep.11) | actual 230.8 | previous 240.6"
+    },
+    {
+      "id": "mkt:01a0a9df-a0dc-7118-85b6-965593afba80",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Sep.11) | actual 627.1 | previous 687.3"
+    },
+    {
+      "id": "5097413",
+      "time": "2026-09-16 18:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce：已在測試例項上驗證修復方案生效。"
+    },
+    {
+      "id": "5097412",
+      "time": "2026-09-16 18:59:51",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：美聯儲若維持利率不變，有可能對市場造成“衝擊”】摩根大通資產管理國際固定收益首席投資官伊恩・斯特利表示，美聯儲若在週三會議上選擇維持利率不變，有可能對市場造成 “衝擊”。斯特利稱，交易員幾乎篤定美聯儲會加息，如果選擇按兵不動，美債大機率會遭遇拋售。斯特利週三表示：“如果美聯儲不加息，顯然會給市場帶來巨大沖擊，長端收益率曲線對此絕對不會友好。”利率互換市場當前定價顯示，週三美聯儲加息機率為 95%，市場還計價年內將迎來第二次加息。他表示，更大的問題在於，市場會解讀為美聯儲將長期維持利率不變，還是新一輪加息週期開啟。"
+    },
+    {
+      "id": "5097411",
+      "time": "2026-09-16 18:59:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "百時美施貴寶公司宣佈，派發季度股息，每股派0.63美元。"
+    },
     {
       "id": "mkt:01a0a9de-49de-7118-85b6-88ed8114efce",
       "time": "2026-09-16 18:58:32",
@@ -122855,213 +123165,6 @@
         "其他"
       ],
       "text": "【中國海警圓滿完成2026年北太平洋公海漁業執法巡航任務】9月9日上午，由中國海警長山艦和五虎艦組成的艦艇編隊圓滿完成2026年北太平洋公海漁業執法巡航任務，順利返港。這是中國海警在北太平洋公海開展的第11次巡航。此次巡航歷時45天，航程19800餘海里，航時2100餘小時。巡航期間，中國海警艦艇編隊根據聯合國大會相關決議、《北太平洋公海漁業資源養護和管理公約》等規定，加大公海漁業法律法規和養護管理措施宣傳，加強作業漁船巡查監管，做好區域漁業管理註冊漁船資訊核對。共觀察記錄各國漁船95艘，登臨檢查20艘，直升機公海飛行執法7架次，有效履行了公海執法職責，維護了北太平洋漁業生產秩序。作為海洋漁業大國和《北太平洋公海漁業資源養護和管理公約》成員國，中國海警派艦艇赴北太平洋開展漁業執法巡航，對中國參與全球海洋治理、保護公海漁業資源具有重要意義。下步，中國海警將持續深入開展公海漁業執法巡航，積極履行公約義務，為有效維護公海漁業生產秩序發揮應有作用。"
-    },
-    {
-      "id": "5085047",
-      "time": "2026-09-09 19:03:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所釋出關於熱軋卷板期權、不鏽鋼期權合約上市掛牌基準價的通知。"
-    },
-    {
-      "id": "mkt:01a085d5-e68e-7118-8506-3858c7a66599",
-      "time": "2026-09-09 19:03:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Shanghai Futures Exchange (SHFE) issued a notice setting listing reference (benchmark) prices for hot-rolled coil and stainless-steel options contracts."
-    },
-    {
-      "id": "5085046",
-      "time": "2026-09-09 19:02:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所表示，新的倫敦金屬交易所熱軋卷板上海現金結算鋼材期貨將於2026年10月27日星期二掛牌上市。"
-    },
-    {
-      "id": "5085045",
-      "time": "2026-09-09 19:02:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國關鍵礦產公司達成協議，將與Nova Resources合併，並收購位於阿拉巴馬州歷史悠久的麥卡利斯特鉭礦及選礦廠。"
-    },
-    {
-      "id": "5085044",
-      "time": "2026-09-09 19:02:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江波龍：控股股東及一致行動人持股比例被動稀釋3.32%】江波龍公告稱，因公司向特定物件發行A股股票、發行H股並上市，總股本增加，公司控股股東、實控人蔡華波及一致行動人蔡麗江持股數量不變，合計持股比例由41.78%被動稀釋至38.46%，被動稀釋比例合計3.32%，觸及1%整數倍及5%整數倍。本次權益變動為被動稀釋，不涉及股份減持，不觸及要約收購，不會導致公司控股股東、實控人發生變化。"
-    },
-    {
-      "id": "mkt:01a085d5-2b0d-7118-8506-3721df3c900a",
-      "time": "2026-09-09 19:02:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine CPI rose 8.1% YoY in August, matching the 8.1% forecast."
-    },
-    {
-      "id": "5085043",
-      "time": "2026-09-09 19:02:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "香港IPO新股優地機器人上市首日大漲超153%，創港股新股機器人賽道首日漲幅紀錄。"
-    },
-    {
-      "id": "5085042",
-      "time": "2026-09-09 19:01:44",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "燧原科技：股票將於2026年9月11日在上海證券交易所科創板上市。"
-    },
-    {
-      "id": "5085041",
-      "time": "2026-09-09 19:01:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "烏克蘭 8 月消費者價格同比上漲 8.1%；預計+8.1%。"
-    },
-    {
-      "id": "5085040",
-      "time": "2026-09-09 19:01:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【迅捷興：簡易程式定增事項正在推進】 迅捷興公告，股票於2026年9月7日、2026年9月8日、2026年9月9日連續三個交易日收盤價格漲幅偏離值累計達到30%。公司正在推進以簡易程式向特定物件發行股票事項，尚需上海證券交易所發行上市稽核並報經中國證券監督管理委員會註冊；NPCF RCC新材料結合FPS細線路減成法等新技術仍處於技術交流和送樣階段。"
-    },
-    {
-      "id": "5085039",
-      "time": "2026-09-09 19:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "來福車與Waymo達成合作，將在納什維爾推出自動駕駛計程車服務。"
-    },
-    {
-      "id": "5085038",
-      "time": "2026-09-09 19:00:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【第二屆智慧財產權執法國際交流大會將在長沙舉辦】9月10日至11日，由市場監管總局與世界智慧財產權組織（WIPO）聯合主辦的第二屆智慧財產權執法國際交流大會將在湖南長沙舉辦。大會將釋出“2025—2026年中國智慧財產權行政執法十大案例”，全國侵權假冒偽劣商品集中銷燬行動也將在大會上啟動，展現我國智慧財產權執法取得的豐碩成果。（央視新聞）"
-    },
-    {
-      "id": "5085037",
-      "time": "2026-09-09 19:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至9月4日當週MBA30年期固定抵押貸款利率 6.85%，前值6.79%。\n美國至9月4日當週MBA抵押貸款再融資活動指數 687.3，前值732.6。\n美國至9月4日當週MBA抵押貸款申請活動指數 240.6，前值247.3。\n美國至9月4日當週MBA抵押貸款購買指數 157.5，前值157.8。"
-    },
-    {
-      "id": "mkt:01a085d3-5512-7118-8506-2f12abee7187",
-      "time": "2026-09-09 19:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. MBA mortgage purchase index for the week ended Sept. 4 fell to 157.5 from 157.8."
-    },
-    {
-      "id": "mkt:01a085d3-459d-7118-8506-265f4f93d644",
-      "time": "2026-09-09 19:00:10",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US MBA 30-year fixed mortgage rate for week ended Sep 4 at 6.85%, prior 6.79%."
-    },
-    {
-      "id": "mkt:01a085d3-451c-7118-8506-1f48391dee1a",
-      "time": "2026-09-09 19:00:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US MBA mortgage refinance index for week ended Sep 4: 687.3, prior 732.6."
-    },
-    {
-      "id": "mkt:01a085d3-4519-7118-8506-162e8517905d",
-      "time": "2026-09-09 19:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage applications index for the week ended Sept. 4 was 240.6, down from 247.3 the prior week."
-    },
-    {
-      "id": "mkt:01a085d3-1f3d-7118-8506-0ae86d1626b9",
-      "time": "2026-09-09 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Sep.4) | actual 687.3 | previous 732.6"
-    },
-    {
-      "id": "mkt:01a085d3-1f0a-7118-8505-ff664419edb2",
-      "time": "2026-09-09 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Sep.4) | actual 157.5 | previous 157.8"
-    },
-    {
-      "id": "mkt:01a085d3-1f1f-7118-8506-030b702e3566",
-      "time": "2026-09-09 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Sep.4) | actual 240.6 | previous 247.3"
-    },
-    {
-      "id": "mkt:01a085d3-1f06-7118-8505-f7eebc98b323",
-      "time": "2026-09-09 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Sep.4) | actual 6.85% | previous 6.79%"
-    },
-    {
-      "id": "5085036",
-      "time": "2026-09-09 18:59:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【文科股份：股東及一致行動人14.06%股份被司法凍結】文科股份公告，公司持股5%以上股東李從文及其一致行動人深圳市文科控股有限公司所持股份被司法凍結、司法再凍結。2026年9月8日，李從文8434.4萬股、深圳市文科控股有限公司817.38萬股被凍結，合計9251.78萬股，佔公司總股本14.06%，佔各自所持股份比例100.00%，凍結至2029年9月7日。"
-    },
-    {
-      "id": "5085035",
-      "time": "2026-09-09 18:59:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達強烈譴責伊朗再次襲擊約旦，此舉公然違反國際法、《聯合國憲章》以及睦鄰友好原則。"
     }
   ]
 }

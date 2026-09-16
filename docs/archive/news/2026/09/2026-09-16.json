@@ -1,7 +1,317 @@
 {
   "date": "2026-09-16",
-  "count": 1806,
+  "count": 1839,
   "items": [
+    {
+      "id": "5097427",
+      "time": "2026-09-16 19:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步科技：目前近600家開市客門店已接入優步外賣。"
+    },
+    {
+      "id": "mkt:01a0a9e2-24f7-7118-85b7-06e286bbafc1",
+      "time": "2026-09-16 19:02:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG appoints 2019 Nobel laureate Michael Kremer as next chief economist."
+    },
+    {
+      "id": "5097426",
+      "time": "2026-09-16 19:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德龍獲得10億美元晶片法案資，5月公佈意向書，現已完成最終協議簽署。"
+    },
+    {
+      "id": "mkt:01a0a9e1-b756-7118-85b6-fd00f649d70c",
+      "time": "2026-09-16 19:02:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Global Chip LOF will suspend trading from the market open on Sept 17, 2026 and will resume at 10:30 a.m. on the same day; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5097425",
+      "time": "2026-09-16 19:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球晶片LOF：本基金將於2026年9月17日開市起停牌，自2026 年9月17日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "mkt:01a0a9e1-7d3d-7118-85b6-f523d89eb407",
+      "time": "2026-09-16 19:02:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Finance on Implementation Plan to Accelerate High‑Quality Development of Agricultural Insurance】China's Ministry of Finance, jointly with the Ministry of Agriculture and Rural Affairs, the Financial Regulatory Administration and the National Forestry and Grassland Administration, issued an Implementation Plan (Cai Jin [2026] No. 88) to accelerate high‑quality development of agricultural insurance. The plan sets 2030 targets to build a multi‑layer agricultural insurance system aligned with farm risk needs and modern agriculture and to reach an internationally advanced level. Measurable targets include: raise agricultural insurance depth—the ratio of agricultural insurance premiums to primary‑industry value added—to 1.9% by 2030; increase agricultural insurance density (no numeric target disclosed); and lift agricultural insurance technology‑investment intensity—the ratio of insurers' tech innovation spending (staff costs, tech service fees, tech intangible and fixed assets) to premiums—to 1% by 2030."
+    },
+    {
+      "id": "mkt:01a0a9e1-6ef7-7118-85b6-e908c95a686a",
+      "time": "2026-09-16 19:01:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Market sources: Anderon has secured a $1.0 bln award under the U.S. Commerce Department's CHIPS program."
+    },
+    {
+      "id": "mkt:01a0a9e1-652c-7118-85b6-e7e36993c215",
+      "time": "2026-09-16 19:01:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures slid to $103/bbl, down 2.39% intraday."
+    },
+    {
+      "id": "5097424",
+      "time": "2026-09-16 19:01:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部有關負責人就《關於加快農業保險高質量發展的實施方案》答記者問】近日財政部會同農業農村部、金融監管總局、國家林草局聯合印發《關於加快農業保險高質量發展的實施方案》（財金〔2026〕88號）。日前，財政部有關負責人就《實施方案》有關情況回答了記者的提問。本次《實施方案》明確了下一階段發展目標：到2030年，基本建成與農戶風險保障需求相契合、與現代農業發展相適應、中央與地方分工負責的多層次農業保險體系，總體達到國際先進水平，實現補貼有效率、產業有保障、農民得實惠、機構可持續的多贏格局。在此基礎上，《實施方案》進一步明確如下發展目標：一是“農業保險深度”，即農業保險保費與第一產業增加值的比值，反映農業保險對農村經濟發展的貢獻，2030年前達到1.9%；二是“農業保險密度”；三是“農業保險科技投入強度”，即農業保險機構科技創新投入與農業保險保費的比值，反映農業保險行業科技創新應用水平，2030年前達到1%。其中，農業保險科技創新投入主要包括農業保險科技工作人員支出、科技服務費用、科技類無形資產和固定資產等專案。"
+    },
+    {
+      "id": "5097423",
+      "time": "2026-09-16 19:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦卡拉奇證券交易所KSE-100指數收盤下跌0.8%，報168021.80點。"
+    },
+    {
+      "id": "mkt:01a0a9e0-df93-7118-85b6-dad8e95cf0b3",
+      "time": "2026-09-16 19:01:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude gapped up $1 in short-term trade and are now at $98.77/bbl and $103.54/bbl, respectively."
+    },
+    {
+      "id": "5097422",
+      "time": "2026-09-16 19:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "耐思特與美國聯合航空延長美國及荷蘭市場的可持續航空燃料（SAF）供應協議。"
+    },
+    {
+      "id": "5097421",
+      "time": "2026-09-16 19:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "安德龍（IBM旗下企業）與美國商務部簽署協議。"
+    },
+    {
+      "id": "mkt:01a0a9e0-6006-7118-85b6-d7b7bc146433",
+      "time": "2026-09-16 19:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv, citing sources, said US officials held talks with Houthi representatives in Oman last weekend after Houthi forces seized a strategic area on the Red Sea coast."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609163876180827",
+      "time": "2026-09-16 19:00:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國MBA抵押貸款申請指數上週下降4.1%。"
+    },
+    {
+      "id": "5097420",
+      "time": "2026-09-16 19:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德龍（Anderon）獲得 10 億美元晶片法案獎勵資金。"
+    },
+    {
+      "id": "5097419",
+      "time": "2026-09-16 19:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST應急：申請撤銷其他風險警示】ST應急(300527)9月16日公告，公司於2026年9月16日召開第四屆董事會第四次會議，同意公司向深交所申請撤銷股票交易其他風險警示。"
+    },
+    {
+      "id": "5097418",
+      "time": "2026-09-16 19:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守107美元/桶，日內跌1.74%。"
+    },
+    {
+      "id": "mkt:01a0a9df-de25-7118-85b6-cb27d53f9388",
+      "time": "2026-09-16 19:00:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XHB",
+        "Impact bearish"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate rose to 6.97% in the week to Sept. 11 from 6.85% the prior week."
+    },
+    {
+      "id": "5097417",
+      "time": "2026-09-16 19:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非7月零售額同比增長3.4%；此前預期為增長1.0%。"
+    },
+    {
+      "id": "5097416",
+      "time": "2026-09-16 19:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲1.31%。"
+    },
+    {
+      "id": "mkt:01a0a9df-c807-7118-85b6-c7df70901cfa",
+      "time": "2026-09-16 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. MBA Refinance Index for the week ended Sept. 11: 627.1, prior 687.3."
+    },
+    {
+      "id": "mkt:01a0a9df-c655-7118-85b6-bc41facb3a7f",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage purchase index for week to Sep 11: 156.2, prior 157.5."
+    },
+    {
+      "id": "mkt:01a0a9df-c5c2-7118-85b6-b4ad318ee2ec",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US MBA mortgage applications index for the week ending Sep 11 was 230.8, down from 240.6 the prior week."
+    },
+    {
+      "id": "5097415",
+      "time": "2026-09-16 19:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至9月11日當週MBA30年期固定抵押貸款利率 6.97%，前值6.85%。美國至9月11日當週MBA抵押貸款購買指數 156.2，前值157.5。美國至9月11日當週MBA抵押貸款申請活動指數 230.8，前值240.6。美國至9月11日當週MBA抵押貸款再融資活動指數 627.1，前值687.3。"
+    },
+    {
+      "id": "5097414",
+      "time": "2026-09-16 19:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報98.68美元/桶。"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e9-7118-85b6-a851f4c68e1f",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Sep.11) | actual 230.8 | previous 240.6"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e5-7118-85b6-a4ba7ce9c9cb",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Sep.11) | actual 6.97% | previous 6.85%"
+    },
+    {
+      "id": "mkt:01a0a9df-a0e4-7118-85b6-9d741bd2007d",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Sep.11) | actual 156.2 | previous 157.5"
+    },
+    {
+      "id": "mkt:01a0a9df-a0dc-7118-85b6-965593afba80",
+      "time": "2026-09-16 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Sep.11) | actual 627.1 | previous 687.3"
+    },
+    {
+      "id": "5097413",
+      "time": "2026-09-16 18:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce：已在測試例項上驗證修復方案生效。"
+    },
+    {
+      "id": "5097412",
+      "time": "2026-09-16 18:59:51",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：美聯儲若維持利率不變，有可能對市場造成“衝擊”】摩根大通資產管理國際固定收益首席投資官伊恩・斯特利表示，美聯儲若在週三會議上選擇維持利率不變，有可能對市場造成 “衝擊”。斯特利稱，交易員幾乎篤定美聯儲會加息，如果選擇按兵不動，美債大機率會遭遇拋售。斯特利週三表示：“如果美聯儲不加息，顯然會給市場帶來巨大沖擊，長端收益率曲線對此絕對不會友好。”利率互換市場當前定價顯示，週三美聯儲加息機率為 95%，市場還計價年內將迎來第二次加息。他表示，更大的問題在於，市場會解讀為美聯儲將長期維持利率不變，還是新一輪加息週期開啟。"
+    },
+    {
+      "id": "5097411",
+      "time": "2026-09-16 18:59:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "百時美施貴寶公司宣佈，派發季度股息，每股派0.63美元。"
+    },
     {
       "id": "mkt:01a0a9de-49de-7118-85b6-88ed8114efce",
       "time": "2026-09-16 18:58:32",
