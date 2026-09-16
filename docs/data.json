@@ -1,7 +1,143 @@
 {
-  "updated": "2026-09-16 13:45:31",
-  "count": 13405,
+  "updated": "2026-09-16 13:49:17",
+  "count": 13414,
   "items": [
+    {
+      "id": "mkt:01a0a8c2-8df2-7118-85ac-9aa8cf68b65a",
+      "time": "2026-09-16 13:48:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthis say Saudi carried out over 450 airstrikes this week】On Sept 16 the Yemeni Houthi movement said Saudi air force F-15s and Eurofighter Typhoons operating from Khamis Mushait and Taif bases have carried out more than 450 airstrikes since the start of the week across Taiz, Lahj, al-Jawf, Hajjah, Marib, Saada and Al Bayda provinces, causing civilian casualties. The statement said Houthi forces used a homemade surface-to-air missile to shoot down a Saudi F-15 over Marib that it said was supporting Saudi force concentrations."
+    },
+    {
+      "id": "mkt:01a0a8c2-476b-7118-85ac-91d34e85dafc",
+      "time": "2026-09-16 13:48:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "WTI"
+      ],
+      "text": "【Analyst: Speed of inflation's return to target matters more than current level】Felipe Villarroel at TwentyFour Asset Management says the Fed faces a difficult trade-off: inflation remains above target and recent Middle East tensions and higher oil prices add upside risk, while the US economy remains resilient. Markets price a 25bp hike Wednesday; TwentyFour sees that as the most likely outcome. Villarroel says the speed at which inflation returns to target matters more than its current level because a rapid decline is needed to prevent inflation expectations from becoming entrenched. He adds recent comments by Fed chair Kevin Warsh show a strong focus on restoring the Fed's anti-inflation credibility, but this meeting will be the first to show how that concern is reflected in policy."
+    },
+    {
+      "id": "mkt:01a0a8c2-1ace-7118-85ac-88206ad274ad",
+      "time": "2026-09-16 13:48:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share memory-chip sector rallied; several domestic suppliers hit daily limit-ups and peers climbed, lifting sector sentiment. Market sources say SK Hynix is negotiating a cooperation agreement with Intel that could allow SK Hynix to produce memory chips on US soil for the first time."
+    },
+    {
+      "id": "mkt:01a0a8c1-9ea8-7118-85ac-843e90adf628",
+      "time": "2026-09-16 13:47:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Civil Aviation Authority said Lublin and Rzeszow airports, temporarily closed because of military aviation activity, have resumed operations."
+    },
+    {
+      "id": "5096650",
+      "time": "2026-09-16 13:47:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：“十五五”時期香港肩負發展自身、貢獻國家雙重使命】香港特區行政長官李家超16日在特區立法會公佈香港特區第一個五年規劃。他表示，“十五五”時期是香港主動適應時代潮流，鞏固提升自身優勢、培養髮展新動能、實現經濟社會高質量發展的戰略機遇期，是香港抓住機遇，加快由治及興，增進市民福祉，建設更加美好家園的關鍵五年，是香港在融入和服務國家發展大局中大有可為的五年，肩負著發展自身、貢獻國家的雙重使命。"
+    },
+    {
+      "id": "mkt:01a0a8c1-67c4-7118-85ac-7e103d6a1aa0",
+      "time": "2026-09-16 13:47:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hong Kong–Zhuhai–Macao Bridge to trial in-vehicle touchless border clearance】Hong Kong SAR Chief Executive John Lee said in his Policy Address the Immigration Department will launch a 'Smart Passage' pilot at the Hong Kong port of the Hong Kong–Zhuhai–Macao Bridge in December, using AI and facial-recognition technology to automatically identify registered eligible cross-border private-car drivers and passengers for in-vehicle touchless clearance."
+    },
+    {
+      "id": "5096649",
+      "time": "2026-09-16 13:47:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：深化粵港澳大灣區建設 搭建全球合作網路】香港特區行政長官李家超16日上午在特區立法會發表香港特區首個五年規劃。他表示，特區政府將深化粵港澳大灣區建設，搭建全球合作網路。香港會充分利用好大灣區各重大合作平臺，與區內其他城市共同推進優勢互補、錯位發展、互利共贏，推動政策創新。李家超說，香港會繼續積極參與深圳前海、廣州南沙、珠海橫琴、深港河套各重大合作平臺，聯動共享基建和產業資源，深化戰略對接，推進大灣區重大合作平臺建設，互利共贏。"
+    },
+    {
+      "id": "5096648",
+      "time": "2026-09-16 13:46:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7498.00點。"
+    },
+    {
+      "id": "5096647",
+      "time": "2026-09-16 13:46:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港珠澳大橋將推車上無感通關】香港特區行政長官李家超今日（16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》（《施政報告》）。李家超在《施政報告》中宣佈，入境事務處將於今年12月在港珠澳大橋香港口岸推出“智通行”先導計劃，利用AI並配合人臉識別科技，自動識別已登記的合資格跨境私家車司機及乘客，實行“車上無感通關”。（總檯記者羅武 梓熒）"
+    },
+    {
+      "id": "mkt:01a0a8c0-2a72-7118-85ac-729180284fd5",
+      "time": "2026-09-16 13:46:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Lee says Hong Kong will deepen Greater Bay Area integration, build global cooperation network】Hong Kong SAR Chief Executive Lee unveiled the city’s first five-year plan, saying the government will deepen integration with the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and build a global cooperation network. Hong Kong will continue active participation in major GBA platforms—Shenzhen Qianhai, Guangzhou Nansha, Zhuhai Hengqin and the Shenzhen‑Hong Kong Lok Ma Chau Loop—to share infrastructure and industrial resources, pursue complementary and differentiated development, deepen strategic alignment, promote policy innovation and advance construction of major GBA cooperation platforms."
+    },
+    {
+      "id": "mkt:01a0a8bf-fabd-7118-85ac-6871bc53cb3b",
+      "time": "2026-09-16 13:45:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said Russian forces struck a cargo ship at the Ukrainian port of Chornomorsk."
+    },
+    {
+      "id": "5096646",
+      "time": "2026-09-16 13:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱沙特本週發動超450次襲擊】今天（9月16日），葉門胡塞武裝發表宣告說，本週以來，沙特空軍出動F-15和“颱風”戰鬥機，從海米斯穆謝特和塔伊夫兩座空軍基地起飛，對葉門塔伊茲、拉赫季、焦夫、哈傑、馬裡卜、薩達和貝達等省發動超過450次空襲，造成平民傷亡。宣告說，葉門胡塞武裝當天在馬裡卜省上空使用一枚自制地空導彈，擊落一架正在實施行動、為沙特方面軍事集結提供支援的沙特F-15戰鬥機。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0a8bf-6e4d-7118-85ac-67b0084aee5b",
+      "time": "2026-09-16 13:45:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Local governor said Russia struck energy infrastructure in Ukraine's Poltava region overnight."
+    },
     {
       "id": "5096645",
       "time": "2026-09-16 13:44:48",
@@ -123499,45 +123635,6 @@
         "公司"
       ],
       "text": "【廣汽集團表態：堅決不造“速成車” 只下“笨功夫”】近日，廣汽集團對外表態，堅決不造“速成車”，只下“笨功夫”。8月下旬，四部門聯合開展為期一年的生產一致性與質量提升專項行動，本質正是對“速成造車”亂象的糾偏。對此，廣汽集團官方明確表態：造車不趕工期、不壓驗證，每一輛車都要經得起時間考驗。廣汽集團稱，此次並非應對監管的臨時動作，而是廣汽近30年發展歷程中一以貫之的立身原則。（南方都市報）"
-    },
-    {
-      "id": "5084281",
-      "time": "2026-09-09 13:48:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4440美元/盎司，日內漲0.02%。"
-    },
-    {
-      "id": "5084280",
-      "time": "2026-09-09 13:47:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "海特真露：自10月16日起關閉益山工廠，計劃將該工廠產能轉移至旗下全州工廠。"
-    },
-    {
-      "id": "te:markets:582275",
-      "time": "2026-09-09 13:46:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Snaps 2-Session Losing Streak, Ends 0.2% Higher” — New Zealand stocks climbed 27 points, or 0.2%, to close at 13,819 on Wednesday, halting losses from the previous two sessions, buoyed by gains in financials, utilities, and communication services. Tuesday’s report from Moody’s ratings agency continued to support sentiment, saying New Zealand’s economic recovery is underway, though warning that several issues remain unresolved. However, a downbeat session on Wall Street overnight limited the gains, as rising oil prices amid the escalating conflict in the Middle East raised concerns over inflation and boosted bets that central banks would raise interest rates. Fresh data from China, New Zealand’s top trading partner, also capped the index, as consumer and producer price pressures continued to rise amid higher oil prices. Among the top movers were Sanford (1.6%), Mercury NZ (1.4%), Contact Energy (1.2%), Mainfreight (0.9%), Infratil (0.8%), ANZ Group (0.7%), Delegat Group (0.7%), and A2 Milk (0.5%)."
-    },
-    {
-      "id": "mkt:01a084b3-597d-7118-84fe-384a3657f422",
-      "time": "2026-09-09 13:45:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Gatwick Airport: flights at London Gatwick have resumed, but the airport says full operational recovery will take time."
     }
   ]
 }
