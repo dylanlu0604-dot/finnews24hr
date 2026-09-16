@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-17 06:38:32",
-  "count": 13659,
+  "updated": "2026-09-17 06:42:18",
+  "count": 13661,
   "items": [
+    {
+      "id": "te:markets:584357",
+      "time": "2026-09-17 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Rises by 3.99% — Top commodity gainers are Barley (3.99%), Oat (2.88%) and Butter (0.83%). Biggest losers are Lumber (-1.60%) and Coffee (-1.41%)."
+    },
+    {
+      "id": "5098507",
+      "time": "2026-09-17 06:39:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗退出做空美元兌加元建議 稱對美聯儲判斷有誤】花旗集團策略師週三在研報中表示，在美聯儲立場似乎比預期更偏鷹後，他們已止損退出此前做空美元兌加元的建議。“我們最初於9月2日建倉這一交易，當時預計美聯儲的鷹派程度不會超過市場定價，而當時加拿大央行的表態則顯得更為鷹派，“以Daniel Tobon為首的策略師表示，“但我們對美聯儲的判斷有誤，今天的會議令市場對進一步加息的預期升溫，推動美元走高”。9月2日，該團隊表示在1.3854做空美元/加元，目標位為1.35，止損位為1.3990；週三紐約午後，美元兌加元報1.3990左右，日內漲0.5%。"
+    },
+    {
+      "id": "5098506",
+      "time": "2026-09-17 06:38:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：馬克・沃爾特與託德・博利以 9.5 億英鎊出售切爾西足球俱樂部股份。"
+    },
     {
       "id": "5098505",
       "time": "2026-09-17 06:36:20",
@@ -126061,17 +126091,6 @@
         "ET.N"
       ],
       "text": "【Energy Transfer to move primary listing from New York to Texas】Energy Transfer LP plans to shift its primary listing from the New York Stock Exchange to the Texas Stock Exchange, with the move expected as early as next month. At about $75 billion market cap, this would be the largest U.S. corporate primary-listing migration to Texas to date. The Texas Stock Exchange has so far attracted several ETF listings and is seeking to win more corporate listings from NYSE and Nasdaq."
-    },
-    {
-      "id": "te:markets:582515",
-      "time": "2026-09-10 06:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Gains by 2.94% — Top commodity gainers are Rubber (2.94%), Lumber (1.40%) and Sugar (1.32%). Biggest losers are Wheat (-2.60%) and Oat (-1.14%)."
     }
   ]
 }
