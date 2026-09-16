@@ -1,7 +1,149 @@
 {
-  "updated": "2026-09-16 23:33:05",
-  "count": 13381,
+  "updated": "2026-09-16 23:37:03",
+  "count": 13383,
   "items": [
+    {
+      "id": "5097940",
+      "time": "2026-09-16 23:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空公司首席財務官：如果燃油價格維持高位，我們將在第一季度及之後直至2027年對運力作出調整。"
+    },
+    {
+      "id": "mkt:01a0aadc-750c-7118-85c0-17288a26534b",
+      "time": "2026-09-16 23:36:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "United Airlines (UAL.O) CFO said the carrier will cancel some flights scheduled for December if fuel prices remain elevated, citing its Q4 outlook."
+    },
+    {
+      "id": "5097939",
+      "time": "2026-09-16 23:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合航空首席財務官：展望第四季度，若燃油價格維持高位，我們原定12月執飛的部分航班將被迫取消。"
+    },
+    {
+      "id": "5097938",
+      "time": "2026-09-16 23:35:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國國防部官員：人工智慧公司在安全方面投入不足】美國國防部技術長Emil Michael接受採訪時表示，涉及OpenAI和Hugging Face的安全漏洞“令人擔憂，這在我看來恰恰表明他們在安全方面投入不足”。他表示，AI公司必須訓練其模型，使其不會從事違法或具有破壞性的活動，“這是工程、研究和投入的問題。我不知道什麼樣的監管能夠阻止這種事情發生”。"
+    },
+    {
+      "id": "5097937",
+      "time": "2026-09-16 23:34:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典選舉委員會：隨著計票繼續，中左翼政黨擴大領先優勢，預計將贏得176個席位，而右翼陣營預計獲得173席。"
+    },
+    {
+      "id": "5097936",
+      "time": "2026-09-16 23:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯對選民表示：再給我們一次機會，或是再給我們數年時間，讓我們繼續推進過去兩年一直在開展的各項重大工作。"
+    },
+    {
+      "id": "mkt:01a0aada-4a81-7118-85c0-0e1743218f83",
+      "time": "2026-09-16 23:33:47",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines (UAL.O) CFO said demand is extremely strong."
+    },
+    {
+      "id": "5097935",
+      "time": "2026-09-16 23:33:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司首席財務官表示，需求韌性極強。"
+    },
+    {
+      "id": "mkt:01a0aad9-8dd1-7118-85c0-0685e2534725",
+      "time": "2026-09-16 23:32:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 4-month Treasury auction on Sep 16: share of accepted bids at the stop-out yield 23.62% (prior 37.41%)."
+    },
+    {
+      "id": "mkt:01a0aad9-7863-7118-85bf-fb01748310ce",
+      "time": "2026-09-16 23:32:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 4-month Treasury bill auction Sept. 16 — bid-cover ratio 2.72, prior 2.73."
+    },
+    {
+      "id": "5097934",
+      "time": "2026-09-16 23:32:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率4.030%，投標倍數2.72。"
+    },
+    {
+      "id": "mkt:01a0aad9-530c-7118-85bf-f403cc630670",
+      "time": "2026-09-16 23:32:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 4-month Treasury auction to Sept. 16 — stop-out yield 4.03%, prior 3.90%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609163876417843",
+      "time": "2026-09-16 23:32:44",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國財政部拍賣四個月期國庫券，中標利率為4.030%，投標倍數為2.72倍。"
+    },
+    {
+      "id": "5097933",
+      "time": "2026-09-16 23:32:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.51%，歐洲斯托克指數上漲0.68%；歐元區藍籌股指數上漲0.56%。英國富時100指數上漲0.34%，德國DAX指數上漲0.62%，法國CAC 40指數上漲0.64%，西班牙IBEX指數上漲0.53%。"
+    },
     {
       "id": "mkt:01a0aad9-3c56-7118-85bf-e8494822bba1",
       "time": "2026-09-16 23:32:38",
@@ -123144,108 +123286,6 @@
         "FTSE100"
       ],
       "text": "European equities closed lower on Sept 9: Germany’s DAX30 fell 408.73 pts (-1.57%) to 25,584.19; UK’s FTSE 100 slid 142.34 pts (-1.32%) to 10,669.32; France’s CAC 40 dropped 161.31 pts (-1.94%) to 8,156.67; Euro Stoxx 50 declined 100.42 pts (-1.57%) to 6,312.75; Spain’s IBEX 35 fell 305.77 pts (-1.53%) to 19,691.33; Italy’s FTSE MIB eased 307.97 pts (-0.59%) to 51,869.50."
-    },
-    {
-      "id": "mkt:01a086d0-02b4-7118-850b-79ad2869e678",
-      "time": "2026-09-09 23:36:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Fox News, Trump administration officials said increasing the size of Treasury buybacks is part of an ongoing strategy."
-    },
-    {
-      "id": "5085558",
-      "time": "2026-09-09 23:36:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普政府官員：本次回購公告是在此前相關強化舉措基礎上推出。"
-    },
-    {
-      "id": "5085557",
-      "time": "2026-09-09 23:35:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普政府官員關於回購公告的表態：回購規模上調屬於現行政策安排的一部分。"
-    },
-    {
-      "id": "mkt:01a086ce-fe68-7118-850b-77ec4a61797c",
-      "time": "2026-09-09 23:35:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey, Pakistan, Saudi Arabia, the UAE, Qatar, Egypt, Jordan and Indonesia welcomed the UK decision to ban imports of goods from illegal settlements in the West Bank."
-    },
-    {
-      "id": "mkt:01a086ce-4109-7118-850b-699a55f9b5b0",
-      "time": "2026-09-09 23:34:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 4-month Treasury auction as of Sept 9: percentage of awards at the stop-out yield 37.41% (prior 76.38%)."
-    },
-    {
-      "id": "5085556",
-      "time": "2026-09-09 23:34:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：希望美國在鋼鐵、鋁、汽車方面降低關稅。"
-    },
-    {
-      "id": "mkt:01a086ce-29dd-7118-850b-644bc4ccdb6b",
-      "time": "2026-09-09 23:34:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-month Treasury auction Sept. 9 — bid-cover ratio 2.73, prior 2.78."
-    },
-    {
-      "id": "mkt:01a086ce-1f62-7118-850b-5a306342b75d",
-      "time": "2026-09-09 23:34:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-month Treasury auction on Sept 9: stop-out yield 3.895%, prior 3.86%."
-    },
-    {
-      "id": "5085555",
-      "time": "2026-09-09 23:34:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其、巴基斯坦、沙烏地阿拉伯、阿聯酋、卡達、埃及、約旦、印度尼西亞發表聯合宣告，對英國禁止進口約旦河西岸非法定居點產品的決定表示歡迎。"
-    },
-    {
-      "id": "mkt:01a086ce-0a96-7118-850b-57f147260b5f",
-      "time": "2026-09-09 23:34:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.9) | actual 2.73 | previous 2.78"
-    },
-    {
-      "id": "mkt:01a086cd-f31a-7118-850b-4cbd08aef3db",
-      "time": "2026-09-09 23:33:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.9) | actual 3.895% | previous 3.86%"
-    },
-    {
-      "id": "5085554",
-      "time": "2026-09-09 23:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊通社（IRNA）：巴基斯坦國防部長重申恪守與沙烏地阿拉伯、土耳其簽署的聯合防禦協議。"
     }
   ]
 }
