@@ -1,7 +1,158 @@
 {
   "date": "2026-09-16",
-  "count": 2248,
+  "count": 2264,
   "items": [
+    {
+      "id": "5097890",
+      "time": "2026-09-16 23:05:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【永信至誠大跌超9%，公司回應：傳統網路安全業務整體承壓】9月16日，永信至誠股價大跌。Wind資料顯示，截至9月16日收盤，永信至誠股價報15.4元/股，收盤跌幅為9.25%。對於股價大跌，永信至誠方面回應到，股價回撥主要受到網路安全板塊回撥的原因。從業務角度看，傳統網路安全業務目前整體承壓，公司也在積極尋求新業務。下游政企客戶有些是上半年做預算，下半年進行招投標，2026年全年情況目前還不好預測。從2025年全年看，政企客戶預算在收縮。具體情況以公司公告為準。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a0aabf-b6e6-7118-85bf-3099a5c9c1d9",
+      "time": "2026-09-16 23:04:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "China crude futures contract 2611 weakened intraday, down 3.33% at 810.5 yuan/barrel. Turnover was about 67.855 billion yuan and open interest rose by nearly 3,000 contracts intraday; price fell while positions increased."
+    },
+    {
+      "id": "5097889",
+      "time": "2026-09-16 23:04:41",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空執行長表示，該航空公司已透過營收收回了“絕大部分”上漲的燃油成本。"
+    },
+    {
+      "id": "te:economy:584274",
+      "time": "2026-09-16 23:04:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Falls in August — Colombia’s Consumer Confidence Index fell 5.2 percentage points to 15.5% in August 2026 from July. The decline was driven by a 7.7-point drop in the Consumer Expectations Index to 22.6% and a 1.6-point decrease in the Economic Conditions Index to 4.8%. Consumer expectations deteriorated as households’ assessment of their economic outlook fell to 36.4% from 41.8%, while general expectations for the economy declined to 16.7% from 24.8%. The outlook for the country’s economy fell to 14.8% from 24.3%. Meanwhile, households’ assessment of current economic conditions declined to 5.4% from 11.1%. Willingness to buy durable goods increased to 4.2% from 1.7%. Compared with August 2025, the Consumer Confidence Index increased by 17.9 percentage points."
+    },
+    {
+      "id": "5097888",
+      "time": "2026-09-16 23:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京表示，俄羅斯清楚自己為何而戰，也清楚每位公民肩負的責任。"
+    },
+    {
+      "id": "5097887",
+      "time": "2026-09-16 23:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部：澤連斯基或在聯合國大會期間會晤特朗普。"
+    },
+    {
+      "id": "5097886",
+      "time": "2026-09-16 23:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣可再生能源（GE Vernova）：基於當前趨勢，預計第四季度合同約定付款額將高於第三季度新增額。"
+    },
+    {
+      "id": "mkt:01a0aabe-6c2d-7118-85bf-2b0daaee6549",
+      "time": "2026-09-16 23:03:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "France's finance minister said he wants France and Europe to accelerate AI development so they can better control associated risks."
+    },
+    {
+      "id": "5097885",
+      "time": "2026-09-16 23:03:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "法國財政部長：希望法國與歐洲加快人工智慧領域的發展，這樣我們才能管控相關風險。"
+    },
+    {
+      "id": "mkt:01a0aabe-3bae-7118-85bf-23578390f14f",
+      "time": "2026-09-16 23:03:08",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines (AAL.O) CEO says the carrier's growth in 2027 will be lower than in 2026."
+    },
+    {
+      "id": "5097884",
+      "time": "2026-09-16 23:03:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空CEO：2027年運力擴張幅度將不及2026年。"
+    },
+    {
+      "id": "mkt:01a0aabd-e077-7118-85bf-1c63a8f008b7",
+      "time": "2026-09-16 23:02:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "France's finance minister said calls to slow AI development serve the interests of US AI leaders."
+    },
+    {
+      "id": "mkt:01a0aabd-b0df-7118-85bf-13cb2e5a3edf",
+      "time": "2026-09-16 23:02:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Energy Secretary Wright thanked God for President Trump, saying he has common sense on energy issues."
+    },
+    {
+      "id": "5097883",
+      "time": "2026-09-16 23:02:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "法國經濟財政部長：要求放緩人工智慧發展的主張符合美國人工智慧龍頭企業的利益。"
+    },
+    {
+      "id": "5097882",
+      "time": "2026-09-16 23:02:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣可再生能源集團表示，該公司並不預期每六個月能達成40吉瓦規模的新增合同承諾。"
+    },
+    {
+      "id": "5097881",
+      "time": "2026-09-16 23:02:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿迪達斯將在其印度技術部門削減多個崗位。"
+    },
     {
       "id": "mkt:01a0aabc-5ca4-7118-85bf-096afabe8585",
       "time": "2026-09-16 23:01:06",
