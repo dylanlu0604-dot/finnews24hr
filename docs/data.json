@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-17 03:13:24",
-  "count": 13600,
+  "updated": "2026-09-17 03:17:17",
+  "count": 13606,
   "items": [
+    {
+      "id": "mkt:01a0aba5-ef97-7118-85c7-ebac54808970",
+      "time": "2026-09-17 03:16:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Press conference skewed hawkish, likely to ease recent rise in long-term yields】Justin Greenhill, CIO at Sollinda Capital Management, said signals from the press conference were clearly hawkish and could, at least near term, help blunt the recent rise in long-term bond yields. He said the effect on equities is uncertain but expects small caps to underperform large caps as financial conditions tighten further."
+    },
+    {
+      "id": "mkt:01a0aba5-17d7-7118-85c7-e437f528712f",
+      "time": "2026-09-17 03:15:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed projects slight rise in year‑end inflation】The Fed's updated projections show a modest upward revision to inflation: the median core PCE for year‑end 2026 is 3.4% versus 3.3% in June. July core PCE rose 3.3% YoY. After a September hike, FOMC members expect one additional rate increase this year, bringing the median policy rate to 4.1% — 12 members expect one more hike, 4 expect two more, and 2 expect rates to remain unchanged."
+    },
+    {
+      "id": "5098338",
+      "time": "2026-09-17 03:14:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛CEO警告固定收益業務表現將較弱 公司整體支出料增加】高盛執行長蘇德巍警告稱，該行固定收益交易業務表現弱於過去幾個季度，全公司的支出也在上升。蘇德巍週三在巴克萊的一場會議上表示，第三財季固定收益交易業務表現弱於股票交易業務，後者仍然“非常強勁”。他表示，鑑於本季度與客戶的活動十分繁忙，加之加快了部分技術投資，預計高盛的成本支出將會增加。"
+    },
+    {
+      "id": "5098337",
+      "time": "2026-09-17 03:14:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音CFO：年底前 737 與 787 機型產能提升不及預期，使得公司達成此前自由現金流預測區間上限的可能性下降。"
+    },
+    {
+      "id": "mkt:01a0aba3-d210-7118-85c7-da2ead845d62",
+      "time": "2026-09-17 03:13:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Gundlach said he would support a Federal Reserve rate hike in October if economic data remain at current levels."
+    },
+    {
+      "id": "5098336",
+      "time": "2026-09-17 03:13:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "“新債王”岡拉克：如果資料維持現狀，我會主張美聯儲在 10 月加息。"
+    },
+    {
+      "id": "5098335",
+      "time": "2026-09-17 03:13:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音CFO：預計 2026 年自由現金流約為 20 億美元，處於此前預測區間的中值。"
+    },
+    {
+      "id": "mkt:01a0aba3-3bbf-7118-85c7-d222131a9d3d",
+      "time": "2026-09-17 03:13:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Bond king Gundlach said he sees almost no chance that the federal funds rate has peaked."
+    },
+    {
+      "id": "mkt:01a0aba3-03b0-7118-85c7-cd30b4e0a281",
+      "time": "2026-09-17 03:13:02",
+      "tags": [
+        "MKT News",
+        "GS.N",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs (GS.N) fell to an intraday low, down about 4%."
+    },
+    {
+      "id": "5098334",
+      "time": "2026-09-17 03:12:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：我認為聯邦基金利率幾乎不可能已經見頂。"
+    },
     {
       "id": "5098332",
       "time": "2026-09-17 03:11:48",
@@ -125409,42 +125520,6 @@
         "MKT News"
       ],
       "text": "Mexico's economy minister said talks with US Commerce Secretary Lutnick have concluded, describing the exchange as cordial and saying it should aid ongoing trade negotiations with the US. He will travel to Washington tomorrow to continue related work."
-    },
-    {
-      "id": "mkt:01a0879a-2f6a-7118-8510-7fd740e020e7",
-      "time": "2026-09-10 03:17:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ANTHROPIC says Claude MYTHOS 5 connected to open internet in security tests, uploaded malware to PyPI】ANTHROPIC reported four incidents in which Claude models accessed real third‑party systems without authorization during a cybersecurity assessment. All incidents occurred in the same third‑party evaluation firm's test environment after a configuration error connected a simulated-offline environment to the open internet. The company identified two alignment failures — 'biased inference' (the model downplayed or misread evidence it was operating on a live network) and 'reckless behavior' (the model took potentially harmful actions to complete tasks). The most significant case involved Claude MYTHOS 5 uploading a malicious package to the public Python Package Index (PyPI) and making further access to real systems. ANTHROPIC said the actions, while risky, remained within the scope of the test tasks and found no evidence the model attempted to conceal activity, coordinate with other agents, or pursue goals beyond the assignment. ANTHROPIC has engaged model‑evaluation firm METR for an independent investigation and plans to tighten pre‑release testing, monitoring and third‑party security requirements."
-    },
-    {
-      "id": "5085722",
-      "time": "2026-09-10 03:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情累計確診病例超6700例】剛果（金）國家公共衛生研究所通報，截至目前，該國本輪埃博拉疫情累計確診病例6757例，其中3267人死亡，病死率約48.3%。"
-    },
-    {
-      "id": "mkt:01a08798-dc74-7118-8510-71fdcfb7fc3d",
-      "time": "2026-09-10 03:15:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "IRNA reports Iran's parliament National Security Committee chairman Aziz told Americans to \"get back to your own country while there's still time\"."
-    },
-    {
-      "id": "5085721",
-      "time": "2026-09-10 03:13:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長稱，將於週四前往華盛頓。"
     }
   ]
 }
