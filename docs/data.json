@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-16 23:48:42",
-  "count": 13403,
+  "updated": "2026-09-16 23:52:36",
+  "count": 13407,
   "items": [
+    {
+      "id": "5097959",
+      "time": "2026-09-16 23:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼：義大利將柴油減稅政策延長至10月5日。"
+    },
+    {
+      "id": "mkt:01a0aaea-cc48-7118-85c0-95e890da2956",
+      "time": "2026-09-16 23:51:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy will extend a diesel tax cut until Oct. 5, Prime Minister Meloni said."
+    },
+    {
+      "id": "5097958",
+      "time": "2026-09-16 23:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其國有機構將幾乎全面接管一家銀行，該銀行因涉嫌與伊朗存在關聯遭到美國製裁。"
+    },
+    {
+      "id": "5097957",
+      "time": "2026-09-16 23:50:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部長表示，設定燃料價格上限是錯誤的做法。"
+    },
+    {
+      "id": "te:markets:584276",
+      "time": "2026-09-16 23:50:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Lower Oil Prices and Yields — The CAC 40 rose 0.6% to close at 8,141 on Wednesday as oil prices and bond yields paused after their recent surge. Oil prices fell amid signs of rising US inventories and reports that Saudi Arabia is offering additional crude cargoes via Oman. Meanwhile, yields retreated after a global rally in recent weeks weighed on equity markets, as investors fear central banks will keep monetary policy tighter for longer to contain inflationary pressures from soaring energy prices. Luxury stocks gained amid lower risk aversion, with LVMH up 1%, Hermès rising 0.8% and Kering adding 1.3%. Industrial shares also advanced, with Airbus up 1%, Safran adding 1.2%, Legrand up 1.8% and EssilorLuxottica rising 0.8%. STMicroelectronics (+2%) and Schneider Electric (+1.5%) tracked strength in Wall Street chipmakers. In contrast, TotalEnergies shed 0.7% on the oil pullback."
+    },
+    {
+      "id": "mkt:01a0aae8-f898-7118-85c0-8b52542620cf",
+      "time": "2026-09-16 23:49:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Germany's economy minister said temporarily cutting VAT on fuel from 19% to 7% would be prudent."
+    },
+    {
+      "id": "5097956",
+      "time": "2026-09-16 23:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部長表示，將燃油增值稅從19%臨時下調至7%是合理之舉。"
+    },
+    {
+      "id": "mkt:01a0aae8-7230-7118-85c0-82b28eb9d0fc",
+      "time": "2026-09-16 23:49:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 rose 0.5% to an intraday high; the Nasdaq 100 advanced 1%."
+    },
+    {
+      "id": "mkt:01a0aae7-f433-7118-85c0-79ced8e00387",
+      "time": "2026-09-16 23:48:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell about $1.50 intraday to $96.94/bbl and $101.41/bbl, respectively, after reports that Saudi Arabia is seeking to restore half of a key oil pipeline's capacity within days."
+    },
+    {
+      "id": "mkt:01a0aae7-b9eb-7118-85c0-76dad90129af",
+      "time": "2026-09-16 23:48:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Diamond Hill: Unclear rate outlook justifies buying short-term bonds】Diamond Hill analyst Henry Song says bond-market uncertainty warrants allocating to short-term assets with attractive yields. He expects today's Fed decision will do little to alter war-driven inflation, leaving the rate outlook unclear, and calls Treasury Secretary BESSENT's efforts to control long yields futile because the market \"has seen through his bluff.\" Song's strategy is to buy \"large amounts of high-current-yield short-term assets\" and stay flexible to redeploy proceeds at maturity if rates rise, saying \"it's like a dance: maintain portfolio yield while preserving optionality.\""
+    },
     {
       "id": "5097955",
       "time": "2026-09-16 23:48:03",
@@ -123400,70 +123510,6 @@
         "Importance 1"
       ],
       "text": "Soybeans Fall to Over 1-Week Low — Soybeans eased to $12.90 a bushel, their lowest level in more than a week, as traders turned their attention to Friday’s US Department of Agriculture supply-and-demand forecasts for an indication of weather damage to Midwest crops. The USDA’s latest assessment showed that 58% of soybean crops were rated good to excellent, unchanged from the previous week and above expectations for a one-point decline. Despite the weaker prices, Chinese demand for US soybeans provided underlying support. On Wednesday, the USDA reported export sales of 340,000 metric tons of soybeans to China for delivery in 2026/27, alongside another 100,000 tons sold to unknown destinations. Rising oil prices have also supported soybeans, which are widely used in biofuel production, with Brent crude recently surpassing $100 a barrel. Soybeans reached $13.10 a bushel on September 1, their highest level since December 2023, amid concerns over US yields and Black Sea supply disruptions."
-    },
-    {
-      "id": "5085564",
-      "time": "2026-09-09 23:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗常駐聯合國代表：伊朗不存在任何未申報的核材料或核活動。在這方面對伊朗提出的任何相關預期都不切實際且無法接受。保障監督協定的執行受到強加給伊朗的戰爭影響。這場戰爭並非由伊朗發起，伊朗對此不承擔責任。只要戰爭狀態持續，就無法期待在常規條件下全面執行《全面保障監督協定》，包括向國際原子能機構提供資訊及允許核查人員准入。倘若戰爭徹底、永久結束，將為國際原子能機構的核查活動鋪平道路。”"
-    },
-    {
-      "id": "te:markets:582475",
-      "time": "2026-09-09 23:50:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Falls Ahead of ECB Rate Decision — The FTSE MIB fell 0.5% to 51,875 on Wednesday ahead of ECB's meeting tomorrow, which could weigh on credit demand for investment in defense, AI and energy transition. Heavyweight financials declined as eurozone sovereign yields rose to multi-year highs while markets widely expect a rate hike by the ECB, weighing on the bank's balance sheets. Adding to the pressure, talk of taxing banks' profits intensified as governments seek aid for budget deficits. Asset managers were also affected, with Azimut and Banca Mediolanum falling over 1.5%. Defense stocks Leonardo (-4%) and Fincantieri (-3.6%) led losses on the index. STMicroelectronics fell 1.1%. Stellantis declined 2.2%, as China's growing electric-truck market pressures Western manufactures. Luxury stocks also declined amid weak demand from China and lower spending due to the war in the Middle East. Attacks intensified in the region, lifting brent prices above $100. Conversely, energy stocks outperformed."
-    },
-    {
-      "id": "mkt:01a086dc-aca7-7118-850b-91a68eaa292e",
-      "time": "2026-09-09 23:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Brent"
-      ],
-      "text": "EIA will publish its monthly Short-Term Energy Outlook in 10 minutes."
-    },
-    {
-      "id": "mkt:01a086dc-784c-7118-850b-88f2f0906384",
-      "time": "2026-09-09 23:49:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's permanent representative to the UN said Iran will be prepared to facilitate IAEA verification activities once the war ends."
-    },
-    {
-      "id": "5085563",
-      "time": "2026-09-09 23:49:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：一旦戰爭局勢結束，將為國際原子能機構的核查活動創造條件。"
-    },
-    {
-      "id": "te:markets:582474",
-      "time": "2026-09-09 23:49:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls Amid Middle East Tensions — The CAC 40 fell 1.9% to close at 8,162 on Wednesday, reversing the previous session’s gains and hitting its lowest level since July as Middle East tensions escalated. Oil prices remained elevated after the US and Iran exchanged strikes near the Strait of Hormuz, heightening inflation concerns and reinforcing expectations that the ECB will raise interest rates by 25 basis points at Thursday’s policy meeting. Domestically, industrial production fell 0.4% month-over-month in July, missing expectations for a 0.3% increase. Losses were broad-based, with industrial and luxury stocks weighing heavily on the index. Airbus fell 2.2% after cutting its long-term demand outlook for single-aisle aircraft in China. Safran shed 3.2%, Thales retreated 3%, Legrand fell 3.8%, and Schneider Electric dropped 3.3%. Luxury stocks also declined amid increased risk aversion, with LVMH falling 3% to its lowest level since November 2020, Hermès shedding 2.2%, and Kering tumbling 4.7%."
     }
   ]
 }
