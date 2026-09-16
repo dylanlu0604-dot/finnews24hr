@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-16 14:11:58",
-  "count": 13447,
+  "updated": "2026-09-16 14:15:48",
+  "count": 13450,
   "items": [
+    {
+      "id": "mkt:01a0a8da-f79e-7118-85ae-13723733b841",
+      "time": "2026-09-16 14:15:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NBS to refine price statistics, advance production‑flow‑stage PPI】China’s National Bureau of Statistics’ 15th Five‑Year plan for statistical reform calls for tighter price statistics. It proposes enhancing industrial producer price surveys, optimizing PPI base‑period rotation, and advancing compilation of a production‑flow‑stage PPI. The plan also directs timely inclusion of goods and services tied to new consumption formats into the CPI survey and shortening the CPI base‑period rotation cycle, and to develop a services producer‑price index system with industry‑ and stage‑specific pilots."
+    },
+    {
+      "id": "5096680",
+      "time": "2026-09-16 14:14:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國資深議員Thorsten Frei：必須迅速出臺能源價格紓困措施。我們應考慮於10月生效的能源紓困措施。"
+    },
+    {
+      "id": "5096679",
+      "time": "2026-09-16 14:14:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富國銀行下調標普500目標】富國銀行將2026年底標普500指數目標點位從7950點下調至7700點。該行表示，目前對美股市場態度趨於謹慎，預計市場短期記憶體在5%至10%的下行空間。在最新報告中，以Ohsung Kwon領銜的富國銀行分析師團隊上調了美股盈利預期，將2027年、2028年市場每股收益（EPS）預測值分別修正至425美元和460美元。但同時，該團隊指出，美股市場已步入本輪行情的週期尾聲，後續行情核心邏輯將轉向估值收縮，難以繼續依靠盈利增長驅動上行。"
+    },
+    {
+      "id": "5096678",
+      "time": "2026-09-16 14:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：加強分省商品和服務零售額測算，不斷最佳化全口徑消費統計方法制度】國家統計局制定統計改革發展“十五五”規劃。其中提到，加強全口徑消費統計。加強分省商品和服務零售額測算，不斷最佳化全口徑消費統計方法制度。完善商品分類，最佳化社會消費品零售總額統計。健全服務消費統計，拓展基礎資料來源，推進地區服務零售額測算。加強消費新業態新模式統計監測，完善網上零售統計。完善居民消費支出調查。"
+    },
+    {
+      "id": "5096677",
+      "time": "2026-09-16 14:13:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.3%，至8,696.50點。"
+    },
+    {
+      "id": "5096676",
+      "time": "2026-09-16 14:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀調查：軟體與平臺股成為亞洲AI首選標的】美國銀行的一項調查顯示，亞洲軟體及平臺類股票迅速獲得投資者青睞，就在一個月前該板塊排名還接近墊底，如今一躍成為亞洲最具吸引力的AI投資方向。包括卡斯帕·林在內的策略師在9月15日的研報中寫道，四分之一受訪者將該板塊選為未來12個月亞洲首選AI交易標的，佔比在記憶體、資料中心等備選賽道中最高。8月時，這一主題排名接近末尾，僅高於AI算力板塊。"
+    },
+    {
+      "id": "5096675",
+      "time": "2026-09-16 14:12:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "松下能源將在日本大阪建立電池研發中心。"
+    },
+    {
+      "id": "5096674",
+      "time": "2026-09-16 14:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）表示將放寬套利基金規則，以促進拍賣。"
+    },
     {
       "id": "mkt:01a0a8d7-9a5e-7118-85ae-0f11121af226",
       "time": "2026-09-16 14:11:37",
@@ -123951,54 +124015,6 @@
         "Brent"
       ],
       "text": "【Morgan Stanley: Geopolitical risk makes oil traders wary of long-dated positions】Morgan Stanley global oil trading co-head Brendan Ross said the Russia-Ukraine conflict and fighting in the Middle East have driven traders to shorten tenor and pare broad derivatives exposure. Market participants are concentrating positions in near-dated maturities—effectively trading only the next 3-6 months—becoming more selective and risk-focused. That shift toward specific instruments has reduced liquidity in long-dated contracts and amplified liquidity cycles. Ross said the physical/financial dislocation is concentrated in the refined products market."
-    },
-    {
-      "id": "5084311",
-      "time": "2026-09-09 14:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【地平線HSD核心負責人張穎創業】地平線HSD核心技術負責人張穎創業，擔任公司創始人兼CEO，聚焦Physical Al。據瞭解，該公司以對標Generalist AI等北美前沿公司為目標，以AI for Physical AI為研發正規化，Auto Research系統為核心引擎，聚焦通用物理 AGI 研發，希望提升模型在新任務、新場景中的零樣本（Zero-shot）、少樣本（Few-shot）泛化與執行能力，推動通用物理智慧走向規模化商業應用。（雷峰網）"
-    },
-    {
-      "id": "5084310",
-      "time": "2026-09-09 14:14:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI產品負責人Tibo表示，對Astra的需求真的是史無前例的。我們正在動用一切可能的槓桿來維持這種需求，但到目前為止，我還從未見過這樣的情況，而我們此前已經經歷過非常迅猛的增長。優先事項始終是為現有使用者保持優質服務，但如果這種情況持續下去，我們可能不得不暫時暫停新的Pro訂閱。"
-    },
-    {
-      "id": "5084309",
-      "time": "2026-09-09 14:13:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.1%，報8911.40點。"
-    },
-    {
-      "id": "mkt:01a084cb-a6b6-7118-84fe-bf2ff4f343f8",
-      "time": "2026-09-09 14:12:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukraine's drone unit commander said Ukrainian forces carried out a nighttime attack on military vessels at the Russian naval base in Novorossiysk."
-    },
-    {
-      "id": "mkt:01a084cb-89e3-7118-84fe-b74d71c1c72c",
-      "time": "2026-09-09 14:12:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Juneyao Airlines expects Q3 gross margin to improve markedly from Q2】At its 2026 interim results briefing Juneyao Airlines said Q2 gross margins were negative, driven by an unexpected spike in jet-fuel prices. The company said China domestic average jet-fuel procurement prices have retreated from this year’s peak entering Q3, and with summer peak-season demand and year-on-year higher load factor it expects Q3 gross margins to improve substantially versus Q2."
     }
   ]
 }
