@@ -1,7 +1,154 @@
 {
-  "updated": "2026-09-17 03:05:44",
-  "count": 13572,
+  "updated": "2026-09-17 03:09:33",
+  "count": 13579,
   "items": [
+    {
+      "id": "mkt:01a0ab9f-019c-7118-85c7-8d9cf710f020",
+      "time": "2026-09-17 03:08:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "White House spokesman says higher interest rates will not change oil prices."
+    },
+    {
+      "id": "mkt:01a0ab9e-b3a1-7118-85c7-872830e68dac",
+      "time": "2026-09-17 03:08:19",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Gundlach said he was not surprised markets weakened during the press conference because he viewed the remarks as limited."
+    },
+    {
+      "id": "5098319",
+      "time": "2026-09-17 03:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮發言人：利率上升不會改變油價。"
+    },
+    {
+      "id": "mkt:01a0ab9e-2416-7118-85c7-7e7b364b9f43",
+      "time": "2026-09-17 03:07:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "White House spokesperson says Fed rate hikes are \"quite regrettable\"."
+    },
+    {
+      "id": "5098318",
+      "time": "2026-09-17 03:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：市場在新聞釋出會期間走弱，我並不意外，因為我認為釋出會內容相當空洞。"
+    },
+    {
+      "id": "5098317",
+      "time": "2026-09-17 03:07:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報62.93美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ab9d-c742-7118-85c7-72863def6f60",
+      "time": "2026-09-17 03:07:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Kevin Warsh on most disadvantaged Americans】Kevin Warsh said at a press briefing that the most disadvantaged Americans stand to gain most from a durable economic expansion, a robust labor market and stable prices. Economists broadly view the US recovery as K-shaped, with post‑pandemic divergence between high- and low-income groups. University of Michigan consumer survey data show persistently weaker confidence among lower-income households."
+    },
+    {
+      "id": "te:markets:584328",
+      "time": "2026-09-17 03:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Eases to 6-Week Low — Silver prices were around the $63 per ounce mark on Wednesday, testing their lowest in over one month, after the Federal Reserve delivered a 25bps rate hike. The decision by the US central bank was widely expected following data that reflected high consumer and producer prices, in addition to robust economic growth and low unemployment. Additionally, most FOMC members projected another rate hike this year. Shorter-maturity yields rose to multi-year highs, pressuring bullion prices as markets favor securities that bear yield. Meanwhile, the Bank of Japan is also due to hike its rates this week. In turn, metals with exposure to datacenter development came under pressure as AI model executives voiced concerns over the safety of more intelligent models, risking the speculative demand for compute infrastructure."
+    },
+    {
+      "id": "5098316",
+      "time": "2026-09-17 03:07:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮發言人：美聯儲加息“相當不幸”。"
+    },
+    {
+      "id": "mkt:01a0ab9d-693d-7118-85c7-6e88b09a800a",
+      "time": "2026-09-17 03:06:54",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "Boeing says delivery issues reduce the likelihood that free cash flow will exceed $2.0 billion."
+    },
+    {
+      "id": "mkt:01a0ab9d-39aa-7118-85c7-6232e6f3e781",
+      "time": "2026-09-17 03:06:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) shares extended intraday decline to about 5%, hitting a fresh intraday low."
+    },
+    {
+      "id": "mkt:01a0ab9d-2ccb-7118-85c7-5c8664ca7c33",
+      "time": "2026-09-17 03:06:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Gundlach said if he were a Federal Reserve governor he would vote no today and support a 50bp rate hike."
+    },
+    {
+      "id": "5098315",
+      "time": "2026-09-17 03:06:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮發言人：美聯儲加息 “相當令人遺憾”。"
+    },
+    {
+      "id": "5098313",
+      "time": "2026-09-17 03:05:49",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "DoubleLine執行長岡拉克：如果我是美聯儲票委，今天我會持不同意見，投票支援加息50個基點。"
+    },
     {
       "id": "mkt:01a0ab9b-e3c3-7118-85c7-57ebe96217ed",
       "time": "2026-09-17 03:05:15",
@@ -125079,71 +125226,6 @@
         "國際"
       ],
       "text": "美國海軍爆炸物處理部隊（EOD）與特種作戰艇員隊（SWCC）協助清理霍爾木茲海峽的水雷。"
-    },
-    {
-      "id": "5085716",
-      "time": "2026-09-10 03:08:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：目前尚未找到單一根本原因，但我們確實發現，隨著時間推移，我們生產模型中的偏差推理現象已有所減少。"
-    },
-    {
-      "id": "mkt:01a08791-7e0b-7118-8510-6e6b37e49f24",
-      "time": "2026-09-10 03:07:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC said it could not identify a single root cause, but found biased reasoning behavior in its production models has declined over time."
-    },
-    {
-      "id": "5085714",
-      "time": "2026-09-10 03:07:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "華特迪士尼首席財務官表示，公司希望繼續實現兩位數收益增長。"
-    },
-    {
-      "id": "5085713",
-      "time": "2026-09-10 03:07:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果iPhone 18 Pro國行售價9999元起，iPhone 18 Pro Max國行售價10999元起，9月12日開啟預購，18日發售】9月9日晚間訊息，蘋果公司在其秋季釋出會上釋出iPhone 18 Pro和iPhone 18 Pro Max。蘋果官網顯示，6.3英寸顯示屏的iPhone 18 Pro國行起售價為9999元，提供四個儲存版本：256GB售價9,999元、512GB售價11,999元、1TB售價15,499元、2TB售價20,499元。6.9英寸的iPhone 18 Pro Max國行起售價為10,999元，提供四個儲存版本：256GB售價10,999元、512GB售價12,999元、1TB售價16,499元、2TB售價21,499元。均有四色可選：勃艮第酒紅色、冰川藍色、銀色、黑色。新款將在9月12日晚8點接受預購，於9月18日正式發售。蘋果官網顯示，每位顧客限購 2 部 iPhone 18 Pro 和 2 部 iPhone 18 Pro Max。所有機型將在獲得批准後發售。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a08791-291b-7118-8510-66a770099294",
-      "time": "2026-09-10 03:07:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC investigated the training process to determine whether it can identify root causes of some biased reasoning exhibited by Claude MYTHOS 5 in related incidents."
-    },
-    {
-      "id": "mkt:01a08790-876a-7118-8510-5cebe634d504",
-      "time": "2026-09-10 03:06:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Apple raises China prices for iPhone 17, iPhone 17e and iPhone Air by 800 yuan】Apple's China online store shows new starting prices: iPhone 17 from 6,799 yuan, iPhone 17e from 5,299 yuan and iPhone Air from 8,799 yuan, each 800 yuan above launch price."
-    },
-    {
-      "id": "5085712",
-      "time": "2026-09-10 03:06:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：已展開調查訓練，以確認能否找出Claude Mythos 5在相關事件中出現部分偏見推理問題的根本原因。"
     }
   ]
 }

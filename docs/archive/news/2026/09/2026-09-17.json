@@ -1,7 +1,154 @@
 {
   "date": "2026-09-17",
-  "count": 400,
+  "count": 414,
   "items": [
+    {
+      "id": "mkt:01a0ab9f-019c-7118-85c7-8d9cf710f020",
+      "time": "2026-09-17 03:08:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "White House spokesman says higher interest rates will not change oil prices."
+    },
+    {
+      "id": "mkt:01a0ab9e-b3a1-7118-85c7-872830e68dac",
+      "time": "2026-09-17 03:08:19",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Gundlach said he was not surprised markets weakened during the press conference because he viewed the remarks as limited."
+    },
+    {
+      "id": "5098319",
+      "time": "2026-09-17 03:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮發言人：利率上升不會改變油價。"
+    },
+    {
+      "id": "mkt:01a0ab9e-2416-7118-85c7-7e7b364b9f43",
+      "time": "2026-09-17 03:07:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "White House spokesperson says Fed rate hikes are \"quite regrettable\"."
+    },
+    {
+      "id": "5098318",
+      "time": "2026-09-17 03:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "“新債王”岡拉克：市場在新聞釋出會期間走弱，我並不意外，因為我認為釋出會內容相當空洞。"
+    },
+    {
+      "id": "5098317",
+      "time": "2026-09-17 03:07:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報62.93美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ab9d-c742-7118-85c7-72863def6f60",
+      "time": "2026-09-17 03:07:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Kevin Warsh on most disadvantaged Americans】Kevin Warsh said at a press briefing that the most disadvantaged Americans stand to gain most from a durable economic expansion, a robust labor market and stable prices. Economists broadly view the US recovery as K-shaped, with post‑pandemic divergence between high- and low-income groups. University of Michigan consumer survey data show persistently weaker confidence among lower-income households."
+    },
+    {
+      "id": "te:markets:584328",
+      "time": "2026-09-17 03:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Eases to 6-Week Low — Silver prices were around the $63 per ounce mark on Wednesday, testing their lowest in over one month, after the Federal Reserve delivered a 25bps rate hike. The decision by the US central bank was widely expected following data that reflected high consumer and producer prices, in addition to robust economic growth and low unemployment. Additionally, most FOMC members projected another rate hike this year. Shorter-maturity yields rose to multi-year highs, pressuring bullion prices as markets favor securities that bear yield. Meanwhile, the Bank of Japan is also due to hike its rates this week. In turn, metals with exposure to datacenter development came under pressure as AI model executives voiced concerns over the safety of more intelligent models, risking the speculative demand for compute infrastructure."
+    },
+    {
+      "id": "5098316",
+      "time": "2026-09-17 03:07:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮發言人：美聯儲加息“相當不幸”。"
+    },
+    {
+      "id": "mkt:01a0ab9d-693d-7118-85c7-6e88b09a800a",
+      "time": "2026-09-17 03:06:54",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "Boeing says delivery issues reduce the likelihood that free cash flow will exceed $2.0 billion."
+    },
+    {
+      "id": "mkt:01a0ab9d-39aa-7118-85c7-6232e6f3e781",
+      "time": "2026-09-17 03:06:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) shares extended intraday decline to about 5%, hitting a fresh intraday low."
+    },
+    {
+      "id": "mkt:01a0ab9d-2ccb-7118-85c7-5c8664ca7c33",
+      "time": "2026-09-17 03:06:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Gundlach said if he were a Federal Reserve governor he would vote no today and support a 50bp rate hike."
+    },
+    {
+      "id": "5098315",
+      "time": "2026-09-17 03:06:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮發言人：美聯儲加息 “相當令人遺憾”。"
+    },
+    {
+      "id": "5098313",
+      "time": "2026-09-17 03:05:49",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "DoubleLine執行長岡拉克：如果我是美聯儲票委，今天我會持不同意見，投票支援加息50個基點。"
+    },
     {
       "id": "mkt:01a0ab9b-e3c3-7118-85c7-57ebe96217ed",
       "time": "2026-09-17 03:05:15",
