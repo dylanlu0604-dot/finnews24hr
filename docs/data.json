@@ -1,7 +1,160 @@
 {
-  "updated": "2026-09-17 06:27:19",
-  "count": 13635,
+  "updated": "2026-09-17 06:31:04",
+  "count": 13649,
   "items": [
+    {
+      "id": "mkt:01a0ac57-acd8-7118-85ca-c8080a057d6a",
+      "time": "2026-09-17 06:30:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The U.S. House passed a bill 262-159 to impose sanctions and tariffs on Russia; President Trump is expected to sign it into law."
+    },
+    {
+      "id": "te:markets:584355",
+      "time": "2026-09-17 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Soars by 8.00% — Top commodity gainers are Liquefied Natural Gas Japan Korea (8%), Germany Natural Gas THE (1.93%) and Gasoline (0.76%). Biggest losers are Crude Oil (-3.74%), Brent Oil (-3.05%) and Natural Gas EU (-2.79%)."
+    },
+    {
+      "id": "5098495",
+      "time": "2026-09-17 06:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗希望達成協議。"
+    },
+    {
+      "id": "mkt:01a0ac57-01c6-7118-85ca-c00db8f75732",
+      "time": "2026-09-17 06:29:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said he hopes the war with Iran is close to ending."
+    },
+    {
+      "id": "5098494",
+      "time": "2026-09-17 06:29:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望伊朗戰事能走向結束。"
+    },
+    {
+      "id": "5098493",
+      "time": "2026-09-17 06:29:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院透過法案，授權特朗普對俄羅斯石油買家徵關稅。"
+    },
+    {
+      "id": "mkt:01a0ac56-8e12-7118-85ca-bdcd9a3107d6",
+      "time": "2026-09-17 06:29:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Trump said the US should set interest rates at the lowest level globally."
+    },
+    {
+      "id": "5098492",
+      "time": "2026-09-17 06:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什面對的理事會抱有敵意。"
+    },
+    {
+      "id": "mkt:01a0ac56-1964-7118-85ca-b49ff41de644",
+      "time": "2026-09-17 06:28:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "President Trump said he hopes Federal Reserve Chair Kevin Warsh will remain independent."
+    },
+    {
+      "id": "5098491",
+      "time": "2026-09-17 06:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望沃什保持獨立。"
+    },
+    {
+      "id": "5098490",
+      "time": "2026-09-17 06:28:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：應當實行全球最低水平的利率。"
+    },
+    {
+      "id": "5098489",
+      "time": "2026-09-17 06:27:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【諾基亞加速推進AI-RAN測試，與英偉達推進平臺開發】9月16日，諾基亞宣佈，AI-RAN正在全球範圍內加快推進，北美、歐洲、亞太和中東地區多家運營商正推動AI-RAN從早期評估進入實驗室測試和現網試驗階段，參與者包括A1集團、中華電信、du、e&、Mobily、stc、TPG Telecom和沙特Zain。此前公佈的NTT DOCOMO測試專案也在推進。諾基亞表示，公司此前已推出商用AI原生RAN平臺，並與T-Mobile、軟銀、Indosat Ooredoo Hutchison開展評估，同時擴大OEM合作伙伴陣容，深化與英偉達在AI-RAN平臺及軟體開發工具方面的合作。（介面新聞）"
+    },
+    {
+      "id": "5098488",
+      "time": "2026-09-17 06:27:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我告訴沃什可以按他自己的想法行事。"
+    },
+    {
+      "id": "mkt:01a0ac55-5388-7118-85ca-ad2b00951c63",
+      "time": "2026-09-17 06:27:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said Washington has a difficult council and that interest rates are too high."
+    },
+    {
+      "id": "5098487",
+      "time": "2026-09-17 06:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已與沃什交談。"
+    },
+    {
+      "id": "5098486",
+      "time": "2026-09-17 06:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：利率太高。"
+    },
     {
       "id": "5098485",
       "time": "2026-09-17 06:26:31",
@@ -125820,27 +125973,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Gains by 2.75% — Top commodity gainers are Platinum (2.75%), Silver (2.37%) and Gold (1.07%). Biggest losers are Iron Ore CNY (-0.87%), Steel Rebar (-0.74%) and Lithium Carbonate (-0.68%)."
-    },
-    {
-      "id": "te:markets:582511",
-      "time": "2026-09-10 06:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Soars by 5.11% — Top commodity gainers are Natural Gas UK (5.11%), Heating Oil (5.05%), Natural Gas EU (4.55%), Crude Oil (4.31%) and Brent Oil (4.12%). Biggest losers are Natural gas (-3.80%), Methanol (-3.58%) and Ethanol (-1.09%)."
-    },
-    {
-      "id": "mkt:01a0884a-c4bf-7118-8512-f2af115875a2",
-      "time": "2026-09-10 06:29:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【State Council to hold 3:00pm Beijing briefing on finance measures under 15th Five-Year Plan】The State Council Information Office will hold a press briefing today (10th) at 3:00pm Beijing time on implementing the 15th Five-Year Plan and measures to build China into a financial power. Speakers will include PBOC Deputy Governor Lu Lei; Deputy Director of the National Financial Regulatory Administration Cong Lin; CSRC Vice Chairman Li Chao; and SAFE spokesperson and deputy director Li Bin."
     }
   ]
 }
