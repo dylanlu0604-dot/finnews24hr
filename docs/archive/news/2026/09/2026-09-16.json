@@ -1,7 +1,71 @@
 {
   "date": "2026-09-16",
-  "count": 1262,
+  "count": 1269,
   "items": [
+    {
+      "id": "5096699",
+      "time": "2026-09-16 14:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示，美國與越南企業預計將於下週在紐約簽署29項協議。"
+    },
+    {
+      "id": "5096698",
+      "time": "2026-09-16 14:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示，越捷航空即將達成22架飛機的租賃協議，並將與SpaceX簽署飛機網際網路服務合同。"
+    },
+    {
+      "id": "5096695",
+      "time": "2026-09-16 14:26:09",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "檔案顯示，雪佛龍、埃克森美孚、花旗銀行、高通等美國企業預計將與越南合作方簽署協議。"
+    },
+    {
+      "id": "5096694",
+      "time": "2026-09-16 14:25:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海辰儲能釋出新一代鈉電儲能系統 CTO 易梓琦：成本目標至少要和鋰電池相當】海辰儲能今天釋出新一代鈉電儲能一體化解決方案∞Power N4.0MWh，並計劃在2027年正式開啟全鏈條量產交付。海辰儲能董事、技術長易梓琦表示：“鈉電跨越普惠性和可及性兩大門檻，具備了成為能源基礎設施的條件。海辰儲能對新一代鈉電儲能系統設定的成本目標是至少要做到和碳酸鋰價格在 15 萬元一噸時的鋰電池相當。我們希望鈉電能推動電化學儲能從產品變成“新基建”，進入“一毛錢一度電”的時代。“（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0a8e4-39e9-7118-85ae-5598c44566e8",
+      "time": "2026-09-16 14:25:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【SEBI eases arbitrage fund limits, allows temporary unhedged holdings up to 1%】SEBI has relaxed position limits for arbitrage mutual funds, permitting them to hold temporarily up to 1% of a scheme's assets unhedged. The change aims to inject liquidity into the closing auction, which has struggled to attract sufficient participation since its launch on Aug 3. Assets under management in arbitrage funds stood at 3 tln rupees (USD 31bn) at end-August. Previously, funds were required to remain fully hedged, limiting auction participation; under the prior framework price moves in the final 30 minutes created dislocations between spot and futures that arbitrageurs could close, and the shortened closing auction narrowed that intervention window, raising the risk of temporary mismatches."
+    },
+    {
+      "id": "5096693",
+      "time": "2026-09-16 14:24:43",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【野人先生：對於廣大顧客的意見和建議都會用心聆聽】9月16日，@野人先生gelato發文稱，感謝大家長期以來對“野人先生”的關心和支援。對於廣大顧客的意見和建議，我們都會用心聆聽，努力做得更好，把更美味的東方Gelato帶給消費者。"
+    },
+    {
+      "id": "mkt:01a0a8e3-3d65-7118-85ae-4886730aa93f",
+      "time": "2026-09-16 14:24:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says it shot down US MQ-9 drone】Iran’s Islamic Revolutionary Guard Corps said on the 16th that its Aerospace Force shot down a US MQ-9 drone in the early hours over Qeshm Island. The statement said this was the 52nd US MQ-9 shot down by the Revolutionary Guard."
+    },
     {
       "id": "mkt:01a0a8e1-400e-7118-85ae-40123d78b3a9",
       "time": "2026-09-16 14:22:09",
