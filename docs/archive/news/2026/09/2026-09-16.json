@@ -1,7 +1,103 @@
 {
   "date": "2026-09-16",
-  "count": 2343,
+  "count": 2353,
   "items": [
+    {
+      "id": "5097944",
+      "time": "2026-09-16 23:40:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏宣佈9月全球漲價，產品包含聚乙烯。"
+    },
+    {
+      "id": "5097943",
+      "time": "2026-09-16 23:39:34",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通預判美聯儲決議日行情：美股股指波動幅度或達2%】摩根大通表示，市場普遍預期本次將加息25個基點，美聯儲的表態將決定決議公佈後股市上漲還是下跌。若僅按常規加息、前瞻指引措辭保守，標普500指數或上漲0.25%–0.75%；若加息同時釋放更強抗通脹訊號，股指漲幅可達0.5%–1%。若意外暫停加息，長端收益率上行，股市或將下跌1.25%–1.75%。最大風險場景是，美聯儲釋放訊號表明，為抑制通脹，利率必須維持在顯著更高的水平。摩根大通估算，該情形下標普500指數可能下跌1%–2%，本輪上漲行情或將承壓。"
+    },
+    {
+      "id": "te:economy:584275",
+      "time": "2026-09-16 23:38:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Retail Sales Growth Slows in July — Colombia’s real retail sales rose 5.3% year over year in July 2026, missing forecasts for an 11.2% increase and slowing from 14.7% growth in June. This marked the slowest growth since September 2024. Fourteen merchandise lines recorded increases in real sales, while five declined. The largest positive contributions came from motor vehicles and motorcycles, mainly for household use (21.8%), other motor vehicles and motorcycles (10.8%), and sound and video equipment and devices (25%). Declines in vehicle fuel sales (-3.6%), spare parts, components, accessories and lubricants for vehicles, mainly for household consumption (-2%), clothing and textiles (-3%), pharmaceutical and medicinal products (-0.7%), and footwear, leather goods and leather substitutes (-0.2%) limited overall retail growth."
+    },
+    {
+      "id": "5097942",
+      "time": "2026-09-16 23:38:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣可再生能源（GE Vernova）表示，有意開展更多併購交易，且幾乎可以肯定交易將圍繞自身核心業務展開。"
+    },
+    {
+      "id": "mkt:01a0aade-48ed-7118-85c0-3fa571cb26af",
+      "time": "2026-09-16 23:38:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Wednesday, Sept 16: Germany's DAX 30 rose 126.60 points (+0.50%) to 25,550.07; UK's FTSE 100 gained 29.52 points (+0.28%) to 10,687.65; France's CAC 40 added 50.31 points (+0.62%) to 8,140.59; Euro STOXX 50 climbed 33.45 points (+0.54%) to 6,269.95; Spain's IBEX 35 was up 75.41 points (+0.39%) at 19,631.31; Italy's FTSE MIB advanced 427.31 points (+0.83%) to 51,982.50."
+    },
+    {
+      "id": "mkt:01a0aade-0308-7118-85c0-33c99e138eae",
+      "time": "2026-09-16 23:37:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "UN Secretary-General Guterres said the rise of emerging powers has slightly reduced developed countries' share of global GDP."
+    },
+    {
+      "id": "mkt:01a0aadd-77e3-7118-85c0-294c009c6435",
+      "time": "2026-09-16 23:37:15",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines (UAL.O) CFO said bookings for Q4 are very strong."
+    },
+    {
+      "id": "mkt:01a0aadd-5bc7-7118-85c0-22e4ab7fe813",
+      "time": "2026-09-16 23:37:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN Secretary-General Guterres said power relations no longer reflect global realities and power must be redistributed."
+    },
+    {
+      "id": "5097941",
+      "time": "2026-09-16 23:37:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合航空首席財務官：進入第四季度以來，我們的預訂量表現極為強勁。"
+    },
+    {
+      "id": "mkt:01a0aadd-1344-7118-85c0-1c89772053c7",
+      "time": "2026-09-16 23:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude 4.8 quake in Ibaraki; Tokyo felt shaking】The Japan Meteorological Agency said a magnitude-4.8 earthquake struck southern Ibaraki Prefecture at about 00:07 on the 17th local time. Maximum seismic intensity was 3 and the depth was about 70 km. Tokyo reported noticeable shaking."
+    },
     {
       "id": "5097940",
       "time": "2026-09-16 23:36:20",
