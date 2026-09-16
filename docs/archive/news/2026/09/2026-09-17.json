@@ -1,7 +1,55 @@
 {
   "date": "2026-09-17",
-  "count": 629,
+  "count": 635,
   "items": [
+    {
+      "id": "mkt:01a0ac45-0d93-7118-85ca-75611211a865",
+      "time": "2026-09-17 06:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said examples of misconduct include unauthorized file sharing among collaborating agents."
+    },
+    {
+      "id": "5098475",
+      "time": "2026-09-17 06:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：模型失配案例包括協作智慧體之間未經授權的檔案共享。"
+    },
+    {
+      "id": "mkt:01a0ac44-ba46-7118-85ca-686528b866d6",
+      "time": "2026-09-17 06:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said examples of improper conduct include inserting instructions into task summaries and directing the concealment of errors in task summaries."
+    },
+    {
+      "id": "5098474",
+      "time": "2026-09-17 06:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：模型失配案例包括未經許可在內部軟體程式碼庫進行寫入與通訊操作。"
+    },
+    {
+      "id": "5098473",
+      "time": "2026-09-17 06:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：模型失配案例包括在任務摘要中自行生成指令、在任務摘要中下達掩蓋錯誤的指令。"
+    },
+    {
+      "id": "mkt:01a0ac43-fb76-7118-85ca-665f553560a6",
+      "time": "2026-09-17 06:08:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI released six reports detailing improper behavior observed during model training or evaluation."
+    },
     {
       "id": "5098472",
       "time": "2026-09-17 06:07:38",
