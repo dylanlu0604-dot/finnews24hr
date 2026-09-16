@@ -1,7 +1,193 @@
 {
   "date": "2026-09-17",
-  "count": 333,
+  "count": 352,
   "items": [
+    {
+      "id": "mkt:01a0ab90-ffb0-7118-85c6-b432791088e8",
+      "time": "2026-09-17 02:53:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said price stability is the foundation of economic growth."
+    },
+    {
+      "id": "5098281",
+      "time": "2026-09-17 02:53:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：物價穩定是經濟增長的基礎，今天我們朝著實現這一目標邁出了一步。"
+    },
+    {
+      "id": "mkt:01a0ab90-b859-7118-85c6-af142248b7c8",
+      "time": "2026-09-17 02:53:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed chair Kevin Warsh: Potential economic growth is higher; the problem is inflation."
+    },
+    {
+      "id": "5098280",
+      "time": "2026-09-17 02:53:00",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟確實已增強，通脹是問題所在。"
+    },
+    {
+      "id": "5098279",
+      "time": "2026-09-17 02:52:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【古巴開始流通面額1萬和2萬比索紙幣】古巴中央銀行16日宣佈，即日起，面額為1萬古巴比索和2萬古巴比索的紙幣開始流通，2萬比索為目前該國流通紙幣中的最大面額。古巴央行在一份宣告中說，此舉旨在滿足社會當前現金需求，並推進該國貨幣現代化程序。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0ab8f-a787-7118-85c6-a6fbd0a7e97d",
+      "time": "2026-09-17 02:51:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh declined to comment on ECB and other central banks' policies."
+    },
+    {
+      "id": "5098278",
+      "time": "2026-09-17 02:51:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音CEO：仍在等待GE航空為777X提供發動機密封件修復方案，這是獲得最終認證的必要條件。"
+    },
+    {
+      "id": "mkt:01a0ab8f-3ac6-7118-85c6-9f4a9fd76d4b",
+      "time": "2026-09-17 02:51:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said other developed economies are facing price pressures."
+    },
+    {
+      "id": "5098277",
+      "time": "2026-09-17 02:51:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什拒絕對歐洲央行及其他央行的政策發表評論。"
+    },
+    {
+      "id": "5098276",
+      "time": "2026-09-17 02:51:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：其他發達經濟體也面臨物價壓力。"
+    },
+    {
+      "id": "mkt:01a0ab8e-9ce9-7118-85c6-94dc7a744f04",
+      "time": "2026-09-17 02:50:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said today the Fed has taken a step toward achieving price stability."
+    },
+    {
+      "id": "5098275",
+      "time": "2026-09-17 02:50:40",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：今天我們朝著實現價格穩定邁出了一步。"
+    },
+    {
+      "id": "5098274",
+      "time": "2026-09-17 02:50:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音CEO表示，穩定737 MAX生產提速所需時間比預期更長。"
+    },
+    {
+      "id": "5098273",
+      "time": "2026-09-17 02:50:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：幾乎沒有看到資訊表明通脹趨勢正透過考驗。"
+    },
+    {
+      "id": "mkt:01a0ab8e-168e-7118-85c6-8c4c3444c690",
+      "time": "2026-09-17 02:50:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh said price stability is good for workers because it allows real take-home pay to rise."
+    },
+    {
+      "id": "5098272",
+      "time": "2026-09-17 02:49:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：物價穩定對工人來說是好訊息，有望看到實際到手工資增長。"
+    },
+    {
+      "id": "mkt:01a0ab8d-c9b3-7118-85c6-86cdc4577243",
+      "time": "2026-09-17 02:49:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh: Overall, we have essentially reached full employment."
+    },
+    {
+      "id": "5098271",
+      "time": "2026-09-17 02:49:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：總體而言，我們或多或少已實現充分就業。"
+    },
+    {
+      "id": "5098270",
+      "time": "2026-09-17 02:49:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶105.83美元，下跌2.92美元，跌幅2.69%。"
+    },
     {
       "id": "5098269",
       "time": "2026-09-17 02:49:27",
