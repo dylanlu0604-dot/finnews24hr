@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-16 09:07:37",
+  "updated": "2026-09-16 10:21:33",
   "items": [
+    {
+      "id": "2026091610",
+      "date": "2026-09-16",
+      "run_hour": 10,
+      "started_at": "2026-09-16 10:17:02",
+      "finished_at": "2026-09-16 10:21:33",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 9,
+      "failure_count": 3,
+      "success_sources": [
+        "cnyes",
+        "taishin",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "investrade",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "failed_sources": [
+        "cathay",
+        "factset",
+        "fx678"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6606995",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "taishin",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.taishinbank.com.tw/eServiceA/invst/servlet/servlet.invst.IReportServlet?action=file&no=192983",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-16",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-09-15",
+          "actual_date": "2026-09-15"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260916_US_SOX_Equity.pdf",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-09-14，預期日期是 2026-09-15",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-15",
+          "actual_date": "2026-09-14"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/230103",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "fx678",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='news.fx678.com', port=443): Max retries exceeded with url: /column/cjzc (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.fx678.com', port=443) at 0x7fa5e71b29d0>, 'Connection to news.fx678.com timed out. (connect timeout=30)'))",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-16",
+          "actual_date": ""
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-september-15-2026/",
+          "expected_date": "2026-09-15",
+          "actual_date": "2026-09-15"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/09/WBC_MorningReport16Sep2026.pdf",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260916.pdf",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "mizuho",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/6aa9eafec1714cb142ee2794_16545abc17d1b5edf176bfea42ed1f5d_MizuhoDaily_260916.pdf",
+          "expected_date": "2026-09-16",
+          "actual_date": "2026-09-16"
+        }
+      ]
+    },
     {
       "id": "2026091609",
       "date": "2026-09-16",
