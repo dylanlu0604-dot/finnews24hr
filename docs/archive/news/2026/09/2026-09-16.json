@@ -1,7 +1,101 @@
 {
   "date": "2026-09-16",
-  "count": 759,
+  "count": 769,
   "items": [
+    {
+      "id": "mkt:01a0a7ef-e03c-7118-85a8-202f38c1b0fd",
+      "time": "2026-09-16 09:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share baijiu sector staged a short-lived rally; Kuaijishan hit the daily limit, Guyue Longshan rose over 7%, and Laiyifen, Zhongrui, Weilong Dangjia and Huangtai also advanced."
+    },
+    {
+      "id": "5096343",
+      "time": "2026-09-16 09:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國以涉嫌對白人“種族歧視”為由限制南非官員簽證】美國國務卿魯比奧15日宣佈一項新政策，限制向被指控“種族歧視”的南非官員發放簽證。魯比奧在一份宣告中稱，南非政府未能充分解決針對阿非利卡人和其他少數族裔群體的“出於種族動機的犯罪和政府支援的歧視”。因此，美國正在對參與南非相關政策的外國公民實施簽證限制，這些政策涉及“基於種族的歧視性立法、無償徵收土地的威脅，以及透過口號和標語煽動種族暴力”。"
+    },
+    {
+      "id": "te:markets:584046",
+      "time": "2026-09-16 09:58:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Remain Under Pressure — The Shanghai Composite fell 0.3% to 3,852 on Wednesday, hitting a fresh one-month low, while the Shenzhen Component dropped 0.4% to 13,243, its lowest level since December 2025, as investors remained cautious despite signs of progress in US-China trade talks. The expectations for an extended trade truce between the two economies are firming, with the two sides discuss cutting tariffs on goods including US energy and agricultural products. Treasury Secretary Scott Bessent said Tuesday that he will meet his Chinese counterpart, He Lifeng, this weekend ahead of the Sept. 24 summit between President Donald Trump and Xi Jinping in Washington. Despite the latest signs of progress, investors remained cautious ahead of the leaders’ meeting, with the outcome still uncertain. Notable decliners included PetroChina (-1.6%), China Jushi Co., Ltd (-1.6%), CATL (-2.6%), Luxshare Precision Industry (-1%), and Muyuan Foods (-1.3%)."
+    },
+    {
+      "id": "5096342",
+      "time": "2026-09-16 09:57:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊拉昇，金楓酒業、會稽山漲停】其他酒類板塊拉昇，金楓酒業、會稽山漲停，古越龍山、百潤股份、威龍股份、張裕A跟漲。"
+    },
+    {
+      "id": "te:markets:584043",
+      "time": "2026-09-16 09:56:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Advances Amid Supply Concerns — European natural gas prices rose above €81/MWh on Wednesday after falling in the previous session, returning to levels close to 2022 highs as supply concerns persist ahead of the winter heating season. Military tensions have kept the Strait of Hormuz largely inaccessible to commercial shipping, keeping Qatari LNG export flows severely restricted and limiting supplies to Europe. European gas storage facilities are around 68% full, still below the seasonal average at a time when inventories would typically be nearing maximum capacity. Concerns over supply security have been reinforced by JERA Global CEO Yukio Kani, who warned that Europe’s low inventories leave the region vulnerable to prolonged disruptions and stronger competition for LNG cargoes. At the same time, scheduled maintenance at Norwegian gas facilities is temporarily reducing pipeline supplies to Europe, further tightening near-term supply."
+    },
+    {
+      "id": "5096341",
+      "time": "2026-09-16 09:56:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【科技部部長陰和俊：推進人工智慧賦能科研創新，完善算力、資料等基礎設施，拓展科學研究智慧化應用場景】科技部部長陰和俊在《求是》雜誌發文指出，要穩步提升中央、地方財政基礎研究經費規模，採取更有力政策撬動企業加大基礎研究投入，打通社會力量設立科學基金和捐贈資助基礎研究的渠道，拓展科技金融支援基礎研究的路徑。構建定位清晰、管理規範、配置高效的資助體系，最佳化競爭性支援與穩定支援相結合的資助機制，提升經費使用效能。強化科技基礎條件自主保障，統籌重大科技基礎設施建設與國家重大科研任務佈局，集中力量攻關高階科研儀器，培育科研儀器龍頭企業，建設世界一流科技期刊，打造具備國際競爭力的科技出版集團。推進人工智慧賦能科研創新，完善算力、資料等基礎設施，拓展科學研究智慧化應用場景。做好實驗材料、科學資料、科技資源調查、科學考察等基礎性工作。"
+    },
+    {
+      "id": "5096340",
+      "time": "2026-09-16 09:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：1-8月計算機、通訊和其他電子裝置製造業增加值同比增長38.5%】北京市統計局資料顯示，1-8月，工業生產保持平穩發展態勢，北京市規模以上工業增加值按可比價格計算，比上年同期增長5.5%。四大支柱行業“三增一降”。1-8月，36個工業大類行業中，14個行業增加值同比實現增長。四大支柱行業中，計算機、通訊和其他電子裝置製造業增長38.5%；醫藥製造業增長4.8%；電力、熱力生產和供應業增長1.6%；汽車製造業下降14.1%。"
+    },
+    {
+      "id": "5096339",
+      "time": "2026-09-16 09:55:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【氫成綠動完成近億元天使+輪融資】近日，氫成綠動新能源（武漢）有限公司完成近億元天使+輪融資，由朝希資本領投，順為資本持續追加投資。本輪資金將全部用於大功率氫內燃機技術迭代、算電協同場景落地與零碳園區閉環方案複製。"
+    },
+    {
+      "id": "te:markets:584042",
+      "time": "2026-09-16 09:55:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Declines for Third Straight Session — The Japanese yen weakened past 155 per dollar on Wednesday, extending its decline for a third consecutive session as the dollar strengthened ahead of an expected interest rate hike by the US Federal Reserve. The yen also came under pressure from rising oil prices, which are increasing import costs for Japan’s oil-dependent economy. Still, the Japanese currency remains supported by expectations of more aggressive policy tightening by the Bank of Japan, recent joint interventions by Tokyo and Washington, and prospects for greater capital repatriation by domestic investors. Markets are currently pricing in roughly an 80% chance of a BOJ rate hike on Friday, with another increase expected by the end of January. Meanwhile, data showed that Japanese exports rose more than anticipated in August, supported by strong demand for AI-related chips despite ongoing supply disruptions stemming from the conflict in the Middle East."
+    },
+    {
+      "id": "5096338",
+      "time": "2026-09-16 09:54:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本電信公司NTT DoCoMo未經客戶同意向亞馬遜日本提供34.4萬賬戶資訊】9月16日，日本電信運營商NTT DoCoMo表示，公司在未獲得客戶同意的情況下，向亞馬遜日本提供了34.4213萬名客戶的賬戶資訊。NTT DoCoMo稱，相關問題源於網站更新時遺漏了客戶同意資訊共享的提示。此次提供的資訊包括電話號碼和所使用的服務套餐，但未向亞馬遜日本提供客戶姓名等其他資訊。亞馬遜日本已刪除相關資訊。"
+    },
     {
       "id": "5096337",
       "time": "2026-09-16 09:54:01",
