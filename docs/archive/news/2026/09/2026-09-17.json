@@ -1,7 +1,23 @@
 {
   "date": "2026-09-17",
-  "count": 617,
+  "count": 619,
   "items": [
+    {
+      "id": "5098464",
+      "time": "2026-09-17 06:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.43美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ac3a-83bc-7118-85ca-4c2c446572d6",
+      "time": "2026-09-17 05:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Loudoun County in Northern Virginia’s Data Center Alley is advancing a measure to pause review of new data‑center and power‑substation applications for up to 12 months. Similar pause measures are spreading across the United States."
+    },
     {
       "id": "5098463",
       "time": "2026-09-17 05:43:16",

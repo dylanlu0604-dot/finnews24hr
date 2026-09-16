@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-17 05:56:48",
-  "count": 13623,
+  "updated": "2026-09-17 06:00:54",
+  "count": 13619,
   "items": [
+    {
+      "id": "5098464",
+      "time": "2026-09-17 06:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.43美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ac3a-83bc-7118-85ca-4c2c446572d6",
+      "time": "2026-09-17 05:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Loudoun County in Northern Virginia’s Data Center Alley is advancing a measure to pause review of new data‑center and power‑substation applications for up to 12 months. Similar pause measures are spreading across the United States."
+    },
     {
       "id": "5098463",
       "time": "2026-09-17 05:43:16",
@@ -125692,58 +125708,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude opened 0.5% higher on Thursday, trading at $94.85/bbl."
-    },
-    {
-      "id": "5085878",
-      "time": "2026-09-10 06:00:43",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【共和黨中期選舉大會今晚達拉斯啟幕，特朗普、萬斯登臺造勢】當地時間今晚，首屆共和黨中期選舉大會在得克薩斯州達拉斯拉開直播帷幕。今年11月的國會控制權爭奪進入關鍵階段，美國總統特朗普、副總統萬斯以及共和黨核心候選人將登臺，在中期選舉前舉辦這場史無前例、為期兩晚的黃金時段活動。"
-    },
-    {
-      "id": "5085877",
-      "time": "2026-09-10 06:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報97.31美元/桶。"
-    },
-    {
-      "id": "5085876",
-      "time": "2026-09-10 06:00:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破97美元/桶，日內漲1.31%。"
-    },
-    {
-      "id": "5085875",
-      "time": "2026-09-10 06:00:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報67.94美元/盎司。"
-    },
-    {
-      "id": "5085874",
-      "time": "2026-09-10 05:58:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人發表宣告：對七名厄瓜多前官員實施制裁。"
-    },
-    {
-      "id": "mkt:01a0882e-0da7-7118-8512-b1b52b5f85ce",
-      "time": "2026-09-10 05:58:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign ministry spokesman BAGHAEI said US Secretary of State Rubio's lies cannot replace facts. He said Ansar Allah (the Houthi movement) is an independent actor that will decide its own actions, will accept no one's orders and is not a proxy for anyone."
     }
   ]
 }
