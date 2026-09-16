@@ -1,7 +1,15 @@
 {
   "date": "2026-09-16",
-  "count": 1131,
+  "count": 1132,
   "items": [
+    {
+      "id": "mkt:01a0a8b0-1f41-7118-85ac-278011eb9f74",
+      "time": "2026-09-16 13:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US attorney general says FBI found new information on 2024 shooter in attempt on President Trump】US Attorney General Todd Blanche said on the 15th the FBI has recently uncovered additional information about Thomas Matthew Crooks, the gunman in the 2024 attempt on President Trump, relating to his background and experience; Blanche provided no further details at a White House briefing. A UK source who reviewed the documents said the new material alleges Crooks used the name of the late GOP senator and former presidential candidate Bob Dole to receive parcels, purchased parts and tools from Amazon to modify a rifle, and that after Secret Service agents shot Crooks dead an anonymous party paid to have him cremated."
+    },
     {
       "id": "5096637",
       "time": "2026-09-16 13:25:04",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-16 13:26:38",
-  "count": 13420,
+  "updated": "2026-09-16 13:30:23",
+  "count": 13418,
   "items": [
+    {
+      "id": "mkt:01a0a8b0-1f41-7118-85ac-278011eb9f74",
+      "time": "2026-09-16 13:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US attorney general says FBI found new information on 2024 shooter in attempt on President Trump】US Attorney General Todd Blanche said on the 15th the FBI has recently uncovered additional information about Thomas Matthew Crooks, the gunman in the 2024 attempt on President Trump, relating to his background and experience; Blanche provided no further details at a White House briefing. A UK source who reviewed the documents said the new material alleges Crooks used the name of the late GOP senator and former presidential candidate Bob Dole to receive parcels, purchased parts and tools from Amazon to modify a rifle, and that after Secret Service agents shot Crooks dead an anonymous party paid to have him cremated."
+    },
     {
       "id": "5096637",
       "time": "2026-09-16 13:25:04",
@@ -123634,31 +123642,6 @@
         "公司"
       ],
       "text": "歷峰集團任命安東·魯珀特（Anton Rupert）為非執行聯席副主席。"
-    },
-    {
-      "id": "5084263",
-      "time": "2026-09-09 13:30:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.01%，成分股中，沐曦股份跌4.67%，恆玄科技跌4.28%，摩爾執行緒跌3.30%，艾力斯跌2.72%。"
-    },
-    {
-      "id": "5084262",
-      "time": "2026-09-09 13:28:44",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【廣東韶關：擴大算力基礎設施規模 推動聯通與騰訊儘快簽約確定新增50MW算力規模】《韶關市“灣區算谷”建設與算力產業高質量發展規劃（公開徵求意見稿）》公開徵求意見。其中提到，擴大算力基礎設施規模，構建多元化算力體系。推動在建及擬建資料中心專案加快建設進度，重點推進騰訊、萬國、中聯等在建專案提速建設，推動秦淮資料、電信韶塘、中金資料等專案開工建設。推進萬國、聯通簽約騰訊250MW算力規模專案加快伺服器上架，推動聯通與騰訊儘快簽約確定新增50MW算力規模，推動電信中標騰訊200MW韶塘算力專案加快落地建設。推動騰訊加快自用伺服器上架，持續擴大萬卡叢集數量。"
-    },
-    {
-      "id": "5084261",
-      "time": "2026-09-09 13:28:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院判令韓國遊戲業億萬富翁、Smilegate創始人權赫彬向妻子分割超過2萬億韓元的財產。"
     }
   ]
 }
