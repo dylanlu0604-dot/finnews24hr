@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-17 06:42:18",
-  "count": 13661,
+  "updated": "2026-09-17 06:46:01",
+  "count": 13665,
   "items": [
+    {
+      "id": "5098509",
+      "time": "2026-09-17 06:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭二季度GDP季環比 0.2%，預期 0.1%，前值 0.8%。\n紐西蘭二季度GDP同比 2.6%，預期 2.2%，前值 1.5%。"
+    },
+    {
+      "id": "mkt:01a0ac65-36f6-7118-85cb-11c43952cf30",
+      "time": "2026-09-17 06:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 GDP YoY 2.6% vs. 2.2% expected; prior revised up to 1.7% from 1.5%."
+    },
+    {
+      "id": "mkt:01a0ac65-31a8-7118-85cb-0b8ddd82b161",
+      "time": "2026-09-17 06:45:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 GDP QoQ 0.2% vs 0.1% expected; prior quarter revised up from 0.8% to 0.9%."
+    },
+    {
+      "id": "mkt:01a0ac65-154a-7118-85ca-ff21f73901d1",
+      "time": "2026-09-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | GDP (YoY) (Q2) | actual 2.6% | consensus 2.2% | previous 1.50%"
+    },
+    {
+      "id": "mkt:01a0ac65-154b-7118-85cb-0737ef75d2ea",
+      "time": "2026-09-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | GDP (QoQ) (Q2) | actual 0.2% | consensus 0.10% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0ac64-995e-7118-85ca-f1423a98c744",
+      "time": "2026-09-17 06:44:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Trump urges Fed chair Kevin Warsh to vote with the Fed board】President Trump said he told Fed Chair Kevin Warsh to vote with the Federal Reserve Board because it 'doesn't matter,' calling the board 'very hostile' and 'very politicized.'"
+    },
+    {
+      "id": "mkt:01a0ac64-864d-7118-85ca-eb96929eca99",
+      "time": "2026-09-17 06:44:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. House passes Russia sanctions bill, grants president tariff authority on Russian oil and gas imports】The U.S. House passed a Russia sanctions-and-tariffs bill 262-159; the measure will be sent to President Trump for signature. The bill targets Russian officials, companies and financial institutions that support the war in Ukraine and authorizes the president to impose tariffs on major importers of Russian oil and gas. Tariff authority was a key Democratic objection; Democrats warned it could allow the president to designate any country as aiding evasion and impose tariffs of up to 100% without oversight or a sunset clause."
+    },
+    {
+      "id": "5098508",
+      "time": "2026-09-17 06:43:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【私募五大策略業績分化，量化多頭領跑】8月A股市場震盪反彈，帶動私募產品淨值普遍修復。第三方機構私募排排網資料顯示，截至8月31日，在該平臺有業績記錄的12597只私募產品8月平均收益率達4.53%，今年以來的平均收益率提升至4.99%，超六成產品實現正收益。五大策略表現顯著分化：8月股票策略以5.44%的平均收益率領跑，多資產策略、組合基金策略、期貨及衍生品策略的平均收益率分別為3.84%、3.47%和3.14%，債券策略當月的平均收益率為0.44%。 更值得關注的是股票策略內部的結構性分化——量化多頭單月平均收益率達9.71%，年內收益率由負轉正至6.62%，而主觀多頭8月平均收益率僅3.82%。有私募人士表示，這種分化的本質是各策略貝塔來源不同，並非簡單的“誰強誰弱”。（中證報）"
+    },
     {
       "id": "te:markets:584357",
       "time": "2026-09-17 06:40:03",
@@ -126055,42 +126131,6 @@
         "國際"
       ],
       "text": "伊朗外交部：胡塞武裝是獨立行為體。"
-    },
-    {
-      "id": "te:markets:582516",
-      "time": "2026-09-10 06:45:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 4.12% — Top crypto losers are Binance (-4.12%), XRP (-1.93%), Ether (-1.17%) and Bitcoin (-0.57%)."
-    },
-    {
-      "id": "5085892",
-      "time": "2026-09-10 06:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西淡水河谷：尚未就任何新債券發行做出決定。"
-    },
-    {
-      "id": "5085891",
-      "time": "2026-09-10 06:44:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國考慮加入由美國主導的霍爾木茲海峽海上聯盟。"
-    },
-    {
-      "id": "mkt:01a08856-2881-7118-8513-038d699790a0",
-      "time": "2026-09-10 06:42:22",
-      "tags": [
-        "MKT News",
-        "ET.N"
-      ],
-      "text": "【Energy Transfer to move primary listing from New York to Texas】Energy Transfer LP plans to shift its primary listing from the New York Stock Exchange to the Texas Stock Exchange, with the move expected as early as next month. At about $75 billion market cap, this would be the largest U.S. corporate primary-listing migration to Texas to date. The Texas Stock Exchange has so far attracted several ETF listings and is seeking to win more corporate listings from NYSE and Nasdaq."
     }
   ]
 }
