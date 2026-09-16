@@ -1,7 +1,118 @@
 {
   "date": "2026-09-17",
-  "count": 390,
+  "count": 400,
   "items": [
+    {
+      "id": "mkt:01a0ab9b-e3c3-7118-85c7-57ebe96217ed",
+      "time": "2026-09-17 03:05:15",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Boeing (BA.N) CEO said stabilizing 737 output at 47 aircraft a month will take longer than expected."
+    },
+    {
+      "id": "mkt:01a0ab9b-d867-7118-85c7-4bb0d34da587",
+      "time": "2026-09-17 03:05:12",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact mixed"
+      ],
+      "text": "Boeing (BA.N) CEO said the current supply‑chain bottleneck is in wing production; to reach 52 737s/month, production lines must stabilize."
+    },
+    {
+      "id": "5098312",
+      "time": "2026-09-17 03:05:12",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什新聞釋出會要點一覽】\n1、利率決議：FOMC一致投票加息25個基點；本次屬於審慎決策，核心目標實現價格穩定，認為物價穩定才是經濟可持續增長的基礎。\n2、通脹判斷（核心鷹派）：通脹水平過高、持續時間久；夏季資料沒有改善，大量細分項漲幅仍高於3%；委員會尚未確信通脹正及時向2%目標回落，通脹風險向上，就業市場風險大體平衡。\n3、經濟與就業：美國經濟正在走強、具備韌性；當前大致實現充分就業；不需要以損害勞動力市場為代價壓制通脹，物價穩定最終有利於勞動者實際工資提升。\n4、政策溝通：放棄前瞻指引：不打算給出利率前瞻指引，拒絕預判未來政策行動；沃什本人不提交點陣圖；中性利率理論概念對當下實際決策沒有操作意義。\n5、金融環境判斷：委員會普遍認為，當前金融條件還談不上緊縮；美債收益率上行來源於三點：美國經濟強勁、資本開支激增、地緣政治因素。\n6、資料決策邏輯：不糾結單月CPI等個別資料，重點看中長期趨勢；地緣政治的前景判斷已經發生改變；油價這類單一商品價格美聯儲無法直接干預。\n7、美聯儲獨立性：堅守職責邊界，不評論其他國家央行政策；被問及和總統溝通情況時不予置評；獨立性是雙向，要把行動限定在自身使命範圍。\n8、AI相關表態：密切跟蹤AI發展動向；AI工作組要在年底提交報告；但AI風險收益的政策抉擇交給其他政策制定者，美聯儲不負責AI安全監管。\n9、市場後果：表態釋放鷹派訊號，交易員押注年底前還會再加息兩次；美元指數走高、美債收益率上行，黃金、美股承壓走弱。"
+    },
+    {
+      "id": "mkt:01a0ab9b-aa8f-7118-85c7-4158acf3b50d",
+      "time": "2026-09-17 03:05:00",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) CEO says 737 MAX 10 certification will be completed \"soon\"."
+    },
+    {
+      "id": "te:economy:584326",
+      "time": "2026-09-17 03:04:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Arab Emirates",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "UAE Central Bank Raises Base Rate — The Central Bank of the UAE (CBUAE) raised its overnight deposit facility base rate by 25 bps to 3.9% in September 2026, mirroring the Federal Reserve’s decision. The UAE’s monetary policy remains closely aligned with that of the Fed, as the dirham is pegged to the US dollar. The decision followed the Fed’s announcement that it would raise the interest rate on reserve balances by 25 bps to a 3.75%-4% range at its meeting, while a majority of FOMC members projected another hike this year. The CBUAE also maintained the rate applicable to short-term liquidity borrowing from the central bank through all standing credit facilities at 50 bps above the Base Rate."
+    },
+    {
+      "id": "mkt:01a0ab9a-a724-7118-85c7-3fc8f4486ba5",
+      "time": "2026-09-17 03:03:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Kevin Warsh explains why the Fed held in July then hiked in September】The Fed raised rates in September after holding in July, Kevin Warsh said, citing three developments between meetings: recent data showing a stronger US economy, notably the labor market; summer inf remaining well above the Fed’s 2% YoY inf target; and geopolitical developments that altered the Fed’s outlook — he did not explicitly name a US‑Iran conflict in the Middle East. Warsh said those three factors led to a firm, unanimous decision to tighten policy."
+    },
+    {
+      "id": "mkt:01a0ab99-7f43-7118-85c7-34955b6b1c3e",
+      "time": "2026-09-17 03:02:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Market pricing implies about a 50% probability of a Federal Reserve rate hike in October."
+    },
+    {
+      "id": "5098310",
+      "time": "2026-09-17 03:02:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛股價跌幅擴大至3%。"
+    },
+    {
+      "id": "5098309",
+      "time": "2026-09-17 03:02:02",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員預計美聯儲10月份加息的可能性約為50%。"
+    },
+    {
+      "id": "mkt:01a0ab98-58a8-7118-85c7-2817201fd142",
+      "time": "2026-09-17 03:01:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh's press conference ended after about 30 minutes."
+    },
     {
       "id": "5098307",
       "time": "2026-09-17 03:00:52",
