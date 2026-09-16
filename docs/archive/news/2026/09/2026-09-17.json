@@ -1,7 +1,1160 @@
 {
   "date": "2026-09-17",
-  "count": 498,
+  "count": 617,
   "items": [
+    {
+      "id": "5098463",
+      "time": "2026-09-17 05:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費倫：特朗普提出的 5000 美元支票方案不一定會引發通脹。"
+    },
+    {
+      "id": "5098462",
+      "time": "2026-09-17 05:40:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費倫：油價已開始向經濟傳導。當前通脹水平仍偏高，但正在回落。"
+    },
+    {
+      "id": "5098461",
+      "time": "2026-09-17 05:38:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費倫：市場緊盯美聯儲動向的 “狂熱氛圍” 掩蓋了部分資料。"
+    },
+    {
+      "id": "5098460",
+      "time": "2026-09-17 05:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "法官表示，鑑於谷歌反壟斷違法行為的 “嚴重性”，谷歌應任命一名內部合規官。"
+    },
+    {
+      "id": "mkt:01a0ac27-6185-7118-85ca-42e769e4906f",
+      "time": "2026-09-17 05:37:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "A U.S. federal judge in an antitrust case rejected the U.S. Department of Justice's request to break up Google (GOOG.O)'s ad-tech business."
+    },
+    {
+      "id": "te:economy:584353",
+      "time": "2026-09-17 05:37:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Central Bank Cuts Selic to 13.75% — Brazil’s central bank cut its benchmark interest rate by 25 bps to 13.75% at its September meeting, in line with market expectations. The bank noted that the external environment remains uncertain due to the lack of clarity surrounding armed conflicts in the Middle East and uncertainty over monetary policy in some advanced economies. Domestically, indicators released since the previous meeting point to a gradual moderation in economic activity, particularly in more cyclical sectors, although activity remains resilient and the labor market remains tight. Recent data show that headline inflation and the average of underlying measures have slowed, standing below the upper bound of the tolerance interval but still above the target. The Copom reiterated that the current scenario, marked by significantly higher uncertainty, deanchored inflation expectations, and elevated risks around the baseline scenario, calls for caution."
+    },
+    {
+      "id": "5098459",
+      "time": "2026-09-17 05:36:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問委員會主席費倫：不認同降息會推高通脹的觀點。"
+    },
+    {
+      "id": "5098458",
+      "time": "2026-09-17 05:35:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國正追蹤針對全球近 20 艘船舶的網路威脅。"
+    },
+    {
+      "id": "5098457",
+      "time": "2026-09-17 05:35:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：上次會議以來公佈的一系列指標顯示，經濟活動逐步放緩，尤其是強週期性行業，不過經濟仍具備韌性，勞動力市場保持緊張。"
+    },
+    {
+      "id": "5098456",
+      "time": "2026-09-17 05:35:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國法官作出裁決，拒絕要求拆分谷歌廣告技術業務，並表示谷歌與司法部應擬定最終判決方案。"
+    },
+    {
+      "id": "5098455",
+      "time": "2026-09-17 05:35:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問委員會主席費倫：美聯儲加息是一項錯誤決策。"
+    },
+    {
+      "id": "mkt:01a0ac25-342b-7118-85ca-3d32c5d98766",
+      "time": "2026-09-17 05:35:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK said inflation risks, both upside and downside, remain above normal and are skewed to the upside; it is closely monitoring signs of de-anchoring in long-term inflation expectations."
+    },
+    {
+      "id": "mkt:01a0ac25-007a-7118-85ca-35a45e0ac20c",
+      "time": "2026-09-17 05:35:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank said the overall size of its recalibration cycle will be set based on incoming information to ensure inflation converges to the target."
+    },
+    {
+      "id": "5098454",
+      "time": "2026-09-17 05:34:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：通脹上行與下行風險仍高於常態，且存在上行非對稱性。"
+    },
+    {
+      "id": "5098453",
+      "time": "2026-09-17 05:34:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：正密切關注長期通脹預期脫錨現象。"
+    },
+    {
+      "id": "mkt:01a0ac24-4f01-7118-85ca-29c526b86707",
+      "time": "2026-09-17 05:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK will continue to monitor developments and maintain a moderately tight monetary policy to ensure the inflation target is met."
+    },
+    {
+      "id": "mkt:01a0ac23-e627-7118-85ca-236345834a41",
+      "time": "2026-09-17 05:33:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil central bank said the current environment requires calm and caution in implementing monetary policy."
+    },
+    {
+      "id": "5098452",
+      "time": "2026-09-17 05:33:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：本輪政策調整的總幅度將依據新資訊確定，以確保通脹向目標水平收斂。"
+    },
+    {
+      "id": "5098451",
+      "time": "2026-09-17 05:33:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：當前形勢要求貨幣政策的實施保持冷靜與審慎。將持續監測局勢變化，維持貨幣政策處於適度收緊狀態，確保通脹向目標水平收斂。"
+    },
+    {
+      "id": "mkt:01a0ac23-7b5c-7118-85ca-1bc2d50552d7",
+      "time": "2026-09-17 05:33:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Brazil's central bank cut its benchmark interest rate by 25bps to 13.75%, in line with market expectations of 13.75%."
+    },
+    {
+      "id": "5098450",
+      "time": "2026-09-17 05:32:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴西下調基準利率 25 個基點至 13.75%。"
+    },
+    {
+      "id": "mkt:01a0ac22-8fcd-7118-85ca-13e9e434b863",
+      "time": "2026-09-17 05:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Selic rate 13.75% as of Sep 16; expected 13.75%; previous 14.00%."
+    },
+    {
+      "id": "mkt:01a0ac22-6d74-7118-85ca-0fc73635b75e",
+      "time": "2026-09-17 05:32:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Brazil | Selic Interest Rate (Sep.16) | actual 13.75% | consensus 13.75% | previous 14.00%"
+    },
+    {
+      "id": "mkt:01a0ac20-6b78-7118-85ca-03f00e7522c7",
+      "time": "2026-09-17 05:30:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister's Office said leaders discussed strengthening defence cooperation and the complementary work between multilateral defence mechanisms and the Defence and Security Cooperation Group."
+    },
+    {
+      "id": "mkt:01a0ac1f-ce46-7118-85c9-ff32d78c7144",
+      "time": "2026-09-17 05:29:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UK prime minister's office said leaders discussed AI opportunities and risks and agreed the government and the tech industry should cooperate to address shared concerns and strengthen cybersecurity."
+    },
+    {
+      "id": "mkt:01a0ac1e-efaf-7118-85c9-f4549ca64bff",
+      "time": "2026-09-17 05:28:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Aziz, chairman of Iran’s parliamentary National Security Committee, said the Iranian public and military stand united and have put the US‑Israel alliance under strain. He said Iran’s position has not changed and told the United States to remain angry."
+    },
+    {
+      "id": "5098449",
+      "time": "2026-09-17 05:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國唐寧街：各國領導人探討了人工智慧帶來的機遇與挑戰，一致認為政府與科技行業應當攜手合作，應對共同關切並維護網路安全。"
+    },
+    {
+      "id": "5098448",
+      "time": "2026-09-17 05:27:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆對加拿大今夏成為全球作戰空中計劃（GCAP）首個觀察員國表示歡迎。"
+    },
+    {
+      "id": "5098447",
+      "time": "2026-09-17 05:26:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美外交官在阿曼同胡塞武裝討論紅海局勢】據美國阿克西奧斯新聞網站16日報道，美國外交官上週末在美國駐阿曼使館同葉門胡塞武裝代表會晤，討論了紅海緊張局勢。報道援引一名地區訊息人士的話說，這次會晤是在阿曼政府協助下舉行的，重點討論了維持美國與胡塞武裝去年5月達成的停火協議，以及確保曼德海峽保持暢通。美方派出了大使館的外交官參加此次會晤，但大使本人並未出席。該訊息人士說，胡塞武裝代表在會晤中明確表示希望維持與美國的停火協議，並強調他們的襲擊僅針對沙烏地阿拉伯船隻，所有其他船只可以自由透過曼德海峽。（新華社）"
+    },
+    {
+      "id": "mkt:01a0ac1d-7bd4-7118-85c9-eec475325b19",
+      "time": "2026-09-17 05:26:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK Prime Minister's Office said Prime Minister Burnham welcomed Canada becoming the first observer nation in the Global Combat Air Programme this summer."
+    },
+    {
+      "id": "5098446",
+      "time": "2026-09-17 05:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府管轄的Trans Mountain Corp.與亞洲多方買家開會，試圖針對石油出口將其亞洲客戶多樣化。"
+    },
+    {
+      "id": "mkt:01a0ac1c-2746-7118-85c9-e7a02647f58f",
+      "time": "2026-09-17 05:25:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump boarded Air Force One en route to Gastonia, North Carolina, to deliver a midterm campaign speech."
+    },
+    {
+      "id": "5098445",
+      "time": "2026-09-17 05:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會主席易卜拉欣·阿齊茲：200 個夜晚的抵抗：伊朗人民與武裝部隊並肩作戰，已讓美以聯盟屈膝。我們立場不變：美國，儘管憤怒，讓怒火吞噬你們。"
+    },
+    {
+      "id": "5098444",
+      "time": "2026-09-17 05:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對杜克大學、北達科他大學展開資金調查。"
+    },
+    {
+      "id": "5098443",
+      "time": "2026-09-17 05:15:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.3%，報14322點。"
+    },
+    {
+      "id": "mkt:01a0ac13-63d3-7118-85c9-de77b911574b",
+      "time": "2026-09-17 05:15:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【US plans to exclude Canadian-origin goods from federal civilian procurement】The White House website on the 16th said the Trump administration plans to bar Canadian-origin goods from US federal civilian procurement, calling the action retaliation for Canada’s Buy Canadian policy and alleging Ottawa restricts US firms’ access to procurement markets at all levels of government. It said Canadian firms had been eligible to compete for more than $280 billion of US procurement. The move follows earlier US measures, including tariffs on certain Canadian alcohol, dairy and motor vehicle products."
+    },
+    {
+      "id": "5098442",
+      "time": "2026-09-17 05:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美擬將加拿大商品排除聯邦政府採購】白宮網站16日訊息顯示，特朗普政府擬取消加拿大原產商品參與美國聯邦民用政府採購的資格。美方稱此舉為反制加拿大“買加拿大貨”政策，指責加方限制美國企業進入其各級政府採購市場。美方稱，加方企業原本可參與規模超2800億美元的美國採購專案。美國此前已對加拿大部分酒類、乳製品、機動車產品實施加徵關稅等舉措。（央視）"
+    },
+    {
+      "id": "5098441",
+      "time": "2026-09-17 05:12:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "週三（9月16日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7125元，較週二紐約尾盤跌3點，日內整體交投於6.7037-6.7142元區間，呈現出衝高回落走勢。亞太盤初以來，離岸人民幣持續上揚，美聯儲宣佈加息、披露點陣圖時重新整理日高，隨後快速回撤。"
+    },
+    {
+      "id": "5098440",
+      "time": "2026-09-17 05:10:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍高官稱需為月球周邊空間作戰做準備】據美聯社16日報道，美軍參謀長聯席會議主席丹·凱恩當天表示，美軍不僅需要為在地球軌道上的作戰做好準備，還需要為在月球周邊空間作戰做好準備。（新華社）"
+    },
+    {
+      "id": "mkt:01a0ac0e-bc8a-7118-85c9-d3155c73d19e",
+      "time": "2026-09-17 05:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AP: U.S. Joint Chiefs chair says military must prepare to operate in cislunar space】AP reported on the 16th that Chairman of the U.S. Joint Chiefs of Staff Dan Kane said the U.S. military must prepare not only for operations in Earth orbit but also for operations in cislunar (lunar-vicinity) space."
+    },
+    {
+      "id": "5098439",
+      "time": "2026-09-17 05:10:36",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國際金價在美聯儲加息日跌約0.7%】週三（9月16日）紐約尾盤，現貨黃金跌0.68%，報4263.07美元/盎司，北京時間10:00之前開啟一波上漲行情，日內主要交投於4340美元附近、02:00美聯儲宣佈加息+披露最新點陣圖時重新整理日高至4366.49美元，隨後持續走低、03:10（美聯儲主席沃什新聞釋出會結束後）重新整理日低至4235.59美元。現貨白銀跌1.08%，報62.9845美元/盎司。COMEX銅期貨跌0.04%，報6.4410美元/磅，美聯儲宣佈加息之前持穩於日高6.5255美元附近。現貨鉑金跌1.33%，現貨鈀金跌2.02%。在美股時段交易的費城金銀指數收跌1.41%，報382.17點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌0.84%，報2670.28點。在美股時段交易的原材料指數收跌0.95%，金屬與礦業指數收跌0.11%。State Street金屬與礦業ETF收跌0.61%，報108.77美元。"
+    },
+    {
+      "id": "mkt:01a0ac0b-b49a-7118-85c9-c843a1b008df",
+      "time": "2026-09-17 05:07:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Russia's foreign ministry warned that if European countries take military action against Russia it would be a 'completely different war' and said it hopes the warning has been heard by relevant European states and institutions."
+    },
+    {
+      "id": "5098438",
+      "time": "2026-09-17 05:05:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普稱利率應降至1%或更低】當地時間9月16日下午，美國聯邦儲備委員會宣佈將聯邦基金利率上調25個基點至3.75%-4.00%的區間。美國總統特朗普隨後在社交媒體平臺發文稱，“美國的利率應當降至1%或更低，因為美國擁有世界上的最佳信用。美國正迎來投資熱潮，經濟蓬勃發展。”特朗普敦促美聯儲降息，“而且要快”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5098437",
+      "time": "2026-09-17 05:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "據半島電視臺：葉門政府軍稱在穆哈、馬裡卜對胡塞武裝發起打擊。"
+    },
+    {
+      "id": "mkt:01a0ac04-303a-7118-85c9-c556653ee3cd",
+      "time": "2026-09-17 04:59:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal, citing sources, says ExxonMobil (XOM) may sign a memorandum of understanding with Venezuela's state oil company this month."
+    },
+    {
+      "id": "5098436",
+      "time": "2026-09-17 04:58:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：埃克森美孚最早可能於本月與委內瑞拉國家石油公司簽署諒解備忘錄。"
+    },
+    {
+      "id": "mkt:01a0ac03-5ba1-7118-85c9-ba9251f533a5",
+      "time": "2026-09-17 04:58:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal sources say ExxonMobil (XOM.N) is poised to sign a preliminary agreement to re-enter Venezuela's oil sector."
+    },
+    {
+      "id": "mkt:01a0abfc-7339-7118-85c9-b59064fbd35d",
+      "time": "2026-09-17 04:50:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FCC chair Carr said wireless spectrum auctions over the next few years could easily generate more than $100 bln in revenue."
+    },
+    {
+      "id": "5098432",
+      "time": "2026-09-17 04:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會主席卡爾表示，未來數年的無線頻譜拍賣輕鬆可創收超 1000 億美元。"
+    },
+    {
+      "id": "mkt:01a0abf9-259c-7118-85c9-af8dc31a1e00",
+      "time": "2026-09-17 04:47:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【US Treasury releases July TIC report showing $83.7bln net inflows】The US Treasury's July TIC report showed net inflows of $83.7bln into US securities and banking flows. Private inflows totaled $73.5bln and official inflows $10.2bln. Foreign holdings of US Treasuries rose $38.8bln; foreign holdings of US long-term securities increased $40.6bln. Foreign holdings of dollar short-term securities and other custody bonds rose $65.0bln. US residents' holdings of foreign long-term securities increased $68.5bln. US banks' net dollar liabilities to foreigners rose $46.6bln in July."
+    },
+    {
+      "id": "5098430",
+      "time": "2026-09-17 04:46:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長呼籲全球合作為人工智慧設立護欄】在今年聯合國大會高階別周開始前舉行的記者招待會上，古特雷斯說，人工智慧具有巨大潛力，但近來越來越多的人工智慧開發者警告，其開發速度超出人類對風險的認知。有的開發者呼籲暫停開發人工智慧，有的呼籲設立護欄。各國不能無視這些擔憂。古特雷斯說，各國政府首先必須負起責任。由於人工智慧發展及其所帶來的風險超越國界，全球協作不可或缺。孤立的、無法驗證的、不均衡實施的自願暫停措施無法解決當前問題。（新華社）"
+    },
+    {
+      "id": "mkt:01a0abf8-280f-7118-85c9-a5735e23c405",
+      "time": "2026-09-17 04:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN Secretary-General urges global cooperation to set AI safeguards】UN Secretary-General Guterres urged global cooperation to establish safeguards for artificial intelligence ahead of the UN General Assembly high-level week, saying AI’s potential is large but development is outpacing understanding of its risks. He noted some developers have called for pauses or formal safeguards and said governments must take responsibility; because AI and its risks cross borders, isolated, unverifiable and unevenly enforced voluntary pauses will not resolve the problem."
+    },
+    {
+      "id": "mkt:01a0abf7-ce65-7118-85c9-9cb07cbb2fca",
+      "time": "2026-09-17 04:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US-Mexico fourth USMCA talks delayed to Sept 28-29 in Washington】Fourth formal USMCA negotiation round between the US and Mexico has been postponed one week to Sept. 28-29 in Washington, originally scheduled for the week of Sept. 21, the Wall Street Journal reports. The US is expected to push Mexico for tighter rules-of-origin for AI equipment, household appliances and medical devices to raise North American content and reduce non-North American components entering the US market. Talks will also cover tariff adjustments for steel, aluminum and autos as part of a US effort to tighten supply-chain rules and accelerate nearshoring of critical industries."
+    },
+    {
+      "id": "5098429",
+      "time": "2026-09-17 04:45:25",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "富國銀行將優惠貸款利率上調至 7.00%。"
+    },
+    {
+      "id": "5098426",
+      "time": "2026-09-17 04:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷 8 月領先指標環比下降 0.27%。"
+    },
+    {
+      "id": "te:economy:584351",
+      "time": "2026-09-17 04:40:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Nears 3.94% — Canada’s 10-year government bond yield settled near 3.94% in mid-September after falling as low as 3.87% on lower oil prices. The yield then rose following the Federal Reserve’s rate hike, as the Fed raised the target range for the federal funds rate by 25 bps to 3.75%-4%. Updated Fed projections showed that most policymakers expect another hike before the end of 2026. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated. Still, a halt in the oil rally following reports of a potential recovery of Saudi Arabia’s key East-West pipeline helped to slow global yields."
+    },
+    {
+      "id": "5098423",
+      "time": "2026-09-17 04:40:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：美國利率應該在1%或以下】美國總統特朗普在真相社交平臺發文稱：美國的利率應當降至 1% 甚至更低，因為我們擁有全球最優質的信用評級，優勢遙遙領先。大量新增投資正推動我國經濟蓬勃發展！倘若我們停止與所有存在貿易逆差的國家開展貿易 —— 這類國家佔絕大多數，每年至少能增收 1.5 萬億美元。“逆差” 一詞，說白了就是虧損。我們幾乎在供養全世界所有國家，這種局面不能再持續下去。美國要儘快下調利率！"
+    },
+    {
+      "id": "mkt:01a0abf2-b141-7118-85c9-9252717b3f6a",
+      "time": "2026-09-17 04:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US rates should drop below 1%, urges Fed to cut quickly】Trump said on social media US interest rates should be 1% or lower, arguing the US has the world’s strongest credit and is drawing substantial new investment. He urged the Federal Reserve to cut rates swiftly, saying lower borrowing costs would help the economy. Trump also claimed that stopping trade with countries where the US runs deficits would yield at least $1.5 trillion a year, calling trade deficits a \"loss\" that cannot continue."
+    },
+    {
+      "id": "5098422",
+      "time": "2026-09-17 04:39:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國要儘快下調利率。"
+    },
+    {
+      "id": "5098419",
+      "time": "2026-09-17 04:38:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國利率應該在1%或以下。"
+    },
+    {
+      "id": "5098418",
+      "time": "2026-09-17 04:38:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼與伯納姆就人工智慧安全發展領域的合作展開會談。"
+    },
+    {
+      "id": "mkt:01a0abee-eb80-7118-85c9-88fd243dc080",
+      "time": "2026-09-17 04:35:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Sources: Microsoft (MSFT.O) and OpenAI hit with fresh lawsuit over AI copyright infringement."
+    },
+    {
+      "id": "mkt:01a0abee-9e56-7118-85c9-86097e51c39d",
+      "time": "2026-09-17 04:35:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports US-Mexico trade talks postponed by one week."
+    },
+    {
+      "id": "5098415",
+      "time": "2026-09-17 04:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美墨貿易談判推遲一週。"
+    },
+    {
+      "id": "te:markets:584350",
+      "time": "2026-09-17 04:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.18% Lower — The Dow Jones Index fell 614 points or 1.18 percent on Wednesday to close at 51479 points. Leading the losses are IBM (-4.32%), Goldman Sachs (-3.92%) and Boeing (-3.69%)."
+    },
+    {
+      "id": "5098413",
+      "time": "2026-09-17 04:34:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：微軟與 OpenAI 再度因 AI 相關版權訴訟被起訴。"
+    },
+    {
+      "id": "5098412",
+      "time": "2026-09-17 04:34:32",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部公佈7月的國際資本流動報告】當地時間9月16日，美國財政部公佈了7月的國際資本流動報告（TIC）。報告顯示，7月份所有海外的美國長期、短期證券和銀行流水的淨流入總額為837億美元。其中，海外私人資本淨流入為735億美元，海外官方淨流入為102億美元。7月份，外國投資者持有美國長期證券增加了406億美元，美國投資者持有的外國長期證券增加了685億美元。7月份，外國投資者持有的美國國債增加了388億美元，外國投資者持有的所有以美元計價的美國短期證券和其他託管債券增加了650億美元。美國銀行7月份對外國投資者的美元負債淨額增加了466億美元。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0abec-03d5-7118-85c9-781fdd70cd9e",
+      "time": "2026-09-17 04:32:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Prime Minister's Office: Canada has formally applied to join the UK-led Joint Expeditionary Force military coalition."
+    },
+    {
+      "id": "5098410",
+      "time": "2026-09-17 04:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大已正式申請加入由英國主導的聯合遠征軍軍事聯盟。"
+    },
+    {
+      "id": "mkt:01a0abea-58d7-7118-85c9-7025def02f38",
+      "time": "2026-09-17 04:30:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The United States issued an order prohibiting Canadian goods from participating in the US government procurement system."
+    },
+    {
+      "id": "5098407",
+      "time": "2026-09-17 04:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署總統備忘錄，要求識別並採取措施，將加拿大原產商品移出聯邦政府民用採購清單。"
+    },
+    {
+      "id": "mkt:01a0abe9-3491-7118-85c9-6d94405e115e",
+      "time": "2026-09-17 04:29:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a M5.0 earthquake 29 km WSW of southwestern Colombia."
+    },
+    {
+      "id": "5098406",
+      "time": "2026-09-17 04:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：哥倫比亞西皮西南偏西 29 公里處發生 5 級地震。"
+    },
+    {
+      "id": "mkt:01a0abe9-244a-7118-85c9-672cae804bd0",
+      "time": "2026-09-17 04:29:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump rescinded an executive order coordinating pollution cleanup and ecological restoration efforts for the Chesapeake Bay."
+    },
+    {
+      "id": "5098405",
+      "time": "2026-09-17 04:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合銀行集團：優惠貸款利率上調至 7.00%，自 2026 年 9 月 17 日起生效。"
+    },
+    {
+      "id": "5098404",
+      "time": "2026-09-17 04:27:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普簽署行政命令，正式撤銷了奧巴馬於2009年釋出的第13508號行政命令——《切薩皮克灣保護與恢復》。"
+    },
+    {
+      "id": "5098403",
+      "time": "2026-09-17 04:27:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "Generac 與亞馬遜達成長期供應協議。"
+    },
+    {
+      "id": "mkt:01a0abe6-cdf7-7118-85c9-5a0b2396ea3c",
+      "time": "2026-09-17 04:27:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iranian state broadcaster Press TV reports a Houthi spokesman said the group shot down a Saudi RQ-20 drone near Harad in Hajjah province, close to the Saudi border. Press TV said Saudi jets conducted 40 airstrikes in the past 24 hours across Taiz, Hajjah and Marib provinces."
+    },
+    {
+      "id": "5098399",
+      "time": "2026-09-17 04:23:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列與摩洛哥同意提升外交關係 將互派大使】以色列外交部當地時間16日發表宣告稱，以色列外長薩爾與摩洛哥外交大臣布里達、美國常駐聯合國代表邁克爾·華爾茲在紐約舉行三方會談。以摩兩國同意全面提升外交關係級別，將現有的外交使團正式升格為大使館，並互派大使。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0abe2-434f-7118-85c9-5464dcc791b4",
+      "time": "2026-09-17 04:22:07",
+      "tags": [
+        "MKT News",
+        "BAC.N"
+      ],
+      "text": "BofA (BAC.N) set its prime rate at 7.00%, effective Sept. 17, 2026."
+    },
+    {
+      "id": "te:economy:584349",
+      "time": "2026-09-17 04:21:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capital Flows",
+        "Importance 1"
+      ],
+      "text": "US TIC Inflows Reach $83.7 Billion in July — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $83.7 billion in July 2026. Net foreign private inflows totaled $73.5 billion, while net foreign official inflows reached $10.2 billion. Foreign residents increased their holdings of long-term US securities, with net purchases of $40.6 billion, including net sales of $3.7 billion by private foreign investors and net purchases of $44.4 billion by foreign official institutions. US residents increased their holdings of long-term foreign securities, with net purchases of $68.5 billion. After adjustments, overall net foreign sales of long-term securities were estimated at $27.9 billion. Foreign residents also increased their holdings of US Treasury bills by $38.8 billion, while holdings of all dollar-denominated short-term US securities and other custody liabilities rose by $65 billion."
+    },
+    {
+      "id": "5098396",
+      "time": "2026-09-17 04:19:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：美國銀行當前優惠貸款利率為 7.00%（利率自 2026 年 9 月 17 日起生效）。"
+    },
+    {
+      "id": "mkt:01a0abdf-7a49-7118-85c9-4e88ea0d4182",
+      "time": "2026-09-17 04:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Mayor Mandani said he will not participate in protests against Netanyahu's visit to New York."
+    },
+    {
+      "id": "5098394",
+      "time": "2026-09-17 04:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zipline洽談按200億美元估值融資大約10億美元。"
+    },
+    {
+      "id": "5098393",
+      "time": "2026-09-17 04:15:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：花旗銀行將基本貸款利率上調至 7.00%，自 2026 年 9 月 17 日起生效。"
+    },
+    {
+      "id": "5098392",
+      "time": "2026-09-17 04:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：小企業破產法案在眾議院獲得透過，該法案提高可申請破產救濟的債務上限。"
+    },
+    {
+      "id": "mkt:01a0abda-bbf6-7118-85c9-43d1bc3d809f",
+      "time": "2026-09-17 04:13:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Market news: US small-business bankruptcy bill passed the House."
+    },
+    {
+      "id": "mkt:01a0abd9-3301-7118-85c9-3a9ccf28b9f1",
+      "time": "2026-09-17 04:12:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【India cuts export windfall tax on gasoline, diesel and jet fuel】India's government lowered the export windfall tax on petroleum products, effective Sept. 16: gasoline from 1.5 rupee per litre to 0.5 rupee per litre; jet fuel (aviation turbine fuel) from 19 rupee per litre to 15 rupee per litre; diesel from 25 rupee per litre to 20 rupee per litre."
+    },
+    {
+      "id": "te:markets:584347",
+      "time": "2026-09-17 04:11:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips After Fed Rate Hike — The TSX shed 0.3% to close at 35,491 on Wednesday following the US Fed’s widely expected decision to raise its benchmark rate by 25 bps to a 3.75%-4% range. Major banks were mostly lower, with RBC down 0.5%. Gold prices fell following the FOMC decision. Miners also traded mostly lower, with WPM erasing earlier gains to fall 1.9%, while Franco-Nevada shed 1.1%. Energy stocks weighed on the index as oil prices retreated, with Canadian Natural down 3.3% and Suncor off 3.6%. Elsewhere, European Commission President von der Leyen said the EU is opening the door for Canada to become its first “associate member,” with cooperation across manufacturing, AI, critical minerals and energy. The move comes amid an escalation in the US-Canada trade war after talks collapsed last month."
+    },
+    {
+      "id": "mkt:01a0abd8-9b32-7118-85c9-368207e5cb2a",
+      "time": "2026-09-17 04:11:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "Europe & UK",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【China, Japan trimmed U.S. Treasury holdings in July; UK added】U.S. Treasury data show Japan held $1.104 tln in U.S. Treasuries in July, down $13 bln from June; China held $618 bln, down $15 bln; the UK held $998 bln, up $58 bln."
+    },
+    {
+      "id": "mkt:01a0abd3-2251-7118-85c9-2b17bf00e4af",
+      "time": "2026-09-17 04:05:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed down 630.56 points (-1.21%) at 51,462.55 on Wednesday, Sept. 16; S&P 500 closed down 33.51 points (-0.44%) at 7,552.22; Nasdaq Composite closed down 3.15 points (-0.01%) at 25,978.42."
+    },
+    {
+      "id": "5098385",
+      "time": "2026-09-17 04:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度下調航空渦輪燃料出口暴利稅，自 9 月 16 日起，由每升 19 盧比降至每升 15 盧比。\n下調汽油出口暴利稅，自 9 月 16 日起，由每升 1.5 盧比降至每升 0.5 盧比。"
+    },
+    {
+      "id": "5098384",
+      "time": "2026-09-17 04:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度下調柴油出口暴利稅，自 9 月 16 日起，由每升 25 盧比降至每升 20 盧比。"
+    },
+    {
+      "id": "5098383",
+      "time": "2026-09-17 04:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBW銀行股指數收跌2.9%，為2月以來最大跌幅。"
+    },
+    {
+      "id": "5098382",
+      "time": "2026-09-17 04:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列政府：以色列與摩洛哥同意升級外交關係，互設大使館並互派大使。"
+    },
+    {
+      "id": "mkt:01a0abd0-296d-7118-85c9-225be577c4d7",
+      "time": "2026-09-17 04:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel and Morocco have agreed to upgrade diplomatic relations, open embassies and appoint ambassadors."
+    },
+    {
+      "id": "5098381",
+      "time": "2026-09-17 04:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博美元指數收漲0.5%，創6月17日以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:01a0abcf-578b-7118-85c9-1ca86b0ca429",
+      "time": "2026-09-17 04:01:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【US close: Fed implements 25bp hike; major indices retreat】Federal Reserve implemented a 25bp rate hike; US major indices closed lower on Wednesday. Dow fell 1.2%, S&P 500 down 0.44%, Nasdaq down 0.01%. Intel rose 4%, SpaceX gained 5%, while Goldman Sachs and Boeing slid nearly 4% each. Nasdaq Golden Dragon China Index fell 0.55%; iQIYI jumped 8%, Alibaba dropped 2%."
+    },
+    {
+      "id": "5098380",
+      "time": "2026-09-17 04:00:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本 7 月持有美國國債規模為 1.104 萬億美元，6 月為 1.117 萬億美元。\n中國 7 月持有美國國債規模為 6180 億美元，6 月為 6330 億美元。\n英國 7 月持有美國國債規模為 9980 億美元，6 月為 9400 億美元。"
+    },
+    {
+      "id": "5098379",
+      "time": "2026-09-17 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌1.21%，標普500指數跌0.44%，納指持平。JB Hunt運輸服務跌13.30%，ON SEMICONDUCTOR跌8.93%，Diamondback Energy跌8.03%，Lumentum Holdings Inc.漲9.53%，Coherent Corp漲6.81%。“七姐妹”方面：英偉達漲0.84%，Meta Platforms漲0.47%，特斯拉漲0.42%，蘋果漲0.37%，谷歌跌0.59%，亞馬遜跌0.99%，微軟跌1.34%。"
+    },
+    {
+      "id": "5098378",
+      "time": "2026-09-17 04:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月長期資本淨流入 -279億美元，前值由1727億美元修正為1744億美元。\n美國7月國際資本淨流入 837億美元，前值由1335億美元修正為1355億美元。\n美國7月外資淨買入美國公債 -36億美元，前值由68億美元修正為62億美元。"
+    },
+    {
+      "id": "mkt:01a0abce-2fdf-7118-85c9-14fe0aafd5ec",
+      "time": "2026-09-17 04:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Foreign net purchases of U.S. Treasury securities were -$3.6 bln in July; the prior reading was revised to $6.2 bln from $6.8 bln."
+    },
+    {
+      "id": "mkt:01a0abce-25d1-7118-85c9-0caaf23307e4",
+      "time": "2026-09-17 04:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. net long-term capital flows in July: net outflow $27.9bn. Prior month revised to a $174.4bn inflow from $172.7bn."
+    },
+    {
+      "id": "mkt:01a0abce-1e4c-7118-85c9-038fc415a184",
+      "time": "2026-09-17 04:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. net international capital inflows were $83.7 bln in July; prior figure revised from $133.5 bln to $135.5 bln."
+    },
+    {
+      "id": "5098377",
+      "time": "2026-09-17 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.55%】閃送跌16.80%，阿特斯跌7.23%，晶科能源跌3.97%，嗶哩嗶哩跌3.56%，百度跌2.07%。"
+    },
+    {
+      "id": "mkt:01a0abce-037f-7118-85c8-fc5484083541",
+      "time": "2026-09-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net Foreign Purchases of Treasury Securities (Jul) | actual -3600000000B | previous 6800000000B"
+    },
+    {
+      "id": "mkt:01a0abce-0376-7118-85c8-f3cb11da25bb",
+      "time": "2026-09-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm TIC Flows (Jul) | actual -27900000000B | previous 172700000000B"
+    },
+    {
+      "id": "mkt:01a0abce-0362-7118-85c8-e8b1b319c152",
+      "time": "2026-09-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm International Capital Flows (Jul) | actual 83700000000B | previous 133500000000B"
+    },
+    {
+      "id": "te:markets:584345",
+      "time": "2026-09-17 03:58:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Weakens After Fed Hike — The Canadian dollar weakened to near 1.40 per USD in mid-September, its lowest level in more than a month after the US Federal Reserve raised interest rates as expected. The Fed raised the target range for the federal funds rate by 25 bps to 3.75%-4%, reinforcing the US dollar’s advantage over the loonie. Updated Fed projections showed that most policymakers expect another hike before the end of 2026, widening the interest-rate differential between the US and Canada. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. The BoC left the future path of monetary policy open, saying it would adjust policy as needed. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
+    },
+    {
+      "id": "mkt:01a0abcc-a985-7118-85c8-e314b2c3e904",
+      "time": "2026-09-17 03:58:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "CIBC Capital Markets strategist Noah Buffam said the Fed's latest dot plot is skewed hawkish, as FOMC members expect the pace of return to the neutral rate to be slower than market expectations—supporting the dollar."
+    },
+    {
+      "id": "mkt:01a0abca-a439-7118-85c8-daa946c038f9",
+      "time": "2026-09-17 03:56:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Von der Leyen said the EU is studying ways to increase computing capacity."
+    },
+    {
+      "id": "mkt:01a0abca-a250-7118-85c8-d6992d7c6813",
+      "time": "2026-09-17 03:56:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【S&P 500 turns lower after Fed speaker's remarks】Following the Fed rate hike and updated rate outlook, the S&P 500 initially rose 0.4% at 14:07 ET; the 10-year U.S. Treasury yield was 4.95%, unchanged from immediately before the Fed decision and slightly below Tuesday's 4.995%. At 14:30 ET, when a Fed speaker began remarks, the S&P was up 0.3%. During the speech the index erased its gains; by 15:01 ET, at the end of the remarks, the S&P had turned down 0.4% and later sank as much as 1%. The 10-year yield, near 4.95% before 14:30 ET, briefly rose above 5% before retreating below 5% and ended the day roughly unchanged."
+    },
+    {
+      "id": "mkt:01a0abca-540b-7118-85c8-c8e03383829d",
+      "time": "2026-09-17 03:55:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Economist: Fed has done what's required; BUZZ shifts to magnitude of improvement】LPL Financial chief economist Jeffrey Roach said Fed Chair KEVIN WARSH and other C.BANK members have built a reputation for focusing on curbing inf. Given current economic conditions, the C.BANK has done what was required. If geopolitical tensions ease, discussion of inf may shift to the degree of improvement."
+    },
+    {
+      "id": "mkt:01a0abc9-802e-7118-85c8-c58aec0800c9",
+      "time": "2026-09-17 03:55:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "JPM.N"
+      ],
+      "text": "【Major U.S. banks raise prime rate to 7%】Following recent Fed rate hikes, JP Morgan, KeyCorp and BNY Mellon raised the U.S. prime rate to 7.00% from 6.75%, effective Thursday. The prime rate typically tracks the federal funds rate and is a reference for credit cards, personal and business loans, implying higher borrowing costs for consumers and companies."
+    },
+    {
+      "id": "5098376",
+      "time": "2026-09-17 03:54:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "西南航空CFO：儘管燃油成本上升，但營收表現強勁，公司有能力達成第三季度每股收益指引。"
+    },
+    {
+      "id": "mkt:01a0abc8-7fc0-7118-85c8-ba5a21be2127",
+      "time": "2026-09-17 03:53:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "LUV.N",
+        "Impact bearish"
+      ],
+      "text": "Southwest Airlines (LUV.N) said it may cut capacity if jet fuel prices remain elevated."
+    },
+    {
+      "id": "5098375",
+      "time": "2026-09-17 03:53:42",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【非美貨幣在美聯儲宣佈加息後普遍下跌】週三（9月16日）紐約尾盤，歐元兌美元跌0.63%，重新整理日低至1.1463，北京時間02:00美聯儲宣佈加息、披露點陣圖以來顯著下跌——打破日內稍早持續的高位窄幅震盪狀態。英鎊兌美元跌0.70%，重新整理日低至1.3372。美元兌瑞郎漲0.73%，報0.8257。商品貨幣對中，澳元兌美元跌0.64%，紐元兌美元跌0.8%，美元兌加元漲0.50%。瑞典克朗兌美元跌0.83%，挪威克朗兌美元跌0.92%，丹麥克朗兌美元跌0.63%。波蘭茲羅提兌美元跌1.15%，美元兌匈牙利福林漲0.73%。土耳其里拉兌美元跌0.07%——亞太盤初顯著走低、07:47跌至48.6679里拉、之後持續低位窄幅震盪，南非蘭特兌美元跌0.76%，墨西哥比索兌美元跌0.6%，巴西雷亞爾兌美元漲0.04%。"
+    },
+    {
+      "id": "5098374",
+      "time": "2026-09-17 03:53:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "牛津經濟研究院預計加拿大央行將於 10 月、12 月加息。"
+    },
+    {
+      "id": "5098373",
+      "time": "2026-09-17 03:53:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝釋出擊落沙特F15戰機影片】當地時間9月16日晚，葉門胡塞武裝控制的馬西拉電視臺釋出影片，據稱內容為當天胡塞武裝擊落沙特一架F-15戰鬥機。胡塞武裝當天早些時候稱，在葉門東北部馬裡卜省，用一枚自制地對空導彈，擊落一架正在執行“敵對行動”的沙特F-15戰鬥機。據稱兩批沙特F-15和“颱風”戰鬥機隨後進入馬裡卜領空搜尋被擊落戰機的殘骸，胡塞武裝再次發射防空導彈，迫使這些戰機撤離。（CCTV國際時訊）"
+    },
     {
       "id": "5098369",
       "time": "2026-09-17 03:50:08",
