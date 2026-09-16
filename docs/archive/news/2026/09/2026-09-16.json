@@ -1,7 +1,49 @@
 {
   "date": "2026-09-16",
-  "count": 2324,
+  "count": 2329,
   "items": [
+    {
+      "id": "mkt:01a0aad9-3c56-7118-85bf-e8494822bba1",
+      "time": "2026-09-16 23:32:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.16) | actual 2.72 | previous 2.73"
+    },
+    {
+      "id": "mkt:01a0aad9-2ba1-7118-85bf-e67afd830a60",
+      "time": "2026-09-16 23:32:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.16) | actual 4.03% | previous 3.90%"
+    },
+    {
+      "id": "mkt:01a0aad9-0412-7118-85bf-dd814915c2d2",
+      "time": "2026-09-16 23:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sen. Sanders said Americans are tired of funding what he called Israel's \"genocide\" in Gaza. He accused President Trump of escalating by using U.S. taxpayer funds to provide $2.8bn worth of bombs to the extremist Netanyahu government and urged Congress to reject the transfer agreements."
+    },
+    {
+      "id": "5097932",
+      "time": "2026-09-16 23:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏預計下半年淨營運資本釋放規模超5億美元。"
+    },
+    {
+      "id": "5097931",
+      "time": "2026-09-16 23:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏預計第三季度盈利15億至16億美元，低於此前預期。"
+    },
     {
       "id": "5097930",
       "time": "2026-09-16 23:28:07",
