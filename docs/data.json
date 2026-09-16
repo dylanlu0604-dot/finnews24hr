@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-16 23:17:28",
-  "count": 13381,
+  "updated": "2026-09-16 23:21:24",
+  "count": 13383,
   "items": [
+    {
+      "id": "5097924",
+      "time": "2026-09-16 23:20:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣可再生能源（GE Vernova）股價漲超5%。"
+    },
+    {
+      "id": "mkt:01a0aacd-3f41-7118-85bf-ab597d346bd9",
+      "time": "2026-09-16 23:19:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "GOOGL.O",
+        "005930.KS"
+      ],
+      "text": "The U.S. International Trade Commission voted to open an investigation into electronic devices using a specific audio technology; respondents include Apple, Samsung and Google."
+    },
+    {
+      "id": "5097923",
+      "time": "2026-09-16 23:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：呼籲胡塞武裝與沙特開展對話，以遏制中東局勢急劇升級。"
+    },
+    {
+      "id": "5097922",
+      "time": "2026-09-16 23:19:02",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國際貿易委員會投票決定，對搭載特定音訊技術的部分電子裝置發起調查，被調查方為蘋果、三星與谷歌。"
+    },
+    {
+      "id": "5097921",
+      "time": "2026-09-16 23:18:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：呼籲俄羅斯公民務必參與選舉，作出負責任的決定，讓選舉結果印證社會的成熟度。相信正在執行艱鉅作戰任務的官兵會積極參加選舉。最優秀的候選人、真正的愛國者將贏得選舉。參與選舉，是為俄羅斯的勝利共同出力。"
+    },
+    {
+      "id": "5097920",
+      "time": "2026-09-16 23:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯正在特別軍事行動期間開展大規模競選活動。俄羅斯人民的選擇將證明，數百萬人站在軍人身後，我們是擁有共同價值觀的團結民族，不會被分裂，也不會被嚇倒。"
+    },
+    {
+      "id": "5097919",
+      "time": "2026-09-16 23:17:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空首席財務官稱，公司第四季度燃料成本將增加10億美元。"
+    },
     {
       "id": "mkt:01a0aaca-cc2d-7118-85bf-a4ca5648daff",
       "time": "2026-09-16 23:16:52",
@@ -123211,58 +123278,6 @@
         "市場"
       ],
       "text": "歐元區債券收益率繼續走高；德國 10 年期國債收益率 上升 7 個基點至 3.431%，創 2011 年以來新高。"
-    },
-    {
-      "id": "5085540",
-      "time": "2026-09-09 23:20:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美元指數在回購公告發布後收復失地，最新上漲 0.1%，報 98.88。"
-    },
-    {
-      "id": "mkt:01a086c1-bfdb-7118-850b-1eff54535a9a",
-      "time": "2026-09-09 23:20:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish",
-        "FLEX.O"
-      ],
-      "text": "Amazon and contract manufacturer Flex said they will expand an advanced manufacturing facility in Texas, a move expected to create nearly 1,000 jobs and strengthen the U.S. supply chain."
-    },
-    {
-      "id": "5085539",
-      "time": "2026-09-09 23:20:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：未來數月，將在得克薩斯州推出更多勞動力發展專案。"
-    },
-    {
-      "id": "te:economy:582472",
-      "time": "2026-09-09 23:19:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Portugal",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Portugal 10Y Bond Yield Hits 9-year High — Portugal 10 Year Government Bond Yield increased to 3.79%, the highest since April 2017. Over the past 4 weeks, Portugal 10Y Bond Yield gained 27.32 basis points, and in the last 12 months, it increased 71.00 basis points."
-    },
-    {
-      "id": "5085538",
-      "time": "2026-09-09 23:17:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥 8 月正規就業崗位新增 3.83 萬個。"
     }
   ]
 }
