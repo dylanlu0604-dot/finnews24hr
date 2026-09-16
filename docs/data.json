@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-17 00:00:40",
-  "count": 13417,
+  "updated": "2026-09-17 00:04:31",
+  "count": 13416,
   "items": [
+    {
+      "id": "te:markets:584277",
+      "time": "2026-09-17 00:03:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1% to 51,969 on Wednesday, amid gains across sectors. Sovereign yields declined as the surge in crude prices eased, while markets awaited the Fed’s monetary policy decision after the close, with a rate hike widely expected. Although higher rates could weigh on credit demand, financials outperformed in Milan. Consob opened an investigation into Intesa’s (0.6%) bid for MPS (-0.1%). Although Intesa had agreed to dispose of half of MPS’s branches, preliminary checks by the authorities indicated that the deal could still raise competition concerns regardless of the divestment. Tech stock STMicroelectronics advanced 2%, while defense stocks Leonardo (1%) and Avio (0.4%) outperformed, driven by renewed signs of the need to rebuild Western arsenals. Utilities also extended recent gains, led by A2A (2%). Stellantis dropped 3.3%, while Prime Minister Meloni announced the abolition of road tax for small and medium-sized vehicles."
+    },
+    {
+      "id": "mkt:01a0aaf5-5ee9-7118-85c0-d5db2bdb116e",
+      "time": "2026-09-17 00:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Prime Minister Meloni said she hopes to remain in office until the end of the current parliamentary term."
+    },
+    {
+      "id": "5097974",
+      "time": "2026-09-17 00:03:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國有控股上市公司年內披露1239單併購計劃】今年以來，央企、地方國企加快推進國有經濟佈局最佳化和結構調整。 同花順iFinD資料顯示，以首次公告日計，剔除交易失敗案例，今年以來截至9月16日，A股國有控股上市公司（包括央企國資控股、省屬國資控股、地市國資控股及其他國有企業）已披露1239單併購計劃。其中，18單涉及重大資產收購/出讓/置換。“今年國企重組整合的一個明顯變化是產業邏輯更強，且資本市場在這一輪國有經濟佈局最佳化和結構調整過程中，作用愈發突出。”在中泰證券首席策略分析師徐馳看來，今年國企重組的主線比較清晰：傳統行業裡，能源、汽車、化工等領域更強調同類資產集中，透過專業化整合提高行業集中度和運營效率；戰略性新興產業領域，半導體、新材料、高階裝備、新能源等方向的併購更多圍繞技術、產能和產業鏈短板展開。(證券日報)"
+    },
+    {
+      "id": "mkt:01a0aaf4-98cc-7118-85c0-c864f671e093",
+      "time": "2026-09-17 00:02:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) to improve publishers' search profiles."
+    },
+    {
+      "id": "5097973",
+      "time": "2026-09-17 00:01:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：最佳化內容釋出方的搜尋資料頁。"
+    },
+    {
+      "id": "mkt:01a0aaf3-c0bc-7118-85c0-c6e88919bb55",
+      "time": "2026-09-17 00:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's Prime Minister Giorgia Meloni said she will remain in office until she secures a stable majority."
+    },
+    {
+      "id": "5097971",
+      "time": "2026-09-17 00:01:02",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局：俄羅斯8月生產者價格指數（PPI）同比上漲6.5%，環比上漲0.9%。"
+    },
+    {
+      "id": "5097967",
+      "time": "2026-09-17 00:00:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空首席財務官稱，公司長期有望實現15%左右的利潤率。"
+    },
     {
       "id": "5097966",
       "time": "2026-09-16 23:59:38",
@@ -123516,87 +123592,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）：美國 9 月天然氣產量均值為 1239 億立方英尺 / 日，8 月為 1237 億立方英尺 / 日；10 月產量均值預計達 1242 億立方英尺 / 日。"
-    },
-    {
-      "id": "te:markets:582481",
-      "time": "2026-09-10 00:03:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls to 7-Week Low — The FTSE 100 fell more than 1% to a seven-week low on Wednesday as Brent crude surged to $101 a barrel, its highest level since May, amid renewed fighting in the Middle East. The US destroyed five Iranian crude-carrying tankers following an attempted strike on a US Navy warship, while Tehran fired missiles towards Jordan and warned vessels in the Persian Gulf. Energy stocks were among the few gainers, with Shell up 0.2% and BP rising 0.7%. Aberdeen Group edged lower after earlier gaining more than 2% following the appointment of Torbjörn Magnusson as chairman, subject to regulatory approval. Elsewhere, financials, consumer staples, industrials and materials came under heavy selling pressure. HSBC fell nearly 2%, while Unilever and BAT dropped 1.6% and 1.3%, respectively. Rolls-Royce declined 2.5%, Rio Tinto fell 1.5% and Glencore lost 1%. AstraZeneca was also under pressure, falling 1.8%."
-    },
-    {
-      "id": "5085571",
-      "time": "2026-09-10 00:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年美國石油產量為 1383 萬桶 / 日，此前預測值 1380 萬桶 / 日；預計 2027 年產量 1426 萬桶 / 日（此前預測值 1415 萬桶 / 日）。"
-    },
-    {
-      "id": "te:markets:582480",
-      "time": "2026-09-10 00:03:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Finishes at Over 1-Month Low — The DAX 40 deepened losses to close about 1.7% lower at 25,554 on Wednesday, a level last seen in late July, tracking its European peers. The escalation in the Middle East has pushed crude oil prices higher, bringing Brent crude above $100 a barrel, its highest level since last July, further fueling inflation concerns on the eve of the ECB's decision. The central bank is all but certain to raise interest rates from 2.25% to 2.5% on Thursday, with traders focused on the future policy path. Almost all sectors faced pressure, particularly energy-intensive industrials, techs, banks, financials and autos. Defense stocks Rheinmetall and Renk slipped 3.8% and 3.1%, respectively, amid profit-taking. Other top losers included MTU Aero Engines (-3%), Siemens (-2.9%), Heidelberg Materials (-2.8%) and Infineon Technologies (-2.6%). Beiersdorf dropped 2.6% after Deutsche Bank downgraded the stock from “Hold” to “Sell\". RWE (1.6%, Qiagen NV (0.4%), SAP (0.4%) and Bayer (0.2%) were the only gainers."
-    },
-    {
-      "id": "5085570",
-      "time": "2026-09-10 00:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年美國天然氣產量為 1117 億立方英尺 / 日，此前預測值 1112 億立方英尺 / 日；預計 2027 年產量 1159 億立方英尺 / 日（此前預測值 1160 億立方英尺 / 日）。"
-    },
-    {
-      "id": "5085569",
-      "time": "2026-09-10 00:03:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年美國石油需求為 2060 萬桶 / 日，此前預測值 2060 萬桶 / 日；預計 2027 年需求 2080 萬桶 / 日（此前預測值 2080 萬桶 / 日）。"
-    },
-    {
-      "id": "5085568",
-      "time": "2026-09-10 00:02:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年美國天然氣需求量為 922 億立方英尺 / 日，此前預測值 920 億立方英尺 / 日；預計 2027 年需求量 943 億立方英尺 / 日（此前預測值 948 億立方英尺 / 日）。"
-    },
-    {
-      "id": "5085567",
-      "time": "2026-09-10 00:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年全球石油需求為 1.026 億桶 / 日，此前預測值 1.027 億桶 / 日；預計 2027 年需求 1.05 億桶 / 日（此前預測值 1.05 億桶 / 日）。"
-    },
-    {
-      "id": "5085566",
-      "time": "2026-09-10 00:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年西德克薩斯中質原油（WTI）均價為每桶 84.65 美元，此前預測值為每桶 80.88 美元；2027 年預測價每桶 69.74 美元（此前預測值每桶 65.39 美元）。"
-    },
-    {
-      "id": "5085565",
-      "time": "2026-09-10 00:01:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計 2026 年布倫特原油均價為每桶 91.01 美元，此前預測值為每桶 86.81 美元；2027 年預測價每桶 73.74 美元（此前預測值每桶 69.39 美元）。"
     }
   ]
 }
