@@ -1,7 +1,422 @@
 {
   "date": "2026-09-16",
-  "count": 460,
+  "count": 501,
   "items": [
+    {
+      "id": "mkt:01a0a785-1d04-7118-85a5-e1941c206468",
+      "time": "2026-09-16 08:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 11.05 points, or 0.02%, at 63,495.15 on Wednesday, Sept. 16."
+    },
+    {
+      "id": "mkt:01a0a785-047b-7118-85a5-dd0ca9050fc3",
+      "time": "2026-09-16 08:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 11.57 points (-0.17%) at 6,615.69 on Wednesday, Sept. 16."
+    },
+    {
+      "id": "te:economy:584000",
+      "time": "2026-09-16 08:01:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machinery Orders",
+        "Importance 1"
+      ],
+      "text": "Japan Machinery Orders Fall More than Expected — Japan’s core machine orders, which exclude volatile sectors such as ships and electric utilities, fell by 3.7% month-on-month to JPY 1,016.9 billion in July 2026, exceeding market expectations for a 2.8% drop and slipping from a 9.7% gain in the previous month. It marked the fourth month of decline so far this year, driven by a 1% fall in manufacturing orders to JPY 518.6 billion and a 2.6% drop in non-manufacturing orders excluding utilities to JPY 525.9 billion."
+    },
+    {
+      "id": "mkt:01a0a784-6456-7118-85a5-d1dd60119e43",
+      "time": "2026-09-16 08:01:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 30-year government bond yield rose 3.0 bps to 4.180%."
+    },
+    {
+      "id": "5096174",
+      "time": "2026-09-16 08:00:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲3.0個基點，至4.180%。"
+    },
+    {
+      "id": "5096173",
+      "time": "2026-09-16 08:00:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.2%，至6611.24點。"
+    },
+    {
+      "id": "5096172",
+      "time": "2026-09-16 08:00:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：看好PCB/CCL景氣週期的持續性及增長性】中信證券研報認為，看好PCB/CCL景氣週期的持續性及增長性，短期受益於AI領域的迭代放量及傳統領域的漲價，26H2業績有望表現強勢；中長期則有望受益於PCB工藝及材料的持續迭代升級，ASIC、載板、mSAP、PTFE等細分方向均有望實現超額增長，持續看好板塊後續的投資機會。"
+    },
+    {
+      "id": "5096171",
+      "time": "2026-09-16 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報63672.13點，漲幅0.30％。韓國綜合股價指數（KOSPI）開盤下跌0.2％，至6611.24點。"
+    },
+    {
+      "id": "te:economy:583998",
+      "time": "2026-09-16 08:00:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Japan Trade Deficit Widens Sharply as Imports Surge — Japan’s trade deficit widened significantly to JPY 1,105.6 billion in August 2026 from JPY 294.1 billion a year earlier, slightly below market expectations for a JPY 1,052.6 billion shortfall. It marked the fourth consecutive month of deficit and the largest since January, as imports grew faster than exports. Imports surged 28.0% year-on-year to JPY 11,153.9 billion, following a 27.9% rise in July and exceeding forecasts of 26.3%, marking the strongest growth since November 2022. The increase reflected solid domestic demand, partly supported by the government’s late-2025 stimulus. Crude oil imports jumped 58.7% as Japan diversified energy purchases away from the Strait of Hormuz amid ongoing tensions. Exports rose 19.3% to JPY 10,048.4 billion, topping expectations for 18.2%. Outbound shipments increased for a 12th straight month, supported by a weaker yen and robust demand for AI-related chips, despite supply-chain risks stemming from the Middle East conflict."
+    },
+    {
+      "id": "5096170",
+      "time": "2026-09-16 08:00:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本出口增長保持強勁，對美出口貢獻主要增幅】日本8月出口增速略有回落，但依舊維持高位，對美出口拉動整體增長。日本財務省週三公佈資料，出口額同比增長19.3%，低於7月23.2%的增幅；該結果高於經濟學家18.4%的預期中值。進口同比增長28%，高於經濟學家預估的26.3%。未經季調的貿易逆差擴大至1.1萬億日元，7月修正後逆差為6383億日元，貿易逆差已連續四個月出現。週三釋出的報告著重指出市場波動對貿易收支造成的影響。8月油價維持在相對高位，布倫特原油均價約每桶88美元，日元匯率持續在1美元兌160日元附近波動，推高了日本原油進口金額。受霍爾木茲海峽襲擊事件增多、美伊雙方局勢持續緊張影響，上週布倫特原油價格突破每桶100美元。9月至今，日元兌美元升值幅度超3%，成為同期亞洲表現最佳的貨幣。按出口目的地劃分，對美出口增長24.9%，對華出口增長20.6%，對歐出口增長11%。"
+    },
+    {
+      "id": "5096169",
+      "time": "2026-09-16 07:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日產將投資1.7億英鎊在英國工廠生產全新混動SUV】據英國《金融時報》報道，日產將投資1.7億英鎊，在桑德蘭工廠投產一款全新混動SUV。一位不願具名的知情人士稱，Kicks車型投產後，桑德蘭工廠年產量最高可增加5萬輛。日產與奇瑞的製造合作專案正在推進；雙方已簽署一份無約束力諒解備忘錄。奇瑞計劃在桑德蘭工廠生產三款車型。"
+    },
+    {
+      "id": "mkt:01a0a781-d72d-7118-85a5-cfee32c3cf9c",
+      "time": "2026-09-16 07:58:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple explosions heard on Iran's Qeshm Island】Iranian media reported on the 16th that multiple explosions were heard on Qeshm Island in southern Iran."
+    },
+    {
+      "id": "5096167",
+      "time": "2026-09-16 07:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗格什姆島傳出數次爆炸聲】據伊朗媒體16日報道，伊朗南部格什姆島傳出數次爆炸聲。(新華社)"
+    },
+    {
+      "id": "5096166",
+      "time": "2026-09-16 07:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta據報將推出無攝像頭AI眼鏡，代號“Luna”】9月16日，據報道，Meta計劃於今年秋季推出一款無攝像頭智慧眼鏡，內部代號為“Luna”。據報道，該眼鏡配備6個內建麥克風，可支援使用者與Meta AI聊天機器人及新推出的AI智慧體Muse互動。據報道，Luna還將在鏡腿側面配備可快速啟動Meta AI的按鍵，揚聲器設計與現有產品類似。Meta可能在下週舉行的Connect開發者大會上釋出這款眼鏡，並計劃於10月開始出貨。"
+    },
+    {
+      "id": "5096165",
+      "time": "2026-09-16 07:56:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大韓航空敲定103架波音飛機訂單】據報道，大韓航空已敲定103架波音飛機採購訂單，機型包含20架777-9、25架787-10、50架737-10以及8架777-8貨機，兌現其在2025年8月作出的採購承諾。訂單涵蓋寬體與單通道兩大系列，共四款機型。注：2025年8月，大韓航空向波音訂購103架飛機，訂單價值362億美元。"
+    },
+    {
+      "id": "5096164",
+      "time": "2026-09-16 07:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "大韓航空最終敲定訂購103架波音飛機。"
+    },
+    {
+      "id": "5096163",
+      "time": "2026-09-16 07:54:58",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【AI 擔憂加劇，特朗普政府顧問與 Anthropic 高管舉行會談】知情人士稱，特朗普政府高階官員於週二與 Anthropic PBC 公司駐華盛頓最高負責人會面，討論人工智慧安全風險。Anthropic 首席計算官湯姆・布朗（ Tom Brown）是該公司在華盛頓的核心代表，他以線上形式與五角大樓技術長埃米爾・邁克爾、商務部長霍華德・盧特尼克舉行會談。Anthropic 拒絕置評。美國國防部一名官員在宣告中表示，國防部 “與前沿人工智慧企業保持溝通。國防部對 Anthropic 的立場並未發生改變。”Anthropic 執行長達里奧・阿莫代伊於週六釋出一篇長達 3800 字的文章，再次點燃該公司與本屆政府之間的緊張關係。他呼籲政府實施監管，並主張放緩最先進人工智慧系統的研發節奏，以便研究人員能夠更好地研判潛在威脅。阿莫代伊的這篇文章迅速得到競爭對手 OpenAI 執行長薩姆・奧特曼以及 SpaceXAI 執行長埃隆・馬斯克的支援，引發了美國總統特朗普總統的強烈反應。特朗普將有關人工智慧風險的擔憂斥為 “騙局”，並拒絕出臺新監管規則。"
+    },
+    {
+      "id": "5096162",
+      "time": "2026-09-16 07:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：西方須取消對俄製裁以充實世界能源市場】9月15日，俄羅斯總統新聞秘書佩斯科夫表示，烏克蘭當天凌晨企圖對俄羅斯的一處能源設施發動打擊。他還指出，西方必須取消對俄製裁，以充實世界能源市場。佩斯科夫表示，俄羅斯石油產品進入世界市場有賴安全航運環境，但烏克蘭無意保障這條安全通道，已有其他國家的船隻因此受損。佩斯科夫指出，俄方正採取綜合措施保障煉油廠安全，以穩定國內石油產品市場。他同時表示，俄方看到了美國總統特朗普有關俄烏能源休戰的表態，俄方一貫主張以和平方式解決衝突。俄烏“能源休戰”有助於俄方充實國內石油產品市場，但即使沒有“能源休戰”，俄羅斯本身也具備穩定市場的能力。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a77c-f99a-7118-85a5-c456b9301d6e",
+      "time": "2026-09-16 07:53:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "Wall Street (US)",
+        "Europe & UK",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Ministry of Finance said August exports to China rose 20.6% YoY; exports to Asia rose 21.4%; to the US rose 24.9%; to the EU rose 11.0%."
+    },
+    {
+      "id": "mkt:01a0a77b-f752-7118-85a5-b9500cae6ed7",
+      "time": "2026-09-16 07:51:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Japan's Ministry of Finance said preliminary August crude oil imports rose 3.6% YoY; thermal coal imports fell 13.6% YoY to 9.092 mln tonnes; LNG imports fell 6.8% YoY to 4.99 mln tonnes."
+    },
+    {
+      "id": "5096161",
+      "time": "2026-09-16 07:51:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：2027年光通訊行業高景氣度確定性抬升】中金公司研報稱，第27屆光博會熱度較往年有增無減，超4000家企業參展，整體觀眾數近19萬人，較去年同比增長32%。“鎖訂單”、“鎖物料”成為展會調研關鍵詞，2027年需求確定性進一步提高。結合展會調研，部分高速光晶片企業訂單排期已延伸至2028年及以後，光模組訂單能見度覆蓋2027年及以後；頭部光模組廠商積極鎖定DSP、mSAP PCB、高速光晶片等核心物料。預計後續交付差異將更多取決於關鍵物料保障、良率和客戶認證，其中先進製程DSP可能成為最緊缺環節。預計至2028年，NPO在標準和工程方案逐步收斂、良率爬升後有望加速上量，CPO或逐步進入Scale-up；OCS從少數雲廠商自用走向更多AI叢集，帶動2.4T輕相干應用下沉；400G per lane推動器件升級，薄膜鈮酸鋰有望加速進入客戶驗證及應用視窗。"
+    },
+    {
+      "id": "5096160",
+      "time": "2026-09-16 07:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：日本8月對美出口同比增長24.9%，對亞洲出口同比增長21.4%，對華出口同比增長20.6%。"
+    },
+    {
+      "id": "mkt:01a0a77a-ce0a-7118-85a5-b0b53d177745",
+      "time": "2026-09-16 07:50:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan Aug seasonally adjusted merchandise trade balance: −840.6 bln yen vs expected −984.2 bln; prior −686.0 bln."
+    },
+    {
+      "id": "5096157",
+      "time": "2026-09-16 07:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月核心機械訂單環比 -3.7%，前值 9.7%。日本7月核心機械訂單環比 -3.7%，前值 9.7%。"
+    },
+    {
+      "id": "mkt:01a0a77a-9b57-7118-85a5-ac0132593696",
+      "time": "2026-09-16 07:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan core machinery orders MoM (July) -3.7% vs -2.8% expected; prior +9.7%."
+    },
+    {
+      "id": "mkt:01a0a77a-9250-7118-85a5-a439b671f203",
+      "time": "2026-09-16 07:50:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan core machinery orders YoY (July) +11.2% vs consensus +15.3%; prior +16.9%."
+    },
+    {
+      "id": "mkt:01a0a77a-912e-7118-85a5-9c704d688871",
+      "time": "2026-09-16 07:50:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Adjusted Merchandise Trade Balance (Aug) | actual -840587999999.9999B | consensus -984200000000B | previous -686000000000B"
+    },
+    {
+      "id": "mkt:01a0a77a-8f84-7118-85a5-957e652548da",
+      "time": "2026-09-16 07:50:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan August merchandise trade balance, not seasonally adjusted: -¥1.106 trillion vs -¥1.053 trillion forecast; July balance revised from -¥634.5 billion to -¥638.3 billion."
+    },
+    {
+      "id": "mkt:01a0a77a-8f23-7118-85a5-8baf4ab25e01",
+      "time": "2026-09-16 07:50:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan August merchandise imports YoY 28.0% (expected 26.3%); prior revised to 27.9% from 27.8%."
+    },
+    {
+      "id": "5096156",
+      "time": "2026-09-16 07:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月份出口同比增長19.3% ，預估為18.4%。日本8月份進口同比增長28.0%，預估為26.3%。"
+    },
+    {
+      "id": "mkt:01a0a77a-78de-7118-85a5-80966f686c2c",
+      "time": "2026-09-16 07:50:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan August merchandise exports YoY 19.3%, expected 18.2%, prior 23.2%."
+    },
+    {
+      "id": "mkt:01a0a77a-3cee-7118-85a5-7f8a7893abd8",
+      "time": "2026-09-16 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (YoY) (Jul) | actual 11.2% | consensus 15.3% | previous 16.90%"
+    },
+    {
+      "id": "mkt:01a0a77a-3cec-7118-85a5-76622b1dffbd",
+      "time": "2026-09-16 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (MoM) (Jul) | actual -3.7% | consensus -2.8% | previous 9.70%"
+    },
+    {
+      "id": "mkt:01a0a77a-3b14-7118-85a5-6c40b7e532d4",
+      "time": "2026-09-16 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Unadjusted Merchandise Trade Balance (Aug) | actual -1105600000000B | consensus -1052600000000B | previous -634500000000B"
+    },
+    {
+      "id": "mkt:01a0a77a-3b0f-7118-85a5-6759fb66376a",
+      "time": "2026-09-16 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Imports (Aug) | actual 28% | consensus 26.3% | previous 27.80%"
+    },
+    {
+      "id": "mkt:01a0a77a-3afc-7118-85a5-5b3a85385776",
+      "time": "2026-09-16 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Exports (Aug) | actual 19.3% | consensus 18.2% | previous 23.20%"
+    },
+    {
+      "id": "mkt:01a0a779-d220-7118-85a5-519c24b631fb",
+      "time": "2026-09-16 07:49:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP says South Korea's foreign minister will visit the United States on Friday to meet U.S. Secretary of State Rubio."
+    },
+    {
+      "id": "5096155",
+      "time": "2026-09-16 07:49:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方空間引力二號預計2026年四季度首飛】記者獲悉，東方空間引力二號可重複使用大型液體運載火箭正在加速研製，預計20206年四季度面世，其運載能力將達到低軌21.5噸，發射價格將進一步大幅降低。"
+    },
+    {
+      "id": "5096154",
+      "time": "2026-09-16 07:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "扎克伯格：吸納評估人員與顧問是人工智慧領域的最佳實踐。"
+    },
+    {
+      "id": "5096153",
+      "time": "2026-09-16 07:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓聯社訊息：韓國外交部長將於週五訪問美國，會見美國國務卿魯比奧。"
+    },
+    {
+      "id": "5096152",
+      "time": "2026-09-16 07:46:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格表示，Meta推遲了 MUSE 的開發，以便專注於安全性和保障性。"
+    },
     {
       "id": "5096151",
       "time": "2026-09-16 07:45:55",
