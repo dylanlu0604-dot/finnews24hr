@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-16 13:41:45",
-  "count": 13404,
+  "updated": "2026-09-16 13:45:31",
+  "count": 13405,
   "items": [
+    {
+      "id": "5096645",
+      "time": "2026-09-16 13:44:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【儲存晶片概念異動拉昇 太極實業觸及漲停】午後儲存晶片概念異動拉昇，太極實業觸及漲停，此前盈方微漲停，德邦科技、瀾起科技、深科技、萬潤科技、德明利等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a0a8bd-c764-7118-85ac-59654eee3cdd",
+      "time": "2026-09-16 13:43:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Yemen's Houthi forces said on the 16th they shot down a Saudi F-15 fighter jet over Marib province in northeastern Yemen."
+    },
+    {
+      "id": "5096644",
+      "time": "2026-09-16 13:43:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝16日稱在葉門東北部馬裡卜省上空擊落一架沙特F-15戰鬥機。（新華社）"
+    },
+    {
+      "id": "te:markets:584094",
+      "time": "2026-09-16 13:43:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1% Higher Ahead of GDP Data — The NZX 50 advanced 139 points, or 1.0%, to close at 13,623 on Wednesday, halting losses from the previous four sessions and moving away from its lowest level since June 24, touched a day earlier, ahead of the release of Q2 GDP data. New Zealand's economic data will be released on Thursday, with the market expecting GDP to accelerate 2.9% yoy, while easing to 0.1% qoq. Fresh data also fueled sentiment, as New Zealand consumer confidence moved away from a three-year low, though it remained in pessimistic territory. However, expectations of a Fed interest rate hike, amid higher oil prices, pressured sentiment. The index was also capped by a downbeat session on Wall Street overnight due to a surge in US Treasury yields. Financials, healthcare, and utilities mainly drove the index, with top movers including Ventia Services (4.3%), Infratil (3.6%), Brisco (3.5%), Contact Energy (2.5%), Delegat Group (2.2%), Fisher & Paykel (1.9%), Meridian Energy (1.7%), and Mainfreight (1.2%)."
+    },
+    {
+      "id": "mkt:01a0a8bc-91cb-7118-85ac-5153e9d25284",
+      "time": "2026-09-16 13:42:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Indian bond traders uneasy as Reserve Bank of India liquidity withdrawal risks prolonging slump】ICICI Securities' primary dealers and IDFC First Bank forecast India's benchmark 10-year government bond yield could breach its May 2026 high and rise to 7.25% by Dec 31, a three-year peak. Citigroup has moved up its expectation for a Reserve Bank of India rate hike from December to October. Traders warn the RBI's withdrawal of excess system cash, alongside rising inflation and a global bond-market selloff, could trigger a sustained downturn. Ashhish Vaidya, head of funds for DBS Group in Mumbai, said: \"The outlook is chaotic; it's hard to judge the yield peak. Conditions have clearly changed; traders are repositioning for tougher supply and higher inflation.\""
+    },
     {
       "id": "5096643",
       "time": "2026-09-16 13:40:08",
@@ -123483,43 +123538,6 @@
         "Europe & UK"
       ],
       "text": "Gatwick Airport: flights at London Gatwick have resumed, but the airport says full operational recovery will take time."
-    },
-    {
-      "id": "5084279",
-      "time": "2026-09-09 13:45:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國史上最貴離婚案，遊戲巨頭被判向妻子分割超2萬億韓元資產】韓國首爾一家法院下令Smilegate創始人權赫彬將35%的股份轉讓給妻子，價值超過2萬億韓元。現年52歲的權志強持有韓國最大的私營遊戲公司之一Smilegate的控股權，該公司開發了熱門遊戲《穿越火線》和《失落的方舟》。據彭博億萬富翁指數顯示，他的財富約為30億美元。據當地媒體報道，他的妻子曾試圖獲得權在公司100%股份中的一半。雙方均可對裁決提出質疑。此次財產分割金額超過了SK集團會長崔泰源離婚案中判決的9440億韓元，可能成為韓國歷史上金額最高的離婚案。"
-    },
-    {
-      "id": "5084278",
-      "time": "2026-09-09 13:44:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小金屬板塊異動走高，中國鈾業漲超7%】小金屬板塊異動走高，中國鈾業漲超7%，金鈦股份、東方鋯業、華錫有色跟漲。"
-    },
-    {
-      "id": "mkt:01a084b1-4b92-7118-84fe-3236e544c479",
-      "time": "2026-09-09 13:43:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Morgan Stanley: AI capital ROIC could reach 25%–50% if GPUs sustain ~70% utilization】Morgan Stanley estimates incremental ROIC for three GPU monetization models at roughly 31% for GPU leasing, 46% for running model APIs on owned compute, and 25% for renting third‑party compute. These figures refer to incremental returns on a 1 GW GB300 capacity once in stable operation, not company‑level returns. Returns depend on GPU utilization, pricing and per‑unit build cost. Base case assumes ~410k GPUs, 75% utilization and $8.5/hr rent. If rental rates run $7–$10/hr, GPU‑leasing ROIC would vary about 23%–39%."
-    },
-    {
-      "id": "5084277",
-      "time": "2026-09-09 13:41:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保利發展成立房地產顧問公司】企查查APP顯示，近日，上海保潤和家房地產顧問有限公司成立，法定代表人為高煥，經營範圍包含：房地產諮詢；房地產經紀；非居住房地產租賃；市場營銷策劃；企業管理諮詢；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由保利發展間接全資持股。"
     }
   ]
 }

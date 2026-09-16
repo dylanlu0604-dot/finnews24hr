@@ -1,7 +1,62 @@
 {
   "date": "2026-09-16",
-  "count": 1143,
+  "count": 1148,
   "items": [
+    {
+      "id": "5096645",
+      "time": "2026-09-16 13:44:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【儲存晶片概念異動拉昇 太極實業觸及漲停】午後儲存晶片概念異動拉昇，太極實業觸及漲停，此前盈方微漲停，德邦科技、瀾起科技、深科技、萬潤科技、德明利等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a0a8bd-c764-7118-85ac-59654eee3cdd",
+      "time": "2026-09-16 13:43:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Yemen's Houthi forces said on the 16th they shot down a Saudi F-15 fighter jet over Marib province in northeastern Yemen."
+    },
+    {
+      "id": "5096644",
+      "time": "2026-09-16 13:43:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝16日稱在葉門東北部馬裡卜省上空擊落一架沙特F-15戰鬥機。（新華社）"
+    },
+    {
+      "id": "te:markets:584094",
+      "time": "2026-09-16 13:43:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1% Higher Ahead of GDP Data — The NZX 50 advanced 139 points, or 1.0%, to close at 13,623 on Wednesday, halting losses from the previous four sessions and moving away from its lowest level since June 24, touched a day earlier, ahead of the release of Q2 GDP data. New Zealand's economic data will be released on Thursday, with the market expecting GDP to accelerate 2.9% yoy, while easing to 0.1% qoq. Fresh data also fueled sentiment, as New Zealand consumer confidence moved away from a three-year low, though it remained in pessimistic territory. However, expectations of a Fed interest rate hike, amid higher oil prices, pressured sentiment. The index was also capped by a downbeat session on Wall Street overnight due to a surge in US Treasury yields. Financials, healthcare, and utilities mainly drove the index, with top movers including Ventia Services (4.3%), Infratil (3.6%), Brisco (3.5%), Contact Energy (2.5%), Delegat Group (2.2%), Fisher & Paykel (1.9%), Meridian Energy (1.7%), and Mainfreight (1.2%)."
+    },
+    {
+      "id": "mkt:01a0a8bc-91cb-7118-85ac-5153e9d25284",
+      "time": "2026-09-16 13:42:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Indian bond traders uneasy as Reserve Bank of India liquidity withdrawal risks prolonging slump】ICICI Securities' primary dealers and IDFC First Bank forecast India's benchmark 10-year government bond yield could breach its May 2026 high and rise to 7.25% by Dec 31, a three-year peak. Citigroup has moved up its expectation for a Reserve Bank of India rate hike from December to October. Traders warn the RBI's withdrawal of excess system cash, alongside rising inflation and a global bond-market selloff, could trigger a sustained downturn. Ashhish Vaidya, head of funds for DBS Group in Mumbai, said: \"The outlook is chaotic; it's hard to judge the yield peak. Conditions have clearly changed; traders are repositioning for tougher supply and higher inflation.\""
+    },
     {
       "id": "5096643",
       "time": "2026-09-16 13:40:08",
