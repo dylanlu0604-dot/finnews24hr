@@ -1,7 +1,134 @@
 {
   "date": "2026-09-16",
-  "count": 1736,
+  "count": 1750,
   "items": [
+    {
+      "id": "te:markets:584202",
+      "time": "2026-09-16 18:43:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Remains Subdued — The South African rand traded around 16.3 per USD, holding close to the lowest since early August, as the US dollar's strength and still elevated oil prices outweighed support from precious-metals prices. Meanwhile, market sentiment remained fragile amid heightened hostilities in the Middle East and further advances by the Houthis. On the domestic economic front, a closely watched gauge of South African inflation expectations fell in the third quarter after surging in the previous quarter due to the oil shock triggered by the US-Iran conflict. The data prompted investors to reduce bets on a possible 25 bps rate hike at the SARB's upcoming policy decision on September 23. Meanwhile, headline inflation eased to 4.3% in July from 5% in June, but the moderation could prove temporary due to domestic fuel price adjustments in August and September. Market participants now wait for inflation figures for August, due next week."
+    },
+    {
+      "id": "mkt:01a0a9cf-7136-7118-85b6-125414ab349b",
+      "time": "2026-09-16 18:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Hamas urged mediators and the US government to act to lift restrictions on rescue equipment and necessary machinery entering Gaza."
+    },
+    {
+      "id": "5097366",
+      "time": "2026-09-16 18:41:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱縮減俄日關係並非俄方主張】俄羅斯總統新聞秘書佩斯科夫今天（9月16日）在簡報中，就日本使館希望恢復本國公民赴南千島群島（日方稱“北方四島”）探訪和安葬親屬免籤制度作出回應。佩斯科夫表示，日本對俄奉行極不友好立場，並參與了對俄所有制裁，被俄列為不友好國家。當前情況下不可能指望在免籤等問題上相互放寬。佩斯科夫還強調，縮減雙邊關係並非俄方主張。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0a9ce-a659-7118-85b6-0f59d1132df1",
+      "time": "2026-09-16 18:41:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "The Hong Kong Monetary Authority (HKMA) provided HK$2.19 billion in liquidity to banks via its discount window."
+    },
+    {
+      "id": "5097365",
+      "time": "2026-09-16 18:41:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【貿易商四處找貨 在波斯灣外裝運的中東原油價格創3月以來新高】隨著市場日益擔心石油供應短缺程度可能回到中東衝突爆發初期的嚴峻水平，在波斯灣外裝運的中東原油價格升至3月以來的高位。繼上週的襲擊導致沙特一條關鍵輸油管道暫時關閉之後，貿易商爭相尋找替代供應，阿曼原油期貨隨之升至每桶132.09美元，較國際基準布倫特原油的溢價躍升至近24美元，同創3月以來最高水平。因為阿曼位於霍爾木茲海峽外側，所以該國的原油獲得追捧。阿布扎比的Murban原油是透過管道輸送至波斯灣外的另一種重要基準原油，目前交易價格接近每桶124美元，回到美伊衝突初期的高位。"
+    },
+    {
+      "id": "mkt:01a0a9ce-6d07-7118-85b6-0766e6a73e26",
+      "time": "2026-09-16 18:41:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Ed Yardeni cut his S&P 500 index year-end target to 7,900 from 8,400 and set a mid-2027 target of 8,400."
+    },
+    {
+      "id": "5097364",
+      "time": "2026-09-16 18:41:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安銀行：每10股派發現金股利人民幣2.49元】據平安銀行股份有限公司2026年半年度權益分派實施公告，平安銀行以本公司2026年6月30日的總股本19,405,918,198股為基數，每10股派發現金股利人民幣2.49元（含稅），合計派發現金股利人民幣48.32億元，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5097363",
+      "time": "2026-09-16 18:41:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆華新材：新餘隆振減持計劃屆滿，實際減持佔總股本0.2556%】隆華新材公告，股東新餘隆振於2026年6月17日至2026年9月16日減持公司股份，其中權益分派實施前減持23.03萬股，實施後減持112.91萬股，合計佔公司總股本0.2556%。截至2026年9月16日，新餘隆振持有993.08萬股，佔總股本1.7765%，本次減持計劃已實施完畢，實際減持數量未超過計劃數量。"
+    },
+    {
+      "id": "5097362",
+      "time": "2026-09-16 18:40:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金融管理局透過貼現視窗向銀行提供21.9億港元貸款。"
+    },
+    {
+      "id": "5097361",
+      "time": "2026-09-16 18:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力源科技：簽訂6815.60萬元供貨合同】力源科技(688565.SH)公告稱，公司與中國電力工程顧問集團東北電力設計院有限公司簽署威海熱電2×66萬千瓦熱電聯產專案化學水處理系統裝置買賣合同，合同金額6815.60萬元(含稅)。本次交易將鞏固公司在火電市場的領先地位，提升持續盈利能力和核心競爭力，對公司業務發展及經營業績將產生積極的影響。"
+    },
+    {
+      "id": "mkt:01a0a9cd-f315-7118-85b5-fca3c8713be6",
+      "time": "2026-09-16 18:40:41",
+      "tags": [
+        "MKT News",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "MIZUHO raises Salesforce (CRM.N) PT to $280 from $265."
+    },
+    {
+      "id": "mkt:01a0a9cd-a48e-7118-85b5-f37844bd75c5",
+      "time": "2026-09-16 18:40:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reported a Danish helicopter left the area near a Russian warship in the Baltic Sea after the Russian vessel fired signal flares."
+    },
+    {
+      "id": "5097360",
+      "time": "2026-09-16 18:40:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥直升機在訊號彈發射後駛離波羅的海俄軍艦附近區域。"
+    },
+    {
+      "id": "5097359",
+      "time": "2026-09-16 18:39:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞爾特：股票交易異常波動 上半年營收降17.47%】瑞爾特公告稱，公司股票連續三個交易日（2026年9月14日、9月15日、9月16日）日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動。經核查，公司基本面及主營業務未發生重大變化，不存在應披露而未披露的重大事項，異常波動期間第一大股東及主要股東不存在買賣公司股票的情形。2026年上半年公司營業收入7.59億元，同比下降17.47%；歸母淨虧損1057.60萬元，同比下降120.47%；扣非歸母淨虧損1334.81萬元，同比下降133.17%。截至2026年9月16日，公司靜態市盈率161.15倍，滾動市盈率為虧損，偏離行業平均估值水平，提醒投資者注意投資風險。"
+    },
     {
       "id": "5097357",
       "time": "2026-09-16 18:38:42",
