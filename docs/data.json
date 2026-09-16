@@ -1,7 +1,68 @@
 {
-  "updated": "2026-09-16 23:40:53",
-  "count": 13391,
+  "updated": "2026-09-16 23:44:47",
+  "count": 13394,
   "items": [
+    {
+      "id": "mkt:01a0aae3-a704-7118-85c0-522a4df6ec19",
+      "time": "2026-09-16 23:44:01",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N) has started carbon capture and storage (CCS) operations at its Niuke facility, with capacity to capture up to 800,000 tonnes of CO2 a year."
+    },
+    {
+      "id": "5097948",
+      "time": "2026-09-16 23:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚在紐柯鋼廠啟動碳捕集與封存業務。"
+    },
+    {
+      "id": "mkt:01a0aae2-c1e8-7118-85c0-4f32264d9428",
+      "time": "2026-09-16 23:43:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cornerstone investors in NSE's IPO subscribed for 37.8 million shares at INR 1,785 apiece; participants include Life Insurance Corporation of India, Abu Dhabi Investment Authority, Fidelity Investments and MAS."
+    },
+    {
+      "id": "5097947",
+      "time": "2026-09-16 23:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "吉布提外交部長：本國未記錄到曼德海峽出現任何航運中斷情況。"
+    },
+    {
+      "id": "5097946",
+      "time": "2026-09-16 23:41:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部長賴特暗示，今日將就投向委內瑞拉石油領域的全新私營產業投資，釋出一項重大公告。"
+    },
+    {
+      "id": "mkt:01a0aae1-5af5-7118-85c0-414fd928af3c",
+      "time": "2026-09-16 23:41:30",
+      "tags": [
+        "MKT News",
+        "DOW.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. chemical maker Dow announced global price increases effective in September, including polyethylene products."
+    },
+    {
+      "id": "5097945",
+      "time": "2026-09-16 23:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：原油產量已恢復正常。"
+    },
     {
       "id": "5097944",
       "time": "2026-09-16 23:40:06",
@@ -123325,42 +123386,6 @@
         "Importance 1"
       ],
       "text": "Wheat Falls to 2-Week Low — Wheat fell to $7.10 a bushel, their lowest level in two weeks, as traders weighed diplomatic efforts to end Russia’s war in Ukraine against continued disruption to Black Sea exports. Profit-taking following a strong rally also contributed to the decline. Prices had reached $7.70 on August 28, marking a three-and-a-half-year high, before easing. Ukraine struck targets at the Russian port of Novorossiysk, including a naval base and an oil-loading terminal, renewing concerns over disruptions to Black Sea trade. President Volodymyr Zelenskiy said the attack targeted several facilities, while traders cited unconfirmed reports that grain infrastructure may also have been damaged. However, attention shifted back to diplomacy after the Kremlin said it hoped US-mediated talks would resume soon and identified Abu Dhabi as its preferred venue for negotiations. The prospect of renewed talks helped ease some of the market’s supply concerns."
-    },
-    {
-      "id": "5085562",
-      "time": "2026-09-09 23:44:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多瑙河布達佩斯段水位降至0釐米】布達佩斯水務部門當地時間9月9日在社交媒體表示，當天，多瑙河布達佩斯段水位降至0釐米，但這並不意味著多瑙河中沒有水。布達佩斯水務部門表示，“0釐米”這一讀數，並不代表河流的深度。位於布達佩斯維加多廣場的水位標尺設有0釐米刻度，該數值對應的海拔是94.97米（以波羅的海海平面為基準）。布達佩斯水務部門指出，0釐米意味著多瑙河的水面恰好處於這一海拔高度。將零水位定在這一位置是因為其與多瑙河布達佩斯段歷史上的枯水位對齊——此基準設定於1943年，依據1834年枯水期記錄到的最低水位。因此，即便多瑙河水位顯示負值，也不意味多瑙河已乾涸。 (央視新聞)"
-    },
-    {
-      "id": "5085561",
-      "time": "2026-09-09 23:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國得克薩斯州民主黨在共和黨全國代表大會召開前夕接待多位全國性政黨領袖。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609093869655076",
-      "time": "2026-09-09 23:42:45",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國財政部宣佈長債回購上限60億美元 失望情緒籠罩市場】美國財政部宣佈，根據擴大後的國債回購計劃，財政部在首次操作中將購買最多60億美元長期政府債券。在財長貝森特公開談及回購規模可能超過40億美元后，部分交易商已上調對週四回購操作的預測。"
-    },
-    {
-      "id": "5085560",
-      "time": "2026-09-09 23:41:46",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國財政部宣佈長債回購上限60億美元 失望情緒籠罩市場】美國財政部宣佈，根據擴大後的國債回購計劃，財政部在首次操作中將購買最多60億美元長期政府債券。這一最高規模相當於財政部最初公佈的20億美元的三倍。為了遏制近期借貸利率急升，財政部8月19日意外宣佈調整債券回購計劃，把此類操作規模“至少提高一倍”。在財長貝森特公開談及回購規模可能超過40億美元后，部分交易商已上調對週四回購操作的預測。貝森特週二重申，雖然無法改變美國國債的“均衡”價格，但他的目標是減緩市場波動，防止某種可能對美債市場造成損害的敘事佔據上風。法國巴黎銀行的美國利率策略師Guneet Dhingra在公告發布前表示，回購上限達到70億美元才能給市場帶來驚喜，任何低於這一水平的規模都可能引發拋售壓力。"
     }
   ]
 }
