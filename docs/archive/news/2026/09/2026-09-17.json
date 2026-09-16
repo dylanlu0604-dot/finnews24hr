@@ -1,7 +1,88 @@
 {
   "date": "2026-09-17",
-  "count": 668,
+  "count": 676,
   "items": [
+    {
+      "id": "mkt:01a0ac5b-44f0-7118-85ca-e5f677462052",
+      "time": "2026-09-17 06:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran very much wants to reach an agreement."
+    },
+    {
+      "id": "mkt:01a0ac5b-2585-7118-85ca-db2d6a0905aa",
+      "time": "2026-09-17 06:34:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Security sources said a drone carrying explosives struck a camp of an Iranian Kurdish opposition group northwest of Sulaymaniyah in Iraq; no casualties were reported."
+    },
+    {
+      "id": "5098500",
+      "time": "2026-09-17 06:33:48",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月17日隔夜要聞一覽】\n1、時隔三年，美聯儲首次加息25基點，全員同意，主席沃什強調通脹“太高持續太久了”。\n2、白宮發言人：美聯儲加息決定“相當令人遺憾”。\n3、特朗普稱利率應為1%或更低，敦促降息，而且要快。\n4、外國再拋美債，中國減持之外比利時也降低倉位。\n5、蘋果考慮重返伺服器市場，已與英偉達洽談採用其網路互聯技術。\n6、亞馬遜將美國全職核心運營崗位最低時薪提升至20美元。\n7、國際油價16日顯著下跌，WTI原油期貨價格下跌3.40美元，收於每桶102.43美元，跌幅為3.21%；倫特原油期貨下跌2.92美元，收於每桶105.83美元，跌幅為2.69%。\n8、多家銀行向黑石集團與谷歌母公司Alphabet提供220億美元與晶片相關的貸款。\n9、美國眾議院獲得足夠票數透過法案，擬對俄羅斯實施新一輪 “大範圍” 制裁，並將現行對伊朗制裁延長 5 年。"
+    },
+    {
+      "id": "mkt:01a0ac5a-b5b9-7118-85ca-d22f04bb1b98",
+      "time": "2026-09-17 06:33:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said if the EU's designation of Canada as an observer is deemed hostile, the U.S. may impose high tariffs on Europe."
+    },
+    {
+      "id": "5098499",
+      "time": "2026-09-17 06:33:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：裝載爆炸物的無人機襲擊伊拉克蘇萊曼尼亞西北部伊朗庫爾德反對派武裝營地，暫無人員傷亡報告。"
+    },
+    {
+      "id": "5098498",
+      "time": "2026-09-17 06:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我們認為接納加拿大作為觀察員國屬於敵對行為，就可能對歐洲徵收高額關稅。"
+    },
+    {
+      "id": "5098497",
+      "time": "2026-09-17 06:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若歐洲採取惡意舉措，美國將徵收關稅。"
+    },
+    {
+      "id": "5098496",
+      "time": "2026-09-17 06:31:18",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 06:45 紐西蘭二季度GDP；\n② 時間待定 半導體與電子製造專業盛會Semicon India；\n③ 14:45 歐洲央行管委兼法國央行行長Moulin講話；\n④ 15:00 歐洲央行首席經濟學家Lane講話；\n⑤ 17:00 歐元區8月CPI終值；\n⑥ 18:00 歐洲央行管委Rehn講話；\n⑦ 19:00 英國央行公佈利率決議；\n⑧ 20:30 美國8月新屋開工、營建許可，9月12日當週首次申請失業救濟人數，\n⑨ 22:00 美國8月成屋簽約銷售指數。"
+    },
     {
       "id": "mkt:01a0ac57-acd8-7118-85ca-c8080a057d6a",
       "time": "2026-09-17 06:30:22",
