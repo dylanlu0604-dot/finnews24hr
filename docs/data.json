@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-16 14:04:20",
-  "count": 13447,
+  "updated": "2026-09-16 14:08:06",
+  "count": 13452,
   "items": [
+    {
+      "id": "mkt:01a0a8d3-f6e2-7118-85ad-e9320e9ecffb",
+      "time": "2026-09-16 14:07:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Taiwan stocks rebound for first time in five sessions as U.S. chip gains lift market】Taiwan's Taiex rebounded for the first time in five trading days, closing up 337.41 points (0.74%) at 45,848.90, led by semiconductor-related buying after gains in U.S. chip stocks. MediaTek and ASE Technology Holding, a packaging and testing firm, rose; server OEM Quanta Computer also advanced. Select financial and shipping names saw buying. Market heavyweight TSMC initially rallied but came under selling pressure and finished lower."
+    },
+    {
+      "id": "te:economy:584099",
+      "time": "2026-09-16 14:06:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "UK Core Inflation Holds at 2.6% for 4th Month — The UK's annual core inflation rate remained at 2.6% in August 2026, unchanged for the fourth consecutive month and staying at its highest level since March, in line with market expectations. Services inflation was steady at 3.4%, while goods inflation accelerated (2.7% vs 2.2% in July). On a monthly basis, core consumer prices rose 0.3%, up from a 0.2% increase in July."
+    },
+    {
+      "id": "mkt:01a0a8d3-5515-7118-85ad-e754d71f63cc",
+      "time": "2026-09-16 14:06:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Panasonic Energy will establish a new global lithium-ion battery R&D center in Japan to accelerate development and production of batteries for automotive and data center applications."
+    },
+    {
+      "id": "te:economy:584098",
+      "time": "2026-09-16 14:06:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "UK Inflation Accelerates to 3.1% — The UK’s annual inflation rate rose to 3.1% in August 2026, the highest level in five months, in line with market expectations and up from 2.9% in July. Transport costs, particularly motor fuels, made the largest upward contribution to the annual rate, with transport inflation rising to 4.6% from 3.6% in July. Petrol prices rose 9.1 pence per litre to 161.3 pence, while diesel prices increased 14.2 pence to 181.8 pence, pushing motor fuel inflation to 23.0% from 15.5%. Housing and household services inflation also increased to 4.9% from 4.6%, while food inflation was unchanged at 1.3%. Core CPI inflation held at 2.6%, with goods inflation rising to 2.7% from 2.2% and services inflation unchanged at 3.4%."
+    },
+    {
+      "id": "mkt:01a0a8d3-5255-7118-85ad-da84a4530937",
+      "time": "2026-09-16 14:06:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【TrendForce: Micro LED display and CPO modules could reach $5.308 bln by 2030】TrendForce projects weak consumer demand and AI capex crowding-out in 2026 will push Micro LED firms to reallocate toward commercially viable applications. In displays, vendors are pursuing modularization and supply‑chain integration to lower adoption barriers and target higher‑margin, interactive segments; non‑display moves include Micro LED CPO optical interconnects targeting AI infrastructure. TrendForce says Micro LED is expanding from traditional displays into smart wearables, smart cockpits, AR and AI compute infrastructure, and estimates combined output value for Micro LED display modules and Micro LED CPO modules could reach $5.308 bln by 2030."
+    },
+    {
+      "id": "te:economy:584097",
+      "time": "2026-09-16 14:06:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "UK Producer Inflation Hits 3-Month High — Factory gate prices for UK-manufactured goods increased 3.7% year-on-year in August 2026, accelerating from an upwardly revised 3.3% rise in July, which was the softest increase in four months, and surpassing expectations of 3.3% to mark the fastest increase in three months. Eight of the 10 product groups made upward contributions to the annual rate, led by a jump in prices of coke and refined petroleum products (49.1% vs. 35.4% in July) amid higher energy costs. On a monthly basis, factory gate prices rose 0.7%, after an upwardly revised 0.4% gain in July and above market forecasts of 0.3%."
+    },
+    {
+      "id": "mkt:01a0a8d2-e14d-7118-85ad-d5eb40047fcf",
+      "time": "2026-09-16 14:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Vice President Vance said Trump has shown a willingness to break with Netanyahu when he believes the interests of the American people diverge from those of the Israeli government."
+    },
+    {
+      "id": "5096669",
+      "time": "2026-09-16 14:05:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "松下能源：在日本設立新的全球鋰離子電池研發中心，以加速汽車和資料中心應用的開發與生產。"
+    },
+    {
+      "id": "mkt:01a0a8d1-a73a-7118-85ad-cc84d1150f2b",
+      "time": "2026-09-16 14:05:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Preview: Wosh press briefing — can he avoid repeating July’s communication misstep?】Markets will watch whether Wosh clarifies the vague, evasive answers that roiled markets in July; Natixis analysts expect him to frame any rate increase as necessary to return inflation to target. Inflation narrative will be pivotal: if Wosh treats energy and tariff-driven inflation as one-off supply shocks, markets may ease hawkish pricing; if he highlights second-round effects or inflation expectations, tightening risk will rise. His handling of political sensitivity matters — expect scrutiny of any response to Trump’s calls for rate cuts, emphasis on FOMC independence, and whether he stresses data-dependence or avoids naming the president. Watch for changes to his communication posture after a hawkish turn at Jackson Hole and a history of limited forward-rate commentary; renewed insistence on zero tolerance for inflation would lift rate repricing. With the 10y UST yield already above 5% (Sept. 14), traders will also look for comments on further sell-offs and on fiscal- or inflation-risk premia in bond markets."
+    },
+    {
+      "id": "5096668",
+      "time": "2026-09-16 14:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：位元組跳動分拆AI製藥部門ANEW LABS後，為其完成2.9億美元融資。"
+    },
+    {
+      "id": "mkt:01a0a8d1-46c4-7118-85ad-c71946d71353",
+      "time": "2026-09-16 14:04:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y"
+      ],
+      "text": "【Analysis: Limited dollar upside; oil price may be key variable for Fed policy】Market analyst Krishna Kumar says markets have largely priced in a 25 bps Fed hike and dollar upside is limited unless the Fed signals a more hawkish stance. The probability of a September hike has risen to 92%; markets even price three hikes before next March, but much of the recent rise in tightening odds stems from the oil-price spike. The Fed is likely to deliver the scheduled hike to defend anti-inflation credibility, but may avoid explicit forward guidance and is unlikely to validate markets' aggressive pricing of further hikes. Recent remarks from Waller and Williams likewise suggest that, amid high oil-price uncertainty, the Fed may be reluctant to commit to additional tightening. Meanwhile, hawkish shifts at other major central banks could cap dollar gains."
+    },
     {
       "id": "mkt:01a0a8d0-6b06-7118-85ad-b9c72f583ad5",
       "time": "2026-09-16 14:03:46",
@@ -123922,59 +124042,6 @@
         "其他"
       ],
       "text": "【德國四座儲氣庫冬季儲氣目標或將落空】德國經濟部稱，國內四座儲氣庫庫存水平過低，在供暖季到來前，已無法達成儲氣填充目標。除已申請退役的布賴特布倫與沃爾弗斯貝格外，弗蘭肯塔爾和因岑哈姆西儲氣庫也將無法完成指標。該部檔案日期為9月3日，綠黨議員米夏埃爾·凱爾納於週二晚間對外公開。德國經濟部表示，約四分之一儲氣設施已超額完成儲氣目標，沒有跡象表明即將發生供氣危機。該部門估算，德國上半年天然氣進口支出約150億歐元（摺合175億美元），同比增加4億歐元。"
-    },
-    {
-      "id": "5084299",
-      "time": "2026-09-09 14:06:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亮亮視野完成超3億元C+輪融資】近日，北京亮亮視野科技有限公司宣佈完成超3億元C+輪融資，本輪投資方包括北京資訊產業發展投資基金、北京市新材料產業投資基金及北京祥龍資產經營有限責任公司。"
-    },
-    {
-      "id": "5084298",
-      "time": "2026-09-09 14:06:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【春暉智控盤中疑似發生烏龍指】9月9日早盤，春暉智控高開，隨後震盪翻綠，盤中急劇下挫，一度觸及20%跌停，之後股價又拉昇。截至發稿，春暉智控下跌逾5%，換手率接近14%。從日線上看，該股留下一根長長的下引線；但從今日分時線來看，卻未見跌停。（證券時報）"
-    },
-    {
-      "id": "5084297",
-      "time": "2026-09-09 14:06:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美交通部長宣稱福特汽車與中國商業聯絡“威脅國家安全”，福特強烈駁斥】據美國福克斯新聞網等媒體報道，美國交通部長肖恩·達菲當地時間8日致信美國福特汽車公司執行長（CEO）吉姆·法利並向其發難，指責福特汽車公司對中國企業的依賴程度過高，宣稱福特與中國的商業聯絡對美國國家安全和製造業構成所謂“威脅”。對於達菲的說辭，福特公司予以強烈駁斥，直指其信函包含多處事實錯誤，是在“博眼球”。（環球網）"
-    },
-    {
-      "id": "5084296",
-      "time": "2026-09-09 14:06:04",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【安聯首席：美聯儲本月應繼續按兵不動，財政部行動當下影響更大】安聯首席經濟顧問、PIMCO前首席投資官穆罕默德•埃爾-埃利安（Mohamed El-Erian）最新表示，美聯儲本月應維持利率不變，而隨著石油和債券市場風險的增加，美國財政部政策對市場的影響可能比美聯儲更大。"
-    },
-    {
-      "id": "5084295",
-      "time": "2026-09-09 14:05:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【油價逼近“百元大關” 美銀看向150美元】“如果限制石油供應的小規模衝突持續到年底，布倫特原油的交易區間可能在每桶95至120美元。與此同時，如果爆發更廣泛的衝突並導致重大能源基礎設施受損，油價最高可能飆升至每桶150美元，”美國銀行分析師寫道。"
-    },
-    {
-      "id": "mkt:01a084c4-85c5-7118-84fe-8e94948d70ec",
-      "time": "2026-09-09 14:04:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY fell 0.50% intraday to 153.19."
     }
   ]
 }
