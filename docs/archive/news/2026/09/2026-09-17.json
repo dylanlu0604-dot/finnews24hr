@@ -1,7 +1,35 @@
 {
   "date": "2026-09-17",
-  "count": 702,
+  "count": 705,
   "items": [
+    {
+      "id": "5098519",
+      "time": "2026-09-17 06:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩隻熊貓債指數昨日釋出】據中債金融估值中心網站訊息，9月16日，為多角度反映人民幣債券市場的走勢，給投資者提供多元化的業績比較基準和投資標的，中債金融估值中心有限公司釋出中債-熊貓債綜合指數與中債-投資優選熊貓債指數。今年以來，熊貓債市場持續火熱。Wind資料顯示，截至9月16日，年內熊貓債發行規模達到2430.45億元，持續重新整理歷史紀錄，同比增長率也高達81.44%。（證券日報）"
+    },
+    {
+      "id": "5098518",
+      "time": "2026-09-17 06:57:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從數量擴張到質量篩選，併購重組市場新動向受關注】近期，包括焦作萬方、金橙子、普路通在內的多家上市公司對外發布終止重大資產重組相關公告，引發市場關注。以普路通為代表的部分公司釋出終止公告後，股價出現明顯回撥。從終止重大資產重組的原因看，外部市場環境發生變化、交易雙方關鍵核心條款未達成一致是近期重組終止的兩大主因，其中不乏披露籌劃重組意向後不久便宣佈終止交易的案例。受訪專家認為，併購重組終止不是“利空一刀切”，影響要分主體、分原因看。終止案例密集出現的背後，交易雙方對標的質量、估值作價與產業協同的審視明顯趨嚴，併購市場有望從數量擴張轉入更充分的價格博弈與質量篩選階段。（中證報）"
+    },
+    {
+      "id": "te:economy:584358",
+      "time": "2026-09-17 06:56:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q2 GDP Growth Beats Estimates — New Zealand’s economy grew 0.2% quarter-on-quarter in Q2 2026, slowing from an upwardly revised 0.9% expansion in Q1 but slightly above forecasts of 0.1%. GDP growth was mainly driven by goods-producing industries, which rose 1.3%, supported by wholesale trade (1.3%). Meanwhile, service industries grew 0.2%, led by higher output in public administration and safety (2.0%), information media and telecommunications (1.7%), and healthcare and social assistance (0.8%). In contrast, primary industries contracted 0.3%, weighed down by mining activities (-0.4%)."
+    },
     {
       "id": "5098517",
       "time": "2026-09-17 06:56:41",

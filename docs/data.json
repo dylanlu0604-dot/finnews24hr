@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-17 06:57:11",
-  "count": 13669,
+  "updated": "2026-09-17 07:01:46",
+  "count": 13662,
   "items": [
+    {
+      "id": "5098519",
+      "time": "2026-09-17 06:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩隻熊貓債指數昨日釋出】據中債金融估值中心網站訊息，9月16日，為多角度反映人民幣債券市場的走勢，給投資者提供多元化的業績比較基準和投資標的，中債金融估值中心有限公司釋出中債-熊貓債綜合指數與中債-投資優選熊貓債指數。今年以來，熊貓債市場持續火熱。Wind資料顯示，截至9月16日，年內熊貓債發行規模達到2430.45億元，持續重新整理歷史紀錄，同比增長率也高達81.44%。（證券日報）"
+    },
+    {
+      "id": "5098518",
+      "time": "2026-09-17 06:57:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從數量擴張到質量篩選，併購重組市場新動向受關注】近期，包括焦作萬方、金橙子、普路通在內的多家上市公司對外發布終止重大資產重組相關公告，引發市場關注。以普路通為代表的部分公司釋出終止公告後，股價出現明顯回撥。從終止重大資產重組的原因看，外部市場環境發生變化、交易雙方關鍵核心條款未達成一致是近期重組終止的兩大主因，其中不乏披露籌劃重組意向後不久便宣佈終止交易的案例。受訪專家認為，併購重組終止不是“利空一刀切”，影響要分主體、分原因看。終止案例密集出現的背後，交易雙方對標的質量、估值作價與產業協同的審視明顯趨嚴，併購市場有望從數量擴張轉入更充分的價格博弈與質量篩選階段。（中證報）"
+    },
+    {
+      "id": "te:economy:584358",
+      "time": "2026-09-17 06:56:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q2 GDP Growth Beats Estimates — New Zealand’s economy grew 0.2% quarter-on-quarter in Q2 2026, slowing from an upwardly revised 0.9% expansion in Q1 but slightly above forecasts of 0.1%. GDP growth was mainly driven by goods-producing industries, which rose 1.3%, supported by wholesale trade (1.3%). Meanwhile, service industries grew 0.2%, led by higher output in public administration and safety (2.0%), information media and telecommunications (1.7%), and healthcare and social assistance (0.8%). In contrast, primary industries contracted 0.3%, weighed down by mining activities (-0.4%)."
+    },
     {
       "id": "5098517",
       "time": "2026-09-17 06:56:41",
@@ -126069,96 +126097,6 @@
         "其他"
       ],
       "text": "塞內加爾能源部長稱將在路演中推出109個石油區塊。"
-    },
-    {
-      "id": "5085902",
-      "time": "2026-09-10 07:01:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普顧問告訴他，伊朗戰爭可能會持續到他任期結束。"
-    },
-    {
-      "id": "mkt:01a08867-5153-7118-8513-2751b08d243d",
-      "time": "2026-09-10 07:01:07",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK RICS three-month house price balance for August -28, vs -31 expected; prior balance revised to -29 from -30.00."
-    },
-    {
-      "id": "5085901",
-      "time": "2026-09-10 07:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國8月三個月RICS房價指數 -28，預期 -30，前值 -30。"
-    },
-    {
-      "id": "mkt:01a08867-34d4-7118-8513-1e963bed238b",
-      "time": "2026-09-10 07:01:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | RICS House Price Balance (Aug) | actual -28 | consensus -31 | previous -30.00"
-    },
-    {
-      "id": "5085900",
-      "time": "2026-09-10 07:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "調查顯示：日本三分之二企業支援首相高市早苗的經濟政策。"
-    },
-    {
-      "id": "5085899",
-      "time": "2026-09-10 07:00:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "調查顯示，46%的日本企業希望首相高市早苗在本屆任期結束後繼續留任，持反對意見的企業佔比為18%。"
-    },
-    {
-      "id": "5085898",
-      "time": "2026-09-10 07:00:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "調查顯示，近三分之一的日本企業希望美元兌日元匯率維持在150-159.99區間，四分之一的企業偏向美元兌日元匯率處於140-149.99區間。"
-    },
-    {
-      "id": "5085897",
-      "time": "2026-09-10 07:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第七批國家組織醫用耗材集採今天開標 共納入23個品種】第七批國家組織醫用耗材集中帶量採購將於今天（10日）在天津開標。本輪集採聚焦消化介入類醫用耗材，共納入23個品種，覆蓋胃腸息肉切除、膽胰介入治療相關耗材，採購週期約為3年。本輪集採堅持“穩臨床、保質量、反內卷、防圍標”的原則，最佳化採購規則，兼顧保障臨床多元需求與行業高質量發展。（央視新聞）"
-    },
-    {
-      "id": "te:markets:582517",
-      "time": "2026-09-10 06:59:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Tracks Wall Street Lower — New Zealand stocks fell 19 points, or 0.1%, to 13,800 in Thursday morning trade, after gaining in the previous session, tracking a downbeat session on Wall Street overnight following a surge in Treasury yields and rising oil prices. Oil continued to rise, raising concerns over inflation and boosting bets that central banks would raise interest rates. Traders also anticipated the release of US inflation data later this week for clues on the Fed's monetary policy decision at its upcoming meeting. Wednesday's data from China, New Zealand’s top trading partner, also pressured sentiment, as consumer and producer price pressures continued to rise amid higher oil prices. Consumer staples, financials, and materials mainly weighed on the index, with early losers including Briscoe Group (-0.9%), A2 Milk (-0.8%), Hallenstein Glasson (-0.8%), F&C Investment (-0.6%), Infratil (-0.6%), and Delegat Group (-0.4%)."
-    },
-    {
-      "id": "5085896",
-      "time": "2026-09-10 06:59:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗可能對繳獲的美國水下無人機進行逆向工程。"
     }
   ]
 }
