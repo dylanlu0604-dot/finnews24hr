@@ -1,7 +1,181 @@
 {
   "date": "2026-09-17",
-  "count": 352,
+  "count": 369,
   "items": [
+    {
+      "id": "mkt:01a0ab94-9234-7118-85c6-ea7de5e47db8",
+      "time": "2026-09-17 02:57:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kevin Warsh: judging policy restrictiveness not straightforward】Fed chair Kevin Warsh said determining how restrictive monetary policy is \"is not easy.\" He said he finds it hard to describe financial conditions as restrictive and that colleagues share that view, but added Wednesday's rate hike \"removed a dose of accommodation\" to bring financial and credit conditions more in line with the Fed's objectives."
+    },
+    {
+      "id": "5098293",
+      "time": "2026-09-17 02:56:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數繼續收漲，目前處於盤中低點。"
+    },
+    {
+      "id": "5098292",
+      "time": "2026-09-17 02:56:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌0.3%，納斯達克指數上漲0.1%。"
+    },
+    {
+      "id": "mkt:01a0ab93-ff1e-7118-85c6-e12a440c2b88",
+      "time": "2026-09-17 02:56:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said today’s action demonstrates the Fed is serious about controlling inflation."
+    },
+    {
+      "id": "5098291",
+      "time": "2026-09-17 02:56:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4300美元/盎司，日內跌0.76%。"
+    },
+    {
+      "id": "5098287",
+      "time": "2026-09-17 02:56:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：價格穩定是經濟增長的基礎。"
+    },
+    {
+      "id": "5098286",
+      "time": "2026-09-17 02:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI在Grok大模型中推出記憶功能，以實現對話會話連續性。"
+    },
+    {
+      "id": "mkt:01a0ab93-151b-7118-85c6-db5740af663c",
+      "time": "2026-09-17 02:55:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said global geopolitical hotspots are prompting companies to increase related investment activity."
+    },
+    {
+      "id": "5098285",
+      "time": "2026-09-17 02:55:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中新低，下跌0.3%。"
+    },
+    {
+      "id": "mkt:01a0ab92-9ca3-7118-85c6-d3fb534ba71c",
+      "time": "2026-09-17 02:55:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said three factors are driving higher bond yields: a strong economy; competition for capital — a genuine surge in capital spending; and geopolitical factors."
+    },
+    {
+      "id": "te:markets:584324",
+      "time": "2026-09-17 02:54:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Following Fed Hike — The Ibovespa edged lower to trade near the 186,000 mark on Wednesday following the US Fed’s monetary policy decision and ahead of the BCB’s. The Fed raised interest rates by 25 bps and a majority of FOMC members projected another hike this year. In contrast, the BCB is expected to announce a 25bps Selic cut after market close, marking the fifth consecutive reduction and the final Copom decision before the October presidential election. Financials were mixed, with private banks edging lower, while Banco do Brasil (+2.5%), BB Seguridade (+1.5%) and Caixa (+1%) posted gains. Petrobras weighed on the index, tumbling more than 2.5% as oil prices retreated amid reports that Saudi Arabia is offering additional crude cargoes via Oman. Miners also posted losses, with Vale and CSN Mineração down about 2%, while Usiminas fell more than 3%."
+    },
+    {
+      "id": "5098284",
+      "time": "2026-09-17 02:54:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：認為債券收益率上升有三個原因，首先是經濟實力；資本競爭是次要問題，資本支出激增是真實存在的；第三點是地緣政治。"
+    },
+    {
+      "id": "mkt:01a0ab91-f73a-7118-85c6-cdc07d132789",
+      "time": "2026-09-17 02:54:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the economy is strong."
+    },
+    {
+      "id": "mkt:01a0ab91-e275-7118-85c6-c33f559d95df",
+      "time": "2026-09-17 02:54:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh says there are three reasons bond yields have risen."
+    },
+    {
+      "id": "mkt:01a0ab91-bd66-7118-85c6-bc6d09015415",
+      "time": "2026-09-17 02:54:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported a Yemeni government army spokesman said its air force struck Houthi positions in the Mocha area and on the northern front."
+    },
+    {
+      "id": "5098283",
+      "time": "2026-09-17 02:53:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價繼續下跌，跌幅達4%。"
+    },
+    {
+      "id": "5098282",
+      "time": "2026-09-17 02:53:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛跌幅擴大至2%。"
+    },
     {
       "id": "mkt:01a0ab90-ffb0-7118-85c6-b432791088e8",
       "time": "2026-09-17 02:53:21",
