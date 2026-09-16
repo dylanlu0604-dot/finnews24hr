@@ -1,7 +1,93 @@
 {
   "date": "2026-09-16",
-  "count": 2383,
+  "count": 2392,
   "items": [
+    {
+      "id": "5097966",
+      "time": "2026-09-16 23:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼：我希望執政至本屆議會任期結束。"
+    },
+    {
+      "id": "5097965",
+      "time": "2026-09-16 23:59:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合航空長期目標瞄準10%以上利潤率。"
+    },
+    {
+      "id": "mkt:01a0aaf1-304c-7118-85c0-bf3860c19a3f",
+      "time": "2026-09-16 23:58:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italian Prime Minister Meloni said she will remain in office as long as she commands a stable majority."
+    },
+    {
+      "id": "5097964",
+      "time": "2026-09-16 23:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼：只要我仍擁有穩定多數席位，我就會繼續執政。"
+    },
+    {
+      "id": "5097963",
+      "time": "2026-09-16 23:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特管道數日之內或恢復一半運力】沙特正透過繞開上週遭無人機襲擊受損的管段，爭取在數日內將東西原油管道的運力恢復至約一半水平。沙特阿美目標是在約六週時間實現管道滿負荷恢復。該管道已成為霍爾木茲海峽航運受阻情況下的關鍵替代通道，因此即便只是部分重啟，也有望緩解供應擔憂；布倫特原油當前交投於107美元上方。"
+    },
+    {
+      "id": "mkt:01a0aaf0-3a0a-7118-85c0-b7c199bd5467",
+      "time": "2026-09-16 23:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine, US preparing Zelenskiy-Trump meeting, foreign ministry says】On the 16th (local time) a Ukrainian foreign ministry spokesman said Ukraine and the United States are preparing a meeting between President Volodymyr Zelenskiy and President Donald Trump. Teams from both countries are assessing the feasibility and agenda and aim to make the meeting as substantive as possible."
+    },
+    {
+      "id": "mkt:01a0aaef-aaa0-7118-85c0-a8c3b84ff6ff",
+      "time": "2026-09-16 23:57:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi aims to restore half of key cross-country oil pipeline capacity within days】A source said Saudi Arabia is seeking to restore roughly half of capacity on its cross-country oil pipeline within days after last week’s shutdown following a drone attack. State-owned ARAMCO is working to bypass damaged sections to resume partial flows and plans to restore full operations in about six weeks."
+    },
+    {
+      "id": "mkt:01a0aaef-4829-7118-85c0-a6e0ce13c2e4",
+      "time": "2026-09-16 23:56:43",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) shares hit an intraday high and are trading over 5% higher."
+    },
+    {
+      "id": "5097962",
+      "time": "2026-09-16 23:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏外交部：正籌備澤連斯基與特朗普會晤】當地時間16日，烏克蘭外交部發言人季希表示，烏克蘭和美國正在籌備烏總統澤連斯基與美總統特朗普的會晤。他表示，兩國團隊正在研究舉行總統會晤的可能性及會晤內容，希望使會晤“儘可能富有實質性”。（央視新聞）"
+    },
     {
       "id": "5097961",
       "time": "2026-09-16 23:54:46",
