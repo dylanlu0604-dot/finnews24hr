@@ -1,7 +1,216 @@
 {
   "date": "2026-09-17",
-  "count": 369,
+  "count": 390,
   "items": [
+    {
+      "id": "5098307",
+      "time": "2026-09-17 03:00:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提醒：美聯儲主席沃什新聞釋出會（較以往提前）結束。"
+    },
+    {
+      "id": "5098306",
+      "time": "2026-09-17 03:00:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們今天完成的工作以及未來將繼續開展的工作，就是確保價格穩定，從而讓可持續增長能夠繼續。我不認為我們必須損害勞動力市場才能實現目標。"
+    },
+    {
+      "id": "mkt:01a0ab97-76ff-7118-85c7-20cadc095737",
+      "time": "2026-09-17 03:00:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he does not believe the Fed needs to damage the labor market to achieve its objectives."
+    },
+    {
+      "id": "mkt:01a0ab97-466d-7118-85c7-1e2fe8e2c490",
+      "time": "2026-09-17 03:00:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said today's work and ongoing efforts are focused on ensuring price stability so that sustainable growth can continue."
+    },
+    {
+      "id": "5098305",
+      "time": "2026-09-17 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌1.16%，報24400.91點，低水312.87點。"
+    },
+    {
+      "id": "5098304",
+      "time": "2026-09-17 02:59:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌1.01%，現報51564.512點；納指跌0.05%，現報25968.875點；標普500指數跌0.41%，現報7554.790點。"
+    },
+    {
+      "id": "mkt:01a0ab96-bfba-7118-85c7-12cb8175d4d1",
+      "time": "2026-09-17 02:59:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH said he is monitoring developments in artificial intelligence and their potential effects on demand and supply."
+    },
+    {
+      "id": "5098303",
+      "time": "2026-09-17 02:59:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率上漲6個基點至年內高點4.73%。"
+    },
+    {
+      "id": "5098302",
+      "time": "2026-09-17 02:59:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：AI工作組應在年底前向我們提交報告。"
+    },
+    {
+      "id": "5098301",
+      "time": "2026-09-17 02:59:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率持續上行，10年期美國國債收益率轉漲，最新上漲0.6個基點，報5.002%。"
+    },
+    {
+      "id": "mkt:01a0ab96-2866-7118-85c7-09b221ca7b0b",
+      "time": "2026-09-17 02:58:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the working group should submit an AI report to the Fed by year-end."
+    },
+    {
+      "id": "5098300",
+      "time": "2026-09-17 02:58:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1289.50美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ab95-e111-7118-85c7-06aaf8f911f5",
+      "time": "2026-09-17 02:58:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said decisions on the risks and benefits of AI should be made by other policymakers."
+    },
+    {
+      "id": "mkt:01a0ab95-b500-7118-85c6-fa11de706f05",
+      "time": "2026-09-17 02:58:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell $100 from the day's high to trade below $4,260/oz, down 0.78% on the day."
+    },
+    {
+      "id": "5098299",
+      "time": "2026-09-17 02:58:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（在被問及人工智慧安全性問題時）我們非常關注人工智慧領域的發展動向，但風險與收益相關決策應由其他政策制定者做出。"
+    },
+    {
+      "id": "5098298",
+      "time": "2026-09-17 02:57:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨金轉跌，最新下跌0.6%，報每盎司4,266.29美元。"
+    },
+    {
+      "id": "5098297",
+      "time": "2026-09-17 02:57:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "5098296",
+      "time": "2026-09-17 02:57:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：今天的行動表明我們嚴肅對待遏制通脹。"
+    },
+    {
+      "id": "5098295",
+      "time": "2026-09-17 02:57:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4260美元/盎司，日內跌0.79%。"
+    },
+    {
+      "id": "mkt:01a0ab94-c3ea-7118-85c6-f36bd58f28cd",
+      "time": "2026-09-17 02:57:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed is closely monitoring developments in artificial intelligence."
+    },
+    {
+      "id": "5098294",
+      "time": "2026-09-17 02:57:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們非常關注AI領域正在發生的事。"
+    },
     {
       "id": "mkt:01a0ab94-9234-7118-85c6-ea7de5e47db8",
       "time": "2026-09-17 02:57:15",
