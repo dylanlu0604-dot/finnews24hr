@@ -1,7 +1,262 @@
 {
-  "updated": "2026-09-16 14:00:35",
-  "count": 13429,
+  "updated": "2026-09-16 14:04:20",
+  "count": 13447,
   "items": [
+    {
+      "id": "mkt:01a0a8d0-6b06-7118-85ad-b9c72f583ad5",
+      "time": "2026-09-16 14:03:46",
+      "tags": [
+        "MKT News",
+        "Market Themes"
+      ],
+      "text": "Sources: Following a spin-off, ByteDance has closed $290m in financing for its AI drug-discovery unit ANEW LABS."
+    },
+    {
+      "id": "5096667",
+      "time": "2026-09-16 14:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊16日發表宣告說，革命衛隊航空航天部隊當天凌晨在伊朗格什姆島上空擊落一架美軍MQ-9無人機。宣告還說，這是革命衛隊擊落的第52架美軍這種型號的無人機。（新華社）"
+    },
+    {
+      "id": "5096666",
+      "time": "2026-09-16 14:02:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率下降4.0個基點至4.170%。"
+    },
+    {
+      "id": "5096665",
+      "time": "2026-09-16 14:02:30",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "英鎊兌美元在英國CPI資料公佈後維持漲勢，漲0.1%至1.3491。"
+    },
+    {
+      "id": "5096664",
+      "time": "2026-09-16 14:02:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨<STXEc1>上漲0.32%，德國DAX指數期貨<FDXc1>上漲0.26%，富時指數期貨<FFIc1>上漲0.21%。"
+    },
+    {
+      "id": "mkt:01a0a8ce-b618-7118-85ad-b2b635248938",
+      "time": "2026-09-16 14:01:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European Stoxx 50 futures rose 0.32%, German DAX futures rose 0.26% and UK FTSE 100 futures rose 0.21%."
+    },
+    {
+      "id": "mkt:01a0a8ce-6c38-7118-85ad-afb6771b56de",
+      "time": "2026-09-16 14:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 40-year government bond yield fell 4 bps to 4.170%."
+    },
+    {
+      "id": "mkt:01a0a8cd-dc78-7118-85ad-a68916c0b227",
+      "time": "2026-09-16 14:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude 3.6 quake in Haixi, Qinghai】CENC located a magnitude-3.6 earthquake at 13:52 on Sept 16 in Haixi prefecture, Qinghai (37.80°N, 95.63°E); focal depth 10 km."
+    },
+    {
+      "id": "mkt:01a0a8cd-84f4-7118-85ad-9b0aa5b20b4b",
+      "time": "2026-09-16 14:00:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK August unadjusted output PPI YoY 3.7% (consensus 3.3%); prior reading revised to 3.3% from 3.10%."
+    },
+    {
+      "id": "mkt:01a0a8cd-7ad6-7118-85ad-904ae5eb15f6",
+      "time": "2026-09-16 14:00:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK August unadjusted input PPI MoM +0.3% (consensus +0.4%); previous reading revised from -1.70% to -0.8%."
+    },
+    {
+      "id": "mkt:01a0a8cd-7ad2-7118-85ad-8afa07eafec2",
+      "time": "2026-09-16 14:00:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK not seasonally adjusted input PPI YoY +6.1% in August vs +5.4% expected; July revised up to +5.8% from +4.9%."
+    },
+    {
+      "id": "mkt:01a0a8cd-7a75-7118-85ad-842d0d5c5b75",
+      "time": "2026-09-16 14:00:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK core output PPI (non-seasonally adjusted) rose 2.7% YoY in August; prior reading revised from 2.8% to 2.7%."
+    },
+    {
+      "id": "5096663",
+      "time": "2026-09-16 14:00:32",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國8月零售物價指數月率 0.6%，預期0.7%，前值0.60%。英國8月零售物價指數年率 3.4%，預期3.5%，前值3.20%。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202609163875964564",
+      "time": "2026-09-16 14:00:28",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國8月CPI同比增長3.1%，預期3.1%，前值2.9%。"
+    },
+    {
+      "id": "mkt:01a0a8cd-73ca-7118-85ad-7cdb9e4d2d8e",
+      "time": "2026-09-16 14:00:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Aug output PPI (unadjusted) MoM 0.7% vs 0.6% expected; July revised from 0.2% to 0.4%."
+    },
+    {
+      "id": "mkt:01a0a8cd-736c-7118-85ad-77ab2823989e",
+      "time": "2026-09-16 14:00:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK core retail price index (RPI) YoY 3.3% in August; prior 3.10%."
+    },
+    {
+      "id": "mkt:01a0a8cd-62f6-7118-85ad-6aa835ef738f",
+      "time": "2026-09-16 14:00:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK unadjusted core output PPI MoM (Aug) +0.3%; July revised to +0.5% from +0.6%."
+    },
+    {
+      "id": "mkt:01a0a8cd-5937-7118-85ad-65437861ddce",
+      "time": "2026-09-16 14:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK August retail price index (RPI) MoM +0.6% vs +0.7% expected; July +0.60%."
+    },
+    {
+      "id": "5096662",
+      "time": "2026-09-16 14:00:21",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國8月CPI月率 0.5%，預期0.5%，前值0.30%。英國8月核心CPI月率 0.3%，預期0.3%，前值0.2%。"
+    },
+    {
+      "id": "mkt:01a0a8cd-58d1-7118-85ad-5811830a8c4c",
+      "time": "2026-09-16 14:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK August CPI MoM 0.5% vs 0.5% expected; July 0.3%."
+    },
+    {
+      "id": "mkt:01a0a8cd-586b-7118-85ad-5502860a16e6",
+      "time": "2026-09-16 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK core CPI m/m (Aug) +0.3%, matching consensus 0.3%; prior +0.2%."
+    },
+    {
+      "id": "mkt:01a0a8cd-580a-7118-85ad-4fb27c6d9e3a",
+      "time": "2026-09-16 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK August CPI YoY 3.1% (expected 3.1%); prior 2.9%."
+    },
+    {
+      "id": "mkt:01a0a8cd-4743-7118-85ad-431159ff8e13",
+      "time": "2026-09-16 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK RPI YoY Aug 3.4% vs 3.5% expected; July 3.2%."
+    },
     {
       "id": "mkt:01a0a8cd-3a6b-7118-85ad-3fa42095775d",
       "time": "2026-09-16 14:00:14",
@@ -123720,53 +123975,6 @@
         "Impact bearish"
       ],
       "text": "USD/JPY fell 0.50% intraday to 153.19."
-    },
-    {
-      "id": "5084294",
-      "time": "2026-09-09 14:03:12",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【葉門胡塞武裝稱沙特對葉門多地發動32次空襲】葉門胡塞武裝方面當地時間9日釋出訊息稱，沙特戰機過去數小時內對葉門馬裡卜省、焦夫省和塔伊茲省多個地區發動32次空襲。宣告稱，相關空襲針對上述省份的多個地區。（央視新聞）"
-    },
-    {
-      "id": "5084293",
-      "time": "2026-09-09 14:02:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭海關：芬蘭7月貿易逆差為7.35億歐元。"
-    },
-    {
-      "id": "5084292",
-      "time": "2026-09-09 14:02:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元下跌0.5%至153.21。"
-    },
-    {
-      "id": "5084291",
-      "time": "2026-09-09 14:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬光股份、大洋電機等入股機器人租賃平臺擎天租】企查查APP顯示，近日，擎天租（上海）科技有限公司發生工商變更，新增滬光股份、大洋電機、藍思科技等多名股東，同時智元創新(上海)科技股份有限公司持股比例由52.25%降至36.38%。企查查資訊顯示，該公司成立於2025年，經營範圍包含：智慧機器人銷售；智慧機器人的研發；工業機器人銷售；機械裝置租賃等。公開資訊顯示，擎天租是一家機器人租賃服務平臺運營商。"
-    },
-    {
-      "id": "mkt:01a084c1-4b2c-7118-84fe-7d992256bb32",
-      "time": "2026-09-09 14:00:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equity futures slipped; Euro Stoxx 50 futures down 0.37%, DAX futures down 0.42%, FTSE 100 futures down 0.41%."
     }
   ]
 }
