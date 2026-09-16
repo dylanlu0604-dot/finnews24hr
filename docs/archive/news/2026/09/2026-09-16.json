@@ -1,7 +1,209 @@
 {
   "date": "2026-09-16",
-  "count": 1171,
+  "count": 1192,
   "items": [
+    {
+      "id": "mkt:01a0a8cd-3a6b-7118-85ad-3fa42095775d",
+      "time": "2026-09-16 14:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK core CPI YoY (Aug) 2.6%, in line with forecast 2.6% and unchanged from previous 2.6%."
+    },
+    {
+      "id": "mkt:01a0a8cd-11a9-7118-85ad-3302fe1ad3c0",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (MoM) (Aug) | actual 0.3% | previous 0.6%"
+    },
+    {
+      "id": "mkt:01a0a8cd-1119-7118-85ad-2fbfb6feb966",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (YoY) (Aug) | actual 2.7% | previous 2.8%"
+    },
+    {
+      "id": "mkt:01a0a8cd-1119-7118-85ad-21b9cc82fd52",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (MoM) (Aug) | actual 0.7% | consensus 0.6% | previous 0.20%"
+    },
+    {
+      "id": "mkt:01a0a8cd-1118-7118-85ad-1de847dc4516",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (YoY) (Aug) | actual 3.7% | consensus 3.3% | previous 3.10%"
+    },
+    {
+      "id": "mkt:01a0a8cd-0fbc-7118-85ad-17dc0ddd2b82",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (YoY) (Aug) | actual 6.1% | consensus 5.4% | previous 4.90%"
+    },
+    {
+      "id": "mkt:01a0a8cd-0f35-7118-85ad-0e656a31aaa8",
+      "time": "2026-09-16 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (MoM) (Aug) | actual 0.3% | consensus 0.4% | previous -1.70%"
+    },
+    {
+      "id": "mkt:01a0a8cd-0102-7118-85ad-04569cde0635",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Price Index (YoY) (Aug) | actual 3.3% | previous 3.10%"
+    },
+    {
+      "id": "mkt:01a0a8cd-00f6-7118-85ac-f8b516a92183",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (MoM) (Aug) | actual 0.6% | consensus 0.7% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a0a8cd-00f0-7118-85ac-f1efd6e31df4",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (YoY) (Aug) | actual 3.4% | consensus 3.5% | previous 3.20%"
+    },
+    {
+      "id": "mkt:01a0a8cd-00e5-7118-85ac-ee3bd7ee5ace",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (MoM) (Aug) | actual 0.3% | consensus 0.3% | previous 0.2%"
+    },
+    {
+      "id": "mkt:01a0a8cd-00bd-7118-85ac-e3fc2cc8cef6",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (MoM) (Aug) | actual 0.5% | consensus 0.5% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a0a8cd-0089-7118-85ac-dc48c85af8af",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (YoY) (Aug) | actual 2.6% | consensus 2.6% | previous 2.60%"
+    },
+    {
+      "id": "mkt:01a0a8cd-0072-7118-85ac-d7311ffe388c",
+      "time": "2026-09-16 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (YoY) (Aug) | actual 3.1% | consensus 3.1% | previous 2.90%"
+    },
+    {
+      "id": "mkt:01a0a8cc-f265-7118-85ac-cea1d9d3c0dd",
+      "time": "2026-09-16 13:59:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister condemned an attempt to attack Mecca, affirmed Pakistan's firm solidarity with Saudi Arabia and praised the Saudi armed forces' vigilance."
+    },
+    {
+      "id": "5096661",
+      "time": "2026-09-16 13:59:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2030年Micro LED顯示應用模組與Micro LED CPO模組總產值可達53.08億美元】據TrendForce集邦諮詢訊息，2026年Micro LED產業在消費市場需求低迷與AI資本支出排擠效應下，企業資源轉向具明確商業化潛力的應用。顯示應用方面，除了儘可能透過模組化與供應鏈整合降低匯入門檻，也朝向高度互動與高附加價值領域發展；在非顯示應用上，Micro LED進一步跨足CPO光互連領域，試圖在AI的基礎建設中佔據一席之地。整體而言，Micro LED正逐漸擺脫傳統顯示技術的單一框架，朝向串聯智慧穿戴、智慧座艙、AR與AI算力基礎建設的跨領域技術發展，透過逐步滲透的方式，持續擴大市場動能，預估2030年Micro LED顯示應用模組與Micro LED CPO模組總產值可達53.08億美元。"
+    },
+    {
+      "id": "5096660",
+      "time": "2026-09-16 13:59:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2015億元。"
+    },
+    {
+      "id": "mkt:01a0a8cb-cf5e-7118-85ac-c393a40d5297",
+      "time": "2026-09-16 13:58:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed hikes now base case; December move priced, market eyes dot plot】Rate hikes have become the Federal Reserve’s baseline and may extend beyond a single move. As of Sep 15, Kalshi prices a 25bp Fed hike at 87% vs ~30% on Aug 27. Forward rates and Kalshi traders are also pricing a further hike in December. Tonight the Fed will release its rate statement and the SEP with the dot plot; markets will watch whether the dot plot converges with current pricing. A recent Fed speaker signaled a preference to say less rather than more, so the press conference may offer limited guidance; investors will lean on the dot plot and the number of dissenting votes to infer the policy path."
+    },
+    {
+      "id": "5096659",
+      "time": "2026-09-16 13:57:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加拿大投資峰會攬近5000億加元投資 加總理推稅收激勵】首屆“加拿大投資峰會”15日在加拿大第一大城市多倫多閉幕。投資機構與企業在峰會期間共達成近5000億加元（1美元約合1.39加元）新增投資與融資承諾。加拿大總理卡尼當天宣佈推出稅收激勵政策。據總理辦公室公佈的峰會成果，加拿大各大商業銀行承諾為加拿大企業和基礎設施提供近3250億加元的新融資。加拿大本土頂尖養老基金、保險公司及機構投資者承諾向本國資產注入近1000億加元新資本。其中，加拿大養老金計劃投資委員會和博楓資產管理公司推出500億加元的楓樹基金，用於投資加拿大各地的關鍵基礎設施和戰略產業。"
+    },
+    {
+      "id": "5096658",
+      "time": "2026-09-16 13:57:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【於東來：胖東來員工如果發生家暴行為，公司法務部門必須介入】9月16日，胖東來創始人於東來發文稱，分享一些胖東來的制度。家庭暴力方面胖東來員工如果發生家暴行為、包括對孩子的家暴行為，公司制度要求公司法務部門必須介入，嚴格按照法律程式處理，並及時跟蹤，不允許輕易調節處理，避免人們習慣性認為的小問題演變成嚴重的傷害個人傷害社會的後果。"
+    },
+    {
+      "id": "5096657",
+      "time": "2026-09-16 13:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮德萊恩擬呼籲設立歐洲安全理事會】歐洲聯盟委員會主席馮德萊恩定於當地時間16日在歐洲議會發表年度“盟情諮文”。訊息稱，馮德萊恩將提議對歐洲安全架構進行徹底改革，呼籲設立歐洲安全理事會。馮德萊恩講話稿顯示，歐洲安全理事會將由歐方領導人以及烏克蘭、英國、挪威、加拿大等非歐盟國家領導人組成。馮德萊恩還將呼籲參照北大西洋公約第四條，為歐洲制定一份新的“安全議定書”。該條款允許北約成員國在認為自身安全或領土完整受到威脅時請求所有成員國舉行磋商。"
+    },
     {
       "id": "5096656",
       "time": "2026-09-16 13:56:02",
