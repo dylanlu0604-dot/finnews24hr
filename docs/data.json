@@ -1,7 +1,217 @@
 {
-  "updated": "2026-09-16 22:58:03",
-  "count": 13332,
+  "updated": "2026-09-16 23:02:01",
+  "count": 13344,
   "items": [
+    {
+      "id": "mkt:01a0aabc-5ca4-7118-85bf-096afabe8585",
+      "time": "2026-09-16 23:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the election result will be a response to those seeking to weaken Russia and strip it of its sovereignty. He said the vote will show millions of Russians back the Russian military and signal that Russian society is united and cannot be divided or intimidated."
+    },
+    {
+      "id": "mkt:01a0aabc-4f6a-7118-85bf-01f5f577ccb4",
+      "time": "2026-09-16 23:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $102/bbl, down 2.81% intraday."
+    },
+    {
+      "id": "mkt:01a0aabc-2cfb-7118-85be-faa7ca612d4c",
+      "time": "2026-09-16 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "At the close (23:00), most-active onshore Chinese futures contracts were mixed: fuel oil down about 2%; styrene (EB), low-sulfur fuel oil (LU), benzene and pulp down over 1%. On the upside, rapeseed meal rose about 2%; coking coal and synthetic rubber climbed over 1%; coke, methanol and soybean meal were up around 1%."
+    },
+    {
+      "id": "mkt:01a0aabc-2b0f-7118-85be-f402b86e8855",
+      "time": "2026-09-16 23:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin urged Russians to vote."
+    },
+    {
+      "id": "te:markets:584273",
+      "time": "2026-09-16 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Drops by 0.40% — Top currency losers are Polish Zloty (-0.40%), South Korean Won (-0.34%) and British Pound (-0.18%). Gains are led by Dollar Index (0.06%). Meanwhile, Euro and Japanese Yen were little changed."
+    },
+    {
+      "id": "mkt:01a0aabb-80d3-7118-85be-e9ad2ae5c36d",
+      "time": "2026-09-16 23:00:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Venezuela to ship about 15,000 tonnes of Venalum aluminium to US; departure expected Friday】Venezuela is preparing to export about 15,000 tonnes of aluminium to the United States under agreements with Mocorí Energy Group and private miner Heeney Capital, according to foreign media and sources. The cargo, produced by state-owned Venalum, would be the first shipment to the US in years and is scheduled to depart Venezuela on Friday. The move is part of Caracas’s push to diversify its economy away from oil as commercial ties with the US rapidly normalize. US officials may announce the shipment this week during the G20 energy summit in Houston."
+    },
+    {
+      "id": "mkt:01a0aabb-7ce9-7118-85be-e1d112fd23ff",
+      "time": "2026-09-16 23:00:08",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish"
+      ],
+      "text": "American Airlines (AAL.O) CEO expects premium-seat capacity to rise 50% by the end of this decade."
+    },
+    {
+      "id": "5097880",
+      "time": "2026-09-16 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌1.96%，低硫燃料油連續跌1.37%，菜粕連續漲1.31%，紙漿連續跌1.24%，焦煤連續漲1.09%。"
+    },
+    {
+      "id": "5097879",
+      "time": "2026-09-16 22:59:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報105.45美元/桶。"
+    },
+    {
+      "id": "mkt:01a0aaba-f6c7-7118-85be-d9bd8e0ef5c7",
+      "time": "2026-09-16 22:59:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude slid below $98/bbl, down about 3% intraday. Brent crude fell 2.5% to $102.31/bbl."
+    },
+    {
+      "id": "mkt:01a0aaba-c70a-7118-85be-d710c73e5935",
+      "time": "2026-09-16 22:59:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Courier sector completes first L4 new-energy heavy‑truck road test in Yangtze River Delta】Shenxiang Technology and STO Express completed the courier industry's first Level‑4 new‑energy heavy‑truck road test on public roads in the Yangtze River Delta. Departing from closed-track trials, the trailing vehicle operated with no human intervention and independently executed intelligent dispatch and full‑scenario autonomous navigation."
+    },
+    {
+      "id": "5097878",
+      "time": "2026-09-16 22:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空預計高階座椅數量到2029年底將增長50%。"
+    },
+    {
+      "id": "mkt:01a0aaba-7a88-7118-85be-caf5e165764d",
+      "time": "2026-09-16 22:59:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Most-active fuel oil contract fell 2.00% intraday to 4,402.00 yuan/ton."
+    },
+    {
+      "id": "5097877",
+      "time": "2026-09-16 22:58:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌3%，現報97.72美元/桶。"
+    },
+    {
+      "id": "5097876",
+      "time": "2026-09-16 22:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據港交所檔案：彤程新材料集團股份有限公司透過港交所上市聆訊】據港交所檔案：彤程新材料集團股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:01a0aaba-37fa-7118-85be-c12b5ff31610",
+      "time": "2026-09-16 22:58:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines (AAL.O) CEO said high jet fuel prices will require adjustments to capacity."
+    },
+    {
+      "id": "5097875",
+      "time": "2026-09-16 22:58:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報4402.00元。"
+    },
+    {
+      "id": "5097874",
+      "time": "2026-09-16 22:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞 7 月零售額同比增長 5.3%；預計+9.8%。"
+    },
+    {
+      "id": "5097873",
+      "time": "2026-09-16 22:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南非對美國以“種族歧視”為由實施簽證限制表示關切】南非國際關係與合作部16日釋出宣告，對美國日前宣佈針對南非有關人員實施新的簽證限制措施表示關切，稱美方曲解南非國內政策。南非國際關係與合作部長羅納德·拉莫拉在宣告中說，美方有關舉措再次迎合了特定團體對南非國內政策的錯誤描述，這些團體錯誤地將自身描繪成南非“少數群體”和阿非利卡人的代表。他說，作為主權國家，南非有權制定法律解決幾百年來種族不公造成的問題。（新華社）"
+    },
+    {
+      "id": "5097872",
+      "time": "2026-09-16 22:57:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示，如果燃油價格持續維持在當前高位，公司將需要對運力規劃做出相應調整。"
+    },
+    {
+      "id": "5097871",
+      "time": "2026-09-16 22:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空稱高油價將需要運力調整。"
+    },
+    {
+      "id": "5097870",
+      "time": "2026-09-16 22:57:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守106美元/桶，日內跌2.56%。"
+    },
     {
       "id": "5097869",
       "time": "2026-09-16 22:56:26",
@@ -122729,103 +122939,6 @@
         "XAUUSD"
       ],
       "text": "【US Treasury sets long-term buyback size】The US Treasury will repurchase up to $6 bln of long-term Treasuries on Thursday. The Treasury had previously said single long-term buybacks would be at least doubled to $4 bln until Nov. 4."
-    },
-    {
-      "id": "5085526",
-      "time": "2026-09-09 23:01:53",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部將於週四回購至多60億美元的較長期債券。"
-    },
-    {
-      "id": "mkt:01a086af-c7eb-7118-850a-c953247868b1",
-      "time": "2026-09-09 23:01:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the 23:00 close, China's domestic futures main contracts were mixed. Styrene (EB) and benzene rose over 5%; fuel oil and propylene gained over 4%; ethylene glycol (EG) climbed over 3%; polypropylene (monthly average) and asphalt advanced near 3%. On the downside, coke fell more than 2%; coking coal dropped nearly 2%; glass, rapeseed oil and palm oil declined over 1%."
-    },
-    {
-      "id": "mkt:01a086af-c6a5-7118-850a-c1fdeb0ad019",
-      "time": "2026-09-09 23:01:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK 5-year gilt yield rose to 4.7861%, its highest since September 2023, up 10 bps intraday."
-    },
-    {
-      "id": "te:markets:582466",
-      "time": "2026-09-09 23:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Rises by 0.50% — Top currency gainers are Japanese Yen (0.50%), Norwegian Krone (0.41%), Euro (0.20%) and British Pound (0.16%). Biggest losers are Brazilian Real (-0.31%) and Dollar Index (-0.14%)."
-    },
-    {
-      "id": "5085525",
-      "time": "2026-09-09 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】苯乙烯連續漲5.55%，燃料油連續漲4.70%，乙二醇連續漲3.72%，瀝青連續漲2.99%，甲醇連續漲2.70%，短纖連續漲2.65%，聚丙烯連續漲2.53%，低硫燃料油連續漲2.30%。"
-    },
-    {
-      "id": "5085524",
-      "time": "2026-09-09 22:59:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【野村稱單一大型投資者斥資逾3億美元買入AI相關看漲期權】野村證券資料顯示，一位大型投資者近日花費至少3.15億美元期權溢價，集中買入多隻人工智慧（AI）相關資產的看漲期權。該買家在9月4日和9月8日大量買入AMD、Bloom Energy、Coreweave、SK海力士、Roundhill Memory ETF、英特爾及SNDK的看漲期權。野村證券指出，這些頭寸均在靈活市場（Block Trade）中進行，例如9月4日買入2.2萬份2027年1月到期、行權價為105.01美元的英特爾看漲期權，並於9月8日追加買入1.5萬份行權價為115.01美元的同類合約。背景方面，今年7月下旬，因面臨追加保證金要求，曾被稱為“AI先知”的對沖基金Situational Awareness曾被迫拋售包括Bloom Energy和英特爾在內的部分股票持倉。"
-    },
-    {
-      "id": "mkt:01a086ae-91a8-7118-850a-b93ff39103da",
-      "time": "2026-09-09 22:59:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Loopholes in UK ban on imports from Israeli West Bank settlements】The UK will ban imports of goods produced in Israeli settlements in the occupied West Bank and create new powers to sanction individuals and firms that \"support, assist or profit from\" settlement activity. Practical enforcement gaps, however, limit near-term market impact. UK and Israel have a free trade agreement with bilateral trade of roughly £6 billion a year by 2025; official data show UK imports recorded from Palestine over the past four quarters totaled only about £6 million—equivalent to roughly 0.1% of projected UK‑Israel trade even if all were settlement goods. Origin identification is a key problem: settlement products are often incorporated into Israeli supply chains and exported as Israeli goods; one investigation found about one-sixth of Israeli fresh produce bound for Europe contains settlement-origin items. The UK requires importers seeking tariff preferences to declare code Y864 and give an origin postcode, but false declarations are difficult for customs to trace. The sanctions phraseology also leaves open questions for public contracting: an Al Jazeera review found roughly £2.1 billion of UK public-sector contracts awarded to 17 firms linked to settlements, with Motorola Solutions–related entities accounting for more than £1.7 billion, mostly via UK subsidiary Airwave Solutions. The government has not clarified whether designated firms would face contract termination or restructuring."
-    },
-    {
-      "id": "5085523",
-      "time": "2026-09-09 22:59:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽伯勒斯資本擬以 16 億美元出售 Tenet 股權。"
-    },
-    {
-      "id": "5085522",
-      "time": "2026-09-09 22:58:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美團亮相服貿會：展示多項人工智慧和國際化業務進展】2026年中國國際服務貿易交易會在北京首鋼園開幕，美團集中展示新一代萬億引數大模型LongCat-2.0、AI經營工作臺CatPaw，以及“智慧掌櫃”“袋鼠管家”“小團”等多項AI應用，呈現AI技術如何走進商家經營和消費場景。目前，“智慧掌櫃”已服務全國超過130萬家餐飲商家，“小團”累計響應超過7億次使用者需求。"
-    },
-    {
-      "id": "mkt:01a086ad-0deb-7118-850a-b649ee46cbfb",
-      "time": "2026-09-09 22:58:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Key EU lawmakers on carbon reform are considering more gradual emissions-reduction measures."
     }
   ]
 }

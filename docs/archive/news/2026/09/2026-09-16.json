@@ -1,7 +1,217 @@
 {
   "date": "2026-09-16",
-  "count": 2226,
+  "count": 2248,
   "items": [
+    {
+      "id": "mkt:01a0aabc-5ca4-7118-85bf-096afabe8585",
+      "time": "2026-09-16 23:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the election result will be a response to those seeking to weaken Russia and strip it of its sovereignty. He said the vote will show millions of Russians back the Russian military and signal that Russian society is united and cannot be divided or intimidated."
+    },
+    {
+      "id": "mkt:01a0aabc-4f6a-7118-85bf-01f5f577ccb4",
+      "time": "2026-09-16 23:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $102/bbl, down 2.81% intraday."
+    },
+    {
+      "id": "mkt:01a0aabc-2cfb-7118-85be-faa7ca612d4c",
+      "time": "2026-09-16 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "At the close (23:00), most-active onshore Chinese futures contracts were mixed: fuel oil down about 2%; styrene (EB), low-sulfur fuel oil (LU), benzene and pulp down over 1%. On the upside, rapeseed meal rose about 2%; coking coal and synthetic rubber climbed over 1%; coke, methanol and soybean meal were up around 1%."
+    },
+    {
+      "id": "mkt:01a0aabc-2b0f-7118-85be-f402b86e8855",
+      "time": "2026-09-16 23:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin urged Russians to vote."
+    },
+    {
+      "id": "te:markets:584273",
+      "time": "2026-09-16 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Drops by 0.40% — Top currency losers are Polish Zloty (-0.40%), South Korean Won (-0.34%) and British Pound (-0.18%). Gains are led by Dollar Index (0.06%). Meanwhile, Euro and Japanese Yen were little changed."
+    },
+    {
+      "id": "mkt:01a0aabb-80d3-7118-85be-e9ad2ae5c36d",
+      "time": "2026-09-16 23:00:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Venezuela to ship about 15,000 tonnes of Venalum aluminium to US; departure expected Friday】Venezuela is preparing to export about 15,000 tonnes of aluminium to the United States under agreements with Mocorí Energy Group and private miner Heeney Capital, according to foreign media and sources. The cargo, produced by state-owned Venalum, would be the first shipment to the US in years and is scheduled to depart Venezuela on Friday. The move is part of Caracas’s push to diversify its economy away from oil as commercial ties with the US rapidly normalize. US officials may announce the shipment this week during the G20 energy summit in Houston."
+    },
+    {
+      "id": "mkt:01a0aabb-7ce9-7118-85be-e1d112fd23ff",
+      "time": "2026-09-16 23:00:08",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish"
+      ],
+      "text": "American Airlines (AAL.O) CEO expects premium-seat capacity to rise 50% by the end of this decade."
+    },
+    {
+      "id": "5097880",
+      "time": "2026-09-16 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌1.96%，低硫燃料油連續跌1.37%，菜粕連續漲1.31%，紙漿連續跌1.24%，焦煤連續漲1.09%。"
+    },
+    {
+      "id": "5097879",
+      "time": "2026-09-16 22:59:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報105.45美元/桶。"
+    },
+    {
+      "id": "mkt:01a0aaba-f6c7-7118-85be-d9bd8e0ef5c7",
+      "time": "2026-09-16 22:59:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude slid below $98/bbl, down about 3% intraday. Brent crude fell 2.5% to $102.31/bbl."
+    },
+    {
+      "id": "mkt:01a0aaba-c70a-7118-85be-d710c73e5935",
+      "time": "2026-09-16 22:59:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Courier sector completes first L4 new-energy heavy‑truck road test in Yangtze River Delta】Shenxiang Technology and STO Express completed the courier industry's first Level‑4 new‑energy heavy‑truck road test on public roads in the Yangtze River Delta. Departing from closed-track trials, the trailing vehicle operated with no human intervention and independently executed intelligent dispatch and full‑scenario autonomous navigation."
+    },
+    {
+      "id": "5097878",
+      "time": "2026-09-16 22:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空預計高階座椅數量到2029年底將增長50%。"
+    },
+    {
+      "id": "mkt:01a0aaba-7a88-7118-85be-caf5e165764d",
+      "time": "2026-09-16 22:59:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Most-active fuel oil contract fell 2.00% intraday to 4,402.00 yuan/ton."
+    },
+    {
+      "id": "5097877",
+      "time": "2026-09-16 22:58:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌3%，現報97.72美元/桶。"
+    },
+    {
+      "id": "5097876",
+      "time": "2026-09-16 22:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據港交所檔案：彤程新材料集團股份有限公司透過港交所上市聆訊】據港交所檔案：彤程新材料集團股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:01a0aaba-37fa-7118-85be-c12b5ff31610",
+      "time": "2026-09-16 22:58:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines (AAL.O) CEO said high jet fuel prices will require adjustments to capacity."
+    },
+    {
+      "id": "5097875",
+      "time": "2026-09-16 22:58:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報4402.00元。"
+    },
+    {
+      "id": "5097874",
+      "time": "2026-09-16 22:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞 7 月零售額同比增長 5.3%；預計+9.8%。"
+    },
+    {
+      "id": "5097873",
+      "time": "2026-09-16 22:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南非對美國以“種族歧視”為由實施簽證限制表示關切】南非國際關係與合作部16日釋出宣告，對美國日前宣佈針對南非有關人員實施新的簽證限制措施表示關切，稱美方曲解南非國內政策。南非國際關係與合作部長羅納德·拉莫拉在宣告中說，美方有關舉措再次迎合了特定團體對南非國內政策的錯誤描述，這些團體錯誤地將自身描繪成南非“少數群體”和阿非利卡人的代表。他說，作為主權國家，南非有權制定法律解決幾百年來種族不公造成的問題。（新華社）"
+    },
+    {
+      "id": "5097872",
+      "time": "2026-09-16 22:57:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示，如果燃油價格持續維持在當前高位，公司將需要對運力規劃做出相應調整。"
+    },
+    {
+      "id": "5097871",
+      "time": "2026-09-16 22:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空稱高油價將需要運力調整。"
+    },
+    {
+      "id": "5097870",
+      "time": "2026-09-16 22:57:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守106美元/桶，日內跌2.56%。"
+    },
     {
       "id": "5097869",
       "time": "2026-09-16 22:56:26",
