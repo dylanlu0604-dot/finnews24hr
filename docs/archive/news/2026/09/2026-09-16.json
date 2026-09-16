@@ -1,7 +1,105 @@
 {
   "date": "2026-09-16",
-  "count": 747,
+  "count": 759,
   "items": [
+    {
+      "id": "5096337",
+      "time": "2026-09-16 09:54:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報6630.00元。"
+    },
+    {
+      "id": "5096336",
+      "time": "2026-09-16 09:53:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "半導體晶片股震盪走強，盈方微直線漲停，中晶科技此前2連板，晶豐明源漲超10%，安凱微、偉測科技、宏微科技、先導基電漲幅居前。"
+    },
+    {
+      "id": "mkt:01a0a7eb-ac74-7118-85a8-1e3c5c3eaebb",
+      "time": "2026-09-16 09:53:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Prime Minister Sanae Takaichi will reshuffle her cabinet on Thursday."
+    },
+    {
+      "id": "5096335",
+      "time": "2026-09-16 09:53:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金竟科技完成3億元B輪融資】近日，高階科學儀器平臺型企業金竟科技完成3億元人民幣B輪融資。本輪由老股東康裕資本攜涪江資本戰投領投，傳化集團、中信金石、項光隆先生共同投資。據金竟科技介紹，本輪融資將主要用於三大核心方向建設：一是電子束曝光機及電子顯微鏡規模化生產線建設，全面提升產能與交付能力；二是全國區域營銷與服務中心佈局，構建覆蓋科研、產業的立體化服務網路；三是核心技術團隊擴充與下一代產品研發，持續鞏固在微納加工和電子光學領域的技術壁壘。"
+    },
+    {
+      "id": "te:economy:584041",
+      "time": "2026-09-16 09:53:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Stays Subdued — The Westpac–Melbourne Institute Leading Economic Index was flat month-on-month in August, unchanged from the previous month. Meanwhile, its six-month annualised growth rate improved to -0.09% from -0.17% in July. Momentum remained soft but has strengthened since mid-year, with the index now only marginally below trend heading into late 2026 and early 2027. Q2 GDP growth showed the Australian economy holding up better than expected despite a global energy shock and higher interest rates. Activity appears to be stabilising at a slow pace rather than stalling, supported by resilient households and a strong ramp-up in data-centre investment. Westpac expects the RBA to raise rates again but, on balance, to wait for the next comprehensive quarterly inflation update on October 28. As a result, the September meeting is likely to deliver a “very hawkish hold.”"
+    },
+    {
+      "id": "5096334",
+      "time": "2026-09-16 09:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Instinct據悉正洽談融資10 億美元，估值或達100億美元。"
+    },
+    {
+      "id": "mkt:01a0a7ea-486a-7118-85a8-151afdd3270f",
+      "time": "2026-09-16 09:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's ex-president Yoon acquitted on appeal in perjury case】Yonhap reports former South Korean president Yoon Suk-yeol was acquitted on appeal on the 16th of a perjury charge alleging he gave false testimony during proceedings involving former prime minister Han Duck-soo in a sedition-related trial."
+    },
+    {
+      "id": "mkt:01a0a7ea-3b3b-7118-85a8-0d20495ee1fc",
+      "time": "2026-09-16 09:52:20",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【13th Beijing Xiangshan Forum opens】The 13th Beijing Xiangshan Forum opened on the 16th at the Beijing International Conference Center. China's defense minister Dong Jun attended and delivered the keynote. The forum, themed “Consolidating consensus for stability and promoting security governance,” is hosting about 2,000 participants from more than 100 countries, regions and international organisations, including officials, experts and observers."
+    },
+    {
+      "id": "mkt:01a0a7ea-1b20-7118-85a8-00313cd7776e",
+      "time": "2026-09-16 09:52:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Jan-Aug new home sales area 6.688 mln sq m, +1.6% YoY】Beijing Municipal Bureau of Statistics data: Jan-Aug sales area of newly built commercial housing 6.688 mln sq m, up 1.6% YoY. Residential sales 4.895 mln sq m, +12.5% YoY; office space 0.323 mln sq m, -26.3% YoY; commercial/business premises 0.432 mln sq m, +18.4% YoY."
+    },
+    {
+      "id": "5096333",
+      "time": "2026-09-16 09:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：內閣將於週四改組。"
+    },
+    {
+      "id": "5096332",
+      "time": "2026-09-16 09:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【尹錫悅涉嫌作偽證案二審被判無罪】據韓聯社訊息，韓國前總統尹錫悅涉嫌在前國務總理韓德洙涉內亂案件庭審中作偽證一案16日二審被判無罪。（新華社）"
+    },
     {
       "id": "5096331",
       "time": "2026-09-16 09:50:43",
@@ -139,6 +237,15 @@
         "國際"
       ],
       "text": "日本製鐵：將在斯洛伐克生產基地新建電弧爐與空分裝置。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609163875760064",
+      "time": "2026-09-16 09:47:17",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【潘功勝：貸款降速提質或將成為宏觀執行的新常態之一】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，貸款降速提質或將成為宏觀執行的新常態之一。當前超過280萬億元的貸款餘額中，房地產、地方融資平臺的貸款佔比仍然較大，這些領域不僅不再增長，反而還在下降。2025年至2026年上半年，房地產貸款餘額累計下降超2萬億元。"
     },
     {
       "id": "5096318",
