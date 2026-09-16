@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-16 13:18:58",
+  "updated": "2026-09-16 13:22:49",
   "count": 13421,
   "items": [
+    {
+      "id": "5096634",
+      "time": "2026-09-16 13:21:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌3.0個基點，至3.855%。"
+    },
+    {
+      "id": "5096633",
+      "time": "2026-09-16 13:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本百歲以上老年人首超10萬，女性佔87%】據報道，在日本的“敬老日”（今年為21日）前夕的9月15日，日本厚生勞動省公佈了百歲老人等的相關統計資料。日本全國百歲以上的老年人已達10萬7677人。連續56年增長，首次突破10萬人。 從整體來看，超過百歲的老人中，女性為9萬4298人，佔87.6%，男性為1萬3379人。"
+    },
+    {
+      "id": "mkt:01a0a8a9-253b-7118-85ac-1650c631f365",
+      "time": "2026-09-16 13:20:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 20-year government bond yield fell 3 bps to 3.855%."
+    },
+    {
+      "id": "5096632",
+      "time": "2026-09-16 13:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：香港特區首個五年規劃聚焦四大中心、人才集聚高地建設】香港特區行政長官李家超16日在特區立法會公佈香港特區第一個五年規劃。他表示，香港將強化四大中心、人才集聚高地建設，鞏固提升國際競爭優勢。李家超表示，全力推進“四中心、一高地”的建設，有助推動香港經濟持續發展，釋放促進民生改善的發展紅利，不斷提升市民福祉。同時，深化國際法律及解決爭議中心、區域智慧財產權貿易中心，以及中外文化藝術交流中心等將為“四中心、一高地”建設提供有力支援，有利促進科研創新和產業發展，並充分發揮香港在“一國兩制”下“內聯外通”的獨特優勢和國際化城市地位，進一步提升國際競爭優勢。李家超說，金融是香港的根本和最大的優勢。香港國際金融中心必須彰顯國際定位，以開放的金融市場吸引全球資金、人才和財金企業匯聚香港。秉持“以穩促進，以進固穩”的方針，壯根基、穩結構、強功能、控風險，充分發揮金融賦能實體經濟的核心作用，建設安全高效的金融基建，系統性構建多元化資本市場。（新華社）"
+    },
+    {
+      "id": "mkt:01a0a8a7-0fa9-7118-85ac-0c2230baeeac",
+      "time": "2026-09-16 13:18:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea deputy PM says country cannot slow AI development, will push ahead】South Korea Deputy Prime Minister Kyunghoon Bae said on Wednesday the country must not slow AI development amid global debate over the technology's pace. He said Seoul will not let Korea's AI clock run backward, will move faster but more safely, and will soon unveil a plan for an independent domestic foundational AI model."
+    },
+    {
+      "id": "5096631",
+      "time": "2026-09-16 13:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新藥概念股表現活躍】成都先導、艾迪藥業漲超10%，藥康生物、誠達藥業、美迪西、哈藥股份漲幅居前。"
+    },
     {
       "id": "mkt:01a0a8a6-2aef-7118-85ac-00fcfbacc616",
       "time": "2026-09-16 13:17:37",
@@ -123617,59 +123670,6 @@
         "CSI300"
       ],
       "text": "China's three main A-share indices plunged in the afternoon session, turning negative; media & entertainment, gaming, food processing and real estate led declines."
-    },
-    {
-      "id": "5084257",
-      "time": "2026-09-09 13:22:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "三大指數集體翻綠，滬指下跌0.01%，深證成指下跌0.34%，創業板指下跌0.67%。滬深京三市下跌個股超3900只。"
-    },
-    {
-      "id": "mkt:01a0849d-5cca-7118-84fd-c2c722e38349",
-      "time": "2026-09-09 13:21:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS: Yemeni sources said Saudi warplanes carried out 32 airstrikes on Marib, Jawf, Taiz and Hodeidah provinces."
-    },
-    {
-      "id": "5084256",
-      "time": "2026-09-09 13:21:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福建：探索閩臺共同主辦輪辦區域性群眾體育賽事活動】《福建省全民健身實施計劃（2026—2030年）（徵求意見稿）》公開徵求意見。其中提到，深化閩港澳臺僑體育共融共進。積極發揮兩岸體育總會、體育協會、基層體育組織之間常態化交流機制作用，探索閩臺共同主辦輪辦區域性群眾體育賽事活動。做大做強海峽兩岸體育嘉年華，持續辦好海峽兩岸龍舟賽、客家武術大賽、舞龍舞獅大賽等特色賽事，深耕籃球、棒壘球、羽毛球、龍舟、太極拳等群眾基礎好的運動專案，支援臺胞組隊來閩參與各類群眾性體育賽事，搭建兩岸常來常往的體育交流互動平臺。"
-    },
-    {
-      "id": "mkt:01a0849c-b9d7-7118-84fd-be00d763e4ea",
-      "time": "2026-09-09 13:20:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Heathrow: flights operating normally today, but some services may still be delayed as carriers reallocate aircraft and crew."
-    },
-    {
-      "id": "mkt:01a0849c-806b-7118-84fd-b2e429768229",
-      "time": "2026-09-09 13:20:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iraq seeks large boost to production quota as OPEC+ assesses capacity】Iraq is seeking a substantial increase in its OPEC+ production quota during the group's capacity review, targeting a 6.0 mln bpd baseline — a marked rise from its recent output levels, according to people familiar with the matter. Iraq hinted in June it could quit OPEC if it is not granted a sufficiently high baseline; such an exit would be a major blow to the group after the UAE’s departure. OPEC+ has commissioned external advisers to assess each member's maximum achievable capacity; the review is due to be completed at the end of this month and is expected to be approved at the Nov. oil ministers' meeting. Venezuela is also closely watching the situation and is considering an exit as it negotiates a major deal with Trump that would give the US substantial control over part of its oil reserves."
-    },
-    {
-      "id": "5084255",
-      "time": "2026-09-09 13:20:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國希思羅機場：今日航班正常執行，但由於航空公司需重新調配飛機與機組人員，部分航班可能仍會出現延誤。"
     }
   ]
 }
