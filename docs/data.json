@@ -1,7 +1,90 @@
 {
-  "updated": "2026-09-17 03:28:45",
-  "count": 13616,
+  "updated": "2026-09-17 03:32:34",
+  "count": 13622,
   "items": [
+    {
+      "id": "mkt:01a0abb4-4931-7118-85c8-43e6106b4c84",
+      "time": "2026-09-17 03:31:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RSM chief economist Joseph Brusuelas said Wosh signaled appropriately hawkish views at the press conference and sought to bolster the Fed’s credibility on restoring price stability while also enhancing his own credibility."
+    },
+    {
+      "id": "te:economy:584341",
+      "time": "2026-09-17 03:30:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bahrain",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bahrain Central Bank Hikes Key Rate — The Central Bank of Bahrain raised its one-week deposit facility rate by 25 bps to 4.75% in September 2026, mirroring the Federal Reserve’s decision. The move followed the Fed’s announcement that it would raise the target range for the federal funds rate by 25 bps to 3.75%-4%, while a majority of FOMC members projected another hike this year. Bahrain typically aligns its interest rate policy with that of the Fed due to its currency peg, maintaining an exchange rate of 0.376 Bahraini dinars per US dollar."
+    },
+    {
+      "id": "mkt:01a0abb2-adbc-7118-85c8-3f9746b9c472",
+      "time": "2026-09-17 03:30:08",
+      "tags": [
+        "MKT News",
+        "LUV.N",
+        "Impact bullish"
+      ],
+      "text": "Southwest Airlines (LUV.N) CFO says fares still have room to rise."
+    },
+    {
+      "id": "mkt:01a0abb2-adac-7118-85c8-3664f4907554",
+      "time": "2026-09-17 03:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "US stocks fell further after a press conference by Warsh: the S&P 500 dropped 1%, its largest decline since July 29; the Dow fell 1.65% and the Nasdaq slipped 0.6%."
+    },
+    {
+      "id": "5098355",
+      "time": "2026-09-17 03:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空CFO：9 月出行需求超出預期。指定座位服務及加寬腿部空間座位業務，預計 2026 年產生逾 10 億美元息稅前利潤，2027 年約 15 億美元。"
+    },
+    {
+      "id": "5098354",
+      "time": "2026-09-17 03:29:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約梅隆銀行將優惠貸款利率上調至 7.00%。"
+    },
+    {
+      "id": "5098353",
+      "time": "2026-09-17 03:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空CFO：需求環境依舊 “非常非常強勁”。"
+    },
+    {
+      "id": "5098352",
+      "time": "2026-09-17 03:28:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報62.36美元/盎司。"
+    },
     {
       "id": "te:markets:584340",
       "time": "2026-09-17 03:28:06",
@@ -125615,27 +125698,6 @@
         "其他"
       ],
       "text": "星鏈：新一代星鏈路由器峰值速度更快，覆蓋面積最高可達3500平方英尺（325平方米）。第四代路由器是首款搭載Wi‑Fi 7晶片組的星鏈路由器，專為流媒體、遊戲及日常使用打造。即將在部分地區上線。"
-    },
-    {
-      "id": "mkt:01a087a7-c965-7118-8510-bf6d52c402c7",
-      "time": "2026-09-10 03:31:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Brent futures settle above $101】ICE Brent Nov futures settled at $101.21/bbl, up $3.29 (3.36%). NYMEX Oct WTI settled at $96.05/bbl, up $3.02 (3.25%)."
-    },
-    {
-      "id": "5085740",
-      "time": "2026-09-10 03:31:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價9日顯著上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲3.02美元，收於每桶96.05美元，漲幅為3.25%；11月交貨的倫敦布倫特原油期貨價格上漲3.29美元，收於每桶101.21美元，漲幅為3.36%。"
     }
   ]
 }
