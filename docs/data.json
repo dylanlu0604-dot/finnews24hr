@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-16 18:24:43",
-  "count": 13367,
+  "updated": "2026-09-16 18:28:38",
+  "count": 13350,
   "items": [
+    {
+      "id": "5097324",
+      "time": "2026-09-16 18:27:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫園股份：聘任楊琴為CFO 鄒超辭任執行總裁等職】豫園股份公告稱，公司董事會近日收到執行總裁、CFO鄒超的書面辭職報告，鄒超因工作調整辭任上述職務，2026年9月16日離任後不再擔任公司任何職務，辭任不會對公司日常經營產生不利影響。公司於2026年9月16日召開第十二屆董事會第六次會議，審議透過聘任楊琴為公司CFO，任期自審議透過之日起至第十二屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "5097323",
+      "time": "2026-09-16 18:27:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽分科技：國壽系一致行動人持股比例降至5%以下】賽分科技公告稱，2026年5月6日至9月15日，公司持股5%以上股東江蘇疌泉成達股權投資中心(有限合夥)透過集中競價方式減持公司股份796.0991萬股，佔公司總股本的1.91%。疌泉成達與中國人壽保險(集團)公司、中國人壽保險股份有限公司為一致行動人，本次權益變動後，三者合計持有公司股份2082.3203萬股，佔公司總股本的4.9999997%，降至5%以下。本次減持系基於基金期限與流動性資金安排，前述一致行動人已披露的減持計劃尚未實施完畢，未來12個月內不排除繼續減持的可能。"
+    },
+    {
+      "id": "5097322",
+      "time": "2026-09-16 18:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理用特朗普送鑰匙形容美加關係】加拿大總理卡尼9月15日表示，加拿大與美國最終仍有可能達成貿易協議，但前提是協議必須符合加拿大經濟利益。他說，加拿大已準備好在合適時機重返談判桌。談及加美關係，卡尼還回憶去年春天訪問白宮時的一段趣事，稱美國總統特朗普曾送給他一個盒子，裡面裝著一把巨大的金色鑰匙。特朗普告訴他，這是白宮的鑰匙，“你只要帶著它，他們就會讓你進去，不過他們也可能會開槍打你。”卡尼表示，這個玩笑某種程度上也反映了加拿大與美國之間複雜的關係——兩國聯絡緊密，但同時存在分歧。他同時強調，如果加拿大來提供進入該國的“鑰匙”，加拿大將選擇歡迎，而非攻擊來者。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a9c0-cf9b-7118-85b5-9cb8a56160c5",
+      "time": "2026-09-16 18:26:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "UK gilts continued to rise; the 2-year yield fell 8 bps intraday to 4.81%."
+    },
+    {
+      "id": "5097320",
+      "time": "2026-09-16 18:26:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債延續漲勢，兩年期國債收益率下跌8個基點至4.81%。"
+    },
+    {
+      "id": "te:economy:584198",
+      "time": "2026-09-16 18:25:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "House Price Index YoY",
+        "Importance 1"
+      ],
+      "text": "Ireland Property Prices Remain at Over 2-Year Low — Residential property prices increased 5.5% year-on-year in July 2026, easing from a 5.6% rise in the previous month and marking the lowest level since January 2024. House price growth eased to 3.7% from 3.9% in July, while apartment prices also eased to 6.8% from 7.0%. By region, annual property price growth in Dublin slowed to 4.4% from 4.6%, while prices outside the capital held steady at 6.4%. Within Dublin, the strongest growth was recorded in Dún Laoghaire-Rathdown at 6.0%, up from 4.9% in the previous month, while Dublin City also slowed to 2.3% from 3.8%. Price levels continued to vary across regions, with Dún Laoghaire-Rathdown recording the highest median dwelling price at €668,411, while the lowest was in Longford at €200,000. On a monthly basis, residential property prices rose 0.8% in August from 0.5% in the previous period and marking the highest increase since September 2025."
+    },
+    {
+      "id": "mkt:01a0a9c0-5259-7118-85b5-94a69e90002a",
+      "time": "2026-09-16 18:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Iran Labour News Agency, the CEO of Iran Export Development Bank told the bank's ordinary shareholders meeting that net profit rose 44% in FY24/25."
+    },
+    {
+      "id": "mkt:01a0a9c0-3e7d-7118-85b5-88978c93a1d8",
+      "time": "2026-09-16 18:25:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Forceful, orderly rollout of new property measures aimed at stabilizing market】Property transactions have stabilized this year, prices are gradually recovering and new-home inventories continue to fall. Through August, national contracted area for second-hand home transactions reached 549 mln sqm, up 10.6% YoY. In August, new-home and resale prices in first-tier cities rose 0.1% MoM; MoM declines in second- and third-tier cities narrowed overall. The market, led by first-tier cities, shows continued resilience after local authorities applied city-specific policy adjustments. In late August central authorities issued a package of systemic property measures to restructure core sales and financing arrangements; Beijing, Shanghai, Chengdu and Xi’an also eased or tweaked local property rules. Momentum toward stabilization is strengthening but remains fragile; authorities stress full on‑the‑ground implementation of new measures to convert policy support into market activity."
+    },
+    {
+      "id": "5097319",
+      "time": "2026-09-16 18:25:38",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【有力有序落地房地產新政 推動市場穩定健康發展】今年以來，房地產市場交易總量趨於穩定、交易價格逐步回穩、新建商品房庫存持續下降，前8個月全國二手房交易網籤面積達5.49億平方米，同比增長10.6%。8月份，一線城市新建商品住宅和二手住宅銷售價格環比分別上漲0.1%；二三線城市商品住宅銷售價格環比降幅總體收窄。一系列訊號表明，以一線城市為“風向標”的房地產市場，繼續保持穩的態勢。市場表現出的較強韌性背後，是今年以來各地區各部門堅持因城施策，調整最佳化房地產政策。8月末，中央集中出臺一攬子系統性房地產新政，從銷售、融資等環節對房地產基礎制度進行重構；北京、上海、成都、西安等地對房地產政策進行了最佳化調整。積極回穩態勢增強的同時也要看到，市場回穩基礎尚需進一步鞏固。把已出臺的各項新政落到實處，確保政策從“紙面”落到“地面”，方能讓政策紅利真正轉化為市場活力。（新華社）"
+    },
+    {
+      "id": "5097318",
+      "time": "2026-09-16 18:25:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧克股份：訴訟執行階段將拍賣嘉業石化所持四川奧克股權】奧克股份公告稱，公司就金石達、嘉業石化未履行對控股子公司四川奧克的溶劑油裝置減值補償義務提起的民事訴訟已進入執行階段。因被執行人未履行生效判決確定的給付4091.83萬元減值補償款及逾期付款損失的義務，遼陽中院裁定拍賣嘉業石化持有的四川奧克12.25%股權，公司享有優先購買權。本案執行結果具有不確定性，不會對公司本期及後續利潤產生不利影響。"
+    },
+    {
+      "id": "5097317",
+      "time": "2026-09-16 18:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三鑫醫療：調整股份回購價格上限至14.46元/股】三鑫醫療公告稱，因實施2026年半年度權益分派，公司自2026年9月23日（除權除息日）起將股份回購價格上限由14.56元/股調整為14.46元/股。本次回購資金總額不低於2000萬元、不高於4000萬元，回購股份用於轉換公司發行的可轉換為股票的公司債券，回購實施期限為董事會審議透過回購方案之日起六個月內，除上述調整外，本次回購其他事項無變化。"
+    },
+    {
+      "id": "5097316",
+      "time": "2026-09-16 18:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益豐藥房：半年度權益分派期間益豐轉債停止轉股】益豐藥房公告稱，因實施2026年半年度權益分派，自2026年9月22日至權益分派股權登記日期間，“益豐轉債”將停止轉股，股權登記日後的第一個交易日起恢復轉股；欲享受本次權益分派的可轉債持有人可在2026年9月21日（含當日）之前進行轉股。公司2026年半年度擬向全體股東每股派發現金紅利0.30元（含稅），權益分派實施後將對“益豐轉債”當期轉股價格進行調整。"
+    },
     {
       "id": "5097315",
       "time": "2026-09-16 18:24:00",
@@ -122866,296 +122974,6 @@
         "國際"
       ],
       "text": "印度儲備銀行：外匯零售平臺將新增貨幣對。"
-    },
-    {
-      "id": "mkt:01a085b5-f562-7118-8505-470941da0de9",
-      "time": "2026-09-09 18:28:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russia's Foreign Ministry said Moscow is prepared to take all measures to counter NATO threats in the Arctic."
-    },
-    {
-      "id": "5084951",
-      "time": "2026-09-09 18:28:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【紅棉股份：股價異動受國際原糖價格上漲等因素關注】紅棉股份公告，公司股票於2026年9月8日、9月9日連續2個交易日收盤價格漲幅偏離值累計超過20%。公司表示，近期媒體報道國際原糖價格上漲、厄爾尼諾氣候可能導致主要產糖國減產，糖業相關上市公司股票交易活躍，公司股票受到市場關注；公司經營正常，糖類業務生產經營保持正常，但相關事項對短期經營業績的影響存在一定不確定性。公司不存在應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "mkt:01a085b5-9c7c-7118-8505-3d97bc96203b",
-      "time": "2026-09-09 18:27:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin said there is currently no formal roadmap to resolve the Ukraine conflict, but there is political will to resume negotiations."
-    },
-    {
-      "id": "mkt:01a085b5-4d62-7118-8505-355b29be1e2e",
-      "time": "2026-09-09 18:27:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【JP Morgan: Conditions forming for cyclicals to outperform defensives】JP Morgan says conditions for cyclicals to reassert versus defensives are emerging. Hedge funds are buying energy, and excluding TMT and financials the relative net position of cyclicals versus defensives remains near neutral, indicating cyclicals are not crowded. Retail sentiment toward cyclicals versus defensives is also low. If economic growth stays firm, cyclicals could outperform defensives. JP Morgan’s view carries a key caveat: bond yields must not rise too quickly, as a sharp increase could trigger a clear shift to risk‑off and weigh on cyclicals. Source: JP Morgan report dated Sept 9."
-    },
-    {
-      "id": "mkt:01a085b4-eda6-7118-8505-2a6e0ca15aae",
-      "time": "2026-09-09 18:27:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Kremlin says Hungary's expulsion of Russian diplomats will affect bilateral relations."
-    },
-    {
-      "id": "5084950",
-      "time": "2026-09-09 18:26:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST卓然：立案調查進展 或觸及重大違法強制退市】*ST卓然公告稱，公司及實控人張錦紅因涉嫌資訊披露違法違規等事項，於2025年12月20日被中國證監會立案。根據監管調查情況，現已初步查明公司披露的部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形。若後續經中國證監會行政處罰認定的事實觸及相關上市規則規定的重大違法強制退市情形，公司股票將被實施重大違法強制退市。截至本公告披露日，中國證監會的調查尚在進行中，公司將積極配合調查並履行資訊披露義務。"
-    },
-    {
-      "id": "5084949",
-      "time": "2026-09-09 18:26:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST卓然：公司及子公司涉及訴訟 涉案金額1445.60萬元】*ST卓然公告稱，公司及全資子公司卓然靖江收到福建省惠安縣人民法院送達的訴訟材料，原告華偉公司起訴主張卓然靖江支付專案變更增加工程欠款及損失共計1445.60萬元及相應資金佔用利息、返還代付工資5.37萬元，公司對前述債務承擔連帶清償責任，同時要求相關方承擔訴訟費、保全費等費用。目前法院已立案受理，案件轉入庭前調解階段，尚未開庭審理，最終結果及對公司損益的影響尚存在不確定性。"
-    },
-    {
-      "id": "mkt:01a085b4-9fcc-7118-8505-27f141caaafa",
-      "time": "2026-09-09 18:26:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Kremlin says Nord Stream pipeline can resume operations immediately."
-    },
-    {
-      "id": "mkt:01a085b4-77ea-7118-8505-1cc3d88243ce",
-      "time": "2026-09-09 18:26:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israel says it destroyed multiple Gaza weapons storage sites and a rocket launch site】The Israel Defense Forces (IDF) and Shin Bet said on the 9th that the IDF carried out airstrikes on the 8th in Gaza, destroying three weapons storage facilities used by Hamas and Palestinian Islamic Jihad (PIJ) and one rocket-launch site used to fire into Israel. The facilities held dozens of weapons and military items, including rockets and Kalashnikov rifles. The IDF said it had recently observed militants visiting the depots to use the weapons to bolster control and conduct operations in Gaza."
-    },
-    {
-      "id": "mkt:01a085b4-7085-7118-8505-12f15974681f",
-      "time": "2026-09-09 18:26:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin says prisoner swaps between Russia and the United States remain on the agenda."
-    },
-    {
-      "id": "mkt:01a085b4-545e-7118-8505-0a8c7b76bf87",
-      "time": "2026-09-09 18:26:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Kremlin says Europe faces a difficult situation and cannot replenish gas storage before winter."
-    },
-    {
-      "id": "mkt:01a085b4-3cd0-7118-8505-0437eeee4fd0",
-      "time": "2026-09-09 18:26:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Iran says it will respond decisively to U.S. attacks】Iran’s foreign ministry condemned what it called U.S. attacks on Iranian tankers, saying U.S. actions threaten regional security and that U.S. vessels and bases have been subjected to defensive strikes; Tehran warned it will respond decisively to any U.S. military attack. An IRGC spokesman said no advanced technology can penetrate Iran’s multilayer surveillance in the Strait of Hormuz."
-    },
-    {
-      "id": "5084948",
-      "time": "2026-09-09 18:26:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中重科技：常州津泓、沈惠萍擬減持公司不超過3%股份】中重科技公告，江蘇國茂一致行動人常州津泓、沈惠萍擬於2026年10月12日至2027年1月11日，透過集中競價和大宗交易方式合計減持不超過1902.77萬股，佔公司總股本的3%。其中，常州津泓擬減持不超過570.83萬股，佔0.90%；沈惠萍擬減持不超過1331.94萬股，佔2.10%。"
-    },
-    {
-      "id": "te:economy:582386",
-      "time": "2026-09-09 18:26:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Netherlands 10Y Bond Yield Hits 15-year High — Netherlands 10 Year Government Bond Yield increased to 3.49%, the highest since May 2011. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 20.51 basis points, and in the last 12 months, it increased 65.51 basis points."
-    },
-    {
-      "id": "mkt:01a085b4-34d2-7118-8504-f91092499693",
-      "time": "2026-09-09 18:26:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The Kremlin said Europe is buying natural gas on spot markets at prices higher than Russian gas, harming its own interests."
-    },
-    {
-      "id": "5084947",
-      "time": "2026-09-09 18:26:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：俄美之間的囚犯交換問題一直處於議程之中。希望由美國調解的與烏克蘭的談判能儘快重啟。不會公開討論和平協議的潛在內容。"
-    },
-    {
-      "id": "5084946",
-      "time": "2026-09-09 18:25:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：北溪管道可立即恢復輸氣運營。歐洲目前處境艱難，到冬季前將無法完成天然氣儲備補充。歐洲人在現貨市場以高於俄羅斯天然氣的價格採購天然氣，此舉正在損害自身利益。若歐洲從俄羅斯採購天然氣，可獲得更低價氣源。俄羅斯將對匈牙利驅逐10名俄羅斯外交官一事作出“適當”回應"
-    },
-    {
-      "id": "mkt:01a085b3-c474-7118-8504-f08ce6ce2100",
-      "time": "2026-09-09 18:25:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says Russia has not discussed raising taxes."
-    },
-    {
-      "id": "mkt:01a085b3-b490-7118-8504-e8c4b4d6656c",
-      "time": "2026-09-09 18:25:41",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Kremlin says Russia will make an 'appropriate' response to Hungary's expulsion of 10 Russian diplomats."
-    },
-    {
-      "id": "5084945",
-      "time": "2026-09-09 18:25:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮表示，不會公開討論和平協議的潛在內容。"
-    },
-    {
-      "id": "mkt:01a085b3-8a0e-7118-8504-e2d8196aec0f",
-      "time": "2026-09-09 18:25:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin said it hopes U.S.-mediated talks with Ukraine will resume soon."
-    },
-    {
-      "id": "5084944",
-      "time": "2026-09-09 18:25:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱摧毀加沙多處武器儲存設施和火箭彈發射陣地】以色列國防軍和以色列國家安全總局（辛貝特）9日發表聯合宣告說，以軍8日在加沙地帶多處發動空襲，摧毀三處巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和巴勒斯坦伊斯蘭聖戰組織（傑哈德）的武器儲存設施，以及一處曾用於向以色列境內發射火箭彈的發射陣地。宣告說，上述武器儲存設施記憶體放有數十件不同型別的武器和軍事裝備，包括火箭彈和卡拉什尼科夫步槍等。以軍近期發現哈馬斯武裝人員前往這些武器儲存設施，使用其中的武器加強其在加沙地帶的控制並開展行動。宣告還說，以軍將繼續採取行動削弱加沙地帶武裝組織的能力，阻止其重建軍事能力或使用武器襲擊以軍人員。根據有關協議，以軍南方司令部部隊目前仍部署在加沙地帶相關地區。（新華社）"
-    },
-    {
-      "id": "mkt:01a085b3-6a61-7118-8504-df4388de2583",
-      "time": "2026-09-09 18:25:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Kremlin says Europe could pay less for natural gas if it buys from Russia."
-    },
-    {
-      "id": "mkt:01a085b3-5709-7118-8504-d0f8ea769720",
-      "time": "2026-09-09 18:25:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says it will not publicly discuss potential elements of a peace settlement."
-    },
-    {
-      "id": "mkt:01a085b3-3480-7118-8504-c93435ff1275",
-      "time": "2026-09-09 18:25:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) shares rose more than 4% in pre-market trading."
-    },
-    {
-      "id": "5084943",
-      "time": "2026-09-09 18:25:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空執行長奧萊利：英國國家空中交通服務局（NATS）告知我們，此次問題與2023年的故障成因相同，是一份錯誤飛行計劃中出現了重複的機場條目，進而導致系統崩潰。"
-    },
-    {
-      "id": "5084942",
-      "time": "2026-09-09 18:24:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空執行長奧萊利表示：這將造成250萬至300萬英鎊的直接損失，其中包括旅客照料權益及乘客賠償款項。"
-    },
-    {
-      "id": "5084941",
-      "time": "2026-09-09 18:24:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空執行長奧利裡：我們預計今日將有30架次航班取消。"
-    },
-    {
-      "id": "mkt:01a085b2-d02a-7118-8504-c17cda4d4021",
-      "time": "2026-09-09 18:24:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says no advanced technology can penetrate Strait of Hormuz surveillance】State news agency reported on the 9th that Islamic Revolutionary Guard Corps spokesman Muhibbi said on the evening of the 8th that no advanced technology can penetrate Iran's multi-layer surveillance system in the Strait of Hormuz. He said Iranian forces captured what he described as the US military's most advanced unmanned submersible earlier that day, saying the incident demonstrates Iran's multi-layer monitoring capability, and asserted control of the Persian Gulf rests with Iran's tech-savvy youth."
     }
   ]
 }

@@ -1,7 +1,115 @@
 {
   "date": "2026-09-16",
-  "count": 1681,
+  "count": 1693,
   "items": [
+    {
+      "id": "5097324",
+      "time": "2026-09-16 18:27:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫園股份：聘任楊琴為CFO 鄒超辭任執行總裁等職】豫園股份公告稱，公司董事會近日收到執行總裁、CFO鄒超的書面辭職報告，鄒超因工作調整辭任上述職務，2026年9月16日離任後不再擔任公司任何職務，辭任不會對公司日常經營產生不利影響。公司於2026年9月16日召開第十二屆董事會第六次會議，審議透過聘任楊琴為公司CFO，任期自審議透過之日起至第十二屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "5097323",
+      "time": "2026-09-16 18:27:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽分科技：國壽系一致行動人持股比例降至5%以下】賽分科技公告稱，2026年5月6日至9月15日，公司持股5%以上股東江蘇疌泉成達股權投資中心(有限合夥)透過集中競價方式減持公司股份796.0991萬股，佔公司總股本的1.91%。疌泉成達與中國人壽保險(集團)公司、中國人壽保險股份有限公司為一致行動人，本次權益變動後，三者合計持有公司股份2082.3203萬股，佔公司總股本的4.9999997%，降至5%以下。本次減持系基於基金期限與流動性資金安排，前述一致行動人已披露的減持計劃尚未實施完畢，未來12個月內不排除繼續減持的可能。"
+    },
+    {
+      "id": "5097322",
+      "time": "2026-09-16 18:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理用特朗普送鑰匙形容美加關係】加拿大總理卡尼9月15日表示，加拿大與美國最終仍有可能達成貿易協議，但前提是協議必須符合加拿大經濟利益。他說，加拿大已準備好在合適時機重返談判桌。談及加美關係，卡尼還回憶去年春天訪問白宮時的一段趣事，稱美國總統特朗普曾送給他一個盒子，裡面裝著一把巨大的金色鑰匙。特朗普告訴他，這是白宮的鑰匙，“你只要帶著它，他們就會讓你進去，不過他們也可能會開槍打你。”卡尼表示，這個玩笑某種程度上也反映了加拿大與美國之間複雜的關係——兩國聯絡緊密，但同時存在分歧。他同時強調，如果加拿大來提供進入該國的“鑰匙”，加拿大將選擇歡迎，而非攻擊來者。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0a9c0-cf9b-7118-85b5-9cb8a56160c5",
+      "time": "2026-09-16 18:26:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "UK gilts continued to rise; the 2-year yield fell 8 bps intraday to 4.81%."
+    },
+    {
+      "id": "5097320",
+      "time": "2026-09-16 18:26:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債延續漲勢，兩年期國債收益率下跌8個基點至4.81%。"
+    },
+    {
+      "id": "te:economy:584198",
+      "time": "2026-09-16 18:25:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "House Price Index YoY",
+        "Importance 1"
+      ],
+      "text": "Ireland Property Prices Remain at Over 2-Year Low — Residential property prices increased 5.5% year-on-year in July 2026, easing from a 5.6% rise in the previous month and marking the lowest level since January 2024. House price growth eased to 3.7% from 3.9% in July, while apartment prices also eased to 6.8% from 7.0%. By region, annual property price growth in Dublin slowed to 4.4% from 4.6%, while prices outside the capital held steady at 6.4%. Within Dublin, the strongest growth was recorded in Dún Laoghaire-Rathdown at 6.0%, up from 4.9% in the previous month, while Dublin City also slowed to 2.3% from 3.8%. Price levels continued to vary across regions, with Dún Laoghaire-Rathdown recording the highest median dwelling price at €668,411, while the lowest was in Longford at €200,000. On a monthly basis, residential property prices rose 0.8% in August from 0.5% in the previous period and marking the highest increase since September 2025."
+    },
+    {
+      "id": "mkt:01a0a9c0-5259-7118-85b5-94a69e90002a",
+      "time": "2026-09-16 18:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Iran Labour News Agency, the CEO of Iran Export Development Bank told the bank's ordinary shareholders meeting that net profit rose 44% in FY24/25."
+    },
+    {
+      "id": "mkt:01a0a9c0-3e7d-7118-85b5-88978c93a1d8",
+      "time": "2026-09-16 18:25:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Forceful, orderly rollout of new property measures aimed at stabilizing market】Property transactions have stabilized this year, prices are gradually recovering and new-home inventories continue to fall. Through August, national contracted area for second-hand home transactions reached 549 mln sqm, up 10.6% YoY. In August, new-home and resale prices in first-tier cities rose 0.1% MoM; MoM declines in second- and third-tier cities narrowed overall. The market, led by first-tier cities, shows continued resilience after local authorities applied city-specific policy adjustments. In late August central authorities issued a package of systemic property measures to restructure core sales and financing arrangements; Beijing, Shanghai, Chengdu and Xi’an also eased or tweaked local property rules. Momentum toward stabilization is strengthening but remains fragile; authorities stress full on‑the‑ground implementation of new measures to convert policy support into market activity."
+    },
+    {
+      "id": "5097319",
+      "time": "2026-09-16 18:25:38",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【有力有序落地房地產新政 推動市場穩定健康發展】今年以來，房地產市場交易總量趨於穩定、交易價格逐步回穩、新建商品房庫存持續下降，前8個月全國二手房交易網籤面積達5.49億平方米，同比增長10.6%。8月份，一線城市新建商品住宅和二手住宅銷售價格環比分別上漲0.1%；二三線城市商品住宅銷售價格環比降幅總體收窄。一系列訊號表明，以一線城市為“風向標”的房地產市場，繼續保持穩的態勢。市場表現出的較強韌性背後，是今年以來各地區各部門堅持因城施策，調整最佳化房地產政策。8月末，中央集中出臺一攬子系統性房地產新政，從銷售、融資等環節對房地產基礎制度進行重構；北京、上海、成都、西安等地對房地產政策進行了最佳化調整。積極回穩態勢增強的同時也要看到，市場回穩基礎尚需進一步鞏固。把已出臺的各項新政落到實處，確保政策從“紙面”落到“地面”，方能讓政策紅利真正轉化為市場活力。（新華社）"
+    },
+    {
+      "id": "5097318",
+      "time": "2026-09-16 18:25:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧克股份：訴訟執行階段將拍賣嘉業石化所持四川奧克股權】奧克股份公告稱，公司就金石達、嘉業石化未履行對控股子公司四川奧克的溶劑油裝置減值補償義務提起的民事訴訟已進入執行階段。因被執行人未履行生效判決確定的給付4091.83萬元減值補償款及逾期付款損失的義務，遼陽中院裁定拍賣嘉業石化持有的四川奧克12.25%股權，公司享有優先購買權。本案執行結果具有不確定性，不會對公司本期及後續利潤產生不利影響。"
+    },
+    {
+      "id": "5097317",
+      "time": "2026-09-16 18:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三鑫醫療：調整股份回購價格上限至14.46元/股】三鑫醫療公告稱，因實施2026年半年度權益分派，公司自2026年9月23日（除權除息日）起將股份回購價格上限由14.56元/股調整為14.46元/股。本次回購資金總額不低於2000萬元、不高於4000萬元，回購股份用於轉換公司發行的可轉換為股票的公司債券，回購實施期限為董事會審議透過回購方案之日起六個月內，除上述調整外，本次回購其他事項無變化。"
+    },
+    {
+      "id": "5097316",
+      "time": "2026-09-16 18:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益豐藥房：半年度權益分派期間益豐轉債停止轉股】益豐藥房公告稱，因實施2026年半年度權益分派，自2026年9月22日至權益分派股權登記日期間，“益豐轉債”將停止轉股，股權登記日後的第一個交易日起恢復轉股；欲享受本次權益分派的可轉債持有人可在2026年9月21日（含當日）之前進行轉股。公司2026年半年度擬向全體股東每股派發現金紅利0.30元（含稅），權益分派實施後將對“益豐轉債”當期轉股價格進行調整。"
+    },
     {
       "id": "5097315",
       "time": "2026-09-16 18:24:00",
