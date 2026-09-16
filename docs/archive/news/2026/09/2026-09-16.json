@@ -1,7 +1,86 @@
 {
   "date": "2026-09-16",
-  "count": 1624,
+  "count": 1633,
   "items": [
+    {
+      "id": "5097276",
+      "time": "2026-09-16 18:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌雲股份：上半年營收96.77億元 歸母淨利同比降29.73%】凌雲股份公告稱，公司2026年上半年實現營業收入96.77億元，同比增長4.49%；歸母淨利潤同比下降29.73%，扣非淨利潤同比下降26.72%。利潤下滑主要受原材料漲價、主機廠年降、匯兌損益變動等因素影響，其中匯兌損益同比增加1.05億元，研發費用同比增加3178萬元。公司液冷產品上半年收入佔合併口徑約4%，目前呈增長趨勢。公司暫無股份回購登出計劃，暫未收到控股股東減持計劃，生產經營正常，不存在應披露未披露重大事項。"
+    },
+    {
+      "id": "5097275",
+      "time": "2026-09-16 18:07:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三博腦科：控股股東、實際控制人擬無償捐贈1億元股份】三博腦科公告，控股股東、實際控制人張陽、於春江、石祥恩及欒國明於2026年9月16日與首都醫科大學教育基金會簽署《捐贈協議》，擬分三批次無償捐贈其持有的公司無限售流通股，總計價值1億元人民幣市值。本次捐贈不會導致公司控股股東、實際控制人發生變化。"
+    },
+    {
+      "id": "mkt:01a0a9ae-e802-7118-85b5-4397e70254fd",
+      "time": "2026-09-16 18:06:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) premarket accelerated sell-off trims gains to 3%."
+    },
+    {
+      "id": "5097271",
+      "time": "2026-09-16 18:06:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾(INTC.O)盤前加速下挫，漲幅現已收窄至3%。"
+    },
+    {
+      "id": "mkt:01a0a9ae-c7b2-7118-85b5-3b838b5e11ad",
+      "time": "2026-09-16 18:06:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【OpenAI agents tested Hugging Face vulnerabilities two months before publicised breach】Researchers told Reuters that malicious AI agents linked to OpenAI began probing and hijacking Hugging Face accounts in mid‑May, nearly two months before the July intrusion that drew global attention. Independent researcher Jonas Wiedermann‑Moeller said he found evidence the agents accessed two user accounts and on May 13 used them to send malformed files to Hugging Face servers. OpenAI’s public incident report last month disclosed one vector involved theft of Hugging Face users’ digital credentials to access biology‑related files; researchers say the probing activity appears broader than that report described. They added the behaviour resembled network probing to identify penetration paths but said they found no evidence it produced a material breach."
+    },
+    {
+      "id": "5097270",
+      "time": "2026-09-16 18:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣和通：9月16日回購68.28萬股股份 擬登出】廣和通公告稱，公司於2026年9月16日透過私人安排方式回購A股股份682,800股，佔回購授權決議透過當日已發行股份（不含庫存股）的比例未披露，每股回購價格為10.17元，支付總金額為704.82萬元。本次回購的股份全部擬用於登出，擬持作庫存股數量為0。公司確認本次股份回購已獲董事會正式授權批准，符合所有適用上市規則、法律及其他監管規定，公司已收取本次股份發行相關的全部應得款項，相關上市先決條件均已履行。"
+    },
+    {
+      "id": "5097269",
+      "time": "2026-09-16 18:05:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Meta 與 NextEra 能源公司將從二者的勞動力學院招募 1000 名人員。"
+    },
+    {
+      "id": "mkt:01a0a9ad-7bd2-7118-85b5-33124f68ca0d",
+      "time": "2026-09-16 18:05:13",
+      "tags": [
+        "MKT News",
+        "00832.HK",
+        "Impact bearish"
+      ],
+      "text": "Jianye Real Estate (00832.HK) said the group booked contracted property sales of 572 mln yuan in August 2026, down 12.9% YoY; contracted sales area was 93,663 sqm, down 7.3% YoY; average selling price 6,107 yuan/sqm, down 6.1% YoY."
+    },
+    {
+      "id": "5097268",
+      "time": "2026-09-16 18:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "利潔時將在美國業務上最高投資 6 億美元。"
+    },
     {
       "id": "mkt:01a0a9ab-90fc-7118-85b5-2e32e2243372",
       "time": "2026-09-16 18:03:08",
