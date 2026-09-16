@@ -1,7 +1,97 @@
 {
   "date": "2026-09-16",
-  "count": 1269,
+  "count": 1278,
   "items": [
+    {
+      "id": "te:markets:584113",
+      "time": "2026-09-16 14:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.40% Higher — The Nikkei 225 Index rose 257 points or 0.40 percent on Wednesday to close at 63741 points. Leading the gains are JX Holdings (4.67%), Idemitsu Kosan (4.37%) and Screen Holdings (4.12%). Top losers were Mercari Inc (-5.48%), Otsuka Holdings (-4.60%) and Sumitomo Dainippon (-4.20%)."
+    },
+    {
+      "id": "5096703",
+      "time": "2026-09-16 14:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南海三高速屯昌段小轎車與重型貨車碰撞致5人死亡，調查報告公佈】4月26日4時32分許，在屯昌縣境內G9811海三高速公路59公里處路段，發生一起小型普通客車與重型倉柵貨車碰撞的較大交通事故，事故共造成5人死亡。9月15日，海南省應急管理廳官網公佈《海三高速屯昌段“4·26”較大道路運輸事故調查報告》。調查報告顯示，經調查認定，海三高速屯昌段“4·26”較大道路運輸事故是一起因貨車嚴重超載、駕駛人分心駕駛、事故後未按規定設定警示標誌，疊加小型客車非法營運等多重違法行為、多環節安全監管缺位共同引發的較大道路交通生產安全責任事故。"
+    },
+    {
+      "id": "te:markets:584111",
+      "time": "2026-09-16 14:29:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Higher Open — European equity markets were poised to open higher on Wednesday as the recent surge in oil prices and global bond yields lost steam, providing some relief for stocks. Oil prices eased from multi-month highs after US crude inventories unexpectedly increased, while bond yields stabilized following their recent climb as investors turned their focus to key central bank decisions this week. The US Federal Reserve is widely expected to raise interest rates later today, which would mark its first hike in roughly three years. Meanwhile, the Bank of England is expected to keep rates unchanged on Thursday, despite fresh data showing UK consumer inflation accelerated to 3.1% in August, its highest level in five months. Elsewhere, markets will await Italy’s final August inflation figures, along with the latest Eurozone data on industrial production and wages. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures gained 0.4% and 0.3%, respectively."
+    },
+    {
+      "id": "5096702",
+      "time": "2026-09-16 14:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智界RX獲批L3級自動駕駛道路測試牌照】9月16日，@智界汽車發文稱，智界RX獲批L3級自動駕駛道路測試牌照。"
+    },
+    {
+      "id": "mkt:01a0a8e7-c779-7118-85ae-6aee6b8999c4",
+      "time": "2026-09-16 14:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Vietnam advances strategy to mollify Washington; up to 29 deals may be unveiled Sept. 23】Two internal documents and a Reuters report show Vietnam’s leader will visit New York next week and US and Vietnamese firms plan to announce a package of energy, technology, aviation and financial agreements, many of them non-binding. An internal plan lists 29 deals potentially to be unveiled at a Sept. 23 business event attended by the leader; US firms Murphy Oil and Chevron are expected to sign accords with state oil firm PetroVietnam, and ExxonMobil with Vietnam Refining and Petrochemical Company, the country’s second-largest refiner. The trip is intended to advance US-Vietnam trade talks and could finalize a trade deal negotiated for more than a year, but a meeting with President Trump is not confirmed, the White House said."
+    },
+    {
+      "id": "5096701",
+      "time": "2026-09-16 14:29:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度BMW Ventures獲塔塔專案7.29億盧比鋼材供應訂單】9月16日，印度鋼鐵企業BMW Ventures披露，公司從塔塔專案（Tata Projects）獲得兩份採購訂單，合同總金額約7.29億盧比（含稅），將供應FE-550D級熱軋帶肋鋼筋（TMT Steel）。公告顯示，相關鋼材將用於阿達尼集團USCTPP專案的3×800兆瓦電力機組建設。"
+    },
+    {
+      "id": "5096700",
+      "time": "2026-09-16 14:27:30",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "瑞銀分析師表示，無需對本次預期中的加息過度恐慌，歷史資料顯示，加息週期正式啟動後，股市往往具備較強韌性。"
+    },
+    {
+      "id": "mkt:01a0a8e6-10cc-7118-85ae-6527764fc8e7",
+      "time": "2026-09-16 14:27:24",
+      "tags": [
+        "MKT News",
+        "VJC.VN",
+        "Impact bullish"
+      ],
+      "text": "Documents show Vietjet Airlines is nearing agreement to lease 22 aircraft and has signed an in‑flight internet service contract with SpaceX."
+    },
+    {
+      "id": "mkt:01a0a8e5-c860-7118-85ae-59401b36230d",
+      "time": "2026-09-16 14:27:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Documents show US and Vietnamese companies are expected to announce 29 agreements in New York next week, covering energy, technology, aviation and finance; many are expected to be non-binding. Chevron, ExxonMobil, Citigroup and Qualcomm are among US firms expected to sign deals with Vietnamese partners."
+    },
     {
       "id": "5096699",
       "time": "2026-09-16 14:26:34",
