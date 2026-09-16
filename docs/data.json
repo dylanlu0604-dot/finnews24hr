@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-16 18:55:51",
-  "count": 13364,
+  "updated": "2026-09-16 18:59:41",
+  "count": 13361,
   "items": [
+    {
+      "id": "mkt:01a0a9de-49de-7118-85b6-88ed8114efce",
+      "time": "2026-09-16 18:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say PwC will cut bonuses at its Swiss unit to address AI-related and cost pressures."
+    },
+    {
+      "id": "mkt:01a0a9de-3e9a-7118-85b6-860382c13b05",
+      "time": "2026-09-16 18:58:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UK prime minister Burnham says ready to take tough decisions to keep economy stable】UK prime minister Burnham said on Wednesday he is prepared to take tough decisions after inflation rose to a five-month high of 3.1% in August, which he attributed to the Iran war. He said the increase was worrying but the broader economy remained resilient."
+    },
+    {
+      "id": "5097410",
+      "time": "2026-09-16 18:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "普華永道瑞士分部受人工智慧衝擊與收費壓力影響，擬削減獎金。"
+    },
+    {
+      "id": "5097409",
+      "time": "2026-09-16 18:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮表示堅定與華為聚力造好車】9月16日下午，尊界S800典藏大觀與尊界V800安徽首批交付儀式在尊界超級工廠體驗中心舉行。 江汽集團董事長項興初為不同領域的6位企業家車主交付新車，並表示：“今天的交付儀式不是終點，而是全新的起點，尊界在超豪華賽道的長期投入不會止步。後續我們還將持續加大產品矩陣佈局，覆蓋SUV、運動豪華等更多細分場景。我們將堅定跟華為、供應鏈夥伴一起造好車、賣好車、服務好車主，持續為大家帶來更多超出期待的產品。”"
+    },
+    {
+      "id": "5097408",
+      "time": "2026-09-16 18:56:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆玄科技：首次回購5萬股，支付人民幣466.98萬元】恆玄科技公告，公司此前擬以5000萬元~1億元回購股份，回購價格不超過人民幣150元/股，回購股份將用於員工持股計劃或股權激勵計劃。2026年9月16日，公司首次回購5萬股，佔總股本0.0211%，成交價格區間為92.21元/股~94.94元/股，支付資金總額為人民幣466.98萬元。"
+    },
+    {
+      "id": "5097406",
+      "time": "2026-09-16 18:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華伍股份：累計回購股份比例達1.27% 支付金額4326.98萬元】華伍股份公告稱，公司於2026年7月27日審議透過回購股份方案，擬使用不低於8000萬元且不超過1.50億元自有及/或自籌資金回購A股股份，用於員工持股計劃及/或股權激勵計劃，回購價格不超過12.00元/股，回購期限為董事會審議透過之日起不超過12個月。截至2026年9月15日，公司累計回購股份500萬股，佔總股本比例為1.2677%，成交最低價8.52元/股、最高價8.77元/股，成交總金額4326.98萬元（不含交易費）。後續公司將在回購期限內繼續推進回購計劃。"
+    },
     {
       "id": "mkt:01a0a9db-5d0a-7118-85b6-7b191e4695d7",
       "time": "2026-09-16 18:55:20",
@@ -123010,87 +123062,6 @@
         "國際"
       ],
       "text": "卡達強烈譴責伊朗再次襲擊約旦，此舉公然違反國際法、《聯合國憲章》以及睦鄰友好原則。"
-    },
-    {
-      "id": "5085034",
-      "time": "2026-09-09 18:58:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：09月09日18時51分在河南濟源市（北緯35.07度，東經112.24度）發生3.6級地震，震源深度9千米。"
-    },
-    {
-      "id": "5085033",
-      "time": "2026-09-09 18:58:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "DP World：與GulfCap Africa簽署股東協議，正式確立合資企業關係，共同推進規劃中的222公頃經濟特區專案。預計將創造超過2萬個直接及間接就業崗位；該專案開發預計還將為肯亞供應商和服務提供商創造機遇。"
-    },
-    {
-      "id": "mkt:01a085d1-28a8-7118-8505-edb745ce79aa",
-      "time": "2026-09-09 18:57:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Panama-flagged tanker struck by drone in Iraqi territorial waters】A Panama-flagged tanker was struck by a drone on the 9th in Iraqi territorial waters while in a ship-to-ship transfer zone, security and maritime sources said. The strike ignited a fire and caused partial hull damage; the vessel was carrying crude oil. There were no casualties. Rescue teams and maritime patrol forces have secured the ship and are assessing damage. An investigation is under way; Iraqi authorities have not commented."
-    },
-    {
-      "id": "5085032",
-      "time": "2026-09-09 18:57:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一艘懸掛巴拿馬國旗的油輪在伊拉克領海遭無人機襲擊】據伊拉克方面當地時間9日訊息，一艘懸掛巴拿馬國旗的外國油輪當天在伊拉克領海內遭無人機襲擊並被直接擊中。訊息援引安全和海事訊息人士的話稱，襲擊發生在船對船轉運作業區，導致油輪起火，部分船體受損。事發時，該油輪裝載有原油。訊息人士稱，船上無人員傷亡。訊息還稱，救援人員和有關海上巡邏力量已採取緊急措施，對油輪實施安全處置並評估損失情況。有關方面同時已展開調查，以查明襲擊具體情況並確定責任方。截至目前，伊拉克官方尚未對上述訊息發表評論。（央視新聞）"
-    },
-    {
-      "id": "5085031",
-      "time": "2026-09-09 18:57:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深華髮A：公司主營業務目前經營情況正常】深華髮A公告，公司股票連續3個交易日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司主營業務目前經營情況正常，未發現應披露而未披露的重大事項；公司2026年半年度淨利潤下降41.38%。"
-    },
-    {
-      "id": "mkt:01a085d0-3b99-7118-8505-e6fa6ab2e8eb",
-      "time": "2026-09-09 18:56:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UKMTO reports an incident about 28 nm southeast of Al Faw, Iraq: a tanker captain reported the vessel was attacked by an unidentified object. Crew reported safe; no environmental impact reported."
-    },
-    {
-      "id": "5085030",
-      "time": "2026-09-09 18:56:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上百名抗議者在以色列駐日本使館外要求驅逐候任以色列大使，以方迅速回應】近日，因不滿以色列在加沙地區對巴勒斯坦人持續做出的種種侵害行為，上百名抗議者冒雨來到位於東京的以色列駐日本大使館外，要求驅逐即將上任的以色列駐日本大使，並關閉以色列大使館。 以色列方面在當晚就作出了回應。正在候任的以色列駐日本大使埃馬紐埃爾·納馮，在一段發表在他官方社交賬號上的影片中強硬表示，指控以色列“屠殺”他人的說法都是“謊言”。他還宣稱沒有人可以抹除以色列的歷史和未來，並回應東京的抗議者說“你們越是高聲叫囂，我就會把我國的旗幟舉得越高。”（環球網）"
-    },
-    {
-      "id": "5085029",
-      "time": "2026-09-09 18:56:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國聯合海事協調中心（UKMTO）：有船舶報告遭射彈擊中，全體船員安全。"
-    },
-    {
-      "id": "5085028",
-      "time": "2026-09-09 18:56:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易組織：油輪船長報告船隻遭到炮彈襲擊。"
     }
   ]
 }
