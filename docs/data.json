@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-17 06:34:47",
-  "count": 13657,
+  "updated": "2026-09-17 06:38:32",
+  "count": 13659,
   "items": [
+    {
+      "id": "5098505",
+      "time": "2026-09-17 06:36:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4310美元/盎司，日內跌1.76%。"
+    },
+    {
+      "id": "5098504",
+      "time": "2026-09-17 06:36:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：黑石集團與布魯克菲爾德財團將競標 GFL。"
+    },
+    {
+      "id": "5098503",
+      "time": "2026-09-17 06:35:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4270美元/盎司，日內漲0.19%。"
+    },
+    {
+      "id": "5098502",
+      "time": "2026-09-17 06:35:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【產品端穩步創新，年內新發基金規模突破8000億元】今年以來，新發基金規模突破8000億元。從產品型別來看，權益類基金佔比過半，“固收+”和FOF產品持續“吸金”。從最新發展動向看，近期創新產品密集推出，首批創業板算力基礎設施ETF、首批創業板金融科技ETF、首批中證新能源金屬50 ETF等紛紛上報。（上證報）"
+    },
+    {
+      "id": "te:markets:584356",
+      "time": "2026-09-17 06:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.69% — Top commodity losers are Lithium Carbonate (-2.69%), Silver (-0.98%), Platinum (-0.88%) and Gold (-0.53%). Gains are led by Aluminum Alloy (1.01%)."
+    },
+    {
+      "id": "5098501",
+      "time": "2026-09-17 06:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "切爾西俱樂部宣佈所有權變更。"
+    },
     {
       "id": "mkt:01a0ac5b-44f0-7118-85ca-e5f677462052",
       "time": "2026-09-17 06:34:17",
@@ -126019,41 +126072,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rubber Gains by 2.94% — Top commodity gainers are Rubber (2.94%), Lumber (1.40%) and Sugar (1.32%). Biggest losers are Wheat (-2.60%) and Oat (-1.14%)."
-    },
-    {
-      "id": "5085890",
-      "time": "2026-09-10 06:38:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌黑石投資的CruxAI 資料中心專案延期】由谷歌、黑石投資支援的Crux AI獲得50億美元資金，受專案失敗、基礎設施短缺、得州凍結新建資料中心政策影響，其資料中心建設出現延期，凸顯AI行業高速擴張背後實體基礎設施約束愈發突出。Crux AI表示，2027年實現500兆瓦算力容量的目標仍在推進，但高管評估各專案按期交付機率目前僅約50%，而三年前該機率為90%。"
-    },
-    {
-      "id": "mkt:01a08850-703f-7118-8512-ffdcfa1c80be",
-      "time": "2026-09-10 06:36:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada to pitch C$ tens of billions in projects including data centers, LNG and battery plant】Canada will present 167 projects valued at several tens of billions of Canadian dollars to global institutional investors next week at a Canada Investment Summit hosted by CARNEY at the Four Seasons Toronto. The pipeline covers data centers, advanced manufacturing, LNG, port infrastructure and dozens of mining projects. Listed opportunities include minority-stake sales such as satellite operator Telesat Corp. and a multibillion-CAD Ontario battery factory backed by a Volkswagen unit."
-    },
-    {
-      "id": "5085889",
-      "time": "2026-09-10 06:35:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【事關金融強國建設，重要釋出會今天下午3時舉行】國務院新聞辦公室將於今天（10日）下午3時舉行“開局起步‘十五五’”系列主題新聞釋出會，請中國人民銀行副行長陸磊，金融監管總局副局長叢林，中國證監會副主席李超，國家外匯局新聞發言人、副局長李斌介紹金融領域貫徹落實“十五五”規劃、推動金融強國建設有關情況，並答記者問。（央視新聞）"
-    },
-    {
-      "id": "te:markets:582514",
-      "time": "2026-09-10 06:35:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 2.75% — Top commodity gainers are Platinum (2.75%), Silver (2.37%) and Gold (1.07%). Biggest losers are Iron Ore CNY (-0.87%), Steel Rebar (-0.74%) and Lithium Carbonate (-0.68%)."
     }
   ]
 }
