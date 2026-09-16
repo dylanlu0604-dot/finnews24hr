@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-16 13:30:23",
+  "updated": "2026-09-16 13:34:10",
   "count": 13418,
   "items": [
+    {
+      "id": "5096638",
+      "time": "2026-09-16 13:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，SK海力士正與英特爾洽談一項協議，計劃首次在美國本土生產記憶體晶片。"
+    },
+    {
+      "id": "mkt:01a0a8b2-9864-7118-85ac-3a56e864bd65",
+      "time": "2026-09-16 13:31:11",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Refinitiv sources say SK Hynix may lease part of Intel’s Ohio facilities and could form a joint venture with Intel and major cloud providers."
+    },
+    {
+      "id": "mkt:01a0a8b2-44ce-7118-85ac-315ff5cf8a90",
+      "time": "2026-09-16 13:30:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Refinitiv, citing sources, says SK Hynix is in talks with Intel on a deal to manufacture memory chips in the United States for the first time."
+    },
+    {
+      "id": "mkt:01a0a8b1-b767-7118-85ac-2dd0ddf760dc",
+      "time": "2026-09-16 13:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's state oil company said a US$3 rise in LNG prices could raise Thai electricity tariffs by about 5%."
+    },
+    {
+      "id": "te:markets:584092",
+      "time": "2026-09-16 13:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 1.06% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.06% increase."
+    },
     {
       "id": "mkt:01a0a8b0-1f41-7118-85ac-278011eb9f74",
       "time": "2026-09-16 13:28:29",
@@ -123602,46 +123652,6 @@
         "MKT News"
       ],
       "text": "【Houthi forces report 32 Saudi air strikes in Yemen's Marib, Jawf and Taiz】Houthi forces said on Sept 9 Saudi warplanes carried out 32 air strikes in several areas of Yemen's Marib, Jawf and Taiz provinces over the past several hours."
-    },
-    {
-      "id": "5084268",
-      "time": "2026-09-09 13:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱沙特空襲葉門多地】葉門胡塞武裝今天（9月9日）釋出訊息稱，沙特戰機過去數小時內對葉門馬裡卜省、焦夫省和塔伊茲省多個地區發動32次空襲。（CCTV國際時訊）"
-    },
-    {
-      "id": "5084267",
-      "time": "2026-09-09 13:32:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【數字媒體板塊持續走低，芒果超媒跌超9%】數字媒體板塊持續走低，芒果超媒跌超9%，凡拓數創、川網傳媒、視覺中國、值得買等跟跌。"
-    },
-    {
-      "id": "5084266",
-      "time": "2026-09-09 13:32:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Inditex 上半年息稅前利潤（EBIT）為 38.4 億歐元，預估為 39.2 億歐元。"
-    },
-    {
-      "id": "5084265",
-      "time": "2026-09-09 13:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯與印度將於 2026 年底簽署北方海路協議。"
-    },
-    {
-      "id": "5084264",
-      "time": "2026-09-09 13:30:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "歷峰集團任命安東·魯珀特（Anton Rupert）為非執行聯席副主席。"
     }
   ]
 }

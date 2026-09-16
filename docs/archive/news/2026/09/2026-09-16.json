@@ -1,7 +1,57 @@
 {
   "date": "2026-09-16",
-  "count": 1132,
+  "count": 1137,
   "items": [
+    {
+      "id": "5096638",
+      "time": "2026-09-16 13:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，SK海力士正與英特爾洽談一項協議，計劃首次在美國本土生產記憶體晶片。"
+    },
+    {
+      "id": "mkt:01a0a8b2-9864-7118-85ac-3a56e864bd65",
+      "time": "2026-09-16 13:31:11",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Refinitiv sources say SK Hynix may lease part of Intel’s Ohio facilities and could form a joint venture with Intel and major cloud providers."
+    },
+    {
+      "id": "mkt:01a0a8b2-44ce-7118-85ac-315ff5cf8a90",
+      "time": "2026-09-16 13:30:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Refinitiv, citing sources, says SK Hynix is in talks with Intel on a deal to manufacture memory chips in the United States for the first time."
+    },
+    {
+      "id": "mkt:01a0a8b1-b767-7118-85ac-2dd0ddf760dc",
+      "time": "2026-09-16 13:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's state oil company said a US$3 rise in LNG prices could raise Thai electricity tariffs by about 5%."
+    },
+    {
+      "id": "te:markets:584092",
+      "time": "2026-09-16 13:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 1.06% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.06% increase."
+    },
     {
       "id": "mkt:01a0a8b0-1f41-7118-85ac-278011eb9f74",
       "time": "2026-09-16 13:28:29",
