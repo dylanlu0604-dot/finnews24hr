@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-16 09:17:52",
-  "count": 13392,
+  "updated": "2026-09-16 09:21:35",
+  "count": 13388,
   "items": [
+    {
+      "id": "mkt:01a0a7cd-a332-7118-85a6-c2952600fab0",
+      "time": "2026-09-16 09:21:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong stocks opened higher. Hang Seng Index up 0.5%, Hang Seng Tech Index up 0.47%. Lenovo Group (00992.HK) up about 2%; Zhipu (02513.HK) down over 3%."
+    },
+    {
+      "id": "mkt:01a0a7cd-9e06-7118-85a6-ba49ca32ba3c",
+      "time": "2026-09-16 09:21:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "PBOC on Sep 16, 2026 conducted a 110 billion yuan 7-day reverse repo via a fixed-rate, quantity tender, fully meeting primary dealers’ demand, and executed 600 billion yuan of overnight reverse repos."
+    },
+    {
+      "id": "5096266",
+      "time": "2026-09-16 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.50%，恒生科技指數漲0.47%】聯想集團漲2.24%，舜宇光學科技漲1.79%，新東方-S漲1.64%，京東健康漲1.44%，中國生物製藥漲1.29%，老鋪黃金漲1.12%，蒙牛乳業漲1.11%。"
+    },
+    {
+      "id": "5096265",
+      "time": "2026-09-16 09:20:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：2026年9月16日中國人民銀行以固定利率、數量招標方式開展了1100億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了6000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a0a7cd-852a-7118-85a6-b4f9880a2a4b",
+      "time": "2026-09-16 09:20:59",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "At Wednesday open (Sept 16), Hong Kong stocks rose: the Hang Seng Index up 122.67 points (0.50%) to 24,789.91; Hang Seng Tech up 20.36 points (0.47%) to 4,311.70; Hang Seng China Enterprises Index (HSCEI) up 36.68 points (0.45%) to 8,241.59; Hang Seng Red Chip Index up 5.80 points (0.14%) to 4,074.39."
+    },
+    {
+      "id": "5096264",
+      "time": "2026-09-16 09:20:29",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【OpenAI執行長：AI行業有能力在不造成重大傷害的情況下安全發展】OpenAI執行長山姆·奧特曼表示，他相信人工智慧企業能夠在不對社會造成重大傷害的情況下安全推進技術發展，並對行業實現這一目標“非常有信心”。奧特曼表示，AI企業應當能夠自主推進模型能力提升並確保安全。他同時表示，對近期圍繞AI發展速度及監管必要性的討論方式感到失望。此前，Anthropic執行長達里奧·阿莫迪撰文警告AI潛在風險，並提出應放緩技術發展。OpenAI目前正與Anthropic及谷歌DeepMind合作處理AI安全問題。"
+    },
+    {
+      "id": "5096263",
+      "time": "2026-09-16 09:18:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報9870.00元。"
+    },
     {
       "id": "mkt:01a0a7c9-6e23-7118-85a6-ae93d44dc5d4",
       "time": "2026-09-16 09:16:30",
@@ -123377,116 +123446,6 @@
         "其他"
       ],
       "text": "央行：根據公開市場業務一級交易商的需求，2026年9月9日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:01a083c1-86fd-7118-84f8-04ff26fcd7d3",
-      "time": "2026-09-09 09:21:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "09626.HK",
-        "Impact bullish",
-        "00992.HK",
-        "03231.HK"
-      ],
-      "text": "Hong Kong open: Hang Seng +0.04%, Hang Seng Tech +0.10%. Bilibili (09626.HK) +2.7%, Lenovo Group (00992.HK) +1.88%. Youdi Robotics (03231.HK) jumped more than 142% at its IPO open."
-    },
-    {
-      "id": "5083947",
-      "time": "2026-09-09 09:21:29",
-      "tags": [],
-      "text": "港股恒指高開漲0.04％，國企指數跌0.03％，恒生科技指數漲0.1%。"
-    },
-    {
-      "id": "mkt:01a083c1-5371-7118-84f7-fe2ac4d4bcd4",
-      "time": "2026-09-09 09:21:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PBOC said the 7-day reverse repo operation on Sept 9, 2026 amounted to zero, citing demand from primary dealers in open market operations."
-    },
-    {
-      "id": "5083946",
-      "time": "2026-09-09 09:21:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股優地機器人上市首日開盤大漲超142%】港股優地機器人上市首日開盤漲142.21%，現報35.00元，該股發行價為14.45元。"
-    },
-    {
-      "id": "mkt:01a083c1-43cf-7118-84f7-f2da3a38191d",
-      "time": "2026-09-09 09:21:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan plans to issue 3 tln yen in short-term government bonds."
-    },
-    {
-      "id": "5083945",
-      "time": "2026-09-09 09:21:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼（Adani）旗下能源部門與 MSEDCL 簽署了為期 25 年的購電協議，將向MSEDCL供應 2500 兆瓦實時競價電力。"
-    },
-    {
-      "id": "mkt:01a083c0-f28e-7118-84f7-ed4e8220cdbb",
-      "time": "2026-09-09 09:20:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan's Ministry of Finance will auction ¥2.5 trillion of short-term Treasury bills on Sept. 16."
-    },
-    {
-      "id": "mkt:01a083c0-c930-7118-84f7-e06537a02e90",
-      "time": "2026-09-09 09:20:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US National Weather Service said from Wednesday through Friday local time at least 24 locations in California could record record-high overnight lows."
-    },
-    {
-      "id": "5083944",
-      "time": "2026-09-09 09:20:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米汽車：澎程N90 Max探索版屬小型專用客車，私家車使用者新車上牌前需上線檢測】9月8日，針對工信部公告中顯示小米澎程N90 Max探索版屬於“插電式增程混合動力文化生活服務車”，小米汽車發文解釋稱，這是依據國標要求在工信部公告中的標準名稱，車輛型別屬於小型專用客車。對於私家車使用者而言，實際使用中的差異只有新車註冊登記前需到機動車安全技術檢驗機構進行上線檢測，檢測內容涵蓋外觀、燈光、尾氣、剎車、座椅結構、輪胎尺寸、車輛長寬引數、稱重及環保等專案。上牌所需時間視現場情況而定，費用較小型普通客車增加了上線檢測費。至於其他方面與日常使用相關的政策要求，也均與小型普通客車一致。"
-    },
-    {
-      "id": "mkt:01a083c0-2a3d-7118-84f7-df2360edd76d",
-      "time": "2026-09-09 09:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China Aug CPI y/y due in 10 minutes."
-    },
-    {
-      "id": "mkt:01a083bf-22ea-7118-84f7-d6c8a865b6f0",
-      "time": "2026-09-09 09:18:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "MU.O",
-        "WDC.O"
-      ],
-      "text": "Kioxia denies any intention to cooperate with SK Hynix and commits to tempering chip price increases."
     }
   ]
 }
