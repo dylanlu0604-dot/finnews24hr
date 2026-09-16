@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-17 06:04:43",
+  "updated": "2026-09-17 06:08:33",
   "count": 13619,
   "items": [
+    {
+      "id": "5098472",
+      "time": "2026-09-17 06:07:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅已經啟動對人工智慧（AI）及相關硬體初創公司的投資。在Mercor最新一輪融資中按200億美元估值募資，阿波羅的出資規模處於100萬-1000萬美元區間的低端。阿波羅還投資SiFive和Hadrian。"
+    },
+    {
+      "id": "5098471",
+      "time": "2026-09-17 06:05:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月加息機率為49.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為50.2%，累計加息25個基點的機率為49.8%。美聯儲到12月維持利率不變的機率為11.3%，累計加息25個基點的機率為50.1%，累計加息50個基點的機率為38.6%。"
+    },
     {
       "id": "5098470",
       "time": "2026-09-17 06:03:04",
@@ -125682,31 +125699,6 @@
         "DXY"
       ],
       "text": "Iran's Press TV reported multiple explosions at Saudi King Fahd Air Base."
-    },
-    {
-      "id": "mkt:01a08836-5620-7118-8512-d5b35bd410df",
-      "time": "2026-09-10 06:07:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "REUTERS SURVEY — 74% of economists say Japan's total budget requests for fiscal 2027 have heightened market concerns about fiscal discipline."
-    },
-    {
-      "id": "mkt:01a08834-4a6c-7118-8512-cf8a8c8bd2c7",
-      "time": "2026-09-10 06:05:23",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Reuters survey: 62% of economists expect the Bank of Japan to raise its policy rate to at least 1.75% by Q2 2027; a prior survey had expected a terminal rate of 1.50%."
     }
   ]
 }
