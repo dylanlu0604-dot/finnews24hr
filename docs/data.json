@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-17 03:36:26",
-  "count": 13625,
+  "updated": "2026-09-17 03:40:18",
+  "count": 13626,
   "items": [
+    {
+      "id": "mkt:01a0abbb-5317-7118-85c8-5d370292d37d",
+      "time": "2026-09-17 03:39:35",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "BX.O"
+      ],
+      "text": "Syndicate raises $22 billion to fund a chip loan linked to Blackstone and Alphabet."
+    },
+    {
+      "id": "mkt:01a0abba-261c-7118-85c8-5052347f2750",
+      "time": "2026-09-17 03:38:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【White House calls Fed rate hike \"regrettable\"】White House spokesman Kush Desai called the Fed's rate increase \"regrettable,\" saying the president has been clear on his preferred rate path and that, from the government's perspective, the decision lacks particularly persuasive economic justification. Desai added \"this is not the Biden era,\" arguing the president and Republicans did not deploy the trillions in COVID-era stimulus that Democrats and Joe Biden did and therefore there is no runaway aggregate demand that would need to be reined in by higher rates."
+    },
+    {
+      "id": "5098361",
+      "time": "2026-09-17 03:38:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "多家銀行籌備總額 220 億美元的晶片行業貸款，該筆貸款與黑石集團、 Alphabet 相關。"
+    },
+    {
+      "id": "5098360",
+      "time": "2026-09-17 03:37:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價16日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌3.40美元，收於每桶102.43美元，跌幅為3.21%；11月交貨的倫敦布倫特原油期貨價格下跌2.92美元，收於每桶105.83美元，跌幅為2.69%。"
+    },
     {
       "id": "te:economy:584343",
       "time": "2026-09-17 03:34:37",
@@ -125702,40 +125738,6 @@
         "國際"
       ],
       "text": "【特朗普登機前空軍一號放下應急滑梯】特朗普是在安德魯斯聯合基地準備搭乘“空軍一號”專機前往達拉斯參加共和黨中期選舉集會時對媒體發表講話。據美國媒體報道，特朗普抵達時，“空軍一號”的應急滑梯因“測試”處於放下的狀態，導致特朗普的行程延誤。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5085750",
-      "time": "2026-09-10 03:39:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗戰爭中期選舉後結束】美國總統特朗普當地時間9月9日下午對媒體表示，他預計對伊朗的戰事將於今年11月美國中期選舉後結束。特朗普在回答記者提問時說：“我們不尋求（與伊朗談判），選舉一結束，這場戰爭立馬就會終結。因為他們撐不下去了。他們現在拼命想影響選舉結果，好讓我們選出一群軟弱無能的人上臺，然後對他們放任不管，讓他們擁有核武器。”"
-    },
-    {
-      "id": "mkt:01a087ad-80aa-7118-8510-ccee2ac8d1ac",
-      "time": "2026-09-10 03:38:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple fall event: foldable iPhone from 15,999 yuan; iPhone 18 Pro gets 2nm A20 Pro chip】Apple introduced iPhone 18 Pro/Pro Max and a foldable iPhone Duo. iPhone 18 Pro series features the A20 Pro chip on a 2nm process and a new-generation C2 modem; Pro adds a variable-aperture main camera and enhanced video functions; Pro charges to up to 50% in ~15 minutes; Pro Max video playback up to 43 hours. Pricing: iPhone 18 Pro from 9,999 yuan, Pro Max from 10,999 yuan. Preorders Sept. 12; on sale Sept. 18. The foldable iPhone Duo uses the A20 Pro, has a 7.6-inch inner nano-texture display (and a 5.4-inch outer screen), both with ProMotion, always-on display and up to 3,000 nits outdoor brightness. Camera system: dual 48MP main and ultra-wide, fold design supports rear-camera selfies and outer-screen live preview; inner screen uses an under‑display FaceTime camera. Battery: outer-screen playback up to 44 hours, inner-screen up to 31 hours. Hardware: titanium body, IP68, side-mounted Touch ID, 254g weight, Apple Pencil support, eSIM only. Price starts at 15,999 yuan. Preorders Oct. 16; on sale Oct. 23. Other products: AirPods 5 claims up to 50% noise reduction versus AirPods 4 (base 999 yuan; wireless charging 1,149 yuan). Apple Watch Series 12 from 2,999 yuan and Ultra 4 from 6,499 yuan, with always-on Siri, Audio Intelligence and Live Rewind. No standard iPhone 18 was announced. Apple’s online store shows iPhone 17, 17e and Air configurations are listed about 800 yuan higher than their original launch prices."
-    },
-    {
-      "id": "te:markets:582502",
-      "time": "2026-09-10 03:37:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "IBM Stock Price Hits 4-week High — IBM shares increased to 241.20 USD, the highest since August 2026. Over the past 4 weeks, IBM gained 1.82%, and in the last 12 months, it decreased 6.34%."
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "date": "2026-09-17",
-  "count": 482,
+  "count": 486,
   "items": [
+    {
+      "id": "mkt:01a0abbb-5317-7118-85c8-5d370292d37d",
+      "time": "2026-09-17 03:39:35",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "BX.O"
+      ],
+      "text": "Syndicate raises $22 billion to fund a chip loan linked to Blackstone and Alphabet."
+    },
+    {
+      "id": "mkt:01a0abba-261c-7118-85c8-5052347f2750",
+      "time": "2026-09-17 03:38:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【White House calls Fed rate hike \"regrettable\"】White House spokesman Kush Desai called the Fed's rate increase \"regrettable,\" saying the president has been clear on his preferred rate path and that, from the government's perspective, the decision lacks particularly persuasive economic justification. Desai added \"this is not the Biden era,\" arguing the president and Republicans did not deploy the trillions in COVID-era stimulus that Democrats and Joe Biden did and therefore there is no runaway aggregate demand that would need to be reined in by higher rates."
+    },
+    {
+      "id": "5098361",
+      "time": "2026-09-17 03:38:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "多家銀行籌備總額 220 億美元的晶片行業貸款，該筆貸款與黑石集團、 Alphabet 相關。"
+    },
+    {
+      "id": "5098360",
+      "time": "2026-09-17 03:37:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價16日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌3.40美元，收於每桶102.43美元，跌幅為3.21%；11月交貨的倫敦布倫特原油期貨價格下跌2.92美元，收於每桶105.83美元，跌幅為2.69%。"
+    },
     {
       "id": "te:economy:584343",
       "time": "2026-09-17 03:34:37",
