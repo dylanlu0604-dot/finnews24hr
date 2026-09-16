@@ -1,7 +1,62 @@
 {
   "date": "2026-09-17",
-  "count": 635,
+  "count": 641,
   "items": [
+    {
+      "id": "te:markets:584354",
+      "time": "2026-09-17 06:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 1.09% — Top currency losers are South Korean Won (-1.09%), Polish Zloty (-1.09%), Norwegian Krone (-0.95%), Japanese Yen (-0.78%), British Pound (-0.75%) and Euro (-0.69%). Gains are led by Dollar Index (0.71%)."
+    },
+    {
+      "id": "5098479",
+      "time": "2026-09-17 06:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國正追蹤全球近20艘船舶的網路威脅】據熟悉情況的美國官員透露，美國政府機構正在追蹤針對全球近20艘船舶的網路威脅。三位不願具名的人士表示，海岸警衛隊已要求，若其中任何船舶計劃進入美國港口，需提前通知。這些船舶的具體目的地和貨物清單目前尚不清楚。聯邦網路安全和基礎設施安全域性（CISA）的一名官員表示，8月下旬有多艘商船成為潛在網路攻擊的目標，並指出駭客似乎並未實際控制被攻擊的船舶。一名國土安全部官員稱，海岸警衛隊目前正與聯邦調查局（FBI）和國土安全部下屬部門共同追蹤這些船舶。"
+    },
+    {
+      "id": "5098478",
+      "time": "2026-09-17 06:14:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1286.62美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ac48-9dc3-7118-85ca-799138f58dcf",
+      "time": "2026-09-17 06:13:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Heeney Capital signed a gold-mining agreement to develop a large gold project in Venezuela's El Callao region."
+    },
+    {
+      "id": "5098477",
+      "time": "2026-09-17 06:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI將向美國政府提出AI安全通報機制建議。"
+    },
+    {
+      "id": "5098476",
+      "time": "2026-09-17 06:12:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：模型失配案例包括在公開程式碼庫搜尋洩露的 API 金鑰、編造資訊，以及將檔案上傳至網際網路以便引用。"
+    },
     {
       "id": "mkt:01a0ac45-0d93-7118-85ca-75611211a865",
       "time": "2026-09-17 06:10:01",
