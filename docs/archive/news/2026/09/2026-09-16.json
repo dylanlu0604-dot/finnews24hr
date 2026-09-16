@@ -1,7 +1,47 @@
 {
   "date": "2026-09-16",
-  "count": 1137,
+  "count": 1141,
   "items": [
+    {
+      "id": "5096640",
+      "time": "2026-09-16 13:36:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺交所加權股價指數收高0.7%報45,848.90點。"
+    },
+    {
+      "id": "mkt:01a0a8b6-415a-7118-85ac-4eca5b53f37e",
+      "time": "2026-09-16 13:35:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed up 337.41 points (+0.74%) at 45,848.9 on Wednesday, Sept. 16."
+    },
+    {
+      "id": "mkt:01a0a8b5-c5c9-7118-85ac-44d4e76d5ae8",
+      "time": "2026-09-16 13:34:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【SK Hynix in talks with Intel to produce memory chips in US for first time】Reuters sources say SK Hynix is in exploratory talks with Intel to manufacture memory chips in the US for the first time. Options include leasing part of Intel’s planned Ohio fab or forming a joint venture with Intel and major cloud service providers seeking to secure memory supply. The deal would ease pressure on Intel and represent a win for the Trump administration, but potential pushback from South Korea over sensitive technology is a key obstacle. No decision has been made and it is unclear which SK Hynix products—DRAM for servers/PCs/phones, NAND, or high-bandwidth memory (HBM) for AI processors—would be produced in Ohio."
+    },
+    {
+      "id": "5096639",
+      "time": "2026-09-16 13:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念持續走強 成都先導、近岸蛋白漲超10%】CRO概念持續走強，截至發稿，成都先導、近岸蛋白漲超10%，美迪西、泓博醫藥等跟漲。"
+    },
     {
       "id": "5096638",
       "time": "2026-09-16 13:31:41",

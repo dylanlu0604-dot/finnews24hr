@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-16 13:34:10",
-  "count": 13418,
+  "updated": "2026-09-16 13:37:58",
+  "count": 13408,
   "items": [
+    {
+      "id": "5096640",
+      "time": "2026-09-16 13:36:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺交所加權股價指數收高0.7%報45,848.90點。"
+    },
+    {
+      "id": "mkt:01a0a8b6-415a-7118-85ac-4eca5b53f37e",
+      "time": "2026-09-16 13:35:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed up 337.41 points (+0.74%) at 45,848.9 on Wednesday, Sept. 16."
+    },
+    {
+      "id": "mkt:01a0a8b5-c5c9-7118-85ac-44d4e76d5ae8",
+      "time": "2026-09-16 13:34:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【SK Hynix in talks with Intel to produce memory chips in US for first time】Reuters sources say SK Hynix is in exploratory talks with Intel to manufacture memory chips in the US for the first time. Options include leasing part of Intel’s planned Ohio fab or forming a joint venture with Intel and major cloud service providers seeking to secure memory supply. The deal would ease pressure on Intel and represent a win for the Trump administration, but potential pushback from South Korea over sensitive technology is a key obstacle. No decision has been made and it is unclear which SK Hynix products—DRAM for servers/PCs/phones, NAND, or high-bandwidth memory (HBM) for AI processors—would be produced in Ohio."
+    },
+    {
+      "id": "5096639",
+      "time": "2026-09-16 13:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念持續走強 成都先導、近岸蛋白漲超10%】CRO概念持續走強，截至發稿，成都先導、近岸蛋白漲超10%，美迪西、泓博醫藥等跟漲。"
+    },
     {
       "id": "5096638",
       "time": "2026-09-16 13:31:41",
@@ -123537,121 +123577,6 @@
         "Importance 1"
       ],
       "text": "Estonia Trade Deficit Narrows Slightly in July — Estonia’s trade deficit narrowed slightly to EUR 430 million in July 2026 from EUR 444 million in July 2025. Year-on-year, exports climbed 3% to EUR 1,457 million, driven by higher shipments to non-EU countries (+13%), while exports to EU countries were unchanged. Export growth was led by optical, measuring, and precision instruments (+15%), machinery and mechanical appliances (+13%), raw materials and products of the chemical industry (+13%), and miscellaneous manufactured articles (+11%). Meanwhile, imports increased 2% to EUR 1,886 million, supported by higher purchases from EU countries (+3%) and non-EU countries (+4%). Import growth was driven by wood and articles of wood (+17%), optical, measuring, and precision instruments (+13%), base metals and articles of base metals (+12%), and raw materials and products of the chemical industry (+10%). In January-July, the country recorded a trade deficit of EUR 2,324 million, compared with EUR 2,351 million in the same period of 2025."
-    },
-    {
-      "id": "5084275",
-      "time": "2026-09-09 13:37:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體、通訊、人工智慧等多隻科技ETF午後翻綠】多隻半導體ETF、科創半導體ETF、人工智慧ETF 、通訊ETF等科技類ETF午後翻綠，早盤曾一度走強。"
-    },
-    {
-      "id": "5084274",
-      "time": "2026-09-09 13:37:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞爾維亞總統表示，將於今日確定 10 月 25 日為選舉日。"
-    },
-    {
-      "id": "5084273",
-      "time": "2026-09-09 13:37:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4390美元/盎司，日內漲0.81%。"
-    },
-    {
-      "id": "5084272",
-      "time": "2026-09-09 13:36:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以官員：已通知英方其駐耶路撒冷領事館必須關閉】據路透社9日訊息，一名以色列官員和一名知情人士透露，以色列已通知英方，英國駐耶路撒冷領事館必須關閉，該領事館的外交官將在30天內失去認證資格。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a084ab-51a9-7118-84fe-098817679da3",
-      "time": "2026-09-09 13:36:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel tells UK its consulate in Jerusalem must close】Reuters on the 9th cited an Israeli official and an informed source saying Israel has notified the UK that its consulate in Jerusalem must close and that the consulate’s diplomats will lose accreditation within 30 days."
-    },
-    {
-      "id": "mkt:01a084aa-ac28-7118-84fe-07d6e6f2c628",
-      "time": "2026-09-09 13:36:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said units from its Southern Command remain deployed in the area under the agreement and will continue operations to eliminate all threats."
-    },
-    {
-      "id": "mkt:01a084aa-89be-7118-84fd-fe3500a55988",
-      "time": "2026-09-09 13:36:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it will continue decisive operations to degrade terrorist groups' capabilities in the Gaza Strip and to thwart any attempts to rebuild capabilities or use weapons intended to harm IDF soldiers."
-    },
-    {
-      "id": "mkt:01a084aa-29f2-7118-84fd-f50c90ef67fb",
-      "time": "2026-09-09 13:35:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan's TAIEX closed up 77.58 points, or 0.16%, at 47,183.36 on Sep 9."
-    },
-    {
-      "id": "mkt:01a084aa-2601-7118-84fd-ea42f0c2ab89",
-      "time": "2026-09-09 13:35:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said yesterday (Tuesday) it and the Israel Security Agency carried out precision strikes in multiple areas of the Gaza Strip."
-    },
-    {
-      "id": "mkt:01a084a9-d7a9-7118-84fd-e1f6fcc2a534",
-      "time": "2026-09-09 13:35:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces and the Shin Bet dismantled three weapons storage facilities and one rocket-launch pit that had been used to fire rockets into Israeli territory during the war."
-    },
-    {
-      "id": "5084271",
-      "time": "2026-09-09 13:35:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高0.2%報47,183.36。"
-    },
-    {
-      "id": "5084270",
-      "time": "2026-09-09 13:35:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【階躍星辰入股芯紀微半導體公司】企查查APP顯示，芯紀微（上海）半導體有限公司近日發生工商變更，新增上海階躍星辰智慧科技股份有限公司為股東，同時註冊資本增至111.11萬元。企查查資訊顯示，該公司成立於2026年6月，經營範圍包含：積體電路晶片設計及服務；半導體器件專用裝置製造；軟體開發；積體電路設計等。"
-    },
-    {
-      "id": "5084269",
-      "time": "2026-09-09 13:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最新PISA測評結果公佈 中國內地學生表現居前列】經濟合作與發展組織（經合組織）當地時間8日釋出2025年國際學生評估專案（PISA）結果。中國北京、上海、江蘇和浙江四省市與新加坡學生在科學、數學和閱讀三大領域的綜合表現處於所有參測國家和經濟體最高水平。此次評估共有來自91個國家和經濟體的超過76萬名15歲學生參加，代表全球約3300萬名同齡學生。報告顯示，在首次引入的計算思維問題解決能力評估中，中國澳門學生平均得分572分，新加坡為563分，北京、上海、江蘇和浙江為560分，均高於經合組織國家500分的平均水平。"
-    },
-    {
-      "id": "mkt:01a084a9-2cfb-7118-84fd-dd5cfb580a6d",
-      "time": "2026-09-09 13:34:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Houthi forces report 32 Saudi air strikes in Yemen's Marib, Jawf and Taiz】Houthi forces said on Sept 9 Saudi warplanes carried out 32 air strikes in several areas of Yemen's Marib, Jawf and Taiz provinces over the past several hours."
     }
   ]
 }
