@@ -1,7 +1,133 @@
 {
   "date": "2026-09-16",
-  "count": 786,
+  "count": 800,
   "items": [
+    {
+      "id": "mkt:01a0a7fa-0d5a-7118-85a8-6789be434f8f",
+      "time": "2026-09-16 10:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hefeng Co. says full-year hog marketings likely to exceed target】At its Sept. 16, 2026 interim results briefing, Hefeng Co. said its full-year hog marketing target set at the start of the year was 2.5–2.7 mln head. H1 marketings totaled 1.36 mln head. The company said H2 will proceed per the existing production plan and it is highly likely to exceed the full-year target."
+    },
+    {
+      "id": "mkt:01a0a7f9-e8d1-7118-85a8-58ea15ffd02a",
+      "time": "2026-09-16 10:09:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 Index rose over 2%; Zhongke Feice led constituents, gaining more than 6%."
+    },
+    {
+      "id": "mkt:01a0a7f9-9110-7118-85a8-554a67549c2e",
+      "time": "2026-09-16 10:09:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor materials sector extended gains. Youyan Silicon neared its daily limit-up; Zhongjing Technology posted a second consecutive limit-up. Youyan New Materials, Zhenbao Technology, Shanghai Hejing, Tianyue Advanced and Xiandao Jidian also climbed."
+    },
+    {
+      "id": "mkt:01a0a7f9-2e3c-7118-85a8-4b530714c297",
+      "time": "2026-09-16 10:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Justice has reviewed 37 legislative items so far this year】China's Ministry of Justice said on Sept. 16 it has completed review of 37 legislative items so far this year. Key actions: a draft Financial Law and a Road Traffic Safety Law have been submitted to the NPC Standing Committee for review; regulations on integrated-circuit layout-design protection, Housing Provident Fund management, and implementation rules for the Mineral Resources Law have come into force."
+    },
+    {
+      "id": "5096367",
+      "time": "2026-09-16 10:08:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2％，成分股中，中科飛測漲6.52％，屹唐股份漲5.91％，華豐科技漲5.89％，滬矽產業漲5.47％。"
+    },
+    {
+      "id": "mkt:01a0a7f9-0d0a-7118-85a8-4667b856904a",
+      "time": "2026-09-16 10:08:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "00100.HK",
+        "Impact bullish",
+        "02513.HK",
+        "06869.HK"
+      ],
+      "text": "Hong Kong AI-related stocks outperformed: MINIMAX-W (00100.HK) and Zhipu (02513.HK) rose over 5%, Yangtze Optical Fibre and Cable (06869.HK) climbed more than 4% and SMIC (00981.HK) was up over 2%."
+    },
+    {
+      "id": "5096366",
+      "time": "2026-09-16 10:08:18",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【今年以來司法部已審查完成37件立法專案】司法部副部長李明徵9月16日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來，司法部已審查完成37件立法專案，金融法、道路交通安全法等重要法律案提請全國人大常委會會議審議，積體電路布圖設計保護條例、住房公積金管理條例、礦產資源法實施條例等重要法規施行，政府立法服務保障大局的精準性、有效性進一步提升，以良法推動改革、促進發展、保障善治的實踐成效日益凸顯。(新華社)"
+    },
+    {
+      "id": "5096365",
+      "time": "2026-09-16 10:08:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內漲5%，現報8896.00元。"
+    },
+    {
+      "id": "mkt:01a0a7f8-8887-7118-85a8-39c7c25645ff",
+      "time": "2026-09-16 10:07:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Indonesian rupiah weakened to 17,740 per U.S. dollar, its weakest level since Sept. 2."
+    },
+    {
+      "id": "5096364",
+      "time": "2026-09-16 10:07:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元<IDR=>跌至17,740，為9月2日以來最低水平。"
+    },
+    {
+      "id": "5096363",
+      "time": "2026-09-16 10:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾豐股份：全年生豬出欄目標大機率將超額完成】禾豐股份(603609)在9月16日舉行的2026年半年度業績說明會上表示，公司生豬業務年初制定的全年出欄目標為250萬—270萬頭。上半年公司生豬合計出欄136萬頭，下半年將按原定生產計劃有序推進，全年出欄目標大機率將超額完成。"
+    },
+    {
+      "id": "5096362",
+      "time": "2026-09-16 10:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光啟技術：公司無人機業務已從技術驗證階段進入商業化階段】光啟技術(002625)9月15日接受機構調研時表示，公司最終客戶高度重視我國無人化、智慧化裝備的發展，公司無人機業務已經從技術驗證階段進入商業化階段。公司近期參加了某客戶組織的技術、場景測試演訓，相關科目已順利完成，產品表現獲得客戶認可與肯定，目前正根據演訓結果反饋開展效能最佳化與新品研製工作，積極匹配客戶後續任務需求。無人艇方面公司今年已與某合作方開展聯合研製工作。另外公司在無人機反制、低空安全領域也和科研院所開展了合作，相關業務正在推進中。"
+    },
+    {
+      "id": "5096361",
+      "time": "2026-09-16 10:06:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體材料板塊震盪走強 有研矽漲超10%】半導體材料板塊盤中震盪走強，有研矽漲超10%，此前中晶科技2連板，天嶽先進、上海合晶、有研新材、先導基電、神工股份跟漲。"
+    },
     {
       "id": "5096360",
       "time": "2026-09-16 10:05:26",
@@ -23,6 +149,14 @@
         "Impact bearish"
       ],
       "text": "【Asian currencies broadly weaker ahead of Fed decision】Asian currencies were broadly softer in Asian morning trade ahead of the Federal Reserve's policy decision later today. Fed funds futures imply roughly a 92% probability of a 25bp hike — which would be the first increase since 2023 — and markets will focus on Fed Chair Kevin Warsh's press conference and updated economic projections. LSEG data showed USD/JPY up 0.2% at 155.43, USD/KRW up 0.6% at 1370.92, and AUD/USD down 0.1% at 0.7125."
+    },
+    {
+      "id": "5096359",
+      "time": "2026-09-16 10:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈囉Robotaxi完成約1億美金新一輪融資】近日，上海造父智慧科技有限公司（哈囉Robotaxi業務）完成約1億美金新一輪融資。本輪融資由上海國投先導基金領投，閔金投、創世夥伴創投跟投。融資完成後，公司估值接近30億美元。本輪資金將主要用於持續的研發投入——重點佈局萬卡叢集算力平臺、AI大模型端到端技術迭代，以及高質量資料供應鏈體系建設。"
     },
     {
       "id": "mkt:01a0a7f5-21b0-7118-85a8-2a6230bbf480",
