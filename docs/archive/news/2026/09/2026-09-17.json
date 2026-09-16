@@ -1,7 +1,2531 @@
 {
   "date": "2026-09-17",
-  "count": 19,
+  "count": 277,
   "items": [
+    {
+      "id": "5098237",
+      "time": "2026-09-17 02:37:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲在當前經濟持續發展程序中扮演著重要角色。"
+    },
+    {
+      "id": "5098236",
+      "time": "2026-09-17 02:37:48",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：委員會一致投票顯示我們實現價格穩定的決心。"
+    },
+    {
+      "id": "mkt:01a0ab82-acdd-7118-85c5-b4e73cdd7500",
+      "time": "2026-09-17 02:37:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kevin Warsh said the FOMC is not confident that inf is moving toward its target."
+    },
+    {
+      "id": "5098235",
+      "time": "2026-09-17 02:37:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數回吐漲幅，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:01a0ab82-6ac4-7118-85c5-ac8dcbcbc4a2",
+      "time": "2026-09-17 02:37:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said at the July meeting members unanimously agreed inf remained too high and were willing to act."
+    },
+    {
+      "id": "5098234",
+      "time": "2026-09-17 02:37:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：737 MAX 10的適航認證即將獲批。"
+    },
+    {
+      "id": "mkt:01a0ab82-5b74-7118-85c5-a244f70b456a",
+      "time": "2026-09-17 02:37:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will focus on the inflation side of the Federal Reserve's mandate."
+    },
+    {
+      "id": "5098233",
+      "time": "2026-09-17 02:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元跌至1.3397，創7月30日以來最低。"
+    },
+    {
+      "id": "5098232",
+      "time": "2026-09-17 02:37:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4270美元/盎司，日內跌0.63%。"
+    },
+    {
+      "id": "5098231",
+      "time": "2026-09-17 02:37:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我未提交點陣圖。"
+    },
+    {
+      "id": "5098230",
+      "time": "2026-09-17 02:36:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4310美元/盎司，日內跌0.55%。"
+    },
+    {
+      "id": "5098229",
+      "time": "2026-09-17 02:36:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：FOMC並不確信通脹正在向目標水平回落。"
+    },
+    {
+      "id": "mkt:01a0ab81-9176-7118-85c5-9cf00907ed52",
+      "time": "2026-09-17 02:36:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh did not submit a dot plot."
+    },
+    {
+      "id": "5098227",
+      "time": "2026-09-17 02:36:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們必須確信基礎通脹正及時向2%目標靠攏，聯邦公開市場委員會認為這一條件尚未滿足。"
+    },
+    {
+      "id": "mkt:01a0ab81-07a6-7118-85c5-953b2b4351b9",
+      "time": "2026-09-17 02:35:55",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 gave back gains and hit an intraday low."
+    },
+    {
+      "id": "5098226",
+      "time": "2026-09-17 02:35:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲0.5%至155.88。"
+    },
+    {
+      "id": "5098225",
+      "time": "2026-09-17 02:35:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率升至日內高點。"
+    },
+    {
+      "id": "5098224",
+      "time": "2026-09-17 02:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉跌。"
+    },
+    {
+      "id": "5098223",
+      "time": "2026-09-17 02:35:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們在7月共同表態已做好行動準備（加息）。"
+    },
+    {
+      "id": "mkt:01a0ab80-9e58-7118-85c5-8f1ba2f6be37",
+      "time": "2026-09-17 02:35:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the condition of the labor market is a signal of strength."
+    },
+    {
+      "id": "mkt:01a0ab80-81cb-7118-85c5-8559e1d8a506",
+      "time": "2026-09-17 02:35:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said credit flows remain strong."
+    },
+    {
+      "id": "mkt:01a0ab80-7c68-7118-85c5-79f7deb455d3",
+      "time": "2026-09-17 02:35:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said inf is too high and has persisted too long."
+    },
+    {
+      "id": "mkt:01a0ab80-7b7e-7118-85c5-775d9777ba91",
+      "time": "2026-09-17 02:35:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said summer data do not indicate that inf has improved."
+    },
+    {
+      "id": "5098222",
+      "time": "2026-09-17 02:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元跌至1.3397，創7月30日以來新低。"
+    },
+    {
+      "id": "5098221",
+      "time": "2026-09-17 02:35:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：按6個月和12個月兩個週期計算，有太多分類項的漲幅超過了3%。"
+    },
+    {
+      "id": "5098220",
+      "time": "2026-09-17 02:34:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲職責中的就業方面狀況良好。"
+    },
+    {
+      "id": "te:markets:584318",
+      "time": "2026-09-17 02:34:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Stock Price Hits 15-week Low — CVS Health shares decreased to 92.35 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 1.71%, and in the last 12 months, it increased 24.86%."
+    },
+    {
+      "id": "5098219",
+      "time": "2026-09-17 02:34:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：仍有太多通脹類別的漲幅超過3%。"
+    },
+    {
+      "id": "mkt:01a0ab7f-df8d-7118-85c5-6fb5f588bf21",
+      "time": "2026-09-17 02:34:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the unemployment rate remains low, job openings and hours worked are rising, and the economy is resilient."
+    },
+    {
+      "id": "mkt:01a0ab7f-bf96-7118-85c5-612ac59a031f",
+      "time": "2026-09-17 02:34:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "After a speech by Fed chair Kevin Warsh, spot gold fell $35, slipping below $4,290/oz."
+    },
+    {
+      "id": "mkt:01a0ab7f-b0df-7118-85c5-5b05cf5c2209",
+      "time": "2026-09-17 02:34:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. two-year Treasury yield hit an intraday high after Federal Reserve Chair Kevin Warsh commented on interest rates."
+    },
+    {
+      "id": "5098215",
+      "time": "2026-09-17 02:34:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：夏季資料並未顯示通脹狀況有所改善。"
+    },
+    {
+      "id": "mkt:01a0ab7f-8885-7118-85c5-543b5d7a0ff9",
+      "time": "2026-09-17 02:34:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the employment side of the Fed's mandate is currently in good shape."
+    },
+    {
+      "id": "5098214",
+      "time": "2026-09-17 02:34:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：一個顯而易見的事實是，通脹過高且持續時間過長。"
+    },
+    {
+      "id": "mkt:01a0ab7f-6893-7118-85c5-4a9090fc0f4d",
+      "time": "2026-09-17 02:34:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kevin Warsh, chair of the Federal Reserve, said the Fed’s primary focus is inf."
+    },
+    {
+      "id": "mkt:01a0ab7f-67ae-7118-85c5-417e949afadd",
+      "time": "2026-09-17 02:34:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said it is difficult to characterize overall financial conditions as restrictive."
+    },
+    {
+      "id": "5098212",
+      "time": "2026-09-17 02:34:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們的主要關注點是通脹。"
+    },
+    {
+      "id": "5098211",
+      "time": "2026-09-17 02:33:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率升至日內高點，此前沃什就利率問題發表評論。"
+    },
+    {
+      "id": "mkt:01a0ab7f-24da-7118-85c5-3e2a4cccdfd3",
+      "time": "2026-09-17 02:33:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed chair Kevin Warsh said the current FOMC will achieve its price-stability objective."
+    },
+    {
+      "id": "5098210",
+      "time": "2026-09-17 02:33:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數迅速回吐漲幅，觸及盤中低點。"
+    },
+    {
+      "id": "5098209",
+      "time": "2026-09-17 02:33:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：很難說金融環境具有限制性。"
+    },
+    {
+      "id": "mkt:01a0ab7e-edc2-7118-85c5-37208a33230d",
+      "time": "2026-09-17 02:33:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said financial conditions are not restrictive; that view is widely shared within the FOMC."
+    },
+    {
+      "id": "5098208",
+      "time": "2026-09-17 02:33:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：經濟具有韌性。"
+    },
+    {
+      "id": "5098207",
+      "time": "2026-09-17 02:33:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：關於當前金融環境並非限制性的觀點，在聯邦公開市場委員會內部獲得廣泛認同。"
+    },
+    {
+      "id": "te:markets:584317",
+      "time": "2026-09-17 02:33:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 4-week Low — AUDUSD decreased to 0.71, the lowest since August 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 0.02%, and in the last 12 months, it increased 6.84%."
+    },
+    {
+      "id": "mkt:01a0ab7e-60a3-7118-85c5-2a13df1d4e85",
+      "time": "2026-09-17 02:33:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH said economic activity is expanding at a solid pace."
+    },
+    {
+      "id": "5098206",
+      "time": "2026-09-17 02:32:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：委員會將實現價格穩定。"
+    },
+    {
+      "id": "mkt:01a0ab7e-2fc6-7118-85c5-25d2d1280192",
+      "time": "2026-09-17 02:32:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said key indicators have improved in recent months."
+    },
+    {
+      "id": "mkt:01a0ab7e-02a7-7118-85c5-1808012a7499",
+      "time": "2026-09-17 02:32:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said the decision was made as the economy appeared to be strengthening."
+    },
+    {
+      "id": "5098204",
+      "time": "2026-09-17 02:32:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美國經濟似乎正在走強。"
+    },
+    {
+      "id": "5098203",
+      "time": "2026-09-17 02:32:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：聯邦公開市場委員會決定加息25個基點。"
+    },
+    {
+      "id": "5098199",
+      "time": "2026-09-17 02:32:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：通脹仍居高不下。"
+    },
+    {
+      "id": "mkt:01a0ab7d-6961-7118-85c5-156a8e29abb7",
+      "time": "2026-09-17 02:31:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said inf remains elevated."
+    },
+    {
+      "id": "5098198",
+      "time": "2026-09-17 02:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮幕僚長蘇西·懷爾斯稱其癌症已痊癒。"
+    },
+    {
+      "id": "mkt:01a0ab7d-5c75-7118-85c5-0b7e83639ef5",
+      "time": "2026-09-17 02:31:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $102.43 a barrel, down $3.40, or 3.21%."
+    },
+    {
+      "id": "mkt:01a0ab7c-f55f-7118-85c5-0375d850c048",
+      "time": "2026-09-17 02:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair KEVIN WARSH said the Federal Open Market Committee decided to raise the target federal funds rate by 25 bps."
+    },
+    {
+      "id": "mkt:01a0ab7c-dc54-7118-85c4-fab15558c63c",
+      "time": "2026-09-17 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Night session main contracts close】At 02:30, Shanghai night session main contracts closed: Shanghai gold main contract up 0.41% at 935 yuan/gram; Shanghai silver main contract up 0.04% at 15,603 yuan/kg; SC crude oil main contract down 4.01% at 805 yuan/barrel."
+    },
+    {
+      "id": "5098197",
+      "time": "2026-09-17 02:30:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶102.43美元，下跌3.40美元，跌幅3.21%。"
+    },
+    {
+      "id": "5098196",
+      "time": "2026-09-17 02:30:46",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什開始新聞釋出會。"
+    },
+    {
+      "id": "mkt:01a0ab7b-fbb8-7118-85c4-f14302f2e3a4",
+      "time": "2026-09-17 02:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed the Sept. 16 night session up 0.04% at 932.33 yuan/gram; silver T+D closed down 0.55% at 15,543.0 yuan/kg."
+    },
+    {
+      "id": "5098194",
+      "time": "2026-09-17 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌4.01%，報804.80元人民幣/桶。滬金夜盤收漲0.44%，滬銀收跌0.01%。"
+    },
+    {
+      "id": "mkt:01a0ab7b-38ad-7118-85c4-eab4203545bb",
+      "time": "2026-09-17 02:29:34",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Goldman Sachs CEO David Solomon said third-quarter activity was very high. Fixed income, currencies and commodities (FICC) were slightly weaker year-on-year. Equities remained very strong."
+    },
+    {
+      "id": "5098193",
+      "time": "2026-09-17 02:28:36",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲決議要點一覽】\n1、美聯儲加息25個基點至3.75%-4%，上調準備金利率至3.9%，上調貼現利率至4%，這是美聯儲自2023年7月以來首次加息。\n2、美國聯邦公開市場委員會以12比0的表決票數批准這項決定。\n3、通脹仍然高企。今天的政策行動將支援更及時地迴歸委員會2%的目標。委員會將實現價格穩定。\n4、美聯儲最新的點陣圖顯示，19名政策制定者中有18人提交了利率前景預測，其中有16人認為今年應再次加息。有4位官員認為2026年應累計加息75個基點，有12位官員認為應累計加息50個基點，有2位官員認為應累計加息25個基點。\n5、美聯儲主席凱文·沃什延續了此前的做法，未提交個人預測。\n6、美聯儲的預測還顯示，政策制定者目前預計今年及往後的通脹水平將普遍高於此前預期。"
+    },
+    {
+      "id": "mkt:01a0ab7a-5079-7118-85c4-e7eafcdc6674",
+      "time": "2026-09-17 02:28:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank chief U.S. economist Matthew Luzzetti said the bank believes the Federal Reserve's patience has run out and it's time to act."
+    },
+    {
+      "id": "te:markets:584315",
+      "time": "2026-09-17 02:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Swedish Krona Hits 13-month Low — The Swedish Krona touched 9.82 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Swedish Krona gained 3.2%, and in the last 12 months, it increased 5.75%."
+    },
+    {
+      "id": "5098189",
+      "time": "2026-09-17 02:28:06",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價下跌 1.3%。"
+    },
+    {
+      "id": "5098188",
+      "time": "2026-09-17 02:27:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛執行長所羅門：非薪酬支出環比將高出逾5億美元。"
+    },
+    {
+      "id": "mkt:01a0ab79-454c-7118-85c4-d961a65e1fbb",
+      "time": "2026-09-17 02:27:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Fed move removes major headwind to dollar】Corpay chief market strategist Karl Schamotta said the Fed's decisive rate hike won unanimous FOMC support and raised rate expectations, which will significantly help restore market confidence in the Fed's resolve to fight inf and remove a major headwind to the dollar."
+    },
+    {
+      "id": "5098187",
+      "time": "2026-09-17 02:27:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德意志銀行首席美國經濟學家：我們認為美聯儲的耐心已經耗盡，是時候採取行動了。"
+    },
+    {
+      "id": "mkt:01a0ab78-bc54-7118-85c4-d5cb42916a8d",
+      "time": "2026-09-17 02:26:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Deutsche Bank chief US economist Luzetti said the phrase \"timely return (to the 2% target)\" has played an important role."
+    },
+    {
+      "id": "5098186",
+      "time": "2026-09-17 02:26:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：固定收益、外匯及大宗商品業務(FICC)表現相對略顯疲軟。"
+    },
+    {
+      "id": "mkt:01a0ab78-350c-7118-85c4-c819ff2aa735",
+      "time": "2026-09-17 02:26:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Fed's higher long-run rate projection validates large-scale AI investment effect】Analysts note the Fed's Summary of Economic Projections rounded the long-run fed funds rate forecast up to 3.2% from 3.1%, implying officials see a higher neutral rate. Many economists link the rise to large-scale AI-driven investment; Wash recently said the U.S. has shifted over the past decade-and-a-half from an excess-savings environment to an investment boom."
+    },
+    {
+      "id": "mkt:01a0ab77-fc0a-7118-85c4-c0e0653a92bd",
+      "time": "2026-09-17 02:26:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Preview: Wosh press conference — can he avoid repeating July communication mishap?】Markets will watch whether Wosh repairs communication after July’s vague, evasive answers; Natixis expects him to frame any rate hike as necessary to ensure inflation returns to target promptly. If the Fed raises rates as expected this week, attention will be on whether Wosh views energy- and tariff-driven inflation as one-off supply shocks or as more persistent/second-round/expectations-driven pressure—emphasizing the former would reduce perceived need for further tightening, the latter would elevate tightening risk. Reuters flags political sensitivity: Trump has pushed for cuts while markets expect hikes; watch Wosh’s response to Trump, whether he reasserts FOMC independence, avoids naming Trump, or stresses “data dependence.” Wosh has tended to avoid forward-rate guidance; after July’s confusion and a hawkish turn at Jackson Hole, markets will watch for any change in messaging or a renewed insistence he has “no tolerance” for inflation. With the 10-year Treasury yield above 5% on Sept. 14, traders will also look for any comments addressing further bond sell-offs and concerns about fiscal- or inflation-related risk premia."
+    },
+    {
+      "id": "te:markets:584312",
+      "time": "2026-09-17 02:25:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Hits 15-month Low — The Swiss Franc touched 0.82 against the USD, the lowest since June 2025. Over the past 4 weeks, US Dollar Swiss Franc gained 1.33%, and in the last 12 months, it increased 4.22%."
+    },
+    {
+      "id": "mkt:01a0ab77-4bb4-7118-85c4-be24d2d35213",
+      "time": "2026-09-17 02:25:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank chief US economist Luzetti says the Fed dot plot was more hawkish than expected."
+    },
+    {
+      "id": "5098183",
+      "time": "2026-09-17 02:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院外交事務委員會資深成員米克斯表示，他不會批准向以色列出售價值28億美元的2000磅炸彈的提議。"
+    },
+    {
+      "id": "mkt:01a0ab77-3876-7118-85c4-b0e199408c3a",
+      "time": "2026-09-17 02:25:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank's chief U.S. economist said the Fed has begun a mild tightening cycle."
+    },
+    {
+      "id": "te:markets:584311",
+      "time": "2026-09-17 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 2.72% — Top commodity gainers are Oat (2.72%), Butter (0.59%) and Wheat (0.53%). Biggest losers are Coffee (-1.37%) and Lumber (-0.78%)."
+    },
+    {
+      "id": "mkt:01a0ab76-d71b-7118-85c4-a99d9572d0ec",
+      "time": "2026-09-17 02:24:47",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Deutsche Bank chief U.S. economist Matthew Luzzetti said the economic growth backdrop is very strong and supply shocks are easing."
+    },
+    {
+      "id": "5098181",
+      "time": "2026-09-17 02:23:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：私募股權機構的交易活動非常清淡。"
+    },
+    {
+      "id": "5098180",
+      "time": "2026-09-17 02:23:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德意志銀行首席美國經濟學家：我們認為美聯儲已開啟一輪溫和緊縮週期。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876451293",
+      "time": "2026-09-17 02:22:48",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國聯邦公開市場委員會9月16日會議宣告全文】美聯儲釋出的聯邦公開市場委員會（FOMC）政策宣告全文如下：聯邦公開市場委員會以12比0的表決結果批准釋出如下宣告，委員會決定將聯邦基金利率目標區間上調25個基點至3.75%-4%，以支援美聯儲的雙重使命。"
+    },
+    {
+      "id": "5098179",
+      "time": "2026-09-17 02:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "德意志銀行首席美國經濟學家：點陣圖比市場預期略顯鷹派。"
+    },
+    {
+      "id": "te:economy:584308",
+      "time": "2026-09-17 02:22:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Pullback from 19-Year High — The yield on the 10-year US Treasury note eased to 4.95% on Wednesday from the 19-year high of 5.01% in the previous session after the Federal Reserve raised interest rates by 25bps, as expected. The move was largely expected by financial markets after evidence of high inflation in tandem with a robust labor market and retail sales aligned with Chairman Warsh's Jackson Hole signal that borrowing costs would be raised to combat price growth. Median projections by FOMC members pointed to split expectations of one or two additional rate hikes by next year, consistent with upward revisions to forecasts on inflation and downward revisions to unemployment. The yield on the longer-end of the curve eased more than the front end with the signal that the Fed heeds to higher prices. Still, yields on the 10-year note are 80bps higher since the start of the year. The impact of soaring energy inflation magnified pressure from soaring corporate debt supply and widening budget deficits."
+    },
+    {
+      "id": "5098178",
+      "time": "2026-09-17 02:22:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "品浩全球經濟顧問：認為PCE指數高估基礎通脹。"
+    },
+    {
+      "id": "5098177",
+      "time": "2026-09-17 02:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "品浩全球經濟顧問：認為我們能夠在不引發衰退的情況下實現通脹回落。"
+    },
+    {
+      "id": "5098174",
+      "time": "2026-09-17 02:21:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率抹去跌幅，反彈至4.65%。"
+    },
+    {
+      "id": "mkt:01a0ab73-f4a2-7118-85c4-a29d42b5abbe",
+      "time": "2026-09-17 02:21:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) will introduce ATT-related adjustments in the EU."
+    },
+    {
+      "id": "5098173",
+      "time": "2026-09-17 02:21:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【海灣多國跟隨美聯儲加息】美國聯邦儲備委員會宣佈時隔三年多來首次加息後，當地時間9月16日晚，沙特、阿聯酋、卡達、巴林、阿曼等多國央行紛紛宣佈加息25個基點。"
+    },
+    {
+      "id": "5098172",
+      "time": "2026-09-17 02:21:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "畢馬威首席經濟學家：認為可以在不陷入衰退的情況下實現通脹回落。"
+    },
+    {
+      "id": "mkt:01a0ab73-08af-7118-85c4-9912fb5540ff",
+      "time": "2026-09-17 02:20:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Former Fed vice chair CLARIDA: the key question is how long these shocks will last."
+    },
+    {
+      "id": "mkt:01a0ab72-ecaa-7118-85c4-910d093ac219",
+      "time": "2026-09-17 02:20:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Former Fed vice chair CLARIDA said core PCE at 3.4% is slightly high and may fall below that level."
+    },
+    {
+      "id": "te:markets:584307",
+      "time": "2026-09-17 02:20:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 2.69% — Top commodity loser is Lithium Carbonate (-2.69%). Gains are led by Aluminum Alloy (1.01%), Copper (0.81%) and Gold (0.41%)."
+    },
+    {
+      "id": "mkt:01a0ab72-89e6-7118-85c4-8e644e7b74d8",
+      "time": "2026-09-17 02:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed chair to hold monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0ab72-71d7-7118-85c4-835b1cb7eb09",
+      "time": "2026-09-17 02:19:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Former Fed vice chair CLARIDA said it is very important that the decision was reached unanimously."
+    },
+    {
+      "id": "5098170",
+      "time": "2026-09-17 02:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果正在對歐盟地區的App跟蹤透明度（ATT）政策做出調整。"
+    },
+    {
+      "id": "mkt:01a0ab71-e5d3-7118-85c4-7b60024ea3cb",
+      "time": "2026-09-17 02:19:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "KPMG chief economist SWONK said the economy is resilient, but the benefits have not been widely felt."
+    },
+    {
+      "id": "5098169",
+      "time": "2026-09-17 02:19:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國考慮動用國防生產法資金幫助煉油廠。"
+    },
+    {
+      "id": "5098168",
+      "time": "2026-09-17 02:19:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "畢馬威首席經濟學家：各行業正出現由AI帶來的工資漲幅放緩跡象。"
+    },
+    {
+      "id": "5098167",
+      "time": "2026-09-17 02:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "畢馬威首席經濟學家：3.4%的核心PCE有點偏高，實際可能低於這一水平。"
+    },
+    {
+      "id": "5098166",
+      "time": "2026-09-17 02:18:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破100關口，日內漲0.37%。"
+    },
+    {
+      "id": "mkt:01a0ab71-5075-7118-85c4-75506508065e",
+      "time": "2026-09-17 02:18:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed dot plot: two officials omitted 2028–29 projections; Warsh absent】The Fed dot plot shows 19 officials in total. Eighteen submitted projections for 2026–27; only 17 submitted projections for 2028–29. Markets had anticipated Fed chair Kevin Warsh would again be absent from the dot plot; it is unclear which other official joined Warsh in omitting 2028–29 projections."
+    },
+    {
+      "id": "mkt:01a0ab71-3653-7118-85c4-6ddcb0bd67c6",
+      "time": "2026-09-17 02:18:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "KPMG chief economist SWONK expects the neutral interest rate to rise but says the current level remains too low."
+    },
+    {
+      "id": "5098165",
+      "time": "2026-09-17 02:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "畢馬威首席經濟學家：我認為加息這項決定一致透過這一點很重要。"
+    },
+    {
+      "id": "5098161",
+      "time": "2026-09-17 02:17:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "現貨白銀在美聯儲利率決議後轉跌，現報63.585美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ab70-7064-7118-85c4-65174b8216e1",
+      "time": "2026-09-17 02:17:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "The dollar index (DXY) rose above the 100 level for the first time since Aug. 13."
+    },
+    {
+      "id": "mkt:01a0ab70-3e38-7118-85c4-59534d6af5a3",
+      "time": "2026-09-17 02:17:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "USDJPY"
+      ],
+      "text": "SWONK, KPMG chief economist, said this marks the start of a rate‑hiking cycle."
+    },
+    {
+      "id": "mkt:01a0ab6f-fc2a-7118-85c4-54c5cd69887b",
+      "time": "2026-09-17 02:17:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "KPMG chief economist SWONK said wage growth in AI and related sectors is slowing."
+    },
+    {
+      "id": "mkt:01a0ab6f-8e5e-7118-85c4-4a006db13021",
+      "time": "2026-09-17 02:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs CEO David Solomon said he expects the real-estate market has scope for larger-scale growth."
+    },
+    {
+      "id": "mkt:01a0ab6e-2aed-7118-85c4-416cd64474f5",
+      "time": "2026-09-17 02:15:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Fed median projects another hike in 2026, rates unchanged in 2027】The Fed on the 17th delivered its first rate increase in three years; the dot-plot median shows one additional hike this year and policy rates unchanged in 2027. New projections show rates falling in 2028 and settling at 3.50–3.75% in 2029. In June the Fed had expected a 25bp hike this year and a cut in 2027. The long-run federal funds rate was raised to 3.2% from 3.1%. Eighteen of 19 policymakers submitted rate forecasts, indicating Fed chair Kevin Warsh, as in June, did not submit a specific projection. Policymakers now expect inflation this year and over the next few years to be higher than previously projected."
+    },
+    {
+      "id": "te:markets:584305",
+      "time": "2026-09-17 02:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rises by 3.38% — Top commodity gainers are Methanol (3.38%), Germany Natural Gas THE (1.93%) and Coking Coal (0.74%). Biggest losers are Crude Oil (-3.26%), Natural Gas EU (-3.15%) and Brent Oil (-2.85%)."
+    },
+    {
+      "id": "mkt:01a0ab6d-3429-7118-85c4-3f1f17aeafa2",
+      "time": "2026-09-17 02:14:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar Central Bank raised its repo rate by 25bps."
+    },
+    {
+      "id": "mkt:01a0ab6c-f910-7118-85c4-32a36826bba9",
+      "time": "2026-09-17 02:14:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "The Fed's FOMC statement retained language that \"inf remains elevated\" and deleted earlier language attributing part of the rise to supply shocks."
+    },
+    {
+      "id": "mkt:01a0ab6c-e5a4-7118-85c4-280ee4a94bce",
+      "time": "2026-09-17 02:13:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Saudi central bank will raise its repo rate by 25 bps."
+    },
+    {
+      "id": "5098158",
+      "time": "2026-09-17 02:13:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "卡達央行宣佈加息25個基點，上調回購利率。"
+    },
+    {
+      "id": "5098157",
+      "time": "2026-09-17 02:12:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿曼央行釋出宣告：將回購利率上調25個基點。"
+    },
+    {
+      "id": "5098155",
+      "time": "2026-09-17 02:11:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "沙特央行宣告宣佈，將逆回購利率上調25個基點。"
+    },
+    {
+      "id": "5098154",
+      "time": "2026-09-17 02:10:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲：16名官員預測2026年至少還會加息一次。"
+    },
+    {
+      "id": "5098153",
+      "time": "2026-09-17 02:10:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債與10年期國債收益率曲線走闊至30個基點，為7月2日以來最平緩水平。"
+    },
+    {
+      "id": "te:markets:584304",
+      "time": "2026-09-17 02:09:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Increase After Fed — US stocks remained mostly higher on Wednesday on a rebound from the tech sector, while markets assessed how the economy will fare with the rate hike from the Federal Reserve. The S&P 500 added 0.4% and the Nasdaq 100 gained 1%, while the Dow inched below the flatline. The Fed raised rates by 25bps, as expected, and median projections by FOMC members showed one or two additional hikes expected for this year as inflation is due to remain high and unemployment is expected to remain low. Chip producers and hardware companies extended yesterday's rebound after concerns over AI safety risks voiced by Anthropic and OpenAI jeopardized the momentum of soaring hyperscaler capital expenditure. Intel, Marvell, and Dell gained over 5%, while Nvidia and AMD were 3% higher. In turn, banks, retail, and pharmaceutical companies were mostly higher."
+    },
+    {
+      "id": "5098152",
+      "time": "2026-09-17 02:09:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲預測中值顯示，2026年利率為4.1%，2027年利率為4.1%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876449361",
+      "time": "2026-09-17 02:09:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲點陣圖：有16位官員預計2026年應再加息】美聯儲17日宣佈加息25個基點，為2026年的首次加息。美聯儲最新的點陣圖顯示，19名官員中有18人提交了點陣圖預測（與6月一致），其中有16人認為今年應再次加息。具體來看，有4位官員認為2026年應累計加息75個基點（6月為1位），有12位官員認為應累計加息50個基點（6月為5位），有2位官員認為應累計加息25個基點（6月為3位），有0位官員認為今年應維持3.5%-3.75%的利率不變（6月為8位），有0位官員認為應累計降息25個基點（6月為1位）。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609173876449361",
+      "time": "2026-09-17 02:09:10",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美聯儲點陣圖：有16位官員預計2026年應再加息】美聯儲17日宣佈加息25個基點，為2026年的首次加息。美聯儲最新的點陣圖顯示，19名官員中有18人提交了點陣圖預測（與6月一致），其中有16人認為今年應再次加息。具體來看，有4位官員認為2026年應累計加息75個基點（6月為1位），有12位官員認為應累計加息50個基點（6月為5位），有2位官員認為應累計加息25個基點（6月為3位），有0位官員認為今年應維持3.5%-3.75%的利率不變（6月為8位），有0位官員認為應累計降息25個基點（6月為1位）。"
+    },
+    {
+      "id": "5098148",
+      "time": "2026-09-17 02:09:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞總統：失聯飛機上5人全部遇難】當地時間9月16日，哥倫比亞總統德拉埃斯普列亞在社交媒體上表示，日前在該國失聯的一架小型飛機已被找到，機上5人全部遇難。"
+    },
+    {
+      "id": "5098147",
+      "time": "2026-09-17 02:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
+    {
+      "id": "5098146",
+      "time": "2026-09-17 02:08:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲加息後標普500和納斯達克100指數漲幅略有收窄。"
+    },
+    {
+      "id": "5098145",
+      "time": "2026-09-17 02:08:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲加息後30年期美國國債收益率跌至當日低點。"
+    },
+    {
+      "id": "5098144",
+      "time": "2026-09-17 02:07:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛執行長所羅門：我們的財富資產管理業務增速目標為中高個位數，目前該業務的增長表現優於我們的目標。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876449756",
+      "time": "2026-09-17 02:07:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲重申，聯邦公開市場委員會將致力於實現價格穩定。"
+    },
+    {
+      "id": "5098142",
+      "time": "2026-09-17 02:07:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿聯酋央行將隔夜存款便利（ODF）基準利率上調25個基點。"
+    },
+    {
+      "id": "5098141",
+      "time": "2026-09-17 02:07:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲預測中值顯示2029年通脹率將回歸2%的目標。"
+    },
+    {
+      "id": "5098140",
+      "time": "2026-09-17 02:07:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員們仍然押注美聯儲今年還將加息一次。"
+    },
+    {
+      "id": "5098139",
+      "time": "2026-09-17 02:06:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加元在美聯儲加息後跌至1.3956加元兌1美元的一個月低位，日內跌幅為0.3%。"
+    },
+    {
+      "id": "5098138",
+      "time": "2026-09-17 02:06:13",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲點陣圖：預測中值顯示今年年內還將加息一次】美聯儲用來傳達利率路徑預期的“點陣圖”顯示，2026年底聯邦基金利率預測中值為4.125%。這意味著今年還將加息一次。美聯儲決策者週三將基準利率上調25個基點至3.75%-4%的區間。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876449610",
+      "time": "2026-09-17 02:05:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲FOMC經濟預期：2026年至2028年PCE通脹預期中值分別為3.7%、2.3%、2.1%】美聯儲FOMC經濟預期顯示，2026年至2028年PCE通脹預期中值分別為3.7%、2.3%、2.1%，6月預期分別為3.6%、2.3%、2%。2026年至2028年核心PCE通脹預期中值分別為3.4%、2.5%、2.2%，6月預期分別為3.3%、2.5%、2.1%。"
+    },
+    {
+      "id": "5098137",
+      "time": "2026-09-17 02:05:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲重申，委員會將確保實現價格穩定。"
+    },
+    {
+      "id": "5098136",
+      "time": "2026-09-17 02:05:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲決策者預計2026年底失業率為4.1%，6月預測為4.3%。"
+    },
+    {
+      "id": "5098135",
+      "time": "2026-09-17 02:05:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲宣告未再提及此前對通脹的供應衝擊解釋。"
+    },
+    {
+      "id": "5098134",
+      "time": "2026-09-17 02:05:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲決策者預計2026年底個人消費支出(PCE)物價指數同比上漲3.7%，6月預測為上漲3.6%；核心PCE物價指數同比上漲3.4%，6月預測為上漲3.3%。"
+    },
+    {
+      "id": "5098133",
+      "time": "2026-09-17 02:04:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員對2028年底聯邦基金利率的預估中值為3.9%，前次預估為3.4%。"
+    },
+    {
+      "id": "5098132",
+      "time": "2026-09-17 02:04:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲預測顯示，18位官員中有12位預計今年還將進行一次25個基點的加息，四位預計加息兩次，兩位預計不再加息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876450398",
+      "time": "2026-09-17 02:04:12",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲將準備金利率上調至3.9%，貼現率上調至4%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609173876450398",
+      "time": "2026-09-17 02:04:12",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲將準備金利率上調至3.9%，貼現率上調至4%。"
+    },
+    {
+      "id": "5098131",
+      "time": "2026-09-17 02:03:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "現貨黃金在美聯儲利率決議後回吐漲幅，最新上漲0.8%，報每盎司4327.05美元。"
+    },
+    {
+      "id": "5098128",
+      "time": "2026-09-17 02:03:38",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲宣告發布後，美國國債收益率跌幅收窄；10年期美國國債收益率最新下跌4.12個基點，報4.955%。"
+    },
+    {
+      "id": "5098127",
+      "time": "2026-09-17 02:03:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新下跌1.45個基點，報4.649%。"
+    },
+    {
+      "id": "5098126",
+      "time": "2026-09-17 02:03:23",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲加息後美國股市仍保持上漲；標普500指數上漲0.2%，納斯達克指數上漲0.6%。"
+    },
+    {
+      "id": "5098125",
+      "time": "2026-09-17 02:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱在葉門攔截兩批沙特F-15戰機】葉門胡塞武裝發言人葉海亞·薩雷亞16日表示，胡塞武裝的防空系統在葉門塔伊茲省穆哈上空攔截了兩批沙特F-15戰機。葉海亞·薩雷亞稱，兩批沙特戰機從沙特哈米斯穆謝特空軍基地起飛，胡塞武裝的防空系統在其實施任何“敵對行動”之前將其攔截，並迫使其立即撤離。"
+    },
+    {
+      "id": "te:markets:584301",
+      "time": "2026-09-17 02:02:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 20-week Low — Lumber decreased to 553.00 USD/1000 board feet, the lowest since April 2026. Over the past 4 weeks, Lumber lost 2.51%, and in the last 12 months, it decreased 1.48%."
+    },
+    {
+      "id": "te:economy:584300",
+      "time": "2026-09-17 02:02:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Raises Rates for 1st Time Since 2023 — The Fed unanimously raised the target range for the federal funds rate by 25bps to 3.75%-4.00% in September 2026 as expected, marking the first rate hike since 2023. Policymakers noted that inflation remains elevated, and the move aims to support a more timely return to the 2% target. Updated projections showed that 16 of 18 officials see the possibility of at least one more 25bps rate hike later this year. Chair Warsh again declined to submit his forecasts. Meanwhile, the GDP is seen expanding at a slightly faster pace in 2026 (2.3% vs 2.2% in the June projection) and 2027 (2.4% vs 2.3%). PCE inflation is seen higher this year (3.7% vs 3.6%) but the forecast for 2027 was kept at 2.3%. Core inflation is also seen up in 2026 (3.4% vs 3.3%) but the forecast was left at 2.5% for 2027. The unemployment rate is now projected at 4.1% in both 2026 and 2027, down from the previous forecast of 4.3% for both years."
+    },
+    {
+      "id": "5098124",
+      "time": "2026-09-17 02:02:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲0.1%，報155.24。"
+    },
+    {
+      "id": "5098123",
+      "time": "2026-09-17 02:02:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊下跌0.33%，報1.3432美元。歐元下跌0.21%，報1.1517美元。"
+    },
+    {
+      "id": "5098122",
+      "time": "2026-09-17 02:02:18",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲決議公佈後美元指數上行；最新報99.83，漲幅0.15%。"
+    },
+    {
+      "id": "5098120",
+      "time": "2026-09-17 02:01:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：就業增長與勞動力增長同步，失業率變化不大。"
+    },
+    {
+      "id": "5098119",
+      "time": "2026-09-17 02:01:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：經濟活動正以穩健步伐擴張。"
+    },
+    {
+      "id": "5098118",
+      "time": "2026-09-17 02:01:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：通脹仍處高位，但決議刪除了此前“部分歸因於供給衝擊”的表述。"
+    },
+    {
+      "id": "te:markets:584299",
+      "time": "2026-09-17 02:01:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BlackRock Stock Price Hits 7-week Low — BlackRock shares decreased to 1047.00 USD, the lowest since July 2026. Over the past 4 weeks, BlackRock lost 8.48%, and in the last 12 months, it decreased 7.24%."
+    },
+    {
+      "id": "te:markets:584298",
+      "time": "2026-09-17 02:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 4-week High — DXY increased to 99.86, the highest since August 2026. Over the past 4 weeks, Dollar Index gained 0.17%, and in the last 12 months, it increased 3.03%."
+    },
+    {
+      "id": "5098117",
+      "time": "2026-09-17 02:01:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：生產率增長強勁，資本投資穩健。"
+    },
+    {
+      "id": "5098116",
+      "time": "2026-09-17 02:01:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：儘管不確定性高企，國內支出仍保持韌性。"
+    },
+    {
+      "id": "5098115",
+      "time": "2026-09-17 02:01:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：本次政策決議獲一致透過。"
+    },
+    {
+      "id": "5098114",
+      "time": "2026-09-17 02:01:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：就業增長與勞動力規模保持同步，失業率變化不大。"
+    },
+    {
+      "id": "5098111",
+      "time": "2026-09-17 02:00:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲加息後，美國國債價格維持漲幅。"
+    },
+    {
+      "id": "5098110",
+      "time": "2026-09-17 02:00:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "FOMC預測中值顯示，2026年還將加息25個基點。"
+    },
+    {
+      "id": "5098109",
+      "time": "2026-09-17 02:00:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：加息將支援通脹率“更快”迴歸2%的目標。"
+    },
+    {
+      "id": "5098108",
+      "time": "2026-09-17 02:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4410美元/盎司，日內漲1.79%。"
+    },
+    {
+      "id": "5098107",
+      "time": "2026-09-17 02:00:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息25個基點】美聯儲決定將基準利率上調25個基點至3.75%-4.00%區間，為沃什就任美聯儲主席以來首次加息。"
+    },
+    {
+      "id": "5098106",
+      "time": "2026-09-17 01:57:12",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：我們以現金為長端國債的買入提供資金。"
+    },
+    {
+      "id": "5098102",
+      "time": "2026-09-17 01:51:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部發言人表示，美國顧問正在為沙特夥伴提供支援。"
+    },
+    {
+      "id": "5098101",
+      "time": "2026-09-17 01:46:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "土耳其資產管理公司Tera宣佈，旗下兩隻基金髮生違約。"
+    },
+    {
+      "id": "5098100",
+      "time": "2026-09-17 01:42:24",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：我們一直在買入美國、日本、澳大利亞的長端國債。"
+    },
+    {
+      "id": "5098099",
+      "time": "2026-09-17 01:41:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：貝森特已竭盡全力穩定長端利率。"
+    },
+    {
+      "id": "5098096",
+      "time": "2026-09-17 01:39:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：這可能是我們最後一次看到點陣圖。"
+    },
+    {
+      "id": "5098095",
+      "time": "2026-09-17 01:39:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然2027年年均通脹率預測為5.3%。"
+    },
+    {
+      "id": "5098094",
+      "time": "2026-09-17 01:38:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然2027年預算草案預測該國全年國內生產總值增長2.7%。"
+    },
+    {
+      "id": "5098093",
+      "time": "2026-09-17 01:38:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然2027年預算草案預測該國全年國內生產總值增長2.7%。"
+    },
+    {
+      "id": "5098092",
+      "time": "2026-09-17 01:38:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "亞塞拜然財政部表示，該國2027年預算草案將油價設定為每桶65美元。"
+    },
+    {
+      "id": "5098091",
+      "time": "2026-09-17 01:37:59",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：美聯儲FOMC委員們或許對利率變動的速度感到始料未及。"
+    },
+    {
+      "id": "5098090",
+      "time": "2026-09-17 01:37:16",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管米歇爾：本次美聯儲會議應該乾淨利落，應當加息25個基點。"
+    },
+    {
+      "id": "5098089",
+      "time": "2026-09-17 01:36:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部發言人表示，霍爾木茲海峽的主要航道“仍然無雷”。"
+    },
+    {
+      "id": "5098088",
+      "time": "2026-09-17 01:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國金融犯罪執法局：（經濟孤立）行動為金融機構提供了所需資訊，以切斷與伊朗政權相關的收入來源和採購網路。"
+    },
+    {
+      "id": "5098087",
+      "time": "2026-09-17 01:33:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部召集全球金融機構推進\"經濟棄兒（經濟孤立）行動\"。"
+    },
+    {
+      "id": "5098086",
+      "time": "2026-09-17 01:33:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏認為，7%的抵押貸款利率對房屋建築與建築業構成拖累，資料中心業務的有利態勢抵消了這一不利影響。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202609173876446739",
+      "time": "2026-09-17 01:32:59",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行會議紀要：貿易衝突使經濟復甦的可持續性“更加不確定”】加拿大央行會議紀要顯示，成員們認為整體貿易不確定性使增長前景更加不明朗；官員們討論了關稅升級對經濟增長的影響，以及其是否可能抵消通脹壓力；貿易衝突使經濟復甦的可持續性“更加不確定”。"
+    },
+    {
+      "id": "5098084",
+      "time": "2026-09-17 01:32:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特拉維夫證券交易所將評估延長交易時長及盤後交易時段事宜。"
+    },
+    {
+      "id": "5098081",
+      "time": "2026-09-17 01:31:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要顯示，在美加貿易關係惡化前經濟活動“穩健”。"
+    },
+    {
+      "id": "5098080",
+      "time": "2026-09-17 01:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大會議紀要顯示：與會成員認為，整體貿易不確定性已令增長前景更不明朗。"
+    },
+    {
+      "id": "5098079",
+      "time": "2026-09-17 01:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大會議紀要顯示：委員們認為，對7月經濟預測構成的主要風險已進一步加劇。"
+    },
+    {
+      "id": "5098078",
+      "time": "2026-09-17 01:31:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大會議紀要顯示：委員們同意重申，貨幣政策立場將以加拿大央行的通脹預測及圍繞該預測的相關風險為導向。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202609173876446819",
+      "time": "2026-09-17 01:31:16",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行貨幣政策會議紀要：如果高油價蔓延至其他商品和服務 可能需要加息】加拿大央行貨幣政策會議紀要顯示，如果高油價蔓延至其他商品和服務，可能需要加息；成員們提到汽油價格持續高企，並表示伊朗衝突提高了市場對油價的預期。通脹上行風險已上升，在加拿大央行9月2日的利率公告前，理事會一致認為近期通脹可能仍將保持高位。"
+    },
+    {
+      "id": "5098077",
+      "time": "2026-09-17 01:31:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要顯示，委員認為通脹蔓延至非能源商品和服務領域的風險升高。"
+    },
+    {
+      "id": "5098076",
+      "time": "2026-09-17 01:30:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要：理事會委員對經濟中的閒置產能程度存在分歧。"
+    },
+    {
+      "id": "5098075",
+      "time": "2026-09-17 01:30:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行會議紀要：委員們擔憂，伊朗戰事將使燃料價格維持在高位。"
+    },
+    {
+      "id": "5098074",
+      "time": "2026-09-17 01:30:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行會議紀要：委員們一致認為，能源相關的通脹風險有所上升。"
+    },
+    {
+      "id": "5098072",
+      "time": "2026-09-17 01:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：沒有在伍斯特縣建設資料中心的計劃。"
+    },
+    {
+      "id": "5098071",
+      "time": "2026-09-17 01:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦召見印度臨時代辦 就印巴軍艦碰撞事件提出抗議】巴基斯坦外交部當地時間16日晚發表宣告，就印度一艘軍艦15日與巴軍艦相撞的有關行動提出強烈抗議。宣告稱，巴基斯坦外交部16日召見印度駐伊斯蘭堡高階專員公署臨時代辦，就印度海軍一艘艦艇於2026年9月15日在巴基斯坦專屬經濟區內採取的“高度挑釁且不可接受的行動”提出強烈抗議。（央視新聞）"
+    },
+    {
+      "id": "5098070",
+      "time": "2026-09-17 01:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜計劃在馬里蘭州為Fastnet海底光纜建設供電設施。"
+    },
+    {
+      "id": "5098067",
+      "time": "2026-09-17 01:26:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "陶氏化學認為，在建築施工前景喜憂參半的背景下，資料中心將為工業領域帶來需求利好。"
+    },
+    {
+      "id": "5098065",
+      "time": "2026-09-17 01:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "陶氏化學表示，儘管歐洲面臨宏觀逆風，該地區業務仍能實現盈利。"
+    },
+    {
+      "id": "5098062",
+      "time": "2026-09-17 01:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統府通訊部門負責人：土耳其與沙烏地阿拉伯站在一起，給予其聲援。"
+    },
+    {
+      "id": "5098061",
+      "time": "2026-09-17 01:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國向聯合國繳納7.25億美元欠款。"
+    },
+    {
+      "id": "5098060",
+      "time": "2026-09-17 01:23:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統府通訊負責人表示，維護麥加的和平與安全對伊斯蘭世界至關重要。"
+    },
+    {
+      "id": "5098059",
+      "time": "2026-09-17 01:22:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院透過禁令，禁止性侵兒童罪犯擔任工會職務。"
+    },
+    {
+      "id": "5098057",
+      "time": "2026-09-17 01:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統府發言人：強烈譴責針對麥加的未遂襲擊。"
+    },
+    {
+      "id": "te:markets:584297",
+      "time": "2026-09-17 01:21:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 35-week Low — NextEra Energy shares decreased to 80.75 USD, the lowest since January 2026. Over the past 4 weeks, NextEra Energy lost 6.31%, and in the last 12 months, it increased 14.89%."
+    },
+    {
+      "id": "5098056",
+      "time": "2026-09-17 01:21:09",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌與DeepMind成立研究所，探索通用人工智慧（AGI）。"
+    },
+    {
+      "id": "5098053",
+      "time": "2026-09-17 01:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿迪達斯就印度科技崗位裁員：變動影響的員工不到印度科技團隊的20%。"
+    },
+    {
+      "id": "5098049",
+      "time": "2026-09-17 01:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：霍洛西夫斯基區內一棟非居民建築遭無人機擊中，應急救援力量正趕赴現場。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876444128",
+      "time": "2026-09-17 01:17:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週三（9月16日），美聯儲隔夜逆回購協議（RRP）使用規模為53.75億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609173876444128",
+      "time": "2026-09-17 01:17:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "週三（9月16日），美聯儲隔夜逆回購協議（RRP）使用規模為53.75億美元。"
+    },
+    {
+      "id": "5098047",
+      "time": "2026-09-17 01:16:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（9月16日），美聯儲隔夜逆回購協議（RRP）使用規模為53.75億美元（交易對手4家），上個交易日報7億美元。"
+    },
+    {
+      "id": "5098045",
+      "time": "2026-09-17 01:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學：第三季度完成6個廠區的場地改造工程，並啟動另外3個廠區的改造作業。"
+    },
+    {
+      "id": "5098044",
+      "time": "2026-09-17 01:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學表示，將繼續剝離非核心資產，並關閉無法創造價值的資產。"
+    },
+    {
+      "id": "5098043",
+      "time": "2026-09-17 01:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，在塔伊茲省使用本土製造的地對空導彈攔截了兩架沙特F-15戰鬥機，迫使其撤離該地區。"
+    },
+    {
+      "id": "5098038",
+      "time": "2026-09-17 01:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "航班雷達訊息：美國空軍一架KC-46加油機目前在新澤西州海岸附近應答機發出7700通用緊急程式碼。"
+    },
+    {
+      "id": "5098037",
+      "time": "2026-09-17 01:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學稱，關稅風險的直接敞口仍處於極小水平。"
+    },
+    {
+      "id": "5098036",
+      "time": "2026-09-17 01:06:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【歐盟將建立“氣候保險聯盟”應對極端天氣】歐盟委員會主席馮德萊恩16日表示，歐盟將建立一個“氣候保險聯盟”，以應對日益頻發的極端天氣事件，提高對氣候災害的保險覆蓋範圍。今年夏天，歐洲多地經歷乾旱、野火和多輪熱浪天氣，造成人員傷亡和財產損失。目前歐盟地區氣候相關的經濟損失中，只有四分之一在保險覆蓋範圍內。新出臺的保險計劃將試圖解決這一問題。此外，歐盟還將改善針對高溫天氣的早期預警系統，加強幹旱風險管理等。（央視新聞）"
+    },
+    {
+      "id": "5098035",
+      "time": "2026-09-17 01:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學表示，油價與天然氣的價差持續居高不下，繼續支撐其原料的競爭優勢。"
+    },
+    {
+      "id": "5098034",
+      "time": "2026-09-17 01:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：我們絕不信任美國。"
+    },
+    {
+      "id": "5098033",
+      "time": "2026-09-17 01:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI與GitHub在AI編碼工具版權訴訟中贏得勝訴。"
+    },
+    {
+      "id": "5098032",
+      "time": "2026-09-17 01:02:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部表示，土耳其金融穩定委員會將於週四召開會議。"
+    },
+    {
+      "id": "5098031",
+      "time": "2026-09-17 01:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：要求立即停止這些威脅地區穩定與安全的襲擊行動。"
+    },
+    {
+      "id": "5098030",
+      "time": "2026-09-17 01:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列炮擊拜特亞洪鎮後，黎巴嫩南部燃起大火。"
+    },
+    {
+      "id": "5098029",
+      "time": "2026-09-17 01:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "日立與Mission Critical集團達成戰略合作，加速資料中心解決方案的聯合開發與全球拓展。"
+    },
+    {
+      "id": "5098026",
+      "time": "2026-09-17 01:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：重申支援沙烏地阿拉伯的主權、領土完整與安全。"
+    },
+    {
+      "id": "te:markets:584295",
+      "time": "2026-09-17 01:00:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Steady — US gasoline futures held near $3.45 a gallon, close to their highest level in eight weeks, as concerns over feedstock supply eased after Saudi Arabia stated it would offer additional cargoes via Oman. Attacks last week by Iran-backed Houthi rebels shut down a crucial crude pipeline in Saudi Arabia that bypasses the Strait of Hormuz, which remains under a blockade. Meanwhile, EIA data showed US gasoline inventories unexpectedly rose for a second consecutive week, increasing by 800 thousand barrels in the week ending September 11th, as refineries continued to operate at elevated capacity, albeit at a slightly lower rate of 96.8%, while delaying non-essential work. However, the approaching seasonal fall maintenance remains a threat to refined-product supplies. The data also showed that demand increased by 300 thousand barrels per day, while pump prices continued to rise."
+    },
+    {
+      "id": "5098025",
+      "time": "2026-09-17 01:00:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大國家鐵路公司：運營協議包含經修訂的、符合聯邦鐵路管理局標準的績效支付體系。"
+    },
+    {
+      "id": "5098024",
+      "time": "2026-09-17 01:00:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：強烈譴責胡塞武裝針對麥加的無人機襲擊。"
+    },
+    {
+      "id": "5098023",
+      "time": "2026-09-17 01:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大國家鐵路公司與美鐵達成協議，旨在加強客運鐵路服務與安全。"
+    },
+    {
+      "id": "5098022",
+      "time": "2026-09-17 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.56%，滬銅收漲0.49%，滬鋁收漲0.54%，滬鋅收漲0.02%，滬鉛收漲0.32%，滬鎳收漲0.52%，滬錫收漲1.24%。氧化鋁夜盤收漲0.04%，鋁合金收漲0.97%。不鏽鋼夜盤收漲0.85%。"
+    },
+    {
+      "id": "5098020",
+      "time": "2026-09-17 00:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使： 我們正在尋求在伊朗製造武裝動亂。"
+    },
+    {
+      "id": "5098019",
+      "time": "2026-09-17 00:58:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總理勒科爾尼據悉正與國民聯盟協商預算方案。"
+    },
+    {
+      "id": "5098016",
+      "time": "2026-09-17 00:55:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：已敦促印度方面嚴格遵守國際法及雙邊協定，其中包括防止海上意外事件的相關協定。"
+    },
+    {
+      "id": "5098014",
+      "time": "2026-09-17 00:53:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：在巴基斯坦海軍開展兩年一度演習期間，印度艦艇在近距離實施了攻擊性機動動作。"
+    },
+    {
+      "id": "5098013",
+      "time": "2026-09-17 00:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷外長：阿中關係正處於非常好的時期】阿根廷外交部長巴勃羅·基爾諾15日表示，阿中兩國關係目前處於“非常好”的時期。基爾諾15日在首都布宜諾斯艾利斯出席中國駐阿使館舉辦的國慶招待會時表示，阿根廷政府正在努力擴大市場和貿易開放，在此期間，中國政府向阿根廷提供了續簽雙邊本幣互換協議等重要支援。基爾諾強調，阿根廷政府恪守一箇中國原則，感謝中方支援阿根廷對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權的正當要求。基爾諾表示，希望繼續深化兩國關係。（新華社）"
+    },
+    {
+      "id": "5098012",
+      "time": "2026-09-17 00:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：外交部今日召見了印度駐伊斯蘭堡高階專員公署代辦。"
+    },
+    {
+      "id": "5098011",
+      "time": "2026-09-17 00:52:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府問責局審計報告顯示：特朗普政府為促使聯邦僱員離職，合計支出67億美元。"
+    },
+    {
+      "id": "5098010",
+      "time": "2026-09-17 00:51:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦就印度海軍在巴專屬經濟區的挑釁行為提出強烈抗議。"
+    },
+    {
+      "id": "5098009",
+      "time": "2026-09-17 00:51:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥商品交易所：郵件系統故障不再上報。"
+    },
+    {
+      "id": "5098004",
+      "time": "2026-09-17 00:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：大部分面向客戶的業務中斷影響已消除。"
+    },
+    {
+      "id": "5098003",
+      "time": "2026-09-17 00:48:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：正在開展驗證工作，確認服務已恢復。"
+    },
+    {
+      "id": "5098002",
+      "time": "2026-09-17 00:48:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：已完成Hyperforce環境下的風險緩解處置工作。"
+    },
+    {
+      "id": "5098001",
+      "time": "2026-09-17 00:47:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "希尼資本擬在30年內，對委內瑞拉喬科金礦專案最高投資10億美元。"
+    },
+    {
+      "id": "5097999",
+      "time": "2026-09-17 00:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典媒體：在已統計99%選票的情況下，瑞典中左翼反對黨贏得大選。"
+    },
+    {
+      "id": "5097998",
+      "time": "2026-09-17 00:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長邁克·約翰遜宣佈，眾議院將提前離開華盛頓，開啟為期七週的中期選舉休會，推遲原計劃針對防長赫格塞斯因伊朗戰事處置問題發起彈劾的投票。共和黨將於週三完成最後一輪投票，其中包含一項俄羅斯制裁法案，並在11月選舉結束後復會。"
+    },
+    {
+      "id": "5097997",
+      "time": "2026-09-17 00:42:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：北約3.0是聯盟一代人以來最重大的轉型。我們對北約抱有足夠信心，能夠接納彼此分歧，也擁有足夠實力克服分歧，因為我們在核心原則上立場一致，保衛我們的人民、自由與民主。我們一貫如此，也將永遠堅守。"
+    },
+    {
+      "id": "5097992",
+      "time": "2026-09-17 00:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "希尼資本已與摩科瑞就委內瑞拉喬科金礦達成一項為期30年的合同，並有可能續期。"
+    },
+    {
+      "id": "5097991",
+      "time": "2026-09-17 00:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技高管德桑蒂斯：下一代Trainium晶片將具備突出的差異化優勢。"
+    },
+    {
+      "id": "te:markets:584293",
+      "time": "2026-09-17 00:33:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Close Higher — European stocks closed higher on Wednesday, halting sharp losses from the week amid a pause on the recent rallies in energy prices and sovereign yields. The Euro STOXX rose 0.5% to 6,267 and the STOXX Europe 600 rose 0.5% to 637. Inflationary risks in the Euro Area remained rampant and the elevated levels for sovereign yields continued to dampen credit conditions, but the pause in the slump for bonds allowed equities to enjoy some respite. Allianz, BNP Paribas, and AXA added over 1% to support the financial sector while ASML and Infineon advanced 1.3% on a strong session for AI infrastructure stocks. The Federal Reserve was due to hike its rates by 25bps after the closing bell, and a fragmented FOMC is expected to pencil a wide range of projections for the US economy in their SEP."
+    },
+    {
+      "id": "5097989",
+      "time": "2026-09-17 00:29:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "聯合太平洋首席財務官表示，美國柴油價格已從第三季度預期的每加侖約4.25美元上漲至每加侖約5.25-5.30美元。"
+    },
+    {
+      "id": "te:economy:584292",
+      "time": "2026-09-17 00:23:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 0"
+      ],
+      "text": "Colombia Industrial Acitivty Falls Most Since 2025 — Colombia’s industrial production declined 2.3% year-on-year in July 2026, marking the sharpest decline since April 2025 and reversing a 4.1% gain in the previous month. The reading was well below market expectations of a 0.4% contraction, as production declined in 27 of 32 industries, including the manufacture of clothing (-14.1%), processing of meat (-8.1%), basic iron and steel (-12.6%), spinning, weaving and finishing of textiles (-17.9%), and cocoa, chocolate and confectionery (-19.2%). Meanwhile, output rose in the manufacture of soaps and detergents (8.8%) and beverages (2.3%). Real sales declined 1.8%, while employment also fell 1.4%."
+    },
+    {
+      "id": "5097987",
+      "time": "2026-09-17 00:19:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅賓漢股價下跌4.6%，因加密貨幣法案未能推進。"
+    },
+    {
+      "id": "5097986",
+      "time": "2026-09-17 00:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude：Claude Cowork與Chat現已整合為統一的Claude產品。"
+    },
+    {
+      "id": "5097985",
+      "time": "2026-09-17 00:17:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國證券交易委員會主席阿特金斯：無論是否出臺加密貨幣專項法案，我們都可在SEC自身許可權範圍內採取監管行動。"
+    },
+    {
+      "id": "5097983",
+      "time": "2026-09-17 00:16:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部技術長反對美國政府持有科技巨頭股份，並對人工智慧監管相關問題表達擔憂。"
+    },
+    {
+      "id": "5097982",
+      "time": "2026-09-17 00:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會主席阿特金斯：將採取行動，為加密貨幣領域投資者提供確定性監管規則。"
+    },
+    {
+      "id": "5097981",
+      "time": "2026-09-17 00:14:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮德萊恩“盟情諮文”聚焦競爭力與能源安全】歐盟委員會主席馮德萊恩16日在歐洲議會全會發表2026年“盟情諮文”時表示，重振經濟是歐盟當前的首要任務。歐盟將加快推進單一市場改革，降低能源成本和行政負擔，以提升經濟競爭力。（新華社）"
+    },
+    {
+      "id": "te:markets:584287",
+      "time": "2026-09-17 00:12:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.80% Higher — The FTSE MIB Index rose 414 points or 0.80 percent on Wednesday to close at 51969 points. Leading the gains are Prysmian (3.55%), Italgas (2.42%) and Brunello Cucinelli (2.22%). Top losers were Stellantis N.V. (-2.99%), Nexi (-1.19%) and Eni (-0.80%)."
+    },
     {
       "id": "te:markets:584284",
       "time": "2026-09-17 00:11:18",
