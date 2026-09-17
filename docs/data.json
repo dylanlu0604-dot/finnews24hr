@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-18 02:17:26",
-  "count": 13387,
+  "updated": "2026-09-18 02:21:14",
+  "count": 13385,
   "items": [
+    {
+      "id": "mkt:01a0b099-10b7-7118-85e8-5e1fa547014b",
+      "time": "2026-09-18 02:20:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【US and Mexico near USMCA deal after Trump-Sheinbaum call】Politico, citing an unnamed source and a US official, reports President Trump and Mexican President Sheinbaum spoke Wednesday and are close to resolving USMCA-related disputes. A source described the call as uneven and said new issues emerged, while a US official called it constructive; Mexican officials believe differences are nearing resolution. Negotiations have focused on autos, steel and aluminum, agriculture, labor and economic security. The fourth formal negotiating round has been moved to Sept. 28-29 in Washington; both sides said they made progress after July's third round."
+    },
+    {
+      "id": "te:markets:584708",
+      "time": "2026-09-18 02:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 3.75% — Top commodity gainers are Silver (3.75%), Gold (2.27%) and Copper (2.01%). Biggest loser is Steel Rebar (-0.70%)."
+    },
+    {
+      "id": "5100533",
+      "time": "2026-09-18 02:19:39",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通：根本不知道伊朗戰爭何時結束，經濟紅線已現】摩根大通石油分析師稱，“我們根本不知道” 伊朗戰爭何時結束  ，戰爭結束道路越來越難以預測。該行此前認為美國政府不會跨越的多條經濟紅線均已出現，包括油價突破每桶100美元、汽油價格接近每加侖5美元以及國債收益率飆升，令退出策略更不明朗。分析師娜塔莎·卡內瓦等人指出，油價目前接近每桶106美元，而9月原油合理價格估計約為每桶90美元，意味著市場正計入額外400萬桶/日的供應損失風險，此前已造成每日1000萬桶供應中斷。摩根大通稱，包括沙特東-西向輸油管道在內的關鍵能源基礎設施最近遭攻擊，加劇供應進一步緊張擔憂，市場情緒緊張。分析師認為，美國和伊朗均未發出準備緩和局勢的明確訊號，因此認為當前混亂只是暫時的假設越來越難以維持。"
+    },
+    {
+      "id": "5100532",
+      "time": "2026-09-18 02:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【羅馬尼亞總統今年第三次委任總理】布加勒斯特訊息：羅馬尼亞總統達恩17日宣佈，委任歐洲議會議員西格弗裡德·穆雷尚為新總理，這已是他今年第三次委任總理。 達恩當天在總統府與議會政黨進行磋商後召開新聞釋出會，宣佈他委任歐洲議會議員、國家自由黨成員穆雷尚為總理。隨後，穆雷尚在社交媒體上表示接受委任。 今年5月初，羅馬尼亞參眾兩院聯席會議投票透過對政府的不信任動議，時任總理博洛讓領導的政府下臺。6月4日，達恩委任他的顧問、歐洲議會議員歐金·托馬茨為總理，以期結束政府倒臺引發的政治危機。6月14日，歐金·托馬茨辭職後，達恩委任布拉索夫縣議會主席阿德里安·韋什泰亞為新總理。6月22日，羅馬尼亞參眾兩院聯席會議投票否決韋什泰亞的組閣方案，臨時政府繼續履職至今。(新華社)"
+    },
     {
       "id": "5100531",
       "time": "2026-09-18 02:15:57",
@@ -123216,60 +123260,6 @@
         "公司"
       ],
       "text": "智利銅業委員會（Cochilco）：7月份智利國家銅業公司（Codelco）銅產量同比下降4.8%，至11.28萬噸。"
-    },
-    {
-      "id": "5088103",
-      "time": "2026-09-11 02:21:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指擴大跌幅，下跌超過1%。"
-    },
-    {
-      "id": "mkt:01a08c8d-5a30-7118-8533-4667179ff5d1",
-      "time": "2026-09-11 02:21:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's main stock index extended losses, falling more than 1%."
-    },
-    {
-      "id": "te:markets:582896",
-      "time": "2026-09-11 02:20:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Plunges by 6.69% — Top commodity losers are Platinum (-6.69%), Copper (-5.49%), Silver (-5.05%) and Gold (-1.27%)."
-    },
-    {
-      "id": "5088102",
-      "time": "2026-09-11 02:18:30",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAICodex產品負責人Tibo：OpenAI為了確保現有使用者能夠獲得出色的體驗，並繼續使用Astra，我們將暫停訂閱每月200美元的Pro計劃。該計劃對我們的系統造成的壓力最大，因此我們希望採取最小幅度的調整，以便繼續為儘可能多的使用者提供訪問許可權。其他所有套餐以及API服務仍可正常使用。現有賬戶不會受到任何影響，我們正在儘快增加更多容量。感謝大家的支援！"
-    },
-    {
-      "id": "5088101",
-      "time": "2026-09-11 02:17:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "弗萊爾航空與漢莎技術簽署一份15年期發動機協議。"
-    },
-    {
-      "id": "mkt:01a08c8a-190a-7118-8533-3a91d8387f8b",
-      "time": "2026-09-11 02:17:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Canadian Prime Minister Carney said he has spoken several times with U.S. President Trump in recent days."
     }
   ]
 }
