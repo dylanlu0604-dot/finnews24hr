@@ -1,7 +1,675 @@
 {
   "date": "2026-09-17",
-  "count": 2513,
+  "count": 2590,
   "items": [
+    {
+      "id": "5100383",
+      "time": "2026-09-17 23:59:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：工作人員與辛巴威就工作人員監測計劃項下第二次審查達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:01a0b016-2a93-7118-85e6-a544822560b6",
+      "time": "2026-09-17 23:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said Glencore's head of iron ore, Hill, has been suspended amid a review of Radiant World."
+    },
+    {
+      "id": "5100382",
+      "time": "2026-09-17 23:57:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "嘉能可鐵礦石業務負責人希爾因 Radiant World 相關調查遭到停職。"
+    },
+    {
+      "id": "5100381",
+      "time": "2026-09-17 23:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長紐森：威斯康星州的汽油價格一夜之間暴漲 23 美分，特朗普幹得可真 “漂亮”。"
+    },
+    {
+      "id": "mkt:01a0b014-fcc2-7118-85e6-9c652284c3d1",
+      "time": "2026-09-17 23:56:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India denies the allegations contained in a report by a short-seller."
+    },
+    {
+      "id": "te:markets:584682",
+      "time": "2026-09-17 23:55:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to Over 1-Week High — The FTSE 100 rose 1.2% to above 10,815 on Thursday, reaching its highest level in more than a week after the Bank of England kept interest rates unchanged at 3.75%, as widely expected. The central bank warned that rates could need to rise if inflationary pressures intensify as a result of the conflict in the Middle East. Six of the nine policymakers, including Governor Andrew Bailey, voted to maintain the current rate, leaving the committee split along the same lines as in July. Gains were broad-based, led by Rolls-Royce, which advanced 2.8%, while HSBC rose 1.8%. Healthcare stocks also performed strongly, with AstraZeneca up 2.2% and GSK gaining 1.9%. Miners were among the biggest risers, with Endeavour and Antofagasta climbing 3.7% and 3.6%, while Anglo American also gained more than 3% and Fresnillo added 2.8%. Next rose 2.8% after raising its full-year guidance. Oil prices fell for a second consecutive session."
+    },
+    {
+      "id": "mkt:01a0b013-dbff-7118-85e6-947019af3c7f",
+      "time": "2026-09-17 23:54:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Justice Department official said the US is considering issuing antitrust guidance on AI safety."
+    },
+    {
+      "id": "mkt:01a0b013-b1be-7118-85e6-8c55df98ce58",
+      "time": "2026-09-17 23:54:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Andrew Ng, founder of DeepLearning.AI, said multiple innovative companies are intensifying fear of AI."
+    },
+    {
+      "id": "5100380",
+      "time": "2026-09-17 23:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伍德沃德擔任美國司法部反壟斷部門主管。"
+    },
+    {
+      "id": "5100379",
+      "time": "2026-09-17 23:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部官員稱，美方正權衡針對人工智慧安全的反壟斷指引。"
+    },
+    {
+      "id": "te:markets:584681",
+      "time": "2026-09-17 23:53:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Lower Yields — The CAC 40 rose 0.6% to close at 8,188 on Thursday, as the recent rally in oil prices lost steam, limiting the rise in bond yields. The moves followed reports that Saudi Arabia aims to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. Eurozone annual inflation rose to 3.2% in August, matching May’s more than two-year high but coming in slightly below the preliminary estimate of 3.3%. The rate remained well above the ECB’s 2% target. Meanwhile, the US Federal Reserve delivered an expected 25-bp rate hike. Financial stocks posted gains, with BNP Paribas up 1.4%, AXA rising 1.9%, Crédit Agricole advancing 1.2%, and Société Générale adding 0.7%. Industrials were mixed, with Schneider Electric (+2.8%), Safran (+1.6%), Legrand (+0.7%), and Sanofi (+1.2%) posting gains, while Thales (-1.1%), Air Liquide (-0.7%), and EssilorLuxottica (-2.5%) closed lower. Kering rose 0.7%, while most other luxury stocks closed lower."
+    },
+    {
+      "id": "mkt:01a0b011-decf-7118-85e6-8063f60b728e",
+      "time": "2026-09-17 23:52:36",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact mixed",
+        "FTSE100",
+        "EURUSD"
+      ],
+      "text": "FITCH says the EU and UK will adjust Basel III rules; regulators are increasingly prioritizing AI risks."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609173877664766",
+      "time": "2026-09-17 23:51:57",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委齊格曼表示，對增長有很多樂觀預期，沒有看到任何重大二次影響。如果不解決通脹問題，經濟增長將面臨風險；市場押注並不決定歐洲央行的下一步行動。"
+    },
+    {
+      "id": "5100378",
+      "time": "2026-09-17 23:51:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委齊格曼：對增長有很多樂觀預期。我們沒有看到任何重大二次影響。"
+    },
+    {
+      "id": "5100377",
+      "time": "2026-09-17 23:50:33",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "訊息人士稱，沙烏地阿拉伯東西輸油管道沿線的三座泵站在上週遇襲受損。"
+    },
+    {
+      "id": "5100376",
+      "time": "2026-09-17 23:49:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行齊格曼警告，若通脹問題得不到解決，經濟增長將面臨風險。"
+    },
+    {
+      "id": "5100375",
+      "time": "2026-09-17 23:49:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國漢莎航空公司：波音737 MAX總訂單量增至60架."
+    },
+    {
+      "id": "5100374",
+      "time": "2026-09-17 23:49:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 10 月柴油期貨結算價為每噸 1490.75 美元。"
+    },
+    {
+      "id": "5100373",
+      "time": "2026-09-17 23:48:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗、富國銀行緊隨美聯儲加息之後發行投資級債券】花旗集團和富國銀行正在出售投資級債券，此前美聯儲三年來首次上調政策利率，且信用風險擔憂有所緩解。花旗集團計劃透過一項四部分交易籌集至少100億美元，債券期限從3年到11年不等；富國銀行則計劃透過三批債券發行籌集至少50億美元，債券期限為4年到11年。此次融資緊隨美聯儲加息25個基點之後，美聯儲還暗示今年晚些時候將再次加息，這一舉措幫助緩解了投資者對通脹的擔憂。"
+    },
+    {
+      "id": "5100372",
+      "time": "2026-09-17 23:48:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產工業母機實現硬核突破】今年上半年，我國裝備製造業、高技術製造業增加值分別增長9.3%和13.3%，前7個月新動能對工業增長貢獻率超50%。中國先進製造，根基越築越牢。 AI全直驅數控機床精度達到4微米，相當於人頭髮直徑的1/15。這臺機器可以連續工作72小時不止，與傳統機床不同，它身上找不到滾珠絲槓、聯軸器、伺服電機這些“標配”。 歷經十年攻關，溫嶺市政府聯合浙江大學團隊今年9月正式推出AI全直驅數控機床，整機綜合效能較國家標準提升30%至60%。AI讓機床能自主感知、決策、執行，還能自主學習，“越用越聰明”。（央視財經）"
+    },
+    {
+      "id": "5100371",
+      "time": "2026-09-17 23:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其稱庫爾德工人黨領導人將參與解除該黨武裝】土耳其總統首席顧問穆罕默德·烏丘姆17日宣佈，被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭將在為解除該黨武裝而成立的委員會中擔任職務。(新華社)"
+    },
+    {
+      "id": "5100370",
+      "time": "2026-09-17 23:48:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：“無條件的跨大西洋友誼” 目前已不復存在。"
+    },
+    {
+      "id": "te:markets:584680",
+      "time": "2026-09-17 23:47:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Moves Higher — The FTSE MIB rose 0.8% to 52,386 on Thursday, amid improved sentiment that reverberated across sectors. Sovereign yields declined as global oil prices fell for a second consecutive session, easing concerns over inflationary pressures and providing relief for banks’ balance sheets. Additionally, eurozone inflation was revised downward from its preliminary estimate. Still, inflation remains well above the central bank’s target, with markets pricing in at least another rate hike by year-end. Financials advanced, led by Mediobanca (1.4%) and Monte Paschi Siena (1.3%). Utilities extended gains as European gas prices continued to decline, led by Hera (2%). Luxury stocks also advanced ahead of Milan’s Fashion Week, with Brunello Cucinelli (1.6%) and Moncler (0.6%) rising. Stellantis gained 2.3% after reports that BYD stated Italy had become a “plan B”, as the Italian automaker remains unwilling to sell any plants."
+    },
+    {
+      "id": "5100368",
+      "time": "2026-09-17 23:46:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "HUBSPOT股價在資本市場日一度上漲2.7%。"
+    },
+    {
+      "id": "5100367",
+      "time": "2026-09-17 23:45:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【8月美國公司債日均交易額同比增21%至510億美元，全年有望五連漲】Crisil Coalition Greenwich報告顯示，8月份美國公司債券日均名義交易額約510億美元，同比增加約100億美元，增幅達21%。若將此增速推算至全年，2026年美國公司債日均交易額預計將達603億美元，同比增長9%，實現連續第五年增長。該機構指出，交易量上升主要受新發債券增加、市場波動加劇、交易自動化普及以及投資組合交易市場份額提升等因素驅動。資料顯示，8月投資級和高收益債券的日均單筆交易規模為38.2萬美元，同比增長5%。報告認為，目前幾乎沒有跡象表明未來幾年美國公司債市場的日成交量會放緩，顯示該市場流動性擴張趨勢具有持續性。"
+    },
+    {
+      "id": "5100366",
+      "time": "2026-09-17 23:45:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，愛奇藝漲7.87%，燃石醫學漲6.95%，天演藥業漲6.15%，知乎漲5.35%，再鼎醫藥漲5.15%。"
+    },
+    {
+      "id": "5100365",
+      "time": "2026-09-17 23:44:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX AI部門擬購破產初創公司資料訓練Grok模型，標誌資料策略轉向】據知情人士透露，SpaceX旗下人工智慧部門SpaceXAI正進行非正式內部討論，考慮從陷入困境或已倒閉的初創公司收購客戶及運營資料，用於訓練其Grok等AI模型。此舉旨在獲取高質量外部資料集以提升模型效能，標誌著該公司不再單純依賴馬斯克社交平臺X的資料及內部“AI導師”團隊，轉而尋求更多元化的資料來源。該策略與谷歌此前競購精神航空業務資料用於AI訓練的做法類似，但相關談判尚處早期，最終未必達成協議，SpaceX方面未予置評。在競爭加劇背景下，SpaceXAI正努力拓展企業客戶並追趕微軟、OpenAI等對手，同時其內部AI導師團隊近期經歷領導層更迭與招聘暫停，新任負責人傑克·加拉貝迪安正著力穩定團隊並制定明確資料目標。儘管探索外部資料來源，SpaceXAI仍繼續利用內部資訊，馬斯克近期亦向員工表示將對Grok進行全面訓練以掌握公司內部知識。"
+    },
+    {
+      "id": "5100364",
+      "time": "2026-09-17 23:44:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 10 月天然氣期貨結算價為 190.73 便士 / 熱量單位。"
+    },
+    {
+      "id": "5100363",
+      "time": "2026-09-17 23:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX討論從倒閉初創企業收購資料，用於訓練人工智慧模型。"
+    },
+    {
+      "id": "5100362",
+      "time": "2026-09-17 23:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心：阿留申群島福克斯群島發生 6.49 級地震。"
+    },
+    {
+      "id": "5100361",
+      "time": "2026-09-17 23:38:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國商業航天3天4連捷】今年以來，我國商業航天領域捷報頻傳。從火箭回收到衛星批次組網，這一新興產業不斷實現工程化、規模化突破。9月15日到17日，我國商業航天迎來了發射四連捷。快舟十一號、長征十二號、朱雀二號改進型和引力一號成功實施發射。其中，三發火箭都承擔了我國正在建設的低軌衛星網際網路星座的組網任務，兩發民營公司的火箭還拉開了我國民營商業航天規模化參與該系統組網的序幕。（央視財經）"
+    },
+    {
+      "id": "5100360",
+      "time": "2026-09-17 23:38:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "希臘總理：希臘將採取措施緩解能源成本上漲。"
+    },
+    {
+      "id": "5100359",
+      "time": "2026-09-17 23:37:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空首席財務官：預計 2027 年業務勢頭將延續。"
+    },
+    {
+      "id": "5100358",
+      "time": "2026-09-17 23:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空首席財務官表示，飛機退役數量同比實際有所下降。"
+    },
+    {
+      "id": "5100357",
+      "time": "2026-09-17 23:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空首席財務官表示，航司停放閒置飛機的比例目前仍處於極低水平。"
+    },
+    {
+      "id": "5100356",
+      "time": "2026-09-17 23:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【欽州海事局開展智慧聯動一體化巡航 保障平陸運河通航安全】為護航平陸運河江海聯運體系安全順暢執行，9月17日，欽州海事局組織開展平陸運河通航後首次智慧“雙線”聯動一體化巡航，採取線上智慧感知、線下實地核查相結合的方式，對平陸運河入海口段通航安全狀況開展檢查。（央視新聞）"
+    },
+    {
+      "id": "5100355",
+      "time": "2026-09-17 23:35:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其拘留部分頂級基金高管並實施出境禁令】土耳其發表宣告稱，多名金融高管被拘留，另一些人被實施出境禁令，此舉是圍繞本週部分基金出現大規模資金外流事件所展開調查的一部分。檢察官辦公室的一份宣告稱，Pusula Portfoy Yonetimi AS董事長Muhammed Yariz和Hedef Holding AS董事長Namik Kemal Gokalp已被逮捕。商人Altunc Kumova被拘留。他是Destek Holding的大股東，在過去一年裡，他旗下部分公司的股價飆升了數千個百分點，從紙面財富來看，他已成為土耳其最富有的人之一。Tera Portfoy Yonetimi AS副執行長Ibrahim Bekci也被拘留。Tera Holding董事長Emre Tezmen和Pusula Holding的Serdar Turhan被禁止出境。土耳其當局週四早些時候下令清算由七家投資組合管理公司管理的130只基金，其中包括由Tera和Pusula管理的基金。一位不願透露姓名的知情人士表示，截至週三晚間，被下令清算的基金總投資額相當於約180億美元，涉及超過35萬名投資者。"
+    },
+    {
+      "id": "5100354",
+      "time": "2026-09-17 23:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁首席財務官表示，儘管預算延遲可能拖慢創新進度與新專案啟動，但由於2027年大部分收入已獲得資金撥付，預算延遲對業務的影響十分有限。"
+    },
+    {
+      "id": "5100353",
+      "time": "2026-09-17 23:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏在白烏邊境舉行陣亡軍人遺體交換】據白俄羅斯方面訊息，當地時間9月17日，俄烏陣亡軍人遺體交換在白俄羅斯—烏克蘭邊境一檢查站舉行，俄方向烏方移交252具遺體，烏方向俄方移交23具遺體。（央視新聞）"
+    },
+    {
+      "id": "te:economy:584676",
+      "time": "2026-09-17 23:34:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Over 1-Week Low — South Africa’s 10-year government bond yield fell to around 8.80%, its lowest in over a week, tracking a global decline, amid easing oil prices that alleviated some inflation concerns. Another key catalyst was the Federal Reserve’s decision to hike interest rates, with Chair Warsh reaffirming the central bank’s commitment to tackling inflation and reinforcing investor confidence in its policy credibility. Meanwhile, the Fed's move raised expectations for a similar move by the South African Reserve Bank (SARB), but economists remain divided over whether the central bank will raise rates or hold next week. The SARB will face another close call, with inflation on an upward trajectory and a weakening economy complicating the policy outlook. South Africa’s consumer inflation rate fell to 4.3% in July from 5% in June, though it is expected to rise again in August and September due to higher oil and fuel prices. The focus now turns to August inflation data, due on September 23."
+    },
+    {
+      "id": "te:markets:584674",
+      "time": "2026-09-17 23:32:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise After EIA Data — US natural gas prices rose to $2.92 per million British thermal units after EIA data showed that high temperatures and strong air-conditioning demand limited the amount of gas added to storage last week. Energy firms injected 44 billion cubic feet into storage in the week ended September 11, below the 87 bcf increase a year earlier and the five-year average of 74 bcf. Total inventories reached 3.298 trillion cubic feet, around 3.6% below last year’s level but 3.7% above the five-year average. Meanwhile, forecasts indicate warmer-than-normal weather could persist through October 2, supporting gas demand from power generators. Average flows to the nine major US LNG export facilities were expected to fall to a three-week low of 17.5 bcfd due mainly to maintenance at Cameron LNG in Louisiana. On the supply side, Lower 48 production averaged 113.1 bcfd in September, above August’s record monthly average of 112.2 bcfd."
+    },
+    {
+      "id": "5100352",
+      "time": "2026-09-17 23:32:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月17日4周國債競拍-得標利率 3.82%，前值3.775%。美國至9月17日4周國債競拍-得標利率配置百分比 69.59%，前值34.21%。美國至9月17日4周國債競拍-投標倍數 3.02，前值2.81。"
+    },
+    {
+      "id": "5100351",
+      "time": "2026-09-17 23:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達CEO黃仁勳預計明年晶片銷量將翻一番】英偉達執行長黃仁勳預計，隨著人工智慧在不同行業加速普及，公司未來一年晶片銷量將翻番。在週四參加英國國王查爾斯三世召集的一場活動期間，黃仁勳對記者表示，AI能夠為眾多行業帶來巨大益處。英偉達是AI加速器的最大供應商，這類晶片用於開發和執行人工智慧模型。雖然市場對AI的擔憂升溫，但黃仁勳仍保持樂觀看法。他表示，企業需要承擔責任，並在釋出AI軟體和服務前確保其安全性。英偉達上個月預計，下一財年營收將增長70%。公司當時表示，如果供應足以滿足激增的需求，營收可能實現翻倍。"
+    },
+    {
+      "id": "5100350",
+      "time": "2026-09-17 23:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.84%，報25751.75點。法國股指初步收漲0.68%，義大利股指初步收漲0.78%、銀行指數漲0.85%，英國股指初步收漲1.20%。"
+    },
+    {
+      "id": "5100349",
+      "time": "2026-09-17 23:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.94%，報643.05點。歐元區STOXX 50指數初步收漲0.96%，報6326.91點。富時泛歐績優300指數初步收漲0.94%，報2567.93點。"
+    },
+    {
+      "id": "te:economy:584673",
+      "time": "2026-09-17 23:30:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 12 bps — Government bonds yields are lower on Thursday. Top losers are Brazil 10Y (-12bps), United Kingdom 10Y (-11.86bps), US 10Y (-7.20bps), Germany 10Y (-3.07bps) and Japan 10Y (-0.40bps)."
+    },
+    {
+      "id": "5100348",
+      "time": "2026-09-17 23:28:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁首席財務官表示，供應鏈是產能擴張過程中的最大風險因素。"
+    },
+    {
+      "id": "5100347",
+      "time": "2026-09-17 23:28:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國經濟學家：美聯儲或開啟新一輪加息週期，美聯儲所需加息幅度或超官方估計】畢馬威美國首席經濟學家斯旺克認為，這次加息並非“一次就結束”，實際所需加息幅度可能超過官方估計。她還強調，美國通脹高企已持續五年，而高通脹越久越難應對，所以必須從現在開始著手應對，而且想要真正遏制通脹，還需要更多舉措。芝商所美聯儲觀察工具最新市場預測顯示，10月份美聯儲加息25個基點的機率大於57%；12月美聯儲再加息25個基點、把聯邦基準利率提升至4.25%至4.5%的機率為43%。（央視財經）"
+    },
+    {
+      "id": "5100346",
+      "time": "2026-09-17 23:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Databricks首席執行：Databricks將會上市，但當前會優先聚焦業務。"
+    },
+    {
+      "id": "5100345",
+      "time": "2026-09-17 23:26:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "財捷集團股價上漲1.7%，創盤中新高。"
+    },
+    {
+      "id": "te:economy:584672",
+      "time": "2026-09-17 23:26:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US natural gas storage increased by 44 billion cubic feet in the week ended September 11, 2026, slightly below market expectations of a 49 bcf injection. The build was significantly smaller than the 87 bcf increase recorded during the same week last year and the five-year average injection of 74 bcf for the period from 2021 to 2025. Total working gas in storage rose to 3.298 trillion cubic feet, leaving inventories around 3.6% below levels recorded in the corresponding week a year earlier but approximately 3.7% above the five-year average. The latest data followed a 40 bcf injection in the previous week ended September 4."
+    },
+    {
+      "id": "5100344",
+      "time": "2026-09-17 23:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國漁業部長級代表在會見漁民後表示：漁民已承諾解除港口封鎖。"
+    },
+    {
+      "id": "5100343",
+      "time": "2026-09-17 23:25:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "土耳其拘留 Destek 公司董事長，Tera 公司董事長被實施出境限制。"
+    },
+    {
+      "id": "5100342",
+      "time": "2026-09-17 23:25:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "Databricks執行長：人工智慧對人類構成的風險近乎為零。"
+    },
+    {
+      "id": "5100341",
+      "time": "2026-09-17 23:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德首席財務官表示：\"我們預計2026年的利潤率將與我們的指引保持一致\"。"
+    },
+    {
+      "id": "5100340",
+      "time": "2026-09-17 23:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安理會否決伊朗制裁委員會專家小組授權延期決議】聯合國安理會17日未能透過伊朗制裁委員會專家小組授權延期決議。這一由美國起草的決議草案表決結果為：11票贊成、2票反對、2票棄權。安理會常任理事國俄羅斯和中國投了反對票，決議草案被否決。表決前，俄羅斯和中國代表均指出，核可伊朗核問題全面協議的安理會第2231號決議已於去年10月18日失效，伊朗核問題已經從安理會議程中剔除。（新華社）"
+    },
+    {
+      "id": "5100339",
+      "time": "2026-09-17 23:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁首席財務官表示，第三季度的專案風險解除規模可能低於第二季度，“在我們向目標利潤率推進的過程中，業績可能會出現一定波動”。"
+    },
+    {
+      "id": "5100338",
+      "time": "2026-09-17 23:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗召見德國大使，就德國干涉伊朗事務提出抗議。"
+    },
+    {
+      "id": "5100337",
+      "time": "2026-09-17 23:21:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【莫斯科三大機場1-7月客流量同比下降3.5% 多莫傑多沃降幅最大】俄羅斯聯邦航空運輸署（Rosaviatsiya）統計資料顯示，今年1月至7月，莫斯科三大主要機場累計客運量為4040萬人次，較去年同期下降3.5%。三大機場中，多莫傑多沃機場降幅最為顯著，客流量同比下降13.2%至約690萬人次，在莫斯科航空樞紐總客流量中的份額從18.9%降至17%。伏努科沃機場客運量小幅下降1.4%，突破900萬人次，但其市場份額逆勢上升至22.5%。謝列梅捷沃機場作為俄羅斯最大機場，客運量為2450萬人次，同比下降1%，市場份額從59%提升至60.5%，繼續保持絕對主導地位。"
+    },
+    {
+      "id": "5100336",
+      "time": "2026-09-17 23:21:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒披露防衛力量整備計劃草案】據日本共同社報道，圍繞日本政府將於年底修改的“安保三檔案”，多名相關人士9月16日透露了其中《防衛力量整備計劃》草案的內容。在2027至2031年度的5年間，日本政府考慮引進約5.2萬臺用於遠端打擊、情報收集等任務的無人裝備。此外，包括長射程導彈在內，為強化從敵方射程外實施攻擊的“防區外防衛能力”，所需經費估算將超過9萬億日元（約合人民幣3890億元），接近現行計劃的兩倍。（CCTV國際時訊）"
+    },
+    {
+      "id": "em:qqyh_ygyh:202609173877654221",
+      "time": "2026-09-17 23:19:22",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "摩根大通預計英國央行將在2027年2月加息25個基點，而此前預測為2027年兩次降息。"
+    },
+    {
+      "id": "5100335",
+      "time": "2026-09-17 23:18:54",
+      "tags": [
+        "央行",
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通：預計英國央行將在2027年2月加息25個基點，此前其預測為2027年將降息兩次。"
+    },
+    {
+      "id": "5100334",
+      "time": "2026-09-17 23:18:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿拉比卡咖啡豆期貨連跌三日 巴西增產預期推動庫存重建】阿拉比卡咖啡豆期貨連續第三個交易日下跌，交投最活躍合約週四跌1.9%，降至6月下旬以來最低水平；羅布斯塔期貨在倫敦市場跌幅達1.3%。市場下跌主因是全球最大咖啡種植國巴西產量增加預期推動庫存重建，此前因降雨擾亂巴西收成而引發的價格上漲壓力已基本消退。國際咖啡組織預測，2025-26年度全球咖啡產量將達到1.836億袋（每袋60公斤），較上年增長4.4%。巴西在洲際交易所（ICE）的認證咖啡庫存已升至23,920袋，為4月中旬以來最高水平。荷蘭合作銀行農產品研究主管卡洛斯·梅拉指出，隨著產量增加，阿拉比卡咖啡豆庫存已出現明顯重建跡象，對價格形成壓力。阿拉比卡咖啡豆相對於羅布斯塔咖啡豆的溢價已從月初的每磅1.51美元收窄至約1.24美元，套利空間大幅縮小。J. Ganes Consulting總裁朱迪·蓋恩斯表示，此前被視為利好的因素現已消失，咖啡價格已回落至恐慌性上漲前的水平。"
+    },
+    {
+      "id": "5100333",
+      "time": "2026-09-17 23:16:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至9月17日，美國中央司令部部隊已重新引導104艘商船，以確保嚴格遵守規定。"
+    },
+    {
+      "id": "5100332",
+      "time": "2026-09-17 23:16:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英德拉牽頭兩大歐空局戰略專案，旨在從近地軌道推進IRIS²政務服務落地。"
+    },
+    {
+      "id": "5100331",
+      "time": "2026-09-17 23:15:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲招標發行的4周短期國庫券總額為76億美元。"
+    },
+    {
+      "id": "5100330",
+      "time": "2026-09-17 23:15:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲招標購買的8週期國庫券總額為72億美元。"
+    },
+    {
+      "id": "5100329",
+      "time": "2026-09-17 23:15:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國非競爭性投標對四周期國債的報價為56.299億美元。"
+    },
+    {
+      "id": "5100328",
+      "time": "2026-09-17 23:15:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國非競爭性投標，以13.7億美元的價格競標為期八週的短期國債。"
+    },
+    {
+      "id": "5100327",
+      "time": "2026-09-17 23:15:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數料將迎來三連漲，最新上漲2.9%。"
+    },
+    {
+      "id": "5100326",
+      "time": "2026-09-17 23:12:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "財捷集團預計 2027 財年營收為 232.8 億至 235.1 億美元。"
+    },
+    {
+      "id": "5100325",
+      "time": "2026-09-17 23:12:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報756.70元。"
+    },
+    {
+      "id": "5100324",
+      "time": "2026-09-17 23:11:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "財捷集團：消費者業務板塊三年複合年均增長率目標為 4% 至 8%。"
+    },
+    {
+      "id": "5100323",
+      "time": "2026-09-17 23:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "財捷集團：旗下全球企業解決方案部門目標三年複合年增長率 10%-15%。"
+    },
+    {
+      "id": "5100322",
+      "time": "2026-09-17 23:10:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其股市收盤上漲 3%，銀行指數飆升 8.9%。"
+    },
+    {
+      "id": "5100321",
+      "time": "2026-09-17 23:10:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【安哥拉11月原油出口預計降至85萬桶/日 為2008年以來最低】據初步裝船計劃顯示，安哥拉11月原油出口量預計為每日85萬桶，若該計劃落實，將是自2008年2月相關資料開始追蹤以來的最低月度出口水平。11月裝船計劃共安排27批貨物，總裝載量約2550萬桶。較10月修正後的90萬桶/日出口量有所下滑。其中，一批原定於10月下旬交付的吉拉索爾原油已推遲至11月初裝運，最終裝船日程預計將於本月晚些時候公佈。安哥拉原油產量自2008年峰值後持續下滑，多數主力油田已進入開發中後期，自然遞減率高企，疊加上游投資不足，導致產能面臨結構性下降壓力。2025年安哥拉全年出口原油3.57億桶，石油收入224億美元，石油出口佔該國出口總額90%以上，是其國民經濟的核心支柱。"
+    },
+    {
+      "id": "5100320",
+      "time": "2026-09-17 23:10:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫德納股價觸及四周高位；最新漲幅為8%。"
+    },
     {
       "id": "5100319",
       "time": "2026-09-17 23:09:07",
