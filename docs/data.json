@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-17 17:45:57",
-  "count": 13595,
+  "updated": "2026-09-17 17:49:45",
+  "count": 13592,
   "items": [
+    {
+      "id": "mkt:01a0aec4-e90c-7118-85d9-7db8d13a3ef5",
+      "time": "2026-09-17 17:48:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi described her cabinet as decisive and action-oriented."
+    },
+    {
+      "id": "5099574",
+      "time": "2026-09-17 17:48:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧瑞金：控股股東累計增持0.87%公司股份】奧瑞金公告稱，公司控股股東上海原龍投資控股(集團)有限公司於2026年7月7日至2026年9月16日透過集中競價交易方式累計增持公司股份2233.42萬股，佔公司總股本的0.87%，增持金額合計1.00億元（不含交易費用），其一致行動人二十一兄弟、元龍利通未參與增持。本次增持後，上海原龍及其一致行動人合計持有公司股份佔總股本的34.51%。本次增持符合相關法律法規規定，屬於可免於發出要約的情形。"
+    },
+    {
+      "id": "5099573",
+      "time": "2026-09-17 17:48:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九強生物：擬參與參股公司中科納泰股權重組】九強生物公告稱，公司參股公司中科納泰因經營資金緊張、原A1輪投資人君澤壹號提起股權回購仲裁，擬實施股權重組。公司擬以1元/每一元註冊資本的價格，新增認購中科納泰註冊資本2.6212萬元，認購價款合計2.6212萬元，同時放棄2021年《股東協議》項下的回購權及優先購買權。本次重組完成後，公司持有中科納泰股權比例將由5.1387%升至6.3520%。本次交易在董事會授權董事長審批許可權內，已獲董事長審批透過，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5099572",
+      "time": "2026-09-17 17:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理馬克・卡尼在歐洲議會發表講話。"
+    },
+    {
+      "id": "5099571",
+      "time": "2026-09-17 17:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天音控股：控股股東一致行動人9.63%股份將被司法拍賣】天音控股公告稱，公司控股股東深投控的一致行動人天富錦持有的9867.38萬股公司股份，將於2026年10月1日10時至10月2日10時在京東資產交易平臺進行第三次公開拍賣，該股份佔公司總股本的9.63%，佔控股股東及其一致行動人持股總額的33.60%。本次拍賣不會導致公司控制權變更，不會對公司治理及日常經營產生重大影響。本次拍賣尚處於公示階段，結果存在不確定性。"
+    },
+    {
+      "id": "5099570",
+      "time": "2026-09-17 17:46:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高華科技：2026年上半年營收1.37億元 同比降25.88%】高華科技公告稱，2026年半年度實現營業收入1.37億元，同比下降25.88%；歸屬於上市公司股東的淨虧損2941.62萬元，同比下降195.09%；扣除非經常性損益的淨虧損3445.92萬元，同比下降249.10%。研發投入4111.66萬元，佔營業收入比例30.09%，同比提升11.70個百分點。保薦人中信證券核查未發現公司存在重大問題及重大違規事項，募集資金使用合規，核心競爭力未發生重大不利變化。"
+    },
+    {
+      "id": "mkt:01a0aec2-fa99-7118-85d9-769252f5aa49",
+      "time": "2026-09-17 17:46:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Aohong Electronics: Thailand plant still in product certification, small-scale production】Aohong Electronics said on Sept. 17 its Thailand production base remains in product certification and small-volume production. Long customer certification cycles, capacity ramp-up and local supply-chain adjustments mean the plant is unlikely to have a material near-term impact on earnings. The company flagged the PCB market is highly sensitive to macro industrial policy, upstream raw-material supply and downstream demand, and that major external changes could affect future revenue and profits. Aohong warned its share-price gains after five consecutive limit-up sessions have significantly diverged from fundamentals, citing overheating and irrational speculation and warning of risk of a sizeable short-term correction."
+    },
+    {
+      "id": "mkt:01a0aec2-370a-7118-85d9-6ee47d21261b",
+      "time": "2026-09-17 17:45:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin said new U.S. sanctions will make reaching a peace agreement in Ukraine more difficult, called the measures unfriendly and said it is monitoring the situation."
+    },
+    {
+      "id": "5099569",
+      "time": "2026-09-17 17:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方稱因俄羅斯對烏克蘭發動襲擊而緊急出動軍機。"
+    },
+    {
+      "id": "5099568",
+      "time": "2026-09-17 17:45:47",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式貼現（六十一期）國債】本期國債為期限182天的貼現債。國債競爭性招標面值總額600億元，進行甲類成員追加投標。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本期國債自2026年9月24日開始計息，於2027年3月25日（節假日順延）按面值償還。"
+    },
     {
       "id": "mkt:01a0aec1-e761-7118-85d9-6300e765587a",
       "time": "2026-09-17 17:45:38",
@@ -9,6 +96,14 @@
         "MKT News"
       ],
       "text": "【Ministry of Finance to issue 182-day book-entry discount bond (2026, 61st tranche)】182-day discount bond. Competitive tender for a CNY60 billion face amount, with additional bids from Category A members. Issue price set by competitive bidding; issued at a discount to par. Accrues from 24 Sept 2026; redeemed at par on 25 Mar 2027 (business-day adjustment)."
+    },
+    {
+      "id": "5099567",
+      "time": "2026-09-17 17:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就美國製裁法案表態：我們正密切關注此事，這是一項不友好的行動。"
     },
     {
       "id": "5099566",
@@ -125249,144 +125344,6 @@
         "Europe & UK"
       ],
       "text": "UN climate affairs head says the EU's \"hellish heat\" is exacerbating inf pressures."
-    },
-    {
-      "id": "5087090",
-      "time": "2026-09-10 17:49:44",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "匈牙利財政部長：匈牙利國債收益率下跌表明投資者信心迴歸。"
-    },
-    {
-      "id": "5087089",
-      "time": "2026-09-10 17:49:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國氣候事務負責人表示，歐盟今夏遭遇的“酷熱地獄”正在加劇通脹壓力。"
-    },
-    {
-      "id": "5087088",
-      "time": "2026-09-10 17:48:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦：尚未決定就胡塞武裝襲擊沙特作出軍事回應】巴基斯坦外交部發言人薩賈德·海德爾·汗10日表示，巴基斯坦強烈譴責葉門胡塞武裝襲擊沙烏地阿拉伯，但巴方目前尚未決定就此事作出軍事回應，巴方將在“時機成熟”時採取行動。沙烏地阿拉伯、土耳其、巴基斯坦三國8月7日簽署《麥加共同防務協議》。協議規定，對三國中任何一國的武裝攻擊將被視為對三國全體的攻擊。"
-    },
-    {
-      "id": "5087087",
-      "time": "2026-09-10 17:48:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦欣生殖攜手季維智院士 擬打造一體化再生醫學轉化平臺】錦欣生殖9月9日釋出“有關擬發展聚焦女性健康的轉化平臺之業務”更新公告，公告顯示，錦欣集團與季維智教授簽訂研究合作備忘錄，雙方同意探索生殖與發育生物學、再生醫學、疾病模型及轉化醫學等領域的合作，初步關注領域包括卵巢早衰、卵巢功能減退以及其他生殖及女性健康相關疾病，同時，在具備科學理據情況下，非人靈長類動物模型可作為特定研究專案的一部分予以考慮。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a08ab7-f0c1-7118-8523-c24cb5462969",
-      "time": "2026-09-10 17:48:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Rosneft's Ryazan refinery hit by drone, halts operations; repairs may take weeks】Two industry sources told Reuters Rosneft's Ryazan refinery stopped operating after a drone strike on Sept. 6. Primary crude distillation units CDU-6 and CDU-4 are offline; CDU-6 caught fire. CDU-6 has annual processing capacity of 8 mln t (about 160,000 bpd), roughly half the plant's capacity; CDU-4 is 4 mln t/yr. CDU-3 has been under maintenance since mid‑May. Sources said repairs to the damaged units could take several weeks."
-    },
-    {
-      "id": "te:economy:582732",
-      "time": "2026-09-10 17:48:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Mining Production",
-        "Importance 1"
-      ],
-      "text": "South Africa Mining Output Falls More Than Expected — Mining production in South Africa plunged by 7.5% year-on-year in July 2026, after an upwardly revised 4.3% drop in June and worse than analysts' forecasts of a 2.8% slump. The latest decline extended South Africa’s mining downturn to three consecutive months and was the sharpest since February 2025. The industry continues to face structural constraints, including logistics bottlenecks, high operating costs, ageing mines and weaker demand for some commodities like iron ore and coal. Output declined across almost all categories, with platinum group metals (PGMs) (-13.5%), coal (-7.5%) and iron ore (-8%) making the largest negative contributions. On a seasonally adjusted monthly basis, mining production shrank by 1.9%, after a downwardly revsied 0.1% increase in the month before. Mining production slipped by 5.5% in the three months ended July 2026 compared with the previous three months."
-    },
-    {
-      "id": "5087086",
-      "time": "2026-09-10 17:48:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【攜程美食林十週年慶典在新加坡聖淘沙名勝世界啟幕】近日，攜程美食林十週年慶典暨2027全球高階餐廳榜單釋出活動在新加坡聖淘沙名勝世界舉行。過去十年間，攜程美食林已覆蓋全球66個國家和地區、400餘個旅行目的地，收錄超14000家榜單餐廳，地理覆蓋躋身全球前三。（新浪科技）"
-    },
-    {
-      "id": "5087085",
-      "time": "2026-09-10 17:48:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "新加坡交易所有限公司：8月證券市場總成交額同比攀升29%，達到433億新元。"
-    },
-    {
-      "id": "mkt:01a08ab7-99a0-7118-8523-bb4def69e68b",
-      "time": "2026-09-10 17:48:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan says no decision yet on military response to Houthi attack on Saudi Arabia】Pakistan strongly condemned the Houthi attack on Saudi Arabia but has not decided on a military response, Foreign Ministry spokesman Sajjad Haider Khan said on the 10th. Asked how Pakistan would meet obligations under the Mecca mutual defence agreement, he said Islamabad would act \"when the time is right.\""
-    },
-    {
-      "id": "mkt:01a08ab7-59c5-7118-8523-b6039fbef635",
-      "time": "2026-09-10 17:47:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "UK 10-year gilt yield hit 5.295%, the highest level since 2007."
-    },
-    {
-      "id": "mkt:01a08ab6-f451-7118-8523-a8f651f5db78",
-      "time": "2026-09-10 17:47:20",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【ECB preview: 25bp hike to 2.50% fully priced; Lagarde's press conference to set tone】ECB is expected to raise the deposit rate 25bps to 2.50% — the move is already fully priced; markets will treat President Lagarde's press conference as the main source of new information. Eurozone headline inflation accelerated to 3.3% YoY in August, with energy and geopolitics pushing gas to the highest levels since 2022; core and services inflation are continuing to slow, while economic activity has shown surprising resilience. The hike will put the deposit rate at the top of the ECB's estimated neutral range. Statement language is unlikely to change materially; meeting-by-meeting, data-dependent wording and the current risk-balance framing are expected to remain. Lagarde's tone is the critical market pivot: a hawkish tone would underline a persistent energy shock, upside inflation risks and scope for further tightening; a dovish tone would stress easing core/services inflation and risks of over-tightening via tighter financial conditions. Prognosis for forecasts: markets expect upward revisions to growth; inflation outlooks diverge — Goldman Sachs sees modest 2026 downside but brings 2027 headline inflation up to 2.7% (core 2.6%); UniCredit leans hawkish; MUFG flags 2026 revisions and warns forecasts may be outdated. Key policy question is whether September marks the end of the hiking cycle — MUFG and ING lean terminal in September, while Goldman Sachs, Wells Fargo and UniCredit see material upside risk if energy prices remain high; most banks do not expect an explicit commitment to further hikes. Market pricing implies ~48bps more tightening by year-end and ~85bps by end-2027; a dovish Lagarde could prompt downshifts in tightening expectations and pressure the euro, while a hawkish signal would be needed to support EUR. Near-term risk: US CPI and the FOMC could quickly re-center market attention and dominate EUR/USD and global rates moves."
-    },
-    {
-      "id": "5087084",
-      "time": "2026-09-10 17:47:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "新交所 8 月證券市場總成交額為 432.7 億新加坡元。"
-    },
-    {
-      "id": "mkt:01a08ab6-4711-7118-8523-a740df9b9984",
-      "time": "2026-09-10 17:46:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israel's defense minister KATZ said any Iranian strike would set Iran back decades and undermine the stability of its regime. The Israeli military is on high alert and prepared to conduct operations."
-    },
-    {
-      "id": "5087083",
-      "time": "2026-09-10 17:46:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠大控股等成立商貿公司】企查查APP顯示，近日，遠大天一商貿（浙江）有限公司成立，法定代表人為許朝陽，註冊資本5000萬元，經營範圍包含食用農產品批發；食用農產品零售；國內貿易代理；金屬材料銷售；木材銷售；金屬礦石銷售等。企查查股權穿透顯示，該公司由遠大控股全資子公司遠大物產集團有限公司、上海正和信誠企業管理有限公司共同持股。"
     }
   ]
 }

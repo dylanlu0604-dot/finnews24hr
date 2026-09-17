@@ -1,7 +1,94 @@
 {
   "date": "2026-09-17",
-  "count": 1898,
+  "count": 1909,
   "items": [
+    {
+      "id": "mkt:01a0aec4-e90c-7118-85d9-7db8d13a3ef5",
+      "time": "2026-09-17 17:48:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi described her cabinet as decisive and action-oriented."
+    },
+    {
+      "id": "5099574",
+      "time": "2026-09-17 17:48:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧瑞金：控股股東累計增持0.87%公司股份】奧瑞金公告稱，公司控股股東上海原龍投資控股(集團)有限公司於2026年7月7日至2026年9月16日透過集中競價交易方式累計增持公司股份2233.42萬股，佔公司總股本的0.87%，增持金額合計1.00億元（不含交易費用），其一致行動人二十一兄弟、元龍利通未參與增持。本次增持後，上海原龍及其一致行動人合計持有公司股份佔總股本的34.51%。本次增持符合相關法律法規規定，屬於可免於發出要約的情形。"
+    },
+    {
+      "id": "5099573",
+      "time": "2026-09-17 17:48:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九強生物：擬參與參股公司中科納泰股權重組】九強生物公告稱，公司參股公司中科納泰因經營資金緊張、原A1輪投資人君澤壹號提起股權回購仲裁，擬實施股權重組。公司擬以1元/每一元註冊資本的價格，新增認購中科納泰註冊資本2.6212萬元，認購價款合計2.6212萬元，同時放棄2021年《股東協議》項下的回購權及優先購買權。本次重組完成後，公司持有中科納泰股權比例將由5.1387%升至6.3520%。本次交易在董事會授權董事長審批許可權內，已獲董事長審批透過，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5099572",
+      "time": "2026-09-17 17:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理馬克・卡尼在歐洲議會發表講話。"
+    },
+    {
+      "id": "5099571",
+      "time": "2026-09-17 17:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天音控股：控股股東一致行動人9.63%股份將被司法拍賣】天音控股公告稱，公司控股股東深投控的一致行動人天富錦持有的9867.38萬股公司股份，將於2026年10月1日10時至10月2日10時在京東資產交易平臺進行第三次公開拍賣，該股份佔公司總股本的9.63%，佔控股股東及其一致行動人持股總額的33.60%。本次拍賣不會導致公司控制權變更，不會對公司治理及日常經營產生重大影響。本次拍賣尚處於公示階段，結果存在不確定性。"
+    },
+    {
+      "id": "5099570",
+      "time": "2026-09-17 17:46:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高華科技：2026年上半年營收1.37億元 同比降25.88%】高華科技公告稱，2026年半年度實現營業收入1.37億元，同比下降25.88%；歸屬於上市公司股東的淨虧損2941.62萬元，同比下降195.09%；扣除非經常性損益的淨虧損3445.92萬元，同比下降249.10%。研發投入4111.66萬元，佔營業收入比例30.09%，同比提升11.70個百分點。保薦人中信證券核查未發現公司存在重大問題及重大違規事項，募集資金使用合規，核心競爭力未發生重大不利變化。"
+    },
+    {
+      "id": "mkt:01a0aec2-fa99-7118-85d9-769252f5aa49",
+      "time": "2026-09-17 17:46:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Aohong Electronics: Thailand plant still in product certification, small-scale production】Aohong Electronics said on Sept. 17 its Thailand production base remains in product certification and small-volume production. Long customer certification cycles, capacity ramp-up and local supply-chain adjustments mean the plant is unlikely to have a material near-term impact on earnings. The company flagged the PCB market is highly sensitive to macro industrial policy, upstream raw-material supply and downstream demand, and that major external changes could affect future revenue and profits. Aohong warned its share-price gains after five consecutive limit-up sessions have significantly diverged from fundamentals, citing overheating and irrational speculation and warning of risk of a sizeable short-term correction."
+    },
+    {
+      "id": "mkt:01a0aec2-370a-7118-85d9-6ee47d21261b",
+      "time": "2026-09-17 17:45:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin said new U.S. sanctions will make reaching a peace agreement in Ukraine more difficult, called the measures unfriendly and said it is monitoring the situation."
+    },
+    {
+      "id": "5099569",
+      "time": "2026-09-17 17:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方稱因俄羅斯對烏克蘭發動襲擊而緊急出動軍機。"
+    },
+    {
+      "id": "5099568",
+      "time": "2026-09-17 17:45:47",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式貼現（六十一期）國債】本期國債為期限182天的貼現債。國債競爭性招標面值總額600億元，進行甲類成員追加投標。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本期國債自2026年9月24日開始計息，於2027年3月25日（節假日順延）按面值償還。"
+    },
     {
       "id": "mkt:01a0aec1-e761-7118-85d9-6300e765587a",
       "time": "2026-09-17 17:45:38",
@@ -9,6 +96,14 @@
         "MKT News"
       ],
       "text": "【Ministry of Finance to issue 182-day book-entry discount bond (2026, 61st tranche)】182-day discount bond. Competitive tender for a CNY60 billion face amount, with additional bids from Category A members. Issue price set by competitive bidding; issued at a discount to par. Accrues from 24 Sept 2026; redeemed at par on 25 Mar 2027 (business-day adjustment)."
+    },
+    {
+      "id": "5099567",
+      "time": "2026-09-17 17:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就美國製裁法案表態：我們正密切關注此事，這是一項不友好的行動。"
     },
     {
       "id": "5099566",
