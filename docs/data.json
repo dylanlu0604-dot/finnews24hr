@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-18 05:11:35",
-  "count": 13341,
+  "updated": "2026-09-18 05:15:25",
+  "count": 13335,
   "items": [
+    {
+      "id": "mkt:01a0b138-ec10-7118-85e9-f814f357842a",
+      "time": "2026-09-18 05:14:52",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "The US Federal Communications Commission approved the use of foreign funds to finance the Paramount-Warner Bros. merger."
+    },
+    {
+      "id": "5100691",
+      "time": "2026-09-18 05:14:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會批准派拉蒙與華納兄弟併購交易中的外資相關事項。"
+    },
+    {
+      "id": "5100690",
+      "time": "2026-09-18 05:13:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：授權 PJM 排程備用發電資源。啟用備用兜底方案，觸發能源緊急警報前的最後手段。"
+    },
+    {
+      "id": "5100689",
+      "time": "2026-09-18 05:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部針對炎熱天氣釋出關於停電風險的命令。"
+    },
     {
       "id": "5100688",
       "time": "2026-09-18 05:10:40",
@@ -122671,101 +122706,6 @@
         "國際"
       ],
       "text": "美國內政部長伯格姆：燃料出口管制過去曾推高價格。"
-    },
-    {
-      "id": "mkt:01a08d2c-4241-7118-8535-a1f07753e257",
-      "time": "2026-09-11 05:14:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "【Microsoft to more than triple global data‑center capacity to over 38 GW by 2032 to ease AI compute shortage】People familiar with the matter said Microsoft (MSFT.O) plans to expand global data‑center capacity to more than 38 GW by 2032 from about 12 GW today — a greater‑than threefold increase — to address compute shortages driven by rapid AI and cloud demand. The roadmap covers owned and leased data centers but excludes compute rented from newer cloud providers such as CoreWeave. The plan remains subject to customer demand and technological change. Sources said Microsoft previously limited some data‑center builds, turned away certain AI and cloud workloads, and restricted new cloud subscriptions in parts of the US and Europe, prompting some customers to migrate to competitors. Microsoft said it is accelerating data‑center construction. The company’s latest fiscal‑year capital expenditure was $145.0 bln; analysts expect capex to rise in coming years."
-    },
-    {
-      "id": "5088293",
-      "time": "2026-09-11 05:14:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：我們隨時準備與美方坐下來談判。"
-    },
-    {
-      "id": "mkt:01a08d2c-0956-7118-8535-997781b0e3e3",
-      "time": "2026-09-11 05:14:28",
-      "tags": [
-        "MKT News",
-        "ORCL.N"
-      ],
-      "text": "Oracle (ORCL.N) CFO said capex will not rise linearly through the year and expects full-year capital expenditure to remain $9.0–9.5 billion."
-    },
-    {
-      "id": "mkt:01a08d2c-08a7-7118-8535-921598891192",
-      "time": "2026-09-11 05:14:28",
-      "tags": [
-        "MKT News",
-        "ORCL.O"
-      ],
-      "text": "Oracle (ORCL.N) CFO said incremental revenue backlog will not affect the company's capex or revenue; any impact will be reflected in fiscal 2028 or later."
-    },
-    {
-      "id": "mkt:01a08d2b-5c78-7118-8535-8b2dce6c61a5",
-      "time": "2026-09-11 05:13:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said the latest U.S. trade measures targeting Canada have limited impact."
-    },
-    {
-      "id": "5088292",
-      "time": "2026-09-11 05:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：美國最新針對加拿大的貿易措施力度溫和。"
-    },
-    {
-      "id": "mkt:01a08d2a-1bb2-7118-8535-85235a38dec6",
-      "time": "2026-09-11 05:12:22",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) CFO says roughly half of the company’s remaining performance obligations (RPO) are expected to convert into revenue over the next 36 months."
-    },
-    {
-      "id": "5088291",
-      "time": "2026-09-11 05:12:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：正在研究美國針對加拿大的新貿易措施。"
-    },
-    {
-      "id": "te:economy:582912",
-      "time": "2026-09-11 05:12:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "El Salvador PPI Slows in August — Producer prices in El Salvador rose 3.52% year-on-year in August 2026, easing slightly from a 3.54% increase in July. The slowdown was largely driven by lower price growth in manufacturing (3% vs. 3.14% in July) and transport and warehousing (4.59% vs. 8.35%). Meanwhile, prices rose at a faster pace for electricity, gas, steam and air conditioning (23.38% vs. 23.05%), lodging and food services (2.62% vs. 2.02%), real estate (4.18% vs. 1.77%) and professional, scientific and technical activities (1.56% vs. 1.43%). Information and telecommunications prices were unchanged, while education slowed to 1.80% from 2.82%. Producer prices continued to decline for water supply, sewerage and waste management (-0.15%), while healthcare prices fell 2.39% from 2.49% in July."
-    },
-    {
-      "id": "5088290",
-      "time": "2026-09-11 05:11:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文CEO：預計全年資本開支維持在 900 億至 950 億美元區間。全年資本開支不會呈線性分佈。"
     }
   ]
 }

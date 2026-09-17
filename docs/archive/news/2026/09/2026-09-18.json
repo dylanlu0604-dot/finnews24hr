@@ -1,7 +1,42 @@
 {
   "date": "2026-09-18",
-  "count": 350,
+  "count": 354,
   "items": [
+    {
+      "id": "mkt:01a0b138-ec10-7118-85e9-f814f357842a",
+      "time": "2026-09-18 05:14:52",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "The US Federal Communications Commission approved the use of foreign funds to finance the Paramount-Warner Bros. merger."
+    },
+    {
+      "id": "5100691",
+      "time": "2026-09-18 05:14:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會批准派拉蒙與華納兄弟併購交易中的外資相關事項。"
+    },
+    {
+      "id": "5100690",
+      "time": "2026-09-18 05:13:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：授權 PJM 排程備用發電資源。啟用備用兜底方案，觸發能源緊急警報前的最後手段。"
+    },
+    {
+      "id": "5100689",
+      "time": "2026-09-18 05:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部針對炎熱天氣釋出關於停電風險的命令。"
+    },
     {
       "id": "5100688",
       "time": "2026-09-18 05:10:40",
