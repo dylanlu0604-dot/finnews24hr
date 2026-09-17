@@ -1,7 +1,87 @@
 {
   "date": "2026-09-17",
-  "count": 2345,
+  "count": 2354,
   "items": [
+    {
+      "id": "5100212",
+      "time": "2026-09-17 22:14:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力集團與甲骨文簽署可再生能源協議，服務其得州業務。"
+    },
+    {
+      "id": "mkt:01a0afb8-084b-7118-85e3-b94f60d2e3e4",
+      "time": "2026-09-17 22:14:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ORCL.N"
+      ],
+      "text": "French energy group Engie signed a renewable energy agreement with ORACLE (ORCL.N) to support ORACLE's operations in Texas."
+    },
+    {
+      "id": "5100211",
+      "time": "2026-09-17 22:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞領導人將最新局勢升級歸咎於 “沙特的侵略行為”。"
+    },
+    {
+      "id": "5100210",
+      "time": "2026-09-17 22:13:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部反壟斷部門官員表示，Frontier Labs尚未就與安全協調相關的反壟斷關切請求會面。"
+    },
+    {
+      "id": "5100209",
+      "time": "2026-09-17 22:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔信託：將召開獨立董事會會議，審議評估結果並確定塔塔之子上市事宜的適當行動方案。"
+    },
+    {
+      "id": "mkt:01a0afb6-6b60-7118-85e3-b3508c803a5d",
+      "time": "2026-09-17 22:12:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tata Trusts said it has not yet agreed to back an IPO of Tata Sons, the Tata Group's holding company."
+    },
+    {
+      "id": "te:economy:584659",
+      "time": "2026-09-17 22:12:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Pending Home Sales MoM",
+        "Importance 2"
+      ],
+      "text": "US Pending Home Sales Miss Expectations — US pending home sales rose 0.3% month over month in August 2026, rebounding from a revised 2.6% decline in July but falling short of market expectations for a 2.0% increase. Sales increased in the South (2.3%) and West (3.0%), partly offsetting declines in the Northeast (-4.2%) and Midwest (-1.6%). On an annual basis, pending home sales fell 4.7%, with all four major US regions recording declines. “Buyers steadily entered into contracts in August even though mortgage rates increased,” said NAR Chief Economist Lawrence Yun. However, he noted that the housing market remains sluggish, with contract signings below last year’s levels as higher mortgage rates offset gains in purchasing power from job and income growth. Yun added that national contract signings are roughly 30% below pre-pandemic levels. Activity peaked in 2021, when mortgage rates fell to near 3%, a historic low, and has not returned to those levels since."
+    },
+    {
+      "id": "5100208",
+      "time": "2026-09-17 22:11:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔信託基金表示，尚未同意塔塔之子公司上市。"
+    },
+    {
+      "id": "5100207",
+      "time": "2026-09-17 22:11:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率回落至5.30%，日內下跌6個基點。"
+    },
     {
       "id": "mkt:01a0afb4-42a2-7118-85e3-aa2c55dd1d2b",
       "time": "2026-09-17 22:10:21",
