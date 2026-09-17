@@ -1,7 +1,162 @@
 {
-  "updated": "2026-09-17 22:58:29",
+  "updated": "2026-09-17 23:02:23",
   "count": 13405,
   "items": [
+    {
+      "id": "5100310",
+      "time": "2026-09-17 23:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：AT1債券是真實資本；貝萊德和品浩均支援AT1債券。"
+    },
+    {
+      "id": "5100309",
+      "time": "2026-09-17 23:01:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "圓桌公司與 Paradium.AI 簽署為期 10 年、價值 10 億美元的協議。"
+    },
+    {
+      "id": "mkt:01a0afe2-f9e1-7118-85e5-27aceb0d4d9f",
+      "time": "2026-09-17 23:01:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said the bank must engage in lobbying and warned against assuming lobbying has become excessive."
+    },
+    {
+      "id": "5100308",
+      "time": "2026-09-17 23:01:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯卡與聯邦快遞貨運宣佈建立長期系列賽事冠名合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a0afe2-cc3a-7118-85e5-1a1984c160b1",
+      "time": "2026-09-17 23:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says he can accept a compromise plan allowing use of AT1 instruments."
+    },
+    {
+      "id": "mkt:01a0afe2-86a2-7118-85e5-156ba28c601a",
+      "time": "2026-09-17 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the 23:00 close, most front-month domestic futures fell; benzene, PVC, coking coal, p-xylene, fuel oil, LPG and styrene were down more than 2%, while glass and soda ash posted small gains."
+    },
+    {
+      "id": "5100307",
+      "time": "2026-09-17 23:00:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣280億美元1年10個月期浮動利率債券。"
+    },
+    {
+      "id": "5100306",
+      "time": "2026-09-17 23:00:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣690億美元兩年期債券。"
+    },
+    {
+      "id": "5100305",
+      "time": "2026-09-17 23:00:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣790億美元的六個月期國庫券。"
+    },
+    {
+      "id": "5100304",
+      "time": "2026-09-17 23:00:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣920億美元三個月期國庫券。"
+    },
+    {
+      "id": "te:markets:584666",
+      "time": "2026-09-17 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.49% — Top currency gainers are Swedish Krona (0.49%), New Zealand Dollar (0.39%), Mexican Peso (0.37%), Japanese Yen (0.34%) and Euro (0.18%). Biggest losers are British Pound (-0.22%) and Dollar Index (-0.10%)."
+    },
+    {
+      "id": "5100303",
+      "time": "2026-09-17 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】PVC連續跌2.61%，焦煤連續跌2.51%，燃料油連續跌2.41%，液化石油氣連續跌2.40%，苯乙烯連續跌2.30%。"
+    },
+    {
+      "id": "mkt:01a0afe1-0f56-7118-85e5-0fdd149a53c4",
+      "time": "2026-09-17 22:59:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Preliminary plans show Angola's November crude oil exports will fall to their lowest level since at least 2008."
+    },
+    {
+      "id": "5100302",
+      "time": "2026-09-17 22:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團董事長：最新的資本要求提案是一項我們可以接受的妥協方案。"
+    },
+    {
+      "id": "5100301",
+      "time": "2026-09-17 22:58:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "安哥拉11月份原油出口量將至少為2008年以來最低。"
+    },
+    {
+      "id": "5100300",
+      "time": "2026-09-17 22:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加尼科爾斯基以西 165 公里處發生 6.5 級地震。"
+    },
+    {
+      "id": "mkt:01a0afe0-2640-7118-85e5-049f4c832663",
+      "time": "2026-09-17 22:58:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says Additional Tier 1 capital (AT1) is genuine capital."
+    },
     {
       "id": "5100299",
       "time": "2026-09-17 22:57:52",
@@ -123321,173 +123476,6 @@
         "US10Y"
       ],
       "text": "U.S. Treasury confirms up to $6.0 billion in long-term Treasury buybacks today."
-    },
-    {
-      "id": "5087884",
-      "time": "2026-09-10 23:02:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "丹麥央行將基準利率從1.85%上調至2.1%。"
-    },
-    {
-      "id": "5087883",
-      "time": "2026-09-10 23:02:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國國家統計與經濟研究所(INSEE)：法國HICP通脹預計將從8月的2.7%上升至12月的3.1%。預計2026年法國經濟增長0.4%，低於6月預測的0.7%。"
-    },
-    {
-      "id": "mkt:01a08bd7-09dd-7118-852f-20fc5070ab48",
-      "time": "2026-09-10 23:02:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "INSEE forecasts France's HICP inflation will rise to 3.1% in December from 2.7% in August. It now forecasts 2026 GDP growth of 0.4%, down from a 0.7% projection in June."
-    },
-    {
-      "id": "5087882",
-      "time": "2026-09-10 23:01:53",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部確認今日長債回購金額最高為60億美元。"
-    },
-    {
-      "id": "te:markets:582869",
-      "time": "2026-09-10 23:01:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "T-Mobile Us Stock Price Hits 4-week Low — T-Mobile Us shares decreased to 176.16 USD, the lowest since August 2026. Over the past 4 weeks, T-Mobile Us lost 1.26%, and in the last 12 months, it decreased 26.95%."
-    },
-    {
-      "id": "5087881",
-      "time": "2026-09-10 23:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "TAR在Spark Capital領投的A輪融資中估值達10億美元，籌資1.2億美元。"
-    },
-    {
-      "id": "mkt:01a08bd6-5514-7118-852f-1fc96de1bb93",
-      "time": "2026-09-10 23:01:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The IMF said India remains a global growth engine and is closely monitoring the impact of elevated oil prices on India’s economic outlook."
-    },
-    {
-      "id": "5087880",
-      "time": "2026-09-10 23:01:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：全球通脹預期上升，但長期來看仍保持穩定。中東戰爭帶來的能源衝擊尚未結束；全球債務壓力不斷加大，通脹回落程序已停滯。全球經濟增長仍有望在2026年達到約3%，但風險依然較高。建議央行保持關注價格穩定的任務，並鼓勵財政當局制定中期整頓計劃。"
-    },
-    {
-      "id": "mkt:01a08bd6-162c-7118-852f-166afa1f51c3",
-      "time": "2026-09-10 23:00:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF recommends central banks maintain focus on price stability and encourages fiscal authorities to prepare medium-term fiscal consolidation plans."
-    },
-    {
-      "id": "mkt:01a08bd5-fdad-7118-852f-0cab4906003e",
-      "time": "2026-09-10 23:00:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the 23:00 close, Chinese most-active futures were mostly higher. Fuel oil and low-sulfur fuel oil (LU) gained over 3%; glass rose more than 2%. Asphalt, benzene, soybean meal, soybean No.2 and plastics are up over 1% month-to-date on average. On the downside, iron ore and 20# rubber fell over 1%, while general rubber contracts slipped nearly 1%."
-    },
-    {
-      "id": "mkt:01a08bd5-d16c-7118-852f-04ad6fe7ba75",
-      "time": "2026-09-10 23:00:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "IMF says the energy shock from the Middle East war is not over; global debt pressures are rising and the disinflation process has stalled."
-    },
-    {
-      "id": "mkt:01a08bd5-bfd7-7118-852e-f8f0cc6490cc",
-      "time": "2026-09-10 23:00:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF: Global economic growth is still projected to reach about 3% in 2026, but risks remain elevated."
-    },
-    {
-      "id": "mkt:01a08bd5-9354-7118-852e-f5cd402dc30d",
-      "time": "2026-09-10 23:00:24",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "IMF said global inf expectations have risen but remain stable over the long term."
-    },
-    {
-      "id": "te:markets:582868",
-      "time": "2026-09-10 23:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Depreciates by 0.95% — Top currency losers are Norwegian Krone (-0.95%), Swedish Krona (-0.71%), Australian Dollar (-0.68%), Japanese Yen (-0.22%) and British Pound (-0.14%). Gains are led by Brazilian Real (0.46%) and Dollar Index (0.09%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "5087879",
-      "time": "2026-09-10 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】燃料油連續漲3.58%，低硫燃料油連續漲3.22%，玻璃連續漲2.08%，瀝青連續漲1.77%，豆粕連續漲1.21%。"
-    },
-    {
-      "id": "mkt:01a08bd5-1e1b-7118-852e-eb7990357f15",
-      "time": "2026-09-10 22:59:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index falls as larger-vessel rates slide】The Baltic Dry Index fell on Thursday, dragged by weaker rates for larger vessels. BDI declined 99 points (-2.73%) to 3,521. Capesize index (BCI) dropped 278 points (-4.3%) to 6,122; capesize daily earnings fell $2,522 to $52,016 (around 150,000 dwt; typically carries iron ore and coal). Panamax index (BPI) slipped 5 points (-0.2%) to 2,409; panamax daily earnings fell $41 to $21,684 (about 60–70,000 dwt; typically coal or grains). Supramax index (BSI) rose 9 points (0.5%) to 1,713. Handysize index (BHSI) rose 9 points to 931."
-    },
-    {
-      "id": "5087878",
-      "time": "2026-09-10 22:59:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨運價指數（BDI）較前一交易日下跌99點，或2.73%，報3521點。"
     }
   ]
 }

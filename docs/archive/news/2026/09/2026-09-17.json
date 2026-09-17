@@ -1,7 +1,162 @@
 {
   "date": "2026-09-17",
-  "count": 2482,
+  "count": 2499,
   "items": [
+    {
+      "id": "5100310",
+      "time": "2026-09-17 23:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：AT1債券是真實資本；貝萊德和品浩均支援AT1債券。"
+    },
+    {
+      "id": "5100309",
+      "time": "2026-09-17 23:01:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "圓桌公司與 Paradium.AI 簽署為期 10 年、價值 10 億美元的協議。"
+    },
+    {
+      "id": "mkt:01a0afe2-f9e1-7118-85e5-27aceb0d4d9f",
+      "time": "2026-09-17 23:01:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said the bank must engage in lobbying and warned against assuming lobbying has become excessive."
+    },
+    {
+      "id": "5100308",
+      "time": "2026-09-17 23:01:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯卡與聯邦快遞貨運宣佈建立長期系列賽事冠名合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a0afe2-cc3a-7118-85e5-1a1984c160b1",
+      "time": "2026-09-17 23:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says he can accept a compromise plan allowing use of AT1 instruments."
+    },
+    {
+      "id": "mkt:01a0afe2-86a2-7118-85e5-156ba28c601a",
+      "time": "2026-09-17 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the 23:00 close, most front-month domestic futures fell; benzene, PVC, coking coal, p-xylene, fuel oil, LPG and styrene were down more than 2%, while glass and soda ash posted small gains."
+    },
+    {
+      "id": "5100307",
+      "time": "2026-09-17 23:00:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣280億美元1年10個月期浮動利率債券。"
+    },
+    {
+      "id": "5100306",
+      "time": "2026-09-17 23:00:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣690億美元兩年期債券。"
+    },
+    {
+      "id": "5100305",
+      "time": "2026-09-17 23:00:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣790億美元的六個月期國庫券。"
+    },
+    {
+      "id": "5100304",
+      "time": "2026-09-17 23:00:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣920億美元三個月期國庫券。"
+    },
+    {
+      "id": "te:markets:584666",
+      "time": "2026-09-17 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.49% — Top currency gainers are Swedish Krona (0.49%), New Zealand Dollar (0.39%), Mexican Peso (0.37%), Japanese Yen (0.34%) and Euro (0.18%). Biggest losers are British Pound (-0.22%) and Dollar Index (-0.10%)."
+    },
+    {
+      "id": "5100303",
+      "time": "2026-09-17 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】PVC連續跌2.61%，焦煤連續跌2.51%，燃料油連續跌2.41%，液化石油氣連續跌2.40%，苯乙烯連續跌2.30%。"
+    },
+    {
+      "id": "mkt:01a0afe1-0f56-7118-85e5-0fdd149a53c4",
+      "time": "2026-09-17 22:59:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Preliminary plans show Angola's November crude oil exports will fall to their lowest level since at least 2008."
+    },
+    {
+      "id": "5100302",
+      "time": "2026-09-17 22:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團董事長：最新的資本要求提案是一項我們可以接受的妥協方案。"
+    },
+    {
+      "id": "5100301",
+      "time": "2026-09-17 22:58:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "安哥拉11月份原油出口量將至少為2008年以來最低。"
+    },
+    {
+      "id": "5100300",
+      "time": "2026-09-17 22:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加尼科爾斯基以西 165 公里處發生 6.5 級地震。"
+    },
+    {
+      "id": "mkt:01a0afe0-2640-7118-85e5-049f4c832663",
+      "time": "2026-09-17 22:58:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says Additional Tier 1 capital (AT1) is genuine capital."
+    },
     {
       "id": "5100299",
       "time": "2026-09-17 22:57:52",
