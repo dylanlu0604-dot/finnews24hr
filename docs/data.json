@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-18 05:34:31",
-  "count": 13335,
+  "updated": "2026-09-18 05:38:19",
+  "count": 13330,
   "items": [
+    {
+      "id": "5100698",
+      "time": "2026-09-18 05:35:36",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【“新債王”警告：下一次美國衰退可能引發財政危機】雙線資本（DoubleLine Capital）執行長岡拉克（Jeffrey Gundlach）警告稱，下一次美國經濟衰退可能引發一場債務危機，推動長期國債收益率大幅飆升——這顛覆了幾十年來的傳統觀點，即債券在經濟困境時期始終是避險資產。岡拉克表示，他正將目光集中在低久期資產上，以保護雙線資本旗下基金免受利率進一步上升的衝擊。他還認為，美國政府可能加大政策干預力度，以遏制債券拋售。他列舉了多種可能性，包括美聯儲重演“扭轉操作”（Operation Twist），甚至進行債務重組——即削減存量債券的票息支付，以降低利息支出。“如果發生衰退，財政狀況將受到極大關注，”他在紐約一場活動上表示。“預算赤字將輕鬆達到GDP的12%，每年產生約3萬億美元的利息支出，這是無法承受的。”"
+    },
     {
       "id": "5100697",
       "time": "2026-09-18 05:33:00",
@@ -122643,70 +122654,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：期限利差處於多年來最低水平。"
-    },
-    {
-      "id": "5088300",
-      "time": "2026-09-11 05:38:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們將渡過能源供應衝擊的難關。國債市場狀況良好。"
-    },
-    {
-      "id": "mkt:01a08d41-77f2-7118-8535-ea68961d1600",
-      "time": "2026-09-11 05:37:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury will impose sanctions on a large bank next Monday."
-    },
-    {
-      "id": "mkt:01a08d41-25dd-7118-8535-e45ed92bd149",
-      "time": "2026-09-11 05:37:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media Fars News reported Yemen's Houthi forces launched missile strikes on positions and assembly points in the Ras al-Arah area, south of the Bab al-Mandeb Strait."
-    },
-    {
-      "id": "5088299",
-      "time": "2026-09-11 05:37:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們擁有全球表現最佳的債券市場。"
-    },
-    {
-      "id": "mkt:01a08d40-165c-7118-8535-dc0d4325e604",
-      "time": "2026-09-11 05:36:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Mehr News Agency cites Arab media saying Saudi Arabia launched airstrikes on Yemen's Mocha port."
-    },
-    {
-      "id": "5088298",
-      "time": "2026-09-11 05:35:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：週一將對一家大型銀行實施制裁。"
     }
   ]
 }
