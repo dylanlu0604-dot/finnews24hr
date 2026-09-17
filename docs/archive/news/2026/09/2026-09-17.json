@@ -1,7 +1,60 @@
 {
   "date": "2026-09-17",
-  "count": 1262,
+  "count": 1268,
   "items": [
+    {
+      "id": "mkt:01a0ad7c-d52c-7118-85d0-d288c179ea55",
+      "time": "2026-09-17 11:50:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HSBC: Weak Australian housing market to weigh on growth, help rein in inflation】HSBC said a weak Australian housing market will drag on growth and aid the Reserve Bank of Australia’s efforts to return inflation to the 2–3% target range. In a Thursday research note, Paul Bloxham said the property downturn cools the economy via several channels, with the negative wealth effect most significant; a 5% fall in house prices typically reduces consumer spending by about 0.8% over two years. RBA Governor Bullock has said the three rate hikes from February to May were intended to slow growth to ease price pressures. Economists and traders see the RBA as capable of another hike as soon as the end of this month, potentially lifting the cash rate to 4.6% and exerting further downward pressure on house prices."
+    },
+    {
+      "id": "5098896",
+      "time": "2026-09-17 11:50:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源：已向客戶交付幾臺SST，預計四季度投運】陽光電源9月17日在互動平臺表示，公司目前已向客戶交付幾臺SST，預計四季度投運，有望率先實現SST800V直流供電方案在真實算力場景中的帶載執行。"
+    },
+    {
+      "id": "mkt:01a0ad7b-f3a3-7118-85d0-c89812bfacac",
+      "time": "2026-09-17 11:49:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's energy minister said the government has no plans to cap retail fuel prices."
+    },
+    {
+      "id": "mkt:01a0ad7a-a212-7118-85d0-c0e4846b4548",
+      "time": "2026-09-17 11:48:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Regional governor said a Ukrainian drone strike damaged an oil refinery in Yaroslavl, Russia."
+    },
+    {
+      "id": "5098895",
+      "time": "2026-09-17 11:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國能源部長：泰國政府沒有限制零售燃油價格的計劃。"
+    },
+    {
+      "id": "mkt:01a0ad79-83c0-7118-85d0-bfdaa0b24cd2",
+      "time": "2026-09-17 11:46:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's energy minister says fuel subsidies are helping cushion the impact of surging crude oil prices."
+    },
     {
       "id": "mkt:01a0ad79-595b-7118-85d0-b42e3a7d7b1a",
       "time": "2026-09-17 11:46:46",

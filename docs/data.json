@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-17 11:47:10",
-  "count": 13648,
+  "updated": "2026-09-17 11:50:57",
+  "count": 13651,
   "items": [
+    {
+      "id": "mkt:01a0ad7c-d52c-7118-85d0-d288c179ea55",
+      "time": "2026-09-17 11:50:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HSBC: Weak Australian housing market to weigh on growth, help rein in inflation】HSBC said a weak Australian housing market will drag on growth and aid the Reserve Bank of Australia’s efforts to return inflation to the 2–3% target range. In a Thursday research note, Paul Bloxham said the property downturn cools the economy via several channels, with the negative wealth effect most significant; a 5% fall in house prices typically reduces consumer spending by about 0.8% over two years. RBA Governor Bullock has said the three rate hikes from February to May were intended to slow growth to ease price pressures. Economists and traders see the RBA as capable of another hike as soon as the end of this month, potentially lifting the cash rate to 4.6% and exerting further downward pressure on house prices."
+    },
+    {
+      "id": "5098896",
+      "time": "2026-09-17 11:50:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源：已向客戶交付幾臺SST，預計四季度投運】陽光電源9月17日在互動平臺表示，公司目前已向客戶交付幾臺SST，預計四季度投運，有望率先實現SST800V直流供電方案在真實算力場景中的帶載執行。"
+    },
+    {
+      "id": "mkt:01a0ad7b-f3a3-7118-85d0-c89812bfacac",
+      "time": "2026-09-17 11:49:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's energy minister said the government has no plans to cap retail fuel prices."
+    },
+    {
+      "id": "mkt:01a0ad7a-a212-7118-85d0-c0e4846b4548",
+      "time": "2026-09-17 11:48:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Regional governor said a Ukrainian drone strike damaged an oil refinery in Yaroslavl, Russia."
+    },
+    {
+      "id": "5098895",
+      "time": "2026-09-17 11:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國能源部長：泰國政府沒有限制零售燃油價格的計劃。"
+    },
+    {
+      "id": "mkt:01a0ad79-83c0-7118-85d0-bfdaa0b24cd2",
+      "time": "2026-09-17 11:46:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's energy minister says fuel subsidies are helping cushion the impact of surging crude oil prices."
+    },
     {
       "id": "mkt:01a0ad79-595b-7118-85d0-b42e3a7d7b1a",
       "time": "2026-09-17 11:46:46",
@@ -125985,34 +126038,6 @@
         "國際"
       ],
       "text": "印度石油公司、印度石油天然氣公司股價分別上漲3%和2.4%。"
-    },
-    {
-      "id": "5086324",
-      "time": "2026-09-10 11:49:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【博盈特焊：海外訂單充裕 預計未來3至5年HRSG供不應求】博盈特焊(301468)9月9日在業績說明會上披露，2026年上半年公司海外營業收入約1.37億元，營收佔比達76.79%，國際市場份額穩步提升。公司新簽訂單儲備充足，為主下半年業績兌現提供支撐。公司表示，美國資料中心擴張等推高用電負荷，帶動燃氣輪機配套HRSG（熱回收蒸汽發生器）裝置需求上行。當前海外主流廠商HRSG產能有限，預計未來3—5年行業供不應求，產能缺口持續擴大；5—10年後，隨著海外廠商擴產，市場將轉為高需求疊加高供給格局。公司HRSG採用“一合同一報價”，近期訂單價格較前期有所上調。"
-    },
-    {
-      "id": "te:markets:582571",
-      "time": "2026-09-10 11:49:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Holds Near Record Highs — Copper futures traded around $6.76 per pound on Thursday, staying close to record highs as ongoing supply concerns and tariff uncertainty continued to support prices. Markets were awaiting the Trump administration’s decision on imposing new tariffs on refined metal imports, while the persistent premium for copper futures on New York’s Comex continued to create arbitrage opportunities. Traders have continued redirecting shipments toward US warehouses, contributing to sharply declining inventories at warehouses tracked by the London Metal Exchange and the Shanghai Futures Exchange. Major copper-producing countries in South America have also faced operational disruptions this year, weighing on production and exports. Meanwhile, supply has struggled to keep pace with rising demand from data centers, renewable energy projects and electricity grids."
-    },
-    {
-      "id": "5086323",
-      "time": "2026-09-10 11:48:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿布扎比主權財富基金Mubadala透過10億美元交易入股中國瑞幸咖啡】阿布扎比主權財富基金Mubadala Investment Co.已成為中國最大咖啡連鎖企業瑞幸咖啡的投資方。根據監管檔案，Mubadala在與瑞幸咖啡主要私募股權投資方Centurium Capital達成交易後，成為瑞幸咖啡的間接投資者。Mubadala將有權向瑞幸咖啡董事會委派一名董事。該基金在另一份宣告中表示，此次交易估值約為10億美元。作為中國市場的重要投資者，Mubadala此前投資的企業包括快時尚零售商希音和商業地產運營商珠海萬達商業管理。"
     }
   ]
 }
