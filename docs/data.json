@@ -1,7 +1,163 @@
 {
-  "updated": "2026-09-17 08:58:12",
-  "count": 13690,
+  "updated": "2026-09-17 09:02:21",
+  "count": 13695,
   "items": [
+    {
+      "id": "5098676",
+      "time": "2026-09-17 09:01:26",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，SC原油跌超5％，燃料油跌超4％，低硫燃料油（LU）跌超3％，苯乙烯（EB）、純苯跌超2％，液化石油氣（LPG）跌近2％，紙漿、塑膠跌超1％。漲幅方面，菜粕漲近2％，甲醇、焦煤、豆粕漲近1％。"
+    },
+    {
+      "id": "5098675",
+      "time": "2026-09-17 09:01:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破64美元/盎司，日內跌1.42%。"
+    },
+    {
+      "id": "5098674",
+      "time": "2026-09-17 09:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部長：美國投資協定的公佈因需釐清程式性問題而推遲。"
+    },
+    {
+      "id": "mkt:01a0ace1-c76a-7118-85cc-fc12e0c1f6ff",
+      "time": "2026-09-17 09:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR issues risk-control checklist for online food sales】The State Administration for Market Regulation (SAMR) has issued a Food Safety Risk Control Checklist for online food sales, targeting three operator types: live-stream e-commerce platform operators, third-party online food trading platform providers, and online food-selling enterprises. For each entity the checklist specifies control steps, risk points, control measures, control targets and control frequency, providing an operational guide for precise prevention of food-safety risks. The document is a key supporting instrument implementing the Provisions on Supervision and Administration of Live-stream E-commerce Operators' Implementation of the Main Responsibility for Food Safety and the Provisions on Supervision and Administration of Online Food Sales Operators' Implementation of the Main Responsibility for Food Safety, and signals a shift in online food-safety regulation from baseline defence to targeted, risk-oriented prevention. The checklist breaks the online food-sales chain into minimal work units and aims to move firms from passive compliance toward proactive risk control."
+    },
+    {
+      "id": "mkt:01a0ace1-4382-7118-85cc-f0b593bf28cd",
+      "time": "2026-09-17 09:00:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened down 0.53% at 926.98 yuan/gram on Sep 17 (Thu) early trade; silver T+D opened down 1.15% at 15,450 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0ace1-361f-7118-85cc-ed822359489f",
+      "time": "2026-09-17 09:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China's RMB accounted for 3.26% of global SWIFT payments in August, versus 3.10% in the prior month."
+    },
+    {
+      "id": "5098673",
+      "time": "2026-09-17 09:00:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網路食品銷售風險管控清單釋出】記者今天瞭解到，市場監管總局印發網路食品銷售相關《食品安全風險管控清單》，聚焦直播電商平臺經營者、網路食品交易第三方平臺提供者、入網食品銷售企業三類主體，逐一明確風險控制環節、風險點、管控措施、管控目標和管控頻次，為網路食品銷售企業精準防控食品安全風險提供操作指南。這是市場監管總局落實《直播電商經營者落實食品安全主體責任監督管理規定》《網路食品銷售經營者落實食品安全主體責任監督管理規定》兩部部門規章的重要配套檔案，標誌著網路食品安全監管從“底線防守”向“精準防控”深化。此次釋出的風險管控清單，堅持風險導向、底線思維、精準施策，將網路食品銷售全鏈條拆解為最小工作單元，推動網路食品銷售企業從“被動應付檢查”向“主動防控風險”轉變。"
+    },
+    {
+      "id": "mkt:01a0ace0-f1db-7118-85cc-e257293bbaf1",
+      "time": "2026-09-17 09:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened 0.24% lower."
+    },
+    {
+      "id": "mkt:01a0ace0-eabb-7118-85cc-df7bd3f32ba1",
+      "time": "2026-09-17 09:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's lead futures contracts were mostly lower. Shanghai crude (SC) dropped over 5%; fuel oil fell more than 4%; low-sulfur fuel oil (LU) declined over 3%; styrene (EB) and benzene each slid over 2%; liquefied petroleum gas (LPG) was down nearly 2%; pulp and plastics fell just above 1%. On the upside, rapeseed meal rose about 2%, while methanol, coking coal and soybean meal gained around 1%."
+    },
+    {
+      "id": "5098672",
+      "time": "2026-09-17 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.2%報45,936.11。"
+    },
+    {
+      "id": "5098671",
+      "time": "2026-09-17 09:00:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國8月Swift人民幣在全球支付中佔比 3.26%，前值 3.1%。"
+    },
+    {
+      "id": "5098670",
+      "time": "2026-09-17 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報4315.00元。"
+    },
+    {
+      "id": "5098669",
+      "time": "2026-09-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.24%。"
+    },
+    {
+      "id": "5098668",
+      "time": "2026-09-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌5.49%，燃料油連續跌4.05%，低硫燃料油連續跌3.08%，純苯連續跌2.56%，苯乙烯連續跌2.33%。"
+    },
+    {
+      "id": "5098667",
+      "time": "2026-09-17 08:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月16日326股獲融資買入超億元 中際旭創穫買入23.53億元居首】9月16日共有3521只個股獲融資資金買入，有326股買入金額超億元。其中，中際旭創、新易盛、寧德時代融資買入金額排名前三，分別獲買入23.53億元、19.09億元、18.92億元。"
+    },
+    {
+      "id": "5098666",
+      "time": "2026-09-17 08:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外長：尚未決定向霍爾木茲海峽部署軍隊。"
+    },
+    {
+      "id": "mkt:01a0acdf-1766-7118-85cc-d07d53246c0d",
+      "time": "2026-09-17 08:58:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "IMF said the Reserve Bank of Australia may need to raise rates further and urged Australian authorities to cut public spending."
+    },
     {
       "id": "5098665",
       "time": "2026-09-17 08:57:23",
@@ -11,6 +167,15 @@
         "國際"
       ],
       "text": "【摩根士丹利：美聯儲鷹派加息加劇亞洲股市回撥風險】摩根士丹利表示，美聯儲鷹派加息疊加高油價帶來的風險，正加劇對亞洲及新興市場股市的衝擊，未來幾周市場再次回撥的可能性正在上升。包括喬納森・迦納（Jonathan Garner）在內的策略師在研報中寫道：“當前市場已接近我們基準情景目標位，未來幾周若出現今年第三次回撥，我們並不意外。”摩根士丹利重申低配澳大利亞股市。預計日本、韓國與中國臺灣股市盈利前景更佳，抗跌性更強。“美國經濟研究團隊目前預期美聯儲將在 12 月和次年 3 月再加息兩次，每次 25 個基點，聯邦基金利率終端目標在 2027 年一季度達到 4.25%-4.5%。”美元貿易加權指數自 7 月下旬以來首次回升至 100 上方，“從金融條件與匯兌層面來看，這對大多數亞洲新興市場而言屬於明顯利空。”"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876786910",
+      "time": "2026-09-17 08:56:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中金：不排除美聯儲進一步加息可能性 但最終仍取決於經濟資料】中金公司研報表示，美聯儲9月加息25個基點，整體基調較市場預期更為鷹派。決策以12比0全票透過，點陣圖暗示年內或再加息一次。官員們上調增長、下調失業率預測，並認為通脹回落需更長時間。沃什在記者會上將通脹列為主要矛盾，釋放了明確的抗通脹訊號。往前看，不排除美聯儲進一步加息的可能性，但最終是否加息、何時加息，仍取決於經濟資料。"
     },
     {
       "id": "5098663",
@@ -126314,123 +126479,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4410美元/盎司，日內漲0.20%。"
-    },
-    {
-      "id": "5086049",
-      "time": "2026-09-10 09:01:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪：第二代刀片電池產線改造與擴產穩步推進，閃充車型訂單需求充足】比亞迪9月10日在互動平臺表示，第二代刀片電池產線改造與擴產穩步推進，目前閃充車型訂單需求充足，公司將全力推進產能釋放。"
-    },
-    {
-      "id": "mkt:01a088d5-423f-7118-8514-7f245e6e58bc",
-      "time": "2026-09-10 09:01:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened 366.64 points lower, or 0.78%, at 46,816.72 on Thursday, Sept. 10."
-    },
-    {
-      "id": "mkt:01a088d4-adcf-7118-8514-72eb71299549",
-      "time": "2026-09-10 09:00:34",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened down 0.49%."
-    },
-    {
-      "id": "5086048",
-      "time": "2026-09-10 09:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.1%報47,130.96。"
-    },
-    {
-      "id": "mkt:01a088d4-7bd1-7118-8514-683a5ec106d7",
-      "time": "2026-09-10 09:00:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 0.73% in early trade on Sept 10 to 954.09 yuan/gram; silver T+D gained 1.38% to 16,325 yuan/kg."
-    },
-    {
-      "id": "mkt:01a088d4-720c-7118-8514-636922ab2045",
-      "time": "2026-09-10 09:00:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Coking coal front-month futures slid more than 2% intraday to 1,628.50 yuan/ton."
-    },
-    {
-      "id": "5086047",
-      "time": "2026-09-10 09:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【賦能新質生產力 我國首個地球系統資料國際交換中心啟動建設】今天，中國氣象局、澳門特別行政區、橫琴粵澳深度合作區三方簽署共建合作框架協議，明確以3年為建設期、3年為運營期，在橫琴建成地球系統資料國際交換中心（澳門）。此舉旨在進一步建設培育資料要素開發利用生態，搭建地球系統資料合作橋樑，打造高水平對外開放平臺，推動優質資料產品與服務能力輸出，形成粵港澳大灣區地球系統資料要素統一大市場，賦能合作區數字經濟等新質生產力發展和澳門經濟適度多元發展，在全球資料治理與數字發展中貢獻中國力量。"
-    },
-    {
-      "id": "5086046",
-      "time": "2026-09-10 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲3%，現報6018.00元。"
-    },
-    {
-      "id": "5086045",
-      "time": "2026-09-10 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲4%，現報4114.00元。"
-    },
-    {
-      "id": "5086044",
-      "time": "2026-09-10 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.40%。"
-    },
-    {
-      "id": "5086043",
-      "time": "2026-09-10 09:00:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示，海米斯穆謝特與艾卜哈的險情已解除。"
-    },
-    {
-      "id": "5086042",
-      "time": "2026-09-10 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】上海原油連續漲7.02%，苯乙烯連續漲5.62%，純苯連續漲5.54%，燃料油連續漲4.58%，丙烯連續漲4.09%，乙二醇連續漲3.74%，瀝青連續漲2.99%，甲醇連續漲2.76%，短纖連續漲2.73%，聚丙烯連續漲2.57%。"
-    },
-    {
-      "id": "5086041",
-      "time": "2026-09-10 08:58:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【墨西哥對華有色浮法玻璃作出反傾銷初裁】2026年9月9日，墨西哥經濟部發布公告，對原產於中國的厚度大於等於2毫米且小於等於19毫米的有色浮法玻璃作出反傾銷肯定性初裁，初步決定對涉案產品徵收臨時反傾銷稅，稅額為0.11917美元/千克，涉案產品的TIGIE稅號為7005.21.03。措施自公告發布次日起生效，有效期為六個月。（中國貿易救濟資訊網）"
     }
   ]
 }
