@@ -1,7 +1,88 @@
 {
   "date": "2026-09-17",
-  "count": 2472,
+  "count": 2482,
   "items": [
+    {
+      "id": "5100299",
+      "time": "2026-09-17 22:57:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團董事長： 一級額外資本（AT1）是真實資本。"
+    },
+    {
+      "id": "5100298",
+      "time": "2026-09-17 22:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "ARS Technica：NASA 最快將於下週釋出有關星際客機的公告。"
+    },
+    {
+      "id": "mkt:01a0afde-78e6-7118-85e4-fe37db87559d",
+      "time": "2026-09-17 22:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Preliminary plans show Angola's crude oil exports for November are expected at 850,000 barrels per day."
+    },
+    {
+      "id": "5100296",
+      "time": "2026-09-17 22:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉初步計劃 11 月原油出口量達 85 萬桶 / 日。"
+    },
+    {
+      "id": "mkt:01a0afdd-87bd-7118-85e4-f027189a9d8a",
+      "time": "2026-09-17 22:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA will cover part of the costs to resolve a thruster issue."
+    },
+    {
+      "id": "5100295",
+      "time": "2026-09-17 22:55:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "ARS Technica：NASA 將支付部分費用以修復推進器故障。"
+    },
+    {
+      "id": "mkt:01a0afdd-3cee-7118-85e4-ea7f60998659",
+      "time": "2026-09-17 22:55:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said the aim is to reach a compromise on capital requirements."
+    },
+    {
+      "id": "5100294",
+      "time": "2026-09-17 22:54:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞銀集團主席： 我們的目標是達成資本方面的折中方案。"
+    },
+    {
+      "id": "mkt:01a0afdc-b13c-7118-85e4-e3637f3b37c6",
+      "time": "2026-09-17 22:54:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says benefits of Swissness must be balanced against its costs."
+    },
+    {
+      "id": "5100293",
+      "time": "2026-09-17 22:53:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：必須平衡 “瑞士屬性” 帶來的收益與成本。"
+    },
     {
       "id": "5100292",
       "time": "2026-09-17 22:53:45",

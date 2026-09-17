@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-17 22:54:35",
-  "count": 13401,
+  "updated": "2026-09-17 22:58:29",
+  "count": 13405,
   "items": [
+    {
+      "id": "5100299",
+      "time": "2026-09-17 22:57:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團董事長： 一級額外資本（AT1）是真實資本。"
+    },
+    {
+      "id": "5100298",
+      "time": "2026-09-17 22:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "ARS Technica：NASA 最快將於下週釋出有關星際客機的公告。"
+    },
+    {
+      "id": "mkt:01a0afde-78e6-7118-85e4-fe37db87559d",
+      "time": "2026-09-17 22:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Preliminary plans show Angola's crude oil exports for November are expected at 850,000 barrels per day."
+    },
+    {
+      "id": "5100296",
+      "time": "2026-09-17 22:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉初步計劃 11 月原油出口量達 85 萬桶 / 日。"
+    },
+    {
+      "id": "mkt:01a0afdd-87bd-7118-85e4-f027189a9d8a",
+      "time": "2026-09-17 22:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA will cover part of the costs to resolve a thruster issue."
+    },
+    {
+      "id": "5100295",
+      "time": "2026-09-17 22:55:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "ARS Technica：NASA 將支付部分費用以修復推進器故障。"
+    },
+    {
+      "id": "mkt:01a0afdd-3cee-7118-85e4-ea7f60998659",
+      "time": "2026-09-17 22:55:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said the aim is to reach a compromise on capital requirements."
+    },
+    {
+      "id": "5100294",
+      "time": "2026-09-17 22:54:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞銀集團主席： 我們的目標是達成資本方面的折中方案。"
+    },
+    {
+      "id": "mkt:01a0afdc-b13c-7118-85e4-e3637f3b37c6",
+      "time": "2026-09-17 22:54:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman says benefits of Swissness must be balanced against its costs."
+    },
+    {
+      "id": "5100293",
+      "time": "2026-09-17 22:53:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：必須平衡 “瑞士屬性” 帶來的收益與成本。"
+    },
     {
       "id": "5100292",
       "time": "2026-09-17 22:53:45",
@@ -123407,61 +123488,6 @@
         "市場"
       ],
       "text": "波羅的海乾散貨運價指數（BDI）較前一交易日下跌99點，或2.73%，報3521點。"
-    },
-    {
-      "id": "5087877",
-      "time": "2026-09-10 22:55:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "馮德萊恩：將於下週演講中詳述社交媒體延遲問題。"
-    },
-    {
-      "id": "5087876",
-      "time": "2026-09-10 22:55:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉利銀河TT正式上市】9月10日，吉利銀河TT正式上市，限時售12.99萬元起。"
-    },
-    {
-      "id": "te:markets:582867",
-      "time": "2026-09-10 22:54:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Soybeans Hits 32-month High — Soybeans increased to 1307.00 USd/Bu, the highest since December 2023. Over the past 4 weeks, Soybeans gained 13.32%, and in the last 12 months, it increased 26.26%."
-    },
-    {
-      "id": "5087875",
-      "time": "2026-09-10 22:54:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：已釋出最終行政命令，將氨基苯甲酸和三乙醇胺水楊酸鹽從非處方防曬成分名錄中移除。"
-    },
-    {
-      "id": "mkt:01a08bd0-5fde-7118-852e-e7956c04dfc3",
-      "time": "2026-09-10 22:54:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "BIDU.O",
-        "Impact bullish"
-      ],
-      "text": "【Hubei provincial party secretary Guan Zhi'ou meets Baidu founder Robin Li】On Sept. 10 in Wuhan, Hubei provincial party secretary Guan Zhi'ou met Baidu founder, chairman and CEO Robin Li and urged the group to deepen its presence in Hubei and expand cooperation in artificial intelligence and spatiotemporal geoinformation. Hubei pledged to provide a first-class, responsive business environment—saying it will ‘respond when called, not interfere when unnecessary’—to facilitate Baidu’s development in the province."
-    },
-    {
-      "id": "5087874",
-      "time": "2026-09-10 22:54:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟馮德萊恩：我將在接下來的盟情諮文中詳細說明關於保護兒童免受社交媒體傷害的提案。"
     }
   ]
 }
