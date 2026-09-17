@@ -1,7 +1,27 @@
 {
   "date": "2026-09-18",
-  "count": 237,
+  "count": 239,
   "items": [
+    {
+      "id": "5100554",
+      "time": "2026-09-18 02:45:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶104.82美元，下跌1.01美元，跌幅0.95%。"
+    },
+    {
+      "id": "mkt:01a0b0b0-2865-7118-85e8-b7a04411df57",
+      "time": "2026-09-18 02:45:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $104.82/bbl, down $1.01 or 0.95%."
+    },
     {
       "id": "5100553",
       "time": "2026-09-18 02:41:29",
