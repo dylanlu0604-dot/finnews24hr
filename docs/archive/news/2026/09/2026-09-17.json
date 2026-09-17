@@ -1,7 +1,57 @@
 {
   "date": "2026-09-17",
-  "count": 859,
+  "count": 864,
   "items": [
+    {
+      "id": "mkt:01a0acc5-c83e-7118-85cc-6189b6e5059d",
+      "time": "2026-09-17 08:30:37",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Singapore's August electronic exports rose 131.8% YoY; non-oil exports increased 46.2% YoY."
+    },
+    {
+      "id": "5098627",
+      "time": "2026-09-17 08:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡8月非石油出口同比增長46.2%，預期增長35.0%。"
+    },
+    {
+      "id": "5098626",
+      "time": "2026-09-17 08:30:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【土耳其資產合計75億美元的兩支基金贖回違約】土耳其的Tera Portfoy Yonetimi AS表示，旗下兩隻資產總額達3,660億里拉（75億美元）的基金未能滿足贖回請求，這使其成為本週第二家宣佈部分基金違約的土耳其資產管理公司。這家公司在提交給伊斯坦布林證券交易所的兩份單獨檔案中表示，兩支基金 —— Tera Portfoy貨幣市場基金 (TP2) 和Tera Portfoy股票密集型基金 (THF) —— 均出現贖回違約。Tera的基金近年來取得的收益在土耳其投資基金市場名列前茅，進而吸引了大量資金流入。此前一天，Pusula Portfoy Yonetimi AS表示，其部分投資和貨幣市場基金無法滿足贖回需求，導致土耳其股市大跌。伊斯坦布林證交所100指數週三一度下跌7.7%，觸發熔斷機制，隨後跌幅收窄，最終收跌5.5%。該基準指數創下自2025年3月以來最大兩日跌幅。"
+    },
+    {
+      "id": "mkt:01a0acc4-f790-7118-85cc-5e327b7d6b08",
+      "time": "2026-09-17 08:29:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "【A-share thermometer: turnover rebounds from year-to-date low】On Sept. 16 total turnover across the Shanghai and Shenzhen markets was 1.84 trillion yuan, down from the prior session and remaining below the 20-day moving average of 1.90 trillion yuan for the 20th consecutive session."
+    },
+    {
+      "id": "5098625",
+      "time": "2026-09-17 08:27:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【海順創科啟動北交所IPO輔導 海爾系資本版圖再擴容】近日記者從中國證監會資訊公示平臺獲悉，青島海永順創新科技股份有限公司北交所上市輔導報告在青島證監局正式備案，輔導機構為中泰證券。這是繼卡奧斯、海爾新能源之後，海爾集團體系內第三家進入上市衝刺階段的企業，也意味著這家僅登陸新三板五個月的海外數字化服務商，正式向北交所公開發行目標邁出關鍵一步。"
+    },
     {
       "id": "5098624",
       "time": "2026-09-17 08:26:37",
