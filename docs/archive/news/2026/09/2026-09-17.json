@@ -1,7 +1,200 @@
 {
   "date": "2026-09-17",
-  "count": 1714,
+  "count": 1734,
   "items": [
+    {
+      "id": "mkt:01a0ae9a-d217-7118-85d8-6cbacb1e0ac2",
+      "time": "2026-09-17 17:02:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China State Council issues guidance to tighten full‑chain fireworks safety supervision】China’s State Council General Office issued guidance to strengthen full‑chain safety supervision of fireworks and firecrackers covering production, storage, distribution, transport and use. The document mandates stricter producer admission and licensing, tighter controls over pyrotechnic chemicals and semi‑finished components, and more rigorous control of production‑process safety risks. It strengthens product quality oversight and spot checks, prohibits manufacture or sale of items exceeding permitted chemical dosages or failing national standards, and directs tighter enforcement of mandatory safety standards. The guidance also requires fireworks firms to bring equipment and facilities into compliance and orders tougher regulatory enforcement with enhanced administrative–criminal coordination, full‑chain investigations, traceability and coordinated crackdowns on illegal activity."
+    },
+    {
+      "id": "5099439",
+      "time": "2026-09-17 17:02:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行稱，在9月22日到期的回購標售中注入1500億里拉，利率為37%。"
+    },
+    {
+      "id": "5099438",
+      "time": "2026-09-17 17:02:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆通股份：控股股東獲增持股份專項貸款承諾函】恆通股份公告稱，公司控股股東南山集團獲得工商銀行煙臺分行出具的貸款承諾函，該行擬為南山集團增持公司股份計劃提供最高不超過9000萬元且不超過增持總金額上限90%的貸款額度，貸款期限不超過3年，貸款利率不低於1.8%且不低於監管指導利率，具體權利義務以貸款合同約定為準。南山集團計劃自2026年7月31日起6個月內，以集中競價方式增持公司股份，增持金額為1億元（含）。本次增持計劃實施存在無法達到預期的風險。"
+    },
+    {
+      "id": "5099437",
+      "time": "2026-09-17 17:02:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院辦公廳印發《關於進一步加強煙花爆竹全鏈條安全監管的意見》】日前，國務院辦公廳印發《關於進一步加強煙花爆竹全鏈條安全監管的意見》（以下簡稱《意見》），對防範化解重大安全風險，有效遏制事故發生作出部署。《意見》強調，要堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹黨的二十大和二十屆歷次全會精神，堅持人民至上、生命至上，統籌發展和安全，聚焦突出問題，壓實企業主體責任、部門監管責任、屬地管理責任，提升煙花爆竹行業本質安全水平。《意見》提出加強煙花爆竹生產、儲存、經營、運輸、燃放等各環節全鏈條安全監管的一系列具體措施。生產環節要嚴格生產企業准入許可審批，強化煙花爆竹生產用藥物和半成品管控，嚴控生產過程安全風險。儲存環節要嚴格危險物品儲存安全管理，強化煙花爆竹企業化工原材料庫、危險品中轉庫、藥物總庫、成品庫儲存安全風險管控。經營環節要嚴格經營單位準入許可審批，嚴防經營過程安全風險，強化流向資訊管理，加強網路資訊監管，嚴格出口環節安全管理。運輸環節要強化運輸車輛及相關人員管理，嚴格道路運輸許可審批，加強裝卸及運輸全過程監管，嚴防普通貨運和寄遞渠道運輸煙花爆竹。燃放環節要科學合理制定燃放政策，加強大型焰火燃放活動安全管理，強化燃放安全宣傳和管理。《意見》強調，加強煙花爆竹產品質量安全監管，推動產品質量升級，依法開展產品質量監督抽查，嚴禁生產經營超藥量、超規格等不符合國家標準的產品。加強標準執行和健全完善，強化安全生產標準體系建設，發揮強制性標準剛性約束作用，推進煙花爆竹企業裝置設施全面達標。嚴肅查處煙花爆竹事故，查清查透事故原因和責任，舉一反三開展事故隱患排查治理。嚴格安全監管執法，強化行刑銜接，強化全鏈條深挖徹查、追蹤溯源、協調配合，嚴厲打擊非法違法行為。《意見》要求，國務院安全生產委員會及其辦公室要充分發揮統籌協調指導作用。各有關部門要各負其責、密切協作，確保責任全面落實。各地區要強化組織領導，結合實際抓好貫徹落實。（新華社）"
+    },
+    {
+      "id": "te:markets:584541",
+      "time": "2026-09-17 17:02:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Advances — Aluminum futures in the UK rose toward $3,290 per ton, underpinned by tight supply conditions. The US-Iran war has disrupted aluminum supply from the region, with GCC production falling 44% year-on-year in July. The region accounted for around 10% of global aluminum production before the conflict. LME inventories remained close to a 36-year low, while SHFE stockpiles continued to fall, pointing to limited availability in the physical market. However, the supply outlook could improve as several smelters restart and ramp up previously curtailed capacity, while others pursue expansion projects. Increased Chinese exports could also help ease supply shortages from the Gulf, with aluminum exports from the world’s top producer climbing 17.2% year-on-year in August. Traders also appeared to shrug off a hawkish rate hike by the Federal Reserve, which sent the US dollar higher. A strong US dollar typically weighs on dollar-denominated commodities by making them more expensive for global buyers."
+    },
+    {
+      "id": "mkt:01a0ae99-e981-7118-85d8-670cdf976e66",
+      "time": "2026-09-17 17:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's President Macron will convene party leaders Friday at 10:30 a.m. local time (16:30 Beijing time)."
+    },
+    {
+      "id": "5099435",
+      "time": "2026-09-17 17:01:07",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【遼寧省政協原黨組副書記、副主席戴玉林被查】遼寧省政協原黨組副書記、副主席戴玉林涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5099434",
+      "time": "2026-09-17 17:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總統週五上午10點30分召集各黨派領袖。"
+    },
+    {
+      "id": "mkt:01a0ae98-a9d4-7118-85d8-5961174bf1c0",
+      "time": "2026-09-17 17:00:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's Defence Ministry condemned a Houthi drone strike on Saudi Arabia, saying Houthi activity in the Red Sea and Bab al-Mandeb undermines regional stability and damages global maritime trade."
+    },
+    {
+      "id": "5099433",
+      "time": "2026-09-17 17:00:24",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "歐元區8月CPI月率終值 0.4%，預期0.4%，前值0.40%。歐元區8月CPI年率終值 3.2%，預期3.3%，前值3.30%。歐元區8月核心CPI年率終值 2.1%，前值2.1%。歐元區8月核心CPI月率終值 0.2%，前值0.2%。"
+    },
+    {
+      "id": "mkt:01a0ae98-76f0-7118-85d8-5549759d411f",
+      "time": "2026-09-17 17:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Eurozone final Aug CPI YoY 3.2% vs 3.3% expected; previous 3.30%."
+    },
+    {
+      "id": "mkt:01a0ae98-6c0b-7118-85d8-48426ba6be0b",
+      "time": "2026-09-17 17:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Euro area August core CPI final YoY 2.1%, unchanged from 2.1%."
+    },
+    {
+      "id": "mkt:01a0ae98-60be-7118-85d8-40b796840f7c",
+      "time": "2026-09-17 17:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "Eurozone August CPI final MoM 0.4% (exp. 0.4%; prior 0.4%)"
+    },
+    {
+      "id": "mkt:01a0ae98-60af-7118-85d8-3e798ab845fc",
+      "time": "2026-09-17 17:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Eurozone August final core CPI MoM 0.2%; prior 0.2%."
+    },
+    {
+      "id": "mkt:01a0ae98-6005-7118-85d8-359e1e282532",
+      "time": "2026-09-17 17:00:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【ONS: UK productivity slightly higher under experimental measure】The ONS said on Thursday an experimental method for estimating productivity suggests underlying economic growth may be slightly stronger than previously estimated. The trial measure shows average annual growth in output per hour of 1.3% between 1997 and 2024, versus 1.1% under the ONS's current methodology."
+    },
+    {
+      "id": "te:markets:584539",
+      "time": "2026-09-17 17:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.51% — Top currency losers are South Korean Won (-0.51%) and Dollar Index (-0.06%). Gains are led by Swedish Krona (0.43%), New Zealand Dollar (0.38%), Australian Dollar (0.36%), Japanese Yen (0.32%), British Pound (0.11%) and Euro (0.07%)."
+    },
+    {
+      "id": "mkt:01a0ae98-368c-7118-85d8-28d3026935fa",
+      "time": "2026-09-17 17:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Aug) | actual 3.2% | consensus 3.3% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a0ae98-3689-7118-85d8-26d17c033488",
+      "time": "2026-09-17 17:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Aug) | actual 2.1% | previous 2.1%"
+    },
+    {
+      "id": "mkt:01a0ae98-3643-7118-85d8-18f574a2dd4a",
+      "time": "2026-09-17 17:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Aug) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "5099432",
+      "time": "2026-09-17 16:59:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍召集各政黨領袖討論中東危機及烏克蘭問題。"
+    },
     {
       "id": "5099431",
       "time": "2026-09-17 16:58:48",
