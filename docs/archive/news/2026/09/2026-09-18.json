@@ -1,7 +1,48 @@
 {
   "date": "2026-09-18",
-  "count": 201,
+  "count": 205,
   "items": [
+    {
+      "id": "5100531",
+      "time": "2026-09-18 02:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥8月份同店零售額同比增長1.7%。"
+    },
+    {
+      "id": "5100530",
+      "time": "2026-09-18 02:15:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普與辛鮑姆通話，美墨接近達成貿易協議 】據報道，美國總統特朗普與墨西哥總統辛鮑姆週三通電話，兩國正接近達成一項貿易協議。一名知情人士稱，通話“一般”，因雙方討論中引入“新話題”而“產生了一些分歧”，但未說明新話題內容或由哪方提出；一名美國官員則稱通話“建設性”，美墨談判活躍且繼續朝積極方向推進，並否認通話不順利。知情人士稱，墨西哥官員認為雙方正接近解決與《美墨加協定》有關的擔憂。第四輪正式討論定於9月28日至29日舉行，較原計劃推遲一週。"
+    },
+    {
+      "id": "te:markets:584707",
+      "time": "2026-09-18 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 2.80% — Top commodity losers are Heating Oil (-2.80%), Germany Natural Gas THE (-2.17%), Methanol (-1.95%), Brent Oil (-1.32%) and Crude Oil (-0.71%)."
+    },
+    {
+      "id": "mkt:01a0b093-6037-7118-85e8-544b5775a072",
+      "time": "2026-09-18 02:14:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Politico reports sources say U.S. President Trump and Mexican President Sheinbaum are close to reaching a trade agreement."
+    },
     {
       "id": "5100528",
       "time": "2026-09-18 02:13:09",

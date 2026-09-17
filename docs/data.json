@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-18 02:13:43",
-  "count": 13390,
+  "updated": "2026-09-18 02:17:26",
+  "count": 13387,
   "items": [
+    {
+      "id": "5100531",
+      "time": "2026-09-18 02:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥8月份同店零售額同比增長1.7%。"
+    },
+    {
+      "id": "5100530",
+      "time": "2026-09-18 02:15:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普與辛鮑姆通話，美墨接近達成貿易協議 】據報道，美國總統特朗普與墨西哥總統辛鮑姆週三通電話，兩國正接近達成一項貿易協議。一名知情人士稱，通話“一般”，因雙方討論中引入“新話題”而“產生了一些分歧”，但未說明新話題內容或由哪方提出；一名美國官員則稱通話“建設性”，美墨談判活躍且繼續朝積極方向推進，並否認通話不順利。知情人士稱，墨西哥官員認為雙方正接近解決與《美墨加協定》有關的擔憂。第四輪正式討論定於9月28日至29日舉行，較原計劃推遲一週。"
+    },
+    {
+      "id": "te:markets:584707",
+      "time": "2026-09-18 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 2.80% — Top commodity losers are Heating Oil (-2.80%), Germany Natural Gas THE (-2.17%), Methanol (-1.95%), Brent Oil (-1.32%) and Crude Oil (-0.71%)."
+    },
+    {
+      "id": "mkt:01a0b093-6037-7118-85e8-544b5775a072",
+      "time": "2026-09-18 02:14:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Politico reports sources say U.S. President Trump and Mexican President Sheinbaum are close to reaching a trade agreement."
+    },
     {
       "id": "5100528",
       "time": "2026-09-18 02:13:09",
@@ -123229,80 +123270,6 @@
         "The Trump Trade"
       ],
       "text": "Canadian Prime Minister Carney said he has spoken several times with U.S. President Trump in recent days."
-    },
-    {
-      "id": "mkt:01a08c89-2f29-7118-8533-37b695e82c9b",
-      "time": "2026-09-11 02:16:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude futures surged past $103.00 per barrel, up 6.55% intraday; Brent crude rose 6.00% intraday to $105.55 per barrel."
-    },
-    {
-      "id": "5088100",
-      "time": "2026-09-11 02:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡尼稱近日與特朗普進行了\"幾次\"交談。"
-    },
-    {
-      "id": "mkt:01a08c88-081b-7118-8533-28bfcc6cd6d6",
-      "time": "2026-09-11 02:15:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israel's prime minister's office said the Israeli military destroyed Hezbollah's underground infrastructure on the Ali Taher Ridge in southern Lebanon."
-    },
-    {
-      "id": "5088099",
-      "time": "2026-09-11 02:15:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破103美元/桶，日內漲7.25%。"
-    },
-    {
-      "id": "5088098",
-      "time": "2026-09-11 02:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理辦公室：以色列軍方摧毀了黎巴嫩南部阿里·塔赫爾山脊的真主黨地下基礎設施。"
-    },
-    {
-      "id": "te:markets:582895",
-      "time": "2026-09-11 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Surges by 7.35% — Top commodity gainers are Methanol (7.35%), Crude Oil (6.93%) and Brent Oil (6.83%)."
-    },
-    {
-      "id": "mkt:01a08c87-c0fc-7118-8533-20a89b48bbfa",
-      "time": "2026-09-11 02:15:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Israeli media say the IDF is preparing to blow up tunnels on the Ali Taher ridge in southern Lebanon."
     }
   ]
 }
