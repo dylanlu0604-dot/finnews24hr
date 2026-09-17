@@ -1,7 +1,94 @@
 {
   "date": "2026-09-18",
-  "count": 499,
+  "count": 507,
   "items": [
+    {
+      "id": "5100779",
+      "time": "2026-09-18 07:52:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：在美聯儲面臨持續加息風險的情況下，中國債券、大宗商品和低估值權益等資產更值得關注】中信證券研報認為，通脹的“實質性改善”和通脹壓力不擴散可能是美聯儲停止加息的兩大前提，這意味著美聯儲加息程序不會戛然而止，部分投資者對9月“鴿派加息”的預期並不成立，9月加息落地也不應被視作利空出盡。在美聯儲面臨持續加息風險的情況下，中國債券、大宗商品和低估值權益等具有安全性和確定性的資產更值得關注。"
+    },
+    {
+      "id": "mkt:01a0b1c8-b283-7118-85eb-8a671d2d580f",
+      "time": "2026-09-18 07:51:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs said gold could fall to $4,070/oz in the near term, then gradually recover to $4,200/oz by end-2026."
+    },
+    {
+      "id": "mkt:01a0b1c8-27ea-7118-85eb-87b4eaeedabc",
+      "time": "2026-09-18 07:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs continues to see its gold forecast tilted to the upside, but says the path will involve larger two-way volatility."
+    },
+    {
+      "id": "5100778",
+      "time": "2026-09-18 07:50:42",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【澳債期貨走低，澳聯儲布洛克發表通脹相關言論】澳聯儲主席米歇爾・布洛克在澳大利亞國會聽證會上的表態被解讀為偏鷹派。國債期貨小幅下行，澳元兌美元匯率走強。布洛克稱，通脹上行風險正在顯現。需評估此前加息幅度是否足夠。交易員目前傾向於完全計價，預計澳聯儲本月晚些時候的議息會議將加息 25 個基點。"
+    },
+    {
+      "id": "mkt:01a0b1c7-72de-7118-85eb-7c69e7de8247",
+      "time": "2026-09-18 07:50:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs: continued central-bank reserve diversification remains our primary structural driver for gold."
+    },
+    {
+      "id": "5100777",
+      "time": "2026-09-18 07:50:17",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：各國央行持續的儲備多元化仍是我們看多黃金觀點的主要結構性驅動因素。"
+    },
+    {
+      "id": "mkt:01a0b1c6-36d3-7118-85eb-74839e1e01ef",
+      "time": "2026-09-18 07:49:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs maintains its end‑2027 gold price forecast at $5,400/oz despite the Fed’s rate hike yesterday."
+    },
+    {
+      "id": "5100776",
+      "time": "2026-09-18 07:48:57",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛：儘管美聯儲昨日加息，我們仍維持2027年末金價每盎司5400美元的預測。"
+    },
     {
       "id": "5100775",
       "time": "2026-09-18 07:47:20",

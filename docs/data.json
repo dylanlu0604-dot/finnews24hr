@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-18 07:49:05",
-  "count": 13332,
+  "updated": "2026-09-18 07:52:49",
+  "count": 13327,
   "items": [
+    {
+      "id": "5100779",
+      "time": "2026-09-18 07:52:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：在美聯儲面臨持續加息風險的情況下，中國債券、大宗商品和低估值權益等資產更值得關注】中信證券研報認為，通脹的“實質性改善”和通脹壓力不擴散可能是美聯儲停止加息的兩大前提，這意味著美聯儲加息程序不會戛然而止，部分投資者對9月“鴿派加息”的預期並不成立，9月加息落地也不應被視作利空出盡。在美聯儲面臨持續加息風險的情況下，中國債券、大宗商品和低估值權益等具有安全性和確定性的資產更值得關注。"
+    },
+    {
+      "id": "mkt:01a0b1c8-b283-7118-85eb-8a671d2d580f",
+      "time": "2026-09-18 07:51:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs said gold could fall to $4,070/oz in the near term, then gradually recover to $4,200/oz by end-2026."
+    },
+    {
+      "id": "mkt:01a0b1c8-27ea-7118-85eb-87b4eaeedabc",
+      "time": "2026-09-18 07:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs continues to see its gold forecast tilted to the upside, but says the path will involve larger two-way volatility."
+    },
+    {
+      "id": "5100778",
+      "time": "2026-09-18 07:50:42",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【澳債期貨走低，澳聯儲布洛克發表通脹相關言論】澳聯儲主席米歇爾・布洛克在澳大利亞國會聽證會上的表態被解讀為偏鷹派。國債期貨小幅下行，澳元兌美元匯率走強。布洛克稱，通脹上行風險正在顯現。需評估此前加息幅度是否足夠。交易員目前傾向於完全計價，預計澳聯儲本月晚些時候的議息會議將加息 25 個基點。"
+    },
+    {
+      "id": "mkt:01a0b1c7-72de-7118-85eb-7c69e7de8247",
+      "time": "2026-09-18 07:50:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs: continued central-bank reserve diversification remains our primary structural driver for gold."
+    },
+    {
+      "id": "5100777",
+      "time": "2026-09-18 07:50:17",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：各國央行持續的儲備多元化仍是我們看多黃金觀點的主要結構性驅動因素。"
+    },
+    {
+      "id": "mkt:01a0b1c6-36d3-7118-85eb-74839e1e01ef",
+      "time": "2026-09-18 07:49:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs maintains its end‑2027 gold price forecast at $5,400/oz despite the Fed’s rate hike yesterday."
+    },
+    {
+      "id": "5100776",
+      "time": "2026-09-18 07:48:57",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛：儘管美聯儲昨日加息，我們仍維持2027年末金價每盎司5400美元的預測。"
+    },
     {
       "id": "5100775",
       "time": "2026-09-18 07:47:20",
@@ -122565,144 +122652,6 @@
         "Impact bullish"
       ],
       "text": "【NVIDIA Grace Blackwell shipments reportedly up 27% MoM】Sept. 11 — NVIDIA’s Grace Blackwell shipments rose 27% month-on-month, sources said, signaling continued strong demand from cloud service providers and AI infrastructure firms for high-end AI compute chips. Grace Blackwell pairs NVIDIA’s Grace CPU with a Blackwell GPU and is used in GB200 NVL72 liquid-cooled rack systems. NVIDIA has previously said Blackwell demand exceeds supply."
-    },
-    {
-      "id": "te:markets:582927",
-      "time": "2026-09-11 07:51:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Stabilize Ahead of CPI Report — US stock futures steadied on Friday after the major averages declined in the previous session, as investors awaited the August consumer price index report. A hotter-than-expected consumer inflation reading could cement expectations that the Federal Reserve will raise interest rates next week, following Thursday’s data showing producer inflation accelerated last month as the Iran war drove up wholesale energy prices. In regular trading on Thursday, the Dow fell 0.61%, while the S&P 500 and Nasdaq Composite declined 0.59% and 0.65%, respectively. All three benchmarks extended their losing streaks to four sessions. Stocks came under pressure from surging oil prices and Treasury yields as inflation concerns intensified. In corporate news, Oracle gained more than 4% in extended trading after reporting better-than-expected quarterly results, while Adobe fell over 2% on weak guidance for the current quarter."
-    },
-    {
-      "id": "mkt:01a08dbb-5fd5-7118-8537-0a02f213c03e",
-      "time": "2026-09-11 07:51:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Bessent rejects claims he's at odds with Fed chair Warsh, calls it \"nonsense\"】U.S. Treasury Secretary Bessent rejected claims his actions in the Treasury market conflict with Fed Chair Kevin Warsh, calling the characterization \"nonsense.\" Warsh said in July markets should price without Fed policy guidance, adding market participants are learning to focus on the game itself rather than the referee. Bessent said investors have not demanded an extra risk premium for long-term Treasuries and dismissed related concerns as \"unfounded noise.\" Since the U.S. began military action against Iran, investors have pushed Treasury yields higher: the 10-year yield was below 4% on Feb. 28, the day before the U.S.'s first strike, and rose to 4.96% by Thursday evening, while the 30-year yield sits near its highest level since 2007."
-    },
-    {
-      "id": "5088403",
-      "time": "2026-09-11 07:50:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普暗示選舉可能限制伊朗局勢升級】美國總統唐納德·特朗普表示，即將到來的選舉可能會影響美國是否“全面”介入伊朗，同時他堅稱對這場衝突沒有遺憾。特朗普還聲稱美國控制著霍爾木茲海峽，並表示美軍在一夜之間摧毀了那裡的22艘船隻。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609113871163883",
-      "time": "2026-09-11 07:50:52",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本8月生產者價格同比增長7.6%，預估為7.4%。"
-    },
-    {
-      "id": "mkt:01a08dba-fa34-7118-8537-03177032c159",
-      "time": "2026-09-11 07:50:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan Q3 BSI for large manufacturers 7.6, prior -1.8."
-    },
-    {
-      "id": "5088402",
-      "time": "2026-09-11 07:50:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國10年期國債期貨跌至2022年10月以來的最低水平。"
-    },
-    {
-      "id": "mkt:01a08dba-d644-7118-8536-fd2ba2a0af36",
-      "time": "2026-09-11 07:50:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | BSI On Large Enterprises Business Conditions (Manufacturing) (Q3) | actual 7.6 | previous -1.8"
-    },
-    {
-      "id": "5088401",
-      "time": "2026-09-11 07:50:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本8月生產者價格環比下降0.2%; 預估為0%；日本8月生產者價格同比增長7.6%; 預估為+7.4%。"
-    },
-    {
-      "id": "mkt:01a08dba-a380-7118-8536-f6a9a8b211c0",
-      "time": "2026-09-11 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan August domestic corporate goods price index (CGPI) MoM -0.2% (consensus 0.0%; July +0.1%)."
-    },
-    {
-      "id": "mkt:01a08dba-a1f1-7118-8536-e99ba57ce352",
-      "time": "2026-09-11 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan August domestic corporate goods price index (CGPI) YoY +7.6% vs +7.4% expected, +7.2% prior."
-    },
-    {
-      "id": "mkt:01a08dba-778c-7118-8536-da2c2458e890",
-      "time": "2026-09-11 07:50:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (YoY) (Aug) | actual 7.6% | consensus 7.40% | previous 7.20%"
-    },
-    {
-      "id": "mkt:01a08dba-7792-7118-8536-e301db8d2e7b",
-      "time": "2026-09-11 07:50:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (MoM) (Aug) | actual -0.2% | consensus 0.00% | previous 0.10%"
-    },
-    {
-      "id": "5088400",
-      "time": "2026-09-11 07:49:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗戰爭將在中期選舉後結束】美國總統唐納德·特朗普重申，他預計與伊朗的戰爭將在中期選舉“之後不久”結束，他表示德黑蘭“深陷困境”。 特朗普還聲稱伊朗的導彈儲備已被基本消滅，同時承認該國將保留一定的導彈能力。"
     }
   ]
 }
