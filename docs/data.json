@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-18 04:56:16",
-  "count": 13338,
+  "updated": "2026-09-18 05:00:05",
+  "count": 13335,
   "items": [
+    {
+      "id": "5100678",
+      "time": "2026-09-18 04:59:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加拿大長期國債拍賣收益率創2007年以來新高】加拿大以19年來最高的收益率拍賣了長期國債，上行通脹風險正為全球各國政府推高借貸成本。渥太華政府週四出售了30億加元（約合21億美元）於2059年6月1日到期的國債，平均收益率為4.201%。這是自2007年7月以來加拿大30年期國債拍賣的最高收益率，當時信貸緊縮開始在全球市場蔓延，並最終在次年引發重大金融危機。"
+    },
+    {
+      "id": "5100672",
+      "time": "2026-09-18 04:56:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：普通伊朗民眾正承受殘酷鎮壓、水電短缺與惡性通脹，而伊朗政權官員卻想在紐約大肆購物。這絕不能發生。我們不會允許伊朗政權精英利用聯合國大會之機，靠著伊朗人民的苦難揮霍資金購買奢侈品，與此同時該政權還挪用伊朗財富扶持其恐怖代理人。美國將繼續禁止伊朗聯合國代表團官員、來訪官員及其家屬在當地辦理倉儲會員店會員或購買奢侈品。紐約地區零售商務必保持警惕，切勿淪為這些違規行為的幫兇。"
+    },
     {
       "id": "mkt:01a0b126-ce89-7118-85e9-c5424e57af77",
       "time": "2026-09-18 04:55:05",
@@ -122693,53 +122710,6 @@
         "MKT News"
       ],
       "text": "US senior envoy for Yemen Neil Hope met Yemen’s foreign minister Afrah Zuba, reaffirmed US support for the Yemeni government and discussed deepening diplomatic cooperation and regional security."
-    },
-    {
-      "id": "mkt:01a08d1e-101c-7118-8535-6ef8cd8c37c9",
-      "time": "2026-09-11 04:59:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. Treasury announces sanctions on Iran-related individuals and entities】On Sept. 10, the U.S. Treasury said its Office of Foreign Assets Control (OFAC) designated individuals and entities that support Iran’s proxy networks in the Middle East, including Hezbollah members, as part of the U.S. \"economic isolation\" campaign against Iran. On Aug. 24, Treasury Secretary Bessent said the U.S. had launched a new round of sanctions under the same \"economic isolation\" push to further increase pressure on Iran."
-    },
-    {
-      "id": "5088281",
-      "time": "2026-09-11 04:59:09",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美財政部宣佈對伊朗相關個人和實體實施制裁】美國財政部當地時間9月10日釋出宣告稱，作為對伊“經濟孤立行動”的一部分，該部門下屬的外國資產控制辦公室將為伊朗在中東地區的代理人網路提供支援的個人和實體列入制裁清單，制裁物件包括黎真主黨成員等。8月24日，美國財政部長貝森特宣佈美國當日發起對伊朗“經濟孤立”的新一輪制裁措施，以進一步加大對伊施壓。 (央視新聞)"
-    },
-    {
-      "id": "5088280",
-      "time": "2026-09-11 04:58:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【博索納羅民調支援率飆升追平盧拉，最高法院危機令選情趨緊】巴西最高法院內部的一場危機正在給該國左翼領導人、現任總統路易斯·伊納西奧·盧拉·達席爾瓦競選連任造成不利影響，一項最新民調顯示，弗拉維奧·博索納羅的支援率大幅攀升，與盧拉打成平手，抹去了此前4.5個百分點的差距。週四公佈的AtlasIntel為彭博新聞社進行的民調結果顯示，如果10月份總統選舉進入第二輪投票，博索納羅和盧拉將各自獲得約46%的選票。在8月底公佈的上一次調查中，盧拉以47.1%對42.6%領先。"
-    },
-    {
-      "id": "5088276",
-      "time": "2026-09-11 04:57:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破104美元/桶，日內漲8.28%。"
-    },
-    {
-      "id": "5088275",
-      "time": "2026-09-11 04:57:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破109美元/桶，日內漲7.70%。"
     }
   ]
 }
