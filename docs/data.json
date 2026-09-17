@@ -1,7 +1,180 @@
 {
-  "updated": "2026-09-17 21:59:24",
-  "count": 13358,
+  "updated": "2026-09-17 22:03:22",
+  "count": 13357,
   "items": [
+    {
+      "id": "5100192",
+      "time": "2026-09-17 22:02:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "王毅同美國國務卿魯比奧通電話。(央視新聞）"
+    },
+    {
+      "id": "5100191",
+      "time": "2026-09-17 22:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持摩洛哥“BB+”評級，展望穩定。"
+    },
+    {
+      "id": "mkt:01a0afab-9314-7118-85e3-661a64ab0614",
+      "time": "2026-09-17 22:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Industry sources and Refinitiv calculations show Russia's seaborne refined oil product exports in August rose 16.4% MoM from July but fell 50% YoY."
+    },
+    {
+      "id": "5100190",
+      "time": "2026-09-17 22:00:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨跌幅超4%，跌至每噸5732美元。"
+    },
+    {
+      "id": "5100189",
+      "time": "2026-09-17 22:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮行政令草案包含一項網路技術發展計劃，旨在與美國相關工作保持一致。。"
+    },
+    {
+      "id": "mkt:01a0afab-56ed-7118-85e3-5d743504e8f0",
+      "time": "2026-09-17 22:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: a White House draft executive order includes a network-technology development program intended to align with related U.S. efforts."
+    },
+    {
+      "id": "mkt:01a0afab-1803-7118-85e3-519d745764b4",
+      "time": "2026-09-17 22:00:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US August pending home sales index, not seasonally adjusted, down 4.9% YoY vs -3.9% expected; prior -2.5%."
+    },
+    {
+      "id": "5100188",
+      "time": "2026-09-17 22:00:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月成屋簽約銷售指數月率 0.3%，預期-0.6%，前值由-2.30%修正為-2.6%。美國8月成屋簽約銷售指數 71.2，前值由71.2修正為71。"
+    },
+    {
+      "id": "mkt:01a0afaa-f9f2-7118-85e3-4e5de639be94",
+      "time": "2026-09-17 22:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (YoY) (Aug) | actual -4.9% | consensus -3.9% | previous -2.50%"
+    },
+    {
+      "id": "mkt:01a0afaa-f6cf-7118-85e3-40eb5be31033",
+      "time": "2026-09-17 22:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Aug pending home sales MoM +0.3% (exp -0.6%); prior July reading revised to -2.6% from -2.3%."
+    },
+    {
+      "id": "mkt:01a0afaa-f419-7118-85e3-3f43e68c08bc",
+      "time": "2026-09-17 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. pending‑home‑sales index for August 71.2; prior reading revised down to 71 from 71.2."
+    },
+    {
+      "id": "mkt:01a0afaa-c8ba-7118-85e3-33be8f4309a5",
+      "time": "2026-09-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (Aug) | actual 71.2 | previous 71.2"
+    },
+    {
+      "id": "mkt:01a0afaa-c7d4-7118-85e3-2a82a2644c01",
+      "time": "2026-09-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (MoM) (Aug) | actual 0.3% | consensus -0.6% | previous -2.30%"
+    },
+    {
+      "id": "mkt:01a0afaa-9168-7118-85e3-22b014088f71",
+      "time": "2026-09-17 21:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House weighing creation of a U.S.-based cybersecurity research and startup incubator."
+    },
+    {
+      "id": "mkt:01a0afaa-5f7b-7118-85e3-18d72d2c7cd5",
+      "time": "2026-09-17 21:59:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Energy Secretary Wright said President Trump's energy-dominance agenda is delivering a historic milestone in U.S. energy abundance."
+    },
+    {
+      "id": "5100186",
+      "time": "2026-09-17 21:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮考慮設立美國網路安全研究和初創企業孵化器。"
+    },
+    {
+      "id": "mkt:01a0afaa-1601-7118-85e3-11425e480e0b",
+      "time": "2026-09-17 21:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior adviser to Turkish President ERDOGAN said he would run again if an early presidential election is held in April 2028."
+    },
+    {
+      "id": "5100185",
+      "time": "2026-09-17 21:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中蒙電網首次實現“網對網”互聯互通】記者17日從內蒙古電力集團獲悉，9月16日0時32分，隨著蒙古國塔旺陶勒蓋220千伏變電站接入內蒙古電網，內蒙古電力集團對蒙古國南部地區電網供電專案正式投運送電，標誌著中蒙兩國電網從過去的“點對點”專線補給，升級為“網對網”跨境互聯互通。(新華社)"
+    },
     {
       "id": "5100184",
       "time": "2026-09-17 21:58:37",
@@ -122984,218 +123157,6 @@
         "公司"
       ],
       "text": "【國家發展改革委民營局向民營企業公開推介交通、物流、水利、能源等領域一批投資專案】 為進一步激發民間投資活力，9月10日國家發展改革委民營局主要負責同志主持召開有關民營企業和行業協會座談會，面對面聽取企業在投資過程中存在的問題、障礙及意見建議。圍繞民營企業投資意向，會上集中推介了一批投資專案，積極引導民間資本參與建設。本次共推介專案36個，聚焦交通、物流、水利、能源等四大重點領域，預計總投資614億元，擬引入民間資本156億元，涵蓋鐵路、倉儲、風電、儲能、充電設施、引水工程等型別。民間資本可透過獨資、控股、參股專案公司等多種方式參與。(發改委)"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609103870863573",
-      "time": "2026-09-10 22:03:20",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國二手房供應量相當於4.9個月的量，為2015年以來最高水平。"
-    },
-    {
-      "id": "5087806",
-      "time": "2026-09-10 22:02:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：Kalshi 獲批推出黃金與白銀永續合約。"
-    },
-    {
-      "id": "mkt:01a08b9f-ea93-7118-852d-f59cfae24013",
-      "time": "2026-09-10 22:01:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "【High rates curb homebuying as U.S. existing‑home sales slow further in August】U.S. existing‑home sales fell 2% in August to a seasonally adjusted annualized pace of 3.98 million units, the slowest since June 2025 and matching that month’s pace, the National Association of Realtors said. The median existing‑home price rose 1.6% YoY to $429,100. Homes available for sale increased to 1.62 million units, the first time above 1.6 million since November 2019. NAR chief economist Lawrence Yun said mortgage rates move inversely with sales, adding that high rates have modestly reduced buying activity. Opendoor CEO Kaz Nejatian described the final two weeks of August as among the worst housing‑market stretches his firm has seen."
-    },
-    {
-      "id": "5087805",
-      "time": "2026-09-10 22:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團擬收購 Flow Control Holdings，交易預計將於第四季度完成。"
-    },
-    {
-      "id": "5087804",
-      "time": "2026-09-10 22:00:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "環球音樂集團與 ElevenLabs 宣佈達成多年合作協議。"
-    },
-    {
-      "id": "5087803",
-      "time": "2026-09-10 22:00:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國8月成屋銷售總數年化為398萬戶，創2015年以來新高。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609103870863243",
-      "time": "2026-09-10 22:00:51",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國8月成屋銷售總數年化398萬戶，預期398萬戶，前值406萬戶。"
-    },
-    {
-      "id": "mkt:01a08b9e-f631-7118-852d-e8ce6f3b9d18",
-      "time": "2026-09-10 22:00:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "U.S. existing-home sales in August annualized at 3.98 mln units, the strongest pace since 2015."
-    },
-    {
-      "id": "5087802",
-      "time": "2026-09-10 22:00:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "百事可樂召集35餘個國家的農戶與農業專家，共促馬鈴薯種植業發展。"
-    },
-    {
-      "id": "5087801",
-      "time": "2026-09-10 22:00:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月成屋銷售總數年化 398萬戶，預期 399萬戶，前值 406萬戶。\n美國8月成屋銷售總數年化環比 -2%，預期 -1.6%，前值 -1.7%。\n美國7月批發庫存環比終值 1.3%，預期 1.3%，初值 1.3%。\n美國7月批發銷售環比 0.8%，前值 -3%。"
-    },
-    {
-      "id": "mkt:01a08b9e-7b0d-7118-852d-e099cd3fb2c5",
-      "time": "2026-09-10 22:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US wholesale sales +0.8% m/m in July; June revised to -2.9% from -3.0%."
-    },
-    {
-      "id": "mkt:01a08b9e-7172-7118-852d-da9f541bcf3a",
-      "time": "2026-09-10 22:00:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US July wholesale inventories final MoM +1.3% (consensus +1.3%, prior +1.3%)."
-    },
-    {
-      "id": "mkt:01a08b9e-67ef-7118-852d-d3e9877286e0",
-      "time": "2026-09-10 22:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "U.S. existing-home sales (seasonally adjusted annualized), MoM -2.0% in August; prior -1.7%."
-    },
-    {
-      "id": "mkt:01a08b9e-679c-7118-852d-cb948b23562a",
-      "time": "2026-09-10 22:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. existing-home sales annualized 3.98 mln units in August, matching estimate 3.98 mln; prior 4.06 mln."
-    },
-    {
-      "id": "mkt:01a08b9e-457f-7118-852d-c69fd379de82",
-      "time": "2026-09-10 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Wholesale Sales (MoM) (Jul) | actual 0.8% | previous -3.00%"
-    },
-    {
-      "id": "mkt:01a08b9e-44ca-7118-852d-bc78668124ad",
-      "time": "2026-09-10 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales SAAR (MoM) (Aug) | actual -2% | previous -1.70%"
-    },
-    {
-      "id": "mkt:01a08b9e-43f9-7118-852d-b7e8afc93609",
-      "time": "2026-09-10 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales Total SAAR (Aug) | actual 3980000M | consensus 3980000M | previous 4060000M"
-    },
-    {
-      "id": "5087800",
-      "time": "2026-09-10 21:59:52",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國 3 年期和 5 年期國債收益率當日上漲 10 個基點。"
-    },
-    {
-      "id": "mkt:01a08b9e-238f-7118-852d-a99fa5cf0414",
-      "time": "2026-09-10 21:59:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 3-year and 5-year Treasury yields rose 10bps intraday."
     }
   ]
 }

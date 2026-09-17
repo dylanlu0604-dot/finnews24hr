@@ -1,7 +1,180 @@
 {
   "date": "2026-09-17",
-  "count": 2302,
+  "count": 2320,
   "items": [
+    {
+      "id": "5100192",
+      "time": "2026-09-17 22:02:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "王毅同美國國務卿魯比奧通電話。(央視新聞）"
+    },
+    {
+      "id": "5100191",
+      "time": "2026-09-17 22:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持摩洛哥“BB+”評級，展望穩定。"
+    },
+    {
+      "id": "mkt:01a0afab-9314-7118-85e3-661a64ab0614",
+      "time": "2026-09-17 22:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Industry sources and Refinitiv calculations show Russia's seaborne refined oil product exports in August rose 16.4% MoM from July but fell 50% YoY."
+    },
+    {
+      "id": "5100190",
+      "time": "2026-09-17 22:00:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨跌幅超4%，跌至每噸5732美元。"
+    },
+    {
+      "id": "5100189",
+      "time": "2026-09-17 22:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮行政令草案包含一項網路技術發展計劃，旨在與美國相關工作保持一致。。"
+    },
+    {
+      "id": "mkt:01a0afab-56ed-7118-85e3-5d743504e8f0",
+      "time": "2026-09-17 22:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: a White House draft executive order includes a network-technology development program intended to align with related U.S. efforts."
+    },
+    {
+      "id": "mkt:01a0afab-1803-7118-85e3-519d745764b4",
+      "time": "2026-09-17 22:00:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US August pending home sales index, not seasonally adjusted, down 4.9% YoY vs -3.9% expected; prior -2.5%."
+    },
+    {
+      "id": "5100188",
+      "time": "2026-09-17 22:00:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月成屋簽約銷售指數月率 0.3%，預期-0.6%，前值由-2.30%修正為-2.6%。美國8月成屋簽約銷售指數 71.2，前值由71.2修正為71。"
+    },
+    {
+      "id": "mkt:01a0afaa-f9f2-7118-85e3-4e5de639be94",
+      "time": "2026-09-17 22:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (YoY) (Aug) | actual -4.9% | consensus -3.9% | previous -2.50%"
+    },
+    {
+      "id": "mkt:01a0afaa-f6cf-7118-85e3-40eb5be31033",
+      "time": "2026-09-17 22:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Aug pending home sales MoM +0.3% (exp -0.6%); prior July reading revised to -2.6% from -2.3%."
+    },
+    {
+      "id": "mkt:01a0afaa-f419-7118-85e3-3f43e68c08bc",
+      "time": "2026-09-17 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. pending‑home‑sales index for August 71.2; prior reading revised down to 71 from 71.2."
+    },
+    {
+      "id": "mkt:01a0afaa-c8ba-7118-85e3-33be8f4309a5",
+      "time": "2026-09-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (Aug) | actual 71.2 | previous 71.2"
+    },
+    {
+      "id": "mkt:01a0afaa-c7d4-7118-85e3-2a82a2644c01",
+      "time": "2026-09-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (MoM) (Aug) | actual 0.3% | consensus -0.6% | previous -2.30%"
+    },
+    {
+      "id": "mkt:01a0afaa-9168-7118-85e3-22b014088f71",
+      "time": "2026-09-17 21:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House weighing creation of a U.S.-based cybersecurity research and startup incubator."
+    },
+    {
+      "id": "mkt:01a0afaa-5f7b-7118-85e3-18d72d2c7cd5",
+      "time": "2026-09-17 21:59:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Energy Secretary Wright said President Trump's energy-dominance agenda is delivering a historic milestone in U.S. energy abundance."
+    },
+    {
+      "id": "5100186",
+      "time": "2026-09-17 21:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮考慮設立美國網路安全研究和初創企業孵化器。"
+    },
+    {
+      "id": "mkt:01a0afaa-1601-7118-85e3-11425e480e0b",
+      "time": "2026-09-17 21:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior adviser to Turkish President ERDOGAN said he would run again if an early presidential election is held in April 2028."
+    },
+    {
+      "id": "5100185",
+      "time": "2026-09-17 21:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中蒙電網首次實現“網對網”互聯互通】記者17日從內蒙古電力集團獲悉，9月16日0時32分，隨著蒙古國塔旺陶勒蓋220千伏變電站接入內蒙古電網，內蒙古電力集團對蒙古國南部地區電網供電專案正式投運送電，標誌著中蒙兩國電網從過去的“點對點”專線補給，升級為“網對網”跨境互聯互通。(新華社)"
+    },
     {
       "id": "5100184",
       "time": "2026-09-17 21:58:37",
