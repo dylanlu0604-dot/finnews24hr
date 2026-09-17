@@ -1,7 +1,32 @@
 {
   "date": "2026-09-18",
-  "count": 239,
+  "count": 242,
   "items": [
+    {
+      "id": "mkt:01a0b0b5-40a1-7118-85e8-c42b962befe4",
+      "time": "2026-09-18 02:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Barclays currently expects the Bank of England to hike rates by 25bp in November and by 25bp in February 2027, citing persistent inflation risks and impact from the Middle East conflict."
+    },
+    {
+      "id": "5100555",
+      "time": "2026-09-18 02:50:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "信貸承兌公司（Credit Acceptance Corp）表示，除已計提的費用外，就其與美國各州就放貸行為達成的和解，公司不會再記提額外費用。"
+    },
+    {
+      "id": "mkt:01a0b0b2-dfd2-7118-85e8-ba0785b18296",
+      "time": "2026-09-18 02:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US approves PEZESHKIAN and Iran foreign minister to attend UN General Assembly in New York】The U.S. State Department told AP it has approved travel for Iranian President PEZESHKIAN and Foreign Minister Araghchi to attend next week’s UN General Assembly high-level meetings in New York. The department said Iran’s core delegation and necessary staff will be allowed to participate but will face travel restrictions and a U.S. policy ban on purchasing luxury and other restricted items; the delegation will be smaller than last year. The decision comes after more than six months of U.S.-Iran conflict, with no material progress on reopening the Strait of Hormuz or restarting Iran nuclear talks. As host of the UN, the U.S. is constrained by host-country obligations and has previously issued limited visas and activity curbs for representatives from conflict parties. The approval follows a separate U.S. visa denial for Palestinian President Mahmoud Abbas one day earlier."
+    },
     {
       "id": "5100554",
       "time": "2026-09-18 02:45:42",
