@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-18 05:42:10",
-  "count": 13324,
+  "updated": "2026-09-18 05:45:58",
+  "count": 13325,
   "items": [
+    {
+      "id": "mkt:01a0b154-80cf-7118-85ea-13ffdc0210f0",
+      "time": "2026-09-18 05:45:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Axios reports President Trump plans to meet Venezuela's interim president Rodriguez as early as next week; it would be their first meeting."
+    },
+    {
+      "id": "5100699",
+      "time": "2026-09-18 05:44:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普正計劃最早於下週，與委內瑞拉臨時總統德爾西・羅德里格斯舉行首次會晤。"
+    },
     {
       "id": "5100698",
       "time": "2026-09-18 05:35:36",
@@ -122587,15 +122607,6 @@
         "US Economy"
       ],
       "text": "【Trump says $5,000 \"election bonus\" would not need congressional approval】President Trump told reporters he has proposed paying each U.S. citizen $5,000 as an \"election bonus\" if Republicans retain control of both the House and Senate after the midterms. He said the payment \"would not need\" congressional approval — \"if it did, they would do it, but we don't think it's necessary\" — and said it would be financed from tariff and other revenues the administration described as totaling tens of trillions of dollars. He added U.S. manufacturing and other investment now exceeds $20 trillion and said any payments must be spent within the United States."
-    },
-    {
-      "id": "5088305",
-      "time": "2026-09-11 05:44:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普公佈計劃，擬取消H-1B員工失業後的寬限期】美國特朗普政府的一項提案將取消外籍員工在失業後尋找新擔保人的60天視窗期。該擬議規則將廢除自2017年以來適用於包括H-1B員工在內的特定員工的自由裁量寬限期。美國國土安全部（DHS）表示，該提案將減輕該機構的行政負擔，但批評人士認為，這會將責任轉移給國務院，並增加解僱外籍員工企業的財務負擔。"
     }
   ]
 }
