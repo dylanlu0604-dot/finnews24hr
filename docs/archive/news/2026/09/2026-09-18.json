@@ -1,7 +1,58 @@
 {
   "date": "2026-09-18",
-  "count": 355,
+  "count": 360,
   "items": [
+    {
+      "id": "5100694",
+      "time": "2026-09-18 05:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "訴狀檔案：迪士尼稱，鑑於美國總統特朗普持續發出威脅，美國法官必須阻止美國聯邦通訊委員會開展牌照提前審查。"
+    },
+    {
+      "id": "te:markets:584720",
+      "time": "2026-09-18 05:23:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Drop as Supply Risks Ease — Brent crude oil settled near $104 a barrel on Thursday, extending a 2.7% drop from the previous session, as Saudi Arabia shifts some crude exports through the Strait of Hormuz to offset the closure of a key pipeline. Saudi Arabia is reportedly making additional crude cargoes available to Asian refiners through ship-to-ship transfers near Oman’s Sohar port. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, reducing their exposure to Iranian attacks. Saudi Arabia also said it could restore around half of the damaged East-West pipeline’s capacity within days and full operations within six weeks. Saudi crude loadings at Mideast Gulf ports have risen this month, while ship-to-ship transfers in the Gulf of Oman increased to 2.7 million bpd from 1.5 million bpd in August. Meanwhile, Russia’s seaborne oil product exports jumped 16.4% in August from July as refineries returned from maintenance."
+    },
+    {
+      "id": "te:markets:584719",
+      "time": "2026-09-18 05:21:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Drop as Supply Risks Ease — Crude oil settled near $101 a barrel, extending a 3.2% drop from the previous session, as Saudi Arabia shifts some crude exports through the Strait of Hormuz to offset the closure of a key pipeline. Saudi Arabia is reportedly making additional crude cargoes available to Asian refiners through ship-to-ship transfers near Oman’s Sohar port. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, reducing their exposure to Iranian attacks. Saudi Arabia also said it could restore around half of the damaged East-West pipeline’s capacity within days and full operations within six weeks. Saudi crude loadings at Mideast Gulf ports have risen this month, while ship-to-ship transfers in the Gulf of Oman increased to 2.7 million bpd from 1.5 million bpd in August. Meanwhile, Russia’s seaborne oil product exports jumped 16.4% in August from July as refineries returned from maintenance."
+    },
+    {
+      "id": "mkt:01a0b13d-66fd-7118-85ea-04fba7b6c989",
+      "time": "2026-09-18 05:19:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The IRGC said a Togo-flagged oil tanker was struck after attempting an \"illegal\" transit of the Strait of Hormuz; the vessel caught fire and has stopped. The IRGC navy warned again that any ship attempting an \"illegal\" transit will face destruction and said Iran retains control over passage security in the waterway."
+    },
+    {
+      "id": "5100693",
+      "time": "2026-09-18 05:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：伊朗伊斯蘭革命衛隊海軍稱，一艘多哥籍油輪試圖 “非法” 穿越霍爾木茲海峽，已遭其打擊。"
+    },
     {
       "id": "5100692",
       "time": "2026-09-18 05:15:31",
