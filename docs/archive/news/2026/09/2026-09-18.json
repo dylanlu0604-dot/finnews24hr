@@ -1,7 +1,35 @@
 {
   "date": "2026-09-18",
-  "count": 459,
+  "count": 462,
   "items": [
+    {
+      "id": "te:economy:584745",
+      "time": "2026-09-18 07:37:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Core Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Core Inflation Falls Below Forecasts — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.7% year-on-year in August 2026, after a 1.8% rise in July. The latest reading slowed from the highest rate in six months, touched a month earlier, and was below the market forecast of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for an eighth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict."
+    },
+    {
+      "id": "5100754",
+      "time": "2026-09-18 07:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行行長布洛克：通脹可能在一段時間內保持高位。"
+    },
+    {
+      "id": "5100752",
+      "time": "2026-09-18 07:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鎢價暴漲後深度回撥 概念股上半年業績集體高增】鎢價經歷年初衝高、二季度大幅回撥後，三季度轉入高位窄幅震盪。雖然當前價格較3月曆史高點顯著回撥，但相比兩年前漲幅仍接近2倍。受國內開採配額管控，鎢供給增長空間有限，在戰略金屬屬性加持下鎢價格中樞仍有支撐。A股市場鎢礦概念股共計6只，隨著鎢價持續高位執行，產業鏈企業盈利能力大幅釋放，上半年板塊業績集體迎來爆發。從淨利潤規模看，洛陽鉬業、廈門鎢業、中鎢高新排名前三，依次為161.52億元、22.01億元、20.76億元；章源鎢業、翔鷺鎢業、中稀有色歸母淨利潤也超過4億元。從淨利潤變動看，翔鷺鎢業、章源鎢業、中稀有色、中鎢高新、廈門鎢業上半年歸母淨利潤均同比翻倍增長。翔鷺鎢業最高，增幅高達2522.40%；章源鎢業、中稀有色隨後，增幅均在400%以上。"
+    },
     {
       "id": "5100751",
       "time": "2026-09-18 07:33:34",
