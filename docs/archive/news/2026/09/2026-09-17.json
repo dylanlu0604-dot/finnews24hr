@@ -1,7 +1,140 @@
 {
   "date": "2026-09-17",
-  "count": 2330,
+  "count": 2345,
   "items": [
+    {
+      "id": "mkt:01a0afb4-42a2-7118-85e3-aa2c55dd1d2b",
+      "time": "2026-09-17 22:10:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE main silver contract rose 2.97% intraday to 16,105 yuan/kg; open interest increased by about 3,100 lots, with trading volume and position activity picking up."
+    },
+    {
+      "id": "mkt:01a0afb4-05f2-7118-85e3-a0b6d21cac25",
+      "time": "2026-09-17 22:10:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver surged 5% intraday to $66.15/oz."
+    },
+    {
+      "id": "5100206",
+      "time": "2026-09-17 22:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "COMTREND：WI-FI 7 XGS-PON ONT、WI-FI 7乙太網閘道器獲FCC有條件批准。"
+    },
+    {
+      "id": "mkt:01a0afb3-d819-7118-85e3-98546ddc2c7e",
+      "time": "2026-09-17 22:09:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Australia hold 10th defense ministry working meeting】China and Australia held the 10th defense ministry working meeting in Beijing on Sept. 17. Delegations exchanged candid, in-depth views on bilateral military ties, maritime and air security, and shared regional and international concerns."
+    },
+    {
+      "id": "5100205",
+      "time": "2026-09-17 22:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中澳（大利亞）舉行第10次國防部工作會晤】9月17日，中澳（大利亞）第10次國防部工作會晤在北京舉行。雙方圍繞兩軍關係、海空安全以及共同關心的國際和地區問題坦誠深入交換意見，增進了相互理解和信任。 (國防部發布）"
+    },
+    {
+      "id": "5100204",
+      "time": "2026-09-17 22:09:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲5%，現報66.11美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0afb3-117c-7118-85e3-93268c0178ad",
+      "time": "2026-09-17 22:09:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian Foreign Ministry said the US extension of entry visa restrictions on Palestinian Authority officials lacks justification."
+    },
+    {
+      "id": "mkt:01a0afb2-b576-7118-85e3-8daaab0d7d81",
+      "time": "2026-09-17 22:08:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil said adjustments to its aid program will be made without raising the spending cap."
+    },
+    {
+      "id": "5100203",
+      "time": "2026-09-17 22:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西援助專案評估工作將在不增加費用上限的前提下開展。"
+    },
+    {
+      "id": "5100202",
+      "time": "2026-09-17 22:07:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【OpenAI有望攻克另一項千禧年大獎數學難題】本月早些時候，數學家指責OpenAI試圖搶佔先機、爭奪一道超高難度數學難題的成果。據瞭解相關研究進展的人士透露，事實是OpenAI距離攻克千禧年大獎難題中的另一道數學難題已近在咫尺。千禧年大獎難題一共包含七大著名數學挑戰，此前引發爭議的納維–斯托克斯方程存在性與光滑性問題正是其中之一。 該訊息人士稱，公司內部員工預計，下一個目標——霍奇猜想，有望在較短時間內得到證明。霍奇猜想研究的是：由多項式方程定義幾何體時，其特定幾何特徵是否總能用更簡單的代陣列件來描述。不過，OpenAI可能需要更長時間才會對外公佈證明結果。原因在於，公司正研究如何與數學界開展合作，以合適的方式釋出成果，避免再次釀成公關危機。"
+    },
+    {
+      "id": "mkt:01a0afb1-6158-7118-85e3-878b93dcdd38",
+      "time": "2026-09-17 22:07:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver hit $66/oz, up 4.81% intraday."
+    },
+    {
+      "id": "5100201",
+      "time": "2026-09-17 22:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國航空：隨著當前經停布宜諾斯艾利斯的航線服務取消，巴西里約熱內盧航線座位運力將獲提升。"
+    },
+    {
+      "id": "mkt:01a0afb1-3381-7118-85e3-786e26c25325",
+      "time": "2026-09-17 22:07:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "Xpeng Inc (XPEV.N) rose 4% after Refinitiv reported it plans to offer technology solutions to foreign automakers beyond Volkswagen."
+    },
+    {
+      "id": "5100200",
+      "time": "2026-09-17 22:07:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車(XPEV.N)上漲4%。"
+    },
+    {
+      "id": "5100199",
+      "time": "2026-09-17 22:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國航空：將於2027年夏季起開通倫敦希思羅至布宜諾斯艾利斯的每日直飛航線。"
+    },
     {
       "id": "5100198",
       "time": "2026-09-17 22:06:27",

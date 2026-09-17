@@ -1,7 +1,140 @@
 {
-  "updated": "2026-09-17 22:07:22",
-  "count": 13361,
+  "updated": "2026-09-17 22:11:19",
+  "count": 13358,
   "items": [
+    {
+      "id": "mkt:01a0afb4-42a2-7118-85e3-aa2c55dd1d2b",
+      "time": "2026-09-17 22:10:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE main silver contract rose 2.97% intraday to 16,105 yuan/kg; open interest increased by about 3,100 lots, with trading volume and position activity picking up."
+    },
+    {
+      "id": "mkt:01a0afb4-05f2-7118-85e3-a0b6d21cac25",
+      "time": "2026-09-17 22:10:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver surged 5% intraday to $66.15/oz."
+    },
+    {
+      "id": "5100206",
+      "time": "2026-09-17 22:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "COMTREND：WI-FI 7 XGS-PON ONT、WI-FI 7乙太網閘道器獲FCC有條件批准。"
+    },
+    {
+      "id": "mkt:01a0afb3-d819-7118-85e3-98546ddc2c7e",
+      "time": "2026-09-17 22:09:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Australia hold 10th defense ministry working meeting】China and Australia held the 10th defense ministry working meeting in Beijing on Sept. 17. Delegations exchanged candid, in-depth views on bilateral military ties, maritime and air security, and shared regional and international concerns."
+    },
+    {
+      "id": "5100205",
+      "time": "2026-09-17 22:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中澳（大利亞）舉行第10次國防部工作會晤】9月17日，中澳（大利亞）第10次國防部工作會晤在北京舉行。雙方圍繞兩軍關係、海空安全以及共同關心的國際和地區問題坦誠深入交換意見，增進了相互理解和信任。 (國防部發布）"
+    },
+    {
+      "id": "5100204",
+      "time": "2026-09-17 22:09:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲5%，現報66.11美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0afb3-117c-7118-85e3-93268c0178ad",
+      "time": "2026-09-17 22:09:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian Foreign Ministry said the US extension of entry visa restrictions on Palestinian Authority officials lacks justification."
+    },
+    {
+      "id": "mkt:01a0afb2-b576-7118-85e3-8daaab0d7d81",
+      "time": "2026-09-17 22:08:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil said adjustments to its aid program will be made without raising the spending cap."
+    },
+    {
+      "id": "5100203",
+      "time": "2026-09-17 22:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西援助專案評估工作將在不增加費用上限的前提下開展。"
+    },
+    {
+      "id": "5100202",
+      "time": "2026-09-17 22:07:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【OpenAI有望攻克另一項千禧年大獎數學難題】本月早些時候，數學家指責OpenAI試圖搶佔先機、爭奪一道超高難度數學難題的成果。據瞭解相關研究進展的人士透露，事實是OpenAI距離攻克千禧年大獎難題中的另一道數學難題已近在咫尺。千禧年大獎難題一共包含七大著名數學挑戰，此前引發爭議的納維–斯托克斯方程存在性與光滑性問題正是其中之一。 該訊息人士稱，公司內部員工預計，下一個目標——霍奇猜想，有望在較短時間內得到證明。霍奇猜想研究的是：由多項式方程定義幾何體時，其特定幾何特徵是否總能用更簡單的代陣列件來描述。不過，OpenAI可能需要更長時間才會對外公佈證明結果。原因在於，公司正研究如何與數學界開展合作，以合適的方式釋出成果，避免再次釀成公關危機。"
+    },
+    {
+      "id": "mkt:01a0afb1-6158-7118-85e3-878b93dcdd38",
+      "time": "2026-09-17 22:07:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver hit $66/oz, up 4.81% intraday."
+    },
+    {
+      "id": "5100201",
+      "time": "2026-09-17 22:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國航空：隨著當前經停布宜諾斯艾利斯的航線服務取消，巴西里約熱內盧航線座位運力將獲提升。"
+    },
+    {
+      "id": "5100200",
+      "time": "2026-09-17 22:07:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車(XPEV.N)上漲4%。"
+    },
+    {
+      "id": "mkt:01a0afb1-3381-7118-85e3-786e26c25325",
+      "time": "2026-09-17 22:07:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "Xpeng Inc (XPEV.N) rose 4% after Refinitiv reported it plans to offer technology solutions to foreign automakers beyond Volkswagen."
+    },
+    {
+      "id": "5100199",
+      "time": "2026-09-17 22:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國航空：將於2027年夏季起開通倫敦希思羅至布宜諾斯艾利斯的每日直飛航線。"
+    },
     {
       "id": "5100198",
       "time": "2026-09-17 22:06:27",
@@ -123025,174 +123158,6 @@
         "XAUUSD"
       ],
       "text": "Saudi outlet Hadas reports the UN Security Council convened a meeting to discuss sanctions on Iran."
-    },
-    {
-      "id": "te:economy:582850",
-      "time": "2026-09-10 22:11:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Wholesale Inventories",
-        "Importance 1"
-      ],
-      "text": "US Wholesale Inventory Growth at 4-Month High — US wholesale inventories rose by 1.3% month-over-month to $958.9 billion in July 2026, matching the advance estimate and following an upwardly revised 0.4% increase in June. This marked the sixth consecutive month of growth in wholesale inventories and the strongest increase since March. Nondurable goods inventories rose 1.6% in July, rebounding from a 0.3% decline in June, while durable goods inventories increased 1.1%, up from a 0.8% rise in June. On a yearly basis, wholesale inventories advanced by 5.7%, as previously estimated."
-    },
-    {
-      "id": "te:markets:582848",
-      "time": "2026-09-10 22:11:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Falls Toward One-Week Low — Platinum fell below $1,820 an ounce, moving toward its lowest level in a week, as the metal remained influenced by near-term investment flows while traders assessed prospects monetary tightening across major economies, weighing on demand for the non-yielding metal. The World Platinum Investment Council revised its 2026 market forecast to a surplus, with total demand set to fall 18%, driven by reduced demand for Chinese jewelry, which plunged 32%, and from automakers, which declined 6%. Additionally, heightened economic uncertainty stemming from the conflict in the Middle East has increased expectations of monetary tightening across major economies. The ECB hiked its policy rate at its September meeting, while a rise in US producer inflation led investors to increase bets on a Fed rate hike at its meeting next week, further dampening demand for platinum. In the long term, however, industrial demand provides some support, underpinned by the rapid build-out of artificial intelligence."
-    },
-    {
-      "id": "5087821",
-      "time": "2026-09-10 22:10:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI已與多家電力企業會面 探討電網安全方案】OpenAI透露，該公司已與多家頭部電力企業代表會面，探討保障電網安全的方案。而這些會談舉行之際，外界正接連曝光，OpenAI自身產品捲入了一場大規模網路攻擊事件。公司執行長薩姆·奧特曼也提出了一個應對網路安全風險的備選方案：由OpenAI提供自家網路安全服務。這場圍繞能源安全的磋商（其中兩場此前未曾對外報道）始於7月20日。據OpenAI與愛迪生電力研究所訊息，奧特曼最近一次會面是本週三，在科羅拉多斯普林斯舉辦的愛迪生電力研究所年會上，與多家電力公用事業高管展開交流。"
-    },
-    {
-      "id": "mkt:01a08ba8-0c9f-7118-852e-168f49b8f15f",
-      "time": "2026-09-10 22:10:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Politico reports OpenAI has held discussions with electric utilities on measures to safeguard power grid security."
-    },
-    {
-      "id": "mkt:01a08ba7-d527-7118-852e-0a8665910e40",
-      "time": "2026-09-10 22:10:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says it will issue $500 refunds under the Affordable Care Act to nearly 1 million Americans."
-    },
-    {
-      "id": "5087820",
-      "time": "2026-09-10 22:10:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【冰島擬永久禁止商業捕鯨 日本挪威將成“唯二” 】冰島政府計劃明年2月向議會提交禁止商業捕鯨的法案，若獲得透過，全球繼續進行商業捕鯨的國家將僅剩日本和挪威。據路透社10日報道，該法案將包含“永久禁止商業捕鯨”的條款。國際捕鯨委員會1986年開始實施商業捕鯨禁令。近年來，僅有冰島、挪威、日本三國仍在從事商業捕鯨活動。挪威1993年恢復商業捕鯨。日本則長期以科研名義捕鯨，並於2019年退出國際捕鯨委員會，恢復商業捕鯨。冰島2006年恢復商業捕鯨。2024年，時任冰島看守政府授予該國唯一捕鯨公司為期5年的捕鯨許可。同年年底，新一屆冰島政府上任，執政聯盟在議會佔多數席位。路透社援引一家動物保護組織發言人溫迪·希金斯的話說，冰島政府擬提交的禁止商業捕鯨法案在政界和民間支援度很高，希望它能獲得透過。（新華社）"
-    },
-    {
-      "id": "te:markets:582847",
-      "time": "2026-09-10 22:10:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Home Depot Stock Price Hits 16-week Low — Home Depot shares decreased to 305.56 USD, the lowest since May 2026. Over the past 4 weeks, Home Depot lost 12.82%, and in the last 12 months, it decreased 26%."
-    },
-    {
-      "id": "5087819",
-      "time": "2026-09-10 22:10:12",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【銀河通用：具身智慧是一場長跑，我們只與時間賽跑】銀河通用今日晚間發文表示：針對近期市場上關於具身智慧行業的相關討論，銀河通用鄭重說明：作為深耕這一領域的企業，銀河通用將依然堅持初心，以具身智慧技術為核心發展，以真實應用落地為長期堅持目標。我們不參與無謂的口水戰，不被短期噪音干擾。我們要做的，是把產品做好、把場景做實、把技術做深，繼續專注做好自己的事。"
-    },
-    {
-      "id": "5087818",
-      "time": "2026-09-10 22:09:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西普尼推出全球首款足金智慧戒指】西普尼(02583.HK)9月10日晚公告稱，公司推出全球首款足金智慧戒指，實現“足金+智慧”產品模式從概念到可檢測、可驗證、可商業落地的關鍵突破。同時，公司旗下深圳金靈人工智慧有限公司正式推出金靈珠寶門店AI零售智慧體，基於“GrowthAgent OS”平臺打造，推出標準化與定製化相結合的AI賦能智慧零售解決方案。"
-    },
-    {
-      "id": "5087817",
-      "time": "2026-09-10 22:09:52",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國成屋銷售滑落至一年多來最弱水平】全美房地產經紀人協會（NAR）資料顯示，美國8月合同成交量環比下降2%，摺合年率為398萬套，是2024年秋季以來僅有的兩次銷售跌破400萬套大關之一。這一令人失望的資料反映出一個急需催化劑的房地產市場。房價增速雖已從疫情時期的兩位數年度漲幅中冷卻下來，但可負擔性擔憂仍是買家的實質性逆風。"
-    },
-    {
-      "id": "5087816",
-      "time": "2026-09-10 22:09:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：將向近100萬美國人發放單筆500美元的奧巴馬醫改退款。"
-    },
-    {
-      "id": "5087815",
-      "time": "2026-09-10 22:09:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行再次加息】歐洲中央銀行10日結束貨幣政策會議，決定將歐元區三大關鍵利率均上調25個基點。這是歐洲央行今年以來第二次加息。此次加息後，歐元區存款機制利率、主要再融資利率和邊際借貸利率分別為2.50%、2.65%、2.90%。歐洲央行當天釋出新聞公報說，中東衝突持續帶來通脹壓力，預計歐元區通脹率將在較長一段時間內明顯高於該行2%的目標水平。此次加息旨在確保歐元區中期通脹率穩定在目標水平。公報還表示，受能源價格衝擊影響，歐元區經濟前景仍存在高度不確定性，通脹面臨上行風險。歐洲央行最新預測顯示，2026年歐元區整體通脹率預計為3%，與6月預測值持平，2027年通脹預期則上調至2.5%。同時，歐洲央行將歐元區2026年和2027年經濟增長預期分別小幅上調至0.9%和1.4%。歐洲央行行長拉加德表示，中東衝突等地緣政治因素進一步推高能源價格，預計歐元區整體通脹率在2027年上半年仍將明顯高於目標水平。此後，隨著能源價格回落，並在高利率作用下，通脹率有望於明年底前後回到目標水平。今年6月，歐洲央行將歐元區三大關鍵利率均上調25個基點，為2023年9月以來首次加息。（新華社）"
-    },
-    {
-      "id": "5087814",
-      "time": "2026-09-10 22:08:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 在與電力企業的會談中探討保障電網安全事宜。"
-    },
-    {
-      "id": "5087813",
-      "time": "2026-09-10 22:08:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【瑞銀維持蘋果“中性”評級 認為Pro系列漲價不足以覆蓋儲存成本】瑞銀在蘋果新品釋出會後維持對蘋果“中性”評級和296美元目標價，低於當前約319美元的股價。該機構認為，iPhone 18 Pro和Pro Max各漲價100美元，雖然有助於緩解成本壓力，但仍不足以完全抵消更高的儲存器成本；若漲價幅度擴大至200美元，則可能明顯抑制iPhone需求。瑞銀指出，蘋果此次秋季釋出會僅推出Pro、Pro Max和摺疊屏iPhone Duo三款機型，其中Duo起售價1999美元，標準版iPhone 18、Air和e系列預計將在明年初推出。瑞銀還援引2022年的經驗稱，當時蘋果在歐洲因零部件成本和美元走強上調售價，隨後需求從2022年底至2023年持續疲軟近一年，因此本輪定價需要在利潤率和銷量之間保持平衡。"
-    },
-    {
-      "id": "5087812",
-      "time": "2026-09-10 22:08:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華髮股份：更新定增申請檔案 事項尚需稽核註冊】華髮股份公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，已完成首輪問詢回覆披露並修訂募集說明書等檔案。結合2026年半年度報告及上交所進一步稽核意見，公司會同中介機構對問詢函部分回覆內容、募集說明書等申請檔案補充更新財務資料，更新內容以楷體加粗顯示。本次定增事項尚需透過上交所稽核並獲得中國證監會同意註冊後方可實施，能否透過稽核註冊及時間存在不確定性。"
-    },
-    {
-      "id": "te:economy:582843",
-      "time": "2026-09-10 22:08:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Existing Home Sales",
-        "Importance 2"
-      ],
-      "text": "US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 2.0% from the previous month to a seasonally adjusted annualized rate of 3.98 million units in August of 2026, aligned with market expectations. It follows a 1.7% decline in the previous months. Existing home sales declined in the Northeast (-4.0%), Midwest (-3.1%), and South (-1.6%) regions while sales were relatively unchanged in the West. Total housing inventory increased 3.2% to 1.62 million units and the median price was $429,100 for all housing types, a 1.6% increase from last year. “Mortgage rates and home sales move in opposite directions, so it's not surprising to see a mild dip in home buying activity due to high mortgage rates,” said NAR Chief Economist Lawrence Yun. Mortgage rates measured by leading mortgage providing institutions continued to rise through the period as soaring energy costs and ample corporate debt supply lifted longer-maturity yields."
-    },
-    {
-      "id": "5087811",
-      "time": "2026-09-10 22:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 與頭部電力企業代表舉行會晤。"
-    },
-    {
-      "id": "5087810",
-      "time": "2026-09-10 22:07:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長：伊朗危機打破了市場對政策進一步轉向鴿派的預期。"
     }
   ]
 }
