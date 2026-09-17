@@ -1,7 +1,76 @@
 {
   "date": "2026-09-18",
-  "count": 333,
+  "count": 341,
   "items": [
+    {
+      "id": "5100682",
+      "time": "2026-09-18 05:02:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國財政大臣希利敦促布魯塞爾方面把英國納入 “歐洲製造” 政策。"
+    },
+    {
+      "id": "5100681",
+      "time": "2026-09-18 05:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國：8 月境外對本土股票淨投資為 + 0.34 萬億韓元，7 月為 - 31.66 萬億韓元。8 月境外對本土債券淨投資為 - 4.74 萬億韓元，7 月為 + 2.39 萬億韓元。"
+    },
+    {
+      "id": "5100680",
+      "time": "2026-09-18 05:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國 8 月境外對本土股票淨投資實現八個月以來首次月度資金流入。"
+    },
+    {
+      "id": "5100679",
+      "time": "2026-09-18 05:00:35",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國8月PPI年率 7.9%，前值由7.70%修正為7.7%。韓國8月PPI月率 0.2%，前值由-0.4%修正為-0.4%。"
+    },
+    {
+      "id": "mkt:01a0b12b-77a8-7118-85e9-e720f677dfb2",
+      "time": "2026-09-18 05:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea August PPI YoY 7.9%; July reading revised to 7.7% from 7.70%."
+    },
+    {
+      "id": "mkt:01a0b12b-7225-7118-85e9-dc6dd280cbb7",
+      "time": "2026-09-18 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Aug PPI MoM +0.2%; previous -0.4% (revision unchanged)."
+    },
+    {
+      "id": "mkt:01a0b12b-4e16-7118-85e9-d7c14b8ad1c9",
+      "time": "2026-09-18 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Aug) | actual 0.2% | previous -0.4%"
+    },
+    {
+      "id": "mkt:01a0b12b-4e0d-7118-85e9-cbb0f5b0ce82",
+      "time": "2026-09-18 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Aug) | actual 7.9% | previous 7.70%"
+    },
     {
       "id": "5100678",
       "time": "2026-09-18 04:59:22",

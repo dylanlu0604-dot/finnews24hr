@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-18 05:00:05",
-  "count": 13335,
+  "updated": "2026-09-18 05:04:00",
+  "count": 13339,
   "items": [
+    {
+      "id": "5100682",
+      "time": "2026-09-18 05:02:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國財政大臣希利敦促布魯塞爾方面把英國納入 “歐洲製造” 政策。"
+    },
+    {
+      "id": "5100681",
+      "time": "2026-09-18 05:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國：8 月境外對本土股票淨投資為 + 0.34 萬億韓元，7 月為 - 31.66 萬億韓元。8 月境外對本土債券淨投資為 - 4.74 萬億韓元，7 月為 + 2.39 萬億韓元。"
+    },
+    {
+      "id": "5100680",
+      "time": "2026-09-18 05:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國 8 月境外對本土股票淨投資實現八個月以來首次月度資金流入。"
+    },
+    {
+      "id": "5100679",
+      "time": "2026-09-18 05:00:35",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國8月PPI年率 7.9%，前值由7.70%修正為7.7%。韓國8月PPI月率 0.2%，前值由-0.4%修正為-0.4%。"
+    },
+    {
+      "id": "mkt:01a0b12b-77a8-7118-85e9-e720f677dfb2",
+      "time": "2026-09-18 05:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea August PPI YoY 7.9%; July reading revised to 7.7% from 7.70%."
+    },
+    {
+      "id": "mkt:01a0b12b-7225-7118-85e9-dc6dd280cbb7",
+      "time": "2026-09-18 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Aug PPI MoM +0.2%; previous -0.4% (revision unchanged)."
+    },
+    {
+      "id": "mkt:01a0b12b-4e16-7118-85e9-d7c14b8ad1c9",
+      "time": "2026-09-18 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Aug) | actual 0.2% | previous -0.4%"
+    },
+    {
+      "id": "mkt:01a0b12b-4e0d-7118-85e9-cbb0f5b0ce82",
+      "time": "2026-09-18 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Aug) | actual 7.9% | previous 7.70%"
+    },
     {
       "id": "5100678",
       "time": "2026-09-18 04:59:22",
@@ -122675,41 +122744,6 @@
         "其他"
       ],
       "text": "OpenAI：將暫停 200 美元專業版訂閱服務。"
-    },
-    {
-      "id": "mkt:01a08d21-19a8-7118-8535-7ae4ff244d41",
-      "time": "2026-09-11 05:02:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) plans to expand data-center capacity to 38 GW, roughly three times its current size."
-    },
-    {
-      "id": "5088283",
-      "time": "2026-09-11 05:01:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普否認美戰機在約旦遭伊朗襲擊受損】美國總統特朗普10日否認關於美軍駐約旦基地戰機在伊朗襲擊中受損的報道。特朗普當天在接受美國新聞國度電影片道電話採訪時說，有關美國戰機在伊朗最近一次襲擊中受損的報道“完全不屬實”，美軍“沒有損失，什麼事都沒有”。（新華社）"
-    },
-    {
-      "id": "5088282",
-      "time": "2026-09-11 05:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟計劃將資料中心容量擴充至原來的三倍，達到 38 吉瓦。"
-    },
-    {
-      "id": "mkt:01a08d1f-0b10-7118-8535-7668a2046eef",
-      "time": "2026-09-11 05:00:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US senior envoy for Yemen Neil Hope met Yemen’s foreign minister Afrah Zuba, reaffirmed US support for the Yemeni government and discussed deepening diplomatic cooperation and regional security."
     }
   ]
 }
