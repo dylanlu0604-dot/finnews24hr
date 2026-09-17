@@ -1,7 +1,55 @@
 {
   "date": "2026-09-17",
-  "count": 1212,
+  "count": 1217,
   "items": [
+    {
+      "id": "mkt:01a0ad63-d0b1-7118-85d0-4be437c92822",
+      "time": "2026-09-17 11:23:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China successfully launches Tianyi-51 and Tianyi-52 satellites】At 10:40 a.m. Beijing time on Sept. 17, China launched Tianyi-51 and Tianyi-52 from Jiuquan Satellite Launch Center aboard a Kuaizhou-11 Yao-3 carrier rocket; both satellites reached their planned orbits and the mission was successful."
+    },
+    {
+      "id": "5098860",
+      "time": "2026-09-17 11:22:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射天儀51、52星】9月17日10時40分，我國在酒泉衛星發射中心使用快舟十一號遙三運載火箭，成功將天儀51、52星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。(新華社)"
+    },
+    {
+      "id": "5098859",
+      "time": "2026-09-17 11:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲“雲市場”將更名為“AI應用市場”】9月17日，阿里雲宣佈，自2026年9月20日起，“雲市場”正式升級為“AI應用市場”。本次變更為平臺名稱調整，平臺功能與服務不變。阿里雲網站上原有“雲市場”的相關文件、規則、協議等內容，均適用於“AI應用市場”。已簽署協議繼續有效，協議項下各項權利義務不受影響。"
+    },
+    {
+      "id": "mkt:01a0ad61-b5cf-7118-85d0-47c7534ec7b9",
+      "time": "2026-09-17 11:20:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Yushu Technology's market capitalization has returned to 200 billion yuan, with the stock up more than 5.3%."
+    },
+    {
+      "id": "mkt:01a0ad61-6882-7118-85d0-3fdcd04d25c0",
+      "time": "2026-09-17 11:20:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "300207.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Sunwoda to build 10,000 megawatt‑class flash‑charging stations by end‑2027】At the 2026 New Energy Battery Industry Development Conference Sunwoda unveiled its \"All‑capable·Boundless\" solar‑storage‑flash‑charging open ecosystem platform and said it expects to complete 10,000 megawatt‑class flash‑charging stations by end‑2027."
+    },
     {
       "id": "5098858",
       "time": "2026-09-17 11:20:05",
