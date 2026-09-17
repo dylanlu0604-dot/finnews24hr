@@ -1,7 +1,26 @@
 {
   "date": "2026-09-18",
-  "count": 360,
+  "count": 362,
   "items": [
+    {
+      "id": "5100695",
+      "time": "2026-09-18 05:28:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署行政令，擴大聯邦土地上的狩獵准入範圍。"
+    },
+    {
+      "id": "mkt:01a0b144-51be-7118-85ea-0f6f588450ac",
+      "time": "2026-09-18 05:27:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DIS.N"
+      ],
+      "text": "Disney (DIS.N) said criticisms and regulatory actions by the Trump administration had pressured ABC and asked a court to block the FCC from conducting advance review of its broadcast license."
+    },
     {
       "id": "5100694",
       "time": "2026-09-18 05:25:05",
