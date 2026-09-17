@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18 05:53:55",
-  "count": 13324,
+  "updated": "2026-09-18 05:57:45",
+  "count": 13323,
   "items": [
     {
       "id": "5100700",
@@ -122589,14 +122589,6 @@
         "MKT News"
       ],
       "text": "CENC automatic detection: at 05:53 on Sept 11 a roughly magnitude-3.2 earthquake occurred near Weining County, Bijie, Guizhou, China; final parameters subject to the official rapid bulletin."
-    },
-    {
-      "id": "5088307",
-      "time": "2026-09-11 05:55:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：09月11日05時53分在貴州畢節市威寧縣附近（北緯26.74度，東經104.18度）發生3.2級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
