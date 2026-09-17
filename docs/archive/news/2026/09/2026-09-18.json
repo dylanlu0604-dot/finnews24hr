@@ -1,7 +1,15 @@
 {
   "date": "2026-09-18",
-  "count": 242,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:01a0b0b8-5c73-7118-85e8-ceb267fe523b",
+      "time": "2026-09-18 02:54:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: a plane crash occurred in Michigan, U.S."
+    },
     {
       "id": "mkt:01a0b0b5-40a1-7118-85e8-c42b962befe4",
       "time": "2026-09-18 02:51:03",
