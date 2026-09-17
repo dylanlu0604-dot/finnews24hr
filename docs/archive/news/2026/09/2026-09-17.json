@@ -1,7 +1,84 @@
 {
   "date": "2026-09-17",
-  "count": 840,
+  "count": 848,
   "items": [
+    {
+      "id": "mkt:01a0acbb-2c26-7118-85cc-423c0401f7c4",
+      "time": "2026-09-17 08:19:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Early on Sept. 17 local time, multiple explosions were heard in Kyiv, Ukraine."
+    },
+    {
+      "id": "5098617",
+      "time": "2026-09-17 08:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國政府機構正追蹤全球近20艘船舶面臨的網路威脅】據熟悉情況的美國官員透露，美國政府機構正在追蹤全球近20艘船舶面臨的網路威脅。三位因未獲授權公開討論此事而要求匿名的人士表示，美國海岸警衛隊已要求，如果上述任何船舶計劃駛入美國港口，需提前通知。目前尚不清楚這些船舶的具體目的地和貨物清單。美國網路安全與基礎設施安全域性(CISA)一位官員表示，8月底有數艘商船成為潛在網路攻擊目標，並指出駭客似乎並未實際取得船舶控制權。一位國土安全部官員稱，海岸警衛隊目前正聯合聯邦調查局(FBI)及國土安全部相關部門追蹤這些船舶。"
+    },
+    {
+      "id": "5098616",
+      "time": "2026-09-17 08:18:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌0.5個基點至2.99%。"
+    },
+    {
+      "id": "5098615",
+      "time": "2026-09-17 08:17:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗戰爭將“很快”結束】美國總統特朗普在北卡羅來納州的一場競選活動中表示，民主黨人給我們帶來了美國的黑暗時代，而我們把它變成了美國的黃金時代。伊朗戰爭將“很快”結束。特朗普談及伊朗時說：“他們還沒準備好”。特朗普補充說：“我們隨時都可以達成協議”。"
+    },
+    {
+      "id": "5098614",
+      "time": "2026-09-17 08:16:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.2%，英國富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173876721570",
+      "time": "2026-09-17 08:15:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：美聯儲10月加息必要性下降 預計12月再次加息為基準情形】當前市場定價美聯儲10月加息機率超過50%，但華泰證券認為，財政脈衝下降、油價對居民消費侵蝕加大以及金融條件收緊，就業和通脹資料在未來1—2個月或有所降溫，美聯儲10月加息的必要性下降，預計12月再次加息為基準情形，而2027年美聯儲的加息路徑取決於後續經濟資料表現，特別是就業市場是否將持續改善，進而推動工資增速回升，以及通脹的走勢。"
+    },
+    {
+      "id": "mkt:01a0acb8-449c-7118-85cc-384403538dd7",
+      "time": "2026-09-17 08:15:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Huatai Securities: Need for Fed October rate hike diminished; December hike baseline】Huatai Securities says after the Fed’s September hike, December is likely the next substantive policy window and whether the Fed reopens a rate-hike cycle will depend on further data and officials’ remarks. Markets currently price a >50% chance of an October move, but Huatai judges the need for an October hike reduced given a waning fiscal impulse, oil-driven weakness in household consumption, tighter financial conditions and the prospect that employment and inflation may cool over the next 1–2 months. Huatai’s base case is for another hike in December. The Fed’s 2027 path will hinge on incoming economic data—especially whether the labour market sustains improvement that drives wage growth and on subsequent inflation dynamics."
+    },
+    {
+      "id": "5098613",
+      "time": "2026-09-17 08:15:16",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰證券：美聯儲10月加息必要性下降 預計12月再次加息為基準情形】華泰證券研報表示，美聯儲9月會議如期加息25個基點將基準利率上調至3.75%—4.00%，12個票委均支援此次加息，點陣圖與SEP均顯示聯儲內部整體更為鷹派，沃什則稱此次加息是從貨幣政策中撤走“一劑寬鬆”。往前看，美聯儲9月加息落地，12月可能是下一次加息實質博弈期，而美聯儲是否開啟加息週期仍需要更多資料與官員表態來判斷。當前市場定價美聯儲10月加息機率超過50%，但華泰證券認為，財政脈衝下降、油價對居民消費侵蝕加大以及金融條件收緊，就業和通脹資料在未來1—2個月或有所降溫，美聯儲10月加息的必要性下降，預計12月再次加息為基準情形，而2027年美聯儲的加息路徑取決於後續經濟資料表現，特別是就業市場是否將持續改善，進而推動工資增速回升，以及通脹的走勢。"
+    },
     {
       "id": "mkt:01a0acb7-7812-7118-85cc-309102a30fdc",
       "time": "2026-09-17 08:14:59",
