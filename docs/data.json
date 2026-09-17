@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-17 23:02:23",
-  "count": 13405,
+  "updated": "2026-09-17 23:06:16",
+  "count": 13401,
   "items": [
+    {
+      "id": "5100313",
+      "time": "2026-09-17 23:04:48",
+      "tags": [
+        "宏觀",
+        "資料",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【190億美元10年期美債TIPS拍賣在即 收益率有望創2008年以來新高】美國財政部將於紐約時間週三下午1點拍賣190億美元10年期通脹保值債券（TIPS），該債券收益率有望創下2008年金融危機以來的最高水平。目前10年期TIPS收益率約為2.63%，週三盤中一度觸及2.69%，為2008年11月以來最高；7月同類拍賣中標收益率達2.438%，已創下當時近18年紀錄，本次拍賣成交價預計較7月發行價再高約0.5個基點。自年中油價回升以來，TIPS相對錶現優於傳統名義國債，但週三美聯儲加息後其表現一度落後，週四隨油價下跌有所反彈。今年以來，10年期TIPS與名義國債收益率分別上升41個基點和48個基點，二者利差（即10年期盈虧平衡通脹率）從2.23%擴大至2.42%，週四回落至2.31%附近。摩根大通利率策略師指出，高實際收益率、合理估值以及持續流入抗通脹資產的資金，應有助於支撐本次債券拍賣。 最新資料顯示，8月美國CPI同比上漲3.4%，核心CPI上漲2.4%，均與市場普遍預期相符。 截至9月2日當週，TIPS一級交易商淨多頭頭寸為29.2億美元，略低於過去一年30億美元的平均水平。"
+    },
+    {
+      "id": "5100312",
+      "time": "2026-09-17 23:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特蘭蒂斯向多倫多地區工廠的工人致信。"
+    },
+    {
+      "id": "te:markets:584668",
+      "time": "2026-09-17 23:03:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Steady After Selic Cut — The Brazilian real traded near R$5.15 per US dollar in September, little changed after the BCB cut the Selic rate by 25 basis points to 13.75%. The BCB left its next steps open, saying that the current environment of uncertainty calls for composure and caution in the conduct of monetary policy. It was the final monetary policy meeting before the presidential election in October. The decision was announced after the US Federal Reserve raised its federal funds target rate by 25 basis points to a range of 3.75% to 4.00%. The narrowing interest-rate differential is a factor supporting the dollar, although it had already been priced into markets, with both rate decisions coming in line with expectations. Meanwhile, gains by Flávio Bolsonaro in recent presidential election polls have supported the real, as markets view Bolsonaro as fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook."
+    },
+    {
+      "id": "te:markets:584667",
+      "time": "2026-09-17 23:03:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Firms — The South African rand strengthened toward 16.2 per USD, supported by a softer dollar and firmer precious metals prices on the back of easing oil prices. Meanwhile, traders continued to monitor central bank actions. The Federal Reserve delivered an expected 25 bps rate hike and signalled that further tightening may follow amid persistent inflatonary pressures from the Middle East. Expectations for a SARB rate hike increased after the Fed's move, as a narrower yield differential could weigh on the rand and fuel inflationary pressures. The South African Reserve Bank will face a delicate balancing act when it decides on policy on September 23. Inflation has been rising and, aside from a brief dip in July following fuel-price cuts, remains on an upward trajectory. Meanwhile, the economy slipped back into contraction in the second quarter. At the same time, inflation expectations fell in Q3, signaling that price pressures are expected to ease over time."
+    },
+    {
+      "id": "5100311",
+      "time": "2026-09-17 23:03:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東股市收盤播報】週四（9月17日），沙特證交所全股指數收跌0.02%，報10777.94點，逼近8月2日收盤位10705.87點、7月29日底部10497.44點，本週（連續五個自然日）累計下跌2.08%，整體持續走低。沙特阿美收跌0.47%，報25.56沙特里亞爾，本週累跌2.22%。在沙特上市的Albilad南方東英MSCI香港中國股票ETF收平，報11.35沙特里亞爾，本週累跌0.61%。土耳其銀行指數漲9.3%，創4月8日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a0afe3-8456-7118-85e5-298088d3b262",
+      "time": "2026-09-17 23:01:58",
+      "tags": [
+        "MKT News",
+        "UBS.O",
+        "Impact bearish"
+      ],
+      "text": "UBS chairman says he remains unsatisfied with the AT1 proposal because it would impose costs on UBS."
+    },
     {
       "id": "5100310",
       "time": "2026-09-17 23:01:45",
@@ -172,6 +236,15 @@
         "公司"
       ],
       "text": "ARS Technica：NASA 最快將於下週釋出有關星際客機的公告。"
+    },
+    {
+      "id": "5100297",
+      "time": "2026-09-17 22:56:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國二手房簽約量意外小幅上升 高利率仍抑制需求】美國二手房簽約量在8月小幅回升，但整體仍然低迷，因抵押貸款利率高企繼續抑制需求。美國全國房地產經紀人協會（NAR）週四公佈的資料顯示，8月二手房簽約量指數上升0.3%，至71.2，為5月以來首次上升。彭博調查的經濟學家此前預計該指數下降0.1%。“儘管抵押貸款利率上升，買家8月仍穩步簽署購房合同，”NAR首席經濟學家Lawrence Yun在宣告中表示。“不過，住房市場依然低迷，簽約量不及去年。”與上年同期相比，二手房簽約量下降近5%。這些資料表明，被壓抑的購房需求依然存在，一些原本可能等待抵押貸款利率下降的買家不再等待，選擇購房。不過，幾乎沒有跡象顯示住房市場在回暖。美國抵押貸款銀行家協會(MBA)的資料顯示，自與伊朗的戰爭開始以來，抵押貸款利率持續攀升，截至9月11日當週一度接近7%，而且利率還可能進一步走高。住房貸款成本與美國10年期國債收益率密切相關，後者本週早些時候升至近20年來最高水平。二手房簽約量報告是二手房銷量的領先指標，因為房屋通常會有一兩個月處於簽約狀態，之後才會完成交易。"
     },
     {
       "id": "mkt:01a0afde-78e6-7118-85e4-fe37db87559d",
@@ -123379,103 +123452,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織定於9月21日啟動阿根廷專案的第三輪評估。"
-    },
-    {
-      "id": "5087893",
-      "time": "2026-09-10 23:06:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI：在ChatGPT Work中推出資料智慧體。"
-    },
-    {
-      "id": "5087892",
-      "time": "2026-09-10 23:05:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國民銀行與Shamal Holding合作，為迪拜在建期房住宅專案提供一體化購房融資解決方案。"
-    },
-    {
-      "id": "5087891",
-      "time": "2026-09-10 23:04:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "發那科計劃在電氣元件、傢俱等行業廣泛推廣自動化焊接系統。"
-    },
-    {
-      "id": "5087890",
-      "time": "2026-09-10 23:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭檢方稱，俄羅斯對烏克蘭巴甫洛赫拉德發動襲擊，造成三人死亡、逾30人受傷。"
-    },
-    {
-      "id": "5087889",
-      "time": "2026-09-10 23:04:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 發那科與谷歌合作開發AI自動化焊接系統將於12月推出。"
-    },
-    {
-      "id": "5087888",
-      "time": "2026-09-10 23:03:57",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【倫銅跳水 報道稱白宮尚未決定是否對精煉銅徵收關稅】10日傍晚，倫銅、紐約期銀價格突然跳水。訊息面上，據媒體報道，兩名知情人士稱，白宮尚未決定是否對精煉銅徵收關稅，官員們正在權衡兩方面的得失：銅價上漲可能會推高製造成本，但鼓勵國內增加採礦也能帶來益處。 訊息人士稱，白宮的銅關稅計劃陷入停滯。隨著美國中期選舉臨近，特朗普和共和黨議員正面臨壓力，他們需要證明自己的經濟政策正在降低美國消費者和企業的成本。美國政府對生活成本問題的日益重視，使得“相關方面出現了猶豫”。 而美國銅關稅正是這一輪銅價上漲的關鍵推手。 由於市場預期特朗普將對陰極銅等精煉銅產品以及銅精礦徵收關稅，交易商和工業買家紛紛在美國囤積庫存，將銅價推至歷史高位。 該報道還援引一名白宮官員的話稱，銅關稅問題尚未做出最終決定，且美國商務部已經在白宮設定的6月30日期限前向特朗普彙報了最新情況。 這名官員同時表示：“政府仍在評估所有選項，以推動銅及其他關鍵製造業回遷美國。”（期貨日報）"
-    },
-    {
-      "id": "5087887",
-      "time": "2026-09-10 23:03:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：建議央行保持關注價格穩定的任務，並鼓勵財政當局制定中期整頓計劃。印度仍然是全球經濟的增長引擎，密切關注高油價對印度的影響。"
-    },
-    {
-      "id": "mkt:01a08bd8-5d5c-7118-852f-35f66b66a489",
-      "time": "2026-09-10 23:03:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Danmarks Nationalbank raised its policy rate by 25 bps to 2.10% from 1.85%."
-    },
-    {
-      "id": "5087886",
-      "time": "2026-09-10 23:03:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：日本發那科與谷歌合作開發AI自動化焊接機器人。"
-    },
-    {
-      "id": "5087885",
-      "time": "2026-09-10 23:02:34",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【白宮未確認將對精煉銅加稅 銅價從紀錄高位急跌近5%】此前市場押注美國可能將精煉銅納入關稅範圍，帶動紐約銅價相對倫敦市場持續走高，並促使貿易商提前向美國運送和儲備銅。然而據市場訊息，美國白宮最新表態未確認市場此前預期的精煉銅關稅安排，推動投資者下調對近期擴大銅關稅範圍的預期，紐約銅期貨週四盤中一度下跌約4.8%，從本週創下的每磅6.89美元紀錄高位回落至約6.54美元，自由港麥克莫蘭股價一度跌逾7%。"
-    },
-    {
-      "id": "mkt:01a08bd7-60b3-7118-852f-2edd6d602212",
-      "time": "2026-09-10 23:02:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury confirms up to $6.0 billion in long-term Treasury buybacks today."
     }
   ]
 }
