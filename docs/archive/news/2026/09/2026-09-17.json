@@ -1,7 +1,88 @@
 {
   "date": "2026-09-17",
-  "count": 1196,
+  "count": 1205,
   "items": [
+    {
+      "id": "te:markets:584424",
+      "time": "2026-09-17 11:15:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Rallies on Tighter Supply, Firm India Demand — Malaysian palm oil futures surged over 2-1/2% to around MYR 5,015 per tonne, extending recent gains as trade resumed after a holiday. A weaker ringgit and expectations of tighter supply underpinned sentiment, with Indonesia’s B50 biodiesel mandate set to divert more palm oil to domestic use and El Niño risks clouding output in Indonesia and Malaysia. Crude oil prices holding above USD 100 per barrel further boosted palm’s appeal as a biodiesel feedstock. In India, the world's largest palm oil consumer, August imports rose 7% month-on-month to 782,761 tonnes, the highest since February, as refiners replenished stocks ahead of the festival season between August and November. Separately, Malaysia raised its October crude palm oil reference price, keeping the export duty at 10%. However, weaker exports tempered upside momentum, with cargo surveyors estimating shipments fell between 17.8–25.6% in the first half of September compared with the same period in August."
+    },
+    {
+      "id": "5098853",
+      "time": "2026-09-17 11:15:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國外長訪美前表態：尚未決定是否向霍爾木茲海峽派兵】綜合路透社、韓國MBC電視臺報道，韓國外交部長官趙顯9月17日表示，韓國政府尚未決定是否向霍爾木茲海峽派兵。(環球網)"
+    },
+    {
+      "id": "mkt:01a0ad5c-26d0-7118-85d0-25ffe2a0f899",
+      "time": "2026-09-17 11:14:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said the government's stance on the exchange rate has not changed since the US-Japan joint intervention."
+    },
+    {
+      "id": "5098852",
+      "time": "2026-09-17 11:14:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐削減部分香港銀行家每名子女3.8萬美元的教育福利。"
+    },
+    {
+      "id": "mkt:01a0ad5b-e8a6-7118-85d0-195519220d9a",
+      "time": "2026-09-17 11:14:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Copper",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Traders downplay Fed hawkish signal after expected hike; copper steadies】After the Fed delivered a widely expected rate hike, traders pared back the hawkish signal from the Fed chair and LME copper futures were little changed despite a firmer dollar. Fed officials still forecast another rate increase later this year, which could weigh on non-yielding assets such as copper. Copper earlier surged to record highs on expectations of possible US tariffs on refined copper, driven by large inflows into US inventories and raising supply concerns elsewhere. So far the US has not imposed new trade measures, injecting uncertainty into the prior rally, but demand from data centres and renewables and disruptions at major mines continue to provide support. RBC Capital Markets analyst Sam Crittenden said in a note: \"News that the US will not impose tariffs on copper has cooled some physical-market speculative activity. Despite short-term price weakness, fundamentals remain constructive.\""
+    },
+    {
+      "id": "5098851",
+      "time": "2026-09-17 11:14:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔：將繼續監測（加息）對美國經濟及市場的影響。"
+    },
+    {
+      "id": "mkt:01a0ad5b-6466-7118-85d0-1441d288a680",
+      "time": "2026-09-17 11:14:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Health, Labour and Welfare Minister Ken'ichiro Ueno is reportedly set to retain his post in the upcoming cabinet reshuffle."
+    },
+    {
+      "id": "mkt:01a0ad5b-0032-7118-85d0-0d04c9b87d8a",
+      "time": "2026-09-17 11:13:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chief Cabinet Secretary Minoru Kihara said he would not comment on other countries' monetary policy."
+    },
+    {
+      "id": "5098850",
+      "time": "2026-09-17 11:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：針對匯率的立場自美日聯合干預以來未變。"
+    },
     {
       "id": "5098849",
       "time": "2026-09-17 11:12:41",
