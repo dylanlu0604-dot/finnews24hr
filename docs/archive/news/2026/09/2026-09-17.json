@@ -1,7 +1,76 @@
 {
   "date": "2026-09-17",
-  "count": 848,
+  "count": 855,
   "items": [
+    {
+      "id": "5098621",
+      "time": "2026-09-17 08:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：將是一個非常好的結局。"
+    },
+    {
+      "id": "te:markets:584374",
+      "time": "2026-09-17 08:22:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Pressured by Hawkish Fed Outlook — Silver traded near $63 an ounce on Thursday after giving up intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, precious metals found some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week."
+    },
+    {
+      "id": "mkt:01a0acbd-ada6-7118-85cc-4ba0aec26294",
+      "time": "2026-09-17 08:21:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【HKMA raises base rate 25bps to 4.25%】The Hong Kong Monetary Authority raised its base rate by 25bps to 4.25%, its first move since 2023, ending a period of rate stability. The hike directly mirrors a same-day Fed action and is intended to preserve the Hong Kong dollar’s linked exchange rate with the US dollar. The HKMA said it is synchronizing policy with the Fed to ensure peg stability. Markets remain uncertain about pass-through to local funding costs; major banks typically announce lending-rate adjustments later this evening, with the Prime Rate the key focus."
+    },
+    {
+      "id": "5098620",
+      "time": "2026-09-17 08:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：戰爭很快就會結束，因為伊朗撐不下去了。"
+    },
+    {
+      "id": "5098619",
+      "time": "2026-09-17 08:20:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禁售期內清倉萬物雲股票，58集團姚勁波：系投資團隊無心之失】對於此次違規事件，姚勁波方面解釋，減持行為系58集團負責其外部投資的管理團隊的無心之失，並非其本人蓄意為之，姚勁波稱其並無參與亦不知悉上述管理團隊進行該等出售的計劃，且於進行該等出售時，彼並無掌握任何有關萬物雲的內幕訊息。（澎湃）"
+    },
+    {
+      "id": "te:markets:584373",
+      "time": "2026-09-17 08:20:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Hawkish Fed Outlook — Gold remained below $4,300 an ounce on Thursday after surrendering intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, gold received some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week."
+    },
+    {
+      "id": "5098618",
+      "time": "2026-09-17 08:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【意法半導體推出110萬畫素車規影象感測器】9月17日，意法半導體宣佈，已推出新一代面向座艙紅外感知的110萬畫素ST SafeSense車規影象感測器VD56GA。這款感測器可為攝像頭開發者提供DMS/OMS所需影象質量，將幫助整車廠和一級供應商以更低系統成本，在量產車型平臺整合駕駛員監控與乘員監控功能。"
+    },
     {
       "id": "mkt:01a0acbb-2c26-7118-85cc-423c0401f7c4",
       "time": "2026-09-17 08:19:02",

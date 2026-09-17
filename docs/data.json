@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-17 08:19:29",
-  "count": 13679,
+  "updated": "2026-09-17 08:23:19",
+  "count": 13683,
   "items": [
+    {
+      "id": "5098621",
+      "time": "2026-09-17 08:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：將是一個非常好的結局。"
+    },
+    {
+      "id": "te:markets:584374",
+      "time": "2026-09-17 08:22:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Pressured by Hawkish Fed Outlook — Silver traded near $63 an ounce on Thursday after giving up intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, precious metals found some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week."
+    },
+    {
+      "id": "5098620",
+      "time": "2026-09-17 08:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：戰爭很快就會結束，因為伊朗撐不下去了。"
+    },
+    {
+      "id": "mkt:01a0acbd-ada6-7118-85cc-4ba0aec26294",
+      "time": "2026-09-17 08:21:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【HKMA raises base rate 25bps to 4.25%】The Hong Kong Monetary Authority raised its base rate by 25bps to 4.25%, its first move since 2023, ending a period of rate stability. The hike directly mirrors a same-day Fed action and is intended to preserve the Hong Kong dollar’s linked exchange rate with the US dollar. The HKMA said it is synchronizing policy with the Fed to ensure peg stability. Markets remain uncertain about pass-through to local funding costs; major banks typically announce lending-rate adjustments later this evening, with the Prime Rate the key focus."
+    },
+    {
+      "id": "5098619",
+      "time": "2026-09-17 08:20:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禁售期內清倉萬物雲股票，58集團姚勁波：系投資團隊無心之失】對於此次違規事件，姚勁波方面解釋，減持行為系58集團負責其外部投資的管理團隊的無心之失，並非其本人蓄意為之，姚勁波稱其並無參與亦不知悉上述管理團隊進行該等出售的計劃，且於進行該等出售時，彼並無掌握任何有關萬物雲的內幕訊息。（澎湃）"
+    },
+    {
+      "id": "te:markets:584373",
+      "time": "2026-09-17 08:20:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Hawkish Fed Outlook — Gold remained below $4,300 an ounce on Thursday after surrendering intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, gold received some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week."
+    },
+    {
+      "id": "5098618",
+      "time": "2026-09-17 08:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【意法半導體推出110萬畫素車規影象感測器】9月17日，意法半導體宣佈，已推出新一代面向座艙紅外感知的110萬畫素ST SafeSense車規影象感測器VD56GA。這款感測器可為攝像頭開發者提供DMS/OMS所需影象質量，將幫助整車廠和一級供應商以更低系統成本，在量產車型平臺整合駕駛員監控與乘員監控功能。"
+    },
     {
       "id": "mkt:01a0acbb-2c26-7118-85cc-423c0401f7c4",
       "time": "2026-09-17 08:19:02",
@@ -126262,33 +126331,6 @@
         "公司"
       ],
       "text": "【昨日ETF資金整體淨流入33.83億元】據同花順iFinD資料顯示，2026年9月9日，ETF資金整體淨流入33.83億元，股票型淨流出22.17億元，寬基型淨流出32.37億元。當日ETF資金淨流入榜單排名前3依次為：海富通上證基準做市公司債ETF（511190）淨流入6.54億元，華夏上證科創板50成份ETF（588000）淨流入6.49億元，易方達上證基準做市公司債ETF（511110）淨流入5.78億元。"
-    },
-    {
-      "id": "5085997",
-      "time": "2026-09-10 08:23:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "KeyBanc 分析師布蘭登・尼斯佩爾等在研報中寫道：我們認為本次新品對蘋果業績存在小幅利空。高昂售價大機率無法完全抵消毛利率承壓，出貨量或將走低，最終拖累使用者規模與服務業務增長。"
-    },
-    {
-      "id": "5085996",
-      "time": "2026-09-10 08:20:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美參議員就Hugging Face事件質詢OpenAI】當地時間9月9日，美國民主黨參議員Richard Blumenthal就涉及Hugging Face事件，致函OpenAI執行長Sam Altman，要求其提供關於OpenAI安全保障措施和操作流程的資訊。Altman需在9月24日前作出回應。"
-    },
-    {
-      "id": "5085995",
-      "time": "2026-09-10 08:20:08",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【印尼財長：下週更換雅萬高鐵股東，中方同意將貸款期限由40年延長至80年】據路透社9月8日報道，當地時間週二，印度尼西亞財政部長普爾巴亞透露，印尼將於下週更換雅萬高鐵的控股股東。 普爾巴亞上個月曾表示，財政部下屬機構將收購高鐵運營公司60%的股份，中方企業保留40%。但他週二進一步說明，當局正在權衡將這60%股份轉讓給印尼投資管理局（INA），或財政部下屬的發展融資機構薩拉納·多基礎設施公司（SMI）。股權移交預計於9月15日完成。 普爾巴亞並未說明當前股東——由國家鐵路公司Kereta Api Indonesia牽頭的財團——是否會因股權轉讓獲得補償，但表示新的股東將負責償還專案未償貸款。 據介紹，中國國家開發銀行最初提供的45億美元貸款原期限為40年，並設有10年寬限期，此後印尼又追加貸款以彌補成本超支。普爾巴亞透露，經過重組談判，中國同意將貸款期限延長至80年。 此外，他透露，在股權完全移交後，鐵路將向東延伸約700公里，至該國第二大城市泗水，但他未說明延伸專案的資金來源。 （觀察者網）"
     }
   ]
 }
