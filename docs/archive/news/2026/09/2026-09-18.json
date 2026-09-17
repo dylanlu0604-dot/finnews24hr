@@ -1,7 +1,59 @@
 {
   "date": "2026-09-18",
-  "count": 345,
+  "count": 350,
   "items": [
+    {
+      "id": "5100688",
+      "time": "2026-09-18 05:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部發布宣告，要求 PJM 保障中大西洋地區電網安全。"
+    },
+    {
+      "id": "mkt:01a0b133-fba4-7118-85e9-f2773fb8e2bc",
+      "time": "2026-09-18 05:09:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Container freight rates may retest pandemic highs as Middle East conflict lifts fuel costs】Conflict involving Iran has pushed fuel costs higher and driven global container rates up. Xeneta data show spot freight for a 40ft box on a major deep-sea route at $10,948, more than four times its level since the Feb. 28 outbreak and nearing the $11,900 record of Jan. 2022. Low-sulfur marine fuel has risen to $901.5/ton from $543.5 on Feb. 27, though still below the $1,053 peak on Mar. 20. With firms accelerating restocking ahead of the seasonal peak, demand could push rates higher; Xeneta analysts say persistent fuel surcharges leave a return above the pandemic peak possible."
+    },
+    {
+      "id": "5100687",
+      "time": "2026-09-18 05:09:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受中東衝突影響 集裝箱運價或再創疫情後新高】伊朗戰爭導致燃油成本上漲，全球集裝箱航運價格持續攀升，分析人士稱，部分主要航線運價可能再次接近或突破疫情期間創下的歷史高位。根據貨運定價平臺Xeneta資料，一條主要遠洋集裝箱航線40英尺集裝箱現貨運價已升至10948美元，較2月28日伊朗戰爭爆發以來上漲超過4倍，接近2022年1月創下的11900美元歷史紀錄。船用低硫燃油價格目前升至每噸901.5美元，而2月27日時為543.5美元，但仍低於3月20日創下的1053美元峰值。隨著傳統旺季前企業加快補充庫存，航運需求可能進一步推高運價。Xeneta分析師表示，在燃油附加費持續上漲的情況下，相關集裝箱航線運價不排除超過疫情時期峰值。"
+    },
+    {
+      "id": "5100686",
+      "time": "2026-09-18 05:09:19",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "週四（9月17日，美聯儲加息次日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7041元，逼近2022年7月8日最終報價6.6862元，較週三紐約尾盤漲84點，日內整體交投於6.7140-6.7026元區間，逼近2023年1月16日盤中最高位6.6975元。"
+    },
+    {
+      "id": "te:economy:584718",
+      "time": "2026-09-18 05:08:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Korea Producer Inflation Rises in August — South Korea’s producer prices rose 7.9% year over year in August 2026, accelerating from a 7.7% increase in July. Manufacturing producer prices climbed 12.2%, led by a 54.3% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 24.5%, while chemical products increased 16.9% and basic metal products advanced 16.0%. Meanwhile, prices of agricultural, forestry, and marine products rose 1.1%, while service prices increased 4.4%. Utility prices rose 2.9%. In contrast, prices of mining products edged down 0.1%. On a monthly basis, the Producer Price Index increased 0.2%, following a 0.4% rise in July."
+    },
     {
       "id": "mkt:01a0b131-b7ef-7118-85e9-ebd3db523b35",
       "time": "2026-09-18 05:07:00",
