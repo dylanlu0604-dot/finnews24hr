@@ -1,7 +1,139 @@
 {
   "date": "2026-09-17",
-  "count": 2287,
+  "count": 2302,
   "items": [
+    {
+      "id": "5100184",
+      "time": "2026-09-17 21:58:37",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：加息開始，美股/商品的順風期或結束】中信建投研究報告表示，政策路徑，年內二度加息機率不低，明年不確定性仍大。沃什全面倒向防通脹，官員強烈傾向繼續加，短期想改變這一緊縮敘事很難，需要極強的宏觀變化和資料支援。但是，2027年大方向還需觀察，經濟資料、工作組結論等變數存在。市場短期謹慎，大類資產集體回撤、或結構分化的機率激增，近3年普漲大牛市（除債券），面臨終結風險。① 宏觀環境不友好，經濟K型（需求不足），AI敘事放緩（美股估值受限），高利率壓制（波動率抬升），且資產價格均在歷史高位，走出趨勢行情不容易。② 過去3年，美股、工業品、貴金屬集體衝高，聯儲寬鬆週期是一大背景，隨著降息結束、加息重啟，各類資產從順風轉為逆風，普漲基礎鬆動，建議等待一輪下跌後，再擇機介入。"
+    },
+    {
+      "id": "mkt:01a0afa9-7bc9-7118-85e3-0a531174924a",
+      "time": "2026-09-17 21:58:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises as Capesize freight strengthens】Baltic Dry Index (BDI) rose 9 points (0.3%) to 3,336, led by a 44-point (0.8%) gain in the Capesize index (BCI) to 5,656; Capesize average daily earnings increased $396 to $47,793. Panamax index (BPI) fell 43 points (1.8%) to 2,282, with panamax daily earnings down $392 to $20,535. Supramax index (BSI) added 14 points (0.8%) to 1,762. Handysize index (BHSI) rose 19 points to 980."
+    },
+    {
+      "id": "5100183",
+      "time": "2026-09-17 21:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流災害遇難人數升至1410人 失聯6145人】據尼泊爾國家減少災害風險管理局公佈的最新資料，截至當地時間9月17日19時，尼泊爾泥石流造成的遇難人數升至1410人，失聯人數為6145人。（央視新聞）"
+    },
+    {
+      "id": "5100182",
+      "time": "2026-09-17 21:58:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信建投分析師曾羽：沃什首次加息後撤回寬鬆，美債熊平】中信建投分析師曾羽認為，美聯儲9月會議全票加息25bp，加息已被市場充分定價，會議的關鍵資訊在於：宣告刪去通脹的能源供給衝擊歸因，本次刪除與沃什反覆強調的通脹太高、持續太久相呼應，表明委員會已不再將通脹視為可短期消化的供給衝擊。點陣圖與經濟預測同步上修，年內再加一次成為中位數判斷，通脹回到2%目標的時點進一步推遲；沃什表示委員會對通脹正朝目標移動缺乏信心，並延續不提供前瞻指引的溝通風格。市場呈現典型熊平：短端定價更高的政策利率路徑、跳升破位，長端交易的是聯儲控通脹的能力，上行相對溫和。往後看，今年再加一次為基準情形；1999年以來美聯儲從未只加一次，但本輪起點已具限制性、累計空間有限，明年的路徑重度依賴油價與通脹資料。"
+    },
+    {
+      "id": "mkt:01a0afa8-f93b-7118-85e3-07841a75c74c",
+      "time": "2026-09-17 21:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nexperia said it will partner with Tata Electronics to manufacture chips in India."
+    },
+    {
+      "id": "mkt:01a0afa8-62aa-7118-85e2-fbc1810b3a32",
+      "time": "2026-09-17 21:57:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's permanent representative to the UN said the message to the Syrian government was clear: if it seeks reintegration into the international community, it must ensure Syria is not used as a platform for terrorist activity or as a theatre for rival foreign powers."
+    },
+    {
+      "id": "5100181",
+      "time": "2026-09-17 21:56:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股太空概念股走強】美股太空概念股走強，Redwire、LUNR漲近7%，Rocket Lab、ASTS漲超5%，SpaceX漲超2%。"
+    },
+    {
+      "id": "5100180",
+      "time": "2026-09-17 21:56:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭晶片製造商安世半導體(Nexperia)表示將與印度塔塔電子(Tata Electronics)合作在印度生產晶片。"
+    },
+    {
+      "id": "5100179",
+      "time": "2026-09-17 21:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐聯合國大使：當以色列為保護本國平民免受威脅，（在敘利亞）開展有限軍事行動時，安理會便迅速予以譴責；但土耳其在敘利亞維持規模大得多的軍事部署，安理會卻保持沉默。"
+    },
+    {
+      "id": "mkt:01a0afa7-3b57-7118-85e2-f0f405d8342b",
+      "time": "2026-09-17 21:56:07",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) further bolstered support for the development of India's semiconductor industry at the 2026 India Semiconductor Expo."
+    },
+    {
+      "id": "mkt:01a0afa6-9e23-7118-85e2-e8cbae89caa9",
+      "time": "2026-09-17 21:55:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Environmental Protection Agency's repeal of a power-plant rule has drawn its first legal challenges, with environmental groups filing suit."
+    },
+    {
+      "id": "5100178",
+      "time": "2026-09-17 21:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：環保組織就美國環保署廢除發電廠相關規則提起訴訟。"
+    },
+    {
+      "id": "5100177",
+      "time": "2026-09-17 21:54:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾漲幅擴大至8%。"
+    },
+    {
+      "id": "mkt:01a0afa5-fcde-7118-85e2-e2eef7f8698e",
+      "time": "2026-09-17 21:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Intel (INTC.O) extends gains to 8%."
+    },
+    {
+      "id": "5100176",
+      "time": "2026-09-17 21:54:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：哥倫比亞地震不太可能影響保險公司評級；盈利或將減弱。"
+    },
     {
       "id": "5100175",
       "time": "2026-09-17 21:53:30",
