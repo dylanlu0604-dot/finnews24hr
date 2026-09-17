@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-17 08:23:19",
-  "count": 13683,
+  "updated": "2026-09-17 08:27:15",
+  "count": 13676,
   "items": [
+    {
+      "id": "5098624",
+      "time": "2026-09-17 08:26:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南華集團控股：附屬公司華盛玩具於2026年9月16日被頒令清盤】南華集團控股（HK0413）公告，公司此前披露兩名債權人向高等法院提出針對附屬公司華盛玩具的清盤呈請。高等法院於2026年9月16日頒令華盛玩具清盤。董事會認為，清盤不會影響集團其他主要附屬公司的營運或財務狀況。"
+    },
+    {
+      "id": "mkt:01a0acc1-b76c-7118-85cc-50f02b0424bd",
+      "time": "2026-09-17 08:26:11",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "CSI300"
+      ],
+      "text": "【China Galaxy Securities: compute-network buildout boosts fiber demand; tight supply fuels high-cycle outlook】China Galaxy Securities says compute-network construction and AI-driven demand are materially lifting optical-fiber demand. Both expansion at compute-network backbone layers and upgrades to intra-data-center optical interconnects are creating significant incremental volume. The market is in a structural shortage as demand growth far outpaces supply release; China Galaxy expects the supply gap may continue to widen. Leading suppliers with high preform self-sufficiency should see price gains convert into outsized margin expansion. The fiber sector is shifting from a traditional telecom cyclical to a higher-growth compute-infrastructure theme."
+    },
+    {
+      "id": "5098623",
+      "time": "2026-09-17 08:26:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西省省長趙剛會見中國鐵道建築集團總經理裴岷山一行】據陝西日報，9月16日，陝西省省長趙剛在西安會見了中國鐵道建築集團有限公司總經理裴岷山一行。雙方表示，將進一步加強在交通和水利基礎設施建設、城市更新等領域的合作，努力實現互利共贏、共同發展。"
+    },
+    {
+      "id": "5098622",
+      "time": "2026-09-17 08:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【香港金管局宣佈調整基本利率至4.25%】香港金融管理局今日（17日）宣佈，基本利率根據預設公式定於4.25釐，即時生效。   據瞭解，香港基本利率是用作計算經貼現窗進行回購交易時適用的貼現率的基礎利率。目前基本利率定於當前的美國聯邦基金利率目標區間的下限加50基點，或隔夜及一個月香港銀行同業拆息的五天移動平均數的平均值，以較高者為準。   因應美國於9月16日（美國時間）調高聯邦基金利率的目標區間25基點，當前的美國聯邦基金利率目標區間的下限加50基點是4.25%，而隔夜及一個月香港銀行同業拆息的五天移動平均數的平均值是2.50%，所以根據預設公式，基本利率設定於4.25%。（大灣區之聲）"
+    },
     {
       "id": "5098621",
       "time": "2026-09-17 08:22:08",
@@ -126237,100 +126273,6 @@
         "宏觀"
       ],
       "text": "【11月起新規實施 這七類服務費用由付款企業代扣代繳增值稅】財政部、稅務總局近期釋出《境內單位代扣代繳自然人增值稅管理辦法》，從今年11月1日起施行。《辦法》明確，今後企業或機構向個人支付研發、軟體、設計、諮詢、影視製作、文化、教育這七類服務費用時，要代扣代繳這筆業務對應的增值稅。"
-    },
-    {
-      "id": "mkt:01a088b5-7592-7118-8514-11e07dfffbbb",
-      "time": "2026-09-10 08:26:28",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "Regulators are investigating a licensing agreement between NVIDIA and Groq, the New York Times reports."
-    },
-    {
-      "id": "mkt:01a088b5-4682-7118-8514-0b08b0d7b93d",
-      "time": "2026-09-10 08:26:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Chinese innovative-drug sector's overseas rollout gains traction; sector at profit inflection point】CITIC Securities says since early 2026 China's innovative-drug market has seen rapid domestic volume growth. Interim results from leading innovators show fast revenue expansion driven by new products and biopharma firms are moving into a profitability inflection. Overseas programs are entering Phase III/registration-study stages, and several upcoming international conferences create concentrated data catalysts. The firm highlights three investor priorities: (1) leading internationalized innovators poised for global value realization; (2) top domestic innovators entering a new product-ramp growth phase; (3) pipeline assets with global potential whose internationalization may accelerate value realization. CITIC maintains an Outperform rating on the sector."
-    },
-    {
-      "id": "5086003",
-      "time": "2026-09-10 08:26:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山西省政府與中科曙光舉行工作會談】據山西日報，9月8日，山西省委副書記、省長盧東亮與中科曙光董事長曆軍一行舉行工作會談，就建設算力產業生態、加快數字經濟發展等進行深入交流。盧東亮說，“十五五”時期，希望中科曙光將山西作為全國佈局的重要戰略基地，立足當前合作基礎，積極推動光合組織產業生態創新中心落地，圍繞建設萬卡智算叢集、佈局詞元工廠、配套熔鹽儲能、發展太空算力、地理資訊和低空安全服務、政務大模型應用、算力硬體研發製造等領域深化合作，培育更多高價值應用場景，帶動產業鏈上下游企業集聚山西，共同構建“數算模用”一體化產業生態。山西將全力做好服務保障，為企業在晉發展創造良好環境。"
-    },
-    {
-      "id": "5086002",
-      "time": "2026-09-10 08:25:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科復興與海康威視簽署戰略合作協議】據海康威視訊息，近日，河北中科復興科技有限公司（簡稱“中科復興”）到訪海康威視，雙方舉行戰略合作簽約儀式。座談交流中，雙方就生命線監測產品迭代、AI大模型應用、區域市場協同等議題深入探討，達成多項共識。隨後，雙方代表正式簽署戰略合作協議。未來，雙方將持續加強技術共研與方案共建，打造可複製、可推廣的城市安全數智化解決方案。"
-    },
-    {
-      "id": "5086001",
-      "time": "2026-09-10 08:25:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：9月9日，在南方司令部的指導下， 西半球聯合特遣部隊對一艘在加勒比海沿已建立的毒品販運路線運營的高速船隻執行了一次致命的動能打擊。確認的情報顯示該船隻積極參與毒品販運。該行動殺死了三名毒品恐怖分子。"
-    },
-    {
-      "id": "mkt:01a088b4-b6f5-7118-8514-027241d4479e",
-      "time": "2026-09-10 08:25:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Seventh national centralized volume-based procurement for medical consumables opens for bidding today】China’s seventh national organized centralized volume-based procurement for medical consumables opens for bidding in Tianjin today. The round targets gastrointestinal interventional consumables and includes 23 product types covering GI polypectomy and biliary‑pancreatic intervention consumables. Contract terms are about three years. Procurement rules have been optimized with an emphasis on clinical stability and quality, and measures to curb internal price competition and prevent bid collusion while accommodating diverse clinical demand and industry quality development."
-    },
-    {
-      "id": "5086000",
-      "time": "2026-09-10 08:24:45",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：創新藥出海漸入佳境，板塊進入盈利拐點】中信證券表示，2026年以來，中國創新藥國內市場快速放量，從中報來看頭部創新藥企業在新產品驅動下，創新藥收入快速增長，biopharma陸續進入盈利拐點；出海創新藥開始進入三期/註冊研究兌現階段；近期多個國際學術大會將至，眾多創新藥管線進入密集的資料催化期。我們認為中國創新藥進入全球價值兌現階段，建議關注：①頭部國際化創新藥企業有望迎來產品全球價值兌現期；②頭部創新藥企業產品放量進入新的成長階段；③具有全球潛力的管線資產國際化有望加速兌現。綜上，我們維持創新藥行業“強於大市”評級。"
-    },
-    {
-      "id": "mkt:01a088b3-d98a-7118-8513-fefb53c760fd",
-      "time": "2026-09-10 08:24:42",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Trump to send $500 'Obamacare' refunds to up to 1 mln before Nov. 3 midterms】The Trump administration will deliver $500 refunds by direct deposit to up to 1 million people across 30 states, saying they were overcharged under the Affordable Care Act (Obamacare). Payments are scheduled to arrive before the Nov. 3 midterm elections. The administration is concurrently promoting its tax-cut legislation and prescription-drug plan as generating cost savings."
-    },
-    {
-      "id": "5085999",
-      "time": "2026-09-10 08:24:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國民航局：受系統故障影響旅客可能無權獲賠償】英國航班管理系統8日發生的故障已導致超2000架次航班被取消。英國民航局9日發表宣告說，此次故障導致的航班執行受擾可能被認定為旅客權益規定中的“特殊狀況”，因此受影響旅客可能無法獲得賠償。英國交通大臣海迪·亞歷山大9日說，此次故障導致數十萬名旅客面臨航班取消、改道和延誤，但她“不認為此事不可避免”。她已要求對此次事件原因展開獨立調查。（新華社）"
-    },
-    {
-      "id": "mkt:01a088b3-6e73-7118-8513-f2d6af4b88f5",
-      "time": "2026-09-10 08:24:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Southern Command said it conducted a lethal strike on a fast boat operating along a known drug-smuggling route in the Caribbean."
-    },
-    {
-      "id": "5085998",
-      "time": "2026-09-10 08:23:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昨日ETF資金整體淨流入33.83億元】據同花順iFinD資料顯示，2026年9月9日，ETF資金整體淨流入33.83億元，股票型淨流出22.17億元，寬基型淨流出32.37億元。當日ETF資金淨流入榜單排名前3依次為：海富通上證基準做市公司債ETF（511190）淨流入6.54億元，華夏上證科創板50成份ETF（588000）淨流入6.49億元，易方達上證基準做市公司債ETF（511110）淨流入5.78億元。"
     }
   ]
 }
