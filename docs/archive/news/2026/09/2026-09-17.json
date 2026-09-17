@@ -1,7 +1,46 @@
 {
   "date": "2026-09-17",
-  "count": 1314,
+  "count": 1318,
   "items": [
+    {
+      "id": "mkt:01a0ad95-33fb-7118-85d1-4cce3255ab4c",
+      "time": "2026-09-17 12:17:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv shipping data showed traffic through the Strait of Hormuz fell to three commercial vessels on Wednesday, versus a 10-day average of about 17."
+    },
+    {
+      "id": "5098929",
+      "time": "2026-09-17 12:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，週三霍爾木茲海峽的大宗商品船舶通行量降至3艘，遠低於約17艘的10日均值。"
+    },
+    {
+      "id": "mkt:01a0ad93-dc9a-7118-85d1-4439bc37c88e",
+      "time": "2026-09-17 12:15:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【PGIM: Fed's threshold for further hikes is low】PGIM chief U.S. economist Robert Sokin said the Fed's latest meeting was hawkish and signaled that only modest additional pressure could lead the central bank to deliver three hikes, or more if necessary. Among 18 Fed officials who submitted projections, eight expect a cumulative three hikes by end-2027. Sokin noted Fed Chair KEVIN WARSH said the Fed has \"removed some accommodation,\" language that suggests participants viewed Wednesday's move as a small step in tightening and that further action is possible. He added that if inflation remains elevated the risk of additional hikes remains tilted to the upside."
+    },
+    {
+      "id": "5098928",
+      "time": "2026-09-17 12:14:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "交銀國際釋出研報稱，上調華泰證券(06886)目標價至22港元，維持“買入”評級。"
+    },
     {
       "id": "mkt:01a0ad8f-f66f-7118-85d1-3c4a24e13982",
       "time": "2026-09-17 12:11:28",
