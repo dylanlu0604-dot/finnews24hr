@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-18 02:40:02",
+  "updated": "2026-09-18 02:43:48",
   "count": 13371,
   "items": [
+    {
+      "id": "5100553",
+      "time": "2026-09-18 02:41:29",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普政府批准伊朗總統外長簽證參加聯大】特朗普政府已批准伊朗高階官員簽證，包括總統佩澤希齊揚和外長阿拉格奇，以參加下週在紐約舉行的聯合國大會高階別會議，儘管兩國仍處於僵持戰爭。國務院週四表示，已批准伊朗“核心代表團”及必要工作人員簽證。據匿名美國官員稱，核心代表團包括總統馬蘇德·佩澤希齊揚和外長阿巴斯·阿拉格奇。宣告稱，根據東道國義務，伊朗政權核心代表團將能參加聯大高階別周，但將受到旅行限制，並依據政策面臨購買奢侈品和其他商品的禁令，代表團規模小於去年。"
+    },
+    {
+      "id": "mkt:01a0b0ab-0bf5-7118-85e8-afd7957dd81e",
+      "time": "2026-09-18 02:39:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department spokesperson said Iran's core regime delegation will be able to attend the UN General Assembly high-level week."
+    },
     {
       "id": "5100552",
       "time": "2026-09-18 02:36:56",
@@ -123073,27 +123091,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude futures settled at $107.63 a barrel, up $6.42 or 6.34%."
-    },
-    {
-      "id": "mkt:01a08ca1-f71a-7118-8533-bdce95c8c2ba",
-      "time": "2026-09-11 02:43:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "【NVIDIA CEO Jensen Huang denies AI infrastructure investments are circular financing】The Wall Street Journal reports NVIDIA (NVDA.O) CEO Jensen Huang told a Goldman Sachs conference he rejects claims that NVIDIA’s financing of data-center and AI infrastructure projects constitutes circular financing. Asked whether the investments were circular, Huang said, “I put in $1, it ends up $100. Is that circular?” He called the transactions a “very smart strategy” aimed at building distribution channels and driving market adoption of NVIDIA’s architecture, not simple recycling of funds."
-    },
-    {
-      "id": "5088127",
-      "time": "2026-09-11 02:41:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方反對個別國強推安理會制裁伊朗】當地時間9月10日上午，聯合國安理會個別成員國不顧安理會在相關問題上仍存在巨大分歧，執意強推安理會恢復對伊朗制裁，推動安理會在已被終止的議題下舉行會議。中國常駐聯合國副代表孫磊在發言中對此表示嚴重關切和強烈反對。孫磊指出，目前，美國加大對伊朗單邊制裁、對伊朗發動新一輪軍事打擊，美伊互襲，地區局勢再度緊張，各方勸和促談努力嚴重受挫。中方對此高度關切、深感擔憂，呼籲美國承諾不再動武，同伊朗真誠談判。當事方應摒棄訴諸武力或以武力相威脅，推動伊朗核問題重回政治外交解決軌道，就實現全面持久停火、達成和平協議、政治外交解決伊朗核問題等尋找兼顧各方合理訴求的最大公約數。 (CCTV國際時訊)"
     }
   ]
 }
