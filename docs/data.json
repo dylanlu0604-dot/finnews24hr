@@ -1,7 +1,77 @@
 {
-  "updated": "2026-09-17 17:23:13",
-  "count": 13592,
+  "updated": "2026-09-17 17:27:00",
+  "count": 13586,
   "items": [
+    {
+      "id": "mkt:01a0aeaf-f04d-7118-85d8-bc6eba1da28d",
+      "time": "2026-09-17 17:26:00",
+      "tags": [
+        "MKT News",
+        "BSX.N",
+        "Impact bearish"
+      ],
+      "text": "CITIGROUP cut its rating on Boston Scientific (BSX.N) to Neutral from Buy and lowered its PT to $50 from $57."
+    },
+    {
+      "id": "5099507",
+      "time": "2026-09-17 17:25:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能科科技：擬以2000萬元-2500萬元回購公司股份】能科科技公告，擬使用自有資金以集中競價方式回購公司部分社會公眾股份，回購金額不低於人民幣2000萬元（含）、不超過人民幣2500萬元（含），回購價格不超過人民幣59.87元/股（含）。回購股份將用於員工持股計劃，回購期限自董事會審議透過回購方案之日起不超過6個月。"
+    },
+    {
+      "id": "5099506",
+      "time": "2026-09-17 17:25:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將波士頓科學評級從買入下調至中性；目標價由57美元下調至50美元。"
+    },
+    {
+      "id": "5099505",
+      "time": "2026-09-17 17:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞政府收購委員會 - 已下令要求Forrestania編制一份補充收購方宣告。"
+    },
+    {
+      "id": "5099504",
+      "time": "2026-09-17 17:24:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "據悉塔塔之子董事會批准公司公開上市計劃。"
+    },
+    {
+      "id": "mkt:01a0aead-ffff-7118-85d8-b3a6c2516776",
+      "time": "2026-09-17 17:23:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lower Saxony governor: we do not want automotive production across Europe to gradually shift away from Germany."
+    },
+    {
+      "id": "5099502",
+      "time": "2026-09-17 17:23:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "TSK股價上漲9.1%，有望創下6月以來最大單日漲幅。"
+    },
+    {
+      "id": "5099501",
+      "time": "2026-09-17 17:23:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "塔塔諮詢服務公司(TCS) <TCS.NS> 股價上漲2.24%。"
+    },
     {
       "id": "5099500",
       "time": "2026-09-17 17:21:17",
@@ -125260,137 +125330,6 @@
         "國際"
       ],
       "text": "市場訊息：日本內閣將於9月15日批准稅制改革綱要。"
-    },
-    {
-      "id": "mkt:01a08aa3-a4f2-7118-8523-10e15f246b65",
-      "time": "2026-09-10 17:26:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jinghe Integration: capacity utilization high; Phase‑4 cleanroom fit‑out under way】At a Sept. 10 STAR Market 2026 H1 semiconductor sector briefing, Jinghe Integration said capacity utilization remains high and orders are sufficient, with downstream demand broadly in line with prior guidance. Phase‑4 cleanroom fit‑out is under way and capacity expansion is progressing steadily; equipment purchases will follow the expansion timetable."
-    },
-    {
-      "id": "mkt:01a08aa3-91e5-7118-8523-09fd90723e92",
-      "time": "2026-09-10 17:26:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Israeli media: Houthi capture of Mocha could reshape regional balance】Israeli outlet the Jerusalem Post reported on Thursday that Houthi forces seized the Red Sea port city of Mocha. Mocha lies at the northern approach to the Bab al-Mandeb Strait; Houthi control moves Iran-backed fighters closer to a key chokepoint, raising the risk to Red Sea shipping and energy transit. The capture, while not unexpected, may broaden Tehran’s leverage in the region despite Iranian setbacks elsewhere and increase geopolitical uncertainty that could disrupt energy markets and shipping liquidity. Former US president Trump said on the 9th he expected US‑Iran tensions to ease after the US midterms and for oil to fall; the Mocha offensive could challenge that view. The Yemeni government’s loss highlights that the long-running conflict still has potential to alter regional dynamics."
-    },
-    {
-      "id": "5087024",
-      "time": "2026-09-10 17:26:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行表示，目前有3700萬歐元透過隔夜貸款工具拆入，另有19711.6億歐元存放在隔夜存款工具。"
-    },
-    {
-      "id": "mkt:01a08aa3-6c61-7118-8523-0381a57c060e",
-      "time": "2026-09-10 17:26:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran may reverse-engineer captured U.S. unmanned submersible】Iran’s consulate in Hyderabad posted on social media early on the 9th (local time) that \"tomorrow morning our reverse engineers will hold an unboxing ceremony,\" attaching an image of a Diving-LD unmanned submersible matching one the Islamic Revolutionary Guard Corps has displayed as a spoil, Xinhua reported. Reuters said the post appeared more a taunt than a technical claim, but the capture gives Iran an opportunity to examine and potentially reverse-engineer a U.S. unmanned submersible, an outcome the report said would embarrass the Pentagon."
-    },
-    {
-      "id": "5087023",
-      "time": "2026-09-10 17:25:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【iPhoneDuo黃牛代搶炒至9.9萬】9月10日，蘋果首款摺疊屏手機iPhone Duo釋出後，記者查詢閒魚等二手交易平臺發現，已有多名商家上線iPhone Duo首發代搶服務，有黃牛標價高達9.9萬元。 記者詢問多位商家發現，iPhone Duo加價普遍已炒至5000元左右，最低加價也在1000元以上，目前黃牛端1TB、2TB版的行情價仍在上調，不少黃牛以“第一天拿到現貨”招攬買家，部分消費者預約搶購的定金已炒至800元左右，“跑單不退”。（第一財經）"
-    },
-    {
-      "id": "mkt:01a08aa3-05f2-7118-8522-feb2e92dabcc",
-      "time": "2026-09-10 17:25:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Huasheng Tiancheng, Moonshot AI launch Kimi Moon Mission; to form AI innovation team】Huasheng Tiancheng and Moonshot AI launched the Kimi Moon Mission, forming a full-chain partnership spanning model capability, compute infrastructure, industry deployment and global delivery to scale enterprise AgenticAI. Huasheng will provide compute support for the Kimi model; partners will pursue MaaS and token business cooperation, target government, financial, telecoms and smart manufacturing clients, and expand into overseas enterprise AI markets. The firms will set up a joint industry AI innovation team and build a dual technical stack combining the Kimi model with Huasheng’s compute base."
-    },
-    {
-      "id": "5087022",
-      "time": "2026-09-10 17:25:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST明誠：控股子公司擬508.80萬元購買關聯方商業房產】ST明誠公告稱，公司控股子公司湖北清碧智慧運營管理有限公司擬向關聯方武漢清能瑾誠置業有限公司購買武漢市洪山區清江錦城K8地塊5號樓2層8項商業房地產，總建築面積633.44㎡，交易對價508.80萬元，資金來源為子公司自有資金，需在2026年12月31日前全額付清。本次交易構成關聯交易，不構成重大資產重組，無需提交股東會審議。交易以2026年2月10日為評估基準日，評估值即為交易對價，過去12個月公司未與該關聯方發生關聯交易，也未與其他關聯人發生購買資產類交易。"
-    },
-    {
-      "id": "5087021",
-      "time": "2026-09-10 17:25:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【支援中小公募發展的第二批攤餘成本債基即將上報，初步名單有13家公募】從業內獲悉，支援中小公募規範健康發展的第二批攤餘成本債基，基金公司於9月11日前後即可上報。一家中小公募內部人士確認了這一訊息，稱他所在的公司擬於9月11日上報。他提供的名單顯示，第二批產品會有13家基金公司上報。其中，博遠基金、瑞達基金、中海基金、泰信基金、博道基金、匯泉基金6家公募，對應的託管行為興業銀行；恆越基金、泉果基金、蘇新基金、匯百川基金4家公募，對應的託管行是浦發銀行；益民基金、東方阿爾法基金和東財基金3家公募，對應的託管行分別為中信銀行、招商銀行、江蘇銀行。該公募人士表示，目前瞭解到只是初步名單，最終名單不排除有一定出入。第一批15只攤餘成本債基於8月14日上報，均為63個月封閉式債券基金。（證券時報）"
-    },
-    {
-      "id": "mkt:01a08aa2-8776-7118-8522-f2277921b8fd",
-      "time": "2026-09-10 17:25:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Goldman Sachs: Shareholder returns set to become a new driver for South Korean equities】Goldman Sachs said in a Sept. 9 report that shareholder returns are likely to increasingly drive South Korean equity performance, complementing earnings growth and helping reverse perceptions of weak corporate capital returns. Policy moves — a “corporate value enhancement” plan, dividend tax incentives and proposed tax changes for buybacks — are shifting from voluntary disclosure toward substantive incentives and stronger accountability for capital allocation and payouts. On fundamentals, consensus earnings and free cash flow forecasts have been revised up while corporate balance sheets retain ample cash, supporting larger dividends and buybacks without materially pressuring capex or balance-sheet quality. Buybacks and treasury-stock cancellations are accelerating and high-dividend opportunities are broadening. Goldman expects aggregate dividends plus buybacks to rise sharply in 2026–27, lifting total shareholder return to roughly 9% in 2026 and about 14% in 2027."
-    },
-    {
-      "id": "5087020",
-      "time": "2026-09-10 17:24:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東興證券：A股股票將連續停牌直至終止上市】東興證券公告稱，中金公司擬透過向東興證券、信達證券全體A股換股股東發行A股股票的方式，換股吸收合併兩家公司。經向上交所申請，公司A股股票自2026年9月15日（A股異議股東現金選擇權申報首日）開市起連續停牌，不再交易，2026年9月14日為最後一個交易日。公司將於現金選擇權申報截止日次一交易日向上交所申請終止上市，股票繼續停牌直至終止上市。"
-    },
-    {
-      "id": "mkt:01a08aa1-95a0-7118-8522-e8ef9eb79fd7",
-      "time": "2026-09-10 17:24:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【BofA: Jet fuel surge may keep forward air fares elevated through year‑end holiday peak】Brent crude topped $102/bbl on Thursday, the highest intraday level since May 22, after global crude rose above $100/bbl. BofA Asia‑Pacific transport research head Nathan Gee said the recent rise in jet fuel could keep forward air fares elevated through the year‑end holiday peak by extending airline cost pressure. Airlines report strong recent demand; Cathay Pacific said demand remained robust last month. Jeffrey Goh, managing director at Alton Aviation Consultancy, warned that if oil continues higher, travel demand will eventually soften because carriers cannot indefinitely pass costs to passengers."
-    },
-    {
-      "id": "5087019",
-      "time": "2026-09-10 17:23:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "亞塞拜然外交部表示，兩名亞塞拜然公民在黑海貨輪遭無人機襲擊事件中身亡。"
-    },
-    {
-      "id": "5087018",
-      "time": "2026-09-10 17:23:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗或“逆向開發”美軍無人潛航器】“明天上午，我們的逆向工程師將舉行拆箱儀式！”當地時間9日凌晨，伊朗駐印度海得拉巴總領事館在社交媒體釋出訊息，配圖是一艘“潛水-LD”型無人潛航器，是伊朗伊斯蘭革命衛隊戰利品的“同款”。按路透社說法，這條訊息更多是在嘲諷美國，但捕獲美軍無人潛航器的確給伊朗提供了研究和可能進行“逆向工程”的機會，令五角大樓受挫。（新華社）"
-    },
-    {
-      "id": "5087017",
-      "time": "2026-09-10 17:23:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華勝天成：與月之暗面啟動“Kimi登月計劃” 將聯合成立AI創新團隊】華勝天成官微訊息，近日，華勝天成與月之暗面啟動“Kimi登月計劃”，雙方將構建“模型能力+算力底座+行業落地+全球交付”的全鏈條合作體系，推動企業級Agentic AI在關鍵行業及海內外市場的規模化商用。此次合作中，華勝天成將為Kimi提供算力支撐，共同拓展政企及商業客戶，推進MaaS及Token業務合作；雙方將共同推進Kimi大模型在政府、金融、運營商與通訊、智慧製造等行業的落地應用，並進一步拓展全球企業級AI市場；雙方將聯合成立行業AI創新團隊，構建“Kimi大模型+華勝算力底座”的雙向技術體系。"
     }
   ]
 }

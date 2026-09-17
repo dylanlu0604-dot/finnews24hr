@@ -1,7 +1,77 @@
 {
   "date": "2026-09-17",
-  "count": 1806,
+  "count": 1814,
   "items": [
+    {
+      "id": "mkt:01a0aeaf-f04d-7118-85d8-bc6eba1da28d",
+      "time": "2026-09-17 17:26:00",
+      "tags": [
+        "MKT News",
+        "BSX.N",
+        "Impact bearish"
+      ],
+      "text": "CITIGROUP cut its rating on Boston Scientific (BSX.N) to Neutral from Buy and lowered its PT to $50 from $57."
+    },
+    {
+      "id": "5099507",
+      "time": "2026-09-17 17:25:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能科科技：擬以2000萬元-2500萬元回購公司股份】能科科技公告，擬使用自有資金以集中競價方式回購公司部分社會公眾股份，回購金額不低於人民幣2000萬元（含）、不超過人民幣2500萬元（含），回購價格不超過人民幣59.87元/股（含）。回購股份將用於員工持股計劃，回購期限自董事會審議透過回購方案之日起不超過6個月。"
+    },
+    {
+      "id": "5099506",
+      "time": "2026-09-17 17:25:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將波士頓科學評級從買入下調至中性；目標價由57美元下調至50美元。"
+    },
+    {
+      "id": "5099505",
+      "time": "2026-09-17 17:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞政府收購委員會 - 已下令要求Forrestania編制一份補充收購方宣告。"
+    },
+    {
+      "id": "5099504",
+      "time": "2026-09-17 17:24:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "據悉塔塔之子董事會批准公司公開上市計劃。"
+    },
+    {
+      "id": "mkt:01a0aead-ffff-7118-85d8-b3a6c2516776",
+      "time": "2026-09-17 17:23:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lower Saxony governor: we do not want automotive production across Europe to gradually shift away from Germany."
+    },
+    {
+      "id": "5099502",
+      "time": "2026-09-17 17:23:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "TSK股價上漲9.1%，有望創下6月以來最大單日漲幅。"
+    },
+    {
+      "id": "5099501",
+      "time": "2026-09-17 17:23:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "塔塔諮詢服務公司(TCS) <TCS.NS> 股價上漲2.24%。"
+    },
     {
       "id": "5099500",
       "time": "2026-09-17 17:21:17",
