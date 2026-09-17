@@ -1,7 +1,129 @@
 {
   "date": "2026-09-17",
-  "count": 2375,
+  "count": 2389,
   "items": [
+    {
+      "id": "mkt:01a0afc2-ef02-7118-85e4-18c8271a9670",
+      "time": "2026-09-17 22:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: The FDIC approved a proposed rule to reform oversight of bank mergers and acquisitions."
+    },
+    {
+      "id": "mkt:01a0afc2-e37a-7118-85e4-158003440624",
+      "time": "2026-09-17 22:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China signs MoU with Hague Conference on Private International Law to strengthen global governance】The Ministry of Foreign Affairs of the People’s Republic of China and the Hague Conference on Private International Law (HCCH) signed a memorandum of understanding in The Hague to deepen cooperation on global governance. The MoU affirms the significance of China’s global governance initiative and commits both parties to cooperate in line with the initiative’s five core principles to advance implementation in international law, collaborate on drafting and executing international conventions, and promote awareness of a ‘Friends of Global Governance’ group. China said it will use the MoU to expand HCCH cooperation, bolster international rule of law and exchanges, and translate the initiative’s principles into practical international cooperation."
+    },
+    {
+      "id": "mkt:01a0afc2-cd3a-7118-85e4-093047304198",
+      "time": "2026-09-17 22:26:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi leader accuses Saudi Arabia of continued aggression in Yemen】The Houthi leader said Saudi Arabia, under US supervision and with support from Zionists, is conducting ongoing aggression in Yemen. He accused Riyadh of failing to use de-escalation seriously, instead exploiting it to tighten repressive measures, form Takfiri military forces and push Yemen toward collapse; he said the Houthis are on the defensive and did not initiate attacks. He added the latest escalation began with Saudi bombing of Sanaa airport and that Saudi forces have launched the first attacks at every stage."
+    },
+    {
+      "id": "5100234",
+      "time": "2026-09-17 22:25:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府頒佈法令上調巴西家庭補助金。"
+    },
+    {
+      "id": "5100233",
+      "time": "2026-09-17 22:25:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦存款保險公司批准有關銀行併購交易改革的擬議規則。"
+    },
+    {
+      "id": "mkt:01a0afc2-1939-7118-85e4-04ad7bdc5beb",
+      "time": "2026-09-17 22:25:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. Senate committee voted to advance the nomination of First Capital executive Brian Johnson to be Director of the Consumer Financial Protection Bureau (CFPB) to the next stage."
+    },
+    {
+      "id": "mkt:01a0afc1-b4a1-7118-85e3-fe5a16496120",
+      "time": "2026-09-17 22:25:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude-6.3 earthquake 167 km west of Nikolskoye, Alaska."
+    },
+    {
+      "id": "5100232",
+      "time": "2026-09-17 22:24:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【丁薛祥會見寮國常務副總理沙倫賽】9月16日下午，中共中央政治局常委、國務院副總理丁薛祥在廣西南寧會見來華出席第23屆中國－東盟博覽會暨中國－東盟商務與投資峰會的寮國常務副總理沙倫賽。 （新華社）"
+    },
+    {
+      "id": "te:markets:584661",
+      "time": "2026-09-17 22:24:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Holds Near Eight-Week High — US gasoline futures held near $3.40 a gallon, remaining close to their highest level in eight weeks, as expectations that Saudi Arabia could restore some of its disrupted exports eased immediate supply concerns. The kingdom indicated it could restore around half of the damaged East-West pipeline’s capacity within days and resume full operations within six weeks, while also offering additional cargoes through ship-to-ship transfers near Oman. Meanwhile, EIA data showed US gasoline inventories unexpectedly rose for a second consecutive week, increasing by 800 thousand barrels in the week ending September 11, as refineries continued to operate at elevated capacity, albeit at a slightly lower rate of 96.8%, while delaying non-essential work. However, approaching seasonal fall maintenance remains a threat to refined-product supplies."
+    },
+    {
+      "id": "5100231",
+      "time": "2026-09-17 22:24:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加尼科爾斯基以西 167 公里處發生 6.3 級地震。"
+    },
+    {
+      "id": "5100230",
+      "time": "2026-09-17 22:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國同海牙國際私法會議簽署加強全球治理諒解備忘錄】新華社海牙9月17日電，中國駐荷蘭大使申博和海牙國際私法會議秘書長克里斯托夫·貝爾納斯科尼16日在海牙籤署《中華人民共和國外交部與海牙國際私法會議關於合作加強全球治理的諒解備忘錄》。"
+    },
+    {
+      "id": "5100229",
+      "time": "2026-09-17 22:23:52",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：美聯儲舉措短期內對信貸市場構成支撐】摩根大通策略師表示，美聯儲週三的加息舉措及其釋放的致力於物價穩定的訊號，對美國投資級企業債利差在短期內構成“適度支撐”。包括Nathaniel Rosenbaum在內的策略師指出，支撐利差的因素包括收益率維持高位，以及美聯儲緩慢加息釋放出收益率再次飆升的可能性相對較低的訊號。根據美國企業債指數衡量，美國高評級企業債利差週三收窄2個基點至77個基點，創8月10日以來的最窄水平。"
+    },
+    {
+      "id": "5100228",
+      "time": "2026-09-17 22:23:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬：做機器人的難度是造車的20倍，“最早四季度我們機器人能力會有跳躍”】談到機器人業務，何小鵬表示，機器人的研發非常困難，做機器人的難度大約相當於造車的20倍，“真的是非常困難。”他表示：“基本上我們機器人的硬體、軟體、設計及供應鏈都是我們自己的。過去我一直不願意把機器人拿出來，主要是因為不能量產，市面上很多機器人能力演示都是透過剪輯之後放出來的。”何小鵬還表示：“我們的機器人從研發到量產，真的是走的非常痛苦，但也快樂。現在我們開始逐步的量產，等到四季度、明年的一季度和二季度，可能我們機器人的能力會有跳躍。”（新浪科技）"
+    },
+    {
+      "id": "5100227",
+      "time": "2026-09-17 22:23:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院委員會投票透過推進第一資本金融公司<程式碼:COF.N>高管布萊恩·約翰遜出任消費者金融保護局局長的提名。"
+    },
     {
       "id": "5100226",
       "time": "2026-09-17 22:22:33",
