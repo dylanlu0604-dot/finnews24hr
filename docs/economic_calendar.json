@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 22:27:20",
+  "updated": "2026-09-17 22:31:18",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -12460,9 +12460,9 @@
               "title": "美國至9月11日當週EIA天然氣庫存(億立方英尺)",
               "importance": 2,
               "previous": "400",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "490",
+              "actual": "440",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184675",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -35890,9 +35890,9 @@
       "title": "美國至9月11日當週EIA天然氣庫存(億立方英尺)",
       "importance": 2,
       "previous": "400",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "490",
+      "actual": "440",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184675",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

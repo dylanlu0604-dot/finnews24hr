@@ -1,7 +1,166 @@
 {
   "date": "2026-09-17",
-  "count": 2389,
+  "count": 2406,
   "items": [
+    {
+      "id": "te:markets:584664",
+      "time": "2026-09-17 22:30:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Verizon Stock Price Hits 4-week Low — Verizon shares decreased to 48.80 USD, the lowest since August 2026. Over the past 4 weeks, Verizon gained 1.6%, and in the last 12 months, it increased 10.45%."
+    },
+    {
+      "id": "mkt:01a0afc6-7195-7118-85e4-4f7f8194102c",
+      "time": "2026-09-17 22:30:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. EIA weekly natural gas storage injection for week ended Sep 11: 44 bcf vs. 49 bcf expected; prior 40 bcf."
+    },
+    {
+      "id": "te:markets:584663",
+      "time": "2026-09-17 22:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Stock Price Hits 14-month Low — PepsiCo shares decreased to 133.63 USD, the lowest since July 2025. Over the past 4 weeks, PepsiCo lost 3.26%, and in the last 12 months, it decreased 5.3%."
+    },
+    {
+      "id": "5100243",
+      "time": "2026-09-17 22:30:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署稱，上週美國天然氣庫存增加了440億立方英尺。"
+    },
+    {
+      "id": "mkt:01a0afc6-4408-7118-85e4-465f3cb82610",
+      "time": "2026-09-17 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Sep.11) | actual 44000000000B | consensus 49000000000B | previous 40000000000B"
+    },
+    {
+      "id": "5100242",
+      "time": "2026-09-17 22:30:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰航空：2026年8月份載客量較2025年同月增加5%】9月17日，國泰集團公佈2026年8月份客、貨運量資料。國泰航空於2026年8月份的載客量較2025年同月增加5%，可用座位公里數按年增加3%。在2026年首8個月，載客量較2025年同期增加了15%。國泰貨運於2026年8月的載貨量較2025年同月增加9%，可用貨物噸公里數按年增加1%。在2026年首8個月，載貨量較去年同期增加了8%。香港快運於2026年8月接載超過79萬人次乘客，較2025年同月微降1%，可用座位公里數按年增加3%。在2026年首8個月，載客量較去年同期增加了8%。"
+    },
+    {
+      "id": "mkt:01a0afc6-1210-7118-85e4-3d32934128ab",
+      "time": "2026-09-17 22:29:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Russell 2000 index rose 1.2%."
+    },
+    {
+      "id": "mkt:01a0afc6-0df1-7118-85e4-372a5f855add",
+      "time": "2026-09-17 22:29:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Romanian MEP Siegfried Muresan said he has accepted the president's nomination to serve as Romania's prime minister."
+    },
+    {
+      "id": "5100241",
+      "time": "2026-09-17 22:29:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：胡塞領導人稱沙特關於麥加遭無人機襲擊的說法是 “拙劣謊言”。"
+    },
+    {
+      "id": "5100240",
+      "time": "2026-09-17 22:28:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000指數上漲1.2%。"
+    },
+    {
+      "id": "5100239",
+      "time": "2026-09-17 22:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心：阿留申群島福克斯群島發生 6.4 級地震。"
+    },
+    {
+      "id": "mkt:01a0afc4-a84b-7118-85e4-297d5c38effe",
+      "time": "2026-09-17 22:28:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Former Iranian diplomat: US pressure persists but time favors Iran】Former Iranian diplomat and analyst Abbas Hameyar said Washington’s military and economic pressure continues, but Tehran believes time is on its side in disputes over sanctions, maritime blockades and demands to return to negotiations. He cited US domestic political pressure, sustained high energy prices and US/global public opposition to war as factors working in Iran’s favor. Hameyar said Tehran has absorbed economic strain through planned government measures; inf remains high and consumers face pressure, but authorities have prioritized ensuring supplies of staple and strategic goods. He added Iran is pursuing diplomacy in parallel with military preparedness and is maintaining forces to respond to any potential US attack."
+    },
+    {
+      "id": "5100238",
+      "time": "2026-09-17 22:28:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞籍歐洲議會議員齊格弗裡德·穆雷桑稱，他已接受總統對其出任總理的提名。"
+    },
+    {
+      "id": "mkt:01a0afc4-56c0-7118-85e4-267a0bbf4879",
+      "time": "2026-09-17 22:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FDIC revises filing requirements to shorten processing times."
+    },
+    {
+      "id": "5100237",
+      "time": "2026-09-17 22:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國首次申領失業救濟人數降至19.6萬 持續申領人數亦下降】美國首次申領失業救濟人數降至7月以來最低水平，持續申領人數則降至兩年多來最低，進一步顯示勞動力市場保持穩定。美國勞工部週四公佈的資料顯示，截至9月12日當週，首次申領失業救濟人數減少1萬人，至19.6萬人，為1969年以來最低讀數之一。該統計期包含勞工節，而失業救濟申請資料在節假日前後可能出現較大波動。首次申領失業救濟人數的四周移動均值降至20.325萬人，為五週以來最低。這一指標有助於平滑周度資料的波動。首次申領人數下降可能反映了勞工節以及新學年開學帶來的季節性波動。即便如此，更廣泛的趨勢仍顯示，除少數受到廣泛關注的裁員訊息外，美國整體經濟中的裁員活動依然低迷。持續申領人數在截至9月5日當週降至173萬人，為2024年以來最低水平。"
+    },
+    {
+      "id": "5100236",
+      "time": "2026-09-17 22:26:58",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦存款保險公司（FDIC）：出臺規則調整申報要求，以縮短處理時長。"
+    },
+    {
+      "id": "5100235",
+      "time": "2026-09-17 22:26:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨表示仍致力於推動透過《加密貨幣明晰法案》。"
+    },
     {
       "id": "mkt:01a0afc2-ef02-7118-85e4-18c8271a9670",
       "time": "2026-09-17 22:26:22",
