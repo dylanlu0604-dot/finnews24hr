@@ -1,7 +1,27 @@
 {
   "date": "2026-09-18",
-  "count": 227,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:01a0b0a6-73f6-7118-85e8-92b00c24360b",
+      "time": "2026-09-18 02:34:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Houthi militants said Saudi air force F-15s operating from Khamis Mushait airbase carried out 37 airstrikes in the past 24 hours on Taiz and Hodeidah provinces, causing civilian casualties."
+    },
+    {
+      "id": "5100549",
+      "time": "2026-09-18 02:32:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯再次延長西方農產品進口禁令】俄羅斯總統普京9月17日簽署命令，將2014年第560號總統令規定的西方農產品進口禁令有效期從2027年1月1日延長至2028年12月31日。（央視新聞）"
+    },
     {
       "id": "mkt:01a0b0a3-2fe6-7118-85e8-8943abfe5a2c",
       "time": "2026-09-18 02:31:19",
