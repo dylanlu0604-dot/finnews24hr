@@ -1,7 +1,83 @@
 {
   "date": "2026-09-17",
-  "count": 1235,
+  "count": 1243,
   "items": [
+    {
+      "id": "mkt:01a0ad72-6a95-7118-85d0-893e839af01d",
+      "time": "2026-09-17 11:39:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said the joint Japan-U.S. intervention demonstrated resolve to counter excessive volatility."
+    },
+    {
+      "id": "5098878",
+      "time": "2026-09-17 11:38:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山表示：我們在實施日美聯合干預時，已表明了應對過度波動的決心。"
+    },
+    {
+      "id": "5098877",
+      "time": "2026-09-17 11:38:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "SBI控股將以約80億日元收購Livedoor，使其成為全資子公司。"
+    },
+    {
+      "id": "mkt:01a0ad71-a8df-7118-85d0-80b0776f0836",
+      "time": "2026-09-17 11:38:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said she will review budget requests and limit debt issuance to levels that secure market confidence."
+    },
+    {
+      "id": "5098876",
+      "time": "2026-09-17 11:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將重新稽核預算申請，將發債規模控制在能夠獲得市場信任的水平。"
+    },
+    {
+      "id": "5098875",
+      "time": "2026-09-17 11:38:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行在外匯市場拋售美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:01a0ad71-74ce-7118-85d0-79cab0426d36",
+      "time": "2026-09-17 11:38:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【China A-shares midday: Shanghai Composite down 0.36%; CRO and grain rally】Shanghai Composite -0.36%, Shenzhen Composite -0.29%, ChiNext -0.12% at midday. CRO names led gains; Jinshi Yiyao jumped 20% to hit the daily limit. Grain/agriculture stocks advanced, Dunhuang Seed hit the daily limit. Vehicle OEMs were active, with Zotye Auto and others at limit-up. Ice-and-snow economy, media, optoelectronics and property services were also among top gainers. MLCC, PCB, gold, power and oilfield services led declines. About 3,100 stocks fell; half-day turnover exceeded CNY1.2 trillion."
+    },
+    {
+      "id": "mkt:01a0ad6f-0cc0-7118-85d0-70eebd2bf0fb",
+      "time": "2026-09-17 11:35:31",
+      "tags": [
+        "MKT News",
+        "AZN.L"
+      ],
+      "text": "【AstraZeneca to invest near 200 mln yuan to upgrade Wuxi site】AstraZeneca will invest about 200 mln yuan to upgrade its Wuxi production and supply base with a new drug development and supply building to support process development and production for its cardiovascular drug candidates and to back global supply after commercialisation. The 5,800 sq m facility is scheduled to enter service in Q4 2029 and is expected to have annual capacity of about 400 mln tablets. Upon completion, the Wuxi site will engage in commercial-stage process development and could become AstraZeneca’s first APAC base capable of supporting a new drug’s global launch and supply."
+    },
     {
       "id": "5098874",
       "time": "2026-09-17 11:35:03",
