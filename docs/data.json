@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-18 05:15:25",
-  "count": 13335,
+  "updated": "2026-09-18 05:19:14",
+  "count": 13333,
   "items": [
+    {
+      "id": "5100692",
+      "time": "2026-09-18 05:15:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.36%，報14371點。"
+    },
     {
       "id": "mkt:01a0b138-ec10-7118-85e9-f814f357842a",
       "time": "2026-09-18 05:14:52",
@@ -122682,30 +122690,6 @@
         "DXY"
       ],
       "text": "【Trump denies US warplanes at Jordan base damaged in Iranian attack】Trump on the 10th denied reports that US aircraft at a Jordan base were damaged in an Iranian strike, calling the reports \"completely untrue\" and saying the US military suffered \"no losses, nothing happened.\" Sources on the 9th had said multiple US jets were damaged in Iran's 8th strike on the Muwaffaq Salti air base in Jordan — an A-10 was hit with a wing broken and eight F-15s were lightly damaged and later returned to service. Iran's Islamic Revolutionary Guard Corps said it struck the base targeting fighter deployment areas and hardened shelters for F-35, F-16 and F-15 jets, causing \"severe damage.\" Jordan's military said its air defenses shot down 18 ballistic missiles Iran fired at Jordan."
-    },
-    {
-      "id": "mkt:01a08d2e-bb60-7118-8535-aad4089518c3",
-      "time": "2026-09-11 05:17:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain News Agency said Bahrain's foreign minister spoke by phone with the UAE's deputy prime minister and foreign minister to discuss bilateral relations and coordination on regional and international issues."
-    },
-    {
-      "id": "5088295",
-      "time": "2026-09-11 05:16:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.66%，報14513點。"
-    },
-    {
-      "id": "5088294",
-      "time": "2026-09-11 05:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯格姆：燃料出口管制過去曾推高價格。"
     }
   ]
 }
