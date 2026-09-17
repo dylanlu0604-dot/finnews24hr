@@ -1,7 +1,23 @@
 {
   "date": "2026-09-18",
-  "count": 209,
+  "count": 211,
   "items": [
+    {
+      "id": "5100535",
+      "time": "2026-09-18 02:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚通報稱，洪水淹沒了其位於伊利諾伊州喬利埃特煉油廠的泵機。"
+    },
+    {
+      "id": "mkt:01a0b099-b9e3-7118-85e8-67639d423b3a",
+      "time": "2026-09-18 02:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Romanian president appoints prime minister for third time this year】Romanian president announced on the 17th the appointment of European Parliament member Siegfried Muresan as prime minister, marking his third prime ministerial appointment this year."
+    },
     {
       "id": "mkt:01a0b099-10b7-7118-85e8-5e1fa547014b",
       "time": "2026-09-18 02:20:16",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-18 02:21:14",
-  "count": 13385,
+  "updated": "2026-09-18 02:25:01",
+  "count": 13384,
   "items": [
+    {
+      "id": "5100535",
+      "time": "2026-09-18 02:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚通報稱，洪水淹沒了其位於伊利諾伊州喬利埃特煉油廠的泵機。"
+    },
+    {
+      "id": "mkt:01a0b099-b9e3-7118-85e8-67639d423b3a",
+      "time": "2026-09-18 02:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Romanian president appoints prime minister for third time this year】Romanian president announced on the 17th the appointment of European Parliament member Siegfried Muresan as prime minister, marking his third prime ministerial appointment this year."
+    },
     {
       "id": "mkt:01a0b099-10b7-7118-85e8-5e1fa547014b",
       "time": "2026-09-18 02:20:16",
@@ -123231,35 +123247,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Rises by 1.96% — Top commodity gainers are Sugar (1.96%), Oat (1.77%) and Wheat (1.63%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.72%)."
-    },
-    {
-      "id": "5088105",
-      "time": "2026-09-11 02:23:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：墨西哥所有地區第二季度總體通脹均有所放緩。"
-    },
-    {
-      "id": "mkt:01a08c8f-46e6-7118-8533-4d8c0d5e5d02",
-      "time": "2026-09-11 02:23:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Cochilco data showed Chilean state-owned Codelco's July copper output fell 4.8% YoY to 112,800 tonnes."
-    },
-    {
-      "id": "5088104",
-      "time": "2026-09-11 02:22:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利銅業委員會（Cochilco）：7月份智利國家銅業公司（Codelco）銅產量同比下降4.8%，至11.28萬噸。"
     }
   ]
 }
