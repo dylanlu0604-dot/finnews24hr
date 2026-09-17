@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-17 12:02:39",
-  "count": 13665,
+  "updated": "2026-09-17 12:06:25",
+  "count": 13664,
   "items": [
+    {
+      "id": "mkt:01a0ad8a-b512-7118-85d1-122db9bedc7e",
+      "time": "2026-09-17 12:05:43",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "01787.HK",
+        "02899.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 0.73%, Hang Seng Tech down 0.76%】Hong Kong midday: HSI down 0.73%, Hang Seng Tech Index down 0.76%; half-day turnover HK$99.15 bln. Gold miners, non-ferrous metals, battery and PCB names led declines; CRO/pharma outsourcing and power equipment sectors outperformed. Notable movers: Tianshu Zhixin (09903.HK) up ~7%, Weichai Power (02338.HK) up >4%, Tigermed (03347.HK) up ~4%, WuXi AppTec (02359.HK) up >2%; Shandong Gold (01787.HK) down >7%, Laopu Gold (06181.HK), Longfor Group (00960.HK) and Zijin Mining (02899.HK) down >3%."
+    },
+    {
+      "id": "mkt:01a0ad8a-0bfc-7118-85d1-0df1a14ad140",
+      "time": "2026-09-17 12:05:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【DBS: Fed may hike twice more in this cycle】DBS Group chief economist Taimur Baig says the Fed could raise rates two more times in this cycle — once later this year and once in early 2027. He adds the Fed’s unanimous September hike paved the way for further tightening. While inflation appears largely supply-driven, Baig warns upside risks to the inflation outlook could prompt additional action; he cites Fed chair Kevin Warsh’s view that the pace of disinflation toward the 2% target is unsatisfactory and that short-term rates remain the Fed’s primary tool. Baig pegs the cycle terminal rate at 4.5%."
+    },
+    {
+      "id": "te:markets:584436",
+      "time": "2026-09-17 12:04:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises on Softer Oil Prices — Silver climbed toward $64 an ounce on Thursday, recovering losses from the previous session as the recent rally in oil prices lost steam, easing inflationary pressures. Those moves followed reports that Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week. Still, silver remained under pressure after the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August."
+    },
+    {
+      "id": "mkt:01a0ad89-501b-7118-85d1-06f7d181c404",
+      "time": "2026-09-17 12:04:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty 50 has turned positive, currently up 0.3%."
+    },
+    {
+      "id": "te:markets:584435",
+      "time": "2026-09-17 12:03:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises on Softer Oil Prices — Gold rose toward $4,300 an ounce on Thursday, recovering losses from the previous session as the recent rally in oil prices lost steam, easing inflationary pressures. Those moves followed reports that Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week. Still, gold remained under pressure after the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August."
+    },
+    {
+      "id": "5098919",
+      "time": "2026-09-17 12:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦就印巴軍艦碰撞事件召見印臨時代辦 】巴基斯坦外交部16日晚發表宣告說，巴方當天召見印度駐巴基斯坦高階專員公署臨時代辦，就15日印度海軍一艘艦艇在巴專屬經濟區內採取的“極具挑釁性且不可接受的行為”向印方提出強烈抗議。宣告說，在巴基斯坦海軍進行兩年一度的例行演習期間，印度軍艦在極近距離內對巴軍艦採取挑釁性動作，導致兩艦發生接觸。這一行為嚴重違反雙方簽署的有關協議條款，並可能加劇地區緊張局勢。宣告表示，巴方敦促印方嚴格遵守國際法和雙邊協議，尤其是旨在防止海上衝突的相關協議。巴基斯坦駐印度高階專員公署臨時代辦將向印度外交部提出相同抗議。"
+    },
+    {
+      "id": "5098918",
+      "time": "2026-09-17 12:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國金融時報，影院運營商VUE正考慮在倫敦進行IPO。"
+    },
     {
       "id": "mkt:01a0ad87-27ba-7118-85d0-fd8682d98b14",
       "time": "2026-09-17 12:01:50",
@@ -126100,87 +126175,6 @@
         "MKT News"
       ],
       "text": "Financial Times reports the IMF withdrew its leading candidate for chief economist at the 11th hour after discovering he had publicly criticized the Trump administration's economic policies."
-    },
-    {
-      "id": "5086342",
-      "time": "2026-09-10 12:06:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Coinbase 執行長：加州擬議的財富稅 “將對加州造成負面影響”】Coinbase Global Inc. 執行長布萊恩・阿姆斯特朗表示，加州擬議的財富稅 “將對加州造成負面影響”。“我認識的很多科技企業創始人已經打算離開加州，或是已經遷出。我認為這項政策可能造成鉅額財政赤字。”“我個人認為，試圖沒收民眾資產有違美國精神，也是不道德的。”“關於我本人是否會搬遷、遷往何處，目前沒有任何訊息可以公佈。待準備妥當後，我會就此公開發聲。”"
-    },
-    {
-      "id": "5086341",
-      "time": "2026-09-10 12:05:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙多地至少9人受傷 】當地時間9月9日，加沙地帶加沙城的一個難民營遭以軍空襲，以軍當天還對加沙地帶中部和南部多地發動空襲，造成至少9人受傷，多棟建築被炸燬。有當地居民表示，逃跑時甚至來不及給家裡即將出生的孩子帶上衣服，他們原本已受損的房子現在徹底被炸燬了，現在只能流落街頭。"
-    },
-    {
-      "id": "mkt:01a0897d-8ee4-7118-8519-518210ef3af3",
-      "time": "2026-09-10 12:05:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump's cash payout pledges escalate from $1,200 to $5,000】On Sept. 9, 2026 Trump pledged that if Republicans retain control of both chambers in the November midterm elections he will pay each U.S. adult $5,000; covering more than 200 million adults would push the bill above $1 trillion, and he suggested tariffs as the funding source. In April 2020 the Trump administration issued up to $1,200 pandemic relief checks to eligible recipients. In December 2020 Trump sought to raise a second-round payment from $600 to $2,000, but Congress approved only $600. In Feb. 2025 the U.S. Department of Government Efficiency (DOGE) proposed $5,000 rebate checks to roughly 79 million eligible taxpayer households as part of a spending-cut package; the plan was not implemented. In Nov. 2025, amid a Supreme Court review of federal tariffs, Trump floated at least $2,000 “tariff dividends” for most Americans funded by tariff revenue; that proposal also was not enacted."
-    },
-    {
-      "id": "mkt:01a0897d-4c42-7118-8519-4eb3b7315c5c",
-      "time": "2026-09-10 12:04:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "UAE's Mubadala Investment Company continues to favour the long-term outlook for China's consumer sector."
-    },
-    {
-      "id": "mkt:01a0897c-f7c0-7118-8519-465b637034db",
-      "time": "2026-09-10 12:04:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian outlet FarsNews reports multiple large explosions in Saudi Arabia."
-    },
-    {
-      "id": "5086340",
-      "time": "2026-09-10 12:04:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全國首個外籍人員入境綜合保險保障產品在北京釋出】全國首個外籍人員入境綜合保險保障產品今天（10日）在北京釋出，這個保險產品聚焦外籍人員短期入境的實際需求，一次投保可享受多種保障服務。據介紹，目前市場多數外籍人員入境保險，70週歲以上人員較難投保，嬰幼兒也有投保限制。這款產品由三家保險公司共同承保，打破年齡限制，從出生滿28天到80週歲人群都可以投保。保障也比此前單家公司的類似產品更全面。（央視新聞）"
-    },
-    {
-      "id": "5086339",
-      "time": "2026-09-10 12:04:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織因特朗普關稅言論放棄首席經濟學家職位的頭號人選裡卡多·賴斯。"
-    },
-    {
-      "id": "5086338",
-      "time": "2026-09-10 12:02:44",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Coinbase 執行長稱比特幣價格週期 “已見底”】Coinbase Global Inc. 執行長布萊恩・阿姆斯特朗週四在新加坡接受媒體採訪。“比特幣存在四年一輪的週期。我個人認為，本輪比特幣價格已經觸底，隨著下一次減半事件到來，未來一兩年價格將開始上行。”他表示，加密行業的 “監管清晰度正大幅改善”，《清晰法案》已 “接近最終落地階段”。“這將是加密領域的一個重要里程碑。坦白講，即便法案未能透過，美國監管機構，即美國證券交易委員會與美國商品期貨交易委員會也已表態，無論如何都準備出臺明確規則。所以我認為，未來一兩週內，相關規則要麼由參議院推出，要麼由監管機構釋出。”他希望 “很快” 能在美國推出代幣化股票。“我們非常看好穩定幣支付。這是令我十分期待的核心趨勢之一，除此之外還有股票及各類資產代幣化、預測市場以及智慧代理金融。我認為，這四大方向是到 2027 年我最有信心的主流趨勢。”"
     }
   ]
 }

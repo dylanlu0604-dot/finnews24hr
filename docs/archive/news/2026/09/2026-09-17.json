@@ -1,7 +1,82 @@
 {
   "date": "2026-09-17",
-  "count": 1294,
+  "count": 1301,
   "items": [
+    {
+      "id": "mkt:01a0ad8a-b512-7118-85d1-122db9bedc7e",
+      "time": "2026-09-17 12:05:43",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "01787.HK",
+        "02899.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 0.73%, Hang Seng Tech down 0.76%】Hong Kong midday: HSI down 0.73%, Hang Seng Tech Index down 0.76%; half-day turnover HK$99.15 bln. Gold miners, non-ferrous metals, battery and PCB names led declines; CRO/pharma outsourcing and power equipment sectors outperformed. Notable movers: Tianshu Zhixin (09903.HK) up ~7%, Weichai Power (02338.HK) up >4%, Tigermed (03347.HK) up ~4%, WuXi AppTec (02359.HK) up >2%; Shandong Gold (01787.HK) down >7%, Laopu Gold (06181.HK), Longfor Group (00960.HK) and Zijin Mining (02899.HK) down >3%."
+    },
+    {
+      "id": "mkt:01a0ad8a-0bfc-7118-85d1-0df1a14ad140",
+      "time": "2026-09-17 12:05:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【DBS: Fed may hike twice more in this cycle】DBS Group chief economist Taimur Baig says the Fed could raise rates two more times in this cycle — once later this year and once in early 2027. He adds the Fed’s unanimous September hike paved the way for further tightening. While inflation appears largely supply-driven, Baig warns upside risks to the inflation outlook could prompt additional action; he cites Fed chair Kevin Warsh’s view that the pace of disinflation toward the 2% target is unsatisfactory and that short-term rates remain the Fed’s primary tool. Baig pegs the cycle terminal rate at 4.5%."
+    },
+    {
+      "id": "te:markets:584436",
+      "time": "2026-09-17 12:04:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises on Softer Oil Prices — Silver climbed toward $64 an ounce on Thursday, recovering losses from the previous session as the recent rally in oil prices lost steam, easing inflationary pressures. Those moves followed reports that Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week. Still, silver remained under pressure after the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August."
+    },
+    {
+      "id": "mkt:01a0ad89-501b-7118-85d1-06f7d181c404",
+      "time": "2026-09-17 12:04:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty 50 has turned positive, currently up 0.3%."
+    },
+    {
+      "id": "te:markets:584435",
+      "time": "2026-09-17 12:03:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises on Softer Oil Prices — Gold rose toward $4,300 an ounce on Thursday, recovering losses from the previous session as the recent rally in oil prices lost steam, easing inflationary pressures. Those moves followed reports that Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week. Still, gold remained under pressure after the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August."
+    },
+    {
+      "id": "5098919",
+      "time": "2026-09-17 12:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦就印巴軍艦碰撞事件召見印臨時代辦 】巴基斯坦外交部16日晚發表宣告說，巴方當天召見印度駐巴基斯坦高階專員公署臨時代辦，就15日印度海軍一艘艦艇在巴專屬經濟區內採取的“極具挑釁性且不可接受的行為”向印方提出強烈抗議。宣告說，在巴基斯坦海軍進行兩年一度的例行演習期間，印度軍艦在極近距離內對巴軍艦採取挑釁性動作，導致兩艦發生接觸。這一行為嚴重違反雙方簽署的有關協議條款，並可能加劇地區緊張局勢。宣告表示，巴方敦促印方嚴格遵守國際法和雙邊協議，尤其是旨在防止海上衝突的相關協議。巴基斯坦駐印度高階專員公署臨時代辦將向印度外交部提出相同抗議。"
+    },
+    {
+      "id": "5098918",
+      "time": "2026-09-17 12:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國金融時報，影院運營商VUE正考慮在倫敦進行IPO。"
+    },
     {
       "id": "mkt:01a0ad87-27ba-7118-85d0-fd8682d98b14",
       "time": "2026-09-17 12:01:50",
