@@ -1,7 +1,93 @@
 {
   "date": "2026-09-17",
-  "count": 1284,
+  "count": 1294,
   "items": [
+    {
+      "id": "mkt:01a0ad87-27ba-7118-85d0-fd8682d98b14",
+      "time": "2026-09-17 12:01:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WMO: Global water cycle becoming more erratic】On the 17th the World Meteorological Organization released its State of Global Water Resources report, saying 2025 was among the driest years for rivers in 35 years. Terrestrial water storage continued a near-decade decline and major glacier regions recorded a fourth consecutive year of ice loss. The report warned the global water cycle is becoming more abnormal and less predictable, posing long-term risks to water security. About 36% of global basin area had river runoff below normal in 2025. Over the past seven years, basins in a \"normal\" state accounted for only 34–38%, well below the 1991–2020 average of 46%."
+    },
+    {
+      "id": "5098917",
+      "time": "2026-09-17 12:01:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：智譜上調年底ARR指引至30億美元 重申“增持”評級】摩根士丹利釋出研報稱，智譜(02513)截至9月中旬年化經常性收入(ARR)已達18億美元，並將年底ARR指引由24億美元上調至30億美元，重申“增持”評級，目標價1,800港元。該行指出，管理層框架顯示約50億美元融資可支援約9.4萬顆GPU，其中約40%用於訓練、約60%用於推理;約5.6萬顆推理GPU意味理論年收入上限約410億元人民幣，尚未考慮利用率與實際定價兌現，理論推理毛利率最高可達約80%。算力瓶頸緩解有望開啟下一階段增長，雲端合作亦可改善資本效率及全球分銷，收入分成料自10月起貢獻。在研發端，訓練部分的分配可支援四年累計約人民幣30億元的年化訓練支出，足以支撐多次GLM-5.3級別或更大規模的訓練。"
+    },
+    {
+      "id": "5098916",
+      "time": "2026-09-17 12:01:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.73%，恒生科技指數跌0.76%】華虹宏力跌2.50%，華潤置地跌2.78%，恆隆地產跌2.82%，周大福跌2.83%，紫金礦業跌3.02%，龍湖集團跌3.59%，老鋪黃金跌3.74%。"
+    },
+    {
+      "id": "5098915",
+      "time": "2026-09-17 12:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉夫羅夫警告歐洲：侵略俄羅斯後果嚴重】據俄新社9月16日報道，俄羅斯外交部長謝爾蓋·拉夫羅夫在世界青年聯歡節上發表講話時警告歐洲稱，與俄羅斯發生大規模戰爭將引發嚴重後果。他還談到了俄美關係和烏克蘭問題談判的前景。 拉夫羅夫指出，為可能與俄羅斯發生的戰爭做準備已成為歐洲精英演講的最熱門主題。 他說：“我想強調的是，我們對此毫無興趣，但如果歐洲對俄羅斯聯邦發動侵略，這將是一場完全不同的戰爭，而且這場戰爭將非常短暫。” 他表示，歐洲人正公開討論在烏克蘭境內部署某種軍事力量的計劃，同時竭力確保該國公開反俄的納粹政權繼續執政。 拉夫羅夫強調，俄羅斯正一如既往地繼續完成其在特別軍事行動初期提出的旨在消除衝突根本原因的各項任務。 （參考訊息）"
+    },
+    {
+      "id": "5098914",
+      "time": "2026-09-17 12:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織：全球水迴圈日趨異常】世界氣象組織17日釋出《全球水資源狀況報告》指出，2025年全球河流遭遇了35年來最乾旱的年份之一。陸地水儲量延續近十年來的下降趨勢，全球主要冰川區連續第四年出現冰量損失。報告警告，全球水迴圈正變得更加異常和難以預測，水資源安全面臨長期風險。報告顯示，2025年全球約36%的流域面積河流徑流量低於正常水平。過去連續7年，處於“正常”狀態的河流流域僅佔34%至38%，明顯低於1991年至2020年間46%的平均水平。"
+    },
+    {
+      "id": "mkt:01a0ad85-bd6b-7118-85d0-f3d75472f7db",
+      "time": "2026-09-17 12:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Japan to cut food consumption tax to 1% from April; academic warns fiscal strain】Japan has finalised a tax reform outline that cuts the food consumption tax from 8% to 1% effective next April, the first consumption-tax reduction since the levy was introduced in 1989. Meiji University economist Kobayashi said the cabinet’s policy risks increasing the public burden, noting consumption tax is a long-standing key revenue source for social welfare and that an easy tax cut could erode fiscal receipts and jeopardize social-security stability."
+    },
+    {
+      "id": "5098913",
+      "time": "2026-09-17 11:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日專家稱高市改組內閣為謀求連任】針對高市早苗今天（9月17日）進行其上任以來的首次內閣改組，日本東北亞動態研究會負責人木村知義表示，高市希望借人事安排進一步鞏固在黨內的影響力，從而謀求在明年秋季的自民黨總裁選舉中連任。"
+    },
+    {
+      "id": "5098912",
+      "time": "2026-09-17 11:59:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【世邦魏理仕︰香港銀行上調最優惠利率可能性較高 預期下半年住宅市場將進入整固期】香港金管局於美聯儲加息0.25%後，將基準利率上調25個基點至4.25%，與美聯儲的加息措施保持一致。世邦魏理仕香港估值及諮詢服務部主管兼執行董事鄭亥延認為，香港住宅市場目前最關注的是，銀行會否在金管局上調基準利率25個基點後同步上調最優惠利率。世邦魏理仕認為，香港主要銀行上調最優惠利率的可能性較高，而一旦落實，將直接推高大部分H按揭計劃以P息掛勾的封頂利率，令置業人士的供款成本增加，市場預期將對此作出反應，並導致2026年下半年住宅成交活動放緩。該行預期2026年下半年市場將進入整固期。除了融資成本上升外，內地對資本外流採取更嚴格的管控措施，亦可能影響投資需求及跨境資金流入香港住宅市場，進一步令買家入市態度趨於審慎。"
+    },
+    {
+      "id": "5098911",
+      "time": "2026-09-17 11:58:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬聯證券：融資需求有待改善 銀行板塊仍具有配置價值】萬聯證券釋出研報稱，8月融資需求仍然偏弱，社融存量同比增速繼續放緩，政府債融資進度仍然偏慢。後續財政發力節奏是影響經濟基本面以及貨幣政策的關鍵因素。銀行板塊2026年中報業績整體符合預期，不過內部分化進一步加劇。營收端受淨息差改善以及綜合化經營的推動，保持韌性;風險分類政策進一步收緊疊加撥備計提力度的上行，使得利潤改善彈性小於營收。綜合考慮銀行股當前的股息率以及估值水平，該行認為板塊仍具有配置價值，首先，優選穩健性品種;其次，可關注優質區域行的預期差機會以及低估值股份行的投資機會。"
+    },
+    {
+      "id": "5098910",
+      "time": "2026-09-17 11:58:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能在南京成立新能源公司 含光伏相關業務】企查查APP顯示，近日，南京隆悅新能源有限公司成立，法定代表人為倪濤，經營範圍包含太陽能發電技術服務；光伏裝置及元器件製造；光伏發電裝置租賃；新能源原動裝置製造等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。"
+    },
     {
       "id": "5098909",
       "time": "2026-09-17 11:56:53",
