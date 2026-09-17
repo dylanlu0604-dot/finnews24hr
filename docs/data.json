@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-17 08:46:31",
-  "count": 13686,
+  "updated": "2026-09-17 08:50:21",
+  "count": 13691,
   "items": [
+    {
+      "id": "5098657",
+      "time": "2026-09-17 08:49:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員表示，在美聯儲公佈利率決議後，對沖基金週三繼續平倉美元/日元空頭頭寸。"
+    },
+    {
+      "id": "5098656",
+      "time": "2026-09-17 08:48:46",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利表示，由於淨實現利潤上升和成品油裂解價差走強，泰國煉油商2026-2027年的盈利有望增長40%。"
+    },
+    {
+      "id": "mkt:01a0acd6-08da-7118-85cc-bd9d69ed0872",
+      "time": "2026-09-17 08:48:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Crude ETF holdings: Brent nominal exposure up for fourth straight day】Sept 16 — WTI (USO) nominal exposure about 21.25 mln barrels, up 0.64 mln barrels on the day; Brent (BNO) futures-linked holdings about 7.28 mln barrels, up 0.27 mln barrels. Full holdings available to track fund flows beyond crude price moves."
+    },
+    {
+      "id": "5098655",
+      "time": "2026-09-17 08:47:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.52美元/桶。"
+    },
+    {
+      "id": "5098654",
+      "time": "2026-09-17 08:47:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：市場對寧德時代的擔憂多已反映在股價 風險回報正具吸引力】Jefferies稱，受行業需求前景、市場份額和盈利能力的擔憂拖累，寧德時代股價下跌，但這些擔憂大部分已反映在股價中，當前風險回報正在變得有吸引力。儘管市場討論中國國內整車廠正在推動電池供應多元化，但寧德時代的全球市場份額仍在提升，且在質量和技術方面領先。"
+    },
+    {
+      "id": "mkt:01a0acd4-caa0-7118-85cc-b71a1b11e500",
+      "time": "2026-09-17 08:47:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Combined margin financing balance rises 9.18 bln yuan】As of Sept 16, Shanghai Stock Exchange margin financing stood at 1.3332 tln yuan, up 4.756 bln yuan from the previous trading day; Shenzhen margin financing was 1.2660 tln yuan, up 4.424 bln yuan; combined balance 2.5992 tln yuan, up 9.18 bln yuan."
+    },
+    {
+      "id": "5098653",
+      "time": "2026-09-17 08:46:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加91.8億元】截至9月16日，上交所融資餘額報13331.97億元，較前一交易日增加47.56億元；深交所融資餘額報12659.92億元，較前一交易日增加44.24億元；兩市合計25991.89億元，較前一交易日增加91.8億元。"
+    },
+    {
+      "id": "te:markets:584384",
+      "time": "2026-09-17 08:46:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise After Fed Decision — The Nikkei 225 Index climbed 0.5% to above 64,200, while the broader Topix Index advanced 1% to 4,100 on Thursday, extending gains from the previous session even after the US Federal Reserve raised interest rates and signaled further tightening to contain inflation. The yen weakened against the dollar following the Fed’s decision, improving the earnings outlook for Japan’s export-focused industries. Japanese equities also benefited from declining oil prices amid expectations that crude flows through Saudi Arabia’s East-West pipeline could resume soon, easing pressure on the country’s oil-dependent economy. Gains were broad-based, with notable performances from index heavyweights such as SoftBank Group (1.2%), Mitsubishi UFJ (0.6%), Fujikura (2.7%), Mitsubishi Heavy Industries (3.1%) and Nintendo (3.3%)."
+    },
     {
       "id": "te:economy:584383",
       "time": "2026-09-17 08:45:54",
@@ -126341,36 +126422,6 @@
         "公司"
       ],
       "text": "【趙一德趙剛與中國石化董事長侯啟軍一行座談】據陝西日報，9月8日，陝西省委書記趙一德、省長趙剛在西安與中國石油化工集團有限公司黨組書記、董事長侯啟軍一行座談。趙一德說，面向“十五五”，希望中國石化與陝西持續加強戰略對接與規劃銜接，不斷深化產學研融通創新，推動更多高階能源化工、綜合能源服務、清潔能源開發等優質專案落地陝西，共同為保障國家能源安全、服務能源強國建設作出更大貢獻。我們將全力打造一流營商環境，用心用情做好服務保障，為企業在陝發展創造良好條件。侯啟軍表示，集團將圍繞構建“一基兩翼三鏈四新”產業新格局，精準對接陝西需求，深化油氣勘探開發、基礎設施建設等領域務實合作，拓展地熱開發、風光發電新業務新賽道。"
-    },
-    {
-      "id": "5086029",
-      "time": "2026-09-10 08:47:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少31.94億元】截至9月9日，上交所融資餘額報13378.63億元，較前一交易日減少20.83億元；深交所融資餘額報12731.61億元，較前一交易日減少11.11億元；兩市合計26110.24億元，較前一交易日減少31.94億元。"
-    },
-    {
-      "id": "mkt:01a088c8-7ef0-7118-8514-5f00bb7a57a7",
-      "time": "2026-09-10 08:47:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Margin balances across both exchanges fall 3.193 bln yuan】As of Sept 9, Shanghai Stock Exchange margin balance stood at 1,337.863 bln yuan, down 2.083 bln yuan from the prior trading day; Shenzhen Stock Exchange stood at 1,273.161 bln yuan, down 1.11 bln; combined margin balance was 2,611.024 bln yuan, down 3.193 bln."
-    },
-    {
-      "id": "5086028",
-      "time": "2026-09-10 08:47:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【特斯拉降價後有門店爆單 多個汽車品牌開啟促銷 “價格戰”又來了？】特斯拉降價衝上熱搜後，多家門店爆單了。“昨天（9月7日）早上政策一出來，訂單訊息就沒斷過。”9月8日，某特斯拉體驗中心銷售顧問告訴記者，Model Y長續航版是消費者最關注的車型，截至9月7日下午，其所在的門店已鎖定20多個訂單。9月7日，特斯拉中國宣佈，即日起至9月30日（含）前下單並提車，Model 3全系現車現金激勵5000元，Model Y全系現車現金激勵1萬元。這並非孤立事件。據記者不完全統計，截至目前已有超過十家車企在9月集中釋放購車權益，覆蓋新勢力、自主、合資與豪華品牌。（每經）"
     }
   ]
 }

@@ -1,7 +1,88 @@
 {
   "date": "2026-09-17",
-  "count": 900,
+  "count": 908,
   "items": [
+    {
+      "id": "5098657",
+      "time": "2026-09-17 08:49:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員表示，在美聯儲公佈利率決議後，對沖基金週三繼續平倉美元/日元空頭頭寸。"
+    },
+    {
+      "id": "5098656",
+      "time": "2026-09-17 08:48:46",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利表示，由於淨實現利潤上升和成品油裂解價差走強，泰國煉油商2026-2027年的盈利有望增長40%。"
+    },
+    {
+      "id": "mkt:01a0acd6-08da-7118-85cc-bd9d69ed0872",
+      "time": "2026-09-17 08:48:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Crude ETF holdings: Brent nominal exposure up for fourth straight day】Sept 16 — WTI (USO) nominal exposure about 21.25 mln barrels, up 0.64 mln barrels on the day; Brent (BNO) futures-linked holdings about 7.28 mln barrels, up 0.27 mln barrels. Full holdings available to track fund flows beyond crude price moves."
+    },
+    {
+      "id": "5098655",
+      "time": "2026-09-17 08:47:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.52美元/桶。"
+    },
+    {
+      "id": "5098654",
+      "time": "2026-09-17 08:47:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：市場對寧德時代的擔憂多已反映在股價 風險回報正具吸引力】Jefferies稱，受行業需求前景、市場份額和盈利能力的擔憂拖累，寧德時代股價下跌，但這些擔憂大部分已反映在股價中，當前風險回報正在變得有吸引力。儘管市場討論中國國內整車廠正在推動電池供應多元化，但寧德時代的全球市場份額仍在提升，且在質量和技術方面領先。"
+    },
+    {
+      "id": "mkt:01a0acd4-caa0-7118-85cc-b71a1b11e500",
+      "time": "2026-09-17 08:47:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Combined margin financing balance rises 9.18 bln yuan】As of Sept 16, Shanghai Stock Exchange margin financing stood at 1.3332 tln yuan, up 4.756 bln yuan from the previous trading day; Shenzhen margin financing was 1.2660 tln yuan, up 4.424 bln yuan; combined balance 2.5992 tln yuan, up 9.18 bln yuan."
+    },
+    {
+      "id": "5098653",
+      "time": "2026-09-17 08:46:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加91.8億元】截至9月16日，上交所融資餘額報13331.97億元，較前一交易日增加47.56億元；深交所融資餘額報12659.92億元，較前一交易日增加44.24億元；兩市合計25991.89億元，較前一交易日增加91.8億元。"
+    },
+    {
+      "id": "te:markets:584384",
+      "time": "2026-09-17 08:46:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise After Fed Decision — The Nikkei 225 Index climbed 0.5% to above 64,200, while the broader Topix Index advanced 1% to 4,100 on Thursday, extending gains from the previous session even after the US Federal Reserve raised interest rates and signaled further tightening to contain inflation. The yen weakened against the dollar following the Fed’s decision, improving the earnings outlook for Japan’s export-focused industries. Japanese equities also benefited from declining oil prices amid expectations that crude flows through Saudi Arabia’s East-West pipeline could resume soon, easing pressure on the country’s oil-dependent economy. Gains were broad-based, with notable performances from index heavyweights such as SoftBank Group (1.2%), Mitsubishi UFJ (0.6%), Fujikura (2.7%), Mitsubishi Heavy Industries (3.1%) and Nintendo (3.3%)."
+    },
     {
       "id": "te:economy:584383",
       "time": "2026-09-17 08:45:54",
