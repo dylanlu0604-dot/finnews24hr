@@ -1,7 +1,168 @@
 {
   "date": "2026-09-17",
-  "count": 1848,
+  "count": 1869,
   "items": [
+    {
+      "id": "mkt:01a0aeba-d105-7118-85d9-429ede0ea45c",
+      "time": "2026-09-17 17:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said this is the first year of active fiscal policy."
+    },
+    {
+      "id": "mkt:01a0aeba-9a3d-7118-85d9-3d86d48c2393",
+      "time": "2026-09-17 17:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDC: Global smart glasses shipments 1H 2026 7.114 mln units, up 70.5% YoY】IDC: Global smart glasses shipments reached 7.114 mln units in 1H 2026, up 70.5% YoY, with the market shifting toward higher-end, more intelligent devices. Q2 shipments were 3.547 mln units, up 35.3% YoY. By segment, audio and audio-capture glasses shipped 2.494 mln units, up 54%; AR/ER glasses shipped 505k units, up 75.7%; VR/MR headsets shipped 548k units, down 23.3% YoY. IDC expects the industry to accelerate along three vectors: faster product-line differentiation and device innovation (color displays, weight reduction, comfort); accelerated overseas expansion and global footprint; and deeper ecosystem integration with content, AI, payments and e-commerce to drive deployments in office, entertainment, health and education scenarios."
+    },
+    {
+      "id": "5099542",
+      "time": "2026-09-17 17:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相：今年是積極財政政策的第一年。"
+    },
+    {
+      "id": "5099541",
+      "time": "2026-09-17 17:37:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國巨石：振石集團減持股份觸及1%刻度】中國巨石公告稱，公司持股5%以上股東振石控股集團有限公司於2026年9月15日至9月17日透過集中競價交易方式減持公司股份2832.6366萬股。本次減持後，振石集團直接持有公司股份69877.3093萬股，佔公司總股本的17.4556%；振石集團及其一致行動人張毓強、張健侃合計持股比例由18.4997%降至17.7921%。本次減持股份來源為振石集團此前增持的股份，未違反相關承諾，不觸及要約收購，不會導致公司控股股東及實控人變化。"
+    },
+    {
+      "id": "5099540",
+      "time": "2026-09-17 17:37:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所披露：9月14日，貝萊德所持長城汽車H股<2333.HK>的多頭頭寸從9.74%升至10.75%。"
+    },
+    {
+      "id": "5099539",
+      "time": "2026-09-17 17:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將實施負責任的擴張性財政政策。"
+    },
+    {
+      "id": "mkt:01a0aeba-1022-7118-85d9-36c1ade1d473",
+      "time": "2026-09-17 17:37:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Volvo Cars CTO says the company welcomes talks with any potential partner, including brands under Geely Group."
+    },
+    {
+      "id": "5099538",
+      "time": "2026-09-17 17:36:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "法蘭克福法院就德意志銀行案作出判決，德意志銀行前經理被判處兩年緩刑。"
+    },
+    {
+      "id": "mkt:01a0aeb9-8cc6-7118-85d9-2d7aec71bf79",
+      "time": "2026-09-17 17:36:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou, Shenzhen buyers tilt toward all-cash home purchases】Guangzhou secondary-market mortgage-funded share has fallen since June, from 45.08% in June to 38.85% in July and 35.6% in August, indicating a rising share of all-cash buyers, Guangzhou Real Estate Intermediary Association data show. Shenzhen data from Beike Research Institute show all-cash transactions accounted for 25.3% of second-hand home sales in 1H 2026, up 6.3 percentage points YoY. Guangdong housing policy researcher Li Yujia said accumulated savings among long-time city residents now allow full-price purchases and that buyers are using all-cash deals in part to repair household balance sheets when attractive, high-value listings appear."
+    },
+    {
+      "id": "mkt:01a0aeb9-88a6-7118-85d9-265331a7e0c6",
+      "time": "2026-09-17 17:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Vice Chancellor Klingbeil said the proposals must be assessed, including their fiscal cost, and he hopes a decision will be made as soon as possible."
+    },
+    {
+      "id": "mkt:01a0aeb9-6395-7118-85d9-1ea0bdc8104e",
+      "time": "2026-09-17 17:36:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Vice Chancellor Klingbeil said authorities want to provide consumer relief from high oil prices, including by imposing a windfall tax, and that a related proposal will be tabled soon."
+    },
+    {
+      "id": "5099537",
+      "time": "2026-09-17 17:36:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃汽車技術長：我們對任何希望合作的人都持開放態度，這也包括吉利集團旗下的任何品牌。"
+    },
+    {
+      "id": "5099536",
+      "time": "2026-09-17 17:35:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國副總理：將很快就此提出建議。"
+    },
+    {
+      "id": "5099535",
+      "time": "2026-09-17 17:35:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全柴動力：深耕發動機主業 加快新能源產品開發推廣】全柴動力公告稱，公司一直深耕發動機主業，同時加快混合動力、增程、氫燃料電池、氣體機、電驅橋等新能源產品的開發和推廣，致力於上市公司高質量發展，維護公司及股東特別是中小股東的合法權益。本次投資者關係活動內容詳見“全景路演”網站，投資者可透過上證e互動、投資者關係電話、郵件等方式與公司互動交流。"
+    },
+    {
+      "id": "mkt:01a0aeb8-bffa-7118-85d9-174cffcd9347",
+      "time": "2026-09-17 17:35:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan PM TAKAICHI aims to create a positive economic cycle by raising wages, employment, consumer confidence and tax revenue."
+    },
+    {
+      "id": "5099534",
+      "time": "2026-09-17 17:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國副總理克林貝爾：我們希望對高油價實施消費者紓困措施，比如徵收暴利稅。"
+    },
+    {
+      "id": "5099533",
+      "time": "2026-09-17 17:35:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據港交所披露，摩根大通集團於9月14日減持凱萊英（天津）H股，其好倉持倉佔比從8.86%降至7.82%。"
+    },
+    {
+      "id": "5099532",
+      "time": "2026-09-17 17:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：目標是透過提振工資、就業、消費者信心與稅收實現經濟正迴圈。"
+    },
+    {
+      "id": "5099531",
+      "time": "2026-09-17 17:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗要求瑞典外交官48小時內離開德黑蘭。"
+    },
     {
       "id": "mkt:01a0aeb7-6d8b-7118-85d9-08784590488d",
       "time": "2026-09-17 17:34:11",
@@ -9,6 +170,14 @@
         "MKT News"
       ],
       "text": "Japanese Prime Minister Takaichi said fiscal sustainability cannot be maintained without economic growth."
+    },
+    {
+      "id": "5099530",
+      "time": "2026-09-17 17:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英唐智控：簽訂協議獲汽車晶片全球獨家授權15年】英唐智控公告，公司與Synaptics簽訂技術許可合作協議，協議約定公司獲得汽車DDIC及汽車TDDI系列產品全球獨家授權，授權期限15年；許可費為2000萬美元，分三期支付，產品進入銷售後按淨銷售額一定比例按季度支付提成費。"
     },
     {
       "id": "5099529",
@@ -55,6 +224,15 @@
         "其他"
       ],
       "text": "英國金融行為監管局：FCA及其合作伙伴已對倫敦的非法點對點加密貨幣交易採取進一步行動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609173877389146",
+      "time": "2026-09-17 17:32:32",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【德銀：美聯儲本輪加息或成為現代歷史上幅度最淺的一輪】德意志銀行在最新報告中回顧歷次美聯儲加息週期指出，市場在加息啟動之初往往低估最終緊縮幅度。目前市場已將明年年中前美聯儲再加息三次的預期計入價格，如果當前市場定價正確，本輪加息週期最終可能成為現代歷史上幅度最淺的一輪。"
     },
     {
       "id": "5099525",
