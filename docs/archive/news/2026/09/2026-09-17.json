@@ -1,7 +1,136 @@
 {
   "date": "2026-09-17",
-  "count": 2443,
+  "count": 2458,
   "items": [
+    {
+      "id": "mkt:01a0afd8-89d2-7118-85e4-ad268eb8b1b6",
+      "time": "2026-09-17 22:49:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's permanent representative to the UN said Iran's nuclear program can only be resolved through diplomatic means."
+    },
+    {
+      "id": "5100284",
+      "time": "2026-09-17 22:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉脫維亞總理 ：波蘭總理圖斯克討論波羅的海航空相關事宜。"
+    },
+    {
+      "id": "mkt:01a0afd8-2872-7118-85e4-a2eb97174d74",
+      "time": "2026-09-17 22:49:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Saudi intercepts Houthi drone; debris kills one, injures two】Saudi civil defense said on the 17th it intercepted and destroyed a drone launched by Yemen's Houthi group over the western city of Taif. Falling debris killed one person and injured two; the deceased was Yemeni, the injured were Saudi and Pakistani, with the Pakistani seriously wounded. Several buildings and vehicles were damaged."
+    },
+    {
+      "id": "5100283",
+      "time": "2026-09-17 22:49:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其古佈雷塔什預計港口交易將帶來 3.5 億美元收益。"
+    },
+    {
+      "id": "5100282",
+      "time": "2026-09-17 22:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理： 將與漢莎航空洽談波羅的海航空股權事宜。"
+    },
+    {
+      "id": "mkt:01a0afd7-e462-7118-85e4-9ceb61601636",
+      "time": "2026-09-17 22:49:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian MP Kurbergs said Latvia is negotiating with four potential investors for airBaltic, will consult Lufthansa on the carrier's equity and will raise the matter with Polish PM TUSK."
+    },
+    {
+      "id": "5100281",
+      "time": "2026-09-17 22:49:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理：拉脫維亞正與 4 家潛在投資者洽談波羅的海航空融資事宜。"
+    },
+    {
+      "id": "5100280",
+      "time": "2026-09-17 22:48:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：德國大使被召至伊朗外交部。"
+    },
+    {
+      "id": "mkt:01a0afd7-26fc-7118-85e4-96f3772f9c4e",
+      "time": "2026-09-17 22:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's defense minister said the 2027 budget will include savings measures totaling 54 bln euros."
+    },
+    {
+      "id": "5100279",
+      "time": "2026-09-17 22:47:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特攔截一無人機 碎片墜落致1死2傷】沙烏地阿拉伯民防總局17日發表宣告稱，葉門胡塞武裝發射的一架無人機當天在沙特西部城市塔伊夫被攔截並摧毀，產生的碎片墜落造成１人死亡、２人受傷，多棟建築和一些車輛受損。宣告說，死者為葉門籍，兩名傷者分別為沙特籍和巴基斯坦籍，其中巴基斯坦傷者傷勢嚴重。（新華社）"
+    },
+    {
+      "id": "5100278",
+      "time": "2026-09-17 22:47:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "土耳其銀行指數上漲 9.3%，創下 4 月 8 日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a0afd6-2851-7118-85e4-8811ecb1cf25",
+      "time": "2026-09-17 22:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkish banking index rose 9.3%, its largest daily gain since April 8."
+    },
+    {
+      "id": "5100277",
+      "time": "2026-09-17 22:47:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "哥斯大黎加8月消費者信心指數為55.9。"
+    },
+    {
+      "id": "5100276",
+      "time": "2026-09-17 22:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總理預計 2027 年預算調整規模約 540 億歐元。"
+    },
+    {
+      "id": "5100275",
+      "time": "2026-09-17 22:46:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息稱：霍爾木茲海峽剛剛發生一起爆炸事件。"
+    },
     {
       "id": "5100274",
       "time": "2026-09-17 22:45:56",
