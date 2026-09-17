@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-18 04:52:28",
-  "count": 13336,
+  "updated": "2026-09-18 04:56:16",
+  "count": 13338,
   "items": [
+    {
+      "id": "mkt:01a0b126-ce89-7118-85e9-c5424e57af77",
+      "time": "2026-09-18 04:55:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC releases metric system to track pace of frontier lab AI development】ANTHROPIC published a public metric framework to measure the pace of frontier lab AI development, aiming to give outsiders clearer data on model R&D progress. The framework targets three areas: AI participation in next‑generation AI R&D, supervisory control over AI agent behavior, and resource投入 into developing stronger models. It includes an AI R&D Automation Index that measures Claude’s share of company R&D. As of Aug 2026, Claude had not achieved fully autonomous R&D in any measured domain but accounted for about 26% of ANTHROPIC’s AI R&D; over 90% of R&D work reached ‘AI collaboration’ or higher."
+    },
+    {
+      "id": "5100671",
+      "time": "2026-09-18 04:54:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Truth Social 搶先體驗服務遭到訴訟質疑。"
+    },
+    {
+      "id": "te:markets:584717",
+      "time": "2026-09-18 04:52:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Higher After Selic Cut — The Ibovespa edged 0.2% higher to close at 185,992 on Thursday after a volatile session following the BCB’s decision to cut the Selic rate by 25 bps to 13.75%. The Copom did not signal its next steps but left the door open for another cut at the next meeting. The message was one of continuity, with monetary policy remaining cautious, data-dependent, and focused on composure. Still, the index fell as much as 1.2% during the session amid concerns over government spending and electoral effects after the federal government announced a 15% increase in welfare benefits. Polls showing challenger Flávio Bolsonaro numerically ahead in second-round scenarios continued to support the index. A halt in the oil rally and the consequent softening of global yields also helped support the market. Major banks were mixed, with Banco do Brasil rising 0.3% and Santander advancing 2.5%, while Itaú inched lower and Bradesco fell 0.3%. Vale rose 2.1%, helped by higher iron ore prices."
+    },
     {
       "id": "mkt:01a0b11c-9c32-7118-85e9-b889605e3e27",
       "time": "2026-09-18 04:43:57",
@@ -122710,15 +122740,6 @@
         "焦點"
       ],
       "text": "布倫特原油突破109美元/桶，日內漲7.70%。"
-    },
-    {
-      "id": "mkt:b4ac9a01-ceca-467e-9c8c-6728fad988eb",
-      "time": "2026-09-11 04:52:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Houthi forces seize Yemen's Hanish Islands, capture Mocha port】A Yemeni government official said on the 10th that Houthi forces deployed to the strategic Hanish Islands in the Red Sea after government naval units withdrew; the government later designated part of the west coast a \"combat zone.\" The official said the navy pulled back in the afternoon, after which Houthi fighters entered and established military positions on the islands. The Hanish Islands lie north of the Bab al-Mandeb Strait, close to major international shipping routes and are strategically important for monitoring and securing maritime traffic. Also on the 10th, after hours of heavy fighting, Houthi forces seized the Red Sea port city of Mocha in southwestern Taiz province, forcing government troops to withdraw south to the Zubab area between Mocha and the Bab al-Mandeb Strait."
     }
   ]
 }
