@@ -1,7 +1,144 @@
 {
   "date": "2026-09-17",
-  "count": 874,
+  "count": 888,
   "items": [
+    {
+      "id": "5098643",
+      "time": "2026-09-17 08:42:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：正密切監控國內債市，預計波動將持續。"
+    },
+    {
+      "id": "mkt:01a0acd0-116d-7118-85cc-90a53820c2d4",
+      "time": "2026-09-17 08:41:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China International Capital Co: Gold support seen near $4,200–4,500】China International Capital Co (CICC) says the Fed is more likely to pause than hike, leaving markets positioned like long-call bets on uncertain upside. Using a static model of US Treasury yields and the dollar, CICC estimates gold support around $4,200–$4,500. Unless the Fed delivers consecutive hikes, downside pressure on gold is relatively contained; meaningful upside, however, requires a broader narrative. A Fed pause could feed narratives of lost confidence and de‑dollarization, while hikes would weaken that storyline, so upside is larger under no-hike scenarios and dependent on further narrative catalysts."
+    },
+    {
+      "id": "5098642",
+      "time": "2026-09-17 08:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪：鈉電技術已在全球申請並佈局核心專利230餘項】比亞迪(002594)9月16日接受投資人調研時表示，針對鈉離子電池的機理研究與技術研發，公司組建了超100人的專職研發團隊，其中博士佔比50%。公司前瞻佈局技術，也始終將技術創造放在首位。截至目前，鈉電技術已在全球申請並佈局核心專利230餘項，其中發明專利佔比95%，精準覆蓋高能量密度正極材料、電解液最佳化及電池系統整合等核心環節。"
+    },
+    {
+      "id": "5098641",
+      "time": "2026-09-17 08:41:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【夏糧收官、秋糧接力 各地多措並舉護航糧食穩產增收】記者昨天（16日）從國家糧食和物資儲備局獲悉，全國夏糧收購已接近尾聲，市場整體平穩有序。目前全國累計收購小麥超1億噸，早秈稻1200萬噸，進度略快於上年。今年各地準備夏糧倉容1.1億噸，農發行先期投放專項信貸1500億元，中儲糧、中糧、供銷糧油等龍頭企業帶頭入市，做到“錢等糧、倉等糧”，保障農戶售糧順暢。"
+    },
+    {
+      "id": "5098640",
+      "time": "2026-09-17 08:41:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4290美元/盎司，日內漲0.64%。"
+    },
+    {
+      "id": "5098639",
+      "time": "2026-09-17 08:41:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國認為美聯儲加息對當地市場影響有限。"
+    },
+    {
+      "id": "mkt:01a0accf-78c2-7118-85cc-8ba0f7650227",
+      "time": "2026-09-17 08:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Finance Ministry said it will implement market-stabilizing measures if necessary."
+    },
+    {
+      "id": "mkt:01a0accf-77e9-7118-85cc-812a25907346",
+      "time": "2026-09-17 08:41:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan 40-year government bond yield fell 7 bps to 4.095%."
+    },
+    {
+      "id": "5098638",
+      "time": "2026-09-17 08:40:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度沈抖：大模型正從技術變成經濟力量】9月16日在京舉行的2026智慧經濟論壇上，百度集團執行副總裁、百度智慧雲事業群總裁沈抖提出“產業智慧體作業系統”理念，他表示，產業智慧體有機會拉近模型能力與經濟增長這兩條曲線，把模型能力的進步轉化成企業經營成果，讓大模型從一項技術變成真正的經濟力量。今年以來，圍繞辦公領域的智慧體應用競爭已趨於白熱化。但“辦公”能力顯然只是一項通用的原子級能力。沈抖認為，支撐產業智慧體的應包括三類智慧體：通用智慧體、專業智慧體和定製智慧體。"
+    },
+    {
+      "id": "5098637",
+      "time": "2026-09-17 08:40:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：必要時將出臺市場穩定措施。"
+    },
+    {
+      "id": "5098636",
+      "time": "2026-09-17 08:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱，如果債券市場波動過大，韓國將採取行動。"
+    },
+    {
+      "id": "5098635",
+      "time": "2026-09-17 08:39:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊藤忠商事：伯克希爾看好日本綜合商社所具備的 “經濟護城河” 】伊藤忠商事會長岡藤正廣週三在日本對外貿易會例行新聞釋出會上表示，伯克希爾看好日本綜合商社所具備的 “經濟護城河”，包括龐大的全球業務網路與高度成熟的資本配置能力，構築起很高的行業准入壁壘。這也是伯克希爾・哈撒韋投資這些企業的原因之一。他稱：“伯克希爾不會對商社的經營事務吹毛求疵。伯克希爾目前持有這些商社約 10% 的股份，該公司表示即便持股比例提升至 15%，也不會提出異議。作為股東，伯克希爾對我們而言極具價值。”"
+    },
+    {
+      "id": "te:markets:584378",
+      "time": "2026-09-17 08:39:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds at 1-Month Low — The Australian dollar held below $0.71, sitting at a four-week low after the Federal Reserve’s first interest-rate increase since 2023 boosted the US dollar, overshadowing expectations for further RBA tightening. The Fed unanimously raised its federal funds rate by 25 basis points to 3.75%-4.00% as expected, citing elevated inflation, while updated projections showed 16 of 18 officials expect at least one more hike this year. Focus now turns to the Reserve Bank of Australia’s September 29 policy decision, with markets pricing an 85% chance of a 25bp increase from the current 4.35% rate and expectations for the cash rate to reach 4.85% by early 2027. The IMF also flagged persistent inflation and rising energy prices as risks that could require further RBA rate hikes. Meanwhile, traders continued to monitor developments in the Iran-US war and its impact on oil prices. Crude remains above $100 per barrel, although prices are easing as Saudi Arabia works to restore pipeline capacity."
+    },
+    {
+      "id": "te:economy:584377",
+      "time": "2026-09-17 08:38:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Domestic Exports of Non Oil (nodx) (%yoy)",
+        "Importance 1"
+      ],
+      "text": "Singapore NODX Growth Strongest Since 1988 — Singapore’s non-oil domestic exports (NODX) surged 46.2% year-on-year in August 2026, accelerating sharply from a downwardly revised 24.1% rise in July. It was the twelfth straight month of expansion and the strongest growth since October 1988, driven by electronics exports (131.8% vs. 112% in July), supported by robust AI-related demand. In May, the country raised its 2026 forecast for NODX growth to 3.0%–5.0%, up from the previously estimated. Monthly, NODX jumped 10.9%, rebounding sharply from a 0.3% fall in July and marking the fastest increase in four months."
+    },
     {
       "id": "5098634",
       "time": "2026-09-17 08:38:13",
