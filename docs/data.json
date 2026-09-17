@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-18 07:19:42",
-  "count": 13316,
+  "updated": "2026-09-18 07:23:25",
+  "count": 13317,
   "items": [
+    {
+      "id": "5100743",
+      "time": "2026-09-18 07:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆與美國總統特朗普通電話，雙方在持續談判期間討論貿易問題。"
+    },
+    {
+      "id": "mkt:01a0b1ad-aa05-7118-85ea-d8bed02fd707",
+      "time": "2026-09-18 07:22:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump signed an executive order opening MLN acres of federal land to hunters and anglers."
+    },
+    {
+      "id": "mkt:01a0b1ab-9881-7118-85ea-d54d4140bc46",
+      "time": "2026-09-18 07:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "RBA Governor Bullock to testify in 10 minutes; Japan's August core CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "5100742",
+      "time": "2026-09-18 07:19:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國新任駐澳大利亞大使劉勁松向莫斯廷總督遞交國書】9月16日，中國新任駐澳大利亞大使劉勁松前往澳總督府，向澳總督莫斯廷遞交國書，雙方進行了親切友好的交流。澳外交貿易部副秘書長艾麗，使館李繁傑公使、邱旭強武官、高睿參贊等參加。莫斯廷總督請劉大使轉達對習近平主席的親切問候。莫斯廷總督特別就中國西藏吉隆泥石流災害向中方表示誠摯慰問，感謝中方為搜救澳失聯人員所作努力。莫斯廷總督愉快地憶及40年前訪華情形，積極評價中國發展進步和澳中關係進展，表示澳方將為劉大使履職提供便利和支援，建議劉大使多去澳各地走走看看。莫斯廷總督還與劉大使就體育等話題輕鬆聊天。"
+    },
     {
       "id": "5100741",
       "time": "2026-09-18 07:18:19",
@@ -122499,38 +122538,6 @@
         "Importance 2"
       ],
       "text": "Oil Heads for Sharp Weekly Rise — Crude oil climbed toward $104 per barrel on Friday and was on track to gain more than 13% for the week, marking its biggest weekly increase since mid-July as the escalating conflict between the US and Iran fueled concerns over prolonged disruptions to global energy supplies. Top US officials reportedly warned President Donald Trump that the war could continue through the remainder of his term, which ends in January 2029. Meanwhile, Iranian leaders are reportedly determined to continue fighting despite mounting economic costs, viewing the conflict as an existential threat. They also claim that Tehran has managed to rebuild its missile capabilities and could intensify attacks on US and Gulf assets if Washington escalates its own strikes. Fighting has intensified over the past two weeks, with the US targeting Iranian oil tankers while Iran launched missiles at US warships and tankers in the Persian Gulf, as well as American assets in neighboring countries."
-    },
-    {
-      "id": "5088367",
-      "time": "2026-09-11 07:22:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利將耐克的評級下調至減持，目標價31美元。"
-    },
-    {
-      "id": "5088366",
-      "time": "2026-09-11 07:21:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行"
-      ],
-      "text": "【花旗：現預計澳大利亞儲備銀行2026年將再加息兩次，利率上調至4.85%】花旗集團表示，本次觀點調整源於澳大利亞經濟呈現兩極分化格局：住房市場持續深度調整，但人工智慧相關投資熱潮加劇產能緊張與通脹壓力，抵消了住房領域的下行影響。包括法拉茲・賽義德（Faraz Syed ）在內的花旗經濟學家週五在研報中寫道，生產率低迷、勞動力市場緊張以及高企的油價，大機率意味著通脹將頑固維持在高位。分析師稱：“我們認為澳洲聯儲需要進一步加息，主動遏制通脹，不過立場偏鴿派的理事會可能推遲行動。”花旗將終端利率預期由4.60%上調至4.85%。花旗新建交易頭寸，在4.66%水平賣出11月隔夜指數互換，目標位4.85%。邏輯依據：市場低估了澳洲聯儲連續加息的風險，花旗認為這類加息舉措是控制通脹所必需的。注：花旗此前僅預期一次加息。"
-    },
-    {
-      "id": "mkt:01a08d9e-d4df-7118-8536-95fdcd9bd4a4",
-      "time": "2026-09-11 07:19:51",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【U.S. Treasury Secretary Bessent clarifies \"I'm the house\" remark, says measures not for election】U.S. Treasury Secretary Bessent said on Thursday his recent, atypical moves—viewed as aimed at lowering yields, including an expanded bond repo facility and a rare yen intervention—were partly a response to Iranian actions he said were trying to use bond yields or oil prices to create economic problems for the U.S. He said, \"I’m not doing this for the election.\" Bessent clarified a comment two days earlier that \"I’m the house\" in the context of Japan and the yen, saying he was not issuing a challenge to traders, did not mean he is always right, but wanted to signal he has superior information and to provide markets a reasoned framework to avoid panic."
     }
   ]
 }
