@@ -1,7 +1,73 @@
 {
   "date": "2026-09-18",
-  "count": 221,
+  "count": 227,
   "items": [
+    {
+      "id": "mkt:01a0b0a3-2fe6-7118-85e8-8943abfe5a2c",
+      "time": "2026-09-18 02:31:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30 Beijing time, the most-active Shanghai gold futures rose 0.66% to 942 yuan/gram, the most-active Shanghai silver futures rose 2.24% to 15,992 yuan/kg, and the most-active SC crude oil futures fell 5.28% to 763 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0b0a3-12d4-7118-85e8-801b34e4821c",
+      "time": "2026-09-18 02:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.2 pct to 941.93 yuan/gram in evening trade on Sept 17 (Thursday); Silver T+D rose 2.84 pct to 15,951.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0b0a2-f860-7118-85e8-7f1cbec3bfd0",
+      "time": "2026-09-18 02:31:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $101.91/bbl, down $0.52, or 0.51%."
+    },
+    {
+      "id": "5100548",
+      "time": "2026-09-18 02:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收跌0.52美元，跌幅將近0.51%，報101.91美元/桶。NYMEX 10月天然氣期貨收報2.9010美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.5073美元/加侖，NYMEX 10月取暖油期貨收報5.1139美元/加侖。"
+    },
+    {
+      "id": "te:markets:584710",
+      "time": "2026-09-18 02:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 1.72% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.72% increase."
+    },
+    {
+      "id": "5100546",
+      "time": "2026-09-18 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌5.28%，報762.50元人民幣/桶。滬金夜盤收漲0.78%，滬銀收漲2.33%。"
+    },
     {
       "id": "5100545",
       "time": "2026-09-18 02:27:54",
