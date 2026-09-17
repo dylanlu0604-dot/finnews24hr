@@ -1,7 +1,110 @@
 {
-  "updated": "2026-09-18 02:09:59",
-  "count": 13385,
+  "updated": "2026-09-18 02:13:43",
+  "count": 13390,
   "items": [
+    {
+      "id": "5100528",
+      "time": "2026-09-18 02:13:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 特朗普與墨西哥總統辛鮑姆於週三通電話。"
+    },
+    {
+      "id": "5100527",
+      "time": "2026-09-18 02:12:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普和墨西哥總統辛鮑姆即將達成貿易協議。"
+    },
+    {
+      "id": "mkt:01a0b092-332e-7118-85e8-4d0150996a10",
+      "time": "2026-09-18 02:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump withdraws nomination of Lance Shroyer for ICE director】On Sept. 17, U.S. President Trump withdrew his June 27 nomination of former Oklahoma state trooper Lance Shroyer to serve as director of U.S. Immigration and Customs Enforcement (ICE)."
+    },
+    {
+      "id": "5100526",
+      "time": "2026-09-18 02:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普撤回對蘭斯·施羅耶出任美移民與海關執法局局長提名】當地時間9月17日，美國總統特朗普撤回了提名俄克拉何馬州前州警蘭斯·施羅耶執掌美國移民與海關執法局（ICE）的決定。當地時間6月27日，特朗普提名蘭斯·施羅耶出任美國移民與海關執法局局長。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b090-9027-7118-85e8-47c553484ef1",
+      "time": "2026-09-18 02:10:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "VON DER LEYEN said she had just spoken by phone with Ukrainian President ZELENSKIY and that the European Commission will disburse EUR 3.3 bln to Ukraine tomorrow for missiles and drones."
+    },
+    {
+      "id": "mkt:01a0b090-834b-7118-85e8-3cbc7fcc0304",
+      "time": "2026-09-18 02:10:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources say LNG Canada partners may approve as early as next month an expansion plan for Canada’s first large-scale LNG export terminal."
+    },
+    {
+      "id": "5100525",
+      "time": "2026-09-18 02:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，LNG Canada合作伙伴最早可能於下月批准加拿大首個大型液化天然氣出口終端的擴建專案。"
+    },
+    {
+      "id": "mkt:01a0b090-6f5b-7118-85e8-3419536ca671",
+      "time": "2026-09-18 02:10:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's air navigation authority said Lublin Airport and Rzeszow Airport have resumed operations."
+    },
+    {
+      "id": "mkt:01a0b090-6f09-7118-85e8-2c08499a5ce1",
+      "time": "2026-09-18 02:10:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Amazon Connect is expanding from a single product into a portfolio of four agent AI solutions."
+    },
+    {
+      "id": "5100524",
+      "time": "2026-09-18 02:10:40",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【洛克希德-馬丁CEO稱愛國者導彈增產計劃超前，明年將生產2000枚】洛克希德-馬丁執行長吉姆·泰克萊特週四在摩根士丹利於加州拉古納海灘舉行的年度投資者會議上表示，該公司將急需的愛國者導彈產量提高三倍以上的計劃正超前推進，“我們明年將製造2000枚”。他稱，國際需求顯著，美國政府正透過對外軍售分配交付物件，工廠新增產能可被全部需求吸收。洛克希德-馬丁今年早些時候承諾到2030年底生產超過2000枚愛國者導彈；不過，組裝導彈只是測試、認證和交付流程中的一環，從合同到交付可能耗時超過兩年。"
+    },
+    {
+      "id": "5100523",
+      "time": "2026-09-18 02:10:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Palantir的CEO警告：AI若加劇經濟不平等將引發政治失序】帕蘭提爾執行長在節目中表示，人工智慧的興起可能在經濟上提振大多數人，但最終仍會造成經濟不平等。他警告稱：“不可能存在這樣一場革命——我變得富有50倍，而其他人只富有10%，這將導致政治動盪。”"
+    },
     {
       "id": "5100522",
       "time": "2026-09-18 02:07:55",
@@ -50,6 +153,27 @@
         "國際"
       ],
       "text": "【新解封檔案：OpenAI與微軟高管承認AI替代新聞內容，特朗普政府主張訓練屬合理使用 】新聞出版商提交的部分解封簡易判決動議顯示，OpenAI與微軟高管承認其AI工具可替代諸多媒體的文章，並承認該技術對新聞業構成威脅。微軟CEO薩蒂亞·納德拉作證稱，與聊天機器人對話已“替代”出版商網站；OpenAI高階高管尼克·特利寫道，“我們的產品很大程度上是替代性的”。該多區訴訟指控兩家公司非法使用新聞文章訓練AI，特朗普政府已敦促法院裁定，用版權作品訓練AI構成合理使用。納德拉還稱，付費牆內容應獲許可用於AI訓練，若早知OpenAI抓取並訓練付費牆資訊，他會要求OpenAI重新訓練模型。"
+    },
+    {
+      "id": "mkt:01a0b090-565b-7118-85e8-184f1c7079d5",
+      "time": "2026-09-18 02:04:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources say OpenAI and Microsoft (MSFT.O) are both aware that AI poses a threat to the news industry."
+    },
+    {
+      "id": "mkt:01a0b090-60e5-7118-85e8-25c0408758ec",
+      "time": "2026-09-18 02:03:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian President Putin has extended the validity of food embargo measures through end-2028."
     },
     {
       "id": "5100514",
@@ -123179,77 +123303,6 @@
         "WTI"
       ],
       "text": "Israeli media say the IDF is preparing to blow up tunnels on the Ali Taher ridge in southern Lebanon."
-    },
-    {
-      "id": "5088097",
-      "time": "2026-09-11 02:13:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息稱，軍方正準備炸燬黎巴嫩南部阿里·塔赫爾山脊的隧道。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609113870974752",
-      "time": "2026-09-11 02:12:30",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國國債收益率上升，此前回購規模未達目標。"
-    },
-    {
-      "id": "5088096",
-      "time": "2026-09-11 02:12:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡尼：加拿大將加入弗雷亞反彈道導彈專案。"
-    },
-    {
-      "id": "5088095",
-      "time": "2026-09-11 02:12:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲7%，現報102.78美元/桶。"
-    },
-    {
-      "id": "mkt:01a08c84-4e92-7118-8533-18c1948817da",
-      "time": "2026-09-11 02:11:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures jumped $6.00 intraday to $102.67/bbl, up 6.21%."
-    },
-    {
-      "id": "5088094",
-      "time": "2026-09-11 02:10:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利米蘭一客機滑行時發生火情 146人緊急撤離】當地時間9月10日，一架客機在義大利米蘭馬爾彭薩機場滑行過程中發生火情，機上146名乘客透過緊急滑梯撤離，其中2人在撤離過程中受輕微挫傷，其餘人員無礙。機場一度暫停執行。據悉，初步資訊顯示，火情可能由一件隨身行李中的充電寶過熱引發。（央視新聞）"
-    },
-    {
-      "id": "5088093",
-      "time": "2026-09-11 02:10:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破108美元/桶，日內漲6.71%。"
-    },
-    {
-      "id": "mkt:01a08c83-71db-7118-8533-164074d81ebb",
-      "time": "2026-09-11 02:10:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian will travel to New Delhi tomorrow (local time) to attend the 18th BRICS summit, Iranian media Fars News reports."
     }
   ]
 }
