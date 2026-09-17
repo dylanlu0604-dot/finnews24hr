@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-17 08:11:45",
-  "count": 13675,
+  "updated": "2026-09-17 08:15:31",
+  "count": 13678,
   "items": [
+    {
+      "id": "mkt:01a0acb7-7812-7118-85cc-309102a30fdc",
+      "time": "2026-09-17 08:14:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump said he expects the conflict with Iran to end soon."
+    },
+    {
+      "id": "5098612",
+      "time": "2026-09-17 08:14:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本家庭資產增至2519萬億日元 創歷史新高】根據日本央行釋出的季度資金流動報告，截至6月底，受股票價格上漲的推動，日本家庭資產較上年同期增長11%，達到創紀錄的2519萬億日元（16.1萬億美元）。由於股票價值上升，家庭股票資產躍升47%至486萬億日元。家庭現金及存款餘額增長0.5%，達到1132萬億日元日本央行持有未償日本政府債券的46.7%，為2019年第二季度以來的最低比例。外國投資者持有7.9%的日本國債。"
+    },
+    {
+      "id": "mkt:01a0acb5-df77-7118-85cc-29cc141c59b3",
+      "time": "2026-09-17 08:13:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. President TRUMP said the United States \"feeds\" European countries and could tell them \"we're not doing business with you anymore,\" asserting the U.S. \"has cars, timber and food.\""
+    },
+    {
+      "id": "5098611",
+      "time": "2026-09-17 08:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北方大部晴朗線上 四川至湖北降雨頻繁 】今起三天（9月17日至19日）我國主要降雨依然集中在華西等地，四川、重慶、湖北、貴州部分地區將有大到暴雨。在降雨影響下，這一帶地區氣溫偏低，體感溼涼。而中東部其餘地區降雨稀少、氣溫偏高，大部地區最高氣溫在30℃上下。"
+    },
+    {
+      "id": "mkt:01a0acb5-0db2-7118-85cc-2662d9594e68",
+      "time": "2026-09-17 08:12:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,280/oz, up 0.38% intraday."
+    },
+    {
+      "id": "5098610",
+      "time": "2026-09-17 08:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國不屬於那些憎恨它的人。美國屬於那些熱愛它的人。"
+    },
+    {
+      "id": "5098609",
+      "time": "2026-09-17 08:11:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內跌1.52%。"
+    },
     {
       "id": "mkt:01a0acb4-36e9-7118-85cc-1ceb91cf2be5",
       "time": "2026-09-17 08:11:26",
@@ -126201,45 +126276,6 @@
         "Impact bearish"
       ],
       "text": "WTI crude fell back below $94/barrel, down 0.24% on the day."
-    },
-    {
-      "id": "5085988",
-      "time": "2026-09-10 08:15:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據菲律賓媒體10日報道，菲律賓巴拉望省附近海域客輪起火事故已造成5人死亡，另有87人下落不明。搜救行動仍在持續進行。"
-    },
-    {
-      "id": "5085987",
-      "time": "2026-09-10 08:15:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼雅加達主要機場恢復運營 仍有航班暫停】印度尼西亞的喀拉喀託之子火山近日持續噴發，包括首都雅加達在內，多個城市的機場被迫暫停執行。隨著火山噴發產生的火山灰逐漸散去，總檯記者9日在雅加達的主要機場蘇加諾-哈達國際機場看到，機場已經恢復運營，但仍有大量航班尚未恢復正常飛行。（央視）"
-    },
-    {
-      "id": "5085986",
-      "time": "2026-09-10 08:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世貿組織：最新資料顯示全球貨物貿易仍保持韌性】世界貿易組織9日釋出的《貨物貿易晴雨表》顯示，最新的晴雨表指數為102.0，高於基準值100和今年6月的上一期指數101.7，表明貨物貿易高於趨勢水平並持續增長。世貿組織表示，儘管地緣政治和政策相關的不確定性持續存在，但全球貨物貿易增長仍保持韌性。中東衝突的負面影響繼續被人工智慧相關的電子元件等商品的強勁需求部分抵消。根據世貿組織全球貨物貿易景氣指數的編制規則，數值100為基準點，如果指數大於100，表示全球貨物貿易增長高於預期水平，反之則表示增長低於預期水平。"
-    },
-    {
-      "id": "mkt:01a088aa-adbe-7118-8513-e35a9f10479c",
-      "time": "2026-09-10 08:14:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "Copper",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【WTO: Latest data show global goods trade remains resilient】The WTO on Sept. 9 released its Goods Trade Barometer at 102.0, up from 101.7 in June and above the 100 baseline, indicating goods trade is above trend and continuing to expand. The WTO said geopolitical and policy uncertainty persists, and negative effects from the Middle East conflict are being partly offset by strong demand for AI-related electronic components. By the barometer's construction, readings above 100 signal goods trade growing faster than trend."
     }
   ]
 }

@@ -1,7 +1,82 @@
 {
   "date": "2026-09-17",
-  "count": 833,
+  "count": 840,
   "items": [
+    {
+      "id": "mkt:01a0acb7-7812-7118-85cc-309102a30fdc",
+      "time": "2026-09-17 08:14:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump said he expects the conflict with Iran to end soon."
+    },
+    {
+      "id": "5098612",
+      "time": "2026-09-17 08:14:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本家庭資產增至2519萬億日元 創歷史新高】根據日本央行釋出的季度資金流動報告，截至6月底，受股票價格上漲的推動，日本家庭資產較上年同期增長11%，達到創紀錄的2519萬億日元（16.1萬億美元）。由於股票價值上升，家庭股票資產躍升47%至486萬億日元。家庭現金及存款餘額增長0.5%，達到1132萬億日元日本央行持有未償日本政府債券的46.7%，為2019年第二季度以來的最低比例。外國投資者持有7.9%的日本國債。"
+    },
+    {
+      "id": "mkt:01a0acb5-df77-7118-85cc-29cc141c59b3",
+      "time": "2026-09-17 08:13:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. President TRUMP said the United States \"feeds\" European countries and could tell them \"we're not doing business with you anymore,\" asserting the U.S. \"has cars, timber and food.\""
+    },
+    {
+      "id": "5098611",
+      "time": "2026-09-17 08:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北方大部晴朗線上 四川至湖北降雨頻繁 】今起三天（9月17日至19日）我國主要降雨依然集中在華西等地，四川、重慶、湖北、貴州部分地區將有大到暴雨。在降雨影響下，這一帶地區氣溫偏低，體感溼涼。而中東部其餘地區降雨稀少、氣溫偏高，大部地區最高氣溫在30℃上下。"
+    },
+    {
+      "id": "mkt:01a0acb5-0db2-7118-85cc-2662d9594e68",
+      "time": "2026-09-17 08:12:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,280/oz, up 0.38% intraday."
+    },
+    {
+      "id": "5098610",
+      "time": "2026-09-17 08:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國不屬於那些憎恨它的人。美國屬於那些熱愛它的人。"
+    },
+    {
+      "id": "5098609",
+      "time": "2026-09-17 08:11:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內跌1.52%。"
+    },
     {
       "id": "mkt:01a0acb4-36e9-7118-85cc-1ceb91cf2be5",
       "time": "2026-09-17 08:11:26",
