@@ -1,7 +1,122 @@
 {
   "date": "2026-09-17",
-  "count": 820,
+  "count": 833,
   "items": [
+    {
+      "id": "mkt:01a0acb4-36e9-7118-85cc-1ceb91cf2be5",
+      "time": "2026-09-17 08:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Iran war will end soon, calls himself 'right about everything'】U.S. President Trump said the war \"will end soon\", that Iran is \"being destroyed\" and is \"very eager to reach a deal\", saying Iranian officials phoned to say \"we want to reach a deal\". He added he is \"right about everything\"."
+    },
+    {
+      "id": "5098608",
+      "time": "2026-09-17 08:11:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲0.39%。"
+    },
+    {
+      "id": "5098607",
+      "time": "2026-09-17 08:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭戰爭才是推高柴油價格的原因。"
+    },
+    {
+      "id": "mkt:01a0acb3-2cf3-7118-85cc-1642d9e2984c",
+      "time": "2026-09-17 08:10:18",
+      "tags": [
+        "MKT News",
+        "S&P/ASX 200",
+        "Impact bullish"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 25.10 points (+0.29%) at 8721.60 on Sept. 17 (Thursday)."
+    },
+    {
+      "id": "5098606",
+      "time": "2026-09-17 08:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：最難結束的戰爭是俄烏戰爭。"
+    },
+    {
+      "id": "5098605",
+      "time": "2026-09-17 08:09:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在努力解決俄羅斯和烏克蘭問題。"
+    },
+    {
+      "id": "5098604",
+      "time": "2026-09-17 08:09:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "申菱環境：與海外客戶簽訂價值4.146億美元的空調與製冷裝置合同。"
+    },
+    {
+      "id": "mkt:01a0acb1-b402-7118-85cc-0e802cb96a29",
+      "time": "2026-09-17 08:08:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Trump said the US is very close to reaching an agreement with Mexico."
+    },
+    {
+      "id": "5098603",
+      "time": "2026-09-17 08:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不需要歐洲擁有的任何東西。"
+    },
+    {
+      "id": "5098602",
+      "time": "2026-09-17 08:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與墨西哥即將達成協議。"
+    },
+    {
+      "id": "mkt:01a0acb1-174a-7118-85cc-01f3dedc0de2",
+      "time": "2026-09-17 08:08:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. to extend visa restrictions on Palestinian officials】The U.S. State Department said it will extend visa restrictions on Palestine Liberation Organization (PLO) members and Palestinian Authority (PA) officials. Israeli media reported the U.S. has for a second consecutive year refused to grant PA President Mahmoud Abbas a U.S. entry visa, forcing him to address the United Nations remotely. The visa-denial notice cited alleged links to terrorist organizations but provided no further details. Dozens of PA officials who sought to travel with him reportedly received similar denials."
+    },
+    {
+      "id": "5098601",
+      "time": "2026-09-17 08:07:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4102.54點。"
+    },
+    {
+      "id": "5098600",
+      "time": "2026-09-17 08:07:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.2%，報8,714點。"
+    },
     {
       "id": "5098599",
       "time": "2026-09-17 08:07:06",

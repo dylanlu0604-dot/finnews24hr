@@ -1,7 +1,122 @@
 {
-  "updated": "2026-09-17 08:07:59",
-  "count": 13669,
+  "updated": "2026-09-17 08:11:45",
+  "count": 13675,
   "items": [
+    {
+      "id": "mkt:01a0acb4-36e9-7118-85cc-1ceb91cf2be5",
+      "time": "2026-09-17 08:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Iran war will end soon, calls himself 'right about everything'】U.S. President Trump said the war \"will end soon\", that Iran is \"being destroyed\" and is \"very eager to reach a deal\", saying Iranian officials phoned to say \"we want to reach a deal\". He added he is \"right about everything\"."
+    },
+    {
+      "id": "5098608",
+      "time": "2026-09-17 08:11:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲0.39%。"
+    },
+    {
+      "id": "5098607",
+      "time": "2026-09-17 08:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭戰爭才是推高柴油價格的原因。"
+    },
+    {
+      "id": "mkt:01a0acb3-2cf3-7118-85cc-1642d9e2984c",
+      "time": "2026-09-17 08:10:18",
+      "tags": [
+        "MKT News",
+        "S&P/ASX 200",
+        "Impact bullish"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 25.10 points (+0.29%) at 8721.60 on Sept. 17 (Thursday)."
+    },
+    {
+      "id": "5098606",
+      "time": "2026-09-17 08:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：最難結束的戰爭是俄烏戰爭。"
+    },
+    {
+      "id": "5098605",
+      "time": "2026-09-17 08:09:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在努力解決俄羅斯和烏克蘭問題。"
+    },
+    {
+      "id": "5098604",
+      "time": "2026-09-17 08:09:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "申菱環境：與海外客戶簽訂價值4.146億美元的空調與製冷裝置合同。"
+    },
+    {
+      "id": "mkt:01a0acb1-b402-7118-85cc-0e802cb96a29",
+      "time": "2026-09-17 08:08:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Trump said the US is very close to reaching an agreement with Mexico."
+    },
+    {
+      "id": "5098603",
+      "time": "2026-09-17 08:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不需要歐洲擁有的任何東西。"
+    },
+    {
+      "id": "5098602",
+      "time": "2026-09-17 08:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與墨西哥即將達成協議。"
+    },
+    {
+      "id": "mkt:01a0acb1-174a-7118-85cc-01f3dedc0de2",
+      "time": "2026-09-17 08:08:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. to extend visa restrictions on Palestinian officials】The U.S. State Department said it will extend visa restrictions on Palestine Liberation Organization (PLO) members and Palestinian Authority (PA) officials. Israeli media reported the U.S. has for a second consecutive year refused to grant PA President Mahmoud Abbas a U.S. entry visa, forcing him to address the United Nations remotely. The visa-denial notice cited alleged links to terrorist organizations but provided no further details. Dozens of PA officials who sought to travel with him reportedly received similar denials."
+    },
+    {
+      "id": "5098601",
+      "time": "2026-09-17 08:07:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4102.54點。"
+    },
+    {
+      "id": "5098600",
+      "time": "2026-09-17 08:07:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.2%，報8,714點。"
+    },
     {
       "id": "5098599",
       "time": "2026-09-17 08:07:06",
@@ -126125,70 +126240,6 @@
         "Impact bearish"
       ],
       "text": "【WTO: Latest data show global goods trade remains resilient】The WTO on Sept. 9 released its Goods Trade Barometer at 102.0, up from 101.7 in June and above the 100 baseline, indicating goods trade is above trend and continuing to expand. The WTO said geopolitical and policy uncertainty persists, and negative effects from the Middle East conflict are being partly offset by strong demand for AI-related electronic components. By the barometer's construction, readings above 100 signal goods trade growing faster than trend."
-    },
-    {
-      "id": "5085985",
-      "time": "2026-09-10 08:11:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲3個基點，至3.73%。10年期日本國債收益率上漲3個基點，至2.91%。"
-    },
-    {
-      "id": "5085984",
-      "time": "2026-09-10 08:11:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮黃色警報】受冷空氣的影響，預計9月10日上午至11日上午，遼寧到山東沿海將出現30到80釐米的風暴增水，江蘇連雲港到浙江寧波沿海將出現40到70釐米的風暴增水。河北省秦皇島市，上海市，浙江省寧波市和舟山市的風暴潮預警級別為黃色，遼寧省大連市、營口市、葫蘆島市，河北省唐山市，山東省煙臺市、威海市、日照市和江蘇省連雲港市的風暴潮預警級別為藍色。"
-    },
-    {
-      "id": "5085983",
-      "time": "2026-09-10 08:10:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上證報：樓市新政或開啟房企融資渠道 定向可轉債進一步增量】定向可轉債市場有望迎來又一次擴容視窗。中國證監會8月底釋出《關於資本市場支援構建房地產發展新模式的意見》（以下簡稱“意見”），支援上市房企透過向特定物件發行方式再融資，並支援上市房企綜合運用股份、定向可轉債、現金等工具收購涉房資產。從已發行案例看，定向可轉債在併購重組中主要扮演兼具債底保護與股性彈性的創新支付工具角色。業內人士認為，在房地產領域，定向可轉債此前主要承擔專案融資功能，未來隨著行業併購需求上升，其在房地產行業中的應用場景有望進一步豐富。業內人士表示，今年已披露預案的定向可轉債已達12只，遠高於去年同期，具備發行擴容的基礎。"
-    },
-    {
-      "id": "mkt:01a088a6-b6a6-7118-8513-dc2243c47d8b",
-      "time": "2026-09-10 08:10:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 120.10 points, or 1.35%, at 8,791.30 on Thursday, Sept. 10."
-    },
-    {
-      "id": "5085982",
-      "time": "2026-09-10 08:09:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果釋出首款摺疊屏手機 9月以來17只概念股獲得融資資金加倉】蘋果公司在北京時間週四凌晨1點召開秋季釋出會，推出iPhone 18 Pro系列手機以及首款摺疊屏手機iPhone Duo。據證券時報·資料寶統計，A股中，摺疊屏相關概念股有40餘隻，天祿科技、東山精密年內股價翻倍，長盈精密、星星科技、錦富技術等年內跌幅超30%。下半年以來，有20只概念股獲得機構調研，其中京東方A、藍思科技、TCL科技獲得百家以上機構調研。據資料寶統計，從資金加倉角度看，9月以來（截至8日），17只概念股獲得融資資金加倉，其中TCL科技、東山精密融資加倉金額均超1億元，恆銘達、強瑞技術、精研科技獲加倉均超5000萬元。"
-    },
-    {
-      "id": "mkt:01a088a5-9ffd-7118-8513-d6b5ccd7061f",
-      "time": "2026-09-10 08:09:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Traders ignore Bessent warnings; Treasuries and oil move counter to intent】Bessent has repeatedly warned investors they would be wiped out if they bet against him, saying whether they were driving up oil, pushing down the yen or lifting U.S. Treasury yields they were mistaken because he sits on the other side with access to government policy information — a point he frames as information asymmetry. Since he began publicly targeting Treasury and oil markets, prices have moved contrary to his warnings. Mark Spindel, founder and CIO of Potomac River Capital, said markets have seen through the bluff, and large federal deficits plus skepticism about the Fed’s ability to tame inflation are undermining Bessent’s interventions."
-    },
-    {
-      "id": "5085981",
-      "time": "2026-09-10 08:08:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果釋出首款摺疊屏手機 20只概念股年內獲機構調研】蘋果公司在北京時間週四凌晨1點召開秋季釋出會，推出iPhone 18 Pro系列手機以及首款摺疊屏手機iPhone Duo。據證券時報·資料寶統計，A股中，摺疊屏相關概念股有40餘隻，天祿科技、東山精密年內股價翻倍，長盈精密、星星科技、錦富技術等年內跌幅超30%。下半年以來，有20只概念股獲得機構調研，其中京東方A、藍思科技、TCL科技獲得百家以上機構調研。據資料寶統計，從資金加倉角度看，9月以來（截至8日），17只概念股獲得融資資金加倉，其中TCL科技、東山精密融資加倉金額均超1億元，恆銘達、強瑞技術、精研科技獲加倉均超5000萬元。"
     }
   ]
 }
