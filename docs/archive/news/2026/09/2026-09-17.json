@@ -1,7 +1,92 @@
 {
   "date": "2026-09-17",
-  "count": 801,
+  "count": 810,
   "items": [
+    {
+      "id": "5098592",
+      "time": "2026-09-17 08:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪董秘李黔：未來會繼續在半導體領域投入和發力】9月16日，比亞迪在比亞迪紹興賽車場舉辦高管面對面股東交流會，比亞迪集團董事會秘書、投資處總經理李黔表示，半導體是比亞迪非常重要的能力之一，晶片種類覆蓋13大類，567款車規晶片產品，從最早的功率半導體到模擬晶片，再到今年向邏輯晶片的拓展。比亞迪半導體擁有晶片設計、晶圓製造、封裝測試全鏈路設計與製造的能力。未來比亞迪在半導體領域，無論是設計還是生產，都還會持續突破。隨著汽車智慧化的發展，整車半導體的價值量也會顯著提升，因此比亞迪未來還會繼續在半導體領域投入和發力。今年推出的璇璣A3晶片是中國首款車規級4nm智駕晶片，目前已開啟規模化量產。"
+    },
+    {
+      "id": "5098591",
+      "time": "2026-09-17 08:02:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網路消費繁榮發展 支援政策仍有發力空間】9月15日，國家統計局釋出的資料顯示，今年1月份至8月份，全國網上商品和服務零售額134766億元，同比增長4.6%。受訪專家普遍表示，相關部門需要繼續謀劃出臺務實管用的增量政策，引導網路交易經營者依法合規經營，營造安全放心的網路消費環境，切實維護好廣大消費者的合法權益；補齊下沉市場商品流通短板，鼓勵並支援快遞企業夯實縣域硬體基礎設施，提升末端配送效率；提高線上服務供給質量，推動服務內容、收費專案、退訂條件以及服務人員資質等清晰展示，增強線上承諾與線下履約的一致性。（證券日報）"
+    },
+    {
+      "id": "5098590",
+      "time": "2026-09-17 08:01:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鈉電池龍頭髮布新品 業績高增長超跌概念股出爐】在鈉電產業化從技術驗證走向規模化應用的關鍵節點，國產鈉電企業新品迎來新突破。據中國能源報訊息，9月16日，海辰儲能在“朝夕為證”線上新品釋出會上，正式釋出新一代儲能專用鈉電一體化解決方案，推出搭載∞Cell N785Ah大容量鈉離子電池的4MWh鈉電儲能系統——∞Power N4.0MWh，並宣佈將於2027年開啟全鏈條量產交付。據證券時報·資料寶統計，今年上半年淨利潤同比增長20%以上（含扭虧為盈）的鈉電池概念股有25只，其中22只股票最新收盤價較年內高點回撤30%以上。從機構關注情況來看，上述22只業績高增長且股價大幅回撤的鈉電池概念股中，截至9月16日收盤，共有6股獲得10家以上機構“積極型”評級（含買入、增持、強烈推薦等），分別是寧德時代、天賜材料、海博思創、先導智慧、當升科技、鵬輝能源。"
+    },
+    {
+      "id": "mkt:01a0acaa-ef3b-7118-85cb-ed207a541d10",
+      "time": "2026-09-17 08:01:18",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 661.77 points, or 1.04%, at 64,584.77 points on Thursday, Sept. 17."
+    },
+    {
+      "id": "mkt:01a0acaa-eb48-7118-85cb-e364f4c4a461",
+      "time": "2026-09-17 08:01:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities sees one more 25bps Fed hike this year】CITIC Securities says the Fed raised 25bps in September as expected and upgraded its growth and inflation forecasts; the dot plot and Fed remarks were hawkish. Strong market expectations made the September hike the path of least resistance. The timing and size of further hikes will depend heavily on oil prices, which remain unpredictable; with headline inflation YoY likely to drop notably in early next year, the case for additional tightening should weaken. CITIC expects one more 25bps hike before year-end and a likely pause next year. US financial conditions are unlikely to ease meaningfully; investors should favour assets with fundamental support rather than those that rely solely on liquidity."
+    },
+    {
+      "id": "5098589",
+      "time": "2026-09-17 08:00:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲1.1%，至6793.71點。"
+    },
+    {
+      "id": "5098588",
+      "time": "2026-09-17 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.9%，至6779.02點。"
+    },
+    {
+      "id": "5098587",
+      "time": "2026-09-17 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64643.58點，漲幅1.13％。韓國綜合股價指數（KOSPI）開盤上漲0.9％，至6779.02點。"
+    },
+    {
+      "id": "5098586",
+      "time": "2026-09-17 08:00:11",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計美聯儲年內將再加息25bps，明年可能按兵不動】中信證券研報認為，美聯儲9月如期加息25bps，上調今年增長及通脹預測，點陣圖和沃什發言均釋放鷹派訊號。市場強烈的預期壓力讓加息成為美聯儲順水推舟的選擇。美聯儲後續加息的節奏與幅度在很大程度上取決於油價，這難以預測，但鑑於總體通脹率同比或會在明年初明顯下行，屆時繼續加息的理由應會弱化。我們預計美聯儲年內將再加息25bps，明年可能按兵不動。美國金融條件目前難以有意義地寬鬆，在增長敘事下應尋找有基本面支撐而非僅受益於流動性的資產。"
+    },
     {
       "id": "5098585",
       "time": "2026-09-17 07:58:08",

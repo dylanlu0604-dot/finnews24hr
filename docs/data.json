@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-17 08:00:20",
-  "count": 13664,
+  "updated": "2026-09-17 08:04:13",
+  "count": 13661,
   "items": [
+    {
+      "id": "5098592",
+      "time": "2026-09-17 08:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪董秘李黔：未來會繼續在半導體領域投入和發力】9月16日，比亞迪在比亞迪紹興賽車場舉辦高管面對面股東交流會，比亞迪集團董事會秘書、投資處總經理李黔表示，半導體是比亞迪非常重要的能力之一，晶片種類覆蓋13大類，567款車規晶片產品，從最早的功率半導體到模擬晶片，再到今年向邏輯晶片的拓展。比亞迪半導體擁有晶片設計、晶圓製造、封裝測試全鏈路設計與製造的能力。未來比亞迪在半導體領域，無論是設計還是生產，都還會持續突破。隨著汽車智慧化的發展，整車半導體的價值量也會顯著提升，因此比亞迪未來還會繼續在半導體領域投入和發力。今年推出的璇璣A3晶片是中國首款車規級4nm智駕晶片，目前已開啟規模化量產。"
+    },
+    {
+      "id": "5098591",
+      "time": "2026-09-17 08:02:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網路消費繁榮發展 支援政策仍有發力空間】9月15日，國家統計局釋出的資料顯示，今年1月份至8月份，全國網上商品和服務零售額134766億元，同比增長4.6%。受訪專家普遍表示，相關部門需要繼續謀劃出臺務實管用的增量政策，引導網路交易經營者依法合規經營，營造安全放心的網路消費環境，切實維護好廣大消費者的合法權益；補齊下沉市場商品流通短板，鼓勵並支援快遞企業夯實縣域硬體基礎設施，提升末端配送效率；提高線上服務供給質量，推動服務內容、收費專案、退訂條件以及服務人員資質等清晰展示，增強線上承諾與線下履約的一致性。（證券日報）"
+    },
+    {
+      "id": "5098590",
+      "time": "2026-09-17 08:01:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鈉電池龍頭髮布新品 業績高增長超跌概念股出爐】在鈉電產業化從技術驗證走向規模化應用的關鍵節點，國產鈉電企業新品迎來新突破。據中國能源報訊息，9月16日，海辰儲能在“朝夕為證”線上新品釋出會上，正式釋出新一代儲能專用鈉電一體化解決方案，推出搭載∞Cell N785Ah大容量鈉離子電池的4MWh鈉電儲能系統——∞Power N4.0MWh，並宣佈將於2027年開啟全鏈條量產交付。據證券時報·資料寶統計，今年上半年淨利潤同比增長20%以上（含扭虧為盈）的鈉電池概念股有25只，其中22只股票最新收盤價較年內高點回撤30%以上。從機構關注情況來看，上述22只業績高增長且股價大幅回撤的鈉電池概念股中，截至9月16日收盤，共有6股獲得10家以上機構“積極型”評級（含買入、增持、強烈推薦等），分別是寧德時代、天賜材料、海博思創、先導智慧、當升科技、鵬輝能源。"
+    },
+    {
+      "id": "mkt:01a0acaa-ef3b-7118-85cb-ed207a541d10",
+      "time": "2026-09-17 08:01:18",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 661.77 points, or 1.04%, at 64,584.77 points on Thursday, Sept. 17."
+    },
+    {
+      "id": "mkt:01a0acaa-eb48-7118-85cb-e364f4c4a461",
+      "time": "2026-09-17 08:01:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities sees one more 25bps Fed hike this year】CITIC Securities says the Fed raised 25bps in September as expected and upgraded its growth and inflation forecasts; the dot plot and Fed remarks were hawkish. Strong market expectations made the September hike the path of least resistance. The timing and size of further hikes will depend heavily on oil prices, which remain unpredictable; with headline inflation YoY likely to drop notably in early next year, the case for additional tightening should weaken. CITIC expects one more 25bps hike before year-end and a likely pause next year. US financial conditions are unlikely to ease meaningfully; investors should favour assets with fundamental support rather than those that rely solely on liquidity."
+    },
+    {
+      "id": "5098589",
+      "time": "2026-09-17 08:00:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲1.1%，至6793.71點。"
+    },
+    {
+      "id": "5098588",
+      "time": "2026-09-17 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.9%，至6779.02點。"
+    },
+    {
+      "id": "5098587",
+      "time": "2026-09-17 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64643.58點，漲幅1.13％。韓國綜合股價指數（KOSPI）開盤上漲0.9％，至6779.02點。"
+    },
+    {
+      "id": "5098586",
+      "time": "2026-09-17 08:00:11",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計美聯儲年內將再加息25bps，明年可能按兵不動】中信證券研報認為，美聯儲9月如期加息25bps，上調今年增長及通脹預測，點陣圖和沃什發言均釋放鷹派訊號。市場強烈的預期壓力讓加息成為美聯儲順水推舟的選擇。美聯儲後續加息的節奏與幅度在很大程度上取決於油價，這難以預測，但鑑於總體通脹率同比或會在明年初明顯下行，屆時繼續加息的理由應會弱化。我們預計美聯儲年內將再加息25bps，明年可能按兵不動。美國金融條件目前難以有意義地寬鬆，在增長敘事下應尋找有基本面支撐而非僅受益於流動性的資產。"
+    },
     {
       "id": "5098585",
       "time": "2026-09-17 07:58:08",
@@ -126031,130 +126116,6 @@
         "公司"
       ],
       "text": "【中銀航空租賃：購買並長期租賃12架空客A320neo飛機 】中銀航空租賃在港交所公告， 於 2026 年 9 月 9 日，本公司 (1) 與空中客車公司（“空客”）訂立協議，向空客購買 12 架空客 A320NEO 飛機（“飛機”）；及 (2) 與 Aerovías del Continente Americano S.A. Avianca（“航空公司”）就上述飛機訂立長期租賃。交易事項構成本公司的一項合格飛機租賃業務。"
-    },
-    {
-      "id": "5085978",
-      "time": "2026-09-10 08:03:07",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【經濟日報金觀平：注資金融央企固根基利長遠】財政部近日宣佈，將於近期發行特別國債3000億元，支援工商銀行、農業銀行等8家中央金融企業補充核心一級資本。加上其他股東的認購，此次增資規模達3600億元。作為國民經濟的血脈，金融是國家核心競爭力的重要組成部分。發行特別國債支援有關中央金融企業補充資本，是未雨綢繆的前瞻性安排、強本固基的長遠之舉，對建設金融強國、助力宏觀經濟平穩執行意義重大。"
-    },
-    {
-      "id": "5085977",
-      "time": "2026-09-10 08:02:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4390美元/盎司，日內跌0.27%。"
-    },
-    {
-      "id": "5085976",
-      "time": "2026-09-10 08:02:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "中銀航空租賃：購買並長期租賃12架空客A320neo飛機，12架空客A320neo飛機定於2029年交付。"
-    },
-    {
-      "id": "mkt:01a0889f-97f7-7118-8513-ca016fa04c08",
-      "time": "2026-09-10 08:02:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) will support Australia in building up to 2 GW of AI infrastructure by 2027."
-    },
-    {
-      "id": "mkt:01a0889f-73c2-7118-8513-c0160f93e4d5",
-      "time": "2026-09-10 08:02:26",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "KOSPI opened on Thursday, Sept. 10, up 4.13 points, or 0.06%, at 7,055.77. SK Hynix rose 1%; Samsung Electronics slipped slightly."
-    },
-    {
-      "id": "5085975",
-      "time": "2026-09-10 08:02:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：到2027年將為澳大利亞規模最高達2吉瓦的人工智慧基礎設施建設提供支援。"
-    },
-    {
-      "id": "te:markets:582528",
-      "time": "2026-09-10 08:01:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Gains Ahead of US Inflation Data — Silver steadied above $67 an ounce on Thursday, holding gains from the previous session as investors cautiously awaited key US inflation readings that could provide further insight into the Federal Reserve’s next policy move. The US producer price index report for August is due later today, followed by the consumer inflation report on Friday. Precious metals found support from a weaker dollar, as well as continued demand for their long-term hedging appeal despite near-term pressure from higher oil prices and bond yields. Oil prices climbed to multi-month highs as the US-Iran conflict intensified, stoking inflation concerns and strengthening expectations for near-term rate hikes. US Treasury yields also moved higher after the Treasury Department announced plans to buy back up to $6 billion in longer-term debt, disappointing some investors who had expected a more substantial increase."
-    },
-    {
-      "id": "5085974",
-      "time": "2026-09-10 08:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央宣傳部、教育部聯合釋出2026年“最美教師”  】在第42個教師節到來之際，中央宣傳部、教育部向全社會發布“最美教師”先進事蹟。 萬勇善、馬天祥、馬超群、馬翠玲、王文科、王永貴、王慶、王如竹、王振、文韜、馮英巧、劉桂華、劉雪雅、李志軍、汪洋、沈澤花、張福鎖、林茂、趙羲、侯光良、郭紹青、崔玉秋、章振樂、彭豔峰、斯郎平措等25名同志光榮入選。"
-    },
-    {
-      "id": "mkt:01a0889e-5b30-7118-8513-babf25b70537",
-      "time": "2026-09-10 08:01:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 387.07 points, or 0.59%, at 64,755.71 on Thursday, Sept. 10."
-    },
-    {
-      "id": "5085973",
-      "time": "2026-09-10 08:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超1.4億人次！青茂口岸開通五週年成績單出爐】日前，珠海青茂口岸迎來開通五週年。據拱北海關統計，五年來，海關累計驗放進出境旅客超1.4億人次，剛過去的暑假通關人數超650萬人次，創下五年來最高紀錄。"
-    },
-    {
-      "id": "5085972",
-      "time": "2026-09-10 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.2%，至7038.85點。"
-    },
-    {
-      "id": "mkt:01a0889d-acfd-7118-8513-b3e77207ced0",
-      "time": "2026-09-10 08:00:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) is partnering with Australia’s data-center ecosystem to expand AI infrastructure capacity."
     }
   ]
 }
