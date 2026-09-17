@@ -1,7 +1,178 @@
 {
-  "updated": "2026-09-17 17:30:46",
+  "updated": "2026-09-17 17:34:33",
   "count": 13586,
   "items": [
+    {
+      "id": "mkt:01a0aeb7-6d8b-7118-85d9-08784590488d",
+      "time": "2026-09-17 17:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi said fiscal sustainability cannot be maintained without economic growth."
+    },
+    {
+      "id": "5099529",
+      "time": "2026-09-17 17:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北路智控：認繳5000萬元共投產業基金】北路智控公告，公司與專業投資機構共同簽署合夥協議，全體合夥人認繳出資額為10億元，公司作為有限合夥人以自有資金認繳出資5000萬元，佔基金認繳出資總額的5%。產業基金主要投資新一代資訊科技領域，本次投資無需提交董事會及股東會審議。"
+    },
+    {
+      "id": "5099528",
+      "time": "2026-09-17 17:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相：沒有經濟增長就無法維持財政可持續性。"
+    },
+    {
+      "id": "mkt:01a0aeb6-f20c-7118-85d9-04c675a171e9",
+      "time": "2026-09-17 17:33:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "DXY"
+      ],
+      "text": "Japan's Prime Minister Takaichi said she will accelerate measures under an expansionary fiscal policy to achieve robust economic growth."
+    },
+    {
+      "id": "5099527",
+      "time": "2026-09-17 17:33:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將加快政策實施，打造強勁經濟。"
+    },
+    {
+      "id": "5099526",
+      "time": "2026-09-17 17:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：FCA及其合作伙伴已對倫敦的非法點對點加密貨幣交易採取進一步行動。"
+    },
+    {
+      "id": "5099525",
+      "time": "2026-09-17 17:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨豐科技：簽訂募集資金專戶儲存四方監管協議】晨豐科技公告稱，公司向特定物件發行A股股票募集資金淨額為4.19億元，已於2025年12月4日到位。近日，公司、控股孫公司北方電網（奈曼旗）配售電有限責任公司、保薦機構長江證券承銷保薦有限公司與交通銀行股份有限公司錫林郭勒分行簽署《募集資金專戶儲存四方監管協議》。該專戶用於北方電網（奈曼旗）補充流動資金專案募集資金的儲存和使用，截至2026年8月27日專戶餘額為0萬元。協議與上交所範本不存在重大差異。"
+    },
+    {
+      "id": "5099524",
+      "time": "2026-09-17 17:32:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新芝生物：終止發行股份及支付現金收購清博華100%股權】新芝生物公告，公司此前擬以發行股份及支付現金方式收購北京清博華科技有限公司100%股權。2026年9月17日，公司董事會審議透過終止本次重大資產重組及簽署終止協議，原因是交易雙方無法就核心條款達成一致。本次終止不涉及違約，對公司沒有實質性影響。"
+    },
+    {
+      "id": "mkt:01a0aeb5-9d9e-7118-85d8-faad5addae7c",
+      "time": "2026-09-17 17:32:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "CNH",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【China maintains independent monetary policy; FX market remains stable】Since August global markets have been choppy but the renminbi has traded broadly stable-to-firmer with two-way swings and China’s FX market has remained orderly, with cross-border flows showing net inflows. Wang Yifeng, deputy director at Everbright Securities’ research institute, said the Fed’s recent hike widened the US–China yield inversion but had been largely priced in and was accompanied by a noticeable rise in US Treasury yields. He described the Fed move as preemptive, aimed at bolstering market confidence amid sticky inflation. Domestic export prospects remain reasonably certain and consumer inflation in China is mild, so the effect of US tightening on cross-border flows is judged manageable. China’s monetary policy remains accommodative with ample liquidity to support real-economy financing, and the renminbi has shown resilience—rate moves in major economies are judged to have limited direct impact on the currency."
+    },
+    {
+      "id": "5099523",
+      "time": "2026-09-17 17:32:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【我國貨幣政策堅持以我為主 外匯市場繼續保持穩健執行】美聯儲加息對我國宏觀經濟和貨幣政策走向是否有影響？8月以來，國際金融市場延續震盪走勢，人民幣對美元呈現穩中偏強、雙向波動趨勢，我國外匯市場保持穩健執行，跨境資金保持淨流入。光大證券研究所副所長王一峰表示，本次美聯儲加息後，雖然中美利差倒掛幅度有所擴大，考慮到市場前期對此預期相對充分，近期美債利率已明顯抬高。本次加息屬於預防性加息，反映了美聯儲希望在通脹高位橫盤的背景下，重建市場信任。業內人士表示，我國出口形勢確定性較高，國內通脹水平溫和低位執行，美聯儲加息對跨境資金流動影響可控。我國貨幣政策維持流動性寬鬆，有力支援了實體經濟融資需求。人民幣匯率韌性十足，海外主要經濟體加息與否對人民幣匯率直接影響較小。（央視財經）"
+    },
+    {
+      "id": "mkt:01a0aeb5-4c05-7118-85d8-f506a4c70ce4",
+      "time": "2026-09-17 17:31:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "9988.HK",
+        "Impact bearish",
+        "981.HK"
+      ],
+      "text": "Southbound Stock Connect net bought 3.363 bln yuan today. Shanghai–Hong Kong Stock Connect: Zhipu net bought HK$687m, Tencent Holdings HK$334m; Alibaba Group was the largest net seller at HK$322m. Shenzhen–Hong Kong Stock Connect: Zhipu net bought HK$1.14 bln, Kingboard Laminates HK$194m; SMIC was the largest net seller at HK$293m."
+    },
+    {
+      "id": "5099522",
+      "time": "2026-09-17 17:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前漲超2%】阿斯麥美股盤前漲超2%，現報1634.5美元。"
+    },
+    {
+      "id": "5099521",
+      "time": "2026-09-17 17:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長鑫科技今日大宗交易平價成交610萬股，成交額3.26億元】9月17日，長鑫科技大宗交易成交610萬股，成交額3.26億元，佔當日總成交額的2.84%，成交價53.47元，較市場收盤價53.47元持平。"
+    },
+    {
+      "id": "mkt:01a0aeb5-0e90-7118-85d8-e938029b6642",
+      "time": "2026-09-17 17:31:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran’s foreign ministry said it has ordered a Swedish diplomat to leave in retaliation for Sweden taking similar action."
+    },
+    {
+      "id": "5099520",
+      "time": "2026-09-17 17:31:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部稱，為報復瑞典的類似行動，已要求一名瑞典外交官離境。"
+    },
+    {
+      "id": "5099519",
+      "time": "2026-09-17 17:31:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "9月17日，騰訊購回23.5萬股股份，涉資1.003億港元。"
+    },
+    {
+      "id": "5099518",
+      "time": "2026-09-17 17:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊9月17日回購價值1.003億港元股份。"
+    },
+    {
+      "id": "5099517",
+      "time": "2026-09-17 17:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：9月17日回購45萬股H股 擬作庫存股】安徽海螺水泥股份有限公司公告稱，2026年9月17日，公司透過香港聯交所回購45萬股H股，每股回購價區間為16.18港元至16.31港元，回購總金額為731.87萬港元，本次回購股份擬持作庫存股份。本次回購佔事件前已發行股份（不含庫存股）比例為0.035%。截至2026年9月17日，公司已發行股份（不含庫存股）為12.84億股，庫存股份為1541.5萬股，已發行股份總數為12.996億股。"
+    },
     {
       "id": "5099516",
       "time": "2026-09-17 17:30:13",
@@ -125158,173 +125329,6 @@
         "其他"
       ],
       "text": "武田藥品工業株式會社：武田宣佈研發部門總裁安迪·普拉姆計劃退休，將於2027年6月正式生效。"
-    },
-    {
-      "id": "5087049",
-      "time": "2026-09-10 17:34:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "HD現代重工將投資1萬億韓元用於未來發動機和SMR業務。"
-    },
-    {
-      "id": "5087048",
-      "time": "2026-09-10 17:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國足協撤回對詹尼·因凡蒂諾競選連任國際足聯主席的支援。"
-    },
-    {
-      "id": "mkt:01a08aaa-930c-7118-8523-5516371c2bdb",
-      "time": "2026-09-10 17:33:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "GAC Group said cumulative deliveries of its Trumpchi M8 model have surpassed 500,000 units."
-    },
-    {
-      "id": "5087047",
-      "time": "2026-09-10 17:33:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國批准為電動汽車設定分級消費稅稅率的方案。"
-    },
-    {
-      "id": "5087046",
-      "time": "2026-09-10 17:33:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華能國際：完成發行15億元科技創新公司債券】華能國際公告稱，公司面向專業投資者公開發行面值不超過400億元的公司債券已獲證監會同意註冊，近日完成2026年面向專業投資者公開發行科技創新公司債券（第二期）發行。本期債券擬發行規模不超過15億元，設10年期品種一、15年期品種二，其中品種一實際發行額15億元，發行利率1.95%，品種二取消發行。募集資金扣除發行費用後擬用於償還有息債務、補充流動資金、專案投資及運營等生產性支出。"
-    },
-    {
-      "id": "5087045",
-      "time": "2026-09-10 17:32:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報66.54美元/盎司。"
-    },
-    {
-      "id": "mkt:01a08aa9-c890-7118-8523-4f891c6d7019",
-      "time": "2026-09-10 17:32:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 1.00% intraday to $66.60/oz."
-    },
-    {
-      "id": "5087044",
-      "time": "2026-09-10 17:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會核准5家機構合格境外投資者資格】9月10日，中國證監會網站釋出批覆，核准五銳集團（新加坡）有限公司、勝諾國際貿易有限公司、奧普蒂姆斯商品有限責任公司、詩董國際有限公司和睿量資產管理（香港）有限公司合格境外投資者資格。"
-    },
-    {
-      "id": "5087043",
-      "time": "2026-09-10 17:32:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：將依法開展價格監督檢查，查處價格違法行為，維護良好市場價格秩序】國家發展改革委有關負責同志就《關於重要工業品低價無序競爭成本核算有關事項的通知》答記者問。為確保《通知》落實到位，將重點做好三方面工作。一是加強市場監測。聚焦低價無序競爭問題突出的重要工業品生產領域，密切監測相關價格、成本等市場變化情況，及時發現問題線索。二是加強行業自律。指導有關機構探索制定行業成本核算團體標準，為經營者依法合規經營提供參考，進一步規範行業競爭秩序。三是加強監管執法。適時對問題突出的經營者開展提醒告誡，必要時開展成本調查，核算相關成本，引導經營者自覺規範價格行為。依法開展價格監督檢查，查處價格違法行為，維護良好市場價格秩序。"
-    },
-    {
-      "id": "mkt:01a08aa8-ade9-7118-8523-46939a7f7d62",
-      "time": "2026-09-10 17:31:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish",
-        "0883.HK",
-        "0981.HK",
-        "Impact bearish"
-      ],
-      "text": "Southbound funds net bought CNY4.551bn today. Via Shanghai Stock Connect, Tencent Holdings and Yangtze Optical Fibre and Cable led inflows at HKD819m and HKD331m respectively; Zhipu posted the largest net outflow at HKD890m. Via Shenzhen Stock Connect, CNOOC and Yangtze Optical Fibre and Cable had net inflows of HKD227m and HKD77m; SMIC recorded the largest net outflow at HKD633m."
-    },
-    {
-      "id": "mkt:01a08aa8-ad36-7118-8523-398865b526cd",
-      "time": "2026-09-10 17:31:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Oman official selling price for November-loading crude set at $119.30/bbl."
-    },
-    {
-      "id": "5087042",
-      "time": "2026-09-10 17:31:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華海藥業：股東周明華質押1300萬股公司股份】華海藥業公告稱，公司5%以上股東周明華本次質押1300萬股公司股份，佔其所持股份比例5.79%，佔公司總股本比例0.87%，質押用途為上海國際醫學中心有限公司的融資提供質押擔保，質權人為平安銀行股份有限公司上海分行。周明華持有公司股份2.24億股，佔公司總股本14.99%；本次質押完成後，其累計質押股份5800萬股，佔其所持股份25.84%，佔公司總股本3.87%。"
-    },
-    {
-      "id": "5087041",
-      "time": "2026-09-10 17:31:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雅本化學：首次回購股份78萬股 成交金額402.52萬元】雅本化學公告稱，公司回購股份方案為使用自有及自籌資金，以不低於2500萬元且不超過5000萬元、不超過6.89元/股的價格集中競價回購股份，用於員工持股計劃或股權激勵，回購期限自董事會審議透過之日起不超過6個月。2026年9月10日，公司首次回購股份78萬股，佔總股本的0.0810%，最高成交價5.20元/股，最低成交價5.13元/股，成交總金額402.52萬元（不含交易費用）。後續公司將在回購期限內繼續推進回購計劃。"
-    },
-    {
-      "id": "mkt:01a08aa8-6174-7118-8523-301b96a87e6a",
-      "time": "2026-09-10 17:31:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Pakistan says no immediate military response to Houthi attacks; will act under Mecca Agreement when 'time comes'】Pakistan said on Thursday it is not discussing a military response to Houthi attacks on Saudi Arabia but will act under the Mecca Agreement \"when the time comes\", foreign ministry spokesman Sajjad Haider Khan said at a weekly briefing. The joint defence pact signed last month with Saudi Arabia and Turkey says an attack on any of the three states will be treated as an attack on all. Khan’s comments followed Houthi strikes this week on Saudi cities and energy infrastructure that Reuters said have opened a second front in the Middle East. Islamabad has warned Iran to restrain its Houthi ally and condemned the attacks but gave no detail on how it might fulfil obligations under the pact."
-    },
-    {
-      "id": "te:economy:582726",
-      "time": "2026-09-10 17:31:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Croatia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Croatia Producer Prices at 3-Month High — Producer prices in Croatia increased by 6.2% year-on-year in August 2026, accelerating from 4.9% in the previous month and marking the highest reading since May. Costs in mining and quarrying advanced sharply (28.7% vs 13.9% in July), reflecting higher prices in the extraction of crude petroleum and natural gas (54.1% vs 19.5%). Additionally, manufacturing prices continued to rise (5.6% vs 4.3%), particularly for the manufacture of coke and refined petroleum (59.6% vs 38.7%), basic metals (6.2% vs 3.6%), chemicals and chemical products (6.0% vs 5.2%), wearing apparel (2.1% vs 1.5%), and wood and wood products, except furniture, articles of straw and plaiting materials (6.5% vs 6.1%). Prices for electricity, gas, steam and air conditioning supply also edged higher (5.6% vs 5.4%). On a monthly basis, producer prices rose 1.3% in August, recovering from a 0.2% fall in the previous month."
-    },
-    {
-      "id": "mkt:01a08aa7-ffcb-7118-8523-28b8ad54fe8d",
-      "time": "2026-09-10 17:31:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AliExpress launches heavy-item delivery in US; US merchants using platform fulfillment more than double MoM】AliExpress said its platform fulfillment service 'Platform Fulfillment' has launched heavy-item delivery in the US as part of accelerated localization. The number of US merchants using the service more than doubled month-on-month in August versus July. Platform Fulfillment, launched in June, currently covers the US, Poland, France, Spain and Mexico; the Germany site is scheduled to go live mid-September."
-    },
-    {
-      "id": "5087040",
-      "time": "2026-09-10 17:30:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【財務總監郭珮瑛擬明年離任 滙豐控股已著手遴選繼任者】滙豐控股表示，財務總監郭珮瑛計劃於2027年離任，公司已啟動對繼任者的遴選。這家英國銀行週四在一份宣告中表示，郭珮瑛卸任後將擔任集團行政總裁的顧問，參與“持續推進的戰略專案”，並確保職責順利交接。滙豐沒有說明她離職的原因。郭珮瑛在宣告中表示，“目前滙豐在財務和戰略層面都處於穩健狀態，對我的職業生涯而言，2027年是迎接新的領導崗位機會、並在不同環境中運用自身經驗的合適時機。”滙豐表示，將同時考慮內部和外部人選擔任下一任財務總監。郭珮瑛正式卸任財務總監的日期將在“適時”確認，但最遲不會晚於公司明年的年度股東大會。"
-    },
-    {
-      "id": "5087039",
-      "time": "2026-09-10 17:30:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利債務管理局：匈牙利發行12個月短期國庫券，平均收益率為5.07%，前次拍賣平均收益率為5.15%。"
     }
   ]
 }

@@ -1,7 +1,178 @@
 {
   "date": "2026-09-17",
-  "count": 1830,
+  "count": 1848,
   "items": [
+    {
+      "id": "mkt:01a0aeb7-6d8b-7118-85d9-08784590488d",
+      "time": "2026-09-17 17:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi said fiscal sustainability cannot be maintained without economic growth."
+    },
+    {
+      "id": "5099529",
+      "time": "2026-09-17 17:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北路智控：認繳5000萬元共投產業基金】北路智控公告，公司與專業投資機構共同簽署合夥協議，全體合夥人認繳出資額為10億元，公司作為有限合夥人以自有資金認繳出資5000萬元，佔基金認繳出資總額的5%。產業基金主要投資新一代資訊科技領域，本次投資無需提交董事會及股東會審議。"
+    },
+    {
+      "id": "5099528",
+      "time": "2026-09-17 17:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相：沒有經濟增長就無法維持財政可持續性。"
+    },
+    {
+      "id": "mkt:01a0aeb6-f20c-7118-85d9-04c675a171e9",
+      "time": "2026-09-17 17:33:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "DXY"
+      ],
+      "text": "Japan's Prime Minister Takaichi said she will accelerate measures under an expansionary fiscal policy to achieve robust economic growth."
+    },
+    {
+      "id": "5099527",
+      "time": "2026-09-17 17:33:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將加快政策實施，打造強勁經濟。"
+    },
+    {
+      "id": "5099526",
+      "time": "2026-09-17 17:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：FCA及其合作伙伴已對倫敦的非法點對點加密貨幣交易採取進一步行動。"
+    },
+    {
+      "id": "5099525",
+      "time": "2026-09-17 17:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨豐科技：簽訂募集資金專戶儲存四方監管協議】晨豐科技公告稱，公司向特定物件發行A股股票募集資金淨額為4.19億元，已於2025年12月4日到位。近日，公司、控股孫公司北方電網（奈曼旗）配售電有限責任公司、保薦機構長江證券承銷保薦有限公司與交通銀行股份有限公司錫林郭勒分行簽署《募集資金專戶儲存四方監管協議》。該專戶用於北方電網（奈曼旗）補充流動資金專案募集資金的儲存和使用，截至2026年8月27日專戶餘額為0萬元。協議與上交所範本不存在重大差異。"
+    },
+    {
+      "id": "5099524",
+      "time": "2026-09-17 17:32:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新芝生物：終止發行股份及支付現金收購清博華100%股權】新芝生物公告，公司此前擬以發行股份及支付現金方式收購北京清博華科技有限公司100%股權。2026年9月17日，公司董事會審議透過終止本次重大資產重組及簽署終止協議，原因是交易雙方無法就核心條款達成一致。本次終止不涉及違約，對公司沒有實質性影響。"
+    },
+    {
+      "id": "mkt:01a0aeb5-9d9e-7118-85d8-faad5addae7c",
+      "time": "2026-09-17 17:32:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "CNH",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【China maintains independent monetary policy; FX market remains stable】Since August global markets have been choppy but the renminbi has traded broadly stable-to-firmer with two-way swings and China’s FX market has remained orderly, with cross-border flows showing net inflows. Wang Yifeng, deputy director at Everbright Securities’ research institute, said the Fed’s recent hike widened the US–China yield inversion but had been largely priced in and was accompanied by a noticeable rise in US Treasury yields. He described the Fed move as preemptive, aimed at bolstering market confidence amid sticky inflation. Domestic export prospects remain reasonably certain and consumer inflation in China is mild, so the effect of US tightening on cross-border flows is judged manageable. China’s monetary policy remains accommodative with ample liquidity to support real-economy financing, and the renminbi has shown resilience—rate moves in major economies are judged to have limited direct impact on the currency."
+    },
+    {
+      "id": "5099523",
+      "time": "2026-09-17 17:32:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【我國貨幣政策堅持以我為主 外匯市場繼續保持穩健執行】美聯儲加息對我國宏觀經濟和貨幣政策走向是否有影響？8月以來，國際金融市場延續震盪走勢，人民幣對美元呈現穩中偏強、雙向波動趨勢，我國外匯市場保持穩健執行，跨境資金保持淨流入。光大證券研究所副所長王一峰表示，本次美聯儲加息後，雖然中美利差倒掛幅度有所擴大，考慮到市場前期對此預期相對充分，近期美債利率已明顯抬高。本次加息屬於預防性加息，反映了美聯儲希望在通脹高位橫盤的背景下，重建市場信任。業內人士表示，我國出口形勢確定性較高，國內通脹水平溫和低位執行，美聯儲加息對跨境資金流動影響可控。我國貨幣政策維持流動性寬鬆，有力支援了實體經濟融資需求。人民幣匯率韌性十足，海外主要經濟體加息與否對人民幣匯率直接影響較小。（央視財經）"
+    },
+    {
+      "id": "mkt:01a0aeb5-4c05-7118-85d8-f506a4c70ce4",
+      "time": "2026-09-17 17:31:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "9988.HK",
+        "Impact bearish",
+        "981.HK"
+      ],
+      "text": "Southbound Stock Connect net bought 3.363 bln yuan today. Shanghai–Hong Kong Stock Connect: Zhipu net bought HK$687m, Tencent Holdings HK$334m; Alibaba Group was the largest net seller at HK$322m. Shenzhen–Hong Kong Stock Connect: Zhipu net bought HK$1.14 bln, Kingboard Laminates HK$194m; SMIC was the largest net seller at HK$293m."
+    },
+    {
+      "id": "5099522",
+      "time": "2026-09-17 17:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前漲超2%】阿斯麥美股盤前漲超2%，現報1634.5美元。"
+    },
+    {
+      "id": "5099521",
+      "time": "2026-09-17 17:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長鑫科技今日大宗交易平價成交610萬股，成交額3.26億元】9月17日，長鑫科技大宗交易成交610萬股，成交額3.26億元，佔當日總成交額的2.84%，成交價53.47元，較市場收盤價53.47元持平。"
+    },
+    {
+      "id": "mkt:01a0aeb5-0e90-7118-85d8-e938029b6642",
+      "time": "2026-09-17 17:31:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran’s foreign ministry said it has ordered a Swedish diplomat to leave in retaliation for Sweden taking similar action."
+    },
+    {
+      "id": "5099520",
+      "time": "2026-09-17 17:31:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部稱，為報復瑞典的類似行動，已要求一名瑞典外交官離境。"
+    },
+    {
+      "id": "5099519",
+      "time": "2026-09-17 17:31:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "9月17日，騰訊購回23.5萬股股份，涉資1.003億港元。"
+    },
+    {
+      "id": "5099518",
+      "time": "2026-09-17 17:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊9月17日回購價值1.003億港元股份。"
+    },
+    {
+      "id": "5099517",
+      "time": "2026-09-17 17:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：9月17日回購45萬股H股 擬作庫存股】安徽海螺水泥股份有限公司公告稱，2026年9月17日，公司透過香港聯交所回購45萬股H股，每股回購價區間為16.18港元至16.31港元，回購總金額為731.87萬港元，本次回購股份擬持作庫存股份。本次回購佔事件前已發行股份（不含庫存股）比例為0.035%。截至2026年9月17日，公司已發行股份（不含庫存股）為12.84億股，庫存股份為1541.5萬股，已發行股份總數為12.996億股。"
+    },
     {
       "id": "5099516",
       "time": "2026-09-17 17:30:13",
