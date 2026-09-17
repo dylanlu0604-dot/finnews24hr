@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-18 01:54:56",
+  "updated": "2026-09-18 01:58:45",
   "count": 13400,
   "items": [
+    {
+      "id": "5100508",
+      "time": "2026-09-18 01:57:30",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【外圍擾動不改市場長期趨勢 基金公司看好A股韌性】北京時間9月17日凌晨，美聯儲宣佈將聯邦基金利率目標區間上調25個基點。這場此前被市場預判為偏向“鴿派”的加息，最終釋放偏“鷹”訊號，令市場爭論再起。多家基金公司判斷，此次美聯儲的貨幣緊縮政策，帶來的或是短期擾動，疊加國內貨幣政策具有獨立性，且A股基本面具備支撐，長期可保持樂觀，當下可採取“科技+紅利”的槓鈴配置思路。(上海證券報)"
+    },
+    {
+      "id": "5100507",
+      "time": "2026-09-18 01:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "HIGHPEAK能源公司股價飆升，漲幅高達14%。此前有訊息報道稱該公司收到收購意向。"
+    },
+    {
+      "id": "5100506",
+      "time": "2026-09-18 01:55:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "事件預測平臺kalshi的資料顯示，美聯儲10月維持利率不變的機率為53%，而加息25個基點的機率為48%。"
+    },
+    {
+      "id": "mkt:01a0b081-b238-7118-85e8-136ed6d9dce5",
+      "time": "2026-09-18 01:54:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Senegal's energy minister said the country plans to export natural gas while meeting domestic demand and will use domestic gas resources to reduce electricity costs."
+    },
     {
       "id": "mkt:01a0b080-d893-7118-85e8-0d7111e52273",
       "time": "2026-09-18 01:53:49",
@@ -123360,41 +123397,6 @@
         "MKT News"
       ],
       "text": "Algeria told Ennahar TV that UAE commercial flights to and from Algiers will be exempt from any airspace ban until end-2026."
-    },
-    {
-      "id": "5088075",
-      "time": "2026-09-11 01:57:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿爾及利亞將豁免往返首都阿爾及爾的阿聯酋商業航班，該豁免措施將持續至2026年底。"
-    },
-    {
-      "id": "5088074",
-      "time": "2026-09-11 01:57:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Stellantis集團執行長：斯泰蘭蒂斯與零跑汽車合資公司正在提升歐洲市場銷量與利潤。"
-    },
-    {
-      "id": "mkt:01a08c76-7538-7118-8532-c9c7475ebba6",
-      "time": "2026-09-11 01:56:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Ennahar TV reports Algeria will close its airspace from Sep 11, banning all civilian and military aircraft registered in the UAE from entering."
-    },
-    {
-      "id": "5088073",
-      "time": "2026-09-11 01:55:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "阿爾及利亞決定自9月11日起對所有在阿聯酋註冊的民用及軍用飛機關閉其領空。"
     }
   ]
 }
