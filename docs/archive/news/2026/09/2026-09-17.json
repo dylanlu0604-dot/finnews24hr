@@ -1,7 +1,117 @@
 {
   "date": "2026-09-17",
-  "count": 937,
+  "count": 950,
   "items": [
+    {
+      "id": "5098684",
+      "time": "2026-09-17 09:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度和巴基斯坦軍艦海上相撞 為緊張關係再添摩擦】宿敵兼擁有核武器的鄰國印度和巴基斯坦因軍艦海上相撞事件互相指責，並召見對方臨時代辦提出“強烈”抗議，為本已緊張的雙邊關係再添摩擦。根據雙方說法，事件發生於週二。新德里一名政府官員週三透過簡訊向記者表示，當時印度軍艦正在阿拉伯海北部國際水域執行例行監視任務，而巴基斯坦軍艦高速接近該艦。由於相關資訊尚未公開，這位官員不願具名。巴基斯坦外交部週三晚間發表宣告稱，事發時巴基斯坦海軍正在其專屬經濟區舉行兩年一度的演習，並將印度海軍的行為描述為“極具挑釁性且不可接受”。兩國均表示已召見對方臨時代辦。"
+    },
+    {
+      "id": "5098683",
+      "time": "2026-09-17 09:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局總裁餘偉文：提醒公眾注意利率風險。"
+    },
+    {
+      "id": "5098682",
+      "time": "2026-09-17 09:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局總裁餘偉文：金融市場運作保持正常。"
+    },
+    {
+      "id": "5098681",
+      "time": "2026-09-17 09:03:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅豆股份等成立紅芯智聯科技公司】企查查APP顯示，近日，江蘇紅芯智聯科技有限公司成立，經營範圍包含電子元器件零售；積體電路銷售；積體電路晶片及產品銷售；半導體分立器件銷售等。企查查股權穿透顯示，該公司由紅豆股份等共同持股。"
+    },
+    {
+      "id": "5098680",
+      "time": "2026-09-17 09:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "住友商事將出售其在泰國的部分燃氣發電業務。"
+    },
+    {
+      "id": "5098679",
+      "time": "2026-09-17 09:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局：金融市場運作保持正常。"
+    },
+    {
+      "id": "mkt:01a0ace3-2da9-7118-85cd-18c560dac40f",
+      "time": "2026-09-17 09:02:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said the government will maintain a clear stance on any issue that may harm South Korea's national interests."
+    },
+    {
+      "id": "mkt:01a0ace3-12f1-7118-85cd-159368591783",
+      "time": "2026-09-17 09:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York silver futures' intraday gain widened to 1.00%, trading at $64.06/oz."
+    },
+    {
+      "id": "mkt:01a0ace3-0b01-7118-85cd-0ff898f2ec05",
+      "time": "2026-09-17 09:02:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rises over 1.00% intraday to $63.60/oz."
+    },
+    {
+      "id": "5098678",
+      "time": "2026-09-17 09:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲專家：歐加深化關係意在對抗美國威脅】在美加關稅爭端愈演愈烈之際，加拿大總理馬克·卡尼到訪歐洲。歐盟委員會主席馮德萊恩16日在歐洲議會上發表2026年度“盟情諮文”時表示，願同卡尼就加拿大成為歐盟首個“聯席成員”一同努力。針對歐盟表態願推動加拿大成為歐盟首個“聯席成員”，歐洲智庫專家分析認為，歐盟這一提議並非吸納加拿大入盟，核心目的是深化雙方合作，共同應對來自美國的威脅。"
+    },
+    {
+      "id": "5098677",
+      "time": "2026-09-17 09:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報63.62美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0ace2-8701-7118-85cd-04aa765dba26",
+      "time": "2026-09-17 09:02:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange weighted index opened 424.34 points higher, up 0.93%, at 46,273.24 on Thursday, Sept. 17."
+    },
+    {
+      "id": "te:economy:584389",
+      "time": "2026-09-17 09:01:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Malaysia 10-Year Yield Hits Nearly 2-Year High — Malaysia’s 10-year government bond yield rose to 4.22%, its highest level since December 2024, tracking a surge in global bond yields following the Federal Reserve’s first rate hike in three years. This added to pressure on Malaysian bonds amid increased bond supply and growing expectations of monetary tightening by Bank Negara Malaysia. The central bank maintained its rate pause earlier this month while signaling potential rate hikes ahead, after the economy grew 6% year-on-year in the second quarter, driven by continued domestic demand and robust exports. Swaps now imply an 80% chance of a 50-bps rate hike over the next 12 months, up from pricing of less than 25 bps at the end of August. Meanwhile, higher Japanese rates have increased the risk of yen-funded carry-trade unwinding, potentially prompting foreign investors to reduce exposure to Malaysian bonds and further pushing yields higher."
+    },
     {
       "id": "5098676",
       "time": "2026-09-17 09:01:26",
