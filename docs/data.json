@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-17 11:09:22",
-  "count": 13618,
+  "updated": "2026-09-17 11:13:13",
+  "count": 13621,
   "items": [
+    {
+      "id": "5098849",
+      "time": "2026-09-17 11:12:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭稱俄軍向基輔發射多枚導彈】當地時間今天（9月17日）凌晨，烏克蘭首都基輔傳出兩輪密集爆炸聲。烏克蘭空軍在社交媒體發文稱，烏克蘭全境拉響防空警報，俄羅斯軍隊向基輔發射多枚導彈。有訊息稱，基輔市第聶伯區遭襲後多個地點升起濃煙，空襲導致基輔市部分割槽域供水中斷。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5098848",
+      "time": "2026-09-17 11:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本厚生勞動大臣上野賢一郎據悉將在內閣改組中留任。"
+    },
+    {
+      "id": "5098847",
+      "time": "2026-09-17 11:11:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：繼續與美國財政部保持密切溝通，以維持外匯市場的秩序。"
+    },
+    {
+      "id": "5098846",
+      "time": "2026-09-17 11:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：不對其他國家的貨幣政策發表評論。"
+    },
+    {
+      "id": "mkt:01a0ad58-6254-7118-85d0-006f6ba934ac",
+      "time": "2026-09-17 11:10:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Yingshi Innovation says organiser of coordinated Amazon negative reviews was peer-company executive】Yingshi Innovation said on Weibo it received a tip alleging an organised campaign on Amazon to post malicious negative reviews of its products and reported the matter to police. Three suspects have been criminally detained, it said; the alleged organiser is a senior executive at a peer company who has been placed under administrative detention after allegedly hiring black- and gray-market groups to instruct overseas students to post false negative reviews, including claims that a plug-in-only product had battery-life problems."
+    },
+    {
+      "id": "mkt:01a0ad58-5950-7118-85cf-fd92027b1515",
+      "time": "2026-09-17 11:10:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's Cabinet Secretary Kihara said he is in close contact with the U.S. Treasury to maintain orderly FX markets."
+    },
     {
       "id": "5098845",
       "time": "2026-09-17 11:08:19",
@@ -125698,30 +125755,6 @@
         "公司"
       ],
       "text": "【多家航司回應是否取消免費餐食】據媒體報道，近日，多家航空公司佈局付費定製飛機餐。有報道稱，付費餐食價格不等，有親民價格也有較高價格的餐食。報道提到，東方航空、四川航空、祥鵬航空等國內多家航司都佈局了付費餐食賽道。 以後還會有免費飛機餐嗎？針對該問題，記者詢問了多家航空公司的客服。 東方航空客服表示，為實現多樣化餐飲選擇（推出付費選餐），餐食價格以系統顯示為準，“正常如果航班有提供餐食，還是會有（免費餐食），但不同航班會有點心或正餐之類的。” 簡而言之，旅客可繼續享受正常餐食，但也能付費購買餐食。客服還表示，每位旅客在每個航班上僅限提前申請一份餐食，可透過App、官網及小程式等渠道進行預訂，“成功申請‘雲端選餐’服務後，將替代航班上正常標準餐食。” 四川航空客服表示，旅客可自己選擇購買付費餐食，“在App上購買，啟訂時間為起飛前10日，截止時間為起飛前48小時。” 祥鵬航空客服表示，若客票顯示含餐會提供免費餐食，“官網（標註）付費餐食是有航班限制的。”（中新網）"
-    },
-    {
-      "id": "5086284",
-      "time": "2026-09-10 11:11:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "資料顯示，今日MMLC電池級碳酸鋰（早盤）價格較昨日下跌100元/噸，中間價報142850元/噸。 (Mysteel)"
-    },
-    {
-      "id": "5086283",
-      "time": "2026-09-10 11:10:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "領益智造漲超5%。"
-    },
-    {
-      "id": "5086280",
-      "time": "2026-09-10 11:09:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "領益智造水下拉昇，現漲超2%，此前跌超2%。"
     }
   ]
 }
