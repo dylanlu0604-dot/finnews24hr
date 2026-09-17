@@ -1,7 +1,133 @@
 {
   "date": "2026-09-17",
-  "count": 2458,
+  "count": 2472,
   "items": [
+    {
+      "id": "5100292",
+      "time": "2026-09-17 22:53:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局將再採購兩次星際客機載人任務。"
+    },
+    {
+      "id": "5100291",
+      "time": "2026-09-17 22:52:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "派拉蒙(PSKY.O)下跌5.7%，為7月9日以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a0afda-f73b-7118-85e4-dd5395a9bf8b",
+      "time": "2026-09-17 22:52:37",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bearish"
+      ],
+      "text": "Paramount (PSKY.O) fell 5.7%, its largest decline since July 9."
+    },
+    {
+      "id": "mkt:01a0afda-cedc-7118-85e4-d6437877184e",
+      "time": "2026-09-17 22:52:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "France's defence minister said the budget deficit would exceed 6.5% of GDP in 2027 unless corrective measures are taken."
+    },
+    {
+      "id": "5100290",
+      "time": "2026-09-17 22:52:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總理：若不採取矯正措施，2027年預算赤字佔GDP的比重將超過6.5%。"
+    },
+    {
+      "id": "5100289",
+      "time": "2026-09-17 22:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珀萊雅再投資一國貨美妝，成第二大股東】根據工商資訊，珀萊雅旗下全資子公司珀萊雅（海南）投資有限公司以313.21萬元認繳受讓上海科黛生物科技有限公司19%股權，成為後者第二大股東。科黛生物是功效護膚品牌畢生之研（Peterson's Lab）的母公司，創始人施諾持股比例降至47.06%，仍保持控制權。畢生之研創立於2016年，定位\"功效性護膚品牌\"，代表產品包括水楊酸凍膜等。這是珀萊雅海南繼花知曉之後投資的第二個美妝品牌，也是珀萊雅近一年內又一重要資本動作。"
+    },
+    {
+      "id": "5100288",
+      "time": "2026-09-17 22:51:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國總理：利率上調將使法國債務付息成本新增100億歐元。"
+    },
+    {
+      "id": "mkt:01a0afd9-d15d-7118-85e4-ccd7b77d8ed1",
+      "time": "2026-09-17 22:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said Switzerland must work to preserve its status as an international financial centre."
+    },
+    {
+      "id": "mkt:01a0afd9-a940-7118-85e4-c0b071b97b8d",
+      "time": "2026-09-17 22:51:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "France's defense minister said rising interest rates will raise debt-servicing costs by €10 billion."
+    },
+    {
+      "id": "mkt:01a0afd9-88c8-7118-85e4-b8d6b110d3ea",
+      "time": "2026-09-17 22:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian reports, Iran's deputy foreign minister and director-general for Western Europe, Ali Reza Yousefi, summoned Germany's ambassador in Tehran, Axel Wilhelm Dietmann, to lodge a formal protest over recent remarks by senior German officials and what Tehran described as interfering actions by the German embassy."
+    },
+    {
+      "id": "5100287",
+      "time": "2026-09-17 22:50:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗否認有關胡塞武裝襲擊麥加的指控，並譴責任何針對伊斯蘭聖地的侵略行為。"
+    },
+    {
+      "id": "5100286",
+      "time": "2026-09-17 22:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：瑞士必須努力維護金融中心地位。"
+    },
+    {
+      "id": "mkt:01a0afd8-c6fb-7118-85e4-b173a8f1f166",
+      "time": "2026-09-17 22:50:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Local authorities said a Ukrainian attack on Russia's Belgorod region killed one person and injured one."
+    },
+    {
+      "id": "5100285",
+      "time": "2026-09-17 22:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地政府稱，烏克蘭襲擊俄羅斯別爾哥羅德州造成一人死亡、一人受傷。"
+    },
     {
       "id": "mkt:01a0afd8-89d2-7118-85e4-ad268eb8b1b6",
       "time": "2026-09-17 22:49:58",

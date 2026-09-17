@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-17 22:50:35",
-  "count": 13395,
+  "updated": "2026-09-17 22:54:35",
+  "count": 13401,
   "items": [
+    {
+      "id": "5100292",
+      "time": "2026-09-17 22:53:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局將再採購兩次星際客機載人任務。"
+    },
+    {
+      "id": "5100291",
+      "time": "2026-09-17 22:52:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "派拉蒙(PSKY.O)下跌5.7%，為7月9日以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a0afda-f73b-7118-85e4-dd5395a9bf8b",
+      "time": "2026-09-17 22:52:37",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bearish"
+      ],
+      "text": "Paramount (PSKY.O) fell 5.7%, its largest decline since July 9."
+    },
+    {
+      "id": "mkt:01a0afda-cedc-7118-85e4-d6437877184e",
+      "time": "2026-09-17 22:52:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "France's defence minister said the budget deficit would exceed 6.5% of GDP in 2027 unless corrective measures are taken."
+    },
+    {
+      "id": "5100290",
+      "time": "2026-09-17 22:52:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總理：若不採取矯正措施，2027年預算赤字佔GDP的比重將超過6.5%。"
+    },
+    {
+      "id": "5100289",
+      "time": "2026-09-17 22:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珀萊雅再投資一國貨美妝，成第二大股東】根據工商資訊，珀萊雅旗下全資子公司珀萊雅（海南）投資有限公司以313.21萬元認繳受讓上海科黛生物科技有限公司19%股權，成為後者第二大股東。科黛生物是功效護膚品牌畢生之研（Peterson's Lab）的母公司，創始人施諾持股比例降至47.06%，仍保持控制權。畢生之研創立於2016年，定位\"功效性護膚品牌\"，代表產品包括水楊酸凍膜等。這是珀萊雅海南繼花知曉之後投資的第二個美妝品牌，也是珀萊雅近一年內又一重要資本動作。"
+    },
+    {
+      "id": "5100288",
+      "time": "2026-09-17 22:51:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國總理：利率上調將使法國債務付息成本新增100億歐元。"
+    },
+    {
+      "id": "mkt:01a0afd9-d15d-7118-85e4-ccd7b77d8ed1",
+      "time": "2026-09-17 22:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS chairman said Switzerland must work to preserve its status as an international financial centre."
+    },
+    {
+      "id": "mkt:01a0afd9-a940-7118-85e4-c0b071b97b8d",
+      "time": "2026-09-17 22:51:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "France's defense minister said rising interest rates will raise debt-servicing costs by €10 billion."
+    },
+    {
+      "id": "mkt:01a0afd9-88c8-7118-85e4-b8d6b110d3ea",
+      "time": "2026-09-17 22:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian reports, Iran's deputy foreign minister and director-general for Western Europe, Ali Reza Yousefi, summoned Germany's ambassador in Tehran, Axel Wilhelm Dietmann, to lodge a formal protest over recent remarks by senior German officials and what Tehran described as interfering actions by the German embassy."
+    },
+    {
+      "id": "5100287",
+      "time": "2026-09-17 22:50:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗否認有關胡塞武裝襲擊麥加的指控，並譴責任何針對伊斯蘭聖地的侵略行為。"
+    },
+    {
+      "id": "5100286",
+      "time": "2026-09-17 22:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀董事長：瑞士必須努力維護金融中心地位。"
+    },
+    {
+      "id": "mkt:01a0afd8-c6fb-7118-85e4-b173a8f1f166",
+      "time": "2026-09-17 22:50:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Local authorities said a Ukrainian attack on Russia's Belgorod region killed one person and injured one."
+    },
+    {
+      "id": "5100285",
+      "time": "2026-09-17 22:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地政府稱，烏克蘭襲擊俄羅斯別爾哥羅德州造成一人死亡、一人受傷。"
+    },
     {
       "id": "mkt:01a0afd8-89d2-7118-85e4-ad268eb8b1b6",
       "time": "2026-09-17 22:49:58",
@@ -123336,77 +123462,6 @@
         "國際"
       ],
       "text": "歐盟馮德萊恩：我將在接下來的盟情諮文中詳細說明關於保護兒童免受社交媒體傷害的提案。"
-    },
-    {
-      "id": "te:markets:582866",
-      "time": "2026-09-10 22:54:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "P&G Stock Price Hits 5-week Low — P&G shares decreased to 142.11 USD, the lowest since July 2026. Over the past 4 weeks, Procter & Gamble lost 2.06%, and in the last 12 months, it decreased 10.34%."
-    },
-    {
-      "id": "5087873",
-      "time": "2026-09-10 22:53:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中礦資源：密切關注厄爾尼諾現象對辛巴威地區水資源的影響】中礦資源在互動平臺表示，公司密切關注厄爾尼諾現象對辛巴威地區水資源的影響，Bikita礦山已透過生產用水迴圈利用、節水工藝最佳化等措施提升用水韌性，降低氣候波動對生產的影響。同時，礦山已於2024年建成辛巴威首個“光伏+儲能+市電+柴油發電”的多能互補能源系統，能源供應的獨立性和穩定性較強，能夠為礦山連續生產提供保障。"
-    },
-    {
-      "id": "5087872",
-      "time": "2026-09-10 22:53:23",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國二手房銷量降至一年多以來最低 高利率使購房者保持觀望】由於潛在買家等待房貸利率下降，美國8月份二手房銷售放緩至一年多來的最低水平。美國全國房地產經紀人協會(NAR)週四公佈的資料顯示，8月份二手房銷量摺合年率下降2%，為398萬套。自2024年秋季以來，月度摺合年率銷量僅有兩次跌破400萬套，8月份便是其中之一。這組令人失望的資料反映出，房地產市場迫切需要新的推動因素。相比疫情期間高達兩位數的年度漲幅，房價上漲步伐已經放慢，但負擔能力問題仍然是購房者面臨的一個重要阻力。二手房銷售價格中位數較上年同期上漲1.6%，至429,100美元，延續了自2023年年中以來的同比上漲勢頭。NAR首席經濟學家Lawrence Yun在一份宣告中表示：“房貸利率和二手房銷售走勢相反，因此高房貸利率導致購房活動小幅下降並不令人意外。”不過，Yun在與記者的電話會議上表示，面對房貸利率上升，購房“並沒有崩潰”，並指出就業和工資增長幫助支撐了需求。不過，他表示，房貸利率可能很快觸及7%。"
-    },
-    {
-      "id": "5087871",
-      "time": "2026-09-10 22:52:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖北省委書記關志鷗會見百度集團創始人李彥宏】據“湖北釋出”訊息，9月10日下午，湖北省委書記關志鷗在武漢會見百度集團創始人、董事長兼執行長李彥宏。關志鷗說，希望百度集團持續深耕湖北，在人工智慧、時空地理資訊等領域加大雙方合作力度，實現互利共贏、共同發展。湖北將堅持“有呼必應、無事不擾”，著力打造一流營商環境，為百度集團在鄂發展創造良好條件。"
-    },
-    {
-      "id": "5087870",
-      "time": "2026-09-10 22:51:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利AVIO公司股價下跌9.58%後再次自動停牌。"
-    },
-    {
-      "id": "5087869",
-      "time": "2026-09-10 22:51:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將勞斯萊斯的評級上調至a-，展望穩定。"
-    },
-    {
-      "id": "5087868",
-      "time": "2026-09-10 22:50:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國運通擬發行 5 億美元信用卡資產支援證券（ABS）。"
-    },
-    {
-      "id": "5087867",
-      "time": "2026-09-10 22:50:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【立陶宛擬修憲取消核武器部署禁令】據立陶宛媒體報道，立陶宛議會計劃於今年冬季推進憲法修正案，刪除現行憲法中禁止在本國領土部署大規模殺傷性武器的條款。"
     }
   ]
 }
