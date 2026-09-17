@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-17 22:42:50",
-  "count": 13393,
+  "updated": "2026-09-17 22:46:41",
+  "count": 13386,
   "items": [
+    {
+      "id": "5100274",
+      "time": "2026-09-17 22:45:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "傑克遜金融在釋出謹慎的熊市風險報告後股價下跌 6%。"
+    },
+    {
+      "id": "5100272",
+      "time": "2026-09-17 22:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安理會未授權伊朗制裁委專家組延期】今天（9月17日），聯合國安理會表決未透過將伊朗制裁委員會的專家組任期延長一年的決議草案。中國和俄羅斯投下反對票。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0afd2-6039-7118-85e4-87adc06320d3",
+      "time": "2026-09-17 22:43:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV",
+        "Impact bullish",
+        "VOW3.DE"
+      ],
+      "text": "【XPeng in talks with more automakers on tech, chip cooperation】XPeng chairman and CEO He Xiaopeng said the company is engaging Volkswagen and other German automakers and industrial groups to learn from them, and is in talks with additional automakers and non-automotive firms on technology and chip cooperation; announcements will be made when timing is right. He said XPeng may announce some overseas partnerships at next month’s Paris Motor Show, with potential implementations in Q4."
+    },
     {
       "id": "5100271",
       "time": "2026-09-17 22:41:42",
@@ -123304,91 +123334,6 @@
         "其他"
       ],
       "text": "丘鈦科技：8月攝像頭模組銷售數量-14.9％。"
-    },
-    {
-      "id": "5087862",
-      "time": "2026-09-10 22:46:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛維持2027年TTF天然氣價格預測不變，為每兆瓦時32歐元。"
-    },
-    {
-      "id": "mkt:01a08bc8-d81d-7118-852e-d068900f49aa",
-      "time": "2026-09-10 22:46:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Optical-fiber preform capacity surge pressures prices; Wind fiber index down 3.26%】Sept. 10 — Wind data: Wind Optical Fiber Index closed down 3.26% after reports that optical-fiber preform capacity is accelerating. Preforms, the main raw material for optical fiber and cable, have risen sharply YTD and recently, but industry sources say mid‑term prices are uncertain as new capacity scheduled to come online over the next two years will require market validation. FiberHome said it expects sustained data‑centre optical connectivity demand, is expanding high‑end capacity (multimode, specialty and hollow‑core fibers) and will use self‑funding to advance projects before proceeds from a planned directed share issuance are received. Firms note preform ramp-up still faces hurdles in technology, equipment procurement, approvals and talent. Yangtze Optical Fibre and Cable said traditional telco demand is flat and incremental volume is coming mainly from cloud service providers’ compute build-outs; see company filings for details."
-    },
-    {
-      "id": "te:markets:582861",
-      "time": "2026-09-10 22:46:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Fall to 3-Week Low — US natural gas prices fell below $2.78/MMBtu, reaching a three-week low after the EIA reported a larger-than-expected storage build. Utilities added 40 billion cubic feet to inventories in the week ending September 4, above expectations for a 31-bcf increase and lifting total stocks to 3.254 trillion cubic feet. Inventories are 4.8% above the five-year average, reinforcing concerns over ample supply. Production has also remained strong, with Lower 48 output averaging 112.9 bcfd so far in September, above August’s monthly high. These factors have outweighed support from robust demand. Above-average temperatures across the South and Southeast are expected to sustain air-conditioning demand, while gas deliveries to major LNG export facilities have increased. Rising European and Asian demand for US LNG, as buyers seek alternatives to disrupted Middle Eastern supplies and prepare for winter, is providing additional underlying support to the market."
-    },
-    {
-      "id": "mkt:01a08bc8-a377-7118-852e-cf5a3370cd59",
-      "time": "2026-09-10 22:46:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says it killed Hamas Nukhba member in Khan Younis】The Israel Defense Forces said on Oct. 10 that on Oct. 7 it struck in Khan Younis, southern Gaza, killing Hamas Nukhba member Ismail Ibrahim Darwish Kandeel. The IDF said Kandeel took part in the Oct. 7 attacks and was directly involved in the operation that resulted in the death of an IDF Nahal Brigade commander."
-    },
-    {
-      "id": "5087861",
-      "time": "2026-09-10 22:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死一名哈馬斯“努赫巴”部隊成員】以色列國防軍當地時間10日發表宣告稱，以軍7日在加沙地帶南部汗尤尼斯實施打擊行動，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“努赫巴”部隊成員伊斯梅爾·易卜拉欣·達爾維什·坎迪爾。以軍稱，坎迪爾曾參與2023年10月7日的襲擊，並直接參與導致以色列國防軍“納哈爾旅”一名指揮官陣亡的行動。哈馬斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5087860",
-      "time": "2026-09-10 22:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國代表在聯合國安理會正式就召開伊朗制裁問題會議提出抗議，並強調莫斯科完全反對召開此次會議審議伊朗制裁問題。"
-    },
-    {
-      "id": "mkt:01a08bc7-b694-7118-852e-c70799447746",
-      "time": "2026-09-10 22:45:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs raises its Q4 2026 TTF gas price forecast to €70/MWh."
-    },
-    {
-      "id": "5087859",
-      "time": "2026-09-10 22:44:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將2026年第四季度荷蘭TTF天然氣價格預測上調至每兆瓦時70歐元。"
-    },
-    {
-      "id": "5087858",
-      "time": "2026-09-10 22:43:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾由跌轉漲，表現優於多數新興市場貨幣。"
-    },
-    {
-      "id": "5087857",
-      "time": "2026-09-10 22:43:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投集團與上海電氣舉行工作會談】9月10日，國家電投集團與上海電氣舉行工作會談，就進一步深化戰略合作進行交流。面向未來，雙方將緊密圍繞國家戰略需要，在供應鏈協同、重型燃氣輪機國產化發展、新一代煤電升級改造、新能源開發等方面持續深化合作。"
     }
   ]
 }

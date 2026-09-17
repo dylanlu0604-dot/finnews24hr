@@ -1,7 +1,37 @@
 {
   "date": "2026-09-17",
-  "count": 2440,
+  "count": 2443,
   "items": [
+    {
+      "id": "5100274",
+      "time": "2026-09-17 22:45:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "傑克遜金融在釋出謹慎的熊市風險報告後股價下跌 6%。"
+    },
+    {
+      "id": "5100272",
+      "time": "2026-09-17 22:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安理會未授權伊朗制裁委專家組延期】今天（9月17日），聯合國安理會表決未透過將伊朗制裁委員會的專家組任期延長一年的決議草案。中國和俄羅斯投下反對票。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0afd2-6039-7118-85e4-87adc06320d3",
+      "time": "2026-09-17 22:43:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV",
+        "Impact bullish",
+        "VOW3.DE"
+      ],
+      "text": "【XPeng in talks with more automakers on tech, chip cooperation】XPeng chairman and CEO He Xiaopeng said the company is engaging Volkswagen and other German automakers and industrial groups to learn from them, and is in talks with additional automakers and non-automotive firms on technology and chip cooperation; announcements will be made when timing is right. He said XPeng may announce some overseas partnerships at next month’s Paris Motor Show, with potential implementations in Q4."
+    },
     {
       "id": "5100271",
       "time": "2026-09-17 22:41:42",
