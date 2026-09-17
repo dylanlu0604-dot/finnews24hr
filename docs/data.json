@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-18 07:23:25",
-  "count": 13317,
+  "updated": "2026-09-18 07:30:27",
+  "count": 13313,
   "items": [
+    {
+      "id": "mkt:01a0b1b4-b10c-7118-85ea-e00b217673c9",
+      "time": "2026-09-18 07:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Aug) | actual 1.7% | consensus 1.80% | previous 1.80%"
+    },
+    {
+      "id": "5100749",
+      "time": "2026-09-18 07:28:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【供應擔憂緩解、伊朗外交取得進展，油價下跌】原油價格連續第三日走低，市場對供應的憂慮有所緩和，交易員聚焦將影響美伊戰爭走向的新一輪外交磋商。西德克薩斯中質原油（WTI）回落至每桶 101 美元附近，前兩個交易日累計下跌近 4%；布倫特原油收於每桶 105 美元下方。中東方面，沙特正著手修復受損的東西輸油管道，該管道通往紅海沿岸，計劃在數日之內恢復約一半輸送能力。與此同時，部分油輪仍在穿越局勢緊張的霍爾木茲海峽。美國總統唐納德・特朗普表示，他即將作出一項 “重大決定”，判斷是否升級對德黑蘭的打擊行動。下週他將在紐約聯合國大會期間，與波斯灣國家舉行場外會晤。10 月交割的 WTI 原油下跌 0.8%，報每桶 101.12 美元。11 月交割的布倫特原油下跌 1%，收於每桶 104.82 美元。"
+    },
+    {
+      "id": "5100748",
+      "time": "2026-09-18 07:27:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國際金價坐上“過山車” 多因素仍支撐中長期黃金配置】全球黃金市場在美聯儲議息結果公佈前後經歷了戲劇性的一幕。在當地時間9月16日美聯儲利率決議公佈前，國際金價一度衝高至4360美元/盎司上方，日內漲幅逾1%；在加息“靴子”落地後，金價迅速跳水，最終收跌0.7%至4263.13美元/盎司，為近四周低位。黃金不生息的特性，在利率上行環境中再次暴露其脆弱的一面。A股貴金屬板塊同樣反應劇烈。北京時間9月17日，該板塊領跌，收跌超過5%。然而當日亞歐交易時段，倫敦現貨黃金價格卻震盪攀升，重新站上4300美元/盎司。截至記者發稿時，倫敦金報4326.9美元/盎司，漲1.5%。市場原本預期這會是一次“鴿派”加息，實際落地時卻亮出“鷹爪”——美聯儲不僅時隔三年多首次加息，還釋放出年內或進一步收緊貨幣政策的訊號。受訪人士認為，金價仍以區間震盪為主，短期走強可視為利空出盡，中期美國財政壓力和美元信用擔憂等仍支撐黃金配置。（上海證券報）"
+    },
+    {
+      "id": "te:markets:584740",
+      "time": "2026-09-18 07:27:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Slides for Third Session — Brent crude fell to around $104 per barrel on Friday, extending its decline for a third consecutive session as concerns over supply disruptions in the Middle East eased and hopes grew for renewed diplomatic efforts to end the conflict and restore energy flows. Saudi Arabia is targeting the recovery of around half the capacity of its East-West pipeline within days, with a return to full operations expected within six weeks. In the meantime, the kingdom is rerouting some crude exports through the Strait of Hormuz. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, limiting their exposure to potential Iranian attacks. Reports also suggested that China had urged Iran to help curb Houthi militants after an appeal from Riyadh, as the rebel group intensified attacks on Saudi energy infrastructure. Meanwhile, President Donald Trump said he was weighing whether to resume attacks on Iran ahead of a meeting with Gulf leaders in New York next week."
+    },
+    {
+      "id": "te:markets:584739",
+      "time": "2026-09-18 07:25:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slides for Third Session — Crude oil fell toward $101 per barrel on Friday, extending its decline for a third consecutive session as concerns over supply disruptions in the Middle East eased and hopes grew for renewed diplomatic efforts to end the conflict and restore energy flows. Saudi Arabia is targeting the recovery of around half the capacity of its East-West pipeline within days, with a return to full operations expected within six weeks. In the meantime, the kingdom is rerouting some crude exports through the Strait of Hormuz. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, limiting their exposure to potential Iranian attacks. Reports also suggested that China had urged Iran to help curb Houthi militants after an appeal from Riyadh, as the rebel group intensified attacks on Saudi energy infrastructure. Meanwhile, President Donald Trump said he was weighing whether to resume attacks on Iran ahead of a meeting with Gulf leaders in New York next week."
+    },
+    {
+      "id": "5100747",
+      "time": "2026-09-18 07:25:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8000億元新型政策性金融工具資金加快投放】近日，今年新型政策性金融工具首批資金已啟動投放，一批智慧製造和基礎設施專案相繼獲得首批資金支援，正加快推進實施，推動擴大有效投資。新型政策性金融工具是國家為支援重大戰略、補充重點專案資本金而創設的金融工具，透過資本金槓桿放大投資總量，最佳化投資結構，由國家開發銀行、農業發展銀行、進出口銀行負責投放。目前，新型政策性金融工具已在雲南、福建、四川等多地加快投放，今年的總投資規模從去年的5000億元增加到8000億元，據測算，預計將撬動專案總投資規模約10萬億元。（央視新聞）"
+    },
+    {
+      "id": "5100746",
+      "time": "2026-09-18 07:25:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【 美駐墨西哥使館以“墨西哥萬歲，中國製造”調侃墨西哥國慶，中使館發表嚴正宣告 】 9月18日，中國駐墨西哥大使館發表嚴正宣告：9月15日，墨西哥獨立日前夕，美國駐墨西哥使館在社交媒體平臺發文，稱墨西哥用於慶祝活動的煙花等“並非墨西哥製造”，以“墨西哥萬歲，中國製造”調侃墨西哥國慶，並藉機抹黑中墨經貿合作。在駐在國最莊嚴的國慶紀念日，一國使館不思道賀，反而拿節日大做文章、攻擊第三國。此舉有違最基本的外交禮儀，更缺乏對墨西哥人民起碼的尊重。中國駐墨西哥使館對此表示強烈不滿和堅決反對。一國獨立日屬於該國人民，如何慶祝、用什麼慶祝，人民自己說了算。“中國製造”在墨西哥並不新鮮。四百多年前，“中國船”讓東方的絲綢瓷器與墨西哥的白銀在太平洋兩岸間流動，商品往來的背後是文明的交流互鑑。今天，中國產品走進墨西哥市場，墨西哥的牛油果、龍舌蘭酒也走進中國千家萬戶，緊密的貿易聯絡正是全球化的生動體現。一個主權獨立的國家，有權自主選擇合作伙伴。中墨合作沒有地緣算計，不針對第三方，也不應受到第三方干擾。美使館把駐在國的節日當作攻擊第三國的舞臺和地緣博弈的籌碼，對別國指手畫腳，唯我獨尊的霸權心態暴露無遺。此等做法，國際社會看得一清二楚。不少網友質問美方，為何要在別人的節日裡“噴灑毒液”。我們奉勸美國駐墨西哥使館，把精力多用在尊重駐在國、增進兩國人民友好上，而不是挑撥離間、搬弄是非。這樣的表演騙不了任何人，只會搬起石頭砸自己的腳。"
+    },
+    {
+      "id": "5100745",
+      "time": "2026-09-18 07:23:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創債從試水走向定製 創投募資生態正在重構】近期，國內創投機構積極發行科創債，條款設計上創新不斷，超長期限人工智慧產業鏈科創債、可交換條款科創債、定向發行科創債等新型產品陸續落地，債券市場正透過多元化機制適配硬科技投資的長週期屬性。在科創債助力創投機構緩解資金壓力、支撐長期科創投資的同時，行業也面臨著資負期限錯配、民營機構發債門檻高、增信渠道不暢等現實難題。專家表示，科創債的市場化創新仍需持續深化，透過完善增信機制、豐富產品體系、培育投資生態，進一步打通債券市場服務科技創新的資金通道。（中國證券報）"
+    },
+    {
+      "id": "5100744",
+      "time": "2026-09-18 07:23:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥總統辛鮑姆與特朗普通話，雙方持續磋商貿易事宜】多名知情人士透露，墨西哥總統克勞迪婭・辛鮑姆與美國總統特朗普通電話，討論雙邊貿易問題。此次通話於週三進行。美墨兩國官員正開展貿易談判，希望解決美國關稅、墨西哥出口產品原產地規則等多項懸而未決的爭議。此次通話發生在上月底美加貿易談判破裂之後。特朗普週三在一場競選活動中暗示，美墨貿易談判有望取得突破性進展，稱一份“重大協議”即將達成。白宮未回應置評請求。其中一名訊息人士稱，美墨談判代表的下一輪貿易會談預計將於9月28日在華盛頓啟動。"
+    },
     {
       "id": "5100743",
       "time": "2026-09-18 07:22:39",
@@ -122412,132 +122496,6 @@
         "公司"
       ],
       "text": "【實探投洽會：中國科創專案吸引全球資本佈局】繽紛賽道下吊牌整齊上牆、海量優質專案一目瞭然、投資人駐足掃碼甄選、洽談桌前交流火熱……在9月8日至11日舉行的第二十六屆中國國際投資貿易洽談會（簡稱“投洽會”）上，館內的視覺化“專案超市”和“桌主制”資本專案對接專區成為全場焦點。值得注意的是，本屆投洽會一共組織了52場專案路演活動，每場路演都座無虛席，不少專案獲得了投資機構的關注。同時，投資機構還對未來投資趨勢做出研判，AI、可控核聚變、腦機介面等依然是熱門投資方向。在投洽會上專案與資本不斷實現雙向對接之際，外資機構格外關注中國的創業專案。來自法國的安麟投資（Ardian）聯席執行長Mark Benedetti表示：“我們深度參與中國市場已逾十載，見證了中國面向境外投資者與長期資本在市場配套和營商環境方面取得的巨大進步，而持續的高水平對外開放給予了我們充足的信心，進一步加大了對中國的投入。”他還認為，全球資本增配中國是長期結構性趨勢，而非短期市場行為。（證券時報）"
-    },
-    {
-      "id": "5088374",
-      "time": "2026-09-11 07:30:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：持續看好AI發展，維持對北美算力產業鏈和國產AI算力產業鏈的長期看好】中信建投研報指出，2026上半年測試儀器、光模組、GPU/ASIC板塊持續表現較好，反映AI算力需求旺盛。2026Q2線纜板塊歸母淨利潤同比增長205%，光纖光纜景氣度持續提升。2026Q2，公募基金通訊行業持倉市值佔比達到11.56%，再創新高，主要持倉集中在光模組、光器件、光晶片及光纖光纜等方向。北美四家CSP廠商公佈二季報，持續加碼資本開支。北美四大雲廠商2026Q2合計資本開支約1712億美元，同比增長78.6%，預計2026年總資本開支約7325億美元（中值測算），且預計2027年仍保持較快增長。我們持續看好AI發展，維持對北美算力產業鏈和國產AI算力產業鏈的長期看好。"
-    },
-    {
-      "id": "5088373",
-      "time": "2026-09-11 07:29:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價在100美元上方進一步攀升 中東衝突升級加劇供應擔憂】油價在每桶100美元上方延續強勁漲勢，中東地區敵對行動升級，引發了投資者對供應進一步中斷的擔憂。WTI原油期貨交投於每桶104美元附近，前一交易日飆升近7%，有望創下7月以來最大單週漲幅。布倫特原油結算價接近每桶108美元，為近四個月來的最高水平。伊朗和美國逐漸滑向持久戰，近期幾乎沒有停火或中東能源流動恢復正常的跡象。過去兩週衝突愈演愈烈，包括美國襲擊伊朗油輪、約旦遭受彈道導彈襲擊、胡塞武裝襲擊沙特能源設施導致部分運營被迫暫停等。近期中國原油採購量的增加也加劇了石油市場的緊張局面。"
-    },
-    {
-      "id": "5088372",
-      "time": "2026-09-11 07:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI推出Agents API公測版，支援開發者構建雲端智慧體】當地時間9月10日，OpenAI推出Agents API公測版，允許開發者透過API呼叫構建和執行雲端智慧體。該API採用支援Codex的智慧體執行框架和基礎設施，開發者可指定任務、模型、工具及執行環境，並選擇OpenAI託管沙箱、自有基礎設施或合作伙伴提供的沙箱環境。該API目前面向所有開發者開放公測，不收取額外費用，使用者僅需按所使用的模型、令牌和工具付費。"
-    },
-    {
-      "id": "mkt:01a08da6-a513-7118-8536-b03a7603ec64",
-      "time": "2026-09-11 07:28:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Iranians believe US Democrats could permit them to acquire nuclear weapons."
-    },
-    {
-      "id": "5088371",
-      "time": "2026-09-11 07:28:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談特朗普紅利：我們正在收取21萬億美元。沒有哪個國家收取過如此之多的金額。它是下一個國家的四到五倍，這一切都歸功於那個我們和你比大多數人都更喜歡的美好的詞——關稅。"
-    },
-    {
-      "id": "5088370",
-      "time": "2026-09-11 07:27:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普為伊朗戰爭辯護，他預測衝突將在中期選舉後結束，並指責德黑蘭在等待華盛頓的政治變革。“他們認為民主黨人會讓他們基本上擁有核武器。他們不會擁有核武器。”特朗普表示，防止伊朗擁有核武器仍然是底線，因為緊張局勢依然高漲，戰鬥仍在繼續。"
-    },
-    {
-      "id": "mkt:01a08da5-8fb8-7118-8536-ac581b90d63f",
-      "time": "2026-09-11 07:27:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump said Iran's missile capability has been significantly degraded and producing additional missiles has become difficult; Iran can still launch some missiles."
-    },
-    {
-      "id": "mkt:01a08da4-ebed-7118-8536-a2eca7621611",
-      "time": "2026-09-11 07:26:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Trump said Iran is fighting hard and is in serious trouble."
-    },
-    {
-      "id": "5088369",
-      "time": "2026-09-11 07:26:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：民調結果對我來說毫無影響，那反而是我更加努力的動力。"
-    },
-    {
-      "id": "te:markets:582925",
-      "time": "2026-09-11 07:25:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Heads for Sharp Weekly Rise — Brent crude climbed toward $109 per barrel on Friday and was on track to gain about 13% for the week, marking its biggest weekly increase since mid-July as the escalating conflict between the US and Iran fueled concerns over prolonged disruptions to global energy supplies. Top US officials reportedly warned President Donald Trump that the war could continue through the remainder of his term, which ends in January 2029. Meanwhile, Iranian leaders are reportedly determined to continue fighting despite mounting economic costs, viewing the conflict as an existential threat. They also claim that Tehran has managed to rebuild its missile capabilities and could intensify attacks on US and Gulf assets if Washington escalates its own strikes. Fighting has intensified over the past two weeks, with the US targeting Iranian oil tankers while Iran launched missiles at US warships and tankers in the Persian Gulf, as well as American assets in neighboring countries."
-    },
-    {
-      "id": "5088368",
-      "time": "2026-09-11 07:25:27",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【貝森特打消回購相關擔憂，稱美債市場穩健】美國財政部長斯科特・貝森特淡化市場對週四債務回購操作規模不及預期的擔憂，也弱化收益率上行帶來的市場顧慮。貝森特在接受採訪時表示，美債市場現狀“十分良好”。他提到近日兩場國債拍賣表現強勁，並強調美國市場相較其他市場表現更優。他同時重申，近期債券與能源價格呈現異常高的相關性。貝森特發表此番言論前，美國兩年期國債收益率觸及2024年以來高點，10年期國債收益率創出2023年以來新高。貝森特稱：“我們只在價格合適時回購債券”，但本次債券持有人傾向繼續持有長期債券。他表示，通常能收到200億美元的申報供給，而本次財政部僅收到約100億美元申報。"
-    },
-    {
-      "id": "mkt:01a08da3-d7f2-7118-8536-9a50e3754c54",
-      "time": "2026-09-11 07:25:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "A Fox News reporter asked whether neoconservatives argue for an all-out strike on Iran; President Trump said the U.S. 'may not' take such action because of the election."
-    },
-    {
-      "id": "te:markets:582923",
-      "time": "2026-09-11 07:24:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Heads for Sharp Weekly Rise — Crude oil climbed toward $104 per barrel on Friday and was on track to gain more than 13% for the week, marking its biggest weekly increase since mid-July as the escalating conflict between the US and Iran fueled concerns over prolonged disruptions to global energy supplies. Top US officials reportedly warned President Donald Trump that the war could continue through the remainder of his term, which ends in January 2029. Meanwhile, Iranian leaders are reportedly determined to continue fighting despite mounting economic costs, viewing the conflict as an existential threat. They also claim that Tehran has managed to rebuild its missile capabilities and could intensify attacks on US and Gulf assets if Washington escalates its own strikes. Fighting has intensified over the past two weeks, with the US targeting Iranian oil tankers while Iran launched missiles at US warships and tankers in the Persian Gulf, as well as American assets in neighboring countries."
     }
   ]
 }
