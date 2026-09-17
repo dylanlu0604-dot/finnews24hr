@@ -1,7 +1,51 @@
 {
   "date": "2026-09-18",
-  "count": 229,
+  "count": 235,
   "items": [
+    {
+      "id": "5100552",
+      "time": "2026-09-18 02:36:56",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院：伊朗代表團獲准參加聯合國大會。"
+    },
+    {
+      "id": "mkt:01a0b0a8-33cd-7118-85e8-a4bf21cae6dd",
+      "time": "2026-09-18 02:36:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says Washington has issued visas to Iranian representatives to attend a United Nations meeting."
+    },
+    {
+      "id": "5100551",
+      "time": "2026-09-18 02:36:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國以礦產和軍事領域為目標對古巴實施新制裁】根據美國國務院透過電子郵件傳送的事實清單，美國正在“制裁八個實體和三名個人，以進一步推進特朗普政府全面終結古巴政權惡意活動的努力”。宣告稱：“此次行動包括對古巴政權的鎳開採體系及軍工綜合體實施制裁。”古巴國有礦業公司 Pinares SA 被列入受制裁組織名單。財政部將部分受制裁實體描述為國有研究與實驗開發機構。"
+    },
+    {
+      "id": "mkt:01a0b0a7-9fce-7118-85e8-99a1e9185c0d",
+      "time": "2026-09-18 02:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia extends ban on Western agricultural imports】Putin signed an order on Sept. 17 extending the Western agricultural import ban under Presidential Decree No. 560 (2014), moving the expiry from Jan. 1, 2027 to Dec. 31, 2028. The 2014 decree prohibits imports of certain agricultural products and food from countries that have imposed sanctions on Russia, including the United States, the EU, Canada, Australia and Norway. Moscow has repeatedly extended the ban and adjusted the list of covered countries and goods."
+    },
+    {
+      "id": "5100550",
+      "time": "2026-09-18 02:36:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：批准首款用於治療A型桑菲利波綜合徵兒科患者的基因療法。"
+    },
     {
       "id": "mkt:01a0b0a6-73f6-7118-85e8-92b00c24360b",
       "time": "2026-09-18 02:34:53",
@@ -112,6 +156,14 @@
         "公司"
       ],
       "text": "克魯索能源（Crusoe）完成由阿特雷德斯資本管理（Atreides Management）、穆巴達拉投資公司（Mubadala Capital）與瓦洛爾股權合夥人（Valor Equity Partners）共同領投的新一輪融資，英偉達、卡達投資局、TPG等機構參投。"
+    },
+    {
+      "id": "5100541",
+      "time": "2026-09-18 02:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：制裁古巴11個實體和個人，他們參與了發展古巴軍事能力以及開採其礦業部門的活動。"
     },
     {
       "id": "5100540",
