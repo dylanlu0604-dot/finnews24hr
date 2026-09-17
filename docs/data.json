@@ -1,7 +1,171 @@
 {
-  "updated": "2026-09-17 22:31:12",
-  "count": 13382,
+  "updated": "2026-09-17 22:35:04",
+  "count": 13395,
   "items": [
+    {
+      "id": "5100259",
+      "time": "2026-09-17 22:34:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【軟通動力聯合華為雲釋出“軟通天璇AgentOS”1.2商用版本】據軟通動力訊息，9月17日，華為全聯接大會2026中，軟通動力聯合華為雲釋出“軟通天璇AgentOS”1.2商用版本，標誌著該企業級智慧體作業系統從技術驗證走向規模化商用，為AI時代Token生產力單元落地提供關鍵底座。"
+    },
+    {
+      "id": "5100257",
+      "time": "2026-09-17 22:34:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬：2027年小鵬將全球上線VLA，正在海外建立小鵬超級儲能充電站】小鵬G9L釋出會舉行。會後，小鵬集團董事長、CEO何小鵬與新浪科技等媒體進行對話。何小鵬透露：“以前沒有法規支援，但2027年小鵬將全球上線VLA。另外，我們正在海外初步建立小鵬超級儲能充電站。明年開始，我覺得大家會看到，小鵬可能是出口既賣的貴、又賣的好、又增長快的企業，這一點我們非常有信心。”（新浪科技）"
+    },
+    {
+      "id": "5100256",
+      "time": "2026-09-17 22:34:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月17日22時19分在安德烈亞諾夫群島附近（北緯52.71度，西經171.74度）發生6.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5100255",
+      "time": "2026-09-17 22:34:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰海通評9月美聯儲議息會議： 地緣仍是決定性變數】國泰海通釋出研報認為，9月美聯儲加息落地且表態偏鷹是一次對美聯儲公信力的重塑，是沃什獨立性表達的開始，極具標誌性節點意義，新的加息週期的開啟或將帶來資產價格演繹的全新邏輯。“鷹派”加息將會使美債利率曲線趨於平坦化，短期流動性敏感品種估值承壓，美長債配置價值提升，但我們認為地緣仍是決定性變數。"
+    },
+    {
+      "id": "5100254",
+      "time": "2026-09-17 22:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔信託：擬出售塔塔之子股權，總對價最低為2500億盧比。"
+    },
+    {
+      "id": "5100253",
+      "time": "2026-09-17 22:33:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間9月17日，美國地質調查局表示，阿拉斯加尼科爾斯基地區發生6.3級地震。（央視新聞）"
+    },
+    {
+      "id": "5100252",
+      "time": "2026-09-17 22:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元兌英鎊EUR/GBP突破0.86，日內漲0.42%。"
+    },
+    {
+      "id": "mkt:01a0afc8-f8d3-7118-85e4-6f3314223a89",
+      "time": "2026-09-17 22:32:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EUR/GBP breaks above 0.86, up 0.42% on the day."
+    },
+    {
+      "id": "mkt:01a0afc8-7ac3-7118-85e4-66a82ee38322",
+      "time": "2026-09-17 22:32:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say a US banking regulator has issued layoff notices to employees."
+    },
+    {
+      "id": "mkt:01a0afc8-3e25-7118-85e4-5f6afb2b0e4c",
+      "time": "2026-09-17 22:32:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures extended gains, rising 2.1%, after the EIA reported storage increases were below expectations."
+    },
+    {
+      "id": "5100251",
+      "time": "2026-09-17 22:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅小於預期後，美國天然氣期貨延續漲勢，漲幅達2.1%。"
+    },
+    {
+      "id": "5100250",
+      "time": "2026-09-17 22:31:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "BIOSERGEN AB公司：公司股票在納斯達克第一北增長市場的最後一個交易日預計為2026年10月21日。"
+    },
+    {
+      "id": "5100249",
+      "time": "2026-09-17 22:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行業監管機構向員工下發裁員通知。"
+    },
+    {
+      "id": "5100248",
+      "time": "2026-09-17 22:31:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦存款保險公司提出州立銀行與國民銀行對等監管規則草案。"
+    },
+    {
+      "id": "5100247",
+      "time": "2026-09-17 22:31:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "EIA天然氣報告：截至9月11日當週，美國天然氣庫存總量為32980億立方英尺，較此前一週增加440億立方英尺，較去年同期減少1220億立方英尺，同比降幅3.6%，同時較5年均值高1180億立方英尺，增幅3.7%。"
+    },
+    {
+      "id": "mkt:01a0afc7-5106-7118-85e4-578e55808d63",
+      "time": "2026-09-17 22:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA: U.S. working natural gas inventories totaled 3,298 Bcf in the week ended Sep 11, up 44 Bcf week-on-week, down 122 Bcf YoY (-3.6%), and 118 Bcf above the 5-year average (+3.7%)."
+    },
+    {
+      "id": "5100246",
+      "time": "2026-09-17 22:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克批准 BIOSERgen 從北歐第一成長市場摘牌的申請，附帶針對這家瑞典企業的相關條件。"
+    },
+    {
+      "id": "5100245",
+      "time": "2026-09-17 22:30:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先鋒新材新增董事候選人 擁有算力產業背景】先鋒新材(300163)9月17日公告，公司收到股東張釗明提交的臨時議案，提名王成為公司第七屆董事會非獨立董事候選人。王成曾擔任新疆智晟銀豐算力技術有限公司總經理、開界智算（成都）科技有限公司董事；2026年3月起，他擔任巴州西數智控科技有限責任公司總經理等職務，相關履歷集中在算力產業、數字科技領域。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609173877629213",
+      "time": "2026-09-17 22:30:47",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週EIA天然氣庫存增加440億立方英尺，前值增加400億立方英尺，預期增加490億立方英尺。"
+    },
     {
       "id": "te:markets:584664",
       "time": "2026-09-17 22:30:31",
@@ -123260,59 +123424,6 @@
         "Impact bullish"
       ],
       "text": "UK 5-year gilt yield rose 14bps intraday to 4.94%, poised for the largest single-day rise since July 8."
-    },
-    {
-      "id": "5087843",
-      "time": "2026-09-10 22:34:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國五年期國債收益率日內上漲14個基點，至4.94%，有望創下7月8日以來最大單日漲幅。"
-    },
-    {
-      "id": "te:economy:582858",
-      "time": "2026-09-10 22:34:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 40 billion cubic feet (bcf) of natural gas to storage in the week ending September 4, 2026, above market expectations of a 31-bcf build. This compares with an injection of 69 bcf during the same week a year ago and an average increase of 52 bcf for that week over the past five years (2021–2025). The latest injection increased stockpiles to 3.254 trillion cubic feet (tcf), which is 2.4% below the level recorded in the same week a year ago and 4.8% above the five-year average for the week. In the prior week, ended August 28, energy firms added 30 bcf of natural gas to storage."
-    },
-    {
-      "id": "5087842",
-      "time": "2026-09-10 22:33:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王堅稱不要跟AI較勁 它不會取代人】9月10日，阿里雲創始人、之江實驗室主任王堅在外灘大會進行了一場特殊的戶外演講。 “大家不要跟人工智慧去較勁。”在現場互動中，王堅希望人們不要擔心被AI替代，人工智慧既不會、也不能、也不應該取代人。 人工智慧應該被理解為“機器智慧”，而不是“人工製造的人類智慧”。王堅表示，回看人類發展，望遠鏡的出現比眼睛看得更遠，也曾挑戰人，但它最終被人類運用，“凡是有新東西發明，其實都是讓人類重新發現自己的邊界。”（第一財經）"
-    },
-    {
-      "id": "mkt:01a08bbb-9621-7118-852e-9a9c57b901b4",
-      "time": "2026-09-10 22:32:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported the chairman of Yemen's Supreme Political Council said the Taiz coastal area is stable and that Saudi-backed forces would be granted amnesty if they lay down their arms."
-    },
-    {
-      "id": "5087841",
-      "time": "2026-09-10 22:31:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮10日在社交媒體上說，美國總統特朗普宣佈，將向近100萬名“因‘奧巴馬醫改’被多收費”的美國人發放每人500美元的退款支票。（新華社）"
-    },
-    {
-      "id": "5087840",
-      "time": "2026-09-10 22:31:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）公佈庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達2.2%。"
     }
   ]
 }
