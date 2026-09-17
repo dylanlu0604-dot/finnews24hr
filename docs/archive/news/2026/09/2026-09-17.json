@@ -1,7 +1,124 @@
 {
   "date": "2026-09-17",
-  "count": 1268,
+  "count": 1279,
   "items": [
+    {
+      "id": "5098904",
+      "time": "2026-09-17 11:54:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IDC：二季度全球智慧眼鏡市場出貨量同比增長35.3%】IDC最新資料顯示，2026年第二季度全球智慧眼鏡市場出貨量達到354.7萬臺，同比增長35.3%。其中，音訊及音訊拍攝眼鏡出貨量為249.4萬臺，同比增長54%；AR/ER眼鏡出貨量為50.5萬臺，同比增長75.7%；VR/MR頭顯出貨量為54.8萬臺，同比下降23.3%。2026年上半年，全球智慧眼鏡市場累計出貨量達到711.4萬臺，同比增長70.5%。本輪增長主要由眼鏡形態產品推動，市場結構正逐步向更高階和智慧化方向演進。下半年，隨著新品釋出和技術融合，行業格局有望進一步調整，但整體需求表現還需持續觀察。"
+    },
+    {
+      "id": "5098903",
+      "time": "2026-09-17 11:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北水發集團、中國建築等成立水利開發公司】企查查APP顯示，近日，老河口漢丹水利開發有限公司成立，法定代表人為江浩，註冊資本為2000萬元，經營範圍包含水力發電；天然水收集與分配；自來水生產與供應；水利情報收集服務；水資源管理；灌溉服務等。企查查股權穿透顯示，該公司由湖北水利發展集團有限公司旗下湖北水發漢江控股有限公司、中國建築全資子公司中國建築一局（集團）有限公司等共同持股。"
+    },
+    {
+      "id": "5098900",
+      "time": "2026-09-17 11:53:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納科諾爾在深圳成立投資控股公司】企查查APP顯示，近日，燚昇投資控股（深圳）有限公司成立，法定代表人為付博昂，註冊資本為5000萬元，經營範圍包含以自有資金從事投資活動。企查查股權穿透顯示，該公司由納科諾爾間接全資持股。"
+    },
+    {
+      "id": "te:markets:584434",
+      "time": "2026-09-17 11:52:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Edges Higher — The offshore yuan edged higher to around 6.70 per dollar on Thursday, after holding steady in the previous session, as China broadens currency clearing in a bid to advance the yuan’s internationalization. The Shanghai Clearing House started central counterparty (CCP) services for spot trades in the Singapore dollar, New Zealand dollar and Thai baht on Sept. 14, with twelve banks clearing 996 million yuan ($148 million) in the first session. The move could set the stage for more currencies to be cleared directly against the yuan as Beijing seeks to broaden its global use, alongside efforts by Chinese banks this year to expand clients’ access to direct yuan trading amid growing cross-border trade and investment. Meanwhile, US Treasury Secretary Scott Bessent is set to meet Chinese Vice Premier He Lifeng this weekend for final preparatory talks ahead of the Sept. 24 summit between Presidents Donald Trump and Xi Jinping in the US."
+    },
+    {
+      "id": "mkt:01a0ad7e-86f1-7118-85d0-ed47b23d629a",
+      "time": "2026-09-17 11:52:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Macquarie expects the Federal Reserve to raise rates by a further 50 bps, with 25 bps in December and 25 bps in Q1 2027."
+    },
+    {
+      "id": "te:markets:584433",
+      "time": "2026-09-17 11:52:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Breaches 96 as Hawkish Fed, Oil Weigh — The Indian rupee fell to around 96.1 per dollar, extending losses to multi-week lows as elevated crude oil prices, a stronger dollar and expectations of further US monetary tightening weighed on the currency. Brent crude hovered near $108 a barrel, keeping demand for dollars from oil importers elevated, while the US 10-year Treasury yield approached 5%. The pressure intensified after the Federal Reserve raised interest rates by 25 basis points on Wednesday, its first hike since 2023, and signalled another increase could follow this year. The move pushed the Dollar Index above 100 to its highest level in more than a month, while futures indicated roughly a 50% chance of another Fed hike next month. Foreign portfolio outflows from Indian stocks and bonds added to the pressure, although a $703 million allocation of NSE shares to anchor investors and continued RBI dollar sales could provide some support."
+    },
+    {
+      "id": "mkt:01a0ad7e-269d-7118-85d0-e12acdf0b443",
+      "time": "2026-09-17 11:52:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi authorities have signed a major investment contract with Unigaz Arabia to develop an integrated natural gas storage, filling and distribution facility in Ha'il province, SPA reported."
+    },
+    {
+      "id": "5098899",
+      "time": "2026-09-17 11:51:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "麥格理預計美聯儲將再加息50個基點，2026年12月和2027年第一季度大機率各加息25個基點。"
+    },
+    {
+      "id": "mkt:01a0ad7d-8a6d-7118-85d0-d8ab366f2282",
+      "time": "2026-09-17 11:51:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Traders say the Reserve Bank of India may be selling dollars to support the rupee."
+    },
+    {
+      "id": "5098898",
+      "time": "2026-09-17 11:50:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱：印度央行可能正在拋售美元以遏制盧比貶值。"
+    },
+    {
+      "id": "5098897",
+      "time": "2026-09-17 11:50:48",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構： 本輪美聯儲加息週期或再加息兩次】星展集團研究部的Taimur Baig在一份報告中表示，在當前加息週期內，美聯儲可能會再加息兩次，一次在今年，另一次在 2027 年初。這位首席經濟學家稱，美聯儲 9 月全員投票透過加息，為後續繼續加息埋下伏筆。他補充道：“儘管通脹很大程度上由供給側因素推動，但通脹前景仍存在諸多風險，需要進一步採取行動。” 他提到，美聯儲主席沃什指出，目前通脹回落至 2% 目標水平的速度仍不盡如人意，短期利率依舊是美聯儲履行政策使命的核心工具。因此Baig預計本輪加息週期的終端利率將達到 4.5%。"
+    },
     {
       "id": "mkt:01a0ad7c-d52c-7118-85d0-d288c179ea55",
       "time": "2026-09-17 11:50:34",
