@@ -1,7 +1,625 @@
 {
-  "updated": "2026-09-18 05:57:45",
-  "count": 13323,
+  "updated": "2026-09-18 07:15:52",
+  "count": 13319,
   "items": [
+    {
+      "id": "5100739",
+      "time": "2026-09-18 07:12:54",
+      "tags": [
+        "資料"
+      ],
+      "text": "【國泰海通：成品油輪未來數年供給剛性 高景氣持續性有望超預期】國泰海通釋出研報稱，成品油輪未來數年供給剛性，高景氣持續性有望超預期，建議增持。成品油輪船東自2023年率先批次下單，隨後數年景氣波動影響下單持續性。目前成品油輪在手訂單佔比22%，仍處歷史偏低水平。目前20歲以上老船已超20%，未來三年將再有近20%超20歲。目前在手訂單僅保障未來數年主流市場合規運力規模平穩，而船廠訂單已排期至2030年之後，船臺緊張將保障未來數年成品油運供給剛性。亞洲貿易恢復與補庫將驅動成品油運短期景氣快速上升，全球煉廠東移與貿易加速重構將保障中長期高景氣可持續，提供業績估值雙重空間。"
+    },
+    {
+      "id": "5100738",
+      "time": "2026-09-18 07:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通：石化供應恢復延遲疊加庫存持續去化 Q4油價易漲難跌】國泰海通釋出研報稱，8月國際油價整體上行，地緣擾動加劇，全球庫存持續去化。Q4供應預期進一步下修，地緣風險及低庫存對油價形成支撐，但高油價對需求的負反饋逐步顯現。三大機構預計需求預測分歧，IEA和EIA預計2026需求下滑，OPEC預計維持增長。油價偏強震盪，推薦上游的公司，以及受益替代路線的公司。"
+    },
+    {
+      "id": "5100737",
+      "time": "2026-09-18 07:11:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：開放大片聯邦土地供獵人和漁民使用。"
+    },
+    {
+      "id": "5100736",
+      "time": "2026-09-18 07:11:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普將於週五至週日前往戴維營。"
+    },
+    {
+      "id": "5100735",
+      "time": "2026-09-18 07:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間週五下午2:30宣佈醫改方案。"
+    },
+    {
+      "id": "mkt:01a0b1a2-e82f-7118-85ea-c21d59c2330b",
+      "time": "2026-09-18 07:10:38",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "ASUS has partnered with Poesis to develop autonomous trading agents using NVIDIA (NVDA.O) technology."
+    },
+    {
+      "id": "5100732",
+      "time": "2026-09-18 07:09:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、國務院辦公廳印發《關於進一步加強煙花爆竹全鏈條安全監管的意見》\n2、打通新技術新產品走向臨床的“關鍵一公里” 價格預立項，加速創新醫療技術落地（政策解讀）\n3、兩部門明確重要工業品低價無序競爭成本核算有關事項\n4、加快推動廣電視聽高質量發展（權威釋出·開局起步“十五五”）\n5、從下沉市場看消費潛力（縱橫）\n6、《全國種植業發展“十五五”規劃》印發\n7、《統計改革發展“十五五”規劃》釋出\n8、三項網路安全標準實踐指南釋出\n9、海南首臺“華龍一號”核電機組投產商運\n10、國內首款罕見病氨基酸元件類特醫食品獲批註冊\n11、《全國碳市場發展報告（2026）》釋出 全國碳市場累計成交量9.61億噸。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609183877683465",
+      "time": "2026-09-18 07:09:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【時隔三年多再加息 美聯儲政策影響幾何】北京時間9月17日凌晨，美聯儲宣佈加息25個基點，將聯邦基金利率目標區間上調到3.75%至4%。同步更新的點陣圖顯示，在18名提供利率預測的官員中，有16名官員預計今年美聯儲至少還有1次加息。芝商所美聯儲觀察工具顯示，市場目前預期美聯儲在10月加息的機率略超50%。"
+    },
+    {
+      "id": "5100730",
+      "time": "2026-09-18 07:09:30",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平就發展先進製造業作出重要指示強調 持續做大做強先進製造業 為推進中國式現代化提供有力支撐 李強出席全國先進製造業大會並講話\n2、堅定不移建設製造強國——習近平總書記重要指示激勵廣大幹部群眾在先進製造業發展道路上攀高逐新、爭先致遠\n3、聚焦國家戰略需求 努力培養更多高素質人才——習近平總書記對吉林大學建校80週年的賀信激勵青年學子和教育科技工作者奮進擔當\n4、丁薛祥出席第23屆中國—東盟博覽會開幕式並會見與會外國政要\n5、讓中國製造的根扎得更深（今日談）\n6、湖南大力弘揚偉大長征精神——枝葉總關情 初心暖山鄉（賡續長征精神 奮進復興征程）\n7、凝聚起中華民族偉大復興的磅礴力量——新時代以來我國民族團結進步事業取得歷史性成就、發生歷史性變革。"
+    },
+    {
+      "id": "te:markets:584732",
+      "time": "2026-09-18 07:08:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Equities Head for Weekly Gain — The NZX 50 advanced 29 points, or 0.2%, to 13,785 in Friday morning trade, up for the third straight session, tracking gains on Wall Street overnight as easing oil prices softened Treasury yields, while the Fed’s rate hike reaffirmed the central bank’s commitment to contain inflation. Thursday’s data continued to lift sentiment after New Zealand’s GDP grew faster than expected in Q2. However, traders awaited China’s interest rate decision and US PMI data next week for clues about the economic outlook in the two countries. On the data front, New Zealand’s trade deficit narrowed in August from July, as exports rose more than imports, while food inflation stayed at a 19-month low. Real estate, consumer discretionary, and financials mainly drove the index, with notable gains including Port of Tauranga (1.0%), Chorus (0.8%), Hallenstein Glasson (0.8%), and Auckland International Airport (0.5%)."
+    },
+    {
+      "id": "5100727",
+      "time": "2026-09-18 07:06:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "世界銀行：集團執行董事會討論了泰國2027財年至2032財年新版國傢伙伴關係框架（CPF）。"
+    },
+    {
+      "id": "te:economy:584731",
+      "time": "2026-09-18 07:03:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "New Zealand Food Inflation Stays at 19-Month Low — Annual food inflation in New Zealand stood at 1.9% in August 2026, unchanged from the previous month, which was the softest increase since December 2024. Prices for meat, poultry, and fish increased by 3.4% (vs 3.2% in July), after marking the slowest rate since at least June 2025 in July, and remained the largest contributor to the annual increase in food prices. Grocery food prices also accelerated (1.7% vs 1.6% in July), while fruit and vegetable prices fell at a faster rate, declining 1.6%, following a 1.0% drop in July."
+    },
+    {
+      "id": "5100726",
+      "time": "2026-09-18 07:02:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：激進對沖基金 Jana Partners 要求隱形眼鏡製造商庫博光學更換執行長，並評估出售其核心業務。"
+    },
+    {
+      "id": "5100725",
+      "time": "2026-09-18 07:01:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國將燃油稅減免政策延長至 11 月底】韓國財政部週五表示，將把燃油稅減免措施再度延長兩個月，執行至 11 月底。 財政部稱，為緩解中東局勢引發油價波動帶來的燃油成本壓力，將繼續維持汽油 15%、柴油與丁烷 25% 的燃油稅減免幅度。"
+    },
+    {
+      "id": "mkt:01a0b199-b222-7118-85ea-bcb7060ec85f",
+      "time": "2026-09-18 07:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said it will extend the fuel tax relief for two months, through the end of November."
+    },
+    {
+      "id": "te:economy:584729",
+      "time": "2026-09-18 07:00:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Climbs 13% in August — Imports to New Zealand rose 13.1% year-on-year to NZD 8.0 billion in August 2026, following a 28.4% jump in the previous month. The increase in imports was mainly driven by higher purchases of petroleum and petroleum products (up 43%), vehicles, parts, and accessories (up 30%), electrical machinery and equipment (up 25%), and mechanical machinery and equipment (up 15%)."
+    },
+    {
+      "id": "5100724",
+      "time": "2026-09-18 06:59:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【富國銀行建議拋售日元 指日本央行或令鷹派失望】富國銀行建議在日本央行做出決定前賣出日元兌美元，因為它不太可能達到甚至超過鷹派的市場預期。“我們仍然懷疑日本央行能比市場已經隱含的激進緊縮路徑更鷹派，” 亞太宏觀策略主管Chidu Narayanan在一份報告中寫道。市場預期已隱含在2027年7月之前，每隔一次會議都將加息25個基點。“日本央行要滿足這些預期的門檻很高，要超越更難”。建議買入美元/日元，目標位159，止損位在153.40。"
+    },
+    {
+      "id": "5100723",
+      "time": "2026-09-18 06:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【地方補貼疊加車企促銷，釋放汽車消費潛能】為擴大汽車消費，9月份以來，多地啟動了新一輪汽車消費補貼活動。例如，青島市商務局釋出的《“2026禮惠金秋”新車消費補貼活動實施細則》顯示，自2026年9月10日起開展“2026禮惠金秋”新車消費補貼活動，市級財政安排資金5000萬元，資金額度用完即為活動結束；據漳州市商務局官網披露，9月11日至12月31日，該市開展2026年新一輪汽車促消費補貼活動，統籌620萬元財政資金髮放補貼名額，先到先得，用完即止；南京市商務局在微信公眾號釋出的訊息顯示，9月16日至12月31日，南京市組織各區開展第二輪汽車購新促消費活動。本輪地方推出的汽車消費補貼活動，有的只針對新車購置，並且按照新能源汽車、燃油汽車兩個類別確定補貼標準；有的還將二手車購置納入補貼範圍，針對新車、二手車分別設定了不同檔位的補貼標準。（證券日報）"
+    },
+    {
+      "id": "mkt:01a0b196-c739-7118-85ea-b1079c99bf87",
+      "time": "2026-09-18 06:57:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemen government forces, Houthi fighters clash near Bab al-Mandeb】Yemen government and Houthi officials said on the 17th that heavy fighting has raged over the past 24 hours near the Bab al-Mandeb Strait for high ground overlooking the strategic shipping lane. An anonymous government officer said fighting since the 16th has concentrated in the Kahbub highlands and surrounding heights in southern Lahij province, with Houthis launching a new offensive against government defences; the officer said fighting began overnight and has not stopped. At least 19 government soldiers have been killed and 15 wounded; the wounded were taken to a military hospital in Aden. A Houthi official, speaking anonymously, said the front remains deadlocked, several commanding heights have changed hands multiple times and at least 25 Houthi fighters have been killed with others wounded."
+    },
+    {
+      "id": "5100722",
+      "time": "2026-09-18 06:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國民航局：推動人工智慧規模化落地、常態化應用】以“人工智慧與民航融合發展”為主題的第四屆中國航協航空大會正在北京舉行。大會上，中國民航局相關負責人介紹說，中國民航局已印發實施推進“人工智慧+民航”高質量發展指導意見，要推動人工智慧從概念探索、技術試驗轉向規模化落地、常態化應用。據介紹，民航場景豐富多元、資料資源密集，天然具備人工智慧落地應用的沃土。在機場端，重點推進大型樞紐機場智慧資源排程、機位智慧分配、執行態勢智慧研判、旅客全流程智慧出行服務，大幅提升樞紐執行效率和旅客出行體驗。在航空公司端，依託智慧演算法最佳化機組排班、航班動態調整、飛機智慧維修、航油精細管控，全面提升航司執行精細化水平。在航空物流領域，加快推進貨站作業、倉儲分揀、通關保障全鏈條智慧化改造，破解物流週轉效率瓶頸。（央視新聞）"
+    },
+    {
+      "id": "te:economy:584728",
+      "time": "2026-09-18 06:56:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Rise 15.4% in August — New Zealand's exports increased 15.4% yoy to NZD 6.66 billion in August 2026, after a downwardly revised 10.8% rise in the previous month. Export growth was mainly driven by higher exports of milk powder, butter, and cheese (7.6%); meat and edible offal (23%); and precious metals, jewellery, and coins (53%)."
+    },
+    {
+      "id": "5100721",
+      "time": "2026-09-18 06:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門政府軍與胡塞武裝在曼德海峽附近激戰】據葉門政府軍和胡塞武裝官員17日稱，過去24小時，雙方在曼德海峽附近激烈交火，爭奪能夠俯瞰這一中東地區重要航道的高地。一名匿名葉門政府軍官員當日告訴新華社記者，自16日以來，葉門南部拉赫季省卡赫布卜山區及周邊高地持續發生激烈戰鬥，胡塞武裝對政府軍防禦陣地發動新一輪攻勢。（新華社）"
+    },
+    {
+      "id": "5100720",
+      "time": "2026-09-18 06:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中小股東提案門檻要“降”，行權通道更要“暢”】新《公司法》將股東臨時提案持股門檻降至1%，至今已一年有餘，然而門檻下降並未明顯啟用中小股東的提案熱情。中小股東提案少，並非投資者沒有訴求。近兩年多場上市公司股東會上，關聯交易、股權激勵、修訂規則等方案遭遇中小股東高票反對，部分議案在大股東迴避表決後直接被否決。這說明，中小投資者對公司經營、利益分配有著清晰判斷，參與公司治理的意願持續高漲。可現實是，很多中小股東的合理訴求難以轉化為正式提案，制度供給與實際行權之間仍存在落差。行權成本高是第一道現實門檻。股東行使臨時提案權，需單獨或合計持有1%股份。對於分散股東而言，想要聯合湊齊這一持股比例，會面臨股東資訊隔離、聯絡渠道匱乏等難題，且自發聯合的時間成本、溝通成本高昂。即便湊夠持股條件，相關提案還需要具備清晰議題、可付諸表決的決議事項。普通投資者大多不熟悉相關規則，又缺少專業中介力量支援，不少提案因為格式、文字等形式瑕疵，直接被董事會擋在股東會之外。（證券時報）"
+    },
+    {
+      "id": "te:economy:584727",
+      "time": "2026-09-18 06:53:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "New Zealand Balance Trade Gap Below Estimates — New Zealand's trade deficit widened to NZD 1.35 billion in August 2026, up slightly from a NZD 1.31 billion gap in the same month a year earlier but below estimates of a NZD 1.78 billion gap. Exports grew 15.4% yoy to NZD 6.66 billion, after a downwardly revised 10.8% growth in July. Meanwhile, imports rose 13.1% yoy to NZD 8.0 billion, following a 28.4% jump in July."
+    },
+    {
+      "id": "mkt:01a0b192-7be5-7118-85ea-aa371b53ff7d",
+      "time": "2026-09-18 06:52:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UNGA adopts resolution allowing State of Palestine to participate in 81st session via video】On Sept. 17 the UN General Assembly adopted a resolution on participation arrangements for the State of Palestine during the 81st UNGA session, permitting President Mahmoud Abbas and other Palestinian representatives to participate via videoconference or pre-recorded statements after the United States refused to grant visas to Abbas and some officials. The draft passed 152-3-4; China voted in favor. The resolution expressed regret at the US decision to deny or revoke Palestinian representatives’ visas, urged their immediate reversal, and reaffirmed that State of Palestine representatives should be entitled to attend relevant meetings in person at UN headquarters in New York."
+    },
+    {
+      "id": "5100719",
+      "time": "2026-09-18 06:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯大透過決議 允許巴勒斯坦總統以影片方式參加第81屆聯大】當地時間9月17日，聯合國大會透過一項有關巴勒斯坦國在第81屆聯大會議期間與會安排的決議，在美國拒絕向巴勒斯坦總統阿巴斯及部分巴勒斯坦官員發放簽證的背景下，聯大決定允許巴勒斯坦方面透過視訊會議或預先錄製發言等方式參與有關聯合國會議。決議草案獲得152票支援，3票反對，4票棄權；中方投了贊成票。根據決議，大會對美國在第81屆聯大會議召開前拒發或吊銷巴勒斯坦國代表簽證表示遺憾，敦促立即撤銷相關決定。決議指出，巴勒斯坦國代表理應能夠親自參加在紐約聯合國總部舉行的相關會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b191-7ccd-7118-85ea-a31342e52f09",
+      "time": "2026-09-18 06:51:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "YONHAP reports South Korea's foreign minister will meet U.S. Secretary of State Rubio today; discussions are expected to cover Seoul's investment projects in the United States and security issues including the Strait of Hormuz."
+    },
+    {
+      "id": "5100718",
+      "time": "2026-09-18 06:49:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜加入AI安全討論 呼籲模型釋出前嚴格測試】亞馬遜表示，人工智慧模型只有在經過嚴格測試後才應釋出。在多家頂尖AI實驗室因安全漏洞呼籲放慢開發速度後，該公司也加入了有關AI發展步伐的討論。“我們並不認為進步與安全之間只能二選一，”亞馬遜發言人Tom Parnell在電子郵件中表示。“模型應當在準備就緒並能夠安全使用時才釋出，而這需要嚴格測試和強有力的防護措施。如果不能共同做到這一點，就會存在風險。我們相信，作為一個行業，在與政府合作之下，我們將共同確立恰當的保護措施。”亞馬遜是多家領先AI公司的合作伙伴和投資者，其中包括OpenAI和Anthropic PBC。這些公司的高管已呼籲放慢尖端AI的開發步伐，以評估這項技術的安全性。"
+    },
+    {
+      "id": "5100717",
+      "time": "2026-09-18 06:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮撤回前達美航空飛行員傑弗裡・安德森擔任重要國際航空職位的提名。"
+    },
+    {
+      "id": "5100716",
+      "time": "2026-09-18 06:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方稱沙特遭襲輸油管道將較快恢復執行】 當地時間17日，據美國方面訊息，美國能源部長賴特表示，日前遭無人機襲擊受損的沙烏地阿拉伯東西輸油管道預計將“相對較快”地恢復執行。沙特東西輸油管道10日遭無人機襲擊後被迫停運，該管道可幫助沙特繞開霍爾木茲海峽向外出口石油。此前有訊息稱，這條管道可能需要長達5周的修復後才能恢復執行。賴特對此表示，管道有3座泵站遭到襲擊，其中兩座受損較輕，預計這條管道會“相對較快”地恢復執行。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b18c-694e-7118-85ea-9ccc2550ca8f",
+      "time": "2026-09-18 06:46:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand food price index Aug YoY 1.9%, unchanged from prior 1.9%."
+    },
+    {
+      "id": "mkt:01a0b18c-4caa-7118-85ea-90b07d4946a1",
+      "time": "2026-09-18 06:45:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (YoY) (Aug) | actual 1.9% | previous 1.9%"
+    },
+    {
+      "id": "5100715",
+      "time": "2026-09-18 06:45:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭8月12個月貿易帳 -54.42億紐元，前值 -52.36億紐元。\n紐西蘭8月進口 80億紐元，前值 93.4億紐元。\n紐西蘭8月出口 66.6億紐元，前值 73.9億紐元。\n紐西蘭8月貿易帳 -13.49億紐元，前值 -19.49億紐元。"
+    },
+    {
+      "id": "mkt:01a0b18b-bd87-7118-85ea-8c648c5aa031",
+      "time": "2026-09-18 06:45:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand August imports NZ$8.0 bln; prior figure revised from NZ$9.34 bln to NZ$9.33 bln."
+    },
+    {
+      "id": "te:markets:584726",
+      "time": "2026-09-18 06:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Rises by 1.26% — Top crypto gainers are Binance (1.26%), Ether (1.13%) and Bitcoin (0.28%)."
+    },
+    {
+      "id": "mkt:01a0b18b-b1bf-7118-85ea-87b5413b4ca8",
+      "time": "2026-09-18 06:45:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand August trade balance -NZD1.349bn; July revised from -NZD1.949bn to -NZD2.118bn."
+    },
+    {
+      "id": "mkt:01a0b18b-af0c-7118-85ea-782b04336c97",
+      "time": "2026-09-18 06:45:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand 12-month trade balance to August: NZD -5.44 bln; prior revised from NZD -5.236 bln to NZD -5.41 bln."
+    },
+    {
+      "id": "mkt:01a0b18b-9fb9-7118-85ea-77c584f885b4",
+      "time": "2026-09-18 06:45:12",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand August food price index MoM 0.3%, prior 0.10%."
+    },
+    {
+      "id": "mkt:01a0b18b-9f88-7118-85ea-6d2b4406bee0",
+      "time": "2026-09-18 06:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand August exports NZD 6.66 bln; prior figure revised down from NZD 7.39 bln to NZD 7.22 bln."
+    },
+    {
+      "id": "mkt:01a0b18b-71f8-7118-85ea-640aa8fab37e",
+      "time": "2026-09-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (Aug) | actual 8000000000B | previous 9340000000B"
+    },
+    {
+      "id": "mkt:01a0b18b-71ef-7118-85ea-58b0d8caaa4a",
+      "time": "2026-09-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (Aug) | actual 6659999999.999999B | previous 7390000000.000001B"
+    },
+    {
+      "id": "mkt:01a0b18b-71ee-7118-85ea-54c8abe0138b",
+      "time": "2026-09-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (Aug) | actual -5440000000B | previous -5236000000B"
+    },
+    {
+      "id": "mkt:01a0b18b-71e5-7118-85ea-4eebc2cafcdb",
+      "time": "2026-09-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (Aug) | actual -1349000000B | previous -1949000000B"
+    },
+    {
+      "id": "mkt:01a0b18b-71df-7118-85ea-4508990178ad",
+      "time": "2026-09-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Aug) | actual 0.3% | previous 0.10%"
+    },
+    {
+      "id": "te:markets:584725",
+      "time": "2026-09-18 06:40:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Plunges by 6.05% — Top commodity losers are Cocoa (-6.05%) and Sugar (-3%). Gains are led by Oat (3.85%), Canola (0.75%) and Butter (0.59%)."
+    },
+    {
+      "id": "5100714",
+      "time": "2026-09-18 06:36:39",
+      "tags": [
+        "宏觀",
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【9月18日隔夜要聞一覽】\n1、美國國務院一名發言人當地時間9月17日表示，“儘管雙方處於交戰狀態，美國仍批准伊朗高層領導人的簽證”\n2、特朗普說：“我即將作出一個重大決定。我要不要直接打過去把他們（伊朗政權）消滅掉？這將是個重大決定。我這邊什麼情況都可能發生。”\n3、伊朗伊斯蘭革命衛隊海軍稱，一艘多哥籍油輪試圖 “非法” 穿越霍爾木茲海峽，已遭其打擊。\n4、英偉達執行長黃仁勳預計，隨著人工智慧在不同行業加速普及，公司未來一年晶片銷量將翻番。\n5、花旗勢將透過該行歷來最大規模美元債發行籌集120億美元\n6、Anthropic披露AI發展指標：Claude主導公司26%研發 參與約90%工作\n7、美國返還中方兩批64件文物藝術品和古生物化石。\n8、一架美國F-16戰鬥機當地時間9月17日在密歇根州北部的布萊爾鎮墜毀。\n9、摩根大通石油分析師稱，“我們根本不知道” 伊朗戰爭何時結束 ，戰爭結束道路越來越難以預測。"
+    },
+    {
+      "id": "5100713",
+      "time": "2026-09-18 06:36:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "te:markets:584724",
+      "time": "2026-09-18 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 3.55% — Top commodity gainers are Silver (3.55%), Gold (1.95%) and Copper (1.71%). Biggest loser is Steel Rebar (-0.70%)."
+    },
+    {
+      "id": "5100712",
+      "time": "2026-09-18 06:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“月付退出支付選項”系誤讀，記者實測：收銀臺頁面正在“分家”】近日，“平臺月付將退出支付選項”登上微博熱搜，相關話題不斷髮酵，引發消費者對選擇支付方式的疑問：以後花唄、美團月付、京東白條等產品不能用於線上付款了？日前，記者從支付寶、京東、美團等多家平臺客服處瞭解到，月付類產品仍可正常使用，且平臺會遵照監管規定對收銀臺頁面的展示方式進行調整。業內人士分析稱，上述熱搜中的說法是對《金融產品網路營銷管理辦法》第十二條規定的誤讀。新規並非禁止貸款類產品用於支付，而是強調要將此類產品與銀行卡、賬戶餘額等基礎支付工具區隔展示，從源頭上治理支付環節誘導借貸、“無感借貸”等亂象。（中證報）"
+    },
+    {
+      "id": "5100711",
+      "time": "2026-09-18 06:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創債從試水走向定製，創投募資生態正在重構】近期，國內創投機構積極發行科創債，條款設計上創新不斷，超長期限人工智慧產業鏈科創債、可交換條款科創債、定向發行科創債等新型產品陸續落地，債券市場正透過多元化機制適配硬科技投資的長週期屬性。在科創債助力創投機構緩解資金壓力、支撐長期科創投資的同時，行業也面臨著資負期限錯配、民營機構發債門檻高、增信渠道不暢等現實難題。專家表示，科創債的市場化創新仍需持續深化，透過完善增信機制、豐富產品體系、培育投資生態，進一步打通債券市場服務科技創新的資金通道。（中證報）"
+    },
+    {
+      "id": "5100710",
+      "time": "2026-09-18 06:30:43",
+      "tags": [
+        "宏觀",
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五（以下均為北京時間）】\n① 06:45 紐西蘭8月進出口與貿易帳；\n② 07:30 日本8月CPI，澳洲聯儲主席Michele Bullock出席眾議院經濟委員會聽證會，Hauser、Hunter、Kent、Jones等聯儲官員也將列席聽證會；\n③ 10:00 國新辦將舉行新聞釋出會 介紹“十五五”時期推進住房城鄉建設事業高質量發展有關情況；\n④ 時間待定 日本央行公佈利率決定；\n⑤ 14:00 英國8月零售銷售；\n⑥ 14:30 日本央行行長植田和男舉行貨幣政策新聞釋出會；\n⑦ 18:30 歐洲央行行長拉加德在歐元集團非正式ECOFIN會議結束後參與新聞釋出會；\n⑧ 21:15 美國8月工業產出，製造業產出；\n⑨ 21:30 美聯儲理事、負責金融監管事務的副主席鮑曼在英國倫敦談論壓力測試問題；\n⑩ 22:00 美國8月諮商會領先指標；\n⑪ 23:45 美國堪薩斯城聯儲主席Jeff Schmid談論支付與銀行；\n⑫ 週日 國務院關於修改《住房公積金管理條例》的決定正式實施，2026世界製造業大會在安徽省合肥市濱湖國際會展中心開幕（9月20-23日）。"
+    },
+    {
+      "id": "te:markets:584723",
+      "time": "2026-09-18 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Drops by 3.97% — Top commodity losers are Heating Oil (-3.97%), Methanol (-2.79%), Germany Natural Gas THE (-2.17%), Brent Oil (-1.64%) and Crude Oil (-1.18%). Gains are led by Natural Gas UK (1.32%), Ethanol (0.84%) and Natural Gas EU (0.73%)."
+    },
+    {
+      "id": "5100709",
+      "time": "2026-09-18 06:27:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic披露AI發展指標：Claude主導公司26%研發 參與約90%工作】Anthropic PBC表示，該公司超過四分之一的人工智慧研發工作由Claude聊天機器人主導，這為AI能夠幫助加快未來模型開發提供了迄今最明確的跡象。根據Anthropic週四釋出的報告，Claude“主導”該公司26%的研發，而今年年初這一比例幾乎為零。這家AI開發商表示，Claude還參與協助員工約90%的工作。這些資料是Anthropic更廣泛報告的一部分。隨著外界日益擔憂AI可能迅速提升自身能力並脫離人類控制，該報告旨在幫助公眾追蹤AI的發展進展。該公司還重申，計劃引入來自多家機構的第三方評估人員，並向其授予與本公司員工同等的內部流程、系統及資料訪問許可權。“AI系統正以指數級速度變得更加強大，並已開始將更多構建自身的過程自動化。隨著全球考慮放慢前沿AI的開發速度，公眾需要獲得更多資訊，”該公司寫道。"
+    },
+    {
+      "id": "5100708",
+      "time": "2026-09-18 06:25:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉Cybercab帶火Robotaxi賽道 無人出行商業化拐點漸近】無方向盤、無制動踏板的特斯拉Cybercab開啟中國巡展，再度將全球Robotaxi賽道的討論推向新高潮。業內專家認為，無人駕駛計程車所代表的無人出行業態，後續落地推廣節奏有望提速，並將帶動產業鏈上下游共同受益。放眼國內，車企與自動駕駛企業正加緊佈局Robotaxi賽道，持續拓展商業化落地版圖。多位業內人士在接受採訪時表示，無人駕駛出行短期內尚無法替代現有交通體系，但技術迭代與商業化落地的拐點正在臨近；安全底線，仍是自動駕駛規模化推廣不可動搖的前提。 (上證報)"
+    },
+    {
+      "id": "5100707",
+      "time": "2026-09-18 06:25:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【事關住房城鄉建設 今天10時舉行重要釋出會】國務院新聞辦公室將於9月18日（星期五）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請住房和城鄉建設部新聞發言人、副部長陳紹旺介紹“十五五”時期推進住房城鄉建設事業高質量發展有關情況，並答記者問。（央視）"
+    },
+    {
+      "id": "mkt:01a0b179-0fff-7118-85ea-3dc9b0129852",
+      "time": "2026-09-18 06:24:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council to hold housing and urban-rural development briefing Sept 18 at 10:00】The State Council Information Office will hold a “Kickoff of the 15th Five-Year Plan” themed press briefing on Sept 18 at 10:00. Ministry of Housing and Urban-Rural Development spokesperson and vice minister Chen Shaowang will outline plans to advance high-quality development in housing and urban-rural construction during the 15th Five-Year Plan period and take reporter questions."
+    },
+    {
+      "id": "mkt:01a0b177-886b-7118-85ea-365b12941784",
+      "time": "2026-09-18 06:23:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency, citing unconfirmed reports, said alarms sounded in Jeddah, Saudi Arabia; flights at the city's airport were suspended and its air-defence systems were activated."
+    },
+    {
+      "id": "5100706",
+      "time": "2026-09-18 06:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融產品網路營銷管理辦法實施在即，頭部網際網路平臺加快自查整改】中國人民銀行、金融監管總局、中國證監會等八部門印發的《金融產品網路營銷管理辦法》將於9月30日起實施。記者9月17日獲悉，面對無資質營銷、誤導性營銷、披露不全等金融產品網路營銷亂象，網際網路平臺與持牌金融機構近期加快對照辦法自查自糾，以規範金融營銷行為，築牢金融消費者權益保護防線。（上證報）"
+    },
+    {
+      "id": "te:markets:584722",
+      "time": "2026-09-18 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.54% — Top currency gainers are Brazilian Real (0.54%), Mexican Peso (0.46%), Swedish Krona (0.43%), Japanese Yen (0.18%) and Euro (0.10%). Biggest loser is British Pound (-0.17%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5100705",
+      "time": "2026-09-18 06:14:51",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【外圍擾動不改市場長期趨勢，基金公司看好A股韌性】多家基金公司判斷，此次美聯儲的貨幣緊縮政策，帶來的或是短期擾動，疊加國內貨幣政策具有獨立性，且A股基本面具備支撐，長期可保持樂觀，當下可採取“科技+紅利”的槓鈴配置思路。（上證報）"
+    },
+    {
+      "id": "5100704",
+      "time": "2026-09-18 06:12:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【報道：摩根大通與加拿大帝國商業銀行贏得卡尼加拿大機場出售專案委託】據知情人士透露，加拿大政府已聘請摩根大通和加拿大帝國商業銀行（CIBC），就出售該國四大機場運營權事宜提供顧問服務。加拿大總理馬克·卡尼於週二在多倫多舉行的加拿大投資峰會上正式宣佈，計劃為政府持有的這些資產引入私人投資。按客運量計算，加拿大最繁忙的四大機場分別為多倫多皮爾遜國際機場，以及蒙特利爾、溫哥華和卡爾加里的樞紐機場。"
+    },
+    {
+      "id": "mkt:01a0b16c-7fa8-7118-85ea-2a1f2a3a1f81",
+      "time": "2026-09-18 06:11:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Datafolha poll shows a hypothetical second-round presidential runoff in Brazil with Lula at 46% and Flavio Bolsonaro at 44%."
+    },
+    {
+      "id": "mkt:01a0b169-f8bc-7118-85ea-20417e8d6c62",
+      "time": "2026-09-18 06:08:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Datafolha poll shows Brazil first-round presidential voting intentions: incumbent President Lula 39%, former president Jair Bolsonaro’s son Flavio Bolsonaro 36%."
+    },
+    {
+      "id": "5100703",
+      "time": "2026-09-18 06:07:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通與加拿大帝國商業銀行獲委任，負責卡尼出售加拿大機場資產的相關事宜。"
+    },
+    {
+      "id": "5100702",
+      "time": "2026-09-18 06:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha 民調：巴西總統大選首輪，盧拉支援率 39%，弗拉維奧・博索納羅 36%。"
+    },
+    {
+      "id": "5100701",
+      "time": "2026-09-18 06:01:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月加息機率為55.4%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為44.6%，累計加息25個基點的機率為55.4%。美聯儲到12月維持利率不變的機率為12.6%，累計加息25個基點的機率為47.7%，累計加息50個基點的機率為39.8%。"
+    },
+    {
+      "id": "mkt:01a0b163-1398-7118-85ea-1d65b9eb30ea",
+      "time": "2026-09-18 06:00:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Trump considers meeting Venezuela interim president at UN General Assembly】Trump is considering meeting Venezuela’s interim president Delcy Rodriguez as early as next week during the UN General Assembly in New York, Axios reports. A US official says the meeting is not finalized and depends on Trump; the president has said he might meet her. Rodriguez, who assumed power after predecessor Maduro was reportedly captured in a US military operation, has worked with the Trump administration and Secretary of State Rubio on normalizing US‑Venezuela ties, including a previously reported large Venezuelan oil deal. Trump plans to discuss Iran with Gulf leaders at the UN; his team is reportedly prioritizing energy prices and immigration over pushing Venezuelan elections."
+    },
     {
       "id": "5100700",
       "time": "2026-09-18 05:48:51",
@@ -121935,660 +122553,6 @@
         "其他"
       ],
       "text": "巴西總統盧拉：我們需要討論最高法院大法官的任期限制問題，沒有人應當在最高法院任職40年。"
-    },
-    {
-      "id": "5088360",
-      "time": "2026-09-11 07:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防範盲目擴張 儲能電池擴產踩“剎車】在行業處於高景氣的同時，儲能產能擴張的隱憂也在加速顯現。針對儲能電池新建專案審批或將收緊的市場傳聞，記者近日向多家電池企業核實確認，該訊息屬實。本次調整並非一刀切式叫停專案，後續儲能專案審批節奏將結合市場供需現狀動態調整。業內分析認為，此次調整將加速行業分化，兼具動力、儲能雙業務佈局的頭部企業受影響程度有限，專注儲能賽道、依賴擴產融資的中小廠商則承壓明顯。同時，此次調整意在引導行業理性把控擴產節奏，提前化解遠期產能過剩隱患，推動儲能產業邁向高質量、理性化、可持續的發展階段。 (上證報)"
-    },
-    {
-      "id": "5088359",
-      "time": "2026-09-11 07:15:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新品密集釋出 消費電子板塊迎新一輪催化】近期，消費電子行業迎來新一輪事件催化。頭部廠商秋季新品密集釋出，摺疊屏、AI手機、AI眼鏡等新型終端加速落地，疊加政策層面持續釋放利好，市場對消費電子板塊的關注度顯著升溫。Wind資料顯示，萬得消費電子產業概念指數8月以來上漲超7%。分析人士認為，隨著頭部廠商進入新一輪產品創新週期，消費電子行業有望由傳統換機週期向產品創新驅動週期轉變，估值邏輯正從“週期定價”向“成長定價”遷移；在相關板塊前期已有一定表現的背景下，後續市場關注點將更多轉向新品銷量、產業鏈價值量提升以及業績兌現。（中國證券報）"
-    },
-    {
-      "id": "5088358",
-      "time": "2026-09-11 07:15:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產創新藥新適應症密集獲批 “一藥拓多域”重塑行業成長邏輯】創新藥行業正迎來一輪新適應症集中擴容的視窗。國內藥企多款創新藥接連獲批新適應症，一些全球重磅藥物亦不斷突破原有疾病適用邊界，“一藥拓多域”正成為國內外普遍採取的開發策略。單一適應症的創新藥，在上市後很容易觸及銷售天花板。而一些具備持續適應症拓展潛力的品種，則能夠拉長產品生命週期、攤薄研發與商業化成本，也有望重塑創新藥管線的成長邏輯。"
-    },
-    {
-      "id": "5088357",
-      "time": "2026-09-11 07:15:28",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【澳大利亞國債收益率升至2011年以來最高水平 追隨美債走勢】受中東緊張局勢升級導致油價上漲的影響，澳大利亞債券價格下跌，追隨隔夜美國國債跌勢。澳大利亞3年期國債收益率一度飆升18個基點至5.03%，10年期國債收益率上漲13個基點至5.38%。這兩個水平均為2011年5月以來的最高水平。此前，美國債券市場遭遇拋售，週四跌勢加速，因油價飆升加劇通脹擔憂，而且美國財政部在首次擴大回購操作中購買的債券數量少於預期。"
-    },
-    {
-      "id": "5088356",
-      "time": "2026-09-11 07:15:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我們將討論最高法院法官的任期限制問題。"
-    },
-    {
-      "id": "5088355",
-      "time": "2026-09-11 07:14:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理馬克·卡尼表示，美國本週針對加拿大采取的新一輪貿易措施將損害部分企業，但總體影響“溫和”；他同時暗示，加拿大政府並不打算採取報復措施。"
-    },
-    {
-      "id": "mkt:01a08d99-a1bf-7118-8536-7c914ef914bc",
-      "time": "2026-09-11 07:14:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said parties must respect Yemen's independence, sovereignty and territorial integrity and end the illegal, inhumane blockade, adding that security and stability in West Asia and the Red Sea cannot be achieved without protecting the legitimate rights and dignity of the Yemeni people."
-    },
-    {
-      "id": "5088352",
-      "time": "2026-09-11 07:13:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國司法部就快船隊與球星的相關交易展開調查】據知情人士透露，聯邦檢察官已啟動一項刑事調查，指控洛杉磯快船隊為球星科懷・倫納德安排秘密贊助合同，以此規避工資帽限制。兩名知情人士稱，調查尚處於初期階段，由美國布魯克林聯邦檢察官辦公室負責，該機構長期調查美國職業籃球聯賽（NBA）及職業體育相關案件。在 NBA 上週對快船隊、球隊老闆以及兩名高管作出一系列嚴厲處罰之前，相關部門就已開始核查此事。此前，受 NBA 及其總裁亞當・蕭華委託的律所認定，該球隊存在大範圍違規行為。"
-    },
-    {
-      "id": "5088351",
-      "time": "2026-09-11 07:12:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗有一些導彈，大部分已被摧毀。"
-    },
-    {
-      "id": "5088350",
-      "time": "2026-09-11 07:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部正在調查快船隊與科懷·倫納德的交易。"
-    },
-    {
-      "id": "5088349",
-      "time": "2026-09-11 07:10:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、開創“大金磚合作”高質量發展新局面（和音）\n2、國際打擊電信網路詐騙聯盟成立大會舉行 王小洪出席並致辭\n3、何立峰出席礦業國際合作部長論壇暨2026中國國際礦業大會開幕式並在天津調研\n4、加快建設金融強國 服務經濟高質量發展（權威釋出·開局起步“十五五”）到2035年，基本建成具有高度適應性、競爭力、普惠性的中國特色現代金融體系\n5、在第二十六屆投洽會，看中國與世界的“雙向奔赴” 擴大雙向投資 共促全球發展\n6、前8月4.99億人次出入境 免簽入境外國人同比上升26.8%\n7、9月起，國家標準為人工與智慧客服協同劃定清晰邊界 AI客服，如何更好服務消費者（探訪）\n8、運輸和商務服務專題展新參展企業佔比過半 服貿會上看“人享其行、物暢其流”（探館服貿會）\n9、“中歐北極快航”進入常態化運營階段（經濟聚焦）\n10、以高質量發展扛牢建設航空強國的使命擔當\n11、湖北武漢東湖高新區構建光電子資訊產業叢集，相關企業超1.6萬家 助更多中國企業被世界看見\n12、啟雲方為電子資訊產業提供全流程解決方案 持續深耕工業軟體國產化道路\n13、小米智慧家電工廠平均每6.5秒下線一臺空調 為智慧製造裝上“智慧大腦”\n14、中國信科持續加強創新 讓資料在海底光纜中跑得更快、更遠、更可靠\n15、銳科鐳射產品深度嵌入工業製造各環節 以自主研發賦能產業發展。"
-    },
-    {
-      "id": "5088348",
-      "time": "2026-09-11 07:10:18",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平對山東青島市北海造船廠一貨輪火災事故作出重要指示強調 深入排查整治各類火災隱患 落實落細防範措施 堅決遏制重特大事故發生 李強作出批示\n2、習近平將赴印度出席金磚國家領導人第十八次會晤\n3、推動金磚合作實現大發展、展現大作為——寫在習近平主席出席金磚國家領導人第十八次會晤之際\n4、努力培養擔當民族復興大任的時代新人——習近平總書記的節日祝賀和誠摯問候激勵廣大教師和教育工作者培根鑄魂、潛心育人\n5、丁薛祥出席第十六次亞太經合組織能源部長會議開幕式並致辭\n6、堅持以正確政績觀高質量推進國防和軍隊現代化——軍隊開展樹立和踐行正確政績觀學習教育取得明顯成效\n7、國辦印發《關於加強中小企業回款難問題治理有關工作的通知》\n8、擰緊擰實安全責任鏈條（今日談）。"
-    },
-    {
-      "id": "5088347",
-      "time": "2026-09-11 07:09:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【厄爾尼諾成國際糖價催化劑 國內糖市預計價格上行空間有限】受厄爾尼諾影響，A股市場“糖”概念股近期集體走強，中糧糖業、*ST廣糖、紅棉股份先後漲停；代糖概念板塊同步大漲，三元生物、華康股份、中糧科技等股價走高。期貨市場方面，截至記者發稿時，ICE原糖11號主力合約由8月初的14.65美分/磅上漲至9月10日的19.69美分/磅，漲幅達到34%。同期，國內白糖期貨主力合約漲幅為7%。目前，國內現貨糖價維持在為5220元/噸左右。一家頭部糖企負責人對記者介紹，截至目前，國內甘蔗長勢正常偏好，預計新榨季甘蔗總產量與上榨季基本持平或略增。業內判斷，國內食糖庫存處於高位，下榨季大機率延續增產態勢，即使原糖後期繼續上行，國內鄭糖整體上漲空間預計有限。（上海證券報）"
-    },
-    {
-      "id": "5088346",
-      "time": "2026-09-11 07:09:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：選擇性洩密是錯誤的，這可能會影響選舉。"
-    },
-    {
-      "id": "5088345",
-      "time": "2026-09-11 07:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與眾議院議長邁克·約翰遜以及參議院多數黨領袖約翰·圖恩談了5000美元分紅事宜。"
-    },
-    {
-      "id": "5088344",
-      "time": "2026-09-11 07:08:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "滙豐控股<5>於2026年11月9日07:07進行自有股份交易。"
-    },
-    {
-      "id": "te:economy:582920",
-      "time": "2026-09-11 07:08:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Peru",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Peru Keeps Rates Steady for 12th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in September 2026, extending its pause for a 12th consecutive meeting. Annual inflation rose to 4.4% in August from 4.1% in July, mainly due to a base effect from negative monthly inflation a year earlier, while inflation excluding food and energy eased to 4.5% from 4.6%. Excluding transportation, underlying inflation stood at 1.8% and has remained below 2% since April 2025. Twelve-month inflation expectations increased to 3.1% from 3.0%, slightly above the upper limit of the target range. The central bank expects inflation to return toward 2% as supply shocks fade, although El Niño and Middle East tensions could keep inflation pressures elevated. Economic activity remained strong in August, with all current-conditions indicators improving and expectations staying optimistic, though somewhat more moderate. Global risks remain elevated, reflected in greater financial-market and oil-price volatility."
-    },
-    {
-      "id": "5088343",
-      "time": "2026-09-11 07:08:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將透過經濟增長解決40萬億美元債務問題。"
-    },
-    {
-      "id": "mkt:01a08d93-f22e-7118-8536-77e93a23f566",
-      "time": "2026-09-11 07:07:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump escalates trade measures on Canada; Carney says impact limited, no retaliation planned】Canadian Prime Minister Carney said US trade measures against Canada this week will hit some firms and specific sectors materially but are, overall, limited when viewed against other US actions. He signaled Ottawa does not currently intend to retaliate, saying the appropriate response is to strengthen domestic economic resilience and diversify trade and economic ties."
-    },
-    {
-      "id": "5088342",
-      "time": "2026-09-11 07:07:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【黃仁勳：網路安全將成為下一個重大應用場景】英偉達聯合創始人兼執行長黃仁勳表示，網路安全有望成為人工智慧的下一個重大應用市場。隨著AI模型越來越多地參與軟體程式設計，程式碼被發現漏洞、遭到利用以及需要修復的速度都在加快，這一變化正在重塑網路安全行業，並可能催生新一輪AI相關需求。黃仁勳週四在舊金山舉行的高盛科技大會上表示：“網路安全很可能成為AI的下一個主要應用場景。”他指出，AI模型正在推動計算機程式設計自動化，而這一趨勢正在給網路安全行業帶來巨大變化。隨著AI能夠以前所未有的速度生成和處理程式碼，軟體漏洞可能更快暴露和被利用，同時企業也需要以更高速度發現並修復安全問題。"
-    },
-    {
-      "id": "5088341",
-      "time": "2026-09-11 07:06:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "勁方醫藥-B(02595)釋出公告，於2026年9月10日，該公司斥資206.3萬港元回購8萬股股份，每股回購價25.32-26港元。"
-    },
-    {
-      "id": "5088340",
-      "time": "2026-09-11 07:05:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：洩密是有選擇性的，它們帶有選舉偏見。"
-    },
-    {
-      "id": "5088339",
-      "time": "2026-09-11 07:04:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：最高法院必須公開所有調查結果，取消保密措施。"
-    },
-    {
-      "id": "5088338",
-      "time": "2026-09-11 07:04:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：最高法院的調查不應影響選舉。"
-    },
-    {
-      "id": "5088337",
-      "time": "2026-09-11 07:03:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星環科技：擬全球發售1401.08萬股H股，發售價不超61港元】9月11日早間，星環科技在港交所公告，公司擬全球發售14,010,800股H股，香港發售股份700,600股H股，國際發售股份13,310,200股H股；發售價不超每股61.00港元；預期股份將於2026年9月21日開始在香港聯交所買賣。"
-    },
-    {
-      "id": "mkt:01a08d8e-8e0a-7118-8536-6f69a98c057d",
-      "time": "2026-09-11 07:02:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) said it will pay a cash dividend of $0.53 per share on Sept. 28, 2026."
-    },
-    {
-      "id": "5088335",
-      "time": "2026-09-11 07:01:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 宣佈季度現金股息為每股 0.53 美元，2026 年 9 月 28 日派息。"
-    },
-    {
-      "id": "mkt:01a08d8e-3b99-7118-8536-675119332cd4",
-      "time": "2026-09-11 07:01:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Peru's central bank left its benchmark policy rate unchanged at 4.25%."
-    },
-    {
-      "id": "te:markets:582919",
-      "time": "2026-09-11 07:00:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Gains but Set for Weekly Decline — New Zealand stocks rose 24 points, or 0.2%, to 13,735 on Thursday, moving up from their lowest level since July 31, touched a day earlier, mainly buoyed by consumer discretionary, healthcare, and real estate. However, traders were cautious ahead of the release of US inflation data later today for clues on the Fed's monetary policy decision next week. Caution also built ahead of the release of New Zealand's GDP for Q2 and a slew of data from China, New Zealand's top trading partner, due next week. A downbeat session on Wall Street overnight also capped the gain, amid a surge in Treasury yields and rising oil prices. On the data front, New Zealand’s manufacturing sector expanded at a slower pace in August. Among earlier gainers were Hallenstein Glasson (1.6%), Ebos Group (1.1%), Chorus (0.7%), F&C Investment (0.6%), and ANZ Group (0.2%). For the week, the index is heading for a 1.5% fall, after rising in the previous week."
-    },
-    {
-      "id": "5088333",
-      "time": "2026-09-11 07:00:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行將基準利率維持在 4.25%（前值 4.25%）。"
-    },
-    {
-      "id": "5088332",
-      "time": "2026-09-11 06:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家銀行啟用AI面試官開展校招初篩】銀行業秋季校園招聘拉開帷幕。近期，多家銀行陸續釋出2027屆秋季校園招聘公告。整體來看，今年秋招出現一個新變化：原本多在春招試點的AI（人工智慧）面試，開始進入秋招流程，成為應屆生求職銀行崗位的首輪關卡。從招聘流程看，AI面試普遍設定在簡歷篩選之後、筆試之前，是銀行校招第一道系統性面試關卡。值得注意的是，現階段AI面試僅承擔初篩職能，並未取代人工面試。所有透過AI面試的應屆生，仍需參加銀行統一筆試、多輪人工複試及終面，經過層層考核後方有機會拿到錄用通知書。（證券日報）"
-    },
-    {
-      "id": "5088331",
-      "time": "2026-09-11 06:57:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【險資年內調研A股公司超萬次，重點關注電子元件、工業機械、積體電路等硬科技領域個股】Wind資料顯示，今年以來，保險機構（保險公司和保險資管公司）合計調研A股上市公司10185次。從標的來看，險資主要關注電子元件、工業機械、積體電路等硬科技領域的個股。受訪專家表示，硬科技領域符合國家戰略導向、產業發展空間廣闊、具備較大增長潛力、投資受監管鼓勵，因此險資更有動力加大相關領域配置。（證券日報）"
-    },
-    {
-      "id": "mkt:01a08d88-245d-7118-8536-5ef6da8aef20",
-      "time": "2026-09-11 06:55:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "7201.T"
-      ],
-      "text": "【Nissan reorganizes Japan production, maintains 1.0 mln domestic capacity】Nikkei reports Nissan will close one plant and reallocate output across remaining factories to keep Japanese production capacity at about 1.0 mln vehicles. Van production from two Fukuoka plants will be shifted to the Tochigi plant over the next 2–3 years. Nissan’s Oppama plant in Kanagawa is scheduled to cease operations at the end of fiscal 2027. The move is part of a global plan to close and restructure seven assembly plants. After Oppama shuts, Nissan’s direct Japan capacity will drop to roughly 800k; including vehicles produced for Nissan by Mitsubishi under contract, domestic capacity will remain near 1.0 mln."
-    },
-    {
-      "id": "5088330",
-      "time": "2026-09-11 06:52:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞 3 年期國債收益率上漲 16 個基點，創 2011 年 5 月以來新高。"
-    },
-    {
-      "id": "5088329",
-      "time": "2026-09-11 06:52:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【20家上市銀行中期擬分紅超2600億元，六大行分紅比例集體提升】9月10日，瑞豐銀行發放2026年中期現金紅利1.96億元，是今年首家派發中期“紅包”的A股上市銀行。至此，包括瑞豐銀行在內，已有20家A股上市銀行披露或實施2026年中期利潤分配方案，合計擬派息2661.14億元。其中，國有大行分紅總額佔比超八成，且集體擬提升分紅比例至31%。業內人士認為，下一步，上市銀行在不斷提升投資者獲得感的同時，分紅政策也應與宏觀經濟環境、監管導向及自身經營實際的變化動態適配。（中證報）"
-    },
-    {
-      "id": "5088328",
-      "time": "2026-09-11 06:48:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓媒：進口大豆短缺，韓國發出“豆腐危機”預警】據《韓國經濟》10日報道，韓國豆腐、大醬等食品生產企業正面臨進口大豆短缺。由於政府今年為扶持國產大豆消費而削減進口量，不少企業庫存已經見底。韓國約1000家小型豆腐廠中，半數以上可能在本月底停產。報道稱，韓國政府今年計劃進口大豆24.94萬噸，較2024年減少13%。往年政府還會根據市場情況追加進口約3萬噸，今年為促進國產大豆消費，不再追加供應。用於生產豆腐、大醬的進口大豆約22.39萬噸，比行業年需求量少近3萬噸。（環球時報）"
-    },
-    {
-      "id": "5088327",
-      "time": "2026-09-11 06:47:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【部分基金淨值V型修復】歷經7月的產品淨值深度回撤後，部分基金8月以來率先進入修復通道，產品淨值曲線呈現出明顯的V型走勢。Wind資料顯示，截至9月9日，二十餘隻在7月回撤超30%的基金，8月以來產品淨值反彈超30%。值得注意的是，這些基金普遍重倉光通訊產業鏈標的。多位業內人士認為，前期極致漲跌背後夾雜著較多的市場情緒因素，行情變化幅度遠超基本面短期變化。伴隨市場回撥，交易結構壓力有所緩解，投資者在保持謹慎的同時可繼續關注AI主線，並注重挖掘AI內部的結構性機會。（上證報）"
-    },
-    {
-      "id": "5088326",
-      "time": "2026-09-11 06:46:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX CFO：將由星艦送入軌道的首批升級版Starlink衛星料帶來收入】SpaceX首席財務官表示，公司預計，本月晚些時候將由星艦送入軌道的首批升級版Starlink衛星將帶來收入。SpaceX計劃明年發射首批軌道計算衛星。該公司首席財務官表示，SpaceX對年化收入達到1000億美元的預測“更有信心”。SpaceX本月早些時候達成了一項新的資料中心託管協議；客戶身份和交易規模均未披露，但協議結構與此前的交易類似。"
-    },
-    {
-      "id": "te:markets:582918",
-      "time": "2026-09-11 06:45:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 3.44% — Top crypto losers are XRP (-3.44%), Bitcoin (-1.83%), Binance (-1.40%) and Ether (-0.85%)."
-    },
-    {
-      "id": "te:economy:582917",
-      "time": "2026-09-11 06:44:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "New Zealand Manufacturing Growth at 3-Month Low — The BusinessNZ Performance of Manufacturing Index in New Zealand declined to 53.1 in August, down from 54.3 in July, marking the 22nd consecutive month of expansion but remaining above the long-term average of 52.5. It was the lowest reading since May, as two of the five sub-indices expanded at softer rates."
-    },
-    {
-      "id": "mkt:01a08d7d-d7e8-7118-8536-516388e48d93",
-      "time": "2026-09-11 06:43:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada, Ukraine agree to expand military drone production】Canadian Prime Minister Mark Carney met visiting Ukrainian President Zelenskiy in Calgary on the 10th and agreed to cooperate to expand military drone production, announcing a series of new deals. Ottawa will build a national digital platform for military drones modeled on Ukraine’s \"Brave One\" platform to accelerate R&D, procurement and deployment of drones and counter-drone systems and to secure supplies for the Canadian Armed Forces and Coast Guard. Canada has signed initial procurement contracts worth CAD 50 mln (about USD 36.15 mln). The two sides also signed a Canada‑Ukraine Century Partnership Declaration and a joint declaration to deepen defence and security cooperation."
-    },
-    {
-      "id": "5088325",
-      "time": "2026-09-11 06:43:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大與烏克蘭合作擴大軍用無人機生產】加拿大總理馬克·卡尼10日在艾伯塔省卡爾加里市與到訪的烏克蘭總統澤連斯基舉行會晤。雙方決定合作擴大軍用無人機生產，並宣佈達成一系列新協議。根據加總理辦公室釋出的新聞稿，加拿大將建立一個軍用無人機全國性數字平臺，以烏克蘭“勇敢一號”無人機平臺為藍本，加快無人機及反無人機系統研發、採購和部署，保障加軍及海岸警衛隊的裝備供應。加方已簽署首批價值5000萬加元（約3615萬美元）的採購合同。此外，雙方簽署了《加烏百年夥伴關係宣言》以及加強國防與安全合作的聯合宣言。加方宣佈多項對烏援助及合作計劃，包括採購烏防空攔截彈、維護與重建烏能源基礎設施，以及幫助烏克蘭發展關鍵礦產生產等。（新華社）"
-    },
-    {
-      "id": "te:markets:582916",
-      "time": "2026-09-11 06:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Barley Rises by 4.00% — Top commodity gainers are Barley (4%), Oat (2.31%) and Sugar (1.90%). Biggest losers are Palm Oil (-1.63%) and Coffee (-0.79%)."
-    },
-    {
-      "id": "5088324",
-      "time": "2026-09-11 06:37:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【主產國減產預期升溫，厄爾尼諾成國際糖價催化劑，國內糖市預計價格上行空間有限】受厄爾尼諾影響，A股市場“糖”概念股近期集體走強。期貨市場方面，截至發稿時，ICE原糖11號主力合約由8月初的14.65美分/磅上漲至9月10日的19.69美分/磅，漲幅達到34%。同期，國內白糖期貨主力合約漲幅為7%。目前，國內現貨糖價維持在為5220元/噸左右。一家頭部糖企負責人對記者介紹，截至目前，國內甘蔗長勢正常偏好，預計新榨季甘蔗總產量與上榨季基本持平或略增。業內判斷，國內食糖庫存處於高位，下榨季大機率延續增產態勢，即使原糖後期繼續上行，國內鄭糖整體上漲空間預計有限。（上證報）"
-    },
-    {
-      "id": "mkt:01a08d77-20af-7118-8536-4de4b62f0e60",
-      "time": "2026-09-11 06:36:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Commodities",
-        "Energy",
-        "US10Y",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【BESSENT downplays concern after Treasury buyback undershoots】BESSENT downplayed market concern after Thursday’s Treasury buyback fell short of the announced maximum and after a recent rise in U.S. Treasury yields, saying the market is “in very good shape.” Two-year yields hit their highest levels since 2024 and 10-year yields rose to highs not seen since 2023. He cited strong results at two recent Treasury auctions and repeated that the correlation between bond and energy prices is unusually high. He said the sell-off was driven by a surge in oil prices and by the Treasury repurchasing fewer securities than planned: the Treasury had announced buybacks of up to $6.0 bln but bought $5.19 bln on Thursday. “We only buy when prices are cheap,” he said, adding that holders preferred to keep long-dated paper; the Treasury typically receives about $20.0 bln of offers to sell but this time received roughly $10.0 bln."
-    },
-    {
-      "id": "5088323",
-      "time": "2026-09-11 06:35:49",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗現預計澳大利亞儲備銀行 2026 年將再加息兩次，利率上調至 4.85%。"
-    },
-    {
-      "id": "te:markets:582915",
-      "time": "2026-09-11 06:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Slumps by 6.14% — Top commodity losers are Platinum (-6.14%), Silver (-5.58%), Copper (-5.32%) and Gold (-1.82%)."
-    },
-    {
-      "id": "5088322",
-      "time": "2026-09-11 06:33:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【防範盲目擴張 儲能電池擴產踩“剎車”】針對儲能電池新建專案審批或將收緊的市場傳聞，記者近日向多家電池企業核實確認，該訊息屬實。本次調整並非一刀切式叫停專案，後續儲能專案審批節奏將結合市場供需現狀動態調整。 近日有市場訊息稱，儲能電池新建專案審批或將收緊，處於規劃階段、尚未正式開工的專案或暫緩實施，已經完成備案並且開工在建的專案則不受影響。9月9日，多家電池廠商相關負責人向記者證實了上述訊息。一家儲能電池廠商有關人士直言：“確實存在上述情況，但對公司影響有限。公司產能均為早前規劃，且已透過審批。”另有業內人士向記者表示，此次政策調整旨在合理把控儲能專案擴產節奏，防範行業盲目擴張，引導產業有序、健康發展。後續專案審批節奏將結合市場實際需求動態調整，而非“一刀切”。（上證報）"
-    },
-    {
-      "id": "5088321",
-      "time": "2026-09-11 06:33:10",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 時間待定美國芝商所100盎司白銀期貨24小時全天候交易啟動；\n② 時間待定 2026 中國算力大會（廊坊）；\n③ 14:00 英國7月GDP，商品貿易帳；\n④ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑤ 16:00 國際能源署（IEA）公佈月度原油市場報告；\n⑥ 17:15 瑞士央行行長Martin Schlegel講話；\n⑦ 18:00 俄羅斯央行公佈利率決議；\n⑧ 20:30 美國8月CPI；\n⑨ 22:00 美國9月密歇根大學5年通脹預期初值，歐洲央行行長拉加德講話；\n⑩ 次日01:00 歐洲央行首席經濟學家Lane講話；\n次日02:00 美國8月政府預算；\n週六待定 金磚國家領導人第十八次會晤在印度新德里舉行（9月12-13日）；\n週六18:15 歐洲央行行長拉加德講話。"
-    },
-    {
-      "id": "mkt:01a08d71-921a-7118-8536-46678d362af3",
-      "time": "2026-09-11 06:30:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Trump pushes US investment in Venezuelan oil; majors cautious as outsiders move in】Wall Street Journal: Coinbase co‑founder Fred Ehrsam, despite no prior oil and gas experience, spent months in Caracas building ties and has emerged as an unexpected US entrant in efforts to revive Venezuela's oil sector. Ehrsam's Primavera, co‑founded earlier this year, signed a production‑sharing contract with state oil firm PDVSA last week. President Trump has urged ExxonMobil, ConocoPhillips and Harold Hamm's Continental Resources to commit about $100 billion to restore Venezuelan fields. Eight months after the US captured Venezuela's president Maduro, the major oil companies have largely remained on the sidelines; Primavera is among the few US firms actively participating."
-    },
-    {
-      "id": "te:markets:582914",
-      "time": "2026-09-11 06:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil Soars by 8.32% — Top commodity gainers are Crude Oil (8.32%), Brent Oil (7.82%) and Heating Oil (7.08%)."
-    },
-    {
-      "id": "5088320",
-      "time": "2026-09-11 06:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭8月製造業表現指數 53.1，前值54.3。"
-    },
-    {
-      "id": "mkt:01a08d71-51fd-7118-8536-38844f74ddb9",
-      "time": "2026-09-11 06:30:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand August manufacturing performance index 53.1, down from 54.3 previously."
-    },
-    {
-      "id": "mkt:01a08d71-2fe6-7118-8536-37e8e1e24f24",
-      "time": "2026-09-11 06:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Manufacturing Index (Aug) | actual 53.1 | previous 54.3"
-    },
-    {
-      "id": "5088319",
-      "time": "2026-09-11 06:19:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【2026年A股上市公司現金分紅榜單揭曉，2.4萬億元“真金白銀”落地】中國上市公司協會（簡稱“中上協”）9月10日釋出2026年上市公司現金分紅榜單。資料顯示，2025財務年度A股上市公司分紅總額高達2.4萬億元，同比增長3.3%，創下歷史新高。近七成上市公司派發“真金白銀”，現金分紅已從階段性熱潮全面邁入“常態化”新階段。從最新出爐的榜單來看，頭部企業展現出較強的現金流實力。在現金分紅總額榜單中，工商銀行、建設銀行、中國移動、農業銀行、中國石油穩居前五，貴州茅臺、中國海油、招商銀行等緊隨其後。在股利支付率榜單中，東阿阿膠、雲南白藥、天地數碼等居前，貴州茅臺、伊利股份等消費龍頭同樣表現亮眼。而在股息率榜單中，中遠海控、廣日股份、中谷物流位列前三，格力電器、海瀾之家等高股息資產持續凸顯配置吸引力。（上證報）"
-    },
-    {
-      "id": "5088318",
-      "time": "2026-09-11 06:16:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多隻QDII新額度告急】多隻QDII（合格境內機構投資者）產品的新增額度正在被資金“哄搶”。9月9日，萬家納斯達克100指數發起式（QDII）的限購金額從此前的10元大幅提升至5000元。當日收盤後，萬家基金又火速公告稱，自9月10日起，該基金的限購金額被調低至100元。類似的還有匯添富納斯達克100 ETF發起式聯接（QDII）。9月2日，該基金（人民幣份額）的限購金額大幅升至1萬元，9月3日該金額降為2000元，9月4日再降為10元。此外，創金合信全球晶片產業股票發起（QDII）等也在幾日內經歷了限購放寬又收緊的過程。（上證報）"
-    },
-    {
-      "id": "te:markets:582913",
-      "time": "2026-09-11 06:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Drops by 0.96% — Top currency losers are Swedish Krona (-0.96%), Norwegian Krone (-0.88%), Australian Dollar (-0.85%), Japanese Yen (-0.63%), British Pound (-0.27%) and Euro (-0.22%). Gains are led by Dollar Index (0.28%)."
-    },
-    {
-      "id": "5088317",
-      "time": "2026-09-11 06:11:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【荷蘭通報三例西尼羅病毒感染死亡病例】荷蘭國家公共衛生與環境研究所10日通報，今年該國本土西尼羅病毒感染病例增至18人，其中三名感染人員死亡。通報說，感染病例中有一例是獻血時從其血液內檢測出西尼羅病毒，其餘均在出現症狀入院後確診。感染者分佈在烏得勒支省、北布拉班特省等六省。"
-    },
-    {
-      "id": "mkt:01a08d5e-09e4-7118-8536-2df7ede56d9e",
-      "time": "2026-09-11 06:09:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) executive said customers used its embedded AI features more than 150 mln times this quarter, a 42% QoQ increase."
-    },
-    {
-      "id": "5088316",
-      "time": "2026-09-11 06:08:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文高管：第一季度 GPU 利用率仍處於極高水平，達 97.9%。"
-    },
-    {
-      "id": "5088315",
-      "time": "2026-09-11 06:06:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文高管：本季度客戶使用我們的嵌入式人工智慧功能超 1.5 億次，環比增長 42%。"
-    },
-    {
-      "id": "mkt:01a08d58-87bd-7118-8536-26ee8e96e22c",
-      "time": "2026-09-11 06:03:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 10-year Treasury futures fell 4 ticks, 30-year Treasury futures fell 6 ticks."
-    },
-    {
-      "id": "5088313",
-      "time": "2026-09-11 06:01:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一名白宮高階官員透露，美國總統特朗普計劃於下週外出開展競選活動，為中期選舉造勢。舉辦地點將於不久後公佈。"
-    },
-    {
-      "id": "mkt:01a08d56-60af-7118-8536-1b60733aed98",
-      "time": "2026-09-11 06:00:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened slightly higher on Friday, trading at $100.65 per barrel."
-    },
-    {
-      "id": "5088312",
-      "time": "2026-09-11 06:00:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月加息機率為71.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為28.7%，累計加息25個基點的機率為71.3%。美聯儲到10月維持利率不變的機率為17.6%，累計加息25個基點的機率為54.8%，累計加息50個基點的機率為27.6%。"
-    },
-    {
-      "id": "5088311",
-      "time": "2026-09-11 06:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報64.12美元/盎司。"
-    },
-    {
-      "id": "5088310",
-      "time": "2026-09-11 06:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4357.99美元/盎司。"
-    },
-    {
-      "id": "5088309",
-      "time": "2026-09-11 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報104.20美元/桶。"
-    },
-    {
-      "id": "5088308",
-      "time": "2026-09-11 05:58:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯總統普京抵達印度，展開為期3天的訪問。"
-    },
-    {
-      "id": "mkt:01a08d54-560c-7118-8536-16523b05ccad",
-      "time": "2026-09-11 05:58:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin has arrived in India for a three-day visit, Russian media reported."
-    },
-    {
-      "id": "mkt:01a08d53-ac3a-7118-8536-0c291c8c3859",
-      "time": "2026-09-11 05:57:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC automatic detection: at 05:53 on Sept 11 a roughly magnitude-3.2 earthquake occurred near Weining County, Bijie, Guizhou, China; final parameters subject to the official rapid bulletin."
     }
   ]
 }
