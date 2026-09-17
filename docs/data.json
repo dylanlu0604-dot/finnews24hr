@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-17 12:06:25",
-  "count": 13664,
+  "updated": "2026-09-17 12:10:13",
+  "count": 13667,
   "items": [
+    {
+      "id": "mkt:01a0ad8d-60a2-7118-85d1-2b6dfa161e5d",
+      "time": "2026-09-17 12:08:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Xi Jinping issued instructions emphasizing continued expansion and strengthening of advanced manufacturing to provide robust support for advancing Chinese-style modernization."
+    },
+    {
+      "id": "mkt:01a0ad8d-061c-7118-85d1-22c0edf0b30b",
+      "time": "2026-09-17 12:08:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lula says he will tell Trump at UN not to interfere in Brazil election】Brazilian President Lula said on Sept. 16 he plans to tell U.S. President Trump at next week’s U.N. General Assembly not to interfere in Brazil’s election. Lula told a campaign event he will travel to the U.N. on Sept. 20 for meetings and to speak with Trump; Brazilian officials have not confirmed a Lula–Trump meeting. The UNGA general debate opens Sept. 22."
+    },
+    {
+      "id": "5098925",
+      "time": "2026-09-17 12:08:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中光防雷近期獲兩項實用新型專利】中光防雷公告，公司近期獲得國家智慧財產權局頒發的兩項專利證書，專利名稱分別為“一種電湧保護器”和“一種座體及可插拔電湧保護器”，專利型別均為實用新型，專利權期限均為10年。"
+    },
+    {
+      "id": "5098923",
+      "time": "2026-09-17 12:07:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：DeepSeek Harness更新加速應用落地 國產算力需求高增】東方證券釋出研報稱，DeepSeek V4.1 Flash模型引數量僅有552B，在多項基準測試中基於更少的引數量取得更優異的結果，與上一代模型相比，其對HBM的需求減少至1/4，對SSD的需求減少至1/8。該行預計將推進國內AI大模型滲透率增長，並將加速國內AI商業化場景拓展。該行認為國產AI大模型迭代將驅動國產算力與交換晶片需求高增。相關標的：寒武紀、海光資訊、盛科通訊-U。"
+    },
+    {
+      "id": "te:markets:584437",
+      "time": "2026-09-17 12:06:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Falls for Sixth Session After Fed Rate Hike — The Indonesian rupiah slipped toward IDR 17,750 per U.S. dollar Thursday, extending its losing streak to six sessions as the dollar index climbed to a seven-week high after the U.S. Fed raised rates for the first time in three years and signaled the possibility of further tightening this year to curb sticky inflation. Locally, focus turned to Bank Indonesia’s policy meeting next week, with policymakers having kept key rates unchanged at 5.75% for a second straight month in August, following cumulative tightening of 100bp since May. Inflation risks from higher oil prices and potential El Niño effects are complicating the policy outlook, as the central bank faces the challenge of preserving an adequate interest-rate differential while supporting rupiah stability. Meantime, fiscal pressures may persist as elevated global yields and cautious foreign investor sentiment weigh on Indonesian assets. So far this week, the rupiah has fallen around 0.8%, reversing gains in the prior six weeks."
+    },
+    {
+      "id": "5098922",
+      "time": "2026-09-17 12:06:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【方正證券：黃酒龍頭變革成效漸顯 高階化與全國化共振】方正證券釋出研報稱，近期黃酒龍頭股價持續走強，主要系白酒行業持續調整背景下，黃酒企業加速變革的成效獲市場認可，持續突破高階白酒核心渠道，並已由中報結構表現驗證，由此開啟黃酒高階化及全國化想象空間。酒類多元化趨勢下，黃酒發展空間可期，看好行業總量增長與龍頭公司長效提升。"
+    },
+    {
+      "id": "mkt:01a0ad8b-21b0-7118-85d1-1ff9ca8d13a2",
+      "time": "2026-09-17 12:06:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan summons Indian chargé d'affaires over naval collision】Pakistan’s foreign ministry said on the evening of the 16th it summoned the acting chargé d’affaires at the Indian High Commission to lodge a strong protest over what it called “highly provocative and unacceptable” actions by an Indian naval vessel on the 15th inside Pakistan’s exclusive economic zone (EEZ). The ministry said the Indian ship made close-range provocative manoeuvres during the Pakistan Navy’s biennial exercises, causing contact between the two vessels, a serious breach of signed agreements and likely to heighten regional tensions. Pakistan urged India to comply with international law and bilateral accords aimed at preventing maritime incidents; Pakistan’s acting high commissioner in New Delhi will register a similar protest with India’s foreign ministry."
+    },
+    {
+      "id": "5098921",
+      "time": "2026-09-17 12:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧拉稱在美出席聯大期間將要求美國不要干涉巴西選舉】巴西總統盧拉16日說，下週在美國出席聯合國大會期間，他將告訴美國總統特朗普，不要干涉巴西選舉。盧拉當天在巴西聯邦區參加總統競選活動時說：“週日（20日），我將前往參加聯合國會議，與特朗普聊聊，並告訴他：不要插手巴西的選舉。巴西只有一個主人：巴西人民。”第81屆聯合國大會一般性辯論將於9月22日拉開帷幕。按照傳統，巴西總統是第一位在會議上發言的國家元首，隨後是美國總統。巴西官方目前尚未確認盧拉將與特朗普在聯大期間舉行會晤的訊息。（新華社）"
+    },
+    {
+      "id": "5098920",
+      "time": "2026-09-17 12:05:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快舟十一號火箭成功發射全球首組商用中傾角InSAR衛星】9月17日10時40分，快舟十一號固體運載火箭在酒泉衛星發射中心點火升空，成功將彩雲SAR01星、星聯體天元YG01星順利送入預定軌道。這是全球首組成功入軌的商用中傾角InSAR（干涉合成孔徑雷達）遙感衛星。 記者從天儀空間獲悉，區別於傳統太陽同步軌道InSAR衛星，本組衛星採用中傾角（55°）軌道設計，由此實現三項核心能力躍升：一是透過中傾角軌道實現高頻重訪，破解傳統InSAR“重訪慢”的行業痛點，可將目標區域干涉重訪週期由當前的數天壓縮至1天，後續多組衛星組網可進一步縮短至數小時；二是在中傾角觀測體系下實現三維形變反演，破解傳統InSAR對南北向形變“測不準”的共性難題；三是透過多視角協同成像消除城市高樓區域及高山深谷的觀測盲區，破解傳統InSAR“看不全”的行業痛點。（科技日報）"
+    },
     {
       "id": "mkt:01a0ad8a-b512-7118-85d1-122db9bedc7e",
       "time": "2026-09-17 12:05:43",
@@ -126124,57 +126208,6 @@
         "WTI"
       ],
       "text": "Ukrainian police in the Sumy region say a Russian airstrike killed 5 people and wounded 24."
-    },
-    {
-      "id": "te:markets:582574",
-      "time": "2026-09-10 12:09:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Dips Ahead of MPOB Data — Malaysian palm oil futures slipped more than 1% to around MYR 4,900 per tonne, extending their decline to a one-week low. Weaker edible oil prices in Dalian and Chicago, along with a stronger ringgit, weighed on sentiment. Traders also turned cautious ahead of monthly data from the Malaysian Palm Oil Board later today. Meanwhile, exports remained sluggish, with cargo surveyors estimating August palm oil shipments fell between 6.5% and 14.9% from July. In India, heavy vegetable oil buying has congested major ports, delaying vessel unloading by up to 10 days as storage tanks overflow, potentially dampening near-term import demand. Still, losses were tempered by firm crude oil prices after Brent breached US$100 a barrel amid renewed Middle East tensions, boosting the appeal of palm oil as a biodiesel feedstock. Simultaneously, unusually dry weather across Southeast Asia fueled concerns over palm yields following fires and haze in Borneo and Sumatra."
-    },
-    {
-      "id": "mkt:01a08980-243b-7118-8519-6aadcd10ede9",
-      "time": "2026-09-10 12:07:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An official said Ukrainian airstrikes struck the Russian Caspian port of Makhachkala."
-    },
-    {
-      "id": "mkt:01a0897f-f2ff-7118-8519-62ceecdcbc84",
-      "time": "2026-09-10 12:07:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says alert for Khamis Mushait lifted."
-    },
-    {
-      "id": "5086344",
-      "time": "2026-09-10 12:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "官方稱，烏克蘭空襲擊中俄羅斯里海港口馬哈奇卡拉。"
-    },
-    {
-      "id": "5086343",
-      "time": "2026-09-10 12:07:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示，海米斯穆謝特的危險已經解除。"
-    },
-    {
-      "id": "mkt:01a0897e-d43a-7118-8519-5895501c871a",
-      "time": "2026-09-10 12:06:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports the IMF withdrew its leading candidate for chief economist at the 11th hour after discovering he had publicly criticized the Trump administration's economic policies."
     }
   ]
 }
