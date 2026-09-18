@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-19 05:44:11",
-  "count": 13484,
+  "updated": "2026-09-19 05:47:57",
+  "count": 13492,
   "items": [
+    {
+      "id": "5102825",
+      "time": "2026-09-19 05:47:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "飛行資料網站FLIGHTRADAR24 ：由於上空出現無人機，盧森堡機場航班目前暫停起降。"
+    },
+    {
+      "id": "mkt:01a0b67c-7dce-7118-860c-a5b73ff69988",
+      "time": "2026-09-19 05:46:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danish prime minister's office said Greenland, Denmark and the United States are expected to sign an agreement next week to strengthen security in the Arctic and North Atlantic."
+    },
+    {
+      "id": "5102824",
+      "time": "2026-09-19 05:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥首相辦公室：格陵蘭、丹麥與美國預計將於下週簽署一項加強北極和北大西洋地區安全的協議。"
+    },
+    {
+      "id": "mkt:01a0b67b-e366-7118-860c-9ec7c094c5d3",
+      "time": "2026-09-19 05:46:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House to restrict entry of certain nonimmigrant work visa holders."
+    },
+    {
+      "id": "5102823",
+      "time": "2026-09-19 05:45:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮公告：對部分非移民工人實施入境限制。"
+    },
+    {
+      "id": "mkt:01a0b67b-7259-7118-860c-9663f928e688",
+      "time": "2026-09-19 05:45:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "White House says Trump signed a Russia sanctions bill into law."
+    },
+    {
+      "id": "5102822",
+      "time": "2026-09-19 05:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署法案，授權對俄羅斯石油買家徵收關稅。"
+    },
+    {
+      "id": "5102821",
+      "time": "2026-09-19 05:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署俄羅斯制裁法案。"
+    },
+    {
+      "id": "5102820",
+      "time": "2026-09-19 05:44:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將H-1B簽證入境限制延長12個月至2027年9月。"
+    },
     {
       "id": "5102819",
       "time": "2026-09-19 05:43:22",
@@ -123800,14 +123875,6 @@
         "Brent"
       ],
       "text": "Iraq's prime minister's office said an investigation confirmed drone attacks targeting Saudi Arabia originated inside Iraq; one Iraqi military commander has been dismissed."
-    },
-    {
-      "id": "mkt:01a09270-9d89-7118-8552-518b4b3ad82f",
-      "time": "2026-09-12 05:47:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic determination: at 05:24 on Sept 12 a ~6.2 magnitude, deep-focus earthquake occurred near the Java Sea off Indonesia (5.01°S, 106.88°E). Final parameters subject to official rapid bulletin."
     }
   ]
 }
