@@ -1,7 +1,93 @@
 {
   "date": "2026-09-18",
-  "count": 1968,
+  "count": 1978,
   "items": [
+    {
+      "id": "5102224",
+      "time": "2026-09-18 19:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 昨日我與歐盟委員會主席烏爾蘇拉・馮德萊恩通了話，雙方將於近期會面。我們正在擬定方案，解決資金缺口問題。"
+    },
+    {
+      "id": "5102223",
+      "time": "2026-09-18 19:49:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：兩家企業研發的噴氣式沙希德無人機攔截裝置已順利透過實戰測試。敵方高速飛行的沙希德無人機被成功摧毀。這是一項重大進展。但我們希望拿到全部測試資料，研究如何儘可能加快進度、擴大至量產。我們正與這兩家企業磋商，相關合同已在簽署。"
+    },
+    {
+      "id": "mkt:01a0b459-2d98-7118-8601-44ccbbd966ba",
+      "time": "2026-09-18 19:48:58",
+      "tags": [
+        "MKT News",
+        "TEF.MC",
+        "Impact bearish"
+      ],
+      "text": "Telefonica shares extended losses, down 4.2%, leading IBEX 35 constituents and on track for the largest one-day drop since March 3."
+    },
+    {
+      "id": "mkt:01a0b458-b4b7-7118-8601-3de86b9fe465",
+      "time": "2026-09-18 19:48:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Fitch says Romania's prolonged political crisis may affect its sovereign credit rating."
+    },
+    {
+      "id": "5102222",
+      "time": "2026-09-18 19:48:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "西班牙電信公司股價延續跌勢，目前跌幅已達4.2%，位居IBEX 35指數成分股跌幅榜末位，該股正處於3月3日以來表現最差的單日行情中。"
+    },
+    {
+      "id": "5102221",
+      "time": "2026-09-18 19:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗前駐黎巴嫩大使穆傑塔巴·阿馬尼釋出了一張照片，記錄兩年前以色列尋呼機襲擊事件後，他在醫院會見伊朗伊斯蘭革命領袖阿亞圖拉·賽義德·穆傑塔巴·哈梅內伊的場景。"
+    },
+    {
+      "id": "5102220",
+      "time": "2026-09-18 19:47:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北通報長江武漢段傾倒淤泥事件】就網民反映的長江武漢段天興洲附近水域有船隻傾倒黑色泥狀物有關問題，湖北省和武漢市聯合調查組18日公佈調查處理結果。經查，傾倒物為航道清淤疏浚產生的淤泥，屬於“其他固體廢物”，具有汙染特性；拋泥區周邊水域及下游取水點水質均符合地表水Ⅱ類標準；涉事企業因違法傾倒固體廢物被立案查處，11名相關責任人被追責。 （新華社）"
+    },
+    {
+      "id": "5102219",
+      "time": "2026-09-18 19:47:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽表示，一份可信的2027年預算是羅馬尼亞評級的關鍵。"
+    },
+    {
+      "id": "5102218",
+      "time": "2026-09-18 19:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽稱羅馬尼亞持續的政治危機對評級構成風險。"
+    },
+    {
+      "id": "mkt:01a0b456-f1d0-7118-8601-31b6b2d12f05",
+      "time": "2026-09-18 19:46:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China energy regulator deputy attends 2026 G20 energy ministers' meeting in Houston】Sept. 14-16 — National Energy Administration Deputy Director Wang Jianbo attended and spoke at the 2026 G20 Energy Ministers' meeting in Houston. China urged respect for natural resource sovereignty and for countries' autonomous choice of energy development models, and called for open, fair, non-discriminatory cooperation to protect global energy industry and supply‑chain stability. The meeting adopted a G20 Energy Resilience Working Group communiqué on critical minerals. China held exchanges with the UK and other delegations."
+    },
     {
       "id": "mkt:01a0b456-7ce2-7118-8601-2e9e230a8dc5",
       "time": "2026-09-18 19:46:01",
