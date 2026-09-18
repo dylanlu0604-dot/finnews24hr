@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-19 00:10:31",
-  "count": 13400,
+  "updated": "2026-09-19 00:14:30",
+  "count": 13406,
   "items": [
+    {
+      "id": "te:markets:585096",
+      "time": "2026-09-19 00:13:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Retreats as Oil Rally Resumes — The CAC 40 fell 1.5% to close at 8,065 on Friday, retreating after two consecutive sessions of gains as oil prices pared losses. The oil rally resumed after satellite imagery and industry sources indicated that three pumping stations serving Saudi Arabia’s vital East-West Pipeline were damaged in last week’s attack, one more than previously assessed, while the repair timeline remains uncertain. Luxury stocks fell amid higher risk aversion, with Hermes losing 3.2%. French bond yields moved higher amid concerns over energy-driven inflationary pressures. Financials also declined, with BNP Paribas down 2.9%. Meanwhile, the Fed and the BoJ raised rates earlier this week, while the BoE left interest rates unchanged. Still, traders pared back bets on further ECB tightening despite the Fed’s more hawkish stance, as concerns that persistently high energy prices could weigh on economic growth and eventually temper inflationary pressures. The CAC 40 shed 1.4% on the week."
+    },
+    {
+      "id": "5102600",
+      "time": "2026-09-19 00:13:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車CFO：隨著壓力不斷加劇，削減成本的步伐必須加快。市場變化是“深刻且永久性的”。電動化轉型正在稀釋公司利潤。"
+    },
+    {
+      "id": "5102599",
+      "time": "2026-09-19 00:12:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行：厄爾尼諾現象將使秘魯 2026 年經濟增速下降 0.9 個百分點。"
+    },
+    {
+      "id": "te:markets:585095",
+      "time": "2026-09-19 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.60% Lower — The FTSE MIB Index dropped 840 points or 1.60 percent on Friday to close at 51545 points. Losses were led by Stellantis N.V. (-5.95%), Hera (-3.02%) and UniCredit (-2.83%)."
+    },
+    {
+      "id": "mkt:01a0b549-6030-7118-8608-281b00fc0bf7",
+      "time": "2026-09-19 00:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank expects GDP to grow 3.0% in 2027."
+    },
+    {
+      "id": "te:markets:585094",
+      "time": "2026-09-19 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.60% Lower — The DAX Index decreased 413 points or 1.60 percent on Friday to close at 25304 points. The decline was led by Volkswagen (-5.97%), Porsche Automobil (-5.19%) and Mercedes-Benz AG (-4.76%)."
+    },
+    {
+      "id": "5102598",
+      "time": "2026-09-19 00:10:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預計 2026 年財政赤字為國內生產總值的 1.5%，此前預估為 1.8%。"
+    },
+    {
+      "id": "te:markets:585093",
+      "time": "2026-09-19 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.62% Lower — The CAC 40 Index fell 133 points or 1.62 percent on Friday to close at 8054 points. Leading the losses are Stellantis NV (-6.22%), Renault (-5.53%) and Orange (-5.47%)."
+    },
+    {
+      "id": "5102597",
+      "time": "2026-09-19 00:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安理會完成聯合國秘書長遴選第三輪意向性投票】當地時間9月18日，安理會當月輪值主席、法國常駐聯合國代表傑羅姆·博納豐宣佈，安理會當日已就下一任秘書長遴選完成第三輪意向性投票。意向性投票結果不對外公佈，將透過候選人推舉國通知各候選人。（央視新聞）"
+    },
     {
       "id": "5102596",
       "time": "2026-09-19 00:08:26",
@@ -123127,38 +123217,6 @@
         "國際"
       ],
       "text": "【佩斯科夫：俄美烏或在近期舉行三方會晤】當地時間9月11日，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。他還補充說，就烏克蘭問題談判本身，沒有人為舉行談判預設條件，俄羅斯保持開放態度。（央視新聞）"
-    },
-    {
-      "id": "5090183",
-      "time": "2026-09-12 00:12:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：波及 21 個州、與捲心萵苣相關的環孢子蟲疫情現已結束。"
-    },
-    {
-      "id": "te:markets:583267",
-      "time": "2026-09-12 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.36% Higher — The FTSE MIB Index gained 705 points or 1.36 percent on Friday to close at 52512 points. Gains were led by Avio (3.89%), Moncler (3.00%) and Prysmian (2.63%)."
-    },
-    {
-      "id": "te:markets:583266",
-      "time": "2026-09-12 00:11:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.82% Higher — The DAX Index went up by 207 points or 0.82 percent on Friday to close at 25569 points. The rise was led by Infineon (4.78%), Siemens (2.73%) and Deutsche Telekom (2.55%). On the downside, the weakerst performers were Rheinmetall (-3.05%), BASF (-2.83%) and Henkel (-1.71%)."
     }
   ]
 }
