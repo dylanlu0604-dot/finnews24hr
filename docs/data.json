@@ -1,7 +1,188 @@
 {
-  "updated": "2026-09-18 14:11:25",
-  "count": 13249,
+  "updated": "2026-09-18 14:18:46",
+  "count": 13231,
   "items": [
+    {
+      "id": "5101301",
+      "time": "2026-09-18 14:17:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員聚焦儲氣補庫，歐洲天然氣價格上漲】距離供暖季開啟僅剩數週，交易員關注儲氣庫補庫工作，歐洲天然氣價格走高。基準期貨週五盤中最大漲幅達2.8%，此前多個交易日隨原油一同下跌。儘管美伊外交斡旋仍在推進，但儲氣庫庫存異常偏低仍是天然氣市場的核心主線。德國計劃大幅擴容現有招標專案，向供應商支付費用以保障冬季天然氣供應，以此激勵交易商填充本國儲氣設施。全球天然氣供應依舊緊張，歐洲加大采購的任何訊號都將支撐價格。自衝突爆發以來，歐洲天然氣期貨價格已上漲一倍有餘，本月早些時候觸及2022年末以來高點。中東持續衝突切斷了全球約五分之一的液化天然氣供應，幾乎沒有跡象表明霍爾木茲海峽的液化天然氣運輸會很快恢復。"
+    },
+    {
+      "id": "5101300",
+      "time": "2026-09-18 14:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "道達爾能源與GIP就非洲能源基礎設施資產簽署協議。"
+    },
+    {
+      "id": "5101299",
+      "time": "2026-09-18 14:17:04",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行缺乏加息緊迫感，助推套息交易】本次日本央行會議對日元並非利好，全球套息交易再度具備實施條件。儘管央行落實了美國財長斯科特·貝森特所呼籲、且交易員早已計價的政策收緊，但多項因素利空日元：此次加息決議遭到兩名政策委員反對，無人主張更大幅度加息；央行宣告雖承諾將持續加息，卻未給出加息時間節點，未能釋放緊迫的加息訊號。日本基準利率仍遠低於中性利率水平，若不連續加息，日元弱勢格局將會延續。在十國集團經濟體中，目前僅有瑞士法郎利率更低，瑞士央行將於下週召開會議。倘若瑞士央行重申維持零利率的傾向，兩大主要融資貨幣對應的匯率波動將會維持低位。"
+    },
+    {
+      "id": "mkt:01a0b328-0961-7118-85f5-a517e3a83242",
+      "time": "2026-09-18 14:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Kiuchi said he expects the Bank of Japan to pursue appropriate monetary policy to achieve its price target sustainably and to coordinate closely with the government."
+    },
+    {
+      "id": "mkt:01a0b327-f861-7118-85f5-9d6f3d65e6a1",
+      "time": "2026-09-18 14:15:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish",
+        "09888.HK",
+        "09626.HK"
+      ],
+      "text": "Hong Kong internet and tech shares rallied, led by Alibaba (09988.HK), which gained over 5%. Baidu (09888.HK), Kuaishou (01024.HK) and Bilibili (09626.HK) also climbed."
+    },
+    {
+      "id": "5101298",
+      "time": "2026-09-18 14:15:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股明星科網股走強，阿里巴巴(09988.HK)漲超5%，百度(09888.HK)、快手(01024.HK)、嗶哩嗶哩(09626.HK)等個股跟漲。"
+    },
+    {
+      "id": "mkt:01a0b327-ddcd-7118-85f5-911c3090eb93",
+      "time": "2026-09-18 14:15:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kiuchi said the Bank of Japan decides the specific details of monetary policy."
+    },
+    {
+      "id": "5101297",
+      "time": "2026-09-18 14:15:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟大臣表示：貨幣政策的具體細節由日本央行自行決定。預計日本央行將採取適當的貨幣政策，以可持續、穩定地實現其價格目標，同時與政府密切合作。"
+    },
+    {
+      "id": "mkt:01a0b326-9d67-7118-85f5-8e9f8bacf81b",
+      "time": "2026-09-18 14:14:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit US$4,390/oz, up 1.11% intraday."
+    },
+    {
+      "id": "5101296",
+      "time": "2026-09-18 14:13:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國對進口自中國的作出反傾銷初裁】9月17日，美國商務部發布公告，對進口自中國的鍍錫板（Tin Mill Products）作出反傾銷初裁，初步裁定中國出口商/生產商的傾銷幅度為136.52%（抵消補貼後的保證金調整為130.17%），因涉案企業未應訴，美以不利事實推定的方法得出裁決結果。本案主要涉及美國海關編碼7210.11.0000、7210.12.0000、7210.50.0020、7210.50.0090、7212.10.0000、7212.50.0000、7225.99.0090和7226.99.0180項下產品。"
+    },
+    {
+      "id": "5101295",
+      "time": "2026-09-18 14:13:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲1.11%。"
+    },
+    {
+      "id": "5101294",
+      "time": "2026-09-18 14:13:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日元疲軟疊加補貼 特斯拉Model Y東京售價低於復古勞力士】資料顯示，特斯拉公司最受歡迎的電動汽車在東京比世界上任何其他地方都便宜。日元疲軟，加上今年推出的慷慨的中央和城市補貼，可將Model Y的價格降至2.3萬美元以下。這比旅行者在東京經銷商處購買一塊復古勞力士蠔式恆動日誌型所需支付的價格還低。特斯拉也一直在日本廣告中突出這些補貼，瞄準這個由豐田汽車公司和鈴木汽車公司主導的市場中的客戶。Model Y是今年上半年日本進口量最大的汽車。特斯拉在日本將Model Y標價為560萬日元。但居住在東京的買家可以以360萬日元（22,889美元）購得，這得益於最高約200萬日元的中央和城市補貼。有了這些優惠，Model 3最低只需330萬日元。"
+    },
+    {
+      "id": "5101293",
+      "time": "2026-09-18 14:13:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4430美元/盎司，日內漲0.69%。"
+    },
+    {
+      "id": "5101292",
+      "time": "2026-09-18 14:13:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8731.20美元。"
+    },
+    {
+      "id": "mkt:01a0b326-1499-7118-85f5-811aba8721e0",
+      "time": "2026-09-18 14:13:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's energy minister said he received \"cautiously optimistic\" signals in oil talks with Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a0b326-0f4a-7118-85f5-79d9b3c26337",
+      "time": "2026-09-18 14:13:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Magnificent 7",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Yen weakness and subsidies push Tesla Model Y Tokyo price below $23,000】Yen weakness plus central and municipal subsidies of up to about ¥2.0m can cut Tesla’s Tokyo Model Y price from a posted ¥5.6m to as low as ¥3.6m (≈$22,900). With subsidies, Model 3 can be priced down to ¥3.3m. Tesla is actively advertising these subsidies to customers in a market dominated by Toyota and Suzuki. Model Y was the top imported car in Japan in 1H by volume."
+    },
+    {
+      "id": "5101291",
+      "time": "2026-09-18 14:13:18",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【《個人貸款業務明示綜合融資成本自律規範》釋出】中國網際網路金融協會、中國銀行業協會、中國信託業協會、中國財務公司協會、中國小額貸款業協會組織制定了《個人貸款業務明示綜合融資成本自律規範》，現予以釋出。各從業機構應提高認識、嚴格落實，全面規範個人貸款息費收取和資訊披露，推動個貸息費“陽光化、透明化”，助力金融高質量發展。"
+    },
+    {
+      "id": "5101290",
+      "time": "2026-09-18 14:10:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報2255.00點。"
+    },
+    {
+      "id": "5101289",
+      "time": "2026-09-18 14:10:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Waymo定檔2028年進軍新加坡，開闢無人駕駛新戰場】Waymo計劃於2028年在新加坡推出其Robotaxi服務，這是這家Alphabet旗下公司一系列美國本土及海外擴張動作中的最新一例。Waymo表示，將在未來幾個月內向這個亞洲城市國家投放一支捷豹I-PACE電動車車隊。該公司在美國時間週四晚間的一份宣告中稱，從明年開始，其經過培訓的專業人員將人工駕駛這些車輛，以繪製地圖並學習新加坡的道路狀況與季風天氣模式。"
+    },
     {
       "id": "5101288",
       "time": "2026-09-18 14:10:17",
@@ -121456,359 +121637,6 @@
         "Emerging Markets"
       ],
       "text": "Sberbank head says Russian firms trading with India in bilateral local-currency settlements no longer face excessive accumulation of Indian rupees (INR)."
-    },
-    {
-      "id": "5088962",
-      "time": "2026-09-11 14:18:43",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "法國央行官員穆蘭：利率上漲幅度非常溫和。"
-    },
-    {
-      "id": "mkt:01a08f1e-381a-7118-853f-d774bdcbfe24",
-      "time": "2026-09-11 14:18:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Banque de France governor Mulan said France is not in economic danger."
-    },
-    {
-      "id": "5088961",
-      "time": "2026-09-11 14:18:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "法國央行官員穆蘭：歐洲央行本週加息是合理的。"
-    },
-    {
-      "id": "5088960",
-      "time": "2026-09-11 14:18:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲Token Plan個人版升級：加量不加價 新增12類Agent Harness工具】9月11日，據阿里雲官微訊息，阿里雲Token Plan個人版升級。原有價格及Credit額度保持不變，Standard和Pro套餐新增Agent Harness工具權益與用量，覆蓋搜尋、網頁解析、影象生成、語音處理、程式碼執行等12項Agent開發常用能力。上述工具均透過MCP標準協議開放，可直接接入到自有 Agent應用，無需逐項單獨採購。"
-    },
-    {
-      "id": "te:economy:583033",
-      "time": "2026-09-11 14:17:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "UK Construction Output Dips More than Expected — UK construction output fell 2.5% year-on-year in July 2026, accelerating from a 2.3% decline in the previous month and marking the ninth consecutive month of contraction. It was also the steepest decline since December 2025, underperforming market estimates of a 2.3% fall. New work slipped for a tenth straight month (-5.1% vs -5.9% in June), while growth in repair and maintenance eased to a seven-month low (1.0% vs 2.8%). On a monthly basis, construction activity edged up 0.1%, reversing a 0.1% decline in June and signaling the first increase in four months. Repair and maintenance activity rose 0.8%, while new work fell 0.4% for a fourth consecutive month. Over the three months to July, output declined 0.5%, ending four consecutive periods of growth, as both new work and repair and maintenance fell 0.4% and 0.7%, respectively."
-    },
-    {
-      "id": "5088959",
-      "time": "2026-09-11 14:17:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米釋出並開源Xiaomi-CocktailASR-1】9月11日，據小米技術訊息，小米正式釋出並開源工業級目標說話人語音識別大模型Xiaomi-CocktailASR-1。據介紹，Xiaomi-CocktailASR-1旨在解決“雞尾酒會”難題。該模型採用端到端LLM架構，以目標說話人的一段參考音訊作為聲紋提示，可在多人同時說話的複雜環境中，精準提取並僅轉錄目標使用者的語音。"
-    },
-    {
-      "id": "mkt:01a08f1d-5248-7118-853f-c8e7e6831932",
-      "time": "2026-09-11 14:17:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold and silver are up more than 1% intraday; spot gold has climbed back above $4,360/oz, spot silver is at $64.16/oz."
-    },
-    {
-      "id": "5088958",
-      "time": "2026-09-11 14:17:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行官員穆蘭：法國並未陷入經濟危險境地。"
-    },
-    {
-      "id": "te:markets:583031",
-      "time": "2026-09-11 14:16:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Positive Open — European equity markets were poised for a modestly higher open on Friday following a two-session decline, as the recent surge in oil prices and global bond yields lost momentum, offering some relief to investors. Market participants also awaited a key US inflation reading that could influence expectations for a Federal Reserve rate hike next week. On Thursday, the European Central Bank delivered its widely anticipated quarter-point rate increase, while President Christine Lagarde highlighted upside risks to inflation and downside risks to economic growth. Investors will now turn to UK GDP figures and German current account data for July for further clues on the region’s economic health. No major earnings reports are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.2%."
-    },
-    {
-      "id": "te:economy:583030",
-      "time": "2026-09-11 14:16:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Romania Inflation Rate Drops to 14-Month Low — The annual inflation rate in Romania eased to 6.2% in August 2026 from 8.2% in the previous month, slightly below market expectations of 6.3%. The latest figure marked the lowest reading since June 2025, as price growth slowed for food goods, falling to 2.6% from 5.0%, driven largely by lower prices for milling and bakery products (4.3% vs 7.1% in July), meat and meat products (3.9% vs 6.0%), and milk and dairy products (4.7% vs 6.7%). Inflation also moderated for non-food goods, easing to 6.4% from 7.9% a month earlier, weighed down by slower price growth for clothing (5.6% vs 6.6%), chemicals (5.7% vs 8.0%), and cultural and sports products (6.5% vs 8.6%). Moreover, services inflation eased to 11.3% from 13.7%. On a monthly basis, consumer prices grew by 0.2% in August, slowing from a 0.6% increase in the preceding period. Meanwhile, the HICP-based annual inflation rate moderated to 6.3% from 8.2% in July."
-    },
-    {
-      "id": "5088957",
-      "time": "2026-09-11 14:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國防部戰報要點總結】俄羅斯國防部稱，俄軍近期對烏克蘭多處軍事及相關基礎設施實施打擊，其中包括為烏軍儲存和傳輸資料、包括情報資料，並支援網路裝置執行的“Bi-Mobile”資料中心；用於存放無人機生產零部件的戈斯托梅利物流中心；第聶伯羅彼得羅夫斯克一處用於存放固定翼無人機及零部件的物流中心；以及敖德薩一座負責維修和維護烏軍裝備的汽車部件工廠。俄方還稱，俄軍在駛往敖德薩港途中打擊了一艘運送烏軍物資的乾貨船，並在切爾諾莫爾斯克港打擊兩艘載有烏軍物資的乾貨船和一艘海上快艇。此外，俄軍還打擊了敖德薩州維濟爾卡地區一處存放外國製造無人機零部件的倉庫。上述說法來自俄羅斯國防部，烏方暫未就相關目標性質及損失情況作出對應確認。"
-    },
-    {
-      "id": "5088956",
-      "time": "2026-09-11 14:15:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：儘管遭受這些衝擊，歐元區經濟增長仍可能繼續。"
-    },
-    {
-      "id": "5088955",
-      "time": "2026-09-11 14:15:31",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【中科曙光釋出scaleFabric Token加速技術體系】近日，中科曙光釋出scaleFabric Token加速技術體系，實現IBGDA技術在國內首次規模化應用。該體系以原生無損RDMA高速網路為基礎，構建“算存傳”三級緊耦合的Token加速超級通道，其中，支援GPU直接發起網路通訊的IBGDA技術實現在國內的首次規模化落地，已在十萬卡級大規模叢集中完成驗證。目前，scaleFabric已經完成DeepEP等通訊框架適配，並透過IBGDA、儲存直通等技術提升Token流轉效率，為國產大模型提供新的高速互連選擇。"
-    },
-    {
-      "id": "mkt:01a08f1b-477d-7118-853f-c7b39d1ab862",
-      "time": "2026-09-11 14:15:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sugon launches scaleFabric Token acceleration system】China's Sugon said it has launched the scaleFabric Token acceleration system, enabling the first large-scale domestic deployment of IBGDA. Built on native lossless RDMA networking, scaleFabric creates a tightly coupled compute–memory–network token-acceleration channel and supports GPU-initiated network communication via IBGDA; the technology has been validated in clusters at the ~100,000‑card scale. Sugon said scaleFabric has been adapted to DeepEP and other communication frameworks and uses IBGDA and storage passthrough to boost token transfer efficiency, offering a new high-speed interconnect option for China’s domestic large AI models."
-    },
-    {
-      "id": "5088954",
-      "time": "2026-09-11 14:15:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：歐洲經濟展現出了令人驚訝的韌性。"
-    },
-    {
-      "id": "5088953",
-      "time": "2026-09-11 14:14:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：很難說幾年後我們能否回到2%的水平。"
-    },
-    {
-      "id": "5088952",
-      "time": "2026-09-11 14:14:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4359.91美元/盎司。"
-    },
-    {
-      "id": "5088951",
-      "time": "2026-09-11 14:14:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：通貨膨脹率到明年年底可能會回升至2%。"
-    },
-    {
-      "id": "5088950",
-      "time": "2026-09-11 14:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦訊息人士稱，伊朗外長與巴基斯坦陸軍參謀長的會談重點圍繞美伊戰爭、重返談判的可能性以及胡塞武裝對沙烏地阿拉伯的襲擊展開。"
-    },
-    {
-      "id": "mkt:01a08f1a-4f7a-7118-853f-bc2cf3aee651",
-      "time": "2026-09-11 14:14:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Pakistani sources: Iran's foreign minister and Pakistan's military chief discussed ways to restore diplomatic efforts to de-escalate the conflict across all fronts."
-    },
-    {
-      "id": "mkt:01a08f1a-08bd-7118-853f-b6461cd46e53",
-      "time": "2026-09-11 14:14:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Deutsche Bank: ECB likely to hike again in December as growth pressure builds】Deutsche Bank chief European economist Mark Wall says inflation risks are rising and the probability of an ECB hike in December now exceeds the probability of no action. Markets price roughly a 49% chance of an October hike, rising to 89% by year-end. A gas-price spike is a negative supply shock that will lift energy, transport and commodity prices near term and could force the ECB to guard against second-round inflation. With higher corporate costs and squeezed real incomes weighing on activity, Europe may enter a phase where inflation rises first and growth falls later; hikes will push up short-term rates but may not sustainably support the euro or long-term yields."
-    },
-    {
-      "id": "5088949",
-      "time": "2026-09-11 14:14:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【小摩：維持寧德時代“增持”評級，相信市場地位未受損】摩根大通發表報告指，相信2027年不會重演2023至2024年產能過剩的週期，維持寧德時代“增持”評級，目標價725港元，指出其在中國電動車電池市佔率由去年的44%，進一步提升至今年上半年的48%，相信其市場地位未受損，維持今明兩年淨利潤預測為950億及1,160億元。"
-    },
-    {
-      "id": "te:economy:583024",
-      "time": "2026-09-11 14:13:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "UK Trade Deficit Smallest in 6 Months — The United Kingdom’s trade deficit narrowed to £3.45 billion in July 2026, down from £5.54 billion in the previous month. It was the smallest trade gap since January, when the trade balance posted a surplus, as exports rose while imports fell. Exports grew 2.1% mom to £81.92 billion, while imports edged down 0.4% to a five-month low of £85.37 billion. Goods exports increased 4.4% to £34.41 billion, while services exports climbed 0.5% to £47.51 billion. On the import side, goods imports fell 1.6% to a six-month low of £55.37 billion, while services imports rose 0.7% to £30.0 billion."
-    },
-    {
-      "id": "5088948",
-      "time": "2026-09-11 14:13:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "巴基斯坦訊息源：伊朗外長與巴基斯坦陸軍參謀長討論了設法恢復外交努力，以在各戰線緩和衝突。"
-    },
-    {
-      "id": "mkt:01a08f19-adc9-7118-853f-ab6231669fa5",
-      "time": "2026-09-11 14:13:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yoon Suk Yeol acquitted in first-instance trial over alleged aiding suspect to evade prosecution】Seoul Central District Court on the 11th delivered a first-instance ruling acquitting former president Yoon Suk Yeol in a case alleging he helped a suspect evade judicial prosecution."
-    },
-    {
-      "id": "5088947",
-      "time": "2026-09-11 14:13:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯聯邦儲蓄銀行執行長：俄羅斯企業在與印度本幣結算雙邊貿易中盧比過剩囤積的問題已不復存在。"
-    },
-    {
-      "id": "5088946",
-      "time": "2026-09-11 14:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭部長表示，烏克蘭現有油籽加工產能為2000萬噸，而當前加工需求為1600萬噸。"
-    },
-    {
-      "id": "5088944",
-      "time": "2026-09-11 14:13:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4400美元/盎司，日內跌0.17%。"
-    },
-    {
-      "id": "5088943",
-      "time": "2026-09-11 14:13:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4400美元/盎司，日內跌0.17%。"
-    },
-    {
-      "id": "5088942",
-      "time": "2026-09-11 14:13:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.9%，報8741.20點。"
-    },
-    {
-      "id": "5088941",
-      "time": "2026-09-11 14:13:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽燃料出口恢復緩慢 價格維持在歷史高位附近】經過霍爾木茲海峽的石油產品出口正在緩慢恢復，但恢復速度不足以阻止燃油價格飆升，這給世界各地的消費者增加了負擔。根據維多集團執行長Russell Hardy，以及本週在新加坡舉行的會議上其他一些貿易商的看法，該地區目前每天至少有100萬桶油品透過這條水道運輸。油輪追蹤機構Vortexa的資料顯示的水平相近，而戰前水平約為400萬桶/天（不包括液化石油氣）。與原油出口已恢復至戰前水平一半左右相比，油品的恢復較慢，這導致柴油等燃料的價格飆升，直接影響通貨膨脹和生活成本。烏克蘭對俄羅斯煉油廠的襲擊加劇了市場上的燃料短缺。科威特石油公司國際營銷總經理Shaikh Khaled Al Sabah在新加坡舉行的標普全球能源亞太石油會議上表示：“要取代來自海灣地區的那些產品絕非易事。”"
-    },
-    {
-      "id": "te:economy:583021",
-      "time": "2026-09-11 14:12:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "UK Manufacturing Output Rebounds More Than Expected — Manufacturing production in the UK grew by 0.9% month-on-month in July 2026, surpassing market expectations for a 0.2% rise and rebounding from a 0.5% fall in June. Output increased in eight of the thirteen manufacturing subsectors, with the largest positive contribution coming from the manufacture of computer, electronics and optical products (5.2% vs -0.9% in June), followed by basic metals (2.8% vs -2.8%), coke and refined petroleum products (1.2% vs 0.4%), and food products, beverages and tobacco (0.9% vs 1.0%). In contrast, production declined mainly for rubber and plastic products and non-metallic mineral products (-3.0% vs 0.4%), machinery and equipment not elsewhere classified (-1.5% vs -0.1%), and wood and paper products and printing (-1.2% vs -1.3%). On an annual basis, manufacturing activity increased by 2.6% in July, the fastest rise since March 2024, above forecasts of 2% and accelerating from a 0.5% gain in the preceding period."
-    },
-    {
-      "id": "5088940",
-      "time": "2026-09-11 14:12:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國首爾中央地方法院11日對前總統尹錫悅涉嫌使犯罪嫌疑人逃避司法追究等一案作出一審判決，判處尹錫悅無罪。（新華社）"
-    },
-    {
-      "id": "5088939",
-      "time": "2026-09-11 14:12:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：目前的利率水平對經濟發展的限制並不大。"
-    },
-    {
-      "id": "mkt:01a08f18-9ec6-7118-853f-a4e372719029",
-      "time": "2026-09-11 14:12:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "【Shanghai Securities News: External shocks don't alter A-share resilience】China's A-share market fell more sharply this morning despite only modest declines abroad. Market participants say the divergence reflects sentiment amplification, not changes in valuations or earnings; investor confidence remains fragile and can trigger panic selling during short-term shocks. Analysts warn that without stronger consensus on the long-term value of Chinese assets, external disturbances can magnify volatility, but interviewed experts view those external factors as temporary. They point to economic reform progress, stable-to-improving fundamentals, policy support and liquidity as the determinants of market resilience, with China asset safety premia and structural resilience as the core backing."
-    },
-    {
-      "id": "mkt:01a08f18-12ef-7118-853f-9c59efe21e9b",
-      "time": "2026-09-11 14:11:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran central bank governor says US economic pressure is a miscalculation, raises US costs】IRNA quoted Central Bank governor Hemmati saying US sanctions and economic pressure have mainly imposed income and trade restrictions and sought to amplify expectations and temporarily affect market sentiment. He said economic pressure is not a policy but a miscalculation that increases US calculation costs, citing Trump’s pledge to pay $5,000 to each American if Republicans win Congress as an example of those costs."
-    },
-    {
-      "id": "5088938",
-      "time": "2026-09-11 14:11:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管理委員會成員KAASIK：我不會說目前的歐洲央行利率很高。"
     }
   ]
 }
