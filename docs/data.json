@@ -1,7 +1,148 @@
 {
-  "updated": "2026-09-18 14:30:11",
-  "count": 13224,
+  "updated": "2026-09-18 14:33:57",
+  "count": 13234,
   "items": [
+    {
+      "id": "5101333",
+      "time": "2026-09-18 14:33:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡扎克斯：能源價格衝擊更具持續性。"
+    },
+    {
+      "id": "mkt:01a0b338-2e4c-7118-85f6-0d78636a07d7",
+      "time": "2026-09-18 14:33:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor UEDA said the Japanese economy is modestly recovering despite some weakness."
+    },
+    {
+      "id": "5101332",
+      "time": "2026-09-18 14:33:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道達爾能源與GIP就非洲能源基礎設施簽署協議】9月18日，一份宣告顯示，道達爾能源已與全球基礎設施合夥公司（GIP）就非洲部分石油和天然氣基礎設施資產達成合作協議。作為對GIP出資18億美元的交換，道達爾能源將在最長15年的期限內向GIP支付按吞吐量計算的費用。"
+    },
+    {
+      "id": "5101331",
+      "time": "2026-09-18 14:33:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨<LCOc1>下跌2%，至每桶102.71美元。"
+    },
+    {
+      "id": "5101330",
+      "time": "2026-09-18 14:32:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本聯邦交易委員會批准日立收購OKI ATM業務。"
+    },
+    {
+      "id": "mkt:01a0b337-11e9-7118-85f6-0284f4dc4c38",
+      "time": "2026-09-18 14:32:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Nikkei 225"
+      ],
+      "text": "【KOSPI up 2.68%; Japan's Nikkei 225 up 1.38%】South Korea's KOSPI closed up 180.14 points, or 2.68%, at 6,895.55 on Sept. 18, led by SK Hynix +6.41% and Samsung Electronics +3.36%. Japan's Nikkei 225 closed up 882.70 points, or 1.38%, at 65,018.95, with SoftBank rising over 1%."
+    },
+    {
+      "id": "5101328",
+      "time": "2026-09-18 14:31:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券：首予平高電氣“推薦”評級，特高壓龍頭再迎成長週期】平安證券研報指出，平高電氣電網投資景氣上行，特高壓龍頭再迎成長週期。2020—2025年，公司高壓板塊收入佔比由42.4%提升至62.3%，板塊毛利率由15.07%提升至27.76%，業務結構持續向高附加值產品傾斜，推動利潤釋放快於收入增長。電網投資進入補強週期，主網、特高壓及海內外需求持續擴容。特高壓專案形成“十四五結轉兌現、十五五新增接力”的連續梯隊，疊加煤電、核電等大型電源建設以及海外電網擴容與更新需求，高壓開關行業景氣有望延續。產品結構最佳化與內部提質增效共同推動盈利能力持續改善。海外市場：需求多點開花，競爭格局更優，公司有望逐步出海拓展。公司作為國內特高壓GIS核心供應商，有望充分受益於“十五五”電網資本開支擴張；疊加高壓業務佔比提升、在手訂單逐步交付和內部提質增效，預計盈利能力繼續改善，首次覆蓋，給予“推薦”評級。"
+    },
+    {
+      "id": "5101327",
+      "time": "2026-09-18 14:31:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收漲，韓股漲2.68%】韓國KOSPI指數收盤上漲180.14點，漲幅2.68%，報6895.55點；SK海力士漲6.41%，三星電子漲3.36%。日經225指數收盤上漲882.70點，漲幅1.38%，報65018.95點；軟銀漲超1%。"
+    },
+    {
+      "id": "mkt:01a0b336-539e-7118-85f5-f9583a87b6cd",
+      "time": "2026-09-18 14:31:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Ministry of Industry and Information Technology (MIIT) has opened a public consultation on 20 telecom industry standards, including the 5G mobile communications network Intelligent Network Data Talk (NWDA) General Technical Requirements (Phase III)."
+    },
+    {
+      "id": "5101326",
+      "time": "2026-09-18 14:31:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《有色金屬行業科技成果評價規範》等10項行業標準報批意見】工信部公開徵求《有色金屬行業科技成果評價規範》等10項行業標準報批意見。根據行業標準制修訂計劃，相關標準化技術組織已完成《有色金屬行業科技成果評價規範》1項有色金屬行業標準、《液體香皂》等6項輕工行業標準、《壓剪試驗機》等2項機械行業標準、《紡織行業科技成果評價規範》1項紡織行業標準的編制工作。為進一步聽取社會各界意見，現予以公示。"
+    },
+    {
+      "id": "5101325",
+      "time": "2026-09-18 14:30:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“一帶一路”國際商事仲裁典型案例釋出 覆蓋115個國家和地區】今天上午，2026中國仲裁高峰論壇在北京舉辦。中國國際經濟貿易仲裁委員會（簡稱“貿仲”）在論壇現場釋出了“一帶一路”國際商事仲裁典型案例。自2013年共建“一帶一路”倡議提出以來，貿仲累計受理涉“一帶一路”國家和地區案件4148件，爭議金額達人民幣2397.33億元，其中爭議標的億元以上案件348件，案件當事人來自115個“一帶一路”共建國家和地區。（央視新聞）"
+    },
+    {
+      "id": "te:markets:584890",
+      "time": "2026-09-18 14:30:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Cautious Open — European equity markets were poised for a subdued start on Friday after posting gains for two consecutive sessions, with investors weighing the latest decisions from major central banks alongside falling oil prices. On Thursday, the Bank of England left interest rates unchanged but cautioned that a prolonged Middle East conflict could force it to tighten policy, while the Federal Reserve and Bank of Japan both raised rates this week. Oil prices, meanwhile, extended their decline for a third session as Saudi Arabia worked to restore flows through its East-West pipeline, while President Donald Trump is due to meet with Gulf leaders next week. European markets will also focus on fresh economic data, including Germany’s PPI, UK retail sales and the Eurozone current account, for clues on the region’s economic outlook. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were little changed."
+    },
+    {
+      "id": "5101324",
+      "time": "2026-09-18 14:30:17",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【工信部公開徵求《5G行動通訊網 智慧網路資料分析（NWDA）總體技術要求（第三階段）》等20項通訊行業標準報批意見】工信部科技司釋出關於公開徵求《5G行動通訊網 智慧網路資料分析（NWDA）總體技術要求（第三階段）》等20項通訊行業標準報批意見的公示，根據行業標準制修訂計劃，相關標準化技術組織已完成《5G行動通訊網 智慧網路資料分析（NWDA）總體技術要求（第三階段）》等20項通訊行業標準。為進一步聽取社會各界意見，現予以公示。"
+    },
+    {
+      "id": "te:markets:584889",
+      "time": "2026-09-18 14:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.51% Higher — The Nikkei 225 Index gained 966 points or 1.51 percent on Friday to close at 65102 points. Gains were led by Lasertec Corp (8.98%), Advantest (7.04%) and Mitsui Kinzoku (6.22%)."
+    },
+    {
+      "id": "5101323",
+      "time": "2026-09-18 14:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月18日：“農產品批發價格200指數”比昨天下降0.12個點】據農業農村部監測，9月18日“農產品批發價格200指數”為116.97，比昨天下降0.12個點，“菜籃子”產品批發價格指數為117.70，比昨天下降0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.62元/公斤，比昨天上升1.0%；牛肉71.35元/公斤，比昨天上升0.5%；羊肉66.61元/公斤，比昨天上升0.5%；雞蛋11.24元/公斤，比昨天上升0.4%；白條雞17.22元/公斤，比昨天下降0.3%。重點監測的28種蔬菜平均價格為4.64元/公斤，比昨天下降0.4%；重點監測的6種水果平均價格為6.62元/公斤，比昨天下降0.7%。鯽魚19.63元/公斤，比昨天上升0.8%；鯉魚13.92元/公斤，比昨天上升0.6%；白鰱魚10.11元/公斤，比昨天上升1.5%；大帶魚41.60元/公斤，比昨天下降2.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是洋白菜、菜花、白鰱魚、蔥頭和青椒，幅度分別為2.9%、1.6%、1.5%、1.5%和1.2%；價格降幅前五名的是生菜、菠菜、巨峰葡萄、大帶魚和黃瓜，幅度分別為2.8%、2.2%、2.1%、2.1%和1.8%。"
+    },
     {
       "id": "mkt:01a0b334-d4a7-7118-85f5-f7758a693c5d",
       "time": "2026-09-18 14:29:38",
@@ -121510,50 +121651,6 @@
         "Importance 1"
       ],
       "text": "Nickel Falls to 2-Month Low — Nickel traded around $16,550 per tonne, falling to its lowest level since July, as prospects for increased Indonesian supply weighed on prices. Indonesia’s Weda Bay Nickel, one of the world’s largest nickel mining operations, restarted mining after four months of care and maintenance, potentially bringing additional ore supply back to the market, although the ramp-up will be gradual and production volumes for the remainder of the year remain uncertain. Additionally, Indonesia’s 2026 mining quota was set at 250–260 million wet tonnes, below 379 million tonnes in 2025, limiting the scope for higher Indonesian ore supply. At the same time, the US 10-year yield approached 5%, while the dollar index climbed above 99, weighing on base metals broadly. Meanwhile, cuts to Chinese HPAL and MHP output have tightened intermediate supply, providing a countervailing factor to the Indonesian supply outlook."
-    },
-    {
-      "id": "mkt:01a08f29-3b8b-7118-8540-530e08493d38",
-      "time": "2026-09-11 14:30:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sberbank head says he sees significant opportunities for India-Russia bilateral trade settlement under a central bank digital currency (CBDC) framework."
-    },
-    {
-      "id": "5088984",
-      "time": "2026-09-11 14:30:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迪安診斷與微遠基因達成戰略合作 共推mNGS感染診斷一體化服務】據迪安診斷訊息，9月10日，迪安診斷與微遠基因在杭州簽署戰略合作協議。雙方將圍繞mNGS（宏基因組測序）感染診斷一體化服務開展深度合作，共同推動mNGS技術在我國感染性疾病精準診療領域的合規化、標準化、規模化應用。"
-    },
-    {
-      "id": "5088983",
-      "time": "2026-09-11 14:30:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【零錢通不能用於支付？騰訊回應：為謠言 相關功能不受影響】近日有市場傳言稱，微信零錢通不能用於支付。就此，騰訊方面回應記者稱，近期網傳相關不實內容為謠言，零錢通始終堅持合規運營，相關功能不受影響，使用者可放心使用。 (介面新聞)"
-    },
-    {
-      "id": "5088982",
-      "time": "2026-09-11 14:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第二十六屆投洽會中國—沙特、中國—芬蘭主賓國雙向投資推介活動成功舉行】第二十六屆中國國際投資貿易洽談會首次設定沙烏地阿拉伯、芬蘭雙主賓國。9月9日，中國—沙特投資合作交流活動、中國—芬蘭經貿合作交流活動同日舉行。商務部副部長兼國際貿易談判副代表凌激出席兩場活動並致辭。\n\n在中國—沙特投資合作交流活動上，凌激表示，今年恰逢中沙全面戰略合作伙伴關係建立十週年，十年耕耘，中沙雙向投資成效顯著，充滿活力。中方一如既往支援沙特在傳統和新興領域擴大對華投資，繼續鼓勵中國企業赴沙投資，推動建立兩國緊密高效的產供鏈合作關係。沙特投資部助理大臣穆巴拉克出席活動並致辭，表示中國是沙特可靠的合作伙伴，沙特將堅定投資中國，歡迎中國企業赴沙投資興業。來自中沙兩國政府、金融機構、企業代表逾300人與會。\n\n在中國—芬蘭經貿合作交流活動上，凌激表示，中芬確立了面向未來的新型合作伙伴關係，中國是芬蘭在亞洲第一大和全球第四大貿易伙伴，希望雙方企業秉持創新精神，深化綠色轉型、智慧製造、醫療健康等領域合作。芬蘭經濟事務部長普伊斯托出席活動並致辭，表示芬中兩國長期保持密切經貿關係，中國是芬蘭企業重要市場，期待雙方在未來開展更多務實合作。中芬兩國政經界代表160餘人與會。\n\n與會中外方企業代表紛紛表示，透過專場活動，深切感受到中沙、中芬合作前景廣闊，願進一步拓展合作範圍，擴大雙向投資規模，助力雙邊經貿關係邁上新臺階。"
-    },
-    {
-      "id": "te:markets:583050",
-      "time": "2026-09-11 14:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.19% Lower — The Nikkei 225 Index dropped 1427 points or 2.19 percent on Friday to close at 63844 points. Losses were led by Resonac Holdings (-10.62%), Toppan (-7.33%) and Sumitomo Metal Mining (-6.95%)."
     }
   ]
 }
