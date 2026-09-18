@@ -1,7 +1,102 @@
 {
   "date": "2026-09-18",
-  "count": 863,
+  "count": 874,
   "items": [
+    {
+      "id": "mkt:01a0b25f-8d88-7118-85ef-29fd3c156a3f",
+      "time": "2026-09-18 10:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Africa CDC: Ebola outbreak in DRC still not under control】On the 17th Africa CDC director Kaseya said current data do not confirm the Ebola outbreak in the Democratic Republic of Congo has peaked and that the situation remains uncontrolled. Kaseya said the epidemic curve in the DRC is broadly slightly down but unstable. A DRC health ministry report dated the 15th shows 7,404 confirmed cases and 3,577 deaths (case fatality rate 48.3%). The outbreak has spread to 62 health zones across seven provinces, with Ituri province accounting for about 77.7% of confirmed cases."
+    },
+    {
+      "id": "5101013",
+      "time": "2026-09-18 10:36:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量108億元。"
+    },
+    {
+      "id": "5101012",
+      "time": "2026-09-18 10:36:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊走高，古越龍山漲停】其他酒類板塊走高，古越龍山漲停，會稽山此前封板，金楓酒業、張裕A、威龍股份、百潤股份跟漲。"
+    },
+    {
+      "id": "mkt:01a0b25e-8865-7118-85ef-27c76ecd2f2d",
+      "time": "2026-09-18 10:35:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Suiyuan Technology-U shares rose over 6%, hitting a record high since listing."
+    },
+    {
+      "id": "5101011",
+      "time": "2026-09-18 10:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "燧原科技-U漲超6%，創上市來新高。"
+    },
+    {
+      "id": "5101010",
+      "time": "2026-09-18 10:35:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體裝置板塊走高，託倫斯漲超13%】半導體裝置板塊走高，託倫斯漲超13%，富樂德、超純應材、矽電股份、富創精密、拓荊科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a0b25d-c76c-7118-85ef-19df6e88da2b",
+      "time": "2026-09-18 10:34:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kihara, Japan's chief cabinet secretary, said Japan will significantly step up efforts on budget reform."
+    },
+    {
+      "id": "5101009",
+      "time": "2026-09-18 10:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲0.8%，東證指數跌0.4%。"
+    },
+    {
+      "id": "5101008",
+      "time": "2026-09-18 10:33:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美容護理板塊震盪走高 水羊股份漲超10%】美容護理板塊盤中震盪走高，水羊股份漲超10%，潔雅股份、倍加潔、百亞股份、丸美生物、芭薇股份、拉芳家化跟漲。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609183878395914",
+      "time": "2026-09-18 10:33:15",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【1-8月郵政行業業務收入同比增長6.0%】資料顯示，1-8月，郵政行業業務收入（不包括郵政儲蓄銀行直接營業收入）累計完成12304.5億元，同比增長6.0%。其中，快遞業務收入累計完成10289.2億元，同比增長7.4%。1-8月，郵政行業寄遞業務量累計完成1454.6億件，同比增長4.0%。其中,快遞業務量累計完成1340.6億件，同比增長4.6%。8月份，郵政行業業務收入完成1505.4億元，同比增長5.3%。"
+    },
+    {
+      "id": "5101007",
+      "time": "2026-09-18 10:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奕行智慧完成近20億元新一輪融資】9月18日，介面新聞獲悉，RISC-V雲端AI算力晶片企業奕行智慧（EVAS Intelligence）完成新一輪融資，融資金額近20億元，據估計其投後估值接近150億元。本輪投資方包括華泰創新、鐘鼎資本、中芯聚源、九安醫療、仁愛資本、通富微電子、賽意產業基金、和利資本、芯鑫租賃、恆旭資本、尚頎資本、建廣湛盧、容億資本等20餘家投資機構。目前，其第一代Epoch算力晶片已量產交付，新一代雲端算力晶片也已完成流片。"
+    },
     {
       "id": "mkt:01a0b25c-35a2-7118-85ef-130e35b5230f",
       "time": "2026-09-18 10:33:02",

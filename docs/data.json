@@ -1,7 +1,102 @@
 {
-  "updated": "2026-09-18 10:33:28",
-  "count": 13312,
+  "updated": "2026-09-18 10:37:13",
+  "count": 13311,
   "items": [
+    {
+      "id": "mkt:01a0b25f-8d88-7118-85ef-29fd3c156a3f",
+      "time": "2026-09-18 10:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Africa CDC: Ebola outbreak in DRC still not under control】On the 17th Africa CDC director Kaseya said current data do not confirm the Ebola outbreak in the Democratic Republic of Congo has peaked and that the situation remains uncontrolled. Kaseya said the epidemic curve in the DRC is broadly slightly down but unstable. A DRC health ministry report dated the 15th shows 7,404 confirmed cases and 3,577 deaths (case fatality rate 48.3%). The outbreak has spread to 62 health zones across seven provinces, with Ituri province accounting for about 77.7% of confirmed cases."
+    },
+    {
+      "id": "5101013",
+      "time": "2026-09-18 10:36:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量108億元。"
+    },
+    {
+      "id": "5101012",
+      "time": "2026-09-18 10:36:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊走高，古越龍山漲停】其他酒類板塊走高，古越龍山漲停，會稽山此前封板，金楓酒業、張裕A、威龍股份、百潤股份跟漲。"
+    },
+    {
+      "id": "mkt:01a0b25e-8865-7118-85ef-27c76ecd2f2d",
+      "time": "2026-09-18 10:35:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Suiyuan Technology-U shares rose over 6%, hitting a record high since listing."
+    },
+    {
+      "id": "5101011",
+      "time": "2026-09-18 10:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "燧原科技-U漲超6%，創上市來新高。"
+    },
+    {
+      "id": "5101010",
+      "time": "2026-09-18 10:35:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體裝置板塊走高，託倫斯漲超13%】半導體裝置板塊走高，託倫斯漲超13%，富樂德、超純應材、矽電股份、富創精密、拓荊科技等跟漲。"
+    },
+    {
+      "id": "mkt:01a0b25d-c76c-7118-85ef-19df6e88da2b",
+      "time": "2026-09-18 10:34:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kihara, Japan's chief cabinet secretary, said Japan will significantly step up efforts on budget reform."
+    },
+    {
+      "id": "5101009",
+      "time": "2026-09-18 10:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲0.8%，東證指數跌0.4%。"
+    },
+    {
+      "id": "5101008",
+      "time": "2026-09-18 10:33:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美容護理板塊震盪走高 水羊股份漲超10%】美容護理板塊盤中震盪走高，水羊股份漲超10%，潔雅股份、倍加潔、百亞股份、丸美生物、芭薇股份、拉芳家化跟漲。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609183878395914",
+      "time": "2026-09-18 10:33:15",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【1-8月郵政行業業務收入同比增長6.0%】資料顯示，1-8月，郵政行業業務收入（不包括郵政儲蓄銀行直接營業收入）累計完成12304.5億元，同比增長6.0%。其中，快遞業務收入累計完成10289.2億元，同比增長7.4%。1-8月，郵政行業寄遞業務量累計完成1454.6億件，同比增長4.0%。其中,快遞業務量累計完成1340.6億件，同比增長4.6%。8月份，郵政行業業務收入完成1505.4億元，同比增長5.3%。"
+    },
+    {
+      "id": "5101007",
+      "time": "2026-09-18 10:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奕行智慧完成近20億元新一輪融資】9月18日，介面新聞獲悉，RISC-V雲端AI算力晶片企業奕行智慧（EVAS Intelligence）完成新一輪融資，融資金額近20億元，據估計其投後估值接近150億元。本輪投資方包括華泰創新、鐘鼎資本、中芯聚源、九安醫療、仁愛資本、通富微電子、賽意產業基金、和利資本、芯鑫租賃、恆旭資本、尚頎資本、建廣湛盧、容億資本等20餘家投資機構。目前，其第一代Epoch算力晶片已量產交付，新一代雲端算力晶片也已完成流片。"
+    },
     {
       "id": "mkt:01a0b25c-35a2-7118-85ef-130e35b5230f",
       "time": "2026-09-18 10:33:02",
@@ -122390,109 +122485,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時放量1236億元。"
-    },
-    {
-      "id": "5088686",
-      "time": "2026-09-11 10:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們控制著”特朗普海峽“。"
-    },
-    {
-      "id": "te:economy:582974",
-      "time": "2026-09-11 10:36:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds at Near 3-Year High — The yield on the 10-year US Treasury note climbed to around 4.97% on Friday, scaling its highest levels since October 2023 after the US Treasury Department’s first expanded buyback operation resulted in weaker-than-expected purchases. The US government said it repurchased $5.2 billion worth of bonds, below the $6 billion cap and roughly half of the $10.5 billion offered in the operation. Treasury yields also moved higher after data showed US producer inflation accelerated in August as the Iran war drove up wholesale energy prices, with traders now awaiting the latest consumer inflation data. Markets are currently pricing in around a 71% probability that the Fed will deliver a 25-basis-point rate increase next week, up from 61% before the PPI report. Meanwhile, oil prices surged above $100 a barrel as the US and Iran showed no signs of backing down from the conflict, raising concerns over prolonged disruptions to global energy supplies and higher inflation."
-    },
-    {
-      "id": "5088685",
-      "time": "2026-09-11 10:36:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數跌2.00%，現報3855.705點；深證成指跌2.36%，現報13296.169點；創業板指跌1.89%，現報3275.258點。"
-    },
-    {
-      "id": "5088684",
-      "time": "2026-09-11 10:36:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數期貨下跌2.0%至4,454.80點。"
-    },
-    {
-      "id": "5088683",
-      "time": "2026-09-11 10:36:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們接管了委內瑞拉的石油——650億桶石油。"
-    },
-    {
-      "id": "5088682",
-      "time": "2026-09-11 10:35:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【軍工裝備板塊短線拉昇，內蒙一機漲停】軍工裝備板塊短線拉昇，內蒙一機漲停，光電股份此前漲停，北方長龍、博雲新材、晟楠科技、捷強裝備、建設工業跟漲。"
-    },
-    {
-      "id": "5088681",
-      "time": "2026-09-11 10:35:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【龍芯中科：9A1000顯示卡預計明年上半年開售】龍芯中科在9月11日舉行的2026年半年度業績說明會上表示，9A1000顯示卡預計明年上半年開售，具體價格主要取決於視訊記憶體（LPDDR4）價格。9A1000既是顯示卡又是AI加速卡，作為顯示卡，在對自主性要求較高的特定市場競爭力較強，在開放市場對標RX550；作為AI加速卡，可以滿足大多數具身智慧應用的需求。現在已經有部分使用者開始研製基於9A1000的智慧體。"
-    },
-    {
-      "id": "5088680",
-      "time": "2026-09-11 10:35:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Analog Devices擬收購Alif Semiconductor】近日，Analog Devices, Inc. (Nasdaq: ADI)與Alif Semiconductor宣佈，雙方已達成最終協議，ADI將以13.5億美元全現金交易收購Alif。根據雙方董事會已批准的協議條款，ADI將向Alif股東支付13.5億美元的前期現金對價，具體以最終協議條款為準。此外，ADI還可能會支付最高2億美元的額外或有對價。該交易預計將於2026年底前完成，具體取決於慣常的交割條件，以及修訂版《1976年哈特-斯科特-羅迪諾反壟斷改進法案》規定的適用等待期（及其任何延期期限）屆滿。"
-    },
-    {
-      "id": "5088679",
-      "time": "2026-09-11 10:34:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【亞信聯合創始人田溯寧：數智和身份信任是智慧時代安全升級關鍵】9月10日，在2026中國聯通合作伙伴大會上，亞信聯合創始人田溯寧表示，隨著AI的重心從“會說話”轉向“會做事”，一旦AI開始執行動作，風險將由內容深入到網路、資料、系統與資金。他提出，面對智慧時代新的風險挑戰，安全需要從傳統網路安全升級為數字身份全生命週期管理。這個變革過程中，“數智和身份信任”是安全升級的關鍵，具體而言，安全體系為每一個Agent和被呼叫的工具賦予身份；堅持最小授權，明確它觸達和計量的邊界；全鏈路留痕，讓每一次執行可追蹤、可回溯、可問責；把SLA和計費規則寫成可執行、可仲裁的機器條款。"
-    },
-    {
-      "id": "5088678",
-      "time": "2026-09-11 10:34:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌4%，現報35535.00元。"
-    },
-    {
-      "id": "5088677",
-      "time": "2026-09-11 10:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗在各方面都在節節敗退，我們控制著海峽。"
-    },
-    {
-      "id": "5088676",
-      "time": "2026-09-11 10:33:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家發展改革委向民營企業公開推介一批投資專案】從國家發展改革委獲悉，為進一步激發民間投資活力，國家發展改革委民營局日前召開有關民營企業和行業協會座談會。圍繞民營企業投資意向，會上集中推介了一批投資專案，積極引導民間資本參與建設。本次共推介專案36個，聚焦交通、物流、水利、能源等四大重點領域，預計總投資614億元，擬引入民間資本156億元，涵蓋鐵路、倉儲、風電、儲能、充電設施、引水工程等型別。民間資本可透過獨資、控股、參股專案公司等多種方式參與。據悉，下一步，國家發展改革委將充分發揮與民營企業常態化溝通交流和問題解決機制作用，會同有關方面持續最佳化服務保障，強化資金、土地等要素供給，協調解決重點問題，全力推動專案早落地早實施。同時，建立專案常態化推介機制，拓展民營企業參與優質專案投資機會，更好促進民間投資發展。"
     }
   ]
 }
