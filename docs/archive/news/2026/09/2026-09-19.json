@@ -1,7 +1,36 @@
 {
   "date": "2026-09-19",
-  "count": 2,
+  "count": 5,
   "items": [
+    {
+      "id": "5102596",
+      "time": "2026-09-19 00:08:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預計2026年國內生產總值增長率為3.2%，低於之前預估的3.4%。預計 2027 年國內生產總值增速為 3.0%。"
+    },
+    {
+      "id": "mkt:01a0b546-5cab-7118-8608-216bdafb5ff9",
+      "time": "2026-09-19 00:08:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank expects 2026 GDP growth of 3.2%, down from its prior 3.4% forecast."
+    },
+    {
+      "id": "te:markets:585092",
+      "time": "2026-09-19 00:07:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.51% Lower — The FTSE 100 Index dropped 164 points or 1.51 percent on Friday to close at 10652 points. Losses were led by Airtel Africa (-11.27%), Coca-Cola (-7.94%) and Entain (-5.63%)."
+    },
     {
       "id": "te:markets:585090",
       "time": "2026-09-19 00:04:35",

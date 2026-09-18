@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-19 00:06:37",
-  "count": 13402,
+  "updated": "2026-09-19 00:10:31",
+  "count": 13400,
   "items": [
+    {
+      "id": "5102596",
+      "time": "2026-09-19 00:08:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預計2026年國內生產總值增長率為3.2%，低於之前預估的3.4%。預計 2027 年國內生產總值增速為 3.0%。"
+    },
+    {
+      "id": "mkt:01a0b546-5cab-7118-8608-216bdafb5ff9",
+      "time": "2026-09-19 00:08:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank expects 2026 GDP growth of 3.2%, down from its prior 3.4% forecast."
+    },
+    {
+      "id": "te:markets:585092",
+      "time": "2026-09-19 00:07:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.51% Lower — The FTSE 100 Index dropped 164 points or 1.51 percent on Friday to close at 10652 points. Losses were led by Airtel Africa (-11.27%), Coca-Cola (-7.94%) and Entain (-5.63%)."
+    },
     {
       "id": "te:markets:585090",
       "time": "2026-09-19 00:04:35",
@@ -123130,63 +123159,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Closes 0.82% Higher — The DAX Index went up by 207 points or 0.82 percent on Friday to close at 25569 points. The rise was led by Infineon (4.78%), Siemens (2.73%) and Deutsche Telekom (2.55%). On the downside, the weakerst performers were Rheinmetall (-3.05%), BASF (-2.83%) and Henkel (-1.71%)."
-    },
-    {
-      "id": "te:markets:583265",
-      "time": "2026-09-12 00:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.75% Higher — The CAC 40 Index rose 61 points or 0.75 percent on Friday to close at 8178 points. Leading the gains are Stellantis NV (2.74%), Safran (2.67%) and STMicroelectronics (2.21%). Top losers were Carrefour (-1.48%), ENGIE (-1.32%) and Edenred (-1.13%)."
-    },
-    {
-      "id": "te:markets:583264",
-      "time": "2026-09-12 00:09:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Sharply Higher — The FTSE MIB rose 1.4% to 52,512 on Friday, amid broad-based gains across sectors, while bank merger talks remained in focus. Financials outperformed after the Antitrust Authority stated it would launch an in-depth investigation into the MPS divestment between Intesa Sanpaolo (2.6%) and Unipol (0.2%). Additionally, Prime Minister Meloni stated the state will refrain from interfering in Intesa’s takeover bid for MPS (2.5%). Meanwhile, UniCredit (1.6%) CEO is set to meet the German Finance Minister on Monday to discuss a potential deal involving Commerzbank. Avio advanced 3.9% after reporting upbeat first-half profits, while Prysmian rose 3% after completing a capital increase to partially finance its acquisition of Atkore. Utilities found some respite as European gas prices declined, while Italy adopted measures aimed at boosting domestic oil and gas production to reduce its dependence on fuel imports. On the downside, Saipem (-1.2%) led the losses."
-    },
-    {
-      "id": "mkt:01a0913a-d83a-7118-854f-02080370e0a2",
-      "time": "2026-09-12 00:09:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): Pre-orders for iPhone 18 Pro and iPhone 18 Pro Max open on Apple.com and the Apple Store app from 0500 PT on Sep 12."
-    },
-    {
-      "id": "5090182",
-      "time": "2026-09-12 00:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：太平洋時間 9 月 12 日凌晨 5 點（北京時間 9 月 12 日 20:00）起，消費者可在蘋果官網以及 Apple Store App 上預約訂購 iPhone 18 Pro 與 iPhone 18 Pro Max。"
-    },
-    {
-      "id": "te:markets:583263",
-      "time": "2026-09-12 00:07:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.34% Higher — The FTSE 100 Index gained 36 points or 0.34 percent on Friday to close at 10645 points. Gains were led by Informa (2.04%), Howden Joinery (1.91%) and Natwest (1.73%). Biggest losers were London Stock Exchange (-2.66%), The Sage Group (-1.86%) and Burberry (-1.60%)."
     }
   ]
 }
