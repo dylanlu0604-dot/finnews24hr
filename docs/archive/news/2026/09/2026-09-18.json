@@ -1,7 +1,75 @@
 {
   "date": "2026-09-18",
-  "count": 534,
+  "count": 542,
   "items": [
+    {
+      "id": "5100802",
+      "time": "2026-09-18 08:14:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1%，至64783.78點。"
+    },
+    {
+      "id": "5100801",
+      "time": "2026-09-18 08:14:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.25美元/桶。"
+    },
+    {
+      "id": "mkt:01a0b1dc-fdb3-7118-85eb-e3f01fec1951",
+      "time": "2026-09-18 08:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Postal Service chief David Steiner said on Thursday that after the Supreme Court this week rejected President Trump's executive order, the agency has halted development of a controversial computer system that had been central to efforts to restrict mail-in voting. \"There is an injunction, so we have done nothing,\" he said."
+    },
+    {
+      "id": "5100799",
+      "time": "2026-09-18 08:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明將於今日（週五）在首爾青瓦臺接見阿聯酋（UAE）阿布扎比行政局主席卡爾杜恩·阿爾·穆巴拉克（Khaldoon Al Mubarak）。"
+    },
+    {
+      "id": "mkt:01a0b1dc-3049-7118-85eb-ddd7e34a6c6f",
+      "time": "2026-09-18 08:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: gas-turbine industry in new upcycle】CITIC Securities says the gas-turbine industry is in a new upcycle. Demand for small- and mid-sized turbines is rising faster owing to flexible deployment and shorter construction cycles. Overseas OEM capacity expansion has long lead times, keeping supply tight; bottlenecks in hot-end components and large rotating parts are transmitting upstream. Overseas supply gaps and constrained deliveries of core engines for aviation fuel reform are likely to shift demand to domestic complete-machine and component makers, boosting demand for upstream materials such as high-temperature alloys."
+    },
+    {
+      "id": "5100798",
+      "time": "2026-09-18 08:12:15",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：下半年網際網路板塊行情仍將圍繞AI進展及主業業績確定性演繹】中信證券研報稱，2026年第二季度以來，恒生科技指數估值保持低位震盪，網際網路板塊的核心定價因素從外部風險偏好的分化轉向市場流動性預期、板塊業績韌性和現金流情況。展望2026年下半年，板塊行情仍將圍繞AI進展及主業業績確定性演繹。AI角度，建議關注頭部網際網路公司模型迭代、智慧體滲透節奏、應用拓展以及商業化兌現有望帶來的催化；行業角度，建議關注業績確定性較高、現金流及股東回報較好的公司。"
+    },
+    {
+      "id": "5100797",
+      "time": "2026-09-18 08:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電將在龍潭建設新的先進製造工廠】據報道，睽違三年後，臺積電決定重返臺灣龍潭設廠。臺積電供應鏈透露，龍潭科學園區三期（龍科三期）定位將優先鎖定 1.4 奈米（A14）以下埃米世代先進製程，初步規劃三座晶圓廠，首座廠目標 2030 年前後完工並進入量產準備，整體投資規模估計超過 1 萬億新臺幣（314億美元）。"
+    },
+    {
+      "id": "5100796",
+      "time": "2026-09-18 08:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.24%。"
+    },
     {
       "id": "5100795",
       "time": "2026-09-18 08:10:52",

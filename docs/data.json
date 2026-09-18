@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-18 08:11:32",
-  "count": 13316,
+  "updated": "2026-09-18 08:15:14",
+  "count": 13320,
   "items": [
+    {
+      "id": "5100802",
+      "time": "2026-09-18 08:14:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1%，至64783.78點。"
+    },
+    {
+      "id": "5100801",
+      "time": "2026-09-18 08:14:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.25美元/桶。"
+    },
+    {
+      "id": "mkt:01a0b1dc-fdb3-7118-85eb-e3f01fec1951",
+      "time": "2026-09-18 08:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Postal Service chief David Steiner said on Thursday that after the Supreme Court this week rejected President Trump's executive order, the agency has halted development of a controversial computer system that had been central to efforts to restrict mail-in voting. \"There is an injunction, so we have done nothing,\" he said."
+    },
+    {
+      "id": "5100799",
+      "time": "2026-09-18 08:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明將於今日（週五）在首爾青瓦臺接見阿聯酋（UAE）阿布扎比行政局主席卡爾杜恩·阿爾·穆巴拉克（Khaldoon Al Mubarak）。"
+    },
+    {
+      "id": "mkt:01a0b1dc-3049-7118-85eb-ddd7e34a6c6f",
+      "time": "2026-09-18 08:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: gas-turbine industry in new upcycle】CITIC Securities says the gas-turbine industry is in a new upcycle. Demand for small- and mid-sized turbines is rising faster owing to flexible deployment and shorter construction cycles. Overseas OEM capacity expansion has long lead times, keeping supply tight; bottlenecks in hot-end components and large rotating parts are transmitting upstream. Overseas supply gaps and constrained deliveries of core engines for aviation fuel reform are likely to shift demand to domestic complete-machine and component makers, boosting demand for upstream materials such as high-temperature alloys."
+    },
+    {
+      "id": "5100798",
+      "time": "2026-09-18 08:12:15",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：下半年網際網路板塊行情仍將圍繞AI進展及主業業績確定性演繹】中信證券研報稱，2026年第二季度以來，恒生科技指數估值保持低位震盪，網際網路板塊的核心定價因素從外部風險偏好的分化轉向市場流動性預期、板塊業績韌性和現金流情況。展望2026年下半年，板塊行情仍將圍繞AI進展及主業業績確定性演繹。AI角度，建議關注頭部網際網路公司模型迭代、智慧體滲透節奏、應用拓展以及商業化兌現有望帶來的催化；行業角度，建議關注業績確定性較高、現金流及股東回報較好的公司。"
+    },
+    {
+      "id": "5100797",
+      "time": "2026-09-18 08:11:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電將在龍潭建設新的先進製造工廠】據報道，睽違三年後，臺積電決定重返臺灣龍潭設廠。臺積電供應鏈透露，龍潭科學園區三期（龍科三期）定位將優先鎖定 1.4 奈米（A14）以下埃米世代先進製程，初步規劃三座晶圓廠，首座廠目標 2030 年前後完工並進入量產準備，整體投資規模估計超過 1 萬億新臺幣（314億美元）。"
+    },
+    {
+      "id": "5100796",
+      "time": "2026-09-18 08:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內跌0.24%。"
+    },
     {
       "id": "5100795",
       "time": "2026-09-18 08:10:52",
@@ -122494,42 +122562,6 @@
         "Importance 0"
       ],
       "text": "Silver Holds Drop Ahead of US CPI Report — Silver traded around $63.5 an ounce on Friday after tumbling over 5% in the previous session, as investors braced for the US consumer price index report that could reinforce expectations for a Federal Reserve rate hike next week. Data released Thursday showed US producer prices accelerated in August as the Iran war pushed wholesale energy costs higher. Markets are now pricing in roughly a 71% probability of a 25-basis-point Fed rate increase next week, up from 61% before the PPI data. Silver also faced pressure from surging oil prices amid the escalating US-Iran conflict, fueling concerns over rising inflation. Meanwhile, Treasury yields jumped following lower-than-expected purchases by the US Treasury Department during its first expanded buyback operation. Non-interest-bearing assets such as silver tend to underperform when yields rise. Silver is on track to lose about 4% this week, marking its third straight weekly decline."
-    },
-    {
-      "id": "5088427",
-      "time": "2026-09-11 08:14:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【達美航空一架波音757客機因疑似增壓問題返航，美國聯邦航空局啟動調查】當地時間9月10日，據美國聯邦航空局（FAA）訊息，達美航空791航班當天上午約10時25分安全返回紐約肯尼迪國際機場。該航班原計劃從紐約飛往菲尼克斯，機型為波音757。機組報告稱飛機可能存在增壓問題，FAA已啟動調查。"
-    },
-    {
-      "id": "te:markets:582937",
-      "time": "2026-09-11 08:13:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline Ahead of US CPI Report — Gold traded near $4,300 an ounce on Friday after falling nearly 2% in the previous session, as investors braced for the US consumer price index report that could reinforce expectations for a Federal Reserve rate hike next week. Data released Thursday showed US producer prices accelerated in August as the Iran war pushed wholesale energy costs higher. Markets are now pricing in roughly a 71% probability of a 25-basis-point Fed rate increase next week, up from 61% before the PPI data. Gold also faced pressure from surging oil prices amid the escalating US-Iran conflict, fueling concerns over rising inflation. Meanwhile, Treasury yields jumped following lower-than-expected purchases by the US Treasury Department during its first expanded buyback operation. Non-interest-bearing assets such as gold tend to underperform when yields rise. Gold is on track to lose more than 2% this week, marking its third straight weekly decline."
-    },
-    {
-      "id": "em:qqyh_ozyh:202609113871200783",
-      "time": "2026-09-11 08:13:16",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐央行年內二度加息 歐債延續拋售潮】當地時間週四（10日），歐洲央行公佈最新利率決議，將三大關鍵利率均上調25個基點。其中存款便利利率升至2.50%，主要再融資利率和邊際貸款便利利率分別升至2.65%和2.90%，新利率自9月16日起生效。這是歐央行年內的第二次加息，符合市場預期。"
-    },
-    {
-      "id": "5088426",
-      "time": "2026-09-11 08:11:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【昨日ETF資金整體淨流入101.90億元】據同花順iFinD資料顯示，2026年9月10日，ETF資金整體淨流入101.90億元，股票型淨流入25.31億元，寬基型淨流入24.47億元。當日ETF資金淨流入榜單排名前3依次為：海富通中證短融ETF（511360）淨流入16.17億元，華夏上證科創板50成份ETF（588000）淨流入8.52億元，華泰柏瑞南方東英恒生科技指數ETF(QDII)（513130）淨流入8.05億元。"
     }
   ]
 }
