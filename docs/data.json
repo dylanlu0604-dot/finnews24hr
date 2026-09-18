@@ -1,7 +1,123 @@
 {
-  "updated": "2026-09-18 15:16:33",
-  "count": 13460,
+  "updated": "2026-09-18 15:20:22",
+  "count": 13470,
   "items": [
+    {
+      "id": "mkt:01a0b362-44ea-7118-85f8-fda79eb18faf",
+      "time": "2026-09-18 15:19:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "UEDA, governor of the Bank of Japan, said he hopes to take preventive measures to avoid resorting to such drastic action."
+    },
+    {
+      "id": "mkt:01a0b362-102c-7118-85f8-f2044d950519",
+      "time": "2026-09-18 15:19:03",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said whether to maintain accommodative policy after a rate rise to 1.5% will depend on prevailing economic and financial variables."
+    },
+    {
+      "id": "5101471",
+      "time": "2026-09-18 15:18:48",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【9月18日滬深兩市漲停分析】創業板指、科創50放量漲超2%！近端次新、半導體產業鏈全線爆發。華瓷股份、錫華科技4連板，一圖看懂>>"
+    },
+    {
+      "id": "5101470",
+      "time": "2026-09-18 15:18:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "日本銀行行長植田和男：我希望能夠提前採取行動，以避免出臺此類過激政策。"
+    },
+    {
+      "id": "mkt:01a0b361-b2c0-7118-85f8-ec299bb33abc",
+      "time": "2026-09-18 15:18:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said large or consecutive rate hikes would imply a high risk of overshooting."
+    },
+    {
+      "id": "5101469",
+      "time": "2026-09-18 15:18:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：正監控市場，近期波動重演的風險較低。"
+    },
+    {
+      "id": "5101468",
+      "time": "2026-09-18 15:18:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：加息至1.5%後整體環境是否仍具寬鬆性，將根據當時的經濟與金融指標進行判斷。"
+    },
+    {
+      "id": "5101467",
+      "time": "2026-09-18 15:18:19",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：若大幅加息或連續加息，政策超調的風險將會很高。"
+    },
+    {
+      "id": "mkt:01a0b360-9948-7118-85f8-e0749f8974c3",
+      "time": "2026-09-18 15:17:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB policymaker KAZAKS says may need to raise rates to level that curbs activity】ECB policymaker KAZAKS said the bank may have to raise borrowing costs to a level that curbs economic activity to control inflation. He said the Iran war’s energy shock is proving more persistent and the ECB must do everything to prevent elevated oil and gas prices from spilling into broader inflation. He added the stronger the economy, the easier it is to raise rates, citing Germany’s unexpectedly strong Q2 growth. KAZAKS said “2.5% is nothing magical” and that, if necessary, the ECB will of course go higher. He gave no timing guidance but said “all meetings are live meetings.”"
+    },
+    {
+      "id": "te:markets:584917",
+      "time": "2026-09-18 15:16:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains Volatile as Ueda Reaffirms Tightening Path — The Japanese yen weakened past 157 per dollar on Friday, hitting two-week lows after the Bank of Japan raised interest rates in a widely telegraphed move, with two officials dissenting to the decision. The currency later pared its decline after Governor Kazuo Ueda said at the post-meeting press conference that the BOJ remains committed to raising rates and adjusting the extent of monetary accommodation based on changes in economic activity, prices and financial conditions. The central bank lifted its policy rate by 25 basis points to 1.25%, the highest since April 1995, as policymakers contend with persistent inflation and disruptions stemming from the Middle East. The hike was opposed by board members Toichiro Asada and Ayano Sato, highlighting some resistance to a quicker tightening cycle. Meanwhile, Japan’s core inflation eased to 1.7% in August from 1.8% in July, marking its first decline in four months."
+    },
+    {
+      "id": "mkt:01a0b35f-82ce-7118-85f8-d9a41ac64299",
+      "time": "2026-09-18 15:16:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: Trump likely to claim victory at UN while Iran war and Houthi offensive unsettle allies】Analyst Matt Spetalnick says Trump is expected to again claim victory at the UN, repeating last year’s assertion that US strikes on Iranian nuclear sites “completely destroyed everything” and that he helped secure an Israel‑Iran ceasefire. Months of US‑Iran hostilities, escalating regional violence and unresolved Iranian nuclear risk have left partners more wary. Iran has refused to yield and has impeded oil shipments through the Strait of Hormuz; Houthi forces have intensified control over Red Sea routes, seized islands near the Bab al‑Mandeb entrance and added leverage over global oil flows, contributing to higher energy prices. Gulf, European and Asian partners have largely rebuffed US aid requests, raising questions about Washington’s capacity to protect regional allies and putting additional domestic political pressure on the administration amid elevated US gasoline prices ahead of the midterms. A senior US administration official said Washington will continue to defend Red Sea navigation and push regional partners to assume a greater security role."
+    },
     {
       "id": "te:markets:584916",
       "time": "2026-09-18 15:16:02",
@@ -123800,18 +123916,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is up by 36 points or 0.44 percent on Friday. Top gainers are Safran (1.93%), Airbus (1.46%) and Accor (0.94%). Biggest losses came from TP (-1.30%), Edenred (-0.85%) and ENGIE (-0.49%)."
-    },
-    {
-      "id": "te:economy:583072",
-      "time": "2026-09-11 15:18:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Turkey Retail Sales at Over 1-Year Low — Retail sales in Turkey rose 10.4% year-on-year in July 2026, slowing from a downwardly revised 11.5% in the previous month. It marked the weakest annual growth since March 2025, mainly driven by softer sales in other household equipment in specialized stores (0.7% vs 2.1% in June), other goods in specialized stores (20.5% vs 25.4%), non-specialized stores (3.6% vs 4.2%), and trade not in stores, stalls and markets (19.2% vs 23.4%). Meanwhile, sales growth accelerated for food, beverages and tobacco in specialized stores (4.2% vs 0.6%), automotive fuel in specialized stores (8.0% vs 1.3%), information and communication equipment in specialized stores (10.9% vs 10.5%), cultural and recreation goods in specialized stores (10.9% vs 7.1%), and sales via stalls and markets (18.7% vs 13.4%). On a seasonally adjusted monthly basis, retail sales rose 0.2%, easing from a 0.5% increase in June."
     }
   ]
 }
