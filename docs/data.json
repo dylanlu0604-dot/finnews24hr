@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-19 03:34:39",
-  "count": 13438,
+  "updated": "2026-09-19 03:38:34",
+  "count": 13437,
   "items": [
+    {
+      "id": "5102704",
+      "time": "2026-09-19 03:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據訊息人士透露，美國衛生部長肯尼迪已任命美國國家兒童健康與人類發育研究所所長約翰·蓋塔尼斯擔任機構間自閉症協調委員會主席。"
+    },
+    {
+      "id": "5102703",
+      "time": "2026-09-19 03:37:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價18日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌1.61美元，收於每桶100.30美元，跌幅為1.58%；11月交貨的倫敦布倫特原油期貨價格下跌95美分，收於每桶103.87美元，跌幅為0.91%。"
+    },
+    {
+      "id": "mkt:01a0b606-5c19-7118-860a-e2235735b0ad",
+      "time": "2026-09-19 03:37:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls on the 18th】By close, NYMEX October light sweet crude fell $1.61 to $100.30 a barrel, down 1.58%; ICE Brent November fell $0.95 to $103.87 a barrel, down 0.91%."
+    },
+    {
+      "id": "5102702",
+      "time": "2026-09-19 03:36:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日元本週跌約2%】週五（9月18日）紐約尾盤，美元兌日元漲0.44%，報156.67日元，本週累計上漲1.99%，交投區間為153.38-158.05日元。歐元兌日元累漲1.08%，報180日元；英鎊兌日元累漲1.03%，報209.892日元。日元兌離岸人民幣累跌2.20%，報4.2718元，整體持續下挫。"
+    },
+    {
+      "id": "mkt:01a0b603-7efd-7118-860a-dae335bbcc62",
+      "time": "2026-09-19 03:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. appeals court rejected the Trump administration's policy for expedited removal of migrants to third countries."
+    },
     {
       "id": "5102701",
       "time": "2026-09-19 03:33:50",
@@ -123393,72 +123438,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會（CFTC）：截至2026年9月8日當週，股票基金經理削減標普500 CME淨多頭頭寸19,683份合約，至907,776份。股票基金投機者增加標普500 CME淨空頭頭寸29,085份合約，至336,643份。"
-    },
-    {
-      "id": "5090295",
-      "time": "2026-09-12 03:37:09",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗預測美聯儲9月加息 然後在2027年降息】花旗集團調整了對美聯儲利率路徑的預測，提出了9月份加息、然後到2027年年中開始降息的判斷。花旗經濟學家Andrew Hollenhorst和Veronica Clark週五在一份研究報告中寫道，8月份高於預期的核心通脹資料以及能源價格再次上漲，“很可能剛好足以促成共識，支援在下週的聯邦公開市場委員會會議上加息25個基點”該行預計，美聯儲在9月份加息後將維持利率不變直至6月份；然後隨著通脹回落，美聯儲從6月份到2027年底將降息三次此前，花旗預計勞動力市場走弱將促使美聯儲今年降息。"
-    },
-    {
-      "id": "mkt:01a091f7-f1e1-7118-8551-24df2b8750a9",
-      "time": "2026-09-12 03:35:40",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "CFTC: week to Sept 8, 2026 — equity fund managers cut CME S&P 500 net longs by 19,683 contracts to 907,776; equity fund speculators raised CME S&P 500 net shorts by 29,085 contracts to 336,643."
-    },
-    {
-      "id": "5090294",
-      "time": "2026-09-12 03:35:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月8日當週，原油投機者將西德克薩斯中質原油（WTI）的淨多頭頭寸增加21153手，至140046手。"
-    },
-    {
-      "id": "mkt:01a091f7-808b-7118-8551-18a3e5ae3025",
-      "time": "2026-09-12 03:35:11",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "CFTC data show fund managers cut net-long positions in S&P 500 futures to the lowest level last week."
-    },
-    {
-      "id": "mkt:01a091f7-7661-7118-8551-1467d1628f06",
-      "time": "2026-09-12 03:35:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission (CFTC) data: for the week to Sept. 8, 2026, speculative traders raised WTI net-long positions by 21,153 contracts to 140,046."
-    },
-    {
-      "id": "mkt:01a091f7-2a39-7118-8551-0f055def45be",
-      "time": "2026-09-12 03:34:49",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "CFTC weekly (week to Sept 8, 2026): speculators increased CBOT 2-year US Treasury futures net short by 46,589 contracts to 929,107; reduced CBOT ultra-long US Treasury futures net short by 24,171 contracts to 345,140; increased CBOT US Treasury futures net short by 1,016 contracts to 200,517."
     }
   ]
 }

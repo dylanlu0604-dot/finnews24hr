@@ -1,7 +1,52 @@
 {
   "date": "2026-09-19",
-  "count": 207,
+  "count": 212,
   "items": [
+    {
+      "id": "5102704",
+      "time": "2026-09-19 03:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據訊息人士透露，美國衛生部長肯尼迪已任命美國國家兒童健康與人類發育研究所所長約翰·蓋塔尼斯擔任機構間自閉症協調委員會主席。"
+    },
+    {
+      "id": "5102703",
+      "time": "2026-09-19 03:37:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價18日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌1.61美元，收於每桶100.30美元，跌幅為1.58%；11月交貨的倫敦布倫特原油期貨價格下跌95美分，收於每桶103.87美元，跌幅為0.91%。"
+    },
+    {
+      "id": "mkt:01a0b606-5c19-7118-860a-e2235735b0ad",
+      "time": "2026-09-19 03:37:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls on the 18th】By close, NYMEX October light sweet crude fell $1.61 to $100.30 a barrel, down 1.58%; ICE Brent November fell $0.95 to $103.87 a barrel, down 0.91%."
+    },
+    {
+      "id": "5102702",
+      "time": "2026-09-19 03:36:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日元本週跌約2%】週五（9月18日）紐約尾盤，美元兌日元漲0.44%，報156.67日元，本週累計上漲1.99%，交投區間為153.38-158.05日元。歐元兌日元累漲1.08%，報180日元；英鎊兌日元累漲1.03%，報209.892日元。日元兌離岸人民幣累跌2.20%，報4.2718元，整體持續下挫。"
+    },
+    {
+      "id": "mkt:01a0b603-7efd-7118-860a-dae335bbcc62",
+      "time": "2026-09-19 03:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. appeals court rejected the Trump administration's policy for expedited removal of migrants to third countries."
+    },
     {
       "id": "5102701",
       "time": "2026-09-19 03:33:50",
