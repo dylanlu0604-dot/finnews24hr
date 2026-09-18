@@ -1,7 +1,54 @@
 {
   "date": "2026-09-19",
-  "count": 409,
+  "count": 414,
   "items": [
+    {
+      "id": "5102840",
+      "time": "2026-09-19 06:09:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美總統特朗普簽署針對俄羅斯和伊朗的制裁法案】當地時間9月18日，美國白宮釋出宣告表示，美國總統特朗普當日簽署了《2026年林賽·格雷厄姆制裁俄羅斯和伊朗法案》。該法案授權並擴大了針對俄羅斯的法定製裁、關稅及禁令，並延長了現行針對伊朗的制裁措施。（央視新聞）"
+    },
+    {
+      "id": "5102839",
+      "time": "2026-09-19 06:09:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光暗盤突破1000美元，日內漲2.8%。"
+    },
+    {
+      "id": "5102838",
+      "time": "2026-09-19 06:08:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，緬懷參議員林賽·格雷厄姆的最佳方式，就是落實他所推動的法案中的各項條款。"
+    },
+    {
+      "id": "mkt:01a0b690-4b5b-7118-860c-ce3616cc04bf",
+      "time": "2026-09-19 06:08:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukraine President Zelenskiy thanked US President Trump for signing legislation imposing sanctions on Russia and thanked members of Congress for their support."
+    },
+    {
+      "id": "5102837",
+      "time": "2026-09-19 06:07:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤突破6.7美元，日內漲幅1.3%。"
+    },
     {
       "id": "5102836",
       "time": "2026-09-19 06:06:04",
