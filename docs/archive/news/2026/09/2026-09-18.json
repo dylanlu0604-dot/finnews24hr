@@ -1,7 +1,104 @@
 {
   "date": "2026-09-18",
-  "count": 785,
+  "count": 795,
   "items": [
+    {
+      "id": "mkt:01a0b240-2840-7118-85ee-48347db4aa10",
+      "time": "2026-09-18 10:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share perovskite PV cell sector rallied; Yamadun jumped over 8%, with Kuaike Electronics, Laplace, Lushan New Materials, Liansheng Technology and Rongqi Technology also advancing. The State Administration for Market Regulation issued China’s first national standard for perovskite photovoltaics, slated to take effect in 2027."
+    },
+    {
+      "id": "5100968",
+      "time": "2026-09-18 10:02:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【12306回應國慶假期高鐵漲價】9月16日，國慶假期前一天高鐵票開售。有網友稱“準備搶國慶期間的車票，發現車票居然漲價了。”該網友曬出的截圖顯示，9月25日，重慶北至南京南D988次列車票價為446元起，9月30日則為520元起。另有網友分享了廣州至潮汕G6592次列車票價變化，該網友稱，“同個班次，平時價格是279元，中秋漲到298元，國慶漲到302元。”9月18日早間，12306官方客服表示，高鐵票價可能因節假日客流等因素浮動，不同日期優惠折扣不同，並非漲價。具體票價以12306官方顯示為準。對於何時購票更優惠，客服則表示，無法確保某一時段的優惠力度大小。一般情況下，開票期間不會出現較大變化，但也不排除特殊情況。（中新經緯）"
+    },
+    {
+      "id": "5100967",
+      "time": "2026-09-18 10:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo：地圖測繪與適配工作將於2027年開展。"
+    },
+    {
+      "id": "5100966",
+      "time": "2026-09-18 10:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo ：計劃於 2028 年在新加坡提供付費自動駕駛計程車服務。"
+    },
+    {
+      "id": "5100965",
+      "time": "2026-09-18 10:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，週四共有四艘大宗商品貨船駛過霍爾木茲海峽，而十日均值約為16艘。"
+    },
+    {
+      "id": "5100964",
+      "time": "2026-09-18 10:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2214.00點。"
+    },
+    {
+      "id": "5100963",
+      "time": "2026-09-18 10:00:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局釋出首個鈣鈦礦光伏領域國家標準】市場監管總局釋出首個鈣鈦礦光伏領域國家標準《光伏器件 第12部分：鈣鈦礦光伏電池及元件的電流-電壓（I-V）特性測量方法》，將於2027年正式實施。在“雙碳”目標推動下，鈣鈦礦光伏技術發展迅速，正從實驗室走向吉瓦級大規模量產，電池及元件的測試認證需求不斷增長。但鈣鈦礦器件在光照和電壓變化下效能容易波動，測試結果不夠穩定，面積定義也尚未統一，過去常用於晶矽和薄膜電池的測試方法難以直接套用。簡單來說，該標準要解決的是鈣鈦礦電池和元件到底該怎麼測才能測得準、比得公平。鈣鈦礦器件在光照下效能會變化，不能像傳統晶矽那樣快速一測即可。該標準系統規定了測試裝置、測試前的穩定化處理要求，以及如何測量電流-電壓特性、如何計算面積和發電效率等。針對實驗室研發和規模化生產的不同需要，該標準給出快速測量法，並補充最大功率點追蹤法、十點準穩態擬合法（仲裁法）、漸進法等更貼近真實工作狀態的準穩態測試方法。同時，該標準統一總面積與光闌面積定義及效率計算，讓不同機構測出的結果可以放在同一把標尺上比較，最終形成一套可驗證、可復現的標準化測試流程。該標準構建了科學、可靠、可推廣的鈣鈦礦光伏I-V特性測量方法體系，填補了我國在新興光伏技術標準化測試領域的空白。它將成為檢測認證、產品研發、產線質控和貿易交付的“統一標尺”，為後續標準體系完善、國際標準制定及鈣鈦礦光伏產業化推廣應用提供關鍵技術支撐。"
+    },
+    {
+      "id": "mkt:01a0b23e-4d11-7118-85ee-40575ac0cf75",
+      "time": "2026-09-18 10:00:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Refinitiv shipping data showed four merchant vessels transited the Strait of Hormuz on Thursday, below the 10-day average of about 16."
+    },
+    {
+      "id": "mkt:01a0b23d-d852-7118-85ee-3901e6d660ca",
+      "time": "2026-09-18 09:59:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish",
+        "BX.O"
+      ],
+      "text": "【India approves loans of over 30 bln rupees each to four data centers to back AI buildout】India's largest state-owned infrastructure finance institution has approved loans of more than 30 billion rupees (about $313m) apiece to at least four data centers to support AI infrastructure. Managing director Rajkiran Rai G. said the facilities carry a five-year moratorium followed by repayment over the next 10 years. Lender demand underscores rising corporate capex on large data-center projects; global investors from EQT AB and Blackstone to Alphabet, and domestic groups including Adani Group, have pledged billions to build AI compute capacity in India."
+    },
+    {
+      "id": "mkt:01a0b23d-cc58-7118-85ee-34492092f88b",
+      "time": "2026-09-18 09:59:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share pharmaceutical distribution sector rose; Hefu China hit the daily limit-up, while Luyan Pharmaceutical, Runda Medical, Huaren Health, Shuyu Pingmin and Saili Medical also advanced."
+    },
     {
       "id": "5100962",
       "time": "2026-09-18 09:58:49",
