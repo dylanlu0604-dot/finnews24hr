@@ -1,7 +1,46 @@
 {
   "date": "2026-09-18",
-  "count": 2474,
+  "count": 2478,
   "items": [
+    {
+      "id": "te:economy:585081",
+      "time": "2026-09-18 23:41:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Edges Higher — South Africa’s 10-year government bond yield edged up to around 8.83%, as investors reassessed the outlook for interest rates amid a widening Middle East conflict. Locally, the focus shifted to next week’s inflation data and the South African Reserve Bank’s policy decision. The SARB faces another delicate decision on Sept. 23, with elevated fuel prices and persistent inflation pressures weighing against a weakening economy. The central bank kept its benchmark interest rate unchanged at 7% in July, surprising investors and economists after delivering its first hike in three years in May. Inflation eased to 4.3% in July from a peak of 5% in June, but the SARB expects it to remain above 4% through the rest of 2026. Meanwhile, households have recently lowered their inflation expectations, but the economy fell back into contraction in Q2. The mixed signals have kept economists divided over whether a rate hike is coming or policymakers will opt to hold."
+    },
+    {
+      "id": "5102583",
+      "time": "2026-09-18 23:41:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國天然氣 10 月期貨結算價為 198.16 便士 / 撒姆。"
+    },
+    {
+      "id": "mkt:01a0b52c-63d9-7118-8607-da86e08f8cf4",
+      "time": "2026-09-18 23:39:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU's first large-scale CO2 storage facility commissioned in Denmark】Denmark on the 18th commissioned the Greensand CO2 capture and storage facility in the North Sea, beginning injection into a subsea reservoir. The first commercial phase is expected to store up to 400,000 tonnes of CO2 per year. INEOS said CO2 will be injected under the Nini West abandoned oilfield about 250 km off Denmark's west coast, roughly 1,800 m below the seabed. Capacity is planned to expand to 4–8 mln tonnes/year by 2030 as demand grows. CO2 will be sourced mainly from Danish biomethane plants, liquefied, trucked to a dedicated quay at Esbjerg and shipped offshore on the EU's first dedicated CO2 transport vessel."
+    },
+    {
+      "id": "5102582",
+      "time": "2026-09-18 23:39:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟首個規模化碳儲存設施在丹麥啟用】丹麥18日在北海啟用“綠沙”碳捕集與封存設施，將二氧化碳注入海底儲層。作為歐盟境內首個規模化二氧化碳封存專案，“綠沙”第一階段預計每年可封存40萬噸二氧化碳。牽頭該專案的英力士集團在官網釋出宣告說，二氧化碳將被封存於距丹麥西海岸約250公里的廢棄油田尼尼韋斯特下方海底，深達海床之下約1800米。在第一階段商業運營中，“綠沙”專案每年最多可封存40萬噸二氧化碳。隨著需求增長，封存能力計劃到2030年擴大至每年400萬至800萬噸。 (央視新聞)"
+    },
     {
       "id": "mkt:01a0b52b-67e8-7118-8607-d7fc83c5d235",
       "time": "2026-09-18 23:38:35",
