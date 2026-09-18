@@ -1,7 +1,235 @@
 {
-  "updated": "2026-09-18 14:56:52",
-  "count": 13350,
+  "updated": "2026-09-18 15:01:05",
+  "count": 13375,
   "items": [
+    {
+      "id": "5101411",
+      "time": "2026-09-18 15:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英媒：超強厄爾尼諾形成中 亞洲多國加強應對 】世界氣象組織日前釋出公報稱，厄爾尼諾事件已確認出現，預計將在數月內發展為超強厄爾尼諾事件。據英國《衛報》18日報道，亞洲多國政府正積極採取措施，應對嚴重厄爾尼諾現象所致乾旱、野火、颱風和洪水。（新華社）"
+    },
+    {
+      "id": "mkt:01a0b350-be7f-7118-85f7-dc940749aee5",
+      "time": "2026-09-18 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Aiko Solar: Jinan plant's first 3GW module capacity now fully operational】At its Sept. 18, 2026 interim results briefing, Aiko Solar said the Jinan plant's first-phase 3GW PV module capacity is fully in operation. Supporting cell production lines have started partial output and are ramping; the company expects remaining lines to be completed and fully commissioned in Q4."
+    },
+    {
+      "id": "5101410",
+      "time": "2026-09-18 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續跌9.57%，焦煤連續跌7.78%，焦炭連續跌5.45%，燃料油連續跌4.63%，瓶片連續跌4.37%。"
+    },
+    {
+      "id": "5101409",
+      "time": "2026-09-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.14%， 滬深300指數期貨連續漲1.41%， 中證500指數期貨連續漲2.37%， 上證50指數期貨連續漲0.95%。"
+    },
+    {
+      "id": "5101408",
+      "time": "2026-09-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.7%，英國富時100指數漲1.19%，法國CAC40指數漲0.57%，歐洲斯托克50指數漲0.9%，義大利富時MIB指數漲0.8%。"
+    },
+    {
+      "id": "mkt:01a0b350-a799-7118-85f7-d1ed00a449af",
+      "time": "2026-09-18 15:00:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Youzu Interactive launches advanced packaging project as AI ecosystem buildout continues】Youzu Interactive co-initiated the launch in Shanghai of Dijiang Technology’s advanced packaging project. The move marks a further deepening of Youzu’s AI ecosystem on the compute-infrastructure side."
+    },
+    {
+      "id": "mkt:01a0b350-6830-7118-85f7-cae3be332a2c",
+      "time": "2026-09-18 14:59:46",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan Governor UEDA said upward risks are not a problem so long as they remain within the price target range, but would become a problem if they exceed that range."
+    },
+    {
+      "id": "mkt:01a0b350-4a2c-7118-85f7-c2e85f10643a",
+      "time": "2026-09-18 14:59:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said maintaining exchange-rate and interest-rate stability is crucial."
+    },
+    {
+      "id": "5101407",
+      "time": "2026-09-18 14:59:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "宕機監測網站DownDetector：使用者反饋顯示Reddit出現故障。"
+    },
+    {
+      "id": "mkt:01a0b34f-e9dc-7118-85f7-b826467afc9c",
+      "time": "2026-09-18 14:59:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda said interest rates have tightened, but bank lending conditions and asset markets remain loose."
+    },
+    {
+      "id": "5101406",
+      "time": "2026-09-18 14:59:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：只要上行風險處於物價目標區間範圍內，就不會有問題，但如果通脹超出該區間，未來就會成為問題。"
+    },
+    {
+      "id": "5101405",
+      "time": "2026-09-18 14:59:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：維持匯率和利率秩序至關重要。"
+    },
+    {
+      "id": "5101404",
+      "time": "2026-09-18 14:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本銀行行長植田和男：目前利率已收緊，但銀行放貸與資產市場仍保持寬鬆態勢。"
+    },
+    {
+      "id": "5101403",
+      "time": "2026-09-18 14:58:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：濟南基地首期3GW元件產能已全面投用】愛旭股份(600732)在9月18日舉行的2026年半年度業績說明會上表示，截至目前，濟南基地首期3GW元件產能已全面投用中，配套建設的電池產能部分產線已陸續投產並逐步開始產能爬坡，四季度有望全面收尾並投入使用。"
+    },
+    {
+      "id": "mkt:01a0b34f-46e7-7118-85f7-b66a06f74dd6",
+      "time": "2026-09-18 14:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said he will maintain close communication with other countries' financial authorities on FX issues."
+    },
+    {
+      "id": "mkt:01a0b34f-31f3-7118-85f7-afaac1db449c",
+      "time": "2026-09-18 14:58:26",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Ueda said the Bank of Japan will not change its monetary policy formulation to account for which individuals may join the MPC in the future."
+    },
+    {
+      "id": "mkt:01a0b34f-31e4-7118-85f7-a74225d226e6",
+      "time": "2026-09-18 14:58:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Markets pare ECB rate-hike bets; rising energy prices could weigh on growth】German benchmark Bund yield is set for its first weekly drop since early August after traders on Monday priced the ECB deposit rate at roughly 3.5% by end-2027 and then pared ECB rate-hike bets. Policy-sensitive German 2-year Bund yield is poised for a sixth consecutive weekly rise. Some analysts say Fed rate-hike expectations are overdone and that rising energy prices could drag on growth and help curb inflation and monetary-tightening expectations. French 10-year bond yield rose 0.5bp to 4.45% after touching 4.5531% on Tuesday, its highest since Sept 2008; the spread to German Bunds was 96.50bp after hitting 98.15bp on Tuesday, its widest since July 2012."
+    },
+    {
+      "id": "5101402",
+      "time": "2026-09-18 14:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度最高法院允許印度證券交易委員會與印度國家證券交易所透過和解處理所有共址案件。"
+    },
+    {
+      "id": "5101401",
+      "time": "2026-09-18 14:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將與其他國家金融當局就外匯問題保持密切溝通。"
+    },
+    {
+      "id": "5101400",
+      "time": "2026-09-18 14:57:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：不會因考慮未來哪些成員將加入貨幣政策委員會而調整貨幣政策制定。"
+    },
+    {
+      "id": "5101399",
+      "time": "2026-09-18 14:57:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其大盤BIST-100指數<.XU100>早盤下跌1.1%，本土主要銀行指數<.XBANK>下跌0.3%。"
+    },
+    {
+      "id": "5101398",
+      "time": "2026-09-18 14:57:01",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將毫不猶豫地進行進一步的協調外匯干預。"
+    },
+    {
+      "id": "5101397",
+      "time": "2026-09-18 14:56:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、據當地時間9月17日報道，美國總統特朗普告訴媒體，他正面臨對伊朗戰事的一個關鍵轉折點，需要決定是否重啟大規模攻勢，以期結束這場衝突。\n2、特朗普正計劃最早於下週，與委內瑞拉臨時總統羅德里格斯舉行首次會晤。\n3、據報道，美國總統特朗普與墨西哥總統辛鮑姆週三通電話，兩國正接近達成一項貿易協議。\n4、據報道，日本首相高市早苗正安排下週會見特朗普。\n5、特朗普：波蘭設立美軍基地獲得重大突破。\n6、當地時間9月17日，美國總統特朗普撤回了提名俄克拉何馬州前州警蘭斯·施羅耶執掌美國移民與海關執法局（ICE）的決定。\n7、特朗普簽署行政令，擴大聯邦土地上的狩獵准入範圍。\n8、美國白宮：特朗普將於週五至週日前往戴維營。"
+    },
+    {
+      "id": "mkt:01a0b34d-c6ca-7118-85f7-9b8f293732de",
+      "time": "2026-09-18 14:56:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo will not hesitate to carry out further coordinated foreign-exchange intervention."
+    },
+    {
+      "id": "mkt:01a0b34d-b393-7118-85f7-9375199c35c4",
+      "time": "2026-09-18 14:56:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said today's vote was the result of constructive discussion among committee members."
+    },
     {
       "id": "5101396",
       "time": "2026-09-18 14:56:18",
