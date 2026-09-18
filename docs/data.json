@@ -1,7 +1,193 @@
 {
-  "updated": "2026-09-18 15:08:57",
-  "count": 13423,
+  "updated": "2026-09-18 15:12:44",
+  "count": 13443,
   "items": [
+    {
+      "id": "mkt:01a0b35b-eb72-7118-85f8-a0570478c677",
+      "time": "2026-09-18 15:12:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Simsek said Turkey has taken strong measures to prevent risk contagion."
+    },
+    {
+      "id": "mkt:01a0b35b-cdc8-7118-85f8-9cd50a8f67ee",
+      "time": "2026-09-18 15:12:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Simsek says 90% of Turkey's fund market is operating well."
+    },
+    {
+      "id": "5101454",
+      "time": "2026-09-18 15:12:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：已採取強力措施防範風險蔓延。"
+    },
+    {
+      "id": "mkt:01a0b35b-ba4b-7118-85f8-93880dcf38a3",
+      "time": "2026-09-18 15:12:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish finance minister Simsek said a small number of funds executed market-disrupting trades and authorities have taken measures in response."
+    },
+    {
+      "id": "te:economy:584914",
+      "time": "2026-09-18 15:12:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Slovakia Current Account Deficit Widens in July — Slovakia's current account deficit widened to EUR 1,035.3 million in July 2026 from EUR 575.8 million in the corresponding month of the previous year. The goods account deficit widened to EUR 523.7 million from EUR 204.6 million, while the primary income shortfall increased to EUR 420.8 million from EUR 265.8 million. In contrast, the services surplus increased to EUR 39.9 million from EUR 30.5 million, while the secondary income deficit narrowed to EUR 130.6 million from EUR 136.0 million. In the first seven months of the year, the country's current account deficit totaled EUR 2,418.5 million, down from EUR 3,275.3 million in the corresponding period of 2025."
+    },
+    {
+      "id": "mkt:01a0b35b-6bfc-7118-85f8-8d54ae256a18",
+      "time": "2026-09-18 15:11:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bank of Japan Governor UEDA said the risk of a deterioration in the Middle East has increased and that the situation there is a factor that raises inflation risk."
+    },
+    {
+      "id": "5101453",
+      "time": "2026-09-18 15:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本銀行行長植田和男：在各類風險因素中，中東局勢是推升通脹風險的因素之一。"
+    },
+    {
+      "id": "5101452",
+      "time": "2026-09-18 15:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其財長：基金清算不會對股市造成壓力。"
+    },
+    {
+      "id": "5101451",
+      "time": "2026-09-18 15:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其財長：土耳其基金市場90%運作良好。"
+    },
+    {
+      "id": "mkt:01a0b35a-753a-7118-85f8-8231959c76a6",
+      "time": "2026-09-18 15:10:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said the BOJ is at a stage requiring careful analysis, but that does not mean policy should proceed slowly."
+    },
+    {
+      "id": "5101450",
+      "time": "2026-09-18 15:10:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.42美元/盎司。"
+    },
+    {
+      "id": "5101449",
+      "time": "2026-09-18 15:10:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：少數基金實施了擾亂市場的交易，但我們已採取應對措施。"
+    },
+    {
+      "id": "5101448",
+      "time": "2026-09-18 15:09:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們在實施貨幣政策時需要審慎評估，但這並不意味著行動會放緩。"
+    },
+    {
+      "id": "mkt:01a0b359-6c7f-7118-85f8-7c4972a17e61",
+      "time": "2026-09-18 15:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said he wants to hear from counterparts at other central banks about the intentions behind their rate-hike decisions."
+    },
+    {
+      "id": "mkt:01a0b359-4691-7118-85f8-77d09a59a021",
+      "time": "2026-09-18 15:09:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2330.TW",
+        "Impact bullish",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "【TrendForce: CoWoS-L expected to remain mainstream AI chip packaging through 2028】TrendForce says as GPU vendors and hyperscale cloud providers develop more powerful, feature-rich AI chips, 2.5D packaging development is focusing on larger package area. TSMC’s CoWoS-L faces competition from Intel’s EMIB-T but, due to greater maturity and yield advantages, is expected to remain the mainstream AI chip packaging solution through 2028."
+    },
+    {
+      "id": "5101447",
+      "time": "2026-09-18 15:09:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份：義烏技改專案已進入收尾階段 四季度將實質性提供業務助力】愛旭股份(600732)在9月18日舉行的2026年半年度業績說明會上表示，公司已啟動對義烏基地PERC生產線、滁州基地TOPCon生產線向ABC電池生產線的技術改造，其中義烏技改專案目前已進入收尾階段，四季度將實質性提供業務助力；滁州技改專案有望四季度實現投產，明年起提供業務助力。"
+    },
+    {
+      "id": "mkt:01a0b359-231e-7118-85f8-69366bbdc900",
+      "time": "2026-09-18 15:09:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor Ueda said overseas rate hikes could affect Japan via multiple channels, including the FX market."
+    },
+    {
+      "id": "mkt:01a0b359-0e18-7118-85f8-678e58fe08ad",
+      "time": "2026-09-18 15:09:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "STLA.O",
+        "Impact bearish"
+      ],
+      "text": "【Stellantis (Shanghai) recalls some imported hybrid vehicles】Stellantis (Shanghai) Automotive Co., Ltd. has filed a recall plan with SAMR under China’s defective vehicle recall regulations (recall no. S2026M0115V). The recall covers 979 imported Jeep Wrangler hybrid vehicles produced 2023-09-05 to 2024-03-26 and 1,178 imported all‑new Grand Cherokee 4xe hybrid vehicles produced 2023-07-19 to 2023-10-09. Some engines may have been contaminated by sand during casting; ingress of sand particles into internal engine components can cause engine failure and, in extreme cases, loss of drive or an engine‑bay fire, creating a safety hazard."
+    },
+    {
+      "id": "5101446",
+      "time": "2026-09-18 15:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪汽車工業有限公司、比亞迪汽車有限公司召回部分國產汽車】日前，比亞迪汽車工業有限公司、比亞迪汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。本次召回範圍內的部分車輛，由於生產製造問題，導致制動踏板限位墊材料批次性異常，長時間使用後，限位墊可能開裂破損。極端情況下，限位墊脫落，造成制動踏板未被踩下時制動燈常亮，向後方傳遞錯誤訊號，存在安全隱患。比亞迪汽車工業有限公司、比亞迪汽車有限公司將委託授權經銷商，為召回範圍內的車輛免費更換改善後的限位墊，以消除安全隱患。因部分車輛此前已更換改善後的限位墊，本次召回此部分車輛無需再次更換。（市場監管總局）"
+    },
+    {
+      "id": "5101445",
+      "time": "2026-09-18 15:08:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶馬（中國）汽車貿易有限公司召回部分進口S1000RR型摩托車】日前，寶馬（中國）汽車貿易有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0118V：自即日起，召回2020年10月27日至2026年4月7日期間生產的部分進口S1000RR型摩托車，共計5593輛。本次召回範圍內的摩托車，由於設計原因，在特定工況下，點火鎖內部元件可能受振動影響發生磨損，造成電氣接觸不良，點火缺火。若出現點火中斷，導致發動機熄火，車燈、組合儀表及各類輔助系統等電氣功能全部失效，存在安全隱患。寶馬（中國）汽車貿易有限公司將委託授權經銷商為召回範圍內的車輛免費進行軟體升級，增加兩級警告機制，並對行駛里程大於1500公里的車輛在軟體升級後進行功能測試，若存在相應故障記錄則更換點火鎖，以消除安全隱患。"
+    },
     {
       "id": "mkt:01a0b358-49b9-7118-85f8-5ba2dd6df35b",
       "time": "2026-09-18 15:08:22",
@@ -158,6 +344,14 @@
         "宏觀"
       ],
       "text": "土耳其財政部長：市場波動由少數投資基金的流動性與信貸問題引發。"
+    },
+    {
+      "id": "5101433",
+      "time": "2026-09-18 15:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏自治區自然資源廳副廳長徐建接受審查調查】中央紀委國家監委網站9月18日通報，據西藏自治區紀委監委訊息：西藏自治區自然資源廳黨組成員、副廳長徐建涉嫌嚴重違紀違法，目前正接受西藏自治區紀委監委紀律審查和監察調查。"
     },
     {
       "id": "5101432",
@@ -123462,18 +123656,6 @@
         "Importance 2"
       ],
       "text": "Swiss Consumer Morale Least Negative in 6 Months — Switzerland's consumer confidence index rose to -33 in August 2026 from -40 in the same month a year earlier, pointing to an improvement in household confidence but remaining slightly below market expectations of -32. This marked the least negative reading since February, with the biggest improvement coming from the economic outlook, as the corresponding index rose to -36 from -66 in August last year. Meanwhile, sentiment around the past financial situation improved modestly to -39 from -40, while the financial outlook weakened slightly to -30 from -29. The index measuring whether it was a good time to make major purchases also declined to -26 from -24, suggesting households remained cautious about discretionary spending. The overall reading also improved from the previous month, when the index stood at -35."
-    },
-    {
-      "id": "te:economy:583067",
-      "time": "2026-09-11 15:10:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Rises to 3-Month High — The yield on India’s 10-year G-Sec rose to around 7%, reaching more than three-month highs as surging crude oil prices, higher US Treasury yields and growing expectations of global monetary tightening triggered a broad bond selloff. Brent crude climbed above $100 a barrel to around $108 as escalating Middle East tensions disrupted energy supplies and shipping through the Strait of Hormuz and Red Sea, raising inflation concerns for India. Meanwhile, US Treasury yields rose after producer price inflation strengthened expectations of a Federal Reserve rate hike next week, with markets pricing a 72% chance of a 25-basis-point increase and the 10-year yield nearing 5%. German and Japanese 10-year yields also climbed to multi-year highs, reinforcing the global bond selloff. Domestic bonds faced additional pressure from expectations of RBI liquidity withdrawal, with banking system liquidity exceeding INR 10 trillion."
     }
   ]
 }
