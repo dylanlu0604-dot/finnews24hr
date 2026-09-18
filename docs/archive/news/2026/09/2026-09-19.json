@@ -1,7 +1,17 @@
 {
   "date": "2026-09-19",
-  "count": 362,
+  "count": 363,
   "items": [
+    {
+      "id": "mkt:01a0b65d-c66a-7118-860c-74fb4149bf98",
+      "time": "2026-09-19 05:13:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Sources say the US and Denmark are nearing an agreement to strengthen the US military presence in Greenland while preserving Danish sovereignty."
+    },
     {
       "id": "5102800",
       "time": "2026-09-19 05:07:39",
