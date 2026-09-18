@@ -1,7 +1,59 @@
 {
   "date": "2026-09-19",
-  "count": 14,
+  "count": 20,
   "items": [
+    {
+      "id": "mkt:01a0b54e-c771-7118-8608-4b169c1d67dd",
+      "time": "2026-09-19 00:17:13",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "NASA has awarded SpaceX (SPCX.O) three crewed missions to the International Space Station."
+    },
+    {
+      "id": "5102602",
+      "time": "2026-09-19 00:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局授予SpaceX三次前往空間站的載人飛行任務，合同修訂金額為 9.46 億美元。"
+    },
+    {
+      "id": "mkt:01a0b54d-7e0e-7118-8608-46f7b3970255",
+      "time": "2026-09-19 00:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Security Council completes third indicative vote in UN secretary-general selection】On Sept 18, Jerome Bonnafont, France’s UN permanent representative and the Security Council’s president for the month, said the Council had held a third indicative vote in the selection of the next UN secretary-general. Results will not be published and will be communicated to candidates via their nominating countries."
+    },
+    {
+      "id": "mkt:01a0b54c-8b60-7118-8608-3d6680d2ab38",
+      "time": "2026-09-19 00:14:47",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Peru's central bank expects 2026 inf at 4.2%, up from its prior 3.8% forecast."
+    },
+    {
+      "id": "5102601",
+      "time": "2026-09-19 00:14:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預計 2026 年通脹率為 4.2%，此前預估為 3.8%。"
+    },
+    {
+      "id": "mkt:01a0b54c-4935-7118-8608-37bfacc5ecfc",
+      "time": "2026-09-19 00:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank projects the 2026 fiscal deficit at 1.5% of GDP, down from a prior estimate of 1.8%."
+    },
     {
       "id": "te:markets:585096",
       "time": "2026-09-19 00:13:07",

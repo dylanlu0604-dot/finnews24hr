@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-19 00:14:30",
-  "count": 13406,
+  "updated": "2026-09-19 00:18:20",
+  "count": 13408,
   "items": [
+    {
+      "id": "mkt:01a0b54e-c771-7118-8608-4b169c1d67dd",
+      "time": "2026-09-19 00:17:13",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "NASA has awarded SpaceX (SPCX.O) three crewed missions to the International Space Station."
+    },
+    {
+      "id": "5102602",
+      "time": "2026-09-19 00:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局授予SpaceX三次前往空間站的載人飛行任務，合同修訂金額為 9.46 億美元。"
+    },
+    {
+      "id": "mkt:01a0b54d-7e0e-7118-8608-46f7b3970255",
+      "time": "2026-09-19 00:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Security Council completes third indicative vote in UN secretary-general selection】On Sept 18, Jerome Bonnafont, France’s UN permanent representative and the Security Council’s president for the month, said the Council had held a third indicative vote in the selection of the next UN secretary-general. Results will not be published and will be communicated to candidates via their nominating countries."
+    },
+    {
+      "id": "mkt:01a0b54c-8b60-7118-8608-3d6680d2ab38",
+      "time": "2026-09-19 00:14:47",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Peru's central bank expects 2026 inf at 4.2%, up from its prior 3.8% forecast."
+    },
+    {
+      "id": "5102601",
+      "time": "2026-09-19 00:14:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預計 2026 年通脹率為 4.2%，此前預估為 3.8%。"
+    },
+    {
+      "id": "mkt:01a0b54c-4935-7118-8608-37bfacc5ecfc",
+      "time": "2026-09-19 00:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank projects the 2026 fiscal deficit at 1.5% of GDP, down from a prior estimate of 1.8%."
+    },
     {
       "id": "te:markets:585096",
       "time": "2026-09-19 00:13:07",
@@ -123178,45 +123230,6 @@
         "Importance 1"
       ],
       "text": "Russia Inflation Rate Rises as Expected — Russia's annual inflation rate rose to 6.3% in August 2026, its highest level since November of 2025, up from 6% in the previous month and matching markets expectations. Food inflation rose to 5% from 4.4% while non-food cost growth also inched higher to 6.5% from 6.4%. Motor gasoline inflation slowed to 24.6% from 25.9%, although remaining elevated as Ukrainian attacks on Russian energy infrastructure hampered its refining capacity. In turn, inflation for passanger transports rose further to 10.7% from 9.1% in the prior month, while services inflation edged up to 7.9% from 7.8%. Core inflation also rose to 5.4% from 5.2%, reaching its highest level in seven months. Meanwhile, inflation for utilities remained largely unchanged at 1.6%. Compared to the previous month, consumer prices fell 0.1%, reversing a 0.5% rise in the prior month."
-    },
-    {
-      "id": "5090186",
-      "time": "2026-09-12 00:17:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD 高管：隨著公司業務擴張，預計計算與企業人工智慧業務將佔到伺服器 CPU 當前整體市場的 50%。"
-    },
-    {
-      "id": "5090185",
-      "time": "2026-09-12 00:16:19",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲下週加息幾成定局 手機資費大漲或是關鍵推手】美國手機服務價格漲幅創紀錄，推動一項關鍵通脹指標高於預期，可能進而鎖定了美聯儲下週加息的決定。美國勞工統計局週五公佈的資料顯示，8月份剔除食品和能源後的核心消費者價格指數環比上漲0.3%，高於彭博調查預估中值0.2%。其中，無線電話服務價格單月上漲5.9%，單這一項就為核心CPI貢獻了約0.1個百分點。這一分項主要反映移動運營商提供的預付費和月度套餐價格。美國銀行、巴克萊和Pantheon Macroeconomics的經濟學家指出，AT&T和T-Mobile US等主要運營商近期調整資費方案，可能是推高該分項的主要原因。美國勞工統計局拒絕進一步說明這些運營商的調整具體如何影響該資料。"
-    },
-    {
-      "id": "te:markets:583268",
-      "time": "2026-09-12 00:15:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Oil Prices Ease — The CAC 40 rose 0.8% to close at 8,180 on Friday, rebounding from two straight sessions of losses as oil prices pulled back. Prospects for diplomatic efforts to ease tensions around the Strait of Hormuz dragged crude prices lower. Gulf foreign ministers are expected to meet their Iranian counterpart in Oman on Monday as part of efforts to secure support for a temporary arrangement to manage shipping through the strait. The halt in the surge in energy prices allowed equities to enjoy some respite. Luxury stocks closed mostly higher as risk aversion eased, with LVMH adding 2.2%, L’Oréal up 1.1% and Kering rising 1.9%. Industrials also posted gains across multiple subsectors, with Airbus up 1.8%, Safran rising 2.5%, Schneider Electric adding 1.3%, STMicroelectronics gaining 2.4% and Stellantis advancing 3.1%. Financials also moved higher, with BNP Paribas and Société Générale each up 1.1%. Despite Friday’s rebound, the CAC 40 lost 1.4% on the week."
-    },
-    {
-      "id": "5090184",
-      "time": "2026-09-12 00:14:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【佩斯科夫：俄美烏或在近期舉行三方會晤】當地時間9月11日，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。他還補充說，就烏克蘭問題談判本身，沒有人為舉行談判預設條件，俄羅斯保持開放態度。（央視新聞）"
     }
   ]
 }
