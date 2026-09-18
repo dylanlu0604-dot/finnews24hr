@@ -1,7 +1,156 @@
 {
-  "updated": "2026-09-19 03:30:47",
-  "count": 13431,
+  "updated": "2026-09-19 03:34:39",
+  "count": 13438,
   "items": [
+    {
+      "id": "5102701",
+      "time": "2026-09-19 03:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（9月18日）紐約尾盤，ICE美元指數跌0.05%，報100.200點，本週樂基上漲1.08%，整體持續上揚，交投區間為99.093-100.564點。彭博美元指數大致持平，報1202.78點，本週累漲1.03%，交投區間為1190.51-1206.24點。"
+    },
+    {
+      "id": "mkt:01a0b602-6753-7118-860a-d2cef5669938",
+      "time": "2026-09-19 03:33:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to Sept. 15, speculative equity funds cut net short positions in CME S&P 500 futures by 48,186 contracts to 288,457 contracts."
+    },
+    {
+      "id": "mkt:01a0b602-59a5-7118-860a-cfff578531a4",
+      "time": "2026-09-19 03:33:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): for the week to Sept. 15, CME S&P 500 net long positions fell 8,137 contracts to 899,633."
+    },
+    {
+      "id": "mkt:01a0b602-4376-7118-860a-c240c8131065",
+      "time": "2026-09-19 03:33:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "EURUSD",
+        "USDJPY"
+      ],
+      "text": "CFTC week to Sep 15: GBP net short 58,715 contracts; EUR net short 26,993 contracts; JPY net long 120,359 contracts; CHF net short increased by 28,988 contracts."
+    },
+    {
+      "id": "mkt:01a0b601-a3d0-7118-860a-b85fe8286319",
+      "time": "2026-09-19 03:32:35",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC weekly report for the week to Sep 15: speculators cut net short positions in CBOT 2-year US Treasury futures by 73,754 contracts to 345,203. Speculators increased net short positions in CBOT ultra-long US Treasury futures by 63 contracts to 345,203. Speculators increased net short positions in CBOT US Treasury futures by 2,640 contracts to 203,157."
+    },
+    {
+      "id": "mkt:01a0b601-65db-7118-860a-b17bfa6b3522",
+      "time": "2026-09-19 03:32:19",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended Sept. 15, speculators cut net short CBOT 5-year U.S. Treasury futures by 270,127 contracts to 997,366 and cut net short CBOT 10-year U.S. Treasury futures by 13,547 contracts to 821,236."
+    },
+    {
+      "id": "mkt:01a0b601-278e-7118-860a-ad27cf94daea",
+      "time": "2026-09-19 03:32:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "CFTC: For the week to Sept. 15, gold speculators cut net longs by 2,488 contracts to 137,060; silver speculators increased net longs by 1,544 contracts to 12,632; copper speculators cut net longs by 16,476 contracts to 65,541."
+    },
+    {
+      "id": "mkt:01a0b600-caca-7118-860a-a0198aeb553a",
+      "time": "2026-09-19 03:31:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week to Sept. 15, speculators' net short positions in natural gas across the four major NYMEX/ICE markets fell by 153 contracts to 48,029."
+    },
+    {
+      "id": "mkt:01a0b600-b59d-7118-860a-9e0288605e7c",
+      "time": "2026-09-19 03:31:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "CFTC: For the week to Sep. 15, speculative net long positions in oil fell by 531 contracts to 139,515 contracts."
+    },
+    {
+      "id": "5102699",
+      "time": "2026-09-19 03:30:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，原油投機客將西德克薩斯中質原油（WTI）淨多頭頭寸削減531手合約，至139515手合約。"
+    },
+    {
+      "id": "5102698",
+      "time": "2026-09-19 03:30:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸削減2488手，至137060手。"
+    },
+    {
+      "id": "5102697",
+      "time": "2026-09-19 03:30:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減1544手合約，至12632手合約。"
+    },
+    {
+      "id": "5102696",
+      "time": "2026-09-19 03:30:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，洲際交易所（ICE）可可投機客將淨空頭頭寸增加1027手，至19396手。"
+    },
+    {
+      "id": "5102695",
+      "time": "2026-09-19 03:30:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，股票基金投機者將芝加哥商品交易所（CME）標普500淨空頭頭寸削減48186手至288457手。"
+    },
+    {
+      "id": "5102694",
+      "time": "2026-09-19 03:30:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年9月15日的一週內，比特幣淨多頭持倉為2468手合約。"
+    },
     {
       "id": "5102693",
       "time": "2026-09-19 03:30:11",
@@ -123310,96 +123459,6 @@
         "XAUUSD"
       ],
       "text": "CFTC weekly (week to Sept 8, 2026): speculators increased CBOT 2-year US Treasury futures net short by 46,589 contracts to 929,107; reduced CBOT ultra-long US Treasury futures net short by 24,171 contracts to 345,140; increased CBOT US Treasury futures net short by 1,016 contracts to 200,517."
-    },
-    {
-      "id": "5090293",
-      "time": "2026-09-12 03:34:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至2026年9月8日當週， 瑞士法郎淨空頭頭寸為29,985份合約，英鎊淨空頭頭寸為58,836份合約，歐元淨空頭頭寸為42,616份合約，日元淨多頭頭寸為10,796份合約。"
-    },
-    {
-      "id": "mkt:01a091f6-3962-7118-8551-02bda67efde2",
-      "time": "2026-09-12 03:33:47",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "CFTC data: In the week to Sept. 8, 2026, CBOT 5-year U.S. Treasury futures net short positions rose by 113,020 contracts to 1,267,493; CBOT 10-year U.S. Treasury futures net short positions rose by 74,492 contracts to 834,783."
-    },
-    {
-      "id": "mkt:01a091f5-be1a-7118-8550-fce5824b741e",
-      "time": "2026-09-12 03:33:16",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "EURUSD",
-        "USDJPY"
-      ],
-      "text": "CFTC data for the week to Sept 8, 2026: Swiss franc net short 29,985 contracts; British pound net short 58,836 contracts; euro net short 42,616 contracts; Japanese yen net long 10,796 contracts."
-    },
-    {
-      "id": "mkt:01a091f4-7060-7118-8550-f60374d68945",
-      "time": "2026-09-12 03:31:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "For the week to Sept. 8, COMEX gold speculators cut net longs by 1,263 contracts to 139,548; silver speculators raised net longs by 2,006 contracts to 14,176; copper speculators added 9,016 net-long contracts to 82,017."
-    },
-    {
-      "id": "5090288",
-      "time": "2026-09-12 03:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗外交部發言人表示，沙特、日本和約旦因支援針對伊朗的國際原子能機構決議，將面臨後果。"
-    },
-    {
-      "id": "te:markets:583292",
-      "time": "2026-09-12 03:31:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Southern Stock Price Hits 33-week Low — Southern shares decreased to 87.12 USD, the lowest since January 2026. Over the past 4 weeks, Southern Co. lost 5.74%, and in the last 12 months, it decreased 5.48%."
-    },
-    {
-      "id": "5090287",
-      "time": "2026-09-12 03:30:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "CFTC-投機客在截至9月8日當週增持CBOT美國2年期國債期貨淨空頭倉位46,589手至929,107手。"
-    },
-    {
-      "id": "mkt:01a091f3-76f9-7118-8550-ed97b0ef63c6",
-      "time": "2026-09-12 03:30:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Fars News: Iran's foreign ministry spokesman said Saudi Arabia, Japan and Jordan will face consequences for supporting an IAEA resolution targeting Iran."
     }
   ]
 }
