@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19 05:32:57",
-  "count": 13488,
+  "updated": "2026-09-19 05:36:41",
+  "count": 13486,
   "items": [
+    {
+      "id": "5102815",
+      "time": "2026-09-19 05:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭襲擊俄羅斯庫爾斯克地區。"
+    },
     {
       "id": "5102814",
       "time": "2026-09-19 05:30:11",
@@ -123817,35 +123825,6 @@
         "其他"
       ],
       "text": "巴西央行宣佈將於9月15日進行美元現匯拍賣。"
-    },
-    {
-      "id": "5090414",
-      "time": "2026-09-12 05:36:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場股票指數跌1.3%，發展中國家外匯指數跌0.2%。"
-    },
-    {
-      "id": "mkt:01a09265-37f4-7118-8552-431cb596613a",
-      "time": "2026-09-12 05:35:01",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "Oracle (ORCL.N): Executive chairman Larry Ellison adopted a new trading plan on June 22 that is set to terminate on Oct. 24; the plan is intended to allow him to sell up to 50 mln shares of Oracle common stock."
-    },
-    {
-      "id": "mkt:01a09264-8d58-7118-8552-3e97516b0c06",
-      "time": "2026-09-12 05:34:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi civil defense says threat to Khamis Mushait has been lifted."
     }
   ]
 }
