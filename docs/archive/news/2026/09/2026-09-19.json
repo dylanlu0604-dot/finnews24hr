@@ -1,7 +1,23 @@
 {
   "date": "2026-09-19",
-  "count": 162,
+  "count": 164,
   "items": [
+    {
+      "id": "5102671",
+      "time": "2026-09-19 03:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "圓桌會議：Paradium.AI將維持投資控制權在可控範圍內，無意取得多數控制權。"
+    },
+    {
+      "id": "mkt:01a0b5ea-da4c-7118-860a-696ad9ef0f2c",
+      "time": "2026-09-19 03:07:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump bars three media outlets from White House, accuses them of false reporting】President Donald Trump announced an immediate ban on CNN, MSNBC (renamed MSNOW) and Politico from the White House, accusing them of publishing “fake news” about him, his administration and U.S. affairs. He said other outlets may face similar restrictions and criticized a reported $8 mln subscription contract Politico secured with the U.S. government during the Biden administration as problematic."
+    },
     {
       "id": "mkt:01a0b5e8-f727-7118-860a-6573ed825ee3",
       "time": "2026-09-19 03:05:38",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19 03:07:42",
-  "count": 13420,
+  "updated": "2026-09-19 03:11:30",
+  "count": 13417,
   "items": [
+    {
+      "id": "5102671",
+      "time": "2026-09-19 03:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "圓桌會議：Paradium.AI將維持投資控制權在可控範圍內，無意取得多數控制權。"
+    },
+    {
+      "id": "mkt:01a0b5ea-da4c-7118-860a-696ad9ef0f2c",
+      "time": "2026-09-19 03:07:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump bars three media outlets from White House, accuses them of false reporting】President Donald Trump announced an immediate ban on CNN, MSNBC (renamed MSNOW) and Politico from the White House, accusing them of publishing “fake news” about him, his administration and U.S. affairs. He said other outlets may face similar restrictions and criticized a reported $8 mln subscription contract Politico secured with the U.S. government during the Biden administration as problematic."
+    },
     {
       "id": "mkt:01a0b5e8-f727-7118-860a-6573ed825ee3",
       "time": "2026-09-19 03:05:38",
@@ -123252,57 +123268,6 @@
         "國際"
       ],
       "text": "澤連斯基：在多倫多，我會見了許多領先加拿大公司、金融機構和投資基金的高階管理人員。"
-    },
-    {
-      "id": "mkt:01a091e0-ba6c-7118-8550-caa8999d6af6",
-      "time": "2026-09-12 03:10:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP proposed a $5,000 \"Trump dividend\" for every U.S. adult, financed by what he described as multitrillion-dollar economic development and investment. Democrats criticized the proposal and said they oppose it."
-    },
-    {
-      "id": "5090264",
-      "time": "2026-09-12 03:09:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談5000美元分紅：我說到做到。"
-    },
-    {
-      "id": "mkt:01a091df-6c0f-7118-8550-c1b6e416141a",
-      "time": "2026-09-12 03:08:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "CITIGROUP expects the Fed to hike in September and to begin cutting rates before mid-2027."
-    },
-    {
-      "id": "te:economy:583291",
-      "time": "2026-09-12 03:08:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Uruguay Industrial Production Slows in July — Uruguay’s industrial production rose 4.2% year over year in July 2026, following a 5.4% increase in June. The growth was driven primarily by a 10.5% rise in food products manufacturing, followed by pharmaceutical products, which increased 7.0%, and paper and paper products, which rose 6.4%. The division with the largest negative contribution to the year-over-year change in industrial output was beverage manufacturing, which slumped 32.4%. Meanwhile, the Index of Hours Worked by Workers increased 2.6%, while the Employment Index declined 0.1%. On a monthly basis, industrial production fell 1.0% in July."
-    },
-    {
-      "id": "5090262",
-      "time": "2026-09-12 03:08:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "房利美股價上漲高達5.4%；房地美股價上漲高達3.1%。"
     }
   ]
 }
