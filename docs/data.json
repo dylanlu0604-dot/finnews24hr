@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19 05:47:57",
-  "count": 13492,
+  "updated": "2026-09-19 05:52:03",
+  "count": 13490,
   "items": [
+    {
+      "id": "mkt:01a0b67d-a240-7118-860c-a956d2d2fe8f",
+      "time": "2026-09-19 05:48:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FlightRadar24 reports Luxembourg Airport has suspended all arrivals and departures after unmanned aerial systems (UAS) were detected in the area."
+    },
     {
       "id": "5102825",
       "time": "2026-09-19 05:47:08",
@@ -123846,35 +123854,6 @@
         "Brent"
       ],
       "text": "【Drone strike from Iraq direction hits Saudi oil pipeline; Iraqi PM orders emergency probe】On the evening of Sept. 11, the spokesman for Iraq’s commander-in-chief of the armed forces, Sabah Nouman, condemned attacks directed at Saudi Arabia and said Iraq opposes actions that threaten Saudi security or bilateral ties. He said Prime Minister and commander-in-chief Zaidi has ordered an urgent investigation into the incident and the parties responsible and will hold those involved to account under law. The statement added Iraq will not tolerate activities endangering its security or relations with friendly states, asserted Iraqi territory and airspace will not be used as a springboard for attacks on any country, and said Baghdad will cooperate with regional partners to prevent a recurrence."
-    },
-    {
-      "id": "5090421",
-      "time": "2026-09-12 05:52:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Kalshi擬進軍美股與商品市場】Kalshi Inc.正在申請監管批准，計劃在美國推出首批個股永續期貨，擬上市掛鉤特斯拉、蘋果、英偉達等股票的合約。公司將請求商品期貨交易委員會（CFTC）和證券交易委員會（SEC）聯合監管這類永不到期的期貨，將其作為證券期貨產品，槓桿水平與其他受監管合約保持一致。Kalshi還計劃將商品合約擴充套件至農產品領域，並擬逐步增加ETF等產品，推出新產品前將重點與社群及相關利益方溝通。"
-    },
-    {
-      "id": "5090420",
-      "time": "2026-09-12 05:50:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理辦公室：調查證實，針對沙烏地阿拉伯的無人機襲擊來自伊拉克境內，一名伊拉克軍事指揮官因此被免職。"
-    },
-    {
-      "id": "mkt:01a09273-7d86-7118-8552-586d15a51dc7",
-      "time": "2026-09-12 05:50:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iraq's prime minister's office said an investigation confirmed drone attacks targeting Saudi Arabia originated inside Iraq; one Iraqi military commander has been dismissed."
     }
   ]
 }

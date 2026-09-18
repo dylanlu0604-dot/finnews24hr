@@ -1,7 +1,15 @@
 {
   "date": "2026-09-19",
-  "count": 394,
+  "count": 395,
   "items": [
+    {
+      "id": "mkt:01a0b67d-a240-7118-860c-a956d2d2fe8f",
+      "time": "2026-09-19 05:48:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FlightRadar24 reports Luxembourg Airport has suspended all arrivals and departures after unmanned aerial systems (UAS) were detected in the area."
+    },
     {
       "id": "5102825",
       "time": "2026-09-19 05:47:08",
