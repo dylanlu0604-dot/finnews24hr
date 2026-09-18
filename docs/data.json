@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-18 14:26:21",
-  "count": 13228,
+  "updated": "2026-09-18 14:30:11",
+  "count": 13224,
   "items": [
+    {
+      "id": "mkt:01a0b334-d4a7-7118-85f5-f7758a693c5d",
+      "time": "2026-09-18 14:29:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada posts record July net sales of US equities】Statistics Canada said on July 17 Canadian investors net sold CAD 31.0 bln of US equities in July, the largest monthly net sale on record, concentrated in large-cap US technology stocks. In the same month residents net sold CAD 5.1 bln of US government bonds, the sixth consecutive month of disposals, bringing cumulative net sales since January to CAD 37.3 bln."
+    },
+    {
+      "id": "5101322",
+      "time": "2026-09-18 14:29:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯接管了雀巢公司和歐尚在當地的業務，並將它們的股份暫時交由列夫·梅涅德日門特股份公司管理。這是克里姆林宮自 2024 年以來規模最大的一次外國企業資產收購，而此時正值俄羅斯與歐洲關係日益緊張，國際公司在俄羅斯的營商環境也日趨艱難。"
+    },
+    {
+      "id": "5101320",
+      "time": "2026-09-18 14:28:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大7月拋售美股創紀錄】加拿大統計局17日釋出資料顯示，今年7月加拿大投資者大幅削減海外證券投資，其中最主要是減少對美國股票的持倉，創單月最高紀錄。資料顯示，加拿大投資者7月淨賣出價值310億加元的美國股票，這是有史以來最大的單月淨賣出，標的集中在美國大型科技公司股票。同月，加拿大居民投資者淨賣出價值51億加元的美國政府債券，為連續第六個月減持美國政府債券，使今年1月以來的累計減持總額達到373億加元。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b333-7e16-7118-85f5-e8f45fb04967",
+      "time": "2026-09-18 14:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple private banks raise deposit rates】After a period of cuts and product withdrawals under net interest margin pressure, several private banks have begun lifting select deposit rates. WeBank raised its 3‑year fixed deposit rate to 1.75% from 1.60% (+15bps). WeBank’s current on‑term retail deposit rates are: 5y 1.60%, 3y 1.75%, 2y 1.60%, 1y 1.50%, 6m 1.30%, 3m 1.10% — with a 3y/5y inversion. Sushang Bank recently issued large‑denomination CDs at 1.85% for 5 years and 1.95% for 3 years. In June several private banks, including Beijing Zhongguancun Bank, Hunan Sanxiang Bank and Yilian Bank, had previously delisted 5‑year term deposits."
+    },
+    {
+      "id": "5101319",
+      "time": "2026-09-18 14:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數上漲1%，至170,751.70點。"
+    },
+    {
+      "id": "5101318",
+      "time": "2026-09-18 14:26:10",
+      "tags": [
+        "公司",
+        "市場",
+        "其他"
+      ],
+      "text": "【多家民營銀行上調存款利率】步入9月以來，多家民營銀行開啟了新一輪攬儲動作。記者注意到，近期，作為民營銀行頭部的微眾銀行已悄然上調了3年期的定期存款利率，同時部分民營銀行也將此前“下架”的五年期定期存款產品重新上架。（中國基金報）"
+    },
     {
       "id": "5101317",
       "time": "2026-09-18 14:25:43",
@@ -121502,98 +121554,6 @@
         "Importance 1"
       ],
       "text": "The Nikkei 225 Index Closes 2.19% Lower — The Nikkei 225 Index dropped 1427 points or 2.19 percent on Friday to close at 63844 points. Losses were led by Resonac Holdings (-10.62%), Toppan (-7.33%) and Sumitomo Metal Mining (-6.95%)."
-    },
-    {
-      "id": "5088981",
-      "time": "2026-09-11 14:30:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集環科在江蘇成立物流裝備公司】企查查APP顯示，近日，中集環科物流裝備（江蘇）有限公司成立，經營範圍包含：工業自動控制系統裝置銷售；玻璃纖維增強塑膠製品銷售；金屬包裝容器及材料製造等。企查查股權穿透顯示，該公司由中集環科全資持股。"
-    },
-    {
-      "id": "mkt:01a08f28-3985-7118-8540-4d42b82e6018",
-      "time": "2026-09-11 14:29:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's foreign ministry said some European countries are trying to undermine Ukraine negotiations."
-    },
-    {
-      "id": "5088980",
-      "time": "2026-09-11 14:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄總統新聞秘書佩斯科夫表示，如果立陶宛決定在本國境內部署核武器，那麼立陶宛將成為俄羅斯核武器的目標。"
-    },
-    {
-      "id": "5088979",
-      "time": "2026-09-11 14:28:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "mkt:01a08f27-08df-7118-8540-46694aa22e77",
-      "time": "2026-09-11 14:28:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "RIA quoted Kremlin press secretary Dmitry Peskov as saying that if Lithuania were to decide to deploy nuclear weapons on its territory, it would become a target of Russian nuclear weapons."
-    },
-    {
-      "id": "te:markets:583045",
-      "time": "2026-09-11 14:28:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natgas Prices Hover Near Multi-Year Highs — UK natural gas prices dropped to 201 pence a therm on Friday but stayed close to their highest level since December 2022, amid persistent disruptions to LNG supplies from the Persian Gulf. Fighting between the US and Iran has intensified over the past two weeks, centering on who controls the Strait of Hormuz. The ongoing blockade has already disrupted around 20% of global LNG flows, primarily affecting shipments from Qatar. Europe has struggled to rebuild its depleted inventories, with storage sites around 67% full, below historical norms. While the European Commission said there's no immediate risk to gas security this winter, a sustained disruption to Gulf LNG supplies could further tighten global supply and force Europe to compete more aggressively with Asia and other buyers for alternative cargoes, potentially driving prices even higher as heating demand begins to increase. Despite Friday's decline, UK gas prices are still over 12% higher this week, marking their fifth weekly gain."
-    },
-    {
-      "id": "5088978",
-      "time": "2026-09-11 14:27:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭稱，自9月以來，已運送了潛在農產品出口的40%。"
-    },
-    {
-      "id": "5088977",
-      "time": "2026-09-11 14:27:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米等成立智慧科技公司，含AI及機器人業務】企查查APP顯示，近日，北京帕提卡智慧科技有限責任公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由小米科技有限責任公司全資子公司瀚星創業投資有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:01a08f25-df6a-7118-8540-3ef82697c5df",
-      "time": "2026-09-11 14:26:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's minister of agriculture said Ukraine exported 630,000 tonnes of food from Sept. 1-9, including 380,000 tonnes of grain."
-    },
-    {
-      "id": "5088976",
-      "time": "2026-09-11 14:26:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行行長穆蘭：消除債務會推高通貨膨脹和利率。"
     }
   ]
 }

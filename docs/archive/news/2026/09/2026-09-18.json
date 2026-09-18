@@ -1,7 +1,59 @@
 {
   "date": "2026-09-18",
-  "count": 1246,
+  "count": 1252,
   "items": [
+    {
+      "id": "mkt:01a0b334-d4a7-7118-85f5-f7758a693c5d",
+      "time": "2026-09-18 14:29:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada posts record July net sales of US equities】Statistics Canada said on July 17 Canadian investors net sold CAD 31.0 bln of US equities in July, the largest monthly net sale on record, concentrated in large-cap US technology stocks. In the same month residents net sold CAD 5.1 bln of US government bonds, the sixth consecutive month of disposals, bringing cumulative net sales since January to CAD 37.3 bln."
+    },
+    {
+      "id": "5101322",
+      "time": "2026-09-18 14:29:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯接管了雀巢公司和歐尚在當地的業務，並將它們的股份暫時交由列夫·梅涅德日門特股份公司管理。這是克里姆林宮自 2024 年以來規模最大的一次外國企業資產收購，而此時正值俄羅斯與歐洲關係日益緊張，國際公司在俄羅斯的營商環境也日趨艱難。"
+    },
+    {
+      "id": "5101320",
+      "time": "2026-09-18 14:28:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大7月拋售美股創紀錄】加拿大統計局17日釋出資料顯示，今年7月加拿大投資者大幅削減海外證券投資，其中最主要是減少對美國股票的持倉，創單月最高紀錄。資料顯示，加拿大投資者7月淨賣出價值310億加元的美國股票，這是有史以來最大的單月淨賣出，標的集中在美國大型科技公司股票。同月，加拿大居民投資者淨賣出價值51億加元的美國政府債券，為連續第六個月減持美國政府債券，使今年1月以來的累計減持總額達到373億加元。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b333-7e16-7118-85f5-e8f45fb04967",
+      "time": "2026-09-18 14:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple private banks raise deposit rates】After a period of cuts and product withdrawals under net interest margin pressure, several private banks have begun lifting select deposit rates. WeBank raised its 3‑year fixed deposit rate to 1.75% from 1.60% (+15bps). WeBank’s current on‑term retail deposit rates are: 5y 1.60%, 3y 1.75%, 2y 1.60%, 1y 1.50%, 6m 1.30%, 3m 1.10% — with a 3y/5y inversion. Sushang Bank recently issued large‑denomination CDs at 1.85% for 5 years and 1.95% for 3 years. In June several private banks, including Beijing Zhongguancun Bank, Hunan Sanxiang Bank and Yilian Bank, had previously delisted 5‑year term deposits."
+    },
+    {
+      "id": "5101319",
+      "time": "2026-09-18 14:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數上漲1%，至170,751.70點。"
+    },
+    {
+      "id": "5101318",
+      "time": "2026-09-18 14:26:10",
+      "tags": [
+        "公司",
+        "市場",
+        "其他"
+      ],
+      "text": "【多家民營銀行上調存款利率】步入9月以來，多家民營銀行開啟了新一輪攬儲動作。記者注意到，近期，作為民營銀行頭部的微眾銀行已悄然上調了3年期的定期存款利率，同時部分民營銀行也將此前“下架”的五年期定期存款產品重新上架。（中國基金報）"
+    },
     {
       "id": "5101317",
       "time": "2026-09-18 14:25:43",
