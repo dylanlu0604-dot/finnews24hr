@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-19 00:18:20",
-  "count": 13408,
+  "updated": "2026-09-19 00:22:19",
+  "count": 13409,
   "items": [
+    {
+      "id": "5102605",
+      "time": "2026-09-19 00:18:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2600美元，日內漲6.27%。"
+    },
+    {
+      "id": "5102604",
+      "time": "2026-09-19 00:18:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行：預計 2026 年私人投資將增長 14%。"
+    },
+    {
+      "id": "5102603",
+      "time": "2026-09-19 00:18:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【英國兩年期國債收益率週五漲超10個基點】週五（9月18日）歐市尾盤，英國10年期國債收益率漲7.3個基點，報5.295%，本週累計下跌4.8個基點，9月15-17日持續下跌，期間美聯儲宣佈加息、英國央行決定按兵不動。兩年期英債收益率漲10.3個基點，報4.839%，本週累漲2.6個基點，整體呈現出V形走勢30年期英債收益率漲2.2個基點，50年期英債收益率跌5.6個基點。2/10年期英債收益率利差跌3.046個基點，報+45.504個基點。"
+    },
+    {
+      "id": "mkt:01a0b550-04c4-7118-8608-511db9f931db",
+      "time": "2026-09-19 00:18:35",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Peru's central bank governor said economic growth has slowed due to El Nifio."
+    },
     {
       "id": "mkt:01a0b54e-c771-7118-8608-4b169c1d67dd",
       "time": "2026-09-19 00:17:13",
@@ -123197,39 +123235,6 @@
         "Brent"
       ],
       "text": "Yemen's defence ministry spokesman said the air force has begun bombing previously announced strike areas and urged civilians to avoid the Taiz-Mocha and Mocha-Dhubab highways."
-    },
-    {
-      "id": "te:markets:583271",
-      "time": "2026-09-12 00:19:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rebound — European stocks closed higher on Friday as energy prices eased off their peaks and halted the surge in long-term sovereign yields. The Euro STOXX 50 gained 0.8% to 6,323 and the STOXX Europe 600 added 0.5% to 639.1. GCC officials announced new efforts to meet with Iranian counterparts next week and discuss possibilities of corridors for tankers in the Persian Gulf. Banks and industrial surged as the pullback in energy prices and borrowing costs softened the tightening margins in their respective sectors. Santander, BBVA, and UniCredit jumped nearly 2% each, while Siemens and Safra added 2.5%. Meanwhile, Intesa Sanpaolo rose 2.6% as Rome stated it would refrain from interfering in the lender's takeover bid for Banca MPS. Tech stocks also advanced, with Infineon surging 5% Still, the STOXX 50 fell 1% and the STOXX 600 dropped 1.6% on the week on broader concerns of macro headwinds from higher energy prices and rates. The ECB hiked its rates yesterday, and markets price more tightening."
-    },
-    {
-      "id": "5090187",
-      "time": "2026-09-12 00:18:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國第二季度家庭淨資產創紀錄環比增加12.803萬億美元】美聯儲資料顯示，美國第二季度家庭淨資產環比增加12.803萬億美元，第一季度增幅修正為7,929億美元。第二季度家庭淨資產的名義增量創1950年代有資料記錄以來最大。"
-    },
-    {
-      "id": "te:economy:583269",
-      "time": "2026-09-12 00:18:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Inflation Rate Rises as Expected — Russia's annual inflation rate rose to 6.3% in August 2026, its highest level since November of 2025, up from 6% in the previous month and matching markets expectations. Food inflation rose to 5% from 4.4% while non-food cost growth also inched higher to 6.5% from 6.4%. Motor gasoline inflation slowed to 24.6% from 25.9%, although remaining elevated as Ukrainian attacks on Russian energy infrastructure hampered its refining capacity. In turn, inflation for passanger transports rose further to 10.7% from 9.1% in the prior month, while services inflation edged up to 7.9% from 7.8%. Core inflation also rose to 5.4% from 5.2%, reaching its highest level in seven months. Meanwhile, inflation for utilities remained largely unchanged at 1.6%. Compared to the previous month, consumer prices fell 0.1%, reversing a 0.5% rise in the prior month."
     }
   ]
 }
