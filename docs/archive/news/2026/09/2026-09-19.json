@@ -1,7 +1,41 @@
 {
   "date": "2026-09-19",
-  "count": 395,
+  "count": 399,
   "items": [
+    {
+      "id": "mkt:01a0b684-24ec-7118-860c-ba55a2f81ff6",
+      "time": "2026-09-19 05:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over potential danger in the Farasan area."
+    },
+    {
+      "id": "5102827",
+      "time": "2026-09-19 05:53:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門就法拉桑潛在危險釋出警報。"
+    },
+    {
+      "id": "mkt:01a0b681-c6aa-7118-860c-b019d9f2778f",
+      "time": "2026-09-19 05:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says U.S., Denmark reach agreement on Greenland security】President Trump said the United States and Denmark have reached an agreement on Greenland security, saying the arrangement will address U.S. concerns and ensure the U.S. can \"permanently\" maintain the capability to secure Greenland and protect U.S. security. He said the deal \"resolved all major U.S. concerns\" and \"does not require the U.S. to bear costs,\" but did not release the text or disclose terms. The U.S. already has defense agreements allowing U.S. forces to be stationed in Greenland. Trump’s long push to expand U.S. influence there has previously drawn concern from European and NATO allies."
+    },
+    {
+      "id": "5102826",
+      "time": "2026-09-19 05:51:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【對沖基金自2025年年中以來首次轉為看漲日元】對沖基金自2025年7月以來首次轉為看漲日元，在美日當局干預匯市以支撐日元數週之後，這一情緒的轉變值得關注。美國商品期貨交易委員會(CFTC)週五公佈的資料顯示，截至9月15日當週，槓桿交易員清空了日元空頭押注，並開始建立日元看漲押注。彭博彙總資料顯示，這類基金持有約2,510億日元（16億美元）的日元看漲相關頭寸。此次轉向看漲發生在本週美聯儲和日本央行加息前不久。此前，一些市場參與者原本希望日本央行釋放更明確的繼續加息訊號，但日本政策制定者未能滿足這類預期，因此，此類看漲倉位可能令部分交易員措手不及。"
+    },
     {
       "id": "mkt:01a0b67d-a240-7118-860c-a956d2d2fe8f",
       "time": "2026-09-19 05:48:01",
