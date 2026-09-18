@@ -1,7 +1,1048 @@
 {
   "date": "2026-09-18",
-  "count": 558,
+  "count": 668,
   "items": [
+    {
+      "id": "mkt:01a0b21c-5706-7118-85ed-0479255e3099",
+      "time": "2026-09-18 09:23:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "02431.HK",
+        "Impact bullish",
+        "00100.HK",
+        "02513.HK"
+      ],
+      "text": "Hong Kong-listed AI stocks opened higher: Youjia Innovation (02431.HK) rose more than 6%, MINIMAX-W (00100.HK) rose nearly 4%, and Zhipu (02513.HK) rose more than 3%."
+    },
+    {
+      "id": "5100886",
+      "time": "2026-09-18 09:22:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠407億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0b21b-983e-7118-85ec-fbc54fc5276a",
+      "time": "2026-09-18 09:22:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted CNY 463.3 bln 7-day reverse repos today; bid amount CNY 463.3 bln, allotment CNY 463.3 bln, operation rate 1.40%."
+    },
+    {
+      "id": "5100885",
+      "time": "2026-09-18 09:22:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 1,000 億元 14 天期逆回購操作。"
+    },
+    {
+      "id": "5100884",
+      "time": "2026-09-18 09:22:14",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展4633億元人民幣7天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "5100883",
+      "time": "2026-09-18 09:22:09",
+      "tags": [],
+      "text": "港股恒指高開漲0.49％，恒生科技指數開漲0.41%。人工智慧、生物醫藥、貴金屬等板塊漲幅居前。"
+    },
+    {
+      "id": "5100882",
+      "time": "2026-09-18 09:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫藥工業發展“十五五”規劃：培育醫藥工業文化價值 推動中醫藥文化傳承創新】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，培育醫藥工業文化價值。推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發，展示中醫藥傳統文化與發展成就。鼓勵中藥原料生產基地、中藥企業開展農文旅融合的科普研學活動。培育現代醫藥產業文化，開發權威科普資源，強化公眾對醫藥產業創新、科技創新的認知與瞭解。提升文化軟實力，推動醫藥文化融入國民教育，在中小學開展中醫藥文化、生命科學教育，支援醫藥題材文藝創作，講好醫藥領域中國故事。"
+    },
+    {
+      "id": "5100881",
+      "time": "2026-09-18 09:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大對進口罐裝蔬菜產品作出保障措施終裁】近日，WTO保障措施委員會發布加拿大代表團向其提交的保障措施通報。加拿大國際貿易法庭（CITT）於2026年9月9日對進口罐頭蔬菜產品（Canned Vegetable Goods）作出保障措施肯定性終裁，認定進口增加是造成國內產業嚴重損害的主要原因，建議以關稅配額形式實施保障措施。具體如下：第1年配額為13,000,000公斤，超配額附加稅為50%；第2年配額為13,260,000公斤，超配額附加稅為45%；第3年配額為13,525,200公斤，超配額附加稅為40%。措施建議實施3年，至2030年1月5日。"
+    },
+    {
+      "id": "mkt:01a0b21a-a96e-7118-85ec-f071685f88f2",
+      "time": "2026-09-18 09:21:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong indices opened higher on Friday Sept 18: HSI +119.56 pts (+0.49%) at 24,723.85; Hang Seng Tech +17.67 pts (+0.41%) at 4,328.41; H-share index +27.42 pts (+0.34%) at 8,202.78; Red-chip index +11.41 pts (+0.28%) at 4,052.26."
+    },
+    {
+      "id": "mkt:01a0b21a-a5f3-7118-85ec-eb90919283ab",
+      "time": "2026-09-18 09:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00100.HK",
+        "Impact bullish",
+        "XAUUSD",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong equities opened higher; HSI up 0.49%, Hang Seng Tech Index up 0.41%. AI, biotech and precious metals led gains. MINIMAX-W (00100.HK) up nearly 4%."
+    },
+    {
+      "id": "5100880",
+      "time": "2026-09-18 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.00%，恒生科技指數漲0.00%】MINIMAX-W漲4.00%，智譜漲3.38%，天數智芯漲3.27%，紫金礦業漲2.66%，康師傅控股跌1.94%，吉利汽車跌2.06%，比亞迪股份跌2.16%。"
+    },
+    {
+      "id": "5100879",
+      "time": "2026-09-18 09:20:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "離岸人民幣兌美元升破6.70關口，創2023年1月16日以來新高。"
+    },
+    {
+      "id": "5100878",
+      "time": "2026-09-18 09:20:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【哥倫比亞對印度高壓裝飾層壓板啟動反傾銷日落複審調查】近日，哥倫比亞貿工旅遊部在官方公報釋出第644號公告，對原產於印度的高壓裝飾層壓板啟動反傾銷第三次日落複審調查。本案傾銷調查期為2025年4月29日至2026年4月28日。涉案產品的哥倫比亞海關編碼為3921.90.10.00。公告自發布次日起生效。"
+    },
+    {
+      "id": "5100877",
+      "time": "2026-09-18 09:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十部門：壯大精準診斷產業規模，加快創新診斷產品產業化】工業和資訊化部、國家發展改革委等十部門近日聯合印發《醫藥工業發展“十五五”規劃》。《規劃》提出，壯大精準診斷產業規模。重點發展高通量基因測序、微流控、高靈敏生物檢測等技術，推動體外診斷、醫學影像、病理診斷、分子診斷、多組學檢測等領域融合升級，加快創新診斷產品產業化。完善精準診斷產品質量控制、臨床評價及標準體系。推動有條件的醫療機構發展精準診斷中心，加強與相關企業合作，促進診療資料互聯互通、共享共用，加快精準診斷技術與數字健康、人工智慧深度融合，提升罕見病、腫瘤、遺傳病等精準診斷水平。"
+    },
+    {
+      "id": "5100876",
+      "time": "2026-09-18 09:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央網信辦：加強涉企侵權資訊管理 持續推動營商網路環境最佳化】中央網信辦釋出《關於加強涉企侵權資訊管理 持續推動營商網路環境最佳化的通知》，通知指出，處置涉企侵權資訊，事關企業、企業家切身利益，事關人民群眾切身權益。經過一段時間實踐，各方對處置涉企侵權資訊已形成共識。網站平臺對以下涉企侵權資訊，應當積極主動清理處置。1.個人資訊類。包括洩露企業家身份證、護照、戶籍檔案、家庭住址、電話號碼等個人身份及聯絡資訊，以及生物識別、醫療健康、金融賬戶、行蹤軌跡等敏感個人資訊。2.侮辱貶損類。包括侮辱謾罵企業、企業家，惡搞醜化企業標識、產品和企業家肖像，將企業、企業家與色情低俗話題惡意關聯，使用汙名化詞彙詆譭企業、企業家或特定品牌使用者。3.假冒仿冒類。包括假冒仿冒新聞單位制作釋出的涉企監督資訊，假借企業或企業家名義釋出的資訊，在公眾賬號名稱、頭像、簡介中，擅自使用與企業相同或相似的名稱標識或企業家姓名肖像。4.虛假誤導類。包括斷章取義、歪曲解讀企業家過往言論，呈現與事實不符的搜尋關鍵詞聯想、搜尋落地頁結果，已經權威闢謠、澄清的不實資訊，與企業、企業家在超大平臺上的官方賬號釋出的公開宣告不符資訊。5.其他類。包括涉企拉踩引戰資訊，集納翻炒的企業舊聞舊事、負面資訊，已被本平臺處置過的涉企侵權資訊，機器人賬號、網路水軍賬號釋出的涉企評論資訊，明顯違背公序良俗抹黑詆譭企業、企業家資訊。"
+    },
+    {
+      "id": "te:economy:584771",
+      "time": "2026-09-18 09:15:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Falls Ahead of BOJ Verdict — Japan’s 10-year government bond yield slipped to around 2.96% on Friday, extending its decline into a third session as markets positioned for the Bank of Japan’s latest policy decision, with markets widely expecting an interest-rate hike. Investors will also watch for signals on further tightening as policymakers navigate rising inflation and wage growth, along with pressure from US Treasury Secretary Scott Bessent to pursue more aggressive rate increases. Meanwhile, Japan’s core inflation eased to 1.7% in August from 1.8% in July, marking its first slowdown in four months. However, expectations that price pressures could strengthen in the coming months continued to support a hawkish BOJ outlook, while disruptions in the Middle East added to inflation risks. Japanese bond yields also followed declines in global yields as falling oil prices helped ease concerns over inflation."
+    },
+    {
+      "id": "mkt:01a0b215-78db-7118-85ec-e1e103259046",
+      "time": "2026-09-18 09:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi embassy in Washington said the proposed F-35 arms sale underscores the strength and durability of the Saudi-U.S. strategic partnership."
+    },
+    {
+      "id": "mkt:01a0b215-3fc7-7118-85ec-dc64efd3d383",
+      "time": "2026-09-18 09:15:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.31% at 24,647, trading 43 points above the spot index."
+    },
+    {
+      "id": "5100875",
+      "time": "2026-09-18 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7521元，較上日調高59點。"
+    },
+    {
+      "id": "mkt:01a0b215-070c-7118-85ec-d1411114e022",
+      "time": "2026-09-18 09:15:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Group moves three vice chairmen to SK Hynix】SK Inc., the SK Group holding company, has reassigned three of its four vice chairmen—Seo Jin-Woo, Yu Jeong-Joon and Lee Hyung-Hee—to semiconductor unit SK Hynix, industry sources said. The executives previously led the group's global business and external partnerships. SK Group said the move reflects rising geopolitical uncertainty in the semiconductor sector and aims to bring senior global experience to advise SK Hynix’s operations and support its mid-to-long-term strategy. The three have begun one-on-one meetings with SK Hynix executives. SK Group’s professional-manager vice-chairman team has also been placed at SK Hynix."
+    },
+    {
+      "id": "5100874",
+      "time": "2026-09-18 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.37%，報24662.97點，高水58.68點。"
+    },
+    {
+      "id": "5100873",
+      "time": "2026-09-18 09:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特駐美國大使館：擬議中的F-35軍售體現了沙特與美國戰略伙伴關係的堅實根基與持久屬性。"
+    },
+    {
+      "id": "5100872",
+      "time": "2026-09-18 09:14:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK集團將三名副董事長調往SK海力士】9月18日，據報道，業內人士透露，SK集團旗下控股公司SK Inc.已將其四名副董事長中的三名調往SK海力士。這三名高管分別是Seo Jin-Woo、Yu Jeong-Joon和Lee Hyung-Hee，他們此前負責領導集團的全球業務和對外合作。SK集團表示，此次人事調動考量了半導體行業日益加劇的地緣政治不確定性。一位公司官員解釋說：“目的是讓具備全球經驗和專業知識的資深高管為SK海力士的整體經營提供建議，並支援中長期願景的制定。”為此，這三位副董事長近期已開始與SK海力士全體高管進行一對一的深入訪談。此外，報道稱，SK集團的職業經理人副董事長團隊也已同時進駐SK海力士。"
+    },
+    {
+      "id": "mkt:01a0b213-2f90-7118-85ec-cb1a70e8afe8",
+      "time": "2026-09-18 09:13:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Ten ministries, including MIIT and NDRC, back pharma firms targeting frontier science to develop FIC and BIC】Ten ministries, led by the Ministry of Industry and Information Technology and the National Development and Reform Commission, today issued the Pharmaceutical Industry “15th Five-Year Plan”, directing stronger original innovation. The plan prioritizes major infectious diseases, major chronic diseases, rare diseases and pediatric medicines, strengthens firms’ role as innovation drivers, and calls for accelerating R&D toward first-in-class, breakthrough and disruptive therapies. It supports pharmaceutical companies in targeting frontier biomedical science to develop new targets, new mechanisms and new drug types — first-in-class (FIC) and best-in-class (BIC) — and urges faster R&D and application of frontier, leading high-end medical devices."
+    },
+    {
+      "id": "mkt:01a0b213-034c-7118-85ec-c2db314bae61",
+      "time": "2026-09-18 09:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia deputy governor Hauser said the board is fully committed to achieving the inflation target."
+    },
+    {
+      "id": "mkt:01a0b212-38e9-7118-85ec-bbff15775bc3",
+      "time": "2026-09-18 09:12:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said persistent inflation shocks are hard to ignore."
+    },
+    {
+      "id": "5100871",
+      "time": "2026-09-18 09:11:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫藥工業發展“十五五”規劃：加快人工智慧、量子計算、超級計算等新技術賦能藥物研發】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，加快佈局前沿技術和產品。強化跨學科交叉融合與前沿技術供給，支援醫藥工業企業、高校、科研院所、醫療機構等聯合攻關。加快人工智慧、量子計算、超級計算、計算醫學等新技術賦能藥物研發，探索超限制造、太空製藥、生物製造等藥械生產新模式，深化基因編輯、分子精準遞送、細胞程式設計與調控、先進組學、新一代腦機介面等前沿技術應用，突破人工生命體系合成、類器官與器官晶片、通用型細胞治療、複雜再生器官、診療一體化放射性藥物、異種移植器官等關鍵技術，培育若干新增長點。"
+    },
+    {
+      "id": "5100870",
+      "time": "2026-09-18 09:11:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十部門：加快構建化學原料藥、高階製劑、疫苗、抗體藥物、中藥、醫療器械等領域優勢】工信部等十部門印發《醫藥工業發展“十五五”規劃》。其中提到，加快構建化學原料藥、高階製劑、疫苗、抗體藥物、中藥、醫療器械等領域優勢。完善醫藥領域跨境技術與服務體系，提升面向國際市場的全鏈條醫藥研發生產服務（CRO/CDMO）專業能力。支援國內企業透過共同研發、共同商業化等方式積極參與全球醫藥創新分工合作，強化智慧財產權保護與運用，助力創新藥械走向國際市場。加強藥品監管國際合作，推動國內外監管規則、標準等有效銜接，強化監管協調，提升我國醫藥產品的國際認可度與影響力。"
+    },
+    {
+      "id": "mkt:01a0b211-4a00-7118-85ec-b5944861c91c",
+      "time": "2026-09-18 09:11:12",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA Governor Bullock said inflation risks are tilted to the upside."
+    },
+    {
+      "id": "mkt:01a0b211-241d-7118-85ec-aa0269646225",
+      "time": "2026-09-18 09:11:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's 30-year government bond yield fell 4.5 bps to 4.03%."
+    },
+    {
+      "id": "5100869",
+      "time": "2026-09-18 09:10:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十部門：推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發】工信部等十部門印發《醫藥工業發展“十五五”規劃》。其中提到，推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發，展示中醫藥傳統文化與發展成就。鼓勵中藥原料生產基地、中藥企業開展農文旅融合的科普研學活動。培育現代醫藥產業文化，開發權威科普資源，強化公眾對醫藥產業創新、科技創新的認知與瞭解。提升文化軟實力，推動醫藥文化融入國民教育，在中小學開展中醫藥文化、生命科學教育，支援醫藥題材文藝創作，講好醫藥領域中國故事。"
+    },
+    {
+      "id": "5100868",
+      "time": "2026-09-18 09:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫藥工業發展“十五五”規劃：加快推動我國創新藥械研發向首創性、突破性、顛覆性升級】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，增強原始創新能力。聚焦重大傳染病、重大慢性病、罕見病、兒童用藥等重點領域，強化企業創新主體地位，加快推動我國創新藥械研發向首創性、突破性、顛覆性升級。支援醫藥工業企業瞄準醫藥前沿科技，開發一批新靶點、新機制、新藥物型別的首創新藥（FIC）和同類最優藥物（BIC）。加快研發應用一批前沿性、引領性高階醫療器械。"
+    },
+    {
+      "id": "te:markets:584768",
+      "time": "2026-09-18 09:09:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Slips Ahead of BOJ Decision — The Japanese yen weakened past 156 per dollar on Friday, hovering near two-week lows as investors awaited the latest Bank of Japan policy decision, with markets widely expecting an interest-rate hike. Investors will also seek guidance on the potential for further tightening as policymakers contend with rising inflation and wages, alongside pressure from US Treasury Secretary Scott Bessent for a more aggressive pace of rate increases. Meanwhile, Japan’s core inflation eased to 1.7% in August from 1.8% in July, marking its first slowdown in four months. However, expectations that price pressures could strengthen in the coming months continued to support a hawkish BOJ outlook, with disruptions stemming from the Middle East adding to inflation risks. Earlier this month, the yen climbed to seven-month highs on expectations of more aggressive BOJ tightening, recent joint interventions by Tokyo and Washington, and prospects of greater capital repatriation by Japanese investors."
+    },
+    {
+      "id": "5100867",
+      "time": "2026-09-18 09:09:08",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：企業開始詢問通脹是否會下降。"
+    },
+    {
+      "id": "5100866",
+      "time": "2026-09-18 09:08:49",
+      "tags": [
+        "央行"
+      ],
+      "text": "瑞銀目前預計澳洲聯儲將再加息兩次，每次25個基點，至4.85%。"
+    },
+    {
+      "id": "5100865",
+      "time": "2026-09-18 09:08:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：地方新增專項債發行節奏偏慢 預計四季度專項債用途更靈活】國泰海通證券釋出的研報稱，2026年地方政府新增專項債發行節奏偏慢，或與專案儲備不足有關，預計四季度專項債用途或更加靈活，支援化債，供給放量但久期壓力減弱。截至9月11日，全年新增專項債發行金額3.03萬億，佔全年新增專項債限額的68.9%；按照發行計劃推算，9月末進度將達到76.4%。從過去幾年的發行節奏看，9月末通常完成全年限額約九成，10月末專項債基本發完。年內地方債剩餘發行金額預計在2.28萬億元，年內剩餘地方債的發行期限在15.3年附近，較前期有較為明顯下降。進入四季度，新增專項債在當年形成實物工作量的難度加大，部分專案儲備不足的省份可能會增加特殊新增專項債的發行，用途更為靈活。"
+    },
+    {
+      "id": "5100864",
+      "time": "2026-09-18 09:07:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【精品茅臺、洋河夢之藍M6+小幅上漲 古井貢古20、青花郎重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，9月18日中國白酒業12大單品的終端零售均價五漲五跌兩平，漲跌品種數量平分秋色，但下跌端累計跌幅更大。贏家方面，精品茅臺上漲2元至2465元，小幅回升逼近本月最高點；五糧液普五八代上漲1元至802元，在800元關口附近暫事休整；國窖1573上漲1元至877元，二連陽延續低位回升態勢；洋河夢之藍M6+上漲2元至608元，短線高頻震盪；習酒君品上漲1元至636元，連續兩日小幅上揚，價格中樞緩慢抬升。下跌方面，飛天茅臺下跌2元至1796元，仍處於近30天最高點附近；青花汾20下跌4元至393元，三連陰持續回探；古井貢古20下跌6元至524元，二連跌重返近30天低位區間；青花郎下跌5元至678元，連續三日走弱，跌破680元關口；水晶劍南春下跌1元至407元，昨日小幅上揚後再度回落。持平方面，五糧液1618終端零售均價維持829元，近期價盤振幅收窄表現平穩；茅臺1935維持684元，連續兩日價盤穩定在近30天高位區間。\n\n今日12大單品的終端零售總價再度回落，如果12大單品各取一瓶整體打包售賣，今日總售價為10699元，較昨日下跌11元，跌破10700元整數關口。其中上漲品種累計上漲7元，下跌品種累計下跌18元，價盤分化特徵依然明顯。"
+    },
+    {
+      "id": "mkt:01a0b20e-324b-7118-85ec-a0b1d0fb72d3",
+      "time": "2026-09-18 09:07:49",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Central Cyberspace Administration issues notice clarifying scope for handling enterprise-related infringing information】The Central Cyberspace Administration issued a notice to strengthen management of enterprise-related infringing information and further optimize the business internet environment. It directs platforms to move controls upstream and strengthen source management, tighten website and platform content-management responsibilities, and increase personnel and technology investment. The notice requires a full-chain regime of pre-publication review, real-time patrols and post-publication disposal, proactive removal of explicit enterprise-infringing content, and strict, expedited handling of implicated accounts and MCN firms to address slow or ineffective takedowns."
+    },
+    {
+      "id": "5100863",
+      "time": "2026-09-18 09:07:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌5%，現報1531.50元。"
+    },
+    {
+      "id": "5100862",
+      "time": "2026-09-18 09:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【持續推動營商網路環境最佳化 中央網信辦發文明確涉企侵權資訊處置範圍】9月15日中央網信辦釋出《關於加強涉企侵權資訊管理 持續推動營商網路環境最佳化的通知》。網站平臺應當根據本通知要求，健全資訊內容管理制度，完善最佳化平臺社群規則，將涉企資訊納入日常內容稽核處置範圍，強化賬號、MCN機構管理，切實增強工作主動性、針對性和實效性。網信部門要落實屬地管理責任，指導所在地網站平臺完善制度，加強涉企資訊內容管理，及時清理涉企侵權資訊。對重視程度不足、落實力度不夠特別是網民反映問題集中的網站平臺，依法依規從嚴處理。（央視）"
+    },
+    {
+      "id": "mkt:01a0b20d-104c-7118-85ec-9cc7e1fb14e3",
+      "time": "2026-09-18 09:06:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【BOJ decision preview: 25bp hike expected; yen vulnerable if guidance isn’t hawkish】Most firms expect the BOJ to raise its policy rate by 25bp to 1.25% today; markets are focussing on forward guidance — a less hawkish signal would likely trigger yen weakness and pressure JGBs. Reuters survey: economists expect the policy rate to reach 1.50% by end-March next year and 1.75% by Q2 2027, with most seeing at least that terminal rate. Nikko expects 25bp to 1.25% and 1.75% by June 2027, with upside to 2.25% if oil rises and other central banks tighten. BNP sees 25bp now, then further hikes in Dec and next March to 1.75%. OCBC says the hike is largely priced; the key is the post-September path and whether the BOJ signals faster normalization while inflation remains elevated. Goldman says today’s move is certain and the next hike could come as early as December; high energy, strong AI-driven demand, a weaker yen and loose fiscal policy could push inflation and yields higher. TD Securities projects a path to 2.25% via hikes in Dec and several 2027 moves and warns that omission of Oct/Dec hikes from guidance could send USD/JPY to 157–160. Market pricing already implies ~90bp of tightening over the next 12 months; if Governor Ueda signals caution, that could leave the yen exposed. Overall market takeaway: 25bp hike probable; guidance tone will be the primary driver for near-term yen moves, JGB yields and expectations for further BOJ tightening."
+    },
+    {
+      "id": "em:qqyh_ozlc:202609183878058458",
+      "time": "2026-09-18 09:06:29",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳聯儲主席布洛克：通脹上行風險正成為現實 9月議息將評估緊縮力度】澳洲聯儲主席米歇爾·布洛克（MicheleBullock）18日在議會聽證會上表示，儘管澳大利亞經濟增長正在放緩，但部分通脹上行風險似乎正在成為現實。並指出，透過聯儲的聯絡計劃瞭解到，許多公司正在將更高的投入成本轉嫁給消費者。在油價長期高企的環境下，企業更傾向於進行這種成本轉嫁，這將直接加劇通脹壓力。"
+    },
+    {
+      "id": "5100861",
+      "time": "2026-09-18 09:06:10",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：地緣政治仍是黃金走勢的主要影響因素】沙特向胡塞武裝提議兩週停火，原油再挫，美油失守100美元，布油一度跌超4%，疊加加息預期兌現，貴金屬明顯反彈。伊方表示，地區和平穩定有賴於美以停止軍事行動，但是這種緩和的態度被特朗普鑽空子，特朗普稱將決定是否恢復對伊朗大規模作戰，試圖以贏學證明自己的能力，地緣政治仍是黃金走勢的主要影響因素，建議密切關注相關局勢變化。（中金財富期貨）"
+    },
+    {
+      "id": "mkt:01a0b20c-4bc3-7118-85ec-92cae627047a",
+      "time": "2026-09-18 09:05:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ten Chinese ministries push AI, quantum and other frontier tech to speed drug R&D; explore extreme manufacturing and space-based drug production】Ten Chinese ministries and agencies, including the Ministry of Industry and Information Technology and the National Development and Reform Commission, jointly issued the pharmaceutical industry's 15th Five-Year Plan. The plan directs accelerated deployment of frontier technologies and products and supports cross-disciplinary collaboration among drugmakers, universities, research institutes and hospitals. It calls for faster use of artificial intelligence, quantum computing, supercomputing and computational medicine in drug R&D; exploration of extreme manufacturing, space-based drug production and biomanufacturing for medical products; and deeper application of gene editing, precision molecular delivery, cell programming and control, advanced omics and next-generation brain–machine interfaces. Targets include breakthroughs in synthetic life systems, organoids and organ‑on‑chip, universal cell therapies, complex regenerative organs, theranostic radiopharmaceuticals and xenotransplantation to cultivate new growth drivers."
+    },
+    {
+      "id": "5100860",
+      "time": "2026-09-18 09:05:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本國債收益率走低，因能源通脹擔憂緩解】日本國債收益率走低，因能源通脹擔憂緩解。原油價格隔夜下跌，因對中東供應的擔憂有所緩解。投資者正關注日本央行週五晚些時候的政策會議以及行長植田和男的新聞釋出會，以推斷未來的加息步伐。日本40年期國債收益率下跌5.5個基點至4.06%。"
+    },
+    {
+      "id": "mkt:01a0b20b-7344-7118-85ec-8ca489efb0f4",
+      "time": "2026-09-18 09:04:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 40-year government bond yield fell 5 bps to 4.065%."
+    },
+    {
+      "id": "mkt:01a0b20b-120d-7118-85ec-8761a76c4c32",
+      "time": "2026-09-18 09:04:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold traded above $4,360/oz, up 0.48% on the day."
+    },
+    {
+      "id": "5100859",
+      "time": "2026-09-18 09:04:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【“十五五”時期我國首創新藥佔全球比例將達到25%以上】工業和資訊化部、國家發展改革委等十部門今天聯合釋出《醫藥工業發展“十五五”規劃》。《規劃》提出，2030年，規模以上醫藥工業企業營業收入將超過3.5萬億元。《規劃》重點圍繞產業規模效益、創新發展、企業培育和叢集發展等方面提出了“十五五”時期醫藥工業發展預期性指標。其中包括：產業規模效益穩步提升，創新藥產業規模增速年均達到20%以上，全球年銷售額超10億美元的品種數量達到5個以上；年營業收入超過100億元的醫藥工業企業數量達到50家，千億級醫藥產業園區數量達到20個。在創新發展方面，《規劃》提出的目標是：醫藥工業上市企業平均研發投入強度年均達到10%以上，首創新藥佔全球比例達到25%以上。"
+    },
+    {
+      "id": "5100858",
+      "time": "2026-09-18 09:03:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌7%，現報748.50元。"
+    },
+    {
+      "id": "5100857",
+      "time": "2026-09-18 09:03:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【《醫藥工業發展“十五五”規劃》釋出】十部門聯合釋出《醫藥工業發展“十五五”規劃》，到2030年，我國創新藥產業規模年均增速將超20%。"
+    },
+    {
+      "id": "mkt:01a0b209-408e-7118-85ec-7b9855c01e4a",
+      "time": "2026-09-18 09:02:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Pharmaceutical Industry Development \"15th Five-Year Plan\" released】Ten ministries and agencies jointly released the Pharmaceutical Industry Development \"15th Five-Year Plan\", targeting average annual growth of China's innovative-drug industry above 20% through 2030."
+    },
+    {
+      "id": "5100855",
+      "time": "2026-09-18 09:02:17",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，SC原油跌近6％，液化石油氣（LPG）、焦煤跌超3％，燃料油、聚氯乙烯（PVC）跌近3％，純苯、對二甲苯、苯乙烯（EB）跌超2％。漲幅方面，集運歐線漲超3％，滬銀漲超2％，滬鉛、國際銅漲近2％，滬鋅、碳酸鋰、滬錫、滬銅漲超1％。"
+    },
+    {
+      "id": "mkt:01a0b208-8968-7118-85ec-762e8ded7903",
+      "time": "2026-09-18 09:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Front-month coking coal futures fell 4.00% intraday to 1,548 yuan/ton."
+    },
+    {
+      "id": "5100854",
+      "time": "2026-09-18 09:01:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌4%，現報1548.00元。"
+    },
+    {
+      "id": "5100853",
+      "time": "2026-09-18 09:01:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4360美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:01a0b208-2073-7118-85ec-6b83714ad81f",
+      "time": "2026-09-18 09:01:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Taiwan Weighted Index opened 728.34 points higher, up 1.57% at 47,016.34 on Friday, Sept. 18."
+    },
+    {
+      "id": "5100852",
+      "time": "2026-09-18 09:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內漲0.01%。"
+    },
+    {
+      "id": "5100851",
+      "time": "2026-09-18 09:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.86美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0b207-c991-7118-85ec-66195a9ddd15",
+      "time": "2026-09-18 09:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 1.00% intraday to $65.87/oz; New York silver futures gained 1.00% to $66.38/oz."
+    },
+    {
+      "id": "5100850",
+      "time": "2026-09-18 09:00:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.4%至46,949.17點。"
+    },
+    {
+      "id": "5100849",
+      "time": "2026-09-18 09:00:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【事關“菜籃子”“錢袋子” 電子計價秤作弊識別有了國家規範】記者今天瞭解到，市場監管總局釋出首個作弊特徵領域的國家計量測試技術規範《電子計價秤作弊特徵識別測試規範》，將自2027年1月1日起正式實施。電子計價秤作為常見的稱重器具，在農貿市場、商超、流動攤位等應用廣泛，截至目前，全國有電子計價秤433萬臺。電子計價秤計量準確性是稱重和計價收費公平準確的基礎和核心，直接關係到群眾“菜籃子”和“錢袋子”。《規範》將作弊特徵識別的系統性測試納入國家計量技術規範體系，為作弊行為甄別與計量監管執法提供堅實技術支撐。"
+    },
+    {
+      "id": "mkt:01a0b207-94e3-7118-85ec-5a7744c3938d",
+      "time": "2026-09-18 09:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "WTI",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China’s most-active futures were mostly lower: Shanghai crude (SC) fell nearly 6%; LPG and coking coal dropped over 3%; fuel oil and PVC declined about 3%; benzene, p-xylene and styrene (EB) slipped more than 2%. Gainers included container shipping (Europe route) up over 3%, Shanghai silver up over 2%, Shanghai lead and international copper near +2%, and Shanghai zinc, lithium carbonate, Shanghai tin and Shanghai copper up more than 1%."
+    },
+    {
+      "id": "mkt:01a0b207-69ff-7118-85ec-519217aa047b",
+      "time": "2026-09-18 09:00:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.2% to 941.93 yuan/gram in early trade on Friday, Sept. 18; silver T+D rose 3.16% to 16,000 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0b207-59db-7118-85ec-4b8fc3d5f934",
+      "time": "2026-09-18 09:00:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.41% higher."
+    },
+    {
+      "id": "5100848",
+      "time": "2026-09-18 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺交所加權股價指數開盤上漲0.3%報46,449.56點。"
+    },
+    {
+      "id": "5100847",
+      "time": "2026-09-18 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌3%，現報4720.00元。"
+    },
+    {
+      "id": "5100846",
+      "time": "2026-09-18 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報4266.00元。"
+    },
+    {
+      "id": "5100845",
+      "time": "2026-09-18 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.39%。"
+    },
+    {
+      "id": "5100844",
+      "time": "2026-09-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4725.00元。"
+    },
+    {
+      "id": "5100843",
+      "time": "2026-09-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報6110.00元。"
+    },
+    {
+      "id": "5100842",
+      "time": "2026-09-18 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌6.01%，焦煤連續跌3.22%，集運指數歐線期貨連續漲3.20%，液化石油氣連續跌3.04%，燃料油連續跌2.97%。"
+    },
+    {
+      "id": "5100841",
+      "time": "2026-09-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報4279.00元。"
+    },
+    {
+      "id": "te:markets:584765",
+      "time": "2026-09-18 08:59:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Attempts Rebound — The Australian dollar rose above $0.71, attempting to recover from a recent four-week low as hawkish comments from the Reserve Bank’s top official reinforced expectations for further policy tightening. Governor Michele Bullock said upside inflation risks were materializing and warned that higher costs could make inflation more persistent, pointing to rising energy prices and continued capacity pressures in the domestic economy. Her remarks follow statements over the past month by senior RBA officials that inflation remains elevated and needs to ease further. Swaps markets now priced at least two more rate hikes by the February meeting, with a roughly 87% chance the first occurs on September 29. That marks a notable shift from the start of September, when traders were pricing just one further hike, likely by year-end. The Aussie also benefited from a softer US dollar, alongside lower Treasury yields and easing oil prices, while a rebound in global equities improved risk sentiment."
+    },
+    {
+      "id": "5100840",
+      "time": "2026-09-18 08:58:43",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗韓國交易主管：美元兌韓元接近1400時可買入韓元】花旗一名交易員表示，韓國晶片產業拉動經濟增長，韓元近期的走弱可能只是暫時現象，年底前韓元有望兌美元回升。花旗韓國交易主管 Lee Sanghun在週三晚間接受採訪時稱：“受美聯儲鷹派立場、油價上漲引發通脹擔憂等外部因素影響，韓元短期記憶體在跌破1美元兌1400韓元的風險。但我認為韓元不會長期維持如此弱勢，因此在1美元兌1400韓元附近，會是賣出美元、買入韓元的良好時機。”韓元此前經歷兩個月上漲，成為亞洲表現最佳的貨幣。但週四韓元連續第四個交易日下跌，最低觸及1美元兌1388.25韓元。美聯儲偏鷹的政策壓制韓元，美國加息擴大了美韓利差，或將削弱韓國本土資產的吸引力。週五早盤，韓元開盤平穩，匯率維持在1美元兌1381.00韓元附近。"
+    },
+    {
+      "id": "5100839",
+      "time": "2026-09-18 08:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【本田將在電動汽車戰略調整中提前生產下一代混合動力車型】9月18日，據報道，本田汽車計劃將下一代混合動力車型的大規模生產提前數月，目標是最早在2027年2月於北美開始生產混合動力版CR-V運動型多用途車。"
+    },
+    {
+      "id": "5100838",
+      "time": "2026-09-18 08:55:33",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲副主席豪瑟：我認為我們更接近全球利率的正常水平了。"
+    },
+    {
+      "id": "5100837",
+      "time": "2026-09-18 08:54:18",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：澳大利亞儲備銀行擁有充足的資產負債表和外匯儲備，以應對任何市場動盪。"
+    },
+    {
+      "id": "mkt:01a0b201-6c6f-7118-85ec-47a7074ba8d6",
+      "time": "2026-09-18 08:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia governor Bullock said there is broad consensus that the neutral rate has risen."
+    },
+    {
+      "id": "5100836",
+      "time": "2026-09-18 08:52:36",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：我們有應對債券市場任何無序波動的工具。"
+    },
+    {
+      "id": "5100835",
+      "time": "2026-09-18 08:51:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國資深基金經理：未來6至12個月食品價格通脹將持續升溫】Troy Asset Management管理著逾60億英鎊資產的Charlotte Yonge預計，未來6至12個月食品價格通脹將持續升溫，並認為英國和美國五年期通脹盈虧平衡利率尚未充分反映這一風險。她表示，正透過持有英美短期通脹保值債券來對沖食品價格上漲及更廣泛的通脹風險。"
+    },
+    {
+      "id": "5100834",
+      "time": "2026-09-18 08:51:29",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通上調年底美國國債收益率預測】摩根大通策略師將兩年期美國國債收益率預測上調40個基點至4.7%，將10年限收益率預測上調20個基點至5.05%。“我們認為美債收益率全年將走高，認為當前環境與1999年末至2000年期間類似，當時美聯儲在經濟增長和通脹強勁的背景下累計加息100個基點，” Jay Barry等該行策略師在一份報告中寫道。"
+    },
+    {
+      "id": "5100833",
+      "time": "2026-09-18 08:51:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜加入AI安全討論，呼籲模型釋出前嚴格測試】當地時間9月17日，據報道，亞馬遜表示，人工智慧模型只有在經過嚴格測試後才能釋出。在多家頂尖AI實驗室因安全漏洞呼籲放緩開發速度後，該公司也就AI發展速度問題加入討論。“我們不認為這是進步與安全之間的二選一，”亞馬遜發言人Tom Parnell在電子郵件中表示，“模型應當在準備就緒並能夠安全使用時釋出，而這需要嚴格測試和強有力的防護措施。如果業界不能共同做到這一點，就會存在風險。我們相信整個行業在與政府合作之下，將共同確立合適的保護措施。”"
+    },
+    {
+      "id": "5100832",
+      "time": "2026-09-18 08:51:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：目前公司具備年化5萬噸無水氟化氫產能】天賜材料(002709)在互動平臺表示，氟化氫是公司生產六氟磷酸鋰的核心原材料之一，目前公司具備年化5萬噸的無水氟化氫產能。"
+    },
+    {
+      "id": "mkt:01a0b1fe-6cb3-7118-85ec-38ee0282f8f9",
+      "time": "2026-09-18 08:50:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Trump's détente with KEVIN WARSH after rate hike may fray if Fed tightens again】Wall Street Journal senior Fed reporter Nick Timiraos reports Trump — a persistent critic of what he calls ‘too-high’ rates — said he approved this week’s Fed rate increase after a phone call with Fed chair KEVIN WARSH. Insiders said the call surprised many of Trump’s advisers and has temporarily eased White House-Fed tensions. A senior administration official warned the truce could end if the Fed raises again in October ahead of the midterms, and Trump’s portrayal of a hostile Fed may prompt investor doubts about whether KEVIN WARSH is leading the Fed or being pushed by it."
+    },
+    {
+      "id": "te:markets:584764",
+      "time": "2026-09-18 08:50:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Gain Ahead of BOJ Decision — The Nikkei 225 Index climbed 0.9% to above 64,600 on Friday, rising for the third straight session as investors braced for the latest Bank of Japan policy decision, where it is widely expected to raise interest rates. Investors will also look for guidance on the possibility of further tightening as policymakers grapple with elevated inflation and wage growth, along with pressure from US Treasury Secretary Scott Bessent. Meanwhile, Japan’s annual inflation rate held steady at 1.9% in August, while core inflation stayed below the BOJ’s 2% target for a seventh straight month at 1.7%. Technology and AI-related stocks led the gains following similar advances on Wall Street overnight, as concerns over AI development safety risks eased. Notable performers included Kioxia (3.2%), SoftBank Group (4.1%), Advantest (4%), Lasertec (5.5%), and Ibiden Co (3.3%)."
+    },
+    {
+      "id": "mkt:01a0b1fd-805e-7118-85ec-34725e2a5bf0",
+      "time": "2026-09-18 08:49:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Mainland margin financing balance up 2.337 bln yuan】As of Sept 17, Shanghai Stock Exchange margin balance stood at 1.3341 tln yuan, up 0.908 bln yuan from the prior trading day; Shenzhen Stock Exchange margin balance was 1.2674 tln yuan, up 1.429 bln yuan. Combined margin financing across both exchanges totaled 2.6015 tln yuan, up 2.337 bln yuan."
+    },
+    {
+      "id": "5100831",
+      "time": "2026-09-18 08:49:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "富達國際固定收益投資組合經理Philip Fielding：受今年厄爾尼諾現象影響，亞洲和拉丁美洲可能首當其衝受到更炎熱、更乾燥天氣的影響，農業生產面臨減產風險。公司仍看好新興市場回報機會，但已減少拉丁美洲利率敞口，轉而配置受影響較小的國家。"
+    },
+    {
+      "id": "5100830",
+      "time": "2026-09-18 08:47:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加23.37億元】截至9月17日，上交所融資餘額報13341.05億元，較前一交易日增加9.08億元；深交所融資餘額報12674.21億元，較前一交易日增加14.29億元；兩市合計26015.26億元，較前一交易日增加23.37億元。"
+    },
+    {
+      "id": "5100829",
+      "time": "2026-09-18 08:47:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米旗下瀚星創投入股傲途蘇源汽車科技公司】企查查APP顯示，近日，江蘇傲途蘇源汽車科技有限公司發生工商變更，新增小米關聯公司瀚星創業投資有限公司為股東，同時註冊資本增至5000萬元。企查查資訊顯示，該公司成立於2025年8月，經營範圍包含汽車零配件零售；汽車裝飾用品銷售；企業管理等。"
+    },
+    {
+      "id": "mkt:01a0b1fa-733e-7118-85ec-28048ad0884a",
+      "time": "2026-09-18 08:46:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Crude ETF holdings: Brent nominal exposure rises for fifth straight day】Sept. 17 — WTI (USO) nominal exposure ~21.2548 mln barrels, up 2,000 barrels on the day. Brent (BNO) nominal exposure ~7.37 mln barrels, up 88,000 barrels on the day; Brent exposure has risen for five consecutive sessions."
+    },
+    {
+      "id": "5100828",
+      "time": "2026-09-18 08:45:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【食品價格或成全球債市下一風險源 債券投資者提前佈局】今年以來，能源價格一直是債券市場承壓的重要原因。如今，投資者擔心下一輪通脹飆升可能來自食品領域。他們認為，“超級厄爾尼諾”現象、化肥供應緊張、航運遇襲以及歐洲創紀錄高溫夏季帶來的影響，可能推高主食價格。即便美聯儲已經加息並誓言遏制通脹，持續上漲的食品價格仍可能給債券投資組合帶來新的挑戰。Carmignac、富達國際和Troy Asset Management等資產管理機構正在買入對沖工具，或削減對可能受到最嚴重衝擊國家的投資敞口。“我認為下一輪供應衝擊將出現在食品領域，”Carmignac共同管理76億歐元資產的Marie-Anne Allier表示。“我認為目前市場尚未充分反映這一風險，尤其是我們預計這一過程將較為緩慢，但持續存在。”"
+    },
+    {
+      "id": "mkt:01a0b1f9-883b-7118-85ec-23144a6ea80a",
+      "time": "2026-09-18 08:45:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the overall decline in house prices has been modest."
+    },
+    {
+      "id": "mkt:01a0b1f9-669c-7118-85ec-1c9032357550",
+      "time": "2026-09-18 08:45:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA governor BULLOCK said the bank is still considering whether policy is sufficiently tight."
+    },
+    {
+      "id": "5100827",
+      "time": "2026-09-18 08:44:38",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：住房市場的供需關係最終將自行重新平衡。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202609183877938724",
+      "time": "2026-09-18 08:44:12",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【主要央行紛紛加息 英國央行為何按兵不動？】當地時間週四（17日），英國央行貨幣政策委員會（MPC）以6票對3票，將基準利率繼續維持在3.75%。這也是該行連續第六次按兵不動。"
+    },
+    {
+      "id": "5100826",
+      "time": "2026-09-18 08:43:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電將在龍潭新建先進晶圓廠】據臺北經濟日報援引不具名供應鏈人士報道，臺積電在龍潭的擴張預計將專注於1.4奈米及以下先進製程，初步計劃建設三座晶圓廠。第一座工廠計劃2030年左右建成並進入量產準備。總投資規模預計超過1萬億元臺幣（314億美元）。"
+    },
+    {
+      "id": "5100825",
+      "time": "2026-09-18 08:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐田汽車將每年投資 1 萬億日元（包括供應商資金） 以促進工廠自動化，包括引進機器人】豐田汽車公司18日宣佈，計劃從2028年起每年投資約1萬億日元，用於推動集團及其主要零部件供應商的工廠自動化（FA）改造。這項投資將與老舊工廠的改造同步進行，豐田集團及其主要供應商合計將引進40萬臺機器人。豐田發言人表示，投資金額與機器人投放數量均為估算值。計劃引入的機器人包含該公司研發的人形機器人ELEY。"
+    },
+    {
+      "id": "5100824",
+      "time": "2026-09-18 08:41:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迪士尼任命Adam Smith為直接面向消費者業務主席】當地時間9月17日，迪士尼宣佈任命Adam Smith為公司DTC（Direct-to-Consumer）業務主席。Smith將負責公司的全球娛樂SVOD業務，並將監管Disney+和Hulu的產品、工程、廣告技術、合作伙伴關係以及資料與分析等。此外，迪士尼還宣佈任命Joe Earley為電視品牌與內容戰略總裁。其將負責主導迪士尼娛樂電視品牌的戰略開發，並監管國際原創內容及製作的全部內容與製作事務、勞務關係以及創意人才培養。"
+    },
+    {
+      "id": "5100823",
+      "time": "2026-09-18 08:40:45",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：從整體來看，房價的跌幅並不算大。"
+    },
+    {
+      "id": "5100822",
+      "time": "2026-09-18 08:39:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊一試圖穿越霍爾木茲海峽的油輪 】據伊朗法爾斯通訊社18日報道，伊朗伊斯蘭革命衛隊當日表示，打擊了一艘懸掛多哥國旗、試圖穿越霍爾木茲海峽的油輪。油輪起火併停止航行。伊朗伊斯蘭革命衛隊再次警告稱，任何“非法”穿越霍爾木茲海峽的船隻將被摧毀。"
+    },
+    {
+      "id": "te:markets:584763",
+      "time": "2026-09-18 08:37:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains on Lower Oil Prices — Silver held above $65 an ounce on Friday after climbing more than 3% in the previous session, supported by falling oil prices that eased inflation concerns and helped push bond yields lower. Oil prices declined for a third consecutive session as Saudi Arabia worked to restore flows through its East-West pipeline, while President Donald Trump is set to meet with Gulf leaders next week. Treasury yields also pulled back from multi-year highs, with the US 10-year yield falling to around 4.93% after briefly exceeding 5% earlier this week. Meanwhile, investors continued to assess the outlook for Federal Reserve monetary policy following its first rate hike in three years. The US central bank signaled that additional tightening could be needed to contain inflationary pressures, with markets now pricing in roughly a 53% probability of a move in October."
+    },
+    {
+      "id": "em:qqyh_mlc:202609183877942649",
+      "time": "2026-09-18 08:36:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲加息難解通脹頑疾！全球最大資管：沃什面臨重大挑戰】美聯儲主席凱文·沃什週三宣佈實施三年來首次加息，以展示其抗通脹決心，但一些市場人士認為，當前的通脹主要是由能源供給不足等非週期性因素驅動，單純靠加息可能無法有效降低家庭的生活成本。"
+    },
+    {
+      "id": "te:markets:584762",
+      "time": "2026-09-18 08:36:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gains on Lower Oil Prices — Gold traded around $4,350 an ounce on Friday after climbing nearly 2% in the previous session, supported by falling oil prices that eased inflation concerns and helped push bond yields lower. Oil prices declined for a third consecutive session as Saudi Arabia worked to restore flows through its East-West pipeline, while President Donald Trump is set to meet with Gulf leaders next week. Treasury yields also pulled back from multi-year highs, with the US 10-year yield falling to around 4.93% after briefly exceeding 5% earlier this week. Meanwhile, investors continued to assess the outlook for Federal Reserve monetary policy following its first rate hike in three years. The US central bank signaled that additional tightening could be needed to contain inflationary pressures, with markets now pricing in roughly a 53% probability of a move in October."
+    },
+    {
+      "id": "5100821",
+      "time": "2026-09-18 08:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川重慶湖北等地較強降雨持續 週末北方將迎降溫】今起三天（9月18日至20日），四川、重慶、湖北等地仍將是較強降雨集中區域，部分地區有大到暴雨，內蒙古、東北地區等地降雨也將增多。本週末，冷空氣將給西北地區東部、內蒙古、東北地區大部帶來降溫，而北方其餘地區以及南方大部氣溫持續偏高，局地或出現高溫。"
+    },
+    {
+      "id": "5100820",
+      "time": "2026-09-18 08:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安理會審議敘利亞局勢 中方：戰亂動盪不是敘利亞的宿命】當地時間17日，聯合國安理會審議敘利亞政治和人道局勢，中國常駐聯合國代表傅聰表示，戰亂動盪不是敘利亞的宿命，敘利亞人民有權在和平、安定的環境下開創新的生活。中方支援敘利亞過渡政府將發展重建作為中心任務，呼籲國際社會保持對敘利亞人道援助力度不放鬆，應對最為迫切的人道需求。中方指出，9月21日將迎來國際和平日，這寄託了國際社會對消除衝突戰火的美好期許，承載著世界人民對實現持久和平的共同願望。包括敘利亞在內的廣大中東地區恢復和平穩定，是世界和平與發展事業的應有之義。"
+    },
+    {
+      "id": "5100819",
+      "time": "2026-09-18 08:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國與阿聯酋將商討國防、人工智慧及核能合作】韓國總統辦公室釋出宣告稱，韓國總統李在明將於週五會見阿布扎比執行事務局主席卡爾杜恩·阿爾·穆巴拉克。李在明將評估其去年 11 月對阿聯酋進行國事訪問以來雙邊合作的進展，並向阿聯酋總統穆罕默德・本・扎耶德・阿勒納哈揚轉達問候。穆巴拉克與韓國總統室秘書長江勳植預計將商討擴大國防、人工智慧、核電、太空及文化領域的合作。"
+    },
+    {
+      "id": "5100818",
+      "time": "2026-09-18 08:29:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國駐巴布亞紐幾內亞使館再次提醒中國公民和機構切勿在巴布亞紐幾內亞從事非法採金、黃金走私活動】近日，巴新布干維爾自治區潘古納銅金礦區發生騷亂，大批車輛裝置遭焚，亦有人員傷亡報告。巴布亞紐幾內亞全境高風險，採金業風險更高。但仍有個別人員、機構製作並散佈巴新採金高回報的虛假影片或帖文。巴新媒體及民眾對外國人在巴新採金活動日益關注，巴新政府持續加大對非法採金的打擊力度。中國駐巴布亞紐幾內亞使館鄭重提示，在巴新莫羅貝省布洛洛-瓦屋地區、米爾恩灣省、塞皮克省及布干維爾自治區等地的中國公民和機構，務必遵守當地法律法規，尊重當地習俗，切勿從事非法採金、黃金走私活動，避免違法行為給自身帶來人身安全風險及財產損失。如遇緊急情況第一時間報警並與中國駐巴新使館聯絡尋求協助。（ 中國駐巴布亞紐幾內亞大使館  ）"
+    },
+    {
+      "id": "mkt:01a0b1ea-a58f-7118-85ec-10f9355066a0",
+      "time": "2026-09-18 08:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee will receive Khaldoon Al Mubarak, chairman of the Abu Dhabi Executive Council, at the Blue House in Seoul today."
+    },
+    {
+      "id": "mkt:01a0b1e9-9b54-7118-85ec-086129519988",
+      "time": "2026-09-18 08:27:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "【A-share gauge: combined turnover edges down】Sept 17 — Combined turnover on the Shanghai and Shenzhen bourses was 1.82 trillion yuan, down from the prior session and below the 20-day moving average of 1.89 trillion yuan for the 21st consecutive trading day, signaling weaker market participation and cooler sentiment in the China A-share market."
+    },
+    {
+      "id": "5100817",
+      "time": "2026-09-18 08:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方精創：公司決定延遲本次H股的全球發售及上市】四方精創9月18日公告，鑑於目前的市場情況，公司決定延遲本次H股的全球發售及上市，並於2026年9月17日在香港聯交所網站釋出公告。"
+    },
     {
       "id": "5100816",
       "time": "2026-09-18 08:25:47",
