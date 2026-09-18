@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-18 23:20:11",
-  "count": 13369,
+  "updated": "2026-09-18 23:27:35",
+  "count": 13378,
   "items": [
+    {
+      "id": "5102568",
+      "time": "2026-09-18 23:26:14",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "大眾汽車下調業績指引，股價下跌 7.5%。"
+    },
+    {
+      "id": "5102567",
+      "time": "2026-09-18 23:26:02",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲負責監管的副主席鮑曼：預計未來幾週考慮對壓力測試的最終修訂】華爾街貸款機構距離適用更寬鬆的美聯儲壓力測試相關資本要求更近了一步，隨著美國監管機構繼續放寬資本規定，大型銀行料再獲利好。美聯儲負責監管事務的副主席米歇爾·鮑曼在為週五倫敦一場活動準備的講話中表示，對美聯儲壓力測試的最終修改可能會回應有關風險敏感度以及測試涵蓋哪些風險的關切。“這些修改將提高透明度和公眾問責，增強模型的可靠性和準確性，並降低年度壓力測試結果所產生資本要求的波動性，”鮑曼表示。她還表示，預計美聯儲將在“未來幾周”考慮對壓力測試框架作出最終修訂。美聯儲的修改可能會納入此前提案中的大部分內容，但鮑曼表示，在就最終規則進行表決前，她會考慮銀行業對壓力測試方案提出的反饋。具體而言，她提到銀行業提出的一項要求，即“在擬議情景公佈前，設定一個明確日期來鎖定公司資產負債表”，以應對風險敏感度方面的關切。另一項要求是納入兩個以同一日期為基準的全球市場衝擊情景，以改善對風險的覆蓋程度。鮑曼還預計，到年底，另一套資本規則的相關方案將完成，其中包括降低美國最大型銀行附加資本要求的方案，以及調整大型和小型銀行基於風險的資本要求。"
+    },
+    {
+      "id": "mkt:01a0b51f-0c06-7118-8607-63d3166f4810",
+      "time": "2026-09-18 23:25:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Volkswagen shares fell as much as 7.5% after the company issued a profit warning."
+    },
+    {
+      "id": "5102566",
+      "time": "2026-09-18 23:24:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯擴大禁止入境俄羅斯的歐盟人員名單】俄羅斯外交部18日發表宣告說，為回應歐盟此前批准針對俄羅斯的第21輪制裁措施，俄方大幅擴充了禁止入境俄羅斯的歐盟人員名單。 宣告說，今年7月23日，歐盟批准了旨在損害俄羅斯利益的第21輪制裁措施。作為回應，俄方根據國內法律規定，大幅擴充了禁止入境俄羅斯的歐盟人員名單，其中包括參與決定向烏克蘭提供軍事援助的人員；從事旨在破壞俄聯邦領土完整活動的人員；負責實施反俄製裁、損害俄與第三國關係或阻礙俄海上航行的人員等。 宣告還說，對歐洲國家中持反俄立場的有關人士，以及投票支援反俄決議和法案的歐盟成員國議員、歐洲議會議員等，俄方同樣實施了限制入境措施。 歐盟委員會主席馮德萊恩7月23日在社交媒體上說，歐盟成員國當天已就第21輪對俄羅斯制裁達成政治協議。新一輪制裁將增加32家俄羅斯銀行進入交易禁令名單，同時制裁相關加密資產企業和石油交易平臺。歐盟還表示將把針對俄羅斯石油的限價動態機制暫停一年以防俄羅斯從國際油價劇烈波動中獲益。(新華社)"
+    },
+    {
+      "id": "mkt:01a0b51d-7728-7118-8607-5bda97311aa5",
+      "time": "2026-09-18 23:23:22",
+      "tags": [
+        "MKT News",
+        "PAH3.DE",
+        "Impact mixed"
+      ],
+      "text": "Porsche sees FY2026 after-tax result ranging from a net loss of €500m to a net profit of €1.5bn."
+    },
+    {
+      "id": "mkt:01a0b51c-a5f6-7118-8607-51283e239dee",
+      "time": "2026-09-18 23:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen government forces said artillery units destroyed nine Houthi combat vehicles on the western Marib front; all occupants were killed."
+    },
+    {
+      "id": "5102565",
+      "time": "2026-09-18 23:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：聯合國安理會第三輪意向投票結果顯示，新任秘書長人選尚未達成共識。"
+    },
+    {
+      "id": "mkt:01a0b51b-e2e6-7118-8607-4b4bb709e9af",
+      "time": "2026-09-18 23:21:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Virginia's governor said he will ban data centers from signing nondisclosure agreements and require server farms to undergo stricter permitting and meet clean-energy requirements."
+    },
+    {
+      "id": "5102564",
+      "time": "2026-09-18 23:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗吉尼亞州州長表示，該州將禁止資料中心相關保密協議，對這類伺服器倉儲設施實施更嚴格的審批，並設定清潔能源強制要求。"
+    },
+    {
+      "id": "mkt:01a0b51b-987e-7118-8607-418bb47bb1a8",
+      "time": "2026-09-18 23:21:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Cleveland Fed paper: AI price cuts unlock macro gains more than expanding usage】Cleveland Fed (one of the Federal Reserve’s 12 regional banks) released a model-based paper finding permanent AI price cuts produce larger long-run output gains than merely increasing AI usage share. In the baseline model, doubling AI usage from ~2.4% to 4.8% raises AI capital stock ~81% but, because existing AI capital remains scarce, creates a bottleneck that lowers long-run output by about 1.9%. A permanent 50% decline in AI prices increases effective AI capital ~89% and raises long-run output by roughly 1%. Simultaneous price declines and greater usage are mutually reinforcing—price cuts relieve capital scarcity while higher usage boosts the marginal output of new AI capital—but in the paper’s baseline the combined output effect is still smaller than the price cut alone. The authors define AI capital as firms’ durable AI-related hardware stock, modeled as a distinct production factor akin to plant and equipment."
+    },
+    {
+      "id": "5102563",
+      "time": "2026-09-18 23:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國達飛海運：本次緊急燃油附加費將取代現行費率，自 10 月 1 日起生效。"
+    },
+    {
+      "id": "5102562",
+      "time": "2026-09-18 23:20:14",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "法國達飛海運： 因油價大幅上漲，集團將新增一項緊急燃油附加費。"
+    },
+    {
+      "id": "mkt:01a0b51a-8325-7118-8607-3cdf07b271d7",
+      "time": "2026-09-18 23:20:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "France's CMA CGM will implement a new emergency fuel surcharge, citing sharp price increases."
+    },
     {
       "id": "5102561",
       "time": "2026-09-18 23:19:08",
@@ -122777,40 +122899,6 @@
         "Impact bullish"
       ],
       "text": "Tesla (TSLA.O): Semi truck set to enter European market imminently."
-    },
-    {
-      "id": "5090157",
-      "time": "2026-09-11 23:27:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Stellantis 將投資超 10 億歐元，在法國生產新款廂式貨車。"
-    },
-    {
-      "id": "5090156",
-      "time": "2026-09-11 23:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特斯拉：Semi 電動卡車即將登陸歐洲。"
-    },
-    {
-      "id": "5090155",
-      "time": "2026-09-11 23:23:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：GTCR 正洽談收購軟體廠商 SPS Commerce。"
-    },
-    {
-      "id": "5090154",
-      "time": "2026-09-11 23:23:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國股市有望結束6月以來最長連跌 科技股受甲骨文提振】美國股市在動盪一週的最後階段迎來上漲，油價下跌緩和了對通脹壓力的擔憂。紐約時間11:02，標普500指數和道指上漲0.8%，納斯達克100指數上漲0.9%。美股有望結束6月以來最長的連跌走勢。美國消費者價格指數顯示，在伊朗戰爭、關稅以及資料中心建設帶來的持續壓力下，美國通脹上月朝美聯儲目標回落的進展仍然有限。不過，22V Research的Peter Williams表示，市場反應似乎表明，在投資者擔憂政策過度寬鬆或進一步加劇通脹的背景下，通脹資料“剛好偏熱到足以促使美聯儲收緊政策”，反而可能是一件好事。Lombard Odier Investment Managers的Florian Ielpo表示：“這顯然不是市場此前擔心的那種通脹報告，但也並不足以徹底地解決有關美國通脹的問題。”與此同時，甲骨文雲端計算業務增速快於預期，為科技股交易帶來新的提振。微軟計劃將資料中心容量擴大至目前的三倍以上，也被市場視為積極訊號。"
     }
   ]
 }
