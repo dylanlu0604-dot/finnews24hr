@@ -1,7 +1,130 @@
 {
-  "updated": "2026-09-18 14:49:13",
-  "count": 13319,
+  "updated": "2026-09-18 14:53:05",
+  "count": 13332,
   "items": [
+    {
+      "id": "te:markets:584906",
+      "time": "2026-09-18 14:52:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Weekly Decline Extends to 3rd Straight Period — The ASX 200 finished flat at 8,731 on Friday, following recent gains, with strength in tech, industrial services, and non-energy minerals offset by weakness in healthcare, energy names, and consumer non-durables. Early gains faded after Reserve Bank of Australia's Governor Michele Bullock struck a hawkish tone in parliament, warning inflation remains stubbornly high and upside risks are materializing, keeping the door open for further hikes. Meanwhile, U.S. stock futures firmed on softer oil prices and U.S. Treasury yields. Heavyweight BHP Group climbed 1.4%, while gold miners Evolution Mining (4.4%) and Northern Star Resources (2.4%) also advanced. In contrast, the big four banks slipped between 0.2% and 1.9%, with Xero (-4.1%) and Bluescope (-3.1%) also lagging. For the week, the benchmark index eased 0.1%, its third straight decline, as caution grew ahead of Australia's labor data for August, due next week, after July’s surprise rise in unemployment and drop in jobs."
+    },
+    {
+      "id": "mkt:01a0b349-2b2c-7118-85f7-608a8aa527c5",
+      "time": "2026-09-18 14:51:51",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said spring wage negotiations in fiscal 2027 will be key to whether trend inf stabilizes."
+    },
+    {
+      "id": "5101384",
+      "time": "2026-09-18 14:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國“里根”號航母完成大修 或將於明年部署】據美國《國家利益》雙月刊網站17日報道，美國海軍說，經過18個月維修保養，美國海軍“里根”號航空母艦近日完成海上試航，已基本做好執行任務的準備。 “里根”號是尼米茲級核動力航空母艦，自2003年開始服役。報道說，這是“里根”號首次大修。該航母在2025年3月開始在皮吉特灣海軍造船廠和中級維護基地進行結構維修、船體保護和技術升級。其作戰系統、電子裝置和生活區等也進行了升級。 報道說，“里根”號航母可能於2027年春夏開始下一次部署。（新華社）"
+    },
+    {
+      "id": "5101383",
+      "time": "2026-09-18 14:51:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：2027財年春季工資談判將成為判斷通脹趨勢能否企穩的關鍵。"
+    },
+    {
+      "id": "mkt:01a0b348-5b32-7118-85f7-5df5227d4527",
+      "time": "2026-09-18 14:50:58",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said core inflation is very close to the BANK OF JAPAN's 2% target."
+    },
+    {
+      "id": "5101382",
+      "time": "2026-09-18 14:50:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨主力合約跳水漲幅收窄至不足1%，現報2143點，此前一度漲超6%。"
+    },
+    {
+      "id": "mkt:01a0b347-8a36-7118-85f7-515d8ac410d3",
+      "time": "2026-09-18 14:50:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor Ueda said he wants to monitor whether underlying inflation will stabilise at around 2%. He said the Bank will watch whether trend inflation, once it reaches 2% around end-FY2026 through FY2027, can be maintained at that level."
+    },
+    {
+      "id": "5101381",
+      "time": "2026-09-18 14:49:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們希望觀察趨勢通脹在2026財年末左右達到2%後，能否在2027財年繼續維持在這一水平。"
+    },
+    {
+      "id": "5101380",
+      "time": "2026-09-18 14:49:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我希望觀察核心通脹能否在2%左右企穩。"
+    },
+    {
+      "id": "5101379",
+      "time": "2026-09-18 14:49:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼當局在爪哇海翻沉客輪附近打撈出遇難者遺體。"
+    },
+    {
+      "id": "5101378",
+      "time": "2026-09-18 14:49:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方國信旗下內蒙古科技公司增資至11億 增幅10%】天眼查App顯示，近日，內蒙古東方國信科技有限公司發生工商變更，註冊資本由10億人民幣增至11億人民幣，增幅10%。該公司成立於2018年1月，法定代表人為韓野，經營範圍含第一類增值電信業務、第二類增值電信業務、認證服務、網路與資訊保安軟體開發、人工智慧應用軟體開發、軟體開發、資訊諮詢服務等。股東資訊顯示，該公司由北京東方國信科技股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a0b346-8e88-7118-85f7-4ac08d07a3f5",
+      "time": "2026-09-18 14:49:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia ramps use of modified RM48U training missiles, may be preserving precision stockpiles for winter offensive】Ukrainian official data show Russia has used large numbers of modified training missiles (RM48U), low‑precision weapons originally for air‑defense target practice, driving July–early August launches to record levels. Of 228 ballistic and hypersonic missiles fired in that period, RM48U accounted for more than half, a deployment scale not previously reported that helps explain Moscow’s ability to expand summer strikes without rapidly depleting Iskander and other precision attack missiles. RUSI senior researcher Sidharth Kaushal said mass RM48U launches can exhaust Ukraine’s interceptor stocks and hit lower‑value targets while conserving advanced missiles—Iskander, KN‑23 and Zircon—for a possible intensified winter ballistic campaign. Ukrainian tallies also show Iskander launches fell from over 100 the prior month to 38 as RM48U strikes surged in July."
+    },
+    {
+      "id": "mkt:01a0b346-7788-7118-85f7-422ab0feb870",
+      "time": "2026-09-18 14:48:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xinke Materials: no overall capacity expansion planned for copper sheet and strip】At its Sept. 18, 2026 interim results briefing, Xinke Materials said it has no overall expansion plan for copper sheet and strip. The company added that ongoing technology innovation and upgrades in precision manufacturing are driving a structural upgrade across its full strip product range."
+    },
     {
       "id": "te:markets:584904",
       "time": "2026-09-18 14:48:42",
