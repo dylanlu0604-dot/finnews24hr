@@ -1,7 +1,61 @@
 {
   "date": "2026-09-19",
-  "count": 372,
+  "count": 378,
   "items": [
+    {
+      "id": "mkt:01a0b66b-3cc4-7118-860c-8dfa24c96b9f",
+      "time": "2026-09-19 05:27:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Anthropic has delayed its planned IPO to November."
+    },
+    {
+      "id": "5102812",
+      "time": "2026-09-19 05:27:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院： 國務卿魯比奧告知韓國，在霍爾木茲海峽開展合作至關重要。"
+    },
+    {
+      "id": "5102811",
+      "time": "2026-09-19 05:27:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Anthropic 的 IPO 時間仍有可能變動。"
+    },
+    {
+      "id": "5102810",
+      "time": "2026-09-19 05:27:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國國務卿魯比奧與韓國外長承諾開展晶片領域合作。"
+    },
+    {
+      "id": "mkt:01a0b669-8b16-7118-860c-825e24fc890b",
+      "time": "2026-09-19 05:26:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News, citing Arab sources, said Yemeni Houthi forces launched missile and drone strikes on King Khalid Air Base in Khamis Mushait, Saudi Arabia."
+    },
+    {
+      "id": "5102809",
+      "time": "2026-09-19 05:25:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 將原定 IPO 時間推遲至 11 月。"
+    },
     {
       "id": "5102808",
       "time": "2026-09-19 05:20:38",
