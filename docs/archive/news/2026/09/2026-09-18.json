@@ -1,7 +1,64 @@
 {
   "date": "2026-09-18",
-  "count": 542,
+  "count": 548,
   "items": [
+    {
+      "id": "5100805",
+      "time": "2026-09-18 08:18:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌3個基點至2.960%。"
+    },
+    {
+      "id": "5100804",
+      "time": "2026-09-18 08:18:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.3%，德國DAX指數期貨下滑0.5%，英國富時指數期貨微跌0.2%。"
+    },
+    {
+      "id": "mkt:01a0b1e0-ca4e-7118-85eb-fa2aee0fcd63",
+      "time": "2026-09-18 08:18:14",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year government bond yield fell 3bp to 2.960%."
+    },
+    {
+      "id": "mkt:01a0b1df-5996-7118-85eb-f6713aefa959",
+      "time": "2026-09-18 08:16:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "New Zealand's foreign ministry spokesperson said New Zealand has not discussed with the EU the prospect of becoming a joint member state."
+    },
+    {
+      "id": "5100803",
+      "time": "2026-09-18 08:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭外交部發言人：未與歐盟就紐西蘭成為歐盟聯席會員國一事進行過討論。"
+    },
+    {
+      "id": "mkt:01a0b1de-2743-7118-85eb-ed73c0f4a167",
+      "time": "2026-09-18 08:15:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose 1.00% intraday."
+    },
     {
       "id": "5100802",
       "time": "2026-09-18 08:14:47",

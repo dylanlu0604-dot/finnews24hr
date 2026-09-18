@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-18 08:15:14",
+  "updated": "2026-09-18 08:18:57",
   "count": 13320,
   "items": [
+    {
+      "id": "5100805",
+      "time": "2026-09-18 08:18:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌3個基點至2.960%。"
+    },
+    {
+      "id": "5100804",
+      "time": "2026-09-18 08:18:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.3%，德國DAX指數期貨下滑0.5%，英國富時指數期貨微跌0.2%。"
+    },
+    {
+      "id": "mkt:01a0b1e0-ca4e-7118-85eb-fa2aee0fcd63",
+      "time": "2026-09-18 08:18:14",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year government bond yield fell 3bp to 2.960%."
+    },
+    {
+      "id": "mkt:01a0b1df-5996-7118-85eb-f6713aefa959",
+      "time": "2026-09-18 08:16:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "New Zealand's foreign ministry spokesperson said New Zealand has not discussed with the EU the prospect of becoming a joint member state."
+    },
+    {
+      "id": "5100803",
+      "time": "2026-09-18 08:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭外交部發言人：未與歐盟就紐西蘭成為歐盟聯席會員國一事進行過討論。"
+    },
+    {
+      "id": "mkt:01a0b1de-2743-7118-85eb-ed73c0f4a167",
+      "time": "2026-09-18 08:15:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose 1.00% intraday."
+    },
     {
       "id": "5100802",
       "time": "2026-09-18 08:14:47",
@@ -122497,71 +122554,6 @@
         "觀點"
       ],
       "text": "【國金證券：GPT-6 Astra金融投研任務提升明顯】國金證券研報表示，9月3日，OpenAI釋出GPT-6 Astra，支援約105萬Token上下文和最高128K Token輸出，重點提升程式設計、研究、Computer Use及複雜多步驟任務能力。模型能夠結合推理、程式碼和工具呼叫，完成從需求理解、任務執行到結果檢查和成果交付的完整流程。"
-    },
-    {
-      "id": "mkt:01a08dd3-bd9e-7118-8537-8d0d2e76c603",
-      "time": "2026-09-11 08:17:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "9984.T",
-        "6857.T"
-      ],
-      "text": "Japan's Nikkei 225 fell 3.00% intraday to 63,229.63 points. Kioxia shares dropped 6.6%, SoftBank Group fell 6.3% and Advantest declined 6.5%."
-    },
-    {
-      "id": "mkt:01a08dd3-2347-7118-8537-80365bd694a4",
-      "time": "2026-09-11 08:16:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Euro STOXX 50 fell 0.3%; DAX futures down 0.3%; FTSE futures down 0.1%."
-    },
-    {
-      "id": "5088431",
-      "time": "2026-09-11 08:16:48",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日經225指數跌幅擴大至3%】日經225指數跌幅進一步擴大，現跌3.01%，報63304.49點。鎧俠股價下跌6.6%，軟銀集團下跌6.3%，愛德萬測試下跌6.5%"
-    },
-    {
-      "id": "5088429",
-      "time": "2026-09-11 08:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省省長王清憲與稀土材料領域院士專家和重點企業代表座談】據安徽日報，9月10日，中國稀土行業協會磁性材料有關會議在合肥召開。安徽省省長王清憲與幹勇、都有為、沈保根、張躍、蔣成保、李殿中、李衛、謝建新、聶祚仁、張聯盟、彭壽、鄧龍江等參會院士專家和重點企業代表座談。王清憲指出，安徽堅持以科技創新引領產業創新，加快新材料與新能源汽車、具身智慧等產業相互賦能、協同發展，為稀土材料技術攻關和成果轉化提供了豐富場景和廣闊空間。希望進一步加強對接合作，共同推動稀土產業高質量發展。"
-    },
-    {
-      "id": "5088428",
-      "time": "2026-09-11 08:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【OpenAI終止“1美元年費”協議 向美國政府機構提供模型五折優惠】據美國總務管理局(GSA)宣告，OpenAI將結束一項允許政府機構每年僅支付1美元即可使用其模型的試點計劃，轉而採用按使用量計費模式，聯邦僱員將能夠以標準價格五折的優惠使用相關技術。為了推動其模型普及，OpenAI於去年8月加入GSA採購平臺OneGov。該平臺允許聯邦機構大規模採購人工智慧軟體。媒體此前報道稱，首年每年1美元的協議，是美國政府中央採購機構迄今談成的最大幅度科技產品折扣。GSA表示，在此期間，350萬名聯邦僱員獲得了ChatGPT使用許可權，僅ChatGPT和其他AI模型就幫助政府節省了14億美元成本。儘管新方案較去年的協議有所漲價，但五折優惠旨在幫助各機構更容易測試和推廣人工智慧工具，包括OpenAI最新的GPT-6 Astra模型。OpenAI計劃於週四宣佈，將把這一優惠從聯邦政府擴大至州政府、地方政府及部落政府。這項與美國政府達成的協議將於10月1日生效，有效期超過兩年。"
-    },
-    {
-      "id": "te:markets:582938",
-      "time": "2026-09-11 08:15:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Drop Ahead of US CPI Report — Silver traded around $63.5 an ounce on Friday after tumbling over 5% in the previous session, as investors braced for the US consumer price index report that could reinforce expectations for a Federal Reserve rate hike next week. Data released Thursday showed US producer prices accelerated in August as the Iran war pushed wholesale energy costs higher. Markets are now pricing in roughly a 71% probability of a 25-basis-point Fed rate increase next week, up from 61% before the PPI data. Silver also faced pressure from surging oil prices amid the escalating US-Iran conflict, fueling concerns over rising inflation. Meanwhile, Treasury yields jumped following lower-than-expected purchases by the US Treasury Department during its first expanded buyback operation. Non-interest-bearing assets such as silver tend to underperform when yields rise. Silver is on track to lose about 4% this week, marking its third straight weekly decline."
     }
   ]
 }
