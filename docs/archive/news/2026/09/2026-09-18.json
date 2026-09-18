@@ -1,7 +1,152 @@
 {
   "date": "2026-09-18",
-  "count": 711,
+  "count": 726,
   "items": [
+    {
+      "id": "mkt:01a0b22b-7c12-7118-85ed-af643222d886",
+      "time": "2026-09-18 09:39:49",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO concept stocks rallied. Mingpu Guangci hit the daily limit; Taichen Guang gained over 9%. Changxin Bochuang, Liante Technology, Sihui Fushi and Taijin Xinneng also advanced."
+    },
+    {
+      "id": "5100922",
+      "time": "2026-09-18 09:39:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【通訊裝置板塊短線走高，銘普光磁漲停】通訊裝置板塊短線走高，銘普光磁漲停，太辰光、浩瀚深度漲超10%，聯特科技、長芯博創、廣哈通訊、美格智慧、利爾達跟漲。"
+    },
+    {
+      "id": "5100921",
+      "time": "2026-09-18 09:39:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌3%，現報6302.00元。"
+    },
+    {
+      "id": "5100920",
+      "time": "2026-09-18 09:39:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樞途科技完成近億元Pre-A輪融資】近日，樞途科技完成近億元人民幣Pre-A輪融資，本輪由鼎暉百孚、鯤鵬基金（大資料方向國家級基金）聯合領投，廣州產投、億合資本聯合投資，老股東趨勢投資超額追投。本輪融資將進一步支援觸覺技術的研發與驗證，推動SynaTac的技術與產品迭代，使樞途在持續完善資料產品、提升交付能力的同時，拓展面向機器人真實執行的業務佈局。"
+    },
+    {
+      "id": "te:markets:584776",
+      "time": "2026-09-18 09:38:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Prices Ease — US heating oil prices eased to around $5.05 per gallon, retreating from a record high of $5.26 reached earlier this week, as rising inventories and expectations of alternative routes for Middle Eastern barrels offered some respite from tight distillate supplies. EIA data showed distillate inventories, including diesel and heating oil, rose by 1.6 million barrels in the week ended September 11 but remained 13% below their five-year average. Meanwhile, Saudi Arabia was reportedly seeking to restore about half the capacity of its East-West oil pipeline within days after drone attacks halted the key link to the Red Sea, while offering additional crude cargoes to Asian refiners via ship-to-ship transfers off Oman’s Sohar port. Still, supply risks persisted as Saudi Arabia and Iran-backed Houthi forces exchanged fresh strikes. With winter approaching, distillate demand could strengthen, while refinery maintenance could constrain production and put further pressure on already-tight supplies."
+    },
+    {
+      "id": "mkt:01a0b229-f1d2-7118-85ed-a79029577c75",
+      "time": "2026-09-18 09:38:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active coking coal futures contract fell 6.00% intraday to 1,515.50 yuan/ton."
+    },
+    {
+      "id": "mkt:01a0b229-d416-7118-85ed-9912b0c2a382",
+      "time": "2026-09-18 09:38:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share culture and media sector jumped intraday; Inner Mongolia Xinhua hit a third consecutive daily limit-up. Guomai Culture, Xuanya International and Xinhua WinShare also advanced."
+    },
+    {
+      "id": "5100919",
+      "time": "2026-09-18 09:37:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌6%，現報1515.50元。"
+    },
+    {
+      "id": "mkt:01a0b229-369a-7118-85ed-94d65e320309",
+      "time": "2026-09-18 09:37:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NDRC, NEA and national mine safety regulator order measures to stabilize coal production and supply】China's NDRC, NEA and the National Mine Safety Administration issued a joint notice directing coal-producing provinces and coal firms to, while ensuring safety, accelerate measures to stabilize production and secure supply. The notice mandates stronger monitoring and dispatch, optimized production planning, expedited mine resumptions and full-capacity restarts, and faster acceptance of jointly trial-run mines to support a steady rebound in coal output. It also requires tighter signing and performance of medium- and long-term thermal-coal contracts, use of imports to supplement domestic supply, and advancement of follow-up coal capacity construction. Authorities said they will enhance coordination, guide implementation, adjust policies and, where appropriate, timely release coal-capacity reserves to stabilize production and market functioning."
+    },
+    {
+      "id": "5100916",
+      "time": "2026-09-18 09:37:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5100915",
+      "time": "2026-09-18 09:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局等部門部署煤炭安全穩產保供工作】近日，國家發展改革委、國家能源局、國家礦山安監局聯合印發通知，多措並舉加快推進煤炭穩產保供。通知指出，各產煤省（自治區）和煤炭企業要在確保安全的前提下，全力做好煤炭穩產保供相關工作，持續抓好監測排程，不斷最佳化生產組織，積極穩妥推進煤礦復產達產，加快聯合試運轉煤礦驗收，推動煤炭產量平穩回升，為經濟增長和能源保供提供有力支撐。同時，通知對電煤中長期合同簽訂履約、發揮進口補充調劑作用、推進煤炭接續產能建設提出要求。下一步，有關部門將加強統籌協調，指導各產煤省（自治區）和煤炭企業抓緊落實各項工作部署，調整完善政策舉措，適時釋放煤炭產能儲備，全力穩定煤炭生產供應，促進市場平穩執行。（國家能源局）"
+    },
+    {
+      "id": "mkt:01a0b229-0453-7118-85ed-8ced71fcf337",
+      "time": "2026-09-18 09:37:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share power grid equipment sector rose after choppy trading, with Zhongdian Xinlong going straight to a limit-up and peers Taiyang Cable, Shunna, Jinguan Electric and Weiteng Electric also higher."
+    },
+    {
+      "id": "5100914",
+      "time": "2026-09-18 09:37:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文化傳媒板塊短線走高，內蒙新華三連板】文化傳媒板塊短線走高，內蒙新華三連板，國脈文化、宣亞國際、新華文軒跟漲。"
+    },
+    {
+      "id": "5100913",
+      "time": "2026-09-18 09:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CRO概念盤初走高 金石亞藥漲超9%】CRO概念盤初走高，截至發稿，金石亞藥漲超9%，近岸蛋白、義翹神州、康希諾等跟漲。"
+    },
+    {
+      "id": "5100912",
+      "time": "2026-09-18 09:36:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念表現活躍 萬向錢潮逼近漲停】人形機器人概念表現活躍，萬向錢潮逼近漲停，拓普集團、三花智控、方正電機、豐光精密跟漲。"
+    },
     {
       "id": "mkt:01a0b227-f293-7118-85ed-81034eec2076",
       "time": "2026-09-18 09:35:57",
