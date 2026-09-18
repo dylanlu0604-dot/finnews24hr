@@ -1,7 +1,114 @@
 {
-  "updated": "2026-09-18 14:22:33",
-  "count": 13226,
+  "updated": "2026-09-18 14:26:21",
+  "count": 13228,
   "items": [
+    {
+      "id": "5101317",
+      "time": "2026-09-18 14:25:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股部分光通訊股午後持續上揚，曦智科技漲幅擴大至逾24%，中際旭創漲超4%。"
+    },
+    {
+      "id": "5101316",
+      "time": "2026-09-18 14:25:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報5288.00元。"
+    },
+    {
+      "id": "mkt:01a0b330-3a86-7118-85f5-e388af4cd52a",
+      "time": "2026-09-18 14:24:37",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Aug 2026 securities app MAU 183.0 mln; MoM -1.87%】Analysys Qianfan: aggregate monthly active users of securities apps in Aug 2026 were about 183.0 mln, down 1.87% MoM and up 5.78% YoY, aligned with a pullback in market turnover. Among broker-owned apps the top 20 all saw MoM declines; two broker apps remain above 10.0 mln MAU — Huatai Securities’ Zhangle Caifutong 12.7241 mln (MoM -1.60%) and Guotai Haitong’s Junhong 11.1689 mln (MoM -1.35%)."
+    },
+    {
+      "id": "mkt:01a0b330-2e1c-7118-85f5-df138e67e8fb",
+      "time": "2026-09-18 14:24:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Kiuchi said he would not comment on market volatility."
+    },
+    {
+      "id": "mkt:01a0b330-12ed-7118-85f5-d5ce24724347",
+      "time": "2026-09-18 14:24:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish"
+      ],
+      "text": "China Vanke's A- and H-shares both rose; A-shares hit the daily price limit, H-shares gained more than 7%."
+    },
+    {
+      "id": "mkt:01a0b32f-d5b4-7118-85f5-cc25669887b2",
+      "time": "2026-09-18 14:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude fell more than 1.0% intraday, trading at $95.53/bbl and $99.48/bbl, respectively."
+    },
+    {
+      "id": "5101315",
+      "time": "2026-09-18 14:24:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟審議官員：不對市場波動置評。"
+    },
+    {
+      "id": "5101313",
+      "time": "2026-09-18 14:23:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【房地產板塊走高，萬科A漲停】房地產板塊走高，萬科A漲停，中國武夷、招商蛇口、濱江集團、華髮股份、保利發展跟漲。"
+    },
+    {
+      "id": "mkt:01a0b32e-2d03-7118-85f5-c1f97e9d97cd",
+      "time": "2026-09-18 14:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: 140th Canton Fair to run Oct. 15–Nov. 4 in three phases in Guangzhou】MOFCOM assistant minister Zhang Li said at a State Council Information Office press briefing that the 140th China Import and Export Fair (Canton Fair) will be held in Guangzhou in three phases from Oct. 15 to Nov. 4."
+    },
+    {
+      "id": "5101312",
+      "time": "2026-09-18 14:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本煉油商出光興產從美國石油巨頭埃克森美孚購買了一些阿拉斯加即期原油。"
+    },
+    {
+      "id": "5101311",
+      "time": "2026-09-18 14:21:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部：第140屆廣交會將於10月15日至11月4日分三期在廣州舉辦】國務院新聞辦公室舉行新聞釋出會，介紹第140屆中國進出口商品交易會（廣交會）有關情況。商務部部長助理張力在會上介紹，第140屆廣交會將於10月15日至11月4日分三期在廣州舉辦。"
+    },
     {
       "id": "5101310",
       "time": "2026-09-18 14:21:19",
@@ -121487,95 +121594,6 @@
         "其他"
       ],
       "text": "法國央行行長穆蘭：消除債務會推高通貨膨脹和利率。"
-    },
-    {
-      "id": "mkt:01a08f24-c3b8-7118-8540-338f3413683d",
-      "time": "2026-09-11 14:25:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "AI Revolution",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【UK economy unexpectedly grows in July; third straight monthly beat】UK GDP rose 0.4% in July month-on-month, following a 0.3% increase in June and beating the market consensus of 0.0%, the ONS said. It is the third consecutive month of outperformance and could challenge expectations of a sharp slowdown in H2 2026, improving prospects for a stronger Q3. By sector, services output grew 0.4%—led by computer programming and AI-related firms—industrial production rose 0.2% and construction was up 0.1%; activity remained broadly resilient despite a sharp rise in household energy bills."
-    },
-    {
-      "id": "5088975",
-      "time": "2026-09-11 14:25:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長表示，9月1日至9日期間烏克蘭糧食出口量為63萬噸，其中谷物出口量為38萬噸。"
-    },
-    {
-      "id": "mkt:01a08f24-5538-7118-8540-2c4b06c53bb3",
-      "time": "2026-09-11 14:25:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Banque de France Governor Moulin said France does not need to add further uncertainty amid existing uncertainty."
-    },
-    {
-      "id": "5088974",
-      "time": "2026-09-11 14:25:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行行長穆蘭：法國需要在年底前就預算案進行投票表決；法國必須警惕債務成本。"
-    },
-    {
-      "id": "5088973",
-      "time": "2026-09-11 14:24:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "加密貨幣交易所KRAKEN：正在調查SUI（SUI）資金閘道器的一個問題，目前充值和提現可能會出現延遲。"
-    },
-    {
-      "id": "5088972",
-      "time": "2026-09-11 14:24:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：微升新鴻基地產目標價至168.3港元，料派息有提升空間】花旗發表研報指，新鴻基地產2026財年業績表現穩健，盈利符合預期，每股派息較該行預測高1%。該行對公司看法正面，目前預測2027至2029財年每股派息將分別達到4.2港元、4.45港元及4.8港元。2027財年目標香港發展物業銷售額達330億港元，考慮到2027財年已完工專案中有90%已預售，該行認為新地在推售餘貨時較有靈活性，定價能以利潤率為先，維持新地“買入”評級，目標價由168港元輕微上調至168.3港元，對應每股資產淨值約20%折讓不變。"
-    },
-    {
-      "id": "mkt:01a08f23-5587-7118-8540-206962f193ba",
-      "time": "2026-09-11 14:24:12",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Banque de France governor Mulan said France must reduce its fiscal deficit."
-    },
-    {
-      "id": "5088971",
-      "time": "2026-09-11 14:24:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨匯率回落，但長期看漲日元期權需求旺盛】期權交易員依舊看好日元長期前景，不受現貨市場短期波動影響。日元週四回吐本週部分漲幅，創下近三週最大跌幅；倫敦早盤時段，美元兌日元再度走低，下跌0.2%至154.05。一年期風險逆轉指標並未受現貨短期波動擾動，週五日元看漲溢價擴大至54個基點，為2月以來收盤最高水平。本月早些時候，該指標僅為10個基點。受日元現貨上漲影響，該貨幣對波動率偏斜指標短期端較一週前有所緩和；遠期期限的期權需求上升，反映市場對日元明年走勢的情緒發生轉變。"
-    },
-    {
-      "id": "5088970",
-      "time": "2026-09-11 14:23:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華潤創新發展深圳公司增資至67.45億】天眼查App顯示，近日，華潤創新發展（深圳）有限公司發生工商變更，註冊資本由62.45億人民幣增至67.45億人民幣。該公司成立於2017年8月，法定代表人為張福政，經營範圍包括企業管理諮詢、資訊諮詢服務、社會經濟諮詢服務等，由華潤資本管理有限公司、華潤生命科學集團有限公司共同持股。"
     }
   ]
 }

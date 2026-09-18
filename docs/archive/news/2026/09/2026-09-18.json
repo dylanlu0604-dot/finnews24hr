@@ -1,7 +1,114 @@
 {
   "date": "2026-09-18",
-  "count": 1235,
+  "count": 1246,
   "items": [
+    {
+      "id": "5101317",
+      "time": "2026-09-18 14:25:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股部分光通訊股午後持續上揚，曦智科技漲幅擴大至逾24%，中際旭創漲超4%。"
+    },
+    {
+      "id": "5101316",
+      "time": "2026-09-18 14:25:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報5288.00元。"
+    },
+    {
+      "id": "mkt:01a0b330-3a86-7118-85f5-e388af4cd52a",
+      "time": "2026-09-18 14:24:37",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Aug 2026 securities app MAU 183.0 mln; MoM -1.87%】Analysys Qianfan: aggregate monthly active users of securities apps in Aug 2026 were about 183.0 mln, down 1.87% MoM and up 5.78% YoY, aligned with a pullback in market turnover. Among broker-owned apps the top 20 all saw MoM declines; two broker apps remain above 10.0 mln MAU — Huatai Securities’ Zhangle Caifutong 12.7241 mln (MoM -1.60%) and Guotai Haitong’s Junhong 11.1689 mln (MoM -1.35%)."
+    },
+    {
+      "id": "mkt:01a0b330-2e1c-7118-85f5-df138e67e8fb",
+      "time": "2026-09-18 14:24:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Kiuchi said he would not comment on market volatility."
+    },
+    {
+      "id": "mkt:01a0b330-12ed-7118-85f5-d5ce24724347",
+      "time": "2026-09-18 14:24:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish"
+      ],
+      "text": "China Vanke's A- and H-shares both rose; A-shares hit the daily price limit, H-shares gained more than 7%."
+    },
+    {
+      "id": "mkt:01a0b32f-d5b4-7118-85f5-cc25669887b2",
+      "time": "2026-09-18 14:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude fell more than 1.0% intraday, trading at $95.53/bbl and $99.48/bbl, respectively."
+    },
+    {
+      "id": "5101315",
+      "time": "2026-09-18 14:24:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟審議官員：不對市場波動置評。"
+    },
+    {
+      "id": "5101313",
+      "time": "2026-09-18 14:23:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【房地產板塊走高，萬科A漲停】房地產板塊走高，萬科A漲停，中國武夷、招商蛇口、濱江集團、華髮股份、保利發展跟漲。"
+    },
+    {
+      "id": "mkt:01a0b32e-2d03-7118-85f5-c1f97e9d97cd",
+      "time": "2026-09-18 14:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: 140th Canton Fair to run Oct. 15–Nov. 4 in three phases in Guangzhou】MOFCOM assistant minister Zhang Li said at a State Council Information Office press briefing that the 140th China Import and Export Fair (Canton Fair) will be held in Guangzhou in three phases from Oct. 15 to Nov. 4."
+    },
+    {
+      "id": "5101312",
+      "time": "2026-09-18 14:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本煉油商出光興產從美國石油巨頭埃克森美孚購買了一些阿拉斯加即期原油。"
+    },
+    {
+      "id": "5101311",
+      "time": "2026-09-18 14:21:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部：第140屆廣交會將於10月15日至11月4日分三期在廣州舉辦】國務院新聞辦公室舉行新聞釋出會，介紹第140屆中國進出口商品交易會（廣交會）有關情況。商務部部長助理張力在會上介紹，第140屆廣交會將於10月15日至11月4日分三期在廣州舉辦。"
+    },
     {
       "id": "5101310",
       "time": "2026-09-18 14:21:19",
