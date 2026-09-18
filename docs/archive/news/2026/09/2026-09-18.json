@@ -1,7 +1,97 @@
 {
   "date": "2026-09-18",
-  "count": 726,
+  "count": 736,
   "items": [
+    {
+      "id": "mkt:01a0b22f-249f-7118-85ed-bd106125c64b",
+      "time": "2026-09-18 09:43:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $100/bbl, down 0.59% on the day; WTI fell 0.6% to $95.9/bbl."
+    },
+    {
+      "id": "5100930",
+      "time": "2026-09-18 09:43:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5993.00元。"
+    },
+    {
+      "id": "5100929",
+      "time": "2026-09-18 09:42:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10年運送旅客265.6萬人次 世界最大垂直升船機有多牛】今天（9月18日）是三峽升船機通航10週年。據長江三峽通航管理局統計資料，三峽升船機自2016年9月18日試通航以來，10年間，三峽升船機累計運送旅客265.6萬人次，透過貨物2180.3萬噸，充分發揮船舶過壩快速通道作用，為長江黃金水道充分釋放黃金效益提供了有力支援。（央視新聞）"
+    },
+    {
+      "id": "5100928",
+      "time": "2026-09-18 09:42:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報6054.00元。"
+    },
+    {
+      "id": "5100927",
+      "time": "2026-09-18 09:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦炭連續主力合約日內跌5%，現報1960.00元。"
+    },
+    {
+      "id": "mkt:01a0b22d-5990-7118-85ed-b47c82f62add",
+      "time": "2026-09-18 09:41:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "China A-share power sector rallied; Baitong Energy hit the daily limit, Mindong Power jumped over 6%, while Zhongmin Energy, Jinfang Energy, Jiawei New Energy and Huadian Liaoning also advanced. Goldman Sachs raised its US electricity-demand CAGR to 3.5% to 2030 from 3.2% and now forecasts 2030 data-center power demand about 170% higher than 2025 (vs ~117% forecast in March)."
+    },
+    {
+      "id": "5100926",
+      "time": "2026-09-18 09:41:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI推出面向法律行業的AI平臺Astra for Law】當地時間9月17日，OpenAI宣佈推出面向法律行業的AI平臺Astra for Law，該平臺基於OpenAI最新模型GPT-6 Astra，專門為律師事務所和法律科技公司設計。"
+    },
+    {
+      "id": "5100925",
+      "time": "2026-09-18 09:41:25",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲行長布洛克：近期的油價衝擊打擊了實際收入，使人們變得更窮。"
+    },
+    {
+      "id": "5100924",
+      "time": "2026-09-18 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股機器人概念股走強 雲跡漲近15%】截至發稿，雲跡(02670.HK)漲14.62%，翼菲科技(06871.HK)漲10.23%，來福諧波(03952.HK)漲2.74%。"
+    },
+    {
+      "id": "5100923",
+      "time": "2026-09-18 09:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明承認任職表現未能達到公眾預期。"
+    },
     {
       "id": "mkt:01a0b22b-7c12-7118-85ed-af643222d886",
       "time": "2026-09-18 09:39:49",

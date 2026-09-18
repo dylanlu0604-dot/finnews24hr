@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-18 09:40:28",
-  "count": 13297,
+  "updated": "2026-09-18 09:44:16",
+  "count": 13294,
   "items": [
+    {
+      "id": "mkt:01a0b22f-249f-7118-85ed-bd106125c64b",
+      "time": "2026-09-18 09:43:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $100/bbl, down 0.59% on the day; WTI fell 0.6% to $95.9/bbl."
+    },
+    {
+      "id": "5100930",
+      "time": "2026-09-18 09:43:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5993.00元。"
+    },
+    {
+      "id": "5100929",
+      "time": "2026-09-18 09:42:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10年運送旅客265.6萬人次 世界最大垂直升船機有多牛】今天（9月18日）是三峽升船機通航10週年。據長江三峽通航管理局統計資料，三峽升船機自2016年9月18日試通航以來，10年間，三峽升船機累計運送旅客265.6萬人次，透過貨物2180.3萬噸，充分發揮船舶過壩快速通道作用，為長江黃金水道充分釋放黃金效益提供了有力支援。（央視新聞）"
+    },
+    {
+      "id": "5100928",
+      "time": "2026-09-18 09:42:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報6054.00元。"
+    },
+    {
+      "id": "5100927",
+      "time": "2026-09-18 09:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦炭連續主力合約日內跌5%，現報1960.00元。"
+    },
+    {
+      "id": "mkt:01a0b22d-5990-7118-85ed-b47c82f62add",
+      "time": "2026-09-18 09:41:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "China A-share power sector rallied; Baitong Energy hit the daily limit, Mindong Power jumped over 6%, while Zhongmin Energy, Jinfang Energy, Jiawei New Energy and Huadian Liaoning also advanced. Goldman Sachs raised its US electricity-demand CAGR to 3.5% to 2030 from 3.2% and now forecasts 2030 data-center power demand about 170% higher than 2025 (vs ~117% forecast in March)."
+    },
+    {
+      "id": "5100926",
+      "time": "2026-09-18 09:41:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI推出面向法律行業的AI平臺Astra for Law】當地時間9月17日，OpenAI宣佈推出面向法律行業的AI平臺Astra for Law，該平臺基於OpenAI最新模型GPT-6 Astra，專門為律師事務所和法律科技公司設計。"
+    },
+    {
+      "id": "5100925",
+      "time": "2026-09-18 09:41:25",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲行長布洛克：近期的油價衝擊打擊了實際收入，使人們變得更窮。"
+    },
+    {
+      "id": "5100924",
+      "time": "2026-09-18 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股機器人概念股走強 雲跡漲近15%】截至發稿，雲跡(02670.HK)漲14.62%，翼菲科技(06871.HK)漲10.23%，來福諧波(03952.HK)漲2.74%。"
+    },
+    {
+      "id": "5100923",
+      "time": "2026-09-18 09:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明承認任職表現未能達到公眾預期。"
+    },
     {
       "id": "mkt:01a0b22b-7c12-7118-85ed-af643222d886",
       "time": "2026-09-18 09:39:49",
@@ -122199,132 +122289,6 @@
         "Importance 1"
       ],
       "text": "South Korean Shares Extend Slide — The benchmark KOSPI fell more than 2% to around 6,850 on Friday, extending losses from the previous session amid surging oil prices and higher US Treasury yields. WTI climbed above $100 per barrel, while Brent topped $107 amid escalating US-Iran tensions, raising concerns over inflation and further disruptions to oil supplies. Additionally, the US 10-year Treasury yield rose to its highest level since October 2023, while rate-hike bets for next week’s Fed meeting strengthened. Samsung Electronics and SK hynix led the decline, with both down nearly 4%, alongside losses in SK Square (-4.9%), Hyundai Motor (-1.9%), and LG Energy Solution (-2.2%). Separately, the BOK signaled it will assess the timing and pace of further rate hikes as inflation remains above target, with CPI accelerating to 3.1% in August. Meanwhile, South Korea’s exports surged 83% year-on-year in the first 10 days of September, led by semiconductor shipments that jumped 270% amid robust AI demand."
-    },
-    {
-      "id": "mkt:01a08e22-3370-7118-8539-3a00dbf635dc",
-      "time": "2026-09-11 09:43:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share tourism and hotel sector saw selective rallies; Qujiang Cultural Tourism and Guilin Tourism hit daily limit-up, Tianmuhu advanced, while China CYTS, Xi'an Catering and Huangshan Tourism pared losses."
-    },
-    {
-      "id": "5088580",
-      "time": "2026-09-11 09:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部等九部門：深化汽車與資訊通訊融合發展 拓展多場景適配網聯能力】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》。規劃提出，深化汽車與資訊通訊融合發展。面向重點城市和部分高速公路持續深化5G/5G-A（增強版5G）網路覆蓋，建設C-V2X（基於蜂窩行動通訊的車輛聯網技術）直連通訊路側裝置，構建高低搭配、泛在智聯、安全可靠的行動網路體系，提升服務汽車應用的網路能力。拓展多場景適配網聯能力，提升車端5G/5G-A與C-V2X直連通訊能力滲透率。推動直連衛星、北斗系統等技術裝車應用。有序推進車聯網專用號碼規劃核配以及無線電頻率資源供給。最佳化多型別算力基礎設施部署，加速異構算力排程共享。推動智慧網聯新能源汽車與網聯基礎設施協同發展，推動IPv6（網際網路協議第六版）技術應用。"
-    },
-    {
-      "id": "mkt:01a08e21-edfd-7118-8539-310d32cc3644",
-      "time": "2026-09-11 09:43:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Copper"
-      ],
-      "text": "A-share CPO concept sector rose in early trade after initial volatility. Wuhan Fangu, Guangdian Co. and Huasheng Tiancheng hit and remained at daily limit-up. Zhaolong Hulian, Xunjie Xing and Fenghua Hi-Tech also advanced."
-    },
-    {
-      "id": "mkt:01a08e21-2d6e-7118-8539-29410eb6b33b",
-      "time": "2026-09-11 09:42:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year bond yield rose 7.5 bps to 2.985%."
-    },
-    {
-      "id": "mkt:01a08e21-1dd7-7118-8539-2697e799c3a9",
-      "time": "2026-09-11 09:42:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Shanghai silver most-active futures contract on the Shanghai Futures Exchange fell 6.00% intraday to 15,435 yuan/kg."
-    },
-    {
-      "id": "5088579",
-      "time": "2026-09-11 09:41:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌6%，現報15435.00元。"
-    },
-    {
-      "id": "5088578",
-      "time": "2026-09-11 09:41:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "悉尼機場因空中交通管制員短缺導致航班中斷。"
-    },
-    {
-      "id": "5088577",
-      "time": "2026-09-11 09:41:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停】旅遊及酒店板塊區域性拉昇，曲江文旅、桂林旅遊觸及漲停，天目湖跟漲，中青旅、西安飲食、黃山旅遊跌幅收窄。"
-    },
-    {
-      "id": "mkt:01a08e20-7076-7118-8539-1ee8c74b54f8",
-      "time": "2026-09-11 09:41:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【China A-share nonferrous metals sector plunges; multiple nonferrous ETFs down >4%】China A-share nonferrous metals sector plunged. Nonferrous ETFs including E Fund Nonferrous ETF (560470) and GF Nonferrous ETF (159029), and industrial nonferrous ETFs such as Wanjia Industrial Nonferrous ETF (560860) and ChinaAMC Industrial Nonferrous ETF (515040) fell more than 4%."
-    },
-    {
-      "id": "5088576",
-      "time": "2026-09-11 09:41:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債<JP10YTN=JBTC>收益率上行7.5個基點，報2.985%。"
-    },
-    {
-      "id": "5088574",
-      "time": "2026-09-11 09:40:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九部門：加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，加強產能預警調控。嚴格執行《汽車產業投資管理規定》等產業政策，嚴格新建獨立新能源汽車企業專案條件。加大汽車企業依法兼併重組和跨區域整合力度，深入推進汽車生產企業集團化管理改革。透過市場化法治化方式推動落後低效產能有序退出，提升行業整體產能利用水平。加強動力電池產能預警和調控管理。"
-    },
-    {
-      "id": "5088573",
-      "time": "2026-09-11 09:40:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "豆包宣佈輸入法升級，完成全端支援。"
-    },
-    {
-      "id": "5088572",
-      "time": "2026-09-11 09:40:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【九部門：有序推進智慧網聯汽車准入和上路通行】工業和資訊化部等九部門印發《智慧網聯新能源汽車產業發展“十五五”規劃》提出，積極穩妥推進自動駕駛技術規模應用。開展自動駕駛乘用車、公交車、幹線物流、城市配送、特種作業等多場景示範應用。有序推進智慧網聯汽車准入和上路通行，支援搭載自動駕駛系統車輛規模應用。推動開展功能型無人車應用試點，建立健全相關制度規範。推進“車路雲一體化”發展應用。推動全國一、二線重點城市和部分國家高速公路加快數字化、網聯化升級，重要路口路段具備智慧感知、邊緣計算和通訊能力，加強城市道路和公路跨區域協同佈局，支援建設跨域連通的雲控基礎平臺，分級實現交通管控、交通事件等資訊上車，車車、車路協同感知與決策等功能場景規模化應用。推動新能源重卡規模應用。聚焦乾線物流、短途運輸等典型場景，積極推進新能源重卡規模應用。"
     }
   ]
 }
