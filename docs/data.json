@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-18 08:07:49",
+  "updated": "2026-09-18 08:11:32",
   "count": 13316,
   "items": [
+    {
+      "id": "5100795",
+      "time": "2026-09-18 08:10:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率下跌1個基點，至2.285%。"
+    },
+    {
+      "id": "mkt:01a0b1d9-f59e-7118-85eb-d1e5f5f82370",
+      "time": "2026-09-18 08:10:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 index opened up 33.30 points (0.38%) at 8,765.7 on Friday, Sep 18."
+    },
+    {
+      "id": "te:economy:584759",
+      "time": "2026-09-18 08:09:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Least in 25 Months — Japan’s food prices rose 3.1% year-on-year in August 2026, slowing from 3.5% in the previous month and marking the slowest increase since July 2024. Price pressures moderated across fresh vegetables (5.5% vs 6.5% in July), fresh fruit (0.1% vs 2.4%), dairy products and eggs (1.3% vs 3.5%), cakes and candies (5.0% vs 6.1%), meats (3.3% vs 3.9%), alcoholic beverages (0.4% vs 0.6%), and prepared foods (3.3% vs 3.5%). Meanwhile, cereal prices fell for a fourth straight month (-3.4% vs -2.2%). At the same time, rice prices dropped 15.7% year-on-year, extending their decline for a fourth consecutive month and marking the steepest fall since April 2005. In contrast, prices accelerated for fish and seafood (9.9% vs 9.0%), oils, fats and seasonings (4.0% vs 3.4%), beverages (6.0% vs 5.5%), and meals eaten out (2.1% vs 1.7%)."
+    },
+    {
+      "id": "5100794",
+      "time": "2026-09-18 08:09:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國與阿聯酋將討論國防、人工智慧和核能合作問題。"
+    },
+    {
+      "id": "5100793",
+      "time": "2026-09-18 08:08:34",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：澳大利亞債券收益率上升並不出乎意料。"
+    },
     {
       "id": "mkt:01a0b1d6-1d74-7118-85eb-cfe84cee5b41",
       "time": "2026-09-18 08:06:34",
@@ -122483,51 +122530,6 @@
         "市場"
       ],
       "text": "【昨日ETF資金整體淨流入101.90億元】據同花順iFinD資料顯示，2026年9月10日，ETF資金整體淨流入101.90億元，股票型淨流入25.31億元，寬基型淨流入24.47億元。當日ETF資金淨流入榜單排名前3依次為：海富通中證短融ETF（511360）淨流入16.17億元，華夏上證科創板50成份ETF（588000）淨流入8.52億元，華泰柏瑞南方東英恒生科技指數ETF(QDII)（513130）淨流入8.05億元。"
-    },
-    {
-      "id": "5088425",
-      "time": "2026-09-11 08:10:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【化身“陪跑者”，上海“營商夥伴計劃”已促成71項合作落地，意向金額超4億元】今年初，上海市市場監管局釋出了“共營・共贏營商夥伴計劃”實施方案。2026年9月10日，上海市市場監管局通報了這項計劃啟動以來的整體推進情況：截至目前，全市已有13個區啟動了16個產業鏈“共營・共贏營商夥伴計劃”，1455家企業參與“產業生態聯盟”，受聘96名產業聯絡官，完成聯絡對接事項284項，舉辦伙伴開放日活動48次，參與企業2448家，召開企業圓桌會57次，參與企業1143家；透過該計劃，促成合作意向71個，涉及意向金額（不完全統計）4.06億元。"
-    },
-    {
-      "id": "mkt:01a08dcd-5f2d-7118-8537-793282dc071a",
-      "time": "2026-09-11 08:10:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 91.3 points lower, or 1.04%, at 8,728.1 on Sep 11 (Friday)."
-    },
-    {
-      "id": "5088424",
-      "time": "2026-09-11 08:09:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceXAI團隊將從零開始建立一家公司 】下週，SpaceXAI團隊將從零開始建立一家公司，並進行直播。 “我們將使用Grok Bot來完成構建的每一個部分——從創意構思和產品開發，到實際工程工作和部署。”"
-    },
-    {
-      "id": "mkt:01a08dcc-1240-7118-8537-74b378e22d9e",
-      "time": "2026-09-11 08:09:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources say SpaceX's AI team will form a new company from scratch next week and livestream the entire process."
-    },
-    {
-      "id": "5088423",
-      "time": "2026-09-11 08:07:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守108美元/桶，日內漲0.33%。"
     }
   ]
 }
