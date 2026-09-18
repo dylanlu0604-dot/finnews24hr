@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-18 08:04:05",
-  "count": 13324,
+  "updated": "2026-09-18 08:07:49",
+  "count": 13316,
   "items": [
+    {
+      "id": "mkt:01a0b1d6-1d74-7118-85eb-cfe84cee5b41",
+      "time": "2026-09-18 08:06:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huatai Securities: Big three airlines' August load factors strong; sector rebound awaits oil-price decline】Huatai Securities reports that in August peak travel the big three carriers (Air China, China Eastern, China Southern) plus Spring Airlines and Juneyao saw ASK +5.2% YoY and RPK +7.6% YoY; load factor rose 2ppt to a record 88.8% and ticket pricing showed some improvement. However, July–August domestic fares including fuel surcharges rose only 1.0% YoY—extreme weather and demand/capacity mismatches limited pricing and weakened oil-price pass-through. Huatai says a sector rebound will await lower oil prices; monitor high-frequency Mid-Autumn and National Day travel data. It expects cautious capacity deployment in Q4, which could support YoY revenue performance, and remains constructive on a mid-to-long-term recovery in the transport sector."
+    },
+    {
+      "id": "mkt:01a0b1d4-b335-7118-85eb-c1d8566af767",
+      "time": "2026-09-18 08:05:01",
+      "tags": [
+        "MKT News",
+        "QAN.AX",
+        "Impact bearish"
+      ],
+      "text": "Union said hundreds of Qantas ground staff will strike next week over pay."
+    },
     {
       "id": "5100792",
       "time": "2026-09-18 08:03:03",
@@ -122508,100 +122528,6 @@
         "焦點"
       ],
       "text": "布倫特原油失守108美元/桶，日內漲0.33%。"
-    },
-    {
-      "id": "5088422",
-      "time": "2026-09-11 08:07:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【全球國債收益率飆升 對沖基金Andromeda示警信貸緊縮並稱或已撞上冰山】總部位於倫敦的信貸對沖基金Andromeda Capital Management表示，全球政府債券收益率上升正對公司債市場構成日益嚴重的威脅。該公司投資長兼聯合創始人Alberto Gallo表示，美國政府試圖在不去平衡預算或減少債務的情況下，維持美元強勢並壓低美國國債收益率。他說，但公共借貸規模巨大，赤字不斷膨脹，這種做法難以為繼。“要麼得讓長期收益率上升；這可能導致信貸緊縮，尤其是在AI領域借貸如此頻繁的情況下，要麼得讓貨幣貶值，”Gallo表示。 “政府債券收益率如此之高，我們可能已經撞上了一些冰山，”Gallo說道，他將這種情況比作泰坦尼克號的災難。"
-    },
-    {
-      "id": "mkt:01a08dca-5af0-7118-8537-6d4ce2c52e7c",
-      "time": "2026-09-11 08:07:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【CITIC Securities: container freight broadly higher; oil tanker rates remain elevated】CITIC Securities research note: container shipping market overall stable but route divergence persists; composite freight index has risen six consecutive weeks. North America lanes firm modestly on seasonal restocking and Panama Canal flow restrictions, with US West up slightly more than US East. Europe/Mediterranean demand steady and rates continue to decline. South America demand is growing, pushing rates higher. Intra-Asia trades are rising on seasonal replenishment. Oil tanker freight stays at elevated levels."
-    },
-    {
-      "id": "5088421",
-      "time": "2026-09-11 08:06:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守103美元/桶，日內漲0.50%。"
-    },
-    {
-      "id": "5088420",
-      "time": "2026-09-11 08:06:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌1%，報8,728.20點。"
-    },
-    {
-      "id": "5088419",
-      "time": "2026-09-11 08:06:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【需求過大，OpenAI宣佈暫停200美元Pro 20X新增訂閱，已訂使用者不受影響】OpenAI首席產品官Tibo在X上發文稱，為確保現有使用者獲得良好體驗並流暢訪問GPT-6 Astra，將暫停接受200美元檔Pro 20X訂閱服務的新增訂閱。"
-    },
-    {
-      "id": "5088418",
-      "time": "2026-09-11 08:05:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【佛羅里達州州長德桑蒂斯抨擊特朗普的5000美元支票計劃：將帶來“更多債務和更多通脹”】佛羅里達州州長羅恩・德桑蒂斯抨擊美國總統唐納德・特朗普的提案 —— 即如果共和黨在中期選舉守住席位，就向美國人發放 5000 美元，他擔憂這筆現金投放只會進一步推高通脹。這位長期主張嚴控聯邦預算的共和黨州長週四表示，總統或國會應當考慮以減稅的方式提供財政紓困，而非推行這項預計將讓美國付出逾 1 萬億美元代價的發錢計劃。"
-    },
-    {
-      "id": "mkt:01a08dc8-767a-7118-8537-66e3b4c19e4c",
-      "time": "2026-09-11 08:05:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude briefly fell $1 to $99.68/bbl."
-    },
-    {
-      "id": "5088417",
-      "time": "2026-09-11 08:04:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數跌幅擴大至2%】日經225指數跌幅擴大至2%，現報63780.4點。"
-    },
-    {
-      "id": "5088416",
-      "time": "2026-09-11 08:04:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日債跟隨美債跌勢 日本10年期和30年期國債收益率攀升】日本10年期國債收益率上升5.5個基點至2.965%。30年期國債收益率上漲5個基點至4.055%。"
-    },
-    {
-      "id": "mkt:01a08dc7-7e6a-7118-8537-5fff7171b387",
-      "time": "2026-09-11 08:04:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year government bond yield rose 5.5 bps to 2.965%."
     }
   ]
 }

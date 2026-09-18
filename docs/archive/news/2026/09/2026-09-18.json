@@ -1,7 +1,27 @@
 {
   "date": "2026-09-18",
-  "count": 527,
+  "count": 529,
   "items": [
+    {
+      "id": "mkt:01a0b1d6-1d74-7118-85eb-cfe84cee5b41",
+      "time": "2026-09-18 08:06:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huatai Securities: Big three airlines' August load factors strong; sector rebound awaits oil-price decline】Huatai Securities reports that in August peak travel the big three carriers (Air China, China Eastern, China Southern) plus Spring Airlines and Juneyao saw ASK +5.2% YoY and RPK +7.6% YoY; load factor rose 2ppt to a record 88.8% and ticket pricing showed some improvement. However, July–August domestic fares including fuel surcharges rose only 1.0% YoY—extreme weather and demand/capacity mismatches limited pricing and weakened oil-price pass-through. Huatai says a sector rebound will await lower oil prices; monitor high-frequency Mid-Autumn and National Day travel data. It expects cautious capacity deployment in Q4, which could support YoY revenue performance, and remains constructive on a mid-to-long-term recovery in the transport sector."
+    },
+    {
+      "id": "mkt:01a0b1d4-b335-7118-85eb-c1d8566af767",
+      "time": "2026-09-18 08:05:01",
+      "tags": [
+        "MKT News",
+        "QAN.AX",
+        "Impact bearish"
+      ],
+      "text": "Union said hundreds of Qantas ground staff will strike next week over pay."
+    },
     {
       "id": "5100792",
       "time": "2026-09-18 08:03:03",
