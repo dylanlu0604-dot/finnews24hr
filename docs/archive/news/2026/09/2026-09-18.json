@@ -1,7 +1,215 @@
 {
   "date": "2026-09-18",
-  "count": 1334,
+  "count": 1355,
   "items": [
+    {
+      "id": "te:markets:584904",
+      "time": "2026-09-18 14:48:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Bounce Back — European natural gas prices rose above €77/MWh on Friday, rebounding after three consecutive sessions of losses, with depleted reserves and disruptions to LNG shipments remaining in focus. The region is entering winter with low storage levels after the US-Iran war severely curtailed LNG supplies from the Persian Gulf and record summer heatwaves hampered efforts to rebuild inventories. Underground storage facilities were only around 68% full, well below seasonal averages and the EU’s target of 80% capacity by December. Strong demand from Asia and other buyers could also drive more intense competition for LNG cargoes when colder weather sets in, leaving the region more exposed to price spikes. European gas prices have nearly tripled so far this year and reached their highest level since December 2022 earlier this week."
+    },
+    {
+      "id": "5101377",
+      "time": "2026-09-18 14:48:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：AI晶片封裝突破光罩極限，CoWoS-L穩居先進封裝主流至2028年】根據TrendForce集邦諮詢最新半導體先進封裝產業研究，隨著GPU廠商、超大型雲端服務供應商（CSP）持續開發更強大、功能多元的AI晶片，2.5D封裝技術的一項發展重點在於擴大封裝面積。其中，TSMC（臺積電）CoWoS-L儘管面臨Intel（英特爾）EMIB-T的競爭，但憑藉其技術成熟度與良率優勢，預計至2028年仍將是AI晶片的主流封裝方案。"
+    },
+    {
+      "id": "mkt:01a0b345-e7fe-7118-85f7-38ff08947c9b",
+      "time": "2026-09-18 14:48:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA said there is no preset pace for rate hikes."
+    },
+    {
+      "id": "5101376",
+      "time": "2026-09-18 14:48:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鑫科材料：公司銅板帶材總體暫無擴產計劃】鑫科材料(600255)在9月18日召開的2026年半年度業績說明會上表示，公司銅板帶材總體暫無擴產計劃，同時公司依託技術創新與精密製造能力的持續升級，帶動全系列帶材產品的結構性升級。"
+    },
+    {
+      "id": "5101375",
+      "time": "2026-09-18 14:48:09",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通：印度經濟的“短期亢奮”，警示印度儲備銀行加息需謹慎】摩根大通的賈漢吉爾·阿齊茲表示，印度經濟當前的繁榮或是此前刺激政策帶來的“短期亢奮”，這一效應終將消退。印度儲備銀行今年或首次加息25個基點，但阿齊茲對後續加息路徑並無十足把握。阿齊茲警示，市場計價的加息次數可能過多；金融環境收緊或將同時壓制企業投資與居民消費。"
+    },
+    {
+      "id": "mkt:01a0b345-a4b4-7118-85f7-360136fab06b",
+      "time": "2026-09-18 14:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's air traffic authority said Lublin and Rzeszow airports, temporarily closed due to military aviation activity, have resumed operations."
+    },
+    {
+      "id": "5101374",
+      "time": "2026-09-18 14:47:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：終端利率將在事後確定。"
+    },
+    {
+      "id": "mkt:01a0b345-1861-7118-85f7-2c87bd9248e2",
+      "time": "2026-09-18 14:47:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY pared gains during remarks by Bank of Japan Governor Ueda and was up 0.53% at 156.8."
+    },
+    {
+      "id": "5101373",
+      "time": "2026-09-18 14:47:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國家航空航行服務局（PANSA）表示，盧布林和熱舒夫的波蘭機場因軍事行動臨時關閉後，現已恢復航班運營。"
+    },
+    {
+      "id": "mkt:01a0b344-afac-7118-85f7-25b93cfd4bb9",
+      "time": "2026-09-18 14:46:58",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said it is difficult to say where the terminal interest rate should be."
+    },
+    {
+      "id": "5101372",
+      "time": "2026-09-18 14:46:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報6600.00元。"
+    },
+    {
+      "id": "5101371",
+      "time": "2026-09-18 14:45:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本的貨幣政策已進入新階段。不對短期市場波動置評。"
+    },
+    {
+      "id": "mkt:01a0b343-a8dd-7118-85f7-1872f5c217fc",
+      "time": "2026-09-18 14:45:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225"
+      ],
+      "text": "UEDA said Japan's monetary policy has entered a new phase."
+    },
+    {
+      "id": "mkt:01a0b343-a88e-7118-85f7-16e7ae0ca444",
+      "time": "2026-09-18 14:45:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA, Governor of the Bank of Japan, declined to comment on short-term market volatility."
+    },
+    {
+      "id": "5101370",
+      "time": "2026-09-18 14:45:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列總理再稱必須推翻伊朗政權】當地時間9月17日，以色列總理內塔尼亞胡在執政黨利庫德集團的一場集會活動上發表講話稱，過去一年，他和利庫德集團“將以色列從伊朗即將造出核彈的威脅中拯救了出來”。他強調，以色列“必須將使命進行到底，必須推翻伊朗政權，必須消滅黎巴嫩真主黨和哈馬斯”。內塔尼亞胡還鼓動現場活動參加者高呼“只有比比（內塔尼亞胡）才能將這項使命進行到底”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0b343-62b2-7118-85f7-0c342b366035",
+      "time": "2026-09-18 14:45:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【CITIGROUP: Rate hikes, oil could push Japanese yields higher】CITIGROUP strategist Tomohisa Fujiki said that if Japanese inflation stabilizes around 2%, a 10-year JGB yield near 3% would be reasonable. Given anticipated rate hikes and oil-price dynamics, yields could rise further, he added. He warned that if the policy rate does not break above 2%, a 3% 10-year yield should be attractive to real-money investors. Fujiki said markets are temporarily pricing roughly one rate hike per quarter but Japan’s terminal rate may cap at about 2% or below. The 10-year JGB yield last fell 1.5 bps to 2.975%."
+    },
+    {
+      "id": "em:qqyh_rbyh:202609183878563961",
+      "time": "2026-09-18 14:45:30",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男表示，上調利率是因為需要警惕物價上行風險，政策實施階段已發生變化。"
+    },
+    {
+      "id": "mkt:01a0b343-432a-7118-85f7-05a9afc6e87a",
+      "time": "2026-09-18 14:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Governor Ueda said the BOJ is not considering a rate hike at a specific time and will assess risks at each policy meeting."
+    },
+    {
+      "id": "5101369",
+      "time": "2026-09-18 14:45:16",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：目前並未考慮在特定時機加息。"
+    },
+    {
+      "id": "5101368",
+      "time": "2026-09-18 14:45:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元跌幅收窄至0.5%，此前一度下跌0.9%。"
+    },
+    {
+      "id": "mkt:01a0b343-0c36-7118-85f6-fc14fa07092f",
+      "time": "2026-09-18 14:45:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan governor Ueda said short-term objectives have changed markedly."
+    },
     {
       "id": "5101367",
       "time": "2026-09-18 14:44:50",
