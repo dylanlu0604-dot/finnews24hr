@@ -1,7 +1,86 @@
 {
   "date": "2026-09-18",
-  "count": 702,
+  "count": 711,
   "items": [
+    {
+      "id": "mkt:01a0b227-f293-7118-85ed-81034eec2076",
+      "time": "2026-09-18 09:35:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guoyao Yizhi says store opening/closure cycle has normalized this year】As of 1H the company operated 7,975 retail outlets nationwide. Management said market-driven closures occurred this year but openings and closures have returned to a normal cadence and selective openings continue. The company will align with local policies, assess single-store quality and trade-area shifts, and may close stores in adversely affected trade areas; it will continue routine openings in advantaged regions, policy-favored locations and high-footfall areas to support orderly operations."
+    },
+    {
+      "id": "mkt:01a0b227-8f55-7118-85ed-7ba14e3651d8",
+      "time": "2026-09-18 09:35:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash parking: short-term money-market yield snapshot】Tencent Licaitong on-demand + 7‑day annualized yields ranged 0.7130%–1.4640%. WeChat Wallet 7‑day annualized yields ranged 0.8620%–1.01600%. Alipay Yu’e Bao 7‑day annualized yields ranged 0.9000%–1.0700%."
+    },
+    {
+      "id": "mkt:01a0b227-89d0-7118-85ed-71b142784cdf",
+      "time": "2026-09-18 09:35:30",
+      "tags": [
+        "MKT News",
+        "02476.HK",
+        "Impact bullish",
+        "01989.HK",
+        "01377.HK"
+      ],
+      "text": "Hong Kong PCB sector active; Shenghong Technology (02476.HK) up over 4%, Guanghe Technology (01989.HK), Dingtai High-Tech (01377.HK) and Dazhu CNC (03200.HK) also advanced."
+    },
+    {
+      "id": "5100911",
+      "time": "2026-09-18 09:35:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國藥一致：今年已進入正常開關店節奏】國藥一致(000028)昨日在業績說明會上介紹，截至上半年，公司全國零售門店總數7975家。雖然今年存在市場因素影響閉店，但已進入正常開關店節奏，同時保持部分開店。後續會結合各地市場政策，評估單店質量、商圈變化，對商圈受影響的門店不排除閉店；在優勢區域、政策利好、人流集中區域常態化開店，保障經營有序發展。"
+    },
+    {
+      "id": "5100910",
+      "time": "2026-09-18 09:35:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股漲3%。"
+    },
+    {
+      "id": "5100909",
+      "time": "2026-09-18 09:34:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸、離岸人民幣兌美元雙雙升破6.7，創2023年以來新高。"
+    },
+    {
+      "id": "mkt:01a0b226-8834-7118-85ed-6a3eb8644a06",
+      "time": "2026-09-18 09:34:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share glass and fiberglass sector tumbled at the open; China Jushi fell over 3%, with Changhai Co., International Composite, Three Gorges New Materials and North Glass also sliding."
+    },
+    {
+      "id": "5100908",
+      "time": "2026-09-18 09:34:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.03%，成分股中，同惠電子漲10.39%，鼎智科技漲5.07%，艾融軟體漲3.85%，五新智慧漲2.65%。"
+    },
+    {
+      "id": "5100907",
+      "time": "2026-09-18 09:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫療服務板塊直線拉昇，南華生物、貝瑞基因漲停】醫療服務板塊直線拉昇，南華生物、貝瑞基因漲停，海特生物、成都先導、畢得醫藥、奧浦邁、金域醫學跟漲。"
+    },
     {
       "id": "te:markets:584773",
       "time": "2026-09-18 09:32:27",
