@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-19 03:23:05",
-  "count": 13423,
+  "updated": "2026-09-19 03:26:59",
+  "count": 13427,
   "items": [
+    {
+      "id": "5102683",
+      "time": "2026-09-19 03:26:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 總部位於紐約的美國廣告科技公司 Infillion 收購位置資料公司 Foursquare  。"
+    },
+    {
+      "id": "5102682",
+      "time": "2026-09-19 03:24:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：具體而言，NBA 將允許機構及其高管聯合收購球隊。"
+    },
+    {
+      "id": "5102681",
+      "time": "2026-09-19 03:24:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NBA 擬修訂投資規則，為湖人相關交易鋪平道路。"
+    },
+    {
+      "id": "5102680",
+      "time": "2026-09-19 03:23:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NASA與波音洽談星際客機執行10次以上新任務 距2024年故障滯留事件已兩年】美國國家航空航天局（NASA）與波音公司正就使用Starliner飛船執行10次以上新任務進行洽談，知情人士透露相關討論旨在確保美國具備持續進入近地軌道的能力。NASA發言人表示，機構正在制定滿足近地軌道持續存在目標的計劃，預計將很快公佈細節。"
+    },
+    {
+      "id": "mkt:01a0b5f9-1dc4-7118-860a-8c9fa5e83031",
+      "time": "2026-09-19 03:23:17",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "WSJ reports NASA and Boeing (BA.N) are discussing having the Starliner spacecraft perform more than 10 future flights."
+    },
+    {
+      "id": "te:economy:585106",
+      "time": "2026-09-19 03:22:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Argentina Trade Surplus Widens in August — Argentina’s trade surplus widened to $2.19 billion in August 2026, up $746 million from the same month of 2025. Exports totaled $8.88 billion, increasing 12.4% year over year. All categories recorded higher export values than in August 2025, except primary products, which declined 14.2%. Energy and fuel exports grew 41.2%, manufactured industrial goods increased 18%, and manufactured agricultural goods rose 16.7%. Imports totaled $6.70 billion, up 3.6% year over year. The economic-use category with the largest percentage increase was fuels and lubricants, which rose 68.5%. Intermediate goods increased 13.4%, while capital goods imports rose 3.1% and consumer goods purchases declined 5.1%."
+    },
     {
       "id": "5102679",
       "time": "2026-09-19 03:21:01",
@@ -123312,22 +123368,6 @@
         "DXY"
       ],
       "text": "【Goldman keeps $4,900/oz end-2026 gold forecast; upside skew】Goldman Sachs says its end-2026 fair‑value gold forecast of $4,900/oz carries a net upside risk, though the path will be two‑way and more volatile. The forecast assumes continued strong central-bank demand. If ETF inflows resume and current elevated call-option positioning persists, dealer hedging could mechanically amplify rallies and push prices well above fair value. Conversely, a renewed rise in Fed rate-hike expectations could trigger dealer hedge unwind and produce sharper-than-usual pullbacks."
-    },
-    {
-      "id": "5090279",
-      "time": "2026-09-12 03:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "賓夕法尼亞州衛生部：截至目前，2026年已確認124例與麻疹相關的住院病例。"
-    },
-    {
-      "id": "5090278",
-      "time": "2026-09-12 03:25:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "賓夕法尼亞州衛生部：宣佈截至目前，2026年賓夕法尼亞州全州37個縣已確診676例麻疹病例。"
     }
   ]
 }
