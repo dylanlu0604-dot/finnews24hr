@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-18 07:56:33",
-  "count": 13327,
+  "updated": "2026-09-18 08:00:20",
+  "count": 13325,
   "items": [
+    {
+      "id": "mkt:01a0b1cf-de15-7118-85eb-a62f7fbce9a7",
+      "time": "2026-09-18 07:59:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the bank is operating in an environment of persistently high oil prices."
+    },
+    {
+      "id": "5100784",
+      "time": "2026-09-18 07:59:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國斗山集團擬投資 9700 億韓元擴產 AI 晶片材料。"
+    },
+    {
+      "id": "mkt:01a0b1ce-7fd8-7118-85eb-9cff180374e9",
+      "time": "2026-09-18 07:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran said he expects the U.S. will ultimately prevail; he said he does not know whether that will come via a deal but asserted the U.S. is already winning."
+    },
+    {
+      "id": "te:markets:584753",
+      "time": "2026-09-18 07:57:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Upbeat Session — US stock futures were little changed on Friday after the major averages rallied in the previous session, as falling oil prices and bond yields improved risk appetite. In regular trading on Thursday, the Dow rose 0.61%, the S&P 500 gained 1.14%, and the Nasdaq Composite advanced 1.69%. Chipmakers led the gains, extending their recovery after concerns over AI safety earlier in the week sparked doubts about AI-related capital spending. Strong performances came from Micron (5.5%), Nvidia (2.5%), Intel (7.7%), AMD (6.4%), and SanDisk (6.2%). Stocks benefited from lower oil prices that eased inflation worries and helped Treasuries rally across the curve, with the US 10-year yield falling to around 4.93% after topping 5% earlier this week. Wall Street also rallied in relief after the Federal Reserve delivered a widely expected rate hike, though policymakers signaled further tightening to curb inflation."
+    },
+    {
+      "id": "5100783",
+      "time": "2026-09-18 07:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：億緯動力與Fluence簽署206GWh供貨框架協議】億緯鋰能公告，公司子公司億緯動力與Fluence簽署相關供應協議，就2027-2031年生產和交付206GWh電池深化合作，其中2027年承諾交付量16GWh，2028-2031年預留容量合計190GWh；具體合作事項以各方後續正式簽署採購訂單為準。"
+    },
     {
       "id": "mkt:01a0b1cc-85b0-7118-85eb-94be8095b4fc",
       "time": "2026-09-18 07:56:05",
@@ -122579,69 +122627,6 @@
         "000660.KS"
       ],
       "text": "South Korean customs data show semiconductor exports from Sept. 1-10 rose 270.1% YoY."
-    },
-    {
-      "id": "5088409",
-      "time": "2026-09-11 08:00:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國9月1日至10日出口同比增長82.6%，進口同比增長20.7%；半導體出口同比增長270.1%。"
-    },
-    {
-      "id": "5088408",
-      "time": "2026-09-11 08:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報109.25美元/桶。"
-    },
-    {
-      "id": "5088407",
-      "time": "2026-09-11 07:59:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【經濟日報金觀平：真金白銀充實鄉村振興“錢袋子”】近日，經中央深改委審議透過，農業農村部、中央農辦、國家發展改革委等六部門聯合印發《堅持農業農村優先發展、完善鄉村振興投入機制實施方案》，系統回答了鄉村振興“錢從哪裡來”這個難題。按照《方案》要求，到2030年，基本建立與農業農村發展水平相適應、結構合理、方式科學、質效並重的鄉村振興投入機制。相信在一系列資金投入下，農業農村將迎來更好發展，鄉村全面振興將不斷取得新成果。"
-    },
-    {
-      "id": "5088406",
-      "time": "2026-09-11 07:58:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：維持對北美算力產業鏈和國產AI算力產業鏈的長期看好】中信建投證券研報稱，2026年上半年測試儀器、光模組、GPU/ASIC板塊持續表現較好，反映AI算力需求旺盛。2026年第二季度線纜板塊歸母淨利潤同比增長205%，光纖光纜景氣度持續提升。2026年第二季度，公募基金通訊行業持倉市值佔比達到11.56%，再創新高，主要持倉集中在光模組、光器件、光晶片及光纖光纜等方向。北美四家CSP廠商公佈二季報，持續加碼資本開支。北美四大雲廠商2026年第二季度合計資本開支約1712億美元，同比增長78.6%，預計2026年總資本開支約7325億美元（中值測算），且預計2027年仍保持較快增長。中信建投持續看好AI發展，維持對北美算力產業鏈和國產AI算力產業鏈的長期看好。"
-    },
-    {
-      "id": "5088405",
-      "time": "2026-09-11 07:57:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北32件珍貴文物亮相塞爾維亞】“笑盈大千——中國文物中的河北‘笑容’”展覽10日在塞爾維亞國家博物館開幕。展覽以“笑”為主題，集中展示來自中國河北省的31組32件珍貴文物，涵蓋陶俑、造像、瓷器等不同門類的展品。河北省文物局介紹，這是河北珍貴文物首次集體亮相塞爾維亞。（新華社）"
-    },
-    {
-      "id": "te:economy:582928",
-      "time": "2026-09-11 07:57:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Business Survey Index Large Manufacturing Firms",
-        "Importance 2"
-      ],
-      "text": "Japan Business Sentiment Highest Since 2021 — Japan’s Business Survey Index for large manufacturers rose to 7.6% in the third quarter of 2026 from -1.8% in Q2, far above market expectations of 2.5%. It was the fastest pace of improvement since Q4 2021, amid government efforts to boost GDP growth and stronger government spending. Looking ahead, manufacturing sentiment is expected to continue to expand, though at a softer rate, to 5.8% in Q4 and 4.9% in Q1 2027. The index, based on a survey of major manufacturers, remains a key barometer for an economy where industrial output plays a central role. The Bank of Japan raised its FY2026 GDP growth projection to 0.6% from 0.5% at its latest meeting, due to resilient domestic demand amid the government’s support measures. However, the board warned that underlying inflation could exceed the 2% target amid the ongoing conflict in the Middle East. For FY2027, the BoJ lifted its inflation forecast to 2.4% from 2.3%, while raising its GDP growth outlook to 0.8% from 0.7%."
-    },
-    {
-      "id": "mkt:01a08dc1-0791-7118-8537-2bdc256d0d44",
-      "time": "2026-09-11 07:57:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he believes the Republican Party has a strong chance of winning the US midterm elections."
     }
   ]
 }

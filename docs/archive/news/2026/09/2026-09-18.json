@@ -1,7 +1,55 @@
 {
   "date": "2026-09-18",
-  "count": 511,
+  "count": 516,
   "items": [
+    {
+      "id": "mkt:01a0b1cf-de15-7118-85eb-a62f7fbce9a7",
+      "time": "2026-09-18 07:59:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the bank is operating in an environment of persistently high oil prices."
+    },
+    {
+      "id": "5100784",
+      "time": "2026-09-18 07:59:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國斗山集團擬投資 9700 億韓元擴產 AI 晶片材料。"
+    },
+    {
+      "id": "mkt:01a0b1ce-7fd8-7118-85eb-9cff180374e9",
+      "time": "2026-09-18 07:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran said he expects the U.S. will ultimately prevail; he said he does not know whether that will come via a deal but asserted the U.S. is already winning."
+    },
+    {
+      "id": "te:markets:584753",
+      "time": "2026-09-18 07:57:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Upbeat Session — US stock futures were little changed on Friday after the major averages rallied in the previous session, as falling oil prices and bond yields improved risk appetite. In regular trading on Thursday, the Dow rose 0.61%, the S&P 500 gained 1.14%, and the Nasdaq Composite advanced 1.69%. Chipmakers led the gains, extending their recovery after concerns over AI safety earlier in the week sparked doubts about AI-related capital spending. Strong performances came from Micron (5.5%), Nvidia (2.5%), Intel (7.7%), AMD (6.4%), and SanDisk (6.2%). Stocks benefited from lower oil prices that eased inflation worries and helped Treasuries rally across the curve, with the US 10-year yield falling to around 4.93% after topping 5% earlier this week. Wall Street also rallied in relief after the Federal Reserve delivered a widely expected rate hike, though policymakers signaled further tightening to curb inflation."
+    },
+    {
+      "id": "5100783",
+      "time": "2026-09-18 07:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：億緯動力與Fluence簽署206GWh供貨框架協議】億緯鋰能公告，公司子公司億緯動力與Fluence簽署相關供應協議，就2027-2031年生產和交付206GWh電池深化合作，其中2027年承諾交付量16GWh，2028-2031年預留容量合計190GWh；具體合作事項以各方後續正式簽署採購訂單為準。"
+    },
     {
       "id": "mkt:01a0b1cc-85b0-7118-85eb-94be8095b4fc",
       "time": "2026-09-18 07:56:05",
