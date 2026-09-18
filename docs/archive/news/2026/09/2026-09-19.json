@@ -1,7 +1,61 @@
 {
   "date": "2026-09-19",
-  "count": 164,
+  "count": 169,
   "items": [
+    {
+      "id": "5102674",
+      "time": "2026-09-19 03:14:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數主連夜盤收跌0.23%，報24678點。恒生科技指數主連夜盤收跌0.204401點。"
+    },
+    {
+      "id": "5102673",
+      "time": "2026-09-19 03:13:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美司法部考慮加入共和黨州總檢察長對貝萊德及道富銀行的訴訟】據報道，美國司法部正在考慮加入由得克薩斯州及其他12個共和黨執政州總檢察長牽頭提起的訴訟，該訴訟針對資產管理巨頭貝萊德（BlackRock）和道富銀行（State Street）。知情人士透露，司法部官員近幾週一直在權衡是否介入此案，但尚未作出最終決定。上述各州在訴狀中指控稱，貝萊德和道富銀行利用其市場影響力，以氣候相關目標為由向煤炭生產商施壓、要求其削減產量，進而導致電價上漲。受該訊息影響，貝萊德股價一度下跌，但隨後收復失地，週五漲幅超過1%；道富銀行股價盤中觸及低點後也小幅反彈。"
+    },
+    {
+      "id": "mkt:01a0b5f0-1e70-7118-860a-798e04a08935",
+      "time": "2026-09-19 03:13:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "LMT",
+        "Impact mixed",
+        "RTX"
+      ],
+      "text": "【U.S. warns allies ammo shortages could delay key weapons deliveries up to five years】U.S. officials warned allies that heavy ammunition use in a conflict with Iran could delay delivery of some weapons by as much as five years. Officials said Germany and other European buyers’ orders for Tomahawk cruise missiles and the 'Typhoon' long‑range launch system face postponements due to U.S. inventory shortfalls; some Eastern European states reliant on U.S. arms would also be affected. The U.S. military has expended large shares of advanced munitions in a conflict scenario cited by officials — more than half of advanced‑model Patriot interceptors (PAC‑3), about one‑third of Tomahawks, and roughly half of precision‑strike missiles and THAAD interceptors. The Pentagon said large‑scale use has exposed strategic stock shortfalls and industrial capacity bottlenecks. U.S. defence contractors are expanding capacity; Lockheed Martin plans to raise annual PAC‑3 production. Ukraine’s urgent demand for additional Patriot interceptors is adding pressure as U.S. policy prioritizes replenishing its own stocks."
+    },
+    {
+      "id": "mkt:01a0b5ef-1b10-7118-860a-74326c080655",
+      "time": "2026-09-19 03:12:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Saudi 'supply halt' lifts North Sea crude spot premium to record】A Saudi east–west pipeline outage has forced European refiners to compete for replacement barrels, lifting spot crude premiums and raising procurement costs. After an attack on a pipeline to the Red Sea, Aramco is seeking to increase shipments via the Strait of Hormuz; this week Asian buyers purchased tens of millions of barrels of Saudi crude near the strait, leaving those barrels farther from Europe. Aramco has told European customers it cannot meet some long‑term contract deliveries next month. On Friday North Sea spot premiums jumped to record levels; traders said Norway’s Johan Sverdrup grade—close in quality to Saudi crude—was bid up to $35/bbl over Brent spot, versus about $0.60/bbl two weeks earlier. The spot rally indicates European refiners are paying up to secure supply and maintain run rates amid fuel tightness; regional diesel has risen above $200/bbl."
+    },
+    {
+      "id": "5102672",
+      "time": "2026-09-19 03:11:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普稱柴油漲價主因俄烏衝突而非伊朗戰事 市場資料顯示中東供應損失更大】美國總統特朗普本週在社交媒體上重申，全球柴油價格上漲主要由俄烏衝突導致，而非美國與伊朗之間的戰事。但彭博社彙總並經柴油貿易商核實的估算顯示，伊朗戰事造成的柴油供應減少量超過俄烏衝突。據能源分析公司Energy Aspects、Kpler和Vortexa的估算，3月至8月中東地區石油日均產量較2025年同期減少約77萬桶，而同期俄羅斯石油日產量減少約35萬桶。FGE NexantECA成品油主管尤金·林德爾指出：\"從純粹體量上看，伊朗更大。\"他稱，從市場進一步減少數十萬桶原油\"使原本就極度緊張的市場變成了歷史性的緊張市場\"。華盛頓智庫新美國安全中心兼職高階研究員瑞秋·齊姆巴表示，伊朗衝突導致的物資短缺是柴油和成品油短缺及價格飆升的最大驅動因素，而俄羅斯煉油廠受損加劇了這些趨勢。她認為，若停火能促成煉油廠修復和俄羅斯產品迴歸，可緩解部分壓力，但無法完全解決供應短缺問題。"
+    },
     {
       "id": "5102671",
       "time": "2026-09-19 03:10:24",
