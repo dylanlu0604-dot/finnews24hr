@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-19 03:26:59",
-  "count": 13427,
+  "updated": "2026-09-19 03:30:47",
+  "count": 13431,
   "items": [
+    {
+      "id": "5102693",
+      "time": "2026-09-19 03:30:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至2026年9月15日當週，日元淨多頭頭寸為120359手合約。"
+    },
+    {
+      "id": "5102692",
+      "time": "2026-09-19 03:30:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至2026年9月15日當週，歐元淨空頭頭寸為26993手合約。"
+    },
+    {
+      "id": "5102691",
+      "time": "2026-09-19 03:30:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將芝加哥期貨交易所（CBOT）美國2年期國債期貨的淨空頭頭寸削減73754手，至855353手。"
+    },
+    {
+      "id": "5102690",
+      "time": "2026-09-19 03:30:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將芝加哥期貨交易所（CBOT）美國5年期國債期貨淨空頭頭寸削減270127手，至997366手。"
+    },
+    {
+      "id": "5102689",
+      "time": "2026-09-19 03:29:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸減少13547手，至821236手。"
+    },
+    {
+      "id": "5102688",
+      "time": "2026-09-19 03:29:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將芝加哥期貨交易所（CBOT）美國超長期國債期貨的淨空頭頭寸增加63手，至345203手。"
+    },
+    {
+      "id": "5102687",
+      "time": "2026-09-19 03:29:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭持倉增加2640手，至203157手。"
+    },
+    {
+      "id": "5102686",
+      "time": "2026-09-19 03:29:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月15日當週，投機者將紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主要天然氣市場的淨空頭頭寸減少153手，至54263手。"
+    },
+    {
+      "id": "5102685",
+      "time": "2026-09-19 03:29:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NBA修改私募股權政策 為庫什納和艾格收購湖人隊掃清障礙】據知情人士透露，NBA正在修改其私募股權政策，允許一家公司及其高管同時投資一支球隊。這一轉變將使得特朗普女婿庫什納的親弟弟約書亞·庫什納和前迪士尼CEO鮑勃·艾格能夠將個人資金與庫什納的Thrive Eternal公司資金共同投入到對洛杉磯湖人隊的收購中。"
+    },
+    {
+      "id": "5102684",
+      "time": "2026-09-19 03:27:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週芝加哥小麥期貨跌超1.7%，大豆油累跌超2.1%】週五（9月18日）紐約尾盤，彭博穀物分類指數跌1.13%，報34.3745點，本週累計下跌0.54%，9月16日曾達到35.1949點。CBOT玉米期貨累跌0.57%，報5.2725美元/蒲式耳，9月16日曾漲至5.3925美元。CBOT小麥期貨累跌1.76%，報7.1350美元/蒲式耳。CBOT大豆期貨累漲0.52%，報13.03美元/蒲式耳，豆粕期貨累漲1.36%，豆油期貨累跌2.13%。CBOT瘦肉豬期貨累跌5.64%，活牛期貨累跌2.49%，飼牛期貨累跌3.11%。"
+    },
+    {
+      "id": "mkt:01a0b5fc-9345-7118-860a-937bc58ecb8e",
+      "time": "2026-09-19 03:27:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News quoted Abdullah al-Naimi, a member of the Houthi political bureau, saying there are reports Saudi Arabia has contacted Iran seeking Iranian mediation in disputes between Saudi Arabia and Yemen."
+    },
     {
       "id": "5102683",
       "time": "2026-09-19 03:26:16",
@@ -123303,71 +123400,6 @@
         "DXY"
       ],
       "text": "Fars News: Iran's foreign ministry spokesman said Saudi Arabia, Japan and Jordan will face consequences for supporting an IAEA resolution targeting Iran."
-    },
-    {
-      "id": "5090286",
-      "time": "2026-09-12 03:30:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "CFTC-投機客在截至9月8日當週將CBOT美國超長期國債期貨淨空頭倉位削減24,171手至345,140手。"
-    },
-    {
-      "id": "5090285",
-      "time": "2026-09-12 03:30:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會(CFTC)資料顯示，截至9月8日當週，紐約商業期貨交易所(NYMEX)和洲際交易所(ICE)四大市場的天然氣投機客淨空頭倉位增加3,719口，至54,416口。"
-    },
-    {
-      "id": "5090284",
-      "time": "2026-09-12 03:30:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "CFTC-COMEX白銀投機客在截至9月8日當週增持淨多頭倉位2,006口，至14,176口。"
-    },
-    {
-      "id": "5090283",
-      "time": "2026-09-12 03:30:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "CFTC-COMEX黃金投機客在截至9月8日當週削減淨多頭倉位1,263口，至139,548口。"
-    },
-    {
-      "id": "5090282",
-      "time": "2026-09-12 03:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至2026年9月8日當週，CFTC比特幣淨多頭持倉為1,524手合約。"
-    },
-    {
-      "id": "5090280",
-      "time": "2026-09-12 03:27:26",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通改弦更張 現預計美聯儲9月和12月加息】摩根大通根據個人消費支出價格指數衡量的核心通脹趨勢，將其對美聯儲的預估改為9月和12月各加息25個基點。該行首席美國經濟學家Michael Feroli週五在研報中說：“下週加息的理由很簡單，核心個人消費支出通脹今年每個月都高於3%，而且最近在向2%靠攏上進展甚微”摩根大通7月下旬還預測美聯儲會在12月加息，但也曾指出若通脹資料過熱，央行最早可能在9月就動手Feroli寫道：“撇開中期選舉不談，繞過10月的一個合理理由是，需要時間來觀察加息對經濟的影響”此外，“通脹看起來仍然是由供給衝擊所驅動，因此我們不認為加息週期會拉長到明年”"
-    },
-    {
-      "id": "mkt:01a091f0-4b09-7118-8550-e0e44bc93719",
-      "time": "2026-09-12 03:27:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【Goldman keeps $4,900/oz end-2026 gold forecast; upside skew】Goldman Sachs says its end-2026 fair‑value gold forecast of $4,900/oz carries a net upside risk, though the path will be two‑way and more volatile. The forecast assumes continued strong central-bank demand. If ETF inflows resume and current elevated call-option positioning persists, dealer hedging could mechanically amplify rallies and push prices well above fair value. Conversely, a renewed rise in Fed rate-hike expectations could trigger dealer hedge unwind and produce sharper-than-usual pullbacks."
     }
   ]
 }
