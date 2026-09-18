@@ -1,7 +1,107 @@
 {
   "date": "2026-09-18",
-  "count": 516,
+  "count": 527,
   "items": [
+    {
+      "id": "5100792",
+      "time": "2026-09-18 08:03:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國斗山擬投資9700億韓元擴產AI晶片材料】韓國《朝鮮日報》援引鬥山集團訊息報道，斗山計劃投入約9700億韓元，擴大AI晶片所用覆銅板（CCL）的產能。斗山計劃在韓國本土投資4200億韓元，擴建光模組用覆銅板生產線。另外將出資5500億韓元在中國新建一座覆銅板工廠，產品面向AI加速器與網路交換機。斗山計劃從2028年起，提升韓國與中國新增產能的產量。英偉達自2024年起使用斗山的覆銅板產品；該業務去年銷售額同比增長86%，達到1.9萬億韓元。"
+    },
+    {
+      "id": "5100791",
+      "time": "2026-09-18 08:02:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：三大航8月客座率繼續強勢表現 板塊反彈需等待油價回落】華泰證券研報指出，8月暑運旺季高峰，三大航（國航、東航、南航）+春秋+吉祥ASK（可用座公里）、RPK（收入客公里）分別同比增5.2%、7.6%，客座率同比增2%至88.8%，創歷史新高，同時票價表現有所改善。不過7—8月暑運整體或由於極端天氣，需求未及時匹配運力投放等原因，國內線含油票價同比僅增長1.0%，整體油價傳導效果較弱。展望後續，板塊反彈需等待油價回落，關注中秋及國慶假期高頻資料，另外四季度淡季運力投放或較為謹慎，有利於收益同比表現。中長期仍看好交執行業景氣底部回暖。"
+    },
+    {
+      "id": "mkt:01a0b1d2-2bb9-7118-85eb-b82a916ff792",
+      "time": "2026-09-18 08:02:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "On Friday Sep 18, Japan's Nikkei 225 opened up 394.85 points, or 0.62%, at 64,531.10."
+    },
+    {
+      "id": "5100790",
+      "time": "2026-09-18 08:01:40",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲布洛克：全球債券收益率上升並非無序。"
+    },
+    {
+      "id": "mkt:01a0b1d1-47aa-7118-85eb-b1b9a7e4a444",
+      "time": "2026-09-18 08:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "Seoul's KOSPI opened 2.54% higher; SK Hynix rose 3.6% and Samsung Electronics gained about 3%."
+    },
+    {
+      "id": "5100789",
+      "time": "2026-09-18 08:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲逾3%。"
+    },
+    {
+      "id": "5100788",
+      "time": "2026-09-18 08:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士漲3.6%，三星電子漲近3%。"
+    },
+    {
+      "id": "5100787",
+      "time": "2026-09-18 08:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第三屆中國青年幹部代表團訪朝 祭掃志願軍烈士陵園】在中國人民志願軍赴朝參戰76週年，《中朝友好合作互助條約》簽訂65週年之際，由退役軍人事務部組織的第三屆中國青年幹部代表團一行48人，於9月14日至9月18日訪問朝鮮，開展了為期五天的祭掃交流活動。（央視）"
+    },
+    {
+      "id": "5100786",
+      "time": "2026-09-18 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.5%，至6885.70點。"
+    },
+    {
+      "id": "5100785",
+      "time": "2026-09-18 08:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報64681.55點，漲幅0.85％。韓國綜合股價指數（KOSPI）開盤上漲2.5％，至6885.70點。"
+    },
+    {
+      "id": "mkt:01a0b1d0-678e-7118-85eb-ae5918cef820",
+      "time": "2026-09-18 08:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump jokes he could bankrupt Bass Pro Shops with a fishing ban】In the White House Rose Garden, Trump told hunters and anglers he could 'ban fishing' and have Bass Pro Shops' CEO 'completely go bankrupt,' adding 'the power of this job is unbelievable' and saying he'd 'do it...for a day or two, until he calls me and says: \"Please, Mr. President, please.\"'"
+    },
     {
       "id": "mkt:01a0b1cf-de15-7118-85eb-a62f7fbce9a7",
       "time": "2026-09-18 07:59:45",
