@@ -1,7 +1,122 @@
 {
   "date": "2026-09-18",
-  "count": 2032,
+  "count": 2046,
   "items": [
+    {
+      "id": "mkt:01a0b46f-7970-7118-8601-e5d86030e024",
+      "time": "2026-09-18 20:13:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Information reports Naive AI is valued at $1.4 billion."
+    },
+    {
+      "id": "5102272",
+      "time": "2026-09-18 20:13:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：最佳化升級文化產品貿易，大力發展文化服務貿易，創新發展數字文化貿易，提升高附加值文化產品和服務在對外文化貿易中的比重】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，促進對外文化貿易增量提質。最佳化升級文化產品貿易，大力發展文化服務貿易，創新發展數字文化貿易，提升高附加值文化產品和服務在對外文化貿易中的比重。鼓勵文化企業國際化經營，支援企業完善品牌打造、產品製作、海外銷售渠道，推出更多適應國際市場需求、具有文化內涵的產品。鞏固數字文化領域出海競爭優勢，挖掘演藝、動漫、創意設計、國潮文創等領域出口潛力，提升工藝美術、舞臺裝備、遊戲遊藝裝置等產品出口附加值。推動“走出去”與“引進來”相結合，支援引進國外優秀文化產品與服務。"
+    },
+    {
+      "id": "mkt:01a0b46f-2644-7118-8601-dc71b51fdad1",
+      "time": "2026-09-18 20:12:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Moscow City Election Commission, as of 1500 Moscow time more than 1.8 mln people had voted on the first day of voting."
+    },
+    {
+      "id": "te:markets:585017",
+      "time": "2026-09-18 20:12:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits 4-week Low — The South Korean Won touched 1389.00 against the USD, the lowest since August 2026. Over the past 4 weeks, US Dollar South Korean Won lost 0.01%, and in the last 12 months, it decreased 0.63%."
+    },
+    {
+      "id": "5102269",
+      "time": "2026-09-18 20:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：積極培育銀髮族、青少年、親子家庭等細分市場文化消費】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，積極培育銀髮族、青少年、親子家庭等細分市場文化消費，滿足群眾體驗式、個性化消費需求。積極發展首發經濟，支援新品首發、新劇首映、新展首秀、新戲首演等。激發冰雪經濟活力，支援冰雪節慶、冰雪演藝、冰雪文創、冰雪體驗發展。引導社交分享等互動性消費模式有序發展。"
+    },
+    {
+      "id": "mkt:01a0b46e-896f-7118-8601-d7a3aacd5c7a",
+      "time": "2026-09-18 20:12:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic measurement: 20:09 Sep 18 preliminary M3.8 earthquake near Xinlong County, Ganzi Prefecture, Sichuan (30.92N, 99.89E). Final magnitude pending formal rapid report."
+    },
+    {
+      "id": "mkt:01a0b46e-3fab-7118-8601-cea652d36208",
+      "time": "2026-09-18 20:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhao Leji, Wang Huning meet Egyptian Senate President Farid in Beijing, pledge to implement Xi’s Egypt visit agreements】Beijing, Sept 18 — Zhao Leji, chairman of the National People’s Congress Standing Committee, and Wang Huning, chairman of the Chinese People’s Political Consultative Conference, separately met Egyptian Senate President Farid. Both said President Xi’s historic visit to Egypt earlier this month produced broad consensus with Egyptian leaders and pledged to implement the leaders’ important agreements, deepen political trust, strengthen parliamentary exchanges, and expand practical cooperation to advance construction of a China‑Egypt community of shared future."
+    },
+    {
+      "id": "mkt:01a0b46e-147c-7118-8601-c1e6849af562",
+      "time": "2026-09-18 20:11:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China issues '15th Five-Year' cultural industry plan, sets seven priority tasks】China's Ministry of Culture and Tourism issued a '15th Five-Year' plan for cultural industry development, defining overall requirements, seven priority tasks and supporting measures, and assigning responsibilities across the culture and tourism system. The plan aims to, by 2030, materially expand industry scale, overall strength and comprehensive returns; strengthen the industry system and innovation capacity; increase supply of higher-quality cultural products; deepen market activity and cultural consumption; and steadily raise international competitiveness and the sector's pillar-role in the economy. It directs culture and tourism authorities at all levels to implement the plan, enhance interagency and vertical coordination, refine working mechanisms and ensure delivery."
+    },
+    {
+      "id": "5102268",
+      "time": "2026-09-18 20:11:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月18日20時09分在四川甘孜州新龍縣附近（北緯30.92度，東經99.89度）發生3.8級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5102267",
+      "time": "2026-09-18 20:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：支援量子科技、具身智慧、腦機介面、第六代行動通訊等未來產業技術在文化產業的應用】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，加快推動數字技術全方位全鏈條普及應用，壯大數字文化產業，發展以智慧互動、沉浸體驗為特徵的新型文化業態。推動虛擬現實、高畫質顯示、全息投影、智慧穿戴等創新應用，發展數字動漫、數字演藝、數字娛樂、數字藝術、數字展覽等新業態。推動內容、技術與空間融合，在文博、演藝、文旅融合等領域發展沉浸式新業態。創新發展時尚產業，培育一批彰顯中國審美、中國風格的時尚產品和品牌。支援新能源、新材料在文化產業領域的創新應用，推動綠色低碳發展。支援量子科技、具身智慧、腦機介面、第六代行動通訊等未來產業技術在文化產業的應用。"
+    },
+    {
+      "id": "5102266",
+      "time": "2026-09-18 20:10:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：加強對優質文化內容創作生產的扶持引導】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，加強對優質文化內容創作生產的扶持引導，提升文化內容和產品原創能力，完善有利於文化精品持續湧現的生產經營機制，形成健康向上、文質兼美、形式多樣的文化產品體系。深入挖掘優秀文化資源，支援戲劇、曲藝、音樂、舞蹈、美術、動漫等領域創作生產，推動文化精品與市場需求、現代生活有機結合。提升文化創意產品設計開發水平，開發體現傳統文化與當代價值的國潮文創產品。加強對文化企事業單位、內容創作者、網際網路平臺的引導，鼓勵協作共創，繁榮網際網路條件下新大眾文藝。"
+    },
+    {
+      "id": "5102265",
+      "time": "2026-09-18 20:10:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：推動人工智慧與內容創作、傳播分發、消費體驗等產業鏈重點環節深度融合】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》（以下簡稱《規劃》）。其中提到，推動人工智慧與內容創作、傳播分發、消費體驗等產業鏈重點環節深度融合。鼓勵文化企業基於人工智慧技術改造提升研發、生產、管理、服務流程。培育面向具體文化場景和細分文化行業的大模型應用產品，支援開發輕量化人工智慧應用。拓展動漫、演藝、創意設計、文博等領域人工智慧應用場景。推動文化場所和設施數字化、智慧化升級。"
+    },
+    {
+      "id": "te:economy:585016",
+      "time": "2026-09-18 20:10:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "House Price Index MoM",
+        "Importance 1"
+      ],
+      "text": "Canada New Housing Prices Extend Monthly Decline — Canada’s new housing prices fell 0.1% month over month in August 2026, matching the decline recorded in July. The drop was also the same as in the previous two months and remained the smallest since prices last increased in February. House-only prices decreased 0.1%, following a 0.2% decline in July, while land prices were unchanged after falling 0.1% in the previous month."
+    },
     {
       "id": "mkt:01a0b46c-172b-7118-8601-bc156281a998",
       "time": "2026-09-18 20:09:37",
@@ -9,6 +124,14 @@
         "MKT News"
       ],
       "text": "Industry news outlet ShippingWatch reports Maersk has ordered 26 new container ships."
+    },
+    {
+      "id": "5102264",
+      "time": "2026-09-18 20:09:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100期貨上漲0.19%，道指期貨下跌0.19%。"
     },
     {
       "id": "mkt:01a0b46b-da77-7118-8601-b013936e3e7c",
