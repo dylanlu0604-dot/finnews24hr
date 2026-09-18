@@ -1,7 +1,183 @@
 {
   "date": "2026-09-18",
-  "count": 748,
+  "count": 767,
   "items": [
+    {
+      "id": "mkt:01a0b235-fe18-7118-85ee-0890914d5fd9",
+      "time": "2026-09-18 09:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Recently listed stock C ShenGu rebounded; after an initial fall of over 27% at the open, its decline narrowed to 11.54%."
+    },
+    {
+      "id": "mkt:01a0b235-edae-7118-85ee-024cf2e1dd07",
+      "time": "2026-09-18 09:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said he has never considered seeking re-election."
+    },
+    {
+      "id": "5100949",
+      "time": "2026-09-18 09:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指站上3900點，現漲0.66%。"
+    },
+    {
+      "id": "mkt:01a0b235-c767-7118-85ed-fffa87b062b0",
+      "time": "2026-09-18 09:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee says he will establish separate economic and political capitals."
+    },
+    {
+      "id": "mkt:01a0b235-7c66-7118-85ed-f6011db134c4",
+      "time": "2026-09-18 09:50:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan 20-year bond yield down 4.5bps at 3.79%."
+    },
+    {
+      "id": "mkt:01a0b235-34ac-7118-85ed-efacfede3e05",
+      "time": "2026-09-18 09:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share helium sector active: Heyuan Gas rises over 6%, with Guanggang Gas, Baoguang Co., Shudao Equipment, Jinhong Gas and Kaimite Gas also trading higher."
+    },
+    {
+      "id": "mkt:01a0b234-a03e-7118-85ed-e2363e97b3d9",
+      "time": "2026-09-18 09:49:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Channel signatory change takes effect; SERES says Huawei stores will retain some AITO models】From Sept. 16, 2026 the signing party for AITO’s authorized dealer comprehensive service cooperation agreement switches from Huawei Terminal Co. to an affiliate of SERES Automotive; the prior agreement is automatically terminated. SERES denied reports that AITO will be pulled from Huawei stores in 2027, saying some HarmonyOS and Huawei-branded retail outlets will continue to sell AITO models. SERES added Huawei has not withdrawn from AITO: AITO remains a HarmonyOS member, Huawei’s technical supply and equity links persist, and AITO will remain available in Huawei consumer retail outlets largely operated by Huawei’s digital channel partners."
+    },
+    {
+      "id": "5100948",
+      "time": "2026-09-18 09:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：我從未考慮過尋求連任。"
+    },
+    {
+      "id": "5100947",
+      "time": "2026-09-18 09:49:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 太陽電纜直線漲停】早盤電網裝置板塊異動拉昇，太陽電纜直線漲停，順鈉股份、中超控股、紅相股份、漢纜股份跟漲。"
+    },
+    {
+      "id": "5100946",
+      "time": "2026-09-18 09:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天系概念持續走強，航天動力漲停】航天系概念持續走強，航天動力漲停，航天機電、航天發展、中國衛星、航天電子、航天智裝、航天科技等跟漲。"
+    },
+    {
+      "id": "5100945",
+      "time": "2026-09-18 09:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲超1%。"
+    },
+    {
+      "id": "mkt:01a0b233-eddf-7118-85ed-dffb07ee8bf8",
+      "time": "2026-09-18 09:49:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures rose more than 1%."
+    },
+    {
+      "id": "mkt:01a0b233-e013-7118-85ed-d09077b0609f",
+      "time": "2026-09-18 09:48:59",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs now expects total debt issuance by mega-cap corporates to reach $420bn in 2027, driven by an upward revision to its capex forecasts — more than a 60% increase from its $250bn full-year 2026 estimate."
+    },
+    {
+      "id": "5100944",
+      "time": "2026-09-18 09:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：誓言穩定樓市。"
+    },
+    {
+      "id": "mkt:01a0b233-c52e-7118-85ed-cb3c4c9d54e4",
+      "time": "2026-09-18 09:48:52",
+      "tags": [
+        "MKT News",
+        "01548.HK",
+        "Impact bullish",
+        "09688.HK",
+        "02359.HK"
+      ],
+      "text": "Hong Kong-listed biopharma stocks rallied after ten Chinese ministries issued the pharmaceutical industry \"15th Five-Year Plan.\" GenScript Biotech (01548.HK) rose over 5%, Zai Lab (09688.HK) gained nearly 5%; Junshi Biosciences (01877.HK), Henlius Biotech (02696.HK), Tigermed (03347.HK) and WuXi AppTec (02359.HK) also moved higher."
+    },
+    {
+      "id": "5100943",
+      "time": "2026-09-18 09:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：將打造分立的經濟首都與政治首都。"
+    },
+    {
+      "id": "5100942",
+      "time": "2026-09-18 09:48:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【問界渠道換籤落地，賽力斯稱華為門店部分保留問界車型】有媒體報道稱，自2026年9月16日起，問界“授權經銷夥伴綜合服務合作協議”簽署主體正式由華為終端有限公司換籤為賽力斯汽車有限公司的關聯公司，前序協議自動終止。針對“2027年問界撤出華為門店”的傳聞，賽力斯方面已向媒體明確否認，表示“有部分門店是保留的”，即有部分鴻蒙智行和華為專賣店會繼續銷售問界車型。賽力斯進一步說明，華為沒有撤出問界，問界仍是鴻蒙智行成員，華為的技術供應和股權聯絡仍然存在；華為商超門店裡還會有問界，鑑於商超門店大部分為華為數碼渠道商，這部分主導權仍在華為。(21世紀經濟報道)"
+    },
+    {
+      "id": "5100941",
+      "time": "2026-09-18 09:47:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾川科技：靈巧手仍處於手工裝配的小批次階段】禾川科技(688320)在9月18日召開的2026年半年度業績說明會上表示，當前第三代無框力矩電機依託禾川母公司成熟產品平臺及既有自動化產線，已具備規模化量產與快速爬坡能力，但受訂單規模製約，產能尚未充分釋放；靈巧手仍處於手工裝配的小批次階段，產能彈性有限，後續若市場訂單放量，可依託公司自動化產線能力迅速擴產。"
+    },
+    {
+      "id": "5100940",
+      "time": "2026-09-18 09:47:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量59億元。"
+    },
     {
       "id": "5100939",
       "time": "2026-09-18 09:47:29",

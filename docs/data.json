@@ -1,7 +1,183 @@
 {
-  "updated": "2026-09-18 09:48:00",
-  "count": 13294,
+  "updated": "2026-09-18 09:51:47",
+  "count": 13301,
   "items": [
+    {
+      "id": "mkt:01a0b235-fe18-7118-85ee-0890914d5fd9",
+      "time": "2026-09-18 09:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Recently listed stock C ShenGu rebounded; after an initial fall of over 27% at the open, its decline narrowed to 11.54%."
+    },
+    {
+      "id": "mkt:01a0b235-edae-7118-85ee-024cf2e1dd07",
+      "time": "2026-09-18 09:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said he has never considered seeking re-election."
+    },
+    {
+      "id": "5100949",
+      "time": "2026-09-18 09:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指站上3900點，現漲0.66%。"
+    },
+    {
+      "id": "mkt:01a0b235-c767-7118-85ed-fffa87b062b0",
+      "time": "2026-09-18 09:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee says he will establish separate economic and political capitals."
+    },
+    {
+      "id": "mkt:01a0b235-7c66-7118-85ed-f6011db134c4",
+      "time": "2026-09-18 09:50:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan 20-year bond yield down 4.5bps at 3.79%."
+    },
+    {
+      "id": "mkt:01a0b235-34ac-7118-85ed-efacfede3e05",
+      "time": "2026-09-18 09:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share helium sector active: Heyuan Gas rises over 6%, with Guanggang Gas, Baoguang Co., Shudao Equipment, Jinhong Gas and Kaimite Gas also trading higher."
+    },
+    {
+      "id": "mkt:01a0b234-a03e-7118-85ed-e2363e97b3d9",
+      "time": "2026-09-18 09:49:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Channel signatory change takes effect; SERES says Huawei stores will retain some AITO models】From Sept. 16, 2026 the signing party for AITO’s authorized dealer comprehensive service cooperation agreement switches from Huawei Terminal Co. to an affiliate of SERES Automotive; the prior agreement is automatically terminated. SERES denied reports that AITO will be pulled from Huawei stores in 2027, saying some HarmonyOS and Huawei-branded retail outlets will continue to sell AITO models. SERES added Huawei has not withdrawn from AITO: AITO remains a HarmonyOS member, Huawei’s technical supply and equity links persist, and AITO will remain available in Huawei consumer retail outlets largely operated by Huawei’s digital channel partners."
+    },
+    {
+      "id": "5100948",
+      "time": "2026-09-18 09:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：我從未考慮過尋求連任。"
+    },
+    {
+      "id": "5100947",
+      "time": "2026-09-18 09:49:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 太陽電纜直線漲停】早盤電網裝置板塊異動拉昇，太陽電纜直線漲停，順鈉股份、中超控股、紅相股份、漢纜股份跟漲。"
+    },
+    {
+      "id": "5100946",
+      "time": "2026-09-18 09:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天系概念持續走強，航天動力漲停】航天系概念持續走強，航天動力漲停，航天機電、航天發展、中國衛星、航天電子、航天智裝、航天科技等跟漲。"
+    },
+    {
+      "id": "5100945",
+      "time": "2026-09-18 09:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲超1%。"
+    },
+    {
+      "id": "mkt:01a0b233-eddf-7118-85ed-dffb07ee8bf8",
+      "time": "2026-09-18 09:49:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures rose more than 1%."
+    },
+    {
+      "id": "mkt:01a0b233-e013-7118-85ed-d09077b0609f",
+      "time": "2026-09-18 09:48:59",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs now expects total debt issuance by mega-cap corporates to reach $420bn in 2027, driven by an upward revision to its capex forecasts — more than a 60% increase from its $250bn full-year 2026 estimate."
+    },
+    {
+      "id": "5100944",
+      "time": "2026-09-18 09:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：誓言穩定樓市。"
+    },
+    {
+      "id": "mkt:01a0b233-c52e-7118-85ed-cb3c4c9d54e4",
+      "time": "2026-09-18 09:48:52",
+      "tags": [
+        "MKT News",
+        "01548.HK",
+        "Impact bullish",
+        "09688.HK",
+        "02359.HK"
+      ],
+      "text": "Hong Kong-listed biopharma stocks rallied after ten Chinese ministries issued the pharmaceutical industry \"15th Five-Year Plan.\" GenScript Biotech (01548.HK) rose over 5%, Zai Lab (09688.HK) gained nearly 5%; Junshi Biosciences (01877.HK), Henlius Biotech (02696.HK), Tigermed (03347.HK) and WuXi AppTec (02359.HK) also moved higher."
+    },
+    {
+      "id": "5100943",
+      "time": "2026-09-18 09:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "李在明：將打造分立的經濟首都與政治首都。"
+    },
+    {
+      "id": "5100942",
+      "time": "2026-09-18 09:48:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【問界渠道換籤落地，賽力斯稱華為門店部分保留問界車型】有媒體報道稱，自2026年9月16日起，問界“授權經銷夥伴綜合服務合作協議”簽署主體正式由華為終端有限公司換籤為賽力斯汽車有限公司的關聯公司，前序協議自動終止。針對“2027年問界撤出華為門店”的傳聞，賽力斯方面已向媒體明確否認，表示“有部分門店是保留的”，即有部分鴻蒙智行和華為專賣店會繼續銷售問界車型。賽力斯進一步說明，華為沒有撤出問界，問界仍是鴻蒙智行成員，華為的技術供應和股權聯絡仍然存在；華為商超門店裡還會有問界，鑑於商超門店大部分為華為數碼渠道商，這部分主導權仍在華為。(21世紀經濟報道)"
+    },
+    {
+      "id": "5100941",
+      "time": "2026-09-18 09:47:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾川科技：靈巧手仍處於手工裝配的小批次階段】禾川科技(688320)在9月18日召開的2026年半年度業績說明會上表示，當前第三代無框力矩電機依託禾川母公司成熟產品平臺及既有自動化產線，已具備規模化量產與快速爬坡能力，但受訂單規模製約，產能尚未充分釋放；靈巧手仍處於手工裝配的小批次階段，產能彈性有限，後續若市場訂單放量，可依託公司自動化產線能力迅速擴產。"
+    },
+    {
+      "id": "5100940",
+      "time": "2026-09-18 09:47:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量59億元。"
+    },
     {
       "id": "5100939",
       "time": "2026-09-18 09:47:29",
@@ -122174,116 +122350,6 @@
         "國際"
       ],
       "text": "抗議者在萬斯的主題演講期間站起來揮舞墨西哥和巴勒斯坦國旗後被趕出共和黨大會。"
-    },
-    {
-      "id": "5088599",
-      "time": "2026-09-11 09:51:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國首款外籍人員專屬入境綜合保險保障產品落地北京】全國首款外籍人員入境綜合保險保障產品10日在2026年服貿會上釋出，此保險產品聚焦外籍人員短期入境的實際需求，化解外籍人員在華就醫救援面臨的困難，將進一步為外籍人員來華旅遊、短期工作等提供更多便利和保障。（新華社）"
-    },
-    {
-      "id": "5088598",
-      "time": "2026-09-11 09:51:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威騰電氣：上半年高低壓母線市場需求旺盛】威騰電氣在9月11日舉行的2026年半年度業績說明會上表示，上半年AI驅動資料中心行業高景氣，高低壓母線市場需求旺盛。公司上半年產能逐步釋放、訂單承接能力顯著提升，高低壓母線業務取得高速增長。"
-    },
-    {
-      "id": "te:markets:582961",
-      "time": "2026-09-11 09:50:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakens as Dollar Rebounds — The Japanese yen weakened past 154 per dollar on Friday, retreating from near seven-month highs as the dollar recovered after data showed US producer inflation accelerated in August, bolstering bets for a Federal Reserve rate hike next week. The yen also faced pressure from surging oil prices that kept inflation risks elevated, with the US and Iran showing no signs of backing down from the war. Meanwhile, data showed Japanese producer inflation climbed 7.6% in August, reinforcing expectations for a Bank of Japan rate increase this month. Sentiment among large manufacturers also improved sharply in Q3, reaching its strongest level since Q4 2021 amid robust government support measures. Still, the yen remained up more than 3% so far this month, supported by expectations for more aggressive BOJ policy tightening, the unwinding of carry trades and increased capital repatriation."
-    },
-    {
-      "id": "5088597",
-      "time": "2026-09-11 09:50:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯在達拉斯舉行的共和黨中期會議上發表講話。"
-    },
-    {
-      "id": "5088596",
-      "time": "2026-09-11 09:50:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報134800.00元。"
-    },
-    {
-      "id": "5088595",
-      "time": "2026-09-11 09:50:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST中珠等成立資料科技公司，含積體電路業務】企查查APP顯示，近日，深圳潛力資料科技有限公司成立，經營範圍包含：積體電路設計；積體電路晶片設計及服務；積體電路製造；積體電路晶片及產品製造；積體電路銷售等。企查查股權穿透顯示，該公司由ST中珠全資子公司深圳潛力芯算科技有限公司等共同持股。"
-    },
-    {
-      "id": "5088594",
-      "time": "2026-09-11 09:50:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "電力股區域性異動，閩東電力3連板，杭州熱電衝擊漲停，湖南發展、芯能科技、廣西能源、華銀電力漲幅居前。"
-    },
-    {
-      "id": "5088593",
-      "time": "2026-09-11 09:49:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中糧福臨門更換輔導券商，重新辦理輔導備案登記】近日，據證監會網站披露，中糧福臨門股份有限公司（以下簡稱“中糧福臨門”）重新辦理輔導備案登記，輔導機構已由原來的中金公司變更為了中信建投證券。公開資料顯示，中糧福臨門成立於2020年11月，是一家穀物調和油類產品提供商，主要從事食品生產、食品加工及品牌銷售業務和全球農糧供應鏈業務，提供糧食、油脂油料、糖類、棉花、食品等產品。股東方面，截至2026年9月10日，中糧集團（香港）有限公司直接持有中糧福臨門36.58%的股份，並透過 Wide Smart Holdings Limited 間接持有公司27.50%的股份，合計持股比例為64.08%，為公司的控股股東。"
-    },
-    {
-      "id": "5088592",
-      "time": "2026-09-11 09:49:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小馬智行在上海成立智卡科技公司】企查查APP顯示，近日，上海小馬智卡科技有限公司成立，經營範圍含軟體外包服務、軟體開發、計算機及通訊裝置租賃等。企查查股權穿透顯示，該公司由小馬智行關聯公司北京小馬慧行科技有限公司全資持股。"
-    },
-    {
-      "id": "mkt:01a08e27-4704-7118-8539-5f5df2c2747d",
-      "time": "2026-09-11 09:48:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share property sector tumbled again at the open. Yuexin Health fell more than 8% and Wo Ai Wo Jia dropped over 6.5%; Shilianhang, Huafa, Hefei Urban Construction, Binjiang Group and New Huangpu also declined."
-    },
-    {
-      "id": "5088591",
-      "time": "2026-09-11 09:48:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量525億元。"
-    },
-    {
-      "id": "5088590",
-      "time": "2026-09-11 09:48:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2％，成分股中，中科星圖跌5.85％，中控技術跌3.45％，佰維儲存跌3.33％，天合光能跌3.25％。"
     }
   ]
 }
