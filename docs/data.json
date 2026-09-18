@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-19 05:14:03",
-  "count": 13496,
+  "updated": "2026-09-19 05:17:51",
+  "count": 13494,
   "items": [
+    {
+      "id": "5102802",
+      "time": "2026-09-19 05:17:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達首席財務官克雷斯出售 34918 股英偉達股票。"
+    },
+    {
+      "id": "5102801",
+      "time": "2026-09-19 05:14:26",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達CEO黃仁勳減持45,728股公司股票。"
+    },
     {
       "id": "mkt:01a0b65d-c66a-7118-860c-74fb4149bf98",
       "time": "2026-09-19 05:13:13",
@@ -123883,49 +123901,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.03%，報14517點。"
-    },
-    {
-      "id": "te:markets:583297",
-      "time": "2026-09-12 05:16:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rally Pauses on Mideast Diplomatic Efforts — Crude oil paused its rally to settle around $100 a barrel on Friday after Iranian state media said Tehran would meet Gulf states in Oman to discuss the Strait of Hormuz. Gulf Cooperation Council diplomats are expected to meet their Iranian counterpart on Monday to discuss a possible temporary arrangement for managing shipping through the strait. Adding to downward pressure, the EIA raised its 2027 US crude production forecast to 14.3 million barrels a day, while the IEA sharply cut its global oil demand outlook, forecasting a 2.5 million-barrel-a-day contraction in 2026. Meanwhile, China is on track to import roughly the same volume of crude in September as in August, with purchases recovering from June’s decade-low. Saudi Arabia shut its East-West crude pipeline as a precaution after multiple attacks, while Iran-backed Houthis reportedly advanced to Yemen’s Perim Island. Oil surged 9.7% on the week."
-    },
-    {
-      "id": "5090399",
-      "time": "2026-09-12 05:16:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案，CrowdStrike提交申報檔案，由售股股東擬發售最高212萬股A類普通股。"
-    },
-    {
-      "id": "5090398",
-      "time": "2026-09-12 05:14:14",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "據知情人士透露，高盛、花旗和美國銀行目前仍擔任Situational Awareness公司的活躍經紀商。"
-    },
-    {
-      "id": "mkt:01a09252-1b47-7118-8552-05448207fb9c",
-      "time": "2026-09-12 05:14:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Saudi says oil pipeline hit by drone strikes from Iraq; injuries and facility damage】On the 11th, the Saudi foreign ministry said multiple drones launched from Iraq struck the east–west oil pipeline in Riyadh and Medina regions, injuring personnel and damaging facilities; losses are being assessed. Riyadh said it had previously given Baghdad time to act at the request of the Iraqi prime minister and had restrained its own response while supporting Iraqi government efforts. Saudi Arabia retains the right to take all necessary measures to protect its sovereignty, security, facilities and residents."
     }
   ]
 }
