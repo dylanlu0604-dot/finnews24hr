@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-18 23:27:35",
-  "count": 13378,
+  "updated": "2026-09-18 23:31:28",
+  "count": 13381,
   "items": [
+    {
+      "id": "mkt:01a0b523-f9ce-7118-8607-7b06ced05b00",
+      "time": "2026-09-18 23:30:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. 2-year Treasury yield rose to 4.744%, poised for its highest close since July 2024."
+    },
+    {
+      "id": "mkt:01a0b523-c575-7118-8607-77b9c9dfcf9d",
+      "time": "2026-09-18 23:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say an organization linked to U.S. Health and Human Services Secretary Robert F. Kennedy Jr. sold access to U.S. officials at an event. The U.S. Department of Health and Human Services said its officials were not aware of the sponsorship arrangements."
+    },
+    {
+      "id": "te:economy:585080",
+      "time": "2026-09-18 23:30:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Gains by 12 bps — Majority of government bonds yields are higher on Friday. Top gainers are France 10Y (11.58bps), US 10Y (6.80bps) and Germany 10Y (4.43bps). Biggest losers are Japan 10Y (-0.72bps)."
+    },
+    {
+      "id": "5102570",
+      "time": "2026-09-18 23:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫否認有關俄羅斯計劃在年底前動員 30 萬人的報道。"
+    },
+    {
+      "id": "mkt:01a0b523-42bf-7118-8607-6ba0763a14c5",
+      "time": "2026-09-18 23:29:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov denied reports that Russia plans to mobilize 300,000 people by year-end."
+    },
+    {
+      "id": "5102569",
+      "time": "2026-09-18 23:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【簽約球星姆巴佩 On昂跑亞太區回應：合作含現金激勵】北京時間9月18日晚，瑞士運動品牌On昂跑正式宣佈攜手足壇巨星基利安·姆巴佩（Kylian Mbappé）進軍足球領域，標誌著這家以跑鞋聞名的品牌正式開啟邁向全球最大體育專案的新徵程。昂跑創始人戴維・阿勒曼公開表示，品牌足球鞋將於2027年面向零售市場發售，定位為高階產品。據悉，姆巴佩不僅會穿著昂跑開發的足球產品參加比賽，還將直接參與未來足球鞋和服裝的開發與測試，併成為品牌全球代言人。談及昂跑與姆巴佩的合作激勵機制，昂跑亞太區公關負責人阿德里安在當晚接受採訪時透露，昂跑與姆巴佩之間是長期、高度協作的合作，以共同創造和產品創新為核心，帶有創業精神，激勵機制包含現金和股權兩部分。但他並未明確是否類似費德勒模式。（每經）"
+    },
     {
       "id": "5102568",
       "time": "2026-09-18 23:26:14",
@@ -122865,40 +122923,6 @@
         "其他"
       ],
       "text": "德國DAX 30指數初步收漲0.68%，報25532.81點，本週累跌大約2%。法國股指初步收漲0.67%，義大利股指初步收漲1.10%、銀行指數漲1.55%，英國股指初步收漲0.26%。"
-    },
-    {
-      "id": "5090158",
-      "time": "2026-09-11 23:31:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.41%，報638.54點，本週累計下跌大約1.7%。歐元區STOXX 50指數初步收漲0.71%，報6313.28點，本週累跌約1.2%。富時泛歐績優300指數初步收漲0.39%，報2550.79點。"
-    },
-    {
-      "id": "te:economy:583251",
-      "time": "2026-09-11 23:30:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: New Zealand 10Y Bond Yield Rises by 15 bps — Majority of government bonds yields are higher on Friday. Top gainers are New Zealand 10Y (15.47bps), Australia 10Y (10.70bps), Japan 10Y (6.90bps) and Germany 10Y (0.62bps). Biggest losers are Brazil 10Y (-10.75bps) and US 10Y (-3bps)."
-    },
-    {
-      "id": "mkt:01a09116-2f55-7118-854e-c2c2dd55b373",
-      "time": "2026-09-11 23:29:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O): Semi truck set to enter European market imminently."
     }
   ]
 }
