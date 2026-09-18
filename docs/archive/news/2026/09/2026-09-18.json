@@ -1,7 +1,237 @@
 {
   "date": "2026-09-18",
-  "count": 1438,
+  "count": 1462,
   "items": [
+    {
+      "id": "mkt:01a0b358-49b9-7118-85f8-5ba2dd6df35b",
+      "time": "2026-09-18 15:08:22",
+      "tags": [
+        "MKT News",
+        "NIO.O",
+        "Impact bearish"
+      ],
+      "text": "【NIO recalls 686 Firefly EVs over potential steering-sensor interference】NIO filed a recall plan with SAMR under recall number S2026M0114V and will immediately recall 686 Firefly pure-electric vehicles produced between Mar 20 and Apr 2, 2026. NIO says manufacturing-process variation may allow the steering-column torque sensor wiring harness to interfere with the sensor rotor; in extreme cases this can cause sensor signal abnormalities, illuminate the electronic power steering (EPS) fault lamp and lead to loss of steering assist, creating a safety hazard."
+    },
+    {
+      "id": "mkt:01a0b358-44c3-7118-85f8-56e59cf04b25",
+      "time": "2026-09-18 15:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BYD Auto Industry Co., Ltd. and BYD Auto Co., Ltd. recall some China-made vehicles】BYD Auto Industry Co., Ltd. and BYD Auto Co., Ltd. filed a recall plan with the State Administration for Market Regulation under China’s defective vehicle recall rules covering certain China-made models. A production batch defect in the brake pedal stop-pad material can cause the pads to crack after prolonged use and, in extreme cases, detach; detachment may leave brake lights illuminated when the pedal is not depressed, creating a safety hazard. BYD will authorize dealers to replace the improved stop pads free of charge; vehicles that have already received the improved part are exempt from the recall."
+    },
+    {
+      "id": "5101444",
+      "time": "2026-09-18 15:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口混合動力汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0115V：自即日起，召回2023年9月5日至2024年3月26日期間生產的部分進口牧馬人混合動力汽車，共計979輛；召回2023年7月19日至2023年10月9日期間生產的部分進口全新大切諾基4xe混合動力汽車，共計1178輛。本次召回範圍內的部分車輛，可能在發動機鑄造過程中受到砂粒汙染。鑄造產生的砂粒會侵入發動機內部零部件，引發發動機故障。極端情況下，可能造成車輛行駛中失去動力或發動機艙內起火，存在安全隱患。斯泰蘭蒂斯（上海）汽車有限公司將為召回範圍內的車輛免費重新整理發動機控制模組軟體，執行發動機運轉測試，如果車輛被檢測出存在發動機軸承故障，則免費更換發動機總成，以消除安全隱患。"
+    },
+    {
+      "id": "5101443",
+      "time": "2026-09-18 15:08:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我希望向各國央行同行詢問其加息決定背後的意圖。"
+    },
+    {
+      "id": "5101442",
+      "time": "2026-09-18 15:08:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：海外加息或透過包括外匯在內的多種渠道對日本產生影響。"
+    },
+    {
+      "id": "5101441",
+      "time": "2026-09-18 15:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其主要指數BIST-100<.XU100>延續跌勢，跌幅達2%。"
+    },
+    {
+      "id": "5101440",
+      "time": "2026-09-18 15:07:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來汽車科技（安徽）有限公司召回部分螢火蟲純電動汽車】日前，蔚來汽車科技（安徽）有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0114V：自即日起，召回2026年3月20日至2026年4月2日期間生產的部分螢火蟲純電動汽車，共計686輛。本次召回範圍內的部分車輛，因製造工藝異常波動，轉向管柱扭矩感測器線束與感測器轉子可能發生干涉，極端情況下，引發感測器訊號異常，電子轉向系統故障燈點亮，轉向助力失效，存在安全隱患。蔚來汽車科技（安徽）有限公司將免費為召回範圍內的車輛檢查轉向管柱扭矩感測器線束與感測器轉子是否干涉，若干涉則更換感測器線束，以消除安全隱患。因部分車輛此前已完成相關檢修，本次召回此部分車輛無需再次檢修。"
+    },
+    {
+      "id": "5101439",
+      "time": "2026-09-18 15:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【擎倉機器人程巖：物流供應鏈是具身智慧產業落地最好的切入點】在今日舉辦的2026科技創變者大會上，擎倉機器人創始人程巖表示，物流供應鏈是具身智慧產業落地最好的切入點。他指出，具身智慧時代物流市場至少5000億元。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0b356-f282-7118-85f8-4d577535fd0d",
+      "time": "2026-09-18 15:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【A-shares close: ChiNext +2.25%; semiconductor chain surges】A-shares closed higher after intraday gains. Shanghai Composite +0.94%, Shenzhen Composite Index +1.72%, ChiNext +2.25%. The semiconductor chain outperformed, led by advanced packaging, lithography equipment and AI-chip segments; multiple semicon names hit daily limit-ups, including HKC and Huatian Technology. PV equipment advanced—Laplace +11%, Amadon hit limit-up. Real estate rallied in the afternoon with Vanke A and Greenland Holdings at limit-up. Other stronger sectors included glass substrate, CPO, retail, controlled nuclear fusion, liquid-cooled servers and MLCC. Lagging sectors were coal, autos, fisheries, planting and shipping & ports. Some recent IPOs spiked: C-Shengu closed +177% (intraday high +297%), C-Xinnuowei +34%. Combined turnover on the Shanghai and Shenzhen bourses was about 2.08 trillion yuan, up roughly 254 billion yuan from yesterday; around 3,900 stocks rose and 1,100 fell."
+    },
+    {
+      "id": "5101438",
+      "time": "2026-09-18 15:06:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：在被問及是否有可能連續加息或加息幅度超過25個基點時，稱不排除任何特定政策選項。"
+    },
+    {
+      "id": "te:markets:584913",
+      "time": "2026-09-18 15:06:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise After BOJ Decision — The Nikkei 225 Index advanced 1.38% to finish at 65,019 on Friday, extending its winning streak to three sessions after the Bank of Japan raised its policy rate by 25 basis points to 1.25% in a widely telegraphed move. The decision was not unanimous, however, as board members Toichiro Asada and Ayano Sato opposed the increase, signaling some resistance to a more rapid pace of policy tightening. Despite the dissent, Governor Kazuo Ueda said at the post-meeting press conference that the BOJ remains prepared to raise rates further and adjust the level of monetary easing as economic conditions evolve. Meanwhile, official data showed Japan’s core inflation slowing to 1.7% in August from 1.8% in July, its first decline in four months. Technology and AI-related shares led the market higher after similar gains on Wall Street overnight, with Kioxia (9.4%), SoftBank Group (1.1%), Advantest (6%), Lasertec (8.7%), and Taiyo Yuden (4.2%) among the notable advancers."
+    },
+    {
+      "id": "mkt:01a0b356-a30f-7118-85f8-46e51706a134",
+      "time": "2026-09-18 15:06:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said when asked about a 50bp rate increase or consecutive hikes that multiple outcomes are possible depending on inflation."
+    },
+    {
+      "id": "5101437",
+      "time": "2026-09-18 15:06:19",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：受中東危機影響，第二輪物價上漲正在發生。沙特輸油管道中斷是否會持續尚不確定，將密切關注事態發展。"
+    },
+    {
+      "id": "5101436",
+      "time": "2026-09-18 15:06:14",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男在被問及是否可能加息50個基點或連續加息時表示，後續存在多種可能性，具體取決於通脹形勢。"
+    },
+    {
+      "id": "5101435",
+      "time": "2026-09-18 15:06:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "德意志電信<DTEGn.DE>股價下跌3.3%，在德國藍籌股指數<.GDAXI>中跌幅居前。"
+    },
+    {
+      "id": "5101434",
+      "time": "2026-09-18 15:05:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：市場波動由少數投資基金的流動性與信貸問題引發。"
+    },
+    {
+      "id": "mkt:01a0b355-ab5c-7118-85f8-39be41ed14eb",
+      "time": "2026-09-18 15:05:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "BOJ Governor UEDA said it is uncertain whether the Saudi oil pipeline disruption will persist and that the BOJ will closely monitor developments."
+    },
+    {
+      "id": "5101432",
+      "time": "2026-09-18 15:05:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SOITEC股價下跌3%，此前該公司發行5億歐元2033年9月到期的ORNANE債券。"
+    },
+    {
+      "id": "5101431",
+      "time": "2026-09-18 15:05:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大眾汽車集團正在召回部分美國市場車輛，因轉向機殼體可能斷裂導致轉向失控，增加碰撞風險。"
+    },
+    {
+      "id": "5101430",
+      "time": "2026-09-18 15:05:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大眾汽車集團將召回208,724輛美國市場車輛。"
+    },
+    {
+      "id": "5101429",
+      "time": "2026-09-18 15:05:09",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利將Orange評級從\"中性\"下調至\"減持\"後，該公司股價下跌3.1%。"
+    },
+    {
+      "id": "5101428",
+      "time": "2026-09-18 15:05:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大眾汽車集團正在召回部分美國市場車輛，因發動機意外熄火、外部照明或警示燈失效，或後視攝像頭系統故障可能增加碰撞風險。"
+    },
+    {
+      "id": "5101427",
+      "time": "2026-09-18 15:05:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國大眾汽車集團將召回49,958輛美國市場車輛。"
+    },
+    {
+      "id": "5101426",
+      "time": "2026-09-18 15:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【就涉伊朗制裁委員會專家小組授權延期決議草案，中俄投反對票，伊朗表態】綜合伊朗伊斯蘭共和國通訊社等媒體報道，伊朗常駐聯合國代表團當地時間17日在社交平臺上發帖，對中國與俄羅斯就有關問題所持原則立場表示讚賞。（環球網）"
+    },
     {
       "id": "mkt:01a0b354-cc1c-7118-85f8-3760b16c9b38",
       "time": "2026-09-18 15:04:33",
