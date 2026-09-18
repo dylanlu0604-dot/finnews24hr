@@ -1,7 +1,92 @@
 {
   "date": "2026-09-19",
-  "count": 149,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:01a0b5e6-aed0-7118-860a-5b7eccf79533",
+      "time": "2026-09-19 03:03:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolivia's congress approved a US$1.9 bln IMF aid package."
+    },
+    {
+      "id": "mkt:01a0b5e6-6f53-7118-860a-5154da12267e",
+      "time": "2026-09-19 03:02:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.23% at 24,678, trading 73 points below the cash index."
+    },
+    {
+      "id": "mkt:01a0b5e5-7b31-7118-860a-4e510558f363",
+      "time": "2026-09-19 03:01:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "MERZ said Germany will cut gasoline and diesel fuel duty by about €0.17 per liter, effective Oct. 1 and running through end-2026."
+    },
+    {
+      "id": "5102667",
+      "time": "2026-09-19 03:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷8月出口額為88.83億美元。"
+    },
+    {
+      "id": "mkt:01a0b5e4-c480-7118-860a-43d72a2caf22",
+      "time": "2026-09-19 03:01:03",
+      "tags": [
+        "MKT News",
+        "PHM.N",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Data show Fannie Mae and Freddie Mac held about $155.4 bln of mortgage-backed securities (MBS) at end-July, down roughly $6.3 bln from end-June. PULTE said the two firms are stepping up mortgage-asset purchases and will \"buy on a large scale\" going forward."
+    },
+    {
+      "id": "5102666",
+      "time": "2026-09-19 03:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計局公佈8月貿易順差21.87億美元，預測為順差20.55億美元。"
+    },
+    {
+      "id": "5102665",
+      "time": "2026-09-19 03:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部稱，美國飼養場牛數量較上年同期增長0.7%，8月份肉牛育肥場入欄量同比下降9.2%。"
+    },
+    {
+      "id": "5102664",
+      "time": "2026-09-19 03:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月份從飼養場售出的牛數量比去年同期下降了3.3%。"
+    },
+    {
+      "id": "5102663",
+      "time": "2026-09-19 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.26%，報24670.85點，低水79.93點。"
+    },
     {
       "id": "5102662",
       "time": "2026-09-19 02:55:27",
