@@ -1,7 +1,28 @@
 {
   "date": "2026-09-18",
-  "count": 2414,
+  "count": 2416,
   "items": [
+    {
+      "id": "mkt:01a0b50f-5fd3-7118-8607-1088245c8100",
+      "time": "2026-09-18 23:07:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "French 10-year bond yield rose 14 bps intraday to 4.582% and is set to post its largest single-day increase since May 15."
+    },
+    {
+      "id": "5102551",
+      "time": "2026-09-18 23:07:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國 10 年期國債收益率上升 14 個基點至 4.582%，有望創下 5 月 15 日以來最大單日漲幅。"
+    },
     {
       "id": "5102550",
       "time": "2026-09-18 23:06:38",
