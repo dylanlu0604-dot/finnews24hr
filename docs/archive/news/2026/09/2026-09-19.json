@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-19",
+  "count": 2,
+  "items": [
+    {
+      "id": "te:markets:585090",
+      "time": "2026-09-19 00:04:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cheese Hits 32-week Low — Cheese decreased to 1.51 USD/Lbs, the lowest since February 2026. Over the past 4 weeks, Cheese lost 8.37%, and in the last 12 months, it decreased 16.67%."
+    },
+    {
+      "id": "5102595",
+      "time": "2026-09-19 00:01:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣升逾8萬美元 投資者消化美國加密貨幣法案受挫及美聯儲加息】加密貨幣週五上漲，市場風險偏好上升，投資者消化了美國加密貨幣法案未獲透過以及美聯儲三年多來首次加息的影響。最大的加密貨幣比特幣一度上漲5.2%，報約80,443美元，收復本週早些時候的部分失地。第二大加密貨幣以太幣一度上漲5.1%，至約2,576美元。XRP、Solana和Monero等規模較小的加密貨幣也上漲。此次上漲表明，數字資產投資者已經消化了過去一週的大部分利空訊息。美國一項重要的加密貨幣監管法案《Clarity Act》週二在程式性投票中未能透過，此前市場已認為該法案不太可能在參議院過關；而美聯儲週三加息25個基點也符合市場普遍預期。"
+    }
+  ]
+}
