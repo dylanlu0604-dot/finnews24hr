@@ -1,7 +1,264 @@
 {
   "date": "2026-09-18",
-  "count": 1412,
+  "count": 1438,
   "items": [
+    {
+      "id": "mkt:01a0b354-cc1c-7118-85f8-3760b16c9b38",
+      "time": "2026-09-18 15:04:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor UEDA said second-round price increases are occurring as a result of the Middle East crisis."
+    },
+    {
+      "id": "5101425",
+      "time": "2026-09-18 15:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：美國財長貝森特對“高市經濟學”評價很高。"
+    },
+    {
+      "id": "mkt:01a0b354-4f12-7118-85f8-2b8b6ad93d3b",
+      "time": "2026-09-18 15:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said U.S. Treasury Secretary Bessent has spoken highly of \"Takaichi economics\"."
+    },
+    {
+      "id": "5101424",
+      "time": "2026-09-18 15:03:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SOITEC股價下跌3%，此前該公司發行5億歐元2033年9月到期的ORNANE債券。"
+    },
+    {
+      "id": "mkt:01a0b353-f6ad-7118-85f8-2545c3606a2a",
+      "time": "2026-09-18 15:03:39",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will decide on a rate hike based on an assessment of two-sided risks."
+    },
+    {
+      "id": "5101423",
+      "time": "2026-09-18 15:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦外匯儲備創歷史新高。"
+    },
+    {
+      "id": "5101422",
+      "time": "2026-09-18 15:03:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蒂森克虜伯海洋系統股份兩合公司<TKMS.DE>股價上漲2.7%，本地交易員指出，上漲原因是券商首次覆蓋該股票。"
+    },
+    {
+      "id": "mkt:01a0b353-9e2e-7118-85f8-1eaa1bcfc8bc",
+      "time": "2026-09-18 15:03:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "STM.PA",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics shares in Europe rose 2.1%."
+    },
+    {
+      "id": "5101421",
+      "time": "2026-09-18 15:03:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股價早盤上漲2.1%。"
+    },
+    {
+      "id": "mkt:01a0b353-7f44-7118-85f8-1230f9895fd0",
+      "time": "2026-09-18 15:03:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 36.27 points, or 0.94 pct, at 3,911.87 on Sept 18 (Fri). Shenzhen Composite Index closed up 230.97 points, or 1.72 pct, at 13,640.87. CSI 300 Index closed up 47.24 points, or 1.06 pct, at 4,507.39. ChiNext Index closed up 74.37 points, or 2.25 pct, at 3,372.68. STAR 50 Index closed up 46.34 points, or 2.88 pct, at 1,652.63."
+    },
+    {
+      "id": "5101420",
+      "time": "2026-09-18 15:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【範波會見羅氏診斷全球運營總裁瑞秋·克萊因一行】9月18日，蘇州市委書記範波會見了羅氏診斷全球運營總裁瑞秋·克萊因一行。範波代表市委、市政府對羅氏給予蘇州發展的關心支援表示感謝。他說，蘇州是中國東部地區重要的中心城市，當前正深入學習貫徹習近平總書記就發展先進製造業作出的重要指示精神和全國先進製造業大會部署，強化創新驅動，因地制宜發展新質生產力，最佳化完善“1030”產業體系，縱深開展“人工智慧+製造”行動，建設具有國際競爭力的“智慧製造之城”。生物醫藥及高階醫療器械是蘇州加力佈局的十大重點新興產業之一，羅氏是全球領先的生物醫藥企業，雙方合作基礎深厚、深化合作空間廣闊。希望羅氏持續加大在蘇投資力度，積極匯入更多優質專案、創新技術、先進理念，助力蘇州推動生物醫藥全產業鏈開放創新，共同書寫互利共贏新篇章。蘇州將積極擴大高水平對外開放，深入開展“三服務”專項行動，努力打造“有呼必應、事事閉環”營商環境品牌，更好服務廣大企業紮根蘇州、創新發展。（蘇州日報）"
+    },
+    {
+      "id": "5101419",
+      "time": "2026-09-18 15:02:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雀巢歐股下跌1.5%，此前該公司表示，在克里姆林宮採取行動沒收其在俄業務之際，正在權衡所有選項。"
+    },
+    {
+      "id": "mkt:01a0b353-1db3-7118-85f8-087a8e879b20",
+      "time": "2026-09-18 15:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NESN.SW",
+        "Impact bearish"
+      ],
+      "text": "Nestlé's European shares fell 1.5% as the Kremlin is considering taking over its Russian operations."
+    },
+    {
+      "id": "mkt:01a0b352-d681-7118-85f8-0784b1cf9f38",
+      "time": "2026-09-18 15:02:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Ueda said the Bank of Japan will continue to conduct appropriate monetary policy operations under the Bank of Japan Act."
+    },
+    {
+      "id": "5101418",
+      "time": "2026-09-18 15:02:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：將繼續根據日本央行的法律進行適當的貨幣政策操作。"
+    },
+    {
+      "id": "mkt:01a0b352-335a-7118-85f7-fa3630323b32",
+      "time": "2026-09-18 15:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities opened lower on Friday Sept 18: Germany's DAX fell 107.58 points (-0.42%) to 25,625.68; STOXX Europe 50 down 12.05 points (-0.19%) to 6,310.85; Spain's IBEX 35 down 43.76 points (-0.22%) to 19,792.44; Italy's FTSE MIB down 106.00 points (-0.20%) to 52,279.50; UK FTSE 100 down 22.41 points (-0.21%) to 10,793.73; France's CAC 40 down 32.12 points (-0.39%) to 8,154.81."
+    },
+    {
+      "id": "mkt:01a0b352-09cc-7118-85f7-f57193abba23",
+      "time": "2026-09-18 15:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai-Shenzhen turnover CNY 2.08 trillion; Zhongji Xuchuang tops list】On Sep 18 Shanghai and Shenzhen posted combined turnover of CNY 2.08 trillion, up CNY 254 billion from the previous session. Shanghai turnover was CNY 994.17 billion (prev. CNY 868.77 billion), trading volume 486 million lots (prev. 453 million). Shenzhen turnover was CNY 1.083 trillion (prev. CNY 954.36 billion), trading volume 597 million lots (prev. 558 million). Top turnover stock was Zhongji Xuchuang at CNY 27.08 billion, followed by Xinyisheng CNY 18.51 billion, China Jushi CNY 17.75 billion, Zhaoyi Innovation CNY 15.79 billion and Hengtong Optoelectronics CNY 15.65 billion."
+    },
+    {
+      "id": "5101417",
+      "time": "2026-09-18 15:01:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "挪威阿克石油英國石油公司股價早盤交易下跌3.5%。"
+    },
+    {
+      "id": "mkt:01a0b351-f49b-7118-85f7-e83c61c7461e",
+      "time": "2026-09-18 15:01:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said close coordination with the government is essential."
+    },
+    {
+      "id": "te:markets:584912",
+      "time": "2026-09-18 15:01:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AstraZeneca Stock Price Hits 7-week High — AstraZeneca shares increased to 12480.00 GBp, the highest since July 2026. Over the past 4 weeks, AstraZeneca gained 3.26%, and in the last 12 months, it increased 10.08%."
+    },
+    {
+      "id": "mkt:01a0b351-a74f-7118-85f7-e7c977141c23",
+      "time": "2026-09-18 15:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Precious Metals",
+        "WTI",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "At midday close, China’s most-active futures were mostly lower. Shanghai crude (SC) fell nearly 10%; coking coal dropped about 8%; coke declined more than 5%. Fuel oil, PET flakes, LPG, p-xylene and short fiber slipped over 4%. On the upside, Shanghai silver rose nearly 4%; palladium, Europe-route container freight, platinum and Shanghai lead gained over 2%; Shanghai tin, egg futures and international copper were up about 2%."
+    },
+    {
+      "id": "5101416",
+      "time": "2026-09-18 15:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：地產ETF領漲5.79%，豆粕ETF領跌3.12%】ETF收盤漲跌不一，地產ETF（159707）領漲5.79%，房地產ETF（159768）漲5.76%，積體電路ETF（159546）漲4.72%，豆粕ETF（159985）領跌3.12%，標普油氣ETF（159518）跌2.66%，標普油氣ETF（513350）跌1.93%。"
+    },
+    {
+      "id": "5101415",
+      "time": "2026-09-18 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計2.08萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計2.08萬億元，較上一日增量2539.66億元。其中，滬市成交額為9941.69億元（上一交易日為8687.73億元），成交量為4.86億手（上一交易日為4.53億手）；深市成交額為1.08萬億元（上一交易日為9543.61億元），成交量為5.97億手（上一交易日為5.58億手）。中際旭創成交額居首，為270.8億元。其次是新易盛、中國巨石、兆易創新、亨通光電，成交額分別為185.11億元、177.5億元、157.88億元、156.52億元。"
+    },
+    {
+      "id": "5101414",
+      "time": "2026-09-18 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.94%，深證成指漲1.72%，創業板指漲2.25%。"
+    },
+    {
+      "id": "5101413",
+      "time": "2026-09-18 15:00:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：雙創指數衝高回落均漲超2%，半導體、儲存晶片板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.94%，深證成指漲1.72%，創業板指漲2.25%，北證50漲1.79%，科創50指數漲2.88%。全市場成交額20929億元，較上日放量2564億元，全市場超4200只個股上漲。板塊題材上，新股與次新股、半導體、汽車晶片、儲存晶片、光刻機板塊漲幅居前；汽車整車、煤炭開採加工、養殖業、豬肉、銀行板塊跌幅居前。新股與次新股板塊持續上揚，C沈鼓盤中一度漲近300%，C信諾維一度漲超90%，騰信精密、電科思儀、託倫斯漲停。半導體板塊表現強勢，託倫斯、盛景微、華天科技等股漲停，東微半導、翱捷科技、國民技術漲幅居前。光伏裝置板塊午後走強，亞瑪頓漲停，拉普拉斯、貝特利、愛旭股份、阿特斯漲幅居前。汽車整車板塊全天低迷，眾泰汽車、江鈴汽車、安凱客車跌幅居前。"
+    },
+    {
+      "id": "5101412",
+      "time": "2026-09-18 15:00:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本核汙染水累計排放逾18萬噸】日本東京電力公司18日完成福島第一核電站第23輪核汙染水排海。本輪共排放核汙染水近8000噸，迄今累計排放量超過18萬噸。（新華社）"
+    },
     {
       "id": "5101411",
       "time": "2026-09-18 15:00:12",
