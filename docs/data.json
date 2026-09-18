@@ -1,7 +1,122 @@
 {
-  "updated": "2026-09-18 20:17:53",
-  "count": 13394,
+  "updated": "2026-09-18 20:21:45",
+  "count": 13400,
   "items": [
+    {
+      "id": "mkt:01a0b476-5c16-7118-8602-49778a3dd8b5",
+      "time": "2026-09-18 20:20:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk expects the vessels to be delivered in 2029 and 2030."
+    },
+    {
+      "id": "mkt:01a0b476-4af9-7118-8602-46899e51aef3",
+      "time": "2026-09-18 20:20:46",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk has ordered 26 large container vessels as part of its ongoing fleet renewal. Each vessel will have 18,600 TEU capacity and be fitted with dual-fuel engines capable of running on liquefied natural gas (LNG)."
+    },
+    {
+      "id": "5102287",
+      "time": "2026-09-18 20:20:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：這些船舶的裝箱容量為18600標準箱，將配備可使用液化天然氣執行的雙燃料發動機。這些船舶預計將於2029年和2030年交付。"
+    },
+    {
+      "id": "5102286",
+      "time": "2026-09-18 20:20:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報喜鳥：董事吳利亞減持計劃實施完畢，減持35萬股】報喜鳥公告，公司此前披露董事吳利亞擬於2026年6月18日至2026年9月17日透過集中競價減持不超過35.16萬股。截至2026年9月17日，減持期間屆滿，吳利亞實際減持35萬股，減持均價3.88元/股，佔總股本0.02%，實施情況與此前披露計劃一致。"
+    },
+    {
+      "id": "5102285",
+      "time": "2026-09-18 20:20:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國林科技：擬集中競價出售已回購股份不超過240.5萬股】國林科技公告，公司擬自2026年10月20日至2027年4月19日以集中競價方式出售已回購股份不超過240.5萬股，約佔公司當前總股本的1.3069%，出售價格視出售時二級市場價格確定，所得資金將用於補充公司流動資金。"
+    },
+    {
+      "id": "mkt:01a0b475-d2c2-7118-8602-385856e66c7c",
+      "time": "2026-09-18 20:20:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "EURUSD"
+      ],
+      "text": "STOXX Europe 600 extended losses to 1%, hitting an intraday low."
+    },
+    {
+      "id": "5102283",
+      "time": "2026-09-18 20:20:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至1%，創盤中新低。"
+    },
+    {
+      "id": "5102282",
+      "time": "2026-09-18 20:19:40",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【荷蘭國際：能源價格衝擊或促使美聯儲與歐央行 12 月各加息 25 個基點】荷蘭國際集團策略師預計，美聯儲與歐洲央行將在 12 月各加息 25 個基點，政策制定者意在阻止能源價格上漲傳導至更廣範圍的通脹。由卡斯滕・布熱斯基牽頭的策略師團隊在週五研報中寫道，兩家央行正面臨 “能源價格飆升引發的供給側衝擊，目前該衝擊對整體經濟的連鎖影響尚且有限”。他們預測，歐央行將實施一次 “防禦性加息”，利率升至 2.75%；美聯儲加息至 4.25%，美國央行將更聚焦於把通脹拉回 2% 的目標。"
+    },
+    {
+      "id": "mkt:01a0b474-c957-7118-8602-33042268c03e",
+      "time": "2026-09-18 20:19:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "French President Macron said he is considering options to release strategic energy reserves."
+    },
+    {
+      "id": "5102281",
+      "time": "2026-09-18 20:18:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：正在考量釋放戰略能源儲備的各項方案。"
+    },
+    {
+      "id": "5102280",
+      "time": "2026-09-18 20:17:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山河智慧：持股5%以上股東及高管擬減持股份】山河智慧公告稱，持股5%以上股東何清華（持股6.027%）擬於2026年10月20日至2027年1月19日，以集中競價方式減持不超1074.62萬股，佔公司總股本1%；公司副總經理朱建新擬同期以集中競價方式減持不超33.13萬股，佔公司總股本0.0308%。二者減持原因均為個人資金需求，合計擬減持不超公司總股本1.0308%，減持計劃實施存在不確定性。"
+    },
+    {
+      "id": "5102279",
+      "time": "2026-09-18 20:17:54",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【昂跑據稱簽約姆巴佩 耐克暫未置評】瑞士運動品牌昂跑（On）宣佈進軍足球領域，簽下基利安·姆巴佩作為足球業務的領軍代言人，這對老對手耐克構成重大打擊。據知情人士透露，昂跑計劃2027年推出首款足球戰靴，後續再開發球衣，最終拓展休閒服飾與訓練鞋產品線。昂跑計劃推出輕量化足球鞋，稱該設計能讓球員更好地感知足球。其LightSpray技術依靠機器人噴射連續長絲，直接成型鞋身。 知情人士稱，該技術可在數月內搭建生產基地，讓昂跑能夠較快擴充產能。 這家總部位於蘇黎世的企業，計劃與姆巴佩達成長期合作，部分參照其與費德勒的合作模式。瑞士網球名將費德勒2019年成為昂跑投資人，後續深度參與產品研發，助力品牌拓展網球業務。 耐克暫未對此置評。"
+    },
     {
       "id": "mkt:01a0b472-71cd-7118-8602-2ec88c0944a7",
       "time": "2026-09-18 20:16:34",
@@ -123216,55 +123331,6 @@
         "Importance 1"
       ],
       "text": "Russian Ruble Holds Near 18-Month Low — The Russian ruble hovered near the 85 per USD mark, not far from the 18-month low of 87 as Russia's fuel crisis hampered foreign exchange flows. Ukraine delivered a wave of strikes against Russian oil assets and refining infrastructure through August. Consequently, Russian petroleum production shrank by 160 thousand barrels per day to 8.718 million bpd in August, the second-sharpest reduction this year. On top of that, attacks on Russia's major refiners cut capacity on production of gasoline and diesel, driving Moscow to ban exports of fuel and swing the Russian economy into an importer of refined product. This triggered an aggressive reversal in goods and capital flows from the Russian financial system, forcing foreign currency outwards and driving the ruble to nosedive from the three-year high of 71 on May 28th to the current 18-month low. In turn, ruble supply rose as the federal government was forced to issue soaring levels of debt to make up for the plunge in energy revenues."
-    },
-    {
-      "id": "5089867",
-      "time": "2026-09-11 20:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "克羅格高管表示，第二季度燃油獎勵計劃的額外促銷活動拉動了克羅格旗下加油站的燃油需求。"
-    },
-    {
-      "id": "5089866",
-      "time": "2026-09-11 20:20:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行行長納比烏琳娜：目前降息空間已收窄；今天僅討論了維持利率不變。"
-    },
-    {
-      "id": "5089865",
-      "time": "2026-09-11 20:19:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "雷蒙德航空航天子公司斬獲多項航空航天專案訂單。"
-    },
-    {
-      "id": "5089864",
-      "time": "2026-09-11 20:18:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "克羅格高管表示，第二季度食品通脹水平略高於第一季度。"
-    },
-    {
-      "id": "5089863",
-      "time": "2026-09-11 20:18:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽富時（Salesforce）推出全新AI智慧代理產品組合，擴充Agentforce平臺。"
-    },
-    {
-      "id": "5089862",
-      "time": "2026-09-11 20:18:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【我國科研團隊實現埃米級原子滑移 撬動千萬倍電阻變化】只需埃米級，也就是0.1奈米尺度的原子層微小滑移，就能撬動千萬倍電阻變化。中國科學院半導體研究所科研團隊透過二維範德華異質結介面工程，攻克滑移鐵電隧穿結高開關比與高耐久性難以兼顧的行業難題。科研人員介紹，未來如果完善大規模器件陣列和配套電路，這類器件有望實現更快速度、更低功耗的資料儲存與運算，可應用於手機、電腦等終端硬體，為緩解算力提升與功耗受限的矛盾，推動存算一體新型計算架構落地提供新的技術方案。相關成果9月11日發表於國際學術期刊《科學》。"
     }
   ]
 }
