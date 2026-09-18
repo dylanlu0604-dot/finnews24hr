@@ -1,6 +1,155 @@
 {
-  "updated": "2026-09-18 09:03:55",
+  "updated": "2026-09-18 10:07:14",
   "items": [
+    {
+      "id": "2026091810",
+      "date": "2026-09-18",
+      "run_hour": 10,
+      "started_at": "2026-09-18 10:06:49",
+      "finished_at": "2026-09-18 10:07:14",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 9,
+      "failure_count": 3,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "factset"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉油價、美債殖利率「雙降」 那指漲近1.7% 費半強升超3% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6609573",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-09-16，預期日期是 2026-09-18",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-16"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "NO_DATA",
+          "reason": "找不到國泰財富管理日報",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-18",
+          "actual_date": ""
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-09-17",
+          "actual_date": "2026-09-17"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260918_JAPAN_Households_Assets_Economy.pdf",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=FYgwy_25mbc! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. There are two things you can do to work around this: 1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). 2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned! If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-09-17",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/230317",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202609180531382462.shtml",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-september-17-2026/",
+          "expected_date": "2026-09-17",
+          "actual_date": "2026-09-17"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/09/WBC_MorningReport18Sep2026.pdf",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260918.pdf",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        },
+        {
+          "source": "mizuho",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://cdn.prod.website-files.com/67cb23eaf0c6c4d4080e059a/6aac9343ff936868304c1e1c_MizuhoDaily_260918.pdf",
+          "expected_date": "2026-09-18",
+          "actual_date": "2026-09-18"
+        }
+      ]
+    },
     {
       "id": "2026091809",
       "date": "2026-09-18",
