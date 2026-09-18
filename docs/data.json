@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19 02:52:07",
-  "count": 13416,
+  "updated": "2026-09-19 02:55:55",
+  "count": 13412,
   "items": [
+    {
+      "id": "5102661",
+      "time": "2026-09-19 02:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特：（談抵押貸款支援證券）當下正在加碼買入。"
+    },
     {
       "id": "mkt:01a0b5d8-4198-7118-860a-3e4b861b5a39",
       "time": "2026-09-19 02:47:23",
@@ -123226,55 +123234,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.05%，報24787.17點，低水18.46點。"
-    },
-    {
-      "id": "mkt:01a091d0-f18e-7118-8550-b3e594e828de",
-      "time": "2026-09-12 02:53:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Turkish diplomatic sources said Turkey's foreign minister discussed regional developments and attacks on Saudi Arabia in a call with his Saudi counterpart."
-    },
-    {
-      "id": "mkt:01a091d0-e7b5-7118-8550-ac5934ab7fd8",
-      "time": "2026-09-12 02:53:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UN Security Council extends Sudan sanctions authorization by one month】The UN Security Council on the 11th approved a one-month technical extension of sanctions authorization for Sudan. China's UN chargé d'affaires Sun Lei said Beijing voted in favor to allow more time for talks amid clear Council divisions, but reiterated sanctions are a tool not a substitute for diplomacy. China urged focus on implementing existing mechanisms and warned that widening coercive measures could worsen humanitarian conditions, raise the risk of Sudan's fragmentation, threaten regional stability and undermine the Council's authority, calling for expedited consensus to help secure a ceasefire and preserve Sudan's unity."
-    },
-    {
-      "id": "5090247",
-      "time": "2026-09-12 02:52:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其外交訊息人士稱，土耳其外長與沙特外長通電話，就地區局勢以及針對沙特的襲擊事件展開磋商。"
-    },
-    {
-      "id": "5090246",
-      "time": "2026-09-12 02:52:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "法官稱，派拉蒙的和解談判將於 10 月下旬舉行。"
-    },
-    {
-      "id": "mkt:01a091d0-2408-7118-8550-a4e49d96294d",
-      "time": "2026-09-12 02:52:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Medvedev denies Russia intends to attack Europe】Dmitry Medvedev, deputy chairman of Russia’s Security Council and leader of the United Russia party, said on the 11th that Russia has no military objectives against Europe and that European leaders’ claims Moscow plans to attack Europe are a pretext to justify large aid to Ukraine. In a social-media video he said the “Russia threat” narrative is being used to explain big expenditures for Ukrainian support and to raise funds for the war. He added Russia’s leadership has no plan for a new mobilization because contract recruitment has “reached or even exceeded” early-September targets, and called reports of a fresh mobilization “lies and provocations” intended to stir domestic sentiment ahead of State Duma elections."
     }
   ]
 }
