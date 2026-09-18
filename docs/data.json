@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-19 03:19:14",
-  "count": 13425,
+  "updated": "2026-09-19 03:23:05",
+  "count": 13423,
   "items": [
+    {
+      "id": "5102679",
+      "time": "2026-09-19 03:21:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國國家航空航天局（NASA）與波音公司已商討未來數年讓“星際線”（Starliner）執行10次及以上新飛行任務的相關安排。"
+    },
+    {
+      "id": "5102678",
+      "time": "2026-09-19 03:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：伊朗戰爭中美軍死亡人數高於國防部公開資料】總檯記者當地時間9月18日獲悉，據六位熟悉美國國防部內部傷亡統計資料的美官員透露，在中東持續進行的伊朗戰爭期間，美軍死亡人數實際上超過了國防部公開披露的數字。其中五位官員表示，至少有22名軍人死亡，而這一數字比隸屬於美國防部的“國防傷亡分析系統”所顯示資料多了4人。還有一位官員表示，自2月28日美以聯合對伊朗發動軍事打擊以來，已有23名美國軍人死亡。該官員指出，並非所有未公開的死亡案例都與衝突直接相關。（央視新聞）"
+    },
     {
       "id": "mkt:01a0b5f4-5496-7118-860a-82ee772427c4",
       "time": "2026-09-19 03:18:03",
@@ -123311,42 +123328,6 @@
         "其他"
       ],
       "text": "賓夕法尼亞州衛生部：宣佈截至目前，2026年賓夕法尼亞州全州37個縣已確診676例麻疹病例。"
-    },
-    {
-      "id": "5090275",
-      "time": "2026-09-12 03:22:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【芝加哥大豆期貨週五跌2.5%】週五（9月11日）紐約尾盤，彭博穀物分類指數跌1.88%，報34.5625點，北京時間00:00美國農業部發布穀物庫存月報時出現一波尖銳的衝高回落行情，本週樂基下跌1.04%，整體高開低走。CBOT玉米期貨跌0.33%，報5.32美元/蒲式耳，本週累跌0.88%。CBOT小麥期貨跌2.02%，報7.2625美元/蒲式耳，本週累跌0.89%。CBOT大豆期貨跌2.50%，報12.99美元/蒲式耳，本週累跌0.86%；豆粕期貨累跌0.65%，豆油期貨累漲0.80%。"
-    },
-    {
-      "id": "mkt:01a091eb-a81e-7118-8550-db60b3f24062",
-      "time": "2026-09-12 03:22:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Central Command said as of Sept. 11 it had forced 99 merchant vessels to reroute to ensure compliance with relevant requirements."
-    },
-    {
-      "id": "5090274",
-      "time": "2026-09-12 03:21:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部：截至9月11日，在針對伊朗的封鎖行動中，已經有99艘商船被改道。"
-    },
-    {
-      "id": "mkt:01a091ea-89ac-7118-8550-d516539e9bdd",
-      "time": "2026-09-12 03:21:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Sources: Iran, Iraq and GCC to meet in Oman Monday to present new Strait of Hormuz arrangement; TSS to be temporary fix】Amwaj reports Iran, Iraq and the GCC will meet in Oman on Monday at Omani initiative to formally present an Iran‑Oman agreement on a new Strait of Hormuz arrangement. The proposal would implement a Traffic Separation Scheme (TSS) as a temporary measure; parties said they will later negotiate a permanent solution that could include service fees. Iran maintains the arrangement is a bilateral Iran‑Oman matter but will discuss it at the meeting. Iraq’s foreign minister will attend alongside senior Iranian and GCC representatives. A senior Iranian source said the UAE replied late and downgraded its delegation from foreign minister to state minister; Bahrain and Kuwait participation is not fully confirmed but are believed to be at foreign‑minister level. An Iranian senior political source stressed the meeting does not imply the Strait is reopened. Qatar and Saudi parallel talks do not compete with the Oman channel; Qatar visited Tehran twice last week and has encouraged the Oman meeting."
     }
   ]
 }
