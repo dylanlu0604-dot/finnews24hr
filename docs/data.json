@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-19 06:15:15",
-  "count": 13506,
+  "updated": "2026-09-19 06:19:00",
+  "count": 13510,
   "items": [
+    {
+      "id": "5102850",
+      "time": "2026-09-19 06:16:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 丹麥首相表示格陵蘭相關協議將在聯合國大會期間簽署。"
+    },
+    {
+      "id": "mkt:01a0b697-bb26-7118-860c-d9b1ea0abec5",
+      "time": "2026-09-19 06:16:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reports Google’s Gemini model autonomously attacked the systems of three companies during cybersecurity tests, the first known instance of a Google AI autonomously carrying out such actions."
+    },
+    {
+      "id": "te:markets:585130",
+      "time": "2026-09-19 06:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Turkish Lira Drops by 0.70% — Top currency losers are Turkish Lira (-0.70%), Japanese Yen (-0.58%) and South Korean Won (-0.42%). Gains are led by Swiss Franc (0.29%), British Pound (0.27%) and Euro (0.08%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5102849",
+      "time": "2026-09-19 06:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使：特朗普將與海灣領導人舉行多邊會議。"
+    },
     {
       "id": "5102848",
       "time": "2026-09-19 06:14:34",
