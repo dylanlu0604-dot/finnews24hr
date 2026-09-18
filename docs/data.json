@@ -1,7 +1,187 @@
 {
-  "updated": "2026-09-18 15:12:44",
-  "count": 13443,
+  "updated": "2026-09-18 15:16:33",
+  "count": 13460,
   "items": [
+    {
+      "id": "te:markets:584916",
+      "time": "2026-09-18 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.00% Higher — The Shangai Composite Index rose 39 points or 1.00 percent on Friday to close at 3914 points. Leading the gains are Greenland Holdings (9.85%), Poly Real Estate (5.56%) and China Fortune (2.80%). Top losers were Ningbo Port (-2.56%), China Minsheng Bank (-2.25%) and Huayu Automotive (-1.78%)."
+    },
+    {
+      "id": "5101466",
+      "time": "2026-09-18 15:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，參與巴基斯坦75萬噸小麥採購招標的參與者同意對標最低報價，分別為成本加運費價每噸348.83美元和352.97美元。"
+    },
+    {
+      "id": "5101465",
+      "time": "2026-09-18 15:15:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京市經濟和資訊化局釋出關於組織開展北京市人工智慧應用服務商資源池徵集工作的通知。"
+    },
+    {
+      "id": "mkt:01a0b35e-916b-7118-85f8-d4b2b623b150",
+      "time": "2026-09-18 15:15:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Citigroup now expects the Bank of Japan to deliver 25bp rate hikes in December 2026, March 2027 and July 2027; its prior forecast was January, June and December 2027."
+    },
+    {
+      "id": "5101464",
+      "time": "2026-09-18 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.37%， 10年期主力合約漲0.07%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:01a0b35e-5a5f-7118-85f8-c88dbba0318a",
+      "time": "2026-09-18 15:15:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "01879.HK",
+        "Impact bullish",
+        "00100.HK",
+        "02513.HK"
+      ],
+      "text": "Hong Kong-listed AI stocks rose amid volatile trading: Xizhi Technology-P (01879.HK) up over 20%, MINIMAX-W (00100.HK) up over 16%, Zhipu (02513.HK) up over 5%."
+    },
+    {
+      "id": "5101463",
+      "time": "2026-09-18 15:14:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "花旗集團預計日本央行將分別在2026年12月、2027年3月和2027年7月各加息25個基點；此前花旗的預測為加息時點分別在2027年1月、2027年6月和2027年12月。"
+    },
+    {
+      "id": "mkt:01a0b35e-58d2-7118-85f8-c54029114cf3",
+      "time": "2026-09-18 15:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he is maintaining close communication with Prime Minister Sanae Takaichi's government."
+    },
+    {
+      "id": "5101462",
+      "time": "2026-09-18 15:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜漲超5%。"
+    },
+    {
+      "id": "5101461",
+      "time": "2026-09-18 15:14:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們一直在各個層面與高市內閣保持溝通。"
+    },
+    {
+      "id": "5101460",
+      "time": "2026-09-18 15:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【更多液化天然氣經霍爾木茲海峽外運，生產商全力保障通航】本週至少兩船液化天然氣透過霍爾木茲海峽。生產商正想方設法增加供氣，緩解市場供應緊缺、價格暴漲的局面。哥白尼衛星影像顯示，本週另有兩艘液化天然氣運輸船在阿曼近海開展船對船轉運作業。中東衝突持續，液化天然氣生產商被迫嘗試各類替代運輸方案；巴基斯坦與孟加拉國的採購方正密切關注局勢。"
+    },
+    {
+      "id": "5101459",
+      "time": "2026-09-18 15:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華源證券：首予濰柴動力“買入”評級，AI電力時代公司價值重塑】華源證券研報指出，濰柴動力柴發+氣發+SOFC三輪驅動，AI電力時代公司價值重塑。2020年至今，公司多次重新整理商業化柴油機本體熱效率世界紀錄。2025年M系列大缸徑發動機全年銷量首次突破1萬臺，推出全球首款5兆瓦級高速柴油發電產品20M61。當前公司業務已涵蓋動力系統、商用車、農業裝備、智慧物流、電力能源等多個業務板塊。2026-2030年燃機用於滿足AIDC用電需求的有效供給累計在100GW左右，故非燃機AIDC用電需求缺口預計也在100GW以上，以往復式內燃機/SOFC為代表的其他離網發電形式或大有可為。往復式內燃機在AI發電的應用主要是柴發（備電）與氣發，濰柴產品具備全球競爭力。SOFC可能是中長期最具潛力的離網主電形式，濰柴深度佈局金屬支撐路線。公司作為國內柴發/氣發/SOFC均有較深度佈局的頭部企業，有望充分受益於AI電力需求的持續景氣，首次覆蓋，給予“買入”評級。"
+    },
+    {
+      "id": "5101458",
+      "time": "2026-09-18 15:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【辛巴威汽油價格上調4%，至每升2.06美元】辛巴威能源監管機構釋出宣告，辛巴威汽油價格即刻上調，由每升1.99美元漲至2.06美元。辛巴威能源監管局週五稱，柴油零售價從此前每升1.95美元上調至每升2.08美元。"
+    },
+    {
+      "id": "mkt:01a0b35c-90d0-7118-85f8-b9bda81e1a15",
+      "time": "2026-09-18 15:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SIMSEK says further measures will be taken in Turkey's non-bank financial sector."
+    },
+    {
+      "id": "5101457",
+      "time": "2026-09-18 15:12:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓美投資機構考慮發行首支債券，落實3500億美元投資承諾】韓美戰略投資公司正考慮首次發行美元債券，發行規模最高可達20億美元。該機構設立的目的，是負責落實韓國對美專案投資，相關投資是韓美貿易協議的組成部分。債券發行或於明年初啟動，承銷銀行的選聘工作最快將於本月底敲定。"
+    },
+    {
+      "id": "mkt:01a0b35c-7ab1-7118-85f8-b6b7aa18f6db",
+      "time": "2026-09-18 15:12:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "BOJ Governor UEDA said wage data show a clear improvement in pay conditions following spring wage negotiations."
+    },
+    {
+      "id": "5101456",
+      "time": "2026-09-18 15:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本銀行行長植田和男：薪資資料顯示，春季薪資談判後薪資水平取得了紮實改善。"
+    },
+    {
+      "id": "5101455",
+      "time": "2026-09-18 15:12:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：當前階段的應對措施已足夠充分。"
+    },
+    {
+      "id": "mkt:01a0b35c-0b99-7118-85f8-ac9718dc6d86",
+      "time": "2026-09-18 15:12:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SIMSEK said liquidation of investment funds will not put pressure on the Istanbul Stock Exchange."
+    },
     {
       "id": "mkt:01a0b35b-eb72-7118-85f8-a0570478c677",
       "time": "2026-09-18 15:12:20",
@@ -123632,30 +123812,6 @@
         "Importance 1"
       ],
       "text": "Turkey Retail Sales at Over 1-Year Low — Retail sales in Turkey rose 10.4% year-on-year in July 2026, slowing from a downwardly revised 11.5% in the previous month. It marked the weakest annual growth since March 2025, mainly driven by softer sales in other household equipment in specialized stores (0.7% vs 2.1% in June), other goods in specialized stores (20.5% vs 25.4%), non-specialized stores (3.6% vs 4.2%), and trade not in stores, stalls and markets (19.2% vs 23.4%). Meanwhile, sales growth accelerated for food, beverages and tobacco in specialized stores (4.2% vs 0.6%), automotive fuel in specialized stores (8.0% vs 1.3%), information and communication equipment in specialized stores (10.9% vs 10.5%), cultural and recreation goods in specialized stores (10.9% vs 7.1%), and sales via stalls and markets (18.7% vs 13.4%). On a seasonally adjusted monthly basis, retail sales rose 0.2%, easing from a 0.5% increase in June."
-    },
-    {
-      "id": "te:markets:583071",
-      "time": "2026-09-11 15:16:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.21% Lower — The Shangai Composite Index fell 48 points or 1.21 percent on Friday to close at 3887 points. Leading the losses are Hengli Petrochemical (-6.30%), Yonghui Superstore (-5.56%) and Zijin Mining (-5.42%)."
-    },
-    {
-      "id": "te:economy:583068",
-      "time": "2026-09-11 15:13:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "Swiss Consumer Morale Least Negative in 6 Months — Switzerland's consumer confidence index rose to -33 in August 2026 from -40 in the same month a year earlier, pointing to an improvement in household confidence but remaining slightly below market expectations of -32. This marked the least negative reading since February, with the biggest improvement coming from the economic outlook, as the corresponding index rose to -36 from -66 in August last year. Meanwhile, sentiment around the past financial situation improved modestly to -39 from -40, while the financial outlook weakened slightly to -30 from -29. The index measuring whether it was a good time to make major purchases also declined to -26 from -24, suggesting households remained cautious about discretionary spending. The overall reading also improved from the previous month, when the index stood at -35."
     }
   ]
 }
