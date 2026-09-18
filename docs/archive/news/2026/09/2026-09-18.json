@@ -1,7 +1,112 @@
 {
   "date": "2026-09-18",
-  "count": 851,
+  "count": 863,
   "items": [
+    {
+      "id": "mkt:01a0b25c-35a2-7118-85ef-130e35b5230f",
+      "time": "2026-09-18 10:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Housing and Urban-Rural Development to push cities, eligible counties to refine housing-assistance waiting lists】Sept 18 — Zhang Xuetao, director of the Real Estate Market Supervision Department at the Ministry of Housing and Urban-Rural Development, said at a State Council Information Office briefing the ministry will refine a housing-assistance system centered on rental-assigned and sale-assigned social housing. It will combine rental subsidies with in‑kind housing provision, build and procure according to demand, and require prefecture-level cities and eligible counties to improve housing-assistance waiting lists (registries)."
+    },
+    {
+      "id": "5101006",
+      "time": "2026-09-18 10:32:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住建部：推動地級以上城市及有條件的縣城完善住房保障的輪候庫】9月18日，住房和城鄉建設部房地產市場監管司司長‌張雪濤在國新辦新聞釋出會上表示，住建部將進一步完善以配租型保障房和配售型保障房為主的住房保障體系，堅持租賃補貼和實物保障相結合，以需定建，以需訂購，推動地級以上城市及有條件的縣城完善住房保障的輪候庫。"
+    },
+    {
+      "id": "mkt:01a0b25b-778c-7118-85ef-0b5ac15beff2",
+      "time": "2026-09-18 10:32:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOHURD to enforce project-company model in property development to define independent project implementer】On Sept. 18 at a State Council Information Office briefing, Zhang Xuetao, director-general of the Department of Real Estate Market Regulation at the Ministry of Housing and Urban–Rural Development, said the ministry will push implementation of three foundational property systems, all project-centered. In property development the priority is to solidify a project-company model to resolve who is the independent implementer of a project: one project linked to one project company; the project company to exercise independent legal-person rights; and headquarters strictly prohibited from illegally diverting project-company funds."
+    },
+    {
+      "id": "5101005",
+      "time": "2026-09-18 10:31:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住建部：“十五五”時期實現以人定房、以房定地，以房定錢，促進要素的合理配置】9月18日，住房和城鄉建設部房地產市場監管司司長‌張雪濤在國新辦新聞釋出會上表示，“十五五”時期推動人、房、地、錢四要素的聯動，實現以人定房、以房定地，以房定錢，促進要素的合理配置。"
+    },
+    {
+      "id": "mkt:01a0b25a-da03-7118-85ef-07fdab6cab53",
+      "time": "2026-09-18 10:31:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium traded above $1,300/oz, up 1.85% on the day."
+    },
+    {
+      "id": "5101004",
+      "time": "2026-09-18 10:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多名黃牛表示不收iPhone 18 Pro】9月18日上午，記者現場看到，深圳一家蘋果旗艦店門口有大約20個黃牛。記者現場瞭解到，多數黃牛是來向已經提貨的消費者收貨。多名黃牛反映，iPhone 18 Pro Max的行情沒有iPhone 17 Pro Max好，收貨僅加價500元左右，而去年的iPhone 17 Pro Max可以加600~700元，加價更少是因為今年的新機本身就更貴了。多名黃牛表示不收iPhone 18 Pro，iPhone 18 Pro“沒行情”。（第一財經）"
+    },
+    {
+      "id": "5101003",
+      "time": "2026-09-18 10:31:26",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【住建部：在房地產開發上將做實專案公司制 解決“誰是專案獨立實施主體”問題】9月18日，住房和城鄉建設部房地產市場監管司司長‌張雪濤在國新辦新聞釋出會上表示，將全力推動房地產三項基礎制度的落地實施，這三項基礎性制度都是以專案為物件。在房地產開發上，主要是做實專案公司制，主要是解決“誰是專案的獨立實施主體”這個問題。一個房地產專案對應一家專案公司，專案公司依法行使獨立法人的權利，嚴禁企業總部違規抽挪專案公司的資金。"
+    },
+    {
+      "id": "5101002",
+      "time": "2026-09-18 10:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞航空接近達成採購波音787“夢想客機”的交易。"
+    },
+    {
+      "id": "5101001",
+      "time": "2026-09-18 10:30:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【規範量子產業生態體系 一批次子核心器件國家標準釋出】市場監管總局加強系統佈局，集中推動制定一批次子核心器件國家標準。其中，新發布《量子壓縮光源技術規範》和《週期極化鈮酸鋰量子頻率轉換器件效能測試方法》兩項國家標準，新立項《量子技術 連續變數光量子糾纏源技術規範》《電力測量用金剛石氮-空位色心材料效能要求與檢測方法》《量子測量 固態自旋量子磁強計效能表徵及測量方法》等4項國家標準計劃，《量子技術 雙光子偏振糾纏源效能表徵及測量方法》《量子技術 超高反射率光學薄膜效能表徵及測量方法》等多項在研標準持續穩步推進，加速構建完善我國量子技術國家標準體系。"
+    },
+    {
+      "id": "5101000",
+      "time": "2026-09-18 10:30:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方精創回應延遲H股上市：業務層面都正常 後續可能擇機在H股上市】針對四方精創延遲H股全球發售及上市事宜，記者今日以投資者身份致電該公司。證券部人士稱，目前業務層面都正常，主要是當前的市場狀況不是很好。據悉，四方精創後續可能仍會在H股上市，“但還是看時機”。四方精創原定於9月22日（下週二）登陸港交所，招銀國際、國信證券聯席保薦。公司於招股最後一日緊急在港交所公告稱，決定延遲全球發售及香港聯合交易所主機板的上市。 (財聯社)"
+    },
+    {
+      "id": "mkt:01a0b259-526b-7118-85ee-f88c3e13be2e",
+      "time": "2026-09-18 10:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Luwei Photonics: 40nm full-set mask customer validation progressing】At its Sept. 18, 2026 interim results briefing, Luwei Photonics said customer validation for 40nm full-set photomasks is progressing orderly. 40nm and 28nm single-mask photomasks have passed customer qualification and deliveries are underway. 28nm–14nm full-set mask capability is being built under the company’s LuXin Phase II project, currently under construction on schedule, aimed at reducing reliance on overseas suppliers for high-end process nodes."
+    },
+    {
+      "id": "mkt:01a0b259-29a2-7118-85ee-f1c5ff51468d",
+      "time": "2026-09-18 10:29:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Daiwa Securities warns of rising risk of prolonged inflation in Japan】Daiwa Securities economist Kento Minami said the risk of prolonged inflation in Japan is increasing as crude oil rebounds and firms increasingly pass higher costs to consumers. He warned the recent sharp rise in crude could feed through to electricity prices after a roughly 3–8 month lag, potentially beginning in early 2027. Rising oil, logistics and labour costs are making cost pass-through more likely and could extend food inflation; food prices excluding fresh produce rose 2.7% YoY in August."
+    },
     {
       "id": "5100999",
       "time": "2026-09-18 10:29:09",
