@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-19 02:32:55",
+  "updated": "2026-09-19 02:36:45",
   "count": 13424,
   "items": [
+    {
+      "id": "mkt:01a0b5cb-6cf9-7118-860a-0c4c35b33817",
+      "time": "2026-09-19 02:33:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.45% at 946.2 yuan/gram in the Sep 18 (Fri) evening session; silver T+D closed up 1.2% at 16,250 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0b5cb-2fde-7118-860a-068b8104d297",
+      "time": "2026-09-19 02:33:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE main gold contract was up 0.52% at 948 yuan/gram; SHFE main silver contract was up 1.49% at 16,296 yuan/kg; SC crude oil main contract was down 2.60% at 735 yuan/barrel."
+    },
     {
       "id": "5102657",
       "time": "2026-09-19 02:31:13",
@@ -123329,26 +123355,6 @@
         "觀點"
       ],
       "text": "高盛仍認為其 2026 年底金價 4900 美元 / 盎司預測存在上行淨風險，但金價走勢也將面臨更大的雙向波動。"
-    },
-    {
-      "id": "te:markets:583289",
-      "time": "2026-09-12 02:35:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Danaher Stock Price Hits 5-week Low — Danaher shares decreased to 199.48 USD, the lowest since August 2026. Over the past 4 weeks, Danaher lost 3.03%, and in the last 12 months, it increased 5%."
-    },
-    {
-      "id": "5090233",
-      "time": "2026-09-12 02:35:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【梅德韋傑夫否認“俄羅斯打算進攻歐洲”】俄聯邦安全會議副主席、統一俄羅斯黨主席梅德韋傑夫11日表示，俄羅斯沒有任何針對歐洲的軍事目標，歐洲領導層所謂“俄羅斯打算進攻歐洲”的說法，是為其援烏政策作辯護，以謀求在地緣政治上擊敗俄羅斯。梅德韋傑夫當天在社交媒體釋出的一段影片中說，歐洲各國目前民生承壓，歐洲領導層編造“俄羅斯威脅論”，用以向民眾解釋為何要投入大量資金援助烏克蘭。他說，炒作“俄羅斯威脅論”是為這場戰爭持續籌措資金的最佳手段。（新華社）"
     }
   ]
 }

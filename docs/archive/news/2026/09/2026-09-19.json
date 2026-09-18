@@ -1,7 +1,33 @@
 {
   "date": "2026-09-19",
-  "count": 136,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:01a0b5cb-6cf9-7118-860a-0c4c35b33817",
+      "time": "2026-09-19 02:33:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.45% at 946.2 yuan/gram in the Sep 18 (Fri) evening session; silver T+D closed up 1.2% at 16,250 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0b5cb-2fde-7118-860a-068b8104d297",
+      "time": "2026-09-19 02:33:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE main gold contract was up 0.52% at 948 yuan/gram; SHFE main silver contract was up 1.49% at 16,296 yuan/kg; SC crude oil main contract was down 2.60% at 735 yuan/barrel."
+    },
     {
       "id": "5102657",
       "time": "2026-09-19 02:31:13",
