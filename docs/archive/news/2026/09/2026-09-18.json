@@ -1,7 +1,135 @@
 {
   "date": "2026-09-18",
-  "count": 2450,
+  "count": 2463,
   "items": [
+    {
+      "id": "mkt:01a0b527-934b-7118-8607-a5df26ced26f",
+      "time": "2026-09-18 23:34:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Fed's Schmid said oil is an important factor but not the sole driver of inflation."
+    },
+    {
+      "id": "mkt:01a0b527-34fd-7118-8607-9be3413d63f5",
+      "time": "2026-09-18 23:34:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Schmid said the labor market is moving toward balance and economic growth remains steady."
+    },
+    {
+      "id": "mkt:01a0b526-f92c-7118-8607-96d6f368271a",
+      "time": "2026-09-18 23:33:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Schmid said high inflation signals a supply-demand imbalance; aside from inflation, the economy is performing well."
+    },
+    {
+      "id": "5102577",
+      "time": "2026-09-18 23:33:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：支援加息，近期資料顯示通脹趨勢高於 3%。"
+    },
+    {
+      "id": "mkt:01a0b526-ba20-7118-8607-8f5375fc46cf",
+      "time": "2026-09-18 23:33:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Schmid said he voted to support a rate hike, noting recent data show the inf trend is above 3%. He called the increase a step toward restoring the 2% inf target and said current inf is not just an energy issue — price growth remains \"hot\" across a broad range of goods and services."
+    },
+    {
+      "id": "5102576",
+      "time": "2026-09-18 23:33:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：加息是朝著迴歸 2% 通脹目標邁出的一步。"
+    },
+    {
+      "id": "5102575",
+      "time": "2026-09-18 23:33:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：當前通脹問題 “不只是能源導致”，眾多商品與服務價格漲幅居高不下。"
+    },
+    {
+      "id": "5102574",
+      "time": "2026-09-18 23:32:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：除去通脹因素，經濟表現良好。高通脹是供需失衡的訊號。"
+    },
+    {
+      "id": "mkt:01a0b525-1b86-7118-8607-864e57ba148f",
+      "time": "2026-09-18 23:31:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "GM.N",
+        "Impact bearish",
+        "F.N"
+      ],
+      "text": "GM (GM.N) shares extended losses to 5.8%; Ford (F.N) shares fell 4.9%."
+    },
+    {
+      "id": "5102573",
+      "time": "2026-09-18 23:31:30",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "通用汽車跌幅擴大至 5.8%；福特下跌 4.9%，梅賽德斯 - 賓士股價最大跌幅達 5.6%。"
+    },
+    {
+      "id": "5102572",
+      "time": "2026-09-18 23:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.58%，報25310.29點，本週累跌約1%。法國股指初步收跌1.64%，義大利股指初步收跌1.67%、銀行指數跌2.33%，英國股指初步收跌1.45%。"
+    },
+    {
+      "id": "5102571",
+      "time": "2026-09-18 23:31:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌1.16%，報635.14點，本週累跌約0.5%。歐元區STOXX 50指數初步收跌1.43%，報6232.60點，本週累跌約1.4%。富時泛歐績優300指數初步收跌1.16%，報2536.82點。"
+    },
     {
       "id": "mkt:01a0b523-f9ce-7118-8607-7b06ced05b00",
       "time": "2026-09-18 23:30:28",
@@ -59,6 +187,15 @@
         "其他"
       ],
       "text": "【簽約球星姆巴佩 On昂跑亞太區回應：合作含現金激勵】北京時間9月18日晚，瑞士運動品牌On昂跑正式宣佈攜手足壇巨星基利安·姆巴佩（Kylian Mbappé）進軍足球領域，標誌著這家以跑鞋聞名的品牌正式開啟邁向全球最大體育專案的新徵程。昂跑創始人戴維・阿勒曼公開表示，品牌足球鞋將於2027年面向零售市場發售，定位為高階產品。據悉，姆巴佩不僅會穿著昂跑開發的足球產品參加比賽，還將直接參與未來足球鞋和服裝的開發與測試，併成為品牌全球代言人。談及昂跑與姆巴佩的合作激勵機制，昂跑亞太區公關負責人阿德里安在當晚接受採訪時透露，昂跑與姆巴佩之間是長期、高度協作的合作，以共同創造和產品創新為核心，帶有創業精神，激勵機制包含現金和股權兩部分。但他並未明確是否類似費德勒模式。（每經）"
+    },
+    {
+      "id": "em:qqyh_mlc:202609183878912197",
+      "time": "2026-09-18 23:26:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲負責監管的副主席鮑曼：預計未來幾週考慮對壓力測試的最終修訂】華爾街貸款機構距離適用更寬鬆的美聯儲壓力測試相關資本要求更近了一步，隨著美國監管機構繼續放寬資本規定，大型銀行料再獲利好。美聯儲負責監管事務的副主席米歇爾·鮑曼在為週五倫敦一場活動準備的講話中表示，對美聯儲壓力測試的最終修改可能會回應有關風險敏感度以及測試涵蓋哪些風險的關切。"
     },
     {
       "id": "5102568",
