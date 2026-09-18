@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-18 23:54:36",
-  "count": 13406,
+  "updated": "2026-09-18 23:58:24",
+  "count": 13410,
   "items": [
+    {
+      "id": "mkt:01a0b53b-cec1-7118-8608-1e9158e76bb3",
+      "time": "2026-09-18 23:56:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Beijing to implement AI-agent control upgrade project to build secure, controllable software stack】Beijing Municipal Bureau of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate Token Economy Development (2026–2028). The plan calls for building a core software ecosystem for AI agents, implementing an AI-agent control upgrade project to develop a secure, controllable tech stack and strengthen end-to-end task-execution safety; it targets breakthroughs in memory management, security permission control and efficient inter-component communication, and aims to cultivate a cohort of AI-agent operating systems and new software tooling firms to upgrade the software and information services sector."
+    },
+    {
+      "id": "mkt:01a0b53b-127c-7118-8608-11cdfee457a5",
+      "time": "2026-09-18 23:55:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Beijing to back firms building general-purpose agents for retail and institutional clients】Beijing Municipal Commission of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate Development of the Token Economy (2026–2028). The plan calls for cultivating general-purpose and vertical-domain intelligent agents, supporting firms to develop agent products for individual and institutional clients, and encouraging internet platforms and agent service providers to collaborate to scale deployments in information consulting, commercial services and lifestyle services. It targets industrial manufacturing, scientific research, biopharma and education, seeks to open application scenarios, seed representative flagship projects and promote industry token-application services."
+    },
+    {
+      "id": "mkt:01a0b53a-b9ec-7118-8608-0929a10bcff2",
+      "time": "2026-09-18 23:55:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing to back software and information-service firms building token distribution platforms benchmarked to international best practice】Beijing’s municipal industry and information technology bureau and development and reform commission issued the Action Plan to Accelerate Token Economy Development (2026–2028), directing support for software and information-service firms to build token distribution platforms benchmarked to international best practice. The plan targets improved cross-model, cross‑modal and cross‑region platform access, unified APIs, model aggregation, token metering and settlement services; it calls for cultivating leading firms with strong upstream/downstream spillovers and for including token distribution platforms in new-infrastructure planning as efficient service entry points for the intelligent economy."
+    },
+    {
+      "id": "mkt:01a0b53a-6f7a-7118-8608-0434fcdb2748",
+      "time": "2026-09-18 23:55:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Beijing backs software and information‑service firms to build token testing platform with third‑party evaluators】Beijing Municipal Commission of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate the Token Economy (2026–2028). The plan supports software and information‑service firms partnering with third‑party evaluation agencies to pilot token (AI model token) testing platforms, and encourages value‑added services such as model intelligent‑routing and evaluation consulting to form sustainable operating models. It also calls for objective, impartial token performance and quality standards to inform token pricing and model routing."
+    },
+    {
+      "id": "5102592",
+      "time": "2026-09-18 23:54:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：制定北京市詞元工廠分級評價標準 覆蓋模型適配數量、詞元吞吐速度、首字延遲、快取命中率、電能利用效率（PUE）等核心技術指標】北京市經濟和資訊化局、北京市發展和改革委員會關於印發《北京市加快詞元經濟發展的行動方案（2026—2028年）》。其中提到，高標準建設詞元工廠。制定北京市詞元工廠分級評價標準，覆蓋模型適配數量、詞元吞吐速度、首字延遲、快取命中率、電能利用效率（PUE）等核心技術指標，最佳化土地資源、能耗指標、通訊網路等要素保障，對具有行業引領力的詞元工廠給予支援。"
+    },
+    {
+      "id": "mkt:01a0b539-a193-7118-8607-fc465bafba7b",
+      "time": "2026-09-18 23:54:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Beijing backs model–chip co‑optimization, inference chips and edge deployment】Beijing’s municipal economic and information bureau and development and reform commission issued an action plan (2026–2028) to accelerate the token economy. The plan calls for faster iteration of foundational models to raise model capability ceilings, mandates model–chip adaptation and tuning, and supports R&D for inference‑dedicated chips, model lightweighting and edge deployment. It also directs high‑level construction and coordinated use of intelligent computing resources to boost token production capacity."
+    },
     {
       "id": "mkt:01a0b539-100d-7118-8607-f2e3777d98da",
       "time": "2026-09-18 23:53:30",
@@ -123182,27 +123251,6 @@
         "國際"
       ],
       "text": "據半島電視臺：美國中央司令部稱，庫珀上將正在沙烏地阿拉伯舉行會議，就胡塞武裝近期在葉門的攻勢開展協調工作。"
-    },
-    {
-      "id": "5090171",
-      "time": "2026-09-11 23:57:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國天然氣期貨本週漲超11%】週五（9月11日）歐市尾盤，ICE英國天然氣期貨跌2.71%，報199.520便士/千卡，本週累計上漲11.67%，9月8-10日持續走高。TTF基準荷蘭天然氣期貨跌2.78%，報80.147歐元/兆瓦時，本週累漲10.13%。ICE歐盟碳排放交易許可（期貨價格）漲0.06%，報85.33歐元/噸，本週累漲2.02%。"
-    },
-    {
-      "id": "te:markets:583258",
-      "time": "2026-09-11 23:57:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Finishes Higher, Still Posts Weekly Loss — Frankfurt's DAX 40 rose further to close about 0.8% firmer at 25,557 on Friday, halting a two-day decline, helped by falling oil prices and tech strength. However, investors remained concerned about inflation and the prospect of higher rates, amid ongoing geopolitical tensions Latest data showed US inflation remains stubbornly high due to energy price pressures stemming from the Middle East. Traders are increasingly anticipating a 25 bps rate hike next week, similar to the ECB's recent move. Infineon Technologies outperformed, jumping 4.8%, supported by Oracle’s strong AI demand. Siemens Energy and Hochtief followed, rising 2.4% and 1.7%, respectively. Other top performers included Siemens, Deutsche Telekom, Sccout24 and Airbus. Commerzbank rose 1.5% after the German government set conditions for UniCredit’s proposed takeover. On the flip side, BASF (-2.8%), Rheinmetall (-2.5%) and Henkel (-1.9%) emerged as the biggest laggards. For the week, the index posted a 1.9% loss."
     }
   ]
 }
