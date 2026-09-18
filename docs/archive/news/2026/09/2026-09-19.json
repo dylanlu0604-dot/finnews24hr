@@ -1,7 +1,54 @@
 {
   "date": "2026-09-19",
-  "count": 131,
+  "count": 136,
   "items": [
+    {
+      "id": "5102657",
+      "time": "2026-09-19 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報100.30美元/桶。NYMEX 10月天然氣期貨收報2.9120美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.5276美元/加侖，NYMEX 10月取暖油期貨收報5.0578美元/加侖。"
+    },
+    {
+      "id": "mkt:01a0b5c9-644a-7118-8609-fa7c3686990f",
+      "time": "2026-09-19 02:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $100.30 a barrel, down $1.61 or 1.58%."
+    },
+    {
+      "id": "mkt:01a0b5c9-5bb7-7118-8609-f1b7a345ef4a",
+      "time": "2026-09-19 02:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Washington Post: U.S. military deaths in Iran conflict may exceed Pentagon figures】The Washington Post reports multiple U.S. officials say actual U.S. military deaths since the start of the Iran conflict may be higher than Pentagon public data. The Pentagon’s casualty database lists 18 deaths; five officials told the paper the true toll is at least 22 and one official said it could be 23. Some deaths allegedly have not been entered into the public database; identities, dates and causes were not disclosed. The Pentagon declined to comment on the discrepancy. The report also says more than 820 U.S. service members have been wounded since Feb. 28, many suffering traumatic brain injuries from Iranian strikes."
+    },
+    {
+      "id": "5102656",
+      "time": "2026-09-19 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.60%，報734.80元人民幣/桶。滬金夜盤收漲0.52%，滬銀收漲1.45%。"
+    },
+    {
+      "id": "te:markets:585105",
+      "time": "2026-09-19 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Soars by 7.24% — Top crypto gainers are XRP (7.24%), Ether (6.56%) and Bitcoin (5.92%)."
+    },
     {
       "id": "mkt:01a0b5c6-7730-7118-8609-edc5289c1b5f",
       "time": "2026-09-19 02:27:57",

@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-19 02:28:55",
-  "count": 13427,
+  "updated": "2026-09-19 02:32:55",
+  "count": 13424,
   "items": [
+    {
+      "id": "5102657",
+      "time": "2026-09-19 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報100.30美元/桶。NYMEX 10月天然氣期貨收報2.9120美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.5276美元/加侖，NYMEX 10月取暖油期貨收報5.0578美元/加侖。"
+    },
+    {
+      "id": "mkt:01a0b5c9-644a-7118-8609-fa7c3686990f",
+      "time": "2026-09-19 02:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $100.30 a barrel, down $1.61 or 1.58%."
+    },
+    {
+      "id": "mkt:01a0b5c9-5bb7-7118-8609-f1b7a345ef4a",
+      "time": "2026-09-19 02:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Washington Post: U.S. military deaths in Iran conflict may exceed Pentagon figures】The Washington Post reports multiple U.S. officials say actual U.S. military deaths since the start of the Iran conflict may be higher than Pentagon public data. The Pentagon’s casualty database lists 18 deaths; five officials told the paper the true toll is at least 22 and one official said it could be 23. Some deaths allegedly have not been entered into the public database; identities, dates and causes were not disclosed. The Pentagon declined to comment on the discrepancy. The report also says more than 820 U.S. service members have been wounded since Feb. 28, many suffering traumatic brain injuries from Iranian strikes."
+    },
+    {
+      "id": "5102656",
+      "time": "2026-09-19 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.60%，報734.80元人民幣/桶。滬金夜盤收漲0.52%，滬銀收漲1.45%。"
+    },
+    {
+      "id": "te:markets:585105",
+      "time": "2026-09-19 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Soars by 7.24% — Top crypto gainers are XRP (7.24%), Ether (6.56%) and Bitcoin (5.92%)."
+    },
     {
       "id": "mkt:01a0b5c6-7730-7118-8609-edc5289c1b5f",
       "time": "2026-09-19 02:27:57",
@@ -123302,93 +123349,6 @@
         "國際"
       ],
       "text": "【梅德韋傑夫否認“俄羅斯打算進攻歐洲”】俄聯邦安全會議副主席、統一俄羅斯黨主席梅德韋傑夫11日表示，俄羅斯沒有任何針對歐洲的軍事目標，歐洲領導層所謂“俄羅斯打算進攻歐洲”的說法，是為其援烏政策作辯護，以謀求在地緣政治上擊敗俄羅斯。梅德韋傑夫當天在社交媒體釋出的一段影片中說，歐洲各國目前民生承壓，歐洲領導層編造“俄羅斯威脅論”，用以向民眾解釋為何要投入大量資金援助烏克蘭。他說，炒作“俄羅斯威脅論”是為這場戰爭持續籌措資金的最佳手段。（新華社）"
-    },
-    {
-      "id": "mkt:01a091bd-288f-7118-8550-5722f32d3dec",
-      "time": "2026-09-12 02:31:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】At the night-session close (02:30), Shanghai most-active gold contract fell 0.04% to 942 yuan/gram; silver rose 0.49% to 15,723 yuan/kg; SC crude oil rose 4.96% to 850 yuan/barrel."
-    },
-    {
-      "id": "5090232",
-      "time": "2026-09-12 02:31:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 10月原油期貨收報100.05美元/桶。NYMEX 10月天然氣期貨收報2.8310美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.3072美元/加侖，NYMEX 10月取暖油期貨收報4.9593美元/加侖。"
-    },
-    {
-      "id": "mkt:01a091bc-d237-7118-8550-4e1943c5b53d",
-      "time": "2026-09-12 02:31:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $100.05 per barrel, down $2.43, or 2.37%."
-    },
-    {
-      "id": "mkt:01a091bc-3c3e-7118-8550-413503760f1b",
-      "time": "2026-09-12 02:30:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 0.16% at 939.5 yuan/gram in the evening session on Sept. 11 (Friday); silver T+D closed up 0.73% at 15,685 yuan/kg."
-    },
-    {
-      "id": "te:markets:583288",
-      "time": "2026-09-12 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Rises by 4.36% — Top crypto gainers are Ether (4.36%), Binance (1.97%), XRP (1.88%) and Bitcoin (0.83%)."
-    },
-    {
-      "id": "5090231",
-      "time": "2026-09-12 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲4.96%，報850.10元人民幣/桶。滬金夜盤收平，滬銀收漲0.54%。"
-    },
-    {
-      "id": "mkt:01a091bb-40ce-7118-8550-3f54a2c55107",
-      "time": "2026-09-12 02:29:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Ministry of Energy said an attack caused injuries; the injured have received medical treatment."
-    },
-    {
-      "id": "mkt:01a091bb-2eaa-7118-8550-359df21eed2d",
-      "time": "2026-09-12 02:29:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Saudi Energy Ministry says the East-West oil pipeline serving the Riyadh and Medina regions was temporarily closed after multiple attacks."
     }
   ]
 }
