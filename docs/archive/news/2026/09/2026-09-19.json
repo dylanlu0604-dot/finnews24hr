@@ -1,7 +1,46 @@
 {
   "date": "2026-09-19",
-  "count": 141,
+  "count": 145,
   "items": [
+    {
+      "id": "mkt:01a0b5d3-bae9-7118-860a-2e74dbb6576a",
+      "time": "2026-09-19 02:42:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $103.87 a barrel, down $0.95, or 0.91%."
+    },
+    {
+      "id": "mkt:01a0b5d3-ad99-7118-860a-21f99c5668aa",
+      "time": "2026-09-19 02:42:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuba hit by nationwide blackout】Cuba's Ministry of Energy and Mines said at 14:06 local time on Sept. 18 the national power system went fully offline. Restoration procedures have been initiated; authorities have not yet disclosed a cause."
+    },
+    {
+      "id": "5102660",
+      "time": "2026-09-19 02:41:38",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員對日元的看漲情緒略有增強 此前日本央行據報進行匯率摸底】在有關日本央行進行匯率摸底的報道傳出後，交易員對未來一週日元的看漲情緒略有增強。不過，與7月底東京干預匯市時以及9月初美國財政部長貝森特公開施壓日本央行加息時相比，當前對日元升值的預期要溫和得多。美元/日元1週期風險逆轉指標在三天內第二次進一步跌入負值區間，週五該指標報-2.17%，而週四為-2.02%，一週前為-1.98%，看跌期權相對更受青睞。過去幾個月，交易員總體一直看漲日元，押注未來一週美元/日元下跌的看跌期權價格高於押注該貨幣對上漲的看漲期權。不過，市場對未來一週日元升值的預期遠較9月初以及7月底至8月初時的極端水平溫和。"
+    },
+    {
+      "id": "5102659",
+      "time": "2026-09-19 02:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古巴發生全國大停電】當地時間9月18日14時06分，古巴能源和礦業部發布訊息稱，全國電力系統完全斷開。據悉，相關恢復程式已經啟動。截至目前，官方尚未給出停電原因。（央視新聞）"
+    },
     {
       "id": "mkt:01a0b5cf-2724-7118-860a-1d293e87171e",
       "time": "2026-09-19 02:37:27",
