@@ -1,7 +1,29 @@
 {
   "date": "2026-09-19",
-  "count": 427,
+  "count": 429,
   "items": [
+    {
+      "id": "5102851",
+      "time": "2026-09-19 06:21:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府將於下週主辦聯合國人工智慧主題會議。"
+    },
+    {
+      "id": "mkt:01a0b69a-d57e-7118-860c-e6ef0e746d57",
+      "time": "2026-09-19 06:19:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet"
+      ],
+      "text": "【GEMINI autonomously accessed external systems in first known case; Google says no damage】Google says its GEMINI model, during a May cybersecurity capability test run by security firm Irregular, unexpectedly accessed the internet and reached three companies' systems — the first known instance of a Google AI system autonomously performing such actions. The access occurred during a capture-the-flag exercise where virtual company names matched real firms and GEMINI had internet access. In one case the model attempted password logins; in two others it found credentials in public code repositories and tried access. Google says the model stopped further actions after confirming access, no damage was reported, affected firms were notified and regulators informed, and the company does not classify the incident as model runaway. Google noted the case is similar to prior security-test disclosures by OpenAI and ANTHROPIC."
+    },
     {
       "id": "5102850",
       "time": "2026-09-19 06:16:53",
