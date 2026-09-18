@@ -1,7 +1,118 @@
 {
   "date": "2026-09-18",
-  "count": 2463,
+  "count": 2474,
   "items": [
+    {
+      "id": "mkt:01a0b52b-67e8-7118-8607-d7fc83c5d235",
+      "time": "2026-09-18 23:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Russia's defence ministry said Russian forces struck an oil tanker in Odesa, Ukraine."
+    },
+    {
+      "id": "5102581",
+      "time": "2026-09-18 23:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在敖德薩擊中一艘油輪。"
+    },
+    {
+      "id": "5102580",
+      "time": "2026-09-18 23:38:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭加入烏克蘭主導的反彈道導彈聯盟。"
+    },
+    {
+      "id": "mkt:01a0b52a-bc18-7118-8607-ca1debe528e3",
+      "time": "2026-09-18 23:37:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Euro STOXX 50"
+      ],
+      "text": "European equities closed lower on Sept 18. Germany's DAX fell 424.38 points (-1.65%) to 25,308.88; the UK's FTSE 100 fell 165.12 points (-1.53%) to 10,651.02; France's CAC 40 fell 121.91 points (-1.49%) to 8,065.02; the Euro STOXX 50 fell 87.45 points (-1.38%) to 6,235.45; Spain's IBEX 35 fell 334.79 points (-1.69%) to 19,501.41; Italy's FTSE MIB fell 846.00 points (-1.61%) to 51,539.50."
+    },
+    {
+      "id": "mkt:01a0b52a-8869-7118-8607-c1586a7d7417",
+      "time": "2026-09-18 23:37:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【IAEA says drone hit cooling tower at Russia's Kursk nuclear plant】The IAEA said on the 18th it had learned a cooling tower of a reactor unit at Russia's Kursk nuclear power plant was struck by a drone on the 17th. The agency said the reactor unit was reportedly operating at the time, its operational status was unaffected and no fire occurred. Director General GROSSI said any attack on nuclear facilities is unacceptable and urged parties to exercise maximum military restraint to prevent the risk of a nuclear accident."
+    },
+    {
+      "id": "mkt:01a0b529-f0fe-7118-8607-bf9b2030410a",
+      "time": "2026-09-18 23:36:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Interfax cited the Russian Defence Ministry as saying Russian forces struck a cargo ship at Ukraine's Pivdennyi port."
+    },
+    {
+      "id": "5102579",
+      "time": "2026-09-18 23:36:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在烏克蘭皮夫登內港擊中一艘貨船。"
+    },
+    {
+      "id": "5102578",
+      "time": "2026-09-18 23:36:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際原子能機構：俄羅斯一核電站冷卻塔被無人機擊中】國際原子能機構18日說，獲悉俄羅斯庫爾斯克核電站一個反應堆機組的冷卻塔於17日被無人機擊中。 國際原子能機構在社交媒體上發文說，據稱該反應堆機組事發時正在執行，其執行狀態未受影響，也未發生火災。 帖文稱，國際原子能機構總幹事格羅西表示，針對核設施的任何襲擊都是不可接受的。格羅西重申各方應保持最大限度的軍事剋制，以防範核事故風險。(新華社)"
+    },
+    {
+      "id": "mkt:01a0b528-3d66-7118-8607-b101dfcb51a6",
+      "time": "2026-09-18 23:35:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "ONON.O",
+        "Impact bullish"
+      ],
+      "text": "【On signs Kylian Mbappé; Asia‑Pacific PR head says incentives include cash and equity】On announced a partnership with Kylian Mbappé. Founder David Allemann said On-branded football boots will reach retail in 2027 and be positioned as a premium product. Mbappé will wear On-developed football gear in matches, participate directly in future boot and apparel development and testing, and act as the brand’s global ambassador. On’s Asia‑Pacific PR head Adrian described the arrangement as long-term and highly collaborative, focused on co‑creation and product innovation, with incentives comprising cash and equity."
+    },
+    {
+      "id": "mkt:01a0b528-357c-7118-8607-aa12f89c0adb",
+      "time": "2026-09-18 23:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kansas City Fed President Schmidt, a 2028 FOMC voting member, is scheduled to speak in 10 minutes."
+    },
+    {
+      "id": "em:qqyh_mlc:202609183878912938",
+      "time": "2026-09-18 23:34:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲施密德：近期資料顯示通脹趨勢超過3% 加息是朝著恢復2%通脹目標邁出的一步】美聯儲施密德表示，投票支援加息，近期資料顯示通脹趨勢超過3%。加息是朝著恢復2%通脹目標邁出的一步。當前通脹問題不僅僅是能源問題，價格增長在廣泛的商品和服務中“依然火熱”。並表示，高通脹是供需失衡的跡象。除了通脹，經濟表現良好；勞動力市場趨於平衡，經濟增長穩健。"
+    },
     {
       "id": "mkt:01a0b527-934b-7118-8607-a5df26ced26f",
       "time": "2026-09-18 23:34:24",
