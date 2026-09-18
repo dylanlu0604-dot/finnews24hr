@@ -1,7 +1,179 @@
 {
   "date": "2026-09-18",
-  "count": 1368,
+  "count": 1387,
   "items": [
+    {
+      "id": "5101396",
+      "time": "2026-09-18 14:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九識建成業內首個L4級智慧駕駛萬卡叢集】近日，九識宣佈，已建成業內首個L4級萬卡叢集，算力叢集總規模近1.5萬卡。萬卡叢集是由超過一萬張加速卡組成的高效能運算系統，用以訓練基礎大模型。九識表示，算力的層級將在基礎設施上決定一家智駕企業的智慧上限。"
+    },
+    {
+      "id": "5101395",
+      "time": "2026-09-18 14:56:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：今日投票結果是貨幣政策委員會成員開展建設性討論的成果。"
+    },
+    {
+      "id": "5101394",
+      "time": "2026-09-18 14:55:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "伊斯坦布林證券交易所100指數開盤下跌1.1%。"
+    },
+    {
+      "id": "5101393",
+      "time": "2026-09-18 14:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蚊子“搭機”入境 法蘭克福再添瘧疾死亡病例 】德國法蘭克福市政府17日通報，一名在法蘭克福機場附近生活的居民因感染瘧疾死亡。自7月以來，關聯法蘭克福機場的瘧疾死亡病例已達3例，累計感染病例為8例。（新華社）"
+    },
+    {
+      "id": "te:markets:584907",
+      "time": "2026-09-18 14:55:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Rebound — UK natural gas prices rose toward 193 pence per therm on Friday, rebounding after three straight sessions of declines, with depleted reserves and disruptions to LNG shipments remaining in focus. The region is entering winter with low storage levels after the US-Iran war severely curtailed LNG supplies from the Persian Gulf and record summer heatwaves hampered efforts to rebuild inventories. Underground storage facilities were only around 68% full, well below seasonal averages and the EU’s target of 80% capacity by December. Strong demand from Asia and other buyers could also drive more intense competition for LNG cargoes when colder weather sets in, leaving the region more exposed to price spikes. Despite Friday’s gain, UK gas prices have fallen more than 2% this week, their first weekly decline in six weeks."
+    },
+    {
+      "id": "5101392",
+      "time": "2026-09-18 14:55:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙競爭監管機構CNMC批准天然氣運輸、再氣化及分銷報酬通告。"
+    },
+    {
+      "id": "mkt:01a0b34c-15be-7118-85f7-89e3d9d04c5b",
+      "time": "2026-09-18 14:55:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell to $95/bbl, down 1.57% intraday."
+    },
+    {
+      "id": "mkt:01a0b34b-f5fb-7118-85f7-865b625c5524",
+      "time": "2026-09-18 14:54:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BOJ Governor UEDA said policymakers must avoid the negative effects of sharp interest-rate hikes."
+    },
+    {
+      "id": "5101391",
+      "time": "2026-09-18 14:54:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2207億元。"
+    },
+    {
+      "id": "5101390",
+      "time": "2026-09-18 14:54:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：必須避免激進加息引發的負面效應。"
+    },
+    {
+      "id": "mkt:01a0b34b-8bd4-7118-85f7-79c1782db53b",
+      "time": "2026-09-18 14:54:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【JP Morgan: Reserve Bank of India may deliver first 25bp hike this year】JP Morgan co-head of economic research Jahangir Aziz says the Reserve Bank of India could deliver a first 25bp rate hike this year, partly because policymakers have strongly signaled such a move. Aziz warned the economy may be in a stimulus-driven sugar high that will fade and said markets may be pricing too many hikes; financial markets imply roughly 100bp of tightening this year. He urged caution, saying authorities should wait to assess the impact of initial hikes on domestic financial conditions and real activity before declaring a hiking cycle."
+    },
+    {
+      "id": "5101389",
+      "time": "2026-09-18 14:54:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將努力維持有序的外匯市場。"
+    },
+    {
+      "id": "mkt:01a0b34b-2f74-7118-85f7-7487fd94aaa4",
+      "time": "2026-09-18 14:54:03",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "BOJ Governor UEDA said overall financial conditions remain accommodative, but the degree of accommodation is waning."
+    },
+    {
+      "id": "5101388",
+      "time": "2026-09-18 14:53:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：寬鬆政策的效果正在減弱。"
+    },
+    {
+      "id": "mkt:01a0b34a-be46-7118-85f7-6913e4b204dd",
+      "time": "2026-09-18 14:53:35",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said he will work to keep the foreign exchange market orderly and that overall financial conditions remain accommodative."
+    },
+    {
+      "id": "5101387",
+      "time": "2026-09-18 14:53:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男稱：整體而言，金融環境目前仍保持寬鬆。"
+    },
+    {
+      "id": "5101386",
+      "time": "2026-09-18 14:53:00",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "惠譽維持小米“BBB+”評級，展望穩定。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202609183878570685",
+      "time": "2026-09-18 14:52:59",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男表示，2027財年春季工資談判將成為判斷通脹趨勢能否企穩的關鍵。"
+    },
+    {
+      "id": "5101385",
+      "time": "2026-09-18 14:52:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報95.28美元/桶。"
+    },
     {
       "id": "te:markets:584906",
       "time": "2026-09-18 14:52:00",
