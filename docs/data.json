@@ -1,7 +1,229 @@
 {
-  "updated": "2026-09-18 14:33:57",
-  "count": 13234,
+  "updated": "2026-09-18 14:37:47",
+  "count": 13253,
   "items": [
+    {
+      "id": "mkt:01a0b33b-bdef-7118-85f6-5f6af114194b",
+      "time": "2026-09-18 14:37:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazaks said 2.5% may be the upper bound of the neutral rate range."
+    },
+    {
+      "id": "mkt:01a0b33b-5eb1-7118-85f6-5733b7b2b6ff",
+      "time": "2026-09-18 14:36:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan Governor UEDA said the current pace of reducing monetary accommodation is appropriate from the standpoint of sustainably and stably achieving the 2% inflation target."
+    },
+    {
+      "id": "5101344",
+      "time": "2026-09-18 14:36:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡扎克斯：很可能需要採取限制性政策。"
+    },
+    {
+      "id": "5101343",
+      "time": "2026-09-18 14:36:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行總裁植田和男：央行將繼續根據經濟活動、物價和金融狀況的發展，上調政策利率並調整貨幣寬鬆程度。"
+    },
+    {
+      "id": "mkt:01a0b33b-1445-7118-85f6-4f7e86770759",
+      "time": "2026-09-18 14:36:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "BoJ Governor Ueda said Japan's financial conditions are accommodative."
+    },
+    {
+      "id": "5101342",
+      "time": "2026-09-18 14:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，沙特阿美將在9月和10月把霍爾木茲海峽的出口量提升至6000萬桶/月。"
+    },
+    {
+      "id": "mkt:01a0b33a-c0dc-7118-85f6-414911dad8c5",
+      "time": "2026-09-18 14:36:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $99/bbl, down 1.6% intraday."
+    },
+    {
+      "id": "5101341",
+      "time": "2026-09-18 14:36:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：預計將維持寬鬆貨幣政策，全力支撐經濟。"
+    },
+    {
+      "id": "mkt:01a0b33a-b6c4-7118-85f6-3c59e0eccd76",
+      "time": "2026-09-18 14:36:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【Survey: Strategists Most Bullish on European Stocks for September Since 2018】A survey of 16 strategists shows the most bullish September outlook for European equities since 2018. The median year‑end target for the Stoxx Europe 600 is 670, implying roughly 5% upside from Wednesday’s close. Respondents said strong corporate earnings and a wave of government spending should offset damage from surging oil prices and rising bond yields that triggered a recent pullback. Panmure Liberum is the most bullish, forecasting a 10% gain to year‑end; Deka Bank raised its target and no institution cut targets. SOCGEN is the most bearish with an unchanged 600 target. The survey mean is 654, below the median."
+    },
+    {
+      "id": "5101340",
+      "time": "2026-09-18 14:35:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：央行認為，從可持續、穩定實現2%物價目標的角度來看，當前調整貨幣寬鬆的幅度是合適的。"
+    },
+    {
+      "id": "5101339",
+      "time": "2026-09-18 14:35:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡扎克斯：2.5%可能是中性區間的上限。"
+    },
+    {
+      "id": "5101338",
+      "time": "2026-09-18 14:35:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：金融環境寬鬆。"
+    },
+    {
+      "id": "mkt:01a0b339-ecf3-7118-85f6-36dd29683bbe",
+      "time": "2026-09-18 14:35:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said that with firms becoming more aggressive in wage- and price-setting and medium-to-long-term inflation expectations rising, there is a risk that potential inflation could exceed the 2% price target."
+    },
+    {
+      "id": "mkt:01a0b339-bc61-7118-85f6-2f379133fef0",
+      "time": "2026-09-18 14:35:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Governor Ueda said the central bank must monitor developments in the Middle East, AI-driven demand growth and the impact of exchange-rate movements on Japan's economic activity and inflation."
+    },
+    {
+      "id": "mkt:01a0b339-7a21-7118-85f6-264cfbb7a401",
+      "time": "2026-09-18 14:34:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazaks said the energy-price shock is more persistent and policymakers must do everything to prevent second‑round effects."
+    },
+    {
+      "id": "5101337",
+      "time": "2026-09-18 14:34:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡扎克斯：所有會議均為現場會議。"
+    },
+    {
+      "id": "5101336",
+      "time": "2026-09-18 14:34:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜粕連續主力合約日內跌3%，現報2348.00元。"
+    },
+    {
+      "id": "mkt:01a0b339-335c-7118-85f6-1ba64523ab09",
+      "time": "2026-09-18 14:34:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "BANK OF JAPAN Governor UEDA said core inflation is near 2%."
+    },
+    {
+      "id": "5101335",
+      "time": "2026-09-18 14:33:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光大期貨：保供政策推出，焦煤近月合約跌停】短期焦煤的下跌是“情緒降溫+政策轉向預期+需求負反饋”三重壓力的集中釋放。中期來看，焦煤的核心矛盾並未根本解決——山西復產進度偏慢、蒙煤通關恢復缺乏明確時間表，四季度供需缺口預期仍存。但短期內，保供政策訊號的發酵、鋼廠減產的推進以及競拍流拍對現貨定價的拖拽，可能使焦煤延續偏弱調整。真正的企穩訊號，或需要等待鋼廠利潤修復的實質性進展，以及競拍市場重新出現有效成交。（光大期貨）"
+    },
+    {
+      "id": "mkt:01a0b338-a17d-7118-85f6-15b57d4ebcca",
+      "time": "2026-09-18 14:33:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Governor UEDA said Japan's economy may continue to grow moderately."
+    },
+    {
+      "id": "5101334",
+      "time": "2026-09-18 14:33:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行卡扎克斯：必須竭盡全力避免第二輪效應。"
+    },
     {
       "id": "5101333",
       "time": "2026-09-18 14:33:18",
@@ -121628,29 +121850,6 @@
         "美國"
       ],
       "text": "【美國8月CPI前瞻：能源漲價擾動通脹 美聯儲加息預期面臨關鍵檢驗】北京時間9月11日20時30分，美國將公佈8月消費者價格指數（CPI）。在油價上漲、生產端價格壓力持續的背景下，這份美聯儲9月議息會議前的關鍵通脹報告，將為利率決策提供重要依據，並牽動全球股債匯市場走勢。"
-    },
-    {
-      "id": "te:markets:583055",
-      "time": "2026-09-11 14:37:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX Retreats 3.0% Weekly as Inflation Fears Mount — The ASX 200 slid 78 points, or 0.9%, to end at 8,741 on Friday, its lowest in seven weeks. The benchmark index fell for a fourth straight session, logging its worst week in six months with a 3.0% slide. Sentiment weakened as surging crude oil prices raised doubts over a quick easing in Australia's inflation. RBA Deputy Governor Hauser said further hikes will be debated at September’s meeting, echoed by Assistant Governor Hunter’s warning of limited tolerance for stronger cost pressures. The country's 10-year bond yield spiked above 5.3%, the highest since May 2011, tracking U.S. Treasury gains and reinforcing expectations of tighter borrowing conditions. Losses were broad, led by healthcare, non-energy minerals, tech, and consumer stocks. Major miners tumbled, with BHP down 4.3%, Rio Tinto off 3.7%, and Fortescue slipping 2.4%. South32 (-4.4%), Northern Star Resources (-2.3%), and Evolution Mining (-2.0%) also lagged. In contrast, the big four banks gained between 0.6% and 2.5%."
-    },
-    {
-      "id": "te:markets:583053",
-      "time": "2026-09-11 14:35:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Nickel Falls to 2-Month Low — Nickel traded around $16,550 per tonne, falling to its lowest level since July, as prospects for increased Indonesian supply weighed on prices. Indonesia’s Weda Bay Nickel, one of the world’s largest nickel mining operations, restarted mining after four months of care and maintenance, potentially bringing additional ore supply back to the market, although the ramp-up will be gradual and production volumes for the remainder of the year remain uncertain. Additionally, Indonesia’s 2026 mining quota was set at 250–260 million wet tonnes, below 379 million tonnes in 2025, limiting the scope for higher Indonesian ore supply. At the same time, the US 10-year yield approached 5%, while the dollar index climbed above 99, weighing on base metals broadly. Meanwhile, cuts to Chinese HPAL and MHP output have tightened intermediate supply, providing a countervailing factor to the Indonesian supply outlook."
     }
   ]
 }
