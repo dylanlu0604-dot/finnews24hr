@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-20 04:32:12",
+  "updated": "2026-09-20 04:36:04",
   "count": 13479,
   "items": [
+    {
+      "id": "mkt:01a0bb60-0305-7118-8612-5b2a138c89e5",
+      "time": "2026-09-20 04:33:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Australian Prime Minister ALBANESE met with Apple (AAPL.O) executive chairman Cook at Apple headquarters to discuss protecting children from online harm."
+    },
     {
       "id": "5103558",
       "time": "2026-09-20 04:29:58",
@@ -123729,15 +123742,6 @@
         "其他"
       ],
       "text": "【沙特稱葉門胡塞武裝襲擊造成2人受傷】沙烏地阿拉伯民防總局12日晚發表宣告說，沙特賈贊省圖沃勒縣當天遭到葉門胡塞武裝的襲擊，造成2人受傷、多棟建築和一些車輛受損。（新華社）"
-    },
-    {
-      "id": "5091088",
-      "time": "2026-09-13 04:35:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行行長拉加德：當前價格衝擊持續時間將更久】歐洲央行行長拉加德表示，歐元區通脹仍將在一段時間內維持高位。自伊朗戰爭推高油氣價格以來，歐洲央行本週第二次加息。歐洲央行週四釋出的最新預測顯示，2027年和2028年通脹水平將高於此前預期，其中2028年通脹將小幅高於目標值。"
     }
   ]
 }

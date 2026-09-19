@@ -1,7 +1,20 @@
 {
   "date": "2026-09-20",
-  "count": 78,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:01a0bb60-0305-7118-8612-5b2a138c89e5",
+      "time": "2026-09-20 04:33:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Australian Prime Minister ALBANESE met with Apple (AAPL.O) executive chairman Cook at Apple headquarters to discuss protecting children from online harm."
+    },
     {
       "id": "5103558",
       "time": "2026-09-20 04:29:58",
