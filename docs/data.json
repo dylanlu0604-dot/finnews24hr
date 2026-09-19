@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-20 02:21:54",
-  "count": 13480,
+  "updated": "2026-09-20 02:25:38",
+  "count": 13484,
   "items": [
+    {
+      "id": "mkt:01a0bae9-d985-7118-8611-e17076266c84",
+      "time": "2026-09-20 02:24:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Turkey's foreign minister said it is unacceptable for Saudi Arabia to be drawn into a US-Iran war and that Saudi Arabia has no intention of joining the conflict."
+    },
+    {
+      "id": "5103538",
+      "time": "2026-09-20 02:24:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其外長：沙烏地阿拉伯被捲入美伊戰爭是不可接受的，他們無意加入衝突。"
+    },
+    {
+      "id": "5103537",
+      "time": "2026-09-20 02:24:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長在被問及沙特-胡塞武裝衝突時表示，已向各方轉達停火提議。"
+    },
+    {
+      "id": "mkt:01a0bae9-84b5-7118-8611-dde0226020d6",
+      "time": "2026-09-20 02:24:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "When asked about the Saudi-Houthi conflict, Turkey's foreign minister said Ankara has conveyed a proposal to all parties to end the war."
+    },
+    {
+      "id": "mkt:01a0bae8-892c-7118-8611-d33d2fbe7317",
+      "time": "2026-09-20 02:23:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Turkey's foreign minister said the current Middle East crisis can no longer be economically tolerated."
+    },
+    {
+      "id": "5103532",
+      "time": "2026-09-20 02:22:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：中東當前危機在經濟層面已不再可容忍。"
+    },
     {
       "id": "mkt:01a0bae6-3103-7118-8611-ce1a0037d7d8",
       "time": "2026-09-20 02:20:42",
@@ -123746,26 +123806,6 @@
         "其他"
       ],
       "text": "丹麥演員瑪蒂爾德·阿塞爾憑藉《無名女人》斬獲威尼斯電影節最佳女主角獎。"
-    },
-    {
-      "id": "mkt:01a096dd-9722-7118-8558-2b0670cc769b",
-      "time": "2026-09-13 02:24:59",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "UK foreign secretary spoke with the Saudi foreign minister to discuss Houthi aggression and recent attacks on Saudi Arabia; the UK said it stands firmly with Saudi Arabia and Yemen's internationally recognized government and opposes all attacks."
-    },
-    {
-      "id": "mkt:01a096db-50fb-7118-8558-26b9a8391127",
-      "time": "2026-09-13 02:22:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East."
     }
   ]
 }
