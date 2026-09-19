@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 02:29:23",
-  "count": 13485,
+  "updated": "2026-09-20 02:33:07",
+  "count": 13484,
   "items": [
+    {
+      "id": "5103540",
+      "time": "2026-09-20 02:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將組建一支“人工智慧部隊”】美國總統特朗普19日在社交媒體發文稱，他將組建一支“人工智慧部隊”。特朗普說，為組建“人工智慧部隊”，他將在不久後任命一名人工智慧事務“總管”。他稱，人工智慧代表著下一場工業革命或網際網路浪潮，其規模和影響力將更大，甚至可能佔到美國國內生產總值的25%。特朗普還在帖文中抨擊激進的民主黨人“企圖摧毀人工智慧”，稱“我們絕不會以任何方式阻礙或扼殺這個令人矚目的產業發展。相反，我們要珍視它、扶持它，並守護它的成長”。他同時表示，美國將借現有的刑事與民事司法體系，嚴懲人工智慧相關不法行為。（新華社）"
+    },
     {
       "id": "mkt:01a0baea-e8db-7118-8611-ea5acb00e815",
       "time": "2026-09-20 02:25:52",
@@ -123797,23 +123805,6 @@
         "Emerging Markets"
       ],
       "text": "【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership."
-    },
-    {
-      "id": "5091009",
-      "time": "2026-09-13 02:32:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "奈飛暗盤突破80美元，日內漲4.9%。"
-    },
-    {
-      "id": "5091008",
-      "time": "2026-09-13 02:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國演員約翰·馬爾科維奇憑藉《野馬九號》斬獲威尼斯電影節最佳男主角獎。"
     }
   ]
 }
