@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 05:58:59",
+  "updated": "2026-09-20 06:03:00",
   "count": 13477,
   "items": [
+    {
+      "id": "5103571",
+      "time": "2026-09-20 05:59:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其外長：土耳其與其他國家正在提交相關方案，並盡一切努力促成美伊談判取得成果。"
+    },
     {
       "id": "5103570",
       "time": "2026-09-20 05:58:12",
@@ -123709,18 +123717,6 @@
         "國際"
       ],
       "text": "【伊拉克外長同伊朗外長通話 討論邊境口岸關閉及沙特遭襲事件】當地時間9月12日，伊拉克副總理兼外交部長福阿德·侯賽因同伊朗外交部長阿拉格齊通電話。據伊拉克外交部訊息，雙方討論了伊拉克近期臨時關閉部分與伊朗接壤邊境口岸的原因及後續安排，並就沙特遭襲及相關調查進展交換意見。雙方還討論了計劃在阿曼舉行的地區會議。海合會成員國、伊拉克和伊朗將參會，重點討論霍爾木茲海峽相關問題。侯賽因表示伊拉克支援舉行此次會議，並將派代表團參會。雙方還就葉門局勢交換意見，並表示應透過對話和談判緩和地區緊張局勢。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a097a3-0eec-7118-8558-e15b34cfcf3e",
-      "time": "2026-09-13 06:00:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iraq FM Fuad Hussein speaks with Iran foreign minister on border closures, Saudi attack and Oman meeting】Iraq deputy prime minister and foreign minister Fuad Hussein held a phone call with Iran’s foreign minister on Sept. 12. They discussed Iraq’s recent temporary closure of several border crossings with Iran, the reasons and follow-up arrangements; exchanged views on the attack on Saudi Arabia and progress of related investigations; and reviewed a planned regional meeting in Oman — to include GCC members, Iraq and Iran — focused on Strait of Hormuz security. Iraq said it supports the meeting and will send a delegation. The ministers also exchanged views on Yemen and called for easing regional tensions through dialogue and negotiations."
     }
   ]
 }
