@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20 02:03:11",
-  "count": 13482,
+  "updated": "2026-09-20 02:06:55",
+  "count": 13481,
   "items": [
+    {
+      "id": "mkt:01a0bad8-a956-7118-8611-b2be41b9b725",
+      "time": "2026-09-20 02:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported senior Iranian officials approved a legal provision to regulate data routing and transmission through the Strait of Hormuz."
+    },
+    {
+      "id": "5103521",
+      "time": "2026-09-20 02:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員批准一項法律條款，對經由霍爾木茲海峽的資料路由實施監管。"
+    },
     {
       "id": "mkt:01a0bacc-6d30-7118-8611-af2a4b016387",
       "time": "2026-09-20 01:52:34",
@@ -123757,31 +123773,6 @@
         "Impact bullish"
       ],
       "text": "【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock."
-    },
-    {
-      "id": "mkt:01a096cc-cdb1-7118-8558-10da15ea9a6d",
-      "time": "2026-09-13 02:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources say SpaceX will increase its weight in the Nasdaq-100 following the index rebalancing."
-    },
-    {
-      "id": "mkt:01a096cc-98dd-7118-8558-0f2255245c52",
-      "time": "2026-09-13 02:06:25",
-      "tags": [
-        "MKT News",
-        "Brent"
-      ],
-      "text": "【Iran, Oman to brief Gulf states on Strait of Hormuz navigation talks】Iran and Oman expect to brief Gulf states at a regional meeting on the 14th on the outcome of their consultations on navigation in the Strait of Hormuz, Iran foreign ministry spokesman Baghaei said, Al Jazeera reported on the 12th."
-    },
-    {
-      "id": "5091002",
-      "time": "2026-09-13 02:05:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗和阿曼將通報霍爾木茲海峽通航磋商結果】據卡達半島電視臺12日報道，伊朗外交部發言人巴加埃表示，伊朗和阿曼預計將在14日舉行的相關地區會議上，向海灣國家通報兩國有關霍爾木茲海峽通航問題的磋商結果。（新華社）"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "date": "2026-09-20",
-  "count": 32,
+  "count": 34,
   "items": [
+    {
+      "id": "mkt:01a0bad8-a956-7118-8611-b2be41b9b725",
+      "time": "2026-09-20 02:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported senior Iranian officials approved a legal provision to regulate data routing and transmission through the Strait of Hormuz."
+    },
+    {
+      "id": "5103521",
+      "time": "2026-09-20 02:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員批准一項法律條款，對經由霍爾木茲海峽的資料路由實施監管。"
+    },
     {
       "id": "mkt:01a0bacc-6d30-7118-8611-af2a4b016387",
       "time": "2026-09-20 01:52:34",
