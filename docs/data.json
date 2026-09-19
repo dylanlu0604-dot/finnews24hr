@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-19 14:29:09",
-  "count": 13590,
+  "updated": "2026-09-19 14:32:55",
+  "count": 13581,
   "items": [
+    {
+      "id": "mkt:01a0b85d-25a6-7118-860e-7a2d9e12924b",
+      "time": "2026-09-19 14:31:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru trims 2026 growth forecast to 3.2% as El Nifio impact intensifies】Peru's Central Reserve Bank (BCRP) governor Julio Velarde said on the 18th that El Nifio impacts have exceeded expectations, prompting the BCRP to lower its 2026 GDP growth forecast from 3.4% to 3.2%. Speaking while presenting the September 2026 inflation report, Velarde said the probability of a stronger climate event has risen and the bank has downgraded growth prospects for the primary sector, notably fisheries and agriculture."
+    },
+    {
+      "id": "5103127",
+      "time": "2026-09-19 14:30:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【秘魯因厄爾尼諾影響下調今年經濟增長預期】秘魯中央儲備銀行行長貝拉爾德18日說，因厄爾尼諾現象造成的影響超出預期，秘魯央行將2026年秘魯經濟增長預期從此前的3.4%下調至3.2%。貝拉爾德當天在介紹秘魯2026年9月通脹報告時說，發生更大強度氣候事件的可能性有所上升，央行因此下調對第一產業部門的增長預期，其中尤其涉及漁業和農業。（新華社）"
+    },
     {
       "id": "5103126",
       "time": "2026-09-19 14:28:22",
@@ -124532,102 +124549,6 @@
         "MKT News"
       ],
       "text": "Securities and Exchange Board of India proposes shortening the derivatives market closing auction window from 10 minutes to 5 minutes."
-    },
-    {
-      "id": "mkt:01a09451-826e-7118-8554-78376645f772",
-      "time": "2026-09-12 14:32:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Securities and Exchange Board of India proposes not to publish indicative closing index levels during the closing auction session."
-    },
-    {
-      "id": "mkt:01a09451-542d-7118-8554-759f885189a2",
-      "time": "2026-09-12 14:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEBI proposes that on derivatives expiry days index and single-stock derivatives use the closing auction session price and its VWAP for expiry pricing/settlement."
-    },
-    {
-      "id": "5090624",
-      "time": "2026-09-12 14:32:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會提議將衍生品板塊收盤後競價視窗從10分鐘縮短至5分鐘。"
-    },
-    {
-      "id": "mkt:01a09451-0b11-7118-8554-69f3c57114ac",
-      "time": "2026-09-12 14:32:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEBI proposes tightening the closing auction price band: orders quoted outside a ±1% range in the closing auction would be non‑cancellable."
-    },
-    {
-      "id": "5090623",
-      "time": "2026-09-12 14:32:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會提議：在收盤競價時段不釋出指數的指示性收盤水平。"
-    },
-    {
-      "id": "5090622",
-      "time": "2026-09-12 14:31:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會：提議在衍生品到期日，對指數及個股衍生品採用收盤集合競價時段及成交量加權平均價格。"
-    },
-    {
-      "id": "mkt:01a09450-7953-7118-8554-6548bd7f2757",
-      "time": "2026-09-12 14:31:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's market regulator proposed six measures to improve derivatives settlement pricing during the closing auction period."
-    },
-    {
-      "id": "5090621",
-      "time": "2026-09-12 14:31:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會（SEBI）：收盤價競價中報價超出漲跌區間1%的委託訂單將不允許取消。"
-    },
-    {
-      "id": "5090620",
-      "time": "2026-09-12 14:31:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會（SEBI）提議調整收盤競價價格區間。"
-    },
-    {
-      "id": "5090619",
-      "time": "2026-09-12 14:31:16",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "印度市場監管機構提出六項措施，以最佳化收盤競價時段的衍生品結算價。"
-    },
-    {
-      "id": "5090618",
-      "time": "2026-09-12 14:31:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會（SEBI）：就《收盤競價交易時段、交易時段及衍生品合約結算規則若干問題修訂》釋出徵求意見稿，點選此處提交意見。"
     }
   ]
 }
