@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19 19:02:17",
-  "count": 13487,
+  "updated": "2026-09-19 19:06:12",
+  "count": 13482,
   "items": [
+    {
+      "id": "5103203",
+      "time": "2026-09-19 19:05:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷可能再裁員4000人。"
+    },
     {
       "id": "5103202",
       "time": "2026-09-19 18:49:55",
@@ -123681,57 +123689,6 @@
         "國際"
       ],
       "text": "特朗普稱讚美國股市的表現 “獨一無二”。"
-    },
-    {
-      "id": "mkt:01a0954b-d13e-7118-8556-d2dd00e7697f",
-      "time": "2026-09-12 19:06:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities"
-      ],
-      "text": "China's state reserve website said it will offer 12,900 tonnes of domestic frozen pork in a rotation-release auction on Sept. 16, 2026."
-    },
-    {
-      "id": "5090767",
-      "time": "2026-09-12 19:05:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府就特朗普關於愛爾蘭統一的言論表態：首相伯納姆對《貝爾法斯特協議》的立場不變。"
-    },
-    {
-      "id": "5090766",
-      "time": "2026-09-12 19:05:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府就特朗普有關愛爾蘭統一的言論作出表態：首相的觀點仍然是，目前公眾中不存在支援舉行另一場公投的多數民意，在這一情況改變之前，不會舉行相關公投。"
-    },
-    {
-      "id": "mkt:01a0954a-3c27-7118-8556-c878770e94a4",
-      "time": "2026-09-12 19:04:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's State Reserve Network (HuaChu) said it will hold a rotation auction on Sept. 15, 2026, listing 15,500 tonnes of domestically produced frozen pork from central reserves for competitive bidding."
-    },
-    {
-      "id": "5090765",
-      "time": "2026-09-12 19:04:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "華儲網釋出關於2026年9月15日中央儲備凍豬肉輪換出庫競價交易有關事項的通知：本次出庫競價交易掛牌國產凍豬肉15500噸。"
-    },
-    {
-      "id": "5090764",
-      "time": "2026-09-12 19:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統與阿聯酋王儲在金磚國家峰會期間舉行會談。"
     }
   ]
 }
