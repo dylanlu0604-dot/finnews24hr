@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20 01:55:38",
-  "count": 13488,
+  "updated": "2026-09-20 01:59:24",
+  "count": 13486,
   "items": [
     {
       "id": "mkt:01a0bacc-6d30-7118-8611-af2a4b016387",
@@ -123821,24 +123821,6 @@
         "XAUUSD"
       ],
       "text": "Iranian state media reports two explosions were heard on Qeshm Island, with the sounds originating from the sea."
-    },
-    {
-      "id": "5090998",
-      "time": "2026-09-13 01:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：格什姆島海域聽到兩次爆炸聲。"
-    },
-    {
-      "id": "mkt:01a096c3-6398-7118-8557-ff25adb4a931",
-      "time": "2026-09-13 01:56:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic’s Amodei, Altman and Musk urge slowdown in AI model development】Anthropic CEO Dario Amodei said in a long blog post the firm will adopt new safety measures, including third‑party assessments, and urged an industry‑wide slowdown in AI model development. OpenAI CEO Sam Altman said he will adopt Amodei’s proposal to grant independent assessors employee‑like access. xAI’s Elon Musk publicly backed Amodei. Despite longstanding warnings from these leaders, coordinated restraint would be unprecedented in a fiercely competitive sector where firms regularly launch new products to boost engagement and sales. It remains unclear how extensively leading AI companies will implement new limits or safety checks."
     }
   ]
 }
