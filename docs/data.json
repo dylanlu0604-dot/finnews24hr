@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19 15:11:22",
-  "count": 13572,
+  "updated": "2026-09-19 15:15:09",
+  "count": 13568,
   "items": [
     {
       "id": "mkt:01a0b880-7b4f-7118-860e-9371748c9604",
@@ -124420,40 +124420,6 @@
         "MKT News"
       ],
       "text": "Iranian President PEZESHKIAN met Ethiopia's prime minister on the sidelines of the BRICS summit."
-    },
-    {
-      "id": "5090642",
-      "time": "2026-09-12 15:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚在金磚國家峰會期間會見衣索比亞總理。"
-    },
-    {
-      "id": "mkt:01a09477-2d1f-7118-8554-ebb8bc385e15",
-      "time": "2026-09-12 15:13:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Xiong'an International Integrated Compute Dispatch Center begins operations】At the 2026 China Compute Power Conference Xiong'an Forum, the Xiong'an International Integrated Compute Dispatch Center officially began operations. The center comprises an integrated compute-dispatch platform and an international large-model service platform. The dispatch platform targets a national cross‑regional compute scheduling hub, aggregating heterogeneous compute resources, linking a compute-flow network and addressing compute ‘islands’; it now covers eight national compute hubs and connects 44 resource pools across 19 provinces, with total compute capacity reported above 27,000 P. The international large-model service platform will focus on token-scheduling services and aggregate mainstream large models to operate as a global large-model aggregation hub."
-    },
-    {
-      "id": "5090641",
-      "time": "2026-09-12 15:13:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【算力詞元貸加速全國推廣】今年服貿會首次推出“金融+科創”的聯展模式，讓金融機構聯合他們所賦能的科創企業同臺參展。展臺上除了金融產品，還有智慧機械臂、運載火箭模型、人形機器人等硬科技，背後是算力貸、算力保、投貸聯動等新型金融工具的支援。針對AI企業的“算力詞元貸”自8月落地後，正加速向全國推廣。服貿會上，多家銀行釋出相關產品。中國工商銀行公司金融業務部副總經理胡賢文介紹，“算力基建貸”支援算力機房建設、GPU伺服器叢集採購等新型算力基礎設施建設，“算力研發貸”解決企業研發投入大、轉化週期長的痛點。（央視財經）"
-    },
-    {
-      "id": "mkt:01a09475-1473-7118-8554-e17051575344",
-      "time": "2026-09-12 15:11:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq Security Media Office said security forces have begun administrative and security rectification at border crossings, requiring temporary closure of affected crossings."
     }
   ]
 }
