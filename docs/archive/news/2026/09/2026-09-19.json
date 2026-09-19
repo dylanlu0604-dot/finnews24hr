@@ -1,7 +1,49 @@
 {
   "date": "2026-09-19",
-  "count": 873,
+  "count": 878,
   "items": [
+    {
+      "id": "mkt:01a0b95b-4911-7118-860f-d25ac811d22f",
+      "time": "2026-09-19 19:09:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's draft budget projects public spending at 56.9% of GDP in 2027 and 57.1% of GDP in 2026."
+    },
+    {
+      "id": "5103206",
+      "time": "2026-09-19 19:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算草案預計2027年債務佔GDP比重為121.7%，2026年債務佔GDP比重將達119.3%。"
+    },
+    {
+      "id": "5103205",
+      "time": "2026-09-19 19:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算草案預計2027年稅收收入佔GDP比重為44.2%。"
+    },
+    {
+      "id": "5103204",
+      "time": "2026-09-19 19:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算草案預計2027年公共支出佔GDP的56.9%，2026年公共支出佔GDP的57.1%。"
+    },
+    {
+      "id": "mkt:01a0b959-5bf8-7118-860f-c84c85595582",
+      "time": "2026-09-19 19:07:16",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Market sources say Porsche may cut another 4,000 jobs."
+    },
     {
       "id": "5103203",
       "time": "2026-09-19 19:05:19",
