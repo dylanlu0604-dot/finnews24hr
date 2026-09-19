@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-20 01:36:44",
-  "count": 13484,
+  "updated": "2026-09-20 01:40:29",
+  "count": 13486,
   "items": [
+    {
+      "id": "mkt:01a0babe-6f0c-7118-8611-97cd2e815115",
+      "time": "2026-09-20 01:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DR Congo Ebola cases top 7,500】As of Sept 19 local time, the DR Congo health ministry reported 7,541 cumulative confirmed Ebola cases in the current outbreak, including 3,639 deaths and 1,823 recoveries; case fatality rate 48.3%."
+    },
+    {
+      "id": "mkt:01a0babd-c316-7118-8611-8b781d212574",
+      "time": "2026-09-20 01:36:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【NATO names German general Karsten Breuer as Military Committee chair】NATO said German General Karsten Breuer will become chair of its Military Committee, expected to assume the post in mid-2027, succeeding Italian Navy Admiral Giuseppe Cavo Dragone. The chair serves as a principal military adviser to NATO political leadership. The appointment is being read as a sign of Germany’s rising influence within NATO after substantially increasing defence spending and military capacity since the Russia-Ukraine war. German Defence Minister Boris Pistorius said Breuer’s selection reflects allies’ recognition of Germany’s strengthened contributions to NATO defence."
+    },
     {
       "id": "5103499",
       "time": "2026-09-20 01:33:51",
