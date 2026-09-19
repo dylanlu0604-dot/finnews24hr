@@ -1,7 +1,34 @@
 {
   "date": "2026-09-19",
-  "count": 773,
+  "count": 776,
   "items": [
+    {
+      "id": "mkt:01a0b880-7b4f-7118-860e-9371748c9604",
+      "time": "2026-09-19 15:10:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NVDA.O"
+      ],
+      "text": "【Yu Yuan Tan Tian: 13 privacy-policy changes in three years; Anthropic can hand global user data to U.S. intelligence agencies】Sept 14 — Foreign media report Nvidia and several U.S. firms have begun limiting or halting use of Anthropic’s frontier models. One immediate trigger was Anthropic’s unilateral change to its data-retention terms: mandatory 30-day retention of user interaction data for safety reviews with no opt-out. Since Anthropic published its first privacy policy in 2023 it has issued 13 revisions; a comparison with ISO/IEC 27701 raises concerns about increasing user-privacy risk. Unlike most major AI firms, which say they will comply with lawful data requests, Anthropic’s policy additionally allows the company, at its discretion, to share user data with U.S. intelligence agencies without legal process. Commentators argue the so-called “technical consensus” among the big U.S. AI players reflects an industry focus on slowing competitors while accelerating proprietary data collection, intelligence extraction and rule-setting."
+    },
+    {
+      "id": "5103143",
+      "time": "2026-09-19 15:09:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【貨運客流均創新高 深圳機場口岸APEC成員經濟體往來熱度攀升】今年是“APEC中國年”。截至今年9月初，深圳機場口岸對其他APEC成員經濟體進出口貨運量以及來自APEC成員經濟體外籍客流，雙雙創歷史同期新高。今年前8個月，深圳機場口岸對其他APEC成員經濟體進出口貨運量達45萬噸，同比增長6.3%。截至9月初，深圳機場口岸今年來自APEC成員經濟體出入境外籍旅客超100萬人次，同比增長31.1%，雙雙創歷史同期新高。據瞭解，深圳機場聯合航空公司新開、加密了10條飛往印度尼西亞、馬來西亞、韓國、新加坡等APEC成員經濟體的國際航線。（央視新聞）"
+    },
+    {
+      "id": "5103142",
+      "time": "2026-09-19 15:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同聲傳譯大模型Qwen3.8-LiveTranslate正式釋出】今日正式釋出全新的同聲傳譯大模型Qwen3.8-LiveTranslate，模型以Interleave架構重構實時同傳，準確度、流暢度、簡潔度全面提升，字均延遲（LAAL）從2.8秒降至2.3秒。（千問大模型微信公號）"
+    },
     {
       "id": "5103141",
       "time": "2026-09-19 15:01:55",
