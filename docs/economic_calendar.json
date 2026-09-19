@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-20 01:29:10",
+  "updated": "2026-09-20 01:33:05",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 400,
   "history_summary": {
-    "cached": 263,
-    "fetched": 120,
-    "pending": 17,
+    "cached": 383,
+    "fetched": 17,
+    "pending": 0,
     "failed": 0,
     "limit": 120
   },
@@ -15389,7 +15389,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15447,7 +15447,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15505,7 +15505,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15563,7 +15563,7 @@
                   "previous": "-0.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15621,7 +15621,7 @@
                   "previous": "3.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15679,7 +15679,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15737,7 +15737,7 @@
                   "previous": "2.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15795,7 +15795,7 @@
                   "previous": "2.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15853,7 +15853,7 @@
                   "previous": "2.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15911,7 +15911,7 @@
                   "previous": "-0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -15969,7 +15969,7 @@
                   "previous": "2.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16027,7 +16027,7 @@
                   "previous": "4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16085,7 +16085,7 @@
                   "previous": "4.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16143,7 +16143,7 @@
                   "previous": "229249"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16201,7 +16201,7 @@
                   "previous": "3.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16259,7 +16259,7 @@
                   "previous": "2.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16317,7 +16317,7 @@
                   "previous": "2.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16375,7 +16375,7 @@
                   "previous": "57.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16433,7 +16433,7 @@
                   "previous": "235.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16491,7 +16491,7 @@
                   "previous": "247.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16549,7 +16549,7 @@
                   "previous": "1964.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16607,7 +16607,7 @@
                   "previous": "29.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16665,7 +16665,7 @@
                   "previous": "-14.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16723,7 +16723,7 @@
                   "previous": "-31.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16781,7 +16781,7 @@
                   "previous": "-284.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16839,7 +16839,7 @@
                   "previous": "-18.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16897,7 +16897,7 @@
                   "previous": "0"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -16955,7 +16955,7 @@
                   "previous": "-164.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17013,7 +17013,7 @@
                   "previous": "-30.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17071,7 +17071,7 @@
                   "previous": "96.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17129,7 +17129,7 @@
                   "previous": "-347.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17187,7 +17187,7 @@
                   "previous": "-13.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17245,7 +17245,7 @@
                   "previous": "582.51"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17303,7 +17303,7 @@
                   "previous": "983.83"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17361,7 +17361,7 @@
                   "previous": "3.79"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17419,7 +17419,7 @@
                   "previous": "3.19"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             }
           ]
@@ -17483,7 +17483,7 @@
                   "previous": "14.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17541,7 +17541,7 @@
                   "previous": "1.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17599,7 +17599,7 @@
                   "previous": "50.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17657,7 +17657,7 @@
                   "previous": "11.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17715,7 +17715,7 @@
                   "previous": "13"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17773,7 +17773,7 @@
                   "previous": "14"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17831,7 +17831,7 @@
                   "previous": "33"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17889,7 +17889,7 @@
                   "previous": "1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17947,7 +17947,7 @@
                   "previous": "16"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -17968,7 +17968,7 @@
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187035",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
               "history": [],
-              "history_status": "empty",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18026,7 +18026,7 @@
                   "previous": "5589"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18084,7 +18084,7 @@
                   "previous": "-3925"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18142,7 +18142,7 @@
                   "previous": "4779"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18200,7 +18200,7 @@
                   "previous": "-2764"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18258,7 +18258,7 @@
                   "previous": "29"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18316,7 +18316,7 @@
                   "previous": "155.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18374,7 +18374,7 @@
                   "previous": "7.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18432,7 +18432,7 @@
                   "previous": "51.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18490,7 +18490,7 @@
                   "previous": "55.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18548,7 +18548,7 @@
                   "previous": "54.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18606,7 +18606,7 @@
                   "previous": "51.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18664,7 +18664,7 @@
                   "previous": "-0.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18722,7 +18722,7 @@
                   "previous": "26.31"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18780,7 +18780,7 @@
                   "previous": "0.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18838,7 +18838,7 @@
                   "previous": "53.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18896,7 +18896,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -18954,7 +18954,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19012,7 +19012,7 @@
                   "previous": "50"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19070,7 +19070,7 @@
                   "previous": "47.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19128,7 +19128,7 @@
                   "previous": "50.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19186,7 +19186,7 @@
                   "previous": "50.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19244,7 +19244,7 @@
                   "previous": "51.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19302,7 +19302,7 @@
                   "previous": "5.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19360,7 +19360,7 @@
                   "previous": "51.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19418,7 +19418,7 @@
                   "previous": "51.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19476,7 +19476,7 @@
                   "previous": "6.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19534,7 +19534,7 @@
                   "previous": "4.8307"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19592,7 +19592,7 @@
                   "previous": "-71.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19650,7 +19650,7 @@
                   "previous": "-55.45"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19708,7 +19708,7 @@
                   "previous": "180.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19766,7 +19766,7 @@
                   "previous": "19.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19824,7 +19824,7 @@
                   "previous": "19.875"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19882,7 +19882,7 @@
                   "previous": "7203"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19940,7 +19940,7 @@
                   "previous": "51"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -19998,7 +19998,7 @@
                   "previous": "52.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20056,7 +20056,7 @@
                   "previous": "0.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20114,7 +20114,7 @@
                   "previous": "48.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20172,7 +20172,7 @@
                   "previous": "48.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20230,7 +20230,7 @@
                   "previous": "55.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20288,7 +20288,7 @@
                   "previous": "53.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20346,7 +20346,7 @@
                   "previous": "52.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20404,7 +20404,7 @@
                   "previous": "70.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20462,7 +20462,7 @@
                   "previous": "330"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20520,7 +20520,7 @@
                   "previous": "3.64"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20578,7 +20578,7 @@
                   "previous": "2.68"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20636,7 +20636,7 @@
                   "previous": "3.71"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20694,7 +20694,7 @@
                   "previous": "2.74"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             }
           ]
@@ -20758,7 +20758,7 @@
                   "previous": "2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20816,7 +20816,7 @@
                   "previous": "0.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20874,7 +20874,7 @@
                   "previous": "2.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20932,7 +20932,7 @@
                   "previous": "1.18"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -20990,7 +20990,7 @@
                   "previous": "1.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21048,7 +21048,7 @@
                   "previous": "-0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21106,7 +21106,7 @@
                   "previous": "1.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21164,7 +21164,7 @@
                   "previous": "-10.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21222,7 +21222,7 @@
                   "previous": "0.15"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21280,7 +21280,7 @@
                   "previous": "0.36"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21338,7 +21338,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21396,7 +21396,7 @@
                   "previous": "2.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21454,7 +21454,7 @@
                   "previous": "3.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21512,7 +21512,7 @@
                   "previous": "5.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21570,7 +21570,7 @@
                   "previous": "1.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21628,7 +21628,7 @@
                   "previous": "2.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21686,7 +21686,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21744,7 +21744,7 @@
                   "previous": "2.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21802,7 +21802,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21860,7 +21860,7 @@
                   "previous": "7.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21918,7 +21918,7 @@
                   "previous": "4.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -21976,7 +21976,7 @@
                   "previous": "-1.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22034,7 +22034,7 @@
                   "previous": "-9.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22092,7 +22092,7 @@
                   "previous": "62"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22150,7 +22150,7 @@
                   "previous": "3.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22208,7 +22208,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22266,7 +22266,7 @@
                   "previous": "34.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
@@ -22286,9 +22286,46 @@
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145169",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/04",
+                  "actual": "12.7",
+                  "forecast": "4.5",
+                  "previous": "3"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "3",
+                  "forecast": "7.8",
+                  "previous": "4.9"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "4.9",
+                  "forecast": "11",
+                  "previous": "12"
+                },
+                {
+                  "date": "06/05",
+                  "actual": "12",
+                  "forecast": "8.5",
+                  "previous": "12.3"
+                },
+                {
+                  "date": "05/08",
+                  "actual": "12.3",
+                  "forecast": "7.5",
+                  "previous": "18.6"
+                },
+                {
+                  "date": "04/03",
+                  "actual": "18.6",
+                  "forecast": "7",
+                  "previous": "-8.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186688",
@@ -22307,9 +22344,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186688",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/02",
+                  "actual": "0.9",
+                  "forecast": "0.6",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "08/04",
+                  "actual": "-0.3",
+                  "forecast": "0.2",
+                  "previous": "-1.3"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "-1.3",
+                  "forecast": "-1.8",
+                  "previous": "4.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "4.8",
+                  "forecast": "4.6",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "05/04",
+                  "actual": "1.5",
+                  "forecast": "0.5",
+                  "previous": "0"
+                },
+                {
+                  "date": "04/10",
+                  "actual": "0",
+                  "forecast": "-0.2",
+                  "previous": "0.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1187044",
@@ -22328,9 +22402,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187044",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/02",
+                  "actual": "1",
+                  "forecast": "-",
+                  "previous": "-0.4"
+                },
+                {
+                  "date": "08/04",
+                  "actual": "-0.4",
+                  "forecast": "-",
+                  "previous": "-1.2"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "-1.2",
+                  "forecast": "-",
+                  "previous": "4.7"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "4.7",
+                  "forecast": "-",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "05/04",
+                  "actual": "0.9",
+                  "forecast": "-",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "04/10",
+                  "actual": "0.1",
+                  "forecast": "-",
+                  "previous": "0.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1145174",
@@ -22349,9 +22460,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145174",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/02",
+                  "actual": "0.6",
+                  "forecast": "-",
+                  "previous": "-0.4"
+                },
+                {
+                  "date": "08/04",
+                  "actual": "-0.4",
+                  "forecast": "-",
+                  "previous": "1.9"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "1.9",
+                  "forecast": "1",
+                  "previous": "1.3"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "1.3",
+                  "forecast": "-",
+                  "previous": "1.6"
+                },
+                {
+                  "date": "05/04",
+                  "actual": "1.6",
+                  "forecast": "-",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "04/10",
+                  "actual": "1.2",
+                  "forecast": "0.4",
+                  "previous": "0.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186690",
@@ -22370,9 +22518,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186690",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "0.4",
+                  "forecast": "0.6",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "07/27",
+                  "actual": "0.6",
+                  "forecast": "0.8",
+                  "previous": "1.4"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "1.3",
+                  "forecast": "0.6",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "1.1",
+                  "forecast": "0.5",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "0.9",
+                  "forecast": "0.4",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "04/07",
+                  "actual": "0.8",
+                  "forecast": "0.4",
+                  "previous": "0.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186691",
@@ -22391,9 +22576,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186691",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "08/26",
+                  "actual": "0.2",
+                  "forecast": "0.9",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "07/27",
+                  "actual": "0.9",
+                  "forecast": "0.8",
+                  "previous": "1.4"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "1.6",
+                  "forecast": "0.6",
+                  "previous": "-1"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-1.1",
+                  "forecast": "0.4",
+                  "previous": "3.4"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "3.3",
+                  "forecast": "0.5",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "04/07",
+                  "actual": "0.6",
+                  "forecast": "0.4",
+                  "previous": "0.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186689",
@@ -22412,9 +22634,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186689",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/02",
+                  "actual": "1.1",
+                  "forecast": "-",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "08/04",
+                  "actual": "0.5",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "-4.5",
+                  "forecast": "-4.5",
+                  "previous": "-4.5"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "8",
+                  "forecast": "-",
+                  "previous": "7.9"
+                },
+                {
+                  "date": "05/04",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "04/10",
+                  "actual": "-1.3",
+                  "forecast": "-",
+                  "previous": "-1.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             }
           ]
         },
@@ -22439,9 +22698,46 @@
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145176",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/19",
+                  "actual": "134",
+                  "forecast": "-",
+                  "previous": "132"
+                },
+                {
+                  "date": "09/12",
+                  "actual": "132",
+                  "forecast": "-",
+                  "previous": "130"
+                },
+                {
+                  "date": "09/05",
+                  "actual": "130",
+                  "forecast": "-",
+                  "previous": "132"
+                },
+                {
+                  "date": "08/29",
+                  "actual": "132",
+                  "forecast": "-",
+                  "previous": "127"
+                },
+                {
+                  "date": "08/22",
+                  "actual": "127",
+                  "forecast": "-",
+                  "previous": "128"
+                },
+                {
+                  "date": "08/15",
+                  "actual": "128",
+                  "forecast": "-",
+                  "previous": "124"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1145177",
@@ -22460,9 +22756,46 @@
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145177",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/19",
+                  "actual": "452",
+                  "forecast": "-",
+                  "previous": "450"
+                },
+                {
+                  "date": "09/12",
+                  "actual": "450",
+                  "forecast": "-",
+                  "previous": "449"
+                },
+                {
+                  "date": "09/05",
+                  "actual": "449",
+                  "forecast": "-",
+                  "previous": "447"
+                },
+                {
+                  "date": "08/29",
+                  "actual": "447",
+                  "forecast": "-",
+                  "previous": "452"
+                },
+                {
+                  "date": "08/22",
+                  "actual": "452",
+                  "forecast": "-",
+                  "previous": "455"
+                },
+                {
+                  "date": "08/15",
+                  "actual": "455",
+                  "forecast": "-",
+                  "previous": "454"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1145175",
@@ -22481,9 +22814,46 @@
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145175",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/19",
+                  "actual": "595",
+                  "forecast": "-",
+                  "previous": "591"
+                },
+                {
+                  "date": "09/12",
+                  "actual": "591",
+                  "forecast": "-",
+                  "previous": "588"
+                },
+                {
+                  "date": "09/05",
+                  "actual": "588",
+                  "forecast": "-",
+                  "previous": "588"
+                },
+                {
+                  "date": "08/29",
+                  "actual": "588",
+                  "forecast": "-",
+                  "previous": "588"
+                },
+                {
+                  "date": "08/22",
+                  "actual": "588",
+                  "forecast": "-",
+                  "previous": "593"
+                },
+                {
+                  "date": "08/15",
+                  "actual": "593",
+                  "forecast": "-",
+                  "previous": "588"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186692",
@@ -22502,9 +22872,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186692",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "4.89",
+                  "forecast": "-",
+                  "previous": "4.45"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "4.45",
+                  "forecast": "-",
+                  "previous": "4.69"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "4.69",
+                  "forecast": "-",
+                  "previous": "5.6"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "5.6",
+                  "forecast": "-",
+                  "previous": "5.46"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "5.46",
+                  "forecast": "4.6",
+                  "previous": "4.65"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "4.65",
+                  "forecast": "4.03",
+                  "previous": "3.35"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186694",
@@ -22523,9 +22930,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186694",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "26",
+                  "forecast": "-",
+                  "previous": "25"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "25",
+                  "forecast": "-",
+                  "previous": "28.1"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "28.1",
+                  "forecast": "-",
+                  "previous": "18"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "18",
+                  "forecast": "-",
+                  "previous": "21"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "21",
+                  "forecast": "17.9",
+                  "previous": "20.1"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "20",
+                  "forecast": "14.4",
+                  "previous": "5.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186697",
@@ -22544,9 +22988,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186697",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "14.4",
+                  "forecast": "-",
+                  "previous": "14.5"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "14.5",
+                  "forecast": "-",
+                  "previous": "12.7"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "12.7",
+                  "forecast": "-",
+                  "previous": "8.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "8.8",
+                  "forecast": "-",
+                  "previous": "9.9"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "9.9",
+                  "forecast": "-",
+                  "previous": "6.9"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186696",
@@ -22565,9 +23046,46 @@
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186696",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "-1.13",
+                  "forecast": "-",
+                  "previous": "-35.87"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "-35.9",
+                  "forecast": "-",
+                  "previous": "-26.44"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "-26.44",
+                  "forecast": "-",
+                  "previous": "-52.1"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-52.1",
+                  "forecast": "-",
+                  "previous": "-32.8"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "-32.8",
+                  "forecast": "-4",
+                  "previous": "-6.77"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "-6.7",
+                  "forecast": "-4.34",
+                  "previous": "-10.45"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186695",
@@ -22586,9 +23104,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186695",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "37.9",
+                  "forecast": "-",
+                  "previous": "41.4"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "41.4",
+                  "forecast": "-",
+                  "previous": "45.2"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "45.2",
+                  "forecast": "-",
+                  "previous": "33.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "33.8",
+                  "forecast": "-",
+                  "previous": "32.5"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "32.5",
+                  "forecast": "21.4",
+                  "previous": "27.8"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "27.8",
+                  "forecast": "21.2",
+                  "previous": "4.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186698",
@@ -22607,9 +23162,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186698",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "09/03",
+                  "actual": "14.9",
+                  "forecast": "-",
+                  "previous": "14.5"
+                },
+                {
+                  "date": "08/03",
+                  "actual": "14.5",
+                  "forecast": "-",
+                  "previous": "14.8"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "14.8",
+                  "forecast": "-",
+                  "previous": "11.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "11.8",
+                  "forecast": "-",
+                  "previous": "12.1"
+                },
+                {
+                  "date": "05/03",
+                  "actual": "12.1",
+                  "forecast": "-",
+                  "previous": "12.1"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "12.1",
+                  "forecast": "-",
+                  "previous": "8.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             },
             {
               "id": "capital:1186693",
@@ -22628,9 +23220,46 @@
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186693",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-              "history": [],
-              "history_status": "pending",
-              "history_checked_at": ""
+              "history": [
+                {
+                  "date": "07/03",
+                  "actual": "8.39",
+                  "forecast": "-",
+                  "previous": "7.83"
+                },
+                {
+                  "date": "04/04",
+                  "actual": "7.83",
+                  "forecast": "7.5",
+                  "previous": "8.46"
+                },
+                {
+                  "date": "01/05",
+                  "actual": "8.46",
+                  "forecast": "7.9",
+                  "previous": "8.23"
+                },
+                {
+                  "date": "10/06",
+                  "actual": "8.23",
+                  "forecast": "7.1",
+                  "previous": "7.96"
+                },
+                {
+                  "date": "07/05",
+                  "actual": "7.96",
+                  "forecast": "6.4",
+                  "previous": "6.93"
+                },
+                {
+                  "date": "04/06",
+                  "actual": "6.93",
+                  "forecast": "6.9",
+                  "previous": "7.55"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 01:32:56"
             }
           ]
         }
@@ -37947,7 +38576,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38005,7 +38634,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38063,7 +38692,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38121,7 +38750,7 @@
           "previous": "-0.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38179,7 +38808,7 @@
           "previous": "3.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38237,7 +38866,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38295,7 +38924,7 @@
           "previous": "2.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38353,7 +38982,7 @@
           "previous": "2.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38411,7 +39040,7 @@
           "previous": "2.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38469,7 +39098,7 @@
           "previous": "-0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38527,7 +39156,7 @@
           "previous": "2.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38585,7 +39214,7 @@
           "previous": "4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38643,7 +39272,7 @@
           "previous": "4.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38701,7 +39330,7 @@
           "previous": "229249"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38759,7 +39388,7 @@
           "previous": "3.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38817,7 +39446,7 @@
           "previous": "2.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38875,7 +39504,7 @@
           "previous": "2.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38933,7 +39562,7 @@
           "previous": "57.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -38991,7 +39620,7 @@
           "previous": "235.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39049,7 +39678,7 @@
           "previous": "247.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39107,7 +39736,7 @@
           "previous": "1964.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39165,7 +39794,7 @@
           "previous": "29.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39223,7 +39852,7 @@
           "previous": "-14.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39281,7 +39910,7 @@
           "previous": "-31.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39339,7 +39968,7 @@
           "previous": "-284.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39397,7 +40026,7 @@
           "previous": "-18.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39455,7 +40084,7 @@
           "previous": "0"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39513,7 +40142,7 @@
           "previous": "-164.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39571,7 +40200,7 @@
           "previous": "-30.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39629,7 +40258,7 @@
           "previous": "96.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39687,7 +40316,7 @@
           "previous": "-347.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39745,7 +40374,7 @@
           "previous": "-13.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39803,7 +40432,7 @@
           "previous": "582.51"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39861,7 +40490,7 @@
           "previous": "983.83"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39919,7 +40548,7 @@
           "previous": "3.79"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -39977,7 +40606,7 @@
           "previous": "3.19"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40035,7 +40664,7 @@
           "previous": "14.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40093,7 +40722,7 @@
           "previous": "1.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40151,7 +40780,7 @@
           "previous": "50.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40209,7 +40838,7 @@
           "previous": "11.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40267,7 +40896,7 @@
           "previous": "13"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40325,7 +40954,7 @@
           "previous": "14"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40383,7 +41012,7 @@
           "previous": "33"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40441,7 +41070,7 @@
           "previous": "1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40499,7 +41128,7 @@
           "previous": "16"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40520,7 +41149,7 @@
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187035",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
       "history": [],
-      "history_status": "empty",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40578,7 +41207,7 @@
           "previous": "5589"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40636,7 +41265,7 @@
           "previous": "-3925"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40694,7 +41323,7 @@
           "previous": "4779"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40752,7 +41381,7 @@
           "previous": "-2764"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40810,7 +41439,7 @@
           "previous": "29"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40868,7 +41497,7 @@
           "previous": "155.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40926,7 +41555,7 @@
           "previous": "7.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -40984,7 +41613,7 @@
           "previous": "51.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41042,7 +41671,7 @@
           "previous": "55.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41100,7 +41729,7 @@
           "previous": "54.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41158,7 +41787,7 @@
           "previous": "51.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41216,7 +41845,7 @@
           "previous": "-0.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41274,7 +41903,7 @@
           "previous": "26.31"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41332,7 +41961,7 @@
           "previous": "0.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41390,7 +42019,7 @@
           "previous": "53.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41448,7 +42077,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41506,7 +42135,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41564,7 +42193,7 @@
           "previous": "50"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41622,7 +42251,7 @@
           "previous": "47.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41680,7 +42309,7 @@
           "previous": "50.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41738,7 +42367,7 @@
           "previous": "50.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41796,7 +42425,7 @@
           "previous": "51.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41854,7 +42483,7 @@
           "previous": "5.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41912,7 +42541,7 @@
           "previous": "51.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -41970,7 +42599,7 @@
           "previous": "51.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42028,7 +42657,7 @@
           "previous": "6.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42086,7 +42715,7 @@
           "previous": "4.8307"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42144,7 +42773,7 @@
           "previous": "-71.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42202,7 +42831,7 @@
           "previous": "-55.45"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42260,7 +42889,7 @@
           "previous": "180.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42318,7 +42947,7 @@
           "previous": "19.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42376,7 +43005,7 @@
           "previous": "19.875"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42434,7 +43063,7 @@
           "previous": "7203"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42492,7 +43121,7 @@
           "previous": "51"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42550,7 +43179,7 @@
           "previous": "52.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42608,7 +43237,7 @@
           "previous": "0.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42666,7 +43295,7 @@
           "previous": "48.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42724,7 +43353,7 @@
           "previous": "48.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42782,7 +43411,7 @@
           "previous": "55.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42840,7 +43469,7 @@
           "previous": "53.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42898,7 +43527,7 @@
           "previous": "52.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -42956,7 +43585,7 @@
           "previous": "70.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43014,7 +43643,7 @@
           "previous": "330"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43072,7 +43701,7 @@
           "previous": "3.64"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43130,7 +43759,7 @@
           "previous": "2.68"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43188,7 +43817,7 @@
           "previous": "3.71"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43246,7 +43875,7 @@
           "previous": "2.74"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43304,7 +43933,7 @@
           "previous": "2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43362,7 +43991,7 @@
           "previous": "0.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43420,7 +44049,7 @@
           "previous": "2.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43478,7 +44107,7 @@
           "previous": "1.18"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43536,7 +44165,7 @@
           "previous": "1.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43594,7 +44223,7 @@
           "previous": "-0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43652,7 +44281,7 @@
           "previous": "1.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43710,7 +44339,7 @@
           "previous": "-10.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43768,7 +44397,7 @@
           "previous": "0.15"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43826,7 +44455,7 @@
           "previous": "0.36"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43884,7 +44513,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -43942,7 +44571,7 @@
           "previous": "2.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44000,7 +44629,7 @@
           "previous": "3.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44058,7 +44687,7 @@
           "previous": "5.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44116,7 +44745,7 @@
           "previous": "1.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44174,7 +44803,7 @@
           "previous": "2.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44232,7 +44861,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44290,7 +44919,7 @@
           "previous": "2.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44348,7 +44977,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44406,7 +45035,7 @@
           "previous": "7.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44464,7 +45093,7 @@
           "previous": "4.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44522,7 +45151,7 @@
           "previous": "-1.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44580,7 +45209,7 @@
           "previous": "-9.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44638,7 +45267,7 @@
           "previous": "62"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44696,7 +45325,7 @@
           "previous": "3.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44754,7 +45383,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44812,7 +45441,7 @@
           "previous": "34.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
@@ -44832,9 +45461,46 @@
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145169",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/04",
+          "actual": "12.7",
+          "forecast": "4.5",
+          "previous": "3"
+        },
+        {
+          "date": "08/07",
+          "actual": "3",
+          "forecast": "7.8",
+          "previous": "4.9"
+        },
+        {
+          "date": "07/02",
+          "actual": "4.9",
+          "forecast": "11",
+          "previous": "12"
+        },
+        {
+          "date": "06/05",
+          "actual": "12",
+          "forecast": "8.5",
+          "previous": "12.3"
+        },
+        {
+          "date": "05/08",
+          "actual": "12.3",
+          "forecast": "7.5",
+          "previous": "18.6"
+        },
+        {
+          "date": "04/03",
+          "actual": "18.6",
+          "forecast": "7",
+          "previous": "-8.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186688",
@@ -44853,9 +45519,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186688",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/02",
+          "actual": "0.9",
+          "forecast": "0.6",
+          "previous": "-0.3"
+        },
+        {
+          "date": "08/04",
+          "actual": "-0.3",
+          "forecast": "0.2",
+          "previous": "-1.3"
+        },
+        {
+          "date": "07/02",
+          "actual": "-1.3",
+          "forecast": "-1.8",
+          "previous": "4.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "4.8",
+          "forecast": "4.6",
+          "previous": "1.5"
+        },
+        {
+          "date": "05/04",
+          "actual": "1.5",
+          "forecast": "0.5",
+          "previous": "0"
+        },
+        {
+          "date": "04/10",
+          "actual": "0",
+          "forecast": "-0.2",
+          "previous": "0.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1187044",
@@ -44874,9 +45577,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187044",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/02",
+          "actual": "1",
+          "forecast": "-",
+          "previous": "-0.4"
+        },
+        {
+          "date": "08/04",
+          "actual": "-0.4",
+          "forecast": "-",
+          "previous": "-1.2"
+        },
+        {
+          "date": "07/02",
+          "actual": "-1.2",
+          "forecast": "-",
+          "previous": "4.7"
+        },
+        {
+          "date": "06/03",
+          "actual": "4.7",
+          "forecast": "-",
+          "previous": "0.9"
+        },
+        {
+          "date": "05/04",
+          "actual": "0.9",
+          "forecast": "-",
+          "previous": "0.1"
+        },
+        {
+          "date": "04/10",
+          "actual": "0.1",
+          "forecast": "-",
+          "previous": "0.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1145174",
@@ -44895,9 +45635,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145174",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/02",
+          "actual": "0.6",
+          "forecast": "-",
+          "previous": "-0.4"
+        },
+        {
+          "date": "08/04",
+          "actual": "-0.4",
+          "forecast": "-",
+          "previous": "1.9"
+        },
+        {
+          "date": "07/02",
+          "actual": "1.9",
+          "forecast": "1",
+          "previous": "1.3"
+        },
+        {
+          "date": "06/03",
+          "actual": "1.3",
+          "forecast": "-",
+          "previous": "1.6"
+        },
+        {
+          "date": "05/04",
+          "actual": "1.6",
+          "forecast": "-",
+          "previous": "1.2"
+        },
+        {
+          "date": "04/10",
+          "actual": "1.2",
+          "forecast": "0.4",
+          "previous": "0.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186690",
@@ -44916,9 +45693,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186690",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "0.4",
+          "forecast": "0.6",
+          "previous": "0.7"
+        },
+        {
+          "date": "07/27",
+          "actual": "0.6",
+          "forecast": "0.8",
+          "previous": "1.4"
+        },
+        {
+          "date": "06/25",
+          "actual": "1.3",
+          "forecast": "0.6",
+          "previous": "1.1"
+        },
+        {
+          "date": "05/28",
+          "actual": "1.1",
+          "forecast": "0.5",
+          "previous": "0.9"
+        },
+        {
+          "date": "04/29",
+          "actual": "0.9",
+          "forecast": "0.4",
+          "previous": "0.9"
+        },
+        {
+          "date": "04/07",
+          "actual": "0.8",
+          "forecast": "0.4",
+          "previous": "0.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186691",
@@ -44937,9 +45751,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186691",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "08/26",
+          "actual": "0.2",
+          "forecast": "0.9",
+          "previous": "1.2"
+        },
+        {
+          "date": "07/27",
+          "actual": "0.9",
+          "forecast": "0.8",
+          "previous": "1.4"
+        },
+        {
+          "date": "06/25",
+          "actual": "1.6",
+          "forecast": "0.6",
+          "previous": "-1"
+        },
+        {
+          "date": "05/28",
+          "actual": "-1.1",
+          "forecast": "0.4",
+          "previous": "3.4"
+        },
+        {
+          "date": "04/29",
+          "actual": "3.3",
+          "forecast": "0.5",
+          "previous": "0.7"
+        },
+        {
+          "date": "04/07",
+          "actual": "0.6",
+          "forecast": "0.4",
+          "previous": "0.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186689",
@@ -44958,9 +45809,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186689",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/02",
+          "actual": "1.1",
+          "forecast": "-",
+          "previous": "1.1"
+        },
+        {
+          "date": "08/04",
+          "actual": "0.5",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "07/02",
+          "actual": "-4.5",
+          "forecast": "-4.5",
+          "previous": "-4.5"
+        },
+        {
+          "date": "06/03",
+          "actual": "8",
+          "forecast": "-",
+          "previous": "7.9"
+        },
+        {
+          "date": "05/04",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "04/10",
+          "actual": "-1.3",
+          "forecast": "-",
+          "previous": "-1.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1145176",
@@ -44979,9 +45867,46 @@
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145176",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/19",
+          "actual": "134",
+          "forecast": "-",
+          "previous": "132"
+        },
+        {
+          "date": "09/12",
+          "actual": "132",
+          "forecast": "-",
+          "previous": "130"
+        },
+        {
+          "date": "09/05",
+          "actual": "130",
+          "forecast": "-",
+          "previous": "132"
+        },
+        {
+          "date": "08/29",
+          "actual": "132",
+          "forecast": "-",
+          "previous": "127"
+        },
+        {
+          "date": "08/22",
+          "actual": "127",
+          "forecast": "-",
+          "previous": "128"
+        },
+        {
+          "date": "08/15",
+          "actual": "128",
+          "forecast": "-",
+          "previous": "124"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1145177",
@@ -45000,9 +45925,46 @@
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145177",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/19",
+          "actual": "452",
+          "forecast": "-",
+          "previous": "450"
+        },
+        {
+          "date": "09/12",
+          "actual": "450",
+          "forecast": "-",
+          "previous": "449"
+        },
+        {
+          "date": "09/05",
+          "actual": "449",
+          "forecast": "-",
+          "previous": "447"
+        },
+        {
+          "date": "08/29",
+          "actual": "447",
+          "forecast": "-",
+          "previous": "452"
+        },
+        {
+          "date": "08/22",
+          "actual": "452",
+          "forecast": "-",
+          "previous": "455"
+        },
+        {
+          "date": "08/15",
+          "actual": "455",
+          "forecast": "-",
+          "previous": "454"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1145175",
@@ -45021,9 +45983,46 @@
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145175",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/19",
+          "actual": "595",
+          "forecast": "-",
+          "previous": "591"
+        },
+        {
+          "date": "09/12",
+          "actual": "591",
+          "forecast": "-",
+          "previous": "588"
+        },
+        {
+          "date": "09/05",
+          "actual": "588",
+          "forecast": "-",
+          "previous": "588"
+        },
+        {
+          "date": "08/29",
+          "actual": "588",
+          "forecast": "-",
+          "previous": "588"
+        },
+        {
+          "date": "08/22",
+          "actual": "588",
+          "forecast": "-",
+          "previous": "593"
+        },
+        {
+          "date": "08/15",
+          "actual": "593",
+          "forecast": "-",
+          "previous": "588"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186692",
@@ -45042,9 +46041,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186692",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "4.89",
+          "forecast": "-",
+          "previous": "4.45"
+        },
+        {
+          "date": "08/03",
+          "actual": "4.45",
+          "forecast": "-",
+          "previous": "4.69"
+        },
+        {
+          "date": "07/03",
+          "actual": "4.69",
+          "forecast": "-",
+          "previous": "5.6"
+        },
+        {
+          "date": "06/03",
+          "actual": "5.6",
+          "forecast": "-",
+          "previous": "5.46"
+        },
+        {
+          "date": "05/03",
+          "actual": "5.46",
+          "forecast": "4.6",
+          "previous": "4.65"
+        },
+        {
+          "date": "04/04",
+          "actual": "4.65",
+          "forecast": "4.03",
+          "previous": "3.35"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186694",
@@ -45063,9 +46099,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186694",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "26",
+          "forecast": "-",
+          "previous": "25"
+        },
+        {
+          "date": "08/03",
+          "actual": "25",
+          "forecast": "-",
+          "previous": "28.1"
+        },
+        {
+          "date": "07/03",
+          "actual": "28.1",
+          "forecast": "-",
+          "previous": "18"
+        },
+        {
+          "date": "06/03",
+          "actual": "18",
+          "forecast": "-",
+          "previous": "21"
+        },
+        {
+          "date": "05/03",
+          "actual": "21",
+          "forecast": "17.9",
+          "previous": "20.1"
+        },
+        {
+          "date": "04/04",
+          "actual": "20",
+          "forecast": "14.4",
+          "previous": "5.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186697",
@@ -45084,9 +46157,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186697",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "14.4",
+          "forecast": "-",
+          "previous": "14.5"
+        },
+        {
+          "date": "08/03",
+          "actual": "14.5",
+          "forecast": "-",
+          "previous": "12.7"
+        },
+        {
+          "date": "07/03",
+          "actual": "12.7",
+          "forecast": "-",
+          "previous": "8.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "8.8",
+          "forecast": "-",
+          "previous": "9.9"
+        },
+        {
+          "date": "05/03",
+          "actual": "9.9",
+          "forecast": "-",
+          "previous": "6.9"
+        },
+        {
+          "date": "04/04",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186696",
@@ -45105,9 +46215,46 @@
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186696",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "-1.13",
+          "forecast": "-",
+          "previous": "-35.87"
+        },
+        {
+          "date": "08/03",
+          "actual": "-35.9",
+          "forecast": "-",
+          "previous": "-26.44"
+        },
+        {
+          "date": "07/03",
+          "actual": "-26.44",
+          "forecast": "-",
+          "previous": "-52.1"
+        },
+        {
+          "date": "06/03",
+          "actual": "-52.1",
+          "forecast": "-",
+          "previous": "-32.8"
+        },
+        {
+          "date": "05/03",
+          "actual": "-32.8",
+          "forecast": "-4",
+          "previous": "-6.77"
+        },
+        {
+          "date": "04/04",
+          "actual": "-6.7",
+          "forecast": "-4.34",
+          "previous": "-10.45"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186695",
@@ -45126,9 +46273,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186695",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "37.9",
+          "forecast": "-",
+          "previous": "41.4"
+        },
+        {
+          "date": "08/03",
+          "actual": "41.4",
+          "forecast": "-",
+          "previous": "45.2"
+        },
+        {
+          "date": "07/03",
+          "actual": "45.2",
+          "forecast": "-",
+          "previous": "33.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "33.8",
+          "forecast": "-",
+          "previous": "32.5"
+        },
+        {
+          "date": "05/03",
+          "actual": "32.5",
+          "forecast": "21.4",
+          "previous": "27.8"
+        },
+        {
+          "date": "04/04",
+          "actual": "27.8",
+          "forecast": "21.2",
+          "previous": "4.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186698",
@@ -45147,9 +46331,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186698",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "09/03",
+          "actual": "14.9",
+          "forecast": "-",
+          "previous": "14.5"
+        },
+        {
+          "date": "08/03",
+          "actual": "14.5",
+          "forecast": "-",
+          "previous": "14.8"
+        },
+        {
+          "date": "07/03",
+          "actual": "14.8",
+          "forecast": "-",
+          "previous": "11.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "11.8",
+          "forecast": "-",
+          "previous": "12.1"
+        },
+        {
+          "date": "05/03",
+          "actual": "12.1",
+          "forecast": "-",
+          "previous": "12.1"
+        },
+        {
+          "date": "04/04",
+          "actual": "12.1",
+          "forecast": "-",
+          "previous": "8.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     },
     {
       "id": "capital:1186693",
@@ -45168,9 +46389,46 @@
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186693",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "history": [],
-      "history_status": "pending",
-      "history_checked_at": ""
+      "history": [
+        {
+          "date": "07/03",
+          "actual": "8.39",
+          "forecast": "-",
+          "previous": "7.83"
+        },
+        {
+          "date": "04/04",
+          "actual": "7.83",
+          "forecast": "7.5",
+          "previous": "8.46"
+        },
+        {
+          "date": "01/05",
+          "actual": "8.46",
+          "forecast": "7.9",
+          "previous": "8.23"
+        },
+        {
+          "date": "10/06",
+          "actual": "8.23",
+          "forecast": "7.1",
+          "previous": "7.96"
+        },
+        {
+          "date": "07/05",
+          "actual": "7.96",
+          "forecast": "6.4",
+          "previous": "6.93"
+        },
+        {
+          "date": "04/06",
+          "actual": "6.93",
+          "forecast": "6.9",
+          "previous": "7.55"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 01:32:56"
     }
   ]
 }
