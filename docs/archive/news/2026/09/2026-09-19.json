@@ -1,7 +1,51 @@
 {
   "date": "2026-09-19",
-  "count": 600,
+  "count": 605,
   "items": [
+    {
+      "id": "5103003",
+      "time": "2026-09-19 10:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國法務部長官提名人放棄提名。"
+    },
+    {
+      "id": "5103002",
+      "time": "2026-09-19 10:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：扎波羅熱一地方選舉委員會負責人遇襲身亡，普京發聲】綜合俄新社等媒體報道，對於扎波羅熱一地方選舉委員會負責人葉蓮娜·阿斯塔尼娜日前在烏克蘭方面發動的襲擊中身亡，俄羅斯總統普京18日發聲，批評烏方“又犯下了罪行”。根據克里姆林宮網站釋出的訊息，普京18日在主持召開俄羅斯軍事工業委員會會議時作出上述表態。“基輔政權近日又犯下了罪行。”普京稱，葉蓮娜的住所遭烏方襲擊，葉蓮娜身亡，“我今天已籤令，追授她‘勇氣勳章’”。（環球網）"
+    },
+    {
+      "id": "5103001",
+      "time": "2026-09-19 10:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方電網董事長和中國電信董事長會談，雙方簽署戰略合作框架協議】9月17日，中國南方電網有限責任公司與中國電信集團有限公司在北京簽署戰略合作框架協議。南方電網董事長、黨組書記錢朝陽與中國電信董事長、黨組書記柯瑞文一行舉行工作會談，並共同見證簽約。南方電網成員、副總經理吳小辰、李銳，中國電信黨組成員、副總經理劉穎、李雲莊參加活動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609193879169666",
+      "time": "2026-09-19 10:01:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【李迅雷：美聯儲加息效果未必好 通脹易上難下】中泰國際首席經濟學家李迅雷9月19日在清華五道口首席經濟學家論壇上表示，美聯儲加息效果不一定好。過去美國的經濟增長是消費驅動型，去年以來，美國資本開支大幅增加，開始在投資上發力，且主要投資在人工智慧等電子半導體行業，這類行業對價格不敏感，企業毛利率水平高。這種情況下美聯儲加息對控制通脹的政策效果未必好，通脹易上難下。"
+    },
+    {
+      "id": "mkt:01a0b765-231a-7118-860d-8a94ecaf7ebf",
+      "time": "2026-09-19 10:00:53",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Beijing opens formal investigations into four online hotel and travel booking platforms】Beijing Municipal Market Supervision Bureau has opened formal investigations into Hangzhou Taomei Aviation Services Co., Ltd., Tongcheng Network Technology Co., Ltd., Tujia Online Information Technology (Tianjin) Co., Ltd. and Beijing Sankuai Information Technology Co., Ltd., citing suspected violations under the Anti‑Unfair Competition Law and the E‑commerce Law, following SAMR guidance and prior checks."
+    },
     {
       "id": "5103000",
       "time": "2026-09-19 10:00:03",
