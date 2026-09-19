@@ -1,7 +1,26 @@
 {
   "date": "2026-09-20",
-  "count": 47,
+  "count": 49,
   "items": [
+    {
+      "id": "5103541",
+      "time": "2026-09-20 02:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：目前已有多項旨在結束俄烏衝突的倡議，但這些倡議很難催生持久解決方案。"
+    },
+    {
+      "id": "mkt:01a0baf1-9dbb-7118-8611-f38d8883cfbf",
+      "time": "2026-09-20 02:33:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Turkey's foreign minister said there are currently some initiatives aimed at ending the Russia-Ukraine conflict, but they are unlikely to yield a durable solution."
+    },
     {
       "id": "5103540",
       "time": "2026-09-20 02:32:33",
