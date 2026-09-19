@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-19 14:21:26",
+  "updated": "2026-09-19 14:25:19",
   "count": 13586,
   "items": [
+    {
+      "id": "mkt:01a0b854-a963-7118-860e-68ca9fa97cd6",
+      "time": "2026-09-19 14:22:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Cui Dongshu: Chinese autos to lead high-quality export growth in 2026】China's Customs reported Jan-Aug 2026 goods exports of $2.926 tln, up 19% YoY; August exports reached a record $401.4 bln. Vehicle exports totaled $129.1 bln Jan-Aug, up 53% YoY; August vehicle exports were $18.3 bln, up 43%. Auto parts exports were $69.8 bln Jan-Aug, up 8%; August parts exports $9.1 bln, up 7% — China’s auto parts sector faces significant pressure. Motorcycle exports reached $15.5 bln Jan-Aug, up 26%; August $2.1 bln, up 28%, with fuel motorcycle shipments slowing on high oil prices and electric motorcycles surging. Cui Dongshu said domestic OEMs should lead overseas expansion and reduce reliance on Europe/US after-sales networks."
+    },
     {
       "id": "5103123",
       "time": "2026-09-19 14:18:58",
@@ -124581,14 +124594,6 @@
         "國際"
       ],
       "text": "印度證券交易委員會（SEBI）：就《收盤競價交易時段、交易時段及衍生品合約結算規則若干問題修訂》釋出徵求意見稿，點選此處提交意見。"
-    },
-    {
-      "id": "5090617",
-      "time": "2026-09-12 14:23:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首單水利設施發電不動產投資信託基金獲批】記者從水利部瞭解到，近日全國首單水利設施發電不動產投資信託基金獲批，產品發行規模預計15.83億元。該基金由廣東省以飛來峽水利樞紐、潮州供水樞紐電站存量資產為底層資產申報發行，募集資金將重點支援清遠市黃茅峽水庫工程建設。（央視新聞）"
     }
   ]
 }
