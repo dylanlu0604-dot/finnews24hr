@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19 14:52:05",
-  "count": 13576,
+  "updated": "2026-09-19 14:55:51",
+  "count": 13577,
   "items": [
+    {
+      "id": "5103139",
+      "time": "2026-09-19 14:53:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海國投在生物醫藥領域投資金額超300億元】在2026 張江藥谷大會暨生物醫藥產業週上海國投專場上，上海國投公司黨委委員、副總裁陸雯介紹，上海國投公司聚焦三大先導產業和未來產業，在生物醫藥領域，透過股權直投和子基金佈局，投資生物醫藥專案超800個，投資金額超300億元，投早投小比例約70%，重點投向創新藥械、細胞與基因治療、腦機介面、合成生物學、AI+，以及產業鏈自主可控的關鍵環節。今年以來，生物醫藥板塊投資金額近40億元，其中子基金13個，直投專案超30個。(第一財經)"
+    },
+    {
+      "id": "mkt:01a0b86f-d445-7118-860e-89e4453d309c",
+      "time": "2026-09-19 14:52:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Huawei unveils AIDC energy and thermal products; storage and liquid cooling to accelerate】CITIC Securities reports Huawei used its Sept. 17-18 FullConnect conference to roll out next-generation AIDC energy and thermal-management products — Taishan UPS, Hengshan centralized DC UPS, highest-density Power Module 5.0, Smart Lithium 5.0 and an AI liquid-cooling system. Huawei outlined an AIDC reconfiguration around Watt, Heat, Bit and a “3+1” construction model and a MIMO architecture to enable multi-source input, multi-standard output and multi-tier storage coordination. CITIC says as AIDC scales to the 100MW–GW level and per-rack power rises, traditional data-center power and cooling architectures are being restructured: energy storage is shifting from pure backup toward load smoothing, grid-friendly operation and energy balancing, and liquid cooling is evolving into intelligent thermal-management systems. Storage and liquid cooling are likely to be material incremental segments of AIDC infrastructure."
+    },
     {
       "id": "5103138",
       "time": "2026-09-19 14:50:46",
@@ -124476,16 +124492,6 @@
         "公司"
       ],
       "text": "【中國銀行啟動“一網三融”算力金融生態共建行動】據中國銀行訊息，9月12日，在2026中國算力大會開幕式上，中國銀行在工業和資訊化部、中國人民銀行指導支援下，會同中國電信、中國移動、中國聯通、中國人民保險集團、中國東方資產管理股份有限公司、國銀金融租賃股份有限公司等生態夥伴，共同啟動“一網三融”算力金融生態共建行動。“十五五”時期，中國銀行將攜手保險、產業投資、資產管理和金融租賃等算力生態夥伴，共建“算力+”產業金融生態，為算力產業鏈上下游企業提供不少於3000億元綜合金融支援，支援不少於100個重點智算中心專案，為國家算力互聯互通區域節點提供跨區域、一體化協同金融服務，賦能3000家以上用算企業。"
-    },
-    {
-      "id": "5090632",
-      "time": "2026-09-12 14:52:35",
-      "tags": [
-        "行業",
-        "公司",
-        "其他"
-      ],
-      "text": "【超120萬人預約、代購最高溢價34000元，iPhone Duo預售爆了】截至目前，在蘋果京東自營旗艦店上，售價15999元的iPhone Duo 256GB版本已有120.6萬人預約。同時，針對iPhone Duo代搶、預訂等需求，部分商家也提前給出了高價報價。得物App顯示，目前iPhone Duo 256GB國行標配版的預售訂單已成交7單。其中，最高價為49999元，成交了兩單；最低價為21000元。與15999元的官方售價相比，溢價在5001元至34000元之間。（中國基金報）"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "date": "2026-09-19",
-  "count": 769,
+  "count": 771,
   "items": [
+    {
+      "id": "5103139",
+      "time": "2026-09-19 14:53:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海國投在生物醫藥領域投資金額超300億元】在2026 張江藥谷大會暨生物醫藥產業週上海國投專場上，上海國投公司黨委委員、副總裁陸雯介紹，上海國投公司聚焦三大先導產業和未來產業，在生物醫藥領域，透過股權直投和子基金佈局，投資生物醫藥專案超800個，投資金額超300億元，投早投小比例約70%，重點投向創新藥械、細胞與基因治療、腦機介面、合成生物學、AI+，以及產業鏈自主可控的關鍵環節。今年以來，生物醫藥板塊投資金額近40億元，其中子基金13個，直投專案超30個。(第一財經)"
+    },
+    {
+      "id": "mkt:01a0b86f-d445-7118-860e-89e4453d309c",
+      "time": "2026-09-19 14:52:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Huawei unveils AIDC energy and thermal products; storage and liquid cooling to accelerate】CITIC Securities reports Huawei used its Sept. 17-18 FullConnect conference to roll out next-generation AIDC energy and thermal-management products — Taishan UPS, Hengshan centralized DC UPS, highest-density Power Module 5.0, Smart Lithium 5.0 and an AI liquid-cooling system. Huawei outlined an AIDC reconfiguration around Watt, Heat, Bit and a “3+1” construction model and a MIMO architecture to enable multi-source input, multi-standard output and multi-tier storage coordination. CITIC says as AIDC scales to the 100MW–GW level and per-rack power rises, traditional data-center power and cooling architectures are being restructured: energy storage is shifting from pure backup toward load smoothing, grid-friendly operation and energy balancing, and liquid cooling is evolving into intelligent thermal-management systems. Storage and liquid cooling are likely to be material incremental segments of AIDC infrastructure."
+    },
     {
       "id": "5103138",
       "time": "2026-09-19 14:50:46",
