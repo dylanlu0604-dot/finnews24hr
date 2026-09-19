@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 05:47:46",
-  "count": 13478,
+  "updated": "2026-09-20 05:51:30",
+  "count": 13477,
   "items": [
+    {
+      "id": "5103568",
+      "time": "2026-09-20 05:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐馬斯喀特大使館釋出新警報，提醒在阿曼的美國公民做好準備，防範航班取消、空域關閉以及出行受阻等情況。"
+    },
     {
       "id": "5103567",
       "time": "2026-09-20 05:43:05",
@@ -123716,24 +123724,6 @@
         "XAUUSD"
       ],
       "text": "【Houthi forces say they used large numbers of ballistic missiles and drones to strike Saudi military facilities】Local time early on the 13th, Houthi military spokesman Yahya said the group struck a weapons depot and a command-and-control center inside Saudi Arabia’s Sharurah region that he said coordinates military operations against Yemen and Yemeni civilians. Yahya said the operation used large numbers of ballistic missiles and drones and that the targets were hit precisely and directly. He warned that if Saudi Arabia continues military operations against Yemen, Houthi forces will carry out larger, more intense strikes on deep targets inside Saudi territory and that Saudi Arabia would bear serious consequences."
-    },
-    {
-      "id": "5091099",
-      "time": "2026-09-13 05:48:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱使用大量彈道導彈和無人機打擊沙特軍事設施】當地時間13日凌晨，葉門胡塞武裝軍方發言人葉海亞表示，針對沙特方面持續對葉門發動軍事行動，葉門胡塞武裝實施軍事行動，打擊了沙特謝拉拉地區一處軍事基地內的武器庫以及負責指揮和協調對葉門及葉門民眾軍事行動的指揮控制中心。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a09798-26a5-7118-8558-d22ff06d287d",
-      "time": "2026-09-13 05:48:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Indonesia urges BRICS to bolster local‑currency cross‑border payments】Indonesia central bank governor Destry Damayanti said on the 12th at the BRICS summit in New Delhi that BRICS should develop cross‑border payment systems in local currencies to shield their economies from geopolitical risk, while taking into account member countries’ development levels and national priorities. She said Indonesia sees a strategic opportunity to turn shared challenges into collective resilience through pragmatic cooperation, including local‑currency settlement. In a meeting with Reserve Bank of India governor Sanjeev Malhotra they discussed expanding local‑currency settlement mechanisms, establishing bilateral currency swap arrangements and linking cross‑border QR‑code payments; Malhotra said those steps would help convert BRICS agreements into practical financial and economic cooperation."
     }
   ]
 }
