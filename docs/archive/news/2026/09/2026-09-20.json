@@ -1,7 +1,28 @@
 {
   "date": "2026-09-20",
-  "count": 96,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:01a0bbb3-97d4-7118-8612-819f11a6c35b",
+      "time": "2026-09-20 06:05:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US embassies and consulates in Iran, Iraq, Lebanon, Kuwait, Bahrain and Jordan issued security alerts in recent days, warning that persistent Middle East tensions and a complex regional security environment leave open the possibility of further escalation."
+    },
+    {
+      "id": "5103572",
+      "time": "2026-09-20 06:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統埃馬克龍表示，美國、丹麥與格陵蘭達成的協議有助於“重申丹麥對這片北極領土擁有主權”。"
+    },
     {
       "id": "5103571",
       "time": "2026-09-20 05:59:14",
