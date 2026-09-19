@@ -1,7 +1,29 @@
 {
   "date": "2026-09-19",
-  "count": 742,
+  "count": 744,
   "items": [
+    {
+      "id": "mkt:01a0b84c-0657-7118-860e-52cedc683e0c",
+      "time": "2026-09-19 14:13:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Washington Post: Nearly all indicators show US at disadvantage in Iran conflict】The Washington Post reports that almost all indicators point to a strategic disadvantage for the US in its conflict with Iran. President Trump declared in early March the US had “won” but still needed to “finish the job”; the paper says that task remains incomplete and prospects are poor. The conflict has exposed US force vulnerabilities and dispersed deployments, cost roughly $38.1bn to date, and contributed to a global energy squeeze. US military gains are limited and the campaign is politically unpopular at home, with growing congressional Republican support for ending the conflict and at least one Republican lawmaker proposing impeachment of the defense secretary over the war. Key strategic objectives have largely failed, the paper says: Iran’s proxy network remains intact; Houthi forces in Yemen recently seized Mocha port and Perim Island, effectively controlling the Bab al-Mandeb; Iranian missile and drone capabilities continue to be used against regional targets despite US claims in April that Iran’s missile program had been destroyed, and Iran has resumed ballistic missile production in underground facilities; regime-change aims have backfired—despite the killing of senior figures including Khamenei, Tehran’s leadership is intact and more consolidated; and Iran still holds about 440 kg of highly enriched uranium, location uncertain. The contest has shifted to control of key straits: flows through the Strait of Hormuz have fallen from roughly 20 mln bpd pre-conflict to about 10 mln bpd, and Iran has demonstrated the ability to close the strait for extended periods."
+    },
+    {
+      "id": "5103119",
+      "time": "2026-09-19 14:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州茅臺將新增廣州與鄭州兩大發貨倉】貴州茅臺宣佈，將於9月19日在原有貴陽、南京與北京三大發貨倉的基礎上，新增廣州與鄭州兩大發貨倉。"
+    },
     {
       "id": "5103118",
       "time": "2026-09-19 14:05:15",
