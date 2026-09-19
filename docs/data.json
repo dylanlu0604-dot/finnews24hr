@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-19 14:36:45",
+  "updated": "2026-09-19 14:40:35",
   "count": 13578,
   "items": [
+    {
+      "id": "5103132",
+      "time": "2026-09-19 14:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《空槍》 上映32天， 總票房破6億。"
+    },
+    {
+      "id": "5103131",
+      "time": "2026-09-19 14:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行、Credem、ICCREA 競購義大利中南部銀行（Banca del Mezzogioro）。"
+    },
+    {
+      "id": "5103130",
+      "time": "2026-09-19 14:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳美寶：“粵艇南下”最快下月實施 將適時公佈詳情安排】香港特區行政長官李家超於9月16日公佈香港首個五年規劃，並發表2026年施政報告。多名特區政府主要官員由9月17日至9月21日舉行記者會，闡述五年規劃及施政報告中其政策範疇的相關措施。 香港特區政府運輸及物流局局長陳美寶今日（19日）上午出席記者會，表示特區政府持續最佳化跨境車輛往來，包括“港車北上”及“粵車南下”。 陳美寶透露，特區政府與廣東省當局會因應“粵艇南下”及“港艇北上”簽署兩份相關工作安排，預計最快會在10月實施“粵艇南下”，帶動跨境休閒消費及香港的遊艇經濟發展，稍後將適時公佈詳情及實際安排。 （大灣區之聲）"
+    },
     {
       "id": "5103129",
       "time": "2026-09-19 14:34:04",
@@ -124486,40 +124510,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍擊中烏克蘭切爾諾莫斯克港的兩艘貨船。"
-    },
-    {
-      "id": "mkt:01a09458-844a-7118-8554-aac379a20bad",
-      "time": "2026-09-12 14:40:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【SOUTH KOREA'S LEE: Middle East crude reliance cut to ~50%; domestic fuel supply, prices stable】SOUTH KOREA'S LEE said the country's reliance on Middle East crude has fallen to about 50% from as high as 70% within months after sending oil envoys, stepping up crude diplomacy, diversifying import sources and subsidising long-haul transport. Seoul has used strategic reserve swap arrangements to keep crude flows stable without drawing down stocks. Domestic refined fuel prices and supply remain stable, aided by a maximum-price limit and export volume controls. The government will continue import diversification and work to keep shipping lanes open and vessels and crews safe, but dependence still sits near 50% and the conflict in the Middle East remains a source of market risk."
-    },
-    {
-      "id": "5090626",
-      "time": "2026-09-12 14:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓總統李在明：汽油、柴油等精煉油價格將持續穩定】韓國總統李在明在社交媒體發文稱，汽油、柴油等精煉油價格將持續穩定。李在明表示，透過派遣原油特使等加強原油外交，多樣化原油進口來源，並透過補貼長距離原油運輸費用等措施，已將高達70%的原油中東依賴度在短短幾個月內降低到50%以下。進口多樣化今後也將繼續大力推進。透過引入戰略儲備油互換制度，確保了無戰略儲備油耗盡的原油供應穩定性。"
-    },
-    {
-      "id": "mkt:01a09456-97c8-7118-8554-a46ce9389b13",
-      "time": "2026-09-12 14:38:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "South Korea's President Lee said that despite surging crude oil and international refined-product prices, domestic fuel prices and supplies are being kept stable through a price-cap system and export volume controls."
     }
   ]
 }
