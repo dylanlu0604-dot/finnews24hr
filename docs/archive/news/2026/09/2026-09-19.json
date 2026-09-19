@@ -1,7 +1,36 @@
 {
   "date": "2026-09-19",
-  "count": 582,
+  "count": 585,
   "items": [
+    {
+      "id": "mkt:01a0b752-f2f8-7118-860d-85dcd2acbeec",
+      "time": "2026-09-19 09:41:01",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LHX.O",
+        "NOC.O"
+      ],
+      "text": "【U.S. approves USD 2.68 bln air‑defense sale to Ukraine】The U.S. State Department on Sept. 18 approved a USD 2.68 bln arms sale to Ukraine, authorizing equipment and services for development and upgrades of air‑defense systems and notifying Congress. The State Department said the package will further strengthen Ukraine’s air‑defense capabilities."
+    },
+    {
+      "id": "mkt:01a0b751-104d-7118-860d-7e47550e6d7b",
+      "time": "2026-09-19 09:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. President Trump's Saturday schedule】20:00 Beijing time Sept 19 — at Camp David handling administrative matters."
+    },
+    {
+      "id": "5102985",
+      "time": "2026-09-19 09:38:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國批准對烏克蘭近27億美元軍售】當地時間9月18日，美國國務院宣佈，已批准一項價值26.8億美元的軍售計劃，向烏克蘭出售防空系統研發升級的相關裝置和服務，並已就此通知美國國會。美國國務院表示，這項軍售計劃將進一步增強烏克蘭的防空能力。（央視新聞）"
+    },
     {
       "id": "5102984",
       "time": "2026-09-19 09:37:50",
