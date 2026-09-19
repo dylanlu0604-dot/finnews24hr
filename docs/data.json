@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-20 02:18:10",
-  "count": 13481,
+  "updated": "2026-09-20 02:21:54",
+  "count": 13480,
   "items": [
+    {
+      "id": "mkt:01a0bae6-3103-7118-8611-ce1a0037d7d8",
+      "time": "2026-09-20 02:20:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Poland's prime minister said Russia has recently and repeatedly tested Poland's and NATO's responses. Poland is prepared to respond and defend."
+    },
     {
       "id": "mkt:01a0badc-cbf4-7118-8611-c0274aff1a9a",
       "time": "2026-09-20 02:10:27",
@@ -123753,23 +123766,6 @@
         "MKT News"
       ],
       "text": "【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East."
-    },
-    {
-      "id": "5091006",
-      "time": "2026-09-13 02:20:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic呼籲放慢先進AI模型開發 馬斯克等業界大佬表示贊同】Anthropic執行長Dario Amodei表示，人工智慧行業需要放慢新模型的開發速度，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險。 “我們必須放慢提升人工智慧模型能力的速度，”他週六在一篇部落格文章中寫道，“進步看起來仍會很快，我們必須明智利用由此爭取到的時間。”Amodei發文後不久，馬斯克在社交媒體表示：“Dario是對的。” OpenAI執行長Sam Altman也很快發表看法，表示他贊同Amodei所說的“我們需要控制前沿模型的發展節奏”。 他表示：“讓獨立評估人員獲得類似員工的訪問許可權是一個很好的主意，我們也會這麼做。我們很快會分享更多資訊。”"
-    },
-    {
-      "id": "5091005",
-      "time": "2026-09-13 02:18:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【烏官員：烏克蘭準備10月舉行新一輪烏美俄三方談判】烏克蘭總統辦公室主任布達諾夫當地時間12日表示，烏克蘭正準備在10月舉行新一輪談判，談判將採取烏克蘭、俄羅斯和美國三方參與的形式。布達諾夫沒有透露未來談判是否將在中東等地舉行等具體資訊。此前一天，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。（央視新聞）"
     }
   ]
 }
