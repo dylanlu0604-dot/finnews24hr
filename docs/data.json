@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-19 09:26:54",
+  "updated": "2026-09-19 09:30:43",
   "count": 13552,
   "items": [
+    {
+      "id": "mkt:01a0b748-0217-7118-860d-77fc9a0d2cc6",
+      "time": "2026-09-19 09:29:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US media: Anthropic, OpenAI, SpaceX AI, Google face collusion claims over calls to coordinate AI slowdown】Politico reports a civil lawsuit filed Friday in the US District Court for the Northern District of California alleges Anthropic, OpenAI, SpaceX AI and Google conspired by publicly urging coordination to slow AI development. The complaint cites Anthropic CEO Dario Amodei’s recent call for “industry‑wide coordination” to “set the pace,” which plaintiffs say was endorsed by SpaceX AI head Elon Musk, OpenAI CEO Sam Altman and Google DeepMind co‑founder Demis Hassabis, and alleges those public appeals amount to an illegal agreement among competitors under US antitrust law. The suit, filed on behalf of four plaintiffs, seeks to prevent private industry agreements from determining AI safety policy and urges that legal guardrails be established transparently by the US government, a plaintiffs’ lawyer said."
+    },
     {
       "id": "5102977",
       "time": "2026-09-19 09:23:16",
@@ -124344,16 +124355,6 @@
         "公司"
       ],
       "text": "越南電動汽車廠商VinFast表示，創始人範日旺辭去執行長一職，其長子範日全安（Pham Nhat Quan Anh）將出任全球執行長。"
-    },
-    {
-      "id": "5090517",
-      "time": "2026-09-12 09:30:12",
-      "tags": [
-        "行業",
-        "觀點",
-        "其他"
-      ],
-      "text": "【橋水高管：或許要鬧出人命後，人類才會出手遏制AI】對沖基金巨頭橋水（Bridgewater Associates）的聯席首席投資官Greg Jensen發出嚴厲警告，稱人工智慧熱潮可能帶來嚴重風險和後果。Jensen週五（9月11日）在播客中說道：“遺憾的是，這就像2020年2月時的情況。”他將當前的AI熱潮比作疫情爆發的最初階段。“歷史似乎表明，在AI開始殺人之前，我們不會採取任何行動。但我們最終會面對這種情況。這一定會發生，如果我們能在那之前開始處理這個問題，顯然會好得多。”需要指出的是，Jensen並不是一個技術恐懼論者，他很早就投資了OpenAI和Anthropic。"
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
   "date": "2026-09-19",
-  "count": 574,
+  "count": 575,
   "items": [
+    {
+      "id": "mkt:01a0b748-0217-7118-860d-77fc9a0d2cc6",
+      "time": "2026-09-19 09:29:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US media: Anthropic, OpenAI, SpaceX AI, Google face collusion claims over calls to coordinate AI slowdown】Politico reports a civil lawsuit filed Friday in the US District Court for the Northern District of California alleges Anthropic, OpenAI, SpaceX AI and Google conspired by publicly urging coordination to slow AI development. The complaint cites Anthropic CEO Dario Amodei’s recent call for “industry‑wide coordination” to “set the pace,” which plaintiffs say was endorsed by SpaceX AI head Elon Musk, OpenAI CEO Sam Altman and Google DeepMind co‑founder Demis Hassabis, and alleges those public appeals amount to an illegal agreement among competitors under US antitrust law. The suit, filed on behalf of four plaintiffs, seeks to prevent private industry agreements from determining AI safety policy and urges that legal guardrails be established transparently by the US government, a plaintiffs’ lawyer said."
+    },
     {
       "id": "5102977",
       "time": "2026-09-19 09:23:16",
