@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-20 05:43:59_
-_本檔包含 2622 則快訊，約 523820 字_
+_更新時間：2026-09-20 06:55:37_
+_本檔包含 2623 則快訊，約 523812 字_
+
+---
+
+### 2026-09-15 02:20:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Drops by 2.53% — Top commodity losers are Lithium Carbonate (-2.53%), Copper (-2.11%), Iron Ore CNY (-1.32%) and Gold (-0.90%). Gains are led by Steel Rebar (1.17%).
+
+---
+
+### 2026-09-15 02:20:07  #公司 #市場 #觀點 #國際
+
+【美國大型銀行股集體重挫 受美銀CEO言論及AI主題交易影響】美國大型銀行股週一大幅下跌，因美國銀行表示，交易收入與去年第三季度相比將“相對持平”。此外，市場對人工智慧主題交易的擔憂加劇也令金融股板塊承壓。美國銀行跌幅一度擴大至5.7%。執行長Brian Moynihan在巴克萊全球金融服務會議上表示，該行第三財季交易收入同比將“相對持平”。KBW銀行指數中跌幅居前的大型銀行包括：高盛下跌4.6%，花旗下跌3.5%，摩根士丹利下跌4.1%，富國銀行下跌3.0%，紐約梅隆銀行下跌3.5%，摩根大通下跌2.2%。北美信託股價一度下跌4.9%。該公司首席財務官Dave Fox預計本季度業績將出現“季節性下滑”。
+
+---
+
+### 2026-09-15 02:19:12  #MKT News #Market Regions #Europe & UK
+
+【EU to propose ban on social media and AI chatbots for under-15s under EU Kids Act】A European Commission document says the EU will propose banning children under 15 from using social media, video-sharing platforms, AI chatbots and online games. The measure, part of the EU Kids Act, is due to be unveiled Thursday by European Commission president VON DER LEYEN and the commission's tech chief, with parts possibly previewed in VON DER LEYEN's Wednesday policy speech. The proposal would curb technology firms' ability to access and influence minors, allow phased age-based access limits across services (including gaming platforms), and impose company obligations scaled to service type and child age.
+
+---
+
+### 2026-09-15 02:18:49  #國際
+
+美國眾議院議長約翰遜：特朗普將於本週或下週召集AI企業高管開會。
+
+---
+
+### 2026-09-15 02:18:43  #MKT News #DXY #Impact bullish #XAUUSD #DAX #Impact bearish
+
+France's foreign minister Barro said Russia's unacceptable strike on rail near the Ukraine‑Poland border targeted a train located only a few hundred meters from the EU and NATO frontier and was intended as a deterrent. He said European unity is decisive, citing the accession of Finland and Sweden to NATO as proof.
+
+---
+
+### 2026-09-15 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Gains by 4.53% — Top commodity gainers are Germany Natural Gas THE (4.53%), Natural gas (2.49%), Natural Gas EU (2.27%), Crude Oil (1.40%) and Brent Oil (1.17%).
+
+---
+
+### 2026-09-15 02:14:28  #MKT News #Market Regions #Europe & UK
+
+Bernd Lange, chair of the European Parliament’s Committee on International Trade, said the EU and Canada should form a "team of fairness and partnership" to counter an international order increasingly shaped by coercion, dependency and power politics. He said the concept should be promoted to countries seeking reliable partners rather than dependency and political pressure.
+
+---
+
+### 2026-09-15 02:10:46  #公司
+
+禮來高管稱，公司目前在口服肥胖治療市場的新處方中佔據超過30%的份額。
+
+---
+
+### 2026-09-15 02:08:36  #MKT News
+
+Iran's foreign ministry said pro-Iran Patriotic Union of Kurdistan (PUK) chairman Bafel Talabani will visit Iran.
+
+---
+
+### 2026-09-15 02:07:19  #其他
+
+塞爾維亞總統武契奇表示，他將於9月27日辭職。
+
+---
+
+### 2026-09-15 02:07:11  #市場 #觀點 #央行 #國際
+
+【花旗、高盛和摩根大通等上調年末美債收益率預測】上週五美國公佈的消費者價格指數推動市場隱含的美聯儲加息機率升至約90%後，花旗、高盛和摩根大通利率策略師均轉而預計，美聯儲本週可能加息。上述機構以及道明證券加入華爾街其他多家交易商的行列，預計美聯儲將在9月16日宣佈加息。與此同時，多家機構還上調了對年末美國國債收益率的預測。
+
+---
+
+### 2026-09-15 02:04:34  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Al Jazeera reports Israel carried out an airstrike on Mansouri in the Tyre district of southern Lebanon.
+
+---
+
+### 2026-09-15 02:03:04  #國際
+
+以色列對黎巴嫩南部泰爾地區的曼蘇里發動空襲。
+
+---
+
+### 2026-09-15 02:00:26  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+US 10-Year Yield Eases from 5% — The yield on the 10-Year US Treasury note eased to 4.96% on Monday after having tested a 19-year high of 5.01% earlier in the session, tracking the slight pullback for key energy prices as markets gauged the magnitude of inflation risks. Wholesale fuel prices eased after President Trump signaled that Russia and Ukraine would halt strikes on energy infrastructure. Still, energy inflation continued to pressure Treasuries across the curve as recent data suggested that tariffs and high fuel costs had impacted underlying inflation gauges. Money markets show that the Federal Reserve is expected to raise its rates by 25bps on Wednesday. In turn, long-maturity Treasury yields have also been supported soaring levels of corporate debt by AI companies, limiting allocation of capital by primary dealers and other financial institutions. Lastly, hawkish expectations for the ECB and BoJ also pressured bonds.
 
 ---
 
@@ -15791,83 +15875,5 @@ UK Maritime Trade Operations (UKMTO) said it has received a report of an inciden
 ### 2026-09-13 06:55:57  #國際
 
 伊朗與土耳其兩國外長就霍爾木茲海峽局勢及地區衝突問題舉行磋商。
-
----
-
-### 2026-09-13 06:54:25  #國際
-
-【美國防部官員呼籲國會批准新財年國防預算】美國國防部“負責採購與保障的副部長”達菲近日在接受採訪時，呼籲美國國會盡快批准“特朗普政府2027財年價值1.5萬億美元的國防預算案”，以讓美軍填補關鍵武器彈藥的庫存。達菲說，美國防部目前已經與軍工企業簽訂了相關採購合同，正等待資金到位，來滿足作戰人員的需求。五角大樓會在接下來幾個月與國會合作，確保所有國防專案都能得到全額撥款。（央視新聞）
-
----
-
-### 2026-09-13 06:46:30  #其他
-
-【葉門胡塞武裝與沙特互相襲擊】葉門胡塞武裝12日表示，葉門多個省份遭到沙烏地阿拉伯的空襲。同一天，沙特稱該國吉贊地區遭到胡塞武裝襲擊。（央視新聞）
-
----
-
-### 2026-09-13 06:32:20  #國際
-
-伊朗軍方高層警告美國與以色列，若遭受任何侵略，將會迅速、強力地予以回擊。
-
----
-
-### 2026-09-13 06:27:23  #焦點 #國際
-
-【美國總統稱美方與胡塞武裝進行通話 胡塞武裝暫未回應】美國總統特朗普12日稱，美方與葉門胡塞武裝進行了通話。特朗普稱，胡塞武裝致電美方並表示不願與美方戰鬥，也不希望美方捲入衝突。葉門胡塞武裝方面暫未對此作出回應。（央視新聞）
-
----
-
-### 2026-09-13 06:20:43  #國際
-
-義大利總理梅洛尼表示，對烏克蘭的支援不容談判，不會為獲取政治利益而改變立場，排除了與反對援助基輔的政黨結成聯盟的可能性。
-
----
-
-### 2026-09-13 06:16:00  #國際
-
-伊朗總統佩澤希齊揚表示，伊朗不會向美國的壓力屈服。
-
----
-
-### 2026-09-13 06:05:15  #其他
-
-【服貿會搭建創新服務“首秀場” 首發首展成高頻詞】在今年的服貿會上，“首發首展”成了高頻詞。從“一花一世界”的沉浸式東方美學，到“中國鷹眼”的毫秒級判罰，再到“全球首款AI移動醫療車”駛向基層的健康願景……12個場館、超100項新成果首發首展，服貿會正讓更多創新服務從這裡“出發”，進而落地生根，走向千行百業，也走向更廣闊的世界舞臺。（央視新聞）
-
----
-
-### 2026-09-13 06:04:00  #國際
-
-【伊拉克外長同伊朗外長通話 討論邊境口岸關閉及沙特遭襲事件】當地時間9月12日，伊拉克副總理兼外交部長福阿德·侯賽因同伊朗外交部長阿拉格齊通電話。據伊拉克外交部訊息，雙方討論了伊拉克近期臨時關閉部分與伊朗接壤邊境口岸的原因及後續安排，並就沙特遭襲及相關調查進展交換意見。雙方還討論了計劃在阿曼舉行的地區會議。海合會成員國、伊拉克和伊朗將參會，重點討論霍爾木茲海峽相關問題。侯賽因表示伊拉克支援舉行此次會議，並將派代表團參會。雙方還就葉門局勢交換意見，並表示應透過對話和談判緩和地區緊張局勢。 (央視新聞)
-
----
-
-### 2026-09-13 06:00:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iraq FM Fuad Hussein speaks with Iran foreign minister on border closures, Saudi attack and Oman meeting】Iraq deputy prime minister and foreign minister Fuad Hussein held a phone call with Iran’s foreign minister on Sept. 12. They discussed Iraq’s recent temporary closure of several border crossings with Iran, the reasons and follow-up arrangements; exchanged views on the attack on Saudi Arabia and progress of related investigations; and reviewed a planned regional meeting in Oman — to include GCC members, Iraq and Iran — focused on Strait of Hormuz security. Iraq said it supports the meeting and will send a delegation. The ministers also exchanged views on Yemen and called for easing regional tensions through dialogue and negotiations.
-
----
-
-### 2026-09-13 05:54:29  #其他
-
-【萬那杜附近海域一艘渡輪沉沒 38人失蹤】一艘載有45人的島際渡輪於11日在萬那杜北部海域遭遇惡劣天氣沉沒，目前已有7人獲救，另有38人失蹤。據悉，失事渡輪名為“馬圖伊”號，載有34名乘客和11名船員，事發時正在阿姆巴島和聖埃斯皮裡圖島之間航行。目前搜救行動仍在繼續。 (央視新聞)
-
----
-
-### 2026-09-13 05:54:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Houthi forces say they used large numbers of ballistic missiles and drones to strike Saudi military facilities】Local time early on the 13th, Houthi military spokesman Yahya said the group struck a weapons depot and a command-and-control center inside Saudi Arabia’s Sharurah region that he said coordinates military operations against Yemen and Yemeni civilians. Yahya said the operation used large numbers of ballistic missiles and drones and that the targets were hit precisely and directly. He warned that if Saudi Arabia continues military operations against Yemen, Houthi forces will carry out larger, more intense strikes on deep targets inside Saudi territory and that Saudi Arabia would bear serious consequences.
-
----
-
-### 2026-09-13 05:48:50  #其他
-
-【胡塞武裝稱使用大量彈道導彈和無人機打擊沙特軍事設施】當地時間13日凌晨，葉門胡塞武裝軍方發言人葉海亞表示，針對沙特方面持續對葉門發動軍事行動，葉門胡塞武裝實施軍事行動，打擊了沙特謝拉拉地區一處軍事基地內的武器庫以及負責指揮和協調對葉門及葉門民眾軍事行動的指揮控制中心。（央視新聞）
-
----
-
-### 2026-09-13 05:48:45  #MKT News #Market Regions #Emerging Markets
-
-【Indonesia urges BRICS to bolster local‑currency cross‑border payments】Indonesia central bank governor Destry Damayanti said on the 12th at the BRICS summit in New Delhi that BRICS should develop cross‑border payment systems in local currencies to shield their economies from geopolitical risk, while taking into account member countries’ development levels and national priorities. She said Indonesia sees a strategic opportunity to turn shared challenges into collective resilience through pragmatic cooperation, including local‑currency settlement. In a meeting with Reserve Bank of India governor Sanjeev Malhotra they discussed expanding local‑currency settlement mechanisms, establishing bilateral currency swap arrangements and linking cross‑border QR‑code payments; Malhotra said those steps would help convert BRICS agreements into practical financial and economic cooperation.
 
 ---

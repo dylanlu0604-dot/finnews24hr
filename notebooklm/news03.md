@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-09-20 05:43:59_
-_本檔包含 2775 則快訊，約 524152 字_
+_更新時間：2026-09-20 06:55:37_
+_本檔包含 2785 則快訊，約 524126 字_
+
+---
+
+### 2026-09-17 08:07:51  #市場 #國際
+
+日本東證指數上漲1%，至4102.54點。
+
+---
+
+### 2026-09-17 08:07:43  #市場
+
+澳大利亞S&P/ASX 200指數早盤上漲0.2%，報8,714點。
+
+---
+
+### 2026-09-17 08:07:06  #宏觀 #國際
+
+【美國將延長對巴勒斯坦官員簽證制裁】當地時間9月16日，美國國務院表示，美國將延長對巴解組織成員和巴勒斯坦權力機構官員的簽證制裁。另有以色列媒體報道稱，美國連續第二年拒絕向巴勒斯坦權力機構主席阿巴斯發放入境簽證，迫使他再次以線上方式在聯合國發表講話。美國國務院拒絕其簽證申請的通知中提到他涉嫌與恐怖組織有關聯，但沒有提供更多細節。報道稱，另有數十名希望與他一同出訪的巴勒斯坦權力機構官員也收到了類似的拒絕通知。
+
+---
+
+### 2026-09-17 08:06:53  #市場 #國際
+
+韓國現代重工股價早盤上漲4.2%，至459,000韓元。
+
+---
+
+### 2026-09-17 08:06:23  #國際
+
+特朗普談伊朗：我們隨時都可以達成協議。
+
+---
+
+### 2026-09-17 08:05:33  #國際
+
+特朗普：伊朗還沒準備好達成協議。
+
+---
+
+### 2026-09-17 08:05:28  #國際
+
+特朗普：伊朗戰爭很快就會結束。
+
+---
+
+### 2026-09-17 08:04:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+Guolian Minsheng Macro said the Fed's September rate hike was a preemptive move and does not signal the start of a new sustained tightening cycle; in policy intent and practical constraints this hike differs materially from prior prolonged tightening cycles.
+
+---
+
+### 2026-09-17 08:04:25  #市場
+
+美元/日元最新下跌0.21%，報155.95。
+
+---
+
+### 2026-09-17 08:04:09  #MKT News
+
+South Korea's KOSPI opened up 67.4 points, or 1.0%, at 6,785.37 on Thursday, Sept. 17.
+
+---
+
+### 2026-09-17 08:04:06  #國際
+
+【烏克蘭首都基輔傳出兩輪強烈爆炸聲】當地時間17日凌晨2時13分至20分，新華社記者在烏克蘭首都基輔聽到兩輪密集爆炸聲。烏克蘭空軍在社交媒體發文稱，烏克蘭全境拉響防空警報，俄羅斯軍隊向基輔發射多枚導彈。(新華社)
+
+---
+
+### 2026-09-17 08:04:03  #央行 #美聯儲
+
+【中信證券：預計美聯儲年內將再加息25bps 明年可能按兵不動】中信證券研報認為，美聯儲9月如期加息25bps，上調今年增長及通脹預測，點陣圖和沃什發言均釋放鷹派訊號。市場強烈的預期壓力讓加息成為美聯儲順水推舟的選擇。美聯儲後續加息的節奏與幅度在很大程度上取決於油價，這難以預測，但鑑於總體通脹率同比或會在明年初明顯下行，屆時繼續加息的理由應會弱化。我們預計美聯儲年內將再加息25bps，明年可能按兵不動。
+
+---
+
+### 2026-09-17 08:02:59  #公司
+
+【比亞迪董秘李黔：未來會繼續在半導體領域投入和發力】9月16日，比亞迪在比亞迪紹興賽車場舉辦高管面對面股東交流會，比亞迪集團董事會秘書、投資處總經理李黔表示，半導體是比亞迪非常重要的能力之一，晶片種類覆蓋13大類，567款車規晶片產品，從最早的功率半導體到模擬晶片，再到今年向邏輯晶片的拓展。比亞迪半導體擁有晶片設計、晶圓製造、封裝測試全鏈路設計與製造的能力。未來比亞迪在半導體領域，無論是設計還是生產，都還會持續突破。隨著汽車智慧化的發展，整車半導體的價值量也會顯著提升，因此比亞迪未來還會繼續在半導體領域投入和發力。今年推出的璇璣A3晶片是中國首款車規級4nm智駕晶片，目前已開啟規模化量產。
+
+---
+
+### 2026-09-17 08:02:55  #宏觀
+
+【網路消費繁榮發展 支援政策仍有發力空間】9月15日，國家統計局釋出的資料顯示，今年1月份至8月份，全國網上商品和服務零售額134766億元，同比增長4.6%。受訪專家普遍表示，相關部門需要繼續謀劃出臺務實管用的增量政策，引導網路交易經營者依法合規經營，營造安全放心的網路消費環境，切實維護好廣大消費者的合法權益；補齊下沉市場商品流通短板，鼓勵並支援快遞企業夯實縣域硬體基礎設施，提升末端配送效率；提高線上服務供給質量，推動服務內容、收費專案、退訂條件以及服務人員資質等清晰展示，增強線上承諾與線下履約的一致性。（證券日報）
+
+---
+
+### 2026-09-17 08:01:34  #市場
+
+【鈉電池龍頭髮布新品 業績高增長超跌概念股出爐】在鈉電產業化從技術驗證走向規模化應用的關鍵節點，國產鈉電企業新品迎來新突破。據中國能源報訊息，9月16日，海辰儲能在“朝夕為證”線上新品釋出會上，正式釋出新一代儲能專用鈉電一體化解決方案，推出搭載∞Cell N785Ah大容量鈉離子電池的4MWh鈉電儲能系統——∞Power N4.0MWh，並宣佈將於2027年開啟全鏈條量產交付。據證券時報·資料寶統計，今年上半年淨利潤同比增長20%以上（含扭虧為盈）的鈉電池概念股有25只，其中22只股票最新收盤價較年內高點回撤30%以上。從機構關注情況來看，上述22只業績高增長且股價大幅回撤的鈉電池概念股中，截至9月16日收盤，共有6股獲得10家以上機構“積極型”評級（含買入、增持、強烈推薦等），分別是寧德時代、天賜材料、海博思創、先導智慧、當升科技、鵬輝能源。
+
+---
+
+### 2026-09-17 08:01:18  #MKT News #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened up 661.77 points, or 1.04%, at 64,584.77 points on Thursday, Sept. 17.
+
+---
+
+### 2026-09-17 08:01:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【CITIC Securities sees one more 25bps Fed hike this year】CITIC Securities says the Fed raised 25bps in September as expected and upgraded its growth and inflation forecasts; the dot plot and Fed remarks were hawkish. Strong market expectations made the September hike the path of least resistance. The timing and size of further hikes will depend heavily on oil prices, which remain unpredictable; with headline inflation YoY likely to drop notably in early next year, the case for additional tightening should weaken. CITIC expects one more 25bps hike before year-end and a likely pause next year. US financial conditions are unlikely to ease meaningfully; investors should favour assets with fundamental support rather than those that rely solely on liquidity.
 
 ---
 
@@ -16709,47 +16811,5 @@ India Jobless Rate Falls to 6-Month Low — India’s unemployment rate fell to 
 ### 2026-09-16 07:27:49  #公司 #市場
 
 【楚天龍：上半年數字人民幣相關業務收入佔公司營收比重較小】楚天龍(003040)在業績說明會上表示，2026年是我國數字人民幣由規模化試點轉向體系化落地的關鍵一年。2026年上半年，數字人民幣相關業務收入佔公司營業收入的比重較小。公司持續深化全鏈佈局，為行業客戶提供包括數幣支付、智慧合約、營銷服務、自動分賬等能力在內的數字人民幣全棧產品“一站式”標準接入系統服務，併成功中標某家二層運營機構省分行2026年度數字人民幣營銷活動專案。
-
----
-
-### 2026-09-16 07:27:36  #公司 #觀點
-
-【A股IPO承銷規模擴張 券商投行業績彈性顯現】今年以來，A股IPO市場持續放量，券商IPO承銷金額已超過2025年全年，投行業務競爭格局出現新變化。中金公司領跑承銷金額榜，中信建投排名較上半年明顯提升，國泰海通承銷家數居首。此外，今年新股上市首日表現分化，多家券商半年報承銷收入實現增長。分析人士認為，科技企業上市供給改善與二級市場估值變化，有望共同提升券商保薦跟投業務的收益彈性。（中國證券報）
-
----
-
-### 2026-09-16 07:27:25  #國際
-
-【美國南方司令部：在東太平洋攔截並擊沉一艘船隻】美國南方司令部：9 月 15 日，在美國南方司令部指揮下，西半球聯合特遣部隊（JTF‑WHEM）兵力在東太平洋成功攔截一座為海上非法毒品走私活動提供支援的海上浮動加油站。情報證實，該船隻與暴力毒品恐怖組織 “洛斯喬內羅斯” 存在關聯。從船上抓獲的相關人員將移交厄瓜多當局。美軍對船隻完成清查、船員下船後，將該船予以鑿沉。西半球聯合特遣部隊持續開展精準、專業的行動，瓦解支撐西半球毒品走私活動的後勤網路。
-
----
-
-### 2026-09-16 07:26:37  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Hovers at 4-Month Highs — Brent crude held above $108 per barrel on Wednesday, remaining near its highest levels in four months amid broadening supply disruptions in the Middle East. Saudi Arabia reportedly cancelled some shipments after drone attacks forced the closure of the East-West pipeline, notifying European customers that several September deliveries had been scrapped. There is still no clear timeline for when operations at the key pipeline, which provides an alternative route around the Strait of Hormuz, will resume, as Iran-backed Houthi militants renewed attacks on Saudi Arabia this week. In Libya, the national oil company also suspended operations at two oilfields and a pumping station amid ongoing protests. Beyond the Middle East, Russia struck petrol stations in Kyiv, while Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure.
-
----
-
-### 2026-09-16 07:26:04  #國際
-
-美國南方司令部稱，美國在東太平洋攔截並擊沉了一艘船隻。
-
----
-
-### 2026-09-16 07:26:02  #MKT News
-
-Saudi-led coalition said its air-defense systems intercepted and destroyed a Houthi-launched drone that attempted to enter Mecca airspace.
-
----
-
-### 2026-09-16 07:25:39  #市場 #觀點
-
-【供給趨緊疊加需求回暖 鎢供需緊平衡格局有望延續】9月15日，A股鎢板塊表現活躍，翔鷺鎢業、章源鎢業、中鎢高新、廈門鎢業等多隻個股漲幅居前。Choice資料顯示，年初至今，翔鷺鎢業、中鎢高新兩隻個股的漲幅均已超過100%。“本輪鎢板塊上漲，是AI算力週期拉動相關產業鏈需求、地緣衝突下關鍵礦產焦慮帶來的超額補庫需求，以及供給偏緊等多重因素共同作用的結果。”華安證券金屬新材料首席分析師許勇其在接受記者採訪時表示。國金證券研報預計，2026至2028年國內鎢供給分別為5.0萬、5.0萬和5.2萬金屬噸，而同期需求分別為8.17萬、8.77萬和9.31萬金屬噸，國內鎢供需緊平衡格局有望延續。（上海證券報）
-
----
-
-### 2026-09-16 07:25:18  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Hovers at Over 4-Month Highs — Crude oil held above $105 per barrel on Wednesday, remaining near its highest levels in over four months amid broadening supply disruptions in the Middle East. Saudi Arabia reportedly cancelled some shipments after drone attacks forced the closure of the East-West pipeline, notifying European customers that several September deliveries had been scrapped. There is still no clear timeline for when operations at the key pipeline, which provides an alternative route around the Strait of Hormuz, will resume, as Iran-backed Houthi militants renewed attacks on Saudi Arabia this week. In Libya, the national oil company also suspended operations at two oilfields and a pumping station amid ongoing protests. Beyond the Middle East, Russia struck petrol stations in Kyiv, while Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-20 05:43:59_
-_本檔包含 2682 則快訊，約 524730 字_
+_更新時間：2026-09-20 06:55:37_
+_本檔包含 2675 則快訊，約 524013 字_
+
+---
+
+### 2026-09-16 07:27:36  #公司 #觀點
+
+【A股IPO承銷規模擴張 券商投行業績彈性顯現】今年以來，A股IPO市場持續放量，券商IPO承銷金額已超過2025年全年，投行業務競爭格局出現新變化。中金公司領跑承銷金額榜，中信建投排名較上半年明顯提升，國泰海通承銷家數居首。此外，今年新股上市首日表現分化，多家券商半年報承銷收入實現增長。分析人士認為，科技企業上市供給改善與二級市場估值變化，有望共同提升券商保薦跟投業務的收益彈性。（中國證券報）
+
+---
+
+### 2026-09-16 07:27:25  #國際
+
+【美國南方司令部：在東太平洋攔截並擊沉一艘船隻】美國南方司令部：9 月 15 日，在美國南方司令部指揮下，西半球聯合特遣部隊（JTF‑WHEM）兵力在東太平洋成功攔截一座為海上非法毒品走私活動提供支援的海上浮動加油站。情報證實，該船隻與暴力毒品恐怖組織 “洛斯喬內羅斯” 存在關聯。從船上抓獲的相關人員將移交厄瓜多當局。美軍對船隻完成清查、船員下船後，將該船予以鑿沉。西半球聯合特遣部隊持續開展精準、專業的行動，瓦解支撐西半球毒品走私活動的後勤網路。
+
+---
+
+### 2026-09-16 07:26:37  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Hovers at 4-Month Highs — Brent crude held above $108 per barrel on Wednesday, remaining near its highest levels in four months amid broadening supply disruptions in the Middle East. Saudi Arabia reportedly cancelled some shipments after drone attacks forced the closure of the East-West pipeline, notifying European customers that several September deliveries had been scrapped. There is still no clear timeline for when operations at the key pipeline, which provides an alternative route around the Strait of Hormuz, will resume, as Iran-backed Houthi militants renewed attacks on Saudi Arabia this week. In Libya, the national oil company also suspended operations at two oilfields and a pumping station amid ongoing protests. Beyond the Middle East, Russia struck petrol stations in Kyiv, while Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure.
+
+---
+
+### 2026-09-16 07:26:04  #國際
+
+美國南方司令部稱，美國在東太平洋攔截並擊沉了一艘船隻。
+
+---
+
+### 2026-09-16 07:26:02  #MKT News
+
+Saudi-led coalition said its air-defense systems intercepted and destroyed a Houthi-launched drone that attempted to enter Mecca airspace.
+
+---
+
+### 2026-09-16 07:25:39  #市場 #觀點
+
+【供給趨緊疊加需求回暖 鎢供需緊平衡格局有望延續】9月15日，A股鎢板塊表現活躍，翔鷺鎢業、章源鎢業、中鎢高新、廈門鎢業等多隻個股漲幅居前。Choice資料顯示，年初至今，翔鷺鎢業、中鎢高新兩隻個股的漲幅均已超過100%。“本輪鎢板塊上漲，是AI算力週期拉動相關產業鏈需求、地緣衝突下關鍵礦產焦慮帶來的超額補庫需求，以及供給偏緊等多重因素共同作用的結果。”華安證券金屬新材料首席分析師許勇其在接受記者採訪時表示。國金證券研報預計，2026至2028年國內鎢供給分別為5.0萬、5.0萬和5.2萬金屬噸，而同期需求分別為8.17萬、8.77萬和9.31萬金屬噸，國內鎢供需緊平衡格局有望延續。（上海證券報）
+
+---
+
+### 2026-09-16 07:25:18  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Hovers at Over 4-Month Highs — Crude oil held above $105 per barrel on Wednesday, remaining near its highest levels in over four months amid broadening supply disruptions in the Middle East. Saudi Arabia reportedly cancelled some shipments after drone attacks forced the closure of the East-West pipeline, notifying European customers that several September deliveries had been scrapped. There is still no clear timeline for when operations at the key pipeline, which provides an alternative route around the Strait of Hormuz, will resume, as Iran-backed Houthi militants renewed attacks on Saudi Arabia this week. In Libya, the national oil company also suspended operations at two oilfields and a pumping station amid ongoing protests. Beyond the Middle East, Russia struck petrol stations in Kyiv, while Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure.
 
 ---
 
@@ -16121,89 +16163,5 @@ Agricultural Commodities Updates: Oat Gains by 3.96% — Top commodity gainers a
 ### 2026-09-15 02:21:26  #MKT News #DXY #Impact bearish
 
 【RBC expects four BOC hikes next year, policy rate to 3.25%】RBC chief economist Frances Donald said the bank is cautiously optimistic on Canada despite persistent US-Canada trade uncertainty. RBC forecasts GDP growth below 2% this year and next, but notes per-capita output is stronger amid stagnant population growth and that western resource-rich provinces are now the main growth drivers. Citing risks from rising energy prices and an improving economy, RBC expects four BOC rate hikes next year, lifting the policy rate to 3.25%; risk is rising that the first hike could be brought forward to late 2026.
-
----
-
-### 2026-09-15 02:20:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Drops by 2.53% — Top commodity losers are Lithium Carbonate (-2.53%), Copper (-2.11%), Iron Ore CNY (-1.32%) and Gold (-0.90%). Gains are led by Steel Rebar (1.17%).
-
----
-
-### 2026-09-15 02:20:07  #公司 #市場 #觀點 #國際
-
-【美國大型銀行股集體重挫 受美銀CEO言論及AI主題交易影響】美國大型銀行股週一大幅下跌，因美國銀行表示，交易收入與去年第三季度相比將“相對持平”。此外，市場對人工智慧主題交易的擔憂加劇也令金融股板塊承壓。美國銀行跌幅一度擴大至5.7%。執行長Brian Moynihan在巴克萊全球金融服務會議上表示，該行第三財季交易收入同比將“相對持平”。KBW銀行指數中跌幅居前的大型銀行包括：高盛下跌4.6%，花旗下跌3.5%，摩根士丹利下跌4.1%，富國銀行下跌3.0%，紐約梅隆銀行下跌3.5%，摩根大通下跌2.2%。北美信託股價一度下跌4.9%。該公司首席財務官Dave Fox預計本季度業績將出現“季節性下滑”。
-
----
-
-### 2026-09-15 02:19:12  #MKT News #Market Regions #Europe & UK
-
-【EU to propose ban on social media and AI chatbots for under-15s under EU Kids Act】A European Commission document says the EU will propose banning children under 15 from using social media, video-sharing platforms, AI chatbots and online games. The measure, part of the EU Kids Act, is due to be unveiled Thursday by European Commission president VON DER LEYEN and the commission's tech chief, with parts possibly previewed in VON DER LEYEN's Wednesday policy speech. The proposal would curb technology firms' ability to access and influence minors, allow phased age-based access limits across services (including gaming platforms), and impose company obligations scaled to service type and child age.
-
----
-
-### 2026-09-15 02:18:49  #國際
-
-美國眾議院議長約翰遜：特朗普將於本週或下週召集AI企業高管開會。
-
----
-
-### 2026-09-15 02:18:43  #MKT News #DXY #Impact bullish #XAUUSD #DAX #Impact bearish
-
-France's foreign minister Barro said Russia's unacceptable strike on rail near the Ukraine‑Poland border targeted a train located only a few hundred meters from the EU and NATO frontier and was intended as a deterrent. He said European unity is decisive, citing the accession of Finland and Sweden to NATO as proof.
-
----
-
-### 2026-09-15 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Gains by 4.53% — Top commodity gainers are Germany Natural Gas THE (4.53%), Natural gas (2.49%), Natural Gas EU (2.27%), Crude Oil (1.40%) and Brent Oil (1.17%).
-
----
-
-### 2026-09-15 02:14:28  #MKT News #Market Regions #Europe & UK
-
-Bernd Lange, chair of the European Parliament’s Committee on International Trade, said the EU and Canada should form a "team of fairness and partnership" to counter an international order increasingly shaped by coercion, dependency and power politics. He said the concept should be promoted to countries seeking reliable partners rather than dependency and political pressure.
-
----
-
-### 2026-09-15 02:10:46  #公司
-
-禮來高管稱，公司目前在口服肥胖治療市場的新處方中佔據超過30%的份額。
-
----
-
-### 2026-09-15 02:08:36  #MKT News
-
-Iran's foreign ministry said pro-Iran Patriotic Union of Kurdistan (PUK) chairman Bafel Talabani will visit Iran.
-
----
-
-### 2026-09-15 02:07:19  #其他
-
-塞爾維亞總統武契奇表示，他將於9月27日辭職。
-
----
-
-### 2026-09-15 02:07:11  #市場 #觀點 #央行 #國際
-
-【花旗、高盛和摩根大通等上調年末美債收益率預測】上週五美國公佈的消費者價格指數推動市場隱含的美聯儲加息機率升至約90%後，花旗、高盛和摩根大通利率策略師均轉而預計，美聯儲本週可能加息。上述機構以及道明證券加入華爾街其他多家交易商的行列，預計美聯儲將在9月16日宣佈加息。與此同時，多家機構還上調了對年末美國國債收益率的預測。
-
----
-
-### 2026-09-15 02:04:34  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Al Jazeera reports Israel carried out an airstrike on Mansouri in the Tyre district of southern Lebanon.
-
----
-
-### 2026-09-15 02:03:04  #國際
-
-以色列對黎巴嫩南部泰爾地區的曼蘇里發動空襲。
-
----
-
-### 2026-09-15 02:00:26  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-US 10-Year Yield Eases from 5% — The yield on the 10-Year US Treasury note eased to 4.96% on Monday after having tested a 19-year high of 5.01% earlier in the session, tracking the slight pullback for key energy prices as markets gauged the magnitude of inflation risks. Wholesale fuel prices eased after President Trump signaled that Russia and Ukraine would halt strikes on energy infrastructure. Still, energy inflation continued to pressure Treasuries across the curve as recent data suggested that tariffs and high fuel costs had impacted underlying inflation gauges. Money markets show that the Federal Reserve is expected to raise its rates by 25bps on Wednesday. In turn, long-maturity Treasury yields have also been supported soaring levels of corporate debt by AI companies, limiting allocation of capital by primary dealers and other financial institutions. Lastly, hawkish expectations for the ECB and BoJ also pressured bonds.
 
 ---
