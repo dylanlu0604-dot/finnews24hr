@@ -1,7 +1,15 @@
 {
   "date": "2026-09-20",
-  "count": 29,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:01a0bac4-4876-7118-8611-9f34c7fffc8c",
+      "time": "2026-09-20 01:43:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple Turkish asset managers' funds collapse; executives detained】Turkish police have detained several financial executives in a probe into fund failures regulators have likened to a Ponzi-style scheme. Media reported Tera Holding chairman Emre Tezmen and board members Emre Alkin and Kerem Alkin were detained, and a detention order was issued for Pusula Holding chairman Serdar Turhan. Turkey’s market regulator has ordered liquidation of seven asset management firms and 131 funds totaling about $20bn, including vehicles managed by Tera and Pusula. Large redemptions left some funds unable to meet withdrawals; Tera and Pusula previously announced defaults on certain funds, triggering market panic and sharp equity declines. Justice officials described the episode as Ponzi-like, and Finance Minister Mehmet Simsek said anyone found to have violated rules will be held accountable."
+    },
     {
       "id": "mkt:01a0babe-6f0c-7118-8611-97cd2e815115",
       "time": "2026-09-20 01:37:17",
