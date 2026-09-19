@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-19 14:40:35",
-  "count": 13578,
+  "updated": "2026-09-19 14:44:25",
+  "count": 13575,
   "items": [
+    {
+      "id": "mkt:01a0b865-4f0c-7118-860e-8375d4613446",
+      "time": "2026-09-19 14:40:42",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "【Kweichow Moutai to add Guangzhou and Zhengzhou shipping warehouses】Effective Sept 19, Kweichow Moutai’s iMoutai platform will add shipping warehouses in Guangzhou and Zhengzhou to its existing Guiyang, Nanjing and Beijing hubs; orders will be dispatched from the nearest warehouse based on order location."
+    },
     {
       "id": "5103132",
       "time": "2026-09-19 14:38:15",
@@ -124474,42 +124484,6 @@
         "其他"
       ],
       "text": "【莫三比克商界：外匯短缺和燃油危機制約營商環境】莫三比克商業協會聯合會(CTA)主席阿爾瓦羅·馬辛格近日在馬普托舉行的2026年第二季度企業經營表現及私營部門展望經濟吹風會上表示，外匯短缺，尤其是美元供應不足，以及燃油危機，是2026年第二季度影響該國營商環境的主要制約因素。"
-    },
-    {
-      "id": "5090628",
-      "time": "2026-09-12 14:43:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍方還打擊了烏克蘭扎波羅熱州的一家冶金廠。"
-    },
-    {
-      "id": "mkt:01a0945b-7bf6-7118-8554-bc88ed598711",
-      "time": "2026-09-12 14:43:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Russian Defence Ministry said Russian forces also struck a metallurgical plant in Ukraine's Zaporizhzhia region."
-    },
-    {
-      "id": "mkt:01a0945a-2752-7118-8554-b6992fa0a153",
-      "time": "2026-09-12 14:42:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry: Russian forces struck two cargo ships at Ukraine's Chornomorsk port."
-    },
-    {
-      "id": "5090627",
-      "time": "2026-09-12 14:41:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍擊中烏克蘭切爾諾莫斯克港的兩艘貨船。"
     }
   ]
 }
