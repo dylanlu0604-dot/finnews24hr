@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-19 19:33:05",
-  "count": 13477,
+  "updated": "2026-09-19 19:36:53",
+  "count": 13475,
   "items": [
+    {
+      "id": "mkt:01a0b972-e35c-7118-8610-092494d39cb7",
+      "time": "2026-09-19 19:35:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Son of Gaza health ministry director killed in Israeli shelling】Al Jazeera reported the Gaza Health Ministry said its director-general Munir al-Bursh’s son, Bashir al-Bursh, was killed by Israeli shelling in northern Gaza. The strike hit the Zahra neighborhood west of the Jabalia refugee camp."
+    },
+    {
+      "id": "5103218",
+      "time": "2026-09-19 19:34:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！北部灣實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，9月20日至23日，每天4時至19時，北部灣部分海域進行實彈射擊，禁止駛入。"
+    },
     {
       "id": "5103217",
       "time": "2026-09-19 19:30:11",
@@ -123633,49 +123653,6 @@
         "國際"
       ],
       "text": "【美記者稱航母是伊朗主要打擊目標之一】美國哥倫比亞廣播公司記者9月11日探訪了目前正在中東執行任務的“喬治·華盛頓”號航母。報道稱，該航母載有約5000名人員和大量彈藥及戰鬥機，是美軍對伊朗戰術行動的中堅力量，也是伊朗的主要打擊目標之一。報道還稱，美國海軍證實，伊朗上週末曾試圖用彈道導彈襲擊美軍軍艦。“喬治·華盛頓”號航母於8月19日抵達中東，接替此前陷入困境的“亞伯拉罕·林肯”號航母。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a09567-cc08-7118-8556-f4d66ce353fa",
-      "time": "2026-09-12 19:36:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Trump says U.S. and Canada likely to reach deal \"soon\"】President Trump said he is optimistic about resolving the trade dispute with Canada and that a deal could be reached \"soon\", but did not say whether formal negotiations have resumed. Asked if he planned to withdraw from the US‑Mexico‑Canada Agreement (USMCA), he avoided a direct answer and said he is pressing for better terms for U.S. farmers. He accused Canada of imposing \"400%\" tariffs on U.S. farmers and other barriers and said those measures would be removed as part of a prospective agreement."
-    },
-    {
-      "id": "5090793",
-      "time": "2026-09-12 19:35:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國工程院院士鄔賀銓：2030年中國算力有望佔到全球30%】9月12日，在2026中國算力大會主論壇上，中國工程院院士鄔賀銓指出，智慧體的出現帶動了Token的消費。今年3月，Token的消費已經達到日均140萬億。隨著技術進步，Token的消耗並不是以多為榮，而是以效率為榮。中國Token的應用成本不斷下降，這也促進了Token的利用。Token帶動算力，算力和Token之間成正比。目前，中國的算力在全球佔21%，美國佔46%，按照國家算力網的規劃，2030年中國算力有望佔到全球30%。"
-    },
-    {
-      "id": "mkt:01a09566-c579-7118-8556-ece45f414fc7",
-      "time": "2026-09-12 19:35:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said on Saturday Russian strikes across 10 Ukrainian regions killed three people and wounded dozens."
-    },
-    {
-      "id": "5090792",
-      "time": "2026-09-12 19:34:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：自昨晚以來，我們的城市和社群幾乎一直受到攻擊。在敖德薩，一棟被俄羅斯導彈損壞的公寓樓現場的救援和搜尋行動仍在繼續。已有三十七人受傷。對另外兩名失蹤人員的搜尋仍在繼續。今天早上，俄羅斯用一架無人機襲擊了敖德薩地區切爾諾莫斯克的一家酒店。 11 人受傷。在扎波羅熱地區，“沙赫德”襲擊了居民樓，造成兩人死亡。六人受傷。扎波羅熱一家企業遭到襲擊，也造成人員傷亡。在克里沃羅格，一枚導彈擊中了關鍵基礎設施。三人受傷，一人死亡。基輔地區另有兩人受傷。昨晚有十個地區受到俄羅斯的攻擊，俄羅斯攻擊無人機仍在其中許多地區上空飛行。俄羅斯再次襲擊了日托米爾和羅夫諾地區的普通加油站以及敖德薩地區的一個機庫。僅從今天開始，我們的防禦者就擊落了 200 多個空中目標，但不幸的是，並非全部。"
     }
   ]
 }

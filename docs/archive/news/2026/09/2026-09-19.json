@@ -1,7 +1,27 @@
 {
   "date": "2026-09-19",
-  "count": 894,
+  "count": 896,
   "items": [
+    {
+      "id": "mkt:01a0b972-e35c-7118-8610-092494d39cb7",
+      "time": "2026-09-19 19:35:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Son of Gaza health ministry director killed in Israeli shelling】Al Jazeera reported the Gaza Health Ministry said its director-general Munir al-Bursh’s son, Bashir al-Bursh, was killed by Israeli shelling in northern Gaza. The strike hit the Zahra neighborhood west of the Jabalia refugee camp."
+    },
+    {
+      "id": "5103218",
+      "time": "2026-09-19 19:34:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！北部灣實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，9月20日至23日，每天4時至19時，北部灣部分海域進行實彈射擊，禁止駛入。"
+    },
     {
       "id": "5103217",
       "time": "2026-09-19 19:30:11",
