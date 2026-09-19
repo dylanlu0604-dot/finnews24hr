@@ -1,7 +1,27 @@
 {
   "date": "2026-09-19",
-  "count": 612,
+  "count": 614,
   "items": [
+    {
+      "id": "mkt:01a0b772-3093-7118-860d-939b58748bf9",
+      "time": "2026-09-19 10:15:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Riyadh airport flights paralyzed after navigation failure linked to recent attacks】Tasnim News, citing on-site Saudi reports, said Riyadh International Airport’s navigation system suffered a serious failure that has paralyzed flights, and attributed the outage to recent attacks on Saudi strategic targets."
+    },
+    {
+      "id": "5103011",
+      "time": "2026-09-19 10:12:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國摩托車商會副會長劉欣：要堅定走智慧化、綠色化、高階化發展路徑，以技術迭代替代同質化低價競爭】在2026中國摩托車重慶論壇上，中國摩托車商會副會長劉欣發表演講。他表示，當前產業發展態勢整體穩中向好，穩中有進，結構持續最佳化，動能加速轉換，消費端持續升級。傳統燃油摩托車向中大排量、個性化、休閒化、高階賽道加速躍遷。技術端迭代提速，電動化、智慧化、自動化技術日趨成熟，新能源產品市場滲透率持續提升，外貿端韌性十足。中國摩托車已經成為我國輕工製造、機電產品出口的靚麗名片。（新浪科技）"
+    },
     {
       "id": "5103010",
       "time": "2026-09-19 10:10:27",
