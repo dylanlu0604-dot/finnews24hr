@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-19 23:25:43_
-_本檔包含 2756 則快訊，約 524021 字_
+_更新時間：2026-09-20 02:36:52_
+_本檔包含 2770 則快訊，約 524916 字_
+
+---
+
+### 2026-09-20 02:33:12  #國際
+
+土耳其外交部長：目前已有多項旨在結束俄烏衝突的倡議，但這些倡議很難催生持久解決方案。
+
+---
+
+### 2026-09-20 02:33:11  #MKT News #XAUUSD #Impact bullish #WTI
+
+Turkey's foreign minister said there are currently some initiatives aimed at ending the Russia-Ukraine conflict, but they are unlikely to yield a durable solution.
+
+---
+
+### 2026-09-20 02:32:33  #國際
+
+【特朗普稱將組建一支“人工智慧部隊”】美國總統特朗普19日在社交媒體發文稱，他將組建一支“人工智慧部隊”。特朗普說，為組建“人工智慧部隊”，他將在不久後任命一名人工智慧事務“總管”。他稱，人工智慧代表著下一場工業革命或網際網路浪潮，其規模和影響力將更大，甚至可能佔到美國國內生產總值的25%。特朗普還在帖文中抨擊激進的民主黨人“企圖摧毀人工智慧”，稱“我們絕不會以任何方式阻礙或扼殺這個令人矚目的產業發展。相反，我們要珍視它、扶持它，並守護它的成長”。他同時表示，美國將借現有的刑事與民事司法體系，嚴懲人工智慧相關不法行為。（新華社）
+
+---
+
+### 2026-09-20 02:25:52  #MKT News
+
+Turkey's foreign minister said Saudi Arabia may have military needs, and Turkey will evaluate them under the trilateral defense agreement signed with Pakistan.
+
+---
+
+### 2026-09-20 02:25:35  #國際
+
+土耳其外交部長：沙烏地阿拉伯或存在軍事需求，我們將把該事宜納入我們與巴基斯坦三邊防務協定的框架下進行研究。
+
+---
+
+### 2026-09-20 02:24:42  #MKT News #Brent #Impact bearish #XAUUSD #DXY
+
+Turkey's foreign minister said it is unacceptable for Saudi Arabia to be drawn into a US-Iran war and that Saudi Arabia has no intention of joining the conflict.
+
+---
+
+### 2026-09-20 02:24:34  #其他
+
+土耳其外長：沙烏地阿拉伯被捲入美伊戰爭是不可接受的，他們無意加入衝突。
+
+---
+
+### 2026-09-20 02:24:27  #國際
+
+土耳其外交部長在被問及沙特-胡塞武裝衝突時表示，已向各方轉達停火提議。
+
+---
+
+### 2026-09-20 02:24:21  #MKT News #WTI #Impact bearish #Brent #DXY
+
+When asked about the Saudi-Houthi conflict, Turkey's foreign minister said Ankara has conveyed a proposal to all parties to end the war.
+
+---
+
+### 2026-09-20 02:23:16  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Turkey's foreign minister said the current Middle East crisis can no longer be economically tolerated.
+
+---
+
+### 2026-09-20 02:22:10  #國際
+
+土耳其外交部長：中東當前危機在經濟層面已不再可容忍。
+
+---
+
+### 2026-09-20 02:20:42  #MKT News #XAUUSD #Impact bullish #DXY #US10Y #Impact bearish
+
+Poland's prime minister said Russia has recently and repeatedly tested Poland's and NATO's responses. Poland is prepared to respond and defend.
+
+---
+
+### 2026-09-20 02:10:27  #MKT News
+
+White House Correspondents' Association president Jacqui Heinrich urged the government to immediately restore the affected reporter's press credentials.
+
+---
+
+### 2026-09-20 02:09:20  #MKT News
+
+White House Correspondents' Association chair Jacqui Heinrich said the White House's decision to revoke press credentials for CNN, Politico and MSNBC violates the U.S. Constitution's First Amendment.
+
+---
+
+### 2026-09-20 02:06:40  #其他
+
+白宮記者協會主席：白宮實施的媒體禁令違反第一修正案。
+
+---
+
+### 2026-09-20 02:05:56  #MKT News
+
+Al Arabiya reported senior Iranian officials approved a legal provision to regulate data routing and transmission through the Strait of Hormuz.
+
+---
+
+### 2026-09-20 02:03:03  #國際
+
+伊朗高階官員批准一項法律條款，對經由霍爾木茲海峽的資料路由實施監管。
+
+---
+
+### 2026-09-20 01:52:34  #MKT News
+
+Israel Defense Forces said it has killed Hamas military commander Muhammad Suleiman Beyuk.
+
+---
+
+### 2026-09-20 01:50:25  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Iran foreign ministry: Attending UNGA is Iran's legitimate right, not others' 'favor'】Baghaei, Iran foreign ministry spokesperson, said attending the UN General Assembly is Iran’s "legitimate right," not a "favor" from other countries, and Tehran will not abandon the New York diplomatic platform. He said Iran will not send a false signal of détente; any diplomatic action should reflect Iran’s strength and positions. Although travel to New York is "not attractive" for the delegation, the UNGA is an important arena for Iran to express its stance amid recent conflicts and external pressure. Baghaei accused the United States of public pressure and visa delays aimed at the delegation, but said such measures will not prevent Iran from attending and presenting its position.
+
+---
+
+### 2026-09-20 01:43:40  #MKT News
+
+【Multiple Turkish asset managers' funds collapse; executives detained】Turkish police have detained several financial executives in a probe into fund failures regulators have likened to a Ponzi-style scheme. Media reported Tera Holding chairman Emre Tezmen and board members Emre Alkin and Kerem Alkin were detained, and a detention order was issued for Pusula Holding chairman Serdar Turhan. Turkey’s market regulator has ordered liquidation of seven asset management firms and 131 funds totaling about $20bn, including vehicles managed by Tera and Pusula. Large redemptions left some funds unable to meet withdrawals; Tera and Pusula previously announced defaults on certain funds, triggering market panic and sharp equity declines. Justice officials described the episode as Ponzi-like, and Finance Minister Mehmet Simsek said anyone found to have violated rules will be held accountable.
+
+---
+
+### 2026-09-20 01:37:17  #MKT News
+
+【DR Congo Ebola cases top 7,500】As of Sept 19 local time, the DR Congo health ministry reported 7,541 cumulative confirmed Ebola cases in the current outbreak, including 3,639 deaths and 1,823 recoveries; case fatality rate 48.3%.
+
+---
+
+### 2026-09-20 01:36:33  #MKT News #Market Regions #Europe & UK
+
+【NATO names German general Karsten Breuer as Military Committee chair】NATO said German General Karsten Breuer will become chair of its Military Committee, expected to assume the post in mid-2027, succeeding Italian Navy Admiral Giuseppe Cavo Dragone. The chair serves as a principal military adviser to NATO political leadership. The appointment is being read as a sign of Germany’s rising influence within NATO after substantially increasing defence spending and military capacity since the Russia-Ukraine war. German Defence Minister Boris Pistorius said Breuer’s selection reflects allies’ recognition of Germany’s strengthened contributions to NATO defence.
+
+---
+
+### 2026-09-20 01:33:51  #其他
+
+【剛果（金）埃博拉疫情確診病例超7500例】剛果（金）衛生部最新資料顯示，截至目前，該國本輪埃博拉疫情累計確診病例7541例，其中3639人死亡、1823人康復，病死率為48.3%。（央視新聞）
+
+---
+
+### 2026-09-20 01:31:55  #MKT News
+
+BAGHAEI, spokesman for Iran's foreign ministry, said Iran's participation in the United Nations General Assembly is a "legitimate right", not a "favor" granted by other countries.
+
+---
+
+### 2026-09-20 01:29:53  #其他
+
+【土耳其調查基金騙局 多名金融高管被拘】土耳其當局週六拘留了多名知名金融業高管，作為對一項“類似龐氏騙局”基金計劃調查的一部分。Tera Holding董事長Emre Tezmen以及董事會成員Emre Alkin和Kerem Alkin已被拘留。Pusula Holding董事長Serdar Turhan此前也已被簽發拘留令。Destek Holding董事長Altunc Kumova在9月17日被拘後，已被正式逮捕。
+
+---
+
+### 2026-09-20 01:23:40  #國際
+
+日本生命保險計劃投入130億美元用於資料中心融資。
+
+---
+
+### 2026-09-20 01:20:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthis say they struck Riyadh and ARAMCO Yanbu facility】Yemen’s Houthi armed group spokesman Yahya Saree said the group launched two attacks inside Saudi Arabia using large numbers of ballistic missiles, cruise missiles and drones. He said the first strike targeted key facilities in Riyadh and the second hit ARAMCO’s Yanbu facility, causing large fires, per the Houthi statement. Saree framed the operations as retaliation for Saudi airstrikes and a blockade, claiming Saudi warplanes have conducted 732 airstrikes from Khamis Mushait and Ta'if bases. Saudi authorities have not confirmed the attacks or reported damage.
+
+---
+
+### 2026-09-20 01:18:47  #國際
+
+特朗普：人工智慧規模或將佔到美國國內生產總值的25%。
+
+---
+
+### 2026-09-20 01:17:15  #MKT News #Market Themes #AI Revolution #The Trump Trade #Nasdaq100 #Impact bullish #S&P500
+
+【Trump says he will not restrict AI development, will appoint an AI czar】President Trump said the US will not impede AI industry growth and will both support and oversee the sector. He called AI the "next industrial revolution" and said it could account for up to 25% of US GDP; he claimed the US currently leads in AI and wants to preserve that edge. Trump announced plans to create an Artificial Intelligence working group, likened to the Space Force, and to appoint an AI czar to oversee AI policy. He said the administration will avoid restrictive measures that could curb innovation but will rely on existing criminal and civil justice systems to address illegal AI activity and will strengthen oversight.
+
+---
+
+### 2026-09-20 01:15:44  #焦點 #國際
+
+特朗普談人工智慧：正在組建人工智慧部隊，就像組建太空部隊一樣，將在不久的未來宣佈人工智慧“主管”人選。
+
+---
+
+### 2026-09-20 01:15:17  #國際
+
+伊朗外交部發言人表示，巴基斯坦內政部長訪問伊朗旨在討論雙邊關係，未獲悉任何美國方面的資訊。
+
+---
+
+### 2026-09-20 01:14:50  #MKT News #Market Themes #AI Revolution
+
+US President Trump plans to create an artificial intelligence task force and to appoint an "AI czar" to oversee AI affairs.
+
+---
+
+### 2026-09-20 01:07:09  #國際
+
+【伊朗稱仍在透過調解方向美方傳遞談判條件】伊朗最高國家安全委員會秘書穆赫辛·雷扎伊19日表示，卡達作為調解方已向美國方面轉達伊朗的談判條件，正等待美國總統特朗普的回應。 雷扎伊接受卡達半島電視臺採訪時表示，伊朗提出的談判條件是美國結束所有針對伊朗的戰事、解凍被凍結的伊朗資產並結束海上封鎖。他表示，伊朗繼續同調解方卡達和巴基斯坦磋商，卡達已將談判條件轉達給美方。 雷扎伊說，伊朗尚未決定退出《不擴散核武器條約》，“此事取決於華盛頓的行為”。（新華社）
+
+---
+
+### 2026-09-20 01:06:17  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's Houthi forces said they will continue striking Saudi military concentration targets until the blockade ends.
+
+---
+
+### 2026-09-20 01:06:12  #其他
+
+葉門胡塞武裝表示，將繼續瞄準沙特軍事集結地，直至封鎖結束。
+
+---
+
+### 2026-09-20 01:04:24  #其他
+
+沙特方面未立即證實胡塞武裝的宣告。
+
+---
+
+### 2026-09-20 01:04:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's Houthi forces said they struck 'sensitive targets' in Riyadh with ballistic missiles and drones.
+
+---
+
+### 2026-09-20 01:03:48  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni Houthi militants said they attacked an ARAMCO facility in Yanbu, Saudi Arabia.
+
+---
+
+### 2026-09-20 01:03:33  #其他
+
+葉門胡塞武裝稱，已使用彈道導彈和無人機對利雅得境內其所稱的“敏感”目標發動了襲擊。
+
+---
+
+### 2026-09-20 01:01:26  #其他
+
+葉門胡塞武裝稱，襲擊了沙特阿美位於延布的設施。
+
+---
+
+### 2026-09-20 01:00:54  #MKT News
+
+Iranian foreign ministry spokesman BAGHAEI said Pakistan's interior minister's visit will focus on bilateral Iran-Pakistan ties and will not convey any specific information on mediation.
+
+---
+
+### 2026-09-20 00:55:54  #國際
+
+特朗普：遺憾的是，美國最高法院缺乏讓美國再次偉大的勇氣。過去六個月，法院在關稅以及出生地公民權問題上做出錯誤、帶有政治傾向且荒唐的裁決，讓美國損失數萬億美元，並永久破壞了人們獲得這個國家公民身份的途徑。這是美國歷史上令人悲哀的一段插曲，但我們終將勝利。
+
+---
+
+### 2026-09-20 00:55:03  #MKT News
+
+Israeli Prime Minister NETANYAHU said Israel has reshaped the Middle East and is stronger than ever.
+
+---
+
+### 2026-09-20 00:54:38  #市場 #焦點
+
+奈飛暗盤跌超1%，現報70.8217美元。
+
+---
+
+### 2026-09-20 00:41:01  #其他
+
+【塞普勒斯客輪傾覆事故死亡人數升至15人】當地時間9月19日，塞普勒斯北部地區官員表示，他們在上個月凱里尼亞海岸附近傾覆的客輪殘骸中打撈出一具遺體，這是此次客輪事故中打撈出的第15具遇難者遺體。死者身份的確認工作仍在進行中。目前，仍有13人失蹤。（央視新聞）
+
+---
+
+### 2026-09-20 00:39:40  #國際
+
+俄羅斯國防部：打擊了一艘向烏克蘭西南部敖德薩地區烏軍運送燃料的船隻。
+
+---
+
+### 2026-09-20 00:14:57  #市場 #焦點
+
+布倫特原油暗盤跌破99美元，日內跌超1%。
+
+---
+
+### 2026-09-20 00:13:44  #MKT News #Important #XAUUSD #Impact bullish #Brent
+
+【Iran says Qatar has relayed three terms to Washington, awaiting Trump response】Iran’s Supreme National Security Council secretary said Tehran has communicated three conditions to Washington via Qatar and Pakistan and is awaiting US President Trump’s reply. The conditions to halt hostilities are: end fighting on all fronts, release frozen assets and lift the maritime blockade. He said US acceptance would be in Washington’s interest and that threats would not work. On nuclear policy, he warned US and Israeli actions give Iran grounds to withdraw from the NPT but Tehran has made no decision and will base any move on Washington’s behavior; he added Iran still observes the late supreme leader’s nuclear ban. He also said Iran wants an end to the Saudi–Houthi conflict and warned it would strike US bases and interests in the Middle East if attacked.
+
+---
+
+### 2026-09-20 00:00:15  #國際
+
+伊朗國家安全委員會秘書雷扎伊：我方近期在一艘美軍航母附近試射反艦導彈。
+
+---
+
+### 2026-09-19 23:52:35  #焦點 #國際
+
+【伊朗提出對美談判三大前提，等待特朗普答覆】伊朗最高國家安全委員會秘書穆赫辛·雷扎伊周六表示，伊朗已透過卡達和巴基斯坦調解人向美方提出談判條件：全面結束所有戰線的戰事、釋放遭扣押的伊朗資產、解除海上封鎖。雷扎伊稱，德黑蘭仍與卡達調解人保持溝通，這名調解人已將伊朗的談判條件轉達給美方，以求結束戰爭，目前正在等待美國總統的答覆。雷扎伊表示，接受伊朗的條件符合美方利益。他稱特朗普誤判了伊朗，其發出的威脅不會有任何結果。他說，伊朗已經為一場他所說的“決定性戰爭”做好準備，並且清楚美軍存在的弱點。“我們比以往任何時候都更有能力對抗他們。”雷扎伊表示。
+
+---
+
+### 2026-09-19 23:48:38  #公司 #國際
+
+【英偉達5名高管披露持股變動：黃仁勳4.57萬股用於繳稅，CFO套現765萬美元】當地時間9月18日，英偉達向美國證券交易委員會（SEC）提交的一份Form 4檔案顯示，9月16日，因限制性股票單位（RSU）歸屬產生稅款而被動代扣股票，黃仁勳被代扣45728股普通股，每股計價212.17美元，對應價值約970萬美元。檔案指出，這些股份由英偉達扣留，用於滿足黃仁勳因RSU歸屬而產生的稅務義務，並非公開市場出售。除了黃仁勳以外，英偉達首席財務官科萊特·克雷斯（Colette Kress）、營運長Debora Shoquist、總法律顧問兼秘書Timothy Teter以及首席會計官Scott Gawel也在9月16日進行了類似的股份代扣，四人的代扣股份分別為40747股、35008股、35738股和2932股。
+
+---
+
+### 2026-09-19 23:46:04  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：美國和以色列的行動可能迫使伊朗退出《不擴散核武器條約》。伊朗尚未決定退出該條約，這一決定將取決於華盛頓後續的行動。伊朗仍恪守已故最高領袖禁止研發核武器的宗教裁決，核立場沒有發生改變，但我們不知道未來會發生什麼。
+
+---
+
+### 2026-09-19 23:44:36  #國際
+
+特朗普在社交媒體發起投票：很多人認為，“人工智慧”這一說法並不準確，用來指代AI，也就是人工智慧，表述也十分生硬。對於這一新現象，更為雅緻且準確的叫法可以是卓越智慧（Superior Intelligence）、極致智慧（Extreme Intelligence），或是至高智慧（Supreme Intelligence）。這是一項投票，希望所有人都參與投票。這場不斷發展壯大的“變革”，哪個名稱最合適？
+
+---
+
+### 2026-09-19 23:36:04  #國際
+
+伊朗最高安全官員：德黑蘭希望沙烏地阿拉伯與葉門之間的戰爭能夠結束。
+
+---
+
+### 2026-09-19 23:35:56  #國際
+
+伊朗最高安全官員：談判條件包括在所有戰線結束戰爭、解凍伊朗資金、結束海上封鎖。
+
+---
+
+### 2026-09-19 23:28:59  #焦點 #國際
+
+伊朗最高安全官員：與調解方卡達和巴基斯坦的會談仍在繼續，談判條件已傳達。
+
+---
+
+### 2026-09-19 23:28:13  #焦點 #國際
+
+伊朗最高安全官員：卡達已向華盛頓轉達德黑蘭方面結束戰爭的條件，目前正等待特朗普回應。
+
+---
+
+### 2026-09-19 23:27:15  #市場 #國際
+
+【美國關稅與貿易緊張局勢威脅五大湖航運及加美供應鏈】美國關稅以及華盛頓與渥太華之間不斷加劇的政治分歧，正威脅著高度一體化、規模達6萬億美元的五大湖及聖勞倫斯航道區域經濟。德盧斯-蘇必利爾等核心港口貨運量大幅下滑，截至8月同比暴跌23%。煤炭運量減少，疊加鋼鐵與鐵礦石關稅，令雙邊貿易承壓，傳統供應鏈遭到擾亂。儘管兩國政客與貿易官員釋放出談判意向，但行業相關方警告，長期摩擦可能對海運貿易造成永久性損害。美國航運團體指出監管差異與船隊競爭問題，加拿大運營方則強調造船廠產能存在結構性短缺，本土企業夾在這場大範圍地緣貿易爭端之中進退兩難。
 
 ---
 
@@ -16379,269 +16727,5 @@ C Shengu's decline narrowed to 6.25 pct and the stock hit an intraday temporary 
 ### 2026-09-18 10:07:40  #MKT News #Market Regions #Greater China
 
 【Ministry: housing and urban construction faces new dynamics in 15th Five-Year Plan period】At a State Council Information Office briefing today, the Ministry of Housing and Urban-Rural Development said the housing and urban-rural development sector will face new dynamics during the 15th Five-Year Plan period. The ministry identified three main segments—urban-rural construction, housing and real estate, and the construction industry—each at a critical transformation point. For urban-rural construction it described two shifts: urbanization is moving from rapid expansion to stable growth, and city development is shifting from large-scale incremental expansion to stock-focused quality and efficiency improvements. For housing and real estate it cited two transitions: a significant change in market supply-demand dynamics and a move into a stock era. For the construction industry it outlined a threefold transformation toward intelligence, greening and integration.
-
----
-
-### 2026-09-18 10:07:34  #其他
-
-【住房城鄉建設部：住建事業“十五五”時期面臨新形勢】今天，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，住房城鄉建設部有關負責人介紹，住建事業“十五五”時期面臨新形勢，住建事業主要有城鄉建設、住房和房地產、建築業三大板塊。三大板塊都處在轉型發展的關鍵期，概括起來是“兩個轉向、兩個轉變、三化轉型”。“兩個轉向”講的是城鄉建設板塊，是指城鎮化正從快速增長期轉向穩定發展期，城市發展正從大規模增量擴張階段轉向存量提質增效為主的階段；“兩個轉變”講的是住房和房地產板塊，一個是房地產市場供求關係發生重大變化，一個是房地產進入存量時代；“三化轉型”講的是建築業板塊，也就是建築業向智慧化、綠色化、融合化轉型。（央視新聞）
-
----
-
-### 2026-09-18 10:07:06  #公司
-
-【沈鼓集團跌幅收窄至6% 觸發臨停】沈鼓集團跌幅收窄至6%，較開盤價漲幅達30%，觸發臨停。
-
----
-
-### 2026-09-18 10:06:15  #MKT News #Brent #Impact bullish #WTI
-
-SOUTH KOREA'S LEE said multiple countries have deployed military assets near the Strait of Hormuz.
-
----
-
-### 2026-09-18 10:06:13  #公司
-
-【中國三峽建工（集團）有限公司原一級諮詢陳文夫被"雙開"】中央紀委國家監委網站9月18日通報，據中央紀委國家監委駐中國三峽集團紀檢監察組、湖北省紀委監委訊息：日前，經中央紀委國家監委批准，中央紀委國家監委駐中國三峽集團紀檢監察組、湖北省宜昌市監委對中國三峽建工（集團）有限公司原一級諮詢陳文夫嚴重違紀違法問題進行了立案審查調查。經查，陳文夫作為黨員領導幹部，喪失理想信念，背棄初心使命，對黨不忠誠不老實，在組織談話時不如實說清問題，妄圖透過社會騙子規避組織調查，與他人串供，處心積慮對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金，接受可能影響公正執行公務的宴請和娛樂活動安排；違反組織原則，在職工錄用中為他人謀取利益；廉潔底線失守，向管理服務物件借用錢款，參與民間借貸獲取大額回報，將應由特定關係人個人支付的費用安排管理服務物件支付；追求低階趣味；貪慾膨脹，將權力異化為謀取私利的工具，利用職務便利為他人在工程專案承攬、結算等方面謀取利益，並非法收受鉅額財物。陳文夫嚴重違反黨的政治紀律、組織紀律、廉潔紀律、生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中國三峽集團黨組研究，決定給予陳文夫開除黨籍處分；經中央紀委國家監委駐中國三峽集團紀檢監察組研究，決定給予陳文夫開除公職處分；追繳其違紀違法所得。湖北省宜昌市監委將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-09-18 10:05:04  #其他
-
-李在明：多國在霍爾木茲海峽附近部署軍事力量。
-
----
-
-### 2026-09-18 10:03:30  #MKT News #Hang Seng Index #Impact bullish
-
-HSI rose more than 1%, led by semiconductors, innovative pharmaceuticals and humanoid-robot stocks.
-
----
-
-### 2026-09-18 10:02:24  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share perovskite PV cell sector rallied; Yamadun jumped over 8%, with Kuaike Electronics, Laplace, Lushan New Materials, Liansheng Technology and Rongqi Technology also advancing. The State Administration for Market Regulation issued China’s first national standard for perovskite photovoltaics, slated to take effect in 2027.
-
----
-
-### 2026-09-18 10:02:05  #其他
-
-【12306回應國慶假期高鐵漲價】9月16日，國慶假期前一天高鐵票開售。有網友稱“準備搶國慶期間的車票，發現車票居然漲價了。”該網友曬出的截圖顯示，9月25日，重慶北至南京南D988次列車票價為446元起，9月30日則為520元起。另有網友分享了廣州至潮汕G6592次列車票價變化，該網友稱，“同個班次，平時價格是279元，中秋漲到298元，國慶漲到302元。”9月18日早間，12306官方客服表示，高鐵票價可能因節假日客流等因素浮動，不同日期優惠折扣不同，並非漲價。具體票價以12306官方顯示為準。對於何時購票更優惠，客服則表示，無法確保某一時段的優惠力度大小。一般情況下，開票期間不會出現較大變化，但也不排除特殊情況。（中新經緯）
-
----
-
-### 2026-09-18 10:01:33  #其他
-
-Waymo：地圖測繪與適配工作將於2027年開展。
-
----
-
-### 2026-09-18 10:01:14  #其他
-
-Waymo ：計劃於 2028 年在新加坡提供付費自動駕駛計程車服務。
-
----
-
-### 2026-09-18 10:00:45  #其他
-
-資料顯示，週四共有四艘大宗商品貨船駛過霍爾木茲海峽，而十日均值約為16艘。
-
----
-
-### 2026-09-18 10:00:26  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報2214.00點。
-
----
-
-### 2026-09-18 10:00:24  #宏觀
-
-【市場監管總局釋出首個鈣鈦礦光伏領域國家標準】市場監管總局釋出首個鈣鈦礦光伏領域國家標準《光伏器件 第12部分：鈣鈦礦光伏電池及元件的電流-電壓（I-V）特性測量方法》，將於2027年正式實施。在“雙碳”目標推動下，鈣鈦礦光伏技術發展迅速，正從實驗室走向吉瓦級大規模量產，電池及元件的測試認證需求不斷增長。但鈣鈦礦器件在光照和電壓變化下效能容易波動，測試結果不夠穩定，面積定義也尚未統一，過去常用於晶矽和薄膜電池的測試方法難以直接套用。簡單來說，該標準要解決的是鈣鈦礦電池和元件到底該怎麼測才能測得準、比得公平。鈣鈦礦器件在光照下效能會變化，不能像傳統晶矽那樣快速一測即可。該標準系統規定了測試裝置、測試前的穩定化處理要求，以及如何測量電流-電壓特性、如何計算面積和發電效率等。針對實驗室研發和規模化生產的不同需要，該標準給出快速測量法，並補充最大功率點追蹤法、十點準穩態擬合法（仲裁法）、漸進法等更貼近真實工作狀態的準穩態測試方法。同時，該標準統一總面積與光闌面積定義及效率計算，讓不同機構測出的結果可以放在同一把標尺上比較，最終形成一套可驗證、可復現的標準化測試流程。該標準構建了科學、可靠、可推廣的鈣鈦礦光伏I-V特性測量方法體系，填補了我國在新興光伏技術標準化測試領域的空白。它將成為檢測認證、產品研發、產線質控和貿易交付的“統一標尺”，為後續標準體系完善、國際標準制定及鈣鈦礦光伏產業化推廣應用提供關鍵技術支撐。
-
----
-
-### 2026-09-18 10:00:22  #MKT News #Commodities #Energy
-
-Refinitiv shipping data showed four merchant vessels transited the Strait of Hormuz on Thursday, below the 10-day average of about 16.
-
----
-
-### 2026-09-18 09:59:52  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish #BX.O
-
-【India approves loans of over 30 bln rupees each to four data centers to back AI buildout】India's largest state-owned infrastructure finance institution has approved loans of more than 30 billion rupees (about $313m) apiece to at least four data centers to support AI infrastructure. Managing director Rajkiran Rai G. said the facilities carry a five-year moratorium followed by repayment over the next 10 years. Lender demand underscores rising corporate capex on large data-center projects; global investors from EQT AB and Blackstone to Alphabet, and domestic groups including Adani Group, have pledged billions to build AI compute capacity in India.
-
----
-
-### 2026-09-18 09:59:49  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share pharmaceutical distribution sector rose; Hefu China hit the daily limit-up, while Luyan Pharmaceutical, Runda Medical, Huaren Health, Shuyu Pingmin and Saili Medical also advanced.
-
----
-
-### 2026-09-18 09:58:49  #市場
-
-【醫藥商業板塊走高，合富中國觸及漲停】醫藥商業板塊走高，合富中國觸及漲停，鷺燕醫藥、潤達醫療、華人健康、漱玉平民、塞力醫療跟漲。
-
----
-
-### 2026-09-18 09:58:43  #MKT News #Macro & Rates #XAUUSD #Impact bullish #WTI
-
-【RBA: Inflation risks skewed to the upside; inflation expectations may be shifting】Reserve Bank of Australia Governor Bullock told a parliamentary committee firms are increasingly forming a view that high inflation may not fall back below 3%. She said businesses are asking whether inflation will decline, which is a concern. Bullock reiterated the RBA’s dual mandate of full employment and a 2%-3% inflation target and warned the longer inflation stays above target, the greater the risk that inflation expectations begin to adjust upward. She said inflation risks are tilted to the upside, driven partly by concerns over expectations and by incoming supply shocks — including from the Middle East and weather-related events — alongside demand-side pressures.
-
----
-
-### 2026-09-18 09:58:36  #其他
-
-【萬家寨水利樞紐今天開始大流量下洩排沙】今天（9月18日）下午，位於晉蒙交界的黃河萬家寨水利樞紐將開始大流量下洩排沙。此前，9月12日起，劉家峽、沙坡頭等上游水庫已相繼啟動聯合排沙運用，為下游排沙塑造了有利的水沙條件。本次萬家寨水庫排沙排程計劃將進行10天左右，預計總出庫沙量可達到3440萬噸。透過大流量下洩沖刷庫區淤積泥沙，可有效幫助水庫排沙減淤，持續恢復水庫庫容。（央視新聞）
-
----
-
-### 2026-09-18 09:58:18  #其他
-
-李在明：未能充分傾聽那些因其政策而受傷害的人的心聲。
-
----
-
-### 2026-09-18 09:57:58  #公司
-
-【國家電投集團發電總裝機突破3億千瓦】據國家電投集團近日訊息，隨著一批專案併網，該集團發電總裝機容量突破3億千瓦，到2026年8月底已重新整理至超3.13億千瓦，能源供給能力邁上新臺階。據悉，2025年國家電投集團年發電量超過7400億千瓦時，是2015年發電量的近2倍，供熱面積約5億平方米，惠及8個省份1360萬人。
-
----
-
-### 2026-09-18 09:57:44  #其他
-
-李在明表示自身不足在於缺乏考量、關注與溝通。
-
----
-
-### 2026-09-18 09:57:27  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-09-18 09:57:01  #公司 #市場
-
-【近端次新概念反覆活躍 錫華科技4連板】近端次新概念反覆活躍，錫華科技4連板，此前馬礦股份、陝西旅遊、海安集團漲停，C沈鼓收窄跌幅至9%，早盤一度跌近30%，騰信精密、惠科股份、固德電材、託倫斯均漲超5%。
-
----
-
-### 2026-09-18 09:56:12  #市場
-
-港股機器人概念股強勢衝高，其中，雲跡大漲超16%領銜上漲，翼菲科技漲超7%，優地機器人漲近5%，黑芝麻智慧漲近4%，正規化智慧漲3.5%，華虹宏力、華沿機器人漲超3%，越疆、仙工智慧、兆威機電、臥安機器人漲超2%。
-
----
-
-### 2026-09-18 09:55:18  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share wind-power equipment sector spiked briefly; Xihua Technology hit the daily limit, while Zhenhong, Luozhou, Yunda, Taisheng Wind Energy and Mingyang Smart Energy also rallied.
-
----
-
-### 2026-09-18 09:54:43  #公司 #市場
-
-【風電裝置板塊短線拉昇，錫華科技漲停】風電裝置板塊短線拉昇，錫華科技漲停，振宏股份、洛軸股份、運達股份、泰勝風能、明陽智慧等跟漲。
-
----
-
-### 2026-09-18 09:54:05  #其他
-
-【加強涉企侵權資訊管理 中央網信辦要求平臺主動清理五大類】中央網信辦釋出《關於加強涉企侵權資訊管理 持續推動營商網路環境最佳化的通知》，通知明確處置範圍，內容如下：處置涉企侵權資訊，事關企業、企業家切身利益，事關人民群眾切身權益。經過一段時間實踐，各方對處置涉企侵權資訊已形成共識。網站平臺對以下涉企侵權資訊，應當積極主動清理處置。1.個人資訊類。包括洩露企業家身份證、護照、戶籍檔案、家庭住址、電話號碼等個人身份及聯絡資訊，以及生物識別、醫療健康、金融賬戶、行蹤軌跡等敏感個人資訊。2.侮辱貶損類。包括侮辱謾罵企業、企業家，惡搞醜化企業標識、產品和企業家肖像，將企業、企業家與色情低俗話題惡意關聯，使用汙名化詞彙詆譭企業、企業家或特定品牌使用者。3.假冒仿冒類。包括假冒仿冒新聞單位制作釋出的涉企監督資訊，假借企業或企業家名義釋出的資訊，在公眾賬號名稱、頭像、簡介中，擅自使用與企業相同或相似的名稱標識或企業家姓名肖像。4.虛假誤導類。包括斷章取義、歪曲解讀企業家過往言論，呈現與事實不符的搜尋關鍵詞聯想、搜尋落地頁結果，已經權威闢謠、澄清的不實資訊，與企業、企業家在超大平臺上的官方賬號釋出的公開宣告不符資訊。5.其他類。包括涉企拉踩引戰資訊，集納翻炒的企業舊聞舊事、負面資訊，已被本平臺處置過的涉企侵權資訊，機器人賬號、網路水軍賬號釋出的涉企評論資訊，明顯違背公序良俗抹黑詆譭企業、企業家資訊。網站平臺應當根據本通知要求，健全資訊內容管理制度，完善最佳化平臺社群規則，將涉企資訊納入日常內容稽核處置範圍，強化賬號、MCN機構管理，切實增強工作主動性、針對性和實效性。網信部門要落實屬地管理責任，指導所在地網站平臺完善制度，加強涉企資訊內容管理，及時清理涉企侵權資訊。對重視程度不足、落實力度不夠特別是網民反映問題集中的網站平臺，依法依規從嚴處理。
-
----
-
-### 2026-09-18 09:52:47  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300
-
-China A-share retail sector surged intraday; Guoguang Chain hit the daily limit. Shanghai 900, Maoye Commercial, Guofang Group, Central Department Store and Xujiahui also rallied.
-
----
-
-### 2026-09-18 09:52:30  #MKT News #SZSE Component #Impact bullish #CSI300
-
-【Shenzhen-listed firms' 1H R&D spend 103.86 bln yuan, second to Beijing】In 1H 2026, 407 Shenzhen-listed companies reported combined R&D spending of 103.86 bln yuan, ranking only behind Beijing. R&D intensity exceeded 10% at 90 firms. Fifteen firms spent more than 1 bln yuan on R&D; two surpassed 10 bln yuan.
-
----
-
-### 2026-09-18 09:52:20  #公司
-
-【深圳上市公司上半年研發投入破千億】2026年上半年，深圳407家上市公司交出這樣一份成績單：研發費用合計1038.57億元，規模僅次於北京，90家企業研發強度超過10%，15家研發費用在10億元以上，2家在100億元以上。（深圳釋出）
-
----
-
-### 2026-09-18 09:52:17  #公司 #市場
-
-【零售板塊短線拉昇，國光連鎖漲停】零售板塊短線拉昇，國光連鎖漲停，上海九百、茂業商業、國芳集團、中央商場、徐家彙等紛紛走高。
-
----
-
-### 2026-09-18 09:52:13  #其他
-
-李在明表示公眾永遠是對的，一切都是自己的不足所致。
-
----
-
-### 2026-09-18 09:51:47  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Retreats from 2011 Highs — Australia’s 10-year government bond yield fell below 5.3%, pulling back from mid-2011 highs and tracking lower global yields as easing concerns over Middle East supply disruptions reduced inflation pressures. Oil prices retreated after Saudi Arabia worked to restore flows through its East-West pipeline, while President Trump is set to meet Gulf leaders next week. In Australia, hawkish comments from the Reserve Bank’s top official reinforced expectations for further policy tightening. Governor Michele Bullock said upside inflation risks were materializing and warned that higher costs could make inflation more persistent. Her remarks follow statements over the past month by senior RBA officials that inflation remains elevated and needs to ease further. Markets now priced at least two more rate hikes by the February meeting, with a roughly 87% chance the first occurs on September 29. That marks a notable shift from the start of September, when traders were pricing just one further hike.
-
----
-
-### 2026-09-18 09:51:17  #MKT News
-
-Recently listed stock C ShenGu rebounded; after an initial fall of over 27% at the open, its decline narrowed to 11.54%.
-
----
-
-### 2026-09-18 09:51:13  #MKT News
-
-South Korea's President Lee said he has never considered seeking re-election.
-
----
-
-### 2026-09-18 09:51:04  #其他
-
-滬指站上3900點，現漲0.66%。
-
----
-
-### 2026-09-18 09:51:03  #MKT News
-
-South Korea's Lee says he will establish separate economic and political capitals.
-
----
-
-### 2026-09-18 09:50:44  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan 20-year bond yield down 4.5bps at 3.79%.
-
----
-
-### 2026-09-18 09:50:26  #MKT News #Market Regions #Greater China
-
-China A-share helium sector active: Heyuan Gas rises over 6%, with Guanggang Gas, Baoguang Co., Shudao Equipment, Jinhong Gas and Kaimite Gas also trading higher.
-
----
-
-### 2026-09-18 09:49:48  #MKT News #Market Themes #China EV Leaders
-
-【Channel signatory change takes effect; SERES says Huawei stores will retain some AITO models】From Sept. 16, 2026 the signing party for AITO’s authorized dealer comprehensive service cooperation agreement switches from Huawei Terminal Co. to an affiliate of SERES Automotive; the prior agreement is automatically terminated. SERES denied reports that AITO will be pulled from Huawei stores in 2027, saying some HarmonyOS and Huawei-branded retail outlets will continue to sell AITO models. SERES added Huawei has not withdrawn from AITO: AITO remains a HarmonyOS member, Huawei’s technical supply and equity links persist, and AITO will remain available in Huawei consumer retail outlets largely operated by Huawei’s digital channel partners.
-
----
-
-### 2026-09-18 09:49:45  #其他
-
-李在明：我從未考慮過尋求連任。
-
----
-
-### 2026-09-18 09:49:17  #公司 #市場
-
-【電網裝置板塊異動拉昇 太陽電纜直線漲停】早盤電網裝置板塊異動拉昇，太陽電纜直線漲停，順鈉股份、中超控股、紅相股份、漢纜股份跟漲。
-
----
-
-### 2026-09-18 09:49:07  #市場
-
-【航天系概念持續走強，航天動力漲停】航天系概念持續走強，航天動力漲停，航天機電、航天發展、中國衛星、航天電子、航天智裝、航天科技等跟漲。
 
 ---

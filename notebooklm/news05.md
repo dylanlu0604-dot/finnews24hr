@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-19 23:25:43_
-_本檔包含 2616 則快訊，約 523544 字_
+_更新時間：2026-09-20 02:36:52_
+_本檔包含 2625 則快訊，約 524157 字_
+
+---
+
+### 2026-09-15 01:17:38  #觀點
+
+高盛跌超4%。
+
+---
+
+### 2026-09-15 01:16:27  #觀點
+
+摩根大通股價跌幅擴大至2%。
+
+---
+
+### 2026-09-15 01:16:10  #市場
+
+KBW銀行指數跌至當日低點，下跌1.9%。
+
+---
+
+### 2026-09-15 01:15:57  #央行 #國際
+
+4 家交易對手在美聯儲逆回購操作中獲得 14.2 億美元。
+
+---
+
+### 2026-09-15 01:13:49  #國際
+
+蘋果：Siri人工智慧功能初期將不會在歐盟地區的iOS、iPadOS和watchOS系統上推出。
+
+---
+
+### 2026-09-15 01:13:17  #其他 #焦點
+
+蘋果：推出Siri人工智慧；今日起以英文測試版開始推出，將擴充套件至五種語言。
+
+---
+
+### 2026-09-15 01:12:29  #公司 #國際
+
+美國銀行執行長表示，第三季度銷售與交易業務營收將持平。
+
+---
+
+### 2026-09-15 01:12:18  #其他
+
+蘋果：iOS 27、iPadOS 27及macOS 27現推出全新兒童安全功能。
+
+---
+
+### 2026-09-15 01:12:06  #公司 #國際
+
+美國銀行執行長表示，第三季度投行業務費用將達到16億至18億美元。
+
+---
+
+### 2026-09-15 01:11:59  #公司 #市場 #國際
+
+美國銀行股價下跌2.3%，該行執行長布賴恩·莫伊尼漢正在巴克萊全球金融服務大會發表講話。
+
+---
+
+### 2026-09-15 01:11:46  #其他
+
+胡塞武裝發言人表示，過去24小時，沙特發動54次空襲，出動自海米斯穆謝特與塔伊夫空軍基地起飛的F‑15及颱風戰機，打擊塔伊茲、拉赫季、焦夫、馬裡卜以及荷臺達各省，這一背信棄義的侵略行徑必將得到懲罰。
+
+---
+
+### 2026-09-15 01:11:05  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Bank Of America Stock Price Hits 6-week Low — Bank Of America shares decreased to 61.09 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of America lost 4.13%, and in the last 12 months, it increased 21.07%.
+
+---
+
+### 2026-09-15 01:10:26  #公司 #國際
+
+美國銀行執行長表示，消費者當前最關心的是支付能力。
+
+---
+
+### 2026-09-15 01:10:14  #國際
+
+【波羅的海交易所資料：霍爾木茲海峽運力緊缺，基準航線油輪日租成本首次破百萬美元】倫敦波羅的海交易所週一公佈的資料顯示，受伊朗戰爭影響，願意穿越霍爾木茲海峽承運貨物的油輪數量不足，石油行業基準航線的油輪租賃成本首次突破每日100萬美元。
+
+---
+
+### 2026-09-15 01:08:55  #公司 #國際
+
+美國銀行執行長布賴恩·莫伊尼漢表示，消費者信貸質量表現良好。
+
+---
+
+### 2026-09-15 01:06:17  #國際
+
+埃及總統府：沙特王儲將於週二在埃及會見塞西總統。
+
+---
+
+### 2026-09-15 01:02:26  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Eases From 7-Week High — US gasoline futures dropped to around $3.31 a gallon, after reaching a seven-week high, while President Trump stated that Ukraine and Russia had agreed to refrain from striking energy infrastructure. President Zelenskyy later confirmed and stated Kyiv's readiness to suspend attacks if Russia halts strikes on its electricity systems and other energy facilities. However, Gulf negotiations over a temporary Strait of Hormuz shipping lane were delayed, while Saudi Arabia's closure of its East-West pipeline further compounded concerns over crude availability and refinery feedstock amid ongoing infrastructure attacks and shipping disruptions. Meanwhile, prediction markets see a high probability that the average US gasoline price will surpass $4.60 in 2026, having already reached $4.32 on September 14th, according to AAA.
+
+---
+
+### 2026-09-15 01:00:28  #國際
+
+美國參議院助理及說客稱，美國參議員正就強制人工智慧巨頭承諾防範災難性風險展開辯論。
+
+---
+
+### 2026-09-15 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌1.18%，滬銅收跌1.17%，滬鋁收漲0.02%，滬鋅收跌1.19%，滬鉛收跌0.75%，滬鎳收跌0.35%，滬錫收跌2.22%。氧化鋁夜盤收漲0.52%，鋁合金收漲0.15%。不鏽鋼夜盤收漲0.04%。
+
+---
+
+### 2026-09-15 00:57:40  #市場 #焦點 #國際
+
+美國柴油期貨價格短暫回吐漲幅，交易價格接近每加侖4.96美元。
+
+---
+
+### 2026-09-15 00:55:57  #國際
+
+【萬斯：約87萬名涉嫌侵佔納稅人資金者被禁止申請聯邦貸款】美國副總統JD·萬斯稱，若有人損害美國納稅人利益，聯邦政府將終止其相關資格，不再提供支援。政府將取消約87萬人申請聯邦貸款的資格，這些人被指控盜取納稅人資金。萬斯表示，相關人員今後無法再申請這類貸款，稱該舉措“非常合乎常理”。即便提交申請，也無法獲得這類福利。
+
+---
+
+### 2026-09-15 00:51:59  #其他
+
+原油價格跌至日內低點，布倫特原油價格接近每桶106美元。
+
+---
+
+### 2026-09-15 00:48:40  #市場
+
+納斯達克100指數跌幅收窄至0.5%，此前一度下跌1.7%。
+
+---
+
+### 2026-09-15 00:48:26  #國際
+
+歐洲議會：歐洲議會將在加拿大渥太華設立辦事處，加強歐加之間聯絡。
+
+---
+
+### 2026-09-15 00:45:46  #其他
+
+伊拉克總理表示，伊拉克不會成為針對鄰國實施威脅的跳板。
+
+---
+
+### 2026-09-15 00:45:12  #國際
+
+美國副總統萬斯稱，美方永久取消87萬人獲取政府貸款的資格，針對疫情貸款專案的欺詐行為開展打擊行動。
+
+---
+
+### 2026-09-15 00:41:07  #其他
+
+泛美衛生組織：智利獲得世衛組織認證，確認消除犬傳狂犬病這一公共衛生問題。
+
+---
+
+### 2026-09-15 00:38:30  #國際
+
+【澤連斯基稱可對等停襲俄能源設施】對於美國總統特朗普稱俄烏同意不再互襲能源目標，烏克蘭總統澤連斯基當地時間9月14日晚在社交媒體平臺發帖稱，如果合作伙伴能確保俄方不再襲擊烏克蘭的能源設施、基礎設施和糧食供應通道，烏克蘭已準備好停止對俄打擊。 澤連斯基發文稱：“必須結束這場戰爭。而在關鍵基礎設施問題上採取降級措施，可能是邁向和平的第一步。我們期待合作伙伴給出具體方案。”（CCTV國際時訊）
+
+---
+
+### 2026-09-15 00:33:34  #市場 #國際
+
+【特朗普：通脹源於拜登，除油價外物價正顯著下行，伊衝突結束後油價將暴跌】特朗普稱，他希望所有人認識到，全美物價上漲是由拜登及其政府造成的，責任不在“特朗普”。他表示，拜登執政時期的油價高於當前水平，且他曾阻止伊朗獲得核武器。除油價暫時例外，物價正大幅回落；一旦與伊朗的軍事衝突結束，油價將會暴跌，而這一天不會太遠。
+
+---
+
+### 2026-09-15 00:32:30  #國際
+
+特朗普：與伊朗軍事衝突很快就會結束。
+
+---
+
+### 2026-09-15 00:32:21  #市場 #國際
+
+特朗普：伊朗衝突結束後油價將會下跌，不會太久。
+
+---
+
+### 2026-09-15 00:32:14  #國際
+
+特朗普：除石油價格暫時例外，物價將會下降。
+
+---
+
+### 2026-09-15 00:30:47  #其他
+
+沙特在關鍵輸油管道遇襲後，擬增加經由霍爾木茲海峽的石油出口。
+
+---
+
+### 2026-09-15 00:30:15  #央行 #國際
+
+俄羅斯央行：受出口貨款到賬延遲影響，8月俄羅斯企業售匯額環比下降15%，至188億美元。
+
+---
+
+### 2026-09-15 00:30:04  #Trading Economics #Economy #Mexico #Government Bond 10Y #Importance 0
+
+Mexico 10Y Bond Yield Hits 15-month High — Mexico 10 Year Government Bond Yield increased to 9.49%, the highest since May 2025. Over the past 4 weeks, Mexico 10Y Bond Yield gained 30.80 basis points, and in the last 12 months, it increased 90.00 basis points.
+
+---
+
+### 2026-09-15 00:29:32  #其他
+
+CrowdStrike漲超15%，創歷史新高。
+
+---
+
+### 2026-09-15 00:29:02  #國際
+
+【惠譽：美國私募信貸違約率升至6.3% 創下紀錄新高】惠譽評級稱，美國一組私募信貸借款人的違約率8月升至紀錄高位。週一釋出的報告顯示，8月底，1,300家借款人過去12個月私募信貸違約率升至6.3%，超過7月創下的此前高點6.1%。惠譽還表示，8月私募信貸違約事件數量創過去一年單月最高。
+
+---
+
+### 2026-09-15 00:27:21  #國際
+
+【特朗普發文：霍爾木茲海峽石油正常流通】特朗普稱，石油正經由霍爾木茲海峽輸送。他表示，世界上那些未曾向美國提供任何幫助的國家，在這場衝突鬧劇結束後應當且必將向美國作出補償。美國長期以來為他國付出的遠多於為本國所做的，這種情況已經持續了數代人。
+
+---
+
+### 2026-09-15 00:26:40  #國際
+
+特朗普：（美伊）戰後，那些沒有幫助我們的國家將補償我們。
+
+---
+
+### 2026-09-15 00:26:00  #國際
+
+【特朗普：美國高階武器產量創歷史新高，重點生產愛國者、薩德、戰斧導彈】特朗普稱，他剛剛收到一份報告，美國當前生產的精良高階武器數量創下本國歷史新高，相關裝備每日交付給部署在中東及其他地區的美軍部隊。美國國防企業工廠實行全天候運轉，每家工廠平均還在新建4至5座大型全新廠房。本輪生產重點包括愛國者導彈、薩德反導系統、戰斧導彈以及其他標準導彈系統，美方目前已持有大量該類裝備庫存。
+
+---
+
+### 2026-09-15 00:24:45  #國際
+
+特朗普：愛國者（導彈）一直是國防企業生產工作的核心重點。
+
+---
+
+### 2026-09-15 00:24:19  #國際
+
+特朗普：美國武器產量創歷史新高。
+
+---
+
+### 2026-09-15 00:24:00  #公司 #國際
+
+特朗普：我們的國防公司工廠24小時不間斷運轉。
+
+---
+
+### 2026-09-15 00:22:47  #國際
+
+歐盟委員會主席馮德萊恩將於週三會見加拿大總理卡尼。
+
+---
+
+### 2026-09-15 00:20:14  #央行 #國際
+
+歐洲央行官員馬查多：希望合成證券化產品（synthetic SRTS）提高透明度。
+
+---
+
+### 2026-09-15 00:14:59  #國際
+
+烏克蘭總統澤連斯基：若我們的夥伴能夠確保俄羅斯切實停止打擊我方電力系統、其他能源設施、關鍵基礎設施以及糧食供應通道，那麼我們當然願意相應停止己方打擊行動。
+
+---
+
+### 2026-09-15 00:13:58  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Outperforms Led by Energy Stocks — The FTSE 100 rose 0.4% on Monday, outperforming other European markets as gains in oil stocks and the index’s defensive characteristics supported sentiment. Shell and BP each rose around 1%, with Brent crude moving back towards $107 a barrel after Saudi Arabia closed a major crude pipeline following attacks, disrupting an alternative route to the Strait of Hormuz. A planned meeting between Iran and several Gulf nations on establishing a temporary shipping corridor through Hormuz was also postponed, adding to supply concerns. GSK gained more than 4.5% after positive clinical data for its lung-cancer drug Jideytro, and AstraZeneca advanced around 3.8% despite a setback for its breast-cancer drug Etcamah, which failed to outperform standard treatment in a late-stage trial. Also, Unilever and BAT added 3% and 3.7%, respectively. Meanwhile, Legal & General rose around 1.3% after launching the second £600 million tranche of its share-buyback programme.
+
+---
+
+### 2026-09-15 00:12:24  #國際
+
+澤連斯基稱，烏克蘭不相信俄羅斯願意遵守任何協議。
+
+---
+
+### 2026-09-15 00:12:11  #國際
+
+歐盟兒童法案草案擬針對社交平臺、網路遊戲、聊天機器人實施監管，違規企業最高可被處以全球營收6%的罰款。
+
+---
+
+### 2026-09-15 00:12:07  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 1.68% Lower — The FTSE MIB Index decreased 883 points or 1.68 percent on Monday to close at 51629 points. The decline was led by Prysmian (-6.86%), STMicroelectronics (-6.68%) and Tenaris (-3.73%).
+
+---
+
+### 2026-09-15 00:11:24  #公司
+
+谷歌雲：資料流批處理任務的暫停/繼續功能現已全面可用，並支援英偉達RTX PRO 6000布萊克韋爾架構圖形處理器。
+
+---
+
+### 2026-09-15 00:11:07  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.50% Lower — The DAX Index fell 128 points or 0.50 percent on Monday to close at 25441 points. Leading the losses are Siemens Energy (-8.04%), Infineon (-7.68%) and Hochtief (-5.19%). Top gainers were SAP (5.18%), Scout24 (3.35%) and Fresenius Medical Care (2.91%).
+
+---
+
+### 2026-09-15 00:10:48  #國際
+
+烏克蘭表示，已準備好落實相應的暫停打擊行動。
+
+---
+
+### 2026-09-15 00:10:26  #國際
+
+烏克蘭總統澤連斯基表示，只要俄羅斯同意，烏克蘭願意達成能源停火協議。
+
+---
+
+### 2026-09-15 00:10:07  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.81% Lower — The CAC 40 Index dropped 67 points or 0.81 percent on Monday to close at 8113 points. Losses were led by Legrand (-6.82%), Schneider Electric (-6.81%) and STMicroelectronics (-6.18%). Offsetting the fall, top gainers were Capgemini (6.61%), Dassault Systemes (4.99%) and TP (4.11%).
+
+---
+
+### 2026-09-15 00:09:41  #公司
+
+理財公司ORION：作為面向金融顧問的Claude釋出合作伙伴，擴大與Anthropic的合作。
+
+---
+
+### 2026-09-15 00:09:20  #國際
+
+烏克蘭總統澤連斯基表示，烏方提議由其夥伴國家與俄羅斯達成相關協議。
+
+---
+
+### 2026-09-15 00:09:14  #國際
+
+【伊拉克北部庫區遭5枚火箭彈襲擊】伊拉克北部庫爾德自治區（庫區）安全部門14日發表宣告說，庫區蘇萊曼尼亞省當天凌晨遭5枚火箭彈襲擊，未造成人員傷亡。一名庫區安全人士告訴記者，此次火箭彈襲擊的目標是伊朗庫爾德反政府武裝的營地。目前有關部門已對襲擊事件展開調查。伊拉克庫區山區分佈著多個伊朗庫爾德反對派武裝據點，此前曾多次遭到伊朗安全部隊的導彈和無人機跨境打擊。(新華社)
+
+---
+
+### 2026-09-15 00:07:54  #公司
+
+西班牙美妝集團PUIG同意以12億歐元，從Esteve製藥收購怡思丁（ISDIN）。
+
+---
+
+### 2026-09-15 00:07:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index went up by 41 points or 0.39 percent on Monday to close at 10692 points. The rise was led by The Sage Group (6.05%), Relx (5.43%) and GlaxoSmithKline (4.72%). On the downside, the weakerst performers were Antofagasta (-5.38%), Halma (-5.12%) and Weir (-4.33%).
+
+---
+
+### 2026-09-15 00:06:24  #其他
+
+國際原子能機構表示，第70屆國際原子能機構大會批准東帝汶成為新成員國，機構成員國總數達到182個。
+
+---
+
+### 2026-09-15 00:04:40  #國際
+
+【丹麥首相：希望與美國透過合作解決格陵蘭島問題】丹麥首相弗雷澤裡克森14日在芬蘭北部城市羅瓦涅米表示，希望丹麥與美國在北極和格陵蘭島問題上透過合作找到解決方案。
+
+---
+
+### 2026-09-15 00:04:07  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Near Three-Year High — Canada’s 10-year government bond yield rose to near 3.95% in September, its highest level in nearly three years, amid a global bond selloff driven by the crude oil rally and following the release of in-line domestic CPI data. Another surge in oil prices added to inflationary pressures as Canadian consumer price growth remained dominated by energy goods. The CPI rose 3.0% year over year in August, unchanged from July and matching market expectations. Still, underlying price pressures showed no broad acceleration as core gauges tracked by the BoC were unchanged near the 2% target. However, the oil rally continues to fuel inflation concerns and bets on a US Fed rate hike on September 16th. The BoC held its key rate at 2.25% at its latest meeting, but Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated.
 
 ---
 
@@ -15509,329 +15887,5 @@ Tesla said it will hold a launch event on Oct. 1 but gave no details on the prod
 ### 2026-09-13 02:41:04  #MKT News #Market Regions #Emerging Markets
 
 【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership.
-
----
-
-### 2026-09-13 02:32:48  #市場 #焦點
-
-奈飛暗盤突破80美元，日內漲4.9%。
-
----
-
-### 2026-09-13 02:31:04  #國際
-
-美國演員約翰·馬爾科維奇憑藉《野馬九號》斬獲威尼斯電影節最佳男主角獎。
-
----
-
-### 2026-09-13 02:27:37  #其他
-
-丹麥演員瑪蒂爾德·阿塞爾憑藉《無名女人》斬獲威尼斯電影節最佳女主角獎。
-
----
-
-### 2026-09-13 02:24:59  #MKT News #Brent #Impact bullish #WTI #DXY
-
-UK foreign secretary spoke with the Saudi foreign minister to discuss Houthi aggression and recent attacks on Saudi Arabia; the UK said it stands firmly with Saudi Arabia and Yemen's internationally recognized government and opposes all attacks.
-
----
-
-### 2026-09-13 02:22:30  #MKT News
-
-【Ukrainian official says Ukraine preparing October trilateral talks with US and Russia】Kyrylo Budanov, head of the Ukrainian presidential office, said on the 12th local time that Ukraine is preparing a new round of trilateral talks with Russia and the US in October. He gave no details on venue or other specifics, including whether talks would be held in the Middle East.
-
----
-
-### 2026-09-13 02:20:47  #公司
-
-【Anthropic呼籲放慢先進AI模型開發 馬斯克等業界大佬表示贊同】Anthropic執行長Dario Amodei表示，人工智慧行業需要放慢新模型的開發速度，並提到人們越來越擔憂人工智慧會給人類帶來“嚴重”風險。 “我們必須放慢提升人工智慧模型能力的速度，”他週六在一篇部落格文章中寫道，“進步看起來仍會很快，我們必須明智利用由此爭取到的時間。”Amodei發文後不久，馬斯克在社交媒體表示：“Dario是對的。” OpenAI執行長Sam Altman也很快發表看法，表示他贊同Amodei所說的“我們需要控制前沿模型的發展節奏”。 他表示：“讓獨立評估人員獲得類似員工的訪問許可權是一個很好的主意，我們也會這麼做。我們很快會分享更多資訊。”
-
----
-
-### 2026-09-13 02:18:59  #焦點 #國際
-
-【烏官員：烏克蘭準備10月舉行新一輪烏美俄三方談判】烏克蘭總統辦公室主任布達諾夫當地時間12日表示，烏克蘭正準備在10月舉行新一輪談判，談判將採取烏克蘭、俄羅斯和美國三方參與的形式。布達諾夫沒有透露未來談判是否將在中東等地舉行等具體資訊。此前一天，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，克里姆林宮預計，在近期俄羅斯、美國和烏克蘭能夠舉行三方會晤並繼續對話。（央視新聞）
-
----
-
-### 2026-09-13 02:17:46  #其他
-
-英國外交大臣：英國堅定地與沙烏地阿拉伯及國際公認的葉門政府站在一起，共同反對這些襲擊。
-
----
-
-### 2026-09-13 02:17:38  #其他
-
-英國外交大臣：與沙特外交大臣通話，討論葉門胡塞武裝的進攻行為及針對沙烏地阿拉伯的襲擊。
-
----
-
-### 2026-09-13 02:10:46  #MKT News #Important #SPCX.O #Impact bullish
-
-【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock.
-
----
-
-### 2026-09-13 02:06:39  #MKT News
-
-Market sources say SpaceX will increase its weight in the Nasdaq-100 following the index rebalancing.
-
----
-
-### 2026-09-13 02:06:25  #MKT News #Brent
-
-【Iran, Oman to brief Gulf states on Strait of Hormuz navigation talks】Iran and Oman expect to brief Gulf states at a regional meeting on the 14th on the outcome of their consultations on navigation in the Strait of Hormuz, Iran foreign ministry spokesman Baghaei said, Al Jazeera reported on the 12th.
-
----
-
-### 2026-09-13 02:05:51  #國際
-
-【伊朗和阿曼將通報霍爾木茲海峽通航磋商結果】據卡達半島電視臺12日報道，伊朗外交部發言人巴加埃表示，伊朗和阿曼預計將在14日舉行的相關地區會議上，向海灣國家通報兩國有關霍爾木茲海峽通航問題的磋商結果。（新華社）
-
----
-
-### 2026-09-13 02:02:23  #其他
-
-沙特民防部門：沙特海米斯穆謝特地區已釋出緊急警報，警示潛在危險。
-
----
-
-### 2026-09-13 02:02:00  #其他 #焦點
-
-【SpaceX將於本次再平衡後提高在納斯達克100指數中的權重】本月晚些時候，SpaceX在納斯達克100指數中的權重將會上調，這可能促使追蹤該基準指數的被動基金產生數十億美元的買入需求。根據納斯達克全球指數觀察平臺的預估資料，其權重預計將從約1.28%升至約2.82%。權重上調意義重大，因為掛鉤該指數的被動基金必須相應調整持倉，其中包括規模4810億美元的景順QQQ信託1號基金。
-
----
-
-### 2026-09-13 02:01:03  #其他 #焦點
-
-SpaceX將在指數再平衡後提升在納斯達克100指數中的權重。
-
----
-
-### 2026-09-13 01:59:35  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian state media reports two explosions were heard on Qeshm Island, with the sounds originating from the sea.
-
----
-
-### 2026-09-13 01:58:20  #國際
-
-伊朗媒體：格什姆島海域聽到兩次爆炸聲。
-
----
-
-### 2026-09-13 01:56:22  #MKT News #Market Themes #AI Revolution
-
-【Anthropic’s Amodei, Altman and Musk urge slowdown in AI model development】Anthropic CEO Dario Amodei said in a long blog post the firm will adopt new safety measures, including third‑party assessments, and urged an industry‑wide slowdown in AI model development. OpenAI CEO Sam Altman said he will adopt Amodei’s proposal to grant independent assessors employee‑like access. xAI’s Elon Musk publicly backed Amodei. Despite longstanding warnings from these leaders, coordinated restraint would be unprecedented in a fiercely competitive sector where firms regularly launch new products to boost engagement and sales. It remains unclear how extensively leading AI companies will implement new limits or safety checks.
-
----
-
-### 2026-09-13 01:47:28  #MKT News
-
-Yemen's foreign ministry urged the international community to take urgent action on the humanitarian consequences of Houthi escalation.
-
----
-
-### 2026-09-13 01:18:30  #其他
-
-【孫心然首奪大滿貫青少年組冠軍】北京時間9月13日凌晨，2026美網青少年組女單決賽，頭號種子孫心然以6-4、4-6、6-0戰勝5號種子普什卡列娃，連續三站大滿貫晉級決賽終於圓夢，首奪大滿貫青少年組冠軍。（央視新聞）
-
----
-
-### 2026-09-13 01:05:15  #國際
-
-伊朗外交部發言人：伊朗與阿曼將在預計於週一舉行的地區外長會議上，向區域國家通報雙方就霍爾木茲海峽安全通行開展磋商的情況。
-
----
-
-### 2026-09-13 01:05:08  #國際
-
-伊朗訊息人士：進入波斯灣的航道完全位於伊朗領海內，而波斯灣的部分出航道同樣處在伊朗領土範圍內。
-
----
-
-### 2026-09-13 01:01:46  #國際
-
-【佩斯科夫：俄總統普京是否參加G20峰會尚未確定】在回應烏克蘭總統澤連斯基有關希望在G20峰會期間與俄總統普京會面的表態時，俄總統新聞秘書佩斯科夫表示，普京是否參加G20峰會尚未確定。如果澤連斯基想見普京，可以來莫斯科，邀請仍然有效。此外圍繞俄烏衝突，佩斯科夫當天對俄羅斯《訊息報》表示，歐洲未主動提出任何推動烏克蘭問題談判的方案。佩斯科夫說，誰想要談判，就會去尋求談判，但歐洲沒有這樣做。（央視新聞）
-
----
-
-### 2026-09-13 01:01:07  #國際
-
-烏克蘭經濟部長：據估算，俄羅斯空襲今年已造成烏克蘭基礎設施與固定資產損失100億美元。
-
----
-
-### 2026-09-13 01:00:47  #國際
-
-烏克蘭經濟部長表示，約400億美元的烏克蘭出口收入因封鎖面臨風險。
-
----
-
-### 2026-09-13 01:00:37  #國際
-
-烏克蘭經濟部長稱，烏港口被毀及港口封鎖對經濟造成的損失約佔該國今年GDP的1.5%。
-
----
-
-### 2026-09-13 00:46:16  #公司 #焦點
-
-【埃裡森取消出售至多5000萬股甲骨文股票的計劃 甲骨文暗盤漲超2%】甲骨文公司週六表示，董事長拉里·埃裡森取消了出售不超過5000萬股該公司股票的計劃。“在該計劃之下沒有甲骨文股票被出售，他也沒有其他出售所持任何甲骨文股票的計劃，”該公司在一份宣告中表示。甲骨文於週五披露了上述股票出售計劃。甲骨文暗盤漲超2%，現報150.23美元。
-
----
-
-### 2026-09-13 00:45:07  #市場 #焦點
-
-奈飛暗盤跌超2%，現報75.689美元。
-
----
-
-### 2026-09-13 00:39:27  #公司
-
-OpenAI CEO奧特曼：我同意達里奧的觀點，我們需要把控前沿技術的推進節奏。這是最近幾周OpenAI內部討論的核心議題。承諾設立擁有類似員工訪問許可權的獨立評估人員是個好主意，我們也將落實該舉措。不久後我們會公佈更多資訊。
-
----
-
-### 2026-09-13 00:38:27  #市場 #焦點
-
-甲骨文暗盤漲超2%，現報150.23美元。
-
----
-
-### 2026-09-13 00:37:18  #國際
-
-伊朗訊息人士：霍爾木茲海峽的重新開放完全取決於美國是否執行伊朗提出的條件。
-
----
-
-### 2026-09-13 00:37:06  #國際
-
-伊朗訊息人士：海灣阿拉伯國家合作委員會(GCC)成員國將被告知伊朗與阿曼談判的結果及阿曼會議的決定。
-
----
-
-### 2026-09-13 00:36:54  #國際
-
-伊朗訊息人士：伊拉克也將出席週一在阿曼舉行的會議。
-
----
-
-### 2026-09-13 00:36:50  #國際
-
-伊朗訊息源：儘管美國堅持要求重新開放，但南部航道仍將關閉。
-
----
-
-### 2026-09-13 00:33:24  #公司
-
-OpenAI CEO奧特曼：我同意阿莫迪的看法，我們需要把控前沿技術的推進節奏。
-
----
-
-### 2026-09-13 00:32:26  #公司
-
-【伊拉克與Keppt公司簽署阿杰勒油田開發協議】伊拉克內閣釋出宣告稱，與Keppt公司簽署開發協議，開發該國北部阿吉爾油田的油氣產能。這份為期25年的合同目標是將原油日產量從3萬桶提升至4萬桶，伴生氣日產量從1.35億標準立方英尺提升至3億標準立方英尺。
-
----
-
-### 2026-09-13 00:31:17  #市場 #焦點
-
-甲骨文暗盤漲超1%，現報149.325美元。
-
----
-
-### 2026-09-13 00:26:11  #其他
-
-馬斯克：Grok現已在微軟Copilot上線。
-
----
-
-### 2026-09-13 00:25:39  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemen's prime minister said the Houthi militia's escalatory actions are wide-ranging and extremely dangerous, have extended beyond Yemen, and are linked to an Iranian agenda that threatens regional security and maritime safety.
-
----
-
-### 2026-09-13 00:24:07  #MKT News
-
-【Houthi source rejects claims international ships face risk transiting Bab el‑Mandeb】Al Jazeera, citing Yemen’s Al-Masirah TV, quoted a source at the Houthi-controlled transport ministry saying 73 vessels transited the Bab el‑Mandeb on Sept. 10-11 — 36 on Sept. 10 and 37 on Sept. 11. The source said a ban on Saudi vessels did not impede international shipping and that 48‑hour transit volume equaled 98.6% of the pre‑ban average, arguing the data disproves claims that merchant shipping faces heightened risk after Houthi control of Yemen’s Red Sea coast.
-
----
-
-### 2026-09-13 00:20:58  #其他 #焦點
-
-【拉里·埃裡森撤銷甲骨文股票出售計劃】一份宣告顯示，拉里·埃裡森已撤銷其10b5-1規則下的甲骨文股票出售計劃。該計劃下未售出任何甲骨文股票，且他暫無其他出售甲骨文股票的計劃。
-
----
-
-### 2026-09-13 00:20:03  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) chairman Larry Ellison has canceled a planned sale of Oracle stock and has no other sale plans.
-
----
-
-### 2026-09-13 00:18:46  #公司 #焦點
-
-拉里·埃裡森取消甲骨文10B5-1售股方案，暫無其他減持計劃。
-
----
-
-### 2026-09-13 00:17:03  #公司
-
-拉里·埃裡森取消出售甲骨文公司股票的計劃。
-
----
-
-### 2026-09-13 00:13:54  #其他
-
-【張雪：期待用5到10年培養出中國的摩托車世界冠軍】“張雪機車”創始人張雪12日表示，期待能用5到10年時間，培養出中國的摩托車世界冠軍。（新華社）
-
----
-
-### 2026-09-13 00:11:08  #MKT News
-
-Saudi media Alhadath reports Yemeni warplanes carried out three airstrikes on Houthi militia assembly points in the Ghulaymah area of Al Bayda province, Yemen.
-
----
-
-### 2026-09-13 00:10:37  #其他
-
-黎巴嫩：以軍密集炮擊黎巴嫩南部阿里·塔赫爾高地。
-
----
-
-### 2026-09-13 00:07:04  #MKT News #Commodities #Energy
-
-Iraq Prime Minister's Office says the development contract for the Ajil oil field aims to raise output from 30,000 b/d to 40,000 b/d.
-
----
-
-### 2026-09-13 00:06:58  #MKT News #Commodities #Energy
-
-Iraq's prime minister's office said the government has signed a 25-year contract with private energy firm KEPPT to develop the Ajil oilfield and raise gas output from 135 mln cubic feet per day to 300 mln cubic feet per day.
-
----
-
-### 2026-09-12 23:52:38  #國際
-
-烏克蘭總統澤連斯基：烏克蘭如今在戰場上的實力遠強於去年。要知道，俄羅斯每月損失3萬餘人。戰場推進如此緩慢，俄方為此付出巨大代價。因此我們認為，當前我們擁有開展談判的有利地位。
-
----
-
-### 2026-09-12 23:38:38  #公司
-
-墨西哥國家石油公司稱，墨西哥灣原油洩漏已得到控制。
-
----
-
-### 2026-09-12 23:37:23  #其他
-
-【第37屆上海旅遊節大巡遊活動拉開帷幕，陳吉寧出席啟動活動】黃浦江畔流光溢彩，巡遊花車各展風采，市民遊客如約而至，在這個“人民大眾的節日”共享城市美好與歡樂。今天（9月12日）晚上，2026年第37屆上海旅遊節大巡遊活動正式拉開帷幕。市委書記陳吉寧出席啟動活動。（第一財經）
-
----
-
-### 2026-09-12 23:35:40  #市場 #國際
-
-【加州柴油價格創歷史新高】美國加州柴油價格飆升至歷史紀錄水平，全州平均油價突破每加侖8美元，聖地亞哥一處加油站標價達9.99美元。燃油供應不足、煉油產能下降、管道運力有限以及該州高額稅費加劇了這場危機，而全球衝突進一步給能源市場帶來壓力。柴油價格上漲重創高度依賴柴油的行業，包括貨運、搬家與建築企業。隨著燃料成本暴漲，眾多企業被迫漲價或接受利潤縮水，推高通脹，令普通消費者購買商品和服務的成本上升。
 
 ---
