@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-19 19:13:49",
-  "count": 13486,
+  "updated": "2026-09-19 19:17:39",
+  "count": 13484,
   "items": [
+    {
+      "id": "mkt:01a0b961-0d0a-7118-860f-ee171fa00d08",
+      "time": "2026-09-19 19:15:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Michael Marra elected Scottish Labour leader】Michael Marra was elected leader of Scottish Labour on the 19th, replacing Anas Sarwar; Marra received 4,266 votes to rival Joe Fegan's 2,485. Scottish Labour remains under pressure after losing ground to the Scottish National Party (SNP) in May's Scottish Parliament election."
+    },
+    {
+      "id": "5103211",
+      "time": "2026-09-19 19:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【邁克爾·馬拉當選英國蘇格蘭工黨新任黨首】當地時間19日，邁克爾·馬拉當選為英國蘇格蘭工黨新任黨首，接替此前辭職的阿納斯·薩瓦爾。據悉，邁克爾·馬拉獲得4266票，其競爭對手喬·費根獲得2485票。馬拉表示，擔任蘇格蘭工黨黨首是“人生中的榮譽”，並表示將致力於推動建設更加公平、平等的蘇格蘭。"
+    },
     {
       "id": "mkt:01a0b95e-aeca-7118-860f-e6d203f3ea73",
       "time": "2026-09-19 19:13:05",
@@ -123705,38 +123723,6 @@
         "國際"
       ],
       "text": "特朗普表示，愛爾蘭及其他國家正以“創紀錄的數量”購買美國軍事裝備。"
-    },
-    {
-      "id": "5090777",
-      "time": "2026-09-12 19:16:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對美國武器（包括“愛國者”導彈）的需求“驚人”。"
-    },
-    {
-      "id": "5090776",
-      "time": "2026-09-12 19:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國國防工業基礎正在迅速增長。"
-    },
-    {
-      "id": "5090775",
-      "time": "2026-09-12 19:15:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱愛爾蘭正在擴大軍事投資。"
-    },
-    {
-      "id": "5090774",
-      "time": "2026-09-12 19:15:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：委內瑞拉，我們掌控了局勢。我們贏得了這場戰爭。"
     }
   ]
 }

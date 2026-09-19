@@ -1,7 +1,25 @@
 {
   "date": "2026-09-19",
-  "count": 884,
+  "count": 886,
   "items": [
+    {
+      "id": "mkt:01a0b961-0d0a-7118-860f-ee171fa00d08",
+      "time": "2026-09-19 19:15:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Michael Marra elected Scottish Labour leader】Michael Marra was elected leader of Scottish Labour on the 19th, replacing Anas Sarwar; Marra received 4,266 votes to rival Joe Fegan's 2,485. Scottish Labour remains under pressure after losing ground to the Scottish National Party (SNP) in May's Scottish Parliament election."
+    },
+    {
+      "id": "5103211",
+      "time": "2026-09-19 19:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【邁克爾·馬拉當選英國蘇格蘭工黨新任黨首】當地時間19日，邁克爾·馬拉當選為英國蘇格蘭工黨新任黨首，接替此前辭職的阿納斯·薩瓦爾。據悉，邁克爾·馬拉獲得4266票，其競爭對手喬·費根獲得2485票。馬拉表示，擔任蘇格蘭工黨黨首是“人生中的榮譽”，並表示將致力於推動建設更加公平、平等的蘇格蘭。"
+    },
     {
       "id": "mkt:01a0b95e-aeca-7118-860f-e6d203f3ea73",
       "time": "2026-09-19 19:13:05",
