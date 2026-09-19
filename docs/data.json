@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-19 10:31:34",
-  "count": 13573,
+  "updated": "2026-09-19 10:35:21",
+  "count": 13575,
   "items": [
+    {
+      "id": "5103022",
+      "time": "2026-09-19 10:34:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【湖南：今年前8個月出口汽車21.9萬輛，同比增加62.5%】長沙海關釋出，今年前8個月，湖南出口汽車21.9萬輛，同比增加62.5%，增長幅度再創新高；出口總貨值279.6億元，增長30.7%，佔同期湖南省出口總值的12.6%。 近日，235臺吉利新能源汽車以分送集報模式通關，從湘潭綜合保稅區集中發運埃及。海外電動車市場需求旺盛，湖南電動汽車出口保持增長。前8個月，湖南出口電動汽車92367輛，增加53.4%，佔同期湖南汽車出口總量的42.1%；出口值97.5億元，增長21.4%，佔同期全省汽車出口總值的34.9%。其中，乘用車出口量佔比超八成，純電動客車（10座及以上）出口貨值2.8億元，增長177.2%。"
+    },
+    {
+      "id": "5103021",
+      "time": "2026-09-19 10:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓官員：李在明並未拒絕特朗普協助對伊戰爭的要求】韓國總統府一名匿名官員稱，韓國總統李在明並未拒絕唐納德·特朗普總統提出的要求，即協助華盛頓開展對伊朗的戰爭。週五記者會上，儘管特朗普施加壓力，李在明仍排除向霍爾木茲海峽派遣軍隊、加入美國對伊朗作戰的可能性。該官員稱，韓國仍在研究具體的協助方式，在不介入戰爭、不參與作戰行動的前提下做出貢獻。"
+    },
+    {
+      "id": "5103020",
+      "time": "2026-09-19 10:33:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，海爾季的危險已經解除。"
+    },
+    {
+      "id": "5103019",
+      "time": "2026-09-19 10:31:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，利雅得的危險已經解除。"
+    },
+    {
+      "id": "5103018",
+      "time": "2026-09-19 10:30:35",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓美同意就韓國擬在美3500億美元投資專案舉行雙邊會談】韓國外交部表示，韓美兩國外長週五在華盛頓會晤，雙方同意共同努力，爭取就韓國擬在美國開展的投資專案舉行雙邊會談並取得“良好”成果。趙顯外長與美國國務卿魯比奧在國務院會面。兩國正圍繞相關投資專案展開磋商，這是落實去年雙邊貿易協議工作的一部分。根據該協議，首爾方面承諾在美國投資3500億美元。外界原本預計韓美將於週五（韓國時間）公佈韓國首個投資專案。但據報道，由於向韓國國會進行相關彙報的安排推遲，該公告將延後至下週釋出。"
+    },
     {
       "id": "5103017",
       "time": "2026-09-19 10:28:06",
@@ -124498,30 +124540,6 @@
         "XAUUSD"
       ],
       "text": "【Transits through Bab al-Mandeb fall to single digits after Houthi capture of Mocha】After Yemen’s Houthi forces seized Red Sea port Mocha, vessel transits through the Bab al-Mandeb Strait fell to single digits on the 10th. As of 1500 local time on the 10th, six ships transited the strait, versus 30 on the 9th, 26 on the 8th and 29 on the 7th. Of the six, five departed carrying grain, crude oil, coal and fertilizer; one vessel entered. The Bab al-Mandeb links the Red Sea and the Gulf of Aden and handles roughly 12% of global trade."
-    },
-    {
-      "id": "mkt:01a09376-490c-7118-8553-2ef54bb6b940",
-      "time": "2026-09-12 10:33:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump asked the Smithsonian Institution to place the 11-foot Washington statue, recently displayed at the “Freedom 250 Grand Prix,” in the museum’s National Flag Hall and to hold an unveiling on Constitution Day, Sept. 17, 2026."
-    },
-    {
-      "id": "mkt:01a09375-a416-7118-8553-24ac553564a5",
-      "time": "2026-09-12 10:32:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada says no formal trade talks with U.S.】Canadian media reported on Sept. 11 that the minister responsible for Canada–U.S. trade said there are no formal trade negotiations with the United States, though he remains in contact with U.S. Trade Representative Greer and U.S. Commerce Secretary Howard Lutnick. He warned the two countries' escalating trade dispute is a key government concern and said Ottawa must be prepared for a potential agreement, which would have to respect Canadian sovereignty and national interests."
-    },
-    {
-      "id": "5090541",
-      "time": "2026-09-12 10:32:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普要求史密森尼學會安放一尊11英尺高的華盛頓雕像。"
     }
   ]
 }
