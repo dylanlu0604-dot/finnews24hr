@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20 02:25:38",
-  "count": 13484,
+  "updated": "2026-09-20 02:29:23",
+  "count": 13485,
   "items": [
+    {
+      "id": "mkt:01a0baea-e8db-7118-8611-ea5acb00e815",
+      "time": "2026-09-20 02:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Saudi Arabia may have military needs, and Turkey will evaluate them under the trilateral defense agreement signed with Pakistan."
+    },
+    {
+      "id": "5103539",
+      "time": "2026-09-20 02:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：沙烏地阿拉伯或存在軍事需求，我們將把該事宜納入我們與巴基斯坦三邊防務協定的框架下進行研究。"
+    },
     {
       "id": "mkt:01a0bae9-d985-7118-8611-e17076266c84",
       "time": "2026-09-20 02:24:42",
@@ -123798,14 +123814,6 @@
         "國際"
       ],
       "text": "美國演員約翰·馬爾科維奇憑藉《野馬九號》斬獲威尼斯電影節最佳男主角獎。"
-    },
-    {
-      "id": "5091007",
-      "time": "2026-09-13 02:27:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥演員瑪蒂爾德·阿塞爾憑藉《無名女人》斬獲威尼斯電影節最佳女主角獎。"
     }
   ]
 }
