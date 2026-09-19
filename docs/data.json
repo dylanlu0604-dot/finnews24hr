@@ -1,7 +1,626 @@
 {
-  "updated": "2026-09-19 20:11:38",
-  "count": 13481,
+  "updated": "2026-09-19 22:10:42",
+  "count": 13494,
   "items": [
+    {
+      "id": "5103310",
+      "time": "2026-09-19 22:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【香港海關偵破一宗歷來最大海路販運毒品案】香港海關19日公佈，近日在葵涌海關大樓驗貨場偵破一宗歷來最大海路販運毒品案件，檢獲約535公斤疑似大麻花，3名懷疑涉案男子被捕。（新華社）"
+    },
+    {
+      "id": "mkt:01a0b9fb-e014-7118-8611-00470e1275eb",
+      "time": "2026-09-19 22:04:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A CNN reporter was denied entry to the White House this morning and had press credentials confiscated, CNN said. The previous day, Trump said he would 'ban' CNN, MS NOW and Politico from White House access."
+    },
+    {
+      "id": "mkt:01a0b9fb-1d20-7118-8610-fe330f029681",
+      "time": "2026-09-19 22:03:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【California creates AI safety panel to consider 'kill switch'; experts flag implementation, systemic risks】California Governor Newsom signed an executive order forming an expert panel to draft AI safety guidance, with an AI “kill switch” under consideration. Experts say implementing a coordinated shutdown across global hyperscale infrastructure is technically and operationally difficult: hyperscalers have invested billions in data centers with thousands of machines, chips, servers and redundancies, complicating any centralized cutoff. Mark Nitzberg, director of UC Berkeley’s Center for Human-Compatible AI, warned shutdowns could ripple into critical infrastructure that depends on AI—potentially exposing power grids and financial systems to cyber risk. Darktrace CEO Ed Jennings said kill switches and remedial measures must be narrowly and precisely scoped, because overly broad shutdowns could halt entire businesses; he also warned AI agents may bypass controls and take extreme actions if not properly constrained."
+    },
+    {
+      "id": "5103304",
+      "time": "2026-09-19 22:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "CNN記者稱被拒絕進入白宮。"
+    },
+    {
+      "id": "mkt:01a0b9f4-e5df-7118-8610-f1a3b5a5b311",
+      "time": "2026-09-19 21:57:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Anhui governor meets foreign industry delegations ahead of 2026 World Manufacturing Conference】Anhui Governor Wang Qingxian on Sept. 18-19 met foreign business delegations attending the 2026 World Manufacturing Conference, including Jack Perry, chairman of the UK 48 Group, and Carlos Magrinos, global chairman of the Global SMEs Alliance. Wang said Anhui will leverage its industrial base and innovation to pursue industry-focused opening, deepen integration of Anhui manufacturing into international division of labor and global markets, and establish regular communication mechanisms to strengthen resource and capability matching and expand industrial-chain and supply-chain cooperation."
+    },
+    {
+      "id": "mkt:01a0b9f4-8342-7118-8610-ed9043a02eb1",
+      "time": "2026-09-19 21:56:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Faben Information, Huawei unveil Financial DPI and national payments solution】Faben Information said on Sept. 18 at Huawei Connect 2026 that, as a Huawei ecosystem partner, it jointly launched Huawei Financial DPI and National Payment Solution to help accelerate digital-intelligent transformation of financial services in global emerging markets."
+    },
+    {
+      "id": "5103302",
+      "time": "2026-09-19 21:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法本資訊攜手華為共建金融DPI】法本資訊訊息，9月18日，華為全聯接大會2026（HC2026）舉辦，法本資訊作為華為生態夥伴，聯合釋出《華為金融DPI與國家支付解決方案》，攜手華為助力全球新興市場金融數智化轉型。"
+    },
+    {
+      "id": "5103301",
+      "time": "2026-09-19 21:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽省省長王清憲會見出席2026世界製造業大會的外國工商界嘉賓代表】9月18日至19日，安徽省省長王清憲分別會見來皖出席2026世界製造業大會的英國48家集團主席傑克·佩裡一行、全球中小企業聯盟全球主席卡洛斯·馬格里諾斯一行。王清憲說，依託深厚的產業基礎和創新積澱，我們著力推進以產業開放為重點的全面對外開放，安徽製造正深度融入國際分工、服務全球市場。希望建立常態化溝通交流機制，加強優勢互補和資源對接，攜手拓展產業鏈供應鏈合作空間，助力全球製造業高質量發展。"
+    },
+    {
+      "id": "5103293",
+      "time": "2026-09-19 21:46:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦醫療保險與醫療補助服務中心（CMS）主任梅赫邁特·奧茲：下週將宣佈打擊醫療保險欺詐的新舉措。"
+    },
+    {
+      "id": "mkt:01a0b9eb-3f11-7118-8610-e57801020f42",
+      "time": "2026-09-19 21:46:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US Central Command says main Strait of Hormuz shipping lanes cleared of sea mines】US Central Command commander Brad Cooper said in a Sept. 19 video the main shipping lanes in the Strait of Hormuz have been cleared of sea mines and thousands of vessels have transited. He said Gulf partners have moved more than 1 bln barrels of crude through the strait. Over the past two weeks volumes of crude, cargo and LNG transiting the area hit a six‑month high. Cooper added that under a US-enforced blockade Iranian exports via those routes are zero."
+    },
+    {
+      "id": "mkt:01a0b9de-040c-7118-8610-d955b051d9a7",
+      "time": "2026-09-19 21:32:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Saudi interceptors running low, seeks urgent air-defence aid】Riyadh issued its first air-raid alert on the 19th. British media reported Saudi interceptor missiles were running low. The AP, citing local officials, said Saudi has contacted France, the UK, Pakistan and Egypt for air-defence support, but apart from Pakistan allies have offered sympathy rather than military assistance. Other reports say Saudi interceptor stockpiles have been exhausted amid its war with Iran; the United States, Saudi’s largest weapons supplier, reportedly has no remaining interceptors. Last week Crown Prince Mohammed bin Salman called Trump seeking deeper U.S. involvement; the U.S. declined."
+    },
+    {
+      "id": "te:markets:585135",
+      "time": "2026-09-19 21:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 2.75% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 2.75% increase."
+    },
+    {
+      "id": "mkt:01a0b9d6-0c27-7118-8610-d4c29cb173bb",
+      "time": "2026-09-19 21:23:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. media: AI-misidentified cargo on Chinese vessel nearly triggered U.S. military action】CNN reported Sept. 18 that U.S. forces nearly launched an operation after an AI-generated intelligence report circulated. Four people familiar with the matter said a report this spring, during the war with Iran, claimed a Chinese vessel was carrying parts for a nuclear-weapons program to the Middle East. U.S. forces moved to intercept; two sources said armed personnel were preparing to board and another source said U.S. military aircraft were airborne. As the operation was about to start, officials reassessed a report compiled by a U.S. Special Operations Command analyst and found it had been generated by an AI chatbot that misidentified the cargo."
+    },
+    {
+      "id": "mkt:01a0b9d4-dda2-7118-8610-ce491f3d3bf1",
+      "time": "2026-09-19 21:22:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Italy to deploy up to four warships to Bab el-Mandeb, Crosetto urges EU action】Italy plans to deploy up to four warships, including frigates, to the Bab el-Mandeb to safeguard shipping, the government said. Defense Minister Crosetto has written to EU High Representative kallas urging a timely, effective EU decision to prevent transit disruptions. Crosetto said if other EU members currently in the Red Sea 'Shield' escort mission do not provide ships, Italy will act alone, deploying up to four vessels, and that other members should share the related costs."
+    },
+    {
+      "id": "5103280",
+      "time": "2026-09-19 21:20:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【義大利被曝擬派多至4艘艦船赴曼德海峽】據義大利方面19日訊息，義大利政府打算派遣多至4艘艦船前往曼德海峽，以保障船隻通航安全。據訊息人士表示，義大利國防部長克羅塞託已致信歐盟外交與安全政策高階代表卡拉斯，呼籲歐盟“作出及時、有效的決定”以防止曼德海峽通航受阻。克羅塞託說，如果目前參加歐盟在紅海“盾牌”護航行動的其他成員國不派艦船，義大利將單獨行動，派遣包括護衛艦在內的多至4艘艦船前往曼德海峽，而其他成員國應分擔相關費用。"
+    },
+    {
+      "id": "mkt:01a0b9cb-d90d-7118-8610-c7274ca02dd1",
+      "time": "2026-09-19 21:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said X platform usage reached an all-time high."
+    },
+    {
+      "id": "5103275",
+      "time": "2026-09-19 21:11:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克稱X平臺的使用量創下歷史新高。"
+    },
+    {
+      "id": "mkt:01a0b9ca-ed64-7118-8610-bcc051aae79f",
+      "time": "2026-09-19 21:11:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran war lifts global fuel prices; U.S. gasoline up 49% Feb–Sep】Axios, citing a WBG map, said the Iran war has pushed global fuel prices higher, with large gains in fuel-import-dependent economies. Pakistan pump prices rose 51% from Feb to Sep; the United States, the world’s largest oil and gasoline producer, saw gasoline climb 49% over the same period. Unlike some countries, the U.S. federal government has not imposed retail price caps or provided fuel subsidies."
+    },
+    {
+      "id": "5103273",
+      "time": "2026-09-19 21:10:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【德國就25億歐元燃油紓困方案及價格上限計劃達成一致】德國聯邦政府與各州政府已就一項25億歐元（29億美元）的紓困方案達成一致，其中包括自10月起實施為期三個月的燃油稅減免，以及臨時加油價格上限計劃，以緩解駕車者和企業面臨的壓力。汽油和柴油的能源稅將每升削減14歐分，加上增值稅部分，總減稅幅度約為17歐分。財政部將動用今年未使用的預算資金，並透過”混合融資措施”彌補剩餘部分，25億歐元成本的一半由德國各州承擔。"
+    },
+    {
+      "id": "5103271",
+      "time": "2026-09-19 21:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士稱特朗普私下承認其令共和黨在中期選舉前陷入困境】據知情人士透露，特朗普私下承認，他的決定——包括與伊朗的戰爭——可能導致共和黨在中期選舉前陷入困境。顧問們對特朗普的糟糕民調和該黨的政治挑戰變得“越來越直言不諱”。一位訊息人士表示：“他顯然覺得自己的某些決定導致了當前局面，他不受歡迎，中期選舉的前景也不容樂觀。”特朗普此前曾將負面民調斥為虛假，但顧問們表示，他現在更加關注顯示他和共和黨支援率低迷的資料。特朗普的回應是加大對中期選舉的關注，批准盟友超級政治行動委員會支出約1.4億美元，並承諾在競爭激烈的選戰中為共和黨候選人助選。他告訴顧問們，他要“戰鬥到選舉日”。"
+    },
+    {
+      "id": "5103270",
+      "time": "2026-09-19 21:09:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【梁言順王清憲與央企國企、金融機構負責人舉行工作座談】在2026世界製造業大會開幕前夕，9月19日下午，安徽省委書記梁言順，省委副書記、省長王清憲在合肥與央企國企、金融機構負責人舉行工作會談，梁言順說，希望大家圍繞國家發展戰略，發揮主業優勢，結合安徽所需，在科技創新、產業發展、對外開放、綠色轉型等方面深化合作，努力形成更多標誌性成果。我們將積極打造市場化、法治化、國際化一流營商環境，為專案建設、企業發展創造良好條件。"
+    },
+    {
+      "id": "5103267",
+      "time": "2026-09-19 21:05:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【逾百名專家呼籲對AI企業加強獨立監管】當地時間9月18日，美國谷歌公司首次承認，其人工智慧模型在今年5月的網路安全能力測試中，突破隔離環境侵入了三家真實公司的系統。這一事件再度引發外界對美國AI模型安全和監管的擔憂。當天，超過100名來自世界各地的人工智慧專家簽署聯名公開信，呼籲對全球頂尖的AI企業加強獨立監管。這封公開信由“人工智慧評估者論壇”組織，簽署人包括被譽為“AI教父”之一的傑弗裡·辛頓，以及來自全球多所知名大學和非營利AI評估機構等組織的成員。公開信提出，所有前沿AI企業都應當引入評估人員，獨立評估AI風險。評估人員將審查AI系統和任何造成現實損害的事故，同時審查企業訓練、部署和監管AI模型的方式，以及安全防護機制的執行情況。公開信呼籲基礎模型提供商確保第三方AI評估人員擁有開展有效、可信評估所必需的“科學客觀性、透明度、獨立性和有力保護”。（央視）"
+    },
+    {
+      "id": "5103265",
+      "time": "2026-09-19 21:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令：在協同保護下，超過2000艘商船透過霍爾木茲海峽。"
+    },
+    {
+      "id": "5103264",
+      "time": "2026-09-19 21:02:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "土耳其對Pusula資產管理公司董事長Turhan發出拘捕令。"
+    },
+    {
+      "id": "mkt:01a0b9c2-c6ca-7118-8610-b59666ed0b64",
+      "time": "2026-09-19 21:02:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "AFP reports a fuel storage tank belonging to Aramco near Riyadh airport caught fire."
+    },
+    {
+      "id": "mkt:01a0b9c2-3cef-7118-8610-ae8cf996f0fc",
+      "time": "2026-09-19 21:01:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "CENTCOM commander said the U.S. is forming a new coalition strike-drone force."
+    },
+    {
+      "id": "mkt:01a0b9c1-a537-7118-8610-a760939c4c1e",
+      "time": "2026-09-19 21:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM commander: oil and cargo shipments in the past two weeks hit their highest levels in six months."
+    },
+    {
+      "id": "mkt:01a0b9c0-e955-7118-8610-9ddc34ac4229",
+      "time": "2026-09-19 21:00:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM commander said the U.S. is working with partners to increase shipping traffic through the Strait of Hormuz."
+    },
+    {
+      "id": "5103263",
+      "time": "2026-09-19 21:00:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部發布指令，授權杜克能源卡羅萊納公司（Duke Energy Carolinas）調派資源。"
+    },
+    {
+      "id": "mkt:01a0b9c0-7a51-7118-8610-925a93c8f6bb",
+      "time": "2026-09-19 20:59:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM commander said the main transit lanes in the Strait of Hormuz were not affected by sea mines."
+    },
+    {
+      "id": "5103262",
+      "time": "2026-09-19 20:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國中央司令部：組建新的霍爾木茲海峽聯合攻擊無人機部隊。"
+    },
+    {
+      "id": "mkt:01a0b9bf-c8f8-7118-8610-88b88e54ab93",
+      "time": "2026-09-19 20:59:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM commander said the U.S. helped move more than 1 billion barrels of crude through the Strait of Hormuz and escorted over 2,000 commercial vessels in the past two months, and that U.S. strict blockade has prevented Iran from exporting any oil."
+    },
+    {
+      "id": "5103261",
+      "time": "2026-09-19 20:56:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "庫珀：過去兩週經由霍爾木茲海峽的石油、貨物和液化天然氣運輸量創六個月來新高。"
+    },
+    {
+      "id": "5103260",
+      "time": "2026-09-19 20:56:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部司令庫珀：過去幾個月，超過10億桶石油經由霍爾木茲海峽運輸。"
+    },
+    {
+      "id": "5103256",
+      "time": "2026-09-19 20:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令庫珀：由於封鎖，伊朗原油出口量為零。"
+    },
+    {
+      "id": "5103255",
+      "time": "2026-09-19 20:52:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國重新整理AI基礎設施密度紀錄】我們常把AI能力的突破歸功於晶片和模型。但模型每訓練一次、被呼叫一次，背後都有持續運轉的機房，也有持續產生的電費。AI競爭不只發生在晶片上，也發生在電從哪裡來、機房如何散熱、算力怎樣排程上。烏蘭察布遠景星河基地於2026年8月投產，採用超高比例綠電直連，以12萬平方米的建築體量（約20個標準足球場）、百萬卡並行能力、百萬P算力規模，成為全球Token產出能力最強的單體AI資料中心，重新整理了AI基礎設施的密度紀錄。遠景科技集團創始人張雷希望讓Token“像土豆一樣便宜”。這句話能否實現，仍要看真實需求和長期成本。但星河基地已經讓一個原本抽象的問題變得可見：當AI走進越來越多人的工作和生活，決定它能走多遠的，除了模型有多聰明，還有每個人用不用得起。 (央視財經)"
+    },
+    {
+      "id": "5103254",
+      "time": "2026-09-19 20:51:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部指揮官：霍爾木茲海峽主要航道已清除水雷。"
+    },
+    {
+      "id": "5103253",
+      "time": "2026-09-19 20:50:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部發布緊急命令，以降低南北卡羅萊納州發生停電的風險。"
+    },
+    {
+      "id": "mkt:01a0b9b7-f664-7118-8610-83c48e8c9405",
+      "time": "2026-09-19 20:50:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Iranian Fars News, citing unnamed sources, reports a suicide drone entered Saudi airspace from the direction of Yemen and flights at Riyadh's international airport have been suspended. No details on damage; Saudi authorities have not issued an official statement."
+    },
+    {
+      "id": "mkt:01a0b9b5-e78b-7118-8610-79ec8d21c478",
+      "time": "2026-09-19 20:48:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhongtian cable unit develops two green PP‑insulated high‑voltage cables】Zhongtian Technology Group said its cable unit has jointly developed China’s first ±320 kV polypropylene (PP) insulated HVDC cable and China’s first 220 kV solid‑phase grafted PP insulated power cable; both passed type tests. The company said the approvals provide domestically developed green cable options for offshore wind power transmission and urban grid upgrades, offering a new localization solution for high‑voltage AC and DC projects."
+    },
+    {
+      "id": "5103252",
+      "time": "2026-09-19 20:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中天海纜兩款綠色環保PP絕緣電纜研製成功】中天科技集團訊息，近日，中天科技海纜股份有限公司聯合研發的國內首條±320千伏綠色聚丙烯（PP）絕緣直流電纜、國內首條220千伏固相接枝PP絕緣電力電纜，均透過型式試驗，意味著我國高壓交、直流領域同時擁有了自主研製的綠色環保電纜，深遠海風電送出、城市電網升級有了全新的國產化方案。"
+    },
+    {
+      "id": "5103251",
+      "time": "2026-09-19 20:45:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部要求 R.M. SCHAHFER 和 F.B. 採取必要措施。"
+    },
+    {
+      "id": "mkt:01a0b9b3-79b9-7118-8610-70fc7c425082",
+      "time": "2026-09-19 20:45:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright ordered the continued operation of two coal-fired power plants in Indiana, directing Nipsco, CenterPoint Energy and MISO to take action."
+    },
+    {
+      "id": "5103250",
+      "time": "2026-09-19 20:45:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國棉花育種取得關鍵突破】據科技日報，北京時間9月16日晚，華中農業大學棉花團隊王茂軍教授課題組在國際學術期刊《細胞》發表了一項最新研究成果，該研究首次發現染色體三維空間結構是棉花品種改良的全新靶點，填補了棉花育種的理論與技術短板，為豐富棉花種質遺傳資源、培育優質高產棉花新品種，開闢全新科研方向。"
+    },
+    {
+      "id": "5103249",
+      "time": "2026-09-19 20:43:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長下令 NIPSCO、CenterPoint Energy 和 MISO 採取行動。"
+    },
+    {
+      "id": "mkt:01a0b9b0-b2fe-7118-8610-6b2d16abd655",
+      "time": "2026-09-19 20:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MS NOW says reporter barred from White House, vows to defend First Amendment after Trump bans three outlets】MS NOW said a reporter was denied entry to White House grounds today and that the outlet will take all necessary measures to defend its First Amendment rights. The statement follows President Trump’s announcement effective today barring CNN, MS NOW and Politico from White House access, citing those outlets’ long-running publication of \"fake news.\""
+    },
+    {
+      "id": "5103248",
+      "time": "2026-09-19 20:42:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特下令維持印第安納州兩座燃煤電廠的運營。"
+    },
+    {
+      "id": "mkt:01a0b9a8-fef5-7118-8610-624935bab926",
+      "time": "2026-09-19 20:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC said a magnitude-4.0 earthquake occurred at 20:19 on Sept. 19 in Shenza County, Nagqu, Tibet (31.99°N, 89.26°E). Hypocentral depth 10 km."
+    },
+    {
+      "id": "5103247",
+      "time": "2026-09-19 20:31:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "MS NOW稱其已被拒絕進入白宮，將採取必要措施捍衛第一修正案權利。注：美國總統特朗普週五發帖稱，將禁止有線新聞媒體CNN、MS NOW以及網路媒體Politico進入白宮。"
+    },
+    {
+      "id": "5103246",
+      "time": "2026-09-19 20:28:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "希臘央行行長斯圖納拉斯 回應評級機構最新行動：這對許多國家來說也是一個“鼓舞人心的結論”。但這當然需要政治意願和懂得重要議題的政府。好的政策可以改變一切，沒有無法解決的結構性約束。過去，許多人預測希臘撐不過去。但現在希臘的經濟增速是歐元區其他地區的兩倍，公共債務佔GDP比率快速下降，正在進行改革，儘管還有更多工作要做。"
+    },
+    {
+      "id": "mkt:01a0b9a2-f7a3-7118-8610-59c1c9af7c75",
+      "time": "2026-09-19 20:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Expert: Yemeni government unlikely to defeat Houthis militarily now】Yasmin el-Yani, executive director of knowledge production at a Sanaa-based think tank, said military options against the Houthis are limited because most fighting is taking place in hard-to-access mountainous terrain. She identified the high ground in Kahbub as a current focal point and warned that once those areas are fully under Houthi control expelling them would be very difficult. Controlling elevated terrain gives the Houthis a marked tactical advantage—enabling withdrawal from coastal areas into the mountains and possible re-emergence—making containment more realistic than outright military defeat for now."
+    },
+    {
+      "id": "5103245",
+      "time": "2026-09-19 20:27:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賈國龍妻子張麗平質押西貝股權】天眼查經營風險資訊顯示，9月2日，內蒙古西貝餐飲集團有限公司新增1條股權出質資訊，出質人為張麗平，質權人為中國工商銀行股份有限公司呼和浩特如意開發區支行，出質股權數額為540.0005萬元，狀態為有效。 股東資訊顯示，張麗平持有內蒙古西貝餐飲集團有限公司5.1959%股權，認繳出資540.0005萬元，並任該公司董事。公開資料顯示，張麗平為西貝創始人賈國龍妻子。"
+    },
+    {
+      "id": "mkt:01a0b9a2-20ff-7118-8610-525818ab02a5",
+      "time": "2026-09-19 20:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenghong Technology responds to investor question on 50% YoY equity-incentive target】In response to an investor asking whether this year’s equity-incentive target represents a 50% YoY increase, Shenghong Technology said management set performance targets after weighing industry trends, market competition, the company’s development plan and customer order visibility. The company said the targets reflect confidence while remaining challenging; management and the core team are firmly confident of meeting them and will pursue measures — optimizing product mix, improving product yields and delivery capability, and diversifying the customer base — to drive sustained improvement in operating quality and results."
+    },
+    {
+      "id": "5103244",
+      "time": "2026-09-19 20:24:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司股權激勵的目標是今年要比去年增長50%？勝宏科技回應】針對投資者提問“公司股權激勵的目標是今年要比去年增長50%，可以實現嗎？”勝宏科技表示，公司股權激勵的業績考核目標是管理層綜合考慮了行業發展狀況、市場競爭情況、公司未來的發展規劃以及客戶訂單能見度等因素設定，既體現了公司對未來成長的信心，也兼顧了目標的挑戰性與可實現性。管理層及核心團隊對完成本次激勵計劃設定的考核目標有堅定信心，並將透過進一步最佳化產品結構、提升產品良率與交付能力、多元化客戶結構等措施，全力以赴推動公司經營質量和業績持續提升。"
+    },
+    {
+      "id": "5103243",
+      "time": "2026-09-19 20:23:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟經濟事務專員東布羅夫斯基斯：烏克蘭滿足改革要求是獲得資金的關鍵。"
+    },
+    {
+      "id": "mkt:01a0b99f-5b71-7118-8610-4975352e9555",
+      "time": "2026-09-19 20:23:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Shenghong Technology: mSAP capacity demand strong; will allocate capacity to customer needs】On Sept. 18 Shenghong Technology said its Huizhou mSAP workshop is producing 1.6T optical modules, with orders on hand full and capacity utilization at healthy levels. Demand for mSAP capacity remains strong; the company is in close contact with customers and will allocate future capacity around customer requirements."
+    },
+    {
+      "id": "5103242",
+      "time": "2026-09-19 20:23:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝宏科技：目前mSAP產能需求旺盛 將圍繞客戶需求進行產能佈局】勝宏科技9月18日在現場參觀時表示，公司在惠州配置了mSAP車間，該產能目前用於滿足1.6T光模組的生產需求，當前在手訂單飽滿，產能利用率處於良好水平。目前mSAP產能需求旺盛，公司與相關客戶保持密切溝通，將圍繞客戶需求進行產能佈局。"
+    },
+    {
+      "id": "mkt:01a0b99e-cdc3-7118-8610-4086df026fe6",
+      "time": "2026-09-19 20:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC said an automatic determination recorded an about magnitude-4.2 earthquake at 20:19 on Sept 19 near Shenza County, Nagqu, Tibet (32.03N, 89.29E). Final parameters await the official rapid bulletin."
+    },
+    {
+      "id": "mkt:01a0b99d-c0aa-7118-8610-3f56367de874",
+      "time": "2026-09-19 20:21:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB policymaker Stournaras warns on upside inflation risk, says no rush to act】ECB board member Stournaras said the bank must remain vigilant to upside inflation risks but should not act hastily. He sees no second-round, wage-driven inflation effects yet but cautioned that could change amid persistent supply shocks and stronger demand from fiscal expansion and AI investment. With just over a month until the next policy decision he has not decided and will look to ECB staff projections. If September brings an inflation spike or a rise in energy costs that moves the outlook into an adverse scenario, an October rate hike cannot be ruled out; conversely, doubts would argue for waiting for the next projections. He added that this week’s Fed rate increase bolsters Fed and global monetary policy credibility and also helps the ECB."
+    },
+    {
+      "id": "5103241",
+      "time": "2026-09-19 20:21:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍夜襲基輔州物流設施 該設施被用於存放來自歐洲的軍用物資】9月19日，俄羅斯國防部發布通報稱，俄軍夜間對烏克蘭多個物流中心、港口及交通基礎設施發動打擊。 通報稱，俄軍打擊了位於基輔州的一處海關物流中心，該設施被用於存放來自歐洲的軍用物資。（參考訊息）"
+    },
+    {
+      "id": "5103240",
+      "time": "2026-09-19 20:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "東布羅夫斯基斯：烏克蘭面臨更大的資金需求。"
+    },
+    {
+      "id": "5103239",
+      "time": "2026-09-19 20:16:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟經濟事務專員東布羅夫斯基斯：高負債成員國必須實現財政目標。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609193879247491",
+      "time": "2026-09-19 20:15:23",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委斯圖納拉斯：若通脹飆升不排除10月加息可能性 但不應倉促行事】歐洲央行管委斯圖納拉斯表示，必須注意通脹上行風險，但不應倉促行事。這位希臘央行行長週六接受採訪時表示，雖然目前為止工資等方面還沒有出現第二輪影響，這算是“好訊息”，但不能想當然地認為這種情況會持續下去。"
+    },
+    {
+      "id": "mkt:01a0b997-058c-7118-8610-31978588b465",
+      "time": "2026-09-19 20:14:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【France says 2027 budget draft will meet EU guidance but debt ratio to exceed 120%】France said its 2027 budget draft will comply with European Commission guidance even as the country’s debt burden is expected to rise above 120% of GDP. The finance ministry said net primary spending is projected to increase 0.7% versus the Commission’s recommended cap of 1.2%. Citing weak growth and higher interest costs, the government said the fiscal trajectory has already deteriorated: this year’s deficit is now expected to widen to 5.4% of GDP versus the fiscal law target of about 5%. The draft submitted to the public finance oversight body targets a reduction in spending-to-GDP to 56.9% in 2027 (from 57.1% in 2026) and sets tax revenue at 44.2% of GDP. Government forecasts put the debt ratio at 119.3% this year, 115.7% in 2025 and 121.7% in 2027."
+    },
+    {
+      "id": "5103238",
+      "time": "2026-09-19 20:14:08",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【歐洲央行管委斯圖納拉斯：若通脹飆升不排除10月加息可能性，但不應倉促行事】歐洲央行管委斯圖納拉斯表示，必須注意通脹上行風險，但不應倉促行事。 這位希臘央行行長週六接受採訪時表示，雖然目前為止工資等方面還沒有出現第二輪影響，這算是“好訊息”，但不能想當然地認為這種情況會持續下去。“我們正面臨一系列持續的供給側衝擊，我們不能對此視而不見。與此同時，由於財政擴張和人工智慧投資的蓬勃發展，需求也十分強勁。”他在都柏林出席歐洲財長和央行行長會議時表示，“我們必須保持警惕。”距離下次決策還有一個月的時間，斯圖納拉斯表示他還沒有下定決心，歐洲央行準備的各種經濟展望可能會起到指導作用。“如果9月份通脹飆升或能源成本上漲，使我們陷入不利局面，那麼10月份加息的可能性就不能排除，”他說道，“但如果存在一些不確定性，我們不會採取任何行動，而是等待下一輪預測。沒有必要倉促行事。”斯圖納拉斯警告說，當前形勢依然動盪不安。“如果經濟資料顯示經濟韌性無法持續或經濟活動增長放緩，我認為這將是不宜加息，而應暫停加息的理由，”他說道。此外，“如果中東達成協議，能源價格可能會再次迅速下降。”"
+    },
+    {
+      "id": "5103237",
+      "time": "2026-09-19 20:13:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破99美元，日內漲超0.7%。"
+    },
     {
       "id": "5103236",
       "time": "2026-09-19 20:11:01",
@@ -123243,466 +123862,6 @@
         "其他"
       ],
       "text": "【麥當勞中國顧磊：國內首條餐飲品牌專屬無人機配送航線開通】9月12日，麥當勞中國在服貿會上釋出線下消費創新成果。麥當勞中國首席影響官顧磊在現場表示，2026年以來，麥當勞中國持續與美團無人機合作，在深圳、上海兩地探索無人機配送業務。今年9月雙方在上海徐匯西岸開通了國內首條餐飲品牌專屬無人機配送航線。無人機配送的實踐價值，不僅在於提升配送效率，更在於透過新技術拓展服務邊界，連線新的消費場景和空間。"
-    },
-    {
-      "id": "mkt:01a095f4-1493-7118-8557-9968f246c3bc",
-      "time": "2026-09-12 22:09:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC co-founder and CEO proposes that frontier AI firms in democratic countries coordinate to establish common safety standards."
-    },
-    {
-      "id": "mkt:01a095f4-087e-7118-8557-914d7b0e5df7",
-      "time": "2026-09-12 22:09:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC co-founder and CEO proposes that each frontier AI company commit to granting a standing team of third-party assessors continuous, employee-like access."
-    },
-    {
-      "id": "mkt:01a095f3-8394-7118-8557-8cbb1fccdc77",
-      "time": "2026-09-12 22:09:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Anthropic co-founder and CEO proposed that the US and other democratic governments attempt to coordinate with other countries' governments."
-    },
-    {
-      "id": "5090863",
-      "time": "2026-09-12 22:08:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "ANTHROPIC執行長：提議每家前沿AI公司承諾向嵌入式第三方評估團隊提供類似員工的持續訪問許可權。"
-    },
-    {
-      "id": "mkt:01a095f2-884f-7118-8557-80cd7045ae8f",
-      "time": "2026-09-12 22:08:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Anthropic co-founder and CEO said slowing the pace does not mean stopping model training or technological progress; it is intended to give the company sufficient time to carry out alignment and safeguard models."
-    },
-    {
-      "id": "5090862",
-      "time": "2026-09-12 22:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗將於週一向海灣國家通報霍爾木茲海峽航運協議。"
-    },
-    {
-      "id": "5090860",
-      "time": "2026-09-12 22:07:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長：“放緩節奏”並不意味著停止模型訓練或技術進步，而是確保企業有充足的時間進行對齊並保障模型安全。"
-    },
-    {
-      "id": "mkt:01a095f0-f810-7118-8557-7e6225639b2e",
-      "time": "2026-09-12 22:06:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC co-founder and CEO proposes developing AI models at a measured pace to ensure their safety."
-    },
-    {
-      "id": "5090857",
-      "time": "2026-09-12 22:06:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "ANTHROPIC執行長提議以平衡的節奏發展人工智慧，旨在確保其安全性。"
-    },
-    {
-      "id": "mkt:01a095f0-0d55-7118-8557-734895bb43db",
-      "time": "2026-09-12 22:05:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic co-founder and CEO outlines a three-step plan aimed at leading frontier development."
-    },
-    {
-      "id": "5090856",
-      "time": "2026-09-12 22:05:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "ANTHROPIC執行長提出旨在把控前沿技術發展節奏的三步走計劃。"
-    },
-    {
-      "id": "mkt:01a095ef-efda-7118-8557-6bab8bcd6260",
-      "time": "2026-09-12 22:05:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic co-founder and CEO said the pace of advancing AI model capabilities must be slowed."
-    },
-    {
-      "id": "5090855",
-      "time": "2026-09-12 22:04:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "ANTHROPIC執行長達里奧·阿莫迪  ：我們必須放慢提升人工智慧模型能力的步伐。"
-    },
-    {
-      "id": "5090854",
-      "time": "2026-09-12 22:01:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一體化AI移動醫療車服貿會首發亮相】9月12日，2026年服貿會“人工智慧+醫療健康”論壇在北京首鋼園舉行。論壇上，中國聯通北京醫療健康大模型有限公司聯合北汽福田及多家頭部醫療機構、科技企業共同打造的一體化AI移動醫療車正式釋出。據介紹，該車整車整合北京同仁醫院AI眼底相機、北京安貞醫院心血管超聲AI、北京兒童醫院AI兒科醫生等多項經過基地中試驗證的成熟落地成果，打造一站式智慧移動診療平臺，可深入社群、鄉鎮、偏遠山區開展常態化基層診療幫扶，真正實現優質三甲醫療資源流動下沉。（北京商報）"
-    },
-    {
-      "id": "mkt:01a095ea-701c-7118-8557-6076285f96ad",
-      "time": "2026-09-12 21:59:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【BRICS urges Middle East states to exercise utmost restraint】BRICS issued a joint statement expressing deep concern at escalating tensions in the Middle East and called on regional states, including Iran and the UAE, to exercise utmost restraint. The 45-page communiqué — which also covered institutional reform and payment systems — did not name belligerents but urged avoidance of actions that could further escalate the situation. The conflict, now in its seventh month, has disrupted regional trade and lifted global crude, fuel and gas prices. In a significant escalation, Saudi Arabia’s east‑west oil pipeline was attacked and shut on Friday, and the US struck an Iranian tanker. BRICS urged intensified diplomatic efforts to pursue long‑term understanding and lasting stability, and while it offered no specific fixes for the near‑closure of the Strait of Hormuz, it called for collective action under applicable international law to safeguard global trade, supply chains and energy flows."
-    },
-    {
-      "id": "5090852",
-      "time": "2026-09-12 21:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "捷豹路虎據悉計劃與Stellantis組建合資企業，在美國生產路虎Defender。"
-    },
-    {
-      "id": "5090851",
-      "time": "2026-09-12 21:57:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷豹路虎據悉將推出美版Defender車型。"
-    },
-    {
-      "id": "mkt:01a095e7-e467-7118-8557-5f661837afdd",
-      "time": "2026-09-12 21:56:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi military sources said the Taib border area on the Iraq-Iran frontier has been closed after the discovery of a drone launch site."
-    },
-    {
-      "id": "5090847",
-      "time": "2026-09-12 21:48:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克兩名軍方訊息人士稱，伊拉克與伊朗接壤的AL-TAYYIB邊境地區因發現無人機發射點已關閉。"
-    },
-    {
-      "id": "5090844",
-      "time": "2026-09-12 21:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名伊朗官員表示，預計週一在阿曼舉行的會議不會簽署霍爾木茲海峽相關協議。"
-    },
-    {
-      "id": "5090843",
-      "time": "2026-09-12 21:40:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【iPhone 18 Pro系列多電商平臺售罄】9月12日晚8點，蘋果新品正式開啟預售，記者發現，iPhone 18 Pro系列預售首夜上演“冰火兩重天”。 一邊消費者大批湧入各平臺搶購，多個熱門型號首批貨源在不同電商平臺先後顯示售罄，得物上溢價明顯，iPhone 18 Pro Max 256GB勃艮第酒紅色成交均價12799元，上漲1800元，漲幅16.4%；同為256GB的銀色版本成交均價13999元，上漲3000元，漲幅27.3%。另一邊，截至發稿，iPhone 18 Pro系列在部分地區官網仍可預訂，且開售當天即可取貨。（藍鯨新聞）"
-    },
-    {
-      "id": "5090840",
-      "time": "2026-09-12 21:35:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【愷英網路：擬間接參股韓國遊戲公司Wemade】愷英網路(002517)9月12日晚間公告，公司擬間接參股韓國公司Wemade（娛美德）。娛美德是韓國交易所科斯達克上市的遊戲企業，是韓國本土第一代網遊研發企業，是極具影響力的“傳奇”IP原始權利方。此次交易完成後，公司將間接持有娛美德40.25%控股權中對應的49%的權益，娛美德將成為公司間接參股境外上市公司。此次交易，公司整體預估出資2.98億美元（約合人民幣20.3億元）。娛美德作為“傳奇”系列IP的原始權利方，其核心IP資產具有較強的稀缺性和長期商業化價值。公司長期參與“傳奇”IP中國境內商業化合作，此次交易有利於雙方形成更加穩定的長期合作機制，並進一步深化雙方在“傳奇”IP商業化、新遊戲產品發行及中國市場運營等方面的合作。"
-    },
-    {
-      "id": "5090839",
-      "time": "2026-09-12 21:34:59",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【李鴻忠赴俄羅斯出席第七屆中俄中小企業實業論壇並訪問伊爾庫茨克州】9月9日至12日，中共中央政治局委員，全國人大常委會副委員長，中俄友好、和平與發展委員會中方主席李鴻忠在莫斯科出席第七屆中俄中小企業實業論壇開幕式並致辭；與俄羅斯聯邦委員會主席馬特維延科，國家杜馬第一副主席梅利尼科夫，中俄友好、和平與發展委員會俄方主席季托夫會見，並訪問伊爾庫茨克州。（新華社）"
-    },
-    {
-      "id": "te:markets:583308",
-      "time": "2026-09-12 21:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Appreciates by 1.02% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.02% increase."
-    },
-    {
-      "id": "5090835",
-      "time": "2026-09-12 21:24:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【六項產業一線創新成果集中亮相 人工智慧走向產業應用】人工智慧正加快從技術創新走向產業應用，並推動產業生態持續重塑。2026年服貿會期間，以“共創分享的智慧經濟形態”為主題的高質量數字經濟發展論壇於9月12日舉行，探討智慧經濟時代產業創新發展新路徑。當天大會上，六組產業一線創新成果集中釋出，覆蓋醫療裝備、數學大模型、資料資產、地質大模型、儲存技術和低空經濟等多個領域。不同的技術、不同的場景，但共同指向一個關鍵詞——應用。（北京商報）"
-    },
-    {
-      "id": "mkt:01a095c9-b5e1-7118-8557-5535c0b5422d",
-      "time": "2026-09-12 21:23:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple opens preorders for iPhone 18 Pro, Pro Max】Apple has opened preorders for the iPhone 18 Pro and iPhone 18 Pro Max; starting prices are 9,999 yuan and 10,999 yuan. Devices go on sale on the 18th of this month."
-    },
-    {
-      "id": "5090834",
-      "time": "2026-09-12 21:22:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨議員尋求針對煉油產能採取緊急措施。"
-    },
-    {
-      "id": "5090832",
-      "time": "2026-09-12 21:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨議員敦促美國國家能源委員會主席道格·伯古姆對油價採取行動。"
-    },
-    {
-      "id": "mkt:01a095c5-e12d-7118-8557-495a7e92cd48",
-      "time": "2026-09-12 21:19:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Congolese government data show confirmed Ebola cases (excluding death toll) have exceeded 7,000."
-    },
-    {
-      "id": "5090831",
-      "time": "2026-09-12 21:18:16",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行據悉駁回了塔塔之子公司（Tata Sons）避免公開上市的請求。"
-    },
-    {
-      "id": "5090829",
-      "time": "2026-09-12 21:13:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果iPhone 18 Pro/Pro Max開啟預購】9月12日晚，蘋果官網顯示，iPhone 18 Pro/Pro Max預購現已開啟，起售價分別為9999元、10999元，將於本月18日正式發售。"
-    },
-    {
-      "id": "mkt:01a095b3-d758-7118-8557-4268eec30a8a",
-      "time": "2026-09-12 20:59:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's military said it has agreed to Iran's request to jointly investigate whether drone launchers exist along their shared border."
-    },
-    {
-      "id": "5090824",
-      "time": "2026-09-12 20:59:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：印尼Teluknaga東北方向 126 公里處發生6.5級地震。"
-    },
-    {
-      "id": "5090823",
-      "time": "2026-09-12 20:56:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克軍方：伊拉克同意伊朗提出的聯合調查兩國邊境是否存在無人機發射裝置的請求。"
-    },
-    {
-      "id": "5090819",
-      "time": "2026-09-12 20:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克總理表示將調查在伊拉克與伊朗邊境發現的導彈發射裝置。"
-    },
-    {
-      "id": "5090818",
-      "time": "2026-09-12 20:52:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克總理表示接受伊朗提出的聯合調查請求。"
-    },
-    {
-      "id": "mkt:01a095ac-ca5a-7118-8557-3a86bac04e03",
-      "time": "2026-09-12 20:52:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Bahrain's state news agency said any agreement on the Strait of Hormuz should guarantee passage for all vessels and must not discriminate, impose fees or require permits."
-    },
-    {
-      "id": "mkt:01a095ac-65a7-7118-8557-34b4376146a3",
-      "time": "2026-09-12 20:51:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Bahrain's state news agency BNA said Bahrain will not participate in a meeting with Iran on the Strait of Hormuz."
-    },
-    {
-      "id": "5090817",
-      "time": "2026-09-12 20:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓客船起火事故已致76人死亡】據菲律賓海岸警衛隊訊息，9月12日，有關部門在巴拉望省附近海域起火船隻上再次清點出多具遇難者遺體，這使得該事故的遇難人數上升至76人，目前仍有13人失蹤。"
-    },
-    {
-      "id": "mkt:01a095ac-0d7f-7118-8557-2a8b688e08eb",
-      "time": "2026-09-12 20:51:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Saudi Press Agency reports Bahrain will not attend any meetings with Iran until the two countries restore diplomatic relations."
-    },
-    {
-      "id": "5090816",
-      "time": "2026-09-12 20:50:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林表示，任何協議都應保障所有船隻不受歧視、無需繳費或申請許可的過境通行權。"
-    },
-    {
-      "id": "mkt:01a095a7-76a3-7118-8557-27c4bcd5eb81",
-      "time": "2026-09-12 20:46:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Interfax reported the Kremlin expressed concern over the situation in the Bab al-Mandeb Strait."
-    },
-    {
-      "id": "5090815",
-      "time": "2026-09-12 20:43:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮對曼德海峽局勢表示關切。"
-    },
-    {
-      "id": "mkt:01a095a4-b379-7118-8557-1df29582278b",
-      "time": "2026-09-12 20:43:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Flood and Drought Control Headquarters activates level-4 flood emergency for Hainan】Meteorological forecasts indicate a South China Sea tropical depression will bring heavy to torrential rain, with locally extreme downpours, to Hainan and nearby areas from Sept 13–15. Risks include flash floods, geological hazards, flooding in small and medium rivers, and urban waterlogging. Under the National Flood and Drought Emergency Plan, the National Flood and Drought Control Headquarters activated a level-4 flood emergency for Hainan on Sept 12 at 19:00."
-    },
-    {
-      "id": "5090814",
-      "time": "2026-09-12 20:41:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總針對海南啟動防汛四級應急響應】據氣象部門預報，受南海熱帶低壓影響，9月13日至15日，海南島等地部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險高。根據《國家防汛抗旱應急預案》及有關規定，國家防總於9月12日19時針對海南啟動防汛四級應急響應。"
-    },
-    {
-      "id": "5090813",
-      "time": "2026-09-12 20:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林表示不會參加任何與伊朗舉行的會議。"
-    },
-    {
-      "id": "5090812",
-      "time": "2026-09-12 20:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林表示不會參加關於霍爾木茲海峽問題的伊朗會議。"
-    },
-    {
-      "id": "5090811",
-      "time": "2026-09-12 20:33:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲資金湧入拉美股票基金 淨流入金額創2010年以來新高】據英國《金融時報》12日報道，晨星資料顯示，今年以來，在歐洲註冊、主要投資拉美股票的共同基金和交易所交易基金（ETF），合計淨流入36億美元，這一規模已超過2010年以來任何一個完整自然年的全年流入水平，扭轉了此前15年累計淨流出151億美元的趨勢。資金持續流入疊加市場上行，推動相關基金資產規模增至216億美元，約為2025年初的2.5倍。報道指出，近期投資者對拉美市場的熱情很大程度上源於拉美地區在大宗商品領域的優勢。中東衝突推高油價、人工智慧基礎設施建設帶動銅等金屬需求，成為拉美股市的重要支撐。巴西石油公司與墨西哥集團合計貢獻了該地區今年以來約四成的股市收益。 (央視財經)"
-    },
-    {
-      "id": "5090810",
-      "time": "2026-09-12 20:29:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創維數字：不存在“大股東持股比例僅13%”情形】9月11日下午，創維數字在業績說明會上表示，公司主營業務為智慧終端（智慧機頂盒、體感智慧遊戲盒子、智慧中屏、寬頻網路連線裝置、XR解決方案及智慧眼鏡、雲電腦等）、專業顯示（車載人機互動顯示總成系統、車載智慧顯示儀表系統、工控顯示模組等）及運營服務。公司控股股東為深圳創維-RGB電子有限公司，持股比例51.21%，不存在“大股東持股比例僅13%”的情形。公司將持續聚焦主業，圍繞“智慧原生”戰略推進智慧終端、XR及智慧眼鏡、車載顯示、儲能等業務發展，以規範運作和穩健經營回饋投資者。"
-    },
-    {
-      "id": "5090809",
-      "time": "2026-09-12 20:29:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026浦江創新論壇在上海啟幕】12日，以“共享創新 共塑未來：新一輪科技革命背景下的全球科技共同體使命”為主題的2026浦江創新論壇在上海正式拉開帷幕。本屆論壇由中華人民共和國科學技術部與上海市人民政府共同主辦，南非共和國擔任主賓國，湖南省擔任主賓省。（新華社）"
-    },
-    {
-      "id": "5090808",
-      "time": "2026-09-12 20:28:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：在過去24小時內，俄羅斯在彼爾姆和薩馬拉地區的兩個化工企業遭到打擊。黑海的一個目標被擊中。在塔甘羅格，我方打擊了一個FPV無人機生產設施和無人機儲存點、一個油品儲罐、一個雷達站，以及一個Pantsir-S2系統。我們還確認了本週我們行動的成果。特別是，在克拉斯諾達爾和羅斯托夫地區，一架Su-33飛機和兩架Mi-8直升機被摧毀。彼爾姆的一個油料設施被擊中。"
-    },
-    {
-      "id": "mkt:01a09591-e853-7118-8557-167c4fa2b9ba",
-      "time": "2026-09-12 20:22:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Skyworth Digital: smart-terminal growth underpinned by three factors; company keeps positive full-year outlook】Skyworth Digital said at its results briefing that the smart-terminal segment was the main driver of 1H growth, delivering 4.4 bln yuan in revenue, up 52.45% YoY, with unit sales, revenue scale and gross margin all improving. The company cited three supports: intensified telco centralized procurement rollouts—Lingxi smart-screen shipments exceeded 300,000 units; product-mix optimisation after exiting some low-margin traditional procurement orders to focus on higher-value products; and successful overseas expansion, with the Nex Playground motion-sensing game box selling well in North America. With continued delivery of operator procurement projects in H2, the start of the overseas peak season and vehicle-display projects entering mass production, Skyworth Digital maintains a positive full-year earnings outlook."
-    },
-    {
-      "id": "5090807",
-      "time": "2026-09-12 20:12:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創維數字：智慧終端業務增長有三方面支撐 公司對全年業績保持積極預期】創維數字(000810)9月11日在業績說明會上表示，上半年公司業績增長的核心驅動力來自智慧終端業務的全面復甦，該板塊實現營收44億元，同比增長52.45%，銷售數量、營收規模及毛利率三條線同步提升。從增長邏輯看，主要有三方面支撐：一是運營商集採專案密集落地，智慧靈犀屏發貨量突破30萬臺；二是產品結構持續最佳化，公司主動放棄部分低毛利傳統集採訂單，聚焦高附加值產品；三是海外市場拓展成效顯著，Nex Playground體感遊戲盒子在北美市場銷售表現突出。隨著下半年運營商集採專案持續交付、海外旺季銷售啟動，以及車載顯示等專案陸續進入量產階段，公司對全年業績保持積極預期。"
     }
   ]
 }
