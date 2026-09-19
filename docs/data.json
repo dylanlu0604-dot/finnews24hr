@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20 03:31:02",
-  "count": 13481,
+  "updated": "2026-09-20 03:34:53",
+  "count": 13482,
   "items": [
+    {
+      "id": "5103548",
+      "time": "2026-09-20 03:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其外長：不接受沙特被捲入美伊衝突】當地時間9月19日，土耳其外交部長費丹接受採訪。在被問及沙烏地阿拉伯與葉門胡塞武裝之間的衝突時，費丹表示，土方不接受沙特被捲入當前美國與伊朗之間的衝突，沙特自身也無意捲入衝突。他表示，近期針對沙特領土完整、主權和基礎設施的襲擊十分嚴重。費丹稱，旨在結束戰鬥的有關方案已轉達各方。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0bb28-b976-7118-8612-1e64545c5507",
+      "time": "2026-09-20 03:33:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US F-16 fighter jet intercepted an aircraft that breached the Camp David no-fly zone while President Trump was at Camp David."
+    },
     {
       "id": "5103547",
       "time": "2026-09-20 03:28:11",
@@ -123764,15 +123780,6 @@
         "公司"
       ],
       "text": "強生正洽談將迪普伊辛特斯骨科業務出售給阿波羅公司。"
-    },
-    {
-      "id": "mkt:01a0971c-d806-7118-8558-64f6fe521b2b",
-      "time": "2026-09-13 03:34:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Altman: OpenAI will not IPO this year, safety work remains】OpenAI founder Altman said the company will not go public this year and he does not expect an IPO in 2026, saying substantial safety work remains. His comments follow an Anthropic employee resignation and stern warning about AI capabilities. Markets had anticipated large IPOs from OpenAI and Anthropic this year; Altman’s statement shifts near-term IPO timing pressure onto Anthropic CEO Dario Amodei, who on Saturday urged a slowdown in AI development."
     }
   ]
 }
