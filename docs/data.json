@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19 22:10:42",
+  "updated": "2026-09-19 22:14:46",
   "count": 13494,
   "items": [
+    {
+      "id": "mkt:01a0ba04-3bb4-7118-8611-0d8adc5f35ee",
+      "time": "2026-09-19 22:13:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Malaysia transport minister resigns】Malaysia's Transport Minister Lu Zhaofu resigned on the 19th after a Democratic Action Party (DAP) Central Executive Committee meeting that discussed the party's response to a conditional pardon allowing former prime minister Najib to serve the remainder of his sentence under home detention. DAP, the largest party in the ruling coalition, counts Lu as its secretary-general. Lu said his resignation was a protest against the pardon and that other DAP ministers would not resign."
+    },
+    {
+      "id": "5103325",
+      "time": "2026-09-19 22:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長紐森簽署法案，禁止其他州的民兵組織進入加州。"
+    },
     {
       "id": "5103310",
       "time": "2026-09-19 22:06:49",
@@ -123846,22 +123862,6 @@
         "國際"
       ],
       "text": "英國改革黨領袖奈傑爾·法拉奇回應特朗普“愛爾蘭統一”言論：北愛爾蘭是聯合王國不可分割的一部分。我不同意特朗普總統的觀點。"
-    },
-    {
-      "id": "5090868",
-      "time": "2026-09-12 22:14:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長：Anthropic將放慢人工智慧模型改進的速度。"
-    },
-    {
-      "id": "5090865",
-      "time": "2026-09-12 22:10:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【麥當勞中國顧磊：國內首條餐飲品牌專屬無人機配送航線開通】9月12日，麥當勞中國在服貿會上釋出線下消費創新成果。麥當勞中國首席影響官顧磊在現場表示，2026年以來，麥當勞中國持續與美團無人機合作，在深圳、上海兩地探索無人機配送業務。今年9月雙方在上海徐匯西岸開通了國內首條餐飲品牌專屬無人機配送航線。無人機配送的實踐價值，不僅在於提升配送效率，更在於透過新技術拓展服務邊界，連線新的消費場景和空間。"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "date": "2026-09-19",
-  "count": 984,
+  "count": 986,
   "items": [
+    {
+      "id": "mkt:01a0ba04-3bb4-7118-8611-0d8adc5f35ee",
+      "time": "2026-09-19 22:13:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Malaysia transport minister resigns】Malaysia's Transport Minister Lu Zhaofu resigned on the 19th after a Democratic Action Party (DAP) Central Executive Committee meeting that discussed the party's response to a conditional pardon allowing former prime minister Najib to serve the remainder of his sentence under home detention. DAP, the largest party in the ruling coalition, counts Lu as its secretary-general. Lu said his resignation was a protest against the pardon and that other DAP ministers would not resign."
+    },
+    {
+      "id": "5103325",
+      "time": "2026-09-19 22:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長紐森簽署法案，禁止其他州的民兵組織進入加州。"
+    },
     {
       "id": "5103310",
       "time": "2026-09-19 22:06:49",
