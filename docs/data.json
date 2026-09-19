@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-19 14:13:48",
-  "count": 13587,
+  "updated": "2026-09-19 14:17:38",
+  "count": 13589,
   "items": [
+    {
+      "id": "5103122",
+      "time": "2026-09-19 14:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為：昇騰已跨過生態拐點，有能力有機會構建AI新生態】9月19日，華為計算戰略與業務發展部部長朱照生表示，昇騰已經跨越了生態的拐點，完全有能力、有機會在Agentic時代構建AI新生態。從社群來看，昇騰CANN開源社群月均活躍使用者數超過5200人，自今年6月起成為國內活躍度最高的開源社群，社群非華為開發者數量超過華為開發者數量，目前日均新增合入程式碼超過3萬行。模型層面，基於昇騰完成預訓練的大語言模型和多模態模型已超過40個，昇騰成為國內唯一支援預訓練的AI算力平臺。生態層面，昇騰除自身開源CANN外，已接入PyTorch等主流開源框架。（21財經）"
+    },
+    {
+      "id": "mkt:01a0b84d-f0da-7118-860e-657dd6f2c2c8",
+      "time": "2026-09-19 14:15:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "An Iranian court website said it executed a person during wartime who had been convicted of passing intelligence on a missile base to Israel."
+    },
+    {
+      "id": "5103121",
+      "time": "2026-09-19 14:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗司法機構網站：伊朗處決一名在戰爭期間向以色列傳遞導彈陣地情報的定罪男子。"
+    },
+    {
+      "id": "5103120",
+      "time": "2026-09-19 14:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄防空系統夜間在俄上空摧毀344架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a0b84c-7d82-7118-860e-5df898fde3db",
+      "time": "2026-09-19 14:13:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia's Defence Ministry says air defences destroyed 344 Ukrainian drones overnight over Russian airspace】Russia's Defence Ministry said its air-defence systems intercepted and destroyed 344 Ukrainian fixed-wing UAVs overnight over Russian airspace, across multiple regions including Leningrad, Novgorod, Bryansk, Kursk, Belgorod, Oryol, Kaluga, Tula, Ryazan, Lipetsk, Vladimir, Rostov, Krasnodar Krai, Moscow region, Yamalo-Nenets Autonomous Okrug, Dagestan and over the Black Sea."
+    },
     {
       "id": "mkt:01a0b84c-0657-7118-860e-52cedc683e0c",
       "time": "2026-09-19 14:13:05",
@@ -124570,33 +124614,6 @@
         "MKT News"
       ],
       "text": "Ebrahim Azizi, head of Iran’s parliamentary national security committee, said there will be no negotiations and that talks are meaningless unless Iran’s conditions are met."
-    },
-    {
-      "id": "em:qqyh_mlc:202609123872716713",
-      "time": "2026-09-12 14:15:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【從“加不加息”到“加幾次” 美聯儲加息預期急劇升溫】一份關鍵的通脹報告，讓加息從美聯儲可選項變成了必選項。受燃油價格走高等因素推動，美國8月CPI同比漲幅保持在3.4%的高位，核心CPI同比漲幅則從2.5%回落至2.4%，均與市場預期一致。8月CPI環比上漲0.4%，符合市場預期；但核心CPI環比上漲0.3%，高於市場預期的0.2%，創下今年4月以來最大單月漲幅。"
-    },
-    {
-      "id": "5090611",
-      "time": "2026-09-12 14:14:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破100美元，日內跌超2.9%。"
-    },
-    {
-      "id": "5090610",
-      "time": "2026-09-12 14:14:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤日內跌超1%，現報6.5157美元。"
     }
   ]
 }
