@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19 15:19:00",
+  "updated": "2026-09-19 15:22:46",
   "count": 13566,
   "items": [
+    {
+      "id": "mkt:01a0b888-eeaf-7118-860e-a4852223a9dc",
+      "time": "2026-09-19 15:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-5.5 earthquake near the Peru-Ecuador border."
+    },
+    {
+      "id": "5103147",
+      "time": "2026-09-19 15:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心：秘魯-厄瓜多邊境地區發生5.5級地震。"
+    },
     {
       "id": "5103146",
       "time": "2026-09-19 15:18:02",
@@ -124388,26 +124404,6 @@
         "國際"
       ],
       "text": "【美防長稱美國比過去任何時候都更強】當地時間9月11日，美國國防部長赫格塞思在紀念“9·11”事件25週年活動上發表講話稱，美國經歷過最黑暗的時期，而現在的美國比過去任何時候都更強大。他說，過去6個月時間裡，美國已對伊朗造成重創，美國將確保伊朗“永遠不會擁有核武器”。赫格塞思的言論在社交媒體引發爭議，部分網友質疑美國對伊朗軍事行動的效果，還有人說，美國揹負著40萬億美元的債務，真的“更強大”了嗎？ （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a0947e-d564-7118-8555-05c30515b921",
-      "time": "2026-09-12 15:22:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says US aggression continues to affect Strait of Hormuz shipping security】Iran Foreign Ministry spokesman BAGHAEI said on Sept. 11 Iran, Iraq and other Gulf littoral states will meet in Oman on Sept. 14 to discuss regional issues, including the results of Iran‑Oman talks on maritime security in the Strait of Hormuz. He said the meeting aims to improve mutual understanding and strengthen collective regional security. BAGHAEI added Iran is committed to ensuring shipping safety in the strait but said shipping security cannot be guaranteed as long as US maritime blockades, economic warfare and other illegal interference continue."
-    },
-    {
-      "id": "5090647",
-      "time": "2026-09-12 15:20:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說美侵略持續影響海峽航運安全】伊朗外交部發言人巴加埃9月11日表示，伊朗、伊拉克及其他波斯灣沿岸國家將於14日在阿曼舉行地區會議。除各類地區議題外，會議還將就伊朗與阿曼關於霍爾木茲海峽安全海上通道的談判成果進行討論。巴加埃說，期待此次會議有助於相關區域各國之間增進理解，加強共同的區域安全。巴加埃還表示，伊朗致力於確保霍爾木茲海峽的航運安全，但只要美國的海上封鎖和經濟戰等侵略行為和非法干涉持續進行，海峽航運安全就無法得到保證。（CCTV國際時訊）"
     }
   ]
 }

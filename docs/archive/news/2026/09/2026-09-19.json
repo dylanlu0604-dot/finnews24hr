@@ -1,7 +1,23 @@
 {
   "date": "2026-09-19",
-  "count": 780,
+  "count": 782,
   "items": [
+    {
+      "id": "mkt:01a0b888-eeaf-7118-860e-a4852223a9dc",
+      "time": "2026-09-19 15:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-5.5 earthquake near the Peru-Ecuador border."
+    },
+    {
+      "id": "5103147",
+      "time": "2026-09-19 15:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心：秘魯-厄瓜多邊境地區發生5.5級地震。"
+    },
     {
       "id": "5103146",
       "time": "2026-09-19 15:18:02",
