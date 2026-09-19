@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 02:10:39",
+  "updated": "2026-09-20 02:14:25",
   "count": 13483,
   "items": [
+    {
+      "id": "mkt:01a0badc-cbf4-7118-8611-c0274aff1a9a",
+      "time": "2026-09-20 02:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House Correspondents' Association president Jacqui Heinrich urged the government to immediately restore the affected reporter's press credentials."
+    },
     {
       "id": "mkt:01a0badb-c811-7118-8611-bfaf2e817967",
       "time": "2026-09-20 02:09:20",
@@ -123778,17 +123786,6 @@
         "其他"
       ],
       "text": "英國外交大臣：與沙特外交大臣通話，討論葉門胡塞武裝的進攻行為及針對沙烏地阿拉伯的襲擊。"
-    },
-    {
-      "id": "mkt:01a096d0-928f-7118-8558-1ea9caedadf1",
-      "time": "2026-09-13 02:10:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX to gain weight in Nasdaq-100 after rebalancing】Simulated data from Nasdaq Global Index Monitoring published Friday night show SpaceX (SPCX.O) is projected to rise to about 2.82% of the Nasdaq-100 from roughly 1.28%; final weight will be set later this month. Wall Street expects the change will force index funds and ETFs tracking the benchmark to buy billions of dollars of SpaceX stock."
     }
   ]
 }

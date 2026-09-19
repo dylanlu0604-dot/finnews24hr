@@ -1,7 +1,15 @@
 {
   "date": "2026-09-20",
-  "count": 36,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:01a0badc-cbf4-7118-8611-c0274aff1a9a",
+      "time": "2026-09-20 02:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House Correspondents' Association president Jacqui Heinrich urged the government to immediately restore the affected reporter's press credentials."
+    },
     {
       "id": "mkt:01a0badb-c811-7118-8611-bfaf2e817967",
       "time": "2026-09-20 02:09:20",
