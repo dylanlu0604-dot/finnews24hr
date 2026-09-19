@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20 04:28:20",
+  "updated": "2026-09-20 04:32:12",
   "count": 13479,
   "items": [
+    {
+      "id": "5103558",
+      "time": "2026-09-20 04:29:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理：與庫克討論了兒童網路安全問題。"
+    },
+    {
+      "id": "5103557",
+      "time": "2026-09-20 04:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理：今日在蘋果總部會見蒂姆·庫克。"
+    },
     {
       "id": "mkt:01a0bb58-9885-7118-8612-539976c54e61",
       "time": "2026-09-20 04:25:40",
@@ -123722,29 +123738,6 @@
         "國際"
       ],
       "text": "【歐洲央行行長拉加德：當前價格衝擊持續時間將更久】歐洲央行行長拉加德表示，歐元區通脹仍將在一段時間內維持高位。自伊朗戰爭推高油氣價格以來，歐洲央行本週第二次加息。歐洲央行週四釋出的最新預測顯示，2027年和2028年通脹水平將高於此前預期，其中2028年通脹將小幅高於目標值。"
-    },
-    {
-      "id": "5091086",
-      "time": "2026-09-13 04:29:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Altman表示OpenAI今年不會IPO 需要推進安全相關工作】OpenAI不會在2026年上市，Sam Altman在接受採訪時表示，原因是需要開展與安全相關的工作。在週六刊發的採訪中，Altman表示，由於圍繞人工智慧的安全擔憂，今年進行首次公開募股“時機不合適”，因此IPO要到2027年才會進行。該公司於6月份以保密方式提交了IPO檔案，不過已經表示上市時間仍未確。"
-    },
-    {
-      "id": "mkt:01a0974e-daee-7118-8558-8a2a4ca60c99",
-      "time": "2026-09-13 04:28:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Axios: US losing status as default destination for arms purchases, capital parking and international students】Axios reports the United States is increasingly no longer the default choice for governments to buy weapons, for other countries to park funds, or as a destination for international students. The piece warns even modest shifts away from the US could erode Washington’s decades-long economic and geopolitical advantages."
     }
   ]
 }
