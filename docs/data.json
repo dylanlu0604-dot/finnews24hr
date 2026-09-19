@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-20 04:13:05",
-  "count": 13478,
+  "updated": "2026-09-20 04:16:54",
+  "count": 13477,
   "items": [
+    {
+      "id": "mkt:01a0bb4d-da6d-7118-8612-4b62383bc284",
+      "time": "2026-09-20 04:13:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Saudi says air defences intercepted ballistic missile fired toward Riyadh】Saudi Arabia's defense ministry said air defence forces intercepted and destroyed a ballistic missile fired by Houthi militants toward Riyadh in the early hours of Sept. 19 local time. Saudi-led coalition spokesman Turki al-Maliki said Houthis also attempted strikes on Bish, Taif, Farasan and Yanbu, and that those attacks were intercepted by Saudi air defences. Maliki accused the Houthis of sustained attacks on Saudi cities and civilian infrastructure and said the coalition would take measures it deems necessary in response."
+    },
     {
       "id": "mkt:01a0bb4a-b637-7118-8612-400092e77f0a",
       "time": "2026-09-20 04:10:30",
@@ -123713,28 +123725,6 @@
         "XAUUSD"
       ],
       "text": "【Axios: US losing status as default destination for arms purchases, capital parking and international students】Axios reports the United States is increasingly no longer the default choice for governments to buy weapons, for other countries to park funds, or as a destination for international students. The piece warns even modest shifts away from the US could erode Washington’s decades-long economic and geopolitical advantages."
-    },
-    {
-      "id": "mkt:01a09741-341c-7118-8558-871b517e32d5",
-      "time": "2026-09-13 04:13:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB President Christine Lagarde said she will leave the European Central Bank in 2027 and does not plan to return to French politics, saying she is not suited to be a candidate for the French presidency."
-    },
-    {
-      "id": "mkt:01a09740-c970-7118-8558-7b2f25df947d",
-      "time": "2026-09-13 04:13:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB President LAGARDE said the AI sector could experience a pullback, but the timing is unclear. Valuations in the AI space are very high."
     }
   ]
 }

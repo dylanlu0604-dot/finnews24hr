@@ -1,7 +1,19 @@
 {
   "date": "2026-09-20",
-  "count": 73,
+  "count": 74,
   "items": [
+    {
+      "id": "mkt:01a0bb4d-da6d-7118-8612-4b62383bc284",
+      "time": "2026-09-20 04:13:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Saudi says air defences intercepted ballistic missile fired toward Riyadh】Saudi Arabia's defense ministry said air defence forces intercepted and destroyed a ballistic missile fired by Houthi militants toward Riyadh in the early hours of Sept. 19 local time. Saudi-led coalition spokesman Turki al-Maliki said Houthis also attempted strikes on Bish, Taif, Farasan and Yanbu, and that those attacks were intercepted by Saudi air defences. Maliki accused the Houthis of sustained attacks on Saudi cities and civilian infrastructure and said the coalition would take measures it deems necessary in response."
+    },
     {
       "id": "mkt:01a0bb4a-b637-7118-8612-400092e77f0a",
       "time": "2026-09-20 04:10:30",
