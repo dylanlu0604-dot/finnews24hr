@@ -1,7 +1,31 @@
 {
   "date": "2026-09-19",
-  "count": 986,
+  "count": 989,
   "items": [
+    {
+      "id": "mkt:01a0ba0b-a590-7118-8611-1019ac20919c",
+      "time": "2026-09-19 22:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) has been assigned a 2.82% weight in the Nasdaq-100 in this index rebalance."
+    },
+    {
+      "id": "5103342",
+      "time": "2026-09-19 22:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在本次指數再平衡中的納斯達克100指數權重確定為 2.82%。"
+    },
+    {
+      "id": "5103332",
+      "time": "2026-09-19 22:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐森辦公室：法案加強了對州外勢力的管控。"
+    },
     {
       "id": "mkt:01a0ba04-3bb4-7118-8611-0d8adc5f35ee",
       "time": "2026-09-19 22:13:54",

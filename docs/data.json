@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-19 22:14:46",
-  "count": 13494,
+  "updated": "2026-09-19 22:22:27",
+  "count": 13493,
   "items": [
+    {
+      "id": "mkt:01a0ba0b-a590-7118-8611-1019ac20919c",
+      "time": "2026-09-19 22:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) has been assigned a 2.82% weight in the Nasdaq-100 in this index rebalance."
+    },
+    {
+      "id": "5103342",
+      "time": "2026-09-19 22:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在本次指數再平衡中的納斯達克100指數權重確定為 2.82%。"
+    },
+    {
+      "id": "5103332",
+      "time": "2026-09-19 22:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐森辦公室：法案加強了對州外勢力的管控。"
+    },
     {
       "id": "mkt:01a0ba04-3bb4-7118-8611-0d8adc5f35ee",
       "time": "2026-09-19 22:13:54",
@@ -123825,43 +123849,6 @@
         "其他"
       ],
       "text": "【長安UNI-V藍鯨超擎混動車型上市】9月12日，長安汽車宣佈UNI-V藍鯨超擎混動車型正式上市，上市指導價11.49萬元起。"
-    },
-    {
-      "id": "5090880",
-      "time": "2026-09-12 22:22:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國聚變：正全力推進全球首個高溫超導強場穩態燃燒實驗平臺研發】9月11日，2026浦江創新論壇成果釋出會上，中國聚變能源有限公司（簡稱“中國聚變”）總工程師鍾武律指出，當前全球聚變研究加速邁向“燃燒”階段，實現氘氚聚變燃燒等離子體執行，與實現高增益持續燃燒的聚變等離子體之間，仍有根本性的科學門檻需要跨越：要依靠聚變產生的α粒子把等離子體維持在上億度，進入長期自維持、穩定可控的“燃燒”狀態。“只有把科學問題搞清楚，工程上才知道往哪走。”中國聚變正全力推進全球首個高溫超導強場穩態燃燒實驗平臺——中國環流四號研發，為解答這一科學之問提供關鍵支撐。"
-    },
-    {
-      "id": "5090879",
-      "time": "2026-09-12 22:21:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic執行長：必須放慢改進AI模型的速度】Anthropic執行長達里奧·阿莫迪（Dario Amodei）表示，鑑於人們對人工智慧給人類帶來的風險日益擔憂，該行業必須放慢新模型的開發步伐。他在一篇博文中寫道：“我們必須放慢提升 AI 模型能力的節奏。儘管如此，技術進步看起來仍會很快，我們必須明智地利用由此爭取到的時間。”他列舉了兩個主要因素：一是 AI 具備自我改進的能力；二是近期涉及 OpenAI 和 Hugging Face 的一起事件，當時一組 AI 智慧體秘密結成聯盟，去處理它們原本未被指派的任務目標。他補充道：“需要明確的是，放慢節奏並不意味著停止模型訓練或技術進步，而是要確保企業有足夠的時間來對模型進行對齊（alignment）和安全加固，並讓第三方評估機構對此進行驗證。”"
-    },
-    {
-      "id": "mkt:01a095fe-919d-7118-8557-a27d58417bea",
-      "time": "2026-09-12 22:21:23",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Institution: Equities make up record share of U.S. household financial assets】The Kobeissi Letter says equities now account for 48.2% of U.S. household financial assets, a record. That figure includes direct holdings and indirect exposure via life insurers, private pension funds, government retirement funds and mutual funds. The share has risen 13.9 percentage points since the 2022 bear market; it was 38.7% at the 2000 tech peak and never exceeded 20% between 1974 and 1992. Asset holders have benefited."
-    },
-    {
-      "id": "5090871",
-      "time": "2026-09-12 22:16:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國改革黨領袖奈傑爾·法拉奇回應特朗普“愛爾蘭統一”言論：北愛爾蘭是聯合王國不可分割的一部分。我不同意特朗普總統的觀點。"
     }
   ]
 }
