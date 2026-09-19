@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-20 02:36:52_
-_本檔包含 2629 則快訊，約 524972 字_
+_更新時間：2026-09-20 05:43:59_
+_本檔包含 2613 則快訊，約 524671 字_
+
+---
+
+### 2026-09-18 10:19:52  #宏觀
+
+【住建部：制定“十五五”時期數字住建發展工作方案 推動AI等技術應用】9月18日，住房和城鄉建設部新聞發言人、副部長陳紹旺在國新辦新聞釋出會上表示，在夯實高質量發展基礎支撐方面，關鍵是打基礎強支撐。住建部制定了“十五五”時期數字住建發展工作方案，推動人工智慧等新一代資訊科技，在智慧城市、智慧建造、智慧家居等領域的應用。
+
+---
+
+### 2026-09-18 10:19:46  #MKT News
+
+【SOUTH KOREA'S LEE approval rating hits record low】Gallup Korea poll: approval 37% (record low), disapproval 56% (record high), disapproval up 5ppt from last week; gap between positive and negative ratings 19ppt. Policy-specific ratings: worst-rated — real estate policy 20%, personnel appointments 16%; best-rated — foreign affairs 26%.
+
+---
+
+### 2026-09-18 10:19:29  #公司 #市場
+
+【紡服行業板塊持續走強，七匹狼等多股漲停】紡服行業板塊持續走強，七匹狼、龍頭股份、華紡股份、奧康國際漲停，紅蜻蜓、紅豆股份、欣賀股份、華升股份、萬事利、福恩股份等跟漲。
+
+---
+
+### 2026-09-18 10:17:28  #公司
+
+【犀裡光電完成億元級Pre-A輪融資】近日，面向AI資料中心光互聯的薄膜鈮酸鋰光子引擎提供商犀裡光電宣佈完成億元級Pre-A輪融資。本輪由孚騰資本領投，上海未來產業基金、基石資本、大灣區基金、天際資本、深產投及上市公司智微智慧跟投，光源資本擔任獨家財務顧問。本輪融資將主要用於薄膜鈮酸鋰光子晶片及片上系統整合技術的持續研發，推進核心產品迭代、晶圓級工藝協同及量產驗證，加速公司與AI資料中心、光模組、通訊裝置和光電封測等產業鏈夥伴的合作，推動薄膜鈮酸鋰光子晶片在下一代高速光網際網路絡中的規模化應用。
+
+---
+
+### 2026-09-18 10:16:08  #其他
+
+【住房城鄉建設部：從14個方面提高住房品質】今天，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，住房城鄉建設部有關負責人介紹，提升人民群眾居住水平方面，關鍵是建設“好房子”。建設什麼樣的好房子？安全、舒適、綠色、智慧。怎樣建設好房子？從好標準、好設計、好材料、好建造、好運維全鏈條全生命週期推進。什麼是好標準？我們認為：人民群眾覺得好的標準就是好標準。負責人表示，認真聽取群眾關於改善居住條件的意見，從14個方面提高住房品質要求。（央視新聞）
+
+---
+
+### 2026-09-18 10:16:08  #MKT News #Market Regions #Greater China #Copper #Impact bullish
+
+【China to raise housing quality across 14 areas, MOHURD says】China’s Ministry of Housing and Urban-Rural Development (MOHURD) told a government briefing it will boost residential quality by focusing on building “good homes” — defined as safe, comfortable, green and smart. Improvements will span the full chain and lifecycle: higher standards, better design, improved materials, construction quality and operations/maintenance. MOHURD said it will raise housing-quality requirements in 14 specific areas and will shape standards by listening to residents’ views on what constitutes a good home.
+
+---
+
+### 2026-09-18 10:16:01  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies as Traders Assess Fed Outlook — The dollar index held around 100.2 on Friday, remaining close to seven-week highs as traders weighed the Federal Reserve’s policy outlook following its latest rate decision and amid softer oil prices. The index is heading for a weekly gain of more than 1% after the FOMC unanimously lifted the fed funds rate by 25 basis points to 3.75%-4%, marking its first increase in three years. Fed officials also indicated that additional tightening could come later this year as they seek to contain rising price pressures, with Chair Kevin Warsh noting that inflation remains elevated. The Bank of Japan is also expected to raise rates, while the Bank of England left borrowing costs unchanged on Thursday but cautioned that prolonged conflict in the Middle East could eventually require a rate hike. Meanwhile, oil prices extended their decline for a third session as Saudi Arabia worked to restore flows through its East-West pipeline, easing inflation worries.
+
+---
+
+### 2026-09-18 10:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Depreciates by 0.37% — Top currency losers are South Korean Won (-0.37%) and Japanese Yen (-0.19%). Gains are led by Indonesian Rupiah (0.25%) and Chinese Yuan (0.10%).
+
+---
+
+### 2026-09-18 10:15:05  #MKT News #Market Regions #Greater China
+
+【Ministry of Housing and Urban‑Rural Development sets five goals for 15th Five‑Year Plan period】At a State Council Information Office briefing on the 18th, Ministry of Housing and Urban‑Rural Development spokesman and vice minister Chen Shaowang said the ministry's objectives for the 15th Five‑Year Plan period are: significant progress in modernizing cities; measurable improvements in residents' housing standards; marked quality upgrades in the construction industry; a stronger global footprint for China's human‑settlement sector; and a consolidated foundation for high‑quality development.
+
+---
+
+### 2026-09-18 10:14:25  #其他
+
+李在明：評估擴大霍爾木茲海峽行動以確保安全通行。
+
+---
+
+### 2026-09-18 10:13:58  #市場
+
+【摩爾執行緒股價連續反彈 較低位最大反彈幅度已超20%】摩爾執行緒股價今天上午進一步上行，最高達416.50元，較近期低位的反彈幅度已超20%。不久前的9月7日，摩爾執行緒股價20%跌停，自此股價一度連續幾個交易日大幅下挫，最低跌至343.77元，但最近幾個交易日摩爾執行緒股價又開始連續反彈。
+
+---
+
+### 2026-09-18 10:13:35  #其他
+
+【“南寧港—洋浦港”江海直達航線首航船今天將抵達洋浦港】平陸運河9月16日正式通航，“南寧—海南”貨運航線也於當天開通。今天中午，“南寧港—洋浦港”江海直達航線首航船舶將抵達洋浦港，靠港開展卸貨作業。執行這條航線首航任務的“廣星798”輪，裝載了廣西出產的建築材料、深加工農產品等貨物，於平陸運河通航當天，從南寧港六景作業區出發，沿平陸運河一路南下，經欽州港出海，最終抵達洋浦國際集裝箱碼頭。
+
+---
+
+### 2026-09-18 10:13:10  #公司 #市場
+
+【先進封裝概念震盪走強 華天科技觸及漲停】先進封裝概念盤中震盪走強，華天科技觸及漲停，此前誠邦股份回封漲停，拉普拉斯、中旗新材、惠科股份、託倫斯、三佳科技、長電科技漲幅靠前。
+
+---
+
+### 2026-09-18 10:12:49  #其他
+
+李在明：正權衡賦予“清海部隊”更重要角色的可能性。
+
+---
+
+### 2026-09-18 10:12:05  #MKT News #WTI #Impact mixed #Brent
+
+South Korea's Lee is assessing whether to increase the country's participation in the Strait of Hormuz.
+
+---
+
+### 2026-09-18 10:11:55  #其他
+
+李在明：正在評估是否在霍爾木茲海峽問題上加大參與力度，超出當前水平。
+
+---
+
+### 2026-09-18 10:11:37  #MKT News
+
+South Korea's Lee said he may take minimal action to protect the country's economic interests and citizens.
+
+---
+
+### 2026-09-18 10:11:16  #國際
+
+韓國代總統李在明：為保護韓國經濟利益和人民，將採取最低限度的必要措施。
+
+---
+
+### 2026-09-18 10:11:13  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Rebound on Oil Retreat, Tech Gains — The Shanghai Composite rose 0.5% to around 3,900, while the Shenzhen Component gained 0.8% to 13,500 on Friday, rebounding from the previous session as easing oil prices improved risk sentiment, while markets watched the upcoming high-level US-China talks. Both benchmarks are also on track for modest weekly gains as concerns over Middle East supply disruptions eased, with Saudi Arabia working to restore flows through its East-West pipeline and hopes growing for renewed diplomatic efforts to end the conflict. Meanwhile, the upcoming meeting between US President Donald Trump and Chinese President Xi Jinping is expected to cover growing AI competition and access to advanced US chips, while investors also await progress on tariffs, China’s rare-earth export restrictions, the yuan and a possible extension of the trade truce due to expire in November. Technology stocks led the advance, with CXMT, Foxconn, Zhongji Innolight and Cambricon up 1% to 3%, while the banking sector mostly declined.
+
+---
+
+### 2026-09-18 10:10:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #005930.KS #Impact bullish
+
+【Samsung Galaxy Z Fold8 sales rise about 10% in Korea after Apple launches iPhone Duo】Following Apple’s launch of its first foldable iPhone, the iPhone Duo, Samsung Electronics’ Galaxy Z Fold8 recorded about a 10% week-on-week sales increase in South Korea in the week after the launch, South Korean telecom industry data released Sept. 17 showed. The data indicated consumers who had been waiting for Apple’s new model began buying Samsung Galaxy phones, redirecting some pent-up demand to Samsung’s foldable series.
+
+---
+
+### 2026-09-18 10:10:37  #國際
+
+韓國總統李在明：不會部署兵力參與涉及霍爾木茲的衝突。
+
+---
+
+### 2026-09-18 10:10:32  #MKT News #WTI #Impact bearish #Brent
+
+South Korea's President Lee said he will not deploy forces to participate in any conflict involving the Strait of Hormuz.
+
+---
+
+### 2026-09-18 10:09:21  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Rise as Oil Slips, Tech Leads — The Hang Seng Index rose 0.9%, or around 214 points, to around 24,819 on Friday, as easing oil prices and softer US Treasury yields improved market sentiment after the Federal Reserve raised interest rates by 25 basis points to 3.75%-4.00% and signaled the possibility of another hike this year. Brent crude fell below $104 a barrel after declining for a third straight session, easing concerns over inflation and higher borrowing costs. Wall Street also rebounded sharply overnight, with the S&P 500 and Nasdaq gaining more than 1%, supporting risk appetite across Asian markets. Technology shares led gains in Hong Kong, tracking the tech-led rally on Wall Street. Notable movers included Z.AI Co. (4.5%), Tencent (0.7%), Lenovo (2.7%), MiniMax (7.3%), and SMIC (2.4%). Investors continued to monitor developments in the Middle East and the outlook for further US monetary tightening, while attention also turned to the planned meeting between President Trump and President Xi next week.
+
+---
+
+### 2026-09-18 10:08:50  #其他
+
+住房城鄉建設部：“十五五”時期努力實現5方面目標。一是現代化人民城市建設取得重要進展；二是人民群眾居住水平實現新的提升；三是建築業提質升級取得顯著成效；四是人居領域全球影響力明顯增強；五是高質量發展基礎支撐全面夯實。
+
+---
+
+### 2026-09-18 10:08:18  #MKT News #Important
+
+C Shengu's decline narrowed to 6.25 pct and the stock hit an intraday temporary trading halt after an initial opening drop of more than 27 pct.
+
+---
+
+### 2026-09-18 10:07:44  #公司
+
+【美銀證券：贛鋒鋰業鋰價回撥反映多重憂慮 公司指市場需求預期已過於悲觀】美銀證券釋出研報稱，贛鋒鋰業(01772)在電話會議上討論近期鋰價弱勢，似乎反映多重市場憂慮，包括主要行業參與者削減訂單的傳聞、電池出貨強勁但下游儲能裝機及電動車銷售未跟上所引發的供需錯配及庫存累積憂慮、上海有色網(SMM)資料修訂所引發的隱性庫存猜測，以及高倉單未必代表庫存充裕等問題。該行維持"買入"評級，H股目標價70港元。該行指，贛鋒不同意悲觀論調，不認為電池持有大量庫存，公司庫存偏低、行業偏緊，現貨供需非常緊張，今年處於短缺且去庫存持續，並非需求崩潰的市場。公司假設明年供應增長20%至25%、需求增長約25%，認為市場需求預期已過於悲觀;公平鋰價約為15萬元人民幣，但10萬至12萬元人民幣是關鍵支撐，成本上升快於預期，在12萬元人民幣水平已可見供應減少。
+
+---
+
+### 2026-09-18 10:07:40  #MKT News #Market Regions #Greater China
+
+【Ministry: housing and urban construction faces new dynamics in 15th Five-Year Plan period】At a State Council Information Office briefing today, the Ministry of Housing and Urban-Rural Development said the housing and urban-rural development sector will face new dynamics during the 15th Five-Year Plan period. The ministry identified three main segments—urban-rural construction, housing and real estate, and the construction industry—each at a critical transformation point. For urban-rural construction it described two shifts: urbanization is moving from rapid expansion to stable growth, and city development is shifting from large-scale incremental expansion to stock-focused quality and efficiency improvements. For housing and real estate it cited two transitions: a significant change in market supply-demand dynamics and a move into a stock era. For the construction industry it outlined a threefold transformation toward intelligence, greening and integration.
 
 ---
 
@@ -15619,263 +15781,5 @@ Japan's Nikkei 225 opened up 661.77 points, or 1.04%, at 64,584.77 points on Thu
 ### 2026-09-17 08:01:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
 
 【CITIC Securities sees one more 25bps Fed hike this year】CITIC Securities says the Fed raised 25bps in September as expected and upgraded its growth and inflation forecasts; the dot plot and Fed remarks were hawkish. Strong market expectations made the September hike the path of least resistance. The timing and size of further hikes will depend heavily on oil prices, which remain unpredictable; with headline inflation YoY likely to drop notably in early next year, the case for additional tightening should weaken. CITIC expects one more 25bps hike before year-end and a likely pause next year. US financial conditions are unlikely to ease meaningfully; investors should favour assets with fundamental support rather than those that rely solely on liquidity.
-
----
-
-### 2026-09-17 08:00:50  #市場 #國際
-
-韓國綜合股價指數（KOSPI）上漲1.1%，至6793.71點。
-
----
-
-### 2026-09-17 08:00:37  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲0.9%，至6779.02點。
-
----
-
-### 2026-09-17 08:00:20  #市場
-
-【日韓股市開盤】日經225指數上午開盤報64643.58點，漲幅1.13％。韓國綜合股價指數（KOSPI）開盤上漲0.9％，至6779.02點。
-
----
-
-### 2026-09-17 08:00:11  #觀點 #央行 #國際
-
-【中信證券：預計美聯儲年內將再加息25bps，明年可能按兵不動】中信證券研報認為，美聯儲9月如期加息25bps，上調今年增長及通脹預測，點陣圖和沃什發言均釋放鷹派訊號。市場強烈的預期壓力讓加息成為美聯儲順水推舟的選擇。美聯儲後續加息的節奏與幅度在很大程度上取決於油價，這難以預測，但鑑於總體通脹率同比或會在明年初明顯下行，屆時繼續加息的理由應會弱化。我們預計美聯儲年內將再加息25bps，明年可能按兵不動。美國金融條件目前難以有意義地寬鬆，在增長敘事下應尋找有基本面支撐而非僅受益於流動性的資產。
-
----
-
-### 2026-09-17 07:58:08  #央行 #國際
-
-韓國央行：美聯儲自 2023 年 7 月以來首次加息，為三年多來的首次。考慮到沃什主席強調價格穩定以及可能進一步加息的跡象，預計美聯儲未來的貨幣政策立場將保持緊縮。
-
----
-
-### 2026-09-17 07:57:35  #央行 #國際
-
-韓國央行：外部風險因素依然存在，包括中東戰爭局勢的發展、國際油價走勢、對主要國家財政穩健性的擔憂以及與人工智慧行業相關的不確定性。
-
----
-
-### 2026-09-17 07:57:14  #MKT News
-
-Bank of Korea says it will remain highly vigilant on foreign-exchange and financial markets.
-
----
-
-### 2026-09-17 07:57:02  #央行 #國際
-
-韓國央行副行長：鑑於日本和英國等主要國家的貨幣政策決定定於本週公佈，將繼續以高度警惕的態度密切關注國內金融和外匯市場狀況。
-
----
-
-### 2026-09-17 07:56:08  #央行 #國際
-
-韓國央行稱將對外匯和金融市場保持高度警惕。
-
----
-
-### 2026-09-17 07:55:59  #市場
-
-【國慶假期首日火車票，今日開售】今年的國慶假期是10月1日到7日，根據火車票預售期15天的規則，今天就可以購買國慶假期首日的火車票了。今年中秋假期與國慶假期時間接近，兩節臨近也帶動機票、酒店的預訂量上漲。平臺資料顯示，截至9月16日，“中秋”“國慶”等關鍵詞搜尋量環比上月增長167%，本週國慶機票酒店預訂量環比上週增長56%，熱門2000公里以上航線預訂量同比翻番。
-
----
-
-### 2026-09-17 07:53:40  #經濟數據 #日本
-
-日本至9月11日當週外資買進日債22362億日元，前值4496億日元。
-
----
-
-### 2026-09-17 07:53:39  #其他
-
-【雲頂新耀：維適平由境外轉移至境內生產的藥品上市註冊申請獲國家藥監局受理】9月17日，雲頂新耀宣佈，中國國家藥品監督管理局（NMPA）藥品審評中心（CDE）已受理維適平®（精氨酸艾曲莫德片，VELSIPITY®）由境外轉移至境內生產的藥品上市註冊申請，並納入優先審評審批程式。維適平®本地化生產有望於2027年正式投產。維適平®於2026年2月獲NMPA批准上市，用於治療對傳統治療或生物製劑應答不充分、失應答或不耐受的中度至重度活動性潰瘍性結腸炎（UC）成人患者。
-
----
-
-### 2026-09-17 07:53:19  #公司 #市場
-
-【原料成本大幅攀升 炭黑市場回暖】9月16日，炭黑概念股集體異動，龍星科技、黑貓股份漲停，永東股份、聯科科技等同步走高。近期，國內炭黑市場迎來一輪爆發式上漲，主流產品報價接連突破歷史關口。截至9月16日，生意社炭黑基準價報12778.57元/噸，較月初（9142.8元/噸）上漲39.77%。“受主焦煤、配煤等上游原煤供給收緊、煤價堅挺影響，焦化企業生產成本居高不下，持續陷入虧損狀態。為控制虧損幅度、最佳化生產效益，多數焦化企業主動壓減生產負荷、延長裝置檢修週期，行業整體開工率大幅下滑。”有業內人士記者表示。產能收縮直接導致煤焦油副產品產出量銳減，市場商品流通貨源大幅縮減，現貨庫存持續低位，煤焦油價格開啟快速跳漲模式、一路衝高。原料成本的大幅攀升，抬高了炭黑企業的整體生產成本，形成強有力的成本倒逼漲價邏輯，為炭黑漲價提供了核心支撐。（證券日報）
-
----
-
-### 2026-09-17 07:53:02  #Trading Economics #Economy #Hong Kong #Interest Rate #Importance 1
-
-HKMA Lifts Base Rate to 4.25% Following Fed Hike — The Hong Kong Monetary Authority (HKMA) raised its base rate by 25bps to 4.25% on September 17, 2026, marking its first hike since 2023 and following the U.S. Fed’s decision to lift its federal funds target range for the first time in three years. The move reflects Hong Kong’s Linked Exchange Rate System, which keeps the Hong Kong dollar within a 7.75–7.85 per U.S. dollar trading band and requires local interest rates to broadly track U.S. monetary policy, regardless of domestic economic conditions. The HKMA’s move came as Hong Kong’s economy continues to benefit from robust trade, although higher borrowing costs could weigh on a property market only recently emerging from a prolonged downturn. Sentiment may also remain cautious amid concerns over China’s efforts to curb mainland capital outflows. Meanwhile, GDP grew 4.3% yoy in Q2 2026, slowing from 5.9% in Q1 as household consumption and fixed investment growth eased, while government spending remained subdued.
-
----
-
-### 2026-09-17 07:52:39  #公司 #國際
-
-【谷歌在美國司法部提起的廣告技術壟斷訴訟中敗訴】根據美國司法部發布公告，司法部反壟斷局在針對谷歌網路廣告技術（Ad Tech）市場的壟斷訴訟（United States et al. v. Google LLC）中贏得了重大的實質性救濟裁決。 弗吉尼亞州東區聯邦地方法院在判決中重申，必須終結谷歌的壟斷、消除其反競爭行為帶來的市場束縛，並拒絕讓谷歌繼續享有其非法獲得的壟斷勢力和利潤。法院明確駁回了谷歌關於“終結壟斷不屬於壟斷案適當目標”的抗辯。
-
----
-
-### 2026-09-17 07:51:07  #經濟數據 #日本
-
-日本至9月11日當週外資買進日股-15228億日元，前值由6900億日元修正為6896億日元。
-
----
-
-### 2026-09-17 07:50:55  #MKT News
-
-U.S. State Department said it will extend visa-ban sanctions on members of the Palestine Liberation Organization and Palestinian officials.
-
----
-
-### 2026-09-17 07:50:32  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #EURUSD #Impact bearish
-
-Japan net bought foreign equities worth 169.2 bln yen in the week to Sept. 11, versus net sales of 481.6 bln yen in the prior week.
-
----
-
-### 2026-09-17 07:50:30  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Foreign investors bought Japanese government bonds worth ¥2.2362 trillion in the week to Sept. 11, up from ¥449.6 billion the previous week.
-
----
-
-### 2026-09-17 07:50:28  #市場 #國際
-
-日本至9月11日當週買進外國債券 10829億日元，前值由1119億日元修正為1114億日元。日本至9月11日當週外資買進日股 -15228億日元，前值由6900億日元修正為6896億日元。日本至9月11日當週外資買進日債 22362億日元，前值4496億日元。日本至9月11日當週買進外國股票 1692億日元，前值-4816億日元。
-
----
-
-### 2026-09-17 07:50:20  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-Japan bought ¥1.083 tln of foreign bonds in the week to Sept. 11; the previously reported figure was revised to ¥111.4 bln from ¥111.9 bln.
-
----
-
-### 2026-09-17 07:50:20  #MKT News #Nikkei 225 #Impact bearish
-
-Foreign investors were net sellers of Japanese equities by ¥1.523 trillion in the week to Sept. 11; the prior week's figure was revised from ¥690.0 billion to ¥689.6 billion.
-
----
-
-### 2026-09-17 07:50:18  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Stocks Buying (Sep.11) | actual 169200000000B | previous -481600000000B
-
----
-
-### 2026-09-17 07:50:12  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Bonds (Sep.11) | actual 2236200000000B | previous 449600000000B
-
----
-
-### 2026-09-17 07:50:08  #MKT News
-
-The U.S. State Department said it is imposing sanctions on Palestinian officials and members of the Palestine Liberation Organization.
-
----
-
-### 2026-09-17 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (Sep.11) | actual -1522800000000B | previous 690000000000B
-
----
-
-### 2026-09-17 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (Sep.11) | actual 1082900000000B | previous 111900000000B
-
----
-
-### 2026-09-17 07:49:58  #宏觀 #國際
-
-美國國務院表示，美國正對巴勒斯坦權力機構官員及巴勒斯坦解放組織成員實施制裁。
-
----
-
-### 2026-09-17 07:49:12  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact mixed
-
-【Axios: Trump to meet Gulf leaders next week on Iran】Axios, citing three people, says Trump is expected to meet Gulf leaders or foreign ministers next Tuesday in New York during the UN General Assembly — Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman — to discuss next steps in the war with Iran. The meeting will focus on a U.S. post-war strategy; Trump and senior advisers are drafting a plan they expect to finalize after the midterm elections. One source said the meeting could be expanded to include other Arab and Muslim leaders. An Israeli source said Prime Minister Netanyahu also wants a meeting in New York with Trump but none is scheduled. Trump said on Wednesday he hopes "we are close to the end of the war" and repeated that he has heard directly from Iran that it wants to reach an agreement.
-
----
-
-### 2026-09-17 07:47:51  #國際
-
-【印度計劃向“掃碼支付”收費】全球交易量最大的零售快速支付系統迎來重大變革。據印度新德里電視臺15日報道，印度擬對透過統一支付介面（UPI）向商戶支付、金額超過2000印度盧比（100印度盧比約合7元人民幣）的交易收取費用。結束多年來零成本支付的時代。作為印度數字公共基礎設施領域的關鍵專案之一，UPI自2016年上線以來實現明顯發展，年交易量超2400億筆。
-
----
-
-### 2026-09-17 07:47:33  #其他
-
-【剛果（金）東南部交通事故致至少33人死亡】據剛果（金）媒體16日報道，位於該國東南部的上加丹加省米圖瓦巴地區發生一起交通事故，造成至少33人死亡、約20人受傷。 報道援引上加丹加省交通部門的訊息說，15日夜間至16日凌晨時段，一輛從鄰近的上洛馬米省駛來的卡車在米圖瓦巴地區墜入河中，事故死傷人數可能會上升。 報道說，事故原因仍在進一步調查中。
-
----
-
-### 2026-09-17 07:46:53  #國際
-
-【AI“劫持”網站並偷建“地下論壇”，國安部披露細節】國家安全部今天釋出安全提示文章。近期，一起此前未獲披露的事件引發廣泛關注。今年5月至6月，一批與美國開放人工智慧研究中心（OpenAI）相關的AI智慧體在執行測試任務期間，“劫持”了德國程式設計師維基網站（DseWiki），將原本用於技術交流的開放社群改造為供智慧體相互傳遞資訊、分享測試任務答案和突破執行環境限制方法的“地下論壇”，累計釋出一萬多條資訊……當AI智慧體被賦予越來越多的現實行動能力，技術迭代與安全圍欄之間的縫隙，正在悄然擴大。國家安全部提醒，人工智慧安全風險正在快速演進，必須引起重視、加強防範。
-
----
-
-### 2026-09-17 07:46:27  #公司
-
-【A股分紅派息轉增一覽：30股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，30只A股今日股權登記。其中，30股擬派息。分紅派息方面，30只個股分紅派息的股權登記日為9月17日。恆逸石化、睿創微納、成都銀行分紅力度最大，每10股分別派息9.00元、5.00元、4.89元。此外，還有2股丟擲分紅派息預案，中國鋁業、特發服務擬分紅力度最大，每10股擬分別派息2.76元、1.6元。
-
----
-
-### 2026-09-17 07:45:47  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.08點。
-
----
-
-### 2026-09-17 07:45:39  #市場 #國際
-
-日本日經指數期貨早盤上漲1%。
-
----
-
-### 2026-09-17 07:45:25  #公司
-
-【A股定增一覽：6家公司披露定增進展】Wind資料顯示，9月17日，A股共6家公司釋出定增相關公告。其中4家定增預案獲股東大會透過，2家定增預案獲證監會透過。今年以來，已有137家公司公告定增方案已完成，48家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。
-
----
-
-### 2026-09-17 07:44:12  #國際
-
-【特朗普下週將與海灣國家領導人就伊朗問題舉行會談】三位知情人士透露，特朗普總統預計下週二在紐約聯合國大會期間，與海灣國家領導人舉行會晤，商討對伊朗戰事的後續安排。此次會議預計將重點討論美國提出的戰後戰略構想。特朗普及其高層團隊正在制定戰後方案，該方案預計將在中期選舉後敲定。一名以色列訊息人士稱，以色列總理本雅明・內塔尼亞胡也希望在紐約與特朗普會面，但目前尚未安排相關會談。
-
----
-
-### 2026-09-17 07:43:45  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Rise After Fed-Driven Selloff — US stock futures moved higher on Thursday after the major averages declined in the previous session as the Federal Reserve delivered its first interest rate hike in three years. Dow futures gained 0.2%, while S&P 500 and Nasdaq 100 futures advanced 0.3% and 0.5%, respectively. In regular trading on Wednesday, the Dow dropped 1.21%, weighed down by losses among financial services stocks. The S&P 500 and Nasdaq Composite also fell 0.45% and 0.01%, respectively, giving up gains made earlier in the session. As widely expected, the Fed raised its benchmark interest rate by 25 basis points to 3.75%-4% while signaling another rate increase later this year. The central bank is seeking to curb inflationary pressures as oil prices climbed above $100 per barrel. In corporate news, Generac jumped 33% in extended trading after Amazon received warrants to purchase up to $340 million worth of its shares under an agreement for Generac to supply backup power generators to Amazon’s data centers.
-
----
-
-### 2026-09-17 07:43:40  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude plunged, hitting a low of $96.67/bbl.
-
----
-
-### 2026-09-17 07:42:55  #MKT News #Important #WTI #Impact bullish #Brent
-
-Axios reports US President Trump will meet Gulf leaders next week to discuss Iran.
-
----
-
-### 2026-09-17 07:42:11  #市場 #國際
-
-【專家料秋糧或維持豐收格局 糧價大幅上漲缺乏支撐】超強厄爾尼諾擾動全球農業生產，疊加中東地緣衝突持續發酵，全球糧食供給不確定性顯著上升。 業內人士分析，今年國內秋糧大機率維持豐收格局，總產量存在增長空間，糧價大幅上漲缺乏支撐。後續走勢需持續關注厄爾尼諾演化及地緣、需求端變數。 “我國堅持‘口糧絕對安全，穀物基本自給’的糧食戰略，今年國內秋糧大局已定，超強厄爾尼諾對秋糧的實質性衝擊有限，並未造成大範圍災害。”上海鋼聯糧食行業分析師劉棟告訴記者，“以玉米市場為例，當前國核心心矛盾仍是供強需弱。新季糧食豐產，疊加生豬去產能壓制飼用消費，替代穀物供給充足，新季玉米供需整體寬鬆，短期不具備價格大幅上漲基礎。不過國內外種植成本抬升，玉米價格暴跌空間同樣有限，中長期價格底部存在震盪抬升的可能性。”（證券時報）
-
----
-
-### 2026-09-17 07:41:12  #觀點
-
-【中信建投：8月經濟資料不改債市趨勢】中信建投研報認為，8月經濟資料公佈，延續先前內需較弱、供強於需的總體格局，不改債市緩慢偏強的長期趨勢。1-8月，社會消費品零售總額同比增長1.1%、固定資產投資完成額同比下降7.2%，消費及投資增速仍處於歷史較低水平，內需承壓特徵明顯。外需方面，8月貿易差額0.81萬億元，同比增長11.9%，增速再創3月以來新高，外部需求動能繼續邊際改善。總體上，當前資料體現的基本面結構未出現明顯變化，中短期內對債市無增量影響，長期則繼續支援債市緩慢偏強。後續可繼續關注是否有增量政策落地，並關注包括三季度GDP在內的總量經濟資料的邊際變化情況。
-
----
-
-### 2026-09-17 07:40:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【KEVIN WARSH holds 30-minute press conference, shortest since 2011】Federal Reserve Chair KEVIN WARSH held a roughly 30-minute post-meeting press conference Wednesday, the shortest since routine chair briefings began in 2011. He stuck to a pledge not to pre-announce Fed moves, confining comments to this week's meeting and officials' current economic views. The Fed reordered press-room seating alphabetically by outlet, moving AFP to the front and shifting Wall Street Journal and Refinitiv reporters rearward. A special working group Warsh created is reviewing the Fed's communications, including press conferences, leaving open the possibility the briefing format could be changed or discontinued.
 
 ---

@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-20 02:36:52_
-_本檔包含 2698 則快訊，約 524835 字_
+_更新時間：2026-09-20 05:43:59_
+_本檔包含 2682 則快訊，約 524730 字_
+
+---
+
+### 2026-09-16 07:24:44  #公司
+
+【黑石集團首席財務官：公司過去一年融資超過2600億美元 】黑石集團首席財務官Michael Chae表示，公司過去一年融資超過2600億美元，是近四年來最好的12個月。他還表示，同期機構投資者的資金流入激增50%。他表示，黑石對AI的投入將開始體現在收益中，因為強勁的業績將帶來費用增長。
+
+---
+
+### 2026-09-16 07:23:34  #國際
+
+【以軍稱打死哈馬斯拉法旅指揮官 】據以色列媒體15日報道，以色列國防軍和以色列國家安全總局（辛貝特）當晚發表聯合宣告，稱以軍當晚在加沙地帶南部實施空襲，打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）拉法旅指揮官納伊勒·阿布·奧貝德。 報道稱，奧貝德是哈馬斯“核心人物”，同時擔任拉法旅指揮官和該組織作戰部門負責人，致力於重建哈馬斯相關能力，並推動針對以色列的襲擊。 報道說，奧貝德是在拉法旅前任指揮官穆罕默德·沙巴納被打死後接任這一職務的。沙巴納於2025年5月13日在一次以軍襲擊中身亡。（新華社）
+
+---
+
+### 2026-09-16 07:23:16  #公司
+
+【黑石CFO稱公司規模使其在人工智慧熱潮中佔據優勢】黑石集團首席財務官Michael Chae表示，公司的投資組合構建和策略使其能夠抓住人工智慧AI和基礎設施領域的增長，並大規模地部署和吸引資本。Chae週二在巴克萊召開的會議上表示，該公司過去一年已為旗下公司完成了九宗首次公開招股(IPO)，另有六家“目前在全球各地已提交上市申請”。Chae說，這家管理著1.3萬億美元資產的另類資產管理公司投資於AI、電力、生命科學以及向企業提供私募市場貸款等策略。他說，黑石過去12個月中最大投資中有70%集中在這些領域，“現在是部署的好時機”。
+
+---
+
+### 2026-09-16 07:21:34  #其他
+
+【美光展示全球首款512GB DDR5伺服器記憶體模組，最高速率達9200 MT/s】當地時間9月15日，美光科技宣佈，已在多個伺服器平臺成功展示全球首款512GB DDR5寄存式記憶體模組（RDIMM），最高速率可達9200 MT/s。AMD和英特爾均正對該模組進行驗證。美光預計，該512GB RDIMM將根據客戶需求於2027年下半年進入量產。
+
+---
+
+### 2026-09-16 07:21:23  #MKT News #Brent #Impact bullish #WTI
+
+HFI Research said Saudi Arabia's shift to shuttle shipments via the Oman route has materially increased Iran's influence over Fujairah.
+
+---
+
+### 2026-09-16 07:21:14  #其他
+
+【堅決抵制虧本搶市場！寶武、鞍鋼等44家鋼企釋出“控產降庫存”倡議書】《鋼鐵行業全面開展自律控產降庫存的倡議書》釋出。其中提到，嚴格落實產量調控。產量調控是應對當前鋼鐵行業困局的最有效措施，是推動鋼鐵行業高質量發展的重要舉措。為此，全行業要切實提高政治站位，強化大局意識，從自身做起，堅決落實產量調控要求，譴責超產行為，確保完成全年目標；堅持自律控產降庫存。鋼鐵企業要主動作為，深入踐行“三定三不要”經營原則，堅持效益優先，根據市場需求組織生產；堅持自律控產降庫存，充分發揮鋼鐵企業市場主體地位作用，儘快降低高企的庫存，共同推動供需動態平衡；充分發揮行業價格監督員隊伍的作用。（證券時報）
+
+---
+
+### 2026-09-16 07:20:50  #MKT News
+
+【U.S. military, FBI board tanker bound for Texas to probe suspected foreign cyberattack】The U.S. Coast Guard confirmed U.S. military and FBI personnel boarded the foreign-flagged VL Prosperity on Aug. 21 after signs the ship’s network had been compromised. The VL Prosperity, a very large crude carrier now near Galveston, Texas, reported no operational disruptions or casualties; its captain, crew and shore staff are cooperating with investigators. The Coast Guard said it is coordinating with port operators, the vessel owner and local maritime stakeholders to ensure port operations continue safely and without interruption. Iran’s Mehr news agency reported in late August that the VL Prosperity suffered a 30-hour communications blackout after a cyberattack in the Strait of Gibraltar.
+
+---
+
+### 2026-09-16 07:19:25  #MKT News #Commodities #Energy
+
+【China pushes SMR innovation and deeper global nuclear cooperation】At the IAEA's 70th General Conference on the 14th, China hosted a side event titled Collaborating on SMR Innovation to advance international cooperation on small modular reactors (SMRs), focusing on technology innovation, standards alignment, capacity building and deployment to support global climate governance and sustainable development.
+
+---
+
+### 2026-09-16 07:19:00  #國際
+
+【中國呼籲推動小堆創新 加強全球核能合作】在國際原子能機構第70屆大會期間，中國14日主辦“聚力小堆創新，共創核美家園”主題邊會，聚焦加強全球範圍內小型模組化反應堆（小堆）國際合作，推動技術創新、標準協調、能力建設及相關推廣應用，為全球氣候治理和可持續發展提供助力。 邊會期間，中方發起全球小堆創新合作倡議。(新華社)
+
+---
+
+### 2026-09-16 07:18:06  #其他
+
+布魯克菲爾德同意以每股3.38美元的現金價格收購RELIANCE WORLDWIDE。
+
+---
+
+### 2026-09-16 07:16:29  #Trading Economics #Economy #New Zealand #Consumer Confidence #Importance 1
+
+New Zealand Q3 Consumer Mood Improves from 3-Year Low — New Zealand's Westpac McDermott Miller Consumer Confidence Index increased to 89.5 in Q3 2026 from 80.4 in the previous quarter, which was its lowest level since 2023. However, the latest reading remained in pessimism territory, amid concerns over higher fuel prices, interest rates, and living costs. The sentiment improved but remained subdued, with lower petrol prices compared with the eye-watering highs seen earlier this year providing some relief, despite households continuing to cut back on dining out and entertainment and delaying major purchases.
+
+---
+
+### 2026-09-16 07:15:12  #MKT News
+
+The U.S. House voted 232-147 to reject Rep. Al Green's motion to impeach Trump, the third failed impeachment attempt in two years.
+
+---
+
+### 2026-09-16 07:14:31  #國際
+
+【美國海岸警衛隊登檢油輪，開展網路攻擊調查】美國海岸警衛隊週二晚間證實，美軍人員與聯邦調查局探員登上一艘駛往得克薩斯州的油輪，調查一起網路攻擊事件。海岸警衛隊發言人在回應媒體問詢時稱，有跡象顯示這艘外籍船舶的網路系統遭到境外網路勢力入侵，相關人員於 8 月 21 日登船開展調查。船舶追蹤資料顯示，這艘名為 “VL Prosperity” 的超大型原油輪（VLCC）目前停靠在得克薩斯州沿海城鎮加爾維斯頓附近。海岸警衛隊表示，油輪船長、船員以及岸上工作人員均配合調查，事件未造成運營中斷或人員受傷。該機構稱：“海岸警衛隊正積極與港口運營方、船東及當地海事相關方溝通，確保港口作業安全不間斷執行。”伊朗半官方媒體邁赫爾通訊社 8 月下旬報道稱，“VL Prosperity” 號在直布羅陀海峽遭遇網路攻擊後，通訊中斷長達 30 小時。
+
+---
+
+### 2026-09-16 07:13:27  #MKT News
+
+The US Coast Guard said late Tuesday local time that US military personnel and FBI agents boarded an oil tanker bound for Texas to investigate a cyberattack.
+
+---
+
+### 2026-09-16 07:13:02  #其他
+
+*巴西總統盧拉 ：管理好財務是我的責任。
+
+---
+
+### 2026-09-16 07:12:30  #其他
+
+巴西總統盧拉：我們必須討論法官的評判標準和任期。
+
+---
+
+### 2026-09-16 07:12:20  #公司
+
+【新股提示：創業板鴻富誠、北交所安達股份今日申購】今日可申購創業板新股鴻富誠和北交所新股安達股份，鴻富誠網上發行約393.3萬股，發行市盈率21.80倍，申購程式碼301716，申購價格76.86元，單一賬戶申購上限0.35萬股。安達股份申購程式碼920202，申購價格7.55元。
+
+---
+
+### 2026-09-16 07:11:14  #其他
+
+2026年9月16日，西部陸海新通道骨幹工程平陸運河迎來建成通航的歷史性時刻。（央視）
+
+---
+
+### 2026-09-16 07:11:04  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、張國清出席第五屆北斗規模應用國際峰會開幕式並致辭
+2、八月份經濟總體平穩向新向優（權威釋出）
+3、“穩”的主基調沒有改變（快評）
+4、我國自主研製的最大直徑盾構機下線 直徑16.68米，將用於合肥董鋪水庫專案建設
+5、平陸運河航區正式公佈
+6、《人工智慧安全治理框架3.0》釋出
+7、三部門發文推動旅遊業規範有序發展
+8、第二十三屆中國—東盟商務與投資峰會將在南寧舉辦
+9、引入八大品類500多款產品 東博會首設“AI大賣場”
+10、第三十七屆銀河獎在四川自貢揭曉 中國科幻，從書頁走向廣闊產業（文化市場新觀察）
+11、人工智慧無法替代我們“親自閱讀”（新語）
+12、哈薩克電商經濟發展提速 中哈電商合作持續走深走實
+13、美加關稅爭端不斷升級
+14、隨著新能源汽車保有量增多，車網互動試點在全國多省市展開 電動汽車如何與電網“雙向奔赴”（產經視野）
+15、AI客服為何成了“攔路虎”（商海觀潮）。
+
+---
+
+### 2026-09-16 07:10:56  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平給福建省“漳州110”全體隊員回信強調 堅守為民初心矢志擔當奉獻 做黨和人民的忠誠衛士
+2、《求是》雜誌發表習近平總書記重要文章 在加強基礎研究座談會上的講話
+3、韓正出席第十三屆北京香山論壇歡迎晚宴並致辭
+4、把現代化產業體系的“骨架”挺起來——我國先進製造業發展觀察
+5、守百姓幸福 護家國平安（今日談）
+6、以正確政績觀推動高質量發展行穩致遠。
+
+---
+
+### 2026-09-16 07:10:51  #公司
+
+中國生物製藥：本集團附屬公司正大天晴藥業集團股份有限公司（「正大天晴」）自主研發的國家 1 類創新藥 TQB2102 注射液「HER2 雙表位雙抗 ADC」已向中國國家藥品監督管理局藥品審評中心 (CDE) 遞交新藥上市申請並獲得受理，用於既往在復發或轉移性疾病階段未接受過化療的不可切除或轉移性 HER2 低表達（IHC 1 + 或 IHC 2+/ISH-）成人乳腺癌患者。此前，該適應症已被 CDE 納入突破性治療品種。
+
+---
+
+### 2026-09-16 07:09:34  #其他
+
+【中國工程機械工業協會：8月銷售各類平地機649臺 前八月銷量同比增長13.5%】據中國工程機械工業協會對平地機主要製造企業統計，2026年8月銷售各類平地機649臺，同比下降4.98%。其中：國內銷量84臺，同比下降22.2%；出口565臺，同比下降1.74%。2026年1-8月，共銷售平地機6412臺，同比增長13.5%。其中：國內累計銷量811臺，同比下降20.7%；出口累計銷量5601臺，同比增長21.1%。
+
+---
+
+### 2026-09-16 07:08:12  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7
+
+Meta Platforms (META.O) said each lab is responsible and incentivized to train its models safely at the necessary speed.
+
+---
+
+### 2026-09-16 07:07:49  #公司
+
+META執行長扎克伯格：每個實驗室都有責任和動力，以安全訓練其模型所需的速度推進工作。
+
+---
+
+### 2026-09-16 07:07:23  #國際
+
+【美共和黨眾議員提出彈劾美防長】美國共和黨眾議員托馬斯·馬西當地時間9月15日提交針對國防部長赫格塞思的彈劾條款，指控其濫用職權，在未經國會批准的情況下下令對伊朗採取敵對軍事行動。這份彈劾決議幾乎沒有獲得透過的可能性，但馬西此舉或將迫使眾議院就此舉行表決。據悉，馬西以特權議案程式提交彈劾條款，這意味著眾議院必須在兩個立法工作日內對該彈劾案進行審議處理，無法擱置拖延。 對此，五角大樓新聞秘書在一份郵件宣告中表示：“整個國防部上下都支援防長的施政方向，我們將繼續把美軍作戰人員與美國國家利益放在首位。” 馬西一向公開批評對伊朗作戰以及美國對以色列的援助，本屆眾議員任期結束後，他將於2027年1月離任。今年5月的黨內初選中，他敗給了得到美國總統特朗普背書、同時獲得親以色列團體重金助選支援的候選人。
+
+---
+
+### 2026-09-16 07:05:48  #公司
+
+【煜榮集團：控股股東已出售1.76億股，佔38.54%】煜榮集團公告，控股股東彩輝投資有限公司於二零二六年九月八日至二零二六年九月十五日期間出售合共1.76億股股份，佔已發行股本總額約38.54%；出售後持股1244.6萬股，佔約2.73%，不再為公司控股股東及主要股東。Hellobaby International Limited於二零二六年九月十五日按每股約0.454港元向彩輝購買1.32億股，佔29.00%，成為公司主要股東。
+
+---
+
+### 2026-09-16 07:03:31  #公司 #市場
+
+【銀行個人貴金屬代理業務密集“退場”】近日，浦發銀行釋出公告稱，該行擬對代理上海黃金交易所個人貴金屬業務進行調整，將自9月25日後擇時停辦該項業務，並關閉手機銀行、網上銀行、網點櫃面等渠道的交易許可權。這並非個例，今年以來已有多家銀行宣佈調整個人貴金屬代理業務。有銀行人士透露，對於代理上金所個人貴金屬業務，銀行更多是收取手續費，若市場發生劇烈波動，銀行可能面臨客戶穿倉帶來的墊資信用風險。（中證報）
+
+---
+
+### 2026-09-16 07:03:28  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Rises Ahead of GDP Data — The NZX 50 climbed 72 points, or 0.5%, to 13,556 in Wednesday morning trade, erasing losses from the previous four sessions and moving away from its lowest level since June 24, touched a day earlier ahead of the release of Q2 GDP data. New Zealand's economic data will be released on Thursday, with the market expecting GDP to accelerate 2.9% yoy, while easing to 0.1% qoq. Fresh data also lifted sentiment, as New Zealand consumer confidence moved away from a three-year low, though it remained in pessimistic territory. However, expectations of a Fed interest rate hike later this week, amid higher oil prices, pressured sentiment. The index was also capped by a downbeat session on Wall Street overnight due to a surge in US Treasury yields. Financials, real estate, and consumer staples mainly boosted the index, with notable gains from Infratil (5.2%), Vector (2.5%), Sanford (1.5%), Delegat Group (0.7%), and Scales Corp. (0.6%).
+
+---
+
+### 2026-09-16 07:03:26  #MKT News #Macro & Rates #EURUSD #Impact mixed
+
+Central Bank of Ireland says uncertainty around inf forecasts is very high and growth risks are broadly balanced. It projects GDP to fall 1.4% in 2026 (June forecast: -2.7%), then to rise 4.3% in 2027 (previously 6.5%) and 4.3% in 2028.
+
+---
+
+### 2026-09-16 07:01:40  #宏觀 #公司 #市場 #觀點 #焦點 #國際
+
+【9月16日隔夜要聞一覽】
+1、美國國會預算辦公室15日稱，美國對伊朗長達六個月的戰爭迄今已耗資380億美元，預計每月還將增加30億美元。
+2、據一位知情美國官員透露，美國政府擬向以色列出售價值28億美元的軍火，其中包括數萬枚破壞力極強的2000磅（約907公斤）級別的炸彈。
+3、葉門胡塞武裝發言人葉海亞15日稱，過去24小時，沙特方面出動F-15戰機和“颱風”戰鬥機，從沙特海米斯穆謝特和塔伊夫兩處空軍基地起飛，對葉門多地發動52次空襲。
+4、在全體民主黨參議員和少數共和黨參議員的反對下，《清晰法案》(Clarity Act)未能透過美國參議院的程式性投票。
+5、化妝品巨頭歐萊雅（L'Oréal）取代LVMH，成為法國市值最高的上市公司。二者收盤市值分別為2345.4億美元、2314.4億美元。
+6、美國能源部長稱沙特東西輸油管道有望數日內重啟。沙特正迅速採取行動，在美軍協助下改經霍爾木茲海峽輸送石油。
+7、摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，截至9月30日的季度，交易收入預計將同比增長約15%至19%。
+8、英偉達執行長黃仁勳週二表示，無需針對人工智慧安全出臺新監管規定，因為市場力量將推動企業在創新的同時確保安全性。
+9、由於通脹形勢持續引發市場擔憂和美國聯邦儲備委員會加息預期推動，美國10年期國債收益率在15日凌晨升至5.045%，為2007年7月以來的最高水平。
+
+---
+
+### 2026-09-16 06:59:33  #MKT News #DXY #Impact bullish
+
+【RBNZ assistant governor Karen Silk to leave after December rate meeting】The RBNZ said on Tuesday Assistant Governor Karen Silk, an MPC member responsible for interest-rate decisions, will resign after the bank’s final policy meeting in December. Silk, who joined the RBNZ in 2022 and most recently served as assistant governor for monetary affairs overseeing market operations and economic analysis, will remain in post through December to ensure an orderly handover and continuity of decision-making, Governor Breman said.
+
+---
+
+### 2026-09-16 06:53:58  #MKT News
+
+【China sets new record for single sea-launch payload weight and orbital altitude】Sept 16 — A Yinli-1 Yao-3 carrier rocket fired from the East China Sea successfully placed eight Qianfan constellation satellites and one ultra‑high‑speed wireless communications test satellite into an approximately 800 km orbit, Dongfang Space (Shandong) Technology Co., Ltd. said. Net payload exceeded 3 tonnes, marking new Chinese highs for single sea‑launch payload weight and insertion altitude and validating the sea‑launch mode for medium‑to‑large satellite missions.
 
 ---
 
@@ -15983,293 +16205,5 @@ Al Jazeera reports Israel carried out an airstrike on Mansouri in the Tyre distr
 ### 2026-09-15 02:00:26  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
 
 US 10-Year Yield Eases from 5% — The yield on the 10-Year US Treasury note eased to 4.96% on Monday after having tested a 19-year high of 5.01% earlier in the session, tracking the slight pullback for key energy prices as markets gauged the magnitude of inflation risks. Wholesale fuel prices eased after President Trump signaled that Russia and Ukraine would halt strikes on energy infrastructure. Still, energy inflation continued to pressure Treasuries across the curve as recent data suggested that tariffs and high fuel costs had impacted underlying inflation gauges. Money markets show that the Federal Reserve is expected to raise its rates by 25bps on Wednesday. In turn, long-maturity Treasury yields have also been supported soaring levels of corporate debt by AI companies, limiting allocation of capital by primary dealers and other financial institutions. Lastly, hawkish expectations for the ECB and BoJ also pressured bonds.
-
----
-
-### 2026-09-15 01:58:36  #MKT News #BAC.N #Impact bearish
-
-Bank of America (BAC.N) shares fell 5.7% intraday, the largest drop since April 2025.
-
----
-
-### 2026-09-15 01:56:48  #市場 #國際
-
-美國銀行股價下跌5.7%，創2025年4月以來最大跌幅。
-
----
-
-### 2026-09-15 01:55:48  #國際
-
-【美國眾議院議長約翰遜：本週末或下週初將與AI企業高管會談】美國眾議院議長邁克·約翰遜表示，他將在本週末或下週初與人工智慧(AI)企業高管會談，討論AI風險，並稱圍繞AI制定相關立法“需要一些時間”。
-
----
-
-### 2026-09-15 01:55:05  #MKT News #Market Themes #AI Revolution
-
-U.S. House minority leader Jeffries said if Democrats win control of the House, they would prioritize regulation of artificial intelligence.
-
----
-
-### 2026-09-15 01:53:38  #國際
-
-美國眾議院民主黨領袖傑弗里斯表示，如果民主黨贏得眾議院，會將人工智慧監管列為優先推進的工作。
-
----
-
-### 2026-09-15 01:53:31  #MKT News
-
-Canadian Prime Minister Carney said the world now views Canada differently and Canadians should reassess how they view themselves.
-
----
-
-### 2026-09-15 01:51:46  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-【Waymo launches paid robotaxi service in Las Vegas, its 15th U.S. city】Alphabet unit Waymo (GOOG.O) said it will start paid robotaxi service in Las Vegas on Monday, marking its 15th U.S. city. The service will roll out in phases, with an initial deployment of dozens of vehicles and plans to scale to hundreds. Las Vegas robotaxis initially will not operate on highways; airport pickups and highway service will be added in later phases. Operations will be managed by Moove, which also runs Waymo fleets in Phoenix and Miami. Waymo currently operates more than 4,000 robotaxis in the U.S. and delivers over 500,000 paid rides a week; it is targeting 20 cities and about 1 million paid weekly rides globally this year and is preparing tests in London and Tokyo.
-
----
-
-### 2026-09-15 01:51:22  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bank Of New York Mellon Stock Price Hits 5-week Low — Bank Of New York Mellon shares decreased to 157.14 USD, the lowest since August 2026. Over the past 4 weeks, Bank Of New York Mellon lost 4.25%, and in the last 12 months, it increased 47.8%.
-
----
-
-### 2026-09-15 01:49:18  #市場 #焦點
-
-比特幣升破79000美元，日內漲2.82%。
-
----
-
-### 2026-09-15 01:49:06  #MKT News #NOC.O
-
-Sources: defense contractor Northrop Grumman says its Sentinel missile is expected to undergo flight testing in 2027.
-
----
-
-### 2026-09-15 01:48:37  #MKT News #NOC.O #Impact bullish
-
-Sources said Northrop Grumman and the U.S. Air Force have jointly assembled the first complete Sentinel intercontinental ballistic missile.
-
----
-
-### 2026-09-15 01:46:29  #國際
-
-市場資訊：美國空軍與諾斯羅普·格魯曼完成惰性導彈組裝，“哨兵”導彈飛行測試工作取得進展。
-
----
-
-### 2026-09-15 01:45:11  #MKT News #Market Themes #AI Revolution
-
-【U.S. Senate negotiators consider requiring AI firms to prove steps to prevent harm】Senate negotiators are discussing an AI oversight bill that could require AI developers to demonstrate they have taken reasonable precautions to avoid causing harm — a so‑called "duty of care" — and could empower the U.S. Commerce secretary to demand such proof and to send government reviewers to test products. What will qualify as "reasonable" measures is not yet defined; the proposal is under negotiation and its enactment into law remains uncertain.
-
----
-
-### 2026-09-15 01:42:12  #Trading Economics #Economy #Brazil #Business Confidence #Importance 2
-
-Brazil Industrial Pessimism Deepens in September — Brazil’s Industrial Business Confidence Index fell 1.4 points to 44.9 in September 2026, remaining below the 50-point threshold and marking 21 consecutive months of pessimism. The Current Conditions Index dropped 2.5 points to 40.2, driven mainly by a more negative assessment of the economic environment. The index for Brazil’s economy fell 3.6 points to 33.0, while the measure of companies’ own conditions declined 1.9 point to 43.8. The Expectations Index also deteriorated, falling 0.9 point to 47.2, as expectations for the Brazilian economy dropped 0.6 point to 39.1. Expectations for companies’ own conditions fell 1.0 point to 51.3.
-
----
-
-### 2026-09-15 01:41:04  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Realty Income Stock Price Hits 14-month High — Realty Income shares increased to 388.80 USD, the highest since July 2025. Over the past 4 weeks, Realty Income gained 15.7%, and in the last 12 months, it increased 20.79%.
-
----
-
-### 2026-09-15 01:40:53  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Pares Surge — Brent traded at $106 per barrel on Monday from the four-month high of $110 earlier in the session, after US President Trump stated that Russia and Ukraine agreed to suspend strikes against opposing energy infrastructure. Recent attacks on Russian refiners had cut the country's capacity and drove the major producer to become a diesel importer since July. Still, low supply from the Middle East maintained crude above the $100 threshold. Saudi Arabia was forced to close its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, acting as an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on GCC oil exports. Meanwhile, scheduled talks between the GCC and Iran, aimed at conjuring joint efforts to restart oil supply from the region, were postponed by Tehran.
-
----
-
-### 2026-09-15 01:40:05  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Trims Monday Surge — Crude oil traded at $102 per barrel on Monday from the four-month high of $105 earlier in the session, after US President Trump stated that Russia and Ukraine agreed to suspend strikes against opposing energy infrastructure. Recent attacks on Russian refiners had cut the country's capacity and drove the major producer to become a diesel importer since July. Still, low supply from the Middle East maintained crude above the $100 threshold. Saudi Arabia was forced to close its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, acting as an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on GCC oil exports. Meanwhile, scheduled talks between the GCC and Iran, aimed at conjuring joint efforts to restart oil supply from the region, were postponed by Tehran.
-
----
-
-### 2026-09-15 01:39:55  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #EURUSD #DXY #Impact bearish
-
-【Trump calls AI catastrophe warnings a "hoax", criticizes US permitting as Google eyes Finland site】President Trump said warnings that AI will "take over the world" or "destroy humanity" are a "hoax" and dismissed calls for strict regulation that he suggested could drive firms to ruin. He pointed to Google’s recent plan to build a large facility in Finland, saying the company cited difficulty securing US permits and that he was unhappy and wants them to reconsider. Trump described AI and data centers as the greatest economic engine in history—bigger than oil, gold, diamonds or the internet—and said AI development will not be blocked during his presidency by "well-orchestrated destructive forces."
-
----
-
-### 2026-09-15 01:39:39  #公司 #市場 #國際
-
-【特朗普：AI毀滅人類的說法屬於騙局】特朗普發文稱，在商業歷史上，從未見過行業龍頭主動呼籲實施監管，而一旦嚴格執行這類監管，就會令企業銷聲匿跡甚至破產。他表示，所謂人工智慧將接管世界、毀滅人類等一系列負面說法都是騙局，和反覆炒作的俄羅斯、烏克蘭議題，兩次彈劾騙局，以及美國因破壞分子的非法勾當而遭遇的各類騙局一樣。他稱谷歌近期計劃在芬蘭建設大型工廠，原因是在美國很難拿到建設許可，他對此表示不滿，希望谷歌改變計劃。特朗普認為，人工智慧與資料中心將成為有史以來最強勁的經濟發展引擎，其影響力將超過石油、黃金、鑽石乃至網際網路，在他的總統任期內，這項產業不會被那些蓄意破壞的勢力阻攔。
-
----
-
-### 2026-09-15 01:38:51  #MKT News
-
-【IAEA approves Timor-Leste membership】The International Atomic Energy Agency’s 70th General Conference approved Timor-Leste’s application on Sept. 14, making Timor-Leste the agency’s 182nd member.
-
----
-
-### 2026-09-15 01:38:25  #公司 #國際
-
-特朗普：谷歌近日表示，他們計劃在芬蘭建造一座大型工廠。
-
----
-
-### 2026-09-15 01:38:05  #其他
-
-【國際原子能機構批准東帝汶入會申請】當地時間9月14日，國際原子能機構第70屆大會批准了東帝汶的入會申請。東帝汶將成為該機構第182個成員國。東帝汶此前已申請加入國際原子能機構，並獲得該機構理事會推薦。大會批准後，東帝汶還需交存接受《國際原子能機構規約》的文書，完成相關程式後正式成為成員國。國際原子能機構第70屆大會14日在奧地利維也納開幕。（央視新聞）
-
----
-
-### 2026-09-15 01:37:29  #MKT News #BAC.N #Impact bearish #XLF
-
-BofA (BAC.N) CEO Moynihan said sharply higher interest rates would slow some financing demand.
-
----
-
-### 2026-09-15 01:37:04  #公司 #國際
-
-美國銀行執行長表示，如果利率大幅上升，部分融資需求將會放緩。
-
----
-
-### 2026-09-15 01:36:08  #MKT News #BAC.N #Impact bullish
-
-BofA (BAC.N) CEO Brian Moynihan said trade finance demand remains strong and the deal pipeline is ample.
-
----
-
-### 2026-09-15 01:35:39  #MKT News #Market Themes #AI Revolution
-
-US President Trump said claims that artificial intelligence will take over the world and destroy humanity are a hoax.
-
----
-
-### 2026-09-15 01:35:26  #公司 #國際
-
-美國銀行執行長表示，目前併購交易融資需求仍保持堅挺，交易儲備充足。
-
----
-
-### 2026-09-15 01:34:47  #MKT News #Market Themes #AI Revolution
-
-U.S. President Trump said AI will not be stopped by those destructive forces during his presidency.
-
----
-
-### 2026-09-15 01:34:37  #公司 #國際
-
-特朗普：希望谷歌重新考慮芬蘭工廠專案。
-
----
-
-### 2026-09-15 01:34:27  #公司 #國際
-
-美國銀行執行長表示，如果利率大幅上升，將抑制部分融資需求。
-
----
-
-### 2026-09-15 01:34:13  #國際
-
-特朗普：人工智慧統治世界是騙局。
-
----
-
-### 2026-09-15 01:34:02  #MKT News #BAC.O #Impact bullish
-
-BofA CEO Moynihan said the bank's trading pipeline is currently very strong.
-
----
-
-### 2026-09-15 01:33:55  #MKT News #GOOGL.O
-
-The Wall Street Journal reports New York City Council members have called for a ban on YouTube in schools.
-
----
-
-### 2026-09-15 01:33:51  #公司 #國際
-
-美國銀行執行長表示，目前交易儲備十分強勁。
-
----
-
-### 2026-09-15 01:31:04  #公司 #國際
-
-美國銀行執行長表示，對淨利息收入指引感到“非常樂觀”。
-
----
-
-### 2026-09-15 01:29:47  #MKT News #Market Themes #AI Revolution
-
-U.S. House Speaker Johnson said he will meet with AI executives this weekend or early next week.
-
----
-
-### 2026-09-15 01:29:35  #其他
-
-【一架小型飛機在德國墜毀 致3人死亡】當地時間14日，一架小型飛機在德國埃爾克倫茨墜毀，造成3人死亡。埃爾克倫茨靠近德國與荷蘭邊境。據悉，飛機原本並未計劃在埃爾克倫茨降落。但飛機墜毀的原因仍未披露。（央視新聞）
-
----
-
-### 2026-09-15 01:29:03  #國際
-
-美國眾議院議長約翰遜對記者表示，將在本週末或者下週初與人工智慧企業高管舉行會談。
-
----
-
-### 2026-09-15 01:28:46  #MKT News #Market Regions #Wall Street (US) #BAC.N #Impact bearish
-
-BofA (BAC.N) slid to an intraday low, with losses widening to about 4%.
-
----
-
-### 2026-09-15 01:25:31  #國際
-
-美國銀行股價跌幅擴大至4.2%。
-
----
-
-### 2026-09-15 01:24:27  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Morgan Stanley Stock Price Hits 6-week Low — Morgan Stanley shares decreased to 207.30 USD, the lowest since July 2026. Over the past 4 weeks, Morgan Stanley lost 4.83%, and in the last 12 months, it increased 32.57%.
-
----
-
-### 2026-09-15 01:22:59  #宏觀
-
-哥倫比亞財政部長戈麥斯表示，該國救助法案將把削減公共支出作為核心內容。
-
----
-
-### 2026-09-15 01:22:23  #宏觀
-
-哥倫比亞財政部長：哥倫比亞需要削減政府部門數量。
-
----
-
-### 2026-09-15 01:22:07  #央行 #美聯儲
-
-週一（9月14日），美聯儲隔夜逆回購協議（RRP）使用規模為14.20億美元。
-
----
-
-### 2026-09-15 01:21:53  #國際
-
-【特朗普發文稱將向全美成年人發放5000美元紅利】特朗普稱，美國正收穫數萬億美元的經濟發展成果、投資以及巨大成功，因此計劃向全美所有成年人發放5000美元的“特朗普紅利”，該計劃正遭到民主黨人的批評，他們希望這項計劃無法落地，但計劃一定會實施。他舉例稱，民主黨人曾表示《偉大宏偉法案》不可能獲得透過，但這項國會史上規模最大的法案之一最終成功透過並由總統簽署生效；去年他向美軍發放的1776美元補助，當初幾乎被認定無法推行，所有人都認為這件事辦不成，但最終順利落地，美軍愛國者拿到了這筆資金並對此表示認可。特朗普表示，他說到做到，5000美元紅利計劃將會落地，美國民眾理應享有這筆福利。他呼籲民眾投票支援共和黨，讓美國再次偉大。
-
----
-
-### 2026-09-15 01:21:06  #市場 #觀點
-
-摩根士丹利和富國銀行股價下跌超過2%。
-
----
-
-### 2026-09-15 01:20:27  #公司
-
-谷歌正研究在新墨西哥州建設資料中心的可能性，谷歌稱，關於新墨西哥州利縣資料中心專案的洽談仍在推進中。
-
----
-
-### 2026-09-15 01:19:24  #Trading Economics #Economy #Moldova #Balance of Trade #Importance 0
-
-Moldova Trade Deficit Widens in July — Moldova’s trade deficit widened to USD 613.4 million in July 2026, from USD 558.1 million in the same month a year earlier, although the deficit narrowed for a third consecutive month. Imports rose 8.1% year-on-year to USD 978.2 million, driven by higher purchases from CIS countries (11.6%) and European Union countries (1.8%). Meanwhile, exports increased 5.1% to USD 364.8 million, supported by a 45.8% surge in shipments to CIS countries, while exports to European Union countries declined 1.8%. For the January-July period, the trade gap widened to USD 4,504.7 million from USD 4,072.8 million in the same period last year, as exports rose 17.6% and imports increased 12.9%.
 
 ---

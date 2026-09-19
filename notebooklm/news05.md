@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-20 02:36:52_
-_本檔包含 2625 則快訊，約 524157 字_
+_更新時間：2026-09-20 05:43:59_
+_本檔包含 2622 則快訊，約 523820 字_
+
+---
+
+### 2026-09-15 01:58:36  #MKT News #BAC.N #Impact bearish
+
+Bank of America (BAC.N) shares fell 5.7% intraday, the largest drop since April 2025.
+
+---
+
+### 2026-09-15 01:56:48  #市場 #國際
+
+美國銀行股價下跌5.7%，創2025年4月以來最大跌幅。
+
+---
+
+### 2026-09-15 01:55:48  #國際
+
+【美國眾議院議長約翰遜：本週末或下週初將與AI企業高管會談】美國眾議院議長邁克·約翰遜表示，他將在本週末或下週初與人工智慧(AI)企業高管會談，討論AI風險，並稱圍繞AI制定相關立法“需要一些時間”。
+
+---
+
+### 2026-09-15 01:55:05  #MKT News #Market Themes #AI Revolution
+
+U.S. House minority leader Jeffries said if Democrats win control of the House, they would prioritize regulation of artificial intelligence.
+
+---
+
+### 2026-09-15 01:53:38  #國際
+
+美國眾議院民主黨領袖傑弗里斯表示，如果民主黨贏得眾議院，會將人工智慧監管列為優先推進的工作。
+
+---
+
+### 2026-09-15 01:53:31  #MKT News
+
+Canadian Prime Minister Carney said the world now views Canada differently and Canadians should reassess how they view themselves.
+
+---
+
+### 2026-09-15 01:51:46  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+【Waymo launches paid robotaxi service in Las Vegas, its 15th U.S. city】Alphabet unit Waymo (GOOG.O) said it will start paid robotaxi service in Las Vegas on Monday, marking its 15th U.S. city. The service will roll out in phases, with an initial deployment of dozens of vehicles and plans to scale to hundreds. Las Vegas robotaxis initially will not operate on highways; airport pickups and highway service will be added in later phases. Operations will be managed by Moove, which also runs Waymo fleets in Phoenix and Miami. Waymo currently operates more than 4,000 robotaxis in the U.S. and delivers over 500,000 paid rides a week; it is targeting 20 cities and about 1 million paid weekly rides globally this year and is preparing tests in London and Tokyo.
+
+---
+
+### 2026-09-15 01:51:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Bank Of New York Mellon Stock Price Hits 5-week Low — Bank Of New York Mellon shares decreased to 157.14 USD, the lowest since August 2026. Over the past 4 weeks, Bank Of New York Mellon lost 4.25%, and in the last 12 months, it increased 47.8%.
+
+---
+
+### 2026-09-15 01:49:18  #市場 #焦點
+
+比特幣升破79000美元，日內漲2.82%。
+
+---
+
+### 2026-09-15 01:49:06  #MKT News #NOC.O
+
+Sources: defense contractor Northrop Grumman says its Sentinel missile is expected to undergo flight testing in 2027.
+
+---
+
+### 2026-09-15 01:48:37  #MKT News #NOC.O #Impact bullish
+
+Sources said Northrop Grumman and the U.S. Air Force have jointly assembled the first complete Sentinel intercontinental ballistic missile.
+
+---
+
+### 2026-09-15 01:46:29  #國際
+
+市場資訊：美國空軍與諾斯羅普·格魯曼完成惰性導彈組裝，“哨兵”導彈飛行測試工作取得進展。
+
+---
+
+### 2026-09-15 01:45:11  #MKT News #Market Themes #AI Revolution
+
+【U.S. Senate negotiators consider requiring AI firms to prove steps to prevent harm】Senate negotiators are discussing an AI oversight bill that could require AI developers to demonstrate they have taken reasonable precautions to avoid causing harm — a so‑called "duty of care" — and could empower the U.S. Commerce secretary to demand such proof and to send government reviewers to test products. What will qualify as "reasonable" measures is not yet defined; the proposal is under negotiation and its enactment into law remains uncertain.
+
+---
+
+### 2026-09-15 01:42:12  #Trading Economics #Economy #Brazil #Business Confidence #Importance 2
+
+Brazil Industrial Pessimism Deepens in September — Brazil’s Industrial Business Confidence Index fell 1.4 points to 44.9 in September 2026, remaining below the 50-point threshold and marking 21 consecutive months of pessimism. The Current Conditions Index dropped 2.5 points to 40.2, driven mainly by a more negative assessment of the economic environment. The index for Brazil’s economy fell 3.6 points to 33.0, while the measure of companies’ own conditions declined 1.9 point to 43.8. The Expectations Index also deteriorated, falling 0.9 point to 47.2, as expectations for the Brazilian economy dropped 0.6 point to 39.1. Expectations for companies’ own conditions fell 1.0 point to 51.3.
+
+---
+
+### 2026-09-15 01:41:04  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Realty Income Stock Price Hits 14-month High — Realty Income shares increased to 388.80 USD, the highest since July 2025. Over the past 4 weeks, Realty Income gained 15.7%, and in the last 12 months, it increased 20.79%.
+
+---
+
+### 2026-09-15 01:40:53  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Pares Surge — Brent traded at $106 per barrel on Monday from the four-month high of $110 earlier in the session, after US President Trump stated that Russia and Ukraine agreed to suspend strikes against opposing energy infrastructure. Recent attacks on Russian refiners had cut the country's capacity and drove the major producer to become a diesel importer since July. Still, low supply from the Middle East maintained crude above the $100 threshold. Saudi Arabia was forced to close its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, acting as an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on GCC oil exports. Meanwhile, scheduled talks between the GCC and Iran, aimed at conjuring joint efforts to restart oil supply from the region, were postponed by Tehran.
+
+---
+
+### 2026-09-15 01:40:05  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Trims Monday Surge — Crude oil traded at $102 per barrel on Monday from the four-month high of $105 earlier in the session, after US President Trump stated that Russia and Ukraine agreed to suspend strikes against opposing energy infrastructure. Recent attacks on Russian refiners had cut the country's capacity and drove the major producer to become a diesel importer since July. Still, low supply from the Middle East maintained crude above the $100 threshold. Saudi Arabia was forced to close its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, acting as an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on GCC oil exports. Meanwhile, scheduled talks between the GCC and Iran, aimed at conjuring joint efforts to restart oil supply from the region, were postponed by Tehran.
+
+---
+
+### 2026-09-15 01:39:55  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #EURUSD #DXY #Impact bearish
+
+【Trump calls AI catastrophe warnings a "hoax", criticizes US permitting as Google eyes Finland site】President Trump said warnings that AI will "take over the world" or "destroy humanity" are a "hoax" and dismissed calls for strict regulation that he suggested could drive firms to ruin. He pointed to Google’s recent plan to build a large facility in Finland, saying the company cited difficulty securing US permits and that he was unhappy and wants them to reconsider. Trump described AI and data centers as the greatest economic engine in history—bigger than oil, gold, diamonds or the internet—and said AI development will not be blocked during his presidency by "well-orchestrated destructive forces."
+
+---
+
+### 2026-09-15 01:39:39  #公司 #市場 #國際
+
+【特朗普：AI毀滅人類的說法屬於騙局】特朗普發文稱，在商業歷史上，從未見過行業龍頭主動呼籲實施監管，而一旦嚴格執行這類監管，就會令企業銷聲匿跡甚至破產。他表示，所謂人工智慧將接管世界、毀滅人類等一系列負面說法都是騙局，和反覆炒作的俄羅斯、烏克蘭議題，兩次彈劾騙局，以及美國因破壞分子的非法勾當而遭遇的各類騙局一樣。他稱谷歌近期計劃在芬蘭建設大型工廠，原因是在美國很難拿到建設許可，他對此表示不滿，希望谷歌改變計劃。特朗普認為，人工智慧與資料中心將成為有史以來最強勁的經濟發展引擎，其影響力將超過石油、黃金、鑽石乃至網際網路，在他的總統任期內，這項產業不會被那些蓄意破壞的勢力阻攔。
+
+---
+
+### 2026-09-15 01:38:51  #MKT News
+
+【IAEA approves Timor-Leste membership】The International Atomic Energy Agency’s 70th General Conference approved Timor-Leste’s application on Sept. 14, making Timor-Leste the agency’s 182nd member.
+
+---
+
+### 2026-09-15 01:38:25  #公司 #國際
+
+特朗普：谷歌近日表示，他們計劃在芬蘭建造一座大型工廠。
+
+---
+
+### 2026-09-15 01:38:05  #其他
+
+【國際原子能機構批准東帝汶入會申請】當地時間9月14日，國際原子能機構第70屆大會批准了東帝汶的入會申請。東帝汶將成為該機構第182個成員國。東帝汶此前已申請加入國際原子能機構，並獲得該機構理事會推薦。大會批准後，東帝汶還需交存接受《國際原子能機構規約》的文書，完成相關程式後正式成為成員國。國際原子能機構第70屆大會14日在奧地利維也納開幕。（央視新聞）
+
+---
+
+### 2026-09-15 01:37:29  #MKT News #BAC.N #Impact bearish #XLF
+
+BofA (BAC.N) CEO Moynihan said sharply higher interest rates would slow some financing demand.
+
+---
+
+### 2026-09-15 01:37:04  #公司 #國際
+
+美國銀行執行長表示，如果利率大幅上升，部分融資需求將會放緩。
+
+---
+
+### 2026-09-15 01:36:08  #MKT News #BAC.N #Impact bullish
+
+BofA (BAC.N) CEO Brian Moynihan said trade finance demand remains strong and the deal pipeline is ample.
+
+---
+
+### 2026-09-15 01:35:39  #MKT News #Market Themes #AI Revolution
+
+US President Trump said claims that artificial intelligence will take over the world and destroy humanity are a hoax.
+
+---
+
+### 2026-09-15 01:35:26  #公司 #國際
+
+美國銀行執行長表示，目前併購交易融資需求仍保持堅挺，交易儲備充足。
+
+---
+
+### 2026-09-15 01:34:47  #MKT News #Market Themes #AI Revolution
+
+U.S. President Trump said AI will not be stopped by those destructive forces during his presidency.
+
+---
+
+### 2026-09-15 01:34:37  #公司 #國際
+
+特朗普：希望谷歌重新考慮芬蘭工廠專案。
+
+---
+
+### 2026-09-15 01:34:27  #公司 #國際
+
+美國銀行執行長表示，如果利率大幅上升，將抑制部分融資需求。
+
+---
+
+### 2026-09-15 01:34:13  #國際
+
+特朗普：人工智慧統治世界是騙局。
+
+---
+
+### 2026-09-15 01:34:02  #MKT News #BAC.O #Impact bullish
+
+BofA CEO Moynihan said the bank's trading pipeline is currently very strong.
+
+---
+
+### 2026-09-15 01:33:55  #MKT News #GOOGL.O
+
+The Wall Street Journal reports New York City Council members have called for a ban on YouTube in schools.
+
+---
+
+### 2026-09-15 01:33:51  #公司 #國際
+
+美國銀行執行長表示，目前交易儲備十分強勁。
+
+---
+
+### 2026-09-15 01:31:04  #公司 #國際
+
+美國銀行執行長表示，對淨利息收入指引感到“非常樂觀”。
+
+---
+
+### 2026-09-15 01:29:47  #MKT News #Market Themes #AI Revolution
+
+U.S. House Speaker Johnson said he will meet with AI executives this weekend or early next week.
+
+---
+
+### 2026-09-15 01:29:35  #其他
+
+【一架小型飛機在德國墜毀 致3人死亡】當地時間14日，一架小型飛機在德國埃爾克倫茨墜毀，造成3人死亡。埃爾克倫茨靠近德國與荷蘭邊境。據悉，飛機原本並未計劃在埃爾克倫茨降落。但飛機墜毀的原因仍未披露。（央視新聞）
+
+---
+
+### 2026-09-15 01:29:03  #國際
+
+美國眾議院議長約翰遜對記者表示，將在本週末或者下週初與人工智慧企業高管舉行會談。
+
+---
+
+### 2026-09-15 01:28:46  #MKT News #Market Regions #Wall Street (US) #BAC.N #Impact bearish
+
+BofA (BAC.N) slid to an intraday low, with losses widening to about 4%.
+
+---
+
+### 2026-09-15 01:25:31  #國際
+
+美國銀行股價跌幅擴大至4.2%。
+
+---
+
+### 2026-09-15 01:24:27  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Morgan Stanley Stock Price Hits 6-week Low — Morgan Stanley shares decreased to 207.30 USD, the lowest since July 2026. Over the past 4 weeks, Morgan Stanley lost 4.83%, and in the last 12 months, it increased 32.57%.
+
+---
+
+### 2026-09-15 01:22:59  #宏觀
+
+哥倫比亞財政部長戈麥斯表示，該國救助法案將把削減公共支出作為核心內容。
+
+---
+
+### 2026-09-15 01:22:23  #宏觀
+
+哥倫比亞財政部長：哥倫比亞需要削減政府部門數量。
+
+---
+
+### 2026-09-15 01:22:07  #央行 #美聯儲
+
+週一（9月14日），美聯儲隔夜逆回購協議（RRP）使用規模為14.20億美元。
+
+---
+
+### 2026-09-15 01:21:53  #國際
+
+【特朗普發文稱將向全美成年人發放5000美元紅利】特朗普稱，美國正收穫數萬億美元的經濟發展成果、投資以及巨大成功，因此計劃向全美所有成年人發放5000美元的“特朗普紅利”，該計劃正遭到民主黨人的批評，他們希望這項計劃無法落地，但計劃一定會實施。他舉例稱，民主黨人曾表示《偉大宏偉法案》不可能獲得透過，但這項國會史上規模最大的法案之一最終成功透過並由總統簽署生效；去年他向美軍發放的1776美元補助，當初幾乎被認定無法推行，所有人都認為這件事辦不成，但最終順利落地，美軍愛國者拿到了這筆資金並對此表示認可。特朗普表示，他說到做到，5000美元紅利計劃將會落地，美國民眾理應享有這筆福利。他呼籲民眾投票支援共和黨，讓美國再次偉大。
+
+---
+
+### 2026-09-15 01:21:06  #市場 #觀點
+
+摩根士丹利和富國銀行股價下跌超過2%。
+
+---
+
+### 2026-09-15 01:20:27  #公司
+
+谷歌正研究在新墨西哥州建設資料中心的可能性，谷歌稱，關於新墨西哥州利縣資料中心專案的洽談仍在推進中。
+
+---
+
+### 2026-09-15 01:19:24  #Trading Economics #Economy #Moldova #Balance of Trade #Importance 0
+
+Moldova Trade Deficit Widens in July — Moldova’s trade deficit widened to USD 613.4 million in July 2026, from USD 558.1 million in the same month a year earlier, although the deficit narrowed for a third consecutive month. Imports rose 8.1% year-on-year to USD 978.2 million, driven by higher purchases from CIS countries (11.6%) and European Union countries (1.8%). Meanwhile, exports increased 5.1% to USD 364.8 million, supported by a 45.8% surge in shipments to CIS countries, while exports to European Union countries declined 1.8%. For the January-July period, the trade gap widened to USD 4,504.7 million from USD 4,072.8 million in the same period last year, as exports rose 17.6% and imports increased 12.9%.
 
 ---
 
@@ -15581,311 +15869,5 @@ UK Maritime Trade Operations (UKMTO) said it has received a report of an inciden
 ### 2026-09-13 05:48:45  #MKT News #Market Regions #Emerging Markets
 
 【Indonesia urges BRICS to bolster local‑currency cross‑border payments】Indonesia central bank governor Destry Damayanti said on the 12th at the BRICS summit in New Delhi that BRICS should develop cross‑border payment systems in local currencies to shield their economies from geopolitical risk, while taking into account member countries’ development levels and national priorities. She said Indonesia sees a strategic opportunity to turn shared challenges into collective resilience through pragmatic cooperation, including local‑currency settlement. In a meeting with Reserve Bank of India governor Sanjeev Malhotra they discussed expanding local‑currency settlement mechanisms, establishing bilateral currency swap arrangements and linking cross‑border QR‑code payments; Malhotra said those steps would help convert BRICS agreements into practical financial and economic cooperation.
-
----
-
-### 2026-09-13 05:38:58  #MKT News #WTI #Impact bullish #XAUUSD
-
-A spokesman for Yemen's Houthi movement said the group launched a special military operation against Saudi Arabia, striking a weapons depot and a command center inside a military base in the Sharurah region. He said the attack employed numerous ballistic missiles and drones that hit targets precisely, and was carried out in response to what the group called continued Saudi aggression.
-
----
-
-### 2026-09-13 05:37:15  #其他
-
-葉門胡塞武裝稱，其對沙烏地阿拉伯沙拉拉的一處軍事基地實施導彈與無人機襲擊，打擊目標為武器庫以及指揮中心。
-
----
-
-### 2026-09-13 05:32:43  #公司
-
-【特斯拉預告將於10月1日舉辦活動 展示下一代Roadster跑車】特斯拉公司預告將於10月1日舉辦活動，展示下一代Roadster車型。這是一款小眾產品，該公司執行長馬斯克最早於2017年11月份釋出了這款車。這場定於秋季舉行的活動一直備受特斯拉車迷期待，並可能進一步引發有關特斯拉與SpaceX合併的猜測。“準備發射”是在呼應SpaceX的火箭發射，而與此同時特斯拉一直利用現場活動來調動客戶和投資者的熱情。
-
----
-
-### 2026-09-13 05:24:50  #國際
-
-伊朗總統：如果美國人是戰士，那就讓他們直面我們英勇的軍隊。為何要對民用基礎設施、糧食供應和民生設施發動打擊？倘若尚有良知，為何剝奪民眾獲取水、食物和藥品的權利？我國人民不會在脅迫下屈服，伊朗絕不會投降。
-
----
-
-### 2026-09-13 05:16:46  #MKT News
-
-【Qatar, Jordan discuss measures to ease tensions and bolster security】Qatar's prime minister and Jordan's deputy prime minister and foreign minister discussed diplomatic efforts to ease tensions and bolster security and stability. Qatar said it supports measures to ensure freedom of navigation and to pave the way for a comprehensive agreement delivering lasting regional peace. The sides also discussed ways to support and deepen bilateral cooperation.
-
----
-
-### 2026-09-13 05:13:12  #MKT News
-
-Iraq's armed forces said they will deploy sufficient security forces in Maysan province, have seized 15 unmanned aerial vehicle platforms and will pursue any forces using weapons outside the national chain of command.
-
----
-
-### 2026-09-13 05:13:07  #國際
-
-伊拉克外交部長福阿德·侯賽因表示，他已與伊朗外長通電話，商討多個邊境口岸相關舉措以及針對沙特的襲擊事件。雙方還討論了負責調查此次襲擊的聯合委員會工作。
-
----
-
-### 2026-09-13 05:11:10  #MKT News
-
-【Argentina to build naval base near Malvinas; construction due Jan. 2】Argentina’s defense minister Carlos Presti said on Sept. 12 the government plans to establish a naval base in Ushuaia, the country’s southernmost city near the Malvinas (Falkland) Islands. He said construction will begin on Jan. 2 after a public tender. The base, to be operated by the Argentine navy, will host submarines, marines and naval aviation and will serve as a logistics hub linking Argentina’s seven permanent and six temporary Antarctic bases; Presti said it holds strategic value for Argentina’s positioning and projection in the South Atlantic.
-
----
-
-### 2026-09-13 05:10:03  #其他
-
-【阿根廷計劃啟動馬爾維納斯群島南部海軍基地建設】當地時間9月12日，阿根廷國防部長卡洛斯·普雷斯蒂表示，將計劃於明年1月在靠近馬爾維納斯群島的該國最南端城市烏斯懷亞建立一座海軍軍事基地。（央視新聞）
-
----
-
-### 2026-09-13 05:08:50  #MKT News
-
-Iran's foreign minister Araghchi spoke with Iraq's foreign minister and confirmed the need to continue coordinating on shared border security.
-
----
-
-### 2026-09-13 05:05:27  #MKT News
-
-Iraq's armed forces said it had issued strict orders to dismiss personnel who fail in security duties, and that Iraq will not allow any actions that infringe on neighboring countries and will not become part of regional tensions.
-
----
-
-### 2026-09-13 04:50:38  #MKT News
-
-【Saudi says Houthi attack wounded 2】Saudi civil defence said on the evening of the 12th that Tuwal district in Jazan province was hit by an attack by Yemen’s Houthi militia, wounding two people and damaging multiple buildings and some vehicles. The agency said the strike on civilian targets violated international humanitarian law and was handled per established procedures. The Houthi militia said Saudi warplanes carried out 129 airstrikes across seven Yemeni provinces in the past 48 hours and warned the raids "will not go unanswered and unpunished."
-
----
-
-### 2026-09-13 04:43:07  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Saudi Arabia and Yemen's internationally recognized government said they will deploy warplanes to strike Houthi targets around Mokha and the Bab al-Mandeb Strait. They said the operation will rely on airstrikes targeting Houthi personnel and any military concentrations.
-
----
-
-### 2026-09-13 04:42:35  #其他
-
-【沙特稱葉門胡塞武裝襲擊造成2人受傷】沙烏地阿拉伯民防總局12日晚發表宣告說，沙特賈贊省圖沃勒縣當天遭到葉門胡塞武裝的襲擊，造成2人受傷、多棟建築和一些車輛受損。（新華社）
-
----
-
-### 2026-09-13 04:35:33  #央行 #國際
-
-【歐洲央行行長拉加德：當前價格衝擊持續時間將更久】歐洲央行行長拉加德表示，歐元區通脹仍將在一段時間內維持高位。自伊朗戰爭推高油氣價格以來，歐洲央行本週第二次加息。歐洲央行週四釋出的最新預測顯示，2027年和2028年通脹水平將高於此前預期，其中2028年通脹將小幅高於目標值。
-
----
-
-### 2026-09-13 04:29:35  #公司
-
-【Altman表示OpenAI今年不會IPO 需要推進安全相關工作】OpenAI不會在2026年上市，Sam Altman在接受採訪時表示，原因是需要開展與安全相關的工作。在週六刊發的採訪中，Altman表示，由於圍繞人工智慧的安全擔憂，今年進行首次公開募股“時機不合適”，因此IPO要到2027年才會進行。該公司於6月份以保密方式提交了IPO檔案，不過已經表示上市時間仍未確。
-
----
-
-### 2026-09-13 04:28:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-【Axios: US losing status as default destination for arms purchases, capital parking and international students】Axios reports the United States is increasingly no longer the default choice for governments to buy weapons, for other countries to park funds, or as a destination for international students. The piece warns even modest shifts away from the US could erode Washington’s decades-long economic and geopolitical advantages.
-
----
-
-### 2026-09-13 04:13:47  #MKT News
-
-ECB President Christine Lagarde said she will leave the European Central Bank in 2027 and does not plan to return to French politics, saying she is not suited to be a candidate for the French presidency.
-
----
-
-### 2026-09-13 04:13:20  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #DXY #Impact bullish
-
-ECB President LAGARDE said the AI sector could experience a pullback, but the timing is unclear. Valuations in the AI space are very high.
-
----
-
-### 2026-09-13 04:12:44  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #Brent #Impact bullish #DXY
-
-ECB President LAGARDE said the European economy is resilient. She warned the current inf shock will last longer and that market volatility and energy price pressures are likely to persist.
-
----
-
-### 2026-09-13 04:11:35  #央行 #國際
-
-歐洲央行行長拉加德：預計波動和能源價格壓力將持續。
-
----
-
-### 2026-09-13 04:11:15  #央行 #國際
-
-歐洲央行行長拉加德：認為自己並不適合作為法國總統候選人。
-
----
-
-### 2026-09-13 04:10:50  #央行 #國際
-
-歐洲央行行長拉加德：我不考慮重返法國政壇。
-
----
-
-### 2026-09-13 04:10:45  #央行 #國際
-
-歐洲央行行長拉加德：將於2027年卸任歐洲央行行長一職。
-
----
-
-### 2026-09-13 04:07:52  #央行 #國際
-
-歐洲央行行長拉加德：人工智慧領域的資產估值非常高。
-
----
-
-### 2026-09-13 04:07:45  #央行 #國際
-
-歐洲央行行長拉加德：人工智慧板塊回撥何時發生尚不明朗。
-
----
-
-### 2026-09-13 04:07:25  #市場 #央行 #國際
-
-歐洲央行行長拉加德：取消法國債務在金融層面極具風險。
-
----
-
-### 2026-09-13 04:07:17  #央行 #國際
-
-歐洲央行行長拉加德：人工智慧板塊出現回撥完全有可能。
-
----
-
-### 2026-09-13 04:04:35  #央行 #國際
-
-歐洲央行行長拉加德：預計市場波動與能源價格壓力仍將持續。
-
----
-
-### 2026-09-13 04:04:22  #央行 #國際
-
-歐洲央行行長拉加德：當前通脹衝擊持續時間將更久。
-
----
-
-### 2026-09-13 04:04:04  #央行 #國際
-
-歐洲央行行長拉加德：（歐洲）經濟具備韌性。
-
----
-
-### 2026-09-13 04:01:56  #其他
-
-卡達首相兼外交大臣謝赫·穆罕默德·本·阿卜杜勒拉赫曼·本·賈西姆·阿勒薩尼與約旦副首相兼外交大臣艾曼·薩法迪就緩和地區緊張局勢的相關舉措展開磋商。
-
----
-
-### 2026-09-13 03:51:53  #MKT News
-
-【Analysis: Houthi blockade of Bab el‑Mandeb 'extremely unlikely'】Control Risks maritime security analyst Aaran Kennedy said expansion of Houthi-controlled areas does not necessarily signal more attacks on merchant shipping and that a full blockade of the Bab el‑Mandeb Strait is "extremely unlikely." He said recent gains consolidate their position in the Red Sea and make attacks easier, but do not imply an imminent broadening of maritime strikes; the advance does, however, place weapons closer to key shipping lanes and increases Houthi operational capability.
-
----
-
-### 2026-09-13 03:51:27  #公司 #國際
-
-【俄稱普京不會在G20峰會見澤連斯基】當地時間9月12日，據俄羅斯媒體報道，俄羅斯總統新聞秘書佩斯科夫在回答外國媒體提問時表示，俄羅斯總統普京與烏克蘭總統澤連斯基“不可能在二十國集團（G20）邁阿密峰會上會面”，普京是否出席峰會目前也“尚未確定”。他重申，兩人的會晤“只能在莫斯科舉行”，“澤連斯基若是真想見普京，可以來莫斯科，這一邀請依然有效”。 澤連斯基當天早些時候表示，如果普京出席今年12月舉行的二十國集團峰會，他將前往美國邁阿密與其會面。（CCTV國際時訊）
-
----
-
-### 2026-09-13 03:43:13  #公司
-
-強生正洽談將迪普伊辛特斯骨科業務出售給阿波羅公司。
-
----
-
-### 2026-09-13 03:34:04  #MKT News #Important
-
-【Altman: OpenAI will not IPO this year, safety work remains】OpenAI founder Altman said the company will not go public this year and he does not expect an IPO in 2026, saying substantial safety work remains. His comments follow an Anthropic employee resignation and stern warning about AI capabilities. Markets had anticipated large IPOs from OpenAI and Anthropic this year; Altman’s statement shifts near-term IPO timing pressure onto Anthropic CEO Dario Amodei, who on Saturday urged a slowdown in AI development.
-
----
-
-### 2026-09-13 03:29:36  #MKT News #Important
-
-OpenAI founder Altman said the company will not go public this year, citing substantial remaining safety work.
-
----
-
-### 2026-09-13 03:27:01  #公司 #焦點
-
-OpenAI CEO奧特曼：鑑於AI安全方面的顧慮，當前進行IPO時機尚不成熟。
-
----
-
-### 2026-09-13 03:25:49  #公司 #焦點
-
-OpenAI CEO奧特曼：OpenAI不會在2027年前進行IPO。
-
----
-
-### 2026-09-13 03:18:23  #公司
-
-加拿大總理辦公室：總理卡尼將於9月15日至17日訪問法國斯特拉斯堡和英國利物浦，並在此期間會見英國首相伯納姆。
-
----
-
-### 2026-09-13 03:14:53  #MKT News #Market Regions #Europe & UK
-
-【Canadian PM Mark Carney to meet UK PM Andy Burnham for first time】Canadian Prime Minister Mark Carney will meet UK Prime Minister Andy Burnham in Liverpool during a Sept. 15-17 visit that also includes Strasbourg, the Prime Minister's Office said. They are expected to discuss defense and security, energy, AI and critical minerals. The meeting coincides with EU-Canada negotiations on a comprehensive trade-and-security agreement, a process the statement said is increasing pressure on Burnham as he seeks closer ties with the EU.
-
----
-
-### 2026-09-13 03:14:47  #其他
-
-【法國檢方：暫無證據表明列車脫軌事故涉及恐襲】法國魯昂檢方當地時間9月12日表示，目前沒有證據表明日前發生在濱海塞納省的列車脫軌事故涉及恐怖襲擊，也沒有證據證明有人蓄意使列車脫軌。魯昂檢方表示，警方技術和科學勘查已經完成，並進行了多次詢問，但目前仍無法解釋為何一段來自另一條軌道的鋼軌會出現在正在使用的線路上。此前，這起列車脫軌事故造成44人受傷。 (央視新聞)
-
----
-
-### 2026-09-13 03:02:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Houthi says Saudi jets carried out 129 airstrikes in Yemen in 48 hours】Houthi spokesman Yahya Sarea said on social media on the evening of Sept. 12 that Saudi warplanes carried out 129 airstrikes across Taiz, Marib, Hodeidah, al-Jawf, Saada, Amran and Hajjah provinces over the past 48 hours. He named F-15 and Typhoon fighters as the aircraft, saying they operated from Khamis Mushait and Taif military bases, and said the Houthis would "respond and punish" the strikes. The group also said it has stepped up offensives against Yemeni government forces and the Saudi-led coalition, seizing strategic sites along the Red Sea coast and the Bab al-Mandeb.
-
----
-
-### 2026-09-13 03:02:23  #其他
-
-【胡塞稱沙特48小時129次空襲葉門】葉門胡塞武裝發言人葉海亞·薩雷亞當地時間9月12日晚在社交媒體平臺釋出宣告稱，過去48小時內，沙特方面戰機對葉門塔伊茲省、馬裡卜省、荷臺達省、焦夫省、薩達省、阿姆蘭省和哈傑省發動129次空襲。宣告稱，實施空襲的戰機包括F-15戰鬥機和“颱風”戰鬥機。戰機從沙特的海米斯穆謝特和塔伊夫的軍事基地起飛。葉海亞·薩雷亞表示，胡塞武裝將對這些針對葉門民眾的襲擊進行“回應和懲罰”。葉門局勢近來急劇升級。胡塞武裝與沙特互襲。在葉門境內，胡塞武裝還加大攻勢，與葉門政府軍、沙特主導的聯軍持續衝突，並接連奪取紅海沿岸、曼德海峽戰略要地。（CCTV國際時訊）
-
----
-
-### 2026-09-13 02:59:30  #MKT News
-
-Saudi civil defense said a shell landed in Jizan province, injuring two. A shell fired by Yemeni Houthi forces also caused material damage to a mosque, several buildings and multiple vehicles.
-
----
-
-### 2026-09-13 02:59:22  #其他
-
-沙特民防部門稱，葉門胡塞武裝發射的炮彈擊中沙特吉贊致兩人受傷，還對多棟建築及車輛造成損失。
-
----
-
-### 2026-09-13 02:52:27  #其他
-
-【中國VR短片《鴿環》獲威尼斯電影節沉浸單元大獎】中國VR短片《鴿環》12日獲得第83屆威尼斯國際電影節“威尼斯沉浸單元”最高獎項——“威尼斯沉浸大獎”。（新華社）
-
----
-
-### 2026-09-13 02:49:59  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-Tesla said it will hold a launch event on Oct. 1 but gave no details on the product to be unveiled.
-
----
-
-### 2026-09-13 02:48:52  #其他 #焦點
-
-特斯拉預告將於10月1日舉辦產品釋出活動，暫未公佈釋出產品名稱。
-
----
-
-### 2026-09-13 02:43:34  #國際
-
-【伊朗南部格什姆島方向傳出爆炸聲】據伊朗方面12日訊息，伊朗南部格什姆島方向兩度傳出爆炸巨響。訊息稱，爆炸聲來自海面。（央視新聞）
-
----
-
-### 2026-09-13 02:41:04  #MKT News #Market Regions #Emerging Markets
-
-【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership.
 
 ---
