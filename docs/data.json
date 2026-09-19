@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-19 10:08:44",
-  "count": 13575,
+  "updated": "2026-09-19 10:12:33",
+  "count": 13577,
   "items": [
+    {
+      "id": "5103010",
+      "time": "2026-09-19 10:10:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑A10 OTA於今日開始陸續推送】據零跑汽車訊息，零跑A10 OTA已於9月19日開始陸續推送。本次OTA新增功能包括360新增後視鏡調節入口、記憶泊車車速設定及車位收藏功能、聲紋守護、騰訊雲遊戲應用、芒果TV應用、車輛離線提醒。"
+    },
+    {
+      "id": "5103009",
+      "time": "2026-09-19 10:10:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國和愛爾蘭重申維護《貝爾法斯特協議》】英國首相府18日發表宣告說，英國首相伯納姆與愛爾蘭總理馬丁當天在英格蘭西北部城市曼徹斯特“北方唐寧街10號”會晤時表示，將共同維護《貝爾法斯特協議》。宣告說，伯納姆和馬丁重申了英國與愛爾蘭之間密切的夥伴關係，以及維護《貝爾法斯特協議》的共同承諾。（新華社）"
+    },
+    {
+      "id": "5103008",
+      "time": "2026-09-19 10:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國酒業協會：2026年7月主要酒類商品出口量8.02萬千升】2026年7月，中國酒業協會監測的10類主要出口酒類商品，當月出口量8.02萬千升，較上月增加0.26萬千升；出口額6.76億元（人民幣計，下同）。1-7月累計出口量48.34萬千升，出口額51.42億元。整體來看，7月酒類出口中，其他類在出口量和出口額上繼續保持領先，出口量佔比97.38%，出口額佔比56.73%，其中啤酒是核心驅動力量；其次是白酒、黃酒等傳統酒類，出口額佔比39.90%；葡萄酒類本月出口額佔比僅為3.37%。"
+    },
     {
       "id": "5103007",
       "time": "2026-09-19 10:06:06",
@@ -124531,14 +124555,6 @@
         "Impact bullish"
       ],
       "text": "【Boeing, engineers' union reach tentative contract; initial 10% raise】Boeing (BA.N) and the Society of Professional Engineering Employees in Aerospace (SPEEA) reached a tentative four-year contract on Friday that increases general wage growth versus the prior offer. If ratified, roughly 17,000 SPEEA professional and technical members would receive a 10% raise on Oct. 16, then 4% annual increases in 2027–2030 plus performance-based increments. SPEEA members overwhelmingly rejected the earlier proposal on Aug. 21. The tentative deal also adjusts remote-work policies and overtime limits for the professional unit."
-    },
-    {
-      "id": "5090528",
-      "time": "2026-09-12 10:11:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【斜躍智慧完成數億元天使+輪融資】近日，斜躍智慧完成數億元天使+輪融資，線性資本、鈞山資本、弘頤資本、隱山資本等機構參與投資。隨著這一輪融資完成，斜躍將持續推進具身基礎模型訓練、算力與資料基礎設施建設和核心團隊擴充，以及家庭機器人本體研發和場景驗證。斜躍智慧成立於2026年2月，是一家以家庭為第一落地場景的具身基礎模型公司，由理想前AI首席科學家、基座模型部門負責人陳偉，以及理想前產品線總裁張驍聯合創立。"
     }
   ]
 }
