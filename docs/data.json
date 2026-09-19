@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-20 03:38:39",
-  "count": 13484,
+  "updated": "2026-09-20 03:42:28",
+  "count": 13488,
   "items": [
+    {
+      "id": "5103551",
+      "time": "2026-09-20 03:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱挫敗了胡塞武裝對沙特城市比什、塔伊夫、法拉桑和延布平民的襲擊。"
+    },
+    {
+      "id": "mkt:01a0bb2e-912e-7118-8612-33cef18bf52b",
+      "time": "2026-09-20 03:39:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition said it foiled Houthi attacks targeting civilian sites in the Saudi cities of Bish, Taif, Farasan and Yanbu."
+    },
+    {
+      "id": "5103550",
+      "time": "2026-09-20 03:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍表示，週六攔截並摧毀了葉門胡塞武裝向利雅得發射的一枚彈道導彈。"
+    },
+    {
+      "id": "mkt:01a0bb2d-789b-7118-8612-2df09595f770",
+      "time": "2026-09-20 03:38:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a ballistic missile launched at Riyadh on Saturday by Yemen’s Houthi movement."
+    },
     {
       "id": "5103549",
       "time": "2026-09-20 03:37:13",
