@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-19 22:50:13",
-  "count": 13486,
+  "updated": "2026-09-19 22:54:08",
+  "count": 13487,
   "items": [
+    {
+      "id": "5103385",
+      "time": "2026-09-19 22:52:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國《政治報》：將堅決捍衛第一修正案賦予的權利。"
+    },
+    {
+      "id": "5103384",
+      "time": "2026-09-19 22:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國《政治報》稱其工作人員被禁止進入白宮。"
+    },
+    {
+      "id": "5103381",
+      "time": "2026-09-19 22:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍指揮官：霍爾木茲海峽石油運量創六個月新高】美軍布拉德·庫珀上將稱，過去兩週經由霍爾木茲海峽的石油與液化天然氣運量達到六個月新高。庫珀表示，海峽主要通航航道已清除水雷，波斯灣盟友在過去數月經該海峽輸送原油超10億桶。美國及其盟友正致力於進一步提升海峽通行量，美國能源部長賴特稱市場仍需依賴霍爾木茲海峽的航運。"
+    },
     {
       "id": "5103366",
       "time": "2026-09-19 22:41:36",
@@ -123781,23 +123805,6 @@
         "國際"
       ],
       "text": "伊朗總統：目前尚未決定與美國進行直接對話。"
-    },
-    {
-      "id": "mkt:01a0961a-975e-7118-8557-bab100020d97",
-      "time": "2026-09-12 22:52:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran, Oman foreign ministers speak by phone】IRNA said Iranian foreign minister Araghchi and Omani foreign minister Badr al-Busaidi held a phone call this afternoon to discuss recent regional developments and issues of mutual concern."
-    },
-    {
-      "id": "5090917",
-      "time": "2026-09-12 22:50:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統：我們無意發動戰爭。"
     }
   ]
 }
