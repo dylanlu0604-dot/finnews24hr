@@ -1,7 +1,15 @@
 {
   "date": "2026-09-19",
-  "count": 617,
+  "count": 618,
   "items": [
+    {
+      "id": "mkt:01a0b778-1e1c-7118-860d-991fa4324213",
+      "time": "2026-09-19 10:21:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert warning of a potential danger in Riyadh."
+    },
     {
       "id": "5103014",
       "time": "2026-09-19 10:19:23",
