@@ -1,7 +1,33 @@
 {
   "date": "2026-09-19",
-  "count": 502,
+  "count": 505,
   "items": [
+    {
+      "id": "5102920",
+      "time": "2026-09-19 08:07:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾暗盤漲超2%，現報109.6519美元。"
+    },
+    {
+      "id": "mkt:01a0b6fb-83a0-7118-860d-07d9b2170ed1",
+      "time": "2026-09-19 08:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riyadh, Saudi Arabia issued an alert warning of a hostile aerial threat."
+    },
+    {
+      "id": "mkt:01a0b6fa-bbb4-7118-860c-fee3f017d342",
+      "time": "2026-09-19 08:04:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv reported ANTHROPIC is considering launching a new AI model ahead of its IPO; the company's listing could be delayed until after the U.S. midterm elections."
+    },
     {
       "id": "5102919",
       "time": "2026-09-19 08:02:57",
