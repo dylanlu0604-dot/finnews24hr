@@ -1,7 +1,806 @@
 {
   "date": "2026-09-19",
-  "count": 782,
+  "count": 872,
   "items": [
+    {
+      "id": "5103202",
+      "time": "2026-09-19 18:49:55",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【《網路安全人才實戰能力報告—AI賦能篇》釋出】 9月18日，在第一屆中國網路空間安全大會上，《網路安全人才實戰能力報告—AI賦能篇》正式釋出。報告由國務院學位委員會學科評議組（網路空間安全組）、教育部高等學校網路空間安全專業教學指導委員會指導，北京航空航天大學、中國科學技術大學、永信至誠科技集團股份有限公司擔任主編單位，多所高校、科研機構及產業單位參與編制。報告顯示，當前AI安全人才呈現從業年限偏短、地域和行業分佈相對集中、專職力量不足等特點，不少單位仍由傳統安全團隊或研發團隊兼顧模型安全工作，專門從事AI安全研究和應用安全保障的隊伍仍需進一步完善。在人才培養方面，越來越多高校已將AI相關課程納入教學體系。報告提出，未來網路安全人才培養和評價應更加貼近真實業務和實戰需求，以實際任務定義能力、以真實場景組織訓練、以任務完成效果評價人才，推動高校、科研機構、網路安全企業和重點行業共同參與人才培養、訓練、評價和使用。（新華社）"
+    },
+    {
+      "id": "5103201",
+      "time": "2026-09-19 18:47:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國深入打擊生態環境監測機構弄虛作假問題部署推進會在京召開】生態環境部9月18日聯合相關部門在京召開全國深入打擊生態環境監測機構弄虛作假問題部署推進會。生態環境部部長黃潤秋出席會議並講話。黃潤秋強調，要深刻把握生態環境監測機構弄虛作假的新特點，按照“摸清底數、集中整改、規範執行”三個階段，部署深入打擊監測機構弄虛作假問題，推動行業生態持續淨化、監測行為有效規範。要全面摸清底數，抓緊開展動員部署，指導監測機構嚴格規範自查，建立問題臺賬。要集中整改整治，依法分類處置弄虛作假問題，加強對監測機構的幫扶指導，切實推動問題整改到位。強化抽查核查，堅決查處錯報漏報瞞報以及敷衍整改、假裝整改等行為。要常態規範執行，夯實管理基礎，加快出臺相關管理檔案，建好用好生態環境監測管理服務平臺，切實把好監測機構資格准入關、儀器使用關、行為規範關、依法退出關，持續加強對排汙單位和技術服務機構規範化管理。"
+    },
+    {
+      "id": "mkt:01a0b941-a3b5-7118-860f-c6bc4311f07c",
+      "time": "2026-09-19 18:41:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kazakh delegation visits Shenzhen urban-transport tech group, signs AI cooperation MOUs】A Kazakh delegation led by Deputy Minister Bakhtiyar Mukhametkaliyev of the Ministry of AI and Digital Development visited Shenzhen Urban Transport Technology Group Co., Ltd. (Shenchengjiao). Shenchengjiao signed memoranda of understanding with the Kazakh ministry and five regional governments—Kostanay, Zhambyl, Akmola, West Kazakhstan and Pavlodar—to cooperate on smart regions, smart cities and the low‑altitude economy and to jointly explore digital development paths tailored to local needs."
+    },
+    {
+      "id": "5103200",
+      "time": "2026-09-19 18:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈薩克代表團到訪深城交 簽署人工智慧合作備忘錄】近日，哈薩克人工智慧與數字發展部副部長巴克提亞爾·阿巴耶維奇·穆哈梅特卡利耶夫等到訪深城交科技集團股份有限公司（簡稱“深城交”）。雙方在會談中達成多項共識，深城交分別與哈薩克人工智慧與數字發展部，以及科斯塔奈州、江布林州、阿克莫拉州、西哈薩克州、巴甫洛達爾州五個州政府簽署合作諒解備忘錄（MOU）。各方將圍繞智慧區域、智慧城市和低空經濟深化合作，共同探索符合當地需求的數字化發展路徑。"
+    },
+    {
+      "id": "5103199",
+      "time": "2026-09-19 18:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，巴基斯坦在招標採購中購入36.5萬噸小麥，本次招標原計劃採購最多75萬噸。"
+    },
+    {
+      "id": "mkt:01a0b93f-191f-7118-860f-bff14638bf5b",
+      "time": "2026-09-19 18:38:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "【Scholar: Red Sea escort coalition's deployment hinges on Houthi actions】Al Jazeera reports a multinational naval coalition is preparing to deploy to the Red Sea under a unified command to protect shipping. Sultan Barakat of Hamad bin Khalifa University said the announced commitments will be tested and that similar Saudi-led coalition concepts have not formed in practice. He warned the force is unlikely to deploy unless Houthi militants stop attacking international shipping in the Red Sea. Barakat added the multinational model used for operations around Bab al-Mandeb cannot be replicated in the Strait of Hormuz because tensions involving Iran are more complex."
+    },
+    {
+      "id": "5103198",
+      "time": "2026-09-19 18:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "喜力收購Stonegate旗下300家酒吧的交易價值將達約3億英鎊。"
+    },
+    {
+      "id": "mkt:01a0b93b-ec49-7118-860f-b64caf437c57",
+      "time": "2026-09-19 18:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv reported witnesses saw flames and large black plumes of smoke rising near Riyadh airport in Saudi Arabia."
+    },
+    {
+      "id": "5103197",
+      "time": "2026-09-19 18:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗處決一名被控為以色列從事間諜活動的男子，該男子被控向以色列摩薩德情報機構提供有關伊朗伊斯法罕省軍事設施（包括導彈發射場）的資訊。"
+    },
+    {
+      "id": "5103196",
+      "time": "2026-09-19 18:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "喜力集團據悉洽購英國最大酒吧運營商Stonegate旗下300家酒吧。"
+    },
+    {
+      "id": "mkt:01a0b934-4506-7118-860f-ad05b79845c1",
+      "time": "2026-09-19 18:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Denmark and Greenland say US deal will not undermine Greenland sovereignty】Denmark and Greenland said on Saturday any agreement with the US will not undermine Greenland's sovereignty, responding to President Trump’s remark that the deal would give Washington \"permanent control\" over the Arctic island's security. On Friday the US, Denmark and Greenland said they had agreed the US would expand a significant military presence in Greenland and bar US rivals from establishing bases there. Denmark's foreign minister said a binding accord expected next week would strengthen Arctic and North Atlantic security while respecting Denmark's red lines; Greenland's prime minister said the deal recognizes the kingdom's sovereignty and territorial integrity and Greenlanders' right to self-determination and will aid shared security and national development."
+    },
+    {
+      "id": "5103195",
+      "time": "2026-09-19 18:24:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞民主行動黨秘書長表示，該黨的立場已透過我提出辭去內閣職務一事體現。"
+    },
+    {
+      "id": "5103194",
+      "time": "2026-09-19 18:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞民主行動黨秘書長提出辭去交通部長職務。"
+    },
+    {
+      "id": "5103193",
+      "time": "2026-09-19 18:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安全形勢依然嚴峻 我使館提醒中國公民暫勿前往蘇丹】當地時間9月19日，中國駐蘇丹大使館釋出通告，稱蘇丹總體安全形勢依然嚴峻，再次提醒中國公民近期暫勿前往極高風險地區。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b92a-1a7e-7118-860f-a55f9ff11667",
+      "time": "2026-09-19 18:15:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The 20th Asian Games opened on the evening of the 19th in Nagoya, Japan."
+    },
+    {
+      "id": "5103192",
+      "time": "2026-09-19 18:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國—南亞國家海洋合作研討會在青島舉辦】自然資源部訊息，9月17日—18日，中國—南亞國家海洋合作研討會在青島西海岸新區舉行。本次研討會由自然資源部第一海洋研究所主辦，中國和南亞各國100餘位政府代表、專家學者參會。研討會報告了中國—南亞國家海洋合作進展，介紹了各國在平臺建設、聯合觀測、生態保護、公共產品、能力建設等方面的成果，並就未來合作重點和路徑進行深入探討。"
+    },
+    {
+      "id": "5103191",
+      "time": "2026-09-19 18:10:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【巴基斯坦外長與伊朗外長通話 就地區最新局勢交換意見】巴基斯坦外交部19日通報，巴基斯坦副總理兼外交部長達爾當天與伊朗外交部長阿拉格齊通電話，雙方就地區最新局勢交換了意見。達爾強調，確保能源供應不間斷以及船隻安全和快速通行至關重要，特別是考慮到這對發展中國家和全球供應鏈的影響。他指出，對話與外交仍是確保地區和平與穩定的唯一可行途徑。雙方同意繼續保持密切合作，並將在第81屆聯合國大會期間於紐約舉行會晤。（央視新聞）"
+    },
+    {
+      "id": "5103190",
+      "time": "2026-09-19 18:08:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三峽能源與海岸與海洋工程全國重點實驗室座談】9月18日，三峽能源董事長、黨委書記朱承軍與海岸與海洋工程全國重點實驗室主任、大連理工大學建設工程學院副院長寧德志開展座談，雙方圍繞深化校企合作、推進海洋科技創新進行深入交流。"
+    },
+    {
+      "id": "5103189",
+      "time": "2026-09-19 18:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【格陵蘭和丹麥表示，與美國達成的協議不會讓渡主權】丹麥和格陵蘭週六表示，與美國達成的任何協議都不會損害格陵蘭的主權。此前，美國總統唐納德·特朗普曾聲稱該協議將賦予華盛頓對這座北極島嶼安全事務的“永久控制權”，但未明確協議的具體範圍。丹麥和格陵蘭表示，希望這項預計將於下週聯合國大會期間簽署的協議，能結束因特朗普威脅要接管格陵蘭而引發的數月不確定狀態。丹麥外交大臣拉斯·勒克·拉斯穆森週六在社交媒體上發表宣告稱：“下週對格陵蘭、丹麥和美國來說，可能都是美好的一週。”他說：“希望不確定的時期能讓位於一項具有約束力的協議，該協議將加強北極和北大西洋地區的安全——進而鞏固我們在北約和歐洲的共同安全——同時尊重丹麥王國的‘紅線’。”丹麥和格陵蘭一再堅持要求華盛頓尊重丹麥王國的主權，並接受格陵蘭是非賣品這一事實。"
+    },
+    {
+      "id": "5103188",
+      "time": "2026-09-19 18:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "格陵蘭島和丹麥表示，與美國達成的協議不會讓渡主權。"
+    },
+    {
+      "id": "5103187",
+      "time": "2026-09-19 18:02:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【下週43股面臨解禁 4只解禁股上半年業績扭虧】下週將有43只股票解禁，按照最新收盤價計算，合計解禁市值151.28億元。從解禁比例來看，下週面臨解禁的個股中首藥控股-U的解禁比例達56.96%，居首；友升股份、聚仁新材、星徽股份解禁比例均超20%。下週解禁股中，通達海、首藥控股-U、正裕工業、ST通葡、愛克股份、海泰科、錦好醫療的上半年業績虧損。匯川技術的上半年淨利潤規模居首，公司上半年歸母淨利潤28.1億元。宏源藥業、海南高速、大為股份、星徽股份上半年淨利潤實現扭虧。"
+    },
+    {
+      "id": "mkt:01a0b91d-de8c-7118-860f-98742c5d4bfd",
+      "time": "2026-09-19 18:02:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister, Pakistan foreign minister hold call on regional developments】Al Jazeera, citing Tasnim, reported Iran foreign minister Araghchi held a phone call with Pakistan foreign minister Muhammad Ishaq Dar to discuss issues of mutual concern and recent regional developments."
+    },
+    {
+      "id": "5103186",
+      "time": "2026-09-19 18:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦副總理兼外長達爾週六與伊朗外長阿拉格齊進行了通話，雙方討論了共同關心的問題以及地區最新局勢發展。"
+    },
+    {
+      "id": "mkt:01a0b916-316a-7118-860f-9213274615db",
+      "time": "2026-09-19 17:53:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Lebanon's Al-Ahed newspaper quoted Arab analyst and researcher Hassan Ali saying Saudi Arabia misjudged the strength of Yemen's Houthi forces, plunging Riyadh into a real crisis. He said recent developments on Yemen's west coast demonstrate the Houthi forces' military capability."
+    },
+    {
+      "id": "mkt:01a0b913-0c58-7118-860f-8ae769368d72",
+      "time": "2026-09-19 17:50:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI projects nearly $280 bln cash burn over next five years; revenue to rise tenfold】FT-obtained presentation shows OpenAI expects to burn nearly $280 bln by end-2030. The company forecasts up to $278 bln negative free cash flow in 2026–2030 as it ramps investment to expand access to compute. Revenue is projected to grow tenfold from $36 bln this year to $350 bln in 2030, with cumulative revenue to 2030 of $840 bln. OpenAI plans about $856 bln of spending on compute and infrastructure by 2030, its largest single expense."
+    },
+    {
+      "id": "5103185",
+      "time": "2026-09-19 17:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【何永賢：2030年內香港特區要基本解決住宅內的劣質劏房問題】香港特區行政長官李家超於9月16日公佈香港首個五年規劃，並發表2026年施政報告。多名特區政府主要官員由9月17日至9月21日舉行記者會，闡述五年規劃及施政報告中其政策範疇的相關措施。香港特區房屋局局長何永賢介紹在第一個《五年規劃》及《行政長官2026年施政報告》中與房屋有關的措施。何永賢說，第一就是非常明確地要取締劣質劏房，在2030年內要基本解決住宅內的劣質劏房問題。何永賢表示，有一個非常清晰的長遠房屋策略，清楚列出“四三三”的比例：四成為出租公營房屋，三成為資助出售房屋，另外三成為私樓。大家可以看出，其實“三加三”，即六成的比例為自置居所，這也是一個非常明確的方向。我們會繼續供應主導，善用公屋資源，鼓勵上進上流，照顧好房屋階梯，並促進青年置業，是一個多層次的房屋供應策略。 (大灣區之聲)"
+    },
+    {
+      "id": "5103184",
+      "time": "2026-09-19 17:45:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門訊息來源：胡塞武裝已開始在俯瞰紅海南部的高地上安裝雷達。"
+    },
+    {
+      "id": "5103183",
+      "time": "2026-09-19 17:44:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門訊息來源：伊朗革命衛隊的專家視察了穆哈（Mokha）港口、機場及曼德海峽地區。"
+    },
+    {
+      "id": "mkt:01a0b90c-db04-7118-860f-861671d7824b",
+      "time": "2026-09-19 17:43:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong housing secretary says substandard subdivided flats to be largely eliminated by 2030】Hong Kong’s housing secretary said measures in the first Five-Year Plan and the Chief Executive’s 2026 Policy Address aim to largely eliminate substandard subdivided flats within residential buildings by 2030. The long-term housing strategy sets a 4-3-3 supply mix — 40% public rental, 30% subsidised-sale and 30% private — implying a 60% owner-occupation target. Authorities will maintain a supply-led approach, optimise public housing resources, support upward mobility and the housing ladder, and prioritise youth homeownership as part of a multi-tier housing supply strategy."
+    },
+    {
+      "id": "5103182",
+      "time": "2026-09-19 17:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門訊息來源：伊朗裝備已抵達胡塞控制的西海岸地區。這些裝備的解除安裝在它們從索馬利亞海岸運來後秘密進行。"
+    },
+    {
+      "id": "5103181",
+      "time": "2026-09-19 17:41:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯中央選舉委員會：國家杜馬選舉全國投票率目前已達31.09%。"
+    },
+    {
+      "id": "mkt:01a0b90a-49d3-7118-860f-7aea56beedb5",
+      "time": "2026-09-19 17:40:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Ministry of Digital Development said individuals attempted to sabotage communications lines in the Russian Far East to disrupt elections."
+    },
+    {
+      "id": "mkt:01a0b904-aa19-7118-860f-77d563f06657",
+      "time": "2026-09-19 17:34:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US officials told Saudi outlet Alhadath they are monitoring Iran-backed proxy forces in Iraq, with particular focus on threats those groups may pose to US troops and personnel in the region."
+    },
+    {
+      "id": "mkt:01a0b903-0f27-7118-860f-6cbfd64b9045",
+      "time": "2026-09-19 17:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosive sounds heard again in Saudi capital Riyadh】Explosive sounds were heard again in Riyadh on the 19th. Smoke was reported near King Khalid International Airport northeast of the city."
+    },
+    {
+      "id": "5103180",
+      "time": "2026-09-19 17:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特首都利雅得再次傳出爆炸聲】沙烏地阿拉伯首都利雅得19日再次傳出爆炸聲。位於利雅得東北部的哈立德國王國際機場附近升起濃煙。（新華社）"
+    },
+    {
+      "id": "5103179",
+      "time": "2026-09-19 17:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西部地區首例 癱瘓病人有望“意念”控制裝置】日前，空軍軍醫大學唐都醫院完成西部地區首例“全侵入式腦機介面植入手術”。一名因頸髓損傷導致四肢癱瘓了3年多的54歲女性患者，在大腦運動功能區植入腦機介面系統後，有望透過“意念”控制外部裝置，逐步找回與外界互動的能力。（西安日報）"
+    },
+    {
+      "id": "5103178",
+      "time": "2026-09-19 17:22:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約發言人：該協議將有助於推進這一重要地區的安全、穩定與合作。"
+    },
+    {
+      "id": "5103177",
+      "time": "2026-09-19 17:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約發言人表示：北約將繼續在加強北極地區安全方面履行自身職責。"
+    },
+    {
+      "id": "mkt:01a0b8f9-9f46-7118-860f-67f61e65f73a",
+      "time": "2026-09-19 17:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A NATO spokesperson said the agreement will help advance security, stability and cooperation in the Arctic, and NATO will continue contributing to Arctic security."
+    },
+    {
+      "id": "5103176",
+      "time": "2026-09-19 17:22:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "北約發言人：我們對美國、丹麥與格陵蘭即將簽署協議的公告表示歡迎。北極地區與北大西洋對我們的集體安全至關重要。"
+    },
+    {
+      "id": "5103175",
+      "time": "2026-09-19 17:20:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首家新設外資公募獲QDII資格 QDII額度年內兩次擴容】近日，貝萊德基金獲批合格境內機構投資者（QDII）資格，成為首家獲批該資格的新設外資公募機構。在今年QDII額度兩度擴容、證券基金類機構獲批額度首次突破千億美元的背景下，外資公募參與跨境投資市場的步伐進一步加快。今年以來，QDII通道擴容節奏明顯加快。國家外匯管理局3月末公佈的資料顯示，全市場QDII累計批准額度較2025年末增加53億美元，達到1761.69億美元。8月底，外匯局再度發放68.4億美元QDII額度，涉及89家機構。截至8月末，全市場196家機構累計獲批QDII額度升至1830.09億美元。（券商中國）"
+    },
+    {
+      "id": "5103174",
+      "time": "2026-09-19 17:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國完成“地星三號”臥床實驗，為太空長期駐留和載人登月任務提供技術支援】從19日在天津召開的首屆航天醫學工程大會獲悉，我國已完成“地星三號”臥床實驗，結果表明對人體骨肌、心血管等能夠起到很好的防護作用，將為太空長期駐留和載人登月任務提供技術支援。臥床實驗是開展航天醫學研究、探究低變重力生理效應、驗證防護效果的重要研究手段。中國航天員科研訓練中心曲麗娜介紹，為破解長期駐留與載人登月任務的生理防護難題，我國今年開展了“地星三號”臥床實驗。（新華社）"
+    },
+    {
+      "id": "mkt:01a0b8f7-9e3c-7118-860f-5f8cc0fec5af",
+      "time": "2026-09-19 17:20:30",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【BlackRock wins QDII approval as China expands QDII quotas twice this year】BlackRock was approved as the first newly established foreign asset manager granted QDII status, accelerating foreign public fund participation in cross‑border investment. SAFE data showed the market's cumulative approved QDII quota rose $5.3bn to $176.17bn at end‑March versus end‑2025; in late August SAFE allocated a further $6.84bn across 89 institutions. As of end‑August, 196 institutions held a combined approved QDII quota of $183.01bn, and approved quota for securities and fund institutions has for the first time exceeded $100bn."
+    },
+    {
+      "id": "5103173",
+      "time": "2026-09-19 17:14:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【賽力斯劉宗成：汽車產業最大的風險不是慢，而是“速成”】賽力斯集團科技公司總裁劉宗成在2026中國汽車產業發展（泰達）國際論壇上表示，汽車產業最大的風險不是慢，而是“速成”。“中國汽車要從規模領先邁向質量領先，不能靠壓縮驗證週期，降低安全標準來搶速度。”劉宗成認為，靠“速成”走不遠，靠低價贏不了未來。（每經網）"
+    },
+    {
+      "id": "mkt:01a0b8ee-0098-7118-860f-5135017026bf",
+      "time": "2026-09-19 17:10:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Sky News reports the UK's largest steelmaker is seeking new government funding support."
+    },
+    {
+      "id": "mkt:01a0b8ed-0088-7118-860f-48a6e9df9afa",
+      "time": "2026-09-19 17:08:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Nikkei: Saudi Arabia reportedly seeks rare support from Israel over oil-route threats】Nikkei on Sept. 19, citing Axios, reported Saudi Arabia has quietly sought rare assistance from Israel to avert oil-supply disruptions after the Strait of Hormuz was effectively blocked and alternative pipeline routes were damaged in attacks by Iran-aligned militias. The report says senior military officials from Saudi Arabia, the US and Israel met in Germany last week to discuss options, including Israeli support for Saudi defenses. Riyadh’s outreach comes despite strong anti-Israel sentiment in Arab publics amid Israel’s offensive in Gaza."
+    },
+    {
+      "id": "5103172",
+      "time": "2026-09-19 17:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵據悉尋求英國政府新的支援方案。"
+    },
+    {
+      "id": "5103171",
+      "time": "2026-09-19 17:06:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：沙特罕見向以色列提出支援請求】據《日本經濟新聞》9月19日報道，為了避免石油供應中斷，沙烏地阿拉伯正四處奔走。霍爾木茲海峽事實上已被封鎖，而替代路線的管道又遭親伊朗武裝組織襲擊而受損，沙特不得不向尚未與之建交的以色列提出罕見的支援請求。 報道援引美國阿克西奧斯新聞網站訊息稱，沙特與美國、以色列等國軍方高層上週在德國討論了地區局勢，議題包括以色列向沙特提供支援的方案。 由於以色列進攻巴勒斯坦加沙地帶造成傷亡不斷增加，包括沙特在內的阿拉伯國家民眾反以情緒根深蒂固。即便如此，沙特仍謀求借助以色列的軍事力量，這一格局正反映出沙特的窘境。 （參考訊息）"
+    },
+    {
+      "id": "5103170",
+      "time": "2026-09-19 17:01:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賈國龍“天邊砂鍋燜面”上海最大門店開業5個月關了】今日，記者實地探訪發現，西貝創始人賈國龍打造的新品牌“天邊砂鍋燜面”上海東方路店已停止營業，門店招牌被拆除。 該門店前身為上海面積最大的西貝旗艦店。今年4月20日，天邊砂鍋燜面在上海三店齊開，門店分別落子靜安、浦東、嘉定三區，浦東東方路店即為其中之一，由原西貝旗艦店轉型升級而來。 從4月開業至今，該門店僅運營約5個月。 大眾點評App顯示，除了該門店外，在北京地區，目前天邊砂鍋燜面的翠微印象城店、北京豐科萬達店為“歇業關閉”狀態，合生匯店、798藝術園區店等5家門店在營。在其他城市，呼和浩特園藝所門店、上海湟普匯店等也已閉店。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:01a0b8e4-c19f-7118-860f-419ec8f8527f",
+      "time": "2026-09-19 16:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior ministry spokesman said presidential and parliamentary elections may be held simultaneously in the second month of Iranian year 1407 (April–May 2028)."
+    },
+    {
+      "id": "mkt:01a0b8e1-ee3b-7118-860f-3c90e11b945f",
+      "time": "2026-09-19 16:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sichuan issues yellow geological-hazard warning; 25 counties/districts at elevated risk】Sichuan Department of Natural Resources and the provincial Meteorological Bureau issued a joint yellow (level‑3) meteorological risk warning for geological hazards from 20:00 Sep 19 to 20:00 Sep 20. Areas at elevated risk (25 counties/districts): Yanbian County (Panzhihua); Gaoping District, Jialing District, Yingshan County, Peng'an County, Yilong County (Nanchong); Guang'an District, Qianfeng District, Yuechi County, Wusheng County (Guang'an); Tongchuan District, Dachuan District, Wanyuan City, Xuanhan County, Kaijiang County, Dazhu County, Qu County (Dazhou); Bazhou District, Enyang District, Tongjiang County, Pingchang County (Bazhong); Mianning County, Yuexi County, Ganluo County, Meigu County (Liangshan Prefecture)."
+    },
+    {
+      "id": "mkt:01a0b8e1-4572-7118-860f-33ff2a825a12",
+      "time": "2026-09-19 16:56:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK"
+      ],
+      "text": "【Tencent chief talent officer Xi Dan: commitment to basic research will not change】Tencent will not change its commitment to supporting basic research and views it as a long-term strategic effort beyond commercial boundaries, Xi Dan, senior vice president and chief talent officer, said at a Shenzhen forum. She said scientific research is moving beyond single-discipline limits and that interdisciplinary integration and AI’s impact on research are becoming key drivers of technological innovation."
+    },
+    {
+      "id": "mkt:01a0b8df-2e70-7118-860f-2c6c55e9d8f8",
+      "time": "2026-09-19 16:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian deputy foreign minister says unaware of US-Russia commercial deal before Ukraine conflict ends】RIA quoted Deputy Foreign Minister Sergey Ryabkov on Saturday saying he was not aware of any US intent to sign commercial agreements with Moscow before the end of the Russia-Ukraine conflict, in response to a New York Times report that the White House is considering such deals prior to Russia halting military operations in Ukraine. He said receiving such a signal would be surprising given public US messaging that a settlement on Ukraine should come first, and that the same sequencing applies to economic matters and projects."
+    },
+    {
+      "id": "mkt:01a0b8da-fd22-7118-860f-23c68280526a",
+      "time": "2026-09-19 16:49:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araghchi spoke with Pakistan's foreign minister to discuss the regional situation."
+    },
+    {
+      "id": "5103169",
+      "time": "2026-09-19 16:44:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車釋出5款新車，最高售價13.8萬元】9月19日，2026中國摩博會期間，張雪機車亮相N7展館。張雪機車同時舉行新品釋出會，五款車型同臺首發，釋出了巡航車型600V及探險車型820X兩款新車，以及三款升級車型，分別是復古街車2027款500F、冠軍車820RR的賽道版820RR-RC及全碳纖維版820RR-RS車型，兩款車型售價分別為12.8萬元和13.8萬元。"
+    },
+    {
+      "id": "mkt:01a0b8d5-d411-7118-860f-1b37f53c4e02",
+      "time": "2026-09-19 16:43:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA reported Russia said it was unaware of any US signal indicating a possible agreement with Russia before the end of the conflict in Ukraine."
+    },
+    {
+      "id": "mkt:01a0b8d5-7ad3-7118-860f-130cee604b2e",
+      "time": "2026-09-19 16:43:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Israeli media: Trump unlikely to meet NETANYAHU at next week’s UNGA】Ynet Global cites senior Trump administration officials saying Trump is not expected to meet NETANYAHU during next week’s UN General Assembly due to scheduling constraints. A separate U.S. official said Israel’s upcoming election will limit NETANYAHU’s time in New York. NETANYAHU is slated to speak at the UNGA on Thursday, by which time Trump is expected to have returned to Washington. Reports also say Trump may meet Venezuela’s interim president RODRIGUEZ and could hold talks with Gulf Arab leaders on recent developments in the Iran war and post‑conflict planning."
+    },
+    {
+      "id": "5103168",
+      "time": "2026-09-19 16:42:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息稱，俄羅斯未收到美方關於在烏克蘭衝突結束前與俄簽署協議可能性的訊號。"
+    },
+    {
+      "id": "5103167",
+      "time": "2026-09-19 16:42:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第21屆中國林產品交易會在山東曹縣舉行】9月19日至21日，以“數智賦能 鏈啟領航”為主題的第21屆中國林產品交易會在山東菏澤曹縣莊寨鎮木材加工產業園舉辦。本屆展會採用“線上 + 線下”雙線辦展模式，聚焦產業數智轉型、綠色發展與國際合作，集中展示板材傢俱、木製工藝品、萌寵經濟產品、全屋定製等多元品類。（新華社）"
+    },
+    {
+      "id": "5103165",
+      "time": "2026-09-19 16:33:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅完成國內最高電壓等級線路絕緣子帶電更換】從國網甘肅省電力公司獲悉，該公司18日在甘肅省山丹縣境內成功完成±1100千伏吉泉線（甘肅段）耐張玻璃絕緣子機械化帶電更換作業，這是甘肅省首次在國內最高電壓等級輸電線路帶電情況下，開展絕緣子更換作業。（新華社）"
+    },
+    {
+      "id": "5103164",
+      "time": "2026-09-19 16:31:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "選舉委員會：莫斯科選舉系統在投票期間夜間遭到強力網路攻擊，目前情況已得到控制。"
+    },
+    {
+      "id": "mkt:01a0b8c8-6254-7118-860f-0a8029ef8855",
+      "time": "2026-09-19 16:28:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Polish military: ground air-defence systems and radar reconnaissance have resumed normal operational activity; no incursions into Polish airspace recorded."
+    },
+    {
+      "id": "mkt:01a0b8c8-0e85-7118-860f-0054403ad073",
+      "time": "2026-09-19 16:28:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US denies visas to Palestinian UNGA delegation for second year; EU urges Washington to reconsider】On the 19th the EU said it regretted that the United States, for the second consecutive year, refused visas to members of the Palestinian delegation, preventing their participation in the 81st UN General Assembly in New York, and urged Washington to reconsider the decision given the UN headquarters agreement and US host‑country obligations."
+    },
+    {
+      "id": "5103163",
+      "time": "2026-09-19 16:28:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：軍事航空行動已結束，未發生侵犯波蘭領空的情況。"
+    },
+    {
+      "id": "5103162",
+      "time": "2026-09-19 16:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：地面防空系統和雷達偵察已恢復常規作戰執行。"
+    },
+    {
+      "id": "mkt:01a0b8c7-6222-7118-860e-fd2695226581",
+      "time": "2026-09-19 16:27:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Polish military says military air operations in Poland's airspace, conducted in response to Russian attacks on Ukraine, have ended."
+    },
+    {
+      "id": "5103161",
+      "time": "2026-09-19 16:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：與俄羅斯襲擊烏克蘭有關的波蘭領空軍事航空行動已結束。"
+    },
+    {
+      "id": "mkt:01a0b8c7-14c8-7118-860e-f5e36a2b1d8b",
+      "time": "2026-09-19 16:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran prioritises civilian reconstruction, flags inflation concern】Iran's interior ministry said rebuilding damaged civilian infrastructure is a top priority in its post-war plan, with repairs to housing and public-service facilities taking precedence over non-essential projects. Spokesman Ali Zeynivand said enemy attacks damaged about 75,000 housing units and parts of infrastructure, including connecting bridges, across several provinces including Hormozgan and Golestan. He added that record-high inflation after decades of Western sanctions is worrying the public and that officials are working to address rising prices."
+    },
+    {
+      "id": "5103160",
+      "time": "2026-09-19 16:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部：與伊朗的戰爭已耗資451億美元】記者當地時間18日獲悉，訊息人士表示，美國國防部當天向國會通報，截至9月3日，美國與伊朗的戰爭已耗資451億美元，其中戰爭的總成本達436億美元，另有15億美元用於額外燃料開支。不過，這一估算並未全面反映戰爭的全部成本。訊息人士稱，其中未包含修復受損基地或建築的費用，也未提供國會所要求的軍事行動間接成本的詳細明細。（央視）"
+    },
+    {
+      "id": "mkt:01a0b8c0-9644-7118-860e-ea9b88334bfd",
+      "time": "2026-09-19 16:20:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【European figures say US AI firms' calls to slow development are self-interested】European tech firms and officials have publicly challenged proposals by some US AI companies to slow AI development on safety grounds, calling them self-interested efforts to entrench incumbents and suppress rivals. French AI firm Mistral and Swiss Proton oppose the proposals; Mistral said \"Some leading firms are using the current situation to consolidate market position and push for rules that favor themselves and suppress competitors.\" Proton's COO told a Paris tech event the proposal \"is entirely self-interested; they only want to preserve market dependence on their services.\" Black Forest Labs' head of public policy warned that imposing artificial thresholds between large AI firms and new entrants would curb frontier innovation."
+    },
+    {
+      "id": "5103159",
+      "time": "2026-09-19 16:19:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲人士質疑美企提議放緩AI研發是“出於私利”】歐洲科技企業和政府人士近期紛紛表態，質疑一些美國人工智慧（AI）企業以安全為由提出放緩AI研發是“出於私利”，認為其真正目的是為了鞏固自身優勢並打壓競爭者。近日，美國多名科技企業家呼籲放緩發展AI前沿技術。其中，Anthropic公司執行長達里奧·阿莫代伊在一篇文章中說，考慮到安全風險，AI企業需要放緩開發最先進模型的節奏。對於美國AI企業的提議，法國米斯特拉爾人工智慧公司等歐洲AI企業表示反對。米斯特拉爾公司在一份宣告中說：“部分行業頭部企業正利用當下形勢鞏固市場地位，推動制定偏向自身、打壓競爭者的監管規則。”（新華社）"
+    },
+    {
+      "id": "5103158",
+      "time": "2026-09-19 16:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本內閣新成員曾犯罪獲刑 引發民眾不滿】日本首相高市早苗17日改組內閣，自民黨執政夥伴日本維新會的議員中司宏首次入閣。中司宏曾因招投標違法行為，被判處1年6個月監禁、緩刑3年。他也因此成為日本29年來首名在入閣前有犯罪記錄的閣僚。據悉，中司宏在緩刑期滿後已恢復被選舉權，入閣並無法律障礙。不過，這項人事安排依舊引發輿論爭議，許多日本民眾對此表示不滿，呼籲中司宏儘快辭去閣僚職務。媒體認為，日本內閣招納有犯罪史的成員，將加劇民眾對政府的不信任感。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0b8b8-acca-7118-860e-e0023ca9c0fb",
+      "time": "2026-09-19 16:11:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first fully privately funded ocean research vessel begins sea trials】China's first fully privately funded 3,500-ton oceanographic research vessel Haiying Jiake began sea trials on the 19th at Ruoshan anchorage, Wenling, Zhejiang. The ship was financed and built with 150 million yuan raised jointly by 37 fishermen."
+    },
+    {
+      "id": "5103157",
+      "time": "2026-09-19 16:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國首艘民間資本自建科考船開啟試航】記者19日從浙江海事部門獲悉，國內首艘由民間資本全額投資建造的3500噸級大洋綜合科考船“海鷹加科”號當日在浙江溫嶺箬山錨地開啟試航。海事部門保障 “海鷹加科”號順利試航。陸月香供圖 據悉，“海鷹加科”號科考船由37名漁民聯合籌資1.5億元自主建造，是民間助力海洋科研發展的創新實踐。（中新網）"
+    },
+    {
+      "id": "mkt:01a0b8b2-bf4e-7118-860e-de0960794e26",
+      "time": "2026-09-19 16:05:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 China ESG Development Report released】The China Enterprise Reform and Development Research Association released the 2026 China ESG Development Report. The first batch of 430 mandatory disclosure entities all filed compliant 2025 ESG reports by April 30, 2026, yielding a 100% compliance rate. More than 2,700 A-share companies published 2024 ESG reports, a 49.81% disclosure rate—almost double the level five years earlier. Over 80% of firms disclosed sustainable governance structures; pollutant-emissions and circular-economy topic disclosure rates exceed 90%; greenhouse-gas disclosure rose for a third consecutive year to 76.93%. China’s national carbon market completed a first expansion by adding steel, cement and aluminum smelting, raising coverage to roughly 60% of national CO2 emissions, and the report expects coverage to approach 80% by the end of the 15th Five-Year Plan."
+    },
+    {
+      "id": "5103156",
+      "time": "2026-09-19 16:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川鹽邊縣突發泥石流 翼龍無人機趕赴現場開展應急通訊保障】今日凌晨，攀枝花市鹽邊縣突發泥石流災害，有人員失聯，並且造成區域性區域交通、通訊受阻。險情發生後，四川省應急管理廳緊急排程翼龍應急救災無人機奔赴災區，透過空中組網通訊、全域災情偵察等硬核科技手段，為地面搶險救援打通關鍵保障通道。接到排程任務後，翼龍無人機在9:40升空奔赴災區，11:50，無人機抵達災害核心任務空域，迅速投入多維度應急保障作業。截至目前，翼龍無人機空中基站已在災區建立穩定通訊保障，成功完成兩百餘次現場應急通話保障，裝置外部接入冗餘超千次，有效破解了災區通訊不暢、聯絡受阻的搶險難題。（央視新聞）"
+    },
+    {
+      "id": "5103155",
+      "time": "2026-09-19 16:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【《2026中國環境社會治理發展觀察報告》正式釋出】記者今日從中國企業改革與發展研究會獲悉，《2026中國環境社會治理發展觀察報告》正式釋出。報告顯示，首批強制披露主體實現按期披露全合規，A股上市公司披露數量與質量穩步提升。資料顯示，截至2026年4月30日，首批430家強制披露主體全部按期完成2025年度環境社會治理報告披露，合規率達100%。共有超2700家A股上市公司釋出2024年度環境社會治理報告，披露率達49.81%，較五年前近乎翻倍。與此同時，超八成的企業披露了可持續發展治理架構，汙染物排放、迴圈經濟等議題披露率均超九成，溫室氣體排放披露率三年連升至76.93%。全國碳市場完成首次擴圍，鋼鐵、水泥、鋁冶煉納入後，覆蓋全國約60%的二氧化碳排放，預計“十五五”末將向80%邁進。 (央視新聞)"
+    },
+    {
+      "id": "5103154",
+      "time": "2026-09-19 16:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建省信訪局黨組書記、局長朱百里接受審查調查】中央紀委國家監委網站9月19日通報，據福建省紀委監委訊息：福建省信訪局黨組書記、局長朱百里涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受福建省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a0b8ac-c822-7118-860e-d2fbea3a3e24",
+      "time": "2026-09-19 15:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey revokes operating licence for Iran's Bank Mellat Istanbul branch】Turkey's official gazette said it has revoked the operating licence for Iran's Bank Mellat's Istanbul branch. The Turkish banking regulator did not disclose a reason. Bank Mellat has operated in Turkey for decades and currently maintains three branches in Istanbul, Ankara and Izmir. The bank previously faced similar restrictions in the UK and EU that were later lifted."
+    },
+    {
+      "id": "5103153",
+      "time": "2026-09-19 15:55:53",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【繆延亮：人民幣國際化歷史條件出現四個根本性不同】9月19日，在2026年清華五道口首席經濟學家論壇上，中金公司資深董事總經理、首席經濟學家繆延亮指出，當前國際貨幣秩序變化的重要觸發器在於，美元作為全球資產的信任基礎被侵蝕。他認為，與過去相比，人民幣國際化程序出現了四個根本性不同：國際貨幣體系本身出現裂紋、國際貿易體系發生結構性變化、國際支付體系正在被重塑、AI技術革命重塑經濟執行方式。其中，在AI技術革命層面，繆延亮指出，過去幾輪技術革命中，生產力領先往往伴隨貨幣地位上升——英國、美國先後成為技術革命中心，英鎊與美元也相應成為中心貨幣。但AI革命不一樣：它第一次把技術革命推進到“不可貿易的服務業”——教育、醫療、配送等。這些服務的效率改善很難直接轉化為出口增加或工資上升，反而可能因為國內競爭而壓低本地成本與價格（即“逆巴拉薩-薩繆爾森效應”）。繆延亮強調，過去習慣用結算比例、儲備比例這些指標衡量人民幣國際化，今天必須意識到：國際貨幣體系在變、國際貿易體系在變、國際支付體系在變，AI又在重塑整個經濟的執行方式——四個變化疊在一起，構成的是人民幣國際化不一樣的歷史條件。在此背景下，國際貨幣體系（變化）“這次真的不一樣”，我們能做的，就是堅定不移辦好自己的事情，在國際金融治理中發揮建設性作用。"
+    },
+    {
+      "id": "5103152",
+      "time": "2026-09-19 15:55:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國艙外航天服整體技術國際先進 登月服攻克數十項關鍵技術】記者從19日在天津召開的首屆航天醫學工程大會上瞭解到，目前我國艙外航天服整體技術居於國際先進水平，望宇登月服研製進展順利，已攻克數十項關鍵技術。據中國航天員科研訓練中心張萬欣介紹，自空間站任務以來，我國艙外航天服技術能力顯著提升，建立了我國完整的天地協同驗證與在軌應用的空間站艙外服研發體系，突破艙外航天服“高效能的人服保障、長壽命高可靠艙外服防護與生保、複雜空間環境資訊傳輸與高可靠實時資訊架構、天地一體艙外服健康評估”等關鍵技術，保障航天員創造單次出艙活動9小時的世界紀錄，實現單套艙外服在軌4年20次出艙。 “自2020年啟動研製以來，聚焦複雜月面活動需求和極端環境挑戰，望宇登月服以輕量化、小型化、高效能、高安全可靠為目標，攻克突破數十項關鍵技術，研製工作進展順利。”張萬欣表示。  （新華社）"
+    },
+    {
+      "id": "mkt:01a0b8a9-ceb6-7118-860e-cbc20581015b",
+      "time": "2026-09-19 15:55:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Miao Yanliang says erosion of dollar trust will reshape international monetary order】At the Tsinghua Wudaokou Chief Economists Forum on Sept. 19, 2026, Miao Yanliang, senior managing director and chief economist at China International Capital Co., said the key trigger for change in the international monetary order is erosion of the dollar’s role as the trust anchor for global assets. He identified four structural differences for the current phase of RMB internationalization versus previous currency ascents: visible fractures in the international monetary system, structural shifts in global trade, a remaking of international payments infrastructure, and an AI-driven transformation of economic dynamics. On AI, Miao said the revolution is penetrating non‑tradable services—education, healthcare, last‑mile logistics—boosting productivity in ways that are unlikely to raise exports or wages and may instead depress domestic costs and prices, a potential reverse Balassa‑Samuelson effect."
+    },
+    {
+      "id": "5103151",
+      "time": "2026-09-19 15:54:18",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【繆延亮：美元作為全球資產的信任基礎被侵蝕 將影響國際貨幣秩序】9月19日，在2026年清華五道口首席經濟學家論壇上，中金公司資深董事總經理、首席經濟學家繆延亮指出，當前國際貨幣秩序變化的重要觸發器在於，美元作為全球資產的信任基礎被侵蝕。他認為，與過去相比，人民幣國際化程序出現了四個根本性不同：國際貨幣體系本身出現裂紋、國際貿易體系發生結構性變化、國際支付體系正在被重塑、AI技術革命重塑經濟執行方式。其中，在AI技術革命層面，繆延亮指出，過去幾輪技術革命中，生產力領先往往伴隨貨幣地位上升——英國、美國先後成為技術革命中心，英鎊與美元也相應成為中心貨幣。但AI革命不一樣：它第一次把技術革命推進到“不可貿易的服務業”——教育、醫療、配送等。這些服務的效率改善很難直接轉化為出口增加或工資上升，反而可能因為國內競爭而壓低本地成本與價格（即“逆巴拉薩-薩繆爾森效應”）。繆延亮強調，過去習慣用結算比例、儲備比例這些指標衡量人民幣國際化，今天必須意識到：國際貨幣體系在變、國際貿易體系在變、國際支付體系在變，AI又在重塑整個經濟的執行方式——四個變化疊在一起，構成的是人民幣國際化不一樣的歷史條件。在此背景下，國際貨幣體系（變化）“這次真的不一樣”，我們能做的，就是堅定不移辦好自己的事情，在國際金融治理中發揮建設性作用。"
+    },
+    {
+      "id": "mkt:01a0b8a6-dd3e-7118-860e-c361df76bf5b",
+      "time": "2026-09-19 15:52:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Rumor Xibei to fold entirely; company denies, says nationwide outlets operating normally】A Weibo post by blogger Liji alleged Chinese restaurant chain Xibei will collapse within 2–3 months, with founder Jia Guolong to assume most debts, relinquish shares, leave about 100 profitable outlets to employee operation, and attempt to preserve 3,000–4,000 livelihoods; the post said over 200 stores have closed and more than 10,000 staff displaced. Xibei customer service responded that all outlets nationwide are operating normally, the company will continue to maintain product and service standards, and urged the public to treat online reports rationally."
+    },
+    {
+      "id": "5103150",
+      "time": "2026-09-19 15:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國擬擴大“豪宅稅”徵收範圍】工黨領導的英國政府考慮擴大“豪宅稅”徵收範圍，將起徵門檻下調為房產市價150萬英鎊。專家預計新徵稅方案每年將帶來8億英鎊稅收收入，可以更好地平衡財政收支、支援英國首相安迪·伯納姆擴大社會福利的計劃，但將加重中產階層負擔。據《泰晤士報》18日報道，英國政府考慮把“豪宅稅”起徵門檻從房產市價200萬英鎊下調至150萬英鎊，這一變化將使應稅房產數量增加一倍多，影響近30萬處房產。（新華社）"
+    },
+    {
+      "id": "mkt:01a0b8a1-c345-7118-860e-bf4e4df18b7d",
+      "time": "2026-09-19 15:46:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Interfax reported Russian forces attacked Ukrainian cargo ships and oil tankers in the Black Sea and at a Ukrainian port."
+    },
+    {
+      "id": "5103149",
+      "time": "2026-09-19 15:46:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯軍隊在黑海及烏克蘭某港口襲擊了烏克蘭貨船和油輪。"
+    },
+    {
+      "id": "mkt:01a0b89b-53c3-7118-860e-b415933eeaa6",
+      "time": "2026-09-19 15:39:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Moscow e-voting system suffers technical failure on Sept 18, may be linked to cyberattack】The Moscow electronic voting system experienced a technical failure on Sept 18 that may be linked to a cyberattack, Moscow election commission chair Kirillova said. Terminal devices briefly malfunctioned and experts said the disruption could stem from a hostile attack on information systems. Russia’s State Duma voting began Sept 18 and runs through Sept 20."
+    },
+    {
+      "id": "mkt:01a0b88e-1fe6-7118-860e-ac2e2a9cbd68",
+      "time": "2026-09-19 15:25:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRNA: Trump rhetoric fails to mask trouble; war's economic toll raises midterm stakes, GOP war‑weariness grows】Iranian state news agency IRNA said Trump told News Nation that Iran wants a deal but offered only \"we'll see what happens.\" IRNA said the economic cost of the conflict with Iran is intensifying pressure on Trump ahead of the midterms, and that he is facing domestic and international criticism. It added some Republicans are growing war‑weary and increasingly worried prolonged hostilities could lift oil prices and hurt GOP midterm prospects."
+    },
+    {
+      "id": "5103148",
+      "time": "2026-09-19 15:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鑽爆法隧道智慧建造解決方案發布】記者19日從中國中鐵股份有限公司獲悉，由中鐵隧道局等單位共同打造的鑽爆法隧道智慧建造解決方案正式釋出，標誌著我國鑽爆法隧道施工跨入智慧建造時代。據中鐵隧道局有關負責人介紹，該方案聚焦隧道及地下工程智慧建造場景，構建“掌子面—專案部—企業”三級數智化架構，打造“現場感知、邊緣計算、雲端決策”的智慧建造體系，實現隧道建造多工序智慧化作業、專案全業務協同管理、企業多系統快速決策。目前，上述成果正在長贛高鐵等專案常態化應用，為隧道及地下工程領域打造一條可複製、可推廣的智慧建造創新實踐路徑。這位負責人表示，當前，人工智慧技術加速演進，隧道工程行業數字化、智慧化變革持續深化。中鐵隧道局將持續推進跨界融合、創新攻關，助力隧道及地下工程建設數智化轉型升級。（新華社）"
+    },
     {
       "id": "mkt:01a0b888-eeaf-7118-860e-a4852223a9dc",
       "time": "2026-09-19 15:19:36",
