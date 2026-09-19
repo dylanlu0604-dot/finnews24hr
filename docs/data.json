@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19 19:17:39",
-  "count": 13484,
+  "updated": "2026-09-19 19:21:29",
+  "count": 13481,
   "items": [
+    {
+      "id": "mkt:01a0b965-8347-7118-860f-f1e3313c7f09",
+      "time": "2026-09-19 19:20:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian state news agency reported on the 19th that an explosion on the 18th at a garrison of transitional government forces in eastern Deir ez-Zor province killed 11 personnel from the transitional government’s defense ministry."
+    },
     {
       "id": "mkt:01a0b961-0d0a-7118-860f-ee171fa00d08",
       "time": "2026-09-19 19:15:40",
@@ -123691,38 +123699,6 @@
         "國際"
       ],
       "text": "特朗普：美國正在做得更好，比以往任何時候都更好。"
-    },
-    {
-      "id": "mkt:01a09559-8cc0-7118-8556-e1605c6f1043",
-      "time": "2026-09-12 19:21:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's embassy in India said Iran's president met Abu Dhabi's crown prince in New Delhi."
-    },
-    {
-      "id": "5090780",
-      "time": "2026-09-12 19:20:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普吹噓美軍鐳射武器與計算機化機槍。"
-    },
-    {
-      "id": "5090779",
-      "time": "2026-09-12 19:19:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談打擊毒品走私：我們尚未將重點放在陸路。"
-    },
-    {
-      "id": "5090778",
-      "time": "2026-09-12 19:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，愛爾蘭及其他國家正以“創紀錄的數量”購買美國軍事裝備。"
     }
   ]
 }

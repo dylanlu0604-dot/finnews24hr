@@ -1,7 +1,15 @@
 {
   "date": "2026-09-19",
-  "count": 886,
+  "count": 887,
   "items": [
+    {
+      "id": "mkt:01a0b965-8347-7118-860f-f1e3313c7f09",
+      "time": "2026-09-19 19:20:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian state news agency reported on the 19th that an explosion on the 18th at a garrison of transitional government forces in eastern Deir ez-Zor province killed 11 personnel from the transitional government’s defense ministry."
+    },
     {
       "id": "mkt:01a0b961-0d0a-7118-860f-ee171fa00d08",
       "time": "2026-09-19 19:15:40",
