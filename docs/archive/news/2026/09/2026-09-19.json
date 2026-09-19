@@ -1,7 +1,69 @@
 {
   "date": "2026-09-19",
-  "count": 878,
+  "count": 884,
   "items": [
+    {
+      "id": "mkt:01a0b95e-aeca-7118-860f-e6d203f3ea73",
+      "time": "2026-09-19 19:13:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish",
+        "PAH3.DE"
+      ],
+      "text": "【Volkswagen overhaul to cut about 4,100 Porsche jobs】Volkswagen’s supervisory board has approved an agreement advancing the group’s largest restructuring; Porsche is slated to cut roughly 4,100 employees to plug an estimated €700m indirect-cost shortfall, with the reductions stacking on top of existing accords. In July Porsche management and labour representatives agreed to add 5,000 cuts to a previously agreed 4,000. Volkswagen on Friday trimmed its full-year profit-margin target to at most 1% from 4.0–5.5%, citing a Porsche asset impairment. Porsche CEO Michael Leiters faces pressure to present a turnaround plan amid a sharp sales decline and higher costs tied to the maker’s reversal of its EV strategy."
+    },
+    {
+      "id": "5103210",
+      "time": "2026-09-19 19:12:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國政府：支出增幅低於歐盟建議水平。"
+    },
+    {
+      "id": "5103209",
+      "time": "2026-09-19 19:12:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國政府預計2027年淨基礎支出增長0.7%。"
+    },
+    {
+      "id": "5103208",
+      "time": "2026-09-19 19:12:02",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【大眾據悉擬在保時捷品牌進一步裁員約4100人】據報道，在大眾汽車因旗下跑車子公司保時捷出現問題而釋出盈利預警後，大眾汽車一項大規模的扭虧計劃預計將在保時捷進一步裁減超過4000個工作崗位。根據一份記錄了大眾汽車監事會近期達成的一項協議的檔案，該集團計劃在保時捷品牌裁減“約4100名員工”，以解決約7億歐元（約合8.038億美元）的運營成本缺口。該報稱，此次裁員將“在現有協議之外”進行。今年7月，保時捷管理層與勞方代表達成協議，在早先確定的4000人裁員計劃基礎上再裁減5000人；這意味著到2035年裁員規模將達到其員工總數的五分之一左右。"
+    },
+    {
+      "id": "5103207",
+      "time": "2026-09-19 19:09:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破96美元，日內漲超0.2%。"
+    },
+    {
+      "id": "mkt:01a0b95b-aecc-7118-860f-df0001031ea7",
+      "time": "2026-09-19 19:09:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's draft budget projects government debt-to-GDP at 121.7% in 2027."
+    },
     {
       "id": "mkt:01a0b95b-4911-7118-860f-d25ac811d22f",
       "time": "2026-09-19 19:09:22",
