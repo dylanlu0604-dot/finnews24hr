@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-19 22:30:20",
-  "count": 13492,
+  "updated": "2026-09-19 22:34:14",
+  "count": 13489,
   "items": [
+    {
+      "id": "mkt:01a0ba16-6f46-7118-8611-1c4dde2be659",
+      "time": "2026-09-19 22:33:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【29th Beijing–Taiwan Science and Technology Forum opens in Beijing; cross‑strait delegates discuss tech and industrial cooperation】The 29th Beijing–Taiwan Science and Technology Forum opened in Beijing on the 19th, with cross‑strait delegates discussing technology innovation and industrial cooperation. Hosted by the State Council Taiwan Affairs Office and the Beijing municipal government, the forum included signing ceremonies for cross‑strait economic and technology cooperation projects and a smart‑medical industry cooperation alliance, and ran sessions on AI‑driven green development, smart medical cooperation and AI applications in traditional Chinese medicine."
+    },
+    {
+      "id": "5103356",
+      "time": "2026-09-19 22:33:04",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【第29屆京臺科技論壇在京開幕 兩岸嘉賓共話科技創新與產業合作】以“科技引領產業融合 數智賦能健康未來”為主題的第29屆京臺科技論壇19日在北京開幕，兩岸嘉賓共話科技創新與產業合作。 全國政協副主席、臺盟中央主席蘇輝致辭時說，近年來，祖國大陸深入實施創新驅動發展戰略，構建支援全面創新的體制機制，產業科技重點領域進入領跑成果湧現的新階段。這為加強兩岸經濟、科技等領域的合作提供了廣闊空間。希望兩岸同胞緊緊抓住發展機遇，順合作大勢、乘創新浪潮、結共贏碩果，不斷壯大中華民族經濟。（新華社）"
+    },
     {
       "id": "5103345",
       "time": "2026-09-19 22:23:38",
@@ -123802,46 +123818,6 @@
         "國際"
       ],
       "text": "伊朗：霍爾木茲海峽協議“並不一定”保證安全航行。"
-    },
-    {
-      "id": "5090893",
-      "time": "2026-09-12 22:34:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【《2026中國暑期旅遊市場洞察報告》釋出】9月12日，“文旅新動能 消費新趨勢——2026中國暑期旅遊市場研究成果釋出”活動在2026年中國國際服務貿易交易會成果釋出廳舉辦。在活動現場，由中央廣播電視總檯研究院、中國旅遊協會傳播工作委員會、中國旅遊集團研究院共同撰寫的《2026中國暑期旅遊市場洞察報告》正式釋出。（央視新聞）"
-    },
-    {
-      "id": "5090892",
-      "time": "2026-09-12 22:33:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中老“和平列車-2026”聯合演習展開全流程演練】搜救無人機升空展開廣域勘察，履帶無人車前出轉運傷員，野戰帳篷內檢傷分類快速展開，重傷員迅即後送衛生列車……12日，在寮國首都永珍進行的中老“和平列車-2026”人道主義醫學救援聯合演習進入全流程演練階段，一場緊貼實戰的救援行動緊張有序推進。（新華社）"
-    },
-    {
-      "id": "5090891",
-      "time": "2026-09-12 22:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "雷傑斯-凱捷簽署出售凱捷政府解決方案業務的最終協議，交易預計在未來數週內完成，尚需滿足常規交易條件。"
-    },
-    {
-      "id": "mkt:01a09607-e055-7118-8557-a8280f4f4b4c",
-      "time": "2026-09-12 22:31:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: parts of Bohai Strait and northern Yellow Sea closed for military operations Sep 13-27 (local time)】The Dalian Maritime Safety Administration posted a navigation warning on the China Maritime Safety Administration website saying that from Sep 13 16:00 to Sep 27 16:00 local time parts of the Bohai Strait and the northern Yellow Sea will be closed for military operations and vessels are prohibited from entering."
-    },
-    {
-      "id": "5090888",
-      "time": "2026-09-12 22:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：今天在薩拉萬的黎明行動中擊斃的恐怖分子人數上升至5人。"
     }
   ]
 }
