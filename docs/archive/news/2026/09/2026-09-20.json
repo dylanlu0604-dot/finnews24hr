@@ -1,7 +1,94 @@
 {
   "date": "2026-09-20",
-  "count": 49,
+  "count": 59,
   "items": [
+    {
+      "id": "5103547",
+      "time": "2026-09-20 03:28:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克總理菲佐稱，西方部分勢力企圖挑起俄羅斯與北約之間的戰爭。"
+    },
+    {
+      "id": "mkt:01a0bb1a-f8d9-7118-8612-157e90b73e4c",
+      "time": "2026-09-20 03:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Tehran has conveyed seven conditions to the US to begin any negotiations, calling Iran's position \"clear and unambiguous\" and warning Washington it must accept Iran's rights and conditions if it seeks to extricate itself from the current situation and avoid further trouble."
+    },
+    {
+      "id": "mkt:01a0bb0a-817f-7118-8612-0990772bf6e4",
+      "time": "2026-09-20 03:00:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said there are novel ideas to resolve the dispute with the U.S. over Turkey's S-400 long-range air defense system; both sides are cooperating on a solution and expect positive progress."
+    },
+    {
+      "id": "5103546",
+      "time": "2026-09-20 02:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：土耳其就與美國解決S-400防空系統問題存有“創意方案”，目前正與美方合作推動落實特定解決方案，並期待雙方能取得積極進展。"
+    },
+    {
+      "id": "5103545",
+      "time": "2026-09-20 02:55:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破60美元/盎司，日內漲幅0.1%。"
+    },
+    {
+      "id": "5103544",
+      "time": "2026-09-20 02:55:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特敏感目標及設施發動襲擊】葉門胡塞武裝19日發表宣告說，當天對沙特首都利雅得的“敏感目標”以及沙特阿美公司位於延布的設施發動了兩次軍事行動，使用了大量彈道導彈、巡航導彈和無人機。宣告說，此次行動是對沙特方面持續發動空襲以及“指責葉門襲擊麥加”等行為的回應。宣告稱，第一次行動以沙特首都利雅得的“敏感目標”為目標，第二次行動以沙特阿美公司位於延布的設施為目標。宣告稱，兩次行動均“取得成功”，目標區域發生大規模火災。宣告還稱，沙特方面此前使用F-15和“颱風”戰鬥機，從海米斯穆謝特和塔伊夫兩處基地發動空襲，截至目前已實施732次空襲，造成平民傷亡以及民用基礎設施受損。宣告表示，葉門胡塞武裝將繼續採取“以封鎖回應封鎖、以升級回應升級”的方式，並繼續以沙特方面的軍事集結力量為目標，直至停止對葉門的軍事行動並解除對葉門的封鎖。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0bafd-a3ab-7118-8612-051c8d726ba8",
+      "time": "2026-09-20 02:46:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia's Progress MS-35 cargo ship docks with International Space Station】Roscosmos said on its website on Sept. 19 that the Progress MS-35 cargo spacecraft completed a manual docking with the Russian segment's Nauka laboratory on the International Space Station. The spacecraft launched on Sept. 16 Moscow time aboard a Soyuz-2.1b rocket from Baikonur Cosmodrome, Kazakhstan, and reached its planned orbit."
+    },
+    {
+      "id": "5103543",
+      "time": "2026-09-20 02:44:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯“進步MS-35”貨運飛船與國際空間站對接】俄羅斯國家航天集團19日在官網通報說，俄“進步MS-35”貨運飛船當天與國際空間站俄羅斯艙段“探索”號實驗艙完成手動對接。莫斯科時間9月16日，“進步MS-35”貨運飛船搭乘“聯盟-2.1b”運載火箭從哈薩克境內的拜科努爾航天發射場發射升空，隨後成功進入預定軌道。（新華社）"
+    },
+    {
+      "id": "mkt:01a0baf8-044b-7118-8611-fb59cd56669f",
+      "time": "2026-09-20 02:40:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Turkey's foreign minister said he has proposed to Ukraine and Russia a halt to Black Sea hostilities and is awaiting responses."
+    },
+    {
+      "id": "5103542",
+      "time": "2026-09-20 02:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：我方已向烏克蘭、俄羅斯提交黑海停火提議，靜待兩國回覆。"
+    },
     {
       "id": "5103541",
       "time": "2026-09-20 02:33:12",

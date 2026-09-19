@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-20 02:36:52",
-  "count": 13486,
+  "updated": "2026-09-20 03:31:02",
+  "count": 13481,
   "items": [
+    {
+      "id": "5103547",
+      "time": "2026-09-20 03:28:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克總理菲佐稱，西方部分勢力企圖挑起俄羅斯與北約之間的戰爭。"
+    },
+    {
+      "id": "mkt:01a0bb1a-f8d9-7118-8612-157e90b73e4c",
+      "time": "2026-09-20 03:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Tehran has conveyed seven conditions to the US to begin any negotiations, calling Iran's position \"clear and unambiguous\" and warning Washington it must accept Iran's rights and conditions if it seeks to extricate itself from the current situation and avoid further trouble."
+    },
+    {
+      "id": "mkt:01a0bb0a-817f-7118-8612-0990772bf6e4",
+      "time": "2026-09-20 03:00:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said there are novel ideas to resolve the dispute with the U.S. over Turkey's S-400 long-range air defense system; both sides are cooperating on a solution and expect positive progress."
+    },
+    {
+      "id": "5103546",
+      "time": "2026-09-20 02:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：土耳其就與美國解決S-400防空系統問題存有“創意方案”，目前正與美方合作推動落實特定解決方案，並期待雙方能取得積極進展。"
+    },
+    {
+      "id": "5103545",
+      "time": "2026-09-20 02:55:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破60美元/盎司，日內漲幅0.1%。"
+    },
+    {
+      "id": "5103544",
+      "time": "2026-09-20 02:55:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特敏感目標及設施發動襲擊】葉門胡塞武裝19日發表宣告說，當天對沙特首都利雅得的“敏感目標”以及沙特阿美公司位於延布的設施發動了兩次軍事行動，使用了大量彈道導彈、巡航導彈和無人機。宣告說，此次行動是對沙特方面持續發動空襲以及“指責葉門襲擊麥加”等行為的回應。宣告稱，第一次行動以沙特首都利雅得的“敏感目標”為目標，第二次行動以沙特阿美公司位於延布的設施為目標。宣告稱，兩次行動均“取得成功”，目標區域發生大規模火災。宣告還稱，沙特方面此前使用F-15和“颱風”戰鬥機，從海米斯穆謝特和塔伊夫兩處基地發動空襲，截至目前已實施732次空襲，造成平民傷亡以及民用基礎設施受損。宣告表示，葉門胡塞武裝將繼續採取“以封鎖回應封鎖、以升級回應升級”的方式，並繼續以沙特方面的軍事集結力量為目標，直至停止對葉門的軍事行動並解除對葉門的封鎖。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0bafd-a3ab-7118-8612-051c8d726ba8",
+      "time": "2026-09-20 02:46:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia's Progress MS-35 cargo ship docks with International Space Station】Roscosmos said on its website on Sept. 19 that the Progress MS-35 cargo spacecraft completed a manual docking with the Russian segment's Nauka laboratory on the International Space Station. The spacecraft launched on Sept. 16 Moscow time aboard a Soyuz-2.1b rocket from Baikonur Cosmodrome, Kazakhstan, and reached its planned orbit."
+    },
+    {
+      "id": "5103543",
+      "time": "2026-09-20 02:44:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯“進步MS-35”貨運飛船與國際空間站對接】俄羅斯國家航天集團19日在官網通報說，俄“進步MS-35”貨運飛船當天與國際空間站俄羅斯艙段“探索”號實驗艙完成手動對接。莫斯科時間9月16日，“進步MS-35”貨運飛船搭乘“聯盟-2.1b”運載火箭從哈薩克境內的拜科努爾航天發射場發射升空，隨後成功進入預定軌道。（新華社）"
+    },
+    {
+      "id": "mkt:01a0baf8-044b-7118-8611-fb59cd56669f",
+      "time": "2026-09-20 02:40:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Turkey's foreign minister said he has proposed to Ukraine and Russia a halt to Black Sea hostilities and is awaiting responses."
+    },
+    {
+      "id": "5103542",
+      "time": "2026-09-20 02:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：我方已向烏克蘭、俄羅斯提交黑海停火提議，靜待兩國回覆。"
+    },
     {
       "id": "5103541",
       "time": "2026-09-20 02:33:12",
@@ -123686,144 +123773,6 @@
         "Important"
       ],
       "text": "【Altman: OpenAI will not IPO this year, safety work remains】OpenAI founder Altman said the company will not go public this year and he does not expect an IPO in 2026, saying substantial safety work remains. His comments follow an Anthropic employee resignation and stern warning about AI capabilities. Markets had anticipated large IPOs from OpenAI and Anthropic this year; Altman’s statement shifts near-term IPO timing pressure onto Anthropic CEO Dario Amodei, who on Saturday urged a slowdown in AI development."
-    },
-    {
-      "id": "mkt:01a09718-c0fa-7118-8558-5a9fd42e7619",
-      "time": "2026-09-13 03:29:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "OpenAI founder Altman said the company will not go public this year, citing substantial remaining safety work."
-    },
-    {
-      "id": "5091039",
-      "time": "2026-09-13 03:27:01",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "OpenAI CEO奧特曼：鑑於AI安全方面的顧慮，當前進行IPO時機尚不成熟。"
-    },
-    {
-      "id": "5091035",
-      "time": "2026-09-13 03:25:49",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "OpenAI CEO奧特曼：OpenAI不會在2027年前進行IPO。"
-    },
-    {
-      "id": "5091031",
-      "time": "2026-09-13 03:18:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大總理辦公室：總理卡尼將於9月15日至17日訪問法國斯特拉斯堡和英國利物浦，並在此期間會見英國首相伯納姆。"
-    },
-    {
-      "id": "mkt:01a0970b-4713-7118-8558-551d93b1f102",
-      "time": "2026-09-13 03:14:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Canadian PM Mark Carney to meet UK PM Andy Burnham for first time】Canadian Prime Minister Mark Carney will meet UK Prime Minister Andy Burnham in Liverpool during a Sept. 15-17 visit that also includes Strasbourg, the Prime Minister's Office said. They are expected to discuss defense and security, energy, AI and critical minerals. The meeting coincides with EU-Canada negotiations on a comprehensive trade-and-security agreement, a process the statement said is increasing pressure on Burnham as he seeks closer ties with the EU."
-    },
-    {
-      "id": "5091029",
-      "time": "2026-09-13 03:14:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國檢方：暫無證據表明列車脫軌事故涉及恐襲】法國魯昂檢方當地時間9月12日表示，目前沒有證據表明日前發生在濱海塞納省的列車脫軌事故涉及恐怖襲擊，也沒有證據證明有人蓄意使列車脫軌。魯昂檢方表示，警方技術和科學勘查已經完成，並進行了多次詢問，但目前仍無法解釋為何一段來自另一條軌道的鋼軌會出現在正在使用的線路上。此前，這起列車脫軌事故造成44人受傷。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a096ff-fd9d-7118-8558-49f1a8d55dfb",
-      "time": "2026-09-13 03:02:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthi says Saudi jets carried out 129 airstrikes in Yemen in 48 hours】Houthi spokesman Yahya Sarea said on social media on the evening of Sept. 12 that Saudi warplanes carried out 129 airstrikes across Taiz, Marib, Hodeidah, al-Jawf, Saada, Amran and Hajjah provinces over the past 48 hours. He named F-15 and Typhoon fighters as the aircraft, saying they operated from Khamis Mushait and Taif military bases, and said the Houthis would \"respond and punish\" the strikes. The group also said it has stepped up offensives against Yemeni government forces and the Saudi-led coalition, seizing strategic sites along the Red Sea coast and the Bab al-Mandeb."
-    },
-    {
-      "id": "5091027",
-      "time": "2026-09-13 03:02:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞稱沙特48小時129次空襲葉門】葉門胡塞武裝發言人葉海亞·薩雷亞當地時間9月12日晚在社交媒體平臺釋出宣告稱，過去48小時內，沙特方面戰機對葉門塔伊茲省、馬裡卜省、荷臺達省、焦夫省、薩達省、阿姆蘭省和哈傑省發動129次空襲。宣告稱，實施空襲的戰機包括F-15戰鬥機和“颱風”戰鬥機。戰機從沙特的海米斯穆謝特和塔伊夫的軍事基地起飛。葉海亞·薩雷亞表示，胡塞武裝將對這些針對葉門民眾的襲擊進行“回應和懲罰”。葉門局勢近來急劇升級。胡塞武裝與沙特互襲。在葉門境內，胡塞武裝還加大攻勢，與葉門政府軍、沙特主導的聯軍持續衝突，並接連奪取紅海沿岸、曼德海峽戰略要地。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a096fd-3212-7118-8558-404e7b909eb2",
-      "time": "2026-09-13 02:59:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense said a shell landed in Jizan province, injuring two. A shell fired by Yemeni Houthi forces also caused material damage to a mosque, several buildings and multiple vehicles."
-    },
-    {
-      "id": "5091020",
-      "time": "2026-09-13 02:59:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門稱，葉門胡塞武裝發射的炮彈擊中沙特吉贊致兩人受傷，還對多棟建築及車輛造成損失。"
-    },
-    {
-      "id": "5091016",
-      "time": "2026-09-13 02:52:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國VR短片《鴿環》獲威尼斯電影節沉浸單元大獎】中國VR短片《鴿環》12日獲得第83屆威尼斯國際電影節“威尼斯沉浸單元”最高獎項——“威尼斯沉浸大獎”。（新華社）"
-    },
-    {
-      "id": "mkt:01a096f4-79cd-7118-8558-38cbca2eda12",
-      "time": "2026-09-13 02:49:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "Tesla said it will hold a launch event on Oct. 1 but gave no details on the product to be unveiled."
-    },
-    {
-      "id": "5091015",
-      "time": "2026-09-13 02:48:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "特斯拉預告將於10月1日舉辦產品釋出活動，暫未公佈釋出產品名稱。"
-    },
-    {
-      "id": "5091013",
-      "time": "2026-09-13 02:43:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部格什姆島方向傳出爆炸聲】據伊朗方面12日訊息，伊朗南部格什姆島方向兩度傳出爆炸巨響。訊息稱，爆炸聲來自海面。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a096ec-50e4-7118-8558-34640a6e1fd5",
-      "time": "2026-09-13 02:41:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【BRICS Leaders' 18th Summit New Delhi Declaration】BRICS leaders reaffirmed mutual respect, sovereign equality and consensus-based cooperation. Building on 20 years of engagement and the group's recent expansion, they pledged to deepen three pillars of cooperation: political-security, trade and finance, and people-to-people exchanges. They called for promoting peace, creating a more representative and equitable international order, reinvigorating and reforming multilateral institutions, and advancing sustainable, inclusive growth while deepening BRICS strategic partnership."
     }
   ]
 }
