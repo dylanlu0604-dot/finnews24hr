@@ -1,7 +1,15 @@
 {
   "date": "2026-09-20",
-  "count": 31,
+  "count": 32,
   "items": [
+    {
+      "id": "mkt:01a0bacc-6d30-7118-8611-af2a4b016387",
+      "time": "2026-09-20 01:52:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it has killed Hamas military commander Muhammad Suleiman Beyuk."
+    },
     {
       "id": "mkt:01a0baca-75f3-7118-8611-a7e2dbc38944",
       "time": "2026-09-20 01:50:25",
