@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-21 03:24:06",
-  "count": 13700,
+  "updated": "2026-09-21 03:27:57",
+  "count": 13699,
   "items": [
+    {
+      "id": "5104362",
+      "time": "2026-09-21 03:26:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破100美元，日內漲超2%。"
+    },
     {
       "id": "5104361",
       "time": "2026-09-21 03:20:29",
@@ -125553,25 +125562,6 @@
         "The Trump Trade"
       ],
       "text": "Trump said the banquet hall under construction at the White House will be \"the greatest\" of its kind worldwide and that he and other American patriots will donate it to the United States; he said no taxpayer funds will be used for construction."
-    },
-    {
-      "id": "mkt:01a09c3d-5145-7118-855e-ae72f89605d7",
-      "time": "2026-09-14 03:27:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bushehr official: exports top $2.3 bln despite US maritime blockade】Provincial customs said Iran’s southern Bushehr province exported more than $2.3 billion of goods from March–August this year despite a US maritime blockade, IRNA reported. Customs head Ali Soleimani said the province shipped 5.1 million tonnes in the five-month period, with petrochemicals and various liquefied gases among the main exports. He said goods were exported to 32 countries, including the UAE and Pakistan."
-    },
-    {
-      "id": "mkt:01a09c3a-3fcb-7118-855e-a139b1d77ccb",
-      "time": "2026-09-14 03:24:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic, OpenAI and Google in talks to form AI industry standards body】Anthropic, OpenAI and Google have discussed creating an industry body to set AI standards. Anthropic CEO Dario Amodei urged firms to coordinate testing and auditing; OpenAI founder Altman told employees at a town hall earlier this week he supports a sector testing-and-audit agency but believes large AI labs should build it themselves rather than rely on US government support."
     }
   ]
 }
