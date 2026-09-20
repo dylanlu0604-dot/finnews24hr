@@ -1,7 +1,67 @@
 {
   "date": "2026-09-20",
-  "count": 461,
+  "count": 467,
   "items": [
+    {
+      "id": "mkt:01a0bdca-07e7-7118-8614-c54343904392",
+      "time": "2026-09-20 15:48:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Emerging Markets",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "【BYD: Aug 2026 overseas passenger car and pickup sales 188,746 units, +134.6% YoY】BYD said at an investor relations event overseas passenger car and pickup sales in August 2026 were 188,746 units, up 134.6% YoY. Overseas cumulative sales Jan-Aug 2026 totaled 1,157,954 units. Manufacturing facilities in Uzbekistan, Thailand and Brazil are operational, and a company-owned fleet of eight Ro-Ro vessels has entered service to boost global delivery efficiency and supply-chain resilience."
+    },
+    {
+      "id": "5103873",
+      "time": "2026-09-20 15:48:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【比亞迪：2026年8月乘用車及皮卡海外銷售188746輛 同比增長134.6%】比亞迪在投資者關係活動中表示，2026年8月公司乘用車及皮卡海外銷售188746輛，同比增長134.6%；2026年1-8月海外累計銷售1157954輛；烏茲別克、泰國、巴西等地工廠已投入運營，自有出海船隊八艘滾裝船投入運營，持續強化全球交付效率與供應鏈韌性。"
+    },
+    {
+      "id": "5103872",
+      "time": "2026-09-20 15:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：日本名瀨西北偏西 14 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "mkt:01a0bdc7-ccaf-7118-8614-bcb3c9aa0441",
+      "time": "2026-09-20 15:46:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Touzhong Jiachuan: China M&A value rebounds in August; single-deal sizes rise sharply】Research firm Touzhong Jiachuan: In August 2026 China M&A market disclosed 455 deal plans; 217 deals disclosed values. Total disclosed transaction value was 122.995 bln yuan, up 84.73% MoM and down 59.42% YoY. The increase ends a four-month decline in deal value and reflects a marked rise in single-deal size."
+    },
+    {
+      "id": "5103871",
+      "time": "2026-09-20 15:45:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開普檢測：中標風電檢測服務專案並簽署合同】開普檢測公告稱，公司近日中標涼山美姑四季吉二期、沙馬乃託二期風電專案新機併網後裝置涉網檢測技術諮詢服務專案，已與業主方四川能投美姑風電開發有限公司簽署合同，合同額334萬元，合同工期共計184個日曆天，具體工期以發包人通知為準。本次合同簽約價佔公司2025年度經審計營業收入的1.35%，預計對公司2026年度經營業績影響較小。合同履行存在因不可預計或不可抗力因素導致無法全部履行或終止的風險，結算金額以最終竣工結算金額為準。"
+    },
+    {
+      "id": "5103870",
+      "time": "2026-09-20 15:45:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華製藥：獲得硫酸鎂鈉鉀口服用濃溶液藥品註冊證書】新華製藥公告稱，公司收到國家藥品監督管理局核准簽發的硫酸鎂鈉鉀口服用濃溶液《藥品註冊證書》，該藥品為化學藥品4類處方藥，適用於成人腸道清潔操作前的腸道清潔，屬2025年版國家醫保乙類品種。2025年中國公立醫療機構該藥品銷售額約為4.9億元。本次獲證將豐富公司消化系統藥物產品系列，藥品銷售存在不確定性，敬請投資者注意風險。"
+    },
     {
       "id": "5103869",
       "time": "2026-09-20 15:45:33",
