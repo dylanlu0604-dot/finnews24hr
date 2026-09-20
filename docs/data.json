@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-21 06:01:13",
-  "count": 13674,
+  "updated": "2026-09-21 06:05:06",
+  "count": 13668,
   "items": [
+    {
+      "id": "5104387",
+      "time": "2026-09-21 06:03:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月加息的機率為56.5%】據CME“美聯儲觀察”：美聯儲10月會議維持利率在3.75%-4.00%不變的機率為43.5%，加息25個基點的機率為56.5%。美聯儲到12月維持利率在3.75%-4.00%不變的機率為10.2%%，累計加息25個基點的機率為46.6%，累計加息50個基點的機率為33.3%。"
+    },
+    {
+      "id": "5104386",
+      "time": "2026-09-21 06:01:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油開盤上漲1%，供應風險和外交局勢成為關注焦點。"
+    },
+    {
+      "id": "mkt:01a0c0d7-1d65-7118-8619-c50a76517850",
+      "time": "2026-09-21 06:01:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened slightly lower on Monday at $4,373.75/oz."
+    },
+    {
+      "id": "mkt:01a0c0d6-e092-7118-8619-bd7e3f977d8d",
+      "time": "2026-09-21 06:01:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Futures for the three major U.S. stock indexes opened slightly higher on Monday."
+    },
+    {
+      "id": "mkt:01a0c0d6-6d86-7118-8619-b607c9ab9ec1",
+      "time": "2026-09-21 06:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At Monday's open, WTI crude rose 1.24% to $96.50/bbl; Brent rose just over 1% to $100.94/bbl."
+    },
     {
       "id": "5104385",
       "time": "2026-09-21 06:00:03",
@@ -125186,123 +125242,6 @@
         "MKT News"
       ],
       "text": "Social Democratic Party leader Andersson said the party is currently ahead and that, if the result holds, Sweden would see a new government."
-    },
-    {
-      "id": "5091775",
-      "time": "2026-09-14 06:04:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4340美元/盎司，日內跌0.21%。"
-    },
-    {
-      "id": "5091774",
-      "time": "2026-09-14 06:04:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4380美元/盎司，日內跌0.66%。"
-    },
-    {
-      "id": "5091773",
-      "time": "2026-09-14 06:03:22",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【沙特輸油管道關閉，霍爾木茲海峽會議推遲，國際油價上漲】沙特一條主要原油管道遭襲擊後關停，這條原本用於繞開霍爾木茲海峽的運輸通道中斷，油價隨之上漲。阿曼外交大臣稱，伊朗與多個海灣國家原計劃商討在霍爾木茲海峽設立臨時航運通道的會議已推遲。美伊衝突導致出口受限，航運市場陷入混亂，原油、天然氣及石油產品價格走高。"
-    },
-    {
-      "id": "5091772",
-      "time": "2026-09-14 06:02:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報107.77美元/桶。"
-    },
-    {
-      "id": "mkt:01a09ccb-527c-7118-855f-c501bdd30cfe",
-      "time": "2026-09-14 06:02:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury futures rose 3 points, 30-year Treasury futures rose 2 points."
-    },
-    {
-      "id": "5091771",
-      "time": "2026-09-14 06:02:32",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10年期國債期貨上漲3個基點，30年期國債期貨上漲2個基點。"
-    },
-    {
-      "id": "mkt:01a09cca-d193-7118-855f-baa77901bd2c",
-      "time": "2026-09-14 06:02:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Nasdaq futures fell 1% in early Monday trade; S&P 500 futures fell 0.5%."
-    },
-    {
-      "id": "mkt:01a09cca-b62d-7118-855f-b443a6124ce1",
-      "time": "2026-09-14 06:02:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened about 0.4% lower, trading at $4,330/oz."
-    },
-    {
-      "id": "5091770",
-      "time": "2026-09-14 06:01:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨下跌1%。"
-    },
-    {
-      "id": "mkt:01a09cca-5005-7118-855f-a8a135552058",
-      "time": "2026-09-14 06:01:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude oil up more than 2.00% intraday at $98.57/barrel."
-    },
-    {
-      "id": "mkt:01a09cc9-eb1c-7118-855f-a0a3a96302d3",
-      "time": "2026-09-14 06:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude extends gains to 2% at $103.77/bbl."
     }
   ]
 }
