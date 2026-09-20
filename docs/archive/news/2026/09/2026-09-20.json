@@ -1,7 +1,23 @@
 {
   "date": "2026-09-20",
-  "count": 118,
+  "count": 120,
   "items": [
+    {
+      "id": "mkt:01a0bc1e-1208-7118-8612-8a34088a5a53",
+      "time": "2026-09-20 08:01:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military said it struck a vessel suspected of drug trafficking in the Caribbean Sea on Saturday; the strike killed four."
+    },
+    {
+      "id": "5103595",
+      "time": "2026-09-20 07:59:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍對黎巴嫩南部發動多次襲擊】當地時間19日，據黎巴嫩方面訊息，以色列軍隊當天對黎南部賓特朱拜勒、奈拜提耶等多個地區發動了多次襲擊。襲擊造成當地多座房屋損毀，目前暫無人員傷亡報告。據悉，當地醫療救援組織派出的救援隊在前往奈拜提耶地區的遭襲地點途中遭到了以軍的再次空襲，襲擊幾乎命中救援隊。（央視新聞）"
+    },
     {
       "id": "5103594",
       "time": "2026-09-20 07:55:19",
