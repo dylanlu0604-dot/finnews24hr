@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-21 00:25:14_
-_本檔包含 2663 則快訊，約 534091 字_
+_更新時間：2026-09-21 03:01:27_
+_本檔包含 2664 則快訊，約 534628 字_
+
+---
+
+### 2026-09-15 10:02:25  #MKT News #CNH #Impact bearish #Copper #Hang Seng Index
+
+China urban fixed-asset investment fell 0.5% MoM in August, after a 1.42% decline in July.
+
+---
+
+### 2026-09-15 10:02:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
+
+【NBS: Jan–Aug China property developers' funding 5.09 tln yuan, down 21.0% YoY】China's National Bureau of Statistics: real estate developers received 5.0893 trillion yuan in Jan–Aug, down 21.0% YoY. Breakdown: domestic loans 688 billion yuan (-33.3% YoY); self‑raised funds 1.8432 trillion yuan (-20.0%); deposits and advance receipts 1.6037 trillion yuan (-14.8%); individual mortgage loans 684.6 billion yuan (-22.4%).
+
+---
+
+### 2026-09-15 10:02:15  #其他
+
+【國家統計局：1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%】據國家統計局，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。8月份，規上工業原油產量1843萬噸，同比增長0.8%，增速與7月份持平；日均產量59.5萬噸。1—8月份，規上工業原油產量1.46億噸，同比增長0.9%。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。8月份，規上工業發電量9438億千瓦時，同比下降0.8%；日均發電304.4億千瓦時。1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%。
+
+---
+
+### 2026-09-15 10:02:14  #MKT News #Economic Calendar #Important
+
+China | Fixed Asset Investment (MoM) (Aug) | actual -0.5% | previous -1.42%
+
+---
+
+### 2026-09-15 10:02:14  #經濟數據 #中國
+
+【國家統計局：就業形勢總體穩定 城鎮調查失業率季節性上升】國家統計局資料顯示，1—8月份，全國城鎮調查失業率平均值為5.2%，與上年同期持平。8月份，全國城鎮調查失業率為5.3%，比上月上升0.1個百分點。本地戶籍勞動力調查失業率為5.3%；外來戶籍勞動力調查失業率為5.2%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.3%，比上月上升0.1個百分點。全國企業就業人員周平均工作時間為48.2小時。
+
+---
+
+### 2026-09-15 10:02:06  #市場 #焦點
+
+現貨黃金突破4310美元/盎司，日內漲0.27%。
+
+---
+
+### 2026-09-15 10:02:04  #其他
+
+委內瑞拉代總統羅德里格斯計劃訪問聯合國，並預計將舉行高層會晤。
+
+---
+
+### 2026-09-15 10:02:04  #經濟數據 #中國
+
+【國家統計局：1—8月份全國固定資產投資（不含農戶）293092億元 同比下降7.2%】1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%（按可比口徑計算）。其中，智慧財產權產品投資同比增長9.2%。
+
+---
+
+### 2026-09-15 10:02:00  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper #Hang Seng Index
+
+China August total retail sales of consumer goods MoM -0.13% (prior +0.06%).
+
+---
+
+### 2026-09-15 10:01:58  #MKT News #Market Regions #Greater China #CNH #Impact mixed #Copper #XAUUSD #Impact bullish
+
+【China NBS: Jan–Aug new home sales area down 12.1% YoY to 498.8 mln sqm】National Bureau of Statistics: Jan–Aug sales area of newly built commercial housing 498.8 mln sqm, down 12.1% YoY; residential sales area down 13.0% YoY. Sales value of newly built commercial housing 4.747 trillion yuan, down 13.0% YoY; residential sales value down 13.1% YoY. Ministry of Housing and Urban‑Rural Development: Jan–Aug second‑hand housing online signed transaction area 549.2 mln sqm, up 10.6% YoY.
+
+---
+
+### 2026-09-15 10:01:57  #MKT News #CSI300 #Impact bullish #CNH #Copper
+
+National Bureau of Statistics: Unsold area of newly built commodity housing was 753.49 million sq m at end-August, down 1.1% YoY; unsold area within three years was 548.19 million sq m, down 4.2% YoY.
+
+---
+
+### 2026-09-15 10:01:56  #市場 #焦點
+
+紐約期金突破4350美元/盎司，日內跌0.04%。
+
+---
+
+### 2026-09-15 10:01:50  #MKT News #Economic Calendar #Important
+
+China | Retail Sales (MoM) (Aug) | actual -0.13% | previous 0.06%
+
+---
+
+### 2026-09-15 10:01:48  #其他
+
+【國家統計局：1—8月份，全國房地產開發投資47979億元，同比下降19.9%】據國家統計局，1—8月份，全國房地產開發投資47979億元，同比下降19.9%；其中，住宅投資37017億元，下降19.7%。二、商品房銷售和待售情況1—8月份，新建商品房銷售面積4.99億平方米，同比下降12.1%；其中住宅銷售面積下降13.0%。新建商品房銷售額47470億元，下降13.0%；其中住宅銷售額下降13.1%。
+
+---
+
+### 2026-09-15 10:01:38
+
+國家統計局：1—8月份，社會消費品零售總額327569億元，同比增長1.1％。其中，除汽車以外的消費品零售額301764億元，增長2.7％。8月份，社會消費品零售總額39824億元，同比增長0.4％。其中，除汽車以外的消費品零售額36545億元，增長2.5％。
+
+---
+
+### 2026-09-15 10:01:38  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH #Hang Seng Index
+
+【NBS: Jan-Aug property developers' area under construction 5,607.7 mln sq m, -12.8% YoY】China National Bureau of Statistics: Jan-Aug total floor area under construction by property developers 5,607.7 mln sq m, down 12.8% YoY; residential 3,893.5 mln sq m, down 13.2% YoY. New starts 298.9 mln sq m, down 24.8% YoY; residential new starts 218.4 mln sq m, down 25.4% YoY. Completions 211.0 mln sq m, down 23.7% YoY; residential completions 148.0 mln sq m, down 25.4% YoY.
+
+---
+
+### 2026-09-15 10:01:33  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+China's National Bureau of Statistics: Jan-Aug retail sales of consumer goods totaled 32.757 tln yuan, up 1.1% YoY; retail sales excluding autos 30.176 tln yuan, up 2.7% YoY. In August, retail sales were 3.982 tln yuan, up 0.4% YoY; ex-autos 3.655 tln yuan, up 2.5% YoY.
+
+---
+
+### 2026-09-15 10:01:19  #公司
+
+【中國人保原黨委委員、副總裁於澤被提起公訴】中國人民保險集團股份有限公司原黨委委員、副總裁於澤涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。經最高人民檢察院交辦，北京市人民檢察院依法以涉嫌受賄罪對於澤作出逮捕決定。近日，北京市人民檢察院第二分院已向北京市第二中級人民法院提起公訴。
+
+---
+
+### 2026-09-15 10:01:12  #MKT News #Important
+
+National Bureau of Statistics: Electricity generation by industrial enterprises above designated size remained broadly stable. In August generation was 943.8 bln kWh, down 0.8% YoY; daily average 30.44 bln kWh. January–August generation totaled 6.6476 tln kWh, up 2.4% YoY.
+
+---
+
+### 2026-09-15 10:01:08  #MKT News #Important #CNH #Impact bearish #CSI300
+
+China's National Bureau of Statistics said Jan-Aug fixed-asset investment (excluding rural households) totaled 29.31 trillion yuan, down 7.2% YoY. Investment in intellectual property products rose 9.2% YoY.
+
+---
+
+### 2026-09-15 10:00:55  #經濟數據 #中國
+
+【國家統計局：1—8月份全國房地產開發投資47979億元 同比下降19.9%】國家統計局資料顯示，1—8月份，全國房地產開發投資47979億元，同比下降19.9%（按可比口徑計算）；其中，住宅投資37017億元，下降19.7%。1—8月份，新建商品房銷售面積49880萬平方米，同比下降12.1%；其中住宅銷售面積下降13.0%。新建商品房銷售額47470億元，下降13.0%；其中住宅銷售額下降13.1%。根據住房城鄉建設部資料，1—8月份，二手房交易網籤面積54923萬平方米，同比增長10.6%。
+
+---
+
+### 2026-09-15 10:00:48  #MKT News #Important
+
+China's National Healthcare Security Administration introduced a pre-filing system for medical service pricing items to speed the inclusion of newly approved medical technologies and products into billable medical services and fee schedules once they receive formal approval.
+
+---
+
+### 2026-09-15 10:00:47  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper
+
+China industrial value added of enterprises above designated size rose 0.54% month-on-month in August, versus 0.11% previously.
+
+---
+
+### 2026-09-15 10:00:45  #其他
+
+【國家統計局：8月規模以上工業增加值同比實際增長5.2%】據國家統計局，8月份，規模以上工業增加值同比實際增長5.2%（增加值增速均為扣除價格因素的實際增長率），增速比上月加快0.7個百分點。1—8月份，規模以上工業增加值同比增長5.3%。
+
+---
+
+### 2026-09-15 10:00:42  #其他
+
+中國1-8月房地產開發投資同比下降19.9%。
+
+---
+
+### 2026-09-15 10:00:42  #MKT News #Important #CSI300 #Impact bearish #Copper #CNH
+
+National Bureau of Statistics: Jan-Aug China real estate development investment totaled 4.798 tln yuan, down 19.9% YoY; residential investment 3.702 tln yuan, down 19.7% YoY.
+
+---
+
+### 2026-09-15 10:00:39  #MKT News #Economic Calendar #Important
+
+China | Industrial Output (MoM) (Aug) | actual 0.54% | previous 0.11%
+
+---
+
+### 2026-09-15 10:00:39  #經濟數據 #中國
+
+【國家統計局：8月份社會消費品零售總額39824億元 同比增長0.4%】國家統計局釋出資料顯示，1—8月份，社會消費品零售總額327569億元，同比增長1.1%。其中，除汽車以外的消費品零售額301764億元，增長2.7%。8月份，社會消費品零售總額39824億元，同比增長0.4%。其中，除汽車以外的消費品零售額36545億元，增長2.5%。
+
+---
+
+### 2026-09-15 10:00:33  #其他
+
+中國1-8月零售銷售同比增長1.1%。
+
+---
+
+### 2026-09-15 10:00:32  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
+
+China industrial value added of enterprises above designated size rose 5.2% YoY in August, accelerating 0.7 percentage points from July; MoM growth was 0.54%.
+
+---
+
+### 2026-09-15 10:00:30  #經濟數據 #中國
+
+【統計局：8月規模以上工業增加值同比增長5.2% 社會消費品零售總額增長0.4%】8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。8月份，社會消費品零售總額39824億元，同比增長0.4%；環比下降0.13%。1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%；扣除房地產開發的固定資產投資下降4.2%。
+
+---
+
+### 2026-09-15 10:00:19  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper #DXY #Impact bullish
+
+China's surveyed urban unemployment rate rose to 5.3% in August, versus a 5.2% forecast and 5.2% previously.
+
+---
+
+### 2026-09-15 10:00:14  #其他
+
+中國8月城鎮調查失業率 5.3%，預期5.20%，前值5.20%。
+
+---
+
+### 2026-09-15 10:00:13  #MKT News #Market Regions #Greater China
+
+China year-to-date through August urban fixed-asset investment fell 7.2% YoY (expected -7.2%; prior -6.7%).
+
+---
+
+### 2026-09-15 10:00:10  #其他
+
+中國8月今年迄今城鎮固定資產投資同比 -7.2%，預期-7.2%，前值-6.70%。
+
+---
+
+### 2026-09-15 10:00:10  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Copper #WTI
+
+China industrial value-added for enterprises above designated size rose 5.2% YoY in August, versus 4.8% expected and 4.5% in July.
+
+---
+
+### 2026-09-15 10:00:10  #MKT News #Important #CNH #Impact bearish #Copper #DXY #Impact bullish
+
+China August retail sales of consumer goods rose 0.4% YoY, below the 0.8% expected and down from July's 0.6%.
+
+---
+
+### 2026-09-15 10:00:08  #其他
+
+中國8月規模以上工業增加值同比 5.2%，預期4.80%，前值4.50%。
+
+---
+
+### 2026-09-15 10:00:04  #市場
+
+【半導體裝置板塊震盪反彈 臻寶科技漲超10%】半導體裝置板塊盤中震盪反彈，臻寶科技漲超10%，頻準鐳射、超純應材、三佳科技、芯碁微裝、思泰克等漲幅靠前。
+
+---
+
+### 2026-09-15 10:00:00  #MKT News #Economic Calendar #Important
+
+China | Urban Survey Unemployment Rate (Aug) | actual 5.3% | consensus 5.20% | previous 5.20%
+
+---
+
+### 2026-09-15 10:00:00  #MKT News #Economic Calendar #Important
+
+China | Retail Sales (YoY) (Aug) | actual 0.4% | consensus 0.80% | previous 0.60%
+
+---
+
+### 2026-09-15 10:00:00  #MKT News #Economic Calendar #Important
+
+China | Industrial Output (YoY) (Aug) | actual 5.2% | consensus 4.80% | previous 4.50%
+
+---
+
+### 2026-09-15 10:00:00  #MKT News #Economic Calendar #Important
+
+China | Fixed Asset Investment YTD (YoY) (Aug) | actual -7.2% | consensus -7.2% | previous -6.70%
+
+---
+
+### 2026-09-15 10:00:00  #MKT News
+
+South Korea's finance minister nominee said discussions will weigh strategic interests and shared values against the backdrop of a stable U.S.-South Korea alliance.
+
+---
+
+### 2026-09-15 09:59:46  #MKT News #WTI #Impact bullish #Brent
+
+【EPA announces repeal of power-plant GHG limits; proposes to eliminate future regulatory authority】Sept. 14 — At the G20 energy ministers meeting in Houston, the U.S. Environmental Protection Agency announced it will repeal the Biden administration's 2024 greenhouse-gas limits on coal- and gas-fired power plants and simultaneously proposed a new rule aimed at eliminating EPA's authority to regulate power-plant climate pollution going forward.
+
+---
+
+### 2026-09-15 09:59:35  #市場 #焦點
+
+科創50日內漲幅達1％，成分股中，生益電子漲4.92％，芯原股份漲3.38％，屹唐股份漲3.32％，華海清科漲3.29％。
+
+---
+
+### 2026-09-15 09:59:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+A-share electronic fabrics sector rallied; China Jushi, Honghe Technology, International Composite and Sinoma Technology all rose. Market reports say producers launched a new round of price increases for electronic yarn and fabric in early September.
+
+---
+
+### 2026-09-15 09:58:45  #公司
+
+【靈心巧手、千味央廚等成立科技公司 含機器人業務】企查查APP顯示，近日，鄭州千巧科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由靈心巧手（北京）科技股份有限公司、千味央廚等共同持股。
+
+---
+
+### 2026-09-15 09:58:20  #公司 #市場
+
+【玻纖概念快速拉昇 宏和科技漲停】玻纖概念快速拉昇，宏和科技漲停，國際復材、中國巨石、長海股份、中材科技跟漲。
+
+---
+
+### 2026-09-15 09:57:59  #市場
+
+【傳媒板塊震盪走強 中視傳媒漲停】傳媒板塊震盪走強，截至發稿，中視傳媒漲停，出版傳媒、中信出版、中國出版跟漲。
+
+---
+
+### 2026-09-15 09:57:44  #公司
+
+【盧偉冰官宣小米18Pro本月釋出】小米集團合夥人 & 總裁、手機部總裁、小米品牌總經理盧偉冰今日在微博發文，代表小米 18 Pro 系列正式開啟預熱。 他表示，全新的小米 18 Pro 系列將於本月釋出，這是小米數字系列有史以來升級最大的一次。 盧偉冰稱，小米 18 Pro 系列在效能、影像、續航、AI 能力等方面均有顯著提升。他舉例提到小米首創的“妙享背屏”。
+
+---
+
+### 2026-09-15 09:57:32  #MKT News #Market Regions #Wall Street (US)
+
+【SoftBank unit SB Energy files Japan registration ahead of planned US IPO】Nikkei reports SoftBank Group unit SB Energy filed a domestic securities registration on the 15th related to a planned U.S. IPO, seeking up to $500m (about ¥77bn) of domestic proceeds. The company targets a Nasdaq listing as early as Sept 2026; pricing and share count are undecided, with indicative terms expected between Sept 2026 and Feb 2027.
+
+---
+
+### 2026-09-15 09:57:30  #MKT News #Commodities #Energy
+
+【UN: Gaza's critical public services face risk of energy supply disruption】On the 14th (local time) the UN said Israel's ongoing military operations in the Gaza Strip continue to cause civilian casualties. Restricted access to engine lubricants and parts, together with fuel shortages, is placing severe strain on energy supplies for Gaza's water, desalination and medical services. The UN Office for the Coordination of Humanitarian Affairs said military operations continued over the weekend, particularly west of the temporary ceasefire's so-called 'yellow line'.
+
+---
+
+### 2026-09-15 09:56:30  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量680億元。
+
+---
+
+### 2026-09-15 09:56:28  #MKT News #Market Regions #Japan & APAC
+
+SoftBank's U.S. unit SB Energy filed a domestic securities registration in Japan on the 15th for a U.S. IPO, seeking up to $500m (about ¥77 billion) in Japan and targeting a Nasdaq listing in September 2026.
+
+---
+
+### 2026-09-15 09:56:10  #國際
+
+韓國財長提名人：在穩固的美韓同盟基礎上，將著眼於戰略利益與價值觀進行探討。
+
+---
+
+### 2026-09-15 09:56:01  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Hits Fresh 15-Year High — Australia’s 10-year government bond yield rose toward 5.4%, hitting a fresh 15-year high as soaring oil prices heightened inflation concerns and fueled expectations of further global policy tightening. Global bond markets remained under intense pressure as escalating Middle East tensions raised concerns over disruptions to energy supplies. The resulting oil shock has strengthened expectations for further RBA tightening, with markets now implying an 85% chance of a 25bp hike to 4.60% on September 29. Governor Bullock is scheduled to appear before Parliament and is expected to reiterate that rates may need to rise further to bring inflation under control. Meanwhile, the US Federal Reserve is also expected to keep policy tighter this week and potentially move again by December, adding pressure on yields. Long-end yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions.
+
+---
+
+### 2026-09-15 09:55:15  #MKT News
+
+South Korea's finance minister nominee said talks on investment in the United States are ongoing, with annual investments capped at $20 billion and a total cap of $200 billion; specifics are set out in a memorandum of understanding.
 
 ---
 
@@ -15767,347 +16115,5 @@ Oman's foreign minister said the regional meeting originally scheduled for tomor
 ### 2026-09-14 03:03:30  #MKT News
 
 【Russian Duma deputy chairman: Ukraine's current situation stems from historical revisionism】Boris Chernyshov, deputy chairman of Russia's State Duma, said Ukraine's current situation stems from policies of historical revisionism. He warned efforts to erase memory of Nazism and radical nationalism and to rewrite school curricula can, over 20 to 30 years, turn local festivals into state-level, Nazi-style education programmes. He said attempts to falsify Russia's victory in the Great Patriotic War are both pointless and criminal.
-
----
-
-### 2026-09-14 03:01:02  #MKT News #Commodities #Energy
-
-【Iran oil distributor denies cancelling gasoline quotas for new cars】TASNIM NEWS: Iran's National Petroleum Products Distribution Company denied reports it would cancel 3,000- and 5,000-rial/liter gasoline quotas for vehicles valued over 1 bln rial. It said all existing private passenger cars — excluding government, imported, free-trade-zone vehicles and second-or-later cars registered to the same owner — will keep monthly quotas of 60 liters at 1,500 rial/liter and 50 liters at 3,000 rial/liter. A working group is studying raising the 1 bln rial price cap used to determine quota eligibility for newly produced private cars amid market changes. The company said quota allocation and volumes are unchanged; only the third-tier price was increased from 5,000 to 10,000 rial/liter.
-
----
-
-### 2026-09-14 02:58:20  #國際
-
-克里姆林宮發言人佩斯科夫表示，俄羅斯正密切關注葉門局勢，該地局勢正朝著加劇的方向發展。
-
----
-
-### 2026-09-14 02:55:15  #MKT News
-
-Trump said the Israeli prime minister will call him on Monday regarding the West Bank.
-
----
-
-### 2026-09-14 02:54:39  #MKT News #Market Themes #The Trump Trade
-
-Trump, discussing a $5,000 check policy, said tariffs and other items would generate large fiscal revenues.
-
----
-
-### 2026-09-14 02:53:44  #國際
-
-特朗普：5000美元支票計劃一定會落地，我們能獲得數萬億美元收入。
-
----
-
-### 2026-09-14 02:53:36  #國際
-
-特朗普談美國民主黨眾議員亞歷山德里婭·奧卡西奧-科爾特斯與紐約市市長馬姆達尼在9·11紀念現場被拍到大笑一事：此舉十分惡劣。
-
----
-
-### 2026-09-14 02:53:36  #MKT News
-
-Trump says he will consider whether to release additional records related to the Sept. 11 attacks.
-
----
-
-### 2026-09-14 02:52:43  #國際
-
-特朗普談及5000美元支票政策：關稅等專案帶來鉅額財政收入。
-
----
-
-### 2026-09-14 02:52:20  #國際
-
-特朗普稱他將研究是否公佈更多與“9·11”襲擊相關的記錄。
-
----
-
-### 2026-09-14 02:51:25  #MKT News
-
-Trump said previous presidents allowed large budget deficits and vowed he would never permit them; he also said he did extensive business in Ireland and that his support in the US is strong.
-
----
-
-### 2026-09-14 02:51:20  #國際
-
-特朗普談及約旦河西岸事宜：以色列總理週一將與我通話。
-
----
-
-### 2026-09-14 02:51:09  #MKT News #Market Themes #AI Revolution
-
-The U.S. National Security Agency has initiated a reorganization and plans to establish several new units focused on artificial intelligence, cyber, operations and global intelligence.
-
----
-
-### 2026-09-14 02:49:08  #MKT News
-
-CENC measured a magnitude-3.1 earthquake at 02:41 on Sep 14 (local time) in Xinghai County, Hainan Prefecture, Qinghai; focal depth 10 km.
-
----
-
-### 2026-09-14 02:48:15  #MKT News #AMAT.O #Impact bullish
-
-【Semiconductor sector must adopt new materials; Applied Materials turns to AI for breakthroughs】Nikkei reports the semiconductor industry needs new materials to sustain technological progress as chip scaling approaches its limits. Applied Materials' Japan head said the company is deploying AI and hopes it will help deliver technical breakthroughs.
-
----
-
-### 2026-09-14 02:48:10  #國際
-
-特朗普：其他總統允許出現鉅額赤字，我絕不會允許。
-
----
-
-### 2026-09-14 02:47:26  #國際
-
-特朗普：我在美國的支援率很高。
-
----
-
-### 2026-09-14 02:47:02  #國際
-
-特朗普：在愛爾蘭期間做了很多生意。
-
----
-
-### 2026-09-14 02:46:25  #MKT News
-
-【LDP-backed former Naha deputy mayor Genta Kose wins Okinawa gubernatorial election】NHK reported that in the Okinawa governor’s election held on the 13th, Genta Kose, former deputy mayor of Naha backed by the Liberal Democratic Party and other parties, was confirmed elected.
-
----
-
-### 2026-09-14 02:45:20  #國際
-
-美國國家安全域性改革計劃聚焦人工智慧、網路、作戰與全球情報等領域。
-
----
-
-### 2026-09-14 02:42:33  #國際
-
-美國國家安全域性一項改革計劃擬設立多個新機構。
-
----
-
-### 2026-09-14 02:42:00  #國際
-
-美國國家安全域性啟動機構重組。
-
----
-
-### 2026-09-14 02:30:36  #國際
-
-伊朗代理國防部長：一旦爆發新戰爭，伊朗在技術層面將具備強得多的實力。
-
----
-
-### 2026-09-14 02:28:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel's defense minister said the military is preparing to fight to seize the Al-Tah Heights, part of Israel's security zone in Lebanon, and will prevent any Hezbollah attempt to return and garrison the area.
-
----
-
-### 2026-09-14 02:26:52  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #WTI
-
-【U.S. consumer inflation expectations rise to 4.6%; gasoline and tariff worries climb】Kobeissi report: U.S. consumers expect one‑year inflation of about 4.6%—the third‑highest reading in 12 months and 1.1 percentage points above early‑2026. Spontaneous mentions of gasoline as a main concern rose to roughly 30% (the fourth‑highest in at least two years); mentions of tariffs rose to about 37%, the highest since April. The report indicates consumers broadly view a new round of inflation as beginning.
-
----
-
-### 2026-09-14 02:18:14  #國際
-
-【受日本自民黨支援的古謝玄太當選沖繩縣知事】據日本廣播協會報道，在13日舉行的日本沖繩縣知事選舉中，受自民黨等政黨支援的沖繩首府那霸市前副市長古謝玄太確定當選。（新華社）
-
----
-
-### 2026-09-14 02:17:56  #MKT News
-
-CENTCOM commander said he is not concerned about ammunition shortfalls for responding to Iranian missile and drone attacks.
-
----
-
-### 2026-09-14 02:17:53  #MKT News
-
-IRNA, citing Yemen's Saba news agency, said Saudi Arabia continued military operations in Yemen, striking a market in Hubsha'af district in Al Jawf province in northern Yemen.
-
----
-
-### 2026-09-14 02:17:30  #國際
-
-美國中央司令部司令：我軍裝備精良，隨時應對任何突發情況。
-
----
-
-### 2026-09-14 02:16:37  #央行 #國際
-
-【美聯儲加息偏向預防 A股風險偏好有望修復】過去一週，A股市場維持震盪整理執行格局。中東地緣衝突推升國際油價、美聯儲9月加息預期快速升溫等海外重大宏觀事件擾動市場情緒。對此，券商策略展望報告預計，本週美聯儲議息會議的基礎情形是加息25個基點，但這一加息更偏向預防性緊縮，對市場形成短期情緒層面的擾動。待9月美聯儲議息會議落地，海外不確定性逐步出清後，A股風險偏好有望修復，迎來階段性轉機。（上證報）
-
----
-
-### 2026-09-14 02:13:02  #國際
-
-美國中央司令部司令：對應對伊朗導彈與無人機襲擊的彈藥短缺情況不擔憂。
-
----
-
-### 2026-09-14 01:58:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Houthi says Saudi carried out 58 airstrikes in Yemen over past 24 hours】Houthi spokesman Yahya Sarea said Saudi forces launched 58 large-scale airstrikes in the past 24 hours across Taiz, Lahij, Al Jawf, Hodeidah, Bayda and Saada provinces, carried out by F-15 fighters that took off from Saudi Arabia's KHAMIS MUSHAIT airbase.
-
----
-
-### 2026-09-14 01:57:59  #MKT News #Market Themes #The Trump Trade
-
-【Trump says US will lift tariffs on Irish whiskey】Trump said on Sunday at his golf course in western Ireland that the United States will lift tariffs on Irish whiskey. He said Irish Prime Minister Micheál Martin and Open champion Shane Lowry urged him to drop the measures during his visit. "I, on behalf of the United States, will remove these tariffs," he said.
-
----
-
-### 2026-09-14 01:57:46  #其他
-
-微軟Windows系統與Mac版Office許可證本週末大幅降價，最低售價僅9.97美元。
-
----
-
-### 2026-09-14 01:56:33  #其他
-
-【沙特軍隊在過去24小時內對葉門發動了58次襲擊】葉門武裝部隊發言人表示，在過去24小時內，沙特軍隊對塔伊茲、拉赫季、焦夫、胡賈、白達和薩達等省份實施了58次大規模空襲。
-
----
-
-### 2026-09-14 01:52:05  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-【U.S. household net worth surged $12.5 trillion in Q2, largest quarterly gain on record】Kobeissi reported U.S. household net worth rose $12.5 trillion in Q2 2026 to a record $185.7 trillion, the largest single-quarter increase on record. Net worth has increased for 11 consecutive quarters, up $43.4 trillion over that span and up $83.9 trillion since the COVID shock. The net worth-to-GDP ratio jumped 20 percentage points to 571%, just shy of the 574% peak in Q3 2021. Kobeissi said asset holders have been the primary beneficiaries and warned those without assets risk being left behind.
-
----
-
-### 2026-09-14 01:49:08  #國際
-
-【特朗普稱將取消對愛爾蘭威士忌徵收的關稅】美國總統特朗普表示，他將取消針對愛爾蘭威士忌的美國關稅。週日，他在愛爾蘭西部自家球場參加高爾夫賽事時宣佈了這一決定。特朗普稱，愛爾蘭總理米歇爾·馬丁以及愛爾蘭公開賽冠軍謝恩·勞裡，都在此次訪問期間向他提出取消該關稅的請求。“我代表美國，將取消這項關稅。”特朗普在賽事頒獎慶典上向歡呼的人群說道。
-
----
-
-### 2026-09-14 01:45:24  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump said he will cancel tariffs on Irish whiskey.
-
----
-
-### 2026-09-14 01:43:04  #國際
-
-特朗普談對愛爾蘭威士忌的關稅：將取消。
-
----
-
-### 2026-09-14 01:39:55  #國際
-
-以色列媒體：軍方與政界將就部隊在南部的部署舉行會談。
-
----
-
-### 2026-09-14 01:38:51  #宏觀 #市場 #國際
-
-【法國計劃削減300億歐元預算支出以控制財政赤字】法國財政部長羅蘭·萊斯屈爾表示，政府計劃在下一年度預算中節約約300億歐元資金，以此遏制財政赤字。萊斯屈爾稱，這份預算方案“艱難且目標宏大”，養老金領取者也需共同分擔壓力，力求將赤字控制在5.1%以內。萊斯屈爾表示，若預算達成折中方案，或將緩解投資者擔憂，此前相關擔憂已推動法國國債收益率升至2012年以來最高水平。
-
----
-
-### 2026-09-14 01:36:55  #市場 #焦點
-
-布倫特原油暗盤突破101美元，日內漲超1.3%。
-
----
-
-### 2026-09-14 01:36:17  #MKT News
-
-Iraq Border Ports Authority director has instructed stepped-up security operations at border crossings.
-
----
-
-### 2026-09-14 01:35:45  #MKT News
-
-The director of Iraq's Border Ports Administration said border crossings are the first line of defense for national security and the economy.
-
----
-
-### 2026-09-14 01:35:32  #MKT News
-
-Iraq Border Ports Authority director says all imported goods will be subject to strict inspections, with no exceptions.
-
----
-
-### 2026-09-14 01:35:26  #公司
-
-【Space42與Viasat達成協議，共建價值10億美元的通訊增強平臺】Space42與Viasat公司簽署協議，將成立Equatys，這是一個共享天地基礎設施平臺，用於在地面網路無法覆蓋的區域拓展移動訊號覆蓋與疊加網路。Space42與Viasat雙方將各自出資4億美元作為初始股本。Space42預計會在後續面向第三方投資者的股權融資輪中再追加2億美元投入。隨著聯合增資協議同步簽署，首期衛星星座的開發進度將加快。首期星座是整套架構的第一階段，整套架構規劃可擴充套件至60個軌道面、3個高度層，共計2800顆衛星。隨著需求增長，該架構可直接擴容，無需重新設計。
-
----
-
-### 2026-09-14 01:29:32  #焦點 #國際
-
-伊朗及其他波斯灣沿岸國家定於9月14日週一在馬斯喀特召開會議，商討霍爾木茲海峽安全架構。
-
----
-
-### 2026-09-14 01:21:11  #MKT News
-
-The Israeli Times reports Saudi Crown Prince, via the United States, asked Israel to help prevent further escalation in the Red Sea and Bab al-Mandeb Strait. Israeli security services say they do not intend to intervene in the Yemeni conflict unless Israel itself is attacked.
-
----
-
-### 2026-09-14 01:13:59  #國際
-
-伊朗代理國防部長：美國的威脅缺乏真實軍事能力支撐。
-
----
-
-### 2026-09-14 01:12:38  #MKT News
-
-【Trump defends call for Irish reunification as "fairly conventional" remark】US President Trump, speaking at the Irish Open in Doonbeg on Sunday, defended his call for Irish reunification as "a fairly conventional remark," saying it reflects his personal view and that many agree. The comments have sparked controversy in Northern Ireland. He declined to say whether UK prime minister Andy Burnham should call a referendum on the issue.
-
----
-
-### 2026-09-14 01:09:10  #其他
-
-Space42與Viasat達成協議，將打造價值10億美元的網路增強平臺。
-
----
-
-### 2026-09-14 01:08:05  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI #XAUUSD
-
-【Unauthorized strike on merchant ships in Strait of Hormuz, including Qatar LNG carrier, undermines Pezeshkian's US outreach; senior officials say most were unaware】Iranian forces fired on three merchant vessels in the Strait of Hormuz; a Qatari LNG carrier was set alight and other ships were damaged. According to five government officials and two IRGC members, President Pezeshkian angrily phoned IRGC commander Ahmad Vahidi, who told him he had neither approved nor been notified of the action; the Supreme National Security Council likewise said it was not informed. Officials say a marginal hardline faction acted independently, and the covert operation derailed moderates’ efforts to negotiate with the United States and to repair Iran’s weak economy.
-
----
-
-### 2026-09-14 00:50:43  #MKT News
-
-The US Embassy in Beirut said the Israel-Lebanon framework agreement is the only mechanism to restore the two countries' sovereignty. It said the next round of Lebanon-Israel talks will be held in October in Rome, where the ambassador will discuss continued implementation of the framework.
-
----
-
-### 2026-09-14 00:48:52  #國際
-
-美國駐貝魯特大使館：黎巴嫩與以色列兩國大使將於下週在華盛頓會晤，商討落實三方框架。
-
----
-
-### 2026-09-14 00:48:35  #國際
-
-美國駐貝魯特大使館：下一輪黎以正式會談將於10月在羅馬舉行。
-
----
-
-### 2026-09-14 00:34:50  #其他
-
-【攀巖世界盃貴陽站：中國隊重新整理世界紀錄 三金收官】13日，攀巖世界盃貴陽站收官日決出男、女速度接力兩枚金牌。中國隊在先後追平和打破男子速度接力世界紀錄後，包攬當晚的金牌。至此，貴陽站比賽中國隊一共奪得三金三銀一銅。（央視新聞）
-
----
-
-### 2026-09-14 00:31:33  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S. energy secretary warns no quick breakthrough on Strait of Hormuz】U.S. Energy Secretary Chris Wright warned oil traders not to expect a quick resolution to tensions in the Strait of Hormuz and said Iran plans to propose a shipping agreement to other Gulf states. He said reaching consensus with Iran today is unlikely and markets will need to rely on alternative shipping routes, which he estimates can currently move roughly 10 mln bpd of crude and petroleum products. Wright said global oil supply is tighter than desired but not yet critically tight. He added that Iran's nuclear program will end in some way, that the U.S. prefers negotiations, but cautioned that if talks fail and Iran pursues a covert weapons program it would face U.S. military action to prevent nuclear development.
-
----
-
-### 2026-09-14 00:26:56  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Saudi foreign minister reiterates importance of freedom of navigation and merchant vessel safety】Saudi foreign minister Faisal bin Farhan said Gulf security depends on respect for sovereignty and that GCC member states will not tolerate attacks on their territory. He reiterated the need to preserve freedom of navigation and the safety of commercial shipping in the Strait of Hormuz and all sea lanes, warning any disruption would unsettle global markets, supply chains and economic growth.
 
 ---
