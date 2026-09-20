@@ -1,7 +1,32 @@
 {
   "date": "2026-09-20",
-  "count": 697,
+  "count": 699,
   "items": [
+    {
+      "id": "mkt:01a0befa-e043-7118-8616-88b89c2ebd9b",
+      "time": "2026-09-20 21:21:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Oaktree co‑chair urges Fed to reduce guidance and let economy run】Howard Marks, co‑chair of Oaktree Capital Management, said he favors the Federal Reserve cutting back public guidance and generally stepping back from active intervention, except when the economy risks getting out of control (for example, overheating or a sharp downturn). He noted Fed chair Kevin Warsh is seeking to pare some guidance measures, which Warsh has said have constrained the Fed's room for maneuver. Marks added that reduced policy guidance would force investors to build more antifragile portfolios—a net societal benefit—and called for an AI working group to study AI's impact on key economic areas such as the labor market."
+    },
+    {
+      "id": "5104059",
+      "time": "2026-09-20 21:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿薩亞德航運以約 1750 萬美元出售 MR 型油輪 “阿爾・阿梅拉特” 號。"
+    },
     {
       "id": "5104058",
       "time": "2026-09-20 21:14:55",

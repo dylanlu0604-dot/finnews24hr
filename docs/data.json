@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-20 21:18:47",
-  "count": 13620,
+  "updated": "2026-09-20 21:22:47",
+  "count": 13613,
   "items": [
+    {
+      "id": "mkt:01a0befa-e043-7118-8616-88b89c2ebd9b",
+      "time": "2026-09-20 21:21:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Oaktree co‑chair urges Fed to reduce guidance and let economy run】Howard Marks, co‑chair of Oaktree Capital Management, said he favors the Federal Reserve cutting back public guidance and generally stepping back from active intervention, except when the economy risks getting out of control (for example, overheating or a sharp downturn). He noted Fed chair Kevin Warsh is seeking to pare some guidance measures, which Warsh has said have constrained the Fed's room for maneuver. Marks added that reduced policy guidance would force investors to build more antifragile portfolios—a net societal benefit—and called for an AI working group to study AI's impact on key economic areas such as the labor market."
+    },
+    {
+      "id": "5104059",
+      "time": "2026-09-20 21:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿薩亞德航運以約 1750 萬美元出售 MR 型油輪 “阿爾・阿梅拉特” 號。"
+    },
     {
       "id": "5104058",
       "time": "2026-09-20 21:14:55",
@@ -124784,84 +124809,6 @@
         "XAUUSD"
       ],
       "text": "White House economic adviser Hassett said he would take a cautious stance on rate hikes based on inflation data."
-    },
-    {
-      "id": "5091480",
-      "time": "2026-09-13 21:21:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "白宮經濟顧問哈塞特：如果沃什上調利率，特朗普將捍衛沃什的獨立性。（注：這句話的意思是特朗普很可能不會干預沃什的決定）"
-    },
-    {
-      "id": "5091479",
-      "time": "2026-09-13 21:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：英國若不開放北海（油氣資源）將會 “破產”。"
-    },
-    {
-      "id": "5091478",
-      "time": "2026-09-13 21:20:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英特爾暗盤跌超4%，現報99.085美元。"
-    },
-    {
-      "id": "5091477",
-      "time": "2026-09-13 21:20:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：英國如果開放北海石油資源，就能變得富裕。"
-    },
-    {
-      "id": "5091476",
-      "time": "2026-09-13 21:20:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "哈塞特表示，根據通脹資料，他會對加息持謹慎態度。"
-    },
-    {
-      "id": "5091474",
-      "time": "2026-09-13 21:20:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：石油企業聯絡我，表示他們希望進軍北海油田。"
-    },
-    {
-      "id": "mkt:01a09aec-79f1-7118-855c-c12113141556",
-      "time": "2026-09-13 21:19:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said the U.S. can set safeguards for artificial intelligence, but some voices are overly negative."
-    },
-    {
-      "id": "5091473",
-      "time": "2026-09-13 21:19:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與英國首相伯納姆談過話，可惜他偏向自由派。"
-    },
-    {
-      "id": "5091472",
-      "time": "2026-09-13 21:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談人工智慧：我們可以設定保護措施，但有些聲音過於消極。"
     }
   ]
 }
