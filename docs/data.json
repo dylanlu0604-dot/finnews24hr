@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-21 03:20:20",
-  "count": 13701,
+  "updated": "2026-09-21 03:24:06",
+  "count": 13700,
   "items": [
+    {
+      "id": "5104361",
+      "time": "2026-09-21 03:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大與法國最近處僅相隔數公里，我們的價值觀則更為貼近。"
+    },
     {
       "id": "5104360",
       "time": "2026-09-21 03:11:50",
@@ -125564,29 +125572,6 @@
         "AI Revolution"
       ],
       "text": "【Anthropic, OpenAI and Google in talks to form AI industry standards body】Anthropic, OpenAI and Google have discussed creating an industry body to set AI standards. Anthropic CEO Dario Amodei urged firms to coordinate testing and auditing; OpenAI founder Altman told employees at a town hall earlier this week he supports a sector testing-and-audit agency but believes large AI labs should build it themselves rather than rely on US government support."
-    },
-    {
-      "id": "5091733",
-      "time": "2026-09-14 03:23:20",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【Anthropic、OpenAI、谷歌曾商討制定人工智慧標準】知情人士透露，早在Anthropic執行長達里奧·阿莫代伊周六呼籲AI企業就技術測試與審計開展協作之前，Anthropic、OpenAI與谷歌就已經在商討合作組建AI行業標準機構。一位瞭解相關表態的訊息人士稱，OpenAI執行長山姆·奧特曼在本週早些時候的全員大會上對員工表示，他支援設立AI行業測試與審計機構，但認為頭部AI實驗室必須在美國政府不提供支援的情況下自行搭建這套標準組織。"
-    },
-    {
-      "id": "mkt:01a09c38-7f57-7118-855e-9957113d846e",
-      "time": "2026-09-14 03:22:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil tanker catches fire in Strait of Hormuz】UKMTO said a fully laden oil tanker was struck by a missile in the Strait of Hormuz and is reported to be seriously ablaze. The agency earlier reported a Panama-flagged tanker was attacked while transiting the Strait and had lost propulsion."
     }
   ]
 }
