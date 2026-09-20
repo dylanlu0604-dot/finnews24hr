@@ -1,7 +1,18 @@
 {
   "date": "2026-09-20",
-  "count": 427,
+  "count": 428,
   "items": [
+    {
+      "id": "mkt:01a0bdae-c09f-7118-8614-832fb96f2626",
+      "time": "2026-09-20 15:19:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia's election chief said a drone attack in the Russian-controlled Kherson region of Ukraine killed two people, including an election official."
+    },
     {
       "id": "5103842",
       "time": "2026-09-20 15:18:37",

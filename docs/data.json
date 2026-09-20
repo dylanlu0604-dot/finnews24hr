@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-20 15:19:13",
-  "count": 13590,
+  "updated": "2026-09-20 15:23:06",
+  "count": 13587,
   "items": [
+    {
+      "id": "mkt:01a0bdae-c09f-7118-8614-832fb96f2626",
+      "time": "2026-09-20 15:19:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia's election chief said a drone attack in the Russian-controlled Kherson region of Ukraine killed two people, including an election official."
+    },
     {
       "id": "5103842",
       "time": "2026-09-20 15:18:37",
@@ -124620,41 +124631,6 @@
         "國際"
       ],
       "text": "【中國水產養殖創新實踐亮相聯合國糧農組織漁委會】聯合國糧農組織漁業委員會第37屆會議，9月7日至11日在義大利羅馬舉行。會議期間，中方舉辦水產養殖主題邊會，與多國及國際組織代表分享中國在綠色養殖、技術創新等方面的實踐。會議期間，中方和聯合國糧農組織共同主辦了“推動水產養殖創新，共促綠色可持續發展”邊會。來自多個水產養殖國家和國際組織的代表圍繞技術創新、區域合作與發展等議題展開交流。中方重點介紹了中國在可持續養殖、現代設施裝備、數字化管理等領域的探索和實踐。2025年中國水產養殖產量6326萬噸，佔水產品總產量83%。近年來，人工智慧、物聯網、深遠海養殖裝備等新技術加快進入中國水產養殖生產環節，推動傳統養殖向綠色、智慧化方向轉型。（央視新聞）"
-    },
-    {
-      "id": "5091246",
-      "time": "2026-09-13 15:22:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱曼德海峽通航基本正常】據葉門方面12日訊息，過去48小時內共有73艘船隻透過曼德海峽，這相當於今年7月20日胡塞武裝對沙特實施海上禁運前日均通航量的98.6%。訊息稱，目前除了沙特船隻不允許通行，曼德海峽的其他國際船隻通航“安全且順暢”，基本接近正常水平。（央視新聞）"
-    },
-    {
-      "id": "5091245",
-      "time": "2026-09-13 15:20:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統助理稱土耳其等國願主辦美俄烏三方會談，阿布扎比仍為首選】俄羅斯總統助理烏沙科夫在接受採訪時表示，除阿布扎比外，土耳其及其他一些國家也已提出願為俄美烏新一輪三方會晤提供場地。當被問及莫斯科更傾向的會談地點時，烏沙科夫明確表示阿布扎比是一個“完全適合”的地點。不過，目前尚不清楚屆時俄羅斯代表團的團長人選。"
-    },
-    {
-      "id": "mkt:01a099a3-1115-7118-855b-53e3f2c99df6",
-      "time": "2026-09-13 15:19:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "CNH"
-      ],
-      "text": "RIA: Putin said intra-BRICS trade has reached $1.2 trillion."
-    },
-    {
-      "id": "mkt:01a099a2-fb6a-7118-855b-4f0230577366",
-      "time": "2026-09-13 15:19:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran accuses Europe and US of pressuring IAEA】On Sept. 12 foreign ministry spokesman Baghaei said the IAEA resolution on Iran was \"politicized\", that Iran has not breached obligations and the agency found no evidence its nuclear programme was diverted from peaceful uses. He accused three European countries and the US of pressuring the IAEA, said US military aggression and economic warfare against Iran continue, and invoked Iran's right to self‑defence under UN Charter Article 51. Baghaei added Tehran will protect its security by diplomatic and other means and urged regional states, not external powers, to guarantee regional security and establish a regional security mechanism."
     }
   ]
 }
