@@ -1,7 +1,46 @@
 {
   "date": "2026-09-21",
-  "count": 150,
+  "count": 154,
   "items": [
+    {
+      "id": "te:economy:585136",
+      "time": "2026-09-21 06:08:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Loan Prime Rate 5Y",
+        "Importance 1"
+      ],
+      "text": "China Keeps LPR Rates at Record Lows for 16th Month — The People's Bank of China left its key lending rates at record lows for a 16th straight month in September 2026, in line with market expectations. The move reflected caution over the impact of the conflict in the Middle East, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was kept at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Meanwhile, industrial production grew more than expected, while retail sales growth eased and was softer than estimated. At the same time, new yuan loans extended returned to growth in August, though below forecasts, as weak demand from the household and corporate sectors continued to weigh on credit growth. Meanwhile, housing prices continued to decline in August, though the pace of contraction was the softest in eight months, supported by government measures."
+    },
+    {
+      "id": "5104390",
+      "time": "2026-09-21 06:06:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價上漲，交易員關注中東供應風險與外交動向】本週，圍繞美伊戰爭的外交活動將趨於密集，交易員持續追蹤中東供應風險，原油價格走高。布倫特原油向每桶105美元靠攏，WTI接近每桶101美元。週末，沙特首都利雅得釋出空襲警報，這是今年三四月衝突高峰期之後利雅得首次拉響警報，紅海沿岸的延布等港口也同步釋出預警。沙特正面臨葉門胡塞武裝的襲擊威脅。卡達外交部發言人表示，斡旋人員正在多國首都之間穿梭，交換方案，推動美伊重啟談判。"
+    },
+    {
+      "id": "5104389",
+      "time": "2026-09-21 06:05:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內跌0.13%。"
+    },
+    {
+      "id": "5104388",
+      "time": "2026-09-21 06:04:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4380美元/盎司，日內漲0.02%。"
+    },
     {
       "id": "5104387",
       "time": "2026-09-21 06:03:31",
