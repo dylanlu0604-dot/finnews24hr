@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-20 09:43:12",
-  "count": 13495,
+  "updated": "2026-09-20 09:47:09",
+  "count": 13497,
   "items": [
+    {
+      "id": "5103629",
+      "time": "2026-09-20 09:44:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【智身科技完成B輪融資】9月20日，具身智慧機器人企業智身科技（GENISOMAI）宣佈完成數億元B輪融資。本輪融資由阿聯酋StoneVenture（磊石資本）領投，洪山資本、粵科金融、吳中融玥、吳中金控、東軟集團、豪鵬科技、遠見資本、日盈電子等共同參與。本輪融資後，智身科技將重點圍繞機器人本體、具身大小腦與任務作業持續投入。"
+    },
+    {
+      "id": "mkt:01a0bc7b-261e-7118-8613-0515ffe0820b",
+      "time": "2026-09-20 09:43:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【MOFCOM official on China's Jan–Aug 2026 consumer market】Jan–Aug 2026 total retail sales of consumer goods and services in China rose 2.5% YoY. Social retail sales of consumer goods were up 1.1% YoY; consumer goods retail excluding autos rose 2.7% YoY. Service retail sales increased 4.9% YoY, about 3.9 percentage points faster than goods retail. County-level and rural consumption continued to gain momentum, and the urban–rural consumption structure kept improving."
+    },
+    {
+      "id": "5103628",
+      "time": "2026-09-20 09:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國愛荷華州共和黨參議員格拉斯利參議員呼籲特朗普實施柴油出口禁運。"
+    },
     {
       "id": "5103627",
       "time": "2026-09-20 09:41:34",
@@ -123858,20 +123891,6 @@
         "MKT News"
       ],
       "text": "Market sources: Yemeni armed forces reported three airstrikes struck Houthi positions in Taiz, Yemen."
-    },
-    {
-      "id": "mkt:01a0986f-006b-7118-8559-2c6c29755d27",
-      "time": "2026-09-13 09:43:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【US media: Tesla regains U.S. EV market share as legacy automakers retreat】Wall Street Journal cites Motor Intelligence data showing Tesla's share of the U.S. electric-vehicle market rose to 52% in the first eight months of 2026, up from 43% a year earlier, amid retreat by legacy automakers. Tesla's U.S. deliveries YTD are 325,351 units, down 16% YoY; the wider U.S. EV market contracted about 30% YoY. Tesla's share had exceeded 80% historically but fell to a record low of 41% in 2025 after increased EV launches from Hyundai, Ford and GM and reputational fallout tied to CEO Elon Musk's political activity, including store protests. The Austin-based company is regaining share despite signaling a de-emphasis of its core auto business."
     }
   ]
 }
