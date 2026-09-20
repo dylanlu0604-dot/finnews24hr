@@ -1,7 +1,47 @@
 {
   "date": "2026-09-21",
-  "count": 116,
+  "count": 121,
   "items": [
+    {
+      "id": "5104371",
+      "time": "2026-09-21 03:52:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國媒體：德國基民盟未能進入東北部州議會。"
+    },
+    {
+      "id": "5104370",
+      "time": "2026-09-21 03:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：法國將首先召見伊朗大使。"
+    },
+    {
+      "id": "mkt:01a0c060-02f4-7118-8619-5c622a858f19",
+      "time": "2026-09-21 03:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Foreign Ministry says France will be the first to summon Iran's ambassador."
+    },
+    {
+      "id": "5104369",
+      "time": "2026-09-21 03:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：德黑蘭法語文化中心關閉後，法國將採取適當應對措施。"
+    },
+    {
+      "id": "mkt:01a0c05f-653a-7118-8619-505a96fac85b",
+      "time": "2026-09-21 03:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's Foreign Ministry said it will take appropriate measures in response after Iran closed the language center in Tehran."
+    },
     {
       "id": "mkt:01a0c05e-61d7-7118-8619-48a010cd73a4",
       "time": "2026-09-21 03:50:05",
