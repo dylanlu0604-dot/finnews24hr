@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-21 01:27:08",
-  "count": 13709,
+  "updated": "2026-09-21 01:31:02",
+  "count": 13711,
   "items": [
+    {
+      "id": "5104260",
+      "time": "2026-09-21 01:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：加拿大液化天然氣可在歐洲能源領域發揮重要作用，已就此問題展開雙邊磋商。"
+    },
+    {
+      "id": "mkt:01a0bfdc-050e-7118-8618-93f655e93700",
+      "time": "2026-09-21 01:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Macron said Canadian LNG can play an important role in Europe’s energy mix and that France has opened bilateral talks with Canada on the issue."
+    },
+    {
+      "id": "mkt:01a0bfdb-f887-7118-8618-8f5d6809ba09",
+      "time": "2026-09-21 01:27:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "France's President Macron said he and Canadian Prime Minister Carney agreed to deepen bilateral cooperation in energy, space and climate."
+    },
     {
       "id": "5104258",
       "time": "2026-09-21 01:26:09",
@@ -125657,15 +125683,6 @@
         "公司"
       ],
       "text": "【Space42與Viasat達成協議，共建價值10億美元的通訊增強平臺】Space42與Viasat公司簽署協議，將成立Equatys，這是一個共享天地基礎設施平臺，用於在地面網路無法覆蓋的區域拓展移動訊號覆蓋與疊加網路。Space42與Viasat雙方將各自出資4億美元作為初始股本。Space42預計會在後續面向第三方投資者的股權融資輪中再追加2億美元投入。隨著聯合增資協議同步簽署，首期衛星星座的開發進度將加快。首期星座是整套架構的第一階段，整套架構規劃可擴充套件至60個軌道面、3個高度層，共計2800顆衛星。隨著需求增長，該架構可直接擴容，無需重新設計。"
-    },
-    {
-      "id": "5091699",
-      "time": "2026-09-14 01:29:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗及其他波斯灣沿岸國家定於9月14日週一在馬斯喀特召開會議，商討霍爾木茲海峽安全架構。"
     }
   ]
 }

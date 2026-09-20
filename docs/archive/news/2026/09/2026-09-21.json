@@ -1,7 +1,33 @@
 {
   "date": "2026-09-21",
-  "count": 55,
+  "count": 58,
   "items": [
+    {
+      "id": "5104260",
+      "time": "2026-09-21 01:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：加拿大液化天然氣可在歐洲能源領域發揮重要作用，已就此問題展開雙邊磋商。"
+    },
+    {
+      "id": "mkt:01a0bfdc-050e-7118-8618-93f655e93700",
+      "time": "2026-09-21 01:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Macron said Canadian LNG can play an important role in Europe’s energy mix and that France has opened bilateral talks with Canada on the issue."
+    },
+    {
+      "id": "mkt:01a0bfdb-f887-7118-8618-8f5d6809ba09",
+      "time": "2026-09-21 01:27:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "France's President Macron said he and Canadian Prime Minister Carney agreed to deepen bilateral cooperation in energy, space and climate."
+    },
     {
       "id": "5104258",
       "time": "2026-09-21 01:26:09",
