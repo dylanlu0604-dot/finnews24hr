@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 20:23:07",
-  "count": 13636,
+  "updated": "2026-09-20 20:27:04",
+  "count": 13633,
   "items": [
+    {
+      "id": "5104035",
+      "time": "2026-09-20 20:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄美計劃未來幾周內舉行新一輪會談】據俄羅斯媒體報道，俄羅斯副外長里亞布科夫表示，俄羅斯與美國計劃在未來幾周內，就消除雙邊關係中的“敏感問題”舉行新一輪會談。此類會談基本定期舉行，但“推進速度低於預期”。里亞布科夫今年6月曾表示，俄美關於消除雙邊關係中“敏感問題”的對話陷入僵局。 (CCTV國際時訊)"
+    },
     {
       "id": "5104034",
       "time": "2026-09-20 20:21:35",
@@ -124964,39 +124972,6 @@
         "國際"
       ],
       "text": "美國眾議院議長約翰遜：特朗普提出的每人發放5000美元支票計劃不會增加債務。"
-    },
-    {
-      "id": "5091421",
-      "time": "2026-09-13 20:25:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：在出臺任何立法前，應與人工智慧領域企業負責人會晤。"
-    },
-    {
-      "id": "5091420",
-      "time": "2026-09-13 20:25:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長稱，土耳其總統埃爾多安即將訪問敘利亞。"
-    },
-    {
-      "id": "mkt:01a09aba-0211-7118-855c-559fd4b81cb3",
-      "time": "2026-09-13 20:24:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Peskov says resumption of tripartite Ukraine talks in October not ruled out】Kremlin press secretary Dmitry Peskov told reporters in New Delhi on Sept 13 he does not rule out resuming tripartite talks on Ukraine in October. Earlier, Jared Kushner said US meetings in Moscow and Kyiv clarified what might yield a long-term settlement and that new ideas from those meetings could be discussed at a forthcoming tripartite meeting."
-    },
-    {
-      "id": "5091418",
-      "time": "2026-09-13 20:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜表示，人工智慧監管不宜倉促推進。"
     }
   ]
 }
