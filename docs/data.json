@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-21 01:19:30",
-  "count": 13706,
+  "updated": "2026-09-21 01:23:21",
+  "count": 13708,
   "items": [
+    {
+      "id": "5104255",
+      "time": "2026-09-21 01:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國支援歐盟與加拿大加深關係，並支援加拿大獲得歐盟準成員國地位。"
+    },
+    {
+      "id": "mkt:01a0bfd7-6be2-7118-8618-84a7793f441a",
+      "time": "2026-09-21 01:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said France supports closer ties between the EU and Canada and backs Canada’s candidate status."
+    },
+    {
+      "id": "5104250",
+      "time": "2026-09-21 01:19:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佛羅里達州南區聯邦檢察官表示，2021年海地總統若弗內爾·莫伊茲遇刺案的18名嫌犯已由軍用飛機押送至美國，30名嫌疑人因涉嫌參與刺殺海地總統已在美國被起訴。"
+    },
     {
       "id": "mkt:01a0bfd0-7286-7118-8618-7984d27fc4f0",
       "time": "2026-09-21 01:15:04",
@@ -125634,14 +125658,6 @@
         "國際"
       ],
       "text": "伊朗及其他波斯灣沿岸國家定於9月14日週一在馬斯喀特召開會議，商討霍爾木茲海峽安全架構。"
-    },
-    {
-      "id": "mkt:01a09bc9-8a4e-7118-855d-e1e74644c710",
-      "time": "2026-09-14 01:21:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli Times reports Saudi Crown Prince, via the United States, asked Israel to help prevent further escalation in the Red Sea and Bab al-Mandeb Strait. Israeli security services say they do not intend to intervene in the Yemeni conflict unless Israel itself is attacked."
     }
   ]
 }
