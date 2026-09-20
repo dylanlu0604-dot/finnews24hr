@@ -1,7 +1,17 @@
 {
   "date": "2026-09-21",
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "id": "mkt:01a0bfa2-e15e-7118-8618-324e34acf6f4",
+      "time": "2026-09-21 00:25:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【AfD leads in Mecklenburg-Vorpommern state vote】Sept. 20 — Preliminary exit polls in German local elections show the far-right Alternative for Germany (AfD) leading the Mecklenburg‑Vorpommern state vote with about 37% versus the center‑left SPD on 35.5%. The CDU, led by Merz, is projected at 5.5%, narrowly clearing the threshold for state parliament and posting its worst state result since 1949. Other major parties have ruled out cooperation with the AfD, making it unlikely to form the regional government. The AfD has now become the largest party in two states in two weeks. In Berlin, projections put the CDU at 20%, The Left at 24.5% (leading), the AfD at 16% with seat gains and the SPD at 12%. On Sept. 6 in Saxony‑Anhalt, the CDU fell to about 17% while the AfD won roughly 44%."
+    },
     {
       "id": "5104187",
       "time": "2026-09-21 00:24:14",
