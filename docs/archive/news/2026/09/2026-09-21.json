@@ -1,7 +1,39 @@
 {
   "date": "2026-09-21",
-  "count": 28,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:01a0bfb7-a979-7118-8618-553e4d769da8",
+      "time": "2026-09-21 00:47:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry said Russian forces will step up strikes on military targets in Kyiv in response to attacks by Ukrainian armed forces on civilian infrastructure."
+    },
+    {
+      "id": "mkt:01a0bfb4-da44-7118-8618-48ca55f39751",
+      "time": "2026-09-21 00:44:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Ukrainian armed forces attempted to launch a large-scale attack using drones and Flamingo missiles to disrupt Russian citizens' ability to express their will in elections scheduled for Sept 19-20."
+    },
+    {
+      "id": "5104204",
+      "time": "2026-09-21 00:44:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：鑑於通脹問題，各國央行必須收緊政策。"
+    },
     {
       "id": "5104203",
       "time": "2026-09-21 00:43:12",
