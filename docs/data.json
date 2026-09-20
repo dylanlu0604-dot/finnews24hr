@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-20 08:07:09",
-  "count": 13481,
+  "updated": "2026-09-20 08:10:52",
+  "count": 13483,
   "items": [
+    {
+      "id": "mkt:01a0bc24-e907-7118-8612-95bdcbaf1268",
+      "time": "2026-09-20 08:08:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Israeli airstrikes in northern Gaza kill two】The Gaza Health Ministry and Shifa Hospital said on the 19th (local time) the Israel Defense Forces struck northern Gaza City and areas around the Jabalia refugee camp, killing two Palestinians. The IDF had not commented."
+    },
+    {
+      "id": "5103598",
+      "time": "2026-09-20 08:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙地帶北部 致2人死亡】加沙地帶衛生部門和希法醫院表示，當地時間19日，以色列國防軍對加沙地帶北部加沙城以及傑巴利耶難民營周邊地區進行了空襲，導致2名巴勒斯坦人死亡。截至目前，以色列國防軍對此暫未回應。（央視新聞）"
+    },
     {
       "id": "5103597",
       "time": "2026-09-20 08:06:05",
