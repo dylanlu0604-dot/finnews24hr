@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-21 06:20:30",
-  "count": 13662,
+  "updated": "2026-09-21 06:24:20",
+  "count": 13660,
   "items": [
+    {
+      "id": "5104393",
+      "time": "2026-09-21 06:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文配圖：他的半球。"
+    },
+    {
+      "id": "mkt:01a0c0e9-798c-7118-8619-c93ac8334ab3",
+      "time": "2026-09-21 06:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian media report a large explosion sounded in the Ais area south of Aleppo."
+    },
     {
       "id": "5104392",
       "time": "2026-09-21 06:16:02",
@@ -125159,44 +125175,6 @@
         "DELL.N"
       ],
       "text": "Dell family office (DELL.N) nearing deal to take Baldwin Group private, Financial Times reports."
-    },
-    {
-      "id": "5091789",
-      "time": "2026-09-14 06:23:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已要求澤連斯基不要襲擊（俄）柴油煉油廠。"
-    },
-    {
-      "id": "5091788",
-      "time": "2026-09-14 06:23:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國肯尼迪中心最早或於週二關閉。"
-    },
-    {
-      "id": "5091787",
-      "time": "2026-09-14 06:22:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝週日稱，在曼德海峽附近的卡赫布地區發動定點行動，擊斃沙特支援武裝的四名指揮官，另有五人受傷。"
-    },
-    {
-      "id": "mkt:01a09cdc-b494-7118-855f-d9b20d493eb3",
-      "time": "2026-09-14 06:21:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil up >3% as Saudi East–West pipeline shut after drone attack; Gulf talks postponed, tanker hit】Asian trade: WTI and Brent rose more than 3% after drones launched from Iraq struck Saudi Arabia’s East–West oil pipeline last Thursday, forcing Riyadh to shut the artery. Saudi authorities have not disclosed damage or the expected outage duration. The pipeline can carry about 7.0 mln bpd and is a key buffer against wider Middle East supply disruptions. A planned meeting in Oman between Iran and Gulf states on Strait of Hormuz security was abruptly postponed after the attack. The UK Maritime Trade Operations Centre says security in the Strait remains precarious; another tanker was attacked on Sunday, causing a major fire."
     }
   ]
 }

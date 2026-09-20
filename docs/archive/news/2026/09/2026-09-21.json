@@ -1,7 +1,23 @@
 {
   "date": "2026-09-21",
-  "count": 157,
+  "count": 159,
   "items": [
+    {
+      "id": "5104393",
+      "time": "2026-09-21 06:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發文配圖：他的半球。"
+    },
+    {
+      "id": "mkt:01a0c0e9-798c-7118-8619-c93ac8334ab3",
+      "time": "2026-09-21 06:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian media report a large explosion sounded in the Ais area south of Aleppo."
+    },
     {
       "id": "5104392",
       "time": "2026-09-21 06:16:02",
