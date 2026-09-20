@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-20 21:10:54",
-  "count": 13640,
+  "updated": "2026-09-20 21:14:56",
+  "count": 13629,
   "items": [
+    {
+      "id": "5104057",
+      "time": "2026-09-20 21:13:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮科技政策辦公室主任克拉齊奧斯：美國擁有應對人工智慧安全問題的工具包。"
+    },
+    {
+      "id": "5104056",
+      "time": "2026-09-20 21:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【造謠“寧德時代宜賓基地班長不讓普工上廁所” 男子被行拘】此前有報道稱“寧德時代宜賓基地班長不讓普工上廁所””系謠言迎來最新進展。經警方調查，網民林某某（男，33 歲）於2026年9月9日，在某社交平臺編造關於“某企業宜賓基地員工被管理人員侮辱，導致心理崩潰，做出過激行為”的謠言資訊，引發各網路平臺迅速傳播，大量網民關注和討論，造成不良社會影響。經警方核實，該資訊所述涉事企業、事發地均與事實不符，林某某為了“博取眼球”“營造掌握行業內幕人設”編造網路謠言，其行為涉嫌故意虛構事實擾亂公共秩序。目前，三江新區公安分局已依據《中華人民共和國治安管理處罰法》對林某某做出行政拘留並處罰款的行政處罰。 (封面新聞)"
+    },
+    {
+      "id": "mkt:01a0bef0-bd28-7118-8616-85058ad3f017",
+      "time": "2026-09-20 21:10:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qwen-Image-2.1 open-sourced: lightweight, high-performance, integrated creation and editing】Qianwen said it open-sourced Qwen-Image-2.1 today. The 7B-parameter image model combines text-to-image generation and image editing, is optimized for inference efficiency and low cost, and natively supports generation and editing of transparent images. Main features include a compact, inference-optimized architecture that balances quality and compute cost; native transparent-image generation with transparent-layer editing and matting; multi-reference editing support (up to 10 reference images) to boost local edits, portrait and product fidelity across multiple edit tasks; and improved text layout, lighting and fine-detail rendering."
+    },
     {
       "id": "5104055",
       "time": "2026-09-20 21:08:02",
@@ -124912,133 +124938,6 @@
         "國際"
       ],
       "text": "特朗普談愛爾蘭統一：我目前不會談論蘇格蘭問題，我會留到以後再談。"
-    },
-    {
-      "id": "5091461",
-      "time": "2026-09-13 21:14:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談愛爾蘭統一：將北愛與愛爾蘭合併是自然而然的事。"
-    },
-    {
-      "id": "5091460",
-      "time": "2026-09-13 21:14:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "白宮經濟顧問哈塞特：Anthropic的CEO阿莫代的文章是私營部門人工智慧發展路線圖。"
-    },
-    {
-      "id": "mkt:01a09ae7-310f-7118-855c-a0f0c1581cae",
-      "time": "2026-09-13 21:13:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Ukrainian President Zelenskiy must stop targeting Russia's diesel fuel and that they had discussed the issue."
-    },
-    {
-      "id": "5091458",
-      "time": "2026-09-13 21:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談烏克蘭問題：我們已就此與澤連斯基進行了溝通。"
-    },
-    {
-      "id": "5091457",
-      "time": "2026-09-13 21:13:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談烏克蘭問題——澤連斯基必須做一件事：他必須停止摧毀俄羅斯的柴油燃料供應。"
-    },
-    {
-      "id": "5091456",
-      "time": "2026-09-13 21:13:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：美國最終會從中脫身。"
-    },
-    {
-      "id": "mkt:01a09ae6-6701-7118-855c-993052f9a0d8",
-      "time": "2026-09-13 21:13:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "President Trump said the conflict with Iran will end, possibly before the midterm elections or immediately afterward. He said Iran is very eager to reach an agreement and the U.S. does not care whether Gulf states meet with Iran, calling that their choice."
-    },
-    {
-      "id": "5091455",
-      "time": "2026-09-13 21:12:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談明日伊朗召開的會議：不關心海灣國家是否與伊朗會面，這取決於他們自己。"
-    },
-    {
-      "id": "mkt:01a09ae5-c52f-7118-855c-95897be90d00",
-      "time": "2026-09-13 21:12:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the promised $5,000 post-election payment should be easy for Congress to pass and that he always keeps his promises."
-    },
-    {
-      "id": "5091454",
-      "time": "2026-09-13 21:12:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗迫切希望達成協議。"
-    },
-    {
-      "id": "5091453",
-      "time": "2026-09-13 21:12:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗局勢：伊朗戰爭將結束——也許在中期選舉前，或者就在選舉後。"
-    },
-    {
-      "id": "5091452",
-      "time": "2026-09-13 21:11:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我一向信守承諾。"
-    },
-    {
-      "id": "5091451",
-      "time": "2026-09-13 21:11:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：國會理應輕鬆透過選舉後5000美元的支票發放承諾。"
-    },
-    {
-      "id": "mkt:01a09ae4-68d8-7118-855c-8f4e174ddcea",
-      "time": "2026-09-13 21:10:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. President Trump said the United States should have the lowest interest rates in the world."
     }
   ]
 }
