@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-21 06:24:20",
-  "count": 13660,
+  "updated": "2026-09-21 06:28:11",
+  "count": 13657,
   "items": [
+    {
+      "id": "5104395",
+      "time": "2026-09-21 06:25:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國基民盟未進梅前州議會】9月20日，德國舉行兩場地方選舉，分別是首都柏林和東部梅克倫堡-前波美拉尼亞州（梅前州）議會選舉。在梅前州選舉中，德國總理默茨領導的基民盟遭遇慘敗。據當地時間今天（9月21日）凌晨的初步官方結果，基民盟僅獲得4.9% 的選票，甚至沒能達到進入州議會5%得票率的“門檻”，這也是基民盟自1949年以來在任何州級選舉中取得的最差戰績。（CCTV國際時訊）"
+    },
+    {
+      "id": "5104394",
+      "time": "2026-09-21 06:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨領導的基民盟在德國東北部州選舉中落敗，無緣該州議會。"
+    },
     {
       "id": "5104393",
       "time": "2026-09-21 06:22:24",
@@ -125129,52 +125145,6 @@
         "其他"
       ],
       "text": "Anthropic將連續第二個季度實現盈利。"
-    },
-    {
-      "id": "5091792",
-      "time": "2026-09-14 06:26:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：加拿大迫切希望達成協議。"
-    },
-    {
-      "id": "5091791",
-      "time": "2026-09-14 06:26:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：加拿大是最難打交道的國家。"
-    },
-    {
-      "id": "mkt:01a09ce0-fd14-7118-855f-ee332a62031c",
-      "time": "2026-09-14 06:26:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel says it will retain control of high ground in southern Lebanon】On the 13th (local time), Israeli Defense Minister Katz said the IDF will continue to hold the Aritashir high ground in southern Lebanon to prevent Hezbollah or any other force from returning and re-establishing positions. Katz said the position is part of what Israel describes as its 'security zone' in southern Lebanon and that Israeli forces will not withdraw or redeploy until Hezbollah is disarmed across Lebanon. He warned anyone approaching the position would be eliminated."
-    },
-    {
-      "id": "5091790",
-      "time": "2026-09-14 06:25:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列稱計劃維持對黎南部一處高地的控制】當地時間13日，以色列國防部長卡茨發表宣告稱，以國防軍計劃繼續控制位於黎巴嫩南部的阿里塔希爾高地，防止黎真主黨或其他任何一方返回並重新建立據點。卡茨表示，該高地仍是以色列在黎巴嫩南部設立的所謂“安全區”的一部分，在黎真主黨在黎巴嫩全境被解除武裝之前，以軍不會撤出或重新部署。卡茨聲稱，“任何接近該高地的人都將被消滅”。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a09cdf-576e-7118-855f-e2c58cf66b48",
-      "time": "2026-09-14 06:24:37",
-      "tags": [
-        "MKT News",
-        "DELL.N"
-      ],
-      "text": "Dell family office (DELL.N) nearing deal to take Baldwin Group private, Financial Times reports."
     }
   ]
 }
