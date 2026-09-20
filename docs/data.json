@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21 06:28:11",
-  "count": 13657,
+  "updated": "2026-09-21 06:31:58",
+  "count": 13653,
   "items": [
     {
       "id": "5104395",
@@ -125108,43 +125108,6 @@
         "Japan & APAC"
       ],
       "text": "New Zealand Performance of Services Index for August 51.2; prior 50.6."
-    },
-    {
-      "id": "mkt:01a09ce6-06b1-7118-855f-fba52903b7e1",
-      "time": "2026-09-14 06:31:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Services Index (Aug) | actual 51.2 | previous 50.6"
-    },
-    {
-      "id": "5091794",
-      "time": "2026-09-14 06:31:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic向投資者披露盈利情況：將連續第二個季度實現盈利。"
-    },
-    {
-      "id": "mkt:01a09ce5-89e0-7118-855f-f3b468c7458b",
-      "time": "2026-09-14 06:31:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he finds Canada the hardest country to deal with and that Canada is eager to reach a deal."
-    },
-    {
-      "id": "5091793",
-      "time": "2026-09-14 06:31:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic將連續第二個季度實現盈利。"
     }
   ]
 }
