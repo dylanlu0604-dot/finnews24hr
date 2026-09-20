@@ -1,7 +1,27 @@
 {
   "date": "2026-09-20",
-  "count": 133,
+  "count": 135,
   "items": [
+    {
+      "id": "mkt:01a0bc48-4188-7118-8612-ad5207f7d3f6",
+      "time": "2026-09-20 08:47:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2353.TW",
+        "Impact bearish"
+      ],
+      "text": "【Acer: storage shortages partly easing; PC prices may only reverse in H2 2027】Acer chairman Chen Junsheng said on the 19th supply tightness for storage and CPUs remains limited to a few specifications, while shortages for other specs are easing. He said elevated, volatile component prices mean end-market PC prices will likely keep rising in Q4, averaging a 5-20% increase, and may not reverse until H2 2027."
+    },
+    {
+      "id": "5103606",
+      "time": "2026-09-20 08:45:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宏碁：儲存短缺部分緩解 2027年下半年PC價格或將反轉】宏碁董事長陳俊聖19日表示，目前儲存及CPU除少數規格供貨吃緊，其他規格缺料正在緩解，不過因零部件價格高位震盪，預估今年第四季度終端PC產品將持續漲價，平均幅度可能達5-20%，要到2027年下半年價格才有機會反轉。"
+    },
     {
       "id": "5103605",
       "time": "2026-09-20 08:37:54",
