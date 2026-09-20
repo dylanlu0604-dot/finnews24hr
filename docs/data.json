@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-21 05:26:15",
-  "count": 13693,
+  "updated": "2026-09-21 05:30:04",
+  "count": 13692,
   "items": [
+    {
+      "id": "5104383",
+      "time": "2026-09-21 05:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚計劃於週三在聯合國大會上發表講話，預計屆時將闡述伊朗對國際事態的立場，尤其是對美國和以色列對伊朗發動的侵略戰爭的立場。"
+    },
     {
       "id": "mkt:01a0c0b5-9516-7118-8619-ad12cc0fe73a",
       "time": "2026-09-21 05:25:20",
@@ -125451,27 +125459,6 @@
         "MKT News"
       ],
       "text": "【UK PM Burnham to meet business leaders to discuss growth and investment】UK Prime Minister Burnham will tell business leaders on Monday the government will be a partner for economic growth and said a cultural shift is needed to encourage entrepreneurship. He will hold a roundtable with entrepreneurs from AI, fintech, healthtech, manufacturing and quantum computing, then host top corporate executives at a Downing Street reception. Downing Street said the event will focus on how government can simplify starting, scaling and investing in companies while ensuring growth benefits local communities. On Sunday Burnham said the UK has the talent, universities and visionary communities required but must change the way business operates to unlock its full potential."
-    },
-    {
-      "id": "5091753",
-      "time": "2026-09-14 05:27:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "奈飛暗盤跌破74美元，日內跌5.9%。"
-    },
-    {
-      "id": "mkt:01a09caa-2ace-7118-855f-79c77666f830",
-      "time": "2026-09-14 05:26:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to an Axios global affairs reporter, a senior Gulf state official said Saudi Arabia has submitted amendments to an Oman-Iran proposal on the Strait of Hormuz, arguing the draft wording could effectively establish a new status quo in the strait—an outcome Saudi Arabia and other GCC states deem unacceptable."
     }
   ]
 }
