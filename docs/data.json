@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21 03:39:12",
-  "count": 13699,
+  "updated": "2026-09-21 03:42:59",
+  "count": 13690,
   "items": [
     {
       "id": "mkt:01a0c053-3954-7118-8619-33c84331fdc9",
@@ -125465,111 +125465,6 @@
         "國際"
       ],
       "text": "沙特：外交部長接到了阿聯酋外長的電話，雙方就遏制地區局勢升級的努力進行了討論。"
-    },
-    {
-      "id": "5091736",
-      "time": "2026-09-14 03:41:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼外交部：原定於14日舉行的地區會議延期】當地時間13日晚，阿曼外交部宣佈，原定於14日在阿曼南部港口城市塞拉萊舉行的地區會議將推遲。日期另行確定。宣告稱，此舉旨在為建設性對話創造適宜條件，推動達成有助於維護地區安全與穩定的可持續共識，並回應地區各國人民對合作與和平的期待。阿曼外交大臣巴德爾當天也在社交媒體發文稱，為促進各方達成共識，原定次日在塞拉萊舉行的地區會議已被推遲。阿曼將繼續致力於推動地區對話，以支援地區穩定和長期合作。（央視新聞）"
-    },
-    {
-      "id": "5091735",
-      "time": "2026-09-14 03:41:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟CEO納德拉：支援AI審慎發展與嵌入式評估機制】微軟CEO納德拉在社交媒體發文表示，任何對超級智慧的探索都必須基於一項核心原則，如果開發的人工智慧不能造福人類且不受人類控制，就不值得去研發。微軟還需要加快並普及人工智慧帶來的益處，使其廣泛惠及各國、各社群和企業。這需要一個前沿生態，讓閉源和開源模型都能蓬勃發展。對於企業來說，必須完全掌握自身獨有的隱性知識。每個機構都應能夠搭建自己的持續學習迴圈/迭代最佳化系統，不必依賴任何單一模型供應商，並能夠將自身知識嵌入到自己可控的模型與權重中。因此，在此背景下，我們支援以實現對齊為設計目標所需的研究、專注投入和審慎節奏。我們也支援“嵌入式評估器”等構想以及更多相關機制建設，讓想法不只是空談。關鍵是這項工作不能由少數主體掌控，而必須吸納來自整個生態、各國、各領域（包括學術界）的廣泛參與。這就是我們採取的方案：在人工智慧技術棧的每一層提供廣泛訪問許可權與選擇；企業自主掌控學習迴圈與模型；以及支撐微軟自研MAI模型的《行為準則》，我們將於明日釋出該準則，公開徵求意見。"
-    },
-    {
-      "id": "mkt:01a09c49-fc42-7118-855e-fafb15aef0d7",
-      "time": "2026-09-14 03:41:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft chairman and CEO Satya Nadella said the company will provide broad access and choice across every layer of the AI technology stack, allow enterprises to control continuous learning loops and their models, and follow a \"code of conduct\" applicable to Microsoft's first-party MAI models. Microsoft will publish the code tomorrow for public comment."
-    },
-    {
-      "id": "mkt:01a09c49-80d3-7118-855e-f245d2245aa2",
-      "time": "2026-09-14 03:40:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft chairman and CEO Nadella said the key is that this field should not be controlled by a few entities; the entire ecosystem—across countries, sectors and academia—must be broadly involved."
-    },
-    {
-      "id": "mkt:01a09c49-6325-7118-855e-e8091ccb1425",
-      "time": "2026-09-14 03:40:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O"
-      ],
-      "text": "Microsoft chairman and CEO Satya Nadella said the company welcomes necessary research, scrutiny and a deliberate pace to ensure \"alignment\" becomes a design goal. He also welcomed \"embedded evaluators\" and broader efforts to build mechanisms that make those concepts operational rather than merely rhetorical."
-    },
-    {
-      "id": "mkt:01a09c49-1d3e-7118-855e-e31b7b21d649",
-      "time": "2026-09-14 03:40:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O"
-      ],
-      "text": "Microsoft chairman and CEO Nadella said enterprises must retain full control of their unique, tacit knowledge. He said each organization should be able to build its own continuous learning loop and \"climbing machine\" without relying on a single model vendor, and embed its knowledge into models and model weights it controls."
-    },
-    {
-      "id": "mkt:01a09c48-ab83-7118-855e-dd7af7047471",
-      "time": "2026-09-14 03:40:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft chairman and CEO Satya Nadella said the company must accelerate AI development and broaden its benefits to countries, communities and businesses, urging the construction of a frontier AI ecosystem in which both closed‑source and open‑source models can thrive."
-    },
-    {
-      "id": "mkt:01a09c48-66ab-7118-855e-d7f6a674e412",
-      "time": "2026-09-14 03:39:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O"
-      ],
-      "text": "Microsoft chairman and CEO Nadella said any pursuit of superintelligence must rest on a core principle: if the AI we build does not help humanity and cannot be kept under human control, it is not worth continuing to develop."
-    },
-    {
-      "id": "5091734",
-      "time": "2026-09-14 03:39:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部官員：阿曼會議的推遲是應地區部分國家的要求，並由德黑蘭和馬斯喀特共同作出的決定。"
     }
   ]
 }
