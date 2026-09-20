@@ -1,7 +1,159 @@
 {
   "date": "2026-09-21",
-  "count": 123,
+  "count": 139,
   "items": [
+    {
+      "id": "5104381",
+      "time": "2026-09-21 05:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：非洲以南區域發生5.7級地震。"
+    },
+    {
+      "id": "5104380",
+      "time": "2026-09-21 04:59:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯將擴建俄原子能公司旗下的阿拉布加-沃洛克諾工廠。"
+    },
+    {
+      "id": "mkt:01a0c097-6eb4-7118-8619-9fa0626981eb",
+      "time": "2026-09-21 04:52:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Mehr News Agency, citing Yemeni sources, reported Saudi Arabia carried out strikes in al-Jawf province in northern Yemen."
+    },
+    {
+      "id": "5104379",
+      "time": "2026-09-21 04:48:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯正擴建韃靼斯坦的無人機工廠。"
+    },
+    {
+      "id": "mkt:01a0c092-d205-7118-8619-96e32e28c898",
+      "time": "2026-09-21 04:47:22",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "According to CNN, Paramount is in intensive talks with U.S. state attorneys general to resolve an antitrust lawsuit blocking its acquisition of Warner Bros. Discovery; sources say the negotiations have created divisions among the Democratic state attorneys general who filed the suit two months ago."
+    },
+    {
+      "id": "mkt:01a0c08b-0899-7118-8619-8c3b0009885d",
+      "time": "2026-09-21 04:38:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Axios reports US President Trump will meet Ukrainian President Zelenskiy in New York on Tuesday as the US pushes for a de-escalation agreement in the Russia-Ukraine situation."
+    },
+    {
+      "id": "mkt:01a0c087-4f8b-7118-8619-83dc367e3e9e",
+      "time": "2026-09-21 04:34:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Macron backs closer Canada-EU alignment, supports Canada as EU \"associate member\"】Macron said France supports closer alignment between Canada and the EU and backs Canada becoming an EU \"associate member.\" Speaking in Saint-Pierre and Miquelon with visiting Canadian Prime Minister Carney, he said the two countries will deepen cooperation on fisheries, security and energy."
+    },
+    {
+      "id": "5104378",
+      "time": "2026-09-21 04:32:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：警惕AI末日敘事，部分人士意在謀求豁免現行法律管控】英偉達CEO黃仁勳直指達里奧與奧特曼借“失控人工智慧”造勢，以此規避現行法律下的鉅額訴訟風險。“不要讓這種末日論調，使得他們得以豁免於現有法律。要讀懂言外之意：他們其實並非要求新增法律，而是希望擺脫我們當下已有的法律約束。”"
+    },
+    {
+      "id": "mkt:01a0c082-3876-7118-8619-7d036353360b",
+      "time": "2026-09-21 04:29:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Nikkei: Japan to partner with machinery makers to gather factory data for physical AI】The Japanese government will work with major machinery manufacturers to collect machine-learning data for physical AI applications such as autonomous robots, assigning unique IDs to factory equipment to enable cross-vendor data aggregation, Nikkei reports. Japan targets a domestic AI-robotics industry worth 20 trillion yen by 2040 (about $127 billion) and aims to secure over 30% of the global market, leveraging its manufacturing base to supply high-quality training data for domestic robot development."
+    },
+    {
+      "id": "5104377",
+      "time": "2026-09-21 04:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認與伊拉克航班全面停飛傳聞】伊朗民航組織發言人表示，截至目前，伊拉克政府、交通部或該國航空主管部門均未就全面停飛伊朗與伊拉克之間的航班釋出任何官方宣告。有關取消伊拉克與伊朗之間所有航班的說法未獲官方證實。"
+    },
+    {
+      "id": "mkt:01a0c07c-4fa4-7118-8619-7132c4e22638",
+      "time": "2026-09-21 04:22:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nikkei reports Japan will use industrial machinery to collect physical-world AI data."
+    },
+    {
+      "id": "5104376",
+      "time": "2026-09-21 04:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本將利用工業機械採集物理AI資料。"
+    },
+    {
+      "id": "mkt:01a0c07a-d058-7118-8619-6c4cf2684aa8",
+      "time": "2026-09-21 04:21:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies reports of full suspension of flights with Iraq】Iran's Civil Aviation Organization said no official statement from the Iraqi government, transport ministry or aviation regulator has ordered a full suspension of flights between Iran and Iraq. Reports that all Iran-Iraq flights have been cancelled are unconfirmed and denied."
+    },
+    {
+      "id": "mkt:01a0c077-7606-7118-8619-65e218ac2ad4",
+      "time": "2026-09-21 04:17:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Lebanon FM says will restore sovereignty via negotiations, will not allow others to negotiate for Lebanon】Lebanese foreign minister told Saudi outlet Alhadath that Lebanon condemns the attacks on Saudi Arabia and has resumed autonomous decision‑making; it will not allow any third party to negotiate on its behalf. He said negotiations succeeded in stopping attacks on Beirut and nearby areas, military action has devastated the south and displaced civilians, and ending Israeli occupation can only be achieved through negotiations. He described the talks as long and complex but pledged to continue until full sovereignty is restored, and said decisions to limit weapons are an internal matter unrelated to negotiations with Israel."
+    },
+    {
+      "id": "5104375",
+      "time": "2026-09-21 04:14:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本計劃到2040年實現人工智慧機器人產業規模達20萬億日元，全球市場份額超30%。"
+    },
+    {
+      "id": "5104374",
+      "time": "2026-09-21 04:12:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【默茨稱梅前州選舉為一場災難，基民盟二戰後或將首次無緣州議會】德國基民盟在梅克倫堡-前波美拉尼亞州得票率存在跌破5%門檻的風險，這將是二戰後基民盟首次無緣任何州議會。該黨得票率從2021年的13.3%下滑至今晚約4.9%。與此同時，德國選擇黨得票率飆升至約38%，票數翻番以上，成為該州第一大黨。默茨總理稱這是一場“災難”，無需粉飾。同一天晚間，基民盟在柏林州選舉同樣慘敗，左翼黨拿下柏林州頭名。最終官方結果將決定基民盟是驚險跨過門檻，還是創下這一負面歷史紀錄。"
+    },
     {
       "id": "5104373",
       "time": "2026-09-21 04:05:12",

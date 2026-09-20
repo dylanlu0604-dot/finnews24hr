@@ -1,7 +1,159 @@
 {
-  "updated": "2026-09-21 04:13:06",
-  "count": 13699,
+  "updated": "2026-09-21 05:18:32",
+  "count": 13694,
   "items": [
+    {
+      "id": "5104381",
+      "time": "2026-09-21 05:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：非洲以南區域發生5.7級地震。"
+    },
+    {
+      "id": "5104380",
+      "time": "2026-09-21 04:59:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯將擴建俄原子能公司旗下的阿拉布加-沃洛克諾工廠。"
+    },
+    {
+      "id": "mkt:01a0c097-6eb4-7118-8619-9fa0626981eb",
+      "time": "2026-09-21 04:52:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Mehr News Agency, citing Yemeni sources, reported Saudi Arabia carried out strikes in al-Jawf province in northern Yemen."
+    },
+    {
+      "id": "5104379",
+      "time": "2026-09-21 04:48:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯正擴建韃靼斯坦的無人機工廠。"
+    },
+    {
+      "id": "mkt:01a0c092-d205-7118-8619-96e32e28c898",
+      "time": "2026-09-21 04:47:22",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "According to CNN, Paramount is in intensive talks with U.S. state attorneys general to resolve an antitrust lawsuit blocking its acquisition of Warner Bros. Discovery; sources say the negotiations have created divisions among the Democratic state attorneys general who filed the suit two months ago."
+    },
+    {
+      "id": "mkt:01a0c08b-0899-7118-8619-8c3b0009885d",
+      "time": "2026-09-21 04:38:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Axios reports US President Trump will meet Ukrainian President Zelenskiy in New York on Tuesday as the US pushes for a de-escalation agreement in the Russia-Ukraine situation."
+    },
+    {
+      "id": "mkt:01a0c087-4f8b-7118-8619-83dc367e3e9e",
+      "time": "2026-09-21 04:34:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Macron backs closer Canada-EU alignment, supports Canada as EU \"associate member\"】Macron said France supports closer alignment between Canada and the EU and backs Canada becoming an EU \"associate member.\" Speaking in Saint-Pierre and Miquelon with visiting Canadian Prime Minister Carney, he said the two countries will deepen cooperation on fisheries, security and energy."
+    },
+    {
+      "id": "5104378",
+      "time": "2026-09-21 04:32:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：警惕AI末日敘事，部分人士意在謀求豁免現行法律管控】英偉達CEO黃仁勳直指達里奧與奧特曼借“失控人工智慧”造勢，以此規避現行法律下的鉅額訴訟風險。“不要讓這種末日論調，使得他們得以豁免於現有法律。要讀懂言外之意：他們其實並非要求新增法律，而是希望擺脫我們當下已有的法律約束。”"
+    },
+    {
+      "id": "mkt:01a0c082-3876-7118-8619-7d036353360b",
+      "time": "2026-09-21 04:29:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Nikkei: Japan to partner with machinery makers to gather factory data for physical AI】The Japanese government will work with major machinery manufacturers to collect machine-learning data for physical AI applications such as autonomous robots, assigning unique IDs to factory equipment to enable cross-vendor data aggregation, Nikkei reports. Japan targets a domestic AI-robotics industry worth 20 trillion yen by 2040 (about $127 billion) and aims to secure over 30% of the global market, leveraging its manufacturing base to supply high-quality training data for domestic robot development."
+    },
+    {
+      "id": "5104377",
+      "time": "2026-09-21 04:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認與伊拉克航班全面停飛傳聞】伊朗民航組織發言人表示，截至目前，伊拉克政府、交通部或該國航空主管部門均未就全面停飛伊朗與伊拉克之間的航班釋出任何官方宣告。有關取消伊拉克與伊朗之間所有航班的說法未獲官方證實。"
+    },
+    {
+      "id": "mkt:01a0c07c-4fa4-7118-8619-7132c4e22638",
+      "time": "2026-09-21 04:22:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nikkei reports Japan will use industrial machinery to collect physical-world AI data."
+    },
+    {
+      "id": "5104376",
+      "time": "2026-09-21 04:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本將利用工業機械採集物理AI資料。"
+    },
+    {
+      "id": "mkt:01a0c07a-d058-7118-8619-6c4cf2684aa8",
+      "time": "2026-09-21 04:21:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies reports of full suspension of flights with Iraq】Iran's Civil Aviation Organization said no official statement from the Iraqi government, transport ministry or aviation regulator has ordered a full suspension of flights between Iran and Iraq. Reports that all Iran-Iraq flights have been cancelled are unconfirmed and denied."
+    },
+    {
+      "id": "mkt:01a0c077-7606-7118-8619-65e218ac2ad4",
+      "time": "2026-09-21 04:17:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Lebanon FM says will restore sovereignty via negotiations, will not allow others to negotiate for Lebanon】Lebanese foreign minister told Saudi outlet Alhadath that Lebanon condemns the attacks on Saudi Arabia and has resumed autonomous decision‑making; it will not allow any third party to negotiate on its behalf. He said negotiations succeeded in stopping attacks on Beirut and nearby areas, military action has devastated the south and displaced civilians, and ending Israeli occupation can only be achieved through negotiations. He described the talks as long and complex but pledged to continue until full sovereignty is restored, and said decisions to limit weapons are an internal matter unrelated to negotiations with Israel."
+    },
+    {
+      "id": "5104375",
+      "time": "2026-09-21 04:14:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本計劃到2040年實現人工智慧機器人產業規模達20萬億日元，全球市場份額超30%。"
+    },
+    {
+      "id": "5104374",
+      "time": "2026-09-21 04:12:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【默茨稱梅前州選舉為一場災難，基民盟二戰後或將首次無緣州議會】德國基民盟在梅克倫堡-前波美拉尼亞州得票率存在跌破5%門檻的風險，這將是二戰後基民盟首次無緣任何州議會。該黨得票率從2021年的13.3%下滑至今晚約4.9%。與此同時，德國選擇黨得票率飆升至約38%，票數翻番以上，成為該州第一大黨。默茨總理稱這是一場“災難”，無需粉飾。同一天晚間，基民盟在柏林州選舉同樣慘敗，左翼黨拿下柏林州頭名。最終官方結果將決定基民盟是驚險跨過門檻，還是創下這一負面歷史紀錄。"
+    },
     {
       "id": "5104373",
       "time": "2026-09-21 04:05:12",
@@ -125331,202 +125483,6 @@
         "Brent"
       ],
       "text": "【Multiple blasts reported in Sirik, Hormozgan province, Iran】Several loud explosions were heard in the Sirik area of Hormozgan province, Iran, in the early hours of the 14th local time. The nature of the blasts is unclear and authorities have issued no official statement."
-    },
-    {
-      "id": "mkt:01a09c9f-6cac-7118-855f-6bd25c601b03",
-      "time": "2026-09-14 05:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign ministry said Deputy Minister for International and Multilateral Affairs and Deputy Undersecretary for Economic and Development Affairs Abdulrahman Al-Rassi met Pakistan’s ambassador to Saudi Arabia, Ahmed Farooq, to discuss matters of mutual concern."
-    },
-    {
-      "id": "mkt:01a09c9d-c34a-7118-855f-673126a90c30",
-      "time": "2026-09-14 05:12:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Iran central bank governor heads to Istanbul to discuss new trade mechanisms】Iran’s central bank governor has departed for Istanbul and will meet central bank governors from Islamic countries to discuss deepening banking and trade ties and to consider creating new mechanisms to facilitate trade, the Mehr news agency reported."
-    },
-    {
-      "id": "mkt:01a09c9c-ef74-7118-855f-5aa56c845188",
-      "time": "2026-09-14 05:12:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran senior lawmaker says US understands only \"language of force\"】State media quoted Abbas, spokesman for Iran's parliamentary presidium, saying the United States is duplicitous and \"only understands the language of force and power politics.\" He warned against negotiations that would weaken Iran's regional allies and said withdrawing from the Nuclear Non‑Proliferation Treaty would be \"a fully achievable and easily executed step.\" He said Israel, which possesses an undeclared nuclear arsenal, is among the small number of states that have not signed the treaty."
-    },
-    {
-      "id": "mkt:01a09c94-3423-7118-855f-5249c094bd52",
-      "time": "2026-09-14 05:02:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "IRNA reports confirmed explosions heard in the Sirik area of Hormozgan province, Iran; cause and source unclear."
-    },
-    {
-      "id": "5091749",
-      "time": "2026-09-14 05:02:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗錫裡克發生多起爆炸。"
-    },
-    {
-      "id": "5091748",
-      "time": "2026-09-14 05:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部稱，自恢復對往返伊朗船隻的封鎖以來，已有101艘船隻被要求改道。"
-    },
-    {
-      "id": "mkt:01a09c92-f0d7-7118-855f-4f849b542106",
-      "time": "2026-09-14 05:01:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CENTCOM: U.S. forces diverted 101 commercial vessels by Sept 13】CENTCOM said U.S. forces had diverted 101 commercial vessels as of Sept 13 to ensure compliance."
-    },
-    {
-      "id": "5091747",
-      "time": "2026-09-14 04:58:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門媒體：沙特戰機兩次轟炸焦夫省哈卜瓦沙阿夫地區一處每週開市的公共集市。"
-    },
-    {
-      "id": "mkt:01a09c84-56ed-7118-855f-476d28b6067a",
-      "time": "2026-09-14 04:45:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swedish broadcaster SVT projects the governing right-wing bloc will win 174 parliamentary seats and the center-left opposition 175 seats."
-    },
-    {
-      "id": "5091746",
-      "time": "2026-09-14 04:36:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤日內漲超1%，現報2.9653美元。"
-    },
-    {
-      "id": "mkt:01a09c7b-1d22-7118-855f-3b53826668ff",
-      "time": "2026-09-14 04:35:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet"
-      ],
-      "text": "【King Charles III to host AI summit as industry voices call for slowdown】The New York Times reported King Charles III will meet AI industry leaders this week at Dumfries House in southwest Scotland to discuss socially beneficial development and deployment. Buckingham Palace said attendees will include NVIDIA, Google, DeepMind, OpenAI and ANTHROPIC alongside government officials. The meeting comes as AI insiders and some company leaders warn rapid, unchecked development could pose global risks and have urged shared guidelines and a deliberate slowdown to give society time to adapt."
-    },
-    {
-      "id": "5091745",
-      "time": "2026-09-14 04:34:30",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "查爾斯三世將在蘇格蘭會見AI行業領袖，包括英偉達、谷歌DeepMind負責人，OpenAI、Anthropic等企業高管。"
-    },
-    {
-      "id": "mkt:01a09c79-f4ba-7118-855f-3319226ba08a",
-      "time": "2026-09-14 04:33:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran, Oman postpone Gulf states' foreign ministers' meeting】Tasnim reported Iran's foreign ministry director-general for Persian Gulf affairs said the Gulf states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by mutual decision of Oman and Iran; a new date will be set. Iran and Oman are in close consultations to coordinate timing."
-    },
-    {
-      "id": "5091744",
-      "time": "2026-09-14 04:32:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國王查爾斯本週將會見人工智慧企業負責人。"
-    },
-    {
-      "id": "5091743",
-      "time": "2026-09-14 04:32:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列文化與體育部長威脅，將吊銷兩名電影導演的公民身份，二人拍攝了一部講述以色列對加沙實施種族滅絕戰爭的紀錄片。"
-    },
-    {
-      "id": "5091741",
-      "time": "2026-09-14 04:28:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【克羅埃西亞布拉奇島發生山火 近700人被疏散】近日，克羅埃西亞布拉奇島發生大規模山火。當地時間12日夜間，火勢向該島的米爾納鎮及附近海灣蔓延，近700名當地居民和遊客被緊急疏散。當地消防部門出動了4架消防飛機參與滅火。13日，山火仍未被完全撲滅，目前過火面積已達到3500公頃。布拉奇島位於克羅埃西亞亞得里亞海沿岸，是該國重要的旅遊目的地。（央視新聞）"
-    },
-    {
-      "id": "5091740",
-      "time": "2026-09-14 04:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【無視英國反對 特朗普再挺“愛爾蘭統一”】據外媒報道，美國總統特朗普13日再次表示，他支援北愛爾蘭脫離英國，“與愛爾蘭統一”。此前一天，特朗普發表類似言論，已引發英國政界強烈反對。特朗普當天在愛爾蘭對媒體說：“有北愛爾蘭，也有愛爾蘭。在我看來，把它們合併在一起似乎是再自然不過的事情。”在被問到蘇格蘭問題時，特朗普稱，這個問題目前不會談，“留到以後再說”。（新華社）"
-    },
-    {
-      "id": "mkt:01a09c74-e889-7118-855f-2a7e2dfb99b7",
-      "time": "2026-09-14 04:28:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【Trump backs Irish unification again despite UK opposition】US President Trump on the 13th reiterated support for Northern Ireland leaving the UK to unify with Ireland, saying merging them “seems only natural.” The comment, made in Ireland after similar remarks the previous day, drew strong objections from UK politicians. On Scotland he said the issue “won’t be discussed now” and should be left for later."
-    },
-    {
-      "id": "mkt:01a09c6f-a463-7118-855f-235f897f5b29",
-      "time": "2026-09-14 04:22:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadath reported Yemeni government forces have retaken positions west of Taiz previously infiltrated by Houthi fighters and have advanced toward the Jir Bani Omar area as part of operations to expel Houthi forces from Taiz province."
-    },
-    {
-      "id": "mkt:01a09c6c-4e0d-7118-855f-1f9d7f7335ee",
-      "time": "2026-09-14 04:18:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi Arabia has asked Oman to postpone the Iran-Iraq-Gulf Cooperation Council meeting scheduled in Oman tomorrow, citing an attack from Iraqi territory on a Saudi east-west oil pipeline. Bahrain withdrew from the meeting yesterday; the United Arab Emirates was expected to attend."
-    },
-    {
-      "id": "5091739",
-      "time": "2026-09-14 04:14:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萊茵河低水位或致德國鉅額經濟損失】13日，德國萊茵蘭-普法爾茨州工商會發言人妮科爾·拉博爾德表示，受持續低水位影響，萊茵河貨運能力大幅下降，預計今年將給德國經濟造成鉅額損失。但損失是否會超過2018年仍有待觀察。2018年萊茵河低水位至少造成24億歐元經濟損失。萊茵河承擔德國約80%的內河貨物運輸，是德國工業運輸“大動脈”。今年以來，德國多次遭遇高溫天氣，河流水位持續偏低，嚴重影響萊茵河貨運，一些貨船已無法通航，另一些只能空載航行。（央視新聞）"
     }
   ]
 }
