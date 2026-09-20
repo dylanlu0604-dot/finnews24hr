@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-20 10:02:34",
-  "count": 13508,
+  "updated": "2026-09-20 10:06:26",
+  "count": 13510,
   "items": [
+    {
+      "id": "mkt:01a0bc90-47b3-7118-8613-1cb35d4b65f4",
+      "time": "2026-09-20 10:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French public debt ratio projected at 119.3% in 2026】France's Economy and Finance Ministry said on the 19th that the general government debt-to-GDP ratio is rising and is projected to reach 119.3% in 2026 and 121.7% in 2027. INSEE reported public debt stood at €3.5361 tln at end‑Q1 2026, or 117.5% of GDP, up from 115.7% at end‑2025. The ratio is now third-highest in the euro area, below only Greece and Italy."
+    },
+    {
+      "id": "5103647",
+      "time": "2026-09-20 10:05:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國鐵路：1至8月份國家鐵路傳送貨物26.9億噸】中國鐵路訊息，今年1至8月，國家鐵路累計傳送貨物26.9億噸，日均裝車18.74萬車，比去年同期微增，持續保持高位執行，為降低全社會物流成本、保障國民經濟平穩執行提供了可靠運輸支撐。"
+    },
+    {
+      "id": "5103646",
+      "time": "2026-09-20 10:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省南陽市政府原副市長阿穎被開除公職】據河南省紀委監委訊息：經中共河南省委批准，河南省監委對南陽市政府原副市長阿穎嚴重違法問題進行了立案調查。經查，阿穎無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金；違背組織原則，不按規定報告個人有關事項，違規為他人謀取人事利益並收受財物；廉潔底線失守，透過民間借貸獲取大額回報；大搞權錢交易，利用職權為他人在承攬專案、職務提拔等方面提供幫助，非法收受鉅額財物。阿穎行為已構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大、十九大乃至二十大後仍然不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，由河南省監委給予其開除公職處分；沒收其違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "5103645",
+      "time": "2026-09-20 10:02:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊成立光互連科技公司】企查查APP顯示，近日，江西天孚光互連科技有限公司成立，經營範圍包含：光電子器件製造，光電子器件銷售，電子元器件製造，電子元器件零售等。企查查股權穿透顯示，該公司由天孚通訊（300394）全資持股。"
+    },
+    {
+      "id": "5103644",
+      "time": "2026-09-20 10:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省委書記到少林寺管理處調研】河南省委書記劉寧9月19日到登封市調研推進文旅融合發展、歷史文物保護、宗教事務治理等工作。劉寧察看登封“天地之中”歷史建築群部分重點文物，瞭解文物本體保護、消防設施運維等情況。在嵩山世界地質公園，劉寧實地檢查園區安全管理、生態保護修復等情況。劉寧還來到少林寺管理處，聽取有關工作情況彙報，強調要堅持我國宗教中國化方向，提高宗教事務治理法治化水平，不斷鞏固發展民族團結、宗教和順的良好局面。 (河南日報)"
+    },
     {
       "id": "5103643",
       "time": "2026-09-20 10:01:33",
@@ -123951,32 +123991,6 @@
         "MKT News"
       ],
       "text": "【Yemen government forces regroup after western coast setback, Marib governor says】Sultan Al-Arada, a member of Yemen’s Presidential Leadership Council and governor of Marib, said government forces that withdrew from the western coast are regrouping in Marib and will return to the battlefield. He called the western coast setback “painful and unfortunate,” blamed the Houthi movement for stalling the peace process and “forcing the return of war options.” Al-Arada said government troops remain engaged on multiple fronts and still aim to retake the capital Sana'a; he added the withdrawn units are reorganizing and “will in some form return to fighting.”"
-    },
-    {
-      "id": "mkt:01a09883-c439-7118-8559-46f5b22f1e83",
-      "time": "2026-09-13 10:06:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Telecom GM Liu Guoqing urges deeper compute‑power integration across planning, construction and operation】At the 2026 China Compute Power Conference in Langfang, Hebei (Sept. 11-13), China Telecom General Manager Liu Guoqing proposed three initiatives to support high‑quality development of the compute industry. First, deepen compute‑power coordination by integrating computing and the power sector across planning, construction and operation; jointly promote green‑power direct supply and source‑grid‑load‑storage models to enable efficient, diversified clean‑energy supply. Second, accelerate compute interconnectivity by cooperating on heterogeneous compute access, full‑area monitoring, cross‑region scheduling and compute‑network integration; co‑build a unified compute identification, metering and trading system to support efficient national compute dispatch and coordination. Third, lift domestic compute efficiency by aligning upstream and downstream industry chains to speed adaptation between domestic compute hardware and models, and develop full‑stack token production and distribution optimization to improve token output efficiency."
-    },
-    {
-      "id": "5091153",
-      "time": "2026-09-13 10:05:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐西蘭工黨承諾，若贏得大選將提升退休儲蓄水平】紐西蘭反對黨工黨承諾，若贏得11月的全國大選，將擴大該國退休儲蓄總規模。紐西蘭工黨財政與經濟事務發言人芭芭拉・埃德蒙茲在一份郵件宣告中表示，自2028年7月起，企業向退休儲蓄賬戶繳費將成為強制要求，到2032年，繳費比例將提升至員工薪酬的6%。宣告還提到，禁止在總薪酬勞動合同中將所謂的紐西蘭養老儲蓄計劃繳費併入員工基本工資。埃德蒙茲說：“國家黨讓紐西蘭民眾儲蓄變得更加困難，現在卻想強制員工增加投入。工黨方案要求僱主繳納與國家黨提案同等水平的費用，同時在民眾資金緊張時，給予員工更大的繳費彈性。”"
-    },
-    {
-      "id": "5091152",
-      "time": "2026-09-13 10:02:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超介紹釋出五年規劃著裝寓意】香港特區行政長官李家超 將在9月16日發表《香港第一個五年規劃》以及任內第五份《施政報告》。他今日（13日）表示，屆時，他與團隊除了會戴上由香港高等教育科技學院師生設計的領帶和絲巾外，更會戴上由師生設計的襟章。 李家超介紹，藍色襟章寫有“一五”，代表《香港第一個五年規劃》。圖案以雙正方相疊為意念，寓意香港匯聚社會四面八方的資源及多元人才，全面深化高質量發展，持續鞏固並提升整體經濟實力同競爭力，在國際舞臺上綻放光芒。領帶和絲巾的設計靈感，源自北部都會區的科技發展，象徵引領香港開創國際創新科技新格局。憑藉前瞻教育佈局，廣納全球精英人才，共同構築香港獨一無二的國際人才高地；領帶上縱橫交織的科技紋路，象徵內聯外通同互聯互通，推動人才、教育與產業深度協同，驅動生生不息的智慧引擎。 （大灣區之聲）"
     }
   ]
 }
