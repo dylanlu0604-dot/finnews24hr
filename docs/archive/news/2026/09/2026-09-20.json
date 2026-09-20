@@ -1,7 +1,1267 @@
 {
   "date": "2026-09-20",
-  "count": 706,
+  "count": 841,
   "items": [
+    {
+      "id": "5104159",
+      "time": "2026-09-20 23:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府將就規模達3500億美元的美國投資專案向國會作彙報。"
+    },
+    {
+      "id": "mkt:01a0bf86-a6dc-7118-8617-df07f986d952",
+      "time": "2026-09-20 23:54:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Kashkari says inflation pressures have spread across U.S. economy】Minneapolis Fed President Kashkari said U.S. inflation remains too high and that pressures have spread beyond the oil-price shock from the Iran war into multiple sectors. He said consumers’ inflation experience is not just about fuel and that services are showing inflationary signs. Kashkari reiterated the Fed’s duty to return inflation to target and said the central bank has the tools to do so. He was one of three dissenters in July’s decision to hold rates, having favored a hike and warning that delay could entrench inflation and require more aggressive tightening. He added the U.S. economy and labor market remain resilient despite geopolitical and trade pressures and said he hopes fading conflict effects and stronger growth will speed disinflation and ease Fed policy pressure."
+    },
+    {
+      "id": "mkt:01a0bf84-c523-7118-8617-d3ab70282438",
+      "time": "2026-09-20 23:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhipu MaaS platform to add no-content-retention option】On the evening of Sept. 20, Zhipu said its MaaS platform will soon roll out a no-content-retention feature to strengthen data privacy for enterprise and developer users. The company said the feature is not an unconditional blanket non-retention: functions that require server-side persistence, such as BatchAPI and FileAPI, are excluded, and the platform may retain related data for 30 days or longer where required by law or to investigate suspected violations or misuse."
+    },
+    {
+      "id": "5104158",
+      "time": "2026-09-20 23:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們歡迎任何能夠帶來持久安全與和平的會談，我們在這個努力中需要目標的統一。"
+    },
+    {
+      "id": "mkt:01a0bf83-873f-7118-8617-ce55787a916e",
+      "time": "2026-09-20 23:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said Iran welcomes any dialogue that can deliver lasting security and peace, but parties must share common objectives during the process."
+    },
+    {
+      "id": "5104157",
+      "time": "2026-09-20 23:50:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜MaaS平臺上線資料內容不留存機制】9月20日晚間，智譜MaaS平臺官方宣佈，近期將上線資料內容不留存功能，為企業和開發者使用者提供更嚴格的資料隱私保護。智譜表示，這個功能並不意味著任何情形下都不留存資料。Batch API、File API等需要在平臺側持久化儲存任務或檔案的功能不在上述覆蓋範圍內，以及法律法規要求留存、為核查涉嫌違規或濫用行為的情況，平臺可能按有關要求留存相關資料30天及以上。"
+    },
+    {
+      "id": "mkt:01a0bf7e-6548-7118-8617-b9af368ac64e",
+      "time": "2026-09-20 23:45:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump says Yemen's Houthi rebels agreed not to engage in hostilities with US】According to Fox News on the 20th, President Trump said in a phone interview the US has been in contact with Yemen's Houthi rebels and that the Houthis agreed not to engage in hostilities with the US."
+    },
+    {
+      "id": "5104156",
+      "time": "2026-09-20 23:43:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱葉門胡塞武裝同意不與美國交戰】據美國福克斯新聞頻道20日報道，美國總統特朗普當天在接受電話採訪時表示，美國與葉門胡塞武裝一直保持溝通，胡塞武裝同意不與美國交戰。（新華社）"
+    },
+    {
+      "id": "5104155",
+      "time": "2026-09-20 23:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列參謀長：軍隊處於高度戒備狀態，已部署並在所有戰線配備增援部隊。"
+    },
+    {
+      "id": "5104154",
+      "time": "2026-09-20 23:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克媒體援引安全訊息源報道，埃爾比勒機場附近發生的事件屬於受控爆破，並非襲擊。"
+    },
+    {
+      "id": "5104153",
+      "time": "2026-09-20 23:41:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部稱，自對伊朗實施禁運以來，已為109艘商船調整航線，以確保完全遵守相關規定。"
+    },
+    {
+      "id": "5104152",
+      "time": "2026-09-20 23:38:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街預計美債短期發行規模將達1萬億美元】華爾街銀行預計，美國未來一年將透過發行短期國債借入約1萬億美元，以滿足不斷增長的政府融資需求。美國銀行預計，在截至2027年9月的新財年中，美國不計用於償還到期債務的新增借款規模約為1.07萬億美元；摩根大通預計2027年短期國債發行規模約1.09萬億美元，高盛預計為9610億美元。短債發行增加之際，美國長期借款成本已升至2007年以來最高水平，財政部長斯科特·貝森特此前希望透過擴大10年至30年期美債回購壓低長端利率。美國銀行預計，到明年9月，美國未償短期國債規模將升至約8萬億美元，佔可交易國債比例達到24.3%；高盛預計該比例明年為24.3%，2028年升至24.9%。這一水平接近疫情期間高點，而美國財政部借款諮詢委員會此前建議長期維持短債佔比約20%。分析人士表示，增加短債發行有助於降低當前融資成本，但也會提高未來再融資風險。美國銀行利率策略主管Mark Cabana表示，財政部正在平衡債券市場供需，但大量發行短債可能導致利息支出“更大且更波動”。與此同時，美聯儲今年已購買大量短期國債，貨幣市場基金約8萬億美元的資產規模也為短債提供需求支援。"
+    },
+    {
+      "id": "mkt:01a0bf77-f486-7118-8617-b2c4bd52caee",
+      "time": "2026-09-20 23:38:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Wall Street sees roughly $1tn of short-term Treasury issuance over next year】Wall Street banks expect the US to borrow roughly $1tn by issuing short-term Treasuries over the next year to meet rising financing needs, the Financial Times reports. BofA projects net new cash borrowing excluding refunding in the fiscal year to Sept 2027 at about $1.07tn; JP Morgan forecasts $1.09tn of short-term issuance in 2027; Goldman sees $961bn. The rise in bill issuance arrives as long-term borrowing costs sit at their highest since 2007; Treasury Secretary Scott Bessent has pushed to expand 10-30yr buybacks to lower the long end. BofA expects outstanding short-term Treasuries to climb to roughly $8tn by next Sept, about 24.3% of marketable debt; Goldman projects 24.3% next year and 24.9% in 2028 — near pandemic highs and above the Treasury Borrowing Advisory Committee’s ~20% suggested long-run share. Analysts say heavier bill issuance can reduce near-term financing costs but increases future refinancing risk; BofA rates strategist Mark Cabana warned large bill supply could make interest expense larger and more volatile. The Fed’s purchases of short-term Treasuries this year and roughly $8tn in money market fund assets are supporting demand for bills."
+    },
+    {
+      "id": "5104151",
+      "time": "2026-09-20 23:37:13",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【新華圖訊丨中美經貿磋商在美國紐約開始舉行】當地時間9月20日上午，中美兩國經貿團隊在美國紐約開始舉行中美經貿磋商。這是9月20日磋商前，中共中央政治局委員、國務院副總理何立峰與美國財政部長貝森特握手。（新華社）"
+    },
+    {
+      "id": "5104150",
+      "time": "2026-09-20 23:33:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團CEO：期待魯比奧在委內瑞拉相關事務上取得進展。"
+    },
+    {
+      "id": "5104149",
+      "time": "2026-09-20 23:32:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "品浩（PIMCO）CEO羅曼：中東衝突若得到解決，通脹形勢將會好轉。"
+    },
+    {
+      "id": "5104148",
+      "time": "2026-09-20 23:32:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "品浩（PIMCO）CEO羅曼：（美國）通脹與中東戰事存在關聯，公司看好當前利率水平。"
+    },
+    {
+      "id": "mkt:01a0bf72-2a55-7118-8617-aaa3365a790c",
+      "time": "2026-09-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Financial Times reports Wall Street expects the US to issue roughly $1 trillion of short-term debt as borrowing costs rise."
+    },
+    {
+      "id": "5104147",
+      "time": "2026-09-20 23:30:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "華爾街預計美國將發售約1萬億短期債務，融資成本持續上行。"
+    },
+    {
+      "id": "5104146",
+      "time": "2026-09-20 23:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍太平洋司令部：近期導彈發射不構成即時威脅。"
+    },
+    {
+      "id": "5104145",
+      "time": "2026-09-20 23:23:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團CEO：見識到Mythos模型的能力時，並不輕鬆。"
+    },
+    {
+      "id": "5104144",
+      "time": "2026-09-20 23:21:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團CEO：未來數月經濟波動將超出預期。"
+    },
+    {
+      "id": "5104143",
+      "time": "2026-09-20 23:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達財政大臣：2027年經濟反彈將彌補2026年國內生產總值損失。"
+    },
+    {
+      "id": "5104142",
+      "time": "2026-09-20 23:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特：（談石油和伊朗）特朗普會決定何時適可而止。"
+    },
+    {
+      "id": "5104141",
+      "time": "2026-09-20 23:19:11",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "花旗集團CEO：人工智慧發展瓶頸不再是晶片，而是能源。"
+    },
+    {
+      "id": "5104140",
+      "time": "2026-09-20 23:17:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特：（被問及石油相關問題）伊朗與胡塞武裝已經“失控”。"
+    },
+    {
+      "id": "5104139",
+      "time": "2026-09-20 23:16:53",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團CEO：中東地區正經歷一段“痛苦”時期，但屬於暫時性的。"
+    },
+    {
+      "id": "5104138",
+      "time": "2026-09-20 23:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：看到價格朝著正確的方向發展。"
+    },
+    {
+      "id": "mkt:01a0bf5c-71ac-7118-8617-a55aa53fcec1",
+      "time": "2026-09-20 23:08:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "QatarEnergy CEO said some expansion projects may be delayed after key equipment shipments could not reach Qatar due to the Strait of Hormuz crisis."
+    },
+    {
+      "id": "5104137",
+      "time": "2026-09-20 23:07:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：因霍爾木茲海峽危機無法運抵卡達的關鍵裝置，可能導致公司部分擴建專案延期。"
+    },
+    {
+      "id": "mkt:01a0bf5a-72a6-7118-8617-9ab8101e1ae0",
+      "time": "2026-09-20 23:06:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy CEO said the company's LNG supply is substantial, and once the Strait of Hormuz crisis ends buyers will find it hard to ignore QatarEnergy."
+    },
+    {
+      "id": "5104136",
+      "time": "2026-09-20 23:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：卡達液化天然氣產能規模極大，霍爾木茲危機結束後，買家很難忽視卡達能源公司的供應。"
+    },
+    {
+      "id": "mkt:01a0bf59-7f12-7118-8617-943e83bfe3b5",
+      "time": "2026-09-20 23:05:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar Energy's CEO said some LNG trains from the North Field East (NFE) expansion will enter service in 2027, and the North Field South (NFS) expansion will begin producing gas in 2028."
+    },
+    {
+      "id": "5104135",
+      "time": "2026-09-20 23:04:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：希望地區衝突消退，經濟增長與通脹回落成為主線。"
+    },
+    {
+      "id": "5104134",
+      "time": "2026-09-20 23:04:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：通脹存在於經濟各個領域，遠不止石油。"
+    },
+    {
+      "id": "5104133",
+      "time": "2026-09-20 23:03:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：卡達能源正認真考慮與合作伙伴共同進入委內瑞拉市場。"
+    },
+    {
+      "id": "5104132",
+      "time": "2026-09-20 23:03:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：勞動力市場“相當強勁”，失業率為4.1%。"
+    },
+    {
+      "id": "mkt:01a0bf57-cd9b-7118-8617-8dac96e44254",
+      "time": "2026-09-20 23:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "QatarEnergy CEO said the company is seriously considering entering the Venezuelan market alongside partners."
+    },
+    {
+      "id": "5104131",
+      "time": "2026-09-20 23:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：北部油田東擴專案（NFE）的數條液化天然氣生產線將於2027年投產，北部油田南擴專案（NFS）將於2028年投產。"
+    },
+    {
+      "id": "5104130",
+      "time": "2026-09-20 23:02:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒：美軍不會對胡塞武裝發動進攻性打擊】美國有線電視新聞網20日援引一名美國官員的話報道說，美軍不會對葉門胡塞武裝發動“進攻性打擊”。 報道稱，據匿名美國官員披露，迄今為止，美國軍方提供的支援僅限於為沙烏地阿拉伯針對胡塞武裝的打擊行動提供情報和目標資料，近期就此加大與沙特的共享力度，美方認為已向沙特提供其對抗胡塞武裝“所需的一切支援”。（新華社）"
+    },
+    {
+      "id": "5104129",
+      "time": "2026-09-20 23:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本發現失聯“全球鷹”無人機部分殘骸】日本航空自衛隊20日說，日前在鳥取縣附近海域失聯的一架“全球鷹”無人偵察機的部分殘骸已漂至岸邊並被尋獲。日本航空自衛隊披露，這塊殘骸長約1.5米、寬約1.4米，但沒有說明具體是哪種部件。搜尋工作目前仍在繼續。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0bf55-63f3-7118-8617-86d78f885178",
+      "time": "2026-09-20 23:00:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bullish"
+      ],
+      "text": "QatarEnergy CEO says the second and third trains of the Golden Pass LNG project will enter service in 2027."
+    },
+    {
+      "id": "5104128",
+      "time": "2026-09-20 23:00:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：戈爾登帕斯液化天然氣專案的第二條和第三條生產線將於2027年投入運營。"
+    },
+    {
+      "id": "mkt:01a0bf55-38fb-7118-8617-7bee4b9f6523",
+      "time": "2026-09-20 23:00:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "QatarEnergy CEO says Qatar could restore normal natural gas operations within weeks once the Strait of Hormuz reopens."
+    },
+    {
+      "id": "5104127",
+      "time": "2026-09-20 22:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿勒卡比稱，卡達將成為全球遙遙領先的液化天然氣貿易國。"
+    },
+    {
+      "id": "5104126",
+      "time": "2026-09-20 22:58:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司執行長：一旦霍爾木茲海峽重新開放，卡達可在數週內恢復正常天然氣運營。"
+    },
+    {
+      "id": "mkt:01a0bf53-79bc-7118-8617-72bb7019b12f",
+      "time": "2026-09-20 22:58:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy CEO says the company is currently producing \"very little\" LNG."
+    },
+    {
+      "id": "5104125",
+      "time": "2026-09-20 22:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴費伊在向東北方向移動的過程中增強。"
+    },
+    {
+      "id": "5104124",
+      "time": "2026-09-20 22:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿勒卡比稱，霍爾木茲海峽永遠不會失去其重要地位。"
+    },
+    {
+      "id": "mkt:01a0bf51-e778-7118-8617-68cd4ff8cd5a",
+      "time": "2026-09-20 22:56:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. media: U.S. military will not carry out offensive strikes against Houthis】CNN on the 20th, citing an anonymous U.S. official, reported the U.S. military will not carry out offensive strikes against Houthi forces in Yemen. U.S. support to Saudi Arabia has been limited to intelligence and targeting data for Saudi strikes; Washington says it has recently increased sharing and has provided Riyadh with what it needs to counter the Houthis."
+    },
+    {
+      "id": "5104123",
+      "time": "2026-09-20 22:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍不會對胡塞武裝發動進攻性打擊】美國有線電視新聞網20日援引一名美國官員的話報道說，美軍不會對葉門胡塞武裝發動“進攻性打擊”。報道稱，據匿名美國官員披露，迄今為止，美國軍方提供的支援僅限於為沙烏地阿拉伯針對胡塞武裝的打擊行動提供情報和目標資料，近期就此加大與沙特的共享力度，美方認為已向沙特提供其對抗胡塞武裝“所需的一切支援”。（新華社）"
+    },
+    {
+      "id": "5104122",
+      "time": "2026-09-20 22:56:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿勒卡比稱，卡達決定不修建霍爾木茲海峽繞行管道。"
+    },
+    {
+      "id": "5104121",
+      "time": "2026-09-20 22:56:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源大臣阿勒卡比稱，受霍爾木茲海峽局勢影響，卡達多個專案出現延期。"
+    },
+    {
+      "id": "mkt:01a0bf7f-aade-7118-8617-c4b9143c8458",
+      "time": "2026-09-20 22:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said as of Sept. 20 its forces had re-routed 109 commercial vessels to ensure full compliance with relevant requirements."
+    },
+    {
+      "id": "5104120",
+      "time": "2026-09-20 22:52:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部稱，在伊朗封鎖期間，已有 109 艘商船被改道。"
+    },
+    {
+      "id": "5104119",
+      "time": "2026-09-20 22:52:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技：第五代工藝技術平臺實現量產】長鑫科技(688825.SH)公告稱，公司於2026年9月20日在世界製造業大會上宣佈，第五代工藝技術平臺正式實現量產，並同步展出基於該平臺打造的大容量LPDDR5X產品。該平臺量產有助於豐富產品矩陣、提升核心競爭力，截至本公告披露日，公司基於第五代工藝技術平臺的量產產品尚未形成規模銷售，短期內不會對公司經營業績產生重大影響。"
+    },
+    {
+      "id": "5104118",
+      "time": "2026-09-20 22:51:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源事務國務大臣稱卡達目前出口的液化天然氣規模很小。"
+    },
+    {
+      "id": "mkt:01a0bf4b-fbbe-7118-8617-6729e4098d96",
+      "time": "2026-09-20 22:50:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "On the morning of Sept. 20 local time, US and Chinese economic and trade teams began bilateral trade talks in New York."
+    },
+    {
+      "id": "5104117",
+      "time": "2026-09-20 22:50:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美經貿磋商在美國紐約開始舉行】當地時間9月20日上午，中美兩國經貿團隊在美國紐約開始舉行中美經貿磋商。（新華社）"
+    },
+    {
+      "id": "5104116",
+      "time": "2026-09-20 22:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非賽車冠軍遭槍殺 3名嫌疑人被捕】南非警方19日釋出宣告說，已逮捕3名涉嫌槍殺本土知名賽車手羅伯特·沃爾克的嫌疑人。沃爾克曾多次獲得南非國內賽車賽事冠軍。他16日在豪登省埃庫爾胡萊尼都市自治區遭遇一起疑似“路怒症”引發的槍擊事件，當場身亡，終年41歲。有訊息稱，事發時，沃爾克駕駛一輛奧迪汽車與一輛大眾捷達轎車發生碰撞。沃爾克下車檢視車輛受損情況後，與對方發生爭執，隨後遭槍擊。警方在19日的宣告中表示，已抓獲3名嫌疑人，同時查獲事發時嫌疑人駕駛的車輛。警方判斷，這輛車與另外兩起涉及劫車及謀殺的案件有關。上述嫌疑人目前面臨謀殺、持有涉嫌被劫或被搶車輛以及非法持有槍支彈藥等罪名指控。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0bf4a-2b1e-7118-8617-5ca977b8cb9f",
+      "time": "2026-09-20 22:48:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Explosion near U.S.-garrisoned Erbil airport】Foreign media reported on the 20th that an explosion occurred near Erbil airport in Iraq, which hosts U.S. troops."
+    },
+    {
+      "id": "5104115",
+      "time": "2026-09-20 22:47:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【駐有美軍的伊拉克埃爾比勒機場附近發生爆炸】據外媒20日報道，伊拉克埃爾比勒機場附近發生爆炸，該機場駐有美軍。（新華社）"
+    },
+    {
+      "id": "mkt:01a0bf47-5d67-7118-8617-57c06a50b0f8",
+      "time": "2026-09-20 22:45:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Kashkari says the U.S. labor market remains quite strong."
+    },
+    {
+      "id": "5104114",
+      "time": "2026-09-20 22:45:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利稱勞動力市場相當強勁。"
+    },
+    {
+      "id": "mkt:01a0bf47-3d2d-7118-8617-4eb13eb1d41b",
+      "time": "2026-09-20 22:45:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "KASHKARI: bond market is the responsibility of the U.S. Treasury."
+    },
+    {
+      "id": "5104113",
+      "time": "2026-09-20 22:45:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "卡什卡利表示債券市場是財政部的職責。"
+    },
+    {
+      "id": "mkt:01a0bf47-0ea0-7118-8617-47256ee6cad7",
+      "time": "2026-09-20 22:45:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kashkari said he hopes economic growth can take the lead and help drive disinflation."
+    },
+    {
+      "id": "5104112",
+      "time": "2026-09-20 22:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相稱，海灣國家必須在伊朗問題上協同行動。"
+    },
+    {
+      "id": "5104111",
+      "time": "2026-09-20 22:44:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利表示，希望經濟增長能夠接棒，推動通脹回落。"
+    },
+    {
+      "id": "mkt:01a0bf46-69ec-7118-8617-3bb59062c0ee",
+      "time": "2026-09-20 22:44:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed President Kashkari said the US economy remains strongly resilient despite the war."
+    },
+    {
+      "id": "mkt:01a0bf46-6531-7118-8617-366f5533188a",
+      "time": "2026-09-20 22:44:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Kashkari says there are some signs of improvement in productivity."
+    },
+    {
+      "id": "5104110",
+      "time": "2026-09-20 22:44:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利稱生產率顯現一些改善跡象。"
+    },
+    {
+      "id": "mkt:01a0bf46-3966-7118-8617-29b8744992ec",
+      "time": "2026-09-20 22:44:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said economic growth has been fairly strong."
+    },
+    {
+      "id": "5104109",
+      "time": "2026-09-20 22:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡什卡利稱儘管有戰爭，美國經濟仍極具韌性。"
+    },
+    {
+      "id": "5104108",
+      "time": "2026-09-20 22:43:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利稱經濟增長相當強勁。"
+    },
+    {
+      "id": "mkt:01a0bf45-8be9-7118-8617-202f973fe426",
+      "time": "2026-09-20 22:43:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve's Kashkari said investment demand is very strong, which tends to push up interest rates."
+    },
+    {
+      "id": "5104107",
+      "time": "2026-09-20 22:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利稱投資需求旺盛，這往往會推高利率。"
+    },
+    {
+      "id": "5104106",
+      "time": "2026-09-20 22:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利表示，希望我們能從政府其他部門及實體經濟中獲得幫助。"
+    },
+    {
+      "id": "mkt:01a0bf44-e016-7118-8617-1898525f53bf",
+      "time": "2026-09-20 22:42:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed's Kashkari said he hopes the Fed can secure support from other parts of government and from the real economy."
+    },
+    {
+      "id": "5104105",
+      "time": "2026-09-20 22:42:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相稱，以色列並未履行其在加沙問題上作出的承諾。"
+    },
+    {
+      "id": "mkt:01a0bf44-9c96-7118-8617-15f0191a0e25",
+      "time": "2026-09-20 22:42:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "KASHKARI said the Fed's task is to bring inf back to the 2% target. Inf remains too high and is not solely driven by oil-price factors."
+    },
+    {
+      "id": "5104104",
+      "time": "2026-09-20 22:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利稱通脹影響已超越油價範疇。"
+    },
+    {
+      "id": "5104103",
+      "time": "2026-09-20 22:41:55",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "卡什卡利在接受採訪時表示通脹水平仍然過高。"
+    },
+    {
+      "id": "5104102",
+      "time": "2026-09-20 22:40:57",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "明尼阿波利斯聯儲主席卡什卡利表示，美聯儲的工作是讓通脹率回落到2%的目標水平。"
+    },
+    {
+      "id": "5104101",
+      "time": "2026-09-20 22:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相稱，以色列在加沙的行動是 “魯莽的”。"
+    },
+    {
+      "id": "5104100",
+      "time": "2026-09-20 22:39:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：葉門胡塞武裝同意不與美國交戰】美國總統特朗普20日對福克斯新聞頻道說，美國同葉門胡塞武裝保持著溝通，他們同意不與美國交戰。（新華社）"
+    },
+    {
+      "id": "mkt:01a0bf41-f412-7118-8617-081e8e7ce25d",
+      "time": "2026-09-20 22:39:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's prime minister said the economic crisis is an opportunity to trim bloated government spending and refocus state investment on priority areas."
+    },
+    {
+      "id": "5104099",
+      "time": "2026-09-20 22:39:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相：卡達經濟面臨的危機是“削減冗餘”的契機，政府支出中該砍的部分必須砍，並將國家投資聚焦於關鍵領域。"
+    },
+    {
+      "id": "5104098",
+      "time": "2026-09-20 22:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相表示，卡達投資局將持續在全球市場積極開展投資。"
+    },
+    {
+      "id": "5104097",
+      "time": "2026-09-20 22:32:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相稱，人工智慧安全保障體系仍在建設當中。"
+    },
+    {
+      "id": "5104096",
+      "time": "2026-09-20 22:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相稱，正與人工智慧企業合作開展負責任的投資。"
+    },
+    {
+      "id": "5104095",
+      "time": "2026-09-20 22:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古爾曼：蘋果最早將於下月推出智慧家居螢幕裝置】知名科技記者馬克·古爾曼撰文稱，蘋果(AAPL.O)預計最早將於下月推出智慧家居螢幕裝置。這款產品將成為特努斯執掌蘋果初期最受期待的釋出之一，將整合所有聯網裝置控制、視訊通話、對講功能和媒體內容，同時讓使用者訪問蘋果服務和應用。裝置內部代號為J490，將搭載一套圍繞Siri AI打造的新作業系統，目前正在蘋果員工家庭中進行廣泛測試。裝置螢幕大約呈方形，可以放置在底座上，外觀類似於被切成兩半的HomePod mini，也可以安裝在牆上。裝置的一項主要功能是透過前置攝像頭系統實現面部識別，並根據使用者身份個性化顯示內容。蘋果能夠在沒有Face ID級深度感測器的情況下實現這一功能，說明未來可能也能在iPhone Duo上實現面部識別（目前依賴Touch ID），而無需傳統面部識別所需要的物理空間。"
+    },
+    {
+      "id": "mkt:01a0bf38-8eb2-7118-8617-02ade35e1fea",
+      "time": "2026-09-20 22:29:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Gurman: Apple may launch smart-home screen as early as next month】Mark Gurman reports Apple (AAPL.O) could launch as early as next month a smart-home screen device, internal codename J490. Positioned as one of the first major releases under Ternus, the device will integrate control of connected home devices, video calls, intercom, media playback and access to Apple services and apps, and will run a new Siri-AI–centred operating system now being widely tested in employees’ homes. The display is roughly square, sits on a base or can be wall-mounted and is visually likened to a halved HomePod mini. A key feature is front-camera face recognition that personalizes the display by user identity; Gurman says Apple can achieve this without a Face ID–class depth sensor, which could enable similar face recognition on an iPhone Duo (currently reliant on Touch ID) without the physical space required by traditional Face ID systems."
+    },
+    {
+      "id": "5104094",
+      "time": "2026-09-20 22:28:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相稱，胡塞武裝的升級行動 “不負責任”。"
+    },
+    {
+      "id": "5104093",
+      "time": "2026-09-20 22:25:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱將對伊朗作出重大決定】美國總統特朗普今天（9月20日）在接受福克斯新聞記者揚斯特電話採訪時表示，美國對伊朗問題正處於“決策階段”，未來“不久”將發生“非常重大的事情”。揚斯特在節目中稱，特朗普表示目前擺在桌面上的選項包括“徹底摧毀伊朗”，讓伊朗經濟繼續惡化，或者達成協議。特朗普還表示，他正在考慮“何時以及是否”對伊朗採取徹底軍事行動。 揚斯特表示，目前尚不清楚特朗普所說的“不久”具體意味著數小時還是數天。報道說，此前特朗普突然提前結束在馬里蘭州戴維營的週末行程並返回白宮，引發外界對美國可能進一步採取軍事行動的猜測。（CCTV國際時訊）"
+    },
+    {
+      "id": "5104092",
+      "time": "2026-09-20 22:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 地中海航運（MSC）是德國國有邁爾船廠股權的潛在收購方之一。"
+    },
+    {
+      "id": "mkt:01a0bf2e-50f8-7118-8616-fc824e229bc7",
+      "time": "2026-09-20 22:17:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yibin signs strategic cooperation agreement with China Resources Group】Yibin city and China Resources Group signed a strategic cooperation agreement to deepen practical collaboration across consumer, integrated energy, urban construction and operations, healthcare, industrial finance and technology and emerging industries."
+    },
+    {
+      "id": "5104091",
+      "time": "2026-09-20 22:17:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "新聞人士馬克・古爾曼：據我所知，蘋果公司正準備在10月前終於在印度推出Apple Pay。"
+    },
+    {
+      "id": "mkt:01a0bf2d-fff0-7118-8616-f64843936512",
+      "time": "2026-09-20 22:17:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatari PM says Qatar expects to award roughly $38.5 billion in new infrastructure projects over the next five years."
+    },
+    {
+      "id": "5104090",
+      "time": "2026-09-20 22:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達預計未來五年將授出價值 385 億美元的基礎設施專案。"
+    },
+    {
+      "id": "mkt:01a0bf2c-46e2-7118-8616-ec59004cffa7",
+      "time": "2026-09-20 22:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Security sources said an air-defence system near Erbil airport in Iraqi Kurdistan shot down a drone."
+    },
+    {
+      "id": "5104089",
+      "time": "2026-09-20 22:15:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達房地產及酒店專案儲備預計將吸引 225 億美元資金。"
+    },
+    {
+      "id": "5104088",
+      "time": "2026-09-20 22:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "安全訊息人士稱，伊拉克庫爾德斯坦地區埃爾比勒機場附近防空系統擊落一架無人機。"
+    },
+    {
+      "id": "5104087",
+      "time": "2026-09-20 22:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達依託全新本土平臺重塑主權財富基金戰略。"
+    },
+    {
+      "id": "mkt:01a0bf2b-ed78-7118-8616-e4b76442ab3e",
+      "time": "2026-09-20 22:15:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatari PM says Qatar Investment Authority (QIA) has launched a Doha investment unit to manage domestic investments."
+    },
+    {
+      "id": "5104086",
+      "time": "2026-09-20 22:15:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達主權財富基金新設部門，加大國內投資推進力度。"
+    },
+    {
+      "id": "5104085",
+      "time": "2026-09-20 22:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "多哈投資平臺將管理並增值卡達投資局的本土資產。"
+    },
+    {
+      "id": "5104084",
+      "time": "2026-09-20 22:14:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達首相公佈卡達投資局（QIA）面向本土交易設立的多哈投資平臺。"
+    },
+    {
+      "id": "5104083",
+      "time": "2026-09-20 22:09:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜賓市與華潤（集團）有限公司簽署戰略合作協議】9月20日，據“宜賓釋出”訊息，近日，宜賓市與華潤（集團）有限公司簽署戰略合作協議。根據協議，宜賓市和華潤集團將持續深化在大消費、綜合能源、城市建設運營、大健康、產業金融、科技與新興產業等領域的務實合作。"
+    },
+    {
+      "id": "5104082",
+      "time": "2026-09-20 22:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南釋出秋收期連陰雨災害風險預警】河南省氣象局、河南省農業農村廳20日聯合釋出秋收期連陰雨災害風險預警。據悉，受華西秋雨影響，未來10天河南省多降雨天氣，其中23日至28日，全省大部地區將持續小到中雨，黃河以南部分縣（市、區）中到大雨，區域性暴雨。當前正值秋作物成熟收穫期，持續陰雨天氣給秋作物適時收穫晾曬帶來不利影響，收穫秋糧若烘乾晾曬不及時，存在發熱黴變風險，需加強防範應對。（新華社）"
+    },
+    {
+      "id": "5104081",
+      "time": "2026-09-20 22:06:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【簡街加入為風險ETF提供互換合約的券商浪潮】簡街集團（Jane Street Group）已開始為槓桿ETF提供互換合約，今年早些時候進入該業務，第二季度為約75只槓桿和反向單股ETF提供了約12億美元名義金額的互換合約。該公司目前約佔單股ETF板塊的2%，Clear Street以約21%的份額領先，Marex集團持有約11%，美國槓桿ETF資產在第二季度峰值超過2000億美元。簡街進入該業務凸顯了該領域的吸引力，也凸顯了做市商進一步蠶食傳統上大銀行服務的領域，非銀行交易商主導單股ETF並與華爾街銀行競爭。"
+    },
+    {
+      "id": "5104080",
+      "time": "2026-09-20 22:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國能建董事長倪真赴西班牙開展系列商務活動】據中國能建公眾號，當地時間9月17日至18日，中國能建黨委書記、董事長倪真赴西班牙開展系列商務活動。18日倪真與西班牙綠色能源合作伙伴會談，圍繞綠氨貿易、綠色氫氨專案開發、工業綠色低碳轉型及能源安全保障等進行深入交流。雙方表示，將進一步加強對接，以專案為依託，深化綠色氫氨、工業脫碳、綜合能源等領域協作，加快推動綠氨貿易取得實質進展。"
+    },
+    {
+      "id": "5104079",
+      "time": "2026-09-20 22:04:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9月20日增減持彙總】9月20日，據不完全統計，包括概倫電子、四方光電、深水海納、紫建電子、埃夫特、天山生物、惠泰醫療、永信至誠在內的8家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5104078",
+      "time": "2026-09-20 22:03:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份完成對Qwen-Image-2.1模型的適配】9月20日，阿里巴巴千問團隊宣佈，正式開源旗下影象生成模型Qwen-Image-2.1。隨後，沐曦股份宣佈完成對Qwen-Image-2.1模型的Day0適配，實現“上線即適配”。"
+    },
+    {
+      "id": "mkt:01a0bf1e-e660-7118-8616-df9f44cc313c",
+      "time": "2026-09-20 22:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Netherlands is repatriating gold held in North America, including Ottawa and New York, as a matter of national preference rather than a blanket rejection of U.S. assets."
+    },
+    {
+      "id": "mkt:01a0bf1e-ac23-7118-8616-d343932b54b4",
+      "time": "2026-09-20 22:00:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "BESSENT said Norway has not shifted into other markets; it has reallocated holdings from U.S. Treasuries into agency debt, which remain U.S. assets."
+    },
+    {
+      "id": "mkt:01a0bf1e-0b9b-7118-8616-cf6bf6d291a1",
+      "time": "2026-09-20 22:00:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said if capital is truly fleeing the US, data still show strong foreign demand for US assets. If investors were really \"shunning US Treasuries,\" someone has apparently forgotten to tell the bidders."
+    },
+    {
+      "id": "5104077",
+      "time": "2026-09-20 22:00:11",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特駁斥看空美經濟論調：美元主導地位穩固 多項資料創新高】美國財長斯科特·貝森特近日在社交平臺回應相關報道時指出，美聯儲資料顯示美元仍佔據全球外匯交易的89.2%，外國投資者持續持有大量美國資產，主要穩定幣亦以美元計價，美元核心地位並未動搖。財政部國債回購旨在增加流動性、最佳化期限結構，而非試圖操控超30萬億美元的市場。他強調，2025年美國家庭收入中位數達87460美元，創歷史新高；官方貧困率降至10.2%，為歷史低位。亞特蘭大聯儲預計第三季度實際GDP年化增長5.1%。私人部門資本支出與AI相關投資持續擴張，2026年第二季度裝置投資較拜登任期結束時增長近20%，就業與商業投資同步改善。貝森特批評新聞報道選擇性呈現資料，忽略外國對美資產的強勁需求、挪威轉向機構債仍屬美資產、沙特退出相關平臺等事實，並稱穩定幣以美元為主恰恰證明數字金融未威脅美元地位。他表示，美國人理應獲得全面誠實的經濟報道，而非預設立場的片面敘述。"
+    },
+    {
+      "id": "mkt:01a0bf1d-6fad-7118-8616-c11e27042d4b",
+      "time": "2026-09-20 21:59:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said latest data show sustained employment growth, expanding corporate investment and capital spending, and a strengthening capex recovery; equipment investment in Q2 2026 was nearly 20% higher than at the end of the Biden administration."
+    },
+    {
+      "id": "5104076",
+      "time": "2026-09-20 21:59:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區察哈爾右翼後旗委原書記崔勇被“雙開”】中央紀委國家監委網站9月20日通報，據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對內蒙古自治區察哈爾右翼後旗委原書記崔勇嚴重違紀違法問題進行了立案審查調查。經查，崔勇理想信念動搖，背棄初心使命，對抗組織審查，轉移、隱匿證據；無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金，向從事公務的人員贈送明顯超出正常禮尚往來的禮品、禮金，公車私用；違反組織原則，在組織函詢時不如實說明問題，違規為他人在職務提拔等方面謀取利益；廉潔底線失守，利用職務便利為他人謀取利益並收受財物，違規從事營利性活動；不正確履行職責，干預和插手高標準農田建設專案招投標；公權私用，利用職務上的便利為他人在工程承攬、工程款結算等方面謀取利益，並非法收受財物。崔勇嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，特別是黨的二十大後仍不知止，情節嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予崔勇開除黨籍處分；由內蒙古自治區監委給予其開除公職處分；終止其內蒙古自治區第十一次黨代會代表、烏蘭察布市第五次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "5104075",
+      "time": "2026-09-20 21:58:09",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：財政部回購操作的目的在於增加流動性並管理債務期限結構，而不是以某種方式控制規模超過30萬億美元的市場。"
+    },
+    {
+      "id": "mkt:01a0bf1c-0ec5-7118-8616-bba695670310",
+      "time": "2026-09-20 21:58:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Treasury buyback operations are intended to add liquidity and manage the debt maturity profile, not to control a market exceeding $30 trillion."
+    },
+    {
+      "id": "mkt:01a0bf1b-aa59-7118-8616-b24f76ba0fd7",
+      "time": "2026-09-20 21:57:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the dollar accounts for 89.2% of global FX trading and foreign investors continue to hold sizable positions in U.S. assets."
+    },
+    {
+      "id": "5104074",
+      "time": "2026-09-20 21:56:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特在社交平臺發文闡述觀點，為美元的需求進行辯護。"
+    },
+    {
+      "id": "5104073",
+      "time": "2026-09-20 21:55:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：資料顯示，外國對美國資產的需求持續強勁。"
+    },
+    {
+      "id": "5104072",
+      "time": "2026-09-20 21:55:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為引望：將一如既往支援問界發展】9月20日，華為乾崑智慧汽車解決方案發文，引望智慧技術有限公司將持續推進問界產品智慧化升級，充分保障使用者智慧化服務與體驗。文中提到，賽力斯是引望戰略合作伙伴和股東。引望持續把乾崑智駕、鴻蒙座艙、智慧車控、智慧車載光、智慧車雲等解決方案銷售給賽力斯，並提供技術支援服務。引望將一如既往支援好問界的發展，並與問界一起全力保障使用者的服務與體驗。引望將持續把行業領先的智慧汽車解決方案應用於問界並不斷迭代升級，提升問界產品的競爭力，為問界使用者持續做好服務保障，提升智慧化體驗。引望將落實好“電子螺絲釘”的戰略定位，推動智慧汽車產業發展，為廣大使用者做好服務。"
+    },
+    {
+      "id": "5104071",
+      "time": "2026-09-20 21:51:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱正就伊朗問題“作出決定”願意與伊朗總統會面】據報道，美國總統特朗普在談及伊朗問題時表示，他正在“作出決定”，在不久的將來將會發生非常重大的事情，選擇包括徹底消滅伊朗，讓其經濟陷入衰敗，或者達成一項協議。特朗普稱：“他們最好有所收斂。”特朗普還表示，他“可能會”願意在聯合國大會期間與伊朗總統佩澤希齊揚會面。佩澤希齊揚將於下週前往紐約。儘管近期釋出了相關警報，特朗普仍將這個週末描述為“與其他任何週末沒有區別”。"
+    },
+    {
+      "id": "mkt:01a0bf15-c241-7118-8616-a951213afada",
+      "time": "2026-09-20 21:51:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he's 'making a decision' on Iran, may meet Iran president PEZESHKIAN at UNGA】US President Trump told Fox News he is \"making a decision\" on Iran and said \"very significant\" developments could occur soon. He outlined options including annihilating Iran, crippling its economy, or striking a deal. Trump said he \"might\" meet Iran president PEZESHKIAN during next week’s UN General Assembly in New York, where PEZESHKIAN is due to appear, and noted recent alerts while calling the weekend routine."
+    },
+    {
+      "id": "5104070",
+      "time": "2026-09-20 21:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛大西洋投資集團的福特稱，對人工智慧維持長期看多型度。"
+    },
+    {
+      "id": "5104069",
+      "time": "2026-09-20 21:47:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛大西洋投資集團的福特稱，也存在其他融資方式。"
+    },
+    {
+      "id": "5104068",
+      "time": "2026-09-20 21:47:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛大西洋投資集團的福特稱，公司會考慮 IPO 事宜。"
+    },
+    {
+      "id": "5104067",
+      "time": "2026-09-20 21:45:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特對該地區重回增長抱有樂觀態度。"
+    },
+    {
+      "id": "mkt:01a0bf0f-ed71-7118-8616-a6ff050de73d",
+      "time": "2026-09-20 21:44:47",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Lanjing New Energy signs 5.5 bln yuan cylindrical‑cell project in Wuxi】Sept 20 — Lanjing New Energy signed a 5.5 bln yuan agreement in Wuxi with Yixing to build a new large cylindrical‑cell project. Lanjing, one of China’s earliest firms to mass‑produce large cylindrical cells with full tabs, said the project will spur coordinated cluster development across anode and cathode materials, separators, electrolyte, cell structural parts, cell manufacturing equipment and pack integration."
+    },
+    {
+      "id": "5104066",
+      "time": "2026-09-20 21:44:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泛大西洋投資集團的福特稱，中東地區的發展程序已偏離軌道。"
+    },
+    {
+      "id": "5104065",
+      "time": "2026-09-20 21:40:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍京新能源新型圓柱電池專案在無錫簽約落地】據無錫釋出訊息，9月20日，總投資55億元的藍京新能源新型圓柱電池專案在無錫簽約落地。藍京新能源是國內最早實現全極耳大圓柱電池量產的企業之一，此次公司與宜興簽約實施藍京新能源新型圓柱電池專案，將更好帶動正負極材料、隔膜、電解液、電池結構件、電芯裝備和PACK整合等產業鏈上下游協同聯動、叢集發展。"
+    },
     {
       "id": "5104064",
       "time": "2026-09-20 21:34:41",
