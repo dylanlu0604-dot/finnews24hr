@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-20 06:55:37_
-_本檔包含 2601 則快訊，約 523898 字_
+_更新時間：2026-09-20 08:52:17_
+_本檔包含 2590 則快訊，約 524122 字_
+
+---
+
+### 2026-09-18 10:31:14  #國際
+
+馬來西亞航空接近達成採購波音787“夢想客機”的交易。
+
+---
+
+### 2026-09-18 10:30:34  #宏觀
+
+【規範量子產業生態體系 一批次子核心器件國家標準釋出】市場監管總局加強系統佈局，集中推動制定一批次子核心器件國家標準。其中，新發布《量子壓縮光源技術規範》和《週期極化鈮酸鋰量子頻率轉換器件效能測試方法》兩項國家標準，新立項《量子技術 連續變數光量子糾纏源技術規範》《電力測量用金剛石氮-空位色心材料效能要求與檢測方法》《量子測量 固態自旋量子磁強計效能表徵及測量方法》等4項國家標準計劃，《量子技術 雙光子偏振糾纏源效能表徵及測量方法》《量子技術 超高反射率光學薄膜效能表徵及測量方法》等多項在研標準持續穩步推進，加速構建完善我國量子技術國家標準體系。
+
+---
+
+### 2026-09-18 10:30:05  #公司
+
+【四方精創回應延遲H股上市：業務層面都正常 後續可能擇機在H股上市】針對四方精創延遲H股全球發售及上市事宜，記者今日以投資者身份致電該公司。證券部人士稱，目前業務層面都正常，主要是當前的市場狀況不是很好。據悉，四方精創後續可能仍會在H股上市，“但還是看時機”。四方精創原定於9月22日（下週二）登陸港交所，招銀國際、國信證券聯席保薦。公司於招股最後一日緊急在港交所公告稱，決定延遲全球發售及香港聯合交易所主機板的上市。 (財聯社)
+
+---
+
+### 2026-09-18 10:29:53  #MKT News
+
+【Luwei Photonics: 40nm full-set mask customer validation progressing】At its Sept. 18, 2026 interim results briefing, Luwei Photonics said customer validation for 40nm full-set photomasks is progressing orderly. 40nm and 28nm single-mask photomasks have passed customer qualification and deliveries are underway. 28nm–14nm full-set mask capability is being built under the company’s LuXin Phase II project, currently under construction on schedule, aimed at reducing reliance on overseas suppliers for high-end process nodes.
+
+---
+
+### 2026-09-18 10:29:42  #MKT News #Market Regions #Japan & APAC #WTI #Impact bullish
+
+【Daiwa Securities warns of rising risk of prolonged inflation in Japan】Daiwa Securities economist Kento Minami said the risk of prolonged inflation in Japan is increasing as crude oil rebounds and firms increasingly pass higher costs to consumers. He warned the recent sharp rise in crude could feed through to electricity prices after a roughly 3–8 month lag, potentially beginning in early 2027. Rising oil, logistics and labour costs are making cost pass-through more likely and could extend food inflation; food prices excluding fresh produce rose 2.7% YoY in August.
+
+---
+
+### 2026-09-18 10:29:09  #國際
+
+木原稔：日本將顯著加大預算改革相關工作力度。
+
+---
+
+### 2026-09-18 10:28:42  #MKT News
+
+【Baotong Technology signs SERV agreement with SimFer for Ximangdu iron ore mine】Baotong Technology said on Sept 14 it signed a long-term intelligent operations support service agreement (SERV contract) with SimFer in Wuxi for the Ximangdu iron ore mine. The deal extends cooperation from product supply and on-site installation to long-term operations assurance and full life-cycle services.
+
+---
+
+### 2026-09-18 10:28:05  #其他
+
+【寶通科技與SimFer簽署西芒杜鐵礦SERV服務協議】據寶通科技訊息，9月14日，寶通與SimFer在無錫正式簽署西芒杜鐵礦長期智慧運營保障服務協議（SERV合同）。此次簽約標誌著雙方合作從產品供應、現場安裝延伸至長期運營保障與全生命週期服務。
+
+---
+
+### 2026-09-18 10:27:54  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【China housing ministry says completed-home sales are the trend】At a State Council Information Office briefing, the Ministry of Housing and Urban-Rural Development (MOHURD) said completed-home sales are the prevailing trend and urged new projects to prioritize sales of completed properties to prevent sell-before-delivery risks. Citing National Bureau of Statistics data, MOHURD said completed-home sales area has grown and its share of new-home sales has risen in recent years. It called for coordinated land, financial and tax support for projects that opt for completed-sales and said where presales are used authorities should strengthen presale fund supervision to protect buyers' legal rights.
+
+---
+
+### 2026-09-18 10:27:32  #MKT News
+
+【Jan–Aug China postal industry revenue +6.0% YoY】China postal industry revenue excluding Postal Savings Bank direct operating income totaled 1.23 tln yuan in Jan–Aug, up 6.0% YoY. Express revenue was 1.03 tln yuan, +7.4% YoY. Jan–Aug delivery volume reached 145.46 bln items, +4.0%; express volume 134.06 bln, +4.6%. In August, industry revenue was 150.54 bln yuan, +5.3%; express revenue 127.15 bln yuan, +6.9%. August delivery volume was 18.03 bln items, +2.3%; express volume 16.60 bln, +2.7%.
+
+---
+
+### 2026-09-18 10:27:31  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【South Korea's Lee says will not send troops to Middle East conflict】South Korea's Lee said on Friday Seoul will not deploy military forces to the Middle East that could draw the country into conflict related to a war with Iran. He said the government is considering whether to expand its role in safeguarding navigation through the Strait of Hormuz.
+
+---
+
+### 2026-09-18 10:27:08  #其他
+
+【1-8月郵政行業業務收入同比增長6.0%】資料顯示，1-8月，郵政行業業務收入（不包括郵政儲蓄銀行直接營業收入）累計完成12304.5億元，同比增長6.0%。其中，快遞業務收入累計完成10289.2億元，同比增長7.4%。1-8月，郵政行業寄遞業務量累計完成1454.6億件，同比增長4.0%。其中,快遞業務量累計完成1340.6億件，同比增長4.6%。8月份，郵政行業業務收入完成1505.4億元，同比增長5.3%。其中，快遞業務收入完成1271.5億元，同比增長6.9%。8月份，郵政行業寄遞業務量完成180.3億件，同比增長2.3%。其中,快遞業務量完成166.0億件，同比增長2.7%。
+
+---
+
+### 2026-09-18 10:26:48  #公司 #國際
+
+【春秋航空：預計未來兩年國際航線運力仍將保持較快增長】春秋航空(601021)在9月18日召開的2026年半年度業績說明會上表示，當前公司國際航線表現好於國內市場，東南亞和韓國市場運力增長較快。隨著入境客流明顯增長、客源結構更加均衡，以及區域經貿往來帶來更多商務需求，國際航線的市場培育壓力已有所緩解，未來兩年公司預計國際航線運力仍將保持較快增長。公司將充分考慮市場接受度，統籌存量航線與新增航線的運營安排。
+
+---
+
+### 2026-09-18 10:26:43  #公司
+
+【華圖教育：從未委託任何機構或個人辦理“退費清退”，已報案】華圖教育9月17日晚釋出宣告稱，近日，有不法分子冒用華圖教育名義實施退費詐騙：向學員寄送紙質“退費通知函”、傳送電子“退費函”或撥打電話、簡訊，謊稱可辦理全額退費，誘導學員掃碼新增所謂“線上客服”。經核實，上述檔案中的《華圖教育退費公告》（冒用教育部名義，文號教材〔2026〕5號）、《關於華圖教育退費辦理及相關流程的公告》（冒用市場監督管理總局名義，文號京市監〔2026〕108號），及其加蓋的“國家市場監督管理總局辦公廳”印章，均系偽造。公司從未釋出此類公告，亦從未委託任何機構或個人辦理“退費清退”。公司已向公安機關報案並固定證據，將依法追究相關主體的民事、行政及刑事責任，絕不姑息。
+
+---
+
+### 2026-09-18 10:26:25  #其他
+
+【路維光電：40nm成套掩膜版客戶驗證有序推進】路維光電(688401)在9月18日召開的2026年半年度業績說明會上表示，目前40nm成套掩膜版客戶驗證有序推進，40nm和28nm單片掩膜版客戶端驗證透過並供貨，28nm—14nm成套掩膜版於路芯二期專案實施，目前正按計劃籌建，致力於打破境外企業在高階製程領域的壟斷。
+
+---
+
+### 2026-09-18 10:26:16  #其他
+
+康寧自2026年第四季度起，將對顯示玻璃基板產品價格上調15%以上。
+
+---
+
+### 2026-09-18 10:25:57  #其他
+
+【住房城鄉建設部：現房銷售是大勢所趨】國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會。住房城鄉建設部有關負責人介紹，當前，房地產市場出現了“兩個轉變”。一個是房地產市場供求關係發生重大變化；一個是房地產進入存量時代，二手房交易佔比從2020年的27%提高到2025年的46%，今年前8個月已經達到52%，超過50%標誌著進入存量時代。“十五五”時期，住房城鄉建設部將積極適應房地產的新形勢新變化，統籌防風險和促轉型，統籌惠民生和穩增長，加快構建房地產發展新模式，健全多主體供給、多渠道保障、租購併舉的住房制度，推動房地產高質量發展。在商品房銷售上，推進現房銷售制，解決專案銷售“一手交錢，一手交房”的問題，實現“所見即所得”，從根本上防範交付風險。現房銷售是大勢所趨，從國家統計局資料來看，近年來現房的銷售面積保持正增長，佔新房銷售面積的比重逐年提高。新專案優先選擇現房銷售，統籌用好針對專案的土地、金融、稅收等支援政策；實行預售的，完善預售資金監管，切實維護購房人合法權益。
+
+---
+
+### 2026-09-18 10:24:58  #MKT News
+
+【UNWTO cuts 2026 global international tourist arrivals forecast to 1–2%】The UN World Tourism Organization (UNWTO) on the 17th lowered its 2026 forecast for global international tourist arrivals to 1–2% growth from a prior 3–4% range. Its World Tourism Barometer showed arrivals rose just 0.4% YoY in 1H to about 690 mln, roughly 3 mln more than a year earlier. Arrivals were up 2% YoY in Q1 but fell 1% in Q2; June was down 3% YoY. The UNWTO said Middle East arrivals fell 22% YoY in 1H, directly affected by the regional conflict.
+
+---
+
+### 2026-09-18 10:24:51  #MKT News #Market Regions #Greater China
+
+【Ministry of Housing: China real estate supply-demand relationship has undergone major change】On Sept. 18, Zhang Xuetao, director of the Real Estate Market Regulation Department at the Ministry of Housing and Urban‑Rural Development, said the China property market is undergoing two shifts: a major change in supply‑demand dynamics and a transition into a stock era. He said second‑hand transactions’ share rose from 27% in 2020 to 46% in 2025 and reached 52% in the first eight months of this year; exceeding 50% marks entry into the stock era.
+
+---
+
+### 2026-09-18 10:24:32  #宏觀
+
+【住建部：房地產市場供求關係發生重大變化】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會。住房和城鄉建設部房地產市場監管司司長張雪濤在釋出會上表示，當前，房地產市場出現了“兩個轉變”。一個是房地產市場供求關係發生重大變化；一個是房地產進入存量時代，二手房交易佔比從2020年的27%提高到2025年的46%，今年前8個月已經達到52%，超過50%標誌著進入存量時代。
+
+---
+
+### 2026-09-18 10:24:01  #MKT News
+
+【Strait of Hormuz shipping traffic remains below 10-day average】Preliminary shipping data released Friday show four bulk commodity carriers transited the Strait of Hormuz on Thursday, down from six the previous day and below the roughly 16-vessel 10-day average. Counts may change because some ships commonly switch off AIS transponders while underway.
+
+---
+
+### 2026-09-18 10:23:04  #公司
+
+【中投保與中鐵資本控股簽署戰略合作協議】9月15日，中投保與中鐵資本控股(北京)集團有限公司（簡稱“中鐵資本控股”）在京簽署戰略合作協議。依據協議約定，雙方將拓展多元化投融資合作，涵蓋基建股權投資、債券擔保、一帶一路專案應收賬款ABS、供應鏈金融、綠色環保投資等方向。
+
+---
+
+### 2026-09-18 10:22:57  #MKT News #Market Themes #China Tech Giants #Market Regions #Greater China
+
+【Lingqu Ascend 950 intelligent compute-cluster cloud service to launch globally】At Huawei FullConnect 2026, Huawei Cloud said its Lingqu Ascend 950 intelligent compute-cluster cloud service will be commercially available in China on Sept 30 and globally on Nov 30.
 
 ---
 
@@ -15505,209 +15643,5 @@ Singapore's August electronic exports rose 131.8% YoY; non-oil exports increased
 ### 2026-09-17 08:26:02  #公司
 
 【陝西省省長趙剛會見中國鐵道建築集團總經理裴岷山一行】據陝西日報，9月16日，陝西省省長趙剛在西安會見了中國鐵道建築集團有限公司總經理裴岷山一行。雙方表示，將進一步加強在交通和水利基礎設施建設、城市更新等領域的合作，努力實現互利共贏、共同發展。
-
----
-
-### 2026-09-17 08:25:57  #國際
-
-【香港金管局宣佈調整基本利率至4.25%】香港金融管理局今日（17日）宣佈，基本利率根據預設公式定於4.25釐，即時生效。   據瞭解，香港基本利率是用作計算經貼現窗進行回購交易時適用的貼現率的基礎利率。目前基本利率定於當前的美國聯邦基金利率目標區間的下限加50基點，或隔夜及一個月香港銀行同業拆息的五天移動平均數的平均值，以較高者為準。   因應美國於9月16日（美國時間）調高聯邦基金利率的目標區間25基點，當前的美國聯邦基金利率目標區間的下限加50基點是4.25%，而隔夜及一個月香港銀行同業拆息的五天移動平均數的平均值是2.50%，所以根據預設公式，基本利率設定於4.25%。（大灣區之聲）
-
----
-
-### 2026-09-17 08:22:08  #國際
-
-特朗普談伊朗：將是一個非常好的結局。
-
----
-
-### 2026-09-17 08:22:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Pressured by Hawkish Fed Outlook — Silver traded near $63 an ounce on Thursday after giving up intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, precious metals found some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week.
-
----
-
-### 2026-09-17 08:21:46  #國際
-
-特朗普：戰爭很快就會結束，因為伊朗撐不下去了。
-
----
-
-### 2026-09-17 08:21:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-【HKMA raises base rate 25bps to 4.25%】The Hong Kong Monetary Authority raised its base rate by 25bps to 4.25%, its first move since 2023, ending a period of rate stability. The hike directly mirrors a same-day Fed action and is intended to preserve the Hong Kong dollar’s linked exchange rate with the US dollar. The HKMA said it is synchronizing policy with the Fed to ensure peg stability. Markets remain uncertain about pass-through to local funding costs; major banks typically announce lending-rate adjustments later this evening, with the Prime Rate the key focus.
-
----
-
-### 2026-09-17 08:20:56  #公司
-
-【禁售期內清倉萬物雲股票，58集團姚勁波：系投資團隊無心之失】對於此次違規事件，姚勁波方面解釋，減持行為系58集團負責其外部投資的管理團隊的無心之失，並非其本人蓄意為之，姚勁波稱其並無參與亦不知悉上述管理團隊進行該等出售的計劃，且於進行該等出售時，彼並無掌握任何有關萬物雲的內幕訊息。（澎湃）
-
----
-
-### 2026-09-17 08:20:31  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Pressured by Hawkish Fed Outlook — Gold remained below $4,300 an ounce on Thursday after surrendering intraday gains in the previous session, as the US Federal Reserve raised interest rates and signaled another hike before the end of the year. The Fed increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, marking its first rate increase in three years. Fed Chair Kevin Warsh also said inflation remains elevated, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, gold received some support as oil prices retreated amid easing concerns over supply disruptions in the Middle East. Saudi Arabia is aiming to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. US Energy Secretary Chris Wright also said that 18 million barrels of crude and petroleum products passed through the Strait of Hormuz earlier this week.
-
----
-
-### 2026-09-17 08:20:08  #其他
-
-【意法半導體推出110萬畫素車規影象感測器】9月17日，意法半導體宣佈，已推出新一代面向座艙紅外感知的110萬畫素ST SafeSense車規影象感測器VD56GA。這款感測器可為攝像頭開發者提供DMS/OMS所需影象質量，將幫助整車廠和一級供應商以更低系統成本，在量產車型平臺整合駕駛員監控與乘員監控功能。
-
----
-
-### 2026-09-17 08:19:02  #MKT News
-
-Early on Sept. 17 local time, multiple explosions were heard in Kyiv, Ukraine.
-
----
-
-### 2026-09-17 08:18:55  #國際
-
-【美國政府機構正追蹤全球近20艘船舶面臨的網路威脅】據熟悉情況的美國官員透露，美國政府機構正在追蹤全球近20艘船舶面臨的網路威脅。三位因未獲授權公開討論此事而要求匿名的人士表示，美國海岸警衛隊已要求，如果上述任何船舶計劃駛入美國港口，需提前通知。目前尚不清楚這些船舶的具體目的地和貨物清單。美國網路安全與基礎設施安全域性(CISA)一位官員表示，8月底有數艘商船成為潛在網路攻擊目標，並指出駭客似乎並未實際取得船舶控制權。一位國土安全部官員稱，海岸警衛隊目前正聯合聯邦調查局(FBI)及國土安全部相關部門追蹤這些船舶。
-
----
-
-### 2026-09-17 08:18:10  #市場 #國際
-
-10年期日本國債收益率下跌0.5個基點至2.99%。
-
----
-
-### 2026-09-17 08:17:49  #市場 #國際
-
-【特朗普稱伊朗戰爭將“很快”結束】美國總統特朗普在北卡羅來納州的一場競選活動中表示，民主黨人給我們帶來了美國的黑暗時代，而我們把它變成了美國的黃金時代。伊朗戰爭將“很快”結束。特朗普談及伊朗時說：“他們還沒準備好”。特朗普補充說：“我們隨時都可以達成協議”。
-
----
-
-### 2026-09-17 08:16:53  #市場 #國際
-
-歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.2%，英國富時指數期貨上漲0.2%。
-
----
-
-### 2026-09-17 08:15:59  #央行 #美聯儲
-
-【華泰證券：美聯儲10月加息必要性下降 預計12月再次加息為基準情形】當前市場定價美聯儲10月加息機率超過50%，但華泰證券認為，財政脈衝下降、油價對居民消費侵蝕加大以及金融條件收緊，就業和通脹資料在未來1—2個月或有所降溫，美聯儲10月加息的必要性下降，預計12月再次加息為基準情形，而2027年美聯儲的加息路徑取決於後續經濟資料表現，特別是就業市場是否將持續改善，進而推動工資增速回升，以及通脹的走勢。
-
----
-
-### 2026-09-17 08:15:52  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-【Huatai Securities: Need for Fed October rate hike diminished; December hike baseline】Huatai Securities says after the Fed’s September hike, December is likely the next substantive policy window and whether the Fed reopens a rate-hike cycle will depend on further data and officials’ remarks. Markets currently price a >50% chance of an October move, but Huatai judges the need for an October hike reduced given a waning fiscal impulse, oil-driven weakness in household consumption, tighter financial conditions and the prospect that employment and inflation may cool over the next 1–2 months. Huatai’s base case is for another hike in December. The Fed’s 2027 path will hinge on incoming economic data—especially whether the labour market sustains improvement that drives wage growth and on subsequent inflation dynamics.
-
----
-
-### 2026-09-17 08:15:16  #觀點 #央行 #國際
-
-【華泰證券：美聯儲10月加息必要性下降 預計12月再次加息為基準情形】華泰證券研報表示，美聯儲9月會議如期加息25個基點將基準利率上調至3.75%—4.00%，12個票委均支援此次加息，點陣圖與SEP均顯示聯儲內部整體更為鷹派，沃什則稱此次加息是從貨幣政策中撤走“一劑寬鬆”。往前看，美聯儲9月加息落地，12月可能是下一次加息實質博弈期，而美聯儲是否開啟加息週期仍需要更多資料與官員表態來判斷。當前市場定價美聯儲10月加息機率超過50%，但華泰證券認為，財政脈衝下降、油價對居民消費侵蝕加大以及金融條件收緊，就業和通脹資料在未來1—2個月或有所降溫，美聯儲10月加息的必要性下降，預計12月再次加息為基準情形，而2027年美聯儲的加息路徑取決於後續經濟資料表現，特別是就業市場是否將持續改善，進而推動工資增速回升，以及通脹的走勢。
-
----
-
-### 2026-09-17 08:14:59  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-President Trump said he expects the conflict with Iran to end soon.
-
----
-
-### 2026-09-17 08:14:00  #市場 #央行 #國際
-
-【日本家庭資產增至2519萬億日元 創歷史新高】根據日本央行釋出的季度資金流動報告，截至6月底，受股票價格上漲的推動，日本家庭資產較上年同期增長11%，達到創紀錄的2519萬億日元（16.1萬億美元）。由於股票價值上升，家庭股票資產躍升47%至486萬億日元。家庭現金及存款餘額增長0.5%，達到1132萬億日元日本央行持有未償日本政府債券的46.7%，為2019年第二季度以來的最低比例。外國投資者持有7.9%的日本國債。
-
----
-
-### 2026-09-17 08:13:15  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
-
-U.S. President TRUMP said the United States "feeds" European countries and could tell them "we're not doing business with you anymore," asserting the U.S. "has cars, timber and food."
-
----
-
-### 2026-09-17 08:13:14  #國際
-
-【北方大部晴朗線上 四川至湖北降雨頻繁 】今起三天（9月17日至19日）我國主要降雨依然集中在華西等地，四川、重慶、湖北、貴州部分地區將有大到暴雨。在降雨影響下，這一帶地區氣溫偏低，體感溼涼。而中東部其餘地區降雨稀少、氣溫偏高，大部地區最高氣溫在30℃上下。
-
----
-
-### 2026-09-17 08:12:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,280/oz, up 0.38% intraday.
-
----
-
-### 2026-09-17 08:12:02  #國際
-
-特朗普：美國不屬於那些憎恨它的人。美國屬於那些熱愛它的人。
-
----
-
-### 2026-09-17 08:11:28  #市場 #焦點
-
-紐約期金突破4320美元/盎司，日內跌1.52%。
-
----
-
-### 2026-09-17 08:11:26  #MKT News
-
-【Trump says Iran war will end soon, calls himself 'right about everything'】U.S. President Trump said the war "will end soon", that Iran is "being destroyed" and is "very eager to reach a deal", saying Iranian officials phoned to say "we want to reach a deal". He added he is "right about everything".
-
----
-
-### 2026-09-17 08:11:14  #市場 #焦點
-
-現貨黃金突破4280美元/盎司，日內漲0.39%。
-
----
-
-### 2026-09-17 08:10:54  #國際
-
-特朗普：烏克蘭戰爭才是推高柴油價格的原因。
-
----
-
-### 2026-09-17 08:10:18  #MKT News #S&P/ASX 200 #Impact bullish
-
-Australia's S&P/ASX 200 opened up 25.10 points (+0.29%) at 8721.60 on Sept. 17 (Thursday).
-
----
-
-### 2026-09-17 08:10:05  #國際
-
-特朗普：最難結束的戰爭是俄烏戰爭。
-
----
-
-### 2026-09-17 08:09:29  #國際
-
-特朗普：我們正在努力解決俄羅斯和烏克蘭問題。
-
----
-
-### 2026-09-17 08:09:13  #其他
-
-申菱環境：與海外客戶簽訂價值4.146億美元的空調與製冷裝置合同。
-
----
-
-### 2026-09-17 08:08:42  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
-
-Trump said the US is very close to reaching an agreement with Mexico.
-
----
-
-### 2026-09-17 08:08:33  #國際
-
-特朗普：我們不需要歐洲擁有的任何東西。
-
----
-
-### 2026-09-17 08:08:23  #國際
-
-特朗普：我們與墨西哥即將達成協議。
-
----
-
-### 2026-09-17 08:08:01  #MKT News
-
-【U.S. to extend visa restrictions on Palestinian officials】The U.S. State Department said it will extend visa restrictions on Palestine Liberation Organization (PLO) members and Palestinian Authority (PA) officials. Israeli media reported the U.S. has for a second consecutive year refused to grant PA President Mahmoud Abbas a U.S. entry visa, forcing him to address the United Nations remotely. The visa-denial notice cited alleged links to terrorist organizations but provided no further details. Dozens of PA officials who sought to travel with him reportedly received similar denials.
 
 ---

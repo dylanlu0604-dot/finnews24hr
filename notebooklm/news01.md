@@ -1,7 +1,224 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-09-20 06:55:37_
-_本檔包含 2790 則快訊，約 524080 字_
+_更新時間：2026-09-20 08:52:17_
+_本檔包含 2801 則快訊，約 524161 字_
+
+---
+
+### 2026-09-20 08:47:26  #MKT News #Market Themes #Chip Wars #2353.TW #Impact bearish
+
+【Acer: storage shortages partly easing; PC prices may only reverse in H2 2027】Acer chairman Chen Junsheng said on the 19th supply tightness for storage and CPUs remains limited to a few specifications, while shortages for other specs are easing. He said elevated, volatile component prices mean end-market PC prices will likely keep rising in Q4, averaging a 5-20% increase, and may not reverse until H2 2027.
+
+---
+
+### 2026-09-20 08:45:16  #其他
+
+【宏碁：儲存短缺部分緩解 2027年下半年PC價格或將反轉】宏碁董事長陳俊聖19日表示，目前儲存及CPU除少數規格供貨吃緊，其他規格缺料正在緩解，不過因零部件價格高位震盪，預估今年第四季度終端PC產品將持續漲價，平均幅度可能達5-20%，要到2027年下半年價格才有機會反轉。
+
+---
+
+### 2026-09-20 08:37:54  #公司
+
+【中微半導新設科技公司 含AI及積體電路晶片業務】企查查APP顯示，近日，中微長芯（湖南）科技有限公司成立，經營範圍包含：積體電路晶片及產品銷售；積體電路晶片設計及服務；積體電路銷售；人工智慧基礎軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由中微半導（688380）全資持股。
+
+---
+
+### 2026-09-20 08:37:26  #公司
+
+【寧德時代入股新材料創新與半導體研發商金沙江電子】企查查APP顯示，近日，西安金沙江電子有限公司發生工商變更，新增寧德時代（300750）全資子公司寧波梅山保稅港區問鼎投資有限公司等為股東，同時註冊資本增至1672.07萬元。企查查資訊顯示，該公司成立於2023年，經營範圍包含：新能源汽車換電設施銷售；配電開關控制裝置製造；新能源汽車電附件銷售等。公開資訊顯示，該公司聚焦新材料創新與半導體科技，解決AI算力與商業航天時代的核心難題。
+
+---
+
+### 2026-09-20 08:37:05  #公司
+
+【廣和通、鯤鵬資本等成立AI終端與應用產業私募基金】企查查APP顯示，近日，深圳前海鯤鵬人工智慧終端與應用產業私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由深圳市鯤鵬股權投資有限公司、廣和通（300638）全資子公司深圳市廣和通投資發展有限公司等共同出資。
+
+---
+
+### 2026-09-20 08:32:44  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+【Northeast Securities: Fed hike delivered — what next for assets?】Northeast Securities said in a Sept. 20 research note the Fed’s September hike has been delivered; the dot plot shows Fed officials generally expect one more hike in 2026, then a period of unchanged policy. With the US economy not overheating, the firm views recent moves as precautionary and warns the risk of a December hike should not be underestimated under current guidance. Based on US wage growth and housing, Northeast Securities sees limited endogenous inflation pressure and does not expect a sustained, rapid hiking cycle—favoring a 2016-style outcome of a modest move followed by an extended pause.
+
+---
+
+### 2026-09-20 08:22:40  #其他
+
+法拉第未來：五大型號、九款配置EAI機器人本體新品正式釋出。新品覆蓋人形和四足兩大形態、Futurist、Master和Aegis三大系列，包括FF All-New Futurist、FF Master Mini、FX Aegis Hyper、FX Aegis Mega和FX Aegis Classic Ultra-W。九款配置建議零售價從9,990美元至137,900美元。
+
+---
+
+### 2026-09-20 08:16:22  #其他
+
+【“電子工業大米”價格最高漲十倍 行情劇烈波動】MLCC（多層陶瓷電容器），被業內稱為“電子工業大米”。小到手機家電，大到AI伺服器、新能源汽車，幾乎所有電子裝置都離不開。近期元器件市場走出極端分化行情：AI拉動高容量型號缺貨瘋漲，部分現貨暴漲數倍；普通消費級產品衝高回落，一冷一熱的背後，是AI算力浪潮的攪動。行情從5月底開始發酵。AI算力需求爆發的訊息傳導至元器件市場，海外大廠將消費級產能大量轉向AI高階產品，市場擔憂常規物料供給收緊，渠道商紛紛囤貨掃貨。進入6月，現貨市場進入“一天一價、甚至一小時一價”的火熱狀態，部分熱門型號短短一個月漲幅達7—8倍，現貨最高被炒至原價的2—10倍。到7月初，現貨價格衝到最高峰後迅速掉頭。前期大量囤貨的渠道商集中出貨，但下游消費電子終端需求疲軟，缺少足夠接盤力量，消費類MLCC價格迎來明顯回撥。商戶陳志孝以市場最通用料號0603-104舉例：“這顆是所有電容裡最常用的一個料，第二季度1000顆5元左右；6月底高峰時可以賣到30元，現在已經回落到10元。”（央視財經）
+
+---
+
+### 2026-09-20 08:15:50  #MKT News
+
+【Spain government: about 10,000 migrants still stranded in Ceuta】On the 18th a Spanish government source said, citing National Security Forces deployed in Ceuta, about 10,000 migrants remain stranded in the Spanish enclave. Some have been placed in government reception centres; others are displaced and sheltering in makeshift tents in mountains and on beaches. Ceuta local authorities estimate about 13,000 migrants remain. A large influx from Morocco at the end of July triggered what Spain calls its most severe border migration crisis in years.
+
+---
+
+### 2026-09-20 08:14:23  #國際
+
+市場訊息：烏克蘭對莫斯科州發起大規模空中打擊。
+
+---
+
+### 2026-09-20 08:13:11  #其他
+
+【西班牙政府：仍有約1萬名移民滯留休達】18日，西班牙政府訊息人士估計，根據部署在休達的國家安全部隊提供的資訊，目前休達仍有約1萬名移民滯留，其中部分人被安置在政府設立的安置設施中，另有一些人流離失所，只能在山區和海灘等地搭臨時帳篷。另據休達地方政府估計，當地仍有約1.3萬名移民滯留。今年7月底，大批移民從摩洛哥方向進入西班牙飛地休達，引發近年來西班牙最嚴重的邊境移民危機。（央視新聞）
+
+---
+
+### 2026-09-20 08:08:50  #MKT News #XAUUSD #Impact bullish
+
+【Israeli airstrikes in northern Gaza kill two】The Gaza Health Ministry and Shifa Hospital said on the 19th (local time) the Israel Defense Forces struck northern Gaza City and areas around the Jabalia refugee camp, killing two Palestinians. The IDF had not commented.
+
+---
+
+### 2026-09-20 08:08:17  #國際
+
+【以軍空襲加沙地帶北部 致2人死亡】加沙地帶衛生部門和希法醫院表示，當地時間19日，以色列國防軍對加沙地帶北部加沙城以及傑巴利耶難民營周邊地區進行了空襲，導致2名巴勒斯坦人死亡。截至目前，以色列國防軍對此暫未回應。（央視新聞）
+
+---
+
+### 2026-09-20 08:06:05  #公司 #國際
+
+【谷歌承認其AI模型在安全測試中侵入三家公司系統】美國谷歌公司18日承認，其人工智慧（AI）模型“雙子座”今年5月在網路安全能力測試中，侵入了三家真實公司的系統。谷歌安全工程副總裁希瑟·阿德金斯在一份宣告中說，在一次常規評估中，雙子座模型利用網上公開資訊獲得了登入憑證，獲得了三個其認為屬於測試範圍網站的訪問許可權。谷歌已確保三個相關實體獲知此事，並與測試合作方調整測試流程。據美國《華爾街日報》報道，測試由以色列“非常規”人工智慧公司實施。在其中一項測試中，雙子座模型經反覆嘗試猜中密碼，最終進入一個受保護的真實系統。在另外兩項測試中，模型從公開儲存庫中找到登入憑證，並利用這些憑證進入其他公司的受保護系統。（澎湃）
+
+---
+
+### 2026-09-20 08:04:56  #國際
+
+【俄稱控制多個定居點 烏稱打擊俄物流倉庫】當地時間19日，俄羅斯國防部發布戰報稱，俄軍過去24小時在多個地區控制了5個定居點，並打擊了烏軍使用的彈藥庫、能源和交通基礎設施、無人機及其零部件生產和儲存地點等目標。俄軍防空力量攔截了烏軍7枚制導航空炸彈、1枚美製海馬斯火箭彈和936架固定翼無人機。俄軍還打擊了為烏軍運送軍用物資的船隻。烏克蘭武裝部隊總參謀部19日通報稱，烏軍部隊在18日夜間到19日凌晨打擊了俄軍無人機指揮所、訓練設施、物流倉庫等目標。另外，烏防空部隊在18日18時到19日8時期間擊落和壓制了上百個俄軍發射的空中目標，其中包括3枚巡飛彈和138架各型別無人機。（央視新聞）
+
+---
+
+### 2026-09-20 08:01:22  #MKT News
+
+U.S. military said it struck a vessel suspected of drug trafficking in the Caribbean Sea on Saturday; the strike killed four.
+
+---
+
+### 2026-09-20 07:59:05  #國際
+
+【以軍對黎巴嫩南部發動多次襲擊】當地時間19日，據黎巴嫩方面訊息，以色列軍隊當天對黎南部賓特朱拜勒、奈拜提耶等多個地區發動了多次襲擊。襲擊造成當地多座房屋損毀，目前暫無人員傷亡報告。據悉，當地醫療救援組織派出的救援隊在前往奈拜提耶地區的遭襲地點途中遭到了以軍的再次空襲，襲擊幾乎命中救援隊。（央視新聞）
+
+---
+
+### 2026-09-20 07:55:19  #國際
+
+【伊朗外長：軍事施壓不會為中東地區帶來和平】19日，伊朗外交部長阿拉格齊表示，中東地區長期的外國干涉、軍事施壓和無休止的戰爭證明了一個不可否認的事實：軍事幹涉不會創造安全，施加壓力和脅迫不會帶來和平。如今，軍事力量不再被用作最後手段，而是變成了重新設計地區政治和安全格局的一種永久性機制。阿拉格齊呼籲國際社會再次恢復國際法的真正意義和信譽，從干涉主義轉向尊重國家主權，從集體懲罰轉向保護平民，從選擇性問責轉向普遍正義，從無休止的戰爭轉向持久和平。（央視新聞）
+
+---
+
+### 2026-09-20 07:51:40  #國際
+
+美國中央司令部司令：本次行動擊斃四名毒品恐怖分子。
+
+---
+
+### 2026-09-20 07:50:43  #國際
+
+市場訊息：美國南方司令部 9 月 19 日打擊加勒比航道上的船隻。
+
+---
+
+### 2026-09-20 07:46:28  #其他
+
+【馬裡軍方證實近日軍事行動中有士兵傷亡或被俘】巴馬科訊息：馬裡武裝部隊總參謀部19日釋出公報說，馬裡軍隊在該國中部莫普提區久拉市開展軍事行動期間，有士兵傷亡，並有士兵被俘。公報未公佈傷亡及被俘士兵人數，強調軍方仍在營救被俘士兵。（新華社）
+
+---
+
+### 2026-09-20 07:45:44  #國際
+
+【中進汽貿簽署三方合作備忘錄 進一步拓展中東市場】據國機汽車公眾號訊息，近日，國機汽車下屬企業中進汽貿與卡達Al Hamad Automobiles W.L.L.及Sunridge Group Limited（HK）共同簽署《合作備忘錄》，三方達成共識，將圍繞汽車出海及跨境供應鏈相關領域開展全方位合作。此次合作備忘錄的簽署，是中進汽貿進一步拓展中東市場、最佳化海外業務佈局的重要舉措。
+
+---
+
+### 2026-09-20 07:42:42  #公司
+
+【馬斯克 Terafab 晶片廠未投產即陷商標糾紛】據報道，馬斯克旗下特斯拉、SpaceX及xAI聯合打造的Terafab晶片工廠，尚未生產一顆晶片便遭遇商標糾紛。特斯拉和SpaceX已於近日向奧斯汀聯邦法院提起訴訟，請求法官裁定其Terafab晶片工廠名稱不構成商標侵權。 這場糾紛的源頭髮生在5月。伊利諾伊州奈米制造裝置公司Tera-Print當時向SpaceX和特斯拉發出停止侵權函，要求其停止使用Terafab名稱。雙方曾於9月2日進行和解談判，特斯拉也提出了和解方案。但Tera-Print稱，特斯拉在表達繼續談判意願的同時，卻“搶先向法院提起訴訟”。 Tera-Print表示將堅決捍衛自身商標權。目前案件已提交至奧斯汀聯邦法院。
+
+---
+
+### 2026-09-20 07:40:51  #國際
+
+【伊朗內政部：無需擔憂必需品供應問題】據伊朗方面訊息，伊朗內政部負責政治事務的副部長澤尼萬德19日在新聞釋出會上表示，由於必需品進口量龐大，伊朗目前面臨倉儲設施不足，他已呼籲私營部門予以協助。伊朗民眾不必擔心必需品的供應，也不應被敵人的虛假報道所影響，政府在這方面的工作正以最佳狀態推進。(央視新聞）
+
+---
+
+### 2026-09-20 07:33:23  #市場 #焦點
+
+英特爾暗盤突破110美元，日內漲1.2%。
+
+---
+
+### 2026-09-20 07:25:12  #其他
+
+【德國大眾汽車下調營業利潤率預期】據路透社報道，受旗下品牌保時捷相關資產減值等因素的影響，德國大眾汽車當地時間週五釋出盈利預警，預計全年營業利潤率不超過1%，遠低於此前預期的4%-5.5%。（央視財經）
+
+---
+
+### 2026-09-20 07:24:06  #公司
+
+【分析師：蘋果拆分iPhone18釋出節奏策略奏效，部分使用者轉購Pro機型】9 月 20 日訊息，蘋果今年改變了傳統的 iPhone 秋季釋出節奏，僅推出 iPhone 18 Pro 系列機型及首款摺疊屏手機 iPhone Duo。而標準版 iPhone 18、定位更低的 iPhone 18e 以及 iPhone Air 2 預計將推遲至明年春季釋出。 對此，分析公司 Deepwater Asset Management 管理合夥人兼聯合創始人、前 Piper Jaffray（現 Piper Sandler）分析師 Gene Munster 發文，認為蘋果拆分 iPhone 18 系列釋出節奏的策略正在發揮作用。 具體來看，在 iPhone 18 Pro 系列上市首日，相應產品預購預計送達時間比去年同期延長了約 15%。因此 Gene Munster 認為，部分原本可能購買基礎版 iPhone 的消費者，正在增加預算轉而購買價格更高的 iPhone 18 Pro 或 iPhone 18 Pro Max。
+
+---
+
+### 2026-09-20 07:23:02  #宏觀 #國際
+
+【美國國務院釋出安全提醒 稱中東地區局勢可能升級】由於中東局勢緊張，當地時間19日，美國國務院釋出安全提醒，建議身處中東地區的美國公民保持高度警惕，其他地區的美國公民慎重前往中東地區。美國務院釋出宣告說，鑑於中東地區的緊張局勢，當地安全環境複雜，並存在局勢意外升級的可能性。目前身處中東地區的美國公民應保持高度警惕、謹慎行事，併為可能的航班取消、空域階段性關閉及旅行中斷做好應對準備。宣告還稱，葉門胡塞武裝與沙烏地阿拉伯之間的衝突持續升級，其中還包括對民用機場的襲擊。這一軍事衝突存在迅速升級的可能性。宣告警告稱，身處中東以外地區的美國公民應重新考慮前往或途經該地區的行程。（中國新聞網）
+
+---
+
+### 2026-09-20 07:21:33  #公司 #市場
+
+【河北港口集團與巴西淡水河谷簽署《共同建立“曹妃甸—圖巴朗鐵礦石綠色航運走廊”的倡議》】當地時間9月18日下午，河北港口集團黨委書記、董事長曹子玉一行赴巴西里約熱內盧，拜訪巴西淡水河谷公司全球供應鏈總監胡安。雙方舉行工作座談，並倡議共同建立“曹妃甸—圖巴朗鐵礦石綠色航運走廊”。依據倡議，雙方將與價值鏈上的利益相關方開展合作，在曹妃甸港和圖巴朗港間建立綠色航運走廊（即由低或零溫室氣體排放船舶執航的海運航線），推動兩港間實現海運淨零排放。
+
+---
+
+### 2026-09-20 07:17:16  #國際
+
+埃及譴責針對利雅得的襲擊，並對沙烏地阿拉伯表示支援。
+
+---
+
+### 2026-09-20 07:14:19  #公司
+
+委內瑞拉代總統與法國油氣公司道達爾能源簽署諒解備忘錄。
+
+---
+
+### 2026-09-20 07:09:11  #其他
+
+【最複雜、速度最快的分子計算機誕生】據最新一期《自然》雜誌報道，愛爾蘭梅努斯大學的研究人員研製出一種新型DNA分子計算機，可利用DNA分子相互作用完成加法、乘法和除法等數學運算。這是目前已報道的最複雜、速度最快的分子計算機，已實現100位元計算，並可連續完成多達25次不同運算。這項研究有望為低能耗計算和長期資料儲存提供新的技術路徑。
+
+---
+
+### 2026-09-20 07:05:50  #國際
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、北斗衛星導航系統賦能經濟社會發展 同世界 共北斗
+2、東博會升級人工智慧展區，突出需求牽引，共享3.0機遇——助力構建更為緊密的中國—東盟命運共同體
+3、商務部新聞發言人就中美經貿磋商有關問題答記者問
+4、中國展團連續3年亮相阿拉伯旅遊展——“中國入境遊”備受阿拉伯國家青睞
+5、南京高標準打造一流營商環境
+6、湖北自貿試驗區——司法保護“精準滴灌”創新沃土
+
+---
+
+### 2026-09-20 07:03:52  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、釋放“海”的潛力 激發“江”的活力 做足“邊”的文章——從平陸運河通航看新時代廣西向海圖強開放發展新圖景
+2、啟用統一品牌滿10年，年開行量增長10.8倍 中歐班列 聯通亞歐
+3、第二十屆亞運會在日本名古屋開幕
+4、湖北自貿試驗區——司法保護“精準滴灌”創新沃土
+5、成才答卷，寫在祖國大地上
+6、前8月完成水利建設投資6903億元 引入民間資本同比增八成
+7、快遞行業“反內卷”見成效 前8月收入增速高於業務量增速
 
 ---
 
@@ -16709,143 +16926,5 @@ Spot palladium traded above $1,300/oz, up 1.85% on the day.
 ### 2026-09-18 10:31:26  #宏觀 #公司
 
 【住建部：在房地產開發上將做實專案公司制 解決“誰是專案獨立實施主體”問題】9月18日，住房和城鄉建設部房地產市場監管司司長‌張雪濤在國新辦新聞釋出會上表示，將全力推動房地產三項基礎制度的落地實施，這三項基礎性制度都是以專案為物件。在房地產開發上，主要是做實專案公司制，主要是解決“誰是專案的獨立實施主體”這個問題。一個房地產專案對應一家專案公司，專案公司依法行使獨立法人的權利，嚴禁企業總部違規抽挪專案公司的資金。
-
----
-
-### 2026-09-18 10:31:14  #國際
-
-馬來西亞航空接近達成採購波音787“夢想客機”的交易。
-
----
-
-### 2026-09-18 10:30:34  #宏觀
-
-【規範量子產業生態體系 一批次子核心器件國家標準釋出】市場監管總局加強系統佈局，集中推動制定一批次子核心器件國家標準。其中，新發布《量子壓縮光源技術規範》和《週期極化鈮酸鋰量子頻率轉換器件效能測試方法》兩項國家標準，新立項《量子技術 連續變數光量子糾纏源技術規範》《電力測量用金剛石氮-空位色心材料效能要求與檢測方法》《量子測量 固態自旋量子磁強計效能表徵及測量方法》等4項國家標準計劃，《量子技術 雙光子偏振糾纏源效能表徵及測量方法》《量子技術 超高反射率光學薄膜效能表徵及測量方法》等多項在研標準持續穩步推進，加速構建完善我國量子技術國家標準體系。
-
----
-
-### 2026-09-18 10:30:05  #公司
-
-【四方精創回應延遲H股上市：業務層面都正常 後續可能擇機在H股上市】針對四方精創延遲H股全球發售及上市事宜，記者今日以投資者身份致電該公司。證券部人士稱，目前業務層面都正常，主要是當前的市場狀況不是很好。據悉，四方精創後續可能仍會在H股上市，“但還是看時機”。四方精創原定於9月22日（下週二）登陸港交所，招銀國際、國信證券聯席保薦。公司於招股最後一日緊急在港交所公告稱，決定延遲全球發售及香港聯合交易所主機板的上市。 (財聯社)
-
----
-
-### 2026-09-18 10:29:53  #MKT News
-
-【Luwei Photonics: 40nm full-set mask customer validation progressing】At its Sept. 18, 2026 interim results briefing, Luwei Photonics said customer validation for 40nm full-set photomasks is progressing orderly. 40nm and 28nm single-mask photomasks have passed customer qualification and deliveries are underway. 28nm–14nm full-set mask capability is being built under the company’s LuXin Phase II project, currently under construction on schedule, aimed at reducing reliance on overseas suppliers for high-end process nodes.
-
----
-
-### 2026-09-18 10:29:42  #MKT News #Market Regions #Japan & APAC #WTI #Impact bullish
-
-【Daiwa Securities warns of rising risk of prolonged inflation in Japan】Daiwa Securities economist Kento Minami said the risk of prolonged inflation in Japan is increasing as crude oil rebounds and firms increasingly pass higher costs to consumers. He warned the recent sharp rise in crude could feed through to electricity prices after a roughly 3–8 month lag, potentially beginning in early 2027. Rising oil, logistics and labour costs are making cost pass-through more likely and could extend food inflation; food prices excluding fresh produce rose 2.7% YoY in August.
-
----
-
-### 2026-09-18 10:29:09  #國際
-
-木原稔：日本將顯著加大預算改革相關工作力度。
-
----
-
-### 2026-09-18 10:28:42  #MKT News
-
-【Baotong Technology signs SERV agreement with SimFer for Ximangdu iron ore mine】Baotong Technology said on Sept 14 it signed a long-term intelligent operations support service agreement (SERV contract) with SimFer in Wuxi for the Ximangdu iron ore mine. The deal extends cooperation from product supply and on-site installation to long-term operations assurance and full life-cycle services.
-
----
-
-### 2026-09-18 10:28:05  #其他
-
-【寶通科技與SimFer簽署西芒杜鐵礦SERV服務協議】據寶通科技訊息，9月14日，寶通與SimFer在無錫正式簽署西芒杜鐵礦長期智慧運營保障服務協議（SERV合同）。此次簽約標誌著雙方合作從產品供應、現場安裝延伸至長期運營保障與全生命週期服務。
-
----
-
-### 2026-09-18 10:27:54  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-【China housing ministry says completed-home sales are the trend】At a State Council Information Office briefing, the Ministry of Housing and Urban-Rural Development (MOHURD) said completed-home sales are the prevailing trend and urged new projects to prioritize sales of completed properties to prevent sell-before-delivery risks. Citing National Bureau of Statistics data, MOHURD said completed-home sales area has grown and its share of new-home sales has risen in recent years. It called for coordinated land, financial and tax support for projects that opt for completed-sales and said where presales are used authorities should strengthen presale fund supervision to protect buyers' legal rights.
-
----
-
-### 2026-09-18 10:27:32  #MKT News
-
-【Jan–Aug China postal industry revenue +6.0% YoY】China postal industry revenue excluding Postal Savings Bank direct operating income totaled 1.23 tln yuan in Jan–Aug, up 6.0% YoY. Express revenue was 1.03 tln yuan, +7.4% YoY. Jan–Aug delivery volume reached 145.46 bln items, +4.0%; express volume 134.06 bln, +4.6%. In August, industry revenue was 150.54 bln yuan, +5.3%; express revenue 127.15 bln yuan, +6.9%. August delivery volume was 18.03 bln items, +2.3%; express volume 16.60 bln, +2.7%.
-
----
-
-### 2026-09-18 10:27:31  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-【South Korea's Lee says will not send troops to Middle East conflict】South Korea's Lee said on Friday Seoul will not deploy military forces to the Middle East that could draw the country into conflict related to a war with Iran. He said the government is considering whether to expand its role in safeguarding navigation through the Strait of Hormuz.
-
----
-
-### 2026-09-18 10:27:08  #其他
-
-【1-8月郵政行業業務收入同比增長6.0%】資料顯示，1-8月，郵政行業業務收入（不包括郵政儲蓄銀行直接營業收入）累計完成12304.5億元，同比增長6.0%。其中，快遞業務收入累計完成10289.2億元，同比增長7.4%。1-8月，郵政行業寄遞業務量累計完成1454.6億件，同比增長4.0%。其中,快遞業務量累計完成1340.6億件，同比增長4.6%。8月份，郵政行業業務收入完成1505.4億元，同比增長5.3%。其中，快遞業務收入完成1271.5億元，同比增長6.9%。8月份，郵政行業寄遞業務量完成180.3億件，同比增長2.3%。其中,快遞業務量完成166.0億件，同比增長2.7%。
-
----
-
-### 2026-09-18 10:26:48  #公司 #國際
-
-【春秋航空：預計未來兩年國際航線運力仍將保持較快增長】春秋航空(601021)在9月18日召開的2026年半年度業績說明會上表示，當前公司國際航線表現好於國內市場，東南亞和韓國市場運力增長較快。隨著入境客流明顯增長、客源結構更加均衡，以及區域經貿往來帶來更多商務需求，國際航線的市場培育壓力已有所緩解，未來兩年公司預計國際航線運力仍將保持較快增長。公司將充分考慮市場接受度，統籌存量航線與新增航線的運營安排。
-
----
-
-### 2026-09-18 10:26:43  #公司
-
-【華圖教育：從未委託任何機構或個人辦理“退費清退”，已報案】華圖教育9月17日晚釋出宣告稱，近日，有不法分子冒用華圖教育名義實施退費詐騙：向學員寄送紙質“退費通知函”、傳送電子“退費函”或撥打電話、簡訊，謊稱可辦理全額退費，誘導學員掃碼新增所謂“線上客服”。經核實，上述檔案中的《華圖教育退費公告》（冒用教育部名義，文號教材〔2026〕5號）、《關於華圖教育退費辦理及相關流程的公告》（冒用市場監督管理總局名義，文號京市監〔2026〕108號），及其加蓋的“國家市場監督管理總局辦公廳”印章，均系偽造。公司從未釋出此類公告，亦從未委託任何機構或個人辦理“退費清退”。公司已向公安機關報案並固定證據，將依法追究相關主體的民事、行政及刑事責任，絕不姑息。
-
----
-
-### 2026-09-18 10:26:25  #其他
-
-【路維光電：40nm成套掩膜版客戶驗證有序推進】路維光電(688401)在9月18日召開的2026年半年度業績說明會上表示，目前40nm成套掩膜版客戶驗證有序推進，40nm和28nm單片掩膜版客戶端驗證透過並供貨，28nm—14nm成套掩膜版於路芯二期專案實施，目前正按計劃籌建，致力於打破境外企業在高階製程領域的壟斷。
-
----
-
-### 2026-09-18 10:26:16  #其他
-
-康寧自2026年第四季度起，將對顯示玻璃基板產品價格上調15%以上。
-
----
-
-### 2026-09-18 10:25:57  #其他
-
-【住房城鄉建設部：現房銷售是大勢所趨】國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會。住房城鄉建設部有關負責人介紹，當前，房地產市場出現了“兩個轉變”。一個是房地產市場供求關係發生重大變化；一個是房地產進入存量時代，二手房交易佔比從2020年的27%提高到2025年的46%，今年前8個月已經達到52%，超過50%標誌著進入存量時代。“十五五”時期，住房城鄉建設部將積極適應房地產的新形勢新變化，統籌防風險和促轉型，統籌惠民生和穩增長，加快構建房地產發展新模式，健全多主體供給、多渠道保障、租購併舉的住房制度，推動房地產高質量發展。在商品房銷售上，推進現房銷售制，解決專案銷售“一手交錢，一手交房”的問題，實現“所見即所得”，從根本上防範交付風險。現房銷售是大勢所趨，從國家統計局資料來看，近年來現房的銷售面積保持正增長，佔新房銷售面積的比重逐年提高。新專案優先選擇現房銷售，統籌用好針對專案的土地、金融、稅收等支援政策；實行預售的，完善預售資金監管，切實維護購房人合法權益。
-
----
-
-### 2026-09-18 10:24:58  #MKT News
-
-【UNWTO cuts 2026 global international tourist arrivals forecast to 1–2%】The UN World Tourism Organization (UNWTO) on the 17th lowered its 2026 forecast for global international tourist arrivals to 1–2% growth from a prior 3–4% range. Its World Tourism Barometer showed arrivals rose just 0.4% YoY in 1H to about 690 mln, roughly 3 mln more than a year earlier. Arrivals were up 2% YoY in Q1 but fell 1% in Q2; June was down 3% YoY. The UNWTO said Middle East arrivals fell 22% YoY in 1H, directly affected by the regional conflict.
-
----
-
-### 2026-09-18 10:24:51  #MKT News #Market Regions #Greater China
-
-【Ministry of Housing: China real estate supply-demand relationship has undergone major change】On Sept. 18, Zhang Xuetao, director of the Real Estate Market Regulation Department at the Ministry of Housing and Urban‑Rural Development, said the China property market is undergoing two shifts: a major change in supply‑demand dynamics and a transition into a stock era. He said second‑hand transactions’ share rose from 27% in 2020 to 46% in 2025 and reached 52% in the first eight months of this year; exceeding 50% marks entry into the stock era.
-
----
-
-### 2026-09-18 10:24:32  #宏觀
-
-【住建部：房地產市場供求關係發生重大變化】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會。住房和城鄉建設部房地產市場監管司司長張雪濤在釋出會上表示，當前，房地產市場出現了“兩個轉變”。一個是房地產市場供求關係發生重大變化；一個是房地產進入存量時代，二手房交易佔比從2020年的27%提高到2025年的46%，今年前8個月已經達到52%，超過50%標誌著進入存量時代。
-
----
-
-### 2026-09-18 10:24:01  #MKT News
-
-【Strait of Hormuz shipping traffic remains below 10-day average】Preliminary shipping data released Friday show four bulk commodity carriers transited the Strait of Hormuz on Thursday, down from six the previous day and below the roughly 16-vessel 10-day average. Counts may change because some ships commonly switch off AIS transponders while underway.
-
----
-
-### 2026-09-18 10:23:04  #公司
-
-【中投保與中鐵資本控股簽署戰略合作協議】9月15日，中投保與中鐵資本控股(北京)集團有限公司（簡稱“中鐵資本控股”）在京簽署戰略合作協議。依據協議約定，雙方將拓展多元化投融資合作，涵蓋基建股權投資、債券擔保、一帶一路專案應收賬款ABS、供應鏈金融、綠色環保投資等方向。
-
----
-
-### 2026-09-18 10:22:57  #MKT News #Market Themes #China Tech Giants #Market Regions #Greater China
-
-【Lingqu Ascend 950 intelligent compute-cluster cloud service to launch globally】At Huawei FullConnect 2026, Huawei Cloud said its Lingqu Ascend 950 intelligent compute-cluster cloud service will be commercially available in China on Sept 30 and globally on Nov 30.
 
 ---
