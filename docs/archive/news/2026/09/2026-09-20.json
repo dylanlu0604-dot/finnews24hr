@@ -1,7 +1,31 @@
 {
   "date": "2026-09-20",
-  "count": 678,
+  "count": 680,
   "items": [
+    {
+      "id": "mkt:01a0bee0-fef0-7118-8616-65e21686cea1",
+      "time": "2026-09-20 20:53:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Manufacturing AI key-scenario penetration exceeds 34% in 1H】The National Industrial Information Security Development Research Center said in a report released at the World Manufacturing Convention (Hefei, Sep 20) that China’s manufacturing AI key‑scenario application penetration reached 34.2% in 1H, up 5.5 ppt YoY. The report placed the national integration of industrialization and informatization development index at 67.1. Digital adoption is widespread: 86.3% of firms have digitized R&D/design, 69.5% have digitized production and 81.4% have digitized management. Nearly half of firms conduct networked collaboration; digital twins, chain‑network collaboration and smart production models are expanding. 10.6% of manufacturers above designated size report using AI large models to enable business innovation."
+    },
+    {
+      "id": "5104045",
+      "time": "2026-09-20 20:50:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年製造業人工智慧重點場景應用普及率超34%】9月20日在安徽省合肥市舉辦的2026世界製造業大會上，國家工業資訊保安發展研究中心釋出的《製造業數智化轉型能力水平（2026）》顯示，今年上半年，我國製造業人工智慧重點場景應用普及率達34.2%，全國兩化融合發展水平達到67.1，整體進入數字化、網路化、智慧化協同推進的新階段。（新華社）"
+    },
     {
       "id": "mkt:01a0bedd-6486-7118-8616-5f03e6b9c0b7",
       "time": "2026-09-20 20:49:35",
