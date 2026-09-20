@@ -1,7 +1,20 @@
 {
   "date": "2026-09-21",
-  "count": 108,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:01a0c053-3954-7118-8619-33c84331fdc9",
+      "time": "2026-09-21 03:37:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Qatar energy minister says U.S. Treasury Secretary underestimated value of Strait of Hormuz; importance won't fade】Qatar Energy CEO and energy minister Saad Sherida Al-Kaabi said a recent U.S. Treasury Secretary remark that the Strait of Hormuz would “lose value” within two years is wrong. He said the strait carries oil, gas and other trade and that commerce through Hormuz cannot become obsolete. Al-Kaabi said Qatar has no current plans to build pipelines to bypass the strait, that any decision would be based on commercial and technical factors, and that Qatar will continue to use Hormuz to transport energy. Qatar’s commerce and industry minister added the strait will not lose its role as global shipping remains predominantly seaborne."
+    },
     {
       "id": "5104364",
       "time": "2026-09-21 03:31:39",

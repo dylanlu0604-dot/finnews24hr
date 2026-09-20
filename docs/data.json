@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-21 03:35:27",
-  "count": 13702,
+  "updated": "2026-09-21 03:39:12",
+  "count": 13699,
   "items": [
+    {
+      "id": "mkt:01a0c053-3954-7118-8619-33c84331fdc9",
+      "time": "2026-09-21 03:37:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Qatar energy minister says U.S. Treasury Secretary underestimated value of Strait of Hormuz; importance won't fade】Qatar Energy CEO and energy minister Saad Sherida Al-Kaabi said a recent U.S. Treasury Secretary remark that the Strait of Hormuz would “lose value” within two years is wrong. He said the strait carries oil, gas and other trade and that commerce through Hormuz cannot become obsolete. Al-Kaabi said Qatar has no current plans to build pipelines to bypass the strait, that any decision would be based on commercial and technical factors, and that Qatar will continue to use Hormuz to transport energy. Qatar’s commerce and industry minister added the strait will not lose its role as global shipping remains predominantly seaborne."
+    },
     {
       "id": "5104364",
       "time": "2026-09-21 03:31:39",
@@ -125557,40 +125570,6 @@
         "國際"
       ],
       "text": "伊朗外交部官員：阿曼會議的推遲是應地區部分國家的要求，並由德黑蘭和馬斯喀特共同作出的決定。"
-    },
-    {
-      "id": "mkt:01a09c47-3fb6-7118-855e-ce771fe05d30",
-      "time": "2026-09-14 03:38:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign minister held a phone call with the UAE foreign minister to discuss recent regional developments and de‑escalation efforts, Saudi outlet Alhadath reported."
-    },
-    {
-      "id": "mkt:01a09c47-3ae0-7118-855e-c14ee8e948a5",
-      "time": "2026-09-14 03:38:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc reported a magnitude 4.1 earthquake at 03:21 on Sept 14 in Hualien County, Taiwan; focal depth 14 km."
-    },
-    {
-      "id": "mkt:01a09c45-c433-7118-855e-bfcf4aabf104",
-      "time": "2026-09-14 03:36:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA quoted Iran's foreign ministry director-general for Gulf affairs saying the Gulf coastal states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by joint decision of Oman and Iran. Iran said it will consult closely with Oman to coordinate a new date."
-    },
-    {
-      "id": "mkt:01a09c45-b28c-7118-855e-b0a063adf028",
-      "time": "2026-09-14 03:36:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the banquet hall under construction at the White House will be \"the greatest\" of its kind worldwide and that he and other American patriots will donate it to the United States; he said no taxpayer funds will be used for construction."
     }
   ]
 }
