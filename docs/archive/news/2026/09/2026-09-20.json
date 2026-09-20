@@ -1,7 +1,31 @@
 {
   "date": "2026-09-20",
-  "count": 172,
+  "count": 175,
   "items": [
+    {
+      "id": "mkt:01a0bc81-b719-7118-8613-08a8ea7ef773",
+      "time": "2026-09-20 09:50:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【World Public Science Literacy Organization unveiled】BEIJING, Sept 20 — The World Public Science Literacy Organization, an international science body initiated with support from the China Association for Science and Technology, was officially unveiled at the opening of the 2026 World Conference on Promoting Public Science Literacy in Beijing. Registered in Beijing in June, the group leverages resources and international partnerships from the conference series and has 32 founding members from 21 countries across Asia, Europe, South America, Africa and Oceania."
+    },
+    {
+      "id": "5103631",
+      "time": "2026-09-20 09:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界公眾科學素質組織正式亮相】9月20日，在北京舉行的2026世界公眾科學素質促進大會開幕式上，世界公眾科學素質組織正式亮相。世界公眾科學素質組織是中國科協支援發起的國際科技組織，依託多年來舉辦世界公眾科學素質促進大會積累的資源成果和國際合作夥伴網路，於今年6月在北京註冊成立。目前已有創始單位會員32家，來自亞洲、歐洲、南美洲、非洲、大洋洲的21個國家。（新華社）"
+    },
+    {
+      "id": "5103630",
+      "time": "2026-09-20 09:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深藍航天自研雷霆R2.0發動機完成首次200秒長程試車】9月20日，深藍航天宣佈，其自主研製的針栓式可重複使用液氧煤油發動機\"雷霆R2.0完成動力升級，推力較初代型號提升50%至30噸級，並於近日完成首次200秒長程試車。"
+    },
     {
       "id": "5103629",
       "time": "2026-09-20 09:44:44",

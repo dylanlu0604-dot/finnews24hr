@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-20 09:47:09",
-  "count": 13497,
+  "updated": "2026-09-20 09:51:01",
+  "count": 13498,
   "items": [
+    {
+      "id": "mkt:01a0bc81-b719-7118-8613-08a8ea7ef773",
+      "time": "2026-09-20 09:50:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【World Public Science Literacy Organization unveiled】BEIJING, Sept 20 — The World Public Science Literacy Organization, an international science body initiated with support from the China Association for Science and Technology, was officially unveiled at the opening of the 2026 World Conference on Promoting Public Science Literacy in Beijing. Registered in Beijing in June, the group leverages resources and international partnerships from the conference series and has 32 founding members from 21 countries across Asia, Europe, South America, Africa and Oceania."
+    },
+    {
+      "id": "5103631",
+      "time": "2026-09-20 09:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界公眾科學素質組織正式亮相】9月20日，在北京舉行的2026世界公眾科學素質促進大會開幕式上，世界公眾科學素質組織正式亮相。世界公眾科學素質組織是中國科協支援發起的國際科技組織，依託多年來舉辦世界公眾科學素質促進大會積累的資源成果和國際合作夥伴網路，於今年6月在北京註冊成立。目前已有創始單位會員32家，來自亞洲、歐洲、南美洲、非洲、大洋洲的21個國家。（新華社）"
+    },
+    {
+      "id": "5103630",
+      "time": "2026-09-20 09:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深藍航天自研雷霆R2.0發動機完成首次200秒長程試車】9月20日，深藍航天宣佈，其自主研製的針栓式可重複使用液氧煤油發動機\"雷霆R2.0完成動力升級，推力較初代型號提升50%至30噸級，並於近日完成首次200秒長程試車。"
+    },
     {
       "id": "5103629",
       "time": "2026-09-20 09:44:44",
@@ -123875,22 +123899,6 @@
         "Europe & UK"
       ],
       "text": "CBS reports former US Army secretary Driscoll arrived in Kyiv, Ukraine."
-    },
-    {
-      "id": "5091148",
-      "time": "2026-09-13 09:49:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電信總經理劉桂清：深化算電協同，加強算力與電力產業在規劃、建設、運營方面深度融合】9月11日至13日，2026中國算力大會在河北省廊坊市舉行。主論壇上，中國電信集團有限公司總經理劉桂清表示，算力產業的高質量發展離不開產業協同與生態各方緊密合作。為此，他提出三點倡議：一是深化算電協同，加強算力與電力產業在規劃、建設、運營方面深度融合，聯合推動綠電直供、源網荷儲等新型供電模式應用，實現多樣化清潔能源高效供給；二是加快算力互聯互通，協同攻關異構算力接入、全域監測、跨域排程、算網融合等關鍵技術，共建統一算力標識與計量交易體系，有力服務全國算力的高效排程與協同發展；三是提升國產算力效能，聯合產業鏈上下游，加快國產算力與模型的深度適配，構建Token生產與分發的全棧最佳化能力，持續提升Token產出效能。"
-    },
-    {
-      "id": "mkt:01a09872-9b6e-7118-8559-345af64b76a0",
-      "time": "2026-09-13 09:47:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Yemeni armed forces reported three airstrikes struck Houthi positions in Taiz, Yemen."
     }
   ]
 }
