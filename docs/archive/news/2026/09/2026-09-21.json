@@ -1,7 +1,33 @@
 {
   "date": "2026-09-21",
-  "count": 230,
+  "count": 233,
   "items": [
+    {
+      "id": "mkt:01a0c13a-f317-7118-861a-1ca5ab43e6bd",
+      "time": "2026-09-21 07:51:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CDU falls short of 5% in Mecklenburg‑Vorpommern, first post‑war exclusion from state parliament】Preliminary counts early on the 21st in Mecklenburg‑Vorpommern showed the CDU won 4.9% of the vote, below the 5% threshold and, for the first time since World War II, failed to enter a state parliament. The party’s vote share fell 8.4 percentage points from 2021. Responding to exit polls on the evening of the 20th, CDU leader Merz called the result \"a disaster\" but said the government would continue to press ahead with reforms and work to rebuild public trust."
+    },
+    {
+      "id": "5104459",
+      "time": "2026-09-21 07:50:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【基民盟首次無緣進入德國州一級議會 】德國梅克倫堡-前波美拉尼亞州21日凌晨公佈的州議會選舉初步計票結果顯示，總理默茨所在的基民盟僅獲得4.9%選票，未能跨過5%的得票率門檻，在二戰後歷史上首次無緣州一級議會。基民盟此次得票率較2021年選舉下跌8.4個百分點。默茨在20日傍晚出口民調公佈時發表宣告說，選舉結果是“一場災難”，但他同時強調政府將繼續推進改革並致力於重建公眾信任。初步計票結果還顯示，極右翼政黨德國選擇黨以38.2%的得票率躍升為該州第一大黨；社民黨以35.5%的得票率緊隨其後。此外，莎拉·瓦根克內希特聯盟得票率為4.8%，同樣以微弱差距無緣進入該州議會。（新華社）"
+    },
+    {
+      "id": "5104458",
+      "time": "2026-09-21 07:47:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價持穩，交易員權衡通脹與美聯儲加息前景】美聯儲自2023年以來首次加息落地後，交易員評估持續通脹風險與利率走向，金價保持平穩。現貨黃金交投於每盎司4375美元附近，上週金價錄得小幅上漲。美聯儲在9月15至16日的會議上全票透過加息25個基點，本週多名美聯儲官員將發表公開講話。此次加息旨在為通脹降溫，美國通脹已逾五年未能達到美聯儲2%的目標。投資者將密切關注官員言論，尋找後續加息節奏的線索。明尼阿波利斯聯儲主席尼爾・卡什卡利率先發聲，他於週日表示通脹依舊過高，通脹壓力已經擴散，不只是伊朗戰爭帶來的油價衝擊。他在電視採訪中稱：“美國民眾日常感受到的通脹遠不止油價問題，通脹已經滲透至經濟的方方面面。”芝加哥聯儲主席奧斯坦・古爾斯比將於週一晚些時候發表講話，紐約聯儲主席約翰・威廉姆斯則在週二發言。現貨黃金下跌0.1%，報每盎司4373.95美元。白銀上漲0.2%，報每盎司66.38美元。鉑金與鈀金小幅走高。"
+    },
     {
       "id": "5104457",
       "time": "2026-09-21 07:45:44",
