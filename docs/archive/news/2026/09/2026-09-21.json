@@ -1,7 +1,23 @@
 {
   "date": "2026-09-21",
-  "count": 58,
+  "count": 60,
   "items": [
+    {
+      "id": "mkt:01a0bfe1-36c6-7118-8618-a7117376a595",
+      "time": "2026-09-21 01:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney says French and Canadian space agencies and defense ministries will jointly develop space launch systems and ground-receiving facilities."
+    },
+    {
+      "id": "mkt:01a0bfe1-0a30-7118-8618-9ebeaf2fd1c0",
+      "time": "2026-09-21 01:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney called for strengthening ties with France in the face of new global threats."
+    },
     {
       "id": "5104260",
       "time": "2026-09-21 01:27:49",
