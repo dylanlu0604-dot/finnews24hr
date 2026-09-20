@@ -1,7 +1,29 @@
 {
   "date": "2026-09-21",
-  "count": 154,
+  "count": 156,
   "items": [
+    {
+      "id": "te:economy:585137",
+      "time": "2026-09-21 06:09:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "China Keeps LPR Rates at Record Lows for 16th Month — The People's Bank of China left its key lending rates at record lows for a 16th straight month in September 2026, in line with market expectations. The move reflected caution over the impact of the conflict in the Middle East, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was kept at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Meanwhile, industrial production grew more than expected, while retail sales growth eased and was softer than estimated. At the same time, new yuan loans extended returned to growth in August, though below forecasts, as weak demand from the household and corporate sectors continued to weigh on credit growth. Meanwhile, housing prices continued to decline in August, though the pace of contraction was the softest in eight months, supported by government measures."
+    },
+    {
+      "id": "5104391",
+      "time": "2026-09-21 06:08:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【原油期貨大幅走高，美股期貨走弱】週一早盤，布倫特與WTI原油合約大幅上漲，美國股指期貨較上週五尾盤有所回落。卡達能源大臣稱，貝森特有關霍爾木茲海峽兩年內將失去價值的說法是錯誤的。費城半導體指數週末收漲，亞洲晶片企業有望獲得提振。德國基民盟在州選舉遭遇史上最差結果後，歐元兌美元匯率幾乎沒有波動。美債期貨保持平穩，黃金與比特幣價格同樣持穩。日本市場休市至週四。"
+    },
     {
       "id": "te:economy:585136",
       "time": "2026-09-21 06:08:08",

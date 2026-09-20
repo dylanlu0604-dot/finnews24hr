@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-21 06:08:56",
-  "count": 13670,
+  "updated": "2026-09-21 06:12:43",
+  "count": 13664,
   "items": [
+    {
+      "id": "te:economy:585137",
+      "time": "2026-09-21 06:09:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "China Keeps LPR Rates at Record Lows for 16th Month — The People's Bank of China left its key lending rates at record lows for a 16th straight month in September 2026, in line with market expectations. The move reflected caution over the impact of the conflict in the Middle East, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was kept at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Meanwhile, industrial production grew more than expected, while retail sales growth eased and was softer than estimated. At the same time, new yuan loans extended returned to growth in August, though below forecasts, as weak demand from the household and corporate sectors continued to weigh on credit growth. Meanwhile, housing prices continued to decline in August, though the pace of contraction was the softest in eight months, supported by government measures."
+    },
+    {
+      "id": "5104391",
+      "time": "2026-09-21 06:08:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【原油期貨大幅走高，美股期貨走弱】週一早盤，布倫特與WTI原油合約大幅上漲，美國股指期貨較上週五尾盤有所回落。卡達能源大臣稱，貝森特有關霍爾木茲海峽兩年內將失去價值的說法是錯誤的。費城半導體指數週末收漲，亞洲晶片企業有望獲得提振。德國基民盟在州選舉遭遇史上最差結果後，歐元兌美元匯率幾乎沒有波動。美債期貨保持平穩，黃金與比特幣價格同樣持穩。日本市場休市至週四。"
+    },
     {
       "id": "te:economy:585136",
       "time": "2026-09-21 06:08:08",
@@ -125189,80 +125211,6 @@
         "國際"
       ],
       "text": "在美國要求下，一名伊朗官員被阻止參加聯合國核問題會議。"
-    },
-    {
-      "id": "5091783",
-      "time": "2026-09-14 06:12:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【希臘南部海域一艘移民船傾覆導致約25人失蹤】據希臘國家廣播電視公司報道，一艘載有外國移民的船隻當地時間13日晚在希臘南部海域傾覆，附近過往船隻已救起數十人，仍有約25人失蹤。（新華社）"
-    },
-    {
-      "id": "5091782",
-      "time": "2026-09-14 06:11:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨下跌，報63665點。"
-    },
-    {
-      "id": "mkt:01a09cd3-4487-7118-855f-d25c83168bad",
-      "time": "2026-09-14 06:11:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【International crude up about 3% in early trade】Brent rose 3% to $104.74/bbl and WTI climbed 2.8% to $99.33/bbl after an attack prompted a precautionary shutdown of Saudi Arabia's east–west oil pipeline and a Gulf regional meeting was postponed."
-    },
-    {
-      "id": "5091781",
-      "time": "2026-09-14 06:10:53",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲天然氣因沙特管道關停及霍爾木茲會議推遲上漲3.8%。"
-    },
-    {
-      "id": "5091780",
-      "time": "2026-09-14 06:10:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破108美元/桶，日內漲3.37%。"
-    },
-    {
-      "id": "5091779",
-      "time": "2026-09-14 06:09:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報63.80美元/盎司。"
-    },
-    {
-      "id": "5091778",
-      "time": "2026-09-14 06:09:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報103.06美元/桶。"
-    },
-    {
-      "id": "5091777",
-      "time": "2026-09-14 06:09:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破103美元/桶，日內漲2.99%。"
     }
   ]
 }
