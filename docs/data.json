@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-21 03:42:59",
-  "count": 13690,
+  "updated": "2026-09-21 03:46:44",
+  "count": 13689,
   "items": [
+    {
+      "id": "5104365",
+      "time": "2026-09-21 03:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國和西班牙圍繞歐盟長期預算分歧明顯】近日，德國、西班牙等歐盟成員國，圍繞歐盟2028年至2034年長期預算方案釋放出不同聲音。距離歐盟計劃在今年年底前就下一輪長期預算達成政治協議，時間已經越來越緊，而目前各成員國之間的分歧，也正在進一步顯現。這場談判之所以受到關注，是因為它決定的不只是未來七年歐盟“有多少錢可以花”，更關係到這些錢究竟應該花在哪裡。（央視新聞）"
+    },
     {
       "id": "mkt:01a0c053-3954-7118-8619-33c84331fdc9",
       "time": "2026-09-21 03:37:54",
@@ -125441,30 +125449,6 @@
         "MKT News"
       ],
       "text": "【Qatari prime minister and foreign minister held phone call with Kuwait foreign minister on regional situation】Qatar’s foreign ministry said the Qatari prime minister and foreign minister held a phone call with Kuwait’s foreign minister to discuss the latest regional situation and coordination on diplomatic efforts to ease tensions and bolster regional security and stability. Qatar confirmed support for diplomatic initiatives aimed at ensuring freedom of navigation and paving the way for a comprehensive agreement to achieve lasting regional peace."
-    },
-    {
-      "id": "mkt:01a09c4b-8bf9-7118-855f-044091bacc80",
-      "time": "2026-09-14 03:43:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Why Canada's Prime Minister Carney is in no rush to resume US trade talks】Canada is delaying a return to US trade talks; Prime Minister Carney and his cabinet have focused on deepening ties with other countries and domestic infrastructure spending while avoiding commitments on retaliatory tariffs. Polls show broad public support for rejecting a bad deal and for retaliatory measures; some Canadians back export taxes to raise prices of oil, gas and electricity exported to the US. Domestic opposition to compromise is constraining Carney and complicating any restart of negotiations, says University of Toronto’s Andrew MacDougall. Carney and officials say talks collapsed over US demands including tariffs on steel, aluminum and autos that would leave those sectors uncompetitive; a requirement that Canada accept tariffs applying to goods from a US FTA partner; changes to Canadian cultural and French‑language protections; and aligning Canada’s trade policy with Trump’s positions. Carney called those demands fundamentally unacceptable; US officials dispute parts of Canada’s account but say Trump will not grant tariff exemptions."
-    },
-    {
-      "id": "5091737",
-      "time": "2026-09-14 03:43:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特：外交部長接到了阿聯酋外長的電話，雙方就遏制地區局勢升級的努力進行了討論。"
     }
   ]
 }
