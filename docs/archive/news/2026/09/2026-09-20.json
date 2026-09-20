@@ -1,7 +1,32 @@
 {
   "date": "2026-09-20",
-  "count": 666,
+  "count": 669,
   "items": [
+    {
+      "id": "mkt:01a0beca-1711-7118-8616-471e7edcd73f",
+      "time": "2026-09-20 20:28:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BGI Genomics partners with JD Health】At the 2026 JD Global Technology Explorers Conference, China’s BGI Genomics and JD Health announced a partnership: BGI’s genetic testing products have been officially onboarded to the JD Health platform, and the two companies will coordinate on user reach and service experience."
+    },
+    {
+      "id": "5104037",
+      "time": "2026-09-20 20:27:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲電力拍賣：北歐明日電價飆升超500%】據Nord Pool交易所，北歐明日拍賣電價較前一日的8.59歐元/兆瓦時飆升507%，達到52.11歐元/兆瓦時。德國Epex Spot交易所電價上漲344%，達到96.60歐元/兆瓦時。"
+    },
+    {
+      "id": "5104036",
+      "time": "2026-09-20 20:26:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華大基因與京東健康達成合作】近日，在2026京東全球科技探索者大會現場，華大基因與京東健康宣佈達成合作，華大基因旗下基因檢測產品正式入駐京東健康平臺，雙方將圍繞基因檢測產品的使用者觸達與服務體驗展開協同。"
+    },
     {
       "id": "5104035",
       "time": "2026-09-20 20:22:15",
