@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-20 21:31:18",
-  "count": 13608,
+  "updated": "2026-09-20 21:35:11",
+  "count": 13611,
   "items": [
+    {
+      "id": "mkt:01a0bf05-a631-7118-8616-9dbf9cbf0221",
+      "time": "2026-09-20 21:33:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he may be open to meeting with Iran's president. He added that major developments could occur in the near future."
+    },
+    {
+      "id": "5104063",
+      "time": "2026-09-20 21:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶通報“一餐館廚師在店內用艾滋病測試紙”】9月20日，重慶市兩江新區市場監督管理局釋出情況通報：近日，網傳“我區一餐館廚師在店內使用測試紙”引發社會關注。經調取現場監控影片、核查記錄並對涉事門店員工進行詳細詢問，該門店接觸直接入口食品的從業人員均持有有效健康證明。其中1名員工因近期身體不適，擔心自己肝部健康受損，自行網購測試紙後在店內自測，測試紙顯示指標為陰性。為核實該名員工健康情況，我局要求其在具備資質的醫療機構進行了複測，HIV等檢測結果均為陰性。鑑於該門店在食品加工操作區採血、使用檢測試劑，不符合《餐飲服務食品安全操作規範》要求。我局已責令涉事員工暫時離崗，並要求門店負責人立即整改，加強從業人員健康管理，嚴禁在食品加工區域從事與餐飲加工無關的行為。"
+    },
+    {
+      "id": "5104062",
+      "time": "2026-09-20 21:31:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普說：未來不久可能會發生一些大事。"
+    },
+    {
+      "id": "mkt:01a0bf03-fbbe-7118-8616-945f4633a1a4",
+      "time": "2026-09-20 21:31:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump narrows AI renaming poll, drops \"Supreme Intelligence\" over Supreme Court link】President Trump said on social media he will remove \"Supreme Intelligence\" from an AI renaming poll because of its association with the Supreme Court, and will let voters choose between \"Superior Intelligence\" and \"Extreme Intelligence.\""
+    },
+    {
+      "id": "5104061",
+      "time": "2026-09-20 21:30:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普說，他可能願意與伊朗總統會面。"
+    },
+    {
+      "id": "5104060",
+      "time": "2026-09-20 21:30:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普就伊朗問題表示： 正處於抉擇階段，他們最好保持克制。"
+    },
     {
       "id": "mkt:01a0befa-e043-7118-8616-88b89c2ebd9b",
       "time": "2026-09-20 21:21:47",
@@ -124728,32 +124784,6 @@
         "MKT News"
       ],
       "text": "【Iranian media calls Trump's 'Iran willing to make any deal' claim 'absurd'】Iran's Mehr news agency said on Sunday that President Trump sought to justify, in the agency's wording, costly US aggression against Iran that has provoked economic problems by claiming \"Iran is willing to make a deal at any cost, but I will not sign any imperfect deal.\" Mehr called the assertion \"absurd,\" saying it masks the failure of the aggression and Iran's economic difficulties. Trump added the war with Iran would end before or shortly after the US midterm elections."
-    },
-    {
-      "id": "5091491",
-      "time": "2026-09-13 21:32:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國眾議院民主黨領袖哈基姆・傑弗里斯（Hakeem Jeffries） 稱民主黨將於週二開會討論人工智慧相關舉措。"
-    },
-    {
-      "id": "5091490",
-      "time": "2026-09-13 21:31:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "閃迪暗盤跌超4%，現報1563.605美元。"
-    },
-    {
-      "id": "5091489",
-      "time": "2026-09-13 21:31:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SK海力士暗盤跌超5%，現報180.865美元。"
     }
   ]
 }
