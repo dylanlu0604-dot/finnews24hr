@@ -1,7 +1,1480 @@
 {
   "date": "2026-09-20",
-  "count": 492,
+  "count": 665,
   "items": [
+    {
+      "id": "5104034",
+      "time": "2026-09-20 20:21:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "NAFTOGAZ：烏克蘭國家石油天然氣公司與匈牙利MOL簽署關於為烏克蘭建立戰略燃料儲備的備忘錄。"
+    },
+    {
+      "id": "5104033",
+      "time": "2026-09-20 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：博彙科技兩融餘額：1.19億元，餘額增幅：137.21%；華峰測控兩融餘額：6.16億元，餘額增幅：96.07%"
+    },
+    {
+      "id": "5104032",
+      "time": "2026-09-20 20:16:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "據報道，航運用生物柴油在價格下跌後現已比傳統燃料更便宜。"
+    },
+    {
+      "id": "mkt:01a0beba-883e-7118-8616-390eebb6d742",
+      "time": "2026-09-20 20:11:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Culture and Tourism: build 'small and beautiful' new urban and rural public cultural spaces】China's Ministry of Culture and Tourism issued its Public Cultural Service System Construction '15th Five-Year Plan', directing the development of 'small and beautiful' urban and rural public cultural spaces. The plan mandates pragmatic, phased implementation alongside urban renewal and rural construction under an 'update a batch, upgrade a batch, share a batch' principle to optimize layout and improve effectiveness. It requires scientific site planning by service population, coverage radius and actual demand to create city 15-minute public cultural service circles, and urges rural specialization by expanding outdoor cultural and sports venues, reusing idle rural assets, and integrating public cultural services with rural production and living ecology."
+    },
+    {
+      "id": "mkt:01a0beb9-2c9c-7118-8616-37c4df8b800f",
+      "time": "2026-09-20 20:10:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Culture and Tourism pushes coordinated regional public cultural services, encourages cross‑region cultural cooperation projects】China's Ministry of Culture and Tourism issued the Public Cultural Service System Construction \"15th Five‑Year\" Plan, calling for cross‑administrative‑region coordination mechanisms to enable resource co‑construction and sharing, mutual recognition of standards and interoperable services. The plan promotes innovations such as \"same‑city treatment\" and \"service one‑card\", strengthens counterpart support, east‑west cooperation and targeted assistance, and encourages cross‑regional cultural cooperation projects to extend quality cultural resources to revolutionary old areas, ethnic regions and border areas."
+    },
+    {
+      "id": "5104031",
+      "time": "2026-09-20 20:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "橡樹資本馬克斯稱，樂觀派一直主導市場。"
+    },
+    {
+      "id": "mkt:01a0beb7-9031-7118-8616-2cf25d83a448",
+      "time": "2026-09-20 20:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA, citing election officials, reported Moscow's remote voting system and voter rolls remain subject to large-scale cyberattacks, but voting services are operating normally."
+    },
+    {
+      "id": "mkt:01a0beb7-4d86-7118-8616-26843994734f",
+      "time": "2026-09-20 20:07:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's Ministry of Culture and Tourism to push modern public library build-out, promote AI use】China's Ministry of Culture and Tourism issued the Public Cultural Service System Construction \"15th Five-Year\" Plan, directing continued modernization of public libraries toward more professional, smart, open and inclusive services and cultivating a cohort of modern libraries with distinct Chinese characteristics and world-class standing. The plan mandates adoption of AI and other new technologies to enable intelligent operations and more precise service delivery, and encourages capable public libraries to expand decision‑consulting and think‑tank services to provide information support for major national strategies."
+    },
+    {
+      "id": "5104030",
+      "time": "2026-09-20 20:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍披露“林肯”號航母最新動向：已駛入關島，9個月來首次返回美國本土】據美國海軍協會新聞網（USNI）援引美國海軍第七艦隊訊息報道，美“亞伯拉罕·林肯”號航空母艦以及第9艦載機聯隊已於當地時間19日駛入關島。報道稱，“林肯”號航母的部署已持續302天，在海上支援“史詩怒火”行動和美國對伊朗的持續軍事行動七個月後，它正處於返回美國西海岸的最後階段。USNI稱，預計“林肯”號航母將於下月初抵達美國西海岸。（環球網）"
+    },
+    {
+      "id": "5104029",
+      "time": "2026-09-20 20:07:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，莫斯科遠端投票系統和選民名單持續遭受大規模駭客攻擊，但投票服務仍在正常執行。"
+    },
+    {
+      "id": "5104028",
+      "time": "2026-09-20 20:06:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "橡樹資本霍華德・馬克斯發表評論，馬克斯認為美聯儲應減少溝通，少說話效果更好。"
+    },
+    {
+      "id": "mkt:01a0beb5-073a-7118-8616-1bf1279bdd16",
+      "time": "2026-09-20 20:05:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Ministry of Culture and Tourism issues plan targeting balanced public cultural services by 2030】The Ministry of Culture and Tourism issued the \"15th Five-Year Plan for Public Cultural Service System Construction\", setting targets through 2030. The plan aims to raise the level of balanced public cultural services, accelerate integrated urban–rural public cultural systems and strengthen regional coordination mechanisms. It calls for supply-side reforms to form an open, diversified and collaborative supply structure, advances public cultural digitalisation with richer digital resources, and seeks institutional reforms to lift innovation and creativity in public cultural services. Five priority tasks are named — reform to improve quality and efficiency, sustained construction of modern public libraries, development of mass cultural activities, promotion of balanced service delivery, and enhancement of public cultural digital-intelligence — supported by 18 key projects for implementation."
+    },
+    {
+      "id": "5104027",
+      "time": "2026-09-20 20:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 雪佛龍計劃增加明年的鑽井數量。"
+    },
+    {
+      "id": "5104026",
+      "time": "2026-09-20 20:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：推進公共文化數字基礎設施建設】文化和旅遊部印發《公共文化服務體系建設“十五五”規劃》，其中提到，持續推進全國智慧圖書館體系和國家公共文化雲平臺建設，加強資源匯聚、業務統籌，夯實國家公共文化數字基礎設施的核心平臺。推進公共文化關鍵技術標準研製，支援各地按照統一標準與規範，對區域內公共文化數字服務平臺進行整合，加強與智慧圖書館管理系統、國家公共文化雲平臺的對接，實現數字化基礎設施的互通互聯。推動各地將公共文化數字基礎設施建設納入新型基礎設施建設，深化與當地政務服務平臺、民生服務平臺的對接互認，推進全域共享、業務協同的“一體化”整合式平臺服務。鼓勵各級公共文化機構開展務實、節約、高效的數智化改造，推動數字服務裝置更新與管理系統迭代升級。"
+    },
+    {
+      "id": "5104025",
+      "time": "2026-09-20 20:03:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文旅部：到 2030 年，公共文化服務均衡發展水平不斷提升】文化和旅遊部印發《公共文化服務體系建設“十五五”規劃》，其中提到，到 2030 年，公共文化服務均衡發展水平不斷提升，城鄉公共文化服務體系一體建設全面推進，區域協同發展機制更加健全。公共文化服務供給機制進一步完善，開放、多元、協同的供給格局基本形成，服務能力顯著增強，人民群眾的文化參與和文化創造更加活躍。公共文化數智化建設躍上新臺階，數字資源更加豐富，資源整合與開放利用程度不斷提升，智慧服務新應用和新場—3—景加速普及。公共文化服務體制機制改革取得顯著成效，優質資源直達基層機制基本建立，社會力量參與機制更加完善，公共文化創新創造活力明顯提高。"
+    },
+    {
+      "id": "mkt:01a0beb2-77bc-7118-8616-118a8967b4cd",
+      "time": "2026-09-20 20:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Ministry of Culture and Tourism issued the 15th Five-Year Plan for construction of the public cultural service system."
+    },
+    {
+      "id": "5104024",
+      "time": "2026-09-20 20:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "文化和旅遊部印發《公共文化服務體系建設“十五五”規劃》。"
+    },
+    {
+      "id": "5104023",
+      "time": "2026-09-20 20:00:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所公告：俊知集團收購青海中利光纖100%股權。"
+    },
+    {
+      "id": "5104022",
+      "time": "2026-09-20 20:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗關閉與法國大使館有關聯的\"非法中心\"。"
+    },
+    {
+      "id": "5104021",
+      "time": "2026-09-20 19:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國排除全面燃油稅減免方案，油價持續飆升】儘管柴油和汽油價格創下歷史新高，法國並未計劃削減燃油稅，這一立場加劇了廣大民眾的不滿情緒。“全面減稅的成本如此之高，以至於它們將不可避免地導致未來普遍增稅，”法國預算部長大衛·阿米埃爾在接受採訪時表示。“我們不會一隻手承諾減稅，另一隻手又把錢拿回來。”"
+    },
+    {
+      "id": "5104020",
+      "time": "2026-09-20 19:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦河西岸兩起襲擊事件致2人死亡】約旦河西岸20日發生兩起襲擊事件，一名以色列人在襲擊中死亡，一名巴勒斯坦人被以軍打死。以色列國防軍當天發表宣告說，一名巴勒斯坦人在約旦河西岸北部傑寧附近的加尼姆地區駕車試圖衝撞以軍士兵，被以軍開槍打死。另據以軍和以色列急救部門訊息，當天在拉姆安拉西北部的內韋楚夫猶太人定居點附近發生槍擊事件。一名槍手從車內向一處泉水附近的以色列人開槍，造成一名以色列男子重傷，槍手駕車逃離現場。以色列媒體援引醫務人員的話說，重傷男子已身亡。（新華社）"
+    },
+    {
+      "id": "mkt:01a0beae-2f15-7118-8616-0d766c09bd50",
+      "time": "2026-09-20 19:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Two West Bank attacks leave Israeli and Palestinian dead】Two attacks in the West Bank on the 20th left an Israeli and a Palestinian dead, the IDF said. The IDF said a Palestinian was shot dead after allegedly attempting to drive into soldiers in the Ganim area near Jenin in the northern West Bank. Separately, Israeli forces and emergency services reported a shooting near the Neve Tzuf settlement northwest of Ramallah in which a gunman fired from a car at people near a spring; an Israeli man was critically wounded and later died, and the gunman fled by vehicle."
+    },
+    {
+      "id": "5104019",
+      "time": "2026-09-20 19:56:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航天資訊中標考古研究所智慧檔案系統開發建設專案】據航天資訊訊息，近日，航天資訊中標中國社會科學院考古研究所智慧檔案系統開發建設專案。該專案基於航天資訊自主研發的“檔案檔案一體化軟體系統”，為研究所定製開發新一代智慧檔案管理系統。"
+    },
+    {
+      "id": "5104018",
+      "time": "2026-09-20 19:52:55",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【9月20日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】大河安瀾映初心； 2.趙樂際會見印度尼西亞人民協商會議主席； 3.趙樂際同澳大利亞聯邦議會眾議長會談； 4.董建華先生公祭儀式在香港舉行； 5.2026世界公眾科學素質促進大會在北京開幕； 6.【“十五五”開好局起好步】加快提高市場綜合監管能力和水平； 7.前八個月高技術產業實際使用外資同比增長35.1%； 8.【新聞特寫】發展新機遇開啟合作新空間； 9.提品質拓市場 寧夏壯大葡萄酒產業； 10.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 11.【第二十屆亞運會】開幕後首個比賽日 中國隊收穫多枚金牌； 12.國內聯播快訊： （1）8月份全社會用電量突破萬億千瓦時； （2）前8個月我國郵政快遞業規模擴容 場景擴充套件； （3）1至8月國家鐵路傳送貨物26.9億噸； （4）2026世界製造業大會今天開幕； （5）“通感智算”一體化技術試驗衛星成功發射； （6）2026年全國城市聯合招聘高校畢業生秋季專場活動啟動； （7）“2026世界市長對話·武漢”活動舉行； （8）第十三屆絲綢之路國際電影節在陝西西安開幕； 13.葉門胡塞武裝稱襲擊沙特首都和延布目標 沙特主導聯軍稱攔截胡塞武裝導彈 美髮布安全警示稱胡塞武裝與沙特衝突存在迅速升級可能； 14.國際聯播快訊： （1）伊朗稱透過調解方向美方轉達談判條件； （2）俄控制多個居民點 烏將實施新遠端行動； （3）約1萬名非法移民仍滯留西班牙飛地休達。"
+    },
+    {
+      "id": "5104017",
+      "time": "2026-09-20 19:47:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年全國科普工作經費籌集額超243億元】記者9月20日從科技部獲悉，2025年度全國科普統計資料近日正式釋出，2025年全國科普工作經費籌集額243.98億元，比2024年增長9.80%。科普經費投入穩健增長，公共財政投入發揮引領作用。（新華社）"
+    },
+    {
+      "id": "5104016",
+      "time": "2026-09-20 19:44:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順豐同城：雷雁群已辭任公司非執行董事職務】9月20日，順豐同城公告，雷雁群已辭任非執行董事，自本公告日期起生效。其希望辭任上述職務，以便投入更多時間於其其他商業事務。據公告介紹，雷雁群已確認其與順豐同城董事會並無任何意見分歧，亦無有關其辭任的其他事宜須提請香港聯合交易所有限公司及公司股東注意。此外，順豐同城還表示，公司與阿里巴巴集團的戰略合作伙伴關係保持不變，雷雁群的辭任並無影響。雙方已在即時配送服務等領域建立穩定深入的合作基礎，未來將繼續深化現有合作，並積極拓展更多商業合作機會。"
+    },
+    {
+      "id": "5104015",
+      "time": "2026-09-20 19:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【通用技術中國醫藥與北京清華長庚醫院簽署合作備忘錄】9月18日，通用技術中國醫藥與清華大學附屬北京清華長庚醫院舉行合作備忘錄簽約儀式。雙方立足昌平區區域醫療佈局與醫院發展規劃，聚焦醫工成果轉化、智慧醫院建設、AI賦能醫療體系等合作方向。"
+    },
+    {
+      "id": "5104014",
+      "time": "2026-09-20 19:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：大力推進“人工智慧+”農業 拓展無人機、物聯網等應用場景】農業農村部黨組20日召開會議。會議強調要把培育壯大農機裝備產業作為農業現代化的關鍵支撐，堅持智慧化、綠色化、融合化發展方向，聚焦高階智慧、丘陵山區適用農機等突出短板，集中優勢資源力量，攻關突破一批標誌性整機和關鍵共性技術，加快中試驗證和熟化應用，讓農業生產更多領域“有機可用、有好機用”。要大力推進“人工智慧+”農業，拓展無人機、物聯網等應用場景，讓新質生產力更好賦能現代農業發展。（農業農村部）"
+    },
+    {
+      "id": "5104013",
+      "time": "2026-09-20 19:38:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：軍事綜合體將容納、儲存並具備使用大量無人機和狙擊手的能力，部署在屋頂和廣場區域，並在倉庫中存放大量狙擊彈藥。"
+    },
+    {
+      "id": "mkt:01a0be9b-31b6-7118-8616-02ab2c7c619f",
+      "time": "2026-09-20 19:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he will convert triumphal arch by Arlington Memorial Bridge into military complex】President Trump posted on social media that, at the U.S. military’s strong request and for national security purposes, he has agreed to convert the planned triumphal arch at the reception plaza beside Arlington Memorial Bridge into a top-tier military complex. He said the facility would house, store and enable rapid deployment of large numbers of drones, deploy snipers on the roof and plaza, and stockpile substantial quantities of sniper ammunition."
+    },
+    {
+      "id": "5104012",
+      "time": "2026-09-20 19:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，已同意將凱旋門改造為軍事綜合設施。"
+    },
+    {
+      "id": "5104011",
+      "time": "2026-09-20 19:35:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓與中國寶武續簽鋼鐵脫碳合作伙伴關係】據必和必拓公眾號訊息，必和必拓與中國寶武鋼鐵集團有限公司（中國寶武）續簽新的諒解備忘錄，持續深化雙方鋼鐵脫碳合作伙伴關係。基於2020年以來五年的緊密協作與多項聯合專案實踐，雙方將進一步拓展合作深度與廣度。雙方合作的重點領域之一是推進高爐改造技術，並利用必和必拓皮爾巴拉鐵礦石開展示範應用，目標是展示該技術路徑可實現較傳統高爐工藝至少降低30%的二氧化碳排放強度；在具備碳封存以及可再生能源條件的情況下，減排幅度有望超過80%。"
+    },
+    {
+      "id": "5104010",
+      "time": "2026-09-20 19:32:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達航空執行長：早前原油供大於求，抵消航油漲價影響"
+    },
+    {
+      "id": "5104007",
+      "time": "2026-09-20 19:32:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "卡達航空執行長稱伊朗戰爭的爆發是公司歷史上規模最大的危機。"
+    },
+    {
+      "id": "5104006",
+      "time": "2026-09-20 19:27:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達航空執行長哈馬德・阿爾 - 哈特爾：航空客運需求旺盛，客座率處於高位。"
+    },
+    {
+      "id": "5104005",
+      "time": "2026-09-20 19:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩博會通報試駕摩托失控衝出賽場：3人受傷】9月20日，摩博會組委會發布情況通報：9月19日13時許，1名試駕摩友在第二十四屆摩博會北廣場試駕場試駕摩托時，因操作不當，致試駕摩托車失控，撞倒在試駕場內等候試駕的3名摩友。現場後勤組第一時間將傷者送醫救治，經醫院診斷，1人輕微擦傷，經處理後已離院，2人輕傷，現正在醫院治療觀察。事發後，組委會及時終止了外場活動，並要求涉事企業立即進行整改，督促企業全力做好傷者醫療救護保障。下一步，組委會將進一步覆盤，組織力量對摩博會場館內外所有活動進行安全再排查再整改，確保活動安全有序。"
+    },
+    {
+      "id": "5104004",
+      "time": "2026-09-20 19:25:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【曼谷一地鐵軌道因電線短路起火】據泰國消防部門訊息，當地時間今天（9月20日）中午，泰國首都曼谷的一處地鐵軌道因發生電線短路起火，消防人員已抵達現場。據泰媒報道，截至目前，無人員傷亡。曼谷地鐵公司表示，由於火災導致電力供應出現問題，途經這段軌道的地鐵線路將暫停執行。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5104003",
+      "time": "2026-09-20 19:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證監會准予三單公募REITs產品註冊】證監會准予三單公募REITs產品註冊，分別是招商資管招商蛇口封閉式商業不動產證券投資基金、華夏華潤電力燃煤發電封閉式基礎設施證券投資基金和長城華能燃煤發電封閉式基礎設施證券投資基金，其中後兩者為市場首批燃煤發電公募REITs。（新華財經）"
+    },
+    {
+      "id": "mkt:01a0be8e-631a-7118-8615-fc855d79ad7b",
+      "time": "2026-09-20 19:23:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSRC approves registration of three public REITs】The CSRC granted registration to three public REITs: China Merchants Asset Management’s China Merchants Shekou closed-end commercial real estate securities investment fund; Huaxia–China Resources Power closed-end coal-fired power infrastructure securities investment fund; and Great Wall–Huaneng closed-end coal-fired power infrastructure securities investment fund. The latter two are the market’s first publicly offered REITs focused on coal-fired power generation."
+    },
+    {
+      "id": "5104002",
+      "time": "2026-09-20 19:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華電與中國電信簽署戰略合作協議】9月20日訊息，中國華電集團有限公司與中國電信集團有限公司簽署戰略合作協議。根據協議，雙方將在科技創新、智慧能源、戰新產業等領域建立戰略合作伙伴關係，共同探索新技術、新業態、新模式，助力能源數智轉型升級。"
+    },
+    {
+      "id": "mkt:01a0be89-e86e-7118-8615-f118b6f9afca",
+      "time": "2026-09-20 19:18:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu ordered stepped-up military deployments in the West Bank, imposing blockades, launching arrest operations and demolishing attackers' homes."
+    },
+    {
+      "id": "5104001",
+      "time": "2026-09-20 19:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君率團訪問烏茲別克】9月15日至17日，海關總署署長孫梅君率團訪問烏茲別克，與烏茲別克海關委員會主席馬伕洛諾夫就落實兩國元首共識，推進海關合作協議落地，促進貿易安全與便利等深入交換意見，達成行動計劃；與食品安全委員會主席烏魯諾夫就互輸動植物產品檢疫和食品安全合作等議題進行會談並簽署合作檔案。訪烏期間，孫梅君還與我駐烏茲別克大使館負責同志交流工作；會見在烏中資企業代表，瞭解烏口岸營商環境；與烏海關在華接受過培訓的學員代表交流，聽取對培訓工作的建議。（海關釋出）"
+    },
+    {
+      "id": "mkt:01a0be87-7da4-7118-8615-ec37b7e8c17c",
+      "time": "2026-09-20 19:15:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China CUSTOMS director Sun Meijun visits Uzbekistan; signs quarantine, customs cooperation deals】China CUSTOMS director Sun Meijun visited Uzbekistan Sept 15-17, meeting Uzbekistan Customs Committee chairman Mavlonov to implement leaders' consensus, advance bilateral customs cooperation and trade facilitation, and agreeing an action plan. She signed cooperation documents with Food Safety Committee chair Urunov on mutual quarantine for animal and plant products and on food safety collaboration. During the visit Sun met embassy staff, held talks with Chinese firms at Uzbek border ports to assess the operating environment, and consulted Uzbek customs personnel trained in China for feedback on training."
+    },
+    {
+      "id": "5104000",
+      "time": "2026-09-20 19:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統將於近日前往紐約出席聯合國相關會議。"
+    },
+    {
+      "id": "5103999",
+      "time": "2026-09-20 19:12:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利政府擬提案，對每班外籍學生人數設定上限。"
+    },
+    {
+      "id": "5103998",
+      "time": "2026-09-20 19:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼擬提案，禁止在校園內穿戴布卡罩袍與希賈布頭巾。"
+    },
+    {
+      "id": "5103997",
+      "time": "2026-09-20 19:11:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【各地住房公積金新政相繼落地 有城市支援公積金全國買房】今年以來，廣州、武漢、成都、海南等全國多個省市密集出臺了住房公積金最佳化調整政策。據中指研究院不完全統計，截至目前，各地最佳化調整樓市政策超850條，公積金政策作為最佳化調整頻次最高的方向，頻次高達440餘條。"
+    },
+    {
+      "id": "5103996",
+      "time": "2026-09-20 19:10:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一汽-大眾ID. AURA T6上市，搭載192線鐳射雷達】9月20日，一汽-大眾新款中型純電SUV ID. AURA T6上市，包含四款車型，售價12.99萬至16.69萬元。這是大眾首款搭載鐳射雷達的純電SUV，採用大眾與地平線合資的“酷睿程”方案，配備192線鐳射雷達。"
+    },
+    {
+      "id": "mkt:01a0be81-a300-7118-8615-e2deaed86ea7",
+      "time": "2026-09-20 19:09:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed",
+        "BHP.AX"
+      ],
+      "text": "【BHP to invest over $10 billion in iron ore over next five years】BHP said CEO Brandon Craig expects to invest more than $10 billion in its iron-ore business over the next five years to sustain and boost capacity, develop high-quality deposits and upgrade port and rail infrastructure. The company will fully support Western Australia iron-ore assets reaching 305 million tonnes a year by FY2028. BHP also plans to expand copper production over the next decade to support global electrification, the energy transition and digital infrastructure."
+    },
+    {
+      "id": "5103995",
+      "time": "2026-09-20 19:08:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓：未來五年，公司預計在鐵礦業務投資超過100億美元】據必和必拓微信公眾號訊息，9月19-20日，由中國鋼鐵工業協會和中國國際貿易促進委員會冶金行業分會主辦的第十五屆中國國際鋼鐵大會在上海召開。必和必拓執行長康柏德（Brandon Craig）發表主旨演講時指出，中國在先進製造、可再生能源與數字化經濟等領域的持續投入，將創造新的增長動能和資源需求。鋼鐵仍將是經濟發展和產業競爭力的重要支柱，而銅的重要性也將持續提升。康柏德表示，鐵礦方面，未來五年，必和必拓預計在鐵礦業務投資超過100億美元，用於維持及提升產能、開發高品質礦體資源，以及升級港口鐵路基建；全力支援西澳鐵礦在2028財年實現年產能3.05億噸的目標；銅方面，必和必拓計劃在未來十年持續擴大銅產能，以支援全球電氣化、能源轉型和數字基礎設施建設。"
+    },
+    {
+      "id": "5103994",
+      "time": "2026-09-20 19:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西省農業機械公司與鐵建重工新疆公司簽署戰略合作框架協議】據神農科技集團公眾號訊息，近日，子公司山西省農業機械有限公司與鐵建重工新疆有限公司就區域農業機械化升級、智慧農機裝備落地應用等方面簽署戰略合作框架協議。"
+    },
+    {
+      "id": "5103993",
+      "time": "2026-09-20 19:05:03",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【重慶市政協經濟委原副主任阮路被“雙開”】中央紀委國家監委網站9月20日通報，據重慶市紀委監委訊息：經重慶市委批准，重慶市紀委監委對第六屆重慶市紀委委員，市政協經濟委原副主任阮路嚴重違紀違法問題進行了立案審查調查。經查，阮路喪失理想信念，背棄初心使命，與黨中央離心離德，落實黨中央關於防範化解金融風險的決策部署打折扣，對抗組織審查；無視中央八項規定精神，違規收受禮金，接受可能影響公正執行公務的宴請；違反組織原則，不按規定報告個人有關事項；貪慾膨脹，利用職務便利為他人在金融資質審批、企業掛牌推薦等方面謀利，並非法收受鉅額財物。阮路嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經重慶市紀委常委會會議研究並報重慶市委批准，決定給予阮路開除黨籍處分；由重慶市監委給予其開除公職處分；終止其重慶市第六次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。給予其開除黨籍的處分，待召開市紀委全會時予以追認。"
+    },
+    {
+      "id": "5103992",
+      "time": "2026-09-20 19:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿提哈德鐵路與阿布扎比港口集團開通富查伊拉至 ICAD 鐵路貨運線路。"
+    },
+    {
+      "id": "mkt:01a0be7a-e281-7118-8615-de400605cfb4",
+      "time": "2026-09-20 19:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ZHAO LEJI meets Indonesian People's Consultative Assembly chairman Muzani in Beijing】ZHAO LEJI, chairman of China's National People's Congress Standing Committee, met Indonesian People's Consultative Assembly chairman Muzani in Beijing on the 20th. ZHAO said China–Indonesia ties are developing well, noting President Xi Jinping and President Prabowo Subianto reached an important consensus to build a China‑Indonesia community with regional and global influence; China will follow the leaders' strategic guidance to deepen bilateral cooperation, expand parliamentary exchanges and share governance experience to support both countries' development."
+    },
+    {
+      "id": "5103991",
+      "time": "2026-09-20 19:01:20",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【趙樂際會見印度尼西亞人民協商會議主席穆扎尼】全國人大常委會委員長趙樂際20日在京會見印度尼西亞人民協商會議主席穆扎尼。趙樂際表示，近年來，中印尼關係發展勢頭良好，習近平主席同普拉博沃總統就構建具有地區和全球影響力的中印尼命運共同體達成重要共識，開啟了雙邊關係嶄新篇章。中方願同印尼方遵循兩國元首戰略引領，推動兩國友好事業不斷取得新成果。中國全國人大願同印尼人協保持密切交往，拓展交流合作，深化治國理政經驗交流，更好服務各自國家發展振興。穆扎尼表示，印尼與中國有著深厚的友誼，希望透過我此次訪華密切兩國有關機構和人民之間的友好協作，推動兩國全面戰略伙伴關係不斷邁上新臺階。印尼人協願加強同中國全國人大的交流，助力兩國各領域合作走深走實。"
+    },
+    {
+      "id": "5103990",
+      "time": "2026-09-20 18:55:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兌吧集團：創始人擬向員工持股平臺無償捐贈佔總股本約11.21%股份 主要用於AI業務人才激勵】兌吧集團（01753.HK）公告，控股股東Xiaoliang Holding於9月20日與僱員股份獎勵平臺訂立贈與契據，同意無償轉讓120,682,000股公司股份，佔已發行股本約11.21%，用於僱員激勵計劃項下已授出或擬授出獎勵。該平臺承諾，未來新增激勵將主要用於AI短劇業務在內的AI業務發展所需人才激勵；現有及新增激勵所授股份均須遵守公司股權激勵管理辦法的歸屬及鎖定期安排。轉讓完成後，XiaoliangHolding持股比例由42.21%降至31.01%，僱員股份獎勵平臺持股由0.17%升至11.38%，控股股東不變。公司稱，贈與反映主要股東對公司長期發展的信心及支援，旨在強化核心人才長期導向。據公開資訊梳理，本次捐贈或為港股市場迄今佔總股本比例最高的創始人對員工持股計劃捐贈。"
+    },
+    {
+      "id": "mkt:01a0be74-7b18-7118-8615-d4e31b9e3563",
+      "time": "2026-09-20 18:54:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "【Ifo Institute: German growth momentum to slow in H2】Ifo Institute on Sept 20 raised its 2026 GDP forecast for Germany to 1.2% from 0.4%, citing stronger-than-expected H1 growth. It warned growth momentum will slow again in H2 2026 as temporary export incentives expire, elevated energy prices suppress private consumption, and construction-sector weakness linked to public investment persists. Ifo sees 2027 growth slightly below 1%, expects 2026 inflation a touch above 2.5% and consumption growth of about 0.3%. It flagged downside risks from the Russia-Ukraine war, Middle East tensions, international trade disputes and low water levels on major European rivers."
+    },
+    {
+      "id": "mkt:01a0be73-3d92-7118-8615-c85a30b9c1eb",
+      "time": "2026-09-20 18:53:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Iran says it dismantled three terror cells linked to the US and Israel】Iran's Intelligence Ministry said on Sep 20 it recently dismantled three terror cells in Alborz, Kerman and West Azerbaijan provinces that it said were linked to the US and Israel; operations led to multiple arrests and several militants killed. Iran said on Sep 19 a man accused of providing Israeli intelligence with information on Iranian military bases was executed, and in August the judiciary said it executed two alleged spies for supplying coordinates, images and other intelligence on Iranian military and security sites to Israeli intelligence."
+    },
+    {
+      "id": "5103989",
+      "time": "2026-09-20 18:53:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱搗毀三個與美以關聯的恐怖分子團伙】當地時間20日，伊朗情報部宣佈，近期在該國厄爾布林士省、克爾曼省、西亞塞拜然省搗毀了三個與美以有關聯的恐怖分子團伙。行動中，逮捕及打死多名恐怖分子。據伊朗方面9月19日訊息，伊朗一名男子被指控向以色列情報機構提供關於伊朗軍事基地的情報，已被處決。8月，伊朗司法部門曾宣佈處決兩名間諜，理由是他們向以色列情報人員提供伊朗軍事與安全中心座標、影象及相關情報。（央視新聞）"
+    },
+    {
+      "id": "5103988",
+      "time": "2026-09-20 18:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高階智駕迎普惠拐點 城區NOA從30萬高階下沉10萬家用車】近日，一晶片產業人士在一場行業會議上向《中國經營報》記者指出。 在行業陷入算力軍備競賽、硬體引數內卷的行業大背景下，過度堆料帶來的成本高企、體驗冗餘、落地困難等一系列產業弊病持續凸顯，越來越多產業人士與企業開始理性反思行業發展路徑。單純依靠高算力晶片、鐳射雷達堆疊的高階智駕方案，不僅抬高了整車定價，讓智慧駕駛長期侷限於高階車型圈層，無法實現規模化普及，同時也造成了嚴重的技術冗餘與資源浪費。 依託軟硬體深度協同，極致壓榨有效算力利用效率，地平線徹底跳出行業引數內卷怪圈。基於這套差異化技術路徑，地平線實現高階智駕的極致成本下探，官宣重磅落地：依託單顆征程6M晶片，成功將城區NOA智駕門檻擊穿至10萬元級，即將落地燃油SUV車型，徹底改寫行業定價規則。"
+    },
+    {
+      "id": "mkt:01a0be71-3197-7118-8615-c332b7571a0a",
+      "time": "2026-09-20 18:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bohai Sea live-fire exercises; navigation prohibited】Tangshan Maritime Safety Administration posted on the China Maritime Safety Administration website that it has issued a navigation warning closing parts of the Bohai Sea to traffic for live‑fire shooting from 00:00 on Sept 21 to 24:00 on Sept 24; entry is prohibited."
+    },
+    {
+      "id": "mkt:01a0be70-d1e4-7118-8615-bbe150c5e316",
+      "time": "2026-09-20 18:50:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Iran military: Any US attack would prompt Iranian retaliation】On the 20th, Iran's Khatam al-Anbiya Central Command said intelligence indicates the US, after a joint meeting in a European country and with tacit consent from some Middle Eastern states, has decided to take hostile action against Iran. The command warned that any US hostile move against Iran would trigger sustained, effective and painful strikes on all US bases and interest targets in the region. It added that regional states cooperating with the US or pursuing a two-faced policy would be treated as accomplices and should not expect Iranian restraint."
+    },
+    {
+      "id": "5103987",
+      "time": "2026-09-20 18:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！ 渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，9月21日0時至9月24日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "5103986",
+      "time": "2026-09-20 18:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方：任何美國襲擊都將導致伊方的報復】當地時間20日，伊朗哈塔姆·安比亞中央司令部發表宣告稱，情報顯示，美國為了掩蓋其失敗，並試圖從這場戰爭中攫取利益，其在某歐洲國家舉行聯合會議後，已在某些中東地區國家的默許下，決定再次對伊朗採取敵對行動。宣告警告稱，一旦美國針對伊朗犯下任何錯誤，其在該地區的所有基地及利益目標，都將毫無保留地遭受持續、有效且慘痛的打擊。宣告還表示，伊朗告誡各地區國家，若繼續對伊朗奉行“兩面派政策”，並與敵人合作，相關國家將被視為共犯；屆時，它們將無法再指望伊朗武裝力量保持克制或容忍。（央視新聞）"
+    },
+    {
+      "id": "5103985",
+      "time": "2026-09-20 18:47:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃汽車董事會任命克拉斯·澤爾默為總裁兼執行長。"
+    },
+    {
+      "id": "5103984",
+      "time": "2026-09-20 18:46:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李九紅任陝西省委常委】日前，中共中央批准：李九紅同志任陝西省委常委。（陝視新聞）"
+    },
+    {
+      "id": "5103983",
+      "time": "2026-09-20 18:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡表示，將在約旦河西岸襲擊事件後展開搜捕行動。"
+    },
+    {
+      "id": "5103982",
+      "time": "2026-09-20 18:45:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀跌破58美元/盎司，日內跌幅4%。"
+    },
+    {
+      "id": "5103981",
+      "time": "2026-09-20 18:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡稱，約旦河西岸發生襲擊事件，造成一人死亡。"
+    },
+    {
+      "id": "mkt:01a0be68-4a4d-7118-8615-b328bc7b04f4",
+      "time": "2026-09-20 18:41:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Transfar Zhilian unit signs strategic cooperation memorandum with Jiangsu Zero One Auto】Sept 20 — Transfar Zhilian’s unit Transfar Logistics and Jiangsu Zero One Auto signed a strategic cooperation memorandum to collaborate on “intelligent transport capacity and smart logistics co-innovation.” The partners will push commercialization of new-energy autonomous trunk logistics and jointly explore building future-oriented smart logistics infrastructure and an intelligent transport-capacity ecosystem. The deal signals Transfar Zhilian’s smart logistics strategy shifting from platform operations to a full-chain upgrade integrating scenarios, intelligent equipment and transport assets."
+    },
+    {
+      "id": "mkt:01a0be67-f217-7118-8615-ada6911d3bf0",
+      "time": "2026-09-20 18:41:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Explosions heard in Kyiv】Local time Sept. 20 — explosions were heard in Kyiv. Kyiv mayor Klitschko said Russian drones are attacking the city and Kyiv’s air-defence systems are operating. Russia had no immediate comment."
+    },
+    {
+      "id": "5103980",
+      "time": "2026-09-20 18:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔傳出爆炸聲】當地時間9月20日，總檯記者在烏克蘭首都基輔聽到爆炸聲。基輔市市長克利奇科通報稱，目前俄軍無人機正在襲擊基輔市，基輔市防空系統正在運作。目前，俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5103979",
+      "time": "2026-09-20 18:39:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳化智聯：子公司與零一汽車簽署合作備忘錄】9月20日，傳化智聯(002010)子公司傳化物流與江蘇零一汽車正式簽署戰略合作備忘錄。雙方將圍繞“智慧運力與智慧物流協同創新”展開合作，推進新能源自動駕駛幹線物流商業化，共同探索構建面向未來的智慧物流基礎設施和智慧運力生態體系。此次合作標誌著傳化智聯智慧物流戰略從平臺運營向“場景+智慧裝備+運力資產”的全鏈條升級。"
+    },
+    {
+      "id": "5103978",
+      "time": "2026-09-20 18:38:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特公共投資基金旗下 Tawrid 與沙特國民銀行、沙特法商銀行、ROSHN 集團簽署合作協議。"
+    },
+    {
+      "id": "5103977",
+      "time": "2026-09-20 18:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本65歲以上高齡者佔比創歷史新高】日本總務省20日公佈的人口推算資料顯示，截至9月15日，日本65歲以上高齡者數量約為3624萬人，約佔總人口29.6%，佔比創下歷史新高。資料顯示，日本65歲以上高齡者人數比前一年增加約2萬人。按性別劃分，65歲以上高齡者中，男性約有1571萬人，女性約有2054萬人。按年齡層劃分，70歲以上高齡者約有2911萬人，75歲以上約有2168萬人，80歲以上約有1288萬人。資料還顯示，2025年，日本65歲以上高齡者就業人數約為943萬人，連續22年增加；65歲以上就業者佔總就業人口的比例約為13.8%，創歷史新高。從行業來看，從事批發零售業的高齡者人數最多，約為131萬人。（新華社）"
+    },
+    {
+      "id": "5103976",
+      "time": "2026-09-20 18:36:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗國家媒體：伊朗武裝力量中央司令部表示，美國正計劃在地區盟友獲得許可的情況下采取針對伊朗的新行動，相關計劃是在一次歐洲峰會上協調製定的。"
+    },
+    {
+      "id": "5103975",
+      "time": "2026-09-20 18:35:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特公共投資基金（PIF）設立供應鏈金融公司 Tawrid（圖裡德）。"
+    },
+    {
+      "id": "5103974",
+      "time": "2026-09-20 18:35:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德國經濟研究所：德下半年經濟增長勢頭將放緩】德國經濟研究所9月20日釋出秋季經濟預測，將德國2026年經濟增長預期從此前的0.4%大幅上調至1.2%。該研究所表示，上調預期主要得益於今年上半年經濟增長出人意料地強勁。不過，德國經濟研究所預計，“2026年下半年增長勢頭將再次放緩”。原因在於特殊出口優惠政策將到期，高昂的能源價格將抑制私人消費，主要受政府投資驅動的建築業危機將持續存在。該研究所預計，德國經濟2027年增長略低於1%。該機構同時警告，俄烏衝突、中東局勢、國際貿易衝突以及歐洲主要河流水位下降等因素，都可能對德國經濟造成負面影響。此外，受能源價格上漲等因素影響，德國經濟研究所預計，2026年德國的通貨膨脹率將略高於2.5%，而消費預計僅增長0.3%。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0be62-58e1-7118-8615-a367c095d182",
+      "time": "2026-09-20 18:35:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media reported the Central Command of Iran’s Armed Forces said the US is planning new action targeting Iran, to be carried out with approval from regional allies, and that the plan was coordinated at a European summit."
+    },
+    {
+      "id": "5103973",
+      "time": "2026-09-20 18:34:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗中央軍事指揮部透過官方媒體表示，任何美國的攻擊都將導致伊朗對美國基地及利益進行\"不受任何限制或考量\"的報復。"
+    },
+    {
+      "id": "mkt:01a0be60-0570-7118-8615-9848168760ae",
+      "time": "2026-09-20 18:32:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media quoted the Armed Forces Central Command as warning that regional states that join any US strike on Iran should not expect Iranian forces to exercise restraint."
+    },
+    {
+      "id": "5103972",
+      "time": "2026-09-20 18:31:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗軍方中央指揮部透過官方媒體表示，任何參與美國攻擊伊朗的地區國家，都不應指望伊朗武裝力量會有所剋制。"
+    },
+    {
+      "id": "5103971",
+      "time": "2026-09-20 18:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方最高指揮部警告，美國獲地區國家默許打擊伊朗的計劃不可行。"
+    },
+    {
+      "id": "5103970",
+      "time": "2026-09-20 18:29:44",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【李鴻忠在遼寧調研時強調 深入學習貫徹習近平法治思想 以良法促進發展保障善治】中共中央政治局委員、全國人大常委會副委員長李鴻忠9月17日至20日在遼寧調研。他強調，要堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平法治思想，更加註重法治與改革、發展、穩定相協同，更加註重保障和促進社會公平正義，聚焦“十五五”時期目標任務發揮人大職能作用，以良法促進發展、保障善治。李鴻忠到瀋陽、鞍山、大連等地，調研裝備製造業產業升級、智慧製造企業發展、科技創新及成果轉化工作，瞭解海洋漁業開發、海島生態保護情況，考察城鄉民生保障和基層治理成效。他指出，發展要高質量，立法也要高質量，要堅持以高質量立法保障和服務改革發展，加強重點領域、新興領域、涉外領域立法，健全國家治理急需、滿足人民日益增長的美好生活需要必備、維護國家安全所急的法律制度。要完整準確全面貫徹新發展理念，圍繞構建高水平社會主義市場經濟體制、建設現代化產業體系，完善企業國有資產法律制度，依法推動科技創新和產業創新深度融合、加強產業工人隊伍建設，為持續做大做強先進製造業、鞏固壯大實體經濟根基提供法治保障。(新華社)"
+    },
+    {
+      "id": "5103969",
+      "time": "2026-09-20 18:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026中秋檔新片預售票房破1000萬】據燈塔專業版，截至9月20日18時22分，2026年中秋檔新片點映及預售票房已超1237萬，《復仇者聯盟4：終局之戰（加碼臻享版）》《死亡禁區實錄》《蟬衣》暫列前三。"
+    },
+    {
+      "id": "mkt:01a0be5b-abe8-7118-8615-976ba75f5ab5",
+      "time": "2026-09-20 18:27:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 Mid-Autumn new-release pre-sales hit 12.37 mln yuan】Lighthouse Pro: as of Sep 20 18:22, pre-sale box office for 2026 Mid-Autumn new releases reached 12.37 mln yuan, led by Avengers: Endgame (Enhanced Edition), Death Zone Record and Cicada."
+    },
+    {
+      "id": "5103968",
+      "time": "2026-09-20 18:27:41",
+      "tags": [
+        "資料"
+      ],
+      "text": "阿曼政府資料顯示，8月消費者物價指數（CPI）環比下降0.19%。"
+    },
+    {
+      "id": "mkt:01a0be5b-494f-7118-8615-8e20d4b8a9e3",
+      "time": "2026-09-20 18:27:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Oman government data showed August consumer price index fell 0.19% MoM."
+    },
+    {
+      "id": "5103967",
+      "time": "2026-09-20 18:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內公募逾338億元參與59只新股打新】新股網下配售一直是公募機構增厚組合收益的重要來源，作為享受優先配售的A類投資者，公募機構積極參與其中。公募排排網資料顯示，截至2026年9月20日，共有125家公募機構參與59只年內上市新股網下配售，合計獲配金額338.75億元。"
+    },
+    {
+      "id": "mkt:01a0be53-c853-7118-8615-85dfbcfa7579",
+      "time": "2026-09-20 18:19:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Pentagon investigators say U.S. failures led to strike on Iranian primary school】Pentagon investigators found that intelligence gaps, outdated imagery and excessive reliance on AI contributed to the Feb. 28 strike on a primary school in Minab, Iran, that killed many children. The site had been labeled a military facility years earlier, but commercial satellite images as early as 2018 showed it had been repurposed — including colorful walls and a soccer field; U.S. analysts recorded those changes in 2019 in a system not linked to the main military intelligence database. Investigators also found parts of U.S. Central Command over-relied on Palantir’s Maven battlefield-intelligence platform and expected it to flag outdated or inconsistent foundational intelligence on potential targets."
+    },
+    {
+      "id": "5103966",
+      "time": "2026-09-20 18:19:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通威股份成立新能源公司】企查查APP顯示，近日，鹽城亭兆新能源有限公司成立，法定代表人為冷剛，經營範圍包含水產養殖；太陽能發電技術服務；太陽能熱發電產品銷售；光伏裝置及元器件銷售；智慧農業管理等。企查查股權穿透顯示，該公司由通威股份(600438)間接全資持股。"
+    },
+    {
+      "id": "5103965",
+      "time": "2026-09-20 18:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【林德伯格任世界糧食計劃署新執行幹事】記者20日從聯合國世界糧食計劃署獲悉，盧克·林德伯格獲任該機構新一屆執行幹事，將接替今年5月因健康原因離任的辛迪·麥凱恩。世界糧食計劃署日前釋出宣告說，此項任命由聯合國秘書長古特雷斯和聯合國糧食及農業組織總幹事屈冬玉在與世界糧食計劃署執行局磋商後作出。據世界糧食計劃署介紹，林德伯格目前擔任美國農業部貿易和對外農業事務副部長。世界糧食計劃署總部位於義大利羅馬，是聯合國系統主要人道主義援助機構之一。(新華社)"
+    },
+    {
+      "id": "5103964",
+      "time": "2026-09-20 18:17:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【五角大樓調查人員：美一系列失誤致伊朗小學遭襲】據美國方面19日訊息，五角大樓調查人員發現，情報缺陷、影象過時以及過度依賴人工智慧，是導致2月28日伊朗米納卜市一所小學所在區域遭到空襲，並造成大量兒童死亡的原因。訊息稱，內部調查發現了一系列本可避免的失誤。訊息援引美國官員的話稱，雖然遇襲地點在多年前被認定為軍事設施，但商用衛星影象早就顯示遇襲地點已改變用途，2018年的影象中還能看到色彩鮮豔的牆壁和足球場。有美國情報分析人員早在2019年就發現了這些變化，並在一個未連線至主要軍事情報資料庫的系統中記錄了相關資訊。此外，在指揮此次行動的美軍中央司令部內部，部分人員過度依賴美國帕蘭蒂爾公司的“梅文智慧系統”戰場情報平臺。（央視新聞）"
+    },
+    {
+      "id": "5103963",
+      "time": "2026-09-20 18:14:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天聚地合：2024年收入增長35.7%至5.99億元】天聚地合公告，公司公佈截至2024年12月31日止年度經稽核綜合全年業績。2024年收入5.99億元，增長35.7%；毛利1.29億元，增長3.8%；淨利潤1872.4萬元，下降46.6%。截至2024年12月31日，現金及現金等價物2.56億元，增長105.4%。"
+    },
+    {
+      "id": "5103962",
+      "time": "2026-09-20 18:14:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺材料科技：臨沂海宏6.73%股份被司法凍結】海螺材料科技公告，主要股東臨沂海宏所持3900萬股內資股股份（佔公司已發行股份總數約6.73%）被司法凍結，凍結由臨沂市河東區人民法院執行，期限最長至二零二九年九月十七日。凍結因臨沂海宏民事案件糾紛所致，與公司無關，不影響集團正常業務營運、企業管治及日常管理。"
+    },
+    {
+      "id": "mkt:01a0be4f-3176-7118-8615-7b7782436808",
+      "time": "2026-09-20 18:14:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SiliconFlow completes two financing rounds; 2026 equity funding near CNY 2.9 billion】AI infrastructure company SiliconFlow announced on the 20th it completed a B+ round Phase II and a C round, bringing year-to-date equity financing to nearly CNY 2.9 billion. New investors included China Internet Investment Fund, Guoxin Fund, China Mobile Chain Leader Fund and China Orient Asset International; existing backers Yaotu Capital, Shengyi Capital and Guotai Venture Capital Group made follow-on investments. Proceeds will fund R&D on inference engines, heterogeneous compute scheduling and model–chip adaptation, expand a token supply platform and accelerate global market rollout to boost token production efficiency and scalable services across multi-model, multi-chip environments."
+    },
+    {
+      "id": "5103961",
+      "time": "2026-09-20 18:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘇伊士運河管理局：埃及 8 月蘇伊士運河收入 5.671 億美元，去年同期為 3.26 億美元。"
+    },
+    {
+      "id": "5103960",
+      "time": "2026-09-20 18:10:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西藏拉薩至林芝鐵路山南站開通貨運業務】記者從中國鐵路青藏集團有限公司獲悉，拉薩至林芝鐵路山南站20日正式開通貨運業務。這將填補拉林鐵路中段貨運業務空白，進一步織密西藏區域鐵路物流網路。山南站貨場位於山南站對側，佔地面積達4.9萬餘平方米，設貫通式貨物線1條、貨物線延伸線2條，配套建有貨物站臺、貨物倉庫各1座，配備叉車等裝卸機具，目前可開展棚車裝卸作業。拉林鐵路於2021年6月通車運營，近年來客貨運輸效能持續釋放，累計運送旅客超625萬人次、貨物超200萬噸，逐步帶動了區域經濟社會發展。（新華社）"
+    },
+    {
+      "id": "5103959",
+      "time": "2026-09-20 18:08:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【地質災害黃色預警：湖北重慶等地部分地區發生災害風險較高】自然資源部與中國氣象局9月20日18時聯合釋出黃色地質災害氣象風險預警：預計，9月20日20時至21日20時，湖北西南部、重慶東部等地部分地區發生地質災害的氣象風險較高（黃色預警）。"
+    },
+    {
+      "id": "mkt:01a0be49-1a1b-7118-8615-75b1d8116976",
+      "time": "2026-09-20 18:07:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues risk warning for prolonged autumn‑harvest rains】China's Ministry of Agriculture and Rural Affairs and the China Meteorological Administration on Sept 20 warned that from Sept 21–28 persistent rainfall will raise autumn‑harvest risk across parts of China, including southeastern Northwest, eastern Southwest, the Jianghan Plain (central Hubei), western Huang‑Huai and northern Anhui. Between Sept 23–27 heavy to very heavy rain is expected in northeast Sichuan, north‑central Chongqing, southeast Shaanxi, southern Henan, northwest Hubei and northwest Anhui, with some areas seeing torrential downpours and localized extreme rainfall. Authorities urged expedited harvesting of mature crops during dry intervals, prompt ventilation and drying before storage, and post‑rain drainage to lower soil moisture and enable farm machinery operations."
+    },
+    {
+      "id": "mkt:01a0be48-2cb0-7118-8615-6bd6abadec28",
+      "time": "2026-09-20 18:06:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Financial Regulatory Administration head Ding Xiangqun meets AIA Group board chairman Du Jiaqi】Sept 15 — Ding Xiangqun, Party secretary and director of the National Financial Regulatory Administration, met with Du Jiaqi, chairman of AIA Group's board, to discuss recent developments in the Chinese insurance sector and AIA’s operations in China."
+    },
+    {
+      "id": "5103958",
+      "time": "2026-09-20 18:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部和中國氣象局釋出秋收連陰雨災害風險預警】農業農村部和中國氣象局2026年9月20日釋出秋收連陰雨災害風險預警：預計9月21日至28日，西北地區東南部、西南地區東部、江漢、黃淮西部及安徽北部等地降雨天氣頻繁，秋收連陰雨災害風險較高；其中23～27日，四川東北部、重慶中北部、陝西東南部、河南南部、湖北西北部、安徽西北部等地持續中到大雨，部分地區有暴雨、局地大暴雨，秋收連陰雨災害風險高。建議上述地區抓住降水間隙及時搶收成熟作物，並注意通風儲存、烘乾入倉；降水量較大地區雨後及時開溝散墒、排溼降漬，為農機作業創造適宜條件。"
+    },
+    {
+      "id": "5103957",
+      "time": "2026-09-20 18:04:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省金華市委原常委、市政府原副市長鄭餘良接受紀律審查和監察調查】據浙江省紀委監委訊息：金華市委原常委、市政府原副市長鄭餘良涉嫌嚴重違紀違法，主動投案，目前正接受浙江省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5103956",
+      "time": "2026-09-20 18:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金融監管總局局長丁向群會見友邦保險集團董事會主席杜嘉祺】9月15日，國家金融監督管理總局黨委書記、局長丁向群會見友邦保險集團董事會主席杜嘉祺。雙方就保險業最新發展、友邦保險集團在華經營情況等議題進行交流。"
+    },
+    {
+      "id": "5103955",
+      "time": "2026-09-20 18:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cue Biopharma：CUE-221 在慢性自發性蕁麻疹臨床試驗中達到主要終點。"
+    },
+    {
+      "id": "5103954",
+      "time": "2026-09-20 18:04:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cue Biopharma：CUE-221 臨床試驗取得陽性頂線結果。"
+    },
+    {
+      "id": "mkt:01a0be43-5c62-7118-8615-622429470418",
+      "time": "2026-09-20 18:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Li Yun elected Shenzhen mayor】Sept 20 — The Shenzhen Municipal People’s Congress convened at the Civic Center and elected Li Yun as mayor of the Shenzhen municipal government. The congress approved the election procedures at a 10:30 a.m. first plenary and elected Li Yun by secret ballot at the 3 p.m. second plenary."
+    },
+    {
+      "id": "5103953",
+      "time": "2026-09-20 17:59:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李運當選深圳市市長】9月20日，深圳市第七屆人民代表大會第八次會議在市民中心召開，選舉深圳市人民政府市長。上午10時30分，大會舉行第一次全體會議，表決透過大會選舉辦法。下午3時，大會舉行第二次全體會議，採取無記名投票方式選舉李運為深圳市人民政府市長。（深視新聞）"
+    },
+    {
+      "id": "mkt:01a0be40-b69d-7118-8615-5a2951b9e1bb",
+      "time": "2026-09-20 17:58:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says US has no option but to accept its terms】Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, told Al Jazeera on Sept. 19 that Tehran has relayed its negotiation terms to Washington via mediators Qatar and Pakistan. He said Iran’s message was that if the US wants to extricate itself from the predicament it created and avoid deeper entanglement, it has no option but to accept Iran’s terms. Rezaei said conditions to restart talks include unfreezing Iran’s frozen funds; ending all active war fronts, including in Lebanon; non‑interference in Iran’s internal affairs; no collusion with domestic opposition; and lifting any maritime blockade."
+    },
+    {
+      "id": "5103950",
+      "time": "2026-09-20 17:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱俄軍襲擊基輔州 已致4人死亡】烏克蘭基輔州軍政管理部門20日通報稱，基輔州當天遭俄軍襲擊，截至目前已造成4人死亡。烏克蘭國家緊急情況局20日在社交媒體釋出訊息說，俄軍19日傍晚至20日凌晨襲擊烏多地。烏國家緊急情況局說，俄軍對第聶伯羅彼得羅夫斯克州、基輔州、文尼察州、敖德薩州和扎波羅熱地區的購物中心、居民樓、鐵路設施和工業設施等發動襲擊。另據烏克蘭空軍訊息，19日晚至20日凌晨，俄軍對烏克蘭發動新一輪空襲。俄軍從奧廖爾州、羅斯托夫州、頓涅茨克和克里米亞等地向烏境內發射138架無人機。截至20日8時，烏防空部隊擊落或壓制101架無人機。烏境內17處地點遭無人機襲擊，另有5處地點受無人機碎片波及。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0be36-a391-7118-8615-5741a547d03a",
+      "time": "2026-09-20 17:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Some National Day return fares double】Monitoring ahead of the Mid‑Autumn/National Day holidays shows rising air fares and demand in China. On Sept. 20, popular long‑haul and homebound routes had already posted large increases: the lowest listed fare for Oct. 7 Urumqi→Shanghai reached 3,070 yuan, about 99% above the 1,540 yuan lowest fare for Sept. 24 Shanghai→Urumqi. Shenzhen–Chongqing also shows pricier returns: Sept. 24 Shenzhen→Chongqing lowest fare 1,010 yuan; Oct. 7 Chongqing→Shenzhen lowest fare 1,450 yuan, roughly 44% higher. Hangban Guanjia data as of Sept. 17 show average domestic economy booking price for the 2026 Mid‑Autumn/National Day period at about 973.7 yuan (+9% YoY) and expected daily passenger volume up 3.1% YoY, indicating concurrent increases in volume and prices."
+    },
+    {
+      "id": "5103948",
+      "time": "2026-09-20 17:44:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隧道股份、陸家嘴信託等成立智慧停充一期私募投資基金】企查查APP顯示，近日，上海建元智慧停充一期私募投資基金合夥企業（有限合夥）成立，出資額3億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該公司由隧道股份(600820)全資子公司上海建元資產管理有限公司、陸家嘴國際信託有限公司等共同持股。"
+    },
+    {
+      "id": "5103947",
+      "time": "2026-09-20 17:43:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【李樂成主持召開中小企業圓桌會 強調健全主動發現機制 做好對企服務】9月20日，工業和資訊化部黨組書記、部長李樂成主持召開第十六次中小企業圓桌會議。李樂成指出，工業和資訊化部將深入貫徹黨中央、國務院決策部署，加快構建促進專精特新中小企業發展壯大機制，完善優質企業梯度培育體系，一體化推進優質中小企業“選種、育苗、培優”，加強對初創潛力企業識別，把那些埋頭搞技術、專心做產品的優質企業主動發現出來，推動培育服務從“坐等申報”為“主動上門”。要持續完善法律政策、優企培育、助企服務體系，推動中小企業高質量發展，不斷增強先進製造業發展的動力活力。（工信微報）"
+    },
+    {
+      "id": "5103946",
+      "time": "2026-09-20 17:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱沙特升級行動將遭更強烈反擊】葉門胡塞武裝發言人奧馬爾·巴希提今天（9月20日）表示，如果沙特繼續對葉門採取軍事升級行動，葉門胡塞武裝將採取更強烈的反擊。他稱，這是“以升級應對升級、以封鎖應對封鎖”的對抗方式，並稱“此舉是行使自衛權”。巴希提說，沙特方面指責葉門襲擊麥加的說法是“謊言和誣衊”，並稱相關說法已受到國際社會越來越多的質疑。巴希提還稱，沙特方面近期對葉門發動了732次空襲，相關戰機從海米斯穆謝特和塔伊夫兩處基地起飛。他指責沙特方面持續發動軍事行動，並稱這造成葉門人員傷亡和“主權受到侵犯”。巴希提同時指責沙特方面試圖在葉門首都薩那實施針對平民的爆炸襲擊，稱這是“針對平民的暴力行為”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0be30-7577-7118-8615-49d5f48ba804",
+      "time": "2026-09-20 17:40:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi warns of stronger retaliation if Saudi escalates】Sept 20 — A Houthi spokesman said if Saudi Arabia continues military escalation in Yemen, the Houthis will mount stronger retaliatory attacks, describing their approach as \"responding to escalation with escalation, and blockade with blockade\" and invoking self‑defense. He denied Saudi claims that Yemen attacked Mecca and said Saudi forces have carried out 732 airstrikes recently, with aircraft operating from Khamis Mushait and Taif bases. He accused Saudi strikes of causing civilian casualties, violating Yemeni sovereignty and attempting explosive attacks on civilians in Sanaa."
+    },
+    {
+      "id": "5103945",
+      "time": "2026-09-20 17:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月20日17時17分在巴布亞紐幾內亞附近（南緯5.71度，東經146.17度）發生6.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5103944",
+      "time": "2026-09-20 17:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古越龍山舉行新品釋出會 旗下首款露酒上市】古越龍山官微20日訊息，旗下“營養大師”露酒新品釋出會在紹興舉行，公司首款露酒產品正式上市，這是公司在“黃酒+露酒”雙賽道佈局上的關鍵一步。"
+    },
+    {
+      "id": "5103943",
+      "time": "2026-09-20 17:37:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越疆在日照成立具身智慧科技公司】企查查APP顯示，近日，日照越疆具身智慧科技有限公司成立，法定代表人為劉潺潺，經營範圍包含智慧機器人的研發；智慧機器人銷售；工業機器人制造；人工智慧應用軟體開發；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由越疆（02432.HK）間接全資持股。"
+    },
+    {
+      "id": "mkt:01a0be2c-a57b-7118-8615-41bedb162ba6",
+      "time": "2026-09-20 17:36:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: At 17:17 on Sept 20 a magnitude-6.2 earthquake occurred near Papua New Guinea (5.71°S, 146.17°E). Final magnitude to be confirmed by the official rapid bulletin."
+    },
+    {
+      "id": "mkt:01a0be2b-080f-7118-8615-3c27ad691ff0",
+      "time": "2026-09-20 17:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China central and state offices urge universities to align disciplines and training with national strategic needs】The General Office of the CPC Central Committee and the General Office of the State Council issued Opinions on Classified Promotion of Higher Education Reform. The paper mandates a classified development framework for Chinese higher education: strengthen national top‑level design and macro guidance; establish classified management and governance arrangements for universities; create classified evaluation systems with multi‑track, multi‑entity assessments; improve resource‑allocation and incentive mechanisms; and bolster talent supply‑demand matching. It instructs refinement of discipline and major adjustment mechanisms and of talent‑training models driven by national strategic needs."
+    },
+    {
+      "id": "mkt:01a0be2a-2458-7118-8615-368ff439f17d",
+      "time": "2026-09-20 17:33:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【General Offices of CCP Central Committee and State Council issue Opinions to build classified university development system and spur momentum】The General Offices of the CCP Central Committee and the State Council issued Opinions on advancing university reform by classification, directing the construction of a classified university development system that distinguishes comprehensive and specialized orientations, establishes a classification framework, and adopts multi-adaptive classification models based on institutional affiliation. The document mandates coordinated development between centrally affiliated and local universities, integrated allocation of higher-education resources, optimization of talent-training structures, and coordinated use of domestic and international resources. It seeks to energize classified development by: using Double First-Class construction to guide research-university reform; strengthening applied, high-quality specialized undergraduate institutions and disciplines and refining high-level vocational college and program plans to support regional economic and social development; bolstering industry-focused universities to reinforce innovation and service the real economy; and piloting integrated higher-education models and new national elite-innovation talent training approaches."
+    },
+    {
+      "id": "5103942",
+      "time": "2026-09-20 17:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 城堡集團邁阿密新總部專案發生施工事故後，工程已暫停。"
+    },
+    {
+      "id": "mkt:01a0be28-e14a-7118-8615-2924f77ced14",
+      "time": "2026-09-20 17:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【General Office of CPC Central Committee and State Council General Office issue Opinions on Classified Higher‑Education Reform】The General Office of the CPC Central Committee and the State Council General Office issued Opinions on advancing classified higher‑education reform, setting out a systematic plan. The document instructs reforms to be guided by Xi Jinping Thought, to uphold the Party’s overall leadership and socialist orientation and to adhere to the ‘seek progress while maintaining stability’ principle; it calls for adapting to higher‑education universalization and demographic shifts, aligning talent development with national strategic needs, and using overall planning, category‑specific reform and scientific evaluation to build a stronger, more excellent higher‑education system and accelerate construction of an education‑strong China."
+    },
+    {
+      "id": "5103941",
+      "time": "2026-09-20 17:31:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中辦、國辦印發《關於分類推進高校改革的意見》】近日，中共中央辦公廳、國務院辦公廳印發《關於分類推進高校改革的意見》，對分類推進高校改革作出系統部署。意見指出，要最佳化分類佈局結構。科學構建高校分類發展體系，區分綜合性、特色化基本方向，確立高校分類框架，根據隸屬關係建立多元適配的高校分類模式；統籌中央部門所屬高校和地方高校協同發展；統籌高等教育資源佈局；統籌完善人才培養結構；統籌用好國際國內資源。 (新華社)"
+    },
+    {
+      "id": "5103940",
+      "time": "2026-09-20 17:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建發股份子公司與海通恆信小微簽署戰略合作協議】據建發股份公眾號，9月16日，建發股份全資子公司建發生活資材、建發融資租賃與海通恆信控股子公司海通恆信小微融資租賃（上海）有限公司（下稱“海通恆信小微”）簽署戰略合作協議。建發生活資材、建發融資租賃將攜手海通恆信小微，聚焦紡織、食品、智慧裝置等重點領域，圍繞裝置租賃、原料供應鏈、成品銷售服務等關鍵環節，建立長期、全面的戰略合作關係。"
+    },
+    {
+      "id": "mkt:01a0be22-974c-7118-8615-25c6780ed669",
+      "time": "2026-09-20 17:25:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ruixin RISC‑V dataflow AI chip to power Qiyuan humanoid robots; partnership deepens domestic compute localization】On Sept. 20 in Shanghai, Suzhou Ruixin Integrated Circuit Technology was named compute ecosystem partner to Qiyuan Robotics. The firms will collaborate on embodied-intelligence edge compute and deploy Ruixin's RISC‑V dataflow hardware AI chips in humanoid-robot applications — a tie-up industry contacts say signals deeper localization of compute across China’s embodied-intelligence supply chain."
+    },
+    {
+      "id": "5103939",
+      "time": "2026-09-20 17:24:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：巴布亞紐幾內亞地區發生6.18級地震。"
+    },
+    {
+      "id": "5103938",
+      "time": "2026-09-20 17:23:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京：支援裝修提取住房公積金 支援支付物業費提取住房公積金】南京釋出《關於開展自住住房裝修和物業費提取住房公積金業務的通知》。支援裝修提取住房公積金。2026年9月20日（含）以後，繳存人及其配偶在南京市行政區域內裝修自住住房，可申請提取住房公積金。提取額度按裝修發票金額核定，每平方米不超過1000元，家庭提取總額最高不超過15萬元。申請時限為自裝修發票開具之日起1年內。同一家庭限申請一次裝修提取，同一套住房限辦理一次裝修提取業務。支援支付物業費提取住房公積金。繳存人及其配偶在南京市行政區域內擁有自住住房，可提取住房公積金用於支付當年度物業費。能夠提供物業費發票的，提取額度按當年度實際支付的住房物業費發票金額核定，家庭年度提取總額不超過5000元；無法提供物業費發票的，家庭年度提取總額不超過1000元。同一家庭每自然年度限申請一次物業費提取。（南京釋出）"
+    },
+    {
+      "id": "mkt:01a0be20-5528-7118-8615-1d65e0f98824",
+      "time": "2026-09-20 17:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Nanjing permits housing provident fund withdrawals for renovation and property fees】Nanjing municipal authorities issued a notice allowing housing provident fund withdrawals for owner-occupied home renovations and annual property-management fees. Effective Sept 20, 2026 (inclusive), contributors and their spouses who renovate owner-occupied housing within Nanjing may withdraw against renovation invoices: up to 1,000 yuan per sqm, up to 150,000 yuan per household, application required within one year of invoice issuance; one renovation withdrawal per household and one per dwelling. For property-management fees, contributors and their spouses owning owner-occupied housing in Nanjing may withdraw for the current year’s fees: if providing invoices, withdrawals equal the invoice amount with a household annual cap of 5,000 yuan; without invoices, household annual cap is 1,000 yuan. Each household may apply for property-fee withdrawal once per calendar year."
+    },
+    {
+      "id": "5103937",
+      "time": "2026-09-20 17:18:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨國公司本外幣跨境資金集中運營業務全國推廣，滙豐中國成為首批參與外資銀行】隨著跨國公司本外幣跨境資金集中運營業務推廣至全國，滙豐銀行（中國）有限公司今日宣佈，已為兩家跨國公司順利開展本外幣跨境資金池業務，由此成為該業務全國推廣後首批參與的外資銀行。根據中國人民銀行、國家外匯管理局日前聯合釋出的通知，跨國公司本外幣跨境資金集中運營試點政策自9月14日起正式從北京、廣東（含深圳）兩個試點地區推廣至全國。這一舉措將幫助更多符合條件的跨國企業集團打破資金壁壘，實現全球資源的最佳化配置，進一步釋放跨境資金流動的政策紅利。"
+    },
+    {
+      "id": "5103936",
+      "time": "2026-09-20 17:18:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦正義運動黨（PTI）旁遮普省發言人：被監禁的巴基斯坦前總理伊姆蘭·汗的姐姐阿利瑪·汗，在PTI定於9月27日舉行的長途遊行之前被捕。"
+    },
+    {
+      "id": "5103935",
+      "time": "2026-09-20 17:18:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦正義運動黨旁遮普省發言人表示，警方在拉合爾的住所逮捕了在獄前巴基斯坦總理伊姆蘭・汗的姐姐阿莉瑪・汗。"
+    },
+    {
+      "id": "mkt:01a0be1b-a4bd-7118-8615-1046cc015126",
+      "time": "2026-09-20 17:17:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Police arrested Imran Khan's sister, Alima Khan, at the imprisoned former prime minister's Lahore residence, the Punjab spokesperson for Pakistan Tehreek-e-Insaf said."
+    },
+    {
+      "id": "mkt:01a0be18-7adf-7118-8615-0f39892dad76",
+      "time": "2026-09-20 17:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Life funds co-lead equity round in Anhui Zhongke Juyuan Terahertz】China Life Investment Co.'s China Life Capital‑managed Double‑Carbon Fund and China Life Yangtze River Delta Sci‑Tech Innovation Fund jointly led a new equity financing round in Anhui Zhongke Juyuan Terahertz Technology Co. The funds said they will use the investment to deepen industry‑chain positioning, deploy insurance capital as anchor long‑term funding, coordinate resources to help the investee shore up core technology and accelerate major project delivery, and support high‑quality development of China’s controllable nuclear fusion industry."
+    },
+    {
+      "id": "5103934",
+      "time": "2026-09-20 17:13:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴入股具身智慧機器人研發商墨奇智慧】企查查APP顯示，近日，上海墨奇永珍智慧技術有限公司發生工商變更，新增阿里巴巴關聯公司杭州灝月企業管理有限公司為股東，同時註冊資本增至154.24萬元。公開資訊顯示，墨奇智慧專注於具身智慧機器人研發。"
+    },
+    {
+      "id": "5103933",
+      "time": "2026-09-20 17:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國壽“雙基金”領投中科聚變太赫茲】近日，國壽投資公司旗下國壽資本管理的國壽雙碳基金與國壽長三角科創基金聯合出手，共同領投安徽中科聚變太赫茲科技股份有限公司（簡稱 “中科聚變太赫茲”）新一輪股權融資，這是兩隻基金在可控核聚變及高階裝備領域的重要落子。國壽雙碳基金、國壽長三角科創基金表示，將以此次投資為契機，持續深化產業鏈佈局，更好發揮保險資金 “壓艙石” 與 “長期資本” 作用，協同多方資源助力被投企業築牢核心技術壁壘、加快重大專案交付，為我國可控核聚變產業高質量發展提供支撐。"
+    },
+    {
+      "id": "5103932",
+      "time": "2026-09-20 17:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度搭子使用者規模環比增長9倍】9月20日，百度智慧雲超級智慧體大會深圳站舉行。會上，百度搭子升級企業版多人協作能力，釋出企業版移動端和智慧體開發平臺，並啟動生態共創計劃。資料顯示，百度搭子使用者規模環比增長9倍，交付物需求環比增長4.3倍，專家套件使用量環比增長7.3倍。"
+    },
+    {
+      "id": "5103931",
+      "time": "2026-09-20 17:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交個朋友全面下架溜溜凳，涉事供應商注資僅10萬】近日，有消費者稱，其在“交個朋友智慧家居爆品榜”購買的89.9元“萬向輪溜溜凳”存在材料質量問題，並長期散發異味。記者瞭解到，該店鋪確為交個朋友旗下店鋪，此前曾銷售這款溜溜凳，目前該產品已全面下架。據媒體披露，該產品的實際銷售商家為“假日童年雲棲傢俱專賣店”，備案經營主體為“廈門雲棲傢俱有限公司”。企查查APP顯示，該公司成立於2026年6月，註冊資本僅10萬元。"
+    },
+    {
+      "id": "mkt:01a0be16-f6bf-7118-8615-005426ff4e38",
+      "time": "2026-09-20 17:12:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O"
+      ],
+      "text": "【Baidu's Shen Dou: industry intelligent agents will vertically penetrate enterprise operating, IT and resource layers】Sept 20 — At Baidu Smart Cloud’s Super Intelligent Agent Conference, Baidu Executive VP and head of Baidu Smart Cloud Shen Dou said deployment of industry intelligent agents is more than a technical roll‑out; it is an organizational transformation that will vertically penetrate enterprise operating systems, IT systems and underlying resources. He said enterprises must achieve three layers of penetration: resource layer — compose resources on demand around tasks and enable flexible scheduling; tool layer — expose standard interfaces so agents can be invoked, composed and governed; organization layer — reorganize cross‑department collaboration, accountability and risk‑control around task‑centric workflows."
+    },
+    {
+      "id": "5103930",
+      "time": "2026-09-20 17:11:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度沈抖：產業智慧體會縱向穿透企業經營系統、IT系統和底層資源】9月20日，百度智慧雲超級智慧體大會上，百度集團執行副總裁、百度智慧雲事業群總裁沈抖表示，產業智慧體落地不僅是技術應用，更是一場組織變革，將縱向穿透企業經營系統、IT系統和底層資源。企業需實現資源、工具和組織三層穿透：資源層面向任務按需組合、靈活排程；工具層透過標準介面，讓智慧體實現呼叫、組合與治理；組織層則需“以任務為中心”重塑跨部門協作、權責與風控機制。"
+    },
+    {
+      "id": "5103929",
+      "time": "2026-09-20 17:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度沈抖：產業智慧體將推動企業經營系統進入“任務自主化”時代】9月20日，在百度智慧雲超級智慧體大會深圳站上，百度集團執行副總裁、百度智慧雲事業群總裁沈抖表示，智慧體的價值不僅在於降本增效，更在於幫助企業創造新產品、新服務和新增長空間，產業智慧體將推動企業經營系統從資訊數字化、流程軟體化，邁向“任務自主化”階段。"
+    },
+    {
+      "id": "5103928",
+      "time": "2026-09-20 17:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍襲擊烏克蘭多地致3人死亡】烏克蘭國家緊急情況局20日在社交媒體釋出訊息說，俄軍19日傍晚至20日凌晨襲擊烏多地，已致3人死亡。烏國家緊急情況局說，俄軍對第聶伯羅彼得羅夫斯克州、基輔州、文尼察州、敖德薩州和扎波羅熱地區的購物中心、居民樓、鐵路設施和工業設施等發動襲擊。截至20日上午，襲擊已造成3人死亡、多人受傷，死者包括兩名3歲兒童。（新華社）"
+    },
+    {
+      "id": "5103927",
+      "time": "2026-09-20 17:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿根廷卡法亞特以西 64 公里處發生 5.3 級地震。"
+    },
+    {
+      "id": "5103926",
+      "time": "2026-09-20 17:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【格陵蘭島民眾擔心美國獲得“獨佔權”】美國18日宣佈與丹麥及其自治領地格陵蘭島達成新安全協議，但協議具體內容尚未對外公佈。格陵蘭島當地居民對此心情複雜，擔心美國藉此獲得“獨佔權”。據美國《紐約時報》19日報道，格陵蘭島南部小鎮納爾薩克的退休教師埃倫·弗雷澤裡克森在接受電話採訪時說，對於新達成的協議，“我的第一反應是緊張和疑慮”。按照美國總統特朗普的描述，“聽起來好像他被賦予對格陵蘭島的獨佔權，我真心希望事實不是這樣”。（新華社）"
+    },
+    {
+      "id": "5103925",
+      "time": "2026-09-20 17:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉春雷任新疆維吾爾自治區黨委常委、紀委書記】中共中央批准：劉春雷同志任新疆維吾爾自治區黨委委員、常委和自治區紀委書記。（澎湃）"
+    },
+    {
+      "id": "5103924",
+      "time": "2026-09-20 17:03:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：因二級市場價格溢價 9月21日起臨時停牌】納指ETF嘉實公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月18日，本基金二級市場收盤價為2.129元，收盤時基金份額參考淨值（IOPV）為1.8634元。為保護投資者利益，本基金將於2026年9月21日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5103923",
+      "time": "2026-09-20 17:03:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF大成：二級市場交易價格溢價風險提示】納斯達克100ETF大成公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。2026年9月18日，本基金二級市場收盤價為1.821元，收盤時基金份額參考淨值（IOPV）為1.6579元。若2026年9月21日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。截至目前，本基金運作正常，無應披露而未披露的重大資訊。敬請投資者密切關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5103922",
+      "time": "2026-09-20 17:03:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：因二級市場溢價9月21日起臨時停牌】納指ETF廣發公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月18日，本基金二級市場收盤價為1.678元，收盤時基金份額參考淨值為1.4852元。為保護投資者利益，本基金將於2026年9月21日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "mkt:01a0be0c-9309-7118-8614-fa65657c0e13",
+      "time": "2026-09-20 17:01:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qiyuan personal robots go on sale, starting at 19,999 yuan】Sept. 20 — Shangwei New Materials Technology Co., Ltd.'s consumer-grade embodied-intelligence brand Qiyuan Robot launched two personal-robot lines in Shanghai and began sales with immediate shipping. Prices: Qiyuan Q1 19,999 yuan; Q1 Explorer 26,999 yuan; Qiyuan T1 19,999 yuan; T1 Pro 29,999 yuan. The company also announced brand, technology, product and ecosystem strategies."
+    },
+    {
+      "id": "5103921",
+      "time": "2026-09-20 17:01:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟元機器人正式發售 售價19999元起】9月20日，上緯新材料科技股份有限公司（下稱“上緯新材”）旗下消費級具身智慧品牌啟元機器人在上海舉辦“我和我的個人機器人”主題新品釋出會，正式發售啟元Q1、啟元T1兩款個人機器人，並同步公佈品牌、技術、產品與生態戰略。此次釋出會，兩款產品實現發售即發貨。啟元Q1售價19999元，啟元Q1探索版售價26999元；啟元T1售價19999元，啟元T1 Pro售價29999元。（上海證券報）"
+    },
+    {
+      "id": "5103920",
+      "time": "2026-09-20 17:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 日本首相將在聯合國呼籲航行自由。"
+    },
+    {
+      "id": "5103919",
+      "time": "2026-09-20 16:58:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【下週央行公開市場將有2720億元逆回購到期】Wind資料顯示，下週（9月21日至24日）央行公開市場將有2720億元逆回購到期，其中週一至週四分別到期0億元、0億元、1100億元、1620億元。此外，下週二（9月22日）還將有1800億元3個月期國庫現金定存到期。"
+    },
+    {
+      "id": "5103918",
+      "time": "2026-09-20 16:55:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州銀行：董事、副行長李偉因工作調動辭任】蘇州銀行(002966)9月20日公告，李偉因工作調動，向董事會提請辭去執行董事、副行長及董事會相關專門委員會職務，自9月19日生效。李偉辭任後將不再在公司及控股子公司任職。截至公告披露日，李偉持有公司21.75萬股股份。"
+    },
+    {
+      "id": "mkt:01a0be07-737f-7118-8614-f22d85747325",
+      "time": "2026-09-20 16:55:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【MOFCOM e‑commerce department outlines China e‑commerce trends Jan‑Aug 2026】China's online retail of goods and services rose 4.6% YoY in Jan‑Aug 2026, with goods up 4.3% and services up 5.1%, National Bureau of Statistics data showed. MOFCOM estimates e‑commerce contributed 1.3 percentage points to overall retail sales growth over the period. MOFCOM big‑data monitoring showed faster growth in digital and health categories: online sales of mobile phones and outdoor apparel climbed 6.8% and 6.9% YoY. Instant retail transaction value posted double‑digit YoY growth, and on major e‑commerce platforms online sales of tourism and lifestyle services jumped 23.8% and 15.6% YoY, respectively. MOFCOM said Silk Road e‑commerce partner countries continued to expand, deepening international trade cooperation."
+    },
+    {
+      "id": "5103917",
+      "time": "2026-09-20 16:55:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞鵠模具可轉債中籤號出爐 共約21.03萬個】瑞鵠模具(002997)9月20日披露可轉債網上中籤結果，中籤號碼共約21.03萬個，每個中籤號碼只能認購10張（1000元）瑞鵠轉02。"
+    },
+    {
+      "id": "5103916",
+      "time": "2026-09-20 16:52:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國際生物醫藥產業創新北京論壇全體大會召開】9月19日，2026國際生物醫藥產業創新北京論壇全體大會在北京經濟技術開發區召開。本次大會以“匯聚全球創新，探究生命前沿”為主題，集中釋出一批全市醫藥健康產業最新成果。會上，北京市公佈12個2026年新落地重點專案，其中8大專案落位北京經開區，涵蓋區域總部、戰略新興總部、研發與產業化基地等多種型別。（新京報）"
+    },
+    {
+      "id": "mkt:01a0be03-d8cd-7118-8614-ee03cc606f8e",
+      "time": "2026-09-20 16:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Plenary at 2026 International Biopharma Industry Innovation Beijing Forum】On Sept 19 the plenary of the 2026 International Biopharma Industry Innovation Beijing Forum convened in the Beijing Economic-Technological Development Area. Beijing released a batch of municipal biopharma and healthcare industry results and announced 12 priority projects newly established in 2026; eight are sited in the Beijing Economic-Technological Development Area, covering regional headquarters, strategic emerging-company headquarters, and R&D and industrialization bases."
+    },
+    {
+      "id": "5103915",
+      "time": "2026-09-20 16:51:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北省人大教育科學文化衛生委員會原主任委員郭忠被開除黨籍】中央紀委國家監委網站9月20日通報，據湖北省紀委監委訊息：經湖北省委批准，湖北省紀委監委對湖北省人大教育科學文化衛生委員會原主任委員郭忠嚴重違紀違法問題進行了立案審查調查。經查，郭忠喪失理想信念，背棄初心使命，對黨不忠誠、不老實，對抗組織審查；組織原則缺失，在幹部選拔任用等工作中違規為他人謀利；廉潔底線失守，違規收受禮品、禮金，搞權色交易；生活腐化；毫無紀法底線，利用職務便利為他人在工程承攬、職務晉升等方面謀利，並非法收受鉅額財物。郭忠嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經湖北省紀委常委會會議研究並報湖北省委批准，決定給予郭忠開除黨籍處分；按規定取消其享受的退休待遇；終止其湖北省第十二次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "5103914",
+      "time": "2026-09-20 16:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，熱帶風暴奧達利斯在加利福尼亞州巴哈半島西南遠處形成。"
+    },
+    {
+      "id": "5103913",
+      "time": "2026-09-20 16:47:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "商務部電子商務司負責人介紹2026年1-8月我國電子商務發展情況。"
+    },
+    {
+      "id": "5103912",
+      "time": "2026-09-20 16:47:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美向盟友交付關鍵武器或延遲5年】據報道，美國已警告盟友，由於其部分武器彈藥庫存耗盡，某些關鍵武器的交付最長可能會延遲五年。報道稱，德國已要求美國加快交付“戰斧”巡航導彈和“堤豐”導彈系統，但製造商不太可能在未來五年內完成相關訂單。報道稱，據估計，美國在伊朗戰事中使用了超過一半的“愛國者”導彈、三分之一的“戰斧”導彈，以及近一半的“薩德”反導系統攔截彈。美國國會預算辦公室本月釋出報告稱，自2025年6月以來，美國攔截彈庫存已消耗了二分之一至三分之二，即使在增加生產的前提下，重建美國攔截彈庫存也至少需要五年時間。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5103911",
+      "time": "2026-09-20 16:47:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國牽頭編制的IEC抽水蓄能趨勢白皮書正式釋出】由我國牽頭編制的首項以抽水蓄能為主題的《抽水蓄能的未來：技術創新與標準化趨勢（2025—2035）》IEC社會與技術趨勢白皮書近日正式釋出。該白皮書的釋出標誌著我國在抽水蓄能國際前沿技術與標準化研究中實現新突破。該白皮書系統梳理全球抽水蓄能技術發展、工程實踐和標準化需求，介紹了雅礱江流域水風光一體化基地、豐寧抽蓄電站變速機組、烏海抽蓄電站等我國標杆性重大示範工程成果，展現了我國在新能源基地協同開發、變速機組應用和數字化建設方面的探索成果。 (央視財經)"
+    },
+    {
+      "id": "mkt:01a0bdfb-d90f-7118-8614-e52416748863",
+      "time": "2026-09-20 16:43:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Berlin, Mecklenburg-Vorpommern votes put MERZ at risk after AfD surge】State elections in Berlin and Mecklenburg‑Vorpommern are scheduled for the 20th. A ZDF poll on the 17th put CDU support in Mecklenburg‑Vorpommern at 6%, just above the 5% threshold for parliamentary representation; falling below 5% would be \"a nightmare\" and could be the final straw to topple MERZ. The risk follows AfD's roughly 44% win in Saxony‑Anhalt two weeks ago, where the CDU's vote share plunged to about 17%."
+    },
+    {
+      "id": "5103910",
+      "time": "2026-09-20 16:41:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【二手車鑑定評估將新增泡水、火燒事故專項鑑定標準】由中國汽車流通協會主辦的《二手車鑑定評估技術規範》國家標準修訂研討會暨鑑定評估技術交流會在浙江杭州舉行。據悉，本次修訂工作將圍繞五大維度展開，包括重構事故車判定邏輯與分級體系，新增泡水、火燒事故專項鑑定標準及新能源汽車三電系統鑑定內容等。懂車帝與來自主機廠、汽車經銷商集團、二手車交易市場、二手車經銷商、鑑定評估機構、職業院校、法院系統等的代表近30人參與了此次研討。"
+    },
+    {
+      "id": "5103907",
+      "time": "2026-09-20 16:39:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電視越買越大？海信視像科技總裁李煒：未來五年120英寸鐳射電視將成為行業主流】9月20日，第7屆鐳射顯示技術與產業發展大會在北京舉辦。會上，海信視像科技總裁李煒稱，從行業迭代規律來看，電視從55英寸迭代至65英寸用了七年時間；從65英寸迭代至75英寸僅用了一年時間。在過去四年時間裡，85英寸的大屏銷量增長了441%，百英寸以上的大屏銷量則上漲了890%。李煒稱，大尺寸電視已經成為不可逆的消費升級趨勢。然而，從技術壁壘和成本結構的角度看，超過100英寸的液晶電視，其成本會隨著尺寸的增長呈現指數級的增長。目前116英寸大屏電視已經實現批次生產，但價格仍居高不下，難以普及。同時，OLED受工藝限制，超過100英寸（電視）也很難落地量產。與之相比，鐳射大尺寸的成本相對可控，還可以摺疊屏形式降低入戶難度。在他看來，未來五年，120英寸鐳射電視將成為行業主流。"
+    },
+    {
+      "id": "5103905",
+      "time": "2026-09-20 16:34:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：中國西電盈利能力持續提升，特高壓建設剛性且持續】中信建投證券研報指出，中國西電2026H1業績同比增加約15%，實現穩健增長。2026H1公司銷售毛利率24.5%，同比提升2.9pct，盈利能力持續提升。2026H1公司開關、變壓器核心產品貢獻核心增量。電網建設景氣度較高，預計“十五五”期間全國電網固定資產投資達到5萬億元以上，較“十四五”同期相比增長超80%，提供了穩定增長的需求。沙戈荒大基地外送以及西南水電外送需求的帶動下，特高壓建設剛性且持續。公司市場地位穩固，組合電器、變壓器等產品位居行業前列，並前瞻佈局固態變壓器產品。公司作為輸配電一次裝置綜合龍頭，將受益於電網建設較高景氣，下游市場需求旺盛。該行預計公司2026/2027 年歸母淨利潤為15.2/18.3億元，PE 40.6/33.7x。"
+    },
+    {
+      "id": "5103904",
+      "time": "2026-09-20 16:32:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒙泰高新：擬申請不超9200萬元政策性金融工具借款】蒙泰高新公告稱，公司擬向進銀新型政策性金融工具有限公司申請額度不超過9200萬元的新型政策性金融工具借款，期限不超過84個月，專項用於補充控股孫公司廣東納塔年產1萬噸碳纖維及6萬噸差別化腈綸一階段專案的資本金缺口。借款以公司或全資子公司部分自有不動產、生產裝置設定最高額抵押擔保，由中國進出口銀行廣東省分行作為管理人授權機構負責借款發放、回收等管理事宜。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議，具體借款金額、條件以最終審批及正式合同為準。"
+    },
+    {
+      "id": "5103903",
+      "time": "2026-09-20 16:30:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【餐飲轉入“存量深耕”，美團魏巍：努力把線上能力變成餐飲老闆的線下生意】9月20日，在2026美團到店餐飲產業大會暨黑珍珠餐廳指南食見先鋒大會上，美團副總裁、美團到店餐飲事業部總經理魏巍表示，儘管市場風口有來有走，美團進入到店餐飲行業十五年，始終不變的就是做品質餐飲的長期陪伴者。近年來，餐飲大盤轉向“存量深耕”，美團資料顯示，高店齡門店佔比持續提升，供需兩側均呈現出更好的集中度。魏巍認為，在當前餐飲市場，優秀餐飲店也面臨著挑戰的週期，但低價只是短期戰略，長期留存更考驗一家好餐廳的“真材實料”“真手藝”“真體驗”和“真增長”。"
+    },
+    {
+      "id": "5103902",
+      "time": "2026-09-20 16:30:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟元機器人CEO田華：以造車標準造“機器人”，2.5分鐘下線一個機器人】今日舉辦的2026啟元機器人全球產品釋出會上，啟元機器人釋出啟元Q1與啟元T1兩款個人機器人產品，宣佈開啟“個人機器人”時代。“今天是行業第一個量產消費級機器人釋出會。”據上緯新材、啟元機器人CEO田華介紹，公司正以造車的標準和效率量產能力，每2.5分鐘下線一個機器人，且每個機器人的裝配資料終身可查，保證交付到使用者手中的每一個機器人，真正的安全可靠。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0bdeb-c0f6-7118-8614-dbb43ec7e749",
+      "time": "2026-09-20 16:25:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Li Chenggang appointed People's Republic of China representative for international trade negotiations (minister-level)】Sept 20 — China's State Council announced personnel changes. Yu Xiaohui was appointed vice minister of the Ministry of Industry and Information Technology; Pan Wenbo was appointed vice minister of the Ministry of Agriculture and Rural Affairs; Li Chenggang was appointed Representative for International Trade Negotiations of the People's Republic of China (minister-level), with Ling Ji concurrently named deputy representative; Cai Dong was appointed deputy director of the National Financial Regulatory Administration; Zhang Yongjun was appointed deputy director of the Cyberspace Administration of China; Zhang Xiaotang was appointed deputy director of the State Tobacco Monopoly Administration. The State Council removed Niu Yibing from the post of deputy director of the Cyberspace Administration of China."
+    },
+    {
+      "id": "5103901",
+      "time": "2026-09-20 16:22:52",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【李成鋼任中華人民共和國國際貿易談判代表（正部長級）】國務院任免國家工作人員。任命餘曉暉為工業和資訊化部副部長；任命潘文博為農業農村部副部長；任命李成鋼為中華人民共和國國際貿易談判代表（正部長級）；凌激兼任中華人民共和國國際貿易談判副代表；任命蔡東為國家金融監督管理總局副局長；任命張擁軍為國家網際網路資訊辦公室副主任；任命張孝堂為國家菸草專賣局副局長；任命劉震為國家中醫藥管理局副局長。免去徐青森的教育部副部長職務；免去胡衛列的司法部副部長職務；免去牛一兵的國家網際網路資訊辦公室副主任職務；免去廖志偉的長江水利委員會主任職務。（澎湃）"
+    },
+    {
+      "id": "5103900",
+      "time": "2026-09-20 16:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼救援機構官員稱，在爪哇海傾覆客輪中尋獲更多遇難者。"
+    },
+    {
+      "id": "5103899",
+      "time": "2026-09-20 16:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京新藥業：更新遞交H股發行上市申請並刊發申請資料】京新藥業公告稱，公司正在推進申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市相關工作，此前已於2026年2月11日向香港聯交所遞交發行上市申請並刊登申請材料。2026年9月18日，公司向香港聯交所更新遞交本次發行上市申請，並於同日在香港聯交所網站刊登更新申請資料，該資料為草擬版本，所載資料可能適時更新修訂。本次發行上市尚需取得相關監管機構批准或備案，存在不確定性。"
+    },
     {
       "id": "5103898",
       "time": "2026-09-20 16:20:26",
