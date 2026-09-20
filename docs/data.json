@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-20 20:58:36",
-  "count": 13636,
+  "updated": "2026-09-20 21:02:52",
+  "count": 13639,
   "items": [
+    {
+      "id": "5104048",
+      "time": "2026-09-20 21:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國推進7項天然氣國際標準成功立項】記者今天瞭解到，國際標準化組織近日批准由我國牽頭的7項天然氣國際標準全部立項。本批標準涵蓋頁岩氣勘探開發、天然氣碳足跡核算、天然氣儲層岩心取樣、天然氣水合物測試等產業鏈上游關鍵領域，將有利於構建全球統一的天然氣技術規則，推動清潔低碳、安全高效的全球能源體系建設。（央視新聞）"
+    },
+    {
+      "id": "5104047",
+      "time": "2026-09-20 20:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及總統：支援政治途徑解決伊朗、巴勒斯坦問題】埃及總統塞西20日在會見到訪的美國中央情報局局長拉特克利夫時表示，支援以政治途徑解決伊朗、巴勒斯坦等地區熱點問題。根據埃及總統府當天發表的宣告，塞西在會見中表示，埃及全力支援旨在達成全面協議、解決伊朗危機的努力，以推動恢復地區安全與穩定，保障國際航行自由。他強調，應透過政治和外交途徑解決地區危機。（新華社）"
+    },
+    {
+      "id": "mkt:01a0bee5-d325-7118-8616-681654a3e081",
+      "time": "2026-09-20 20:58:47",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【China Merchants Securities says earnings-backed large-cap tech likely to see catch-up gains; market may be nearing inflection point】China Merchants Securities says the Fed’s expected 25bp hike and relatively hawkish dot plot (implying one more hike this year) are a realized negative shock, leaving few major macro variables to drive markets short term and prompting a return to sector-level pricing. China’s August data show marginal production recovery, weak aggregate demand and divergence between old and new growth drivers; aggregate weakness is largely priced while structural strength is concentrated in tech and exports. Continued US–Iran tension alongside increased diplomacy has eased oil from recent highs, marginally reducing geopolitical risk. As macro pressure eases and prior crowding is digested, funds are rotating back to tech — TMT’s share of mainland turnover rose to 43% this week — and earnings-supported large-cap tech look set for catch-up gains; monitor AI compute chain, CPO industry chain, resource-price beneficiaries and export-linked names."
+    },
+    {
+      "id": "5104046",
+      "time": "2026-09-20 20:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗在邊境地區部署大規模部隊】伊朗軍隊陸軍司令賈漢沙希表示，為應對潛在威脅，自戰爭爆發至今，大規模部隊仍部署在伊朗西北、西、西南、東、東北及東南邊境沿線以及沿海地區。伊朗陸軍部隊的各類單位，包括特種部隊、快速反應部隊、機械化部隊及炮兵部隊均已部署在該國邊境地區，保持高度戰備狀態。 (CCTV國際時訊)"
+    },
     {
       "id": "mkt:01a0bee0-fef0-7118-8616-65e21686cea1",
       "time": "2026-09-20 20:53:31",
@@ -124992,14 +125029,6 @@
         "Europe & UK"
       ],
       "text": "【Trump says he hopes to see Ireland and Northern Ireland ‘united’; draws UK political backlash】On a visit to Ireland on the 12th, US President Trump said he would like to see Ireland and Northern Ireland \"united.\" The remark drew swift rebuttals from UK politicians: Conservative Party leader Kemi Badenoch said on social media that \"Trump is, as always, talking recklessly, just like when he talked about Greenland and wanted Canada to become the 51st US state,\" and insisted Northern Ireland is part of the UK. Reform UK leader Nigel Farage said Northern Ireland is a proud, indivisible part of the United Kingdom."
-    },
-    {
-      "id": "5091443",
-      "time": "2026-09-13 20:59:12",
-      "tags": [
-        "資料"
-      ],
-      "text": "【招商證券：宏觀壓制逐步落地，中期佈局機會顯現】招商證券釋出研報指出，本週CPI靴子落地，雖然小幅超預期，但市場基本已經完成計價，宏觀主導的交易或將告一段落。下一階段產業的變化將成為市場執行主線，新模型在Agent、科研領域的突破將逐漸開啟AI盈利天花板。週五美股普遍反彈，但結構分化明顯，市場更加獎勵邊際利好變化，淡化中長期邏輯，預計A股也將演繹這一邏輯，後續建議關注科技成長、AI算力鏈、CPO產業鏈，以及資源品漲價方向。"
     }
   ]
 }
